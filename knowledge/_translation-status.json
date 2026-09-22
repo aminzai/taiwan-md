@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-23T04:23:30+08:00",
-    "zhCommitHead": "d65137e81",
+    "lastUpdated": "2026-09-23T04:35:51+08:00",
+    "zhCommitHead": "c33c6cf7f",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1045,
+        "fresh": 1046,
         "stale": 34,
         "metadata_stale": 7,
-        "missing": 38,
+        "missing": 37,
         "orphan": 0
       },
       "hi": {
@@ -74986,11 +74986,11 @@
           "sourceContentHash": "sha256:0acd5b8de068abbb",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-22T19:34:54.658556+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c33c6cf7",
+          "translationLastModified": "2026-09-23T04:23:31+08:00",
           "inferred": false,
           "footnoteDefs": 45,
-          "bytes": 60038,
+          "bytes": 60040,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -115623,8 +115623,8 @@
           "sourceContentHash": "sha256:9978590a40b2bfce",
           "sourceBodyHash": "sha256:2eaa36629936ca3c",
           "translatedAt": "2026-09-23T01:05:24+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c33c6cf7",
+          "translationLastModified": "2026-09-23T04:23:31+08:00",
           "inferred": false,
           "footnoteDefs": 23,
           "bytes": 31999,
@@ -194855,8 +194855,8 @@
           "sourceContentHash": "sha256:4e7a3c516a1c10ae",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-22T20:01:03.678334+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c33c6cf7",
+          "translationLastModified": "2026-09-23T04:23:31+08:00",
           "inferred": false,
           "footnoteDefs": 36,
           "bytes": 44820,
@@ -208874,7 +208874,20 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Culture/taiwan-soundscape.md",
+          "translatedFrom": "Culture/台灣聲景.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:819a7ee143f7b981",
+          "sourceBodyHash": "sha256:efd1cd3b8e9f03d6",
+          "translatedAt": "2026-09-23T04:15:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 24,
+          "bytes": 34347,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Culture/taiwan-soundscape.md",

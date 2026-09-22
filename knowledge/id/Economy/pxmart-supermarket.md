@@ -1,10 +1,16 @@
 ---
-title: 'PX Mart (全聯福利中心): Dari Pusat Kesejahteraan "Gelap dan Bau" ke Raja Ritail Taiwan — Sebuah Kebalikan'
-description: 'Pada 1998, Lin Min-hsiung mengambil alih 66 "pusat kesejahteraan militer-sipil-guru" yang "gelap dan bau", dan dengan disiplin baja "lebih murah 20%, margin 2%", memperluasnya menjadi 1.200 gerai dalam dua puluh lima tahun. Ini bukan sekadar revolusi ritail, melainkan legenda bagaimana seorang tauke properti menggunakan logika "memberikan keuntungan kepada konsumen", mengubah supermarket menjadi platform kehidupan berfrekuensi tinggi bagi orang Taiwan.'
+title: 'FamilyMart Welfare Center: Kebangkitan dari Koperasi Suram Menjadi Raja Ritel Taiwan'
+description: 'Pada tahun 1998, Lin Min-hsiung mengambil alih 66 toko koperasi militer dan pegawai negeri yang "suram", dan dengan disiplin baja "murah 20%, laba 2%", ia memperluasnya hingga 1.200 gerai dalam dua puluh lima tahun. Ini bukan hanya revolusi ritel, tetapi kisah seorang taipan properti mengubah supermarket menjadi platform kehidupan sehari-hari masyarakat Taiwan melalui logika "memberi keuntungan".'
 date: 2026-04-21
 category: 'Economy'
 tags:
-  ['PX Mart', 'Lin Min-hsiung', 'industri ritail', 'PXPay', 'ekonomi Taiwan']
+  [
+    'FamilyMart',
+    'Lin Min-hsiung',
+    'industri ritel',
+    'pembayaran digital',
+    'ekonomi Taiwan',
+  ]
 subcategory: '企業列傳'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -12,69 +18,69 @@ lastVerified: 2026-04-21
 lastHumanReview: false
 readingTime: 8
 translatedFrom: 'Economy/全聯福利中心.md'
-sourceCommitSha: '50617dc14'
-sourceContentHash: 'sha256:25424dad4bf389f3'
+sourceCommitSha: '4dd14cf66'
+sourceContentHash: 'sha256:6ebac68ebf527a7d'
 sourceBodyHash: 'sha256:cf4e3b7d187326d2'
-translatedAt: '2026-07-27T07:04:46+08:00'
+translatedAt: '2026-09-23T02:56:16+08:00'
 ---
 
-> **Ringkasan 30 Detik:** Pada 1998, tauke properti Lin Min-hsiung mengambil alih "Pusat Kesejahteraan Militer-Sipil-Guru Republik Tiongkok" (全聯社) yang mengalami kerugian bertahun-tahun dan hanya tersisa 66 gerai. Sebagai "orang luar" industri, ia menetapkan garis kelangsungan hidup "lebih murah 20%, margin 2%", dengan paksa membuka jalan hidup supermarket di celah antara raksasa minimarket 7-ELEVEn dan raksasa hipermarket. Kini PX Mart sudah menjadi penguasa ritail dengan pendapatan tahunan melebihi 200 miliar dan memiliki 1.200 gerai, namun kontroversi monopoli di balik ekspansi cepatnya serta sakit tumbuh transformasi digital, sedang menguji "platform kehidupan" ini untuk dua puluh tahun ke depan.
+> **Ringkasan 30 Detik:** Pada tahun 1998, taipan properti Lin Min-hsiung mengambil alih koperasi militer dan pegawai negeri yang merugi selama bertahun-tahun dengan hanya 66 gerai. Sebagai "orang luar," ia menetapkan garis merah bertahan hidup: "murah 20%, laba 2%," dan secara paksa menciptakan jalan bagi supermarket di antara raksasa minimarket terpadu dan grosir. Kini, FamilyMart adalah penguasa ritel dengan pendapatan tahunan melebihi 200 miliar dan 1.200 gerai, tetapi kontroversi monopoli dan rasa sakit transformasi digital di balik ekspansi cepatnya sedang menguji dua puluh tahun berikutnya bagi "platform kehidupan" ini.
 
-"Sejujurnya, sebelum mengambil alih saya tidak pernah belanja di sana, pertama kali masuk pikiran saya hanya: wah, kok gelap-gelap dan bau-bau, siapa mau belanja di sini!" Pada 2018, Ketua Dewan Direksi PX Mart, Lin Min-hsiung, dalam acara peluncuran bukunya, dengan jujur mengingat kesan pertamanya pada 1998 saat baru mengambil alih "PX Mart" dari pemerintah. Saat itu, ia adalah Ketua Dewan Direksi Yuanli Construction, seorang tauke properti yang tidak tahu apa-apa tentang industri ritail, namun tak terduga menjadi pembangkit revolusi supermarket Taiwan.
+"Sejujurnya, saya belum pernah berkunjung sebelum mengambil alih; saat pertama kali berjalan ke sana, pikiran saya hanya: Wah, kok suram sekali, siapa yang mau belanja di sini!" Pada tahun 2018, CEO FamilyMart, Lin Min-hsiung, dengan lugas mengenang guncangan ketika ia mengambil alih "FamilyMart Society" dari pemerintah pada tahun 1998 dalam konferensi pers buku barunya. Saat itu, ia adalah direktur Yuanli Construction, seorang taipan properti yang tidak mengerti apa-apa tentang ritel, namun secara tak terduga menjadi pemantik revolusi supermarket Taiwan.
 
-### Logika "Memberikan Keuntungan" Seorang Tauke Properti
+### Logika "Memberi Keuntungan" Sang Taipan Properti
 
-Pada 1998, Yuan Eksekutif memutuskan memprivatasikan "Gabungan Koperasi Republik Tiongkok" (全聯社). Saat itu fasilitas PX Mart sudah tua, pencahayaan redup, dan hanya terbuka untuk personel militer, sipil, dan guru, sehingga dalam persaingan pasar bebas hampir tidak memiliki peluang menang. Setelah mengambil alih, langkah pertama Lin Min-hsiung adalah menghapus batasan, membiarkan seluruh warga Taiwan masuk berbelanja.
+Pada tahun 1998, Dewan Eksekutif memutuskan untuk melakukan privatisasi terhadap "Asosiasi Koperasi Republik Tiongkok (Taiwan)" (FamilyMart Society). Pada saat itu, FamilyMart Society memiliki peralatan yang usang, pencahayaan redup, dan hanya dapat dimasuki oleh personel militer dan pegawai negeri; ia hampir tidak memiliki peluang dalam persaingan pasar bebas. Setelah Lin Min-hsiung mengambil alih, hal pertama yang ia lakukan adalah mendobrak batasan, memungkinkan semua orang Taiwan untuk berbelanja.
 
-Namun yang dihadapinya adalah pasar yang sangat kejam: di atas ada Carrefour dan RT-Mart yang menekan harga, di bawah ada 7-ELEVEn milik Uni-President yang tersebar di seluruh Taiwan dengan kenyamanan belanja. Lin Min-hsiung memilih jalan paling "bodoh" sekaligus paling keras: **kemurahan ekstrem**.
+Namun, ia menghadapi pasar yang sangat kejam: di satu sisi ada toko grosir seperti Carrefour dan RT-Mart yang menekan harga, dan di sisi lain ada minimarket 7-ELEVEN yang tersebar di seluruh Taiwan. Lin Min-hsiung memilih jalan yang paling bodoh namun paling keras: **harga yang ekstrem murah**.
 
-Ia menetapkan sebuah "hukum langit": barang PX Mart harus 20% lebih murah dari kompetitor, tetapi margin keuntungan hanya 2%. Di mata industri ritail saat itu, ini hampir sama dengan bunuh diri. Lin Min-hsiung pernah mengingat, masa awal berdirinya, setiap hari Senin sore, tim berkumpul di meja murah untuk berdiskusi, satu-satunya target hanyalah "skala". Ia sangat tahu, hanya dengan jumlah gerai yang banyak, barulah bisa mendapatkan harga beli lebih murah dari pemasok, sehingga bisa mempertahankan margin 2% yang tipis itu.
+Ia menetapkan "aturan langit": produk FamilyMart harus 20% lebih murah daripada orang lain, tetapi laba hanya boleh diambil sebesar 2%. Di mata industri ritel saat itu, ini sama saja dengan tindakan bunuh diri. Lin Min-hsiung pernah mengenang bahwa di awal pendirian perusahaan, tim berkumpul setiap Jumat sore di meja murah untuk berdiskusi, satu-satunya tujuan adalah "skala." Ia tahu betul bahwa hanya dengan jumlah toko yang cukup banyak, ia dapat mendapatkan harga beli yang lebih rendah dari pemasok, dan dengan demikian mempertahankan laba tipis sebesar 2%.
 
-📝 **Catatan Kurator:** Kesuksesan PX Mart bukan karena ia paham ritail, melainkan karena ia paham "memberikan keuntungan". Lin Min-hsiung menggunakan gaya besar-besaran industri properti, untuk mengelola setiap keuntungan kecil per uang receh.
+📝 Catatan Kurator: Keberhasilan FamilyMart bukan karena mereka mengerti ritel, tetapi karena mereka mengerti "memberi keuntungan." Lin Min-hsiung menggunakan skala besar industri konstruksi untuk mengelola setiap sen kecil.
 
-### Dari "Sungguh Murah" ke "Estetika Kehidupan PX Mart"
+### Dari "Benar-benar Murah" Menjadi "Estetika Hidup FamilyMart"
 
-Titik balik PX Mart muncul pada 2006. Saat itu PX Mart bekerjasama dengan Ogilvy, meluncurkan serial iklan dibintangi "Tuan PX Mart" Chiu Yen-hsiang. Dalam iklan tersebut tidak ada tata ruang mewah, hanya Tuan PX Mart dengan ekspresi datar menghitung bagaimana PX Mart menghemat biaya iklan, menghemat biaya seragam cantik, hanya untuk menekan harga. Rasa humor "jujur sampai agak canggung" ini, tepat menyentuh hati konsumen Taiwan, mengubah PX Mart dari "tempat orang miskin belanja" menjadi "simbol konsumen cerdas".
+Titik balik FamilyMart terjadi pada tahun 2006. Saat itu, FamilyMart menyewa Ogilvy & Mather dan meluncurkan serangkaian iklan yang dibintangi oleh Qiu Yan-sheang sebagai "Pria FamilyMart." Iklan tersebut tidak menampilkan dekorasi mewah, hanya Pria FamilyMart yang tanpa ekspresi menghitung bagaimana FamilyMart menghemat biaya iklan dan biaya seragam cantik, hanya untuk menekan harga. Humor "jujur sampai canggung" ini secara tepat mengenai hati konsumen Taiwan, mengubah FamilyMart dari "toko tempat orang miskin pergi" menjadi "simbol konsumsi cerdas."
 
-Seiring jumlah gerai menembus 250, PX Mart akhirnya untung. Lin Min-hsiung mulai menunjukkan ambisi akuisisi, berturut-turut menelan Shanmeide, Supermarket Pertanian Taipei, Quanmai Supermarket, serta kasus "PX Mart Mengambil Alih RT-Mart" pada 2021 yang mengejutkan industri. Serangkaian aksi ini, membuat PX Mart dari sekadar supermarket, melangkah ke hipermarket dan segar, mengubah total kebiasaan belanja sayur warga Taiwan.
+Ketika jumlah toko melampaui 250, FamilyMart akhirnya mencapai keuntungan. Lin Min-hsiung mulai menunjukkan ambisi akuisisi, menyerap Sanmei De, Taipei Agricultural Supermarket, Quanmai Supermarket, dan kasus yang mengejutkan industri pada tahun 2021, "Akuisisi RT-Mart oleh FamilyMart." Rangkaian tindakan ini mengubah kebiasaan belanja masyarakat Taiwan secara total, dari sekadar supermarket menjadi grosir dan makanan segar.
 
-"Gerak harga, itu hukum langit Ketua Dewan Direksi." CEO PX Mart, Hsieh Chien-nan, pernah begitu menggambarkan keteguhan Lin Min-hsiung soal kemurahan. Bahkan di era melonjaknya harga 2025, PX Mart masih melalui model pertanian kontrak seperti "Kacang Merah Elang Tua" (老鷹紅豆), berusaha menyeimbangkan antara stabilisasi harga pertanian dan dompet konsumen.
+"Menggerakkan harga adalah aturan langit CEO." Xie Jiannan, eksekutif FamilyMart, pernah menggambarkan ketekunan Lin Min-hsiung terhadap harga murah. Bahkan di era kenaikan harga pada tahun 2025, FamilyMart berupaya mencapai keseimbangan antara menstabilkan harga pertanian dan kantong konsumen melalui model kontrak seperti "Old Eagle Red Bean."
 
-### Sakit Tumbuh Transformasi Digital: Krisis "Putus Hubungan" PXPay
+### Rasa Sakit Transformasi Digital: Krisis "Putus Sambungan" Pembayaran Digital
 
-Namun, ekspansi cepat dan transformasi digital juga membawa tantangan tak terduga. Pada 2022, PX Mart meluncurkan pembayaran elektronik "PXPay" (PXPay Plus), berbekal basis anggota yang kuat, dengan cepat menduduki peringkat tiga besar pangsa pasar pembayaran elektronik Taiwan. Namun keberhasilan ini pada akhir 2025 menghadapi krisis kepercayaan yang serius.
+Namun, ekspansi cepat dan transformasi digital juga membawa tantangan yang belum pernah terjadi sebelumnya. Pada tahun 2022, FamilyMart meluncurkan pembayaran elektronik "PXPay Plus," yang dengan basis keanggotaan yang kuat, dengan cepat masuk dalam tiga besar pangsa pasar di Taiwan. Tetapi kesuksesan ini menghadapi krisis kepercayaan serius pada akhir tahun 2025.
 
-November 2025, PXPay meledak kasus pencurian transaksi beruntun. Ada pengguna dalam hitungan menit mengalami 20 kali potongan beruntun, kerugian mencapai 80 ribu yuan. Meskipun pihak PXPay menegaskan sistem aman, menilai ini kerja sindikat penipuan melalui SMS _phishing_ menipu pengguna memasukkan informasi, namun sikap pasif dalam penanganan memicu kemarahan netizen.
+Pada November 2025, PXPay Plus mengalami banyak kasus penipuan kartu. Beberapa pengguna ditagih secara beruntun sebanyak 20 kali dalam beberapa menit, dengan kerugian hingga 80.000 dolar Taiwan. Meskipun pihak resmi PXPay Plus menekankan keamanan sistem dan menganggapnya sebagai upaya penipuan oleh kelompok _phishing_ melalui SMS, sikap pasif selama penanganan memicu kemarahan netizen.
 
-Di platform media sosial Threads dan Facebook, netizen menggelar "Aksi Putus Hubungan PX Mart", mengeluarkan "lima dosa besar" PX Mart: monopoli pasar, kekhawatiran keamanan siber, penandaan tidak benar, kejam pada karyawan, serta sikap arogan terhadap kontroversi. Kebakaran opini ini, mencerminkan bahwa saat PX Mart beralih dari "supermarket tetangga" ke "platform keuangan digital", kualitas layanan dan kemampuan penanganan krisis belum mengejar skala raksasanya.
+Di platform media sosial Threads dan Facebook, para netizen melancarkan "aksi putus sambungan," mendaftar "lima dosa" FamilyMart: monopoli pasar, kekhawatiran keamanan siber, pelabelan palsu, karyawan yang keras, dan kesombongan terhadap insiden kontroversial. Insiden viral ini mencerminkan bahwa ketika FamilyMart bertransisi dari "supermarket lingkungan" menjadi "platform keuangan digital," kualitas layanannya belum mampu mengimbangi skala besarnya.
 
-📝 **Catatan Kurator:** Ketika sebuah brand menjadi "hadir di mana-mana", yang hilang bukan hanya rasa penasaran, tapi juga hak untuk dimaafkan. Krisis PX Mart tidak ada pada pencurian transaksi, melainkan apakah ia masih ingat hati nurani di depan meja murah itu dulu.
+📝 Catatan Kurator: Ketika sebuah merek menjadi "ada di mana-mana," ia tidak hanya kehilangan aura misterius, tetapi juga hak untuk dimaafkan. Krisis FamilyMart bukan karena penipuan, tetapi apakah mereka masih mengingat niat awal di depan "meja murah" itu.
 
-### Penutup: Platform Kehidupan Dua Puluh Tahun Ke Depan
+### Kesimpulan: Platform Kehidupan Dua Puluh Tahun ke Depan
 
-Hingga 2026, PX Mart di Taiwan sudah memiliki lebih dari 1.250 gerai, target pendapatan tahunan menembus 230 miliar yuan. Ia bukan lagi pusat kesejahteraan gelap dan bau itu, melainkan raksasa ritail yang mengintegrasikan pengiriman dalam jam, keuangan PXPay, hingga hipermarket RT-Mart.
+Hingga tahun 2026, FamilyMart memiliki lebih dari 1.250 gerai di Taiwan, dengan target pendapatan tahunan mencapai 230 miliar dolar Taiwan. Ia bukan lagi sekadar koperasi suram; ia adalah raksasa ritel yang mengintegrasikan pengiriman _instant_ (seperti Hours Delivery), keuangan PXPay, dan grosir RT-Mart.
 
-Lin Min-hsiung pernah berkata, PX Mart adalah "Pusat Kesejahteraan Orang Taiwan". Kalimat ini pada 1998 adalah jerami penyelamat, pada 2026 menjadi tanggung jawab berat. Di era "PX Mart Besar" di mana Grup Uni-President mengambil alih Carrefour, dua raksasa ritail berhadapan langsung, apakah platform kehidupan ini mampu dalam mengejar skala, sekaligus menebus kembali kepercayaan konsumen, akan menentukan apakah ia bisa terus menguasai kulkas orang Taiwan.
+Lin Min-hsiung pernah mengatakan bahwa FamilyMart adalah "pusat kesejahteraan masyarakat Taiwan." Di tahun 1998, kalimat ini adalah penyelamat; di tahun 2026, itu adalah tanggung jawab yang berat. Dalam era "FamilyMart Besar" ketika Grup Unifikasi mengakuisisi Carrefour dan kedua raksasa ritel berhadapan, apakah platform kehidupan ini dapat memenangkan kembali kepercayaan konsumen sambil mengejar skala, akan menentukan apakah ia dapat mempertahankan kulkas masyarakat Taiwan.
 
 ---
 
 ## Bacaan Lanjutan
 
-- **[Maskot](/lifestyle/吉祥物)** — Beruang Kesejahteraan PX Mart dan Open Jiang: Ilmu Pengelolaan IP Maskot Ritail
-- **[Budaya Minimarket Taiwan](/culture/台灣便利商店文化)** — Posisi PX Mart, 7-Eleven, FamilyMart di ritail Taiwan
-- **[Ekonomi Pengiriman Taiwan](/economy/台灣外送經濟)** — Bagaimana PX Mart Pengiriman Jam Masuk Pasar foodpanda / Uber Eats
-- **[Pembayaran Bergerak Taiwan](/technology/台灣行動支付)** — Lanskap persaingan pembayaran elektronik PXPay, JKOPAY, LINE Pay
-- **[Sejarah Iklan Taiwan](/culture/台灣廣告史)** — Ogilvy di balik "Estetika Ekonomi" PX Mart, dan sejarah seratus tahun iklan Taiwan dari monopoli perhatian ke pemasaran menyentuh hati
-- **[Perusahaan Taiwan: Grup Uni-President](/economy/台灣企業：統一企業)** — Uni-President mengambil alih Carrefour, PX Mart mengambil alih RT-Mart, separuh cerita lain konsolidasi dua raksasa ritail Taiwan
+- **[Maskot](/id/lifestyle/mascot-culture-in-taiwan)** — Kisah pengelolaan IP maskot FamilyMart dan Open: Studi Kasus Maskot Ritel
+- **[Budaya Minimarket Taiwan](/id/lifestyle/convenience-store-culture)** — Posisi FamilyMart, 7-Eleven, dan Family Mart di pasar ritel Taiwan
+- **[Ekonomi Pengiriman Taiwan](/economy/台灣外送經濟)** — Bagaimana Hours Delivery FamilyMart berhasil masuk ke pasar foodpanda / Uber Eats
+- **[Pembayaran Seluler Taiwan](/id/technology/taiwan-mobile-payment)** — Memahami perbedaan antara adopsi dan universalitas, dari PXPay hingga penerimaan pedagang kas fisik
+- **[Sejarah Iklan Taiwan](/culture/台灣廣告史)** — Ogilvy di balik "Estetika Ekonomi" FamilyMart, dan sejarah seratus tahun iklan Taiwan dari monopoli perhatian ke pemasaran yang menyentuh hati
+- **[Perusahaan Taiwan: Grup Unifikasi](/economy/台灣企業：統一企業)** — Kisah paruh kedua penggabungan dua raksasa ritel Taiwan: Unifikasi mengakuisisi Carrefour, FamilyMart mengakuisisi RT-Mart
 
 ## Referensi
 
-[^1]: [50 Tokoh Berpengaruh: Ketua Dewan Direksi PX Mart Lin Min-hsiung, Pembalik Revolusi Ritail Domestik - Majalah Bisnis Quincenal Caixin](https://www.wealth.com.tw/articles/0229b5fa-a360-4b39-9398-2b6967a4a662) — Laporan khusus perjuangan Lin Min-hsiung mengambil alih PX Mart, berisi "hukum langit lebih murah 20%, margin 2%"
+[^1]: [50 Tokoh Berpengaruh: Kebangkitan Lin Min-hsiung dalam Revolusi Ritel Domestik - Cai Xun Weekly](https://www.wealth.com.tw/articles/0229b5fa-a360-4b39-9398-2b6967a4a662) — Laporan khusus tentang perjuangan Lin Min-hsiung mengambil alih FamilyMart Society, termasuk aturan "murah 20%, laba 2%".
 
-[^2]: [Orang Luar Ritail Mengkilapkan Pusat Kesejahteraan Tua: 20 Tahun Perjuangan Lin Min-hsiung yang Tak Diketahui Orang - Majalah Global Views](https://www.gvm.com.tw/article/55420) — Kenangan Lin Min-hsiung di peluncuran buku 2018 "gelap dan bau" + sejarah akuisisi
+[^2]: [Orang Luar Industri Ritel Mencerahkan Pusat Koperasi Tua: Perjuangan Lin Min-hsiung yang Tidak Diketahui Selama 20 Tahun - Yanxue Magazine](https://www.gvm.com.tw/article/55420) — Kenangan Lin Min-hsiung di konferensi pers buku tahun 2018 tentang kesan pertama "suram" + riwayat akuisisi.
 
-[^3]: [PXPay Meledak Penipuan! Warga "1 Gerakan" Dicuri Transaksi 80 Ribu Takut Tak Bisa Dikejar - Yahoo News Taiwan](https://tw.news.yahoo.com/%E5%85%A8%E6%94%AF%E4%BB%98%E7%88%86%E8%A9%90%E9%A8%99-%E6%B0%91%E7%9C%BE-1%E8%88%89%E5%8B%95-%E9%81%AD%E7%9B%9C%E5%88%B78%E8%90%AC%E6%81%90%E8%BF%BD%E4%B8%8D%E5%9B%9E-%E5%AE%98%E6%96%B9%E6%80%A5%E7%99%BC4%E9%BB%9E%E8%81%B2%E6%98%8E-080300886.html) — Laporan kasus pencurian transaksi PXPay Nov 2025, satu orang 20 kali 80 ribu potongan beruntun
+[^3]: [Penipuan PXPay! Warga Ditipu Rp 80 Juta dalam 'Satu Tindakan' dan Mungkin Tidak Dapat Kembali - Yahoo Kimo News](https://tw.news.yahoo.com/%E5%85%A8%E6%94%AF%E4%BB%98%E7%88%86%E8%A9%90%E9%A8%99-%E6%B0%91%E7%9C%BE-1%E8%88%89%E5%8B%95-%E9%81%AD%E7%9B%9C%E5%88%B78%E8%90%AC%E6%81%90%E8%BF%BD%E4%B8%8D%E5%9B%9E-%E5%AE%98%E6%96%B9%E6%80%A5%E7%99%BC4%E9%BB%9E%E8%81%B2%E6%98%8E-080300886.html) — Laporan insiden penipuan PXPay pada November 2025, tagihan beruntun 20 kali senilai 80.000 dolar Taiwan per orang.
 
-[^4]: [PX Mart Targetkan Kinerja 2026 Capai 230 Miliar, Target Jumlah Gerai 1.280 - Economic Daily News](https://money.udn.com/money/story/5612/9433606) — Pengumuman target pendapatan dan jumlah gerai 2026
+[^4]: [Target Pendapatan FamilyMart Tahun 2026 Mencapai 230 Miliar Dolar Taiwan, Target Gerai 1280 - Economic Daily News](https://money.udn.com/money/story/5612/9433606) — Pengumuman target pendapatan dan jumlah gerai tahun 2026.
 
-[^5]: [Catatan Kebakaran "Putus Hubungan PX Mart": Analisis Lengkap Dari "Sungguh Murah" ke Boikot Nasional - CG2010Studio](https://cg2010studio.com/2026/01/04/%E5%85%A8%E8%81%AF%E3%80%8C%E6%96%B7%E8%81%AF%E3%80%8D%E7%82%8E%E4%B8%8A%E4%BA%8B%E4%BB%B6%E7%B0%BF%EF%BC%9A%E5%BE%9E%E3%80%8C%E5%AF%A6%E5%9C%A8%E7%9C%9F%E4%BE%BF%E5%AE%9C%E3%80%8D%E5%88%B0%E5%85%A8/) — Ringkasan opini jaringan soal kasus PXPay: lima dosa besar dan aksi putus hubungan
+[^5]: [Buku Kas Krisis "Putus Sambungan" FamilyMart: Analisis Lengkap dari "Benar-benar Murah" hingga Boikot Nasional - CG2010Studio](https://cg2010studio.com/2026/01/04/%E5%85%A8%E8%81%AF%E3%80%8C%E6%96%B7%E8%81%AF%E3%80%8D%E7%82%8E%E4%B8%8A%E4%BA%8B%E4%BB%B6%E7%B0%BF%EF%BC%9A%E5%BE%9E%E3%80%8C%E5%AF%A6%E5%9C%A8%E7%9C%9F%E4%BE%BF%E5%AE%9C%E3%80%8D%E5%88%B0%E5%85%A8/) — Kompilasi opini publik di internet mengenai insiden PXPay: Lima dosa dan aksi putus sambungan.

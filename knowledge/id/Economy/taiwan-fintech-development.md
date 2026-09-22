@@ -2,26 +2,28 @@
 title: 'Perkembangan FinTech di Taiwan'
 description: "Seorang 'anak emas' Wall Street kembali ke Taiwan untuk mendirikan pembayaran seluler, namun sembilan tahun kemudian perusahaannya disita dan saldo rekeningnya kurang dari seribu yuan—ini bukan sekadar kisah satu orang, melainkan dekade perkembangan teknologi finansial di seluruh pulau yang terombang-ambing antara 'keterbukaan' dan 'hilangnya kendali'."
 date: 2026-04-06
-author: 'Taiwan.md'
 category: 'Economy'
 tags:
-  - 'Teknologi Finansial'
-  - 'FinTech'
-  - 'Perbankan Digital'
-  - 'Pembayaran Seluler'
-  - 'Sandbox Regulasi'
-  - 'Bank Online Murni'
-  - 'Pembayaran Elektronik'
+  [
+    'Teknologi Finansial',
+    'FinTech',
+    'Perbankan Digital',
+    'Pembayaran Seluler',
+    'Sandbox Regulasi',
+    'Bank Online Murni',
+    'Pembayaran Elektronik',
+  ]
 subcategory: 'Keuangan dan Teknologi'
-readingTime: 12
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-06
 lastHumanReview: false
-featured: false
+readingTime: 12
 translatedFrom: 'Economy/台灣金融科技發展.md'
-sourceCommitSha: '879ed9e77'
-sourceContentHash: 'sha256:54da57abafa311d1'
-sourceBodyHash: 'sha256:eb1efaa0a4f468ff'
-translatedAt: '2026-07-14T12:35:28+08:00'
+sourceCommitSha: '4dd14cf66'
+sourceContentHash: 'sha256:4a1f10aaddce056e'
+sourceBodyHash: 'sha256:7f55fdd7f7687d07'
+translatedAt: '2026-09-22T20:00:04.445055+00:00'
 ---
 
 # Perkembangan FinTech di Taiwan
@@ -110,24 +112,25 @@ Sikap Gubernur Bank Sentral, Yang Jin-long, tetap berhati-hati. Ia menyatakan ba
 
 Ritme "coba sedikit dulu, dengarkan opini baru bicara" ini sangat kontras dengan kemajuan besar-besaran Yuan Digital di Tiongkok. Bank Sentral Taiwan tidak ingin menjadi pionir; ia ingin menjadi pengikut yang tidak melakukan kesalahan.
 
-## Eksperimen Finansial di Sebuah Pulau
+## Sebuah Eksperimen Keuangan di Satu Pulau
 
 Sepuluh tahun telah berlalu.
 
-Sejauh mana visi dari buku putih 2015—Taiwan menjadi pusat teknologi finansial Asia Pasifik—telah tercapai? Jawabannya adalah: sebagian tercapai, tetapi dengan cara yang berbeda dari yang dibayangkan saat itu.
+Seberapa banyak visi yang digambarkan buku putih 2015 itu — Taiwan menjadi pusat fintech Asia-Pasifik — yang terealisasi? Jawabannya: sebagian terealisasi, tetapi bukan dengan cara yang semula dikira.
 
-Pembayaran seluler memang telah merata, namun bukan karena satu Super App, melainkan melalui persaingan belasan merek. Bank online murni memang hadir, tetapi ketiganya digabungkan masih belum mencapai 3,2 juta akun, yang merupakan proporsi sangat kecil dari total rekening bank di Taiwan. Sandbox regulasi memang beroperasi, namun tingkat kelulusan yang rendah membuat orang mempertanyakan apakah itu adalah batu loncatan atau sekadar etalase pajangan.
+Pembayaran seluler memang telah tersebar luas, tetapi bukan berkat satu super app, melainkan lewat perang antar selusin merek. Bank digital murni memang hadir, tetapi ketiganya digabungkan belum mencapai 3,2 juta nasabah, proporsinya terhadap total rekening bank di seluruh Taiwan sangat kecil. Sandbox regulasi memang beroperasi, tetapi tingkat kelulusannya rendah hingga menimbulkan pertanyaan apakah ia benar-benar springboard atau hanya vitrin pameran.
 
-Badai 3,6 miliar milik Jiekou memperjelas satu hal: ketegangan terbesar dalam teknologi finansial di Taiwan bukanlah masalah teknis, melainkan masalah kepercayaan. Regulasi yang terlalu longgar akan menciptakan "Jiekou" berikutnya; regulasi yang terlalu ketat akan membuat inovasi mati di dalam sandbox.
+Badai 3,6 miliar Jiekou membuat satu hal menjadi jelas: tegangan terbesar fintech Taiwan bukanlah masalah teknologi, melainkan masalah kepercayaan. Regulasi terlalu longgar, akan melahirkan Jiekou berikutnya; regulasi terlalu ketat, inovasi justru tersedak di dalam sandbox.
 
-Pada Desember 2025, LINE Bank melaporkan keuntungan bulanannya yang kecil namun signifikan bagi industri. Sementara Hu Yijia mengenakan gelang kaki elektronik, LINE Bank menghitung keuntungan pertama mereka. Di pulau yang sama, dalam industri yang sama, dua hasil yang sangat berbeda sedang terjadi secara bersamaan.
+Bulan Desember 2025, LINE Bank melaporkan keuntungan bulanan pertamanya, nominalnya kecil hingga bisa diabaikan, tetapi seluruh industri menyimak. Hu Yijia memakai gelang kaki elektronik, LINE Bank menghitung rupiah keuntungan pertamanya. Di pulau yang sama, di industri yang sama, dua akhir yang sangat berbeda sedang terjadi bersamaan.
 
-**Bacaan Lanjutan:**
+**Bacaan Lanjutan**:
 
-- [Industri Semikonduktor](/id/technology/taiwan-semiconductor-industry) — Industri lain di Taiwan yang dimulai dengan dukungan kebijakan dan akhirnya mengubah lanskap global.
-- [Ekosistem Startup](/id/economy/taiwan-startup-ecosystem-overview) — Gambaran menyeluruh tentang lingkaran startup Taiwan tempat Jiekou Pay berada.
-- [E-commerce dan Ekosistem Pembayaran Digital](/technology/電子商務與數位支付生態系) — Infrastruktur dasar e-commerce di balik pembayaran seluler.
-- [Pasar Saham dan Pasar Modal Taiwan](/economy/台灣股市與資本市場) — Evolusi infrastruktur keuangan dan pasar modal dari telepon manual hingga investasi rutin melalui ponsel pintar.
+- [Industri Semikonduktor](/id/technology/taiwan-semiconductor-industry) — industri Taiwan lain yang bermula dengan dukungan kebijakan dan akhirnya mengubah tatanan global
+- [Ekosistem Startup](/id/economy/taiwan-startup-ecosystem-overview) — gambaran lengkap ekosistem startup Taiwan tempat Jiekou Pay berada
+- [Ekosistem E-commerce dan Pembayaran Digital](/id/technology/e-commerce-and-digital-payment-ecosystem) — infrastruktur e-commerce di balik pembayaran seluler
+- [Pembayaran Seluler Taiwan](/id/technology/taiwan-mobile-payment) — membedah dompet seluler, penerimaan merchant, QR bersama, dan tiga ambang batas cadangan tunai di antaranya
+- [Bursa Saham dan Pasar Modal Taiwan](/id/economy/taiwan-stock-market) — dari telepon nomor ke sentuhan ponsel untuk investasi berkala, evolusi infrastruktur keuangan dan pasar modal
 
 ## Referensi
 
