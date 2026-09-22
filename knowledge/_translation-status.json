@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-22T17:28:28+08:00",
-    "zhCommitHead": "6081c1bdd",
+    "lastUpdated": "2026-09-22T17:52:16+08:00",
+    "zhCommitHead": "4ce112b10",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -44,24 +44,24 @@
       },
       "es": {
         "total_zh": 1124,
-        "fresh": 1050,
+        "fresh": 1051,
         "stale": 54,
         "metadata_stale": 4,
-        "missing": 16,
+        "missing": 15,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1059,
-        "stale": 44,
+        "fresh": 1060,
+        "stale": 43,
         "metadata_stale": 7,
         "missing": 14,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 1045,
-        "stale": 41,
+        "fresh": 1046,
+        "stale": 40,
         "metadata_stale": 21,
         "missing": 17,
         "orphan": 0
@@ -76,8 +76,8 @@
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1028,
-        "stale": 43,
+        "fresh": 1029,
+        "stale": 42,
         "metadata_stale": 8,
         "missing": 45,
         "orphan": 0
@@ -100,18 +100,18 @@
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1039,
+        "fresh": 1040,
         "stale": 31,
-        "metadata_stale": 6,
+        "metadata_stale": 5,
         "missing": 48,
         "orphan": 0
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 855,
+        "fresh": 856,
         "stale": 10,
         "metadata_stale": 5,
-        "missing": 254,
+        "missing": 253,
         "orphan": 0
       }
     },
@@ -12384,19 +12384,17 @@
         "ru": {
           "path": "ru/Economy/htc-android-pioneer-vr-transformation.md",
           "translatedFrom": "Economy/台灣企業：宏達電.md",
-          "sourceCommitSha": "24efd20f3",
-          "sourceContentHash": "sha256:cad6f5863e24a963",
+          "sourceCommitSha": "0df538d8c",
+          "sourceContentHash": "sha256:1e059fb4544621d1",
           "sourceBodyHash": "sha256:6bb6fbebdcab1fd8",
-          "translatedAt": "2026-07-26T10:36:41+08:00",
+          "translatedAt": "2026-09-22T14:22:28+08:00",
           "translationLastCommit": "915e336c",
           "translationLastModified": "2026-07-27T18:28:34+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 24217,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+8 -0"
+          "bytes": 24680,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Economy/htc-android-pioneer-vr-transformation.md",
@@ -45892,11 +45890,11 @@
           "sourceContentHash": "sha256:cffdc6c150dee65c",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-22T09:03:47.034582+00:00",
-          "translationLastCommit": "26a727c9",
-          "translationLastModified": "2026-07-24T15:47:25+08:00",
+          "translationLastCommit": "4ce112b1",
+          "translationLastModified": "2026-09-22T17:28:28+08:00",
           "inferred": false,
           "footnoteDefs": 31,
-          "bytes": 43603,
+          "bytes": 43605,
           "status": "fresh",
           "reason": "same-commit"
         },
@@ -63057,19 +63055,17 @@
         "pt": {
           "path": "pt/Society/taiwan-public-health-epidemic-response.md",
           "translatedFrom": "Society/台灣公共衛生與防疫體系.md",
-          "sourceCommitSha": "49728f9d5",
-          "sourceContentHash": "sha256:84ffcc67e2e155cf",
-          "sourceBodyHash": "sha256:8b3cd9fb7313dbef",
-          "translatedAt": "2026-08-01T23:08:39+08:00",
+          "sourceCommitSha": "29ff6f481",
+          "sourceContentHash": "sha256:eca9dd4ad2636bc6",
+          "sourceBodyHash": "sha256:bbdf3516f36f033d",
+          "translatedAt": "2026-09-22T09:40:08.542312+00:00",
           "translationLastCommit": "fff70d37",
           "translationLastModified": "2026-08-02T01:13:33+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "bytes": 14099,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -1"
+          "bytes": 14106,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Society/taiwan-public-health-epidemic-response.md",
@@ -66135,7 +66131,19 @@
           "status": "missing"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Society/shuidaotou-waterworks.md",
+          "translatedFrom": "Society/水道頭.md",
+          "sourceCommitSha": "015d1a9c9",
+          "sourceContentHash": "sha256:d584a485050631e9",
+          "sourceBodyHash": "sha256:5fb85b385727325b",
+          "translatedAt": "2026-09-22T14:22:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "bytes": 30376,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Society/shuidaotou-waterworks.md",
@@ -120799,19 +120807,17 @@
         "vi": {
           "path": "vi/People/steve-chen-youtube-cofounder.md",
           "translatedFrom": "People/陳士駿.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:a7528e9b7062bef0",
-          "sourceBodyHash": "sha256:9f3cbb43337753f0",
-          "translatedAt": "2026-07-26T19:42:09+08:00",
+          "sourceCommitSha": "5478954ba",
+          "sourceContentHash": "sha256:ba95870558368ba6",
+          "sourceBodyHash": "sha256:10a502d58bab93f7",
+          "translatedAt": "2026-09-22T14:22:25+08:00",
           "translationLastCommit": "4f880be2",
           "translationLastModified": "2026-07-26T21:43:18+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "bytes": 16486,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "bytes": 17945,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/steve-chen-youtube-cofounder.md",
@@ -131411,7 +131417,19 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/wang-shaudi.md",
+          "translatedFrom": "People/王小棣.md",
+          "sourceCommitSha": "3638ec158",
+          "sourceContentHash": "sha256:50eb815f9c92fea3",
+          "sourceBodyHash": "sha256:1ab1bdb7f132ff60",
+          "translatedAt": "2026-09-22T14:22:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "bytes": 18220,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -131430,8 +131448,8 @@
           "sourceContentHash": "sha256:db74afff74180364",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-22T07:47:24.251852+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4ce112b1",
+          "translationLastModified": "2026-09-22T17:28:28+08:00",
           "inferred": false,
           "footnoteDefs": 62,
           "bytes": 71691,
@@ -148104,19 +148122,17 @@
         "fr": {
           "path": "fr/Food/taiwanese-noodle-culture.md",
           "translatedFrom": "Food/台灣麵食文化.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:7aeb090ae7f880d7",
-          "sourceBodyHash": "sha256:07d9c3b482846ce9",
-          "translatedAt": "2026-04-14T12:29:25+08:00",
+          "sourceCommitSha": "9094012f4",
+          "sourceContentHash": "sha256:bd2837ec0fbef900",
+          "sourceBodyHash": "sha256:a96dfd18a42fc656",
+          "translatedAt": "2026-09-22T14:22:24+08:00",
           "translationLastCommit": "677cd01d",
           "translationLastModified": "2026-09-22T01:05:52+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 19537,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+10 -4"
+          "bytes": 20502,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Food/taiwanese-noodle-culture.md",
@@ -199974,8 +199990,8 @@
           "sourceContentHash": "sha256:8649216212301e4d",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-22T08:41:14.061560+00:00",
-          "translationLastCommit": "d23e4372",
-          "translationLastModified": "2026-07-24T18:27:02+08:00",
+          "translationLastCommit": "4ce112b1",
+          "translationLastModified": "2026-09-22T17:28:28+08:00",
           "inferred": false,
           "footnoteDefs": 32,
           "bytes": 48362,

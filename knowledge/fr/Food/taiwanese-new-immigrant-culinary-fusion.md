@@ -1,352 +1,367 @@
 ---
-title: 'La fusion culinaire des nouveaux immigrants à Taïwan'
-description: "Quand l'acidité piquante thaïlandaise rencontre le goût doux-salé taïwanais, quand le pho vietnamien croise le lu wei braisé à la mode locale, quand les épices indonésiennes épousent les ingrédients du terroir — une véritable révolution gustative se déroule en silence à Taïwan. Les nouveaux immigrants n'ont pas seulement apporté la cuisine de leur pays natal : ils ont offert à Taïwan de nouvelles possibilités pour enrichir sa culture gastronomique."
+title: 'La fusion gastronomique des nouveaux résidents à Taïwan'
+description: "Quand l'acidité épicée thaïlandaise rencontre le sucré-salé taïwanais, quand les vermicelles vietnamiens rencontrent les plats mijotés taïwanais, ou lorsque les épices indonésiennes adoptent des ingrédients locaux, une révolution gustative transcendant les frontières se déroule discrètement à Taïwan. Les nouveaux résidents n'apportent pas seulement la cuisine de leur pays d'origine, mais aussi un tout nouveau potentiel pour la culture gastronomique taïwanaise."
 date: 2026-03-20
+category: 'Food'
 tags:
   [
-    cuisine des nouveaux immigrants,
-    gastronomie d'Asie du Sud-Est,
-    fusion culturelle,
-    diversité alimentaire,
-    culture des immigrants,
+    'Gastronomie des nouveaux résidents',
+    'cuisine du Sud-Est asiatique',
+    'fusion culturelle',
+    'alimentation diversifiée',
+    'culture migratoire',
   ]
-subcategory: 'Gastronomie des communautés ethniques'
-category: 'Food'
-author: 'Taiwan.md 編輯團隊'
-readingTime: 10
+subcategory: '族群飲食'
+author: 'Taiwan.md'
 featured: true
+lastVerified: 2026-03-20
+lastHumanReview: false
+image: '/article-images/food/pho-vietnamese-noodle-soup.webp'
+imageAlt: 'Vermicelles vietnamiens'
+imageCredit: 'Tayzar44 / Wikimedia Commons'
+readingTime: 10
 imageLicense: 'CC BY 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Pho,_popular_Vietnamese_noodle_soup.jpg'
 translatedFrom: 'Food/台灣新住民美食融合.md'
-lastVerified: 2026-03-20
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:bd8e4eaaa3e395c7'
-sourceBodyHash: 'sha256:6806ae061b784232'
-translatedAt: '2026-05-13T01:08:41Z'
-image: '/article-images/food/pho-vietnamese-noodle-soup.webp'
-imageCredit: 'Tayzar44 / Wikimedia Commons'
-lastHumanReview: false
+sourceCommitSha: '9094012f4'
+sourceContentHash: 'sha256:77ab88a911a474f4'
+sourceBodyHash: 'sha256:0ecfd7b1fa40d486'
+translatedAt: '2026-09-22T14:22:24+08:00'
 ---
 
-# La fusion culinaire des nouveaux immigrants à Taïwan
+# La fusion gastronomique des nouveaux résidents à Taïwan
 
-> « Le goût du pays natal ne disparaît jamais — il fleurit simplement d'une façon nouvelle sur une nouvelle terre. »
+> « Le goût de la patrie ne disparaîtra pas ; il fleurira différemment sur une nouvelle terre. »
 >
-> — Nguyễn Thị Vân, femme au foyer d'une famille taïwano-vietnamienne, résidente à Taïwan depuis vingt ans
+> —— Ruan Shi-yun (ménagère taïwanaise vietnamienne, arrivée à Taïwan depuis 20 ans)
 
-Dans les souterrains de la gare principale de Taipei, une petite boutique sans prétention exhale des bouffées de citronnelle et de lait de coco. La patronne, Agah, est une nouvelle immigrante originaire d'Indonésie : avec les ingrédients locaux de Taïwan, elle prépare un curry indonésien authentique. « Le chou de Taïwan est plus sucré qu'en Indonésie », confie-t-elle. « Alors mon curry est plus doux — et les Taïwanais l'apprécient davantage. »
+Dans le sous-sol du marché ferroviaire de Taipei, un petit restaurant discret dégage des parfums d'herbe citronnelle et de lait de coco. La propriétaire, A-Chia, est une nouvelle résidente indonésienne qui prépare un curry indonésien authentique en utilisant des ingrédients locaux taïwanais. « Le chou chinois de Taïwan est plus sucré que celui d'Indonésie », dit-elle, « donc mon curry a un goût plus doux, ce que les Taïwanais préfèrent. »
 
-Ce petit ajustement illustre parfaitement l'essence de la cuisine des nouveaux immigrants à Taïwan : non pas une simple reproduction, mais une fusion créatrice. Depuis les années 1990, des ressortissantes de différents pays d'Asie du Sud-Est sont venues s'installer à Taïwan. Elles n'ont pas seulement apporté leur force de travail — elles ont apporté avec elles une culture culinaire d'une richesse incomparable. Ces saveurs venues d'ailleurs se sont aujourd'hui profondément intégrées au paysage gastronomique de l'île, devenant le témoignage le plus savoureux de la pluralité culturelle taïwanaise.
+Ce petit ajustement symbolise la caractéristique essentielle de la culture gastronomique des nouveaux résidents à Taïwan : non pas une simple reproduction, mais une fusion créative. Depuis les années 1990, des nouvelles résidentes venues de divers pays du Sud-Est asiatique sont arrivées à Taïwan. Elles n'ont pas seulement apporté leur main-d'œuvre ; elles ont également introduit une culture alimentaire riche et colorée. Aujourd'hui, ces saveurs étrangères sont profondément intégrées au paysage gastronomique taïwanais, constituant le témoignage le plus savoureux de la diversité culturelle de Taïwan.
 
-## La trajectoire de la cuisine des nouveaux immigrants à Taïwan
+## La trajectoire du développement de la gastronomie des nouveaux résidents à Taïwan
 
-### 1990–2000 : Les premières racines
+### 1990-2000 : Le début des racines locales
 
-Dans les années 1990, Taïwan a vu se multiplier les mariages transnationaux : des femmes originaires du Vietnam, d'Indonésie, de Thaïlande, des Philippines ont afflué sur l'île. Dans un premier temps, elles cuisinaient pour leur famille, transmettant leurs saveurs d'origine dans un cercle restreint.
+Dans les années 1990, Taïwan a commencé à connaître un grand nombre d'endogamies internationales, avec l'arrivée successive de femmes venant du Vietnam, d'Indonésie, de Thaïlande et des Philippines. Au début, elles cuisinaient principalement la cuisine de leur pays d'origine pour leurs familles, et ces saveurs étrangères circulaient uniquement dans un cercle restreint.
 
-Durant cette période, les plats des nouvelles immigrantes conservaient une forme relativement pure. Le pho vietnamien, la soupe aigre-piquante thaïlandaise Tom Yam, le rendang indonésien — tout était préparé au plus près des recettes originales. Mais face à la difficulté de trouver certains ingrédients, beaucoup ont appris à les substituer par des produits locaux.
+La cuisine des nouveaux résidents à cette époque conservait une forme relativement pure. Le _pho_ vietnamien, le _Tom Yam_ thaïlandais, et le _Rendang_ indonésien présentaient tous, autant que possible, les saveurs originales de leur pays d'origine. Cependant, en raison des difficultés à se procurer certains ingrédients, beaucoup de nouvelles résidentes ont commencé à apprendre à substituer les épices et légumes de leur patrie par des produits locaux taïwanais.
 
-### 2000–2010 : L'émergence commerciale
+### 2000-2010 : L'émergence de la commercialisation
 
-Avec l'augmentation du nombre de nouveaux immigrants et l'ouverture progressive de la société taïwanaise à la diversité culturelle, la cuisine des immigrantes a commencé à quitter le cadre domestique pour entrer sur le marché commercial.
+Au début du XXIe siècle, avec l'augmentation du nombre de nouveaux résidents et une plus grande acceptation de la diversité culturelle par la société taïwanaise, la gastronomie des nouveaux résidents a commencé à sortir des foyers pour entrer sur le marché commercial.
 
-À Taipei, les rues Huaxi et le marché de nuit (夜市) de Nanjichang ont vu apparaître des stands de pho vietnamien. Le village de Zhongzhen à Zhongli, peuplé d'immigrants d'origine chinoise venant de Thaïlande et de Birmanie, a développé une zone gastronomique aux accents yunnannais et thaïlando-birmans. Les environs de la gare de Taoyuan sont devenus un pôle de la cuisine indonésienne.
+Les stands de _pho_ vietnamien ont commencé à apparaître dans les rues commerçantes de Huaxi (Taipei) et au marché nocturne de Nanjiang ; le village de Zhongli (Zhongli) est devenu une zone riche en saveurs du Yunnan, Thaïlande et Myanmar en raison de la concentration d'immigrés chinois de ces pays ; et les environs de la gare de Taoyuan sont devenus un pôle pour la cuisine indonésienne.
 
-La tendance à la « localisation » s'est dessinée dès cette période. Pour s'adapter aux préférences gustatives taïwanaises, de nombreuses recettes ont été réajustées en termes de piment, d'acidité et de sucre. La cuisine thaïlandaise a réduit la sauce de poisson au profit de la sauce soja ; la cuisine vietnamienne a diminué la coriandre et augmenté les poireaux, plus familiers au palais local.
+À cette époque, la cuisine des nouveaux résidents a commencé à montrer une tendance à la « localisation ». Pour s'adapter aux préférences gustatives taïwanaises, de nombreux plats ont été ajustés en termes d'épice, d'acidité et de douceur. Les plats thaïlandais ont réduit l'utilisation de sauce de poisson au profit de la sauce soja ; les plats vietnamiens ont diminué le coriandre au profit du ciboulette, un légume familier aux Taïwanais.
 
-### 2010–2020 : Généralisation et raffinement
+### 2010-2020 : La standardisation et le raffinement
 
-Les années 2010 ont marqué une phase d'essor rapide. L'intérêt de la société taïwanaise pour la culture d'Asie du Sud-Est ne cessait de croître, porté par les médias numériques. La cuisine des nouvelles immigrantes a intégré le marché grand public.
+Les années 2010 ont marqué une période de développement rapide pour la gastronomie des nouveaux résidents. L'intérêt croissant de la société taïwanaise pour la culture du Sud-Est asiatique, combiné à la promotion par les médias en ligne, a permis aux plats des nouveaux résidents d'entrer sur le marché de consommation de masse.
 
-Des enseignes connues ont émergé : Việt Hà Pho a développé une chaîne de restaurants de pho ; Wangcheng Thai Cuisine, bien que fondée par des Taïwanais, a largement recours à des chefs thaïlandais pour proposer une cuisine authentique ; Ye Xiang De Nanyangshi s'est spécialisée dans les cuisines malaisienne et singapourienne.
+De nombreuses marques de restaurants célèbres des nouveaux résidents sont apparues durant cette période. Yuehe Pho (越河Pho) a développé une chaîne de _pho_ vietnamien ; Wacheng Thai Cuisine (瓦城泰菜), bien qu'étant une marque créée par des Taïwanais, utilise en grande partie des chefs thaïlandais pour promouvoir la cuisine thaïlandaise authentique ; et Yexiang Southeast Asian Cuisine (椰饗德南洋料理) se concentre sur les cuisines malaisienne et singapourienne.
 
-En parallèle, certains chefs issus de ces communautés ont commencé à élever leurs recettes vers une cuisine plus raffinée, transformant les petits encas de rue en plats de restaurant soignés.
+Parallèlement, une tendance au raffinement est apparue dans la cuisine des nouveaux résidents. Certains chefs de nouveaux résidents ont commencé à mettre l'accent sur la qualité des ingrédients et l'esthétique de la présentation, élevant les plats de rue traditionnels au niveau d'une cuisine raffinée en restaurant.
 
-### De 2020 à aujourd'hui : Fusion innovante et identité culturelle
+### 2020 à aujourd'hui : L'innovation par la fusion et l'identité culturelle
 
-Ces dernières années, la cuisine des nouveaux immigrants à Taïwan a pris un visage encore plus multiple et inventif. La deuxième génération — les enfants de ces immigrantes — s'implique désormais dans la transmission et l'innovation. Ces jeunes réinterprètent avec créativité la cuisine de leurs mères.
+Ces dernières années, la gastronomie des nouveaux résidents à Taïwan a montré une facette plus diversifiée et innovante. La deuxième génération de nouveaux résidents (les enfants des nouveaux résidents) participe au patrimoine et à l'innovation culinaire, interprétant les plats de leur pays d'origine de manière plus créative.
 
-Des créations comme le « pho à la taïwanaise », le « lu rou fan aux épices thaïlandaises » ou le « poulet pané à l'indonésienne » ont fait leur apparition. Ces innovations ne sont plus perçues comme une trahison de la tradition, mais comme le résultat naturel d'une rencontre entre les cultures.
+Des plats fusion comme le « _pho_ vietnamien taïwanais », le « porc mijoté thaïlandais » ou le « poulet frit aux saveurs indonésiennes » commencent à apparaître. Ces innovations ne sont plus considérées comme une trahison de la tradition, mais plutôt comme un résultat naturel de l'intégration culturelle.
 
-## Les grandes familles de la cuisine des nouveaux immigrants
+## Les principaux types et caractéristiques de la gastronomie des nouveaux résidents
 
-### La cuisine vietnamienne : fraîcheur et équilibre doux-acidulé
+### Cuisine vietnamienne : L'atmosphère tropicale fraîche et sucrée
 
-La cuisine vietnamienne est l'une des plus répandues parmi celles des nouvelles immigrantes à Taïwan. Elle se distingue par sa légèreté, son équilibre entre acidité et douceur, et son usage généreux d'herbes fraîches.
+La cuisine vietnamienne est l'une des gastronomies des nouveaux résidents les plus répandues à Taïwan. Sa caractéristique est un goût frais, équilibré entre le sucré et l'acide, avec une utilisation abondante d'herbes fraîches.
 
-Le **pho** est l'emblème de cette cuisine. À Taïwan, il a connu une adaptation locale notable :
+Le _pho_ (河粉) est emblématique de la cuisine vietnamienne. À Taïwan, le _pho_ a subi une transformation locale significative :
 
-- **Le bouillon revu** : le fond de bœuf, à l'origine limpide et délicat, est souvent rehaussé de davantage d'épices pour plus de profondeur
-- **Des accompagnements locaux** : germes de soja et poireaux taïwanais ont remplacé certaines herbes vietnamiennes
-- **Une offre élargie** : du porc a été ajouté aux options de viande, en sus du bœuf traditionnel
+- **Ajustement du bouillon** : Le bouillon de bœuf traditionnellement léger est souvent enrichi d'épices à Taïwan pour un goût plus riche.
+- **Localisation des accompagnements** : Des légumes faciles à trouver à Taïwan, comme les germes de soja et le ciboulette, remplacent certaines herbes vietnamiennes originales.
+- **Choix de la viande** : L'ajout d'options de porc, appréciées par les Taïwanais, ne se limite plus au bœuf traditionnel.
 
-Les **rouleaux de printemps vietnamiens** rencontrent également un vif succès. La version taïwanaise présente généralement :
+Les rouleaux de printemps vietnamiens sont également très populaires à Taïwan. La version taïwanaise tend généralement à :
 
-- Une proportion accrue de laitue et de concombre
-- Des crevettes et du porc effiloché locaux
-- Une sauce d'accompagnement adoucie, aux notes aigres-douces tempérées
+- Augmenter la proportion de laitue et de concombre.
+- Utiliser des crevettes et des filaments de porc locaux taïwanais.
+- Ajuster la sauce d'accompagnement vers un goût sucré-acide plus doux.
 
-### La cuisine thaïlandaise : chaleur épicée et saveurs tropicales
+**Restaurants représentatifs** : (Non spécifiés dans le texte source)
 
-La cuisine thaïlandaise, réputée pour son caractère pimenté, s'est progressivement adaptée aux goûts taïwanais.
+### Cuisine thaïlandaise : Le goût tropical épicé et riche
 
-La **soupe aigre-piquante (Tom Yam)** est l'une des préparations les plus appréciées :
+La cuisine thaïlandaise est réputée pour son piquant, et elle s'est progressivement adaptée aux goûts des Taïwanais au cours de son développement à Taïwan.
 
-- **L'acidité arrondie** : moins de feuilles de citronnier, davantage de jus de citron pour une acidité plus douce
-- **Le piment modulé** : différents niveaux de piquant sont proposés selon les préférences
-- **Des fruits de mer locaux** : crevettes et calmars de Taïwan, plus frais
+Le _Tom Yam_ (酸辣湯) est l'un des plats thaïlandais les plus appréciés :
 
-Le **curry vert** a lui aussi été réinterprété :
+- **Ajustement de l'acidité** : La quantité de feuilles de citron est réduite en augmentant le jus de citron pour adoucir l'acidité.
+- **Contrôle du piquant** : Différents niveaux d'épice sont proposés pour satisfaire les différentes exigences des Taïwanais concernant le niveau de chaleur.
+- **Localisation des fruits de mer** : Utilisation de crevettes et de calamars locaux taïwanais, garantissant une fraîcheur supérieure.
 
-- Aubergines et haricots verts de saison taïwanaise
-- Concentration en lait de coco ajustée au palais local
-- Accompagné de riz taïwanais plutôt que du riz jasmin thaïlandais traditionnel
+Le _curry vert_ a également été réinventé à Taïwan :
 
-Le **pad krapao** (sauté de porc à la thaïlandaise) est très populaire en street food :
+- Utilisation d'aubergines et de haricots verts locaux taïwanais.
+- Ajustement de la consistance du lait de coco pour correspondre aux préférences des Taïwanais.
+- Servi avec du riz blanc taïwanais, au lieu du riz parfumé thaïlandais traditionnel.
 
-- Viande de porc fraîche de Taïwan, plus tendre
-- Le basilic thaïlandais est en partie remplacé par du basilic taïwanais (九層塔), plus familier
-- La garniture inclut des légumes marinés à la taïwanaise et des œufs braisés
+Le _Pad Preeo_ (打拋豬), le porc sauté à la thaïlandaise, est un choix populaire dans les petits restaurants de rue :
 
-### La cuisine indonésienne : l'archipel des épices
+- Utilisation de porc tempéré taïwanais, offrant une chair plus tendre.
+- Le basilic thaïlandais (_krua_) remplace partiellement le basilic thaïlandais traditionnel pour mieux correspondre aux préférences d'épices des Taïwanais.
+- Les accompagnements incluent du kimchi taïwanais et des œufs mijotés.
 
-La cuisine indonésienne se caractérise par une richesse aromatique et une complexité de saveurs. Son développement à Taïwan est plus récent, mais il suscite un intérêt croissant.
+**Restaurants représentatifs** : (Non spécifiés dans le texte source)
 
-Le **nasi goreng** (riz sauté indonésien) est la préparation la plus facilement adoptée par les Taïwanais :
+### Cuisine indonésienne : Le goût riche en épices des îles
 
-- Riz à grains longs de Taïwan, dont la texture correspond mieux aux habitudes locales
-- Profil gustatif orienté vers le doux-salé, avec un piquant modéré
-- Enrichi de saucisse taïwanaise et d'œufs braisés comme ingrédients locaux
+La cuisine indonésienne est caractérisée par une richesse d'épices et une complexité gustative. Son développement à Taïwan est relativement tardif, mais elle a gagné en popularité ces dernières années.
 
-Le **rendang**, après adaptation locale :
+Le _Nasi Goreng_ (印尼炒飯) est le plat indonésien le plus facilement accepté par les Taïwanais :
 
-- Lait de coco allégé pour éviter une texture trop lourde
-- Dosage d'épices réduit pour les palais taïwanais
-- Servi avec du riz blanc de Taïwan plutôt que du riz à la noix de coco
+- Utilisation de riz long local taïwanais, dont la texture correspond mieux aux habitudes des Taïwanais.
+- L'assaisonnement tend vers le sucré-salé avec un piquant modéré.
+- Ajout d'ingrédients locaux comme les saucisses et les œufs mijotés.
 
-### La cuisine philippine : saveurs insulaires acidulées
+Le _Rendang_ (仁當咖哩), après avoir été taïwanisé, est devenu :
 
-La cuisine philippine occupe une place plus confidentielle à Taïwan, mais n'en possède pas moins un caractère unique.
+- Ajusté en consistance de lait de coco pour ne pas être trop lourd.
+- Réduction de la quantité d'épices pour s'adapter aux goûts des Taïwanais.
+- Servi avec du riz blanc taïwanais, au lieu du _nasi kuning_ traditionnel.
 
-L'**adobo** (ragoût national philippin) se retrouve à Taïwan sous une forme adaptée :
+**Restaurants représentatifs** : (Non spécifiés dans le texte source)
 
-- Sauce soja et vinaigre de Taïwan, pour un goût plus doux
-- Ajout de radis et de pommes de terre appréciés des Taïwanais
-- Servi avec du riz blanc taïwanais
+### Cuisine philippine : Le goût islandais acidulé et appétissant
 
-## L'innovation par la localisation
+Le développement de la cuisine philippine à Taïwan est relativement niche, mais elle possède une charme unique.
 
-### Substituer les ingrédients
+L'_Adobo_ (菲律賓燉肉), plat national des Philippines, est préparé avec :
 
-Le premier défi auquel se sont heurtées les cuisinières immigrantes est l'approvisionnement en ingrédients. Nombreuses sont les épices et les légumes de leur pays natal qui sont difficiles à trouver à Taïwan, ou dont le coût est prohibitif. Elles ont fait preuve d'une créativité remarquable en réinventant leurs recettes avec des produits locaux.
+- De la sauce soja et du vinaigre taïwanais pour un goût plus doux.
+- L'ajout de radis et de pommes de terre, appréciés par les Taïwanais.
+- Servi avec du riz blanc taïwanais.
 
-**Substitutions d'épices** :
+**Restaurants représentatifs** : (Non spécifiés dans le texte source)
 
-- Le poivre taïwanais remplace certaines épices spécifiques à l'Asie du Sud-Est
-- La coriandre taïwanaise remplace la coriandre vietnamienne (aux arômes légèrement différents)
-- Les piments locaux se substituent aux piments oiseaux thaïlandais
+## L'innovation locale de la gastronomie des nouveaux résidents
 
-**Substitutions de légumes** :
+### La substitution d'ingrédients locaux
 
-- La laitue taïwanaise remplace la laitue vietnamienne
-- Les poireaux taïwanais remplacent les tiges de ciboulette thaïlandaise
-- Les aubergines taïwanaises remplacent les petites aubergines rondes de Thaïlande
+Le premier défi auquel sont confrontés les chefs de nouveaux résidents à Taïwan est l'approvisionnement en ingrédients. De nombreuses épices et légumes de leur pays d'origine ne sont pas faciles à trouver ou sont coûteux à Taïwan. Par conséquent, ils font preuve d'une créativité étonnante pour créer de nouvelles combinaisons de saveurs avec des ingrédients locaux taïwanais.
 
-**Ajustements sur les viandes** :
+**Substitution d'épices** :
 
-- Usage du porc et du poulet de qualité produits à Taïwan
-- Choix des morceaux adapté aux préférences des consommateurs locaux
+- Utilisation du poivre taïwanais en remplacement de certaines épices spécifiques au Sud-Est asiatique.
+- Utilisation du ciboulette taïwanaise en remplacement du coriandre vietnamien (le goût est légèrement différent).
+- Utilisation des piments taïwanais en remplacement des piments _chao tian_ thaïlandais.
 
-### Adapter les profils gustatifs
+**Substitution de légumes** :
 
-Pour mieux correspondre aux goûts taïwanais, la cuisine des nouvelles immigrantes a évolué sur les axes piment, acidité et sucre.
+- Utilisation de laitue taïwanaise en remplacement de la laitue vietnamienne.
+- Utilisation du ciboulette taïwanais en remplacement du chou chinois thaïlandais (_kahu_).
+- Utilisation d'aubergines taïwanaises en remplacement des aubergines rondes thaïlandaises.
 
-**La gestion du piquant** :
-Les Taïwanais tolèrent généralement moins le piment que les populations d'Asie du Sud-Est. La plupart des plats ont donc été adoucis, ou proposent des niveaux de piquant au choix.
+**Ajustement de la viande** :
 
-**L'apport de sucre** :
-Les Taïwanais ont une appétence pour le sucré : les recettes ont été sucrées en conséquence. Le pad thaï incorpore plus de sucre ; le bouillon du pho est légèrement sucré.
+- Utilisation de porc et de poulet de haute qualité taïwanais.
+- Ajustement du choix des coupes de viande en fonction des préférences des Taïwanais.
 
-**L'ajustement du salé** :
-La sauce de poisson — forte en arômes de la mer — est utilisée avec plus de parcimonie, au profit de la sauce soja, plus familière au consommateur taïwanais.
+### L'adaptation gustative à Taïwan
 
-### Fusionner les techniques culinaires
+Pour s'adapter aux goûts des Taïwanais, la cuisine des nouveaux résidents est ajustée en termes d'épice, d'acidité et de douceur.
 
-Les cuisinières immigrantes ont aussi intégré les techniques culinaires taïwanaises dans leur pratique.
+**Ajustement du piquant** :
+Les Taïwanais ne sont généralement pas aussi tolérants au piment que les Sud-Ésiasiens ; par conséquent, beaucoup de plats des nouveaux résidents réduisent le niveau d'épice ou proposent différents niveaux de chaleur.
 
-**La cuisson à feu vif (快炒)** :
-Certains plats d'Asie du Sud-Est nécessitent de longues heures de mijotage. Dans le rythme de vie soutenu de Taïwan, les cuisinières ont adopté la cuisson rapide à feu vif à la manière taïwanaise, réduisant ainsi le temps de préparation.
+**Augmentation du sucré** :
+Les Taïwanais préfèrent le goût sucré, donc de nombreux plats des nouveaux résidents augmentent la teneur en sucre. Le _Pad Thai_ (泰式炒河粉) ajoute plus de sucre ; les bouillons de _pho_ vietnamiens ont également une légère touche de douceur.
 
-**Le braisage (滷製)** :
-La technique du braisage à la taïwanaise a été appliquée aux cuisines d'Asie du Sud-Est, donnant naissance à des créations comme le « porc braisé à la thaïlandaise » ou les « œufs braisés à la vietnamienne ».
+**Ajustement du salé** :
+On réduit l'utilisation d'assaisonnements au goût très prononcé comme la sauce de poisson, et on augmente la proportion de sauce soja, familière aux Taïwanais.
 
-**Les fritures revisitées** :
-Inspirées des techniques de friture des marchés de nuit (夜市) taïwanais, les cuisiners ont appris à rendre les fritures d'Asie du Sud-Est encore plus croustillantes.
+### La fusion des techniques culinaires
 
-## Les créations nées de la rencontre des cultures
+Les chefs de nouveaux résidents intègrent également les techniques culinaires taïwanaises dans leurs plats.
 
-### Les fusions taïwano-vietnamiennes
+**Technique de cuisson rapide (_quick fry_)** :
+Beaucoup de plats du Sud-Est asiatique nécessitaient une longue cuisson mijotée, mais dans le rythme de vie trépidant de Taïwan, les chefs de nouveaux résidents ont appris à utiliser la méthode de cuisson rapide taïwanaise pour réduire le temps de préparation.
 
-**Le lu rou fan à la vietnamienne** :
-Ce classique taïwanais — porc braisé sur riz — se voit parfumé aux herbes vietnamiennes comme la citronnelle et la menthe, créant une version plus fraîche et légère du plat original.
+**Technique de marinade (_braising_)** :
+La technique de _lu_ (滷製) taïwanaise est appliquée aux plats du Sud-Est asiatique, donnant naissance à des innovations comme le « porc mijoté thaïlandais » ou les « œufs mijotés vietnamiens ».
 
-**Le beef noodle soup à la vietnamienne** :
-La technique du bouillon limpide du pho est appliquée aux nouilles de bœuf taïwanaises, donnant un fond plus clair, agrémenté de coriandre vietnamienne et de germes de soja.
+**Amélioration par la friture** :
+En apprenant les techniques de friture des marchés nocturnes taïwanais, les aliments frits du Sud-Est asiatique sont rendus plus croustillants.
 
-### Les fusions taïwano-thaïlandaises
+## Les plats innovants issus de la fusion interculturelle
 
-**Le poulet pané (雞排) aux épices thaïlandaises** :
-L'incontournable poulet pané des marchés de nuit taïwanais est mariné à la citronnelle, aux feuilles de citronnier kaffir et aux épices thaïlandaises.
+### Cuisine Taïwan-Vietnamienne
 
-**Le gua bao garni à la thaïlandaise** :
-La farce traditionnelle du petit pain vapeur taïwanais (刈包) est remplacée par du porc rôti à la thaïlandaise, accompagné d'une salade de papaye verte épicée.
+**_Lu Rou Fan_ vietnamien** :
+Le _Lu Rou Fan_, un classique taïwanais, est combiné avec des épices vietnamiennes, utilisant des herbes comme l'herbe citronnelle et la menthe pour créer une version plus fraîche du plat mijoté.
 
-### Les fusions taïwano-indonésiennes
+**_Noodle Soup_ vietnamienne au bœuf** :
+La technique de bouillon clair du _pho_ vietnamien est utilisée pour cuisiner le _noodle soup_ taïwanais, rendant le bouillon plus léger, avec l'ajout de coriandre et de germes de soja vietnamiens.
 
-**Le tofu fermenté (臭豆腐) aux épices indonésiennes** :
-Le tofu fermenté taïwanais, préparation emblématique des marchés de nuit, est relevé d'épices indonésiennes pour créer un « tofu aux épices » à nulle autre pareil.
+### Cuisine Taïwan-Thaïlandaise
 
-**Le poulet pané au curry** :
-Le poulet pané taïwanais nappé d'une sauce curry à l'indonésienne — une création qui incarne le dialogue entre les deux cultures.
+**Brochettes de poulet thaïlandaises** :
+Les brochettes de poulet des marchés nocturnes taïwanais sont combinées avec des épices thaïlandaises, en utilisant l'herbe citronnelle et les feuilles de citron comme marinades.
 
-## L'influence sociale et culturelle de cette cuisine
+**Bao (bun) thaïlandais** :
+La farce traditionnelle du _bao_ taïwanais est remplacée par du porc grillé à la thaïlandaise, servi avec une salade de papaye verte thaïlandaise.
 
-### Une transformation des habitudes alimentaires taïwanaises
+### Cuisine Taïwan-Indonésienne
 
-La popularisation de la cuisine des nouvelles immigrantes a progressivement modifié les habitudes et les goûts des Taïwanais.
+**Tofu malodorant aux saveurs indonésiennes** :
+Le tofu malodorant taïwanais est assaisonné avec des épices indonésiennes pour créer un « tofu malodorant aux épices » unique.
 
-**Une plus grande ouverture aux herbes et épices** :
-De plus en plus de Taïwanais se sont familiarisés avec les herbes fraîches, la citronnelle, les feuilles de citronnier kaffir et les autres aromates d'Asie du Sud-Est.
+**Brochettes au curry** :
+Les brochettes de poulet taïwanaises sont arrosées d'une sauce curry aux saveurs indonésiennes, une création créative alliant les deux cultures.
 
-**La démocratisation des saveurs aigres-piquantes** :
-La soupe Tom Yam thaïlandaise, le pho vietnamien aux notes acidulées — ces profils gustatifs sont devenus des incontournables pour de nombreux Taïwanais.
+## L'impact socioculturel de la gastronomie des nouveaux résidents
 
-**Un regard renouvelé sur l'alimentation saine** :
-L'usage abondant de légumes frais et d'herbes aromatiques dans la cuisine d'Asie du Sud-Est a renforcé la sensibilité des Taïwanais à la question de la santé alimentaire.
+### Changement des habitudes alimentaires des Taïwanais
 
-### Un vecteur de compréhension interculturelle
+La popularité de la gastronomie des nouveaux résidents a progressivement modifié les habitudes alimentaires et les préférences gustatives des Taïwanais.
 
-La cuisine des nouvelles immigrantes est devenue une fenêtre privilégiée par laquelle la société taïwanaise découvre la culture d'Asie du Sud-Est.
+**Augmentation de l'acceptation des épices** :
+De plus en plus de Taïwanais acceptent et apprécient les épices du Sud-Est asiatique telles que les herbes, l'herbe citronnelle et les feuilles de citron.
 
-**L'échange par le goût** :
-Déguster la cuisine des nouvelles immigrantes a permis aux Taïwanais de mieux comprendre et apprécier les cultures d'Asie du Sud-Est.
+**Popularisation des saveurs acidulées/épicées** :
+Les plats aux saveurs acidulées/épicées comme le _Tom Yam_ thaïlandais ou le _pho_ vietnamien sont devenus un nouveau favori pour beaucoup de Taïwanais.
 
-**Dissoudre les préjugés** :
-Le pouvoir de séduction de la cuisine a contribué à faire tomber certains clichés et à favoriser la compréhension entre différentes communautés.
+**Conscience alimentaire saine** :
+La cuisine du Sud-Est asiatique utilise abondamment des légumes et des herbes fraîches, ce qui a encouragé les Taïwanais à se préoccuper d'une alimentation plus saine.
 
-**Un tremplin vers les langues** :
-Sous le charme de cette cuisine, de nombreux Taïwanais ont commencé à apprendre quelques mots de vietnamien, de thaïlandais ou d'indonésien.
+### Promotion de la compréhension interculturelle
 
-### Un impact économique significatif
+La gastronomie des nouveaux résidents est une fenêtre importante pour que la société taïwanaise comprenne la culture du Sud-Est asiatique.
 
-Le développement de ce secteur culinaire a aussi engendré des effets économiques notables.
+**Échange culturel** :
+En dégustant les plats des nouveaux résidents, les Taïwanais acquièrent une connaissance plus approfondie de la culture du Sud-Est asiatique.
 
-**Création d'emplois** :
-Les restaurants de cuisine des nouvelles immigrantes offrent des débouchés professionnels importants à ces communautés et forment des talents dans ce secteur.
+**Réduction des préjugés** :
+Le charme de la gastronomie aide à dissiper certains préjugés culturels et à favoriser la compréhension et l'intégration entre différents groupes ethniques.
 
-**Retombées touristiques** :
-Cette cuisine originale est devenue un atout touristique de Taïwan, attirant des visiteurs internationaux curieux de la découvrir.
+**Apprentissage linguistique** :
+Beaucoup de Taïwanais, en aimant la cuisine des nouveaux résidents, commencent à apprendre le vietnamien ou le thaïlandais de base.
 
-**Commerce d'import-export** :
-La demande en produits culinaires d'Asie du Sud-Est a dynamisé les échanges commerciaux, notamment les importations d'ingrédients et de condiments.
+### Impact économique
 
-## La deuxième génération : transmission et réinvention
+Le développement de l'industrie gastronomique des nouveaux résidents a également eu un impact économique significatif.
+
+**Opportunités d'emploi** :
+Les restaurants spécialisés dans la cuisine des nouveaux résidents offrent des opportunités d'emploi importantes aux nouveaux résidents et forment du personnel qualifié dans ce secteur.
+
+**Avantages touristiques** :
+La gastronomie unique des nouveaux résidents est devenu un nouveau point fort du tourisme à Taïwan, attirant les visiteurs internationaux pour goûter ces plats.
+
+**Commerce d'importation/exportation** :
+La demande de la cuisine des nouveaux résidents stimule le commerce d'importation et d'exportation des ingrédients et épices du Sud-Est asiatique.
+
+## La transmission culturelle et l'innovation de la deuxième génération de nouveaux résidents
 
 ### La complexité de l'identité culturelle
 
-Les enfants des nouvelles immigrantes se trouvent face à une identité complexe : ils sont Taïwanais, mais ils ont aussi hérité de la culture maternelle de leur mère. Cette double appartenance est un terreau fertile pour l'innovation culinaire.
+Les enfants des nouveaux résidents (la deuxième génération) font face à un choix complexe en matière d'identité culturelle. Ils sont Taïwanais, mais ils héritent également du lignage culturel de la patrie de leur mère. Dans le domaine de la gastronomie, cette identité complexe a engendré de nombreuses innovations.
 
-**L'avantage linguistique** :
-Souvent bilingues — mandarin et langue maternelle —, ces jeunes disposent d'une capacité de communication précieuse pour diriger des restaurants multiculturels.
+**Avantage linguistique** :
+Les enfants des nouveaux résidents parlent souvent couramment le chinois et la langue maternelle de leur mère, ce qui leur confère un avantage unique dans l'exploitation de restaurants spécialisés.
 
-**Une créativité sans frontières** :
-Élevés dans un environnement multiculturel, ils abordent l'innovation culinaire avec une ouverture d'esprit remarquable.
+**Pensée créative** :
+Ayant grandi dans un environnement multiculturel, les enfants des nouveaux résidents ont souvent une mentalité plus ouverte en matière d'innovation culinaire.
 
-### Les créateurs d'une nouvelle cuisine
+### La nouvelle génération de plats innovants
 
-**Le restaurant de fusion taïwano-vietnamienne de Mme Lin** :
-Fille d'une nouvelle immigrante vietnamienne, Mme Lin a ouvert à Taipei un restaurant de fusion où elle marie la culture des marchés de nuit taïwanais aux street foods vietnamiennes, créant des spécialités comme le « poivre farci à la vietnamienne » ou les « rouleaux printaniers à la taïwanaise ».
+**Le restaurant fusion Vietnam-Taïwan de Mademoiselle Lin** :
+Mademoiselle Lin, fille d'une nouvelle résidente vietnamienne, a ouvert un restaurant fusion Vietnam-Taïwan à Taipei. Elle combine la culture des marchés nocturnes taïwanais avec les petits plats de rue vietnamiens pour créer des innovations telles que le « _bánh mì_ épicé » et les « rouleaux de printemps taïwanais ».
 
-**Le café petit-déjeuner thaïlandais d'A-Ming** :
-Fils d'une nouvelle immigrante thaïlandaise, A-Ming a fusionné la cuisine thaïlandaise avec la culture du petit-déjeuner taïwanais, proposant des créations comme le « dàn bǐng aux épices thaï » ou le « lait de soja à la citronnelle ».
+**Le petit déjeuner thaïlandais d'A-Ming** :
+A-Ming, fils d'une nouvelle résidente thaïlandaise, combine la cuisine thaïlandaise avec la culture du petit-déjeuner taïwanais pour proposer des petits déjeuners fusion tels que les « crêpes thaïlandaises » et le « lait de soja à l'herbe citronnelle ».
 
-### Transmettre et éduquer
+### Promotion de l'éducation culturelle
 
-De nombreux jeunes de la deuxième génération assument la responsabilité de la transmission culturelle, à travers des cours de cuisine et des événements culturels promouvant la gastronomie d'Asie du Sud-Est.
+De nombreux enfants des nouveaux résidents ont commencé à assumer la responsabilité de l'éducation culturelle, promouvant la culture alimentaire du Sud-Est asiatique par le biais de cours de cuisine et d'activités culturelles.
 
-**Ateliers culinaires** :
-Organisation de cours de cuisine d'Asie du Sud-Est pour enseigner aux Taïwanais la préparation de plats authentiques.
+**Enseignement culinaire** :
+Des cours de cuisine du Sud-Est asiatique sont proposés pour enseigner aux Taïwanais comment préparer des plats authentiques de cette région.
 
-**Animations culturelles** :
-Participation aux événements scolaires et communautaires multiculturels, où la cuisine devient un vecteur de promotion de la culture d'origine.
+**Activités culturelles** :
+Ils participent à des événements multiculturels dans les écoles et la communauté, promouvant la culture de leur pays d'origine par des expositions culinaires.
 
-## Défis et perspectives d'avenir
+## Les défis rencontrés et les perspectives d'avenir
 
-### Les défis à relever
+### Défis principaux
 
-**La chaîne d'approvisionnement** :
-De nombreux ingrédients caractéristiques d'Asie du Sud-Est restent tributaires des importations, ce qui alourdit les coûts et pèse sur la compétitivité des prix.
+**Chaîne d'approvisionnement en ingrédients** :
+De nombreux ingrédients spécifiques au Sud-Est asiatique dépendent encore des importations, ce qui augmente les coûts et affecte la compétitivité des prix des plats.
 
-**La transmission du savoir-faire** :
-Certaines techniques traditionnelles risquent de se perdre faute d'un système structuré de transmission.
+**Transmission des compétences** :
+Certaines techniques de préparation traditionnelles risquent de se perdre et nécessitent un mécanisme de transmission systématique.
 
-**L'acceptation dans certains milieux** :
-Malgré un accueil généralement favorable, la cuisine des nouvelles immigrantes reste moins connue dans certaines régions ou auprès de certaines tranches d'âge.
+**Acceptation par le marché** :
+Bien que la gastronomie des nouveaux résidents soit populaire, son acceptation reste à améliorer dans certaines régions ou pour certains groupes d'âge.
 
-**La pression de la commercialisation** :
-Vouloir à tout prix séduire le marché peut conduire à dénaturer les saveurs originelles, au risque de perdre l'authenticité culturelle qui fait la valeur de ces cuisines.
+**Pression de la commercialisation** :
+La modification excessive des goûts traditionnels pour satisfaire les exigences du marché peut entraîner une perte de caractéristiques culturelles originales.
 
-### Les opportunités à saisir
+### Opportunités de développement
 
-**Le soutien des politiques publiques** :
-Les politiques gouvernementales en faveur de la diversité culturelle créent un environnement porteur pour le développement de la cuisine des nouvelles immigrantes.
+**Soutien politique** :
+Les politiques gouvernementales en faveur de la diversité culturelle offrent un environnement favorable au développement de cette gastronomie.
 
-**L'ouverture de la jeune génération** :
-Les jeunes Taïwanais sont particulièrement réceptifs aux cuisines du monde, ouvrant un marché potentiel considérable.
+**Forte acceptation par la jeunesse** :
+La jeune génération est très réceptive aux cuisines étrangères, offrant un vaste marché pour la gastronomie des nouveaux résidents.
 
-**La synergie avec le tourisme** :
-La cuisine des nouvelles immigrantes peut s'intégrer profondément à l'offre touristique culturelle de Taïwan, enrichissant les circuits de tourisme gastronomique.
+**Intégration avec l'industrie touristique** :
+La gastronomie des nouveaux résidents peut être étroitement liée à l'industrie touristique taïwanaise, devenant un contenu culturel important.
 
-**Une vocation à l'international** :
-À mesure que la mondialisation s'approfondit, Taïwan pourrait s'affirmer comme une plaque tournante de la fusion culinaire d'Asie du Sud-Est — et exporter ce modèle au reste du monde.
+**Tendance internationalisée** :
+Avec le développement de la mondialisation, Taïwan a le potentiel d'exporter son modèle de fusion culinaire vers d'autres pays en tant que base du Sud-Est asiatique.
 
-### Ce que l'avenir nous réserve
+### Perspectives futures
 
-**Une montée en gamme** :
-Des restaurants spécialisés dans la cuisine des nouvelles immigrantes proposeront des expériences gastronomiques de plus en plus raffinées et des saveurs toujours plus authentiques.
+**Développement professionnel** :
+De plus en plus de restaurants spécialisés dans la cuisine des nouveaux résidents apparaîtront, offrant un service plus raffiné et des saveurs plus authentiques.
 
-**Le développement en franchise** :
-Certaines enseignes à succès développeront des réseaux de franchise, élargissant leur rayonnement.
+**Exploitation en chaîne** :
+Certaines marques de restaurants des nouveaux résidents réussiront à se développer en chaînes, élargissant leur influence sur le marché.
 
-**La production locale des ingrédients** :
-Avec l'essor de la demande, certains légumes et aromates d'Asie du Sud-Est seront cultivés localement à Taïwan, réduisant les coûts.
+**Localisation des ingrédients** :
+À mesure que la demande augmente, certains légumes et épices du Sud-Est asiatique seront cultivés localement à Taïwan, réduisant les coûts.
 
-**Une mission éducative et culturelle** :
-Les restaurants des nouvelles immigrantes s'imposeront comme des espaces de dialogue interculturel, bien au-delà de leur seule fonction gastronomique.
+**Fonction éducative culturelle** :
+Les restaurants des nouveaux résidents assumeront de plus grandes fonctions éducatives, devenant des lieux importants d'échange multiculturel.
 
-**Des créations de plus en plus audacieuses** :
-La deuxième génération inventera des plats d'Asie du Sud-Est au caractère résolument taïwanais — une « cuisine d'Asie du Sud-Est à la sauce taïwanaise » comme on n'en a encore jamais goûté.
+**Innovation par la fusion** :
+La deuxième génération de nouveaux résidents créera davantage de plats fusion du Sud-Est asiatique avec une touche taïwanaise, formant un « goût sud-est asiatique à la manière taïwanaise » unique.
 
-## En guise de conclusion : quand les cultures se rencontrent dans l'assiette
+## Conclusion : La fusion culturelle des goûts
 
-L'histoire de la cuisine des nouvelles immigrantes à Taïwan est une belle histoire de fusion culturelle et d'inventivité. Elle nous enseigne que la transmission culturelle n'est pas une reproduction figée, mais une adaptation créatrice au nouveau milieu de vie.
+Le développement de la gastronomie des nouveaux résidents à Taïwan est une histoire émouvante sur l'intégration et l'innovation culturelles. Elle nous enseigne que la transmission culturelle n'est pas une copie statique, mais une adaptation créative dans un nouvel environnement.
 
-Quand une femme vietnamienne roule des rouleaux de printemps plus sucrés avec le chou de Taïwan, quand une Thaïlandaise prépare un pad krapao plus doux avec du porc taïwanais, quand une Indonésienne cuisine un curry mieux adapté aux papilles locales grâce aux piments de l'île — elles ne trahissent pas la tradition de leur pays natal. Elles créent une nouvelle tradition, propre à Taïwan.
+Lorsque les tantes vietnamiennes emballent le chou chinois taïwanais pour faire des rouleaux de printemps plus sucrés, lorsque les belles-filles thaïlandaises préparent du _Pad Preeo_ avec du porc taïwanais plus doux, ou lorsque les sœurs indonésiennes assaisonnent leur curry avec des piments taïwanais mieux adaptés aux locaux, elles ne trahissent pas la tradition de leur patrie ; elles créent une nouvelle tradition propre à Taïwan.
 
-Cette fusion est bidirectionnelle. En accueillant la cuisine des nouvelles immigrantes, les Taïwanais ont aussi transformé leur propre culture alimentaire. La cuisine taïwanaise d'aujourd'hui n'est plus celle d'il y a vingt ans : elle est plus diverse, plus riche, plus ouverte sur le monde.
+Cette fusion est bidirectionnelle. Tandis que les Taïwanais adoptent la gastronomie des nouveaux résidents, ils changent également leur propre culture alimentaire. La cuisine taïwanaise d'aujourd'hui n'est plus celle d'il y a 20 ans. Elle est devenue plus diversifiée, plus riche et plus internationale.
 
-Le développement de cette cuisine témoigne de la capacité d'accueil et de la créativité de la société taïwanaise. Il prouve que la rencontre entre les cultures n'est pas un jeu à somme nulle, mais peut produire un résultat où « 1 + 1 dépasse 2 ».
+Le développement de la gastronomie des nouveaux résidents à Taïwan démontre l'inclusivité et la créativité de la société taïwanaise. Il prouve que l'échange entre différentes cultures n'est pas un jeu à somme nulle, mais qu'il peut créer un résultat merveilleux où « 1 + 1 > 2 ».
 
-À mesure que la deuxième génération grandit et que de nouvelles créations culinaires voient le jour, la culture gastronomique des nouvelles immigrantes à Taïwan continuera d'évoluer et de se renouveler. Elle deviendra un symbole fort de la diversité culturelle taïwanaise, et continuera d'enrichir la gastronomie de l'île de nouvelles couleurs et de nouvelles possibilités.
+À l'avenir, avec le développement continu des enfants des nouveaux résidents et l'apparition de plus d'innovations culinaires, la culture gastronomique des nouveaux résidents à Taïwan continuera à se développer et à évoluer. Elle deviendra un symbole important de la diversité culturelle de Taïwan et ajoutera encore plus de couleurs et de possibilités à sa propre culture gastronomique.
 
-En cette ère de mondialisation, l'histoire de la cuisine des nouvelles immigrantes à Taïwan offre au reste du monde un exemple réussi de fusion culturelle. Elle nous dit que l'ouverture d'esprit et l'audace créatrice permettent aux cultures de s'épanouir, sur une terre nouvelle, en fleurs encore plus belles.
+À l'ère de la mondialisation, l'histoire de la gastronomie des nouveaux résidents à Taïwan offre également un exemple réussi d'intégration culturelle pour d'autres pays. Elle nous enseigne que l'ouverture d'esprit et l'esprit d'innovation permettent à différentes cultures de fleurir plus joliment sur une nouvelle terre.
 
 ---
 
-## Pour aller plus loin
+## Lectures complémentaires
 
-1. Données statistiques du Ministère de l'Intérieur sur les nouveaux immigrants
-2. Rapport d'enquête sur les restaurants de cuisine d'Asie du Sud-Est à Taïwan
-3. Recueil de recherches académiques sur la culture culinaire des nouveaux immigrants
-4. Entretiens avec les organisations communautaires des nouvelles immigrantes
-5. Études sur l'identité culturelle de la deuxième génération de nouveaux immigrants
+## Lectures complémentaires
+
+1. Données statistiques des nouveaux résidents du Ministère de l'Intérieur
+2. Rapport d'enquête sur les restaurants du Sud-Est asiatique à Taïwan
+3. Recueil d'articles de recherche sur la culture gastronomique des nouveaux résidents
+4. Dossiers d'interviews des différentes communautés de nouveaux résidents
+5. Études sur l'identité culturelle de la deuxième génération de nouveaux résidents
+
+## Sources d'images
+
+- Héros : Vermicelles vietnamiens, photo par Tayzar44, https://commons.wikimedia.org/wiki/File:Pho,_popular_Vietnamese_noodle_soup.jpg, CC BY 4.0.
