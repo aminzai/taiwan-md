@@ -1,85 +1,91 @@
 ---
 title: 'Văn hóa hải sản Đài Loan'
-description: 'Hải sản tươi sống trực tiếp từ cảng cá, văn hóa nhà hàng hải sản, ốc ào chiên và các món ăn từ biển, thể hiện đặc thôn đảo quốc bốn mặt giáp biển của Đài Loan cùng truyền thống ẩm thực hải sản phong phú'
+description: 'Từ hải sản tươi mới trực tiếp từ bến cảng, nền văn hóa nhà hàng hải sản cho tới món ăn nhẹ tiêu biểu như chả hàu chiên, tất cả đều phản ánh đặc trưng đảo đai và truyền thống ẩm thực hải sản phong phú của Đài Loan.'
 date: 2026-03-20
-author: 'Taiwan.md Contributors'
 category: 'Food'
+tags: ['hải sản', 'bến cảng', 'văn hóa đảo', 'chả hàu chiên', 'ẩm thực hải sản']
 subcategory: '食材與調味'
-tags: ['hải sản', 'cảng cá', 'văn hóa đảo', 'ốc ào chiên', 'món hải sản']
-readingTime: 8
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
-featured: false
+image: '/article-images/food/keelung-kanziding-fish-market-2007.webp'
+imageAlt: 'Chợ cá du lịch bậc thang Đài Bắc'
+imageCredit: 'Jay Fang / Wikimedia Commons'
+difficulty: 'beginner'
+readingTime: 8
+curation: 'incubating'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E5%9F%BA%E9%9A%86%E5%B4%81%E4%BB%94%E9%A0%82%E8%A7%80%E5%85%89%E9%AD%9A%E5%B8%82_-_panoramio.jpg'
 translatedFrom: 'Food/台灣海鮮文化.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:b19eaae2749a2675'
-sourceBodyHash: 'sha256:0e334a19b5edfbf1'
-translatedAt: '2026-07-25T09:23:02+08:00'
-image: '/article-images/food/keelung-kanziding-fish-market-2007.webp'
-imageCredit: 'Jay Fang / Wikimedia Commons'
-difficulty: 'beginner'
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:83fd36c7a8a59ff5'
+sourceBodyHash: 'sha256:a8b22a0fba5539c1'
+translatedAt: '2026-09-23T01:05:22+08:00'
 ---
 
 # Văn hóa hải sản Đài Loan
 
-Lợi thế địa lý bốn mặt giáp biển đã kiến tạo nên văn hóa hải sản phong phú của Đài Loan. Từ những con tàu cá quay cảng lúc bình minh mang theo hải sản tươi sống nhất, đến những chiếc bánh ốc ào chiên (hàu chiên) nóng hổi tại chợ đêm, ơn huệ của đại dương đã nuôi dưỡng người dân trên đảo và hình thành nên truyền thống ẩm thực hải sản độc đáo.
+Lợi thế địa lý bao phủ bởi biển biển đã tạo nên nền văn hóa hải sản phong phú của Đài Loan. Từ những con cá tươi mới đầu tiên trả cảng vào buổi sáng, cho tới những món ăn nhẹ nóng hổi như chả hàu chiên ở chợ đêm, những món quà từ biển đã nuôi dưỡng con người trên hòn đảo và tạo nên truyền thống ẩm thực hải sản độc đáo.
 
-## Cảng cá: Điểm khởi đầu của hương vị biển
+## Bến cảng: Nguồn gốc của hương vị biển
 
-Văn hóa hải sản Đài Loan bắt đầu từ các cảng cá trải dài khắp đảo. Từ Cơ Long (Keelung), Nam Phương Ưu (Nanfang'ao) ở phía Bắc, đến Đông Cảng (Donggang), Phang Liêu (Fangliao) ở phía Nam, Thành Công (Chenggong), Phú Gang (Fugang) ở phía Đông, mỗi cảng cá đều có loài cá đặc trưng và phương pháp đánh bắt riêng. Các món hải sản tại chợ đêm đền Cơ Long nổi tiếng khắp đảo, cá thu Nam Phương Ưu là niềm tự hào của góc Đông Bắc, còn cá ngừ đen Đông Cảng thì là món ngon hiếm có khiến các nhà ẩm thực tranh nhau thưởng thức.
+Nền văn hóa hải sản của Đài Loan bắt nguồn từ những bến cảng rải khắp toàn đảo. Ở phía bắc là Đài Bắc và Nam Phong Thạo, ở phía nam là Đông Cương và Thanh Liêu, ở phía đông là Thành Công và Phú Quang, mỗi bến cảng đều có loài cá đặc trưng và phương pháp đánh cá riêng. Những món ăn nhẹ hải sản ở chợ đêm Đài Bắc nổi tiếng khắp đảo, cá trích ở Nam Phong Thạo là niềm tự hào của góc bắc đông, còn cá thu ở Đông Cương thì là món quà hiếm hoi mà du khách săn đón.
 
-Văn hóa cảng cá không chỉ dừng lại ở đánh bắt và buôn bán, mà là một lối sống. Phiên đấu giá cá lúc năm giờ sáng, nơi ngư dân dùng những cử chỉ gọn gàng, quyết đoán để tranh đấu, là hình thức giao dịch nguyên thủy và trực diện nhất của kinh tế biển. Hải sản tươi sống từ tàu cá đi thẳng lên bàn ăn, chuỗi cung ứng ngắn gọn "từ cảng đến đĩa" này đảm bảo chất lượng và độ tươi của hải sản Đài Loan.
+Văn hóa bến cảng không chỉ là việc đánh cá và bán hàng, mà còn là một lối sống. Những buổi đấu giá cá vào lúc năm giờ sáng, những ngư dân dùng những cử chỉ ngắn gọn nhưng mạch lạc để tranh giành, đây là hình thức giao dịch nguyên sơ và trực tiếp nhất của nền kinh tế biển. Những con cá tươi mới được giao thẳng từ thuyền ra bàn tiệc, chuỗi cung ứng ngắn từ bến cảng đến bát bát này đảm bảo chất lượng và độ tươi ngon của hải sản Đài Loan.
 
-## Ốc ào: Linh hồn của hương vị biển Đài Loan
+## Hàu: Linh hồn của hải sản Đài Loan
 
-Trong văn hóa hải sản Đài Loan, ốc ào (hàu) chiếm vị trí đặc biệt. Ngành nuôi ốc ào dọc bờ biển Tây Đài Loan có lịch sử hàng trăm năm, các địa phương như Bố Đai (Budai) thuộc Ca Nghĩa (Chiayi), An Bình (Anping) thuộc Đài Nam (Tainan), Đài Tây (Taixi) thuộc Vân Lâm (Yunlin) đều là vùng nuôi ốc ào quan trọng. Phương pháp nuôi trên giá ốc truyền thống vẫn được sử dụng đến nay: khi nước dâng, ốc ào lọc ăn sinh vật phù du trong nước biển; khi nước rút, chúng tiếp xúc với không khí để tăng cường khả năng kháng bệnh.
+Trong nền văn hóa hải sản của Đài Loan, hàu chiếm một vị trí đặc biệt. Ngành công nghiệp nuôi hàu ven biển phía tây của Đài Loan có lịch sử hàng trăm năm, những nơi như Bùu Định ở Gia Nghĩa, An Bình ở Thành Đông, Tây Tân ở Vân Linh đều là những vùng sản xuất hàu quan trọng. Phương pháp nuôi hàu truyền thống bằng giàn nổi vẫn được sử dụng đến ngày nay, khi thủy triều lên, những con hàu lọc thực phẩm vi khuẩn trong nước biển, khi thủy triều xuống, chúng tiếp xúc với không khí tăng cường khả năng chống bệnh.
 
-Ốc ào chiên là một trong những món ăn vặt đại diện nhất cho văn hóa hải sản Đài Loan. Những con ốc ào tươi mập, ngon kết hợp với trứng gà và bột sắn, được chiên trên chảo nóng cho đến khi giòn rụm, thêm chút sốt chua cay đặc chế, mỗi miếng ăn đều cảm nhận được vị ngọt tự nhiên của đại dương. Món ăn vặt tưởng chừng đơn giản này lại diễn giải trọn vẹn triết lý ẩm thực hải sản của người Đài Loan: giữ nguyên hương vị, gia vị nhẹ nhàng, tôn vinh sự tươi ngon.
+Chả hàu chiên là một trong những món ăn nhẹ tốt nhất để tượng trưng cho nền văn hóa hải sản của Đài Loan. Những con hàu tươi mỏng manh kết hợp với trứng gà và bột khoai lang, chiên trên bếp thép nóng đến khi thơm lừng, rưỽi lên sốt ngọt cay đặc biệt, mỗi miếng đều đậm vị biển. Dù trông đơn giản nhưng món ăn này hoàn hảo truyền tải hiểu biết của người Đài Loan về ẩm thực hải sản: giữ nguyên hương vị, điều chỉnh đơn giản, tôn vinh sự tươi ngon.
 
-Các món ốc ào chiên giòn, mì ốc ào, canh ốc ào... những cách chế biến ốc ào đa dạng này thể hiện sự khai thác sâu sắc của người Đài Loan đối với hương vị biển này. Mỗi phương pháp nấu nướng đều làm nổi bật đặc điểm hương vị khác nhau của ốc ào, từ giòn tan đến mượt mềm, từ thanh mát đến đậm đà, ốc ào có mặt trong ẩm thực Đài Loan với vô vàn diện mạo.
+Các món như bánh gối hàu, mỳ hàu, canh hàu và nhiều món khác cũng cho thấy sự sáng tạo đa dạng của người Đài Loan trong việc khai thác hương vị của hàu. Mỗi phương pháp nấu nướng đều khai thác được những đặc trưng khác nhau của hàu, từ giòn tan đến mượt mà, từ thanh mát đến đậm đà, hàu có nhiều cách trình bày khác nhau trong ẩm thực Đài Loan.
 
-## Đặc sản biển sâu: Văn hóa cá ngừ đen
+## Hải sản biển sâu: Văn hóa cá thu
 
-Cá ngừ đen Đông Cảng là đại diện đẳng cấp của văn hóa hải sản Đài Loan. Mỗi năm từ tháng năm đến tháng bảy, mùa cá ngừ đen, cảng cá Đông Cảng luôn tấp nập du khách từ khắp nơi. Những con cá khổng lồ di cư qua Thái Bình Dương sâu, thịt ngon, mỡ béo, là tinh品 của các món ăn sống (sashimi).
+Cá thu ở Đông Cương là biểu tượng cao cấp trong nền văn hóa hải sản của Đài Loan. Vào mùa cá thu từ tháng Năm đến tháng Bảy hàng năm, bến cảng Đông Cương luôn tấp nập khách đến tham quan. Những con cá khổng lồ từ biển sâu về, thịt chắc ngậy và béo nhờn, là món ăn tuyệt vời cho sushi.
 
-Cảnh đấu giá cá ngừ đen tại Đông Cảng có thể gọi là hùng vĩ. Một con cá ngừ đen nặng hàng trăm kilogram thường được đấu giá với giá hàng chục vạn tệ (NĐT). Điều này không chỉ phản ánh giá trị kinh tế, mà còn đại diện cho trình độ kỹ thuật đánh bắt cá và văn hóa hải sản của Đài Loan. Từ kỹ thuật đánh bắt đến bảo quản vận chuyển, từ chế độ đấu giá đến nghề thủ công ẩm thực, mọi khâu trong chuỗi giá trị cá ngừ đen đều thể hiện sự chuyên nghiệp.
+Trận đấu giá cá thu ở Đông Cương thực sự đáng ngưỡng mộ. Một con cá nặng hàng trăm kilogram thường có thể bán được vài trăm nghìn đồng. Điều này không chỉ phản ánh giá trị kinh tế, mà còn cho thấy trình độ công nghệ ngành chài lưới và văn hóa hải sản của Đài Loan. Từ kỹ thuật đánh cá đến bảo quản vận chuyển, từ hệ thống đấu giá đến nghệ thuật nấu ăn, mỗi bước trong chuỗi cung ứng cá thu đều thể hiện sự chuyên nghiệp.
 
-## Văn hóa nhà hàng hải sản
+## Nhà hàng hải sản
 
-Văn hóa nhà hàng hải sản tại Đài Loan mang đậm màu sắc gia đình. Từ các quán nhỏ bên cảng cá đến các lâu hải sản trong thành phố, tụ tập thưởng thức hải sản là hoạt động xã hội quan trọng của người Đài Loan. Trên bàn tròn có đĩa quay: cá mú hấp, sò điệp hấp tỏi, cua rang muối, tôm hùm xào hành gừng, mỗi món đều thể hiện triết lý nấu nấu "tươi" lên hàng đầu.
+Nền văn hóa nhà hàng hải sản của Đài Loan mang mạnh tính gia đình. Từ những quán nhỏ bên bờ biển cho tới những nhà hàng hải sản lớn trong thành phố, việc thưởng thức hải sản là hoạt động xã hội quan trọng của người Đài Loan. Những món như cá hấu nướng than, sò điệp xào tỏi, cua đồng tiêu muối, tôm hùm gừng tỏi, mỗi món đều thể hiện triết lý nấu ăn "tươi ngon trên hết".
 
-Đặc trưng của nhà hàng hải sản Đài Loan nằm ở việc trưng bày hải sản sống và chế biến ngay khi gọi món. Trong các bể kính trong suốt bơi lội đủ loại cá, tôm, cua, ốc, khách tự chọn nguyên liệu, đầu bếp sau đó áp dụng cách chế biến phù hợp nhất với đặc tính nguyên liệu. Trải nghiệm ăn uống tương tác này biến việc thưởng thức hải sản thành một hoạt động mang tính nghi thức.
+Đặc trưng của nhà hàng hải sản Đài Loan là việc trưng bày hải sản sống và nấu ăn ngay khi đặt hàng. Những con cá, tôm, cua, sò trong những bể nước trong suốt, khách hàng có thể tự tay chọn mua, đầu bếp sẽ áp dụng phương pháp nấu ăn phù hợp nhất dựa trên đặc tính của nguyên liệu. Trải nghiệm ẩm thực tương tác này biến việc thưởng thức hải sản thành một nghi lễ đầy ý nghĩa.
 
-## Hương vị biển bình dân: Mực nhỏ và mực ống
+## Hải sản phổ thông: Tôm nhỏ và tôm bột
 
-Khác với cá ngừ đen đắt giá, mực nhỏ (small cuttlefish) và mực ống (squid) là những loại hải sản gắn liền hơn với đời sống bình dân. Vùng biển Bắc Đài Loan sản xuất nhiều các loại thân xương mềm (cephalopod) này. Mực nhỏ tươi chỉ cần chần nhanh, chấm với chút tương ớt gừng là đã thành món ngon tuyệt vời. Mực ống phù hợp xào nhanh hoặc nấu canh mực ống, độ dai giòn Q (dẻo dai) được người Đài Loan cực kỳ ưa chuộng.
+So với những con cá đắt tiền như cá thu, tôm nhỏ và tôm bột là những loại hải sản gần gũi với cuộc sống thường ngày. Vùng biển phía bắc của Đài Loan là nơi sản xuất dồi dào những loại hải sản này, những con tôm nhỏ tươi mới chỉ cần đun sơ qua, chấm với nước mắm gừng cũng đã thơm ngon đủ vị. Tôm bột thích hợp để xào nhanh hoặc nấu thành canh tôm bột, hương vị giòn sần của chúng được người Đài Loan yêu thích.
 
-Canh cua, canh mực tại chợ đêm Cơ Long, các món mực chiên, mực nướng tại các quán chợ đêm, những món ăn vặt hải sản giá bình dân này cho phép người dân thường cũng hưởng thụ được hương vị biển. Việc hải sản phổ cập đến mọi tầng lớp là đặc điểm quan trọng của văn hóa hải sản Đài Loan.
+Những món như canh cua Đài Bắc, canh mực, những món ăn nhẹ như tôm nướng, mực nướng ở chợ đêm, những món hải sản giá rẻ này cho phép người bình thường cũng có thể thưởng thức được món quà từ biển. Sự phổ biến của hải sản này là một đặc trưng quan trọng của nền văn hóa hải sản Đài Loan.
 
-## Đổi mới kỹ thuật nuôi trồng
+## Đổi mới công nghệ nuôi trồng
 
-Văn hóa hải sản Đài Loan không chỉ dựa vào khai thác tự nhiên, sự phát triển của kỹ thuật nuôi trồng cũng là trụ cột quan trọng. Từ nuôi cá trê vằn (milkfish) ở phía Nam, ngành cá chình (eel) ở miền Trung, đến cá trê (catfish) nước ngọt và cá mú (grouper) ven biển, kỹ thuật nuôi trồng thủy sản của Đài Loan chiếm vị trí dẫn đầu trong khu vực châu Á.
+Nền văn hóa hải sản của Đài Loan không chỉ dựa vào đánh bắt tự nhiên, mà còn dựa vào sự phát triển của công nghệ nuôi trồng. Từ nuôi cá lóc ở phía nam cho tới ngành công nghiệp cá lóc ở trung tâm, từ cá trê ở khu vực nội thất cho tới cá hấu ven biển, công nghệ nuôi trồng thủy sản của Đài Loan đứng đầu khu vực châu Á.
 
-Đáng chú ý nhất là kỹ thuật nuôi cá mú của Đài Loan. Từ nuôi giống đến lớn thành cá, Đài Loan đã xây dựng chuỗi giá trị hoàn chỉnh. Cá mú chất lượng cao không chỉ cung cấp cho thị trường nội địa, mà còn xuất khẩu số lượng lớn sang Hồng Kông, Trung Quốc đại lục, trở thành mặt hàng xuất khẩu nông nghiệp quan trọng của Đài Loan.
+Đáng chú ý phải nói đến công nghệ nuôi cá hấu của Đài Loan. Từ việc nuôi cá con cho tới khi trưởng thành, Đài Loan đã xây dựng một chuỗi cung ứng hoàn chỉnh. Những con cá hấu chất lượng cao không chỉ cung cấp cho thị trường nội địa, mà còn xuất khẩu lớn sang Hồng Kông, Trung Quốc đại lục và các nơi khác, trở thành một phần quan trọng của xuất khẩu nông sản của Đài Loan.
 
-## Bảo quản hải sản và chuỗi lạnh
+## Bảo quản và chuỗi lạnh
 
-Sự phát triển của văn hóa hải sản Đài Loan hiện đại không thể tách rời công nghệ chuỗi lạnh. Từ làm lạnh nhanh trên tàu cá đến vận chuyển nhiệt độ thấp tại chợ, hệ thống chuỗi lạnh hoàn thiện đảm bảo chất lượng hải sản. Điều này cho phép người tiêu dùng ở vùng nội địa cũng thưởng thức được hải sản tươi sống, mở rộng lớn phạm vi ảnh hưởng của văn hóa hải sản.
+Sự phát triển của nền văn hóa hải sản hiện đại của Đài Loan không thể tách rời với công nghệ bảo quản lạnh. Từ việc đông lạnh nhanh trên thuyền cho tới giao hàng ở nhiệt độ thấp ở chợ, hệ thống chuỗi lạnh hoàn hảo này bảo vệ chất lượng của hải sản. Điều này cho phép người tiêu dùng ở các vùng miền xa biển cũng có thể thưởng thức được hải sản tươi ngon, mở rộng ảnh hưởng của nền văn hóa hải sản.
 
-Các quầy sashimi tại siêu thị, cơm hộp hải sản tại tiện lợi store, những kênh phân phối hiện đại này làm cho tiêu dùng hải sản trở nên tiện lợi hơn. Việc thiết lập chế độ tiêu chuẩn chất lượng, truy xuất nguồn gốc, cũng nâng cao niềm tin của người tiêu dùng vào an toàn hải sản.
+Các góc bán hàng sushi trong siêu thị, những hộp hải sản trong cửa hàng tiện dịch, những cách bán hàng hiện đại này khiến việc tiê dùng hải sản trở nên tiện lợi hơn. Hệ thống nhãn hiệu chất lượng, truy xuất nguồn gốc cũng tăng niềm tin của người tiêu dùng đối với an toàn thực phẩm hải sản.
 
-## Hải sản và chế độ ăn uống khỏe
+## Hải sản và ăn uống lành mạnh
 
-Theo随着 nhận thức về sức khỏe ngày càng cao, vị thế của hải sản trong văn hóa ẩm thực Đài Loan càng thêm quan trọng. Đ giàu protein, axit béo omega-3, vitamin và khoáng chất, khiến hải sản trở thành thành phần thiết yếu của chế độ ăn uống lành mạnh. Các cách chế biến ít dầu, ít muối như sashimi, cá hấp, cá nướng ngày càng được ưa chuộng.
+Với sự gia tăng nhận thức về sức khỏe, vị thế của hải sản trong nền văn hóa ẩm thực của Đài Loan càng trở nên quan trọng. Những thành phần dinh dưỡng phong phú như protein, axit béo omega-3, vitamin và khoáng chất, khiến hải sản trở thành một phần quan trọng trong chế độ ăn uống lành mạnh. Những món như sushi, cá nướng than, cá hấu nướng được nấu ăn với ít dầu và ít muối ngày càng được ưa chuộng.
 
-Đồng thời, cách chế biến hải sản cũng ngày càng đa dạng. Kỹ thuật nấu Nhật, Hàn, Tây融入 văn hóa hải sản Đài Loan, tạo ra trải nghiệm vị giác phong phú hơn. Sự giao thoa văn hóa này phản ánh tính mở và bao dung của văn hóa ẩm thực Đài Loan.
+Đồng thời, cách nấu ăn hải sản cũng ngày càng đa dạng. Các kỹ thuật nấu ăn Nhật, Hàn và Tây Âu được kết hợp vào nền văn hóa hải sản của Đài Loan, tạo ra những trải nghiệm vị giác phong phú hơn. Sự pha trộn văn hóa này phản ánh tính mở cửa và đa dạng của nền văn hóa ẩm thực Đài Loan.
 
-## Suy nghĩ về phát triển bền vững
+## Cân nhắc phát triển bền vững
 
-Đối mặt với thách thức về tài nguyên biển, văn hóa hải sản Đài Loan cũng đang suy tư về phát triển bền vững. Giảm khai thác quá mức, phát triển đánh bắt cá có trách nhiệm,推广 nuôi trồng thân thiện với môi trường, những nỗ lực này đều nhằm đảm bảo sự kéo dài của văn hóa hải sản.
+Đối mặt với thách thức nguồn lợi biển, nền văn hóa hải sản của Đài Loan cũng đang suy ngẫm về vấn đề phát triển bền vững. Giảm thiểu đánh bắt quá mức, phát triển ngành chài có trách nhiệm, thúc đẩy nuôi trồng thân thiện với môi trường, những nỗ lực này đều nhằm bảo vệ sự bền vững lâu dài của nền văn hóa hải sản.
 
-Giáo dục người tiêu dùng cũng là khâu quan trọng. 推广 chọn hải sản theo mùa, hỗ trợ ngư nghiệp địa phương, giảm thiểu lãng phí, những thay đổi trong tư duy tiêu dùng giúp bảo vệ tài nguyên biển. Một số nhà hàng bắt đầu cung cấp thực đơn hải sản bền vững, ghi rõ nguồn gốc, phương pháp đánh bắt của loài cá, giúp người tiêu dùng làm ra lựa chọn có trách nhiệm hơn.
+Giáo dục người tiêu dùng cũng là một phần quan trọng. Lựa chọn hải sản theo mùa, hỗ trợ ngành chài địa phương, giảm thiểu lãng phí và những quan điểm tiêu dùng này đều góp phần bảo vệ nguồn lợi biển. Một số nhà hàng bắt đầu cung cấp thメニュ bền vững, đưa ra thông tin về nguồn gốc, phương pháp đánh bắt của từng loại cá, giúp người tiêu dùng đưa ra lựa chọn có trách nhiệm hơn.
 
-Văn hóa hải sản Đài Loan thể hiện sự kết nối sâu sắc giữa dân tộc đảo và đại dương. Từ kỹ thuật đánh bắt truyền thống đến công nghệ nuôi trồng hiện đại, từ cách chế biến đơn giản đến nghệ thuật ẩm thực tinh xảo, văn hóa hải sản chứng kiến sự phát triển biến thiên của xã hội Đài Loan. Trong thời đại toàn cầu hóa ngày nay, nền văn hóa ẩm thực sâu sắc gắn liền với môi trường địa phương này, chính là một trong những tài sản văn hóa quý giá nhất của Đài Loan.
+Nền văn hóa hải sản của Đài Loan phản ánh mối liên kết sâu sắc giữa dân tộc đảo và biển. Từ những kỹ thuật đánh bắt truyền thống cho tới công nghệ nuôi trồng hiện đại, từ những cách nấu ăn đơn giản cho tới nghệ thuật ẩm thực tinh tế, nền văn hóa hải sản đã chứng kiến sự phát triển thay đổi của xã hội Đài Loan. Trong thời đại toàn cầu hóa, nền văn hóa ẩm thực gắn bó với môi trường tự nhiên này chí là một trong những tài sản văn hóa quý giá nhất của Đài Loan.
+
+## Nguồn hình ảnh
+
+- Hero: Chợ cá du lịch bậc thang Đài Bắc, nhiếp ảnh gia Jay Fang, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E5%9F%BA%E9%9A%86%E5%B4%81%E4%BB%94%E9%A0%82%E8%A7%80%E5%85%89%E9%AD%9A%E5%B8%82_-_panoramio.jpg), CC BY-SA 3.0。

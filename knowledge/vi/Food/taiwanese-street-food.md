@@ -1,189 +1,193 @@
 ---
-title: 'Đồ ăn vặt Đài Loan'
-description: "Năm 1987, một sai lầm tại Xuân Thủy Đường ở Đài Trung đã khiến trà sữa trân châu bước vào 60 quốc gia. Từ công cụ sinh tồn của di cư thế kỷ 18, đến ngày hôm nay với 23,3 vạn quầy hàng tạo ra ngành công nghiệp 400 tỷ: công thức thành công của nó không phải tinh tế hóa, mà là sự dũng cảm cơ sở 'cứ thử xem'."
+title: 'Ẩm thực đường phố Đài Loan'
+description: 'Một sai sót năm 1987 tại Xuân Thủy Đường đã đưa trà sữa trân châu ra thị trường 60 quốc gia. Từ công cụ sinh tồn của người nhập cư thời Thanh, ẩm thực Đài Loan đã trở thành ngành kinh tế trị giá 400 tỷ Đài tệ được chống đỡ bởi 233 ngàn quầy hàng: phương trình thành công của nó không phải là sự tinh xảo hóa, mà là lòng dũng cảm dân dã kiểu "cứ thử xem sao".'
 date: 2026-03-28
 category: 'Food'
 tags:
   [
-    'Đồ ăn',
-    'Ăn vặt',
+    'Ẩm thực',
+    'Tiểu thực',
     'Đồ ăn đường phố',
     'Chợ đêm',
     'Ẩm thực Đài Loan',
     'Sức mạnh mềm văn hóa',
     'Ẩm thực nhập cư',
   ]
-subcategory: 'Cảnh ăn uống'
+subcategory: '飲食場景'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-28
 lastHumanReview: false
 image: '/article-images/food/raohe-street-night-market-entrance-2017.webp'
-imageAlt: 'Cảnh đêm cổng vào phía đông của chợ đêm Đạo Hà, các biển hiệu neon nhấp nháy'
+imageAlt: 'Cảnh đêm tại lối vào phía Đông chợ đêm dạo chơi phố Nhiêu Hà'
 imageCredit: 'Ken Marshall / Wikimedia Commons'
 readingTime: 12
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:East_Entrance_of_Raohe_Street_Night_Market_20170530_night.jpg'
 translatedFrom: 'Food/台灣小吃.md'
-sourceCommitSha: '1facb1b9'
-sourceContentHash: 'sha256:31bf1b84f1551bd978cddaf6c682e382672481231673f97683bf54699f4fb576'
-sourceBodyHash: 'sha256:5a450e540f49b1618ce1e3925160dce1ab342b083d532039b84c4e065007db6e'
-translatedAt: '2026-07-31T00:00:00Z'
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:da45c346079f5144'
+sourceBodyHash: 'sha256:40a1aa98903d8e72'
+translatedAt: '2026-09-23T02:56:16+08:00'
 ---
 
-# Đồ ăn vặt Đài Loan
+# Ẩm thực đường phố Đài Loan
 
-> **30 giây tóm tắt:** Tháng 3 năm 1987, một nhân viên tên Lâm Tú Huệ tại Xuân Thủy Đường chi nhánh Đài Trung đã vô tình thả viên bột vào trà sữa. Không đăng ký bằng sáng chế. Sai lầm chốn lửa này đã khiến ra đời một đế chế trà sữa trân châu 3000 tỷ đồng mỗi năm trên toàn cầu. Lịch sử phát triển của đồ ăn vặt Đài Loan chính là như thế — những phát minh thành công nhất của nó gần như đều là tình cờ, những quầy hàng có sức sống nhất đều tuyên bố không có bí mật. 23,3 vạn quầy, 400 tỷ đồng lợi tức hàng năm, 47 vạn gia đình phụ thuộc vào nó để sống, mô hình kinh doanh "lý thuyết chỉ ra rằng không nên tồn tại" này lại là sức mạnh mềm khó sao chép nhất của Đài Loan.
+> **Tóm tắt trong 30 giây:** Vào tháng 3 năm 1987, một nhân viên tên Lâm Tú Huệ (Lin Xiuhui) tại Xuân Thủy Đường ở Đài Trung đã cho trân châu vào trà sữa mà không đăng ký bằng sáng chế. Sai sót tình cờ này đã khai sinh ra đế chế trà sữa trân châu toàn cầu với giá trị sản xuất 300 tỷ Đài tệ. Lịch sử phát triển của ẩm thực Đài Loan là như vậy—hầu hết những phát minh thành công nhất đều là sự cố, và các quầy hàng sống động nhất đều tuyên bố không có bí quyết nào. Với 233 ngàn quầy hàng, giá trị sản xuất 400 tỷ Đài tệ, và 470 ngàn hộ gia đình phụ thuộc vào nó, mô hình kinh doanh "về lý thuyết không nên tồn tại" này chính là sức mạnh mềm khó sao chép nhất của Đài Loan.
 
-Mùa đông năm 2024, một giáo sư trường thương mại Đức đứng trước quầy trứng chiên hàu tại chợ đêm Sĩ Lâm, bối rối nói với hướng dẫn viên: "Những quầy này không có nhận diện thương hiệu, không có quy trình chuẩn hóa, thậm chí không có tấm hiệu đủ tử tế — ở châu Âu, kinh doanh như thế đã sụp đổ lâu rồi."
+Vào một đêm đông năm 2024, một giáo sư trường kinh doanh người Đức đứng trước quầy bánh xèo ốc (Oyster Omelet) ở chợ đêm Sĩ Lâm, bối rối nói với hướng dẫn viên du lịch: "Những quầy hàng này không có nhận diện thương hiệu, không có quy trình tiêu chuẩn hóa, thậm chí còn không có một biển hiệu tử tế—ở châu Âu, kiểu kinh doanh này đã phá sản từ lâu rồi."
 
-Hướng dẫn viên không trả lời. Trước quầy hàng xếp hàng ba mươi người.
+Hướng dẫn viên không trả lời. Trước quầy xếp ba mươi người.
 
-Từ góc nhìn lý thuyết kinh doanh, chợ đêm Đài Loan vi phạm gần như tất cả các nguyên tắc cơ bản của "doanh nghiệp thành công": không thương hiệu, không chuẩn hóa, không địa điểm cố định. Nhưng chính mô hình "không nên tồn tại" này lại tạo ra gần 400 tỷ đồng lợi tức hàng năm, nuôi sống 47 vạn gia đình, và giúp Đài Loan trở thành quốc gia duy nhất trên toàn cầu thành công trong việc xuất khẩu "thức ăn dân gian" như "ký hiệu văn hóa".
+Xét từ góc độ lý thuyết quản trị kinh doanh, chợ đêm Đài Loan vi phạm hầu hết các nguyên tắc cơ bản của "doanh nghiệp thành công": không có thương hiệu, không tiêu chuẩn hóa, không có địa điểm cố định. Nhưng chính cái "mô hình không nên tồn tại" này đã tạo ra gần 400 tỷ Đài tệ giá trị sản xuất mỗi năm, nuôi sống 470 ngàn hộ gia đình, và biến Đài Loan thành trường hợp duy nhất trên thế giới thành công trong việc xuất khẩu "thực phẩm bình dân" như một "biểu tượng văn hóa".
 
-**Đây là lõi mâu thuẫn: Đồ ăn vặt Đài Loan càng "không chuyên nghiệp" bao nhiêu, thì càng khó sao chép bấy nhiêu.**
+**Đây là mấu chốt của sự mâu thuẫn: ẩm thực Đài Loan càng "không chuyên nghiệp", càng khó bị sao chép.**
 
-## Những kẻ bán hàng rong ngoài đồng ruộng: Bắt đầu của tất cả
+## Người khuân vác bên ruộng: Điểm khởi đầu của tất cả
 
-Gốc của đồ ăn vặt Đài Loan không ở chợ đêm, mà ở ngoài đồng ruộng.
+Cội rễ của ẩm thực Đài Loan không nằm ở chợ đêm, mà nằm ở cánh đồng.
 
-Vào thời kỳ Nhân Hòa triều Thanh, người Mân Nam渡biển đến Đài Loan khai phá bình nguyên. Lao động nặng nhọc khiến các nông công không thể ăn cơm định thời định chỗ, những kẻ bán hàng rong liền mang giỏ tre, bán thức ăn nóng ở cánh đồng và cảng. Đây không phải truyền thống ẩm thực lãng mạn, mà là logic kinh tế thuần túy: người đói bụng cần bổ sung năng lượng nhanh chóng, và phải rẻ.
+Vào thời Càn Long (Qianlong) triều Thanh, người Phúc Kiến (Minnan) vượt biển đến khai khẩn vùng đồng bằng. Lao động nặng nhọc khiến công nhân nông nghiệp không thể ăn uống đúng giờ tại một nơi cố định; những người khuân vác đã mang theo giỏ tre, đưa thức ăn nóng đến ruộng và cảng. Đây không phải là truyền thống ẩm thực lãng mạn, mà là logic kinh tế thuần túy: những người đói cần bổ sung năng lượng nhanh chóng và rẻ tiền.
 
-Miếu là một nguồn gốc khác. Trung tâm tín ngưỡng tổ chức lễ hội, không gian miếu tập trung đông đúc, những người bán hàng rong kéo theo. Điều này giải thích một hiện tượng Đài Loan khiến người nước ngoài bối rối: tại sao quầy ăn vặt ngon nhất lại mở cạnh miếu? Không phải vì thần linh bảo vệ, mà vì người dân đến trước, những kẻ bán hàng rong kéo theo.
+Chùa chiền cũng là một nguồn gốc khác. Các trung tâm tín ngưỡng tổ chức lễ hội đón thần, quảng trường chùa tụ tập đông người, các tiểu thương tự nhiên xuất hiện theo đám đông. Điều này giải thích một hiện tượng ở Đài Loan khiến người nước ngoài bối rối: tại sao những quán ăn ngon nhất thường mở gần đền? Không phải do thần linh phù hộ, mà là vì người đến trước, và người bán hàng đi theo sau.
 
-Năm 1908, báo Đài Loan Nhật báo ghi lại chợ đêm tại không gian miếu Thiên Hậu ở Kỳ Tân, Cao Hùng, đây là ghi chép sơ khai nhất về chợ đêm Đài Loan. Sự bùng nổ thực sự xảy ra vào thập niên 1950. Sau chiến tranh, nền kinh tế khó khăn, kinh doanh vốn nhỏ trở thành lối thoát cho nhiều người, các kẻ bán hàng rong tập trung ở không gian phía sau chợ các loại khi đã đóng cửa, chợ đêm từ đó hình thành.
+Năm 1908, báo _Taiwan Nichi Nichi Shinpo_ (Đài Loan Nhật Nhật Tân Báo) đã ghi lại chợ đêm tại khu đất trống trước Thiên Hậu Cung ở Kỳ Tân, đây là ghi chép bằng văn bản sớm nhất về chợ đêm Đài Loan. Sự bùng nổ thực sự diễn ra vào những năm 1950. Kinh tế khó khăn sau chiến tranh, kinh doanh nhỏ trở thành lối thoát cho nhiều người; các tiểu thương tụ tập tại khu đất trống sau khi dọn hàng ở chợ rau, và chợ đêm từ đó hình thành.
 
-## Một phòng thí nghiệm hòa nhập của di cư
+## Một phòng thí nghiệm dung hợp của người nhập cư
 
-Điều thực sự đặc biệt về đồ ăn vặt Đài Loan không nằm ở bất kỳ một món ăn nào có bao ngon ngon, mà nằm ở chỗ nó là **hệ thống hòa nhập ẩm thực đa văn hóa mật độ cao nhất trên toàn thế giới**.
+Điểm đặc biệt thực sự của ẩm thực Đài Loan không nằm ở việc bất kỳ món ăn đơn lẻ nào ngon đến mức nào, mà là nó là **hệ thống ẩm thực đa văn hóa có mật độ cao nhất thế giới**.
 
-Bước vào bất kỳ chợ đêm nào, trong vòng 50 mét bạn có thể mua được:
+Bước vào bất kỳ chợ đêm nào, trong phạm vi 50 mét bạn có thể mua:
 
-- **Hệ Mân Nam**: Trứng chiên hàu, bánh rế (di cư Phúc Kiến thích ứng với địa phương)
-- **Hệ Khách Gia**: Bánh cuốn, xào Khách Gia, nước gừng (sự khôn ngoan ẩm thực của người Khách Gia)
-- **Hệ ngoại tỉnh**: Mì bò Đài Loan, hoàng long, bánh nướng dầu (bài học nông cụ của di cư các tỉnh từ năm 1949)
-- **Di sản Nhật trị**: Tôm bột mì, các loại nước dùng Kanto, bào đá (50 năm Nhật trị để lại gen ẩm thực)
-- **Nền tảng bản địa**: Khoai lang, cơm nhỏ, rau dại (nền tảng nguyên liệu ẩm thực bản địa của đảo)
+- **Hệ Minh Nam (Minnan):** Bánh xèo ốc (Oyster Omelet), bánh nhân thịt (Rouyuan), bánh gạo (Wongue) (sự cải tạo tại chỗ của người nhập cư Phúc Kiến).
+- **Hệ Khách Gia (Kejia):** Bánh chiên bột ngô (Qiaotiao), xào nhỏ kiểu Khách Gia, canh gừng sấy (trí tuệ muối chua của cộng đồng Khách Gia).
+- **Hệ Ngoại tỉnh (Waisheng):** Mì bò (Niu Rou Mian), bánh xếp (Jiaozi), bánh nướng chiên (Shaobing Youtiao) (món ăn hoài niệm của người nhập cư từ các tỉnh sau năm 1949).
+- **Di sản Nhật Bản:** Tempura, đồ nhúng lẩu (Kandoni), kem bào (Baobing) (gen ẩm thực còn sót lại sau 50 năm cai trị của Nhật).
+- **Nền tảng bản địa người thổ dân:** Khoai lang, kiều mạch, rau dại (nguyên liệu cơ bản từ đảo).
 
-Điều kỳ diệu hơn là những truyền thống ẩm thực này có thể gây xung đột văn hóa đã tìm thấy cách sống chung ở Đài Loan. Không ai cảm thấy lạ khi một chợ đêm đồng thời có trứng chiên hàu Mân Nam và mì bò Đài Loan ngoại tỉnh. Đặc tính "lai mà sôi nổi hơn thần sủng" này chính là gen của văn hóa ẩm thực Đài Loan.
+Điều kỳ diệu hơn là những truyền thống ẩm thực vốn có thể gây ra xung đột văn hóa này lại tìm được cách chung sống ở Đài Loan. Không ai cảm thấy việc một chợ đêm vừa có bánh xèo ốc kiểu Minh Nam và mì bò ngoại tỉnh là điều gì đó lạ lùng. Đặc tính "lai tạp năng động hơn thuần chủng" này chính là gen của văn hóa ẩm thực Đài Loan.
 
-## Bốn thứ ăn vặt, bốn câu chuyện sống sót
+## Bốn món ăn, bốn câu chuyện sinh tồn
 
-### Trứng chiên hàu: Sáng tạo Đài Loan được thúc đẩy bởi một trận chiến
+### Bánh xèo ốc: Sáng tạo Đài Loan được sinh ra từ chiến tranh
 
-Tháng 3 năm 1661, Trịnh Thành Công tấn công từ Lộc Nhĩ Môn vào Đài Nam, quân Hà Lan tức giận đốt hủy tất cả lương thực trong thành, dự tính khiến quân Trịnh không có lương thực phải rút lui. Quân Trịnh thích ứng với địa phương, dùng hàu từ vùng biển An Bình, bột khoai lang và rau xanh hòa nước chiên thành bánh để chịu đói. "Ẩm thực thời chiến" vô tình rất ngon, sau chiến tranh lưu truyền trong nhân gian, lâu dần đã tiến hóa thành trứng chiên hàu ngày hôm nay.
+Vào tháng 3 năm 1661, Trịnh Thành Công (Cheng Sukong) tấn công Đài Nam từ Lộc Nhĩ Môn; quân đội Hà Lan tức giận đã tiêu hủy tất cả ngũ cốc trong thành, cố gắng buộc quân Trịnh phải rút lui vì thiếu lương thực. Quân Trịnh tận dụng nguyên liệu tại chỗ, dùng ốc biển ở An Bình, bột khoai lang và rau xanh trộn nước chiên thành bánh để cầm cự. "Món ăn thời chiến" lại ngon một cách tình cờ, nó lan truyền trong dân gian sau chiến tranh và tiến hóa thành món bánh xèo ốc ngày nay.
 
-Những nhà ngôn ngữ học phát hiện, Phúc Kiến Tuyền Châu cũng có "chiên sò" tương tự, cách làm gần như giống hệt, rất có thể là di cư Tuyền Châu mang theo vị quê hương. Nhưng sự thật hay không cũng không quan trọng lắm. Trứng chiên hàu thể hiện logic lõi của ẩm thực Đài Loan: thích ứng với địa phương, nhân địa chỉ, nguyên liệu đơn giản tạo ra hương vị phi thường.
+Các nhà ngôn ngữ học phát hiện ra rằng Phúc Kiến Tuyền Châu cũng có món "chiên hàu" tương tự, phương pháp gần như giống hệt nhau, rất có thể là hương vị quê nhà mà người nhập cư Tuyền Châu mang đến đã kết hợp với câu chuyện của Trịnh Thành Công. Nhưng sự thật có lẽ không quan trọng. Bánh xèo ốc thể hiện logic cốt lõi của ẩm thực Đài Loan: tận dụng nguyên liệu tại chỗ, thích ứng với địa phương, tạo ra hương vị phi thường từ các thành phần đơn giản.
 
-### Đậu hũ thối: Triết lý mâu thuẫn chờ đợi tám tháng
+### Đậu phụ thối (Chou Doufu): Triết lý mâu thuẫn chờ tám tháng
 
-Năm 1993, một ông chủ tên Hồng chịu phỏng vấn bởi Tạp chí Quang Hoa Đài Loan, tiết lộ bí mật cao nhất của đậu hũ thối: nước bao chuẩn cổ pháp cần dâu dúi hoang dã, tre, cải cộng, dưa khoai, vân vân hàng chục loại rau, cộng muối ủ, lên men tự nhiên. Lần đầu làm phải yên tĩnh tám tháng trở lên mới dùng được.
+Năm 1993, một tiểu thương họ Hồng đã phỏng vấn cho tạp chí _Taiwan Guanghua_ và tiết lộ bí mật cao nhất của đậu phụ thối: nước ngâm chua cổ truyền chính tông cần nhiều loại rau như rau dại, măng tre, cải thảo, bí đao... được muối và lên men tự nhiên. Lần đầu tiên chế biến phải để yên ít nhất tám tháng mới sử dụng được.
 
-**Tám tháng. Ít hơn mang thai ba tháng.**
+**Tám tháng. Ít hơn một tháng so với thai kỳ.**
 
-Lý do mà đậu hũ thối Đài Loan có thể chinh phục vị giác của các phóng viên ẩm thực nước ngoài: chìa khóa không phải ở độ mùi thối mạnh, mà ở độ phức tạp lên men. Phiên bản đại lục Trung Quốc thường dùng chất phụ gia hóa học để tạo ra nhanh, mùi thối đơn điệu cay phải. Phiên bản Đài Loan lên men tự nhiên lâu dài, tạo ra hợp chất axit amin và este phức tạp, hình thành "thối nhưng có hương" mâu thuẫn. Năm 1995, phóng viên ẩm thực CNN đứng trước quầy tại chợ đêm Sĩ Lâm nói: "Tôi ghét đậu hũ thối ở nơi khác, nhưng tôi yêu ở Đài Loan." Độ nổi tiếng quốc tế của đồ ăn vặt chợ đêm Đài Loan, từ khoảnh khắc đó khởi hành.
+Lý do đậu phụ thối Đài Loan chinh phục vị giác của truyền thông nước ngoài không nằm ở cường độ mùi hôi, mà là ở tầng bậc lên men. Phiên bản Trung Quốc đại lục thường dùng chất phụ gia hóa học để sản xuất nhanh chóng, mùi hôi đơn điệu và nồng gắt. Phiên bản Đài Loan được ủ tự nhiên trong thời gian dài, tạo ra các hợp chất axit amin và ester phức tạp, hình thành hương vị mâu thuẫn "hôi mà thơm". Năm 1995, một phóng viên ẩm thực của CNN đứng trước quầy chợ đêm Sĩ Lâm nói: "Tôi ghét phiên bản đậu phụ thối ở nơi khác, nhưng tôi yêu phiên bản Đài Loan." Từ khoảnh khắc đó, tiếng vang quốc tế của ẩm thực chợ đêm Đài Loan đã cất cánh.
 
-### Bánh khu biên: Gen Phúc Châu 300 năm không thay đổi
+### Bột nhão (Dingbianhu): Gen Phúc Châu không thay đổi trong 300 năm
 
-Thập niên 1720, những ngư dân Phúc Châu di vào cảng Cơ Long, mang theo cách làm bánh khu biên quê hương. Đài Loan không có các loài cá nước ngọt đặc trưng của Phúc Châu, họ thích ứng với địa phương, dùng tôm vùng cảng Cơ Long và mực thay thế. "Giữ lại hình thức, nội dung địa phương hóa" — đây là chiến lược thích ứng điển hình nhất của ẩm thực di cư Đài Loan. 300 năm sau, tại chợ đêm miếu Cơ Long, mỗi tối vẫn bán ra khoảng 2000 bát bánh khu biên, mỗi cái đều là kết quả ba thế kỷ hòa nhập gen Phúc Châu và hương biển Đài Loan.
+Vào những năm 1720, ngư dân Phúc Châu di cư đến cảng Keelung, mang theo cách làm bột nhão quê nhà. Vì Đài Loan không có hải sản đặc trưng của Phúc Châu, họ đã tận dụng nguyên liệu tại chỗ, dùng tôm và mực ở cảng Keelung thay thế. "Giữ hình thức, bản địa hóa nội dung"—đây là chiến lược thích ứng điển hình nhất của ẩm thực nhập cư Đài Loan. Đến chợ đêm cổng đền Keelung 300 năm sau, mỗi đêm vẫn bán được khoảng 2000 bát bột nhão, và mỗi miếng đều là kết quả của sự hòa quyện ba thế kỷ giữa gen Phúc Châu và hải sản Đài Loan.
 
-### Bánh rế Chương Hóa: Quả bom calorie của công nhân thời Thanh
+### Bánh nhân thịt Chung Hóa (Changhua Rouyuan): Bom năng lượng của công nhân thời Thanh
 
-Nguồn gốc bánh rế Chương Hóa có bối cảnh thực tế tàn khốc: thời Thanh, bình nguyên Chương Hóa được khai phá đại quy mô, công nhân cần thực phẩm calo cao, dễ mang, no đói. Bánh rế dùng bột khoai lang làm vỏ (nông sản Đài Loan đặc biệt), gói thịt lợn và chỉ tre, mỗi cái cung cấp đủ calo để hỗ trợ nửa ngày lao động, sản xuất sẵn từ trước, mang ra cánh đồng ăn nguội cũng không ảnh hưởng cảm giác. Loại logic thiết kế "hướng nhu cầu" của đồ ăn vặt này, có chức năng hơn nhiều so với sáng tạo của nhà phê bình ẩm thực.
+Sự ra đời của bánh nhân thịt Chung Hóa có một bối cảnh thực tế tàn khốc: đồng bằng Chung Hóa thời Thanh được khai phá rộng rãi, công nhân cần thức ăn giàu năng lượng, tiện lợi và đủ no. Bánh nhân thịt dùng bột khoai lang làm vỏ (đặc sản Đài Loan), nhồi thịt heo và sợi măng, mỗi chiếc cung cấp đủ năng lượng để lao động nửa ngày; chúng được làm số lượng lớn trước, mang ra đồng ruộng ăn nguội cũng không ảnh hưởng đến hương vị. Logic ẩm thực "thiết kế theo nhu cầu" này còn mang tính chức năng hơn cả sự sáng tạo của các nhà sành ăn.
 
-## DNA địa phương: Mã mật vị giác trong huyết thống di cư
+## DNA địa phương: Mã vị giác trong huyết mạch người nhập cư
 
-Đồ ăn vặt địa phương Đài Loan không phải bản đồ ẩm thực du lịch, mà là phần lịch sử di cư. Phía sau mỗi đặc sản địa phương, đều là bằng chứng sống sót "sống được" của một nhóm dân tộc tại một không gian thời gian cụ thể.
+Ẩm thực địa phương Đài Loan không phải là bản đồ du lịch ẩm thực, mà là một cuốn sử về người nhập cư. Đằng sau mỗi món đặc sản đều là bằng chứng sinh tồn của một tộc người nào đó đã "sống sót" trong một không gian thời gian cụ thể.
 
-**Phía bắc**: Gen ngư dân Phúc Châu của bánh khu biên Cơ Long. Bánh được bọc mặn ở Đạm Thủy (phát minh tình cờ của Dương Đào Nữ thập niên 1960, "あげ" chính là dầu đậu phụ tiếng Nhật); bột gạo Tân Trúc phụ thuộc vào lợi thế địa lý khô bằng gió thập hạ tự nhiên
+**Miền Bắc:** Gen ngư dân Phúc Châu ở Bột nhão Keelung. A-ge (A-ge) ở Đài Tân (phát minh tình cờ vào những năm 1960 của bà Dương Đào, nhằm tận dụng dầu đậu phụ thừa; "age" là đậu phụ chiên kiểu Nhật); Mì gạo Tân Trúc dựa trên lợi thế địa lý sấy khô tự nhiên nhờ gió Cửu Giáng.
 
-**Phía giữa**: Bánh rế Chương Hóa là thức ăn lao động của khai phá nông nghiệp; chợ đêm Phùng Giáp là nôi em của đồ ăn vặt sáng tạo, sáng tạo kiểu Đài Loan của bánh bạch tuộc được sinh ra ở đây; từ năm 1950 tới nay Rồng Giang Long Cảng vẫn có 30 gia tiệm bán hơn, là vị Vân Nam, Miến Điện quân gia mang tới từ thập niên 1950, thích ứng bằng các cái sành Đài Loan chua và sống
+**Miền Trung:** Bánh nhân thịt Chung Hóa là thức ăn lao động trong quá trình khai phá nông nghiệp; Chợ đêm Phùng Giáp là cái nôi của các món ăn sáng tạo, nơi món bạch tuộc chiên kiểu Đài Loan ra đời; ở Long Giang, Đào Viên, vẫn có hơn 30 tiệm bánh gạo khô, mang hương vị Vân Nam do quân nhân người Miến Điện và Vân Nam mang đến vào những năm 1950, được cải tạo bằng dưa chua và giá đỗ của Đài Loan.
 
-**Phía nam**: Mì đại sỹ Đài Nam nguồn gốc từ sinh doanh phụ của ngư dân mùa bão; sữa đu đủ bò Cao Hùng sáu hợp lộ khoe nông sản nhiệt đới nam Đài Loan
+**Miền Nam:** Mì Đan Tử ở Đài Nam bắt nguồn từ sinh kế phụ của ngư dân trong mùa bão; sữa đu đủ ở chợ đêm Lục Hợp, Cao Hùng thể hiện sản vật nhiệt đới của miền Nam Đài Loan.
 
-**Phía đông**: Ẩm thực rau dại dân tộc Á Mỹ Hoa Liên và bánh tép; cơm sẻ Đài Đông dùng gạo đông Đài Loan tốt làm ra của văn hóa đường sắt
+**Miền Đông:** Ẩm thực rau dại người A-mi ở Hoa Liên và Bèn Thực (Bian Shi); Cơm hộp Chí Thượng ở Đài Đông sử dụng gạo tốt của miền Đông mang dấu ấn văn hóa đường sắt.
 
 > **💡 Bạn có biết không**
-> Tại sao đồ ăn vặt Đài Nam lại thường bao vị ngọt? Có hai lý thuyết: một là thời Nhật trị Đài Nam là nơi sản xuất đường lớn, đường dễ lấy được; hai là lao động nông nghiệp sơ kỳ cần bổ sung năng lượng nhanh, đường là nguồn calo trực tiếp nhất. Bất kể lý thuyết nào, đều chỉ tới cùng một sự thật: đồ ăn vặt Đài Loan chưa bao giờ sinh ra vì "văn hóa", mà vì "sống".
+> Tại sao ẩm thực Đài Nam lại có xu hướng ngọt? Có hai giả thuyết: một là vì Đài Nam là trung tâm sản xuất đường trong thời kỳ Nhật trị, đường dễ kiếm; hai là do lao động nông nghiệp ban đầu cần bổ sung năng lượng nhanh chóng, và đường là nguồn năng lượng trực tiếp nhất. Dù theo cách nào, điều đó đều chỉ ra một sự thật: ẩm thực Đài Loan chưa bao giờ được tạo ra vì "văn hóa", mà là vì "sự sinh tồn".
 
-## Trà sữa trân châu: Một đế chế toàn cầu vô tình
+## Trà sữa trân châu: Một đế chế toàn cầu tình cờ
 
-Tháng 3 năm 1987, tại chi nhánh Bốn Chiều Xuân Thủy Đường Đài Trung, người quản lý quầy tên Lâm Tú Huệ đi xe máy tới chợ Kiến Quốc mua hàng, một lần gây hứng, vô tình thả viên bột vào trà sữa lạnh. Không có kế hoạch, không có điều tra thị trường, không đăng ký bằng sáng chế.
+Vào tháng 3 năm 1987, Lâm Tú Huệ (Lin Xiuhui) giám đốc chi nhánh Tứ Vĩ của Xuân Thủy Đường lái xe đến chợ Kiến Quốc mua sắm, và bỗng nảy ra ý định cho trân châu mà cô thường ăn từ thời thơ ấu vào trà sữa đá. Không có kế hoạch, không khảo sát thị trường, không đăng ký bằng sáng chế.
 
-30 năm sau kết quả:
+Kết quả sau 30 năm:
 
-- **Thị trường 60 quốc gia toàn cầu**: Từ Tây Tạo tới Johannesburg đều có quầy bán trà sữa trân châu chuyên biệt
-- **Lợi tức hàng năm khoảng 300 tỷ đồng**: Chuỗi chòi trà lá, viên bột, thiết bị, vật liệu đóng gói năm ngành công nghiệp lớn
-- **Cửa hàng McDonald Đức nghịch đảo áp dụng**: Kể từ năm 2005 trong thực đơn thêm trà sữa trân châu, cao nhất mỗi ngày 2000 cốc
-- **Bùng nổ TikTok năm 2019**: #BubbleTeaChallenge tích lũy hơn 1 tỷ lần xem
+- **Thị trường toàn cầu 60 quốc gia:** Từ New York đến Johannesburg đều có cửa hàng chuyên bán trân châu.
+- **Giá trị sản xuất khoảng 300 tỷ Đài tệ:** Liên kết năm ngành công nghiệp lớn là trà, trân châu, thiết bị và bao bì.
+- **McDonald's Đức áp dụng ngược:** Từ năm 2005, họ thêm trân châu vào thực đơn, với lượng bán cao nhất lên tới 2000 ly mỗi ngày.
+- **Bùng nổ trên TikTok năm 2019:** Hashtag #BubbleTeaChallenge đạt hơn 1 tỷ lượt xem.
 
-**Khi McDonald bắt đầu bán đồ ăn vặt Đài Loan thay vì người Đài Loan bắt chước McDonald, đây là chiến thắng xuất khẩu văn hóa.**
+**Khi McDonald's bắt đầu bán ẩm thực Đài Loan thay vì người Đài Loan bắt chước McDonald's, đó là chiến thắng của việc truyền tải văn hóa.**
 
-Lý do sâu xa của sự thành công của trà sữa trân châu: viên bột QQ cung cấp cảm giác nhai không có tại các loại thức uống khác; độ ngọt, lạnh, phụ liệu có thể tùy chỉnh cá nhân theo sở thích; màng sealNy và ống hút rộng trở thành ký hiệu văn hóa có thể nhận biết được; "Đi uống trà sữa một lúc không?" trở thành câu mời gặp xã hội thường thấy nhất của người Đài Loan.
+Lý do sâu xa khiến trà sữa trân châu thành công: Trân châu dai (QQ) mang lại cảm giác nhai mà các đồ uống khác không có; khả năng tùy chỉnh độ ngọt, đá và nguyên liệu đáp ứng sở thích cá nhân; bao bì kín và ống hút to đã trở thành biểu tượng văn hóa dễ nhận biết; "Đi uống trà sữa cùng nhau nhé?" đã trở thành mẫu câu mời xã giao phổ biến nhất của người Đài Loan.
 
-Phía sau phát minh tình cờ này, thực ra là mô hình Đài Loan lớn hơn: **Những sáng tạo quan trọng nhất của đồ ăn vặt Đài Loan gần như chưa bao giờ được lên kế hoạch**. Xúc xích gói xúc xích lớn trong thập niên 1990 tiến hóa từ hộp com trưa của dân tộc Khách Gia ở Hoa Liên; gà chiên lớn tại chợ đêm Sĩ Lâm từ năm 1988 bắt đầu từ một ý tưởng "cứ thử xem"; bánh bạch tuộc tại chợ đêm Phùng Giáp là cách làm Nhật kết hợp với mayonnaise kiểu Đài Loan tự do trộn lẫn.
+Đằng sau phát minh tình cờ này, thực chất là một mô hình lớn hơn của Đài Loan: **sự đổi mới quan trọng nhất của ẩm thực Đài Loan hầu như chưa bao giờ được lên kế hoạch.** Món bánh bao nhân ruột (Dàochang Bāo Xiǎochāng) tiến hóa từ hộp cơm trưa của người Khách Gia ở Hoa Liên vào những năm 1990; món gà rán lớn ở chợ đêm Sĩ Lâm bắt đầu từ ý nghĩ "thử xem sao" vào năm 1988; bạch tuộc chiên ở chợ đêm Phùng Giáp là sự pha trộn tùy hứng giữa phương pháp Nhật Bản và sốt mayonnaise kiểu Đài Loan.
 
-## Mô hình kinh doanh bất khả thi
+## Mô hình kinh doanh không thể
 
-Thống kê chính phủ năm 2023: toàn Đài Loan 23,3 vạn quầy, 35,7 vạn người từ nghiệp, lợi tức năm khoảng 395,4 tỷ đồng.
+Số liệu thống kê của chính phủ năm 2023: Tổng cộng 233 ngàn quầy hàng trên toàn đảo, với 357 ngàn người làm việc, tổng doanh thu hàng năm khoảng 395,4 tỷ Đài tệ.
 
-| Những con số chính yếu chợ đêm Đài Loan (năm 2023) |                                   |
-| -------------------------------------------------- | --------------------------------- |
-| Chợ đêm quản lý                                    | 164 cái                           |
-| Tổng số quầy                                       | 23,3 vạn                          |
-| Lợi tức tổng hàng năm                              | khoảng 395,4 tỷ đồng              |
-| Dân số từ nghiệp                                   | 47,2 vạn                          |
-| Số chợ đêm thành phố Đài Nam                       | 49 cái (toàn Đài Loan nhiều nhất) |
+| Số liệu quan trọng của chợ đêm Đài Loan (2023) |                              |
+| :--------------------------------------------- | :--------------------------- |
+| Chợ được quản lý                               | 164 cái                      |
+| Tổng số quầy hàng                              | 233 ngàn quầy                |
+| Tổng doanh thu hàng năm                        | Khoảng 395,4 tỷ Đài tệ       |
+| Số người lao động                              | 472 ngàn người               |
+| Số chợ đêm ở Đài Nam                           | 49 cái (nhiều nhất toàn đảo) |
 
-Phân tích một bát trứng chiên hàu 50 đồng: hàu 15 đồng, trứng 5 đồng, rau xanh 3 đồng, bột khoai lang 2 đồng, phân chia tiền thuê quầy 8 đồng, gas điện 2 đồng, tổng chi phí khoảng 35 đồng, lợi nhuận 15 đồng. Một quầy nổi tiếng một tối bán 200 cái, lợi nhuận 3000 đồng, vợ chồng mỗi tháng lãi 5–8 vạn đồng.
+Phân tích chi phí của một phần bánh xèo ốc giá 50 Đài tệ: Ốc 15 Đài tệ, trứng 5 Đài tệ, rau củ 3 Đài tệ, bột khoai lang 2 Đài tệ, phân bổ tiền thuê quầy hàng 8 Đài tệ, điện gas 2 Đài tệ, tổng chi phí khoảng 35 Đài tệ, lợi nhuận gộp 15 Đài tệ. Một quầy hàng nổi tiếng bán được 200 phần một đêm, lợi nhuận gộp 3000 Đài tệ, hai vợ chồng kiếm được 5-8 vạn Đài tệ mỗi tháng.
 
-Tỷ lệ lợi nhuận không cao, nhưng thắng ở vòng quay. Cách khóa hơn là: **Chi phí khởi động vị trí chợ đêm 10–30 vạn đồng có thể khai trương kinh doanh**, cửa ngõ thấp khuyến khích thử nghiệm sáng tạo: vị mới, kết hợp mới, thành công rồi sao chép phổ biến, thất bại rồi chẳng ảnh hưởng cơ bản. Điều này giải thích tại sao chợ đêm Đài Loan lại có thể sinh sản ra một hệ sinh thái loại mục sở hữu đa dạng như vậy.
+Tỷ suất lợi nhuận không cao, nhưng bù lại là vòng quay vốn nhanh. Quan trọng hơn: **chi phí khởi nghiệp của quầy hàng chợ đêm chỉ cần 10-30 vạn Đài tệ là có thể bắt đầu**, ngưỡng thấp khuyến khích các thí nghiệm đổi mới: hương vị mới, sự kết hợp mới; thành công thì nhân rộng, thất bại thì không tổn hại đến xương cốt. Điều này giải thích tại sao chợ đêm Đài Loan có thể nuôi dưỡng ra một hệ sinh thái sản phẩm đa dạng như vậy.
 
-## Michelin gặp quầy chợ đêm
+## Michelin gặp gỡ quầy hàng chợ đêm
 
-Năm 2018, hướng dẫn Michelin lần đầu bước vào Đài Loan, điều đáng chú ý không phải những nhà hàng cao cấp đó, mà là 36 quầy ăn vặt đường phố nhận được Bib Gourmand (khuyến chỉ tích cực). Trong đó ba chợ đêm Đạo Hà, Lâm Giang Phố, Máy Bay Nam mỗi quầy có bốn quầy lên danh sách, tạo nên kỷ lục mật độ chợ đêm cao nhất toàn cầu.
+Năm 2018, Hướng dẫn viên Michelin lần đầu tiên vào Đài Loan, và điều gây kinh ngạc nhất không phải là những nhà hàng cao cấp, mà là 36 món ăn đường phố được trao Bib Gourmand (Đề cử đặc biệt). Trong đó, ba khu chợ đêm Nhiêu Hà, Lâm Giang và Nam Cơ đều có bốn nơi được liệt kê, lập kỷ lục về mật độ chợ đêm cao nhất thế giới.
 
-Chủ quầy phụ nữ "Kiến Hùng Mì Bò" tại chợ đêm Máy Bay Nam khi được phỏng vấn nói: "Trước khi Michelin đến, chúng tôi đã là như vậy. Không vì muốn giải thưởng mà thay đổi gì."
+Chủ quán "Mì bò Kiến Hồng" ở chợ đêm Nam Cơ phỏng vấn nói: "Trước khi Michelin đến, chúng tôi đã làm như thế này rồi. Chúng tôi không thay đổi bất cứ điều gì vì muốn đoạt giải."
 
-Lời nói này bộc lộ giá trị cốt lõi của chợ đêm Đài Loan: **Kỹ thuật không phải để các nhà phê bình, mà để những khách xếp hàng ngày mai.**
+Câu nói này đã nêu bật giá trị cốt lõi của chợ đêm Đài Loan: **nghệ thuật không phải để đánh giá, mà là cho những vị khách sẽ xếp hàng vào ngày mai.**
 
-Nhưng hiệu ứng Michelin cũng mang đến điều trái chiều. Một số chủ quầy lâu năm than phiền, sau khi giành giải, khách du lịch tăng đột biến, khách cũ bị pha loãng. "Chợ đêm là nhà bếp của người địa phương, không phải công viên giải trí của khách du lịch." Một nhân viên bán hàng rong lâu năm nói như vậy. Khi quầy đường phố bắt đầu theo đuổi công nhân Michelin, nó còn là quầy đường phố ban đầu không?
+Nhưng hiệu ứng Michelin cũng mang lại sự trào phúng. Một số tiểu thương lớn tuổi than phiền rằng sau khi đoạt giải, lượng khách du lịch tăng vọt, làm loãng đi lượng khách quen. "Chợ đêm là nhà bếp của người dân địa phương, chứ không phải công viên trò chơi của khách du lịch," một tiểu thương kỳ cựu nói. Khi các quầy hàng ven đường bắt đầu theo đuổi chứng nhận Michelin, liệu chúng có còn là những quầy hàng ven đường ban đầu?
 
 ## Ba cuộc khủng hoảng đang diễn ra
 
-**An toàn thực phẩm**: Sự cố "bột tinh bột độc hại" năm 2013 gây tổn hại nặng nề ngành công nghiệp ăn vặt, không ít cửa hàng cổ đắc danh bị phá hoại tiếng tăm. Yêu cầu chứng chỉ HACCP và truy xuất nguyên liệu đã tăng lên, nhưng khó độ quản lý quầy rong vẫn rất lớn.
+**An toàn thực phẩm:** "Sự cố tinh bột độc" năm 2013 đã gây tổn hại nặng nề cho ngành ẩm thực đường phố, khiến danh tiếng của nhiều cửa hàng trăm năm bị hủy hoại. Yêu cầu chứng nhận HACCP và truy xuất nguồn gốc nguyên liệu đang được nâng cao, nhưng độ khó trong quản lý các quầy hàng phân tán vẫn rất lớn.
 
-**Truyền thừa**: Công việc chợ đêm cực khó khăn — chiều 4 giờ chuẩn bị, nửa đêm 1 giờ đóng quầy, cả năm chỉ nghỉ vài ngày Tết. Thanh niên không muốn, nhiều vị trí tuổi cao, thực đơn 20 năm chẳng thay, đổi mới dừng lại.
+**Bảo tồn:** Công việc ở chợ đêm vất vả—chuẩn bị nguyên liệu lúc 4 giờ chiều, dọn hàng lúc 1 giờ sáng, một năm chỉ nghỉ vài ngày Tết. Giới trẻ thà làm nhân viên văn phòng, nhiều quầy hàng có người cao tuổi, thực đơn không thay đổi trong 20 năm, sự đổi mới trì trệ.
 
-**Mâu thuẫn xích-hóa**: Định Thái Phong và Yên Hòa đậu tương đưa ăn vặt truyền thống thành chuẩn hóa, toàn cầu hóa. Nhưng khi một ăn vặt mở đến 200 chi nhánh, chạy vào cửa hàng miễn thuế sân bay, nó còn là "thức ăn dân gian" ban đầu không? Xích-hóa khiến chất lượng ổn định, nhưng khiến sự "không có ông chủ thì đóng cửa" mất đi, và sự không chắc chắn đó, chính là linh hồn của chợ đêm.
+**Nghịch lý chuỗi hóa:** Din Tai Fung và Yǒnghé Doujiang đã tiêu chuẩn hóa, quốc tế hóa các món ăn truyền thống. Nhưng khi một quán ăn trở thành 200 chi nhánh, mở tại cửa hàng miễn thuế sân bay, nó còn là "thực phẩm bình dân" ban đầu không? Việc chuỗi hóa giúp chất lượng ổn định, nhưng lại làm mất đi sự bất định kiểu "sư phụ vắng mặt thì đóng cửa"—và chính sự bất định đó là một linh hồn của chợ đêm.
 
-## Không phải để được thấy
+## Không phải để được nhìn thấy
 
-Mùa hè năm 2024, ở chợ đêm Đạo Hà một ông chủ bán bánh tiêu hơi xá bị hỏi "sợ quầy khác ăn hết khách không?" Anh suy nghĩ ba giây nói: "Khách của tôi là những người đứng ở đây chờ tôi mỗi ngày, không phải những khách đến lần đầu của du lịch."
+Vào mùa hè năm 2024, chủ một quầy bánh tiêu (Hujiaobing) ở chợ đêm Nhiêu Hà được hỏi "có sợ bị các quầy khác cướp khách không?". Ông suy nghĩ ba giây rồi trả lời: "Khách của tôi là những người đứng đây chờ tôi mỗi ngày, chứ không phải khách du lịch lần đầu đến."
 
-Đồ ăn vặt Đài Loan từ thời Thanh di cư dùng nguyên liệu địa phương viết lại vị nhớ quê, đến hôm nay 23 vạn quầy sáng đèn trong đêm tối, chưa bao giờ thay đổi của là cái logic sơ khai: làm ngon, cho đi. nuôi sống.
+Ẩm thực Đài Loan, từ việc người nhập cư thời Thanh ghép nối hương vị quê nhà bằng nguyên liệu địa phương, cho đến 230 ngàn quầy hàng thắp đèn trong màn đêm hôm nay, điều chưa bao giờ thay đổi chính là logic mộc mạc đó: làm đồ ngon, để mọi người tiếp tục đi.
 
-Nó đi ra thế giới, không phải vì ai lên kế hoạch muốn ra thế giới. Khi Lâm Tú Huệ thả viên bột vào trà sữa, không biết mình đang tạo xuất khẩu văn hóa; khi Dương Đào Nữ nhồi chỉ trinh vào đậu phụ dầu dư để không lãng phí nguyên liệu, chỉ là không lãng phí thôi. Sức cạnh tranh mạnh nhất của đồ ăn vặt Đài Loan, chưa bao giờ là tuyên truyền "Ánh sáng Đài Loan", mà là doanh tâm đặc biệt mỗi ngày đóng quầy rồi ngày mai lại phải đến.
+Nó vươn ra thế giới không phải vì có ai lên kế hoạch nó sẽ vươn ra thế giới. Khi Lâm Tú Huệ cho trân châu vào trà sữa, cô không biết mình đang tạo ra sự truyền tải văn hóa; khi bà Dương Đào nhét bột chiên vào đậu phụ thừa để đóng gói, bà chỉ không muốn lãng phí nguyên liệu. Sức cạnh tranh mạnh nhất của ẩm thực Đài Loan chưa bao giờ là quảng cáo "Ánh sáng Đài Loan", mà chính là sức sống dai dẳng của việc ngày nào cũng quay lại sau khi dọn hàng.
 
-Sự bối rối của ông giáo sư Đức kia, thực ra chính là đáp án.
+Sự bối rối của vị giáo sư người Đức, thực chất chính là câu trả lời.
 
 ---
 
+## Nguồn hình ảnh
+
+- Hero: Cảnh đêm lối vào phía Đông chợ đêm dạo chơi phố Nhiêu Hà, nhiếp ảnh Ken Marshall, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:East_Entrance_of_Raohe_Street_Night_Market_20170530_night.jpg), CC BY 2.0.
+
 ## Tài liệu tham khảo
 
-- [Đậu hũ thối: mùi thơm kỳ diệu của Trung Quốc](https://www.taiwan-panorama.com/Articles/Details?Guid=beb7ff70-9a54-42a4-8a57-49f402159aab&CatId=10) — Tạp chí Quang Hoa Đài Loan, 1993
-- [Văn hóa chợ đêm Đài Loan: không phải huyền thoại lãng mạn](https://www.taiwan-panorama.com/Articles/Details?Guid=8c15ae35-f89b-461c-bed1-f481e2681fb7&CatId=10) — Tạp chí Quang Hoa Đài Loan
-- [Một cốc trà sữa lắc ra phép lạ kinh tế mới Đài Loan](https://event.gvm.com.tw/201811_bubble-tea/) — Tạp chí Viễn Kiến
-- [Đồ ăn vặt Đài Loan](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E5%B0%8F%E5%90%83) — Wikipedia
-- [Trứng chiên hàu là Trịnh Thành Công phát minh? Điều này có liên quan tới một trận chiến ba trăm năm trước?](https://today.line.me/tw/v2/article/YaYa5DQ) — Tạp chí Du ký, 2024
-- [Báo cáo thống kê bán hàng rong](https://www.moea.gov.tw/) — Bộ Kinh tế Văn phòng Khu vực Trung ương, 2023
-- [Hướng dẫn Cuối cùng trong Điều hướng Chợ Đêm Đài Bắc](https://guide.michelin.com/en/article/travel/best-night-market-taipei-food-travel-guide) — Hướng dẫn Michelin, 2024
-- [10 Loại Đồ Ăn Vặt Đài Loan Được Yêu Thích Nhất Trong 10 Năm Qua](https://taiwandatastories.com/zh/taiwan-street-food/) — Number Chơi Đài Loan
+- [Đậu phụ thối: Hương thơm kỳ lạ của Trung Quốc](https://www.taiwan-panorama.com/Articles/Details?Guid=beb7ff70-9a54-42a4-8a57-49f402159aab&CatId=10) — Tạp chí Guanghua Đài Loan, 1993
+- [Văn hóa chợ đêm Đài Loan: Không phải truyền thuyết lãng mạn](https://www.taiwan-panorama.com/Articles/Details?Guid=8c15ae35-f89b-461c-bed1-f481e2681fb7&CatId=10) — Tạp chí Guanghua Đài Loan
+- [Một ly trà sữa tạo nên kỳ tích kinh tế mới của Đài Loan](https://event.gvm.com.tw/201811_bubble-tea/) — Tạp chí Far Eastern Economic Review (Viễn Kiến)
+- [Ẩm thực đường phố Đài Loan](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E5%B0%8F%E5%90%83) — Wikipedia
+- [Bánh xèo ốc là phát minh của Trịnh Thành Công? Nó có liên quan đến một trận chiến ba trăm năm trước không?](https://today.line.me/tw/v2/article/YaYa5DQ) — Tạp chí Du Lữ, 2024
+- [Báo cáo thống kê tiểu thương](https://www.moea.gov.tw/) — Văn phòng Trung tâm Bộ Kinh tế, 2023
+- [Hướng dẫn tối thượng để điều hướng các chợ đêm ở Đài Bắc](https://guide.michelin.com/en/article/travel/best-night-market-taipei-food-travel-guide) — Hướng dẫn viên Michelin, 2024
+- [10 món ăn đường phố Đài Loan phổ biến nhất trong thập kỷ gần đây](https://taiwandatastories.com/zh/taiwan-street-food/) — Number chơi Đài Loan
 
 ## Chủ đề liên quan
 
-- [Văn hóa chợ đêm](/food/夜市文化) — Phân tích sâu chợ đêm như không gian xã hội
-- [Trà sữa trân châu](/food/珍珠奶茶) — Quyền lực toàn cầu ăn uống lỏng
-- [Cơm thịt kho Đài Loan](/food/台灣滷肉飯) — Ký ức tộc hợp trong một bát cơm
-- [Ẩm thực văn hóa Khách Gia](/food/客家飲食文化) — Sự khôn ngoan ẩm thực Khách Gia
-- [Hòa nhập ẩm thực tân cư dân Đài Loan](/food/台灣新住民美食融合) — Hòa nhập ẩm thực tiếp theo đang xảy ra
+- [Văn hóa chợ đêm](/vi/food/night-market-culture) — Phân tích sâu về chợ đêm như một không gian xã hội
+- [Trà sữa trân châu](/vi/food/bubble-tea) — Bá quyền toàn cầu của món ăn lỏng
+- [Cơm thịt kho Đài Loan](/vi/food/braised-pork-rice) — Ký ức tộc người trong một bát cơm thịt kho
+- [Văn hóa ẩm thực Khách Gia](/vi/food/hakka-food-culture) — Trí tuệ ẩm thực của cộng đồng Khách Gia
+- [Sự dung hợp ẩm thực cư dân mới Đài Loan](/vi/food/taiwanese-new-immigrant-culinary-fusion) — Làn sóng lai tạo ẩm thực tiếp theo đang diễn ra

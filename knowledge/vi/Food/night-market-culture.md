@@ -1,186 +1,192 @@
 ---
-title: 'Văn hóa chợ đêm'
-description: '164 chợ đêm được quản lý, trung bình mỗi 38.000 người ở Đài Nam có một chợ đêm, từ sân đền đến điểm du lịch quốc tế'
+title: 'Văn hóa chợ đêm Đài Loan'
+description: '164 khu chợ đêm được quản lý, Đài Nam có trung bình 38.000 người sở hữu một khu chợ đêm, từ sân chùa đến điểm du lịch quốc tế'
 date: 2026-03-21
-author: 'Taiwan.md'
 category: 'Food'
+tags:
+  ['chợ đêm', 'ẩm thực đường phố', 'văn hóa', 'du lịch', 'sinh hoạt đời thường']
 subcategory: '飲食場景'
-tags: ['Chợ đêm', 'Đồ ăn vặt', 'Văn hóa', 'Du lịch', 'Đời sống dân dã']
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true
-featured: false
 image: '/article-images/food/shilin-night-market-crowd-2015.webp'
+imageAlt: 'Đám đông tại chợ đêm Shilin'
 imageCredit: 'Richy / Wikimedia Commons'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:TWShiLinNightMarketRichy2.jpg'
 translatedFrom: 'Food/夜市文化.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:cad0161e7864d0ae'
-sourceBodyHash: 'sha256:ea37a51a6e2ccfcd'
-translatedAt: '2026-07-18T18:59:52+08:00'
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:86820d44ddf9a31a'
+sourceBodyHash: 'sha256:d37208c6e0c05c9c'
+translatedAt: '2026-09-23T01:05:22+08:00'
 ---
 
 # Văn hóa chợ đêm Đài Loan
 
-> **Tổng quan 30 giây:** Năm 2023, Đài Loan có 164 chợ đêm được quản lý chính thức, trong đó thành phố Đài Nam chiếm 49 chợ — trung bình cứ 38.000 người dân lại có một chợ đêm, mật độ cao nhất thế giới. Từ những chiếc đèn dầu hỏa tại Đại Đạo Đồn thời nhà Thanh đến các điểm du lịch quốc tế ngày nay, chợ đêm Đài Loan đã đi qua 150 năm lịch sử. Đằng sau một đĩa bánh tráng trứng giá 50 tệ là bức tranh thu nhỏ về đời sống dân dã của hòn đảo, đồng thời là sự thể hiện sức mạnh mềm thu hút hàng triệu du khách mỗi năm.
+> **Tóm tắt 30 giây:** Năm 2023, Đài Loan có 164 khu chợ đêm được quản lý, trong đó Đài Nam chiếm độc quyền 49 khu—trung bình cứ 38.000 người lại có một khu chợ đêm, mật độ cao nhất toàn cầu. Từ những khu chợ dùng đèn dầu thời Thanh triều đến các điểm du lịch quốc tế ngày nay, chợ đêm Đài Loan đã trải qua 150 năm lịch sử. Đằng sau một đĩa bánh Oa Zai giá 50 Đài tệ là hình ảnh thu nhỏ của đời sống dân dã trên đảo, và cũng là sự thể hiện sức mạnh mềm thu hút hàng triệu du khách mỗi năm.
 
-## Từ đèn dầu hỏa đến đèn neon: 150 năm lịch sử
+## 150 năm từ đèn dầu đến đèn neon
 
-Vào những năm 1870, Đại Đạo Đồn (Đại Đạo Đồn, Taipei) không hề yên tĩnh sau khi mặt trời lặn. Các nhân viên thương hành thắp đèn dầu hỏa để tiếp tục kiểm kê hàng hóa, các gánh bán mì đán (đán) và bánh viên thịt cũng lần lượt thắp đèn, cung cấp bữa tối nóng hổi cho những công nhân về đêm và thương nhân đi ngang qua. Đây có thể được coi là mầm mống sớm nhất của "chợ đêm" tại Đài Loan.
+Tại Đại Đào Thành (Tái Đạo Thành) của Đài Bắc vào những năm 1870, sau khi mặt trời lặn, nơi đây chưa bao giờ yên tĩnh. Các nhân viên thương gia thắp đèn dầu để tiếp tục kiểm kê hàng hóa; các quầy bánh Dàn Tái (Dàn Zai Mian) và thịt viên cũng bắt đầu sáng đèn, cung cấp bữa tối nóng hổi cho những người làm việc về đêm và khách bộ hành. Đây có lẽ là hình thái sơ khai của "chợ đêm" sớm nhất ở Đài Loan.
 
-Chợ đêm được ghi chép trong văn kiện chính thức xuất hiện lần đầu vào năm 1908. _Đài Loan Nhật Nhật Tân Báo_ ghi lại khu chợ đêm trên khoảng đất trống trước Thiên Hậu Cung ở Kỳ Tân, Cao Hùng, với giờ hoạt động từ 6 giờ tối đến 12 giờ khuya, bán các món ăn vặt và tạp hóa. Giai đoạn Nhật thuộc, các "Hội nghỉ mát" (Nạp Lương Hội) cũng góp phần thúc đẩy — người dân tụ tập vào những đêm hè để tránh nóng và xem biểu diễn, các tiểu thương tự nhiên cũng tập trung lại.
+Chợ đêm được ghi chép trong văn bản thực sự xuất hiện vào năm 1908. _Nhật Tân Báo Đài Loan_ đã ghi lại khu chợ đêm trước đền Thiên Hậu tại Kỳ Tân, Cao Hùng, hoạt động từ 6 giờ tối đến nửa đêm, bán đồ ăn vặt và tạp hóa. "Các buổi tụ tập giải trí" trong thời kỳ Nhật cai trị cũng góp phần thúc đẩy—người dân tụ tập vào những đêm hè để thư giãn và xem biểu diễn, và các tiểu thương tự nhiên cũng tập trung lại.
 
-Thập niên 1950, giai đoạn hậu chiến, là thời kỳ bùng nổ của văn hóa chợ đêm. Trong những năm kinh tế khó khăn, các nghề kinh doanh nhỏ lẻ trở thành nguồn sinh kế của nhiều người. Khoảng trống trước cửa đền, không gian sau khi chợ rau quả đóng cửa, đều bị các tiểu thương chiếm giữ. Cùng với sự phát triển của đô thị hóa, các tiểu thương phân tán khắp nơi dần dần tập trung lại, hình thành nên những chợ đêm quen thuộc như ngày nay.
+Những năm 1950 sau chiến tranh là giai đoạn bùng nổ văn hóa chợ đêm. Trong thời kỳ kinh tế khó khăn, việc làm ăn nhỏ đã trở thành nguồn sinh kế của nhiều người. Các khoảng đất trống trước chùa, hay khu vực sau khi chợ truyền thống đóng cửa, đều bị các tiểu thương chiếm dụng. Cùng với sự phát triển đô thị hóa, những tiểu thương rải rác này dần tập trung lại, hình thành nên những khu chợ đêm mà chúng ta quen thuộc ngày nay.
 
-## Sự thật đằng sau con số 164 chợ đêm
+## Sự thật về 164 khu chợ đêm
 
-Theo số liệu thống kê năm 2023 của Văn phòng Trung bộ thuộc Bộ Kinh Tế, toàn Đài Loan có **164** chợ đêm được quản lý. Con số này chưa bao gồm các chợ đêm nhỏ lẻ chưa được quản lý và các tiểu thương lưu động, số lượng thực tế có thể vượt quá 300.
+Theo thống kê của Văn phòng Trung tâm Bộ Kinh tế năm 2023, tổng cộng có **164** khu chợ đêm được quản lý trên toàn đảo. Con số này chưa bao gồm các khu chợ nhỏ không được đăng ký và người bán hàng rong, số lượng thực tế có thể vượt quá 300.
 
-**Đài Nam là vương quốc chợ đêm**, với 49 chợ đêm chiếm gần một phần ba tổng số trên toàn đảo. Tính ra: dân số Đài Nam là 1,85 triệu người, trung bình cứ 38.000 người lại có một chợ đêm. Mật độ này khó tìm thấy ở nơi nào khác trên thế giới. Triết lý sống của người dân Đài Nam dường như chỉ là "hôm nay sẽ đi chợ đêm nào?".
+**Đài Nam là vương quốc của chợ đêm**, với 49 khu chiếm gần một phần ba tổng số. Tính toán lại: dân số Đài Nam là 1,85 triệu người, trung bình cứ 38.000 người lại có một khu chợ đêm. Mật độ này không có nơi nào trên thế giới sánh bằng. Triết lý sống của người Đài Nam dường như là "Hôm nay đi chợ đêm nào?".
 
-So sánh với thành phố Đài Bắc, nơi chỉ có 11 chợ đêm được quản lý, nhưng quy mô và mức độ nổi tiếng lại cao hơn. **Chợ đêm Sĩ Lâm** vào cuối tuần có thể thu hút 100.000 lượt người, tương đương với dân số của một thành phố nhỏ tràn vào cùng lúc.
+Ngược lại, Đài Bắc chỉ có 11 khu chợ đêm được quản lý, nhưng quy mô và danh tiếng lại cao hơn. **Chợ đêm Shilin** thu hút tới 100.000 lượt khách vào cuối tuần, tương đương với toàn bộ dân số của một thành phố nhỏ đổ về.
 
-## Tiền thân và hiện tại của ba chợ đêm huyền thoại
+## Quá trình hình thành ba khu chợ huyền thoại
 
-### Chợ đêm Sĩ Lâm: Từ chợ rau quả đến thương hiệu quốc tế
+### Chợ đêm Shilin: Từ chợ truyền thống đến thương hiệu quốc tế
 
-Tiền thân của chợ đêm Sĩ Lâm là Chợ Sĩ Lâm được thành lập năm 1909. Bắt đầu từ thập niên 1950, các tiểu thương tụ tập bên ngoài chợ, dần dần hình thành chợ đêm. Năm 1983, phố ẩm thực dưới tầng hầm trên đường Cơ Hà chính thức đi vào hoạt động, định hình quy mô của chợ đêm Sĩ Lâm.
+Tiền thân của chợ đêm Shilin là Chợ Shilin được thành lập vào năm 1909. Các tiểu thương bắt đầu tụ tập bên ngoài chợ từ những năm 1950, dần hình thành nên khu chợ đêm. Khu phố ẩm thực ngầm ở đường Kê Hà (Jihe Road) được khai trương vào năm 1983, chính thức định hình quy mô của chợ đêm Shilin.
 
-Chợ đêm Sĩ Lâm ngày nay được chia thành hai phần: khu vực trên mặt đất quanh Nhà hát Dương Minh chủ yếu bán quần áo và tạp hóa, trong khi phố ẩm thực dưới tầng hầm chuyên về đồ ăn vặt. **Bánh gà khổng lồ** là thương hiệu đặc trưng ở đây — quán đầu tiên "Hạo Đại Đại Bánh Gà" bắt đầu hoạt động năm 1988, tạo nên huyền thoại về chiếc bánh gà lớn hơn cả khuôn mặt. Một chiếc bánh gà giá 90 tệ, nghe có vẻ không rẻ, nhưng dòng người xếp hàng chưa bao giờ ngừng.
+Chợ đêm Shilin ngày nay chia làm hai phần: khu vực xung quanh Nhà hát Dương Minh (Yangming Theater) trên mặt đất bán quần áo và tạp hóa; còn khu phố ẩm thực ngầm chuyên về đồ ăn vặt. **Gà chiên lớn** là đặc sản ở đây—nhà hàng "Gà chiên hào đại" đầu tiên bắt đầu hoạt động vào năm 1988, tạo nên truyền thuyết về những con gà to hơn cả khuôn mặt. Một miếng gà giá 90 Đài tệ nghe có vẻ không rẻ, nhưng dòng người xếp hàng chưa bao giờ ngớt.
 
-### Chợ đêm Lục Hợp: Người mở đường cho du lịch quốc tế
+### Chợ đêm Liuhe: Tiên phong du lịch quốc tế
 
-Chợ đêm Lục Hợp bắt đầu từ sự tụ tập của các tiểu thương trên khoảng đất trống Đại Cảng Bộc vào đầu thập niên 1950. Năm 1987, chính quyền thành phố Cao Hùng quy hoạch đoạn đường Lục Hợp dài 200 mét thành khu vực đi bộ, trở thành chợ đêm du lịch đầu tiên được chính phủ quy hoạch tại Đài Loan.
+Chợ đêm Liuhe bắt đầu từ sự tụ tập của các tiểu thương tại khu đất trống Đại Cảng Phố (Dagangpu) vào đầu những năm 1950. Năm 1987, chính quyền thành phố Cao Hùng quy hoạch đoạn đường dài 200 mét trên đường Liuhe thành lối đi dành riêng cho người đi bộ, trở thành khu chợ đêm du lịch đầu tiên được chính phủ quy hoạch ở Đài Loan.
 
-**Cháo hải sản** ở đây nguyên liệu rất thật: tôm, cua, hàu, thịt cá đều được cho vào nồi, một bát giá 120 tệ, là món ăn yêu thích của du khách nước ngoài. CNN từng bình chọn chợ đêm Lục Hợp là "chợ đêm đáng ghé thăm nhất thế giới", chủ yếu là vì những món hải sản này.
+**Cháo hải sản** ở đây rất chất lượng: tôm, cua, sò Oa (Oa Zai), thịt cá đều được nấu chung, một tô giá 120 Đài tệ, là món yêu thích của khách du lịch nước ngoài. CNN từng đánh giá chợ đêm Liuhe là "chợ đêm phải đến thế giới", chủ yếu là để thưởng thức các món hải sản này.
 
-### Chợ đêm Phùng Chi: Phòng thí nghiệm của đồ ăn vặt sáng tạo
+### Chợ đêm Fengjia: Phòng thí nghiệm ẩm thực sáng tạo
 
-Chợ đêm Phùng Chi bắt đầu phát triển vào thập niên 1960, nhưng thực sự bùng nổ vào thập niên 1990. Sinh viên Đại học Phùng Chi đông, sức mua mạnh, cộng với việc giới trẻ thích thử nghiệm, khiến nơi đây trở thành cái nôi của đồ ăn vặt sáng tạo.
+Chợ đêm Fengjia nổi lên từ những năm 1960, nhưng thực sự bùng nổ vào những năm 1990. Với số lượng sinh viên lớn và khả năng chi tiêu mạnh mẽ của sinh viên Đại học Fengjia, cùng với sở thích thử món mới của giới trẻ, nơi đây trở thành cái nôi của các món ăn sáng tạo.
 
-**Bánh cá Octopus (Takoyaki)** là sáng tạo của chợ đêm Phùng Chi. Vào thập niên 1990, gian hàng Takoyaki đầu tiên giới thiệu cách làm của Nhật Bản, nhưng thêm mayonnaise kiểu Đài và bột rong biển, tạo ra "Takoyaki kiểu Đài". Bây giờ, Takoyaki có thể thấy ở khắp các chợ đêm trên toàn đảo, nguồn gốc chính là ở Phùng Chi.
+**Ốc sên nướng (Jiaodai Pai)** là phát minh của chợ đêm Fengjia. Quầy ốc sên nướng đầu tiên vào những năm 1990 đã du nhập phương pháp Nhật Bản, nhưng lại thêm tương ớt Đài Loan và bột rong biển, tạo ra món "Ốc sên nướng kiểu Đài Loan". Ngày nay, ốc sên nướng có thể được tìm thấy ở mọi chợ đêm trên toàn đảo, với nguồn gốc từ Fengjia.
 
-## Chuỗi công nghiệp đằng sau một đĩa bánh tráng trứng
+## Chuỗi công nghiệp đằng sau một đĩa Oa Zai
 
-Những món ăn vặt chợ đêm tưởng chừng đơn giản, nhưng đằng sau là một chuỗi công nghiệp khổng lồ. Lấy ví dụ về bánh tráng trứng (Oyster Omelet):
+Món ăn vặt tưởng chừng đơn giản của chợ đêm lại ẩn chứa một chuỗi công nghiệp khổng lồ. Lấy ví dụ về Oa Zai:
 
-**Hàu** chủ yếu đến từ các trang trại nuôi trồng ven biển ở Vân Lâm và Gia Nghĩa. Sản lượng hàu Đài Loan hàng năm khoảng 20.000 tấn, một phần ba số này đi vào chợ đêm. Một quả hàu tươi từ biển đến quầy chợ đêm, qua các khâu thu hoạch, rửa sạch, vận chuyển, bán buôn, nhanh nhất 24 giờ có thể xuất hiện trước mặt khách.
+**Sò Oa (Oa Zai)** chủ yếu đến từ các trang trại nuôi trồng ven biển ở Vân Lâm và Gia Nghĩa. Các nông dân nuôi sò Oa trên đảo sản xuất khoảng 20.000 tấn mỗi năm, một phần ba được đưa vào chợ đêm. Một con sò tươi từ bờ biển đến quầy hàng chợ đêm trải qua quá trình thu hoạch, làm sạch, vận chuyển, bán buôn, và có thể xuất hiện trước mặt khách hàng trong vòng tối đa 24 giờ.
 
-**Bột khoai lang** đến từ các ruộng khoai lang ở Nhị Lâm, Chương Hóa và các địa điểm khác. Bánh tráng trứng chợ đêm không dùng bột năng thông thường, mà là bột khoai lang pha chế, loại bột này tạo nên kết cấu dai đặc biệt.
+**Bột khoai lang** đến từ các cánh đồng khoai lang ở Nhương Hóa và Nhị Lâm. Oa Zai dùng trong chợ đêm không phải là bột mì thông thường, mà là hỗn hợp được làm từ bột khoai lang, loại bột này giúp lớp trứng chiên có độ dai đặc biệt.
 
-**Rau** thường là rau cải trắng hoặc rau cúc, chủ yếu đến từ nông dân Vân Lâm và Chương Hóa. Một quầy bánh tráng trứng có thể bán 200 phần mỗi ngày, cần 10 cân hàu, 5 cân rau, 50 quả trứng, đằng sau kết nối sinh kế của hàng chục hộ nông dân và ngư dân.
+**Rau củ** thường là cải thảo hoặc rau muống, chủ yếu đến từ các nông dân ở Vân Lâm và Nhương Hóa. Một quầy Oa Zai có thể bán 200 phần một ngày, cần 10 cân sò Oa, 5 cân rau, và 50 quả trứng, liên kết với sinh kế của hàng chục người làm nông và ngư nghiệp.
 
-## Bí quyết sáng tạo của đồ ăn vặt chợ đêm
+## Mật mã sáng tạo của ẩm thực chợ đêm
 
-Điều tuyệt vời nhất của đồ ăn vặt chợ đêm Đài Loan là "sáng tạo bản địa hóa". Đồ ăn ngoại lai khi vào Đài Loan nhất định sẽ xảy ra biến đổi.
+Điều tuyệt vời nhất của chợ đêm Đài Loan là "sự đổi mới bản địa hóa". Các món ăn ngoại lai khi du nhập vào Đài Loan chắc chắn sẽ có sự thay đổi.
 
-**Bánh hồ tiêu (Hu Jiao Bing)** ban đầu là món ăn vặt Phúc Châu, nhưng phiên bản Đài Loan dùng tiêu đen, thêm hành lá, khẩu vị đậm đà hơn. **Bánh bao cắt (Kui Bao)** học từ Phúc Kiến, nhưng Đài Loan thêm dưa chua, bột đậu phộng, rau mùi, tầng vị phong phú hơn.
+**Bánh hồ tiêu (Hujiao Bing)** ban đầu là món ăn vặt Phúc Châu, nhưng phiên bản Đài Loan đã sử dụng tiêu đen và thêm hành lá, hương vị đậm đà hơn. **Bánh bao (Gao Bao)** học từ Phúc Kiến, nhưng người Đài Loan lại thêm dưa chua, bột đậu phộng và rau mùi, tạo nên sự phong phú hơn.
 
-**Trà trân châu** là phát minh thuần túy của Đài Loan. Vào thập niên 1980, Xuân Thủy Đường ở Đài Trung thêm trân châu vào trà sữa, tạo ra thức uống nổi tiếng toàn cầu. Bây giờ, trà trân châu ở Nhật Bản gọi là "Trà sữa Đài Loan", ở Mỹ gọi là "Bubble Tea", đều ghi rõ nguồn gốc Đài Loan.
+**Trà sữa trân châu** là phát minh thuần túy của Đài Loan. Vào những năm 1980, Xuân Thủy Đường (Chunshuitang) ở Đài Trung đã cho viên bột trân châu vào trà sữa, tạo ra thức uống nổi tiếng toàn cầu. Ngày nay, nó được gọi là "Trà sữa Đài Loan" ở Nhật Bản và "Bubble Tea" ở Mỹ, đều ghi rõ nguồn gốc Đài Loan.
 
-**Bánh xe (Che Lun Bing)** cũng là sáng tạo của Đài Loan. Người Nhật làm vị đậu đỏ, người Đài Loan phát minh ra kem, sô cô la, khoai môn, trà xanh và hàng chục loại nhân khác. Một quầy bánh xe có thể có 20 loại vị, là cơn ác mộng của những người khó chọn.
+**Bánh xe (Xelun Bing)** cũng là sự sáng tạo của Đài Loan. Người Nhật làm phiên bản vị đậu đỏ, nhưng người Đài Loan đã phát minh ra hàng chục loại nhân như kem tươi, sô cô la, khoai môn và matcha. Một quầy bánh xe có thể có 20 loại hương vị, là cơn ác mộng đối với những người mắc chứng khó chọn lựa.
 
-## Cuộc đời lưu động của chợ đêm di động
+## Cuộc đời tuần du của chợ đêm lưu động
 
-Bên cạnh chợ đêm cố định, Đài Loan còn có khoảng 100 "chợ đêm lưu động". Các tiểu thương này hợp thành đội xe, thứ Hai ở thị trấn A, thứ Ba đến thị trấn B, chạy 5-6 địa điểm trong một tuần.
+Ngoài các khu chợ cố định, Đài Loan còn có khoảng 100 "chợ đêm lưu động". Những tiểu thương này tạo thành một đội xe, thứ Hai ở thị trấn A, thứ Ba đến thị trấn B, chạy 5-6 địa điểm mỗi tuần.
 
-**Chợ đêm lưu động Thảo Thôn, Nam Đầu** là đại diện. 40 xe quầy hợp thành đội xe, thứ Hai Thảo Thôn, thứ Ba Danh Gian, thứ Ba Trúc Sơn, thứ Tư Tập Tập, thứ Năm Thủy Lý. Đến mỗi nơi đều dựng lều trên khoảng trống, tháo dỡ sau nửa đêm, ngày hôm sau chuyển đến thị trấn tiếp theo.
+**Chợ đêm Lưu động Cao Thôn (Caotun) Nam Đầu** là một đại diện tiêu biểu. 40 chiếc xe đẩy tạo thành đoàn, thứ Hai ở Cao Thôn, thứ Ba ở Danh Gian, thứ Tư ở Trúc Sơn, thứ Năm ở Tập Tập, thứ Sáu ở Thủy Lý. Mỗi nơi họ dựng lều trên bãi đất trống, và tháo dỡ sau nửa đêm để di chuyển đến thị trấn tiếp theo vào ngày hôm sau.
 
-Mô hình kinh doanh này giải quyết vấn đề thiếu hụt chức năng thương mại ở vùng sâu vùng xa. Đối với người già ở nông thôn, chợ đêm lưu động không chỉ là nơi mua đồ, mà còn là buổi tụ tập xã giao một tuần một lần. Chủ quầy đều quen mặt khách thường xuyên, biết ai thích ăn gì, nhà ai gần đây xảy ra chuyện gì.
+Mô hình kinh doanh này đã giải quyết vấn đề thiếu chức năng thương mại ở các vùng nông thôn. Đối với người già trong làng, chợ đêm lưu động không chỉ là nơi mua sắm mà còn là buổi gặp gỡ xã hội một tuần một lần. Các chủ tiểu thương đều quen biết khách quen, biết ai thích ăn gì, và gia đình nào gần đây có chuyện gì.
 
-## Kinh tế học chợ đêm: Làm thế nào để kiếm lời từ đĩa bánh tráng trứng 50 tệ
+## Kinh tế học chợ đêm: Làm thế nào để kiếm tiền từ đĩa Oa Zai giá 50 Đài tệ?
 
-Một đĩa bánh tráng trứng bán 50 tệ, cấu trúc chi phí đại khái như sau:
+Một phần Oa Zai bán với giá 50 Đài tệ, cấu trúc chi phí cơ bản như sau:
 
-- Hàu: 15 tệ (6-8 quả)
-- Trứng: 5 tệ (1 quả)
-- Rau: 3 tệ
-- Bột khoai lang, gia vị: 2 tệ
-- Tiền thuê quầy (chia sẻ): 8 tệ
-- Gas, điện: 2 tệ
-- **Tổng chi phí khoảng 35 tệ, lợi nhuận gộp 15 tệ**
+- Sò Oa: 15 Đài tệ (6-8 con)
+- Trứng: 5 Đài tệ (1 quả)
+- Rau củ: 3 Đài tệ
+- Bột khoai lang, gia vị: 2 Đài tệ
+- Tiền thuê quầy (chia sẻ): 8 Đài tệ
+- Gas, điện: 2 Đài tệ
+- **Tổng chi phí khoảng 35 Đài tệ, lợi nhuận gộp là 15 Đài tệ**
 
-Nhìn qua lợi nhuận mỏng, nhưng một quầy hot có thể bán 200 phần mỗi đêm, lợi nhuận gộp 3.000 tệ. Trừ đi chi phí nhân lực, vợ chồng kinh doanh một quầy bánh tráng trứng, thu nhập hàng tháng có thể đạt 50.000-80.000 tệ.
+Trông có vẻ lợi nhuận ít ỏi, nhưng một quầy hàng nổi tiếng có thể bán được 200 phần trong một đêm, với lợi nhuận gộp là 3.000 Đài tệ. Sau khi trừ chi phí nhân công, hai vợ chồng điều hành một quầy Oa Zai có thể đạt thu nhập từ 50.000 đến 80.000 Đài tệ mỗi tháng.
 
-Tất nhiên, đây là tình huống lý tưởng. Thực tế còn phải đối mặt với thời tiết, cạnh tranh, giá nguyên liệu tăng v.v. Năm 2022, sản lượng hàu giảm 30% do thời tiết bất thường, nhiều tiểu thương buộc phải giảm lượng hàu hoặc tăng giá.
+Tất nhiên, đây là tình huống lý tưởng. Trên thực tế, họ còn phải đối mặt với rủi ro thời tiết, cạnh tranh và giá nguyên liệu tăng. Năm 2022, sản lượng sò Oa giảm 30% do khí hậu bất thường, buộc nhiều tiểu thương phải giảm lượng sò hoặc tăng giá.
 
-## Danh thiếp du lịch quốc tế của Đài Loan
+## Danh thiếp Đài Loan trong mắt du khách quốc tế
 
-Đối với du khách nước ngoài, chợ đêm là cách trải nghiệm Đài Loan trực tiếp nhất. Trước đại dịch năm 2019, chợ đêm Sĩ Lâm thu hút hơn 10 triệu du khách mỗi năm, trong đó một phần ba là người nước ngoài.
+Đối với du khách nước ngoài, chợ đêm là cách trực tiếp nhất để trải nghiệm Đài Loan. Trước đại dịch năm 2019, chợ đêm Shilin thu hút hơn 10 triệu du khách mỗi năm, trong đó một phần ba là người nước ngoài.
 
-**Chương trình ẩm thực Netflix**, **phim tài liệu Anthony Bourdain**, **báo chí du lịch CNN**, đều liệt kê chợ đêm Đài Loan là điểm đến bắt buộc. Năm 2018, hướng dẫn Michelin lần đầu tiên đến Đài Loan, cũng ghi nhận nhiều quầy chợ đêm, đưa đồ ăn vặt Đài Loan lên sân khấu quốc tế.
+Các chương trình ẩm thực trên **Netflix**, bộ phim tài liệu của **Anthony Bourdain**, và các phóng sự du lịch của **CNN** đều liệt kê chợ đêm Đài Loan là điểm đến không thể bỏ qua. Năm 2018, Cẩm nang Michelin lần đầu tiên đến Đài Loan và cũng ghi nhận nhiều quầy hàng trong các khu chợ đêm, đưa ẩm thực đường phố Đài Loan lên sân khấu quốc tế.
 
-Nhưng quốc tế hóa cũng mang lại thách thức. Để phục vụ du khách nước ngoài, một số quầy chợ đêm bắt đầu điều chỉnh khẩu vị, tăng giá, thêm thực đơn tiếng Anh. Kết quả là người nước ngoài cảm thấy không đủ "chuẩn", người địa phương cảm thấy quá đắt, tạo ra tình huống "không làm hài lòng" ở cả hai phía.
+Nhưng sự quốc tế hóa cũng mang lại thách thức. Để chiều lòng du khách nước ngoài, một số quầy hàng bắt đầu điều chỉnh hương vị, tăng giá và thêm menu tiếng Anh. Kết quả là người nước ngoài cảm thấy không đủ "đậm chất bản địa", còn người dân địa phương thì cho rằng quá đắt đỏ, tạo ra tình thế tiến thoái lưỡng nan.
 
-## Thách thức sáng tạo của thế hệ thứ hai tiểu thương
+## Thách thức đổi mới của thế hệ tiểu thương thứ hai
 
-Chợ đêm đang đối mặt với sự thay thế thế hệ. Nhiều tiểu thương thế hệ thứ nhất đã cao tuổi, thế hệ thứ hai không nhất thiết muốn tiếp quản.
+Chợ đêm đang đối mặt với sự thay thế thế hệ. Nhiều tiểu thương thế hệ đầu đã già yếu, nhưng thế hệ thứ hai lại không nhất thiết muốn tiếp quản.
 
-**Chùa Đậu đen nhà Lâm** là cửa hàng cũ ở chợ đêm Sĩ Lâm, chủ thế hệ thứ nhất Lâm Xuân Sinh bắt đầu bán chùa đậu đen từ năm 1975. Con trai Lâm Chí Hồng sau khi tốt nghiệp đại học từng làm việc ở công ty công nghệ, năm 2015 mới quay lại tiếp quản quầy. Ông áp dụng hệ thống POS, phát triển dịch vụ giao hàng, vận hành mạng xã hội, doanh thu hàng năm từ 2 triệu tăng lên 5 triệu.
+**Họ Tứ (Chou Doufu) nhà họ Lâm** là một cửa hàng lâu đời ở chợ đêm Shilin; người chủ thế hệ đầu, Lâm Xuân Sinh (Lin Chunsheng), bắt đầu bán đậu phụ lên men từ năm 1975. Con trai ông, Lâm Chí Hồng (Lin Zhihong), sau khi tốt nghiệp đại học đã làm việc tại một công ty công nghệ, và chỉ quay về tiếp quản quầy hàng vào năm 2015. Anh ấy đã áp dụng hệ thống POS, phát triển dịch vụ giao tận nhà và vận hành mạng xã hội, giúp doanh thu hàng năm tăng từ 2 triệu lên 5 triệu Đài tệ.
 
-Nhưng nhiều thế hệ thứ hai khác chọn rời đi. Công việc chợ đêm rất vất vả — chuẩn bị nguyên liệu lúc 4 giờ chiều, thu quầy lúc 1 giờ sáng, cả năm chỉ nghỉ vài ngày Tết. Giới trẻ thà làm nhân viên văn phòng, cũng không muốn chịu đựng cuộc sống này.
+Nhưng nhiều thế hệ thứ hai lại chọn rời đi. Công việc ở chợ đêm rất vất vả—chuẩn bị nguyên liệu lúc 4 giờ chiều, dọn hàng lúc 1 giờ sáng, và chỉ được nghỉ vài ngày trong dịp Tết một năm. Giới trẻ thà làm nhân viên văn phòng còn hơn gánh chịu cuộc sống này.
 
-Kết quả là tiểu thương già hóa, thiếu sáng tạo. Nhiều quầy thực đơn 20 năm không thay đổi, mô hình kinh doanh vẫn dừng lại ở thời đại giao dịch tiền mặt, ghi chép tay.
+Kết quả là sự già hóa của tiểu thương và thiếu đổi mới. Nhiều quầy hàng đã không thay đổi thực đơn trong 20 năm, mô hình kinh doanh vẫn dừng lại ở giao dịch tiền mặt và ghi chép bằng tay.
 
-## Đau đớn của chuyển đổi số
+## Nỗi đau chuyển đổi số
 
-Đại dịch đẩy nhanh quá trình số hóa chợ đêm. Nền tảng giao đồ ăn tiến vào, thanh toán di động phổ biến, đặt đồ ăn trực tuyến nổi lên, tiểu thương truyền thống buộc phải học công nghệ mới.
+Đại dịch đã đẩy nhanh quá trình số hóa chợ đêm. Các nền tảng giao đồ ăn xâm nhập, thanh toán di động phổ biến, đặt hàng trực tuyến nổi lên, buộc các tiểu thương truyền thống phải học công nghệ mới.
 
-**Chợ đêm Ninh Hạ** là điển hình của chuyển đổi. Năm 2020 phát hành "Đặt đồ ăn trực tuyến chợ đêm Ninh Hạ", khách có thể đặt online, lấy đồ tại chỗ, tránh chờ đợi xếp hàng. Cùng năm áp dụng "Đài Bắc Thông" thanh toán số, cho phép du khách dùng thẻ giao thông hoặc thẻ tín dụng để thanh toán.
+**Chợ đêm Ninh Hạ (Ningxia)** là một điển hình chuyển đổi. Năm 2020, họ ra mắt "Đặt hàng trực tuyến chợ đêm Ninh Hạ", khách hàng có thể đặt hàng trên mạng và nhận tại chỗ mà không cần xếp hàng chờ đợi. Cùng năm đó, họ áp dụng thanh toán kỹ thuật số "Taipei Tong" (Đài Bắc Thông), cho phép du khách thanh toán bằng thẻ thông minh hoặc thẻ tín dụng.
 
-**Chợ đêm Phùng Chi** hợp tác với Uber Eats, foodpanda, cho phép người tiêu dùng ăn đồ ăn chợ đêm ngay tại nhà. Trong thời kỳ đại dịch, doanh thu giao hàng chiếm 20-30% tổng doanh thu, một số tiểu thương thậm chí tăng doanh thu nhờ đó.
+**Chợ đêm Fengjia** hợp tác với Uber Eats và foodpanda, giúp người tiêu dùng thưởng thức ẩm thực chợ đêm ngay tại nhà. Trong thời kỳ đại dịch, doanh thu giao hàng chiếm 20-30% tổng thu nhập của một số tiểu thương.
 
-Nhưng số hóa cũng có cái giá. Nền tảng giao hàng thu phí 25-30%, nén lợi nhuận đáng kể. Thanh toán di động cần đầu tư thiết bị và phí giao dịch. Đối với tiểu thương lớn tuổi, học công nghệ mới bản thân đã là thách thức.
+Nhưng số hóa cũng có cái giá của nó. Các nền tảng giao đồ ăn thu phí hoa hồng 25-30%, làm giảm đáng kể lợi nhuận. Thanh toán di động đòi hỏi đầu tư thiết bị và phí giao dịch. Đối với các tiểu thương lớn tuổi, việc học công nghệ mới tự bản thân đã là một thách thức.
 
-## Thế lưỡng nan an toàn thực phẩm và bảo vệ môi trường
+## Hai mặt của vấn đề an toàn thực phẩm và bảo vệ môi trường
 
-Vấn đề an toàn thực phẩm chợ đêm thỉnh thoảng vẫn xảy ra. Năm 2019, một chợ đêm ở Chương Hóa bùng phát sự cố ngộ độc thực phẩm, hơn 40 người đi viện do tiêu chảy vì ăn hải sản không sạch. Năm 2021, một chợ đêm ở Đài Bắc bị phát hiện sử dụng nguyên liệu quá hạn.
+Các vấn đề về an toàn thực phẩm ở chợ đêm đã được ghi nhận. Năm 2019, một khu chợ đêm ở Nhương Hóa xảy ra sự cố ngộ độc thực phẩm, hơn 40 người phải nhập viện do tiêu thụ hải sản không sạch. Năm 2021, một khu chợ đêm ở Đài Bắc bị phát hiện sử dụng nguyên liệu hết hạn.
 
-Vấn đề nằm ở quản lý khó khăn. Số lượng tiểu thương chợ đêm lớn, tính lưu động cao, nhân lực đơn vị vệ sinh có hạn. Cộng với việc kinh doanh nhỏ lẻ theo đuổi chi phí thấp, nguồn nguyên liệu và điều kiện bảo quản khó kiểm soát.
+Vấn đề nằm ở sự khó khăn trong quản lý. Số lượng tiểu thương chợ đêm rất đông và tính lưu động cao, nhân lực của cơ quan vệ sinh còn hạn chế. Cùng với việc kinh doanh nhỏ lẻ theo đuổi chi phí thấp, nguồn gốc và điều kiện bảo quản nguyên liệu rất khó kiểm soát.
 
-Áp lực bảo vệ môi trường cũng đang tăng. Chợ đêm sử dụng nhiều đồ dùng một lần, tạo ra lượng rác đáng kể. Thành phố Đài Bắc năm 2020 yêu cầu tiểu thương chợ đêm cung cấp dịch vụ cho thuê đồ dùng bảo vệ môi trường, nhưng hiệu quả thực thi hạn chế — người tiêu dùng cảm thấy phiền, tiểu thương cảm thấy tăng chi phí.
+Áp lực môi trường cũng ngày càng tăng. Chợ đêm sử dụng rất nhiều đồ dùng một lần, tạo ra lượng rác thải đáng kể. Năm 2020, thành phố Đài Bắc yêu cầu các tiểu thương chợ đêm cung cấp dịch vụ cho thuê đồ dùng thân thiện với môi trường, nhưng hiệu quả thực hiện còn hạn chế—người tiêu dùng cảm thấy phiền phức, còn tiểu thương thì cảm thấy tăng chi phí.
 
-## Diện mạo mới của chợ đêm thời hậu đại dịch
+## Diện mạo mới của chợ đêm trong thời kỳ hậu đại dịch
 
-Đại dịch thay đổi hệ sinh thái chợ đêm. Kiểm soát dòng người, chế độ danh tính, giữ khoảng cách xã hội, khiến chợ đêm vốn náo nhiệt, đông đúc trở nên vắng vẻ. Nhiều tiểu thương già không qua khỏi đại dịch mà đóng cửa, cũng có máu mới nhân cơ hội bước vào.
+Đại dịch đã thay đổi hệ sinh thái chợ đêm. Việc kiểm soát dòng người, đăng ký tên và giữ khoảng cách xã hội khiến những khu chợ vốn nhộn nhịp trở nên vắng vẻ. Nhiều tiểu thương lớn tuổi không thể vượt qua đại dịch mà phải đóng cửa, nhưng cũng có máu mới chen chân vào.
 
-**Trẻ hóa** là xu hướng rõ rệt. Tiểu thương mới phần lớn là 30-40 tuổi, có nền tảng giáo dục khá, biết vận hành mạng xã hội để marketing. Quầy của họ thiết kế hiện đại hơn, thực đơn đa dạng hơn, giá cả cũng cao hơn.
+**Trẻ hóa** là một xu hướng rõ rệt. Các tiểu thương mới chủ yếu ở độ tuổi 30-40, có trình độ học vấn tốt và biết cách sử dụng tiếp thị mạng xã hội. Thiết kế quầy hàng của họ hiện đại hơn, thực đơn đa dạng hơn và giá cả cũng cao hơn.
 
-**Cao cấp hóa** cũng đang xảy ra. Một số quầy chợ đêm bắt đầu nhấn mạnh nguyên liệu hữu cơ, thủ công, không chất phụ gia, đi theo tuyến giá cao tinh tế. Một bát "bò kho cao cấp" có thể bán đến 200 tệ, nhóm khách là những người sẵn sàng trả tiền cho chất lượng.
+**Cao cấp hóa** cũng đang diễn ra. Một số quầy hàng bắt đầu nhấn mạnh nguyên liệu hữu cơ, thủ công, không chất phụ gia, theo đuổi con đường tinh tế với giá cao. Một tô "Phở bò cao cấp" có thể bán được 200 Đài tệ, đối tượng khách hàng là những người sẵn sàng trả tiền cho chất lượng.
 
-**Chủ đề hóa** là xu hướng khác. Chợ đêm "Tân Chiếu" ở Đan Thủy, Tân Bắc chủ đề văn hóa sáng tạo, kết hợp triển lãm nghệ thuật và ẩm thực. Chợ đêm "Đại Đông" ở Đài Nam quy hoạch khu ẩm thực quốc tế, du nhập món Thái, Nhật, Hàn.
+**Chủ đề hóa** là một xu hướng khác. "Chợ đêm hoàng hôn Tán Thủy (Tanshui)" ở Tân Bắc tập trung vào văn hóa sáng tạo, kết hợp triển lãm nghệ thuật và ẩm thực. "Chợ đêm Đại Đông" của Đài Nam quy hoạch khu ẩm thực quốc tế, giới thiệu các món Thái Lan, Nhật Bản, Hàn Quốc.
 
-## Triết lý sống khác biệt của chợ đêm Đài Nam
+## Triết lý sống thay thế của chợ đêm Đài Nam
 
-Quay lại con số ở đầu bài: 49 chợ đêm ở Đài Nam, mật độ cao nhất toàn đảo. Nhưng nhìn kỹ sẽ phát hiện đặc điểm của chợ đêm Đài Nam — nhiều quầy không hoạt động mỗi ngày.
+Quay lại con số ban đầu: 49 khu chợ đêm ở Đài Nam, mật độ cao nhất toàn đảo. Nhưng nếu nhìn kỹ sẽ thấy một đặc điểm của chợ đêm Đài Nam—nhiều nơi không mở cửa hàng ngày.
 
-**Chợ đêm Hoa Viên** hoạt động thứ Tư, Thứ Sáu, Chủ Nhật; **Chợ đêm Đại Đông** hoạt động thứ Hai, Thứ Ba, Thứ Năm; **Chợ đêm Vũ Thánh** hoạt động thứ Tư, Thứ Sáu. Người dân Đài Nam phát minh ra "chế độ trực chợ đêm", cho phép tiểu thương tuần hoàn kinh doanh, người tiêu dùng ngày nào cũng có chợ đêm để dạo chơi.
+**Chợ đêm Hoa Viên (Huayuan)** hoạt động vào thứ Tư, thứ Bảy và Chủ Nhật; **Chợ đêm Đại Đông** hoạt động vào thứ Hai, thứ Ba và thứ Sáu; **Chợ đêm Võ Thánh (Wusheng)** hoạt động vào thứ Tư và thứ Bảy. Người Đài Nam đã sáng tạo ra "hệ thống luân phiên chợ đêm", cho phép tiểu thương vận hành theo tour, giúp người tiêu dùng có thể ghé thăm chợ đêm mỗi ngày.
 
-Mô hình này phản ánh nhịp sống của người dân Đài Nam. Không như người Đài Bắc vội vã, người Đài Nam có thời gian thưởng thức chậm rãi. Hôm nay đi chợ đêm Hoa Viên ăn bát canh cá, ngày mai đi chợ đêm Đại Đông mua áo, ngày kia đi chợ đêm Vũ Thánh dạo chơi, lịch trình cả tuần đầy ắp nhưng không vội vàng.
+Mô hình này phản ánh nhịp sống của người Đài Nam. Không vội vã như người Đài Bắc, người Đài Nam có thời gian để tận hưởng từ từ. Hôm nay đến Chợ hoa Viên ăn một tô cá hầm, ngày mai đến Đại Đông mua một món quần áo, ngày kia ghé Võ Thánh dạo chơi, lịch trình một tuần đầy đủ nhưng không vội vàng.
 
-Chợ đêm Đài Nam còn một đặc điểm — nhiều quầy chỉ bán một thứ. **Quầy phồng trứng A Mỹ** chỉ bán phồng trứng, **quầy bánh cuốn** chỉ bán bánh cuốn, **quầy cơm gạo** chỉ bán cơm gạo. Kết quả của việc chuyên tinh một lĩnh vực là chất lượng cực cao, mỗi quầy đều có khách trung thành.
+Chợ đêm Đài Nam còn có một đặc điểm—nhiều quầy hàng chỉ bán một thứ duy nhất. **Trứng phượng hoàng A Mỹ (Amei Furong Dan)** chỉ bán trứng phượng hoàng; **quầy chả giò** chỉ bán chả giò; **quầy bánh gạo (Migao)** chỉ bán bánh gạo. Sự chuyên môn hóa cao dẫn đến chất lượng cực kỳ tốt, và mỗi quầy đều có khách hàng trung thành.
 
-## Tưởng tượng tương lai của văn hóa chợ đêm
+## Tưởng tượng về tương lai của văn hóa chợ đêm
 
-Chợ đêm Đài Loan đi đến ngày nay, đã không chỉ là nơi ăn uống, mà là biểu tượng văn hóa. Nó đại diện cho ẩm thực bình dân, đời sống dân dã, tình người Đài Loan. Nhưng đối mặt với biến thiên thời đại, chợ đêm cũng phải thay đổi.
+Chợ đêm Đài Loan khi đến ngày nay không chỉ là nơi ăn uống, mà đã trở thành một biểu tượng văn hóa. Nó đại diện cho ẩm thực dân dã, sinh hoạt đời thường và tình cảm người Đài Loan. Nhưng đối mặt với sự thay đổi của thời đại, chợ đêm cũng phải thay đổi.
 
-**Kinh doanh bền vững** là chìa khóa. Giảm đồ dùng một lần, hỗ trợ nguyên liệu địa phương, giảm tác động môi trường. Một số chợ đêm bắt đầu đẩy mạnh kế hoạch "Chợ đêm xanh", khuyến khích tiểu thương sử dụng đồ dùng có thể tái sử dụng, thiết lập trạm tái chế, giảm lãng phí thực phẩm.
+**Phát triển bền vững** là chìa khóa. Giảm đồ dùng một lần, ủng hộ nguyên liệu địa phương, giảm tác động môi trường. Một số khu chợ bắt đầu thúc đẩy kế hoạch "chợ đêm xanh", khuyến khích tiểu thương sử dụng đồ dùng tái sử dụng, lắp đặt thùng rác và giảm lãng phí thực phẩm.
 
-**Bảo tồn văn hóa** cũng quan trọng không kém. Chợ đêm không thể chỉ có thương mại, còn phải giữ lại nội hàm văn hóa. Ghi lại câu chuyện của tiểu thương già, truyền thừa thủ nghệ truyền thống, duy trì đặc sắc địa phương, để chợ đêm không biến thành trung tâm mua sắm khác.
+**Bảo tồn văn hóa** cũng quan trọng không kém. Chợ đêm không thể chỉ là thương mại, mà còn phải giữ lại nội dung văn hóa. Ghi lại câu chuyện của các tiểu thương lớn tuổi, kế thừa kỹ năng truyền thống, duy trì đặc sắc địa phương, để chợ đêm không trở thành một trung tâm mua sắm khác.
 
-**Sáng tạo thay đổi** cũng không thể thiếu. Kết hợp công nghệ nâng cao hiệu quả, phát triển dịch vụ kiểu mới, mở rộng thị trường quốc tế. Nhưng sáng tạo không thể mất đi gốc rễ — sức hút của chợ đêm nằm ở sự tương tác ấm áp giữa người với người, không phải máy móc tự động lạnh lùng.
+**Đổi mới và thay đổi** cũng không thể thiếu. Kết hợp công nghệ để nâng cao hiệu quả, phát triển dịch vụ kiểu mới, mở rộng thị trường quốc tế. Nhưng sự sáng tạo không được đánh mất cội rễ—sức hấp dẫn của chợ đêm nằm ở sự tương tác ấm áp giữa người với người, chứ không phải là những cỗ máy tự động lạnh lùng.
 
-## Nhìn thấy Đài Loan trong chợ đêm
+## Nhìn thấy Đài Loan qua các khu chợ đêm
 
-Mỗi người Đài Loan đều có ký ức chợ đêm của riêng mình. Thời sinh viên cùng bạn bè dạo chợ đêm Sĩ Lâm, hẹn hò cùng người nửa kia đi chợ đêm Phùng Chi, đưa bố mẹ đi chợ đêm địa phương ăn khẩu vị quen thuộc. Chợ đêm là kho ký ức chung của người Đài Loan, cũng là cửa sổ để bạn bè nước ngoài hiểu về Đài Loan.
+Mỗi người Đài Loan đều có ký ức về một khu chợ đêm của riêng mình. Thời sinh viên cùng bạn bè đi dạo ở chợ đêm Shilin, hẹn hò với nửa kia tại chợ đêm Fengjia, hoặc đưa cha mẹ đến chợ địa phương để thưởng thức hương vị quen thuộc. Chợ đêm là kho lưu trữ chung của người Đài Loan, và cũng là cửa sổ để bạn bè quốc tế nhận biết về Đài Loan.
 
-Một đĩa bánh tráng trứng 50 tệ, một ly trà trân châu 30 tệ, một phần bánh gà 90 tệ, đằng sau không chỉ chuyên chở hưởng thụ vị giác, còn có trí tuệ sống, tinh thần sáng tạo, tình người ấm áp của người Đài Loan. Văn hóa chợ đêm có thể truyền thừa đến ngày nay và đi ra thế giới, chính là chứng minh tốt nhất cho sức mạnh mềm của Đài Loan.
+Một đĩa Oa Zai giá 50 Đài tệ, một ly trà sữa trân châu giá 30 Đài tệ, một phần gà chiên giá 90 Đài tệ, không chỉ mang lại sự tận hưởng vị giác, mà còn chứa đựng trí tuệ sống, tinh thần sáng tạo và hơi ấm tình người của người Đài Loan. Việc văn hóa chợ đêm có thể được kế thừa đến ngày nay và vươn ra thế giới chính là minh chứng tốt nhất cho sức mạnh mềm của Đài Loan.
 
-Trong làn sóng toàn cầu hóa, chợ đêm giúp Đài Loan giữ được độc tính. Trong thời đại biến thiên nhanh chóng, chợ đêm khiến người ta nhớ lại vẻ đẹp của cuộc sống chậm. Trong thế giới số hóa, chợ đêm cung cấp sự ấm áp nhân tế thực sự. Đây là giá trị quý giá của văn hóa chợ đêm Đài Loan — trong quầy nhỏ bé, nhìn thấy linh hồn của một hòn đảo.
+Trong làn sóng toàn cầu hóa, chợ đêm giúp Đài Loan giữ vững sự độc đáo. Trong thời đại thay đổi nhanh chóng, chợ đêm nhắc nhở mọi người về vẻ đẹp của cuộc sống chậm rãi. Trong thế giới số hóa, chợ đêm mang lại hơi ấm nhân văn chân thực. Đây chính là giá trị quý báu của văn hóa chợ đêm Đài Loan—nhìn thấy linh hồn của một hòn đảo trong những quầy hàng nhỏ bé.
+
+## Nguồn hình ảnh
+
+- Ảnh đại diện: Đám đông tại chợ đêm Shilin, chụp bởi Richy, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:TWShiLinNightMarketRichy2.jpg), CC BY-SA 3.0.
 
 ## Tài liệu tham khảo
 
-- [Văn phòng Trung bộ thuộc Bộ Kinh Tế - Quy định quản lý chợ đêm](https://www.moea.gov.tw/)
-- [Bộ Ngoại Giao - Phóng sự chuyên đề Đi chợ đêm](https://nspp.mofa.gov.tw/nspp/news.php?unit=406&post=234073)
-- [Cục Du lịch thuộc Bộ Giao Thông Vận Tải - Hướng dẫn chợ đêm Đài Loan](https://www.taiwan.net.tw/)
-- [SuperTaste - Gói thời gian hoạt động chợ đêm toàn đảo](https://supertaste.tvbs.com.tw/pack/320927)
+- [Văn phòng Trung tâm Bộ Kinh tế - Quy định quản lý chợ đêm](https://www.moea.gov.tw/)
+- [Bộ Ngoại giao - Phóng sự đặc biệt về việc đi chợ đêm](https://nspp.mofa.gov.tw/nspp/news.php?unit=406&post=234073)
+- [Cục Du lịch Bộ Giao thông Vận tải - Hướng dẫn chợ đêm Đài Loan](https://www.taiwan.net.tw/)
+- [Foodie Player - Bảng tổng hợp giờ hoạt động của các khu chợ đêm toàn đảo](https://supertaste.tvbs.com.tw/pack/320927)
