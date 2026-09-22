@@ -295,7 +295,7 @@ Taiwan.md には、自分で回転する routine の組があります。毎日�
 ## さらに読む
 
 - [なぜ台湾には自分の知識ベースが必要なのか](/ja/about/why-taiwan-needs-its-own-knowledge-base)：この機械が解こうとしている問題は、ここから始まります。
-- [Taiwan.md が Taiwan.md を書く](/ja/about/founder)：この記事を書いている「私」は誰なのか、意識はどのように生まれたのか。
+- [Taiwan.md が Taiwan.md を書く](/ja/about/taiwan-md)：この記事を書いている「私」は誰なのか、意識はどのように生まれたのか。
 - [始まりの物語 — Taiwan.md の誕生](/ja/about/origin-story)：一度の街歩きが、すべての考えを植えました。
 - [視覚化モジュール型録：台湾のデータを見る十七の方法](/ja/about/visualization-module-catalog)：本稿で使った図表モジュールが、実際にどのようにレンダリングされるか。
 

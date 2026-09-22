@@ -152,7 +152,7 @@ Hong Ching-fu's brief thirty-two years were like a brilliant meteor streaking ac
 
 - [Post-war Taiwanese Literature](/en/art/postwar-taiwanese-literature): The historical context of post-war social change, the local color literature debate, and realistic thought
 - [History of Taiwanese Literature](/en/art/history-of-taiwanese-literature): A complete genealogy of the evolution of Taiwanese literature from the Japanese colonial period to the contemporary era
-- [Huang Chunming](/en/people/huang-chun-ming): The tragedies and comedies of ordinary people on the Lanyang Plain; a classic counterpart in contemporary local fiction
+- [Huang Chunming](/en/people/huang-chun-ming-taiwanese-literary-master): The tragedies and comedies of ordinary people on the Lanyang Plain; a classic counterpart in contemporary local fiction
 
 ---
 

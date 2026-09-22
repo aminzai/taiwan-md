@@ -79,7 +79,7 @@ AAMA 소개에 따르면, Portaly는 대만 최대의 크리에이터 및 KOC �
 
 이러한 습관은 그의 두 번의 창업 과정을 관통한다: 미양취안 시기의 크라우드펀딩과 박물관 라이선스 경험, Portaly 시기의 PLG와 AI 도입 방법을 모두 정리하여 타인이 즉시 활용할 수 있는 형태로 제공한다. 실체 보드게임, 크리에이터 페이지, AI 경영 방식으로 제품의 형태는 세 번 바뀌었지만, 그 이면의 선은 변하지 않았다: 한 사람이 막힌 지점을 찾아내고, 기계를 만들어 그 막힌 부분을 전환해 주며, 그 방법을 다음으로 막힌 사람에게 공유하는 것이다.
 
-이는 한 가지 우연한 일치를 설명해 준다. 당신이 지금 읽고 있는 이 지식베이스 [Taiwan.md](/ko/about/founder)의 후원 페이지에는 "금류는 Portaly가 처리함"이라고 명시되어 있으며, 기부 링크는 `portaly.cc/taiwanmd/support`를 가리킨다.[^12] 한 대만인이 대만을 대신해 발언하고 세계에 자금을 모으려 할 때, 자금을 받는 그 층은 바로 또 다른 대만인이 만든 것이었다.
+이는 한 가지 우연한 일치를 설명해 준다. 당신이 지금 읽고 있는 이 지식베이스 [Taiwan.md](/ko/about/taiwan-md)의 후원 페이지에는 "금류는 Portaly가 처리함"이라고 명시되어 있으며, 기부 링크는 `portaly.cc/taiwanmd/support`를 가리킨다.[^12] 한 대만인이 대만을 대신해 발언하고 세계에 자금을 모으려 할 때, 자금을 받는 그 층은 바로 또 다른 대만인이 만든 것이었다.
 
 > **투명성 공개:** 본문의 초안은 주제 인물本人(CW Lin)이 작성하여 기고했다. 내용은 제3자 공개 보도를 주요 근거로 삼았으며, 오직 '린취웨이의 공개 자료에 따르면'으로 표기된 부분만 주제 인물의 공식 웹사이트 또는 커뮤니티 자기 서술을 출처로 한다.
 
@@ -89,34 +89,34 @@ AAMA 소개에 따르면, Portaly는 대만 최대의 크리에이터 및 KOC �
 
 ## 참고 자료
 
-[^1]: [Parents' Choice Awards 은메달 2개, 레고 및 애플 투자 RC카 제치고 2위, 대만 참가 사상 최우수 기록 세움; 대만대학 전기공학과 졸업, UCLA 전기공학과 박사과정 입학 자격 포기; 중연원(中研院)과 협력하여 청동기拓印 장난감 개발](https://www.merit-times.com.tw/NewsPage.aspx?unid=352847)
+[^1]: [Parents' Choice Awards 은메달 2개, 레고 및 애플 투자 RC카 제치고 2위, 대만 참가 사상 최우수 기록 세움; 대만대학 전기공학과 졸업, UCLA 전기공학과 박사과정 입학 자격 포기; 중연원(中研院)과 협력하여 청동기拓印 장난감 개발](https://www.merit-times.com.tw/NewsPage.aspx?unid=352847) — 人間福報專欄
 
-[^2]: [대만대학 전기공학과, UCLA 전기공학과 대학원 학위; 국립 타이완 선사문화박물관과 IP 라이선스 협력하여 《선사 모험기》 제작, 전국 최초 사례, 2년 소통 및 10개 버전 수정, 펀딩 목표 금액의 6배 이상 달성, '박물관의 번역자(번역 주루)' 원문 인용](https://crossing.cw.com.tw/article/8835)
+[^2]: [대만대학 전기공학과, UCLA 전기공학과 대학원 학위; 국립 타이완 선사문화박물관과 IP 라이선스 협력하여 《선사 모험기》 제작, 전국 최초 사례, 2년 소통 및 10개 버전 수정, 펀딩 목표 금액의 6배 이상 달성, '박물관의 번역자(번역 주루)' 원문 인용](https://crossing.cw.com.tw/article/8835) — 詳見原始連結內文資料補充
 
-[^3]: [창립자 자기 서술: 크라우드펀딩 누적 100만 달러 돌파, 20개국 이상 출하, 영국 박물관 협력, 2021년 천하잡지 그룹에 매각](https://github.com/cwlin0131)
+[^3]: [창립자 자기 서술: 크라우드펀딩 누적 100만 달러 돌파, 20개국 이상 출하, 영국 박물관 협력, 2021년 천하잡지 그룹에 매각](https://github.com/cwlin0131) — 詳見原始連結內文資料補充
 
-[^4]: [미양취안 창업 초기 인터뷰, 제목 원문 인용](https://crossing.cw.com.tw/article/7311)
+[^4]: [미양취안 창업 초기 인터뷰, 제목 원문 인용](https://crossing.cw.com.tw/article/7311) — 詳見原始連結內文資料補充
 
-[^5]: [회사명 '진실 엔진', AVA 엔젤 35만 달러 시드 라운드, 사용자 6,000→15,000, 모듈식 및 더우네이(기부) 예시 원문 인용](https://meet.bnext.com.tw/articles/view/50032)
+[^5]: [회사명 '진실 엔진', AVA 엔젤 35만 달러 시드 라운드, 사용자 6,000→15,000, 모듈식 및 더우네이(기부) 예시 원문 인용](https://meet.bnext.com.tw/articles/view/50032) — 數位時代分析
 
-[^6]: [2023/6/5 Product Hunt 출시, 24시간 내 당일 2위, 전 세계首款 AI 기반 Link-in-Bio 도구](https://www.inside.com.tw/article/32008-portaly-ai-interview)
+[^6]: [2023/6/5 Product Hunt 출시, 24시간 내 당일 2위, 전 세계首款 AI 기반 Link-in-Bio 도구](https://www.inside.com.tw/article/32008-portaly-ai-interview) — 詳見原始連結內文資料補充
 
-[^7]: [Meet Taipei Neo Star 창업 스타는 매년 약 250개 팀 중 30개 팀을 선정](https://meet.bnext.com.tw/articles/view/50768)
+[^7]: [Meet Taipei Neo Star 창업 스타는 매년 약 250개 팀 중 30개 팀을 선정](https://meet.bnext.com.tw/articles/view/50768) — 數位時代分析
 
-[^8]: [제13기 기업가; Portaly는 대만 최대 크리에이터/KOC 플랫폼, 해외 트래픽 약 30%, Product Hunt Daily Pick, 대만 30대 스타트업 ([archive.org 存檔](https://web.archive.org/web/20260317034058/https://www.aamataipei.com.tw/archives/portfolio/林啟維))](https://www.aamataipei.com.tw/archives/portfolio/林啟維)
+[^8]: [제13기 기업가; Portaly는 대만 최대 크리에이터/KOC 플랫폼, 해외 트래픽 약 30%, Product Hunt Daily Pick, 대만 30대 스타트업 ([archive…](https://web.archive.org/web/20260317034058/https://www.aamataipei.com.tw/archives/portfolio/林啟維) — 詳見原始連結內文資料補充
 
-[^9]: [本人 공개 자료: 2025년부터 흑자, 20만 크리에이터, 2023→2025 매출 20배 이상 성장, organic PLG, Stripe Sessions 2026 아시아태평양 대표; '새우 매뉴얼' 및 Vault for Founders 접근자 수](https://portaly.cc/cwl)
+[^9]: [本人 공개 자료: 2025년부터 흑자, 20만 크리에이터, 2023→2025 매출 20배 이상 성장, organic PLG, Stripe Sessions 2026 아시아태평양 대표; '새우 매뉴얼' 및 Vault for Founders 접근자 수](https://portaly.cc/cwl) — 詳見原始連結內文資料補充
 
-[^10]: [칼럼니스트 페이지: 대만대학 전기공학과 및 UCLA 졸업, 10년 이상 창업 경험, data-driven / AI-driven / growth hacking; 칼럼에는 AI Vault, 전 AI 제품 개발, AI 문화 체크리스트 등 포함](https://www.managertoday.com.tw/columnist/view/5104)
+[^10]: [칼럼니스트 페이지: 대만대학 전기공학과 및 UCLA 졸업, 10년 이상 창업 경험, data-driven / AI-driven / growth hacking; 칼럼에는 AI Vault, 전 AI 제품 개발, AI 문화 체크리스트 등 포함](https://www.managertoday.com.tw/columnist/view/5104) — 詳見原始連結內文資料補充
 
-[^11]: [칼럼니스트 페이지: PLG 및 Growth Hacking 직접 실행; 칼럼에는 〈Stripe 연례 회의 참관 후기〉〈대만 창업자의 실리콘밸리 진출 난이도〉 등 포함](https://meet.bnext.com.tw/author/view/5104)
+[^11]: [칼럼니스트 페이지: PLG 및 Growth Hacking 직접 실행; 칼럼에는 〈Stripe 연례 회의 참관 후기〉〈대만 창업자의 실리콘밸리 진출 난이도〉 등 포함](https://meet.bnext.com.tw/author/view/5104) — 數位時代分析
 
-[^12]: [후원 페이지에 '금류는 Portaly가 처리함' 명시, 기부 링크 portaly.cc/taiwanmd/support](https://taiwan.md/contribute)
+[^12]: [후원 페이지에 '금류는 Portaly가 처리함' 명시, 기부 링크 portaly.cc/taiwanmd/support](https://taiwan.md/contribute) — 詳見原始連結內文資料補充
 
-[^13]: [2011년 졸업 후 대만 복귀 전직업 창업; '자기 성취'에서 '세계에 대해 더 많이 이해하고 싶다'로 변화, '탐험가' 원문 인용](https://medium.com/@C.W.Lin/%E7%82%BA%E4%BB%80%E9%BA%BC%E6%88%91%E6%83%B3%E5%89%B5%E6%A5%AD-%E9%80%99%E6%98%AF%E6%88%91%E5%8D%81%E5%B9%B4%E5%89%8D-%E5%BE%8C-%E6%83%B3%E6%B3%95%E7%9A%84%E6%94%B9%E8%AE%8A-c8a4ff03bd7)
+[^13]: [2011년 졸업 후 대만 복귀 전직업 창업; '자기 성취'에서 '세계에 대해 더 많이 이해하고 싶다'로 변화, '탐험가' 원문 인용](https://medium.com/@C.W.Lin/%E7%82%BA%E4%BB%80%E9%BA%BC%E6%88%91%E6%83%B3%E5%89%B5%E6%A5%AD-%E9%80%99%E6%98%AF%E6%88%91%E5%8D%81%E5%B9%B4%E5%89%8D-%E5%BE%8C-%E6%83%B3%E6%B3%95%E7%9A%84%E6%94%B9%E8%AE%8A-c8a4ff03bd7) — 詳見原始連結內文資料補充
 
-[^14]: [Portaly 사용자 인터뷰 방법 공개 공유](https://medium.com/@C.W.Lin/%E8%A8%AA%E8%AB%87%E8%AA%BF%E6%9F%A5%E6%96%B9%E6%B3%95-%E4%B8%80%E5%80%8B%E5%8D%8A%E6%9C%88%E8%A8%AA%E8%AB%87-100-%E4%BD%8D%E8%B6%85%E7%B4%9A%E7%B6%B2%E7%B4%85%E5%AE%A2%E6%88%B6-37a77097a476)
+[^14]: [Portaly 사용자 인터뷰 방법 공개 공유](https://medium.com/@C.W.Lin/%E8%A8%AA%E8%AB%87%E8%AA%BF%E6%9F%A5%E6%96%B9%E6%B3%95-%E4%B8%80%E5%80%8B%E5%8D%8A%E6%9C%88%E8%A8%AA%E8%AB%87-100-%E4%BD%8D%E8%B6%85%E7%B4%9A%E7%B6%B2%E7%B4%85%E5%AE%A2%E6%88%B6-37a77097a476) — 詳見原始連結內文資料補充
 
-[^15]: [2024년 2개월 만에 팔로워 120명에서 10,000명으로 성장, 알고리즘 로직 및 팔로워 증가 방법 공개; 원문은 [Medium](https://medium.com/@C.W.Lin/threads-%E8%84%86-%E5%B9%B3%E5%8F%B0%E5%85%A8%E6%94%BB%E7%95%A5-%E6%BC%94%E7%AE%97%E6%B3%95-%E6%BC%B2%E7%B2%89%E6%96%B9%E6%B3%95%E4%B8%80%E6%AC%A1%E8%A7%A3%E6%9E%90-8f49579585f4)에 발표](https://www.bnext.com.tw/article/81784/threads-engage-strategy)
+[^15]: [2024년 2개월 만에 팔로워 120명에서 10,000명으로 성장, 알고리즘 로직 및 팔로워 증가 방법 공개; 원문은 [Medium](https://medium.com/@C.W.Lin/threads-%E8%84%86-%E5%B9%B3%E5%8F%B0%E5%85%A8%E6%94%BB%E7%95%A5-%E6%BC%94%E7%AE%97%E6%B3%95-%E6%BC%B2%E7%B2%89%E6%96%B9%E6%B3%95%E4%B8%80%E6%AC%A1%E8%A7%A3%E6%9E%90-8f49579585f4) — 詳見原始連結內文資料補充
 
-[^16]: [실리콘밸리 창업 첫hand 기록](https://meet.bnext.com.tw/articles/view/53229)
+[^16]: [실리콘밸리 창업 첫hand 기록](https://meet.bnext.com.tw/articles/view/53229) — 數位時代分析

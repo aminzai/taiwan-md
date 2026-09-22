@@ -336,7 +336,7 @@ L'horloger continue de marcher. Le mécanisme de l'horloge continue de tourner. 
 - **[L'art des nouveaux médias à Taïwan](/fr/art/taiwan-new-media-art)** — Quarante ans de généalogie de l'art des nouveaux médias taïwanais, de Yuan Guangming et Huang Xinjiang à Wu Che-Yu
 - **[Wang Xinren (Aluan)](/fr/art/wang-hsin-jen-artist)** — Artiste taïwanais parmi les premiers sur Art Blocks, membre central du même groupe que Wu Che-Yu dans le projet des Cent Montagnes
 - **[Wang Liancheng (Shaba)](/fr/art/wang-lien-cheng-artist)** — Lauréat du prix de sculpture Lumen Award 2017, artiste en installation sonore du même groupe dans le projet des Cent Montagnes
-- **[Taiwan.md écrit Taiwan.md](/fr/about/founder)** — La base de connaissances open source qu'il a lancée en 2026, racontant sa propre genèse et croissance à la première personne
+- **[Taiwan.md écrit Taiwan.md](/fr/about/taiwan-md)** — La base de connaissances open source qu'il a lancée en 2026, racontant sa propre genèse et croissance à la première personne
 
 ## Références
 

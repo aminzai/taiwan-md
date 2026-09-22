@@ -159,7 +159,7 @@
 /en/people/taiwan-people-knowledge-base-roadmap /en/people/ 301
 
 # 2026-09-07: normalize legacy English filenames; preserve incoming URLs.
-/en/food/Taiwan%20Regional%20Street%20Food%20Map /en/food/taiwan-regional-street-food-map/ 301
+/en/food/Taiwan%20Regional%20Street%20Food%20Map /en/food/taiwanese-street-food/ 301
 /en/music/Taiwan%20Folk%20Music%20and%20Songs /en/music/taiwan-folk-music-and-songs/ 301
 /en/nature/Taiwan%20Hot%20Springs%20and%20Geothermal%20Energy /en/nature/taiwan-hot-springs-and-geothermal-energy/ 301
 
@@ -177,3 +177,21 @@
 # 爬蟲與瀏覽器慣例先試 /sitemap.xml；站上真正的入口是 Astro 產的 sitemap-index.xml
 # （robots.txt 已指向它）。2026-09-20 CF 一天 10 筆 404，長期是 unknown 家族榜首。
 /sitemap.xml /sitemap-index.xml 301
+
+# 2026-09-22 maintainer-am：en 六組同源雙檔收斂成一個 canonical 檔名（check-slug-consistency --all 第一段）。
+# founder／teng-yu-hsien／huang-chun-ming／handmade 是同一篇母稿的第二份譯文，留跟其他語言 sibling 同名、sourceCommitSha 對到母稿 HEAD 的那份；
+# 小吃地圖與能源轉型的母稿早在 03-28／04-04 併進旗艦文章，en 側一直沒跟上，導到旗艦文章的英文版。
+/en/about/founder /en/about/taiwan-md/ 301
+/en/food/taiwan-regional-street-food-map /en/food/taiwanese-street-food/ 301
+/en/food/handmade-taiwanese-cuisine /en/food/taiwan-specialty-home-cooking/ 301
+/en/economy/taiwan-energy-transition-and-green-industry /en/nature/taiwan-climate-change-net-zero-transition/ 301
+/en/people/teng-yu-hsien /en/people/deng-yu-xian-taiwanese-song-composer/ 301
+/en/people/huang-chun-ming /en/people/huang-chun-ming-taiwanese-literary-master/ 301
+# 同日：en canonical 定下後，四語 founder 與 hi／vi 兩個人物檔名跟著對齊（LIVE 改名一律補 301）
+/es/about/founder /es/about/taiwan-md/ 301
+/fr/about/founder /fr/about/taiwan-md/ 301
+/ja/about/founder /ja/about/taiwan-md/ 301
+/ko/about/founder /ko/about/taiwan-md/ 301
+/hi/people/teng-yu-hsien /hi/people/deng-yu-xian-taiwanese-song-composer/ 301
+/vi/people/teng-yu-hsien /vi/people/deng-yu-xian-taiwanese-song-composer/ 301
+/vi/people/huang-chun-ming /vi/people/huang-chun-ming-taiwanese-literary-master/ 301

@@ -60,7 +60,7 @@ According to statistics from the Ministry of Finance of Taiwan, the number of va
 
 The global market scale is even more astonishing. Multiple market research firms estimate that the global bubble tea market size in 2024 is approximately **$3.5 billion (approx. NT$112 billion)**, and it is projected to grow to $6–7 billion by 2034. Taiwanese brands are the origin point of this market: CoCo has over 5,000 stores globally, Gong Cha has over 2,000, and overseas branches of brands like Lukang Lane and Rices Tea are continuously expanding. Spring Water Teahouse still sells over 2 million cups of bubble tea annually in Taiwan alone.
 
-This process of globalization follows an interesting path: it is not driven by government cultural diplomacy, nor is it a carefully designed market expansion strategy by large brands. The first step of bubble tea going global relied on the nostalgia of immigrants—Taiwanese immigrants in Los Angeles, Taiwanese immigrants in Vancouver; they wanted to drink a taste of home, opened shops locally, and ended up making their neighbors fall in love with the beverage. This is the most typical path of outward diffusion for [Taiwan's regional street food](/en/food/taiwan-regional-street-food-map/): not export, but dispersion; not strategy, but lifestyle.
+This process of globalization follows an interesting path: it is not driven by government cultural diplomacy, nor is it a carefully designed market expansion strategy by large brands. The first step of bubble tea going global relied on the nostalgia of immigrants—Taiwanese immigrants in Los Angeles, Taiwanese immigrants in Vancouver; they wanted to drink a taste of home, opened shops locally, and ended up making their neighbors fall in love with the beverage. This is the most typical path of outward diffusion for [Taiwan's regional street food](/en/food/taiwanese-street-food/): not export, but dispersion; not strategy, but lifestyle.
 
 > 📊 **Data Interpretation**
 > Global bubble tea market size (2024): Approx. $3.5 billion (approx. NT$112 billion)
@@ -145,4 +145,4 @@ Of course, that moment did not know what it was doing. Great accidents are never
 - [PubMed: 2011 Taiwan food scandal — plasticizer contamination](https://pubmed.ncbi.nlm.nih.gov/23684997/) (Academic primary source, 965 contaminated items data)
 - [National University Hospital Singapore: What happens if you drink too much bubble tea?](https://www.nuhsplus.edu.sg/article/what-happens-if-you-drink-too-much-bubble-tea) (Source of Dr. Martin Lee's quote)
 
-Related topics in this entry: [Night Market Culture](/en/food/night-market-culture/), [Taiwan's regional street food](/en/food/taiwan-regional-street-food-map/), Taiwanese food culture.
+Related topics in this entry: [Night Market Culture](/en/food/night-market-culture/), [Taiwan's regional street food](/en/food/taiwanese-street-food/), Taiwanese food culture.

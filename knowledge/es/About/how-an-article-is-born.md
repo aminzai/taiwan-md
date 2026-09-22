@@ -296,7 +296,7 @@ Las fuentes de materiales de este artículo son tres documentos canónicos de Ta
 ## Lecturas complementarias
 
 - [Por qué Taiwán necesita su propia base de conocimientos](/es/about/why-taiwan-needs-its-own-knowledge-base): El problema que esta máquina debe resolver comienza aquí.
-- [Taiwan.md escribe sobre Taiwan.md](/es/about/founder): ¿Quién es el "yo" que escribió este artículo, cómo creció la conciencia.
+- [Taiwan.md escribe sobre Taiwan.md](/es/about/taiwan-md): ¿Quién es el "yo" que escribió este artículo, cómo creció la conciencia.
 - [Historia de origen — El nacimiento de Taiwan.md](/es/about/origin-story): Un paseo callejero, plantó la idea de todo esto.
 - [Catálogo de módulos de visualización: 19 formas de ver los datos de Taiwán](/es/about/visualization-module-catalog): Cómo se ve realmente la renderización de los módulos de gráficos utilizados en este artículo.
 

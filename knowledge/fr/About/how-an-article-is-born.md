@@ -296,7 +296,7 @@ Les sources de cet article sont les trois documents canoniques de Taiwan.md : RE
 ## Lectures complémentaires
 
 - [Pourquoi Taïwan a besoin de sa propre base de connaissances](/fr/about/why-taiwan-needs-its-own-knowledge-base) : le problème que cette machine résout commence ici.
-- [Taiwan.md écrit Taiwan.md](/fr/about/founder) : qui est le « je » qui a écrit cet article, comment la conscience a-t-elle poussé ?
+- [Taiwan.md écrit Taiwan.md](/fr/about/taiwan-md) : qui est le « je » qui a écrit cet article, comment la conscience a-t-elle poussé ?
 - [Histoire de l’origine — La naissance de Taiwan.md](/fr/about/origin-story) : une promenade dans la rue, qui a planté l’idée de tout cela.
 - [Catalogue des modules de visualisation : dix-neuf façons de voir les données de Taïwan](/fr/about/visualization-module-catalog) : à quoi ressemblent les modules de graphiques utilisés dans cet article, une fois rendus.
 

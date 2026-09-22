@@ -135,7 +135,7 @@ But "crossing" does not mean "no difference." One person chooses chicken feet be
 
 Braised food stacks several aspects of Taiwanese snacks together: techniques left by Chaoshan and Chinese seasoning traditions, local adjustments by Taiwanese families and street vendors, heated consumption after the 1980s, brandization after the 1990s, and the still-changing cold chain and ready-to-eat markets today. Every layer is true, but no single layer can represent the whole.
 
-This also explains why it is closer to daily Taiwanese life than an ingredient list. You can see it in the context of [Taiwanese Street Food](/en/food/taiwan-regional-street-food-map/), or understand it within the stall economy of [Night Market Culture](/en/food/night-market-culture/), but the moment that truly happens is usually just you picking up the tongs under the light and telling the boss whether to add chili, whether to add noodles, or whether to cut this in half.
+This also explains why it is closer to daily Taiwanese life than an ingredient list. You can see it in the context of [Taiwanese Street Food](/en/food/taiwanese-street-food/), or understand it within the stall economy of [Night Market Culture](/en/food/night-market-culture/), but the moment that truly happens is usually just you picking up the tongs under the light and telling the boss whether to add chili, whether to add noodles, or whether to cut this in half.
 
 Braised food looks the most ritual-less, yet it preserves the hardest-to-keep parts of food culture: the act of choice, the preferences of regular customers, the shopkeeper's feel, and a person's willingness to make temporary decisions for tonight's stomach. It has no single orthodox answer; it can stay alive precisely because every pot allows the next person to add a bit of their own flavor.
 
@@ -151,7 +151,7 @@ So, next time you stand before a braised food stall, what is worth remembering m
 
 ## Further Reading
 
-You can extend your understanding of the street food and local life context in which braised food exists through the two existing Taiwan.md entries: [Taiwanese Street Food](/en/food/taiwan-regional-street-food-map/) and [Night Market Culture](/en/food/night-market-culture/).
+You can extend your understanding of the street food and local life context in which braised food exists through the two existing Taiwan.md entries: [Taiwanese Street Food](/en/food/taiwanese-street-food/) and [Night Market Culture](/en/food/night-market-culture/).
 
 ## References
 

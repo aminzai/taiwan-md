@@ -336,7 +336,7 @@ El relojero sigue caminando. El mecanismo del reloj sigue funcionando. **Se acer
 - **[Arte de nuevos medios en Taiwán](/es/art/taiwan-new-media-art)** — Genealogía de cuarenta años del arte de nuevos medios taiwanés, desde Yuan Guangming y Huang Xinjian hasta Che-Yu Wu
 - **[Wang Xinren (Aluan)](/es/art/wang-hsin-jen-artist)** — Artista taiwanés de los primeros tiempos de Art Blocks, miembro central del mismo grupo del Proyecto de las Cien Montañas
 - **[Wang Liancheng (Shrimp Dad)](/es/art/wang-lien-cheng-artist)** — Ganador del premio principal de escultura en el Lumière Award 2017, artista de instalaciones sonoras del mismo grupo del Proyecto de las Cien Montañas
-- **[Taiwan.md escribe sobre Taiwan.md](/es/about/founder)** — La base de conocimiento de código abierto que lanzó en 2026, narrada en primera persona sobre su origen y crecimiento
+- **[Taiwan.md escribe sobre Taiwan.md](/es/about/taiwan-md)** — La base de conocimiento de código abierto que lanzó en 2026, narrada en primera persona sobre su origen y crecimiento
 
 ## Referencias
 
