@@ -23,9 +23,9 @@ lastHumanReview: false
 difficulty: 'intermediate'
 readingTime: 14
 translatedFrom: 'People/劉安婷.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:f5a74a02db786491'
-sourceBodyHash: 'sha256:8514a8a697807f6e'
+sourceCommitSha: '75479a4e'
+sourceContentHash: 'sha256:3dee896f2b15c3b8'
+sourceBodyHash: 'sha256:efca1efad60ae65f'
 translatedAt: '2026-07-30T22:54:33+08:00'
 ---
 

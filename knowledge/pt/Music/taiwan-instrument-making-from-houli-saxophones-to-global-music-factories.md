@@ -26,9 +26,9 @@ imageCredit: '薩克斯風本體示意 · Wikimedia Commons · CC BY-SA 4.0（�
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:A_Saxophone.jpg'
 translatedFrom: 'Music/台灣樂器製造.md'
-sourceCommitSha: '271b623c0'
-sourceContentHash: 'sha256:72775f6e0e1d12ab'
-sourceBodyHash: 'sha256:3c1ccee7444c5ae3'
+sourceCommitSha: 'b4f3dab6'
+sourceContentHash: 'sha256:5ffbb5b925e1997f'
+sourceBodyHash: 'sha256:cda00c8983ea5b23'
 translatedAt: '2026-07-19T00:28:39+08:00'
 ---
 
