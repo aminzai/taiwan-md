@@ -332,6 +332,34 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-23 twmd-spore-harvest-am — chrome-headless-window-blocks-extension：擴充功能連不上的根因是瀏覽器沒有視窗，而兩班之間沒有人問過那個問題
+
+- **pattern**: `chrome-headless-window-blocks-extension`
+- **原則**：`list_connected_browsers` 回 `[]` 有兩種根因——擴充功能本身壞了（要人），或 Chrome 以 `--no-startup-window` 活著因此 service worker 註冊不上（八秒可自修）。兩者在探針輸出上逐字相同，處置相反：一個交給觀察者等他有空，一個當班自己跑一行就過。**環境探針回空值時，先量「它為什麼連不上」再決定要不要交人**；把現象（連不上、pid 是多少）傳得再準，也傳不動那個還沒有人去問的問題。
+- **觸發**：2026-09-23 06:48 twmd-spore-harvest-am 第一個閘門紅燈，兩把獨立的尺同調（`list_connected_browsers` → `[]`；`tabs_context_mcp{createIfEmpty:true}` → not connected），`ps aux` 顯示 Chrome pid 53437 帶 `--no-startup-window`。跑 `open -a "Google Chrome"`，process 數 8 → 20，八秒後 deviceId 回來，全程未動觀察者的任何設定。→ memory/2026-09-23-064834-twmd-spore-harvest-am.md
+- **instances**：
+  - 2026-09-21 twmd-spore-harvest-am 兩次探針 `[]`，Stage 2 閘門前 abort，寫成環境問題交給哲宇（帶 pid 47290），當輪 0 產出 → memory/2026-09-21-063542-twmd-spore-harvest-am.md
+  - 2026-09-22 twmd-spore-harvest-am 醒來發現連得上，判為「vc=1 之後的自癒」不開條目，memory 誠實記下「沒查是誰把視窗開回來的」 → memory/2026-09-22-064211-twmd-spore-harvest-am.md
+  - 2026-09-23 twmd-spore-harvest-am 同形狀第二次（pid 已換＝中間重啟過），當班找到根因與零判斷修法 → memory/2026-09-23-064834-twmd-spore-harvest-am.md
+- **修補候選**：(a) SPORE-HARVEST-PIPELINE §Chrome MCP unattended 注意事項 加一段「連不上時的兩態分流」：先 `ps aux | grep "[G]oogle Chrome" | grep -- --no-startup-window`，命中就 `open -a "Google Chrome"` 等 8 秒重探，重探仍空才是真的要人；(b) 同段的 login-state probe 已是「環境前置條件要單獨升 handoff」的先例，本條是同一層的第二個前置條件，兩者可併成一份開跑前環境對賬。
+- **可能層級**：SPORE-HARVEST-PIPELINE 操作規則（兩態分流）；REFLEXES #38 子規則候選（一個空值承載「壞了」與「沒視窗」兩種處置相反的根因）
+- **相關**：REFLEXES #38 混維度（本條是探針空值層的變體，跟 (g)「零維度」同形——最容易被讀成「沒救了」的那個值）、#99 尺先驗再用（換第二把尺確認不是探針壞掉才動手）、#82 proxy signal（`list_connected_browsers` 量的是「有沒有註冊」，不是「Chrome 活不活著」，兩者之間隔著一個視窗）、#70 routine fragility surface 四 tier（本條把一個 Tier「要人」的故障降成「當班可自理」）
+- **verification_count**: 2
+
+### 2026-09-23 twmd-spore-harvest-am — settled-decision-relabelled-as-open-in-handoff：一個寫在三處的已決決定，在交接層被貼成「未拍板」二十六次
+
+- **pattern**: `settled-decision-relabelled-as-open-in-handoff`
+- **原則**：交接行裡的狀態標籤跟它指的 canonical 可以長期反向而沒有任何東西會叫，**連已經有人發現並寫下更正都攔不住它**——更正落在發現者自己那條 routine 的 memory 裡，錯的標籤此時已經在另外幾條 routine 的交接鏈上各自複製。`ROUTINE.md` 註 ¹³ 三處寫明 spore-pick／spore-publish／rewrite-daily 是 `manual-by-decision`、`due_date: null`、decision_ref 指到 2026-09-05 哲宇拍板，§暫停 SOP 第 3 條並明文禁止「由定期檢查自動加期限、重開或反覆升未決佇列」；交接鏈卻把它寫成「停用**未拍板**」，其中數條一邊貼錯標籤一邊正確地指向那個說相反話的註腳。**指標正確不等於讀過——原樣複製的是字串不是內容**，而那道防止重複升未決的規則長在佇列層，看不到每天早上被複製的那一行交接。
+- **觸發**：2026-09-23 twmd-spore-harvest-am 寫交接前核對繼承項，發現標籤與 canonical 反向。`grep -rn "停用未拍板\|停用三個月未拍板" docs/semiont/memory/`（不含本檔）命中 26 個班別，09-15 起，橫跨 routine-sync／data-refresh／spore-harvest／feedback-triage／babel-nightly／embeddings 六條 routine；09-14 另有同義的「仍未被拍板」，合計 27 班。→ memory/2026-09-23-064834-twmd-spore-harvest-am.md
+- **instances**：
+  - 2026-09-14 twmd-spore-harvest-am 把「兩條 routine 自 6-14 停用」當成本班新發現，建議「下一個能碰 ROUTINE.md 的 session 應該把是否重開變成明確決策點」——對已拍板九天的事提議設決策點，正是 §暫停 SOP 禁止的重複升未決 → memory/2026-09-14-063913-twmd-spore-harvest-am.md
+  - 2026-09-15 twmd-spore-harvest-am（06:39）查 OBSERVER-QUEUE 後當場更正，標題直接寫「更正昨天的『新發現』」，並把該項從 handoff **撤回**（「不是待決事項，不再進 handoff」）——**這一班做對了，而且留了字** → memory/2026-09-15-063927-twmd-spore-harvest-am.md
+  - 同一個早上更早的四班（babel-nightly 00:39／routine-sync 05:37／embeddings 05:46／data-refresh 06:17）已各自寫下「停用三個月未拍板」，全在那次更正之前；更正只住在 spore-harvest 自己的 memory 裡，沒有跨過去。此後 8 天 26 個班別逐字沿用，最近一次 2026-09-23 06:15 data-refresh-am → memory/2026-09-23-061513-twmd-data-refresh-am.md
+- **修補候選**：(a) `routine-sync-check.py` 加一道對賬：近 7 天 memory 的 handoff 段提到 routine 名字時出現的狀態字樣（未拍板／未決／待拍板）vs `ROUTINE.md` `routine-decisions` 區段的 `state`，任一條 SSOT 是 `manual-by-decision` 而交接寫成未決即紅燈；(b) MEMORY-PIPELINE §Handoff「穩定參照」那條再加半句——參照要帶**狀態**，`OBSERVER-QUEUE #N（已決／待決）`，讓複製時至少複製到一個可被對賬的字。
+- **可能層級**：儀器（routine-sync-check 對賬一道）＋ MEMORY-PIPELINE §Handoff 一句；若再出現於 issue／PR 狀態標籤，升 REFLEXES #38 子規則（狀態標籤與 SSOT 反向）
+- **相關**：REFLEXES #38 status 混維度（**差異在**：#38 是一個訊號承載兩種根因，本條是一個只剩一種根因的事實在傳遞途中被貼上另一種）、#82 proxy signal（交接行是 canonical 狀態的替身，不是狀態本身）、#15 第 13 次驗證「handoff 傳得動資訊，傳不動急迫性」（本條是它的反面：傳動了一個不該再有的急迫性）、#97 交接面完整性、REFLEXES #74 cross-routine handoff dedup（同一句話在六條 routine 之間複製的同一條通道）
+- **verification_count**: 1
+
 ### 2026-09-23 twmd-embeddings-nightly — handoff-addressed-to-a-seat-that-cannot-act：交接送到了那一層，而那一層結構上沒有權限動手
 
 - **pattern**: `handoff-addressed-to-a-seat-that-cannot-act`
