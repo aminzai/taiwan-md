@@ -254,14 +254,18 @@ def translate_regular_chapter(zh_chapter_text: str, lang: str, backend, glossary
         "1. Footnote reference markers like [^3] or [^12] must be preserved VERBATIM "
         "— same marker text, same position relative to the sentence they cite. Never "
         "add, remove, or renumber them.\n"
-        "2. In markdown links [text](URL), the URL portion must be preserved "
-        "VERBATIM; only the link text may be translated.\n"
+        "2. In markdown links [text](@@LINKn@@), the target is already replaced by a "
+        "protected placeholder token such as @@LINK0@@. Copy each token byte-for-byte "
+        "(same ASCII digits, no spaces inserted, do not localize the digits); only "
+        "the link text may be translated. Never add, drop or reorder tokens.\n"
         "3. Content inside 《...》 or 「...」 (work titles / direct quotes) may stay "
         "in the original zh-TW if there's no natural equivalent — don't force a bad "
         "translation of a proper noun or a quoted utterance.\n"
-        "4. Don't add or remove headings, table rows, or list items. Translate "
-        "markdown structure markers (#, ##, |, -, >) as-is; only translate the "
-        "prose/text content.\n"
+        "4. Don't add or remove headings, table rows, or list items. Keep the "
+        "markdown markers themselves (#, ##, |, -, >) unchanged, but the TEXT after "
+        "a marker is content and MUST be translated — including the `## heading` "
+        "line at the top of this section. A heading left in Chinese is a failure, "
+        "not a preserved title.\n"
         "5. Output ONLY the translated markdown for THIS section. No commentary, no "
         "code fence, no explanation, no reasoning/chain-of-thought, and do NOT repeat "
         "the neighboring-section context shown below — just this section's translated "
@@ -273,13 +277,17 @@ def translate_regular_chapter(zh_chapter_text: str, lang: str, backend, glossary
     )
 
     zh_refs = set(INLINE_FN_REF_RE.findall(zh_chapter_text))
+    # URL 裝甲（2026-09-23）：跟分段式引擎 Phase B 同一天補上——兩條引擎共用
+    # st._validate_chunk()，也就共用「正文連結網址對不上」這個失敗家族，只是
+    # patch 的量小所以不顯眼。成因結構一樣就一起修，不等它在這邊也長出統計。
+    zh_send, link_items = st._protect_embedded_links(zh_chapter_text)
     system = base_system
     last_output, last_issues = "", ["not attempted"]
     max_attempts = 3
     for attempt in range(1, max_attempts + 1):
         t0 = time.time()
         try:
-            raw = backend.translate(system, zh_chapter_text, max_tokens=6000, timeout=240)
+            raw = backend.translate(system, zh_send, max_tokens=6000, timeout=240)
         except Exception as e:  # noqa: BLE001
             elapsed = round(time.time() - t0, 1)
             last_issues = [f"backend error: {e}"]
@@ -290,7 +298,7 @@ def translate_regular_chapter(zh_chapter_text: str, lang: str, backend, glossary
             last_output = ""
             continue
         elapsed = round(time.time() - t0, 1)
-        out = st._strip_fence(raw)
+        out = st._restore_protected_links(st._strip_fence(raw), link_items)
         issues = st._validate_chunk(zh_chapter_text, out, zh_refs, lang, tmp_dir)
         metrics.setdefault("calls", []).append({
             "label": "chapter", "attempt": attempt, "ok": not issues,
