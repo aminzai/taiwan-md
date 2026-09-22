@@ -1,128 +1,131 @@
 ---
-imageLicense: 'CC BY-SA 3.0'
-imageSource: 'https://commons.wikimedia.org/wiki/File:Sanbeiji.jpg'
-translatedFrom: 'Food/台灣手路菜.md'
-sourceCommitSha: 'b0e441faa'
-sourceContentHash: 'sha256:976bf813ab549fe2'
-sourceBodyHash: 'sha256:c76694b44c893f41'
-translatedAt: '2026-08-09T12:06:28+08:00'
+title: 'Thủ lộ thái Đài Loan: Ý nghĩa, nguồn gốc và "món ăn đặc trưng" trong văn hóa bàn tiệc'
+description: 'Thủ lộ thái (tiếng Đài: tshiú-lōo-tshài) có nghĩa là "món ăn đặc trưng". Đất phấn trắng tại Nội Môn, Cao Hsiung không trồng được cây trồng, nhưng lại nuôi dưỡng ra mật độ đầu bếp bàn tiệc cao nhất toàn Đài Loan — thời kỳ vàng son, một năm tổ chức 25.000 bàn, tháng bội thu 12 triệu (Đài tệ). Một nồi canh đuôi rau tốn từ bốn đến tám giờ, có ngon hay không, cả làng hôm sau đều biết.'
 date: 2026-03-31
-title: 'Các món ăn tay khéo Đài Loan: ý nghĩa, nguồn gốc và "đặc sản riêng" của nền văn hóa tiệc rong'
-description: 'Tay khéo (Mân Nam Đài Loan tshiú-lōo-tshài) là những "đặc sản riêng" của các đầu bếp. Cao Hùng Nội Môn có đất màu trắng kiềm không thích hợp canh tác, nhưng lại nuôi dưỡng mật độ cao nhất các đầu bếp chuyên trách toàn Đài Loan — thời kỳ vàng một năm tổ chức 25.000 bàn tiệc, doanh thu tháng lớn lên đến 1,2 triệu. Một nồi canh tàn cần bốn đến tám giờ nấu, kết quả tốt hay xấu, cả làng hôm sau đều biết.'
 category: 'Food'
 tags:
   [
-    'ẩm thực Đài Loan',
-    'ẩm thực truyền thống',
-    'tiệc rong',
-    'tay khéo',
-    'đầu bếp chuyên trách',
-    'văn hóa ăn uống',
+    'Ẩm thực Đài Loan',
+    'Món ăn truyền thống',
+    'Tiệc bàn',
+    'Món ăn đặc trưng',
+    'Đầu bếp bàn tiệc',
+    'Văn hóa ẩm thực',
   ]
-subcategory: 'văn hóa ăn uống'
+subcategory: '飲食文化'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-31
 lastHumanReview: true
 image: '/article-images/food/sanbeiji-three-cup-chicken.webp'
-imageAlt: 'Gà ba chén'
+imageAlt: 'Món gà ba ly'
 imageCredit: 'Archon6812 / Wikimedia Commons'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Sanbeiji.jpg'
+translatedFrom: 'Food/台灣手路菜.md'
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:25a8447cd1b0c741'
+translatedAt: '2026-09-22T21:47:34.545271+00:00'
 ---
 
-> **30 giây tóm tắt:** "Tay khéo" là Mân Nam Đài Loan có nghĩa "đặc sản riêng"[^1], chỉ những món ăn cần kỹ năng thực sự, không có công thức chuẩn, phụ thuộc vào truyền thụ miệng miệng từ thầy sang trò. Nơi thể hiện tập trung nhất là "tiệc rong" — dựng lều bên đường, nấu tại chỗ, là truyền thống tiệc yến của Đài Loan. Cao Hùng Nội Môn vì đất đai khô cằn trở nên quê hương của các đầu bếp chuyên trách có mật độ cao nhất toàn Đài Loan, thời kỳ vàng một công ty tổ chức 25.000 bàn tiệc một năm. Nhưng trong hai mươi năm từ tiệc khách sạn đến COVID-19, lệnh gọi tiệc rong giảm chín mươi phần trăm, kéo theo không chỉ vị của những món ăn mà còn cả "tặng lại canh tàn" — một hình thức hỗ trợ lẫn nhau giữa các hàng xóm.
+**Tóm tắt 30 giây:** 「Thủ lộ cà」 là tiếng Đài «nắm tay hảo thái»[^1], chỉ những món ăn cần nghề thật, không có công thức chuẩn, nhờ sư đồ truyền miệng dạy nghề. Nơi thể hiện đậm nét nhất là 「bàn bàn」[^1] —— truyền thống tiệc cưới Đài Loan dựng lều bên đường, dựng bếp tại chỗ. Cao Hùng Nội Môn do đất đai nghèo nàn, ngẫu nhiên trở thành trấn xã có mật độ tổng phó sư[^1] cao nhất toàn Đài, thời kỳ hoàng kim một công ty bàn bàn một năm phục vụ 25.000 bàn. Nhưng từ tiệc cưới khách sạn đến COVID-19, đơn đặt bàn bàn trong hai mươi năm co lại chín phần mười, mang đi không chỉ hương vị món ăn, mà còn 「hàn thái vĩ」[^1] loại tình cảm tương trợ láng giềng.
 
-Mùa xuân năm 2020, trên sân miếu Tử Trúc ở Cao Hùng Nội Môn, một vài lá cờ mới được căng lên, in hình thịt kín, nước cua, viên tám báu — không phải quảng cáo tiệc rong, mà là quầy hàng vỉa hè của các đầu bếp chuyên trách. Tuyết Mông Huy, 48 tuổi, lúc đó đang lật chảo kiến lên cây, vừa giải thích với phóng viên của Báo Cáo Viên: "Bây giờ không có tiệc rong để tổ chức, mọi người vẫn cần phải sống được!"[^2]
+Mùa xuân năm 2020, sân miếu Chùa Tử Trúc tại Cao Hùng Nội Môn treo lên vài face cờ hiệu mới, trên in thịt hầm, canh vây cá, bát bảo hoàn —— không phải quảng cáo bàn bàn, mà là quầy vỉa hè của tổng phó sư. 48 tuổi Tiết Mạnh Huy một mặt xào «kiến leo cây» (món đậu phụ xào thịt băm), một mặt giải thích với phóng viên 《The Reporter》: «Giờ không có bàn bàn làm, mọi người vẫn phải sống tiếp chứ!»[^2]
 
-Gia đình Tuyết là một "hộ đầu bếp chuyên trách đủ thế hệ" của Nội Môn. Tuyết Mông Huy từ lúc học trung học đã theo bạn Tuyết Thanh Kỷ tổ chức tiệc rong, hai thế hệ tích lũy hơn năm mươi năm kinh nghiệm. Mở ra nhật ký công việc của bạn, cả cuốn lịch nông dân được viết đầy, một năm tổ chức 25.000 bàn tiệc, những ngày lớn chạy mười mấy trận một ngày, các đầu bếp xuất phát lúc nửa đêm, kết thúc giữa trưa rồi chạy trận tối, chẳng biết mình có ngủ được bốn tiếng không[^2].
+Gia đình Tiết là «họ tổng phó» của Nội Môn, Tiết Mạnh Huy từ trung học bắt đầu theo cha Tiết Thanh Kỷ làm bàn bàn, hai thế hệ tích lũy hơn năm mươi năm kinh nghiệm. Mở nhật ký công việc năm nào của cha, cả cuốn lịch nông dân viết đầy, một năm làm 25.000 bàn, ngày lớn một ngày chạy mười vài chỗ, đầu bếp ra đi lúc rạng sáng, trưa xong vội chiều, không biết có ngủ được bốn tiếng hay không[^2].
 
-Nhưng dịch bệnh năm 2020 làm mọi thứ tê cứng đột ngột. Doanh thu của công ty ngoài trời và dịch vụ cơm tập thể giảm hàng năm 32,3%[^3], lệnh gọi tiệc rong sụt giảm chín mươi phần trăm. Tuyết Mông Huy mất hơn năm trăm bàn tiệc trong tháng hai, ba âm lịch, chỉ còn cách đi làm phụ bếp ở quán cơm của bạn.
+Nhưng dịch năm 2020 làm mọi thứ đóng băng. Doanh thu ngành dịch vụ tiệc ngoài và cấp ăn tập thể thầu giảm 32,3% trong năm[^3], đơn bàn bàn co lại chín phần mười. Tiết Mạnh Huy âm lịch tháng hai, ba bị hủy hơn năm trăm bàn, chỉ còn đi làm thuê tại quán cơm hộp của bạn.
 
-Đây không phải là lần đầu tiên ngành công nghiệp tiệc rong phải đối mặt với khủng hoảng, nhưng có thể là lần cuối cùng.
+Đây không phải lần đầu ngành bàn bàn đối mặt khủng hoảng, nhưng có thể là lần cuối.
 
-## Tiệc rong: vỉa hè chính là sảnh tiệc yến
+## Bàn bàn: Cạnh đường chính là sảnh tiệc
 
-Tiệc rong (pān-toh), là truyền thống tiệc yến của nền văn hóa Mân Nam, được đem theo bởi các nhân dân di cư vào Đài Loan, từ thời kỳ Thanh trị đã có ghi chép[^4]. Kỷ niệm hôn nhân, tang lễ, mừng vui, lễ miếu xây dựng, tiệc đầu tháng hoặc tiệc sinh nhật — chủ nhân yêu cầu đầu bếp chuyên trách đến sân miếu, sân trường học, hay bên vỉa hè để dựng lều, nơi đó sẽ bốc lò nấu nướng, từ bước cắt nguyên liệu đến bưng lên bàn đều thực hiện một lúc. Khác với nhà hàng, tiệc rong có các nghi thức cực kỳ nghiêm ngặt: lựa chọn các loại món, trình tự bưng ra, sắp xếp ghế ngồi đều có quy tắc.
+Bàn bàn (pān-toh), là truyền thống yến tiệc của văn hóa Mân Nam, được mang vào Đài Loan theo dòng người di cư, đã có ghi chép từ thời kỳ Thanh thuộc[^4]。Hôn tang hỉ khánh、lễ hội miếu kiến tiêu、tiệc mãn nguyệt thọ yến——chủ nhà mời tổng phó sư đến sân miếu、sân tập trường học、cạnh đường dựng lều, dựng lò ngay tại chỗ, từ thái rau đến lên bàn một mạch hoàn thành。Khác với nhà hàng, bàn bàn có nghi lễ nghiêm ngặt: lựa chọn món ăn、trình tự trình bày、sự sắp xếp chỗ ngồi đều có quy chuẩn。
 
-Tiệc rong thông thường khoảng mười hai môn ăn, tuân theo nguyên tắc "khởi, tiếp, chuyển, hợp"[^5]: các mặn lạnh mở đầu để khách vào chỗ ngồi, canh nóng ấm dạ dày, giữa bữa trình bày các món chính nặng — cơm tôm mận đỏ, cá tuyết hấp, mầm sâm — phần kết thúc bằng canh gà, tráng miệng, trái cây để biểu tượng cho viên mãn. Mỗi một môn ăn đều là "tay khéo": cơm tôm mận đỏ phải kiểm soát thời gian nấu để phần kem tôm thẩm vào từng hạt cơm; mầm sâm cần hai mươi cái loại nguyên liệu xử lý riêng rồi đem vào bộ ngũ và hấp; thịt kín phải mỡ và thịt nạc cân bằng, vào miệng tan ngay lập tức nhưng không được rơi rụng.
+Thông thường bàn bàn khoảng mười hai món, chú trọng «khởi thừa chuyển hợp»[^5]: món lạnh khai màn để khách vào chỗ、canh đặc nóng dạ、đoạn giữa đưa ra món chính trọng lượng——bánh gạo cua hồng、cá mú hấp、Phật nhảy tường——kết thúc bằng canh gà、tráng miệng、trái cây làm cuối, tượng trưng cho tròn đầy。Mỗi món đều là «thủ lộ cà»: bánh gạo cua hồng phải nắm vững thời gian hấp chín để mỡ cua thẩm thấu vào hạt gạo; Phật nhảy tường cần hơn hai mươi nguyên liệu xử lý riêng biệt rồi nấu trong vò kín; thịt hầm đòi hỏi mỡ nạc đều đặn, tan trong miệng nhưng không bị nát。
 
-> **📝 Góc nhìn chiêu thị:** Thường có người mô tả nhà hàng là "trường văn", tiệc rong là "trường võ". Thử thách của đầu bếp chuyên trách không chỉ nằm ở kỹ năng nấu nướng — dù gió bão, mưa tố, cầu gãy đường ngã, chỉ miễn chủ nhân không hủy, cũng phải hoàn thành sứ mệnh.
+> **📝 Góc nhìn người tổ chức triển lãm:** Thường có người ví von nhà hàng là «trường văn», bàn bàn là «trường võ». Thử thách của tổng phó sư không chỉ ở nghề nấu——bất kể bão to gió lớn、cầu đứt đường sập, miễn là chủ nhà không hủy, đều phải hoàn thành sứ mệnh。
 
-Vương Nghĩa Dũng, một đầu bếp chuyên trách đầu trâu của Đài Nam, từng có lần tổ chức 120 bàn tiệc ở sảnh lễ một trường học ở Cao Hùng. Lúc năm giờ chiều, cơn mưa to đột ngột ập đến, nước ngập đến độ cẳng chân, lò nấu bị tắt, các nồi chảo trôi trên mặt nước, cả cá hồi chuẩn bị bỏ vào nồi cũng trôi mất mười mấy con. Vương Nghĩa Dũng ngay lập tức xé vải lều để tháo nước, chuyển các công cụ nấu sang mái hiên, xắn tay áo đi bắt cá trước. Cuối cùng thiếu một con cá hồi, dùng nguyên liệu bàn dự bị để bổ sung, khách hàng ăn được tất cả[^2].
+Tổng phó sư kỳ cựu Đài Nam Vương Nghĩa Dũng từng tại Cao Hùng một hội trường trường học làm 120 bàn, chiều năm giờ mưa bão bất ngờ, nước ngập đến bắp chân, lò lửa bị tắt, nồi chảo trôi trên mặt nước, ngay cả cá truite chuẩn bị xuống nồi cũng bơi mất mười vài con。Vương Nghĩa Dũng lập tức xé vỡ lều vải bạt thoát nước, chuyển đồ dùng nấu ăn xuống hiên nhà, quay lên tay áo trước tiên bắt cá。Cuối cùng thiếu một con cá truite, nhờ nguyên liệu bàn dự bị bổ sung, khách toàn bộ đều ăn được[^2]。
 
-## Nội Môn: vùng đất khô cằn nuôi dưỡng quê hương của các đầu bếp chuyên trách
+## Nội Môn: Quê hương tổng phó sư trên mảnh đất khô cằn
 
-Cao Hùng Nội Môn bốn phía được bao bọc bởi các dãy núi, loại đất là đất trắng kiềm cao, không thuận lợi cho canh tác, chỉ có cây tre dễ chịu hạn khô mới sống được. Trước thập niên 1960, cư dân sống bằng cách chợ tre để cung cấp cho nông dân chuối ở Kỳ Sơn để đóng gói; sau khi thùng giấy giá rẻ chiếm thị trường, công nghiệp chợ tre suy tàn[^2].
+Cao Hùng Nội Môn bốn phía được bao quanh bởi núi, đất là đất phấn trắng có độ kiềm cao, không thích hợp cho nông nghiệp, chỉ có tre gai chịu hạn mới có thể sinh tồn. Trước những năm 1960, cư dân duy sinh bằng cách 編竹簍 cung cấp cho nông dân chuối Kỳ Sơn làm bao bì; sau khi hộp giấy chi phí thấp chiếm lĩnh thị trường, ngành 編竹 suy thoái[^2].
 
-Nhưng chính trong thời kỳ đó, nền kinh tế Đài Loan bắt đầu cất cánh, nhu cầu về tiệc rong tăng vùn vụt. Đất đai của những người Nội Môn không thể trồng được thứ gì, họ tìm được lối thoát mới — nấu tiệc cho người khác.
+Nhưng đúng vào thời kỳ đó, kinh tế Đài Loan cất cánh, nhu cầu bàn bàn tăng vọt. Người Nội Môn trên mảnh đất không trồng được gì đã tìm thấy lối ra mới — nấu tiệc cho người khác.
 
-Các miếu thờ ở Nội Môn mật độ cao, lực lượng đoàn rước hùng hậu, mỗi khi lễ hội diễn ra lại có nhu cầu ăn uống, khiến công ăn của đầu bếp chuyên trách luôn được gọi. Bạn của Tuyết Mông Huy là Tuyết Thanh Kỷ cùng với học trò, người bán gà, người bán lợn mỗi người đầu tư hai vạn đồng lập thành công ty "Bốn trong một", cung cấp nguyên liệu thực phẩm, nấu nướng, cho thuê bàn ghế trong một gói dịch vụ toàn diện[^2]. Sau khi những đầu bếp thứ hai, thứ ba tích lũy kinh nghiệm tự lập, nền năng lực tiệc rong của Nội Môn lớn lên như cuộn tuyết, trở thành huyện làng có mật độ đầu bếp chuyên trách cao nhất toàn Đài Loan, được gọi là "quê hương đầu bếp chuyên trách"[^6].
+Nội Môn chùa miếu tập trung, các đoàn trận đầu thanh thế hùng vĩ, mỗi dịp lễ hội đều có nhu cầu yến tiệc, khiến nghề tổng phó sư làm ăn phát đạt. Cha của Tiết Mạnh Huy (薛孟輝) là Tiết Thanh Kỷ (薛清己) cùng với đồ đệ, tiểu thương gà, tiểu thương heo mỗi người góp vốn hai vạn đồng thành lập công ty "Tứ hợp nhất" (四合一), cung cấp dịch vụ trọn gói bao gồm cung cấp nguyên liệu, nấu nướng, cho thuê bàn ghế[^2]. Các phụ bếp thứ hai, thứ ba tích lũy kinh nghiệm sau đó tự lập, năng lực bàn bàn của Nội Môn phát triển như quả cầu tuyết, trở thành thị trấn có mật độ tổng phó sư cao nhất toàn Đài Loan, được mệnh danh là "Quê hương tổng phó sư"[^6].
 
-> **📝 Góc nhìn chiêu thị:** Câu chuyện Nội Môn là câu chuyện "đảo ngược nhược điểm" phổ biến ở Đài Loan: chính vì đất đai khô cằn, không có lựa chọn khác, lại buộc phải tạo ra một cụm công nghiệp. Tiệc rong nuôi sống vô số gia đình, thậm chí những người dân sống ở huyện Sơn Lâm, cách đó nửa tiếng đi xe, cũng đến làm phụ tá.
+**📝 Góc nhìn biên tập:** Câu chuyện của Nội Môn là một lời kể thường thấy ở Đài Loan về "đảo ngược thế yếu": chính vì đất đai nghèo nàn, không có lựa chọn nào khác, mà đã ép sinh ra một cụm làng nghề. Bàn bàn nuôi sống vô số gia đình, ngay cả người dân huyện Tham Lâm cách nửa giờ xe hơi cũng đến làm phụ việc.
 
-Thời kỳ vàng khoảng từ 1988 đến 2000. Tuyết Mông Huy hồi tưởng, thời kỳ Lý Đăng Huy làm tổng thống, không chỉ "tám lễ kỷ niệm một tang lễ" theo truyền thống cần tổ chức tiệc rong, con em được trao bằng tiến sĩ, chim bồ câu đua thắng cuộc, đều có lý do để mời tiệc. Những ngày may mắn được đánh dấu trong lịch nông dân, quanh miếu thờ và bên vỉa hè toàn là "nhà hàng lớn Đen Thông" — xưa kia lều vải tiệc rong được các nhà cung cấp đồ uống cung cấp, in quảng cáo nước có ga Đen Thông, trở thành từ đồng nghĩa của tiệc rong[^2].
+Thời hoàng kim kéo dài khoảng từ năm 1988 đến 2000. Tiết Mạnh Huy hồi ký, thời kỳ Lý Đăng Huy nhậm chức tổng thống, không chỉ các dịp truyền thống "Bát khánh một tang" phải tổ chức bàn bàn, con đỗ tiến sĩ, đua bồ câu thắng tiền cũng thành lý do đặt tiệc. Những ngày tốt được đánh dấu đỏ trên lịch nông dân, trước cổng chùa và bên đường đầy rẫy "Hắc Tùng Đại Khách Sạn" — những năm đầu, buồng vải bạt làm bàn bàn do các hãng nước giải khát tài trợ, in quảng cáo nước ngọt Hắc Tùng, trở thành tên gọi thay thế cho bàn bàn[^2].
 
-## Canh tàn: bài thi cuối kỳ của đầu bếp chuyên trách
+## Canh Thái Vĩ: Kỳ thi cuối khóa của Tổng phó sư
 
-Trong tất cả các "tay khéo" của tiệc rong, vị trí cao nhất không phải là mầm sâm, cũng không phải cơm tôm mận đỏ — mà là "canh tàn" cuối cùng.
+Trong tất cả các món bàn bàn, món có vị thế cao nhất không phải là Phật nhảy tường, cũng không phải là bánh gạo cua hồng — mà là món cuối cùng 「Canh Thái Vĩ」.
 
-Rất nhiều người tưởng rằng canh tàn chỉ là những thứ ăn thừa, nhưng bà Hoàng Uyên Linh, mẹ vĩ đại của ẩm thực Đài Loan, đã dành ba mươi năm để làm sáng tỏ quan niệm sai lầm này. "Theo tên gọi thì nó chính là món ăn cuối cùng của đầu bếp, là phần không thể bỏ đi trước khi rời đi, gọi là canh tàn. Sáu mươi năm trước, không ai nghi ngờ rằng canh tàn là thứ ăn thừa, nó thậm chí còn là một món ăn lớn để kiểm tra kỹ năng của thầy phụ."[^7]
+Nhiều người lầm tưởng Thái Vĩ là đồ ăn thừa, bà tổ ẩm thực Đài Loan Hoàng Oanh Linh đã dành ba mươi năm để làm rõ hiểu lầm này. 「Theo tên gọi, món cuối cùng của đầu bếp, làm xong mới được về, đó gọi là Thái Vĩ. Sáu mươi năm trước, không ai đặt câu hỏi Canh Thái Vĩ có phải đồ ăn thừa, nó thậm chí là một món lớn **kiểm tra công lực** của sư傅。」[^7]
 
-Một canh tàn đúng chuẩn, cần giữ lại một phần nguyên liệu từ bảy môn ăn tiệc yến cổ điển: canh sầu riêng, năm gậy liễu, thịt kín, canh giá chua thịt lợn sườn, cá khô cải nấu mỡ gà, canh cốp me lợn rế, canh viên cá[^8]. Từ lúc khách bắt đầu ăn môn ăn đầu tiên, đầu bếp chuyên trách đã im lặng tính toán — giữ bao nhiêu, khi nào bỏ vào nồi, tỷ lệ sao cho vừa đúng.
+Một bát Canh Thái Vĩ chính thống, cần bảo lưu trước nguyên liệu của bảy món bàn bàn kinh điển: Canh hồng thảo, Ngũ liễu chi, Phong nhục, Canh sườn cải chua sợi măng, Cá bằng kho cải trắng, Canh dưa trắng dạ dày heo, Canh viên cá[^8]. Từ khi khách ăn món đầu tiên, Tổng phó sư đã thầm tính toán — để lại bao nhiêu, lúc nào cho vào nồi, tỷ lệ như thế nào.
 
-Mân Nam Đài Loan có chữ "kết" (kat), có nghĩa là thỏa thuận, hòa nhập. Kết canh tàn cần bốn đến tám tiếng, trong quá trình liên tục khuấy, nếm thử, điều chỉnh, nhiệt độ, độ ẩm, lửa, tình trạng nguyên liệu toàn bộ phán đoán ngay tức khắc. Bà Hoàng Uyên Linh từng tự mình thử làm, mất sáu ngày[^7].
+Trong tiếng Đài, 「結」 (kat) nghĩa là hòa quyện, dung hợp. Kết Thái Vĩ mất từ bốn đến tám giờ, trong quá trình liên tục khuấy, nếm, điều chỉnh, nhiệt độ, độ ẩm, lửa, trạng thái nguyên liệu toàn bộ phải phán đoán tức thì. Hoàng Oanh Linh tự gánh vác thử làm một lần, tốn sáu ngày[^7].
 
-> **💡 Bạn có biết không?** "Tặng lại canh tàn" là phần có người tình nhất trong tiệc rong. Sau khi tiệc kết thúc, chủ nhân yêu cầu những người khỏe mạnh mang nồi canh tàn đến từng nhà để tặng cho những hàng xóm đã giúp đỡ. "Tặng" được phát âm ở thanh thứ ba, mang ý nghĩa cúi người cảm ơn. Hàng xóm nhận được sau đó nấu lại một lần, thêm cải có thể thành hai nồi. Nếu canh tàn không được kết tốt, cả làng sẽ biết vào hôm sau, công ăn năm tới của đầu bếp chuyên trách sẽ trực tiếp bị ảnh hưởng[^9].
+> **💡 Bạn có biết không？** 「Trả Thái Vĩ」 là khâu mang tính nhân tình đậm đà nhất trong bàn bàn. Sau khi tiệc kết thúc, chủ nhà phái người khỏe gánh Canh Thái Vĩ tận nhà tặng hàng xóm giúp việc. Chữ 「Trả」 đọc thanh ba, mang ý nghĩa cúi chào dập đầu cảm ơn. Hàng xóm nhận được nấu lại, thêm cải trắng có thể thành hai nồi. Nếu Thái Vĩ kết kém, hôm sau cả làng都知道, sinh nhai năm sau của Tổng phó sư bị ảnh hưởng trực tiếp[^9].
 
-Bà Hoàng Uyên Linh nói: "Hầu hết tất cả các món ăn Đài Loan đều mang tính chất di cư, chỉ riêng canh tàn không, nó là món ăn thích ứng với địa phương được hình thành ba trăm năm qua trên vùng đất này, là gốc rễ của Đài Loan."[^7]
+Hoàng Oanh Linh nói: 「Đài Loan hầu như mọi món ăn đều mang màu sắc di dân, duy độc Canh Thái Vĩ không có, nó là món ăn này mảnh đất ba trăm năm nay ứng biến theo địa lý, là rễ của Đài Loan.」[^7]
 
 ## Hai mươi năm suy thoái
 
-Khủng hoảng của ngành công nghiệp tiệc rong không phải bắt đầu từ dịch bệnh. Thư ký công đoàn người lao động nhà hàng thành phố Chiayi, Chung Nguyệt Xuân, dùng ba thảm họa để đánh dấu các giai đoạn: "921 làm chổi một chút, SARS làm chổi hơn một nửa, dịch bệnh năm nay, có lẽ sẽ làm tiệc rong trở thành một ngành công nghiệp suy thoái."[^2]
+Khủng hoảng ngành bàn bàn không phải bắt đầu từ đại dịch. Bí thư Công đoàn Nghề Dịch vụ Ăn uống thành phố Chiayi, Chung Nguyệt Xuân (鍾月春), dùng ba thảm họa để đánh dấu mốc: «921 làm tổn thương một chút, SARS làm tổn thương hơn một nửa, đại dịch năm nay có thể khiến bàn bàn trở thành ngành công nghiệp suy tàn.»[^2]
 
-Nguyên nhân sâu sắc hơn là sự thay đổi của lối sống. Tiệc khách sạn thay thế cho tiệc rong bên vỉa hè, những người trẻ tuổi không muốn học những kỹ thuật tiệc rong đòi hỏi thể lực, những xí nghiệp nhỏ và vừa trong các khu vực xuất khẩu gia công đã đóng cửa khi công nghiệp dịch chuyển sang phía tây — Tuyết Mông Huy nói, có những khách hàng lâu năm hai năm không gọi anh tổ chức tiệc năm, khi hỏi lại đã bị đóng cửa rồi[^2].
+Nguyên nhân gốc rễ hơn là sự thay đổi lối sống. Tiệc cưới tại khách sạn thay thế bàn bàn bên đường, giới trẻ không muốn học nghề bàn bàn cần sức lực, các doanh nghiệp vừa và nhỏ tại khu chế xuất倒闭 theo xu hướng dịch chuyển sản nghiệp về phía tây — Tuệ Mạnh Huy (薛孟輝) nói, có khách quen liên tục hai năm không nhờ anh tổ chức tiệc cuối năm (尾牙), một hỏi mới biết đã đóng cửa[^2].
 
-> "Chúng tôi không chỉ lo lắng cho năm nay, mà còn lo lắng rằng mọi người sẽ không gọi (tiệc rong) trở thành thói quen." — Chủ người tiệc rong Đài Nam Thái Dục Phong[^2]
+> «Chúng tôi không chỉ lo năm nay, mà lo sợ mọi người không còn thuê (bàn bàn) thành thói quen.» — Nhà làm bàn bàn Đài Nam (台南) Thái Dư Phong (蔡裕峰)[^2]
 
-Câu nói này bộc lộ sợ hãi sâu nhất của ngành công nghiệp tiệc rong. Sự mất đi của tiệc rong không chỉ là một cuộc kinh doanh, mà là toàn bộ một cách thức xã hội hoạt động: các lễ hội miếu thờ tạo ra nhu cầu tiệc yến, các đầu bếp chuyên trách nuôi sống những phụ tá và nhà cung cấp, "tặng lại canh tàn" duy trì các mối quan hệ giữa các hàng xóm. Khi vòng tuần hoàn này bị ngắt, ngắt không chỉ là chuỗi công nghiệp.
+Câu nói đó nói lên nỗi sợ hãi sâu sắc nhất của ngành bàn bàn. Bàn bàn biến mất không chỉ là mất một nghề kinh doanh, mà là mất một hệ thống vận hành xã hội hoàn chỉnh: lễ hội đền chùa kéo động nhu cầu yến tiệc, tổng phó sư (總鋪師) nuôi sống các thủy cước (水腳) và nhà cung cấp, «hoàn món thừa» (還菜尾) duy trì mối quan hệ láng giềng. Khi chu trình này đứt gãy, đứt gãy không chỉ chuỗi cung ứng.
 
-## Những người cứu vãn
+## Người cứu vãn
 
-Có người đang nỗ lực giữ lại những vị vắng này.
+Có người đang nỗ lực hết mình giữ lại những hương vị này.
 
-Bà Hoàng Uyên Linh lúc đầu chỉ muốn là một nhà báo viết báo cáo, theo những đầu bếp chuyên trách lâu năm để phỏng vấn và muốn viết câu chuyện. Kết quả là những người thầy phụ thấy cô gái tay không có sức mạnh, bỗng dưng rơi nước mắt — vì không còn ai khác sẵn lòng học nữa. Giọt nước mắt đó thay đổi hướng đi của cuộc đời bà: bắt đầu từ phụ tá, theo những đầu bếp chuyên trách nhiều người chạy hơn trăm bàn tiệc, tập luyện tập thể dục nặng để chịu được sức khỏe[^7]. Từ năm 2011 trở đi, bà liên tiếp xuất bản những cuốn sách "Đầu bếp chuyên trách tổ chức tiệc", "Bếp của bà cố", "Ẩm thực Đài Loan cũ", "Một trăm năm hương vị cổ của Đài Loan", "Vị thật của ẩm thực Đài", để giữ lại những cách nấu ẩm thực Đài Loan cũ và câu chuyện quê hương bằng chữ viết[^10].
+Hoàng Oanh Linh ban đầu chỉ muốn làm nhà báo phỏng vấn, theo dõi các lão tổng phó sư để viết câu chuyện. Kết quả lão sư thấy cô yếu ớt, không trói được gà, bỗng nhiên rơi nước mắt — vì không còn ai muốn học nghề nữa. Giọt nước mắt đó thay đổi hướng đi cuộc đời cô: từ việc vặt làm起, theo nhiều vị tổng phó sư chạy trăm tiệc cưới, tập gym để đỡ được sức lực[^7]. Từ năm 2011, cô lần lượt xuất bản 《總鋪師辦桌》、《阿嬤的廚房》、《老台菜》、《百年台灣古早味》、《台菜本味》, ghi chép lại cách làm và câu chuyện phong thổ của món Đài cổ truyền bằng chữ viết[^10].
 
-Hình thức cứu vãn khác là chuyển đổi thương mại. Anh Long ở Nội Môn biến những thịt kín, mầm sâm thành gói đông lạnh chân không bán trên thương mại điện tử[^11]; có những đầu bếp chuyên trách chuyển đổi làm những vật dùng lễ tế, vì dù không có hoạt động lớn, việc lễ bái không bao giờ ít[^2]. Nhưng trải nghiệm tiệc rong dựng lều bên đường, nấu tại chỗ, mười hai môn ăn khởi tiếp chuyển hợp, là cái mà gói đông lạnh không thể tái hiện được.
+Một dạng cứu vãn khác là chuyển型 kinh doanh. Sư A Long tại Nội Môn làm thịt hầm, Phật nhảy tường thành sản phẩm đóng gói hút chân không đông lạnh bán trên thương mại điện tử[^11]; một số tổng phó sư chuyển làm của cúng tế lễ, vì dù không có hoạt động lớn, việc thờ cúng không bao giờ thiếu[^2]. Nhưng trải nghiệm bàn bàn dựng lề đường, đun nấu tại chỗ, mười hai món khởi thừa chuyển hợp, là những gì bao bì đông lạnh không thể tái hiện.
 
-Phần tàn khốc nhất của tay khéo nằm ở đây: nó là kỹ thuật sống, phụ thuộc vào con người truyền cho con người. Muối nắm một nắm là bao nhiêu gam, khi nào từ lửa lớn chuyển sang lửa nhỏ, "màu sắc đúng rồi" là màu sắc nào — những quy tắc này chỉ tồn tại trong tay và mắt của thầy phụ. Khi người không còn, món ăn cũng không còn.
+Tàn khốc nhất ở bàn bàn chính ở chỗ: nó là nghệ thuật sống, nhờ người truyền người. Nắm một nắm muối ra bao nhiêu gam, lúc chuyển từ lửa to sang lửa nhỏ, "màu đã đúng" là màu gì — những bí quyết này chỉ tồn tại trong tay và mắt của sư phụ. Người đi rồi, món cũng mất.
 
-Tuyết Mông Huy lật qua nhật ký nông dân đầy chữ của bạn, nơi đó là các giai đoạn của một thời kỳ vàng của một ngành công nghiệp. Điều anh không biết là, cái nhật ký đó không chỉ ghi lại những menu và số bàn tiệc — nó ghi lại toàn bộ cách người Đài Loan của một thời đại ăn mừng, cảm ơn, cách họ dùng một nồi canh để nối toàn làng lại với nhau.
+Tiết Mạnh Huy lật xem lịch nông dân cha mình viết đầy trang, nét chữ trên đó là thước đo một thời kỳ vàng của ngành. Anh không biết rằng, cuốn nhật ký ấy ghi chép không chỉ thực đơn và số bàn — nó ghi chép cả một thời đại người Đài Loan ăn mừng như thế nào, cảm ơn như thế nào, dùng một nồi canh gắn kết cả làng lại với nhau.
 
-**Đọc thêm:**
+**Mở rộng đọc**：
 
-- [Văn hóa tiệc rong Đài Loan](/vi/food/taiwan-banquet-culture) — Nơi thể hiện tập trung nhất của những tay khéo: từ Nội Môn là vùng đất xấu nuôi dưỡng vương quốc các đầu bếp chuyên trách, đến toàn bộ một bộ kiến thức về lễ tiễn tiệc yến trải rộng trên ba giới con người thần thánh quỷ
-- [Trần Ngọc Huân](/vi/people/tran-ngoc-huan) — Đạo diễn "Đầu bếp chuyên trách", đem những mon gà sơ sinh thịt lợn sơ sinh rồi sơ sinh lên màn ảnh rộng khi những kỹ năng nấu này sắp mất tích
-- [Văn hóa hải sản Đài Loan](/vi/food/taiwan-seafood-culture) — Câu chuyện về tôm mận đỏ, tôm rồng, cá hấp trên bàn chính tiệc rong, đằng sau của những mảnh hương vị hải sản Đài Loan
+- [Văn hóa bàn bàn Đài Loan](/vi/food/taiwan-banquet-culture) — Lĩnh vực thể hiện đậm nét nhất của bàn bàn: từ vương quốc tổng phó sư đào tạo ra trên đất xấu Nội Môn, đến một bộ kiến thức nghi thức tiệc cưới trải ba giới người thần quỷ
+- [Trần Ngọc Huân](/vi/people/chen-yu-hsun-taiwan-comedy-film-magician) — Đạo diễn 《總舖師》, đưa những món thủ công tinh xảo suýt mất truyền như gà non bụng heo rùa lên màn ảnh rộng
+- [Văn hóa hải sản Đài Loan](/vi/food/taiwan-seafood-culture) — Cua đỏ, tôm hùm, cá hấp trên bàn chính bàn bàn, dòng chảy hải vị phía sau
 
-## Tham khảo
+## Nguồn hình ảnh
 
-[^1]: [Tay khéo — Từ điển Đài ngữ phổ biến của Bộ Giáo dục](https://sutian.moe.edu.tw/zh-hant/su/1118/) — Xem chi tiết thêm trong liên kết gốc
+- Hero：Gà ba ly, nhiếp ảnh Archon6812，[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sanbeiji.jpg)，CC BY-SA 3.0。
 
-[^2]: [Các đầu bếp chuyên trách và những phụ tá trải qua mùa đông dài nhất — Báo Cáo Viên](https://www.twreporter.org/a/after-covid-19-fading-taiwan-flavor-roadside-banquet-culture) — (2020)
+## Tài liệu tham khảo
 
-[^3]: [Thống kê của Bộ Kinh tế — Doanh thu của công ty dịch vụ ăn uống ngoài trời](https://www.moea.gov.tw/Mns/dos/bulletin/Bulletin.aspx?kind=8&html=1&menu_id=6727&bull_id=7325) — (2020)
+[^1]: [Thủ lộ cà — Từ điển phổ thông tiếng Đài Loan của Bộ Giáo dục](https://sutian.moe.edu.tw/zh-hant/su/1118/) — Xem chi tiết dữ liệu bổ sung trong liên kết gốc
 
-[^4]: [Tiệc rong — Bách khoa toàn thư](https://zh.wikipedia.org/zh-tw/%E8%BE%A6%E6%A1%8C) — Mục bách khoa toàn thư
+[^2]: [Tổng phó sư và thủy cước: Mùa đông dài nhất — Người Báo Đạo](https://www.twreporter.org/a/after-covid-19-fading-taiwan-flavor-roadside-banquet-culture) — (2020)
 
-[^5]: [Tiết lộ bí mật của văn hóa tiệc rong: thực đơn tiệc yến, trình tự bưng ra và những tay khéo tốt của đầu bếp chuyên trách — Heho](https://lifestyle.heho.com.tw/archives/60486) — (2023)
+[^3]: [Thống kê Bộ Kinh tế — Doanh thu ngành dịch vụ tiệc ngoài và cấp ăn tập thể thầu包](https://www.moea.gov.tw/Mns/dos/bulletin/Bulletin.aspx?kind=8&html=1&menu_id=6727&bull_id=7325) — (2020)
 
-[^6]: [Một gia đình tiệc rong, mười gia đình hương thơm — truyền thuyết tiệc rong của Nội Môn](http://mail.jwsh.tp.edu.tw/~lawfate/a-3.html) — Xem chi tiết thêm trong liên kết gốc
+[^4]: [Bàn bàn — Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%BE%A6%E6%A1%8C) — Điều khoản Wikipedia
 
-[^7]: [Hoàng Uyên Linh "Vị thật của ẩm thực Đài" giữ cho hương thơm tiếp tục bay của "Canh tàn" kinh điển sắp mất tích — 500 times](https://500times.udn.com/wtimes/story/12671/5245108) — (2021)
+[^5]: [Giải mã văn hóa bàn bàn: Thực đơn tiệc, trình tự trình bày món và nghề tay cao của tổng phó sư — Heho](https://lifestyle.heho.com.tw/archives/60486) — (2023)
 
-[^8]: [Canh tàn không bằng thực phẩm thừa — Mẹ vĩ đại của ẩm thực Đài dạy cách nấu vị tốt kinh điển "canh tàn" — Tuổi Trẻ Đài Loan](https://orange.udn.com/orange/story/121311/5327380) — (2021)
+[^6]: [Một nhà làm tiệc vạn nhà ngửi mùi — Truyền thuyết bàn bàn Nội Môn](http://mail.jwsh.tp.edu.tw/~lawfate/a-3.html) — Xem chi tiết dữ liệu bổ sung trong liên kết gốc
 
-[^9]: [Canh tàn kinh điển không phải là thực phẩm thừa! 7 loại món ăn độc lập nấu lên khoảng 4 tiếng — ETtoday](https://travel.ettoday.net/article/1913876.htm) — (2021)
+[^7]: [Hoàng Oanh Linh 'Hương vị gốc ẩm thực Đài Loan' khiến 'Canh Thái Vĩ' kinh điển suýt mất truyền tiếp tục lưu hương — 500 Tập](https://500times.udn.com/wtimes/story/12671/5245108) — (2021)
 
-[^10]: [Anh hùng Đài Loan — Mẹ vĩ đại của ẩm thực Đài Loan Hoàng Uyên Linh — Tự do thời báo](https://www.youtube.com/watch?v=P4cjkkQeuxY) — (2022)
+[^8]: [Thái Vĩ ≠ Đồ ăn thừa — Bà tổ ẩm thực Đài Loan dạy nấu 'Canh Thái Vĩ' kinh điển ngon — Liên Hợp Báo Cam Thế Hệ](https://orange.udn.com/orange/story/121311/5327380) — (2021)
 
-[^11]: [Tiệc rong của anh Long ở Nội Môn — Rakuten](https://www.rakuten.com.tw/shop/aweisister/) — Xem chi tiết thêm trong liên kết gốc
+[^9]: [Canh Thái Vĩ kinh điển không phải đồ ăn thừa! 7 nguyên liệu món độc lập hầm 4 tiếng — ETtoday](https://travel.ettoday.net/article/1913876.htm) — (2021)
+
+[^10]: [Anh hùng Đài Loan — Bà tổ ẩm thực Đài Loan Hoàng Oanh Linh — Tự Do Thời Báo](https://www.youtube.com/watch?v=P4cjkkQeuxY) — (2022)
+
+[^11]: [Thầy A Long Nội Môn làm tiệc bàn bàn — Rakuten](https://www.rakuten.com.tw/shop/aweisister/) — Xem chi tiết dữ liệu bổ sung trong liên kết gốc
