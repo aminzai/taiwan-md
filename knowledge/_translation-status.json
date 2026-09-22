@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-22T21:18:35+08:00",
-    "zhCommitHead": "f70b57e7a",
+    "lastUpdated": "2026-09-22T21:34:41+08:00",
+    "zhCommitHead": "4f5728f91",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 971,
+        "fresh": 972,
         "stale": 58,
         "metadata_stale": 9,
-        "missing": 86,
+        "missing": 85,
         "orphan": 0
       },
       "pt": {
@@ -100,9 +100,9 @@
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1045,
+        "fresh": 1046,
         "stale": 26,
-        "metadata_stale": 5,
+        "metadata_stale": 4,
         "missing": 48,
         "orphan": 0
       },
@@ -5286,19 +5286,17 @@
         "ru": {
           "path": "ru/Music/sunset-rollercoaster.md",
           "translatedFrom": "Music/落日飛車.md",
-          "sourceCommitSha": "dd39065b2",
-          "sourceContentHash": "sha256:a199eb8f6aa7f0fc",
-          "sourceBodyHash": "sha256:2680b892b33ad9fa",
-          "translatedAt": "2026-07-30T22:54:37+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:4ae0b9c19401a360",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-22T12:52:56.993988+00:00",
           "translationLastCommit": "0565ddd4",
           "translationLastModified": "2026-09-22T01:09:08+08:00",
           "inferred": false,
           "footnoteDefs": 41,
-          "bytes": 61956,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "bytes": 68513,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Music/sunset-rollercoaster.md",
@@ -25309,8 +25307,8 @@
           "sourceContentHash": "sha256:5a5479f4d6a79c93",
           "sourceBodyHash": "sha256:09e6bc194dc58574",
           "translatedAt": "2026-09-22T17:40:19+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4f5728f9",
+          "translationLastModified": "2026-09-22T21:18:35+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "bytes": 24969,
@@ -82320,7 +82318,19 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Politics/2026-local-elections-taiwan.md",
+          "translatedFrom": "Politics/2026 九合一選舉.md",
+          "sourceCommitSha": "2cbb7955c",
+          "sourceContentHash": "sha256:98482d1a94d7ac85",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-22T13:12:01.400788+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 39,
+          "bytes": 58876,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Politics/2026-local-elections-taiwan.md",
@@ -125421,8 +125431,8 @@
           "sourceContentHash": "sha256:834d66de28d359a5",
           "sourceBodyHash": "sha256:45ab5eeee03419d3",
           "translatedAt": "2026-09-22T17:40:42+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4f5728f9",
+          "translationLastModified": "2026-09-22T21:18:35+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "bytes": 30473,
@@ -146331,8 +146341,8 @@
           "sourceContentHash": "sha256:ffeaf97d752181df",
           "sourceBodyHash": "sha256:b546f7c4ab790d17",
           "translatedAt": "2026-09-22T17:40:19+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4f5728f9",
+          "translationLastModified": "2026-09-22T21:18:35+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "bytes": 24607,
