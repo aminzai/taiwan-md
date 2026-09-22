@@ -1,20 +1,20 @@
 ---
-title: 'Audrey Tang: Mỗi một quyết định nổi tiếng của cô, đều là lần từ chối nhãn "thiên tài"'
-description: 'Bị cô bạn đánh ngất lúc 8 tuổi, từ chối bảo đảm vào Trường Kiến Trung lúc 14 tuổi, ra khỏi tủ ở tuổi 24 nhưng từ chối làm đại diện cộng đồng chuyển giới, vào tháng 10 năm 35 tuổi lúc điều kiện đầu tiên là "không có văn phòng". Ngày 2 tháng 12 năm 2025, cô ấy nhận giải Right Livelihood Award tại Stockholm, và trên sân khấu cô nói không phải "tôi", mà là "chúng tôi".'
+title: "Đường Phượng: Mỗi quyết định nổi tiếng của cô đều là sự từ chối nhãn mác 'thiên tài'"
+description: "Bị bạn học đá ngất lúc 8 tuổi, từ chối được tuyển thẳng vào trường Kiến Trung năm 14 tuổi, công khai xu hướng tính dục khi còn 24 tuổi nhưng từ chối làm đại sứ, và điều kiện đầu tiên khi gia nhập hội đồng ở tuổi 35 là 'không có văn phòng'. Vào ngày 2 tháng 12 năm 2025 tại Stockholm, cô nhận Giải thưởng Sinh kế Đúng đắn (Right Livelihood Award), trên sân khấu không nói về 'tôi' mà nói về 'chúng ta'."
 date: 2026-05-16
 category: 'People'
 tags:
   [
     'nhân vật',
-    'Audrey Tang',
-    'Bộ Phát triển Kỹ thuật số',
+    'đường phượng',
+    'bộ phát triển kỹ thuật số',
     'g0v',
-    'chuyển giới',
+    'khác giới',
     'lập trình',
     'chính phủ mở',
     'vTaiwan',
-    'Plurality',
-    'Right Livelihood Award',
+    'đa dạng',
+    'giải thưởng sinh kế đúng đắn',
   ]
 subcategory: '教育與社會'
 author: 'Taiwan.md'
@@ -23,310 +23,501 @@ lastVerified: 2026-05-16
 lastHumanReview: true
 readingTime: 14
 image: '/article-images/people/audrey-tang-portrait-2016.webp'
-imageAlt: 'Audrey Tang, chân dung năm 2026 tháng 3 được chụp tại Paris, mặc quần áo tối màu, chân dung ánh sáng mềm tự nhiên.'
+imageAlt: 'Ảnh chân dung Đường Phượng được chụp vào tháng 3 năm 2016 tại Paris, mặc trang phục tối màu, ánh sáng tự nhiên dịu nhẹ.'
 imageCredit: 'Camille McOuat (Flickr / Wikimedia Commons, CC BY 2.0)'
+lifeTree:
+  protagonist: '唐鳳（Audrey Tang）'
+  birthYear: 1981
+  span: '1981–2025'
+  source:
+    article: 'knowledge/People/唐鳳.md'
+    commit: 'pending'
+    commitDate: '2026-05-16'
+    extractedBy: 'Taiwan.md (Semiont) γ-evolve'
+    extractedAt: '2026-05-16 +0800'
+    note: '原文 references = 中文維基 / 臺灣女人 NMTH / 數位發展部官網 / Right Livelihood / 江明宗 Medium 等多源 cross-verify。多數重大轉折由本人公開談過，counterfactual 主要為結構性對比。'
+  intro: '8 歲停學、14 歲拒絕保送建中、19 歲在矽谷當工程師、24 歲跨性別出櫃、35 歲成為全球首位跨性別部長。她每一次「離開主流軌道」都不是反叛而是選擇。這棵樹列出她選的路，也列出她沒選的——所有 alternative 都有同代結構性對照。'
+  themes:
+    - id: 'education'
+      label: '體制 vs 自學'
+      color: '#8B5CF6'
+    - id: 'identity'
+      label: '隱身 vs 出櫃'
+      color: '#EC4899'
+    - id: 'tech-policy'
+      label: '純技術 vs 政治參與'
+      color: '#10B981'
+    - id: 'tools'
+      label: '個人 vs 社群協作'
+      color: '#F59E0B'
+  nodes:
+    - id: 'birth'
+      year: 1981
+      age: 0
+      type: 'given'
+      theme: 'education'
+      label: '出生於台北（原名唐宗漢）'
+      scene: '智商測驗校方做過 3 次都是「至少 160」最高等級。母親李雅卿是《中國時報》採訪組副主任，後來是教育改革者。'
+    - id: 'drop-out-8'
+      year: 1989
+      age: 8
+      type: 'choice'
+      theme: 'education'
+      scene: '9 年內轉換 3 所幼稚園、6 所小學；小二曾因搶考卷被同學踢一腳撞牆昏倒'
+      chose:
+        label: '正式停學在家自學'
+        consequence: '母親洗澡時看見肚子瘀青，當下決定為她辦休學。後來李雅卿帶她到德國體驗另類教育，1994 年回台創辦烏來種籽親子實驗小學。'
+      alternatives:
+        - label: '繼續在體制內適應'
+          plausibility: 'structural'
+          note: '同代多數高智商但社交困難的孩子被診斷為亞斯/ADHD，繼續在體制內掙扎。如果留在學校，可能會走出版或學術路徑（亦可能更早 burnout）。'
+        - label: '轉到資優教育班'
+          plausibility: 'structural'
+          note: '台灣 1980s 末已有資優教育班。如果走資優班，會跟其他高智商孩子一起被體制塑形，少了完全自由探索的時間。'
+    - id: 'refuse-jianzhong'
+      year: 1995
+      age: 14
+      type: 'choice'
+      theme: 'education'
+      scene: '獲得保送建中的資格'
+      chose:
+        label: '放棄建中 + 完全自學程式設計'
+        consequence: '14 歲在烏來山中閉關後，向父母宣告不再升學。沒有老師、沒有課程，靠閱讀技術文件 + 網路社群學習。為日後推動開放教育與知識共享奠定理念基礎。'
+      alternatives:
+        - label: '念建中走台灣資優生路徑'
+          plausibility: 'structural'
+          note: '建中 → 台大 → 海外名校的標準路徑。如果走，會有正規學歷加持，但失去「14 歲就在 internet 上跟全球工程師對話」的塑形時期。'
+        - label: '出國念中學'
+          plausibility: 'structural'
+          note: '同代部分天才兒童家庭選擇早期送出國（如 MIT 早期入學）。如果走，可能更早接觸世界一流計算機科學，但 g0v 那條公民科技線不會在台灣發生。'
+    - id: 'silicon-valley'
+      year: 2000
+      age: 19
+      type: 'choice'
+      theme: 'tech-policy'
+      scene: '19 歲已在加州矽谷軟體公司擔任工程師'
+      chose:
+        label: '深耕程式語言理論（Perl/Haskell）+ 發起 Pugs 專案'
+        consequence: '2005/2/1 啟動 Pugs（用 Haskell 實現 Perl 6）。2001-2006 在 CPAN 啟動超過 100 個 Perl 專案。「用一種語言實現另一種語言」訓練了她的 meta-thinking——後來看政府就像看一個需要重構的系統。'
+      alternatives:
+        - label: '加入 Google / 大型科技公司'
+          plausibility: 'structural'
+          note: '2000 年代矽谷主流路徑。如果走，會有更高薪 + 股票，但失去 open source 社群浸淫時間。後來 g0v 的「不是員工是社群」DNA 不會出現。'
+        - label: '創業'
+          plausibility: 'structural'
+          note: '同代矽谷工程師很多選擇創業（YC 第一批 2005）。如果走，可能成為連續創業者，但「為公共利益寫 code」的傾向會被「為股東寫 code」覆蓋。'
+    - id: 'gender-transition'
+      year: 2005
+      age: 24
+      type: 'choice'
+      theme: 'identity'
+      scene: '人生最重要的決定之一'
+      chose:
+        label: '服用雌激素 + 公開出櫃 + 改名「唐鳳」'
+        consequence: '2005 年底在 blog.elixus.org 部落格自行宣告。「不管現在、過去或未來，我很樂意大家用女性的名詞來稱呼我」。父親回應「沒有理由不接受」。為台灣 LGBTQ+ 權益做出重要貢獻，但她本人後來反覆拒絕「跨性別代言人」位置，自稱「後類別」。'
+      alternatives:
+        - label: '私下轉換不公開'
+          plausibility: 'structural'
+          note: '部分跨性別者選擇低調 transition，避免社會壓力。如果走這條，職涯可能更平順，但「全球首位公開跨性別部長」的歷史地位不存在。'
+        - label: '不 transition'
+          plausibility: 'speculative'
+          note: '[推測] 同代部分跨性別者因社會壓力選擇延後或放棄。如果走，內在張力可能影響後續創造力與公開能見度。'
+    - id: 'g0v-2012'
+      year: 2012
+      age: 31
+      type: 'choice'
+      theme: 'tools'
+      scene: '在矽谷已是有聲譽的開源工程師'
+      chose:
+        label: '與高嘉良、吳泰輝、瞿筱葳等共創 g0v 零時政府'
+        consequence: "台灣最重要的公民科技社群。起點是 2012/10 對「經濟動能推升方案」廣告的不滿 + 中央政府總預算視覺化。「hack don't attack」——不攻擊既有制度，用技術改善它。萌典、IVOD、口罩地圖等模式後來被全球複製。"
+      alternatives:
+        - label: '繼續在矽谷做純技術'
+          plausibility: 'structural'
+          note: '當時矽谷對她已開放各種 senior 機會。如果留下，會是「另一個成功的台裔工程師」，不會有後來的政策影響力。'
+        - label: '回台灣加入既有政黨/智庫'
+          plausibility: 'structural'
+          note: '走傳統政治參與路徑。如果走，會被政黨機器收編，「無黨籍政務委員」的可能性消失。'
+    - id: 'sunflower'
+      year: 2014
+      age: 33
+      type: 'choice'
+      theme: 'tech-policy'
+      scene: '2014/3/18 太陽花學運佔領立法院'
+      chose:
+        label: '一手架設場內所有線路、鏡頭、網路直播設備，但本人只待議場 1 小時即離開'
+        consequence: '她認為「議場內部 5 個不同角度攝影機錄影和直接播出的情況下，所有活動已經成為純粹的展示演出和儀式」。對佔領、表態都「不感興趣」。同時自掏腰包請人做政府會議逐字稿。'
+      alternatives:
+        - label: '完全參與佔領 / 公開表態反政府'
+          plausibility: 'structural'
+          note: '同代部分技術人選擇成為運動代言人。如果走，可能成為政治明星，但失去 2016 以「無黨籍 outsider」入閣的可能性。'
+    - id: 'vtaiwan'
+      year: 2014
+      age: 33
+      type: 'choice'
+      theme: 'tech-policy'
+      scene: '2014/4 蔡玉玲以政務委員身份進到 g0v 黑客松，後續發展為 vTaiwan 平台'
+      chose:
+        label: '與政府合作 vTaiwan + Pol.is 共識引擎'
+        consequence: '2015-2018 處理 26 議題，80% 引起實質政府行動。Uber 法規討論成最知名案例。國際公認的數位民主典範。'
+      alternatives:
+        - label: '拒絕與政府合作'
+          plausibility: 'structural'
+          note: '部分公民科技人堅持與政府保持距離（如 EFF 路線）。如果如此，g0v 純民間倡議路徑，不會被「招安」進體制，但也少了實際政策落地能力。'
+    - id: 'digital-minister'
+      year: 2016
+      age: 35
+      type: 'choice'
+      theme: 'tech-policy'
+      scene: '2016/8/9 第一次見林全、8/15 同意接任、10/1 上任'
+      chose:
+        label: '入閣擔任「數位政委」，談妥三條件：每週三、五遠距上班 / 會議全公開逐字稿 / 不必每天進院'
+        consequence: '台灣史上最年輕政務委員 + 全球第一個公開跨性別身份的部長級政治人物 + 台灣第一位「數位政委」。'
+      alternatives:
+        - label: '婉拒入閣'
+          plausibility: 'structural'
+          note: '同類型的 outsider 技術人有人婉拒（怕被體制吸納）。如果婉拒，數位轉型工作會缺一個關鍵連結點，後來疫情口罩地圖等可能晚數月或不發生。'
+    - id: 'covid-mask-map'
+      year: 2020
+      age: 39
+      type: 'choice'
+      theme: 'tools'
+      scene: '2020/1/31 - 2/6 期間，吳展瑋凌晨用 Google Maps API 做的超商口罩地圖一夜燒掉 2 萬美元 API 費用'
+      chose:
+        label: '協調健保署 open data 釋出 + 邀集 g0v 社群共同開發藥局口罩採購地圖'
+        consequence: '2/6 健保署 open data 上線同日，藥局口罩採購地圖正式上線。24 小時內 100 萬人次使用。2/15 HackMD 上有 101 個相關應用、g0v 社群建構 140+ 工具。江明宗 verbatim：「唐鳳有決定權，還能自己改 code，所以我們都不用北上向哪個長官報告」。'
+      alternatives:
+        - label: '只做政策不下海寫工具'
+          plausibility: 'structural'
+          note: '部會首長正常路徑：開會、定政策、讓承包商做。如果如此，口罩地圖可能變成 6 週才上線的官方 app（多國的 reality）。她下海推 g0v 社群跑兩天上線是關鍵。'
+    - id: 'moda-minister'
+      year: 2022
+      month: 8
+      age: 41
+      type: 'choice'
+      theme: 'tech-policy'
+      scene: '2022/8/27 數位發展部正式揭牌'
+      chose:
+        label: '擔任首任部長至 2024/5/20'
+        consequence: '從跨部會協調的政務委員變成有固定預算與編制的正式部長。整合電信、資安、數位經濟。首年預算員額 598 人、公務預算 57 億 + 前瞻 160 億。任期 1 年 9 個月。'
+      alternatives:
+        - label: '繼續當政務委員不擔任部長'
+          plausibility: 'structural'
+          note: '保留「跨部會自由」的彈性，避免成為被質詢的固定靶。但失去「正式部會 + 預算 + 編制」的執行力。'
+        - label: '回民間繼續做 g0v'
+          plausibility: 'structural'
+          note: '另一條路：以 NGO 身份持續影響政策。如果走，數位發展部首任部長會是別人，很可能用更傳統官僚方式管理。'
+    - id: 'stockholm'
+      year: 2025
+      month: 12
+      age: 44
+      type: 'choice'
+      theme: 'tools'
+      scene: '2025/12/2 斯德哥爾摩 Right Livelihood Award 頒獎台'
+      chose:
+        label: '接受「另一個諾貝爾獎」，台上演說將焦點推回集體'
+        consequence: "首位獲此獎台灣人。Citation：「For advancing the social use of digital technology to empower citizens, renew democracy and heal divides」。接受演說 verbatim：「Cyberspace is a conflict region, and my work turns that conflict into an energy source for co-creation」+ 個人哲學重述「The superintelligence we are looking for is already here. It's us」。"
+      alternatives:
+        - label: '在頒獎台上講「我的成就」'
+          plausibility: 'structural'
+          note: '同代得獎者常以個人故事為敘事中心。如果走，獎座變成個人勳章，但她選擇把舞台 reframe 成「我們」——她拒絕當天才這條主線的最後一個變奏。'
 translatedFrom: 'People/唐鳳.md'
-sourceCommitSha: '29ff6f481'
-sourceContentHash: 'sha256:97c9b6fe6c788bcc'
-sourceBodyHash: 'sha256:223451ab2ee89544'
-translatedAt: '2026-08-09T08:07:25+08:00'
+sourceCommitSha: 'e75b621d2'
+sourceContentHash: 'sha256:1917aa69dfd8ab97'
+translatedAt: '2026-09-22T06:37:45.226921+00:00'
 ---
 
-# Audrey Tang: Mỗi một quyết định nổi tiếng của cô, đều là lần từ chối nhãn "thiên tài"
+# Đường Phượng: Mỗi quyết định nổi tiếng của cô đều là sự từ chối nhãn mác "thiên tài"
 
-> **Tóm lược 30 giây:**
-> Bị đánh ngất lúc 8 tuổi rồi ngừng học, từ chối bảo đảm vào Trường Kiến Trung lúc 14 tuổi, ra khỏi tủ lúc 24 tuổi nhưng từ chối làm đại diện cộng đồng chuyển giới, vào tháng 10 năm 35 tuổi và điều kiện đầu tiên là "không có văn phòng". Năm 2020 rạng sáng cô và Giang Minh Tông ở g0v Slack sửa code làm bản đồ mặt nạ; ngày 2 tháng 12 năm 2025 cô nhận giải Right Livelihood Award tại Stockholm, cả khán phòng chờ đợi câu chuyện cá nhân của cô, nhưng cô nhấn mạnh trên sân khấu chỉ có hai chữ "chúng tôi". Thế giới đối xử với cô như một thiên tài; mỗi một quyết định nổi tiếng của cô, đều là lần từ chối vị trí này.
+> **Tóm tắt 30 giây:**
+> Bị bạn học đá ngất và nghỉ học năm 8 tuổi, từ chối được tuyển thẳng vào trường Kiến Trung năm 14 tuổi, công khai xu hướng tính dục khi còn 24 tuổi nhưng từ chối làm đại sứ, điều kiện đầu tiên khi gia nhập nội các ở tuổi 35 là "không có văn phòng". Vào rạng sáng năm 2020, cô và Giang Minh Tông cùng viết mã để lập bản đồ khẩu trang trên Slack của g0v; vào ngày 2 tháng 12 năm 2025 tại Stockholm, khi nhận Giải thưởng Sinh kế Đúng đắn (Right Livelihood Award), trong khi mọi người đều mong đợi câu chuyện cá nhân của cô, điều cô nhấn mạnh trên sân khấu lại là từ "chúng ta". Thế giới coi cô là thiên tài; nhưng mỗi quyết định nổi tiếng của cô đều là sự từ chối vị trí đó.
 
-## Một hóa đơn API đốt 20.000 đô la cho bản đồ mặt nạ
+## Bản đồ khẩu trang "đốt" hai vạn đô la
 
-Cuối tháng 1 năm 2020, dịch bệnh COVID-19 bắt đầu lan tới Đài Loan. Nguồn cung mặt nạ tại hiệu thuốc căng thẳng, chính phủ công bố từ ngày 6 tháng 2 sẽ bắt đầu mua bằng chứng minh thư. Ngô Triển Úy (Howard), một kỹ sư từ studio Tốt Hơn Tây Nam, vào rạng sáng ngày 2 tháng 2 tự tay làm, dùng Google Maps API để kết nối một bản đồ có thể kiểm tra lượng mặt nạ ở các siêu thị gần đó. Anh ấy vào lúc rạng sáng triển khai trực tuyến, chia sẻ trên cộng đồng mạng[^1].
+Cuối tháng 1 năm 2020, đại dịch COVID-19 bắt đầu lan rộng tại Đài Loan. Nguồn cung khẩu trang ở các hiệu thuốc trở nên khan hiếm, và chính phủ thông báo thực hiện mua hàng theo tên người vào ngày 6/2. Vào rạng sáng ngày 2 tháng 2, một kỹ sư tên Ngô Triển Vĩ (Howard) từ studio 好想 (Hao Xiang) đã tự mình tạo ra một bản đồ sử dụng Google Maps API để tra cứu lượng khẩu trang tại các cửa hàng tiện lợi lân cận. Anh ấy triển khai và chia sẻ nó trên mạng xã hội vào rạng sáng[^1].
 
-Trưa anh ấy ăn cơm xong quay lại máy tính, hóa đơn API của Google đã chạy tới 20.000 đô la — trong 24 giờ đã bị đốt bởi lượng người truy cập ồ ạt.
+Buổi trưa, sau khi ăn xong, anh quay lại máy tính thì thấy hóa đơn phía sau của Google API đã lên tới 20.000 đô la Mỹ—số lượng sử dụng trong vòng 24 giờ đã "đốt" hết số tiền này.
 
-Cùng ngày Audrey Tang xuất hiện trong kênh g0v Slack. Cô không phải đến để ra lệnh. Cô phối hợp với đội kỹ sư Google, trước tiên giữ hóa đơn lại; cùng lúc bổ sung vài người bạn g0v lâu nay — Giang Minh Tông (kiang, trước đây là thư ký phòng thành phố thông minh Tây Nam), bộ phận thông tin Cục Bảo hiểm Y tế (Trương Linh Chi, Trần Tư Ngoạc) — cùng nhau nghĩ: làm sao để lượng mặt nạ tại hơn 6000 hiệu thuốc toàn Đài Loan, cứ 30 giây lại đồng bộ một lần vào một bản đồ bất cứ ai cũng có thể mở được[^2].
+Ngày hôm đó, Đường Phượng xuất hiện trên kênh Slack của g0v. Cô không đến để ra lệnh. Cô phối hợp với đội ngũ kỹ sư Google để kiềm chế hóa đơn tại thời điểm đó; đồng thời cùng một vài người bạn lâu năm trong cộng đồng g0v—Giang Minh Tông (kiang, thư ký trước của Văn phòng Thành phố Thông minh Đài Nam), các thành viên nhóm thông tin của Cơ quan Bảo hiểm Y tế Quốc gia (Trương Linh Chi, Trần Tư Du)—cùng nhau suy nghĩ: làm thế nào để lượng khẩu trang tại hơn 6.000 hiệu thuốc trên toàn Đài Loan được đồng bộ hóa mỗi 30 giây lên một bản đồ mà bất kỳ ai cũng có thể truy cập[^2]?
 
-Đến sáng ngày 6 tháng 2 lúc 8 giờ, Cục Bảo hiểm Y tế mở dữ liệu chính thức đúng lúc ấy, bản đồ mua mặt nạ từng hiệu thuốc trực tuyến. 24 giờ hơn 1 triệu lần truy cập. Đến ngày 15 tháng 2, HackMD tích lũy 101 ứng dụng liên quan, cộng đồng g0v xây dựng hơn 140 công cụ[^2][^3].
+Vào lúc 8 giờ sáng ngày 6/2, bản đồ mua sắm khẩu trang của Cơ quan Bảo hiểm Y tế Quốc gia đã chính thức được công bố thông qua dữ liệu mở. Trong 24 giờ, nó đã được hơn 1 triệu người sử dụng. Đến ngày 15/2, HackMD đã tích lũy được 101 ứng dụng liên quan, và cộng đồng g0v đã tạo ra hơn 140 công cụ[^2][^3].
 
-Giang Minh Tông sau đó trong bài giảng lại của riêng mình, để lại đoạn này:
+Giang Minh Tông sau đó đã ghi lại đoạn này trong bản thảo bài phát biểu của mình:
 
-> ✦ "Vệ sĩ chính trị rất thạo thích cấu trúc thông tin, yêu cầu gì chúng tôi cũng hiểu. Quan trọng nhất là Audrey Tang có quyền quyết định, còn có thể tự sửa code, nên chúng tôi không cần phải lên Đài Bắc báo cáo với bất kỳ trưởng phòng nào."[^4]
+> ✦ "Bí thư Đảng ủy rất thành thạo về kiến trúc thông tin, chúng tôi đưa ra bất kỳ yêu cầu nào cô ấy đều hiểu. Điều quan trọng nhất là Đường Phượng có quyền quyết định và còn tự sửa code được, nên chúng tôi không cần phải báo cáo lên cấp trên ở Bắc Kinh."[^4]
 
-Nhân vật chính của câu chuyện này không phải chỉ Audrey Tang một mình. Là Giang Minh Tông, Ngô Triển Úy, những công chức ở bộ phận thông tin Cục Bảo hiểm Y tế, hàng trăm kỹ sư trong cộng đồng g0v, và cả một đêm làm việc rửa code trong văn phòng Audrey Tang.
+Nhân vật chính của câu chuyện này không chỉ là Đường Phượng. Đó là Giang Minh Tông, Ngô Triển Vĩ, các công chức từ nhóm thông tin của Cơ quan Bảo hiểm Y tế Quốc gia, hàng trăm kỹ sư trong cộng đồng g0v, và cả những đêm thức trắng sửa code tại văn phòng của Đường Phượng.
 
-Nhưng từ năm 2020 trở đi, tất cả phiên bản của báo chí nước ngoài, nhân vật chính đều chỉ là một mình cô. BBC viết "Audrey Tang dùng code cứu Đài Loan", Wired viết "Hacker người từng trở thành Bộ trưởng Kỹ thuật số Đài Loan", TIME đưa cô vào "Lãnh đạo toàn cầu chống dịch bệnh".
+Nhưng sau năm 2020, tất cả các phương tiện truyền thông nước ngoài đều viết rằng nhân vật chính chỉ là cô ấy. BBC viết "Audrey Tang cứu Đài Loan bằng code", Wired viết "Hacker trở thành Bộ trưởng Kỹ thuật số của Đài Loan", và TIME xếp cô vào danh sách "nhà lãnh đạo toàn cầu chống dịch bệnh".
 
-Cô trong mỗi cuộc phỏng vấn đều đẩy công lao lại. Nhưng nguyên mẫu "bộ trưởng thiên tài cứu Đài Loan" dính trên người cô bốn mươi mấy năm, không dễ mà tháo xuống.
+Trong mỗi cuộc phỏng vấn, cô đều đẩy công lao về phía người khác. Nhưng câu chuyện về một "bộ trưởng thiên tài cứu Đài Loan" đã bám lấy cô hơn bốn mươi năm, và không dễ dàng gỡ bỏ được.
 
-## 8 tuổi bị bạn đánh ngất, 14 tuổi từ chối Kiến Trung
+## Bị bạn đá ngất năm 8 tuổi, từ chối học trường Kiến Trung năm 14
 
-Ngày 18 tháng 4 năm 1981, Audrey Tang sinh ra ở Đài Bắc. Tên khai sinh là Đường Tông Hàn. Cha Đường Quang Hóa là phó tổng biên tập trước đây của Thời báo Trung Hoa, mẹ Lý Nhã Khánh là phó trưởng nhóm phỏng vấn cũng của tờ báo đó[^5].
+Vào ngày 18 tháng 4 năm 1981, Đường Phượng (Tang Feng) sinh ra tại Đài Bắc. Tên trước của cô là Đường Tông Hán. Cha cô, Đường Quang Hoa (Tang Guanghua), từng là phó tổng biên tập của 《Trung Quốc Thời Báo》; mẹ cô, Lý Nhã Khanh (Li Yaqing), là phó giám đốc bộ phận phỏng vấn của tờ báo này[^5].
 
-Cô bị bệnh tim bẩm sinh. Trường học làm ba lần thử IQ, mỗi lần đều cho kết quả "ít nhất 160" (mức tối đa của công cụ đo). Lúc 8 tuổi nhà cô chưa có máy tính, cô đọc một quyển sách về lập trình Applesoft BASIC, từ đó tự tay vẽ bàn phím máy tính và màn hình trên giấy, viết tên các nút bấm và những gì máy tính có thể xuất ra[^5].
+Cô mắc bệnh tim bẩm sinh. Nhà trường đã thực hiện ba lần kiểm tra trí thông minh, mỗi lần đều cho kết quả "ít nhất 160" (mức cao nhất của công cụ kiểm tra). Khi cô 8 tuổi, nhà chưa có máy tính, nhưng cô đã đọc một cuốn sách lập trình Applesoft BASIC, và tự vẽ bàn phím cùng màn hình máy tính trên giấy, ghi lại các nút bấm và nội dung mà máy tính có thể xuất ra[^5].
 
-Nhưng nhãn "trẻ thiên tài" có lẽ là cụm từ thường xuất hiện nhất cạnh tên cô vào năm 2026, lúc đó cô 8 tuổi không có vị trí ấy. Vị trí ấy chỉ có chứa những trận đánh, vết bầm tím, và "tại sao cô không chết đi".
+Nhưng nhãn mác "thiên tài" có lẽ là tính từ được nhắc đến nhiều nhất bên cạnh tên cô vào năm 2026, chứ không phải ở đứa trẻ 8 tuổi năm 1989. Ở vị trí đó chỉ có những trận đánh đập, vết bầm tím và câu hỏi: "Tại sao con không chết đi?".
 
-Sáu năm tiểu học cô chuyển ba trường mầm non, sáu trường tiểu học. Lớp 2 một hôm, cô thầy phát xong bài kiểm tra và rời khỏi lớp. Audrey Tang làm xong sớm, vài bạn viết không ra giơ tay cú cãi lấy bài kiểm tra của cô. Cô cầm bài kiểm tra chạy, vấp ngã, một bạn dùng toàn bộ sức lực đánh cô một cú, cô chạm vào tường, ngất đi[^6]. Sau này bạn ấy nói một câu, được Today Focus lưu lại từng từ:
+Lớp sáu tiểu học, cô đã chuyển ba nhà trẻ và sáu trường tiểu học. Một ngày nọ ở lớp hai, sau khi giáo viên phát bài kiểm tra và rời khỏi phòng học, Đường Phượng đã làm xong sớm. Vài bạn chưa viết được đã đưa tay đòi giật bài kiểm tra của cô. Cô chạy mang bài kiểm tra, bị ngã, và một bạn học sinh đã dốc hết sức đá vào cô, khiến cô đập vào tường và ngất xỉu[^6]. Sau đó, bạn học đó đã nói một câu mà tờ Kim Chuẩn ghi lại nguyên văn:
 
-> ✦ "Tại sao cô không chết đi? Nếu cô chết thì tôi là tốt nhất."[^6]
+> ✦ "Tại sao con không chết đi? Nếu con chết, tôi sẽ là người giỏi nhất."[^6]
 
-Cô quay về nhà không nói gì. Một ngày mẹ tắm thấy vết bầm tím trên bụng cô, lập tức quyết định cho cô xin nghỉ học[^6].
+Cô về nhà nhưng không nói gì. Một ngày nọ, mẹ cô nhìn thấy vết bầm tím trên bụng cô khi bà đang tắm, và quyết định cho cô nghỉ học[^6].
 
-Mẹ Lý Nhã Khánh sau đó sang Đức nghiên cứu giáo dục thay thế, năm 1994 ở Ô Lai thành lập trường tiểu học thử nghiệm Ô Lai Seed Parents and Children, tự làm hiệu trưởng đầu tiên[^7]. Năm 1995, 14 tuổi, Audrey Tang sau khi tập trung tại Ô Lai, tuyên bố với cha mẹ: không tiếp tục học hành, từ chối bảo đảm vào Kiến Trung[^8].
+Sau này, mẹ Lý Nhã Khanh đã sang Đức nghiên cứu giáo dục thay thế, và vào năm 1994, bà thành lập trường tiểu học thí nghiệm Tinh Tử Tương Tử (Seed Family Experimental School) ở Ô Lai, tự nhận làm hiệu trưởng đầu tiên[^7]. Năm 1995, Đường Phượng, khi 14 tuổi, sau một thời gian ẩn dật trên núi Ô Lai, đã thông báo với cha mẹ: cô sẽ không học tiếp nữa, từ bỏ việc được tuyển thẳng vào trường Kiến Trung[^8].
 
-Đó không phải "tôi quá thiên tài nên không cần trường" mà là lựa chọn của một bé gái tám tuổi đã học cách giấu mình, quyết định lúc mười bốn tuổi: bị khung "học sinh giỏi" giam cầm là phiên bản cô không muốn.
+Đó không phải là lựa chọn "tôi quá thiên tài nên không cần đến trường". Đó là quyết định của một đứa trẻ đã học cách tự giấu mình từ năm tám tuổi, rằng ở tuổi mười bốn, cô không muốn bị đóng khung trong vị trí "học sinh ưu tú" mà người khác gán cho.
 
-Cô sau đó nói lại rất nhiều lần: "Tôi không có cảm giác rằng thế giới hiện đại còn có khái niệm thiên tài. Ở thời đại internet, thực tế mỗi người đều IQ 180."[^9]
+Sau này, cô đã nói rất nhiều lần: "Tôi không nghĩ thế giới hiện đại còn có khái niệm thiên tài. Trong thời đại Internet, thực ra ai cũng là IQ 180."[^9]
 
-## 24 tuổi cô đổi tên, nhưng từ chối làm đại diện cộng đồng chuyển giới
+## Năm 24 cô đổi tên, nhưng từ chối làm đại sứ chuyển giới
 
-12 tuổi cô bắt đầu học Perl[^10]. 19 tuổi (năm 2000) cô đã làm kỹ sư phần mềm ở công ty Thung lũng Silicon ở California[^11].
+Năm 12 tuổi, cô bắt đầu học Perl[^10]. Đến năm 19 tuổi (năm 2000), cô đã là kỹ sư tại một công ty phần mềm ở Thung lũng Silicon, California[^11].
 
-Ngày 1 tháng 2 năm 2005, 24 tuổi, cô khởi động dự án Pugs — cách triển khai trình biên dịch và thông dịch Perl 6 bằng Haskell[^12]. Pugs là một kỹ thuật bootstrap trong cộng đồng Perl: một ngôn ngữ triển khai chính nó bằng ngôn ngữ khác. Từ 2001 đến 2006, cô khởi động hơn 100 dự án Perl trên CPAN[^13]. Cộng đồng mã nguồn mở quốc tế gọi cô là Audrey hay au.
+Vào ngày 1 tháng 2 năm 2005, khi 24 tuổi, cô khởi xướng dự án Pugs—một trình biên dịch và thông dịch Perl 6 được viết bằng Haskell[^12]. Pugs là một dự án "bootstrap" trong cộng đồng Perl: một ngôn ngữ tự hiện thực hóa bằng một ngôn ngữ khác. Trong khoảng thời gian từ năm 2001 đến năm 2006, cô đã khởi xướng hơn 100 dự án Perl trên CPAN[^13]. Cộng đồng mã nguồn mở quốc tế gọi cô là Audrey hoặc au.
 
-Cuối năm 2005, cô tự công khai trên blog cá nhân blog.elixus.org là người chuyển giới[^14]. Cô dùng hormone estrogen nhưng không phẫu thuật. Đổi tên Hán Việt "Audrey Tang", tên tiếng Anh từ Autrijus thành Audrey.
+Cuối năm 2005, cô tự tuyên bố mình là người chuyển giới trên blog của mình tại blog.elixus.org[^14]. Cô sử dụng estrogen nhưng chưa phẫu thuật. Tên tiếng Trung được đổi thành "Đường Phượng", và tên tiếng Anh Autrijus được đổi thành Audrey.
 
-Cô viết trong đoạn blog ấy:
+Trong bài viết trên blog đó, cô đã viết:
 
-> ✦ "Dù bây giờ, quá khứ hay tương lai, tôi rất vui được mọi người gọi tôi bằng đại từ nữ."[^14]
+> ✦ “Dù là hiện tại, quá khứ hay tương lai, tôi rất sẵn lòng để mọi người gọi tôi bằng danh từ nữ.”[^14]
 
-Cha Đường Quang Hóa khi được phỏng vấn, phản hồi được nhiều ôn báo ghi lại từng từ:
+Phản hồi của cha cô, Đường Quang Hoa, khi được phỏng vấn sau này đã được nhiều phương tiện truyền thông trích dẫn nguyên văn:
 
-> ✦ "Nếu cô ấy cảm thấy thay đổi giới tính có thể làm cô ấy hạnh phúc hơn, phát huy sáng tạo hơn, và không làm hại ai, thì không có lý do không chấp nhận."[^15]
+> ✦ “Nếu con gái cảm thấy sự thay đổi giới tính giúp nó hạnh phúc hơn, phát huy sức sáng tạo tốt hơn mà không làm tổn hại đến bất kỳ ai, thì không có lý do gì để từ chối.”[^15]
 
-Cô từ chối vị trí "đại diện cộng đồng chuyển giới". Năm 2020 cô điền ô giới tính trong bảng dữ liệu nhân sự tháng 10 là "không có". Lúc ấy cô giải thích với báo chí[^16]:
+Cô đã từ chối vị trí "đại sứ chuyển giới". Năm 2020, cô ghi mục giới tính là "Không" trong hồ sơ nhân sự của nội các. Khi đó, cô giải thích với phóng viên[^16]:
 
-> ✦ "Tôi là 'hậu danh mục'. Trong tranh luận giới tính tôi không lựa chọn bên nào. Không phải tôi tin vấn đề này không quan trọng, mà tôi tin tranh luận không giải quyết được vấn đề gì."[^16]
+> ✦ “Tôi là ‘hậu phân loại’. Trong cuộc tranh luận về giới tính, tôi không đứng về phe nào. Điều đó không có nghĩa là tôi cho rằng vấn đề này không quan trọng, mà là tôi cho rằng cuộc tranh luận không thể giải quyết được bất kỳ vấn đề nào.”[^16]
 
-Cô trong cuộc phỏng vấn với Marie Claire, để lại một câu được lặp lại nhiều lần:
+Trong một cuộc phỏng vấn với Marie Claire, cô đã để lại một câu khác được trích dẫn nhiều lần:
 
-> ✦ "Nếu bạn có thể sống chung với nhầm lẫn, chậm chạp bạn có thể thấy, không phải vấn đề của bạn cũng không phải vấn đề của xã hội, mà là khoảng cách ở giữa. Mọi vạn vật đều có khoảng cách, khoảng cách chính là cửa để ánh sáng vào."[^17]
+> ✦ “Nếu bạn có thể chung sống với sự bối rối, dần dần bạn sẽ nhận ra rằng nó không phải là vấn đề của bạn cũng không phải là vấn đề của xã hội, mà là khoảng trống ở giữa. Mọi thứ đều có khoảng trống, và khoảng trống chính là lối vào ánh sáng.”[^17]
 
-Từ 2010 đến 2016 cô làm cố vấn cho Apple, tham gia phát triển Siri, theo lời đồn lương theo giờ ngang với 1 bitcoin[^18]. 33 tuổi (năm 2014) cô đã hoàn thành bàn giao công việc tại Socialtext và Apple, công khai "nghỉ hưu"[^11].
+Từ năm 2010 đến 2016, cô kiêm nhiệm cố vấn cho Apple, tham gia phát triển Siri, với mức lương mỗi giờ được cho là tương đương một Bitcoin[^18]. Năm 33 tuổi (năm 2014), cô đã bàn giao công việc của Socialtext và Apple, tuyên bố "nghỉ hưu"[^11].
 
-## g0v và hội trường Phong trào Hoa hướng dương: đẩy công lao cho những người không ai thấy
+## g0v và Nghị trường Hoa Tai: Gán công lao cho những người vô hình
 
-Tháng 10 năm 2012, cô cùng Cao Giai Lương (clkao), Ngô Thái Huỳnh (Kirby), Cù Tiểu Vũ (ipa) và những người khác đồng sáng lập g0v Không Giờ Chính Phủ. Điểm khởi đầu là không hài lòng với quảng cáo từ Hội đồng Hành chính về "Phương án thúc đẩy động lực kinh tế" — một quảng cáo với ngân sách 33 triệu, xem xong không biết chính phủ chủ ý làm gì[^19].
+Vào tháng 10 năm 2012, bà cùng Cao Gia Lương (clkao), Ngô Thái Huy (Kirby), Qu Siêu Uy (ipa) và những người khác đồng sáng lập g0v Zero-Hour Government. Điểm khởi đầu là sự bất mãn với quảng cáo "Kế hoạch thúc đẩy động lực kinh tế" của chính phủ trung ương—một đoạn quảng cáo truyền thông có ngân sách 33 triệu, xem xong không biết chính phủ thực sự muốn làm gì[^19].
 
-Dự án đầu tiên của g0v là trực quan hoá ngân sách chính phủ trung ương: trải các bộ ngân sách dày từng trang thành những bức tranh có thể click[^19]. Sau đó là Mục điển từ điển (MoeDict), Nhà hát Viện Lập pháp (IVOD), phát trực tiếp hội trường Phong trào Hoa hướng dương.
+Dự án đầu tiên của g0v là trực quan hóa ngân sách nhà nước: biến các tài liệu ngân sách dày cộp thành những biểu đồ có thể nhấp chuột[^19]. Sau đó là MoeDict, IVOD (Phim trường Quốc hội), và việc phát sóng trực tiếp nghị trường trong cuộc vận động Hoa Tai.
 
-Đêm ngày 18 tháng 3 năm 2014, sinh viên chiếm đóng hội trường Viện Lập pháp. Tất cả đường dây, máy ảnh, thiết bị phát trực tiếp mạng trong hội trường, đều do Audrey Tang lắp đặt một mình[^20].
+Vào đêm ngày 18 tháng 3 năm 2014, sinh viên đã chiếm giữ nghị trường. Tất cả các đường truyền, camera và thiết bị phát trực tuyến trên mạng tại hiện trường đều do Đường Phượng tự dựng[^20].
 
-Nhưng cô chỉ ở lại hội trường một tiếng rồi rời đi. Sau công khai truyền hình Truyền hình Công cộng PNN phỏng vấn cô, cô nói:
+Nhưng bà chỉ ở lại nghị trường một giờ rồi rời đi. Sau đó, PNN (Truyền hình Công cộng) đã phỏng vấn bà, và bà nói:
 
-> ✦ "Với năm máy quay phim từ các góc độ khác nhau và phát trực tiếp trong hội trường, tất cả hoạt động đã trở thành trình diễn thuần túy và nghi lễ."[^20]
+> ✦ "Với việc ghi hình và phát trực tiếp từ 5 góc độ khác nhau bên trong nghị trường, mọi hoạt động đều trở thành một màn trình diễn và nghi thức thuần túy."[^20]
 
-Cô đối với chiếm đóng, đối với biểu thái cô "không quan tâm". Cùng lúc cô tự túc tiền thuê người làm bản ghi chép từng từ cuộc họp chính phủ — để những người không có mặt tại chỗ cũng có thể đọc toàn bộ đối thoại[^20].
+Bà "không quan tâm" đến việc chiếm giữ hay tuyên bố. Điều bà quan tâm là công nghệ công cụ. Đồng thời, bà đã tự bỏ tiền thuê người ghi lại biên bản cuộc họp chính phủ—để những người không có mặt tại hiện trường cũng có thể đọc được toàn bộ cuộc đối thoại[^20].
 
-Sau khi Phong trào Hoa hướng dương kết thúc, tháng 4 năm 2014, lúc ấy là vệ sĩ chính trị Thái Vũ Linh bước vào hackathon g0v. Từ lúc ấy, hai từ "chính phủ" và "g0v" mà trước đó đối lập, bắt đầu mọc ra một lãnh địa trung gian[^21].
+Sau khi Hoa Tai kết thúc, vào tháng 4 năm 2014, Thái Ngọc Linh (Cai Yuling), một ủy viên chính sách lúc bấy giờ, đã tham gia hackathon của g0v. Kể từ thời điểm đó, hai khái niệm vốn đối lập là "chính phủ" và "g0v" bắt đầu nảy sinh một vùng giao thoa[^21].
 
-Lãnh địa trung gian ấy tên là vTaiwan. Từ 2015 đến 2018, nền tảng xử lý 26 vấn đề, 80% trong đó gây ra hành động chính phủ thực chất[^22]. Trường hợp nổi tiếng nhất là thảo luận luật Uber: lái taxi và những người ủng hộ Uber giằng co sáu năm, cuối cùng Uber được hợp pháp hóa dưới bảy điều kiện bổ sung[^22].
+Vùng giao thoa đó được gọi là vTaiwan. Từ năm 2015 đến 2018, nền tảng này đã xử lý 26 vấn đề, trong đó 80% đã dẫn đến hành động thực tế của chính phủ[^22]. Ví dụ nổi tiếng nhất là cuộc thảo luận về quy định Uber: các chủ xe taxi và những người ủng hộ Uber đã bế tắc sáu năm, cuối cùng đã hợp pháp hóa Uber với bảy điều kiện[^22].
 
-Lõi của nền tảng là Pol.is consensus engine — hàng loạt ý kiến được máy tổ chức thành từng cluster, cho phép mỗi người tham gia thấy "tôi và ai nói giống nhau, tôi và ai nói khác, đâu là chủ trương ai cũng đồng ý". Nó không bỏ phiếu, không đối lập, chỉ vẽ hình dáng của sự khác biệt.
+Cốt lõi của nền tảng này là công cụ đồng thuận Pol.is—lượng lớn ý kiến được máy móc sắp xếp thành một số cụm (cluster), giúp mỗi người tham gia nhìn thấy "tôi giống ai, khác ai, và những luận điểm nào mà mọi người đều đồng ý". Nó không bỏ phiếu, không đối lập, mà chỉ vẽ ra hình dạng của sự bất đồng.
 
-## Không có văn phòng, tất cả cuộc họp công khai bảng ghi chép, tuần ba và năm làm việc từ xa
+## Không văn phòng, bản ghi chép công khai toàn bộ, làm việc từ xa ba ngày mỗi tuần
 
-Ngày 9 tháng 8 năm 2016, 35 tuổi, Audrey Tang lần đầu gặp Lâm Toàn. Ngày 15 tháng 8, cô đồng ý nhận chức. Cuối tháng 9 cô quay về từ Thung lũng Silicon. Ngày 1 tháng 10 cô bước vào Hội đồng Hành chính[^23].
+Vào ngày 9 tháng 8 năm 2016, Đường Phượng (Audrey Tang) lần đầu tiên gặp Lâm Toàn (Lin Chuan), Thủ tướng Chính phủ. Vào ngày 15 tháng 8, bà đồng ý nhậm chức Ủy viên chính sách. Cuối tháng 9, bà trở về Đài Loan từ Thung lũng Silicon. Ngày 1 tháng 10, bà bắt đầu công tác tại Nội các[^23].
 
-Ba điều kiện cô đã thỏa thuận trước, sau đó trở thành chiếc lỗ hở đầu tiên trong hệ thống công vụ Đài Loan: thứ ba và thứ sáu làm việc từ xa hàng tuần; tất cả cuộc họp công khai bảng ghi chép từng từ; không cần vào Hội đồng Hành chính hàng ngày[^23].
+Ba điều kiện mà bà đã đàm phán trước sau này đã tạo ra một kẽ hở trong hệ thống công chức Đài Loan: làm việc từ xa vào thứ Tư và thứ Sáu hàng tuần; tất cả các cuộc họp đều có bản ghi chép công khai; không cần phải đến cơ quan mỗi ngày[^23].
 
-Lâm Toàn lúc ấy giải thích với báo chí:
+Lâm Toàn đã giải thích với phóng viên lúc đó:
 
-> ✦ "Hiện tại Hội đồng Hành chính chưa có quy định về làm việc từ xa, nhưng cô ấy quá khứ cách làm việc hoàn toàn là từ xa, tôi tin là trong tình huống công việc không bị ảnh hưởng, qua máy tính truyền tải ý kiến hoặc chỉ đạo chính sách, tôi tin điều này là khả thi."[^24]
+> ✦ "Hiện tại Nội các chưa có quy định về làm việc từ xa, nhưng mô hình làm việc lâu dài trước đây của bà ấy là làm việc từ xa. Tôi cho rằng, miễn là công việc không bị ảnh hưởng, việc truyền đạt ý tưởng hoặc chỉ thị chính sách qua máy tính từ xa là khả thi."[^24]
 
-Cô trở thành ba thứ: vệ sĩ chính trị trẻ nhất lịch sử Đài Loan, bộ trưởng cấp chính trị công khai danh tính chuyển giới đầu tiên toàn cầu, "vệ sĩ chính trị kỹ thuật số" đầu tiên Đài Loan[^25].
+Bà đã trở thành ba điều: Ủy viên chính sách trẻ nhất trong lịch sử Đài Loan, nhân vật cấp bộ đầu tiên trên thế giới công khai về bản dạng giới xuyên giới, và "Ủy viên chính sách kỹ thuật số" đầu tiên của Đài Loan[^25].
 
-Cô trong Hội đồng Hành chính không có văn phòng cố định. Cô nói cả tòa nhà là không gian làm việc của cô. Sau mỗi cuộc họp, bảng ghi chép từng từ được đăng lên sayit.pdis.nat.gov.tw, bất cứ ai cũng có thể tìm kiếm[^26].
+Bà không có văn phòng cố định tại Nội các. Bà nói toàn bộ khu vực cơ quan là không gian làm việc của bà. Sau khi cuộc họp kết thúc, bản ghi chép được đăng tải trên sayit.pdis.nat.gov.tw, và bất kỳ ai cũng có thể tìm kiếm[^26].
 
-Cô lập một nhóm 20 người, gọi là PDIS (Không gian Đổi mới Kỹ thuật số Công cộng). Một nửa là chuyên gia dân sự, một nửa là quân tình nguyện từ các bộ. Hè thêm 30 thực tập sinh[^26]. Nó không phải tổ chức cấp bậc — nó là không gian làm việc.
+Bà đã thành lập một nhóm nhỏ gồm 20 người, gọi là PDIS (Public Digital Innovation Space - Không gian Đổi mới Kỹ thuật số Công cộng). Một nửa là các chuyên gia tư nhân, một nửa là lực lượng tình nguyện viên từ các bộ ngành. Trong kỳ nghỉ hè còn bổ sung thêm 30 thực tập sinh[^26]. Nó không phải là một tổ chức quan liêu—nó là một không gian làm việc.
 
-Năm 2019 cô được chọn vào danh sách 100 nhà tư tưởng toàn cầu của Foreign Policy (loại bầu chọn của độc giả)[^27]. Báo chí viết cô là "bộ trưởng chuyển giới công khai duy nhất toàn cầu" "ngôi sao lập trình". Cô trong mỗi cuộc phỏng vấn lại đẩy công lao lại — nhưng câu chuyện "bộ trưởng thiên tài" dính trên cô dễ được truyền tả hơn là những gì cô nói.
+Năm 2019, bà được bầu chọn vào danh sách "Top 100 Nhà Tư Tưởng Toàn Cầu" của tạp chí _Foreign Policy_ (dựa trên bình chọn độc giả)[^27]. Truyền thông mô tả bà là "bộ trưởng duy nhất công khai xuyên giới trên toàn cầu", hay "ngôi sao lập trình". Trong mỗi cuộc phỏng vấn, bà đều đẩy công lao về phía người khác—nhưng câu chuyện về "bộ trưởng thiên tài" dễ được truyền lại hơn những gì bà nói.
 
-![Audrey Tang tại hội thảo Xã hội Kỹ thuật số re:publica tháng 5 năm 2019 tại Berlin](/article-images/people/audrey-tang-re-publica-2019.webp)
-_Ngày 8 tháng 5 năm 2019 tại hội thảo Xã hội Kỹ thuật số re:publica Berlin "Digital Social Innovation" talkshow, Audrey Tang và Julia Kloiber cùng sân khấu. Photo: Jan Michalko. [CC BY-SA 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Re_publica_19_-_Day_3_(32860400897).jpg).\_
+![Đường Phượng phát biểu tại hội nghị xã hội số re:publica ở Berlin năm 2019](/article-images/people/audrey-tang-re-publica-2019.webp)
+_Tại sự kiện đối thoại "Digital Social Innovation" của re:publica ở Berlin ngày 8 tháng 5 năm 2019, Đường Phượng cùng Julia Kloiber trên sân khấu. Ảnh: Jan Michalko. [CC BY-SA 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Re_publica_19_-_Day_3_(32860400897).jpg).\_
 
-## Chủ nghĩa vô chính phủ bảo thủ: từ chối lệnh, cũng từ chối bị lệnh
+## Chủ nghĩa vô chính phủ bảo thủ: Từ chối mệnh lệnh, cũng từ chối bị mệnh lệnh
 
-Audrey Tang tự gọi mình là "chủ nghĩa vô chính phủ bảo thủ". Trên bề mặt là một cụm từ mâu thuẫn.
+Đường Phượng tự xưng là một "chủ nghĩa vô chính phủ bảo thủ". Thoạt nghe có vẻ mâu thuẫn.
 
-"Bảo thủ" (conservative) nghĩa là bảo tồn những thứ hiện tại, những thứ hoạt động tốt; "vô chính phủ" (anarchist) nghĩa là phản đối tập trung quyền lực, từ chối bắt buộc từ trên xuống. Ghép hai từ này lại của những người, nghĩa thường là: tôi tin những thứ trong thể chế hiện tại có giá trị, nhưng tôi không tin bất kỳ ai có quyền cơ chế để bắt buộc người khác chấp nhận.
+"Bảo thủ" (conservative) mang ý nghĩa giữ lại các thể chế hiện hành và đang hoạt động tốt; còn "vô chính" (anarchist) là phản đối sự tập trung quyền lực, từ chối sự cưỡng ép từ trên xuống. Những người kết hợp hai từ này thường có ý: tôi tin rằng có những giá trị trong hệ thống hiện tại, nhưng tôi không tin bất kỳ ai có đủ tư cách để dùng uy quyền ép buộc người khác chấp nhận nó.
 
-Cô với Rest of World trong cuộc phỏng vấn để lại một câu gần như tuyên ngôn:
+Trong cuộc phỏng vấn với Rest of World, bà đã để lại một câu gần như là lời tuyên ngôn:
 
-> ✦ "Any top-down, coercion, whether it's from the capitalists or from the state, is equally bad." (Bất cứ bắt buộc từ trên xuống nào, dù từ các nhà tư bản hay từ nhà nước, đều tệ như nhau.)[^28]
+> ✦ "Bất kỳ sự cưỡng ép nào từ trên xuống, dù đến từ giới tư bản hay nhà nước, đều tệ như nhau."[^28]
 
-Cô với kinh tế gia Tyler Cowen trong cuộc phỏng vấn, khi bị hỏi "vai trò của cô là gì", cô nói:
+Khi được hỏi về "vai trò của mình" trong cuộc phỏng vấn với nhà kinh tế học Tyler Cowen, bà đã trả lời:
 
-> ✦ "I'm working _with_ the government; I'm not working _for_ the government." (Tôi làm việc _với_ chính phủ; tôi không làm việc _cho_ chính phủ.)[^29]
+> ✦ "Tôi làm việc _cùng_ chính phủ; tôi không làm việc _cho_ chính phủ."[^29]
 
-Năm 2020 Hội nghị Máy tính Khoa học Quốc tế (ICFP), cô cũng nói câu như thế:
+Trong phần Hỏi & Đáp tại Hội nghị Khoa học Máy tính Quốc tế (ICFP) năm 2020, bà cũng đưa ra nhận định này:
 
-> ✦ "In Taiwan we have this strange idea that broadband internet access is a human right. Everyone has broadband. And if you don't, it's my fault, personally." (Ở Đài Loan chúng tôi có ý tưởng lạ lùng: truy cập internet tốc độ cao là quyền con người. Mỗi người đều phải có. Và nếu cô không có, đó là lỗi cá nhân của tôi.)[^30]
+> ✦ "Ở Đài Loan chúng tôi có một ý tưởng kỳ lạ rằng truy cập internet băng thông rộng là một quyền cơ bản của con người. Mọi người đều nên có băng thông rộng. Nếu bạn không có, đó là lỗi cá nhân của tôi."[^30]
 
-Từ "quyền con người" cô nói rất nặng, nhưng "lỗi cá nhân" cô lại nói rất nhẹ. Cô muốn làm công vụ chính phủ như thế nào, gọi là "nếu thiếu cái gì, tôi sẽ lên bổ".
+Từ "quyền con người" bà sử dụng rất nặng, nhưng từ "trách nhiệm cá nhân" lại dùng rất nhẹ. Thái độ công chức mà bà muốn hướng tới được gọi là "nếu thiếu chỗ nào, tôi sẽ đi lấp vào".
 
-Trong triết lý làm việc của cô có một thứ gọi là humor over rumor. Hệ thống CoFacts phát hiện thông tin giả sai lan truyền, đội của cô trong hai giờ đẩy ra một video hai phút hoặc hai bức ảnh (dưới 200 chữ), dùng hài hước để phản ứng với giả tin. Tóm gọn gọi là 2-2-2 quy tắc[^31].
+Trong triết lý làm việc của mình có một nguyên tắc là _humor over rumor_ (hài hước thay cho tin đồn). Khi hệ thống CoFacts phát hiện thông tin sai lệch lan truyền (viral disinformation), nhóm bà đã tung ra một video hai phút hoặc hai hình ảnh (dưới 200 từ) trong vòng hai giờ để đáp trả tin giả bằng sự hài hước. Đây được gọi là nguyên tắc 2-2-2[^31].
 
-Tháng 2 năm 2020 "Cơn cuồng giấy vệ sinh" là trường hợp được báo chí quốc tế dùng lại nhiều nhất thời đó: thần thoại lưu hành là mặt nạ và giấy vệ sinh dùng cùng một loại bột, dân chúng hoang mang tích trữ; chính phủ trong vài giờ đẩy ra bức ảnh (ảnh Thủ tướng Tô Triết Xương "Chill, só có thể mạnh thôi" vỗ vai), đi kèm lưu trữ chuỗi cung cấp không dùng chung một nguyên liệu, giả tin ngay hôm nó xuất hiện đã hạ nhiệt[^31]. Cô trong TED và nhiều cuộc phỏng vấn quốc tế chọn đây như ví dụ cách trình diễn humor over rumor: giả tin không dùng luật pháp áp chế, mà bị một bức hình hay hơn nó, cùng lúc nhét sự thật vào thế chứng.
+"Vụ hỗn loạn giấy vệ sinh" vào tháng 2 năm 2020 là một ví dụ được truyền thông quốc tế nhắc đến nhiều nhất cùng thời điểm: tin đồn lan truyền rằng khẩu trang và giấy vệ sinh dùng chung một loại bột giấy, khiến người dân hoảng loạn tích trữ; chính phủ đã tung ra một hình ảnh kèm theo (bức ảnh "chúng tôi chỉ có một viên thẻ" của Thủ tướng lúc bấy giờ là Tô Trinh Xương) trong vài giờ, giải thích chuỗi cung ứng với nguồn nguyên liệu khác nhau, và tin đồn đã hạ nhiệt vào ngày đó[^31]. Bà đã trình bày vụ này như một ví dụ về _humor over rumor_ trong các buổi phỏng vấn quốc tế tại TED: tin đồn không bị đàn áp bằng luật pháp mà bị che lấp bởi một bức ảnh vừa hài hước hơn, lại chứa đựng sự thật.
 
-Ngày 27 tháng 8 năm 2022, Bộ Phát triển Kỹ thuật số chính thức khánh thành, cô nhận chức bộ trưởng đầu tiên[^32]. Ngân sách năm đầu 598 nhân viên, ngân sách công vụ 5,7 tỷ Đài tệ cộng dự báo 16 tỷ, cộng 21,7 tỷ[^33].
+Ngày 27 tháng 8 năm 2022, Bộ Phát triển Kỹ thuật số chính thức được thành lập và bà nhậm chức bộ trưởng đầu tiên[^32]. Ngân sách nhân sự năm đầu là 598 người, ngân sách công là 5,7 tỷ Đài tệ cộng thêm 16 tỷ từ quỹ Tiên tiến, tổng cộng là 21,7 tỷ[^33].
 
-Nhiệm kỳ cô thúc đẩy tính kiên cường kỹ thuật số (thuyết phục Anh OneWeb, Luxembourg SES vệ tinh quỹ đạo thấp trung bộ triển khai thiết bị đầu cuối ở Đài Loan), sửa Luật Ký hiệu Điện tử không được lộ 20 năm, trực tuyến nền tảng 111 chính phủ mã ngắn tin chống lừa, yêu cầu 47 bộ A level trong hai năm dẫn vào tiêu chuẩn truyền T-Road thống nhất[^34][^35].
+Trong nhiệm kỳ của mình, bà đã thúc đẩy khả năng phục hồi kỹ thuật số (thuyết phục OneWeb của Anh và SES Luxembourg triển khai thiết bị đầu cuối tại Đài Loan), sửa đổi Luật Chữ ký điện tử đã hai mươi năm không được xem xét lại, đưa vào sử dụng nền tảng tin nhắn ngắn chuyên biệt cho chính phủ để chống lừa đảo, và yêu cầu 47 cơ quan cấp A áp dụng tiêu chuẩn truyền tải thống nhất T-Road trong vòng hai năm[^34][^35].
 
-Nhưng cô cũng nhận rất nhiều phê bình hữu ích. Người dân Đảng Nhân dân Kha Văn Triết hoài nghi "trung bình một người bỏ 30 triệu, cái gì vậy?"; Đảng Dân chủ Tiến bộ lập pháp Lưu Thế Phương nói "Bộ Phát triển Kỹ thuật số vẫn chưa tìm được hướng của riêng mình"; Quốc Dân Đảng lập pháp Ngô Dễ Triết nói "Điều người dân quan tâm nhất là lừa lọc mạng, đều không có tác động thực chất"[^36][^37].
+Nhưng bà cũng nhận nhiều lời chỉ trích mang tính xây dựng. Ông Kha Văn Triết của Đảng Dân gian đã chất vấn: "Trung bình mỗi người chi 30 triệu, đây là công việc gì?"; Nghị sĩ Lưu Thế Phương của Đảng Dân Tiến nói rằng "Bộ Phát triển Kỹ thuật số vẫn chưa tìm ra phương hướng"; và Nghị sĩ Ngô Nghiễm trong Đảng Quốc dân nhận xét: "Việc lừa đảo qua mạng mà người dân quan tâm nhất lại không có hành động thực chất"[^36][^37].
 
-Thậm chí những công chức PO (Liên hệ Tham gia Công cộng) được PDIS bổ nhiệm vào các bộ, tự mình cũng bối rối. Báo chí có phỏng vấn một PO nói từng từ:
+Ngay cả các công chức PO (Cán bộ Liên lạc Tham gia Công chúng) được bổ nhiệm vào các bộ ngành của PDIS cũng cảm thấy bối rối. Một phóng viên đã phỏng vấn một PO và ghi nhận lời này:
 
-> ✦ "Làm PO đã 2 tháng, tôi cảm thấy một công việc thêm, hiện tại tôi vẫn chưa rõ chúng tôi có thể can thiệp bao nhiêu, nhận được bao nhiêu ủy quyền...Tôi không biết tương lai những nền tảng này sẽ là gì, vai trò của chúng tôi sẽ là gì?"[^38]
+> ✦ "Tôi làm PO được hai tháng rồi, tôi cảm thấy nó là thêm một công việc, hiện tại vẫn chưa rõ rốt cuộc chúng ta có thể can thiệp bao nhiêu, có được cấp phép bao nhiêu... Tôi không biết vai trò của chúng ta trong các nền tảng này sau này sẽ là gì?"[^38]
 
-Cô không thể trả lời câu hỏi này. Hay nói cách khác, câu trả lời của cô là: tự quyết định.
+Bà không thể trả lời câu hỏi đó. Hoặc nói đúng hơn, câu trả lời của bà là: tự bạn quyết định đi.
 
-Cách "nêu gương chứ không ra lệnh" có cái giá là chậm, là KPI không đẹp, là hai năm rồi vẫn không có ai nói rõ "Bộ Phát triển Kỹ thuật số thực tế làm cái gì". Cô đặt cược vào thay đổi văn hóa, mà thay đổi văn hóa thì hoặc là thành công, hoặc là không.
+Cái giá phải trả cho việc "minh họa thay vì mệnh lệnh" là sự chậm chạp, là các chỉ số KPI không đẹp, và là hai năm mà vẫn chưa có ai có thể nói rõ ràng "Bộ Phát triển Kỹ thuật số đã làm gì". Bà đặt cược vào sự chuyển đổi văn hóa, và sự chuyển đổi văn hóa hoặc thành công hoặc thất bại.
 
-Nhưng hệ thống SayIt bảng ghi chép công khai của PDIS, cho đến ngày cô từ chức, đã tích lũy hơn 7000 cuộc họp toàn văn ghi chép[^26]. Bất cứ ai nhập từ khóa "Uber" "mặt nạ" "LINE Pay", đều có thể đọc mỗi một câu cô nói với nhà thầu, với công chức, với lập pháp ở lúc ấy. Hệ thống này không tồn tại trước khi cô vào chính phủ, sau khi cô rời đi cũng không ai xóa. Cô không thể dùng một câu thành tích để nói xong, nhưng cô thực sự để lại một bộ ghi chép chính phủ có thể tìm kiếm bảy năm — đây là lần đầu tiên trong lịch sử chính trị Đài Loan.
+Nhưng hệ thống SayIt ghi lại bản ghi âm công khai của PDIS đã tích lũy hơn 7000 cuộc họp cho đến ngày bà rời nhiệm sở[^26]. Bất kỳ ai nhập từ khóa "Uber", "khẩu trang", "LINE Pay" đều có thể đọc được từng lời bà đã nói với các nhà cung cấp, công chức và nghị sĩ vào thời điểm đó. Hệ thống này không tồn tại trước khi bà vào chính phủ, và cũng không ai gỡ bỏ sau khi bà rời đi. Bà không thể tóm gọn bằng một câu thành tích chính trị, nhưng bà thực sự để lại một hồ sơ đối thoại của chính phủ có thể tìm kiếm được trong bảy năm—điều này là lần đầu tiên trong lịch sử chính trị Đài Loan.
 
-## Trên sân khấu Stockholm, cô nói "chúng tôi"
+## Bục trao giải tại Stockholm, cô nói "chúng ta"
 
-Ngày 20 tháng 5 năm 2024, buổi lễ nhậm chức Tổng thống Lại Thanh Đức kết thúc tối ấy, Audrey Tang lên thẳng sân bay Đào Viên. Ba tháng kế tiếp, cô bước vào 20 quốc gia[^39].
+Vào tối ngày 20 tháng 5 năm 2024, sau lễ nhậm chức của Tổng thống Lại Thanh Đức, Đường Phượng đã vội vã đến Sân bay Cao Hùng. Trong ba tháng tiếp theo, bà đã đặt chân đến 20 quốc gia[^39].
 
-Cùng năm tháng 4, cô cùng kinh tế gia Glen Weyl, cộng cộng đồng Plurality phân tán toàn cầu, xuất bản chung quyển _Plurality: The Future of Collaborative Technology and Democracy_. Quyển sách này được phát hành dưới CC0 — cũng là nói, bất cứ ai có thể lấy toàn bộ văn bản quyển sách để làm bất cứ điều gì, không cần ký tên, không cần trả tiền, không cần xin phép[^40].
+Vào tháng 4 cùng năm, bà đã cùng nhà kinh tế học Glen Weyl và Cộng đồng Plurality phân tán toàn cầu xuất bản cuốn 《Plurality: The Future of Collaborative Technology and Democracy》. Cuốn sách này được phát hành dưới giấy phép CC0—nghĩa là bất kỳ ai cũng có thể làm bất cứ điều gì với toàn bộ nội dung của nó mà không cần ghi công, không cần trả phí và không cần xin phép[^40].
 
-Tên sách "Plurality" họ dùng một ký tự Hán biểu thị: ⿻ (tiếng Hoa viết "衆", phát âm gần như zhòng). Ký tự này trong Unicode là "Ideographic Description Character", dùng để mô tả "hai thứ trao lưới với nhau" cấu trúc. Cô giải thích với báo chí quốc tế, ⿻ nhấn mạnh là "trao dệt" (interweaving) — rất nhiều cá thể khác biệt không bị xóa, nhưng tạo ra một vải thêu toàn thể. Khái niệm này và "thiên tài" hoàn toàn ngược: thiên tài là một điểm sáng được vùng xám xung quanh dấn vệ; ⿻ là mỗi sợi tơi được sợi khác quấn quanh, thiếu một không được.
+Trong cuốn sách mang tên "Plurality", họ sử dụng một ký tự Hán tự: ⿻ (phiên âm tiếng Trung là _zhòng_). Ký tự này thuộc loại "ký tự mô tả ý nghĩa" trong Unicode, được dùng để mô tả cấu trúc "hai thứ đan xen vào nhau". Bà giải thích với truyền thông quốc tế rằng ⿻ nhấn mạnh sự "đan xen" (_interweaving_)—sự khác biệt của nhiều cá thể không bị xóa bỏ, mà tạo thành một kết cấu tổng thể. Khái niệm này hoàn toàn trái ngược với "thiên tài": thiên tài là một điểm sáng được bao quanh bởi màu xám; còn ⿻ là mỗi sợi chỉ đều được các sợi khác quấn vào và không thể thiếu.
 
-Trường hợp vTaiwan xử lý luật Uber là trường hợp cô hay lấy ra để giải thích ⿻: lái taxi và những người ủng hộ Uber giằng co sáu năm, cuối cùng trong bảy điều kiện bổ sung Uber được hợp pháp hóa[^22]. Sự đồng ý ấy không có bên nào hoàn toàn "thắng", nhưng cũng không bên nào hoàn toàn "thua". Cô nói đó mới là hình dáng thật của dân chủ — là việc dệt vải tơi mỗi người vào cùng một mảnh vải.
+Vụ việc vTaiwan xử lý quy định của Uber thường được bà dùng để minh họa cho ⿻: Các chủ xe taxi và những người ủng hộ Uber đã bế tắc suốt sáu năm, cuối cùng đã hợp pháp hóa Uber với bảy điều kiện bổ sung[^22]. Sự đồng thuận này không có bên nào hoàn toàn "thắng", nhưng cũng không có bên nào hoàn toàn "thua". Bà nói đó mới là hình thái thực sự của nền dân chủ—là công việc dệt kết cấu của tất cả mọi người vào cùng một tấm vải.
 
-Ngày 7 tháng 10, Bộ Ngoại giao bổ nhiệm cô là Đại sứ toàn quyền không chức năng Trung Hoa Dân Quốc (Cyber Ambassador-at-Large)[^41]. Trang cá nhân cô audreyt.org và cyberambassador.tw, dòng mở đầu không thay đổi:
+Vào ngày 7 tháng 10, Bộ Ngoại giao bổ nhiệm bà làm Đại sứ Không kiêm nhiệm Trung Hoa Dân Quốc (Cyber Ambassador-at-Large)[^41]. Trên trang cá nhân audreyt.org và cyberambassador.tw của bà, câu mở đầu không thay đổi là:
 
-> ✦ "I want to be a good enough ancestor for future generations." (Tôi muốn trở thành một vị tổ tiên xứng đáng cho các thế hệ tương lai.)[^42]
+> ✦ "Tôi muốn trở thành một vị tổ tiên đủ tốt cho các thế hệ tương lai."[^42]
 
-Ngày 2 tháng 12 năm 2025, Stockholm, phòng trao giải Right Livelihood Foundation. Right Livelihood Award được gọi là "Nobel khác" (Alternative Nobel Prize), được sáng lập năm 1980 bởi nhà từ thiện Đức gốc Thụy Điển Jakob von Uexküll, để bổ sung những lĩnh vực Nobel Prize không phủ sóng.
+Ngày 2 tháng 12 năm 2025, tại phòng trao giải của Quỹ Right Livelihood ở Stockholm. Giải thưởng Right Livelihood được gọi là "Giải Nobel thay thế" (Alternative Nobel Prize), được nhà từ thiện người Đức gốc Thụy Điển Jakob von Uexküll sáng lập vào năm 1980 nhằm bổ sung những lĩnh vực mà giải Nobel chưa bao quát.
 
-Audrey Tang là người Đài Loan đầu tiên nhận giải này[^43]. Citation viết như thế:
+Đường Phượng là người Đài Loan đầu tiên nhận giải này[^43]. Trích dẫn ghi như sau:
 
-> ✦ "For advancing the social use of digital technology to empower citizens, renew democracy and heal divides." (Để trang trí việc thúc đẩy ứng dụng xã hội của công nghệ kỹ thuật số, trao quyền cho công dân, làm mới dân chủ, chữa lành bất hòa.)[^43]
+> ✦ "Vì đã thúc đẩy ứng dụng xã hội của công nghệ kỹ thuật số để trao quyền cho công dân, đổi mới nền dân chủ và hàn gắn sự chia rẽ."[^43]
 
-Cô trên bàn diễn phát biểu nhận giải, câu đầu cô nói không phải cô làm gì được. Cô nói của cyberspace (không gian mạng) là cái gì:
+Trong bài phát biểu nhận giải, điều đầu tiên bà nói không phải là những gì mình đã làm. Bà nói về không gian mạng (_cyberspace_):
 
-> ✦ "Cyberspace is a conflict region, and my work turns that conflict into an energy source for co-creation. It is time we work on peace in this zone." (Không gian mạng là vùng xung đột, công việc của tôi là biến xung đột ấy thành nguồn năng lượng để đồng tạo. Đã đến lúc chúng ta làm việc vì hòa bình trong vùng này.)[^43]
+> ✦ "Không gian mạng là một khu vực xung đột, và công việc của tôi biến xung đột đó thành nguồn năng lượng cho sự đồng sáng tạo. Đã đến lúc chúng ta thực hiện hòa bình trong khu vực này."[^43]
 
-Rồi cô tái thuật lại câu cô viết trên bìa quyển Plurality:
+Sau đó bà nhắc lại câu trên trang bìa cuốn Plurality:
 
-> ✦ "The superintelligence we are looking for is already here. It's us." (Siêu trí tuệ chúng ta đang tìm kiếm đã có ở đây. Đó là chúng ta.)[^44]
+> ✦ "Siêu trí tuệ mà chúng ta đang tìm kiếm đã ở đây rồi. Đó chính là chúng ta."[^44]
 
-Cô nhận cái được gọi là "Nobel khác", rồi trên sân khấu đẩy tiêu điểm về "chúng tôi" — cô bé được toàn cầu xem như một thiên tài Đài Loan, lại một lần từ chối vị trí "thiên tài" ấy.
+Bà nhận giải thưởng được gọi là "Giải Nobel thay thế", sau đó chuyển trọng tâm sang "chúng ta"—người mà cả thế giới coi là thiên tài Đài Loan, một lần nữa từ chối vị trí "thiên tài".
 
-Từ năm 1989 cô bé tám tuổi trong phòng học tài năng bị một cú đá, tới năm 2025 người 44 tuổi trên sân khấu Stockholm, giữa là một dòng dài, được dệt bằng một lần lần từ chối. Mỗi lần từ chối trông giống như phản kháng, nhưng xếp lại với nhau, sẽ thấy là biến của hành động khác nhau của một động tác: từ chối bị "cá nhân ưu tú" định nghĩa, đặt lại mình vào vị trí nút, cầu nối, xây dựng không gian.
+Từ đứa trẻ 8 tuổi bị đá trong lớp học năng khiếu năm 1989, đến người phụ nữ 44 tuổi trên bục trao giải ở Stockholm năm 2025, đó là một con đường dài được lát bằng vô số những lời từ chối. Mỗi sự từ chối dường như là một hành động nổi loạn, nhưng nhìn lại tổng thể, chúng đều là các biến tấu của cùng một hành động: từ chối bị định nghĩa bởi vị trí "cá nhân xuất sắc", và tự đặt mình vào vai trò người xây dựng nút giao, cây cầu, không gian.
 
-Cô từ chối thiên tài. Thế giới kiên quyết xem cô như thiên tài. Nhưng cô chưa bao giờ để thế giới thắng tranh luận này — chỉ là thế giới phải mất rất lâu mới nghe được cô thực sự muốn nói cái gì.
+Bà từ chối làm thiên tài. Thế giới vẫn khăng khăng coi bà là thiên tài. Nhưng bà chưa bao giờ để thế giới chiến thắng cuộc tranh luận này—chỉ là thế giới cần rất nhiều thời gian mới hiểu được bà thực sự đang nói gì.
 
-![Ký tên cá nhân Audrey Tang được công khai năm 2021 ở dạng SVG](/article-images/people/audrey-tang-signature.svg)
-_Ký tên cá nhân Audrey Tang được công khai tháng 8 năm 2021, ban đầu để dùng cho tạp chí Nhật Bản Bungeishunju. Tác giả: Audrey Tang chính người, [CC0 phạm vi công cộng](https://commons.wikimedia.org/wiki/File:Audrey_Tang_signature_(51385705516).svg).\_
+![Đường Phượng ký tên công khai năm 2021](/article-images/people/audrey-tang-signature.svg)
+_Chữ ký cá nhân của Đường Phượng được công bố vào tháng 8 năm 2021, ban đầu dùng cho tạp chí Nhật Bản 《Văn Nghệ Xuân Thu》. Tác giả: bản thân Đường Phượng, [Miền công cộng CC0](https://commons.wikimedia.org/wiki/File:Audrey_Tang_signature_(51385705516).svg).\_
 
----
+## Đọc thêm
 
-## Phần mở rộng đọc
+- [Sodagreen: Từ sân khấu nhỏ ở Cống Liêu đến cuộc đấu tranh "Cá Tinh Mịch", một cuộc chiến giành lại chủ quyền âm nhạc kéo dài hai mươi năm](/vi/music/sodagreen) — Cũng là những cá thể khác biệt nổi lên trong thập niên 2000 của Đài Loan, cũng là sự phản kháng lâu dài nhằm "từ chối bị đóng khung bởi danh tính đã định", chỉ khác ở bối cảnh ngành công nghiệp âm nhạc chứ không phải chính phủ
+- [Tiêu Thượng Nông](/vi/people/tony-hsiao-inside-founder) — Đồng sáng lập INSIDE và Ai Liệu Lợi, cũng tự định nghĩa vai trò của mình trong giới công nghệ Đài Loan bằng việc "vượt qua nhiều lĩnh vực"
+- [Ngô Đại Du](/vi/people/tai-yu-wu) — Sự kế thừa các tinh hoa tri thức Đài Loan từ khoa học đến công nghệ; Ngô Đại Du với tư cách là Viện trưởng Viện Khoa học Trung Hoa đã đặt nền móng cho hệ thống nghiên cứu khoa học của Đài Loan
+- [Quỹ Văn hóa Mở](/vi/technology/open-culture-foundation) — Một pháp nhân được thành lập từ người quản lý hậu trường g0v, trở thành cầu nối về nhân quyền số của Đài Loan; nhiều lần tương tác với Bộ Phát triển Số do Đường Phượng lãnh đạo, vừa hợp tác vừa giám sát
+- [Đại dịch và vắc xin ở Đài Loan](/vi/society/taiwan-covid-pandemic-and-vaccines) — Chuỗi điều phối bản đồ khẩu trang đã tồn tại trong bối cảnh đại dịch như thế nào, và mười tám tháng mà Đài Loan nhận được nhờ biên giới và việc mua khẩu trang
 
-- [Sugarfrosted Green: Từ Sân khấu nhỏ Lúc Bao Giờ đến "Dây cá Uống Nước" cuộc chiến, một trận Sáng tác Quyền 20 năm](/vi/music/sodagreen) — Cũng những năm 2000 dâu Đài Loan lạ hình, cũng "từ chối bị khuôn khổ danh tính xác định" cuộc đấu tranh dài, chỉ cảnh tượng ở ngành nhạc chứ không phải chính phủ
-- [Tiêu Thượng Nông](/vi/people/tony-hsiao-inside-founder) — Người sáng lập chung INSIDE và Yêu thích Nấu ăn, cũng dùng "vượt qua nhiều lĩnh vực" định nghĩa vai trò riêng trong vòng công nghệ Đài Loan
-- [Ngô Đại Dự](/people/吳大猷) — Từ khoa học sang công nghệ kế thừa tinh anh tri thức Đài Loan, Ngô Đại Dự với tư cách viện trưởng Viện Hàn lâm Trung Ương đặt nền tảng thể chế nghiên cứu Đài Loan
-- [Nền tảng Thư viện Văn hóa Mở](/vi/technology/open-culture-foundation) — Từ báo cáo g0v lớn thành cầu nối quyền con người kỹ thuật số Đài Loan, nhiều lần đấu với bộ Phát triển Kỹ thuật số Audrey Tang điều hành, vừa hợp tác vừa canh chừng
-- [Dịch bệnh và vắc-xin COVID-19 Đài Loan](/vi/society/taiwan-covid-pandemic-and-vaccines) — Chuỗi phối hợp bản đồ mặt nạ dài trong dịch bệnh như nào, cùng những tháng mười tám Đài Loan mua bằng biên giới và mặt nạ
+## Nguồn hình ảnh
 
----
+Bài viết này sử dụng 3 hình ảnh, tất cả đều được lưu trữ trong `public/article-images/people/` để tránh việc liên kết nóng đến máy chủ nguồn. Ba hình ảnh này có giấy phép CC / CC0 từ Wikimedia Commons:
 
-## Nguồn ảnh
-
-Bài này dùng 3 bức ảnh, toàn bộ cache tại `public/article-images/people/` tránh link nóng máy chủ gốc. Ba bức là Wikimedia Commons CC / CC0 cấp phép:
-
-- **hero**: [Chân dung Audrey Tang (cắt)](<https://commons.wikimedia.org/wiki/File:Portrait_Audrey_Tang_(25915794061,_cropped).jpg>) — Photo: Camille McOuat, 2016-03-09 Paris, CC BY 2.0
-- **scene-mid**: [Re:publica 19 - Ngày 3](<https://commons.wikimedia.org/wiki/File:Re_publica_19_-_Day_3_(32860400897).jpg>) — Photo: Jan Michalko, 2019-05-08 Berlin re:publica hội thảo Xã hội Kỹ thuật số, CC BY-SA 2.0
-- **signature**: [Ký tên Audrey Tang](<https://commons.wikimedia.org/wiki/File:Audrey_Tang_signature_(51385705516).svg>) — Tác giả: Audrey Tang chính người, 2021-08-18, CC0 phạm vi công cộng
+- **hero**: [Chân dung Đường Phượng (cắt nhỏ)](<https://commons.wikimedia.org/wiki/File:Portrait_Audrey_Tang_(25915794061,_cropped).jpg>) — Ảnh: Camille McOuat, 09/03/2016 Paris, CC BY 2.0
+- **scene-mid**: [Re:publica 19 - Ngày 3](<https://commons.wikimedia.org/wiki/File:Re_publica_19_-_Day_3_(32860400897).jpg>) — Ảnh: Jan Michalko, 08/05/2019 Berlin re:publica Hội nghị xã hội số hóa, CC BY-SA 2.0
+- **signature**: [Chữ ký Đường Phượng](<https://commons.wikimedia.org/wiki/File:Audrey_Tang_signature_(51385705516).svg>) — Tác giả: Bản thân Đường Phượng, 18/08/2021, Miền công cộng CC0
 
 ## Tài liệu tham khảo
 
-[^1]: [TechNews: Một tay tạo bản đồ mặt nạ, tiết lộ đội ngũ phía sau "cứu nước bàn phím" (2020-02-23)](https://technews.tw/2020/02/23/expose-the-team-behind-mask-map/) — Chi tiết Ngô Triển Úy Howard triển khai rạng sáng sau khi hóa đơn API 20.000 đô la, dòng thời gian Audrey Tang phối hợp Google và g0v
+[^1]: [TechNews: Xây dựng bản đồ khẩu trang và tiết lộ đội ngũ đằng sau 'cứu quốc bằng bàn phím' (23/02/2020)](https://technews.tw/2020/02/23/expose-the-team-behind-mask-map/) — Trình bày chi tiết dòng thời gian của Ngô Triển Vĩ Howard với hóa đơn API 20.000 USD sau khi triển khai vào rạng sáng, và sự điều phối của Đường Phượng với Google và g0v
 
-[^2]: [Giang Minh Tông Medium: Bản đồ mua mặt nạ từng hiệu thuốc trực tuyến (2020-02)](https://medium.com/%E6%B1%9F%E6%98%8E%E5%AE%97-kiang/%E8%97%A5%E5%B1%80%E5%8F%A3%E7%BD%A9%E6%8E%A1%E8%B3%BC%E5%9C%B0%E5%9C%96%E4%B8%8A%E7%B7%9A-54e11bd63e84) — Kỹ sư chính người ghi lại, nói từng từ "dữ liệu chính thức dự kiến sáng ngày 6 tháng 2 mới trực tuyến" + Audrey Tang phối hợp cộng đồng tham gia phát triển
+[^2]: [Medium của Giang Minh Tông: Bản đồ mua khẩu trang tại hiệu thuốc được ra mắt (Tháng 02/2020)](https://medium.com/%E6%B1%9F%E6%98%8E%E5%AE%97-kiang/%E8%97%A5%E5%B1%80%E5%8F%A3%E7%BD%A9%E6%8E%A1%E8%B3%BC%E5%9C%B0%E5%9C%96%E4%B8%8A%E7%B7%9A-54e11bd63e84) — Bản thân kỹ sư mô tả, nguyên văn 'Dữ liệu chính thức dự kiến sẽ lên vào lúc 8 giờ sáng ngày 6/2' + Đường Phượng điều phối sự tham gia của cộng đồng
 
-[^3]: [Bộ Y tế Phúc lợi Công cộng COVID-19 Phòng chống Quyết định Chính sách Mạng](https://covid19.mohw.gov.tw/ch/cp-4822-53563-205.html) — Ghi chép chính thức chính phủ nói từng từ: "Vệ sĩ chính trị Audrey Tang của Hội đồng Hành chính mời cộng đồng dân sự qua dữ liệu mở Cục Bảo hiểm Y tế sản xuất nền tảng ứng dụng 'Tra cứu mặt nạ Phòng chống'"
+[^3]: [Trang quyết định phòng chống COVID-19 của Bộ Y tế](https://covid19.mohw.gov.tw/ch/cp-4822-53563-205.html) — Mô tả chính thức của chính phủ, nguyên văn: 'Ủy viên phụ trách Đường Phượng của Viện Hành pháp mời các cộng đồng dân sự thông qua dữ liệu open data của Cơ quan Bảo hiểm Y tế để tạo ra nền tảng tra cứu khẩu trang phòng dịch'
 
-[^4]: [TechNews: Một tay tạo bản đồ mặt nạ (tương tự [^1])](https://technews.tw/2020/02/23/expose-the-team-behind-mask-map/) — Chi tiết xem liên kết gốc trong bổ sung tài liệu văn bản
+[^4]: [TechNews: Xây dựng bản đồ khẩu trang (cùng [^1])](https://technews.tw/2020/02/23/expose-the-team-behind-mask-map/) — Xem thêm tài liệu trong liên kết gốc
 
-[^5]: [Wikipedia tiếng Hoa: Audrey Tang mục](https://zh.wikipedia.org/zh-tw/%E5%94%90%E9%B3%B3) — Thông tin tiểu sử cơ bản sinh ra / nền gia đình / tự học BASIC giấy bàn phím thời thơ ơ
+[^5]: [Bài viết về Đường Phượng trên Wikipedia tiếng Trung](https://zh.wikipedia.org/zh-tw/%E5%94%90%E9%B3%B3) — Dữ liệu tiểu sử cơ bản về xuất thân / bối cảnh gia đình / tự học thời thơ ấu như bàn phím giấy BASIC
 
-[^6]: [Today Focus: Bị mô viện bạn đánh ngất...Thiên tài Audrey Tang thời thơ ơ muốn tự tử lần vài (2020-11)](https://www.businesstoday.com.tw/article/category/183035/post/202011090020/) — Cảnh lớp 2 bị vây đánh + từng từ bạn "tại sao không chết" + mẹ tắm thấy vết bầm tím quyết định nghỉ học
+[^6]: [Tạp chí Kim Chuẩn: Bạn cùng lớp bị ghen ghét đánh ngất... Đường Phượng thiên tài từng có ý định tự sát nhiều lần khi còn nhỏ (11/2020)](https://www.businesstoday.com.tw/article/category/183035/post/202011090020/) — Cảnh đánh nhau trong lớp tiểu học + lời trích dẫn của bạn học 'Tại sao cô không chết đi' nguyên văn + quyết định nghỉ học sau khi mẹ phát hiện vết bầm khi tắm
 
-[^7]: [Thời báo Trung Hoa: Audrey Tang vệ sĩ chính trị trẻ nhất, Lý Nhã Khánh hiện thực cải cách giáo dục tự học mẫu điển (2016-08-25)](https://www.chinatimes.com/realtimenews/20160825005980-260405) — Lý Nhã Khánh 1992 quay về Đài Loan, 1994 thành lập trường tiểu học thử nghiệm Ô Lai làm hiệu trưởng đầu tiên
+[^7]: [Thời báo Trung Thị: Lý Nhã Khanh, phụ tá trẻ nhất của Đường Phượng, thực hành mô hình tự học cải cách giáo dục (25/08/2016)](https://www.chinatimes.com/realtimenews/20160825005980-260405) — Lý Nhã Khanh trở về Đài Loan năm 1992, sáng lập Trường Tiểu học Thí nghiệm Tự thân U Lai và làm hiệu trưởng đầu tiên vào năm 1994
 
-[^8]: [Thái Âm: Chạy thoát "bắt nạt đó" tự học! Audrey Tang 14 tuổi "phát hiện quan trọng"](https://www.taisounds.com/specialtopic/content/46/23226) — 14 tuổi tại Ô Lai tập trung sau từ chối bảo đảm Kiến Trung
+[^8]: [Thai Báo: Thoát khỏi 'bắt nạt ở trường' để đi theo con đường tự học! Phát hiện 'quan trọng' của Đường Phượng khi 14 tuổi](https://www.taisounds.com/specialtopic/content/46/23226) — Sau khi nhốt mình ở U Lai năm 14 tuổi, cô từ chối được tuyển thẳng vào trường Jianzhong
 
-[^9]: Nhiều phương tiện truyền thông trích dẫn, người chính nói lại trong các cuộc phỏng vấn khác nhau: "Tôi không có cảm giác rằng thế giới hiện đại còn khái niệm thiên tài" "Ở thời đại internet, thực tế mỗi người đều IQ 180"
+[^9]: Nhiều phương tiện truyền thông trích dẫn, bản thân đã kể lại trong các cuộc phỏng vấn khác nhau: 'Tôi không nghĩ thế giới hiện đại còn có khái niệm thiên tài', 'Trong thời đại Internet, thực ra ai cũng là IQ 180'
 
-[^10]: [Wikipedia: Audrey Tang](https://en.wikipedia.org/wiki/Audrey_Tang) — "Tang started programming at the age of eight and began learning Perl at the age of 12"
+[^10]: [Wikipedia: Audrey Tang](https://en.wikipedia.org/wiki/Audrey_Tang) — "Tang bắt đầu lập trình ở tuổi tám và bắt đầu học Perl ở tuổi 12"
 
-[^11]: Wikipedia tiếng Hoa Audrey Tang mục (tương tự [^5]) — 2000 năm 19 tuổi đã làm kỹ sư Thung lũng Silicon, 2014 năm 33 tuổi bàn giao Socialtext + Apple công việc công khai "nghỉ hưu"
+[^11]: Bài viết về Đường Phượng trên Wikipedia tiếng Trung (cùng [^5]) — Năm 19 tuổi năm 2000 đã làm kỹ sư tại Thung lũng Silicon, và tuyên bố nghỉ hưu ở tuổi 33 vào năm 2014 sau khi chuyển giao Socialtext + Apple
 
-[^12]: [Wikipedia: Pugs (compiler)](https://en.wikipedia.org/wiki/Pugs_(compiler) — ) — Mục Wikipedia
+[^12]: [Wikipedia: Pugs (trình biên dịch)](https://en.wikipedia.org/wiki/Pugs_(compiler) — Bài viết trên Wikipedia
 
-[^13]: [Wikipedia: Audrey Tang (Anh)](https://en.wikipedia.org/wiki/Audrey_Tang) — "Tang initiated over 100 Perl projects between June 2001 and July 2006, including the popular PAR archiver"
+[^13]: [Wikipedia: Audrey Tang (tiếng Anh)](https://en.wikipedia.org/wiki/Audrey_Tang) — "Tang đã khởi xướng hơn 100 dự án Perl từ tháng 6 năm 2001 đến tháng 7 năm 2006, bao gồm trình lưu trữ PAR nổi tiếng"
 
-[^14]: Wikipedia tiếng Hoa Audrey Tang mục (tương tự [^5]) + nhiều phương tiện truyền thông nói từng từ đồng nhất trích dẫn: "Dù bây giờ, quá khứ hay tương lai, tôi rất vui được mọi người gọi tôi bằng đại từ nữ". Nguồn gốc là blog 2005 blog.elixus.org
+[^14]: Bài viết về Đường Phượng trên Wikipedia tiếng Trung (cùng [^5]) + nhiều phương tiện truyền thông trích dẫn nhất quán: 'Bất kể là hiện tại, quá khứ hay tương lai, tôi rất sẵn lòng để mọi người gọi tôi bằng danh từ giống cái'. Nguồn gốc là blog.elixus.org năm 2005
 
-[^15]: [Today Focus: Phỏng vấn Cha Audrey Tang (2016-09)](https://www.businesstoday.com.tw/article/category/80407/post/201609010032/) — Cha Đường Quang Hóa nói từng từ "không có lý do không chấp nhận"
+[^15]: [Tạp chí Kim Chuẩn: Phỏng vấn cha của Đường Phượng (Tháng 09/2016)](https://www.businesstoday.com.tw/article/category/80407/post/201609010032/) — Cha Đường Quang Hoa nguyên văn 'Không có lý do gì để không chấp nhận'
 
-[^16]: [Phụ nữ Đài Loan NMTH: Viên chức tháng 10 chuyển giới Đài Loan đầu tiên, vệ sĩ chính trị kỹ thuật số đầu tiên ── Audrey Tang](https://women.nmth.gov.tw/?p=20105) — Audrey Tang nói từng từ "tôi là 'hậu danh mục'" + nền 2020 bảng dữ liệu nhân sự tháng 10 ô giới tính điền "không"
+[^16]: [Nữ giới Đài Loan NMTH: Đường Phượng, thành viên nội các xuyên giới tính đầu tiên và cố vấn chính trị kỹ thuật số đầu tiên](https://women.nmth.gov.tw/?p=20105) — Đường Phượng verbatim nói rằng "Tôi là 'hậu loại'" + mục giới tính trong hồ sơ nhân sự nội các năm 2020 được điền là "Không"
 
-[^17]: [Marie Claire Đài Loan: Vượt qua bạo lực thời thơ ơ, Audrey Tang nói: "Hãy tốt tương xứng với nhầm lẫn"](https://www.marieclaire.com.tw/entertainment/story/52923/audrey-tang) — Nói từng từ "mọi vạn vật đều có khoảng cách, khoảng cách chính là cửa để ánh sáng vào"
+[^17]: [Marie Claire Đài Loan: Đường Phượng kể về việc đối phó với sự bối rối sau khi bị bắt nạt thời thơ ấu](https://www.marieclaire.com.tw/entertainment/story/52923/audrey-tang) — verbatim "Mọi thứ đều có thiếu sót, và thiếu sót chính là lối vào của ánh sáng"
 
-[^18]: [Wikipedia tiếng Hoa Audrey Tang mục (tương tự [^5]) +](https://www.britannica.com/biography/Audrey-Tang) — Chi tiết xem liên kết gốc trong bổ sung tài liệu văn bản
+[^18]: [Bài viết Wikipedia tiếng Trung về Đường Phượng (cùng [^5])+](https://www.britannica.com/biography/Audrey-Tang) — Xem thêm tài liệu trong liên kết gốc
 
-[^19]: [Tạp chí Quang Hoa Đài Loan: Sức mạnh hacker công dân g0v Không Giờ Chính Phủ](https://www.taiwan-panorama.com/Articles/Details?Guid=61281c3d-f79c-4db7-93d9-d18b29f90ba0) — Điểm bắt đầu 2012/10 + trực quan hoá ngân sách chính phủ trung ương + tên người sáng lập chung
+[^19]: [Tạp chí Quang Hoa Đài Loan: Công dân hacker g0v, chính phủ không thời gian](https://www.taiwan-panorama.com/Articles/Details?Guid=61281c3d-f79c-4db7-93d9-d18b29f90ba0) — Khởi điểm từ 2012/10 + trực quan hóa ngân sách tổng thể của chính phủ trung ương + danh sách đồng sáng lập
 
-[^20]: [Công khai PNN Truyền hình: Báo chí Phong trào Hoa hướng dương (2014)](https://news.pts.org.tw/article/327548) — Nói từng từ "tất cả đường dây, máy ảnh, thiết bị phát trực tiếp, đều do một người, hacker công dân 'Audrey Tang' một mình lắp đặt" + bình luận Audrey Tang về hội trường "trình diễn và nghi lễ thuần túy" + tự túc tiền làm bảng ghi chép từng từ
+[^20]: [PNN Đài Truyền Hình Công Cộng: Báo cáo về phong trào Hoa Tai (2014)](https://news.pts.org.tw/article/327548) — verbatim "Tất cả các đường dây, máy quay, tất cả thiết bị phát trực tiếp trên mạng trong sự kiện đều do hacker công dân 'Đường Phượng' tự dựng lên" + bình luận của Đường Phượng về "buổi trình diễn và nghi thức" tại hội trường + tự trả tiền để ghi lại từng từ
 
-[^21]: [Báo chí Người viết: Tạo không gian đối thoại ── cuộc phiêu lưu kỳ diệu Audrey Tang](https://www.twreporter.org/a/g0v-audrey-tang) — Nói từng từ 2014 tháng 4 Thái Vũ Linh bước vào hackathon g0v + nguồn gốc vTaiwan
+[^21]: [Phóng viên: Tạo ra không gian đối thoại - Hành trình kỳ ảo của Đường Phượng](https://www.twreporter.org/a/g0v-audrey-tang) — verbatim sự tham gia của Thái Ngọc Linh vào hackathon g0v năm 4/2014 + nguồn gốc của vTaiwan
 
-[^22]: [Democracy Technologies: Consensus Building in Taiwan](https://democracy-technologies.org/participation/consensus-building-in-taiwan/) — vTaiwan 2015-2018 xử lý 26 vấn đề / 80% gây ra hành động chính phủ thực chất / Uber 7 điều kiện hợp pháp hóa
+[^22]: [Democracy Technologies: Xây dựng đồng thuận ở Đài Loan](https://democracy-technologies.org/participation/consensus-building-in-taiwan/) — vTaiwan xử lý 26 vấn đề từ 2015-2018 / 80% dẫn đến hành động thực chất của chính phủ / hợp pháp hóa 7 điều kiện của Uber
 
-[^23]: [Tự do Thời báo: Phá vỡ truyền thống Audrey Tang mỗi tuần ba, năm "làm việc từ xa" (2016)](https://news.ltn.com.tw/news/politics/breakingnews/1859132) — 8/9 lần đầu gặp Lâm Toàn / 8/15 đồng ý / 10/1 nhận chức / ba điều kiện vào tháng 10
+[^23]: [Liberty Times: Phá vỡ truyền thống, Đường Phượng 'làm việc từ xa' vào thứ Tư và thứ Sáu hàng tuần (2016)](https://news.ltn.com.tw/news/politics/breakingnews/1859132) — Lần gặp Lâm Toàn đầu tiên vào 8/9 / Đồng ý vào 8/15 / Nhậm chức vào 1/10 / Ba điều kiện để gia nhập nội các
 
-[^24]: [Tự do Thời báo: Audrey Tang làm việc từ xa, Lâm Toàn: Điều này là khả thi (2016)](https://news.ltn.com.tw/news/politics/breakingnews/1859246) — Lâm Toàn nói từng từ "Hiện tại Hội đồng Hành chính không có quy định làm việc từ xa...điều này là khả thi"
+[^24]: [Liberty Times: Đường Phượng làm việc từ xa, Lâm Toàn: Điều này là khả thi (2016)](https://news.ltn.com.tw/news/politics/breakingnews/1859246) — Lâm Toàn verbatim nói rằng "Hiện tại chính phủ không có quy định về làm việc từ xa... điều này là khả thi"
 
-[^25]: Wikipedia tiếng Hoa Audrey Tang mục (tương tự [^5]) — 35 tuổi vệ sĩ chính trị trẻ nhất lịch sử Đài Loan + bộ trưởng cấp chính trị công khai danh tính chuyển giới đầu tiên toàn cầu
+[^25]: Bài viết Wikipedia tiếng Trung về Đường Phượng (cùng [^5]) — Thứ trưởng trẻ nhất trong lịch sử Đài Loan với 35 tuổi + nhân vật chính trị cấp bộ xuyên giới tính công khai đầu tiên trên toàn cầu
 
-[^26]: [pdis.nat.gov.tw Ghi chép công việc và hệ thống SayIt Bảng ghi chép công khai](https://sayit.pdis.nat.gov.tw/) — Cấu trúc nhóm PDIS 20 người + một nửa dân sự + một nửa quân tình nguyện bộ + 30 thực tập sinh
+[^26]: [pdis.nat.gov.tw Hồ sơ công việc và hệ thống bản ghi âm công khai SayIt](https://sayit.pdis.nat.gov.tw/) — Cấu trúc nhóm PDIS gồm 20 người + một nửa là dân sự + một nửa là quân tình nguyện của bộ ngành + 30 thực tập sinh
 
-[^27]: [Taipei Times: Audrey Tang được đặt tên trong "Top 100 Global Thinkers"(2019-01-25)](https://www.taipeitimes.com/News/front/archives/2019/01/25/2003708586) — Foreign Policy 100 nhà tư tưởng toàn cầu được chọn (loại bầu chọn của độc giả)
+[^27]: [Taipei Times: Audrey Tang được vinh danh trong "Top 100 Nhà Tư Tưởng Toàn Cầu" (25/01/2019)](https://www.taipeitimes.com/News/front/archives/2019/01/25/2003708586) — Được chọn vào Top 100 nhà tư tưởng toàn cầu của Foreign Policy (dựa trên phiếu bầu độc giả)
 
-[^28]: [Rest of World: Audrey Tang trên tầm nhìn "chủ nghĩa vô chính phủ bảo thủ" của cô cho tương lai Đài Loan (2020)](https://restofworld.org/2020/audrey-tang-the-conservative-anarchist/) — Nói từng từ "Any top-down, coercion, whether it's from the capitalists or from the state, is equally bad"
+[^28]: [Rest of World: Tầm nhìn "anarcho-bảo thủ" của Audrey Tang về tương lai Đài Loan (2020)](https://restofworld.org/2020/audrey-tang-the-conservative-anarchist/) — verbatim "Bất kỳ sự cưỡng ép nào từ trên xuống, dù là từ giới tư bản hay nhà nước, đều xấu như nhau"
 
-[^29]: [Conversations with Tyler Ep.106: Audrey Tang](https://conversationswithtyler.com/episodes/audrey-tang/) — Nói từng từ "I'm working with the government; I'm not working for the government"
+[^29]: [Conversations with Tyler Tập 106: Audrey Tang](https://conversationswithtyler.com/episodes/audrey-tang/) — verbatim "Tôi đang làm việc với chính phủ; tôi không làm việc cho chính phủ"
 
-[^30]: [Lindsey on X: Trích dẫn tức thì ICFP 2020 Q&A](https://x.com/lindsey/status/1297886318114963456) — Nói từng từ "In Taiwan we have this strange idea that broadband internet access is a human right"
+[^30]: [Lindsey trên X: Trích dẫn trực tiếp ICFP 2020 Q&A](https://x.com/lindsey/status/1297886318114963456) — verbatim "Ở Đài Loan chúng ta có một ý tưởng kỳ lạ rằng truy cập internet băng thông rộng là quyền con người"
 
-[^31]: [SwissInfo: Tự do biểu đạt: hài hước hơn lời đồn — bài học từ Đài Loan trong dân chủ kỹ thuật số](https://www.swissinfo.ch/eng/politics/freedom-of-expression-humour-over-rumour-lessons-from-taiwan-in-digital-democracy/46592080) — Chi tiết xem liên kết gốc trong bổ sung tài liệu văn bản
+[^31]: [SwissInfo: Tự do ngôn luận: Hài hước hơn tin đồn](https://www.swissinfo.ch/eng/politics/freedom-of-expression-humour-over-rumour-lessons-from-taiwan-in-digital-democracy/46592080) — Xem thêm tài liệu trong liên kết gốc
 
-[^32]: [Trang chủ Bộ Phát triển Kỹ thuật số: Bộ trưởng từng nhiệm kỳ](https://moda.gov.tw/aboutus/ministers-since-2022/1527) — Nói từng từ "ngày 27 tháng 8 năm 2022 đến ngày 20 tháng 5 năm 2024" nhiệm kỳ Audrey Tang
+[^32]: [Trang web chính thức của Bộ Phát triển Kỹ thuật số: Các bộ trưởng nhiệm kỳ trước](https://moda.gov.tw/aboutus/ministers-since-2022/1527) — Nhiệm kỳ của Đường Phượng từ ngày 27 tháng 8 năm 2022 đến ngày 20 tháng 5 năm 2024 (nguyên văn)
 
-[^33]: [Tự do Thời báo: Audrey Tang sẽ nắm Bộ Phát triển Kỹ thuật số, ngân sách nhân viên 598 người](https://news.ltn.com.tw/news/politics/breakingnews/4021987) — Báo chí Tự do báo cáo
+[^33]: [Liberty Times: Đường Phượng sẽ phụ trách Bộ Phát triển Kỹ thuật số với 598 nhân viên biên chế](https://news.ltn.com.tw/news/politics/breakingnews/4021987) — Báo cáo của Liberty Times
 
-[^34]: [Tự do Tài chính: Từ thiên tài bộ trưởng CNTT đến giảng viên tự do Tổng hợp lại thành tích nhiệm kỳ Audrey Tang 3 lớn và tranh cãi](https://ec.ltn.com.tw/article/breakingnews/4677986) — Tính kiên cường kỹ thuật số / OneWeb / SES vệ tinh / sửa Luật Ký hiệu Điện tử / 111 nền tảng mã ngắn tin
+[^34]: [Liberty Finance: Từ vị trí Bộ trưởng IT thiên tài đến giảng viên tự do - Tổng kết 3 thành tích và tranh cãi trong nhiệm kỳ Đường Phượng](https://ec.ltn.com.tw/article/breakingnews/4677986) — Khả năng phục hồi kỹ thuật số / OneWeb / Vệ tinh SES / Sửa đổi Luật Chữ ký điện tử / Nền tảng tin nhắn SMS mã ngắn 111
 
-[^35]: [INSIDE: Bộ Phát triển Kỹ thuật số khánh thành một năm! Tính từng thành tích hai lớn, ba tranh cãi Audrey Tang](https://www.inside.com.tw/article/32615-Taiwan-moda-anniversary) — 47 bộ A level nước ngoài T-Road tiêu chuẩn truyền thống thống nhất + từng người nói "so với những đơn vị trước, Audrey Tang vẫn sẽ phân quyền"
+[^35]: [INSIDE: Một năm thành lập Bộ Phát triển Kỹ thuật số! Chi tiết hai thành tích và ba tranh cãi của Đường Phượng](https://www.inside.com.tw/article/32615-Taiwan-moda-anniversary) — Tiêu chuẩn truyền tải thống nhất T-Road của 47 cơ quan cấp A + Đồng nghiệp nói nguyên văn "So với các đơn vị trước đây, Đường Phượng sẵn lòng ủy quyền nhiều hơn"
 
-[^36]: [Viễn kiến Tạp chí: Audrey Tang dẫn dắt "Bộ Phát triển Kỹ thuật số" chuẩn bị gần 1 năm, bên ngoài phê bình không thành tích](https://www.gvm.com.tw/article/105627) — Lưu Thế Phương / Ngô Dễ Triết nói từng từ phê bình
+[^36]: [Tạp chí Vision: Sau gần 1 năm 'Bộ Phát triển Kỹ thuật số' do Đường Phượng dẫn dắt được thành lập, giới bên ngoài chê không có thành tích](https://www.gvm.com.tw/article/105627) — Lời chỉ trích của Lưu Thế Phương / Ngô Nghiễm
 
-[^37]: [ETtoday: Bộ Phát triển Kỹ thuật số ngân sách soạn 211 tỷ, Kha Văn Triết kinh ngạc: Trung bình mỗi người bỏ 30 triệu "Công việc cái gì?" (2022-08-30)](https://www.ettoday.net/news/20220830/2327863.htm) — Kha Văn Triết nói từng từ hoài nghi
+[^37]: [ETtoday: Ngân sách 211 tỷ Đài tệ của Bộ Phát triển Kỹ thuật số, Kha Văn Triết ngạc nhiên: Trung bình mỗi người tiêu 30 triệu 'Đây là công việc gì?' (2022-08-30)](https://www.ettoday.net/news/20220830/2327863.htm) — Câu hỏi chất vấn của Kha Văn Triết
 
-[^38]: [Báo chí Người viết: Chính phủ mở, Audrey Tang làm sao vượt qua công chức này?](https://www.twreporter.org/a/open-government-audrey-political-commissar-challenges) — PO nói từng từ "làm PO đã 2 tháng...không rõ chúng tôi có thể can thiệp bao nhiêu"
+[^38]: [Phóng viên: Chính phủ mở, Đường Phượng đã vượt qua rào cản công chức như thế nào?](https://www.twreporter.org/a/open-government-audrey-political-commissar-challenges) — PO nói nguyên văn "Đã làm PO được 2 tháng... không rõ chúng ta có thể can thiệp bao nhiêu"
 
-[^39]: [Tự do Tài chính: Từ thiên tài bộ trưởng CNTT đến giảng viên tự do (tương tự [^34])](https://ec.ltn.com.tw/article/breakingnews/4677986) — Báo chí Tự do báo cáo
+[^39]: [Liberty Finance: Từ vị trí Bộ trưởng IT thiên tài đến giảng viên tự do (cùng [^34])](https://ec.ltn.com.tw/article/breakingnews/4677986) — Báo cáo của Liberty Times
 
-[^40]: [Plurality Institute: Phát hành sách Plurality](https://www.plurality.institute/blog-posts/book-launch-plurality-the-future-of-collaborative-technology-and-democracy-by-e-glen-weyl-audrey-tang-and-the-plurality-community) — Cùng Glen Weyl + Plurality Community đồng viết / ngày 16 tháng 4 năm 2024 xuất bản / CC0 phát hành
+[^40]: [Plurality Institute: Ra mắt sách Plurality](https://www.plurality.institute/blog-posts/book-launch-plurality-the-future-of-collaborative-technology-and-democracy-by-e-glen-weyl-audrey-tang-and-the-plurality-community) — Đồng tác giả với Glen Weyl + Cộng đồng Plurality / Xuất bản ngày 16 tháng 4 năm 2024 / Phát hành CC0
 
-[^41]: [Wikipedia tiếng Hoa Audrey Tang mục (tương tự [^5]) +](https://cyberambassador.tw/) — Chi tiết xem liên kết gốc trong bổ sung tài liệu văn bản
+[^41]: [Bài viết Wikipedia tiếng Trung về Đường Phượng (cùng [^5])+](https://cyberambassador.tw/) — Xem thêm tài liệu trong liên kết gốc
 
-[^42]: [audreyt.org](https://audreyt.org/) — Chi tiết xem liên kết gốc trong bổ sung tài liệu văn bản
+[^42]: [audreyt.org](https://audreyt.org/) — Xem thêm tài liệu trong liên kết gốc
 
-[^43]: [Right Livelihood: Audrey Tang Đài Loan được vinh danh với giải Right Livelihood Award (2025)](https://rightlivelihood.org/news/taiwans-audrey-tang-honoured-with-right-livelihood-award-for-advancing-digital-democracy-and-social-trust/) — Citation nói từng từ + Tang phát biểu nhận giải nói từng từ "Cyberspace is a conflict region" đoạn + [Focus Taiwan Thông tấn Trung ương phiên bản Anh báo cáo](https://focustaiwan.tw/society/202512030022)
+[^43]: [Right Livelihood: Audrey Tang được trao Giải thưởng Sinh kế Đúng đắn (2025)](https://rightlivelihood.org/news/taiwans-audrey-tang-honoured-with-right-livelihood-award-for-advancing-digital-democracy-and-social-trust/) — Trích dẫn nguyên văn + Đoạn Đường Phượng phát biểu nguyên văn "Không gian mạng là một khu vực xung đột" + [Báo cáo của Focus Taiwan thông qua CCTV tiếng Anh](https://focustaiwan.tw/society/202512030022)
 
-[^44]: cyberambassador.tw nói từng từ + Plurality sách bìa triết lý tái thuật — "The superintelligence we are looking for is already here. It's us"
+[^44]: cyberambassador.tw nguyên văn + Tái diễn giải triết học cuốn Plurality — "Trí tuệ siêu việt mà chúng ta tìm kiếm đã ở đây. Đó là chúng ta"

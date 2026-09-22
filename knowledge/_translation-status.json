@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-22T14:37:03+08:00",
-    "zhCommitHead": "ed96e9f97",
+    "lastUpdated": "2026-09-22T15:04:18+08:00",
+    "zhCommitHead": "f618adf73",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -60,18 +60,18 @@
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 1040,
+        "fresh": 1041,
         "stale": 43,
-        "metadata_stale": 24,
+        "metadata_stale": 23,
         "missing": 17,
         "orphan": 0
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 967,
+        "fresh": 968,
         "stale": 58,
         "metadata_stale": 9,
-        "missing": 90,
+        "missing": 89,
         "orphan": 0
       },
       "pt": {
@@ -22798,7 +22798,19 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Technology/tasa-taiwan-space-agency.md",
+          "translatedFrom": "Technology/國家太空中心.md",
+          "sourceCommitSha": "82c0407f6",
+          "sourceContentHash": "sha256:e4e6dbc8acdd8970",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-22T06:49:06.796777+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 72,
+          "bytes": 86789,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Technology/tasa-taiwan-space-agency.md",
@@ -45926,11 +45938,11 @@
           "sourceContentHash": "sha256:cffdc6c150dee65c",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-22T05:47:28.288596+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f618adf7",
+          "translationLastModified": "2026-09-22T14:37:03+08:00",
           "inferred": false,
           "footnoteDefs": 31,
-          "bytes": 43974,
+          "bytes": 43976,
           "status": "fresh",
           "reason": "same-commit"
         },
@@ -96841,19 +96853,17 @@
         "vi": {
           "path": "vi/People/audrey-tang.md",
           "translatedFrom": "People/唐鳳.md",
-          "sourceCommitSha": "29ff6f481",
-          "sourceContentHash": "sha256:97c9b6fe6c788bcc",
-          "sourceBodyHash": "sha256:223451ab2ee89544",
-          "translatedAt": "2026-08-09T08:07:25+08:00",
+          "sourceCommitSha": "e75b621d2",
+          "sourceContentHash": "sha256:1917aa69dfd8ab97",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-22T06:37:45.226921+00:00",
           "translationLastCommit": "e75b621d",
           "translationLastModified": "2026-09-10T00:44:33+08:00",
           "inferred": false,
           "footnoteDefs": 44,
-          "bytes": 43386,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "bytes": 58661,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -131410,8 +131420,8 @@
           "sourceContentHash": "sha256:db74afff74180364",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-22T04:52:23.898597+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f618adf7",
+          "translationLastModified": "2026-09-22T14:37:03+08:00",
           "inferred": false,
           "footnoteDefs": 62,
           "bytes": 74428,
