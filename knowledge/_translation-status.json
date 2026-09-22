@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-23T05:16:56+08:00",
-    "zhCommitHead": "a6072d711",
+    "lastUpdated": "2026-09-23T05:41:53+08:00",
+    "zhCommitHead": "85dcc1e85",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,8 +28,8 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 930,
-        "stale": 101,
+        "fresh": 932,
+        "stale": 99,
         "metadata_stale": 27,
         "missing": 66,
         "orphan": 0
@@ -60,40 +60,40 @@
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 1067,
+        "fresh": 1068,
         "stale": 25,
-        "metadata_stale": 15,
+        "metadata_stale": 14,
         "missing": 17,
         "orphan": 0
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 988,
-        "stale": 53,
+        "fresh": 990,
+        "stale": 51,
         "metadata_stale": 8,
         "missing": 75,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1048,
+        "fresh": 1049,
         "stale": 34,
         "metadata_stale": 7,
-        "missing": 35,
+        "missing": 34,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 981,
-        "stale": 46,
+        "fresh": 982,
+        "stale": 45,
         "metadata_stale": 7,
         "missing": 90,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 1006,
-        "stale": 47,
+        "fresh": 1008,
+        "stale": 45,
         "metadata_stale": 11,
         "missing": 60,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 871,
+        "fresh": 873,
         "stale": 10,
         "metadata_stale": 5,
-        "missing": 238,
+        "missing": 236,
         "orphan": 0
       }
     },
@@ -4431,7 +4431,20 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Music/taiwan-campus-folk-song-movement.md",
+          "translatedFrom": "Music/台灣民歌運動.md",
+          "sourceCommitSha": "7415dcaae",
+          "sourceContentHash": "sha256:e201829436b891a1",
+          "sourceBodyHash": "sha256:61e39c0d29fd318e",
+          "translatedAt": "2026-09-23T04:15:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "bytes": 17477,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Music/taiwan-campus-folk-song-movement.md",
@@ -34785,7 +34798,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Technology/softstar-twin-classics.md",
+          "translatedFrom": "Technology/大宇雙劍.md",
+          "sourceCommitSha": "31a05c44b",
+          "sourceContentHash": "sha256:99d1ed1be7085b4c",
+          "sourceBodyHash": "sha256:6aa8eb64a1458368",
+          "translatedAt": "2026-09-23T04:15:47+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 28,
+          "bytes": 37152,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -37361,8 +37387,8 @@
           "sourceContentHash": "sha256:d4818d717761979b",
           "sourceBodyHash": "sha256:45ca26bedda5e227",
           "translatedAt": "2026-09-22T19:59:31.937695+00:00",
-          "translationLastCommit": "e137dda5",
-          "translationLastModified": "2026-07-31T00:55:37+08:00",
+          "translationLastCommit": "85dcc1e8",
+          "translationLastModified": "2026-09-23T05:16:56+08:00",
           "inferred": false,
           "footnoteDefs": 34,
           "bytes": 42102,
@@ -47823,20 +47849,18 @@
         "ja": {
           "path": "ja/Lifestyle/taiwan-high-speed-rail.md",
           "translatedFrom": "Lifestyle/台灣高鐵.md",
-          "sourceCommitSha": "dd39065b",
-          "sourceContentHash": "sha256:d4cd6040714e7d5e",
-          "sourceBodyHash": "sha256:437f56550a534c16",
-          "translatedAt": "2026-05-01T14:48:26+08:00",
+          "sourceCommitSha": "7f94f3308",
+          "sourceContentHash": "sha256:4ac40ba7a55e456a",
+          "sourceBodyHash": "sha256:7526ec4c044a5e8d",
+          "translatedAt": "2026-09-23T04:15:44+08:00",
           "translationLastCommit": "fd678fd2",
           "translationLastModified": "2026-07-25T10:32:02+08:00",
           "inferred": false,
-          "footnoteDefs": 23,
-          "bytes": 28434,
+          "footnoteDefs": 16,
+          "bytes": 31282,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 3,
-          "diffSummary": "+92 -76"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Lifestyle/taiwan-high-speed-rail.md",
@@ -47905,20 +47929,18 @@
         "id": {
           "path": "id/Lifestyle/taiwan-high-speed-rail.md",
           "translatedFrom": "Lifestyle/台灣高鐵.md",
-          "sourceCommitSha": "dd39065b2",
-          "sourceContentHash": "sha256:d4cd6040714e7d5e",
-          "sourceBodyHash": "sha256:437f56550a534c16",
-          "translatedAt": "2026-07-29T21:23:31+08:00",
+          "sourceCommitSha": "7f94f3308",
+          "sourceContentHash": "sha256:4ac40ba7a55e456a",
+          "sourceBodyHash": "sha256:7526ec4c044a5e8d",
+          "translatedAt": "2026-09-23T04:15:45+08:00",
           "translationLastCommit": "2ca25d0d",
           "translationLastModified": "2026-07-29T21:44:59+08:00",
           "inferred": false,
-          "footnoteDefs": 23,
-          "bytes": 16819,
+          "footnoteDefs": 16,
+          "bytes": 30934,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 3,
-          "diffSummary": "+92 -76"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Lifestyle/taiwan-high-speed-rail.md",
@@ -47939,38 +47961,34 @@
         "hi": {
           "path": "hi/Lifestyle/taiwan-high-speed-rail.md",
           "translatedFrom": "Lifestyle/台灣高鐵.md",
-          "sourceCommitSha": "dd39065b2",
-          "sourceContentHash": "sha256:bca4e841f1f867b3",
-          "sourceBodyHash": "",
-          "translatedAt": "2026-07-30T23:10:56.043378+00:00",
+          "sourceCommitSha": "7f94f3308",
+          "sourceContentHash": "sha256:4ac40ba7a55e456a",
+          "sourceBodyHash": "sha256:7526ec4c044a5e8d",
+          "translatedAt": "2026-09-23T04:15:46+08:00",
           "translationLastCommit": "36a05ecc",
           "translationLastModified": "2026-07-31T09:04:04+08:00",
           "inferred": false,
-          "footnoteDefs": 23,
-          "bytes": 65133,
+          "footnoteDefs": 16,
+          "bytes": 68166,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "zh-moved-forward",
-          "commitsBehind": 3,
-          "diffSummary": "+92 -76"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Lifestyle/taiwan-high-speed-rail.md",
           "translatedFrom": "Lifestyle/台灣高鐵.md",
-          "sourceCommitSha": "dd39065b2",
-          "sourceContentHash": "sha256:d4cd6040714e7d5e",
-          "sourceBodyHash": "sha256:437f56550a534c16",
-          "translatedAt": "2026-07-30T22:54:35+08:00",
+          "sourceCommitSha": "7f94f3308",
+          "sourceContentHash": "sha256:4ac40ba7a55e456a",
+          "sourceBodyHash": "sha256:7526ec4c044a5e8d",
+          "translatedAt": "2026-09-23T04:15:46+08:00",
           "translationLastCommit": "dc51f22d",
           "translationLastModified": "2026-07-31T06:57:53+08:00",
           "inferred": false,
-          "footnoteDefs": 23,
-          "bytes": 41435,
+          "footnoteDefs": 16,
+          "bytes": 40009,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 3,
-          "diffSummary": "+92 -76"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Lifestyle/taiwan-high-speed-rail.md",
@@ -64808,8 +64826,8 @@
           "sourceContentHash": "sha256:8427b2bc64bf300b",
           "sourceBodyHash": "sha256:d6d35035b4737919",
           "translatedAt": "2026-09-22T19:45:14.037066+00:00",
-          "translationLastCommit": "caa10522",
-          "translationLastModified": "2026-07-27T18:58:03+08:00",
+          "translationLastCommit": "85dcc1e8",
+          "translationLastModified": "2026-09-23T05:16:56+08:00",
           "inferred": false,
           "footnoteDefs": 27,
           "bytes": 45080,
@@ -117283,18 +117301,18 @@
         "ja": {
           "path": "ja/People/pa-chiung-political-youtuber.md",
           "translatedFrom": "People/八炯.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:6599b2ad4c30bd09",
-          "sourceBodyHash": "sha256:bc866bec1fdcbd6f",
-          "translatedAt": "2026-05-01T14:48:26+08:00",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:6cb3c6ef00fae4cb",
+          "sourceBodyHash": "sha256:04a00b8b001b29b2",
+          "translatedAt": "2026-09-23T04:15:44+08:00",
           "translationLastCommit": "caa10522",
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
-          "footnoteDefs": 16,
-          "bytes": 18058,
+          "footnoteDefs": 25,
+          "bytes": 38761,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (25→16)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/pa-chiung-political-youtuber.md",
@@ -119079,11 +119097,11 @@
           "sourceContentHash": "sha256:25c8ad9313478f48",
           "sourceBodyHash": "sha256:d75a906a8210150b",
           "translatedAt": "2026-09-22T20:02:48.524272+00:00",
-          "translationLastCommit": "caa10522",
-          "translationLastModified": "2026-07-27T18:58:03+08:00",
+          "translationLastCommit": "85dcc1e8",
+          "translationLastModified": "2026-09-23T05:16:56+08:00",
           "inferred": false,
           "footnoteDefs": 29,
-          "bytes": 43669,
+          "bytes": 43671,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -124327,20 +124345,18 @@
         "id": {
           "path": "id/People/stanley-yen.md",
           "translatedFrom": "People/嚴長壽.md",
-          "sourceCommitSha": "df2e75589",
-          "sourceContentHash": "sha256:259b129f305ff5f9",
-          "sourceBodyHash": "sha256:366255e36a4fa0f5",
-          "translatedAt": "2026-07-29T06:33:08+08:00",
+          "sourceCommitSha": "9cef725ce",
+          "sourceContentHash": "sha256:f03fe4356a8b034b",
+          "sourceBodyHash": "sha256:0511dd3ec1c7896e",
+          "translatedAt": "2026-09-22T21:40:35.033853+00:00",
           "translationLastCommit": "34443c18",
           "translationLastModified": "2026-07-29T07:32:16+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "bytes": 19804,
+          "bytes": 20300,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/stanley-yen.md",
@@ -149512,8 +149528,8 @@
           "sourceContentHash": "sha256:e6a3985c0d14509b",
           "sourceBodyHash": "sha256:2199caf3c188c46a",
           "translatedAt": "2026-09-23T02:56:15+08:00",
-          "translationLastCommit": "59ff7e7d",
-          "translationLastModified": "2026-07-30T04:02:34+08:00",
+          "translationLastCommit": "85dcc1e8",
+          "translationLastModified": "2026-09-23T05:16:56+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "bytes": 17776,
@@ -173525,7 +173541,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/History/eight-immortals-dust-explosion.md",
+          "translatedFrom": "History/八仙塵爆.md",
+          "sourceCommitSha": "c109869a0",
+          "sourceContentHash": "sha256:ac5c1781df041450",
+          "sourceBodyHash": "sha256:e34f355be551f8dd",
+          "translatedAt": "2026-09-23T04:15:47+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "bytes": 16946,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -185286,8 +185315,8 @@
           "sourceContentHash": "sha256:091b9844837415a1",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-22T19:24:47.055936+00:00",
-          "translationLastCommit": "caa10522",
-          "translationLastModified": "2026-07-27T18:58:03+08:00",
+          "translationLastCommit": "85dcc1e8",
+          "translationLastModified": "2026-09-23T05:16:56+08:00",
           "inferred": false,
           "footnoteDefs": 40,
           "bytes": 55554,
@@ -196574,20 +196603,18 @@
         "ar": {
           "path": "ar/Geography/keelung-city.md",
           "translatedFrom": "Geography/基隆市.md",
-          "sourceCommitSha": "31a05c44b",
-          "sourceContentHash": "sha256:d96d5a768e497ec1",
-          "sourceBodyHash": "sha256:a875e0cc381f5fed",
-          "translatedAt": "2026-07-29T21:23:36+08:00",
+          "sourceCommitSha": "2187c1c9c",
+          "sourceContentHash": "sha256:2fb0e2b29a78f122",
+          "sourceBodyHash": "sha256:5db325d228abad28",
+          "translatedAt": "2026-09-22T21:19:48.323898+00:00",
           "translationLastCommit": "2534c964",
           "translationLastModified": "2026-09-22T01:09:24+08:00",
           "inferred": false,
           "footnoteDefs": 32,
-          "bytes": 55598,
+          "bytes": 57257,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+17 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Geography/keelung-city.md",
@@ -208858,20 +208885,18 @@
         "vi": {
           "path": "vi/Culture/taiwan-soundscape.md",
           "translatedFrom": "Culture/台灣聲景.md",
-          "sourceCommitSha": "8b61d368e",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:819a7ee143f7b981",
           "sourceBodyHash": "sha256:efd1cd3b8e9f03d6",
-          "translatedAt": "2026-08-09T09:26:48+08:00",
+          "translatedAt": "2026-09-23T04:15:44+08:00",
           "translationLastCommit": "1c89db9a",
           "translationLastModified": "2026-09-22T01:05:58+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "bytes": 44799,
+          "bytes": 43492,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Culture/taiwan-soundscape.md",
