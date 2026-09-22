@@ -12,7 +12,7 @@ Cron 07:00 那一格。讀者站上回報轉 GitHub issue，接 08:30 maintainer
 
 ## 零回報，但這一輪照樣跑完
 
-`fetched 0`。這是連續第三輪（09-21、09-22、09-23），最近一筆進來的回報是 09-19，距今 3.0 天——落在這條線量過的到達間隔裡（09-15 那輪拉全庫 87 筆量出上限 12.6 天），讀取端沒在漏接。
+`fetched 0` · `file=0 reject=0 skip=0 hold=0` · `archive-scanned=87` · `archive-comments-synced=0` · 開出的 issue：無。這是連續第三輪（09-21、09-22、09-23），最近一筆進來的回報是 09-19，距今 3.0 天——落在這條線量過的到達間隔裡（09-15 那輪拉全庫 87 筆量出上限 12.6 天），讀取端沒在漏接。
 
 零筆仍然走 `--commit`，理由住在 LESSONS `zero-input-cycle-drops-the-reconciliation`：轉錄那半沒事做的時候，保管那半照樣有事做。跑完拿到兩個數字：`archive-reconcile=87/87`（HG12b，Supabase 的 filed 筆數對得上 git 紀錄份數），`comment-reconcile=86/87`，差的那一份是 [#1252](https://github.com/frank890417/taiwan-md/issues/1252)——7/29 那則答錯的留言在 GitHub 被刪掉，git 這邊留著。方向是 archive > 線上，主權層正在做它該做的事，不報警。
 
