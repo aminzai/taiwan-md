@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-22T07:57:29+08:00",
-    "zhCommitHead": "72f95b737",
+    "lastUpdated": "2026-09-22T08:02:00+08:00",
+    "zhCommitHead": "667bd9d0f",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1059,
-        "stale": 37,
+        "fresh": 1060,
+        "stale": 36,
         "metadata_stale": 6,
         "missing": 22,
         "orphan": 0
@@ -52,8 +52,8 @@
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1049,
-        "stale": 49,
+        "fresh": 1050,
+        "stale": 48,
         "metadata_stale": 9,
         "missing": 17,
         "orphan": 0
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 990,
+        "fresh": 991,
         "stale": 54,
         "metadata_stale": 14,
-        "missing": 66,
+        "missing": 65,
         "orphan": 0
       },
       "ru": {
@@ -130095,7 +130095,19 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/wei-tsung-cheng-comic-artist.md",
+          "translatedFrom": "People/韋宗成.md",
+          "sourceCommitSha": "13c7fbcdb",
+          "sourceContentHash": "sha256:2f3feb8df34cdc45",
+          "sourceBodyHash": "sha256:3e236311319150f0",
+          "translatedAt": "2026-09-22T04:48:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "bytes": 42288,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -140512,19 +140524,17 @@
         "fr": {
           "path": "fr/Food/taiwan-rice-cuisine-culture.md",
           "translatedFrom": "Food/台灣米食文化.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:0e38833f3cafaf68",
-          "sourceBodyHash": "sha256:2354ee60853945b0",
-          "translatedAt": "2026-04-14T12:29:25+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:d06ea631387761c6",
+          "sourceBodyHash": "sha256:1e5405f424ed35fc",
+          "translatedAt": "2026-09-22T04:48:28+08:00",
           "translationLastCommit": "677cd01d",
           "translationLastModified": "2026-09-22T01:05:52+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 17555,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+9 -3"
+          "bytes": 15865,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Food/taiwan-rice-cuisine-culture.md",
@@ -141228,19 +141238,17 @@
         "en": {
           "path": "en/Food/taiwan-seafood-culture.md",
           "translatedFrom": "Food/台灣海鮮文化.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:b19eaae2749a2675",
-          "sourceBodyHash": "sha256:0e334a19b5edfbf1",
-          "translatedAt": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:83fd36c7a8a59ff5",
+          "sourceBodyHash": "sha256:a8b22a0fba5539c1",
+          "translatedAt": "2026-09-22T04:48:26+08:00",
           "translationLastCommit": "d6ea86f0",
           "translationLastModified": "2026-09-22T01:05:30+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 8820,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+10 -3"
+          "bytes": 9755,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Food/taiwan-seafood-culture.md",
@@ -141522,8 +141530,8 @@
           "sourceContentHash": "sha256:499276bde9de600f",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-21T22:00:07.959048+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "667bd9d0",
+          "translationLastModified": "2026-09-22T07:57:29+08:00",
           "inferred": false,
           "footnoteDefs": 41,
           "bytes": 61534,
@@ -165880,8 +165888,8 @@
           "sourceContentHash": "sha256:cfc5c04e9673e1a1",
           "sourceBodyHash": "sha256:27b8803688951c5a",
           "translatedAt": "2026-09-22T04:48:29+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "667bd9d0",
+          "translationLastModified": "2026-09-22T07:57:29+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "bytes": 25563,
