@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-23T06:13:57+08:00",
-    "zhCommitHead": "ad9167e9c",
+    "lastUpdated": "2026-09-23T06:40:29+08:00",
+    "zhCommitHead": "de39eb3da",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -60,32 +60,32 @@
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 1071,
-        "stale": 22,
-        "metadata_stale": 14,
+        "fresh": 1073,
+        "stale": 21,
+        "metadata_stale": 13,
         "missing": 17,
         "orphan": 0
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 992,
-        "stale": 50,
+        "fresh": 993,
+        "stale": 49,
         "metadata_stale": 7,
         "missing": 75,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1050,
+        "fresh": 1051,
         "stale": 34,
-        "metadata_stale": 7,
+        "metadata_stale": 6,
         "missing": 33,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 983,
-        "stale": 44,
+        "fresh": 985,
+        "stale": 42,
         "metadata_stale": 7,
         "missing": 90,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 874,
+        "fresh": 876,
         "stale": 10,
         "metadata_stale": 5,
-        "missing": 235,
+        "missing": 233,
         "orphan": 0
       }
     },
@@ -37467,8 +37467,8 @@
           "sourceContentHash": "sha256:d4818d717761979b",
           "sourceBodyHash": "sha256:45ca26bedda5e227",
           "translatedAt": "2026-09-22T21:09:24.481183+00:00",
-          "translationLastCommit": "e137dda5",
-          "translationLastModified": "2026-07-31T00:55:37+08:00",
+          "translationLastCommit": "00f303bf",
+          "translationLastModified": "2026-09-23T06:13:57+08:00",
           "inferred": false,
           "footnoteDefs": 34,
           "bytes": 35329,
@@ -45211,7 +45211,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Art/invisible-nation.md",
+          "translatedFrom": "Art/看不見的國家.md",
+          "sourceCommitSha": "31a05c44b",
+          "sourceContentHash": "sha256:fd6fc02e66010c96",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-22T22:04:51.143435+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 48,
+          "bytes": 57161,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -47933,8 +47946,8 @@
           "sourceContentHash": "sha256:4ac40ba7a55e456a",
           "sourceBodyHash": "sha256:7526ec4c044a5e8d",
           "translatedAt": "2026-09-23T04:15:45+08:00",
-          "translationLastCommit": "2ca25d0d",
-          "translationLastModified": "2026-07-29T21:44:59+08:00",
+          "translationLastCommit": "00f303bf",
+          "translationLastModified": "2026-09-23T06:13:57+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "bytes": 30934,
@@ -53107,18 +53120,18 @@
         "hi": {
           "path": "hi/Lifestyle/taiwan-walking-green-man.md",
           "translatedFrom": "Lifestyle/小綠人.md",
-          "sourceCommitSha": "69b3afd91",
-          "sourceContentHash": "sha256:0e8351a88b984c1d",
-          "sourceBodyHash": "sha256:83cbb50293e2fd70",
-          "translatedAt": "2026-08-04T14:12:37+08:00",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:996216db6cfc762f",
+          "sourceBodyHash": "sha256:f6cfe4546203aec9",
+          "translatedAt": "2026-09-23T05:53:46+08:00",
           "translationLastCommit": "3950a0ff",
           "translationLastModified": "2026-08-04T17:30:31+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 21020,
+          "footnoteDefs": 17,
+          "bytes": 54132,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (17→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Lifestyle/taiwan-walking-green-man.md",
@@ -58164,20 +58177,18 @@
         "id": {
           "path": "id/Society/taiwan-design-research-institute.md",
           "translatedFrom": "Society/台灣設計研究院.md",
-          "sourceCommitSha": "31a05c44b",
-          "sourceContentHash": "sha256:05d29d723ff6a31c",
-          "sourceBodyHash": "",
-          "translatedAt": "2026-07-30T03:29:03.663455+00:00",
+          "sourceCommitSha": "fa44ba5a9",
+          "sourceContentHash": "sha256:68988284647ce5e2",
+          "sourceBodyHash": "sha256:f7df18837078b48f",
+          "translatedAt": "2026-09-22T22:14:33.245021+00:00",
           "translationLastCommit": "c504c031",
           "translationLastModified": "2026-09-22T00:50:34+08:00",
           "inferred": false,
           "footnoteDefs": 41,
-          "bytes": 41841,
+          "bytes": 42114,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "zh-moved-forward",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Society/taiwan-design-research-institute.md",
@@ -73469,7 +73480,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/stray-animal-culture.md",
+          "translatedFrom": "Society/台灣流浪動物文化.md",
+          "sourceCommitSha": "31a05c44b",
+          "sourceContentHash": "sha256:6b2ce60c50966bdc",
+          "sourceBodyHash": "sha256:6f79d66a90a09b62",
+          "translatedAt": "2026-09-23T05:53:47+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "bytes": 50577,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -76772,20 +76796,18 @@
         "hi": {
           "path": "hi/About/how-an-article-is-born.md",
           "translatedFrom": "About/文章如何誕生.md",
-          "sourceCommitSha": "984fb7892",
-          "sourceContentHash": "sha256:92fcb394123e4aee",
-          "sourceBodyHash": "sha256:b8984a2133e5738f",
-          "translatedAt": "2026-07-24T20:56:16+08:00",
+          "sourceCommitSha": "d182e5d85",
+          "sourceContentHash": "sha256:4dc98dc84117c5d8",
+          "sourceBodyHash": "sha256:2679dec9ddab6dbc",
+          "translatedAt": "2026-09-22T22:16:38.360359+00:00",
           "translationLastCommit": "af273ebd",
           "translationLastModified": "2026-09-22T01:05:09+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "bytes": 73132,
+          "bytes": 75674,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/About/how-an-article-is-born.md",
@@ -92893,20 +92915,18 @@
         "vi": {
           "path": "vi/People/lin-liang-childrens-literature.md",
           "translatedFrom": "People/林良.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:ff949a14cc54475a",
-          "sourceBodyHash": "sha256:99fcaed64626278d",
-          "translatedAt": "2026-08-09T11:16:34+08:00",
+          "sourceCommitSha": "9094012f4",
+          "sourceContentHash": "sha256:eea6e5a10d131ef2",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-22T22:20:58.200344+00:00",
           "translationLastCommit": "9ffdd81c",
           "translationLastModified": "2026-08-09T11:47:10+08:00",
           "inferred": false,
           "footnoteDefs": 37,
-          "bytes": 38299,
+          "bytes": 40616,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -92914,20 +92934,18 @@
         "pt": {
           "path": "pt/People/lin-liang-childrens-literature.md",
           "translatedFrom": "People/林良.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:ff949a14cc54475a",
-          "sourceBodyHash": "sha256:99fcaed64626278d",
-          "translatedAt": "2026-07-25T12:45:42+08:00",
+          "sourceCommitSha": "9094012f4",
+          "sourceContentHash": "sha256:eea6e5a10d131ef2",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-22T22:29:01.549705+00:00",
           "translationLastCommit": "beb66999",
           "translationLastModified": "2026-07-27T19:05:03+08:00",
           "inferred": false,
           "footnoteDefs": 37,
-          "bytes": 28712,
+          "bytes": 34372,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/People/lin-liang-childrens-literature.md",
@@ -112773,8 +112791,8 @@
           "sourceContentHash": "sha256:4de98c280e186c57",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-22T21:57:22.483072+00:00",
-          "translationLastCommit": "f4d0f1e6",
-          "translationLastModified": "2026-09-22T01:07:23+08:00",
+          "translationLastCommit": "00f303bf",
+          "translationLastModified": "2026-09-23T06:13:57+08:00",
           "inferred": false,
           "footnoteDefs": 62,
           "bytes": 70515,
@@ -124347,8 +124365,8 @@
           "sourceContentHash": "sha256:f03fe4356a8b034b",
           "sourceBodyHash": "sha256:0511dd3ec1c7896e",
           "translatedAt": "2026-09-22T21:40:35.033853+00:00",
-          "translationLastCommit": "34443c18",
-          "translationLastModified": "2026-07-29T07:32:16+08:00",
+          "translationLastCommit": "00f303bf",
+          "translationLastModified": "2026-09-23T06:13:57+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "bytes": 20300,
@@ -163937,8 +163955,8 @@
           "sourceContentHash": "sha256:e6c1c2c1757905c0",
           "sourceBodyHash": "sha256:97ba5602057c57dc",
           "translatedAt": "2026-09-23T04:15:45+08:00",
-          "translationLastCommit": "a91e492c",
-          "translationLastModified": "2026-07-25T05:52:36+08:00",
+          "translationLastCommit": "00f303bf",
+          "translationLastModified": "2026-09-23T06:13:57+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "bytes": 9514,
@@ -196569,8 +196587,8 @@
           "sourceContentHash": "sha256:2fb0e2b29a78f122",
           "sourceBodyHash": "sha256:5db325d228abad28",
           "translatedAt": "2026-09-22T20:41:48.920990+00:00",
-          "translationLastCommit": "dd2e91cb",
-          "translationLastModified": "2026-09-22T01:09:18+08:00",
+          "translationLastCommit": "00f303bf",
+          "translationLastModified": "2026-09-23T06:13:57+08:00",
           "inferred": false,
           "footnoteDefs": 32,
           "bytes": 38785,
@@ -202961,20 +202979,18 @@
         "vi": {
           "path": "vi/Culture/wretch.md",
           "translatedFrom": "Culture/無名小站.md",
-          "sourceCommitSha": "d40e50420",
-          "sourceContentHash": "sha256:1d592674c8a22f46",
-          "sourceBodyHash": "sha256:74e768331f7f3a8b",
-          "translatedAt": "2026-07-18T18:59:51+08:00",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:bb3880571afae296",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-22T22:08:13.179347+00:00",
           "translationLastCommit": "1c89db9a",
           "translationLastModified": "2026-09-22T01:05:58+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "bytes": 52504,
+          "bytes": 54215,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Culture/wretch.md",
