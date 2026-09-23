@@ -691,6 +691,9 @@ def normalize_footnote_batch(data, batch: list[dict]):
     if not isinstance(data, dict):
         return data
 
+    if _is_single_footnote_record(data, batch):
+        return [{**data, "n": str(batch[0]["n"])}]
+
     list_values = [value for value in data.values() if isinstance(value, list)]
     if len(list_values) == 1:
         return list_values[0]
@@ -717,17 +720,36 @@ def normalize_footnote_batch(data, batch: list[dict]):
     return normalized
 
 
-def is_footnote_batch_response(data) -> bool:
+def _is_single_footnote_record(data, batch: list[dict] | None) -> bool:
+    """本批只有一條、而模型回的單筆 object 的 n 正好是那一條：這是完整答案。
+
+    2026-09-24：二分法把 2-3 條的批次切成 1 條的半批之後，模型對單元素陣列常
+    直接回裸 object。舊判準一律當成「截斷尾端撈出的單筆」拒收，兩次重試都回
+    同一個形狀，整篇 exit=1（run 98122 修後窗 6 次，`JSON shape fail: dict
+    keys=['n', 'title', 'desc']`，其中 3 次發生在 split 之後）。只有批次長度
+    恰好 1 且 ID 對得上才放行；多條批次的單筆 object 仍是截斷訊號。
+    """
+    if not batch or len(batch) != 1 or not isinstance(data, dict):
+        return False
+    if "n" not in data or not set(data).issubset({"n", "title", "desc"}):
+        return False
+    return str(data.get("n")) == str(batch[0]["n"])
+
+
+def is_footnote_batch_response(data, batch: list[dict] | None = None) -> bool:
     """拒絕寬鬆 parser 從截斷 array 尾端撈出的單筆腳註 object。
 
     Phase N 的合法根節點是 array、ID mapping 或包住兩者的 object；單筆
     ``{"n", "title", "desc"}`` 只代表批次輸出不完整，必須讓 call_json 使用
-    尚未耗掉的 retry，而不是提早回傳後才在 length gate 終止。
+    尚未耗掉的 retry，而不是提早回傳後才在 length gate 終止。例外：本批只有
+    一條且 ID 相符（見 ``_is_single_footnote_record``）。
     """
     if isinstance(data, list):
         return True
     if not isinstance(data, dict):
         return False
+    if _is_single_footnote_record(data, batch):
+        return True
     return not ("n" in data and set(data).issubset({"n", "title", "desc"}))
 
 
@@ -786,7 +808,7 @@ def translate_footnotes(defs: list[dict], lang: str, backend, metrics: dict) -> 
                 max_attempts=2,
                 metrics=metrics,
                 label=f"phase-N-batch{bi}",
-                accept_data=is_footnote_batch_response,
+                accept_data=lambda d, b=batch: is_footnote_batch_response(d, b),
             )
         except RuntimeError as error:
             # v1.45 實績：15 筆 batch 的兩次同尺寸重播都可能只留下尾端單筆
@@ -812,7 +834,7 @@ def translate_footnotes(defs: list[dict], lang: str, backend, metrics: dict) -> 
                     max_attempts=2,
                     metrics=metrics,
                     label=f"phase-N-batch{bi}-split{split_index}",
-                    accept_data=is_footnote_batch_response,
+                    accept_data=lambda d, b=split_batch: is_footnote_batch_response(d, b),
                 )
                 part = normalize_footnote_batch(part, split_batch)
                 if not isinstance(part, list) or len(part) != len(split_batch):

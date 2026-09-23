@@ -538,3 +538,20 @@ def test_json_retry_tells_the_model_what_went_wrong():
     assert "previous answer was rejected" not in systems[0]
     assert "previous answer was rejected" in systems[1]
     assert "raw_len=" in systems[1], "要把上一輪的實際長度與開頭帶給模型"
+
+
+def test_single_item_batch_accepts_bare_object_with_matching_id():
+    batch = [{"n": "7", "title": "標題", "desc": "說明"}]
+    record = {"n": "7", "title": "Title", "desc": "Desc"}
+    assert MODULE.is_footnote_batch_response(record, batch)
+    assert MODULE.normalize_footnote_batch(record, batch) == [record]
+
+
+def test_bare_object_still_rejected_for_multi_item_or_wrong_id():
+    record = {"n": "7", "title": "Title", "desc": "Desc"}
+    two = [{"n": "7", "title": "a", "desc": "b"}, {"n": "8", "title": "c", "desc": "d"}]
+    wrong = [{"n": "9", "title": "a", "desc": "b"}]
+    assert not MODULE.is_footnote_batch_response(record, two)
+    assert not MODULE.is_footnote_batch_response(record, wrong)
+    assert not MODULE.is_footnote_batch_response(record)
+    assert MODULE.normalize_footnote_batch(record, two) is record
