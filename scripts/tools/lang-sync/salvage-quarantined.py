@@ -13,7 +13,11 @@ import pathlib
 import re
 import subprocess
 
-REPO = pathlib.Path("/Users/cheyuwu/Projects/taiwan-md")
+# 2026-09-24：原本寫死 /Users/cheyuwu/Projects/taiwan-md。營運機上那條路徑只是
+# 指回 /Users/musebase 的 symlink，所以今天剛好沒寫錯地方；換一台沒有這條
+# symlink 的機器、或同機另開 worktree 跑，就會寫到別處或直接找不到。改從本檔
+# 位置推導，跑哪一份就寫哪一份。
+REPO = pathlib.Path(__file__).resolve().parents[3]
 LANG_DIRS = ["en", "ja", "ko", "es", "fr", "vi", "id", "pt", "hi"]
 
 
