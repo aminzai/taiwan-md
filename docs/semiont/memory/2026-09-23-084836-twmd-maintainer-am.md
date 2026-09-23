@@ -66,16 +66,16 @@ Stage 1 量到的是 `4 0` 純領先，而收官 push 被拒，重量是 `9 6` �
 
 ## 收官 checklist
 
-| 檢查項                                           | 狀態                                                    |
-| ------------------------------------------------ | ------------------------------------------------------- |
-| open issues 都有 status label / assignee         | ✅ 5 則都有 label；#1761 有 assignee，其餘為留開待他層  |
-| open PRs ≤ 5d age 都有 review comment            | ✅ 3 則全 merge 並留言（burst 規則整批一則）            |
-| broken-link gated ratio < 7%                     | ✅ 0.34%（all-langs 0.31%）；家族表另追出一個十二語家族 |
-| build green                                      | ✅ main 四條 workflow 最新一次全 success                |
-| BECOME ACK 一行記憶體頂                          | ✅                                                      |
-| 連續空場 ≥ 3 cycle 有 LESSONS entry              | ✅ 不適用——本輪 3 個 fresh PR，**空場 vc 歸零**         |
-| 有 fresh issue 的 cycle 至少一件被修掉或寫明原因 | ✅ 今天 0 則 fresh issue；四則舊 issue 逐一寫明阻塞層   |
-| 本機與 origin 無真分岔                           | ✅ `4 0` 純領先                                         |
+| 檢查項                                           | 狀態                                                                                                                   |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
+| open issues 都有 status label / assignee         | ✅ 5 則都有 label；#1761 有 assignee，其餘為留開待他層                                                                 |
+| open PRs ≤ 5d age 都有 review comment            | ✅ 3 則全 merge 並留言（burst 規則整批一則）                                                                           |
+| broken-link gated ratio < 7%                     | ✅ 0.34%（all-langs 0.31%）；家族表另追出一個十二語家族                                                                |
+| build green                                      | ✅ main 四條 workflow 最新一次全 success                                                                               |
+| BECOME ACK 一行記憶體頂                          | ✅                                                                                                                     |
+| 連續空場 ≥ 3 cycle 有 LESSONS entry              | ✅ 不適用——本輪 3 個 fresh PR，**空場 vc 歸零**                                                                        |
+| 有 fresh issue 的 cycle 至少一件被修掉或寫明原因 | ✅ 今天 0 則 fresh issue；四則舊 issue 逐一寫明阻塞層                                                                  |
+| 本機與 origin 無真分岔                           | ⚠️→✅ Stage 1 是 `4 0` 純領先；收官時因本班自己兩個寫入點變成 `9 6` 真分岔，當班 merge 併掉（`1d0615369`），最終 `0 0` |
 
 ## Handoff 三態
 
