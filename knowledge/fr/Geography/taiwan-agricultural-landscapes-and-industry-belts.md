@@ -1,172 +1,182 @@
 ---
-title: 'Paysages agricoles et répartition industrielle de Taïwan'
-description: "L'évolution des paysages agricoles du nord au sud illustre la transition de Taïwan, du « grenier à blé de Taïwan » à l'« agriculture de précision »"
+title: 'Paysage agricole et répartition industrielle de Taïwan'
+description: "L'évolution du paysage agricole, du Nord au Sud, illustre la transition de Taïwan d'un « grenier » à une agriculture de haute précision"
 date: 2026-03-18
-author: 'Taiwan.md'
 category: 'Geography'
-subcategory: '氣候與溫泉'
 tags:
-  ['Agriculture', 'Paysages', 'Industrie', 'Sécurité alimentaire', 'Géographie']
+  ['agriculture', 'paysage', 'industrie', 'sécurité alimentaire', 'géographie']
+subcategory: '城市與人文地理'
+author: 'Taiwan.md'
+difficulty: 'intermediate'
 readingTime: 12
+featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: false
-translatedFrom: Geography/台灣農業地景與產業分布.md
-sourceCommitSha: f712b7242
-sourceContentHash: sha256:5fcedd0ad0dc94f7
-sourceBodyHash: sha256:92c2111bcaaae7c8
-translatedAt: 2026-05-20T05:08:34+08:00
-difficulty: 'intermediate'
+translatedFrom: 'Geography/台灣農業地景與產業分布.md'
+sourceCommitSha: 'b349895a3'
+sourceContentHash: 'sha256:88ba75169cfa45ae'
+sourceBodyHash: 'sha256:9f28d4872bf9c477'
+translatedAt: '2026-09-23T22:11:52+08:00'
 ---
 
-# Paysages agricoles et répartition industrielle de Taïwan
+# Paysage agricole et répartition industrielle de Taïwan
 
-## Aperçu en 30 secondes
+## Aperçu rapide
 
-Taïwan, avec une superficie de seulement 36 000 km², présente des paysages agricoles radicalement différents en raison de la diversité de son relief et de son climat. Des terrasses de plantations de thé au nord, au « grenier à blé de Taïwan » au centre, aux vergers tropicaux au sud, en passant par les fermes biologiques à l'est, des ceintures agro-industrielles distinctes se dessinent clairement.
+Avec seulement 36 000 kilomètres carrés, la superficie de Taïwan présente des paysages agricoles radicalement différents en raison des variations topographiques et climatiques. Des terrasses de thé du Nord, le « grenier de Taïwan » du Centre, les vergers tropicaux du Sud, aux fermes biologiques de l'Est, on observe une distribution claire des zones industrielles agricoles.
 
-Le « grenier à riz du Zhuoshui », formé par les comtés de Changhua, Yunlin et Chiayi, fournit encore aujourd'hui 30 % de la production nationale de riz. Les pommes d'eau (蓮霧) de Pingtung et les corossols (釋迦) de Taitung se sont quant à eux fait un nom sur les marchés internationaux du Japon et du Moyen-Orient.
+Le « bassin rizicole du Tigre » (Chaozhou/Yunlin/Chiayi) fournit environ un tiers du riz national, tandis que le longan de Pingtung et la carambole de Taitung sont les fruits d'exportation les plus représentatifs de Taïwan, qui avaient pour principal marché la Chine.
 
-La construction du système d'irrigation de Jianan dans les années 1920 a posé les bases hydrauliques de l'agriculture du sud de Taïwan, et la promotion de la variété de riz Hōrai (蓬萊米) après 1945 a doublé les rendements rizicoles — deux jalons décisifs de la modernisation agricole taïwanaise.
+Le [canal d'irrigation de Chianan](/fr/history/chianan-irrigation-canal/), achevé en 1930 après son début en 1920, a établi les bases hydrauliques de l'agriculture du Sud de Taïwan[^7]. Le riz Penglai (Penglai mi), nommé et promu en 1926, a réécrit la variété et le marché du riz taïwanais. Ces deux événements constituent des points clés de la modernisation agricole de Taïwan sous domination japonaise.
 
-Mots-clés : grenier à blé de Taïwan, grenier à riz du Zhuoshui, agriculture de précision, transformation industrielle, sécurité alimentaire
+Mots-clés : grenier de Taïwan, bassin rizicole du Tigre, agriculture de précision, transition industrielle, sécurité alimentaire
 
-## Pourquoi c'est important
+## Pourquoi est-ce important ?
 
-L'histoire du développement agricole de Taïwan retrace la manière dont une île a enchaîné les transformations sur un territoire limité : de l'amélioration variétale du riz Hōrai durant la période coloniale japonaise (promu en 1926), à l'industrialisation rurale des années 1970, puis au mouvement pour l'agriculture biologique et la revitalisation rurale dans les années 2010, chaque étape reflétant une transformation de la structure sociale taïwanaise.
+L'histoire du développement agricole de Taïwan raconte comment une île a continuellement évolué sur un territoire limité : de l'amélioration des variétés de « Penglai mi » sous domination japonaise (promue en 1926), à l'industrialisation rurale dans les années 1970, puis au mouvement de renaissance rurale et à l'agriculture biologique dans les années 2010. Chaque étape est un microcosme de la transformation de la structure sociale de Taïwan[^2].
 
-L'agriculture taïwanassume simultanément un quadruple rôle : production alimentaire, occupation des sols, protection de l'environnement et transmission culturelle. Face au changement climatique et à la pression de l'urbanisation, Taïwan passe d'une logique de quantité à une logique de qualité, de l'agriculture traditionnelle à l'agriculture intelligente.
+L'agriculture taïwanaise assume quatre rôles simultanés : production alimentaire, utilisation des terres, protection de l'environnement et transmission culturelle. Face au changement climatique et à la pression d'urbanisation, Taïwan passe de la recherche de rendement à celle de qualité, et de l'agriculture traditionnelle à l'agriculture intelligente.
 
-Cette trajectoire de transformation constitue une référence directe pour d'autres petites îles agricoles d'Asie, et les instituts de recherche agricole taïwanais partagent régulièrement leur expertise avec le Vietnam, l'Indonésie et d'autres pays.
+Cette trajectoire de transition est une référence directe pour les autres petites îles agricoles asiatiques ; des instituts de recherche agricole taïwanais partagent régulièrement leurs technologies avec le Vietnam, l'Indonésie, etc.
 
-## Agriculture du nord : plantations de thé et agriculture urbaine
+## Agriculture du Nord : Thé et agriculture urbaine
 
-Les collines du nord de Taïwan, caractérisées par de fortes précipitations annuelles et un brouillard épais, abritent les régions de production de thé les plus réputées de l'île. Après l'expansion du bassin de Taipei, l'agriculture du nord s'est orientée vers la spécialisation et l'urbanisation, avec l'émergence de jardins partagés et de petits producteurs biologiques.
+Les régions montagneuses du Nord bénéficient d'un fort taux de précipitations et d'une forte brume, ce qui fait des zones de thé les plus connues de Taïwan. Après l'expansion du bassin de Taipei, l'agriculture du Nord s'est orientée vers la précision et l'urbanisation, avec l'émergence de jardins communautaires et de petites exploitations biologiques.
 
-### La filière du thé
+### Zone de production de thé
 
-Le relief vallonné du nord de Taïwan a donné naissance à une industrie du thé de renommée mondiale :
+Le relief montagneux du Nord de Taïwan a donné naissance à une industrie du thé mondialement réputée :
 
-- **Zone du thé Baozhong de Wenshan** : dans les districts de Shiding et Pinglin (Nouveau Taipei), un environnement humide avec plus de 2 000 mm de précipitations annuelles
-- **Biluochun de Sanxia** : élaboré à partir de jeunes pousses récoltées au printemps, aux arômes floraux et fruités délicats
-- **Thé de haute montagne d'Alishan** : plantations situées entre 1 000 et 2 000 m d'altitude, dont les écarts de température importants confèrent au thé un parfum intense
+- **Zone de thé Wenshan Baochong** : Les environs de Shiding et Pingshan, dans le nord de Taipei, avec un environnement humide recevant plus de 2000 mm de pluie par an.
+- **Biluochun de Sanxia** : Fabriqué à partir des jeunes pousses récoltées au printemps, il possède une saveur florale et fruitée claire.
+- **Tieguanyin de Muzha** : Un thé fermenté lourd, produit dans la région de Maokong (Taipei), où les plantations coexistent avec des salons de thé touristiques.
 
-Les plantations de thé du nord sont principalement aménagées en terrasses pour exploiter au mieux les terrains en pente, et ces paysages en gradins constituent également une ressource touristique. Le « âge d'or du thé » de la région de Wenshan a été inscrit au registre des paysages culturels, protégeant l'artisanat traditionnel de la fabrication du tea et les communautés rurales.
+Les plantations du Nord sont souvent aménagées en terrasses sur les pentes, et le paysage de ces jardins est lui-même une ressource touristique ; la région de Pingshan reste un producteur majeur de thé Baochong.
 
-### Agriculture en périphérie urbaine
+### Agriculture périphérique urbaine
 
-Avec l'expansion de la métropole du Grand Taipei, le nord a développé une agriculture urbaine singulière :
+Avec l'expansion de la grande zone métropolitaine de Taipei, le Nord a développé une agriculture urbaine unique :
 
-- **Jardins partagés** : services de location de parcelles permettant aux citadins de pratiquer le jardinage
-- **Petits producteurs biologiques** : production de fruits et légumes haut de gamme destinée aux marchés de niche
-- **Fermes de loisirs** : combinant éducation, tourisme et production agricole
+- **Jardins communautaires** : Services de location de terres permettant aux résidents urbains de découvrir l'agriculture.
+- **Petites exploitations biologiques** : Légumes fins destinés au marché haut de gamme.
+- **Fermes récréatives** : Combinaison d'éducation, de tourisme et de production agricole.
 
-## Agriculture du centre : le corridor d'or du grenier à blé de Taïwan
+## Agriculture du Centre : le couloir doré du grenier de Taïwan
 
-Le corridor d'or formé par Changhua, Yunlin et Chiayi constitue le pilier central de la sécurité alimentaire de Taïwan. Le fleuve Zhuoshui (濁水溪) charrie d'importants dépôts alluvionnaires, formant cette plaine fertile qui fournit 30 % de la production nationale de riz.
+Le couloir formé par Changhua, Yunlin et Chiayi est un pilier essentiel de la sécurité alimentaire de Taïwan. Le Tigre (Chaozhou) transporte une grande quantité de sédiments alluviaux, créant cette plaine fertile qui fournit environ un tiers du riz national.
 
-### Le cône alluvial du Zhuoshui
+### Bassin alluvial du Tigre
 
-La plaine de Changhua, Yunlin et Yunlin au centre de Taïwan est le cœur de la production agricole de l'île, surnommée le « grenier à blé de Taïwan » :
+Les plaines de Changhua, Yunlin et Chiayi sont le cœur de la production agricole de Taïwan, surnommées le « grenier de Taïwan » :
 
 **Avantages géographiques :**
 
-- Le Zhuoshui transporte de riches alluvions, formant une plaine fertile
-- Précipitations annuelles de 1 200 à 1 500 mm, propices à la riziculture
-- Terrain plat, facilitant la mécanisation des cultures
+- Le Tigre transporte des sédiments alluviaux riches, formant une plaine fertile.
+- Un taux de précipitation de 1200 à 1500 mm est adapté à la culture du riz.
+- Le terrain est plat, facilitant l'agriculture mécanisée.
 
 **Principales productions :**
 
-- **Riz** : 30 % de la production nationale, la meilleure qualité provenant du Zhuoshui
-- **Fleurs** : jardin routier de Tianwu, zone industrielle florale de Pitou
-- **Légumes** : choux, choux-fleurs approvisionnant le marché national
+- **Riz** : Représente 30 % de la production nationale, avec une qualité supérieure celle du Tigre.
+- **Fleurs** : Le jardin de Tianwei est l'un des plus grands centres de distribution de fleurs de Taïwan.
+- **Légumes** : Choux et colocaline approvisionnent le marché national.
 
-Les raisins Kyoho de Changhua et les oranges de Gukeng (Yunlin) sont les fruits de spécialité les plus emblématiques de la plaine centrale et constituent des cas pionniers de transformation vers une agriculture de marque.
+Les raisins Ju Feng de Changhua et les mandarines Gu Keng de Yunlin sont des fruits fins emblématiques du centre, et constituent un cas pionnier dans la transformation en marque de fermiers[^3].
 
 ### Transition vers l'agriculture de précision
 
-Face à la concurrence des produits agricoles importés et au vieillissement de la population rurale, l'agriculture du centre évolue vers la spécialisation :
+Face à la concurrence des produits agricoles importés et au vieillissement de la population rurale, l'agriculture du Centre se dirige vers la sophistication :
 
 **Applications technologiques :**
 
-- Systèmes de surveillance intelligente des serres
-- Pulvérisisation de pesticides par drones
-- Fertilisation de précision par GPS
+- Systèmes de surveillance intelligents en serre.
+- Pulvérisation de pesticides par drone.
+- Fertilisation par géolocalisation agricole (GPS).
 
-**Stratégies de marque :**
+**Gestion par marque :**
 
-- Certification d'indication géographique pour le « riz du Zhuoshui »
-- Transformation des sites floraux de Tianwu en usines de tourisme
-- Traçabilité des produits par les coopératives agricoles
+- Marques régionales comme « Riz Tigre ».
+- Industrialisation touristique des fleurs de Tianwei.
+- Traçabilité des produits par les coopératives agricoles.
 
-## Agriculture du sud : le royaume des fruits tropicaux
+## Agriculture du Sud : le royaume des fruits tropicaux
 
-Le sud — Tainan, Kaohsiung et Pingtung — se situe au sud du tropique du Cancer, avec des étés longs et des hivers doux, offrant une saison de croissance de plus de 300 jours, ce qui en fait la région de production de fruits tropicaux la plus concentrée de Taïwan. La plaine de Jianan bénéficie du système d'irrigation construit dans les années 1920, constituant la plus grande base de production de riz et de canne à sucre de l'île.
+Les régions du Sud, Tainan, Kaohsiung et Pingtung, situées au sud du parallèle Nord, bénéficient d'un climat chaud et humide avec une saison de croissance supérieure à 300 jours, ce qui fait de cette zone la plus concentrée en cultures tropicales de Taïwan. La plaine de Chianan a bénéficié des travaux hydrauliques du canal d'irrigation de Chianan dans les années 1920, devenant le plus grand centre de production de riz et de canne à sucre de Taïwan.
 
-### L'agriculture tropicale de Pingtung
+### Agriculture tropicale de Pingtung
 
-Le comté de Pingtung, situé au sud du tropique du Cancer, bénéficie d'un climat tropical chaud et humide toute l'année, propice à une grande diversité d'arbres fruitiers tropicaux :
+Le comté de Pingtung, situé au sud du parallèle Nord, est un berceau d'une grande diversité de fruits tropicaux grâce à son climat tropical chaud et humide toute l'année :
 
-**Fruits emblématiques :**
+**Fruits caractéristiques :**
 
-- **Pommes d'eau (蓮霧)** : Pingtung représente 60 % de la production nationale, célèbre pour la variété « Perle noire »
-- **Ananas** : l'ananas Tainung n°17 (金鑽) est exporté au Japon à un prix 3 à 5 fois supérieur à celui d'un ananas ordinaire
-- **Mangues** : les mangues Irwin et Jinhuang approvisionnent le marché national en été
+- **Longan** : La superficie de culture dans le comté de Pingtung représente plus de 70 % du total national. Le longan nain (Nan Yang), avec sa couleur rouge foncé et sa teneur élevée en sucre, est surnommé « perle noire »[^8].
+- **Ananas** : L'ananas Jinsuan est une variété principale pour l'exportation.
+- **Mangue** : Les mangues Aiwen et Jin Huang approvisionnent le marché national pendant l'été.
 
-Les « dattes de Pingtung » (珍寶蜜棗) sont très recherchées juste avant le Nouvel An lunaire, illustrant la maîtrise par les agriculteurs du sud du marketing saisonnier.
+La demande excédentaire de datte sucrée de Pingtung avant le Nouvel An chinois a servi d'exemple représentatif de la manière dont les agriculteurs du Sud de Taïwan gèrent leur calendrier commercial saisonnier.
 
-### L'agriculture de la plaine de Jianan
+### Agriculture de la plaine de Chianan
 
-La plaine de Jianan, couvrant Tainan et Chiayi, bénéficie du système hydraulique de Jianan. Construit durant la période coloniale japonaise dans les années 1920, ce système irrigue 150 000 hectares et a instauré un système de rotation triennale (riz → canne à sucre → culture pluviale), posant les fondations de l'hydraulique agricole moderne à Taïwan.
+Les plaines de Chianan (Tainan, Chiayi) ont bénéficié du système hydraulique du canal d'irrigation de Chianan, permettant une production agricole à grande échelle. Le canal a été construit en 1920 et achevé en 1930, irrigant environ 150 000 hectares. En raison d'un débit insuffisant pour inonder l'ensemble du bassin simultanément, le grand canal utilise un système de « rotation triennale », divisant la zone en trois secteurs qui alternent entre riz, canne à sucre et cultures mixtes, jetant les bases de l'hydraulique agricole moderne de Taïwan[^5][^7].
 
-Aujourd'hui, la production de riz de la plaine de Jianan représente 25 % du total national. L'industrie des phalénopsis (蝴蝶蘭) y est concentrée, et Taïwan est le premier exportateur mondial d'orchidées Phalaenopsis[^1]. L'aquaculture du chano (虱目魚) génère un chiffre d'affaires annuel supérieur à 3 milliards de dollars taïwanais, constituant une source de revenus importante pour les exploitations agricoles et piscicoles côtières du sud.
+Aujourd'hui, la plaine de Chianan reste une zone importante pour la production de riz. Le parc technologique des orchidées de Houbi à Tainan concentre l'industrie des orchidées papillon, faisant de Taïwan le plus grand exportateur mondial d'orchidées[^1]. L'aquaculture du poisson-chat est également une source de revenu importante pour les pêcheurs et agriculteurs côtiers du Sud.
 
-## Agriculture de l'est : agriculture biologique et autochtone
+## Agriculture de l'Est : biologique et agriculture autochtone
 
-La vallée de Huatong (花東縱谷), encaissée entre la chaîne centrale et la chaîne côtière, est éloignée des pollutions industrielles, et ses conditions de production agricole sont reconnues par les organismes de certification biologique. La superficie des cultures biologiques dans le comté de Hualien représente environ 30 % des terres agricoles du comté, le taux le plus élevé de Taïwan ; les marques de riz de qualité comme le riz de Chishang (池上米) et le riz de Fuli (富里米) ont acquis une solide réputation sur le marché national du riz haut de gamme.
+La vallée de Hualien (Huadong) est nichée entre la chaîne centrale et la chaîne côtière, loin de la pollution industrielle. Le comté de Hualien est le plus grand en termes de superficie certifiée biologique dans Taïwan, atteignant 3 175 hectares pour 662 exploitations début 2023, dépassant le deuxième rang occupé par Chiayi[^9]. Les marques telles que Rice Chishang et Rice Fuli ont établi une bonne réputation sur le marché du riz de qualité supérieure à Taïwan.
 
-### L'agriculture biologique de la vallée de Hualien-Taitung
+### Agriculture biologique de la vallée de Huadong
 
-La vallée de Hualien-Taitung, en raison de son éloignement et de l'absence de pollution industrielle, offre un environnement et des sources d'eau propres, garantes naturelles de la certification biologique. Les pratiques agricoles traditionnelles des peuples autochtones y sont également pleinement préservées. Combinées à la demande croissante des consommateurs pour les produits biologiques, ces conditions ont fait de cette région un pôle majeur de développement de l'agriculture biologique.
+La vallée de Hualien et Taitung bénéficie d'un environnement pur et de sources d'eau peu polluées, ce qui constitue une garantie naturelle pour les certifications biologiques[^6]. Les méthodes agricoles traditionnelles des populations autochtones y sont également préservées dans leur intégralité. Face à la demande croissante des consommateurs pour les produits biologiques, cette région est devenue un centre majeur du développement biologique.
 
-Le riz de Fuli et le riz de Chishang sont les marques emblématiques du riz biologique de l'est. Le comté de Taitung produit 90 % des corossols de Taïwan, et le corossol à gros yeux (大目釋迦) a été massivement exporté vers la Chine continentale. La rose de Chine (洛神花), culture traditionnelle autochtone, est transformée en tisane et en confiture vendues dans tout Taïwan. Le millet des Paiwan et des Rukai a fait l'objet de programmes de réhabilitation culturelle et agricole ces dernières années.
+Rice Fuli et Rice Chishang sont des marques de riz biologique emblématiques de Huadong. Taitung produit environ 90 % du longan national ; avant l'interdiction d'importation par la Chine en 2021, 95 % de ces longs étaient exportés en Chine[^10]. La fleur de Luoshen est une culture traditionnelle autochtone, transformée en thé floral et confiture vendus dans tout Taïwan. Les tribus Paiwan et Rukai ont relancé la culture du millet, devenant un indicateur de renaissance tant culturelle qu'agricole.
 
-### La renaissance agricole autochtone
+### Renaissance de l'agriculture autochtone
 
-Ces dernières années, les communautés autochtones, à travers des coopératives de gestion collective, ont renforcé leur pouvoir de négociation face aux circuits de distribution. La réhabilitation de cultures patrimoniales considérées comme « super-aliments » — le quinoa de Taïwan (台灣藜), le pois pigeon (樹豆) — ainsi que les pratiques agroécologiques respectueuses de la nature, constituent les trois axes de la renaissance de l'agriculture autochtone.
+Ces dernières années, les communautés autochtones ont amélioré leur pouvoir de négociation sur le marché en gérant collectivement leurs entreprises via des coopératives tribales. La revitalisation des cultures superalimentaires comme le quinoa et la fève d'arbre, ainsi que les méthodes écologiques en harmonie avec la nature, constituent trois voies de renaissance pour l'agriculture autochtone[^4].
 
 ## Défis et avenir de l'agriculture
 
-L'agriculture taïwanassume des difficultés structurelles : l'âge moyen des agriculteurs dépasse 65 ans, les terres agricoles sont grignotées chaque année par les zones industrielles et résidentielles, et la pression des prix des produits agricoles importés s'intensifie d'année en année. Parallèlement, le changement climatique accroît la fréquence des événements météorologiques extrêmes, les ravageurs migrent vers le nord, et les zones de culture adaptées à certaines espèces se déplacent insidieusement.
+L'agriculture taïwanaise fait face à des difficultés structurelles : l'âge moyen des gestionnaires agricoles est de 64,4 ans (Enquête agricole, forestière et d'élevage de 2020)[^11], les terres agricoles sont progressivement érodées par les zones industrielles et résidentielles, et la pression des prix due aux produits importés ne cesse de s'intensifier. Parallèlement, le changement climatique augmente la fréquence des événements météorologiques extrêmes, déplace l'aire de répartition des parasites vers le Nord, modifiant silencieusement les zones d'adaptation de certaines cultures.
 
 ### Défis structurels
 
-Le changement climatique augmente la fréquence des typhons, des sécheresses et des pluies torrentielles, les lignes de répartition des ravageurs se déplacent vers le nord, et l'intrusion saline menace les terres agricoles côtières. Sur le plan social, l'exode rural des jeunes, l'expropriation des terres agricoles pour l'industrialisation et la concurrence des produits agricoles importés constituent une triple pression sur l'agriculture taïwanassume.
+Le changement climatique entraîne une augmentation de la fréquence des typhons, des sécheresses et des pluies torrentielles, tandis que la ligne de répartition des ravageurs se déplace vers le Nord, menaçant les terres agricoles côtières par l'intrusion d'eau salée. Sur le plan social, l'exode rural des jeunes, la expropriation des terres pour l'industrie et la concurrence des produits importés constituent une triple pression sur l'agriculture taïwanaise.
 
-### Stratégies de transformation
+### Stratégies de transition
 
-Sur le plan technologique, Taïwan introduit l'intelligence artificielle pour la prévision des ravageurs, développe des fermes verticales et des usines végétales, et utilise la blockchain pour établir la traçabilité des produits, permettant aux consommateurs de suivre l'origine et les méthodes de culture de chaque lot agricole.
+Sur le plan technologique, Taïwan introduit la prédiction des parasites par IA, développe les fermes verticales et les usines végétales, et utilise la blockchain pour établir la traçabilité, permettant aux consommateurs de suivre l'origine et le processus de culture de chaque lot.
 
-Sur le plan politique, l'instauration d'un système d'assurance agricole, les subventions à l'installation de jeunes agriculteurs et l'application de la loi sur la vocation agricole des terres constituent les trois piliers de la stabilisation de l'offre agricole. Sur le plan industriel, l'agriculture taïwanassume se transforme vers une agriculture de prestige, et le tourisme agricole et l'économie de l'expérience sont devenus des sources de revenus importantes.
+Au niveau politique, la mise en place d'un système d'assurance agricole, les subventions à l'entrepreneuriat rural des jeunes et l'application stricte du droit foncier sont trois piliers pour stabiliser l'approvisionnement agricole. Sur le plan industriel, la transition de l'agriculture vers une agriculture de niche, ainsi que le tourisme agricole et l'économie expérientielle, sont devenus des sources de revenus importantes.
 
-## L'agriculture taïwanassume dans une perspective mondiale
+## L'agriculture de Taïwan sous un angle mondial
 
-Bien que de taille modeste, l'agriculture taïwanassume revêt une signification internationale en matière de transfert de technologies, de développement durable et de sécurité alimentaire.
+Bien que son échelle ne soit pas grande, l'agriculture taïwanaise revêt une signification internationale dans les domaines de la technologie d'exportation, du développement durable et de la sécurité alimentaire.
 
-En matière de sélection d'orchidées, Taïwan est le premier exportateur mondial de Phalaenopsis. En biotechnologie agricole, ses technologies de fermes verticales et d'usines végétales sont exportées vers le Japon et Singapour. Son système de certification en agriculture biologique et son expérience de développement communautaire rural sont également repris par les ministères de l'agriculture de plusieurs pays d'Asie du Sud-Est.
+En matière de sélection des orchidées, Taïwan est le plus grand exportateur mondial d'orchidées papillon ; en biotechnologie agricole, les usines végétales et les techniques d'horticulture de Taïwan commencent à être exportées à l'étranger ; des groupes techniques agricoles sont stationnés dans des pays amis pour y apporter des connaissances sur la riziculture et l'horticulture.
 
-L'agriculture taïwanassume se transforme, passant du statut de « grenier à blé de Taïwan » à celui d'« île de l'agriculture de précision », misant sur la qualité et la marque pour s'imposer sur des terres limitées, offrant ainsi une trajectoire de transformation viable aux petites économies agricoles d'Asie.
+L'agriculture taïwanaise passe du statut de « grenier » à celui d'« île agricole de précision », triomphant par la qualité et la marque sur un territoire limité, offrant ainsi une voie de transition réalisable aux petites économies agricoles asiatiques.
 
 ## Références
 
-[^1]: Département des statistiques du Ministère de l'Agriculture, [《Annuaire statistique de l'agriculture taïwanassume》](https://agrstat.moa.gov.tw/sdweb/public/book/Book.aspx), 2025.
+[^1]: [Rapport annuel des statistiques agricoles de Taïwan](https://agrstat.moa.gov.tw/sdweb/public/book/Book.aspx) — Bureau des statistiques agricoles, 2025.
 
-[^2]: Ministère de l'Agriculture, [Informations sur les politiques et le développement agricoles](https://www.moa.gov.tw/), incluant 《Histoire du développement agricole de Taïwan》 (2023).
+[^2]: [Informations sur la politique et le développement agricole](https://www.moa.gov.tw/) — Ministère de l'agriculture
 
-[^3]: Gouvernement du comté de Changhua, [Informations sur le développement de l'industrie agricole](https://www.chcg.gov.tw/), incluant 《Rapport sur le développement industriel du grenier à riz du Zhuoshui》 (2024).
+[^3]: [Informations relatives au développement industriel agricole](https://www.chcg.gov.tw/) — Gouvernement du comté de Changhua
 
-[^4]: Gouvernement du comté de Taitung, [Agriculture et développement industriel des peuples autochtones](https://www.taitung.gov.tw/), incluant 《Plan de renaissance de l'agriculture autochtone》 (2025).
+[^4]: [Développement agricole et industriel des peuples autochtones](https://www.taitung.gov.tw/) — Gouvernement du comté de Taitung
 
-[^5]: Administration de l'irrigation agricole du Ministère de l'Agriculture, [Informations historiques sur le système d'irrigation de Jianan](https://www.ia.gov.tw/), incluant 《Centenaire du système d'irrigation de Jianan》 (2020).
+[^5]: [Site officiel](https://www.ia.gov.tw/) — Bureau des terres agricoles et hydrauliques du Ministère de l'agriculture
 
-[^6]: Département de l'Agriculture du comté de Hualien, [Informations sur le développement de l'agriculture biologique de l'est](https://www.hl.gov.tw/), incluant 《Enquête sur la situation actuelle de l'agriculture biologique de l'est》 (2024).
+[^6]: [Site officiel](https://www.hl.gov.tw/) — Bureau agricole du comté de Hualien
+
+[^7]: [« Canal d'irrigation de Chianan »](https://www.ia.gov.tw/zh-TW/media/StoryContent?a=109&id=422&p=2&listid=109) — Bureau des terres agricoles et hydrauliques du Ministère de l'agriculture
+
+[^8]: [« Collection des longsans courants »](https://fae.moa.gov.tw/theme_data.php?theme=topics&sub_theme=knowledge&id=4544) — Plateforme intégrée d'information sur l'éducation alimentaire du Ministère de l'agriculture
+
+[^9]: [« Le leader en surface et nombre d'exploitations agricoles biologiques »](https://info.organic.org.tw/35259/) — Réseau mondial d'information sur l'agriculture biologique
+
+[^10]: [« Le prix s'effondre en Chine, le Ministère encourage le traitement des ananas et longsans de Taïwan »](https://news.ltn.com.tw/news/life/breakingnews/5478936) — Liberty Times, 21 juin 2026 — « Les marchés d'exportation à 95 % sont concentrés en Chine », après la suspension temporaire des importations par la Chine en septembre 2021, les produits ont basculé vers le traitement et la transformation.
+
+[^11]: [« Résultats préliminaires de l'enquête agricole, forestière et d'élevage pour l'année 109 »](https://www.stat.gov.tw/News_Content.aspx?n=3703&s=226901) — Bureau de la planification générale du Conseil exécutif

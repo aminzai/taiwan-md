@@ -1,130 +1,132 @@
 ---
-title: "La cuisine de maître à Taïwan : l'art des plats signatures et la culture des banquets de rue"
-description: "La tshiú-lōo-tshài (手路菜) désigne en taïwanais les plats qui requièrent un vrai savoir-faire — transmis de maître à disciple, sans recette écrite. À Neimen, district de Kaohsiung, une terre trop alcaline pour cultiver quoi que ce soit a paradoxalement forgé la plus haute concentration de maîtres-traiteurs de tout Taïwan. À leur apogée, ils assuraient 25 000 banquets par an. Aujourd'hui, le secteur lutte pour survivre."
+title: 'Les plats de maître (Tshiú-lōo-tshài) : signification, origine et "spécialités" de la culture du *pān-toh*'
+description: 'Le *Tshiú-lōo-tshài* (手路菜), qui signifie "plat signature", est un plat nécessitant une maîtrise technique sans recette standard. Il illustre le savoir-faire des traiteurs de Taïwan, notamment à Neimen, Kaohsiung, où la tradition du *pān-toh* a connu son âge d''or avant de subir un déclin massif.'
 date: 2026-03-31
+category: 'Food'
 tags:
   [
-    'cuisine taïwanaise',
+    'Gastronomie taïwanaise',
     'cuisine traditionnelle',
-    'banquet de rue',
-    'plats signatures',
-    'maître-traiteur',
-    'culture gastronomique',
+    '*pān-toh*',
+    'plats de maître',
+    'traiteur',
+    'culture alimentaire',
   ]
-subcategory: 'Culture gastronomique'
-category: 'Food'
+subcategory: '飲食文化'
 author: 'Taiwan.md'
-readingTime: 8
 featured: true
+lastVerified: 2026-03-31
+lastHumanReview: true
+image: '/article-images/food/sanbeiji-three-cup-chicken.webp'
+imageAlt: 'Poulet aux trois boissons (Sanbei Ji)'
+imageCredit: 'Archon6812 / Wikimedia Commons'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Sanbeiji.jpg'
 translatedFrom: 'Food/台灣手路菜.md'
-lastVerified: 2026-03-31
-sourceCommitSha: 'b0e441fa'
-sourceContentHash: 'sha256:976bf813ab549fe2'
-sourceBodyHash: 'sha256:c76694b44c893f41'
-translatedAt: '2026-06-10T16:45:50Z'
-image: '/article-images/food/sanbeiji-three-cup-chicken.webp'
-imageCredit: 'Archon6812 / Wikimedia Commons'
-lastHumanReview: true
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:9223547d26dcdf04'
+sourceBodyHash: 'sha256:68bfe9c03d05ae36'
+translatedAt: '2026-09-23T22:11:52+08:00'
 ---
 
-> **En 30 secondes :** La _tshiú-lōo-tshài_ (手路菜) — littéralement « le plat de la main experte » — désigne des préparations qui exigent un vrai tour de main : pas de recette standardisée, un savoir transmis oralement de maître à disciple. Son cadre d'expression par excellence est le _pān-toh_, banquet de rue dressé sous chapiteau avec fourneaux installés sur place. Neimen (Kaohsiung), dont les sols calcaires ne permettaient aucune culture, est devenu contre toute attente la capitale taïwanaise des maîtres-traiteurs — au plus fort de leur activité, une seule entreprise organisait 25 000 tables par an. Mais entre l'essor des banquets en hôtel et la crise du COVID-19, les commandes de _pān-toh_ ont fondu de 90 % en vingt ans. Ce qui disparaît avec eux, ce n'est pas seulement une saveur : c'est toute une forme d'entraide de quartier, incarnée par la soupe _tshài-bé_ que l'on portait de porte en porte après chaque fête.
+> **Aperçu en 30 secondes :** Le « _Tshiú-lōo-tshài_ » est l'expression taïwanaise pour "plat signature" [^1], désignant les plats qui requièrent une véritable expertise, n'ont pas de recette standardisée et sont transmis oralement par maîtres et apprentis. Son domaine d'application le plus concentré est le « _pān-toh_ » — la tradition des banquets taïwanais organisés sous tente en bord de route. En raison de la pauvreté du sol, Neimen, Kaohsiung, est devenue une municipalité avec la plus forte densité de traiteurs au pays ; à son apogée, une entreprise de _pān-toh_ y organisait 25 000 banquets par an. Mais des hôtels aux réceptions en période de COVID-19, les commandes de _pān-toh_ ont diminué de neuf décennies en vingt ans, emportant non seulement le goût des plats, mais aussi la solidarité communautaire du « retour des restes » (_hái tshài_).
 
-Au printemps 2020, sur le parvis du temple Zizhu de Neimen, quelques nouvelles bannières ont fleuri : poitrine de porc braisée, velouté d'ailerons de requin, boulettes aux huit trésors. Ce n'était pas une publicité pour un banquet — c'était un maître-traiteur reconverti en marchand ambulant. Xuē Mènghui, 48 ans, remuait ses nouilles sautées au sol ant tout en expliquant à un journaliste de _The Reporter_ : « Maintenant qu'il n'y a plus de banquets, il faut bien survivre ! »[^2]
+Au printemps 2020, sur la place du temple Zizhu à Neimen, Kaohsiung, plusieurs nouvelles bannières ont été dressées, affichant _Fēngròu_ (porc rôti), soupe de lamproies, et boulettes aux huit trésors — ce n'étaient pas des publicités pour des banquets, mais les étals d'un traiteur. Xuè Meng-hui, âgé de 48 ans, faisait frire le _Mǎyì Shàngshù_ (fourmis sur l'arbre) tout en expliquant à un journaliste du _Reporteur_ : « Maintenant qu'il n'y a plus de banquets, nous devons survivre ! » [^2].
 
-La famille Xuē est une véritable dynastie de l'art traiteur à Neimen. Xuē Mènghui a commencé à travailler aux côtés de son père, Xuē Qīngjǐ, dès le lycée — deux générations, plus de cinquante ans d'expérience cumulée. En feuilletant les vieux carnets de travail du père, les pages d'un almanach agricole s'y trouvent entièrement couvertes : 25 000 tables en un an, parfois une dizaine d'événements en une seule bonne journée, les cuisiniers partant avant l'aube, enchaînant le service du midi et celui du soir, sans même savoir s'ils dormiraient quatre heures[^2].
+La famille Xuè est une "dynastie des traiteurs" de Neimen. Xuè Meng-hui a travaillé avec son père, Xuè Qīng-ji, depuis le lycée, accumulant plus de cinquante ans d'expérience sur deux générations. En feuilletant le journal de travail de son père, rempli de calendriers agricoles, on y trouve l'organisation de 25 000 banquets par an ; les grands jours impliquaient une dizaine d'événements en une journée, où le chef partait au petit matin et finissait tard le midi pour la soirée, sans savoir s'il avait dormi quatre heures [^2].
 
-Puis la pandémie de 2020 a tout figé. Le chiffre d'affaires du secteur de la restauration collective et du traiteur extérieur a chuté de 32,3 % en un an[^3]. Les commandes de banquets de rue ont dévissé de 90 %. Xuē Mènghui s'est vu annuler plus de cinq cents tables entre le premier et le deuxième mois du calendrier lunaire, et a dû aller travailler comme extra dans la brasserie d'un ami.
+Mais la pandémie de 2020 a gelé tout cela. Le chiffre d'affaires des services traiteurs et de restauration collective a diminué de 32,3 % par an [^3], et les commandes de _pān-toh_ ont chuté de neuf décennies. Xuè Meng-hui a vu plus de cinq cents banquets annulés en février et mars, et a dû travailler dans une cantine d'amis.
 
-Ce n'était pas la première crise que traversait le secteur — mais ce pourrait être la dernière.
+Ce n'est pas la première crise pour l'industrie du _pān-toh_, mais c'est peut-être la dernière.
 
-## Le _pān-toh_ : la rue comme salle de réception
+## Le _Pān-tō_ : La salle de réception est sur le bord de la route
 
-Le _pān-toh_ (辦桌) est une tradition de banquet héritée de la culture minnanaise, introduite à Taïwan par les vagues successives d'immigration — les premières traces écrites remontent à la période Qing[^4]. Mariages, funérailles, fêtes de temple, anniversaires, fêtes du premier mois d'un nourrisson : la famille invite un maître-traiteur (_zǒngpùshī_) à monter un chapiteau sur la place du temple, dans la cour d'une école ou en pleine rue, à y dresser les fourneaux, et à enchaîner de la découpe des légumes jusqu'au service final en un flux continu.
+Le _pān-tō_ (宴席), est une tradition de banquet issue de la culture Minnan, introduite par les migrants et documentée depuis la période coloniale [^4]. Mariages, funérailles, fêtes de temples (_miào huì_), banquets d'anniversaire lunaire — l'hôte faisait venir le traiteur pour monter une tente sur la place du temple, le terrain scolaire ou au bord de la route, allumant les foyers sur place. De la découpe des légumes au service à table, tout se déroulait en une seule séquence. Contrairement aux restaurants, le _pān-tō_ est régi par des coutumes strictes : le choix des plats, l'ordre du service et l'agencement des sièges sont minutieusement étudiés.
 
-À la différence d'un restaurant, le _pān-toh_ obéit à des codes stricts : choix des plats, ordre de service, disposition des tables — tout est régi par des usages précis.
+Un banquet typique comporte environ douze plats, suivant la structure « introduction, développement, tournant, conclusion » [^5] : les plats froids ouvrent pour accueillir les invités, les soupes réchauffent le gosier, les plats principaux lourds (comme le _hóng xún mǐ gāo_ — riz au homard rôti, le poisson-globe cuit à la vapeur, ou le _fó tiào qiáng_) sont présentés en milieu de repas, et la fin est marquée par du bouillon de poulet, des desserts et des fruits, symbolisant l'achèvement. Chaque plat est un « _Tshiú-lōo-tshài_ » : le riz au homard doit maîtriser le temps de cuisson pour que la glande du crabe pénètre le grain ; le _fó tiào qiáng_ nécessite le traitement séparé de plus de vingt ingrédients avant d'être scellé et mijoté ; le porc rôti doit être homogène en gras et maigre, fondant mais sans s'effriter.
 
-Un banquet classique comprend une douzaine de plats, organisés selon une progression en quatre temps[^5] : des entrées froides pour accueillir les convives, des soupes et bouillons pour réchauffer le palais, puis les grands plats de résistance en milieu de repas — riz gluant aux crabes dormeurs, mérou entier à la vapeur, Fotiaoqiang (佛跳牆, le « bouillon qui fait sauter le Bouddha par-dessus le mur ») — avant une conclusion en douceur avec bouillon de poulet, dessert et fruits frais, symboles d'accomplissement. Chaque plat est un exercice de _tshiú-lōo-tshài_ : avec le riz gluant aux crabes, il faut maîtriser le temps de cuisson à la vapeur pour que la crème de corail s'imprègne bien dans chaque grain ; le Fotiaoqiang exige de préparer séparément plus d'une vingtaine d'ingrédients avant de tout sceller dans un pot en terre et de laisser mijoter ; le porc braisé (封肉) doit être uniformément persillé, fondre en bouche sans se défaire.
+> **📝 Point de vue curatorial :** On dit souvent que le restaurant est une « scène littéraire », tandis que le _pān-tō_ est une « arène martiale ». L'épreuve du traiteur ne réside pas seulement dans la cuisine — quelles que soient les tempêtes ou les ponts détruits, tant que l'hôte n'a pas annulé, il doit accomplir sa mission.
 
-> **📝 Note de la rédaction :** On décrit souvent la cuisine de restaurant comme le « registre lettré » et le _pān-toh_ comme le « registre martial ». L'épreuve d'un maître-traiteur ne se joue pas uniquement sur ses fourneaux — peu importe les tempêtes, les routes coupées, les ponts effondrés, du moment que le commanditaire n'a pas annulé, il doit livrer, quoi qu'il arrive.
+Wang Yi-yong, un chef expérimenté de Tainan, a organisé 120 tables dans une salle scolaire à Kaohsiung. À cinq heures du soir, la pluie est tombée avec violence ; l'eau s'est élevée jusqu'aux chevilles, le feu a été éteint par l'eau, les casseroles ont dérivé sur l'eau, et même plus d'une douzaine de truites prêtes à être cuisinées avaient nagé. Wang Yi-yong a immédiatement coupé la bâche pour évacuer l'eau, a déplacé le matériel sous le toit, s'est retroussé les manches et a capturé des poissons en urgence. Finalement, un poisson manquait, mais il a été compensé par les ingrédients de la table de réserve, et tous les invités ont mangé [^2].
 
-汪義勇 (Wāng Yìyǒng), maître-traiteur chevronné de Tainan, organisait un jour un dîner de 120 tables dans un gymnase de lycée à Kaohsiung, quand une pluie torrentielle s'est abattue à 17h. L'eau montait jusqu'aux mollets, les brûleurs s'éteignaient, les casseroles flottaient — et une dizaine de truites s'étaient échappées à la nage. Il a immédiatement fendu la toile du chapiteau pour évacuer l'eau, déplacé tout le matériel sous l'auvent du bâtiment, retroussé ses manches et commencé par repêcher les poissons. Au final, une truite manquait à l'appel — il l'a remplacée par un ingrédient de réserve. Tous les convives ont mangé à leur faim[^2].
+## Neimen : La patrie des traiteurs sur une terre stérile
 
-## Neimen : la terre ingrate qui a forgé une capitale de la gastronomie
+Neimen, Kaohsiung, est entourée de montagnes ; son sol est un argile blanc fortement alcalin, défavorable à l'agriculture. Avant les années 1960, les résidents vivaient en emballant le bananier de Qishan dans des paniers tressés ; avec la montée du carton bon marché, l'industrie du vannerie a décliné [^2].
 
-Neimen est un district enclavé de Kaohsiung, entouré de montagnes, dont le sol est un calcaire fortement alcalin, hostile à presque toutes les cultures — seul le bambou épineux y résiste. Avant les années 1960, les habitants vivotaient en tressant des paniers de bambou pour emballer les bananes de la région de Qishan ; l'arrivée des cartons ondulés bon marché a sonné le glas de cette activité[^2].
+Mais c'est à cette époque que l'économie taïwanaise a décollé, entraînant une explosion de la demande pour les banquets. Les habitants de Neimen, dont la terre ne produisait rien, ont trouvé une nouvelle voie : cuisiner pour les autres.
 
-Mais dans le même temps, l'économie taïwanaise prenait son envol, et la demande de banquets explosait. Les gens de Neimen, sans rien à cultiver, ont trouvé une nouvelle vocation : cuisiner les fêtes des autres.
+Les temples de Neimen sont denses et bruyants lors des festivités, créant une demande constante pour les réceptions, ce qui a fait prospérer les traiteurs. Xuè Qīng-ji, le père de Xuè Meng-hui, avec son apprenti, un vendeur de poulets et un porcher, ont fondé la société « Si Hé Yī » (Quatre en Un), offrant des services complets : approvisionnement en ingrédients, cuisine, location de tables et chaises [^2]. Après avoir acquis de l'expérience, les chefs indépendants se sont établis, et le potentiel du _pān-tō_ à Neimen a grandi comme une boule de neige, devenant la municipalité avec la plus forte densité de traiteurs au pays, surnommée la « patrie des traiteurs » [^6].
 
-Les temples y sont nombreux et les processions imposantes — à chaque grande cérémonie, il faut nourrir des centaines de convives, ce qui garantissait un flux d'affaires régulier. Le père de Xuē Mènghui, Xuē Qīngjǐ, s'est associé avec ses disciples, un marchand de volailles et un boucher, chacun apportant 20 000 dollars taïwanais, pour fonder l'entreprise « Sihe-yi » (_Quatre-en-un_) : une offre intégrée couvrant l'approvisionnement en ingrédients, la cuisine, et la location de tables et chaises[^2]. Chaque second ou troisième cuisinier formé sur place finissait par ouvrir sa propre structure, et l'énergie collective de Neimen a grossi comme une boule de neige, jusqu'à faire du district la commune la plus dense en maîtres-traiteurs de tout Taïwan — surnommée le « pays natal des maîtres-traiteurs »[^6].
+> **📝 Point de vue curatorial :** L'histoire de Neimen est un récit fréquent de "retournement de situation défavorable" à Taïwan : c'est précisément parce que la terre était stérile et qu'il n'y avait pas d'autre choix, qu'une concentration industrielle a émergé. Le _pān-tō_ a nourri d'innombrables familles, même des résidents de Sulin, à une demi-heure de route, venaient travailler comme aides.
 
-> **📝 Note de la rédaction :** L'histoire de Neimen illustre un paradoxe que l'on retrouve souvent à Taïwan : c'est précisément parce que la terre était stérile, parce qu'il n'y avait pas d'autre option, qu'un véritable pôle de compétences s'est constitué. Les banquets de rue ont fait vivre d'innombrables familles — jusqu'aux habitants de Shanlin, à une demi-heure de route, qui venaient comme assistants (_tsuí-kha_).
+L'Âge d'Or s'étend approximativement de 1988 à 2000. Xuè Meng-hui se souvient que pendant la présidence de Lee Teng-hui, les gens organisaient des banquets non seulement pour les événements traditionnels « Hā Qìng Yī Sāng » (les huit célébrations et un enterrement), mais aussi lorsque les enfants obtenaient un doctorat ou gagnaient à une course de pigeons. Les jours propices du calendrier agricole étaient remplis par le "Hēi Sōng Dà Fàndiàn" (Grand Hôtel Pin Noir) au niveau des temples et sur la route — les tentes en toile des banquets étaient fournies par des entreprises de boissons, arborant des publicités pour le soda Hēi Sōng, devenant un synonyme du _pān-tō_ [^2].
 
-L'âge d'or se situe entre 1988 et 2000 environ. Xuē Mènghui se souvient qu'à l'époque de la présidence de Lee Teng-hui, on ne se contentait plus des huit grands événements familiaux et des deuils pour sortir les fourneaux — l'admission d'un enfant en doctorat, une victoire dans un concours de pigeons voyageurs, tout était prétexte à un festin. Les jours fastes du calendrier lunaire, places de temples et bords de routes disparaissaient sous les chapiteaux que les brasseurs de sodas fournissaient aux traiteurs en échange d'espace publicitaire — ces tentes imprimées au logo de Heysong (黑松汽水), la marque de soda locale, sont devenues le symbole même du _pān-toh_[^2].
+## Le bouillon des restes : l'examen final du traiteur
 
-## La soupe _tshài-bé_ : l'examen de passage du maître-traiteur
+Parmi tous les plats signatures du _pān-tō_, ce n'est ni le _fó tiào qiáng_, ni le riz au homard qui occupe la place la plus élevée — c'est le dernier plat, le « bouillon des restes » (_cài wěi tāng_).
 
-Parmi tous les plats signatures d'un banquet, le plus prestigieux n'est ni le Fotiaoqiang ni le riz gluant aux crabes — c'est le dernier plat, la soupe _tshài-bé_ (菜尾湯).
+Beaucoup pensent que les restes sont juste des aliments non consommés. Huang Wan-ling, une mère de famille de cuisine taïwanaise, a passé trente ans à démentir cette idée. « Comme son nom l'indique, c'est le dernier plat du chef, celui qu'il prépare avant de partir. Il y a soixante ans, personne ne doutait que le bouillon des restes était un plat de récupération ; c'était même un grand plat qui testait la compétence du maître. » [^7].
 
-Beaucoup la prennent pour une soupe de restes. Huang Wanling, la « mère de la cuisine taïwanaise », a passé trente ans à corriger ce malentendu. « Littéralement, c'est "le dernier plat du cuisinier", celui qu'on ne dresse qu'une fois tout le reste terminé. Il y a soixante ans, personne n'aurait songé à qualifier la _tshài-bé_ de plat de restes — c'était au contraire le plat qui révélait le talent du maître. »[^7]
+Un _cài wěi tāng_ authentique nécessite de conserver en amont les ingrédients de sept plats classiques : soupe au porc rôti, légumes-fleurs (Wǔ Liǔ Zhī), porc rôti, bouillon d'épinards et de côtes de porc, ragoût de chou à la morue, bouillon de tripes de porc avec radis blanc, et soupe aux boulettes. Dès que les invités mangeaient le premier plat, le traiteur calculait silencieusement : combien en garder ? Quand le mettre dans la marmite ? Quel ratio utiliser ?
 
-Une vraie _tshài-bé_ suppose que le cuisinier ait préservé, au fil du service, une portion de sept plats emblématiques du répertoire : velouté braisé à la sauce soja, filet de poisson à la sauce aigre-douce, porc braisé entier, soupe de côtes aux pousses de bambou marinées, chou braisé à la seithe séchée, soupe de ventre de porc aux radis, bouillon aux boulettes de poisson[^8]. Dès que le premier plat est servi, le maître-traiteur calcule mentalement en continu — combien réserver, à quel moment mettre sur le feu, comment équilibrer les proportions.
+Le « _jié_ » (kat) du taïwanais signifie harmoniser ou fusionner. Le processus de finition prend quatre à huit heures, avec un brassage constant, des dégustations et des ajustements ; la température, l'humidité, le feu et l'état des ingrédients sont tous jugés en temps réel. Huang Wan-ling a tenté seule une fois, ce qui lui a pris six jours [^7].
 
-En taïwanais, le verbe _kat_ (結) signifie « harmoniser », « assembler ». « Assembler la _tshài-bé_ » prend entre quatre et huit heures : on remue sans cesse, on goûte, on ajuste — la température, l'hygrométrie de l'air, l'intensité du feu, l'état des ingrédients à l'instant T, tout s'apprécie en temps réel. Huang Wanling a elle-même tenté l'expérience en solitaire : il lui a fallu six jours[^7].
+> **💡 Saviez-vous que ?** Le « retour des restes » (_hái tshài_) est le moment le plus humain du _pān-tō_. Après la fin du banquet, l'hôte envoie un homme fort pour distribuer le bouillon des restes aux voisins qui ont aidé. Le mot « _hái_ » (retour) se prononce avec une troisième tonalité, portant les remerciements en s'inclinant. Les voisins cuisinent à nouveau et peuvent ajouter du chou pour faire deux marmites. Si le _cài wěi_ est mal fait, tout le village le sait le lendemain, ce qui affecte directement les affaires du traiteur l'année suivante [^9].
 
-> **💡 Le saviez-vous ?** Le rituel du « retour de la _tshài-bé_ » est le moment le plus humain d'un banquet de rue. Une fois la fête terminée, des hommes vigoureux de la maisonnée portent des seaux de soupe de porte en porte pour remercier les voisins qui ont donné un coup de main. Le mot « retour » (還, prononcé avec le troisième ton en mandarin) porte en lui le geste de la révérence. Les voisins qui la reçoivent la font réchauffer, y ajoutent du chou — une marmite peut en devenir deux. Si la soupe est mal réussie, tout le village le sait dès le lendemain matin, et le carnet de commandes du traiteur pour l'année suivante en souffre directement[^9].
+Huang Wan-ling affirme : « Presque tous les plats taïwanais portent une empreinte migratoire ; seul le bouillon des restes ne l'a pas. C'est un plat adapté à cette terre depuis plus de trois cents ans, c'est la racine de Taïwan. » [^7].
 
-Huang Wanling affirme : « Presque toutes les cuisines taïwanaises portent l'empreinte de l'immigration. La _tshài-bé_ est l'exception — elle est née de cette terre, de ses contraintes et de ses ressources, construite au fil de trois cents ans d'adaptation. C'est la racine de Taïwan. »[^7]
+## Le déclin en vingt ans
 
-## Vingt ans de recul
+La crise de l'industrie du _pān-tō_ n'a pas commencé avec la pandémie. Zhong Yue-chun, secrétaire du syndicat des professionnels de la restauration à Chiayi, a marqué les étapes par trois catastrophes : « 921 (le tremblement de terre) nous a blessés un peu, le SARS en plus de la moitié, et la pandémie de cette année pourrait faire du _pān-tō_ une industrie déclinante. » [^2].
 
-La crise du _pān-toh_ ne date pas du COVID-19. Zhong Yuechun, secrétaire du syndicat de la restauration de Chiayi, balise la chronologie avec trois séismes : « Le tremblement de terre de 921 a fait quelques dégâts. Le SRAS en a fait plus de la moitié. Cette pandémie pourrait être celle qui enterre le métier. »[^2]
+La raison plus fondamentale est le changement de mode de vie. Les réceptions d'hôtel ont remplacé les banquets de bord de route ; les jeunes ne veulent pas apprendre l'art exigeant physiquement du _pān-tō_, et les petites et moyennes entreprises des zones manufacturières, en déclin industriel, ont fait faillite — Xuè Meng-hui raconte qu'un ancien client ne l'a pas appelé pour un banquet de fin d'année pendant deux ans, et il a demandé s'il était fermé [^2].
 
-La cause plus profonde tient aux mutations de la société. Les banquets de mariage ont migré vers les hôtels et les salles de réception fermées ; les jeunes rechignent à apprendre un métier aussi physiquement exigeant ; les PME des zones d'exportation, qui commandaient les dîners de fin d'année de leurs employés, ont fermé les unes après les autres quand la production a été délocalisée sur le continent. Xuē Mènghui raconte qu'un vieux client fidèle n'a pas passé commande deux années de suite — en renseignant, il a appris que l'entreprise avait mis la clé sous la porte[^2].
+> « Nous ne craignons pas seulement cette année, mais aussi que les gens cessent de demander (d'organiser des banquets) par habitude. » — Cai Yu-feng, un opérateur du _pān-tō_ de Tainan [^2]
 
-> « Nous ne nous inquiétons pas seulement pour cette année. Notre vraie crainte, c'est que les gens s'habituent à ne plus commander de _pān-toh_. » — Cài Yùfēng, traiteur à Tainan[^2]
+Cette phrase exprime la plus grande peur de l'industrie du _pān-tō_. La disparition du _pān-tō_ n'est pas seulement une affaire commerciale ; c'est un système social entier : les fêtes des temples stimulent la demande de réceptions, les traiteurs nourrissent les aides et les fournisseurs, et le « retour des restes » maintient les relations de voisinage. Lorsque ce cycle est rompu, ce n'est pas seulement la chaîne industrielle qui est brisée.
 
-Cette phrase dit l'angoisse la plus profonde du secteur. Ce qui disparaît avec le _pān-toh_, ce n'est pas seulement un marché : c'est tout un mode de fonctionnement social. Les fêtes de temple génèrent des banquets, les maîtres-traiteurs font vivre leurs assistants et leurs fournisseurs, le rituel du « retour de la _tshài-bé_ » tisse le tissu de la vie de quartier. Quand cette chaîne se rompt, c'est bien plus qu'une filière qui s'effondre.
+## Les sauveteurs
 
-## Ceux qui luttent pour ne pas oublier
+Quelques personnes s'efforcent de préserver ces saveurs.
 
-Certains se battent pour conserver ces saveurs vivantes.
+Huang Wan-ling voulait au départ être une écrivaine visiteuse, interviewant les vieux traiteurs pour écrire des histoires. Mais le maître a vu son manque d'énergie et a soudainement versé une larme — car personne ne voulait apprendre. Cette larme a changé sa direction : elle est passée de serveuse à suivre plusieurs traiteurs lors de centaines de banquets, s'entraînant intensivement pour maintenir son endurance [^7]. À partir de 2011, elle a publié successivement _Zǒngpūshī Pān-tō_ (Le Banquet du Traiteur), _Āmā De Chúfáng_ (La Cuisine de Grand-mère), _Lǎo Táicài_ (Vieille Cuisine Taïwanaise), _Bǎi Nián Táiwān Gǔzǎo Wèi_ (Saveurs Anciennes de Taïwan sur Cent Ans) et _Táicài Běnwèi_ (Le Goût Authentique de la Cuisine Taïwanaise), préservant les méthodes de la vieille cuisine taïwanaise et les histoires locales par écrit [^10].
 
-Huang Wanling voulait au départ n'être qu'une journaliste et autrice. Elle suivait de vieux maîtres-traiteurs pour recueillir leurs histoires. Puis l'un d'eux, la voyant si maladroite, a soudain fondu en larmes — parce que plus personne ne voulait apprendre. Cette larme a changé le cours de sa vie. Elle a commencé comme simple assistante, a suivi des dizaines de maîtres sur des centaines de banquets, s'est mise à la musculation pour tenir physiquement[^7]. Depuis 2011, elle publie livre après livre — _Le Maître-traiteur et l'art du banquet_, _La Cuisine de grand-mère_, _L'Ancienne cuisine taïwanaise_, _Saveurs centenaires de Taïwan_, _L'Essence de la cuisine taïwanaise_ — autant de monuments écrits qui immortalisent les recettes et les terroirs d'une cuisine en voie de disparition[^10].
+Une autre forme de sauvetage est la transformation commerciale. Le maître A-long de Neimen a transformé le porc rôti et le _fó tiào qiáng_ en paquets sous vide congelés pour l'e-commerce [^11] ; certains traiteurs se sont reconvertis dans les offrandes rituelles, car même sans grands événements, les visites au temple ne cessent pas [^2]. Mais l'expérience du _pān-tō_ — avec sa tente en bord de route, son foyer sur place et ses douze plats suivant la structure introduction/développement/tournant/conclusion — ne peut être reproduite par des paquets congelés.
 
-D'autres choisissent la voie de la transformation commerciale. À Neimen, le maître A-Long emballe sous vide sa poitrine braisée et son Fotiaoqiang pour les vendre en ligne[^11] ; certains traiteurs se sont reconvertis dans les préparations d'offrandes rituelles, car quelle que soit la conjoncture, les cérémonies religieuses, elles, ne s'arrêtent pas[^2]. Mais le chapiteau monté en bord de route, les fourneaux allumés sur place, la progression en douze plats de la soupe froide au bouillon sucré — tout cela, aucun emballage sous vide ne peut le reproduire.
+Le point le plus cruel des plats signatures est ici : c'est un savoir-faire vivant, transmis d'une personne à une autre. Combien de grammes représente une poignée de sel, le moment où passer du feu vif au feu doux, quelle couleur signifie « la bonne couleur » — ces formules ne résident que dans les mains et les yeux du maître. Si l'homme n'est plus là, le plat disparaît.
 
-C'est là toute la cruauté de la _tshiú-lōo-tshài_ : c'est un art vivant, qui ne se transmet que de personne à personne. La poignée de sel — combien de grammes exactement ? Le moment de passer de la grande flamme à la petite — c'est quand ? « La couleur est bonne » — c'est quelle couleur ? Ces formules n'existent que dans les mains et les yeux du maître. Quand il n'est plus là, le plat disparaît avec lui.
+Xuè Meng-hui feuilletait le calendrier agricole rempli par son père, dont les écritures représentaient une période d'or pour cette industrie. Ce qu'il ignorait, c'est que ce journal ne consignait pas seulement des menus et des nombres de tables — il enregistrait comment les Taïwanais d'une époque entière célébraient, remerciaient, et unissaient le village entier avec une marmite de bouillon.
 
-Xuē Mènghui feuillette l'almanach rempli par son père, chaque page une strate de l'âge d'or d'une industrie. Ce qu'il ignore peut-être, c'est que ce carnet ne consigne pas seulement des menus et des décomptes de tables — il enregistre toute une époque, la façon dont les Taïwanais célébraient, remerciaient, et se liaient les uns aux autres autour d'une seule marmite de soupe.
+**Lectures complémentaires :**
 
-**Lectures complémentaires** :
+- [Culture du _pān-tō_ à Taïwan](/fr/food/taiwan-banquet-culture) — Le domaine d'application concentré des plats signatures : du royaume des traiteurs nourri par la terre stérile de Neimen aux connaissances rituelles complètes qui traversent le monde humain, divin et fantomatique.
+- [Chen Yu-xun](/fr/people/chen-yu-hsun-taiwan-comedy-film-magician) — Réalisateur de _Zǒngpūshī_, il a amené les plats techniques menacés d'extinction comme le poulet, la tripe de porc et le tortue sur grand écran.
+- [Culture des fruits de mer à Taïwan](/fr/food/taiwan-seafood-culture) — Le homard, le crabe, le poisson vapeur sur la table principale du _pān-tō_, les liens avec la gastronomie marine taïwanaise.
 
-- [La culture du _pān-toh_ taïwanais](/fr/food/taiwan-banquet-culture) — le théâtre où s'exprime le plus densément la cuisine de virtuose : du royaume des maîtres-traiteurs forgé dans la terre ingrate de Neimen jusqu'à tout un savoir cérémoniel qui enjambe les mondes humain, divin et spectral
-- [Chen Yu-hsun](/fr/people/chen-yu-hsun-taiwan-comedy-film-magician) — réalisateur de _Zone Pro Site_, qui a porté à l'écran ces plats virtuoses au bord de l'oubli comme la _tortue à l'estomac de porc et au poulet_
-- [La culture des produits de la mer à Taïwan](/fr/food/taiwan-seafood-culture) — derrière les crabes rouges, langoustes et poissons cuits à la vapeur des grandes tables de banquet, la généalogie maritime taïwanaise
+## Source d'images
+
+- Héro : Poulet aux trois boissons (Sanbei Ji), photo Archon6812, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sanbeiji.jpg), CC BY-SA 3.0.
 
 ## Références
 
-[^1]: [手路菜 — Dictionnaire usuel de la langue taïwanaise (Ministère de l'Éducation)](https://sutian.moe.edu.tw/zh-hant/su/1118/)
+[^1]: [Plats de maître — Dictionnaire des mots taïwanais du Ministère de l'Éducation](https://sutian.moe.edu.tw/zh-hant/su/1118/) — Voir les informations complémentaires dans le texte source.
 
-[^2]: [Le plus long hiver des maîtres-traiteurs et de leurs assistants — The Reporter](https://www.twreporter.org/a/after-covid-19-fading-taiwan-flavor-roadside-banquet-culture) (2020)
+[^2]: [Le long hiver du traiteur et de l'aide au service — Reporteur](https://www.twreporter.org/a/after-covid-19-fading-taiwan-flavor-roadside-banquet-culture) — (2020).
 
-[^3]: [Statistiques du ministère de l'Économie — chiffre d'affaires de la restauration collective et du traiteur extérieur](https://www.moea.gov.tw/Mns/dos/bulletin/Bulletin.aspx?kind=8&html=1&menu_id=6727&bull_id=7325) (2020)
+[^3]: [Statistiques ministérielles — Chiffre d'affaires des services traiteurs et de restauration collective](https://www.moea.gov.tw/Mns/dos/bulletin/Bulletin.aspx?kind=8&html=1&menu_id=6727&bull_id=7325) — (2020).
 
-[^4]: [Pān-toh — Wikipédia](https://zh.wikipedia.org/zh-tw/%E8%BE%A6%E6%A1%8C)
+[^4]: [Pān-tō — Wikipédia](https://zh.wikipedia.org/zh-tw/%E8%BE%A6%E6%A1%8C) — Article Wikipédia.
 
-[^5]: [Les secrets du _pān-toh_ : menus de banquet, ordre de service et savoir-faire du maître-traiteur — Heho](https://lifestyle.heho.com.tw/archives/60486) (2023)
+[^5]: [Révélations sur la culture du _pān-tō_ : menu, ordre de service et les talents des traiteurs — Heho](https://lifestyle.heho.com.tw/archives/60486) — (2023).
 
-[^6]: [Quand un traiteur nourrit dix mille familles — La légende du _pān-toh_ de Neimen](http://mail.jwsh.tp.edu.tw/~lawfate/a-3.html)
+[^6]: [Une entreprise de banquet pour tous les foyers — Légende du _pān-tō_ de Neimen](http://mail.jwsh.tp.edu.tw/~lawfate/a-3.html) — Voir les informations complémentaires dans le texte source.
 
-[^7]: [Huang Wanling, _L'Essence de la cuisine taïwanaise_ : faire revivre la soupe _tshài-bé_ au bord de l'oubli — 500輯](https://500times.udn.com/wtimes/story/12671/5245108) (2021)
+[^7]: [Huang Wan-ling, avec _Le Goût Authentique de la Cuisine Taïwanaise_, fait revivre le classique "bouillon des restes" menacé d'extinction — 500輯](https://500times.udn.com/wtimes/story/12671/5245108) — (2021).
 
-[^8]: [La _tshài-bé_, ce n'est pas des restes ! La mère de la cuisine taïwanaise enseigne la vraie recette — UDN Orange Generation](https://orange.udn.com/orange/story/121311/5327380) (2021)
+[^8]: [Le bouillon des restes n'est pas des restes ! La mère de la cuisine taïwanaise enseigne un délicieux "bouillon des restes" à partir de 7 plats — United Daily News Orange Generation](https://orange.udn.com/orange/story/121311/5327380) — (2021).
 
-[^9]: [La _tshài-bé_ classique n'est pas une soupe de restes ! Sept plats distincts mijotés quatre heures — ETtoday](https://travel.ettoday.net/article/1913876.htm) (2021)
+[^9]: [Le classique "bouillon des restes" n'est pas des restes ! Ingrédients de 7 plats indépendants mijotés pendant 4 heures — ETtoday](https://travel.ettoday.net/article/1913876.htm) — (2021).
 
-[^10]: [Héros de Taïwan — Huang Wanling, la mère de la cuisine taïwanaise — Liberty Times](https://www.youtube.com/watch?v=P4cjkkQeuxY) (2022)
+[^10]: [Héros taïwanais — La mère de la cuisine taïwanaise Huang Wan-ling — Liberty Times](https://www.youtube.com/watch?v=P4cjkkQeuxY) — (2022).
 
-[^11]: [A-Long, maître-traiteur de Neimen — Rakuten](https://www.rakuten.com.tw/shop/aweisister/)
+[^11]: [Traiteur A-long de Neimen — Rakuten](https://www.rakuten.com.tw/shop/aweisister/) — Voir les informations complémentaires dans le texte source.

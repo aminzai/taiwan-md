@@ -1,128 +1,148 @@
 ---
 title: 'La culture du thé à Taïwan'
-description: "Une petite île exclue des accords internationaux de limitation de la production théicole a ainsi créé son âge d'or du thé, avant de conquérir le monde entier avec une tasse de lait aromatisé garnie de petites « perles »"
+description: "Une petite île exclue du Pacte international de limitation des productions de thé a ainsi créé l'âge d'or de l'industrie du thé, pour finalement conquérir le monde avec une tasse de bubble tea servie avec des « petits pâtés »."
 date: 2026-03-23
 category: 'Food'
 tags:
   [
-    'Culture du thé',
-    'Oolong',
-    'Thé de haute montagne',
-    'Boissons agitées',
-    'Bubble tea',
+    'Alimentation',
+    'culture du thé',
+    'oolong',
+    'thé de montagne',
+    'boissons froides',
+    'bubble tea',
   ]
-subcategory: 'Culture des boissons'
+subcategory: '飲品文化'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
 image: '/article-images/food/formosa-oolong-tea-jacksons.webp'
-imageAlt: 'Emballage de thé oolong de Taïwan portant la mention « Formosa Oolong Tea »'
+imageAlt: 'Emballage de thé oolong « Formosa » de la marque britannique Jacksons of Piccadilly'
 imageCredit: 'Joost J. Bakker  IJmuiden / Wikimedia Commons'
 created: 2026-03-23
 readingTime: 12
+curation: 'incubating'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Jacksons_of_Piccadilly_Formosa_Oolong_Tea_(51878727206).jpg'
 translatedFrom: 'Food/茶文化.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:86475082b87388fc'
-sourceBodyHash: 'sha256:a9375147f15627a6'
-translatedAt: '2026-05-29T00:35:00+08:00'
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:86fb5241b5393f5b'
+sourceBodyHash: 'sha256:add135df68f1784c'
+translatedAt: '2026-09-23T22:11:52+08:00'
 ---
 
 # La culture du thé à Taïwan
 
-> 📝 **En 30 secondes** : La culture du thé taïwanaise a connu trois métamorphoses spectaculaires. Dans les années 1930, son exclusion des accords internationaux de limitation lui permet de faire bondir ses exportations de 3,29 millions à 5,80 millions de kilogrammes par an. Dans les années 1980, un verre de thé noir mousseux redéfinit entièrement la façon de boire le thé. Et en 1987, l'ajout de quelques petites « perles » de tapioca dans un thé au lait glacé donne naissance au bubble tea, symbole ultime du soft power taïwanais à l'échelle mondiale.
+> **Résumé en 30 secondes** : La culture du thé à Taïwan a connu trois retournements spectaculaires : dans les années 1930, exclue du Pacte international de limitation des productions de thé, l'île a connu un essor inattendu, les exportations passant de 3,29 millions de kilogrammes à 5,8 millions ; dans les années 1980, une tasse de thé rouge mousse a redéfini la culture de la boisson ; en 1987, l'ajout de « petits pâtés » (tteok) dans le bubble tea a fini par devenir le symbole de la puissance douce de Taïwan à l'échelle mondiale.
 
-En 1934, lorsque les grandes puissances théicoles — Inde, Sri Lanka et consorts — signent l'Accord international de limitation de la production du thé, personne ne songe que la petite île exclue du pacte allait, précisément grâce à cette mise à l'écart, inaugurer l'une des périodes les plus flamboyantes de l'histoire du thé mondial.
+En 1934, alors que l'Inde, le Sri Lanka et d'autres grands pays producteurs de thé signaient le Pacte international de limitation des productions de thé, personne ne pouvait prévoir que cette petite île exclue du traité lancerait la plus belle ère d'or de l'industrie du thé.
 
-Cette année-là, les exportations de thé noir taïwanais atteignent 3,29 millions de kilogrammes, formant avec le thé Baozhong et l'oolong un triumvirat d'exception. En 1937, ce chiffre s'envole à 5,80 millions de kilogrammes, soit 52 % du total des exportations. Le thé noir de Taïwan ne règne plus seulement en Asie : son parfum voyage jusqu'à Copenhague, à 8 800 kilomètres de distance.
+Cette année-là, les exportations de thé rouge de Taïwan atteignaient 3,29 millions de kilogrammes, rivalisant avec le thé baozhong et le thé oolong. En 1937, ce chiffre avait grimpé à 5,8 millions de kilogrammes, représentant 52 % des exportations de l'année. Le thé rouge de Taïwan ne s'était pas seulement imposé en Asie, il avait même pénétré la capitale danoise de Copenhague, à 8 800 kilomètres de distance.
 
-**Comment une grande puissance théicole oubliée a-t-elle su transformer une contrainte en opportunité ?**
+**Comment une puissance oubliée a trouvé son opportunité dans les contraintes ?**
 
-L'histoire commence avec un marchand japonais.
+Toute cette histoire commence avec un marchand japonais.
 
-## L'innovation refusée : de la Sibérie aux marchés européens
+## L'innovation rejetée : de la Sibérie à l'Europe, la route du thé
 
-En 1906, Taïwan expédie ses premiers lots de thé noir vers la Russie. À la tête de cette aventure : Kode Maesaburo, l'un des négociants les plus légendaires de l'ère Meiji. Né à Kumamoto, il apprend l'art du thé rouge en Chine — à Hankou précisément — maîtrisant le thé en brique pressée, et ouvre même des boutiques de thé en Sibérie. Mais la révolution russe d'octobre 1917 balaie tout : la demande s'effondre, et cette première époque d'exportation du thé noir taïwanais se referme discrètement.
+En 1906, Taïwan commença à exporter sa première cargaison de thé rouge vers la Russie. Curieusement, ce thé était une version très différente de ce que l'on imagine aujourd'hui : le « thé brique rouge », dans lequel les feuilles étaient pressées en forme de briques pour faciliter le transport sur de longues distances vers la Sibérie.
 
-Le gouvernement japonais se tourne alors vers l'Europe. Problème : le thé à petites feuilles de Taïwan manque de puissance pour s'adapter aux palais britanniques et européens. En 1925, la société Mitsui Bussan importe d'Inde des plants d'Assam à grandes feuilles — c'est seulement à partir de là que Taïwan dispose d'un véritable thé noir de type « grandes feuilles ».
+À l'origine de cette entreprise se trouvait Takayama no Min (Takayama no Mitate), un marchand de la période Meiji dont la carrière était parsemée d'épisodes légendaires. Ce natif de Kumamoto avait appris à produire du thé rouge dès son jeune âge, s'était rendu à Hankou en Chine pour étudier les techniques de fabrication du thé brique, et avait même ouvert une boutique de thé en Sibérie. Mais en 1917, la révolution d'octobre en Russie changea tout : la demande de thé roux s'effondra, mettant fin à la première période d'exportation de thé rouge de Taïwan.
 
-**Le renversement de situation arrive de façon tout à fait inattendue.**
+Le gouvernement japonais, peu convaincu, décida de se tourner vers le marché européen. Cependant, le thé roux à petite feuille de Taïwan manquait de force pour convenir aux préférences européennes, dominées par le Royaume-Uni (thé au lait et au sucre). En 1925, la société Mitsui & Co. introduisit des plants d'Assam à feuilles grandes (Camellia sinensis var. assamica) depuis l'Inde, donnant naissance au véritable « thé roux de grande feuille ».
 
-## L'âge d'or accidentel : une île hors des accords
+**Le tournant allait se produire de manière inattendue.**
 
-En 1930, la surproduction mondiale fait s'effondrer les prix du thé noir. Les grands pays producteurs — Inde, Sri Lanka — concluent l'Accord international de limitation, fixant des plafonds de production et d'exportation pour la période 1933-1940.
+## L'âge d'or inattendu : le poisson passant entre les mailles du filet
 
-Taïwan en est exclu. Ce qui ressemble à une relégation au second plan devient la plus grande chance de l'industrie théicole de l'île.
+En 1930, la production mondiale de thé était excessive, entraînant un effondrement des prix. L'Inde, le Sri Lanka et d'autres pays producteurs de thé roux signèrent le Pacte international de limitation des productions de thé, régissant les volumes de production et d'exportation entre 1933 et 1940.
 
-**Pendant que les autres nations productrices freinent, Taïwan peut pousser à fond.**
+Mais Taïwan fut exclue de cet accord — une décision apparemment marginale qui allait devenir la plus grande opportunité de l'industrie du thé de l'île.
 
-Surnommé le « gardien du thé noir taïwanais », Arai Kokichiro arrive à Yuchi en 1936 pour y fonder le Laboratoire expérimental du thé noir de l'Institut central de recherche. Il y bâtit des usines de fabrication industrielle à la façon ceylanaise ; les surfaces cultivées en thé à Yuchi atteignent leur apogée historique de 3 000 hectares.
+**Alors que les autres pays producteurs de thé étaient contraints de réduire leur production, Taïwan pouvait tout simplement tout donner.**
 
-## Du marché export au marché intérieur : le tournant de 1975
+Surnommé le « gardien du thé roux de Taïwan », Xin Jōgijirō (Shin Jōgijirō) arriva à Yuchi en 1936 et y créa l'Institut expérimental de thé roux de l'Académie centrale. Il établit une usine de production de thé à la mode cingalaise, industrialisée et de grande envergure. La superficie cultivée pour le thé roux d'Yuchi atteignit son maximum historique de 3 000 hectares.
 
-1975 marque une rupture décisive dans l'industrie théicole taïwanaise. La crise énergétique mondiale, combinée à l'appréciation du dollar taïwanais, coupe court aux exportations. Le Département de l'agriculture et des forêts se pose alors une question fondamentale : comment amener les Taïwanais eux-mêmes à boire du thé ?
+Durant cette période, la région d'Yuchi devint la berceau du thé roux de Taïwan. En plus d'Yuchi, la région de Hsinchu Guangxi devint également un pôle majeur de production.
 
-**Car à l'époque, les Taïwanais ne boivent guère de thé.**
+## De l'exportation à la consommation intérieure : le tournant de 1975
 
-Les sodas et le café s'étaient imposés bien avant le thé dans les habitudes populaires. Le Département mise alors sur l'argument santé et lance en 1975 une campagne sur les vertus du thé pour la santé. La même année se tient le premier concours de thé de l'après-guerre : le Concours de thé Baozhong de Xindian. En 1982, l'abolition du règlement sur la gestion de la production du thé permet aux agriculteurs taïwanais de produire, transformer et vendre eux-mêmes leur récolte.
+1975 marqua un tournant décisif pour l'industrie du thé de Taïwan. La crise énergétique mondiale et l'appréciation du nouvel an taïwanais menèrent à une interruption des exportations de thé. Le Département de l'Agriculture et des Forêts commença à réfléchiller à une nouvelle question : comment inciter les Taïwanais à boire du thé ?
 
-Dans les années 1980, la Bourse de Taïwan franchit les 10 000 points et l'île entre dans une ère d'abondance. Les salons de thé fleurissent partout, devenus des lieux de parties de cartes, de réunions d'affaires et de rencontres. C'est à cette époque que naissent le Ziteng Lu à Taipei et l'ancêtre du Chun Shui Tang à Taichung.
+**Les Taïwanais, à l'époque, ne boivaient pas vraiment de thé.**
 
-## La révolution froide : du thé mousseux au bubble tea
+Les boissons gazeuses et le café étaient bien plus populaires auprès du grand public que le thé. Seules les classes aisées avaient l'habitude de boire du thé. Le Département décida alors de miser sur la promotion de la santé : des études étrangères montraient que le thé était plus sain que le café. En 1975, il organisa une conférence de presse pour promouvoir les bienfaits du thé pour la santé.
 
-En 1983, une expérience change la culture du thé taïwanaise à jamais.
+La même année, eut lieu la première compétition officielle du thé de Taïwan d'après la restauration : le concours du baozhong de Xinbei. La région de Meishan commença à cultiver des thés de montagne. En 1982, les règles de gestion du thé furent abrogées, permettant aux agriculteurs taïwanais de « produire, transformer et vendre eux-mêmes ».
 
-Liu Hanjie, fondateur du Chun Shui Tang, observe au Japon la technique de préparation du café glacé. Rentré à Taïwan, il demande à un employé d'ajouter des glaçons dans du thé noir par une chaude journée d'été — et s'entend répondre : « Personne ne boit du thé noir froid ! »
+**Les compétitions et la multiplication des marques ont permis des progrès spectaculaires dans les techniques de fabrication des thés oolong de Taïwan.**
 
-Qu'à cela ne tienne. Liu Hanjie achète un shaker à cocktail, y verse thé noir, sucre de canne et glaçons, secoue le tout vigoureusement. Le thé servi à 4 degrés libère ses arômes, la mousse épaisse apporte une texture irrésistible. Le thé noir mousseux — le « bubble black tea » — vient de naître.
+Dans les années 1980, la Bourse de Taïwan dépassait les 10 000 points, entrant dans une ère de « l'abondance débridée ». Les maisons de thé se multipliaient comme des pions après la pluie, devenant des lieux de jeu, de réunions et de rencontres. La maison de thé Zhiyunlou à Taipei et la librairie Yangxian (ancêtre de Spring Water Pavilion) à Taichung furent fondées à cette époque.
 
-**Mais la vraie révolution reste à venir.**
+## La révolution des boissons froides : du thé roux mousse au bubble tea
 
-En 1987, Lin Xiuhui, alors responsable de boutique au Chun Shui Tang, tente lors d'une séance de travail d'ajouter des boules de tapioca — les fameuses « perles » — dans un thé au lait glacé déjà préparé. La proportion dorée du Chun Shui Tang, « 7:2:1 » — thé, glaçons, mousse — devient la formule de référence du bubble tea.
+En 1983, une expérience changea la culture du thé de Taïwan.
 
-Il faut noter qu'un établissement de Tainan, le Han Lin Tea Room, revendique lui aussi la paternité de l'invention. Les deux enseignes se sont affrontées devant les tribunaux pendant dix ans. Le juge a finalement estimé que le bubble tea constituait une nouvelle catégorie de boisson et non un brevet déposé, et qu'il n'était pas nécessaire de désigner un seul « inventeur ».
+Liu Hanjie, fondateur de Spring Water Pavilion, avait observé les techniques de préparation de café glacé lors d'un voyage au Japon. Durant l'été, il demanda à un serveur d'ajouter de la glace à son thé roux, mais fut répondu : « Personne ne boit de thé roux froid ! »
 
-## L'empire des chiffres
+De retour à Taïwan, Liu acheta un mélangeur (un shaker), y ajouta du thé roux, du sucre et de la glace, puis secoua le tout. Le thé, servi à 4 degrés Celsius, libérait une fragrance enivrante, tandis que la mousse dense apportait une texture nouvelle — le « thé roux mousse » vu naître.
 
-L'industrie taïwanaise des boissons à secouer affiche aujourd'hui des dimensions vertigineuses :
+**Mais la véritable révolution allait suivre.**
 
-| Indicateur              | Chiffre                                         |
-| ----------------------- | ----------------------------------------------- |
-| Chiffre d'affaires 2024 | 133,13 milliards de TWD (record historique)     |
-| Nombre de boutiques     | 16 070 (57 % des commerces de boissons du pays) |
-| Rythme d'ouverture      | En moyenne 40 nouvelles boutiques par mois      |
-| Consommation annuelle   | Environ 1 075,04 millions de tasses             |
+En 1987, Lin Xiuxue, alors gérante de Spring Water Pavilion, essayait lors d'une journée de travail d'ajouter des « petits pâtés » (tteok) à son thé glacé au lait. Cette combinaison entre un aliment populaire et un thé onctueux non seulement rompit les barrières entre « boisson » et « collation », mais fut également un énorme succès auprès des clients.
 
-Les habitants de Taichung se distinguent par une consommation particulièrement élevée. Toutes tranches d'âge confondues, les femmes consomment davantage que les hommes ; les femmes de 25 à 34 ans représentent à elles seules environ 20 % de la consommation totale. Côté sucre, plus de la moitié des consommateurs optent pour un niveau faiblement sucré, suivis par les adeptes du sans sucre (39,7 %).
+**La formule magique de Spring Water Pavilion « 7 : 2 : 1 » — thé, glace, mousse — devint l'équilibre standard du bubble tea.**
 
-## La conquête du monde : de Taichung à la planète entière
+Curieusement, la maison de thé Hanlin à Tainan revendiquait également l'invention du bubble tea, et les deux établissements se sont livrés pendant dix ans de batailles juridiques. Le juge décida finalement que le bubble tea constituait une nouvelle catégorie de boisson et non un brevet, rendant inutile la question de savoir qui en était l'inventeur.
 
-Le Chun Shui Tang écoule aujourd'hui en moyenne plus de deux millions de tasses de bubble tea par an. Des enseignes taïwanaises comme 50嵐 (Wushilan), CoCo都可 et 清心福全 (Qingxin Fuquan) poursuivent leur expansion internationale à vive allure.
+## L'empire du thé derrière les chiffres
 
-Le marché mondial des boissons à secouer en Asie-Pacifique a atteint 1,14 milliard de dollars en 2024 ; le Viêt Nam et Taïwan devraient enregistrer les volumes de vente les plus importants. Le marché chinois a quant à lui été multiplié par cinq depuis le début des années 2020.
+Aujourd'hui, le secteur des boissons froides de Taïwan est impressionnant :
 
-## De Formosa Oolong au Bubble Tea
+- **Chiffre d'affaires des boissons froides en 2024 : 13,313 milliards de dollars taïwanais**, un record historique
+- **Nombre total de points de vente : 16 070**, représentant 57 % de tous les établissements de boissons
+- **Vitesse d'expansion : 40 nouveaux points de vente par mois en moyenne**
+- **Consommation annuelle par habitant : environ 107,5 millions de tasses** (à 50 dollars taïwanais la tasse)
 
-À regarder cent cinquante ans d'histoire théicole, la culture du thé taïwanaise révèle une capacité d'adaptation et un esprit d'innovation remarquables.
+**Les habitants de Taichung consomment particulièrement de boissons froides — leur consommation est nettement supérieure à ce que l'indicateur démographique pourrait suggérer.**
 
-En 1869, le négociant britannique John Dodd charge pour la première fois 210 000 jin de « Formosa Oolong » à Dadaocheng à destination de New York. Personne, alors, n'aurait imaginé que cette belle île nommée Formosa conquérait le monde un siècle plus tard avec une simple tasse de thé aux perles.
+Du point de vue du genre, les femmes consomment plus que les hommes dans toutes les tranches d'âge, les femmes de 25 à 34 ans représentant environ 20 % de la consommation totale. En ce qui concerne le niveau de sucre, plus de la moitié des consommateurs optent pour un sucre léger, suivies par les consommateurs sans sucre (39,7 %).
 
-**La vraie pérennité ne tient pas à la garde jalouse de la tradition, mais à la capacité de réinventer sans cesse ce que cette tradition signifie.**
+## La conquête mondiale : de Taichung au monde entier
 
-Le secret du succès de la culture du thé taïwanaise réside peut-être dans cette philosophie du « noyau stable, frontières mobiles ». Du cérémonial du gongfu cha à la culture moderne des boissons à secouer, du « Formosa Oolong » au « Bubble Tea », Taïwan a toujours su trouver l'équilibre entre tradition et innovation.
+Le bubble tea de Spring Water Pavilion vend aujourd'hui plus de deux millions de tasses par an. Mais plus important encore, cette tasse de thé au lait avec des « petits pâtés » est devenue la soft power de Taïwan à l'échelle mondiale.
 
-Ce n'est pas seulement l'histoire d'une tasse de thé. C'est l'histoire d'une île qui, portée par les vagues de la mondialisation, a su préserver son identité culturelle tout en conquérant le monde par la créativité.
+**En 2020, Taïwan comptait plus de 15 000 points de vente de boissons froides, la densité la plus élevée au monde.**
+
+Les marques taïwanaises de boissons froides comme 50 Lan,CoCo et Chun Shun Tea se sont rapidement étendues à l'international, pénétrant les marchés du Sud-Est asiatique, d'Europe et d'Amérique du Nord. Le bubble tea n'est pas seulement le produit phare de Spring Water Pavilion, il est aussi une étape cruciale dans la diffusion de la culture du thé à travers le monde.
+
+Le marché mondial des boissons froides a atteint 1,14 milliard de dollars aux États-Unis en 2024, la Chine et Taïwan prévoyant les volumes de vente les plus importants. Le marché chinois a conblé un taux de croissance près de cinq fois depuis le début des années 2020.
+
+## De Formosa Oolong à Bubble Tea
+
+Revenons sur les 150 dernières années de l'histoire du thé. La culture du thé à Taïwan a démontré une remarquable capacité d'adaptation et d'innovation.
+
+En 1869, le marchand britannique John Dodd transporta pour la première fois 210 000 livres de « Formosa Oolong » du port de Dadaowan à New York. À l'époque, personne ne pouvait imaginer que cette île magnifiquement nommée « Formose » conquerrait le monde un siècle plus tard grâce à une simple tasse de bubble tea.
+
+**La véritable durabilité ne réside pas dans le maintien rigide des traditions, mais dans la capacité à redéfinir sans cesse le sens de ces traditions.**
+
+Le secret du succès de la culture du thé à Taïwan réside peut-être dans cette philosophie : « conserver l'essentiel, adapter les frontières ». Du thé traditionnel servi selon les rituels du gongfu au thé moderne des boissons froides, du « Formosa Oolong » au « Bubble Tea », Taïwan a toujours su trouver l'équilibre entre tradition et innovation.
+
+Il ne s'agit pas seulement de l'histoire d'une tasse de thé, mais de l'histoire d'une île qui, face aux vagues de la mondialisation, a su préserver son identité culturelle tout en conquérant le monde par l'innovation.
+
+## Sources des images
+
+- Héros : emballage de thé oolong « Formosa » de la marque britannique Jacksons of Piccadilly, photographié par Joost J. Bakker IJmuiden, [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Jacksons_of_Piccadilly_Formosa_Oolong_Tea_(51878727206).jpg>)，CC BY 2.0。
 
 ## Références
 
-- [Contexte historique du thé taïwanais - Tea Talk Academy](https://teatalkacademy.com/celebrities/13-tang-jia-hong/152-c3offee2019-05)
-- [L'invention du bubble tea - Site officiel du Chun Shui Tang](https://www.chunshuitang.com.tw/article-detail/invent-bubble-milk-tea/)
-- [La folie des boissons : décryptage des données sur les boissons à secouer à Taïwan - LnData](https://lndatatech.github.io/taiwan-drink/)
-- [Témoin de la transformation économique de Taïwan : le développement du thé taïwanais dans le crépuscule de « Tea Gold » - Agriharvest](https://www.agriharvest.tw/archives/70760)
-- [Thé taïwanais - Wikipédia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E8%8C%B6%E8%91%89)
+- [Contexte historique du thé à Taïwan - Institute of Tea Culture](https://teatalkacademy.com/celebrities/13-tang-jia-hong/152-c3offee2019-05)
+- [L'invention du bubble tea - site officiel de Spring Water Pavilion](https://www.chunshuitang.com.tw/article-detail/invent-bubble-milk-tea/)
+- [La vague des boissons froides : analyser les données derrière la consommation de boissons froides à Taïwan - LnData](https://lndatatech.github.io/taiwan-drink/)
+- [Témoignage du tournant économique de Taïwan dans l'après-guerre : le rayonnement de l'âge d'or du thé - Agrinews](https://www.agriharvest.tw/archives/70760)
+- [Le thé à Taïwan - Wikipédia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E8%8C%B6%E8%91%89)
 
-## Sujets connexes
+## Thèmes connexes
 
-- [Cuisine de rue taïwanaise](/fr/food/taiwanese-street-food)
+- [Cuisine locale de Taïwan](/fr/food/taiwanese-street-food)

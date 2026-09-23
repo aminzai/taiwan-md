@@ -1,135 +1,133 @@
 ---
-title: 'La culture taïwanaise des desserts glacés'
-description: "De la glace à la mangue de Yujing à la révolution de la glace en flocons, explorez la culture unique de Taïwan où l'on mange de la glace même en hiver"
+title: 'La culture des glaces à Taïwan'
+description: 'De la glace au mangue de Yujing à la révolution de la neige glacée, une exploration de la culture unique taïwanaise qui aime manger des glaces même en hiver'
 date: 2026-03-19
-author: 'Taiwan.md Contributors'
 category: 'Food'
+tags: ['glace', 'glace au mangue', 'neige glacée', '*nxi bing*', 'ICE MONSTER']
 subcategory: '烘焙與甜點'
-tags:
-  [
-    'desserts glacés',
-    'glace à la mangue',
-    'glace en flocons',
-    'glace pilée',
-    'ICE MONSTER',
-  ]
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: false
+image: '/article-images/food/taipei-mango-shaved-ice.webp'
+imageAlt: 'Glace au mangue de Taipei'
+imageCredit: 'SuperMidget（English Wikivoyage） / Wikimedia Commons'
 imageLicense: 'Public domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taipei_mangguobing.JPG'
 translatedFrom: 'Food/台灣冰品文化.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:4dac67a4f3297b76'
-sourceBodyHash: 'sha256:aae5f010fab3924f'
-translatedAt: '2026-05-20T05:08:34+08:00'
-image: '/article-images/food/taipei-mango-shaved-ice.webp'
-imageCredit: 'SuperMidget（English Wikivoyage） / Wikimedia Commons'
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:81d7772de9e1a0c6'
+sourceBodyHash: 'sha256:e70fc8ddbfd1ab8c'
+translatedAt: '2026-09-23T22:11:52+08:00'
 ---
 
-# La culture taïwanaise des desserts glacés
+# La culture des glaces à Taïwan
 
-La passion des Taïwanais pour les desserts glacés est sans équivalent dans le monde : même en hiver, lorsque la température ne dépasse pas 10 °C, les glaciers restent bondés. La culture taïwanaise des desserts glacés trouve son origine dans l'introduction des techniques de fabrication de glace durant la période japonaise, puis a traversé la démocratisation de la glace pilée après la Seconde Guerre mondiale, l'innovation technologique de la glace en flocons dans les années 1990, jusqu'à l'expansion internationale de marques comme ICE MONSTER dans les années 2010 — une évolution jalonnée de repères chronologiques précis.
+L'amour des glaces par les Taïwanais est singulier au niveau mondial ; même lorsque la température hivernale n'atteint que 10 degrés, les glaciers sont bondés. La culture des glaces taïwanaises est une histoire d'évolution avec des étapes chronologiques précises : elle trouve ses racines dans l'introduction des techniques de fabrication de glace durant la période coloniale japonaise, passe par la popularisation du _nxi bing_ (glace râpée) après-guerre, puis connaît une rénovation technologique avec la neige glacée (_xuehua bing_) dans les années 1990, avant l'expansion internationale de marques comme ICE MONSTER au cours des années 2010.
 
-## La période japonaise : aux origines de la culture des desserts glacés
+## Période coloniale japonaise : l'origine de la culture des glaces
 
-Les racines de la culture taïwanaise des desserts glacés remontent à la période de domination japonaise (1895-1945). Après que le Japon eut introduit des machines à glace et construit des usines de glace artificielle, la « glace naturelle », autrefois réservée aux classes aisées, devint un produit accessible au grand public. La méthode japonaise du « kakigōri » (かき氷, glace pilée) s'implanta alors — des copeaux de glace finement rasés arrosés de sirop ou accompagnés de pâte de haricots, forme estivale de base pour se rafraîchir. [^6]
+Les racines de la culture des glaces à Taïwan remontent à la période coloniale japonaise (1895-1945). Après que les Japonais aient introduit les machines à faire de la glace et établi des usines de glace artificielle, la « glace naturelle », autrefois réservée aux classes aisées, est devenue un produit de consommation accessible au peuple. La méthode japonaise du _kakigōri_ (glace râpée) a été introduite — où des morceaux de glace fins sont recouverts de sirop ou de pâtisseries en haricots — et est devenue la forme de base pour rafraîchir l'été dans le pays. [^6]
 
-À la fin de la période japonaise, des vendeurs de desserts glacés s'étaient déjà installés de façon permanente dans des villes comme Tainan et Taipei. Les garnitures populaires de l'époque — haricots rouges, herbe aux jujubes (xiān cǎo), sirop d'arachides — se retrouvent aujourd'hui presque à l'identique dans les échoppes traditionnelles de glace pilée. L'industrie glacière naissante ne servait pas uniquement les desserts : elle soutenait aussi les besoins de réfrigération de la pêche taïwanaise sous la colonisation, s'inscrivant dans le processus de modernisation coloniale.
+Des vendeurs de glaces établis étaient déjà présents dans des villes comme Tainan et Taipei à la fin de cette période coloniale. Les ingrédients populaires à l'époque comprenaient les haricots rouges, l'herbe de Xiêncǎo (仙草), et le sirop de cacahuète, des combinaisons qui se perpétuent presque sans changement sur les étals traditionnels du _nxi bing_ d'aujourd'hui. La création de l'industrie de la glace ne fournissait pas seulement des glaces ; elle soutenait également les besoins de réfrigération de la pêche à Taïwan durant cette période coloniale, faisant partie de la modernisation coloniale.
 
-## La mangue de Yujing : une légende sucrée du terroir au monde
+## Le mangue de Yujing : une légende sucrée du terroir au monde
 
-Yujing, dans le sud de Taïwan (Tainan), est surnommée « le berceau de la mangue ». Les mangues Irwin qui y sont cultivées sont réputées dans tout Taïwan pour leur douceur et leur jutosité. Chaque année, de mai à août, la saison des mangues attire des foules de « pèlerins de la mangue » venus goûter la glace à la mangue la plus fraîche qui soit.
+Yujing, à Tainan, est réputé comme le « berceau du mangue », et les mangues Aiwen cultivées ici sont célèbres dans tout le pays pour leur douceur et leur jus abondant. Pendant la saison des mangues de mai à août, Yujing accueille d'importants pèlerins venus déguster la glace au mangue la plus fraîche.
 
-La glace à la mangue de Yujing se distingue par son authenticité : une mangue Irwin entière pelée et coupée en morceaux, arrosée de jus de mangue frais, le tout posé sur de la glace pilée traditionnelle — une simplicité qui atteint la perfection. Cette pureté gustative a fait de la glace à la mangue de Yujing le dessert emblématique de l'été taïwanais.
+La particularité de la glace au mangue de Yujing réside dans l'utilisation de « matières premières authentiques ». Des morceaux de mangue Aiwen entière sont pelés et coupés, nappés de jus de mangue frais, le tout servi avec du _nxi bing_ traditionnel : simple mais extrême. Cette saveur pure a fait de la glace au mangue de Yujing un dessert emblématique de l'été taïwanais.
 
-À partir de Yujing, la glace à la mangue s'est progressivement répandue dans tout Taïwan. Chaque région a développé sa propre version : certaines ajoutent du pudding ou de la gelée pour enrichir la texture, d'autres utilisent différentes variétés de mangues pour créer des saveurs en plusieurs couches, d'autres encore les associent à des produits locaux pour obtenir des saveurs uniques.
+À partir de Yujing, la glace au mangue s'est progressivement propagée dans tout le pays. Chaque région a développé sa propre version : certaines ajoutent du pudding ou de la gelée pour améliorer la texture, d'autres utilisent différentes variétés de mangues pour créer des nuances, et encore d'autres combinent avec des produits locaux pour former un goût unique.
 
-L'émergence d'ICE MONSTER a propulsé la glace à la mangue taïwanaise sur la scène internationale. La marque trouve son origine dans le « Yongkang 15 Bingguan », ouvert en 1995 dans la rue Yongkang, puis rebaptisée ICE MONSTER et transférée sur la route Zhongxiao East Road en 2010. [^1] Sa glace en flocons à la mangue raffinée, servie dans une présentation visuelle innovante, a fait rayonner la marque de Taïwan à Hong Kong, Singapour et Los Angeles, faisant découvrir aux visiteurs étrangers le charme de la glace à la mangue taïwanaise.
+L'arrivée d'ICE MONSTER a propulsé la glace au mangue taïwanaise sur la scène internationale. Son prédécesseur était le « Yongkang 15 Ice House », ouvert en 1995 dans la rue Yongkang, avant d'être renommé ICE MONSTER et déménagé dans la rue Zhongxiao East en 2010. [^1] La neige glacée au mangue raffinée, associée à une présentation visuelle innovante, a permis à la marque de gagner en popularité non seulement à Taïwan, mais aussi à Hong Kong, Singapour et Los Angeles, faisant découvrir le charme de la glace au mangue taïwanaise à un plus grand nombre de visiteurs étrangers.
 
-## La révolution de la glace en flocons : une percée gustative majeure
+## La révolution de la neige glacée : une percée majeure en matière de texture
 
-À la fin des années 1990 et au début des années 2000, le monde des desserts glacés taïwanais a connu la « révolution de la glace en flocons ». La glace pilée traditionnelle, fabriquée à partir de blocs de glace pure, avait une texture grossière et fondait rapidement. La glace en flocons, elle, est obtenue en congelant un mélange de lait, de sucre et d'autres assaisonnements en blocs de glace, puis en les râpant à l'aide d'une machine spéciale pour obtenir des copeaux fins et aériens, d'une texture aussi délicate que des flocons de neige.
+À la fin des années 1990 et au début des années 2000, l'industrie des glaces a connu la « révolution de la neige glacée ». Le _nxi bing_ traditionnel était fabriqué avec de la glace pure, offrant une texture relativement grossière et sujette à la fonte. La neige glacée, en revanche, consiste à congeler des ingrédients comme le lait et le sucre en blocs, puis à les râper finement avec une machine spéciale pour obtenir un fini délicat comme la neige.
 
-Cette innovation technologique a transformé le paysage des desserts glacés à Taïwan. La glace en flocons offre non seulement une texture supérieure, mais se prête aussi plus facilement à la coloration et à l'aromatisation, permettant de créer une grande variété d'effets visuels. Glace en flocons au matcha, au chocolat, à la fraise — chacune possède sa saveur et sa couleur propres.
+Cette innovation technologique a changé le paysage de l'industrie des glaces taïwanaises. Non seulement la texture est meilleure, mais il est également plus facile d'ajouter des couleurs et des saveurs, permettant la création de divers effets visuels. La neige glacée au matcha, celle au chocolat, ou celle aux fraises, chacune possède son propre goût et sa couleur uniques.
 
-Le succès de la glace en flocons a entraîné une modernisation de l'ensemble du secteur. Les glaciers, autrefois simples étals de rue, se sont progressivement transformés en pâtisseries de desserts raffinées. Décoration soignée, service professionnel, offre diversifiée : le dessert glacé est passé du statut de rafraîchissement estival à celui de pâtisserie tendance.
+Le succès de la neige glacée a stimulé l'amélioration de toute l'industrie. Les glaciers sont passés du format traditionnel de bord de route à celui de boutiques de desserts raffinées. La décoration est plus soignée, le service plus professionnel, et les produits plus variés ; la glace est passée d'une petite collation rafraîchissante à un dessert tendance.
 
-Cette innovation taïwanaise s'est effectivement diffusée à l'étranger : les machines et les techniques de glace en flocons ont été introduites au Japon et en Asie du Sud-Est. [^2] Il convient toutefois de préciser que le bingsu (빙수) et le patbingsu (팥빙수) coréens possèdent une tradition longue et indépendante, remontant à l'époque Joseon ; l'essor en 2013 de la marque coréenne « Seolbing (설빙) » relève d'un développement local et non d'une exportation taïwanaise.
+Cette technologie innovante taïwanaise s'est effectivement propagée à l'étranger ; les machines et techniques de neige glacée ont été introduites dans des régions comme le Japon et l'Asie du Sud-Est. [^2] Il convient de préciser que le _bingsu_ (빙수) et le _patbingsu_ (팥빙수) locaux en Corée possèdent une tradition propre et ancienne, remontant à la période Joseon ; l'essor de la marque coréenne « Seolbing » (설빙) en 2013 est un développement local, et non une exportation taïwanaise.
 
-## La glace pilée traditionnelle : mémoire populaire
+## La mémoire populaire du _nxi bing_ traditionnel
 
-Malgré la popularité croissante de la glace en flocons, la glace pilée traditionnelle occupe toujours une place importante dans le cœur des Taïwanais. Sa texture de glace brute et le choix varié de garnitures constituent une image figée de l'été de l'enfance pour beaucoup.
+Bien que la neige glacée soit très à la mode, le _nxi bing_ traditionnel conserve une place importante dans le cœur des Taïwanais. Cette texture de glace rustique et la variété des garnitures sont des images figées de l'enfance estivale pour beaucoup.
 
-Les échoppes traditionnelles de glace pilée proposent généralement une dizaine de garnitures : haricots rouges, haricots mungo, graines de coix, herbe aux jujubes (xiān cǎo), gelée d'awabi (àiyu), perles de tapioca, boules de taro, etc. Les clients peuvent les combiner librement pour créer leur propre saveur unique. Ce concept de « personnalisation » a devancé de plusieurs décennies les services modernes de personnalisation.
+Les étals traditionnels de _nxi bing_ proposent généralement plus d'une douzaine de choix d'ingrédients : haricots rouges, fèves vertes, riz d'orge (yiren), herbe de Xiêncǎo, lotus, perles sucrées (_fenyuan_), perles de taro (_yuyuan_), etc. Les clients peuvent les combiner librement pour créer leur propre saveur unique. Ce concept de « personnalisation » est apparu des décennies avant le service personnalisé moderne.
 
-Les stands de glace pilée dans les marchés nocturnes (夜市的夜市) sont un symbole important de la culture taïwanaise. Par une nuit d'été étouffante, un bol de glace pilée rafraîchissante peut instantanément dissiper la fatigue de la journée. Les gestes assurés du vendeur — raser la glace, ajouter les garnitures, verser le sirop — ressemblent à un véritable spectacle.
+Les étals de _nxi bing_ dans les marchés nocturnes sont un symbole important de la culture taïwanaise. Durant une chaude nuit d'été, un bol de _nxi bing_ rafraîchissant peut instantanément dissiper la fatigue de la journée. Les mouvements du vendeur — râper la glace avec habileté, ajouter les garnitures, arroser de sirop — ressemblent à un spectacle captivant.
 
-Ces dernières années, certaines enseignes historiques de glace pilée ont lancé une tendance rétro, mettant l'accent sur le savoir-faire artisanal traditionnel et la nostalgie. Cette « glace pilée rétro » attire non seulement les clients âgés en quête de souvenirs, mais permet aussi aux jeunes de découvrir le charme des desserts glacés traditionnels.
+Ces dernières années, certains vieux magasins de _nxi bing_ ont commencé une tendance au retour aux sources, en mettant l'accent sur le travail artisanal traditionnel et le sentiment nostalgique. Ce « _nxi bing_ vintage » attire non seulement les clients âgés nostalgiques, mais permet également aux jeunes de découvrir le charme des glaces traditionnelles.
 
-## Le phénomène culturel de la consommation de glace en hiver
+## Le phénomène culturel de manger des glaces en hiver
 
-L'habitude qu'ont les Taïwanais de manger de la glace en hiver déconcerte souvent les étrangers. Même lorsque la température ne dépasse pas une dizaine de degrés, les glaciers restent florissants. Ce phénomène s'explique par des facteurs culturels et psychologiques.
+L'habitude des Taïwanais de manger des glaces en hiver laisse souvent perplexes les étrangers. Même lorsque la température n'est que de 10 degrés, les glaciers prospèrent. Ce phénomène repose sur des facteurs culturels et psychologiques.
 
-D'abord, la généralisation du chauffage intérieur. Les centres commerciaux, restaurants et bureaux taïwanais sont généralement chauffés, offrant une température intérieure confortable. Déguster un dessert glacé dans un espace chaud ne provoque aucune sensation de froid.
+Premièrement, la généralisation du « chauffage intérieur ». Les centres commerciaux, restaurants et bureaux à Taïwan sont généralement chauffés, offrant une température intérieure confortable. Manger des glaces dans un environnement chaud ne provoque pas de froid.
 
-Ensuite, le besoin de régulation émotionnelle. La saveur sucrée et rafraîchissante des desserts glacés procure une sensation de plaisir, particulièrement dans la vie moderne stressante. Quelle que soit la saison, les gens ont besoin de ces petits bonheurs.
+Deuxièmement, le besoin de « régulation émotionnelle ». Le goût sucré et frais des glaces procure un sentiment de plaisir, particulièrement dans la vie moderne souvent stressante. Quel que soit le temps, les gens ont besoin de ce petit bonheur.
 
-Le « besoin social » est également central. Manger de la glace entre amis est devenu une activité sociale à part entière à Taïwan. Quel que soit le temps, cette pratique sociale se poursuit.
+Le « besoin social » est également au cœur du sujet. Manger des glaces avec des amis est devenu une activité sociale pour les Taïwanais. Ce modèle social se maintient quelles que soient les conditions météorologiques.
 
-Par ailleurs, le climat hivernal de Taïwan est relativement doux, sans rigueur comparable à celui des régions nordiques. Dans ces conditions climatiques, manger de la glace en hiver n'est pas un comportement extrême.
+De plus, le climat hivernal à Taïwan est relativement doux, contrairement aux régions du Nord. Dans ces conditions climatiques, manger des glaces en hiver n'est pas un acte extrême.
 
-## Enseignes emblématiques : des maisons historiques aux nouvelles marques
+## Les glaciers emblématiques : des établissements anciens aux nouvelles marques
 
-Chaque génération à Taïwan a eu ses glaciers emblématiques. Le **Ming Ji Bingguoshi** à Tainan et les stands historiques de glace pilée autour des marchés locaux font partie du quotidien des habitants, nombre d'entre eux se transmettant depuis trois générations ; le **Xing Fating Mibendong Benpu** à Taichung, célèbre pour sa glace aux haricots au miel, attire des files d'attente même en hiver. À Taipei, **Never Ice Cream (蜷尾家)** incarne la nouvelle voie de la glace artisanale haut de gamme, avec des saveurs limitées à base d'ingrédients locaux et une stratégie de marque volontairement discrète, attirant l'attention des médias internationaux à partir des années 2010.
+Chaque génération de Taïwan possède ses glaciers emblématiques. **Mingji Ice Fruit House** (明記冰果室) à Tainan et les vieux étals de _nxi bing_ autour des marchés locaux sont une routine pour les habitants, beaucoup étant transmis sur trois générations ; **Xingfa Ting Honey Bean Ice Shop** (幸發亭蜜豆冰本舖) à Taichung est célèbre pour sa glace au haricot miel et attire toujours de longues files en hiver. À Taipei, **Never Ice Cream** (蜷尾家) représente la nouvelle voie des glaces artisanales haut de gamme, attirant l'attention des médias internationaux après les années 2010 grâce à ses saveurs limitées utilisant des ingrédients locaux et son approche discrète de marque.
 
-Dans l'est de l'île, le **Zhenyu Yubingcheng** à Hualien est un passage obligé pour chaque touriste, célèbre pour ses bâtonnets de glace à la vraie patate douce et sa série à la purée de taro ; le **Liqiao Bing** (enseigne historique de l'est de Tainan) est quant à lui considéré comme un « lieu de pèlerinage » par les amateurs de desserts glacés du sud, la glace aux haricots mungo et la glace à la farine de blé grillé (miàn chá) étant les joyaux de la maison. Le point commun de ces enseignes historiques : aucune chaîne, aucun budget marketing, mais une réputation bâtie de génération en génération. [^3]
+**Zhenyu Taro Ice City** (花蓮振宇芋冰城) dans le Est est un lieu incontournable pour chaque visiteur, célèbre pour sa glace en bâtonnet de taro authentique et sa série à base de purée de taro ; **Liaqiao Bing** (立橋冰), l'ancien magasin du district Est à Tainan, est considéré comme un « site de pèlerinage » par les amateurs de glaces du Sud. La glace aux fèves vertes (_lǜdòu bīng_) et la glace au thé à farine (_miánchá bīng_) sont ses spécialités. La caractéristique commune de ces établissements anciens est : pas de franchise, pas de budget marketing, ils se maintiennent grâce à la réputation générationnelle. [^3]
 
-## Le développement diversifié des spécialités glacées locales
+## Le développement diversifié des glaces régionales
 
-Chaque région de Taïwan a développé sa propre culture des desserts glacés. La glace à l'ail de Yilan, la glace Fengren de Taichung, la glace à la galette de sésame (pǐng bǐng) de Tainan, la glace à la patate de Hualien — chaque localité possède ses créations caractéristiques.
+Chaque région de Taïwan a développé sa propre culture des glaces. Les glaces au yaourt aromatisé (suànwèi bīngqílín) d'Yilan, la glace à _fengren_ de Taichung, la glace au pain de _pēngbǐng_ de Tainan, et la glace aux patates douces de Hualien sont toutes des créations régionales uniques.
 
-Ces spécialités glacées locales associent souvent des ingrédients du terroir et des éléments culturels. Ainsi, la glace au kaoliang de Kinmen intègre la culture locale de l'alcool de sorgho dans un dessert glacé. Les bâtonnets de glace au vin vieux de Matsu relèvent d'un concept similaire.
+Ces glaces locales combinent souvent des ingrédients locaux et des éléments culturels. Par exemple, la glace à l'alcool de Kinmen intègre la culture du _kaoliang_ (alcool fort) local dans le produit. Les bâtonnets glacés au vieux alcool de Mazu suivent un concept similaire.
 
-La culture des desserts glacés dans les villages autochtones présente également des caractéristiques distinctives. Les glaces préparées avec des ingrédients traditionnels autochtones — millet, quinoa de Taïwan (hóng lí), fougère autochtone (shān sū) — offrent non seulement des saveurs uniques, mais perpétuent aussi la alimentaire autochtone.
+La culture des glaces des tribus autochtones est également particulière. Les glaces fabriquées avec des ingrédients traditionnels autochtones comme le millet, le quinoa rouge ou l'herbe _shansu_ (山蘇) ne sont pas seulement uniques en goût, mais perpétuent également la culture alimentaire autochtone.
 
-Ce développement décentralisé confère à la carte des desserts glacés taïwanais une identité locale marquée et renforce l'attrait touristique.
+Ce développement autonome fait que la carte des glaces de Taïwan présente une coloration régionale marquée, ce qui augmente l'attrait touristique.
 
 ## Conscience sanitaire et tendances innovantes
 
-Avec la montée de la conscience sanitaire, les desserts glacés taïwanais évoluent vers des options plus saines. Les glaces à faible teneur en sucre, les glaces sans sucre et celles utilisant des édulcorants naturels commencent à attirer l'attention.
+Avec l'augmentation de la conscience sanitaire, les glaces taïwanaises évoluent également vers des directions plus saines. Les glaces à faible teneur en sucre, sans sucre ajouté, ou utilisant des édulcorants naturels commencent à attirer l'attention.
 
-Les glaces aux fruits sont particulièrement prisées. La douceur naturelle et la richesse nutritionnelle des fruits frais répondent aux attentes de santé des consommateurs modernes. Glace au fruit de la passion, glace au kiwi, glace à l'avocat — toutes sont devenues des choix populaires.
+Les glaces à base de fruits sont particulièrement populaires. La douceur naturelle et la richesse nutritionnelle des fruits frais répondent aux besoins modernes. La glace au passion, à la kiwi, ou à l'avocat sont devenues des choix populaires.
 
-L'utilisation d'ingrédients biologiques est également une tendance. Lait biologique, fruits biologiques, colorants naturels — autant d'éléments qui rendent les glaces à la fois délicieuses et plus rassurantes.
+L'utilisation d'ingrédients biologiques est également une tendance. Le lait biologique, les fruits biologiques, les colorants naturels rendent les glaces plus sûres tout en restant délicieuses.
 
-Le concept de glaces fonctionnelles commence aussi à émerger. Des glaces enrichies en collagène, vitamines ou probiotiques associent plaisir et bien-être.
+Le concept de glaces fonctionnelles commence également à apparaître. Les glaces enrichies avec des ingrédients nutritifs comme le collagène, les vitamines ou les probiotiques combinent plaisir et santé.
 
-## Internationalisation et exportation de marques
+## Internationalisation et exportation de marque
 
-L'internationalisation des marques taïwanaises de desserts glacés s'accélère. Outre ICE MONSTER, de nombreuses autres marques commencent à conquérir les marchés étrangers. Elles exportent non seulement des produits, mais aussi la culture taïwanaise des desserts glacés.
+Les pas vers l'internationalisation des marques de glaces taïwanaises s'accélèrent. Outre ICE MONSTER, de nombreuses marques commencent à pénétrer les marchés étrangers. Ces marques exportent non seulement des produits, mais aussi la culture des glaces taïwanaises.
 
-Les glaciers taïwanais à l'étranger deviennent souvent des lieux de rassemblement pour les communautés chinoises locales, ainsi que des vitrines permettant aux étrangers de découvrir la culture taïwanaise. Par cette diplomatie culinaire, les desserts glacés taïwanais sèment des graines culturelles à travers le monde.
+Dans les glaciers taïwanais à l'étranger, ils deviennent souvent des lieux de rassemblement pour les Chinois locaux et une fenêtre permettant aux étrangers d'expérimenter la culture taïwanaise. Par la diplomatie gastronomique, les glaces taïwanaises sèment des graines culturelles dans le monde entier.
 
-L'exportation technologique constitue également un axe de développement important. Machines à glace en flocons, techniques de fabrication de glace, recettes de garnitures — autant de débouchés pour des licences à l'étranger. Taïwan est en train de passer du statut de pays consommateur de desserts glacés à celui de pays exportateur de technologies et de culture glacière.
+L'exportation technologique est également une direction de développement importante. Les machines à neige glacée, les techniques de fabrication de glace et les formules d'ingrédients sont toutes des opportunités commerciales sous licence à l'étranger. Taïwan est en train de passer d'un pays consommateur de glaces à un exportateur de technologie et de culture liées aux glaces.
 
-La logique profonde de la culture taïwanaise des desserts glacés est la suivante : à chaque époque, quelqu'un a su transformer les ingrédients les plus accessibles du moment en langage glacé — la machine à glace de l'ère coloniale japonaise, le chariot de glace pilée de l'après-guerre, la machine à glace en flocons des années 1990, les sources de lait artisanales des années 2010. Les formes changent, mais la dévotion à la glace reste inchangée.
+La logique fondamentale de la culture des glaces taïwanaises est la suivante : à chaque époque, quelqu'un a transformé les ingrédients le plus facilement disponibles en langage de glace — les machines de la période coloniale japonaise, les chariots _nxi bing_ d'après-guerre, les machines à neige glacée des années 1990, et les produits laitiers haut de gamme des années 2010. La forme change, mais l'obsession de manger de la glace ne change pas.
+
+## Sources d'images
+
+- Héros : Glace au mangue de Taipei, photo SuperMidget (English Wikivoyage), [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taipei_mangguobing.JPG), domaine public.
 
 ## Références
 
-[^1]: [Site officiel de la marque ICE MONSTER](https://www.icemonster.com.tw/) — Historique de la marque, incluant la fondation du « Yongkang 15 Bingguan » en 1995, le changement de nom et le déménagement en 2010.
+[^1]: [Site officiel de la marque ICE MONSTER](https://www.icemonster.com.tw/) — Histoire de la marque, incluant l'établissement du Yongkang 15 Ice House en 1995 et le changement de nom et déménagement en 2010.
 
-[^2]: [Page officielle « Cuisine taïwanaise » de l'Administration du tourisme du ministère des Transports](https://www.taiwan.net.tw/) — Présentation des desserts glacés emblématiques de Taïwan, incluant la glace à la mangue et la glace en flocons.
+[^2]: [Page officielle « Gastronomie Taïwanaise » du Ministère du Tourisme](https://www.taiwan.net.tw/) — Présentation des glaces représentatives de Taïwan, incluant les rubriques glace au mangue et neige glacée.
 
-[^3]: [CNN Travel : reportage sur la glace à la mangue taïwanaise](https://edition.cnn.com/travel) — Couverture médiatique internationale par CNN de la glace à la mangue taïwanaise, citant ICE MONSTER et la glace à la mangue de Yujing comme cas représentatifs.
+[^3]: [CNN Travel : Reportage sur la glace au mangue à Taïwan](https://edition.cnn.com/travel) — Couverture médiatique internationale par CNN sur la glace au mangue taïwanaise, citant ICE MONSTER et la glace au mangue de Yujing comme exemples représentatifs.
 
-[^4]: [Lonely Planet Taiwan : Food Guide](https://www.lonelyplanet.com/taiwan) — Présentation de la culture des desserts glacés taïwanais et recommandations d'enseignes dans un guide touristique international.
+[^4]: [Lonely Planet Taiwan : Guide alimentaire](https://www.lonelyplanet.com/taiwan) — Présentation et recommandations d'établissements sur la culture des glaces taïwanaises par un guide touristique international.
 
-[^5]: [Wikipédia : ICE MONSTER](https://zh.wikipedia.org/wiki/ICE_MONSTER) — Historique de la marque ICE MONSTER, son prédécesseur « Yongkang 15 Bingguan » et ses informations d'expansion internationale.
+[^5]: [Wikipédia : ICE MONSTER](https://zh.wikipedia.org/wiki/ICE_MONSTER) — Histoire de la marque ICE MONSTER, son prédécesseur « Yongkang 15 Ice House » et ses expositions internationales.
 
-[^6]: [Kakigōri — Wikipédia](https://zh.wikipedia.org/wiki/%E5%89%89%E5%86%B0) — Origines de la culture japonaise de la glace pilée et contexte historique de son introduction à Taïwan durant la période de domination japonaise, ainsi que l'évolution des garnitures de la glace pilée traditionnelle taïwanaise.
+[^6]: [Kakigōri — Wikipédia](https://zh.wikipedia.org/wiki/%E5%89%89%E5%86%B0) — Origine de la culture de la glace râpée au Japon et le contexte historique de son introduction à Taïwan durant la période coloniale, ainsi que l'évolution des ingrédients du _nxi bing_ traditionnel taïwanais.
 
-## Pour aller plus loin
+## Lectures complémentaires
 
-- [ICE MONSTER](https://www.icemonster.com.tw/) — Site officiel de la marque emblématique de glace en flocons à la mangue de Taipei
-- [Coopérative agricole de Yujing](/food/玉井芒果) — Présentation de la région de production des mangues Irwin de Yujing, Tainan
+- [ICE MONSTER](https://www.icemonster.com.tw/) — Site officiel de la marque de neige glacée au mangue de Taipei
+- [Coopérative agricole de Yujing](/food/玉井芒果) — Présentation de la zone de production des mangues Aiwen à Tainan
