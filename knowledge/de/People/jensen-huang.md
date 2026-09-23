@@ -3,19 +3,20 @@ title: 'Jensen Huang'
 description: 'Von einem Internat in Kentucky zum Fünf-Billionen-Dollar-Imperium – wie ein Junge aus Tainan, der Toiletten putzte, auf eine Zukunft setzte, die erst zehn Jahre später eintreffen würde.'
 date: 2026-03-25
 category: 'People'
-subcategory: '科技與企業'
 tags:
   ['Jensen Huang', 'NVIDIA', 'KI', 'Halbleiter', 'Technologie', 'Tainan', 'GPU']
+subcategory: '科技與企業'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-06-22
 lastHumanReview: false
-image: '/article-images/technology/computex-jensen-huang-2016.webp'
 researchReport: 'reports/research/2026-06/黃仁勳-evolve.md'
+image: '/article-images/technology/computex-jensen-huang-2016.webp'
 translatedFrom: 'People/黃仁勳.md'
-sourceCommitSha: '09c1bf1a9'
-sourceContentHash: 'sha256:e62ee5ac2a228853'
-translatedAt: '2026-08-19T01:43:13+08:00'
+sourceCommitSha: '0df538d8c'
+sourceContentHash: 'sha256:28ebca4abc1527e4'
+sourceBodyHash: 'sha256:2ae685b1d23ee474'
+translatedAt: '2026-09-23T13:52:03.750532+00:00'
 ---
 
 # Jensen Huang
@@ -133,26 +134,27 @@ Curtis Priem erinnerte sich: „Wir haben schon am ersten Tag auf Jensen gehört
 
 Gefragt, wie er die Jahre ohne sichtbares Ende durchgestanden habe, antwortete er ganz in seinem Stil: Dazwischen liegt viel Schmerz, aber man muss an das glauben, woran man glaubt (There's a lot of suffering in between, but you've gotta believe what you believe)[^18]. Dieser Satz könnte als Anmerkung für seine gesamte Karriere stehen – vom Toilettenputzen und Abwaschen über die Sackgasse der Vierecks-Renderings bis zum sechzehnjährigen Warten auf CUDA: Was ihn anders machte, war, dass er in den über zehn Jahren, in denen die Wette noch nicht eingelöst war, nie losließ.
 
-## Der Toilettenputzer und sein NVIDIA-Tattoo
+## Der Mann, der in Toiletten putzt, und sein NVIDIA-Tattoo
 
-2024 wurde Jensen Huang Ehrendoktor der National Taiwan University, von _The Economist_ zum CEO des Jahres gekürt und ins _TIME_-Ranking der 100 einflussreichsten Personen aufgenommen. 2025 erhielt er zusammen mit NVIDIAs Chefwissenschaftler Bill Dally den Queen Elizabeth Prize for Engineering – gemeinsam mit den KI-Pionieren Geoffrey Hinton, Yann LeCun und Fei-Fei Li, verliehen von König Charles III. im St. James's Palace[^12].
+Im Jahr 2024 erhielt Jensen Huang einen Ehrendoktorgrad von der National Taiwan University, wurde vom _Economist_ zum CEO des Jahres und landete in den Top 100 einflussreichster Persönlichkeiten von _Time_. Im Jahr 2025 erhielt er zusammen mit dem NVIDIA-Chief Scientist Bill Dally den Queen Elizabeth Prize for Engineering und stand neben KI-Pionieren wie Geoffrey Hinton, Yann LeCun und Fei-Fei Li, bei der Königin Charles III. im St. James's Palace verliehen[^12].
 
-2026 wird er von vielen Medien direkt als „KI-Papst“ bezeichnet; jede öffentliche Rede gilt als Gradmesser der gesamten Branche, selbst welche Lederjacke er trägt und was er an welchem Nachtmarkt-Stand gegessen hat, schafft es in die Schlagzeilen. Ein Ingenieurstudent, der mit sechzehn zwei Klassen übersprungen hatte und noch wie ein Kind aussah, ist an einen Ort gelangt, an dem die ganze Welt die Ohren spitzt, wenn er spricht. Und seine Antwort darauf bleibt dieselbe: jede Saison zurück nach Taiwan fliegen, sich in die Imbissstände von Tainan setzen und auf Taiwanesisch mit den Besitzern schwatzen.
+Im Jahr 2026 wurde er von vielen Medien direkt als „AI-Guru“ bezeichnet; jeder öffentliche Vortrag galt als Indikator für die gesamte Branche. Selbst seine Auswahl an Lederjacken oder was er auf einem Nachtmarkt gegessen hatte, landete in den Schlagzeilen. Ein Ingenieurstudent, der mit sechzehn Jahren zwei Jahrgänge übersprungen und noch wie ein Kind aussah, war zu dem Punkt gelangt, an dem die ganze Welt gespannt zuhörte. Seine Antwort darauf blieb jedoch dieselbe: Er flog jedes Quartal nach Taiwan zurück, schlich in kleine Essensstände in Tainan und argumentierte mit den Besitzern auf Taiwā (Taiwanese Dialekt).
 
-Doch unter allen Titeln gibt es ein Detail, das vielleicht besser erklärt, wer er ist. Als der Marktwert von NVIDIA die Billionen-Marke durchbrach, löste er sein Versprechen an die Mitarbeiter ein und ließ sich das NVIDIA-Logo auf den Arm tätowieren.
+Doch abgesehen von all seinen Titeln gibt es ein Detail, das vielleicht besser erklärt, was für ein Mensch er ist. Als der NVIDIA-Marktwert die Billionen-Dollar-Marke durchbrach, erfüllte er sein Versprechen an seine Mitarbeiter und tätowierte das NVIDIA-Logo auf seinem Arm.
 
-Jensen Huangs Arm trägt heute ein Tattoo eines Firmenlogos. Sein zehnjähriger Mitbewohner, dessen Körper von Tätowierungen bedeckt war, brachte ihm Gewichtheben bei; Huang brachte ihm Lesen bei. Das ist ziemlich sicher der Deal mit dem höchsten ROI in seinem Leben.
+Jensen Huang hat nun eine Unternehmensmarke als Tattoo auf dem Arm. Sein Mitbewohner aus seiner Kindheit, der selbst tätowiert war, brachte ihm beim Gewichtheben bei, während ein Klassenkamerad ihm das Lesen lehrte. Dieser Deal fand fünfzig Jahre später statt und ist wahrscheinlich die rentabelste Investition in seinem Leben (ROI).
 
 ---
 
 **Weiterführende Lektüre**:
 
-- [Chang Chun-ming (Morris Chang)](/people/張忠謀) — der wichtigste Kooperationspartner von NVIDIA und Gründer von TSMC; die über dreißig Jahre alte Freundschaft der beiden bindet die globale KI-Lieferkette
-- [Taiwanesische Unternehmen: TSMC](/economy/台灣企業：台積電) — das taiwanesische Unternehmen, das NVIDIAs fortschrittlichste Chips herstellt, von Huang der „Held der Welt“ genannt
-- [Taiwanesische Halbleiterindustrie](/technology/半導體產業) — die Chips von Huang und Lisa Su werden auf dieser Insel produziert; das ist Taiwans Silicon Shield
-- [NVIDIA in Taiwan: Das teuerste Unternehmen der Welt, ohne einen einzigen selbst gefertigten Chip](/technology/NVIDIA在台灣) — die symbiotische Beziehung seiner Firma zu dieser Insel: Chips, Server, Hauptquartier und ein Grundstück für 44,34 Milliarden
-- [Chi Huai-hsin: Der Taiwaner, der KI „Schritt für Schritt denken“ lehrt](/people/紀懷新) — ein weiterer Taiwaner an der KI-Frontlinie; Huangs Chips machen KI schnell, Chi Huai-hsins Denkketten lehren KI schrittweises Denken
-- [André Chiang](/people/江振誠) — ein Taiwanese an der internationalen Spitze, der den entgegengesetzten Weg ging: Auf dem Höhepunkt bewusst auszusteigen, statt sich von einem Titel definieren zu lassen
+- [TSMC](/de/people/tsmc-morris-chang) — Der wichtigste Partner von NVIDIA, der Gründer von TSMC; ihre Freundschaft von über dreißig Jahren hält die globale KI-Lieferkette zusammen
+- [Taiwanische Unternehmen: TSMC](/de/economy/tsmc) — Das taiwanesische Unternehmen, das die fortschrittlichsten Chips für NVIDIA fertigt – der „Weltheld“, wie ihn Jensen Huang nennt
+- [Taiwanische Halbleiterindustrie](/de/technology/taiwan-semiconductor-industry) — Die Chips von Jensen Huang und Lisa Su werden auf dieser Insel hergestellt; dies ist Taiwans Silberschild
+- [NVIDIA in Taiwan: Das teuerste Unternehmen der Welt, das keinen eigenen Chip herstellt](/de/technology/nvidia-in-taiwan) — Wie sein gegründetes Unternehmen mit der Industrie dieser Insel koexistiert: Chips, Server, Hauptsitz und ein Grundstück im Wert von 4,434 Milliarden (lokale Währungseinheit)
+- [Ji Huaixin: Der Taiwaneser, der KI „Schritt für Schritt denken“ beibringt](/de/people/chi-huai-hsin) — Ein weiterer taiwanesischer Akteur an der KI-Front; die Chips von Jensen Huang machen die KI schnell, und Ji Huaixins Denkketten lehren die KI das schrittweise Schlussfolgern
+- [Jiang Zhencheng](/de/people/andre-chiang-taiwanese-culinary-innovator) — Ein anderer Taiwaneser auf internationalem Höhepunkt, der den umgekehrten Weg ging: Er drehte sich bewusst vom Gipfel weg und weigerte sich, durch einen Titel definiert zu werden
+- [Taiwan Tech Stories: 100 Punkte Chip, 60 Punkte Mikrofon](/de/technology/taiwan-tech-storytelling) — Diejenigen, die die besten Geschichten über Chips erzählen, und jene, deren Industrie am wenigsten Geschichten erzählt, in einem Artikel zusammengefasst; der Unterschied von 40 Punkten wird gemessen
 
 ## Bildquellen
 
