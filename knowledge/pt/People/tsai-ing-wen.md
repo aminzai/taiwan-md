@@ -30,10 +30,10 @@ rationale:
   whos_pushing_back: '國民黨、深綠本土派、原住民族倡議者、同婚專法批評者、退休軍公教與居住能源改革批評者。'
 relatedDiary: ['2026-07-12-225636-manual']
 translatedFrom: 'People/蔡英文.md'
-sourceCommitSha: '4f3974f86'
-sourceContentHash: 'sha256:2ea54fe4a3dcfc40'
-sourceBodyHash: 'sha256:3efdfebbac8eea3c'
-translatedAt: '2026-09-21T14:45:12.552514+00:00'
+sourceCommitSha: '7255b3ab1'
+sourceContentHash: 'sha256:ad617fbb654f67ae'
+sourceBodyHash: 'sha256:986ab9796f1069f2'
+translatedAt: '2026-09-23T15:45:13.050546+00:00'
 ---
 
 # Tsai Ing-wen: da noite da derrota aos 8,17 milhões de votos, oito anos de presidência silenciosa
@@ -153,25 +153,25 @@ Outro mapa, porém, expandiu-se no sentido inverso. O Congresso dos EUA aprovou 
 
 Portanto, «menos aliados» e «mais apoio internacional» são ambos verdadeiros, mas medem coisas diferentes. O primeiro conta Estados que reconhecem a República da China; o segundo descreve ligações substantivas sem laços formais. O governo Tsai apostou recursos limitados no segundo; isso aumentou a exposição de Taiwan entre democracias, mas não estancou a perda de aliados formais. Como o leitor avalia isso depende do que considera o núcleo da diplomacia: o estatuto formal, a cooperação substantiva, ou a indivisibilidade de ambos.
 
-## Após o mandato, ainda avaliando as regras antes de avançar
+## Após deixar o cargo, ainda assim seguir as regras antes de entrar
 
-Em 20 de maio de 2024, Tsai Ing-wen entregou a presidência a Lai Ching-te. O Partido Progressista Democrático (DPP) conquistou três mandatos presidenciais consecutivos, um feito inédito desde o início da eleição presidencial direta.
+Em 20 de maio de 2024, Tsai Ing-wen entregou o cargo de presidente a Lai Ching-te. O Partido Democrático Progressista (DPP) venceu três eleições presidenciais consecutivas, um recorde sem precedentes desde a institucionalização da eleição direta presidencial.
 
-Em outubro do mesmo ano, ela visitou República Tcheca, França e Bélgica como ex-presidente, participando de um evento social no prédio do Parlamento Europeu. Esta foi a primeira ex-presidente de Taiwan a visitar a sede da União Europeia, mas não foi um discurso formal no Parlamento Europeu; sua viagem programada ao Reino Unido também não se concretizou.[^18]
+No mesmo ano, em outubro, ela, como presidente de saída, visitou a República Tcheca, a França e a Bélgica, participando de um evento informal com deputados no Parlamento Europeu. Foi a primeira presidente de saída de Taiwan a entrar na sede da União Europeia, embora não tenha sido um discurso oficial do Parlamento Europeu; a visita prevista à Grã-Bretanha também foi cancelada. [^18]
 
-Do campo de negociações da OMC a uma sala de reuniões do Parlamento Europeu, ela continuou fazendo algo semelhante: verificar onde as regras permitiam chegar e levar Taiwan até aquele limite.
+Do ambiente de negociação da OMC a uma sala de conferências no Parlamento Europeu, ela continua fazendo o mesmo: primeiro verificar até onde as regras permitem ir, e então levar Taiwan até esse limite.
 
-A história retorna ao palco das eleições perdidas em 2012. A frase "não desistir" não era mais apenas um consolo após oito anos no cargo. Questões como a terra indígena, a reforma judicial, o preço dos imóveis, a energia e os riscos do Estreito de Taiwan não foram resolvidas por ela; enquanto as leis de casamento igualitário, o sistema previdenciário e os ajustes de defesa tornaram-se realidades que o governo sucessor precisava dar continuidade ou responder.
+A história se encerra de volta à campanha eleitoral de 2012. A frase “não desistir” («don’t give up»), após oito anos de mandato presidencial, já não é apenas uma consolação. Terras indígenenas, reforma judicial, preços de imóveis, energia e riscos no Estreito de Taiwan não foram resolvidos por ela; já o casamento entre pessoas do mesmo sexo, o sistema de aposentadorias e os ajustes de defesa nacional se tornaram realidades que os governos subsequentes precisam assumir ou responder.
 
-Ao deixar a residência presidencial, os 8,17 milhões de votos já eram um número histórico. O que permaneceu foi outra evidência mais silenciosa: que uma figura política pode deixar instituições sem aumentar o volume da voz, e essas instituições preservam tanto o que ela concluiu quanto o que deixou inacabado.
+Quando ela deixou o Palácio Presidencial, os 8,17 milhões de votos já eram apenas um número do passado. O que permanece é outro tipo de evidência mais silenciosa: uma figura política pode não precisar elevar o tom para deixar instituições para trás — e as instituições fielmente guardam tanto o que ela completou quanto o que não completou.
 
-**Leituras Relacionadas**:
+**Leituras recomendadas**:
 
-- [Nação Invisível](/pt/art/invisible-nation) — Um documentário de Ge Jeong-mun sobre os sete anos de Tsai Ing-wen, observando sua personalidade e a democracia de Taiwan através de câmeras externas.
-- [Casamento Igualitário e Igualdade de Gênero em Taiwan](/pt/society/taiwan-marriage-equality-lgbtq-rights) — A trajetória completa, desde o Artigo 748 até a entrada em vigor da lei específica.
-- [História dos Povos Indígenas e Movimento de Nomeação em Taiwan](/pt/history/indigenous-peoples-history-and-naming-movement) — A luta antes do pedido de desculpas e as questões fundiárias e identitárias que ainda precisam ser tratadas após o pedido.
-- [Ma Ying-jeou](馬英九.md) — O ex-presidente que derrotou Tsai Ing-wen em 2012 e a quem entregou o poder em 2016.
-- [Lai Ching-te](賴清德.md) — A vice-presidente e sucessora de Tsai Ing-wen.
+- [Visíveis](/pt/art/invisible-nation) — documentário produzido por Ge Jing-wen, que acompanhou Tsai Ing-wen por sete anos, observando sua personalidade e a democracia taiwanesa.
+- [Casamento entre pessoas do mesmo sexo e igualdade de gênero em Taiwan](/pt/society/taiwan-marriage-equality-lgbtq-rights) — o percurso completo da interpretação jurídica 748, por meio de plebiscitos, até a aprovação da lei específica.
+- [História e movimento de justiça transicional dos povos indígenas em Taiwan](/pt/history/indigenous-peoples-history-and-naming-movement) — as lutas antes das desculpas oficiais, e os assuntos de terra e identidade que permanecem pendentes.
+- [Ma Ying-jeou](/pt/people/ma-ying-jeou-cross-strait-reconciliation-leader) — ex-presidente que derrotou Tsai Ing-wen em 2012 e transferiu o poder a ela em 2016.
+- [Lai Ching-te](/pt/people/lai-ching-te) — vice-presidente e sucessor de Tsai Ing-wen.
 
 ## Fontes das imagens
 
