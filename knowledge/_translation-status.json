@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-23T15:09:06+08:00",
-    "zhCommitHead": "26e0f76e3",
+    "lastUpdated": "2026-09-23T15:26:58+08:00",
+    "zhCommitHead": "20fa44ad9",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,8 +28,8 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 956,
-        "stale": 77,
+        "fresh": 957,
+        "stale": 76,
         "metadata_stale": 25,
         "missing": 66,
         "orphan": 0
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 1009,
+        "fresh": 1010,
         "stale": 38,
         "metadata_stale": 5,
-        "missing": 72,
+        "missing": 71,
         "orphan": 0
       },
       "pt": {
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 1029,
-        "stale": 28,
+        "fresh": 1032,
+        "stale": 26,
         "metadata_stale": 7,
-        "missing": 60,
+        "missing": 59,
         "orphan": 0
       },
       "ru": {
@@ -23588,8 +23588,8 @@
           "sourceContentHash": "sha256:bbdb130f551a69e8",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-23T05:57:01.217346+00:00",
-          "translationLastCommit": "e0d888ab",
-          "translationLastModified": "2026-09-22T01:04:14+08:00",
+          "translationLastCommit": "20fa44ad",
+          "translationLastModified": "2026-09-23T15:09:06+08:00",
           "inferred": false,
           "footnoteDefs": 55,
           "bytes": 184782,
@@ -25918,7 +25918,20 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Technology/artificial-intelligence-development-strategy.md",
+          "translatedFrom": "Technology/台灣人工智慧發展與未來策略.md",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:151b93f3268baa1f",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-23T06:37:24.818723+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 40,
+          "bytes": 47214,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Technology/artificial-intelligence-development-strategy.md",
@@ -53449,8 +53462,8 @@
           "sourceContentHash": "sha256:62a0444682031043",
           "sourceBodyHash": "sha256:f0ac4cd7b2bc3b4c",
           "translatedAt": "2026-09-23T11:48:01+08:00",
-          "translationLastCommit": "9d168a59",
-          "translationLastModified": "2026-09-10T19:11:46+08:00",
+          "translationLastCommit": "20fa44ad",
+          "translationLastModified": "2026-09-23T15:09:06+08:00",
           "inferred": false,
           "footnoteDefs": 26,
           "bytes": 57157,
@@ -93156,8 +93169,8 @@
           "sourceContentHash": "sha256:eea6e5a10d131ef2",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-23T06:37:27.648538+00:00",
-          "translationLastCommit": "75479a4e",
-          "translationLastModified": "2026-08-14T10:41:04+08:00",
+          "translationLastCommit": "20fa44ad",
+          "translationLastModified": "2026-09-23T15:09:06+08:00",
           "inferred": false,
           "footnoteDefs": 37,
           "bytes": 44278,
@@ -147814,8 +147827,8 @@
           "sourceContentHash": "sha256:86820d44ddf9a31a",
           "sourceBodyHash": "sha256:d37208c6e0c05c9c",
           "translatedAt": "2026-09-23T11:48:24+08:00",
-          "translationLastCommit": "e0d888ab",
-          "translationLastModified": "2026-09-22T01:04:14+08:00",
+          "translationLastCommit": "20fa44ad",
+          "translationLastModified": "2026-09-23T15:09:06+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 30001,
@@ -155173,8 +155186,8 @@
           "sourceContentHash": "sha256:c2e6d8f7560888c4",
           "sourceBodyHash": "sha256:11add6012534def8",
           "translatedAt": "2026-09-23T13:51:52+08:00",
-          "translationLastCommit": "e0d888ab",
-          "translationLastModified": "2026-09-22T01:04:14+08:00",
+          "translationLastCommit": "20fa44ad",
+          "translationLastModified": "2026-09-23T15:09:06+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 23197,
@@ -157872,8 +157885,8 @@
           "sourceContentHash": "sha256:77ab88a911a474f4",
           "sourceBodyHash": "sha256:0ecfd7b1fa40d486",
           "translatedAt": "2026-09-23T14:55:56+08:00",
-          "translationLastCommit": "e0d888ab",
-          "translationLastModified": "2026-09-22T01:04:14+08:00",
+          "translationLastCommit": "20fa44ad",
+          "translationLastModified": "2026-09-23T15:09:06+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 31622,
@@ -158074,20 +158087,18 @@
         "ar": {
           "path": "ar/Food/taiwanese-noodle-culture.md",
           "translatedFrom": "Food/台灣麵食文化.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:7aeb090ae7f880d7",
-          "sourceBodyHash": "sha256:07d9c3b482846ce9",
-          "translatedAt": "2026-07-25T09:23:16+08:00",
+          "sourceCommitSha": "9094012f4",
+          "sourceContentHash": "sha256:bd2837ec0fbef900",
+          "sourceBodyHash": "sha256:a96dfd18a42fc656",
+          "translatedAt": "2026-09-23T14:55:56+08:00",
           "translationLastCommit": "e0d888ab",
           "translationLastModified": "2026-09-22T01:04:14+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 23914,
+          "bytes": 26405,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+10 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Food/taiwanese-noodle-culture.md",
@@ -161366,7 +161377,20 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Food/taiwan-fruit-kingdom.md",
+          "translatedFrom": "Food/台灣水果王國.md",
+          "sourceCommitSha": "813fde2d6",
+          "sourceContentHash": "sha256:e8ef7d9d72df6a42",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-23T06:54:26.840756+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 40,
+          "bytes": 75162,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -162351,20 +162375,18 @@
         "ar": {
           "path": "ar/Food/golden-age-echoes-taiwan-tea-culture.md",
           "translatedFrom": "Food/茶文化.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:86475082b87388fc",
-          "sourceBodyHash": "sha256:a9375147f15627a6",
-          "translatedAt": "2026-07-25T09:23:16+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:86fb5241b5393f5b",
+          "sourceBodyHash": "sha256:add135df68f1784c",
+          "translatedAt": "2026-09-23T14:55:56+08:00",
           "translationLastCommit": "e0d888ab",
           "translationLastModified": "2026-09-22T01:04:14+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 17466,
+          "bytes": 17604,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+11 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Food/golden-age-echoes-taiwan-tea-culture.md",
@@ -181684,20 +181706,18 @@
         "ja": {
           "path": "ja/Geography/hualien-county.md",
           "translatedFrom": "Geography/花蓮縣.md",
-          "sourceCommitSha": "b74252d93",
-          "sourceContentHash": "sha256:405286ffbb97b596",
-          "sourceBodyHash": "sha256:367ba2e7b9a712c5",
-          "translatedAt": "2026-07-25T04:46:07+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:2d40b234aa9d9849",
+          "sourceBodyHash": "sha256:dfa0735c6c25d7c4",
+          "translatedAt": "2026-09-23T14:55:53+08:00",
           "translationLastCommit": "6f9e722a",
           "translationLastModified": "2026-09-22T01:09:20+08:00",
           "inferred": false,
           "footnoteDefs": 27,
-          "bytes": 58038,
+          "bytes": 67500,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 3,
-          "diffSummary": "+5 -5"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Geography/hualien-county.md",
@@ -196450,8 +196470,8 @@
           "sourceContentHash": "sha256:92677747f5c5aca7",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-23T05:54:54.203195+00:00",
-          "translationLastCommit": "e0d888ab",
-          "translationLastModified": "2026-09-22T01:04:14+08:00",
+          "translationLastCommit": "20fa44ad",
+          "translationLastModified": "2026-09-23T15:09:06+08:00",
           "inferred": false,
           "footnoteDefs": 30,
           "bytes": 83900,
