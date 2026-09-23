@@ -549,8 +549,14 @@ def main():
         # the WHOLE array copied verbatim (the real bug: 2026-07-24 ja P1 batch) is.
         # Flag only when the majority of tags are untranslated.
         zh_tag_list = parse_tag_list(zh_fm.get("tags", "")) if zh_fm else []
-        overlap = [t for t in tag_list if t and t in zh_tag_list] if zh_tag_list else []
-        bad_tags = overlap if tag_list and len(overlap) / len(tag_list) >= 0.6 else []
+        # 2026-09-24：只拿帶漢字的標籤算比例。拉丁字母標籤（Portaly／PLG／AI／
+        # SaaS 這類品牌與縮寫）在 ja/ko 本來就原樣保留，算進分子會讓一篇四個
+        # 英文標籤、兩個已譯日文標籤的譯文被判「4/6 未翻」（run 98122 近 24 小時
+        # 章節 patch 被拒 20 次裡 10 次是這道閘，這是其中一種形狀）。這道閘要抓的
+        # 是整組中文標籤原樣照抄，那個訊號只存在於帶漢字的標籤裡。
+        cjk_tags = [t for t in tag_list if t and has_cjk(t)]
+        overlap = [t for t in cjk_tags if t in zh_tag_list] if zh_tag_list else []
+        bad_tags = overlap if cjk_tags and len(overlap) / len(cjk_tags) >= 0.6 else []
         label = "tags not identical to zh"
         detail_ok = f"{len(tag_list)} tags ({len(overlap)} proper-noun overlap with zh, OK)"
         # Baseline exemption (2026-07-30): tags that are predominantly proper nouns

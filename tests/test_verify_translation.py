@@ -47,3 +47,35 @@ def test_extract_urls_still_catches_real_url_changes():
     a = VERIFY.extract_urls("https://example.com/a_b/%E7%B8%BD")
     b = VERIFY.extract_urls("https://example.com/a_b/%E7%B8%BA")
     assert a != b
+
+
+
+def _tags_check(tmp_path, ja_tags):
+    """zh 側用庫裡真的 People/林啟維.md（tags: 創業／Portaly／PLG／AI／SaaS／創作者經濟），
+    verify-translation 會把 zh 參數解析到 knowledge/ 底下，暫存目錄放不了。"""
+    import json
+    import subprocess
+    import sys
+
+    ja = tmp_path / "ja--example.md"
+    ja.write_text(
+        f"---\ntitle: 'リン・チーウェイ'\ntags: {ja_tags}\n---\n\n本文。\n",
+        encoding="utf-8",
+    )
+    out = subprocess.run(
+        [sys.executable, str(ROOT / "scripts/tools/lang-sync/verify-translation.py"),
+         "People/林啟維.md", str(ja), "--json"],
+        capture_output=True, text=True, cwd=ROOT,
+    ).stdout
+    checks = json.loads(out)["checks"]
+    return next(c for c in checks if c["name"] == "tags not identical to zh")["level"]
+
+
+def test_ja_tags_latin_brand_names_do_not_count_as_untranslated(tmp_path):
+    ja = "['起業', 'Portaly', 'PLG', 'AI', 'SaaS', 'クリエイターエコノミー']"
+    assert _tags_check(tmp_path, ja) == "PASS"
+
+
+def test_ja_tags_verbatim_chinese_copy_still_fails(tmp_path):
+    ja = "['創業', 'Portaly', 'PLG', 'AI', 'SaaS', '創作者經濟']"
+    assert _tags_check(tmp_path, ja) == "FAIL"
