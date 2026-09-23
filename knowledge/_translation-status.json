@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-23T12:56:59+08:00",
-    "zhCommitHead": "85fc5bb47",
+    "lastUpdated": "2026-09-23T13:19:25+08:00",
+    "zhCommitHead": "37d2d58d0",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,8 +28,8 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 948,
-        "stale": 85,
+        "fresh": 950,
+        "stale": 83,
         "metadata_stale": 25,
         "missing": 66,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 893,
+        "fresh": 894,
         "stale": 13,
         "metadata_stale": 6,
-        "missing": 212,
+        "missing": 211,
         "orphan": 0
       }
     },
@@ -13361,12 +13361,12 @@
           "sourceCommitSha": "03b3aaae8",
           "sourceContentHash": "sha256:8fc0adba07db27e5",
           "sourceBodyHash": "",
-          "translatedAt": "2026-08-09T00:15:38.437083+00:00",
+          "translatedAt": "2026-09-23T04:55:39.402752+00:00",
           "translationLastCommit": "5afb5bc9",
           "translationLastModified": "2026-08-09T13:00:56+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "bytes": 9857,
+          "bytes": 9901,
           "armorResidue": 0,
           "status": "stale",
           "reason": "sha-lost-hash-mismatch"
@@ -13834,8 +13834,8 @@
           "sourceContentHash": "sha256:26ef34a08edb5172",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-23T03:15:25.610818+00:00",
-          "translationLastCommit": "4ce37351",
-          "translationLastModified": "2026-08-06T15:31:32+08:00",
+          "translationLastCommit": "37d2d58d",
+          "translationLastModified": "2026-09-23T12:56:59+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "bytes": 48537,
@@ -53291,18 +53291,18 @@
         "ja": {
           "path": "ja/Lifestyle/mascot-culture-in-taiwan.md",
           "translatedFrom": "Lifestyle/吉祥物.md",
-          "sourceCommitSha": "88b3abd8",
-          "sourceContentHash": "sha256:7453fc91529be112",
-          "sourceBodyHash": "sha256:0280d05fe808358b",
-          "translatedAt": "2026-06-09T03:07:00+08:00",
+          "sourceCommitSha": "c0061c6df",
+          "sourceContentHash": "sha256:62a0444682031043",
+          "sourceBodyHash": "sha256:f0ac4cd7b2bc3b4c",
+          "translatedAt": "2026-09-23T11:48:21+08:00",
           "translationLastCommit": "caa10522",
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
-          "footnoteDefs": 25,
-          "bytes": 20837,
+          "footnoteDefs": 26,
+          "bytes": 41064,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (26→25)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Lifestyle/mascot-culture-in-taiwan.md",
@@ -140940,7 +140940,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/jiong-xing-ren.md",
+          "translatedFrom": "People/囧星人.md",
+          "sourceCommitSha": "c0d869b91",
+          "sourceContentHash": "sha256:0ad1f7aa5a2a3359",
+          "sourceBodyHash": "sha256:657949e86efaa762",
+          "translatedAt": "2026-09-23T11:48:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "bytes": 25185,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -147615,20 +147628,18 @@
         "ja": {
           "path": "ja/Food/night-market-culture.md",
           "translatedFrom": "Food/夜市文化.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:cad0161e7864d0ae",
-          "sourceBodyHash": "sha256:ea37a51a6e2ccfcd",
-          "translatedAt": "2026-05-01T18:02:56+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:86820d44ddf9a31a",
+          "sourceBodyHash": "sha256:d37208c6e0c05c9c",
+          "translatedAt": "2026-09-23T11:48:21+08:00",
           "translationLastCommit": "dcb7eb53",
           "translationLastModified": "2026-09-22T01:05:35+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 20341,
+          "bytes": 22357,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+9 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Food/night-market-culture.md",
