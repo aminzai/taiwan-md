@@ -1,144 +1,148 @@
 ---
 title: 'Bubble Tea'
-description: 'Bei einer Teambesprechung 1987 in Taichung eroberte eine beiläufige Idee die Welt. Über den umstrittenen Ursprung von Bubble Tea, Kulturpolitik und die Gesundheitsdebatte um ein Getränk mit 500 Kilokalorien.'
+description: 'Ein unbeabsichtigter Zufall in einem taiwanesischen Teehaus 1987 verwandelte ein Getränk in eine globale Erscheinung. Die Kontroverse um die Erfindung, kulturelle Politik und eine 500-Kalorien-Debatte.'
 date: 2026-03-30
 category: 'Food'
 tags:
   [
-    'Essen',
+    'Esskultur',
     'Bubble Tea',
-    'handgeschüttelte Teegetränke',
+    'Getränke',
     'Globalisierung',
-    'Soft Power',
+    'weiche Macht',
     'Kulturdiplomatie',
   ]
-subcategory: 'Getränkekultur'
+subcategory: '飲品文化'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-30
 lastHumanReview: false
 image: '/article-images/food/classic-bubble-tea-2013.webp'
-imageAlt: 'Bubble Tea'
+imageAlt: 'Klassisches Bubble Tea Detail'
 imageCredit: 'Oqmilteashop / Wikimedia Commons'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Classic_bubble_tea.jpg'
 translatedFrom: 'Food/珍珠奶茶.md'
-sourceCommitSha: '37638e173'
-sourceContentHash: 'sha256:d90e80b19559290b'
-sourceBodyHash: 'sha256:9bc13bf8c8054628'
-translatedAt: '2026-09-01T19:58:00+08:00'
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:4b6c70d0fd8de132'
+sourceBodyHash: 'sha256:402d0d087252b30e'
+translatedAt: '2026-09-23T21:59:29+08:00'
 ---
 
 # Bubble Tea
 
-> **Überblick in 30 Sekunden:** 1987 schüttete Lin Xiu-hui, die Leiterin eines Teehauses in Taichung, bei einer Teambesprechung Tapiokaperlen in Milchtee. Sie wollte es einfach ausprobieren – wenige Monate später verkaufte sich das Getränk besser als alle anderen Getränke des Hauses. 38 Jahre danach hatte diese eine Bewegung eine weltweite Branche mit einem Volumen von rund 3,5 Milliarden US-Dollar hervorgebracht, dem Bubble Tea ein eigenes Emoji 🧋 auf jedem Smartphone verschafft und Marken aus Taiwan und Festlandchina dazu gebracht, jeweils den Titel des „Erfinders“ für sich zu beanspruchen.
+> **30 Sekunden Überblick:** 1987 füllte Lin Hsiu-hui, die Managerin eines Teehauses in Taichung, zufällig Tapioca-Kugeln in ihren Milchtee während einer Mitarbeitersitzung – und verkaufte das Getränk innerhalb weniger Monate besser als alle anderen. 38 Jahre später wurde dieser Zufall zur Grundlage einer Branche mit einem weltweiten Umsatz von etwa 3,5 Milliarden US-Dollar, das Bubble-Tea-Emoji 🧋 fand sich auf jedem Smartphone, und taiwanesische sowie kontinentale chinesische Marken kämpften um den Titel des „Erfinders“.
 
-Taichung, Siwei-Straße, 1987: ein Teehaus, aus dem später Chun Shui Tang hervorgehen sollte. Filialleiterin Lin Xiu-hui leitete gerade eine Teambesprechung. Auf dem Tisch lagen Zutaten, die sie am Morgen mit dem Motorroller auf dem Jianguo-Markt gekauft hatte, darunter eine Schale weißer Tapiokaperlen – ein taiwanischer Snack, den sie seit ihrer Kindheit mochte. Also schüttete sie die Perlen in ihren Assam-Milchtee und nahm einen Schluck.
+1987, vierte Straße der Vierten Republik, Taichung. Das ehemalige Teehaus Chun Shui Tang. Die Managerin Lin Hsiu-hui leitete eine Mitarbeitersitzung, auf dem Tisch lagen die Zutaten, die sie am selben Morgen auf dem Markt gekauft hatte, darunter eine Schüssel mit weißen Tapioca-Kugeln – ein Snack, den sie schon als Kind mochte. Sie goss die Kugeln einfach in ihren Assam-Milchtee und probierte einen Schluck.
 
-„Bei dieser Besprechung liebten alle das Getränk. Innerhalb weniger Monate verkaufte es sich besser als all unsere anderen Eistees“, erzählte Lin Xiu-hui Jahre später einem CNN-Reporter. Ihre Worte klangen nicht absichtlich überhöht, eher wie die Schilderung eines kleinen Zufalls, mit dem sie selbst nicht gerechnet hatte.
+„Jeder hat dieses Getränk bei dieser Sitzung geliebt, und innerhalb weniger Monate verkaufte sich das Getränk besser als alle unsere anderen Eistees.“ sagte Lin Hsiu-hui Jahre später gegenüber einem CNN-Reporter, mit einer Stimme, die keineswegs übertrieben klang, sondern eher einen unerwarteten Zufall beschrieb.
 
-Dieser Zufall führte später zu einem zehn Jahre dauernden Rechtsstreit.
+Dieser Zufall wurde später Gegenstand eines zehnjährigen Gerichtsverfahrens.
 
-## Ein zehnjähriger Rechtsstreit ohne Gewinner
+## Ein zehnjähriger Prozess ohne Gewinner
 
-Lin Xiu-huis Version ist nur die eine Hälfte der Geschichte.
+Lin Hsiu-hui‘s Version ist nur die eine Hälfte dieser Geschichte.
 
-Tu Tsung-ho, Gründer des Hanlin-Teehauses in Tainan, erzählt sie anders: Nachdem er 1986 sein Geschäft eröffnet hatte, sah er eines Tages auf einem Markt weiße, durchscheinende Tapiokaperlen. Die Idee kam ihm spontan. Er mischte sie mit Milchtee und benannte das Getränk nach den Perlen, an die ihn ihre Form erinnerte. Beide Geschichten spielen Mitte bis Ende der 1980er-Jahre in Taiwan, eine im Norden und eine im Süden – und beide beanspruchen, die erste zu sein.
+Der Gründer des Teehauses Hanlin in Tainan, Tu Tsung-he, hat eine andere Version: Er öffnete 1986, sah eines Tages auf dem Markt glänzende Tapioca-Kugeln, bekam eine Eingebung, sie mit Milchtee zu kombinieren, und nannte das Getränk wegen der Kugelform wie Perlen. Beide Geschichten spielen in der zweiten Hälfte der 1980er in Süd- und Nordtaiwan statt, und beide behaupten, die Ersten gewesen zu sein.
 
-Die Version von Chun Shui Tang ist genauer datiert: Gründer Liu Han-chieh eröffnete 1983 an der Siwei-Straße in Taichung ein Getränkegeschäft. 1987 soll die damalige Filialleiterin Lin Xiu-hui bei einer Teambesprechung zufällig Bubble Tea gemischt haben, der anschließend probeweise verkauft und offiziell ins Sortiment aufgenommen wurde. Chun Shui Tang betont sogar, der Verantwortliche des Hanlin-Teehauses habe Chun Shui Tang persönlich besucht, um den Betrieb zu besichtigen und von ihm zu lernen.
+Die Version von Chun Shui Tang ist genauer: Der Gründer Liu Han-chieh eröffnete 1983 ein Getränkegeschäft an der vierten Straße in Taichung, 1987 führte die damalige Managerin Lin Hsiu-hui während einer Mitarbeitersitzung zufällig Bubble Tea heraus, testete es und brachte es offiziell auf den Markt. Chun Shui Tang betont sogar, dass der Verantwortliche von Hanlin Teehaus selbst zu Chun Shui Tang kam, um zu lernen.
 
-Die Frage, wer zuerst da war, landete schließlich vor Gericht. Chun Shui Tang und Hanlin verklagten einander, der Rechtsstreit zog sich mehr als zehn Jahre hin. **2019 entschied ein taiwanisches Gericht: Bubble Tea ist ein neuartiges Getränk, aber kein patentierbares Produkt. Jede Person und jedes Geschäft darf es zubereiten; ein Streit darüber, wer der Erfinder sei, ist nicht erforderlich.** Keine der beiden Seiten konnte ein Patent erhalten. Niemand gewann, niemand verlor.
+Diese Frage „wer zuerst“ endete im Gericht. Chun Shui Tang und Hanlin Teehaus klagten gegenseitig, und der Streit dauerte mehr als zehn Jahre. **2019 entschied das taiwanesische Gericht: Bubble Tea ist ein neues Getränk, kein patentierter Gegenstand, jeder oder jede kann es zubereiten, und es ist nicht nötig zu streiten, wer der Urheber ist.** Beide Seiten konnten kein Patent erlangen, niemand gewann, niemand verlor.
 
-> 📝 **Kuratorennotiz**
-> Die Frage „Wer hat Bubble Tea erfunden?“ hat in Taiwan selbst womöglich längst an Bedeutung verloren. Interessanter ist: Warum musste der „Geburtsort“ eines einzelnen Getränks in einem zehnjährigen Prozess geklärt werden? Bei einem weltweiten Bubble-Tea-Markt von annähernd 100 Milliarden NT-Dollar ging es in diesem Streit offenkundig um mehr als die Deutungshoheit über die Geschichte.
+> 📝 **Kuratorische Notiz**
+> Die Frage „wer hat Bubble Tea erfunden“, ist in Taiwan möglicherweise schon lange hinfällig. Wichtiger ist die Frage: Warum muss die „Herkunft“ eines Getränks zehn Jahre lang vor Gericht geklärt werden? Angesichts des globalen Bubble-Tea-Marktes mit einem Volumen von nahezu 100 Milliarden taiwanesischen Dollar, war der wahre Einsatz dieser Klage offensichtlich mehr als nur um Narrative über Geschichte.
 
-## 26.000 Geschäfte – mehr als Convenience Stores
+## 26.000 Geschäfte – mehr als alle Supermärkte
 
-Welches Teehaus Bubble Tea auch zuerst angeboten haben mag: Taiwans Begeisterung für das Getränk reicht längst weiter als der Streit um seine Erfindung.
+Egal, welches Teehaus zuerst Bubble Tea machte, Taiwans Begeisterung für dieses Getränk ging weit über die Debatte um den Erfinder hinaus.
 
-Nach Statistiken des taiwanischen Finanzministeriums erreichte die Zahl der Getränkegeschäfte im April 2022 mit **26.000** einen historischen Höchststand. Das waren fast 10.000 mehr als sämtliche Convenience Stores in Taiwan und 67,6 Prozent mehr als zehn Jahre zuvor. In einer beliebigen Gasse der Taipeher Innenstadt können 50 Lan, Ching Shin Fu Chuan, CoCo und MACU direkt nebeneinander um Kundschaft werben. Wer eines dieser Geschäfte betritt, muss mehr Entscheidungen treffen als erwartet: volle, halbe, wenig oder gar keine Zuckermenge; viel, wenig, kein oder normal viel Eis; Tapiokaperlen, Kokosgelee, Tarokugeln, Pudding … In Taiwan ist ein Bubble Tea eine hochgradig persönliche Wahl und kein standardisiertes Produkt.
+Laut Statistiken des taiwanesischen Finanzministeriums erreichte die Anzahl aller Getränkeshops im April 2022 mit 26.000 Geschäften einen historischen Rekord – fast 10.000 mehr als alle Supermärkte auf Taiwan, und in den letzten zehn Jahren um 67,6 % angestiegen. In jeder Gasse von Taipeh könnten 50 Lan, Sinotec, CoCo und Ma Gu Tea nebeneinander liegen und um Kunden kämpfen. Betreten Sie jeden dieser Läden, stehen Ihnen mehr Entscheidungen als gedacht: Vollzucker, halber Zucker, wenig Zucker, Zuckerfrei; viel Eis, wenig Eis, kein Eis, normales Eis; Tapioca, Kokos, Süßkartoffel, Pudding … Ein Glas Bubble Tea in Taiwan ist eine hochpersonalisierte Wahl, kein Standardprodukt.
 
-Der weltweite Markt ist noch erstaunlicher. Mehrere Marktforschungsinstitute bezifferten sein Volumen 2024 auf rund **3,5 Milliarden US-Dollar, etwa 112 Milliarden NT-Dollar**. Bis 2034 soll es auf sechs bis sieben Milliarden US-Dollar wachsen. Taiwanische Marken stehen am Anfang dieses Marktes: CoCo betreibt weltweit mehr als 5.000 Filialen, Gong Cha mehr als 2.000, und Marken wie The Alley und Chatime eröffnen weiterhin neue Niederlassungen im Ausland. Allein in Taiwan verkauft Chun Shui Tang noch immer mehr als zwei Millionen Becher Bubble Tea pro Jahr.
+Der globale Markt ist noch beeindruckender. Mehrere Marktforschungsinstitute schätzen, dass der globale Bubble-Tea-Markt 2024 etwa 3,5 Milliarden US-Dollar (ca. 112 Milliarden taiwanesische Dollar) beträgt und bis 2034 auf 6–7 Milliarden US-Dollar wachsen wird. Taiwanesische Marken sind der Ursprung dieses Marktes: CoCo hat weltweit über 5.000 Filialen, Gong Cha mehr als 2.000, und Marken wie Lu Kou Lane und Sunrise Tea erweitern weiter ihre Filialen im Ausland. Chun Shui Tang verkauft allein in Taiwan jährlich immer noch über zwei Millionen Gläser Bubble Tea.
 
-Diese Globalisierung nahm einen bemerkenswerten Weg. Sie war weder staatlich betriebene Kulturdiplomatie noch die sorgfältig geplante Expansion einer Großmarke. Der erste Schritt von Bubble Tea in die Welt wurde von der Sehnsucht von Ausgewanderten getragen: Taiwanische Einwanderer in Los Angeles und Vancouver wollten ein Stück Heimat trinken, eröffneten vor Ort Geschäfte und brachten schließlich auch ihre Nachbarn auf den Geschmack. So verbreiten sich taiwanische Imbissgerichte typischerweise nach außen: nicht als Export, sondern durch Verbreitung; nicht als Strategie, sondern als Alltag.
+Dieser Globalisierungsprozess folgt einem anderen Weg: Er wurde nicht durch staatliche Kulturdiplomatie noch durch Markenstrategien vorangetrieben. Der erste Schritt von Bubble Tea in die Welt geschah durch die Sehnsucht der Migranten – taiwanesische Migranten in Los Angeles, taiwanesische Migranten in Vancouver, sie wollten den Geschmack ihrer Heimat, eröffneten Läden, und die Nachbarn wurden ebenfalls begeistert. Das ist der typische Weg der [taiwanischen Snacks](/de/food/taiwanese-street-food/) nach außen: nicht Export, sondern Diffusion; nicht Strategie, sondern Lebensstil.
 
-> 📊 **Die Zahlen**
-> Weltweiter Bubble-Tea-Markt (2024): rund 3,5 Milliarden US-Dollar (etwa 112 Milliarden NT-Dollar)
-> Handgeschüttelte Getränkeläden in Taiwan (Höchststand 2022): mehr als 26.000, Zuwachs von 67,6 Prozent in zehn Jahren
-> CoCo-Filialen weltweit: mehr als 5.000
-> Gong-Cha-Filialen weltweit: mehr als 2.000
-> Jährlicher Bubble-Tea-Absatz von Chun Shui Tang: mehr als zwei Millionen Becher
+> 📊 **Dateninterpretation**
+> Globale Bubble-Tea-Marktgröße (2024): ca. 3,5 Milliarden US-Dollar (ca. 112 Milliarden taiwanesische Dollar)
+> Anzahl der taiwanesischen Getränkeshops (Rekord 2022): über 26.000, in zehn Jahren um 67,6 % gewachsen
+> CoCo weltweit: über 5.000 Filialen
+> Gong Cha weltweit: über 2.000 Filialen
+> Jahresverkauf von Chun Shui Tang Bubble Tea: über zwei Millionen Gläser
 
-## 2019: sechs Stunden Schlange stehen in Tokio
+## 2019 – sechs Stunden Wartezeit in Tokio
 
-Bubble Tea gelangte nicht in einer einzigen Explosion von taiwanischen Teehäusern in die Welt, sondern in mehreren aufeinanderfolgenden Wellen.
+Bubble Tea floss von taiwanesischen Teehäusern in die Welt nicht in einem einzigen Schritt, sondern in mehreren Wellen.
 
-Ende der 1990er-Jahre erreichte die erste Welle mit taiwanischen Einwanderern Nordamerika und Südostasien. In den 2000er-Jahren machten Kettenmarken das Getränk aus den Diasporagemeinschaften zu einer gemeinsamen Sprache der jungen Generation in Asien. In den 2010er-Jahren globalisierte Instagram seine Bildsprache: durchsichtiger Becher, schwarze Tapiokaperlen, breiter Strohhalm – ein Motiv wie geschaffen für soziale Medien.
+Ende der 1990er folgte die erste Welle mit taiwanesischen Migranten in Nordamerika und Südostasien. In den 2000er Jahren machte die Kette das Getränk von der Migrantengemeinschaft zur gemeinsamen Sprache junger Asiaten. In den 2010er Jahren verhalf Instagram dazu, die visuelle Sprache von Bubble Tea weltweit bekannt zu machen – durchsichtige Gläser, schwarze Perlen, dicke Schläuche, die von Natur aus für soziale Medien gemacht waren.
 
-Das dramatischste Phänomen ereignete sich jedoch 2019 in Japan.
+Aber das spektakulärste Phänomen geschah 2019 in Japan.
 
-Im Sommer jenes Jahres hing vor The Alley in Tokio ein Schild mit der Aufschrift „Wartezeit: fünf Stunden“. Später wurde die Zahl auf sechs erhöht. Japanische Medien nannten es den „dritten Tapioka-Boom“. Bubble-Tea-Lippenstift, Bubble-Tea-Salat und Snacks mit Bubble-Tea-Geschmack überschwemmten den Markt. Junge Japanerinnen gingen mit farblich vollständig auf Bubble Tea abgestimmtem Lippenstift, Lidschatten und Outfit aus dem Haus, nur um ein Foto für soziale Medien aufzunehmen.
+In dem Sommer erschien ein Schild vor dem Geschäft von Lu Kou Lane in Tokio mit der Aufschrift „Wartezeit fünf Stunden“, später aktualisiert auf sechs Stunden. Die japanischen Medien nannten es „Dritte Bubble-Tea-Welle“ (Dritte Welle der Tapioca-Begeisterung), und plötzlich gab es Bubble-Tea-Lippenstifte, Bubble-Tea-Salate und Bubble-Tea-Naschen. Japanerinnen kleideten sich komplett in Bubble-Tea-Farben – Lippenstift, Augenmake-up, Kleidung – nur um ein Foto für soziale Medien zu machen.
 
-Den meisten japanischen Konsumenten war nicht bewusst, dass die Mode, der sie folgten, dreißig Jahre zuvor mit einem beiläufigen Versuch bei einer Teambesprechung in Taichung begonnen hatte. Ein japanischer Nutzer scherzte in sozialen Medien: „In der Zeit, die man hier ansteht, könnte man nach Taiwan fliegen, einen Becher trinken und wieder zurückfliegen.“
+Die meisten japanischen Verbraucher wussten nicht, dass die Begeisterung vor 30 Jahren in einer Mitarbeitersitzung in Taichung begann. Ein japanischer Netznutzer schrieb ironisch: „Die Wartezeit reicht schon, um nach Taiwan zu fliegen, dort ein Glas zu trinken und zurückzufliegen.“
 
-Im folgenden Jahr vollzog Bubble Tea einen noch ungewöhnlicheren Identitätswandel: Er wurde zu einem politischen Symbol.
+Im Folgejahr erlangte Bubble Tea eine noch seltsamere neue Bedeutung: Es wurde zu einem politischen Symbol.
 
-## 🧋 Ein Milchtee, ein demokratisches Bündnis
+## 🧋 Ein Glas Milchtee, eine demokratische Allianz
 
-Im April 2020 starteten chinesisch-nationalistische Internetkonten eine Belästigungskampagne gegen einen thailändischen Star. Unbeabsichtigt rückten dadurch Nutzer aus Taiwan, Hongkong und Thailand auf dieselbe Seite. Der Hashtag #MilkTeaAlliance verbreitete sich rasant. Der Name bezog sich auf einen kleinen, aber pointierten kulinarischen Unterschied: In allen drei Orten wird Tee mit Milch getrunken, während die Teekultur Festlandchinas traditionell keine Milch hinzufügt.
+Im April 2020 startete ein chinesischer Nationalismus-Account im Internet einen Belästigungskampagnen gegen eine thailändische Sängerin, was unbeabsichtigt taiwanesische, hongkongerische und thailändische Netznutzer auf eine Seite stellte. Der Hashtag #MilkTeaAlliance verbreitete sich rasant – und dieser Name bezieht sich genau auf das, was alle drei Orte gemeinsam haben: sie trinken Milchtee, während die traditionelle chinesische Teekultur Milch nicht verwendet.
 
-Milchtee wurde zum Code für eine Lebensweise: Tee mit Milch stand für Demokratie und Offenheit, unvermischter Tee für eine entgegengesetzte politische Ordnung. Die Metapher war grob genug, um beinahe komisch zu wirken. Dennoch wurde sie 2020 bei Protesten in Myanmar, Belarus und Thailand immer wieder aufgegriffen. Ein Getränkesymbol verband Taiwans Demokratieerfahrung mit Bürgerbewegungen in Südostasien und erreichte damit etwas, das keinem Diplomaten gelungen war.
+Milchtee wurde zu einem Code für Lebensstil: Milchtee = Demokratie, Offenheit; ungesüßter Tee = dagegen gestellte politische Ordnung. Dieses Bild war so großzügig, dass es wirklich lustig war, aber es wurde 2020 in Protesten in Myanmar, Weißrussland und Thailand immer wieder zitiert. Mit einem Essenssymbol verband es taiwanesische demokratische Erfahrungen mit zivilgesellschaftlichen Bewegungen Südostasien – etwas, das kein Diplomat je schaffen könnte.
 
-Im selben Jahr nahm Unicode 13.0 das Bubble-Tea-Emoji 🧋 offiziell auf. Seitdem hat das Getränk auf jedem Smartphone ein eigenes Gesicht.
+Im selben Jahr wurde Unicode 13.0 das Emoji 🧋 für Bubble Tea offiziell aufgenommen, und dieses Getränk hatte nun ein Gesicht auf jedem Smartphone.
 
-> 📝 **Kuratorennotiz**
-> Die „Milk Tea Alliance“ übersetzte Geopolitik mithilfe der kleinen Zutat Milch in die Sprache von Smartphone-Stickern. Vielleicht war dies der absurdeste und zugleich wahrhaftigste Moment in der Geschichte des Bubble Tea: Ein einfaches Alltagsgetränk aus der Nachtmarktkultur wurde unbeabsichtigt zum Symbol grenzüberschreitender demokratischer Solidarität. Es hatte das nicht einmal versucht.
+> 📝 **Kuratorische Notiz**
+> Die „Milchtee-Allianz“ übersetzte Geopolitik in die Sprache von Sticker-Emojis – vielleicht der absurdeste und realitätsnaheste Moment in der Geschichte von Bubble Tea: Ein Volksgetränk, das in einem [Nachtmarkt](/de/food/night-market-culture/) geboren wurde, wurde zum Symbol internationaler demokratischer Solidarität. Es hat nie versucht, das zu sein.
 
-## 500 Kilokalorien und ein Gesundheitsproblem, von dem niemand hören will
+## Ein Glas mit 500 Kalorien und gesundheitliche Probleme, die niemand hören will
 
-Jede ehrliche Geschichte über Bubble Tea muss sich einer Zahl stellen, die Ernährungsfachleute die Stirn runzeln lässt.
+Jede ehrliche Geschichte über Bubble Tea muss dieses Problem ansprechen, das Nährwertfachleute zu einem gezucktigen Gesicht macht.
 
-Ein normal gekühlter Bubble Tea mit voller Zuckermenge enthält etwa 400 bis 600 Kilokalorien und 50 bis 70 Gramm Zucker. Das entspricht ungefähr den Kalorien einer kompletten Mahlzeit oder mehr als dem Doppelten der von der WHO empfohlenen täglichen Höchstmenge an Zucker. Dr. Martin Lee, Leiter der Nephrologie am National University Hospital in Singapur, erklärte unmissverständlich: „Der Zucker im Bubble Tea kann Diabetes verschlimmern und dadurch Nierenschäden bis hin zum Nierenversagen verursachen.“ Eine in PubMed veröffentlichte wissenschaftliche Studie weist zudem darauf hin, dass täglicher Bubble-Tea-Konsum bei jungen Menschen asiatischer Herkunft mit ähnlichen Gesundheitsrisiken verbunden ist wie zuckerhaltige Limonade – ein Thema der öffentlichen Gesundheit, das nicht ignoriert werden darf.
+Ein Glas voller Zucker mit normalem Eis enthält etwa 400–600 Kalorien und 50–70 Gramm Zucker – das entspricht der Kalorien eines Mittagsmahlzeits, oder mehr als dem doppelten der von der WHO empfohlenen Tageszuckeraufnahme. Der nephrologische Chefarzt Dr. Martin Lee vom Nationalen Universitätskrankenhaus Singapur sagte direkt: „Der Zucker in Bubble Tea kann Diabetes verstärken, was zu Nierenbeschädigung oder sogar Nierenversagen führt.“ Eine akademische Studie auf PubMed zeigte auch, dass für asiatische junge Menschen, die täglich Bubble Tea trinken, das Risiko gesundheitlicher Probleme mit zuckerhaltigen Getränken vergleichbar ist – ein nicht zu unterschätzendes Problem der öffentlichen Gesundheit.
 
-Das ist keine sensationsheischende Warnung, sondern ein reales Risiko, sobald Bubble Tea vom gelegentlichen Genuss zur täglichen Gewohnheit wird. Die 26.000 Getränkegeschäfte, die Taiwans Finanzministerium erfasst, sind nicht nur eine Gründungsstatistik, sondern auch ein Warnsignal für die öffentliche Gesundheit. Taiwans Gesundheitsministerium hat große Getränkeketten wiederholt verpflichtet, Kalorienangaben auszuweisen. Doch selbst wenn Verbraucher die Angabe „520 Kilokalorien“ sehen, entscheiden sich viele weiterhin für die volle Zuckermenge. Dieses kleine Detail zeigt, wie schwer sich menschliches Verhalten ändern lässt.
+Das ist keine übertriebene Warnung, sondern ein reales Risiko, das eintritt, wenn Bubble Tea von gelegentlichem Genuss zu täglicher Gewohnheit wird. Die 26.000 Geschäfte, die das Finanzministerium verfolgt, sind nicht nur Statistiken über Gründungen, sondern auch Warnsignale für die öffentliche Gesundheit. Das taiwanesische Ministerium für Gesundheit und Soziales hat mehrfach gefordert, dass Ketten Getränke mit Nährwertangaben kennzeichnen, aber die meisten Verbraucher wählten weiterhin Vollzucker, selbst nachdem sie „520 Kalorien“ sahen – ein kleiner Fakt, der zeigt, wie schwierig es ist, das Verhalten der Menschen zu ändern.
 
-2011 traf die taiwanische Esskultur ein noch direkterer Schlag: Der Weichmacher DEHP wurde illegal Emulgatoren für Lebensmittel und Getränke zugesetzt, darunter auch Produkten für handgeschüttelte Getränke wie Bubble Tea. Taiwans Food and Drug Administration bestätigte schließlich, dass **965 Produkte verunreinigt waren und 206 davon in 22 Länder exportiert worden waren**. Der Skandal ließ das Geschäft der taiwanischen Getränkeindustrie in Märkten wie Hongkong und Malaysia einbrechen und führte unmittelbar zu weitreichenden Änderungen der Lebensmittelsicherheitsgesetze.
+2011 traf Taiwans Esskultur einen weiteren Schlag: Das Phthalat DEHP wurde illegal in Lebensmitteln und Getränken gefunden, was viele Bubble-Tea-Läden betraf. Das taiwanesische Lebensmittel- und Medizinbehörde bestätigte schließlich, dass 965 Produkte kontaminiert waren, davon 206 nach 22 Ländern exportiert worden. Dieser Skandal führte zu einem massiven Rückgang der taiwanesischen Getränkegeschäfte in Hongkong und Malaysia, und wurde auch zur direkten Ursache für grundlegende Reformen der Lebensmittelsicherheitsgesetze in Taiwan.
 
-Auch das Umweltproblem ist nicht verschwunden. Die weltweite Abkehr von Einweg-Plastikstrohhalmen stellt Bubble Tea vor eine praktische technische Schwierigkeit: Papierstrohhalme weichen im Getränk auf, Metallstrohhalme werden als unangenehm heiß empfunden, biologisch abbaubare Materialien sind zu teuer. Bei nachhaltigen Verpackungen macht das Getränk deutlich langsamere Fortschritte als beim Markenmarketing.
+Umweltprobleme verschwanden nicht. Die globale Bewegung gegen Einweg-Plastiktuben stellte Bubble Tea vor eine praktische Herausforderung: Papiertuben werden beim Kontakt mit Flüssigkeit weich, Metalltuben sind zu heiß, und biologisch abbaubare Materialien sind zu teuer. Die Entwicklung nachhaltiger Verpackungen für dieses Getränk verlief weitaus langsamer als seine Markenstrategie.
 
-## „Neue Teegetränke“ und eine verwässerte Geschichte
+## „Neuer Tee“ und die verwässerte Geschichte
 
-Daneben findet ein leiserer Wettbewerb statt.
+Es gibt noch einen anderen, leiseren Wettbewerb.
 
-Festlandchinesische Marken für sogenannte „neue Teegetränke“ – Heytea, Nayuki und Chagee – eröffnen in den vergangenen Jahren weltweit in hohem Tempo neue Filialen. Einige verfügen im Ausland bereits über ebenso viele oder mehr Standorte als bestimmte taiwanische Marken. Noch auffälliger ist ihre Marketingsprache: Der taiwanische Ursprung von Bubble Tea wird in ihren Erzählungen zunehmend durch unscharfe Begriffe wie „Teekultur“ oder „asiatische Teeinnovation“ verwässert. Für taiwanische Marken ist die Deutungshoheit des Herkunftsortes damit zu einem ebenso wichtigen und womöglich noch schwierigeren Wettbewerb geworden wie das Geschäft selbst.
+Die „neuen Tee-Marken“ auf dem chinesischen Festland – wie Heytea, Nayuki und Chatime – eröffnen schnell Filialen in verschiedenen Ländern, und einige haben sogar mehr Filialen im Ausland als einige taiwanesische Marken. Noch bedeutender ist ihre Werbesprache: Die taiwanesische Herkunft von Bubble Tea wird in ihrer Narrative zunehmend durch vage Begriffe wie „Teekultur“ und „asiatische Innovation im Tee“ verwässert. Für taiwanesische Marken wird der „Ursprung“ zu einem Kampf gleich wichtig wie der kommerzielle Wettbewerb – und vielleicht noch schwieriger zu gewinnen.
 
-Im Handel kann man mit Kapital und Eröffnungstempo konkurrieren. Deutungshoheit hängt davon ab, wessen Geschichte mehr Menschen kennen und glauben.
+Werbung kann mit Kapital und Geschwindigkeit konkurrieren, aber Narrative gewinnt, wer mehr Menschen überzeugt und mehr Menschen glauben lässt.
 
-Taiwans Regierung und private Marken sind sich dessen durchaus bewusst. Bubble-Tea-Kulturveranstaltungen des Außenministeriums im Ausland, die Förderung durch die Overseas Community Affairs Council über taiwanische Gemeinschaften in anderen Ländern und die Entscheidung von Chun Shui Tang, Lin Xiu-huis Geschichte ganz oben auf der eigenen Website zu platzieren, sind Formen defensiver Erzählpolitik. Sie sollen verhindern, dass das Etikett „Made in Taiwan“ verblasst. Auf dem Weltmarkt trinken Kunden jedoch ein Erlebnis und keine Herkunftsgeschichte. Dieser Kampf wird daher niemals enden.
+Die taiwanesische Regierung und private Marken haben dies bemerkt. Die kulturelle Botschaft von Bubble Tea im Ausland, die Förderung durch taiwanesische Gemeinschaften im Ausland, und Chun Shui Tang, das die Geschichte von Lin Hsiu-hui stets auf seiner Startseite hervorhebt – all dies sind defensive Narrative, die versuchen, das Etikett „Made in Taiwan“ nicht zu verwässern. Aber auf dem globalen Markt trinken die Verbraucher die Erfahrung, nicht die Herkunftsgeschichte, und dieser Kampf wird für immer andauern.
 
-## Eine Bewegung, die weiterlebt
+## Eine Handlung, die weitergeht
 
-Lin Xiu-huis Bewegung aus dem Jahr 1987 ist bis heute die auffälligste Geschichte auf der Website von Chun Shui Tang. Der Milchtee mit Tapiokaperlen verkaufte sich innerhalb weniger Monate besser als alle anderen Getränke. Gerade deshalb kommt diese Episode einem „Ursprungsmythos“ des Getränks am nächsten.
+Der Akt von Lin Hsiu-hui im Jahr 1987 ist immer noch die prominenteste Geschichte auf der Startseite von Chun Shui Tang. Das Glas Tapioca-Tee verkaufte sich in wenigen Monaten besser als alle anderen Getränke – diese Tatsache allein ist die Version dieser Geschichte, die der „mythologische Ursprung“ am nächsten kommt.
 
-Im Jahr 2026 kostet es jedoch weit mehr Kraft, die Worte „in Taiwan erfunden“ im Zentrum dieser Geschichte zu halten, als damals die Perlen in den Milchtee zu schütten. Wie viele Menschen trinken jeden Tag Bubble Tea, ohne zu wissen oder sich dafür zu interessieren, woher er stammt? Diese Zahl lässt sich kaum ermitteln.
+Aber im Jahr 2026 braucht es mehr Kraft, um die Worte „von Taiwan erfunden“ in diesem Geschichte zu behalten, als damals, als Lin Hsiu-hui die Tapioca-Kugeln in den Milchtee gegeben hat. Wie viele Menschen auf der Welt heute ein Glas Bubble Tea trinken, ohne zu wissen oder zu kümmern, woher es kommt? Diese Zahl ist schließlich unmöglich zu berechnen.
 
-Jener Moment wusste natürlich nicht, was er auslöste. Große Zufälle wissen das nie.
+Natürlich wusste dieser Moment nicht, was er tat. Große Zufälle wissen es nie.
 
-## Weiterlesen
+## Weiterführende Literatur
 
-- Überblick über die taiwanische Küche — eine Karte von indigenen Traditionen bis Michelin und der Platz von Bubble Tea in 400 Jahren kulinarischer Vermischung
-- Taiwans Kultur handgeschüttelter Getränke — die weltweite Expansion von 50 Lan, Gong Cha, CoCo und anderen Marken in mehr als 40 Länder
-- Teekultur — von John Dodds Oolongtee im Jahr 1865 bis zum heutigen Hochlandtee und der Qualitätsgeschichte taiwanischen Tees
+- [Gesamtüberblick über taiwanesische Küche](/food/台灣美食總覽) – Von den Ureinwohnern bis zu Michelin: Die Position von Bubble Tea in vierhundert Jahren gehypten Geschmackserlebnissen
+- [Taiwanesische Getränkekultur](/de/food/hand-shaken-drink-culture) – Die Expansion von 50 Lan, Gong Cha, CoCo und anderen Marken in über 40 Länder
+- [Teekultur](/de/food/golden-age-echoes-taiwan-tea-culture) – Von Teedeys Oolong-Tee 1865 bis zu den Bergtee-Sorten von heute: Die Legende der taiwanesischen Teequalität
+
+## Bildnachweise
+
+- Hero: Klassisches Bubble Tea Detail, Fotografie von Oqmilteashop, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Classic_bubble_tea.jpg), CC BY-SA 3.0.
 
 ## Quellen
 
-- [Offizielle Website von Chun Shui Tang: die Erfindung von Bubble Tea](https://www.chunshuitang.com.tw/article-detail/invent-bubble-milk-tea/) (Primärquelle)
-- [CNN Travel: The rise of bubble tea, one of Taiwan's most beloved beverages](https://edition.cnn.com/travel/article/taiwan-bubble-tea-origins/index.html) (mit Lin Xiu-huis Aussage)
-- [ETtoday: Wer erfand Bubble Tea? Urteil nach zehn Jahren Rechtsstreit zwischen Chun Shui Tang und Hanlin](https://www.ettoday.net/news/20190731/1502150.htm) (Bericht über das Urteil von 2019)
-- [Datenanalyse zum taiwanischen Markt für handgeschüttelte Getränke](https://lndatatech.github.io/taiwan-drink/) (Statistiken des taiwanischen Finanzministeriums, Primärdaten)
-- [TIME: What Is the Milk Tea Alliance?](https://time.com/5904114/milk-tea-alliance/) (Hintergrund zur Milk Tea Alliance)
-- [Maximize Market Research: Global Bubble Tea Market Size 2024](https://www.maximizemarketresearch.com/market-report/global-bubble-tea-market/110228/) (weltweite Marktdaten)
-- [PubMed: 2011 Taiwan food scandal — plasticizer contamination](https://pubmed.ncbi.nlm.nih.gov/23684997/) (wissenschaftliche Primärquelle zu 965 verunreinigten Produkten)
-- [National University Hospital Singapore: What happens if you drink too much bubble tea?](https://www.nuhsplus.edu.sg/article/what-happens-if-you-drink-too-much-bubble-tea) (Quelle der Aussage von Dr. Martin Lee)
+- [Offizielle Website von Chun Shui Tang: Die Erfindung von Bubble Tea](https://www.chunshuitang.com.tw/article-detail/invent-bubble-milk-tea/) (Erstquelle)
+- [CNN Travel: Der Aufstieg von Bubble Tea, einem der beliebtesten Getränke Taiwans](https://edition.cnn.com/travel/article/taiwan-bubble-tea-origins/index.html) (enthält Zitate von Lin Hsiu-hui)
+- [ETtoday: Wer hat Bubble Tea erfunden? Chun Shui Tang und Hanlin Teehaus streiten zehn Jahre vor Gericht](https://www.ettoday.net/news/20190731/1502150.htm) (Bericht über das 2019er Urteil)
+- [Taiwanesische Getränkemarkt-Datenanalyse (Statistik des taiwanesischen Finanzministeriums)](https://lndatatech.github.io/taiwan-drink/) (Erstquelle)
+- [TIME: Was ist die Milk Tea Alliance?](https://time.com/5904114/milk-tea-alliance/) (Hintergrund der Milchtee-Allianz)
+- [Maximize Market Research: Global Bubble Tea Market Size 2024](https://www.maximizemarketresearch.com/market-report/global-bubble-tea-market/110228/) (Globale Marktdaten)
+- [PubMed: 2011 Taiwan food scandal — plasticizer contamination](https://pubmed.ncbi.nlm.nih.gov/23684997/) (akademische Erstquelle, Daten zu 965 kontaminierten Produkten)
+- [National University Hospital Singapore: Was passiert, wenn man zu viel Bubble Tea trinkt?](https://www.nuhsplus.edu.sg/article/what-happens-if-you-drink-too-much-bubble-tea) (Quelle für Zitate von Dr. Martin Lee)
 
-Verwandte Themen: Nachtmarktkultur, taiwanische Imbissgerichte und taiwanische Esskultur.
+Verwandte Themen dieses Eintrags: [Nachtmarktkultur](/de/food/night-market-culture/), [taiwanische Snacks](/de/food/taiwanese-street-food/), taiwanesische Esskultur.

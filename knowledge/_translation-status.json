@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-23T21:59:08+08:00",
-    "zhCommitHead": "70aca27d8",
+    "lastUpdated": "2026-09-23T22:07:19+08:00",
+    "zhCommitHead": "5437ac36a",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 955,
-        "stale": 11,
-        "metadata_stale": 5,
-        "missing": 153,
+        "fresh": 962,
+        "stale": 6,
+        "metadata_stale": 4,
+        "missing": 152,
         "orphan": 0
       }
     },
@@ -25888,8 +25888,8 @@
           "sourceContentHash": "sha256:151b93f3268baa1f",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-23T11:53:24.088178+00:00",
-          "translationLastCommit": "59ff7e7d",
-          "translationLastModified": "2026-07-30T04:02:34+08:00",
+          "translationLastCommit": "5437ac36",
+          "translationLastModified": "2026-09-23T21:59:09+08:00",
           "inferred": false,
           "footnoteDefs": 40,
           "bytes": 56089,
@@ -141733,18 +141733,18 @@
         "de": {
           "path": "de/People/hung-hsing-fu.md",
           "translatedFrom": "People/洪醒夫.md",
-          "sourceCommitSha": "69b3afd91",
-          "sourceContentHash": "sha256:0eca334f2d6037af",
-          "sourceBodyHash": "",
-          "translatedAt": "2026-08-19T03:24:18+08:00",
+          "sourceCommitSha": "e413aa732",
+          "sourceContentHash": "sha256:7a0754dc62002a77",
+          "sourceBodyHash": "sha256:f80ea3550618f493",
+          "translatedAt": "2026-09-23T21:26:33+08:00",
           "translationLastCommit": "80d3ea51",
           "translationLastModified": "2026-08-19T03:37:22+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 5267,
+          "footnoteDefs": 11,
+          "bytes": 30784,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (11→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -151851,18 +151851,18 @@
         "de": {
           "path": "de/Food/milkfish-congee.md",
           "translatedFrom": "Food/虱目魚粥.md",
-          "sourceCommitSha": "pre-toolkit",
-          "sourceContentHash": "sha256:5890b2a9aad07932",
-          "sourceBodyHash": "",
-          "translatedAt": "2026-09-06T21:30:00+08:00",
+          "sourceCommitSha": "03b3aaae8",
+          "sourceContentHash": "sha256:7cca8a0f488ac56f",
+          "sourceBodyHash": "sha256:a40f868b6fc53c66",
+          "translatedAt": "2026-09-23T21:59:29+08:00",
           "translationLastCommit": "cbed3d57",
           "translationLastModified": "2026-09-07T07:17:20+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 8961,
+          "bytes": 8936,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "pre-toolkit"
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         }
       }
     },
@@ -162541,18 +162541,18 @@
         "de": {
           "path": "de/Food/taiwan-bread-and-baking.md",
           "translatedFrom": "Food/台灣麵包與烘焙.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "sourceBodyHash": "",
-          "translatedAt": "",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:dc1169789f149357",
+          "sourceBodyHash": "sha256:86fbaa53393cb1b7",
+          "translatedAt": "2026-09-23T21:59:29+08:00",
           "translationLastCommit": "053f0c07",
           "translationLastModified": "2026-09-08T08:58:33+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 12575,
+          "bytes": 12289,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -163765,18 +163765,18 @@
         "de": {
           "path": "de/Food/bubble-tea.md",
           "translatedFrom": "Food/珍珠奶茶.md",
-          "sourceCommitSha": "37638e173",
-          "sourceContentHash": "sha256:d90e80b19559290b",
-          "sourceBodyHash": "sha256:9bc13bf8c8054628",
-          "translatedAt": "2026-09-01T19:58:00+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:4b6c70d0fd8de132",
+          "sourceBodyHash": "sha256:402d0d087252b30e",
+          "translatedAt": "2026-09-23T21:59:29+08:00",
           "translationLastCommit": "34220946",
           "translationLastModified": "2026-09-22T01:09:11+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 17260,
+          "bytes": 16821,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -171544,18 +171544,18 @@
         "de": {
           "path": "de/History/japanese-colonial-era.md",
           "translatedFrom": "History/日治時期.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "sourceBodyHash": "",
-          "translatedAt": "",
+          "sourceCommitSha": "1e674def2",
+          "sourceContentHash": "sha256:ab038fc6af555335",
+          "sourceBodyHash": "sha256:c1f42478c12060a3",
+          "translatedAt": "2026-09-23T21:59:29+08:00",
           "translationLastCommit": "3f990c82",
           "translationLastModified": "2026-09-02T07:13:17+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 11253,
+          "bytes": 12026,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -176535,20 +176535,18 @@
         "de": {
           "path": "de/History/taiwan-radio-broadcasting-history.md",
           "translatedFrom": "History/台灣廣播史.md",
-          "sourceCommitSha": "9cef725ce",
-          "sourceContentHash": "sha256:d166faa74a30d730",
+          "sourceCommitSha": "174a83b65",
+          "sourceContentHash": "sha256:83934ab33e775cb3",
           "sourceBodyHash": "sha256:9b5ab13cba09c99e",
-          "translatedAt": "2026-09-13T00:44:08+08:00",
+          "translatedAt": "2026-09-23T21:26:33+08:00",
           "translationLastCommit": "4bd82ef6",
           "translationLastModified": "2026-09-22T01:04:31+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 24512,
+          "bytes": 23836,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -192619,7 +192617,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Geography/penghu-county.md",
+          "translatedFrom": "Geography/澎湖縣.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:45cce9092926094b",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-23T13:02:07.739849+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 40,
+          "bytes": 55853,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },

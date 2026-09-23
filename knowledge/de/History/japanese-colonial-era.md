@@ -1,81 +1,91 @@
 ---
-title: 'Japanische Kolonialzeit'
-description: '1895 bis 1945 herrschte Japan 50 Jahre über Taiwan. Diese Epoche brachte eine umfassende Modernisierung und institutionalisierte Verwaltung, zugleich aber auch die Assimilationspolitik der "Kōminka" — beides prägt die taiwanische Gesellschaft bis heute.'
+title: 'Die japanische Kolonialherrschaft in Taiwan (1895–1945)'
+description: 'Von 1895 bis 1945 unterwarf Japan Taiwan für 50 Jahre und setzte eine umfassende Modernisierung sowie eine systematische Kulturassimilation durch, was tiefgreifende Auswirkungen auf die taiwanesische Gesellschaft hatte.'
 date: 2026-03-17
 category: 'History'
-tags: ['History', 'japanische Herrschaft', 'Modernisierung', 'Kōminka-Bewegung']
-subcategory: 'Kolonialismus und Imperium'
+tags:
+  [
+    'Geschichte',
+    'japanische Kolonialherrschaft',
+    'Modernisierung',
+    'kaiserliche Assimilation',
+  ]
+subcategory: '殖民與帝國'
 author: 'Taiwan.md Contributors'
 featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'History/日治時期.md'
+sourceCommitSha: '1e674def2'
+sourceContentHash: 'sha256:ab038fc6af555335'
+sourceBodyHash: 'sha256:c1f42478c12060a3'
+translatedAt: '2026-09-23T21:59:29+08:00'
 ---
 
-# Japanische Kolonialzeit (日治時期)
+# Die japanische Kolonialherrschaft in Taiwan
 
-> **Überblick in 30 Sekunden:** Nach dem Vertrag von Shimonoseki (馬關條約) im Jahr 1895 regierte Japan Taiwan 50 Jahre lang. Über das Generalgouvernement (總督府) wurden umfassende Modernisierungen durchgeführt — Infrastruktur, Bildungswesen und Industrieaufbau. Parallel dazu sollte die Kōminka-Bewegung (皇民化運動) die Taiwaner assimilieren. Die Kolonialzeit war zugleich von zahlreichen antijapanischen Bewegungen geprägt und endete 1945 mit der Kapitulation Japans am Ende des Zweiten Weltkriegs.
+> **30-Sekunden-Überblick:** Nach dem Vertrag von Shimonoseki im Jahr 1895 unterstand Taiwan 50 Jahre unter japanischer Herrschaft. Durch das Gouvernement-System wurde eine umfassende Modernisierung durchgesetzt, einschließlich Infrastruktur, Bildungssystemen und industrieller Entwicklung. Gleichzeitig wurde der kaiserliche Assimilationskampagn betrieben, um die taiwanesische Bevölkerung zu integrieren. Im Verlauf dessen entstanden mehrere Widerstandsbewegungen, bis Japan im Jahr 1945 nach dem Ende des Zweiten Weltkriegs kapitulierte.
 
-Von 1895 bis 1945 herrschte Japan ein halbes Jahrhundert über Taiwan — eine Zeit, die zugleich rasche Modernisierung und koloniale Unterdrückung samt kultureller Assimilation brachte. Beide Kräfte verflechten sich zu einer Grundschicht der heutigen taiwanischen Gesellschaft.[^1]
+Von 1895 bis 1945 dauerte die japanische Herrschaft über Taiwan fünfzig Jahre. Diese Geschichte brachte einerseits schnelles modernes Aufbau, andererseits koloniale Unterdrückung und kulturelle Assimilationspolitik. Beides miteinander verflochten prägte die Grundlagen der heutigen taiwanesischen Gesellschaft und Kultur.[^1]
 
-## Koloniales Herrschaftssystem
+## Kolonialherrschaftssystem
 
-Das Generalgouvernement Taiwan (台灣總督府) mit Sitz in Taipeh war die oberste Herrschaftsinstanz Japans auf der Insel; der Generalgouverneur wurde vom Tennō ernannt und vereinte Exekutive, Legislative und Militärgewalt. Das "Gesetz 63" (六三法) ermächtigte ihn, gesetzeskräftige Verordnungen zu erlassen. Unter dem Polizeisystem organisierte die Baojia-Struktur (保甲) jeden Haushalt in ein System gegenseitiger Überwachung und Kollektivhaftung, um die koloniale Kontrolle bis in die Basis zu tragen.
+Das Taiwan-Gouvernement wurde in Taipeh errichtet und war die höchste japanische Verwaltungseinheit in Taiwan. Der Gouverneur wurde vom Kaiser ernannt und verfügte über alle hoheitlichen, gesetzgebenden und militärischen Befugnisse. Das „Gesetz sechs und drei“ ermächtigte den Gouverneur, Verordnungen mit Gesetzeskraft zu erlassen. Das Polizeisystem organisierte die „Baojiao“-Einheiten, die jeden Haushalt in ein gegenseitig überwachtes System einbinden, um die koloniale Kontrolle bis in die Untergründe vorzudringen.
 
-Als Japan Taiwan 1895 übernahm, stieß es zuerst auf den bewaffneten Widerstand der Republik Taiwan (台灣民主國). Auch danach brachen immer wieder regionale Aufstände aus. Erst nach dem Xilai-An-Zwischenfall (西來庵事件) 1915 endete der bewaffnete Widerstand weitgehend, und die Kolonialherrschaft trat in eine relativ stabile Modernisierungsphase ein.
+In den frühen Tagen der japanischen Übernahme Taiwans 1895 stieß Japan auf bewaffneten Widerstand der Demokratischen Republik Taiwan. Später folgten immer wieder lokale bewaffnete Aufstände, bis 1915 nach dem „Xilai'an-Vorfall“ die bewaffneten Widerstände weitgehend beendet waren und die koloniale Herrschaft in eine relativ stabile Modernisierungsphase eintrat.
 
-Verwaltungstechnisch wurde die Insel in die Präfekturen Taipeh, Hsinchu, Taichung, Tainan, Kaohsiung u. a. unterteilt; eine flächendeckende Landerhebung klärte die Eigentumsverhältnisse und legte die institutionelle Grundlage für moderne Industrie und Steuersystem.
+Verwaltungstechnisch wurde das ganze Territorium in die Präfekturen Taipeh, Hsinchu, Taichung, Tainan und Kaohsiung unterteilt. In Kombination mit der Landregistrierung wurde das Grundbesitzrecht des gesamten Territoriums festgestellt, was die Grundlage für moderne Industrie und Steuerung bildete.
 
-## Modernisierung
+## Modernisierungsprojekte
 
-Im Verkehr wurde 1908 die durchgehende Nord-Süd-Bahnlinie (縱貫鐵路) eröffnet, die Keelung mit Takao (heute Kaohsiung) verband — eines der damals größten kolonialen Bahnsysteme Ostasiens. Zugleich wurden die Häfen von Keelung und Kaohsiung zu modernen Handelshäfen ausgebaut, was Taiwans Außenhandel erheblich stärkte.
+Im Bereich der Verkehrsinfrastruktur wurde die Hochgeschwindigkeits-Eisenbahn 1908 vollständig in Betrieb genommen und verband das Hafenbecken von Keelung mit der Stadt Dakao (heute Kaohsiung). Es war eines der größten Eisenbahnnetze in Ostasien unter kolonialer Herrschaft. Gleichzeitig wurden die Häfen von Keelung und Kaohsiung zu modernen Seehäfen umgebaut, was die Außenhandelsfähigkeit Taiwans erheblich steigert.
 
-In der Wasser- und Landwirtschaft plante der japanische Ingenieur Hatta Yoichi (八田與一) den Kanan-Kanal (嘉南大圳), dessen Bau von 1920 bis 1930 zehn Jahre dauerte; er machte 150.000 Hektar Ackerland in der Chianan-Ebene (嘉南平原) zu einem stabil bewässerten Gebiet — Hatta wird in Taiwan bis heute geehrt.[^2] Das Wasserkraftwerk am Sonne-Mond-See (日月潭) deckte den Strombedarf der Insel.
+Im Bereich der Wasser- und Landwirtschaft wurde der „Ji-nan Große Kanal“ von dem japanischen Ingenieur Tanaka Giichi entworfen und innerhalb von zehn Jahren (1920–1930) errichtet. Er verwandelte 150.000 Hektar landwirtschaftliches Flachland in Ji-nan in ein systematisch bewässertes Gebiet. Tanaka Giichi wird bis heute in Taiwan hoch geehrt. Der Stromkraftwerk in Sun Moon Lake versorgte die gesamte Insel mit Strom.
 
-Im Bildungswesen hoben die öffentlichen Schulen (公學校, "Kōgakkō") die **Einschulungsquote** taiwanischer Kinder von unter 5 % zu Beginn der Kolonialzeit auf rund 71 % (1944). "Alphabetisierungsquote" (識字率) und "Einschulungsquote" (就學率) sind zu unterscheiden: erstere maß die Kolonialregierung an japanischer Lese- und Schreibfähigkeit parallel zum traditionellen chinesischsprachigen System — beide Maßstäbe sollten nicht vermischt werden. Die 1928 gegründete Kaiserliche Universität Taipeh (台北帝國大學, heute Taiwan University) war Vorläuferin der Hochschulen Taiwans; die Bildungs- und Berufschancen taiwanischer Studierender blieben durch ethnische Ungleichbehandlung beschränkt.
+Im Bildungswesen führte das Schulsystem dazu, dass die Schulbesuchungsrate der taiwanesischen Kinder von weniger als 5 % am Anfang der Herrschaft auf etwa 71 % am Ende des japanischen Zeitalters stieg (Statistik von 1944). Die „Buchstabenrate“ und die „Schulbesuchungsrate“ sind unterschiedliche Indikatoren: Die japanische Kolonialregierung verwendete für die Buchstabenrate als Standard die japanische Schrift, was parallel zur traditionellen chinesischen Schrift war. Beide Standards sollten nicht vermischt werden. Die 1928 gegründete „Taipeh Kaiserliche Universität“ (heute: Nationaluniversität Taiwans) war das Vorbild für höhere Bildungseinrichtungen in Taiwan, doch die Chancen für taiwanesische Studenten auf Weiterbildung und Beschäftigung blieben durch ethnische Diskriminierung begrenzt.
 
-Eine treibende Kraft der Modernisierung war **Gotō Shinpei** (後藤新平, Zivilverwaltungsleiter 1898-1906): auf Grundlage seiner "biologischen Doktrin der Kolonialverwaltung" ging er von wissenschaftlicher Erhebung aus und übertrug schrittweise japanische Institutionen — der Rahmen für Bahn, Landerhebung und öffentliche Hygiene entstand so.
+Einer der treibenden Kräfte hinter der Modernisierung war **Goto Shimpei** (Bevölkerungsbeamter, 1898–1906), der aufgrund seiner Theorie der „biologischen kolonialen Herrschaft“ wissenschaftliche Untersuchungen durchführte und nach und nach japanische Institutionen nach Taiwan brachte. Er legte den Grundstein für Eisenbahnen, Landregistrierung und öffentliche Gesundheitsdienste in Taiwan.
 
 ## Soziale Bewegungen und kultureller Widerstand
 
-In den 1920er Jahren nahm der politische Widerstand neue Formen an. Die von Lin Hsien-tang (林獻堂) geführte "Petitionsbewegung zur Einrichtung eines taiwanischen Parlaments" (台灣議會設置請願運動, 1921-1934) suchte politische Teilhabe im Kolonialsystem und reichte fünfzehn Petitionen beim japanischen Reichstag ein. Chiang Wei-shui (蔣渭水) gründete 1921 mit Lin Hsien-tang die Taiwanische Kulturgesellschaft (台灣文化協會), die kulturelle Aufklärung zur Stärkung des Nationalbewusstseins einsetzte; 1927 folgte die Taiwanische Volkspartei (台灣民眾黨) als politische Organisation.[^3]
+Die politische Resistenz entwickelte sich in den 1920er Jahren weiter. Die Bewegung „Petition für die Einrichtung eines taiwanesischen Parlaments“ (1921–1934), angeführt von Lin Xiansheng, suchte innerhalb des kolonialen Systems nach politischer Teilhabe und richtete insgesamt fünfzehn Petitionen an das Kaiserparlament. Chiang Wei-shui gründete 1921 gemeinsam mit Lin Xiansheng die „Vereinigung für taiwanesische Kultur“ und setzte sich für kulturelle Aufklärung und nationales Bewusstsein ein. 1927 gründete er dann die „Partei des taiwanesischen Volkes“ und förderte die politische Organisation.
 
-Der **Chih-ching-Zwischenfall 1923** (治警事件) war eine zentrale Repressionsaktion gegen die Bewegung: Unter Berufung auf das "Sicherheitspolizeigesetz" (治安警察法) verhaftete die Kolonialregierung Kernmitglieder der Petitionsbewegung — darunter Chiang Wei-shui — und leitete einen aufsehenerregenden Prozess ein, der mit Schuldsprüchen endete. Der Vorfall verschaffte der Petitionsbewegung große Öffentlichkeit und beschleunigte die politische Ausdifferenzierung. Die **Taiwanische Kommunistische Partei** (台灣共產黨) wurde 1928 von Hsieh Hsueh-hung (謝雪紅) und anderen in Schanghai als Außenorganisation der Kommunistischen Partei Japans gegründet, forderte die nationale Unabhängigkeit Taiwans, wurde umgehend zerschlagen und war 1931 faktisch aufgelöst.[^4]
+Das **„Polizei-Sicherheitsereignis 1923“** war eine wichtige Unterdrückungsaktion der Kolonialmacht: Japan verhaftierte die führenden Mitglieder der Petitionsbewegung (darunter Chiang Wei-shui) wegen Verstoßes gegen das „Gesetz zur Sicherung der öffentlichen Ordnung“ und führte eine spektakuläre Debatte vor Gericht. Letztendlich wurde alle Verurteilten schuldig gesprochen. Dieses Ereignis erhöhte die öffentliche Bekanntheit der Petitionsbewegung erheblich und beschleunigte die politische Bewusstseinsbildung der taiwanesischen Bevölkerung. Die **„Kommunistische Partei Taiwans 1928“**, gegründet von Xiè Xuěróng und anderen in Schanghai, forderte die nationale Unabhängigkeit Taiwans, wurde jedoch von der Kolonialregierung vollständig bekämpft und 1931 aufgelöst.
 
-Der japanische Wissenschaftler **Yanaihara Tadao** (矢內原忠雄) veröffentlichte 1929 das Werk "Taiwan unter dem Imperialismus" (帝國主義下の台湾), in dem er die Ausbeutungsstruktur der japanischen Kolonialherrschaft mit den Werkzeugen der kapitalistischen Politischen Ökonomie analysierte. Es zählt bis heute zu den am häufigsten zitierten kritischen Werken der Kolonialgeschichtsschreibung.
+Der japanische Gelehrte **Yenishi Chūshō** veröffentlichte 1929 das Werk _„Taiwan unter dem Imperialismus“_, in dem er die Ausbeutungsstrukturen der japanischen Kolonialherrschaft aus marxistischer Sicht analysierte. Es bleibt bis heute eines der am häufigsten zitierten kritischen kolonialgeschichtlichen Werke.
 
-Der Wushe-Zwischenfall (霧社事件) von 1930 war der größte bewaffnete indigene Aufstand der japanischen Kolonialzeit. Der Häuptling der Seediq, Mona Rudao (莫那魯道), führte etwa dreihundert Angehörige seines Volkes in den Aufstand; die japanische Niederschlagung und die anschließende Politik lösten heftige Kontroversen aus.
+Der **Nebelberg-Aufstand 1930** war der größte bewaffnete Widerstand der indigenen Bevölkerung während der japanischen Herrschaft. Der Sädek-Stammführer Mona Rudao führte etwa dreihundert Stamangehörige im Aufstand, woraufhin die japanische Reaktion und die darauf folgenden Politiken weitgehend umstritten blieben.
 
-In der Literatur schrieben Autoren wie Lai He (賴和), Yang Kui (楊逵) und Lü Hê-jo (呂赫若) auf umgangssprachlichem Chinesisch und auf Japanisch — innerhalb des Kolonialsystems formulierten sie Kritik an der Unterdrückung, bekannten sich zum eigenen Boden und legten den bodenständigen Grundton der neuen taiwanischen Literatur.
+In der Literatur nutzten Schriftsteller wie Lai He, Yang Ku und Lu He ruo die einfache chinesische Sprache und japanische Texte, um Kritik an der Unterdrückung und Identifikation mit der Heimat zu äußern und legten so den Grundstein für die moderne taiwanesische Literatur.
 
-## Kōminka-Phase und Nachkriegszeit
+## Kaiserliche Assimilation und Kriegsende
 
-Mit dem Ausbruch des Japanisch-Chinesischen Krieges 1937 ging die Kolonie in ein System der Kriegsmobilisierung über, und die Kōminka-Bewegung (皇民化運動) entfaltete sich in großem Umfang.
+Nach dem Ausbruch des Japanisch-Chinesischen Krieges 1937 trat das Kolonialgebiet in eine Kriegsökonomie ein, und die kaiserliche Assimilationskampagne wurde groß angelegt durchgeführt.
 
-Die Politik der "Alltagssprache Japanisch" (國語常用) beschränkte das Taiwanische (台語), die "Namensänderung" (改姓名) förderte japanische Namen, Schreinbesuche wurden erzwungen, und taiwanische Männer wurden als japanische Militärangehörige oder Zivilbedienstete eingezogen — schätzungsweise über 200.000 leisteten im Zweiten Weltkrieg Wehr- oder Hilfsdienst.
+Die Verwendung von Tai-Gu (Taiwanesisch) wurde durch das „Gesetz der häufig verwendeten Nationalsprache“ eingeschränkt. Der „Umbenennung“-Kampagne ermutigte zur Annahme japanischer Namen. Der Besuch der Schreinvereinigung wurde zur Pflicht erklärt, und taiwanesische Männer wurden rekrutiert, um als Arbeiter oder Soldaten im Dienste Japans zu dienen. Schätzungsweise mehr als 200.000 Personen nahmen während des Zweiten Weltkriegs an militärischen oder unterstützenden Tätigkeiten teil.
 
-1945 wurde Japan besiegt, Taiwan kam unter die Verwaltung der Republik China. Moderne Infrastruktur, ausgebildetes Fachpersonal, Rechtsstaatsideen und Verwaltungseffizienz aus der japanischen Zeit waren wichtige Ausgangspunkte der Nachkriegsentwicklung. Die Komplexität der ethnischen Identitäten — die kulturelle Kluft zwischen der japanischsprachigen Generation und den vom Festland zugewanderten Gruppen — zählt zugleich zu den Ursprüngen späterer politischer Konflikte im Nachkriegs-Taiwan.
+1945 kapitulierte Japan und Taiwan kehrte unter die Herrschaft der Republik China zurück. Die moderne Infrastruktur, gebildeten Kräfte, Rechtsstaatlichkeit und Verwaltungseffizienz, die während der japanischen Kolonialherrschaft entstanden waren, wurden nach dem Krieg zur Entwicklung Taiwans genutzt. Die komplexe ethnische Identität (Kulturelle Kluft zwischen der japanischen und der von Kontinental-China stammenden Bevölkerung) wurde jedoch zu einem weiteren Ursprung für politische Konflikte in Taiwan.
 
-## Geschichtsperspektive: koloniale Modernisierung vs. koloniale Ausbeutung
+## Historische Perspektiven: Kolonialmodernisierung vs. Kolonialausbeutung
 
-Die historische Deutung dieser Zeit wird in der Wissenschaft weiter kontrovers diskutiert. Die "These der kolonialen Modernisierung" (殖民現代化論) betont das positive Erbe von Infrastruktur, Bildung und Gesundheitssystem als materielle Grundlage der Industrialisierung. Die "These der kolonialen Ausbeutung" (殖民剝削論) hebt hervor, dass die Landerhebung indigenen Völkern und Kleinbauern die traditionellen Landrechte entzog, dass die Exportstrukturen von Zucker- und Reisindustrie dem japanischen Imperium dienten statt Taiwans Entwicklung, und dass die Kōminka-Politik die chinesischsprachige Überlieferung systematisch zerstörte. Die einheimische Geschichtsschreibung — etwa Wu Micha (吳密察) oder Wakabayashi Masahiro (若林正丈) — integriert beide Perspektiven und meidet einseitige Bewertungen.
+Die Interpretation der Geschichte der japanischen Kolonialherrschaft ist in der akademischen Gemeinschaft weiterhin umstritten. Die Theorie der „kolonialen Modernisierung“ betont die positiven Erben von Infrastruktur, Bildung und Gesundheitsdiensten und argumentiert, dass die japanische Kolonialherrschaft Taiwans industrielle Grundlagen gelegt hat. Die Theorie der „kolonialen Ausbeutung“ weist jedoch darauf hin, dass die Landregistrierung die traditionellen Grundbesitzrechte der indigenen Bevölkerung und kleiner Bauern entzogen hat. Die Exportstrukturen von Zucker und Reis dienten den Anforderungen des japanischen Reiches und nicht der Entwicklung Taiwans. Die kaiserliche Assimilationskampagne zerstörte systematisch die traditionelle chinesische Kultur. Taiwanesische Geschichtswissenschaftler (z.B. Wu Miqi und Ryo Bara) neigen dazu, beide Perspektiven zu verbinden und vermeiden eine einseitige Bewertung.
 
-**Anmerkung zur Wortwahl:** Die Begriffe 日治 (japanische Herrschaft) und 日據 (japanische Besetzung) spiegeln in der taiwanischen Geschichtswissenschaft unterschiedliche Standpunkte wider; ersterer gilt als neutral-akademisch, letzterer betont die koloniale Besetzung. Dieser Text verwendet 日治 ohne politische Vorannahme.
+**Begriffserklärung:** Die Begriffe „Japanische Herrschaft“ (jpan. _Nitchū_) und „Japanische Besetzung“ (jpan. _Nitchū_) spiegeln unterschiedliche historische Positionen wider. Der erste ist neutraler und akademischer, der zweite betont die koloniale Besetzung. In diesem Text wird „Japanische Herrschaft“ verwendet, ohne politische Vorlieben.
 
-## Referenzen
+## Quellen
 
-[^1]: [Taiwan während der japanischen Herrschaft — Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E6%97%A5%E6%B2%BB%E6%99%82%E6%9C%9F) — Gesamtübersicht der japanischen Kolonialzeit Taiwans mit Herrschaftsstruktur, wichtigen Ereignissen und Politik der einzelnen Phasen.
+[^1]: [Taiwan unter japanischer Kolonialherrschaft — Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E6%97%A5%E6%B2%BB%E6%99%82%E6%9C%9F) — Überblick über die japanische Kolonialherrschaft in Taiwan, einschließlich Regierungssystemen, Zeitleiste wichtiger Ereignisse und Richtlinien verschiedener Epochen.
 
-[^2]: [Chianan-Kanal — Wikipedia](https://zh.wikipedia.org/wiki/%E5%98%89%E5%8D%97%E5%A4%A7%E5%9C%B3) — Baugeschichte des Chianan-Kanals und ingenieurtechnischer Hintergrund Hatta Yoichis.
+[^2]: [Der große Kanal von Ji-nan — Wikipedia](https://zh.wikipedia.org/wiki/%E5%98%89%E5%8D%97%E5%A4%A7%E5%9C%B3) — Bauverlauf des großen Kanals von Ji-nan und der Ingenieurhintergrund von Tanaka Giichi.
 
-[^3]: [Taiwanische Kulturgesellschaft — Wikipedia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E6%96%87%E5%8C%96%E5%8D%94%E6%9C%83) — Entstehungshintergrund der Taiwanischen Kulturgesellschaft, die Rollen Chiang Wei-shuis und Lin Hsien-tangs sowie die spätere Spaltung und ihr Verhältnis zur Taiwanischen Volkspartei.
+[^3]: [Vereinigung für taiwanesische Kultur — Wikipedia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E6%96%87%E5%8C%96%E5%8D%94%E6%9C%83) — Gründungsgrundlagen der Vereinigung für taiwanesische Kultur, die Rolle von Chiang Wei-shui und Lin Xiansheng sowie die Spaltung und Beziehung zur Partei des taiwanesischen Volkes.
 
-[^4]: [Chih-ching-Zwischenfall — Wikipedia](https://zh.wikipedia.org/wiki/%E6%B2%BB%E8%AD%A6%E4%BA%8B%E4%BB%B6) — Ablauf der Verhaftungen von Mitgliedern der Petitionsbewegung durch die japanische Kolonialregierung nach dem Sicherheitspolizeigesetz 1923.
+[^4]: [Polizei-Sicherheitsereignis — Wikipedia](https://zh.wikipedia.org/wiki/%E6%B2%BB%E8%AD%A6%E4%BA%8B%E4%BB%B6) — Ablauf des 1923er Ereignisses, in dem die japanische Kolonialregierung Mitglieder der Petitionsbewegung wegen Verstoßes gegen das Sicherheitsgesetz verhaftierte.
 
-[^5]: [Gotō Shinpei — Wikipedia](https://zh.wikipedia.org/wiki/%E5%BE%8C%E8%97%A4%E6%96%B0%E5%B9%B3) — Die "biologische Doktrin der Kolonialverwaltung" Gotō Shinpeis (Zivilverwaltungsleiter des Generalgouvernements Taiwan) und die Infrastrukturpolitik in Taiwan.
+[^5]: [Goto Shimpei — Wikipedia](https://zh.wikipedia.org/wiki/%E5%BE%8C%E8%97%A4%E6%96%B0%E5%B9%B3) — Die Theorie der biologischen kolonialen Herrschaft und die Infrastrukturpolitik des Bevölkerungsbeamten Goto Shimpei in Taiwan.
 
-## Weiterführende Lektüre
+## Weiterführende Literatur
 
-- [Krieg von Yiwei](/history/乙未之役) — Der Beginn der japanischen Kolonialzeit: die Landung der japanischen Truppen 1895 und der Widerstand der Republik Taiwan
-- [Qing-Zeit](/history/清治時期) — Die Geschichte Taiwans vor der japanischen Herrschaft
-- [Mona Rudao](/people/莫那·魯道) — Der Wushe-Zwischenfall unter der "Reformpolitik gegenüber den Wilden" (理蕃政策): die Welt eines aufständischen Seediq-Häuptlings
+- [Der Sturz von Yübi](/de/history/1895-taiwan-resistance-war) — Der Beginn der japanischen Herrschaft: Der japanische Militäreinfall 1895 und der Widerstand der Demokratischen Republik Taiwan
+- [Die Zeit der Qing-Herrschaft](/de/history/qing-dynasty-rule) — Geschichte Taiwans vor der japanischen Kolonialherrschaft
+- [Mona Rudao](/de/people/mona-rudao) — Der Aufstand von Nebelberg unter der Politik der Integration der indigenen Bevölkerung: Der Aufstand eines Sädek-Stammführers

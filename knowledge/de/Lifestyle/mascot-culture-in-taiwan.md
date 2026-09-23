@@ -1,257 +1,293 @@
 ---
-title: 'Taiwan-Maskottchen: Vom Geschenk des Datong-Babys zum globalen Charakter eines Ortes'
-description: 'Von dem Datong-Baby von 1969 über Oh Bear und Xiongzan bis zu Kaohsiung MRT, Maolihao, Tiger Duck, Timon und Caiqi Duck – wie tragen taiwanesische Maskottchen lokale Erinnerungen, Verkehrsszenarien, Campusidentität, Fußballemotionen und Unternehmens-IP? Die wahre Prüfung eines Charakters ist, ob er den Rahmen verlässt und in das Leben der Menschen eindringt.'
+title: 'Taiwans Maskottchen: Vom Datong-Baby-Geschenk zum flächendeckenden Einsatz lokaler Charaktere'
+description: '1969 zog das Datong-Baby in die Wohnzimmer ein, 1990 entfachten die vier Profibaseball-Maskottchen Drache, Löwe, Tiger und Elefant Begeisterung auf den Tribünen; später brachten OhBear, Bravo und Caiqi Ya die Figuren in Märkte und Verkehrsknoten. Da landesweit öffentliche Stellen Dutzende Schwarzbären-Plüschfiguren herausbrachten, besteht die eigentliche Bewährungsprobe für Maskottchen nicht darin, niedlich zu sein, sondern darin, ob sie Schaukästen und einmalige Events verlassen und im Alltag konkrete Aufgaben für ihre Orte übernehmen können.'
 date: 2026-04-21
 category: 'Lifestyle'
 tags:
   [
     'Maskottchen',
-    'Oh Bear',
-    'Xiongzan',
-    'Caiqi Duck',
-    'Yeqi Duck',
-    'Kaohsiung MRT',
-    'Maolihao',
+    'Datong-Baby',
+    'Profibaseball-Auftakt',
+    'OhBear',
+    'Bravo',
+    'Caiqi Ya',
+    'Yeqi Ya',
+    'Kaohsiung Metro',
+    'Maoli Miao',
     'Tiger Duck',
-    'Timon',
-    'Yutoujun',
+    'TYMON',
+    'Fischkopf',
+    'Milchfisch-Junge',
   ]
 subcategory: '城市生活'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-09-05
 lastHumanReview: false
-readingTime: 18
+readingTime: 20
 curation: 'incubating'
+rationale:
+  why_this_hook: '從大同寶寶、職棒元年到菜奇鴨，梳理台灣吉祥物從企業贈品演進至承擔公共任務與地方治理的脈絡'
+  whats_excluded: '排除短效型純廣告促銷角色與未具實體布偶裝或常態營運機制的純平面插畫'
+  where_it_hedges: '探討角色可愛親和力的同時，指出黑熊題材辨識度飽和、外包抄襲風險與公共預算成效等現實挑戰'
+  whos_pushing_back: '部分觀點認為地方吉祥物多屬活動消耗品與形式化政績包裝'
 translatedFrom: 'Lifestyle/吉祥物.md'
-sourceCommitSha: '25b97c085'
-sourceContentHash: 'sha256:cfeed87bcc86a207'
-sourceBodyHash: 'sha256:761ccd3c7cd0d390'
-translatedAt: '2026-09-08T15:54:57+08:00'
+sourceCommitSha: 'c0061c6df'
+sourceContentHash: 'sha256:62a0444682031043'
+sourceBodyHash: 'sha256:f0ac4cd7b2bc3b4c'
+translatedAt: '2026-09-23T21:26:33+08:00'
 ---
 
-> **30-Sekunden-Zusammenfassung:** Die Entwicklung der taiwanesischen Maskottchen ist nicht nur eine Veränderung von ernsten zu niedlichen Designs. Das Datong-Baby von 1969 machte ein Unternehmen zu einem Charakter, den man nach Hause nehmen konnte; ab 2013 haben Oh Bear, Xiongzan, Yutoujun, Maolihao, Tiger Duck, Timon und Caiqi Duck Tourismus, Stadtverwaltung, Verkehr, Campus, Sport und lokale Küche auf dieselbe Linie gebracht. Die wahre Prüfung ist, ob der Charakter den Rahmen verlässt und in das Leben der Menschen eindringt; also vom „Wer repräsentiert“ zum „Was für wen erledigt“.[^1] [^2] [^3]
+> **30-Sekunden-Überblick:** Der Wandel taiwanesischer Maskottchen betrifft nicht nur das Design vom Ernsthaften zum Niedlichen. 1990 machten das Datong-Baby von 1969 und die vier Maskottchen des Profibaseball-Auftaktjahres aus Unternehmen und Teams Figuren, die Menschen begleiten können; ab 2013 verknüpften OhBear, Bravo, Fischkopf und Caiqi Ya Tourismus, Stadtverwaltung, Sport und lokale Esskultur zu einer Linie. Die eigentliche Prüfungsfrage ist, ob eine Figur das Schilderständer-Dasein verlässt und in das Leben der Menschen eintritt; also vom „Für wen sie steht“ zum „Für wen sie welche Aufgabe erledigt“. [^1] [^2] [^3] [^22]
 
-Im Jahr 1969 führte Datong Company das Datong-Baby ein. Am 3. Dezember 2013 wurde Oh Bear von der Tourismusbehörde des Verkehrsministeriums aufgeladen. Im Jahr 2024 nutzte die Stadtverwaltung von Tainan Caiqi Duck, um 59 öffentliche Einzelhandelsmärkte zu verbinden. Drei Jahre, drei Szenarien, haben den Weg der taiwanesischen Maskottchen offenbart: vom Unternehmensgeschenk und staatlicher Propaganda bis hin zu kulturellen Charakteren, die lokale Führungen übernehmen, Verkehrssysteme begrüßen oder Campusidentitäten erklären.[^1] [^2] [^3]
+1969 brachte die Datong Company das Datong-Baby heraus. Am 3. Dezember 2013 stellte das Tourismusbüro des Verkehrsministeriums die OhBear-Sticker online. 2024 nutzte die Stadtregierung Tainan Caiqi Ya, um 59 öffentliche Einzelhandelsmärkte zu verknüpfen. Drei Jahre, drei Szenen, legen gerade den Pfad taiwanesischer Maskottchen offen: von Unternehmensgeschenken und Regierungspropaganda hin zu kulturellen Rollen, die Orte führen, Verkehrssysteme begrüßen und Campus-Identitäten erklären. [^1] [^2] [^3]
 
-Die Geschichte der Maskottchen ist auch eine Geschichte davon, wie „abstrakte Institutionen menschlich wurden“. Unternehmen, Tourismusbehörden, Stadtverwaltungen, U-Bahn-Betreiber, Schulen, Fußballnationalmannschaften und Märkte sprachen ursprünglich in Systemen, Logos und offiziellen Dokumenten. Die Charaktere machten diese Institutionen zu benannten, handelnden, fotografierbaren und einprägsamen Objekten. Diese Übersetzung ist nicht immer erfolgreich, aber sie bietet einen zugänglichen Zugang.[^1] [^2] [^4] [^8]
+Die Geschichte der Maskottchen ist auch eine Geschichte davon, „wie abstrakte Institutionen zu Menschensprache werden“. Unternehmen, Tourismusbüros, Stadtregierungen, Metrobetreiber, Schulen, Fußballnationalteams und Marktverwaltungen sprachen ursprünglich durch Systeme, Logos und Amtschreiben. Figuren wandeln diese Institutionen in Objekte mit Namen, Handlungen, Fotografierbarkeit und Merkbarkeit um. Diese Übersetzung gelingt nicht immer, aber sie bietet einen zugänglichen Einstieg. [^1] [^2] [^4] [^8]
 
-![Caiqi Duck und Yeqi Duck, offizielle Maskottchen des Marktes von Tainan](https://upload.wikimedia.org/wikipedia/commons/d/dd/%E8%8F%9C%E5%A5%87%E9%B4%A8Tsh%C3%A0i-tsh%C4%AB-%C3%A1.jpg)
+![Caiqi Ya und Yeqi Ya, offizielle Maskottchen der Marktverwaltung der Stadt Tainan](https://upload.wikimedia.org/wikipedia/commons/d/dd/%E8%8F%9C%E5%A5%87%E9%B4%A8Tsh%C3%A0i-tsh%C4%AB-%C3%A1.jpg)
 
-_Offizielle Maskottchen des Marktes von Tainan: Links ist Yeqi Duck, rechts ist Caiqi Duck. Foto: Yeh Min-hsuan/Abteilung für Nachrichten und internationale Beziehungen der Stadtverwaltung von Tainan; verwendet mit Quellenangabe „Stadtverwaltung von Tainan“ gemäß der Open Information Announcement der Website der Stadtverwaltung von Tainan.[^4]_
+_Offizielle Maskottchen der Marktverwaltung der Stadt Tainan: links Yeqi Ya, rechts Caiqi Ya. Foto: Ye Min-xuan / Nachrichten- und Internationale-Beziehungen-Büro der Stadtregierung Tainan, gemäß Government Website Open Information Announcement der Stadtregierung Tainan zu verwenden, Quellenangabe „Stadtregierung Tainan“ erforderlich._ [^4]
 
-## Zuerst vom echten Bären sprechen
+## Beginnen wir mit einem echten Bären
 
-Der Taiwanische Schwarzbär ist eine endemische Unterart des Asiatischen Schwarzbären und ein gefährdetes Wildtier, wie es im englischen Material des Yushan Nationalparks beschrieben wird. Die V-förmigen Flecken auf der Brust sind leicht zu erkennen, weshalb er sowohl zum Schutzobjekt als auch zu einem Designvokabular geworden ist: Designer können den schwarzen Körper, die runden Ohren und das V-förmige Brustmuster nutzen, um dem Publikum schnell „Taiwan“ zu assoziieren.[^5]
+Der [Taiwanesische Schwarzbär](/de/nature/taiwanese-black-bear/) ist eine endemische Unterart des Asiatischen Schwarzbären und wird in den englischen Unterlagen des Yushan-Nationalparks als gefährdete Wildtierart geführt. Das V-förmige Brustmuster ist leicht erkennbar, weshalb er gleichzeitig zum Schutzobjekt und zum Designvokabular wurde: Gestalter können schwarzen Körper, runde Ohren und V-förmige Brust nutzen, um rasch Assoziationen an „Taiwan“ zu wecken. [^5]
 
-Die Materialien des Yushan Nationalparks geben an, dass der Taiwanische Schwarzbär eine gelbweiße V- oder Sichelflecken auf der Brust hat. Die offizielle Liste gefährdeter Wildtiere führt den Taiwanischen Schwarzbären als terrestrisches geschütztes Tier ein. Diese biologischen Merkmale verleihen dem Bären eine hohe visuelle Wiedererkennung, aber „leicht zu zeichnen“ und „schon geschützt zu sein“ sind zwei verschiedene Dinge.[^5] [^6]
+Angaben des Yushan-Nationalparks zufolge besitzt der Taiwanesische Schwarzbär ein gelblich-weißes V-förmiges oder sichelförmiges Brustfleck. Die offizielle Liste der geschützten Wildtiere führt den Taiwanesischen Schwarzbären als landgebundenes geschütztes Wildtier. Diese biologischen Merkmale verleihen dem Schwarzbären hohe visuelle Erkennbarkeit, doch „leicht zu zeichnen“ und „Schutz bereits klar kommuniziert“ sind zwei verschiedene Dinge. [^5] [^6]
 
-Hier gibt es eine leicht übersehene Distanz. Im Wild trifft der Bär auf Lebensraum, Mensch-Tier-Konflikte und Jagdgefahren. Die Maskottchen treffen jedoch auf Wiedererkennung, Lizenzierung, Veranstaltungsteilnahme und soziale Interaktion. Wenn ein echtes Tier in einen Charakter umgewandelt wird, kann dies Nähe schaffen, aber es kann auch die Schutzthematik zu einem niedlichen Symbol reduzieren. Beim Anblick des Schwarzbären-Motivs sollte man nicht nur das Designmuster sehen, sondern auch seine biologische Identität.[^5] [^6]
+Hier besteht eine oft übersehene Distanz. Wilde Bären konfrontieren Lebensraumverlust, Mensch-Tier-Konflikte und Wildereirisiken. Maskottchen-Bären konfrontieren Erkennbarkeit, Lizenzierung, Event-Auftritte und Social-Media-Interaktion. Die Umwandlung eines realen Tieres in eine Figur schafft Nähe, kann aber Schutzthemen zu einem niedlichen Symbol plattwalzen. Beim Anblick eines Schwarzbären-Motivs sollte man am besten gleichzeitig an seine biologische Identität denken, nicht nur an eine Designvorlage. [^5] [^6]
 
-> 📝 **Kuratorentipp:** Ein echter Bär muss keinen täglichen Charakter pflegen; ein Maskottchen lebt jedoch von seinem Charakter, der die Menschen dazu bringt, es noch einmal anzusehen. Noch schwieriger ist, dass die reale Situation des Originals nicht verschwinden darf, nachdem es gesehen wurde.
+> 📝 **Kuratorische Anmerkung:** Ein echter Bär muss nicht täglich sein Personen-Image pflegen; ein Maskottchen aber hängt davon ab, dass sein Personen-Image Menschen dazu bringt, ihm noch einmal zuzusehen. Noch schwieriger: Nachdem es gesehen wurde, darf die reale Lage des Originals nicht verschwinden.
 
-## 1969: Datong machte Unternehmen menschlich
+## 1969: Das Datong-Baby macht aus dem Unternehmen einen Menschen
 
-Der Schlüssel zum Datong-Baby liegt nicht in dem leicht zu vereinfachenden Rang „das früheste in Taiwan“, sondern darin, dass es sehr früh die Unternehmensidentität in ein Objekt verwandelte, das einen Körper, eine Haltung und eine Sammelbarkeit hatte. Die erste Generation, die 1969 erschien, trug einen Helm, hielt einen Football und hatte das Markenlogo von Datong auf ihrem Körper. Es wurde als Geschenk in Haushalte gebracht, wodurch die Marke nicht nur auf der Gehäuseelektronik verblieb.[^1] [^7]
+Der Schlüssel des Datong-Babys liegt nicht in Rankings wie „Taiwans erstes“, die leicht übervereinfachen, sondern darin, dass es Unternehmensidentität früh in einen Körper mit Haltung verwandelte, der gesammelt werden kann. Die 1969 erschienene erste Generation trug Helm, hielt einen Rugbyball und trug das Datong-Markenzeichen. Als Geschenk in Haushalte eingetreten, blieb die Marke nicht mehr nur auf Gerätegehäusen haften. [^1] [^7]
 
-Offizielle Dokumente der Datong Company schreiben, dass ab 1969 (ROC-Jahrgang) bei Kauf von Haushaltsgeräten für mehr als zehntausend Ta$ ein Datong-Baby geschenkt wurde. Der rote Helm, der Football und das Kunststoffmaterial waren nicht nur Designentscheidungen, sondern sie steckten die Vision des Unternehmens in diese Puppe: Kooperation, Ausdauer und Kundenservice.[^1]
+Offizielle Datong-Unterlagen besagen: Ab Republik-Jahr 58 (1969) erhielten Käufer von Datong-Haushaltsgeräten ab 10.000 NT$ ein Datong-Baby geschenkt. Roter Helm, Rugbyball und Kunststoffmaterial verdichteten konkret den damals von Datong vermittelten Teamgeist, zähe Ausdauer und Dienstgeist. [^1]
 
-Dieses Detail veränderte die Distanz zwischen Marke und Mensch. Fernseher, Kühlschränke oder Elektrogeräte sind Produkte, die im Haushalt verwendet werden; das Datong-Baby ist ein Objekt, das man in der Familie spielen, ausstellen und aufbewahren kann. Die Unternehmensidentität wandelte sich von „Logo sehen“ zu „es gibt eines bei uns zu Hause“.[^1]
+Als das Datong-Baby in die Familien einzog, veränderte sich die psychologische Distanz zwischen Marke und Konsumenten. Fernseher, Kühlschrank oder Reiskocher sind funktionale Haushaltsgeräte im Wohnzimmer, das Datong-Baby aber ein emotionales Objekt, das man streicheln, aufstellen und aufbewahren kann. Unternehmensidentität wandelte sich so vom „Logo sehen“ zum „Einen von ihm zu Hause haben“. [^1]
 
-Die Zahlen auf der Brust des Datong-Babys, die Münzlöcher am Kopf, die Füße und der Football wurden auch offiziell mit internen Unternehmensbedeutungen versehen: Die Zahl auf der Brust repräsentierte das Gründungsjahr von Datong; das Münzloch am Kopf stand für Sparsamkeit; die Füße symbolisierten Bodenständigkeit; der Football entsprach dem Bild des Kundenservice und harter Arbeit. Diese Erklärungen entsprechen möglicherweise nicht den tatsächlichen Empfindungen jedes Verbrauchers, aber sie zeigen, wie das Unternehmen eine Geschichte für seinen Charakter schrieb.[^1]
+Die Brustzahl, der Münzschlitz am Kopf, die beiden Füße und der gehaltene Rugbyball wurden offiziell mit internen Unternehmensbedeutungen versehen: Die Brustzahl steht für die Gründungsjahre Datongs, der Münzschlitz verknüpft Sparsamkeitsgeist, die Füße symbolisieren Bodenständigkeit, der Rugbyball entspricht der Vorstellung, Kunden zu bedienen und keine Mühe zu scheuen. Diese Deutungen mögen nicht jedem Konsumenten real entsprechen, bewahren aber den Beleg dafür, wie das Unternehmen seiner Figur eine Biografie schrieb. [^1]
 
-Diese Methode wurde später von vielen Unternehmen und öffentlichen Institutionen übernommen: abstrakte Firmen, Städte oder Veranstaltungen wurden einem Charakter übergeben, der an der Tür begrüßen, auf Stickern erscheinen und von Kindern gehalten werden konnte. Daher haben Maskottchen zwei Zeithorizonte: kurzfristig zur Fokussierung einer Veranstaltung, langfristig zum Aufbau von Vertrautheit.[^1] [^7]
+Diese Praxis wurde später von vielen Unternehmen und öffentlichen Institutionen übernommen: Abstrakte Firmen, Städte oder Events an eine Figur zu delegieren, die an der Tür begrüßen, auf Aufklebern erscheint und von Kindern mitgenommen werden kann. Maskottchen besitzen damit zwei Zeitskalen: kurzfristig Events fokussieren, langfristig Vertrautheit aufbauen. [^1] [^7]
 
-> 📝 **Kuratorentipp:** Der frühe Wettbewerb unter Unternehmensmaskottchen ging nicht darum, wer niedlicher war, sondern wer zuerst einen kleinen Platz im Wohnzimmer einnehmen konnte.
+> 📝 **Kuratorische Anmerkung:** Der früheste Wettbewerb von Unternehmensmaskottchen ging nicht darum, wer niedlicher ist, sondern wer zuerst ein kleines Stück Wohnzimmer erobert.
 
-## 2013–2017: Xiongzan verlässt die Marke und wird zu einem Stadtcharakter
+## 1990: Das Profibaseball-Auftaktjahr macht aus Teams Totems
 
-Die Konzeption von Oh Bear ist ähnlich wie eine Übung darin, die Sprache einer öffentlichen Behörde in Charakter-Sprache zu übersetzen. Die offizielle Seite der Tourismusbehörde des Verkehrsministeriums beschreibt ihn als „Super-Aufgabenchef“, listet seine Geschichte auf – vom Aufkommen am 3. Dezember 2013 bis zur Amtseinführung am 3. Juni 2014. Der weiße V-Ausschnitt, der orangefarbene Umhang und die Beschriftung der Tourismusbehörde verbanden das Prototyp des Taiwanischen Schwarzbären mit einer touristischen Mission.[^2]
+Am 17. März 1990 startete das Profibaseball-Auftaktjahr der Chinese Professional Baseball League (CPBL); die vier Gründerteams Brother Elephants, Mercuries Tigers, Uni-President Lions und Wei Chuan Dragons trugen alle Tiernamen und banden die Teamidentität direkt an ein konkretes Tier. [^22]
 
-Die Charakterkonzeption von Xiongzan umfasst auch Geburtstag, Aufgaben, Persönlichkeit, Kleidung und tägliche Aktivitäten. Diese Informationen scheinen leichtgewichtig zu sein, sie wandeln jedoch die Verwaltungsbehörde „Tourismusbehörde“ in einen Charakter um, der in der ersten Person sprechen kann. Wenn der Inhalt von einem politischen Begriff hin zu einer „Ich gehe heute wohin“-Sprache wechselt, empfängt der Leser nicht mehr nur den Namen der Behörde, sondern einen Reiseführer mit einem Programm.[^2]
+Sportmaskottchen unterscheiden sich grundlegend von Unternehmensgeschenken. Das Datong-Baby stand für Unternehmensglaubwürdigkeit und Haltbarkeitsversprechen; Profiteam-Maskottchen müssen wöchentlich Sieg- und Niederlagenemotionen der Fans tragen, Heimspielmobilisierung und Gemeinschaftszugehörigkeit. Elefant, Tiger, Löwe und Drache waren zunächst Logos auf der Trikotbrust, erst später bekamen sie Körper, die am Spielfeldrand umherliefen und Anfeuerung anführten. [^22]
 
-Der Weg von Xiongzan ist enger an städtische Ereignisse gebunden. Offizielle Dokumente der Stadtregierung von Taipeh verzeichnen, dass Xiongzan während der Taipei-Weltmeisterschaft 2017 als Botschafter fungierte und nach dem Ende des Wettbewerbs weiterhin Fans und Nachfrage nach Merchandise sammelte. Am 20. September 2017 lud die Stadtverwaltung von Taipeh offiziell Xiongzan als städtisches Maskottchen ein.[^3]
+Die vier Tiere wurden zu Trägern generationenübergreifender Fan-Erinnerungen. Sie trieben nicht nur die Stimmung auf den Tribünen an, sondern wurden zu Kernträgern von Team-Merchandise, fanspezifischen Anfeuerungsartikeln und generationenübergreifendem kollektivem Gedächtnis. Team-Siege und -Niederlagen sind vorübergehend, doch die Identifikation, die die Figuren auf den Tribünen entfachten, kann Fans über Jahrzehnte begleiten. [^22]
 
-![Xiongzan mit Besuchern im Yangmingshan Nationalpark](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Bravo_and_visitors_in_Yangmingshan_National_Park_20160124b.jpg/500px-Bravo_and_visitors_in_Yangmingshan_National_Park_20160124b.jpg)
+> 📝 **Kuratorische Anmerkung:** Sportmaskottchen verkaufen keine Haushaltsgeräte, keine Landschaften; sie verkaufen das Gefühl, jede Woche ins Stadion zu gehen: „Wir sind ein Team.“
 
-_Xiongzan und Besucher des Yangmingshan Nationalparks bei der Taipei-Weltmeisterschaft 2017. Foto: Chi-Hung Lin/Flickr; CC BY-SA 2.0.[^8]_
+## 2013–2017: Der Schwarzbär verlässt die Marke und wird zur Stadtfigur
 
-Der charakteristischste Wendepunkt von Xiongzan ist die Bewerbung beim Beschäftigungszentrum in Xinyi am Tag nach dem Ende des Wettbewerbs. Dies bedeutet nicht, dass der Bär menschlicher wurde, sondern es stellte eine reale Frage an ein einmaliges Ereignis: Was kann der Charakter tun, nachdem die Abschlusszeremonie vorbei ist? Die Stadtverwaltung verlieh ihm später die Goldmedaille „TPE“ und arrangierte ein eigenes Büro, wodurch Xiongzan vom Event-Charakter zu einer öffentlichen Figur für städtische und touristische Aktivitäten wurde.[^3]
+OhBears Profil liest sich wie eine Übung, Behördensprache in Figurensprache zu übersetzen. Die offizielle Seite des Tourismusbüros beschreibt ihn als „Super-Aufgabengruppen-Leiter“, listet den 3. Dezember 2013 (Sticker-Release) und 3. Juni 2014 (Amtseid) auf. Weißer V-Ausschnitt, oranger Umhang und Tourismusbüro-Schriftzug verbinden den Taiwanesischen-Schwarzbär-Ursprung mit der Tourismusaufgabe. [^2]
 
-Dies zeigt auch, dass „viele Schwarzbären“ nicht zwangsläufig „Faulheit im Design“ bedeuten. Dieselbe Prototyp kann verschiedene Aufgaben erfüllen: Oh Bear vermarktet die Vorstellung von Taiwan-Tourismus, Xiongzan übernimmt städtische Veranstaltungen und öffentliche Bilder; der Unterschied muss durch Geschichte, Tonfall und Anwendungsszenario herausgearbeitet werden. Das Problem ist, dass der Charakter nur einen schwarzen Anzug hat, aber kein eigenes Leben.[^2] [^3]
+OhBears Rollenprofil umfasst Geburtstag, Amt, Persönlichkeit, Kleidung und Tagesablauf. Diese Daten wirken leicht, sind tatsächlich aber der Versuch, das „Tourismusbüro“ als Verwaltungsbehörde in eine Ich-Perspektive sprechende Figur zu verwandeln. Wenn offizielle Inhalte von Fachbegriffen zu „Wo gehe ich heute hin“ wechseln, empfängt das Publikum nicht mehr nur einen Behördennamen, sondern einen Führer mit Programm. [^2]
 
-## Warum tauchen Schwarzbären wiederholt auf?
+Bravos Pfad liegt näher an Stadtgeschehen. Offizielle Unterlagen der Stadtregierung Taipeh dokumentieren, dass Bravo während der 2017 Taipei Universiade als Werbebotschafter fungierte und nach Veranstaltungsende weiter Fans und Merchandise-Nachfrage anhäufte. Am 20. September 2017 lud die Stadtregierung Taipeh Bravo offiziell als Stadtregierungs-Maskottchen ein. [^3]
 
-Die Antwort ist nicht nur Niedlichkeit. Der Schwarzbär verfügt über drei Designvorteile: Er wird stark mit einer endemischen Art assoziiert; das V-förmige Brustmuster lässt sich schnell erkennen; und die runde Form sowie der robuste Körper sind gut für Puppen, Luftballonfiguren und Sticker geeignet. Dies ist alles visuelle Effizienz, aber es bedeutet nicht automatisch eine etablierte Marke. Die ersten beiden Punkte werden durch die biologischen Merkmale des Schwarzbären und die Konzeption von Oh Bear gestützt; der dritte Punkt gehört zur Designanalyse und sollte nicht als offizielle Statistik ausgegeben werden.[^2] [^5]
+![Bravo mit Besuchern im Yangmingshan-Nationalpark](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Bravo_and_visitors_in_Yangmingshan_National_Park_20160124b.jpg/500px-Bravo_and_visitors_in_Yangmingshan_National_Park_20160124b.jpg)
 
-| Designebene           | Was der Leser zuerst sieht                         | Was noch ergänzt werden muss                                                         |
-| :-------------------- | :------------------------------------------------- | :----------------------------------------------------------------------------------- |
-| Biologisches Prototyp | Schwarzer Körper, V-Brust, Taiwanischer Schwarzbär | Kontext des Schutzes und tatsächlicher Lebensraum[^5] [^6]                           |
-| Charakteridentität    | Name, Schlagworte, Kleidung, Aktionen              | Konsistenz über verschiedene Medien hinweg[^2]                                       |
-| Öffentliche Aufgabe   | Tourismus, Veranstaltungen, städtische Aktivitäten | Gibt es nach Beendigung des Auftrags noch ein Leben?[^3]                             |
-| IP-Management         | Merchandise, Kooperationen, soziale Medien         | Einnahmenquellen und öffentlicher Nutzen müssen getrennt berechnet werden[^15] [^16] |
+_Januar 2016: 2017 Taipei Universiade Maskottchen Bravo mit Besuchern im Yangmingshan-Nationalpark. Foto: Chi-Hung Lin / Flickr, CC BY-SA 2.0._ [^8]
 
-📝 **Kuratorentipp:** Das Prototyp lässt erkennen, „welche Art“ es ist; der Charakter lässt sich erinnern, „wer er ist“.
+Am Tag nach dem Veranstaltungsende ging Bravo zu einer Arbeitsvermittlungsstelle und warf seinen Lebenslauf ein – eine spitze Nachfrage an jede einmalige Großveranstaltung: Wenn die Abschlussfeier verhallt, der Hype abklingt, wie findet die Figur in der Stadt ein nachhaltiges Dasein? Die Stadtregierung verlieh später die „TPE“-Goldmedaille, richtete ein eigenes Büro ein und ließ Bravo vom Veranstaltungs-Maskottchen zur öffentlichen Figur für Stadtverwaltung und Tourismusaktivitäten werden. [^3]
 
-## Wie das Verkehrssystem die Maskottchen auf die Straße bringt
+## Warum taucht der Schwarzbär immer wieder auf?
 
-Happy/HAPPI und U!FU von Kaohsiung MRT bieten ein anderes Beispiel für einen Stadtcharakter: Sie warten nicht in Broschüren des Tourismus, sondern werden an U-Bahnstationen und städtischen Kreuzungen eingesetzt. Ein offizieller Bericht der Kaohsiung MRT aus dem Jahr 2015 dokumentiert, dass HAPPI und U!FU bei der ersten Maskottchen-Präsentation der Stadt Kaohsiung in Verkehrsszenarien für Stimmenwerbung genutzt wurden. Die Maskottchen wurden so zu einem Ort des Austauschs zwischen dem Verkehrssystem und den Bürgern.[^9]
+Dass der Schwarzbär wiederholt zur ersten Wahl öffentlicher Gestaltung wird, liegt an drei klaren visuellen Effizienzen: starke Assoziation mit taiwanesischen Endemiten, sofort erkennbares V-förmiges Brustmuster, rundes Gesicht und gedrungene Statur, die sich extrem leicht in Plüschkostüme, Aufblasinstallationen und Kommunikationssticker übersetzen lassen. Die ersten beiden Punkte lassen sich durch biologische Merkmale des Schwarzbären und OhBears Profil belegen, der dritte ist Designanalyse und sollte nicht als offizielle Statistik ausgegeben werden. [^2] [^5]
 
-![Maskottchen Happy und U!FU von Kaohsiung MRT](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/%E9%AB%98%E9%9B%84%E6%8D%B7%E9%81%8B%E5%90%89%E7%A5%A5%E7%89%A9_IMG_0907.jpg/960px-%E9%AB%98%E9%9B%84%E6%8D%B7%E9%81%8B%E5%90%89%E7%A5%A5%E7%89%A9_IMG_0907.jpg)
+Doch die „Schwarzbär wählen, kann nicht schiefgehen“-Sicherheitsmentalität bringt rasch eine Erkennbarkeitssättigungskrise. Landesweit public und privat entstanden Dutzende blutsfremde Schwarzbären-Figuren: vom Tourismusbüro „OhBear“, Taipeh „Bravo“, Kaohsiung „Kaohsiung-Bär“, UNI Air „Wei-Bär“ bis zum Ningxia-Nachtmarkt „Ningxia-Bär“. Lin Cheng-yi scherzte, allein Kaohsiung besitze drei, niemand wisse den Unterschied zwischen „Gao-Gao-Bär“ und „Kaohsiung-Bär“. [^23]
 
-_Die Maskottchen Happy (Gelb) und U!FU (Blau) der Kaohsiung MRT bei einem Wettbewerb um städtische Maskottchen. Foto: Tze Chiang Hao; CC BY-SA 4.0.[^10]_
+Service-Designer Lin Cheng-yi analysierte: Wenn jeder Bär aussieht wie der Gattungsbegriff „Taiwanesischer Schwarzbär“, verlieren Figuren ihren einzigartigen Marken-Erinnerungspunkt und verkommen zu Einmal-Event-Laufburschen. Erst wenn die Figur in konkrete Stadtaufgaben und langfristigen Alltagsbetrieb eingebettet wird, kann sie aus dem „wieder ein Schwarzbär“ ausbrechen. [^23]
 
-Der aktuelle Charakterbereich der Kaohsiung MRT listet auch die Familie Yongfu auf, einschließlich Xiong Baba Yongfu, Xiong Mama Baozhu, Xiong Schwester Pingping, Xiong Bruder Anan und Hamster Happy. Dieselbe Sektion bewahrt „Kaohsiung Girl“ und nachfolgende Charakterreihen. Dies zeigt, dass Verkehrskaraktere keine einmaligen Dekorationen sind, sondern sich je nach Betriebsthema, Zielgruppe und Medium weiterentwickeln können.[^4]
+| Design-Ebene          | Was Leser zuerst sehen                               | Noch hinzuzufügender Inhalt                                        |
+| --------------------- | ---------------------------------------------------- | ------------------------------------------------------------------ |
+| Biologisches Original | Schwarzer Körper, V-Brust, Taiwanesischer Schwarzbär | Schutzkontext & realer Lebensraum [^5] [^6]                        |
+| Figuren-Identität     | Name, Catchphrase, Kleidung, Bewegung                | Konsistenz über verschiedene Medien [^2]                           |
+| Öffentliche Aufgabe   | Tourismus, Event, Stadtaktivitäten                   | Leben nach Aufgabenende? [^3]                                      |
+| IP-Betrieb            | Merchandise, Ko-Labels, Lizenz, Community            | Einnahmequellen & öffentlicher Nutzen getrennt rechnen [^15] [^16] |
 
-Dieser Fall erinnert uns daran, dass die Funktion eines Maskottchens nicht unbedingt „eine Stadt zu verkaufen“ ist. Es kann auch die Distanz zu Verkehrsanlagen verringern und eine Gesichtszugabe für Bahnhöfe, U-Bahnen und öffentliche Veranstaltungen bieten, das man fotografieren, wählen und sich merken kann. Der Charakter ersetzt keine Verkehrsinformationen, aber er fügt dem Verkehrssystem einen emotionalen Zugang hinzu.[^4] [^9]
+> 📝 **Kuratorische Anmerkung:** Das Original lässt nur erkennen, „welche Art“; die Figur lässt merken, „welcher Einzelne“. Wenn jeder Bär aussieht wie der Gattungsbegriff „Taiwanesischer Schwarzbär“, verlieren sie Einzigartigkeit und verkommen zu Event-Aufstellern.
 
-Die Charaktere des Verkehrssystems haben jedoch eine Grenze, die nicht überschritten werden darf: Niedlichkeit darf die Genauigkeit nicht ersetzen. Fahrpläne, Tarife, Umstiegs- und Sicherheitsinformationen müssen klar durch Text und Symbole vermittelt werden. Der beste Platz für den Charakter ist derjenige, bei dem man innehält, um die Regeln zu lesen, anstatt sie mit Dekoration zu verdecken. Dies ist ein wichtiger Unterschied zwischen einem öffentlichen Dienstcharakter und einem rein kommerziellen Charakter.[^4]
+## Wie Verkehrssysteme Maskottchen auf die Strecke bringen
 
-## Eine Präfektur, ein Leopard, ein Wortspiel
+Die Maskottchen der Kaohsiung Metro verließen die statische Ausstellung traditioneller Tourismusfaltblätter und betraten direkt Leichtbahnsteige und Verkehrskreuzungen. Eine offizielle Pressemitteilung der Kaohsiung Metro 2015 dokumentiert, dass HAPPI und U!FU während des ersten Kaohsiung-Maskottchen-Wettbewerbs an Verkehrsszenen Wahlkampf betrieben. Maskottchen wurden so zu vor-Ort-Medien der Interaktion zwischen Verkehrssystem und Bürgern. [^9]
 
-Die Regierung von Miali County nutzte den Leopard als Prototyp für Maolihao, wobei die lokale Maskottchenfigur durch runde Augen, einen runden Körper, Schnurrbärte und gelbliche Farben zu einer zugänglichen Figur gestaltet wurde. Offizielle Nachrichten berichten auch, dass Maolihao während der Wahlperioden mit Bürgern interagierte und Unterstützung gewann. Dies machte sie nicht nur zu einem von der Präfektur geschaffenen Charakter, sondern auch zu einem Teilnehmer an dem lokalen Wählerprozess.[^11]
+![Kaohsiung Metro Maskottchen Happy und U!FU](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/%E9%AB%98%E9%9B%84%E6%8D%B7%E9%81%8B%E5%90%89%E7%A5%A5%E7%89%A9_IMG_0907.jpg/960px-%E9%AB%98%E9%9B%84%E6%8D%B7%E9%81%8B%E5%90%89%E7%A5%A5%E7%89%A9_IMG_0907.jpg)
 
-![Maskottchen Maolihao in der THSR Miaoli Station](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Miaolimiao_at_THSR_Miaoli_Station.jpg/960px-Miaolimiao_at_THSR_Miaoli_Station.jpg)
+_Kaohsiung Metro Maskottchen Happy (gelb) und U!FU (blau) beim Kaohsiung-Stadt-Maskottchen-PK-Kampf. Foto: Tze Chiang Hao, CC BY-SA 4.0._ [^10]
 
-_Das Maskottchen Maolihao der Präfektur Miali in der Halle des THSR Miaoli Bahnhofs. Foto: Foxy1219; CC BY-SA 4.0.[^12]_
+Der aktuelle Figurenbereich der Kaohsiung Metro listet auch die Yongfu-Familie: Bärenvater Yongfu, Bärenmutter Baozhu, Bärenschwester Pingping, Bärenbruder Anan und das Erdmännchen HAPPI. Derselbe Bereich bewahrt die „Kaohsiung Metro Girls“ und spätere Figurenreihen. Das zeigt: Verkehrsfiguren sind keine einmalige Dekoration, sondern können sich mit Betriebsthemen, Zielgruppen und Medien wandeln. [^4]
 
-Das Design von Maolihao stapelt drei Bedeutungen übereinander: die phonetische Assoziation mit dem alten Namen „Miaoli“, der lokale Lebensraum des Leoparden und der öffentliche Raum, den Reisende wie am THSR Bahnhof passieren. Im Gegensatz zu Xiongzan ist sie nicht durch ein großes internationales Ereignis entstanden. Sie ist eher ein lokaler Reiseführer, der den Präfekturnamen, das Tier und die Reiseroute miteinander verbindet.[^11] [^12]
+Dieses Beispiel erinnert daran, dass Maskottchenfunktion nicht unbedingt „Stadt verkaufen“ ist. Sie kann auch die Distanz zu Verkehrseinrichtungen verringern, damit Bahnhöfe, Leichtbahnen und öffentliche Veranstaltungen ein Gesicht bekommen, das fotografiert, gewählt und erinnert werden kann. Die Figur ersetzt keine Verkehrsauskunft, aber sie gibt dem Verkehrssystem einen zusätzlichen emotionalen Zugang. [^4] [^9]
 
-Das Wortspiel hier ist keine einfache Witzelei. Als „Miaoli“ zu „Maolihao“ wurde der Präfekturname in einen Charakter verwandelt, der Hallo sagen, Emotionen zeigen und an Wahlen teilnehmen kann. Der Leopard verbindet den Namen mit dem Naturschutz und sorgt für eine nachvollziehbare Verbindung zwischen Tourismuswiedererkennung und lokaler Umwelt.[^11]
+Verkehrsfiguren haben eine nicht zu überschreitende Grenze: Niedlichkeit darf Genauigkeit nicht ersetzen. Fahrpläne, Tarife, Umsteigen und Sicherheitsinfos brauchen weiterhin klare Texte und Zeichen. Der beste Platz der Figur ist dort, wo sie Menschen dazu bringt, stehenzubleiben und Regeln zu lesen – nicht, wo sie Regeln hinter Dekoration versteckt. Das ist der entscheidende Unterschied zwischen öffentlichem Dienst und rein kommerzieller Figur. [^4]
 
-## Campus-Maskottchen: Die Umwandlung eines Schulwappens in einen Charakter
+## Ein Landkreis, ein Zibetkatzen-Wiesel, ein Wortspiel
 
-Tiger Duck der National Taiwan University of Science and Technology wurde von Benjamin (Tigersaka) und Rossie (Duckie) kreiert. Die Universität erklärte, dass die Namen vom Schraubenschlüssel und der Schraube im Wappen stammen und den Geist des praktischen Handwerks repräsentieren. Tiger Duck sollte zudem die Markenidentität steigern und die Distanz zwischen Schule und Bürgern verringern.[^13]
+Die Landkreisregierung Miaoli nahm das geschützte Zibetkatzen-Wiesel (Steinmarder) als Vorbild für Maoli Miao und nutzte runde Augen, runden Körper, Schnurrhaare und leuchtend gelbe Farbe, um das lokale Maskottchen in eine leicht zugängliche Gestalt zu bringen. Offizielle Nachrichten dokumentieren, dass Maoli Miao während der Wahlperiode aufs Land ging, mit Bürgern interagierte und um Unterstützung warb. Solche Basisinteraktionen ließen Maoli Miao den Rahmen offizieller Propaganda sprengen und zu einem Teil werden, an dem sich die gesamte Landkreisbevölkerung begeistert beteiligte und ihre Identifikation abgab. [^11]
 
-![Campus-Maskottchen Tiger Duck der National Taiwan University of Science and Technology](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/%E6%9B%BE%E6%B3%B0%E6%98%8E_%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8_%E5%90%89%E7%A5%A5%E7%89%A9.jpg/960px-%E6%9B%BE%E6%B3%B0%E6%98%8E_%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E5%A4%A7_%E5%90%89%E7%A5%A5%E7%89%A9.jpg)
+![Miaoli Landkreis Maskottchen Maoli Miao am HSR-Bahnhof Miaoli](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Miaolimiao_at_THSR_Miaoli_Station.jpg/960px-Miaolimiao_at_THSR_Miaoli_Station.jpg)
 
-_Bild des Campus-Maskottchens Tiger Duck der National Taiwan University of Science and Technology. Foto: Taiming2003; CC BY-SA 4.0.[^14]_
+_Miaoli Landkreis Maskottchen Maoli Miao in der Halle des HSR-Bahnhofs Miaoli. Foto: Foxy1219, CC BY-SA 4.0._ [^12]
 
-Die Aufgabe eines Campuscharakters ist nicht ganz die eines Stadtcharakters. Er muss nicht ganz Taiwan repräsentieren und auch nicht jeden Besucher in einen Touristen verwandeln. Zuerst soll er Studenten, Alumni und Mitarbeiter außerhalb des Schulwappens als eine gemeinsame Figur bieten, mit der man sprechen, fotografieren und an Aktivitäten teilnehmen kann. Die Umwandlung von Schraubenschlüssel und Schraube in Tiger und Ente ist ein Beispiel dafür, wie Systemsprache zu Campusalltag wird.[^13]
+Maoli Miaos Design schichtet drei Bedeutungsebenen: die Lautassoziation an den alten Namen Miaolis „Maoli“ (貓裏), den Artenschutz des Zibetkatzen-Wiesels als lokale Ökologie, sowie öffentliche Räume wie den HSR-Bahnhof, die Reisende passieren. Anders als Bravo startet es nicht von einem großen internationalen Event. Es wirkt eher wie ein lokaler Reiseführer, der Landkreisnamen, Tier und Reiseroute aneinanderbindet. [^11] [^12]
 
-Tiger Duck löste auch ein spezifisches und etwas peinliches Problem: die Verwechslung zwischen der National Taiwan University of Science and Technology und der Taipei Technological University. Die Universität nutzte sogar „Wir sind in Keelung Road“ als Inhalt für Sticker. Das Maskottchen ist daher nicht nur für den Aufbau einer Identität verantwortlich, sondern liefert auch einen gemeinsamen Witz über die Schuladresse, Spitznamen im Internet und das Campusleben.[^13]
+Maoli Miaos Wortspiel-Namengebung birgt konkrete lokale Überlegungen: Die Aussprache des alten Namens „Maoli“ wird zur herzlichen Begrüßung, das Zibetkatzen-Wiesel-Bild verknüpft lokale Ökologie, sodass Tourismusmarketing und Artenschutz in ein und derselben Figur zusammenfinden. [^11]
 
-## Charaktere leben nicht nur in Puppenanzügen
+## Campus-Maskottchen: Das Schulwappen in eine Figur übersetzen
 
-Maskottchen verlassen auch die Kostümform und tauchen auf Treppen, in Bahnhofshallen, Schaufenstern von Einkaufszentren und an Stadtmauern auf. Die 3D-bemalte Treppe der Jianzhong Elementary School in Miaoli wurde von Wei Rongxin und Xiao Zhang realisiert; sie zeigt den Leopard, den Shangxing Station, die Longteng Bridge und den Holzskulptur Dama. Es ist keine einzelne offizielle Maskottchenfigur, aber es demonstriert, wie lokale Charaktere und Sehenswürdigkeiten in den öffentlichen Raum gelangen und Menschen dazu bringen, eine lokale Geschichte mit ihrem Körper zu durchlaufen.[^15]
+Das Tiger Duck der Nationalen Technologischen Universität Taiwan (Taiwan Tech) besteht aus dem Tiger Benjamin, Wächter der Tiger-Slope, und der Ente Rossie. Die Hochschule erklärt, der Name stamme vom Schraubenschlüssel und der Schraube im Uniwappen und repräsentiere den Geist pragmatischen Handwerks. Tiger Duck soll auch die Schulidentifikation steigern und die Distanz zwischen Hochschule und Öffentlichkeit verringern. [^13]
 
-![3D-bemalte Treppe der Jianzhong Elementary School mit Leopardcharakter](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/%E5%BB%BA%E4%B8%AD%E5%9C%8B%E5%B0%8F3D%E5%BD%A9%E7%B9%AA%E9%9A%8E%E6%A2%AF.jpg/500px-%E5%BB%BA%E4%B8%AD%E5%9C%8B%E5%B0%8F3D%E5%BD%A9%E9%9A%8E%E6%A2%AF.jpg)
+![National Taiwan University of Science and Technology Campus Maskottchen Tiger Duck](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/%E6%9B%BE%E6%B3%B0%E6%98%8E_%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8_%E5%90%89%E7%A5%A5%E7%89%A9.jpg/960px-%E6%9B%BE%E6%B3%B0%E6%98%8E_%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E5%A4%A7_%E5%90%89%E7%A5%A5%E7%89%A9.jpg)
 
-_Die 3D-bemalte Treppe der Jianzhong Elementary School in Miaoli, die den Leopard, die Shangxing Station, die Longteng Bridge und die Holzskulptur Dama zeigt. Foto: Paddy.hsiao; CC BY 4.0. Dies ist ein Beispiel für öffentliche Kunst und Charaktersymbole eines Ortes, nicht als offizielles Schulmaskottchen zu verstehen.[^15]_
+_Bild des Campus-Maskottchens der Nationalen Technologischen Universität Taiwan. Foto: Taiming2003, CC BY-SA 4.0._ [^14]
 
-Daher kann man nicht nur fragen, ob ein lokaler Charakter eine Puppe hat. Man muss auch fragen, ob er eine Route, einen Fotospot, einen Campus-Eingang oder ein visuelles Signal ist, das dazu anregt, innezuhalten und den Ort zu verstehen. Charaktere im öffentlichen Raum müssen nicht immer eine vollständige Hintergrundgeschichte haben, aber sie müssen mit einer erfahrbaren lokalen Geschichte verbunden sein.[^15]
+Campus-Figuren haben andere Aufgaben als Stadtfiguren. Sie müssen nicht ganz Taiwan repräsentieren, nicht jeden Besucher zum Touristen machen. Zuerst müssen sie Studierenden, Alumni und Lehrkräften jenseits des Wappens ein gemeinsames Bild geben, das besser sprechen, fotografieren und an Aktivitäten teilnehmen kann. Dass Schraubenschlüssel und Schraube zu Tiger und Ente werden, ist genau die Übersetzung von Institutionssprache in Campus-Alltag. [^13]
 
-## Jenseits des Vereinswappens: Timon TYMON
+Tiger Duck trägt auch Campus-Humor: Die Hochschule veröffentlichte einst humorvolle Sticker mit „Wir sind auf der Keelung Road“, sodass das Maskottchen nicht nur Schulidentifikation schafft, sondern auch für alltägliche Campus-Geografie und Community-Interaktion gemeinsame Gesprächsthemen hinterlässt. [^13]
 
-Timon TYMON ist das Maskottchen der nationalen Fußballmannschaften (unter dem Namen Chinesisch Taipeh) von Taiwan. Im Vergleich zu Schul- oder Verkehrssystemcharakteren muss ein Nationalmaskottchen die Fanmobilisierung, die Atmosphäre vor dem Spiel und die emotionale Zusammengehörigkeit des Teams bewältigen. Es muss nicht alle Fußballregeln erklären, aber es bietet einen emotionaleren Zugang als das Vereinswappen bei Spielerauftritten, Gruppenfotos und Merchandise.[^16]
+## Figuren stecken nicht nur in Plüschkostümen
 
-![Maskottchen Timon TYMON der nationalen Fußballmannschaft von Taiwan](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/TYMON.jpg/500px-TYMON.jpg)
+Maskottchen verlassen auch die Kostüme und betreten Campus-Treppen, Bahnhofshallen, Schaufenster und Straßenwände. Das 3D-Bemalte Treppenhaus der Jianzhong-Grundschule in Sanyi, Miaoli, entstand durch Zusammenarbeit von Wei Rong-xin und Xiao Zhang; das Bild umfasst Zibetkatzen-Wiesel, Bahnhof Shengxing, Longteng-Brücke und Holzschnitz-Dharma. Es ist kein einzelnes offizielles Maskottchen-Plüschtier, zeigt aber, wie lokale Figuren und Wahrzeichen-Symbole in öffentlichen Raum eintreten und Menschen eine lokale Geschichte körperlich durchschreiten lassen. [^15]
 
-_Das Maskottchen Timon TYMON der nationalen Fußballmannschaften von Taiwan. Foto: Dai Yuliang; CC BY-SA 4.0.[^16]_
+![Jianzhong-Grundschule 3D-Bemalte Treppe mit Zibetkatzen-Wiesel-Figur](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/%E5%BB%BA%E4%B8%AD%E5%9C%8B%E5%B0%8F3D%E5%BD%A9%E7%B9%AA%E9%9A%8E%E6%A2%AF.jpg/500px-%E5%BB%BA%E4%B8%AD%E5%9C%8B%E5%B0%8F3D%E5%BD%A9%E7%B9%AA%E9%9A%8E%E6%A2%AF.jpg)
 
-Von Timon kann man sehen, dass Maskottchen nicht nur für lokale Regierungen benötigt werden. Wenn ein Team auf dem Spielfeld „Repräsentation“ in eine zugängliche Empfindung verwandeln muss, ergänzt der Charakter die Aktion, den Körper und die Interaktion zum Vereinswappen. Sein Lebenszyklus kann sich mit dem Wettbewerb und der Fan-Community ändern, weshalb er nicht nur im zweidimensionalen Design verharren darf, sondern kontinuierlich auf echten Spielszenarien auftauchen muss.[^16]
+_3D-Bemalte Treppe der Jianzhong-Grundschule in Sanyi, Miaoli; Bild umfasst Zibetkatzen-Wiesel, Bahnhof Shengxing, Longteng-Brücke und Holzschnitz-Dharma. Foto: Paddy.hsiao, CC BY 4.0. Dies ist ein Fall lokaler Public Art und Figuren-Symbole, nicht als offizielles Schulmaskottchen zu bezeichnen._ [^15]
 
-Allerdings bestätigen die verfügbaren Daten hauptsächlich die Identität und Lizenzierung von Timon; bezüglich seiner vollständigen Entstehungsgeschichte, der Designer, der Charakterkonzeption und des operativen Erfolgs wird dieser Text keine Spekulationen anstellen. Diese Zurückhaltung ist kein Mangel an Daten, sondern vermeidet, ein Foto fälschlicherweise als eine ganze nicht existierende offizielle Konzeption darzustellen.[^16]
+Daher kann der Erfolg einer lokalen Figur nicht nur daran gemessen werden, ob sie ein Plüschtier hat. Man muss auch fragen: Kann sie eine Route werden, ein Fotopunkt, ein Campus-Eingang, ein visuelles Signal, das Menschen innehalten und den Ort verstehen lässt? Figuren im öffentlichen Raum brauchen nicht zwingend ein vollständiges Personenprofil, aber sie müssen in Beziehung zu einer begehbaren lokalen Erfahrung stehen. [^15]
 
-## Der Wendepunkt der Charakter-IP: Vom Motiv zum Alltag
+## Jenseits des Verbandswappens der Nationalmannschaft: TYMON
 
-Das Unternehmensmaskottchen zeigt diesen Wendepunkt am deutlichsten. Wie in einem Bericht von _The World_ berichtet, hatte Open während seines Höhepunktes ein Team zur Charakterentwicklung, das Themenläden, Film-, Bandkooperationen, Sonderwagen und Themenshops betrieb und mit 1 Milliarde Ta$ Umsatz für 7-Eleven im Jahr 2014 seinen kommerziellen Höhepunkt erreichte. Der Schwerpunkt hier liegt nicht auf einer schönen Umsatzzahl, sondern darauf, dass der Charakter als Inhalt aktiviert wurde, der langfristig geplant, entwickelt und gewartet werden muss.[^17]
+TYMON ist das Maskottchen der Chinesisch Taipeh Fußballnationalteams aller Altersstufen. Im Vergleich zu Schul- oder Verkehrsfiguren muss das Nationalteam-Maskottchen Fanmobilisierung, Spieltag und emotionale Verdichtung des Nationalteams bewältigen. Es muss nicht alle Fußballregeln erklären, aber bei Spieler-Einlauf, Fan-Fotos und Merchandise einen ausdrucksstärkeren Einstieg bieten als das Verbandswappen. [^16]
 
-Der gleiche Bericht platziert die Geburt von Welfare Bear im Jahr 2014 und weist darauf hin, dass dieser durch den Austausch von Geschenken, frische Verpackungen und strategische Kooperationen verkauft wurde. Der Bericht zitiert einen Akteur, der sagte, dass der Verkauf mit verpackten Früchten „auch 1 Milliarde erreicht habe“. Dieser Begriff umfasst verschiedene Produkte und Verkaufsaktivitäten und kann nicht direkt als reine Lizenzgebühr betrachtet werden, noch sollte er mit den Auftrittseinnahmen öffentlicher Maskottchen verglichen werden.[^17]
+Wenn Fans auf den Tribünen Handtücher schwenken, Trikots tragen, wandelt das Maskottchen die abstrakte Nationalteam-Identität in ein fotografierbares, abklatschbares Objekt. Am Sportort verkörpert die Figur Leidenschaft und Identifikation. [^16]
 
-Die wahre Schwelle der Unternehmens-IP ist die Fähigkeit, die Persönlichkeit des Charakters in verschiedenen Szenarien beizubehalten. Themenläden sind Räume, Kooperationen sind Objekte, Filme und Bands sind Inhalte, Sonderwagen sind mobile Medien. Wenn all diese Arrangements nur das Logo hinterlassen, kehrt der Charakter zum Markenzeichen zurück. Erst wenn jeder Medium dem Leser zeigt, „dass es derselbe Charakter ist, der etwas anderes tut“, erhält die IP ein Leben.[^17]
+Angesichts der Wettkampfspannung internationaler Turniere schafft das exklusive Maskottchen auch ein Erkennungszeichen für Taiwans Fußballsport. Im Vergleich zum reinen Verbandslogo verbreitet sich der ausdrucksstarke TYMON leichter in Social-Media-Übertragungen, Live-Anfeuerung und Souvenirs und baut eine alltägliche emotionale Brücke für Basis-Förderung und Fan-Zusammenhalt. [^16]
 
-Die Kooperation zwischen Taiwan Post und Yimei, bei der das Postmaskottchen Papago in Verpackungen platziert wurde, verwandelte die Post von einer Dienstleistungsorganisation in einen alltäglichen Gegenstand, den man sammeln, tauschen und verschenken kann. Der kulturelle Wert dieser Zusammenarbeit liegt jenseits des „Postbote, Briefkasten, Briefmarke“ und fügt einen emotionalen Charakterzugang hinzu.[^18]
+## Die Wasserscheide des Figuren-IP: Vom Muster zum Alltag
 
-| Charakter    | Überprüfbare Management-Signale                                  | Was nicht direkt abgeleitet werden kann                                                  |
-| :----------- | :--------------------------------------------------------------- | :--------------------------------------------------------------------------------------- |
-| Open         | Charakterschwerpunkt, Themenläden, Kooperationen und Themenshops | Der Umsatz einer einzelnen Veranstaltung ist die Lizenzgebühr des Charakters[^17]        |
-| Welfare Bear | Tauschgeschenke, frische Verpackungen, strategische Allianzen    | Die im Bericht genannte 1 Milliarde entspricht nicht dem jährlichen Nettogewinn[^17]     |
-| Papago       | Integration in Post- und Lebensmittelverpackungen                | Eine einmalige Kooperation bedeutet nicht den langfristigen Markterfolg[^18]             |
-| Caiqi Duck   | Sammelaktionen, die 59 öffentliche Märkte verbinden              | Die Teilnehmerzahl entspricht nicht zwingend dem Umsatzwachstum des Marktes[^3]          |
-| Tiger Duck   | Wappenbild, Campusidentität und Charakterbenennung               | Ein Foto eines Campus kann die Popularität des Charakters beweisen[^13] [^14]            |
-| Timon        | Nationalmannschaft, Fans und Spielszenen                         | Die Sichtbarkeit des Charakters entspricht nicht der sportlichen Leistung des Teams[^16] |
+Unternehmensmaskottchen zeigen diese Wasserscheide am deutlichsten. Die _CommonWealth Magazine_ berichtete, dass Open in der Blütezeit ein Figuren-Betriebs-Marketingteam unterhielt, Themenläden, Filme, Band-Kooperationen, Co-Branding-Spezialfahrzeuge und Themenpavillons betrieb und 2014 7-Eleven 1 Milliarde NT$ Umsatz bescherte – als Beschreibung des kommerziellen Höhepunkts. Der Kern hinter der Milliarde: Das Unternehmen behandelte die Figur tatsächlich als immateriellen Vermögenswert, der langfristige Schichtplanung, Produktentwicklung und laufende Pflege braucht. [^17]
 
-## Wenn Niedlichkeit nicht ausreicht: Yutoujun und Caiqi Duck
+Derselbe Bericht setzt die Geburt des [PX Mart](/de/economy/pxmart-supermarket/)-Welfare-Bären auf 2014 an und verweist auf dessen Akkumulation über Umtauschgeschenke, Frischwarenverpackungen und strategische Kooperationsprodukte. Der Bericht zitiert den Betreiber: Auch der Umsatz durch Obst-Umverpackung „erreiche die 1-Milliarde-Note“. Dieser Maßstab umfasst verschiedene Produkte und Verkaufsaktionen, lässt sich nicht direkt als reine Lizenzgebühr lesen, und taugt nicht zum harten Vergleich mit Auftrittseinnahmen öffentlicher Maskottchen. [^17]
 
-Die offizielle Konzeption von Yutoujun durch die Tourismusbehörde von Tainan ist sehr direkt: Er ist ein Barramundi, geboren in einem Brackwasser-Fischzuchtsystem an der Küste von Tainan. Sein englischer Name ist Sababoy, und seine Mission ist es, die ganze Welt mit Tainan bekannt zu machen. Die Wahl des „Fischkopfes“ statt des ganzen Körpers verwandelt den Barramundi vom Speisegut in einen Touristenbotschafter, der reisen und Städte vorstellen kann.[^19]
+Die eigentliche Hürde von Unternehmens-IP ist, ob die Figurenpersönlichkeit über verschiedene Szenen hinweg gewahrt bleibt. Themenladen ist Raum, Co-Branding-Produkt ist Objekt, Film und Band-Kooperation sind Inhalte, Spezialfahrzeug ist mobiles Medium. Bleiben all diese Arrangements nur beim Logo, fällt die Figur aufs Markenzeichen zurück. Erst wenn jedes Medium den Rezipienten erkennen lässt: „Das ist dieselbe Figur, die unterschiedliche Dinge tut“, beginnt das IP zu leben. [^17]
 
-Die offizielle Seite betont auch bewusst, dass Yutoujun beim Drehen seinen Fischkopf zeigt, um sich von Maskottchen abzugrenzen, die nur Niedlichkeit anstreben. Dieses Design ist ähnlich dem Humor lokaler taiwanesischer Küche: zuerst wird man als rund, niedlich und nahbar wahrgenommen, dann erinnert einen eine etwas bizarre Rückseite daran, dass dieser Fisch seine eigene Herkunft hat. Dies ist eine redaktionelle Analyse der offiziellen Charakterdaten und kein direktes Zitat des Designer-Humors.[^19]
+Die Co-Branding-Produkte von Chunghwa Post und Yimei setzen das Post-Maskottchen Popo Pigeon in Verpackungen ein und wandeln die Post vom Dienstleister in ein sammel-, tausch- und verschenkbares Alltagsobjekt. Die kulturelle Bedeutung dieser Kooperation liegt darin, dass jenseits von „Postbote, Briefkasten, Briefmarke“ ein weiterer ausdrucksstarker Figuren-Eingang hinzukommt. [^18]
 
-Die Stadtverwaltung von Tainan gab in einer Pressemitteilung an, dass Yutoujun bei der Fischereifest-Pressekonferenz 2018 erstmals auftrat und später bei internationalen Austauschveranstaltungen, Tourismusförderungen, Stadien und Messen erschien. Im Jahr 2023 präsentierte die Stadtverwaltung „Yutoujuns Spielplatz“ als thematische Installation. Diese Szenarien machten Yutoujun nicht nur zu einem Lebensmittelbild, sondern zu einem Touristenbotschafter, der Menschen dazu bringt, einen Ort kennenzulernen.[^20]
+| Figur       | Verifizierbare Betriebssignale                                        | Nicht direkt ableitbar                                    |
+| ----------- | --------------------------------------------------------------------- | --------------------------------------------------------- |
+| Open Jiang  | Figurenteam, Themenladen, Co-Branding, Themenpavillon                 | Einzel-Event-Umsatz = Lizenzgebühr [^17]                  |
+| Welfare-Bär | Umtauschgeschenke, Frischwarenverpackung, strategische Allianzen      | Berichtete 1 Milliarde = jährlicher Reinertrag [^17]      |
+| Popo Pigeon | Eintritt in Post- und Lebensmittel-Co-Branding-Verpackung             | Einmaliges Co-Branding = langfristiger Markenerfolg [^18] |
+| Caiqi Ya    | Verknüpfung von 59 öffentlichen Einzelhandelsmärkten via Sammelaktion | Teilnahmezahl = Marktumsatzwachstum [^3]                  |
+| Tiger Duck  | Wappenbild, Campus-Identifikation, Figurenname                        | Ein Campusfoto beweist Figurenverbreitung [^13] [^14]     |
+| TYMON       | Nationalteam, Fans, Spieltag                                          | Figurensichtbarkeit = Teamleistung [^16]                  |
 
-Caiqi Duck folgt einem anderen Weg. Eine Pressemitteilung der Stadtverwaltung von Tainan im Jahr 2024 behauptete, dass das Maskottchen des Marktes „Caiqi Duck“ populär wurde und es mit der Kampagne „Caisizai, Kuanwuzai Lan Bu Nu Ni Jidian Duck“ (Marktbesuch, Warenkorb hält dich nicht fest, Sammelduck) verband. Die Öffentlichkeit konnte 59 öffentliche Märkte besuchen, durch QR-Codes sammeln, einkaufen, checken und Merchandise einlösen, um den Markt neu kennenzulernen.[^3]
+## Wenn Niedlichkeit nicht reicht: Fischkopf und Caiqi Ya
 
-Der Wert dieses Falles liegt nicht nur im Wortspiel. Nachdem das Maskottchen in die Marktdynamik integriert wurde, wurde es zu einer Navigationsschnittstelle: Es sagte, wohin man gehen muss, was man tun soll und wie man einen Einkauf von einem teilbaren Erlebnis machen kann. Der „lokale Geschmack“ des Charakters hatte somit ein beobachtbares Verhalten und nicht nur ein Slogan.[^3]
+Das Tourismusbüro der Stadt Tainan definiert Fischkopf sehr direkt: Er ist ein in Tainans küstennahen Flachwasser-Teichanlagen geborener Milchfisch, englischer Name Sababoy, Mission: die Welt Tainan kennen lassen. Die Wahl von „Fischkopf“ statt ganzem Fischkörper wandelt den Milchfisch vom Speiseteller-Zutat zum überall reisenden Stadtvorsteller. [^19]
 
-> 📝 **Kuratorentipp:** Yutoujun machte Lebensmittel zu Charakteren; Caiqi Duck machte Märkte zu Aufgaben; wenn die Lokalität wirklich ankommt, weist das Maskottchen dir den nächsten Schritt an.
+Die offizielle Seite vermerkt bewusst, dass Fischkopf beim Drehen den quergeschnittenen Fischkopf zeigt – um sich von rein niedlichkeitsorientierten Maskottchen abzuheben. Dieses Design nah an taiwanesischem lokalem Esshumor: erst rund, niedlich, anziehend wirken lassen, dann durch einen leicht skurrilen Rücken an die eigene Herkunft erinnern. Diese Passage ist eine redaktionelle Analyse der offiziellen Figurenunterlagen, nicht das Humorverständnis als direktes Designer-Zitat misszuverstehen. [^19]
 
-## Öffentliche Budgets bewerten auch Maskottchen
+Eine weitere Pressemitteilung der Stadtregierung Tainan führt an: Fischkopf trat 2018 beim Qigu-Meeresfrüchtefest-Pressegespräch erstmals auf, danach bei Japan-Austausch, Tourismusförderung, Stadion und Reisemessen. 2023 inszenierte die Stadtregierung mit „Fischkopfs Spielplatz“ eine Themen-Ausstellung. Diese Szenen machen Fischkopf nicht nur zum Lebensmittelbild, sondern zum Tourismusbotschafter, der Menschen den Ort kennen lässt. [^20]
 
-Wenn Unternehmenscharaktere nicht gut verkaufen, ändern Unternehmen ihre Strategie. Wenn öffentliche Charaktere öffentliche Gelder verwenden, gibt es ein zusätzliches Problem. Im Jahr 2018 löste die Ausgabe von 1,13 Millionen Ta$ für Marken- und Designänderungen von Xiongzan eine Frage der Ratsmitglieder aus. Dieser Streit drehte sich nicht nur darum, ob der Bär gut aussah, sondern auch darum, ob öffentliche Institutionen klar erklären konnten: Warum wurde er geändert? Was sollte durch die Änderung gelöst werden? Wie wird danach der Erfolg gemessen?[^21]
+Im Unterschied zum auf Sehenswürdigkeiten fokussierten Tourismusbotschafter wählt Caiqi Ya die direkte Verwurzelung im alltäglichen Gemüsemarkt. Die Stadtregierung Tainan 2024 nutzte das Marktverwaltungs-Maskottchen „Caiqi Ya“ für die Aktion „Marktbesuch, Korb nicht voll genug, Sammel-Ente“. Bürger können 59 öffentliche Einzelhandelsmärkte besuchen, kombiniert mit der [taiwanesischen Markt- und traditionellen Markt-Kultur](/de/lifestyle/taiwan-traditional-markets-and-market-culture/) des täglichen Einkaufs, und durch QR-Code-Sammeln, Check-in und Merchandise-Umtausch neu in den Markt eintreten. [^3]
 
-Daher kann man bei der Bewertung öffentlicher Maskottchen nicht nur auf Lizenzgebühren oder einmalige Auftrittsgelder schauen. Man muss mindestens drei Aspekte betrachten: Erhöht der Charakter die Informationsvermittlung, erleichtert er den Bürgern die Teilnahme an städtischen Aktivitäten und können die Design- und Wartungskosten transparent dargelegt werden? Einnahmen liefern Hinweise, aber sie dürfen nicht allein für den kulturellen Nutzen stehen. Diese drei Aspekte sind ein Analyserahmen, den dieser Text vorschlägt, keine offiziellen Kennzahlen.[^3] [^21]
+Die kuratorische Tiefe von Caiqi Ya liegt darin, das Maskottchen zur tatsächlichen Markt-Navigations-Schnittstelle zu machen: Es sagt Bürgern, wo einzukaufen, wie alte Märkte zu erkunden sind, und wandelt einen gewöhnlichen Gemüsekauf in ein ritualisiertes Sammelerlebnis. Die „Taiwan-Note“ der Figur erhält damit beobachtbares konkretes Verhalten, nicht nur einen Werbeslogan. [^3]
 
-Das gleiche Prinzip gilt auch für Unternehmens-IPs. Die im Bericht genannten Umsätze, Produktverkäufe, Tauschmengen, soziale Medien und Lizenzkooperationen beantworten unterschiedliche Fragen. Sie können nicht einfach addiert werden, um „Charaktererfolg“ zu erzielen. Der kommerzielle Nutzen, der öffentliche Nutzen, das kulturelle Gedächtnis und die Naturschutzkommunikation eines Charakters sollten getrennt erfasst und dann erklärt werden, wie sie sich gegenseitig beeinflussen.[^5] [^17] [^18]
+> 📝 **Kuratorische Anmerkung:** Fischkopf macht aus Zutat Figur, Caiqi Ya macht aus Markt Aufgabe; wenn Lokales wirklich Boden gewinnt, weist das Maskottchen den nächsten Schritt.
 
-## „Niedlich“ in ein System übersetzen
+## Wenn Niedlichkeit auf Realität trifft: Urheberrechts-Untergrenze und „Hässlich-Niedlich“-Gegenangriff
 
-Von Datong Baby zu Oh Bear, von Xiongzan zu Kaohsiung MRT, Maolihao, Tiger Duck, Timon, Yutoujun und Caiqi Duck: Die gemeinsame Entwicklung der taiwanesischen Maskottchen ist die Übersetzung von Institutionen in menschliche Sprache. Das Datong-Baby gab dem Unternehmen einen Körper, den man mit nach Hause nehmen konnte. Oh Bear gab der Tourismusmission eine Charakterstimme. Kaohsiung MRT brachte das Maskottchen auf die Verkehrsszene. Maolihao setzte den Leopardenschutz und den Präfekturnamen in den Bahnhof; Tiger Duck machte das Schulwappen zum Campus-Partner; Timon machte die Nationalmannschaft zu einem Objekt, mit dem Fans Händedrucken können; Yutoujun brachte lokale Lebensmittel auf die touristische Bühne; Caiqi Duck verwandelte den Marktbesuch in ein missionsorientiertes Stadterlebnis.[^1] [^2] [^3] [^4] [^9] [^11] [^13] [^16] [^19]
+Die Lebenskraft von Maskottchen speist sich oft aus der „Authentizität“ dahinter. Mai 2024: Das Hauptvisual „A-Long“ des Real-Life-Rätselspiels des Nationalen Taiwan-Literaturmuseums wurde des Plagiats eines chinesischen Illustrators beschuldigt; das Museum erklärte zunächst, keine Plagiatsfeststellung, tags darauf gestand es, der Auftragnehmer habe gefälschte Originalitätsnachweise vorgelegt, entschuldigte sich öffentlich und nahm alles offline. Der Vorfall läutete die Alarmglocke für öffentliche Cultural-Creative-Governance: Wenn Maskottchen zu Wegwerfprodukten unter Dienstleistungsvergaben verkommen, verbraucht ein Urheberrechtssturm das über Jahre aufgebaute gesellschaftliche Vertrauen der gesamten öffentlichen Institution. [^25]
 
-Dieser Weg hinterlässt jedoch auch einige praktische Fragen. Ist das Charakterprototyp zu stark auf den Schwarzbären konzentriert? Werden Lizenzerträge, Produktverkäufe und öffentlicher Nutzen in einer Tabelle vermischt? Sind die Bilddateien, Fotos und abgeleiteten Produkte der offiziellen Charaktere klar gekennzeichnet bezüglich ihrer Rechte? Wenn diese Fragen keine Antworten haben, bleibt selbst ein niedlicher Charakter möglicherweise nur eine einmalige Kulisse.[^5] [^17] [^21]
+Jenseits der Suche nach raffinierter Niedlichkeit wuchsen in Taiwans lokalen Räumen auch „hässlich-niedliche“ Ensembles, die durch Skurrilität und Kontrast auffallen. Der prominenteste Fall: Tainans Nordtor „Milchfisch-Junge“ mit pechschwarzen Großaugen und merkwürdigem Grinsen, als Albtraum-Wahrzeichen gehandelt, sogar in der US-HBO-Show _Last Week Tonight with John Oliver_ für internationales Aufsehen sorgend. Diese ungeschliffenen lokalen Gestaltungen wurden unerwartet zu grenzüberschreitenden Community-Viral-Phänomenen. [^26]
 
-Das Urheberrecht an Bildern darf nicht durch das Wort „offiziell“ ignoriert werden. Die in diesem Text verwendeten Bilder von Wikimedia Commons sind mit CC BY, CC BY-SA oder den Nutzungsbedingungen der Open Data gekennzeichnet; die Lizenzierung eines Fotos bedeutet nicht, dass Marken, offizielle Grafiken oder abgeleitete Produkte beliebig verwendet werden dürfen. Der Artikel kann den Charakter zeigen, aber beim Einreichen oder Reproduzieren muss man jeden Fotografen, die Lizenzbedingungen, das Markenrecht und die Ankündigung der Open Data einzeln überprüfen.[^4] [^8] [^10] [^12] [^14] [^15] [^16]
+Neben den Charakterlandschaften der Inselhauptstadt tauchten in Penghu „Perlen-Kind“, „Stadt-Tor-Frisch-Auster“ und „Bikini-Clownfisch“ als Wahrzeichen auf, die bei Erscheinen oft von Plastikgefühl und Ästhetikdebatten begleitet wurden, aber durch magische Visuelle in Social Media Check-in-Hypes auslösten und gemeinsam mit Fischkopfs Querschnittshumor Taiwans einzigartige „hässlich-niedliche Kultur“ und [Taiwan-Meme](/de/culture/taiwan-meme-culture/)-Ökologie skizzieren. Diese das Übliche brechende Selbstironie und Kontrast spiegelt den Graswurzelversuch lokaler Schöpfer wider, den japanischen Raffiniertheitsrahmen zu verlassen. [^26] [^27]
 
-Für den Leser ist es beim nächsten Treffen mit einem Maskottchen auf der Straße wichtig, eine Frage zu stellen: Wem repräsentiert er einen Ort und welche Aufgabe erledigt er für wen? Wenn die Antwort zu einem Markt, einem Lebensmittel, einem Bahnhof, einer Schule, einem Wettbewerb oder einer Erinnerung an den Naturschutz zurückführen kann, hat der Charakter die Chance zu leben. Dann ist das Maskottchen nicht nur jemand in einem Kostüm, sondern eine Art und Weise, wie Taiwan sich selbst anderen präsentiert.[^3] [^4] [^5]
+## Öffentliches Budget bewertet auch Maskottchen
 
-## Weiterführende Lektüre
+Wenn Unternehmensfiguren nicht verkaufen, kann das Unternehmen die Strategie wechseln. Wenn öffentliche Figuren Steuergeld nutzen, kommt eine Schicht hinzu. 2018 löste Bravos Marken- und Design-Überarbeitungskosten von 1,13 Mio. NT$ Ratsfragen im Gemeinderat aus. Dieser Streit betrifft nicht nur, ob ein Bär gut aussieht, sondern ob die öffentliche Institution klar sagt: Warum ändern, was soll die Änderung lösen, wie wird Wirksamkeit nach der Änderung bewertet. [^21]
 
-- [**Taiwan Memes**](/culture/台灣迷因) — Wie Wortspiele, „niedlich-schön“ und Kontraste in sozialen Medien zirkulieren
+Daher kann die Bewertung öffentlicher Maskottchen nicht nur auf Lizenzgebühren oder einmalige Auftrittshonorare schauen. Mindestens drei Dimensionen gleichzeitig: Ob die Figur Informationsvermittlung verbessert, ob sie Bürgern die Teilnahme an Stadtaktivitäten erleichtert, und ob Design- und Wartungskosten öffentlich erklärbar sind. Umsatzzahlen können Hinweise geben, aber kulturellen Nutzen nicht allein repräsentieren. Diese drei Dimensionen sind der in diesem Text vorgeschlagene Analyse-Rahmen, keine offiziellen Statistikindikatoren. [^3] [^21]
 
-- [**FamilyMart Welfare Center**](/economy/全聯福利中心) — Das Alltagsmanagement von Welfare Bear und Unternehmens-IP
+Auch bei Unternehmens-IP-Betriebsleistung braucht die Außenwelt gleichermaßen rationale Durchdringung der Oberflächenzahlen. Berichtete Umsatzgrößen, Produktabsätze, Umtauschschwellen und Lizenzkooperationen beantworten jeweils unterschiedliche kommerzielle Fragen. Alles zusammenzuzählen, ergibt nicht automatisch „Figur erfolgreich“. Kommerzieller Nutzen, öffentlicher Nutzen, kulturelles Gedächtnis und Schutzkommunikation der Figur sollten getrennt erfasst und dann beschrieben werden, wie sie sich gegenseitig beeinflussen. [^5] [^17] [^18]
 
-- [**Tainan Märkte**](/lifestyle/%E5%8F%B0%E5%8D%97%E5%B8%82%E5%A0%B4) — Die Märkte, Lebensmittel und das städtische Leben, die mit Caiqi Duck und Yeqi Duck verbunden sind
+## „Niedlich“ in eine Methode umschreiben
 
-## Referenzen
+Der Rückblick auf ein halbes Jahrhundert taiwanesischer Maskottchen-Wandlung zeigt die gemeinsame Erfahrung: harte Systeme in zugängliche Menschensprache zu übersetzen. Datong-Baby gab dem Unternehmen leibliche Gestalt, OhBear gab Tourismuspolitik einen Gesprächston, Kaohsiung Metro brachte die Figur in den Pendleralltag. In verschiedenen Szenen haben Maskottchen je eigene Aufgaben: Maoli Miao setzt Zibetkatzen-Wiesel-Schutz und Landkreisnamen in den Bahnhof, Tiger Duck wandelt Wappen in Campus-Gefährten, TYMON macht das Nationalteam zum abklatschbaren Objekt, Fischkopf hebt lokale Zutat auf die Tourismusbühne, Caiqi Ya verwandelt Marktpilgerfahrt in aufgabenbasierte Stadtentdeckung. [^1] [^2] [^3] [^4] [^9] [^11] [^13] [^16] [^19]
 
-[^1]: [Datong Company: Datong Baby](https://www.tatung.com/tw/info/about-mascot) — Details siehe Originalquellenangabe
+Dieser Weg hinterlässt auch einige praktische Fragen. Ist das Figurenoriginal zu stark auf Schwarzbären konzentriert? Werden Lizenzgebühren, Produktverkäufe und öffentlicher Nutzen in ein und derselben Tabelle vermischt? Sind bei offiziellen Figuren Bilddateien, Fotografien und Derivateprodukte mit klaren Rechtsgrenzen gekennzeichnet? Fehlen diese Antworten, bleibt die Figur noch so niedlich nur einmalige Kulisse. [^5] [^17] [^21]
 
-[^2]: [Tourismusbehörde des Verkehrsministeriums: Über Oh Bear](https://www.taiwan.net.tw/m1.aspx?sno=0040078) — Details siehe Originalquellenangabe
+Bildrechte dürfen besonders nicht vom Wort „offiziell“ überdeckt werden. Die in diesem Text behaltenen Wikimedia-Commons-Bilder sind jeweils mit CC BY, CC BY-SA oder Regierungs-Open-Data-Nutzungsbedingungen gekennzeichnet; die Fotolizenz bedeutet nicht, dass Figurenmarken, offizielle Artworks oder Derivateprodukte beliebig nutzbar sind. Der Artikel darf Figuren zeigen, aber bei Einreichung oder Nachnutzung sind Fotograf, Lizenzbedingungen, Marke und Regierungs-Open-Data-Bekanntmachung jeweils einzeln zu prüfen. [^4] [^8] [^10] [^12] [^14] [^15] [^16]
 
-[^3]: [Stadtverwaltung von Tainan: Caisizai, Kuanwuzai Lan Bu Nu Ni Jidian Duck](https://www.tainan.gov.tw/news_content.aspx?n=13370&s=8704341) — Details siehe Originalquellenangabe
+Für Leser: Beim nächsten Maskottchen auf der Straße eine Frage mehr stellen: Wessen Ort vertritt es, für wen erledigt es welche Aufgabe? Findet die Antwort den Weg zurück zu einem Markt, einem Essen, einem Bahnhof, einer Schule, einem Event oder einer Schutz-Erinnerung, hat die Figur Chance zu leben. Nur im Alltag angekommen, kann das Maskottchen die Hülle des Event-Propaganda-Requisiten abstreifen und真正 zu einer lebendigen Art werden, wie Taiwan der Welt erzählt. [^3] [^4] [^5]
 
-[^4]: [Wikimedia Commons: Caiqi Duck Tshài-tshī-á.jpg](https://commons.wikimedia.org/wiki/File:%E8%8F%9C%E5%A5%87%E9%B4%A8Tsh%C3%A0i-tsh%C4%AB-%C3%A1.jpg) — Details siehe Originalquellenangabe
+## Weiterführende Links
 
-[^5]: [Yushan National Park: Taiwan black bear information](https://www.ysnp.gov.tw/En/StaticPage/ScienceEn) — Details siehe Originalquellenangabe
+- [**Taiwan-Memes**](/de/culture/taiwan-meme-culture) — Wie Wortspiele, hässlich-niedlich und Kontrast in Communities zirkulieren
 
-[^6]: [Yushan National Park: Liste der gefährdeten Wildtiere](https://www.ysnp.gov.tw/StaticPage/Directory) — Details siehe Originalquellenangabe
+- [**PX Mart**](/de/economy/pxmart-supermarket) — Welfare-Bär und der tägliche Betrieb von Unternehmens-IP
 
-[^7]: [Datong Baby Forschung: Untersuchung von Symbolen und Transplantationsspuren aus Unternehmensmaskottchen](https://sun.noonspace.com/w28NoonSpace/juming/MsgInfo/%E3%80%8A%E9%9B%95%E5%A1%91%E7%A0%94%E7%A9%B6%E3%80%8B21-04%E9%84%AD%E7%A7%80%E5%A6%82.pdf) — Details siehe Originalquellenangabe
+- [**Taiwanesische Markt- und traditionelle Markt-Kultur**](/de/lifestyle/taiwan-traditional-markets-and-market-culture) — Die von Caiqi Ya und Yeqi Ya verknüpften Märkte, Speisen und Stadtleben
 
-[^8]: [Wikimedia Commons: Bravo and visitors in Yangmingshan National Park](https://commons.wikimedia.org/wiki/File:Bravo_and_visitors_in_Yangmingshan_National_Park_20160124b.jpg) — Details siehe Originalquellenangabe
+- [**Taiwanesischer Schwarzbär**](/de/nature/taiwanese-black-bear) — Das endemische biologische Original und sein realer Lebensraum hinter dem kulturellen Totem
 
-[^9]: [Kaohsiung MRT: U!FU und HAPPI-Spielchen an den U-Bahnstationen](https://www.krtc.com.tw/Information/news_more?id=b696995bfaf9465fbe63a8e2e048d9bb) — Details siehe Originalquellenangabe
+## Quellen
 
-[^10]: [Wikimedia Commons: Kaohsiung MRT Maskottchen IMG 0907.jpg](https://commons.wikimedia.org/wiki/File:%E9%AB%98%E9%9B%84%E6%8D%B7%E9%81%8B%E5%90%89%E7%A5%A5%E7%89%A9_IMG_0907.jpg) — Details siehe Originalquellenangabe
+[^1]: [Datong Company: Datong Baby](https://www.tatung.com/tw/info/about-mascot) — Details siehe Originalverlinkungstext
 
-[^11]: [Regierung der Präfektur Miali: Dank an die Bürger für Maolihao](https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=196769) — Details siehe Originalquellenangabe
+[^2]: [Tourismusbüro des Verkehrsministeriums: Über OhBear](https://www.taiwan.net.tw/m1.aspx?sno=0040078) — Details siehe Originalverlinkungstext
 
-[^12]: [Wikimedia Commons: Miaolimiao at THSR Miaoli Station](https://commons.wikimedia.org/wiki/File:Miaolimiao_at_THSR_Miaoli_Station.jpg) — Details siehe Originalquellenangabe
+[^3]: [Stadtregierung Tainan: Marktbesuch, Korb nicht voll genug, Sammel-Ente](https://www.tainan.gov.tw/news_content.aspx?n=13370&s=8704341) — Details siehe Originalverlinkungstext
 
-[^13]: [National Taiwan University of Science and Technology: Tiger Duck! NTUST erschafft ein eigenes Campus-Maskottchen](https://www.ntust.edu.tw/p/404-1000-54016.php?Lang=zh-tw) — Details siehe Originalquellenangabe
+[^4]: [Wikimedia Commons: Caiqi Ya Tshài-tshī-á.jpg](https://commons.wikimedia.org/wiki/File:%E8%8F%9C%E5%A5%87%E9%B4%A8Tsh%C3%A0i-tsh%C4%AB-%C3%A1.jpg) — Details siehe Originalverlinkungstext
 
-[^14]: [Wikimedia Commons: Zeng Taiming National Taiwan University of Science and Technology Maskottchen](https://commons.wikimedia.org/wiki/File:%E6%9B%BE%E6%B3%B0%E6%98%8E_%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8_%E5%90%89%E7%A5%A5%E7%89%A9.jpg) — Details siehe Originalquellenangabe
+[^5]: [Yushan National Park: Taiwan black bear information](https://www.ysnp.gov.tw/En/StaticPage/ScienceEn) — Details siehe Originalverlinkungstext
 
-[^15]: [Wikimedia Commons: 3D-bemalte Treppe der Jianzhong Elementary School](https://commons.wikimedia.org/wiki/File:%E5%BB%BA%E4%B8%AD%E5%9C%8B%E5%B0%8F3D%E5%BD%A9%E7%B9%AA%E9%9A%8E%E6%A2%AF.jpg) — Details siehe Originalquellenangabe
+[^6]: [Yushan-Nationalpark: Liste der geschützten Wildtiere](https://www.ysnp.gov.tw/StaticPage/Directory) — Details siehe Originalverlinkungstext
 
-[^16]: [Wikimedia Commons: TYMON.jpg](https://commons.wikimedia.org/wiki/File:TYMON.jpg) — Details siehe Originalquellenangabe
+[^7]: [Datong-Baby-Forschung: Vom Unternehmens-Image zur Diskussion von Zeichen und Transplantationsspuren](https://sun.noonspace.com/w28NoonSpace/juming/MsgInfo/%E3%80%8A%E9%9B%95%E5%A1%91%E7%A0%94%E7%A9%B6%E3%80%8B21-04%E9%84%AD%E7%A7%80%E5%A6%82.pdf) — Details siehe Originalverlinkungstext
 
-[^17]: [The World Magazine: Der Mann, der Open und Welfare Bear erschuf](https://www.cw.com.tw/article/5137665) — Details siehe Originalquellenangabe
+[^8]: [Wikimedia Commons: Bravo and visitors in Yangmingshan National Park](https://commons.wikimedia.org/wiki/File:Bravo_and_visitors_in_Yangmingshan_National_Park_20160124b.jpg) — Details siehe Originalverlinkungstext
 
-[^18]: [Taiwan Post: 130-jähriges Kooperationspaket mit Yimei](https://www.post.gov.tw/post/internet/Group/index.jsp?ID=150101&news_no=73607&news_cat=11&group_name=&control_type=page) — Details siehe Originalquellenangabe
+[^9]: [Kaohsiung Metro: Kaohsiung Metro U!FU und HAPPI Leichtbahnstation niedlich Wahlkampf](https://www.krtc.com.tw/Information/news_more?id=b696995bfaf9465fbe63a8e2e048d9bb) — Details siehe Originalverlinkungstext
 
-[^19]: [Tourismusbehörde von Tainan: Bereich zur Vorstellung von Yutoujun](https://www.twtainan.net/zh-tw/event/newsdetail/4155/) — Details siehe Originalquellenangabe
+[^10]: [Wikimedia Commons: Kaohsiung Metro Maskottchen IMG 0907.jpg](https://commons.wikimedia.org/wiki/File:%E9%AB%98%E9%9B%84%E6%8D%B7%E9%81%8B%E5%90%89%E7%A5%A5%E7%89%A9_IMG_0907.jpg) — Details siehe Originalverlinkungstext
 
-[^20]: [Stadtverwaltung von Tainan: 5. Jahrestag „Yutoujuns Spielplatz“](https://www.tainan.gov.tw/news_content.aspx?n=13370&s=8603620) — Details siehe Originalquellenangabe
+[^11]: [Landkreisregierung Miaoli: Danke an Landsleute für Unterstützung Maoli Miao](https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=196769) — Details siehe Originalverlinkungstext
 
-[^21]: [Liberty Times: Xiongzan-Kostüm für 1,13 Millionen Ta$](https://news.ltn.com.tw/news/politics/breakingnews/2412456) — Bericht der Liberty Times
+[^12]: [Wikimedia Commons: Miaolimiao at THSR Miaoli Station](https://commons.wikimedia.org/wiki/File:Miaolimiao_at_THSR_Miaoli_Station.jpg) — Details siehe Originalverlinkungstext
+
+[^13]: [Nationale Technologische Universität Taiwan: Tiger Duck! Taiwan Tech schafft exklusives Campus-Maskottchen](https://www.ntust.edu.tw/p/404-1000-54016.php?Lang=zh-tw) — Details siehe Originalverlinkungstext
+
+[^14]: [Wikimedia Commons: Zeng Tai-ming Nationale Technologische Universität Taiwan Maskottchen](https://commons.wikimedia.org/wiki/File:%E6%9B%BE%E6%B3%B0%E6%98%8E_%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8_%E5%90%89%E7%A5%A5%E7%89%A9.jpg) — Details siehe Originalverlinkungstext
+
+[^15]: [Wikimedia Commons: Jianzhong-Grundschule 3D-Bemalte Treppe](https://commons.wikimedia.org/wiki/File:%E5%BB%BA%E4%B8%AD%E5%9C%8B%E5%B0%8F3D%E5%BD%A9%E7%B9%AA%E9%9A%8E%E6%A2%AF.jpg) — Details siehe Originalverlinkungstext
+
+[^16]: [Wikimedia Commons: TYMON.jpg](https://commons.wikimedia.org/wiki/File:TYMON.jpg) — Details siehe Originalverlinkungstext
+
+[^17]: [CommonWealth Magazine: Der Mann, der Open Jiang und Welfare-Bär schuf](https://www.cw.com.tw/article/5137665) — Details siehe Originalverlinkungstext
+
+[^18]: [Chunghwa Post: Post 130. Jubiläum Co-Branding Mini-Éclair-Geschenkbox](https://www.post.gov.tw/post/internet/Group/index.jsp?ID=150101&news_no=73607&news_cat=11&group_name=&control_type=page) — Details siehe Originalverlinkungstext
+
+[^19]: [Tourismusbüro der Stadtregierung Tainan: Fischkopf-Einführungsbereich](https://www.twtainan.net/zh-tw/event/newsdetail/4155/) — Details siehe Originalverlinkungstext
+
+[^20]: [Stadtregierung Tainan: Fischkopf 5. Jubiläum „Fischkopfs Spielplatz“](https://www.tainan.gov.tw/news_content.aspx?n=13370&s=8603620) — Details siehe Originalverlinkungstext
+
+[^21]: [Liberty Times: Bravo Schönheits-OP kostet 1,13 Mio.](https://news.ltn.com.tw/news/politics/breakingnews/2412456) — Liberty Times Bericht
+
+[^22]: [Chinese Professional Baseball League — Wikipedia](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E8%8F%AF%E8%81%B7%E6%A5%AD%E6%A3%92%E7%90%83%E5%A4%A7%E8%81%AF%E7%9B%9F) — Start 17. März 1990, vier Gründerteams Brother Elephants, Uni-President Lions, Wei Chuan Dragons, Mercuries Tigers
+
+[^23]: [The Critical Review Network: Taiwans einzigartige „Schwarzbär“-Besessenheit und Markeneinzigartigkeitskrise](https://www.thenewslens.com/article/80404) — Lin Cheng-yi Analyse zur Schwarzbär-Maskottchen-Sättigung und 2016 PK-Kampf-Phänomen
+
+[^25]: [Real-Life-Rätselspiel-Hauptvisual „A-Long“ plagiiert China, Taiwan-Literaturmuseum entschuldigt und nimmt offline](https://www.cna.com.tw/news/acul/202405160327.aspx) — CNA Bericht Mai 2024 Taiwan-Literaturmuseum A-Long Plagiatsvorfall
+
+[^26]: [Milchfisch-Junge, Bananen-König wieder hässlich bis international! John Oliver: Taiwan liebt Wegwerf-Maskottchen — er weist auf absurde Landschaften hin, die ganz Taiwan füllen](https://esg.businesstoday.com.tw/article/category/180698/post/202110260024/) — Business Weekly ESG Nachhaltiges Taiwan Bericht, 2021 John Oliver in _Last Week Tonight_ mit Tainan Nordtor Milchfisch-Junge als Opening über Taiwan
+
+[^27]: [Penghu stellt 4 der „9 hässlichsten Maskottchen-Wahrzeichen Taiwans“! Diese 2 schafften es sogar in US-Talkshow](https://www.ettoday.net/news/20230426/2486681.htm) — ETtoday Bericht: Penghu Perlen-Kind, Stadt-Tor-Frisch-Auster, Bikini-Clownfisch, Tintenfisch-Mädchen in Taiwans hässlichste Maskottchen-Wahrzeichen gewählt
