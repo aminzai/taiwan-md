@@ -350,3 +350,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-23 | 084836-twmd-maintainer-am | aminzai 三篇譯文收下；死連結綠燈底下追出十二語 60 條家族，根因是母稿裸檔名連結；09-07 斜體網址未解項量完＝全庫三篇；收官分岔當班併掉 | 會改壞網址的是外面那層斜體，角括號救不了；收 PR 與本機 commit 是兩個寫入點 | [→](memory/2026-09-23-084836-twmd-maintainer-am.md) |
 | 2026-09-24 | 004242-twmd-babel-nightly | 旗艦文十二語到齊（委派層一夜收十一語、單價每語約 30 萬 token）；五道閘門誤判當夜修；77 份尾段漂移對齊；缺稿一半是長文，登記 #79 | 驗證對象要等於落地對象，比較型閘門兩側過同一個正規化 | [→](memory/2026-09-24-004242-twmd-babel-nightly.md) |
 | 2026-09-24 | 053909-twmd-routine-sync | 第 58 輪：embeddings 殼層去寫死修補（`929a6f739`）apply 進機器；cron／enabled 拉 live 排程器對 ROUTINE.md 零差 | 跨過 05:30 收官的班改殼要隔兩晚生效；babel 重算後不受影響，昨天的案例差點被硬套 | [→](memory/2026-09-24-053909-twmd-routine-sync.md) |
+| 2026-09-24 | 060040-twmd-embeddings-nightly | 13 語 13,922 向量 0 fail（+127 全在譯文側），verify PASS，`b19d46085` 推到 origin；前夜殼層修補 05:38 經 routine-sync 送達本機 | 驗收要等被驗的事排程輪到，太早查會把還沒到記成沒做到 | [→](memory/2026-09-24-060040-twmd-embeddings-nightly.md) |
