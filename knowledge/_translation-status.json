@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-24T06:04:22+08:00",
-    "zhCommitHead": "16b372437",
+    "lastUpdated": "2026-09-24T06:51:18+08:00",
+    "zhCommitHead": "75ff1ba72",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 1026,
+        "fresh": 1027,
         "stale": 31,
         "metadata_stale": 0,
-        "missing": 67,
+        "missing": 66,
         "orphan": 0
       },
       "pt": {
@@ -94582,7 +94582,20 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/che-yu-wu.md",
+          "translatedFrom": "People/吳哲宇.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:ac5cbabad7f0e8a5",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-23T21:53:43.203898+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 32,
+          "bytes": 67798,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/che-yu-wu.md",
