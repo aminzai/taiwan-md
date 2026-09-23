@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-23T08:44:28+08:00",
-    "zhCommitHead": "8827f36fd",
+    "lastUpdated": "2026-09-23T08:54:59+08:00",
+    "zhCommitHead": "61790fbc3",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,98 +20,98 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1071,
-        "stale": 32,
-        "metadata_stale": 5,
+        "fresh": 1060,
+        "stale": 40,
+        "metadata_stale": 8,
         "missing": 16,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 941,
-        "stale": 93,
-        "metadata_stale": 24,
+        "fresh": 931,
+        "stale": 100,
+        "metadata_stale": 27,
         "missing": 66,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1124,
-        "fresh": 1062,
-        "stale": 38,
-        "metadata_stale": 6,
+        "fresh": 1052,
+        "stale": 45,
+        "metadata_stale": 9,
         "missing": 18,
         "orphan": 0
       },
       "es": {
         "total_zh": 1124,
-        "fresh": 1054,
-        "stale": 51,
-        "metadata_stale": 4,
+        "fresh": 1044,
+        "stale": 58,
+        "metadata_stale": 7,
         "missing": 15,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1061,
-        "stale": 42,
-        "metadata_stale": 7,
+        "fresh": 1050,
+        "stale": 50,
+        "metadata_stale": 10,
         "missing": 14,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 1075,
-        "stale": 19,
-        "metadata_stale": 13,
+        "fresh": 1064,
+        "stale": 27,
+        "metadata_stale": 16,
         "missing": 17,
         "orphan": 0
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 1000,
-        "stale": 43,
-        "metadata_stale": 6,
-        "missing": 75,
+        "fresh": 990,
+        "stale": 51,
+        "metadata_stale": 9,
+        "missing": 74,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1056,
-        "stale": 29,
-        "metadata_stale": 6,
+        "fresh": 1045,
+        "stale": 37,
+        "metadata_stale": 9,
         "missing": 33,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 992,
-        "stale": 37,
-        "metadata_stale": 5,
-        "missing": 90,
+        "fresh": 985,
+        "stale": 42,
+        "metadata_stale": 8,
+        "missing": 89,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 1018,
-        "stale": 35,
-        "metadata_stale": 11,
+        "fresh": 1008,
+        "stale": 42,
+        "metadata_stale": 14,
         "missing": 60,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1052,
-        "stale": 20,
-        "metadata_stale": 4,
+        "fresh": 1041,
+        "stale": 28,
+        "metadata_stale": 7,
         "missing": 48,
         "orphan": 0
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 884,
-        "stale": 10,
-        "metadata_stale": 5,
-        "missing": 225,
+        "fresh": 875,
+        "stale": 17,
+        "metadata_stale": 8,
+        "missing": 224,
         "orphan": 0
       }
     },
@@ -6096,8 +6096,8 @@
     },
     "Music/陳嫺靜.md": {
       "zh": {
-        "lastCommit": "b38a5dab",
-        "lastModified": "2026-07-19T09:54:34+08:00",
+        "lastCommit": "7255b3ab",
+        "lastModified": "2026-09-23T08:46:50+08:00",
         "contentHash": "sha256:512d67826a21d4e6",
         "bodyHash": "sha256:b3516ecc857f1e0e"
       },
@@ -6115,8 +6115,10 @@
           "footnoteDefs": 43,
           "bytes": 46469,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -5"
         },
         "ja": {
           "path": "ja/Music/hsien-ching-chen.md",
@@ -6131,8 +6133,10 @@
           "footnoteDefs": 43,
           "bytes": 54213,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -5"
         },
         "ko": {
           "path": "ko/Music/hsien-ching-chen.md",
@@ -6147,8 +6151,10 @@
           "footnoteDefs": 43,
           "bytes": 50487,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -5"
         },
         "es": {
           "path": "es/Music/hsien-ching-chen.md",
@@ -6163,8 +6169,10 @@
           "footnoteDefs": 43,
           "bytes": 51205,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -5"
         },
         "fr": {
           "path": "fr/Music/hsien-ching-chen.md",
@@ -6179,8 +6187,10 @@
           "footnoteDefs": 43,
           "bytes": 53881,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -5"
         },
         "vi": {
           "path": "vi/Music/hsien-ching-chen.md",
@@ -6195,8 +6205,10 @@
           "footnoteDefs": 43,
           "bytes": 56127,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -5"
         },
         "id": {
           "path": "id/Music/hsien-ching-chen.md",
@@ -6211,8 +6223,10 @@
           "footnoteDefs": 43,
           "bytes": 41459,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -5"
         },
         "pt": {
           "path": "pt/Music/hsien-ching-chen.md",
@@ -6227,8 +6241,10 @@
           "footnoteDefs": 43,
           "bytes": 46568,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -5"
         },
         "hi": {
           "path": "hi/Music/hsien-ching-chen.md",
@@ -6243,8 +6259,10 @@
           "footnoteDefs": 43,
           "bytes": 104484,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "zh-moved-forward",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -5"
         },
         "ar": {
           "path": "ar/Music/hsien-ching-chen.md",
@@ -6259,8 +6277,10 @@
           "footnoteDefs": 43,
           "bytes": 66968,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -5"
         },
         "ru": {
           "path": "ru/Music/hsien-ching-chen.md",
@@ -6275,8 +6295,10 @@
           "footnoteDefs": 43,
           "bytes": 73535,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -5"
         },
         "de": {
           "status": "missing"
@@ -9445,8 +9467,8 @@
     },
     "Economy/台灣企業：研華科技.md": {
       "zh": {
-        "lastCommit": "cfaa22a5",
-        "lastModified": "2026-07-06T00:03:11+08:00",
+        "lastCommit": "7255b3ab",
+        "lastModified": "2026-09-23T08:46:50+08:00",
         "contentHash": "sha256:8cc6a4958817d23a",
         "bodyHash": "sha256:b2944607fccb365d"
       },
@@ -9464,8 +9486,10 @@
           "footnoteDefs": 5,
           "bytes": 13653,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/Economy/advantech-technology.md",
@@ -9480,8 +9504,10 @@
           "footnoteDefs": 5,
           "bytes": 15088,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/Economy/advantech-technology.md",
@@ -9496,8 +9522,10 @@
           "footnoteDefs": 5,
           "bytes": 14098,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/Economy/advantech-technology.md",
@@ -9512,8 +9540,10 @@
           "footnoteDefs": 5,
           "bytes": 15839,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/Economy/advantech-technology.md",
@@ -9528,8 +9558,10 @@
           "footnoteDefs": 5,
           "bytes": 16756,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "vi": {
           "path": "vi/Economy/advantech-technology.md",
@@ -9544,8 +9576,10 @@
           "footnoteDefs": 5,
           "bytes": 17155,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "id": {
           "path": "id/Economy/advantech-technology.md",
@@ -9560,8 +9594,10 @@
           "footnoteDefs": 5,
           "bytes": 13834,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "pt": {
           "path": "pt/Economy/advantech-technology.md",
@@ -9576,8 +9612,10 @@
           "footnoteDefs": 5,
           "bytes": 14564,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "hi": {
           "path": "hi/Economy/advantech-technology.md",
@@ -9592,8 +9630,10 @@
           "footnoteDefs": 5,
           "bytes": 30079,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ar": {
           "path": "ar/Economy/advantech-technology.md",
@@ -9608,8 +9648,10 @@
           "footnoteDefs": 5,
           "bytes": 20527,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ru": {
           "path": "ru/Economy/advantech-technology.md",
@@ -9624,8 +9666,10 @@
           "footnoteDefs": 5,
           "bytes": 24498,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "de": {
           "path": "de/Economy/advantech-technology.md",
@@ -9640,15 +9684,17 @@
           "footnoteDefs": 5,
           "bytes": 13770,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         }
       }
     },
     "Economy/台灣自媒體創作者經濟.md": {
       "zh": {
-        "lastCommit": "cfaa22a5",
-        "lastModified": "2026-07-06T00:03:11+08:00",
+        "lastCommit": "7255b3ab",
+        "lastModified": "2026-09-23T08:46:50+08:00",
         "contentHash": "sha256:4da8d8f4824a9c3e",
         "bodyHash": "sha256:ccfe4d55665e1140"
       },
@@ -9666,8 +9712,10 @@
           "footnoteDefs": 0,
           "bytes": 15882,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "ja": {
           "path": "ja/Economy/taiwan-self-media-creator-economy.md",
@@ -9682,8 +9730,10 @@
           "footnoteDefs": 0,
           "bytes": 19666,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "ko": {
           "path": "ko/Economy/taiwan-self-media-creator-economy.md",
@@ -9698,8 +9748,10 @@
           "footnoteDefs": 0,
           "bytes": 17078,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "es": {
           "path": "es/Economy/taiwan-self-media-creator-economy.md",
@@ -9714,8 +9766,10 @@
           "footnoteDefs": 0,
           "bytes": 18930,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "fr": {
           "path": "fr/Economy/taiwan-self-media-creator-economy.md",
@@ -9730,8 +9784,10 @@
           "footnoteDefs": 0,
           "bytes": 18137,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "vi": {
           "path": "vi/Economy/taiwan-self-media-creator-economy.md",
@@ -9746,8 +9802,10 @@
           "footnoteDefs": 0,
           "bytes": 21347,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "id": {
           "path": "id/Economy/taiwan-self-media-creator-economy.md",
@@ -9762,8 +9820,10 @@
           "footnoteDefs": 0,
           "bytes": 17688,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "pt": {
           "path": "pt/Economy/taiwan-self-media-creator-economy.md",
@@ -9778,8 +9838,10 @@
           "footnoteDefs": 0,
           "bytes": 18052,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "hi": {
           "path": "hi/Economy/taiwan-self-media-creator-economy.md",
@@ -9794,8 +9856,10 @@
           "footnoteDefs": 0,
           "bytes": 37114,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "ar": {
           "path": "ar/Economy/taiwan-self-media-creator-economy.md",
@@ -9810,8 +9874,10 @@
           "footnoteDefs": 0,
           "bytes": 25542,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "ru": {
           "path": "ru/Economy/taiwan-self-media-creator-economy.md",
@@ -9826,8 +9892,10 @@
           "footnoteDefs": 0,
           "bytes": 27082,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "de": {
           "path": "de/Economy/taiwan-self-media-creator-economy.md",
@@ -9842,8 +9910,10 @@
           "footnoteDefs": 0,
           "bytes": 16282,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         }
       }
     },
@@ -13055,8 +13125,8 @@
           "sourceContentHash": "sha256:1e059fb4544621d1",
           "sourceBodyHash": "sha256:6bb6fbebdcab1fd8",
           "translatedAt": "2026-09-23T07:28:01+08:00",
-          "translationLastCommit": "3147a527",
-          "translationLastModified": "2026-05-15T14:22:09+08:00",
+          "translationLastCommit": "aef962b9",
+          "translationLastModified": "2026-09-23T08:44:28+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "bytes": 17953,
@@ -13634,8 +13704,8 @@
     },
     "Economy/新創生態系.md": {
       "zh": {
-        "lastCommit": "cfaa22a5",
-        "lastModified": "2026-07-06T00:03:11+08:00",
+        "lastCommit": "7255b3ab",
+        "lastModified": "2026-09-23T08:46:50+08:00",
         "contentHash": "sha256:1e8e1f58a3244dd0",
         "bodyHash": "sha256:07a9caf907dd16bd"
       },
@@ -13653,8 +13723,10 @@
           "footnoteDefs": 5,
           "bytes": 25461,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "ja": {
           "path": "ja/Economy/taiwan-startup-ecosystem-overview.md",
@@ -13669,8 +13741,10 @@
           "footnoteDefs": 5,
           "bytes": 30313,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "ko": {
           "path": "ko/Economy/taiwan-startup-ecosystem-overview.md",
@@ -13685,8 +13759,10 @@
           "footnoteDefs": 5,
           "bytes": 27057,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "es": {
           "path": "es/Economy/taiwan-startup-ecosystem-overview.md",
@@ -13701,8 +13777,10 @@
           "footnoteDefs": 5,
           "bytes": 29070,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "fr": {
           "path": "fr/Economy/taiwan-startup-ecosystem-overview.md",
@@ -13717,8 +13795,10 @@
           "footnoteDefs": 5,
           "bytes": 32074,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "vi": {
           "path": "vi/Economy/taiwan-startup-ecosystem-overview.md",
@@ -13733,8 +13813,10 @@
           "footnoteDefs": 5,
           "bytes": 33643,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "id": {
           "path": "id/Economy/taiwan-startup-ecosystem-overview.md",
@@ -13749,8 +13831,10 @@
           "footnoteDefs": 5,
           "bytes": 26035,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "pt": {
           "path": "pt/Economy/taiwan-startup-ecosystem-overview.md",
@@ -13765,8 +13849,10 @@
           "footnoteDefs": 5,
           "bytes": 30168,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "hi": {
           "path": "hi/Economy/taiwan-startup-ecosystem-overview.md",
@@ -13781,8 +13867,10 @@
           "footnoteDefs": 5,
           "bytes": 62113,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "ar": {
           "path": "ar/Economy/taiwan-startup-ecosystem-overview.md",
@@ -13797,8 +13885,10 @@
           "footnoteDefs": 5,
           "bytes": 41855,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "ru": {
           "path": "ru/Economy/taiwan-startup-ecosystem-overview.md",
@@ -13813,8 +13903,10 @@
           "footnoteDefs": 5,
           "bytes": 43441,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "de": {
           "path": "de/Economy/taiwan-startup-ecosystem-overview.md",
@@ -13829,8 +13921,10 @@
           "footnoteDefs": 5,
           "bytes": 27510,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         }
       }
     },
@@ -17065,8 +17159,8 @@
     },
     "Economy/台灣科技園區外圍商圈生態.md": {
       "zh": {
-        "lastCommit": "a48fafec",
-        "lastModified": "2026-07-19T09:48:55+08:00",
+        "lastCommit": "7255b3ab",
+        "lastModified": "2026-09-23T08:46:50+08:00",
         "contentHash": "sha256:0aa215792db0c157",
         "bodyHash": "sha256:abefead0dde8fee7"
       },
@@ -17084,8 +17178,10 @@
           "footnoteDefs": 13,
           "bytes": 28218,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/Economy/tech-park-peripheral-business-ecosystem.md",
@@ -17100,8 +17196,10 @@
           "footnoteDefs": 13,
           "bytes": 29418,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/Economy/tech-park-peripheral-business-ecosystem.md",
@@ -17116,8 +17214,10 @@
           "footnoteDefs": 13,
           "bytes": 28661,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/Economy/tech-park-peripheral-business-ecosystem.md",
@@ -17132,8 +17232,10 @@
           "footnoteDefs": 13,
           "bytes": 32269,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/Economy/tech-park-peripheral-business-ecosystem.md",
@@ -17148,8 +17250,10 @@
           "footnoteDefs": 13,
           "bytes": 32391,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "vi": {
           "path": "vi/Economy/tech-park-peripheral-business-ecosystem.md",
@@ -17164,8 +17268,10 @@
           "footnoteDefs": 13,
           "bytes": 33533,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "id": {
           "path": "id/Economy/tech-park-peripheral-business-ecosystem.md",
@@ -17180,8 +17286,10 @@
           "footnoteDefs": 13,
           "bytes": 25868,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "pt": {
           "path": "pt/Economy/tech-park-peripheral-business-ecosystem.md",
@@ -17196,8 +17304,10 @@
           "footnoteDefs": 13,
           "bytes": 26652,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "hi": {
           "path": "hi/Economy/tech-park-peripheral-business-ecosystem.md",
@@ -17212,8 +17322,10 @@
           "footnoteDefs": 13,
           "bytes": 61073,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ar": {
           "path": "ar/Economy/tech-park-peripheral-business-ecosystem.md",
@@ -17228,8 +17340,10 @@
           "footnoteDefs": 13,
           "bytes": 40444,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ru": {
           "path": "ru/Economy/tech-park-peripheral-business-ecosystem.md",
@@ -17244,8 +17358,10 @@
           "footnoteDefs": 13,
           "bytes": 43933,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "de": {
           "path": "de/Economy/tech-park-peripheral-business-ecosystem.md",
@@ -17260,8 +17376,10 @@
           "footnoteDefs": 13,
           "bytes": 31737,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         }
       }
     },
@@ -17671,8 +17789,8 @@
     },
     "Economy/SLP台北創業領導計畫.md": {
       "zh": {
-        "lastCommit": "cc540a12",
-        "lastModified": "2026-07-19T09:48:26+08:00",
+        "lastCommit": "7255b3ab",
+        "lastModified": "2026-09-23T08:46:50+08:00",
         "contentHash": "sha256:7724220e60173fa7",
         "bodyHash": "sha256:e213a0f35315b401"
       },
@@ -17690,8 +17808,10 @@
           "footnoteDefs": 30,
           "bytes": 31221,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+4 -4"
         },
         "ja": {
           "path": "ja/Economy/slp-taipei-startup-leadership-program.md",
@@ -17706,8 +17826,10 @@
           "footnoteDefs": 30,
           "bytes": 44279,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+4 -4"
         },
         "ko": {
           "path": "ko/Economy/slp-taipei-startup-leadership-program.md",
@@ -17722,8 +17844,10 @@
           "footnoteDefs": 30,
           "bytes": 42461,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+4 -4"
         },
         "es": {
           "path": "es/Economy/slp-taipei-startup-leadership-program.md",
@@ -17740,8 +17864,8 @@
           "armorResidue": 0,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "commitsBehind": 2,
+          "diffSummary": "+6 -6"
         },
         "fr": {
           "path": "fr/Economy/slp-taipei-startup-leadership-program.md",
@@ -17756,8 +17880,10 @@
           "footnoteDefs": 30,
           "bytes": 30882,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+4 -4"
         },
         "vi": {
           "path": "vi/Economy/slp-taipei-startup-leadership-program.md",
@@ -17772,8 +17898,10 @@
           "footnoteDefs": 30,
           "bytes": 53637,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+4 -4"
         },
         "id": {
           "path": "id/Economy/slp-taipei-startup-leadership-program.md",
@@ -17788,8 +17916,10 @@
           "footnoteDefs": 30,
           "bytes": 42790,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+4 -4"
         },
         "pt": {
           "path": "pt/Economy/slp-taipei-startup-leadership-program.md",
@@ -17804,8 +17934,10 @@
           "footnoteDefs": 30,
           "bytes": 42872,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+4 -4"
         },
         "hi": {
           "status": "missing"
@@ -17826,8 +17958,10 @@
           "footnoteDefs": 30,
           "bytes": 70061,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "zh-moved-forward",
+          "commitsBehind": 1,
+          "diffSummary": "+4 -4"
         },
         "de": {
           "path": "de/Economy/slp-taipei-startup-leadership-program.md",
@@ -17842,8 +17976,10 @@
           "footnoteDefs": 30,
           "bytes": 45757,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "zh-moved-forward",
+          "commitsBehind": 1,
+          "diffSummary": "+4 -4"
         }
       }
     },
@@ -21442,10 +21578,10 @@
     },
     "Economy/口罩國家隊.md": {
       "zh": {
-        "lastCommit": "4a95859b",
-        "lastModified": "2026-08-15T17:13:46+08:00",
-        "contentHash": "sha256:0dbc96c1e96c1878",
-        "bodyHash": "sha256:02701f8f2061f84c"
+        "lastCommit": "7255b3ab",
+        "lastModified": "2026-09-23T08:46:50+08:00",
+        "contentHash": "sha256:972cf4aaa92341f0",
+        "bodyHash": "sha256:b76f31d5c89bcc16"
       },
       "translations": {
         "en": {
@@ -21461,8 +21597,10 @@
           "footnoteDefs": 21,
           "bytes": 30478,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+53 -28"
         },
         "ja": {
           "path": "ja/Economy/mask-national-team.md",
@@ -21477,8 +21615,10 @@
           "footnoteDefs": 21,
           "bytes": 30711,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+53 -28"
         },
         "ko": {
           "path": "ko/Economy/mask-national-team.md",
@@ -21493,8 +21633,10 @@
           "footnoteDefs": 21,
           "bytes": 30318,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+53 -28"
         },
         "es": {
           "path": "es/Economy/mask-national-team.md",
@@ -21509,8 +21651,10 @@
           "footnoteDefs": 21,
           "bytes": 35456,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+53 -28"
         },
         "fr": {
           "path": "fr/Economy/mask-national-team.md",
@@ -21525,8 +21669,10 @@
           "footnoteDefs": 21,
           "bytes": 34126,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+53 -28"
         },
         "vi": {
           "path": "vi/Economy/mask-national-team.md",
@@ -21541,8 +21687,10 @@
           "footnoteDefs": 21,
           "bytes": 37183,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+53 -28"
         },
         "id": {
           "path": "id/Economy/mask-national-team.md",
@@ -21557,8 +21705,10 @@
           "footnoteDefs": 21,
           "bytes": 28122,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+53 -28"
         },
         "pt": {
           "path": "pt/Economy/mask-national-team.md",
@@ -21573,8 +21723,10 @@
           "footnoteDefs": 21,
           "bytes": 30509,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+53 -28"
         },
         "hi": {
           "path": "hi/Economy/mask-national-team.md",
@@ -21589,8 +21741,10 @@
           "footnoteDefs": 21,
           "bytes": 58916,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+53 -28"
         },
         "ar": {
           "path": "ar/Economy/mask-national-team.md",
@@ -21605,8 +21759,10 @@
           "footnoteDefs": 21,
           "bytes": 41344,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+53 -28"
         },
         "ru": {
           "path": "ru/Economy/mask-national-team.md",
@@ -21621,8 +21777,10 @@
           "footnoteDefs": 21,
           "bytes": 43367,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+53 -28"
         },
         "de": {
           "path": "de/Economy/mask-national-team.md",
@@ -21637,8 +21795,10 @@
           "footnoteDefs": 21,
           "bytes": 32203,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+53 -28"
         }
       }
     },
@@ -32695,20 +32855,18 @@
         "ja": {
           "path": "ja/Technology/nvidia-in-taiwan.md",
           "translatedFrom": "Technology/NVIDIA在台灣.md",
-          "sourceCommitSha": "67e5b3684",
-          "sourceContentHash": "sha256:b56a9c2f52721e09",
-          "sourceBodyHash": "sha256:4f355b3d3c9b0f43",
-          "translatedAt": "2026-06-23T00:40:05+08:00",
+          "sourceCommitSha": "0df538d8c",
+          "sourceContentHash": "sha256:b9e05b9a2ffc12db",
+          "sourceBodyHash": "sha256:5412b8ae390af1fa",
+          "translatedAt": "2026-09-23T00:44:41.339794+00:00",
           "translationLastCommit": "caa10522",
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
           "footnoteDefs": 71,
-          "bytes": 78844,
+          "bytes": 79210,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Technology/nvidia-in-taiwan.md",
@@ -47439,7 +47597,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Lifestyle/taiwan-parks-and-everyday-leisure.md",
+          "translatedFrom": "Lifestyle/台灣公園與日常休閒.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:5117fffcc3ffcc33",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-22T21:13:15+00:00",
+          "translationLastCommit": "600bfd9e",
+          "translationLastModified": "2026-09-23T05:22:01+08:00",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "bytes": 13298,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -53024,8 +53195,8 @@
           "sourceContentHash": "sha256:996216db6cfc762f",
           "sourceBodyHash": "sha256:f6cfe4546203aec9",
           "translatedAt": "2026-09-23T07:28:01+08:00",
-          "translationLastCommit": "11a9ed98",
-          "translationLastModified": "2026-08-04T17:31:53+08:00",
+          "translationLastCommit": "aef962b9",
+          "translationLastModified": "2026-09-23T08:44:28+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "bytes": 24490,
@@ -53334,18 +53505,18 @@
         "hi": {
           "path": "hi/Lifestyle/mascot-culture-in-taiwan.md",
           "translatedFrom": "Lifestyle/吉祥物.md",
-          "sourceCommitSha": "25b97c085",
-          "sourceContentHash": "sha256:cfeed87bcc86a207",
-          "sourceBodyHash": "sha256:761ccd3c7cd0d390",
-          "translatedAt": "2026-09-09T19:34:17+08:00",
+          "sourceCommitSha": "c0061c6df",
+          "sourceContentHash": "sha256:62a0444682031043",
+          "sourceBodyHash": "sha256:f0ac4cd7b2bc3b4c",
+          "translatedAt": "2026-09-23T08:41:08+08:00",
           "translationLastCommit": "c3219c49",
           "translationLastModified": "2026-09-10T02:34:19+08:00",
           "inferred": false,
-          "footnoteDefs": 21,
-          "bytes": 71655,
+          "footnoteDefs": 26,
+          "bytes": 86918,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (26→21)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Lifestyle/mascot-culture-in-taiwan.md",
@@ -73324,8 +73495,8 @@
       "zh": {
         "lastCommit": "31a05c44",
         "lastModified": "2026-06-13T17:54:04+08:00",
-        "contentHash": "sha256:386f679c65cffa22",
-        "bodyHash": "sha256:2ad4c49a76612828"
+        "contentHash": "sha256:6b2ce60c50966bdc",
+        "bodyHash": "sha256:6f79d66a90a09b62"
       },
       "translations": {
         "en": {
@@ -74252,7 +74423,20 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Society/typhoon-day.md",
+          "translatedFrom": "Society/颱風假.md",
+          "sourceCommitSha": "9bddcff65",
+          "sourceContentHash": "sha256:97ed4977d9fb1653",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-22T21:13:15+00:00",
+          "translationLastCommit": "56167309",
+          "translationLastModified": "2026-09-23T05:22:25+08:00",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "bytes": 49265,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Society/typhoon-day.md",
@@ -85573,8 +85757,8 @@
           "sourceContentHash": "sha256:9283c26216174046",
           "sourceBodyHash": "sha256:36625e315aaacf51",
           "translatedAt": "2026-09-23T07:28:01+08:00",
-          "translationLastCommit": "f3161f53",
-          "translationLastModified": "2026-08-15T16:29:46+08:00",
+          "translationLastCommit": "aef962b9",
+          "translationLastModified": "2026-09-23T08:44:28+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "bytes": 17341,
@@ -108277,8 +108461,8 @@
       "zh": {
         "lastCommit": "4a95859b",
         "lastModified": "2026-08-15T17:13:46+08:00",
-        "contentHash": "sha256:98489d58cbc9b55d",
-        "bodyHash": "sha256:998e243cd4a539b8"
+        "contentHash": "sha256:cd5b6f64f9368b38",
+        "bodyHash": "sha256:62721bcda4248fc8"
       },
       "translations": {
         "en": {
@@ -120085,8 +120269,8 @@
     },
     "People/蔡英文.md": {
       "zh": {
-        "lastCommit": "4f3974f8",
-        "lastModified": "2026-09-21T08:50:02+08:00",
+        "lastCommit": "7255b3ab",
+        "lastModified": "2026-09-23T08:46:50+08:00",
         "contentHash": "sha256:ad617fbb654f67ae",
         "bodyHash": "sha256:986ab9796f1069f2"
       },
@@ -120104,8 +120288,10 @@
           "footnoteDefs": 23,
           "bytes": 32415,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "ja": {
           "path": "ja/People/tsai-ing-wen.md",
@@ -120120,8 +120306,10 @@
           "footnoteDefs": 23,
           "bytes": 30624,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "ko": {
           "path": "ko/People/tsai-ing-wen.md",
@@ -120138,8 +120326,8 @@
           "armorResidue": 0,
           "status": "stale",
           "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -3"
+          "commitsBehind": 2,
+          "diffSummary": "+5 -5"
         },
         "es": {
           "path": "es/People/tsai-ing-wen.md",
@@ -120154,8 +120342,10 @@
           "footnoteDefs": 23,
           "bytes": 35559,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "fr": {
           "path": "fr/People/tsai-ing-wen.md",
@@ -120170,8 +120360,10 @@
           "footnoteDefs": 23,
           "bytes": 36524,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "vi": {
           "path": "vi/People/tsai-ing-wen.md",
@@ -120186,8 +120378,10 @@
           "footnoteDefs": 23,
           "bytes": 41141,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "id": {
           "path": "id/People/tsai-ing-wen.md",
@@ -120202,8 +120396,10 @@
           "footnoteDefs": 23,
           "bytes": 28717,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "pt": {
           "path": "pt/People/tsai-ing-wen.md",
@@ -120218,8 +120414,10 @@
           "footnoteDefs": 23,
           "bytes": 32045,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "hi": {
           "path": "hi/People/tsai-ing-wen.md",
@@ -120234,8 +120432,10 @@
           "footnoteDefs": 23,
           "bytes": 68804,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "ar": {
           "path": "ar/People/tsai-ing-wen.md",
@@ -120250,8 +120450,10 @@
           "footnoteDefs": 23,
           "bytes": 40831,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "ru": {
           "path": "ru/People/tsai-ing-wen.md",
@@ -120266,8 +120468,10 @@
           "footnoteDefs": 23,
           "bytes": 51809,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "de": {
           "path": "de/People/tsai-ing-wen.md",
@@ -120282,8 +120486,10 @@
           "footnoteDefs": 23,
           "bytes": 34949,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         }
       }
     },
@@ -125741,8 +125947,8 @@
           "sourceContentHash": "sha256:f51e056dbe61a84c",
           "sourceBodyHash": "sha256:be5f4cfa04f53c22",
           "translatedAt": "2026-09-23T05:53:42+08:00",
-          "translationLastCommit": "df411148",
-          "translationLastModified": "2026-07-27T10:57:42+08:00",
+          "translationLastCommit": "aef962b9",
+          "translationLastModified": "2026-09-23T08:44:28+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "bytes": 24820,
@@ -132394,7 +132600,20 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/chen-hsing-yu.md",
+          "translatedFrom": "People/陳幸妤.md",
+          "sourceCommitSha": "fa7059f7a",
+          "sourceContentHash": "sha256:8b01af0c15c3d257",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-22T21:13:15+00:00",
+          "translationLastCommit": "162fdd62",
+          "translationLastModified": "2026-09-23T05:22:49+08:00",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "bytes": 21133,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/chen-hsing-yu.md",
@@ -143502,20 +143721,18 @@
         "hi": {
           "path": "hi/People/wu-ming-yi.md",
           "translatedFrom": "People/吳明益.md",
-          "sourceCommitSha": "fdd06c978",
-          "sourceContentHash": "sha256:9e044da79052e1d4",
-          "sourceBodyHash": "sha256:0b3e476aa45a53ca",
-          "translatedAt": "2026-07-30T03:55:58+08:00",
+          "sourceCommitSha": "36aaa72e1",
+          "sourceContentHash": "sha256:4084ed4b3480a75a",
+          "sourceBodyHash": "sha256:70f421624b5717be",
+          "translatedAt": "2026-09-23T00:46:41.903978+00:00",
           "translationLastCommit": "8752e849",
           "translationLastModified": "2026-09-22T00:56:34+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "bytes": 84206,
+          "bytes": 84353,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -5"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/wu-ming-yi.md",
@@ -146182,8 +146399,8 @@
     },
     "People/陳子見.md": {
       "zh": {
-        "lastCommit": "4b6d28c5",
-        "lastModified": "2026-05-08T16:59:31+08:00",
+        "lastCommit": "7255b3ab",
+        "lastModified": "2026-09-23T08:46:50+08:00",
         "contentHash": "sha256:eb27407b6e235169",
         "bodyHash": "sha256:0faeef3fdda7a842"
       },
@@ -146201,8 +146418,10 @@
           "footnoteDefs": 8,
           "bytes": 17593,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -3"
         },
         "ja": {
           "path": "ja/People/chen-tzu-jian.md",
@@ -146217,8 +146436,10 @@
           "footnoteDefs": 8,
           "bytes": 18638,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -3"
         },
         "ko": {
           "path": "ko/People/chen-tzu-jian.md",
@@ -146233,8 +146454,10 @@
           "footnoteDefs": 8,
           "bytes": 17905,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -3"
         },
         "es": {
           "path": "es/People/chen-tzu-jian.md",
@@ -146249,8 +146472,10 @@
           "footnoteDefs": 8,
           "bytes": 19115,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -3"
         },
         "fr": {
           "path": "fr/People/chen-tzu-jian.md",
@@ -146265,8 +146490,10 @@
           "footnoteDefs": 8,
           "bytes": 19455,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -3"
         },
         "vi": {
           "path": "vi/People/chen-tzu-jian.md",
@@ -146281,8 +146508,10 @@
           "footnoteDefs": 8,
           "bytes": 19711,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -3"
         },
         "id": {
           "path": "id/People/chen-tzu-jian.md",
@@ -146297,8 +146526,10 @@
           "footnoteDefs": 8,
           "bytes": 14649,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -3"
         },
         "pt": {
           "path": "pt/People/chen-tzu-jian.md",
@@ -146313,8 +146544,10 @@
           "footnoteDefs": 8,
           "bytes": 18043,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -3"
         },
         "hi": {
           "path": "hi/People/chen-tzu-jian.md",
@@ -146329,8 +146562,10 @@
           "footnoteDefs": 8,
           "bytes": 37058,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -3"
         },
         "ar": {
           "path": "ar/People/chen-tzu-jian.md",
@@ -146345,8 +146580,10 @@
           "footnoteDefs": 8,
           "bytes": 23799,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -3"
         },
         "ru": {
           "path": "ru/People/chen-tzu-jian.md",
@@ -146361,8 +146598,10 @@
           "footnoteDefs": 8,
           "bytes": 27951,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -3"
         },
         "de": {
           "path": "de/People/chen-tzu-jian.md",
@@ -146377,8 +146616,10 @@
           "footnoteDefs": 8,
           "bytes": 18777,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -3"
         }
       }
     },
@@ -182354,10 +182595,10 @@
     },
     "Geography/林安泰古厝.md": {
       "zh": {
-        "lastCommit": "13c7fbcd",
-        "lastModified": "2026-08-22T09:11:37+08:00",
-        "contentHash": "sha256:47d89dc0ac03a566",
-        "bodyHash": "sha256:7079616fec64f3a7"
+        "lastCommit": "d9ef16d5",
+        "lastModified": "2026-09-23T08:48:29+08:00",
+        "contentHash": "sha256:bf88a96f60bbcd8e",
+        "bodyHash": "sha256:f8662882b41f1947"
       },
       "translations": {
         "en": {
@@ -182373,8 +182614,10 @@
           "footnoteDefs": 10,
           "bytes": 31940,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+7 -6"
         },
         "ja": {
           "path": "ja/Geography/lin-an-tai-historical-house.md",
@@ -182389,8 +182632,10 @@
           "footnoteDefs": 10,
           "bytes": 33420,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+7 -6"
         },
         "ko": {
           "path": "ko/Geography/lin-an-tai-historical-house.md",
@@ -182405,8 +182650,10 @@
           "footnoteDefs": 10,
           "bytes": 32366,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+7 -6"
         },
         "es": {
           "path": "es/Geography/lin-an-tai-historical-house.md",
@@ -182421,8 +182668,10 @@
           "footnoteDefs": 10,
           "bytes": 35796,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+7 -6"
         },
         "fr": {
           "path": "fr/Geography/lin-an-tai-historical-house.md",
@@ -182437,8 +182686,10 @@
           "footnoteDefs": 10,
           "bytes": 36972,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+7 -6"
         },
         "vi": {
           "path": "vi/Geography/lin-an-tai-historical-house.md",
@@ -182453,8 +182704,10 @@
           "footnoteDefs": 10,
           "bytes": 39301,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+7 -6"
         },
         "id": {
           "path": "id/Geography/lin-an-tai-historical-house.md",
@@ -182469,8 +182722,10 @@
           "footnoteDefs": 10,
           "bytes": 31978,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+7 -6"
         },
         "pt": {
           "path": "pt/Geography/lin-an-tai-historical-house.md",
@@ -182485,8 +182740,10 @@
           "footnoteDefs": 10,
           "bytes": 33424,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+7 -6"
         },
         "hi": {
           "path": "hi/Geography/lin-an-tai-historical-house.md",
@@ -182501,8 +182758,10 @@
           "footnoteDefs": 10,
           "bytes": 66912,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+7 -6"
         },
         "ar": {
           "path": "ar/Geography/lin-an-tai-historical-house.md",
@@ -182517,8 +182776,10 @@
           "footnoteDefs": 10,
           "bytes": 42070,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+7 -6"
         },
         "ru": {
           "path": "ru/Geography/lin-an-tai-historical-house.md",
@@ -182533,8 +182794,10 @@
           "footnoteDefs": 10,
           "bytes": 45938,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+7 -6"
         },
         "de": {
           "path": "de/Geography/lin-an-tai-historical-house.md",
@@ -182549,8 +182812,10 @@
           "footnoteDefs": 10,
           "bytes": 33344,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+7 -6"
         }
       }
     },
@@ -184485,8 +184750,8 @@
           "sourceContentHash": "sha256:833f85e006d23e04",
           "sourceBodyHash": "sha256:fa90458e0d20dada",
           "translatedAt": "2026-09-23T07:28:01+08:00",
-          "translationLastCommit": "86043c51",
-          "translationLastModified": "2026-08-04T21:09:38+08:00",
+          "translationLastCommit": "aef962b9",
+          "translationLastModified": "2026-09-23T08:44:28+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "bytes": 20830,
@@ -192285,10 +192550,10 @@
     },
     "Geography/台中捷運.md": {
       "zh": {
-        "lastCommit": "65acd39d",
-        "lastModified": "2026-08-22T08:55:56+08:00",
-        "contentHash": "sha256:fa86c4a20ea1db96",
-        "bodyHash": "sha256:4d180003b28f84d2"
+        "lastCommit": "d9ef16d5",
+        "lastModified": "2026-09-23T08:48:29+08:00",
+        "contentHash": "sha256:9851afbe3b082508",
+        "bodyHash": "sha256:9e4ce2561244c6a9"
       },
       "translations": {
         "en": {
@@ -192304,8 +192569,10 @@
           "footnoteDefs": 11,
           "bytes": 28580,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -4"
         },
         "ja": {
           "path": "ja/Geography/taichung-metro.md",
@@ -192320,8 +192587,10 @@
           "footnoteDefs": 11,
           "bytes": 32525,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -4"
         },
         "ko": {
           "path": "ko/Geography/taichung-metro.md",
@@ -192336,8 +192605,10 @@
           "footnoteDefs": 11,
           "bytes": 32049,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -4"
         },
         "es": {
           "path": "es/Geography/taichung-metro.md",
@@ -192352,8 +192623,10 @@
           "footnoteDefs": 11,
           "bytes": 33556,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -4"
         },
         "fr": {
           "path": "fr/Geography/taichung-metro.md",
@@ -192368,8 +192641,10 @@
           "footnoteDefs": 11,
           "bytes": 34002,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -4"
         },
         "vi": {
           "path": "vi/Geography/taichung-metro.md",
@@ -192384,8 +192659,10 @@
           "footnoteDefs": 11,
           "bytes": 35542,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -4"
         },
         "id": {
           "path": "id/Geography/taichung-metro.md",
@@ -192400,8 +192677,10 @@
           "footnoteDefs": 11,
           "bytes": 27437,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -4"
         },
         "pt": {
           "path": "pt/Geography/taichung-metro.md",
@@ -192416,8 +192695,10 @@
           "footnoteDefs": 11,
           "bytes": 30059,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -4"
         },
         "hi": {
           "path": "hi/Geography/taichung-metro.md",
@@ -192432,8 +192713,10 @@
           "footnoteDefs": 11,
           "bytes": 60653,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -4"
         },
         "ar": {
           "path": "ar/Geography/taichung-metro.md",
@@ -192448,8 +192731,10 @@
           "footnoteDefs": 11,
           "bytes": 39817,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -4"
         },
         "ru": {
           "path": "ru/Geography/taichung-metro.md",
@@ -192464,8 +192749,10 @@
           "footnoteDefs": 11,
           "bytes": 48560,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -4"
         },
         "de": {
           "path": "de/Geography/taichung-metro.md",
@@ -192480,8 +192767,10 @@
           "footnoteDefs": 11,
           "bytes": 29707,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -4"
         }
       }
     },
@@ -199940,8 +200229,8 @@
       "zh": {
         "lastCommit": "977373f8",
         "lastModified": "2026-08-20T12:03:55+08:00",
-        "contentHash": "sha256:d37134b530a1de3e",
-        "bodyHash": "sha256:552e0c9ad1958e69"
+        "contentHash": "sha256:d453213e0d417fd6",
+        "bodyHash": "sha256:1db8926ecfd90519"
       },
       "translations": {
         "en": {
