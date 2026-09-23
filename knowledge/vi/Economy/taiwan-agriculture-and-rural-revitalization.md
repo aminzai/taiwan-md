@@ -1,255 +1,259 @@
 ---
-title: 'Nông nghiệp Đài Loan và tái sinh nông thôn'
-description: 'Từ vương quốc lúa gạo đến nông nghiệp tinh tế: câu chuyện chuyển đổi nông nghiệp và tái sinh cộng đồng nông thôn Đài Loan'
+title: 'Nông nghiệp và tái sinh nông thôn Đài Loan'
+description: 'Từ vương quốc lúa gạo đến nông nghiệp tinh hoa: Câu chuyện về sự chuyển đổi nông nghiệp và tái sinh cộng đồng nông thôn của Đài Loan'
 date: 2026-03-18
 category: 'Economy'
 tags:
   [
-    'Nông nghiệp',
-    'Tái sinh nông thôn',
-    'Nông nghiệp tinh tế',
-    'Nông nghiệp hữu cơ',
-    'Thanh niên quay lại nông thôn',
-    'Hệ thống hội nông dân',
-    'Cải tạo cộng đồng',
+    'nông nghiệp',
+    'tái sinh nông thôn',
+    'nông nghiệp tinh hoa',
+    'nông nghiệp hữu cơ',
+    'thanh niên trở về quê',
+    'hệ thống nông hội',
+    'xây dựng cộng đồng',
   ]
-subcategory: 'Kinh tế nông nghiệp'
+subcategory: '農業經濟'
 author: 'Taiwan.md'
 featured: false
-lastVerified: 2026-03-19
+lastVerified: 2026-09-20
 lastHumanReview: false
 translatedFrom: 'Economy/台灣農業與農村再生.md'
-sourceCommitSha: '24efd20f'
-sourceContentHash: 'sha256:95d473c7b6d24541'
-sourceBodyHash: 'sha256:a996bea328f05c29'
-translatedAt: 2026-07-31T00:00:00Z
+sourceCommitSha: '35a9b46c8'
+sourceContentHash: 'sha256:bea7a776566a0bbd'
+sourceBodyHash: 'sha256:760025faea8ce9a0'
+translatedAt: '2026-09-23T22:11:54+08:00'
 ---
 
-# Nông nghiệp Đài Loan và tái sinh nông thôn
+# Nông nghiệp và Tái sinh Nông thôn Đài Loan
 
-Ở những cánh đồng rau hành Tam Tinh, Nghi Lan, một thanh niên 33 tuổi quay lại nông thôn đang dùng điện thoại để phát sóng trực tiếp quá trình thu hoạch, giới thiệu bí quyết trồng rau hành hữu cơ Tam Tinh cho khán giả online. Ở đầu bên kia màn hình, những người tiêu dùng tại Đài Bắc đã đặt hàng sẵn. Cảnh tượng này là không thể tưởng tượng được 50 năm trước—lúc đó, những người nông dân đang lo lắng về dư thừa sản lượng lúa gạo, người trẻ tuổi đang hàng loạt rời khỏi nông thôn để vào làm công nhân. Ngày nay, nông nghiệp Đài Loan đã thay đổi từ "vương quốc lúa gạo sản xuất hàng loạt" thành "mẫu nông nghiệp tinh tế," nông thôn cũng từ những khu vực tàn lụi mất dân cư, đã tái sinh thành những vùng đất mới nơi sáng tạo và phát triển bền vững cùng tồn tại.
+Tại các cánh đồng hành ở Tam Tinh, Nghi Lan, một thanh niên trở về quê 33 tuổi đang livestream quá trình thu hoạch qua điện thoại, giới thiệu bí quyết trồng hành Tam Tinh hữu cơ cho khán giả trực tuyến. Ở đầu dây bên kia màn hình, người tiêu dùng tại Đài Bắc đã đặt hàng trước. Bối cảnh này là điều không thể tưởng tượng được cách đây 50 năm—lúc đó, nông dân đang lo lắng về tình trạng dư thừa sản lượng lúa gạo, và thanh niên thì đổ xô rời làng đi làm công nhân trong các nhà máy. Ngày nay, nông nghiệp Đài Loan đã chuyển mình từ "vương quốc sản xuất số lượng lớn" thành "hình mẫu nông nghiệp tinh hoa", và nông thôn cũng đã hồi sinh từ những khu vực suy thoái do dân cư di cư, trở thành một vùng đất mới nơi sáng tạo và sự bền vững cùng tồn tại.
 
-> Đất nông nghiệp của Đài Loan chỉ chiếm 24% diện tích đất nước, giá trị sản xuất năm từ lâm nông thủy hải sản ban đầu khoảng 351,3 tỉ Tệ tệ (năm 2023; toàn chuỗi khẩu phần nông sản bao gồm nhà hàng đạt 1 nghìn 683,5 tỉ Tệ tệ)[^1]. Dân số lao động nông nghiệp chiếm khoảng 4,4% tổng dân số lao động toàn quốc (thống kê năm 2023 của Bộ Nông nghiệp, khoảng 509.000 người)[^1], phía sau là một chuỗi sản xuất hoàn chỉnh liên quan đến sinh kế của 6 triệu người.
+> Diện tích canh tác của Đài Loan chiếm khoảng hai phần mười diện tích quốc thổ. Đầu năm 2024, ngành nông lâm ngư nghiệp sơ cấp chỉ chiếm 1,5% GDP toàn quốc, nhưng nếu tính cả sản xuất chuỗi thực phẩm, đồ uống, bán buôn và dịch vụ ăn uống, giá trị thô của lĩnh vực nông nghiệp đạt 1 nghìn 744,9 tỷ Đài tệ, chiếm 6,8% GDP; số người làm việc khoảng 2 triệu người, chiếm 17,2% toàn quốc, trong đó ngành nông lâm ngư nghiệp sơ cấp có 490.000 người (4,3%) [^1].
 
-## Tại sao vấn đề này lại quan trọng
+## Tại sao vấn đề này lại quan trọng?
 
-Nông nghiệp là nền tảng của văn hóa và sinh thái Đài Loan, đồng thời cũng là ngành công nghiệp quan trọng hỗ trợ toàn bộ xã hội. Từ việc lai tạo giống lúa Bồng Lai thời kỳ Nhật trị, cải cách ruộng đất sau chiến tranh, đến nông nghiệp tinh tế ngày nay, lịch sử phát triển nông nghiệp Đài Loan chính là lịch sử thay đổi xã hội. Khi toàn cầu đối mặt với thách thức an ninh lương thực, kinh nghiệm chuyển đổi nông nghiệp của Đài Loan—làm thế nào để đạt được sản lượng cao trên diện tích đất hạn chế, làm thế nào thông qua cải tạo cộng đồng để làm cho nông thôn tái sinh—đã cung cấp những bài học quý báu cho nhiều nước đang phát triển.
+Nông nghiệp là nền tảng văn hóa và sinh thái của Đài Loan, đồng thời là một ngành công nghiệp quan trọng hỗ trợ toàn bộ xã hội. Từ giống lúa Bồng Lai được lai tạo trong thời kỳ Nhật cai trị, cải cách ruộng đất sau chiến tranh, cho đến nông nghiệp tinh hoa ngày nay, lịch sử phát triển nông nghiệp Đài Loan chính là một bản ghi chép về sự biến đổi xã hội. Khi thế giới đối mặt với thách thức an ninh lương thực, kinh nghiệm chuyển đổi nông nghiệp của Đài Loan—làm thế nào để đạt năng suất cao trên diện tích đất hạn chế, làm thế nào để tái sinh nông thôn thông qua xây dựng cộng đồng—đã cung cấp những bài học quý giá cho nhiều nước đang phát triển.
 
-## Từ vương quốc lúa gạo đến nông nghiệp tinh tế
+## Từ vương quốc lúa gạo đến nông nghiệp tinh hoa
 
-### 1950-1980: Thời kỳ vàng của vương quốc lúa gạo
+### 1950-1980: Thời hoàng kim của vương quốc lúa gạo
 
-**Nền tảng từ cải cách ruộng đất:**
-Cải cách ruộng đất trong giai đoạn 1949-1953 đã chuyển đổi hệ thống địa chủ lớn thời Nhật trị thành "những người chủ trang trại ruộng đất của chính họ," kích thích động lực sản xuất của nông dân. Kết hợp với việc đẩy mạnh các giống lúa Bồng Lai chất lượng cao, sản lượng lúa gạo Đài Loan tăng nhanh chóng.
+**Cải cách ruộng đất đặt nền móng:**
+Cuộc cải cách ruộng đất từ năm 1949 đến 1953 đã thay thế chế độ địa chủ thời Nhật bằng mô hình "người cày có ruộng", kích thích động lực sản xuất của nông dân. Cùng với việc quảng bá các giống lúa Bồng Lai ưu tú, sản lượng lúa gạo Đài Loan tăng nhanh chóng.
 
-**Cuộc cách mạng xanh:**
+**Cách mạng xanh:**
 
-- Những năm 1960 đã áp dụng công nghệ của Viện Nghiên cứu Lúa Gạo Quốc tế (IRRI)
-- Đẩy mạnh sử dụng phân bón hóa học và thuốc trừ sâu
-- Thiết lập hệ thống thủy lợi nông ngành
-- Sản lượng lúa gạo tăng từ 2,8 tấn/ha năm 1950 lên 4,5 tấn/ha năm 1980[^1]
+- Giới thiệu công nghệ từ Viện Nghiên cứu Lúa Quốc tế (IRRI) trong những năm 1960.
+- Quảng bá việc sử dụng phân bón hóa học và thuốc trừ sâu.
+- Xây dựng hệ thống thủy lợi nông nghiệp.
+- Năng suất lúa trên một đơn vị diện tích đã tăng đáng kể trong ba thập kỷ sau chiến tranh, và từ những năm 1970, lúa gạo Đài Loan chuyển sang tình trạng dư thừa [^3].
 
-**Thiết lập hệ thống hội nông dân:**
-Hội nông dân trở thành cầu nối giữa nông dân và chính phủ, chịu trách nhiệm:
+**Thiết lập hệ thống nông hội:**
+Nông hội trở thành cầu nối giữa nông dân và chính phủ, chịu trách nhiệm:
 
-- Đẩy mạnh công nghệ nông nghiệp
-- Thu mua và bán sản phẩm nông sản
-- Cung cấp dịch vụ tài chính nông nghiệp
-- Đào tạo và giáo dục nông dân
+- Quảng bá kỹ thuật nông nghiệp.
+- Thu mua và tiêu thụ sản phẩm nông nghiệp.
+- Dịch vụ tài chính nông nghiệp.
+- Đào tạo giáo dục nông dân.
 
-### 1980-2000: Điều chỉnh cấu trúc ngành
+### 1980-2000: Điều chỉnh cơ cấu công nghiệp
 
-Với sự công nghiệp hóa tăng tốc, nông nghiệp phải đối mặt với di cư lao động và giảm lợi thế so sánh:
+Khi công nghiệp hóa tăng tốc, nông nghiệp phải đối mặt với tình trạng chảy máu lao động và lợi ích tương đối suy giảm:
 
 **Khủng hoảng dư thừa lúa gạo:**
 
-- Những năm 1980, sản lượng lúa gạo dư thừa, chính phủ thực hiện "chính sách giảm sản lượng lúa gạo"
-- Khuyến khích chuyển trồng các loại cây có giá trị kinh tế cao
-- Bắt đầu chú trọng chất lượng sản phẩm nông sản hơn là sản lượng
+- Trong những năm 1980, sản lượng lúa gạo bị dư thừa, chính phủ thúc đẩy "chính sách giảm sản lượng lúa gạo".
+- Khuyến khích chuyển đổi sang các loại cây trồng có giá trị kinh tế cao hơn.
+- Bắt đầu chú trọng đến chất lượng nông sản thay vì số lượng.
 
-**Phát triển đa dạng hoá:**
+**Phát triển đa dạng:**
 
-- Kỹ thuật trồng rau củ, trái cây nâng cao
-- Ngành công nghiệp hoa và cảnh quan kỳ hoa phát triển
-- Chăn nuôi hiện đại hóa
-- Kỹ thuật nuôi trồng thủy sản có những bước đột phá
+- Nâng cao kỹ thuật trồng rau, hoa quả.
+- Sự trỗi dậy của ngành trồng hoa.
+- Hiện đại hóa chăn nuôi.
+- Đột phá trong công nghệ nuôi trồng thủy sản.
 
-### 2000-hiện tại: Mẫu nông nghiệp tinh tế
+### 2000 đến nay: Hình mẫu nông nghiệp tinh hoa
 
-**Chính sách nông nghiệp tinh tế:**
-Năm 2002 chính phủ chính thức đưa ra khái niệm "nông nghiệp tinh tế"[^2], nhấn mạnh:
+**Chính sách nông nghiệp tinh hoa:**
+Từ những năm 1980, các cơ quan nông nghiệp đã lấy "nông nghiệp tinh hoa" làm hướng chuyển đổi; vào năm 2009, Viện Hành chính đã thông qua "Kế hoạch Xuất sắc Sức khỏe Nông nghiệp Tinh hoa", liệt nó vào một trong sáu ngành công nghiệp mới nổi [^2], nhấn mạnh:
 
-- Chất lượng cao, giá trị gia tăng cao
-- Thân thiện với môi trường và phát triển bền vững
-- Ứng dụng công nghệ và đổi mới sáng tạo
-- Xây dựng thương hiệu và quốc tế hoá
+- Chất lượng cao, giá trị gia tăng lớn.
+- Thân thiện với môi trường và phát triển bền vững.
+- Ứng dụng khoa học công nghệ và đổi mới sáng tạo.
+- Thương hiệu hóa và quốc tế hóa.
 
 ## Con đường tái sinh cộng đồng nông thôn
 
-### Phong trào cải tạo cộng đồng nông thôn
+### Phong trào xây dựng cộng đồng nông thôn
 
-**Khởi đầu cải tạo cộng đồng những năm 1990:**
-Lấy cảm hứng từ phong trào "một làng một sản phẩm" của Nhật Bản, Đài Loan bắt đầu thúc đẩy cải tạo cộng đồng toàn thể:
+**Khởi đầu xây dựng cộng đồng trong những năm 1990:**
+Năm 1994, Văn kiện Hội đã đề xuất "Xây dựng tổng thể cộng đồng", học tập kinh nghiệm của Nhật Bản về thành phố và "một làng một sản phẩm", Đài Loan bắt đầu thúc đẩy xây dựng cộng đồng:
 
-- Khám phá đặc trưng địa phương và tài nguyên văn hóa
-- Nuôi dưỡng ý thức cộng đồng và tinh thần nhất trí
-- Kết hợp phát triển ngành công nghiệp và du lịch
-- Thiết lập khả năng quản lý tự chủ của cộng đồng
+- Khám phá các đặc trưng địa phương và tài nguyên văn hóa.
+- Bồi dưỡng ý thức và bản sắc cộng đồng.
+- Kết hợp phát triển công nghiệp với du lịch.
+- Xây dựng năng lực tự chủ của cộng đồng.
 
-**Những trường hợp thành công:**
+**Các trường hợp thành công:**
 
-**Bắc Phú, Tân Trúc:**
-Kết hợp văn hóa Khách Gia và ngành công nghiệp trái hồng khô, phát triển du lịch văn hóa
+**Xinh Trúc, Tân Châu (Hsinchu):**
+Kết hợp văn hóa Khách Gia và ngành sản xuất bánh táo trăm năm, dựa vào gió chín giáng để phơi bánh táo, phát triển du lịch văn hóa [^8].
 
-- Bảo tồn kỹ thuật chế biến trái hồng khô truyền thống
-- Tu sửa di tích và các tòa nhà lịch sử
-- Phát triển hoạt động lễ hội trái hồng khô
-- Xây dựng thương hiệu trái hồng khô và kênh phân phối
+- Bảo tồn kỹ thuật làm bánh táo truyền thống.
+- Tu sửa di tích và kiến trúc lịch sử.
+- Phát triển các hoạt động lễ hội bánh táo.
+- Xây dựng thương hiệu và kênh phân phối bánh táo.
 
-**Cộng đồng Đào Mễ, Nam Đầu:**
-Mẫu tái xây dựng sau trận động đất 921, từ đổ nát thành làng sinh thái
+**Cộng đồng Đào Mễ (Nantou):**
+Mô hình tái thiết sau trận động đất 921, từ đống đổ nát thành làng sinh thái.
 
-- Tái xây dựng bằng công pháp sinh thái
-- Phát triển du lịch sinh thái và giáo dục môi trường
-- Nhà giáo đường giấy trở thành biểu tượng tái sinh của cộng đồng
-- Cơ sở nghiên cứu và bảo vệ sinh thái ơi gọi
+- Tái thiết nhà cửa bằng kỹ thuật sinh thái.
+- Phát triển du lịch sinh thái và giáo dục môi trường.
+- Nhà thờ giấy trở thành biểu tượng của sự hồi sinh cộng đồng.
+- Nghiên cứu và bảo tồn hệ sinh thái ếch.
 
-### Điều lệ tái sinh nông thôn và thực hành
+### Quy chế và thực tiễn tái sinh nông thôn
 
-**Năm 2010 Điều lệ tái sinh nông thôn được phê chuẩn:**
+**Thông qua Quy chế Tái sinh Nông thôn năm 2010:**
 
-- Điều lệ tái sinh nông thôn đã định luật đầu tư 150 tỉ Tệ tệ vào quỹ tái sinh nông thôn trong 10 năm (được lập pháp vào năm 2010 dương lịch)[^5]
-- Thúc đẩy kế hoạch tái sinh theo đơn vị cộng đồng
-- Kết hợp xây dựng cơ sở hạ tầng và nâng cao phần mềm
-- Nhấn mạnh quy hoạch tham gia từ dưới lên
+- Điều 7 của 《Quy chế Tái sinh Nông thôn》 (ban hành năm 99 ROC) quy định thành lập Quỹ Tái sinh Nông thôn với số vốn 150 tỷ Đài tệ, được phân bổ hàng năm trong vòng mười năm [^5].
+- Tiến hành các kế hoạch tái sinh theo đơn vị cộng đồng.
+- Kết hợp xây dựng cơ sở vật chất và nâng cao năng lực mềm.
+- Nhấn mạnh quy hoạch có sự tham gia từ dưới lên, do Cục Phát triển Nông thôn và Bảo vệ Đất đai hướng dẫn cộng đồng lập kế hoạch [^6].
 
 **Chiến lược tái sinh:**
 
-1. **Hoạt hóa ngành công nghiệp:** Phát triển sản phẩm nông sản đặc trưng và công nghiệp nông nghiệp bậc sáu
-2. **Bảo tồn văn hóa:** Bảo vệ kiến trúc truyền thống và tài sản văn hóa phi vật thể
-3. **Cải thiện môi trường:** Cải tạo kênh dẫn nước, đường mòn và không gian công cộng
-4. **Đào tạo nhân tài:** Thanh niên quay lại nông thôn và đào tạo lãnh đạo cộng đồng
+1. **Kích hoạt công nghiệp:** Phát triển nông sản đặc trưng và đa dạng hóa nông nghiệp (sáu cấp).
+2. **Bảo tồn văn hóa:** Duy trì kiến trúc truyền thống và di sản văn hóa phi vật thể.
+3. **Cải thiện môi trường:** Quy hoạch hệ thống kênh mương, lối đi bộ và không gian công cộng.
+4. **Nuôi dưỡng nhân tài:** Thanh niên nông thôn trở về quê và đào tạo lãnh đạo cộng đồng.
 
-## Làn sóng thanh niên quay lại nông thôn
+## Làn sóng thanh niên trở về quê
 
-### Sự trỗi dậy của nông dân mới
+### Sự trỗi dậy của "Nông dân mới"
 
-**Làn sóng quay lại nông thôn sau năm 2010:**
-Chịu ảnh hưởng từ các sự cố an toàn thực phẩm và theo đuổi chất lượng sống, ngày càng nhiều thanh niên chọn quay lại nông thôn để làm nông:
-
-- Thanh niên tốt nghiệp đại học chiếm 40% những người quay lại nông thôn
-- Tuổi trung bình của nông dân mới là 35 tuổi, thấp hơn nông dân truyền thống
-- Hầu hết có chuyên môn không phải từ nông nghiệp
-- Chú trọng vào môi trường thân thiện và quản lý thương hiệu
+**Xu hướng trở về quê sau năm 2010:**
+Do ảnh hưởng của các sự cố an toàn thực phẩm và theo đuổi chất lượng cuộc sống, ngày càng nhiều người trẻ chọn quay về làm nông. Những "nông dân mới" này đa số mang theo chuyên môn phi nông nghiệp, coi trọng tính thân thiện với môi trường và quản lý thương hiệu; Bộ Nông nghiệp cũng đón nhận họ thông qua các kế hoạch hỗ trợ như "Trăm Nông dân Trẻ".
 
 ### Mô hình kinh doanh nông nghiệp thế hệ mới
 
-**Nông nghiệp công nghệ:**
+**Nông nghiệp công nghệ cao:**
 
-- Nhà kính thông minh và hệ thống kiểm soát môi trường
-- Phun phòng trừ sâu bằng flycam không người lái và giám sát
-- Ứng dụng cảm biến vật liệu kết nối
-- Phân tích dữ liệu lớn và hỗ trợ quyết định bằng AI
+- Nhà kính thông minh và hệ thống kiểm soát môi trường.
+- Phun bón bằng máy bay không người lái và giám sát.
+- Ứng dụng cảm biến IoT (Internet Vạn Vật).
+- Phân tích dữ liệu lớn và ra quyết định hỗ trợ bởi AI.
 
-**Quản lý xây dựng thương hiệu:**
+**Quản lý thương hiệu:**
 
-- Thiết lập thương hiệu cá nhân hoặc nông trại
-- Giáo dục nông sản và hoạt động trải nghiệm
-- Tiếp thị truyền thông xã hội
-- Bán trực tiếp cho người tiêu dùng (giao hàng từ địa điểm sản xuất)
+- Xây dựng thương hiệu cá nhân hoặc trang trại.
+- Giáo dục thực phẩm - nông nghiệp và các hoạt động trải nghiệm.
+- Tiếp thị trên mạng xã hội.
+- Bán hàng trực tiếp cho người tiêu dùng (giao thẳng từ vùng sản xuất).
 
-**Công nghiệp nông nghiệp bậc sáu:**
+**Đa dạng hóa sáu cấp:**
 
-- Sản xuất bậc một: sản phẩm nông sản an toàn chất lượng cao
-- Chế biến bậc hai: chế biến và đóng gói sản phẩm nông sản
-- Dịch vụ bậc ba: trải nghiệm du lịch và dịch vụ nhà hàng
-- Hiệu ứng tổng hợp 1×2×3=6
+- Cấp 1: Sản xuất nông sản an toàn, chất lượng cao.
+- Cấp 2: Chế biến và đóng gói nông sản.
+- Cấp 3: Dịch vụ du lịch trải nghiệm và ẩm thực.
+- Hiệu quả tổng hợp $1 \times 2 \times 3 = 6$.
 
-### Những trường hợp quay lại nông thôn thành công
+**Các trường hợp trở về quê thành công:**
 
-**"Lương thực tốt Nông sản sáng tạo" Đại Đê, Vân Lâm:**
-Thanh niên tốt nghiệp Đại học Đài Loan quay lại nông thôn, chuyển đổi kinh doanh dưa chua gia tộc:
+**Dà Bì, Vân Lâm (Yunlin):**
+Là nơi có sản lượng dưa chua lớn nhất toàn Đài Loan, thị trấn Dà Bì đã tái tạo một ngành truyền thống từng nổi tiếng với nước thải muối thành một thương hiệu địa phương [^9].
 
-- Đưa vào hệ thống kiểm soát an toàn thực phẩm HACCP
-- Phát triển các món ăn sáng tạo từ dưa chua và sản phẩm thương mại
-- Kết hợp giáo dục nông sản và trải nghiệm nông trại
-- Thiết lập hệ thống bán hàng online và giao hàng tận nhà
+- Thiết lập khu vực chuyên biệt cho dưa chua vào năm 2003 để xử lý tập trung nước thải.
+- Hợp tác với Viện Khoa học Đời sống Đại học Đài Loan, chuyển đổi hàng nghìn tấn nước thải mặn mỗi năm thành thức ăn chăn nuôi và phân lỏng.
+- Nhà dưa chua và nghề thủ công rơm đã biến ngành này thành điểm vào cho giáo dục thực phẩm - nông nghiệp và du lịch.
 
-**"Nông trại sinh thái Na Phú Nà" Lễ Nạp Lý, Bình Đông:**
-Mẫu tái xây dựng của người bản địa Nam Đảo sau thảm họa bão Morakot:
+**Làng Lệ Na Li (Pingtung):**
+Sau trận bão Morakot năm 2009, ba làng là Đại Xã (Tam Địa Môn), Mã Gia (Mã Gia) và Hảo Trà (Vụ Đài) đã di dời đến trang trại Mã Gia để tái thiết [^10].
 
-- Trồng lúa mạch đỏ hữu cơ và lúa nhỏ
-- Kết hợp kiến thức nông nghiệp truyền thống với công nghệ hiện đại
-- Phát triển du lịch sinh thái bộ lạc
-- Đẩy mạnh giáo dục văn hóa người bản địa Nam Đảo
+- Các cây trồng truyền thống như kiều mạch đỏ, kê, đậu cây gỗ lại trở thành món ăn và sản phẩm của làng.
+- Kho thóc Mã Gia (Kubav) chế biến kiều mạch đỏ thành xưởng thủ công và các món ăn đặc trưng.
+- Du lịch sinh thái cộng đồng song hành với giáo dục văn hóa bản địa.
 
-## Sự phát triển của nông nghiệp hữu cơ
+## Sự trỗi dậy của nông nghiệp hữu cơ
 
-### Quá trình phát triển nông nghiệp hữu cơ
+### Quá trình phát triển hữu cơ
 
-Phát triển nông nghiệp hữu cơ ở Đài Loan có thể chia thành ba giai đoạn. Giai đoạn nẩy mầm từ 1980-1995, Quỹ Phát triển Nông nghiệp Hữu cơ Tâm Tín được thành lập, Liên minh Chủ thọ thúc đẩy mua sắm chung, ý thức bảo vệ môi trường của người tiêu dùng bắt đầu thức tỉnh. Giai đoạn tăng trưởng từ 1995-2007, hệ thống xác nhận sản phẩm nông sản hữu cơ được thiết lập, dự thảo Luật thúc đẩy nông nghiệp hữu cơ bước vào giai đoạn nghị lựa, quy mô thị trường nông sản hữu cơ mở rộng. Sau năm 2007 bước vào giai đoạn thể chế hóa: Luật sản xuất và xác nhận sản phẩm nông sản được phê chuẩn, Luật thúc đẩy nông nghiệp hữu cơ được thi hành năm 2018, năm 2023 diện tích xác nhận hữu cơ đạt 17.365 hecta, số hộ nông dân hữu cơ đạt 5.131 hộ[^7].
+Sự phát triển nông nghiệp hữu cơ Đài Loan có thể chia thành ba giai đoạn. Giai đoạn manh nha từ cuối những năm 1980 đến những năm 1990, Liên minh nội trợ (thành lập năm 1987) thúc đẩy mua chung; Quỹ Phát triển Nông nghiệp Hữu cơ Từ Tâm được thành lập vào năm 1997, ý thức bảo vệ môi trường của người tiêu dùng bắt đầu thức tỉnh [^11]. Năm 2007, 《Luật Quản lý Sản xuất và Chứng nhận Nông sản》 thiết lập hệ thống chứng nhận bên thứ ba; lúc đó diện tích hữu cơ chỉ chiếm 0,24% đất canh tác. Sau khi 《Đạo luật Thúc đẩy Nông nghiệp Hữu cơ》 được thông qua vào năm 2018, giai đoạn tăng tốc đã bắt đầu: cuối năm 2025, diện tích chứng nhận hữu cơ là 21.871 ha (chiếm 2,81% đất canh tác); tháng 8 năm 2026, có 6.600 hộ và diện tích 23.631 ha được chứng nhận [^7][^12].
 
 ### Thách thức và cơ hội của nông nghiệp hữu cơ
 
-Những thách thức chính của nông nghiệp hữu cơ nằm ở tổn thất thu nhập trong giai đoạn chuyển tiếp, ngưỡng kỹ thuật phòng trừ sâu hữu cơ cao, cũng như khó khăn trong việc thiết lập kênh tiêu thụ, độ chấp nhận giá của người tiêu dùng đối với sản phẩm nông sản hữu cơ cũng vẫn là yếu tố giới hạn. Mặt khác, nhận thức an toàn thực phẩm nâng cao đã kích thích nhu cầu nông nghiệp hữu cơ, kết hợp với hỗ trợ chính sách của chính phủ, tăng trưởng thị trường nông sản hữu cơ quốc tế và kết hợp du lịch sinh thái, động lực tăng trưởng của nông nghiệp hữu cơ đã rõ ràng tăng cường.
+Thách thức chính của nông nghiệp hữu cơ là sự sụt giảm thu nhập trong quá trình chuyển đổi, rào cản công nghệ phòng trừ hữu cơ cao và khó khăn trong việc thiết lập kênh tiêu thụ; mức độ chấp nhận giá sản phẩm hữu cơ của người tiêu dùng vẫn là một yếu tố hạn chế. Mặt khác, ý thức về an toàn thực phẩm đã thúc đẩy nhu cầu hữu cơ, kết hợp với sự hỗ trợ chính sách của chính phủ, sự tăng trưởng của thị trường hữu cơ quốc tế và du lịch sinh thái, động lực phát triển của nông nghiệp hữu cơ đã được cải thiện rõ rệt.
 
-## Sự phát triển của hệ thống hội nông dân
+## Sự tiến hóa của hệ thống nông hội
 
-### Chức năng hội nông dân truyền thống
+### Chức năng truyền thống của nông hội
 
-Hội nông dân truyền thống có chức năng kép về chính trị và kinh tế: về chính trị đại diện lợi ích của nông dân, công bố chính sách nông nghiệp, động viên cơ sở tổ chức nông thôn; về kinh tế thực hiện xuất khẩu chung sản phẩm nông sản, mua sắm chung vật liệu nông nghiệp, dịch vụ tài chính nông nghiệp và bảo hiểm, cũng như thúc đẩy công nghệ nông nghiệp.
+Nông hội truyền thống mang cả chức năng chính trị và kinh tế: về mặt chính trị đại diện lợi ích nông dân, tuyên truyền chính sách nông nghiệp, huy động các tổ chức cơ sở nông thôn; về mặt kinh tế thực hiện tiêu thụ chung sản phẩm nông nghiệp, mua sắm vật tư nông nghiệp chung, dịch vụ tài chính và bảo hiểm nông nghiệp, cũng như quảng bá kỹ thuật nông nghiệp.
 
-### Chuyển đổi hiện đại của hội nông dân
+### Chuyển đổi của nông hội hiện đại
 
-Dịch vụ hội nông dân hiện đại đã mở rộng từ nông nghiệp sang bán lẻ siêu thị, du lịch giải trí nhà hàng, chăm sóc lâu dài cộng đồng và giáo dục văn hóa, đồng thời thúc đẩy chuyển đổi kỹ thuật số—nền tảng mua sắm online, thanh toán kỹ thuật số, phân tích dữ liệu lớn nông nghiệp và dịch vụ nông nghiệp thông minh, tạo thành bốn chiều của nâng cấp kỹ thuật số của hội nông dân.
+Dịch vụ của nông hội hiện đại đã mở rộng từ nông nghiệp sang bán lẻ siêu thị, ẩm thực du lịch giải trí, chăm sóc cộng đồng người cao tuổi và giáo dục văn hóa; đồng thời thúc đẩy chuyển đổi số—nền tảng mua sắm trực tuyến, thanh toán kỹ thuật số, phân tích dữ liệu lớn nông nghiệp và dịch vụ nông nghiệp thông minh, tạo thành bốn chiều kích nâng cấp số của nông hội.
 
-**Những trường hợp chuyển đổi thành công:**
+**Các trường hợp chuyển đổi thành công:**
+**Nông hội Cổ Khang (Yunlin):** Lấy thương hiệu cà phê Cổ Khang làm cốt lõi, mở rộng ra lễ hội văn hóa cà phê, du lịch chủ đề cà phê và quản lý sản phẩm tinh hoa nông nghiệp, tạo nên một con đường hoàn chỉnh về văn hóa công nghiệp.
 
-**Hội Nông dân Cổ K坑, Vân Lâm:** Với việc xây dựng thương hiệu cà phê Cổ K坑làm lõi, mở rộng tới lễ hội văn hóa cà phê, du lịch chủ đề cà phê và quản lý nông sản tinh tế, hình thành con đường hoàn chỉnh của công nghiệp văn hoá.
-
-## Đổi mới công nghệ nông nghiệp
+## Đổi mới khoa học công nghệ nông nghiệp
 
 ### Phát triển nông nghiệp thông minh
 
-Nông nghiệp thiết bị có nhà kính thông minh, tưới tiêu và bón phân tự động, nhà máy thực vật LED và nông trại thẳng đứng làm trục chính, nông nghiệp chính xác tích hợp định vị GPS cho máy nông nghiệp, bón phân thay đổi, giám sát sinh trưởng cây trồng và mô hình dự báo sản lượng. Ứng dụng công nghệ sinh học bao gồm lai tạo giống kháng sâu bệnh, phát triển phân bón vi sinh vật, chọn lựa có hỗ trợ đánh dấu gen và sản xuất cây con bằng kỹ thuật nuôi cấy mô, ba chiều chung tạo thành khung kỹ thuật nông nghiệp thông minh của Đài Loan.
+Nông nghiệp trong nhà tập trung vào nhà kính thông minh, tưới tiêu tự động, trang trại LED và công nghệ nông nghiệp thẳng đứng; nông nghiệp chính xác tích hợp định vị GPS cho máy móc, bón phân biến đổi, giám sát sự phát triển của cây trồng và mô hình dự báo sản lượng. Ứng dụng công nghệ sinh học bao gồm lai tạo giống kháng sâu bệnh, phát triển phân bón vi sinh vật, chọn tạo hỗ trợ bằng dấu chuẩn gen và sản xuất cây con nuôi cấy mô; ba chiều kích này cùng cấu thành nên kiến trúc kỹ thuật của nông nghiệp thông minh Đài Loan.
 
-### Nền tảng nông nghiệp kỹ thuật số
+### Nền tảng nông nghiệp số
 
-Hệ thống lịch sử sản xuất thông qua mã QR theo dõi quá trình sản xuất, trình bày thông tin an toàn thực phẩm trực tiếp cho người tiêu dùng, xây dựng niềm tin và nâng cao giá trị thương hiệu. Nền tảng thương mại điện tử nông nghiệp tích hợp bán hàng online, giao hàng từ địa điểm sản xuất, đặt trước trải nghiệm nông trại và chia sẻ kiến thức nông nghiệp, cho phép nông dân vượt qua người trung gian để tiếp cận trực tiếp người tiêu dùng.
+Hệ thống truy xuất nguồn gốc (sổ cái sản phẩm) hiển thị quá trình sản xuất thông qua Mã QR, trực tiếp cung cấp thông tin an toàn thực phẩm cho người tiêu dùng, xây dựng lòng tin và nâng cao giá trị thương hiệu. Các nền tảng thương mại điện tử nông nghiệp tích hợp bán hàng trực tuyến, giao thẳng từ vùng sản xuất, đặt chỗ trải nghiệm trang trại và chia sẻ kiến thức nông nghiệp, giúp nông dân bỏ qua trung gian để tiếp cận trực tiếp người tiêu dùng.
 
 ## Những thách thức hướng tới tương lai
 
 ### Thích ứng với biến đổi khí hậu
 
-Công cụ chính sách thích ứng với biến đổi khí hậu bao gồm lai tạo giống kháng hạn chịu ngập, tăng cường phòng chống thảm họa trong nông nghiệp thiết bị, hoàn thiện hệ thống bảo hiểm nông nghiệp và cơ chế hướng dẫn tái trồng sau thảm họa; mô hình sản xuất bền vững thì thúc đẩy cùng lúc từ bốn khía cạnh là nông nghiệp lưu trữ carbon, nông nghiệp tuần hoàn, bảo vệ đa dạng sinh học và duy trì sức khỏe đất.
+Các công cụ chính sách thích ứng với biến đổi khí hậu bao gồm nuôi trồng các giống chịu hạn, chống ngập; tăng cường phòng chống thiên tai trong nông nghiệp trong nhà; hoàn thiện hệ thống bảo hiểm nông nghiệp và cơ chế hỗ trợ tái canh sau thảm họa; mô hình sản xuất bền vững đồng thời thúc đẩy bốn khía cạnh: nông nghiệp hấp thụ carbon, nông nghiệp tuần hoàn, bảo tồn đa dạng sinh học và duy trì sức khỏe đất đai.
 
-### Bảo đảm an ninh lương thực
+### Đảm bảo an ninh lương thực
 
-Đối mặt với biến động giá thế giới và rủi ro chuỗi cung ứng, chiến lược an nicc lương thực của Đài Loan bao gồm nâng cao tỷ lệ tự cung cấp, thiết lập kho dự trữ lương thực chiến lược, phát triển nguồn protein thay thế, cũng như tăng cường hợp tác lương thực khu vực.
+Đối mặt với sự biến động giá lương thực quốc tế và rủi ro chuỗi cung ứng, chiến lược an ninh lương thực của Đài Loan bao gồm nâng cao tỷ lệ tự cung tự cấp, thiết lập dự trữ lương thực chiến lược, phát triển nguồn protein thay thế và tăng cường hợp tác lương thực khu vực.
 
-### Truyền thừa thế hệ và đổi mới sáng tạo
+### Kế thừa và đổi mới thế hệ
 
-Trọng tâm của truyền thừa kỹ thuật nông nghiệp nằm ở bảo tồn kiến thức nông pháp truyền thống, trao đổi kinh nghiệm giữa thế hệ cũ và mới, hoàn thiện hệ thống giáo dục nông nghiệp và hệ thống đào tạo nông dân nghề; nâng cấp ngành công nghiệp thì gồm nông nghiệp giá trị gia tăng cao, sự khởi đầu của ngành dịch vụ nông nghiệp, mở rộng thị trường quốc tế và xây dựng giá trị thương hiệu làm hướng.
+Trọng tâm truyền thụ kỹ thuật nông nghiệp là bảo tồn kiến thức canh tác truyền thống, trao đổi kinh nghiệm giữa các thế hệ cũ và mới, hoàn thiện hệ thống giáo dục nông nghiệp và chế độ đào tạo nông dân chuyên nghiệp; nâng cấp công nghiệp tập trung vào nông nghiệp giá trị gia tăng cao, sự trỗi dậy của ngành dịch vụ nông nghiệp, mở rộng thị trường quốc tế và xây dựng giá trị thương hiệu.
 
-## Hy vọng mới của nông thôn
+## Hy vọng mới cho nông thôn
 
-Nông thôn Đài Loan ngày hôm nay, không còn là vùng lạc hậu theo ấn tượng truyền thống. Từ sự kiên trì của những người nông dân nhỏ hữu cơ, sáng tạo của thanh niên quay lại nông thôn, tới chuyển đổi của hệ thống hội nông dân, nông thôn đang tái định nghĩa giá trị của chính mình. Mảnh đất này mang theo năng lượng đa tầng của sản xuất lương thực, truyền thừa văn hóa, bảo vệ sinh thái và thử nghiệm đổi mới sáng tạo.
+Nông thôn Đài Loan ngày nay không còn là vùng lạc hậu như ấn tượng truyền thống. Từ sự kiên trì của các hộ nông dân hữu cơ, sự sáng tạo của thanh niên trở về quê, đến sự chuyển đổi của hệ thống nông hội, nông thôn đang định nghĩa lại giá trị của mình. Vùng đất này mang trong mình năng lượng đa diện của sản xuất lương thực, kế thừa văn hóa, bảo tồn sinh thái và thử nghiệm đổi mới.
 
-Dưới áp lực kép của toàn cầu hóa và biến đổi khí hậu, kinh nghiệm chuyển đổi nông nghiệp và nông thôn của Đài Loan, có lẽ chính là tham chiếu quan trọng mà thế giới tìm kiếm trong con đường phát triển bền vững. Nông nghiệp Đài Loan đã trải qua ba giai đoạn chuyển đổi là vương quốc lúa gạo, tái tạo nông nghiệp tinh tế, tái sinh cộng đồng nông thôn, con đường tạo ra giá trị sản xuất cao trên diện tích đất hạn chế, đã được nhiều cơ quan nghiên cứu chính sách nông nghiệp châu Á lấy làm mẫu hình thành cho kinh tế nông dân nhỏ.
+Dưới thách thức kép của toàn cầu hóa và biến đổi khí hậu, kinh nghiệm chuyển đổi của nông nghiệp và nông thôn Đài Loan có lẽ chính là một tài liệu tham khảo quan trọng mà thế giới đang tìm kiếm con đường phát triển bền vững. Nông nghiệp Đài Loan đã trải qua ba giai đoạn chuyển đổi: vương quốc lúa gạo, tái tạo nông nghiệp tinh hoa và tái sinh cộng đồng nông thôn; việc tạo ra giá trị cao trên diện tích đất hạn chế là một mô hình hoạt động hiếm thấy trong kinh tế hộ nhỏ.
 
 ## Đọc thêm
 
-- [[台灣中小企業與隱形冠軍]]
-- [[台灣外貿與全球供應鏈]]
+- [Doanh nghiệp vừa và nhỏ và các nhà vô địch ẩn danh của Đài Loan](/vi/economy/taiwan-smes-and-hidden-champions)
+- [Xuất khẩu và chuỗi cung ứng toàn cầu của Đài Loan](/vi/economy/taiwan-foreign-trade-and-global-supply-chain)
 
 ## Tài liệu tham khảo
 
-[^1]: [Báo cáo Thống kê Nông nghiệp hàng năm Bộ Nông nghiệp (bao gồm Tài khoản Vệ tinh Nông sản)](https://agrstat.moa.gov.tw/sdweb/public/book/Book.aspx) — Giá trị sản xuất Lâm nông thủy hải sản hàng năm, số người lao động và thống kê Tài khoản Vệ tinh Nông sản
+[^1]: [Bộ Nông nghiệp — Giá trị thô sản xuất nông nghiệp và chuỗi thực phẩm năm 113 chiếm 6,8% GDP quốc gia, số người làm việc khoảng 2 triệu người](https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=10026) — "Giá trị thô sản xuất nông nghiệp và chuỗi thực phẩm năm 113 là 1 nghìn 744,9 tỷ Đài tệ", "Ngành nông lâm ngư nghiệp sơ cấp chiếm 1,5%", "Số người làm việc khoảng 2 triệu người", "Ngành nông lâm ngư nghiệp sơ cấp có 490.000 người (4,3%)".
 
-[^2]: [Bộ Nông nghiệp Giải thích Chính sách Nông nghiệp Tinh tế](https://www.moa.gov.tw/) — Tiến trình và mục tiêu chính sách thúc đẩy nông nghiệp tinh tế
+[^2]: [Bộ Nông nghiệp — Thúc đẩy Kế hoạch Xuất sắc Sức khỏe Nông nghiệp Tinh hoa](https://www.moa.gov.tw/ws.php?id=19572) — Kế hoạch được Viện Hành chính thông qua vào ngày 7 tháng 5 năm 98; ba trục chính là sức khỏe, xuất sắc và hạnh phúc.
 
-[^5]: [Cơ sở Dữ liệu Luật pháp Toàn quốc《Điều lệ Tái sinh Nông thôn》](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=M0090059) — Điều lệ Tái sinh Nông thôn Điều 44: Cơ sở pháp lý của Quỹ Tái sinh Nông thôn 150 tỉ Tệ tệ trong 10 năm
+[^3]: [Tra cứu dữ liệu thống kê nông nghiệp của Bộ Nông nghiệp](https://agrstat.moa.gov.tw/sdweb/public/book/Book.aspx) — Diện tích lúa, sản lượng và năng suất trên một đơn vị diện tích qua các năm.
 
-[^6]: [Bộ Nông nghiệp Cục Phát triển Nông thôn và Bảo vệ Đất nước Kết quả Kế hoạch Tái sinh Nông thôn](https://www.ardswc.gov.tw/) — Báo cáo hướng dẫn và thực hiện kế hoạch tái sinh cộng đồng nông thôn
+[^5]: [Cơ sở dữ liệu pháp luật quốc gia — Điều 7 Quy chế Tái sinh Nông thôn](https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=M0110017&flno=7) — "Phải thành lập Quỹ Tái sinh Nông thôn với số vốn 150 tỷ Đài tệ, và phân bổ ngân sách hàng năm trong vòng mười năm sau khi quy chế này có hiệu lực".
 
-[^7]: [Bộ Nông nghiệp Cục Lương thực Thống kê Nông nghiệp Hữu cơ](https://taft.moa.gov.tw/) — Diện tích xác nhận hữu cơ, số hộ nông dân và thống kê chứng thực sản phẩm nông sản hữu cơ
+[^6]: [Cục Phát triển Nông thôn và Bảo vệ Đất đai của Bộ Nông nghiệp](https://www.ardswc.gov.tw/) — Kết quả hướng dẫn và thực hiện cộng đồng tái sinh nông thôn.
+
+[^7]: [Cục Lương thực và Nông nghiệp — Tổng quan số hộ và diện tích trồng hữu cơ năm 115](https://www.afa.gov.tw/cht/index.php?code=list&ids=563) — Tổng cộng 6.600 hộ, 23.631 ha.
+
+[^8]: [Wikipedia — Lễ hội bánh táo Tân Châu](https://zh.wikipedia.org/zh-tw/新埔柿餅節) — Ngành sản xuất bánh táo thị trấn Tân Châu có lịch sử hơn trăm năm, phơi táo vào mùa thu bằng gió chín giáng.
+
+[^9]: [Tin tức CCTV — Nước thải dưa chua Dà Bì, Vân Lâm hàng năm lên đến nghìn tấn, dự kiến hợp tác với Đại học Đài Loan để chuyển thành phân lỏng](https://news.pts.org.tw/article/698144) — Sản lượng dưa chua Dà Bì là lớn nhất toàn Đài Loan; khu vực chuyên biệt dưa chua vào năm 2003; hợp tác của Viện Khoa học Đời sống Đại học Đài Loan trong việc chuyển đổi nước thải.
+
+[^10]: [Cơ quan Quản lý Khu cảnh quan Quốc gia Mao Lâm — Làng Lệ Na Li](https://www.maolin-nsa.gov.tw/zh-tw/attraction/119/) — Ba làng Đại Xã, Mã Gia và Hảo Trà di dời đến trang trại Mã Gia sau trận bão Morakot để tái thiết.
+
+[^11]: [Quỹ Phát triển Nông nghiệp Hữu cơ Từ Tâm — Về Từ Tâm](https://toaf.org.tw/about) — Được sáng lập vào năm 1997 bởi Hòa thượng Nhật Trường Lão.
+
+[^12]: [Trung tâm Thúc đẩy Nông nghiệp Hữu cơ — Xu hướng diện tích chứng nhận và canh tác thân thiện của Đài Loan từ 2007-2025](https://www.oapc.org.tw/20260824_organic-agricultural-land/) — Năm 2007 chiếm 0,24% đất canh tác; cuối năm 2025 chứng nhận hữu cơ là 21.871 ha (2,81%).

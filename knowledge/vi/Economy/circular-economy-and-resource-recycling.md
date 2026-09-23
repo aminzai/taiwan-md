@@ -1,13 +1,13 @@
 ---
-title: 'Kinh tế tuần hoàn và tái sử dụng nguồn lực Đài Loan'
-description: 'Chuyển dịch từ kinh tế tuyến tính sang kinh tế tuần hoàn, khám phá các mô hình tái chế nguồn lực, xử lý rác thải và phát triển bền vững tại Đài Loan'
+title: 'Đài Loan và nền kinh tế tuần hoàn cùng tái chế nguồn lực'
+description: 'Chuyển đổi từ nền kinh tế tuyến tính sang kinh tế tuần hoàn, khám phá mô hình thu hồi tài nguyên, xử lý chất thải và phát triển bền vững của Đài Loan'
 date: 2026-03-18
 category: 'Economy'
 tags:
   [
     'kinh tế tuần hoàn',
-    'tái chế nguồn lực',
-    'xử lý rác thải',
+    'thu hồi tài nguyên',
+    'xử lý chất thải',
     'phát triển bền vững',
     'chính sách môi trường',
     'tái sử dụng nguồn lực',
@@ -17,190 +17,195 @@ author: 'Taiwan.md'
 difficulty: 'intermediate'
 readingTime: 14
 featured: false
-lastVerified: 2026-03-19
+lastVerified: 2026-09-20
 lastHumanReview: false
 translatedFrom: 'Economy/台灣循環經濟與資源再利用.md'
-sourceCommitSha: 'f944f63b4'
-sourceContentHash: 'sha256:1f3ebd8f501cc764'
-sourceBodyHash: 'sha256:09a7619ad7b7047a'
-translatedAt: '2026-07-28T05:45:51+08:00'
+sourceCommitSha: '705fe2539'
+sourceContentHash: 'sha256:b945d3a9f265b5de'
+sourceBodyHash: 'sha256:9cb708cf066e8c05'
+translatedAt: '2026-09-23T22:11:54+08:00'
 ---
 
-# Kinh tế tuần hoàn và tái sử dụng nguồn lực Đài Loan
+# Đài Loan và nền kinh tế tuần hoàn cùng tái chế nguồn lực
 
 ## 30 giây tổng quan
 
-Đài Loan bắt đầu thúc đẩy hệ thống tái chế nguồn lực từ thập niên 1990, phát triển mô hình kinh tế tuần hoàn có sự nổi bật quốc tế. Thông qua nguyên tắc 3R (giảm thiểu, tái sử dụng, tái chế), tỷ lệ tái chế nguồn lực của Đài Loan dao động khoảng 56% (theo dữ liệu Bộ Môi Trường. Các chỉ số thống kê khác nhau — rác thải thông thường so với tổng rác thải công nghiệp — ảnh hưởng đến con số). Năm 2023, Bộ Môi Trường được nâng cấp thành Bộ Tài nguyên Môi trường, thành lập "Cơ quan Vòng Luyến Nguồn Lực", đưa kinh tế tuần hoàn lên là chính sách quốc gia ưu tiên, mục tiêu xây dựng xã hội hoàn thiện tuần hoàn vào năm 2030.
+Đài Loan bắt đầu thúc đẩy hệ thống thu hồi tài nguyên từ những năm 1990, phát triển mô hình kinh tế tuần hoàn có tầm nhìn quốc tế. Thông qua nguyên tắc 3R — giảm thiểu (Reduce), tái sử dụng (Reuse), tái chế (Recycle) — tỷ lệ thu hồi chất thải thường ngày của Đài Loan đạt 58,55% vào năm 2024 (theo thống kê Bộ Môi trường, tính bằng tổng lượng tài nguyên rác thải và chất thải thải xong chia cho tổng lượng chất thải thường ngày sản sinh)[^4]。 Năm 2023, Cục Bảo vệ Môi trường được nâng cấp thành Bộ Môi trường và thành lập "Cơ quan Tài nguyên Tuần hoàn", đưa kinh tế tuần hoàn trở thành chính sách quan trọng quốc gia[^3]。
 
-**Từ khóa**: kinh tế tuần hoàn, nguyên tắc 3R, tái chế nguồn lực, phân loại rác thải, xử lý rác thải, phát triển bền vững
+**Từ khóa**: kinh tế tuần hoàn, nguyên tắc 3R, thu hồi tài nguyên, phân loại rác thải, xử lý chất thải, phát triển bền vững
 
-## Tại sao quan trọng
+## Tại sao điều này quan trọng
 
-Phát triển kinh tế tuần hoàn của Đài Loan có ý nghĩa mô phỏng toàn cầu. Điều kiện địa lý hẹp, dân số đông, nguồn tài nguyên thiếu thốn buộc Đài Loan phải xử lý rác thải một cách cực kỳ hiệu quả — điều này không chỉ cải thiện môi trường sống và phòng ngừa dịch bệnh công cộng, mà còn kích thích ra đời các ngành công nghiệp xanh mới. Công nghệ tiên tiến cho tái chế đã trở thành lợi thế mềm xuất khẩu của Đài Loan, trong khi toàn bộ hệ thống hoạt động cũng đang thay đổi thói quen tiêu dùng của người dân, thúc đẩy hình thành văn hóa sống bền vững.
+Sự phát triển của nền kinh tế tuần hoàn tại Đài Loan có ý nghĩa mẫu hệ toàn cầu. Với điều kiện địa lý hẹp hẹp nhưng dân cư đông đúc và tài nguyên thiên nhiên hạn chế, Đài Loan buộc phải đưa quản lý chất thải lên tới mức tối đa — không chỉ cải thiện trực tiếp môi trường sống và sức khỏe cộng đồng mà còn thúc đẩy ra đời các ngành công nghiệp xanh mới. Các công nghệ tiên tiến trong lĩnh vực tuần hoàn tài nguyên đã trở thành một phần mềm mạnh của Đài Loan, trong khi toàn bộ hệ thống còn đang thay đổi thói quen tiêu dùng của người dân và thúc đẩy văn hóa sống bền vững.
 
-## Lịch sử phát triển kinh tế tuần hoàn của Đài Loan
+## Lộ trình phát triển nền kinh tế tuần hoàn của Đài Loan
 
-### Giai đoạn thứ nhất: Xây dựng hệ thống tái chế (1990–2005)
+### Giai đoạn 1: Xây dựng hệ thống thu hồi tài nguyên (1990–2005)
 
-**Nguồn gốc chính sách**: Sau khi giải phóng kiểm điểm năm 1987, nhận thức về môi trường bừng sáng, chiến dịch xử lý rác thải trở thành động lực cải cách chính sách, cuối cùng dẫn đến việc ban hành Luật Tái Sử Dụng Nguồn Lực năm 2002[^1].
+**Nguồn gốc chính sách**: Sau khi nới đổ mở năm 1987, nhận thức về bảo vệ môi trường được giáo dục, và cuộc chiến chất thải (Garbage War) trở thành cơ hội cải cách chính sách. Năm 1988, sửa đổi Luật Xử lý Chất thải giới thiệu trách nhiệm sản xuất kéo dài (Extended Producer Responsibility), năm 1997 triển khai kế hoạch thu hồi tài nguyên "bốn trong một", và năm 2002 Luật Tái chế và Tái sử dụng Tài nguyên được ban hành và thi hành[^1][^3]。
 
-**Các mốc quan trọng**: Bắt đầu thực hiện phân loại rác thải vào năm 1990, chương trình tái chế bốn trong một năm 1997 chính thức khởi động.
+**Cột mốc quan trọng**:
 
-- **Năm 2000**: Chính sách hạn chế dụng cụ ăn uống không cần rửa
-- **Năm 2003**: Thành phần thuế rác thải theo từng túi
+- **Năm 2000**: Thành phố Đài Bắc (Taipei) đầu tiên áp dụng thuế rác theo túi (từ ngày 1 tháng 7)[^9]
+- **Năm 2002**: Chính sách hạn chế sử dụng túi nhựa mua sắm và dụng cụ ăn uống nhựn lại không tái sử dụng được thi hành theo từng giai đoạn (từ ngày 1 tháng 7)[^10]
 
-**Đặc điểm hệ thống**: Nguyên tắc gánh trách nhiệm mở rộng cho người sản xuất là trung tâm của hệ thống, được Quản lý Quỹ Tái Chế điều phối, trong khi người dân, nhà tái chế và chính phủ chịu trách nhiệm riêng biệt[^8].
+**Đặc điểm hệ thống**: Trách nhiệm sản xuất kéo dài là nền tảng của hệ thống, với Quỹ Tài nguyên Tuần hoàn làm nền tảng tài chính, và cộng đồng dân cư, thương lái thu hồi, chính quyền địa phương, cùng quỹ thu hồi phân công vai trò riêng biệt[^8]。
 
-### Giai đoạn thứ hai: Tối ưu hóa hệ thống và nâng cao công nghệ (2005–2015)
+### Giai đoạn 2: Tối ưu hóa hệ thống và nâng cấp công nghệ (2005–2015)
 
-Trong giai đoạn này, trung tâm là sự phát triển đồng thời của công nghệ và hệ thống. Công nghệ xử lý rác thải bằng cách nung lên, hệ thống tự động phân loại được triển khai, công nghệ xử lý rác thải độc hại đạt chuẩn, đồng thời mở rộng chính sách mua hàng xanh, chứng nhận thương hiệu môi trường và quản lý chặt chẽ rác thải công nghiệp. Đến năm 2015, tỷ lệ tái chế vượt 50%, hệ thống dọn dẹp rác thải gần như hoàn thiện, chuỗi cung ứng tái chế cũng hình thành trong giai đoạn này.
+Trong giai đoạn này, trọng tâm là sự đồng bộ giữa công nghệ và cơ chế pháp lý. Công nghệ đốt chất thải được cải tiến, hệ thống tự động phân loại được áp dụng, công nghệ xử lý chất thải độc hại trở nên chín muồi, đồng thời còn triển khai cơ chế mua sắm xanh, hệ thống nhãn hiệu bảo vệ môi trường, và việc quản lý chất thải công nghiệp được củng mạnh. Đến năm 2015, tỷ lệ thu hồi tài nguyên ổn định trên 50%, hệ thống vận chuyển rác thải hoạt động trơn tru, và chuỗi cung ứng tái chế hình thành trong giai đoạn này.
 
-### Giai đoạn thứ ba: Chuyển đổi kinh tế tuần hoàn (2015–nay)
+### Giai đoạn 3: Chuyển đổi sang nền kinh tế tuần hoàn (2015–nay)
 
 **Nâng cấp chính sách**:
 
-- **Năm 2018**: Công bố Kế hoạch thúc đẩy kinh tế tuần hoàn[^6]
-- **Năm 2023**: Bộ Môi Trường được thành lập thành Cơ quan Vòng Luyến Nguồn Lực[^3]
-- **Năm 2024**: Sửa đổi Kế hoạch khuyến khích giảm thiểu và tái chế nguồn lực[^2]
+- **Năm 2018**: Chính phủ nhà nước thông qua "Kế hoạch Thúc đẩy Kinh tế Tuần hoàn" (ngày 20 tháng 12), với trụ cột là "Công nghiệp hoá tuần hoàn" và "Tuần hoàn hóa công nghiệp"[^2]
+- **Năm 2022**: Cục Bảo vệ Môi trường phê duyệt "Kế hoạch Tương lai Mới — Tuần hoàn Tài nguyên (2011–2013)", tập trung vào bốn nhóm chất liệu: sinh học, hóa học hữu cơ, kim loại và nguyên liệu tái chế vô cơ[^4]
+- **Năm 2023**: Cục Bảo vệ Môi trường được nâng cấp thành Bộ Môi trường và thành lập Cơ quan Tài nguyên Tuần hoàn[^3]
+- **Từ năm 2023 trở đi**: "Kế hoạc Giảm thiểu, Thu hồi và Tuần hoàn Tài nguyên (2012–2016)" tiếp tục được thúc đẩy, với ba mục tiêu chính[^6]：
 
-**Mục tiêu thiết lập**: Xây dựng xã hội tuần hoàn vào năm 2030, tỷ lệ tái chế nguồn lực đạt 70%, giá trị kinh tế tuần hoàn đạt 2 nghìn tỷ đồng TWD.
+1. Sửa đổi Luật Thúc đẩy Tuần hoàn Tài nguyên và Luật Xử lý Chất thải — hai "luật tuần hoàn"
+2. Rà soát tài nguyên chiến lược và then chốt của Đài Loan, thúc đẩy sử dụng nội địa tuần hoàn
+3. Xây dựng thương hiệu xanh cho Đài Loan: thiết lập cơ chế quản lý nguyên liệu tái chế, áp dụng truy xuất số cho sản phẩm
 
-## Kiến trúc hệ thống tái chế nguồn lực
+**Mục tiêu đề ra**: Bộ Môi trường đưa ra mục tiêu dài hạn là xây dựng một xã hội tuần hoàn — tối đa hóa tuần hoàn tài nguyên, tối thiểu hóa sản sinh chất thải. Các chỉ tiêu cụ thể theo năm được quy định trong kế hoạch chính sách, ví dụ như mục tiêu tỷ lệ thu hồi chất thải thường ngày năm 2024 là 55,5%, tỷ lệ tuần hoàn tro thải là 73%, trong khi kết quả thực tế lần lượt là 58,55% và 83%[^4]。
+
+## Cấu trúc hệ thống thu hồi tài nguyên
 
 ### Cơ sở pháp lý và khung chính sách
 
-Cơ sở pháp lý cho việc tái chế nguồn lực của Đài Loan bao gồm Luật Tái Sử Dụng Nguồn Lực, Luật Dọn Dẹp Rác Thải và Kế hoạch thúc đẩy kinh tế tuần hoàn, thực thi theo nguyên tắc 3R: Giảm thiểu (Reduce, giảm lượng rác thải từ nguồn), Tái sử dụng (Reuse, kéo dài tuổi thọ sản phẩm), Tái chế (Recycle, chuyển đổi rác thải thành nguyên liệu tái sử dụng).
+Cơ sở pháp lý cho thu hồi tài nguyên tại Đài Loan bao gồm Luật Tái chế và Tái sử dụng Tài nguyên, Luật Xử lý Chất thải, cùng Kế hoạch Thúc đẩy Kinh tế Tuần hoàn của Chính phủ nhà nước. Trong thực thi, tuân thủ nguyên tắc 3R: Giảm thiểu (Reduce, giảm thiểu chất thải tại nguồn), Tái sử dụng (Reuse, kéo dài tuổi thọ sản phẩm), Tái chế (Recycle, biến chất thải thành nguồn lực tái chế).
 
-### Hệ thống tái chế bốn trong một
+### Hệ thống "bốn trong một"
 
-Hệ thống bốn trong một cho phép người dân, nhà tái chế, quỹ tái chế và các cơ quan chính phủ mỗi người một nhiệm vụ: Người dân phân loại rác thải đầu vào, hợp tác thu gom và vận chuyển định kỳ; Nhà tái chế chịu trách nhiệm thu gom xử lý rác thải, phân loại và kiểm soát chất lượng nguyên liệu tái sử dụng; Quỹ tái chế thu phí xử lý và chi trả khẩu phí, duy trì hoạt động hệ thống; Các cơ quan chính phủ chịu trách nhiệm xây dựng chính sách, giám sát và giáo dục.
+Hệ thống "bốn trong một" giúp người dân, thương lái thu hồi, quỹ tài nguyên tuần hoàn và cơ quan chính phủ mỗi người chơi vai trò riêng. Người dân phân loại rác tại nguồn và hợp tác với lịch thu hẹn định kỳ; thương lái thu hồi chịu trách nhiệm thu thập, xử lý và kiểm soát chất lượng nguyên liệu tái chế; quỹ tài nguyên thu thuế xử lý và chi trả thưởng, duy trì hoạt động của hệ thống; cơ quan chính phủ chịu trách nhiệm soạn thảo chính sách, giám sát kiểm tra và truyền thông giáo dục.
 
-### Hệ thống phân loại rác thải
+### Hệ thống phân loại rác
 
 **Phân loại cơ bản**:
 
-- **Rác thải thông thường**: Các chất thải hỗn hợp không thể tái chế
-- **Vật liệu tái chế**: Các vật liệu có thể tái sử dụng
-- **Thực phẩm thừa**: Vật liệu hữu cơ, có thể chế tạo phân bón
+- **Rác thường ngày**: chất thải hỗn hợp không thể tái chế
+- **Tài nguyên có thể thu hồi**: nguyên liệu có thể tái sử dụng
+- **Chất thải thực phẩm**: chất thải hữu cơ, có thể chế biến thành phân bón
 
-**Phân loại chi tiết của vật liệu tái chế**: Giấy (thùng hàng, báo, tạp chí) và nhựa (chai PET, túi nhựa, ngôi nhựa) là hai loại có khối lượng lớn nhất, tiếp theo là:
+**Phân loại chi tiết tài nguyên có thể thu hồi**: giấy (hộp, báo, tạp chí) và nhựa (bottle nhựa, túi nhựa, thùng chứa) là hai loại chiếm khối lượng lớn nhất, tiếp theo là:
 
-- **Kim loại**: Hội đồng sắt, chai kẹo thủy ngân
-- **Thủy tinh**: Chai thủy tinh, ngôi nhựa thủy tinh
-- **Khác**: Pin, bóng đèn, thiết bị điện tử
+- **Kim loại**: lon thép, lon nhôm...
+- **Thủy tinh**: chai thủy tinh, thùng chứa thủy tinh
+- **Khác**: pin, bóng đèn, thiết bị điện...
 
-## Công nghệ và cơ sở xử lý rác thải
+## Công nghệ và cơ sở vật chất xử lý chất thải
 
-### Hệ thống xử lý bằng cách nung
+### Hệ thống đốt chất thải
 
-Toàn bộ 24 nhà máy nướng sử dụng công nghệ nướng ở nhiệt độ 850–1100°C, kết hợp thiết bị kiểm soát ô nhiễm tiên tiến, xử lý khoảng 24.000 tấn rác thải mỗi ngày, công suất điện đạt 460MW, đạt được hiệu quả đôi nghĩa giữa xử lý rác thải và thu hồi năng lượng cơ hội.
+Toàn quốc hiện có 28 cơ sở đốt chất thải (trong đó có 24 nhà máy đốt chất thải lớn), áp dụng công nghệ đốt ở nhiệt độ cao kết hợp thiết bị phòng ngừa ô nhiễm, với tổng công suất thiết kế khoảng 24.000 tấn/ngày. Năm 2024, tổng lượng chất thải được xử lý đạt 6,81 triệu tấn, sản xuất điện khoảng 340 triệu kWh, đạt hiệu quả đốt chất thải và khai thác nhiệt năng đồng thời. Hầu hết các nhà máy đốt lớn đã vận hành hơn 20 năm, và Bộ Môi trường sẽ khởi động dự án nâng cấp 16 nhà máy đốt từ cuối năm 2024[^4]。
 
-**Quy trình xử lý**: Rác thải được nhận và lưu trữ tạm, sau đó vào quy trình nướng ở nhiệt độ cao, khí thải qua thiết bị kiểm soát ô nhiễm, bùn đáy được xử lý lại, năng lượng chuyển đổi thành điện — năm mảng tạo thành chu trình không rác thải.
+**Quy trình xử lý**: Chất thải được tiếp nhận và lưu trữ tạm thời trước khi vào đốt ở nhiệt độ cao, khí thải đi qua thiết bị xử lý ô nhiễm, chất đốt còn lại được tái sử dụng, và nhiệt năng được chuyển đổi thành điện — năm giai đoạn tạo thành vòng tuần hoàn không chất thải.
 
-### Quản lý nhà kho bãi
+### Quản lý bãi chôn
 
-Nhà kho bãi được trang bị hệ thống chống thấm, thiết bị lọc nước ngư tầng và thiết bị thu và sử dụng khí methane, đồng thời có mạng lưới giám sát môi trường ba lớp bao gồm nước ngầm, chất lượng không khí và độc tính đất, đảm bảo an toàn môi trường lâu dài.
+Bãi chôn được trang bị hệ thống ngăn ngừa ngấm, cơ sở xử lý nước thải, và thiết bị thu hồi khí met, đồng thời thiết lập mạng lưới giám sát môi trường ba tầng (nước dưới lòng đất, chất lượng không khí, ô nhiễm đất), đảm bảo an toàn môi trường lâu dài.
 
-### Công nghệ xử lý thực phẩm thừa
+### Công nghệ xử lý chất thải thực phẩm
 
-Thực phẩm thừa được xử lý bằng phương pháp phân hủy sinh học (phân hủy sinh học, kiểm soát nhiệt độ men hóa, kiểm tra chất lượng sản phẩm cuối) tạo thành phân bón hữu cơ, hoặc được đưa vào quy trình hôi hợp không khí, thu hồi khí methane và sản xuất phân dung liquid, thực hiện chu trình sử dụng năng lượng cho vật liệu hữu cơ.
+Chất thải thực phẩm được chế biến qua phương pháp phân hóan (phân hủy sinh học, kiểm soát nhiệt độ lên men, kiểm tra chất lượng sản phẩm cuối cùng) để sản xuất phân bón hữu cơ, hoặc được đưa vào quy trình tiêu hao khí sinh học để khai thác khí met và sản xuất phân lỏng, thực hiện tuần hoàn năng lượng cho chất thải hữu cơ.
 
-## Phát triển ngành kinh tế tuần hoàn
+## Phát triển công nghiệp kinh tế tuần hoàn
 
-### Ngành tái sản xuất vật liệu
+### Ngành công nghiệp tái chế chất thải
 
-Ngành tái sản xuất vật liệu của Đài Loan đã phát triển ba trụ cột chính: Tái sinh nhựa (tái tạo sợi từ chai PET, nhựa thải được ép nhựa, doanh thu khoảng 20 tỷ đồng TWD), Kim loại tái chế (tái sản xuất sắt thép thải, tinh chế kim loại quý, doanh thu khoảng 5 tỷ đồng TWD), Giấy tái chế (sản xuất giấy tạo bột từ giấy thải, hàng năm khoảng 15 tỷ đồng TWD).
+Ngành công nghiệp tái chế chất thải tại Đài Loan đã hình thành ba trụ cột chính: tái chế nhựa (sợi tái chế từ chai nhựa, ép nhựa tái chế), thu hồi kim loại (tái chế thép thải, tinh luyện kim loại đặc), và tái chế giấy (sản xuất mực giấy tái chế, giấy tái chế).
 
-### Công nghệ đổi mới tuần hoàn
+### Công nghệ tuần hoàn đổi mới
 
-Về công nghệ đổi mới, ba lối mòn chính là vật liệu sinh học (nhựa phân hủy sinh học, tái dùng rác thải nông nghiệp, nhiên liệu sinh học), địa nghỉ thành thị (thu hồi kim loại quý từ rác điện tử, trích xuất nguyên tố hiếm) và hoá học xanh (dung môi không độc hại, quy trình xanh) được phát triển đồng thời, đại diện cho sự chuyển mình của kinh tế tuần hoàn Đài Loan lên các cấp độ công nghệ cao hơn.
+Trong lĩnh vực công nghệ đổi mới, ba hướng phát triển đang được triển khai đồng thời: vật liệu sinh học (nhựa phân hủy sinh học, ứng dụng chất thải nông nghiệp, nhiên liệu sinh học), kho bạc đô thị (thu hồi kim loại quý từ chất thải điện tử, khai thác nguyên tố hiếm), và hóa học xanh (dung môi không độc, quy trình sản xuất xanh), đại diện cho sự tiến bộ của nền kinh tế tuần hoàn của Đài Loan về công nghệ cao hơn[^7]。
 
-### Hợp tác sinh trùng chuỗi cung ứng
+### Kết nối chuỗi cung ứng cộng sinh
 
-Hệ sinh thái khu công nghiệp thông qua việc trao đổi vật liệu thải, tận dụng năng lượng cấp độ, sử dụng lại nguồn nước, biến vật liệu thải của các công ty thành nguyên liệu cho các doanh nghiệp lân cận, kết hợp với nền tảng hội nhập vật liệu thải, hệ thống chứng nhận vật liệu tuần hoàn và quản lý chuỗi cung ứng xanh, tạo thành mạng lưới sinh trùng ở cấp độ khu công nghiệp.
+Eco-hóa khu công nghiệp thông qua trao đổi chất thải, sử dụng năng lượng thang bậc, và tái sử dụng nguồn nước, biến chất thải của doanh nghiệp thành nguyên liệu cho doanh nghiệp lân cận, kết hợp nền tảng trung gian chất thải công nghiệp, hệ thống chứng nhận nguyên liệu tuần hoàn và quản lý chuỗi cung ứng xanh, tạo thành mạng lưới cộng sinh ở cấp khu công nghiệp.
 
-## Chính sách và biện pháp thúc đẩy
+## Chính sách và biện pháp thúc đẩy của chính phủ
 
-### Kế hoạch quốc gia
+### Kế hoạch quan trọng ở cấp quốc gia
 
-**Kế hoạch khuyến khích giảm thiểu và tái chế nguồn lực (2021–2024)**:
+**Từ "Kế hoạch Thúc đẩy Tái chế và Tái sử dụng Tài nguyên" đến "Kế hoạch Giảm thiểu, Thu hồi và Tuần hoàn Tài nguyên"**: Kế hoạch "Thúc đẩy Tái chế và Tái sử dụng Tài nguyên (2008–2010)" của Chính phủ nhà nước năm 2018 chia thành bốn giai đoạn theo vòng đời sản phẩm: sản xuất, tiêu thụ, thu hồi, tuần hoàn, bao gồm thúc đẩy thiết kế sản phẩm dễ tuần hoàn, khuyến khích kết nối chuỗi cung ứng, tạo ra mô hình tiêu dùng xanh và thúc đẩy mua sắm xanh của chính phủ[^11]。 Kế hoạch "Giảm thiểu, Thu hồi và Tuần hoàn Tài nguyên (2012–2016)" bắt đầu từ năm 2023, tập trung vào ba nhiệm vụ[^6]：
 
-**Năm chiến lược chính**:
+1. Sửa đổi Luật Thúc đẩy Tuần hoàn Tài nguyên và Luật Xử lý Chất thải — hai "luật tuần hoàn"
+2. Rà soát tài nguyên chiến lược và then chốt của Đài Loan, thúc đẩy sử dụng nội địa tuần hoàn
+3. Xây dựng thương hiệu xanh cho Đài Loan: thiết lập cơ chế quản lý nguyên liệu tái chế, áp dụng truy xuất số cho sản phẩm
 
-1. Hoàn thiện dữ liệu nền tảng vật liệu
-2. Thúc đẩy thiết kế sản phẩm dễ tái chế
-3. Thúc đẩy hợp tác sinh trùng chuỗi cung ứng
-4. Tạo mô hình tiêu dùng xanh
-5. Thúc đẩy mua hàng xanh của chính phủ
+**Kết quả có thể kiểm chứng**: Năm 2024, lượng rác thải được thu hồi và quy đổi thành nguyên liệu đạt 154 triệu kg, tỷ lệ thu hồi chất thải thường ngày đạt 58,55%, tổng giá trị mua sắm xanh của chính phủ vượt 89,1 tỷ đồng[^4][^11]。
 
-**Mục tiêu cụ thể**:
+### Đổi mới pháp lý
 
-- Tỷ lệ tái chế rác thải công nghiệp đạt 82%[^4]
-- Tỷ lệ tái chế rác thải thông thường đạt 65%[^4]
-- Giá trị kinh tế tuần hoàn đạt 1,8 nghìn tỷ đồng TWD (mục tiêu kế hoạch 2021–2024)[^2]
+Trách nhiệm sản xuất kéo dài buộc các nhà sản xuất chịu trách nhiệm thu hồi toàn bộ vòng đời sản phẩm, đưa chi phí xử lý vào giá thành nội bộ, và đưa vào cân nhắc thiết kế ban đầu. Hệ thống mua sắm xanh giúp chính phủ dẫn dắt việc mua sắm sản phẩm bảo vệ môi trường, kết hợp khuyến khích doanh nghiệp tư nhân và thúc đẩy nhãn hiệu bảo vệ môi trường tạo ra sức mua thị trường. Chính sách hạn chế nhựa bắt nguồn từ kiểm soát tại nguồn các sản phẩm nhựa một lần sử dụng, khuyến khích sản phẩm thay thế có thể tái sử dụng và áp dụng mức phí sử dụng túi nhựa.
 
-### Đổi mới hệ thống pháp lý
+### Hỗ trợ nghiên cứu phát triển công nghệ
 
-Nguyên tắc gánh trách nhiệm mở rộng cho người sản xuất khiến các nhà sản xuất chịu trách nhiệm tái chế toàn bộ vòng đời sản phẩm, tích hợp chi phí xử lý vào thiết kế, thúc đẩy sản phẩm được thiết kế có tính năng tái chế. Hệ thống mua hàng xanh của chính phủ giúp đưa ra tiêu chuẩn mua sản phẩm thân thiện môi trường, kết hợp với phần thưởng doanh nghiệp và chứng nhận thương hiệu môi trường tạo ra lực kéo thị trường. Chính sách hạn chế nhựa từ nguồn giảm sử dụng vật liệu nhựa một lần, khuyến khích sản phẩm thay thế có thể tái sử dụng và thực hiện trả phí cho túi nhựa.
+Chính phúc qua hợp tác giữa doanh nghiệp và viện nghiên cứu thúc đẩy R&D công nghệ kinh tế tuần hoàn, xây dựng môi trường thử nghiệm và đào tạo nhân lực; bên ngoài, tham gia các tổ chức kinh tế tuần hoàn quốc tế, tham gia soạn thảo tiêu chuẩn công nghệ và chia sẻ thực tiễn tốt nhất của Đài Loan.
 
-### Hỗ trợ nghiên cứu và phát triển công nghệ
+## Tham gia và nhận thức bảo vệ môi trường của người dân
 
-Chính phủ thông qua hợp tác giữa doanh nghiệp, trường đại học và viện nghiên cứu thúc đẩy nghiên cứu và phát triển công nghệ kinh tế tuần hoàn, xây dựng các khu dự phòng và đào tạo nhân lực; đối ngoại tham gia các tổ chức kinh tế tuần hoàn quốc tế, đầu tư vào tiêu chuẩn công nghệ và chia sẻ các bài tốt nhất thực tiễn.
+### Thực hành trong cuộc sống hàng ngày
 
-## Sự tham gia và nhận thức môi trường của người dân
+Thực hành bảo vệ môi trường hàng ngày của người dân bao phủ ba khía cạnh: văn hóa phân loại rác (thói quen phân loại chi tiết, rửa sạch tài nguyên thu hồi, hợp tác với lịch thu hẹn định kỳ) đã được đi sâu vào cuộc sống; tinh thần tiết kiệm và yêu quý đồ vật thúc đẩy sửa chữa và tái sử dụng, nền tảng thương mại đồ dùng cũ lên cao và tham gia nền kinh tế chia sẻ; lựa chọn tiêu dùng bảo vệ môi trường được thể hiện qua việc ưu tiên mua sản phẩm xanh, giảm thiểu đồ bao bì quá mức và hỗ trợ sản xuất địa phương.
 
-### Thực hành trong đờn sống
+### Kết quả giáo dục và truyền thông
 
-Thực hành môi trường hàng ngày của người dân Đài Loan bao gồm ba khía cạnh: Văn hóa phân loại rác thải (thói quen phân loại chi tiết, rửa sạch vật liệu tái chế, hợp tác thu gom định kỳ) đã sâu sắc vào đờn sống; Tinh thần khen thỏ, yêu mến vật dụng kéo dài tuổi thọ đồ vật, nền tảng giao dịch thứ cấp phát triển và tham gia kinh tế chia sẻ; Lựa chọn tiêu dùng xanh phản ánh trong việc ưu tiên mua sản phẩm thân thiện môi trường, giảm bao bọc quá mức, hỗ trợ sản phẩm địa phương.
+Ở cấp trường, môn giáo dục môi trường được tích hợp vào giảng dạy, thúc đẩy hoạt động thu hồi tài nguyên trên khuôn viên trường học, và nuôi dưỡng thế hệ trẻ nhận thức bảo vệ môi trường. Ở cấp cộng đồng, thiết lập trạm thu hồi tài nguyên khu phố, tổ chức ngày làm sạch và tạo đội ngũ tình nguyện viên bảo vệ môi trường. Truyền thông giáo dục giúp lan tỏa nhận thức bảo vệ môi trường, thúc đẩy sự ủng hộ chính sách, và hiệu quả thay đổi hành vi đã được minh chứng cụ thể.
 
-### Kết quả của giáo dục và truyền thông
+## Vị thế quốc tế và thành tích
 
-Ở bên trường học, các khóa học môi trường được hòa nhập vào chương trình giảng dạy, thúc đẩy tái chế trong trường học, nuôi dưỡng chiến binh môi trường; ở cấp cộng đồng, lắp đặt trạm tái chế bên lề phường, tổ chức ngày dọn dẹp cộng đồng, xây dựng tình nguyện viên môi trường. Truyền thông giúp lan tỏa nhận thức môi trường, tăng cường sự hỗ trợ chính sách, thay đổi hành vi có hiệu quả thực tế.
+### Chỉ số xuất sắc toàn cầu
 
-## Vị thế và thành tựu quốc tế
-
-### Các chỉ số thế giới
-
-Tỷ lệ tái chế nguồn lực của Đài Loan dao động khoảng 56% (theo thống kê Bộ Môi Trường, chênh lệch các chỉ số thống kê ảnh hưởng đến con số)[^5], mức xử lý rác thải gần bằng các quốc gia tiên tiến châu Âu. Về xuất khẩu công nghệ, các công nghệ xử lý bằng cách nung, thiết bị phân loại và hệ thống quản lý đã tạo thành lợi thế mềm xuất khẩu. Chứng nhận hệ thống quản lý môi trường ISO 14001, các ví dụ tốt nhất kinh tế tuần hoàn, thực hiện các mục tiêu phát triển bền vững của Liên hợp quốc, là các vị trí cụ thể của Đài Loan trong lĩnh vực kinh tế tuần hoàn quốc tế.
+Tỷ lệ thu hồi chất thải thường ngày của Đài Loan năm 2024 là 58,55%[^4] (chất thải doanh nghiệp có bộ tính toán riêng, hai bộ không thể cộng lại)[^5]。 Mức độ quản lý chất thải của Đài Loan tương đương với các nước phát triển tiên tiến ở châu Âu. Trong lĩnh vực xuất khẩu công nghệ, công nghệ đốt chất thải, sản xuất thiết bị phân loại và tư vấn quản lý hệ thống đã hình thành nguồn lực mềm cụ thể. Hệ thống quản lý môi trường ISO 14001, trường hợp thực hành tốt nhất về kinh tế tuần hoàn, và thực hành Mục tiêu phát triển bền vững của Liên Hợp Quốc, đều là những tọa độ cụ thể của Đài Loan trên sân chơi kinh tế tuần hoàn quốc tế.
 
 ### Hợp tác khu vực và ảnh hưởng
 
-Đài Loan tham gia nhóm làm việc kinh tế tuần hoàn APEC, xuất khẩu công nghệ sang Đông Nam Á, và tham gia vào việc xây dựng tiêu chuẩn khu vực. Các hội thảo quốc tế, trao đổi công nghệ và tư vấn thiết kế hệ thống, khiến mô hình kinh tế tuần hoàn của Đài Loan trở thành mẫu tham khảo có thể sao chép ở khu vực Á Pacific.
+Đài Loan thông qua nền tảng khu vực như APEC trao đổi kinh nghiệm kinh tế tuần hoàn, xuất khẩu công nghệ cho Đông Nam Á. Hội thảo quốc tế, tham quan trao đổi kỹ thuật và tư vấn thiết kế hệ thống, giúp mô hình kinh tế tuần hoàn của Đài Loan trở thành mẫu tham khảo có thể sao chép ở khu vực Thái Bình Dương.
 
-## Thách thức và phát triển tương lai
+## Thách thức và triển vọng phát triển
 
-### Thách thức hiện tại
+### Những thách thức hiện tại
 
-Thách thức về công nghệ tập trung vào việc tách rời vật liệu hỗn hợp, xử lý bụi mịt và đơn giản hóa rác thải điện tử; về kinh tế, đối mặt với chi phí tăng lên, khả năng cạnh tranh của nguyên liệu tái chế và biến động giá nguyên liệu quốc tế. Về xã hội, sự tham gia của người dân giảm tính mạnh mẽ, ý muốn hợp tác của doanh nghiệp khác nhau, và thiếu hụt phối hợp giữa các bộ ngành là những rào cản chính đối với sự phát triển sâu hơn của hệ thống.
+Thách thức về công nghệ tập trung vào việc tách các vật liệu hỗn hợp, xử lý ô nhiễm nhựa vi mô và phức tạp hóa chất thải điện tử; về kinh tế, phải đối mặt với chi phí thu hồi tăng lên, khả năng cạnh tranh của nguyên liệu tái chế và biến động giá nguyên liệu quốc tế; về xã hội, sự tham gia của người dân suy kiệt, thái độ hợp tác của doanh nghiệp chênh lệch, và thiếu hụt phối hợp liên bộ là những cản trở chính cho sự sâu hơn của hệ thống.
 
-### Hướng phát triển tương lai
+### Hướng phát triển trong tương lai
 
-Về công nghệ, tập trung vào phân loại thông minh bằng trí tuệ nhân tạo, công nghệ tái chế hoá học và quản lý theo dõi sống động; về hệ thống, thúc đẩy hoàn thiện khung pháp lý, điều chỉnh các kích thích và tăng cường giám sát; trong khi đó, ở phương thức quốc tế, tập trung vào việc gia nhập mạng lưới kinh tế tuần hoàn toàn cầu, quản lý chuỗi cung ứng quốc tế và hội nhập vào hệ thống giao dịch carbon.
+Đổi mới công nghệ dựa trên AI phân loại thông minh, công nghệ tái chế hóa học và quản lý truy xuất số; ở cấp độ cơ chế, cải thiện khung pháp lý, điều chỉnh cơ chế khuyến khích và củng cố quản lý giám sát; ở cấp quốc tế, tích cực tham gia mạng lưới kinh tế tuần hoàn toàn cầu, quản lý chuỗi cung ứng xuyên quốc gia và tích hợp cơ chế thương mại carbon.
 
-### Mục tiêu tương lai năm 2030
+### Tầm nhìn mục tiêu năm 2030
 
-Các chỉ số lượt hóa của năm 2030 là tỷ lệ tái chế nguồn lực đạt 70%, giá trị kinh tế tuần hoàn đạt 2 nghìn tỷ đồng TWD[^2], giảm 20% lượng khí nhà kính, mục tiêu chất lượng là xây dựng xã hội hoàn thiện tuần hoàn, nuôi dưỡng nhân lực kinh tế tuần hoàn, trở thành trụ cột kinh tế tuần hoàn khu vực Á Pacific.
+Bộ Môi trường coi kinh tế tuần hoàn như một ngành công nghiệp để phát triển: theo báo cáo rà soát năm 2026, doanh thu công nghiệp kinh tế tuần hoàn của Đài Loan đạt khoảng 168,8 tỷ đồng, với hơn 100.000 người lao động, và chính phủ thông qua mua sắm xanh ưu tiên sử dụng sản phẩm đáp ứng nguyên tắc kinh tế tuần hoàn[^12]。 Mục tiêu chất lượng là xây dựng một xã hội tuần hoàn hoàn chỉnh, đào tạo nhân lực kinh tế tuần hoàn và trở thành trung tâm kinh tế tuần hoàn khu vực Thái Bình Dương.
 
 ## Kết luận
 
-Lịch sử phát triển kinh tế tuần hoàn của Đài Loan là một cuộc cách mạng từ "chiến dịch xử lý rác thải" đến "khung mô hình tuần hoàn". Qua hơn 30 năm, thông qua sự dẫn dắt của chính sách chính phủ, đổi mới công nghệ doanh nghiệp và sự tham gia rộng rãi của người dân, Đài Loan đã xây dựng một hệ thống tái chế nguồn lực cấp thế giới, không chỉ giải quyết vấn đề rác thải mà còn tạo ra giá trị kinh tế mới.
+Hành trình phát triển của nền kinh tế tuần hoàn tại Đài Loan là một câu chuyện biến đổi từ "cuộc chiến chất thải" sang "mẫu tuần hoàn". Trong hơn 30 năm, thông qua sự dẫn dắt của chính sách, đổi mới công nghệ của doanh nghiệp và sự tham gia rộng rãi của người dân, Đài Loan đã xây dựng hệ thống tuần hoàn tài nguyên hàng đầu thế giới, không chỉ giải quyết vấn đề chất thải mà còn tạo ra giá trị kinh tế mới.
 
-Đài Loan đi từ "chiến dịch xử lý rác thải" đến khi Cơ quan Vòng Luyến Nguồn Lực được thành lập, 30 năm tích lũy chính sách đã biến tỷ lệ tái chế nguồn lực từ hàng chục phần trăm lên 56%. Bài học cốt lõi của quá trình chuyển đổi là: Các kích thích hệ thống (tái chế bốn trong một) hiệu quả hơn việc giáo dục; nguyên tắc gánh trách nhiệm mở rộng cho người sản xuất khiến doanh nghiệp tích hợp chi phí tái chế vào giai đoạn thiết kế; trong khi xử lý bằng cách nung và tận dụng năng lượng cơ hội đã biến khoảng cách cuối cùng của rác thải thành tài sản năng lượng. Mục tiêu 2 nghìn tỷ đồng TWD về giá trị kinh tế tuần hoàn năm 2030, đánh giá khả năng chuyển đổi 30 năm tích lũy công nghệ thành mô hình doanh nghiệp xuất khẩu.
+Đài Loan đi từ "cuộc chiến chất thải" đến thành lập Cơ quan Tài nguyên Tuần hoàn, sau hơn 30 năm tích lũy chính sách, tỷ lệ thu hồi chất thải thường ngày tăng từ con số hàng chục phần trăm lên gần sáu phần mười. Bài học cốt lõi trong quá trình này là: cơ chế khuyến khích (hệ thống "bốn trong một") hiệu quả hơn là truyền thông; trách nhiệm sản xuất kéo dài giúp doanh nghiệp đưa chi phí thu hồi vào giai đoạn thiết kế; và công nghệ đốt chất thải phát điện biến "khoảng cách cuối cùng" thành tài sản năng lượng. Từ mức doanh thu 168,8 tỷ đồng đến mục tiêu "nghìn tỷ đồng" theo lời Bộ trưởng Bộ Môi trường[^12], thử thách là liệu Đài Loan có thể biến tích lũy công nghệ 30 năm thành một mô hình công nghiệp có thể xuất khẩu.
 
 ## Tài liệu tham khảo
 
-[^1]: [Cơ sở dữ liệu pháp luật quốc gia — Luật Tái Sử Dụng Nguồn Lực](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=O0050049) — Ban hành và thi hành ngày 3 tháng 7 năm 91 (năm 2002 theo lịch nhân năm).
+[^1]: [Cơ sở dữ liệu pháp lý quốc gia — Luật Tái chế và Tái sử dụng Tài nguyên](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=O0050049) — Ban hành và thi hành vào ngày 3 tháng 7 năm 2002.
 
-[^2]: [Nghị quyết Chính phủ — Kế hoạch khuyến khích giảm thiểu và tái chế nguồn lực (2021–2024)](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/18ef26a4-5d05-4fb3-963e-6b228e713576) — Xác nhận các mục tiêu kế hoạch 2021–2024 (giá trị kinh tế tuần hoàn 1,8 nghìn tỷ); mục tiêu tương lai năm 2030 (2 nghìn tỷ) là tài liệu khác.
+[^2]: [Chính phủ nhà nước — Kế hoạch Thúc đẩy Kinh tế Tuần hoàn](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/18ef26a4-5d05-4fb3-963e-6b228e713576) — Chính phủ nhà nước thông qua vào ngày 20 tháng 12 năm 2018, bốn chiến lược chính: nghiên cứu phát triển công nghệ tuần hoàn vật liệu đổi mới, khu thử nghiệm tuần hoàn mới, tiêu dùng và thương mại xanh, tích hợp nguồn lực và cộng sinh công nghiệp.
 
-[^3]: [Bộ Môi Trường — Cơ quan Vòng Luyến Nguồn Lực](https://www.reca.gov.tw/) — Các quy định, kế hoạch và số liệu thống kê liên quan đến kinh tế tuần hoàn.
+[^3]: [Chính phủ nhà nước — Giới thiệu quốc gia: Bảo vệ môi trường](https://www.ey.gov.tw/state/C2AE0169E229A561) — "Từ năm 1997, luật hóa và thúc đẩy trách nhiệm sản xuất kéo dài, và năm 1997 triển khai kế hoạch thu hồi tài nguyên 'bốn trong một'". "Ngày 22 tháng 8 năm 2023, Cục Bảo vệ Môi trường được nâng cấp thành Bộ Môi trường và thành lập 'Cơ quan Tài nguyên Tuần hoàn'".
 
-[^4]: [Nghị quyết Chính phủ — Giới thiệu chung về tình hình xử lý rác thải (2023)](https://www.ey.gov.tw/state/4AC21DC94B8E19A8/aea35f1b-0fe3-4ca9-8ab9-6579fd30a8f3) — Tình hình xử lý rác thải của Đài Loan.
+[^4]: [Bộ Môi trường — Báo cáo kết quả thực hiện nhiệm vụ năm 2023](https://service.moenv.gov.tw/File/Get/moenv/zh-tw/Sx8jLPJTKaug1KJ) — Mục tiêu tỷ lệ thu hồi chất thải thường ngày là 55,5%, kết quả thực tế là 58,55%; mục tiêu tỷ lệ tuần hoàn tro thải là 73%, kết quả thực tế là 83%. Toàn quốc có 28 cơ sở đốt chất thải (trong đó có 24 nhà máy đốt chất thải lớn), xử lý 6,81 triệu tấn/năm, sản xuất điện khoảng 340 triệu kWh. Từ cuối năm 2023, khởi động dự án nâng cấp 16 nhà máy đốt; "Kế hoạch Tương lai Mới — Tuần hoàn Tài nguyên (2011–2013)".
 
-[^5]: [Bộ Môi Trường — Báo cáo thống kê tỷ lệ tái chế nguồn lực khu vực Đài Loan (2020–2023)](https://www.reca.gov.tw/) — Số liệu thống kê tỷ lệ tái chế; sự chênh lệch các chỉ số thống kê (rác thải thông thường so với tổng rác thải công nghiệp) ảnh hưởng đến con số, con số chính thức trích dẫn là khoảng 56%.
+[^5]: [Cơ quan Tài nguyên Tuần hoàn, Bộ Môi trường — Báo cáo thường niên Tái chế và Tái sử dụng Tài nguyên](https://www.reca.gov.tw/) — Thống kê thu hồi tài nguyên hàng năm, các bộ tính toán khác nhau (chất thải thường ngày vs. chất thải doanh nghiệp) cho số liệu khác nhau.
 
-[^6]: [Bộ Kinh tế — Bản đề xuất kinh tế tuần hoàn (2019)](https://www.moea.gov.tw/) — Bối cảnh chính sách ngành kinh tế tuần hoàn.
+[^6]: [Chính phủ nhà nước — Kế hoạch Giảm thiểu, Thu hồi và Tuần hoàn Tài nguyên — Xây dựng xã hội tuần hoàn](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/002e2701-02a9-470d-bb05-57de58534c98) — Kế hoạch 2012–2016, ba chiến lược chính: sửa đổi hai "luật tuần hoàn", tích hợp tài nguyên then chốt và chiến lược của Đài Loan, xây dựng thương hiệu xanh cho Đài Loan.
 
-[^7]: [Viện Công nghệ Công nghiệp — Báo cáo nghiên cứu phát triển công nghệ và ứng dụng kinh tế tuần hoàn (2023)](https://www.itri.org.tw/) — Dữ liệu về ứng dụng công nghệ tuần hoàn.
+[^7]: [Viện Nghiên cứu Công nghệ Công nghiệp](https://www.itri.org.tw/) — Dữ liệu về công nghệ kinh tế tuần hoàn và ứng dụng công nghiệp.
 
-[^8]: [Bộ Môi Trường — Đánh giá hiệu quả hệ thống tái chế bốn trong một](https://www.reca.gov.tw/4in1rc) — Lịch sử và hiệu quả của hệ thống bốn trong một (trước khi Bộ Môi Trường được nâng cấp, đã được Cơ quan Vòng Luyến Nguồn Lực nhận).
+[^8]: [Cơ quan Tài nguyên Tuần hoàn, Bộ Môi trường — Kế hoạch Thu hồi Tài nguyên "Bốn trong một"](https://www.reca.gov.tw/4in1rc) — Lịch sử và hiệu quả của hệ thống "bốn trong một" (ban đầu do Cục Bảo vệ Môi trường quản lý, sau năm 2023 chuyển cho Cơ quan Tài nguyên Tuần hoàn).
+
+[^9]: [Cục Bảo vệ Môi trường, Thành phố Đài Bắc — Giới thiệu chính sách thuế rác theo túi](https://www.dep.gov.taipei/News_Content.aspx?n=9D5081C3BFCC977A&s=FB47A528846715AA) — Thành phố Đài Bắc áp dụng thuế rác theo túi từ ngày 1 tháng 7 năm 2001.
+
+[^10]: [Bộ Môi trường — Đối tượng, cách thức và ngày thực hiện chính sách hạn chế túi nhựa mua sắm](https://oaout.moenv.gov.tw/law/LawContent.aspx?id=GL006482) — Chính sách hạn chế túi nhựa mua sắm và dụng cụ ăn uống nhựa (bao gồm cả thuyền nhựa) được thi hành theo từng giai đoạn từ ngày 1 tháng 7 năm 2002.
+
+[^11]: [Chính phủ nhà nước — Thúc đẩy Kinh tế Tuần hoàn — Tạo ra lợi ích kinh tế và môi trường đôi bên thắng lợi](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/12c0a2b8-485d-49d7-ba9e-a9a10b82828e) — Kế hoạch Thúc đẩy Tái chế và Tái sử dụng Tài nguyên (2008–2010) tập trung vào bốn chiến lược: sản xuất, tiêu dùng, thu hồi, tuần hoàn. "Tỷ lệ thu hồi rác của Đài Loan hiện là 58%, xếp hạng thứ ba thế giới" (tháng 3 năm 2008).
+
+[^12]: [Báo cáo Kinh tế — Doanh thu kinh tế tuần hoàn của Đài Loan đạt 168,8 tỷ đồng, Phạm Kỵ Minh: Tăng khuyến khích mới là chìa khóa thúc đẩy phát triển ngành công nghiệp](https://money.udn.com/money/story/7307/9431219) — Ngày 9 tháng 4 năm 2026: "Doanh thu công nghiệp kinh tế tuần hoàn của Đài Loan đạt khoảng 168,8 tỷ đồng", với hơn 100.000 người lao động. Chính phủ thông qua mua sắm xanh ưu tiên sử dụng sản phẩm đáp ứng nguyên tắc kinh tế tuần hoàn.

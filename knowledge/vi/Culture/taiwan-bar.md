@@ -1,17 +1,17 @@
 ---
-title: 'Đài Loan Bá: Từ ước mơ hoạt hình của thằm bé lớp 7 đến phần sau của giáo dục số'
-description: 'Vào ngày 1 tháng 9 năm 2014, tập đầu tiên của "Lược sử hoạt hình Đài Loan" đã ra mắt, khiến sóng nhiệt lịch sử trên toàn Đài Loan bùng nổ với tiếng "chờ đèn" của con báo đen rượu. Từ sự nổi tiếng, nợ nần 2 triệu USD đến chuyển hóa thành "Học viện Great Catch", Đài Loan Bá đã dùng mười năm thời gian, trong khoảng trống giữa giải trí và giáo dục, tái định nghĩa ranh giới thương mại và chủ quyền văn hóa của "dịch thuật kiến thức".'
+title: 'Taiwan Bar: Từ giấc mơ hoạt hình của học sinh lớp bảy đến nửa sau của giáo dục số'
+description: 'Ngày 1 tháng 9 năm 2014, tập đầu tiên của 《Lịch sử Đài Loan bằng Hoạt hình》 được phát hành, gây bão lịch sử trên toàn đảo với một chú gấu đen say xỉn. Từ việc nổi tiếng chóng mặt đến nợ hai mươi triệu, Taiwan Bar đã định nghĩa lại ranh giới thương mại và chủ quyền văn hóa của "sự chuyển ngữ tri thức" trong mười năm qua, thông qua sự kết hợp giữa giải trí và giáo dục.'
 date: 2026-06-28
 category: 'Culture'
 tags:
   [
-    'Đài Loan Bá',
-    'dịch thuật kiến thức',
-    'Tiêu Ngọc Thân',
-    'Lại Chính Hào',
+    'Taiwan Bar',
+    'chuyển ngữ tri thức',
+    'Tiêu Vũ Thần (Xiao Yuchen)',
+    'Tạ Chính Hào (Xie Zhenghao)',
     'giáo dục số',
-    'quản lý IP',
-    'Học viện Great Catch',
+    'vận hành IP',
+    'Học viện Đại Trảo Châu',
   ]
 subcategory: '網路文化'
 author: 'Taiwan.md Contributors'
@@ -19,122 +19,123 @@ featured: false
 lastVerified: 2026-06-28
 lastHumanReview: false
 readingTime: 25
+curation: 'incubating'
 translatedFrom: 'Culture/台灣吧.md'
-sourceCommitSha: '69b3afd9'
+sourceCommitSha: '03b3aaae8'
 sourceContentHash: 'sha256:ea660a4477ab8648'
 sourceBodyHash: 'sha256:ab22f8e268664ba4'
-translatedAt: '2026-07-28T08:51:46+08:00'
+translatedAt: '2026-09-23T22:11:54+08:00'
 ---
 
-> **30 giây tóm tắt:**
-> Đài Loan Bá (Taiwan Bar) là người khởi xuất của nội dung "dịch thuật kiến thức" tại Đài Loan. Vào năm 2014, do Lại Chính Hào (DJ Hauer), Tiêu Ngọc Thân và các thành viên khác thành lập, tập đầu tiên "Lược sử hoạt hình Đài Loan" đạt được hơn một triệu lượt xem trong vòng một tháng, thành công chuyển hóa kiến thức lịch sử nhàm chán thành IP nổi tiếng. Tuy nhiên, đằng sau chất lượng cao của nội dung là áp lực tài chính nặng nề, công ty từng nợ đến 2 triệu USD. Cuộc thí nghiệm kéo dài mười năm cuối cùng đã thúc đẩy chuyển đổi chiến lược từ "công ty sản xuất video" sang "thương hiệu giáo dục số", thông qua "Beelu Chơi ở Đài Loan" và "Học viên Great Catch", cố gắng trở thành tia sáng của giáo dục kỹ thuật số ở châu Á.
+> **Tổng quan 30 giây:**
+> Taiwan Bar là người tiên phong trong nội dung "chuyển ngữ tri thức" của Đài Loan. Được thành lập vào năm 2014 bởi Tạ Chính Hào và Tiêu Vũ Thần, tác phẩm đầu tay 《Lịch sử Đài Loan bằng Hoạt hình》 đã đạt một triệu lượt xem chỉ trong một tháng, thành công biến lịch sử khô khan thành một IP nổi tiếng. Tuy nhiên, đằng sau nội dung chất lượng cao là áp lực tài chính nặng nề; công ty từng mắc nợ hai mươi triệu. Cuộc thử nghiệm kéo dài mười năm này cuối cùng đã dẫn đến sự chuyển đổi chiến lược từ "công ty sản xuất âm thanh/hình ảnh" thành "thương hiệu giáo dục số", và thông qua 《Chú Gấu Đen Uống Đài Loan》 và "Học viện Đại Trảo Châu", họ cố gắng trở thành ngọn hải đăng của giáo dục số châu Á.
 
-## Mở đầu lịch sử: Nỗi lo âu và niềm hứng thú phía sau tiếng "chờ đèn"
+## Khởi đầu lịch sử: Sự nhiệt huyết và lo âu đằng sau tiếng "Đợi đèn"
 
-Vào ngày 1 tháng 9 năm 2014, trong một phòng làm việc ở thành phố Hà Nội (Taiwan), bốn người trẻ trung bình dưới 30 tuổi đang hít thở nhịp độu theo dõi tiến trình tải lên của YouTube. Đó là một video hoạt hình mang tên "Bán giấy ăn tiền? Chính sách thuốc kéo thời kỳ Nhật Bản". Khi tiếng "chờ đèn" đặc trưng của video cuối cùng vang lên, họ không ngờ điều này, con gấu đen mang tên "Rượu" (Beelu), sẽ gây sốt trên toàn Đài Loan trong vòng một tháng tới, tạo nên kỳ vọng hơn một triệu lượt xem [^1].
+Ngày 1 tháng 9 năm 2014, trong một văn phòng tại Đài Bắc, bốn người trẻ tuổi, trung bình chưa đến 30 tuổi, đang nín thở theo dõi thanh tiến trình tải lên trên YouTube. Đó là một video hoạt hình có tên "Chính sách thuốc phiện thời Nhật trị: Bán ma túy kiếm tiền?". Khi âm thanh mang tính biểu tượng cuối cùng – tiếng "Đợi đèn" – vang lên, họ không ngờ rằng chú gấu đen Đài Loan tên là "Hắc Bỉ" (Beelu) này sẽ khuấy đảo toàn đảo trong tháng tiếp theo, tạo ra kỳ tích hơn một triệu lượt xem [^1].
 
-Đến thời điểm đó, đội ngũ sáng lập gồm Lại Chính Hào (DJ Hauer), Tiêu Ngọc Thân, Zhang Jiajia và Lin Chen — mỗi người mang theo chuyên môn riêng: sản xuất nhạc, giảng dạy lịch sử, thiết kế trực quan và sáng tạo hình ảnh — họ cùng đặt câu hỏi cốt lõi: **"Tại sao người Đài Loan lại thiếu hứng thú với lịch sử của chính mình?"** Câu trả lời của họ là: **Bởi vì chúng ta thiếu một phương tiện "khiến người ta muốn xem tiếp"**.
+Nhóm sáng lập ban đầu—Tạ Chính Hào (DJ Hauer), Tiêu Vũ Thần, Trương Giai Gia và Lâm Thần—với chuyên môn về sản xuất âm nhạc, giảng dạy lịch sử, thiết kế hình ảnh và sáng tạo video, đã cố gắng trả lời một câu hỏi cốt lõi: **"Tại sao người Đài Loan lại thờ ơ với lịch sử của chính mình?"** Câu trả lời của họ là: **Bởi vì chúng ta thiếu một phương tiện "khiến người ta muốn xem tiếp".**
 
 ```tw-stat
-100  triệu | Lượt xem tháng đầu của "Lược sử hoạt hình Đài Loan" | 2014
-4 người | Các thành viên đội ngũ sáng lập | Lại Chính Hào, Tiêu Ngọc Thân, Zhang Jiajia, Lin Chen
-300 triệu | Chi phí sản xuất video đơn lập "Mở hội chứng" | 2022
+1 Triệu | Lượt xem tháng tập đầu 《Lịch sử Đài Loan bằng Hoạt hình》 | 2014
+4 Người | Thành viên nhóm sáng lập | Tạ Chính Hào, Tiêu Vũ Thần, Trương Giai Gia, Lâm Thần
+3 Triệu | Chi phí sản xuất phim tài liệu đơn lẻ 《Mở hộp châu Á》 | 2022
 ```
 
-## Phân tích sâu về vũ trụ IP: Biểu tượng chuyển hóa văn hóa của Rượu và các loài nguyên thủy Đài Loan
+## Phân tích sâu vũ trụ IP: Tổ chức Bỉ Hạ và sự chuyển nghĩa văn hóa bản địa Đài Loan
 
-Thành công của Đài Loan Bá không chỉ nằm ở cách kể chuyện, mà còn ở việc chuyển hóa chính xác vai trò. Tiêu Ngọc Thân cho biết, Đài Loan Bá bắt đầu từ "nội dung", sau đó chuyển sang "quản lý vai trò" theo mô hình ngược lại [^2]. Họ xây dựng một hệ thống IP được gọi là "Tổ chức Rượu", gán các loài động vật nguyên thủy của Đài Loan với nhân vật hiện đại rõ nét.
+Thành công của Taiwan Bar không chỉ nằm ở cách kể chuyện, mà còn ở sự chuyển nghĩa nhân vật chính xác. Tiêu Vũ Thần chỉ ra rằng Taiwan Bar tuân theo mô hình ngược: bắt đầu từ "nội dung" rồi vươn sang "quản lý nhân vật" [^2]. Họ đã xây dựng một hệ thống IP được gọi là "Tổ chức Bỉ Hạ", gán cho các loài động vật bản địa Đài Loan những tính cách hiện đại rõ nét.
 
-### Vũ trụ vai trò và khung biểu tượng
+### Vũ trụ nhân vật và cấu trúc biểu tượng
 
-| Tên vai trò            | Động vật gốc          | Chức năng văn hóa và đặc điểm                                                                                                   |
-| :--------------------- | :-------------------- | :------------------------------------------------------------------------------------------------------------------------------ |
-| **Rượu (Beelu)**       | Gấu đen Đài Loan      | **Lịch sử và châm biếm**. Thích uống rượu, thành thục triết nhào nhoạn, là người phá vỡ quyền lực sách giáo.                    |
-| **Đất xanh (Braindy)** | Chim én thiên đường   | **Khoa học và logic**. Người quan sát kiên nhẫn, thường xuất hiện trong các vấn đề tranh cãi để cung cấp góc nhìn trung lập.    |
-| **Hồng hoa (Rose)**    | Cá voi hồng           | **Thẩm mỹ và cảm xúc**. Chịu trách nhiệm các series nghệ thuật và giáo dục tình dục, có trái tim nhạy cảm với người xem.        |
-| **Vàng sao (Shao)**    | Bò đá                 | **Kinh tế và trò chơi khống**. Đại diện cho sự cạnh tranh sinh tồn và logic kinh tế, thường xuất hiện trong các series kinh tế. |
-| **Hạt hạ (Lizi)**      | Phượng hoang Đài Loan | **Trẻ em và khám phá**. Được thiết kế dành cho trẻ từ 3-8 tuổi, đại diện cho tinh thần tò mò và tương lai.                      |
+| Tên nhân vật           | Động vật nguyên mẫu        | Chức năng văn hóa và đặc điểm                                                                                                             |
+| :--------------------- | :------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
+| **Hắc Bỉ (Beelu)**     | Gấu đen Đài Loan           | **Lịch sử và châm biếm**. Thích uống rượu, mọt sách kiến thức lạnh lùng, là nhân vật chuyên bình luận phá vỡ uy quyền của sách giáo khoa. |
+| **Lam Địa (Braindy)**  | Chim Trĩ Đế                | **Khoa học và logic**. Người quan sát điềm tĩnh, thường đưa ra góc nhìn trung lập trong các vấn đề gây tranh cãi.                         |
+| **Hồng Quê (Rose)**    | Cá hồi mỏ hồng hoa anh đào | **Mỹ học và cảm tính**. Chịu trách nhiệm cho dòng phim nghệ thuật và giáo dục giới tính, là nhân vật có mức độ đồng cảm cao.              |
+| **Hoàng Thiệu (Shao)** | Gấu đá                     | **Kinh tế và nhạy bén**. Đại diện cho sự cạnh tranh sinh tồn và logic thương mại, thường xuất hiện trong các series kinh tế học.          |
+| **Lật Tử (Lizi)**      | Dơi mũi nhỏ Đài Loan       | **Trẻ em và khám phá**. Được thiết kế riêng cho lứa tuổi 3-8, đại diện cho trí tò mò và tính tương lai.                                   |
 
-Những vai trò này không chỉ dành cho hàng hoá, mà còn mang sâu sắc ý thức xã hội. Ví dụ, câu chuyện nền tảng của Rượu đề cập đến việc gia đình bị xâm lược bởi lực lượng bóng tối, thực chất đó là thành ngữ cho hoàn cảnh của các loài cấp độ môi trường tại Đài Loan [^2].
+Những nhân vật này không chỉ nhằm mục đích sản phẩm phụ trợ mà còn mang ý nghĩa quan tâm xã hội sâu sắc. Ví dụ, cốt truyện của Hắc Bỉ có nhắc đến việc "gia đình từng bị thế lực hắc ám xâm chiếm", thực chất là một ẩn dụ cho tình trạng các loài động vật nguy cấp ở Đài Loan [^2].
 
-📝 **Ghi chú của người dẫn chương:** IP của Đài Loan Bá là một thí nghiệm "đồng điệu ngôn ngữ": vai trò là ngôi chứa, chứa đựng những kiến thức nặng nề mà đại chúng thường bị lọc ra.
+📝 **Ghi chú biên tập viên:** Việc vận hành IP của Taiwan Bar là một thí nghiệm về "sự cộng sinh ngữ nghĩa": nhân vật là chiếc bình chứa đựng những kiến thức nặng nề mà lẽ ra đã bị công chúng lọc bỏ.
 
-## Chiến lược tách biệt của các nhà sáng lập: Từ "Đài Loan Bá" đến "STR Network" - Sự hợp tác bổ trợ
+## Chiến lược phân luồng của người sáng lập: Từ "Taiwan Bar" đến "STR Network" bổ sung cho nhau
 
-Trên đường cong tăng trưởng của Đài Loan Bá, năm 2018 là một điểm chuyển quan trọng. Các nhà sáng lập Lại Chính Hào (DJ Hauer) và Tiêu Ngọc Thân đã thực hiện chiến lược tách biệt trên lối đi nội dung.
+Trong đường cong phát triển của Taiwan Bar, năm 2018 là một nút thắt quan trọng. Người sáng lập Tạ Chính Hào (DJ Hauer) và Tiêu Vũ Thần đã thực hiện sự phân luồng chiến lược trên con đường nội dung.
 
-Lại Chính Hào thành lập "STR Network" (Mạng lưới STR) vào năm 2018, chuyển đổi niềm đam mê hài hước chính trị và hài hước của mình thành các chương trình nổi tiếng như "Beorn Night Show" và "Lên đàn" [^4]. Logic của ông là "đi trước luồng tiếp" — thử nghiệm mô hình thương mại cực đoan nhằm xâm nhập ranh giới ngôn từ tại Đài Loan.
+Tạ Chính Hào thành lập "STR Network" vào năm 2018, chuyển hóa niềm đam mê của mình đối với hài kịch và châm biếm chính trị thành các chương trình mang tính hiện tượng như 《Bohn Night Show》 và 《Yánshàng》[^4]. Logic của ông là "lưu lượng dẫn đầu", cố gắng tấn công ranh giới ngôn luận Đài Loan bằng mô hình thương mại cực đoan.
 
-Còn Tiêu Ngọc Thân chọn làm giám đốc điều hành của Đài Loan Bá, chuyển tập trung vào "trồng sâu giáo dục". Sự tách biệt này không phải do mâu thuẫn lý tưởng, mà là tối ưu hoá phân bố tài nguyên: **Lại Chính Hào chịu trách nhiệm mở rộng thị trường giải trí, Tiêu Ngọc Thân chịu trách nhiệm củng cố nội dung giáo dục**.
+Trong khi đó, Tiêu Vũ Thần chọn đảm nhận vị trí giám đốc điều hành của Taiwan Bar, chuyển hướng sang "khai thác chiều sâu giáo dục". Sự phân luồng này không phải là bất đồng về ý tưởng, mà là một sự tối ưu hóa trong việc phân bổ nguồn lực: **Tạ Chính Hào chịu trách nhiệm mở rộng thị trường giải trí theo chiều ngang, còn Tiêu Vũ Thần chịu trách nhiệm củng cố chiều sâu nội dung giáo dục.**
 
 ```tw-versus
-STR Network (Mạng lưới STR) | Đài Loan Bá (Taiwan Bar)
-Đẩy mạnh luồng tiếp (Traffic-Driven) | Đẩy mạnh giá trị (Value-Driven)
-Hài hước chính trị, show hài, bán vé trực tiếp | Khóa học thông minh online, tài liệu giảng dạy 108 chương trình, sách truyện tranh
-Tác phẩm đại diện: "Beorn Night Show", "Lên đàn" | Tác phẩm đại diện: "Lược sử hoạt hình Đài Loan", "Beelu Chơi ở Đài Loan"
+STR Network | Taiwan Bar
+Định hướng bằng lưu lượng (Traffic-Driven) | Định hướng giá trị (Value-Driven)
+Chương trình châm biếm chính trị, hài kịch, vé trực tiếp | Khóa học năng lực trực tuyến, tài liệu theo giáo trình 108, sách tranh
+Tác phẩm tiêu biểu: 《Bohn Night Show》, 《Yánshàng》 | Tác phẩm tiêu biểu: 《Lịch sử Đài Loan bằng Hoạt hình》, 《Chú Gấu Đen Uống Đài Loan》
 ```
 
-## Bài học từ khoản nợ 2 triệu USD: Đường cong kinh hoả chuyển từ sản xuất video đến giáo dục
+## Bài học từ khoản nợ hai mươi triệu: Hành trình đầy nguy hiểm từ sản xuất video đến chuyển đổi giáo dục
 
-Sau khi nổi tiếng, Đài Loan Bá đón nhận thực tế tài chính khắc nghiệt. Chi phí sản xuất hoạt hình chất lượng cao dao độu hàng ngàn USD mỗi phút, nhưng doanh thu quảng cáo YouTube chỉ đủ trả thù lao dưới 10% chi phí. Lại Chính Hào từng nói: "Người trẻ đơn giản là chết đi, ngoài không ngủ thì chúng ta không có gì cả" [^5].
+Sau khi nổi tiếng, Taiwan Bar phải đối mặt với thực tế tài chính vô cùng khắc nghiệt. Chi phí sản xuất một bộ phim hoạt hình chất lượng cao lên tới hàng vạn Đài tệ mỗi phút, nhưng doanh thu quảng cáo của YouTube chỉ đủ trang trải chưa đến 10% chi phí. Tạ Chính Hào từng thẳng thắn nói: "Tuổi trẻ là số phận tồi tệ, ngoài việc không ngủ thì chúng tôi chẳng có gì" [^5].
 
-Trước năm 2019, nợ nặng của Đài Loan Bá đạt đến 2 triệu USD. Cuộc khủng hoảng này thúc đẩy Đài Loan Bá tiến hành chuyển đổi quan trọng nhất: **chuyển từ một "công ty có lượng xem mạng" thành một "thương hiệu giáo dục số sâu nhỏ**.
+Khoảng năm 2019, Taiwan Bar đã mắc nợ lên tới hai mươi triệu Đài tệ. Cuộc khủng hoảng này đã thúc đẩy sự chuyển đổi quan trọng nhất của Taiwan Bar: **từ một "công ty sản xuất có tiếng vang trên mạng", chuyển thành một "thương hiệu giáo dục chuyên sâu về học tập số".**
 
-### Học viện Great Catch: Tái định nghĩa giáo dục thông minh
+### Học viện Đại Trảo Châu: Định nghĩa lại giáo dục năng lực
 
-Đài Loan Bá thành lập "Học viên Great Catch" (Great Catch Academy), chuyển trọng tâm từ tỷ lệ lượt xem sang "giá trị học viên". Họ không còn đối đầu một mình, mà hợp tác với các bộ ngành (như Bộ Nhân quyền, Bộ Hải đảo) để kết hợp sâu với chương trình giáo dục 108 chương trình [^14].
+Taiwan Bar đã thành lập "Học viện Đại Trảo Châu" (Great Catch Academy), chuyển trọng tâm từ lượt xem sang "giá trị người học". Họ không còn hoạt động đơn độc mà hợp tác với các bộ ngành (như Bảo tàng Nhân quyền, Ủy ban Hải quan) để kết hợp nội dung với giáo trình 108 [^14].
 
 ```tw-bars
-Sản xuất video/hoạt động kinh doanh (2014-2018) | 70 | Tỷ lệ doanh thu %
-Giáo dục số/tài liệu (2024) | 85 | Tỷ lệ doanh thu %
-Nguồn dữ liệu: Số liệu chuyển đổi 10 năm của Đài Loan Bá
+Sản xuất video/Kinh doanh (2014-2018) | 70 | Tỷ lệ doanh thu %
+Giáo dục số/Tài liệu (2024) | 85 | Tỷ lệ doanh thu %
+Nguồn dữ liệu: Dữ liệu chuyển đổi thập niên của Taiwan Bar
 ```
 
-## Thách thức tầm nhìn quốc tế: Từ "tập trung vào Đài Loan" đến "tập trung vào châu Á"
+## Thách thức tầm nhìn quốc tế: Từ "lấy Đài Loan làm trung tâm" đến "lấy châu Á làm trung tâm"
 
-Năm 2022, Đài Loan Bá ra mắt video documentary bằng tiếng Anh "Mở hội chứng That's So Asian", chi phí sản xuất một tập đạt 3 triệu USD [^14]. Tiêu Ngọc Thân trong dự án này đề xuất một quan điểm ngược lại: **"Chúng ta không nên luôn 'tập trung vào Đài Loan' mà cần suy nghĩ về vai trò của Đài Loan như một phần của châu Á, Đài Loan có thể mang lại gì cho châu Á?"** [^14].
+Vào năm 2022, Taiwan Bar đã ra mắt bộ phim tài liệu hoàn toàn bằng tiếng Anh 《Mở hộp châu Á That’s So Asian\*, với chi phí sản xuất một tập lên tới ba triệu Đài tệ [^14]. Trong dự án này, Tiêu Vũ Thần đã đưa ra một quan điểm phản trực giác: **"Chúng ta không nên luôn suy nghĩ 'lấy Đài Loan làm trung tâm', mà phải tự hỏi, với tư cách là một phần của châu Á, Đài Loan có thể mang lại gì cho châu Á?"** [^14].
 
-Dự án này đánh dấu sự mở rộng tầm nhìn của Đài Loan Bá từ lịch sử địa phương, xuống vào cuộc đối thoại quốc tế rộng lớn hơn, cố gắng tìm vị trí của Đài Loan trong các vấn đề chung của châu Á như văn hóa dậy sóng, xu hướng anime.
+Dự án này đánh dấu sự dịch chuyển tầm nhìn của Taiwan Bar từ lịch sử bản địa sang cuộc đối thoại quốc tế rộng lớn hơn, cố gắng tìm kiếm vị trí của Đài Loan trong các vấn đề chung mà châu Á đồng cảm như văn hóa học thêm hay xu hướng hoạt hình.
 
-## Sức ảnh hưởng xã hội và tranh cãi: Đi kéo dài giữa sự hấp dẫn và sự nghiêm túc
+## Ảnh hưởng xã hội và tranh cãi: Giằng co giữa sự thú vị và tính nghiêm túc
 
-Đài Loan Bá đồng thời nhận được các giải thưởng thiết kế Kim Pin (Golden Pin Design Award) và giải thưởng của YouTube Creators, nhưng cũng luôn đi kèm với sự kiểm chứng từ giới học thuật.
+Trong khi giành được Giải thưởng Thiết kế Kim Cương (Golden Pin Design Award) và giải thưởng nhà sáng tạo YouTube, Taiwan Bar cũng luôn phải đối mặt với sự xem xét của giới học thuật.
 
-1. **Tranh cãi về góc độ lịch sử**: Trước đây, các tác phẩm của họ bị chỉ trích vì xử lý vụ "nữ tình chiến tranh" và "người dân tộc nguyên thủy" một cách hờ hợt. Do đó, Đài Loan Bá trong "Lược sử hoạt hình mới" đã tăng cường bộ nâng ngựa và tự do sửa những nội dung sai lầm [^8].
-2. **Nỗi đau của việc thương mại hóa**: Vào cuối năm 2024, họ gỡ bỏ các tác phẩm cũ trên YouTube, chuyển thành trả phí. Dù gây ra phản ứng của một số người ủng hộ, nhưng cũng xác lập thống lục "nội dung chất lượng phải trả phí" trong ngành công nghiệp [^7].
+1. **Tranh cãi về quan điểm lịch sử**: Các tác phẩm ban đầu đã bị chỉ trích vì quá nhẹ nhàng khi xử lý các vấn đề "người phục vụ tình dục" và "người bản địa". Về vấn đề này, Taiwan Bar đã tăng cường đội ngũ cố vấn trong 《Lịch sử Đài Loan bằng Hoạt hình Mới》 và chủ động sửa chữa những nội dung sai sót [^8].
+2. **Nỗi đau của thương mại hóa**: Việc gỡ bỏ các tác phẩm cũ trên YouTube để chuyển sang trả phí vào năm 2024, mặc dù gây ra sự phản đối từ một số người ủng hộ, nhưng cũng đã thiết lập kỷ luật ngành rằng "nội dung chất lượng phải được tính phí" [^7].
 
-## Kết luận: Mười năm tới của tia sáng giáo dục số
+## Kết luận: Ngọn hải đăng số của thập niên tiếp theo
 
-Năm 2024, Đài Loan Bá kỷ niệm kỷ niệm mười năm thành lập. Từ tiếng "chờ đèn" đầu tiên cho đến khi học viên số đạt hơn 15.000 người trong học viện số, con đường của Đài Loan Bá chứng tỏ: **Trong thời đại ăn nhanh, nội dung sâu vẫn có chỗ đứng vững mạnh, miền chìm trong đó là sức mạnh của tinh thần linh hoạt**.
+Năm 2024, Taiwan Bar kỷ niệm mười năm thành lập. Từ tiếng "Đợi đèn" ban đầu cho đến Học viện số với hơn 15.000 học viên hiện tại, quỹ đạo của Taiwan Bar đã chứng minh: **Trong thời đại đồ ăn nhanh, nội dung chuyên sâu vẫn có không gian để tồn tại, với điều kiện nó phải có dũng khí tiến hóa.**
 
-Họ không chỉ đang kể câu chuyện về Đài Loan, mà còn đang xây dựng một con đường dẫn đến tương lai cho thế hệ sau của Đài Loan.
+Họ không chỉ kể câu chuyện về Đài Loan, mà còn đang xây dựng một con đường tri thức dẫn đến tương lai cho thế hệ trẻ của Đài Loan.
 
-## Tham khảo
+## Tài liệu tham khảo
 
-[^1]: [Đài Loan Bá - Wikipedia, bách khoa toàn thư tự do](https://zh.wikipedia.org/zh-hant/%E8%87%BA%E7%81%A3%E5%90%A7) — Bài viết Wikipedia
+[^1]: [Wikipedia Taiwan Bar](https://zh.wikipedia.org/zh-hant/%E8%87%BA%E7%81%A3%E5%90%A7) — Mục từ Wikipedia
 
-[^2]: [【Chiến lược kinh doanh IP 2】Nhìn thấy tiềm năng của các vai trò IP Đài Loan Bá thiết lập bộ phận độc lập kinh doanh](https://www.mirrormedia.mg/story/20210423insight002) — Xem chi tiết nguồn gốc
+[^2]: [【Nghệ thuật vận hành cấp phép 2】Nhìn thấy tiềm năng IP, Taiwan Bar thành lập bộ phận độc lập để quản lý](https://www.mirrormedia.mg/story/20210423insight002) — Xem tài liệu bổ sung trong liên kết gốc
 
-[^3]: [Video "Khách khách khách bàn": Hành trình chuyển hóa văn hóa của Rượu](https://www.youtube.com/watch?v=QNmjeaEKbck) — Video YouTube ghi lại
+[^3]: [《Khách sạn Khách khách》: Hành trình chuyển nghĩa văn hóa của Bỉ Hiệp](https://www.youtube.com/watch?v=QNmjeaEKbck) — Video YouTube
 
-[^4]: [Lại Chính Hào (DJ Hauer) - Giới thiệu cá nhân và nền tảng thành lập STR Network](https://zh.wikipedia.org/zh-hant/%E8%AC%9D%E6%94%BF%E8%B1%AA) — Bài viết Wikipedia
+[^4]: [Giới thiệu cá nhân Tạ Chính Hào (DJ Hauer) và bối cảnh thành lập STR Network](https://zh.wikipedia.org/zh-hant/%E8%AC%9D%E6%94%BF%E8%B1%AA) — Mục từ Wikipedia
 
-[^5]: [Nhà sáng lập Đài Loan Bá Lại Chính Hào: Người trẻ đơn giản là chết đi, ngoài không ngủ thì chúng ta không có gì cả - Người trẻ tương lai](https://becomingaces.com/article/87) — Xem chi tiết nguồn gốc
+[^5]: [Người sáng lập Taiwan Bar Tạ Chính Hào: Tuổi trẻ là số phận tồi tệ, ngoài việc không ngủ thì chúng tôi chẳng có gì - Nhân vật lớn tương lai](https://becomingaces.com/article/87) — Xem tài liệu bổ sung trong liên kết gốc
 
-[^6]: [Từ dịch thuật kiến thức đến giáo dục số: Hành trình mười năm của Đài Loan Bá | Tiêu Ngọc Thân](https://www.gfc.org.tw/project-news/8235) — Xem chi tiết nguồn gốc
+[^6]: [Từ chuyển ngữ tri thức đến giáo dục số: Hành trình mười năm của Taiwan Bar | Tiêu Vũ Thần](https://www.gfc.org.tw/project-news/8235) — Xem tài liệu bổ sung trong liên kết gốc
 
-[^7]: [Tại sao các chương trình "Thần độc" phải gỡ bỏ? - Thông cáo chính thức của trang fan nổi tiếng của Đài Loan Bá](https://www.facebook.com/taiwanbarstudio/posts/975836940773895/) — Bài đăng công khai trên Facebook
+[^7]: [Tại sao chương trình thần chủ phải gỡ bỏ? - Tuyên bố trang fan chính thức của Taiwan Bar](https://www.facebook.com/taiwanbarstudio/posts/975836940773895/) — Bài đăng công khai trên Facebook
 
-[^8]: [Lược sử hoạt hình mới: Quyền lực hay người tị vị? Bối cảnh đa vũ trụ của người đồng quốc gia sau chiến tranh tại Đài Loan](https://www.youtube.com/watch?v=7RFoMOvfirk) — Video YouTube ghi lại
+[^8]: [Lịch sử Đài Loan bằng Hoạt hình Mới: Quý tộc hay người tị nạn? Đa vũ trụ người Hoa hải ngoại sau chiến tranh](https://www.youtube.com/watch?v=7RFoMOvfirk) — Video YouTube
 
-[^9]: [Tập 78 S8 - Giám đốc điều hành của Đài Loan Bá | Tiêu Ngọc Thân: Học được gì sau mười năm khởi nghiệp](https://podcasts.apple.com/us/podcast/s8ep78-%E8%87%BA%E7%81%A3%E5%90%A7%E5%9F%B7%E8%A1%8C%E9%95%B7-%E8%95%AD%E5%AE%87%E8%BE%B0-%E5%89%B5%E6%A5%AD%E5%8D%81%E5%B9%B4%E5%AD%B8%E5%88%B0-%E5%A6%82%E6%9E%9C%E6%88%91%E4%B8%8D%E6%8C%81%E7%BA%8C%E6%88%90%E9%95%B7-%E5%85%AC%E5%8F%B8%E7%9A%84%E5%A4%A9%E8%8A%B1%E6%9D%BF%E5%B0%B1%E5%9C%A8%E6%88%91%E6%AD%A6%E6%AD%A5%E8%99%95%E4%BA%86/id1192212072?i=1000673555028) — Xem chi tiết nguồn gốc
+[^9]: [Giám đốc điều hành Taiwan Bar S8EP78 | Tiêu Vũ Thần: Học được gì sau mười năm khởi nghiệp](https://podcasts.apple.com/us/podcast/s8ep78-%E8%87%BA%E7%81%A3%E5%90%A7%E5%9F%B7%E8%A1%8C%E9%95%B7-%E8%95%AD%E5%AE%87%E8%BE%B0-%E5%89%B5%E6%A5%AD%E5%8D%81%E5%B9%B4%E5%AD%B8%E5%88%B0-%E5%A6%82%E6%9E%9C%E6%88%91%E4%B8%8D%E6%8C%81%E7%BA%8C%E6%88%90%E9%95%B7-%E5%85%AC%E5%8F%B8%E7%9A%84%E5%A4%A9%E8%8A%B1%E6%9D%BF%E5%B0%B1%E5%9C%A8%E6%88%91%E6%AD%A2%E6%AD%A5%E8%99%95%E4%BA%86/id1192212072?i=1000673555028) — Xem tài liệu bổ sung trong liên kết gốc
 
-[^10]: [Sau mười năm khởi nghiệp "Đài Loan Bá" - Tiêu Ngọc Thân: Đối mặt với thách thức mới - Du khách kỹ thuật số](https://digitalnomad.press/zh-tw/article/219) — Xem chi tiết nguồn gốc
+[^10]: [Người đồng sáng lập "Taiwan Bar" sau mười năm khởi nghiệp Tiêu Vũ Thần: Đối mặt với thách thức mới - Du mục số](https://digitalnomad.press/zh-tw/article/219) — Xem tài liệu bổ sung trong liên kết gốc
 
-[^11]: [Thưởng ngoài kiến thức! Phỏng vấn độc quyền với Tiêu Ngọc Thân, người sáng lập cùng của Đài Loan Bá](https://www.kmfa.gov.tw/ArtAccrediting/ArtArticleDetail.aspx?Cond=6fa267a6-ee16-47a9-8495-955e60b0789d) — Xem chi tiết nguồn gốc
+[^11]: [Một quán bia chuyển ngữ tri thức! Phỏng vấn người đồng sáng lập Taiwan Bar Tiêu Vũ Thần](https://www.kmfa.gov.tw/ArtAccrediting/ArtArticleDetail.aspx?Cond=6fa267a6-ee16-47a9-8495-955e60b0789d) — Xem tài liệu bổ sung trong liên kết gốc
 
-[^12]: [Học viên Great Catch: Dạy trẻ em cảm thấy cá rất ngon trong giáo dục thực hành](https://school.taiwanbar.cc/) — Xem chi tiết nguồn gốc
+[^12]: [Học viện Đại Trảo Châu: Thí nghiệm giáo dục khiến trẻ em cảm thấy cá ngon](https://school.taiwanbar.cc/) — Xem tài liệu bổ sung trong liên kết gốc
 
-[^13]: [Đài Loan cần một thương hiệu trẻ em tiêu chuẩn quốc tế - Kế hoạch gây quỹ "Beelu Chơi ở Đài Loan"](https://taiwanbar.cc/kids/beeru-kids-playing-taiwan/) — Xem chi tiết nguồn gốc
+[^13]: [Đài Loan cần một thương hiệu quốc tế - Dự án gây quỹ Chú Gấu Đen Uống Đài Loan](https://taiwanbar.cc/kids/beeru-kids-playing-taiwan/) — Xem tài liệu bổ sung trong liên kết gốc
 
-[^14]: [Phá vỡ tư tưởng "tập trung vào Đài Loan"! Phỏng vấn độc quyền với Tiêu Ngọc Thân, người sáng lập của Đài Loan Bá - Đổi mới ngày mới](https://crossing.cw.com.tw/article/18383) — Xem chi tiết nguồn gốc
+[^14]: [Phá vỡ tư duy "lấy Đài Loan làm trung tâm"! Phỏng vấn người sáng lập Taiwan Bar Tiêu Vũ Thần - Nhật tuyến thay đổi](https://crossing.cw.com.tw/article/18383) — Xem tài liệu bổ sung trong liên kết gốc
