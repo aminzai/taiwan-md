@@ -1,6 +1,7 @@
 ---
 title: 'Chen Tzu-jian (Retina) — Bâtir une tour de satire sur les ruines des médias officiels, puis la démolir soi-même au sommet'
 description: "De l'inspiration née en regardant le *Xinwen Lianbo* de CCTV lors d'un voyage de propagande à Fujian, à son arrivée à 23 ans comme plus jeune présentateur du journal de midi de la CTS, jusqu'à l'arrêt volontaire de sa chaîne comptant 1,21 million d'abonnés, Chen Tzu-jian, sous le nom de « Retina », a mené pendant huit ans une entreprise de déconstruction déautoritaire. Après 2023, il se tourne vers les programmes jeunesse de la PTS, présentant *Hello! Puis-je poser une question ?* (nominé aux 50e Golden Bell Awards) et *Cheng Ren High School Detective Club* S1 et S2 (nominé aux 60e Golden Bell Awards dans la catégorie programme jeunesse). À partir de 2026, il vit un an à Tokyo avec son chien Yuzu, tout en partageant sur IG et sa chaîne YouTube personnelle des « Retina News » et son quotidien de personne allergique à la coriandre."
+date: 2026-04-20
 category: 'People'
 tags:
   [
@@ -16,16 +17,18 @@ tags:
     'Hello! Puis-je poser une question ?',
     'Séjour à Tokyo',
   ]
-lastHumanReview: true
-translatedFrom: 'People/陳子見.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:b4ed377dcae75954'
-sourceBodyHash: 'sha256:5225e3163bb10fe2'
-translatedAt: '2026-05-01T22:19:06+08:00'
+subcategory: '數位與媒體'
 author: 'Taiwan.md'
-date: 2026-04-20
 featured: false
 lastVerified: 2026-01-01
+lastHumanReview: true
+summary: '台灣網路創作者、新聞主播、節目主持人。1994年5月8日生於南投縣水里鄉，畢業於南投縣立水里國民中學、國立大里高級中學、國立彰化師範大學國文系。自小夢想當主播。2015年與動眼神經等人創立《眼球中央電視台》，模仿央視官話嘲諷中華民國法統荒謬走紅。2018年3月5日至12月31日任華視午間新聞主播（23歲最年輕紀錄）。2023年5月31日在121萬訂閱、累計超過3億點閱巔峰停更。後主持公視《哈囉！你給問嗎？》（第59屆金鐘生活風格主持人入圍）、小公視《成仁高中偵探社》S1（2024-2025）與S2（2025年起，金鐘60少年節目入圍）。2026年3月點外送寫35行「不要香菜」備註爆紅；4月起帶愛犬柚子旅居東京一年。'
+coverImage: ''
+translatedFrom: 'People/陳子見.md'
+sourceCommitSha: '7255b3ab1'
+sourceContentHash: 'sha256:eb27407b6e235169'
+sourceBodyHash: 'sha256:0faeef3fdda7a842'
+translatedAt: '2026-09-23T02:47:48.034835+00:00'
 ---
 
 ## Aperçu en 30 secondes
@@ -64,23 +67,21 @@ Dans la vidéo d'adieu et les entretiens ultérieurs, Chen Tzu-jian et la produc
 
 Par ailleurs, durant le mouvement #MeToo qui a secoué Taïwan en 2023, il a été harcelé sexuellement par une employée : celle-ci le prenait fréquemment dans ses bras de force (y compris un « câlin en s'agenouillant » lors d'un voyage d'équipe en 2021), répandait des rumeurs de relation amoureuse à l'extérieur, vantait ses compétences professionnelles et inventait divers scénarios intimes (caisses sur la cuisse, jalousie, regards suggestifs, esprits d'anciens, etc.), le plongeant dans une situation insupportable. Après l'arrêt de la chaîne, il révèle lui-même ces faits pour se protéger. Il a aussi indiqué avoir été contacté deux fois par des investisseurs chinois (dont une offre de 750 000 yuans pour racheter la page du fan club, avec l'intention de transférer le contenu sur Douyin/TikTok), mais les deux avoir refusées, estimant qu'« une seule collaboration commerciale vaut plus que ce montant » et n'ayant aucun désir de vendre. Mettre fin à la chaîne était le prix à payer pour retrouver son corps vivant et ressentir à nouveau la chaleur de la vie.[^6]
 
-## Transition et vie personnelle après l'arrêt
+## Réorientation et vie personnelle après la suspension de la diffusion
 
-Après l'arrêt, Chen Tzu-jian se tourne rapidement vers la télévision traditionnelle et les formats courts personnels. À partir d'octobre 2023, il co-anime _Hello! Puis-je poser une question ?_ sur la PTS avec Li Pei-yu (Da Pei), et est nominé dans la catégorie animateur de style de vie aux 59e Golden Bell Awards pour cette émission. D'août 2024 à janvier 2025, il présente _Cheng Ren High School Detective Club_, la première émission immersive de résolution d'énigmes en réalité de la PTS Jeunesse. À partir de novembre 2025, il lance la saison S2 (relookée en « battle royale de déduction » avec élimination, intégrant à chaque épisode des éléments d'escape game et de murder game, abordant des thèmes scolaires tels que le harcèlement sexuel par abus de pouvoir, la drogue et la hiérarchie entre anciens et nouveaux ; avec la participation de Zhu You-cheng, Hu Sheng-ming, Li Yi-long et d'autres talents, il anime en tant que « Senior Jian »). Le 17 octobre 2025, il monte sur le tapis rouge des 60e Golden Bell Awards avec son équipe, et _Cheng Ren High School Detective Club_ est nominé dans la catégorie programme jeunesse.[^8]
+Après avoir mis fin à la chaîne, Chen Tzu-jian s'est rapidement tourné vers la télévision traditionnelle et les courts métrages personnels. À compter d'octobre 2023, il co-anime avec Li Pei-yu (Da Pei) l'émission _Halal ! C'est vous qui demandez ?_ sur Taïwan Public Radio, et cette émission a été nommée pour le prix du meilleur animateur lifestyle aux 59e récompenses Golden Bell. De août 2024 à janvier 2025, il anime le premier programme d'énigmes immersif de petite télévision de Taïwan, _Détectives de l'école Chengyi_, et depuis novembre 2025, il lance la saison 2 (réinventé en _Survie de l'investigation_, format élimination, intégrant des éléments d'évasion en salle blanche et de jeu de rôle, abordant des thèmes tels que les abus de pouvoir sexuels, la drogue et les hiérarchies entre aînés et juniors ; il invite des vedettes comme Zhu You-cheng, Hu Sheng-ming et Li Yi-long, et anime sous le pseudonyme _Jeune élève_). Le 17 octobre 2025, il mène son équipe sur le tapis rouge des 60e récompenses Golden Bell, et _Détectives de l'école Chengyi_ est nommé pour le prix du meilleur programme pour jeunes. [^8]
 
-À partir du 12 juillet 2024, il lance sur Instagram « News Scene », un format d'actualité monté dans le style des sous-titres de JT japonais, souvent accompagné de placements de produit. Le 29 septembre 2025, il lance également « Retina News », un format de vidéos verticales courtes. Il gère en parallèle sa chaîne YouTube personnelle « Retina & Yuzu Daily », consacrée au partage du quotidien de son chien Yuzu (une shiba femelle, ancienne présidente d'honneur du Parti de l'Impossibilité Joyeuse) et de son aversion extrême pour la coriandre. En mars 2026, il devient viral en rédigant 35 lignes de notes « pas de coriandre » lors d'une commande de nouilles à emporter, réussissant à faire réagir le restaurateur qui répond « enquête en cours », perpétuant ainsi son symbole culturel. En avril 2026, il s'installe à Tokyo pour un an avec Yuzu, partageant des moments du quotidien comme la tour de Tokyo et les promenades sous les cerisiers en fleurs, déclarant avec émotion : « J'ai enfin réalisé un rêve ».[^7]
+À compter du 12 juillet 2024, il lance _Sur le terrain des actualités_ sur Instagram, montant des actualités en style sous-titrage japonais, souvent accompagné de publicités sponsorisées ; le 29 septembre 2025, il lance une nouvelle série courte verticale _Retina News_. Parallèlement, il gère sa chaîne YouTube personnelle _La vie quotidienne de Retina et de l'orange_, partageant la vie quotidienne de son chien Yuzu (chien chinois femelle, anciennement présidente honoraire du parti _Fête inutile_) et son attitude extrémiste anti-coriandre. En mars 2026, lorsqu'il commande des noodles de chou par livraison, il écrit 35 lignes _Sans coriandre_ dans les remarques, attirant ainsi le commentaire du gérant _Enquête en cours_, prolongeant ainsi son symbole culturel. À partir d'avril 2026, il emmène Yuzu s'installer à Tokyo pour un an, partageant des moments comme la tour de Tokyo et les promenades sous les cerisiers en fleurs, exprimant émotionnellement _Enfin, un rêve réalisé_. [^7]
 
-En novembre 2024, lors d'un forum intergénérationnel, il déclare être lassé du contenu d'actualité : « À moins d'avoir une idée amusante, je n'ai pas envie d'en faire », estimant les chances de reprise à court terme faibles, et avoir recentré son travail sur la télévision et les formats courts personnels. Il ajoute en plaisantant qu'il aimerait beaucoup collaborer avec Tang Qi-yang.[^8]
-
----
-
-**Pour aller plus loin**
-
-- [八炯](八炯.md) — De créateur pro-taïwanais à dénonciateur de la chaîne de propagande chinoise sur YouTube, un autre chemin pour intégrer la résistance dans sa marque personnelle
-- [阿滴](阿滴.md) — L'expérience de rayonnement international d'un créateur bilingue aux millions d'abonnés, formant un miroir avec Retina : « communication extérieure en anglais vs satire en mandarin »
-- [張志祺](張志祺.md) — Animateur de _Zhi Qi Qi Qi_, une autre approche de la manière dont les créateurs numériques de sa génération transforment les sujets de société en émissions
+En novembre 2024, lors d'un forum intergénérationnel, il déclare être fatigué par les contenus d'actualité, disant _À moins d'avoir une idée amusante, je ne veux pas faire ça_, la probabilité de reprendre rapidement est faible, et son attention se tourne désormais vers la télévision et les courts métrages personnels ; il plaisante aussi en disant qu'il aimerait beaucoup collaborer avec Tang Chi-yang. [^8]
 
 ---
+
+**Lecture complémentaire**
+
+- [BaCiong](/fr/people/pa-chiung-political-youtuber) — Du YouTuber taïwanais à la chaîne de influenceurs révélant l'opinion publique chinoise, une autre voie pour intégrer la résistance dans sa marque personnelle
+- [A-Di](/fr/people/ray-du-english-youtuber) — Expérimentation internationale d'un YouTuber bilingue à un million d'abonnés, reflétant le contraste _Déclaration en anglais vs Satire en chinois_ avec Retina
+- [Zhang Zhi-qi](/fr/people/shasha77-chang-chih-chi) — Présentateur de Zhang Zhi-qi, une autre façon dont les créateurs numériques de la même génération transforment les sujets en émissions
 
 ## Références
 
@@ -98,4 +99,4 @@ En novembre 2024, lors d'un forum intergénérationnel, il déclare être lassé
 
 [^7]: [〔Tsai Ing-wen rencontre Retina : la guerre de la coriandre et le marketing politique numérique〕](https://news.ltn.com.tw/news/politics/breakingnews/3430000) — _Liberty Times_, 11 février 2021 ; informations sur le chien Yuzu dans la chaîne YouTube personnelle « Retina & Yuzu Daily » et lors de plusieurs apparitions sur le tapis rouge des Golden Bell Awards ; les 35 lignes de notes sur la coriandre dans [〔Toujours de la coriandre par erreur... Retina rédige des « 35 lignes de notes ultra-longues » et réussit enfin à faire réagir le patron〕](https://tw.news.yahoo.com/%E8%80%81%E6%98%AF%E8%AA%A4%E6%94%BE%E9%A6%99%E8%8F%9C-%E8%A6%96%E7%B6%B2%E8%86%9C%E7%A5%AD-35%E8%A1%8C%E8%B6%85%E9%95%B7%E5%82%99%E8%A8%BB-%E7%B5%82%E6%96%BC%E6%88%90%E5%8A%9F-%E9%87%A3%E5%87%BA%E8%80%81%E9%97%86%E7%95%99%E8%A8%80-031600218.html), 25 mars 2026 ; séjour à Tokyo dans [〔Retina s'installe à Tokyo pendant un an avec son chien Yuzu ! Déclaration émue : j'ai enfin réalisé un rêve〕](https://tw.news.yahoo.com/%E8%A6%96%E7%B6%B2%E8%86%9C%E5%B8%B6%E6%84%9B%E7%8A%AC%E6%9F%9A%E5%AD%90%E6%97%85%E5%B1%85%E6%9D%B1%E4%BA%AC1%E5%B9%B4-%E6%84%9F%E6%80%A7%E5%96%8A-%E7%B5%82%E6%96%BC%E5%9C%93%E4%BA%86-%E5%80%8B%E5%A4%A2-032555268.html), 1er avril 2026 ; voir aussi les reportages du 26 mars 2026 de _Mirror Weekly_ et _NextApple_.
 
-[^8]: [@retina_anchorman — compte Instagram officiel](https://www.instagram.com/retina_anchorman/) ; chaîne YouTube « Retina & Yuzu Daily » ; actualités de transition 2024-2025 également dans le podcast _Tang Yang Chicken Wine House_ de 2025 et les reportages liés aux 60e Golden Bell Awards ; probabilité de reprise dans [〔Retina révèle personnellement les chances de résurrection d'Eyeball, plus d'un an après l'arrêt〕](https://hk.news.yahoo.com/%E8%A6%96%E7%B6%B2%E8%86%9C%E8%A6%AA%E6%8F%AD%E5%BE%A9%E6%B4%BB%E5%8F%AF%E8%83%BD%E6%80%A7-%E7%9C%BC%E7%90%83-%E5%81%9C%E6%92%AD1%E5%B9%B4%E5%A4%9A-072948136.html), NOWnews, 26 novembre 2024 ; détails de la saison S2 de _Cheng Ren High School Detective Club_ dans le communiqué de presse de la PTS du 31 octobre 2025 et le reportage de la CNA du 17 octobre 2025.
+[^8]: [@retina_anchorman — compte Instagram officiel](https://www.instagram.com/retina_anchorman/) — ; chaîne YouTube « Retina & Yuzu Daily » ; actualités de transition 2024-2025 également dans le podcast _Tang Yang Chicken Wine House_ de 2025 et les reportages liés aux 60e Golden Bell Awards ; probabilité de reprise dans [〔Retina révèle personnellement les chances de résurrection d'Eyeball, plus d'un an après l'arrêt〕](https://hk.news.yahoo.com/%E8%A6%96%E7%B6%B2%E8%86%9C%E8%A6%AA%E6%8F%AD%E5%BE%A9%E6%B4%BB%E5%8F%AF%E8%83%BD%E6%80%A7-%E7%9C%BC%E7%90%83-%E5%81%9C%E6%92%AD1%E5%B9%B4%E5%A4%9A-072948136.html), NOWnews, 26 novembre 2024 ; détails de la saison S2 de _Cheng Ren High School Detective Club_ dans le communiqué de presse de la PTS du 31 octobre 2025 et le reportage de la CNA du 17 octobre 2025

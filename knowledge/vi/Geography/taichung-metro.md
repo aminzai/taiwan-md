@@ -18,23 +18,23 @@ rationale:
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'Geography/台中捷運.md'
-sourceCommitSha: '65acd39dc'
-sourceContentHash: 'sha256:930e1cf08d9847c7'
-sourceBodyHash: 'sha256:ac8494ae079b5eb8'
-translatedAt: '2026-09-15T19:45:27+08:00'
+sourceCommitSha: 'd9ef16d5e'
+sourceContentHash: 'sha256:9851afbe3b082508'
+sourceBodyHash: 'sha256:9e4ce2561244c6a9'
+translatedAt: '2026-09-23T02:11:56.993662+00:00'
 ---
 
-> **Tóm tắt 30 giây:** Vào năm 2020, tuyến MRT Xanh đầu tiên của Đài Trung đã ngừng hoạt động thử nghiệm sau 6 ngày do sự cố khớp nối và chỉ chính thức khai trương vào năm sau. Tuyến đường trên cao dài 16,7 km này kết nối Bắc Thôn, Văn Tâm Lộ và Ga Cao tốc Đài Trung, đưa một thành phố vốn phụ thuộc lâu dài vào xe buýt, xe máy và ô tô bước vào kỷ nguyên của hệ thống đường sắt đòi hỏi phải thảo luận về khả năng chuyển tuyến, an toàn và đi bộ. Điều nó thực sự thay đổi không chỉ là việc mọi người lên tàu từ đâu, mà là cách Đài Trung bắt đầu định nghĩa lại khoảng cách của mình bằng khái niệm "ga tiếp theo".
+> **30 giây tổng quan:** Năm 2020, tuyến MRT đầu tiên của Đài Trung — Tuyến Xanh — ngừng chạy ngay ngày thứ 6 của giai đoạn thử vận hành do hỏng bộ liên kết, đến năm sau mới chính thức khai trương. Đoạn cao架 dài 16,7 km này nối Bắc Tuân, đường Văn Tâm và Ga Cao Tốc Đài Trung, đưa một thành phố lâu nay chỉ dựa vào xe buýt, xe máy và ô tô bước vào kỷ nguyên đường sắt buộc phải đối mặt với vấn đề chuyển tuyến, an toàn và người đi bộ. Điều nó thực sự thay đổi không chỉ là nơi mọi người lên xe, mà là Đài Trung bắt đầu dùng khái niệm "ga tiếp theo" để hiểu lại khoảng cách của chính mình.
 
-Ngày 16 tháng 11 năm 2020, Lư Tú Yến công bố tuyến MRT Xanh của Đài Trung bắt đầu vận hành thử nghiệm; thành phố này lần đầu tiên có một hệ thống tàu điện ngầm riêng. Ngày hôm đó đã đón hơn 70.000 lượt khách, giống như một buổi "thử nếm" đô thị quy mô lớn, mọi người không chỉ đi lại bằng tàu mà còn đang xác nhận liệu Đài Trung có thể trở thành một thành phố vận hành bằng đường sắt hay không.[^1]
+Ngày 16 tháng 11 năm 2020, Lô Tú Yến (Lu Hsiu-yen) tuyên bố Tuyến Xanh MRT Đài Trung bắt đầu thử vận hành, lần đầu tiên thành phố này có MRT riêng. Ngày hôm đó hơn 70.000 lượt khách vào ga, như một buổi thử đồ ăn quy mô lớn cho toàn thành phố, mọi người không chỉ lên xe mà còn trong việc xác nhận Đài Trung có thực sự trở thành một thành phố di chuyển bằng đường sắt hay không.[^1]
 
-Sau 6 ngày, trục của khớp nối bán vĩnh cửu giữa các toa xe bị đứt, khiến toàn bộ 18 đoàn tàu phải ngừng hoạt động. Tuyến Xanh, ban đầu dự kiến chính thức khai trương vào cuối năm 2020, mãi đến ngày 25 tháng 4 năm sau mới tiếp tục chạy.[^2]
+6 ngày sau, trục tâm bộ liên kết bán vĩnh viễn giữa các toa tàu gãy, 18 đoàn tàu phải ngừng chạy toàn bộ. Tuyến Xanh dự định cuối năm 2020 khai trương chính thức, cho đến ngày 25 tháng 4 năm sau mới chạy lại.[^2]
 
-Điểm đáng nói nhất của tuyến này chính là nó đã không hoàn thành theo kịch bản nghi lễ. MRT Đài Trung không phải là một dấu chấm hết của câu chuyện "cuối cùng cũng có tàu điện ngầm", mà là một nơi có đường phố rất rộng, nhiều xe máy và sự phân tán đô thị, lần đầu tiên buộc phải đặt an toàn, khả năng chuyển tuyến và lòng tin lên cùng một bản đồ.
+Điều đáng ghi nhận nhất về tuyến này chính là nó không hoàn thành theo kịch bản lễ độ. MRT Đài Trung không phải là dấu chấm câu cho câu chuyện "cuối cùng cũng có MRT", mà là lần đầu tiên một nơi đường rộng, xe máy ô tô nhiều, thành phố phân tán, buộc phải đặt an toàn, chuyển tuyến và niềm tin lên cùng một bản đồ tuyến đường.
 
-![Tàu MRT Tuyến Xanh Đài Trung chạy trên đường ray trên cao](https://commons.wikimedia.org/wiki/Special:FilePath/Train_of_Taichung_MRT.jpg?width=1280)
+![Tàu MRT Tuyến Xanh Đài Trung chạy trên đường ray cao](https://commons.wikimedia.org/wiki/Special:FilePath/Train_of_Taichung_MRT.jpg?width=1280)
 
-_Hình: Tàu MRT Tuyến Xanh Đài Trung. Nhiếp ảnh: Cbliu. Nguồn hình ảnh: [Trang tệp Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Train_of_Taichung_MRT.jpg), sử dụng dữ liệu mở từ trang web của Văn phòng Tin tức Thành phố Đài Trung.[^3]_
+_Hình: Tàu MRT Tuyến Xanh Đài Trung. Nhiếp ảnh: Cbliu._ Nguồn hình: [Trang tệp Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Train_of_Taichung_MRT.jpg), theo giấy phép dữ liệu mở trang web chính phủ Cục Tin tức Thành phố Đài Trung, khi sử dụng phải ghi rõ nguồn.[^3]
 
 ## Một thành phố, bắt đầu từ "chưa có MRT"
 
@@ -66,32 +66,30 @@ Dòng thời gian của Thông tấn xã Trung ương đã ghi lại sự chậm
 
 Từ góc độ kỹ sư, bài học về tuyến này rất cụ thể. Thử nghiệm không phải là nghi thức trước khi khai trương, mà là công việc cần tiếp tục kiểm tra ngay cả sau khi khai trương. Từ góc độ hành khách, đó lại là một vấn đề khác: một tuyến có thể rất mới, nhưng không thể yêu cầu hành khách tự mình hoàn thành khâu xác minh cuối cùng cho nó.
 
-## Tuyến Xanh không chỉ kết nối hai đầu mút
+## Tuyến Xanh không chỉ nối hai đầu mút
 
-Tuyến Xanh dễ bị hiểu lầm là tuyến xe buýt kết nối "Bắc Thôn đến Cao tốc". Sự hiểu biết này không sai, nhưng quá hẹp. Nó đồng thời đặt khu dân cư Bắc Thôn, sự chuyển tuyến TRA Tùng Trúc, hoạt động thương mại trên Văn Tâm Lộ, trung tâm hành chính quanh thành phố và Ga Cao tốc Đài Trung vào cùng một hệ thống vé và khoảng cách tàu.
+Tuyến Xanh dễ bị hiểu nhất là tuyến "Bắc Tuấn đến ga Cao Tốc" (北屯到高鐵). Cái hiểu này không sai, nhưng quá hẹp. Nó đồng thời đưa khu dân cư Bắc Tuấn, điểm chuyển tuyến Đài Thiết Tùng Trúc, hoạt động thương mại trên đường Văn Tâm, hạt nhân hành chính quanh Thị chính, và ga Cao Tốc Đài Trung vào cùng một hệ thống vé và tần suất chuyến.
 
-Tuyến này cũng làm cho quy mô đô thị của Đài Trung trở nên hữu hình. Đường ray trên cao đi qua phía Tây khu vực trung tâm, các nhà ga và thang cuốn đưa con người từ mặt đất lên một độ cao khác. Những nơi trước đây chỉ kề nhau trên bản đồ, giờ đã có một đơn vị cụ thể là "ga tiếp theo". Thành phố không chỉ được mô tả bằng chiều dài đường sá, mà còn bằng thời gian chờ đợi giữa các nhà ga.
+Đường ray này cũng làm cho quy mô đô thị Đài Trung trở nên cảm nhận được. Đường ray cao tầng đi qua trên đường phố, ga tàu và thang máy đưa người từ mặt đường lên một độ cao khác. Những nơi thường chỉ liền kề nhau trên bản đồ, nay có đơn vị cụ thể là "ga tiếp theo". Thành phố không còn chỉ được mô tả bằng độ dài đường phố, mà còn bằng thời gian chờ giữa ga và ga.
 
-Railway Gazette chỉ ra rằng Tuyến Xanh đi vòng quanh phía Tây trung tâm thành phố và không phục vụ Ga Đài Tế (TRA) Đài Trung. Khoảng trống này khiến nó giống một bộ khung hơn là một mạng lưới hoàn chỉnh. Cục Kỹ thuật MRT Thành phố hiện đang đưa các tuyến tiếp theo như Tuyến Đại Khang, Chung Hóa, và các tuyến Xanh Lam, Cam, Tử, Đỏ vào tầm nhìn tổng thể của mạng lưới đường sắt.[^4] [^5]
+Railway Gazette chỉ ra, Tuyến Xanh vòng qua phía tây trung tâm thành phố, và không phục vụ ga Đài Thiết Đài Trung. Khoảng trống này khiến nó giống hơn là khung xương đầu tiên, chứ không phải mạng lưới hoàn chỉnh. Cục Kỹ thuật MRT Thành phố Đài Trung hiện đưa việc kéo dài Tuyến Xanh đến Đại Khê, Chương Hóa, cũng như Tuyến Lam, Tuyến Cam, Tuyến Tím, Tuyến Đỏ và các tuyến tiếp theo vào tầm nhìn tổng thể mạng lưới đường ray.[^4] [^5]
 
-![Tàu MRT Đài Trung tiến gần Ga Cao tốc Đài Trung](https://commons.wikimedia.org/wiki/Special:FilePath/2020-11-20_MRT_train_near_HSR_Taichung_Station_%28Taichung_Metro%29.jpg?width=1280)
+![Tàu MRT Đài Trung tiếp cận ga Cao Tốc Đài Trung](https://commons.wikimedia.org/wiki/Special:FilePath/2020-11-20_MRT_train_near_HSR_Taichung_Station_%28Taichung_Metro%29.jpg?width=1280)
 
-_Hình: Tàu MRT Đài Trung tiến gần Ga Cao tốc Đài Trung. Nhiếp ảnh: WC-QHS. Nguồn hình ảnh: Trang tệp Wikimedia Commons, sử dụng giấy phép CC BY-SA 2.0, cần ghi rõ tác giả và chia sẻ lại các tác phẩm phái sinh theo cách tương tự.[^9]_
-
-[Trang tệp Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2020-11-20_MRT_train_near_HSR_Taichung_Station_%28Taichung_Metro%29.jpg)
+_Ảnh: Tàu MRT Đài Trung tiếp cận ga Cao Tốc Đài Trung. Nhiếp ảnh: WC-QHS._ Nguồn ảnh: [Trang tệp Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2020-11-20_MRT_train_near_HSR_Taichung_Station_%28Taichung_Metro%29.jpg), cấp phép CC BY-SA 2.0, yêu cầu ghi nhận tác giả, giấy phép và chia sẻ tác phẩm phái sinh theo cùng cách.[^9]
 
 ```tw-timeline
-Tuyến Xanh Đài Trung không xuất hiện trong một đêm (Năm)
-1993 | Quy hoạch ban đầu | Hệ thống MRT đô thị Đài Trung bắt đầu được quy hoạch mang tính hệ thống
-2004 | Tuyến Xanh được phê duyệt | Tuyến Bắc Thôn Văn Tâm trở thành mạng lưới ban đầu
-2009 | Bắt đầu thi công | Tuyến Xanh chính thức bước vào giai đoạn xây dựng dài hạn
-2020 | Vận hành thử nghiệm | 18 nhà ga lần đầu mở cửa cho người dân sử dụng
-2021 | Chính thức khai trương | Sau khi bảo trì sự cố, tiếp tục vận hành chính thức
+Tuyến Xanh Đài Trung không phải xuất hiện trong một đêm (năm)
+1993 | Quy hoạch sơ bộ | Hệ thống MRT khu đô thị Đài Trung bắt đầu bước vào quy hoạch thể chế
+2004 | Tuyến Xanh được phê duyệt | Tuyến Vũ Nhật - Văn Tâm - Bắc Tuấn trở thành mạng lưới ban đầu
+2009 | Khởi công | Tuyến Xanh chính thức bước vào giai đoạn xây dựng kéo dài
+2020 | Thử vận hành | 18 ga tàu lần đầu mở cửa đón khách
+2021 | Chính thức khai trương | Sau kiểm sửa sự cố, thử vận hành lại và chính thức vận hành
 Nguồn: Cục Kỹ thuật MRT Thành phố Đài Trung, Công ty MRT Đài Trung, Thông tấn xã Trung ương
 ```
 
-> **📝 Ghi chú của Người biên tập**
-> Giá trị của tuyến đầu tiên không phải là nó đã kết nối xong Đài Trung, mà là nó khiến cho tuyến tiếp theo không chỉ là những đường màu sắc, mà là một lời hứa có thể được hành khách so sánh.
+> **📝 Ghi chú người biên soạn**
+> Giá trị của tuyến đầu tiên, không phải là nó đã nối xong Đài Trung, mà là nó khiến tuyến sau không còn chỉ là những đường kẻ màu, mà là lời hứa mà hành khách có thể so sánh.
 
 ## Ảnh hưởng của một tuyến MRT không chỉ nằm ở số lượng người lên tàu
 
@@ -101,20 +99,20 @@ Kết quả này khi đặt vào điều kiện giao thông của Đài Trung l�
 
 Nói cách khác, sự biến động giá nhà gần ga chỉ là một kết quả. Vấn đề quan trọng hơn là liệu các nhà ga có thực sự khiến người ta giảm đi một đoạn đường xe máy, giúp trẻ em tự đi bộ đến cổng ga, và mang lại nhiều lựa chọn hơn cho những người không lái xe ở Đài Trung hay không. Thành công của dự án giao thông không nên chỉ được đo bằng "xung quanh tăng giá bao nhiêu", mà còn phải hỏi "ai đã có thêm một phương thức tiếp cận nhờ nó".
 
-## Đô thị trên đỉnh ga, sinh hoạt dưới chân ga
+## Thành phố trên đầu ga, đời thường dưới chân ga
 
-Phần lớn các đoạn tuyến Xanh là dạng trên cao, điều này khiến nhà ga trở thành một lối vào đô thị theo chiều dọc. Hành khách trước tiên đi bộ từ mái hiên, giao lộ hoặc trạm xe buýt đến cấu trúc nhà ga, sau đó đi lên bằng thang cuốn và thang máy, cuối cùng mới đến sân ga. Hồ sơ của Otis chỉ ra rằng Tuyến Xanh có 18 nhà ga, trong quá trình thi công đã phải lắp đặt 117 chiếc thang cuốn tải nặng và 59 chiếc thang máy mà không làm gián đoạn lưu lượng xe cộ và người dân hàng ngày.[^6]
+Đa số đoạn đường của Tuyến Xanh áp dụng hình thức cao架, điều này khiến các ga trở thành một loại cổng vào thành phố theo chiều dọc. Hành khách trước tiên từ hành lang, ngã tư hoặc trạm xe buýt đi đến thân ga, sau đó dọc theo thang cuốn và thang máy lên cao, cuối cùng mới đến sân ga. Theo hồ sơ dự án của Otis, Tuyến Xanh共有 18 ga, thi công phải trong điều kiện không làm gián đoạn luồng xe và luồng người hàng ngày, lắp đặt 117 thang cuốn tải trọng lớn và 59 thang máy.[^6]
 
-![Sân ga Tuyến Xanh Thành phố Đài Trung](https://commons.wikimedia.org/wiki/Special:FilePath/Taichung_Metro_Taichung_City_Hall_Station_Green_Line_Platform.jpg?width=1280)
+![台中捷運市政府站綠線月台](https://commons.wikimedia.org/wiki/Special:FilePath/Taichung_Metro_Taichung_City_Hall_Station_Green_Line_Platform.jpg?width=1280)
 
-_Hình: Sân ga Tuyến Xanh Thành phố Đài Trung. Nhiếp ảnh: Cheng,Cheng-en, Người dùng Wikimedia Rail02000. Nguồn hình ảnh: [Trang tệp Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taichung_Metro_Taichung_City_Hall_Station_Green_Line_Platform.jpg), sử dụng giấy phép CC BY-SA 4.0, cần ghi rõ tác giả và chia sẻ lại các tác phẩm phái sinh theo cách tương tự.[^10]_
+_Ảnh: Sân ga Tuyến Xanh Ga Thành phố MRT Đài Trung. Chụp: Cheng,Cheng-en, người dùng Wikimedia Rail02000._ Nguồn ảnh: [Trang tệp Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taichung_Metro_Taichung_City_Hall_Station_Green_Line_Platform.jpg), cấp phép CC BY-SA 4.0, cần ghi tên tác giả, giấy phép và chia sẻ tác phẩm phái sinh theo cùng cách.[^10]
 
-Sự di chuyển theo chiều dọc này có cái giá của nó. Đối với người vội vã, khoảng cách đến cầu thang chính là chi phí chuyển tuyến. Đối với những người đẩy xe nôi, sử dụng xe lăn hoặc mang hành lý, việc tìm thấy thang máy có dễ dàng hay không là điều kiện tiên quyết để sử dụng MRT. Khả năng tiếp cận của MRT không bắt đầu sau khi tàu đến sân ga, mà đã được quyết định từ đoạn đường đầu tiên từ vỉa hè đến lối vào.
+Loại di chuyển dọc này có cái giá của nó. Đối với người vội vã, khoảng cách đến cửa thang chính là chi phí chuyển tuyến. Đối với người đẩy xe em bé, dùng xe lăn hoặc mang vali, việc thang máy có dễ tìm hay không là điều kiện tiên quyết để có thể dùng MRT. Khả năng tiếp cận của MRT không bắt đầu sau khi tàu đến sân ga, mà đã được quyết định từ đoạn đường đầu tiên từ vỉa hè đến cửa vào.
 
-Vì vậy, Tuyến Xanh Đài Trung cũng giống như một lời nhắc nhở được dựng lên trên thành phố: đường ray có thể vượt qua các khu dân cư, nhưng cuộc sống không thể bị treo lơ lửng. Vỉa hè xung quanh nhà ga, cơ sở che mưa, kết nối xe buýt và chiếu sáng ban đêm sẽ quyết định liệu một tuyến MRT trên cao là một sinh hoạt tiện lợi hay chỉ là một đường đẹp trên bản đồ.
+Tuyến Xanh Đài Trung vì thế cũng như một nhắc nhở được架 lên trên thành phố: đường ray có thể vượt qua các khu phố, nhưng cuộc sống không thể bị treo lơ lửng. Đường người đi bộ quanh ga, thiết bị che mưa, xe buýt kết nối và ánh sáng ban đêm, sẽ quyết định một tuyến MRT cao架究竟 là một ngày thường tiện lợi, hay chỉ là một đường nét đẹp trên bản đồ.
 
-> **📝 Ghi chú của Người biên tập**
-> MRT trên cao nâng tàu lên, nhưng không nâng hành khách khỏi mặt đất. Công trình đô thị thực sự vẫn diễn ra trên đoạn đường trước lối vào.
+> **📝 Ghi chú người biên soạn**
+> MRT cao架 nâng tàu lên cao, nhưng không nâng hành khách rời mặt đất. Kỹ thuật thành phố thực sự, vẫn diễn ra ở đoạn đường trước cửa vào đó.
 
 ## Cách nhà ga kết nối hai loại hình giao thông
 
@@ -153,21 +151,22 @@ Nhưng điều mà hành khách thực sự ghi nhớ có lẽ không phải là
 
 Ý nghĩa đô thị của MRT Đài Trung nằm trong những sự lặp lại không ngoạn mục này. Có người lần đầu tiên đi làm bằng tàu, có người đưa con đến Ga Cao tốc, có người không còn phải tìm chỗ đậu xe vì một sự kiện nào đó. Hệ thống đường sắt cố định đã biến tương lai của thành phố thành một hành động có thể lặp lại mỗi ngày. Khi nhà ga, sân ga, chuyển tuyến và đường phố được kết nối bởi cùng một chuyến đi, MRT mới thực sự trở thành cuộc sống đô thị chứ không chỉ là một thuật ngữ kỹ thuật.
 
-## Chuyển tuyến không phải bài tập phụ, mà là tuyến đường thứ hai của Tuyến Xanh
+## Chuyển tuyến không phải bài tập thêm, mà là đường ray thứ hai của Tuyến Xanh
 
-18 nhà ga của Tuyến Xanh sẽ không hoàn thành một hành trình một cách đơn lẻ. Đối với hầu hết hành khách, tuyến đường thực sự là từ nhà đến trạm xe buýt, từ trạm xe buýt đến lối vào MRT, từ sân ga đến điểm đến, và sau đó đi bộ vào văn phòng, trường học hoặc trung tâm thương mại từ nhà ga cuối cùng. Mỗi lần đổi chuyến đều có thể khiến người ta tính toán lại thời gian. Nếu một đoạn nào đó không có mái che, không có chỉ dẫn rõ ràng, hoặc thời gian chờ quá lâu, hành khách có thể quay trở lại chiếc xe máy quen thuộc.
+18 ga của Tuyến Xanh không thể tự hoàn thành một hành trình. Đối với đa số hành khách, hành trình thực sự là từ nhà đến trạm xe buýt, từ trạm xe buýt đến cửa vào tàu điện ngầm, từ bến tàu đến đích, rồi từ ga cuối cùng bước vào văn phòng, trường học hay trung tâm thương mại. Mỗi lần chuyển tiếp đều có thể khiến người ta phải tính toán lại thời gian. Nếu một đoạn nào thiếu che mưa, thiếu biển chỉ đường rõ ràng, hoặc thời gian chờ quá dài, hành khách có thể quay lại xe máy quen thuộc.
 
-Tầm quan trọng của Ga Tùng Trúc và Ga Cao tốc Đài Trung là chúng đã đưa Tuyến Xanh vào mạng lưới chuyển tuyến TRA, còn ga thứ hai thì đặt hệ thống đường sắt đô thị cùng với đường sắt cao tốc, xe buýt kết nối và di chuyển liên thành phố vào một lịch trình chung. Giá trị của các nút giao này không nằm ở quy mô của nhà ga, mà là liệu các phương tiện giao thông với tốc độ khác nhau có thể kết nối được trong cùng một chuyến đi hay không.[^1] [^4]
+Tầm quan trọng của ga Tùng Trúc và ga Cao Tốc Đài Trung chính nằm ở chỗ chúng khiến Tuyến Xanh không chỉ là một đường đơn lẻ giữa hai đầu. Ga trước đưa tàu điện ngầm vào mạng lưới chuyển tuyến của Đài Thiết, ga sau thì đặt đường ray đô thị, cao tốc đường sắt, xe buýt tiếp tuyến và di chuyển liên tỉnh trên cùng một bảng giờ. Giá trị của các nút giao thông này không nằm ở quy mô nhà ga, mà nằm ở việc các phương tiện giao thông tốc độ khác nhau có thể kết nối được với nhau trong một lần ra đi. [^1] [^4]
 
-Vấn đề tiếp theo của Tuyến Xanh Đài Trung không chỉ đơn giản là "còn phải xây bao nhiêu tuyến". Khi mạng lưới mở rộng, vé, khoảng cách tàu, khoảng cách chuyển tuyến và thiết kế thông tin đều phải phát triển cùng nhau. Nếu mỗi tuyến đều tiện lợi riêng lẻ, nhưng việc đổi tuyến lại quá xa, thành phố có thể nhận được nhiều lựa chọn hơn là một cuộc sống dễ tiếp cận hơn. Đây cũng là lý do tại sao thành phố đưa ra kế hoạch mở rộng Tuyến Xanh và các tuyến Xanh Lam, Cam, Tử, Đỏ vào mạng lưới tổng thể.[^4]
+Vấn đề tiếp theo của Tuyến Xanh Đài Trung do đó không đơn giản chỉ là "còn phải xây thêm bao nhiêu tuyến". Khi mạng lưới đường ray mở rộng, vé xe, khoảng cách giữa các chuyến, khoảng cách chuyển tuyến và thiết kế thông tin đều phải phát triển cùng một lúc. Nếu mỗi tuyến riêng lẻ đều tiện lợi nhưng khi chuyển tuyến phải đi rất xa, thành phố nhận được có thể chỉ là thêm lựa chọn, chứ không phải cuộc sống dễ tiếp cận hơn. Đó cũng là lý do chính quyền thành phố quy hoạch việc kéo dài Tuyến Xanh cùng với Tuyến Lam, Cam, Tím, Đỏ trong tổng thể mạng lưới đường ray. [^4]
 
-Từ góc độ quản lý kỹ thuật, chuyển tuyến vẫn là nơi tốt nhất để đo lường xem công trình công cộng có lấy người dùng làm trung tâm hay không. Tàu đúng giờ có thể được hệ thống ghi nhận, nhưng hành khách có sẵn lòng đi thêm một chuyến nữa hay không thì phải xem họ có thể an toàn băng qua giao lộ sau khi ra ga hay không, liệu họ có biết xe buýt tiếp theo đến từ đâu, và liệu họ có thể di chuyển mà không cần đi đường vòng khi mang hành lý hay không. Thành tích đô thị của Tuyến Xanh cuối cùng sẽ nằm ở những chi tiết này, thứ không xuất hiện trong ảnh cắt băng khánh thành.
+Từ góc độ quản lý công trình, chuyển tuyến vẫn là nơi rõ nhất để kiểm tra xem công trình công cộng có thực sự lấy người dùng làm trung tâm hay không. Sự chuẩn giờ của tàu có thể được chứng minh bằng ghi nhận hệ thống, nhưng việc hành khách có nguyện ý đi lại lần nữa thì phụ thuộc vào: sau khi ra ga có an toàn qua đường không, có biết chuyến xe buýt tiếp theo từ đâu đến không, và khi mang hành lý có thể không cần đi vòng không. Thành tích đô thị của Tuyến Xanh cuối cùng sẽ nằm ở những chi tiết không bao giờ xuất hiện trong ảnh cắt băng.
 
-![Lối vào/ra giữa Ga MRT Tùng Trúc và Ga TRA Tùng Trúc](https://commons.wikimedia.org/wiki/Special:FilePath/Entrance-exit_between_Taichung_Metro_Songzhu_Station_and_TRA_Songzhu_Station_02.jpg?width=1280)
+![Cửa ra vào giữa ga Tùng Trúc Tuyến Xanh và ga Tùng Trúc Đài Thiết](https://commons.wikimedia.org/wiki/Special:FilePath/Entrance-exit_between_Taichung_Metro_Songzhu_Station_and_TRA_Songzhu_Station_02.jpg?width=1280)
 
-_Hình: Lối vào/ra giữa Ga MRT Tùng Trúc và Ga TRA Tùng Trúc. Nhiếp ảnh: Tbatb. Nguồn hình ảnh: [Trang tệp Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Entrance-exit_between_Taichung_Metro_Songzhu_Station_and_TRA_Songzhu_Station_02.jpg), sử dụng giấy phép CC BY-SA 4.0, cần ghi rõ tác giả và chia sẻ lại các tác phẩm phái sinh theo cách tương tự.[^11]_
+_Hình: Cửa ra vào giữa ga Tùng Trúc Tuyến Xanh và ga Tùng Trúc Đài Thiết. Nhiếp ảnh: Tbatb._ Nguồn ảnh: [Trang tệp Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Entrance-exit_between_Taichung_Metro_Songzhu_Station_and_TRA_Songzhu_Station_02.jpg), cấp phép CC BY-SA 4.0, yêu cầu ghi nhận tác giả, giấy phép và chia sẻ tác phẩm phái sinh theo cùng cách. [^11]
 
-> Một tuyến MRT chỉ cần hai đầu mút trên bản đồ, nhưng để đi vào cuộc sống thì cần rất nhiều đoạn đường. Chuyển tuyến thực sự là thuyết phục những đoạn đường này trở thành một hành trình duy nhất.
+> **📝 Ghi chú người biên soạn**
+> Một tuyến tàu điện ngầm trên bản đồ chỉ cần hai đầu mút, nhưng để đi vào cuộc sống hàng ngày lại cần nhiều đoạn đường. Chuyển tuyến thực sự, là biến những đoạn đường đó thành một hành trình duy nhất.
 
 ## Sau Tuyến Xanh, Đài Trung còn phải trả lời gì?
 

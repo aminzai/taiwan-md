@@ -25,10 +25,10 @@ lastHumanReview: true
 summary: '台灣網路創作者、新聞主播、節目主持人。1994年5月8日生於南投縣水里鄉，畢業於南投縣立水里國民中學、國立大里高級中學、國立彰化師範大學國文系。自小夢想當主播。2015年與動眼神經等人創立《眼球中央電視台》，模仿央視官話嘲諷中華民國法統荒謬走紅。2018年3月5日至12月31日任華視午間新聞主播（23歲最年輕紀錄）。2023年5月31日在121萬訂閱、累計超過3億點閱巔峰停更。後主持公視《哈囉！你給問嗎？》（第59屆金鐘生活風格主持人入圍）、小公視《成仁高中偵探社》S1（2024-2025）與S2（2025年起，金鐘60少年節目入圍）。2026年3月點外送寫35行「不要香菜」備註爆紅；4月起帶愛犬柚子旅居東京一年。'
 coverImage: ''
 translatedFrom: 'People/陳子見.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:b4ed377dcae75954'
-sourceBodyHash: 'sha256:5225e3163bb10fe2'
-translatedAt: '2026-07-26T14:17:51+08:00'
+sourceCommitSha: '7255b3ab1'
+sourceContentHash: 'sha256:eb27407b6e235169'
+sourceBodyHash: 'sha256:0faeef3fdda7a842'
+translatedAt: '2026-09-23T02:51:56.674421+00:00'
 ---
 
 ## Tổng quan 30 giây

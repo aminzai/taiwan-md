@@ -24,10 +24,10 @@ imageCredit: 'SLP台北創業領導計畫'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://slptaipei.com/'
 translatedFrom: 'Economy/SLP台北創業領導計畫.md'
-sourceCommitSha: 'cc540a12b'
-sourceContentHash: 'sha256:2807864e36fcb52b'
-sourceBodyHash: 'sha256:dc6cccd48d2e9282'
-translatedAt: '2026-08-09T09:26:48+08:00'
+sourceCommitSha: '7255b3ab1'
+sourceContentHash: 'sha256:7724220e60173fa7'
+sourceBodyHash: 'sha256:e213a0f35315b401'
+translatedAt: '2026-09-23T03:18:18.960498+00:00'
 ---
 
 # Chương trình Lãnh đạo Khởi nghiệp SLP Đài Bắc: Khóa học bắt đầu từ 6.000 đô, tăng lên 58.000 nhưng vẫn một chỗ khó tìm
@@ -145,22 +145,22 @@ Bổ sung nhỏ này, đúng cách mở ra cảnh quan hỗ trợ khởi nghiệ
 >
 > Khi nhìn vào toàn cầu sẽ phát hiện ra một điều còn phản trực giác hơn. Chi nhánh Bangalore SLP Ấn Độ thành lập năm 2010, sớm hơn Đài Bắc hai năm, khóa học chỉ có bốn tháng, lệ phí khoảng NT$12,600, thấp hơn năm vạn tám của Đài Bắc hiện nay — nhưng trong danh sách học viên của nó có Skyroot Aerospace, một trong những công ty hàng không tư nhân dẫn đầu Ấn Độ[^29]. Chi nhánh có lệ phí thấp hơn, thời gian ngắn hơn, lại chạy ra trường hợp duy nhất đính thể nhất của toàn bộ mạng lưới. Điều này nói một điều: kết quả thực sự của loại chương trình này, từ không bao giờ được "dạy" bởi khóa học, là được nhóm người đó, nửa năm đó sàng lọc và thắp sáng. Giá cả cao, mua không được cái đó.
 
-## Kết Thúc: Không Dựa Vào Chính Phủ, Không Dựa Vào Cổ Phần, Làm Một Việc Kéo Dài
+## Lời kết: Làm một việc gì đó bền vững mà không phụ thuộc vào chính phủ hay vốn cổ phần
 
-Năm 2012, một nhóm những người tự thân cũng đang khởi nghiệp, tự tài chính, vô tư tổ chức một khóa học. Khóa đầu tiên lệ phí một lần sáu ngàn đô, tính ra mỗi giờ không đến một trăm đô.
+Năm 2012, một nhóm những người tự mình làm khởi nghiệp đã tổ chức một buổi học tại Đài Bắc bằng tiền túi và hoàn toàn miễn phí. Học phí cho khóa đầu tiên là sáu nghìn đồng (NTD), quy đổi ra thì chưa đến một trăm đồng mỗi giờ.
 
-Mười bốn năm sau, cùng một việc trở thành một cộng đồng được tổ chức hàng năm, hơn một trăm người tranh giành ba mươi chỗ, lệ phí gần sáu mươi vạn đô, năm 2023 còn chính thức được công bố thành một hiệp hội. Giá tăng lên gần mười lần, logic cốt lõi của việc tổ chức nhưng không hề động một chữ — những người khởi nghiệp giúp đỡ những người khởi nghiệp, lấy thời gian bạn chứ không lấy cổ phần bạn, mỗi đồng tiền viết "toàn bộ được sử dụng cho học viên".
+Mười bốn năm sau, sự kiện tương tự đã trở thành một cộng đồng được tổ chức hàng năm, nơi hơn một trăm người tranh giành ba mươi suất với học phí gần sáu vạn đồng. Năm 2023, nó còn chính thức đăng ký thành hiệp hội. Giá cả đã tăng gần gấp mười lần, nhưng logic cốt lõi của việc tổ chức thì không hề thay đổi dù chỉ một chữ—doanh nhân giúp doanh nhân, thu tiền thời gian chứ không đòi cổ phần, mỗi đồng tiền đều ghi rõ "toàn bộ dùng cho học viên".
 
-Nó từ không bao giờ lên báo quốc tế, cũng rất hiếm khi được báo chí bán chuyên tiếp cận chuyên biệt[^30], nó chỉ im lặng ở INSIDE, ở những họp mặt nhỏ khởi nghiệp, ở kênh YouTube riêng của nó mười ba người theo dõi, một khóa một khóa truyền xuống. Nói cùng cục, đây là một lát của sự tương trợ dân gian Đài Loan: khi không dựa vào hỗ trợ của chính phủ, không dựa vào thị trường vốn, một nhóm người làm sao dựa vào tình cảm, dựa vào một câu "đánh nhóm mới có cơ hội chiến thắng hơn", làm một cái nhỏ lớn, làm một cái lâu, làm thành một nơi mười bốn năm sau vẫn còn khó tìm được chỗ.
+Nó chưa bao giờ xuất hiện trên truyền thông quốc tế, và cũng hiếm khi được các tạp chí kinh doanh lớn như _Thiên Hạ_ đưa tin chuyên sâu [^30]; nó chỉ lặng lẽ lan tỏa qua INSIDE, qua các buổi gặp gỡ khởi nghiệp, và trên kênh YouTube của chính họ với mười ba người đăng ký. Xét cho cùng, đây là một lát cắt về sự tương trợ trong cộng đồng dân gian Đài Loan: làm thế nào mà một nhóm người có thể dùng tình nghĩa, bằng câu nói "chỉ đánh hội đồng mới có cơ hội thắng", để phát triển và duy trì một việc nhỏ thành một nơi khó tìm thấy sau mười bốn năm.
 
-Tìm kiếm thêm các phỏng vấn học viên và ảnh chiếu khóa học, được lưu trữ trên [kênh YouTube chính thức của SLP Taipei](https://www.youtube.com/@SLPTAIPEI).
+Các cuộc phỏng vấn cựu học viên và những đoạn trích khóa học khác được thu thập tại [kênh YouTube chính thức của SLP](https://www.youtube.com/@SLPTAIPEI).
 
-**Mở rộng Đọc**:
+**Đọc thêm**:
 
-- [Hệ sinh thái khởi nghiệp](新創生態系.md) — Từ tình cảnh thiếu vốn đầu tư mạo hiểm của khởi nghiệp Đài Loan, đến AppWorks, những nhà đầu tư mạo hiểm và sự theo đuổi những công ty unicorn của tổng thể phát triển, SLP là một nhánh "không lấy cổ phần" trong hệ sinh thái này.
-- [Kinh tế Người Sáng Tạo Tự Phương Tiện Đài Loan: Chiến Trường Mảnh 2,300 Triệu Người](台灣自媒體創作者經濟.md) — Một kiểu "cá nhân trước công ty" khác của kinh tế Đài Loan, vụng trộm với logic "chọn người chứ không chọn công ty" của SLP.
-- [Chuyển Đổi và Nâng Cấp Công Nghiệp Đài Loan: Từ Nước Sản Xuất Lớn Đến Nước Sáng Tạo Mạnh](台灣產業轉型升級.md) — Nền tảng lớn phía sau đường cong lệ phí SLP là "từ khởi đầu đến thể chế" được tạo thành, là một phần của chuyển đổi công nghiệp Đài Loan.
-- [Sinh Thái Trung Tâm Mua Sắm Bên Ngoài Công Viên Công Nghệ Đài Loan](台灣科技園區外圍商圈生態.md) — Một hình dạng khác của năng lượng khởi nghiệp hạ cánh thành tập hợp thực thể.
+- [Hệ sinh thái khởi nghiệp](/vi/economy/taiwan-startup-ecosystem-overview) — Từ tình trạng thiếu vốn đầu tư mạo hiểm của các startup Đài Loan, đến sự phát triển tổng thể mà AppWorks, đầu tư mạo hiểm và kỳ lân đang theo đuổi, SLP là một nhánh "không lấy cổ phần" trong hệ sinh thái này.
+- [Kinh tế người sáng tạo tự truyền thông tại Đài Loan: Chiến trường phân mảnh của 23 triệu người](/vi/economy/taiwan-self-media-creator-economy) — Một mô hình kinh tế kiểu Đài Loan khác với tư duy "cá nhân trước công ty", có sự tương đồng xa xôi với logic "chọn người chứ không chọn công ty" của SLP.
+- [Chuyển đổi và nâng cấp ngành công nghiệp Đài Loan: Từ cường quốc sản xuất đến cường quốc sáng tạo](/vi/economy/industrial-transformation-from-manufacturing-to-innovation) — Bối cảnh lớn đằng sau đường cong chi phí của SLP, đó chính là một phần trong quá trình chuyển đổi ngành công nghiệp của Đài Loan.
+- [Hệ sinh thái thương mại ngoại vi các khu công nghệ cao Đài Loan](/vi/economy/tech-park-peripheral-business-ecosystem) — Một hình thức khác của năng lượng khởi nghiệp được hiện thực hóa thành các cụm dân cư vật chất.
 
 ## Nguồn Gốc Hình Ảnh
 

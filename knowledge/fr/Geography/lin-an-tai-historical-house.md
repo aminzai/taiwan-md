@@ -24,10 +24,10 @@ rationale:
   whos_pushing_back: '把政府、林家、專家與都市工程放在同一張衝突地圖，不把任何一方寫成單一反派。'
 curation: 'incubating'
 translatedFrom: 'Geography/林安泰古厝.md'
-sourceCommitSha: '13c7fbcdb'
-sourceContentHash: 'sha256:47d89dc0ac03a566'
-sourceBodyHash: 'sha256:7079616fec64f3a7'
-translatedAt: '2026-09-11T07:40:59+08:00'
+sourceCommitSha: 'd9ef16d5e'
+sourceContentHash: 'sha256:bf88a96f60bbcd8e'
+sourceBodyHash: 'sha256:f8662882b41f1947'
+translatedAt: '2026-09-23T02:16:47.316085+00:00'
 ---
 
 > **En bref :** Initialement située sur la route Siwei dans le district de Da'an, la résidence ancestrale Lin An Tai a été démantelée en 1977 en raison de l'élargissement de la route Dunhua Nan. Après avoir transité par un entrepôt de la route Anhe et sous le pont à haubars de la route Heping Xi, elle a été finalement reconstruite dans le parc Binjiang. Elle conserve des preuves matérielles partielles d'un manoir Qing des immigrants d'Anxi et d'une cour minnan, mais laisse également la question insoluble de la conservation par déplacement : le paysage et la vie d'origine ne peuvent être entièrement emportés.
@@ -76,41 +76,41 @@ En 1967, le Ministère de l'Intérieur avait convoqué les unités concernées (
 
 En 1978, la famille Lin a accepté la démolition. Cette décision ne peut être simplifiée en un don actif de la maison ancestrale par la famille Lin, ni réduite à un sauvetage unilatéral par le gouvernement. Les registres officiels documentent les tensions entre les droits de propriété, les compensations, les conditions de vie et la zone prévue pour la route. Lorsque la maison n'était pas inscrite au registre des monuments historiques, quelle force la famille pouvait-elle invoquer pour exiger que la ville s'arrête ? Il n'y avait pas de réponse équitable. [^5]
 
-## Le premier déménagement de la maison ancestrale a en fait eu lieu trois fois
+## Le premier déménagement de la maison ancienne, en réalité trois fois
 
-Selon les notes de presse du Bureau des affaires civiles du gouvernement municipal de Taipei, les travaux de démantèlement commencés en 1977 ont vu les composants de la maison ancestrale d'abord placés dans un entrepôt temporaire sur la route Anhe, puis déplacés sous le viaduc de la route Heping Xi, avant de trouver un emplacement de reconstruction dans le secteur de la route Binjiang. Du démantèlement à la reconstruction, le processus de transport a duré environ dix ans, et n'a pas été réalisé en une seule fois. [^4]
+Les travaux de démolition, qui ont débuté en 1977, indiquent dans un communiqué de presse du Bureau des affaires civiles du gouvernement municipal de Taipei que les composants de la maison ancienne ont d'abord été stockés temporairement sur Anhe Road, puis déplacés sous le viaduc de Heping West Road, avant d'être finalement localisés pour la reconstruction dans le secteur de Binjiang Street. Du démantèlement à la reconstruction, le processus de transport a duré environ dix ans au total et n'a pas été réalisé en une seule fois.[^4]
 
-Le _Taipei Times_ décrit ce processus comme étant plus proche d'un projet logistique désorganisé. Le démantèlement de la maison ancestrale a pris cinq mois ; les composants sont restés bloqués dans l'entrepôt de la route Anhe en raison de controverses foncières, puis ont été placés sous le viaduc de la route Heping Xi, où les éléments en bois et les poteaux ont été endommagés par un environnement humide. Six ans plus tard, le gouvernement a trouvé un nouveau site dans le parc Binjiang. [^2]
+Le reportage du _Taipei Times_ décrit ce processus comme un projet logistique désordonné. Le démantèlement de la maison ancienne a pris cinq mois ; les composants sont restés bloqués dans l'entrepôt d'Anhe Road en raison de litiges fonciers, puis ont été placés sous le viaduc de Heping West Road où ils ont été endommagés par l'humidité. Six ans plus tard, le gouvernement a trouvé un nouveau site au Parc Binjiang.[^2]
 
-| Année     | Événement                                    | Question laissée à ce moment-là                                         |
-| :-------- | :------------------------------------------- | :---------------------------------------------------------------------- |
-| 1754      | Lin Qinming traverse la mer                  | Une famille d'immigrants d'Anxi s'ancre à Taipei.                       |
-| 1783–1785 | Achèvement du corps principal                | La structure principale de la résidence de la famille Lin prend forme.  |
-| 1976–1978 | Élargissement de la route et démantèlement   | Conflit entre conservation sur place et reconstruction par déplacement. |
-| 1984–1987 | Reconstruction dans le parc Binjiang         | Reconstruction sur le nouveau site, achèvement et ouverture au public.  |
-| 2000      | Ouverture du Musée du Patrimoine Folklorique | Une maison ancestrale privée devient un espace culturel public.         |
+|   Année   |                Événement                |                      Problème soulevé à ce moment-là                      |
+| :-------: | :-------------------------------------: | :-----------------------------------------------------------------------: |
+|   1754    |      Lin Chin-ming traverse Taïwan      |           Les familles immigrées d'Anxi s'installent à Taipei.            |
+| 1783–1785 |       Construction de Zheng Shen        |      La structure principale de la maison familiale Lin prend forme.      |
+| 1976–1978 | Élargissement de la route et démolition | Conflit entre la préservation sur site et le déménagement/reconstruction. |
+| 1984–1987 |    Reconfiguration du Parc Binjiang     |    Reconstruction, achèvement et ouverture au public du nouveau site.     |
+|   2000    |     Ouverture du musée des coutumes     |      La maison ancestrale privée devient un espace culturel public.       |
 
-_Source de la chronologie : Page d'histoire du Bureau des affaires civiles du gouvernement municipal de Taipei, rapports officiels et *Taipei Times*._
+_Source de la chronologie : Page historique du Bureau des affaires civiles du gouvernement municipal de Taipei, rapports officiels et *Taipei Times*._
 
-Les difficultés du déménagement ne tiennent pas seulement à la distance. La maison ancestrale était à l'origine un système structurel avec une direction et un ordre. Les tuiles reposaient sur la charpente, les poteaux en bois et les murs de briques s'emboîtaient, les portes et fenêtres formaient des dimensions avec l'usage quotidien. Lorsque chaque pièce a été démontée, les relations originales ont été démantelées avec elle.
+Les difficultés liées au déménagement ne résidaient pas seulement dans la distance. La maison ancienne était un système structurel orienté et ordonné. Les tuiles pressaient sur la charpente, les piliers en bois s'emboîtaient avec les murs de briques, et les portes et fenêtres étaient dimensionnées pour l'usage quotidien. Lorsque chaque pièce a été démontée, la relation d'origine a également été démantelée.
 
-Les données de recherche officielles indiquent qu'après plusieurs déménagements et recombinaisons, certains anciens composants en bois de la maison ancestrale ont été endommagés, et les tuiles originales ne sont plus utilisées. [^6] Ce détail est plus mémorable que la simple idée d'une « conservation complète ». La conservation ne consiste pas à amener sain et sauf chaque matériau dans la nouvelle maison, mais à décider, après que les pertes se sont produites, quelles traces peuvent être laissées honnêtement.
+Les données de recherche officielles indiquent que, après plusieurs déménagements et réassemblages, certains composants en bois anciens ont été endommagés et les tuiles originales n'ont pas pu être utilisées.[^6] Ce détail est plus mémorable que la simple notion de « préservation complète ». La conservation ne consiste pas à acheminer chaque matériau sainement dans sa nouvelle maison, mais à décider quels traces peuvent être fidèlement conservées après que la perte soit survenue.
 
-![Détails des peintures et décorations de la résidence ancestrale Lin An Tai.](https://upload.wikimedia.org/wikipedia/commons/c/cf/Lin_An_Tai_Historical_House_07.jpg)
+![Détails peints et décoratifs de la maison ancienne Lin An Tai.](https://upload.wikimedia.org/wikipedia/commons/c/cf/Lin_An_Tai_Historical_House_07.jpg)
 
-_Légende : Bernard Gagnon, Wikimedia Commons, CC BY-SA Licence multiple. Voir la [page de description de l'image](https://commons.wikimedia.org/wiki/File:Lin_An_Tai_Historical_House_07.jpg) pour l'image originale et les informations de licence. Image non modifiée._
+_Photo : Bernard Gagnon, Wikimedia Commons, licence CC BY-SA multiple._ Voir [page de description de l'image](https://commons.wikimedia.org/wiki/File:Lin_An_Tai_Historical_House_07.jpg) pour l'image originale et les conditions d'utilisation. L'image n'a pas été modifiée.
 
-![Jardin au bord de l'étang et groupe architectural de la résidence ancestrale Lin An Tai.](https://upload.wikimedia.org/wikipedia/commons/9/94/Lin_An_Tai_Historical_House_05.jpg)
+![Jardin au bord du lac et ensemble bâti de la maison ancienne Lin An Tai.](https://upload.wikimedia.org/wikipedia/commons/9/94/Lin_An_Tai_Historical_House_05.jpg)
 
-_Légende : Bernard Gagnon, Wikimedia Commons, CC BY-SA 3.0. Voir la [page de description de l'image](https://commons.wikimedia.org/wiki/File:Lin_An_Tai_Historical_House_05.jpg) pour l'image originale et les informations de licence. Image non modifiée._
+_Photo : Bernard Gagnon, Wikimedia Commons, licence CC BY-SA 3.0._ Voir [page de description de l'image](https://commons.wikimedia.org/wiki/File:Lin_An_Tai_Historical_House_05.jpg) pour l'image originale et les conditions d'utilisation. L'image n'a pas été modifiée.
 
-Pour les ingénieurs ou les restaurateurs, la difficulté de ce cas peut être décomposée en plusieurs niveaux. Le premier est l'identification : chaque tuile, chaque pièce de bois et chaque bloc de pierre doit avoir son emplacement enregistré avant le démantèlement. Le deuxième est la conservation : les composants ne doivent pas être simplement empilés, mais doivent faire face à l'humidité, aux dommages du transport et à l'usure due à l'attente. Le troisième est la recombinaison : les fondations du nouveau site, la direction, le drainage et les besoins d'utilisation forcent les restaurateurs à faire des choix entre les anciens matériaux et les nouveaux travaux.
+Pour les ingénieurs ou les restaurateurs, ce cas peut être décomposé en plusieurs niveaux de difficulté. Le premier niveau est l'identification : chaque tuile, chaque pièce de bois et chaque bloc de pierre doit avoir des informations de localisation avant le démontage. Le deuxième niveau est la conservation : les composants ne peuvent pas être simplement empilés ; ils doivent faire face à la dégradation causée par l'humidité, le transport et l'attente. Le troisième niveau est le réassemblage : les fondations, l'orientation, le drainage et les besoins d'utilisation du nouveau site obligent les restaurateurs à faire des choix entre les matériaux anciens et le nouveau projet.
 
-Par conséquent, le codage n'est pas seulement une technique de construction, mais un moyen de transformer la mémoire architecturale en données traçables. Il permet aux générations futures de savoir où se trouvaient à l'origine les composants, et révèle quelles parties ont été perdues. Si l'on ne voit que les photos après la reconstruction, le lecteur peut supposer que la maison n'a jamais été interrompue. Laisser les registres de démantèlement, la liste des matériaux et l'état des dommages constitue un document technique responsable envers l'architecture historique.
+Par conséquent, le codage n'est pas une simple technique de construction, mais une manière de transformer la mémoire architecturale en données traçables. Cela permet aux générations futures de savoir où se trouvaient les composants d'origine et de voir quelles parties ont été perdues. Si seuls des photos après achèvement sont présentées, le lecteur risque de croire que la maison n'a jamais été interrompue. C'est seulement en conservant l'enregistrement du démontage, la liste des matériaux et l'état des dommages que l'on rend un compte technique à l'architecture historique.
 
-Cela explique pourquoi la conservation par déplacement ne peut être jugée uniquement sur l'apparence finale. La recherche académique indique que les bâtiments déplacés perdent leur environnement d'origine, et que les techniques de construction peuvent également affecter l'authenticité. [^7] Pour les institutions culturelles publiques, la présentation ne devrait pas se limiter à un faîte de toit complet et une cour ordonnée, mais devrait également inclure les photos de l'emplacement d'origine, l'itinéraire de déplacement, l'usure des matériaux et les controverses décisionnelles. Ce n'est qu'en rendant le processus public que les visiteurs peuvent comprendre que le bâtiment devant eux n'est pas une conservation naturelle, mais le résultat de multiples choix et de coûts accumulés. C'est la raison pour laquelle cet article met en parallèle les notices officielles, les recherches gouvernementales, les résumés académiques et les rapports en anglais : différentes sources éclairent chacune une partie du processus, et aucune page seule ne peut remplacer l'histoire entière.
+Ceci explique également pourquoi la préservation par déplacement ne peut pas être jugée uniquement sur l'apparence finale. La recherche académique indique que les bâtiments déplacés perdent leur environnement d'origine, et que la technologie de construction peut affecter l'authenticité.[^7] Pour une institution culturelle publique, ce qui est exposé ne doit pas se limiter à la faîtière complète et au jardin ordonné ; il doit également inclure des photos du site d'origine, le parcours de déménagement, les pertes de matériaux et les controverses décisionnelles. Ce n'est qu'en rendant le processus public que le visiteur a l'occasion de comprendre que le bâtiment devant lui n'est pas une conservation naturelle, mais le résultat cumulé de choix multiples et de compromis. C'est la raison pour laquelle cet article présente côte à côte les archives officielles, les recherches gouvernementales, les résumés académiques et les reportages en anglais : différentes sources éclairent chacune un segment du processus, et aucune page seule ne peut remplacer l'histoire entière.
 
-> **Note du commissaire :** « Déménager » semble être un verbe du quotidien, mais pour l'architecture historique, chaque mouvement redéfinit ce qu'elle est.
+> **Note de la curatrice :** Le mot « déménagement » semble être un verbe quotidien, mais pour une architecture historique, chaque déplacement redéfinit ce qu'elle est.
 
 ## Reconstruire n'est pas remettre l'original à sa place
 

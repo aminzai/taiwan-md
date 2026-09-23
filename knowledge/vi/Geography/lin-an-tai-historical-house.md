@@ -1,15 +1,15 @@
 ---
-title: 'Nhà cổ Lín An Tài: Bỏ đi một ngôi nhà, mang không thể chuyển đi một khoảng phần mây của Bắc Kinh'
-description: 'Năm 1977, phá rộng Đường Đun Hoá Nam khiến ngôi nhà cổ Lín An Tài ở khu vực Đoan Bắc phố phải giải tỏng. Mặc dù chỉ cách xa đường thẳng khoảng mười km, nhưng việc chuyển nhà kéo dài đến mười năm. Tượng đồng hồ cổ này lần cuối được tái lắp ở công viên Bình Kiến, để lại không chỉ là dấu vết của nhà thờ Mỹ Nam mà còn là một vấn đề mà Đài Loan vẫn phải đối mặt ngày nay: Sau khi nhà rời khỏi vị trí gốc, liệu nó còn giữ được phần bản sắc ban đầu không? Bài viết đi sâu từ gia đình Lín, tranh cãi về con đường, ba lần chuyển nhà đến cảnh quan Phong Thủy để điều tra xem liệu sự bảo tồn thành công thực sự đã hy sinh điều gì.'
+title: 'Lâm An Thái Cổ Trạch: Dỡ bỏ một ngôi nhà, không thể mang đi một đoạn Taipei'
+description: 'Năm 1977, việc mở rộng đường Đôn Hoá Nam Lộ khiến Lâm An Thái Cổ Trạch trên đường Tứ Vĩ Lộ quận Đại An phải được tháo dỡ. Khoảng cách mười km, lại mất mười năm mới di dời xong. Ngôi nhà thời Thanh, là trạch đệ của dân di cư từ An Khê, cuối cùng được lắp ráp lại tại Công viên Bình Giang, để lại không chỉ là viện lạc Mân Nam, mà còn là một vấn đề mà Đài Loan đến nay vẫn phải đối mặt: sau khi kiến trúc rời khỏi vị trí gốc, còn có thể bảo tồn bao nhiêu bản thân ban đầu của nó. Bài viết xuất phát từ di cư của gia Lâm, tranh chấp đường bộ, ba lần di dời và phong thủy địa cảnh, truy vấn phía sau thành công của việc bảo tồn thật sự đã mất đi gì.'
 date: 2026-08-21
 category: 'Geography'
 tags:
   [
-    'Nhà cổ Lín An Tài',
+    'Lâm An Thái Cổ Trạch',
     'Kiến trúc',
     'Di sản văn hóa',
-    'Bắc Kinh',
-    'Bảo tồn di chuyển',
+    'Đài Bắc',
+    'Bảo tồn di địa',
   ]
 subcategory: '城市與人文地理'
 author: 'Taiwan.md Contributors'
@@ -24,190 +24,181 @@ rationale:
   whos_pushing_back: '把政府、林家、專家與都市工程放在同一張衝突地圖，不把任何一方寫成單一反派。'
 curation: 'incubating'
 translatedFrom: 'Geography/林安泰古厝.md'
-sourceCommitSha: '13c7fbcdb'
-sourceContentHash: 'sha256:47d89dc0ac03a566'
-sourceBodyHash: 'sha256:7079616fec64f3a7'
-translatedAt: '2026-09-13T17:51:57+08:00'
+sourceCommitSha: 'd9ef16d5e'
+sourceContentHash: 'sha256:0810c10b58402414'
+translatedAt: '2026-09-23T01:40:19.833555+00:00'
 ---
 
-> **30 giây tóm tắt:** Nhà cổ Lín An Tài ban đầu nằm trên Đường Tứ Vĩ ở khu vực Đoan Bắc, phải giải tỏng vào năm 1977 do phá rộng Đường Đun Hoá Nam. Sau một loạt vị trí trung gian như kho tạm trên Đường An Hòa và dưới cầu cao Đường Hòa Bình Tây, cuối cùng nó được tái lắp ở công viên Bình Kiến. Nó đã bảo tồn một phần bằng chứng vật lý của ngôi nhà cho người nhập cư từ An Tĩnh thời Thanh, cũng như một phần của nhà kết hợp Mỹ Nam, nhưng đồng thời để lại vấn đề rằng bảo tồn di chuyển không thể mang theo toàn bộ cảnh quan địa điểm gốc và cuộc sống.
+**Tóm tắt 30 giây:** Nhà cổ Lâm An Thái ban đầu nằm ở đường Tứ Vĩ, quận Đại An, do công trình mở rộng đường Đôn Hoá Nam bị tháo dỡ năm 1977, sau khi trải qua các vị trí trung chuyển tại kho đường An Hòa và dưới cầu cao tốc đường Hòa Bình Tây, cuối cùng được lắp ráp lại tại công viên Tân Giang. Nó giữ lại một phần bằng chứng vật chất của nhà trọ người di dân An Khê thời Thanh và hợp viện Mân Nam, đồng thời để lại vấn đề: việc bảo tồn di dời không thể mang trọn vẹn bối cảnh địa lý và cuộc sống tại nguyên址.
 
-![Cửa nhập cảnh và hàng rào của nhà cổ Lín An Tài, năm 2019.](https://upload.wikimedia.org/wikipedia/commons/9/90/Lin_An_Tai_Historical_House_%26_Museum_-_Taipei_-_Taiwan_-_01_%2847873685321%29.jpg)
+![Cổng vào và tường rào Bảo tàng dân俗 văn vật nhà cổ Lâm An Thái, 2019.](https://upload.wikimedia.org/wikipedia/commons/9/90/Lin_An_Tai_Historical_House_%26_Museum_-_Taipei_-_Taiwan_-_01_%2847873685321%29.jpg)
 
-_Ảnh: Adam Jones, Wikimedia Commons, CC BY-SA 2.0. Xem trang mô tả ảnh và thông tin cấp phép tại trang mô tả ảnh. Ảnh chưa được chỉnh sửa._
+_Ảnh: Adam Jones, Wikimedia Commons, CC BY-SA 2.0. Xem trang mô tả ảnh gốc và thông tin cấp phép tại trang mô tả ảnh. Ảnh không được chỉnh sửa._
 
 [trang mô tả ảnh](<https://commons.wikimedia.org/wiki/File:Lin_An_Tai_Historical_House_%26_Museum_-_Taipei_-_Taiwan_-_01_(47873685321).jpg>)
 
-![Ngoại thất và hồ sen của nhà cổ Lín An Tài.](https://upload.wikimedia.org/wikipedia/commons/a/a8/Lin_An_Tai_Historical_House_02.jpg)
+![Ngoại観 nhà cổ Lâm An Thái và hồ bán nguyệt. ](https://upload.wikimedia.org/wikipedia/commons/a/a8/Lin_An_Tai_Historical_House_02.jpg)
 
-_Ảnh: Bernard Gagnon, Wikimedia Commons, CC BY-SA 3.0. Xem trang mô tả ảnh và thông tin cấp phép tại trang mô tả ảnh. Ảnh chưa được chỉnh sửa._
+_Ảnh: Bernard Gagnon, Wikimedia Commons, CC BY-SA 3.0. Xem trang mô tả ảnh gốc và thông tin cấp phép tại [trang mô tả ảnh](https://commons.wikimedia.org/wiki/File:Lin_An_Tai_Historical_House_02.jpg). Ảnh không được chỉnh sửa._
 
-![Thân chính và hồ sen của nhà cổ Lín An Tài.](https://upload.wikimedia.org/wikipedia/commons/c/c8/Lin_An_Tai_Historical_House_01.jpg)
+![Chính thân nhà cổ Lâm An Thái và hồ bán nguyệt. ](https://upload.wikimedia.org/wikipedia/commons/c/c8/Lin_An_Tai_Historical_House_01.jpg)
 
-_Ảnh: Bernard Gagnon, Wikimedia Commons, CC BY-SA đa giấy phép. Xem trang mô tả ảnh và thông tin cấp phép tại trang mô tả ảnh. Ảnh chưa được chỉnh sửa._
+_Ảnh: Bernard Gagnon, Wikimedia Commons, CC BY-SA đa giấy phép. Xem trang mô tả ảnh gốc và thông tin cấp phép tại [trang mô tả ảnh](https://commons.wikimedia.org/wiki/File:Lin_An_Tai_Historical_House_01.jpg). Ảnh không được chỉnh sửa._
 
-![Khu vườn và cảnh nước của nhà cổ Lín An Tài.](https://upload.wikimedia.org/wikipedia/commons/c/c0/Lin_An_Tai_Historical_House_04.jpg)
+![Vườn và cảnh nước nhà cổ Lâm An Thái. ](https://upload.wikimedia.org/wikipedia/commons/c/c0/Lin_An_Tai_Historical_House_04.jpg)
 
-_Ảnh: Bernard Gagnon, Wikimedia Commons, CC BY-SA 3.0. Xem trang mô tả ảnh và thông tin cấp phép tại trang mô tả ảnh. Ảnh chưa được chỉnh sửa._
+_Ảnh: Bernard Gagnon, Wikimedia Commons, CC BY-SA 3.0. Xem trang mô tả ảnh gốc và thông tin cấp phép tại [trang mô tả ảnh](https://commons.wikimedia.org/wiki/File:Lin_An_Tai_Historical_House_04.jpg). Ảnh không được chỉnh sửa._
 
-Năm 1977, số 141 Đường Tứ Vĩ, khu vực Đoan Bắc, thành phố Bắc Kinh, một ngôi nhà đã tồn tại khoảng hai trăm năm bắt đầu bị giải tỏng. Không phải là xe cẩu đầu tiên đến, mà là từng cửa sổ, đồ nội thất, ngói, khung gỗ, bricks và đá được từng mảnh rời khỏi vị trí ban đầu. Năm đó, dự án mở rộng Đường Đun Hoá Nam đang tiến gần nhà cổ Lín An Tài. [^1]
+Năm 1977, số 141 đường Tứ Vĩ, quận Đại An, thành phố Đài Bắc, một ngôi nhà đã đứng khoảng hai trăm năm bắt đầu bị tháo dỡ. Không phải máy xúc tiến trước, mà là cửa, nội thất, ngói, cấu kiện gỗ, gạch và đá lát từng kiện một rời khỏi vị trí ban đầu. Năm đó, công trình mở rộng đường Đôn Hoá Nam tiến sát nhà cổ Lâm An Thái. [^1]
 
-Từ vị trí gốc đến công viên Bình Kiến, quãng đường thẳng khoảng mười km. Nhưng hành trình này kéo dài đến mười năm, cho đến khi ngôi nhà mới tái lên trên mảnh đất mới. Nhà cổ Lín An Tài vì vậy trở thành một câu chuyện không thích hợp để chỉ dùng từ "bảo tồn thành công" để tóm tắt. Nó thực sự đã được giữ lại, nhưng cũng thực sự mất đi địa lý, lân cận và cuộc sống ban đầu.
+Từ nguyên址 đến công viên Tân Giang, khoảng cách đường thẳng khoảng mười km. Đoạn đường sau đó đi được mười năm, ngôi nhà cổ mới lại đứng lên trên mảnh đất mới. [^2] Nhà cổ Lâm An Thái do đó trở thành một câu chuyện không phù hợp chỉ tóm gọn bằng "bảo tồn thành công". Nó xác thực được giữ lại, nhưng cũng xác thực đã mất đi địa lý, láng giềng và cuộc sống ban đầu.
 
-> **Ghi chú của nhà soạn trưng bày:** Một ngôi nhà có thể được chuyển đi, nhưng mối quan hệ giữa ngôi nhà và mảnh đất không thể được đóng gói cùng lúc.
+> **Ghi chú người tổ chức triển lãm:** Một ngôi nhà có thể di dời, nhưng mối quan hệ giữa ngôi nhà và mảnh đất không thể đóng gói nguyên trọn.
 
-## Trước tiên là một con người, sau đó mới là một ngôi nhà
+## Phải có người trước, mới có nhà sau
 
-Năm 1754, Lín Tân Minh từ tỉnh Hòa Bình, phía bắc Việt Nam, đưa gia đình sang biển Đài Loan. Con trai thứ tư của ông, Lín Chí Năng sau này kinh doanh ở Mỹ Kỳ, mở cửa hàng Vinh Thái. Sau khi tích lũy được tài sản, gia đình Lín xây dựng ngôi nhà trên Đường Tứ Vĩ ở khu vực Đoan Bắc hiện nay. Công trình chính được hoàn thành khoả năm 1783 đến 1785, trong khi các công trình bảo vệ được hoàn thành lần lượt vào năm 1822 đến 1823. [^3]
+Năm 1754, Lâm Khâm Minh, quê quán tại An Khê, Phúc Kiến, mang theo gia đình vượt biển đến Đài Loan. Con trai thứ tư của ông, Lâm Chí Năng, sau đó kinh doanh tại Báng-kah, mở hàng Vinh Thái (Rong Tai Hang). Sau khi tích lũy của cải, gia đình Lâm tại khu vực Đại An Khu, đường Tứ Vệ Lộ ngày nay xây dựng nhà宅. Chính thân (nhà chính) hoàn thành khoảng năm 1783 đến 1785, trái phải hộ long (nhà bên) thì hoàn thành lần lượt năm 1822 đến 1823.[^3]
 
-"An Tài" không phải là một cái tên du lịch gán thêm sau này. Theo lý giải chính thức, nó xuất phát từ "An" của An Tĩnh và "Tài" của cửa hàng Vinh Thái. Một cái tên ngôi nhà đặt cả quê hương và kinh doanh vào một bảng biểu, cũng ghi lại quá trình gia đình nhập cư tại Bắc Kinh của họ. [^3]
+"An Thái" không phải là cái tên du lịch dán lên sau này. Theo giải thích沿革 chính thức, nó lấy chữ "An" từ An Khê và chữ "Thái" từ Vinh Thái Hàng. Một cái tên nhà宅 đặt quê hương và buôn bán trên cùng một tấm匾額, cũng lưu giữ lại quá trình gia đình di dân như thế nào đứng vững tại Đài Bắc.[^3]
 
-Trước khi trở thành bảo tàng, ngôi nhà này là nơi sinh hoạt của gia đình Lín, có cung điện chính, các công trình bảo vệ, khu vườn tiền và hồ nước, cũng như tiếng ồn của các thành viên gia đình đi ra đi vào hàng ngày, nấu ăn, giặt ủi và chơi đùa. Bản tin đặc biệt của Sở Hành chính Thành phố Bắc Kinh năm 2014 đã lưu giữ kỷ niệm tuổi thơ của Lín Tinh Lăng, con cháu gia đình Lín. Ông nhớ mình sinh ra và lớn lên trong ngôi nhà cổ, trưởng thành giữa các cánh cửa gỗ, bàn thờ và khu vườn trước. [^4]
+Trước khi trở thành bảo tàng, ngôi nhà này là nơi chứa đựng cuộc sống của gia đình Lâm, có chính sảnh, hộ long, tiền đình (sân trước) và hồ nước, cũng có tiếng vọng của các thành viên gia đình hàng ngày ra vào, nấu cơm, giặt giũ, chơi đùa. Bản tin báo chí triển lãm đặc biệt năm 2014 của Cục Dân chính Thành phố Đài Bắc bảo lưu ký ức tuổi thơ của hậu duệ gia đình Lâm, Lâm Khánh Long. Ông nhớ mình sinh ra ở ngôi nhà cổ, tuổi thơ lớn lên giữa cửa kính chắn, bàn thờ và sân trước.[^4]
 
-Nếu chỉ nhìn thấy mái nhà, tường và trang trí, ngôi nhà cổ sẽ trở thành một mẫu mực đẹp, và sự thật rằng các thành viên gia đình từng sống trong đó sẽ bị đẩy sang phía sau. Điểm đặc biệt thực sự khó thay thế của nhà cổ Lín An Tài chính là nó từng đồng thời là ngôi nhà, tổ tiên và trung tâm cuộc sống nông thôn, cũng như một mảnh đất tư nhân bị cắt cắn bởi dự án đường phố.
+Nếu chỉ nhìn mái nhà, tường gạch và họa tiết điêu khắc, nhà cổ sẽ trở thành một mẫu vật đẹp mắt, thực tế các thành viên gia đình Lâm từng sống trong đó cũng sẽ lùi vào nền. Nơi thực sự không thể thay thế của Nhà cổ Lâm An Thái nằm ở chỗ nó từng đồng thời là nhà, nhà tổ, trung tâm cuộc sống nông thôn, và cũng là một mảnh đất tư nhân sau này bị công trình đường xẻ ngang.
 
-## Thành phố cần một con đường, ngôi nhà cần một vị trí
+## Thành phố cần một con đường, nhà cổ cần một vị trí
 
-Năm 1976, chính quyền thành phố Bắc Kinh phải đối mặt với lựa chọn giải tỏng nhà cổ Lín An Tài do dự án mở rộng Đường Đun Hoá Nam. Lúc đó, ngôi nhà cổ chưa được liệt vào danh sách bảo tồn di tích, và một phần công trình nằm trong khu vực dự kiến của dự án đường. Báo cáo nghiên cứu chính thức ghi nhận, khoảng hai phần ba phía sau ngôi nhà rơi vào phạm vi dự án, diện tích khoả năm trăm mét vuông, do đó gây ra tranh cãi giữa bảo tồn tại chỗ và xây dựng lại ở nơi khác. [^5]
+Năm 1976, Chính phủ thành phố Đài Bắc đối mặt với lựa chọn tháo dỡ nhà cổ Lâm An Thái do đường Duyên Hoá Nam mở rộng. Lúc bấy giờ nhà cổ chưa được đưa vào danh sách bảo tồn di tích, một phần công trình lại nằm trong khu vực đất dự trữ cho công trình đường. Báo cáo nghiên cứu chính thức ghi nhận, phần hậu phương khoảng hai phần ba công trình rơi vào phạm vi công trình, diện tích khoảng 170 bình, do đó gây ra tranh luận giữa bảo tồn tại chỗ hay di dời tái thiết. [^5]
 
-Cuộc tranh cãi này không đơn giản là "phe bảo tồn" chống lại "phe phát triển". Có người đề xuất để đường đi quanh, thay đổi hướng đi hoặc xây dựng dưới lòng đất hoặc trên cao; có người khác đề xuất tháo dỡ và tìm vị trí khác để xây dựng lại. Các chuyên gia, kiến trúc sư, cơ quan chính phủ và gia đình Lín mỗi người đối mặt với chi phí khác nhau. Đường phố là một cơ sở hạ tầng công cộng của thành phố, trong khi ngôi nhà gia đình lại là không gian sống mà gia đình không thể thay thế bằng ngôn ngữ của công trình. [^5]
+Cuộc tranh luận này không đơn giản là phe「bảo tồn」đối đầu với phe「phát triển」mà có trật tự như vậy. Có người đề xuất cho đường đi vòng, chuyển đi dưới đất hoặc cao tầng, cũng có người chủ trương tháo dỡ sau đó tìm địa điểm khác để xây dựng lại. Chuyên gia, kiến trúc sư, đơn vị chính phủ và gia đình Lâm mỗi bên đối mặt với những cái giá khác nhau. Đường phố là một công trình công cộng của thành phố, nhưng nhà tổ lại là không gian sống của một gia đình mà không thể dùng ngôn ngữ công trình công cộng để thay thế. [^5]
 
-Năm 1967, Bộ Nội Vấn đã tập hợp các cơ quan và chuyên gia liên quan bao gồm giao thông, giáo dục, tài liệu và kế hoạch hóa đô thị để thảo luận về vấn đề bảo tồn nhà cổ Lín An Tài. Báo cáo nghiên cứu chính thức ghi nhận, cuộc họp đã đưa ra kết luận về việc bảo tồn tại chỗ, nhưng Sở Bắc Kinh sau đó vẫn tiếp tục hướng tới việc chuyển nhà. [^5]
+Năm 1967, Bộ Nội vụ đã triệu tập các đơn vị liên quan như Giao thông, Giáo dục, Văn kiện, Quy hoạch đô thị cùng các chuyên gia, học giả thảo luận vấn đề bảo tồn nhà cổ Lâm An Thái. Báo cáo nghiên cứu chính thức ghi chép, hội nghị đã đưa ra kết luận bảo tồn tại chỗ, nhưng Chính phủ thành phố Đài Bắc sau đó vẫn tiếp tục triển khai theo hướng di dời. [^5]
 
-Năm 1978, gia đình Lín đồng ý giải tỏng. Quyết định này không thể đơn giản hóa thành gia đình Lín tự nguyện tặng nhà cổ, cũng không thể chỉ viết thành chính phủ đơn phương cứu giúp. Hồ sơ chính thức ghi nhận sự căng thẳng giữa quyền sở hữu, bồi thường, điều kiện sinh hoạt và khu đất dự kiến của dự án đường. Khi ngôi nhà không được liệt vào danh sách di tích, gia đình phải dùng lực lượng nào để yêu cầu thành phố dừng lại, và không có câu trả lời công bằng nào. [^5]
+Năm 1978, gia đình Lâm đồng ý tháo dỡ. Quyết định này không thể đơn giản hóa thành gia đình Lâm chủ động tặng cho nhà cổ, cũng không thể chỉ viết là chính phủ đơn phương cứu vãn. Nghiên cứu chính thức ghi chép sự kéo co giữa quyền sở hữu, bồi thường, điều kiện cư trú và đất dự trữ đường. Khi ngôi nhà chưa được đưa vào danh sách di tích, gia đình phải dùng lực lượng gì để yêu cầu thành phố dừng lại, không có một câu trả lời công bằng nào. [^5]
 
-## Lần chuyển nhà đầu tiên của ngôi nhà, thực chất là ba lần
+## Lần di dời đầu tiên của nhà cổ, thực tế đã di dời ba lần
 
-Theo bản tin của Sở Hành chính Thành phố Bắc Kinh, công trình giải tỏng bắt đầu vào năm 1977, các bộ phận của ngôi nhà trước tiên được đặt vào kho tạm thời trên Đường An Hòa, sau đó chuyển đến dưới cầu cao Đường Hòa Bình Tây, cuối cùng tìm được vị trí để xây dựng lại ở khu vực Đường Bình Kiến. Từ khi giải tỏng đến khi xây dựng lại, quá trình vận chuyển kéo dài khoảng mười năm, không hoàn thành trong một lần. [^4]
+Công trình tháo dỡ bắt đầu năm 1977, theo bản tin báo chí của Cục Dân chính Thành phố Đài Bắc, các cấu kiện nhà cổ trước được đưa đến kho tạm tại đường An Hòa, sau đó chuyển đến dưới cao tốc Hòa Bình Tây, cuối cùng mới tìm thấy vị trí tái xây ở khu vực đường Binh Giang. Từ tháo dỡ đến tái xây, quá trình di dời kéo dài khoảng mười năm, không phải một lần hoàn tất.[^4]
 
-Bản báo Taipei Times mô tả quá trình này giống như một dự án logistics rối loạn. Việc giải tỏng ngôi nhà mất năm tháng, các bộ phận do tranh cãi đất đai bị kẹt tại kho tạm trên Đường An Hòa, sau đó được chuyển đến dưới cầu cao Đường Hòa Bình Tây, các bộ phận gỗ và cột chịu thiệt hại do rò rỉ nước. Sáu năm sau, chính phủ mới tìm được vị trí mới tại công viên Bình Kiến. [^2]
+Báo Taipei Times miêu tả quá trình này gần như một công trình hậu cần hỗn loạn. Việc tháo dỡ nhà cổ mất năm tháng, các cấu kiện bị lưu lại tại kho An Hòa do tranh chấp đất đai, sau đó lại được đặt dưới cao tốc Hòa Bình Tây, cấu kiện gỗ và cột gỗ bị hư hỏng trong môi trường rò rỉ nước. Sau sáu năm, chính phủ mới tìm thấy địa điểm mới tại công viên Binh Giang.[^2]
 
-| Thời đại  | Sự kiện                           | Vấn đề còn lại                                                               |
-| --------- | --------------------------------- | ---------------------------------------------------------------------------- |
-| 1754      | Lín Tân Minh đặt chân đến         | Gia đình nhập cư từ An Tĩnh tại Bắc Kinh.                                    |
-| 1783–1785 | Hoàn thành công trình chính       | Cấu trúc chính của ngôi nhà gia đình Lín hình thành.                         |
-| 1976–1978 | Mở rộng đường và giải tỏng        | Xảy ra xung đột giữa bảo tồn tại chỗ và xây dựng lại ở nơi khác.             |
-| 1984–1987 | Tái lắp tại công viên Bình Kiến   | Hoàn thành và mở cửa cho công chúng.                                         |
-| 2000      | Mở cửa Bảo tàng Lưu trữ Phong Tỏa | Chuyển đổi từ không gian gia đình tư nhân sang không gian văn hóa công cộng. |
+| Thời gian | Sự việc xảy ra                   | Vấn đề để lại tại thời điểm này                              |
+| --------- | -------------------------------- | ------------------------------------------------------------ |
+| 1754      | Lâm Khâm Minh qua Đài            | Gia đình di dân An Khê đặt chân tại Đài Bắc.                 |
+| 1783–1785 | Hoàn thành nhà chính             | Kiến trúc chính của ngôi nhà gia đình Lâm hình thành.        |
+| 1976–1978 | Mở rộng đường và tháo dỡ         | Xung đột giữa bảo tồn tại chỗ và di dời tái xây.             |
+| 1984–1987 | Tái tổ chức công viên Binh Giang | Tái xây tại địa điểm mới, hoàn thành và khai trương.         |
+| 2000      | Mở cửa Bảo tàng dân俗 văn vật    | Ngôi nhà tổ riêng chuyển thành không gian văn hóa công cộng. |
 
-_Tham khảo dòng thời gian: Trang lịch sử của Sở Hành chính Thành phố Bắc Kinh, báo cáo nghiên cứu chính thức và Taipei Times._
+_Nguồn thời tuyến: Trang lịch sử hình thành của Cục Dân chính Thành phố Đài Bắc, báo cáo nghiên cứu chính thức và Taipei Times._
 
-Khó khăn trong việc chuyển nhà không chỉ nằm ở khoảng cách. Ngôi nhà cổ ban đầu là một hệ thống cấu trúc có hướng và trật tự. Các mảnh ngói được xếp lên khung nhà, các cột gỗ và tường gạch dính chặt vào nhau, cửa sổ và cửa phù hợp với nhu cầu sử dụng hàng ngày. Khi mỗi bộ phận được tháo ra, mối quan hệ ban đầu cũng bị phá vỡ.
+Khó khăn của việc di dời không chỉ nằm ở khoảng cách. Nhà cổ ban đầu là một hệ thống cấu trúc có hướng, có trật tự. Ngói nhà đè lên khung nhà, cột gỗ và tường gạch咬合 nhau, cửa sổ và việc sử dụng hàng ngày hình thành kích thước. Khi mỗi bộ phận được tháo ra, mối quan hệ ban đầu cũng bị tách rời cùng lúc.
 
-Tài liệu nghiên cứu chính thức cho biết, sau nhiều lần chuyển nhà và tái lắp, một số bộ phận gỗ cũ bị hỏng, và các mảnh ngói ban đầu không còn được sử dụng. [^6] Chi tiết này đáng nhớ hơn là "bảo tồn hoàn chỉnh". Bảo tồn không phải là gửi tất cả vật liệu đến ngôi nhà mới một cách an toàn, mà là sau khi mất mát đã xảy ra, quyết định những dấu vết nào vẫn có thể được giữ lại một cách trung thực.
+Tài liệu nghiên cứu chính thức chỉ ra rằng, sau nhiều lần di dời và tái tổ chức, một phần cấu kiện gỗ cũ bị hư hỏng, ngói nhà gốc cũng không còn được sử dụng.[^6] Chi tiết này đáng ghi nhớ hơn là「bảo tồn hoàn chỉnh」。Bảo tồn không phải là đưa từng vật liệu an toàn đến nhà mới, mà là sau khi tổn thất đã xảy ra, quyết định những dấu vết nào vẫn có thể được giữ lại một cách trung thực.
 
-![Chi tiết trang trí và sơn màu của nhà cổ Lín An Tài.](https://upload.wikimedia.org/wikipedia/commons/c/cf/Lin_An_Tai_Historical_House_07.jpg)
+![林安泰古厝的彩繪與裝飾細部。](https://upload.wikimedia.org/wikipedia/commons/c/cf/Lin_An_Tai_Historical_House_07.jpg)
 
-_Ảnh: Bernard Gagnon, Wikimedia Commons, CC BY-SA đa giấy phép. Xem trang mô tả ảnh và thông tin cấp phép tại trang mô tả ảnh. Ảnh chưa được chỉnh sửa._
+_Ảnh: Bernard Gagnon, Wikimedia Commons, CC BY-SA đa giấy phép._ Xem ảnh gốc và giải thích giấy phép tại [trang mô tả ảnh](https://commons.wikimedia.org/wiki/File:Lin_An_Tai_Historical_House_07.jpg). Ảnh không được chỉnh sửa.
 
-![Khu vườn ven hồ và tập thể kiến trúc của nhà cổ Lín An Tài.](https://upload.wikimedia.org/wikipedia/commons/9/94/Lin_An_Tai_Historical_House_05.jpg)
+![林安泰古厝池畔庭園與建築群。](https://upload.wikimedia.org/wikipedia/commons/9/94/Lin_An_Tai_Historical_House_05.jpg)
 
-_Ảnh: Bernard Gagnon, Wikimedia Commons, CC BY-SA 3.0. Xem trang mô tả ảnh và thông tin cấp phép tại trang mô tả ảnh. Ảnh chưa được chỉnh sửa._
+_Ảnh: Bernard Gagnon, Wikimedia Commons, CC BY-SA 3.0._ Xem ảnh gốc và giải thích giấy phép tại [trang mô tả ảnh](https://commons.wikimedia.org/wiki/File:Lin_An_Tai_Historical_House_05.jpg). Ảnh không được chỉnh sửa.
 
-Đối với kỹ sư hoặc người làm việc phục chế, bài toán của trường hợp này có thể được chia thành một số cấp độ. Cấp độ đầu tiên là nhận dạng, mỗi mảnh ngói, mỗi thanh gỗ và mỗi viên gạch đều phải được ghi lại thông tin vị trí trước khi tháo dỡ. Cấp độ thứ hai là bảo quản, các bộ phận không chỉ được xếp chất đống tập trung, mà còn phải đối mặt với độ ẩm, vận chuyển và thời gian chờ gây hư hại. Cấp độ thứ ba là tái lắp, nền móng, hướng đi, hệ thống thoát nước và nhu cầu sử dụng tại vị trí mới sẽ buộc người phục chế phải lựa chọn giữa vật liệu cũ và kỹ thuật mới.
+Đối với kỹ sư hoặc người phục hồi, khó khăn của trường hợp này có thể tách thành vài tầng. Tầng đầu là nhận diện, mỗi miếng ngói, mỗi thanh gỗ và mỗi viên gạch đều phải để lại thông tin vị trí trước khi tháo dỡ. Tầng hai là bảo quản, cấu kiện không chỉ được tập trung xếp chồng, còn phải đối mặt với hao mòn do ẩm ướt, di dời và chờ đợi. Tầng ba là tái tổ chức, địa cơ, hướng, thoát nước và nhu cầu sử dụng của địa điểm mới sẽ buộc người phục hồi phải lựa chọn giữa vật liệu cũ và công trình mới.
 
-Do đó, mã hóa không chỉ là kỹ thuật thi công đơn thuần, mà là cách biến ký ức kiến trúc thành dữ liệu có thể truy xuất. Nó cho phép người sau biết những bộ phận nào ban đầu nằm ở đâu, cũng như nhìn thấy phần nào đã mất đi. Nếu chỉ có ảnh chụp sau khi tái lắp, người đọc dễ bị lừa cho rằng ngôi nhà chưa từng bị gián đoạn. Việc lưu giữ hồ sơ giải tỏng, danh sách vật liệu và tình trạng hư hại mới thực sự là trách nhiệm đối với kỹ thuật tài liệu cho các công trình lịch sử.
+Do đó, mã hóa không phải là đơn thuần kỹ thuật thi công, mà là một cách biến ký ức kiến trúc thành dữ liệu có thể truy vết. Nó cho người sau biết cấu kiện nào ban đầu ở đâu, cũng cho thấy phần nào đã mất đi. Nếu chỉ có ảnh sau khi tái xây xong, người đọc dễ tưởng nhà chưa từng bị gián đoạn. Giữ lại bản ghi tháo dỡ, danh sách vật liệu và tình trạng hư hỏng, mới là tài liệu kỹ thuật có trách nhiệm đối với kiến trúc lịch sử.
 
-Điều này cũng giải thích tại sao bảo tồn di chuyển không thể chỉ dựa vào hình bề ngoài cuối cùng để đánh giá. Nghiên cứu học thuật cho rằng, sau khi chuyển nhà, kiến trúc có thể mất mất môi trường ban đầu, và kỹ thuật cũng có thể ảnh hưởng đến độ thật. [^7] Đối với các cơ quan văn hóa công cộng, sự trưng bày không chỉ nên tập trung vào mái nhà hoàn chỉnh và khu vườn gọn gàng, mà còn nên bao gồm ảnh chụp địa điểm gốc, tuyến đường chuyển nhà, mức độ hư hại vật liệu và tranh cãi quyết định. Chỉ khi công khai quá trình, khách tham quan mới có cơ hội hiểu rằng ngôi nhà trước mắt không phải là sự tồn tại tự nhiên, mà là kết quả tích lũy từ nhiều lựa chọn và chi phí. Đây cũng là lý do tại sao bài viết này kết hợp các tài liệu lịch sử, nghiên cứu chính phủ, tóm tắt học thuật và báo chí tiếng Anh: mỗi nguồn sáng tỏa một phần quá trình, và không có nguồn nào có thể thay thế toàn bộ lịch sử.
+Điều này cũng giải thích tại sao di dời bảo tồn không thể chỉ đánh giá bằng ngoại hình cuối cùng. Nghiên cứu học thuật chỉ ra rằng, kiến trúc sau di dời sẽ mất đi môi trường gốc, kỹ thuật công trình cũng có thể ảnh hưởng đến tính chân thực.[^7] Đối với cơ quan văn hóa công cộng, vật trưng bày không nên chỉ có mái nhà hoàn chỉnh và sân vườn gọn gàng, mà còn nên bao gồm ảnh gốc, tuyến đường di dời, hao mòn vật liệu và tranh chấp quyết định. Chỉ khi công khai quá trình, người tham quan mới có cơ hội hiểu rằng kiến trúc trước mắt không phải lưu giữ tự nhiên, mà là kết quả tích lũy của nhiều lựa chọn và cái giá. Đây cũng là lý do bài viết liệt kê song song lịch sử hình thành chính thức, nghiên cứu chính phủ, tóm tắt học thuật và báo dẫn tiếng Anh: mỗi nguồn sáng tỏ một đoạn quá trình, không trang nào đơn độc có thể thay thế toàn bộ lịch sử.
 
-> **Ghi chú của nhà soạn trưng bày:** "Chuyển nhà" nghe có vẻ như một động từ hàng ngày, nhưng đối với các công trình lịch sử, mỗi lần di chuyển đều định nghĩa lại bản chất của nó.
+> **Ghi chú người bảo tàng:** 「Di dời」nghe như động từ hàng ngày, nhưng đối với kiến trúc lịch sử, mỗi lần di động đều định nghĩa lại nó là gì.
 
-## Tái lắp không phải là đặt lại nguyên bản
+## Tái thiết không phải là đặt vật gốc trở lại vị trí cũ
 
-Năm 1984, công viên Bình Kiến được chọn làm vị trí tái lắp. Theo bản tin chính thức, kiến trúc sư Lê Trọng Diễm đã xử lý các bộ phận đã được tháo dỡ bằng phương pháp mã hóa, và hoàn thành công trình trong điều kiện vật liệu cũ, hư hại do tháo dỡ và điều kiện bảo quản hạn chế. Ngôi nhà hoàn thành vào năm 1985, mở cửa cho công chúng vào năm 1987. [^4] [^2]
+Năm 1984, Công viên Binh Giang được chọn làm địa điểm tái thiết. Theo bản tin báo chí chính thức, kiến trúc sư Lý Trọng Diêu áp dụng phương pháp mã hóa để xử lý các cấu kiện sau khi tháo dỡ, và hoàn thành tái thiết trong tình trạng vật liệu cũ kỹ, hao mòn do tháo dỡ và điều kiện bảo quản hạn chế. Nhà cổ hoàn工 năm 1985, năm 1987 khai trương đón khách.[^4] [^2]
 
-Taipei Times cũng ghi nhận, quy chuẩn tái lắp cấm sử dụng kim loại, nhựa và đinh, công trình hoàn thành sau 400 ngày, chi phí đạt 45,300,000 đồng Đài Loan. Những con số này không được dùng để chứng minh công trình thật ấn tượng, mà để người đọc nhìn thấy "bảo tồn di chuyển" thực sự là một công việc kỹ thuật cụ thể. [^2]
+Taipei Times ghi thêm rằng, quy định tái thiết cấm sử dụng kim loại, nhựa và đinh, công trình hoàn thành sau 400 ngày, chi phí 45,30 triệu Tân Đài tệ. Những con số này không nhằm chứng minh công trình hùng vĩ đến đâu, mà để người đọc thấy rằng "bảo tồn dời chỗ" thực chất là một công việc kỹ thuật cực kỳ cụ thể.[^2]
 
-Kỹ thuật càng tinh vi, vấn đề bảo tồn càng rõ ràng. Nghiên cứu của Đại học Trung Yên năm 2006 cho rằng, bảo tồn tại chỗ thường được coi là cách tốt nhất để bảo tồn các công trình lịch sử, trong khi bảo tồn di chuyển là giải pháp không thể tránh khỏi trong xung đột giữa phát triển đô thị và bảo tồn văn hóa. Nghiên cứu tổng hợp 28 trường hợp bảo tồn di chuyển từ thời kỳ thuộc địa của Đài Loan đến hiện đại, và nhắc nhở rằng các công trình sau khi chuyển nhà có thể mất môi trường ban đầu, đồng thời phải đối mặt với câu hỏi về độ thật của vật liệu và kỹ thuật. [^7]
+Càng kỹ thuật công trình càng tinh tế, vấn đề bảo tồn càng rõ rệt. Nghiên cứu năm 2006 của Đại học Trung Nguyên chỉ ra rằng, bảo tồn tại chỗ thường được xem là cách tốt nhất để bảo tồn kiến trúc lịch sử, bảo tồn dời chỗ thì là biện pháp bất đắc dĩ dưới sự xung đột giữa phát triển đô thị và bảo tồn văn hóa. Nghiên cứu tổng hợp 28 trường hợp dời chỗ bảo tồn từ thời kỳ Nhật trị Đài Loan đến đương đại, và cảnh báo rằng kiến trúc sau khi di dời có thể mất đi môi trường gốc, đồng thời đối mặt với nghi ngờ về tính xác thực của vật liệu và kỹ thuật công trình.[^7]
 
-Vì vậy, nhà cổ Lín An Tài tại công viên Bình Kiến không chỉ là "bản sao nguyên bản của địa điểm gốc", cũng không chỉ là "một công trình giả lại chỉ còn lại bề ngoài". Đó là một công trình lịch sử đã từng bị phân tán, hư hại, được giải mã lại, và cuối cùng được kết hợp từ một phần vật liệu cũ và kỹ thuật mới. Độ thật của nó không chỉ nằm ở việc gạch có phải là gạch cũ không, mà còn ở việc con người có sẵn sàng thừa nhận sự gián đoạn do sự chuyển nhà gây ra hay không.
+Vì vậy, Nhà cổ Lâm An Thái tại Công viên Binh Giang không đơn giản là "bản sao của vị trí gốc", cũng không phải "di tích giả chỉ còn vỏ bọc bên ngoài". Nó là một công trình kiến trúc lịch sử từng bị tháo dỡ, hư hỏng, được giải mã lại, và cuối cùng được cấu thành từ một phần vật liệu cũ và những quyết định kỹ thuật mới. Tính xác thực của nó không chỉ nằm ở gạch có phải cũ hay không, mà còn nằm ở việc con người có dũng cảm nói ra những đứt gãy do sự di dời gây ra hay không.
 
-## Phong cách Phong Thủy ban đầu không thể mang theo
+## Nguyên thủy phong thủy, không thể mang đi
 
-Nhà cổ Lín An Tài ban đầu hướng về phía đông bắc và hướng ra phía tây nam, với dãy núi được gọi là "núi Án" ở phía trước, các cột đá bảo vệ hai bên, và khu vườn trước là "minh thái". Những mối quan hệ địa lý này không chỉ là nền tảng trang trí, mà là một phương pháp truyền thống trong kiến trúc dân gian để hiểu hướng, gió, nước và trật tự gia đình. [^3]
+Nhà cổ Lâm An Thái ban đầu tọa đông bắc hướng tây nam, phía trước có dãy núi gọi là án sơn (案山), hai bên có hộ sa (護砂), trước hồ bán nguyệt (半月池) là minh đường (明堂). Những quan hệ địa lý này không phải là bối cảnh trang trí, mà là một bộ phương pháp mà dân cư truyền thống dùng để hiểu phương hướng, gió, nước và trật tự gia tộc.[^3]
 
-Sau khi chuyển đến công viên Bình Kiến, môi trường địa lý ban đầu đã không còn tồn tại. Tài liệu lịch sử không giả vờ rằng khoả trống này có thể được hoàn toàn khắc phục, mà ghi nhận rằng tại địa điểm mới, các dãy núi nhân tạo "Gu Trúc Minh Sơn", các dốc đồng cỏ và khu vườn được dùng để tượng trưng lại cho "núi Án" và "minh thái". [^3] Trang lịch sử tiếng Anh của chính phủ cũng rõ ràng chỉ ra rằng sau khi ngôi nhà rời khỏi Đường Tứ Vĩ, phong cách Phong Thủy ban đầu đã thay đổi, và khu vườn tại địa điểm mới là sự tái hiện của hệ thống cảnh quan đó. [^8]
+Sau khi di dời đến Công viên Binh Giang (濱江公園), môi trường địa lý ban đầu đã không còn tồn tại. Sử liệu chính thức không giả vờ rằng khe hở này có thể bị xóa bỏ hoàn toàn, mà ghi nhận tại hiện址 dùng núi nhân tạo 「顧渚茗山」, đồi cỏ và vườn để tái tượng trưng cho án sơn và minh đường ban đầu.[^3] Trang lịch sử chính thức tiếng Anh cũng nêu rõ rằng sau khi nhà cổ di dời khỏi đường Tứ Vi (四維路), phong thủy địa cảnh ban đầu đã thay đổi, vườn tại hiện址 là sự tái hiện lại bộ quan hệ địa cảnh đó.[^8]
 
-Đây là một sự khác biệt nhỏ nhưng then chốt. Sự tái hiện không phải là sự phục hồi. Dãy núi nhân tạo có thể giúp người ta hiểu ngôn ngữ Phong Thủy ban đầu, nhưng không thể mang trở lại các dãy núi đá, cánh đồng, ngôi nhà lân cận và cuộc sống từ thời Thanh. Do đó, khu vườn vừa là một phần của dự án bảo tồn, vừa là một sự thừa nhận công khai: có những thứ chỉ có thể được giải thích, không thể được vận chuyển.
+Ở đây có một khác biệt tinh tế nhưng quan trọng. Tái hiện không phải là khôi phục. Núi nhân tạo có thể giúp người ta hiểu được từ vựng phong thủy ban đầu, nhưng không thể triệu hồi lại núi Thiềm Nhâm (蟾蜍山), ruộng đất, nhà láng giềng và cuộc sống từ thời Thanh trở về đây. Vườn vì vậy vừa là công trình bảo tồn, vừa là một sự công nhận công khai: những thứ nhất định chỉ có thể được giải thích, không thể được di dời.
 
-Bản đồ dẫn đường kiến trúc của công viên chia khu vực thành hai nhóm màu xanh và đỏ, bao gồm Hồ Sen, Khu Vực Ngoại Thành, An Tài Đường, Cung Đình, Cột Đỗ, Tường Mây, Khu Vườn Đá Lạc, Ái Bái Đình, Đường Đá Bay và Gu Trúc Minh Sơn. [^9] Những tên gọi này cung cấp cho khách tham quan ngày nay một tuyến đường để đi, đồng thời biến ngôi nhà từ không gian gia đình thành không gian giáo dục công cộng.
+Hướng dẫn kiến trúc chính thức chia khu vườn thành hai nhóm景點 màu xanh lam và màu đỏ, bao gồm hồ Nguyệt Mi (月眉池), ngoại trình (外埕), đường An Thái (安泰堂), chính청 (正廳), đấu cung (斗栱), vân tường (雲牆), viện thạch Lô Cổ (咾咕石院), ái ba tíng (愛波亭), bộ đạo phi thạch (飛石步道) và Cổ Trữ Minh Sơn (顧渚茗山).[^9] Những tên gọi này cho phép người tham quan ngày nay có lối đi để đi, cũng biến nhà cổ từ không gian gia tộc thành không gian giáo dục công cộng.
 
-## Ba quy mô: Vật liệu, cảnh quan và ký ức công cộng
+## Ba quy mô: Vật liệu, Cảnh quan và Ký ức công cộng
 
-Dữ liệu bảo tồn của nhà cổ Lín An Tài có thể được đọc ở ba quy mô. Quy mô nhỏ nhất là vật liệu, bao gồm khung gỗ, gạch, ngói, đá và cửa sổ. Quy mô này quan tâm đến việc các bộ phận vẫn còn ở lại không, có thể nhận dạng được vị trí ban đầu và cách bù đắp sau khi hư hại. Quy mô trung gian là kiến trúc, bao gồm cung đình, công trình bảo vệ, khu vườn trước, hồ sen và hàng rào. Quy mô này quan tâm đến việc thứ tự không gian có thể vẫn được hiểu thấu. Quy mô lớn nhất là đô thị, bao gồm Đường Tứ Vĩ, mở rộng đường, kho tạm, dưới cầu cao và công viên Bình Kiến. Quy mô này quan tâm đến cách một ngôi nhà bị thay đổi bởi các công trình công cộng, cũng như ai có quyền quyết định những nơi nào đáng để giữ lại. [^5] [^6]
+Tài liệu bảo tồn Nhà cổ Lâm An Thái có thể được đọc theo ba quy mô. Quy mô nhỏ nhất là vật liệu, bao gồm cấu kiện gỗ, gạch, ngói, đá lát và cửa sổ. Quy mô này quan tâm đến việc cấu kiện có còn tồn tại không, có thể nhận diện vị trí gốc không, cũng như cách bổ sung sau khi hao mòn. Quy mô trung gian là kiến trúc, bao gồm chính thân, hộ long, tiền đình, nguyệt mi hồ và tường rào. Quy mô này quan tâm đến trật tự không gian có còn có thể hiểu được không. Quy mô lớn nhất là thành phố, bao gồm Tứ Vĩ lộ, mở rộng đường, kho bãi, dưới cầu cao và công viên ven sông. Quy mô này quan tâm đến việc một ngôi nhà bị thay đổi như thế nào bởi công trình công cộng, cũng như ai có quyền quyết định những nơi nào đáng để giữ lại.[^5] [^6]
 
-| Quy mô đọc | Dữ liệu có thể quan sát                                                     | Vấn đề bảo tồn không thể bỏ qua                              |
-| ---------- | --------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| Vật liệu   | Gỗ, gạch, đá, cửa sổ và mã hóa                                              | Tỷ lệ vật liệu cũ, mức độ hư hại và khả năng nhận dạng       |
-| Kiến trúc  | Cung đình, công trình bảo vệ, khu vườn trước, hồ sen và hàng rào            | Hướng không gian, đường đi sinh hoạt và mối quan hệ kỹ thuật |
-| Đô thị     | Địa điểm gốc, tuyến đường chuyển nhà, đất sử dụng cho dự án và địa điểm mới | Mối quan hệ đất đai, quyền quyết định và ký ức công cộng     |
+| Quy mô đọc | Dữ liệu có thể quan sát                                          | Vấn đề không thể bỏ qua trong bảo tồn                       |
+| ---------- | ---------------------------------------------------------------- | ----------------------------------------------------------- |
+| Vật liệu   | Gỗ, gạch ngói, đá lát, cửa sổ và mã hóa                          | Tỷ lệ vật liệu cũ, trạng thái hư hỏng và khả năng nhận diện |
+| Kiến trúc  | Chính thân, hộ long, tiền đình, nguyệt mi hồ và tường rào        | Hướng không gian, đường đi sinh hoạt và mối quan hệ kỹ nghệ |
+| Thành phố  | Vị trí gốc, tuyến đường di dời, đất cho công trình và vị trí mới | Mối quan hệ đất đai, quyền quyết định và ký ức công cộng    |
 
-Ba quy mô này cũng cho thấy, một bức ảnh không thể chịu đựng toàn bộ trách nhiệm của công việc bảo tồn. Ảnh có thể ghi lại bề ngoài, bản đồ đo lường có thể ghi lại kích thước, mã hóa có thể truy xuất các bộ phận, tài liệu thuyết giải có thể bổ sung kinh nghiệm sống, và báo cáo chính thức lưu giữ bối cảnh quyết định về chính sách và kỹ thuật. Các loại tài liệu khác nhau không thể thay thế cho nhau, nhưng có thể kiểm chứng lẫn nhau. Sự phân lớp tài liệu này vẫn quan trọng đối với số hóa di sản văn hóa ngày nay, vì một mô hình ba chiều trên mạng nếu không có bối cảnh địa điểm gốc, vật liệu và người dùng, vẫn có thể chỉ là một mô hình đẹp nhưng mất liên hệ lịch sử.
+Ba quy mô này cũng cho thấy, một tấm ảnh đơn lẻ không thể gánh vác toàn bộ công việc bảo tồn. Ảnh chụp ghi lại hình thức, bản vẽ đo đạc ghi lại kích thước, mã hóa theo dõi cấu kiện, tư liệu sử述 bổ sung kinh nghiệm sống, báo cáo chính thức lưu lại mạch quyết định chính sách và công trình. Các tư liệu khác nhau không thể thay thế lẫn nhau, nhưng có thể đối chiếu nhau. Việc phân lớp tư liệu này đối với số hóa tài sản văn hóa ngày nay vẫn quan trọng, vì một mô hình ba chiều trên mạng nếu thiếu bối cảnh vị trí gốc, vật liệu và người sử dụng, vẫn có thể chỉ là một mô hình đẹp nhưng mất đi mối quan hệ lịch sử.
 
-> **Ghi chú của nhà soạn trưng bày:** Bảo tồn không phải là tập trung tất cả dữ liệu vào một trường bày, mà là để các bằng chứng khác nhau có thể đối chiếu với nhau.
+> **Ghi chú của người bảo tàng:** Bảo tồn không phải là tập trung tư liệu vào một tủ trưng bày, mà là để các loại bằng chứng khác nhau đối ứng được với nhau.
 
-## Từ ngôi nhà gia đình đến không gian hàng ngày công cộng
+## Từ nhà tổ đến công cộng nhật thường
 
-Năm 2000, Bảo tàng Lưu trữ Phong Tỏa của nhà cổ Lín An Tài chính thức mở cửa. Năm 2010, sau khi mở rộng khu vườn, ngôi nhà từng trở thành một trong các trưng bày của Triển lãm Hoa kiểu Bắc Kinh Quốc tế. [^8] Ngôi nhà này một lần nữa thay đổi hình thái sống: không chỉ phục vụ một gia đình nữa, mà để cho người lạ đến và hiểu biết về ngôi nhà Mỹ Nam thời Thanh, cuộc sống gia đình và sự thay đổi của thành phố Bắc Kinh.
+Năm 2000, Bảo tàng dân俗 văn vật nhà cổ Lâm An Thái chính thức mở cửa đón khách. Năm 2010, sau khi mở rộng vườn, nó từng trở thành một trong các triển lãm của Hội hoa quốc tế Đài Bắc. [^8] Cái ngôi nhà này như vậy đã chuyển sang một dạng sống khác: không còn chỉ phục vụ một gia tộc, mà để người lạ bước vào hiểu rõ nhà ở người Min Nam thời nhà Thanh, đời sống gia tộc và sự biến đổi của thành phố Đài Bắc.
 
-Ngôi nhà càng giống một điểm đến dễ tiếp cận, sự mở cửa càng mang lại sự phản chiếu, và càng dễ khiến người ta quên rằng nó ban đầu không ở đây. Du khách chụp ảnh bên Hồ Sen, thấy khu vườn của công viên Bình Kiến và khu vườn đã được tái lắp. Nếu không có tài liệu lịch sử, nghiên cứu và hồ sơ chuyển nhà, Đường Tứ Vĩ ở địa điểm gốc sẽ chỉ trở thành nền tảng.
+Nhà cổ càng giống một điểm đến dễ tiếp cận, việc mở cửa chính nó càng mang lại một sự đối lập khác, càng dễ khiến người ta quên rằng nó ban đầu không ở đây. Du khách chụp ảnh bên cạnh hồ bán nguyệt, thấy的是 vườn Công viên Binh Giang và các viện lạc đã được tái tổ chức. Nếu không có lịch sử biến천, nghiên cứu và hồ sơ di dời, đường Tứ Vĩ tại nguyên址 chỉ sẽ lùi vào hậu cảnh.
 
-Cách tham quan tốt nhất là coi tuyến đường như một bản đồ bảo tồn thu nhỏ. Trước tiên, hãy nhìn hàng rào và cửa nhập cảnh, chú ý cách ngôi nhà phân chia không gian nội ngoại bằng cửa, tường và khu vườn trước. Sau đó, đi tới Hồ Sen và Cung Đình, quan sát mối quan hệ tầm nhìn giữa mặt nước, khu vườn và các công trình chính. Cuối cùng, nhìn vào mái nhà, cột đỗ, cửa ba con và các chi tiết trang trí, đặt chúng trở lại bối cảnh kỹ thuật kiến trúc và cuộc sống gia đình, thay vì chỉ coi chúng như trang trí. Bản đồ dẫn đường chính thức liệt kê các điểm này, cung cấp một cách đọc không gian mà không cần hướng dẫn viên. [^9]
+Cách tham quan khá tốt hơn là coi tuyến đường như một bản đồ bảo tồn thu nhỏ. Trước tiên xem tường rào và lối vào, chú ý nhà cổ như thế nào dùng cửa, tường và tiền đình phân chia nội ngoại. Rồi đi đến hồ nguyệt mi và chính청, quan sát mối quan hệ tầm nhìn giữa mặt nước, viện lạc và kiến trúc chính. Cuối cùng xem đầu ngói, đấu cống, áo thọ tam xuyên môn và họa văn chi tiết, đặt chúng trở lại mạch lạc của kỹ thuật kiến trúc và đời sống gia tộc, chứ không chỉ coi là trang trí. Hướng dẫn viên chính thức liệt kê các điểm quan trọng này, chính好 cung cấp một phương pháp không cần phụ thuộc hướng dẫn viên cũng có thể tự đọc không gian. [^9]
 
-Nếu đưa địa điểm gốc vào hình dung, chuyến tham quan sẽ thêm một tọa độ vô hình. Đường Tứ Vĩ không phải là một món hàng trong khu vườn, nhưng là điểm khởi đầu để hiểu tại sao ngôi nhà phải được chuyển đi. Công viên Bình Kiến không phải là bức ảnh thay thế cho địa điểm gốc, mà là một cảnh quan công cộng mới sau khi tái lắp. Hai địa điểm này phải tồn tại đồng thời, lịch sử của nhà cổ Lín An Tài mới không bị thu hẹp thành chỉ một ngôi nhà cổ đẹp. Cách đọc này cũng nhắc nhở chúng ta rằng, khách tham quan không chỉ đang quan sát một sản phẩm hoàn chỉnh, mà đang nhận biết một mối quan hệ đô thị đã bị cắt đứt, được bảo tồn và giải thích lại. Hàng rào ở cửa nhập cảnh, mặt nước trong khu vườn, tầm quan trọng của Cung Đình và trang trí mái nhà, mỗi thứ lưu giữ thông tin ở các mức độ khác nhau. Kết nối chúng trở lại địa điểm gốc và quá trình chuyển nhà, chúng ta mới thấy được giá trị văn hóa của ngôi nhà cổ không chỉ nằm trong những họa tiết tinh xảo nhất.
+Nếu đưa nguyên址 vào tưởng tượng, tham quan sẽ thêm một tọa độ vô hình. Đường Tứ Vĩ không phải là một triển lãm trong khu vực, mà là điểm xuất phát để hiểu tại sao ngôi nhà này phải được di dời. Công viên Binh Giang thì không phải là bức ảnh thay thế cho nguyên址, mà là cảnh quan công cộng mới sau khi tái建. Hai địa điểm phải đồng thời tồn tại, lịch sử nhà cổ Lâm An Thái mới không bị nén thành một ngôi cổ trạch đẹp đẽ. Cách đọc này cũng nhắc nhở chúng ta, người tham quan không chỉ đang xem một thành phẩm hoàn chỉnh, mà đang nhận diện một mối quan hệ đô thị bị cắt đứt, được bảo tồn, rồi được giải thích lại. Tường rào lối vào, mặt nước trong viện, quy mô chính청 và trang trí đầu ngói, mỗi thứ bảo lưu một lớp thông tin khác nhau. Kết nối chúng trở về nguyên址 và quá trình di dời, mới hiểu giá trị văn hóa của nhà cổ không chỉ nấp trong những điêu khắc tinh xảo nhất.
 
-Dữ liệu đăng ký của Bộ Văn hóa Quốc gia liệt kê nhà cổ Lín An Tài như một công trình lịch sử, ghi nhận địa điểm gốc, nền tảng lịch sử và trạng thái mở cửa. [^10] Hành động đăng ký này cũng cho thấy rằng di sản văn hóa không chỉ đạt được ý nghĩa công cộng thông qua "trông có vẻ rất cũ", mà thông qua điều tra, đăng ký, nghiên cứu và quản lý, biến giá trị của một ngôi nhà thành ký ức mà toàn xã hội có thể chia sẻ.
+Dữ liệu đăng ký của Mạng lưới Di sản Văn hóa Quốc gia liệt kê nhà cổ Lâm An Thái là kiến trúc lịch sử, và ghi chép nguyên址, bối cảnh lịch sử và trạng thái mở cửa. [^10] Hành động đăng ký này bản thân cũng giải thích, tài sản văn hóa không chỉ nhờ 「trông già」 mà có ý nghĩa công cộng, mà là thông qua điều tra, đăng ký, nghiên cứu và quản lý, biến giá trị của một ngôi nhà thành ký ức mà xã hội có thể cùng sử dụng.
 
-> **Ghi chú của nhà soạn trưng bày:** Điều đáng chú ý nhất của nhà cổ Lín An Tài hôm nay không chỉ là những mảnh ngói và họa tiết, mà là nó để lại chi phí của động từ "bảo tồn" ngay tại chỗ.
+> **Ghi chú của người策展:** Điều đáng xem nhất ở nhà cổ Lâm An Thái hôm nay, không chỉ là ngói và điêu hoa, mà là nó để lại giá trị của động từ「bảo tồn」tại hiện trường.
 
-## Ký ức hệ thống do sự kiện để lại
+## Ký ức thể chế mà vụ án này để lại
 
-Ảnh hưởng của nhà cổ Lín An Tài không chỉ nằm trong hàng rào của công viên Bình Kiến. Nghiên cứu chính thức của chính quyền thành phố Bắc Kinh đưa nó vào bối cảnh của các công trình lịch sử trong toàn bộ Đài Loan, từ tranh cãi địa điểm gốc, hội thảo chuyên gia, việc tháo dỡ các bộ phận đến công trình tái lắp, tổng hợp thành một trường hợp có thể được nghiên cứu, so sánh và xem xét sau này. [^5] Điều này khiến câu hỏi "liệu ngôi nhà cổ có thể được chuyển không" không chỉ là một tranh cãi tạm thời của một ngôi nhà, mà trở thành một vấn đề mà chính sách công cộng phải giải quyết.
+Tác động của Nhà cổ Lâm An Thái không chỉ nằm trong bức tường Công viên Binh Giang. Nghiên cứu chính thức của Chính phủ thành phố Đài Bắc đặt nó trong bối cảnh di dời bảo tồn kiến trúc lịch sử Đài Loan, từ tranh luận về vị trí gốc, hội nghị chuyên gia, tháo dỡ cấu kiện đến công trình tái tổ chức, tổng hợp thành một vụ án sau này có thể được nghiên cứu, so sánh và kiểm討. [^5] Điều này khiến câu hỏi «di tích có thể di dời hay không» không còn chỉ là tranh议 nhất thời của một ngôi nhà, mà trở thành vấn đề chính sách công phải xử lý.
 
-Luận văn tiến sĩ năm 2006 lấy sự kiện chuyển nhà của nhà cổ Lín An Tài làm mốc phân cắt, tổng hợp các trường hợp bảo tồn di chuyển khác ở khắp nơi trên đảo. Nghiên cứu không coi tất cả các lần chuyển nhà sau này là sự tiến bộ, mà từng điều tra lý do chuyển nhà, phương pháp kỹ thuật, cơ sở pháp lý và kết quả sau khi chuyển nhà. [^7] Cách viết này đáng chú ý, vì nó phân tích "bảo tồn thành công" thành một số vấn đề có thể kiểm tra: mối quan hệ không gian ban đầu còn lại bao nhiêu, vật liệu có thể nhận dạng được không, vị trí mới có thể giải thích cuộc sống ban đầu không, việc sử dụng công cộng có giúp công trình tiếp tục tạo ra ý nghĩa không.
+Luận án tiến sĩ năm 2006 lấy sự kiện Nhà cổ Lâm An Thái làm mốc phân kỳ, tổng hợp các vụ án di dời bảo tồn tại các địa phương Đài Loan sau đó. Nghiên cứu không xem tất cả các lần di dời sau đó đều là tiến bộ, mà lần lượt truy vấn nguyên nhân di dời, phương pháp thi công, cơ sở pháp lý và kết quả sau di dời. [^7] Cách viết này rất đáng chú ý, vì nó phân tách «bảo tồn thành công» thành một vài vấn đề có thể kiểm tra: mối quan hệ không gian gốc còn lại bao nhiêu, vật liệu có còn nhận diện được không, vị trí mới có giải thích được đời sống cũ không, sử dụng công cộng có cho kiến trúc tiếp tục sinh ra ý nghĩa không.
 
-Đối với các dự án kỹ thuật đô thị ngày nay, trường hợp này cũng cung cấp một lời nhắc nhở ngược lại. Nếu di sản văn hóa chỉ được nhận thấy sau khi tuyến đường, quyền sở hữu đất và tiến độ thi công đã được cố định, bảo tồn thường chỉ còn lại hai lựa chọn: tháo dỡ hoặc biến mất. Cách tiếp cận tốt hơn là đưa các công trình lịch sử, cảnh quan xung quanh và ký ức cộng đồng vào giai đoạn lập kế hoạch sớm, so sánh chi phí giữa bảo tồn tại chỗ, điều chỉnh tuyến đường, xây dựng dưới lòng đất, bảo tồn một phần và bảo tồn di chuyển, rồi mới quyết định ai chịu trách nhiệm cho khoản mất nào. Điều này không phải là biến mỗi ngôi nhà cũ thành khu vực cấm chạm, mà là tránh việc "chuyển nhà" bị lầm lẫn thành một giải pháp trung tính không có chi phí.
+Đối với công trình đô thị ngày nay, vụ án này còn cung cấp một lời nhắc nhở ngược. Nếu tài sản văn hóa chỉ được nhìn thấy khi đường tuyến, quyền đất và tiến độ thi công đã đều cố định, bảo tồn thường chỉ còn lại lựa chọn hai một: tháo dỡ hoặc biến mất. Cách làm tốt hơn là đưa kiến trúc lịch sử, cảnh quan xung quanh và ký ức cộng đồng vào giai đoạn quy hoạch sớm, trước hết so sánh chi phí của bảo tồn tại chỗ, cải tuyến đường, ngầm hóa, bảo lưu một phần và di dời bảo tồn, sau đó quyết định tổn thất nào do ai gánh chịu. Điều này không phải biến mỗi ngôi nhà cũ thành khu cấm không thể chạm, mà là đừng để «di dời» bị hiểu lầm thành phương án trung lập không có chi phí.
 
-Nhà cổ Lín An Tài đã bảo tồn một phần bằng chứng vật lý của gia đình nhập cư từ An Tĩnh thời Thanh tại Bắc Kinh, cũng như hình thái không gian của nhà kết hợp Mỹ Nam, kỹ thuật kiến trúc và hình ảnh sống. Nó cũng bảo tồn hồ sơ về cách chính phủ, các chuyên gia và gia đình Lín kéo nhau trong cuộc đối mặt với các công trình đường phố của Bắc Kinh vào những năm 1970. [^3] [^5]
+Nhà cổ Lâm An Thái bảo tồn một phần bằng chứng về gia đình di dân An Khê thời Thanh tại Đài Bắc thiết lập trạch đệ, cũng bảo tồn hình thức không gian, nghề thủ công kiến trúc và tưởng tượng đời sống của tứ hợp viện Mân Nam. Nó còn bảo tồn hồ sơ thập niên 1970 Đài Bắc đối mặt xung đột giữa đường phố đô thị và kiến trúc lịch sử, chính phủ, chuyên gia và gia đình kéo co như thế nào. [^3] [^5]
 
-Mảnh đất ban đầu không được bảo tồn. Các con phố của Đường Tứ Vĩ, các cánh đồng ban đầu, hàng xóm và sinh hoạt hàng ngày của gia đình cũng không đi cùng với công trình. Vì sao nghiên cứu học thuật lại lấy nhà cổ Lín An Tài làm trường hợp đại diện cho bảo tồn di chuyển, không phải vì phương pháp này không có bất kỳ nhược điểm nào, mà vì trường hợp này biến những nhược điểm thành những vấn đề không thể bỏ qua trong các cuộc thảo luận về di sản văn hóa sau này. [^7]
+Mảnh đất gốc không được bảo tồn. Phố cổ Tứ Vĩ, ruộng đồng gốc, láng giềng và nhật thường gia đình, cũng không theo kiến trúc đến vị trí mới. Nghiên cứu học thuật lấy Nhà cổ Lâm An Thái làm đại diện cho di dời bảo tồn, không phải vì phương pháp này không khuyết điểm, mà vì vụ án này biến chính khuyết điểm thành vấn đề không thể bỏ qua trong thảo luận tài sản văn hóa sau này. [^7]
 
-Khi bước vào công viên Bình Kiến, có thể coi đây là một ngôi nhà cổ, cũng có thể coi đây là một hồ sơ đã được chuyển đi. Quan điểm đầu tiên để người ta trân trọng kiến trúc, quan điểm thứ hai để người ta chú ý tới mối quan hệ giữa kiến trúc và mảnh đất. Cả hai quan điểm đều cần thiết, và thiếu bất kỳ quan điểm nào, nhà cổ Lín An Tài sẽ bị mô tả quá đơn giản.
+Khi bước vào Công viên Binh Giang, có thể xem nó như một ngõ cổ, cũng có thể xem nó như một kho lưu trữ đã bị di dời. Cách nhìn thứ nhất cho người ta ngắm kiến trúc, cách nhìn thứ hai cho người ta chú ý mối quan hệ giữa kiến trúc và đất. Hai cách nhìn đều cần thiết, thiếu bất kỳ cái nào, Nhà cổ Lâm An Thái đều sẽ được nói quá dễ dàng.
 
-Điều được bảo tồn không nhất thiết là nơi ban đầu, mà là sự sẵn sàng của con người sau khi mất đi nơi ban đầu, vẫn thừa nhận sự mất mát. Nhà cổ Lín An Tài vì vậy không chỉ là một ngôi nhà được giữ lại, mà còn là câu hỏi đầu tiên mà Bắc Kinh buộc phải trả lời trong cuộc đối mặt giữa mở rộng đường, cải tổ đô thị và ký ức văn hóa. Câu hỏi này chưa bao giờ được chuyển đi đâu, nó vẫn đang ở nguyên chỗ chờ người ta đặt ra một lần nữa. Và chính vì vậy, nhà cổ Lín An Tài xứng đáng để được coi là cửa ngõ của lịch sử đô thị hiện đại của Đài Loan, chứ không chỉ là một cái tên di tích du lịch trên danh sách.
+Điều được bảo tồn, không nhất thiết là nơi gốc, mà là con người sau khi mất đi vị trí gốc, vẫn nguyện ý công nhận sự mất mát. Nhà cổ Lâm An Thái do đó không chỉ là một ngôi nhà được lưu lại, mà còn là câu hỏi đầu tiên mà Đài Bắc bị ép phải trả lời giữa việc mở rộng đường, cập nhật đô thị và ký ức văn hóa. Câu hỏi này đến nay chưa được di dời đi nơi khác, nó vẫn ở nguyên chỗ chờ người hỏi lại lần nữa. Chính vì vậy, Nhà cổ Lâm An Thái xứng đáng được xem là một cửa ngõ vào lịch sử đô thị hiện đại Đài Loan, chứ không chỉ là tên di tích trên danh sách du lịch.
 
-## Tài liệu tham khảo mở rộng
+## Đọc thêm
 
-- [Trang web chính thức của Bảo tàng Lưu trữ Phong Tỏa nhà cổ Lín An Tài](https://linantai.taipei/)
-- [Mạng Lưới Di sản Văn hóa Quốc gia: Nhà cổ Lín An Tài](https://nchdb.boch.gov.tw/assets/overview/historicalBuilding/20121031000002)
+- [Trang web chính thức Bảo tàng dân俗 văn vật nhà cổ Lâm An Thái](https://linantai.taipei/)
+- [Mạng lưới Di sản Văn hóa Quốc gia: Nhà cổ Lâm An Thái](https://nchdb.boch.gov.tw/assets/overview/historicalBuilding/20121031000002)
 - [Wikimedia Commons: Hình ảnh và thông tin cấp phép](<https://commons.wikimedia.org/wiki/File:Lin_An_Tai_Historical_House_%26_Museum_-_Taipei_-_Taiwan_-_01_(47873685321).jpg>)
 
 ## Tài liệu tham khảo
 
-[^1]: [Sở Hành chính Thành phố Bắc Kinh: Lịch sử ngôi nhà](https://linantai.taipei/cp.aspx?n=84AD6C3DE6FF4C71) — Trang lịch sử chính thức giải thích vị trí gốc, thời gian xây dựng của gia đình Lín, cũng như bối cảnh phải giải tỏng vào năm 1978 do mở rộng Đường Đun Hoá Nam.
+[^1]: [Cục Dân chính Thành phố Taipei: Lịch sử nhà cổ](https://linantai.taipei/cp.aspx?n=84AD6C3DE6FF4C71) — Trang lịch sử chính thức giải thích vị trí gốc của nhà cổ Lâm An Thái, thời đại xây dựng của gia tộc, cũng như bối cảnh năm 1978 đối mặt với việc tháo dỡ do đường Dũn Hoa Nam mở rộng.
 
-[^2]: [Taipei Times: Taiwan in Time: Dismantling history, brick by brick](https://www.taipeitimes.com/News/feat/archives/2017/10/08/2003679925) — Bản báo tiếng Anh chi tiết ghi nhận quá trình giải tỏng, lưu trữ, bảo quản dưới cầu cao, tái lắp tại công viên Bình Kiến và quy chuẩn kỹ thuật, cung cấp nguồn tiếng Anh và câu chuyện hiện trường.
+[^2]: [Taipei Times: Taiwan in Time: Tháo dỡ lịch sử, gạch bởi gạch](https://www.taipeitimes.com/News/feat/archives/2017/10/08/2003679925) — Báo cáo chuyên đề tiếng Anh ghi chép từng đoạn việc tháo dỡ, kho bãi, bảo tồn dưới cầu cao, tái xây dựng công viên Binh Giang và tiêu chuẩn kỹ thuật, cung cấp nguồn tiếng Anh và sự kiện hiện trường.
 
-[^3]: [Sở Hành chính Thành phố Bắc Kinh: Lịch sử ngôi nhà](https://linantai.taipei/cp.aspx?n=84AD6C3DE6FF4C71) — Trang chính thức cung cấp lý giải liên tục về Lín Tân Minh, Lín Chí Năng, cửa hàng Vinh Thái, nguồn gốc tên gọi "An Tài", thời gian xây dựng và phong cách Phong Thủy ban đầu.
+[^3]: [Cục Dân chính Thành phố Taipei: Lịch sử nhà cổ](https://linantai.taipei/cp.aspx?n=84AD6C3DE6FF4C71) — Trang chính thức cung cấp nguồn gốc tên Lâm Khâm Minh, Lâm Chí Năng, Vinh Thái Hàng, An Thái, thời đại xây dựng và giải thích liên tục về phong thủy địa cảnh ban đầu.
 
-[^4]: [Bản tin đặc biệt của Sở Hành chính Thành phố Bắc Kinh: Triển lãm kiến trúc lịch sử Lín An Tài](https://slhr.gov.taipei/News_Content.aspx?n=F8856BB39A1F011C&sms=72544237BBE4C5F6&s=3CEE59DCF28C9665) — Bản tin năm 2014 tổng hợp dữ liệu về việc tháo dỡ, kho tạm, dưới cầu cao Đường Hòa Bình Tây, xây dựng lại trên Đường Bình Kiến và kỷ niệm tuổi thơ của con cháu gia đình Lín.
+[^4]: [Bản tin báo chí Cục Dân chính Thành phố Taipei: Triển lãm đặc biệt kiến trúc lịch sử Lâm An Thái](https://slhr.gov.taipei/News_Content.aspx?n=F8856BB39A1F011C&sms=72544237BBE4C5F6&s=3CEE59DCF28C9665) — Bản tin báo chí chính thức năm 2014 tổng hợp tháo dỡ, kho tạm thời, dưới cầu cao đường Hòa Bình Tây, tái xây dựng phố Binh Giang và ký ức sống của hậu duệ nhà Lâm như tư liệu trực tiếp.
 
-[^5]: [Chính phủ Bắc Kinh: Báo cáo nghiên cứu về chiến dịch bảo tồm và chuyển nhà của ngôi nhà cổ Lín An Tài PDF](https://www-ws.gov.taipei/001/Upload/557/relfile/27153/7666060/a23d3f23-a60f-4f79-8c5d-30d851096cc7.pdf) — Báo cáo điều tra nghiên cứu chính thức thu thập tài liệu về tranh cãi từ năm 1960 đến 1970, khu đất dự kiến của dự án đường, hội thảo chuyên gia và cách gia đình Lín đối mặt với điều kiện chuyển nhà.
+[^5]: [Chính phủ Thành phố Taipei: Nghiên cứu phong trào bảo tồn di dời nhà cổ Lâm An Thái PDF](https://www-ws.gov.taipei/001/Upload/557/relfile/27153/7666060/a23d3f23-a60f-4f79-8c5d-30d851096cc7.pdf) — Báo cáo nghiên cứu điều tra chính thức thu thập tranh luận lưu huỷ thập niên 1960-1970, đất quy hoạch đường, hội nghị chuyên gia và 정리 tài liệu về điều kiện di dời mà gia đình Lâm đối mặt.
 
-[^6]: [Chính phủ Bắc Kinh: Báo cáo điều tra, sửa chữa và tái sử dụng ngôi nhà cổ Lín An Tài PDF](https://www-ws.gov.taipei/001/Upload/557/relfile/27153/7666060/d035a5b5-4182-4cfb-84b7-478e0e13d460.pdf) — Báo cáo tổng hợp cuối cùng sử dụng tài liệu, bản đồ đo lường và điều tra hiện trường để giải thích nhiều lần chuyển nhà, tái lắp, mức độ hư hại vaterials và phạm vi nghiên cứu về sửa chữa và tái sử dụng.
+[^6]: [Chính phủ Thành phố Taipei: Án nghiên cứu điều tra, tu phục và tái sử dụng nhà cổ Lâm An Thái PDF](https://www-ws.gov.taipei/001/Upload/557/relfile/27153/7666060/d035a5b5-4182-4cfb-84b7-478e0e13d460.pdf) — Báo cáo tổng kết chính thức dùng văn헌, đo đạc và điều tra hiện trạng giải thích nhiều lần di dời, tái tổ chức, hao mòn vật liệu và phạm vi nghiên cứu tu phục và tái sử dụng tiếp theo.
 
-[^7]: [Wang Qiaoying: Nghiên cứu các trường hợp bảo tồn di chuyển công trình lịch sử sau sự kiện chuyển nhà của ngôi nhà cổ Lín An Tài](https://www.airitilibrary.com/Article/Detail/U0017-1901200710323456) — Tóm tắt luận văn thạc sĩ của Viện Nghiên cứu Kiến trúc, Đại học Trung Yên, so sánh 28 trường hợp bảo tồn di chuyển, thảo luận về địa điểm gốc, độ thật, kỹ thuật và xung đột phát triển đô thị.
+[^7]: [Vương Kiều Anh: Sau sự kiện di dời nhà cổ Lâm An Thái, nghiên cứu điển hình bảo tồn di dời kiến trúc lịch sử tại khu vực Đài Loan](https://www.airitilibrary.com/Article/Detail/U0017-1901200710323456) — Tóm luận thạc sĩ Viện Kiến trúc Đại học Trung Nguyên so sánh 28 điển hình bảo tồn di dời, thảo luận về nguyên址, tính xác thực, kỹ thuật công trình và xung đột phát triển đô thị.
 
-[^8]: [Lin An Tai Historical House & Museum: Lịch sử](https://english.linantai.taipei/cp.aspx?n=F5C726741A5C17DC) — Trang lịch sử tiếng Anh chính thức của chính phủ Bắc Kinh giải thích thời gian xây dựng, bối cảnh chuyển nhà năm 1978, chuyển đến công viên Bình Kiến năm 1986, mở cửa năm 2000 và sự tái hiện của phong cách Phong Thủy.
+[^8]: [Nhà cổ & Bảo tàng Lâm An Thái: Lịch sử](https://english.linantai.taipei/cp.aspx?n=F5C726741A5C17DC) — Trang lịch sử tiếng Anh chính thức của Chính phủ Thành phố Taipei giải thích chéo về thời đại xây dựng, bối cảnh di dời năm 1978, chuyển đến công viên Binh Giang năm 1986, khai trương năm 2000 và tái hiện phong thủy địa cảnh.
 
-[^9]: [Bảo tàng Lưu trữ Phong Tỏa nhà cổ Lín An Tài: Bản đồ dẫn đường khu vườn](https://linantai.taipei/News_Content.aspx?n=48C7E65E1F3C887C&s=7982C1CB5A1EA8C7) — Trang bản đồ dẫn đường kiến trúc chính thức liệt kê các điểm không gian như Hồ Sen, Cung Đình, cột đỗ, tường mây, khu vườn đá Lạc, đường đá bay và Gu Trúc Minh Sơn.
+[^9]: [Bảo tàng dân俗 văn vật nhà cổ Lâm An Thái: Sơ đồ hướng dẫn khuôn viên](https://linantai.taipei/News_Content.aspx?n=48C7E65E1F3C887C&s=7982C1CB5A1EA8C7) — Trang hướng dẫn kiến trúc chính thức liệt kê hồ Nguyệt Mi, chính điện, đấu cống, vân tường, viện thạch Lô Cổ, đường bộ bay và Cổ Trữ Minh Sơn như các nút không gian nhìn thấy.
 
-[^10]: [Bộ Văn hóa Quốc gia: Trang mạng lưới di sản văn hóa quốc gia "Nhà cổ Lín An Tài"](https://nchdb.boch.gov.tw/assets/overview/historicalBuilding/20121031000002) — Trang đăng ký của Bộ Văn hóa Quốc gia cung cấp bối cảnh đăng ký công trình lịch sử, thông tin địa điểm gốc và trạng thái mở cửa, là nguồn dữ liệu chính phủ về danh tính di sản văn hóa.
-
-## Image sources
-
-- <https://commons.wikimedia.org/wiki/File:Lin_An_Tai_Historical_House_02.jpg>
-- <https://commons.wikimedia.org/wiki/File:Lin_An_Tai_Historical_House_01.jpg>
-- <https://commons.wikimedia.org/wiki/File:Lin_An_Tai_Historical_House_04.jpg>
-- <https://commons.wikimedia.org/wiki/File:Lin_An_Tai_Historical_House_07.jpg>
-- <https://commons.wikimedia.org/wiki/File:Lin_An_Tai_Historical_House_05.jpg>
+[^10]: [Cục Di sản Văn hóa Bộ Văn hóa: Mạng lưới Di sản Văn hóa Quốc gia 'Nhà cổ Lâm An Thái'](https://nchdb.boch.gov.tw/assets/overview/historicalBuilding/20121031000002) — Trang đăng ký di sản văn hóa quốc gia cung cấp bối cảnh đăng ký chính thức của kiến trúc lịch sử, thông tin nguyên址 và trạng thái mở cửa, là nguồn dữ liệu chính phủ về danh tính di sản văn hóa.

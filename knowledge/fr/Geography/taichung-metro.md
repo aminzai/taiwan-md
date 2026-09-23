@@ -24,23 +24,23 @@ rationale:
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'Geography/台中捷運.md'
-sourceCommitSha: '65acd39dc'
-sourceContentHash: 'sha256:930e1cf08d9847c7'
-sourceBodyHash: 'sha256:ac8494ae079b5eb8'
-translatedAt: '2026-09-11T08:12:13+08:00'
+sourceCommitSha: 'd9ef16d5e'
+sourceContentHash: 'sha256:9851afbe3b082508'
+sourceBodyHash: 'sha256:9e4ce2561244c6a9'
+translatedAt: '2026-09-23T02:16:35.627596+00:00'
 ---
 
-> **En 30 secondes :** En 2020, la première ligne verte de MRT de Taïchung est mise en service d'essai, mais est interrompue au sixième jour en raison d'une défaillance de l'attelage, avant d'être officiellement ouverte l'année suivante. Cette ligne aérienne de 16,7 km relie Beitou, l'avenue Wenzxin et la gare TGV de Taïchung, et fait entrer une ville longtemps dépendante des bus, des scooters et des voitures dans l'ère du transport sur rail, où les questions de correspondance, de sécurité et de marche à pied doivent être discutées. Ce qui change véritablement, ce n'est pas seulement l'endroit où les gens montent dans le train, mais le fait que Taïchung commence à comprendre sa propre distance en se repensant à partir de la « prochaine station ».
+> **Aperçu en 30 secondes :** En 2020, la première ligne de métro verte de Taïchung a été arrêtée pour défaillance de l'accouplement au cours de la 6ᵉ journée d'exploitation d'essai, et n'a été mise en service officielle qu'un an plus tard. Cette ligne surélevée de 16,7 km relie Beitun, la rue Wénchén et la gare de l'étau de Taïchung, amenant une ville longtemps dépendante des autobus, des motos et des automobiles dans l'ère du rail où il faut discuter des correspondances, de la sécurité et de la marche à pied. Ce qui a véritablement changé, ce n'est pas seulement d'où viennent les passagers, c'est que Taïchung commence à réinventer ses distances à partir de « la prochaine station ».
 
-Le 16 novembre 2020, Lou Hsiu-yan annonçait le début du service d'essai de la ligne verte du MRT de Taïchung, offrant à cette ville sa propre ligne de métro pour la première fois. Plus de 70 000 personnes sont entrées dans les stations ce jour-là, comme lors d'un grand événement de dégustation urbaine. Les gens ne se contentaient pas de prendre le train ; ils vérifiaient également si Taïchung pouvait véritablement devenir une ville se déplaçant sur rail. [^1]
+Le 16 novembre 2020, Lu Hsiu-yen a annoncé le début de l'exploitation d'essai de la ligne verte du métro de Taïchung, marquant la première fois que cette ville dispose de son propre métro. Plus de 70 000 personnes sont entrées ce jour-là, comme une grande dégustation urbaine, où l'on ne voyageait pas seulement en tramway, mais on vérifiait si Taïchung pouvait vraiment devenir une ville à transport ferroviaire. [^1]
 
-Six jours plus tard, l'axe central de l'attelage semi-permanente entre les wagons de la rame a cédé, entraînant l'arrêt complet des 18 rames. La ligne verte, initialement prévue pour une ouverture officielle à la fin de l'année 2020, n'a repris la route que le 25 avril de l'année suivante. [^2]
+Six jours plus tard, l'axe d'accouplement semi-permanent entre les voitures de rames s'est cassé, entraînant l'arrêt complet de 18 rames. La ligne verte, dont la mise en service officielle était prévue fin 2020, n'a repris le trafic qu'au 25 avril de l'année suivante. [^2]
 
-Ce qui rend cette ligne particulièrement digne d'être écrite, c'est précisément qu'elle ne s'est pas déroulée selon le scénario prévu par la cérémonie. Le MRT de Taïchung ne constitue pas un point final du type « nous avons enfin un métro », mais marque la première fois qu'un lieu aux routes larges, très motorisé et dispersé, doit placer la sécurité, la correspondance et la confiance sur la même carte de réseau.
+Ce qui rend cette ligne particulièrement remarquable, c'est qu'elle n'a pas suivi le scénario annoncé lors des cérémonies. Le métro de Taïchung n'est pas une simple conclusion à « enfin le métro », mais une ville aux rues larges, aux motos et automobiles nombreuses et à urbanisme dispersé, qui doit pour la première fois placer la sécurité, les correspondances et la confiance sur une même carte.
 
-![Train de la ligne verte du MRT de Taïchung circulant sur une voie aérienne](https://commons.wikimedia.org/wiki/Special:FilePath/Train_of_Taichung_MRT.jpg?width=1280)
+![Train du métro de Taïchung en circulation sur voie surélevée](https://commons.wikimedia.org/wiki/Special:FilePath/Train_of_Taichung_MRT.jpg?width=1280)
 
-_Légende : Train de la ligne verte du MRT de Taïchung. Photo : Cbliu. Source : [Page du fichier Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Train_of_Taichung_MRT.jpg), sous licence de données ouvertes du site gouvernemental du Bureau des affaires de presse du gouvernement municipal de Taïchung, avec mention de la source lors de l'utilisation. [^3]_
+\_illustration : train du métro de Taïchung. Crédit photo : Cbliu. Source de l'image : [page de fichier Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Train_of_Taichung_MRT.jpg)， diffusée selon la licence des données ouvertes du site officiel du service de presse de la ville de Taïchung, avec indication de la source. [^3]
 
 ## Une ville qui commence par « ne pas avoir de métro »
 
@@ -72,32 +72,30 @@ La chronologie de l'agence CNA écrit clairement ce retard. La ligne verte étai
 
 Du point de vue de l'ingénieur, la leçon de cette ligne est concrète. Les tests ne sont pas une cérémonie avant l'ouverture, mais un travail de retour continu à vérifier après l'ouverture. Du point de vue du passager, c'est une autre question : une ligne peut être très nouvelle, mais on ne peut pas exiger que les passagers utilisent leur propre corps pour effectuer la dernière vérification à sa place.
 
-## La ligne verte ne relie pas seulement deux extrémités
+## La ligne verte n’est pas qu’un lien entre deux extrémités
 
-La ligne verte est souvent comprise trop étroitement comme une ligne de navette « de Beitou au TGV ». Cette compréhension n'est pas fausse, mais elle est trop étroite. Elle place simultanément les zones résidentielles de Beitou, la correspondance ferroviaire de Songzhu, les activités commerciales de l'avenue Wenzxin, le noyau administratif autour du gouvernement municipal et la gare TGV de Taïchung dans le même système de billets et de fréquences de service.
+La ligne verte est le plus facilement perçue comme une « ligne de correspondance entre Nantun et la gare de la HSR ». Cette compréhension n’est pas erronée, mais elle est trop étroite. Elle place simultanément le quartier résidentiel de Nantun, le transfert vers le train de Songzhu, les activités commerciales sur Wenhsin Road, le noyau administratif autour de l’hôtel de ville, ainsi que la gare de la HSR de Taichung, le tout sous le même ticket et le même horaire.
 
-Cette ligne rend également l'échelle urbaine de Taïchung perceptible. Les voies aériennes passent au-dessus des rues ; les stations et les escaliers mécaniques amènent les gens du niveau de la rue à une autre hauteur. Des endroits qui n'étaient que adjacents sur la carte ont maintenant l'unité concrète de la « prochaine station ». La ville n'est plus seulement décrite par la longueur des routes, mais aussi par le temps d'attente entre les stations.
+Cette ligne rend également la grandeur de la ville de Taichung tangible. Les voies surélevées traversent au-dessus des rues, et les gares et les escaliers mécaniques transportent les passagers d’un niveau à un autre. Des endrops qui n’étaient que proches sur une carte possèdent désormais l’unité concrète du « prochain arrêt ». La ville n’est plus décrite uniquement par la longueur de ses routes, mais aussi par le temps d’attente entre deux gares.
 
-Railway Gazette indique que la ligne verte contourne le côté ouest du centre-ville et ne dessert pas la gare de Taïchung des Chemins de fer de Taïwan (TRA). Cette lacune la fait ressembler davantage à un premier squelette qu'à un réseau achevé. Le Bureau des projets de MRT du gouvernement municipal inclut actuellement l'extension de la ligne verte vers Dakeng et Changhua, ainsi que les lignes bleue, orange, violette et rouge suivantes, dans la vision d'un réseau ferroviaire global. [^4] [^5]
+Railway Gazette souligne que la ligne verte contourne l’ouest du centre-ville sans desservir la gare de la HSR de Taichung. Cette lacune la rend plus semblable à une première ossature qu’à un réseau complet. L’agence municipale de métro de Taichung intègre actuellement l’extension de la ligne verte vers Dapu, Changhua, ainsi que les lignes bleue, orange, violette et rouge dans la vision globale de son réseau ferroviaire. [^4] [^5]
 
-![Train du MRT de Taïchung approchant la gare TGV de Taïchung](https://commons.wikimedia.org/wiki/Special:FilePath/2020-11-20_MRT_train_near_HSR_Taichung_Station_%28Taichung_Metro%29.jpg?width=1280)
+![Train de métro de Taichung près de la gare de la HSR de Taichung](https://commons.wikimedia.org/wiki/Special:FilePath/2020-11-20_MRT_train_near_HSR_Taichung_Station_%28Taichung_Metro%29.jpg?width=1280)
 
-_Légende : Train du MRT de Taïchung approchant la gare TGV de Taïchung. Photo : WC-QHS. Source : Page du fichier Wikimedia Commons, sous licence CC BY-SA 2.0, nécessitant l'attribution de l'auteur, la licence et le partage des œuvres dérivées sous la même licence. [^9]_
-
-[Page du fichier Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2020-11-20_MRT_train_near_HSR_Taichung_Station_%28Taichung_Metro%29.jpg)
+_ Figure : Train de métro de Taichung près de la gare de la HSR de Taichung. Photo : WC.QHS. _ Source de l’image : [Page du fichier sur Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2020-11-20_MRT_train_near_HSR_Taichung_Station_%28Taichung_Metro%29.jpg), sous licence CC BY-SA 2.0, nécessite de citer l’auteur, la licence et de partager les œuvres dérivées selon les mêmes conditions. [^9]
 
 ```tw-timeline
-La ligne verte de Taïchung n'est pas apparue du jour au lendemain (année)
-1993 | Planification initiale | Le système de transport en commun sur rail de la région métropolitaine de Taïchung entre dans une planification institutionnelle
-2004 | Ligne verte approuvée | La ligne Wuxing-Beitou devient le réseau initial
-2009 | Début des travaux | La ligne verte entre officiellement dans une phase de construction à long terme
-2020 | Service d'essai | Les 18 stations sont ouvertes au public pour la première fois
-2021 | Ouverture officielle | Le service d'essai et l'exploitation reprennent après inspection et maintenance pour défaillance
-Source : Bureau des projets de MRT du gouvernement municipal de Taïchung, Société de MRT de Taïchung (TMRT), CNA
+La ligne verte de Taichung n’est pas apparue du jour au lendemain (années)
+1993 | Planification initiale | Le système de métro de la région métropolitaine de Taichung commence à être planifié institutionnellement
+2004 | Adoption de la ligne verte | La ligne de Wuridun-Wenxin-Nantun devient le réseau initial
+2009 | Lancement des travaux | La ligne verte entre officiellement dans la phase de construction à long terme
+2020 | Service d’essai | Les 18 gares ouvrent pour la première fois au public
+2021 | Mise en service officielle | Après réparations et inspections, le service d’essai reprend et la ligne entre officiellement en opération
+Sources : Bureau des projets de métro de la ville de Taichung, Taichung MRT Co., Ltd., Chine agricole
 ```
 
-> **📝 Note du conservateur**
-> La valeur de la première ligne n'est pas qu'elle ait relié tout Taïchung, mais qu'elle rende la prochaine ligne non plus une simple ligne colorée, mais une promesse que les passagers peuvent comparer.
+> **📝 Note du rédacteur**
+> La valeur de la première ligne ne réside pas dans le fait qu’elle ait déjà relié toute la ville, mais dans le fait qu’elle permet aux lignes suivantes de ne plus être de simples traits colorés, mais des promesses que les passagers peuvent comparer.
 
 ## L'impact d'une ligne de MRT ne se limite pas au nombre d'entrées
 
@@ -107,20 +105,20 @@ Ce résultat, replacé dans les conditions de transport de Taïchung, est encore
 
 En d'autres termes, les changements de prix de l'immobilier près des stations de MRT ne sont qu'un résultat parmi d'autres. La question plus importante est de savoir si les stations permettent réellement aux gens de rouler moins en scooter, aux enfants de marcher seuls jusqu'à l'entrée de la station, et aux non-conducteurs d'avoir plus d'options à Taïchung. Le succès des infrastructures de transport ne devrait pas être mesuré uniquement par « combien les prix ont augmenté près de là », mais aussi par « qui a gagné une nouvelle façon d'arriver ».
 
-## La ville au-dessus des stations, le quotidien en dessous
+## La ville au-dessus des voies, la vie quotidienne en dessous
 
-La majorité de la ligne verte est en forme de viaduc, faisant des stations une sorte d'entrée verticale de la ville. Les passagers marchent d'abord depuis les galeries couvertes, les carrefours ou les arrêts de bus jusqu'à la structure de la station, puis montent le long des escaliers mécaniques et des ascenseurs avant d'atteindre le quai. Les dossiers de projet d'Otis indiquent que la ligne verte compte 18 stations ; lors de la construction, il a fallu installer 117 escaliers mécaniques lourds et 59 ascenseurs sans perturber le flux quotidien des véhicules et des piétons. [^6]
+La plupart des tronçons de la ligne verte sont construits en portée élevée, ce qui fait des stations des entrées verticales de la ville. Les passagers marchent d’abord depuis le trottoir, l’angle ou l’arrêt de bus jusqu’au hall de la station, puis montent le long des escaliers mécaniques et des ascenseurs avant d’atteindre le quai. Le dossier de projet d’Otis indique que la ligne verte comporte 18 stations, et qu’il a fallu installer 117 escaliers mécaniques de grande capacité et 59 ascenseurs pendant les travaux, le tout sans perturber la circulation routière et piétonne ordinaire.[^6]
 
-![Quai de la ligne verte de la station du gouvernement municipal du MRT de Taïchung](https://commons.wikimedia.org/wiki/Special:FilePath/Taichung_Metro_Taichung_City_Hall_Station_Green_Line_Platform.jpg?width=1280)
+![Quai de la ligne verte de la station Taichung MRT Government Office](https://commons.wikimedia.org/wiki/Special:FilePath/Taichung_Metro_Taichung_City_Hall_Station_Green_Line_Platform.jpg?width=1280)
 
-_Légende : Quai de la ligne verte de la station du gouvernement municipal du MRT de Taïchung. Photo : Cheng, Cheng-en, utilisateur Wikimedia Rail02000. Source : [Page du fichier Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taichung_Metro_Taichung_City_Hall_Station_Green_Line_Platform.jpg), sous licence CC BY-SA 4.0, nécessitant l'attribution de l'auteur, la licence et le partage des œuvres dérivées sous la même licence. [^10]_
+_ Figure : quai de la ligne verte de la station Taichung MRT Government Office. Crédit photo : Cheng, Cheng-en, utilisateur Wikimedia Rail02000. _ Source de l’image : [page du fichier sur Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taichung_Metro_Taichung_City_Hall_Station_Green_Line_Platform.jpg), sous licence CC BY-SA 4.0 — attribution requise, partage à l’identique. [^10]
 
-Ce déplacement vertical a son coût. Pour les pressés, la distance à l'entrée des escaliers est le coût de la correspondance. Pour ceux qui poussent une poussette, utilisent un fauteuil roulant ou portent des bagages, la facilité de trouver un ascenseur est la condition préalable à l'utilisation du MRT. L'accessibilité du MRT ne commence pas lorsque le train arrive au quai ; elle est déjà déterminée par le premier tronçon, de l' trottoir à l'entrée.
+Ce déplacement vertical a un coût. Pour les personnes pressées, la distance entre les escaliers est un coût de correspondance. Pour ceux qui poussent un landau, utilisent un fauteuil roulant ou portent des bagages, la visibilité des ascenseurs est une condition sine qua non à l’usage du métro. L’accessibilité du métro ne commence pas quand le train arrive sur le quai : elle est déjà déterminée dès le premier mètre entre le trottoir et l’entrée.
 
-La ligne verte de Taïchung est donc aussi une alerte suspendue au-dessus de la ville : les voies peuvent enjamber les quartiers, mais la vie ne peut pas être suspendue dans les airs. Les trottoirs autour des stations, les abris contre la pluie, les navettes de bus et l'éclairage nocturne décideront si un MRT aérien est un quotidien pratique ou simplement une belle ligne sur la carte.
+La ligne verte de Taïchung se présente donc également comme un rappel suspendu au-dessus de la ville : les voies peuvent franchir les îlots de bloc, mais la vie ne peut rester en suspens. Les trottoirs, les abris anti-pluie, les correspondances avec les bus et l’éclairage nocturne autour des stations décident finalement si une voie élevée est un quotidien pratique ou seulement une ligne élégante sur une carte.
 
 > **📝 Note du conservateur**
-> Le MRT aérien élève le train, mais ne soulève pas les passateurs hors du sol. Le véritable travail urbain a toujours lieu sur la route avant l'entrée.
+> Un métro surélevé soulève les trains, mais pas les passants. L’ingénierie urbaine authentique se joue toujours sur le tronçon entre le trottoir et l’entrée.
 
 ## Comment les stations relient deux types de transport
 
@@ -159,22 +157,22 @@ Cependant, ce que les passagers retiennent véritablement n'est peut-être pas l
 
 La signification urbaine du MRT de Taïchung se cache dans ces répétitions peu spectaculaires. Certains prennent le train pour la première fois pour aller travailler ; d'autres emmènent leurs enfants à la gare TGV ; d'autres n'ont plus besoin de chercher une place de parking pour assister à un événement. Les voies fixes transforment l'avenir de la ville en un geste répétable chaque jour. Lorsque les structures de station, les quais, la correspondance et les rues sont reliés par le même voyage, le MRT passe véritablement du terme d'ingénierie à la vie urbaine.
 
-## La correspondance n'est pas un exercice supplémentaire, mais la deuxième voie de la ligne verte
+## Le transfert n’est pas un supplément, c’est le deuxième rail de la ligne verte
 
-Les 18 stations de la ligne verte ne terminent pas seules un voyage. Pour la plupart des passagers, la véritable route va de la maison à l'arrêt de bus, de l'arrêt de bus à l'entrée du MRT, du quai à la destination, puis de la dernière station au bureau, à l'école ou au centre commercial. Chaque changement de main peut amener les gens à recalculer le temps. Si l'un de ces tronçons n'est pas couvert, manque de signalisation claire ou a un temps d'attente trop long, les passagers peuvent revenir à leur scooter familier.
+Les 18 stations de la ligne verte ne mèneront pas une trajectoire à elles seules. Pour la plupart des usagers, l’itinéraire réel va de chez soi jusqu’à l’arrêt de bus, de l’arrêt de bus jusqu’à l’entrée du métro, du quai jusqu’à la destination, puis de la dernière station jusqu’au bureau, l’école ou le centre commercial. Chaque correspondance peut entraîner un nouveau calcul du temps. Si l’un de ces maillons manque d’abri, de signalétique claire, ou si les temps d’attente sont trop longs, les passagers risquent de revenir à leur moyen de transport habituel : le scooter.
 
-L'importance des stations Songzhu et de la gare TGV de Taïchung réside dans le fait qu'elles permettent à la ligne verte de ne pas être un chemin unique entre deux extrémités. La première intègre le MRT dans le réseau de correspondance des Chemins de fer de Taïwan (TRA) ; la seconde place le rail urbain, le chemin de fer à grande vitesse, les navettes de bus et les déplacements interurbains sur le même horaire. La valeur de ces nœuds ne réside pas dans la taille de la structure de la station, mais dans la capacité de véhicules de transport de vitesses différentes à se connecter lors d'un même départ. [^1] [^4]
+La valeur des stations de Songzhu et de la gare de Taïchung de la RDC se situe dans leur capacité à transformer la ligne verte d’un simple tronçon entre deux extrémités en un véritable maillon. La première intègre le métro dans le réseau de correspondance de la RDC, la seconde place le transport urbain sur rail au même niveau que le train à grande vitesse, les navettes de correspondance et les déplacements interurbains, le tout dans le même itinéraire. La valeur de ces points de passage ne se mesure pas à la taille des infrastructures, mais à la capacité des différents modes de transport — chacun à sa vitesse — à s’articuler dans une même sortie. [^1] [^4]
 
-La prochaine question de la ligne verte de Taïchung n'est donc pas aussi simple que « combien de lignes faut-il encore construire ». À mesure que le réseau s'allonge, les billets, les fréquences de service, les distances de correspondance et la conception de l'information doivent grandir ensemble. Si chaque ligne est pratique individuellement mais que le changement de ligne nécessite de longues marches, la ville n'obtiendra peut-être que plus d'options, et non une vie plus facile à atteindre. C'est la raison pour laquelle le gouvernement municipal planifie l'extension de la ligne verte et les lignes bleue, orange, violette et rouge dans un réseau global. [^4]
+La prochaine question pour la ligne verte de Taïchung n’est donc pas simplement : « Combien de lignes supplémentaires faut-il construire ? » Une fois le réseau agrandi, les aspects liés au ticket, aux intervalles entre les trains, aux distances de correspondance et à la conception de l’information doivent évoluer en même temps. Si chaque ligne est pratique en soi, mais que les correspondances exigent de longues marches, la ville ne gagne peut-être qu’un plus grand nombre d’options, sans toutefois améliorer la facilité d’accès à la vie quotidienne. C’est également pourquoi la ville a intégré l’extension de la ligne verte avec les lignes bleue, orange, violette et rouge dans une planification globale du réseau. [^4]
 
-Du point de vue de la gestion de projet, la correspondance est le meilleur moyen de tester si les infrastructures publiques sont centrées sur l'utilisateur. La ponctualité du train peut être prouvée par les enregistrements du système ; la volonté des passagers de prendre à nouveau le train dépend de la capacité du passager à traverser sûrement le carrefour après la sortie, de savoir d'où vient le prochain bus, et de pouvoir éviter les détours lorsqu'il porte des bagages. Le bilan urbain de la ligne verte se déposera finalement dans ces détails qui n'apparaîtront pas sur les photos de la cérémonie de coupure de ruban.
+Du point de vue de la gestion d’ouvrage, le transfert reste l’un des meilleurs indicateurs de la centrale du projet : est-ce que l’aménagement public place-t-il l’usager au cœur de la démarche ? La ponctualité des trains peut être prouvée par des enregistrements systématiques ; la volonté des usagers de réutiliser le service dépendra de leur capacité à traverser en toute sécurité les passages piéons, à savoir où part le prochain bus, et à pouvoir transporter leurs bagages sans devoir faire de détours. La note finale de la ligne verte de Taïchung se jouera dans ces détails qui ne figureront pas sur les photos de l’inauguration.
 
-![Entrée-sortie entre la station Songzhu du MRT de Taïchung et la station Songzhu du TRA](https://commons.wikimedia.org/wiki/Special:FilePath/Entrance-exit_between_Taichung_Metro_Songzhu_Station_and_TRA_Songzhu_Station_02.jpg?width=1280)
+![Sortie entre les stations de Songzhu du métro de Taïchung et de la gare de Songzhu de la RDC](https://commons.wikimedia.org/wiki/Special:FilePath/Entrance-exit_between_Taichung_Metro_Songzhu_Station_and_TRA_Songzhu_Station_02.jpg?width=1280)
 
-_Légende : Entrée-sortie entre la station Songzhu du MRT de Taïchung et la station Songzhu du TRA. Photo : Tbatb. Source : [Page du fichier Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Entrance-exit_between_Taichung_Metro_Songzhu_Station_and_TRA_Songzhu_Station_02.jpg), sous licence CC BY-SA 4.0, nécessitant l'attribution de l'auteur, la licence et le partage des œuvres dérivées sous la même licence. [^11]_
+\_« Sortie entre les stations de Songzhu du métro de Taïchung et de la gare de Songzhu de la RDC. » Photo : Tbatb. Source de l’image : [Page de fichier sur Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Entrance-exit_between_Taichung_Metro_Songzhu_Station_and_TRA_Songzhu_Station_02.jpg), sous licence CC BY-SA 4.0, nécessite de citer l’auteur, la licence et de partager les œuvres dérivées selon les mêmes conditions.[^11]
 
-> **📝 Note du conservateur**
-> Il ne faut que deux points extrêmes pour dessiner une ligne de MRT sur une carte, mais beaucoup de tronçons de route pour l'installer dans la vie. La véritable correspondance consiste à persuader ces tronçons de faire partie du même voyage.
+> **📝 Note de l’éditeur**
+> Une ligne de métro n’a besoin que de deux points extrêmes pour être tracée sur une carte, mais une multitude de segments pour s’intégrer dans la vie réelle. La véritable correspondance consiste à convaincre tous ces segments de former un seul et même voyage.
 
 ## Après la ligne verte, que doit encore répondre Taïchung ?
 
