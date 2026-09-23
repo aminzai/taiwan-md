@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-23T18:48:00+08:00",
-    "zhCommitHead": "44b841d7c",
+    "lastUpdated": "2026-09-23T19:28:05+08:00",
+    "zhCommitHead": "82eaf3995",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,9 +28,9 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 968,
-        "stale": 71,
-        "metadata_stale": 21,
+        "fresh": 973,
+        "stale": 68,
+        "metadata_stale": 19,
         "missing": 64,
         "orphan": 0
       },
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 908,
+        "fresh": 912,
         "stale": 14,
         "metadata_stale": 6,
-        "missing": 196,
+        "missing": 192,
         "orphan": 0
       }
     },
@@ -3358,20 +3358,18 @@
         "ja": {
           "path": "ja/Music/little-tigers-taiwan-boy-band.md",
           "translatedFrom": "Music/小虎隊.md",
-          "sourceCommitSha": "ac1d187a",
+          "sourceCommitSha": "9094012f4",
           "sourceContentHash": "sha256:3550fb52e312828d",
           "sourceBodyHash": "sha256:4cfd214b3bc19b4d",
-          "translatedAt": "2026-06-17T02:18:49+08:00",
+          "translatedAt": "2026-09-23T18:41:10+08:00",
           "translationLastCommit": "caa10522",
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "bytes": 42460,
+          "bytes": 43806,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Music/little-tigers-taiwan-boy-band.md",
@@ -66792,7 +66790,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/taiwan-animal-drug-controversy.md",
+          "translatedFrom": "Society/台灣動物用藥爭議.md",
+          "sourceCommitSha": "9a60e8fdf",
+          "sourceContentHash": "sha256:400d675ceaf05f40",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-23T10:46:00.139292+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 33,
+          "bytes": 54673,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -88684,7 +88695,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Politics/nine-in-one-elections-explained.md",
+          "translatedFrom": "Politics/九合一選舉是什麼.md",
+          "sourceCommitSha": "e957cf7f1",
+          "sourceContentHash": "sha256:8130ad5ab40eae13",
+          "sourceBodyHash": "sha256:f699c0cd2ccbe17d",
+          "translatedAt": "2026-09-23T18:41:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "bytes": 24785,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -89514,8 +89538,8 @@
           "sourceContentHash": "sha256:f7989f09dc5120dd",
           "sourceBodyHash": "sha256:22f458cb51ab119a",
           "translatedAt": "2026-09-23T17:23:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "82eaf399",
+          "translationLastModified": "2026-09-23T18:48:00+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "bytes": 32116,
@@ -105086,8 +105110,8 @@
           "sourceContentHash": "sha256:e43b16ae63cbdb17",
           "sourceBodyHash": "sha256:1cde30bd00a46d49",
           "translatedAt": "2026-09-23T17:23:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "82eaf399",
+          "translationLastModified": "2026-09-23T18:48:00+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "bytes": 43572,
@@ -115417,20 +115441,18 @@
         "ja": {
           "path": "ja/People/mona-rudao.md",
           "translatedFrom": "People/莫那·魯道.md",
-          "sourceCommitSha": "d5ca846b",
-          "sourceContentHash": "sha256:a925dd382d90f176",
-          "sourceBodyHash": "sha256:2e9a56655129cad4",
-          "translatedAt": "2026-06-14T00:35:00+08:00",
+          "sourceCommitSha": "9094012f4",
+          "sourceContentHash": "sha256:eecabb61bafa58a4",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-23T10:41:32.616228+00:00",
           "translationLastCommit": "caa10522",
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
           "footnoteDefs": 74,
-          "bytes": 84220,
+          "bytes": 85503,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/mona-rudao.md",
@@ -121178,7 +121200,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/yoga-lin.md",
+          "translatedFrom": "People/林宥嘉.md",
+          "sourceCommitSha": "b358c8028",
+          "sourceContentHash": "sha256:81084f8c4d60488a",
+          "sourceBodyHash": "sha256:e37ed40c36801365",
+          "translatedAt": "2026-09-23T18:41:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "bytes": 21869,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -147174,20 +147209,18 @@
         "ja": {
           "path": "ja/Food/beef-noodle-soup.md",
           "translatedFrom": "Food/牛肉麵.md",
-          "sourceCommitSha": "30569f742",
-          "sourceContentHash": "sha256:2d9ee979d4f7479e",
-          "sourceBodyHash": "sha256:fcb7ba6bb70c92d6",
-          "translatedAt": "2026-05-20T05:08:29+08:00",
+          "sourceCommitSha": "271c50fbe",
+          "sourceContentHash": "sha256:0f8567c72fce22ef",
+          "sourceBodyHash": "sha256:31e72a4ea39ea451",
+          "translatedAt": "2026-09-23T18:41:10+08:00",
           "translationLastCommit": "caa10522",
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
           "footnoteDefs": 4,
-          "bytes": 18667,
+          "bytes": 17342,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+7 -7"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Food/beef-noodle-soup.md",
@@ -150674,8 +150707,8 @@
           "sourceContentHash": "sha256:80c0f5a5b4a4fc5f",
           "sourceBodyHash": "sha256:165e3d5c431f4c83",
           "translatedAt": "2026-09-23T18:01:35+08:00",
-          "translationLastCommit": "dcb7eb53",
-          "translationLastModified": "2026-09-22T01:05:35+08:00",
+          "translationLastCommit": "82eaf399",
+          "translationLastModified": "2026-09-23T18:48:00+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 9754,
@@ -153360,7 +153393,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Food/braised-pork-rice.md",
+          "translatedFrom": "Food/台灣滷肉飯.md",
+          "sourceCommitSha": "30569f742",
+          "sourceContentHash": "sha256:6170c025ca20811f",
+          "sourceBodyHash": "sha256:41cfdb3eed2dcde1",
+          "translatedAt": "2026-09-23T18:41:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "bytes": 12000,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -157862,20 +157908,18 @@
         "ja": {
           "path": "ja/Food/taiwanese-new-immigrant-culinary-fusion.md",
           "translatedFrom": "Food/台灣新住民美食融合.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:bd8e4eaaa3e395c7",
-          "sourceBodyHash": "sha256:6806ae061b784232",
-          "translatedAt": "2026-05-01T19:52:32+08:00",
+          "sourceCommitSha": "9094012f4",
+          "sourceContentHash": "sha256:77ab88a911a474f4",
+          "sourceBodyHash": "sha256:0ecfd7b1fa40d486",
+          "translatedAt": "2026-09-23T18:41:10+08:00",
           "translationLastCommit": "dcb7eb53",
           "translationLastModified": "2026-09-22T01:05:35+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 22888,
+          "bytes": 24427,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+9 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Food/taiwanese-new-immigrant-culinary-fusion.md",
@@ -158068,18 +158112,18 @@
         "ja": {
           "path": "ja/Food/taiwanese-noodle-culture.md",
           "translatedFrom": "Food/台灣麵食文化.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:7aeb090ae7f880d7",
-          "sourceBodyHash": "sha256:07d9c3b482846ce9",
-          "translatedAt": "2026-05-01T18:09:43+08:00",
+          "sourceCommitSha": "9094012f4",
+          "sourceContentHash": "sha256:bd2837ec0fbef900",
+          "sourceBodyHash": "sha256:a96dfd18a42fc656",
+          "translatedAt": "2026-09-23T18:41:10+08:00",
           "translationLastCommit": "dcb7eb53",
           "translationLastModified": "2026-09-22T01:05:35+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 4308,
+          "bytes": 16544,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "truncated (ratio 0.33)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Food/taiwanese-noodle-culture.md",
@@ -162365,8 +162409,8 @@
           "sourceContentHash": "sha256:86fb5241b5393f5b",
           "sourceBodyHash": "sha256:add135df68f1784c",
           "translatedAt": "2026-09-23T18:01:35+08:00",
-          "translationLastCommit": "dcb7eb53",
-          "translationLastModified": "2026-09-22T01:05:35+08:00",
+          "translationLastCommit": "82eaf399",
+          "translationLastModified": "2026-09-23T18:48:00+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 13181,
@@ -192154,8 +192198,8 @@
           "sourceContentHash": "sha256:9ce361db9a5c3b1a",
           "sourceBodyHash": "sha256:39bde765a3b7a746",
           "translatedAt": "2026-09-23T18:01:35+08:00",
-          "translationLastCommit": "dcb7eb53",
-          "translationLastModified": "2026-09-22T01:05:35+08:00",
+          "translationLastCommit": "82eaf399",
+          "translationLastModified": "2026-09-23T18:48:00+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 12645,
@@ -197427,8 +197471,8 @@
           "sourceContentHash": "sha256:e70a2042c1d5dde1",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-23T09:57:02.221953+00:00",
-          "translationLastCommit": "00b2431a",
-          "translationLastModified": "2026-06-11T01:09:58+08:00",
+          "translationLastCommit": "82eaf399",
+          "translationLastModified": "2026-09-23T18:48:00+08:00",
           "inferred": false,
           "footnoteDefs": 45,
           "bytes": 40648,
@@ -209362,11 +209406,11 @@
           "sourceContentHash": "sha256:819a7ee143f7b981",
           "sourceBodyHash": "sha256:efd1cd3b8e9f03d6",
           "translatedAt": "2026-09-23T16:03:05+08:00",
-          "translationLastCommit": "dcb7eb53",
-          "translationLastModified": "2026-09-22T01:05:35+08:00",
+          "translationLastCommit": "82eaf399",
+          "translationLastModified": "2026-09-23T18:48:00+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "bytes": 39053,
+          "bytes": 39055,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
