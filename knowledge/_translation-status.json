@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-23T16:22:16+08:00",
-    "zhCommitHead": "54fb03864",
+    "lastUpdated": "2026-09-23T16:42:30+08:00",
+    "zhCommitHead": "2e35b90fe",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 902,
+        "fresh": 904,
         "stale": 13,
         "metadata_stale": 6,
-        "missing": 203,
+        "missing": 201,
         "orphan": 0
       }
     },
@@ -25924,8 +25924,8 @@
           "sourceContentHash": "sha256:151b93f3268baa1f",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-23T06:37:24.818723+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2e35b90f",
+          "translationLastModified": "2026-09-23T16:22:17+08:00",
           "inferred": false,
           "footnoteDefs": 40,
           "bytes": 47214,
@@ -49274,7 +49274,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Lifestyle/taiwan-healthcare-and-national-health-insurance.md",
+          "translatedFrom": "Lifestyle/台灣醫療與全民健保.md",
+          "sourceCommitSha": "29ff6f481",
+          "sourceContentHash": "sha256:6a23ae926022133f",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-23T08:23:02.940238+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 42,
+          "bytes": 71109,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -93134,8 +93147,8 @@
           "sourceContentHash": "sha256:eea6e5a10d131ef2",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-23T06:42:38.094265+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2e35b90f",
+          "translationLastModified": "2026-09-23T16:22:17+08:00",
           "inferred": false,
           "footnoteDefs": 37,
           "bytes": 33249,
@@ -158052,8 +158065,8 @@
           "sourceContentHash": "sha256:bd2837ec0fbef900",
           "sourceBodyHash": "sha256:a96dfd18a42fc656",
           "translatedAt": "2026-09-23T14:55:55+08:00",
-          "translationLastCommit": "f4d0f1e6",
-          "translationLastModified": "2026-09-22T01:07:23+08:00",
+          "translationLastCommit": "2e35b90f",
+          "translationLastModified": "2026-09-23T16:22:17+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 16541,
@@ -161405,7 +161418,20 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Food/taiwan-fruit-kingdom.md",
+          "translatedFrom": "Food/台灣水果王國.md",
+          "sourceCommitSha": "813fde2d6",
+          "sourceContentHash": "sha256:e8ef7d9d72df6a42",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-23T08:25:43.486906+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 40,
+          "bytes": 56489,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -162338,8 +162364,8 @@
           "sourceContentHash": "sha256:86fb5241b5393f5b",
           "sourceBodyHash": "sha256:add135df68f1784c",
           "translatedAt": "2026-09-23T14:55:55+08:00",
-          "translationLastCommit": "f4d0f1e6",
-          "translationLastModified": "2026-09-22T01:07:23+08:00",
+          "translationLastCommit": "2e35b90f",
+          "translationLastModified": "2026-09-23T16:22:17+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 11490,
@@ -163139,8 +163165,8 @@
           "sourceContentHash": "sha256:4b6c70d0fd8de132",
           "sourceBodyHash": "sha256:402d0d087252b30e",
           "translatedAt": "2026-09-23T13:51:51+08:00",
-          "translationLastCommit": "f4d0f1e6",
-          "translationLastModified": "2026-09-22T01:07:23+08:00",
+          "translationLastCommit": "2e35b90f",
+          "translationLastModified": "2026-09-23T16:22:17+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 16480,
@@ -190441,11 +190467,11 @@
           "sourceContentHash": "sha256:2038e5c6672647ae",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-23T06:30:44.263653+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2e35b90f",
+          "translationLastModified": "2026-09-23T16:22:17+08:00",
           "inferred": false,
           "footnoteDefs": 39,
-          "bytes": 61475,
+          "bytes": 61477,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -203417,8 +203443,8 @@
           "sourceContentHash": "sha256:bb3880571afae296",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-23T08:03:20.871640+00:00",
-          "translationLastCommit": "f4d0f1e6",
-          "translationLastModified": "2026-09-22T01:07:23+08:00",
+          "translationLastCommit": "2e35b90f",
+          "translationLastModified": "2026-09-23T16:22:17+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "bytes": 45667,
