@@ -1,128 +1,124 @@
 ---
-title: "Taiwanese Handcrafted Cuisine: Meaning, Origins, and the 'Signature Dishes' of Banquet Culture"
-description: "Handcrafted cuisine (Teochew: tshiú-lōo-tshài) means 'signature dishes.' The white chalk soil of Neimen, Kaohsiung, cannot grow crops, yet it nurtured the township with the highest density of banquet chefs (zongpushi) in Taiwan—during its golden age, one company hosted 25,000 tables a year, with monthly revenues reaching 12 million. A pot of 'leftover soup' requires four to eight hours to prepare; if the flavor balance is off, the entire village will know the next day."
+title: "타이완 손루차이: 의미, 유래와 판줘 문화의 '자신 있는 요리'"
+description: "손루차이(대만어 tshiú-lōo-tshài)는 '자신 있는 요리'를 뜻한다. 가오슝 네이먼의 백악토는 작물을 키우지 못하지만, 전 타이완에서 가장 높은 총푸스 밀도를 배출했다——황금기에는 연간 25,000 상을 차렸고, 성수기 월 매출은 1,200만 위안에 달했다. 한 냄비 차이웨이탕을 끓이는 데 4~8시간이 걸리며, 잘 끓였는지 여부는 온 마을이 이튿날이면 다 안다."
 date: 2026-03-31
-tags:
-  [
-    'Taiwanese Cuisine',
-    'Traditional Cooking',
-    'Banquets',
-    'Handcrafted Cuisine',
-    'Banquet Chefs',
-    'Food Culture',
-  ]
-subcategory: 'Food Culture'
-author: 'Taiwan.md'
 category: 'Food'
-readingTime: 12
+tags: ['타이완 미식', '전통 요리', '판줘', '손루차이', '총푸스', '식문화']
+subcategory: '飲食文化'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-03-31
 lastHumanReview: true
+image: '/article-images/food/sanbeiji-three-cup-chicken.webp'
+imageAlt: '산베이지'
+imageCredit: 'Archon6812 / Wikimedia Commons'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Sanbeiji.jpg'
 translatedFrom: 'Food/台灣手路菜.md'
-sourceCommitSha: 'b0e441fa'
-sourceContentHash: 'sha256:976bf813ab549fe2'
-sourceBodyHash: 'sha256:c76694b44c893f41'
-translatedAt: '2026-06-10T16:42:09Z'
-image: '/article-images/food/sanbeiji-three-cup-chicken.webp'
-imageCredit: 'Archon6812 / Wikimedia Commons'
-featured: true
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:9223547d26dcdf04'
+sourceBodyHash: 'sha256:68bfe9c03d05ae36'
+translatedAt: '2026-09-23T22:11:48+08:00'
 ---
 
-> **30-Second Overview:** "Handcrafted cuisine" (手路菜) is a Teochew term for "signature dishes" [^1], referring to those requiring true skill, lacking standard recipes, and passed down orally from master to apprentice. Its most concentrated exhibition field is the "banquet" (辦桌)—a Taiwanese banquet tradition where tents are erected by the roadside and stoves are lit on-site. Neimen, Kaohsiung, due to its barren land, accidentally became the township with the highest density of banquet chefs (zongpushi) in Taiwan. In its golden age, one banquet company hosted 25,000 tables a year. However, from hotel weddings to the COVID-19 pandemic, banquet orders shrank by 90% over twenty years, taking with them not just the taste of the food, but the neighborly mutual aid of "returning the leftover soup."
+> **30초 개요:** '손루차이'는 대만어 '자신 있는 요리'[^1]를 뜻하며, 진정한 공력이 필요하고 표준 레시피가 없으며 스승이 제자에게 구전심수로 전하는 요리를 가리킨다. 이것이 가장 집약적으로 드러나는 현장이 '판줘'다——길가에 천막을 치고 현장에서 불을 지피는 타이완 연회 전통. 가오슝 네이먼은 땅이 척박해 뜻밖에 전 타이완에서 총푸스 밀도가 가장 높은 향진이 되었고, 황금기에는 한 판줘 회사가 연간 25,000 상을 차렸다. 하지만 호텔 예식에서 코로나19까지, 판줘 주문이 20년간 90% 줄어들면서 사라진 것은 요리의 맛뿐 아니라 '환차이웨이'라는 이웃 상호부정의 인정이었다.
 
-In the spring of 2020, several brand-new flags were erected in the temple courtyard of Zizhu Temple in Neimen, Kaohsiung. Printed on them were braised pork, shark fin soup, and eight-treasure meatballs—not banquet advertisements, but street stalls set up by banquet chefs. 48-year-old Xue Menghui stirred "Ants Climbing a Tree" while explaining to a _The Reporter_ journalist: "Even without banquets now, people still need to survive!" [^2]
+2020년 봄, 가오슝 네이먼 쯔주쓰의 묘전(廟前)에 몇 면의 새 깃발이 세워졌다. 거기에는 펑러우(封肉), 위츠겅(魚翅羹), 바바오완(八寶丸)이 인쇄돼 있었다——판줘 광고가 아니라 총푸스가 차린 노점이었다. 48세의 쉬에멍후이는 마이산수(螞蟻上樹)를 볶으며 《보도자(報導者)》 기자에게 설명했다: "지금은 판줘가 없으니, 다들 살아야 하지 않겠나!"[^2]
 
-The Xue family is a "banquet master lineage" in Neimen. Xue Menghui began following his father, Xue Qingji, to host banquets in high school. Two generations accumulated over fifty years of experience. Flipping through his father's work logs from those days, the entire agricultural almanac was filled with entries: 25,000 tables a year, rushing through more than ten events on major days. Chefs left at dawn, finished at noon to rush to evening events, and whether they slept for four hours was unknown [^2].
+쉬에 가문은 네이먼의 '총푸스 세가'다. 쉬에멍후이는 고교 때부터 아버지 쉬에칭지(薛清己)를 따라 판줘를 다녔고, 2대가 50여 년 경험을 쌓았다. 아버지가 쓰던 업무 일지를 펼치면, 농민력(農民曆) 한 권이 빼곡하다. 연간 25,000 상, 대목에는 하루에 십여 장소를 뛰었고, 주방장은 새벽에 나가 점심 마치고 저녁 장소로 달려갔으며, 네 시간이나 잤는지조차 몰랐다[^2].
 
-But the 2020 pandemic froze all of this. The annual revenue of the external catering and group meal contracting industry dropped by 32.3% [^3], and banquet orders shrank by 90%. Xue Menghui had over 500 tables canceled in the second and third lunar months, forcing him to work part-time at a friend's bento shop.
+하지만 2020년 팬데믹이 이 모든 것을 급랭시켰다. 외회(外燴) 및 단체급식 수주업 매출이 전년 대비 32.3% 감소[^3]했고, 판줘 주문은 90% 줄었다. 쉬에멍후이는 음력 2, 3월에만 500여 상이 취소돼 친구의 도시락 가게에서 아르바이트를 할 수밖에 없었다.
 
-This is not the first crisis the banquet industry has faced, but it may be the last.
+이것이 판줘 산업이 맞은 첫 위기는 아니지만, 마지막 위기일 수 있다.
 
-## Banquets: The Roadside is the Banquet Hall
+## 판줘: 길가가 곧 연회장
 
-Banquets (pān-toh) are a banquet tradition of Minnan culture, brought to Taiwan with immigrants, with records dating back to the Qing Dynasty [^4]. Weddings, funerals, temple festivals, and construction rituals—host families invite banquet chefs to the temple courtyard, school playgrounds, or roadside to erect tents and light stoves on-site, from chopping vegetables to serving dishes in one go. Unlike restaurants, banquets have strict etiquette: the choice of dishes, the order of serving, and seating arrangements all have specific讲究 (requirements).
+판줘(pān-toh)는 민난 문화의 연회 전통으로, 이주민과 함께 타이완에 들어와 청대부터 기록이 있다[^4]. 혼상희경(婚喪喜慶), 묘회 건조(廟會建醮), 미월 수연(彌月壽宴)——주인 집이 총푸스를 불러 묘전, 학교 운동장, 길가에 천막을 세우고 현장에서 화로를 걸고, 채 썰기부터 상차림까지 일사천리로 진행한다. 식당과 다른 점은 판줘에 엄격한 예속(禮俗)이 있다는 것: 요리 선택, 상차림 순서, 좌석 배치 모두 나름의 법도가 있다.
 
-A typical banquet consists of about twelve dishes, emphasizing "introduction, elaboration, transition, and conclusion" [^5]: Cold plates open the meal, allowing guests to take their seats; soups warm the stomach; the middle section features heavyweight main dishes—red crab with rice, steamed grouper, Buddha Jumps Over the Wall—ending with chicken soup, desserts, and fruit, symbolizing completeness. Every dish is a "handcrafted cuisine": Red crab with rice requires controlling the steaming time so the crab roe seeps into the rice; Buddha Jumps Over the Wall requires processing more than twenty ingredients separately before sealing the jar and simmering; braised pork requires even fat-to-lean ratio, melting in the mouth but not falling apart.
+일반 판줘는 약 12가지 요리로, '기승전결(起承轉合)'을 중시한다[^5]: 냉채로 시작해 손님을 앉히고, 탕으로 속을 데우며, 중반에 메인급 주요리——홍쉐미가오(紅蟳米糕), 청징스반(清蒸石斑), 포티아오창(佛跳牆)——을 내고, 마지막에 계탕, 디저트, 과일로 마무리해 원만함을 상징한다. 모든 요리가 '손루차이'다: 홍쉐미가오는 증숙 시간을 조절해 게장이 쌀알에 배게 해야 하고, 포티아오창은 20여 가지 식재료를 각각 손질해 독에 봉해 뜸들여야 하며, 펑러우는 지방과 살코기가 고르고 입에서 녹되 흩어지지 않아야 한다.
 
-> **📝 Curatorial Perspective:** People often describe restaurants as "civilian fields" (文場) and banquets as "martial fields" (武場). The test for banquet chefs lies not only in culinary skills—regardless of strong winds, heavy rain, broken bridges, or collapsed roads, as long as the host family hasn't canceled, they must fulfill their mission.
+> **📝 기획 관점:** 흔히 식당을 '문장(文場)', 판줘를 '무장(武場)'에 비유한다. 총푸스의 시험은 요리 솜씨만이 아니다——폭풍우가 치고 다리가 끊기고 길이 무너져도, 주최자가 취소하지 않는 한 반드시 완수해야 한다.
 
-Wang Yi Yong, a senior banquet chef from Tainan, once hosted 120 tables in a school auditorium in Kaohsiung. At 5 PM, a rainstorm struck, flooding the water up to the calves, extinguishing the stoves, and making pots and pans float on the water. Even the trout prepared for cooking swam away. Wang Yi Yong immediately cut the canvas tent to drain the water, moved the kitchenware under the eaves, rolled up his sleeves, and caught the fish. In the end, one trout was missing, but it was made up for by ingredients from the reserve table, and all guests ate [^2].
+타이난의 베테랑 총푸스 왕이융(汪義勇)은 가오슝의 한 학교 강당에서 120 상을 차리던 중 저녁 5시 폭우를 만났다. 빗물이 정강이까지 차올라 화로가 꺼지고, 냄비와 그릇이 물 위에 떴으며, 막 냄비에 넣으려던 송어 십여 마리가 헤엄쳐 도망갔다. 왕이융은 즉시 캔버스 천막을 찢어 물을 빼고, 주방 기구를 처마 아래로 옮긴 뒤 소매를 걷어붙이고 먼저 물고기를 잡았다. 결국 송어 한 마리만 부족해 예비 식재료로 보충했고, 손님 모두 맛볼 수 있었다[^2].
 
-## Neimen: The Hometown of Banquet Chefs on Barren Land
+## 네이먼: 척박한 땅 위의 총푸스 고향
 
-Neimen, Kaohsiung, is surrounded by mountains on all sides. The soil is alkaline white chalk, unsuitable for farming, with only drought-resistant bamboo surviving. Before the 1960s, residents survived by weaving bamboo baskets for Qishan banana farmers to package their produce. After low-cost cardboard boxes took the market, the bamboo weaving industry declined [^2].
+가오슝 네이먼은 사면이 산으로 둘러싸여 있고, 토질은 강알칼리성 백악토라 농사에 불리하며, 가뭄에 강한 자죽(刺竹)만 자란다. 1960년대 이전에는 주민들이 대나무 바구니를 짜서 치산(旗山) 바나나 농가 포장용으로 납품하며 생계를 이었다; 저렴한 종이 상자가 시장을 잠식하자 대나무 공예 산업이 쇠퇴했다[^2].
 
-But precisely in that era, Taiwan's economy took off, and the demand for banquets surged. The people of Neimen, who could not grow anything on the land, found a new way out—cooking banquets for others.
+마침 그 시기에 타이완 경제가 이륙하며 판줘 수요가 폭증했다. 농사를 지을 수 없던 네이먼 사람들이 새 출로를 찾았다——남의 잔칫상을 차려주는 것.
 
-Neimen has dense temples and powerful folk performance troupes. Every celebration creates a demand for banquets, keeping the business of banquet chefs booming. Xue Menghui's father, Xue Qingji, along with apprentices, chicken vendors, and pig vendors, each contributed 20,000 yuan to establish a "Four-in-One" company, providing a one-stop service for ingredient supply, cooking, and table/chair rental [^2]. After second and third chefs accumulated experience and set up their own businesses, the banquet energy in Neimen grew like a snowball, becoming the township with the highest density of banquet chefs in Taiwan, known as the "Hometown of Banquet Chefs" [^6].
+네이먼은 사찰이 밀집하고 진두(陣頭) 세력이 커서, 경사가 있을 때마다 음연(飲宴) 수요가 생겨 총푸스 장사가 성황이었다. 쉬에멍후이의 아버지 쉬에칭지와 제자, 닭 상인, 돼지 상인이 각각 2만 위안씩 출자해 '사합일(四合一)' 회사를 설립, 식재료 공급, 조리, 탁자 의자 대여의 원스톱 서비스를 제공했다[^2]. 이삼 주방장이 경험을 쌓고 독립하면서 네이먼의 판줘 역량은 눈덩이처럼 불어나 전 타이완에서 총푸스 밀도가 가장 높은 향진, 이른바 '총푸스 고향'이 됐다[^6].
 
-> **📝 Curatorial Perspective:** Neimen's story is a common "turning disadvantages into advantages" narrative in Taiwan: Because the land was barren and there were no other choices, it forced the emergence of an industrial cluster. Banquets supported countless families, and residents from the Shanlin District, half an hour away by car, also came to work as laborers.
+> **📝 기획 관점:** 네이먼의 이야기는 타이완에서 흔한 '열세 역전' 서사다: 땅이 척박해 달리 선택지가 없었기에 오히려 하나의 산업 취락이 탄생했다. 판줘가 수많은 가정을 먹여 살렸고, 차로 30분 거리인 산린구(杉林區) 주민들도 수주(水腳, 보조 인력)로 일하러 왔다.
 
-The golden age was roughly between 1988 and 2000. Xue Menghui recalled that during Lee Teng-hui's presidency, not only traditional "eight celebrations and one funeral" required banquets, but children getting PhDs or winning money from pigeon racing also had reasons to host banquets. On auspicious days marked in red in the almanac, the temple mouth and roadside were full of "Heineken Grand Hotels"—early banquet canvas tents were provided by beverage companies, printed with Heineken soda advertisements, becoming a synonym for banquets [^2].
+황금기는 대략 1988~2000년 사이였다. 쉬에멍후이 회고에 따르면, 리덩후이(李登輝)가 총통이던 시기에는 전통 '팔경일상(八慶一喪)'뿐 아니라 아이가 박사 학위를 따거나 비둘기 경주에서 이겨도 잔치 핑계가 됐다. 농민력에 붉은 글씨로 표시된 길일(吉日)에는 묘구와 길가마다 '헤이송 대반점(黑松大飯店)'이었다——초기 판줘 천막은 음료 회사가 제공해 헤이송 사이다 광고가 인쇄돼 있었고, 이것이 판줘의 대명사가 됐다[^2].
 
-## Leftover Soup: The Final Exam for Banquet Chefs
+## 차이웨이탕: 총푸스의 기말고사
 
-Among all banquet handcrafted cuisines, the one with the highest status is not Buddha Jumps Over the Wall, nor Red Crab with Rice—it is the final dish, "Leftover Soup" (菜尾湯).
+모든 판줘 손루차이 중 지위가 가장 높은 것은 포티아오창도, 홍쉐미가오도 아니다——마지막 한 그릇 '차이웨이탕(菜尾湯)'이다.
 
-Many people think leftover soup is just leftover food. Huang Wanling, the "Godmother of Taiwanese Cuisine," spent thirty years clarifying this misconception. "As the name suggests, the chef's last dish, the one they can only leave after finishing, is called leftover soup. Sixty years ago, no one questioned that leftover soup was leftover food; it was even a major dish testing the chef's skill." [^7]
+많은 사람이 차이웨이가 남은 음식인 줄 알지만, 타이완 요리의 대모 황완링(黃婉玲)은 30년 동안 이 오해를 풀려 애썼다. "이름 그대로, 주방장이 마지막으로 만드는 요리, 다 만들어야 비로소 떠날 수 있는 그 한 그릇이 차이웨이(菜尾)다. 60년 전에는 아무도 차이웨이탕을 남은 음식이라 의심하지 않았고, 그것은 오히려 스승의 내공을 시험하는 대요리였다."[^7]
 
-A authentic leftover soup requires reserving part of the ingredients from seven classic banquet dishes in advance: braised soup, sweet and sour fish, braised pork, bamboo shoot and sour cabbage pork rib soup, dried fish and Chinese cabbage braised dish, white radish and pork stomach soup, and fish ball soup [^8]. From the moment guests eat the first dish, the banquet chef is silently calculating—how much to save, when to put it in the pot, and how to balance the proportions.
+정통 차이웨이탕 한 그릇을 만들려면, 클래식 연회 요리 7가지의 일부 식재료를 미리 남겨둬야 한다: 훙샤오겅(紅燒羹), 우류즈(五柳枝), 펑러우(封肉), 쑨쓰쏸차이파이구탕(筍絲酸菜排骨湯), 비엔위바이차이루(扁魚白菜滷), 바이뤄보주두탕(白蘿蔔豬肚湯), 위위안탕(魚丸湯)[^8]. 손님이 첫 요리를 먹기 시작하는 순간부터 총푸스는 속으로 계산한다——얼마나 남길지, 언제 넣을지, 비율을 어떻게 잡을지.
 
-The Teochew word "jie" (結), means to harmonize and blend. Making leftover soup takes four to eight hours. During the process, continuous stirring, tasting, and adjusting are required, with real-time judgment of temperature, humidity, heat, and ingredient status. Huang Wanling herself took on the challenge and tested it once, spending six days [^7].
+대만어 '결(結, kat)'은 조화, 융합을 뜻한다. 차이웨이를 결(結)하는 데 4~8시간, 끊임없이 저으며 맛보고 조절하고, 온도, 습도, 화후(火候), 식재료 상태를 실시간으로 판단한다. 황완링이 혼자 도맡아 시험 삼아 만들었을 때도 6일이 걸렸다[^7].
 
-> **💡 Did You Know?** "Returning the leftover soup" is the most human-touching segment of banquets. After the banquet, the host family sends strong men to carry the leftover soup door-to-door to neighbors who helped. "Return" is pronounced in the third tone, carrying the respect of bowing and curtsying. After neighbors receive it, they can cook it again, adding Chinese cabbage to make two pots. If the leftover soup is not harmonized well, the whole village will know the next day, directly affecting the banquet chef's business for the next year [^9].
+> **💡 알고 계십니까?** '환차이웨이(還菜尾)'는 판줘에서 가장 인정(人情) 어린 대목이다. 연회가 끝나면 주최 집이 장정(壯丁)을 시켜 차이웨이탕을 지게에 지고 집집마다 돌며 도운 이웃에게 나눠준다. '환(還)'은 제3성(第三聲)으로 읽으며, 허리 굽혀 절하는 감사함이 담겨 있다. 이웃이 받아다 다시 한 번 끓이고 배추를 넣으면 두 냄비가 된다. 차이웨이를 잘 결하지 못하면 온 마을이 이튿날 다 알고, 총푸스 내년 장사에 직격탄을 맞는다[^9].
 
-Huang Wanling said: "Almost all Taiwanese dishes have immigrant characteristics, except for leftover soup. It is a dish adapted to local conditions on this land for over three hundred years, the root of Taiwan." [^7]
+황완링은 말한다: "타이완 거의 모든 요리에 이주민 색채가 깃들어 있지만, 오직 차이웨이탕만은 그렇지 않다. 그것은 이 땅에서 300여 년간 지리적 조건에 맞춰 탄생한 요리, 타이완의 뿌리다."[^7]
 
-## Twenty Years of Decline
+## 20년의 쇠퇴
 
-The crisis of the banquet industry did not start with the pandemic. Zhong Yuechun, Secretary of the Chiayi City Catering Industry Union, used three disasters to mark the scale: "The 921 earthquake hurt a little, SARS hurt more than half, and this year's pandemic may make banquets a declining industry." [^2]
+판줘 산업의 위기는 팬데믹에서 시작된 게 아니다. 자이시(嘉義市) 요식업 직업공회 비서 종위에춘(鍾月春)은 세 차례 재난으로 선을 그었다: "921(대지진)이 조금 건드렸고, 사스(SARS)가 절반 이상 망가뜨렸고, 올해 팬데믹은 판줘를 사양 산업으로 만들지도 모른다."[^2]
 
-A more fundamental reason is the change in lifestyle. Hotel weddings replaced roadside banquets; young people are unwilling to learn the physical labor of banquet skills; small and medium-sized enterprises in the export processing zones closed as industries moved westward—Xue Menghui said that some old clients haven't hired him for their year-end parties for two years in a row, and upon inquiry, they had already closed down [^2].
+더 근본적인 원인은 생활 방식의 변화다. 호텔 예식이 길가 판줘를 대체했고, 젊은이들은 체력이 필요한 판줘 기술을 배우려 하지 않으며, 가공 수출구의 중소기업이 산업 서진(西進)과 함께 도산했다——쉬에멍후이는 단골손님이 2년 연속 꼬리야(尾牙, 연말 회식)를 안 맡기길래 물어보니 이미 폐업했더라고 했다[^2].
 
-> "We are not only worried about this year, but more worried that people not hosting (banquets) becomes a habit." — Cai Yufeng, Tainan banquet operator [^2]
+> "우린 올해만 걱정하는 게 아니라, 다들 판줘 안 하는 게 습관이 될까 봐 두렵다."——타이난 판줘 업자 차이위펑(蔡裕峰)[^2]
 
-This sentence reveals the deepest fear of the banquet industry. The disappearance of banquets is not just a business, but an entire social operating system: Temple festivals drive banquet demand, banquet chefs support laborers and suppliers, and "returning leftover soup" maintains neighborhood relations. When this cycle breaks, it is not just the industrial chain that breaks.
+이 말이 판줘 업계의 가장 깊은 공포를 짚어낸다. 판줘가 사라지는 것은 단지 한 사업이 아니다. 사찰 경사가 음연 수요를 부르고, 총푸스가 수주와 공급상을 먹여 살리며, '환차이웨이'가 이웃 관계를 유지하는——이 순환이 끊어지면 끊어지는 것은 산업 사슬만이 아니다.
 
-## The People Fighting to Save It
+## 지키려는 사람들
 
-Some are desperately trying to keep these flavors alive.
+이 맛을 붙들려 애쓰는 이들이 있다.
 
-Huang Wanling initially only wanted to be a feature writer, interviewing old banquet chefs to write stories. But the old masters, seeing her powerless appearance, suddenly shed tears—because no one else was willing to learn. That tear changed her life direction: She started as a laborer, followed multiple banquet chefs for over a hundred banquets, and practiced weightlifting to sustain her physical strength [^7]. Since 2011, she has successively published _Banquet Chef's Banquet_, _Grandma's Kitchen_, _Old Taiwanese Cuisine_, _Hundred-Year Old Taiwanese Early Flavors_, and _The True Flavor of Taiwanese Cuisine_, preserving the methods and local stories of old Taiwanese cuisine in text [^10].
+황완링은 처음엔 답사 작가로, 늙은 총푸스들을 따라 취재하며 이야기를 쓰려 했다. 그런데 노장인이 힘없는 그녀의 모습을 보며 갑자기 눈물을 흘렸다——배우려는 사람이 아무도 없었기 때문이다. 그 한 방울 눈물이 그녀의 인생을 바꿨다: 수주부터 시작해 여러 총푸스를 따라 100여 장 연회를 돌며, 근력 운동으로 체력을 버텼다[^7]. 2011년부터 《총푸스 판줘(總鋪師辦桌)》, 《아마의 부엌(阿嬤的廚房)》, 《노타이차이(老台菜)》, 《백년 타이완 고조미(百年台灣古早味)》, 《타이차이 본미(台菜本味)》를 연이어 출간하며, 노타이차이의 조리법과 풍토 이야기를 글로 남겼다[^10].
 
-Another form of rescue is commercial transformation. Neimen's Master A Long turned braised pork and Buddha Jumps Over the Wall into frozen vacuum packs for e-commerce [^11]; some banquet chefs transformed into making sacrificial offerings, because even without large events, worshiping gods will not decrease [^2]. But the experience of roadside tents, on-site stoves, and the twelve-dish introduction, elaboration, transition, and conclusion of banquets cannot be replicated by frozen packaging.
+또 다른 구조는 상업적 전환이다. 네이먼의 아룽스(阿隆師)는 펑러우, 포티아오창을 냉동 진공 포장으로 만들어 전자상거래에 올렸고[^11]; 일부 총푸스는 제사 용품 제작으로 업종을 바꿨다. 큰 행사가 없어도 제사는 줄지 않기 때문이다[^2]. 하지만 길가에 천막 치고 현장에서 불 때며 12가지 요리를 기승전결로 내는 판줘 체험은 냉동 포장으로 재현할 수 없다.
 
-The cruelest thing about handcrafted cuisine is here: It is a living skill, passed from person to person. How many grams is a handful of salt, when to turn high heat to low heat, what color "the right color" is—these mnemonics only exist in the hands and eyes of the masters. When the people are gone, the dishes are gone.
+손루차이 가장 잔혹한 지점이 여기 있다: 그것은 살아있는 기술로, 사람에서 사람으로 전해진다. 소금 한 줌이 몇 그램인지, 센 불에서 약한 불로 줄이는 타이밍, '색깔이 맞다'는 게 어떤 색깔인지——이 구결(口訣)은 오로지 스승의 손과 눈에만 존재한다. 사람이 없으면 요리도 없다.
 
-Xue Menghui flips through the agricultural almanac filled with his father's handwriting, the characters on it being the scale of an industrial golden age. He does not know that this diary records not just menus and table counts—it records how a whole era of Taiwanese people celebrated, how they expressed gratitude, and how they connected the whole village with one pot of soup.
+쉬에멍후이는 아버지가 빼곡히 적어둔 농민력을 넘겨본다. 거기 적힌 글씨는 한 산업의 황금기 눈금이다. 그가 모르는 건, 그 일지가 기록한 것이 메뉴와 상수(桌數)만이 아니라는 사실——그것은 한 시대 타이완 사람들이 어떻게 축하하고, 어떻게 감사하며, 어떻게 한 냄비 탕으로 온 마을을 잇고 있었는지를 기록하고 있다.
 
-**Further Reading**:
+**연장 읽기**:
 
-- [Taiwanese Banquet Culture](/ko/food/taiwan-banquet-culture) — The most concentrated exhibition field of handcrafted cuisine: From the barren land of Neimen nurturing the kingdom of banquet chefs, to a complete set of banquet ritual knowledge spanning the human, divine, and ghostly realms.
-- [Chen Yu-Hsun](/ko/people/chen-yu-hsun-taiwan-comedy-film-magician) — Director of _The Grandmaster_, bringing endangered kung fu dishes like chicken, pork stomach, and softshell turtle to the big screen.
-- [Taiwanese Seafood Culture](/ko/food/taiwan-seafood-culture) — The red crab, lobster, and steamed fish on the main banquet table, behind which lies the Taiwanese seafood flavor context.
+- [타이완 판줘 문화](/ko/food/taiwan-banquet-culture) — 손루차이가 가장 집약적으로 드러나는 현장: 악지(惡地) 네이먼이 키워낸 총푸스 왕국에서, 인신귀(人神鬼) 삼계를 아우르는 연회 의식 지식까지
+- [천위쉰(陳玉勳)](/ko/people/chen-yu-hsun-taiwan-comedy-film-magician) — 《총푸스(總舖師)》 감독, 지계(雞仔), 주두(豬肚), 비에(鱉) 등 전승 위기의 공부 요리를 스크린에 올리다
+- [타이완 해산물 문화](/ko/food/taiwan-seafood-culture) — 판줘 주상(主桌) 위의 홍쉐(紅蟳), 롱샤(龍蝦), 청징위(清蒸魚) 뒤에 숨은 타이완 해미(海味) 맥락
 
-## References
+## 이미지 출처
 
-[^1]: [Handcrafted Cuisine — Ministry of Education Taiwan Teochew Common Word Dictionary](https://sutian.moe.edu.tw/zh-hant/su/1118/) — See original link for supplementary content data
+- Hero: 산베이지, 촬영 Archon6812, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sanbeiji.jpg), CC BY-SA 3.0.
 
-[^2]: [The Longest Winter for Banquet Chefs and Laborers — The Reporter](https://www.twreporter.org/a/after-covid-19-fading-taiwan-flavor-roadside-banquet-culture) — (2020)
+## 참고 자료
 
-[^3]: [Ministry of Economic Statistics — Revenue of External Catering and Group Meal Contracting Industry](https://www.moea.gov.tw/Mns/dos/bulletin/Bulletin.aspx?kind=8&html=1&menu_id=6727&bull_id=7325) — (2020)
+[^1]: [손루차이——교육부 타이완 대만어 상용어 사전](https://sutian.moe.edu.tw/zh-hant/su/1118/) — 원문 링크 내 본문 자료 보충 참조
 
-[^4]: [Banquet — Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%BE%A6%E6%A1%8C) — Wikipedia entry
+[^2]: [총푸스와 수주가 겪은 가장 긴 겨울——보도자](https://www.twreporter.org/a/after-covid-19-fading-taiwan-flavor-roadside-banquet-culture) — (2020)
 
-[^5]: [Decoding Banquet Culture: Banquet Menus, Serving Order, and Banquet Chef's Skills — Heho](https://lifestyle.heho.com.tw/archives/60486) — (2023)
+[^3]: [경제부 통계——외회 및 단체급식 수주업 매출](https://www.moea.gov.tw/Mns/dos/bulletin/Bulletin.aspx?kind=8&html=1&menu_id=6727&bull_id=7325) — (2020)
 
-[^6]: [One Banquet Company, Fragrance for Ten Thousand Families — The Legend of Neimen Banquets](http://mail.jwsh.tp.edu.tw/~lawfate/a-3.html) — See original link for supplementary content data
+[^4]: [판줘——위키백과](https://zh.wikipedia.org/zh-tw/%E8%BE%A6%E6%A1%8C) — 위키백과 항목
 
-[^7]: [Huang Wanling's _The True Flavor of Taiwanese Cuisine_ Keeps the Classic "Leftover Soup" Fragrant — 500 Times](https://500times.udn.com/wtimes/story/12671/5245108) — (2021)
+[^5]: [판줘 문화 심층: 연회 메뉴, 상차림 순서와 총푸스의 좋은 손루——Heho](https://lifestyle.heho.com.tw/archives/60486) — (2023)
 
-[^8]: [Leftover Soup ≠ Leftovers — Godmother of Taiwanese Cuisine Teaches How to Cook Classic "Leftover Soup" — United Daily News Orange Generation](https://orange.udn.com/orange/story/121311/5327380) — (2021)
+[^6]: [한 집 판줘로 만 집 향기——네이먼 판줘 전설](http://mail.jwsh.tp.edu.tw/~lawfate/a-3.html) — 원문 링크 내 본문 자료 보충 참조
 
-[^9]: [Classic "Leftover Soup" is Not Leftovers! 7 Independent Dish Ingredients Simmered for 4 Hours — ETtoday](https://travel.ettoday.net/article/1913876.htm) — (2021)
+[^7]: [황완링 《타이차이 본미》로 전승 위기의 클래식 '차이웨이탕' 향기 잇다——500집](https://500times.udn.com/wtimes/story/12671/5245108) — (2021)
 
-[^10]: [Taiwanese Hero — Godmother of Taiwanese Cuisine Huang Wanling — Liberty Times Net](https://www.youtube.com/watch?v=P4cjkkQeuxY) — (2022)
+[^8]: [차이웨이≠남은 음식——타이완 요리 대모가 가르치는 클래식 좋은 맛 '차이웨이탕'——연합보 귤세대](https://orange.udn.com/orange/story/121311/5327380) — (2021)
 
-[^11]: [Neimen Master A Long Banquet — Rakuten](https://www.rakuten.com.tw/shop/aweisister/) — See original link for supplementary content data
+[^9]: [클래식 '차이웨이탕'은 남은 음식이 아니다! 7가지 독립 요리 식재료로 4시간 달여——ETtoday](https://travel.ettoday.net/article/1913876.htm) — (2021)
+
+[^10]: [타이완 영웅——타이완 요리 대모 황완링——자유시보](https://www.youtube.com/watch?v=P4cjkkQeuxY) — (2022)
+
+[^11]: [네이먼 아룽스 판줘——Rakuten](https://www.rakuten.com.tw/shop/aweisister/) — 원문 링크 내 본문 자료 보충 참조

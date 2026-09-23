@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-24T03:29:56+08:00",
-    "zhCommitHead": "4674b71be",
+    "lastUpdated": "2026-09-24T03:36:47+08:00",
+    "zhCommitHead": "dfa4eecfc",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1079,
-        "stale": 30,
+        "fresh": 1080,
+        "stale": 29,
         "metadata_stale": 0,
         "missing": 15,
         "orphan": 0
@@ -44,16 +44,16 @@
       },
       "es": {
         "total_zh": 1124,
-        "fresh": 1067,
-        "stale": 43,
+        "fresh": 1068,
+        "stale": 42,
         "metadata_stale": 0,
         "missing": 14,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1076,
-        "stale": 35,
+        "fresh": 1077,
+        "stale": 34,
         "metadata_stale": 0,
         "missing": 13,
         "orphan": 0
@@ -76,16 +76,16 @@
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1068,
-        "stale": 26,
+        "fresh": 1069,
+        "stale": 25,
         "metadata_stale": 0,
         "missing": 30,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 1021,
-        "stale": 21,
+        "fresh": 1022,
+        "stale": 20,
         "metadata_stale": 0,
         "missing": 82,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 981,
+        "fresh": 979,
         "stale": 3,
         "metadata_stale": 0,
-        "missing": 140,
+        "missing": 142,
         "orphan": 0
       }
     },
@@ -4687,20 +4687,18 @@
         "pt": {
           "path": "pt/Music/mayday-band.md",
           "translatedFrom": "Music/五月天.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:2d73cb00a5f5d254",
-          "sourceBodyHash": "sha256:7f6b080a953be003",
-          "translatedAt": "2026-07-25T17:25:36+08:00",
+          "sourceCommitSha": "d182e5d85",
+          "sourceContentHash": "sha256:d0269e2f1779f743",
+          "sourceBodyHash": "sha256:70e0b74692ddad14",
+          "translatedAt": "2026-09-23T22:11:58+08:00",
           "translationLastCommit": "d182e5d8",
           "translationLastModified": "2026-08-16T08:53:57+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "bytes": 13110,
+          "bytes": 14285,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+6 -6"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Music/mayday-band.md",
@@ -8317,20 +8315,7 @@
           "reason": "same-commit"
         },
         "de": {
-          "path": "de/Economy/taiwan-shipbuilding-industry.md",
-          "translatedFrom": "Economy/台灣造船業.md",
-          "sourceCommitSha": "60e991e02",
-          "sourceContentHash": "sha256:72151c012acc7cd3",
-          "sourceBodyHash": "sha256:818b90ddb26bb8d5",
-          "translatedAt": "2026-09-23T22:12:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 14,
-          "bytes": 23525,
-          "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         }
       }
     },
@@ -10091,20 +10076,7 @@
           "reason": "same-commit"
         },
         "de": {
-          "path": "de/Economy/taiwan-orchid-industry.md",
-          "translatedFrom": "Economy/台灣蘭花.md",
-          "sourceCommitSha": "63fb967a1",
-          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
-          "sourceBodyHash": "sha256:f9ade260f241a953",
-          "translatedAt": "2026-09-23T22:12:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 9,
-          "bytes": 21567,
-          "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         }
       }
     },
@@ -21779,8 +21751,8 @@
           "sourceContentHash": "sha256:972cf4aaa92341f0",
           "sourceBodyHash": "sha256:b76f31d5c89bcc16",
           "translatedAt": "2026-09-23T22:12:06+08:00",
-          "translationLastCommit": "99efb3f1",
-          "translationLastModified": "2026-09-14T11:55:56+08:00",
+          "translationLastCommit": "dfa4eecf",
+          "translationLastModified": "2026-09-24T03:30:01+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "bytes": 31885,
@@ -33850,8 +33822,8 @@
           "sourceContentHash": "sha256:6a85130bd9bb91b0",
           "sourceBodyHash": "sha256:01e8abe40e264468",
           "translatedAt": "2026-09-23T22:12:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "dfa4eecf",
+          "translationLastModified": "2026-09-24T03:30:01+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "bytes": 30896,
@@ -38396,7 +38368,20 @@
           "reason": "footnote-loss (17→0)"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Art/paper-windmill-theater.md",
+          "translatedFrom": "Art/紙風車劇團.md",
+          "sourceCommitSha": "fd35815e1",
+          "sourceContentHash": "sha256:bcce97e3493eec98",
+          "sourceBodyHash": "sha256:c5eb598a94be9567",
+          "translatedAt": "2026-09-23T22:12:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "bytes": 18682,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -79048,20 +79033,18 @@
         "hi": {
           "path": "hi/Nature/taiwan-marine-conservation-challenges.md",
           "translatedFrom": "Nature/台灣海洋保育與挑戰.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:0c4a6676abd7e73d",
-          "sourceBodyHash": "sha256:fe639063298f999a",
-          "translatedAt": "2026-07-26T23:43:22+08:00",
+          "sourceCommitSha": "c24076169",
+          "sourceContentHash": "sha256:f5c7b68537fffdbb",
+          "sourceBodyHash": "sha256:8a34ab63ff63d541",
+          "translatedAt": "2026-09-23T22:12:00+08:00",
           "translationLastCommit": "915e336c",
           "translationLastModified": "2026-07-27T18:28:34+08:00",
           "inferred": false,
-          "footnoteDefs": 8,
-          "bytes": 32288,
+          "footnoteDefs": 7,
+          "bytes": 32761,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+22 -26"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Nature/taiwan-marine-conservation-challenges.md",
@@ -120963,8 +120946,8 @@
           "sourceContentHash": "sha256:ad617fbb654f67ae",
           "sourceBodyHash": "sha256:986ab9796f1069f2",
           "translatedAt": "2026-09-23T18:02:03.054356+00:00",
-          "translationLastCommit": "4bd82ef6",
-          "translationLastModified": "2026-09-22T01:04:31+08:00",
+          "translationLastCommit": "dfa4eecf",
+          "translationLastModified": "2026-09-24T03:30:01+08:00",
           "inferred": false,
           "footnoteDefs": 23,
           "bytes": 35023,
@@ -139750,8 +139733,8 @@
           "sourceContentHash": "sha256:29ee16f25cde68b4",
           "sourceBodyHash": "sha256:fa9994749dd8a224",
           "translatedAt": "2026-09-23T22:12:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "dfa4eecf",
+          "translationLastModified": "2026-09-24T03:30:01+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 23182,
@@ -150808,18 +150791,18 @@
         "en": {
           "path": "en/Food/taiwan-vegetarian-culture.md",
           "translatedFrom": "Food/台灣素食文化.md",
-          "sourceCommitSha": "d6e87d07",
-          "sourceContentHash": "sha256:b6884a554f5b7c89",
-          "sourceBodyHash": "sha256:6d448c8add3f1fbd",
-          "translatedAt": "2026-05-17T06:05:00Z",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:e050ee2343bbf606",
+          "sourceBodyHash": "sha256:ec5fbcb2b471d5c3",
+          "translatedAt": "2026-09-23T22:11:44+08:00",
           "translationLastCommit": "d6ea86f0",
           "translationLastModified": "2026-09-22T01:05:30+08:00",
           "inferred": false,
           "footnoteDefs": 3,
-          "bytes": 11871,
+          "bytes": 12817,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Food/taiwan-vegetarian-culture.md",
@@ -163076,38 +163059,34 @@
         "es": {
           "path": "es/Food/golden-age-echoes-taiwan-tea-culture.md",
           "translatedFrom": "Food/茶文化.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:86475082b87388fc",
-          "sourceBodyHash": "sha256:a9375147f15627a6",
-          "translatedAt": "2026-05-29T00:35:00+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:86fb5241b5393f5b",
+          "sourceBodyHash": "sha256:add135df68f1784c",
+          "translatedAt": "2026-09-23T22:11:50+08:00",
           "translationLastCommit": "de52e731",
           "translationLastModified": "2026-09-22T01:05:46+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 11756,
+          "bytes": 12862,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+11 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Food/golden-age-echoes-taiwan-tea-culture.md",
           "translatedFrom": "Food/茶文化.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:86475082b87388fc",
-          "sourceBodyHash": "sha256:a9375147f15627a6",
-          "translatedAt": "2026-05-29T00:35:00+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:86fb5241b5393f5b",
+          "sourceBodyHash": "sha256:add135df68f1784c",
+          "translatedAt": "2026-09-23T22:11:52+08:00",
           "translationLastCommit": "677cd01d",
           "translationLastModified": "2026-09-22T01:05:52+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 11130,
+          "bytes": 13496,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+11 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Food/golden-age-echoes-taiwan-tea-culture.md",
@@ -186430,20 +186409,7 @@
           "status": "missing"
         },
         "de": {
-          "path": "de/Geography/alishan-forest-railway.md",
-          "translatedFrom": "Geography/阿里山林業鐵路.md",
-          "sourceCommitSha": "da79c32b0",
-          "sourceContentHash": "sha256:98502e991d7261a6",
-          "sourceBodyHash": "sha256:7466cc3940afd368",
-          "translatedAt": "2026-09-23T22:12:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 11,
-          "bytes": 22823,
-          "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         }
       }
     },
@@ -187591,8 +187557,8 @@
           "sourceContentHash": "sha256:c2ed56f9f5f0e381",
           "sourceBodyHash": "sha256:522eab501e4df7fe",
           "translatedAt": "2026-09-23T22:12:06+08:00",
-          "translationLastCommit": "74349bb6",
-          "translationLastModified": "2026-09-24T01:05:06+08:00",
+          "translationLastCommit": "dfa4eecf",
+          "translationLastModified": "2026-09-24T03:30:01+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "bytes": 35118,
