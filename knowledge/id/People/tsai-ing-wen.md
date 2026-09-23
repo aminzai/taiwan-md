@@ -30,10 +30,10 @@ rationale:
   whos_pushing_back: '國民黨、深綠本土派、原住民族倡議者、同婚專法批評者、退休軍公教與居住能源改革批評者。'
 relatedDiary: ['2026-07-12-225636-manual']
 translatedFrom: 'People/蔡英文.md'
-sourceCommitSha: '4f3974f86'
-sourceContentHash: 'sha256:2ea54fe4a3dcfc40'
-sourceBodyHash: 'sha256:3efdfebbac8eea3c'
-translatedAt: '2026-09-21T14:29:20.552553+00:00'
+sourceCommitSha: '7255b3ab1'
+sourceContentHash: 'sha256:ad617fbb654f67ae'
+sourceBodyHash: 'sha256:986ab9796f1069f2'
+translatedAt: '2026-09-23T18:01:42.375933+00:00'
 ---
 
 # Tsai Ing-wen: Dari Malam Kekalahan ke 8,17 Juta Suara, Delapan Tahun Presiden yang Tenang
@@ -153,25 +153,25 @@ Peta lain justru berkembang ke arah berlawanan. DPR AS lulus _Taiwan Travel Act_
 
 Oleh itu, "mitra berkurang" dan "dukungan internasional bertambah" keduanya benar, tapi mengukur hal berbeda. Yang pertama hitung jumlah negara mengakui Republik Tiongkok, yang kedua deskripsi koneksi nyata tanpa pengakuan formal. Pemerintahan Tsai taruh sumber daya terbatas pada yang kedua; pilihan ini naikkan eksposur Taiwan di negara demokrasi, tapi tidak hentikan aliran putusnya pengakuan formal. Penilaian pembaca tergantung: apakah inti diplomasi itu nama, kerja sama nyata, atau keduanya tak terpisahkan.
 
-## Pasca Jabatan, Masih Baca Aturan Dulu Baru Masuk
+## Setelah Mundur, Tetap Melihat Aturan Sebelum Melangkah Masuk
 
-20 Mei 2024, Tsai Ing-wen serahkan jabatan ke Lai Ching-te. DPP menang tiga periode berturut-turut, rekor pertama sejak pemilihan presiden langsung.
+Pada tanggal 20 Mei 2024, Tsai Ing-wen menyerahkan jabatan presiden kepada Lai Ching-te. Partai Progresif Demokratik (DPP) berhasil memenangkan tiga periode pemilihan presiden berturut-turut, sebuah rekor yang terjadi setelah pemilu presiden langsung pertama.
 
-Oktober tahun sama, ia sebagai mantan presiden kunjungi Ceko, Prancis, Belgia, dan hadiri resepsi anggota parlemen di Gedung Parlemen Eropa. Ini mantan presiden Taiwan pertama masuk markas UE, tapi bukan pidato resmi Parlemen Eropa; rencana ke Inggris juga tidak terwujud.[^18]
+Pada bulan Oktober tahun yang sama, ia mengunjungi Ceko, Prancis, dan Belgia sebagai mantan presiden, serta menghadiri resepsi anggota di Gedung Parlemen Eropa. Ia adalah mantan presiden Taiwan pertama yang memasuki markas Uni Eropa, namun itu bukanlah pidato resmi di Parlemen Eropa; perjalanan ke Inggris yang semula direncanakan juga tidak terlaksana.[^18]
 
-Dari meja negosiasi WTO ke ruang rapat Parlemen Eropa, ia masih melakukan hal serupa: lihat dulu aturan mengizinkan sampai mana, lalu bawa Taiwan ke tepi batas itu.
+Dari meja perundingan WTO hingga ruang rapat di Parlemen Eropa, ia masih melakukan hal serupa: melihat sejauh mana aturan mengizinkan, baru kemudian membawa Taiwan ke batas tersebut.
 
-Cerita kembali ke panggung kekalahan 2012. Kalimat "jangan menyerah" lewat delapan tahun jabatan, sudah bukan sekadar hiburan. Tanah suku asli, reformasi yudikatif, harga rumah, energi, dan risiko Selat Taiwan — tak terselesaikan olehnya; undang-undang perkawinan sesama jenis, sistem pensiun, dan penyesuaian pertahanan — sudah jadi realitas yang harus dilanjutkan atau dijawab pemerintah berikutnya.
+Kisah ini kembali ke panggung kekalahan pada tahun 2012. Ungkapan "jangan menyerah" setelah delapan tahun menjabat presiden tidak lagi hanya sekadar kata penghibur. Isu tanah adat, reformasi yudisial, harga properti, energi, dan risiko Taiwan Selat belum terselesaikan olehnya; sementara undang-undang pernikahan sesama jenis, sistem pensiun, dan penyesuaian pertahanan telah menjadi realitas yang harus dilanjutkan atau ditanggapi oleh pemerintahan penerus.
 
-Ia meninggalkan Istana Presiden, 8,17 juta suara sudah jadi angka sejarah. Tersisa bukti lain yang lebih tenang: tokoh politik bisa meninggalkan sistem tanpa naikkan volume, dan sistem akan setia menyimpan apa yang ia selesaikan, juga apa yang ia tidak selesaikan.
+Ketika ia meninggalkan kantor kepresidenan, 8,17 juta suara sudah menjadi angka sejarah. Yang tersisa adalah bukti lain yang lebih tenang: bahwa seorang politisi dapat meninggalkan sistem tanpa perlu meninggikan volume suaranya, dan sistem itu akan setia menyimpan apa yang telah ia selesaikan, sekaligus apa yang belum selesai ia tangani.
 
-**Baca Lebih Lanjut**:
+**Bacaan Lanjutan**:
 
-- [Invisible Nation](../Art/看不見的國家.md) — Dokumenter pengawasan dekat Chi Po-lin (葛靜文) tujuh tahun ke Tsai Ing-wen, dari lensa eksternal mengamati kepribadian dan demokrasi Taiwan.
-- [Perkawinan Sesama Jenis dan Kesetaraan Gender Taiwan](../Society/台灣同婚與性別平權.md) — Dari Interpretasi 748, referendum, hingga undang-undang khusus berlaku, catatan lengkap.
-- [Sejarah dan Gerakan Penamaan Kembali Suku Asli Taiwan](../History/台灣原住民族歷史與正名運動.md) — Perjuangan sebelum permintaan maaf, serta soal tanah dan identitas yang tertunda pasca maaf.
-- [Ma Ying-jeou](馬英九.md) — Mantan presiden yang mengalahkan Tsai Ing-wen 2012, menyerahkan kekuasaan kepadanya 2016.
-- [Lai Ching-te](賴清德.md) — Wakil presiden dan penerus Tsai Ing-wen.
+- [Negara Tak Terlihat](/id/art/invisible-nation) — Dokumenter selama tujuh tahun Tsai Ing-wen dari sudut pandang dekat Ge Jeong-mun, mengamati kepribadiannya dan demokrasi Taiwan dari luar.
+- [Pernikahan Sesama Jenis dan Kesetaraan Gender di Taiwan](/id/society/taiwan-marriage-equality-lgbtq-rights) — Proses lengkap dari Pasal 748 hingga berlakunya undang-undang khusus.
+- [Sejarah Masyarakat Adat Taiwan dan Gerakan Penamaan yang Benar](/id/history/indigenous-peoples-history-and-naming-movement) — Perjuangan sebelum permintaan maaf, serta masalah tanah dan identitas yang masih perlu ditangani setelah permintaan maaf.
+- [Ma Ying-jeou](/id/people/ma-ying-jeou-cross-strait-reconciliation-leader) — Mantan presiden yang mengalahkan Tsai Ing-wen pada tahun 2012 dan menyerahkan kekuasaan kepadanya pada tahun 2016.
+- [Lai Ching-te](/id/people/lai-ching-te) — Wakil presiden dan penerus Tsai Ing-wen.
 
 ## Sumber Gambar
 

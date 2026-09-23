@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-24T02:12:00+08:00",
-    "zhCommitHead": "3b88af4d6",
+    "lastUpdated": "2026-09-24T02:44:24+08:00",
+    "zhCommitHead": "58b946e1e",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,32 +20,32 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1076,
-        "stale": 33,
+        "fresh": 1077,
+        "stale": 32,
         "metadata_stale": 0,
         "missing": 15,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 1000,
+        "fresh": 1001,
         "stale": 63,
         "metadata_stale": 0,
-        "missing": 61,
+        "missing": 60,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1124,
-        "fresh": 1073,
-        "stale": 36,
+        "fresh": 1075,
+        "stale": 34,
         "metadata_stale": 0,
         "missing": 15,
         "orphan": 0
       },
       "es": {
         "total_zh": 1124,
-        "fresh": 1064,
-        "stale": 46,
+        "fresh": 1065,
+        "stale": 45,
         "metadata_stale": 0,
         "missing": 14,
         "orphan": 0
@@ -60,34 +60,34 @@
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 1094,
-        "stale": 18,
+        "fresh": 1097,
+        "stale": 15,
         "metadata_stale": 1,
         "missing": 11,
         "orphan": 0
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 1022,
-        "stale": 34,
+        "fresh": 1023,
+        "stale": 33,
         "metadata_stale": 0,
         "missing": 68,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1067,
-        "stale": 28,
+        "fresh": 1068,
+        "stale": 27,
         "metadata_stale": 0,
         "missing": 29,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 1019,
+        "fresh": 1020,
         "stale": 21,
         "metadata_stale": 0,
-        "missing": 84,
+        "missing": 83,
         "orphan": 0
       },
       "ar": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 975,
-        "stale": 4,
+        "fresh": 977,
+        "stale": 3,
         "metadata_stale": 0,
-        "missing": 145,
+        "missing": 144,
         "orphan": 0
       }
     },
@@ -18151,7 +18151,20 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Economy/new-taiwan-dollar.md",
+          "translatedFrom": "Economy/新台幣.md",
+          "sourceCommitSha": "a8354bde0",
+          "sourceContentHash": "sha256:4d797183a6dc8cc5",
+          "sourceBodyHash": "sha256:8d5699b86714ee17",
+          "translatedAt": "2026-09-23T22:11:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "bytes": 20167,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Economy/new-taiwan-dollar.md",
@@ -18608,18 +18621,18 @@
         "vi": {
           "path": "vi/Economy/taiwan-agriculture-and-rural-revitalization.md",
           "translatedFrom": "Economy/台灣農業與農村再生.md",
-          "sourceCommitSha": "24efd20f",
-          "sourceContentHash": "sha256:95d473c7b6d24541",
-          "sourceBodyHash": "sha256:a996bea328f05c29",
-          "translatedAt": "2026-07-31T00:00:00Z",
+          "sourceCommitSha": "35a9b46c8",
+          "sourceContentHash": "sha256:bea7a776566a0bbd",
+          "sourceBodyHash": "sha256:760025faea8ce9a0",
+          "translatedAt": "2026-09-23T22:11:54+08:00",
           "translationLastCommit": "502c9338",
           "translationLastModified": "2026-08-01T00:13:09+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "bytes": 20277,
+          "footnoteDefs": 11,
+          "bytes": 23176,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (11→5)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Economy/taiwan-agriculture-and-rural-revitalization.md",
@@ -21738,20 +21751,18 @@
         "de": {
           "path": "de/Economy/mask-national-team.md",
           "translatedFrom": "Economy/口罩國家隊.md",
-          "sourceCommitSha": "4a95859b1",
-          "sourceContentHash": "sha256:0d5afce6607921e8",
-          "sourceBodyHash": "sha256:6f90b2f90f4bd537",
-          "translatedAt": "2026-09-14T00:53:36+08:00",
+          "sourceCommitSha": "7255b3ab1",
+          "sourceContentHash": "sha256:972cf4aaa92341f0",
+          "sourceBodyHash": "sha256:b76f31d5c89bcc16",
+          "translatedAt": "2026-09-23T22:12:06+08:00",
           "translationLastCommit": "99efb3f1",
           "translationLastModified": "2026-09-14T11:55:56+08:00",
           "inferred": false,
           "footnoteDefs": 21,
-          "bytes": 32203,
+          "bytes": 31885,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+53 -28"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -33809,7 +33820,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Technology/taiwan-teachers-and-ai-education.md",
+          "translatedFrom": "Technology/台灣教師與AI教學.md",
+          "sourceCommitSha": "d95fa9648",
+          "sourceContentHash": "sha256:6a85130bd9bb91b0",
+          "sourceBodyHash": "sha256:01e8abe40e264468",
+          "translatedAt": "2026-09-23T22:12:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "bytes": 30896,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -38174,18 +38198,18 @@
         "en": {
           "path": "en/Art/paper-windmill-theater.md",
           "translatedFrom": "Art/紙風車劇團.md",
-          "sourceCommitSha": "088a688b2",
-          "sourceContentHash": "sha256:dac39dc01ba71011",
-          "sourceBodyHash": "sha256:dece40987a4bedea",
-          "translatedAt": "2026-06-17T00:36:20+08:00",
+          "sourceCommitSha": "fd35815e1",
+          "sourceContentHash": "sha256:bcce97e3493eec98",
+          "sourceBodyHash": "sha256:c5eb598a94be9567",
+          "translatedAt": "2026-09-23T22:11:44+08:00",
           "translationLastCommit": "29e0766d",
           "translationLastModified": "2026-07-25T10:34:23+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 20340,
+          "footnoteDefs": 17,
+          "bytes": 17407,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (17→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Art/paper-windmill-theater.md",
@@ -38206,18 +38230,18 @@
         "ko": {
           "path": "ko/Art/paper-windmill-theater.md",
           "translatedFrom": "Art/紙風車劇團.md",
-          "sourceCommitSha": "088a688b2",
-          "sourceContentHash": "sha256:dac39dc01ba71011",
-          "sourceBodyHash": "sha256:dece40987a4bedea",
-          "translatedAt": "2026-06-17T00:36:20+08:00",
+          "sourceCommitSha": "fd35815e1",
+          "sourceContentHash": "sha256:bcce97e3493eec98",
+          "sourceBodyHash": "sha256:c5eb598a94be9567",
+          "translatedAt": "2026-09-23T22:11:48+08:00",
           "translationLastCommit": "bd89e7e1",
           "translationLastModified": "2026-07-25T10:33:05+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 20273,
+          "footnoteDefs": 17,
+          "bytes": 17591,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (17→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Art/paper-windmill-theater.md",
@@ -38254,18 +38278,18 @@
         "vi": {
           "path": "vi/Art/paper-windmill-theater.md",
           "translatedFrom": "Art/紙風車劇團.md",
-          "sourceCommitSha": "088a688b2",
-          "sourceContentHash": "sha256:dac39dc01ba71011",
-          "sourceBodyHash": "sha256:dece40987a4bedea",
-          "translatedAt": "2026-08-09T10:41:15+08:00",
+          "sourceCommitSha": "fd35815e1",
+          "sourceContentHash": "sha256:6bc07dcf7ad94466",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-23T18:12:07.407120+00:00",
           "translationLastCommit": "e8265091",
           "translationLastModified": "2026-08-09T11:18:44+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 24135,
+          "footnoteDefs": 17,
+          "bytes": 21352,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (17→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Art/paper-windmill-theater.md",
@@ -70823,8 +70847,8 @@
           "sourceContentHash": "sha256:d584a485050631e9",
           "sourceBodyHash": "sha256:5fb85b385727325b",
           "translatedAt": "2026-09-23T22:12:00+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "58b946e1",
+          "translationLastModified": "2026-09-24T02:12:00+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "bytes": 58261,
@@ -120871,8 +120895,8 @@
           "sourceContentHash": "sha256:ad617fbb654f67ae",
           "sourceBodyHash": "sha256:986ab9796f1069f2",
           "translatedAt": "2026-09-23T16:50:40.048293+00:00",
-          "translationLastCommit": "8752e849",
-          "translationLastModified": "2026-09-22T00:56:34+08:00",
+          "translationLastCommit": "58b946e1",
+          "translationLastModified": "2026-09-24T02:12:00+08:00",
           "inferred": false,
           "footnoteDefs": 23,
           "bytes": 68719,
@@ -122882,8 +122906,8 @@
           "sourceContentHash": "sha256:bbe9414090e28df8",
           "sourceBodyHash": "sha256:eec2d91f1c8e6db1",
           "translatedAt": "2026-09-23T22:12:00+08:00",
-          "translationLastCommit": "1763a4cd",
-          "translationLastModified": "2026-07-28T07:58:51+08:00",
+          "translationLastCommit": "58b946e1",
+          "translationLastModified": "2026-09-24T02:12:00+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "bytes": 56852,
@@ -148216,20 +148240,18 @@
         "ko": {
           "path": "ko/Food/night-market-culture.md",
           "translatedFrom": "Food/夜市文化.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:cad0161e7864d0ae",
-          "sourceBodyHash": "sha256:ea37a51a6e2ccfcd",
-          "translatedAt": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:86820d44ddf9a31a",
+          "sourceBodyHash": "sha256:d37208c6e0c05c9c",
+          "translatedAt": "2026-09-23T22:11:48+08:00",
           "translationLastCommit": "5f8252f9",
           "translationLastModified": "2026-09-22T01:05:42+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 21245,
+          "bytes": 20987,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+9 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Food/night-market-culture.md",
@@ -163834,20 +163856,18 @@
         "es": {
           "path": "es/Food/bubble-tea.md",
           "translatedFrom": "Food/珍珠奶茶.md",
-          "sourceCommitSha": "30569f74",
-          "sourceContentHash": "sha256:d90e80b19559290b",
-          "sourceBodyHash": "sha256:9bc13bf8c8054628",
-          "translatedAt": "2026-05-16T22:20:03Z",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:4b6c70d0fd8de132",
+          "sourceBodyHash": "sha256:402d0d087252b30e",
+          "translatedAt": "2026-09-23T22:11:50+08:00",
           "translationLastCommit": "de52e731",
           "translationLastModified": "2026-09-22T01:05:46+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 17412,
+          "bytes": 18189,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+9 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Food/bubble-tea.md",
@@ -178205,7 +178225,20 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/History/taiwan-minpao-newspaper.md",
+          "translatedFrom": "History/臺灣民報.md",
+          "sourceCommitSha": "1b7250789",
+          "sourceContentHash": "sha256:cfc5c04e9673e1a1",
+          "sourceBodyHash": "sha256:27b8803688951c5a",
+          "translatedAt": "2026-09-23T22:12:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "bytes": 56319,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -181890,18 +181923,18 @@
         "pt": {
           "path": "pt/History/taiwan-strait-crises-and-cross-strait-relations.md",
           "translatedFrom": "History/台海危機與兩岸關係發展.md",
-          "sourceCommitSha": "dd39065b2",
-          "sourceContentHash": "sha256:fcdf343dc3efa72e",
-          "sourceBodyHash": "sha256:8952fca56720f010",
-          "translatedAt": "2026-07-26T23:43:20+08:00",
+          "sourceCommitSha": "5aa11ee92",
+          "sourceContentHash": "sha256:292f82300f3a8a11",
+          "sourceBodyHash": "sha256:dbb56e0c9c904d7c",
+          "translatedAt": "2026-09-23T22:11:58+08:00",
           "translationLastCommit": "beb66999",
           "translationLastModified": "2026-07-27T19:05:03+08:00",
           "inferred": false,
-          "footnoteDefs": 9,
-          "bytes": 23747,
+          "footnoteDefs": 11,
+          "bytes": 23990,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (11→9)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/History/taiwan-strait-crises-and-cross-strait-relations.md",
@@ -183646,20 +183679,18 @@
         "id": {
           "path": "id/Geography/lin-an-tai-historical-house.md",
           "translatedFrom": "Geography/林安泰古厝.md",
-          "sourceCommitSha": "13c7fbcdb",
-          "sourceContentHash": "sha256:47d89dc0ac03a566",
-          "sourceBodyHash": "sha256:7079616fec64f3a7",
-          "translatedAt": "2026-09-13T17:51:58+08:00",
+          "sourceCommitSha": "d9ef16d5e",
+          "sourceContentHash": "sha256:bf88a96f60bbcd8e",
+          "sourceBodyHash": "sha256:f8662882b41f1947",
+          "translatedAt": "2026-09-23T22:11:56+08:00",
           "translationLastCommit": "c504c031",
           "translationLastModified": "2026-09-22T00:50:34+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "bytes": 31978,
+          "bytes": 31583,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+7 -6"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Geography/lin-an-tai-historical-house.md",
@@ -187471,8 +187502,8 @@
           "sourceContentHash": "sha256:c2ed56f9f5f0e381",
           "sourceBodyHash": "sha256:522eab501e4df7fe",
           "translatedAt": "2026-09-23T22:12:00+08:00",
-          "translationLastCommit": "09302111",
-          "translationLastModified": "2026-09-10T03:30:44+08:00",
+          "translationLastCommit": "58b946e1",
+          "translationLastModified": "2026-09-24T02:12:00+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "bytes": 70507,
@@ -209184,20 +209215,18 @@
         "vi": {
           "path": "vi/Culture/taiwan-baseball-culture.md",
           "translatedFrom": "Culture/台灣棒球文化.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:9a4380e463583d63",
-          "sourceBodyHash": "sha256:ffebfda3574ab04b",
-          "translatedAt": "2026-08-09T12:06:28+08:00",
+          "sourceCommitSha": "25b97c085",
+          "sourceContentHash": "sha256:82a373ca1ee51cf4",
+          "sourceBodyHash": "sha256:fc1ffe59248c5ac1",
+          "translatedAt": "2026-09-23T22:11:54+08:00",
           "translationLastCommit": "d1237168",
           "translationLastModified": "2026-08-09T12:31:16+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "bytes": 21809,
+          "bytes": 20247,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+8 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Culture/taiwan-baseball-culture.md",
