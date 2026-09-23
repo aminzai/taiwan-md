@@ -18,25 +18,18 @@ featured: false
 lastVerified: 2026-07-25
 lastHumanReview: false
 viewpoint_formed: true
-researchReport: reports/research/2026-07/外送專法.md
-projectionBlueprint: reports/article-projection/外送專法.md
-translatedFrom: 'Society/外送專法.md'
-sourceCommitSha: '21298a7ae'
-sourceContentHash: 'sha256:2226f6ae85580ba3'
-sourceBodyHash: 'sha256:9aa85b1a3d34de72'
-translatedAt: '2026-08-09T08:07:25+08:00'
+researchReport: 'reports/research/2026-07/外送專法.md'
+projectionBlueprint: 'reports/article-projection/外送專法.md'
 rationale:
-  why_this_hook: 'Cùng ngày, cùng tài xế, hai đơn hàng khoảng cách gấp đôi, cả hai được 90 đồng—đây là đơn vị nhỏ nhất của toàn bộ mâu thuẫn: Bộ ngành đọc là 45 đồng là bảo vệ, người nhận đơn đọc là giới hạn. Bắt đầu bằng ảnh chụp màn hình thực tế, thay vì bắt đầu từ điều khoản hay lịch sử lập pháp, giúp độc giả nhanh chóng đứng giữa tranh cãi.'
-  whats_excluded: 'Trường hợp Grab mua lại foodpanda toàn bộ (Ủy ban Công bằng từ chối, phí kết thúc, 3,7% quyền bình chọn)—chủ đề luật cạnh tranh, sẽ pha loãng luận điểm thành tổng quan ngành; khủng hoảng tin tưởng bên trong công đoàn (người phát ngôn bị cắt đứt, chia tách ph派, dòng chảy quảng cáo)—nguồn từ một nhân vật bình luận chính trị duy nhất, liên quan đến tranh chấp cá nhân có tên; giải thích động cơ chính đảng; "chênh lệch 40.000 đồng" của Thái Như Hương (xác minh là thử nghiệm cũ bị chuyên chở để bình luận về chính sách mới); phát biểu của Vương Hào Vũ (chỉ có dịch từ PTT chưa kiểm chứng bài đăng gốc); "luật nền tảng giao hàng sẽ tràn ra các ngành gig khác" (truy vấn đa nhóm xác minh luận thuyết công khai Đài Loan hoàn toàn không có thảo luận này, không cưỡng bức suy luận từ tài liệu nước ngoài).'
-  where_it_hedges: 'Tất cả các trường hợp thu nhập được ghi là "trường hợp đơn lẻ" và đồng thời đưa ra trường hợp khác theo hướng ngược lại; cửa hàng "giảm 70%" được ghi rõ là chủ tự khai báo và là trường hợp cực đoan nhất trong nhóm được phỏng vấn cùng (trường hợp khác giảm 1-2%); mô hình dự báo 34,1% / 460 tỷ đồng của Ủy ban Công bằng được ghi là "nếu tăng 5%" là dự báo mô hình chứ không phải thử nghiệm; Uber One tăng giá đi kèm tuyên bố nền tảng phủ nhận liên quan đến luật chuyên ngành; bốn phân loại quốc tế được ghi rõ là sự tổng hợp riêng của bài viết này, không phải phân loại chính thức; lời trích dẫn của Lý Kiến Hùng được ghi 2023-07-06, sớm hơn ba lần đọc 2,5 năm, đánh giá con đường chứ không phải điều khoản; con số cụ thể của Seattle được ghi rõ chỉ là từ một nguồn thứ cấp duy nhất chưa được xác chứng chéo; mức bảo hiểm điều 10 được ghi rõ đến nay chưa công bố, nền tảng tự bảo lãnh 3 triệu không phải giới hạn dưới định luật; ba thống kê chính thức về số lượng tài xế giao hàng được liệt kê cùng không chọn một; con số của Cục Kiểm toán được ghi rõ là thống kê giao thông chứ không phải thống kê tai nạn lao động.'
-  whos_pushing_back: 'Luật sư Lâm Trí Quân (phái tự do thị trường, "bốn loại người đều thua, chỉ có đại biểu thắng", bài viết ghi rõ là quan điểm từ cùng một người được bốn tờ báo khác nhau trích dẫn lại chứ không phải nhận xét đa chiều tập hợp); Giáo sư Đại học Văn hóa Lý Kiến Hùng (chủ trương nên thừa nhận trực tiếp mối quan hệ tuyển dụng, con đường luật chuyên ngành bảo vệ hạn chế); Trần Dạ An, Công đoàn Nền tảng Giao hàng Toàn quốc (từ "đào một cái lỗ lớn" ở giai đoạn trình bày ban đầu đến "có lập luật hay không, cứ để người ta xem" sau khi luật được thực hiện, giám sát liên tục); Vương Minh Hùng, tài xế giao hàng chuyên nghiệp (khoảng trống về suốt minh bạch thuật toán); phía nền tảng (foodpanda ước tính chi phí tăng 30-50%, DEAT chủ trương tính toán lại chi phí); mặt khác, nhóm quyền lao động nội bộ không tìm thấy bất kỳ người nào sử dụng khung "thỏa hiệp" để định tính luật này—những gì họ tranh luận là đủ hay không, có bị rỗng hay không.'
+  why_this_hook: '同一天、同一個外送員、兩張距離差一倍的單，報酬都是 90 元——這是整篇悖論的最小單位：官方把 45 元讀成保障，收到單的人讀成上限。用真實截圖畫面開場，比從法條或立法史開場更快讓讀者站到爭議裡面。'
+  whats_excluded: 'Grab 併購 foodpanda 全案（公平會否准、終止費、3.7% 投票權）——競爭法題材，會把論點稀釋成產業近況總覽；工會內部信任危機指控（發言人被切割、派系分裂、廣告金流）——單一政治評論員來源、涉具名個人組織糾紛、與論點無關；政黨動機解讀；蔡依橙「4 萬元價差」（查證為舊實測被挪用評論新政策）；王浩宇發言（僅 PTT 轉載未核原始貼文）；「外送專法會外溢成其他零工產業樣板」（多組 query 查證台灣公開論述完全沒有這個討論，不以外國材料勉強推導）。'
+  where_it_hedges: '所有收入個案一律標「單一個案」並同時給出方向相反的另一則；店家「掉 7 成」標明是業者自陳且為同批受訪者中最極端一則（另一則掉 1-2 成）；公平會 34.1%／460 億標明是「若漲 5%」的模型預測非實測；Uber One 漲價並陳平台官方否認與專法有關；國際四分類明標為本文自行歸納、非官方既定分類；李健鴻引語標 2023-07-06、早於三讀兩年半、評的是路線不是條文；西雅圖具體數字標明僅單一二手來源未交叉；第 10 條保險金額標明至今未公開、平台自保 300 萬不是法定下限；外送員人數三個官方口徑並陳不擇一；審計部數字標明是交通統計不是職災統計。'
+  whos_pushing_back: '律師林智群（市場自由派，「四類人都輸、只有立委贏」，文中標明是同一人立場被四家媒體重複引用而非多元批評匯集）；文化大學教授李健鴻（主張應直接認定僱傭、專法路線保護有限）；全國外送產業工會陳昱安（從初審「挖了個大洞」到施行後「立來供著？看爽的？」的持續監督）；專職外送員王銘宏（演算法透明缺口）；平台端（foodpanda 估成本增 30-50%、DEAT 主張成本重算）；而勞權陣營內部查無任何人用「妥協」框架定性本法——他們爭的是夠不夠、會不會被架空。'
 image: '/article-images/society/foodpanda-rider-keelung-rain-2020.webp'
 imageCredit: 'Solomon203'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:COMEBUY_Keelung_Qidu_Store_and_Foodpanda_scooter_20200913.jpg'
-relatedDiary:
-  - 2026-07-25-231820-外送專法
-  - 2026-07-26-001546-順稿席
+relatedDiary: ['2026-07-25-231820-外送專法', '2026-07-26-001546-順稿席']
 sporeLinks:
   - id: 159
     platform: 'threads'
@@ -46,6 +39,11 @@ sporeLinks:
     platform: 'x'
     date: '2026-07-25'
     url: 'https://x.com/taiwandotmd/status/2081045126898684051'
+translatedFrom: 'Society/外送專法.md'
+sourceCommitSha: '83975eef3'
+sourceContentHash: 'sha256:79a50a0770daf955'
+sourceBodyHash: 'sha256:725b400b5a230de4'
+translatedAt: '2026-09-23T20:23:56.624920+00:00'
 ---
 
 # Luật nền tảng giao hàng: Luật đã tạo sàn, nhưng từ sàn trở lên tất cả do thuật toán
@@ -137,44 +135,44 @@ Chưa | Hai mục luật lệ con của Bộ Giao thông vẫn là dự thảo d
 Nguồn: Cơ sở dữ liệu Luật pháp Quốc gia, Bộ Lao động, Lập pháp viện, Bộ Giao thông
 ```
 
-## Luật không nói họ không phải là nhân viên
+## Luật không nói họ không phải nhân viên
 
-Trước và sau khi luật này phát hành, câu tóm tắt lưu thông nhất trên mạng là "bỏ qua mối quan hệ, chú trọng quyền lợi": không xác định xem tài xế giao hàng có phải là tuyển dụng hay nhận thầu, trực tiếp viết quyền lợi vào luật. Wikipedia viết như vậy, Thương quán Tuần san viết như vậy, nó còn được kéo dài thành "Đài Loan tạo ra loại lao động thứ ba".[^22] Câu này thuận tiện, và nó nói rằng luật không làm được điều đó, thành như nó làm được.
+Trước và sau khi luật này có hiệu lực, nhận định phổ biến nhất trên mạng là "bỏ qua thân phận, chú trọng quyền lợi": thay vì xác định người giao hàng là người lao động hay nhà thầu, pháp luật trực tiếp ghi các quyền lợi vào văn bản. Các mục của Wikipedia cũng viết như vậy, và bài bình luận của Thương mại Tuần san cũng tương tự, thậm chí còn được mở rộng thành "Đài Loan sáng tạo ra loại hình lao động thứ ba".[^22] Cách nói này thuận tiện, và nó biến những điều mà luật chưa làm thành những điều đã làm.
 
-Mở Điều 1. Khoản 1 là mục đích lập pháp: "Để bảo vệ quyền lợi tài xế giao hàng, người dùng, cửa hàng hợp tác và quản lý các công ty nền tảng giao hàng, để cân bằng mối quan hệ quyền lợi nghĩa vụ của các bên, đặc biệt lập luật này."
+Mở Điều 1, Khoản 1 là mục đích lập pháp: "Nhằm bảo vệ quyền lợi của người giao hàng, người tiêu dùng và các doanh nghiệp hợp tác, đồng thời quản lý các đơn vị nền tảng giao hàng, nhằm cân bằng mối quan hệ nghĩa vụ giữa các bên, nên ban hành luật này."
 
-Khoản 2 tiếp theo viết, là câu quan trọng nhất của luật này, dễ bị bỏ qua nhất.[^3]
+Câu nói được viết ở Khoản 2 tiếp theo là câu dễ bị bỏ qua nhất nhưng lại quan trọng nhất của đạo luật này.[^3]
 
 ```tw-quote
-Tuy nhiên công ty nền tảng giao hàng có mối quan hệ tuyển dụng với tài xế giao hàng… các quyền lợi được bảo vệ của họ cũng như xử phạt được xử lý theo Luật Lao động Cơ bản và các luật liên quan khác
-《Luật Bảo vệ Quyền lợi Tài xế Giao hàng và Quản lý Nền tảng Giao hàng》Điều 1 Khoản 2 | Từng từ chính thức từ Cơ sở dữ liệu Luật pháp Quốc gia
+Nhưng đối với trường hợp đơn vị nền tảng giao hàng và người giao hàng có mối quan hệ lao động... thì việc bảo vệ quyền lợi và xử phạt sẽ được giải quyết theo Luật Tiêu chuẩn Lao động và các quy định pháp luật liên quan.
+《Luật Bảo vệ Quyền lợi Người Giao Hàng và Quản lý Nền Tảng Giao Hàng》 Điều 1 Khoản 2 | Cơ sở dữ liệu pháp luật quốc gia chính thức từng chữ
 ```
 
-Sau chữ "tuy nhiên" đó, là cả một đường ray được để lại. Luật rõ ràng hình dung tình huống "có mối quan hệ tuyển dụng" và điều hướng nó trở lại Luật Lao động Cơ bản.
+Sau từ "Nhưng" đó là cả một hướng đi được giữ lại. Văn bản pháp quy đã dự kiến tình huống "có mối quan hệ lao động" và dẫn nó về Luật Tiêu chuẩn Lao động.
 
-Giải thích chính thức của dự thảo nói chi tiết hơn, xử lý Điều 1 từng điều khi xử lý song song hai tình huống: "Công ty nền tảng giao hàng với tài xế giao hàng không có mối quan hệ tuyển dụng, các quyền lợi được bảo vệ của họ được xử lý theo luật này… có mối quan hệ tuyển dụng… các quyền lợi được bảo vệ khác được xử lý theo Luật Lao động Cơ bản, Luật An toàn Lao động và các luật liên quan khác."[^23]
+Bản dự thảo tổng thể của cơ quan chức năng giải thích đầy đủ hơn, xử lý song song hai trường hợp khi trình bày Điều 1: "Đối với người giao hàng và đơn vị nền tảng giao hàng không có mối quan hệ lao động, các vấn đề bảo vệ quyền lợi sẽ được xử lý theo luật này... Đối với trường hợp có mối quan hệ lao động... thì các vấn đề bảo vệ quyền lợi còn lại phải được thực hiện theo Luật Tiêu chuẩn Lao động, Luật An toàn Vệ sinh Nghề nghiệp và các quy định pháp luật liên quan."[^23]
 
-Điều 26 Khoản 2 xử lý tình huống khi nền tảng khi đó ngoài cho bên thứ ba, cũng trực tiếp trích dẫn lại cách nói "tuy nhiên" tương tự: "Khoản trước Mục thứ ba của một người khi có mối quan hệ tuyển dụng với tài xế giao hàng, được xử lý theo Điều 1 Khoản 2 cách nói tuy nhiên."[^3] Một luật không sẽ vô tình viết một tình huống hai lần.
+Khi xử lý tình huống ủy thác công việc ở Điều 26 Khoản 2, cũng trực tiếp viện dẫn lại điều khoản "Nhưng" tương tự: "Đối với bên thứ ba có mối quan hệ lao động với người giao hàng theo Khoản 1, sẽ được xử lý theo điều khoản 'Nhưng' của Điều 1 Khoản 2."[^3] Một đạo luật không thể vô tình viết cùng một trường hợp hai lần.
 
-Vì vậy luật này từ đầu đến cuối không công bố tài xế giao hàng không phải là nhân viên, cũng không thêm bất kỳ tiêu chuẩn nào để đánh giá mối quan hệ tuyển dụng.
+Vì vậy, từ đầu đến cuối, đạo luật này chưa hề tuyên bố rằng người giao hàng không phải là nhân viên, cũng chưa bổ sung bất kỳ tiêu chuẩn nào để phán đoán mối quan hệ lao động.
 
-Trường hợp từng trường hợp có không có bị xác định là tuyển dụng hay không, quay lại tiêu chuẩn từ thuộc ngoại từ luật lao động sẵn có, cùng một cái kéo được dùng lần cuối cùng vào năm 2019 khi kiểm tra lao động. Điều luật này làm, là sau khi đó, một khía cạnh khác của luật, một sàn tồn tại không yên cầu kết quả của phán quyết.
+Việc một vụ việc có được xác định là lao động hay không vẫn dựa trên các tiêu chí phụ thuộc vào pháp luật lao động hiện hành như cuộc thanh tra lao động năm 2019. Điều luật này làm thêm một lớp sàn tồn tại bất kể kết quả phán đoán ra sao, bên ngoài sự phán đoán đó.
 
-![Phòng họp Lập pháp viện từ bên trong, bàn thơm phía trước và hàng hàng ghế đại biểu phía sau xếp lên](/article-images/society/legislative-yuan-chamber-2017.webp)
-_Phòng họp Lập pháp viện. 6 tháng 1 năm 2026, Luật Bảo vệ Quyền lợi Tài xế Giao hàng và Quản lý Nền tảng Giao hàng 28 điều thông qua ba lần đọc ở đây, chỉ cách phối hợp chính sách nội các định tên luật sáu ngày. Photo: 林高志, CC BY-SA 4.0_
+![Bên trong hội trường lập pháp, bục chủ tọa phía trước và các ghế nghị viên xếp tầng phía sau](/article-images/society/legislative-yuan-chamber-2017.webp)
+_Hội trường lập pháp. Ngày 6 tháng 1 năm 2026, Luật Bảo vệ Quyền lợi Người Giao Hàng và Quản lý Nền Tảng Giao Hàng (Điều 28) được thông qua ở lần đọc thứ ba tại đây, chỉ sáu ngày sau khi các bên đã thỏa thuận về tên của dự luật. Ảnh: Lâm Cao Chí, CC BY-SA 4.0_
 
-Trước khi con đường này được định tên, có người chủ trương không nên vòng như vậy. Giáo sư Đại học Văn hóa Lý Kiến Hùng tháng 7 năm 2023 khi được PTV phỏng vấn, nói rằng công đoàn lúc đó yêu cầu không áp dụng Luật Lao động Cơ bản, với nhân từa quan xử lý, mà "luật chuyên ngành dành cho bảo vệ quyền lợi lao động cũng rất hạn chế".[^24] Anh ấy chủ trương so với Tây Ban Nha và bang California Mỹ, quay lại xác định mối quan hệ tuyển dụng cho tài xế giao hàng.
+Trước khi đạo luật này được thông qua, đã có người phản đối cách tiếp cận này. Giáo sư Lý Kiện Hồng thuộc Khoa Lao động và Nhân sự Đại học Văn hóa, trong cuộc phỏng vấn với Đài Truyền hình Công cộng vào tháng 7 năm 2023, cho biết công đoàn lúc đó yêu cầu không áp dụng Luật Tiêu chuẩn Lao động mà xử lý theo quan hệ nhà thầu, nhưng việc "ban hành luật chuyên ngành để bảo vệ quyền lợi lao động cũng rất hạn chế". Ông chủ trương so sánh với Tây Ban Nha và California (Mỹ) để quy về nhận định người giao hàng là mối quan hệ lao động.[^24]
 
-Mốc thời gian của đoạn nói này rất quan trọng. Nó nói sớm hơn ba lần đọc 2,5 năm, đánh giá "đi con đường luật chuyên ngành", không phải đánh giá 28 điều được định tên.
+Thời điểm của đoạn này rất quan trọng. Nó cho thấy trước hai năm rưỡi khi luật được đọc lần thứ ba, người ta đang đánh giá "con đường đi theo luật chuyên ngành", chứ không phải đánh giá Điều 28 sau khi nó được thông qua.
 
-Trong báo cáo giống nhau, Chủ tịch Công đoàn Nền tảng Giao hàng Toàn quốc Trần Dạ An nói một thứ khác: "Quan tâm đến phần lương, những thứ này hiện nay ở điều lệ tự trị địa phương đều không xử lý được hiệu quả. Chúng tôi hy vọng có luật chuyên ngành, bởi vì nó hơi giống mô hình xe taxi, ba bên là nền tảng chính phủ và công đoàn cùng nhau định sàn tối thiểu."[^24] Học giả muốn mối quan hệ, công đoàn muốn sàn. Phiên bản cuối cùng được thông qua đã cho sàn, để mối quan hệ ở vị trí ban đầu.
+Trong cùng một bài báo, Chủ tịch Công đoàn toàn quốc về ngành giao hàng Trần Dục An đã đưa ra một mối quan tâm khác: "Về vấn đề lương bổng, những thứ này hiện tại không thể xử lý hiệu quả bằng các quy định tự trị. Chúng tôi hy vọng có luật chuyên ngành vì nó giống như mô hình taxi, trong đó nền tảng, chính phủ và công đoàn cùng nhau thiết lập mức sàn tối thiểu."[^24] Các học giả muốn thân phận, còn công đoàn muốn mức sàn. Phiên bản cuối cùng đã cho mức sàn, còn thân phận thì vẫn ở nguyên chỗ cũ.
 
-> 📝 **Ghi chú Ủy ban Biên tập**
-> Có một điều có thể chắc chắn được: sự "không trả lời" này là thiết kế, không phải bỏ sót. Giải thích chính thức của dự thảo xử lý Điều 1 từng điều khi xếp "không có mối quan hệ tuyển dụng" với "có mối quan hệ tuyển dụng" hai tình huống viết vào, Điều 26 lại trích dẫn lại cách nói "tuy nhiên" cùng một lần—một luật không sẽ vô tình viết một tình huống hai lần.
+> 📝 **Ghi chú của Biên tập viên**
+> Có một điều có thể xác định trước: sự "không trả lời" này là được thiết kế, chứ không phải sơ suất. Bản dự thảo tổng thể của cơ quan chức năng đã xử lý song song hai trường hợp "không có mối quan hệ lao động" và "có mối quan hệ lao động" khi trình bày Điều 1, và Điều 26 lại viện dẫn một điều khoản "Nhưng" tương tự—một đạo luật không thể vô tình viết cùng một trường hợp hai lần.
 >
-> Không thể chắc chắn là tại sao nó được thiết kế như vậy. Cách đọc thực tế là: xác định mối quan hệ phải đánh từng trường hợp, đánh xong một nền tảng thì ghi chép hợp đồng theo cách khác, năm 2019 cuộc kiểm tra lao động chính là vậy không thuyên, vì vậy sơ tiên bắt người, định tính giao cho từng trường hợp dần tích lũy. Một cách đọc khác là: một tình huống chế độ mơ hồ thuận lợi cho nền tảng, được một luật pháp ổn định lại. Hai cách đọc dùng cùng một bộ điều khoản, sự khác biệt nằm ở bạn có tin tiếp theo người sẽ hoặc sẽ không tiếp tục đánh những trường hợp đó hay không. **Bài viết này phán đoán được trước, phán đoán không được sau, cũng không chọn cho độc giả.**
+> Điều chưa xác định là tại sao nó lại được thiết kế như vậy. Cách đọc thực tế là: việc nhận định thân phận phải giải quyết từng vụ việc, sau khi xử lý xong một nền tảng thì thay đổi cách thức hợp đồng, cuộc thanh tra lao động năm 2019 đã kết thúc trong bế tắc, nên trước hết hãy giữ người lại, để việc phân loại dần được tích lũy qua các trường hợp. Cách đọc khác là: một trạng thái mơ hồ có lợi cho nền tảng đã được ổn định bằng một đạo luật. Hai cách đọc sử dụng cùng một bộ điều khoản, sự khác biệt nằm ở chỗ bạn tin rằng liệu sau này còn ai tiếp tục giải quyết những vụ việc đó hay không. **Bài viết này kết luận theo hướng thứ nhất, nhưng không thể đưa ra kết luận về hướng thứ hai, và cũng không lựa chọn cho người đọc.**
 
-Đây là câu hỏi đầu tiên chưa được trả lời. Câu hỏi thứ hai khó hơn, và cách nó rơi trên người thực, tuần đầu tiên luật phát hành có thể thấy.
+Đây là câu hỏi đầu tiên chưa được trả lời. Câu hỏi thứ hai khó hơn, và hình ảnh nó tác động lên con người đã có thể thấy trong tuần đầu tiên luật có hiệu lực.
 
 ## Người chạy nhanh và người chạy chậm, nhận được những thứ đối lập
 
@@ -289,31 +287,31 @@ Mà danh sách pháp định của người dùng, lúc phát hành không tồn
 
 Cho đến 25 tháng 7, hai mục vẫn là dự thảo dự báo. Quy tắc An toàn Giao thông mục tiêu chính thức nhanh nhất cuối tháng 8 phát hành, hợp đồng mẫu có thể trình báo hành chính viện. Đa số báo chí tường thuật về những công khai cho người dùng mới này, bây giờ chưa có lực ép buộc.
 
-## Bên không có con số
+## Phía không có con số
 
-Bên nên thực hiện, con số lại ít hơn.
+Ở phía thực thi, các con số lại ít hơn.
 
-Phân công trung ương thực ra viết rõ. Bộ Lao động quản lý hợp đồng, tạm dừng, cước, khiếu nại, an toàn lao động, bảo hiểm cũng như lưu giữ kỷ lục, Bộ Giao thông quản lý thực hiện định giá cơ bản, bảo vệ người dùng cũng như an toàn giao thông đường bộ, Bộ Kinh tế quản lý hợp tác hợp đồng cũng như tranh chấp phí, Bộ Y tế quản lý vệ sinh an toàn thực phẩm, chính quyền địa phương cùng trung ương thực hiện chung.[^8]
+Sự phân công của trung ương đã được ghi rất rõ ràng. Bộ Lao động quản lý hợp đồng, đình chỉ quyền lợi, thù lao, khiếu nại, an toàn lao động, bảo hiểm và lưu trữ hồ sơ; cơ quan quản lý giao thông quản lý việc xác định giá cước cơ bản, bảo vệ người tiêu dùng và an toàn giao thông đường bộ; cơ quan quản lý kinh tế quản lý hợp đồng hợp tác và tranh chấp phí; cơ quan quản lý y tế quản lý an toàn vệ sinh thực phẩm, và chính quyền địa phương cùng trung ương thực hiện. [^8]
 
-Vấn đề xuất hiện ở sau khi phân công. Bộ Lao động địa phương có bao nhiêu nhân viên kiểm tra, bao lâu kiểm tra một lần, có không có nhóm chịu trách nhiệm, từ khi phát hành đến bây giờ đã phát bao nhiêu phiếu phạt—bốn câu hỏi này, câu trả lời đều không tìm thấy được ở dữ liệu công khai.
+Vấn đề nằm ở sau sự phân công: số lượng nhân lực thanh tra của các cục lao động địa phương là bao nhiêu, tần suất kiểm tra là bao lâu, có đội chuyên trách hay không, và đã ra bao nhiêu biên bản xử phạt kể từ khi luật có hiệu lực — câu trả lời cho bốn vấn đề này hoàn toàn không tìm thấy trong tài liệu công khai.
 
 ```tw-stat
-Bốn con số thực sự để luật này có hiệu lực, hiện nay đều không tồn tại
-Không tìm được | Nhân lực kiểm tra mà Bộ Lao động địa phương đầu tư | Thực hiện chung giữa trung ương và địa phương, cấp phát nhân lực chưa công bố
-Không tìm được | Tần suất và cách thức kiểm tra | Không có kế hoạch kiểm tra công khai
-Không tìm được | Có hay không có nhóm chịu trách nhiệm riêng | Không có dữ liệu tổ chức liên quan
-Không tìm được | Số lượng phiếu phạt phát hành từ khi phát hành đến nay | Cho đến 2026-07-25 không có báo cáo trường hợp phạt
-Nguồn: Dữ liệu công khai ở phạm vi kiểm chứng bài viết này (Bộ Lao động, Bộ Lao động địa phương). Bốn mục đều là negative finding, không phải "con số bằng không" mà là "không tìm được con số"
+Bốn con số thực sự quyết định tính hiệu lực của bộ luật hiện tại đều chưa tồn tại
+Không tìm thấy | Nhân lực thanh tra do cục lao động địa phương đầu tư | Trung ương và địa phương phối hợp, cơ cấu nhân lực không được công bố
+Không tìm thấy | Tần suất và phương thức kiểm tra | Không có kế hoạch thanh tra nào được công khai
+Không tìm thấy | Có thành lập đội chuyên trách hay không | Không có tài liệu về biên chế liên quan
+Không tìm thấy | Số lượng biên bản xử phạt kể từ khi luật có hiệu lực | Chưa có báo cáo vụ xử phạt tính đến 2026-07-25
+Nguồn: Tài liệu công khai trong phạm vi kiểm chứng của bài viết (Bộ Lao động, các cục lao động địa phương). Cả bốn mục đều là phát hiện tiêu cực, không phải "số liệu bằng không" mà là "không tìm thấy số liệu".
 ```
 
-Ngày thứ ba phát hành, Hồng Thân Hàn thái độ hiếm thấy cứng, nói "trách nhiệm cơ quan hành chính chính là thực hiện luật pháp", cũng nhấn mạnh "một khi hết hạn kết toán phát hiện có hành vi vi phạm của công ty, quyết không tha, chắc chắn phạt theo pháp luật".[^45] Cùng tuần có tài xế giao hàng phản ánh nền tảng tính toán cước chưa đạt tiêu chuẩn pháp định, theo lời truyền bá của viên chức Bộ Lao động, nền tảng nói sẽ bổ sung trong hai tuần.[^46]
+Vào ngày thứ ba luật có hiệu lực, giọng điệu của Hồng Thân Hàn hiếm khi cứng rắn, nói rằng "trách nhiệm của cơ quan hành chính là thực thi pháp luật", và nhấn mạnh "một khi kết thúc kỳ thanh toán phát hiện doanh nghiệp vi phạm, tuyệt đối không dung túng, nhất định sẽ xử phạt theo quy định". [^45] Trong tuần đó, một tài xế giao hàng phản ánh rằng thù lao do nền tảng tính toán chưa đạt tiêu chuẩn pháp định; theo lời nhân viên Bộ Lao động thuật lại, nền tảng cho biết sẽ bù đắp phần thiếu hụt trong vòng hai tuần. [^46]
 
-> 📝 **Ghi chú Ủy ban Biên tập**
-> Điều 1 viết tài xế giao hàng, người dùng, cửa hàng hợp tác cùng nền tảng bị quản lý, chính là "bốn bên cân bằng" mà chính phủ nói. Nhưng tính đến luật lệ con, bốn bên nhận được quy cách phân kỳ: tài xế giao hàng cùng người dùng mỗi người một danh sách "những mục sẽ ghi chép và không sẽ ghi chép", cửa hàng nhận một mẫu hợp đồng không định mức phí trên. Mà cuối cùng phải có người đi xác minh những điều khoản này có được tuân thủ hay không, lại chính là phía địa phương kiểm tra—thậm chí cơ bản con số nhân lực cũng không tồn tại. Một luật liệt kê mấy bên là một chuyện, thay mỗi bên chuẩn bị được cái công cụ gì là chuyện khác.
+> 📝 **Ghi chú của Biên tập viên**
+> Điều 1 liệt kê tài xế giao hàng, người tiêu dùng, doanh nghiệp hợp tác và nền tảng được quản lý là "cân bằng bốn bên" theo cách nói của cơ quan chức năng. Nhưng khi đi xuống cấp độ văn bản dưới luật, các bên nhận được những quy chuẩn khác nhau: tài xế và người tiêu dùng mỗi bên đều có một bộ "các nội dung cần ghi và không được ghi", còn chủ cửa hàng nhận được một mẫu hợp đồng không giới hạn hoa hồng. Và phía lẽ ra phải kiểm tra xem các điều khoản này có được tuân thủ hay không — thanh tra địa phương — thậm chí còn không có số liệu nhân lực cơ bản nào. Việc liệt kê bao nhiêu bên trong một bộ luật là chuyện thứ nhất, chuẩn bị cho mỗi bên những công cụ gì lại là chuyện khác.
 
-Đã có người yêu cầu những thứ cụ thể. Ngày trước phát hành một ngày, đoàn đảng Nhân dân do phó chủ tịch Vương An Tường đưa năm yêu cầu, ba mục là chủ trương chính sách thực chất: Bộ Lao động phải định nghĩa rõ ràng "chi phí kinh doanh nền tảng" và cấm nền tảng dùng "phí chứng thực" và những tên khác để tạo phí ẩn, Bộ Giao thông phải hoàn thành danh sách con luật người dùng sớm, Hành chính viện phải xây dựng bao gồm Bộ Lao động, Bộ Giao thông, Bộ Phát triển Kỹ thuật Số cùng Hiệp hội Công bằng "Nhóm Quan sát Hiệu quả Luật Chuyên ngành Giao hàng".[^47]
+Đã có người yêu cầu những thứ cụ thể. Một ngày trước khi thực thi, nhóm đại biểu Đảng Dân chủ Nhân dân (Minh Triều) đã đưa ra năm kiến nghị do Phó Tổng triệu tập Vương An Tường trình bày, trong đó ba mục mang tính chất chính sách: Bộ Lao động cần xác định rõ "chi phí vận hành nền tảng" là gì và cấm các nền tảng tự đặt ra các khoản phí dưới danh nghĩa "phí môi giới"; Bộ Giao thông cần nhanh chóng hoàn thành văn bản dưới luật về hợp đồng tiêu chuẩn cho người tiêu dùng; Viện Hành pháp cần thiết lập một "nhóm giám sát hiệu quả của Luật chuyên ngành giao hàng" bao gồm Bộ Lao động, Bộ Giao thông, Bộ Kỹ thuật số và Ủy ban Công bằng. [^47]
 
-Còn tranh cãi tiếng lớn nhất, rơi vào chỗ khác. Có ủng hộ đảng xanh yêu cầu đại biểu đảng đỏ trắng chịu trách nhiệm tình cảnh tài xế giao hàng, cũng có nhận xét sự kiện nói "cuối cùng không bên nào là người thắng thực sự".[^48][^49] Chỗ cãi nhau tiếng to nhất, chỉ tình cờ không phải vị trí luật này thực sự không trả lời.
+Còn tranh chấp gây tiếng vang lớn nhất lại nằm ở nơi khác. Có người ủng hộ phe xanh yêu cầu các nghị sĩ Đảng Trắng-Xanh chịu trách nhiệm về tình cảnh của tài xế giao hàng, cũng có nhà bình luận thời sự nói rằng "cuối cùng không bên nào là người thực sự chiến thắng". [^48][^49] Vị trí gây ồn ào nhất lại chính là nơi mà bộ luật này thực sự chưa trả lời được.
 
 ## Cùng một con đường, người khác chạy thành như thế nào
 
@@ -379,12 +377,13 @@ Ngày thứ tư phát hành, Công đoàn Nền tảng Giao hàng Toàn quốc h
 
 ## Đọc thêm
 
-- [Thế hệ quốc dân đa làm](/society/thế hệ quốc dân đa làm) — Lúc sau 5 giờ chiều bật ứng dụng giao hàng những người này, cùng tại sao một tháng lương không đủ
-- [Tổng quan ẩm thực Đài Loan](/food/tổng quan ẩm thực đài-loan) — Bên kia những đơn trên nền tảng giao hàng: bức toàn cảnh bản đồ ẩm thực Đài Loan
-- [Văn hóa chợ đêm](/food/văn-hóa-chợ-đêm) — Trước thời đại nền tảng, ẩm thực lao động Đài Loan hoạt động như thế nào, định giá như thế nào
-- [Văn hóa trà sữa tay Đài Loan](/food/văn-hóa-trà-sữa-tay-đài-loan) — Từ cửa hàng nhỏ đi tới thế giới hãng trà sữa, cũng là bên kia mục phí của nền tảng
-- [Trung tâm Phúc lợi Toàn Liên](/economy/trung-tâm-phúc-lợi-toàn-liên) — Kho tổng hợp rau quả giao hàng này trong dòng giao hàng lương thực
-- [Sự kiện an toàn thực phẩm benza chóp-anthracene](/society/sự-kiện-an-toàn-thực-phẩm-benza-chóp-anthracene) — Cùng tháng luật chuyên ngành phát hành, cơm hộp mà tài xế giao hàng gửi tới cửa, đúng là hạ nguồn của cơn khủng hoảng an toàn này
+- [Thế hệ đa năng ở Đài Loan](/vi/society/taiwan-slash-generation-multi-job-economy) — Thế hệ mở ứng dụng giao đồ ăn sau giờ làm, và lý do mức lương không đủ sống
+- [Tổng quan ẩm thực Đài Loan](/vi/food/taiwan-food-overview) — Mặt khác của những đơn hàng trên nền tảng giao đồ ăn: bức tranh toàn cảnh về ẩm thực Đài Loan
+- [Văn hóa chợ đêm](/vi/food/night-market-culture) — Trước khi có các nền tảng, ngành dịch vụ ăn uống bình dân ở Đài Loan vận hành và định giá như thế nào
+- [Văn hóa trà sữa Đài Loan](/vi/food/hand-shaken-drink-culture) — Các thương hiệu trà sữa từ cửa hàng nhỏ ven đường vươn ra thế giới, cũng là một mặt khác của phí hoa hồng nền tảng
+- [Watsons (Chung Lợi Phúc Tâm Trung Trọng)](/vi/economy/pxmart-supermarket) — Kênh phân phối nội địa trong tuyến giao thực phẩm tươi sống và tạp hóa
+- [Sự cố an toàn thực phẩm Benzo(a)pyrene](/vi/society/benzopyrene-food-safety-incident) — Bữa trưa được tài xế giao đến tận cửa, chỉ một tháng sau khi luật có hiệu lực, chính là hệ quả của cơn bão an toàn thực phẩm này
+- [Ai định mức lương thấp](/society/誰算低薪) — Tiền công của tài xế giao đồ ăn đã được ghi vào luật chuyên ngành, nhưng tiền thưởng cuối năm lại không có bất kỳ quy định pháp lý nào: làm sao mức lương thấp lại bị đưa vào mục không nhận thưởng
 
 ## Nguồn gốc ảnh
 
