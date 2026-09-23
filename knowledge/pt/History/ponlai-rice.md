@@ -1,85 +1,149 @@
 ---
-title: 'Arroz Penglai: como um grão reescreveu um século de agricultura e mesa em Taiwan'
-description: 'Da jornada de melhoramento de Iso Eikichi e Suenaga Jin no período colonial japonês à difusão do Taichung 65, o arroz Penglai não só resolveu a crise alimentar como influenciou profundamente a socioeconomia e a identidade cultural de Taiwan.'
-date: 2026-06-25
+title: 'O Arroz Penglai: Como um Grão Transformou a Agricultura e a Mesa de Taiwan ao Longo de um Século'
+description: 'Desde a crise do arroz do Japão em 1918, passando pela seleção de Ishikawa e Suetsumuhana, até o arroz Taichung 65 e os avanços modernos de seleção precisa, o arroz Penglai não apenas mudou o sabor do arroz, mas também o sistema agrícola, a paisagem local e a memória histórica de Taiwan.'
+date: 2026-08-20
 category: 'History'
 tags:
   [
     'Arroz Penglai',
-    'agricultura de Taiwan',
-    'período colonial japonês',
-    'Iso Eikichi',
-    'Suenaga Jin',
-    'Taichung 65',
-    'alimentação',
-    'cultura de Taiwan',
+    'Agricultura de Taiwan',
+    'Período Japonês',
+    'Ishikawa',
+    'Suetsumuhana',
+    'Arroz Taichung 65',
+    'Alimentação',
+    'Cultura de Taiwan',
   ]
 subcategory: '殖民與帝國'
 author: 'Taiwan.md Contributors'
 featured: false
-lastVerified: 2026-06-25
+lastVerified: 2026-08-20
 lastHumanReview: false
-readingTime: 12
+readingTime: 14
 curation: 'incubating'
 translatedFrom: 'History/蓬萊米.md'
-sourceCommitSha: '69b3afd91'
-sourceContentHash: 'sha256:3c85e554c80495b9'
-sourceBodyHash: 'sha256:39ddb75027efa4b4'
-translatedAt: '2026-08-04T20:19:12+08:00'
+sourceCommitSha: '4e22e3bb9'
+sourceContentHash: 'sha256:3d54c34f765113cd'
+sourceBodyHash: 'sha256:fa292335dae74f0c'
+translatedAt: '2026-09-23T22:11:58+08:00'
 ---
 
-> **Resumo em 30 segundos:** Em 1918, os motins do arroz no Japão levaram o governo colonial a impulsionar o melhoramento do arroz em Taiwan. Graças aos esforços de mais de uma década dos agrónomos Iso Eikichi e Suenaga Jin, foi desenvolvido com sucesso o «arroz Penglai», adaptado ao terroir de Taiwan, especialmente a variedade «Taichung 65», de alto rendimento, qualidade superior e resistência a doenças. Isso não apenas atendeu à demanda japonesa por alimentos, mas transformou radicalmente o modelo de produção agrícola e a cultura alimentar de Taiwan, tornando-se uma pedra angular do desenvolvimento centenário da ilha. Hoje, as principais variedades de arroz nas mesas taiwanesas quase todas carregam o sangue do «Taichung 65», testemunhando o profundo impacto deste grão na sociedade de Taiwan.
+> **Resumo em 30 segundos:** A crise do arroz no Japão em 1918 levou a uma forte preocupação com a segurança alimentar no Império; Ishikawa, que chegou a Taiwan em 1912, e Suetsumuhana, que estava na fazenda de Jiayi desde mais cedo, junto com o comerciante de arroz Li Pengyi, que estava disposto a assumir os riscos do mercado, transformaram o arroz japonês que não se adaptava ao planalto de Taiwan em algo que podia ser cultivado, colhido e comido diariamente pelos taiwaneses. O arroz Taichung 65, lançado em 1929, tornou-se a base para muitas outras seleções de arroz japonês em Taiwan. Esta história é ao mesmo tempo ciência agrícola, economia colonial, comércio local e gosto.
 
-Em agosto de 1918, eclodiu na prefeitura de Toyama, no Japão, o chocante «Motim do Arroz»[^1]. Na ocasião, mulheres de vilas piscatórias saíram às ruas para protestar contra a disparada do preço do arroz e a falta de alimento; o protesto alastrou-se rapidamente por todo o país, culminando na renúncia do gabinete. Esse movimento social não só expôs a grave crise alimentar no interior do Japão, como fez o governo voltar os olhos para a sua colônia Taiwan, na expectativa de resolver o problema alimentar do império através do aumento da produção de arroz em Taiwan[^1]. Contudo, o «arroz nativo» (arroz índica) então amplamente cultivado em Taiwan tinha textura solta e baixo teor de açúcar, diferindo radicalmente do «arroz japonica» (arroz de grão redondo) ao qual os japoneses estavam acostumados, o que tornava o arroz taiwanês incapaz de atender diretamente à demanda do mercado japonês[^2].
+![Campos de arroz verde e montanhas em Luye, Taiwan, mostrando a paisagem agrícola atual](https://upload.wikimedia.org/wikipedia/commons/1/14/Green_Rice_Fields_in_Luye%2C_Taiwan_-_June_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
 
-📝 Nota do curador: Um movimento social distante acabou por puxar a transformação do arroz na mesa taiwanesa; os elos da história são muitas vezes surpreendentes. Isso também nos lembra que por trás de uma questão alimentar aparentemente simples costumam ocultar-se complexas estruturas políticas e sociais.
+_Arroz verde em Luye, Taitung, fotografado por Jun Jie Yam (usuário do Wikimedia Commons YJJcoolcool), CC BY 4.0; [página do arquivo](https://commons.wikimedia.org/wiki/File:Green_Rice_Fields_in_Luye,_Taiwan_-_June_2023.jpg)/[licença](https://creativecommons.org/licenses/by/4.0/deed.en)。[^10] A imagem mostra a paisagem agrícola atual, não uma fotografia histórica da história de seleção do arroz Penglai._
 
-Para resolver esse dilema, em 1912, um jovem agrónomo recém-formado na Faculdade de Agricultura da Universidade Imperial de Tohoku, Iso Eikichi, chegou a Taiwan incumbido da tarefa de melhorar o arroz[^2]. Antes disso, o Governo-Geral de Taiwan já havia introduzido 145 variedades de arroz «do interior» (Japão metropolitano) para teste, mas todas falharam por não se adaptarem ao clima de Taiwan[^2]. Iso Eikichi usou sua formação académica para classificar sistematicamente as variedades taiwanesas de arroz e estabeleceu que a «introdução de variedades do interior» era a direção para o melhoramento do arroz em Taiwan[^2].
+## Começando com uma Crise do Arroz
 
-### Do «arroz nativo» ao «arroz do interior»: a longa estrada do melhoramento
+Em agosto de 1918, mulheres de vilas pesqueiras no condado de Toyama, no Japão, protestaram diante dos comerciantes de arroz devido ao aumento drástico dos preços, que tornava o grão inacessível mesmo para quem o produzia. A demanda por "não enviem nosso arroz para outros lugares" se espalhou de local para nacional, culminando na renúncia do governo. Esse movimento social fez com que o governo japonês intensificasse sua busca por autossuficiência alimentar dentro do império, acelerando políticas de aumento da produção de arroz e melhoria de variedades nas colônias.
 
-A chegada de Iso Eikichi injetou nova esperança no melhoramento do arroz em Taiwan. Ele descobriu que as variedades japonesas em Taiwan apresentavam baixa taxa de formação de panículas, principalmente porque o ambiente quente e úmido encurtava o período de floração e reduzia a taxa de polinização[^3]. Inicialmente, seus testes em Taipé também fracassaram repetidamente, mas ele não desistiu. Em 1914, baseando-se na genética mendeliana, Iso propôs o método de «separação de linhagens puras» para selecionar linhagens superiores de arroz taiwanês[^3]. Ao mesmo tempo, voltou o olhar para outra figura-chave — Suenaga Jin.
+Mas essa não é uma história linear de políticas japonesas diretamente ligadas ao prato de Taiwan. Os japoneses estavam acostumados com arroz curto e pegajoso. O arroz nativo tradicional em Taiwan era um tipo de arroz de grãos longos, solto após cozido. O governo colonial queria mais arroz em Taiwan, mas também queria que esse arroz agradasse ao paladar japonês. Assim, "aumentar a produção" e "melhorar a qualidade do arroz" se tornaram duas faces da mesma estratégia agrícola.
 
-Suenaga Jin, filho de agricultores da prefeitura de Fukuoka, já estava em Taiwan desde 1910, trabalhando no melhoramento do arroz na Fazenda Agrícola de Chiayi[^4]. Chegou antes de Iso Eikichi e, com seu empenho e profissionalismo no campo, ganhou a admiração de Iso. Em 1914, Suenaga foi transferido para a Fazenda Experimental da Província de Taichung, encarregado do cruzamento de sementes e do cultivo prático de arroz japonês. Todos os dias, ao amanhecer, já estava no campo observando o crescimento das mudas; mesmo diante de obstáculos, discutia contramedidas com Iso Eikichi, e os dois colaboraram como «parceiros de cabeça e mãos», lançando bases sólidas para o melhoramento do arroz em Taiwan[^4].
+> 📝 Nota do curador: Um movimento social distante pode afetar não apenas os preços dos alimentos, mas também padrões de "o que constitui uma boa refeição" em outra ilha.
 
-📝 Nota do curador: O avanço da pesquisa científica não depende apenas da sabedoria de laboratório, mas também do suor e da persistência nas bordas dos campos. A colaboração entre Iso Eikichi e Suenaga Jin é o paradigma da união perfeita entre teoria e prática.
+## Ishikawa Enfrentou Mais do que um Solo Vazio
 
-Em 1921, o chefe do Departamento Agrícola da Prefeitura de Taipé, Hirasawa Kichiro, descobriu nas colinas de Chuzihu, em Yangmingshan, arroz japonês da variedade «Nakamura» crescendo vigorosamente[^3]. O ambiente fresco, úmido e de solo fértil de Chuzihu assemelhava-se ao clima de Kyushu, no Japão, proporcionando condições ideais para o crescimento do arroz japonês. Essa descoberta tornou-se um ponto de viragem decisivo no melhoramento[^3]. Suenaga Jin propôs então o revolucionário «método de transplante de mudas jovens», que, ao encurtar o período de viveiro, alterava o ciclo de crescimento da planta e resolvia com sucesso o problema da espigação precoce do arroz japonês devido ao clima, permitindo que a variedade «Nakamura» descesse das terras altas montanhosas para as planícies[^2]. A partir daí, a difusão da variedade Nakamura em Taiwan expandiu-se gradualmente, lançando as bases para o futuro arroz Penglai.
+Em 1912, Ishikawa chegou a Taiwan e ingressou no Instituto de Experimentação Agrícola do Governo Colonial. Antes disso, o governo já havia testado mais de cem variedades de arroz japonês, mas o arroz japonês reagia mal ao calor intenso, umidade e luz solar de Taiwan, frequentemente entrando em floração prematura ou tardia, dificultando o cultivo em larga escala nas planícies. Ishikawa, então, lidou com debates sobre "melhorar variedades nativas existentes" versus "introduzir arroz japonês", usando classificação de sementes e comparação de variedades.
 
-### O nascimento do arroz Penglai e o milagre do «Taichung 65»
+A pesquisa de Ishikawa não significava simplesmente transferir "arroz japonês" para Taiwan. Ele descobriu que as variedades japonesas tinham baixa taxa de enchimento dos grãos, associada a curtos períodos de floração e baixas taxas de polinização afetadas pelo calor e pela umidade. Em 1914, ele aplicou genética mendeliana e métodos de purificação de linhagens para selecionar linhagens promisoras de arroz taiwanês, estendendo sua pesquisa ao Instituto de Experimentação Agrícola de Taichung.
 
-1926 foi um ano de grande significado para Iso Eikichi e Suenaga Jin. O então Governador-Geral de Taiwan, Izawa Takio, na «Grande Reunião de Cereais do Japão» realizada no Hotel Ferroviário de Taipé, batizou oficialmente a variedade «Nakamura», com melhoramento bem-sucedido, de «arroz Penglai»[^2]. Esse nome não só simbolizava um novo marco da agricultura taiwanesa, como também depositava a esperança nos abundantes produtos desta «ilha仙境 de Penglai». Contudo, os desafios sucederam-se logo após a nomeação. Em julho do mesmo ano, o arroz Penglai foi atingido pela brusone, resultando em colheita desastrosa e pondo a obra de difusão sob enorme pressão[^3].
+Suetsumuhana chegou a Taiwan antes de Ishikawa. Este técnico de origem rural em Fukuoka, Japão, já trabalhava na fazenda de Jiayi desde 1910, envolvido em melhorias de arroz. Em 1914, mudou-se para o Instituto de Experimentação Agrícola de Taichung, responsável por hibridização de sementes e cultivo de campo. Segundo relatos da PanSci, os dois colaboraram como "mãos na massa": Ishikawa organizava as variedades e teorias, enquanto Suetsumuhana passava longas horas no campo observando mudas e espigas.
 
-Em 1927, o «Pânico Showa» abalou o mundo, o preço do arroz despencou e a vontade dos agricultores de plantar arroz Penglai caiu abruptamente[^2]. Nesse momento, o comerciante de arroz Li Pengyi, de Huatan, Changhua, ergueu-se: comprometeu-se a comprar toda a produção de arroz Penglai dos agricultores, independentemente da colheita. Embora inicialmente, devido à brusone, secas e tufões, seu moinho tenha ficado ocioso por quase três anos, beirando a falência, ele manteve a promessa e continuou a apoiar os agricultores[^3].
+## Zhushu Lake: Do Campo Original à Planície
 
-📝 Nota do curador: Sob a dupla prova da ciência e da economia, a confiança e a persistência de um comerciante tornaram-se força motriz chave da reforma agrícola. A visão e a responsabilidade de Li Pengyi pavimentaram o caminho para a popularização do arroz Penglai.
+Em 1921, o chefe de agricultura do distrito de Taipei, Hirata Kamezaburo, notou que o arroz japonês cultivado no Zhushu Lake, nas montanhas Yangming, crescia particularmente bem. O clima mais fresco e a topografia fechada do local eram semelhantes às condições do Japão, tornando-o ideal para isolar diferentes variedades e manter a pureza genética. Posteriormente, o local se tornou o campo original do arroz Penglai, conectando a preservação de variedades com a seleção no campo.
 
-Graças aos incansáveis esforços de Iso Eikichi e Suenaga Jin, estes cruzaram a variedade resistente a pragas «Kameji» com a variedade de alto rendimento «Jinriki» e, em 1929, obtiveram com sucesso o epochal «Taichung 65»[^4]. Esta nova variedade reunia características excepcionais: alto rendimento, qualidade superior, resistência à brusone, ampla adaptabilidade e insensibilidade ao fotoperíodo, podendo ser cultivada tanto na primeira quanto na segunda safra em Taiwan[^4]. No mesmo ano, sob condições climáticas favoráveis, Li Pengyi expandiu a área de compra para 1.500 _jia_ (unidade de área), e Dajia, Yuanlin, Beidou e outras regiões colheram fartamente o arroz Penglai, com rendimento três vezes superior ao do arroz nativo[^3]. Esse sucesso não só permitiu a Li Pengyi recuperar as perdas passadas, como, mais importante, conquistou definitivamente a confiança dos agricultores. No ano seguinte, 75% dos arrozais de Taiwan já haviam mudado para o arroz Penglai, e o cultivo de arroz em Taiwan virou a página[^3]. Em 1936, o «Taichung 65», dotado de resistência a doenças e adaptabilidade mais estáveis, já havia substituído em larga escala a «variedade Nakamura», tornando-se a variedade principal do arroz Penglai em Taiwan, inaugurando um novo capítulo na orizicultura taiwanesa[^6].
+Em 1923, Suetsumuhana introduziu o método de transplante de mudas, reduzindo o período de crescimento das mudas de cerca de dois meses para cerca de um mês, alterando o ciclo de desenvolvimento das plantas e resolvendo o problema da floração prematura causada pela luz solar e clima de Taiwan. Com isso, o arroz japonês deixou de ser restrito ao ambiente montanhoso e teve a chance de se adaptar às planícies de Taiwan.
 
-### O profundo impacto do arroz Penglai e as controvérsias inacabadas
+Essa mudança ilustra que a seleção de arroz não se resume apenas a "alterar genes" ou "criar novas variedades". O momento do transplantio, o tamanho das mudas, a altitude do campo, os métodos de isolamento e a capacidade dos agricultores de seguir os procedimentos corretamente podem determinar se uma planta de arroz passa de um experimento a uma cultura agrícola.
 
-O sucesso do arroz Penglai não só resolveu a demanda japonesa por alimentos, como também transformou profundamente a face da agricultura de Taiwan. Aumentou a produção de arroz, melhorou a vida dos agricultores e impulsionou a modernização da tecnologia agrícola taiwanesa. O espírito de melhoramento de Iso Eikichi e Suenaga Jin, aliado à visão comercial de Li Pengyi, escreveram juntos uma página brilhante da história agrícola de Taiwan. Iso Eikichi permaneceu em Taiwan após a guerra a lecionar, continuando a dedicar-se à agricultura taiwanesa até regressar ao Japão em 1957, sendo honrado como «Pai do Arroz Penglai» e «Benfeitor da Agricultura de Taiwan»[^3].
+## O Nome Penglai e a Fragilidade do Arroz Original
 
-Contudo, a difusão do arroz Penglai também trouxe controvérsias. O governo colonial promoveu o aumento da produção de arroz principalmente para atender às necessidades do Japão metropolitano, e não necessariamente considerando os interesses locais de Taiwan. Isso fez com que o desenvolvimento agrícola de Taiwan ficasse, em certa medida, subjugado à política colonial, suscitando discussões sobre problemas estruturais como o «conflito arroz-cana»[^5]. Sob a política colonial de «Japão industrial, Taiwan agrícola», a produção agrícola taiwanesa foi altamente planejada; a área e o volume de plantio de arroz e cana-de-açúcar eram estritamente controlados, limitando a liberdade de escolha dos agricultores. Embora o arroz Penglai tenha trazido benefícios econômicos, também reforçou o papel de Taiwan como «celeiro» do Japão, fazendo com que a estrutura econômica de Taiwan apresentasse uma dualidade de «coexistência de arroz japonica e índica», isto é, o arroz nativo servia principalmente ao consumo dos taiwaneses, enquanto o arroz Penglai era exportado em grande escala para o Japão[^7]. Essa estrutura dual reflete a complexidade e a contradição do desenvolvimento agrícola de Taiwan sob o domínio colonial.
+Em 1926, o arroz japonês produzido em Taiwan foi oficialmente batizado como "Penglai" na 19ª Convenção Nacional do Arroz do Grande Japão. O nome, inspirado no Monte Penglai, simbolizava uma cultura agrícola que, embora adaptada em Taiwan, mantinha suas raízes no arroz japonês.
 
-Pesquisas recentes descobriram ainda que os genes do «Taichung 65» podem ter incorporado genes de arroz de sequeiro de montanha de Taiwan, o que sugere que, no processo de melhoramento, além do esforço humano, a introgresão genética natural também desempenhou um papel inesperado, adicionando mais camadas de interpretação a esta história[^4][^8]. Essa descoberta desafia a visão tradicional de atribuir o melhoramento exclusivamente à operação precisa dos cientistas, revelando o milagre entrelaçado de fatores naturais e humanos.
+Mas o nome não garantia o sucesso. No mesmo ano, o arroz Penglai sofreu uma epidemia de doenças fúngicas, resultando em colheitas ruins. A equipe de pesquisa continuou a trabalhar em direção a maior produtividade, resistência à salinidade, resistência a pragas e resistência a doenças. O arroz que crescia bem no campo original precisava se tornar uma cultura confiável e atraente para os agricultores.
 
-A história do arroz Penglai é uma epopeia sobre ciência, tenacidade, comércio e transformação social. Não é apenas a história de um grão de arroz, mas um microcosmo de como Taiwan, ao longo de um século, em complexos contextos históricos, buscou sobrevivência e desenvolvimento. Hoje, as principais variedades de arroz nas mesas taiwanesas, como Tainung 9, Yuguang, entre outras, quase todas carregam o sangue do «Taichung 65»; este grão não é apenas a base da segurança alimentar de Taiwan, mas também um importante legado da modernização agrícola taiwanesa[^6]. Quando saboreamos o aromático e elástico arroz Penglai, devemos também olhar para trás, para esta história em que cada grão encerra sofrimento, e para aqueles pioneiros que nela derramaram a vida; as suas histórias já se fundiram na terra e na cultura de Taiwan.
+Em 1927, a crise da era Showa fez com que os preços do arroz caíram, reduzindo o incentivo dos agricultores para cultivar Penglai. Nesse momento, o comerciante de arroz Li Pengyi, da cidade de Zhanghua, prometeu comprar o arroz com base na área plantada, independentemente da qualidade da colheita daquele ano. A doença fúngica, secas e tempestades causaram prejuízos, e sua fábrica de moinho ficou parada por quase três anos. Foi apenas em 1929, com uma colheita melhor, que essa promessa comercial realmente conquistou a confiança dos agricultores.
+
+![Campos de arroz e vilas montanhosas em Ruisui, Hualien, Taiwan, mostrando como a agricultura se integra à paisagem local](https://upload.wikimedia.org/wikipedia/commons/9/9b/05_Countryside_of_Taiwan_-_rice_fields_and_mountains_in_Ruisui%2C_Hualien_County%2C_Taiwan.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+
+_Arroz e montanhas em Ruisui, Hualien, fotografado por Marek Slusarczyk (usuário do Wikimedia Commons Tupungato), CC BY 3.0; [página do arquivo](https://commons.wikimedia.org/wiki/File:05_Countryside_of_Taiwan_-_rice_fields_and_mountains_in_Ruisui,\_Hualien_County,\_Taiwan.jpg)/[licença](https://creativecommons.org/licenses/by/3.0/deed.en)。[^11] Imagem com link externo de licença aberta, sem download ou hospedagem adicional._
+
+## Taichung 65: Uma Variedade que se Tornou Estrutura de Seleção
+
+Em 1929, Ishikawa e Suetsumuhana desenvolveram o Taichung 65 por meio de cruzamentos entre as variedades Kueijih and Shennong. Segundo relatos do Instituto Academia Sinica, o Taichung 65 apresentava resistência a doenças fúngicas e características de colheita dupla no ano, além de ser menos sensível à duração da luz solar. Segundo a publicação da Universidade Nacional de Taiwan, ele era o ancestral de cerca de 80% dos novos arrozes japoneses desenvolvidos em Taiwan.
+
+Diferentes fontes citam proporções variando entre 80% e 85%, então não se deve apresentar um único número como uma estatística precisa. A conclusão mais segura é que o Taichung 65 não era apenas uma variedade comemorativa na história do arroz Penglai, mas a estrutura básica para muitas outras seleções de arroz japonês em Taiwan.
+
+Pesquisas genéticas do Instituto Academia Sinica tornaram essa estrutura ainda mais complexa. Além dos genes de Kueijih and Shennong, o Taichung 65 também continha componentes genéticos de arroz montanhês nativo, Muteka e Nakabo. Isso deve ser registrado como uma descoberta científica, e não simplesmente inferido como "o arroz Penglai é arroz indígena". O que ele realmente mostra é que a formação de variedades muitas vezes envolve seleção artificial, fluxo genético natural e interação com o ambiente local.
+
+A insensibilidade ao fotoperíodo do Taichung 65 também tem explicação molecular. A equipe de pesquisa descobriu que o gene Hd1 na sexta cromátide do arroz continha uma sequência adicional, inativando sua função original de regular a floração. Isso permitiu que o arroz não seguisse rigorosamente o ciclo de luz solar japonês, podendo florescer de forma estável tanto no primeiro quanto no segundo ciclo de cultivo em Taiwan.
+
+## Sucesso Técnico, Não Apagando a Economia Colonial
+
+O arroz Penglai melhorou a qualidade, produtividade e valor de mercado do arroz, promovendo a criação de institutos de experimentação, campos de sementes e sistemas de gerenciamento de variedades. A retrospectiva do Ministério da Agricultura divide essa trajetória em etapas: inicialmente, adaptação ao ambiente; após a guerra, estabilização e aumento da produtividade; a partir dos anos 1980, foco em sabor e características; e a partir dos anos 2010, com foco em resiliência climática, seleção assistida por marcadores moleculares e práticas sustentáveis.
+
+A seleção de arroz pós-guerra não é simplesmente uma continuação do período colonial. Segundo registros históricos do Ministério da Agricultura, variedades como Jiuzheng 1, Jiayi 242 e posteriormente Taiwan Nong 67 responderam a novos desafios: resistência a doenças, estabilidade de produtividade, resistência ao arruinamento e adaptação à colheita mecânica. A partir dos anos 1980, variedades como Taikyou 9 refletiram as demandas dos consumidores por sabor e qualidade.
+
+Mas a ciência agrícola colonial não pode ser apenas descrita como "o início da modernização de Taiwan". Estudos mostram que a melhoria de variedades, institutos de experimentação e projetos de irrigação do governo japonês, embora aumentassem a produtividade, também integravam Taiwan na estrutura econômica de fornecimento de arroz e matérias-primas ao Japão, agravando desigualdades na distribuição de recursos e hierarquias sociais.
+
+Outro estudo lembra que as preferências alimentares de Taiwan, da evolução do arroz montanhês nativo, arroz nativo tradicional ao arroz Penglai, não podem ser explicadas apenas pela migração populacional. Políticas coloniais, tecnologias agrícolas e padrões sensoriais de "o que é bom" também são fatores inter-relacionados.
+
+Portanto, o arroz Penglai pode ser ao mesmo tempo um resultado técnico e um legado colonial. Ele permitiu que muitas famílias consumissem arroz mais pegajoso, alinhado aos gostos dominantes da época, e aprofundou a integração da agricultura de Taiwan ao sistema alimentar imperial. Apagar qualquer um desses aspectos não deixa a história, mas apenas uma narrativa unidirecional de progresso.
+
+> 📝 Nota do curador: Um grão de arroz não precisa escolher entre "progresso" e "opressão"; o que importa dizer é quem se beneficiou dele e quem arqueou com o custo.
+
+## Da Alta Produtividade Pós-Guerra à Seleção Precisa Atual
+
+A história do arroz Penglai não termina em 1929. Após a guerra, o aumento da população, projetos de irrigação, uso de fertilizantes químicos e migração de mão de obra rural para fora do campo mudaram gradualmente os objetivos da seleção: resistência a doenças, resistência ao arruinamento, alta produtividade e adaptação à mecanização. Segundo dados do Ministério da Agricultura, o arroz Taiwan Nong 67, desenvolvido em 1978, tornou-se uma variedade importante por sua alta produtividade, resistência ao arruinamento e adaptação à colheita mecânica.
+
+A partir dos anos 1980, Taiwan deixou de perguntar apenas "quanto podemos colher por hectare?" e passou a perguntar "o arroz cozido é bom?". O arroz Taikyou 9, desenvolvido por Xu Zhisheng, tornou-se uma variedade de arroz de alta qualidade no mercado taiwanês. Segundo relatos da revista Taiwan Light, variedades como Taichung 194, Tainan 16 e outras levaram o nome da variedade, sabor e embalagem de marca diretamente ao consumidor.
+
+Essa mudança alterou o idioma usado para descrever "bom arroz". Antes, a pergunta era sobre a quantidade colhida por hectare; agora, a pergunta passou a incluir amido linear, pegajosidade, aroma, adequação para sopa ou arroz frio, e se os consumidores estavam dispostos a pagar mais por uma variedade específica e sua origem. O arroz deixou de ser apenas um alimento básico sem nome e começou a se assemelhar a chá e café, com perfis de sabor reconhecíveis.
+
+A lista de variedades do Instituto de Melhoramento Agrícola de Tainan mostra que essa tendência continua: o arroz Tainan 11, lançado em 2004, enfatizou qualidade e produtividade; o arroz Tainan 16, concluído em 2012 com apoio da Universidade Nacional de Taiwan, usou seleção assistida por marcadores moleculares; o arroz Tainan 19 focou em conservação de água, resistência a doenças e baixo teor de amido branco; e o arroz Tainan 21, lançado em 2024, é destinado à produção de arroz para fermentação alcoólica.
+
+A importância da seleção assistida por marcadores moleculares não é tornar o processo de seleção algo resolvido com um clique. Segundo relatos da revista Taiwan Light, o arroz Tainan 16 foi desenvolvido a partir do cruzamento entre arroz Koshihikari e Taiwan Nong 67, reduzindo o tempo de desenvolvimento para seis anos com auxílio de marcadores. Mas novas variedades ainda precisam retornar ao campo para serem testadas contra clima, solo, pragas, práticas dos agricultores e gostos do mercado. O laboratório acelera a triagem, mas não substitui o julgamento final do campo.
+
+## Zhushu Lake, Cabana de Ishikawa e Memórias de uma Refeição
+
+O arroz original posteriormente desapareceu de Taiwan, mas em 2016, graças às sementes preservadas pelo Instituto de Genética da Universidade Nacional de Taiwan e pelo Instituto Nacional de Genética do Japão, foi readmitido no campo de Zhushu Lake. Relatos da TV pública registraram a retomada da cultura, o campo original e os anciãos locais, além das mudanças na paisagem do local, que passou a se dedicar à produção de flores e turismo agrícola.
+
+A cabana de madeira de Ishikawa no campus da Universidade Nacional de Taiwan preserva outro tipo de memória. Em 2003, Liu Jianfu descobriu manuscritos e instrumentos de Ishikawa dentro da cabana, transformando um espaço quase esquecido em um ponto de entrada para a história da agricultura de Taiwan. Em 2016, a TV pública noticiou a cabana com suas paredes de bambu, telhado de madeira e janelas desgastadas, lembrando que mesmo uma base de pesquisa para uma refeição pode ser rapidamente esquecida pela rotina cotidiana.
+
+O arroz Penglai posteriormente se tornou parte de refeições como almoço individual, tamales, arroz frio e arroz caseiro. Artigos tradicionais sobre alimentação costumam perguntar quanto arroz os taiwaneses comem hoje. A história do arroz Penglai levanta outra pergunta: por que reconhecemos certos tipos de arroz como "arroz normal"? A resposta vai além do sabor, envolvendo institutos de pesquisa, mercados coloniais, riscos assumidos pelos agricultores, compras feitas por comerciantes, políticas pós-guerra e hábitos de gerações.
+
+Hoje, ao ligar o arroz cozido, o aroma parece naturalmente presente na vida cotidiana, mas não é. Ele passou por falhas dos pesquisadores, experimentos repetidos de Suetsumuhana no campo, promessas de compra de Li Pengyi aos agricultores, a busca por resistência e alta produtividade dos criadores após a guerra, e a transformação do arroz japonês em algo com sabor próprio pelos taiwaneses.
+
+**O ponto mais importante sobre o arroz Penglai não é sua pureza genética, mas como ele nos mostra que o sabor de Taiwan pode ser o resultado de tentativas, falhas e ajustes contínuos de pessoas em uma nova terra, finalmente reconhecido por todos.**
 
 ## Referências
 
-[^1]: [粒粒皆辛苦，那些促成蓬萊米上餐桌的田間推手——磯永吉和末永仁](https://pansci.asia/archives/362733) — PanSci 泛科學, artigo de 2023
+[^1]: [Grãos de Suor: Os Heróis por Trás do Arroz Penglai na Mesa — Ishikawa e Suetsumuhana](https://pansci.asia/archives/362733) — Artigo especial da PanSci, organizando a crise do arroz, classificação de variedades, Zhushu Lake, arroz original e o papel promovido por Li Pengyi.
 
-[^2]: [磯永吉與末永仁 走在稻穗婆娑的小徑上──臺灣蓬萊米的故事](http://ntualumnibm.ntu.edu.tw/bm.bimonthly.article/detail/sn/8298) — Chang Wen-liang, Boletim Bimestral de Ex-alunos da NTU, edição 129
+[^2]: [Ishikawa e Suetsumuhana Caminhando entre Espigas de Arroz — A História do Arroz Penglai em Taiwan](http://ntualumnibm.ntu.edu.tw/bm.bimonthly.article/detail/sn/8298) — Artigo especial da revista de ex-alunos da Universidade Nacional de Taiwan, registrando os dois criadores, institutos de pesquisa e o desenvolvimento do Taichung 65.
 
-[^3]: [靦腆的育種家 ─ 蓬萊米之母 末永 仁](http://iso-house.agron.ntu.edu.tw/doc/%E9%9D%A6%E8%85%86%E7%9A%84%E8%82%B2%E7%A8%AE%E5%AE%B6-%E8%93%AC%E8%90%8A%E7%B1%B3%E4%B9%8B%E6%AF%8D-%E6%9C%AB%E6%B0%B8%E4%BB%81-%E8%AC%9D%E5%85%86%E6%A8%9E.pdf) — Hsieh Chao-shu, PDF da Casa Iso Eikichi
+[^3]: [O Arroz Montanhês Nativo Tem Coisa para Contar! Decifrando a Origem do Arroz Penglai em Taiwan, Encontrando Linhas de Migração Austronésia](https://research.sinica.edu.tw/hsing-yue-le-rice-gene-austronesian/) — Artigo especial do Instituto Academia Sinica, explicando a resistência a doenças do Taichung 65, fotoperíodo e pesquisa genética.
 
-[^4]: [面對「內地種」：](https://theme.npm.edu.tw/Academic/BookDownload.ashx?bid=951) — Publicação académica do Museu Nacional do Palácio
+[^4]: [Memórias do Arroz Penglai | O Arroz Japonês Adaptado em Taiwan](https://ourisland.pts.org.tw/content/2580) — Programa especial da TV pública "Nossa Ilha", registrando a retomada do arroz original em Zhushu Lake, campos de sementes e a preservação da cabana de Ishikawa.
 
-[^5]: [蓬萊米命名百年的影響與貢獻](https://www.agriharvest.tw/archives/135666/) — Artigo da Agri Media
+[^5]: [Navegando pela Ilha de Arroz: Cem Anos de Desenvolvimento do Arroz Penglai](https://theme.moa.gov.tw/showcase.php?id=32) — Retrospectiva do Ministério da Agricultura, organizando a alta produtividade pós-guerra, seleção de qualidade, arroz especializado e agricultura resiliente atual.
 
-[^6]: [蓬萊米記憶｜在台灣改良的日本米](https://ourisland.pts.org.tw/content/2580) — Especial da PTS «A Nossa Ilha», 2017-01-02
+[^6]: [The introduction and impact of food crops in Taiwan during the Japanese colonial period](https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2025.1724277/full) — Estudo sobre os resultados de produtividade da melhoria de culturas durante o período colonial, além das desigualdades de recursos e hierarquias sociais.
 
-[^7]: [從數字裡找到不一樣的歷史：「蓬萊米到臺灣──日治臺灣的米作與經濟」講座側記](https://blog.press.ntu.edu.tw/?p=3597) — Registo da palestra do Centro de Publicações da NTU, 2015-08-12
+[^7]: [The Taste of Colonialism? Changing Norms of Rice Production and Consumption in Modern Taiwan](https://link.springer.com/chapter/10.1007/978-3-030-96268-5_4) — Capítulo acadêmico analisando preferências de arroz, políticas coloniais, tecnologias de seleção e padrões sensoriais de "bom arroz".
 
-[^8]: [蓬莱米台中六十五号中文](https://www.taiunsake.co.jp/%E8%93%AC%E8%90%8A%E7%B1%B3%E5%8F%B0%E4%B8%AD%E5%85%AD%E5%8D%81%E4%BA%94%E5%8F%B7%E4%B8%AD%E6%96%87) — Página de apresentação da Japan Taiun Shuzo KK
+[^8]: [「O Pai do Arroz Penglai」 Ishikawa Cabana de Madeira em Risco de Demolição, Comunidade se Mobiliza para Restauração](https://news.pts.org.tw/article/338418) — Noticiário da TV pública sobre os desafios de preservação da cabana de Ishikawa e seu significado como base de pesquisa.
+
+[^9]: [Tracing the Roots of Taiwanese Rice](https://www.taiwan-panorama.com/en/Articles/Details?Guid=cf723995-adf6-4202-8532-1e5714c49fc0&CatId=10&postname=Tracing%20the%20Roots%20of%20Taiwanese%20Rice) — Artigo em inglês da revista Taiwan Light, traçando a origem da cabana de Ishikawa, campos de sementes de Zhushu Lake, arroz original, nomeação do arroz Penglai e do Taichung 65.
+
+[^10]: [Green Rice Fields in Luye, Taiwan - June 2023.jpg](https://commons.wikimedia.org/wiki/File:Green_Rice_Fields_in_Luye,_Taiwan_-_June_2023.jpg) — Página do arquivo no Wikimedia Commons; Jun Jie Yam, CC BY 4.0, usado como link direto na publicação.
+
+[^11]: [05 Countryside of Taiwan - rice fields and mountains in Ruisui, Hualien County, Taiwan.jpg](https://commons.wikimedia.org/wiki/File:05_Countryside_of_Taiwan_-_rice_fields_and_mountains_in_Ruisui,_Hualien_County,_Taiwan.jpg) — Página do arquivo no Wikimedia Commons; Marek Slusarczyk, CC BY 3.0, usado como link direto na publicação.
+
+[^12]: [Arroz Taion 67](https://kmweb.moa.gov.tw/theme_data.php?theme=important_breed&id=31) — Dados de variedades do portal de conhecimento agrícola, registrando os objetivos de seleção do Taion 67, características de colheita mecânica e áreas de plantio ao longo dos anos.
+
+[^13]: [Taste and Terroir: Taiwan’s Rice Gains Refinement](https://www.taiwan-panorama.com/en/Articles/Details?Guid=9f55739f-871f-4cad-bf79-3d4c05e95f92&CatId=10&postname=Taste%20and%20Terroir%3A%20Taiwan%E2%80%99s%20Rice%20Gains%20Refinement) — Artigo especial da revista Taiwan Light, registrando o Taikyou 9, Taichung 194, Tainan 16, parcerias de marca e seleção assistida por marcadores moleculares.
+
+[^14]: [Arroz](https://www.tndais.gov.tw/en/ws.php?id=2886&font_size=big&print=Y) — Linha do tempo de variedades do Instituto de Melhoramento Agrícola de Tainan, listando os anos de desenvolvimento e usos dos arrozes Tainan 11, 16, 19, 20 e 21.
