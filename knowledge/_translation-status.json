@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-24T02:50:10+08:00",
-    "zhCommitHead": "2c44efe9c",
+    "lastUpdated": "2026-09-24T03:07:39+08:00",
+    "zhCommitHead": "28d2b16a9",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1077,
-        "stale": 32,
+        "fresh": 1078,
+        "stale": 31,
         "metadata_stale": 0,
         "missing": 15,
         "orphan": 0
@@ -36,24 +36,24 @@
       },
       "ko": {
         "total_zh": 1124,
-        "fresh": 1075,
-        "stale": 34,
+        "fresh": 1077,
+        "stale": 32,
         "metadata_stale": 0,
         "missing": 15,
         "orphan": 0
       },
       "es": {
         "total_zh": 1124,
-        "fresh": 1065,
-        "stale": 45,
+        "fresh": 1067,
+        "stale": 43,
         "metadata_stale": 0,
         "missing": 14,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1074,
-        "stale": 37,
+        "fresh": 1075,
+        "stale": 36,
         "metadata_stale": 0,
         "missing": 13,
         "orphan": 0
@@ -76,8 +76,8 @@
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1068,
-        "stale": 27,
+        "fresh": 1069,
+        "stale": 26,
         "metadata_stale": 0,
         "missing": 29,
         "orphan": 0
@@ -92,8 +92,8 @@
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 1043,
-        "stale": 23,
+        "fresh": 1044,
+        "stale": 22,
         "metadata_stale": 0,
         "missing": 58,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 978,
+        "fresh": 980,
         "stale": 3,
         "metadata_stale": 0,
-        "missing": 143,
+        "missing": 141,
         "orphan": 0
       }
     },
@@ -8317,7 +8317,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/taiwan-shipbuilding-industry.md",
+          "translatedFrom": "Economy/台灣造船業.md",
+          "sourceCommitSha": "60e991e02",
+          "sourceContentHash": "sha256:72151c012acc7cd3",
+          "sourceBodyHash": "sha256:818b90ddb26bb8d5",
+          "translatedAt": "2026-09-23T22:12:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "bytes": 23525,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -18157,8 +18170,8 @@
           "sourceContentHash": "sha256:4d797183a6dc8cc5",
           "sourceBodyHash": "sha256:8d5699b86714ee17",
           "translatedAt": "2026-09-23T22:11:46+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "28d2b16a",
+          "translationLastModified": "2026-09-24T02:50:11+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "bytes": 20167,
@@ -18589,18 +18602,18 @@
         "es": {
           "path": "es/Economy/taiwan-agriculture-and-rural-revitalization.md",
           "translatedFrom": "Economy/台灣農業與農村再生.md",
-          "sourceCommitSha": "24efd20f3",
-          "sourceContentHash": "sha256:95d473c7b6d24541",
-          "sourceBodyHash": "sha256:a996bea328f05c29",
-          "translatedAt": "2026-05-15T13:52:06+08:00",
+          "sourceCommitSha": "35a9b46c8",
+          "sourceContentHash": "sha256:bea7a776566a0bbd",
+          "sourceBodyHash": "sha256:760025faea8ce9a0",
+          "translatedAt": "2026-09-23T22:11:50+08:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "bytes": 19525,
+          "footnoteDefs": 11,
+          "bytes": 21468,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (11→5)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Economy/taiwan-agriculture-and-rural-revitalization.md",
@@ -21717,20 +21730,18 @@
         "ar": {
           "path": "ar/Economy/mask-national-team.md",
           "translatedFrom": "Economy/口罩國家隊.md",
-          "sourceCommitSha": "4a95859b1",
-          "sourceContentHash": "sha256:0d5afce6607921e8",
-          "sourceBodyHash": "sha256:6f90b2f90f4bd537",
-          "translatedAt": "2026-09-13T05:56:52+08:00",
+          "sourceCommitSha": "7255b3ab1",
+          "sourceContentHash": "sha256:972cf4aaa92341f0",
+          "sourceBodyHash": "sha256:b76f31d5c89bcc16",
+          "translatedAt": "2026-09-23T22:12:02+08:00",
           "translationLastCommit": "7aeee405",
           "translationLastModified": "2026-09-13T10:22:46+08:00",
           "inferred": false,
           "footnoteDefs": 21,
-          "bytes": 41344,
+          "bytes": 37328,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+53 -28"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Economy/mask-national-team.md",
@@ -78930,20 +78941,18 @@
         "ko": {
           "path": "ko/Nature/taiwan-marine-conservation-challenges.md",
           "translatedFrom": "Nature/台灣海洋保育與挑戰.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:0c4a6676abd7e73d",
-          "sourceBodyHash": "sha256:fe639063298f999a",
-          "translatedAt": "2026-05-20T05:08:30+08:00",
+          "sourceCommitSha": "c24076169",
+          "sourceContentHash": "sha256:f5c7b68537fffdbb",
+          "sourceBodyHash": "sha256:8a34ab63ff63d541",
+          "translatedAt": "2026-09-23T22:11:48+08:00",
           "translationLastCommit": "f59e6468",
           "translationLastModified": "2026-05-20T10:49:50+08:00",
           "inferred": false,
-          "footnoteDefs": 8,
-          "bytes": 14658,
+          "footnoteDefs": 7,
+          "bytes": 15549,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+22 -26"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Nature/taiwan-marine-conservation-challenges.md",
@@ -139724,7 +139733,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/koxinga.md",
+          "translatedFrom": "People/鄭成功.md",
+          "sourceCommitSha": "a7cf30769",
+          "sourceContentHash": "sha256:29ee16f25cde68b4",
+          "sourceBodyHash": "sha256:fa9994749dd8a224",
+          "translatedAt": "2026-09-23T22:12:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "bytes": 23182,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -150477,20 +150499,18 @@
         "pt": {
           "path": "pt/Food/portuguese-egg-tart-in-taiwan.md",
           "translatedFrom": "Food/蛋撻.md",
-          "sourceCommitSha": "8a230ddb2",
-          "sourceContentHash": "sha256:97dd164af6e04522",
-          "sourceBodyHash": "sha256:c821b247831a9b89",
-          "translatedAt": "2026-07-30T02:53:09+08:00",
+          "sourceCommitSha": "2187c1c9c",
+          "sourceContentHash": "sha256:e6a3985c0d14509b",
+          "sourceBodyHash": "sha256:2199caf3c188c46a",
+          "translatedAt": "2026-09-23T22:11:58+08:00",
           "translationLastCommit": "6f455ba8",
           "translationLastModified": "2026-07-30T03:55:32+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "bytes": 15728,
+          "bytes": 15710,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+19 -5"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Food/portuguese-egg-tart-in-taiwan.md",
@@ -155674,20 +155694,18 @@
         "en": {
           "path": "en/Food/taiwan-indigenous-foodways.md",
           "translatedFrom": "Food/台灣原住民飲食文化.md",
-          "sourceCommitSha": "a05d2431",
-          "sourceContentHash": "sha256:d67f3581051e39e8",
-          "sourceBodyHash": "sha256:50386f161e8d186f",
-          "translatedAt": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:c2e6d8f7560888c4",
+          "sourceBodyHash": "sha256:11add6012534def8",
+          "translatedAt": "2026-09-23T22:11:44+08:00",
           "translationLastCommit": "d6ea86f0",
           "translationLastModified": "2026-09-22T01:05:30+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 8305,
+          "bytes": 15092,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+9 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Food/taiwan-indigenous-foodways.md",
@@ -164594,38 +164612,34 @@
         "ko": {
           "path": "ko/Food/taiwan-specialty-home-cooking.md",
           "translatedFrom": "Food/台灣手路菜.md",
-          "sourceCommitSha": "b0e441fa",
-          "sourceContentHash": "sha256:976bf813ab549fe2",
-          "sourceBodyHash": "sha256:c76694b44c893f41",
-          "translatedAt": "2026-06-10T16:42:09Z",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:9223547d26dcdf04",
+          "sourceBodyHash": "sha256:68bfe9c03d05ae36",
+          "translatedAt": "2026-09-23T22:11:48+08:00",
           "translationLastCommit": "5f8252f9",
           "translationLastModified": "2026-09-22T01:05:42+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 16220,
+          "bytes": 16397,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+8 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Food/taiwan-specialty-home-cooking.md",
           "translatedFrom": "Food/台灣手路菜.md",
-          "sourceCommitSha": "b0e441fa",
-          "sourceContentHash": "sha256:976bf813ab549fe2",
-          "sourceBodyHash": "sha256:c76694b44c893f41",
-          "translatedAt": "2026-06-10T16:45:00+00:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:9223547d26dcdf04",
+          "sourceBodyHash": "sha256:68bfe9c03d05ae36",
+          "translatedAt": "2026-09-23T22:11:50+08:00",
           "translationLastCommit": "de52e731",
           "translationLastModified": "2026-09-22T01:05:46+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 17861,
+          "bytes": 17332,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+8 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Food/taiwan-specialty-home-cooking.md",
@@ -186846,18 +186860,18 @@
         "fr": {
           "path": "fr/Geography/taiwan-agricultural-landscapes-and-industry-belts.md",
           "translatedFrom": "Geography/台灣農業地景與產業分布.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:5fcedd0ad0dc94f7",
-          "sourceBodyHash": "sha256:92c2111bcaaae7c8",
-          "translatedAt": "2026-05-20T05:08:34+08:00",
+          "sourceCommitSha": "b349895a3",
+          "sourceContentHash": "sha256:88ba75169cfa45ae",
+          "sourceBodyHash": "sha256:9f28d4872bf9c477",
+          "translatedAt": "2026-09-23T22:11:52+08:00",
           "translationLastCommit": "425a1d47",
           "translationLastModified": "2026-07-25T10:30:51+08:00",
           "inferred": false,
-          "footnoteDefs": 6,
-          "bytes": 15706,
+          "footnoteDefs": 11,
+          "bytes": 16078,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (11→6)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Geography/taiwan-agricultural-landscapes-and-industry-belts.md",
@@ -198409,8 +198423,8 @@
           "sourceContentHash": "sha256:ae52d69aff0bb025",
           "sourceBodyHash": "sha256:caa7d610513eb652",
           "translatedAt": "2026-09-23T22:11:46+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "28d2b16a",
+          "translationLastModified": "2026-09-24T02:50:11+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "bytes": 21954,
@@ -216928,18 +216942,18 @@
         "vi": {
           "path": "vi/Culture/taiwan-bar.md",
           "translatedFrom": "Culture/台灣吧.md",
-          "sourceCommitSha": "69b3afd9",
+          "sourceCommitSha": "03b3aaae8",
           "sourceContentHash": "sha256:ea660a4477ab8648",
           "sourceBodyHash": "sha256:ab22f8e268664ba4",
-          "translatedAt": "2026-07-28T08:51:46+08:00",
+          "translatedAt": "2026-09-23T22:11:54+08:00",
           "translationLastCommit": "74349bb6",
           "translationLastModified": "2026-09-24T01:05:06+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "bytes": 16006,
+          "bytes": 16353,
           "armorResidue": 0,
           "status": "fresh",
-          "reason": "same-commit"
+          "reason": "hash-match-sha-lost"
         },
         "id": {
           "path": "id/Culture/taiwan-bar.md",

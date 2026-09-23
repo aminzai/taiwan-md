@@ -1,161 +1,144 @@
 ---
-title: 'Taiwan Indigenous Foodways'
-description: 'From millet to wild greens, the ecological wisdom and living heritage of Indigenous cuisines'
+title: 'Taiwan Indigenous Food Culture'
+description: "From AKAME's Flames to the Amis Wild Vegetable Universe—How Taiwan Indigenous Cuisine Reignited the World's Gaze After Three Thousand Years"
 date: 2026-03-29
+category: 'Food'
 tags:
   [
-    'Indigenous',
-    'food culture',
-    'millet',
-    'wild greens',
-    'traditional cuisine',
-    'tribal food',
+    'Indigenous Peoples',
+    'Food Culture',
+    'Millet',
+    'Wild Vegetables',
+    'Paiwan',
+    'Amis',
+    'Tao',
+    'Tribal Kitchen',
+    'Culinary Revival',
   ]
+subcategory: '族群飲食'
 author: 'Taiwan.md'
 difficulty: 'intermediate'
 readingTime: 12
 featured: false
 lastVerified: 2026-03-29
+lastHumanReview: false
+image: '/article-images/food/amis-music-festival-dancers-2016.webp'
+imageAlt: 'Indigenous dancers at the 2016 Amis Music Festival'
+imageCredit: 'HaeB / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Indigenous_group_dancers_at_Amis_Music_Festival_2016_IMF0936.jpg'
 translatedFrom: 'Food/台灣原住民飲食文化.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:d67f3581051e39e8'
-sourceBodyHash: 'sha256:50386f161e8d186f'
-translatedAt: '2026-04-14T12:25:09+08:00'
-category: Food
-image: '/article-images/food/amis-music-festival-dancers-2016.webp'
-imageCredit: 'HaeB / Wikimedia Commons'
-lastHumanReview: false
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:c2e6d8f7560888c4'
+sourceBodyHash: 'sha256:11add6012534def8'
+translatedAt: '2026-09-23T22:11:44+08:00'
 ---
 
-# Taiwan Indigenous Foodways
+# Taiwan Indigenous Food Culture
 
-## 30‑Second Overview
+In 2023, a tiny restaurant with only twenty-odd seats in Sandimen Township, Pingtung County, landed on the _Asia's 50 Best Restaurants_ list at No. 39. The restaurant is called **AKAME**, meaning "flame" in Paiwan. Chef Peng Tien-en is Paiwan; the menu has no foie gras, no truffles—only mountain _tsiaah_ (wild onion), _magau_ (mountain pepper), false gooseberry leaves, and the _cinavu_ his grandmother learned from her grandmother. Media wrote "Taiwan Indigenous cuisine debuts on the international stage"—in truth, it was the international media's gaze that finally arrived. The foodways of Taiwan's Indigenous peoples have been sedimenting in these island mountains and coasts for three thousand years.
 
-Taiwan’s Indigenous foodways are deeply rooted in land, season, and reciprocity. **Millet (小米)** is the sacred staple, complemented by mountain greens, river and ocean protein, and techniques that honor what nature provides. Across Taiwan’s 16 Indigenous groups, food carries memory—of harvest festivals, ancestral rituals, and community ties.
+## 30-Second Overview
 
-**Keywords**: millet, wild greens, bamboo‑tube rice, _cinavu_ (吉拿福), pigeon‑pea soup (樹豆湯), flying fish (飛魚)
+Taiwan's 16 officially recognized Indigenous peoples each possess a distinct culinary language: the Paiwan's _cinavu_, the Amis' wild vegetable knowledge, the Tao's flying fish culture, the Bunun's millet ceremonies. These foodways are not merely sustenance; they are covenants with the land, dialogues with ancestral spirits, and the deepest epistemology of a people.
 
-## Why It Matters
+Entering the 21st century, after dual suppression under Japanese colonial assimilation policies, a cohort of young chefs and tribal elders is using food as a medium to reknit the severed cultural umbilical cord. AKAME's Chef Peng Tien-en (Paiwan) and Sinasera 24's Chef Yang Po-wei (Amis) are leading figures in this revival movement, and the key drivers bringing Taiwan Indigenous cuisine onto the global gastronomic map.
 
-Indigenous cuisines are not only about taste; they encode Taiwan’s oldest ecological intelligence.
+Keywords: Millet Festival, _cinavu_, Lover's Tears, _magau_, AKAME, Sinasera 24
 
-- **A model of sustainability**: long‑standing practices of restrained harvesting align with modern sustainability values.
-- **Cultural transmission**: every dish is a vessel for language, ritual, and collective memory.
-- **Nutritional balance**: the traditional diet aligns with contemporary nutritional science—high fiber, diverse greens, and low processing.
-- **Foundations of “Taiwan taste”**: many local ingredients and techniques originate in Indigenous traditions.
+---
 
-## Millet: The Grain of Life
+## Naming the Fire: AKAME and the Lost Food Narrative
 
-### Sacred Status and Rituals
+Before opening his restaurant in Sandimen, Peng Tien-en worked in a French restaurant in Taipei. He told media: "I learned a lot of technique in Taipei, but always felt something was missing. Only later did I realize what I'd lost was my own language—the language of food."
 
-Millet is more than a staple. For the Paiwan, it is **djulis**; for the Amis, **hafay**—a gift from the ancestors.
+That "language" concretely resides in several plants. The scent of _tsiaah_ (Paiwan for a wild Allium) is sharp as a blade, a sign by which the Paiwan identify food's boundaries; the layered folds of false gooseberry leaves wrapping _cinavu_ let millet and pork meld slowly in the steam; _magau_ (mountain pepper, _Litsea cubeba_) is the soul spice of the Bunun and Atayal, carrying ginger, lemongrass, and pepper in a single breath—anyone who smells it once never forgets.
 
-- **Sowing rites** in spring ask for a good harvest.
-- **Harvest festivals** celebrate abundance.
-- **Millet wine (小米酒)** is central to ceremonies, linking humans and spirits.
+AKAME's menu changes each season, because the mountain's language changes each season. Peng says his job is "translation": translating tribal elders' memories into today's plates, turning the grammar of the forest into a narrative anyone can understand.
 
-### How Millet Becomes Food
+Sinasera 24 in Changbin, Taitung, walks a similar path. Chef Yang Po-wei centers Amis wild vegetable ingredients, taking staff into the mountains daily to forage, turning whatever plants they find that day into that day's menu. "Sinasera" in Amis means "place where the sun rises." Yang says: "In Han Chinese eyes many wild vegetables are weeds, but Amis people know from childhood they are food, medicine, even gifts. This knowledge was never written into books; it lives in elders' footsteps, in the stooping motion as they push through grass."
 
-- **Millet porridge (abai)**: often combined with greens or meat.
-- **Millet cakes**: steamed, elastic, and used in ritual feasts.
-- **Millet wine**: fermented, typically 15–20% alcohol.
-- **Cinavu (吉拿福)**: millet and pork wrapped in false roselle leaves, bound with silvergrass—one of Taiwan’s most iconic Indigenous dishes.
-- **Millet “zongzi”**: wrapped in _shengyue_ (月桃) leaves rather than bamboo.
+> 📝 **The Naming of AKAME**
+> Paiwan _akame_ means "fire," also implying "origin." Fire is among the Paiwan's most ancient linguistic memories: it cooks food, and connects humans with ancestral spirits. In a traditional Paiwan house, the hearth (_adju_) is the spiritual center and the place where food is shared. Peng Tien-en naming his restaurant "Flame" was not a romantic choice.
 
-## Wild Greens: The Mountain Pantry
+---
 
-Indigenous communities are masters of the edible landscape.
+## Millet: Not Just a Staple, a Cosmology
 
-**Common greens**
+In the Taiwan Indigenous context, millet (foxtail millet, _Setaria italica_) holds a status almost no Han staple can parallel. Rice is eaten; millet is "alive."
 
-- **Bird’s‑nest fern (山蘇)**: crisp, vitamin‑rich.
-- **Diplazium fern (過溝菜蕨)**: known as “mountain spinach.”
-- **Chayote shoots (龍鬚菜)**: fragrant and tender.
-- **Shōwa herb (昭和草)**: lightly bitter, traditionally cooling.
+The Paiwan call millet _djulis_, regarding it as a seed with spirit. Every stage of millet's annual life cycle—sowing, weeding, harvesting, storage—has corresponding rituals and taboos. Harvested millet cannot be touched casually; it may be opened and eaten only after specific rites. The Amis call millet _hafay_. The Bunun developed a complex ceremonial calendar around millet, among which the "Prayer for Millet Harvest Song" (_pasibutbut_) was documented by UNESCO as a representative case of world polyphonic music.
 
-**Root crops and legumes**
+Linguists and archaeologists confirm Taiwan as the homeland of the entire Austronesian language family. Seafarers departing Taiwan dispersed over millennia to Madagascar, Hawai'i, New Zealand, the Philippines, across the Pacific and Indian Oceans. The food cultures of these peoples find their most ancient prototypes in Taiwan.
 
-- **Wild taro (山芋)** and **cassava (樹薯)** provide starch.
-- **Pigeon pea (樹豆)** anchors soups and stews with protein.
+The competition between millet and rice began the moment 17th-century Han immigrants brought rice. Rice yielded more, stored easier, and under official policy promotion gradually replaced millet. Japanese-era (1895–1945) collective farming policies accelerated this process. Postwar land-leveling policies pushed it further. By the 1970s, many tribes had nearly abandoned millet cultivation; the Indigenous millet on the market today is largely the fruit of revival efforts over the past twenty years.
 
-### Knowledge of Preparation
+---
 
-Some plants contain natural toxins; communities developed **boiling, sun‑drying, and fermentation** to neutralize them. Ingredient pairings are also nutritional: protein‑rich pigeon pea with leafy greens, or starch with bitter herbs, creating balance through practice rather than theory.
+## Amis Wild Vegetables: Two Hundred-Plus Species of Ecological Knowledge
 
-## A Tour of Tribal Cuisines
+Taiwan's largest Indigenous people, the Amis (total population approx. 236,939), identify, name, and consume over 200 species of wild vegetables, many with no corresponding name in Han food culture.
 
-### Amis: Guardians of Wild Greens
+This is not "eating indiscriminately"; it is a precise ecological knowledge system. Each wild vegetable has its season, gathering location, processing method, and strictly orally transmitted taboos: which month it cannot be picked, which part must be blanched first to remove oxalic acid, which pairings turn the flavor astringent. This knowledge is not written in books; it lives in elders' memories.
 
-- **“Lover’s Tears” (雨來菇)**: jelly‑like algae tossed cold.
-- **Betel blossom salad (檳榔花)**: aromatic, lightly sweet.
-- **Stone‑boiled soups**: hot stones heat the broth without direct flame.
+> **Partial Amis Wild Vegetable Register**
+> **Lover's Tears** (_Nostoc flagelliforme_): cold-dressed, appears only after rain, texture between fruit jelly and sea urchin
+> **Bird's Nest Fern** (_lonot_): stir-fried, has gathering grades, tender hearts and mature fronds each have uses
+> **Showa Grass** (airplane grass): bitter with sweet undertones, the most familiar daily wild vegetable for tribal women
+> **_Faro_** (a fern): smooth tender texture, called "mountain spinach"
+> **Wild Ginger Flower Root**: distinctive fragrance, commonly used for seasoning
 
-### Paiwan: Refined Ritual Cuisine
+"Lover's Tears" illustrates how Indigenous peoples view food scarcity. This black transparent cyanobacterium appears only after rain; the gathering window lasts mere hours; dried, its volume shrinks twentyfold. The Amis did not sacralize it, nor call it precious—they simply gave it a name that recalls rainy days, then ate it well.
 
-- **Vuvu recipes**: elder family traditions with deep seasoning.
-- **Millet wine**: prized for careful fermentation.
-- **Grilled mountain boar**: a ceremonial highlight.
+---
 
-### Atayal: High‑Mountain Flavor
+## _Cinavu_, Stone Slab Barbecue, Flying Fish: Three Archetypes
 
-- **Magao (馬告)**, or Taiwanese mountain pepper: citrusy, pine‑like aroma.
-- **Bamboo‑tube rice**: the hunter’s portable meal.
-- **Cured meats**: preserved using cool, high‑altitude air.
+Taiwan Indigenous cooking techniques are few, but each is precise. Precision means: the correspondence among ingredient, tool, and season is the result of centuries of trial and error, not chance. These three examples come from different terrains and peoples, but share a commonality: the act of cooking is not just making a meal, but a complete performance of a knowledge system.
 
-### Tao (Yami): Ocean‑Centered Foodways
+_Cinavu_ is the festive food the Paiwan and Rukai make for weddings and ceremonies. Marinated pork and millet are wrapped in false gooseberry leaves, then bound again with shell ginger leaves, and steamed in bamboo steamers. The moment it opens, three layers of plant fragrance surge like waves. Making _cinavu_ requires whole-family collaboration; the leaf-wrapping technique must be learned from elders, and folding methods differ subtly by family. Cultural researchers record that being able to wrap _cinavu_ signifies having learned the family's food transmission, a cultural indicator of readiness to assume adult responsibility.
 
-- **Flying fish (飛魚)**: seasonal rituals and preservation.
-- **Taro cakes**: soft and sustaining.
-- **Seaweed soups**: leveraging ocean abundance.
+Stone slab barbecue is a direct product of Paiwan and Rukai mountain life. The Central Mountain Range's gneiss heats evenly and does not fracture—a natural griddle. Hunted wild boar and sambar deer are slow-roasted on the stone, seasoned with _tsiaah_ and _magau_, needing no other condiments. The relationship among food, geology, and spice is the result of generations of dialogue between local people and this mountain range.
 
-## Traditional Cooking Methods and Tools
+The Tao's flying fish constitutes another complete marine philosophy. Every year March to June is flying fish season on Lanyu (Orchid Island); only after the Fish-Calling Festival (_Mavanuo_) may boats put to sea, and overharvesting is forbidden. The Tao developed a full suite of drying and curing methods for flying fish, and have gender- and age-based consumption rules for different sizes of fish: men's portions, women's portions, elders' portions, children's portions—flying fish allocated according to social order. Ecologists analyze that these rules embody rigorous resource-management logic, maintaining ecological balance on a resource-limited island. The Tao do not describe their practice with the word "sustainability"; they simply do as their ancestors said.
 
-- **Steaming and boiling** in bamboo tubes, clay pots, or metal pots to retain nutrients.
-- **Roasting** over wood or stone slabs for even heat and smoky aroma.
-- **Smoking** to preserve food and add depth.
-- **Fermentation** for wine and pickled greens.
+---
 
-Tools include **clay pots**, **bamboo tubes** (naturally antimicrobial), and **stone plates** for grilling.
+## Two Roads to Revival: Tribal Kitchens and Fine Dining
 
-## Food as Social Structure
+Since 2014, the Council of Indigenous Peoples has promoted the Tribal Industry Upgrade Program; by 2022 cumulative investment exceeded NT$4 billion, estimated to have generated nearly NT$20 billion in output value, involving nearly 5,000 employment person-times. These are administrative numbers; behind them lies a harder-to-quantify cultural event: a food memory interrupted for decades is attempting to rewire itself.
 
-Ritual meals appear in harvest festivals, coming‑of‑age rites, and weddings. Sharing food is not optional—it’s social glue. Elders eat first, reflecting respect and hierarchy. Labor is traditionally divided: men hunt, women gather and cook, but meals reunite the community.
+This reconstruction runs on two parallel tracks. The first leads from elders' kitchens. The Wild Vegetable School in Guangfu, Hualien, lets Amis women hold regular classes on tribal open ground—teaching not cultivation, but recognition. Which slope yields which fern, which season yields which tender shoot; knowledge transfers between elders' mouths and young people's notebooks. Taitung's Tribal Kitchen Program gives elders' recipes an institution to record them, a classroom to teach them. These spaces are sometimes formal projects, sometimes simply an elder deciding to teach traditional cooking every week.
 
-## Modern Revival and Innovation
+The second track begins in fine dining. The fine-dining path represented by AKAME (Peng Tien-en) and Sinasera 24 (Yang Po-wei) has sparked divergent voices within tribes: some feel it detaches food from its original communal context; others feel it is the most effective way to make young Indigenous people take pride in their foodways again. This debate has no standard answer, but both tracks are doing the same thing: preserving food knowledge on the verge of disappearance.
 
-### Tribal Restaurants and Returning Youth
+> 📝 **Wild Vegetables Are Not a Mark of Poverty**
+> Taiwan society long linked wild vegetable diets with material deprivation, assuming Indigenous peoples ate wild vegetables because they had no better options. This perception inverts cause and effect. Amis wild vegetable knowledge is thousands of years of actively accumulated ecological wisdom: which season, which elevation, which soil conditions yield the best texture; which parts are edible, which are toxic; how to pair them to supplement protein and minerals. This is a knowledge system more complex than any wet market, simply stored in bodies and language rather than databases.
 
-Across Taiwan, Indigenous youth are returning home to open restaurants that honor tradition while adapting presentation. The result is a new culinary wave: classic flavors, modern plating, and cultural storytelling as part of the dining experience.
+---
 
-### Seed Conservation and Agricultural Renewal
+## Conclusion: A Question of Speed
 
-Programs now revive heritage millet varieties and protect wild plant seeds. Organic certification and branding elevate Indigenous products, turning local stewardship into sustainable livelihoods.
+Peng Tien-en has said the hardest part of AKAME isn't technique, but persuading tribal elders to speak what's in their heads. Those elders don't feel they possess knowledge worth recording—it's just "how we eat."
 
-### Education and Cultural Tourism
+This is the truest predicament of Taiwan Indigenous food: the most masterful recipes were never written down; they live in people's bodies, in seasonal perception, in decades of familiarity with these mountains and forests. One day that person passes, and the recipe goes with them.
 
-From school programs to hands‑on cooking workshops, food has become a gateway to understanding Indigenous identity—grounded in respect rather than spectacle.
+AKAME's 2023 entry into _Asia's 50 Best Restaurants_ at No. 39 is a signal that those recipes are worth retrieving. Media love to frame this with "international recognition," but the core question isn't international: with every tribal elder still here, how much food knowledge does each elder take away? That number is the real countdown. The remaining question is speed.
 
-## Health and Nutritional Value
+## Image Source
 
-Traditional diets are **high in fiber, low in processing**, and rich in minerals. Wild greens provide antioxidants; millet has a lower glycemic index than polished rice; soil diversity in mountain regions yields nutrient‑dense crops. Modern nutrition science increasingly confirms what Indigenous communities have long known: balance is built into the ecosystem.
-
-## Challenges and the Future
-
-Younger generations leave for cities, wild resources shrink with environmental change, and commercial food culture pulls attention away from tradition. Preservation requires documentation, mentorship, and social recognition—so that knowledge lives not only in books but in kitchens.
-
-Taiwan’s Indigenous foodways are a living archive of gratitude to land and ancestors. From a single grain of millet to a full tribal feast, these cuisines remind us that nourishment is cultural, ecological, and communal at once.
+- Hero: Indigenous dancers at the 2016 Amis Music Festival, photo by HaeB, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Indigenous_group_dancers_at_Amis_Music_Festival_2016_IMF0936.jpg), CC BY-SA 4.0.
 
 ## References
 
-1. [農傳媒（2021）《流傳著家族的記憶 排灣族vuvu小米私房料理》](https://www.agriharvest.tw/archives/60175)
-2. [國立臺灣圖書館《臺灣記憶》- 原住民的日常生活](https://tme.ncl.edu.tw/tw/%E8%87%BA%E7%81%A3%E8%80%81%E7%85%A7%E7%89%87%E5%9C%96%E9%9B%86/%E4%B8%96%E7%B4%80%E5%AE%B9%E9%A1%8F-%E4%B8%8B/%E5%8E%9F%E4%BD%8F%E6%B0%91%E7%9A%84%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB)
-3. [天下雜誌（2021）《在地老野味！原民特色料理與文化傳承的滋味》](https://smiletaiwan.cw.com.tw/article/6813)
-4. [行政院原住民族委員會《原住民族傳統飲食文化》官方資料](https://www.cip.gov.tw/)
-5. [中央研究院民族學研究所](https://www.ioe.sinica.edu.tw/)
-6. 農業部《台灣原住民族農業發展與小米產業復振計畫》
-7. [文化部《原住民族文化資產保存維護計畫》](https://www.tacp.gov.tw/)
-8. [原住民族委員會（2022）《原住民族傳統生態知識調查研究》](https://www.cip.gov.tw/)
-9. 台灣師範大學地理系《原住民族傳統領域土地與自然資源共同管理辦法》研究
-10. 東華大學原住民民族學院《原住民族飲食文化研究期刊》2021-2026年度彙編
+1. [Asia's 50 Best Restaurants Official List](https://www.theworlds50best.com/asia/en/)
+2. [AgriHarvest (2021) "Family Memories Passed Down: Paiwan _Vuvu_ Private Millet Recipes"](https://www.agriharvest.tw/archives/60175)
+3. [Council of Indigenous Peoples, Executive Yuan: 16 Peoples Overview](https://www.cip.gov.tw/zh-tw/tribe/grid-list/)
+4. [Indigenous Traditional Knowledge Protection Digital Archive Project (National Museum of Natural Science)](https://ethnobotany.biodiv.tw/)
+5. [Indigenous Languages Development Act (2017)](https://www.rootlaw.com.tw/LawArticle.aspx?LawID=A040390071017400-1060612)
+6. [Taiwan Review: Indigenous Cuisine Revival](https://taiwanreview.nat.gov.tw/)
+7. [UNESCO Bunun _Pasibutbut_ Polyphonic Music Record](https://ich.unesco.org/)
+
+---
+
+_Further Reading: [Taiwan Indigenous Peoples' History and Rectification Movement](/en/history/indigenous-peoples-history-and-naming-movement/) · [Taiwan Indigenous Land Justice and Traditional Territories](/en/society/indigenous-land-justice-and-traditional-territories/) · [Cultural Map of Taiwan's 16 Indigenous Peoples](/en/culture/indigenous-peoples-16-tribes-cultural-map/) · [Taiwan Indigenous Language Revitalization Movement](/en/culture/indigenous-language-revitalization-movement/) · [Taiwan Indigenous Ecological Wisdom and Environmental Conservation](/en/nature/taiwanese-indigenous-ecological-wisdom-conservation/) · [Contemporary Indigenous Art of Taiwan](/en/art/contemporary-indigenous-art-taiwan/)_
