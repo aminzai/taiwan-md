@@ -25,10 +25,10 @@ lastHumanReview: true
 summary: '台灣網路創作者、新聞主播、節目主持人。1994年5月8日生於南投縣水里鄉，畢業於南投縣立水里國民中學、國立大里高級中學、國立彰化師範大學國文系。自小夢想當主播。2015年與動眼神經等人創立《眼球中央電視台》，模仿央視官話嘲諷中華民國法統荒謬走紅。2018年3月5日至12月31日任華視午間新聞主播（23歲最年輕紀錄）。2023年5月31日在121萬訂閱、累計超過3億點閱巔峰停更。後主持公視《哈囉！你給問嗎？》（第59屆金鐘生活風格主持人入圍）、小公視《成仁高中偵探社》S1（2024-2025）與S2（2025年起，金鐘60少年節目入圍）。2026年3月點外送寫35行「不要香菜」備註爆紅；4月起帶愛犬柚子旅居東京一年。'
 coverImage: ''
 translatedFrom: 'People/陳子見.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:b4ed377dcae75954'
-sourceBodyHash: 'sha256:5225e3163bb10fe2'
-translatedAt: '2026-09-11T07:09:36+08:00'
+sourceCommitSha: '7255b3ab1'
+sourceContentHash: 'sha256:eb27407b6e235169'
+sourceBodyHash: 'sha256:0faeef3fdda7a842'
+translatedAt: '2026-09-23T02:45:20.895383+00:00'
 ---
 
 ## 30 Sekunden Überblick
@@ -67,23 +67,21 @@ Chen Zixian und Produzent Dong Shenjing gaben in Abschiedsvideos und nachfolgend
 
 Darüber hinaus wurde er während des #MeToo-Bewegung in Taiwan 2023 von einer Mitarbeiterin sexuell belästigt: Sie drückte ihn nicht nur häufig (einschließlich eines „Kniebeuge-Umarmens“ beim Firmenausflug im Jahr 2021), sondern verbreitete auch Gerüchte über ihre Beziehung, prahlte mit ihrer Arbeitsleistung und erfundene intime Szenen (Oberschenkelberührungen, Eifersucht, Blicke, sexuelle Andeutungen, ältere Verwandte). Er konnte dem nicht mehr standhalten. Nach der Einstellung enthüllte er dies selbst, um sich zu schützen. Er gab auch an, zweimal Angebote von chinesischen Investoren erhalten zu haben (darunter ein Kaufangebot für 750.000 Yuan für die Fan-Gruppe, wobei sie den Inhalt auf Douyin übertragen wollten), aber er lehnte diese ab, da „keine kommerzielle Zusammenarbeit diesen Preis wert war“ und er keine Verkaufsabsicht hatte. Die Beendigung des Kanals war ein notwendiger Preis, um sein physisches Selbst zurückzugewinnen und die Lebenswärme neu zu spüren.[^6]
 
-## Transformation nach der Einstellung und Privatleben
+## Nach der Übernahme: Karriere und Privatleben
 
-Nach der Schließung wechselte Chen Zixian schnell in traditionelle Fernsehsendungen und das Bereich kurzer Videos. Ab Oktober 2023 moderierte er gemeinsam mit Li Peiyu (Dapei) bei Gongshi „Hallo! Hast du eine Frage?“ und wurde für den Golden Bell Award für Lifestyle-Hosts in der 59. Ausgabe nominiert. Von August 2024 bis Januar 2025 moderierte er die erste immersive Realitätsrätselshow von Gongshi, „Detective Club of Chengren High School“, und ab November 2025 führte er S2 fort (upgegraded zu einem Eliminierungssystem namens „Detektiv-Überlebenskampf“, das Elemente aus Escape Rooms und Krimispielen integriert und Themen wie Machtmissbrauch, Drogen und ältere/jüngere Beziehungen behandelt; mit Stars wie Zhu Youcheng, Hu Shenming und Li Yilong als Teil des Line-ups moderierte er in der Rolle „Senior Student“). Am 17. Oktober 2025 nahm er mit seinem Team am roten Teppich des 60. Golden Bell Awards teil, wobei „Detective Club of Chengren High School“ für den Jugendprogrammpreis nominiert war.[^8]
+Nach der Übernahme wechselte Chen Zixian schnell in den traditionellen Fernseh- und Kurzvideo-Bereich. Ab Oktober 2023 co-moderierte er mit Li Pei-yu (Big Pei) die Sendung „Hello! Hast du eine Frage?“ des Taiwan Public Radio, womit er für den 59. Goldglöckchen-Preis in der Kategorie „Beste Moderatorin im Lifestyle-Bereich“ nominiert wurde. Von August 2024 bis Januar 2025 moderierte er das erste immersive Rätsel-Reality-Programm der kleinen öffentlichen TV-Station, „Detektivgesellschaft der Cheng Jen High School“, und setzte im November 2025 mit der zweiten Staffel fort („Survival-Rätsel“, mit Ausnahme-Format, in jedem Episoden werden Escape-Room- und Script-Kill-Elemente eingebaut, um Themen wie Machtmissbrauch, Drogen und Schüler-Herrschaft zu erkunden; mit Gästen wie Zhu You-cheng, Hu Sheng-ming, Li Yi-long; Chen trat in der Rolle des „Schülers“ auf), und am 17. Oktober 2025 führte er sein Team zum 60. Goldglöckchen-Preis auf dem roten Teppich, wobei „Detektivgesellschaft der Cheng Jen High School“ für den Preis in der Kategorie „Jugendliche Sendung“ nominiert wurde.[^8]
 
-Ab dem 12. Juli 2024 veröffentlichte er auf Instagram „News-Szene“, in der er aktuelle Ereignisse im Stil japanischer Nachrichtensubtitel bearbeitete, oft kombiniert mit Werbung; am 29. September 2025 veröffentlichte er das vertikale Kurzvideo „Retina News“. Gleichzeitig betrieb er seinen persönlichen YouTube-Kanal „Retina & Yuzus Alltag“, in dem er den Alltag seines Hundes Yuzu (weiblicher Shiba Inu, ehemaliges Ehrenvorsitzende der Happy Unaffiliated Party) und seine extreme Korianderabneigung teilte. Im März 2026 schrieb er in der Kommentarspalte eines Lieferdienstes bei „Darmnudeln“ 35 Zeilen: „Kein Koriander“, was erfolgreich die Antwort des Chefs „Untersucht“ hervorrief und sein kulturelles Symbol fortsetzte. Ab April 2026 lebte er ein Jahr lang mit Yuzu in Tokio und teilte Alltägliches wie den Tokyo Tower und Spaziergänge unter Kirschblüten, wobei er emotional sagte: „Endlich ist ein Traum wahr geworden.“[^7]
+Ab dem 12. Juli 2024 startete er auf Instagram die Serie „News Scene“, in japanischer Nachrichten-Subtitle-Ästhetik geschnittene aktuelle Ereignisse, oft mit Produktplatzierung; am 29. September 2025 veröffentlichte er zusätzlich das vertikale Kurzvideo „Retina News“. Gleichzeitig betreibt er seinen eigenen YouTube-Kanal „Netzhaut & Yuzu im Alltag“, der sich auf das tägliche Leben seines Hundes Yuzu (weiblicher Shiba-Inu, ehemals Ehrenvorsitzende der „Party ohne Freude“) und seine extreme Brechergewürz-Allergie konzentriert. Im März 2026 bestellte er über eine Liefer-App und schrieb in den Anmerkungen 35 Zeilen „keine Petersilie“, wodurch er erfolgreich den Ladenbesitzer dazu brachte, „wird untersucht“ zu kommentieren, und setzte diesen Kulturreference fort. Ab April 2026 zog er mit Yuzu für ein Jahr nach Tokio, wo er das Tokio Fernsehturm-Gebäude und Kirschblütenspaziergänge teilte, und sagte emotional: „Endlich ein Traum in Erfüllung gegangen“.[^7]
 
-Im November 2024 erklärte er bei einem generationsübergreifenden Forum, dass er momentan müde von Inhalten sei („Ich will es nicht tun, es sei denn, ich habe eine lustige Idee“), und die Wahrscheinlichkeit einer kurzen Wiederaufnahme sei gering; sein Schwerpunkt lag auf Fernsehen und Kurzvideos. Er sagte auch scherzhaft, er wolle mit Tang Qiyang zusammenarbeiten.[^8]
+Im November 2024 äußerte er bei einer übergenerationellen Forumsveranstaltung, dass er derzeit müde von aktuellen Ereignissen sei: „Es sei den, es gibt eine lustige Idee, sonst will ich nichts machen“, und die Wahrscheinlichkeit einer schnellen Rückkehr zu regelmäßigen Updates sei gering; seine Arbeitsenergie liegt nun auf dem Fernsehen und den persönlichen Kurzvideos. Er sagte auch mit einem Scherz, dass er gerne mit Tang Chi-yang zusammenarbeiten würde.[^8]
 
 ---
 
 **Weiterführende Lektüre**
 
-- [Bao Jiong](八炯.md) – Vom YouTuber aus Taiwan zu einer Enthüllung der chinesischen Volksreaktions-Influencer; ein anderer Weg, Widerstand in die persönliche Marke einzuschreiben.
-- [A Di](阿滴.md) – Das internationale Sprechversuch eines bilingualen Millionen-YouTubers und seine Spiegelung von „englischer Außenpropaganda vs. chinesische Satire“.
-- [Zhang Zhiqi](張志祺.md) – Der Moderator von Zhiqi Qiqi; eine andere Methode, Themen in Shows zu verwandeln, wie es gleichaltrige digitale Content Creator tun.
-
----
+- [Bajiao](/de/people/pa-chiung-political-youtuber) — Vom taiwanesischen YouTuber zur Enthüllung der kommunistischen Einflusskette: Ein weiterer Weg, Widerstand in die persönliche Marke einzubauen
+- [Adi](/de/people/ray-du-english-youtuber) — Experiment mit internationalen Stimmen als zweisprachiger Millionen-YouTuber: Spiegelbild zu „Englisch-Außenpolitik vs. Chinesische Satire“
+- [Zhang Zhiqi](/de/people/shasha77-chang-chih-chi) — Moderator der „Zhiqi Si Si“: Wie junge digitale Inhaltschöpfer Themen in Formate umwandeln
 
 ## Referenzen
 
