@@ -41,6 +41,26 @@ def test_pure_prose_footnote_accepted(tmp_path):
     assert violations == []
 
 
+def test_back_reference_first_prose_footnote_accepted(tmp_path):
+    """ja/ko 的「同前註」語序是參照在前（`[^14]に同じ`／`[^8]과 같음`），
+    以 `[^` 開頭是腳註參照不是 markdown 連結，應與中文「同 [^14]」同等放行。"""
+    body = (
+        "段落[^14][^15]\n\n[^14]: [報導者](https://example.com) — 2019 年訪談報導\n\n"
+        "[^15]: [^14]に同じ：NME 2019 年の報道を引用した部分。\n"
+    )
+    target = load_target(_write(tmp_path, body))
+    violations = list(footnote_format.check(target, {}))
+    assert violations == []
+
+
+def test_link_without_description_still_flagged(tmp_path):
+    """放行 `[^` 開頭不能順便放過「[Title](URL) 缺描述」的連結型腳註。"""
+    body = "段落[^1]\n\n[^1]: [Source Title](https://example.com)\n"
+    target = load_target(_write(tmp_path, body))
+    violations = list(footnote_format.check(target, {}))
+    assert len(violations) == 1
+
+
 def test_too_short_prose_footnote_flagged(tmp_path):
     """Pure-prose footnote shorter than 10 chars is still flagged (likely a stub)."""
     body = "段落[^1]\n\n[^1]: 太短\n"
