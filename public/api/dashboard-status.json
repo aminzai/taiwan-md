@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-23T22:04:55.689Z",
+  "generated_at": "2026-09-23T22:10:23.269Z",
   "routines": {
     "fetched_at": "2026-09-24T06:03:14+08:00",
-    "stale_hours": 0,
+    "stale_hours": 0.1,
     "items": [
       {
         "id": "twmd-feedback-triage",
@@ -141,8 +141,8 @@
         "cron": "0 6 * * *",
         "cadence_human": "每天 06:00",
         "enabled": true,
-        "status": "degraded",
-        "last_fire": "2026-09-23T06:15:13+08:00",
+        "status": "operational",
+        "last_fire": "2026-09-24T06:03:14+08:00",
         "grid14": [
           {
             "date": "2026-09-11",
@@ -198,7 +198,7 @@
           },
           {
             "date": "2026-09-24",
-            "state": "missed"
+            "state": "fired"
           }
         ]
       },
@@ -1312,8 +1312,18 @@
   ],
   "deploys": [
     {
-      "ts": "2026-09-23T22:01:48Z",
+      "ts": "2026-09-23T22:08:58Z",
       "conclusion": "in_progress",
+      "title": "Deploy to GitHub Pages: 🧬 [routine] refresh: 每日資料刷新，14 步完成；routine 面板這次拿到當天的排程快照"
+    },
+    {
+      "ts": "2026-09-23T22:08:58Z",
+      "conclusion": "in_progress",
+      "title": "Engineering contracts: 🧬 [routine] refresh: 每日資料刷新，14 步完成；routine 面板這次拿到當天的排程快照"
+    },
+    {
+      "ts": "2026-09-23T22:01:48Z",
+      "conclusion": "cancelled",
       "title": "Deploy to GitHub Pages: 🧬 [routine] memory: twmd-embeddings-nightly @ 2026-09-24 05:00 — 13 語…"
     },
     {
@@ -1325,16 +1335,6 @@
       "ts": "2026-09-23T22:00:31Z",
       "conclusion": "success",
       "title": "Engineering contracts: 🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-09-24 05:59"
-    },
-    {
-      "ts": "2026-09-23T21:41:30Z",
-      "conclusion": "success",
-      "title": "Translation PR Check: translate(ar): 台灣造船業 → taiwan-shipbuilding-industry"
-    },
-    {
-      "ts": "2026-09-23T21:41:30Z",
-      "conclusion": "success",
-      "title": "PR Content Review: translate(ar): 台灣造船業 → taiwan-shipbuilding-industry"
     }
   ]
 }

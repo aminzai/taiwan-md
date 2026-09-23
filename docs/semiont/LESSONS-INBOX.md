@@ -1101,7 +1101,10 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **不要直接把產生器改成單引號**：那會拆掉 `fm()` 的跳脫保證（讀者名含 `'` 時 YAML 會壞，且 display_name 是不可信輸入）。可行方向是把 `docs/feedback/archive/` 放進 `.prettierignore`，或讓產生器輸出與 prettier 正規化結果一致的形式後補上單引號跳脫。**需要動到不可信輸入的跳脫語意，不適合 cron 無人時段自行拍板。**
 - **可能層級**：通用——任何「產生器寫檔 + formatter 在 pre-commit 改寫 + 同 session 多次 commit」的組合都會長出來，不限 feedback 這條線。
 - **相關**：REFLEXES #52（免疫層沒在 fail loud 比缺免疫層更危險——這裡是反面：閘門在 fail loud，但叫的是假的）、REFLEXES #38（混維度：`SCOPE MISMATCH` 一個紅燈同時代表「跨 session 污染」與「自家 formatter churn」兩種根因）、2026-08-09 twmd-weekly-report-sun「每天被人工推翻的假警報是注意力層的靜默債」
-- **verification_count**: 1
+- **instances**：
+  - 2026-09-24 twmd-embeddings-nightly＋twmd-data-refresh-am 同一個早上兩班。refresh 用 `git commit -- <37 paths>` 收官（09-23 為了不被 babel 掃走存證而改的做法），commit 後其中 14 檔呈 `MM`：HEAD 與工作樹都是 prettier 版，索引留著格式化前的 README 表格與 JSON；embeddings 的 memory 檔從它 05:59 收官起就是同一個狀態。兩班都用 `git diff --quiet HEAD -- <paths>` 驗工作樹等於 HEAD 後 `git reset -q -- <paths>` 清掉。**新的風險面**：這台機器上 babel dispatcher 一直在 commit，若它的收件流程是「add 自己的檔＋commit 整個索引」，這些舊 blob 會被它帶進自己的 commit，等於把剛格式化好的 README 還原回去，且記在翻譯批次的名下 → memory/2026-09-24-060314-twmd-data-refresh-am.md
+- **修補候選（補）**：pathspec 收官的 routine 在 commit 之後固定跑一次「工作樹等於 HEAD 的路徑就 reset 索引」，可以寫成 `scripts/tools/` 的小工具，也可以直接進 refresh／embeddings 兩條 routine prompt 的收官步驟。
+- **verification_count**: 3
 - **severity**: moderate（不損資料，但持續消耗一道 structural 閘門的可信度；隊列空了九天才首次浮現，往後每個有件的 cycle 都會複現）
 
 ### 2026-08-07 twmd-feedback-triage — out-of-band-status-transition-bypasses-sovereignty-layer：主權層的寫入掛在自動路徑上，人類手動收束那批就整批沒進 git，8 週無人發現
