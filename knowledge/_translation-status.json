@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-24T01:13:10+08:00",
-    "zhCommitHead": "00496cbc3",
+    "lastUpdated": "2026-09-24T01:16:16+08:00",
+    "zhCommitHead": "d9130238a",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,8 +28,8 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 998,
-        "stale": 64,
+        "fresh": 999,
+        "stale": 63,
         "metadata_stale": 0,
         "missing": 62,
         "orphan": 0
@@ -44,8 +44,8 @@
       },
       "es": {
         "total_zh": 1124,
-        "fresh": 1060,
-        "stale": 50,
+        "fresh": 1061,
+        "stale": 49,
         "metadata_stale": 0,
         "missing": 14,
         "orphan": 0
@@ -68,18 +68,18 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 1018,
+        "fresh": 1019,
         "stale": 36,
         "metadata_stale": 0,
-        "missing": 70,
+        "missing": 69,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1064,
+        "fresh": 1065,
         "stale": 29,
         "metadata_stale": 0,
-        "missing": 31,
+        "missing": 30,
         "orphan": 0
       },
       "hi": {
@@ -100,8 +100,8 @@
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1051,
-        "stale": 26,
+        "fresh": 1052,
+        "stale": 25,
         "metadata_stale": 1,
         "missing": 46,
         "orphan": 0
@@ -12288,8 +12288,8 @@
           "sourceContentHash": "sha256:ab3b9104eaaaac16",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-23T15:25:12.162375+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0221c2f0",
+          "translationLastModified": "2026-09-24T01:13:10+08:00",
           "inferred": false,
           "footnoteDefs": 39,
           "bytes": 45396,
@@ -17913,8 +17913,8 @@
           "sourceContentHash": "sha256:7724220e60173fa7",
           "sourceBodyHash": "sha256:e213a0f35315b401",
           "translatedAt": "2026-09-23T16:09:30.301076+00:00",
-          "translationLastCommit": "3c89cc21",
-          "translationLastModified": "2026-09-22T18:38:26+08:00",
+          "translationLastCommit": "0221c2f0",
+          "translationLastModified": "2026-09-24T01:13:10+08:00",
           "inferred": false,
           "footnoteDefs": 30,
           "bytes": 45858,
@@ -67930,8 +67930,8 @@
           "sourceContentHash": "sha256:a399eae223d36d4d",
           "sourceBodyHash": "sha256:71fc72f8b7a7bc3d",
           "translatedAt": "2026-09-23T22:12:06+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0221c2f0",
+          "translationLastModified": "2026-09-24T01:13:10+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "bytes": 42249,
@@ -70801,7 +70801,20 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Society/shuidaotou-waterworks.md",
+          "translatedFrom": "Society/水道頭.md",
+          "sourceCommitSha": "015d1a9c9",
+          "sourceContentHash": "sha256:d584a485050631e9",
+          "sourceBodyHash": "sha256:5fb85b385727325b",
+          "translatedAt": "2026-09-23T22:11:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "bytes": 25165,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -78073,14 +78086,14 @@
           "sourceContentHash": "sha256:f80a6926eb8b07e4",
           "sourceBodyHash": "sha256:9644f2433efde351",
           "translatedAt": "2026-09-23T16:59:20Z",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d9130238",
+          "translationLastModified": "2026-09-24T01:14:46+08:00",
           "inferred": false,
-          "footnoteDefs": 60,
-          "bytes": 103733,
+          "footnoteDefs": 85,
+          "bytes": 116217,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (85→60)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/About/algorithmic-art-bigger-than-nations.md",
@@ -78124,11 +78137,11 @@
           "translationLastCommit": "",
           "translationLastModified": "",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 63289,
+          "footnoteDefs": 30,
+          "bytes": 87522,
           "armorResidue": 0,
           "status": "stale",
-          "reason": "footnote-loss (85→0)"
+          "reason": "footnote-loss (85→30)"
         },
         "vi": {
           "path": "vi/About/algorithmic-art-bigger-than-nations.md",
@@ -78140,11 +78153,11 @@
           "translationLastCommit": "",
           "translationLastModified": "",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 72762,
+          "footnoteDefs": 15,
+          "bytes": 86311,
           "armorResidue": 0,
           "status": "stale",
-          "reason": "footnote-loss (85→0)"
+          "reason": "footnote-loss (85→15)"
         },
         "id": {
           "path": "id/About/algorithmic-art-bigger-than-nations.md",
@@ -78156,11 +78169,11 @@
           "translationLastCommit": "",
           "translationLastModified": "",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 67044,
+          "footnoteDefs": 60,
+          "bytes": 90011,
           "armorResidue": 0,
           "status": "stale",
-          "reason": "footnote-loss (85→0)"
+          "reason": "footnote-loss (85→60)"
         },
         "pt": {
           "path": "pt/About/algorithmic-art-bigger-than-nations.md",
@@ -78189,7 +78202,7 @@
           "translationLastModified": "",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 104342,
+          "bytes": 132705,
           "armorResidue": 0,
           "status": "stale",
           "reason": "footnote-loss (85→0)"
@@ -78204,11 +78217,11 @@
           "translationLastCommit": "",
           "translationLastModified": "",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 89974,
+          "footnoteDefs": 57,
+          "bytes": 121368,
           "armorResidue": 0,
           "status": "stale",
-          "reason": "footnote-loss (85→0)"
+          "reason": "footnote-loss (85→57)"
         },
         "ru": {
           "path": "ru/About/algorithmic-art-bigger-than-nations.md",
@@ -78220,11 +78233,11 @@
           "translationLastCommit": "",
           "translationLastModified": "",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 90700,
+          "footnoteDefs": 15,
+          "bytes": 115738,
           "armorResidue": 0,
           "status": "stale",
-          "reason": "footnote-loss (85→0)"
+          "reason": "footnote-loss (85→15)"
         },
         "de": {
           "path": "de/About/algorithmic-art-bigger-than-nations.md",
@@ -78237,7 +78250,7 @@
           "translationLastModified": "",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 54629,
+          "bytes": 69072,
           "armorResidue": 0,
           "status": "stale",
           "reason": "footnote-loss (85→0)"
@@ -105897,7 +105910,20 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/li-zongsheng.md",
+          "translatedFrom": "People/李宗盛.md",
+          "sourceCommitSha": "db2633671",
+          "sourceContentHash": "sha256:cae032d995bba4cf",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-23T16:49:18.739596+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 43,
+          "bytes": 40657,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/li-zongsheng.md",
@@ -120864,20 +120890,18 @@
         "ru": {
           "path": "ru/People/tsai-ing-wen.md",
           "translatedFrom": "People/蔡英文.md",
-          "sourceCommitSha": "4f3974f86",
-          "sourceContentHash": "sha256:2ea54fe4a3dcfc40",
-          "sourceBodyHash": "sha256:3efdfebbac8eea3c",
-          "translatedAt": "2026-09-21T14:46:03.381859+00:00",
+          "sourceCommitSha": "7255b3ab1",
+          "sourceContentHash": "sha256:ad617fbb654f67ae",
+          "sourceBodyHash": "sha256:986ab9796f1069f2",
+          "translatedAt": "2026-09-23T17:13:36.013785+00:00",
           "translationLastCommit": "ae837171",
           "translationLastModified": "2026-09-22T01:04:22+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "bytes": 51809,
+          "bytes": 52136,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/People/tsai-ing-wen.md",
@@ -125800,20 +125824,18 @@
         "es": {
           "path": "es/People/lin-chi-wei-social-innovator.md",
           "translatedFrom": "People/林啟維.md",
-          "sourceCommitSha": "cfaa22a5d",
-          "sourceContentHash": "sha256:82817fc4c48a612b",
-          "sourceBodyHash": "sha256:5e2c0e25dde8c071",
-          "translatedAt": "2026-07-07T00:38:22+08:00",
+          "sourceCommitSha": "4f3974f86",
+          "sourceContentHash": "sha256:50a3b31b4cb61eed",
+          "sourceBodyHash": "sha256:e893f57da90167f4",
+          "translatedAt": "2026-09-23T22:11:50+08:00",
           "translationLastCommit": "c297b51f",
           "translationLastModified": "2026-09-22T08:43:11+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "bytes": 19885,
+          "bytes": 21040,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/People/lin-chi-wei-social-innovator.md",
