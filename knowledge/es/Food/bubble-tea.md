@@ -1,138 +1,148 @@
 ---
-title: 'Bubble Tea'
-description: 'Una reunión de empleados en Taichung en 1987, un gesto casual, y una bebida que conquistó el mundo. La disputa sobre el origen del bubble tea, su política cultural y el debate sanitario de una taza de 500 kilocalorías.'
+title: 'Té de leche con tapioca'
+description: 'En 1987, una reunión de empleados en Taichung, un movimiento fortuito, una bebida conquistó el mundo. La polémica sobre el origen del té de leche con tapioca, la política cultural y un debate sobre salud de 500 calorías.'
 date: 2026-03-30
+category: 'Food'
 tags:
   [
-    gastronomía,
-    bubble tea,
-    bebidas preparadas,
-    globalización,
-    poder blando,
-    diplomacia cultural,
+    'Gastronomía',
+    'Té de leche con tapioca',
+    'Bebidas artesanales',
+    'Globalización',
+    'Dulzura blanda',
+    'Diplomacia cultural',
   ]
 subcategory: '飲品文化'
+author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-30
 lastHumanReview: false
 image: '/article-images/food/classic-bubble-tea-2013.webp'
-imageAlt: '珍珠奶茶'
+imageAlt: 'Primer plano del clásico té de leche con tapioca'
 imageCredit: 'Oqmilteashop / Wikimedia Commons'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Classic_bubble_tea.jpg'
-translatedFrom: Food/珍珠奶茶.md
-sourceCommitSha: '30569f74'
-sourceContentHash: 'sha256:d90e80b19559290b'
-sourceBodyHash: 'sha256:9bc13bf8c8054628'
-translatedAt: '2026-05-16T22:20:03Z'
-category: Food
-author: 'Taiwan.md'
+translatedFrom: 'Food/珍珠奶茶.md'
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:4b6c70d0fd8de132'
+sourceBodyHash: 'sha256:402d0d087252b30e'
+translatedAt: '2026-09-23T22:11:50+08:00'
 ---
 
-# Bubble Tea
+# Té de leche con tapioca
 
-> **Resumen en 30 segundos:** En 1987, Lin Xiuhui, gerente de una casa de té en Taichung, vertió _tapioca pearls_ (perlas de tapioca) en un té con leche durante una reunión de empleados. Fue un gesto improvisado. Meses después, aquella bebida se vendía más que cualquier otra en el menú. Treinta y ocho años después, ese acto dio origen a una industria global valorada en unos 3.500 millones de dólares, llevó el emoji del bubble tea 🧋 a todos los teléfonos del mundo y provocó que marcas taiwanesas y chinas compitieran por el título de "inventora".
+> **Resumen en 30 segundos:** En 1987, Lin Hsiu-hui, directora de un té en Taichung, durante una reunión de empleados, vertió bolitas de tapioca en su té de leche, probó una bocanada —y ese té se vendió más que todas las bebidas en cuestión de meses. Treinta y ocho años después, ese gesto dio lugar a una industria global de aproximadamente 3.500 millones de dólares, llevó el emoji 🧋 a cada teléfono, y hizo que las marcas de Taiwán y China continental compitieran por el título de "inventor".
 
-En 1987, en la calle Siwei de Taichung, en una casa de té predecesora de Chun Shui Tang. Lin Xiuhui dirigía una reunión de empleados. Sobre la mesa estaban los ingredientes que había comprado esa mañana en moto en el mercado Jiankuo, entre ellos un cuenco de perlas de tapioca blancas: un aperitivo taiwanés que le gustaba desde niña. Sin pensarlo, vertió las perlas en el té Assam con leche que tenía a mano y dio un sorbo.
+En 1987, en la calle Siwei en Taichung, una tienda de té que antes era Chun Shui Tang. Lin Hsiu-hui, directora de la tienda, estaba presidiendo una reunión de empleados, y sobre la mesa había ingredientes que ella misma había comprado esa mañana en el mercado de Jianguo, incluyendo un tazón de bolitas de tapioca blancas —un dulce tradicional taiwanés que le gustaba desde niña. Así, vertió las bolitas de tapioca en su té de leche de Assam y probó una bocanada.
 
-"Todos en aquella reunión se enamoraron de la bebida. Meses después, sus ventas superaban las de todos nuestros demás tés helados", declaró Lin Xiuhui años después a un periodista de CNN, sin grandes aspavientos, más bien describiendo un pequeño accidente que ella misma no había previsto.
+"Todos en esa reunión se enamoraron de la bebida, y unos meses después sus ventas superaron a todas nuestras otras bebidas frías." Lin Hsiu-hui le contó a un periodista de CNN años después, con un tono que no parecía exagerado, más bien como si estuviera describiendo un pequeño accidente que ni ella misma había previsto.
 
-Ese accidente acabó derivando en un litigio judicial que duró más de una década.
+Ese accidente, finalmente, la llevó a un largo proceso legal de diez años.
 
-## Un juicio de diez años sin ganadores
+## Un juicio de diez años, sin ganadores
 
-La versión de Lin Xiuhui es solo la mitad de la historia.
+La versión de Lin Hsiu-hui es solo la mitad de esta historia.
 
-Tu Zonghe, fundador de Hanlin Tea Room en Tainan, cuenta otra: tras abrir su local en 1986, un día vio en el mercado perlas de tapioca blancas y translúcidas, tuvo una idea repentina y las combinó con té con leche, bautizando la bebida por su parecido visual con las perlas. Ambas historias ocurrieron en los años ochenta del siglo XX, una en el norte y otra en el sur de Taiwán, y ambas reclaman ser la primera.
+Tu nte, el fundador de la tienda de té Hanlin, Tu Tsung-che, tiene otra versión: abrió su tienda en 1986, un día vio bolitas de tapioca transparentes y brillantes en el mercado, tuvo una inspiración, intentó combinarlas con el té de leche, y por el aspecto de las bolitas, las llamó "perlas". Ambas historias ocurrieron en el sur y norte de Taiwán a mediados de los años 80, y ambas dicen ser las primeras.
 
-La versión de Chun Shui Tang es más precisa: su fundador, Liu Hanjie, abrió una tienda de bebidas en la calle Siwei de Taichung en 1983; en 1987, la entonces gerente Lin Xiuhui preparó el bubble tea de forma casual durante una reunión de empleados, lo puso a prueba y lo incorporó oficialmente al menú. Desde Chun Shui Tang señalan incluso que el responsable de Hanlin Tea Room acudió personalmente a observar y aprender en su establecimiento.
+La versión de Chun Shui Tang es más precisa: el fundador Liu Han-chieh abrió su tienda de bebidas en la calle Siwei en Taichung en 1983, y en 1987, Lin Hsiu-hui, entonces directora, accidentalmente creó el té de leche con tapioca durante una reunión de empleados, lo probó y lo lanzó oficialmente. Chun Shui Tang incluso señaló que el responsable de Hanlin visitó personalmente Chun Shui Tang para aprender.
 
-La pregunta de "quién fue primero" acabó en los tribunales. Chun Shui Tang y Hanlin Tea Room se demandaron mutuamente durante más de diez años. **En 2019, los tribunales taiwaneses dictaminaron: el bubble tea es un nuevo tipo de bebida, no un producto patentado; cualquier persona o establecimiento puede prepararlo, y no hay necesidad de disputar quién fue el pionero.** Ninguna de las partes pudo obtener la patente. No hubo ganadores ni perdedores.
+Este problema de "quién fue primero" finalmente llegó a los tribunales. Chun Shui Tang y Hanlin se demandaron mutuamente, y el litigio duró más de diez años. **En 2019, el tribunal taiwanés falló: el té de leche con tapioca es una bebida novedosa, no un producto patentado, y cualquiera o cualquier tienda puede prepararlo, no es necesario discutir quién fue el primer creador.** Ambas partes no pudieron obtener patentes, nadie ganó, nadie perdió.
 
-> 📝 **Nota del comisario**
-> La pregunta "¿quién inventó el bubble tea?" probablemente ha perdido su propio significado en Taiwán. Lo que merece más atención es: ¿por qué el "lugar de nacimiento" de una bebida necesitó un litigio de diez años para ser confirmado? En un mercado global del bubble tea que se acerca a los 100.000 millones de dólares taiwaneses, la verdadera apuesta de aquel juicio iba claramente más allá del derecho a narrar la historia.
+> 📝 **Nota del curador**
+> El problema de "quién inventó el té de leche con tapioca" en Taiwán podría haber perdido ya su significado. Lo más interesante de preguntar es: ¿por qué una bebida necesita diez años de litigio para confirmar su lugar de nacimiento? En un mercado global de té de leche con tapioca de casi 1,000 millones de dólares taiwaneses, las apuestas reales de ese juicio iban más allá de la historia y el derecho a contarla.
 
-## 26.000 locales, más que las tiendas de conveniencia
+## 26,000 tiendas, más que las tiendas de conveniencia
 
-Independientemente de qué casa de té preparara primero el bubble tea, la pasión de Taiwán por esta bebida ha superado hace tiempo el alcance de la disputa por la paternidad.
+Sea cual sea la tienda que primero creó el té de leche con tapioca, el nivel de obsesión de Taiwán con esta bebida ya supera el alcance de la disputa sobre el "inventor".
 
-Según datos del Ministerio de Hacienda de Taiwán, en abril de 2022 el número de tiendas de bebidas de todo tipo en todo el país alcanzó un máximo histórico de **más de 26.000 locales**, casi 10.000 más que todas las tiendas de conveniencia de Taiwán juntas, con un crecimiento del 67,6 % en la última década. En cualquier callejón del centro de Taipéi, es posible encontrar 50 Lan, Qingxin Fuquan, CoCo y Macu Tea compitiendo lado a lado por los clientes. Al entrar en cualquiera de ellos, hay más decisiones de las que uno imagina: azúcar completo, medio, poco o sin azúcar; hielo extra, poco, sin hielo o normal; perlas de tapioca, nata de coco, bolas de taro, flan… Una taza de bubble tea en Taiwán es una elección altamente personalizada, no un producto estándar.
+Según las estadísticas del Ministerio de Finanzas de Taiwán, en abril de 2022, el número total de tiendas de bebidas en todo el país alcanzó un récord histórico de **26,000 tiendas**, superando en casi 10,000 el número de tiendas de conveniencia en toda Taiwán, y creciendo un 67.6% en la última década. En cualquier callejón de la zona de Taipei, podrías encontrar 50 Lan, Qingxin Fuxuan, CoCo y Mabu Tea Shop juntos, compitiendo por clientes. Entrar en cualquiera de ellas, las opciones que necesitas son más de las que imaginabas: azúcar completa, mitad azúcar, poca azúcar, sin azúcar; más hielo, menos hielo, sin hielo, hielo normal; perlas, coco, mochi, pudín... Un vaso de té de leche con tapioca en Taiwán es una elección altamente personalizada, no un producto estándar.
 
-El tamaño del mercado global es aún más impresionante. Varias firmas de investigación de mercado estimaron en 2024 que el mercado mundial del bubble tea rondaba los **3.500 millones de dólares** (aproximadamente 112.000 millones de dólares taiwaneses), con previsiones de crecimiento hasta los 6.000-7.000 millones para 2034. Las marcas taiwanesas son el origen de este mercado: CoCo tiene más de 5.000 locales en todo el mundo, Gong Cha supera los 2.000, y cadenas como The Alley y Chatime siguen expandiendo sus sucursales en el extranjero. Chun Shui Tang sigue vendiendo más de dos millones de tazas de bubble tea al año solo en Taiwán.
+El tamaño del mercado global es aún más impresionante. Varias agencias de investigación de mercado estiman que en 2024, el tamaño global del mercado del té de leche con tapioca alcanzó aproximadamente **3.500 millones de dólares (aproximadamente 112,000 millones de dólares taiwaneses)**, y se espera que crezca a 6,000-7,000 millones de dólares para 2034. Las marcas taiwanesas son el punto de partida de este mercado: CoCo Tea tiene más de 5,000 tiendas en todo el mundo, Gong Cha supera las 2,000, y marcas como Lakouxiang, Ri Xing Cha Tai etc., continúan expandiendo sus tiendas en el extranjero. Chun Shui Tang sigue vendiendo más de 2 millones de tazas de té de leche con tapioca anualmente en Taiwán.
 
-Este proceso de globalización siguió una ruta interesante: no fue una diplomacia cultural impulsada por el gobierno ni una estrategia de expansión de mercado diseñada por una gran marca. El primer paso del bubble tea hacia el mundo lo dio la nostalgia de los inmigrantes: taiwaneses en Los Ángeles, taiwaneses en Vancouver, que querían beber un sabor de su tierra natal, abrieron tiendas locales y acabaron haciendo que sus vecinos también se enamoraran de la bebida. Esta es la ruta más típica de difusión de la [comida callejera taiwanesa](/es/food/taiwanese-street-food/) hacia el exterior: no es exportación, es difusión; no es estrategia, es vida cotidiana.
+Este proceso de globalización sigue una ruta interesante: no fue impulsado por la diplomacia cultural del gobierno, ni fue una estrategia cuidadosamente diseñada por grandes marcas para expandirse. El primer paso del té de leche con tapioca hacia el mundo fue el nostalgia de los inmigrantes —los inmigrantes taiwaneses en Los Ángeles, los inmigrantes taiwaneses en Vancouver, querían beber el sabor de su tierra natal, abrieron tiendas, y terminaron haciendo que sus vecinos también se enamoraran de la bebida. Esta es la ruta típica de [comida taiwanesa](/es/food/taiwanese-street-food/) expandiéndose: no es exportar, es difundir; no es estrategia, es vida.
 
-> 📊 **Cifras clave**
-> Tamaño del mercado global de bubble tea (2024): aprox. 3.500 millones de dólares (unos 112.000 millones de TWD)
-> Tiendas de bebidas preparadas en Taiwán (pico en 2022): más de 26.000, crecimiento del 67,6 % en diez años
-> Locales globales de CoCo: más de 5.000
-> Locales globales de Gong Cha: más de 2.000
-> Ventas anuales de bubble tea en Chun Shui Tang: más de 2 millones de tazas
+> 📊 **Interpretación de datos**
+> Tamaño global del mercado del té de leche con tapioca (2024): aproximadamente 3.500 millones de dólares (aproximadamente 112,000 millones de dólares taiwaneses)
+> Número de tiendas de bebidas artesanales en Taiwán (máximo en 2022): más de 26,000, crecimiento del 67.6% en la última década
+> Tiendas globales de CoCo Tea: más de 5,000
+> Tiendas globales de Gong Cha: más de 2,000
+> Ventas anuales de té de leche con tapioca de Chun Shui Tang: más de 2 millones de tazas
 
-## 2019: seis horas de cola en Tokio
+## 2019, fila de seis horas en Tokio
 
-El flujo del bubble tea desde las casas de té taiwanesas hacia el mundo no fue una explosión puntual, sino una oleada tras otra.
+El té de leche con tapioca fluyó de las tiendas de té de Taiwán al mundo, no en una sola explosión, sino en olas sucesivas.
 
-A finales de los años noventa, la primera ola llegó con los inmigrantes taiwaneses a Norteamérica y el sudeste asiático. En los años 2000, la marca en cadena hizo que pasara de ser una bebida de las comunidades de la diáspara a un lenguaje común de las generaciones jóvenes asiáticas. En la década de 2010, Instagram globalizó su lenguaje visual: vaso transparente, perlas negras, pajita gruesa: una imagen diseñada de forma innata para las redes sociales.
+A finales de los años 90, la primera ola siguió a los inmigrantes taiwaneses que se establecieron en Norteamérica y el sudeste asiático. En los 2000s, la cadena de tiendas permitió que se expandiera de comunidades de inmigrantes a un lenguaje común entre los jóvenes de Asia. En los 2010s, Instagram globalizó su lenguaje visual —el vaso transparente, las perlas negras, la pajilla gruesa, estaban hechos para las redes sociales.
 
-Pero el fenómeno más dramático ocurrió en Japón en 2019.
+Pero el fenómeno más dramático ocurrió en verano de 2019 en Japón.
 
-Aquel verano, en la entrada de The Alley en Tokio apareció un cartel que indicaba "espera estimada: 5 horas", cifra que después se actualizó a 6. Los medios japoneses lo llamaron _dai-san-pa tapioka buumu_ (la tercera ola de fiebre del bubble tea). Surgieron al mismo tiempo labiales con sabor a bubble tea, ensaladas de bubble tea y snacks con su sabor. Las jóvenes japonesas salían a la calle maquilladas y vestidas enteramente con la paleta de colores del bubble tea, solo para hacerse una foto para las redes sociales.
+Ese verano, apareció un cartel frente a la tienda Lakouxiang en Tokio indicando "espera de 5 horas", y luego se actualizó a 6. Los medios japoneses lo llamaron "tercera ola del té de leche con tapioca" (tercera ola del té de leche con tapioca), y aparecieron productos como el té de leche con tapioca de color labial, ensaladas de té de leche con tapioca, y snacks con sabor a té de leche con tapioca. Las chicas japonesas usaban combinaciones de té de leche con tapioca en labios, sombras de ojos y ropa, solo para tomar una foto.
 
-Lo que la gran mayoría de consumidores japoneses no sabían es que la moda que perseguían había comenzado treinta años atrás, con un gesto improvisado en una reunión de empleados en Taichung. Un usuario japonés bromeó en redes sociales: "El tiempo de espera daría para volar a Taiwán, beberse una taza y volver."
+La mayoría de los consumidores japoneses no entendían que la ola que estaban siguiendo tenía su origen en una prueba casual en una reunión de empleados en Taichung hace 30 años. Un usuario de redes sociales escribió: "El tiempo que esperé en la fila es suficiente para volar a Taiwán, beber una taza y volver."
 
-Al año siguiente, el bubble tea completó una transformación de identidad aún más singular: se convirtió en símbolo político.
+Al año siguiente, el té de leche con tapioca alcanzó un nuevo nivel de identidad: se convirtió en un símbolo político.
 
 ## 🧋 Una taza de té, una alianza democrática
 
-En abril de 2020, cuentas nacionalistas chinas en internet lanzaron una campaña de acoso contra una estrella tailandesa, lo que inesperadamente colocó a usuarios de internet de Taiwán, Hong Kong y Tailandia del mismo lado. El hashtag #MilkTeaAlliance (Alianza del Té con Leche) se viralizó rápidamente. El nombre aludía a un detalle culinario pequeño pero incisivo: estas tres regiones beben té con leche, mientras que la tradición cultural del té en China continental no la incluye.
+En abril de 2020, cuentas de internet nacionalistas chinos lanzaron una campaña de acoso contra una estrella tailandesa, lo que inesperadamente unió a los usuarios de Taiwán, Hong Kong y Tailandia en el mismo bando. El hashtag #MilkTeaAlliance se volvió viral —este nombre se refiere precisamente al té con leche que beben estos tres lugares, mientras que la tradición china continental del té normalmente no lleva leche, una diferencia culinaria pequeña pero punzante.
 
-El té con leche se convirtió en una especie de código de estilo de vida: té con leche = democracia y apertura; té solo = un orden político opuesto. La metáfora era tosca hasta el punto de resultar graciosa, pero fue citada repetidamente en 2020 en las protestas de Myanmar, Bielorrusia y Tailandia. Con un símbolo gastronómico, conectó la experiencia democrática de Taiwán con los movimientos civiles del sudeste asiático, logrando lo que ningún diplomático habría conseguido.
+El té con leche se convirtió en una especie de código de estilo de vida: té con leche = democracia, apertura; té limpio = otro orden político opuesto. Esta metáfora es un poco graciosa por lo torpe que es, pero se usó repetidamente en las protestas de Birmania, Bielorrusia y Tailandia en 2020. Con un símbolo alimentario, conectó la experiencia democrática de Taiwán con los movimientos ciudadanos del sudeste asiático, logrando algo que ningún diplomático pudo hacer.
 
-Ese mismo año, Unicode 13.0 incorporó oficialmente el emoji 🧋 del bubble tea, otorgándole un rostro propio en cada teléfono del mundo.
+Ese mismo año, Unicode 13.0 incluyó oficialmente el emoji 🧋 del té de leche con tapioca, dando a esta bebida un rostro en cada teléfono.
 
-> 📝 **Nota del comisario**
-> La "Alianza del Té con Leche" tradujo la geopolítica al lenguaje de los stickers del móvil usando el detalle mínimo de añadir leche. Quizá este sea el momento más absurdo y más verdadero en la historia del bubble tea: una bebida popular nacida en la [cultura de los mercados nocturnos](/es/food/night-market-culture/) que se convirtió, sin proponérselo, en símbolo de solidaridad democrática transnacional. Ni siquiera lo intentó.
+> 📝 **Nota del curador**
+> La "Alianza del Té con Leche" tradujo la geopolítica a un lenguaje de stickers en el teléfono usando un pequeño detalle: añadir leche. Tal vez este sea el momento más absurdo y real de la historia del té de leche con tapioca: una bebida nacida en los mercados nocturnos [cultura de mercados nocturnos](/es/food/night-market-culture/) se convirtió accidentalmente en un símbolo de solidaridad democrática transnacional. Ni siquiera lo intentó.
 
-## 500 kilocalorías por taza, y un problema de salud que nadie quiere oír
+## 500 calorías en una taza, y problemas de salud que nadie quiere escuchar
 
-Cualquier historia honesta del bubble tea debe enfrentarse al número que arruga la frente de los nutricionistas.
+Cualquier historia honesta del té de leche con tapioca debe enfrentar directamente el número que frunce el ceño de los nutricionistas.
 
-Una taza de bubble tea con azúcar completo y hielo normal contiene entre 400 y 600 kilocalorías, con unos 50-70 gramos de azúcar: el equivalente a la caloría de un almuerzo en caja (_bentō_) o más del doble del límite diario de ingesta de azúcar recomendado por la OMS. El Dr. Martin Lee, jefe del departamento de nefrología del Hospital Nacional de la Universidad de Singapur, declaró directamente: "El azúcar del bubble tea puede agravar la diabetes y causar daño renal, incluso insuficiencia." Estudios académicos publicados en PubMed señalan también que, para los jóvenes asiáticos que consumen bubble tea a diario, los riesgos para la salud son comparables a los de los refrescos azucarados, constituyendo un problema de salud pública que no puede ignorarse.
+Una taza de té de leche con tapioca con azúcar completa y hielo normal contiene entre 400 y 600 calorías, y alrededor de 50-70 gramos de azúcar —equivalente a la energía de un alimento principal, o más del doble del límite diario de azúcar recomendado por la OMS. El doctor Martin Lee, director del departamento de nefrología del Hospital Universitario de Singapur, afirmó directamente: "El azúcar en el té de leche con tapioca puede empeorar la diabetes, causando daño e incluso insuficiencia renal." Estudios académicos publicados en PubMed también señalan que para jóvenes asiáticos que beben té de leche con tapioca diariamente, el riesgo de salud es similar al de las bebidas gaseificadas con azúcar, un problema de salud pública que no se puede ignorar.
 
-No es alarmismo sensacionalista, sino un riesgo real que aparece cuando el bubble tea pasa de ser un capricho ocasional a un hábito diario. Las 26.000 tiendas de bebidas rastreadas por el Ministerio de Hacienda de Taiwán no son solo una estadística empresarial, sino también una señal de alerta de salud pública. El Ministerio de Salud y Bienestar de Taiwán ha exigido en repetidas ocasiones que las cadenas de bebidas preparen obligatoriamente etiquetas calóricas, pero la mayoría de los consumidores sigue eligiendo azúcar completo tras ver la cifra de "522 kcal" en la etiqueta. Este pequeño hecho ilustra lo difícil que es cambiar el comportamiento humano.
+Esto no es una advertencia exagerada, sino un riesgo real que aparece cuando el té de leche con tapioca pasa de ser una ocasionalidad a un hábito diario. Las 26,000 tiendas de bebidas que el Ministerio de Finanzas rastrea no solo son estadísticas de emprendimiento, sino también una señal de alerta de salud pública. El Departamento de Salud y Bienestar de Taiwán ha solicitado repetidamente que las marcas de bebidas artesanales etiqueten obligatoriamente las calorías, pero la mayoría de los consumidores, al ver "520 calorías", aún así eligen azúcar completa —un hecho pequeño que demuestra qué difícil es cambiar el comportamiento humano.
 
-En 2011, la cultura alimentaria taiwanesa (台灣飲食文化) sufrió un golpe aún más directo: el plastificante DEHP fue añadido ilegalmente a agentes enturbiantes utilizados en alimentos y bebidas, afectando entre otros productos a las bebidas preparadas como el bubble tea. La Administración de Alimentos y Fármacos de Taiwán confirmó finalmente que **965 productos estaban contaminados, de los cuales 206 habían sido exportados a 22 países**. Este escándalo hundió el negocio de las bebidas taiwanesas en mercados como Hong Kong y Malasia, y se convirtió en el detonante directo de una profunda reforma de la normativa de seguridad alimentaria de Taiwán.
+En 2011, la cultura gastronómica de Taiwán sufrió un golpe más directo: el plastificante DEHP fue ilegalmente añadido a alimentos y bebidas, afectando a bebidas artesanales como el té de leche con tapioca. La Administración Taiwanesa de Alimentos y Medicinas finalmente confirmó que **965 productos estaban contaminados, de los cuales 206 fueron exportados a 22 países**. Este escándalo hizo caer las ventas de la industria de bebidas de Taiwán en Hong Kong, Malasia y otros mercados, y también se convirtió en la chispa directa para una reforma legal de seguridad alimentaria en Taiwán.
 
-Los problemas medioambientales tampoco han desaparecido. La ola global de prohibición de pajitas de plástico de un solo uso planteó un desafío práctico de ingeniería para el bubble tea: las pajitas de papel se ablandan con el agua, las metálicas transmiten demasiado calor y los materiales biodegradables tienen un coste elevado. El progreso de esta bebida en envases sostenibles ha sido mucho más lento que su velocidad de marketing de marca.
+Los problemas ambientales también persisten. La ola global de prohibir plásticos de un solo uso puso al té de leche con tapioca frente a un problema técnico real: las pajillas de papel se ablandan al mojarse, las pajillas metálicas son demasiado calientes, y los materiales biodegradables son demasiado caros. El avance del té de leche con tapioca en el uso de empaques sostenibles es mucho más lento que su marketing.
 
-## "Nuevas bebidas de té" y una historia que se diluye
+## "Nuevas bebidas" y la historia diluida
 
-Hay otro tipo de competencia más silenciosa en marcha.
+También hay otra competencia más silenciosa ocurriendo.
 
-Las marcas chinas de "nuevas bebidas de té" —Heytea, Nayuki, Chagee— han abierto locales rápidamente por todo el mundo en los últimos años, y el número de sucursales en el extranjero de algunas de ellas iguala o supera ya al de ciertas marcas taiwanesas. Lo más notable es su lenguaje de marketing: el origen taiwanés del bubble tea se diluye progresivamente en las narrativas de estas marcas bajo términos vagos como "cultura de las bebidas de té" o "innovación en bebidas de té asiáticas". Para las marcas taiwanesas, la batalla por la narrativa sobre el "lugar de origen" se ha convertido en una contienda tan importante como la competencia comercial, e incluso más difícil de ganar.
+Las marcas chinas continentales de "nuevas bebidas" —como Heytea, Nayuki y Chatime— han abierto rápidamente tiendas en todo el mundo, y algunas de sus tiendas en el extranjero han alcanzado o superado a algunas marcas taiwanesas. Más preocupante es su lenguaje de marketing: el origen taiwanés del té de leche con tapioca se ha ido diluyendo gradualmente en narrativas vagas como "cultura del té" e "innovación asiática en bebidas". Para las marcas taiwanesas, la lucha por el "derecho a contar la historia" se ha convertido en una batalla tan importante como la competencia comercial, e incluso más difícil de ganar.
 
-La competencia comercial se libra con capital y velocidad de expansión; la narrativa se libra con la historia que más gente recuerda y en la que más gente cree.
+El comercio puede competir con capital y velocidad de apertura de tiendas, pero la lucha por la narrativa depende de quién cuente la historia que más gente recuerde y crea.
 
-El gobierno taiwanés y las marcas privadas no son ajenos a esta cuestión. Las actividades culturales sobre el bubble tea organizadas por el Ministerio de Asuntos Exteriores en el extranjero, la promoción a través de las comunidades taiwanas en el exterior por parte del Consejo de Asuntos de los Chinos de Ultramar, la insistencia de Chun Shui Tang en mantener la historia de Lin Xiuhui en la página principal de su sitio web… Todo esto constituye una ingeniería narrativa defensiva que intenta evitar que la etiqueta "Hecho en Taiwán" se diluya. Pero en el mercado global, el consumidor bebe experiencias, no historias de origen. Esta batalla no tiene final previsto.
+El gobierno y las marcas privadas de Taiwán no han ignorado esto. Las actividades culturales del té de leche con tapioca organizadas por el Ministerio de Relaciones Exteriores, la promoción a través de comunidades taiwanesas en el extranjero por el Departamento de Asuntos Taiwaneses en el Extranjero, y Chun Shui Tang manteniendo la historia de Lin Hsiu-hui en la parte superior de su sitio web... todos son formas de ingeniería narrativa defensiva, intentando que la etiqueta "Hecho en Taiwán" no se diluya. Pero en el mercado global, los consumidores beben la experiencia, no la historia del lugar de origen, y esta batalla no tendrá fin.
 
-## Un gesto que sigue repitiéndose
+## Un gesto que sigue viva
 
-El gesto de Lin Xiuhui en 1987 sigue siendo la historia más visible en la página principal del sitio web de Chun Shui Tang. Aquella taza de té con perlas de tapioca se vendió en pocos meses más que todas las demás bebidas: ese hecho, en sí mismo, es la versión más cercana a un "mito fundacional" que tiene esta bebida.
+El gesto de Lin Hsiu-hui en 1987 sigue siendo la historia más destacada en la página principal de Chun Shui Tang. Esa taza de té con tapioca se vendió más que todas las otras bebidas en cuestión de meses —ese hecho en sí mismo es la versión más cercana a una "mitología de origen" de esta bebida.
 
-Pero en 2026, mantener las palabras "inventado en Taiwán" en el centro de la historia de esta bebida requiere mucho más esfuerzo que aquel instante original de verter las perlas de tapioca en el té con leche. ¿Cuántas personas en el mundo beben cada día una taza de bubble tea sin saber ni importarles de dónde viene? Ese número es prácticamente imposible de calcular.
+Pero en 2026, mantener las palabras "inventado por Taiwán" en el núcleo de esta historia requiere más esfuerzo que el momento inicial en que Lin vertió las bolitas de tapioca en su té. ¿Cuántas personas en el mundo beben una taza de té de leche con tapioca sin saber o importar de dónde viene? Ese número es casi imposible de calcular.
 
-Aquella mujer, por supuesto, no sabía lo que estaba haciendo. Los grandes accidentes nunca lo saben.
+Ese momento, por supuesto, no sabía lo que estaba haciendo. Los grandes accidentes nunca lo saben.
+
+## Lecturas relacionadas
+
+- [Guía completa de la gastronomía taiwanesa](/es/food/taiwan-food-overview) — Desde los pueblos originarios hasta Michelin: la posición del té de leche con tapioca en 400 años de paladar mestizo
+- [Cultura de bebidas artesanales en Taiwán](/es/food/hand-shaken-drink-culture) — La historia de expansión de marcas como 50 Lan, Gong Cha, CoCo a más de 40 países
+- [Cultura del té](/es/food/golden-age-echoes-taiwan-tea-culture) — Desde el té oolong de Tan Tea en 1865 hasta el té de montaña de hoy: la leyenda de la calidad del té taiwanés
+
+## Fuentes de imágenes
+
+- Hero：Primer plano del clásico té de leche con tapioca, fotografía de Oqmilteashop, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Classic_bubble_tea.jpg)，CC BY-SA 3.0。
 
 ## Referencias
 
-- [Sitio web oficial de Chun Shui Tang: La invención del bubble tea](https://www.chunshuitang.com.tw/article-detail/invent-bubble-milk-tea/) (fuente primaria)
-- [CNN Travel: The rise of bubble tea, one of Taiwan's most beloved beverages](https://edition.cnn.com/travel/article/taiwan-bubble-tea-origins/index.html) (incluye declaraciones de Lin Xiuhui)
-- [ETtoday: ¿Quién inventó el bubble tea? Chun Shui Tang y Hanlin Tea Room se demandaron durante 10 años; el tribunal ya ha fallado](https://www.ettoday.net/news/20190731/1502150.htm) (cobertura de la sentencia de 2019)
-- [Análisis de datos del mercado de bebidas preparadas de Taiwán (Ministerio de Hacienda de Taiwán)](https://lndatatech.github.io/taiwan-drink/) (fuente estadística primaria)
-- [TIME: What Is the Milk Tea Alliance?](https://time.com/5904114/milk-tea-alliance/) (contexto de la Alianza del Té con Leche)
-- [Maximize Market Research: Global Bubble Tea Market Size 2024](https://www.maximizemarketresearch.com/market-report/global-bubble-tea-market/110228/) (datos del mercado global)
-- [PubMed: 2011 Taiwan food scandal — plasticizer contamination](https://pubmed.ncbi.nlm.nih.gov/23684997/) (fuente académica primaria, datos sobre la contaminación de 965 productos)
-- [National University Hospital Singapore: What happens if you drink too much bubble tea?](https://www.nuhsplus.edu.sg/article/what-happens-if-you-drink-too-much-bubble-tea) (fuente de las declaraciones del Dr. Martin Lee)
+- [Sitio web oficial de Chun Shui Tang: la invención del té de leche con tapioca](https://www.chunshuitang.com.tw/article-detail/invent-bubble-milk-tea/)（fuente primaria）
+- [CNN Travel: The rise of bubble tea, one of Taiwan's most beloved beverages](https://edition.cnn.com/travel/article/taiwan-bubble-tea-origins/index.html)（incluye cita de Lin Hsiu-hui）
+- [ETtoday: ¿Quién inventó el té de leche con tapioca? Chun Shui Tang y Hanlin Tea Shop se demandan durante 10 años, el fallo del tribunal ha salido](https://www.ettoday.net/news/20190731/1502150.htm)（reportaje del fallo de 2019）
+- [Análisis del mercado de bebidas artesanales en Taiwán (Ministerio de Finanzas de Taiwán)](https://lndatatech.github.io/taiwan-drink/)（fuente estadística primaria）
+- [TIME: What Is the Milk Tea Alliance?](https://time.com/5904114/milk-tea-alliance/)（contexto de la Alianza del Té con Leche）
+- [Maximize Market Research: Global Bubble Tea Market Size 2024](https://www.maximizemarketresearch.com/market-report/global-bubble-tea-market/110228/)（datos del mercado global）
+- [PubMed: 2011 Taiwan food scandal — plasticizer contamination](https://pubmed.ncbi.nlm.nih.gov/23684997/)（fuente académica primaria, datos de 965 productos contaminados）
+- [National University Hospital Singapore: What happens if you drink too much bubble tea?](https://www.nuhsplus.edu.sg/article/what-happens-if-you-drink-too-much-bubble-tea)（fuente de la cita del Dr. Martin Lee）
 
-Temas relacionados con esta entrada: [cultura de los mercados nocturnos](/es/food/night-market-culture/), [comida callejera taiwanesa](/es/food/taiwanese-street-food/), cultura alimentaria taiwanesa (台灣飲食文化).
+Temas relacionados de este artículo：[cultura de mercados nocturnos](/es/food/night-market-culture/)、[comida taiwanesa](/es/food/taiwanese-street-food/)、cultura gastronómica de Taiwán。

@@ -1,132 +1,152 @@
 ---
-title: 'Cultura del Té de Taiwán'
-description: "Una pequeña isla excluida de los acuerdos de restricción de producción entre las grandes potencias del té, que por eso creó su propia edad de oro tetera, para terminar conquistando el mundo entero con una taza de té mezclado con 'pequeños postres'"
+title: 'Cultura del té en Taiwán'
+description: 'Una pequeña isla excluida del Tratado Internacional de Limitación de la Producción de Té creó así el oro de la era del té, y terminó conquistando al mundo con una taza de té de leche con “pequeños bocados”'
 date: 2026-03-23
 category: 'Food'
 tags:
   [
-    'Food',
-    'Cultura del Té',
-    'Té Oolong',
-    'Té de Alta Montaña',
-    'Bebidas RTD',
-    'Té con Leche de Perlas',
+    'Comida',
+    'Cultura del té',
+    'Té oolong',
+    'Té de montaña alta',
+    'Bebidas frías',
+    'Té de leche con bolitas',
   ]
-subcategory: 'Cultura de bebidas'
+subcategory: '飲品文化'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
 image: '/article-images/food/formosa-oolong-tea-jacksons.webp'
-imageAlt: 'Embalaje de té oolong de Taiwán con las palabras Formosa Oolong Tea'
+imageAlt: 'Envase de té oolong "Formosa" de Jacksons of Piccadilly en Londres'
 imageCredit: 'Joost J. Bakker  IJmuiden / Wikimedia Commons'
 created: 2026-03-23
 readingTime: 12
+curation: 'incubating'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Jacksons_of_Piccadilly_Formosa_Oolong_Tea_(51878727206).jpg'
 translatedFrom: 'Food/茶文化.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:86475082b87388fc'
-sourceBodyHash: 'sha256:a9375147f15627a6'
-translatedAt: '2026-05-29T00:35:00+08:00'
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:86fb5241b5393f5b'
+sourceBodyHash: 'sha256:add135df68f1784c'
+translatedAt: '2026-09-23T22:11:50+08:00'
 ---
 
-# Cultura del Té
+# Cultura del té en Taiwán
 
-> **Resumen de 30 Segundos:** La cultura del té de Taiwán combina tradición e innovación, evolucionando desde técnicas de producción de té oolong introducidas durante la Dinastía Qing hasta desarrollar variedades de té de renombre mundial como el Oolong Dong Ding y tés de alta montaña. La moderna cultura del té de burbujas ha impulsado el té taiwanés al escenario internacional, con el té con leche de perlas convirtiéndose en la bebida más representativa de Taiwán, demostrando la fusión perfecta de artes del té tradicionales e innovación moderna.
+> **Resumen en 30 segundos**: La cultura del té en Taiwán ha experimentado tres cambios sorprendentes: en la década de 1930, al ser excluida del Tratado Internacional de Limitación de la Producción de Té, Taiwán emergió inesperadamente; las exportaciones de té pasaron de 3.29 millones de kilogramos a 5.80 millones de kilogramos; en la década de 1980, una taza de té rojo con espuma redefinió la cultura del té; y en 1987, al añadir "pequeños bocados" en forma de bolitas de té, el té de leche con bolitas se convirtió en el símbolo de la influencia blanda de Taiwán en el mundo.
 
-## Por Qué Importa
+En 1934, cuando India, Sri Lanka y otros grandes productores de té firmaron el Tratado Internacional de Limitación de la Producción de Té, nadie podía imaginar que la pequeña isla excluida, Taiwán, comenzaría así su época más dorada en la historia del té.
 
-La cultura del té de Taiwán encarna el espíritu inclusivo e innovador de la isla. Desde la herencia refinada de las ceremonias del té chinas tradicionales hasta el desarrollo creativo del té de burbujas moderno, la cultura del té de Taiwán no solo preserva la profunda herencia cultural sino que también alcanza el escenario mundial a través de la innovación, convirtiéndose en un símbolo importante del poder blando de Taiwán.
+Ese año, las exportaciones de té rojo de Taiwán alcanzaron 3.29 millones de kilogramos, compitiendo con el té Baozhong y el té oolong. Para 1937, esta cifra había aumentado a 5.80 millones de kilogramos, representando el 52% de las exportaciones de ese año. El té rojo de Taiwán no solo dominó en Asia, sino que llegó incluso a la capital danesa de Copenhague, a 8.800 kilómetros de distancia.
 
-## Visión General
+**¿Cómo encontró una nación olvidada de té oportunidades en medio de las restricciones?**
 
-La cultura del té de Taiwán ha evolucionado a través de tres fases de desarrollo: la introducción de variedades de té continentales y técnicas de producción durante la Dinastía Qing, el desarrollo de la industria de exportación de té durante el gobierno japonés, y la innovación moderna de la cultura del té de burbujas. Las condiciones geográficas y climáticas superiores han nutrido variedades únicas de té taiwanés, desde el tradicional Oolong Dong Ding y Tieguanyin hasta los modernos tés de alta montaña y té Oriental Beauty, formando una cadena industrial y sistema cultural completo del té.
+Esta historia comienza con un comerciante japonés.
 
-## Datos Clave
+## Innovación rechazada: Desde Siberia hasta Europa, la ruta del té
 
-- **Distribución de Jardines de Té**: Principalmente ubicados en áreas montañosas de Nantou, Chiayi, Taipéi y Hsinchu a elevaciones de 1000-2500 metros
-- **Variedades de Té Famosas**: Oolong Dong Ding, Té de Alta Montaña de Alishan, Té Baozhong de Wenshan, Té Oriental Beauty
-- **Orígenes del Té de Burbujas**: Chun Shui Tang inventó el té con leche de perlas en la década de 1980, creando la cultura del té de burbujas
-- **Escala de la Industria**: Área de jardines de té de aproximadamente 12,000 hectáreas, producción anual de 14,000 toneladas
-- **Impacto Internacional**: Tiendas de té de burbujas en todo el mundo, té con leche de perlas como bebida representativa de Taiwán
+En 1906, Taiwán comenzó a exportar su primer lote de té rojo a Rusia. Curiosamente, este té era lo que hoy sería difícil de imaginar: "té de ladrillo rojo", elaborado presionando las hojas de té en forma de ladrillos para facilitar su transporte a largas distancias hacia Siberia.
 
-## Contenido en Profundidad
+Al mando de esta empresa estaba Kodezuka, uno de los comerciantes más legendarios de la era Meiji. Este hombre nacido en Kumamoto aprendió a elaborar té rojo de joven, viajó específicamente a Hankou en China para aprender la técnica del té de ladrillo, e incluso abrió una tienda de té en Siberia. Sin embargo, la Revolución de Octubre en Rusia en 1917 cambió todo: la demanda de té rojo cayó drásticamente y el primer período de exportación de té rojo de Taiwán llegó a su fin.
 
-### Historia del Cultivo del Té
+El gobierno japonés no se rindió, decidiendo enfocar sus esfuerzos en el mercado europeo. Pero el té rojo de hojas pequeñas de Taiwán no tenía un sabor lo suficientemente fuerte como para adaptarse al estilo europeo dominado por Gran Bretaña (con azúcar y leche). En 1925, Mitsubishi importó plantas de té Assam de hojas grandas desde India, dando lugar al auténtico "té rojo de gran hoja".
 
-**Desarrollo Temprano**: Los pueblos indígenas de Taiwán tenían registros tempranos de utilización de árboles de té silvestres. **Introducción de la Dinastía Qing**: En 1855, Lin Feng-chi trajo plántulas de té oolong de Fujian para plantar en Lugu de Nantou, lanzando la industria del té de Taiwán. **Desarrollo del Té Baozhong**: En 1881, Wu Fu-yuan desarrolló métodos de producción de té baozhong en el área de Wenshan de Taipéi.
+**El giro llegó de forma inesperada.**
 
-**Período Japonés**: Promovió vigorosamente el cultivo de té, estableció fábricas de té modernas, con exportaciones a gran escala a Japón. **Mejora de Variedades**: Las estaciones experimentales cultivaron variedades de la serie de té taiwanés como Té de Taiwán No. 12 (Jin Xuan) y Té de Taiwán No. 13 (Cui Yu).
+## La era dorada inesperada: El pez que escapó de la red del tratado internacional
 
-### Principales Regiones de Té y Variedades
+En 1930, la producción mundial de té estaba en exceso y los precios del té rojo se desplomaron. India, Sri Lanka y otros países productores de té rojo firmaron el Tratado Internacional de Limitación de la Producción de Té, estableciendo cuotas de producción y exportación para 1933-1940.
 
-**Región de Té de Nantou**: Lugar de nacimiento del té Oolong Dong Ding, la Montaña Dong Ding del Municipio de Lugu a aproximadamente 700 metros de elevación con clima fresco y brumoso. **Región de Té de Alishan**: Té de alta montaña a 1000-1700 metros de elevación, produciendo hojas espesas y duraderas con aroma elegante.
+Pero Taiwán fue excluida del tratado: esta decisión que parecía marginarla resultó ser la mayor oportunidad para la industria del té de Taiwán.
 
-**Región de Té de Lishan**: Región de té de altitud ultra alta por encima de 2000 metros, donde grandes diferencias de temperatura día-noche crean sabores únicos. **Región de Té de Wenshan**: Hogar del té baozhong, ubicada en áreas montañosas del sur de Taipéi, caracterizada por té verde aromático ligero.
+**Mientras otros países productores de té se veían obligados a reducir su producción, Taiwán podía darlo todo.**
 
-**Té Oriental Beauty**: Producido en áreas montañosas de Hsinchu y Miaoli, desarrolla fragancia de miel por picaduras de cigarritas verdes, también conocido como Oolong White Tip. **Té Tieguanyin**: Producido principalmente en el área de Muzha, con aroma tostado distintivo.
+El llamado "defensor del té rojo de Taiwán", Shokichi Arai, llegó a Yuchi en 1936 y fundó el Instituto Experimental de Té Rojo de Yuchi del Academia Sinica. Construyó una fábrica de elaboración de té a gran escala inspirada en las fábricas de Sri Lanka, alcanzando la mayor superficie de cultivo de té rojo en la historia: 3.000 hectáreas.
 
-### Artesanía de Producción del Té
+Durante este período, Yuchi se convirtió en la cuna del té rojo de Taiwán. Además de Yuchi, Hsinchu también se convirtió en un centro importante de producción de té rojo.
 
-**Método del Té Oolong**: Usa proceso de fermentación parcial incluyendo pasos de marchitamiento, enrollado, kill-green, amasado y secado. **Técnica de Enrollado**: Clave para la producción de té oolong, promoviendo la fermentación a través de sacudida y reposo.
+## Del exterior al interior: El punto de inflexión de 1975
 
-**Tecnología de Tostado**: Variedades de té como el Tieguanyin de Muzha requieren artesanía especial de tostado para desarrollar aroma tostado único. **Té Artesanal**: Los maestros tradicionales del té controlan cada proceso a través de la experiencia, representando la esencia de la artesanía de elaboración del té.
+1975 fue un año decisivo para la industria del té en Taiwán. La crisis energética mundial y la apreciación del dólar taiwanés interrumpieron las exportaciones de té. La Oficina de Asuntos Agrícolas comenzó a reflexionar: ¿cómo podrían los taiwaneses beber té por sí mismos?
 
-**Producción Mecanizada**: Las fábricas de té modernas introducen maquinaria de elaboración de té para aumentar la producción y estabilizar la calidad. **Cultivo Orgánico**: Promoviendo la certificación de jardines de té orgánicos, reduciendo el uso de pesticidas para proteger el medio ambiente.
+**En aquella época, los taiwaneses no bebían mucho té.**
 
-### Cultura Tradicional de la Ceremonia del Té
+Las bebidas gaseosas y el café se habían convertido en bebidas populares antes que el té. Solo las personas adineradas tenían costumbre de beber té. La Oficina de Asuntos Agrícolas decidió promover el té desde el punto de vista de la salud, descubriendo estudios extranjeros que mostraban que el té era más saludable que el café. En 1975 organizaron una conferencia de prensa para promover la relación entre el té y la salud.
 
-**Ceremonia del Té Gongfu**: Heredando las tradiciones del té gongfu de Minnan, enfatizando la calidad del agua, utensilios de té y técnicas de preparación. **Cultura de Utensilios de Té**: Teteras de arcilla de Yixing, tazas de porcelana, bandejas de té de bambú tienen consideraciones específicas.
+Ese mismo año, se celebró la primera competencia de té desde la recuperación de Taiwán: la competencia de té Baozhong en Xinbei. Meishan comenzó a cultivar té de montaña alta. En 1982, se eliminaron las regulaciones de elaboración del té, permitiendo que los agricultores taiwaneses pudieran "producir, elaborar y vender" por sí mismos.
 
-**Etiqueta de Degustación de Té**: Incluye procedimientos como calentar teteras, despertar el té, preparar y servir té, encarnando el espíritu de la ceremonia del té. **Actuación de Arte del Té**: Presentando artísticamente las técnicas de preparación como actuación cultural.
+**Las competencias y la proliferación de marcas impulsaron un rápido avance en la técnica de elaboración del té oolong de Taiwán.**
 
-**Diseño de Ambiente de Té**: Combinando elementos como arreglo floral, ceremonia de incienso y música de guqin para crear experiencias estéticas completas. **Educación de Cultura del Té**: Cursos de ceremonia del té y clubes de té promueven la cultura tradicional del té.
+En la década de 1980, la bolsa de valores de Taiwán superó las 10.000 puntos, entrando en la era de "dinero hasta los codos". Los centros de té se abrieron como bambú despuntado después de la lluvia, convirtiéndose en lugares para jugar cartas, reunirse y conocer gente. El té de Zhihui en Taipéi y la tienda de té Yanghsiao en Taichung (predecesora de Spring Water Pavilion) nacieron en esta época.
 
-### Cultura Moderna del Té de Burbujas
+## La revolución de bebidas frías: Del té rojo con espuma al té de leche con bolitas
 
-**Orígenes del Té con Leche de Perlas**: En la década de 1980, Liu Han-chieh de Chun Shui Tang inventó el té con leche de perlas, combinando té, leche y perlas de tapioca en una bebida innovadora. **Desarrollo del Té de Burbujas**: Evolucionó de tiendas tradicionales de té de burbujas a tiendas modernas de té de burbujas en cadena.
+En 1983, un experimento cambió la cultura del té en Taiwán.
 
-**Elementos Innovadores**: Añadiendo varios toppings como perlas, gelatina de coco, pudín, gelatina de hierba para crear texturas diversas. **Selección de Base de Té**: Usando tés taiwaneses como oolong y baozhong como bases de té de burbujas.
+El fundador de Spring Water Pavilion, Liu Hanjie, vio la técnica de elaborar café con hielo en Japón. Durante el verano, pidió a los empleados que añadieran hielo al té, pero le dijeron: "¡Nadie bebe té frío!"
 
-**Servicio de Personalización**: Niveles ajustables de dulzor y hielo para satisfacer diferentes preferencias del consumidor. **Especiales de Temporada**: Introduciendo sabores innovadores por temporada, como bebidas calientes en invierno y tés de frutas en verano.
+De vuelta en Taiwán, Liu Hanjie compró una jarra de mezcla (un vaso de hielo), vertió té, azúcar y hielo y lo agitó. El té a 4°C entró por la boca, el aroma del té rojo se intensificaba, y la espuma densa añadía textura: nació el "té rojo con espuma".
 
-### Desarrollo de la Industria del Té de Burbujas
+**Pero la verdadera revolución aún estaba por venir.**
 
-**Franquicia de Marca**: Marcas en cadena como 50 Lan, CoCo y Qingxin Fuquan se expandieron rápidamente. **Operaciones Internacionales**: Las marcas taiwanesas de té de burbujas entraron en mercados extranjeros en el Sudeste Asiático, Europa y América.
+En 1987, Lin Xiuxue, directora de la tienda Spring Water Pavilion en aquella época, intentó añadir "bolitas de té" a su té de leche frío durante el trabajo. La combinación de este alimento popular entre el pueblo taiwanés con el rico té de leche no solo rompió las barreras entre "bebidas" y "comida", sino que recibió excelentes comentarios de los clientes tras su prueba.
 
-**Innovación Tecnológica**: Equipos automatizados y procedimientos operativos estandarizados aseguran la consistencia de calidad. **Cadena de Suministro**: Estableciendo sistemas de suministro completos desde hojas de té e ingredientes hasta materiales de embalaje.
+**La proporción mágica de Spring Water Pavilion "7:2:1" (té, hielo, espuma) se convirtió en la receta estándar del té de leche con bolitas.**
 
-**Competencia Intensa**: La saturación del mercado lleva a competencia feroz, haciendo crucial la diferenciación de marca. **Marcas Emergentes**: Nuevas marcas entran continuamente al mercado, trayendo productos innovadores y modelos de marketing.
+Curiosamente, el té de leche con bolitas también fue claimado por el té de Hanlin en Tainan, y ambas partes se enfrentaron en los tribunales durante diez años. El juez finalmente determinó que el té de leche con bolitas era una bebida novedosa y no estaba sujeta a patentes, por lo que no era necesario discutir quién era el verdadero creador.
 
-### Situación Actual de la Industria del Té
+## El imperio detrás de las cifras
 
-**Desarrollo de Té Premium**: Creciente demanda del mercado de té de alta gama, con agricultores de té invirtiendo en producción de té premium. **Trazabilidad de Producción**: Promoviendo sistemas de trazabilidad de producción de té para mejorar la confianza del consumidor.
+Hoy en día, la industria del té de leche frío de Taiwán es impresionante:
 
-**Certificación del Té**: Mecanismos de garantía de calidad como la certificación de origen del té taiwanés y certificación orgánica. **Turismo del Té**: Combinando el desarrollo turístico con experiencias de jardines de té y actividades DIY de elaboración de té.
+- **Ingresos de 2024: 13.313 millones de dólares taiwaneses**, un récord histórico
+- **Número total de tiendas de té de leche frío en Taiwán: 16.070**, representando el 57% de todas las tiendas de bebidas del país
+- **Velocidad de apertura: 40 nuevas tiendas al mes en promedio**
+- **Consumo anual por persona en Taiwán: aproximadamente 107.5 millones de tazas** (calculado a 50 dólares taiwaneses por taza)
 
-**Ventas de Comercio Electrónico**: Las plataformas en línea se convierten en canales importantes de venta de té, conectando directamente productores con consumidores. **Integración Creativa Cultural**: Desarrollando valor añadido a través del diseño de embalaje de té y productos creativos culturales de utensilios de té.
+**Las personas en Taichung consumen especialmente mucho té de leche frío: comparado con su población real, su consumo es notablemente superior a la proporción.**
 
-### Influencia Internacional y Desafíos
+Desde el punto de vista de género, en todas las edades, las mujeres consumen más que los hombres, especialmente entre las mujeres de 25-34 años que representan alrededor del 20% del consumo total. En cuanto a preferencias de dulzura, más de la mitad de los consumidores eligen azúcar ligera, seguido de azúcar cero (39.7%).
 
-**Fiebre Global del Té con Leche de Perlas**: Las marcas taiwanesas de té de burbujas se expanden globalmente, con el té con leche de perlas convirtiéndose en famoso internacionalmente. **Exportación Cultural**: Promoviendo la cultura del té y estilo de vida taiwanés a través del té de burbujas.
+## Conquista mundial: De Taichung al mundo
 
-**Protección de Marca**: Enfrentando desafíos de marcas imitadoras, requiriendo protección reforzada de propiedad intelectual. **Desarrollo Sostenible**: Abordando preocupaciones ambientales, promoviendo vasos reciclables y embalaje reducido de plástico.
+El té de leche con bolitas de Spring Water Pavilion vende más de 2 millones de tazas al año. Pero más importante, esta taza de té de leche con "pequeños bocados" se ha convertido en la influencia blanda con la que Taiwán conquista al mundo.
 
-**Tendencias de Salud**: Respondiendo a la creciente conciencia de salud desarrollando productos bajos en azúcar, sin azúcar y de ingredientes naturales. **Innovación Continua**: Manteniendo el equilibrio entre tradición e innovación para continuar la vitalidad de la cultura del té.
+**En 2020, Taiwán contaba con más de 15.000 tiendas de té de leche frío, siendo la región con mayor densidad del mundo.**
 
-## Valor Cultural
+Marcas taiwanesas de té de leche frío como Yi Lai Zhen,CoCo y Qingxin Fuxuan se expandieron rápidamente al extranjero, entrando en mercados del sureste asiático, Europa y América. El té de leche con bolitas no solo es la obra maestra perdurable de Spring Water Pavilion, sino también un hito importante para promover la cultura del té a nivel mundial.
 
-La cultura del té de Taiwán demuestra la fusión perfecta de tradición y modernidad, preservando la profunda herencia cultural de la ceremonia del té mientras crea la cultura del té de burbujas popularizada globalmente. Esta capacidad de innovación cultural refleja la vitalidad y creatividad de la sociedad taiwanesa, haciendo de la cultura del té de Taiwán una ventana importante para el entendimiento internacional de Taiwán.
+El mercado global de té de leche frío alcanzó los 1.140 millones de dólares en la región Asia-Pacífico en 2024, con Vietnam y Taiwán teniendo las mayores ventas previstas. El mercado de China ha crecido casi cinco veces desde principios de la década de 2020.
 
-## Lectura Adicional
+## De Formosa Oolong a Bubble Tea
 
-- [Té de Taiwán - Wikipedia](https://en.wikipedia.org/wiki/Taiwan_tea)
-- [Asociación del Té de Taiwán](https://www.teataiwan.org/)
+Mirando hacia atrás a lo largo de 150 años de historia del té, la cultura del té en Taiwán ha demostrado una increíble capacidad de adaptación e innovación.
 
-## Temas Relacionados
+En 1869, el comerciante británico John Dodd trasladó 210.000 libras de "Formosa Oolong" desde el puerto de Dadaocheng a Nueva York. En aquella época, nadie podría haber imaginado que esta hermosa isla llamada "Formosa", conquistaría al mundo con una taza de té de leche con bolitas un siglo después.
 
-- [taiwanese-street-food](/es/food/taiwanese-street-food)
-- [ethnic-groups](/es/culture/ethnic-groups)
-- [economic-miracle](/es/economy/economic-miracle)
-- [convenience-store-culture](/es/lifestyle/convenience-store-culture)
+**La verdadera sostenibilidad no radica en adherirse ciegamente a la tradición, sino en redefinir constantemente el significado de la tradición.**
+
+El secreto del éxito de la cultura del té en Taiwán quizás esté en esta filosofía de "mantener el núcleo, flexibilizar los límites". Desde el tradicional té de gongfu hasta la moderna cultura de té de leche frío, desde "Formosa Oolong" hasta "Bubble Tea", Taiwán siempre ha encontrado el equilibrio entre tradición e innovación.
+
+Esto no es solo la historia de una taza de té, sino también la historia de cómo una isla ha mantenido su identidad cultural en medio de la ola de globalización, al mismo tiempo que ha conquistado al mundo con innovación.
+
+## Fuentes de imágenes
+
+- Hero: Envase de té oolong "Formosa" de Jacksons of Piccadilly en Londres, fotografía de Joost J. Bakker IJmuiden, [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Jacksons_of_Piccadilly_Formosa_Oolong_Tea_(51878727206).jpg>), CC BY 2.0。
+
+## Referencias
+
+- [Contexto histórico del té en Taiwán - Tea College](https://teatalkacademy.com/celebrities/13-tang-jia-hong/152-c3offee2019-05)
+- [La invención del té de leche con bolitas - Sitio web oficial de Spring Water Pavilion](https://www.chunshuitang.com.tw/article-detail/invent-bubble-milk-tea/)
+- [La ola de té de leche frío: Revelando los datos detrás de toda Taiwán - LnData](https://lndatatech.github.io/taiwan-drink/)
+- [Testigos del resplandor del "oro del té" en la transformación económica de Taiwán - Agricultura y medios de comunicación](https://www.agriharvest.tw/archives/70760)
+- [Té de Taiwán - Wikipedia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E8%8C%B6%E8%91%89)
+
+## Temas relacionados
+
+- [Comida taiwanesa](/es/food/taiwanese-street-food)
+
+```
+
+```
