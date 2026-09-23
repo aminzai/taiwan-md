@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-24T05:12:09+08:00",
-    "zhCommitHead": "f180c8c0d",
+    "lastUpdated": "2026-09-24T05:53:24+08:00",
+    "zhCommitHead": "9e6b5dcd9",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1056,
+        "fresh": 1057,
         "stale": 22,
         "metadata_stale": 1,
-        "missing": 45,
+        "missing": 44,
         "orphan": 0
       },
       "de": {
@@ -78153,8 +78153,8 @@
           "sourceContentHash": "sha256:5bb8aa1310e6a60e",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-23T20:08:01.710846+00:00",
-          "translationLastCommit": "f315df05",
-          "translationLastModified": "2026-09-24T01:09:31+08:00",
+          "translationLastCommit": "f1d9c5b0",
+          "translationLastModified": "2026-09-24T05:12:09+08:00",
           "inferred": false,
           "footnoteDefs": 85,
           "bytes": 98253,
@@ -104027,7 +104027,20 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/puma-shen.md",
+          "translatedFrom": "People/沈伯洋.md",
+          "sourceCommitSha": "e1b5668ad",
+          "sourceContentHash": "sha256:b525186aeb276e8e",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-23T21:25:57.252848+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 68,
+          "bytes": 129011,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/People/puma-shen.md",
@@ -151603,8 +151616,8 @@
           "sourceContentHash": "sha256:83fd36c7a8a59ff5",
           "sourceBodyHash": "sha256:a8b22a0fba5539c1",
           "translatedAt": "2026-09-23T22:11:48+08:00",
-          "translationLastCommit": "5f8252f9",
-          "translationLastModified": "2026-09-22T01:05:42+08:00",
+          "translationLastCommit": "f1d9c5b0",
+          "translationLastModified": "2026-09-24T05:12:09+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 10247,
@@ -163048,8 +163061,8 @@
           "sourceContentHash": "sha256:86fb5241b5393f5b",
           "sourceBodyHash": "sha256:add135df68f1784c",
           "translatedAt": "2026-09-23T22:11:48+08:00",
-          "translationLastCommit": "5f8252f9",
-          "translationLastModified": "2026-09-22T01:05:42+08:00",
+          "translationLastCommit": "f1d9c5b0",
+          "translationLastModified": "2026-09-24T05:12:09+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 12195,
@@ -184832,15 +184845,15 @@
         "fr": {
           "path": "fr/Geography/new-taipei-city.md",
           "translatedFrom": "Geography/新北市.md",
-          "sourceCommitSha": "e974b4c9",
-          "sourceContentHash": "sha256:112ba1c658fb3b9a",
-          "sourceBodyHash": "sha256:8f043620c961da1e",
-          "translatedAt": "2026-05-19T05:08:07+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:7893a2743008a706",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-23T21:04:15.072607+00:00",
           "translationLastCommit": "74349bb6",
           "translationLastModified": "2026-09-24T01:05:06+08:00",
           "inferred": false,
           "footnoteDefs": 31,
-          "bytes": 85859,
+          "bytes": 87651,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
