@@ -29,7 +29,7 @@ readingTime: 18
 researchReport: reports/research/2026-05/新北市.md
 series: 'Loạt 22 tỉnh thành'
 translatedFrom: 'Geography/新北市.md'
-sourceCommitSha: '4aa49c873'
+sourceCommitSha: 'e974b4c9'
 sourceContentHash: 'sha256:112ba1c658fb3b9a'
 sourceBodyHash: 'sha256:8f043620c961da1e'
 translatedAt: '2026-08-09T11:16:34+08:00'

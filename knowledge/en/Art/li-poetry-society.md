@@ -24,8 +24,8 @@ featured: true
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:2016TIBE_D3_Wu_Sheng.jpg'
 translatedFrom: 'Art/笠詩社.md'
-sourceCommitSha: '65a87b489'
-sourceContentHash: 'sha256:89548c331e33bc3b'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:28d7ec6ba7695699'
 sourceBodyHash: 'sha256:a39fc5d7615c6869'
 translatedAt: '2026-07-24T10:40:41+08:00'
 image: '/article-images/art/li-poetry-wu-sheng-2016.webp'
@@ -152,7 +152,7 @@ He explained his reason for writing in Taiwanese Hokkien clearly in the same int
 
 Xiang Yang is currently the Chairman of the National Culture and Arts Foundation. From the junior college student who couldn’t sleep all night in 1976 to the person managing Taiwan’s highest-level public arts funding mechanism in 2024: a 50-year arc.
 
-The multilingual practice within the Li Poetry Society was never just "writing in Chinese." Jin Lien translated his Japanese poems into Chinese for publication in 2002; [[Tu Pan-fang-ko]] (a Hakka translingual female poet who joined later) compiled _Taiwanese Hokkien Poetry Selection_ in the 2000s,收录ing 24 poets[^40]; Xiang Yang wrote Taiwanese Hokkien poems in 1976: in the context of this poetry society, "local" was always defined within the tension of multilingualism.
+The multilingual practice within the Li Poetry Society was never just "writing in Chinese." Jin Lien translated his Japanese poems into Chinese for publication in 2002; [Du Pan Fang-ge](/en/people/tu-pan-fangke) (a Hakka translingual female poet who joined later) compiled _Taiwanese Hokkien Poetry Selection_ in the 2000s,收录ing 24 poets[^40]; Xiang Yang wrote Taiwanese Hokkien poems in 1976: in the context of this poetry society, "local" was always defined within the tension of multilingualism.
 
 ## Poetry Entered the Junior High School Textbook: Burden
 

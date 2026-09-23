@@ -9,8 +9,8 @@ readingTime: 6
 lastVerified: 2026-04-21
 lastHumanReview: false
 translatedFrom: 'Food/金牛角.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:c876a6c84ad1bc82'
+sourceCommitSha: '9cef725c'
+sourceContentHash: 'sha256:e6c1c2c1757905c0'
 sourceBodyHash: 'sha256:97ba5602057c57dc'
 translatedAt: '2026-05-01T18:09:43+08:00'
 featured: false

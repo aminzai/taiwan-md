@@ -29,8 +29,8 @@ rationale:
   where_it_hedges: '預算數字標「另一說」分歧；「97% 認同」明寫「設研院自述的線上問卷」並點出無樣本數；學美累計數字標官方自述；中山站後續高度調整標「據設研院說」；IASDR 論文作者全是 TDRI 人這點明寫不能當獨立評估。'
   whos_pushing_back: 'ARTouch（與民爭利／組織位階不明）、PDR Research（visions are not enough, need tangible metrics）、Ketagalan（公民仍覺得無法影響公共決策）、中山站 UX 負評讀者、聶永真 Taipower logo 爭議的質疑者、官僚體系內「設計難以納入標準化預算評估」的阻力。'
 translatedFrom: 'Society/台灣設計研究院.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:dc9a16af37eefe47'
+sourceCommitSha: 'fa44ba5a'
+sourceContentHash: 'sha256:68988284647ce5e2'
 sourceBodyHash: 'sha256:f7df18837078b48f'
 translatedAt: '2026-07-29T03:36:23+08:00'
 ---

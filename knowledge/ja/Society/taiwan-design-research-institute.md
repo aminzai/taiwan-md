@@ -20,8 +20,8 @@ lastVerified: 2026-06-04
 lastHumanReview: false
 featured: false
 translatedFrom: 'Society/台灣設計研究院.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:dc9a16af37eefe47'
+sourceCommitSha: 'fa44ba5a'
+sourceContentHash: 'sha256:68988284647ce5e2'
 sourceBodyHash: 'sha256:f7df18837078b48f'
 translatedAt: '2026-06-16T17:04:12Z'
 image: '/article-images/society/tdri-songshan-entrance-2022.webp'

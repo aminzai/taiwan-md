@@ -24,7 +24,7 @@ lastVerified: 2026-05-18
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/彰化縣.md'
-sourceCommitSha: '31a05c44'
+sourceCommitSha: 'e974b4c9'
 sourceContentHash: 'sha256:53588f1af78c53bd'
 sourceBodyHash: 'sha256:83c1d8ae2ebcca91'
 translatedAt: '2026-06-16T17:05:15Z'

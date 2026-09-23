@@ -3,7 +3,16 @@ title: 'Audrey Tang: Jede ihrer berühmten Entscheidungen war eine Ablehnung des
 description: 'Mit 8 wird sie von Mitschülern bewusstlos getreten, mit 14 lehnt sie die Empfehlung für die Jianguo-Oberschule ab, mit 24 outet sie sich als transgender, will aber keine Sprecherin sein, und mit 35 ist ihre erste Bedingung beim Amtsantritt „kein Büro“. 2020 ändert sie mitten in der Nacht mit Chiang Ming-tsung Code im g0v-Slack für die Maskenkarte; am 2. Dezember 2025 nimmt sie in Stockholm den Right Livelihood Award entgegen – alle erwarten ihre persönliche Geschichte, doch sie betont auf der Bühne nur das Wort „wir“. Die Welt sieht sie als Genie; jede ihrer berühmten Entscheidungen war eine Ablehnung dieser Position.'
 date: 2026-05-16
 category: 'People'
-tags: ['Person', 'Audrey Tang', 'Digitalministerin', 'g0v', 'Öffentlichkeit', 'Offene Daten', 'Taiwan']
+tags:
+  [
+    'Person',
+    'Audrey Tang',
+    'Digitalministerin',
+    'g0v',
+    'Öffentlichkeit',
+    'Offene Daten',
+    'Taiwan',
+  ]
 subcategory: '教育與社會'
 author: 'Taiwan.md'
 featured: true
@@ -15,8 +24,8 @@ imageAlt: 'Porträtfoto von Audrey Tang, im März 2016 in Paris aufgenommen; dun
 imageCredit: 'Camille McOuat (Flickr / Wikimedia Commons, CC BY 2.0)'
 curation: incubating
 translatedFrom: 'People/唐鳳.md'
-sourceCommitSha: '29ff6f481'
-sourceContentHash: 'sha256:97c9b6fe6c788bcc'
+sourceCommitSha: 'e75b621d'
+sourceContentHash: 'sha256:206ef87a54acbbf7'
 sourceBodyHash: 'sha256:223451ab2ee89544'
 translatedAt: '2026-09-09T00:55:00+08:00'
 ---
@@ -65,7 +74,6 @@ Ihre Mutter Li Ya-ching ging später nach Deutschland, um alternative Erziehung 
 Das war nicht die Wahl „Ich bin zu genial für die Schule“. Das war ein Kind, das mit acht gelernt hatte, sich zu verstecken, und mit vierzehn entschied: Dass man mich in die Schublade „Hochbegabte“ steckt, ist die Version, die ich nicht will.
 
 Sie hat es seither oft gesagt: „Ich glaube nicht, dass die moderne Welt noch etwas vom Genie versteht. Im Zeitalter des Internets ist eigentlich jeder Mensch mit einem IQ von 180.“[^9]
-
 
 ## Mit 24 änderte sie ihren Namen, lehnte es aber ab, Sprecherin der Transgemeinschaft zu sein
 
@@ -132,7 +140,7 @@ Sie stellte eine Gruppe von 20 Personen zusammen, die sie PDIS (Public Digital I
 2019 wurde sie in die Liste der hundert globalen Denker des _Foreign Policy_ (Kategorie Leserwahl) aufgenommen[^27]. Die Medien schrieben über sie als „die weltweit einzige offen transidente Ministerin“ und „Programmierstar“. In jedem Interview schiebt sie die Verdienste zurück – doch die Geschichte vom „Genie-Minister“ lässt sich leichter weitererzählen als ihre eigenen Worte.
 
 ![Audrey Tang beim Vortrag auf der digitalen Gesellschaftskonferenz re:publica in Berlin, Mai 2019](/article-images/people/audrey-tang-re-publica-2019.webp)
-_Audrey Tang mit Julia Kloiber beim Gespräch „Digital Social Innovation“ der re:publica am 8. Mai 2019 in Berlin. Foto: Jan Michalko. [CC BY-SA 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Re_publica_19_-_Day_3_(32860400897).jpg)._
+_Audrey Tang mit Julia Kloiber beim Gespräch „Digital Social Innovation“ der re:publica am 8. Mai 2019 in Berlin. Foto: Jan Michalko. [CC BY-SA 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Re_publica_19_-_Day_3_(32860400897).jpg).\_
 
 ## Konservativer Anarchismus: Befehle ablehnen und es ablehnen, befehligt zu werden
 
@@ -209,7 +217,7 @@ Von jenem Kind von 1989, das in der Grundschule im Förderklassenraum getreten w
 Sie lehnt das Genie ab. Die Welt besteht darauf, sie als Genie zu behandeln. Doch sie hat diesem Streit nie den Sieg überlassen – nur die Welt braucht lange, um zu verstehen, wovon sie überhaupt spricht.
 
 ![Signature SVG von Audrey Tang, 2021 öffentlich freigegeben](/article-images/people/audrey-tang-signature.svg)
-_Signatur von Audrey Tang, im August 2021 öffentlich freigegeben, ursprünglich für die japanische Zeitschrift Bungeishunjū. Autorin: Audrey Tang selbst, [CC0 Public Domain](https://commons.wikimedia.org/wiki/File:Audrey_Tang_signature_(51385705516).svg)._
+_Signatur von Audrey Tang, im August 2021 öffentlich freigegeben, ursprünglich für die japanische Zeitschrift Bungeishunjū. Autorin: Audrey Tang selbst, [CC0 Public Domain](https://commons.wikimedia.org/wiki/File:Audrey_Tang_signature_(51385705516).svg).\_
 
 ---
 

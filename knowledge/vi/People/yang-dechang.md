@@ -24,8 +24,8 @@ imageCredit: '中央電影公司、新藝城影業（香港）／彭鎧立提供
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://www.tfam.museum/yiyiey'
 translatedFrom: 'People/楊德昌.md'
-sourceCommitSha: '58c351c43'
-sourceContentHash: 'sha256:890b13d8d8c67562'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:c2aa8f15ab2b1700'
 sourceBodyHash: 'sha256:7119ad62eb825546'
 translatedAt: '2026-07-28T08:51:46+08:00'
 ---

@@ -10,7 +10,7 @@ readingTime: 16
 lastVerified: 2026-04-28
 lastHumanReview: false
 translatedFrom: People/林良.md
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '9094012f'
 sourceContentHash: 'sha256:ff949a14cc54475a'
 sourceBodyHash: 'sha256:99fcaed64626278d'
 translatedAt: 2026-05-01T20:54:23+08:00

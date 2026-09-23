@@ -27,8 +27,8 @@ imageCredit: '石川 Shihchuan / Wikimedia Commons (CC BY-SA 2.0)'
 readingTime: 15
 relatedDiary: ['2026-06-24-153210-大安溪倚天劍-rewrite']
 translatedFrom: 'Nature/大安溪倚天劍.md'
-sourceCommitSha: 'ff92f3866'
-sourceContentHash: 'sha256:3ee4be522cff1a4e'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:d645338641d89664'
 sourceBodyHash: 'sha256:5dcfd938f21ea513'
 translatedAt: '2026-07-28T19:24:14+08:00'
 ---

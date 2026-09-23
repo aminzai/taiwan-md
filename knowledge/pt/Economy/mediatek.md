@@ -20,8 +20,8 @@ lastHumanReview: false
 readingTime: 10
 curation: 'incubating'
 translatedFrom: 'Economy/台灣企業：聯發科技.md'
-sourceCommitSha: '69b3afd91'
-sourceContentHash: 'sha256:b0c668da71eb8f7b'
+sourceCommitSha: '0df538d8'
+sourceContentHash: 'sha256:8e1984eacca56325'
 sourceBodyHash: 'sha256:bda6180b6fe80c7a'
 translatedAt: '2026-08-04T17:42:35+08:00'
 ---

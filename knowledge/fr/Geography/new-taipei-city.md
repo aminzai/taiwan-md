@@ -27,7 +27,7 @@ lastVerified: 2026-05-18
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/新北市.md'
-sourceCommitSha: '4aa49c873'
+sourceCommitSha: 'e974b4c9'
 sourceContentHash: 'sha256:112ba1c658fb3b9a'
 sourceBodyHash: 'sha256:8f043620c961da1e'
 translatedAt: '2026-05-19T05:08:07+08:00'

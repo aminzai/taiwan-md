@@ -23,8 +23,8 @@ imageLicense: 'Public Domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Yushan_Weather_Station.jpg'
 curation: incubating
 translatedFrom: 'Geography/玉山氣象站.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:309501697091bfd3'
+sourceCommitSha: '4f3974f8'
+sourceContentHash: 'sha256:c2ed56f9f5f0e381'
 sourceBodyHash: 'sha256:522eab501e4df7fe'
 translatedAt: '2026-09-09T15:32:33+08:00'
 ---

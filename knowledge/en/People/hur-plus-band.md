@@ -1,7 +1,7 @@
 ---
 translatedFrom: 'People/HUR-plus.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:f585a86608bf6a28'
+sourceCommitSha: '9cef725c'
+sourceContentHash: 'sha256:7b6f1e2f33e3f99d'
 sourceBodyHash: 'sha256:396a9fed148c94a2'
 translatedAt: '2026-05-01T12:21:52+08:00'
 title: 'HUR+: From DD52 Runners-Up to Zepp New Taipei — A Nine-Member Girl Group That Never Stopped'

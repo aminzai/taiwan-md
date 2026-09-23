@@ -10,8 +10,8 @@ author: 'Taiwan.md'
 readingTime: 10
 featured: false
 translatedFrom: 'People/陳樹菊.md'
-sourceCommitSha: 'd6e87d07'
-sourceContentHash: 'sha256:884e3106e00c3ed4'
+sourceCommitSha: '2344309a'
+sourceContentHash: 'sha256:2acd1adc35abda8a'
 sourceBodyHash: 'sha256:0e9eced4546d8cba'
 translatedAt: '2026-05-17T06:30:00Z'
 lastVerified: 2026-05-16

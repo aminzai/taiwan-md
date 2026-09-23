@@ -28,7 +28,7 @@ readingTime: 15
 researchReport: 'reports/research/2026-05/澎湖縣.md'
 series: '22 縣市系列'
 translatedFrom: 'Geography/澎湖縣.md'
-sourceCommitSha: 'dd6cd0156'
+sourceCommitSha: 'e974b4c9'
 sourceContentHash: 'sha256:e10092be60773ede'
 sourceBodyHash: 'sha256:d8c2fdecefda4ce7'
 translatedAt: '2026-08-01T23:08:40+08:00'

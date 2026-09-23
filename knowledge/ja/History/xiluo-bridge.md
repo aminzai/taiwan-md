@@ -17,8 +17,8 @@ rationale:
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'History/西螺大橋.md'
-sourceCommitSha: '13c7fbcdb'
-sourceContentHash: 'sha256:7b2e3a974f8b4cf7'
+sourceCommitSha: '4f3974f8'
+sourceContentHash: 'sha256:902179e6f5db87f0'
 sourceBodyHash: 'sha256:0367fe0da1bfd005'
 translatedAt: '2026-09-18T00:52:59+08:00'
 ---

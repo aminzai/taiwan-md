@@ -1,6 +1,6 @@
 ---
 translatedFrom: 'Music/閃靈.md'
-sourceCommitSha: '087677fa'
+sourceCommitSha: 'e974b4c9'
 sourceContentHash: 'sha256:428539ef61aee065'
 sourceBodyHash: 'sha256:ca8382bb6533d023'
 translatedAt: '2026-07-23T14:00:00+08:00'

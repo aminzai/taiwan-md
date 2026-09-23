@@ -23,8 +23,8 @@ lastVerified: 2026-05-16
 lastHumanReview: true
 featured: true
 translatedFrom: 'People/唐鳳.md'
-sourceCommitSha: '3f1cf835'
-sourceContentHash: 'sha256:ab17987177c234a0'
+sourceCommitSha: 'e75b621d'
+sourceContentHash: 'sha256:206ef87a54acbbf7'
 sourceBodyHash: 'sha256:223451ab2ee89544'
 translatedAt: '2026-06-16T17:15:00Z'
 image: '/article-images/people/audrey-tang-portrait-2016.webp'

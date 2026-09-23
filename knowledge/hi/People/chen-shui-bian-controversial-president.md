@@ -21,8 +21,8 @@ lastVerified: '2026-04-29'
 lastHumanReview: 'false'
 featured: false
 translatedFrom: 'People/陳水扁.md'
-sourceCommitSha: 'eae11d139'
-sourceContentHash: 'sha256:9e6735e344733c2b'
+sourceCommitSha: '1389f8ce'
+sourceContentHash: 'sha256:f51e056dbe61a84c'
 sourceBodyHash: 'sha256:be5f4cfa04f53c22'
 translatedAt: '2026-07-24T20:56:16+08:00'
 ---

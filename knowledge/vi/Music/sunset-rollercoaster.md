@@ -33,7 +33,7 @@ sporeLinks:
     date: '2026-05-27'
     url: 'https://x.com/taiwandotmd/status/2059577645722210476'
 translatedFrom: 'Music/落日飛車.md'
-sourceCommitSha: 'dd39065b2'
+sourceCommitSha: 'e974b4c9'
 sourceContentHash: 'sha256:a199eb8f6aa7f0fc'
 sourceBodyHash: 'sha256:2680b892b33ad9fa'
 translatedAt: '2026-08-09T11:16:34+08:00'

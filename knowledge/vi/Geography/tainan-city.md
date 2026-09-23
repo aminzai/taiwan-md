@@ -35,7 +35,7 @@ readingTime: 18
 researchReport: reports/research/2026-05/台南市.md
 series: '22 Huyện Thị loạt phim（batch 4）'
 translatedFrom: 'Geography/台南市.md'
-sourceCommitSha: '925aca59e'
+sourceCommitSha: 'e974b4c9'
 sourceContentHash: 'sha256:a92ec79c444536b4'
 sourceBodyHash: 'sha256:2dcae5a0df1cbb16'
 translatedAt: '2026-08-09T11:16:34+08:00'

@@ -35,7 +35,7 @@ sporeLinks:
     date: '2026-07-27'
     url: 'https://x.com/taiwandotmd/status/2081744559860818133'
 translatedFrom: 'Society/苯駢芘食安事件.md'
-sourceCommitSha: '21298a7ae4c'
+sourceCommitSha: '69b3afd9'
 sourceContentHash: 'sha256:da39db3f5bf79f35'
 sourceBodyHash: 'sha256:03c7ddf0f1c105ec'
 translatedAt: '2026-07-31T15:18:10Z'

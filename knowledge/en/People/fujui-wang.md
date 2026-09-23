@@ -23,8 +23,8 @@ imageCredit: '就在藝術空間 Project Fulfill Art Space'
 imageLicense: "Fair use (editorial commentary on artist's work)"
 imageSource: 'https://www.projectfulfill.com/wang-fujui-295793111929790.html'
 translatedFrom: 'People/王福瑞.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:59c2d496972724a5'
+sourceCommitSha: 'c5877264'
+sourceContentHash: 'sha256:73a411edb3bee540'
 sourceBodyHash: 'sha256:4ab6cbf6e5c250a3'
 translatedAt: '2026-06-16T17:15:54Z'
 ---

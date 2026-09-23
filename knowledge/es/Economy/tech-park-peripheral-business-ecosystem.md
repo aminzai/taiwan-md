@@ -19,8 +19,8 @@ lastVerified: 2026-05-18
 lastHumanReview: true
 featured: false
 translatedFrom: 'Economy/台灣科技園區外圍商圈生態.md'
-sourceCommitSha: 'a48fafec'
-sourceContentHash: 'sha256:65e816ddedfe54f1'
+sourceCommitSha: '7255b3ab'
+sourceContentHash: 'sha256:0aa215792db0c157'
 sourceBodyHash: 'sha256:abefead0dde8fee7'
 translatedAt: '2026-05-19T05:08:07+08:00'
 difficulty: 'intermediate'

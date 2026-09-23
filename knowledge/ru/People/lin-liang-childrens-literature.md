@@ -20,7 +20,7 @@ lastVerified: 2026-04-28
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/林良.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '9094012f'
 sourceContentHash: 'sha256:ff949a14cc54475a'
 sourceBodyHash: 'sha256:99fcaed64626278d'
 translatedAt: '2026-07-25T18:48:06+08:00'

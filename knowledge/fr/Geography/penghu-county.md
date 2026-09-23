@@ -26,9 +26,9 @@ lastVerified: 2026-05-18
 lastHumanReview: false
 featured: false
 translatedFrom: Geography/澎湖縣.md
-sourceCommitSha: dd6cd0156
-sourceContentHash: sha256:e10092be60773ede
-sourceBodyHash: sha256:d8c2fdecefda4ce7
+sourceCommitSha: 'e974b4c9'
+sourceContentHash: 'sha256:e10092be60773ede'
+sourceBodyHash: 'sha256:d8c2fdecefda4ce7'
 translatedAt: 2026-06-07T02:26:08+08:00
 ---
 

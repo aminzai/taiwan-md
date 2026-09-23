@@ -12,7 +12,7 @@ featured: false
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:TWShiLinNightMarketRichy2.jpg'
 translatedFrom: 'Culture/台灣聲景.md'
-sourceCommitSha: '8b61d368'
+sourceCommitSha: 'e974b4c9'
 sourceContentHash: 'sha256:819a7ee143f7b981'
 sourceBodyHash: 'sha256:efd1cd3b8e9f03d6'
 translatedAt: '2026-06-27T00:54:19+08:00'

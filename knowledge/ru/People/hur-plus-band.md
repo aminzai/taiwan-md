@@ -23,8 +23,8 @@ lastVerified: 2026-04-23
 lastHumanReview: false
 readingTime: 14
 translatedFrom: 'People/HUR-plus.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:f585a86608bf6a28'
+sourceCommitSha: '9cef725c'
+sourceContentHash: 'sha256:7b6f1e2f33e3f99d'
 sourceBodyHash: 'sha256:396a9fed148c94a2'
 translatedAt: '2026-07-26T14:23:34+08:00'
 ---

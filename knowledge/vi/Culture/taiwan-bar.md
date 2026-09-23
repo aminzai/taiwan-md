@@ -20,8 +20,8 @@ lastVerified: 2026-06-28
 lastHumanReview: false
 readingTime: 25
 translatedFrom: 'Culture/台灣吧.md'
-sourceCommitSha: '70c09b92f'
-sourceContentHash: 'sha256:309485da1048c534'
+sourceCommitSha: '69b3afd9'
+sourceContentHash: 'sha256:ea660a4477ab8648'
 sourceBodyHash: 'sha256:ab22f8e268664ba4'
 translatedAt: '2026-07-28T08:51:46+08:00'
 ---

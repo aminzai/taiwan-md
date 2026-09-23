@@ -24,8 +24,8 @@ featured: true
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:2016TIBE_D3_Wu_Sheng.jpg'
 translatedFrom: 'Art/笠詩社.md'
-sourceCommitSha: '65a87b489'
-sourceContentHash: 'sha256:89548c331e33bc3b'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:28d7ec6ba7695699'
 sourceBodyHash: 'sha256:a39fc5d7615c6869'
 translatedAt: '2026-07-24T10:40:42+08:00'
 image: '/article-images/art/li-poetry-wu-sheng-2016.webp'
@@ -154,7 +154,7 @@ La raison pour laquelle il écrivait des poèmes en dialecte taïwanais, il le d
 
 Xiang Yang est actuellement président de la Fondation nationale pour la culture et les arts. De l'étudiant de troisième année qui ne dormait pas de toute la nuit en 1976 à celui qui gère en 2024 le mécanisme de subvention le plus important du secteur public des arts de Taïwan : un arc de 50 ans.
 
-La pratique multilingue au sein de la Société Li n'a jamais été aussi simple que « l'écriture en chinois ». Jin Lian traduisit lui-même ses poèmes en japonais en 2002 pour les publier, [[Du Panfangge]] (la poétesse hakka translingue qui rejoignit plus tard) édita _Anthologie de la poésie en dialecte hakka de Taïwan_ dans les années 2000, recueillant 24 poètes[^40], Xiang Yang écrivit des poèmes en dialecte taïwanais en 1976 : dans le contexte de cette société poétique, le « local » fut toujours défini dans la tension du multilinguisme.
+La pratique multilingue au sein de la Société Li n'a jamais été aussi simple que « l'écriture en chinois ». Jin Lian traduisit lui-même ses poèmes en japonais en 2002 pour les publier, [Du Pan Fang-ge](/fr/people/tu-pan-fangke) (la poétesse hakka translingue qui rejoignit plus tard) édita _Anthologie de la poésie en dialecte hakka de Taïwan_ dans les années 2000, recueillant 24 poètes[^40], Xiang Yang écrivit des poèmes en dialecte taïwanais en 1976 : dans le contexte de cette société poétique, le « local » fut toujours défini dans la tension du multilinguisme.
 
 ## La poésie entre dans le manuel scolaire du collège : Charge
 
@@ -257,7 +257,7 @@ La Société Li n'a pas cessé de paraître pendant 60 ans. Taiwan.md fait que d
 - [Littérature d'après-guerre à Taïwan](/fr/art/postwar-taiwanese-literature) — Le mutisme, l'emprisonnement, le chemin du débat des romanciers comme Ye Shitao et Chen Yingzhen ; les poètes de la Société Li sont de la même génération
 - [Histoire de la littérature taïwanaise](/fr/art/history-of-taiwanese-literature) — Hub du contexte complet de l'histoire de la littérature taïwanaise
 - [Littérature de la période coloniale japonaise](/fr/art/taiwanese-literature-during-japanese-rule) — Le contexte de croissance de la génération translingue de la Société Li
-- [Du Panfangge](/fr/people/tu-pan-fangke) — Poétesse hakka translingue ayant rejoint la Société en 1965 ; _Piège de sécurité_ et la ligne de poésie en dialecte hakka
+- [Du Pan Fang-ge](/fr/people/tu-pan-fangke) — Poétesse hakka translingue ayant rejoint la Société en 1965 ; _Piège de sécurité_ et la ligne de poésie en dialecte hakka
 
 ## Sources d'images
 

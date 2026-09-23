@@ -19,7 +19,7 @@ featured: false
 lastVerified: 2026-04-26
 lastHumanReview: false
 translatedFrom: 'Nature/櫻花鉤吻鮭.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'f3161f53'
 sourceContentHash: 'sha256:9283c26216174046'
 sourceBodyHash: 'sha256:36625e315aaacf51'
 translatedAt: '2026-07-25T19:12:11+08:00'
