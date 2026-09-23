@@ -1,6 +1,7 @@
 ---
 title: 'Chen Tzu-jian (Retina) — Construyó un edificio de sátira sobre los escombros de los medios estatales y lo demolió él mismo en su apogeo'
 description: 'Desde la inspiración que encontró al ver el Boletín de Noticias de la CCTV durante una delegación de unificación en Fujian, hasta convertirse a los 23 años en el presentador de noticias del mediodía más joven en la historia de la CTS, pasando por la desactivación voluntaria de su canal con 1,21 millones de suscriptores, Chen Tzu-jian completó una década de deconstrucción antiautoritaria bajo el nombre de «Retina». Después de 2023, se trasladó a programas infantiles y juveniles de la PTS, presentando ¡Hola! ¿Puedo Preguntar? (nominado al 59.º Golden Bell) y Club de Detectives del Instituto Chengren S1 y S2 (nominado al 60.º Golden Bell en programa juvenil). Desde 2026, vive en Tokio durante un año junto a su perro Yuzu, mientras comparte «Retina News» y su aversión extrema al cilantro en IG y en su canal personal de YouTube.'
+date: 2026-04-20
 category: 'People'
 tags:
   [
@@ -16,16 +17,18 @@ tags:
     '¡Hola! ¿Puedo Preguntar?',
     'Estadía en Tokio',
   ]
-lastHumanReview: true
-translatedFrom: 'People/陳子見.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:b4ed377dcae75954'
-sourceBodyHash: 'sha256:5225e3163bb10fe2'
-translatedAt: '2026-05-01T20:54:23+08:00'
+subcategory: '數位與媒體'
 author: 'Taiwan.md'
-date: 2026-04-20
 featured: false
 lastVerified: 2026-01-01
+lastHumanReview: true
+summary: '台灣網路創作者、新聞主播、節目主持人。1994年5月8日生於南投縣水里鄉，畢業於南投縣立水里國民中學、國立大里高級中學、國立彰化師範大學國文系。自小夢想當主播。2015年與動眼神經等人創立《眼球中央電視台》，模仿央視官話嘲諷中華民國法統荒謬走紅。2018年3月5日至12月31日任華視午間新聞主播（23歲最年輕紀錄）。2023年5月31日在121萬訂閱、累計超過3億點閱巔峰停更。後主持公視《哈囉！你給問嗎？》（第59屆金鐘生活風格主持人入圍）、小公視《成仁高中偵探社》S1（2024-2025）與S2（2025年起，金鐘60少年節目入圍）。2026年3月點外送寫35行「不要香菜」備註爆紅；4月起帶愛犬柚子旅居東京一年。'
+coverImage: ''
+translatedFrom: 'People/陳子見.md'
+sourceCommitSha: '7255b3ab1'
+sourceContentHash: 'sha256:eb27407b6e235169'
+sourceBodyHash: 'sha256:0faeef3fdda7a842'
+translatedAt: '2026-09-23T02:28:26.967219+00:00'
 ---
 
 ## Panorama en 30 segundos
@@ -64,23 +67,21 @@ Chen Tzu-jian y la productora Nervio Óptico admitieron abiertamente en el video
 
 Además, durante el movimiento #MeToo en Taiwán en 2023, fue acosado sexualmente por una empleada: ella no solo lo abrazaba con frecuencia por la fuerza (incluyendo un «abrazo de oso de rodillas» durante un viaje de empleados en 2021), sino que también difundía rumores de que salían, se jactaba de su capacidad laboral y fabricaba todo tipo de escenas íntimas (tocar muslos, celos, miradas insinuantes de acostarse, espíritus de mayores, etc.), lo cual le resultaba insoportable. Reveló el asunto personalmente después de la pausa para protegerse. Tras la pausa, también reveló que había recibido dos ofertas de capital chino (incluyendo una oferta de 750.000 yuanes por la compra de la página de fans, con la intención de migrar el contenido a Douyin), pero las rechazó ambas porque «una sola colaboración comercial vale más que eso» y no tenía intención de vender. Cerrar el canal fue el precio necesario para recuperar su identidad personal y volver a sentir la calidez de la vida.[^6]
 
-## Transformación y vida personal tras la pausa
+## Transición y vida personal tras la suspensión
 
-Tras la pausa, Chen Tzu-jian se trasladó rápidamente al ámbito de la televisión tradicional y los videos cortos personales. Desde octubre de 2023 copresenta con Li Peiyu (Da Pei) el programa de la PTS ¡Hola! ¿Puedo Preguntar?, y fue nominado al premio de presentador de estilo de vida del 59.º Golden Bell con este programa. De agosto de 2024 a enero de 2025 presentó Club de Detectives del Instituto Chengren, el primer programa inmersivo de realidad y escape de la PTS Junior. Desde noviembre de 2025 continuó con S2 (mejorado a formato de eliminación de «batalla de supervivencia detectivesca», integrando elementos de escape room y juegos de misterio en cada episodio, abordando temas escolares como acoso sexual por abuso de poder, drogas y jerarquía entre alumnos mayores; con estrellas invitadas como Zhu Youcheng, Hu Shengming y Li Yilong, y él como presentador en el papel de «Hermano Mayor Jian»). El 17 de octubre de 2025, lideró al equipo en la alfombra roja del 60.º Golden Bell, y Club de Detectives del Instituto Chengren fue nominado al premio de programa juvenil.[^8]
+Tras suspender su actividad, Chen Tzu-jian se dedicó rápidamente a los medios de televisión tradicionales y al ámbito del video corto personal. A partir de octubre de 2023, presentó conjuntamente en CCTV _Hola, ¿me preguntas?_ con Li Pei-yu (Dapei), y este programa fue nominado para el premio Golden Bell como presentador de estilo de vida en la 59ª edición. De agosto a enero de 2024, presentó en CCTV su primer programa de realidad aumentada inmersiva titulado _Sociedad detectivesca del Colegio Cheng-in_, y a partir de noviembre de 2025 continuó con la S2 (mejorada a un formato de eliminación "Batalla de supervivencia deductiva", integrando elementos de juegos de escape y _murder mystery_ en cada episodio, explorando temas escolares como acoso sexual por jerarquía, drogas y el sistema de _senpai/kouhai_; invitando a figuras como Chu You-cheng, Hu Sheng-ming e Li Yi-long, quien presentó con el papel de "senior"), y el 17 de octubre de 2025, llevó al equipo a la alfombra roja del Golden Bell para la 60ª edición, donde _Sociedad detectivesca del Colegio Cheng-in_ fue nominado para el premio juvenil. [^8]
 
-Desde el 12 de julio de 2024, lanzó en Instagram «Escena de Noticias», editando temas de actualidad al estilo de subtítulos de noticias japonesas, frecuentemente acompañados de publicidad pagada. El 29 de septiembre de 2025 lanzó además el video vertical «Retina News». Al mismo tiempo, administra su canal personal de YouTube «La vida diaria de Retina y Yuzu», dedicado a compartir la vida cotidiana de su perro Yuzu (una shiba inu hembra, expresidenta de honor del Partido de la Incapacidad de Divertirse) y su aversión extrema al cilantro. En marzo de 2026, al pedir fideos de intestino grueso a domicilio, escribió 35 líneas de nota «sin cilantro» en el campo de observaciones, logrando que el dueño del local respondiera «en investigación», perpetuando así su símbolo cultural. Desde abril de 2026, vive en Tokio durante un año junto a Yuzu, compartiendo momentos cotidianos como la Torre de Tokio y paseos bajo los cerezos, y expresando con emoción: «por fin se cumplió un sueño».[^7]
+A partir del 12 de julio de 2024, lanzó en Instagram "Escena noticiosa", editando noticias actuales con un estilo de subtítulos japoneses, a menudo acompañados de publicidad; y el 29 de septiembre de 2025, presentó el video corto vertical "Retina News". Al mismo tiempo, gestionó su canal personal de YouTube, "El día a día de Retina & Yuzu", centrándose en compartir la vida cotidiana de su perro, Yuzu (una chiba inmadura que fue presidenta honoraria del partido Felicidad Inmortal), y su extrema aversión al cilantro. En marzo de 2026, cuando pidió comida para llevar _dàchāng miànxiàn_, escribió en el campo de notas "Sin cilantro" durante 35 líneas, logrando la respuesta del dueño "Investigando", lo que continuó con su símbolo cultural. A partir de abril de 2026, llevó a Yuzu a vivir un año en Tokio, compartiendo actividades cotidianas como paseos por la Torre de Tokio y los cerezos, expresando sentimentalmente que "finalmente había cumplido un sueño". [^7]
 
-En noviembre de 2024, en un actividad de foro intergeneracional, comentó que actualmente se sentía agotado con el contenido de actualidad, «a menos que tenga una idea divertida, no quiero hacerlo», y que la probabilidad de reanudar el canal a corto plazo era baja. Su enfoque laboral se había desplazado hacia la televisión y los videos cortos personales. También bromeó diciendo que le encantaría colaborar con Tang Qiyang.[^8]
-
----
-
-**Lecturas complementarias**
-
-- [八炯](八炯.md) — De YouTuber pro-taiwanesa a revelar la cadena de influencers de unificación del PCCh, otro camino para inscribir la resistencia en la marca personal
-- [阿滴](阿滴.md) — El experimento de voz internacional del YouTuber bilingüe con un millón de suscriptores, formando un espejo con Retina: «promoción exterior en inglés vs. sátira en chino»
-- [張志祺](張志祺.md) — Presentador de Zhiqi Qiqi, otra solución de cómo los creadores digitales de la misma generación convierten los temas en programas
+En una actividad de foro intergeneracional en noviembre de 2024, declaró sentirse agotado con el contenido noticioso: "No quiero hacerlo a menos que tenga ideas divertidas", por lo que la probabilidad de reanudar pronto era baja, y su enfoque laboral se había trasladado a la televisión y al video corto personal; también bromeó diciendo que le gustaría colaborar con Tang Chi-yang. [^8]
 
 ---
+
+**Lecturas relacionadas**
+
+- [Ba Jiong](/es/people/pa-chiung-political-youtuber) — De YouTuber de Taiwán a creador de contenido que expone la red de propaganda del Partido Comunista Chino, otro camino para escribir resistencia en su marca personal
+- [A Di](/es/people/ray-du-english-youtuber) — El experimento internacional de un YouTuber bilingüe, y el reflejo entre Retina y él: "difusión externa en inglés vs. sátira en chino"
+- [Chang Chi-qi](/es/people/shasha77-chang-chih-chi) — Presentador de Zhiqi Qiqi, otra solución para hacer temas a través de creadores de contenido digital de su generación
 
 ## Referencias
 

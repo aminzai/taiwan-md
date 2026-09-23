@@ -24,23 +24,23 @@ rationale:
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'Geography/台中捷運.md'
-sourceCommitSha: '65acd39dc'
-sourceContentHash: 'sha256:930e1cf08d9847c7'
-sourceBodyHash: 'sha256:ac8494ae079b5eb8'
-translatedAt: '2026-09-11T04:43:00+08:00'
+sourceCommitSha: 'd9ef16d5e'
+sourceContentHash: 'sha256:9851afbe3b082508'
+sourceBodyHash: 'sha256:9e4ce2561244c6a9'
+translatedAt: '2026-09-23T01:35:48.773720+00:00'
 ---
 
-> **Resumen en 30 segundos:** En 2020, la primera línea verde del metro de Taichung se detuvo en el sexto día de las operaciones de prueba debido a una falla en el acoplador, logrando su apertura formal al año siguiente. Esta línea elevada de 16,7 km conecta Beitun, el bulevar Wenzxin y la estación de alta velocidad de Taichung, introduciendo a una ciudad que dependía de autobuses, motocicletas y automóviles en la era de las vías donde se debe discutir la intermodalidad, la seguridad y la movilidad peatonal. Lo que realmente cambia no es solo de dónde suben las personas, sino que Taichung comienza a comprender su propia distancia mediante el concepto de "la siguiente estación".
+> **Resumen de 30 segundos:** En 2020, la primera línea verde del metro de Taichung se detuvo debido a un fallo en el acoplador durante la sexta fecha de la operación de prueba y no entró en servicio oficial hasta el año siguiente. Esta línea elevada de 16,7 km conecta Beitun, la calle Wenchin y la estación de tren de alta velocidad de Taichung, llevando a una ciudad que durante mucho tiempo se desplazaba en autobús, motocicleta y coche al ámbito de la movilidad ferroviaria, donde hay que debatir el transporte de transferencia, la seguridad y la movilidad a pie. Lo que realmente cambió no fue solo dónde subían la gente, sino que Taichung comenzó a entender su distancia con la expresión "la próxima parada".
 
-El 16 de noviembre de 2020, Lu Siuyan anunció el inicio de las operaciones de prueba de la línea verde del metro de Taichung, la primera vez que esta ciudad tuvo su propio metro. Ese día, más de 70.000 personas ingresaron a las estaciones, como si fuera una gran "degustación" urbana; la gente no solo viajaba, sino que confirmaba si Taichung podía realmente convertirse en una ciudad basada en el transporte sobre raíles. [^1]
+El 16 de noviembre de 2020, Lu Hsin-yueh anunció el comienzo de la operación de prueba de la línea verde del metro de Taichung, y esta ciudad tuvo por primera vez su propio metro. Ese día más de 70.000 personas entraron en la estación, como una gran muestra de degustación urbana, donde no solo se probaba el viaje en tren, sino también se verificaba si Taichung podía realmente convertirse en una ciudad que dependiera del transporte ferroviario.[^1]
 
-Seis días después, el eje central del acoplador semi-permanente entre los vagones se rompió, deteniendo completamente los 18 trenes. La línea verde, originalmente prevista para abrir formalmente a finales de 2020, no volvió a circular hasta el 25 de abril del año siguiente. [^2]
+Seis días después, el eje del acoplador semipermanente entre los vagones del tren se rompió, y las 18 locomotoras se detuvieron completamente. La línea verde, que estaba programada para entrar oficialmente en servicio a finales de 2020, no volvió a circular hasta el 25 de abril del año siguiente.[^2]
 
-Lo más valioso de esta línea es que no siguió el guion de la ceremonia. El metro de Taichung no es un punto final de "finalmente tenemos metro", sino que representa un lugar con calles anchas, mucha circulación de automóviles y motocicletas, y una ciudad dispersa, que por primera vez debe colocar la seguridad, la intermodalidad y la confianza en el mismo mapa de rutas.
+El lugar más digno de ser escrito de esta línea es precisamente que no siguió el guion del discurso oficial. El metro de Taichung no es una "finalmente tenemos metro", sino que en un lugar con amplias avenidas, muchos automóviles y motocicletas y una ciudad dispersa, por primera vez tuvo que colocar la seguridad, el transporte de transferencia y la confianza en el mismo mapa de la línea.
 
-![Tren de la línea verde del metro de Taichung circulando sobre vías elevadas](https://commons.wikimedia.org/wiki/Special:FilePath/Train_of_Taichung_MRT.jpg?width=1280)
+![Tren del metro de Taichung circulando por la vía elevada](https://commons.wikimedia.org/wiki/Special:FilePath/Train_of_Taichung_MRT.jpg?width=1280)
 
-_Leyenda: Tren de la línea verde del metro de Taichung. Fotografía: Cbliu. Fuente de la imagen: [Página de archivo de Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Train_of_Taichung_MRT.jpg), bajo licencia de datos abiertos del Bureau de Información del Gobierno Municipal de Taichung, indicando la fuente al utilizarla. [^3]_
+_Imagen: tren del metro de Taichung. Fotografía: Cbliu._ Fuente de la imagen: [Página de archivo de Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Train_of_Taichung_MRT.jpg)，se publica de acuerdo con los datos abiertos del sitio web del gobierno municipal de Taichung, atribuyendo la fuente.[^3]
 
 ## Una ciudad que comienza con "no tener metro"
 
@@ -72,32 +72,30 @@ La cronología de la CNA deja claro este retraso. La línea verde estaba previst
 
 Desde la perspectiva de los ingenieros, la lección de esta línea es concreta. Las pruebas no son una ceremonia previa a la apertura, sino un trabajo de revisión continua que debe realizarse incluso después de la apertura. Desde la perspectiva de los pasajeros, surge otro problema: una línea puede ser muy nueva, pero no se debe exigir a los pasajeros que usen sus propios cuerpos para completar la última validación.
 
-## La línea verde no solo conecta dos puntos extremos
+## La línea verde no es solo una conexión entre dos extremos
 
-La línea verde se entiende fácilmente como una línea de transporte complementario "de Beitun a la alta velocidad". Esta comprensión no es incorrecta, pero es demasiado estrecha. Al mismo tiempo, coloca en el mismo billete y frecuencia de trenes las zonas residenciales de Beitun, la intermodalidad de la TRA en Songzhu, las actividades comerciales en el bulevar Wenzxin, el núcleo administrativo alrededor del Gobierno Municipal y la estación de alta velocidad de Taichung.
+La línea verde es más fácil de entender como una línea de conexión entre Nantun y el tren de alta velocidad. Esta comprensión no es incorrecta, pero es demasiado estrecha. También coloca los barrios residenciales de Nantun, el transbordo del tren regional de Songzhu, las actividades comerciales de Wenhsin Road, el núcleo administrativo alrededor del ayuntamiento y la estación de tren de alta velocidad de Taichung en el mismo billete y horario.
 
-Esta línea también hace perceptible la escala urbana de Taichung. Las vías elevadas pasan sobre las calles, y las estaciones con sus escaleras mecánicas llevan a las personas desde el nivel del suelo a otra altura. Lugares que antes solo eran adyacentes en el mapa ahora tienen la unidad concreta de "la siguiente estación". La ciudad ya no se describe solo por la longitud de las carreteras, sino también por el tiempo de espera entre estaciones.
+Esta línea también hace tangible la escala urbana de Taichung. Los rieles elevados pasan por encima de las calles, y las estaciones y los escalones mecánicos llevan a la gente desde el nivel de la calle a una altura diferente. Lugares que normalmente solo aparecen adyacentes en un mapa ahora tienen la unidad concreta de "la próxima parada". La ciudad ya no se describe solo por la longitud de las carreteras, sino también por el tiempo de espera entre estación y estación.
 
-_Railway Gazette_ señala que la línea verde rodea el lado oeste del centro urbano y no sirve a la estación de trenes de Taichung (TRA). Esta laguna la hace parecer más un primer esqueleto que una red completa. El Bureau de Ingeniería del Metro del Gobierno Municipal actualmente incluye la extensión de la línea verde a Dakeng y Changhua, así como las rutas posteriores de la línea azul, naranja, púrpura y roja, en la visión de la red de transporte sobre raíles integral. [^4] [^5]
+Railway Gazette señala que la línea verde recorre el oeste del centro de la ciudad, pero no sirve a la estación de tren regional de Taichung. Esta laguna la hace más parecida a un esqueleto inicial que a una red de transporte completa. El departamento de ingeniería del metro del ayuntamiento de Taichung actualmente incluye en su visión de red de transporte sobre rieles la extensión de la línea verde hacia Dapu, Changhua, y las futuras líneas azul, naranja, púrpura y roja.[^4] [^5]
 
-![Tren del metro de Taichung acercándose a la estación de alta velocidad de Taichung](https://commons.wikimedia.org/wiki/Special:FilePath/2020-11-20_MRT_train_near_HSR_Taichung_Station_%28Taichung_Metro%29.jpg?width=1280)
+![Tren del metro de Taichung se acerca a la estación de tren de alta velocidad de Taichung](https://commons.wikimedia.org/wiki/Special:FilePath/2020-11-20_MRT_train_near_HSR_Taichung_Station_%28Taichung_Metro%29.jpg?width=1280)
 
-_Leyenda: Tren del metro de Taichung acercándose a la estación de alta velocidad de Taichung. Fotografía: WC-QHS. Fuente de la imagen: Página de archivo de Wikimedia Commons, bajo licencia CC BY-SA 2.0, requiriendo atribución del autor, licencia y compartir obras derivadas bajo la misma licencia. [^9]_
-
-[Página de archivo de Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2020-11-20_MRT_train_near_HSR_Taichung_Station_%28Taichung_Metro%29.jpg)
+_Imagen: tren del metro de Taichung se acerca a la estación de tren de alta velocidad de Taichung. Fotografía de WC-QHS. Fuente de la imagen: [página de archivo de Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2020-11-20_MRT_train_near_HSR_Taichung_Station_%28Taichung_Metro%29.jpg), bajo licencia CC BY-SA 2.0, se requiere atribución del autor, licencia y compartir con la misma licencia las obras derivadas.[^9]
 
 ```tw-timeline
-La línea verde de Taichung no apareció de la noche a la mañana (año)
-1993 | Planificación inicial | El sistema de transporte mediano sobre raíles de la zona metropolitana de Taichung comienza a entrar en la planificación institucional
-2004 | Aprobación de la línea verde | La línea Wuri-Wenxin-Beitun se convierte en la red inicial
-2009 | Inicio de construcción | La línea verde entra formalmente en la etapa de construcción a largo plazo
-2020 | Operaciones de prueba | Las 18 estaciones se abren por primera vez al público
-2021 | Apertura formal | Reanuda las operaciones de prueba y las operaciones formales tras la inspección y reparación de fallas
-Fuente: Bureau de Ingeniería del Metro del Gobierno Municipal de Taichung, Compañía de Metro de Taichung, Agencia Central de Noticias
+La línea verde de Taichung no apareció de la noche a la mañana (años)
+1993 | Planificación inicial | El sistema de metro de la zona metropolitana de Taichung comienza a planificarse institucionalmente
+2004 | Aprobación de la línea verde | La línea de Wufeng-Wenxin-Nantun se convierte en la red inicial
+2009 | Inicio de obras | La línea verde oficialmente entra en la fase de construcción a largo plazo
+2020 | Servicio piloto | Las 18 estaciones se abren al público por primera vez
+2021 | Operación oficial | Tras reparaciones por fallas, se reanuda el servicio piloto y comienza la operación oficial
+Fuente: Departamento de Ingeniería del Metro del Ayuntamiento de Taichung, Taichung Metro Co., Ltd., Agencia Central de Noticias
 ```
 
 > **📝 Nota del curador**
-> El valor de la primera línea no es que haya conectado completamente Taichung, sino que hace que la siguiente línea deje de ser solo una línea de colores para convertirse en una promesa que los pasajeros pueden comparar.
+> El valor de la primera línea no radica en que ya haya conectado toda Taichung, sino en que permite que la siguiente línea no sea solo una línea de color en un mapa, sino una promesa que los pasajeros pueden comparar.
 
 ## El impacto de una línea de metro no está solo en el número de pasajeros
 
@@ -107,20 +105,20 @@ Este resultado, contextualizado en las condiciones de transporte de Taichung, re
 
 En otras palabras, los cambios en los precios de la vivienda cerca de las estaciones del metro son solo uno de los resultados. La pregunta más importante es si las estaciones realmente hacen que las personas monten menos en motocicleta, permiten que los niños caminen solos hasta la entrada de la estación y ofrecen más opciones a quienes no conducen automóviles en Taichung. El éxito de la infraestructura de transporte no debería medirse solo por "cuánto se ha encarecido el área cercana", sino también preguntando "quién ha ganado una nueva forma de llegar".
 
-## La ciudad sobre las estaciones, la vida diaria debajo
+## La ciudad sobre la estación, la rutina debajo
 
-La mayoría de los tramos de la línea verde son de forma elevada, lo que convierte las estaciones en una especie de entrada vertical a la ciudad. Los pasajeros primero caminan desde los pórticos, intersecciones o paradas de autobús hasta la estructura de la estación, luego suben por las escaleras mecánicas y ascensores, y finalmente llegan al andén. Los registros de proyectos de Otis indican que la línea verde tiene 18 estaciones, y que durante la construcción debió instalar 117 escaleras mecánicas de carga pesada y 59 ascensores sin interferir con el flujo diario de vehículos y peatones. [^6]
+La mayoría de los tramos de la línea verde están elevados, lo que convierte a las estaciones en entradas urbanas verticales. Los pasajeros primero caminan desde el frente de la calle, el cruce o la parada de autobuses hasta el cuerpo de la estación, luego suben por las escaleras mecánicas y los ascensores, y finalmente llegan a la plataforma. El registro de proyectos de Otis indica que la línea verde cuenta con 18 estaciones, y durante la construcción se debían instalar 117 escaleras mecánicas de carga y 59 ascensores sin interrumpir el tráfico vehicular y peatonal cotidiano.[^6]
 
-![Andén de la línea verde de la estación del Gobierno Municipal del metro de Taichung](https://commons.wikimedia.org/wiki/Special:FilePath/Taichung_Metro_Taichung_City_Hall_Station_Green_Line_Platform.jpg?width=1280)
+![Plataforma de la línea verde en la estación Municipal de Taichung](https://commons.wikimedia.org/wiki/Special:FilePath/Taichung_Metro_Taichung_City_Hall_Station_Green_Line_Platform.jpg?width=1280)
 
-_Leyenda: Andén de la línea verde de la estación del Gobierno Municipal del metro de Taichung. Fotografía: Cheng, Cheng-en, usuario de Wikimedia Rail02000. Fuente de la imagen: [Página de archivo de Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taichung_Metro_Taichung_City_Hall_Station_Green_Line_Platform.jpg), bajo licencia CC BY-SA 4.0, requiriendo atribución del autor, licencia y compartir obras derivadas bajo la misma licencia. [^10]_
+_Imagen: plataforma de la línea verde en la estación Municipal de Taichung. Fotografía: Cheng, Cheng-en, usuario de Wikimedia Rail02000._ Fuente de la imagen: [página de archivo de Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taichung_Metro_Taichung_City_Hall_Station_Green_Line_Platform.jpg), bajo CC BY-SA 4.0, se requiere atribución del autor, licencia e indicar que se comparten obras derivadas bajo la misma licencia.[^10]
 
-Este movimiento vertical tiene su costo. Para las personas con prisa, la distancia en la entrada de las escaleras mecánicas se convierte en un costo de transbordo. Para quienes empujan cochecitos, usan sillas de ruedas o llevan equipaje, la facilidad para encontrar los ascensores es un prerrequisito para poder usar el metro. La accesibilidad del metro no comienza solo cuando el tren llega al andén; se decide desde el primer tramo, desde la acera hasta la entrada.
+Este desplazamiento vertical tiene su costo. Para quienes van apurados, la distancia hasta las escaleras de acceso es el coste de transbordo. Para quienes empujan un coche de paseo, usan silla de ruedas o van cargados con equipaje, que los ascensores sean fáciles de encontrar es un requisito previo para poder usar el metro. La accesibilidad del metro no comienza cuando el tren llega a la plataforma, sino desde el primer tramo del paseo entre la acera y la entrada.
 
-La línea verde de Taichung, por tanto, también actúa como una advertencia suspendida sobre la ciudad: las vías pueden cruzar los barrios, pero la vida no puede quedar suspendida en el aire. Las aceras alrededor de las estaciones, las instalaciones contra la lluvia, el transporte complementario de autobuses y la iluminación nocturna determinarán si un metro elevado es una comodidad diaria o solo una línea bonita en el mapa.
+La línea verde de Taichung, por tanto, también es un recordatorio elevado sobre la ciudad: las vías pueden cruzar sobre los bloques, pero la vida no puede quedar suspendida en el aire. Las aceras, los refugios, las conexiones con autobuses y la iluminación nocturna alrededor de las estaciones decidirán si un metro elevado resulta una herramienta útil en la vida cotidiana o solo una línea bonita en el mapa.
 
 > **📝 Nota del curador**
-> El metro elevado eleva los trenes, pero no eleva a los pasajeros fuera del suelo. La verdadera ingeniería urbana sigue ocurriendo en el camino previo a la entrada.
+> El metro elevado eleva el tren, pero no eleva al pasajero por encima del suelo. La verdadera ingeniería urbana sigue ocurriendo en el tramo entre la acera y la entrada.
 
 ## Cómo las estaciones conectan dos tipos de transporte
 
@@ -159,22 +157,22 @@ Sin embargo, lo que los pasajeros realmente recuerdan puede no ser los 16,7 km, 
 
 El significado urbano del metro de Taichung se esconde en estas repeticiones poco espectaculares. Alguien toma el tren por primera vez para ir a trabajar; alguien lleva a los niños a la estación de alta velocidad; alguien ya no necesita buscar estacionamiento para ver un evento. Las vías fijas convierten el futuro de la ciudad en una acción que se puede repetir cada día. Cuando las estructuras de las estaciones, los andenes, el transbordo y las calles se unen en un mismo viaje, el metro se convierte realmente de un término de ingeniería a la vida urbana.
 
-## El transbordo no es un ejercicio adicional, es la segunda vía de la línea verde
+## El trasbordo no es un detalle, es el segundo riel de la línea verde
 
-Las 18 estaciones de la línea verde no completan un viaje por sí solas. Para la mayoría de los pasajeros, la ruta real es desde la casa hasta la parada de autobús, desde la parada de autobús hasta la entrada del metro, desde el andén hasta el destino, y desde la última estación hasta la oficina, la escuela o el centro comercial. Cada cambio de mano puede hacer que las personas recalculen el tiempo. Si uno de estos tramos no tiene protección contra la lluvia, indicadores claros o si el tiempo de espera es demasiado largo, los pasajeros pueden volver a sus conocidas motocicletas.
+Las 18 estaciones de la línea verde no completan un viaje por sí solas. Para la mayoría de los pasajeros, la verdadera ruta es de casa a parada de autobús, de parada de autobús a entrada del metro, de andén al destino, y luego del último tramo caminando hacia la oficina, la escuela o el centro comercial. Cada cambio implica recalcular el tiempo. Si algún tramo carece de protección contra la lluvia, de señalización clara, o si el tiempo de espera es demasiado largo, los pasajeros pueden volver a sus motocicletas habituales.
 
-La importancia de las estaciones Songzhu y de la alta velocidad de Taichung radica en que hacen que la línea verde no sea solo una ruta única entre dos extremos. La primera integra el metro en la red de transbordo de la TRA; la segunda coloca el transporte sobre raíles de la ciudad, el ferrocarril de alta velocidad, los autobuses complementarios y el movimiento interurbano en el mismo horario. El valor de estos nodos no es el tamaño de la estructura en sí, sino si los vehículos de diferentes velocidades pueden conectarse en un mismo viaje. [^1] [^4]
+La importancia de las estaciones Songzhu y Taichung HSR radica en que convierten a la línea verde en más que un trayecto lineal entre dos extremos. La primera integra el metro en la red de transferencias del ferrocarril urbano; la segunda coloca el ferrocarril urbano, el tren de alta velocidad, los autobuses de conexión y el transporte interestatal en la misma agenda de viaje. El valor de estos nodos no está en el tamaño de las estaciones, sino en si distintos medios de transporte a diferentes velocidades pueden sincronizarse en una sola salida. [^1] [^4]
 
-La siguiente pregunta de la línea verde de Taichung, por tanto, no es tan simple como "cuántas líneas más se construirán". A medida que la red se alarga, los billetes, las frecuencias, las distancias de transbordo y el diseño de la información deben crecer juntos. Si cada línea es conveniente por sí misma, pero al cambiar de línea hay que caminar mucho, la ciudad podría obtener solo más opciones, en lugar de una vida más fácil de alcanzar. Esta es la razón por la que el gobierno municipal planifica la extensión de la línea verde junto con las líneas azul, naranja, púrpura y roja en la red integral. [^4]
+El siguiente reto de la línea verde de Taichung, por tanto, no es tan simple como preguntar "¿cuántas líneas más se construirán?". A medida que la red se extiende, los sistemas de tarifas, las frecuencias, las distancias de trasbordo y el diseño de la información deben crecer junto con ella. Si cada línea es cómoda por sí sola pero requiere caminatas largas para transferirse, la ciudad podría terminar con más opciones, pero no con una vida más fácil de alcanzar. Esta es también la razón por la que el ayuntamiento ha planeado la extensión de la línea verde junto con las líneas azul, naranja, púrpura y roja dentro de una red integral. [^4]
 
-Desde la gestión de ingeniería, el transbordo sigue siendo el lugar que mejor mide si la infraestructura pública se centra en el usuario. La puntualidad del tren puede ser demostrada por los registros del sistema; si los pasajeros están dispuestos a subir de nuevo depende de si pueden cruzar la intersección de forma segura al salir, si saben de dónde viene el siguiente autobús y si pueden evitar desvíos cuando llevan equipaje. El logro urbano de la línea verde caerá finalmente en estos detalles que no aparecen en las fotos de inauguración.
+Desde la perspectiva de la gestión de obras, el trasbordo sigue siendo el mejor indicador de si la construcción pública está centrada en el usuario. La puntualidad del tren puede ser comprobada mediante registros del sistema; si los pasajeros volverán a viajar depende de si pueden cruzar seguros la calle tras bajar, si saben dónde viene el próximo autobús, y si pueden hacerlo sin desviarse cuando van con equipaje. La calificación final de la línea verde de la ciudad dependerá de estos detalles que no aparecerán en las fotos de la inauguración.
 
-![Entrada y salida entre la estación Songzhu del metro de Taichung y la estación Songzhu de la TRA](https://commons.wikimedia.org/wiki/Special:FilePath/Entrance-exit_between_Taichung_Metro_Songzhu_Station_and_TRA_Songzhu_Station_02.jpg?width=1280)
+![Salida de la estación de metro de Songzhu de Taichung y la estación ferroviaria de Songzhu](https://commons.wikimedia.org/wiki/Special:FilePath/Entrance-exit_between_Taichung_Metro_Songzhu_Station_and_TRA_Songzhu_Station_02.jpg?width=1280)
 
-_Leyenda: Entrada y salida entre la estación Songzhu del metro de Taichung y la estación Songzhu de la TRA. Fotografía: Tbatb. Fuente de la imagen: [Página de archivo de Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Entrance-exit_between_Taichung_Metro_Songzhu_Station_and_TRA_Songzhu_Station_02.jpg), bajo licencia CC BY-SA 4.0, requiriendo atribución del autor, licencia y compartir obras derivadas bajo la misma licencia. [^11]_
+_Imagen: salida de la estación de metro de Songzhu de Taichung y la estación ferroviaria de Songzhu. Foto: Tbatb._ Fuente de la imagen: [Página de archivo de Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Entrance-exit_between_Taichung_Metro_Songzhu_Station_and_TRA_Songzhu_Station_02.jpg), bajo CC BY-SA 4.0, se requiere atribución del autor, licencia e intercambio de obras derivadas bajo la misma licencia. [^11]
 
 > **📝 Nota del curador**
-> Dibujar una línea de metro en el mapa solo requiere dos puntos extremos; vivir en la vida requiere muchos tramos. El verdadero transbordo es convencer a estos tramos de que forman un mismo viaje.
+> Una línea de metro en un mapa solo necesita dos puntos extremos; para integrarse en la vida cotidiana, requiere muchos tramos. El verdadero trasbordo es convencer a todos esos tramos de formar parte del mismo viaje.
 
 ## Después de la línea verde, ¿qué debe responder aún Taichung?
 
