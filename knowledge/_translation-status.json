@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-24T02:44:24+08:00",
-    "zhCommitHead": "58b946e1e",
+    "lastUpdated": "2026-09-24T02:50:10+08:00",
+    "zhCommitHead": "2c44efe9c",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -52,16 +52,16 @@
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1073,
-        "stale": 38,
+        "fresh": 1074,
+        "stale": 37,
         "metadata_stale": 0,
         "missing": 13,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 1097,
-        "stale": 15,
+        "fresh": 1098,
+        "stale": 14,
         "metadata_stale": 1,
         "missing": 11,
         "orphan": 0
@@ -92,8 +92,8 @@
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 1041,
-        "stale": 25,
+        "fresh": 1043,
+        "stale": 23,
         "metadata_stale": 0,
         "missing": 58,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 977,
+        "fresh": 978,
         "stale": 3,
         "metadata_stale": 0,
-        "missing": 144,
+        "missing": 143,
         "orphan": 0
       }
     },
@@ -105953,11 +105953,11 @@
           "sourceContentHash": "sha256:cae032d995bba4cf",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-23T16:49:18.739596+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2c44efe9",
+          "translationLastModified": "2026-09-24T02:44:25+08:00",
           "inferred": false,
           "footnoteDefs": 43,
-          "bytes": 40657,
+          "bytes": 40661,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -120863,8 +120863,8 @@
           "sourceContentHash": "sha256:ad617fbb654f67ae",
           "sourceBodyHash": "sha256:986ab9796f1069f2",
           "translatedAt": "2026-09-23T18:01:42.375933+00:00",
-          "translationLastCommit": "c504c031",
-          "translationLastModified": "2026-09-22T00:50:34+08:00",
+          "translationLastCommit": "2c44efe9",
+          "translationLastModified": "2026-09-24T02:44:25+08:00",
           "inferred": false,
           "footnoteDefs": 23,
           "bytes": 29176,
@@ -120907,20 +120907,18 @@
         "ar": {
           "path": "ar/People/tsai-ing-wen.md",
           "translatedFrom": "People/蔡英文.md",
-          "sourceCommitSha": "4f3974f86",
-          "sourceContentHash": "sha256:2ea54fe4a3dcfc40",
-          "sourceBodyHash": "sha256:3efdfebbac8eea3c",
-          "translatedAt": "2026-09-21T14:19:21.881570+00:00",
+          "sourceCommitSha": "7255b3ab1",
+          "sourceContentHash": "sha256:ad617fbb654f67ae",
+          "sourceBodyHash": "sha256:986ab9796f1069f2",
+          "translatedAt": "2026-09-23T18:44:25.304926+00:00",
           "translationLastCommit": "e0d888ab",
           "translationLastModified": "2026-09-22T01:04:14+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "bytes": 40831,
+          "bytes": 41379,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/tsai-ing-wen.md",
@@ -150653,20 +150651,18 @@
         "vi": {
           "path": "vi/Food/taiwan-rice-cuisine-culture.md",
           "translatedFrom": "Food/台灣米食文化.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:0e38833f3cafaf68",
-          "sourceBodyHash": "sha256:2354ee60853945b0",
-          "translatedAt": "2026-07-25T10:53:12+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:d06ea631387761c6",
+          "sourceBodyHash": "sha256:1e5405f424ed35fc",
+          "translatedAt": "2026-09-23T22:11:54+08:00",
           "translationLastCommit": "1c89db9a",
           "translationLastModified": "2026-09-22T01:05:58+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 15608,
+          "bytes": 18649,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+9 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Food/taiwan-rice-cuisine-culture.md",
@@ -164840,20 +164836,18 @@
         "fr": {
           "path": "fr/Food/taiwan-fermented-and-pickled-foods.md",
           "translatedFrom": "Food/台灣發酵食品與醃製文化.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:c2ef664839dd9cc6",
-          "sourceBodyHash": "sha256:b693c93c53efd3dc",
-          "translatedAt": "2026-05-20T05:08:34+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:5835dab8860b5f83",
+          "sourceBodyHash": "sha256:e507de3f31c3d46a",
+          "translatedAt": "2026-09-23T22:11:52+08:00",
           "translationLastCommit": "677cd01d",
           "translationLastModified": "2026-09-22T01:05:52+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "bytes": 18602,
+          "bytes": 17805,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+16 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Food/taiwan-fermented-and-pickled-foods.md",
@@ -183683,8 +183677,8 @@
           "sourceContentHash": "sha256:bf88a96f60bbcd8e",
           "sourceBodyHash": "sha256:f8662882b41f1947",
           "translatedAt": "2026-09-23T22:11:56+08:00",
-          "translationLastCommit": "c504c031",
-          "translationLastModified": "2026-09-22T00:50:34+08:00",
+          "translationLastCommit": "2c44efe9",
+          "translationLastModified": "2026-09-24T02:44:25+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "bytes": 31583,
@@ -183727,20 +183721,18 @@
         "ar": {
           "path": "ar/Geography/lin-an-tai-historical-house.md",
           "translatedFrom": "Geography/林安泰古厝.md",
-          "sourceCommitSha": "13c7fbcdb",
-          "sourceContentHash": "sha256:47d89dc0ac03a566",
-          "sourceBodyHash": "sha256:7079616fec64f3a7",
-          "translatedAt": "2026-09-12T19:57:22+08:00",
+          "sourceCommitSha": "d9ef16d5e",
+          "sourceContentHash": "sha256:bf88a96f60bbcd8e",
+          "sourceBodyHash": "sha256:f8662882b41f1947",
+          "translatedAt": "2026-09-23T18:46:09.031377+00:00",
           "translationLastCommit": "e0d888ab",
           "translationLastModified": "2026-09-22T01:04:14+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "bytes": 42070,
+          "bytes": 42410,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+7 -6"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Geography/lin-an-tai-historical-house.md",
@@ -186404,7 +186396,20 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Geography/alishan-forest-railway.md",
+          "translatedFrom": "Geography/阿里山林業鐵路.md",
+          "sourceCommitSha": "da79c32b0",
+          "sourceContentHash": "sha256:98502e991d7261a6",
+          "sourceBodyHash": "sha256:7466cc3940afd368",
+          "translatedAt": "2026-09-23T22:12:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "bytes": 22823,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -220147,8 +220152,8 @@
           "sourceContentHash": "sha256:51233924254f4114",
           "sourceBodyHash": "sha256:3a79800811848f46",
           "translatedAt": "2026-09-23T22:11:56+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2c44efe9",
+          "translationLastModified": "2026-09-24T02:44:25+08:00",
           "inferred": false,
           "footnoteDefs": 19,
           "bytes": 37154,
