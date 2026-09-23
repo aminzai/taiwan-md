@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-23T08:41:37+08:00",
-    "zhCommitHead": "4d7b1447c",
+    "lastUpdated": "2026-09-23T08:44:28+08:00",
+    "zhCommitHead": "8827f36fd",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,9 +28,9 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 940,
+        "fresh": 941,
         "stale": 93,
-        "metadata_stale": 25,
+        "metadata_stale": 24,
         "missing": 66,
         "orphan": 0
       },
@@ -68,8 +68,8 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 999,
-        "stale": 44,
+        "fresh": 1000,
+        "stale": 43,
         "metadata_stale": 6,
         "missing": 75,
         "orphan": 0
@@ -92,8 +92,8 @@
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 1016,
-        "stale": 37,
+        "fresh": 1018,
+        "stale": 35,
         "metadata_stale": 11,
         "missing": 60,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 883,
+        "fresh": 884,
         "stale": 10,
         "metadata_stale": 5,
-        "missing": 226,
+        "missing": 225,
         "orphan": 0
       }
     },
@@ -4671,20 +4671,18 @@
         "ar": {
           "path": "ar/Music/mayday-band.md",
           "translatedFrom": "Music/五月天.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:2d73cb00a5f5d254",
-          "sourceBodyHash": "sha256:7f6b080a953be003",
-          "translatedAt": "2026-07-26T07:02:12+08:00",
+          "sourceCommitSha": "d182e5d85",
+          "sourceContentHash": "sha256:d0269e2f1779f743",
+          "sourceBodyHash": "sha256:70e0b74692ddad14",
+          "translatedAt": "2026-09-23T07:28:04+08:00",
           "translationLastCommit": "d182e5d8",
           "translationLastModified": "2026-08-16T08:53:57+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "bytes": 17604,
+          "bytes": 19942,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+6 -6"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Music/mayday-band.md",
@@ -13053,20 +13051,18 @@
         "ja": {
           "path": "ja/Economy/htc-android-pioneer-vr-transformation.md",
           "translatedFrom": "Economy/台灣企業：宏達電.md",
-          "sourceCommitSha": "24efd20f3",
-          "sourceContentHash": "sha256:cad6f5863e24a963",
+          "sourceCommitSha": "0df538d8c",
+          "sourceContentHash": "sha256:1e059fb4544621d1",
           "sourceBodyHash": "sha256:6bb6fbebdcab1fd8",
-          "translatedAt": "2026-05-15T13:52:05+08:00",
+          "translatedAt": "2026-09-23T07:28:01+08:00",
           "translationLastCommit": "3147a527",
           "translationLastModified": "2026-05-15T14:22:09+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 17040,
+          "bytes": 17953,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+8 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Economy/htc-android-pioneer-vr-transformation.md",
@@ -21448,8 +21444,8 @@
       "zh": {
         "lastCommit": "4a95859b",
         "lastModified": "2026-08-15T17:13:46+08:00",
-        "contentHash": "sha256:8030aee86151ba10",
-        "bodyHash": "sha256:6f90b2f90f4bd537"
+        "contentHash": "sha256:0dbc96c1e96c1878",
+        "bodyHash": "sha256:02701f8f2061f84c"
       },
       "translations": {
         "en": {
@@ -32816,20 +32812,18 @@
         "ar": {
           "path": "ar/Technology/nvidia-in-taiwan.md",
           "translatedFrom": "Technology/NVIDIA在台灣.md",
-          "sourceCommitSha": "67e5b3684",
-          "sourceContentHash": "sha256:b56a9c2f52721e09",
-          "sourceBodyHash": "sha256:4f355b3d3c9b0f43",
-          "translatedAt": "2026-07-29T07:32:36+08:00",
+          "sourceCommitSha": "0df538d8c",
+          "sourceContentHash": "sha256:b9e05b9a2ffc12db",
+          "sourceBodyHash": "sha256:5412b8ae390af1fa",
+          "translatedAt": "2026-09-23T00:42:52.484340+00:00",
           "translationLastCommit": "a0de2893",
           "translationLastModified": "2026-07-29T09:36:01+08:00",
           "inferred": false,
           "footnoteDefs": 71,
-          "bytes": 101380,
+          "bytes": 102026,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -73330,8 +73324,8 @@
       "zh": {
         "lastCommit": "31a05c44",
         "lastModified": "2026-06-13T17:54:04+08:00",
-        "contentHash": "sha256:6b2ce60c50966bdc",
-        "bodyHash": "sha256:6f79d66a90a09b62"
+        "contentHash": "sha256:386f679c65cffa22",
+        "bodyHash": "sha256:2ad4c49a76612828"
       },
       "translations": {
         "en": {
@@ -108283,8 +108277,8 @@
       "zh": {
         "lastCommit": "4a95859b",
         "lastModified": "2026-08-15T17:13:46+08:00",
-        "contentHash": "sha256:cd5b6f64f9368b38",
-        "bodyHash": "sha256:62721bcda4248fc8"
+        "contentHash": "sha256:98489d58cbc9b55d",
+        "bodyHash": "sha256:998e243cd4a539b8"
       },
       "translations": {
         "en": {
@@ -110004,20 +109998,18 @@
         "id": {
           "path": "id/People/jensen-huang.md",
           "translatedFrom": "People/黃仁勳.md",
-          "sourceCommitSha": "09c1bf1a9",
-          "sourceContentHash": "sha256:e9178b000513a553",
-          "sourceBodyHash": "sha256:0447f104316070ca",
-          "translatedAt": "2026-07-18T18:59:54+08:00",
+          "sourceCommitSha": "0df538d8c",
+          "sourceContentHash": "sha256:28ebca4abc1527e4",
+          "sourceBodyHash": "sha256:2ae685b1d23ee474",
+          "translatedAt": "2026-09-23T00:42:08.445326+00:00",
           "translationLastCommit": "f4d0f1e6",
           "translationLastModified": "2026-09-22T01:07:23+08:00",
           "inferred": false,
           "footnoteDefs": 18,
-          "bytes": 29720,
+          "bytes": 30579,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/jensen-huang.md",
@@ -157765,8 +157757,8 @@
           "sourceContentHash": "sha256:bd2837ec0fbef900",
           "sourceBodyHash": "sha256:a96dfd18a42fc656",
           "translatedAt": "2026-09-23T05:53:44+08:00",
-          "translationLastCommit": "1c89db9a",
-          "translationLastModified": "2026-09-22T01:05:58+08:00",
+          "translationLastCommit": "8827f36f",
+          "translationLastModified": "2026-09-23T08:41:37+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 21157,
@@ -176338,7 +176330,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/History/indigenous-peoples-history-and-naming-movement.md",
+          "translatedFrom": "History/台灣原住民族歷史與正名運動.md",
+          "sourceCommitSha": "1e674def2",
+          "sourceContentHash": "sha256:5abb3efb22ea6c92",
+          "sourceBodyHash": "sha256:93eb4a0251be6dd2",
+          "translatedAt": "2026-09-23T07:28:04+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "bytes": 15394,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -192282,8 +192287,8 @@
       "zh": {
         "lastCommit": "65acd39d",
         "lastModified": "2026-08-22T08:55:56+08:00",
-        "contentHash": "sha256:930e1cf08d9847c7",
-        "bodyHash": "sha256:ac8494ae079b5eb8"
+        "contentHash": "sha256:fa86c4a20ea1db96",
+        "bodyHash": "sha256:4d180003b28f84d2"
       },
       "translations": {
         "en": {
@@ -199935,8 +199940,8 @@
       "zh": {
         "lastCommit": "977373f8",
         "lastModified": "2026-08-20T12:03:55+08:00",
-        "contentHash": "sha256:d453213e0d417fd6",
-        "bodyHash": "sha256:1db8926ecfd90519"
+        "contentHash": "sha256:d37134b530a1de3e",
+        "bodyHash": "sha256:552e0c9ad1958e69"
       },
       "translations": {
         "en": {
