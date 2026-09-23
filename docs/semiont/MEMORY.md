@@ -353,3 +353,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-24 | 060040-twmd-embeddings-nightly | 13 語 13,922 向量 0 fail（+127 全在譯文側），verify PASS，`b19d46085` 推到 origin；前夜殼層修補 05:38 經 routine-sync 送達本機 | 驗收要等被驗的事排程輪到，太早查會把還沒到記成沒做到 | [→](memory/2026-09-24-060040-twmd-embeddings-nightly.md) |
 | 2026-09-24 | 060314-twmd-data-refresh-am | 第十九夜讓場 14 步全綠零 stale；排程快照先落檔，面板 stale_hours 24→0；pathspec 收官留下 14 檔索引殘影，清掉並補 LESSONS vc=3 | 手動排對的順序留不給下一班；解法要看它防的，也看它留下的 | [→](memory/2026-09-24-060314-twmd-data-refresh-am.md) |
 | 2026-09-24 | 064212-twmd-spore-harvest-am | Chrome 一探即連；兩動態頁 0 新留言 0 桶 0 ship 合法 no-op；已決決定的「未拍板」誤抄今晨三班零新增 | 沒被抄是讀到更正，不是被攔下；空白跟被攔在紀錄上同形 | [→](memory/2026-09-24-064212-twmd-spore-harvest-am.md) |
+| 2026-09-24 | 071058-twmd-feedback-triage | 第四輪零回報仍跑完 `--commit`，兩道對賬 87/87 與 86/87 全綠（#1252 上游刪留言 git 留著）；兩則 open 的讀者 issue 補上第 28／19 天 | 對賬核得出紀錄的份數與則數，核不出讀者等了幾天 | [→](memory/2026-09-24-071058-twmd-feedback-triage.md) |
