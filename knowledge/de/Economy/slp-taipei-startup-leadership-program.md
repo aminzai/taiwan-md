@@ -24,9 +24,10 @@ imageCredit: 'SLP台北創業領導計畫'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://slptaipei.com/'
 translatedFrom: 'Economy/SLP台北創業領導計畫.md'
-sourceCommitSha: 'cc540a12b'
-sourceContentHash: 'sha256:43d208bb15493ffd'
-translatedAt: '2026-09-22T08:41:18.244909+00:00'
+sourceCommitSha: '7255b3ab1'
+sourceContentHash: 'sha256:7724220e60173fa7'
+sourceBodyHash: 'sha256:e213a0f35315b401'
+translatedAt: '2026-09-23T16:09:30.301076+00:00'
 ---
 
 # SLP Taipei Startup Leadership Program: Ein Kurs für 6.000 NTD, der auf 58.000 steigt und trotzdem gesucht wird
@@ -148,20 +149,20 @@ Diese kleine Korrektur führt zum Thema der lokalen Ökosysteme für Start-ups i
 
 ## Epilog: Etwas tun, ohne staatliche Hilfe oder Eigenkapital
 
-Im Jahr 2012 organisierten selbst Gründer in Taipeh einen Kurs aus eigener Tasche und unentgeltlich. Die erste Ausgabe kostete sechste Tausend NTD, was rechnerisch weniger als hundert NTD pro Stunde entsprach.
+Im Jahr 2012 veranstaltete eine Gruppe von Gründern in Taipeh einen Kurs aus eigener Tasche und unentgeltlich. Die einmalige Gebühr für die erste Ausgabe belief sich auf sechste Tausend NTD, was weniger als hundert NTD pro Stunde entspricht.
 
-Vierzehn Jahre später entwickelte sich dieselbe Sache zu einer jährlichen Gemeinschaft, bei der über hundert Teilnehmer um dreißig Plätze kämpften und die Kosten fast sechzigtausend NTD erreichten; im Jahr 2023 wurde sie offiziell als Verein eingetragen. Der Preis stieg um fast das Zehnfache, aber die Kernlogik der Organisation blieb unverändert: Gründer für Gründer – man nimmt deine Zeit, nicht dein Eigenkapital; jeder Cent ist dem „gesamten Teilnehmerkreis“ gewidmet.
+Vierzehn Jahre später entwickelte sich dieselbe Sache zu einer etablierten Gemeinschaft, bei der dreißig Plätze mit fast sechzigtausend NTD-Gebühr jährlich von über hundert Teilnehmern umkämpft werden. 2023 wurde sie offiziell als Verein gegründet. Der Preis ist fast zehnmal gestiegen, aber die Kernlogik der Organisation ist unverändert geblieben – Gründer helfen Gründern; man nimmt deine Zeit, nicht dein Eigenkapital, und jeder Cent steht für „vollständig zum Nutzen der Teilnehmer“.
 
-Sie erreichte nie internationale Medien und wurde selten von großen Fachzeitschriften wie _Tianxia_ oder Wirtschaftsmagazinen thematisiert[^30]; stattdessen verbreitete sie sich leise in INSIDE, bei Gründer-Treffen und auf dem YouTube-Kanal der Gründerin mit dreizehn Abonnenten. Letztendlich ist dies ein Ausschnitt aus der gegenseitigen Hilfe in Taiwan: Wie konnte eine Gruppe von Menschen durch menschliche Beziehungen und den Satz „Nur im Kampf haben wir eine Chance“ etwas Kleines groß, lange und zu einem begehrten Ort für vierzehn Jahre machen, ohne staatliche Subventionen oder Kapitalmärkte?
+Sie hat nie internationale Medien erreicht und wurde selten von großen Zeitschriften wie _Business Weekly_ oder _Tianxia_ thematisiert [^30]; stattdessen verbreitete sie sich leise in INSIDE, bei Startup Gathering und auf dem YouTube-Kanal des Gründers mit dreizehn Abonnenten. Letztendlich ist dies ein Ausschnitt aus der gegenseitigen Hilfe in Taiwan: Wie konnte eine Gruppe von Menschen durch menschliche Beziehungen und den Satz „Nur im Kampf gibt es Gewinner“ etwas Kleines groß, lange und zu einem begehrten Ort für vierzehn Jahre machen, ohne staatliche Subventionen oder Kapitalmärkte?
 
 Weitere Interviews mit Alumni und Ausschnitte aus Kursen finden Sie auf dem [offiziellen YouTube-Kanal von SLP Taipei](https://www.youtube.com/@SLPTAIPEI).
 
-**Weiterführende Lektüre**:
+**Weiterführende Lesestoffe**:
 
-- [Startup-Ökosystem](新創生態系.md) — Von der Notlage der taiwanesischen Startups ohne Investitionskapital bis zur gesamtgesellschaftlichen Entwicklung, die von AppWorks, Venture Capital und Unicorns angetrieben wird, ist SLP ein Strang in diesem Ökosystem, der „kein Eigenkapital“ nimmt.
-- [Taiwanische Creator Economy: Der Schlachtfeld der 23 Millionen Individuen](台灣自媒體創作者經濟.md) — Ein anderer taiwanesischer Wirtschaftsmodus, bei dem die „Person vor der Firma“ steht, was in einer Weise mit der Logik von SLP korrespondiert, nämlich „Menschen auswählen statt Firmen“.
-- [Taiwanische Industrielle Transformation und Aufwertung: Vom Produktionsgiganten zur Innovationsmacht](台灣產業轉型升級.md) — Der große Hintergrund hinter der Kostenkurve von SLP – die Entwicklung „vom Hobby zum System“ – ist Teil der industriellen Transformation Taiwans.
-- [Ökosystem der Peripherie-Geschäftsviertel in Taiwanischen Technologieparks](台灣科技園區外圍商圈生態.md) — Eine andere Form, wie unternehmerische Energie zu physischen Siedlungen wird.
+- [Startup-Ökosystem in Taiwan](/de/economy/taiwan-startup-ecosystem-overview) — Von der Notlage der taiwanesischen Startups ohne Risikokapital bis zur Gesamtentwicklung, die AppWorks, Venture Capital und Unicorns anstreben, ist SLP ein Strang im Ökosystem, der „kein Eigenkapital“ nimmt.
+- [Die Wirtschaft der taiwanischen Self-Media-Kreatoren: Ein Schlachtfeld von 23 Millionen Menschen](/de/economy/taiwan-self-media-creator-economy) — Eine andere taiwanesische Wirtschaftsform, bei der die „Person vor dem Unternehmen“ steht, spiegelt logisch SLPs Ansatz wider, „Menschen statt Unternehmen“ auszuwählen.
+- [Industrieller Wandel und Aufwertung in Taiwan: Vom Produktionsgiganten zur Innovationsmacht](/de/economy/industrial-transformation-from-manufacturing-to-innovation) — Der große Hintergrund des Wandels „vom Hobby zum System“ hinter der Kostenkurve von SLP ist Teil der industriellen Transformation Taiwans.
+- [Das Ökosystem der Randzonen um Tech-Parks in Taiwan](/de/economy/tech-park-peripheral-business-ecosystem) — Eine andere Form, wie Gründungsenergie zu physischen Siedlungen wird.
 
 ## Bildquellen
 

@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-24T01:08:36+08:00",
-    "zhCommitHead": "74349bb60",
+    "lastUpdated": "2026-09-24T01:13:10+08:00",
+    "zhCommitHead": "00496cbc3",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -36,16 +36,16 @@
       },
       "ko": {
         "total_zh": 1124,
-        "fresh": 1069,
-        "stale": 39,
+        "fresh": 1070,
+        "stale": 38,
         "metadata_stale": 0,
         "missing": 16,
         "orphan": 0
       },
       "es": {
         "total_zh": 1124,
-        "fresh": 1059,
-        "stale": 51,
+        "fresh": 1060,
+        "stale": 50,
         "metadata_stale": 0,
         "missing": 14,
         "orphan": 0
@@ -60,8 +60,8 @@
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 1089,
-        "stale": 21,
+        "fresh": 1090,
+        "stale": 20,
         "metadata_stale": 1,
         "missing": 13,
         "orphan": 0
@@ -13744,8 +13744,8 @@
           "sourceContentHash": "sha256:1e8e1f58a3244dd0",
           "sourceBodyHash": "sha256:07a9caf907dd16bd",
           "translatedAt": "2026-09-23T22:11:46+08:00",
-          "translationLastCommit": "fd678fd2",
-          "translationLastModified": "2026-07-25T10:32:02+08:00",
+          "translationLastCommit": "85941924",
+          "translationLastModified": "2026-09-24T01:08:36+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "bytes": 31571,
@@ -78076,11 +78076,11 @@
           "translationLastCommit": "",
           "translationLastModified": "",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 73108,
+          "footnoteDefs": 60,
+          "bytes": 103733,
           "armorResidue": 0,
           "status": "stale",
-          "reason": "footnote-loss (85→0)"
+          "reason": "footnote-loss (85→60)"
         },
         "ko": {
           "path": "ko/About/algorithmic-art-bigger-than-nations.md",
@@ -78089,11 +78089,11 @@
           "sourceContentHash": "sha256:f80a6926eb8b07e4",
           "sourceBodyHash": "sha256:9644f2433efde351",
           "translatedAt": "2026-09-23T17:00:28Z",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f315df05",
+          "translationLastModified": "2026-09-24T01:09:31+08:00",
           "inferred": false,
           "footnoteDefs": 85,
-          "bytes": 106404,
+          "bytes": 106471,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -78105,14 +78105,14 @@
           "sourceContentHash": "sha256:f80a6926eb8b07e4",
           "sourceBodyHash": "sha256:9644f2433efde351",
           "translatedAt": "2026-09-23T16:59:56Z",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "00496cbc",
+          "translationLastModified": "2026-09-24T01:12:18+08:00",
           "inferred": false,
-          "footnoteDefs": 30,
-          "bytes": 81558,
+          "footnoteDefs": 85,
+          "bytes": 103727,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (85→30)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/About/algorithmic-art-bigger-than-nations.md",
@@ -78125,7 +78125,7 @@
           "translationLastModified": "",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 40990,
+          "bytes": 63289,
           "armorResidue": 0,
           "status": "stale",
           "reason": "footnote-loss (85→0)"
@@ -78141,7 +78141,7 @@
           "translationLastModified": "",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 43344,
+          "bytes": 72762,
           "armorResidue": 0,
           "status": "stale",
           "reason": "footnote-loss (85→0)"
@@ -78157,7 +78157,7 @@
           "translationLastModified": "",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 38244,
+          "bytes": 67044,
           "armorResidue": 0,
           "status": "stale",
           "reason": "footnote-loss (85→0)"
@@ -78169,8 +78169,8 @@
           "sourceContentHash": "sha256:f80a6926eb8b07e4",
           "sourceBodyHash": "sha256:9644f2433efde351",
           "translatedAt": "2026-09-23T17:00:53Z",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "99df67d4",
+          "translationLastModified": "2026-09-24T01:08:51+08:00",
           "inferred": false,
           "footnoteDefs": 85,
           "bytes": 102516,
@@ -78189,7 +78189,7 @@
           "translationLastModified": "",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 53590,
+          "bytes": 104342,
           "armorResidue": 0,
           "status": "stale",
           "reason": "footnote-loss (85→0)"
@@ -78205,7 +78205,7 @@
           "translationLastModified": "",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 49949,
+          "bytes": 89974,
           "armorResidue": 0,
           "status": "stale",
           "reason": "footnote-loss (85→0)"
@@ -78221,7 +78221,7 @@
           "translationLastModified": "",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 51812,
+          "bytes": 90700,
           "armorResidue": 0,
           "status": "stale",
           "reason": "footnote-loss (85→0)"
@@ -78237,7 +78237,7 @@
           "translationLastModified": "",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 29761,
+          "bytes": 54629,
           "armorResidue": 0,
           "status": "stale",
           "reason": "footnote-loss (85→0)"
@@ -95569,8 +95569,8 @@
           "sourceContentHash": "sha256:614611394f0bdd05",
           "sourceBodyHash": "sha256:aa5e5b4b6a3ee873",
           "translatedAt": "2026-09-23T22:11:46+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "85941924",
+          "translationLastModified": "2026-09-24T01:08:36+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "bytes": 28856,
@@ -125784,20 +125784,18 @@
         "ko": {
           "path": "ko/People/lin-chi-wei-social-innovator.md",
           "translatedFrom": "People/林啟維.md",
-          "sourceCommitSha": "cfaa22a5d",
-          "sourceContentHash": "sha256:82817fc4c48a612b",
-          "sourceBodyHash": "sha256:5e2c0e25dde8c071",
-          "translatedAt": "2026-07-07T00:38:22+08:00",
+          "sourceCommitSha": "4f3974f86",
+          "sourceContentHash": "sha256:50a3b31b4cb61eed",
+          "sourceBodyHash": "sha256:e893f57da90167f4",
+          "translatedAt": "2026-09-23T22:11:48+08:00",
           "translationLastCommit": "c297b51f",
           "translationLastModified": "2026-09-22T08:43:11+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "bytes": 21070,
+          "bytes": 20475,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/lin-chi-wei-social-innovator.md",
@@ -165785,18 +165783,18 @@
         "vi": {
           "path": "vi/History/ponlai-rice.md",
           "translatedFrom": "History/蓬萊米.md",
-          "sourceCommitSha": "69b3afd91",
-          "sourceContentHash": "sha256:3c85e554c80495b9",
-          "sourceBodyHash": "sha256:39ddb75027efa4b4",
-          "translatedAt": "2026-08-09T08:07:25+08:00",
+          "sourceCommitSha": "4e22e3bb9",
+          "sourceContentHash": "sha256:3d54c34f765113cd",
+          "sourceBodyHash": "sha256:fa292335dae74f0c",
+          "translatedAt": "2026-09-23T22:11:54+08:00",
           "translationLastCommit": "91f87865",
           "translationLastModified": "2026-08-09T09:14:01+08:00",
           "inferred": false,
-          "footnoteDefs": 8,
-          "bytes": 17431,
+          "footnoteDefs": 14,
+          "bytes": 29677,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (14→8)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/History/ponlai-rice.md",
