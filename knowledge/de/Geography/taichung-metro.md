@@ -17,10 +17,10 @@ rationale:
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'Geography/台中捷運.md'
-sourceCommitSha: '65acd39dc'
-sourceContentHash: 'sha256:930e1cf08d9847c7'
-sourceBodyHash: 'sha256:ac8494ae079b5eb8'
-translatedAt: '2026-09-15T19:45:39+08:00'
+sourceCommitSha: 'd9ef16d5e'
+sourceContentHash: 'sha256:9851afbe3b082508'
+sourceBodyHash: 'sha256:9e4ce2561244c6a9'
+translatedAt: '2026-09-23T02:11:45.361049+00:00'
 ---
 
 > **30-Sekunden-Zusammenfassung:** Im Jahr 2020 fiel die erste grüne Metro-Linie in Taichung am sechsten Tag des Probebetriebs wegen eines Ausfalls der Verbindungsgelenke aus. Erst im Folgejahr wurde sie offiziell eröffnet. Die 16,7 km lange Hochbahnlinie verbindet Beitun, Wenxin Road und den HSR Taichung Bahnhof und bringt eine Stadt, die lange auf Busse, Motorräder und Autos angewiesen war, in das Zeitalter der Schiene, in dem Umsteigen, Sicherheit und Fußgängerverkehr diskutiert werden müssen. Was sie wirklich verändert hat, ist nicht nur, wo die Menschen einsteigen, sondern wie Taichung begann, seine Distanzen neu zu definieren – mit „nächster Halt“.
@@ -65,30 +65,30 @@ Die Zeitleiste von CNA dokumentierte diese Verzögerung klar. Die grüne Linie w
 
 Aus Sicht der Ingenieure waren die Lehren konkret. Tests sind keine zeremoniellen Vorbereitungen vor der Eröffnung, sondern kontinuierliche Nachprüfungen danach. Aus Sicht der Passagiere war es ein anderes Problem: Eine Linie kann neu sein, aber sie kann nicht verlangen, dass die Passagiere ihre eigenen Körper für die letzte Validierung leisten.
 
-## Die grüne Linie ist mehr als nur zwei Endpunkte
+## Die grüne Linie verbindet nicht nur zwei Endpunkte
 
-Die grüne Linie wird am leichtesten als eine Verbindung von „Beitun zum HSR“ verstanden. Dieser Blickwinkel ist nicht falsch, aber zu eng. Sie integriert das Wohngebiet in Beitun, den Taiwan Railway Umstieg in Songzhu, die kommerzielle Aktivität entlang der Wenxin Road, das Verwaltungszentrum rund um das Rathaus und den HSR Taichung Bahnhof in ein einziges Tarif- und Taktbild.
+Die grüne Linie wird am einfachsten als Anschlusslinie von **Nanjong** (Nanjong) nach **HSR Taichung Station** verstanden. Dieses Verständnis ist nicht falsch, aber zu eng. Gleichzeitig bringt sie die Wohngegenden von **Nanjong**, die **TRA-Umstiege in Songzhu**, das kommerzielle Leben an **Wenxin Road**, das administrative Zentrum um den **City Hall** und den **HSR Taichung Station** in ein und dieselbe Ticket- und Taktungszone.
 
-Diese Linie machte auch die städtische Skala von Taichung greifbar. Die Hochbahnstrecke führte über die Straßen; die Stationen und Aufzüge brachten die Menschen vom Boden auf eine andere Höhe. Orte, die normalerweise nur auf einer Karte benachbart waren, wurden durch die konkrete Einheit „nächster Halt“ verbunden. Die Stadt wird nicht mehr nur durch Straßenlänge beschrieben, sondern auch durch die Wartezeit zwischen den Stationen.
+Diese Linie macht auch die Stadtgröße von **Taichung** greifbar. Die Hochenbaumassen fahren über die Straße, und Bahnhöfe mit Fahrtreppen bringen die Menschen von der Straße auf eine andere Höhe. Orte, die auf der Karte nur nebeneinander liegen, bekommen nun die konkrete Einheit **„nächster Halt“**. Die Stadt wird nicht nur durch Straßenlänge, sondern auch durch die Wartezeit zwischen zwei Stationen beschrieben.
 
-Der Railway Gazette wies darauf hin, dass die grüne Linie westlich der Innenstadt verlief und den Taiwan Railway Taichung Bahnhof nicht bediente. Diese Lücke machte sie eher zu einem Gerüst als zum fertigen Netz. Das Stadtverwaltungsbüro für Metroprojekte plant die Erweiterung der grünen Linie nach Dakeng und Changhua sowie die zukünftigen Linien blau, orange, violett und rot in das Gesamtnetz.[^4] [^5]
+Railway Gazette weist darauf hin, dass die grüne Linie durch das **Westviertel der Innenstadt** verläuft und **TRA Taichung Station** nicht bedient. Diese Lücke macht sie eher zu einem ersten Gerüst als zu einem vollständigen Netz. Die Stadtverwaltung **Taichung MRT Engineering Bureau** hat die grüne Linie aktuell mit der Verlängerung nach **Dagong**, **Changhua** sowie den späteren Linien **Blau**, **Orange**, **Violett** und **Rot** in die Gesamtvision des Schienenverkehrsnetzes integriert.[^4] [^5]
 
-![Taichung Metro Zug nähert sich HSR Taichung Station](https://commons.wikimedia.org/wiki/Special:FilePath/2020-11-20_MRT_train_near_HSR_Taichung_Station_%28Taichung_Metro%29.jpg?width=1280)
+![Taichung MRT Zug nahe HSR Taichung Station](https://commons.wikimedia.org/wiki/Special:FilePath/2020-11-20_MRT_train_near_HSR_Taichung_Station_%28Taichung_Metro%29.jpg?width=1280)
 
-_Bild: Taichung Metro Zug nähert sich HSR Taichung Station. Foto: WC-QHS. Bildquelle: [Wikimedia Commons Datei Seite](https://commons.wikimedia.org/wiki/File:2020-11-20_MRT_train_near_HSR_Taichung_Station_%28Taichung_Metro%29.jpg), verwendet unter CC BY-SA 2.0, wobei der Urheber genannt und das Werk in gleicher Weise geteilt werden muss.\*[^9]
+_©: Taichung MRT Zug nahe HSR Taichung Station. Fotograf: WC-QHS. Bildquelle: [Wikimedia Commons Dateiseite](https://commons.wikimedia.org/wiki/File:2020-11-20_MRT_train_near_HSR_Taichung_Station_%28Taichung_Metro%29.jpg), lizenziert unter CC BY-SA 2.0, Namensnennung, gleiche Lizenz für abgeleitete Werke.[^9]
 
 ```tw-timeline
-Die Taichung grüne Linie erschien nicht über Nacht (Jahr)
-1993 | Frühe Planung | Das städtische Massentransportsystem von Taichung begann die institutionalisierte Planung
-2004 | Grüne Linie genehmigt | Die Wuri Wenxin Beitun Linie wurde zum frühen Netz
-2009 | Bau begonnen | Die grüne Linie trat in die langfristige Bauphase ein
-2020 | Probebetrieb | 18 Stationen wurden erstmals für die Öffentlichkeit geöffnet
-2021 | Offizielle Eröffnung | Nach Wartung und Testbetrieb offiziell in Betrieb genommen
-Quelle: Taichung Metro Engineering Bureau, Taichung Metro Company, CNA
+Taichung Grüne Linie – Entstehung (Jahr)
+1993 | Erste Planung | Das städtische Massentransportsystem von Taichung beginnt systematisch geplant
+2004 | Genehmigt | Die **Wenxin Nanjong Linie** wird als erste Linie genehmigt
+2009 | Baubeginn | Die grüne Linie beginnt offiziell mit der langen Bauphase
+2020 | Probebetrieb | 18 Stationen öffnen erstmals für die Öffentlichkeit
+2021 | Regulärer Betrieb | Nach Wartungsarbeiten startet der Probebetrieb erneut und beginnt regulär zu fahren
+Quelle: Taichung Stadtverwaltung MRT-Ingenieurbüro, Taichung MRT Co., CNA
 ```
 
-> **📝 Kuratorentipp**
-> Der Wert der ersten Linie liegt nicht darin, dass sie Taichung verbunden hat, sondern darin, dass sie die nächste Linie zu einem Versprechen gemacht hat, das von den Passagieren verglichen werden kann.
+> **📝 Redaktionsnotiz**
+> Der Wert der ersten Linie liegt nicht darin, dass sie Taichung bere bereichert hat, sondern dass sie es ermöglicht, dass die nächste Linie nicht nur eine farbige Linie auf der Karte ist, sondern eine Versprechen, das Fahrgäste vergleichen können.
 
 ## Die Auswirkungen einer U-Bahnlinie sind mehr als nur Fahrgastzahlen
 
@@ -98,20 +98,20 @@ Dieses Ergebnis ist in Bezug auf die Verkehrssituation in Taichung interessanter
 
 Mit anderen Worten ist die Preisänderung rund um eine U-Bahnstation nur ein Ergebnis. Die wichtigere Frage ist: Hat die Station tatsächlich dazu geführt, dass weniger jemand mit dem Motorrad fahren muss, Kinder selbst zur Station gehen können oder Menschen ohne Auto in Taichung mehr Optionen haben? Der Erfolg eines Verkehrsprojekts sollte nicht nur an der Frage „Wie viel teurer wurde es in der Nähe?“ gemessen werden, sondern auch daran, „Wer hat durch dies eine weitere Anreiseoption erhalten?“
 
-## Die Stadt über den Stationen und das Alltägliche darunter
+## Die Stadt über dem Bahnhof, das Alltägliche darunter
 
-Die meisten Abschnitte der grünen Linie sind als Hochbahn ausgeführt, was die Station zu einem vertikalen städtischen Eingang macht. Passagiere gehen zuerst vom Unterstand, einer Kreuzung oder einer Bushaltestelle zum Bahnhofsgebäude hinauf und steigen dann über Aufzüge und Rolltreppen auf, um schließlich am Bahnsteig anzukommen. Die Projektunterlagen von Otis geben an, dass die grüne Linie 18 Stationen hat und bei der Bauphase 117 Schwerlastaufzüge und 59 Aufzüge installiert werden mussten, ohne den normalen Verkehrs- und Personenfluss zu stören.[^6]
+Die grüne Linie verläuft überwiegend in Höhenbahnen, wodurch der Bahnhof zu einem vertikalen Stadtzugang wird. Die Passagiere gehen zuerst über die Laubengänge, an den Kreuzungen oder zu den Bushaltestellen zum Bahnhofsgebäude, steigen dann die Treppen hinauf oder nutzen die Fahrstühle und Aufzüge, bevor sie schließlich die Plattform erreichen. Laut dem Projektdokument der Firma Otis verfügt die grüne Linie insgesamt über 18 Stationen, wobei bei der Errichtung 117 schwere Fahrtreppen und 59 Aufzüge unter Beibehaltung des regulären Straßen- und Fußgängerverkehrs installiert werden mussten.[^6]
 
-![Taichung Metro Rathausstation grüne Linie Bahnsteig](https://commons.wikimedia.org/wiki/Special:FilePath/Taichung_Metro_Taichung_City_Hall_Station_Green_Line_Platform.jpg?width=1280)
+![Grüne Linie des Taichung MRT am Bahnhof Taichung City Hall](https://commons.wikimedia.org/wiki/Special:FilePath/Taichung_Metro_Taichung_City_Hall_Station_Green_Line_Platform.jpg?width=1280)
 
-_Bild: Taichung Metro Rathausstation grüne Linie Bahnsteig. Foto: Cheng,Cheng-en, Wikimedia Benutzer Rail02000. Bildquelle: [Wikimedia Commons Datei Seite](https://commons.wikimedia.org/wiki/File:Taichung_Metro_Taichung_City_Hall_Station_Green_Line_Platform.jpg), verwendet unter CC BY-SA 4.0, wobei der Urheber genannt und das Werk in gleicher Weise geteilt werden muss._[^10]
+_Abbildung: Grüne Linie des Taichung MRT am Bahnhof Taichung City Hall. Foto: Cheng, Cheng-en, Wikimedia-Benutzer Rail02000._ Bildquelle: [Wikimedia Commons-Dateiseite](https://commons.wikimedia.org/wiki/File:Taichung_Metro_Taichung_City_Hall_Station_Green_Line_Platform.jpg), lizenziert unter CC BY-SA 4.0; Namensnennung des Autors, der Lizenz und Freigabe von abgeleiteten Werken unter derselben Lizenz erforderlich.[^10]
 
-Diese vertikale Bewegung hat ihren Preis. Für die Eiligen ist der Weg zum Treppenhaus die Umsteigekosten. Für diejenigen, die Kinderwagen schieben, Rollstuhlfahrer sind oder Gepäck tragen, ob ein Aufzug leicht zu finden ist, bestimmt, ob sie die U-Bahn überhaupt nutzen können. Die Erreichbarkeit der U-Bahn beginnt nicht erst, wenn der Zug am Bahnsteig ankommt, sondern schon auf dem Gehweg bis zum Eingang.
+Diese vertikale Bewegung hat ihren Preis. Für eilige Reisende ist der Abstand der Treppeneingänge die Umsteigekosten. Für Eltern mit Kinderwagen, Rollstuhlfahrern oder Reisende mit Gepäck ist die Leichtfindbarkeit der Aufzüge Voraussetzung dafür, überhaupt die Möglichkeit zu haben, die Straßenbahn zu nutzen. Die Barrierefreiheit einer Straßenbahn beginnt nicht erst mit der Ankunft des Zuges auf der Plattform, sondern bereits mit dem ersten Schritt vom Bürgersteig zum Eingang.
 
-Die Taichung grüne Linie war daher eine Erinnerung, die über der Stadt hing: Schienen können Blöcke überspannen, aber das Leben kann nicht schwebend sein. Die Bürgersteige, Wetterschutzanlagen, Busverbindungen und Nachtbeleuchtung rund um die Station bestimmen, ob eine Hochbahn ein bequemer Alltag oder nur eine schöne Linie auf einer Karte ist.
+Die grüne Linie von Taichung erinnert daher auch an eine Erinnerung, die über die Stadt gebaut ist: Die Schienen können über die Stadtplätze hinweggehen, aber das Leben darunter kann nicht schweben. Die Bürgersteige, Regenunterstände, Busanschlüsse und Nachtbeleuchtung rund um die Bahnhöfe entscheiden letztlich, ob eine Höhenbahn eine natürliche Ergänzung des täglichen Lebens ist oder nur ein hübsches Linien auf der Karte.
 
-> **📝 Kuratorentipp**
-> Die Hochbahn hebt den Zug an, aber sie hebt die Passagiere nicht vom Boden ab. Das wahre städtische Bauwerk findet immer noch auf dem Weg vor dem Eingang statt.
+> **📝 Herausgebergnotiz**
+> Eine Höhenbahn hebt die Züge in die Höhe, aber sie hebt die Reisenden nicht vom Boden. Die wahre Stadtingenieurkunst geschieht weiterhin auf dem Weg vom Eingang.
 
 ## Wie die Stationen zwei Verkehrsmittel verbinden
 
@@ -150,22 +150,22 @@ Was die Passagiere aber wirklich erinnern werden, ist vielleicht nicht die Läng
 
 Die städtische Bedeutung der Taichung Metro liegt in diesen unaufgeregten Wiederholungen verborgen. Jemand fährt zum ersten Mal zur Arbeit; jemand bringt Kinder zum HSR Taichung Bahnhof; jemand muss nicht mehr parken, um ein Event zu sehen. Die feste Schiene macht die Zukunft der Stadt zu einer täglichen, wiederkehrenden Handlung. Erst wenn das Bahnhofsgebäude, der Bahnsteig, der Umstieg und die Straße durch eine einzige Reise verbunden sind, wird die U-Bahn wirklich von einem technischen Begriff zum städtischen Leben.
 
-## Umsteigen ist keine Zusatzaufgabe, sondern die zweite Strecke der grünen Linie
+## Der Umstieg ist kein zusätzliches Extra, sondern der zweite Schienenstrang der grünen Linie
 
-Die 18 Stationen der grünen Linie vervollständigen nicht jede einzelne Reise. Für die meisten Passagiere ist die wahre Route: vom Wohnhaus zur Bushaltestelle, von der Bushaltestelle zum U-Bahn-Eingang, vom Bahnsteig zum Ziel und dann vom letzten Bahnhof in das Büro, die Schule oder das Einkaufszentrum zu Fuß. Jeder Wechsel erfordert eine Neubewertung der Zeit. Wenn ein Abschnitt keinen Wetterschutz hat, keine klaren Wegweiser gibt oder die Wartezeit zu lang ist, kehren die Passagiere möglicherweise zum vertrauten Motorrad zurück.
+Die 18 Stationen der grünen Linie werden nicht alleine eine Reise vollenden. Für die meisten Fahrgäste ist die wahre Route von der Wohnung zur Bushaltestelle, von der Bushaltestelle zum U-Bahneingang, vom Bahnsteig zum Ziel, und dann von der letzten Station in das Büro, die Schule oder das Einkaufszentrum. Jeder Händedruck kann dazu führen, dass man die Zeit neu berechnet. Wenn eine dieser Etappen keinen Regenschutz hat, keine klaren Hinweise gibt oder die Wartezeit zu lang ist, greifen die Fahrgäste möglicherweise wieder zu ihrem vertrauten Motorrad.
 
-Die Bedeutung von Songzhu Station und HSR Taichung Bahnhof liegt darin, dass sie die grüne Linie nicht nur als eine einfache Strecke zwischen zwei Endpunkten definieren. Die erste integriert die U-Bahn in das Taiwan Railway Umsteigzetz, während die zweite die städtische Schiene mit dem Hochgeschwindigkeitszug, Bussen und Fernreisen auf einem gemeinsamen Fahrplan platziert. Der Wert dieser Knotenpunkte liegt nicht in der Größe des Bahnhofs selbst, sondern darin, ob Verkehrsmittel unterschiedlicher Geschwindigkeit bei derselben Ausreise zusammenpassen können.[^1] [^4]
+Die Bedeutung der Stationen Songzhu und dem Hochgeschwindigkeitsbahnhof Taichung liegt darin, dass sie die grüne Linie nicht nur zu einer einfachen Verbindung zwischen zwei Endpunkten machen. Ersteres bringt die U-Bahn ins Netz der Eisenbahnumstiege, während letzteres die Stadtschienen mit der Hochgeschwindigkeitsbahn, den Anschlussbussen und dem städtischen Nahverkehr auf derselben Reise zusammenbringt. Der Wert dieser Knoten liegt nicht darin, wie groß der Bahnhof selbst ist, sondern darin, wie gut Verkehrsmittel unterschiedlicher Geschwindigkeit innerhalb einer einzigen Ausfahrt miteinander verbunden werden können.[^1] [^4]
 
-Die nächste Frage der Taichung grünen Linie ist nicht einfach „Wie viele Linien müssen noch gebaut werden?“. Wenn das Netz länger wird, müssen auch die Tarifsysteme, Taktintervalle, Umsteigedistanzen und Informationsgestaltung größer werden. Wenn jede Linie für sich bequem ist, aber der Umstieg weit entfernt ist, erhält die Stadt möglicherweise nur mehr Optionen, nicht jedoch eine leichter erreichbare Lebensqualität. Dies ist der Grund, warum das Rathaus die Erweiterung der grünen Linie mit den Linien blau, orange, violett und rot im Gesamtnetz plant.[^4]
+Das nächste Problem der grünen Linie von Taichung ist somit nicht einfach die Frage: „Wie viele weitere Linien müssen noch gebaut werden?“ Wenn das Netz länger wird, müssen auch die Ticketvalidierung, die Zugabstände, die Umstiegsstrecken und die Informationsgestaltung gemeinsam erweitert werden. Wenn jede Linie für sich bequem ist, aber der Umstieg sehr weit gehen muss, erlangt die Stadt vielleicht mehr Optionen, aber nicht unbedingt ein einfacheres Leben. Aus diesem Grund plant die Stadtverwaltung die Verlängerung der grünen Linie zusammen mit den blauen, orangefarbenen, lila- und roten Linien im Rahmen eines Gesamtnetzes.[^4]
 
-Aus Sicht des Projektmanagements ist der Umstieg der beste Indikator dafür, ob ein Bauprojekt nutzerzentriert ist. Die Pünktlichkeit des Zuges kann durch das System dokumentiert werden; die Bereitschaft der Passagiere, noch einmal zu fahren, hängt jedoch davon ab, ob sie nach dem Aussteigen sicher eine Kreuzung überqueren können, wissen, wo der nächste Bus kommt, und ob sie mit Gepäck keinen Umweg nehmen müssen. Der städtische Erfolg der grünen Linie wird sich letztendlich in diesen Details zeigen, die nicht auf den Eröffnungsfotos zu sehen sind.
+Von der Ingenieurmanagement-Sicht ist der Umstieg immer noch der beste Indikator dafür, ob ein öffentliches Bauvorhaben nutzerzentriert gestaltet ist. Die Pünktlichkeit der Züge kann durch Systemdaten belegt werden, aber ob die Fahrgäste bereit sind, erneut einzusteigen, hängt davon ab, ob sie nach dem Aussteigen sicher über die Kreuzung gehen können, ob sie wissen, wo der nächste Bus kommt, und ob sie mit ihrem Gepäck nicht einen Umweg gehen müssen. Die städtische Bewertung der grünen Linie wird letztendlich in diesen Details festgemacht, die nicht in den Einweihungsfotos erscheinen.
 
-![Eingang/Ausgang zwischen Taichung Metro Songzhu Station und TRA Songzhu Station](https://commons.wikimedia.org/wiki/Special:FilePath/Entrance-exit_between_Taichung_Metro_Songzhu_Station_and_TRA_Songzhu_Station_02.jpg?width=1280)
+![Eingangsbereich der U-Bahnhälter Songzhu der grünen Linie und des Eisenbahnhofs Songzhu](https://commons.wikimedia.org/wiki/Special:FilePath/Entrance-exit_between_Taichung_Metro_Songzhu_Station_and_TRA_Songzhu_Station_02.jpg?width=1280)
 
-_Bild: Eingang/Ausgang zwischen Taichung Metro Songzhu Station und TRA Songzhu Station. Foto: Tbatb. Bildquelle: [Wikimedia Commons Datei Seite](https://commons.wikimedia.org/wiki/File:Entrance-exit_between_Taichung_Metro_Songzhu_Station_and_TRA_Songzhu_Station_02.jpg), verwendet unter CC BY-SA 4.0, wobei der Urheber genannt und das Werk in gleicher Weise geteilt werden muss._[^11]
+_ Abbildung: Eingangsbereich der U-Bahnhälter Songzhu der grünen Linie und des Eisenbahnhofs Songzhu. Fotograf: Tbatb. _ Bildquelle: [Wikimedia Commons Dateiseite](https://commons.wikimedia.org/wiki/File:Entrance-exit_between_Taichung_Metro_Songzhu_Station_and_TRA_Songzhu_Station_02.jpg)，Lizenz: CC BY-SA 4.0，Erfordert Namensnennung, Lizenz und Weitergabe unter derselben Lizenz.[^11]
 
-> **📝 Kuratorentipp**
-> Eine U-Bahnlinie braucht auf einer Karte nur zwei Endpunkte; um im Leben anzukommen, benötigt sie viele Wege. Der wahre Umstieg ist es, diese Wege zu einem einzigen Erlebnis zu überzeugen.
+> **📝 Redaktionsnotiz**
+> Eine U-Bahnlinie braucht auf der Karte nur zwei Endpunkte, aber in der Lebenswelt viele Etappen. Der wahre Umstieg besteht nicht darin, diese Etappen zu verbinden, sondern sie davon zu überzeugen, dass sie Teil ders selben Reise sind.
 
 ## Was Taichung nach der grünen Linie noch beantworten muss
 
