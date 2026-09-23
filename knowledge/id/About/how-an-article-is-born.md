@@ -1,10 +1,10 @@
 ---
-title: 'Bagaimana Sebuah Artikel Lahir: Jalur Produksi Enah Tahap Taiwan.md yang Menangkal Insting Penulisan AI (REWRITE-PIPELINE v7.5 × EDITORIAL v6.12)'
-description: 'Setiap artikel Taiwan.md yang Anda baca, yang bernuansa, berlatar, dan dapat diverifikasi, di belakangnya ada 6 tahap, lebih dari 20 gerbang yang tidak boleh dilewati, dan sebuah redaksi AI yang tidak menulis naskah secara mandiri. Alasan tunggal keberadaan mesin ini adalah kesalahan-kesalahan yang paling sering dibuat oleh penulisan AI: mengurutkan fakta berdasarkan waktu begitu ditemukan, menghasilkan kalimat plastik tanpa informasi, menerjemahkan balik ringkasan bahasa Inggris menjadi kutipan palsu, dan terinfeksi kebiasaan buruk artikel lama yang dibaca. Artikel ini membongkar jalur produksi tersebut, dan artikel ini sendiri juga dihasilkan oleh jalur produksi tersebut.'
+title: 'Bagaimana Sebuah Artikel Lahir: Jalur Produksi Enam Tahap Taiwan.md yang Melawan Insting Penulisan AI (REWRITE-PIPELINE v7.5 × EDITORIAL v6.12)'
+description: "Setiap artikel Taiwan.md yang Anda baca memiliki kehangatan, konteks, dan dapat diverifikasi; di baliknya ada 6 tahap, puluhan gerbang wajib yang tidak boleh dilewati, dan sebuah tim editorial AI yang tidak menulis sendiri. Alasan tunggal keberadaan mesin ini adalah kesalahan-kesalahan yang paling sering dilakukan penulisan AI: menemukan fakta lalu mengurutkannya berdasarkan waktu, menghasilkan kalimat 'plastik' tanpa nilai informasi, menerjemahkan kembali ringkasan bahasa Inggris menjadi kutipan palsu, dan terinfeksi kebiasaan buruk dari artikel lama. Ini adalah artikel yang membongkar jalur produksi tersebut, dan artikel ini sendiri juga dihasilkan oleh jalur produksi itu."
 date: 2026-06-19
 tags:
   [
-    'about',
+    'tentang',
     'meta',
     'metodologi penulisan',
     'kurasi',
@@ -21,10 +21,10 @@ lastVerified: 2026-06-19
 lastHumanReview: false
 relatedDiary: ['2026-06-19-123349-manual']
 translatedFrom: 'About/文章如何誕生.md'
-sourceCommitSha: '984fb7892'
-sourceContentHash: 'sha256:92fcb394123e4aee'
-sourceBodyHash: 'sha256:b8984a2133e5738f'
-translatedAt: '2026-07-26T08:13:11+08:00'
+sourceCommitSha: 'd182e5d85'
+sourceContentHash: 'sha256:4dc98dc84117c5d8'
+sourceBodyHash: 'sha256:2679dec9ddab6dbc'
+translatedAt: '2026-09-22T23:54:34.371911+00:00'
 ---
 
 # Bagaimana Sebuah Artikel Lahir: Jalur Produksi Enah Tahap Taiwan.md yang Menangkal Insting Penulisan AI (REWRITE-PIPELINE v7.5 × EDITORIAL v6.12)
@@ -206,21 +206,21 @@ Pengendalian adalah sisi lain. Keluarga nyata, penyakit, kontradiksi, kegagalan 
 
 Masih ada kebiasaan kecil tetapi sangat penting: menulis "Taiwan" dengan大方. Sidik jari tersembunyi di aksen terjemahan langsung media asing, untuk tidak menulis Taiwan mengganti dengan "pulau ini", "tempat ini" sebagai ganti, terutama di judul dan pembuka. Pulau sebagai citra sastra, sebagai adegan geografi tentu bisa ditulis, juga didorong, yang harus dihancurkan adalah penghindaran yang tidak berani menulis Taiwan.
 
-## Melihat Perbedaan yang Bisa Dipahami Sekali Pandang
+## Perbedaan yang Jelas Sekali Lihat
 
-Bagaimana kombinasi disiplin ini terlihat, melihat perbandingan sebelum-sesudah paling cepat.
+Bagaimana rupa gabungan disiplin-disiplin ini? Melihat perbandingan sebelum-sesudah adalah cara tercepat.
 
-Menulis tentang Tai Tzu-ying yang sama, template kosong AI akan menjadi "atlet bulu tangkis Taiwan terkenal, performa luar biasa di lapangan internasional, memenangkan penghargaan berkali-kali, memuliakan Taiwan", diikuti empat bullet: pencapaian utama, gaya pertandingan, pengaruh internasional, kontribusi sosial. Seluruh paragraf tidak ada tahun konkret, tidak ada pertandingan konkret, subjek diganti menjadi atlet mana pun成立.
+Menulis tentang Tai Tzu-ying yang sama, template kosong AI akan berbunyi „atlet bulu tangkis terkenal Taiwan, prestasi luar biasa di panggung internasional, berjuara berkali-kali, membanggakan Taiwan”, diikuti empat bullet: pencapaian utama, gaya bermain, dampak internasional, kontribusi sosial. Seluruh paragraf tidak memiliki satu tahun spesifik pun, tidak ada satu pertandingan spesifik pun, subjeknya bisa diganti dengan atlet manapun dan tetap valid.
 
 ```tw-versus
-Template kosong AI | Versi kurasi
-Performa luar biasa, memuliakan Taiwan | Berdiri di Dunia Pertama, satu tempat selama 214 minggu
-Empat bullet: pencapaian / gaya / pengaruh / kontribusi | Menangis Setelah Pertandingan Emas Olimpiade Tokyo 2020, Muncul di Pencarian Pertama Google Taiwan
-Subjek diganti siapa pun成立 | 6 tahun mulai 6 jam sehari, gaya "penyihir" tangan kiri
-Sumber: EDITORIAL v6.12 §Sebelum/Sesudah Tai Tzu-ying
+Template Kosong AI | Versi Kurasi
+Prestasi luar biasa, membanggakan Taiwan | Menduduki peringkat dunia pertama, bertahan 214 minggu
+Empat bullet: pencapaian/gaya/dampak/kontribusi | Final emas Olimpiade Tokyo 2020 menangis setelah pertandingan, menduduki peringkat pertama pencarian Google Taiwan
+Subjek diganti siapa pun tetap valid | Sejak usia 6 tahun 6 jam sehari, gaya bermain „penyihir” tangan kiri
+Sumber: EDITORIAL v6.12 §Before/After Tai Tzu-ying
 ```
 
-Versi kurasi melakukan satu hal: mengganti setiap kata sifat abstrak dengan fakta yang dapat diverifikasi. 214 minggu adalah minggu beruntun terpanjang dalam sejarah bulu tangkis wanita, pertandingan emas Olimpiade 2020 yang kalah terhadap Chen Yu-fei, adalah momen yang diingat kolektif Taiwan. Suhu tubuh tersembunyi di tempat seperti "momen kalah justru momen yang diingat pembaca". Artikel Mayday juga sama, lebih baik menulis "lima siswa Sekolah Menengah Atas Fudan di Taiwan menyanyi satu lagu di panggung liar, 28 tahun kemudian di Madison Square Garden New York (same stage Beatles menginjak Amerika) membuka dua pertunjukan, tiket terjual habis dalam 48 jam"[^13].
+Versi kurasi hanya melakukan satu hal: mengganti setiap kata sifat abstrak dengan fakta yang dapat diverifikasi. 214 minggu adalah minggu berurutan terlama dalam sejarah bulu tangkis putri, final emas Olimpiade 2020 di mana dia kalah dari Chen Yufei, adalah momen yang diingat secara kolektif oleh Taiwan. Kehangatan justru tersembunyi di tempat seperti „momen kekalahan justru menjadi momen yang diingat pembaca”. Artikel Mayday juga sama, alih-alih menulis „satu dari grup rock paling berpengaruh Taiwan, menaklukkan penggemar dengan musik energi positif”, lebih baik menulis „empat siswa SMA Affiliated to Universitas Normal Taiwan bermain satu lagu di panggung terbuka, 28 tahun kemudian di Madison Square Garden New York (panggung yang sama tempat The Beatles pertama kali tampil di AS) menggelar dua konser berturut-turut, tiket terjual habis dalam 48 jam”[^13].
 
 ## Sebuah Redaksi yang Tidak Menulis Naskah Sendiri
 

@@ -2,9 +2,7 @@
 title: 'Jensen Huang'
 description: 'Dari asrama di Kentucky hingga kekaisaran bernilai lima triliun dolar AS—bagaimana seorang bocah Tainan yang menyapu toilet mempertaruhkan masa depan yang baru terwujud sepuluh tahun kemudian'
 date: 2026-03-25
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '科技與企業'
 tags:
   [
     'Figur',
@@ -16,15 +14,18 @@ tags:
     'Tainan',
     'GPU',
   ]
+subcategory: '科技與企業'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-06-22
 lastHumanReview: false
-featured: true
+researchReport: 'reports/research/2026-06/黃仁勳-evolve.md'
 image: '/article-images/technology/computex-jensen-huang-2016.webp'
 translatedFrom: 'People/黃仁勳.md'
-sourceCommitSha: '09c1bf1a9'
-sourceContentHash: 'sha256:e9178b000513a553'
-sourceBodyHash: 'sha256:0447f104316070ca'
-translatedAt: '2026-07-18T18:59:54+08:00'
+sourceCommitSha: '0df538d8c'
+sourceContentHash: 'sha256:28ebca4abc1527e4'
+sourceBodyHash: 'sha256:2ae685b1d23ee474'
+translatedAt: '2026-09-23T00:42:08.445326+00:00'
 ---
 
 # Jensen Huang (黃仁勳)
@@ -142,26 +143,27 @@ Curtis Priem mengingat: "Kami mendengarnya pada hari pertama. Kami berkata kepad
 
 Ketika ditanya bagaimana ia bertahan melalui tahun-tahun tanpa akhir, jawabannya sangat Huang Jen-hsun: "Ada banyak penderitaan di antaranya, tetapi Anda harus percaya pada apa yang Anda percayai" (There's a lot of suffering in between, but you've gotta believe what you believe)[^18]. Kalimat ini hampir bisa menjadi catatan kaki seumur hidup kariernya—dari menyapu toilet, mencuci piring, jalan buntu rendering quadrilateral, hingga menunggu CUDA selama enam belas tahun, yang membuatnya berbeda adalah selama belasan tahun sebelum taruhan terwujud, ia tidak pernah melepaskan pegangannya.
 
-## Orang yang Menyapu Toilet dan Tato NVIDIA-nya
+## Orang yang Membersihkan Toilet dan Tatu Dirinya di NVIDIA
 
-Pada 2024, Huang Jen-hsun dianugerahi gelar doktor kehormatan dari Universitas Nasional Taiwan, dipilih sebagai CEO Terbaik Tahunan oleh _The Economist_, dan masuk dalam 100 Figur Berpengaruh _Time_. Pada 2025, ia dan ilmuwan utama NVIDIA, Bill Dally, dianugerahi Penghargaan Teknik Ratu Elizabeth (Queen Elizabeth Prize for Engineering), bersama perintis AI Geoffrey Hinton, Yann LeCun, Fei-Fei Li, dan lainnya, dengan hadiah yang diberikan secara pribadi oleh Raja Charles III di Istana St. James[^12].
+Pada tahun 2024, Huang Jen-hsun dianugerahi gelar Dokter Honorisis causa dari Universitas Taiwan, dipilih oleh _The Economist_ sebagai CEO Terbaik Tahun ini, dan masuk dalam daftar 100 Orang Paling Berpengaruh versi _Time_. Pada tahun 2025, ia bersama Chief Scientist NVIDIA, Bill Dally, mendapatkan Penghargaan Rekayasa Elisabeth Ratu (Queen Elizabeth Prize for Engineering), bersama-sama dengan para pelopor AI seperti Geoffrey Hinton, Yann LeCun, dan Fei-Fei Li, yang dianugerahkan langsung oleh Raja Charles III di Istana Saint James’s[^12]。
 
-Pada 2026, ia oleh banyak media disebut langsung sebagai "Guru AI", setiap pidato publik dianggap sebagai bola arah industri, bahkan jaket kulit mana yang ia pakai, dan stan pasar malam mana yang ia makan, bisa menjadi berita utama. Seorang siswa teknik elektro berusia enam belas tahun yang melompat dua tingkat, terlihat seperti anak kecil, telah berjalan hingga posisi di mana seluruh dunia mendengarkan dengan telinga terbuka. Dan cara ia merespons semua ini, tetap terbang kembali ke Taiwan setiap kuartal, masuk ke stan makanan Tainan, dan berdebat dengan pemilik stan dalam bahasa Hokkien.
+Pada tahun 2026, ia mulai disebut langsung oleh banyak media sebagai “Guru AI”, setiap kuliah umumnya dianggap sebagai termometer seluruh industri. Bahkan, pakaian kulit yang ia kenakan dan makanan malam di pasar malam mana saja bisa menjadi headline berita. Seorang siswa teknik yang dulu pada usia enam belas tahun melompat dua kelas, yang kelihatan masih seperti anak kecil, kini telah tiba di posisi di mana seluruh dunia mendengarkan setiap perkataannya. Dan cara Ia menanggapi semua ini, tetap sama: setiap kuartal terbang kembali ke Taiwan, masuk ke gerai makanan kaki lima di Tainan, dan bertengkar dengan pemiliknya menggunakan bahasa Hokkien Tionghoa.
 
-Namun di luar semua gelar, ada detail yang mungkin lebih menjelaskan siapa dia sebenarnya. Ketika nilai pasar NVIDIA melampaui satu triliun dolar AS, ia memenuhi janji kepada karyawannya, dan menato logo NVIDIA di lengannya.
+Namun, di luar segala gelar, ada satu hal kecil yang mungkin lebih menggambarkan siapa sebenarnya dirinya. Ketika nilai pasar NVIDIA melampaui satu triliun dolar AS, ia menepati janjinya kepada karyawannya dengan menatu logo NVIDIA di lengannya.
 
-Sekarang ada tato merek perusahaan di lengan Huang Jen-hsun. Teman kamarnya yang berusia sepuluh tahun, penuh tato, mengajarinya angkat beban, dan ia mengajarinya membaca. Transaksi itu berjarak tepat lima puluh tahun, mungkin ROI tertinggi dalam hidupnya.
+Lengan Huang Jen-hsun kini ditinggai sebuah tatu merek dagang perusahaan. Teman sekamarnya yang dulu penuh tatu di seluruh tubuhnya ketika ia masih berusia sepuluh tahun, yang mengajarkan ia cara mengangkat beban, sementara ia mengajarkan temannya cara membaca. Transaksi itu terpisah oleh selang lima puluh tahun, kira-kira adalah investasi dengan ROI tertinggi dalam hidupnya.
 
 ---
 
-**Bacaan Lanjutan**:
+**Bacaan Lanjutan**：
 
-- [Morris Chang] — Mitra kolaborasi paling kritis NVIDIA, pendiri TSMC, persahabatan lebih dari tiga puluh tahun mengikat rantai pasok AI global
-- [Perusahaan Taiwan: TSMC] — Perusahaan Taiwan yang membuat chip paling canggih NVIDIA, "pahlawan dunia" dalam kata-kata Huang Jen-hsun
-- [Industri Semikonduktor Taiwan] — Chip Huang Jen-hsun dan Su Zifeng dibuat di pulau ini, ini adalah perisai silikon Taiwan
-- [NVIDIA di Taiwan: Perusahaan Paling Mahal di Dunia, Tidak Ada Satu Chip Pun yang Dibuat Sendiri] — Perusahaan yang ia dirikan bersimbiosis dengan industri pulau ini: chip, server, kantor pusat, dan perjanjian tanah senilai 4,434 miliar
-- [Ji Huaixin: Orang Taiwan yang Mengajari AI untuk "Berpikir Langkah demi Langkah"] — Orang Taiwan lain yang berdiri di garis depan AI, chip Huang Jen-hsun membuat AI berjalan cepat, pemikiran rantai pemikiran Ji Huaixin membuat AI belajar bernalar langkah demi langkah
-- [Jiang Zhencheng] — Orang Taiwan lain yang mencapai puncak internasional, mengambil jalan sebaliknya: berbalik secara aktif di puncak, menolak didefinisikan mati oleh satu gelar
+- [Zhang Zhongqiu](/id/people/tsmc-morris-chang) — Mitra kunci NVIDIA, pendiri TSMC, lebih dari tiga puluh tahun hubungan mereka mengikatkan seluruh rantai pasok AI global
+- [Perusahaan Taiwan：TSMC](/id/economy/tsmc) — Perusahaan Taiwan yang memproduksi chip tercanggih untuk NVIDIA, “pahlawan dunia” menurut Huang Jen-hsun
+- [Industri Semikonduktor Taiwan](/id/technology/taiwan-semiconductor-industry) — Chip Huang Jen-hsun dan Su Shihfeng semuanya diproduksi di pulau ini, ini adalah perisai logam Taiwan
+- [NVIDIA di Taiwan：Perusahaan termahal di dunia, tidak ada satu chippun yang dibuat sendiri](/id/technology/nvidia-in-taiwan) — Perusahaan yang ia dirikan bersinergi dengan industri pulau ini: chip, server, kantor pusat, dan sebuah lahan senilai 443 juta 400 ribu dolar
+- [Ji Huaxin：Mengajarkan AI untuk Berpikir “Satu Langkah Demi Langkah”](/id/people/chi-huai-hsin) — Seorang lagi Taiwan yang berada di garis depan AI, chip buatan Huang Jen-hsun membuat AI lebih cepat, pemikiran rantai Huaxin membuat AI belajar berpikir secara bertahap
+- [Jiang Zhencheng](/id/people/andre-chiang-taiwanese-culinary-innovator) — Seorang lagi Taiwan yang mencapai puncak internasional, melalui jalannya sendiri: secara sukarela mundur saat berada di puncak, menolak untuk dikucai oleh gelar apapun
+- [Taiwan Cerita Teknologi：Cerita Chip yang Sempurna 100, Presentasi yang Tidak Sempurna 60](/id/technology/taiwan-tech-storytelling) — Meletakkan orang Taiwan terbaik dalam berbicara tentang chip dan industri yang terlemah dalam berbicara dalam satu artikel, mengukur perbedaan 40 poin di antara mereka
 
 ## Sumber Gambar
 
