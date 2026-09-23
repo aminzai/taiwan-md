@@ -221,8 +221,25 @@ def extract_urls(body: str) -> list[str]:
     multiset 比對永遠不合。**兩邊套同一套剝除規則**才是對稱的比較：
     剝的是句讀（. , ; : ! ?），不是網址結構字元（/ ? # & = 等），所以
     真正的網址竄改（改路徑、換域名、加減參數）仍然抓得到。
+
+    2026-09-24：再加一條兩側對稱的正規化——**markdown 反斜線跳脫還原**
+    （`\\_`→`_`、`\\(`→`(`、`\\*`→`*`）。CommonMark 在連結目的地與內文都會
+    先處理反斜線跳脫，所以 `Ruisui,\\_Hualien` 跟 `Ruisui,_Hualien` 渲染出的
+    href 一模一樣；差別只在 prettier 有沒有經手。dispatcher 在驗證前對譯文跑
+    prettier、zh 母稿卻是 commit 當時的樣子，於是四篇 prettier 不穩定的母稿
+    （蓬萊米／台灣客家音樂／高雄加工出口區／新竹米粉）的每一份譯文都被判網址
+    改寫，十二語永遠過不了（run 98122 修後窗至少 10 次）。真正的網址不含反斜線，
+    還原後才比，擋下的仍只有真的改了網址的譯文。尾端剝除一併加上跳脫殘留的
+    `\\` 與強調符號 `*`（網址不會以星號結尾，那是外層斜體的收尾）。
     """
-    return [u.rstrip(".,;:!?") for u in re.findall(URL_PATTERN, body)]
+    urls = []
+    for u in re.findall(URL_PATTERN, body):
+        u = _MD_ESCAPE_RE.sub(r"\1", u)
+        urls.append(u.rstrip(".,;:!?*\\"))
+    return urls
+
+
+_MD_ESCAPE_RE = re.compile(r"\\([!-/:-@\[-`{-~])")
 
 
 def count_pattern(text: str, pat: str, flags=0) -> int:
