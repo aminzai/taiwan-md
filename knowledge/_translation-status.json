@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-23T11:01:58+08:00",
-    "zhCommitHead": "8c25faf21",
+    "lastUpdated": "2026-09-23T11:02:15+08:00",
+    "zhCommitHead": "1d5b40990",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,8 +28,8 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 937,
-        "stale": 96,
+        "fresh": 938,
+        "stale": 95,
         "metadata_stale": 25,
         "missing": 66,
         "orphan": 0
@@ -182564,20 +182564,18 @@
         "ja": {
           "path": "ja/Geography/lin-an-tai-historical-house.md",
           "translatedFrom": "Geography/林安泰古厝.md",
-          "sourceCommitSha": "13c7fbcdb",
-          "sourceContentHash": "sha256:47d89dc0ac03a566",
-          "sourceBodyHash": "sha256:7079616fec64f3a7",
-          "translatedAt": "2026-09-18T00:52:59+08:00",
+          "sourceCommitSha": "d9ef16d5e",
+          "sourceContentHash": "sha256:bf88a96f60bbcd8e",
+          "sourceBodyHash": "sha256:f8662882b41f1947",
+          "translatedAt": "2026-09-23T09:26:55+08:00",
           "translationLastCommit": "00ef6a7a",
           "translationLastModified": "2026-09-22T00:50:05+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "bytes": 33420,
+          "bytes": 33941,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+7 -6"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Geography/lin-an-tai-historical-house.md",

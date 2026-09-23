@@ -18,23 +18,23 @@ rationale:
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'Geography/台中捷運.md'
-sourceCommitSha: '65acd39dc'
-sourceContentHash: 'sha256:930e1cf08d9847c7'
-sourceBodyHash: 'sha256:ac8494ae079b5eb8'
-translatedAt: '2026-09-11T04:42:59+08:00'
+sourceCommitSha: 'd9ef16d5e'
+sourceContentHash: 'sha256:9851afbe3b082508'
+sourceBodyHash: 'sha256:9e4ce2561244c6a9'
+translatedAt: '2026-09-23T02:24:31.901887+00:00'
 ---
 
-> **30-Second Overview:** In 2020, Taichung’s first MRT Green Line halted trial operations on its sixth day due to a coupler failure, only officially opening the following year. This 16.7-km elevated route connects Beitun, Wenzheng Road, and Taichung HSR Station, bringing a city long dependent on buses, scooters, and cars into an era of rail transit that must discuss transfers, safety, and walking. What it truly changes is not just where people board, but how Taichung begins to understand its own distances through the lens of the "next station."
+> **30-second overview:** In 2020, Taichung's first MRT Green Line was suspended due to a coupler fault just six days into its trial run, and did not officially open until the following year. This 16.7-kilometer elevated line connects Beitun, Xinxing Road, and the THSR Taichung Station, ushering a city long dependent on buses, scooters, and cars into an era where transfers, safety, and walking must be discussed. What truly changed was not just where people boarded, but how Taichung began to reimagine its own distances through the lens of "the next stop."
 
-On November 16, 2020, Lu Siu-yan announced the start of trial operations for the Taichung MRT Green Line, giving the city its first MRT. That day, over 70,000 people entered the stations, resembling a large-scale city tasting event. People were not just riding the train; they were confirming whether Taichung could truly become a city that moves by rail. [^1]
+On November 16, 2020, Lu Shiue-yen announced the start of the Taichung MRT Green Line's trial service, marking the city's first-ever MRT. Over 70,000 passengers entered the stations that day, as if a grand urban tasting session—people were not merely riding, but verifying whether Taichung could truly become a rail-based city.[^1]
 
-Six days later, the shaft of the semi-permanent coupler between train cars fractured, halting all 18 trains. The Green Line, originally scheduled for official opening at the end of 2020, did not return to the tracks until April 25, 2021. [^2]
+Six days later, the semi-permanent coupler axle in the train compartment fractured, grounding all 18 trains. The Green Line, originally scheduled to officially open by the end of 2020, did not resume service until April 25 of the following year.[^2]
 
-The most noteworthy aspect of this line is precisely that it did not follow the script of the opening ceremony. The Taichung MRT is not a period mark for "finally having an MRT," but rather a first attempt by a city with wide roads, many cars and scooters, and a dispersed layout to place safety, transfers, and trust on the same route map.
+The most noteworthy aspect of this line is precisely that it did not unfold according to the script laid out at its ceremony. Taichung MRT is not a full stop at "finally, we have an MRT." Instead, it is a city with wide roads, many scooters and cars, and a sprawling layout that, for the first time, had to place safety, transfers, and trust all on the same map.
 
-![Taichung MRT Green Line train traveling on elevated tracks](https://commons.wikimedia.org/wiki/Special:FilePath/Train_of_Taichung_MRT.jpg?width=1280)
+![Taichung MRT Green Line train running on elevated tracks](https://commons.wikimedia.org/wiki/Special:FilePath/Train_of_Taichung_MRT.jpg?width=1280)
 
-_Figure: Taichung MRT Green Line train. Photo by Cbliu. Image source: [Wikimedia Commons File Page](https://commons.wikimedia.org/wiki/File:Train_of_Taichung_MRT.jpg), licensed under the Taichung City Government News Bureau Government Website Open Data License, with source attribution required._ [^3]
+_Caption: Taichung MRT Green Line train. Photo: Cbliu. Image source: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Train_of_Taichung_MRT.jpg), licensed under the open data of the Taichung City Government News Bureau website. Source attribution required when used._[^3]
 
 ## A City Starts with "Having No MRT"
 
@@ -66,30 +66,30 @@ CNA’s timeline makes this delay clear. The Green Line was originally expected 
 
 From an engineer’s perspective, the lesson of this line is specific. Testing is not a ritual before opening, but work that must continue to be revisited after opening. From a passenger’s perspective, it is another issue: a line can be very new, but it cannot require passengers to use their own bodies to complete the final verification for it.
 
-## The Green Line Connects More Than Just Two Endpoints
+## The Green Line Is Not Just Connecting Two Endpoints
 
-The Green Line is most easily understood as a shuttle line "from Beitun to HSR." This understanding is not wrong, but it is too narrow. It simultaneously places Beitun’s residential areas, Songzhu’s TRA transfer, commercial activities on Wenzheng Road, the administrative core around City Hall, and Taichung HSR Station into the same ticketing system and headway.
+The Green Line is easiest to understand as a shuttle linking Nangang to the High-Speed Rail station. That understanding is not wrong, but it is too narrow. The line simultaneously folds Nangang’s residential neighborhoods, Songzhu’s railway transfer point, the commercial activity along Wenhsin Road, the administrative core around the city government, and the THSR Taichung Station into a single fare and timetable.
 
-This line also makes Taichung’s urban scale perceptible. The elevated tracks pass above the streets, and stations with escalators lift people from the road surface to another height. Places that were only adjacent on the map now have the concrete unit of "the next station." The city is no longer described only by road length, but also by the waiting time between stations.
+The line also makes Taichung’s urban scale tangible. Elevated tracks pass overhead, and stations with escalators lift passengers from street level to another height. Places that sit merely adjacent on a map now share the concrete unit of “the next stop.” The city is no longer described only by road length, but also by the waiting time between stations.
 
-_Railway Gazette_ notes that the Green Line loops around the west side of the city center and does not serve the TRA Taichung Station. This gap makes it more like a first skeleton rather than a completed network. The City Government’s MRT Engineering Bureau currently includes the extension of the Green Line to Dakeng and Changhua, as well as subsequent routes such as the Blue Line, Orange Line, Purple Line, and Red Line, in the overall rail network vision. [^4] [^5]
+Railway Gazette notes that the Green Line runs along the western side of downtown and does not serve Taichung Railway Station. That gap makes it more of a first skeleton than a finished network. The Taichung City Government MRT Engineering Bureau currently includes the Green Line’s extension to Dapeng, Changhua, and the subsequent Blue, Orange, Purple, and Red lines in its overall rail network vision.[^4] [^5]
 
-![Taichung MRT train approaching Taichung HSR Station](https://commons.wikimedia.org/wiki/Special:FilePath/2020-11-20_MRT_train_near_HSR_Taichung_Station_%28Taichung_Metro%29.jpg?width=1280)
+![Taichung MRT train approaching THSR Taichung Station](https://commons.wikimedia.org/wiki/Special:FilePath/2020-11-20_MRT_train_near_HSR_Taichung_Station_%28Taichung_Metro%29.jpg?width=1280)
 
-_Figure: Taichung MRT train approaching Taichung HSR Station. Photo by WC-QHS. Image source: [Wikimedia Commons File Page](https://commons.wikimedia.org/wiki/File:2020-11-20_MRT_train_near_HSR_Taichung_Station_%28Taichung_Metro%29.jpg), licensed under CC BY-SA 2.0, requiring author attribution, licensing, and sharing derivative works in the same manner.\* [^9]
+_ Figure: Taichung MRT train approaching THSR Taichung Station. Photo: WC-QHS. _ Image source: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:2020-11-20_MRT_train_near_HSR_Taichung_Station_%28Taichung_Metro%29.jpg), CC BY-SA 2.0, attribution required, share alike for derivative works.[^9]
 
 ```tw-timeline
-The Taichung Green Line did not appear overnight (Year)
-1993 | Initial Planning | The Taichung Metropolitan Area Mass Rapid Transit System began institutionalized planning
-2004 | Green Line Approved | The Wu-Ri-Wenxin Beitun Line became the initial network
-2009 | Construction Begins | The Green Line officially entered the long-term construction phase
-2020 | Trial Operation | 18 stations opened to the public for the first time
-2021 | Official Opening | Resumed trial operation and official operation after fault inspection and repair
-Source: Taichung City Government MRT Engineering Bureau, Taichung Metro Co., Ltd., CNA
+Taichung Green Line was not built overnight (year)
+1993 | Initial planning | Taichung metropolitan area public transit system begins institutional planning
+2004 | Green Line approved | Wufeng Xinsheng Beitun line becomes part of initial network
+2009 | Construction begins | Green Line officially enters long-term construction phase
+2020 | Trial operation | 18 stations open to the public for the first time
+2021 | Official opening | Reopened for trial operation after fault inspection and officially launched
+Source: Taichung City Government MRT Engineering Bureau, Taichung MRT Co., Ltd., Central News Agency
 ```
 
-> **📝 Curator’s Note**
-> The value of the first line is not that it has already connected all of Taichung, but that it makes the next line no longer just a colored line, but a commitment that passengers can use for comparison.
+> **📝 Curator’s note**
+> The value of the first line is not that it has already stitched Taichung together, but that it turns the next line from a colored line on a map into a promise passengers can compare against.
 
 ## The Impact of an MRT Line Is Not Just in Boarding Numbers
 
@@ -99,20 +99,20 @@ Placing this result back into Taichung’s transportation conditions makes it ev
 
 In other words, changes in housing prices near MRT stations are just one result. The more important question is whether stations truly allow people to ride scooters less, allow children to walk to the station entrance on their own, and give non-drivers more options in Taichung. The success of transportation infrastructure should not be measured only by "how much nearby prices increased," but also by asking "who gained an additional way to arrive."
 
-## The City Above the Stations, The Daily Life Below
+## The City Above, the Everyday Below
 
-Most sections of the Green Line are elevated, making stations a vertical urban entrance. Passengers first walk from the arcade, intersection, or bus stop to the station body, then ascend via escalators and elevators, finally reaching the platform. Otis’s project records indicate that the Green Line has 18 stations, and during construction, it was necessary to install 117 heavy-duty escalators and 59 elevators without disrupting daily vehicle and pedestrian flow. [^6]
+Most of the Green Line runs on elevated tracks, making each station a vertical gateway into the city. Passengers first walk from the sidewalk, street corner, or bus stop to the station entrance, then rise along escalators and elevators before finally reaching the platform. Otis's project records note that the Green Line has 18 stations in total, and during construction, 117 heavy-duty escalators and 59 elevators had to be installed without disrupting daily vehicular and pedestrian traffic.[^6]
 
 ![Taichung MRT City Hall Station Green Line Platform](https://commons.wikimedia.org/wiki/Special:FilePath/Taichung_Metro_Taichung_City_Hall_Station_Green_Line_Platform.jpg?width=1280)
 
-_Figure: Taichung MRT City Hall Station Green Line Platform. Photo by Cheng, Cheng-en, Wikimedia user Rail02000. Image source: [Wikimedia Commons File Page](https://commons.wikimedia.org/wiki/File:Taichung_Metro_Taichung_City_Hall_Station_Green_Line_Platform.jpg), licensed under CC BY-SA 4.0, requiring author attribution, licensing, and sharing derivative works in the same manner._ [^10]
+_ Photo: Taichung MRT City Hall Station Green Line Platform. Photo by Cheng, Cheng-en, Wikimedia user Rail02000._ Image source: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Taichung_Metro_Taichung_City_Hall_Station_Green_Line_Platform.jpg), CC BY-SA 4.0, credit the photographer, license, and share alike for derivative works.[^10]
 
-This vertical movement has its costs. For those in a hurry, the distance at the stairwell is the transfer cost. For those pushing strollers, using wheelchairs, or carrying luggage, whether elevators are easy to find is the prerequisite for using the MRT. MRT accessibility does not start only after the train arrives at the platform; it is determined from the first leg of the path from the sidewalk to the entrance.
+This vertical circulation comes at a cost. For those in a hurry, the distance from the stairwell is the transfer cost. For those pushing strollers, using wheelchairs, or carrying luggage, whether the elevator is easy to find determines whether they can use the MRT at all. The accessibility of the MRT does not begin when the train arrives at the platform—it is decided from the very first step from the sidewalk to the entrance.
 
-The Taichung Green Line thus also serves as a reminder suspended above the city: tracks can cross blocks, but life cannot be left hanging. Sidewalks around stations, rain shelters, bus shuttles, and nighttime lighting will determine whether an elevated MRT is a convenient daily routine or just a pretty line on a map.
+The Taichung Green Line thus serves as a reminder suspended above the city: tracks can span across city blocks, but daily life cannot be left hanging in midair. The sidewalks, shelters, bus connections, and nighttime lighting around each station will determine whether an elevated MRT is a convenient part of everyday life or merely a beautiful line on a map.
 
-> **📝 Curator’s Note**
-> Elevated MRTs lift the trains, but they do not lift passengers off the ground. True urban engineering still happens in that stretch of road before the entrance.
+> **📝 Curator's Note**
+> An elevated MRT lifts the train high, but it does not lift passengers off the ground. The real urban engineering still happens in the stretch of road before the entrance.
 
 ## How Stations Connect Two Modes of Transport
 
@@ -151,22 +151,22 @@ But what passengers truly remember may not be 16.7 km, nor a specific ridership 
 
 The urban significance of the Taichung MRT is hidden in these unglamorous repetitions. Some people ride the train to work for the first time; some take children to the HSR station; some no longer need to find parking spots just to see an event. Fixed tracks turn the city’s future into an action that can be repeated every day. When station bodies, platforms, transfers, and streets are strung together by the same journey, the MRT truly transforms from an engineering term into urban life.
 
-## Transfers Are Not Optional Extras, But the Green Line’s Second Track
+## Transfers Are Not an Add-On, but the Second Track of the Green Line
 
-The Green Line’s 18 stations will not complete a journey alone. For most passengers, the true route is home to the bus stop, bus stop to the MRT entrance, platform to the destination, and finally from the last station into the office, school, or mall. Every handoff may cause people to recalculate time. If one segment has no rain shelter, no clear signage, or the waiting time is too long, passengers may return to the familiar scooter.
+The 18 stations of the Green Line will not complete a journey on their own. For most passengers, the real route runs from home to the bus stop, from the bus stop to the MRT entrance, from the platform to the destination, and then from the last stop into the office, school, or mall. Every handoff is an opportunity to recalculate the time. If any segment lacks shelter, lacks clear signage, or has an overly long wait, passengers may return to the familiar scooter.
 
-The importance of Songzhu Station and Taichung HSR Station lies precisely in making the Green Line not just a single path between two endpoints. The former places the MRT into the TRA transfer network; the latter places the urban rail with high-speed rail, shuttle buses, and intercity travel on the same schedule. The value of these nodes is not how large the station body itself is, but whether transportation tools of different speeds can connect in the same outing. [^1] [^4]
+The importance of Songzhu Station and Taichung HSR Station lies in the fact that they make the Green Line more than a single path between two ends. The former puts the MRT into the TRA transfer network; the latter places city rail, high-speed rail, shuttle buses, and intercity transport on the same itinerary. The value of these nodes is not how large the station body itself is, but whether vehicles of different speeds can connect within a single trip. [^1] [^4]
 
-The next question for the Taichung Green Line is therefore not simply "how many more lines need to be built." As the network grows longer, ticketing, headways, transfer distances, and information design must all grow together. If each line is convenient on its own, but transferring requires walking far, the city may only get more options, not an easier life to reach. This is also why the city government plans the Green Line extension and the Blue, Orange, Purple, and Red Lines within the overall network. [^4]
+The next question for the Taichung MRT Green Line is therefore not as simple as "how many more lines to build." As the network grows longer, fare systems, headways, transfer distances, and information design must all grow together. If each line is convenient on its own but requires a long walk to transfer, the city may gain more options rather than easier access to daily life. This is also why the city government plans the Green Line extension together with the Blue, Orange, Purple, and Red lines within an integrated network. [^4]
 
-From an engineering management perspective, transfers are still the best place to test whether public infrastructure is user-centered. Train punctuality can be proven by system records; whether passengers are willing to ride again depends on whether they can safely cross intersections after exiting, know where the next bus comes from, and whether they can avoid detours when carrying luggage. The Green Line’s urban achievement will ultimately fall on these details that do not appear in ribbon-cutting photos.
+From an engineering management perspective, transfers remain the clearest test of whether public infrastructure is user-centered. Train punctuality can be proven by system records, but whether passengers are willing to ride again depends on whether they can safely cross the street after alighting, whether they know where the next bus departs, and whether they can avoid detours when carrying luggage. The Green Line's urban score will ultimately rest on these details that never appear in ribbon-cutting photos.
 
 ![Entrance-exit between Taichung MRT Songzhu Station and TRA Songzhu Station](https://commons.wikimedia.org/wiki/Special:FilePath/Entrance-exit_between_Taichung_Metro_Songzhu_Station_and_TRA_Songzhu_Station_02.jpg?width=1280)
 
-_Figure: Entrance-exit between Taichung MRT Songzhu Station and TRA Songzhu Station. Photo by Tbatb. Image source: [Wikimedia Commons File Page](https://commons.wikimedia.org/wiki/File:Entrance-exit_between_Taichung_Metro_Songzhu_Station_and_TRA_Songzhu_Station_02.jpg), licensed under CC BY-SA 4.0, requiring author attribution, licensing, and sharing derivative works in the same manner._ [^11]
+\_ Caption: Entrance-exit between Taichung MRT Songzhu Station and TRA Songzhu Station. Photo: Tbatb. Image source: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Entrance-exit_between_Taichung_Metro_Songzhu_Station_and_TRA_Songzhu_Station_02.jpg), CC BY-SA 4.0, credit the photographer, license, and share derivative works under the same terms. [^11]
 
-> **📝 Curator’s Note**
-> Drawing an MRT line on a map only requires two endpoints; moving it into life requires many stretches of road. True transfer is convincing these segments into the same journey.
+> **📝 Curator's Note**
+> A metro line on a map needs only two endpoints, but to fit into daily life it requires many segments. The true transfer is convincing all those segments to become one journey.
 
 ## After the Green Line, What Else Must Taichung Answer?
 

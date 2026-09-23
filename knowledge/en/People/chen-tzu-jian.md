@@ -1,30 +1,34 @@
 ---
 title: 'Chen Tzu-jian (Retina): Building a Palace of Mockery on the Ruins of State Media, Then Demolishing It at Its Peak'
 description: 'From the inspiration born watching CCTV''s Xinwen Lianbo on a cross-strait exchange trip to Fujian, to becoming the youngest daytime news anchor in CTS history at age 23, to voluntarily discontinuing a channel with 1.21 million subscribers at its peak — Chen Tzu-jian, as "Retina," completed an eight-year anti-authoritarian deconstruction project. After 2023, he shifted to PTS children''s programming, hosting Hello! Can I Ask You? (Golden Bell 59 nomination) and Detective Club at Chengren High School S1 and S2 (Golden Bell 60 youth program nomination). From 2026 he is living in Tokyo for a year with his dog Yuzi, sharing Retina News and daily life — including his extreme hatred of cilantro — on Instagram and his personal YouTube channel.'
-translatedFrom: 'People/陳子見.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:b4ed377dcae75954'
-sourceBodyHash: 'sha256:5225e3163bb10fe2'
-translatedAt: '2026-05-01T12:53:58+08:00'
-tags:
-  - 'Retina'
-  - 'Eye Central Television Station'
-  - 'Chen Tzu-jian'
-  - 'CTS anchor'
-  - 'satirical news'
-  - 'media transformation'
-  - 'Golden Bell nomination'
-  - 'Detective Club at Chengren High School'
-  - 'Retina News'
-  - 'Hello! Can I Ask You?'
-  - 'Tokyo residency'
-category: 'People'
-coverImage: ''
-lastHumanReview: true
-author: 'Taiwan.md'
 date: 2026-04-20
+category: 'People'
+tags:
+  [
+    'Retina',
+    'Eye Central Television Station',
+    'Chen Tzu-jian',
+    'CTS anchor',
+    'satirical news',
+    'media transformation',
+    'Golden Bell nomination',
+    'Detective Club at Chengren High School',
+    'Retina News',
+    'Hello! Can I Ask You?',
+    'Tokyo residency',
+  ]
+subcategory: '數位與媒體'
+author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-01-01
+lastHumanReview: true
+summary: '台灣網路創作者、新聞主播、節目主持人。1994年5月8日生於南投縣水里鄉，畢業於南投縣立水里國民中學、國立大里高級中學、國立彰化師範大學國文系。自小夢想當主播。2015年與動眼神經等人創立《眼球中央電視台》，模仿央視官話嘲諷中華民國法統荒謬走紅。2018年3月5日至12月31日任華視午間新聞主播（23歲最年輕紀錄）。2023年5月31日在121萬訂閱、累計超過3億點閱巔峰停更。後主持公視《哈囉！你給問嗎？》（第59屆金鐘生活風格主持人入圍）、小公視《成仁高中偵探社》S1（2024-2025）與S2（2025年起，金鐘60少年節目入圍）。2026年3月點外送寫35行「不要香菜」備註爆紅；4月起帶愛犬柚子旅居東京一年。'
+coverImage: ''
+translatedFrom: 'People/陳子見.md'
+sourceCommitSha: '7255b3ab1'
+sourceContentHash: 'sha256:eb27407b6e235169'
+sourceBodyHash: 'sha256:0faeef3fdda7a842'
+translatedAt: '2026-09-23T02:55:59.347216+00:00'
 ---
 
 ## 30-Second Overview
@@ -63,23 +67,21 @@ Chen Tzu-jian and producer Dong-yen Shenje were candid in farewell videos and su
 
 Additionally, during Taiwan's 2023 #MeToo movement, he had experienced sexual harassment by a female employee — she not only repeatedly forcibly hugged him (including "kneeling and bear-hugging" during a 2021 company trip), but also spread outside rumors about the two of them being in a relationship, boasted about her work capabilities, and fabricated various intimate scenarios (touching his thigh, jealousy, implying eye contact inviting sex, ancestral spiritual guidance and other claims). Unbearable, he publicly disclosed this matter after stopping updates to protect himself. He also revealed after stopping updates that he had twice received contact from Chinese capital (including an offer of NT$750,000 to acquire the fan page, with the other party hoping to move the content to Douyin), but declined both times because "one commercial deal alone shouldn't be worth this price" and he had no desire to sell. Ending the channel was the necessary cost of reclaiming his body and re-experiencing the warmth of life.[^6]
 
-## Post-Discontinuation Transformation and Personal Life
+## Transformation and Personal Life After Hiatus
 
-After stopping updates, Chen Tzu-jian quickly shifted to traditional television and personal short-form video. From October 2023 he co-hosted PTS's _Hello! Can I Ask You?_ with Lee Pei-yu (Da-Pei), and was nominated for Best Lifestyle Program Host at the 59th Golden Bell Awards for this program. From August 2024 to January 2025 he hosted the YPTV Taiwan's first immersive reality puzzle-solving program _Detective Club at Chengren High School_; from November 2025 the program launched S2 (upgraded to a "reasoning survival competition" elimination format, with each episode incorporating escape room and murder mystery elements and exploring campus issues such as power-based sexual harassment, drugs, and senior-junior hierarchies; featuring star lineup including Chu Yu-cheng, Hu Sheng-ming, and Li Yi-lung, with him hosting in the role of "Senior Jian"). On October 17, 2025, he led his production team up the red carpet at the 60th Golden Bell Awards, with _Detective Club at Chengren High School_ nominated for Youth Program.[^8]
+After his hiatus, Chen Tzu-jian quickly transitioned to traditional television and personal short-form video content. Starting in October 2023, he co-hosted _Hello! What Are You Asking?_ on Public Television (PTS) with Li Pei-yu (Dapei), for which the show was nominated for the 59th Golden Bell Awards' Lifestyle Host category. From August 2024 to January 2025, he hosted _Chengren High School Detective Agency_, Taiwan's first immersive augmented reality mystery program on PTS. Starting in November 2025, Season 2 was continued (upgraded to a "Deduction Survival War" elimination format, incorporating escape room and murder mystery elements in each episode to explore campus issues such as power harassment, drugs, and senior-junior hierarchies; featuring stars like Chu You-cheng, Hu Shen-ming, and Li Yi-long, with him playing the role of "Senior Student"), and on October 17, 2025, he led his team onto the red carpet for the 60th Golden Bell Awards, where _Chengren High School Detective Agency_ was nominated in the Youth Program category.[^8]
 
-From July 12, 2024, he launched "News Scene" on Instagram, editing current events in the style of Japanese news subtitles, often with sponsored content; on September 29, 2025, he further launched the vertical short-video format "Retina News." He simultaneously operates his personal YouTube channel "Retina and Yuzi's Daily Life," focused on sharing his dog Yuzi (a female Shiba Inu, former honorary chairperson of the Funhappy Powerless Party) and daily life including his extreme hatred of cilantro. In March 2026, he wrote 35 lines of "no cilantro" in delivery order notes for a large intestine noodle dish, successfully baiting the restaurant owner into commenting "under investigation" — extending his cultural symbol. From April 2026, he has even been living in Tokyo for a year with Yuzi, sharing daily life like Tokyo Tower visits and cherry blossom walks, saying with feeling "I've finally fulfilled a dream."[^7]
+Starting July 12, 2024, he launched "News Scene" on Instagram, editing current events in a style reminiscent of Japanese news subtitles, often paired with product placements. On September 29, 2025, he also released the vertical short video series "Retina News." Concurrently, he manages his personal YouTube channel, "Retina & Yuzu's Daily," focusing on sharing the daily life of his dog Yuzu (a female Shiba Inu who previously served as an honorary chairman for Huanle Wubao Party) and his extreme aversion to cilantro. In March 2026, when ordering noodles with delivery, he wrote 35 lines in the notes saying "No cilantro," successfully eliciting a reply from the owner: "Investigating," thereby continuing this cultural motif. Starting in April 2026, he took Yuzu to live in Tokyo for a year, sharing daily activities such as walks around the Tokyo Tower and cherry blossoms, expressing sentimentally that "he finally fulfilled a dream."[^7]
 
-In a cross-generational forum event in November 2024, he expressed that he currently feels fatigued by current-events content, "unless there's a fun idea, I don't want to make it" — the probability of resuming updates in the short term is low; his work focus has shifted to television and personal short-form video. He also joked that he really wants to collaborate with astrologer Tang Chi-yang.[^8]
-
----
-
-**Further reading**
-
-- Pa-jiung (八炯) — from Taiwan-identity YouTuber to exposing the chain of CCP infiltration internet celebrities, another path of weaving resistance into a personal brand
-- Ray Du (阿滴) — the bilingual million-subscriber YouTuber's international voice experiment, forming a mirror of "English international outreach vs. Chinese satire" with Retina
-- Chih-chi Chang (張志祺) — Zhi Chi 77 host, another solution from the same generation of digital content creators for turning issues into programming
+In an activity at a cross-generational forum in November 2024, he stated that he was currently fatigued by current affairs content, saying, "I don't want to do it unless I have something fun in mind," making short-term reschedules unlikely as his focus had shifted to television and personal short-form video; he also joked that he would like to collaborate with Tang Chi-yang.[^8]
 
 ---
+
+**Further Reading**
+
+- [Ba Jiong](/en/people/pa-chiung-political-youtuber) — A path of resistance, from a Taiwanese YouTuber to exposing the CCP's propaganda influencer network, writing resistance into his personal brand
+- [A Di](/en/people/ray-du-english-youtuber) — The international voice experiment of a bilingual million-subscriber YouTuber, reflecting "English external communication vs. Chinese satire" with Retina
+- [Chang Chi-qi](/en/people/shasha77-chang-chih-chi) — A different solution to making issues into programs by hosts from the Zhiqi Qiqi generation of digital content creators
 
 ## References
 
