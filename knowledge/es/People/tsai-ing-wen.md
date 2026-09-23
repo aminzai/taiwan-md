@@ -30,10 +30,10 @@ rationale:
   whos_pushing_back: '國民黨、深綠本土派、原住民族倡議者、同婚專法批評者、退休軍公教與居住能源改革批評者。'
 relatedDiary: ['2026-07-12-225636-manual']
 translatedFrom: 'People/蔡英文.md'
-sourceCommitSha: '4f3974f86'
-sourceContentHash: 'sha256:2ea54fe4a3dcfc40'
-sourceBodyHash: 'sha256:3efdfebbac8eea3c'
-translatedAt: '2026-09-21T14:41:18.283073+00:00'
+sourceCommitSha: '7255b3ab1'
+sourceContentHash: 'sha256:ad617fbb654f67ae'
+sourceBodyHash: 'sha256:986ab9796f1069f2'
+translatedAt: '2026-09-23T16:12:32.808654+00:00'
 ---
 
 # Tsai Ing-wen: de la noche de la derrota a los 8,17 millones de votos, ocho años de una presidencia tranquila
@@ -153,25 +153,25 @@ Sin embargo, otro mapa se expandía en la dirección opuesta. El Congreso de EE.
 
 Por lo tanto, es cierto que «los aliados diplomáticos disminuyen» y también es cierto que «el apoyo internacional aumenta», pero ambos miden cosas distintas. Lo primero cuenta el número de estados que reconocen a la República de China (Taiwán), mientras que lo segundo describe los vínculos sustanciales sin reconocimiento oficial. El gobierno de Tsai eligió apostar sus recursos limitados por lo segundo; esta elección aumentó la exposición de Taiwán en las democracias, pero no impidió que el reconocimiento oficial siguiera perdiéndose. La valoración del lector dependerá de si considera que el núcleo de la diplomacia es el estatus formal, la cooperación sustancial, o ambos inseparables.
 
-## Tras dejar el cargo, sigue mirando las reglas antes de avanzar
+## Tras dejar el cargo, aún se revisan las reglas antes de entrar
 
-El 20 de mayo de 2024, Tsai Ing-wen entregó la presidencia a Lai Ching-te. El DPP ha ganado tres elecciones presidenciales consecutivas, un récord para un partido tras la implementación de la elección directa.
+El 20 de mayo de 2024, Tsai Ing-wen entregó las funciones presidenciales a Lai Ching-te. El Partido Demócrata Progresista logró tres victorias consecutivas en las elecciones presidenciales, un récord histórico sin precedentes desde la institucionalización de la elección directa del presidente.
 
-En octubre del mismo año, visitó Chequia, Francia y Bélgica con el estatus de expresidenta, participando en un evento en el edificio del Parlamento Europeo. Fue la primera expresidenta de Taiwán en entrar en la sede de la Unión Europea, aunque no fue un discurso formal ante el Parlamento; su viaje previsto a el Reino Unido tampoco se llevó a cabo.[^18]
+En octubre de ese mismo año, como expresidenta, visitó la República de China (Taiwán) a la República Checa, Francia y Bélgica, asistiendo a un cóctel parlamentario en el edificio del Parlamento Europeo. Fue la primera expresidenta taiwanesa en entrar en las instalaciones de la Unión Europea, aunque no se trató de una comparecencia oficial ante el Parlamento Europeo; el viaje previsto a Reino Unido no se materializó. [^18]
 
-Desde la mesa de negociación de la OMC hasta una sala de conferencias en el Parlamento Europeo, ella sigue haciendo algo similar: observar hasta dónde permiten las reglas y luego llevar a Taiwación hasta ese límite.
+Desde la mesa de negociación del GATT hasta una sala de conferencias del Parlamento Europeo, ella realiza tareas similares: primero examina hasta dónde permiten las reglas, y luego lleva a Taiwán hasta ese límite.
 
-La historia regresa al escenario de la derrota de 2012. Aquel «no te rindas», tras ocho años de mandato, ya no es solo una palabra de consuelo. Los asuntos de tierras indígenas, la reforma judicial, los precios de la vivienda, la energía y el riesgo en el estrecho no han sido resueltos por ella; mientras que la ley de matrimonio igualitario, el sistema de pensiones y los ajustes de defensa se han convertido en realidades que el siguiente gobierno debe continuar o responder.
+La historia vuelve al escenario electoral de 2012, cuando perdió la presidencia. La frase «no te rindas», tras ocho años en el poder, ya no es solo un consuelo. La tierra de los pueblos indígenas, la reforma judicial, los precios de la vivienda, la energía y los riesgos en el estrecho no fueron resueltos por ella; el matrimonio igualitario, el sistema de pensiones y el ajuste de defensa nacional se convirtieron en realidades que los gobiernos sucesores debían asumir o responder.
 
-Al abandonar la Presidencia, los 8,17 millones de votos ya son una cifra histórica. Lo que queda es otra evidencia más silenciosa: un político puede dejar instituciones sin necesidad de elevar la voz, y las instituciones preservarán fielmente tanto lo que ella logró como lo que dejó sin completar.
+Cuando dejó la presidencia, los 8.17 millones de votos que obtuvo ya eran un número del pasado. Queda otra prueba más silenciosa: un político puede no necesitar subir el volumen para dejar instituciones, y las instituciones guardarán fielmente lo que ella completó, así como lo que no completó.
 
-**Lecturas adicionales**:
+**Lecturas recomendadas**:
 
-- [Invisible Nation](../Art/看不見的國家.md) — Documental de Ge Jing-wen que filma a Tsai Ing-wen durante siete años, observando su personalidad y la democracia taiwanesa desde una perspectiva externa.
-- [Matrimonio igualitario y equidad de género en Taiwán](../Society/台灣同婚與性別平權.md) — El proceso completo, desde la Interpretación 748 y el referéndum hasta la entrada en vigor de la ley especial.
-- [Historia y movimiento de reconocimiento de los pueblos indígenas de Taiwán](../History/台灣原住民族歷史與正名運動.md) — Las luchas antes de la disculpa y los problemas de tierras e identidad que persisten tras ella.
-- [Ma Ying-jeou](馬英九.md) — El expresidente que derrotó a Tsai Ing-wen en 2012 y le entregó el poder en 2016.
-- [Lai Ching-te](賴清德.md) — Vicepresidente y sucesor de Tsai Ing-wen.
+- [El estado invisible](/es/art/invisible-nation) — Documental filmado por la propia Audrey Tang durante siete años con Tsai Ing-wen, observando su personalidad y la democracia taiwanesa desde una perspectiva externa.
+- [Matrimonio igualitario y derechos de género en Taiwán](/es/society/taiwan-marriage-equality-lgbtq-rights) — El proceso completo, desde la interpretación judicial 748, los referendos consultivos hasta la entrada en vigor de la legislación específica.
+- [Historia y movimientos de reivindicación de los pueblos indígenas de Taiwán](/es/history/indigenous-peoples-history-and-naming-movement) — Las protestas previas a las disculpas oficiales, y los asuntos pendientes de tierra e identidad tras ellas.
+- [Ma Ying-jeou](/es/people/ma-ying-jeou-cross-strait-reconciliation-leader) — Expresidente que derrotó a Tsai Ing-wen en 2012 y le entregó el poder en 2016.
+- [Lai Ching-te](/es/people/lai-ching-te) — Vicepresidente y sucesor de Tsai Ing-wen.
 
 ## Fuentes de las imágenes
 
