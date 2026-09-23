@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-24T00:09:12+08:00",
-    "zhCommitHead": "fe9ad02da",
+    "lastUpdated": "2026-09-24T00:15:40+08:00",
+    "zhCommitHead": "c0556ad57",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 979,
+        "fresh": 980,
         "stale": 63,
         "metadata_stale": 18,
-        "missing": 64,
+        "missing": 63,
         "orphan": 0
       },
       "ko": {
@@ -44,16 +44,16 @@
       },
       "es": {
         "total_zh": 1124,
-        "fresh": 1053,
-        "stale": 52,
+        "fresh": 1054,
+        "stale": 51,
         "metadata_stale": 4,
         "missing": 15,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1060,
-        "stale": 44,
+        "fresh": 1061,
+        "stale": 43,
         "metadata_stale": 6,
         "missing": 14,
         "orphan": 0
@@ -76,18 +76,18 @@
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1056,
-        "stale": 30,
+        "fresh": 1057,
+        "stale": 29,
         "metadata_stale": 6,
         "missing": 32,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 1010,
+        "fresh": 1011,
         "stale": 23,
         "metadata_stale": 4,
-        "missing": 87,
+        "missing": 86,
         "orphan": 0
       },
       "ar": {
@@ -108,8 +108,8 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 965,
-        "stale": 6,
+        "fresh": 966,
+        "stale": 5,
         "metadata_stale": 3,
         "missing": 150,
         "orphan": 0
@@ -17898,20 +17898,18 @@
         "de": {
           "path": "de/Economy/slp-taipei-startup-leadership-program.md",
           "translatedFrom": "Economy/SLP台北創業領導計畫.md",
-          "sourceCommitSha": "cc540a12b",
-          "sourceContentHash": "sha256:43d208bb15493ffd",
-          "sourceBodyHash": "",
-          "translatedAt": "2026-09-22T08:41:18.244909+00:00",
+          "sourceCommitSha": "7255b3ab1",
+          "sourceContentHash": "sha256:7724220e60173fa7",
+          "sourceBodyHash": "sha256:e213a0f35315b401",
+          "translatedAt": "2026-09-23T16:09:30.301076+00:00",
           "translationLastCommit": "3c89cc21",
           "translationLastModified": "2026-09-22T18:38:26+08:00",
           "inferred": false,
           "footnoteDefs": 30,
-          "bytes": 45757,
+          "bytes": 45858,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "zh-moved-forward",
-          "commitsBehind": 1,
-          "diffSummary": "+4 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -95429,7 +95427,20 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/People/chen-ssu-hung-writer.md",
+          "translatedFrom": "People/陳思宏.md",
+          "sourceCommitSha": "8730173b1",
+          "sourceContentHash": "sha256:614611394f0bdd05",
+          "sourceBodyHash": "sha256:aa5e5b4b6a3ee873",
+          "translatedAt": "2026-09-23T22:11:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "bytes": 28856,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/chen-ssu-hung-writer.md",
@@ -117058,8 +117069,8 @@
           "sourceContentHash": "sha256:3dee896f2b15c3b8",
           "sourceBodyHash": "sha256:efca1efad60ae65f",
           "translatedAt": "2026-09-23T22:11:48+08:00",
-          "translationLastCommit": "bd89e7e1",
-          "translationLastModified": "2026-07-25T10:33:05+08:00",
+          "translationLastCommit": "c0556ad5",
+          "translationLastModified": "2026-09-24T00:09:12+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "bytes": 35534,
@@ -120625,38 +120636,34 @@
         "es": {
           "path": "es/People/tsai-ing-wen.md",
           "translatedFrom": "People/蔡英文.md",
-          "sourceCommitSha": "4f3974f86",
-          "sourceContentHash": "sha256:2ea54fe4a3dcfc40",
-          "sourceBodyHash": "sha256:3efdfebbac8eea3c",
-          "translatedAt": "2026-09-21T14:41:18.283073+00:00",
+          "sourceCommitSha": "7255b3ab1",
+          "sourceContentHash": "sha256:ad617fbb654f67ae",
+          "sourceBodyHash": "sha256:986ab9796f1069f2",
+          "translatedAt": "2026-09-23T16:12:32.808654+00:00",
           "translationLastCommit": "db8c390c",
           "translationLastModified": "2026-09-22T00:50:12+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "bytes": 35559,
+          "bytes": 35851,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/People/tsai-ing-wen.md",
           "translatedFrom": "People/蔡英文.md",
-          "sourceCommitSha": "4f3974f86",
-          "sourceContentHash": "sha256:2ea54fe4a3dcfc40",
-          "sourceBodyHash": "sha256:3efdfebbac8eea3c",
-          "translatedAt": "2026-09-21T17:07:39.950742+00:00",
+          "sourceCommitSha": "7255b3ab1",
+          "sourceContentHash": "sha256:ad617fbb654f67ae",
+          "sourceBodyHash": "sha256:986ab9796f1069f2",
+          "translatedAt": "2026-09-23T16:12:59.736569+00:00",
           "translationLastCommit": "9db05896",
           "translationLastModified": "2026-09-22T02:39:36+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "bytes": 36524,
+          "bytes": 36733,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/People/tsai-ing-wen.md",
@@ -193394,20 +193401,18 @@
         "pt": {
           "path": "pt/Geography/taichung-metro.md",
           "translatedFrom": "Geography/台中捷運.md",
-          "sourceCommitSha": "65acd39dc",
-          "sourceContentHash": "sha256:930e1cf08d9847c7",
-          "sourceBodyHash": "sha256:ac8494ae079b5eb8",
-          "translatedAt": "2026-09-11T05:40:15+08:00",
+          "sourceCommitSha": "d9ef16d5e",
+          "sourceContentHash": "sha256:9851afbe3b082508",
+          "sourceBodyHash": "sha256:9e4ce2561244c6a9",
+          "translatedAt": "2026-09-23T16:14:17.771061+00:00",
           "translationLastCommit": "26d3f390",
           "translationLastModified": "2026-09-22T00:53:27+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 30059,
+          "bytes": 30437,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Geography/taichung-metro.md",
@@ -219915,7 +219920,20 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Culture/taiwan-cats-eye-nephrite.md",
+          "translatedFrom": "Culture/貓眼石.md",
+          "sourceCommitSha": "998b8bdb1",
+          "sourceContentHash": "sha256:51233924254f4114",
+          "sourceBodyHash": "sha256:3a79800811848f46",
+          "translatedAt": "2026-09-23T22:12:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 19,
+          "bytes": 81740,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Culture/taiwan-cats-eye-nephrite.md",
