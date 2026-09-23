@@ -36,10 +36,10 @@ rationale:
   where_it_hedges: '「首次外售」分層表述；公視預算分層；海風「刻板」爭議不升級成社群定罪'
   whos_pushing_back: '自然書寫深度批評、跨族裔再現政治、布克 shortlist 未進的國際書評場'
 translatedFrom: 'People/吳明益.md'
-sourceCommitSha: 'fdd06c978'
-sourceContentHash: 'sha256:9e044da79052e1d4'
-sourceBodyHash: 'sha256:0b3e476aa45a53ca'
-translatedAt: '2026-07-30T03:55:55+08:00'
+sourceCommitSha: '36aaa72e1'
+sourceContentHash: 'sha256:4084ed4b3480a75a'
+sourceBodyHash: 'sha256:70f421624b5717be'
+translatedAt: '2026-09-23T04:03:12.206929+00:00'
 ---
 
 # Wu Ming-yi: Menggunakan Mata Komposit untuk Menulis Kembali Taiwan yang Hilang
@@ -83,47 +83,47 @@ Jabatan Dong Hwa sejak sekitar 2000-an (Jurusan Sastra Tionghoa, lalu Jurusan Sa
 
 Format penulisan alam nanti juga bikin dia beralih. Non-fiksi bisa tulis spesies dan habitat sangat presisi, tapi susah nyimpen sekaligus logam perang, hantu pusat perbelanjaan, serta modernitas raksasa dan absurd pulau sampah nabet di pantai timur. Dia butuh novel, biar mata komposit dari ladang masuk ke kedalaman waktu. Penulisan alam Taiwan awal sering dikritik berhenti di cinta kasih emosional, kekurangan kedalaman pemikiran, dia sendiri masuk arena argumentasi, justru buat peta yang bisa dibantah. Menulis dan riset di dia pakai satu mata komposit yang sama: satu tangan nyepi jaring tangkap urat sayap kupu-kupu, satu tangan paku koordinat sejarah sastra ke penulisan tanah Taiwan pasca 1980. Pembaca kalau cuma lihat medali di belbuku novel, gampang lupa dia dulu pernah jadi orang yang buat peta.
 
-## Pusat Perbelanjaan Chunghua Roboh, Dia Tulis Kembali
+## Pusat Perbelanjaan Chunghua Dibongkar, Dia Menuliskannya Kembali
 
-![Tampak depan Pusat Perbelanjaan Chunghua tahun 1965, pusat perbelanjaan campuran publik berdekatan berdiri di sisi Ximending, kerumunan dan kendaraan lewat di antaranya](/article-images/people/zhonghua-market-1965.jpg)
-_Pusat Perbelanjaan Chunghua, 1965. Foto Biro Berita Kabinet. Pusat perbelanjaan berdekatan yang diresmikan 1961, dirobohkan 1992, adalah toko sepatu masa kecil Wu Ming-yi dan prototip ruang *Penyihir di Atas Jembatan*. Domain Publik._
+![1965 年的中華商場外觀，連棟公有綜合商場立於西門町一側，人群與車輛往來其間](/article-images/people/zhonghua-market-1965.jpg)
+_Pusat Perbelanjaan Chunghua, 1965. Badan Berita Eksekutif (行政院新聞局) foto. Pusat perbelanjaan berterusan milik publik ini diresmikan 1961, dibongkar 1992, menjadi toko sepatu masa kanak-kanak Wu Ming-yi dan prototip ruang 《天橋上的魔術師》。Public Domain。_
 
-Pusat Perbelanjaan Chunghua diresmikan 22 April 1961, Oktober 1992 dirobohkan per blok, alasan termasuk rel bawah tanah, MRT, dan rencana boulevard hijau Jalan Chunghua.[^1] Bagi generasi tengah yang lewat Ximending, situ bau kolong dan bayangan jembatan, labirin yang masuk pas pulang sekolah, bukan entri sejarah arsitektur. Pusat perbelanjaan hilang, kenangan cuma sisah foto dan lisan. Hingga 2011, _Penyihir di Atas Jembatan_ menuliskan kembali Pusat Perbelanjaan Chunghua 1980-an ke atas kertas.[^2]
+Pusat Perbelanjaan Chunghua diresmikan pada 22 April 1961, dan dibongkar per blok pada Oktober 1992, dengan alasan meliputi proyek pengunderan rel kereta api, MRT, dan proyek boulevard berlindungan pohon Jalan Chunghua.[^1] Bagi generasi menengah yang pernah berjalan-jalan di Ximending, tempat itu adalah bau kolong dan bayangan jembatan penghubung, adalah labirin yang mereka masuki setelah pulang sekolah, bukan sekadar entri dalam sejarah arsitektur. Setelah pusat perbelanjaan itu hilang, kenangan hanya tersisa di foto dan cerita lisan. Hingga 2011, 《天橋上的魔術師》 menuliskan kembali Pusat Perbelanjaan Chunghua era 1980-an ke atas kertas.[^2]
 
-Di novel ada penyihir misterius di atas jembatan, zebra bersinar, anak kecil toko sepatu Xiao Budian. Wu Ming-yi pernah bilang ke OKAPI: "Pusat Perbelanjaan Chunghua memang tempat aneh, semua keajaiban ada di dalamnya!"[^4] Keajaiban di sini menanggung pekerjaan struktural. Pusat perbelanjaan sendiri sudah hilang, keajaiban bikin ruang yang hilang jadi bisa dijalanin lagi. Aplikasi sosial pertama mata komposit ke "kehilangan", jatuh ke kenangan kota: siapa masih ingat keluarga yang masak di kolong, siapa masih bisa urutkan urutan beberapa blok Zhongxiao Ren'ai.
+Dalam novel ada penyihir misterius di atas jembatan penghubung, zebra bersinar, dan anak kecil si Kecil putra pemilik toko sepatu kulit. Wu Ming-yi pernah berkata kepada OKAPI: 「中華商場真是個離奇地方，所有的魔幻都在其中！」[^4] Di sini realisme magis memikul fungsi struktural. Pusat perbelanjaan itu sendiri sudah hilang, realisme magis membuat ruang yang hilang bisa dijelajahi kembali. Aplikasi sosial pertama "mata majemuk" terhadap "kehilangan" jatuh pada memori kota: siapa yang masih ingat keluarga yang pernah memasak di dalam kolong, siapa yang masih bisa menunjuk urutan gedung-gedung Zhongxiao Renai.
 
-![Malam di Pusat Perbelanjaan Chunghua neon dan kerumunan kolong, papan nama dan cahaya tumpang jadi kepadatan rakyat 1980-an Ximending](/article-images/people/zhonghua-market-night.jpg)
+![夜色中的中華商場霓虹與騎樓人潮，招牌與燈光疊成 1980 年代西門町的市井密度](/article-images/people/zhonghua-market-night.jpg)
 
-![Tampak kolong lantai 1 Blok "Xin" Pusat Perbelanjaan Chunghua: papan toko, deretan kolom, skala pejalan kaki](/article-images/people/zhonghua-market-xin.jpg)
-_Malam Pusat Perbelanjaan Chunghua (gambar sejarah). Neon dan kolong sebelum roboh, adalah memori visual yang novel dan drama PTS berulang kunjungi. Foto via Wikimedia Commons, CC BY 3.0._
+![中華商場「信」棟一樓騎樓景觀：店招、柱列與人行尺度](/article-images/people/zhonghua-market-xin.jpg)
+_Malam di Pusat Perbelanjaan Chunghua (arsip sejarah). Neon dan kolong sebelum dibongkar, adalah memori visual yang berulang dikunjungi novel dan drama PTS. Photo via Wikimedia Commons, CC BY 3.0。_
 
-20 Februari 2021, serial PTS _Penyihir di Atas Jembatan_ tayang perdana, sutradara Yang Ya-zhe.[^10] Lokasi syuting Xizhi kira-kira dua sampai dua setengah hektar, laporan biaya bangun set kira-kira delapan puluh juta, merekonstruksi hampir lima puluh toko. Total biaya produksi media bilang kira-kira dua miliar, bagian acara lisan biaya per episode kira-kira dua puluh juta. Tiga angka level beda, nggak bisa dicampur jadi "mengeluarkan dua miliar bangun set".[^11] Pasca syuting, pusat perbelanjaan palsu itu juga akan dirobohkan sekali lagi: roboh nyata 1992, roboh virtual 2020-an, dua kehilangan tumpang di koridor yang sama. Laporan juga nyentuh rel dan kandang kereta dibangun penuh, menjawab memori lokasi syuting _Kembali ke Pantai_ Hou Hsiao-hsien.[^11] Suara buruh lepas papan nama, kayak ngakhiri era yang sudah beres sekali lagi.
+Pada 20 Februari 2021, serial PTS 《天橋上的魔術師》 tayang perdana, disutradarai oleh Yang Ya-che.[^10] Lokasi syuting di Xizhi seluas sekitar dua hingga dua setengah hektar, laporan menyebut biaya pembangunan set sekitar delapan puluh juta, merekonstruksi hampir lima puluh toko. Total biaya produksi media menyebut sekitar dua miliar, bagian acara mengucapkan biaya per episode sekitar dua puluh juta. Tiga angka tingkat berbeda, tidak bisa dicampur jadi "menggelontorkan dua miliar untuk bangun set".[^11] Setelah selesai syuting, pusat perbelanjaan palsu itu pun dibongkar lagi: pembongkaran nyata adalah 1992, pembongkaran virtual adalah sekitar 2020, dua kehilangan tumpang tindih di lorong yang sama. Laporan juga menyebut rel dan kandang kereta disusun penuh, menjawab memori lokasi syuting Hou Hsiao-hsien 《戀戀風塵》. [^11] Suara pekerja studio membongkar papan reklame, seperti mengakhiri era yang sudah berakhir sekali lagi.
 
 ```tw-stat
-~ 2 miliar | Total biaya produksi (versi media) | Termasuk personel, efek khusus, pasca produksi
-~ 80 juta | Bangun set lokasi | Xizhi, ~50 toko
-~ 20 juta | Biaya per episode (lisan bagian acara) | Level beda dengan dua di atas
-Sumber: Liberty Entertainment/Taiwan News/Catatan Kegiatan Tamkang; tiga angka jangan dicampur
+約 2 億 | Biaya produksi total (versi media) | Termasuk personel, efek khusus, pasca-produksi
+約 8,000 萬 | Pembangunan set lokasi | Xizhi, hampir 50 toko
+約 2,000 萬 | Biaya per episode (ucapan bagian acara) | Tingkat berbeda dengan dua sebelumnya
+Sumber: Liberty Entertainment / Taiwan News / Catatan Kegiatan Tamkang; tiga angka tidak boleh dicampur
 ```
 
 ```tw-note
-Penjelasan
-Tiga angka "uang" serial PTS sering digiling jadi satu kalimat "mengeluarkan dua miliar bangun kembali Pusat Perbelanjaan Chunghua". Tulisan ini pisahin: total, bangun set, lisan per episode, biar level akuntansi beda nggak ditulis jadi satu angka dramatis besar.
+Catatan
+Tiga angka "uang" drama PTS sering digoreng jadi satu kalimat "menggelontorkan dua miliar membangun kembali Pusat Perbelanjaan Chunghua". Tulisan ini memisahkannya: total kasus, bangun set, ucapan per episode, agar tidak menghidupkan tingkat akuntansi berbeda jadi satu angka besar dramatis.
 ```
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/DAKR1qAGc4I" title="Trailer Resmi Serial PTS *Penyihir di Atas Jembatan*" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/DAKR1qAGc4I" title="公視《天橋上的魔術師》官方前導預告" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Wu Ming-yi di pra-produksi serial bilang: dia harap orang yang pernah lewat era pusat perbelanjaan nonton drama ini, bukan cuma memanggil kenangan, tapi kayak hidup sekali lagi di ruang waktu paralel. "Kayak sekarang bisa pakai teknologi digital ciptain Mars, biar semua orang mendarat virtual di planet. Saya harap penonton generasi muda bakal nemuin: Pusat Perbelanjaan Chunghua kayak Mars yang pertama kali mereka injak." [^12]
+Wu Ming-yi pada pra-produksi berkata: dia berharap orang yang pernah hidup di era pusat perbelanjaan menonton drama ini, tidak hanya memanggil kenangan, tapi seperti hidup sekali lagi di ruang waktu paralel. "Seperti sekarang kita bisa menciptakan Mars dengan teknologi digital, biarkan semua orang mendarat virtual di planet itu. Saya berharap penonton generasi muda akan menemukan: Pusat Perbelanjaan Chunghua seperti Mars yang pertama kali mereka injak." [^12]
 
 ```tw-quote
-Pusat Perbelanjaan Chunghua kayak Mars yang pertama kali mereka injak
-Wu Ming-yi | Pra-produksi serial, Marie Claire/Liberty Entertainment silang
+Pusat Perbelanjaan Chunghua seperti Mars yang pertama kali mereka injak
+Wu Ming-yi | Pra-produksi drama PTS, Marie Claire / Liberty Entertainment silang
 ```
 
-> **💡 Tahukah Kamu**
-> Pusat Perbelanjaan Chunghua dirobohkan urut "Zhong→Xiao Ren→Ai Xin→Yi Heping" per blok, depan belakang kira-kira sepuluh hari. Novel dan serial kemudian ubah rangkaian blok labirin yang sudah ada, jadi pintu memori lintas generasi.
+> **💡 Tahukah Anda**
+> Pusat Perbelanjaan Chunghua dibongkar per blok dengan urutan "Zhong → Xiao Ren → Ai Xin → Yi Heping", memakan waktu sekitar sepuluh hari. Novel dan serial kemudian mengubah labirin berterusan yang sudah tidak ada ini, menjadi pintu memori bersama lintas generasi.
 
-Kenangan kota sekali ditulis kembali, pembaca mau tanya soal lebih besar: apa lagi yang hilang, layak dicari kembali dengan tenaga yang sama? Pusat perbelanjaan itu masa kecil, kotak sepatu dan kolong, pertunjukan di atas jembatan yang nggak jelas sihir atau tipuan. Perang dan sepeda, tarik skala dari tingkat jalan ke keluarga dan sejarah pulau. Sepasang mata yang sama, mulai mesti fokus serentak rakyat jangka pendek dan trauma jangka panjang.
+Memori kota begitu dituliskan kembali, pembaca akan bertanya pertanyaan lebih besar: apa lagi yang hilang, layak dicari kembali dengan usaha yang sama? Pusat perbelanjaan adalah masa kanak-kanak, adalah kotak sepatu dan kolong, adalah pertunjukan di atas jembatan penghubung yang tak jelas apakah sihir atau penipuan. Perang dan kuda besi, lalu menarik skala dari blok kota ke keluarga dan sejarah pulau. Pasangan mata yang sama, mulai harus fokus sekaligus pada kehidupan kota jangka pendek dan trauma jangka panjang.
 
 ## Pesawat Tempur di Laci Ayah, dan Sepeda yang Hilang
 
@@ -193,32 +193,32 @@ Baris Kewarganegaraan di Halaman Booker (2018)
 Sumber: Guardian/Liberty Times/Sentinel salin resmi/Kritik Kunci
 ```
 
-## Angin Laut di Toko Buku Hualien, dan Awan Dua Ribu Meter
+## Angin Laut di Toko Buku Hualien, dan Awan di Ketinggian Dua Ribu Meter
 
-![Wu Ming-yi di acara Dong Hwa: rambut pendek, kaus putih, ekspresi tenang](/article-images/people/wu-ming-yi-ndhu.jpg)
-_Wu Ming-yi. Profesor Jurusan Sastra Tionghoa Universitas Dong Hwa, lama mengajar dan menulis di Hualien. Foto: National Dong Hwa University / Attribution._
+![Potret Wu Ming-yi di kampus Dong Hwa: rambut pendek, kaus putih, ekspresi tenang](/article-images/people/wu-ming-yi-ndhu.jpg)
+_Wu Ming-yi. Profesor Jurusan Sastra Tionghoa Universitas Dong Hwa, lama mengajar dan menulis di Hualien. Photo: National Dong Hwa University / Attribution。_
 
-Pasca penghargaan dan terjemahan, mata komposit masih punya kehidupan kedua: lintas media dan lokal. 2014 _Cahaya Melayang_ adalah esai foto, penerbit Classic New, narik penulisan gambar dari cabang esai alam jadi eksperimen independen.[^33] 2019 kumpulan cerita pendek _Tanah Hujan Pahit_ terbit, di antaranya _Awan di Dua Ribu Meter_ nulis pengacara pasca istri meninggal ngejar file novel tak selesai dan kenangan kulit harimau awan Taiwan.[^27] 2025, Chen Xin-yi bikin jadi VR _Awan di Dua Ribu Meter_ (_The Clouds Are Two Thousand Meters Up_), di Unit Venice Immersive Festival Film Venesia ke-82 dapat Grand Prize (hadiah besar unit immersive).[^28] Cerita pendek sastra jadi ketinggian yang bisa masuk. Helm dilepas, penonton masih berhenti di antara kulit harimau awan dan file tak selesai. Museum Seni Rupa Shih Shih Normal University juga pernah pakai VR ini inti bikin pameran immersive, nyambungin hutan dan kenangan harimau awan ke tubuh penonton kota.
+Penghargaan dan terjemahan selesai, Mata Komposit masih punya kehidupan kedua: lintas media dan lokal. 《Floating Light》 (2014) adalah esai fotografi, diterbitkan oleh Xin Jingdian, mengangkat penulisan visual dari cabang esai alam menjadi eksperimen mandiri. [^33] Kumpulan cerita pendek 《Tanah Hujan Pahit》 (2019) terbit, di antaranya 〈Awan di Dua Ribu Meter〉 menulis pengacara yang setelah istri meninggal mengejar file novel tak selesai dan kenangan kulit macan tutul Taiwan. [^27] 2025, Chen Xin-yi mengadaptasikannya jadi VR 《Awan di Dua Ribu Meter》 (_The Clouds Are Two Thousand Meters Up_), di unit Venice Immersive Festival Film Venezia ke-82 meraih Grand Prize (Hadiah Utama Unit Immersif). [^28] Cerita pendek sastra jadi ketinggian yang bisa dimasuki. Setelah helm dilepas, penonton masih terjebak di antara kulit macan tutul dan arsip tak selesai. Museum Seni Taipei Normal University (北師美術館) juga pernah membuat pameran imersif berpusat VR ini, menghubungkan kembali hutan dan kenangan macan tutul ke tubuh penonton kota.
 
-2023, _Hotel Angin Laut_ diterbitkan Lowercase, dapat Hadiah Buku Baik Openbook Karya Tionghoa Tahunan.[^29] Novel tarik pandangan ke dekat Xiulin, Desa Heping dan area pabrik semen pantai timur geografi suku (nama tempat di buku diubah jadi "Haifeng" dll), nulis tanah Taroko, mitos raksasa dan siapa bicara cerita.[^30] Tokoh hewan akhirnya adalah musang makan kucing tiga kaki. Dia baca banyak bahan Taroko, dan rujuk paper lapangan, minta izin.[^30] Strategi distribusi sendiri juga acara industri: cuma toko buku independen jual dan acara, 56 hari, 86 acara, dari Toko Buku Bekas Time Hualien jalan sampe Wugu New Taipei.[^29] Kebiasaan penulis taun-tahun lari toko buku independen, tahun ini diperbesar jadi ziarah sepuluh. Saat cetakan pertama di pinggir jendela toko buku Hualien tumpuk jadi gunung kecil, nama tempat bahasa Taroko dan cerobong asap pabrik semen sudah berdampingan di satu peta novel yang sama.
+2023, 《Hotel Angin Laut》 diterbitkan oleh Xiao Xie, meraih Hadiah Buku Baik Openbook Karya Tionghoa Tahunan. [^29] Novel mengarahkan pandangan ke geografi suku di pantai timur dekat Xiulin, Desa Heping, dan kawasan pabrik semen (nama tempat dalam buku diubah jadi «Haifeng» dll), menuliskan tanah Taroko, mitos raksasa, dan siapa yang berhak bercerita. [^30] Protagonis hewan akhirnya adalah mangus pemakan kepiting berkaki tiga. Ia membaca banyak bahan Taroko, merujuk makalah lapangan, dan memperoleh persetujuan. [^30] Strategi distribusi sendiri jadi peristiwa industri: hanya dijual dan diadakan acara di toko buku independen, 56 hari, 86 lokasi, dari Toko Buku Bekas Shiguang Hualien hingga Wugu New Taipei. [^29] Kebiasaan penulis bertahun-tahun ke toko buku independen, tahun ini diperbesar jadi ziarah se-Taiwan. Cetakan pertama ditumpuk jadi bukit kecil di jendela toko buku Hualien, nama tempat bahasa Taroko dan cerobong asap pabrik semen sudah berdampingan di peta novel yang sama.
 
 ```tw-stat
-56 hari | Ziarah toko buku independen *Hotel Angin Laut* | Liputan Openbook
-86 acara | Jumlah acara | Hualien→Wugu New Taipei
-~ 100 ribu | Dana hadiah Aliran Hitam/tahun | 2013 mulai, nama ibu
-Sumber: Openbook p-68257; Halaman Dana Hadiah Yayasan Aliran Hitam
+56 hari | Ziarah Toko Buku Independen 《Hotel Angin Laut》 | Liputan Openbook
+86 lokasi | Jumlah acara | Hualien→Wugu New Taipei
+~100 ribu | Beasiswa Kuroshio/tahun | 2013 mulai, atas nama ibu
+Sumber: Openbook p-68257; Halaman Beasiswa Yayasan Kuroshio
 ```
 
-Di ruang putusan Hadiah Emas Klasik, ada juri ngira tokoh tertentu di buku agak stereotip, jadi nggak vote kasih dia. Ini perbedaan estetika internal juri dan perdebatan publik, nggak patut naik level jadi "komunitas suku asli resmi menolak novel".[^31] Penulis Han nulis ulang politik anti semen Taroko dan kenangan suku, memang harus didiskusikan tajam. Ketebalan harus dipertahankan, narasi menghakimi nggak perlu.
+Di ruang putusan final Hadiah Emas Klasik, ada juri yang menganggap beberapa karakter dalam buku terlalu kliše, sehingga tidak memilihnya. Ini adalah perbedaan estetika internal juri dan perdebatan publik, tidak pantas dinaikkan jadi peristiwa seragam «komunitas orang asli resmi menolak novel». [^31] Politik representasi penulis Han menuliskan perlawanan semen Taroko, memang harus dibahas tajam. Kedalaman harus dijaga, narasi penghakiman tidak perlu.
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/E_rrqYcl6TQ" title="Wu Ming-yi TEDxTaipei: Sastra yang Mengakar di Bumi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/E_rrqYcl6TQ" title="Wu Ming-yi TEDxTaipei：Sastra yang Mengakar di Bumi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Praktik lingkungan juga nggak berhenti di kertas. Dia lama jadi pengurus harian Persatuan Peduli Ekologi, direksi Yayasan Pendidikan Budaya Laut Aliran Hitam. Mulai 2013, atas nama ibu mendirikan Dana Hadiah Aliran Hitam, tiap tahun kira-kira seratus ribu, dorong bertema laut lomba karya ilmiah, riset, konservasi, dan kreasi seni.[^32] Hingga pertengahan 2020-an, dana hadiah ini sudah masuk tahun ketigabelas skala, sepuluh tahun kumulatif puluhan penerima hadiah.[^32] The Reporter catat dia di muara Sungai Hualien ikut bersih pantai kegiatan, kelas dan garis pasang surut nggak jauh.[^7] Awan laut kampus Dong Hwa Hualien, kelas pantai Aliran Hitam, konter toko buku dan lapisan awan VR, adalah beberapa muka mata komposit masa kini. Mengajar, lokal, lintas media serentak putar.
+Praktik lingkungan juga tak berhenti di kertas. Ia lama menjabat pengurus harian Persatuan Peduli Ekologi, dan direksi Yayasan Pendidikan Laut Kuroshio. Sejak 2013, atas nama ibunya ia mendirikan Beasiswa Kuroshio, sekitar seratus ribu per tahun, mendorong pameran sains, penelitian, konservasi, dan kreasi seni bertema laut. [^32] Gelengah 2020-an, beasiswa ini sudah memasuki skala ke-13, sepuluh tahun menumpuk puluhan penerima. [^32] The Reporter pernah catat ia ikut bersih pantai di muara Sungai Hualien, ruang kelas dan garis pasang tak begitu jauh. [^7] Lautan awan kampus Dong Hwa Hualien, ruang kelas pantai Kuroshio, konter toko buku, dan lapisan awan VR, adalah beberapa wajah Mata Komposit di kontemporer. Mengajar, lokal, lintas media berputar serentak.
 
-Mata komposit sampai sini, sudah tumbuh jadi latihan observasi di kelas, pilihan industri ziarah toko buku, dana hadiah pantai Aliran Hitam, dan dua ribu meter awan di dalam helm. Dia di TEDxTaipei bahas "Sastra yang Mengakar di Bumi": siswa di kelas latihan, gimana fokus serentak satu spesies, satu jalan, satu warisan perang, tanpa pecahin jadi topik karangan yang saling nggak berkaitan.
+Mata Komposit sampai sini, sudah tumbuh jadi latihan observasi di kelas, pilihan industri ziarah toko buku, beasiswa pantai Kuroshio, dan lapisan awan dua ribu meter di dalam helm. Ia bicara di TEDxTaipei soal «Sastra yang Mengakar di Bumi»: apa yang siswa latih di kelas, adalah bagaimana memfokuskan sekaligus satu spesies, satu jalan, satu warisan perang, tanpa memecahnya jadi topik karangan yang saling tak berkaitan.
 
 > **⚠️ Pandangan Kontroversial**
-> Diskusi "stereotip" yang _Hotel Angin Laut_ pancing di ruang Hadiah Emas Klasik, ngingetin pembaca satu hal: nulis ulang lintas etnis semen pantai timur dan kenangan suku, representasi sendiri adalah politik. Wu Ming-yi pilih masuk zona risiko ini, tajamnya ruang kritik nggak otomatis berarti karya gagal, juga nggak berarti putusan seragam komunitas suku asli.
+> Diskusi «kliše» yang dipicu 《Hotel Angin Laut》 di ajang Hadiah Emas Klasik, mengingatkan pembaca satu hal: saat menulis lintas etnis soal semen pantai timur dan kenangan suku, representasi itu sendiri adalah politik. Wu Ming-yi memilih masuk zona risiko ini, ketajaman ruang kritik tidak otomatis berarti karya gagal, juga bukan vonis seragam komunitas orang asli.
 
 ## Mata Komposit Masih Putar
 

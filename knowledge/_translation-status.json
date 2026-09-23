@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-23T12:39:06+08:00",
-    "zhCommitHead": "08f21c83d",
+    "lastUpdated": "2026-09-23T12:52:15+08:00",
+    "zhCommitHead": "c3632e4e6",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,8 +28,8 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 946,
-        "stale": 87,
+        "fresh": 947,
+        "stale": 86,
         "metadata_stale": 25,
         "missing": 66,
         "orphan": 0
@@ -68,8 +68,8 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 1004,
-        "stale": 41,
+        "fresh": 1005,
+        "stale": 40,
         "metadata_stale": 5,
         "missing": 74,
         "orphan": 0
@@ -84,17 +84,17 @@
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 1000,
-        "stale": 30,
+        "fresh": 1001,
+        "stale": 29,
         "metadata_stale": 5,
         "missing": 89,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 1019,
-        "stale": 36,
-        "metadata_stale": 9,
+        "fresh": 1021,
+        "stale": 35,
+        "metadata_stale": 8,
         "missing": 60,
         "orphan": 0
       },
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 891,
+        "fresh": 892,
         "stale": 13,
         "metadata_stale": 6,
-        "missing": 214,
+        "missing": 213,
         "orphan": 0
       }
     },
@@ -42849,18 +42849,18 @@
         "id": {
           "path": "id/Art/postwar-taiwanese-literature.md",
           "translatedFrom": "Art/戰後台灣文學.md",
-          "sourceCommitSha": "a6dadd561",
+          "sourceCommitSha": "4b6d28c54",
           "sourceContentHash": "sha256:688354040345de96",
           "sourceBodyHash": "",
-          "translatedAt": "2026-09-10T00:00:00Z",
+          "translatedAt": "2026-09-23T04:20:52.728617+00:00",
           "translationLastCommit": "174a83b6",
           "translationLastModified": "2026-09-10T05:31:49+08:00",
           "inferred": false,
           "footnoteDefs": 36,
-          "bytes": 37195,
+          "bytes": 37423,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Art/postwar-taiwanese-literature.md",
@@ -87933,20 +87933,18 @@
         "ar": {
           "path": "ar/Politics/voting-rights-threshold-history.md",
           "translatedFrom": "Politics/投票權門檻歷史.md",
-          "sourceCommitSha": "488ba3ae2",
-          "sourceContentHash": "sha256:9f186591ee3109a8",
+          "sourceCommitSha": "9cef725ce",
+          "sourceContentHash": "sha256:eb0a0062b5494500",
           "sourceBodyHash": "sha256:a759a5339dd81f4b",
-          "translatedAt": "2026-08-04T06:18:11+08:00",
+          "translatedAt": "2026-09-23T11:48:01+08:00",
           "translationLastCommit": "7481f802",
           "translationLastModified": "2026-08-04T11:06:34+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "bytes": 39984,
+          "bytes": 39878,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Politics/voting-rights-threshold-history.md",
@@ -104295,7 +104293,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/li-ke-tai-tai.md",
+          "translatedFrom": "People/理科太太.md",
+          "sourceCommitSha": "3d8f3df35",
+          "sourceContentHash": "sha256:b1932f2a73ba90a1",
+          "sourceBodyHash": "sha256:256049c552528280",
+          "translatedAt": "2026-09-23T11:48:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "bytes": 32443,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -150082,20 +150093,18 @@
         "hi": {
           "path": "hi/Food/taiwan-rice-cuisine-culture.md",
           "translatedFrom": "Food/台灣米食文化.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:0e38833f3cafaf68",
-          "sourceBodyHash": "sha256:2354ee60853945b0",
-          "translatedAt": "2026-07-25T04:46:11+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:d06ea631387761c6",
+          "sourceBodyHash": "sha256:1e5405f424ed35fc",
+          "translatedAt": "2026-09-23T11:48:01+08:00",
           "translationLastCommit": "af273ebd",
           "translationLastModified": "2026-09-22T01:05:09+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 27660,
+          "bytes": 31569,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+9 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Food/taiwan-rice-cuisine-culture.md",
@@ -182578,8 +182587,8 @@
           "sourceContentHash": "sha256:bf88a96f60bbcd8e",
           "sourceBodyHash": "sha256:f8662882b41f1947",
           "translatedAt": "2026-09-23T09:26:56+08:00",
-          "translationLastCommit": "3c20aad3",
-          "translationLastModified": "2026-09-22T00:49:37+08:00",
+          "translationLastCommit": "c3632e4e",
+          "translationLastModified": "2026-09-23T12:39:07+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "bytes": 31438,
@@ -188690,18 +188699,18 @@
         "ja": {
           "path": "ja/Geography/national-scenic-area-system.md",
           "translatedFrom": "Geography/台灣國家風景區系統.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "4b6d28c54",
           "sourceContentHash": "sha256:9369d7f73b449799",
           "sourceBodyHash": "sha256:efc3d350be263a65",
-          "translatedAt": "2026-05-01T19:52:32+08:00",
+          "translatedAt": "2026-09-23T11:47:59+08:00",
           "translationLastCommit": "fd678fd2",
           "translationLastModified": "2026-07-25T10:32:02+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 2393,
+          "bytes": 14315,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "truncated (ratio 0.24)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Geography/national-scenic-area-system.md",
@@ -213493,17 +213502,17 @@
           "path": "ar/Culture/schoolyard-rhymes.md",
           "translatedFrom": "Culture/校園順口溜.md",
           "sourceCommitSha": "03b3aaae8",
-          "sourceContentHash": "sha256:b0cd2d1a58dd30ca",
-          "sourceBodyHash": "",
-          "translatedAt": "2026-09-14T21:05:25.272420+00:00",
+          "sourceContentHash": "sha256:e5fd53530b9e999c",
+          "sourceBodyHash": "sha256:201c8b949857fdd7",
+          "translatedAt": "2026-09-23T11:48:01+08:00",
           "translationLastCommit": "b44548b9",
           "translationLastModified": "2026-09-17T11:23:51+08:00",
           "inferred": false,
           "footnoteDefs": 21,
-          "bytes": 26667,
+          "bytes": 26551,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "ru": {
           "path": "ru/Culture/schoolyard-rhymes.md",
