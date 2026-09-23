@@ -1,40 +1,40 @@
 {
-  "totalArticles": 13925,
+  "totalArticles": 14062,
   "totalCategories": 27,
   "estimatedContributors": 75,
-  "totalTags": 9042,
+  "totalTags": 9085,
   "categories": [
     {
       "name": "vi",
-      "count": 1107
+      "count": 1113
     },
     {
       "name": "es",
-      "count": 1109
-    },
-    {
-      "name": "ko",
-      "count": 1106
-    },
-    {
-      "name": "hi",
-      "count": 1034
-    },
-    {
-      "name": "fr",
       "count": 1110
     },
     {
+      "name": "ko",
+      "count": 1109
+    },
+    {
+      "name": "hi",
+      "count": 1042
+    },
+    {
+      "name": "fr",
+      "count": 1111
+    },
+    {
       "name": "en",
-      "count": 1108
+      "count": 1109
     },
     {
       "name": "ja",
-      "count": 1058
+      "count": 1065
     },
     {
       "name": "ru",
-      "count": 1076
+      "count": 1080
     },
     {
       "name": "Technology",
@@ -46,15 +46,15 @@
     },
     {
       "name": "id",
-      "count": 1049
+      "count": 1057
     },
     {
       "name": "ar",
-      "count": 1064
+      "count": 1066
     },
     {
       "name": "pt",
-      "count": 1091
+      "count": 1094
     },
     {
       "name": "Politics",
@@ -70,7 +70,7 @@
     },
     {
       "name": "de",
-      "count": 889
+      "count": 982
     },
     {
       "name": "Lifestyle",
@@ -120,7 +120,7 @@
     },
     {
       "name": "人物",
-      "count": 60
+      "count": 59
     },
     {
       "name": "企業",
@@ -128,7 +128,7 @@
     },
     {
       "name": "YouTuber",
-      "count": 48
+      "count": 49
     },
     {
       "name": "科技與企業",
@@ -152,18 +152,18 @@
     },
     {
       "name": "台南",
-      "count": 27
+      "count": 26
     },
     {
       "name": "文化",
       "count": 26
     },
     {
-      "name": "AI",
-      "count": 26
+      "name": "政治",
+      "count": 25
     },
     {
-      "name": "政治",
+      "name": "AI",
       "count": 25
     },
     {
@@ -196,28 +196,28 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 13925,
+    "zh-TW": 14062,
     "en": 0
   },
-  "lastUpdated": "2026-09-22T22:06:01.615Z",
+  "lastUpdated": "2026-09-23T22:04:30.361Z",
   "stars": 1187,
   "forks": 187,
   "zhPages": 1122,
   "languagePages": {
     "zh-TW": 1122,
-    "en": 1108,
-    "ja": 1058,
-    "ko": 1106,
-    "es": 1109,
-    "fr": 1110,
-    "vi": 1107,
-    "id": 1049,
-    "pt": 1091,
-    "hi": 1034,
-    "ar": 1064,
-    "ru": 1076,
-    "de": 889
+    "en": 1109,
+    "ja": 1065,
+    "ko": 1109,
+    "es": 1110,
+    "fr": 1111,
+    "vi": 1113,
+    "id": 1057,
+    "pt": 1094,
+    "hi": 1042,
+    "ar": 1066,
+    "ru": 1080,
+    "de": 982
   },
-  "enPages": 1108,
+  "enPages": 1109,
   "totalPages": 1122
 }

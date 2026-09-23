@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-22",
+  "lastUpdated": "2026-09-23",
   "totalDetected": 16,
   "publicConfirmed": 5,
   "privateOrUnconfirmed": 11,
@@ -39,7 +39,7 @@
       "cognitiveLayer": "no",
       "health": "dormant",
       "firstSeen": "2026-03",
-      "views365d": 697
+      "views365d": 693
     },
     {
       "label": "Russia.md",
@@ -67,7 +67,7 @@
       "cognitiveLayer": "growing",
       "health": "active",
       "firstSeen": "2026-06",
-      "views365d": 40
+      "views365d": 38
     },
     {
       "label": "weilinlai719/taiwan-md (vanilla)",

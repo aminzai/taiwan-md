@@ -1,5 +1,99 @@
 [
   {
+    "title": "台中捷運：一條等了三十年的綠線，先學會如何被相信",
+    "slug": "台中捷運",
+    "category": "geography",
+    "subcategory": "交通與移動",
+    "date": "2026-08-21",
+    "lastModified": "2026-09-23",
+    "lastVerified": "2026-08-21",
+    "lastHumanReview": false,
+    "curation": "incubating",
+    "featured": false,
+    "wordCount": 5342,
+    "tagCount": 5,
+    "tags": [
+      "台中",
+      "捷運",
+      "綠線",
+      "城市交通",
+      "都市規劃"
+    ],
+    "translations": {
+      "en": true,
+      "ja": true,
+      "ko": true,
+      "es": true,
+      "fr": true,
+      "vi": true,
+      "id": true,
+      "pt": true,
+      "hi": true,
+      "ar": true,
+      "ru": true,
+      "de": true
+    },
+    "revision": 3,
+    "commitHash": "d9ef16d5",
+    "commitSubject": "🧬 [routine] heal: 兩篇圖說把圖片來源移出斜體——斜體整行包住帶底線的網址時，prettier 一 commit 就改壞它",
+    "description": "2020 年 11 月，盧秀燕宣布台中第一條捷運進入試營運。16.7 公里的綠線連起北屯、台中高鐵與 18 座車站，卻在第 6 天因聯結器故障停駛，後來又遇到工地吊臂墜落事故。台中捷運的故事不只是一條軌道如何完成，也是一座長期依賴汽機車的城市，如何用安全、轉乘與一次次修正換回乘客的信任。",
+    "healthScore": 54,
+    "qualityScore": 5,
+    "formatIssues": 1,
+    "hasOverview": true,
+    "hasReading": false,
+    "fnCount": 11,
+    "bodyInternalLinks": 0,
+    "bodyInternalLinksZero": true
+  },
+  {
+    "title": "林安泰古厝：拆掉一座房子，搬不走一段台北",
+    "slug": "林安泰古厝",
+    "category": "geography",
+    "subcategory": "城市與人文地理",
+    "date": "2026-08-21",
+    "lastModified": "2026-09-23",
+    "lastVerified": "2026-08-21",
+    "lastHumanReview": false,
+    "curation": "incubating",
+    "featured": false,
+    "wordCount": 5804,
+    "tagCount": 5,
+    "tags": [
+      "林安泰古厝",
+      "建築",
+      "文化資產",
+      "臺北",
+      "移地保存"
+    ],
+    "translations": {
+      "en": true,
+      "ja": true,
+      "ko": true,
+      "es": true,
+      "fr": true,
+      "vi": true,
+      "id": true,
+      "pt": true,
+      "hi": true,
+      "ar": true,
+      "ru": true,
+      "de": true
+    },
+    "revision": 3,
+    "commitHash": "d9ef16d5",
+    "commitSubject": "🧬 [routine] heal: 兩篇圖說把圖片來源移出斜體——斜體整行包住帶底線的網址時，prettier 一 commit 就改壞它",
+    "description": "1977 年，敦化南路拓寬讓大安區四維路上的林安泰古厝必須拆解。十公里的距離，卻搬了十年。這棟清代安溪移民宅第最後在濱江公園重組，留下的不只是閩南院落，也是一個台灣至今仍要面對的問題：建築離開原址後，還能保存多少原來的自己。文章從林家移民、道路爭議、三次搬遷與風水地景出發，追問保存成功的背面究竟失去了什麼。",
+    "healthScore": 54,
+    "qualityScore": 4,
+    "formatIssues": 1,
+    "hasOverview": true,
+    "hasReading": false,
+    "fnCount": 10,
+    "bodyInternalLinks": 0,
+    "bodyInternalLinksZero": true
+  },
+  {
     "title": "紙風車劇團：吹動台灣夢想的唐吉訶德，一場跨越三十年的藝術長征",
     "slug": "紙風車劇團",
     "category": "art",
@@ -25,7 +119,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "fd35815e",
@@ -2554,7 +2648,7 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
       "hi": true,
       "ar": true,
@@ -2701,7 +2795,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 13,
     "commitHash": "8d0c4a70",
@@ -2835,7 +2929,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
@@ -2894,7 +2988,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 4,
     "commitHash": "574b1a33",
@@ -3341,7 +3435,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "bfdca09d",
@@ -3444,7 +3538,7 @@
     "commitHash": "de10315f",
     "commitSubject": "🧬 heal: 維護者代補格式債，讓 CI 轉綠",
     "description": "從斷頭河、紅土台地到桃園大圳與石門水庫，這篇文章帶你理解桃園埤塘如何成為分散式蓄水系統，也如何在灌溉現代化、農地重劃、都市開發、生態保育與地方記憶之間持續轉型。文章整理桃園台地的自然條件、埤塘與水圳的空間關係、歷史數量變化，以及今日保存與再利用所面對的實際選擇。",
-    "healthScore": 59,
+    "healthScore": 54,
     "qualityScore": 6,
     "formatIssues": 2,
     "hasOverview": true,
@@ -3687,7 +3781,7 @@
     "commitHash": "39cb84da",
     "commitSubject": "🧬 heal: 維護者代修，讓 CI 轉綠",
     "description": "臺中州廳從 1913 年開始分期興建，1934 年完成現行規模，曾是殖民行政的永久性廳舍，戰後又持續成為城市政府工作的現場。從街角、拱廊、附屬建築與修復工地看，它不只是新古典風格的古蹟，而是一座把權力、工程、勞動與市民記憶疊在同一個地址上的公共建築。",
-    "healthScore": 59,
+    "healthScore": 54,
     "qualityScore": 5,
     "formatIssues": 1,
     "hasOverview": true,
@@ -4091,12 +4185,12 @@
       "es": true,
       "fr": true,
       "vi": false,
-      "id": false,
+      "id": true,
       "pt": false,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": false,
-      "de": false
+      "de": true
     },
     "revision": 4,
     "commitHash": "1404747a",
@@ -4560,7 +4654,7 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
       "hi": true,
       "ar": true,
@@ -4795,7 +4889,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "15e0a443",
@@ -4807,53 +4901,6 @@
     "hasOverview": true,
     "hasReading": false,
     "fnCount": 10,
-    "bodyInternalLinks": 0,
-    "bodyInternalLinksZero": true
-  },
-  {
-    "title": "台中捷運：一條等了三十年的綠線，先學會如何被相信",
-    "slug": "台中捷運",
-    "category": "geography",
-    "subcategory": "交通與移動",
-    "date": "2026-08-21",
-    "lastModified": "2026-08-22",
-    "lastVerified": "2026-08-21",
-    "lastHumanReview": false,
-    "curation": "incubating",
-    "featured": false,
-    "wordCount": 5342,
-    "tagCount": 5,
-    "tags": [
-      "台中",
-      "捷運",
-      "綠線",
-      "城市交通",
-      "都市規劃"
-    ],
-    "translations": {
-      "en": true,
-      "ja": true,
-      "ko": true,
-      "es": true,
-      "fr": true,
-      "vi": true,
-      "id": true,
-      "pt": true,
-      "hi": true,
-      "ar": true,
-      "ru": true,
-      "de": true
-    },
-    "revision": 2,
-    "commitHash": "65acd39d",
-    "commitSubject": "🧬 維護者代補格式（PR #1550）：category 欄位改回 Geography 對齊路徑、查證狀態標 incubating",
-    "description": "2020 年 11 月，盧秀燕宣布台中第一條捷運進入試營運。16.7 公里的綠線連起北屯、台中高鐵與 18 座車站，卻在第 6 天因聯結器故障停駛，後來又遇到工地吊臂墜落事故。台中捷運的故事不只是一條軌道如何完成，也是一座長期依賴汽機車的城市，如何用安全、轉乘與一次次修正換回乘客的信任。",
-    "healthScore": 51,
-    "qualityScore": 5,
-    "formatIssues": 1,
-    "hasOverview": true,
-    "hasReading": false,
-    "fnCount": 11,
     "bodyInternalLinks": 0,
     "bodyInternalLinksZero": true
   },
@@ -5143,7 +5190,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
@@ -5225,7 +5272,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
@@ -5524,53 +5571,6 @@
     "hasOverview": true,
     "hasReading": false,
     "fnCount": 16,
-    "bodyInternalLinks": 0,
-    "bodyInternalLinksZero": true
-  },
-  {
-    "title": "林安泰古厝：拆掉一座房子，搬不走一段台北",
-    "slug": "林安泰古厝",
-    "category": "geography",
-    "subcategory": "城市與人文地理",
-    "date": "2026-08-21",
-    "lastModified": "2026-08-21",
-    "lastVerified": "2026-08-21",
-    "lastHumanReview": false,
-    "curation": "incubating",
-    "featured": false,
-    "wordCount": 5804,
-    "tagCount": 5,
-    "tags": [
-      "林安泰古厝",
-      "建築",
-      "文化資產",
-      "臺北",
-      "移地保存"
-    ],
-    "translations": {
-      "en": true,
-      "ja": true,
-      "ko": true,
-      "es": true,
-      "fr": true,
-      "vi": true,
-      "id": true,
-      "pt": true,
-      "hi": true,
-      "ar": true,
-      "ru": true,
-      "de": true
-    },
-    "revision": 2,
-    "commitHash": "e8baa730",
-    "commitSubject": "Create 林安泰古厝.md",
-    "description": "1977 年，敦化南路拓寬讓大安區四維路上的林安泰古厝必須拆解。十公里的距離，卻搬了十年。這棟清代安溪移民宅第最後在濱江公園重組，留下的不只是閩南院落，也是一個台灣至今仍要面對的問題：建築離開原址後，還能保存多少原來的自己。文章從林家移民、道路爭議、三次搬遷與風水地景出發，追問保存成功的背面究竟失去了什麼。",
-    "healthScore": 51,
-    "qualityScore": 4,
-    "formatIssues": 1,
-    "hasOverview": true,
-    "hasReading": false,
-    "fnCount": 10,
     "bodyInternalLinks": 0,
     "bodyInternalLinksZero": true
   },
@@ -6204,11 +6204,11 @@
       "fr": true,
       "vi": false,
       "id": true,
-      "pt": false,
+      "pt": true,
       "hi": false,
       "ar": true,
-      "ru": false,
-      "de": false
+      "ru": true,
+      "de": true
     },
     "revision": 2,
     "commitHash": "8cc1f5ad",
@@ -6465,17 +6465,17 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
-      "ko": false,
-      "es": false,
-      "fr": false,
-      "vi": false,
-      "id": false,
-      "pt": false,
-      "hi": false,
-      "ar": false,
-      "ru": false,
-      "de": false
+      "ja": true,
+      "ko": true,
+      "es": true,
+      "fr": true,
+      "vi": true,
+      "id": true,
+      "pt": true,
+      "hi": true,
+      "ar": true,
+      "ru": true,
+      "de": true
     },
     "revision": 10,
     "commitHash": "383229c7",
@@ -6881,7 +6881,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
@@ -7259,7 +7259,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
@@ -7412,7 +7412,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "96109eb1",
@@ -7460,7 +7460,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "8169b0a8",
@@ -7506,7 +7506,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "2df30d5e",
@@ -8168,7 +8168,7 @@
       "ko": true,
       "es": true,
       "fr": true,
-      "vi": false,
+      "vi": true,
       "id": true,
       "pt": false,
       "hi": true,
@@ -8402,16 +8402,16 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": true,
       "fr": true,
-      "vi": false,
+      "vi": true,
       "id": true,
       "pt": false,
-      "hi": false,
+      "hi": true,
       "ar": false,
       "ru": false,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "1b725078",
@@ -8502,7 +8502,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "4e22e3bb",
@@ -8834,7 +8834,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "c0d869b9",
@@ -9118,7 +9118,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 1,
     "commitHash": "3d8f3df3",
@@ -10253,7 +10253,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "77e6f232",
@@ -10440,7 +10440,7 @@
       "hi": true,
       "ar": false,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "1200bee7",
@@ -10478,18 +10478,18 @@
       "食農教育"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": true,
       "fr": false,
-      "vi": false,
+      "vi": true,
       "id": true,
       "pt": false,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "dab0de0c",
@@ -10584,7 +10584,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "c91ee5dc",
@@ -11044,7 +11044,7 @@
       "hi": true,
       "ar": false,
       "ru": false,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "ebfb9f7b",
@@ -12602,13 +12602,13 @@
       "ko": false,
       "es": true,
       "fr": true,
-      "vi": false,
+      "vi": true,
       "id": true,
-      "pt": false,
-      "hi": false,
+      "pt": true,
+      "hi": true,
       "ar": true,
       "ru": false,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "015d1a9c",
@@ -12710,7 +12710,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "8544f5ff",
@@ -13848,7 +13848,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "a923e393",
@@ -13889,7 +13889,7 @@
       "hi": false,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 21,
     "commitHash": "29ff6f48",
@@ -14432,10 +14432,10 @@
       "vi": true,
       "id": true,
       "pt": true,
-      "hi": false,
-      "ar": false,
+      "hi": true,
+      "ar": true,
       "ru": false,
-      "de": false
+      "de": true
     },
     "revision": 16,
     "commitHash": "813fde2d",
@@ -14637,7 +14637,7 @@
     "tags": [],
     "translations": {
       "en": false,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false,
@@ -14776,7 +14776,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 20,
     "commitHash": "6ffd92f9",
@@ -15141,7 +15141,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "7630a2c4",
@@ -15898,7 +15898,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 1,
     "commitHash": "d95fa964",
@@ -16880,11 +16880,11 @@
       "ru": true,
       "de": true
     },
-    "revision": 2,
+    "revision": 3,
     "commitHash": "cc540a12",
     "commitSubject": "🧬 [semiont] polish: SLP台北創業領導計畫.md 標點淨化（破折號 6→6、分號 16→12）",
     "description": "2012年，一群自己也在創業的人在台北自掏腰包辦了一堂課，第一屆一次性費用只要六千元，換算每小時不到一百元。十四年後，同一件事變成破百人搶三十個名額、費用逼近六萬的機構化社群，官網用詞卻始終是「全數用於學員」。這是台灣新創圈一段靠人情與實用主義撐起來的互助史。",
-    "healthScore": 51,
+    "healthScore": 54,
     "qualityScore": 0,
     "formatIssues": 0,
     "hasOverview": true,
@@ -17058,11 +17058,11 @@
       "ru": true,
       "de": true
     },
-    "revision": 3,
+    "revision": 4,
     "commitHash": "a48fafec",
     "commitSubject": "🧬 [semiont] polish: 台灣科技園區外圍商圈生態.md 標點淨化（破折號 0→0、分號 14→12）",
     "description": "南港軟體園區、內湖科技園區、新竹科學園區、中部科學園區、南部科學園區外圍餐廳為什麼只剩午餐、晚餐紛紛收掉。本文從通勤模式、BOT 分區管制與加班文化轉變三個面向拆解台灣科技走廊的單峰商圈現象，並追蹤 2025 年 3 月 LaLaport 開幕對三重路、園區街傳統午市店家造成的結構性衝擊。",
-    "healthScore": 64,
+    "healthScore": 67,
     "qualityScore": 0,
     "formatIssues": 1,
     "hasOverview": true,
@@ -17154,7 +17154,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 18,
     "commitHash": "1facb1b9",
@@ -17688,12 +17688,12 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
       "hi": false,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 6,
     "commitHash": "2f3bfdbf",
@@ -17822,7 +17822,7 @@
     "commitHash": "47ff13e0",
     "commitSubject": "🧬 [semiont] polish: 龜山島.md 標點淨化（破折號 8→8、分號 19→12）",
     "description": "黃陳裕阿嬤從龜山島搬到頭城三十多年，每天晚上作夢還是夢見島上的生活。對岸上的宜蘭人，龜山島是蘭陽八景之首、雪隧出口「快到家了」的座標；對真正住過的龜山島民，它是 1970 年代被一場沒有補償的遷村換走的世居家園。看得到、上不去；上得去、住不了。作家吳敏顯 1975 年寫它是「一個即將被人們淡忘的島嶼」，半世紀後它沒被淡忘，被記住的是風景與傳說，被淡忘的是住在上面的人。",
-    "healthScore": 50,
+    "healthScore": 45,
     "qualityScore": 7,
     "formatIssues": 1,
     "hasOverview": true,
@@ -18309,7 +18309,7 @@
       "vi": true,
       "id": true,
       "pt": false,
-      "hi": false,
+      "hi": true,
       "ar": false,
       "ru": false,
       "de": false
@@ -18834,11 +18834,11 @@
       "ru": true,
       "de": false
     },
-    "revision": 3,
+    "revision": 4,
     "commitHash": "b38a5dab",
     "commitSubject": "🧬 [semiont] polish: 陳嫺靜.md 標點淨化（破折號 21→15、分號 6→6）",
     "description": "〈輕輕〉七年前就破四百萬點閱，Gucci 官方 IG 比她的第一張專輯早四年到。2026 金曲37 給她最佳新人時，她 27 歲、做音樂第八年——從政大黑音的麥克風，到把詩人夏宇「回答」進饒舌，全程沒有唱片公司。所以那晚台下喊的「聽不懂」，從來不是她的咬字，是一條還沒被聽慣的路。新的不是她，是她走的那條路。",
-    "healthScore": 44,
+    "healthScore": 47,
     "qualityScore": 7,
     "formatIssues": 0,
     "hasOverview": true,
@@ -19504,7 +19504,7 @@
       "ru": true,
       "de": true
     },
-    "revision": 29,
+    "revision": 30,
     "commitHash": "23c89f2a",
     "commitSubject": "🧬 [semiont] polish: 蔡英文.md 標點淨化（破折號 0→0、分號 31→12）",
     "description": "2012 年 1 月 14 日，蔡英文以 797,561 票之差敗選；八年後，她以 8,170,231 票創下台灣總統直選最高票。從國際貿易法學者到第一位女總統，她用原民道歉、同婚專法、年金改革與維持現狀，留下成就，也留下司法、居住、能源與兩岸關係的未竟問題。這是安靜領導成為制度，也被制度留下缺口的八年。",
@@ -19641,7 +19641,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 10,
     "commitHash": "a7cf3076",
@@ -19868,7 +19868,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "488ba3ae",
@@ -20389,7 +20389,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "4c15a2b0",
@@ -20650,7 +20650,7 @@
       "hi": false,
       "ar": false,
       "ru": false,
-      "de": false
+      "de": true
     },
     "revision": 8,
     "commitHash": "72dc7d1d",
@@ -21551,7 +21551,7 @@
       "hi": true,
       "ar": false,
       "ru": false,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "8b61d368",
@@ -22531,7 +22531,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 4,
     "commitHash": "2e673899",
@@ -23092,7 +23092,7 @@
       "ru": true,
       "de": true
     },
-    "revision": 11,
+    "revision": 12,
     "commitHash": "cfaa22a5",
     "commitSubject": "🧬 [semiont] rewrite: 新增 AAMA台北搖籃計畫 + SLP台北創業領導計畫兩篇新創導師制文章",
     "description": "全球工業電腦領導廠商，從台灣起家的物聯網智能系統先驅",
@@ -23233,7 +23233,7 @@
       "ru": true,
       "de": true
     },
-    "revision": 9,
+    "revision": 10,
     "commitHash": "cfaa22a5",
     "commitSubject": "🧬 [semiont] rewrite: 新增 AAMA台北搖籃計畫 + SLP台北創業領導計畫兩篇新創導師制文章",
     "description": "市場不到美國 1%，平台卻多一倍——台灣創作者怎麼活下來的？",
@@ -23281,7 +23281,7 @@
       "ru": true,
       "de": true
     },
-    "revision": 17,
+    "revision": 18,
     "commitHash": "cfaa22a5",
     "commitSubject": "🧬 [semiont] rewrite: 新增 AAMA台北搖籃計畫 + SLP台北創業領導計畫兩篇新創導師制文章",
     "description": "台灣新創生態的發展歷程，從早期挑戰到現今的加速器、創投環境與獨角獸追求",
@@ -24533,7 +24533,7 @@
     "commitHash": "ff92f386",
     "commitSubject": "🧬 [semiont] memory+diary: 2026-06-24-153210-大安溪倚天劍-rewrite — NEW 深度文收官（finale）+ relatedDiary 回扣（dogfood sync-diary-links）",
     "description": "2023 年農曆春節，找樹的人團隊溯溪七天，在大安溪源頭一處幾乎沒人到得了的深谷裡，把皮尺從一棵台灣杉的樹冠垂下來——84.1 公尺，東亞第一高樹。它比雷射光達的預測還高了 4.6 公尺。一座年年颱風、會崩會淹的島，照理不該保有這種高度的生命；但它正因為長在人類到不了的溪谷，才躲過大伐木、撐過七百年。同一份「到不了」既讓它活下來，也讓我們用雷射掃過整座島，才在這一年第一次看見它。",
-    "healthScore": 44,
+    "healthScore": 39,
     "qualityScore": 6,
     "formatIssues": 0,
     "hasOverview": true,
@@ -24739,7 +24739,7 @@
       "pt": true,
       "hi": false,
       "ar": false,
-      "ru": false,
+      "ru": true,
       "de": true
     },
     "revision": 20,
@@ -25004,7 +25004,7 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
       "hi": true,
       "ar": true,
@@ -25186,7 +25186,7 @@
       "vi": true,
       "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true,
       "de": false
@@ -25692,7 +25692,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 16,
     "commitHash": "df2e7558",
@@ -25877,7 +25877,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "21f2ddb4",
@@ -26011,7 +26011,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 4,
     "commitHash": "bd0134b2",
@@ -26057,7 +26057,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 15,
     "commitHash": "e6c58721",
@@ -26194,7 +26194,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 11,
     "commitHash": "1e674def",
@@ -26329,7 +26329,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 8,
     "commitHash": "1e674def",
@@ -26418,7 +26418,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 11,
     "commitHash": "73443b2a",
@@ -26548,7 +26548,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 13,
     "commitHash": "b0e441fa",
@@ -27128,7 +27128,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 10,
     "commitHash": "8c9a002a",
@@ -27304,7 +27304,7 @@
       "pt": true,
       "hi": true,
       "ar": true,
-      "ru": false,
+      "ru": true,
       "de": false
     },
     "revision": 17,
@@ -27392,7 +27392,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 9,
     "commitHash": "8c9a002a",
@@ -27707,7 +27707,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 4,
     "commitHash": "9c2bf6ef",
@@ -28512,7 +28512,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 4,
     "commitHash": "9a60e8fd",
@@ -28564,7 +28564,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 17,
     "commitHash": "30a8f7dd",
@@ -28611,7 +28611,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 16,
     "commitHash": "30569f74",
@@ -28946,7 +28946,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 15,
     "commitHash": "ecd9f7b0",
@@ -29192,7 +29192,7 @@
       "hi": false,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "dd6cd015",
@@ -29370,7 +29370,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "e8215538",
@@ -29916,7 +29916,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "2faa5728",
@@ -30111,7 +30111,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 11,
     "commitHash": "5db9f136",
@@ -30193,7 +30193,7 @@
       "hi": false,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 9,
     "commitHash": "0b2c2a33",
@@ -30289,7 +30289,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 7,
     "commitHash": "5db9f136",
@@ -31039,7 +31039,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 9,
     "commitHash": "7632201f",
@@ -31088,7 +31088,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 9,
     "commitHash": "c2985874",
@@ -31264,7 +31264,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 4,
     "commitHash": "7c144955",
@@ -32038,7 +32038,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 4,
     "commitHash": "7bb2f40e",
@@ -33174,7 +33174,7 @@
       "hi": false,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 14,
     "commitHash": "f553d365",
@@ -33270,7 +33270,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 4,
     "commitHash": "c5197b41",
@@ -33669,7 +33669,7 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
       "hi": true,
       "ar": true,
@@ -33797,7 +33797,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "64abf6f8",
@@ -34124,7 +34124,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 4,
     "commitHash": "745b6393",
@@ -34261,7 +34261,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "a98d745f",
@@ -34310,7 +34310,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "8413cde6",
@@ -34433,7 +34433,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 8,
     "commitHash": "83b8a92b",
@@ -36249,7 +36249,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "9ceeaa34",
@@ -36427,7 +36427,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 4,
     "commitHash": "9ceeaa34",
@@ -36591,7 +36591,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "0ecfa053",
@@ -36720,7 +36720,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 8,
     "commitHash": "4d3d206a",
@@ -36933,7 +36933,7 @@
       "ru": true,
       "de": true
     },
-    "revision": 5,
+    "revision": 6,
     "commitHash": "fcfe3aef",
     "commitSubject": "🧬 [semiont] heal: PR #576 陳子見 / #577 波特王 format polish — 30秒概覽 heading + 延伸閱讀 + 參考資料 + 腳註格式",
     "description": "從福建統戰團看央視《新聞聯播》誕生靈感，到23歲空降華視成為史上最年輕午間新聞主播，再到121萬訂閱頻道主動停更，陳子見以「視網膜」之名完成八年去威權解構行動。2023年後轉戰公視兒少節目，主持《哈囉！你給問嗎？》（金鐘59入圍）與《成仁高中偵探社》S1、S2（金鐘60入圍少年節目），2026年起與愛犬柚子旅居東京一年，同時在IG與個人YouTube分享「Retina News」與極端厭食香菜的日常。",
@@ -36943,8 +36943,8 @@
     "hasOverview": true,
     "hasReading": true,
     "fnCount": 8,
-    "bodyInternalLinks": 0,
-    "bodyInternalLinksZero": true
+    "bodyInternalLinks": 3,
+    "bodyInternalLinksZero": false
   },
   {
     "title": "陳建騏：從會計系到三金製作人，為華語流行音樂拆掉「怪腔怪調」這條紅線的那個人",
@@ -39708,7 +39708,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 6,
     "commitHash": "6e1ddefa",
@@ -40081,7 +40081,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 15,
     "commitHash": "0ae179a8",
@@ -40175,7 +40175,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "f0c42df2",
@@ -40916,7 +40916,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 12,
     "commitHash": "ed11f58e",
@@ -41346,7 +41346,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "c71f1568",
@@ -42002,7 +42002,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 21,
     "commitHash": "63fd53be",
@@ -43141,7 +43141,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 12,
     "commitHash": "d7ee5e4e",
@@ -43189,7 +43189,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 16,
     "commitHash": "d7ee5e4e",
@@ -43283,7 +43283,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 8,
     "commitHash": "d7ee5e4e",
@@ -43332,7 +43332,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 15,
     "commitHash": "d7ee5e4e",
@@ -43426,7 +43426,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 15,
     "commitHash": "d7ee5e4e",
@@ -43615,7 +43615,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 16,
     "commitHash": "d7ee5e4e",
@@ -44088,7 +44088,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 10,
     "commitHash": "a2998a5d",
@@ -45486,13 +45486,13 @@
       "ko": true,
       "es": true,
       "fr": true,
-      "vi": false,
+      "vi": true,
       "id": true,
       "pt": true,
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 10,
     "commitHash": "f2426fdf",
@@ -45825,7 +45825,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 11,
     "commitHash": "786ac8b3",
@@ -46631,7 +46631,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 12,
     "commitHash": "786ac8b3",
@@ -46725,7 +46725,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 13,
     "commitHash": "786ac8b3",
@@ -48115,7 +48115,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 11,
     "commitHash": "27dc0149",
@@ -48444,7 +48444,7 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
       "hi": true,
       "ar": true,
@@ -48660,16 +48660,8 @@
     "curation": "incubating",
     "featured": false,
     "wordCount": 4908,
-    "tagCount": 7,
-    "tags": [
-      "口罩國家隊",
-      "工具機",
-      "精密製造",
-      "COVID-19",
-      "產業政策",
-      "國際合作",
-      "口罩外交"
-    ],
+    "tagCount": 0,
+    "tags": [],
     "translations": {
       "en": true,
       "ja": true,
@@ -48684,11 +48676,11 @@
       "ru": true,
       "de": true
     },
-    "revision": 2,
+    "revision": 3,
     "commitHash": "",
     "commitSubject": "",
     "description": "2020 年口罩短缺時，台灣把工具機、紡織、軍方與政府接成一條供應鏈，40 天完成 92 條產線。真正值得記住的，是這套平時分散、危機時能協作的製造能力。",
-    "healthScore": 51,
+    "healthScore": 44,
     "qualityScore": 5,
     "formatIssues": 1,
     "hasOverview": true,
@@ -49620,7 +49612,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 10,
     "commitHash": "",
@@ -50357,7 +50349,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 1,
     "commitHash": "",
@@ -50587,7 +50579,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 4,
     "commitHash": "",

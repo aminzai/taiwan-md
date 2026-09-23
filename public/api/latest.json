@@ -1,5 +1,5 @@
 {
-  "_generated": "2026-09-22T22:06:39.157Z",
+  "_generated": "2026-09-23T22:05:07.404Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
@@ -357,8 +357,8 @@
         "image": "/article-images/food/shilin-night-market-crowd-2015.webp"
       },
       {
-        "title": "Taiwan Bread and Baking",
-        "desc": "From Wu Pao-Chun’s world championship to 85°C’s global expansion, Taiwan’s baking scene blends local flavors with international technique.",
+        "title": "Taiwanese Bread and Baking",
+        "desc": "From Wu Bao-chun's World Championship to 85°C's international expansion, exploring the unique charm of Taiwanese bread",
         "category": "food",
         "href": "/en/food/taiwan-bread-and-baking",
         "date": "2026-09-22T01:05:30+08:00",
@@ -384,8 +384,8 @@
         "image": "/article-images/food/xizhen-stinky-tofu-fermented-2019.webp"
       },
       {
-        "title": "Taiwan Indigenous Foodways",
-        "desc": "From millet to wild greens, the ecological wisdom and living heritage of Indigenous cuisines",
+        "title": "Taiwan Indigenous Food Culture",
+        "desc": "From AKAME's Flames to the Amis Wild Vegetable Universe—How Taiwan Indigenous Cuisine Reignited the World's Gaze After Three Thousand Years",
         "category": "food",
         "href": "/en/food/taiwan-indigenous-foodways",
         "date": "2026-09-22T01:05:30+08:00",
@@ -421,7 +421,7 @@
       },
       {
         "title": "Taiwan's Vegetarian Culture",
-        "desc": "Taiwan ranks among the top three countries globally for its proportion of vegetarian population. This article traces the cultural evolution from Buddhist vegetarian tradition to modern meat-analog innovation.",
+        "desc": "Taiwan ranks among the top three globally for vegetarian population ratio, from Buddhist vegetarian traditions to modern plant-based protein innovation",
         "category": "food",
         "href": "/en/food/taiwan-vegetarian-culture",
         "date": "2026-09-22T01:05:30+08:00",
@@ -457,7 +457,7 @@
       },
       {
         "title": "Taiwanese Street Food",
-        "desc": "In March 1987, a tea shop employee at Chun Shui Tang dropped some tapioca balls into milk tea without any plan to patent it. That accidental mistake sparked a global bubble tea empire worth NTD 300 billion a year. Taiwan's street food history is like that — its most successful inventions were almost always accidents, and its most vital stalls swear they have no secret recipe.",
+        "desc": "A 1987 mishap at Spring Water Restaurant sent bubble tea into 60 markets worldwide. From a survival tool for Qing-era immigrants to a 400-billion-yuan industry supported by 233,000 stalls today, its success formula isn't refinement—it's the grassroots courage of \"screw it, let's just try.\"",
         "category": "food",
         "href": "/en/food/taiwanese-street-food",
         "date": "2026-09-22T01:05:30+08:00",
@@ -557,8 +557,8 @@
         "image": "/article-images/geography/chiayi-city-hero.webp"
       },
       {
-        "title": "花蓮県：129年間姿を消したサキザヤ族、正名で取り戻したタロコ族、0403地震で再び遠ざかる",
-        "desc": "1878年、清軍はダグオホワン部落の頭目・グム・バリックをカシューノキに縛り付け凌遅刑に処した。サキザヤ族はアミ族に身を潜め129年間を過ごした。2004年、タロコ族はタイヤ族から分離し第12族として認定された。2007年、陳水扁政権（第2期）はサキザヤ族を第13族として承認した。2024年4月3日午前7時58分、マグニチュード7.1の0403地震がタロコ国立公園の燕巣口、九曲洞、砂卡礑歩道を壊滅させた。2024年の観光客数は21万人に激減（平常は660万人）。山海に挟まれた幅5kmの狭い土地で、6つの先住民族の運命は常にプレートと共揺れている。",
+        "title": "花蓮県：129年間隠遁したサキライヤ族、正名で取り戻した太魯閣を0403が遠ざけた",
+        "desc": "1878年、清軍によるガリワン事件で捕虜となった祖先から逃れ、アミ族に潜伏していたサキライヤ族。2004年に太魯閣族が泰雅族から分化し、2007年にサキライヤ族が第13族として承認された経緯を辿る。しかし、2024年4月3日の地震により、太魯閣国家公園は壊滅的な打撃を受け、文化と自然の記憶が試されている。",
         "category": "geography",
         "href": "/ja/geography/hualien-county",
         "date": "2026-09-22T01:09:20+08:00",
@@ -620,8 +620,8 @@
         "image": ""
       },
       {
-        "title": "澎湖県：二度カジノを拒否した菊島が選んだのは清貧ではない",
-        "desc": "2009年9月26日、馬公で投票が行われ、反対17,359票に対し賛成は3,962票でカジノは否決された。7年後の2016年に再び投票が行われ、反対率は81.07%に達した。年間降水量わずか1,000ミリメートル、戸籍人口10.8万人に対し常住人口は約8万人の離島が、全国初の地方ギャンブル住民投票を実施し、さらにもう一度実施した。同じ海域で、1604年に沈有容がオランダ人を撤退させ、1622年にオランダ人が風櫃尾から台南に転じ、1885年にフランス軍司令官孤拔が媽宮港で病死した。1,740万年前の玄武岩の柱は今も残り、89の島は黒い火山岩、1の島はより古い安山岩である。冬の菜宅の石垣の中で、作物が風下側で育っている。",
+        "title": "澎湖県：賭場を二度拒否、菊島の選択は貧困ではない",
+        "desc": "2009年9月26日、馬公では賛成票17,359票に対し反対票3,962票で投票が行われ、カジノ側は敗北しました。7年後の2016年も再度投票が行われ、反対率は81.07%でした。年間降雨量わずか1,000mm、戸籍人口10万8千人に対し常住人口が8万人という離島が、全国初の地方ギャンブル公投を実施し、さらに再投票を行いました。同じ海域では、1604年に沈有容がオランダ人を退去させ、1622年にはオランダ人が風櫃尾から台南へ移り、1885年にはフランス軍司令官の孤拔が媽宮港で病死しています。1,740万年の玄武岩柱は今も存在し、89つの島は黒い火山岩であり、1つはさらに古い安山岩です。冬には菜畑の石垣に作物が風上側に育っています。",
         "category": "geography",
         "href": "/ja/geography/penghu-county",
         "date": "2026-09-22T01:05:35+08:00",
@@ -657,7 +657,7 @@
       },
       {
         "title": "台湾の海岸地形と海洋景観",
-        "desc": "地球上で、標高4,000メートル近い山頂から出発して、150キロメートルもかからずに7,500メートルの海溝に落ち込める場所はほとんどありません。台湾ならできます。この島の海岸線は、今もなお進行中の衝突現場です——息を呑むほど美しい。",
+        "desc": "地球上では、標高約4,000メートルの山頂から出発して150km圏内に7,500メートルの海溝に到達できる場所は稀ですが、台湾はそのような場所です。この島の海岸線は、息をのむほど美しい「進行中の交通事故現場」のようなものです。",
         "category": "geography",
         "href": "/ja/geography/taiwan-coastal-landforms-and-seascapes",
         "date": "2026-09-22T01:05:35+08:00",
@@ -683,8 +683,8 @@
         "image": ""
       },
       {
-        "title": "台湾のサウンドスケープ：ごみ収集車のクラシック音楽、MRTの鳥の声、そして聞こえてはいてもほとんど聴かれていない島",
-        "desc": "同じ年に、台北MRTは雷光夏、李欣芸に依頼して入線メロディを芸術に変える一方、ドア閉鎖警告音から旋律を取り除き、鳥の鳴き声に戻しました。音は同時に美学化され、機能化されました。台湾が『騒音管制法』によって消そうとしてきたこれらの音は、実は私たちが「ここが家だ」と識別するためのランドマークです。サウンドスケープ研究の修士が投げかける問いは、台湾を理解することは「私たちはどんな音を無視することに慣れているのか」と問うことから始められる、というものです。",
+        "title": "台湾の風景音：ごみ車のクラシック音楽、地下鉄の鳥の鳴き声、そしてほとんど聴かれないけれども聴こえる島",
+        "desc": "同じ年、台北地下鉄は一方でレイ・シャンシャ、リー・シンユンに進站音楽を依頼してそれを芸術に昇華させる一方、ドア閉めの警告音の旋律を取り去り、鳥の鳴き声に戻した。音は同時に美的化と機能的化されている。台湾が『騒音規制法』で排除しようとしているこれらの音は、実は私たちが「ここが家だ」と感じる地標なのだ。聲景研究の修士が投げかけた問い：台湾を理解するには、「私たちはどの音を無意識に無視しているのか」から始めてみよう。",
         "category": "culture",
         "href": "/ja/culture/taiwan-soundscape",
         "date": "2026-09-22T01:05:35+08:00",
@@ -692,8 +692,8 @@
         "image": "/article-images/culture/shilin-night-market-soundscape-2015.webp"
       },
       {
-        "title": "台湾茶文化",
-        "desc": "国際茶業列強による生産制限協定から除外された小島が、それゆえに茶業の黄金時代を創出し、最終的には「小さいお菓子」を加えたミルクティー一杯で全世界を征服しました",
+        "title": "台湾の茶文化",
+        "desc": "国際的な茶業界の大国から排除されていた小さな島が、茶業の黄金時代を築き上げ、最終的には「おやつ」を加えたミルクティーで世界を征服した物語",
         "category": "food",
         "href": "/ja/food/golden-age-echoes-taiwan-tea-culture",
         "date": "2026-09-22T01:05:35+08:00",
@@ -701,8 +701,8 @@
         "image": "/article-images/food/formosa-oolong-tea-jacksons.webp"
       },
       {
-        "title": "台湾の手揺り飲料文化",
-        "desc": "タピオカミルクティーからプレミアム茶飲料まで、台湾の手揺り飲料文化の台頭とグローバル展開",
+        "title": "台湾のドリンク文化",
+        "desc": "タピオカミルクティーから高級茶飲料まで、台湾のドリンク文化の台頭と世界展開",
         "category": "food",
         "href": "/ja/food/hand-shaken-drink-culture",
         "date": "2026-09-22T01:05:35+08:00",
@@ -719,8 +719,8 @@
         "image": "/article-images/food/bando-ghost-festival-banquet-2017.webp"
       },
       {
-        "title": "台湾のパンとベーカリー",
-        "desc": "呉宝春の世界優勝から85°Cの国際展開まで、台湾式パンの独自の魅力を探る",
+        "title": "台湾のパンとベーグル",
+        "desc": "吴宝春の世界チャンピオンから85度Cの国際展開まで、台式パンの独特の魅力を探る",
         "category": "food",
         "href": "/ja/food/taiwan-bread-and-baking",
         "date": "2026-09-22T01:05:35+08:00",
@@ -729,7 +729,7 @@
       },
       {
         "title": "台湾の発酵食品と漬物文化",
-        "desc": "臭豆腐から豆腐乳（とうふる）まで、台湾独自の発酵技術と漬物文化の伝統を探る",
+        "desc": "臭豆腐から豆腐乳まで、台湾独自の発酵技術と漬物の伝統文化を探求します",
         "category": "food",
         "href": "/ja/food/taiwan-fermented-and-pickled-foods",
         "date": "2026-09-22T01:05:35+08:00",
@@ -737,8 +737,8 @@
         "image": "/article-images/food/xizhen-stinky-tofu-fermented-2019.webp"
       },
       {
-        "title": "台湾先住民族の食文化",
-        "desc": "AKAMEの炎からアミ族の野菜宇宙へ——台湾先住民族の食が三千年を経て再び世界の注目を集めるまで",
+        "title": "台湾先住民の食文化",
+        "desc": "AKAMEの炎からアミ族の野草宇宙まで—台湾先住民の食が3千年を経て世界に再び光を灯す様",
         "category": "food",
         "href": "/ja/food/taiwan-indigenous-foodways",
         "date": "2026-09-22T01:05:35+08:00",
@@ -756,7 +756,7 @@
       },
       {
         "title": "台湾の調味料と味付け",
-        "desc": "醤油膏、沙茶醤、スイートチリソース、豆瓣醤などの台湾特有の調味料は、島の独自の風味の基盤を成し、多様な文化が融合した味付けの哲学を反映しています。",
+        "desc": "醤油膏、沙茶ソース、甜辣醬（スイートチリソース）、豆瓣酱など、台湾特有の調味料は、島の独特な風味を形成する基盤であり、多様な文化融合の味付け哲学を反映しています。",
         "category": "food",
         "href": "/ja/food/taiwan-sauces-and-seasonings",
         "date": "2026-09-22T01:05:35+08:00",
@@ -782,8 +782,8 @@
         "image": "/article-images/food/sanbeiji-three-cup-chicken.webp"
       },
       {
-        "title": "台湾のベジタリアン文化",
-        "desc": "台湾の菜食人口比率は世界トップクラス。仏教的菜食の伝統から現代の素料（植物性代替食品）のイノベーションまで、その文化的な変遷を辿る。",
+        "title": "台湾の素食文化",
+        "desc": "台湾の素食人口比率は世界トップレベルで、宗教的素食伝統から現代の素肉技術革新まで文化の進化を遂げている",
         "category": "food",
         "href": "/ja/food/taiwan-vegetarian-culture",
         "date": "2026-09-22T01:05:35+08:00",
@@ -791,8 +791,8 @@
         "image": "/article-images/food/taiwanese-vegetarian-sign.webp"
       },
       {
-        "title": "台湾の氷品文化",
-        "desc": "玉井マンゴーかき氷から雪花氷革命まで、台湾人が冬でも氷を食べる独特の文化を探る",
+        "title": "台湾のデザート文化",
+        "desc": "玉井マンゴーアイスから雪花氷革命まで、冬でもアイスを食べる台湾独自の文化を探求します",
         "category": "food",
         "href": "/ja/food/taiwanese-ice-cream-culture",
         "date": "2026-09-22T01:05:35+08:00",
@@ -800,8 +800,8 @@
         "image": "/article-images/food/taipei-mango-shaved-ice.webp"
       },
       {
-        "title": "台湾の新住民フードフュージョン",
-        "desc": "タイの辛さと酸味が台湾の甘さと塩味と出会い、越南河粉（フォー）が台湾の滷味（ルーウェイ）と邂逅し、インドネシアのスパイスが地元の食材を抱擁するとき、国境を越えた味覚革命が台湾で静かに起こっています。新住民がもたらすのは故郷の料理だけではなく、台湾の食文化を豊かにする新たな可能性です。",
+        "title": "台湾の新規住民による食文化の融合",
+        "desc": "タイ風の酸辣が台湾の甘辛と出会い、ベトナムのフォーが台式の魯肉飯と邂逅し、インドネシアの香りが地元の食材を抱きしめる。国境を越える味覚革命が台湾で静かに進行中です。新規住民がもたらすのは故郷の料理だけではなく、台湾食文化の新たな可能性です。",
         "category": "food",
         "href": "/ja/food/taiwanese-new-immigrant-culinary-fusion",
         "date": "2026-09-22T01:05:35+08:00",
@@ -810,7 +810,7 @@
       },
       {
         "title": "台湾麺食文化",
-        "desc": "戦後眷村（じゅんそん、台湾の外省人住宅団地）から国際舞台に至るまで、台湾の麺食は70年間にわたり米国援助（アメリカの経済援助）の小麦粉を起点に、省籍の記憶と在地の革新を融合させ、移民と故郷の飲食史詩を綴ってきました。",
+        "desc": "戦後の眷村から国際舞台へ、台湾麺食が七十年間で米援小麦粉から始まり、省籍の記憶と本土の革新を融合し、移民と故郷の食文化叙事詩を綴った",
         "category": "food",
         "href": "/ja/food/taiwanese-noodle-culture",
         "date": "2026-09-22T01:05:35+08:00",
@@ -856,8 +856,8 @@
         "image": "/article-images/food/classic-bubble-tea-2013.webp"
       },
       {
-        "title": "대만 차 문화",
-        "desc": "국제 차 생산 제한 협정에서 배제된 작은 섬은 오히려 차 산업의 황금기를 만들었고, 마지막에는 '작은 간식'을 넣은 밀크티 한 잔으로 세계를 사로잡았다",
+        "title": "타이완의 차 문화",
+        "desc": "국제 차업 강국들 사이에서 배제되었던 작은 섬이 차 산업 황금기를 만들고, 결국 '간식'을 곁들인 밀크티로 전 세계를 정복한 이야기",
         "category": "food",
         "href": "/ko/food/golden-age-echoes-taiwan-tea-culture",
         "date": "2026-09-22T01:05:42+08:00",
@@ -874,8 +874,8 @@
         "image": "/article-images/food/meinong-hakka-leicha-tea-2023.webp"
       },
       {
-        "title": "타이완 수요음료 문화",
-        "desc": "펄 밀크티에서 프리미엄 차 음료까지, 타이완 수요음료 문화의 부상과 글로벌 확장",
+        "title": "타이완 손맛 음료 문화",
+        "desc": "천왕국 태양 아침 차에서 정품 차 음료까지, 타이완 손맛 음료 문화의 부상과 글로벌 확산",
         "category": "food",
         "href": "/ko/food/hand-shaken-drink-culture",
         "date": "2026-09-22T01:05:42+08:00",
@@ -883,8 +883,8 @@
         "image": "/article-images/food/classic-bubble-tea-2013.webp"
       },
       {
-        "title": "대만의 야시장 문화",
-        "desc": "관리 대상 야시장 164곳, 타이난은 평균 3만 8천 명당 1곳. 사원 앞마당에서 국제 관광 명소로 이어진 대만 야시장의 역사",
+        "title": "야시장 문화",
+        "desc": "164개로 등록된 야시장의 모습, 타이난은 평균 3만 8천 명당 하나의 야시장을 보유하며 사찰 광장에서 국제 관광 명소까지 그 역사를 이어가고 있다.",
         "category": "food",
         "href": "/ko/food/night-market-culture",
         "date": "2026-09-22T01:05:42+08:00",
@@ -938,7 +938,7 @@
       },
       {
         "title": "타이완 해산물 문화",
-        "desc": "어항에서 갓 잡아 온 신선함, 해산물 식당 문화, 굴전 등 바다 요리를 통해 사면이 바다인 섬나라 타이완의 특색과 풍요로운 해산물 음식 전통을 조명한다",
+        "desc": "항구에서 직송한 신선한 해산물, 해산물 레스토랑 문화, 개와 계란지단지의 매콤한 맛을 담은 해산물 요리는 타이완이 바다에 둘러싸인 섬나라의 특색과 풍부한 해산물 음식 문화를 보여준다.",
         "category": "food",
         "href": "/ko/food/taiwan-seafood-culture",
         "date": "2026-09-22T01:05:42+08:00",
@@ -946,12 +946,12 @@
         "image": "/article-images/food/keelung-kanziding-fish-market-2007.webp"
       },
       {
-        "title": "Taiwanese Handcrafted Cuisine: Meaning, Origins, and the 'Signature Dishes' of Banquet Culture",
-        "desc": "Handcrafted cuisine (Teochew: tshiú-lōo-tshài) means 'signature dishes.' The white chalk soil of Neimen, Kaohsiung, cannot grow crops, yet it nurtured the township with the highest density of banquet chefs (zongpushi) in Taiwan—during its golden age, one company hosted 25,000 tables a year, with monthly revenues reaching 12 million. A pot of 'leftover soup' requires four to eight hours to prepare; if the flavor balance is off, the entire village will know the next day.",
+        "title": "타이완 손루차이: 의미, 유래와 판줘 문화의 '자신 있는 요리'",
+        "desc": "손루차이(대만어 tshiú-lōo-tshài)는 '자신 있는 요리'를 뜻한다. 가오슝 네이먼의 백악토는 작물을 키우지 못하지만, 전 타이완에서 가장 높은 총푸스 밀도를 배출했다——황금기에는 연간 25,000 상을 차렸고, 성수기 월 매출은 1,200만 위안에 달했다. 한 냄비 차이웨이탕을 끓이는 데 4~8시간이 걸리며, 잘 끓였는지 여부는 온 마을이 이튿날이면 다 안다.",
         "category": "food",
         "href": "/ko/food/taiwan-specialty-home-cooking",
         "date": "2026-09-22T01:05:42+08:00",
-        "readingTime": 12,
+        "readingTime": null,
         "image": "/article-images/food/sanbeiji-three-cup-chicken.webp"
       },
       {
@@ -991,8 +991,8 @@
         "image": "/article-images/food/tu-hsiao-yue-danzai-noodle-2015.webp"
       },
       {
-        "title": "타이완 소치(台灣小吃)",
-        "desc": "1987년 춘수당(春水堂)의 한 번의 실수가 진주차(珍珠奶茶)를 60개국 시장으로 이끌었다. 타이완 소치는 청대 이민자들의 생존 도구에서부터 오늘날 23.3만 개 노점들이 지탱하는 4000억 위안 산업까지: 그 성공 공식은 정교함이 아니라 '그냥 해보자'는 민중적 용기다.",
+        "title": "타이완 길거리 음식 (小吃)",
+        "desc": "1987년 춘수당(春水堂)의 한 실수로 펄 밀크티가 60개국 시장에 진출했다. 타이완 길거리 음식이 청대 이민자들의 생존 도구에서 오늘날 23만 3천 개 노점상이 지탱하는 4,000억 산업이 된 성공 방정식은 정교함이 아닌 '감당할 수 있으면 한번 시도해보라'는 서민적 용기이다.",
         "category": "food",
         "href": "/ko/food/taiwanese-street-food",
         "date": "2026-09-22T01:05:42+08:00",
@@ -1146,8 +1146,8 @@
         "image": "/article-images/culture/shopping-design-designbiz-2022-banner.jpg"
       },
       {
-        "title": "Paisaje sonoro de Taiwán: la música clásica de los camiones de basura, el canto de aves del metro y una isla que se oye pero rara vez se escucha",
-        "desc": "En el mismo año, el Metro de Taipéi invitaba a Summer Lei y CinCin Lee a convertir la música de llegada de los trenes en arte, mientras quitaba la melodía de la alerta de cierre de puertas y volvía al canto de aves. El sonido fue estetizado y funcionalizado al mismo tiempo. Esos sonidos que Taiwán intenta eliminar mediante la Ley de Control del Ruido son, en realidad, hitos con los que reconocemos que \"aquí está nuestro hogar\". La pregunta de una persona con maestría en estudios del paisaje sonoro: para comprender Taiwán, se puede empezar preguntando \"qué sonidos nos hemos acostumbrado a ignorar\".",
+        "title": "El paisaje sonoro de Taiwán: la música clásica de los camiones de basura, el canto de pájaros del metro y una isla que solo se escucha pero rara vez se atiende",
+        "desc": "En el mismo año, mientras el metro de Taipéi convertía la música de entrada en arte con Lei Guang-xia y Li Xin-yun, eliminaban la melodía de alarma de cierre para reemplazarla por sonidos de pájaros. El sonido fue simultáneamente estetizado y funcionalizado. Estos sonidos que Taiwán busca eliminar mediante la Ley de Control de Ruido son, en realidad, los hitos con los que reconocemos \"que este es nuestro hogar\". Una pregunta de un máster en paisajismo sonoro: comprender Taiwán puede comenzar preguntando \"¿qué sonidos tendemos a ignorar?\".",
         "category": "culture",
         "href": "/es/culture/taiwan-soundscape",
         "date": "2026-09-22T01:05:46+08:00",
@@ -1155,8 +1155,8 @@
         "image": "/article-images/culture/shilin-night-market-soundscape-2015.webp"
       },
       {
-        "title": "Bubble Tea",
-        "desc": "Una reunión de empleados en Taichung en 1987, un gesto casual, y una bebida que conquistó el mundo. La disputa sobre el origen del bubble tea, su política cultural y el debate sanitario de una taza de 500 kilocalorías.",
+        "title": "Té de leche con tapioca",
+        "desc": "En 1987, una reunión de empleados en Taichung, un movimiento fortuito, una bebida conquistó el mundo. La polémica sobre el origen del té de leche con tapioca, la política cultural y un debate sobre salud de 500 calorías.",
         "category": "food",
         "href": "/es/food/bubble-tea",
         "date": "2026-09-22T01:05:46+08:00",
@@ -1164,8 +1164,8 @@
         "image": "/article-images/food/classic-bubble-tea-2013.webp"
       },
       {
-        "title": "Cultura del Té de Taiwán",
-        "desc": "Una pequeña isla excluida de los acuerdos de restricción de producción entre las grandes potencias del té, que por eso creó su propia edad de oro tetera, para terminar conquistando el mundo entero con una taza de té mezclado con 'pequeños postres'",
+        "title": "Cultura del té en Taiwán",
+        "desc": "Una pequeña isla excluida del Tratado Internacional de Limitación de la Producción de Té creó así el oro de la era del té, y terminó conquistando al mundo con una taza de té de leche con “pequeños bocados”",
         "category": "food",
         "href": "/es/food/golden-age-echoes-taiwan-tea-culture",
         "date": "2026-09-22T01:05:46+08:00",
@@ -1263,8 +1263,8 @@
         "image": "/article-images/food/keelung-kanziding-fish-market-2007.webp"
       },
       {
-        "title": "La cocina de mano maestra en Taiwán: significado, origen y los \"platos estrella\" de la cultura del banquete callejero",
-        "desc": "La \"cocina de mano maestra\" (en taiwanés tshiú-lōo-tshài) significa \"plato estrella\" o \"plato fuerte\". La tierra creosa de Neimen, en Kaohsiung, no permite cultivar, pero dio lugar a la mayor densidad de chefs de banquete de todo Taiwán: en su época dorada se montaban 25 000 mesas al año, con ingresos de 12 millones en los meses punta. Una olla de sopa de restos de banquete requiere de cuatro a ocho horas; si cuaja bien o no, toda la aldea lo sabe al día siguiente.",
+        "title": "Los platos de habilidad de Taiwán: significado, origen y \"platos estrella\" de la cultura del banquete",
+        "desc": "Los *tshiú-lōo-tshài* (platos de habilidad en taiwanés) significan \"plato estrella\". En Neimen, Kaohsiung, donde el suelo blanco no produce cultivos, se crió al proveedor más denso de Taiwán: la compañía Golden Era, que organizaba 25,000 banquetes al año y tenía ingresos mensuales de 12 millones. El caldo final de un plato puede tardar entre cuatro y ocho horas en cocinarse; todo el pueblo lo sabe al día siguiente.",
         "category": "food",
         "href": "/es/food/taiwan-specialty-home-cooking",
         "date": "2026-09-22T01:05:46+08:00",
@@ -1308,8 +1308,8 @@
         "image": "/article-images/food/tu-hsiao-yue-danzai-noodle-2015.webp"
       },
       {
-        "title": "Comida callejera de Taiwán",
-        "desc": "Un error en Chunshui Tang en 1987 llevó al té de burbujas a 60 países. La comida callejera de Taiwán, desde herramienta de supervivencia de los inmigrantes de la dinastía Qing hasta una industria de 400 mil millones de NT$ sostenida por 233 mil puestos: su fórmula de éxito no es la refinación, sino esa valentía popular de \"da igual, pruébalo primero\".",
+        "title": "Taiwán: pequeños bocados, gran cultura",
+        "desc": "Un error en la taquería Primavera en 1987 llevó el té de tapioca a 60 mercados. Desde herramientas de supervivencia de inmigrantes del período Qing hasta una industria de 400.000 millones impulsada por 233.000 puestos: su fórmula de éxito no es el perfeccionismo, sino el espíritu espontáneo de \"¡basta, pruébalo!\"",
         "category": "food",
         "href": "/es/food/taiwanese-street-food",
         "date": "2026-09-22T01:05:46+08:00",
@@ -1391,8 +1391,8 @@
         "image": "/article-images/geography/miaoli-tung-blossom-festival-2023.webp"
       },
       {
-        "title": "New Taipei : la métropole annulaire qui entoure Taipei, où 4,01 millions d’habitants portent les trajets pendulaires, l’industrie et la mémoire de la capitale",
-        "desc": "Depuis que les Espagnols ont posé la première brique du fort San Domingo de Tamsui en 1628, 398 ans se sont écoulés. C’était 247 ans avant que Shen Baozhen n’établisse la préfecture de Taipei en 1875. Aujourd’hui, les 29 districts de New Taipei entourent les 12 districts de Taipei ; 4,01 millions de personnes vivent dans cette municipalité spéciale, la plus peuplée de Taïwan, et 390 000 traversent les limites municipales pour aller travailler à Taipei. Mais cette « métropole annulaire » n’est pas une cité-dortoir de Taipei : elle porte la famille Lin de Banqiao en 1853, le thé oolong expédié de Tamsui jusqu’à New York en 1869, les premières mines d’or d’Asie à Jiufen et Jinguashi dans les années 1890, la ligne ferroviaire de Pingxi qui transportait le charbon en 1929, les sculptures du temple Zushi de Sanxia commencées par Li Meishu en 1947, et le village Tranan des Atayal de Wulai. New Taipei est un condensé de 400 ans d’histoire taïwanaise, situé précisément hors de la ville de Taipei.",
+        "title": "New Taipei : la métropole annulaire qui entoure Taipei, 4,01 millions de personnes soutiennent les trajets quotidiens, l'industrie et la mémoire de la capitale",
+        "desc": "Le château de Danshui Hongmao date des premières briques posées par les Espagnols en 1628. Il est antérieur de 247 ans à la fondation du gouvernement de Taipei par Shen Baozhen en 1875. Aujourd'hui, les 29 districts de New Taipei entourent les 12 districts de Taipei, où vivent 4,01 millions de personnes dans la plus grande municipalité de Taïwan, et 390 000 personnes font des trajets pendulaires entre les municipalités pour travailler à Taipei. Mais cette « métropole annulaire » n'est pas une ville dortoir de Taipei ; elle abrite le clan Lin de Banqiao en 1853, le thé Oolong exporté de Danshui vers New York en 1869, Jingguashi (les mines d'or asiatiques les plus anciennes) dans les années 1890, le chemin de fer Pingxi transportant du charbon en 1929, la sculpture des temples ancestraux de Sanxia commencée par Li Meishu en 1947, et le village de Delanan du peuple Atayal à Wulai. New Taipei est un microcosme des 400 ans de Taïwan, mais il n'est pas dans la ville de Taipei.",
         "category": "geography",
         "href": "/fr/geography/new-taipei-city",
         "date": "2026-09-22T01:05:52+08:00",
@@ -1427,8 +1427,8 @@
         "image": "/article-images/culture/shopping-design-designbiz-2022-banner.jpg"
       },
       {
-        "title": "Paysage sonore de Taïwan : la musique classique des camions-poubelles, les chants d'oiseaux du métro, et une île que l'on entend sans vraiment l'écouter",
-        "desc": "La même année, le métro de Taipei sollicitait Summer Lei et Cincin Lee pour faire de sa musique d'arrivée en station une forme d'art, tout en retirant la mélodie du signal de fermeture des portes pour revenir à des chants d'oiseaux. Le son était à la fois esthétisé et fonctionnalisé. Ces sons que Taïwan cherche à éliminer par la Loi sur le contrôle du bruit sont en réalité des repères grâce auxquels nous reconnaissons que « nous sommes chez nous ». La question posée par un chercheur titulaire d'un master en études du paysage sonore : comprendre Taïwan peut commencer par se demander « quels sons avons-nous pris l'habitude d'ignorer ».",
+        "title": "Le paysage sonore de Taïwan : la musique classique des camions poubelles, le chant d'oiseaux du métro, et une île que l'on entend mais rarement qu'on écoute",
+        "desc": "En 2015, tandis que le métro de Taipei transformait la musique d'entrée en art avec Lei Guang-xia et Li Xin-yun, il a retiré les signaux de fermeture pour revenir au son des oiseaux. Le son est à la fois esthétisé et fonctionnalisé. Ces sons, que Taïwan cherche à éliminer par le « Règlement sur le contrôle du bruit », sont en réalité nos repères qui nous disent : « Ici, c'est chez soi ». La question d'un étudiant en recherche sur les paysages sonores est la suivante : comprendre Taïwan commence par se demander « quels sons avons-nous l'habitude d'ignorer ? »",
         "category": "culture",
         "href": "/fr/culture/taiwan-soundscape",
         "date": "2026-09-22T01:05:52+08:00",
@@ -1436,8 +1436,8 @@
         "image": "/article-images/culture/shilin-night-market-soundscape-2015.webp"
       },
       {
-        "title": "Le bubble tea — comment une tasse a conquis le monde",
-        "desc": "En 1987, lors d'une réunion d'équipe à Taichung, un geste anodin a donné naissance à une boisson qui allait conquérir la planète. Origines disputées, politique culturelle et débat sur les 500 calories d'un verre de bubble tea.",
+        "title": "Le thé à la perle (Bubble Tea)",
+        "desc": "Un événement d'une réunion d'employés à Taïwan en 1987, un geste anodin a conquis le monde. L'origine controversée du bubble tea, sa politique culturelle et le débat sur sa santé avec ses 500 calories.",
         "category": "food",
         "href": "/fr/food/bubble-tea",
         "date": "2026-09-22T01:05:52+08:00",
@@ -1446,7 +1446,7 @@
       },
       {
         "title": "La culture du thé à Taïwan",
-        "desc": "Une petite île exclue des accords internationaux de limitation de la production théicole a ainsi créé son âge d'or du thé, avant de conquérir le monde entier avec une tasse de lait aromatisé garnie de petites « perles »",
+        "desc": "Une petite île exclue du Pacte international de limitation des productions de thé a ainsi créé l'âge d'or de l'industrie du thé, pour finalement conquérir le monde avec une tasse de bubble tea servie avec des « petits pâtés ».",
         "category": "food",
         "href": "/fr/food/golden-age-echoes-taiwan-tea-culture",
         "date": "2026-09-22T01:05:52+08:00",
@@ -1499,8 +1499,8 @@
         "image": "/article-images/food/taiwan-breakfast-hero-set.webp"
       },
       {
-        "title": "Les aliments fermentés et la culture de la salaison à Taïwan",
-        "desc": "Du tofu malodorant au tofu fermenté, exploration des techniques de fermentation uniques et des traditions de salaison de Taïwan",
+        "title": "Les aliments fermentés et la culture de conservation à Taïwan",
+        "desc": "De le tofu odorant au *doufuru*, exploration des traditions uniques de fermentation et de conservation à Taïwan",
         "category": "food",
         "href": "/fr/food/taiwan-fermented-and-pickled-foods",
         "date": "2026-09-22T01:05:52+08:00",
@@ -1544,12 +1544,12 @@
         "image": "/article-images/food/keelung-kanziding-fish-market-2007.webp"
       },
       {
-        "title": "La cuisine de maître à Taïwan : l'art des plats signatures et la culture des banquets de rue",
-        "desc": "La tshiú-lōo-tshài (手路菜) désigne en taïwanais les plats qui requièrent un vrai savoir-faire — transmis de maître à disciple, sans recette écrite. À Neimen, district de Kaohsiung, une terre trop alcaline pour cultiver quoi que ce soit a paradoxalement forgé la plus haute concentration de maîtres-traiteurs de tout Taïwan. À leur apogée, ils assuraient 25 000 banquets par an. Aujourd'hui, le secteur lutte pour survivre.",
+        "title": "Les plats de maître (Tshiú-lōo-tshài) : signification, origine et \"spécialités\" de la culture du *pān-toh*",
+        "desc": "Le *Tshiú-lōo-tshài* (手路菜), qui signifie \"plat signature\", est un plat nécessitant une maîtrise technique sans recette standard. Il illustre le savoir-faire des traiteurs de Taïwan, notamment à Neimen, Kaohsiung, où la tradition du *pān-toh* a connu son âge d'or avant de subir un déclin massif.",
         "category": "food",
         "href": "/fr/food/taiwan-specialty-home-cooking",
         "date": "2026-09-22T01:05:52+08:00",
-        "readingTime": 8,
+        "readingTime": null,
         "image": "/article-images/food/sanbeiji-three-cup-chicken.webp"
       },
       {
@@ -1562,8 +1562,8 @@
         "image": "/article-images/food/taiwanese-vegetarian-sign.webp"
       },
       {
-        "title": "La culture taïwanaise des desserts glacés",
-        "desc": "De la glace à la mangue de Yujing à la révolution de la glace en flocons, explorez la culture unique de Taïwan où l'on mange de la glace même en hiver",
+        "title": "La culture des glaces à Taïwan",
+        "desc": "De la glace au mangue de Yujing à la révolution de la neige glacée, une exploration de la culture unique taïwanaise qui aime manger des glaces même en hiver",
         "category": "food",
         "href": "/fr/food/taiwanese-ice-cream-culture",
         "date": "2026-09-22T01:05:52+08:00",
@@ -1589,8 +1589,8 @@
         "image": "/article-images/food/tu-hsiao-yue-danzai-noodle-2015.webp"
       },
       {
-        "title": "Les snacks taïwanais",
-        "desc": "En mars 1987, une erreur au Chunshui Tang a propulsé le thé au lait aux perles sur les marchés de 60 pays. Des outils de survie des immigrants de l'époque Qing aux 233 000 stands qui soutiennent une industrie de 400 milliards de NT$ : la formule de succès des snacks taïwanais n'est pas la raffinement, mais cette courageuse audace populaire de type « peu importe, essayons d'abord ». ",
+        "title": "Les spécialités culinaires de Taïwan (Taiwan)",
+        "desc": "Une erreur de 1987 à Chun Shui Tang a permis au thé au lait perlé d'atteindre le marché de 60 pays. De l'outil de survie des migrants de la dynastie Qing aux 400 milliards de yuans soutenus par 233 000 stands aujourd'hui : son équation de succès n'est pas la sophistication, mais cette audace populaire du type « on essaie, et on voit ».",
         "category": "food",
         "href": "/fr/food/taiwanese-street-food",
         "date": "2026-09-22T01:05:52+08:00",
@@ -1834,8 +1834,8 @@
         "image": ""
       },
       {
-        "title": "Wretch: chiếc máy tính nhặt về, tuổi trẻ bị bán đi và một cuộc biến mất không người tiễn đưa",
-        "desc": "Năm 1999, trong ký túc xá Đại học Giao thông Quốc lập, sáu sinh viên ngành khoa học máy tính đã chắp vá thiết bị phế thải của khoa thành một BBS mang tên “Wretch”. Nó phát triển thành nền tảng blog lớn nhất Đài Loan, chiếc nôi của thế hệ nhà sáng tạo đầu tiên tại đây, thậm chí vượt Yahoo để trở thành website lớn nhất vào năm 2008. Sau đó Yahoo mua lại nền tảng này và xóa nó vào đêm 26 tháng 12 năm 2013, cùng với những album ảnh của cả một thế hệ. Ngày nay, phần lớn những gì người dùng có thể vớt lại chỉ là các album trống không mở được. Wretch được ghi nhớ như tuổi trẻ, nhưng ngay từ đầu, tuổi trẻ ấy đã nằm trên một máy chủ mà người khác có thể tắt bất cứ lúc nào.",
+        "title": "Trang nhỏ vô danh: Máy tính tìm được, tuổi trẻ bán đi, và một sự biến mất không ai đưa hỏa thiêu",
+        "desc": "Năm 1999, ký túc xá đại học báo cáo kỹ thuật tại Đại học Chương trình Cao đẳng, sáu sinh viên ngành kỹ thuật phần mềm đã ghép lại những thiết bị đã bị bỏ xóc của trường để tạo ra một diễn đàn BBS mang tên 'Vô danh'. Nó trở thành blog lớn nhất cả nước Trung Hoa, nơi nuôi dưỡng thế hệ sáng tạo đầu tiên của Đảo Loan, và đến năm 2008 còn lên đến trang chủ Yahoo để trở thành trang web lớn nhất. Sau đó Yahoo mua lại nó, và vào đêm ngày 26 tháng 12 năm 2013, cả nó và kỷ niệm của một thế hệ cùng bị xóa bỏ. Ngày nay, hầu hết mọ người chỉ có thể thu hồi được những cuốn album trốngngười không thể mở được. Nó được ghi nhớ như một kỷ nguyên tuổi trẻ, nhưng kỷ nguyên tuổi trẻ ấy từ đầu đã nằm trên những máy chủ mà người khác có thể tắt bất kỳ lúc nào.",
         "category": "culture",
         "href": "/vi/culture/wretch",
         "date": "2026-09-22T01:05:58+08:00",
@@ -2043,8 +2043,8 @@
         "image": "/article-images/culture/changhua-iron-window-grille-2021.webp"
       },
       {
-        "title": "Wretch: Komputer Bekas yang Dipungut, Masa Muda yang Dijual, dan Sebuah Kepergian Tanpa Pemakaman",
-        "desc": "Pada 1999, di asrama Universitas Chiao Tung, enam mahasiswa ilmu komputer merakit perangkat bekas jurusan mereka menjadi sebuah BBS bernama Wretch. Situs itu tumbuh menjadi platform blog terbesar di Taiwan dan tempat lahir generasi pertama kreator Taiwan; pada 2008, bahkan melampaui Yahoo sebagai situs web terbesar di Taiwan. Kemudian Yahoo membelinya, lalu pada malam 26 Desember 2013 menghapusnya bersama album foto satu generasi. Kini, kebanyakan orang hanya dapat memulihkan album kosong yang tidak bisa dibuka. Wretch dikenang sebagai masa muda, padahal sejak awal masa muda itu disimpan di server yang dapat dimatikan orang lain.",
+        "title": "Wuming Xiaozhan: Komputer yang Ditemukan, Masa Muda yang Terjual, dan Suatu Penghilangan yang Tak Ada yang Mengungani",
+        "desc": "Di asrama kampus NCTU pada tahun 1999, enam mahasiswa ilmu komputer merakit peralatan usang dari departemen mereka untuk menciptakan sebuah BBS bernama 'Wuming'. Situs ini berkembang menjadi blog terbesar di seluruh Taiwan dan tempat dilahirinya generasi pertama pencipta konten Taiwan. Pada tahun 2008, situs ini bahkan mencapai posisi pertama di mesin pencari Yahoo. Kemudian Yahoo membelinya, dan pada malam tanggal 26 Desember 2013, situs ini beserta kenangan satu generasi dihapuskan. Kini kebanyakan orang hanya dapat mengembalikan album kosong yang tidak bisa dibuka. Kenangan ini dicatat sebagai masa mudanya, namun masa muda itu sejak awal diletakkan di server yang bisa dimatikan oleh orang lain.",
         "category": "culture",
         "href": "/id/culture/wretch",
         "date": "2026-09-22T01:07:23+08:00",
@@ -2052,8 +2052,8 @@
         "image": "/article-images/culture/wretch-downtime-notice-2005.webp"
       },
       {
-        "title": "Teh Susu Mutiara",
-        "desc": "Dalam sebuah rapat karyawan di Taichung pada 1987, satu tindakan spontan membuat segelas minuman menaklukkan dunia. Perdebatan tentang asal-usul dan politik budaya teh susu mutiara, serta polemik kesehatan di balik segelas minuman berkalori 500 kkal.",
+        "title": "Teh Boba (珍珠奶茶)",
+        "desc": "Persaingan asal-usul teh boba yang dimulai dari rapat karyawan di Taiwan pada tahun 1987, membahas politik budaya dan perdebatan kesehatan seputar minuman dengan kandungan 500 kalori.",
         "category": "food",
         "href": "/id/food/bubble-tea",
         "date": "2026-09-22T01:07:23+08:00",
@@ -2062,7 +2062,7 @@
       },
       {
         "title": "Budaya Teh Taiwan",
-        "desc": "Sebuah pulau kecil yang dikecualikan dari perjanjian produksi teh internasional, namun menciptakan era emas industri teh, akhirnya menaklukkan dunia dengan secangkir teh susu yang ditambah 'kue kecil'.",
+        "desc": "Pulau kecil yang dikucili karena dikecualikan dari Perjanjian Produksi Teh Internasional justru menciptakan Era Emas industri teh, dan akhirnya menaklukkan dunia dengan segelas teh susu yang ditambah \"kue kecil\"",
         "category": "food",
         "href": "/id/food/golden-age-echoes-taiwan-tea-culture",
         "date": "2026-09-22T01:07:23+08:00",
@@ -2088,8 +2088,8 @@
         "image": ""
       },
       {
-        "title": "Budaya Makanan Beras Taiwan",
-        "desc": "Dari 85 Kg per Tahun Menjadi 42 Kg: Revolusi Makanan dan Ketahanan Budaya Sebuah Negara Pulau Beras",
+        "title": "Budaya Makanan Beras di Taiwan",
+        "desc": "Dari 85 kg per tahun turun ke 42 kg: revolusi makanan dan kegigihan budaya sebuah negara pulau beras",
         "category": "food",
         "href": "/id/food/taiwan-rice-cuisine-culture",
         "date": "2026-09-22T01:07:23+08:00",
@@ -2115,8 +2115,8 @@
         "image": "/article-images/food/pho-vietnamese-noodle-soup.webp"
       },
       {
-        "title": "Budaya Makanan Mie Taiwan",
-        "desc": "Dari kampung militer pasca-perang hingga panggung internasional, makanan mie Taiwan memulai perjalanan dari tepung terigu bantuan AS selama tujuh puluh tahun, menggabungkan memori provinsi dan inovasi lokal, menulis epik kuliner dari imigrasi dan tanah air",
+        "title": "Budaya Mie Taiwān: Tujuh Puluh Tahun dari tepung bantuan AS hingga kuliner nasional",
+        "desc": "Dari permukiman veteran pasca-perang hingga panggung internasional, mie Taiwān dalam tujuh puluh tahun berkembang dari tepung bantuan AS, bersatu dengan kenangan provinsi dan inovasi lokal, menulis epik makanan migran dan tanah air",
         "category": "food",
         "href": "/id/food/taiwanese-noodle-culture",
         "date": "2026-09-22T01:07:23+08:00",
@@ -2396,8 +2396,8 @@
         "image": "/article-images/food/taiwan-food-alishan-yuyupas-tea-garden-2011.webp"
       },
       {
-        "title": "Wretch: computadores recolhidos, uma juventude vendida e um desaparecimento sem funeral",
-        "desc": "Em 1999, num dormitório da Universidade Nacional Chiao Tung, seis estudantes de ciência da computação montaram com equipamentos descartados pelo departamento um BBS chamado Wretch. Ele se tornou o maior serviço de blogs de Taiwan e o berço da primeira geração de criadores do país; em 2008, chegou a superar o Yahoo e tornou-se o site mais acessado de Taiwan. Então, o Yahoo o comprou e, na noite de 26 de dezembro de 2013, apagou o serviço junto com os álbuns de toda uma geração. Hoje, a maioria das pessoas só consegue recuperar álbuns vazios cujas imagens não abrem. Ele é lembrado como juventude, mas essa juventude esteve, desde o princípio, alojada em servidores que outra pessoa podia desligar.",
+        "title": "Wretch: computadores catados, juventude vendida e um desaparecimento sem funeral",
+        "desc": "Em 1999, no dormitório da Universidade Chiao Tung, seis estudantes de Ciência da Computação montaram um BBS chamado \"Wretch\" usando equipamentos descartados pelo departamento. Ele cresceu até se tornar a maior plataforma de blogs de Taiwan, o berço da primeira geração de criadores do país; em 2008, chegou a superar o Yahoo e se tornar o maior site de Taiwan. Então o Yahoo o comprou e, na noite de 26 de dezembro de 2013, o apagou junto com os álbuns de toda uma geração. Hoje, a maioria só recupera álbuns vazios que não abrem. Foi lembrado como juventude, mas essa juventude, desde o início, estava guardada em servidores que outros podiam desligar.",
         "category": "culture",
         "href": "/pt/culture/wretch",
         "date": "2026-09-22T01:09:03+08:00",
@@ -2414,8 +2414,8 @@
         "image": "/article-images/food/classic-bubble-tea-2013.webp"
       },
       {
-        "title": "Cultura do Chá de Taiwan",
-        "desc": "Um pequeno arquipélago excluído do acordo internacional de controle de produção de chá, que acabou criando uma era dourada para a indústria do chá e, por fim, conquistou o mundo com uma xícara de chá com petisco.",
+        "title": "A cultura do chá em Taiwan",
+        "desc": "Uma pequena ilha excluída do Pacto Internacional de Limitação da Produção de Chá criou uma era de ouro para o setor, e no fim conquistou o mundo com um copo de chá com leite e 'petiscos'",
         "category": "food",
         "href": "/pt/food/golden-age-echoes-taiwan-tea-culture",
         "date": "2026-09-22T01:09:03+08:00",
@@ -2569,12 +2569,12 @@
         "image": ""
       },
       {
-        "title": "ताइवान में धार्मिक विश्वास: भय से उभरा विश्वास का साम्राज्य",
-        "desc": "दुनिया का सबसे अधिक मंदिर घनत्व वाला द्वीप, एशिया में धार्मिक स्वतंत्रता में दूसरे स्थान पर; सबसे बड़े दो विश्वास—वांगये और माज़ू—की ऐतिहासिक उत्पत्ति दोनों महामारी और मृत्यु से जुड़ी हैं। 17वीं सदी के सैन्य प्रवासियों द्वारा भगवान की मूर्तियों को लेकर काले पानी की खाड़ी पार करने से लेकर 2025 की स्वतंत्रता रिपोर्ट में 94 अंक तक; 1953 में एकसूत्र मार्ग पर प्रतिबंध से लेकर 1987 में पहले कानूनी मान्यता तक, चार बड़े बौद्ध पर्वतों और प्रोटेस्टेंट चर्च के राजनीतिक-धार्मिक संबंधों में अलग-अलग रास्ते अपनाने तक—ताइवान का विश्वास ग्रंथों में नहीं, मुड़ते रास्ते की धूप में है।",
+        "title": "ताइवान का धार्मिक विश्वास: भय में जन्मा आस्था साम्राज्य",
+        "desc": "यह द्वीप दुनिया में सबसे अधिक मंदिर घनत्व और एशिया में दूसरे स्थान पर धार्मिक स्वतंत्रता रखता है। दो प्रमुख धर्म - वान्ये (देवता) और माज़ू - दोनों की ऐतिहासिक उत्पत्ति प्लेग और मृत्यु से जुड़ी है। 17वीं शताब्दी के सैन्य प्रवासियों द्वारा देवताओं को हेइशुईको (Blackwater Gully) पार कराने से लेकर, 2025 की स्वतंत्रता रिपोर्ट में 94 अंक प्राप्त करने तक; 1953 में एकवानदाओ पर प्रतिबंध लगने और 1987 में डी-सीक्रेटाइजेशन के बाद कानूनी मान्यता मिलने तक; और चार प्रमुख बौद्ध संप्रदायों तथा एल्डर चर्च द्वारा राजनीतिक और धार्मिक संबंधों में अलग-अलग रास्ते अपनाने तक - ताइवान का विश्वास धर्मग्रंथों में नहीं, बल्कि कोनों पर जलती धूप में है।",
         "category": "culture",
         "href": "/hi/culture/taiwan-religion-and-temple-culture",
         "date": "2026-09-22T01:05:09+08:00",
-        "readingTime": "22",
+        "readingTime": 22,
         "image": ""
       },
       {
@@ -2596,8 +2596,8 @@
         "image": "/article-images/culture/changhua-iron-window-grille-2021.webp"
       },
       {
-        "title": "अनाम स्टेशन: उठाई हुई कंप्यूटर, बेची गई युवावस्था, और एक ऐसे विलुप्त होने की अंतिम संस्कार जिसका कोई नहीं हुआ",
-        "desc": "1999 में जियाओतोंग विश्वविद्यालय की छात्रावास में, छह कंप्यूटर इंजीनियरिंग के छात्रों ने विभाग से फेंकी गई पुरानी मशीनों के टुकड़ों से 'अनाम' नामक एक BBS बनाया। यह तैवान का सबसे बड़ा ब्लॉग प्लेटफ़ॉर्म और पहली पीढ़ी के कंटेंट क्रिएटर्स का गढ़ बन गया, 2008 में यह Yahoo को पछाड़कर सबसे बड़ी वेबसाइट बन गया। फिर Yahoo ने इसे खरीद लिया, और 26 दिसंबर 2013 की रात को यह पूरी पीढ़ी की यादों के साथ मिट गया। आज अधिकांश लोग सिर्फ़ खाली फ़ोटो अल्बम ही वापस पा पाते हैं। इसे युवावस्था के रूप में याद किया जाता है, लेकिन वह युवावस्था शुरू से ही किसी ऐसे सर्वर पर थी जिसे बंद किया जा सकता था।",
+        "title": "अनाम वेबसाइट: बरामद किए गए कंप्यूटर, बेची गई जवानी और एक ऐसी गुमशुदगी जिसका कोई अंतिम संस्कार नहीं हुआ",
+        "desc": "1999 में जेएनयू छात्रावास में, छह कंप्यूटर विज्ञान के छात्रों ने विभाग द्वारा स्क्रैप किए गए उपकरणों का उपयोग करके 'अनाम' नामक एक BBS बनाया। यह पूरे ताइवान की सबसे बड़ी ब्लॉग और पहले पीढ़ी के रचनाकारों का पालना बन गया, और 2008 तक यह याहू को पछाड़कर सबसे बड़ी वेबसाइट बन गई। फिर याहू ने इसे खरीद लिया, और 26 दिसंबर 2013 की रात एक पीढ़ी की एल्बम के साथ डिलीट हो गई, और अब अधिकांश लोगों को केवल बंद होने वाली खाली एल्बमें मिली हैं। इसे जवानी के रूप में याद किया जाता है, लेकिन वह जवानी शुरू से ही किसी और द्वारा बंद किए जा सकने वाले सर्वर पर रखी गई थी।",
         "category": "culture",
         "href": "/hi/culture/wretch",
         "date": "2026-09-22T01:05:09+08:00",
@@ -2605,8 +2605,8 @@
         "image": "/article-images/culture/wretch-downtime-notice-2005.webp"
       },
       {
-        "title": "बबल टी",
-        "desc": "1987 में ताइचुंग की एक कर्मचारी बैठक के दौरान किए गए एक अनायास प्रयोग ने एक पेय को पूरी दुनिया में लोकप्रिय बना दिया। बबल टी की विवादित उत्पत्ति, उसकी सांस्कृतिक राजनीति और 500 कैलोरी वाले एक कप पर स्वास्थ्य बहस।",
+        "title": "ज़र्शन मिल्क टी",
+        "desc": "1987 में ताइपे की एक स्टाफ मीटिंग में एक अनजाना कदम एक पेय को पूरी दुनिया पर विजय हासिल कर लाया। ज़र्शन मिल्क टी की उत्पत्ति के विवाद, संस्कृति-राजनैतिक पहलुओं और 500 कैलोरी के स्वास्थ्य से संबंधित बहस।",
         "category": "food",
         "href": "/hi/food/bubble-tea",
         "date": "2026-09-22T01:05:09+08:00",
@@ -2615,7 +2615,7 @@
       },
       {
         "title": "ताइवान की चाय संस्कृति",
-        "desc": "एक ऐसा द्वीप जिसे अंतरराष्ट्रीय चाय शक्तियों ने उत्पादन सीमा समझौते से बाहर रखा था, फिर भी उसने चाय उद्योग का स्वर्ण युग बनाया, और अंत में \"छोटे नाश्ते\" वाली एक कप दूध चाय से पूरी दुनिया को जीत लिया",
+        "desc": "एक छोटा द्वीप जिसे अंतरराष्ट्रीय चाय उद्योग के दिग्गजों ने सीमित उत्पादन समझौते से बाहर रखा था, लेकिन इसने चाय उद्योग का स्वर्ण युग बनाया और अंत में 'छोटे स्नैक' के साथ दूध वाली चाय (बबल टी) से पूरी दुनिया को जीत लिया।",
         "category": "food",
         "href": "/hi/food/golden-age-echoes-taiwan-tea-culture",
         "date": "2026-09-22T01:05:09+08:00",
@@ -2623,8 +2623,8 @@
         "image": "/article-images/food/formosa-oolong-tea-jacksons.webp"
       },
       {
-        "title": "'रात्र बाज़ार संस्कृति'",
-        "desc": "'164 प्रशासित रात्र बाज़ार, ताइनां में औसतन 38,000 लोगों को एक रात्र बाज़ार, मंदिर के आंगन से लेकर अंतरराष्ट्रीय पर्यटन स्थल तक'",
+        "title": "ताइवान नाइट मार्केट संस्कृति",
+        "desc": "164 सूचीबद्ध नाइट मार्केट, ताइनान में औसतन 38,000 लोग एक नाइट मार्केट रखते हैं; मंदिर प्रांगण से लेकर अंतरराष्ट्रीय पर्यटन स्थल तक",
         "category": "food",
         "href": "/hi/food/night-market-culture",
         "date": "2026-09-22T01:05:09+08:00",
@@ -2641,8 +2641,8 @@
         "image": ""
       },
       {
-        "title": "ताइवान की मूलनिवासी खाद्य संस्कृति",
-        "desc": "एकामे की ज्वाला से आमिस जनजाति के जंगली सब्जियों के ब्रह्मांड तक—ताइवान के मूलनिवासियों का भोजन तीन हज़ार वर्षों बाद कैसे विश्व का ध्यान पुनः आकर्षित कर रहा है",
+        "title": "ताइवान के स्वदेशी लोगों का खान-पान संस्कृति",
+        "desc": "AKAME की आग से लेकर आमेई जनजाति के जंगली पौधों के ब्रह्मांड तक—तीन हजार वर्षों बाद ताइवान के स्वदेशी भोजन ने दुनिया की निगाहों को फिर से जलाया है।",
         "category": "food",
         "href": "/hi/food/taiwan-indigenous-foodways",
         "date": "2026-09-22T01:05:09+08:00",
@@ -2650,8 +2650,8 @@
         "image": "/article-images/food/amis-music-festival-dancers-2016.webp"
       },
       {
-        "title": "ताइवान की चावल भोजन संस्कृति",
-        "desc": "वार्षिक 85 किलोग्राम से 42 किलोग्राम तक: एक चावल द्वीप राष्ट्र की आहार क्रांति और सांस्कृतिक दृढ़ता",
+        "title": "ताइवान की चावल की संस्कृति",
+        "desc": "85 किलो से 42 किलो तक: एक चावल के द्वीप राष्ट्र का खाने पीने का क्रांति और संस्कृति का संकल्प",
         "category": "food",
         "href": "/hi/food/taiwan-rice-cuisine-culture",
         "date": "2026-09-22T01:05:09+08:00",
@@ -2659,8 +2659,8 @@
         "image": "/article-images/food/rice-dumpling-zongzi.webp"
       },
       {
-        "title": "ताइवान की समुद्री भोजन संस्कृति",
-        "desc": "मछली बंदरगाहों से ताज़ा सीधी आपूर्ति, समुद्री भोजन रेस्तरां संस्कृति, ऑयस्टर ऑमलेट जैसे समुद्री व्यंजन, ताइवान के चारों ओर समुद्र से घिरे द्वीपीय विशेषता और समृद्ध समुद्री भोजन परंपरा को दर्शाते हैं",
+        "title": "ताइवान समुद्री भोजन संस्कृति",
+        "desc": "मछली पकड़ने वाले बंदरगाहों से ताज़ा आपूर्ति, समुद्री भोजन रेस्तरां संस्कृति और ओयज़ीजियन (蚵仔煎) जैसे समुद्री व्यंजन ताइवान के चारों ओर समुद्र से घिरे द्वीप की विशेषता और समृद्ध समुद्री खाद्य परंपरा को दर्शाते हैं।",
         "category": "food",
         "href": "/hi/food/taiwan-seafood-culture",
         "date": "2026-09-22T01:05:09+08:00",
@@ -2668,8 +2668,8 @@
         "image": "/article-images/food/keelung-kanziding-fish-market-2007.webp"
       },
       {
-        "title": "ताइवान के नए आप्रवासियों का पाक कला संलयन",
-        "desc": "जब थाई खट्टा-मसालेदार ताइवानी मीठे-नमकीन से मिला, जब वियतनामी फो ताइवानी ब्रेज़्ड व्यंजनों से मिला, जब इंडोनेशियाई मसालों ने स्थानीय सामग्रियों को गले लगाया, तो सीमाओं को पार करने वाली एक स्वाद क्रांति चुपचाप ताइवान में घटित हो रही है। नए आप्रवासी न केवल अपने गृहनगर के व्यंजन लाए हैं, बल्कि ताइवान की पाक संस्कृति को समृद्ध करने की पूरी नई संभावनाएं भी लाए हैं।",
+        "title": "ताइवान में नए निवासी व्यंजनों का मिश्रण",
+        "desc": "जब थाई करी मसालेदार स्वाद से मिलती है ताइवान की मीठी-नमकीन मिठास, जब वियतनामी नूडल डिश स्थानीय ताइवान के नमकीन मांस के साथ मिलती है, और जब इंडोनेशियाई मसाले स्थानीय सामग्री को गले लगाते हैं, तो एक सीमा पार करने वाली स्वाद क्रांति ताइवान में चुपचाप हो रही है। नए निवासी केवल अपने गृहनगर का भोजन नहीं लाते हैं, बल्कि वे ताइवान की पाक संस्कृति की नई संभावनाओं को भी समृद्ध करते हैं।",
         "category": "food",
         "href": "/hi/food/taiwanese-new-immigrant-culinary-fusion",
         "date": "2026-09-22T01:05:09+08:00",
@@ -2677,8 +2677,8 @@
         "image": "/article-images/food/pho-vietnamese-noodle-soup.webp"
       },
       {
-        "title": "ताइवान की नूडल संस्कृति",
-        "desc": "युद्धोत्तर सैन्य गांवों से अंतरराष्ट्रीय मंच तक, ताइवान के नूडल्स ने सत्तर वर्षों में अमेरिकी सहायता के आटे से शुरू होकर, प्रांतीय यादों और स्थानीय नवाचार को मिलाकर, प्रवास और मातृभूमि का एक पाक महाकाव्य लिखा है",
+        "title": "ताइवान की नूडल संस्कृति: अमेरिकी सहायता पिसाई से राष्ट्रीय व्यंजन तक के सात दशक का विकास",
+        "desc": "युद्धोत्तर सैन्य समुदायों से लेकर अंतरराष्ट्रीय मंच तक, ताइवान में नूडल ने दशकों पहले अमेरिकी सहायता पिसाई से शुरुआत की, जिसमें प्रवासियों की यादें और स्थानीय नवाचार समाहित हैं, जिससे एक खाद्य महाकाव्य रचा गया है।",
         "category": "food",
         "href": "/hi/food/taiwanese-noodle-culture",
         "date": "2026-09-22T01:05:09+08:00",
@@ -2886,8 +2886,8 @@
         "image": ""
       },
       {
-        "title": "مقاطعة جياي: ٤٩٠ ألف نسمة يعيرون وجوههم لجبل آلي، ومقر المقاطعة في تايباو لا يتذكره أحد",
-        "desc": "في الخامسة فجرًا، لا تزال أحواض المحار في بحر دونغشي الخارجي في الماء، ونصف محار البلاد يأتي من هذا البحر. وعلى بعد مائة كيلومتر في جبل آلي، سكة حديد الغابات التي افتتحت عام ١٩١٢ وصولًا إلى إروانبينغ يبلغ طولها ٦٦.٦ كيلومترًا. وبجانب محطة القطار فائق السرعة في تايباو، استغرق بناء الفرع الجنوبي لمتحف القصر الوطني ١٥ عامًا قبل افتتاحه، وبلغ عدد زواره عام ٢٠١٨ ٧٦٠ ألف زائر. عندما نُقل مقر مقاطعة جياي من مدينة جياي إلى تايباو عام ١٩٩١، كان الرأي السائد في البلاد أن \"جياي\" تعني مدينة جياي. وبعد خمسة وثلاثين عامًا، يحيط سكان هذه المقاطعة البالغ عددهم ٤٩٠ ألف نسمة بالمدينة المنفصلة البالغ عدد سكانها ٢٧٠ ألف نسمة، ويسجل مؤشر الشيخوخة ١٧٤٪ وهو الأعلى في تايوان 전체.",
+        "title": "مقاطعة تشياي: 490 ألف شخص يقرضون وجوههم لجبل آلي، ولا أحد يتذكر العاصمة في تايباو",
+        "desc": "في الخامسة صباحًا، لا تزال حظائر المحار في دونغشي على الماء، وتأتي نصف محار البلاد من هذه البحيرة. وعلى بعد مائة كيلومتر، يمتد سكة حديد الغابات التي افتتحت عام 1912 لتصل إلى جبل آلي لمسافة 66.6 كيلومتر عبر مساحة عشرين ألف طن. بجوار محطة تايباو للسكك الحديدية فائقة السرعة، استغرق افتتاح فرع القصر الوطني الجنوبي 15 عامًا واستقبل 760 ألف زائر في عام 2018. عندما انتقلت عاصمة مقاطعة تشياي من مدينة تشياي إلى تايباو في عام 1991، اعتقدت البلاد أن تشياي هي مدينة تشياي. بعد خمسة وثلاثين عامًا، تحيط هذه المقاطعة البالغة 490 ألف نسمة بمدينة الـ 270 ألف مقطوعة، ومؤشر الشيخوخة فيها هو الأعلى في تايوان بنسبة 174٪.",
         "category": "geography",
         "href": "/ar/geography/chiayi-county",
         "date": "2026-09-22T01:04:14+08:00",
@@ -3269,7 +3269,7 @@
     "de": [
       {
         "title": "Bubble Tea",
-        "desc": "Bei einer Teambesprechung 1987 in Taichung eroberte eine beiläufige Idee die Welt. Über den umstrittenen Ursprung von Bubble Tea, Kulturpolitik und die Gesundheitsdebatte um ein Getränk mit 500 Kilokalorien.",
+        "desc": "Ein unbeabsichtigter Zufall in einem taiwanesischen Teehaus 1987 verwandelte ein Getränk in eine globale Erscheinung. Die Kontroverse um die Erfindung, kulturelle Politik und eine 500-Kalorien-Debatte.",
         "category": "food",
         "href": "/de/food/bubble-tea",
         "date": "2026-09-22T01:09:11+08:00",
@@ -3412,8 +3412,8 @@
         "image": ""
       },
       {
-        "title": "Kein Adressat für Stimmen: Wie der taiwanesische Rundfunk vom Staatslautsprecher zum öffentlichen Raum wurde",
-        "desc": "Von den Probeststrahlen 1925 über die Japanische Sendeanstalt, das Nachkriegs „Taiwan Voice“ bis zu den parteipolitischen und untergründlichen Sendern – eine Spur, wie der Empfänger zugleich Befehle, Lieder, Sprachen und nicht ganz so leicht zum Schweigen gebrachte Erfahrungen aus der Provinz transportierte.",
+        "title": "Keine Adresse für den Klang: Wie das Radio in Taiwan vom Staatslautsprecher zum öffentlichen Raum wurde",
+        "desc": "Von den ersten Sendetests im Jahr 1925 über die japanische Kolonialzeit, das Nachkriegs-„Stimme Taiwans“ bis hin zu privaten und unterirdischen Rundsendungen während der Kriegsrechtsperiode: Eine Verfolgung, wie Radios gleichzeitig Regierungsanweisungen, Lieder, Sprachen und Orte vermittelte, die nicht stummgeschaltet werden konnten.",
         "category": "history",
         "href": "/de/history/taiwan-radio-broadcasting-history",
         "date": "2026-09-22T01:04:31+08:00",
@@ -3466,8 +3466,8 @@
         "image": ""
       },
       {
-        "title": "Lin An Tai Althaim: Ein Haus abgetragen, ein Teil von Taipei nicht verlagert",
-        "desc": "Im Jahr 1977 musste das Lin An Tai Althaim in der Siwei-Straße im Bezirk Da'an abgerissen werden, um die Dunhua-Nan-Straße zu erweitern. Zehn Kilometer entfernt wurde es über zehn Jahre hinweg neu errichtet. Was blieb, war nicht nur ein Minnan-Hofhaus aus der Qing-Dynastie, sondern auch ein Problem Taiwans: Wie viel von sich selbst kann ein Bauwerk bewahren, nachdem es seinen ursprünglichen Standort verlassen hat?",
+        "title": "Lin An Tai Altbau: Ein Haus abreißen, aber ein Stück von Taipei nicht wegtragen",
+        "desc": "Im Jahr 1977 musste der Lin An Tai Altbau in Da'an aufgrund des Ausbaus der Dunhua-Nan-Straße abgerissen werden. Zehn Kilometer entfernt wurde er zehn Jahre lang neu errichtet. Was im Binhai Park wieder aufgebaut wurde, ist nicht nur ein Minnan-Hofhaus aus der Qing-Dynastie, sondern auch ein Problem Taiwans: Wie viel von sich selbst kann ein Bauwerk bewahren, nachdem es seinen ursprünglichen Standort verlassen hat? Der Artikel untersucht, was verloren ging, als die Familie Lin migrierte, stritt mit Straßenprojekten und durch drei Umsiedlungen.",
         "category": "geography",
         "href": "/de/geography/lin-an-tai-historical-house",
         "date": "2026-09-22T01:04:31+08:00",

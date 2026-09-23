@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-22T22:06:19.198Z",
+  "lastUpdated": "2026-09-23T22:04:47.823Z",
   "organs": [
     {
       "id": "heart",
@@ -10,12 +10,12 @@
       "score": 90,
       "trend": "up",
       "metrics": {
-        "articlesLast7Days": 44,
-        "articlesLast30Days": 102,
+        "articlesLast7Days": 45,
+        "articlesLast30Days": 90,
         "totalArticles": 1122,
         "selfProducedLast7Days": 3,
         "selfProducedLast30Days": 4,
-        "contributedLast7Days": 41
+        "contributedLast7Days": 42
       }
     },
     {
@@ -121,18 +121,18 @@
       "metrics": {
         "languageCoverage": {
           "zh-TW": 1122,
-          "en": 1106,
-          "ja": 1056,
-          "ko": 1104,
-          "es": 1107,
-          "fr": 1108,
-          "vi": 1105,
-          "id": 1047,
-          "pt": 1089,
-          "hi": 1032,
-          "ar": 1062,
-          "ru": 1074,
-          "de": 887
+          "en": 1107,
+          "ja": 1063,
+          "ko": 1107,
+          "es": 1108,
+          "fr": 1109,
+          "vi": 1111,
+          "id": 1055,
+          "pt": 1092,
+          "hi": 1040,
+          "ar": 1064,
+          "ru": 1078,
+          "de": 980
         },
         "translationPct": 90,
         "langHealthDetails": {
@@ -223,7 +223,7 @@
               "pct": 92
             },
             "articles": {
-              "count": 1106,
+              "count": 1107,
               "pct": 99
             },
             "score": 96
@@ -315,8 +315,8 @@
               "pct": 0
             },
             "articles": {
-              "count": 1056,
-              "pct": 94
+              "count": 1063,
+              "pct": 95
             },
             "score": 76
           },
@@ -407,8 +407,8 @@
               "pct": 92
             },
             "articles": {
-              "count": 1104,
-              "pct": 98
+              "count": 1107,
+              "pct": 99
             },
             "score": 96
           },
@@ -499,7 +499,7 @@
               "pct": 92
             },
             "articles": {
-              "count": 1107,
+              "count": 1108,
               "pct": 99
             },
             "score": 96
@@ -591,7 +591,7 @@
               "pct": 23
             },
             "articles": {
-              "count": 1108,
+              "count": 1109,
               "pct": 99
             },
             "score": 82
@@ -683,10 +683,10 @@
               "pct": 100
             },
             "articles": {
-              "count": 1105,
-              "pct": 98
+              "count": 1111,
+              "pct": 99
             },
-            "score": 97
+            "score": 98
           },
           "id": {
             "ui": {
@@ -775,10 +775,10 @@
               "pct": 100
             },
             "articles": {
-              "count": 1047,
-              "pct": 93
+              "count": 1055,
+              "pct": 94
             },
-            "score": 95
+            "score": 96
           },
           "pt": {
             "ui": {
@@ -867,7 +867,7 @@
               "pct": 100
             },
             "articles": {
-              "count": 1089,
+              "count": 1092,
               "pct": 97
             },
             "score": 97
@@ -959,8 +959,8 @@
               "pct": 100
             },
             "articles": {
-              "count": 1032,
-              "pct": 92
+              "count": 1040,
+              "pct": 93
             },
             "score": 95
           },
@@ -1051,7 +1051,7 @@
               "pct": 0
             },
             "articles": {
-              "count": 1062,
+              "count": 1064,
               "pct": 95
             },
             "score": 76
@@ -1143,7 +1143,7 @@
               "pct": 0
             },
             "articles": {
-              "count": 1074,
+              "count": 1078,
               "pct": 96
             },
             "score": 76
@@ -1235,10 +1235,10 @@
               "pct": 100
             },
             "articles": {
-              "count": 887,
-              "pct": 79
+              "count": 980,
+              "pct": 87
             },
-            "score": 92
+            "score": 95
           }
         }
       }

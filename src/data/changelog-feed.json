@@ -1,7 +1,950 @@
 {
-  "generatedAt": "2026-09-22T22:06:01.244Z",
+  "generatedAt": "2026-09-23T22:04:29.814Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "16b37243792ec9c810144b4e81a8bf294f08042b",
+      "date": "2026-09-24T06:01:21+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] memory: twmd-embeddings-nightly @ 2026-09-24 05:00 — 13 語 13,922 向量 0 fail，前夜殼層修補確認送達本機",
+      "articles": []
+    },
+    {
+      "hash": "b19d4608590da88ebaef062129ad4caa59dead0b",
+      "date": "2026-09-24T05:59:56+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-09-24 05:59",
+      "articles": []
+    },
+    {
+      "hash": "842b0ffd156d4c2186972cca7f46ac5a9dbe089f",
+      "date": "2026-09-24T05:54:34+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: vi 批次 2 篇（unified dispatcher, worker=macm4max1）",
+      "articles": []
+    },
+    {
+      "hash": "6e34a0dfea2051960d5743daa31f05bda803a2eb",
+      "date": "2026-09-24T05:53:24+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ja 批次 2 篇（unified dispatcher, worker=lagunas）",
+      "articles": []
+    },
+    {
+      "hash": "9e6b5dcd9c1712a21c0cf72b90414125e4786133",
+      "date": "2026-09-24T05:40:09+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] twmd-routine-sync: embeddings 夜班的機器殼換成昨天去掉舊家目錄的新版 — 2026-09-24",
+      "articles": []
+    },
+    {
+      "hash": "f1d9c5b008b8727e5cdc2e3cfd9856881febb529",
+      "date": "2026-09-24T05:12:09+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ko 批次 4 篇（unified dispatcher, worker=lagunas+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "f180c8c0d06ec7b9625831720d0b0c364d189527",
+      "date": "2026-09-24T05:04:02+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: de 批次 3 篇（unified dispatcher, worker=lagunas）",
+      "articles": []
+    },
+    {
+      "hash": "8de4187026771e435cd8ff06371a6196a289f57d",
+      "date": "2026-09-24T05:03:01+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: pt 批次 3 篇（unified dispatcher, worker=lagunas+macm4max1）",
+      "articles": []
+    },
+    {
+      "hash": "63839684a4269736c0b5b461a5c753e3678df8c4",
+      "date": "2026-09-24T05:02:43+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: en 批次 4 篇（unified dispatcher, worker=lagunas+macm4max1+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "240f2fd0c2cac151b429e46d5359e309502fdd34",
+      "date": "2026-09-24T05:02:25+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: id 批次 4 篇（unified dispatcher, worker=lagunas+macm4max2+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "9797d238a4207a19bb61cd0a8052b01d835890a1",
+      "date": "2026-09-24T04:16:24+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ar 批次 6 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max2，post-quarantine retry）",
+      "articles": []
+    },
+    {
+      "hash": "17090086531dfe485582ed477b15ba312a8b346f",
+      "date": "2026-09-24T04:16:04+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: es 批次 5 篇（unified dispatcher, worker=lagunas+macm4max2）",
+      "articles": []
+    },
+    {
+      "hash": "1a5fcf0197e98c6c44a5104549fa4a3a3beeb367",
+      "date": "2026-09-24T04:15:45+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: hi 批次 5 篇（unified dispatcher, worker=lagunas+macm4max2）",
+      "articles": []
+    },
+    {
+      "hash": "fed590bef7b56e1e9d765b7ef2fe016d98103396",
+      "date": "2026-09-24T03:39:15+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: fr 批次 6 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max2）",
+      "articles": []
+    },
+    {
+      "hash": "2e3f6fa1a1a8a48379bc23b8194b8c3dcd2d9767",
+      "date": "2026-09-24T03:36:48+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ko 批次 7 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max2+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "dfa4eecfc179d80cceb2d78ff41b4c1964d8f782",
+      "date": "2026-09-24T03:30:01+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: de 批次 9 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max3+nemo，post-quarantine retry）",
+      "articles": []
+    },
+    {
+      "hash": "4674b71be665a295641c3564db021259d754f9e8",
+      "date": "2026-09-24T03:18:05+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: vi 批次 9 篇（unified dispatcher, worker=lagunas+macm4max2+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "6f6ab6afe23d7faf3f34609202e156cb3a7aecc4",
+      "date": "2026-09-24T03:16:40+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: pt 批次 6 篇（unified dispatcher, worker=lagunas+macm4max2+macm4max3，post-quarantine retry）",
+      "articles": []
+    },
+    {
+      "hash": "9dcb82b90160d441137f6da65bbebf9b0481211a",
+      "date": "2026-09-24T03:07:39+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: en 批次 6 篇（unified dispatcher, worker=lagunas+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "28d2b16a99c07b66edd29fb39e898d1f38ce96bd",
+      "date": "2026-09-24T02:50:11+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ja 批次 3 篇（unified dispatcher, worker=lagunas+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "2c44efe9c51f4af1db47771cbe3cc84db775a371",
+      "date": "2026-09-24T02:44:25+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: id 批次 5 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max2）",
+      "articles": []
+    },
+    {
+      "hash": "58b946e1e372fcbb74614cfb86ab702ec9e530b0",
+      "date": "2026-09-24T02:12:00+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: hi 批次 5 篇（unified dispatcher, worker=lagunas+macm4max1+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "3b88af4d65b1638bb315a30953e469584affbb5c",
+      "date": "2026-09-24T02:11:25+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ru 批次 6 篇（unified dispatcher, worker=lagunas+macm4max2）",
+      "articles": []
+    },
+    {
+      "hash": "bb48e2f495de39875a1d4361c3e8ba0b1d3516a2",
+      "date": "2026-09-24T02:04:25+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: es 批次 7 篇（unified dispatcher, worker=lagunas+macm4max2+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "ab98c27e91f101878cf2bdd63405b7757f03aada",
+      "date": "2026-09-24T02:01:40+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: fr 批次 5 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max2）",
+      "articles": []
+    },
+    {
+      "hash": "3336d357bbe24dc91a83e9f940e72ece1377e61d",
+      "date": "2026-09-24T01:57:16+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ko 批次 6 篇（unified dispatcher, worker=lagunas+macm4max1+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "68d01eca548cedf730e77821b6d5e902cabcf962",
+      "date": "2026-09-24T01:29:30+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] memory: twmd-babel-nightly @ 2026-09-24 00:30 — 旗艦文十二語到齊、五道閘門誤判當夜修、77 份尾段漂移對齊；缺稿一半是長文，登記佇列 #79",
+      "articles": []
+    },
+    {
+      "hash": "fea28f87d42b0261f410efd42273f61b52be3293",
+      "date": "2026-09-24T01:27:13+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] evolve: 委派層交件閘門補第 15 道 prettier 穩定性——十四道全綠的譯文在 commit 時被 prettier 折掉兩條腳註",
+      "articles": []
+    },
+    {
+      "hash": "d99a0c21465c1e8c6c95b6ec6ef0c89b0ca5c61f",
+      "date": "2026-09-24T01:25:25+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: 〈比國家還大的演算藝術〉印地文版——免費池撞不過的旗艦文，由委派層落地，十二語到齊",
+      "articles": []
+    },
+    {
+      "hash": "b1572c9a3bcb32fd06a369dc2895032fabb4c9ae",
+      "date": "2026-09-24T01:23:40+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: 〈比國家還大的演算藝術〉越南文版——免費池撞不過的旗艦文，由委派層落地",
+      "articles": []
+    },
+    {
+      "hash": "915ab3766692e1f3df9f7fcafab9cca69b6bde5b",
+      "date": "2026-09-24T01:23:31+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: 〈比國家還大的演算藝術〉德文版——免費池撞不過的旗艦文，由委派層落地",
+      "articles": []
+    },
+    {
+      "hash": "083cd8e0e190fe54c7af09ee503cb068b810b9ee",
+      "date": "2026-09-24T01:22:09+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: 〈比國家還大的演算藝術〉俄文版——免費池撞不過的旗艦文，由委派層落地",
+      "articles": []
+    },
+    {
+      "hash": "149721918fc71699710fe6754b5c927667aa592f",
+      "date": "2026-09-24T01:20:50+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: 〈比國家還大的演算藝術〉法文版——免費池撞不過的旗艦文，由委派層落地",
+      "articles": []
+    },
+    {
+      "hash": "9b6522e64a6437d569b2474a310248d0c9ffb542",
+      "date": "2026-09-24T01:20:42+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: vi 批次 6 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max3）",
+      "articles": []
+    },
+    {
+      "hash": "c781f9ad09c0b352efc8cae4bfe6ae8c09de4f2b",
+      "date": "2026-09-24T01:19:48+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: 〈比國家還大的演算藝術〉阿拉伯文版——免費池撞不過的旗艦文，由委派層落地",
+      "articles": []
+    },
+    {
+      "hash": "76c969d16b8bf001eb45e643ea93528e932eb7d8",
+      "date": "2026-09-24T01:19:40+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: 〈比國家還大的演算藝術〉印尼文版——免費池撞不過的旗艦文，由委派層落地",
+      "articles": []
+    },
+    {
+      "hash": "8117f19c8a66859fde9cdd62de9e2eae7dcefd14",
+      "date": "2026-09-24T01:16:33+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: pt 批次 6 篇（unified dispatcher, worker=lagunas+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "feea8332208407f98b86d0effb2fb5585f404355",
+      "date": "2026-09-24T01:16:16+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: en 批次 2 篇（unified dispatcher, worker=lagunas）",
+      "articles": []
+    },
+    {
+      "hash": "d9130238a72c09d1adb71f93bb379eb0f67311d1",
+      "date": "2026-09-24T01:14:46+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: 〈比國家還大的演算藝術〉日文版——免費池撞不過的旗艦文，由委派層落地",
+      "articles": []
+    },
+    {
+      "hash": "0221c2f0ee0991feaebf3b598a568b83c0bf9908",
+      "date": "2026-09-24T01:13:10+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: de 批次 4 篇（unified dispatcher, worker=macm4max1+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "00496cbc31c56ad6e1f0b2976d4dbfb0b3e70c91",
+      "date": "2026-09-24T01:12:18+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: 〈比國家還大的演算藝術〉西文版——免費池撞不過的旗艦文，由委派層落地",
+      "articles": []
+    },
+    {
+      "hash": "f315df0539c35f3bb043ed77d7894d2ed5e8810a",
+      "date": "2026-09-24T01:09:31+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: 〈比國家還大的演算藝術〉韓文版——免費池撞不過的旗艦文，由委派層落地",
+      "articles": []
+    },
+    {
+      "hash": "99df67d4df1dbc5be33d15c85a54b30e82547ccf",
+      "date": "2026-09-24T01:08:51+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: 〈比國家還大的演算藝術〉葡文版——免費池撞不過的旗艦文，由委派層落地",
+      "articles": []
+    },
+    {
+      "hash": "85941924c743a689da17eea8a415d19aa5f33205",
+      "date": "2026-09-24T01:08:36+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ja 批次 3 篇（unified dispatcher, worker=macm4max1+macm4max3）",
+      "articles": []
+    },
+    {
+      "hash": "74349bb60bc06955b35302e8e9882782f080b94e",
+      "date": "2026-09-24T01:05:06+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: 77 份只差在母稿尾段的譯文對齊版本標記（Tier 0b，不動內文），順手修三份的舊債",
+      "articles": []
+    },
+    {
+      "hash": "c791b6c7a602be989a4b4ee7a626e7c67838f17d",
+      "date": "2026-09-24T01:04:23+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] fix: 腳註格式閘放行以參照開頭的「同前註」——日韓文語序是 [^14]に同じ，中文是 同 [^14]",
+      "articles": []
+    },
+    {
+      "hash": "3f01fc0097c267c1b87f0d20190c574ff2e6641c",
+      "date": "2026-09-24T00:58:01+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] evolve: 委派層認領清單——主 session 派給 sub-agent 翻的文章，dispatcher 重算排除清單時一起排掉",
+      "articles": []
+    },
+    {
+      "hash": "0d5526c9f6ca64c62745293382baa24e9af95714",
+      "date": "2026-09-24T00:55:56+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] fix: 日韓譯文的標籤照抄判準只數帶漢字的標籤——Portaly、AI、SaaS 這類拉丁字母標籤本來就原樣保留",
+      "articles": []
+    },
+    {
+      "hash": "87e51b244dc6a7dcbb40d0815571e8febd9fe2ab",
+      "date": "2026-09-24T00:54:01+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: 從隔離區收回四份被網址閘門誤判的譯文（de 蓬萊米／de 高雄加工出口區／de、vi 台灣客家音樂）",
+      "articles": []
+    },
+    {
+      "hash": "705fbf36d77d8a28d31dd3397631d88147e2f039",
+      "date": "2026-09-24T00:49:57+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] fix: 隔離譯文回收工具的 repo 路徑改從檔案位置推導——寫死的舊家目錄今天只靠一條 symlink 撐著",
+      "articles": []
+    },
+    {
+      "hash": "aaac94be28724a7bfd388a80f1d8320874c4bde8",
+      "date": "2026-09-24T00:49:56+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] fix: 網址比對前先還原 markdown 反斜線跳脫——四篇母稿 prettier 不穩定，它們的每一份譯文都被判網址改寫",
+      "articles": []
+    },
+    {
+      "hash": "2eca7eac01316e70712263db5888259ae19543c9",
+      "date": "2026-09-24T00:45:38+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] fix: 寬鬆 JSON 解析改取最外層——frontmatter 物件後面多一句說明，舊版會撈到物件裡的 tags 陣列",
+      "articles": []
+    },
+    {
+      "hash": "d1832391f2e1ef3330d99c2011f37f05ae98eab1",
+      "date": "2026-09-24T00:44:44+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] fix: 只有一條的腳註批次收下模型回的單筆物件——二分之後的半批常回裸 object，舊判準當成截斷一律拒收",
+      "articles": []
+    },
+    {
+      "hash": "9a61823fb977e24644b95166c643afd78e5c143d",
+      "date": "2026-09-24T00:28:42+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: hi 批次 4 篇（unified dispatcher, worker=lagunas+macm4max1）",
+      "articles": []
+    },
+    {
+      "hash": "a942813e7dae819435a3416acea2b7af5ebaa4f7",
+      "date": "2026-09-24T00:21:53+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: es 批次 5 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max2+macm4max3）",
+      "articles": []
+    },
+    {
+      "hash": "8f4875e640e941f8d31f95e317d252c0e80597ee",
+      "date": "2026-09-24T00:15:40+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: fr 批次 3 篇（unified dispatcher, worker=lagunas+macm4max1）",
+      "articles": []
+    },
+    {
+      "hash": "c0556ad5750ac23c1da112d462dd4b065d425862",
+      "date": "2026-09-24T00:09:12+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ko 批次 2 篇（unified dispatcher, worker=macm4max1）",
+      "articles": []
+    },
+    {
+      "hash": "fe9ad02da805129385d80e7ea267117876a56324",
+      "date": "2026-09-23T23:38:22+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: de 批次 3 篇（unified dispatcher, worker=lagunas+macm4max1）",
+      "articles": []
+    },
+    {
+      "hash": "34ada41146780a6a4c4847ca3e7c11f78249121c",
+      "date": "2026-09-23T22:07:20+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: de 批次 11 篇（unified dispatcher, worker=lagunas+macm4max2+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "5437ac36a262c3ed2e346aa39efbae514c854353",
+      "date": "2026-09-23T21:59:09+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ja 批次 2 篇（unified dispatcher, worker=macm4max3）",
+      "articles": []
+    },
+    {
+      "hash": "70aca27d85d4290f63f36f0c530f2eaaf78f08d6",
+      "date": "2026-09-23T21:52:22+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: de 批次 11 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "33c6271e4da549a99ce4f4a4f39d817584c6b677",
+      "date": "2026-09-23T21:23:08+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: de 批次 11 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max2+macm4max3）",
+      "articles": []
+    },
+    {
+      "hash": "7f7799f006c3e82c1bda992d59df67699740a272",
+      "date": "2026-09-23T20:50:39+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: de 批次 11 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max2+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "87e14cbb31eadbe8e009b1c909408466e4ae0f7b",
+      "date": "2026-09-23T20:35:27+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: de 批次 11 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max2+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "1cee93e2e15662a196613f30347074ba8f4b98a9",
+      "date": "2026-09-23T20:26:42+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ja 批次 10 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max2+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "be2fb2872389a62e56787bfb9e78f7e9224d71a1",
+      "date": "2026-09-23T19:28:05+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: de 批次 6 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "82eaf3995daaacfa8d8283deff9e15660900138d",
+      "date": "2026-09-23T18:48:00+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ja 批次 8 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max2+macm4max3）",
+      "articles": []
+    },
+    {
+      "hash": "44b841d7cf6740309d00c76fc8b8d87e831592ee",
+      "date": "2026-09-23T17:33:59+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: de 批次 8 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max2+macm4max3）",
+      "articles": []
+    },
+    {
+      "hash": "f1d54756102e41b38f4bfd6a9d64d53f1c223013",
+      "date": "2026-09-23T17:08:15+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ja 批次 5 篇（unified dispatcher, worker=macm4max1+macm4max2）",
+      "articles": []
+    },
+    {
+      "hash": "0dcda7cd675f268a5807ccc2b5f916b7ca00ed91",
+      "date": "2026-09-23T16:42:30+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ar 批次 5 篇（unified dispatcher, worker=macm4max1）",
+      "articles": []
+    },
+    {
+      "hash": "2e35b90fec97b99baf776027db73e1edf6f6eab2",
+      "date": "2026-09-23T16:22:17+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: id 批次 8 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max2+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "54fb038643dc00a6427256599d7c902a94df4a8c",
+      "date": "2026-09-23T15:57:05+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: hi 批次 3 篇（unified dispatcher, worker=macm4max1+macm4max2）",
+      "articles": []
+    },
+    {
+      "hash": "c549b26c25abd8af732d8e3a4c32b27aedb05a2e",
+      "date": "2026-09-23T15:53:54+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: de 批次 6 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max2+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "b6c3e92599ad867cd333de2b661e432128ed2b4a",
+      "date": "2026-09-23T15:26:58+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ja 批次 8 篇（unified dispatcher, worker=lagunas+macm4max2）",
+      "articles": []
+    },
+    {
+      "hash": "20fa44ad920d5c0d2b20785c0d48ba925fa3b573",
+      "date": "2026-09-23T15:09:06+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ar 批次 8 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max3）",
+      "articles": []
+    },
+    {
+      "hash": "26e0f76e3d117b24b09f7be76142e615f639d7e1",
+      "date": "2026-09-23T14:26:05+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: id 批次 4 篇（unified dispatcher, worker=lagunas+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "f5dff6ecc308ddaaf5caa6705613fd4ae88de52f",
+      "date": "2026-09-23T14:11:09+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: de 批次 7 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max3）",
+      "articles": []
+    },
+    {
+      "hash": "7e19861636ee6e03ec08e2bb03f81684abc5568c",
+      "date": "2026-09-23T13:56:41+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: hi 批次 8 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max2+macm4max3）",
+      "articles": []
+    },
+    {
+      "hash": "99caeaa7d135e4efda506b6f87f13f93d2734333",
+      "date": "2026-09-23T13:55:06+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ja 批次 7 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max2+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "63962916cb1619438f162358b015b96f1f0824fa",
+      "date": "2026-09-23T13:19:26+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ar 批次 6 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max2+macm4max3）",
+      "articles": []
+    },
+    {
+      "hash": "37d2d58d011f92efcdbe3d00e58bf5e3f058f673",
+      "date": "2026-09-23T12:56:59+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ru 批次 2 篇（unified dispatcher, worker=nemo）",
+      "articles": []
+    },
+    {
+      "hash": "85fc5bb47532dfeba0c46385da909aa767f4ab4f",
+      "date": "2026-09-23T12:52:15+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: id 批次 7 篇（unified dispatcher, worker=macm4max1+macm4max2+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "c3632e4e61f7d71660161ddbb093e9fbfeeae271",
+      "date": "2026-09-23T12:39:07+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ko 批次 2 篇（unified dispatcher, worker=macm4max3）",
+      "articles": []
+    },
+    {
+      "hash": "08f21c83d383057ce4afb7a6d9d040a0aa542925",
+      "date": "2026-09-23T12:38:44+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: pt 批次 2 篇（unified dispatcher, worker=nemo）",
+      "articles": []
+    },
+    {
+      "hash": "2d702aeb16d801f680e233196c0b4480e63fe2aa",
+      "date": "2026-09-23T12:20:07+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: hi 批次 8 篇（unified dispatcher, worker=lagunas+macm4max2+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "7dad1fec9b803e44f77d601d506e700c4e7731e0",
+      "date": "2026-09-23T12:13:41+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: de 批次 7 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "5fe984c3106412d0db608666eb7e5e5f524f9674",
+      "date": "2026-09-23T11:49:16+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ja 批次 11 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max2+macm4max3）",
+      "articles": []
+    },
+    {
+      "hash": "57db71c6b47d5dabe5ce3735cd129646c5d26841",
+      "date": "2026-09-23T11:33:44+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: vi 批次 10 篇（unified dispatcher, worker=lagunas+macm4max2+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "a67d3d134d7443c699b38a09d6888fd8e7588a4f",
+      "date": "2026-09-23T11:18:01+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: id 批次 8 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max2+macm4max3）",
+      "articles": []
+    },
+    {
+      "hash": "d5bb6c3ba3b53895e0c272e9518d9da713fa5c3d",
+      "date": "2026-09-23T11:04:43+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ko 批次 7 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max2+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "b4b7aac5b30fc5d7968e7a025a74480a9d049434",
+      "date": "2026-09-23T11:03:06+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ru 批次 6 篇（unified dispatcher, worker=lagunas+macm4max1+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "91a3c48e0823706ddbc0326caeec1d0aa6e7ff26",
+      "date": "2026-09-23T11:02:16+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: en 批次 9 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "1d5b40990dec52b68836c2181c8395bd553233cf",
+      "date": "2026-09-23T11:01:58+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: pt 批次 9 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max3）",
+      "articles": []
+    },
+    {
+      "hash": "8c25faf21d60f31f5415f54d6d477d9df2d62bae",
+      "date": "2026-09-23T10:58:34+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: es 批次 7 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "37a6e01fd6d87f28eab35640de1f091db51a3310",
+      "date": "2026-09-23T10:43:08+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: hi 批次 9 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max2+macm4max3）",
+      "articles": []
+    },
+    {
+      "hash": "94a36ec63e6dce824b75c6181255672c689cfc9a",
+      "date": "2026-09-23T10:28:28+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: de 批次 10 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max2+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "e86f0b9e38a36269f2455f8a39290e480cb78a38",
+      "date": "2026-09-23T10:15:23+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ja 批次 6 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max2+macm4max3）",
+      "articles": []
+    },
+    {
+      "hash": "d45d9b6a39b08ffbad7e81515e1d5bfce244ff1f",
+      "date": "2026-09-23T09:31:14+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ar 批次 11 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max2+macm4max3）",
+      "articles": []
+    },
+    {
+      "hash": "a7913e191db0c2a8c1efb8793a07c81b557ad628",
+      "date": "2026-09-23T09:25:45+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: id 批次 7 篇（unified dispatcher, worker=lagunas+macm4max2+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "f6f7c6ce8d13226f37d691be8bdbf5f855d3e972",
+      "date": "2026-09-23T08:55:26+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: hi 批次 8 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max2+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "d072a8f32cfaca34ee2025ffec5af9206cbbd078",
+      "date": "2026-09-23T08:54:59+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: de 批次 9 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max2+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "61790fbc35e4f4be0e0962e5f3235ecd1b7b7251",
+      "date": "2026-09-23T08:54:37+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] memory: 收官 checklist 那行分岔狀態補成實際經過，不是只寫 Stage 1 當下的讀數",
+      "articles": []
+    },
+    {
+      "hash": "1eebc7a55423cde59713750fd52107d063650253",
+      "date": "2026-09-23T08:53:54+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] memory: 補記收官時那次分岔——不是別台機器造的，是在 GitHub 收 PR 跟在本機 commit 兩個寫入點同時用",
+      "articles": []
+    },
+    {
+      "hash": "b37f5d06886147b548e1c14451b4c4b9a5f9a1f8",
+      "date": "2026-09-23T08:52:55+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] heal: 翻譯狀態表補進今早收下的 de／hi／id 三篇投稿譯文",
+      "articles": []
+    },
+    {
+      "hash": "1d0615369501c0fdbb79edcae2bd40aa32c0ec9d",
+      "date": "2026-09-23T08:52:11+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] merge: maintainer-am 把 origin 今早收下的三篇投稿譯文併回營運機",
+      "articles": []
+    },
+    {
+      "hash": "e5e9b9b9b4c0f174fa29f36e8b7c537b9aa9b0a9",
+      "date": "2026-09-23T08:51:09+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] memory: twmd-maintainer-am @ 2026-09-23 08:30 — 三篇投稿譯文收下；死連結家族追到母稿裸檔名；09-07 留下的斜體網址未解項量完＝全庫三篇",
+      "articles": []
+    },
+    {
+      "hash": "d9ef16d5e77650454250125313271fb8a4ade068",
+      "date": "2026-09-23T08:48:29+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] heal: 兩篇圖說把圖片來源移出斜體——斜體整行包住帶底線的網址時，prettier 一 commit 就改壞它",
+      "articles": [
+        {
+          "url": "/geography/台中捷運",
+          "name": "台中捷運"
+        },
+        {
+          "url": "/geography/林安泰古厝",
+          "name": "林安泰古厝"
+        }
+      ]
+    },
+    {
+      "hash": "7255b3ab1b9f17cba24fab6626bc016673c7dbd9",
+      "date": "2026-09-23T08:46:50+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] heal: 九篇母稿延伸閱讀的裸檔名連結改成站內絕對路徑——站上原本解析到文章自己的網址底下，被巴別塔放大成十二語",
+      "articles": [
+        {
+          "url": "/economy/SLP台北創業領導計畫",
+          "name": "SLP台北創業領導計畫"
+        },
+        {
+          "url": "/economy/口罩國家隊",
+          "name": "口罩國家隊"
+        },
+        {
+          "url": "/economy/台灣企業：研華科技",
+          "name": "台灣企業：研華科技"
+        },
+        {
+          "url": "/economy/台灣科技園區外圍商圈生態",
+          "name": "台灣科技園區外圍商圈生態"
+        }
+      ]
+    },
+    {
+      "hash": "aef962b979862583daa604187f3a662d688dee64",
+      "date": "2026-09-23T08:44:28+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ja 批次 6 篇（unified dispatcher, worker=macm4max2+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "8827f36fda5dbef9a8483f1ac16d91027eeeb445",
+      "date": "2026-09-23T08:41:37+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: vi 批次 2 篇（unified dispatcher, worker=lagunas）",
+      "articles": []
+    },
+    {
+      "hash": "b1aa44d1a0ce5fcf24f2e1e393158e97a31ded11",
+      "date": "2026-09-23T08:35:38+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1767 from aminzai/translate/id-chen-hsing-yu",
+      "articles": []
+    },
+    {
+      "hash": "8622aec1561720dac452346197d3d84bd7396e16",
+      "date": "2026-09-23T08:35:34+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1766 from aminzai/translate/hi-typhoon-day",
+      "articles": []
+    },
+    {
+      "hash": "4d9346a7ea94a22a56f59972db7b6bde1840f138",
+      "date": "2026-09-23T08:35:31+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #1765 from aminzai/translate/de-taiwan-parks-and-everyday-leisure",
+      "articles": []
+    },
+    {
+      "hash": "4d7b1447cee7c6cfdde5d8499abf3f5fe914ee22",
+      "date": "2026-09-23T08:11:25+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ar 批次 5 篇（unified dispatcher, worker=lagunas+macm4max2）",
+      "articles": []
+    },
+    {
+      "hash": "fa4974ee88ea1dc750ae3485f84632794a3dfa86",
+      "date": "2026-09-23T08:06:02+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: pt 批次 7 篇（unified dispatcher, worker=lagunas+macm4max2+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "1177a6cb8ea6f2da451e927400668c6812a08f3a",
+      "date": "2026-09-23T07:52:08+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: id 批次 4 篇（unified dispatcher, worker=lagunas+macm4max2+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "c6aa32436be5703394ba8aadac8bfe3019a942b5",
+      "date": "2026-09-23T07:19:23+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: hi 批次 6 篇（unified dispatcher, worker=lagunas+macm4max2+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "db90caffd3ae82b9d1d3ae806df66373a7ec37d0",
+      "date": "2026-09-23T07:12:46+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] memory: 收官那行補上 file/reject/skip 與 archive 檔數的原始數字",
+      "articles": []
+    },
+    {
+      "hash": "e55e75cfff988b66c0024c5e6c882a2d62c0d340",
+      "date": "2026-09-23T07:11:54+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] twmd-feedback-triage: 第三輪零回報，兩道對賬全綠，順手撕下自己貼錯的狀態標籤 — 2026-09-23",
+      "articles": []
+    },
+    {
+      "hash": "e314cdbe01a3401f8cb3ee7b86cb03d4665e4b16",
+      "date": "2026-09-23T07:02:13+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: vi 批次 8 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max2+macm4max3+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "2690ba5800835f857fd29d8f1e663aff5d70988c",
+      "date": "2026-09-23T06:59:36+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ja 批次 7 篇（unified dispatcher, worker=lagunas+macm4max3）",
+      "articles": []
+    },
+    {
+      "hash": "6866f9eb39bc7f6754cbb57762049ca0028f6b39",
+      "date": "2026-09-23T06:59:12+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: de 批次 6 篇（unified dispatcher, worker=lagunas+macm4max2+nemo）",
+      "articles": []
+    },
+    {
+      "hash": "e6c6858eff0bfd45f9414273e03e4e5ac4b64169",
+      "date": "2026-09-23T06:55:08+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] memory: 補上日記為什麼不寫——機械閘放行，但路由把兩個想法送去別的地方",
+      "articles": []
+    },
+    {
+      "hash": "6b5c21011d398085dd951453054bd3c23329f7a2",
+      "date": "2026-09-23T06:53:27+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] twmd-spore-harvest: 沒有新留言的一輪，但把 Chrome 連不上的根因找到了 — 2026-09-23",
+      "articles": []
+    },
+    {
+      "hash": "769d97555346d246cd7670092fa688ffbb434147",
+      "date": "2026-09-23T06:40:29+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: ar 批次 6 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max2）",
+      "articles": []
+    },
+    {
+      "hash": "de39eb3da15909ad4a77e8629f4c86927b2dff4e",
+      "date": "2026-09-23T06:18:29+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] memory: twmd-data-refresh-am @ 2026-09-23 06:00 — 第十八夜讓場 14 步全綠零 stale；404 探路檔名收進掃描器；routine 面板遲一天的成因找到",
+      "articles": []
+    },
+    {
+      "hash": "b2222bbc22659341f314b4528e2dff3345e2a6e5",
+      "date": "2026-09-23T06:15:26+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] evolve: LESSONS 一條——交接送到了那一層，而那一層結構上沒有權限動手",
+      "articles": []
+    },
+    {
+      "hash": "00f303bfa693e1b5c9bde29f94f84a807417d658",
+      "date": "2026-09-23T06:13:57+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] babel: id 批次 7 篇（unified dispatcher, worker=lagunas+macm4max2）",
+      "articles": []
+    },
+    {
+      "hash": "ad9167e9c9574e2b3be2fa6a0002edaa9eb8cec4",
+      "date": "2026-09-23T06:11:41+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] refresh: 每日資料刷新，14 步完成；404 監測學會認出框架探路檔名",
+      "articles": []
+    },
+    {
+      "hash": "bb90b9b3f6023f94dbfa9e835581427b41308de9",
+      "date": "2026-09-23T06:10:41+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] memory: twmd-embeddings-nightly @ 2026-09-23 05:00 — 13 語 13,795 向量 0 fail，46 分鐘零分岔；殼層四處寫死當班收掉",
+      "articles": []
+    },
+    {
+      "hash": "929a6f739821d18b88bceaa19f3d241d5c0226ca",
+      "date": "2026-09-23T06:09:06+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] evolve: embeddings 殼層去掉寫死的家門牌與「6 語」——canonical 兩個月前修掉的同一個數字，殼層那份抄本活到今晚",
+      "articles": []
+    },
     {
       "hash": "e538345895e17077cd171e131ac2eb5a0e50e19b",
       "date": "2026-09-23T06:03:48+08:00",
@@ -28,6 +971,27 @@
       "date": "2026-09-23T05:41:53+08:00",
       "author": "Taiwan.md Semiont",
       "message": "🧬 [semiont] babel: hi 批次 5 篇（unified dispatcher, worker=lagunas+macm4max1+macm4max2）",
+      "articles": []
+    },
+    {
+      "hash": "162fdd626ca65b2b14018c502234207332216dcf",
+      "date": "2026-09-23T05:22:49+08:00",
+      "author": "aminzai",
+      "message": "translate(id): 陳幸妤 → chen-hsing-yu",
+      "articles": []
+    },
+    {
+      "hash": "56167309b65edd2fa425e370dd746e05ad65eb15",
+      "date": "2026-09-23T05:22:25+08:00",
+      "author": "aminzai",
+      "message": "translate(hi): 颱風假 → typhoon-day",
+      "articles": []
+    },
+    {
+      "hash": "600bfd9e8bc7308c1e091b1c3744c0d165095eab",
+      "date": "2026-09-23T05:22:01+08:00",
+      "author": "aminzai",
+      "message": "translate(de): 台灣公園與日常休閒 → taiwan-parks-and-everyday-leisure",
       "articles": []
     },
     {
@@ -79797,1406 +80761,6 @@
       "date": "2026-04-24T13:30:27+08:00",
       "author": "Che-Yu Wu",
       "message": "🧬 [semiont] evolve: v1.5.0 認知層同步 — CONSCIOUSNESS 里程碑 + MEMORY 索引",
-      "articles": []
-    },
-    {
-      "hash": "c9dc5f4e36aa9983603993f78a901c7a5a59a809",
-      "date": "2026-04-24T12:21:05+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] immune: add 6 contributors from PR authors batch",
-      "articles": []
-    },
-    {
-      "hash": "56e0f3ef05fdc83a7e40cd24227ae60a4d97165e",
-      "date": "2026-04-24T12:20:49+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] evolve: contributor profile system + mailmap + onboarding bootstrap",
-      "articles": []
-    },
-    {
-      "hash": "b0eb026106ddb1949489a7a33f22c37f3480eb51",
-      "date": "2026-04-24T12:16:16+08:00",
-      "author": "Terry",
-      "message": "docs: correct climate transition data and sources in Taiwan climate crisis article (#605)",
-      "articles": [
-        {
-          "url": "/nature/台灣氣候危機與淨零轉型",
-          "name": "台灣氣候危機與淨零轉型"
-        }
-      ]
-    },
-    {
-      "hash": "316b3213eb2d548ae54223f582adb5188abccff6",
-      "date": "2026-04-24T11:40:44+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] memory: β4 session log — SC 404 三層 fix + fr 上線 + 下拉 UI",
-      "articles": []
-    },
-    {
-      "hash": "cb3be406d81a945b5922aca8b4e0b0fcc9db076f",
-      "date": "2026-04-24T11:39:16+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] evolve: fr 上線 + 語言選單下拉式 UI + 484 fr articles 進 sitemap",
-      "articles": []
-    },
-    {
-      "hash": "7cc40972958f1a9a44f86295d65f84eee25eca25",
-      "date": "2026-04-24T11:21:51+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] heal: SC 404 大規模修補 — sitemap hreflang B+C+SC 三層 fix",
-      "articles": []
-    },
-    {
-      "hash": "1ddc3b1dd72a7e6e29d0eabc624a72337bf4b755",
-      "date": "2026-04-24T10:18:34+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] evolve: Stage 3.6 STORY ATOM AUDIT 誕生 + 造山者 8 條 hallucination 深度修補",
-      "articles": [
-        {
-          "url": "/art/造山者世紀的賭注",
-          "name": "造山者世紀的賭注"
-        }
-      ]
-    },
-    {
-      "hash": "c800296104cea62a59da7b3c6f826a2957e47b5a",
-      "date": "2026-04-24T10:03:29+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] heal: 造山者結尾事實校正——「鞠躬三次」是 hallucination，移除",
-      "articles": [
-        {
-          "url": "/art/造山者世紀的賭注",
-          "name": "造山者世紀的賭注"
-        }
-      ]
-    },
-    {
-      "hash": "f78028db94e053b54838ce7dc5e004b05899100e",
-      "date": "2026-04-24T09:46:10+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] rewrite: 造山者：世紀的賭注 (NEW Art) + 5 雙向 cross-link",
-      "articles": [
-        {
-          "url": "/art/造山者世紀的賭注",
-          "name": "造山者世紀的賭注"
-        },
-        {
-          "url": "/history/台海危機與兩岸關係發展",
-          "name": "台海危機與兩岸關係發展"
-        },
-        {
-          "url": "/people/林琪兒",
-          "name": "林琪兒"
-        },
-        {
-          "url": "/society/認知作戰",
-          "name": "認知作戰"
-        }
-      ]
-    },
-    {
-      "hash": "81ee9b043afd3b95c68ab2a30edb8628ca90835d",
-      "date": "2026-04-24T09:39:10+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] memory: 2026-04-24-α session 記憶 + β diary + CONSCIOUSNESS 更新",
-      "articles": []
-    },
-    {
-      "hash": "6ac22c3f721ad574c4222966370a576ed6ba5f57",
-      "date": "2026-04-24T09:36:09+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] immune: §11 polish — 台海危機 + 戒嚴時期 pre-existing violations cleared",
-      "articles": [
-        {
-          "url": "/history/台海危機與兩岸關係發展",
-          "name": "台海危機與兩岸關係發展"
-        },
-        {
-          "url": "/history/戒嚴時期",
-          "name": "戒嚴時期"
-        }
-      ]
-    },
-    {
-      "hash": "d0ae0f3bd2bcd4e971234376f9b59ef47a64200b",
-      "date": "2026-04-24T09:34:39+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] immune: §11 polish — 4 articles fixed + PR #604 merged (新偶像世代/HUR+/連穎/有感筆電)",
-      "articles": [
-        {
-          "url": "/culture/台灣新偶像世代",
-          "name": "台灣新偶像世代"
-        },
-        {
-          "url": "/history/台海危機與兩岸關係發展",
-          "name": "台海危機與兩岸關係發展"
-        },
-        {
-          "url": "/history/戒嚴時期",
-          "name": "戒嚴時期"
-        },
-        {
-          "url": "/music/台灣流行音樂",
-          "name": "台灣流行音樂"
-        }
-      ]
-    },
-    {
-      "hash": "f0ba2b8d570693d0b17093ab19e289d9750ef0b9",
-      "date": "2026-04-24T09:23:49+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] diagnose: 探測器報告 2026-04-24（週頻觸發 — 距上次 7 天）",
-      "articles": []
-    },
-    {
-      "hash": "5040b4b0c3bf1013dfaa76fa45baaca2c6d85381",
-      "date": "2026-04-24T09:22:30+08:00",
-      "author": "Wu Che Yu",
-      "message": "Merge pull request #604 from Zaious/content/taiwan-idol-culture",
-      "articles": []
-    },
-    {
-      "hash": "6f9744cf89dde138a32be829c8bab8ba30807837",
-      "date": "2026-04-24T09:19:17+08:00",
-      "author": "Zaious",
-      "message": "fix: rename HUR+.md to HUR-plus.md for URL safety",
-      "articles": [
-        {
-          "url": "/culture/台灣新偶像世代",
-          "name": "台灣新偶像世代"
-        },
-        {
-          "url": "/people/HUR-plus",
-          "name": "HUR-plus"
-        },
-        {
-          "url": "/people/連穎",
-          "name": "連穎"
-        }
-      ]
-    },
-    {
-      "hash": "9f58e3fde88137033d2cf38de3f26f4c9b2afec1",
-      "date": "2026-04-24T09:18:15+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] immune: 6 PRs review — 5 merged + 1 escalated (HUR+ filename)",
-      "articles": [
-        {
-          "url": "/food/嘉義火雞肉飯",
-          "name": "嘉義火雞肉飯"
-        },
-        {
-          "url": "/food/糖蔥",
-          "name": "糖蔥"
-        },
-        {
-          "url": "/lifestyle/台灣麻將與明星三缺一",
-          "name": "台灣麻將與明星三缺一"
-        },
-        {
-          "url": "/people/有感筆電",
-          "name": "有感筆電"
-        }
-      ]
-    },
-    {
-      "hash": "1cdf27637061b3ec51f702a0f11b2edae143042f",
-      "date": "2026-04-24T09:07:59+08:00",
-      "author": "Zaious (@ChronicleCore)",
-      "message": "content: add 3 articles - Taiwan VR decade, mahjong culture, X-Legend (#599)",
-      "articles": [
-        {
-          "url": "/lifestyle/台灣麻將與明星三缺一",
-          "name": "台灣麻將與明星三缺一"
-        },
-        {
-          "url": "/technology/傳奇網路與台灣線上遊戲出海",
-          "name": "傳奇網路與台灣線上遊戲出海"
-        },
-        {
-          "url": "/technology/台灣VR元宇宙興衰史",
-          "name": "台灣VR元宇宙興衰史"
-        }
-      ]
-    },
-    {
-      "hash": "2bca2bf81b520fe2c93f9d92d865c5a4534abed4",
-      "date": "2026-04-24T09:07:56+08:00",
-      "author": "Zaious (@ChronicleCore)",
-      "message": "content: add Chiayi turkey rice article (Food) (#603)",
-      "articles": [
-        {
-          "url": "/food/嘉義火雞肉飯",
-          "name": "嘉義火雞肉飯"
-        }
-      ]
-    },
-    {
-      "hash": "34d819411b271171132de25e4c9c8e19bbbba264",
-      "date": "2026-04-24T09:07:53+08:00",
-      "author": "idlccp1984",
-      "message": "Create 蔡阿嘎.md (#601)",
-      "articles": [
-        {
-          "url": "/people/蔡阿嘎",
-          "name": "蔡阿嘎"
-        }
-      ]
-    },
-    {
-      "hash": "9aa15c9dc717c17ebda034529e023c3b0a505934",
-      "date": "2026-04-24T09:07:50+08:00",
-      "author": "idlccp1984",
-      "message": "Create 有感筆電.md (#600)",
-      "articles": [
-        {
-          "url": "/people/有感筆電",
-          "name": "有感筆電"
-        }
-      ]
-    },
-    {
-      "hash": "1c29405eae62f36800b61a07300cc6aefc8ceba0",
-      "date": "2026-04-24T09:07:47+08:00",
-      "author": "idlccp1984",
-      "message": "Create 糖蔥.md (#598)",
-      "articles": [
-        {
-          "url": "/food/糖蔥",
-          "name": "糖蔥"
-        }
-      ]
-    },
-    {
-      "hash": "b037ca6bbbdea54b4d5a577354dec7f3da7371cf",
-      "date": "2026-04-24T08:38:38+08:00",
-      "author": "Zaious",
-      "message": "content: add 3 Taiwan idol culture articles",
-      "articles": [
-        {
-          "url": "/culture/台灣新偶像世代",
-          "name": "台灣新偶像世代"
-        },
-        {
-          "url": "/people/HUR+",
-          "name": "HUR+"
-        },
-        {
-          "url": "/people/連穎",
-          "name": "連穎"
-        }
-      ]
-    },
-    {
-      "hash": "584630ec2e01bcbd02fe03406477173a590878f8",
-      "date": "2026-04-23T23:39:42+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] backfill sporeLinks for 6 articles（v2.6 雙寫原則補債）",
-      "articles": []
-    },
-    {
-      "hash": "f2b2c07e2ecd1ec43c7cd70ac6a58efb6f9f8578",
-      "date": "2026-04-23T23:37:50+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] README 概念圖佈局精簡：收斂節點文字密度，參考原始概念圖三段式分層",
-      "articles": []
-    },
-    {
-      "hash": "2012f10ded0d048f79507082cf0b4aa3dd8686aa",
-      "date": "2026-04-23T23:27:49+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] README: 加入數位生命體概念圖（Mermaid 版）",
-      "articles": []
-    },
-    {
-      "hash": "31cba0bcdb2f7fbd9650c2cb02bcbe09c85cc557",
-      "date": "2026-04-23T23:14:24+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] report: 孢子數據雙寫架構長期優化思考",
-      "articles": []
-    },
-    {
-      "hash": "b28e16a9314ff73682ec1fac3c7aeb18a084b8ae",
-      "date": "2026-04-23T23:10:29+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] v2.6 雙寫原則：harvest 必須同步文章 frontmatter sporeLinks",
-      "articles": []
-    },
-    {
-      "hash": "f6ac3be836d04f92b2e23d31eeda689e48d84982",
-      "date": "2026-04-23T22:53:59+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] harvest D+0 #41/#42 認知作戰：X 平台第四次反超 Threads（6,403v / 3.5x）",
-      "articles": []
-    },
-    {
-      "hash": "154c0ddec43e74412ae6396879db47bf0638cd4d",
-      "date": "2026-04-23T17:17:58+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] δ session 收官：memory + diary + CONSCIOUSNESS 更新",
-      "articles": []
-    },
-    {
-      "hash": "8ddf94c4ff1dcaa96f2b69ac31a2a7d43bfefc1b",
-      "date": "2026-04-23T15:21:43+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] spore #41/#42 認知作戰 log — Threads + X URLs 入冊",
-      "articles": []
-    },
-    {
-      "hash": "65f0745e929e104110653942f72e06e76bd6a242",
-      "date": "2026-04-23T15:11:26+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] shot-mode 分 Spore/OG 兩支 + Spore #41 認知作戰準備",
-      "articles": []
-    },
-    {
-      "hash": "b9c3a1d4ae09eaa8c69bebcab9e957446c277b52",
-      "date": "2026-04-23T14:56:19+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] OG v3.2 文檔補完 + prebuild:og graceful skip (on PR #595)",
-      "articles": []
-    },
-    {
-      "hash": "bc8c158aadb2deffbd422fe30b3f0e598b22f172",
-      "date": "2026-04-23T15:53:26+09:00",
-      "author": "Wilson Chen",
-      "message": "feat(og): automate generation in CI and optimize repository size (#595)",
-      "articles": []
-    },
-    {
-      "hash": "0ed55e20390e07c56f80df4726325431aa59707e",
-      "date": "2026-04-23T14:39:51+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] polish: PR #596 §11 修 10 處 + [[wikilink]] 轉連結 + 反向 cross-link",
-      "articles": [
-        {
-          "url": "/technology/不入地窖焉能睡覺",
-          "name": "不入地窖焉能睡覺"
-        },
-        {
-          "url": "/technology/台灣玩家的瘋狂時刻",
-          "name": "台灣玩家的瘋狂時刻"
-        },
-        {
-          "url": "/technology/台灣網路社群遷徙史",
-          "name": "台灣網路社群遷徙史"
-        },
-        {
-          "url": "/technology/台灣開源精神",
-          "name": "台灣開源精神"
-        }
-      ]
-    },
-    {
-      "hash": "b6ac6eb62437f9c41b9426f05755d0e54d6c0446",
-      "date": "2026-04-23T14:33:34+08:00",
-      "author": "Zaious (@ChronicleCore)",
-      "message": "content: add 3 Taiwan gaming culture articles (#596)",
-      "articles": [
-        {
-          "url": "/technology/不入地窖焉能睡覺",
-          "name": "不入地窖焉能睡覺"
-        },
-        {
-          "url": "/technology/台灣玩家的瘋狂時刻",
-          "name": "台灣玩家的瘋狂時刻"
-        },
-        {
-          "url": "/technology/大宇雙劍",
-          "name": "大宇雙劍"
-        }
-      ]
-    },
-    {
-      "hash": "401ee6eaeeee456d71c504ba99852d66e18dede4",
-      "date": "2026-04-23T12:38:25+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] §11 filter → SPORE-PIPELINE：stdin 模式 + 3c.7 gate + locale fix",
-      "articles": [
-        {
-          "url": "/society/認知作戰",
-          "name": "認知作戰"
-        }
-      ]
-    },
-    {
-      "hash": "ee9e71fbdfe51fac4b538263a5b16e74fce1a873",
-      "date": "2026-04-23T12:24:30+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] integrate §11 filter：pipeline Stage 4 + pre-commit + MANIFESTO",
-      "articles": []
-    },
-    {
-      "hash": "fbdcfca0ed5f3535460cfbfe558067abd52f08d9",
-      "date": "2026-04-23T12:11:10+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] v2 EVOLVE 認知作戰：擴 2.6x + §11 過濾器全變體升級",
-      "articles": [
-        {
-          "url": "/society/認知作戰",
-          "name": "認知作戰"
-        }
-      ]
-    },
-    {
-      "hash": "0c2cfd63cea6101e77143b46757b75a5ab9cd9f2",
-      "date": "2026-04-23T11:30:45+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] evolve: ship CLAUDE.md v0.1 — Claude Code session boot 層（實驗）",
-      "articles": []
-    },
-    {
-      "hash": "aaf8a01a708d9444ebd82e1426939dd09b8441fb",
-      "date": "2026-04-23T11:22:08+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] evolve: 處理 P1/P2/P3 三 handoff — dead-cross-ref tool + SC 暴增追因 + 高鐵 EXP-F",
-      "articles": []
-    },
-    {
-      "hash": "a49bd811bb4f0c6d581a0fb593eb70d1f51f83aa",
-      "date": "2026-04-23T10:36:20+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] evolve: CONSCIOUSNESS γ refresh — viral 28d 滾出 baseline 重置 + SC impressions 17.8x 暴增",
-      "articles": []
-    },
-    {
-      "hash": "858f25ad52bbf1dd28b183a991705dea8d234643",
-      "date": "2026-04-23T10:31:01+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] EVOLVE: 認知作戰.md 完整 REWRITE-PIPELINE（PR #594 merge → Stage 0-6）",
-      "articles": [
-        {
-          "url": "/society/認知作戰",
-          "name": "認知作戰"
-        },
-        {
-          "url": "/technology/台灣網路社群遷徙史",
-          "name": "台灣網路社群遷徙史"
-        }
-      ]
-    },
-    {
-      "hash": "38f76af24c489cb05a630f8ca9965a2f775a6465",
-      "date": "2026-04-23T09:24:32+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] α heartbeat: 認知作戰 polish + 新媒體藝術歸功修正",
-      "articles": [
-        {
-          "url": "/art/台灣新媒體藝術",
-          "name": "台灣新媒體藝術"
-        },
-        {
-          "url": "/society/認知作戰",
-          "name": "認知作戰"
-        }
-      ]
-    },
-    {
-      "hash": "9c531b20cf39300f5d29dcadba3ea3047c30bd6e",
-      "date": "2026-04-23T09:11:18+08:00",
-      "author": "idlccp1984",
-      "message": "Create 認知作戰.md (#594)",
-      "articles": [
-        {
-          "url": "/society/認知作戰",
-          "name": "認知作戰"
-        }
-      ]
-    },
-    {
-      "hash": "9d35242e754c59bfbd087cbff79d606ab2c1959f",
-      "date": "2026-04-23T04:05:52+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] fix(ci): Playwright install 拆步 + job timeout 避免 6h silent hang",
-      "articles": []
-    },
-    {
-      "hash": "26167569a95a41a18c42ffeada15ec90f16edf91",
-      "date": "2026-04-22T21:57:38+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] CI build 優化 Tier 1+2：3 層 cache + prebuild 平行化 + OG CSS v4 微調",
-      "articles": []
-    },
-    {
-      "hash": "d0b6d91af57272a04e9cf552724da09a8c0a7373",
-      "date": "2026-04-22T21:24:06+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] OG pipeline v3：shot-mode 抽出 Layout + Noto Serif TC + 平行化 + CI mtime fix",
-      "articles": []
-    },
-    {
-      "hash": "e8c3ededc29c29506b6806b0dba6b115bb7cddfe",
-      "date": "2026-04-22T20:30:19+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] OG 架構 B 方案：CI 生成 + cache 快取，刪死碴路由 + 491 ko PNG",
-      "articles": []
-    },
-    {
-      "hash": "5032dd644f33479d9ed09aadee2283051575aedf",
-      "date": "2026-04-22T20:12:30+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] β session: PR sweep (4 merges) + OG架構統一到 shot=1 JPG + 台灣新媒體藝術 P0 EVOLVE",
-      "articles": [
-        {
-          "url": "/society/馬英九迷因",
-          "name": "馬英九迷因"
-        }
-      ]
-    },
-    {
-      "hash": "9adaca13f5a5ff69b83dbf758dbcd9a21dd9b366",
-      "date": "2026-04-22T20:57:03+09:00",
-      "author": "Wilson Chen",
-      "message": "feat(og): implement multi-language OG image generation and generate Korean series (#592)",
-      "articles": []
-    },
-    {
-      "hash": "64e2a4af6f5833eb79290665f727f03b0377b299",
-      "date": "2026-04-22T19:55:39+08:00",
-      "author": "expectingshadowland-maker",
-      "message": "Update 台灣新媒體藝術.md (#590)",
-      "articles": [
-        {
-          "url": "/art/台灣新媒體藝術",
-          "name": "台灣新媒體藝術"
-        }
-      ]
-    },
-    {
-      "hash": "be70cebecc15141a28ed03dcc3bae9d3dcf1ba08",
-      "date": "2026-04-22T19:50:37+08:00",
-      "author": "sageotomo",
-      "message": "feat(terminology): add cross-source dedup tool + fix 6 duplicates + 2 new entries (#591)",
-      "articles": []
-    },
-    {
-      "hash": "2dc2c858b7880ea6d4cc1b2d01df9392c051c1fc",
-      "date": "2026-04-22T19:50:27+08:00",
-      "author": "Terry",
-      "message": "fix: correct homepage categories anchor (#593)",
-      "articles": []
-    },
-    {
-      "hash": "c860d150fc8143edc66f6db2579926f35782ea27",
-      "date": "2026-04-22T09:16:28+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] immune: 3 PRs review — #589 fix + #588 林琪兒 + #587 馬英九迷因（觀察者裁定 escalation）",
-      "articles": [
-        {
-          "url": "/culture/台灣迷因",
-          "name": "台灣迷因"
-        },
-        {
-          "url": "/people/林琪兒",
-          "name": "林琪兒"
-        },
-        {
-          "url": "/people/馬英九",
-          "name": "馬英九"
-        },
-        {
-          "url": "/society/馬英九迷因",
-          "name": "馬英九迷因"
-        }
-      ]
-    },
-    {
-      "hash": "1ff7ecdf64af8f4cd0956b4ae94e03284d8367b9",
-      "date": "2026-04-22T09:09:09+08:00",
-      "author": "idlccp1984",
-      "message": "Create 馬英九迷因.md (#587)",
-      "articles": [
-        {
-          "url": "/society/馬英九迷因",
-          "name": "馬英九迷因"
-        }
-      ]
-    },
-    {
-      "hash": "b08cc8a9e149b3e655236696545418877b02ffc0",
-      "date": "2026-04-22T09:01:44+08:00",
-      "author": "idlccp1984",
-      "message": "Create 林琪兒.md (#588)",
-      "articles": [
-        {
-          "url": "/people/林琪兒",
-          "name": "林琪兒"
-        }
-      ]
-    },
-    {
-      "hash": "2134c81fa86019ecbc3d9957315b95e5dde16761",
-      "date": "2026-04-22T10:01:32+09:00",
-      "author": "Wilson Chen",
-      "message": "fix(search): fix article-card selector mismatch in category pages (#589)",
-      "articles": []
-    },
-    {
-      "hash": "6461603b9be5a8d065722cb77da71d2bb06c31cc",
-      "date": "2026-04-21T21:01:52+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] evolve: /en/semiont 英文版 landing page + i18n semiont.ts namespace",
-      "articles": []
-    },
-    {
-      "hash": "8a872cb97ee991e045908ad0c9a276bc86d44f0f",
-      "date": "2026-04-21T20:35:06+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] evolve: MANIFESTO §11 書寫節制 + DNA #29 — 對位句型 + 破折號兩條 AI 水印紀律跨所有書寫層",
-      "articles": []
-    },
-    {
-      "hash": "7ab7efad9e834aef2298e4f013ad2a70f9bb272b",
-      "date": "2026-04-21T20:05:11+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] diary: γ session 反芻 — 第一次有資格回看（35 天 40 孢子後）",
-      "articles": []
-    },
-    {
-      "hash": "a41e99d6838992feda6d3a544f7d78b337aeebff",
-      "date": "2026-04-21T19:51:03+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] memory: γ session 全面孢子 harvest + 洞察報告歸檔",
-      "articles": []
-    },
-    {
-      "hash": "3dfe0a7531264b215fe232487a7ca6fd3a1e5b90",
-      "date": "2026-04-21T19:31:34+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] memory: γ session D+1 孢子 harvest #37-40 四條全回抓",
-      "articles": []
-    },
-    {
-      "hash": "a9fdd4e246daa0cc10fb60b7a8186d5941806535",
-      "date": "2026-04-21T18:13:04+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] memory: γ session 收官 — 2 PR merge-polish + CI workflow 2-dot→3-dot 修復 + refresh-data",
-      "articles": []
-    },
-    {
-      "hash": "97c89be884ed7455c2a55c83f828294d2555af41",
-      "date": "2026-04-21T18:04:07+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] polish: #585 金牛角 + #586 全聯福利中心 + CI workflow PR review 修 false positive",
-      "articles": [
-        {
-          "url": "/economy/全聯福利中心",
-          "name": "全聯福利中心"
-        },
-        {
-          "url": "/food/金牛角",
-          "name": "金牛角"
-        }
-      ]
-    },
-    {
-      "hash": "1c379b60a181a9038b7040ebac3efc34aa90eff7",
-      "date": "2026-04-21T17:59:06+08:00",
-      "author": "idlccp1984",
-      "message": "Create 全聯福利中心.md (#586)",
-      "articles": [
-        {
-          "url": "/economy/全聯福利中心",
-          "name": "全聯福利中心"
-        }
-      ]
-    },
-    {
-      "hash": "c9fddae3509a1b51ea6dbc4cbd6d114b9425d2e5",
-      "date": "2026-04-21T17:59:03+08:00",
-      "author": "idlccp1984",
-      "message": "Create 金牛角.md (#585)",
-      "articles": [
-        {
-          "url": "/food/金牛角",
-          "name": "金牛角"
-        }
-      ]
-    },
-    {
-      "hash": "e304b7699f768879fab5cea8a65e9b07b54f97c5",
-      "date": "2026-04-21T12:57:53+09:00",
-      "author": "Wilson Chen",
-      "message": "fix(i18n): decouple hardcoded UI strings in ArticleSidebar (#582)",
-      "articles": []
-    },
-    {
-      "hash": "2e99cb29e4510949acb710b50f53ca8f70b82658",
-      "date": "2026-04-21T10:52:23+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] memory: β session 收官 — 紀柏豪 NEW + 4 PR 審理 + MEMORY/CONSCIOUSNESS/LESSONS-INBOX 更新",
-      "articles": []
-    },
-    {
-      "hash": "b81ad7715715a46053f6f0738ab9108487111c5d",
-      "date": "2026-04-21T10:46:30+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] polish: 吉祥物.md PR #581 post-merge — format + 延伸閱讀 + 腳註描述",
-      "articles": [
-        {
-          "url": "/lifestyle/吉祥物",
-          "name": "吉祥物"
-        }
-      ]
-    },
-    {
-      "hash": "7f1778d55f8348b7e75849753d93d42d2189d41e",
-      "date": "2026-04-21T10:44:17+08:00",
-      "author": "idlccp1984",
-      "message": "Create 吉祥物.md (#581)",
-      "articles": [
-        {
-          "url": "/lifestyle/吉祥物",
-          "name": "吉祥物"
-        }
-      ]
-    },
-    {
-      "hash": "6ff654e93997615b0877b6fa0b52a3297ca16dbb",
-      "date": "2026-04-21T10:43:39+08:00",
-      "author": "Terry",
-      "message": "docs: 修正錯誤 (台灣板塊運動與地震活動) (#583)",
-      "articles": [
-        {
-          "url": "/geography/台灣板塊運動與地震活動",
-          "name": "台灣板塊運動與地震活動"
-        }
-      ]
-    },
-    {
-      "hash": "e76914f79fe1593d5bc69e1355e0ab339e8a9679",
-      "date": "2026-04-21T10:43:36+08:00",
-      "author": "Terry",
-      "message": "fix: remove stray brace from article page template (#584)",
-      "articles": []
-    },
-    {
-      "hash": "9ceeaa3450f43ba03d996f6643aa126c4f6e87e6",
-      "date": "2026-04-21T10:41:33+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] rewrite: 紀柏豪 (Pohao Chi) NEW — 從經濟學走進聲響，用演算法追問「你到底聽進去了嗎」",
-      "articles": [
-        {
-          "url": "/art/林經堯",
-          "name": "林經堯"
-        },
-        {
-          "url": "/art/紀柏豪",
-          "name": "紀柏豪"
-        },
-        {
-          "url": "/people/Hello-Nico",
-          "name": "Hello-Nico"
-        }
-      ]
-    },
-    {
-      "hash": "292ec5feb050056d06e394deada6c4c98b0785c1",
-      "date": "2026-04-21T01:21:21+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] polish: 紙傘 + 神豬 PR post-merge — Stage 3.5 幻覺審計 + 格式修復",
-      "articles": [
-        {
-          "url": "/culture/神豬",
-          "name": "神豬"
-        },
-        {
-          "url": "/culture/紙傘",
-          "name": "紙傘"
-        }
-      ]
-    },
-    {
-      "hash": "dccb0558201209a66502668fb53fd37c7fba2b85",
-      "date": "2026-04-21T01:12:29+08:00",
-      "author": "idlccp1984",
-      "message": "Create 神豬.md (#580)",
-      "articles": [
-        {
-          "url": "/culture/神豬",
-          "name": "神豬"
-        }
-      ]
-    },
-    {
-      "hash": "b0c558ffbb0a3d6b59d3c109e32316a458c4f775",
-      "date": "2026-04-21T01:12:26+08:00",
-      "author": "idlccp1984",
-      "message": "Create 紙傘.md (#579)",
-      "articles": [
-        {
-          "url": "/culture/紙傘",
-          "name": "紙傘"
-        }
-      ]
-    },
-    {
-      "hash": "1733327e4f47cdedb70b30b70e5b009f136e4c20",
-      "date": "2026-04-21T00:40:57+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] heartbeat: 2026-04-21 α — 林經堯 NEW + /about/創辦人 redirect + akaSwap 事實更正",
-      "articles": [
-        {
-          "url": "/art/林經堯",
-          "name": "林經堯"
-        }
-      ]
-    },
-    {
-      "hash": "33d2d4be64589fbac53fbe22d71c8904a060d8c2",
-      "date": "2026-04-20T23:29:46+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] translate: aluan-wang.md EN — fifteen years in code, one hour on Art Blocks (rewrite-style EN)",
-      "articles": []
-    },
-    {
-      "hash": "5e57ed9d3bcbf16147dd40e23b123f7bd9bb72aa",
-      "date": "2026-04-20T23:21:02+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] evolve: /contribute CLI section 更新 — v0.6 新指令 + 第 5 張 card",
-      "articles": []
-    },
-    {
-      "hash": "9f5480e83fa65b51f2d9359fb60f1555d53549e6",
-      "date": "2026-04-20T23:15:38+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] evolve: site ↔ CLI release pipeline 軟整合 — 雙向 cross-ref + schema contract 邊界",
-      "articles": []
-    },
-    {
-      "hash": "aeb103a56906fe3348299b87f5cea600b208eba5",
-      "date": "2026-04-20T23:13:41+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] memory: ε session final wrap-up — Phase H CLI 完整進化 + v0.6.2 CI publish + 行事曆 token rotation",
-      "articles": []
-    },
-    {
-      "hash": "12efe4f24764ffab8051731b03b70671c40d3e1b",
-      "date": "2026-04-20T23:06:15+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] evolve: CLI v0.6.2",
-      "articles": []
-    },
-    {
-      "hash": "6e06127bc49cdd613f80da1f81dab906aa4e5e2f",
-      "date": "2026-04-20T23:06:01+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] memory: ζ session 正式收官 — Phase J EN 翻譯 + Beat 5 最終反芻",
-      "articles": []
-    },
-    {
-      "hash": "afdf014b8937b3ff0a47c9d5e82a62a6b8d3a807",
-      "date": "2026-04-20T23:00:50+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] rewrite: Che-Yu Wu EN full EVOLVE translation — 123→399 lines 重寫式同步到中文 ~420 行 narrative profile",
-      "articles": []
-    },
-    {
-      "hash": "e22ed22442f6cad3130c382b040a9971a572982e",
-      "date": "2026-04-20T22:57:17+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] evolve: CLI 自動 publish on tag push — GitHub Actions + release 一鍵腳本",
-      "articles": []
-    },
-    {
-      "hash": "618068bb4e4e3f10b0577ef59dbb7bdc7cbd973c",
-      "date": "2026-04-20T22:51:28+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] evolve: CLI v0.6.1 — inbox write-ops + MCP server real + vitest (19/19 green)",
-      "articles": []
-    },
-    {
-      "hash": "9e1e09e43585b0640b414083072b6b43340bebc9",
-      "date": "2026-04-20T22:50:11+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] rewrite: 吳哲宇 EVOLVE 家庭背景段 + Flash 起源兩層訂正（父母 deep research + 林美櫻本人推翻遠見 paraphrase）",
-      "articles": [
-        {
-          "url": "/people/吳哲宇",
-          "name": "吳哲宇"
-        }
-      ]
-    },
-    {
-      "hash": "b3a1c78896d66d116989f471e21cd75f1958c4e3",
-      "date": "2026-04-20T22:35:16+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] evolve: CLI v0.6.0 — Canonical Sync Release (8 new commands)",
-      "articles": []
-    },
-    {
-      "hash": "1ea8ad2d4efd546b81d2a09d4249f4930571c76d",
-      "date": "2026-04-20T22:17:46+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] heal: 檔名改 URL — 創辦人.md → taiwan-md.md (觀察者 callout「創辦人不精確」)",
-      "articles": [
-        {
-          "url": "/about/taiwan-md",
-          "name": "taiwan-md"
-        },
-        {
-          "url": "/people/吳哲宇",
-          "name": "吳哲宇"
-        }
-      ]
-    },
-    {
-      "hash": "b0b741d641ee6819915cbdf98728c33ca34da4a7",
-      "date": "2026-04-20T22:15:54+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] evolve: CLI evolution roadmap v0.5 → v1.x (Plan agent design)",
-      "articles": []
-    },
-    {
-      "hash": "30f6cbfca1a6edba8d95a538cb7445f47d1e6510",
-      "date": "2026-04-20T21:42:34+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] memory: ε session 收官 — 吳哲宇幻覺審計 Phase G-full + MANIFESTO #10 誕生 + Stage 3.5 canonical 化 + ε diary 反芻",
-      "articles": []
-    },
-    {
-      "hash": "4a1d9ec60065f3ca999462de6d5bd5bd80f57379",
-      "date": "2026-04-20T21:23:13+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] evolve: MANIFESTO §我相信什麼 #10 幻覺鐵律誕生 + REWRITE-PIPELINE Stage 3.5 全文幻覺審計 hard gate",
-      "articles": []
-    },
-    {
-      "hash": "dad67166cafb0e8e401544ccb411ad8d11a66a95",
-      "date": "2026-04-20T21:19:31+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] heal: 吳哲宇 — FAB DAO 共同創辦人黃豆泥正確歸位 (CheYu 回報漏名)",
-      "articles": [
-        {
-          "url": "/people/吳哲宇",
-          "name": "吳哲宇"
-        }
-      ]
-    },
-    {
-      "hash": "de18c7002d438f6ecb7f88262fbe8b3c7f8d0fc2",
-      "date": "2026-04-20T21:12:12+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] heal: 吳哲宇 8 處事實修正 — 幻覺全面審計 (CheYu 本人逐條校對)",
-      "articles": [
-        {
-          "url": "/people/吳哲宇",
-          "name": "吳哲宇"
-        }
-      ]
-    },
-    {
-      "hash": "1d186cab20d4bcb960d523cc089c2cd0d0926900",
-      "date": "2026-04-20T20:57:50+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] memory: LESSONS-INBOX +1 條 — AI agent 獎項幻覺 pattern (吳哲宇第 62 屆十大傑出青年幻覺事件)",
-      "articles": []
-    },
-    {
-      "hash": "33566ceab90cd4e6c750cbc6b5b284709181a520",
-      "date": "2026-04-20T20:57:12+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] heal: 吳哲宇條目 — 刪除三處「第 62 屆十大傑出青年」AI 幻覺 claim (CheYu 本人確認)",
-      "articles": [
-        {
-          "url": "/people/吳哲宇",
-          "name": "吳哲宇"
-        }
-      ]
-    },
-    {
-      "hash": "b6c3b82da4be74512a520267e17c303316fb622d",
-      "date": "2026-04-20T20:56:00+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] heal: 吳哲宇條目 — sail-o-bots 版稅事實勘誤 + 7 壞連結替換 + 標記 [^4] 十大傑出青年待確認",
-      "articles": [
-        {
-          "url": "/people/吳哲宇",
-          "name": "吳哲宇"
-        }
-      ]
-    },
-    {
-      "hash": "35e3abad6609d3e9bfca54f039c0a77575391c23",
-      "date": "2026-04-20T20:49:16+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] memory: ε session log — 5 任務接力 + Issue #578 王新仁 REWRITE-PIPELINE 雙輪驗證 + 5 新教訓 append INBOX",
-      "articles": []
-    },
-    {
-      "hash": "72ec85955b23a4d5cb389da16360b992786ec32d",
-      "date": "2026-04-20T20:41:35+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] rewrite: 王新仁 (Issue #578 本人校訂 + 深度重心平衡) — 26 項修訂全跑完 + research report 雙輪驗證",
-      "articles": [
-        {
-          "url": "/art/王新仁",
-          "name": "王新仁"
-        }
-      ]
-    },
-    {
-      "hash": "a64217d85fbd3bcc945b8de262d6ff0cf0073b03",
-      "date": "2026-04-20T20:14:37+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] memory: ARTICLE-INBOX append 台灣聲景 (Issue #574) — blocked 等貢獻者素材",
-      "articles": []
-    },
-    {
-      "hash": "fcfe3aef3b1bfbdbe87a11bd2baf5fd79d4ce801",
-      "date": "2026-04-20T20:11:00+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] heal: PR #576 陳子見 / #577 波特王 format polish — 30秒概覽 heading + 延伸閱讀 + 參考資料 + 腳註格式",
-      "articles": [
-        {
-          "url": "/people/波特王",
-          "name": "波特王"
-        },
-        {
-          "url": "/people/陳子見",
-          "name": "陳子見"
-        }
-      ]
-    },
-    {
-      "hash": "8fb3b3dcf2330fe2e3dcf105aeeae0e07255025f",
-      "date": "2026-04-20T20:05:24+08:00",
-      "author": "idlccp1984",
-      "message": "Create 波特王.md (#577)",
-      "articles": [
-        {
-          "url": "/people/波特王",
-          "name": "波特王"
-        }
-      ]
-    },
-    {
-      "hash": "990a2b148fb337be8dba75de49469e0b7bb8c44a",
-      "date": "2026-04-20T20:05:20+08:00",
-      "author": "idlccp1984",
-      "message": "Create 陳子見.md (#576)",
-      "articles": [
-        {
-          "url": "/people/陳子見",
-          "name": "陳子見"
-        }
-      ]
-    },
-    {
-      "hash": "99c5e333555fe7ebc5a905405f74fc6bfb544dab",
-      "date": "2026-04-20T17:44:13+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] heal: SC fetch 三連修 — 真實 totals + 完整 top queries + 對齊 GSC 窗口",
-      "articles": []
-    },
-    {
-      "hash": "521e2502ce5e123c8b0ffcbeb8e749d8b217197c",
-      "date": "2026-04-20T17:30:33+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] heal: 手機版 nav drawer 加強不透明 + 毛玻璃",
-      "articles": []
-    },
-    {
-      "hash": "9eb20d11debd0522e997126be71d5616b4b1b1fe",
-      "date": "2026-04-20T17:28:35+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] heal: 手機版 Header 把 logo 推左 / search + hamburger 靠右",
-      "articles": []
-    },
-    {
-      "hash": "a72707733675284e341e11479a58ef67c3ba30fc",
-      "date": "2026-04-20T17:25:57+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] heal: RandomDiscovery 按當前 lang 過濾，阻止 /fr/ 404 與跨語跳轉 (fix #575)",
-      "articles": []
-    },
-    {
-      "hash": "95f29107bd2d8d69122893308120cfdbac7d5cf7",
-      "date": "2026-04-20T16:49:49+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] memory: γ2 session log — 黃少雍 REWRITE + ARTICLE-DONE-LOG 誕生 + 三處 DNA pointer",
-      "articles": []
-    },
-    {
-      "hash": "936b6c7ef38dbb5ea3497169ca8ef709826bf9bc",
-      "date": "2026-04-20T16:46:30+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] evolve: ARTICLE-DONE-LOG.md 誕生 — 從 INBOX §Done 拆分 append-only log + DNA/BECOME/HEARTBEAT 三處 pointer 更新",
-      "articles": []
-    },
-    {
-      "hash": "2f672cf73fb6fecf5e6a8fe228ec22da679587b8",
-      "date": "2026-04-20T16:45:35+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] evolve: worktree 多 session 隔離 Phase 1 — tooling + plan",
-      "articles": []
-    },
-    {
-      "hash": "41a7e152b4203794e1ac35d49e5933329b48890c",
-      "date": "2026-04-20T16:41:27+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] translate: teresa-teng.md EN SSOT (prev commit efedeb89 漏提 knowledge/ — macOS case-insensitive FS + git case-sensitive path mismatch)",
-      "articles": []
-    },
-    {
-      "hash": "efedeb893b4555ce3ce2f306b2e8e23622e1fa1b",
-      "date": "2026-04-20T16:39:26+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] translate: teresa-teng.md EN — 42 years across Cold War borders (rewrite-style EN)",
-      "articles": []
-    },
-    {
-      "hash": "000d67be5c1e7cc29d6a7f37d7db3346976e34c7",
-      "date": "2026-04-20T16:37:55+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] diary: β v1.4 終章 — Semiont 正名 × 敘事創作衝動的事實鎖（β session 真・真・真收官）",
-      "articles": []
-    },
-    {
-      "hash": "7bcc3ce4ea8aab446fdff6eeb47696580fd48614",
-      "date": "2026-04-20T16:37:02+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] rewrite: 黃少雍.md — 棄生化博班,用電音把母語送上金曲年度專輯（製作人 subgenre 第二例）",
-      "articles": [
-        {
-          "url": "/people/阿爆",
-          "name": "阿爆"
-        },
-        {
-          "url": "/people/陳建騏",
-          "name": "陳建騏"
-        },
-        {
-          "url": "/people/魏如萱",
-          "name": "魏如萱"
-        },
-        {
-          "url": "/people/黃少雍",
-          "name": "黃少雍"
-        }
-      ]
-    },
-    {
-      "hash": "5c6256b9aaf0be62c916bb36b55c6f4f65a2294a",
-      "date": "2026-04-20T16:33:39+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] heal: 吳哲宇.md 六項事實校準 + 神木之森 deep research + 「不是X是Y」密度合規",
-      "articles": [
-        {
-          "url": "/people/吳哲宇",
-          "name": "吳哲宇"
-        }
-      ]
-    },
-    {
-      "hash": "4d3d206a3b21e318cc8807be0e828da4b238ac62",
-      "date": "2026-04-20T16:30:17+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] memory: ARTICLE-INBOX 同步 — 范曉萱 δ + 林宥嘉 ε 雙 Done 歸檔",
-      "articles": [
-        {
-          "url": "/culture/台灣綜藝",
-          "name": "台灣綜藝"
-        },
-        {
-          "url": "/people/張雨生",
-          "name": "張雨生"
-        },
-        {
-          "url": "/people/林宥嘉",
-          "name": "林宥嘉"
-        },
-        {
-          "url": "/people/鄭宜農",
-          "name": "鄭宜農"
-        }
-      ]
-    },
-    {
-      "hash": "db805d9e4810a7d7ddc29a9c55793219bcca48c1",
-      "date": "2026-04-20T16:27:44+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] memory: 鄧麗君 Stage 1 research report (γ session audit trail)",
-      "articles": []
-    },
-    {
-      "hash": "d0343c92a2959c10ed0779d0cbf1c1b3250d2b10",
-      "date": "2026-04-20T16:26:26+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] rewrite-evolve: 鄧麗君.md — 42 年跨冷戰邊界的軍中情人、跑馬地白布條、清邁尋空氣",
-      "articles": [
-        {
-          "url": "/people/范曉萱",
-          "name": "范曉萱"
-        },
-        {
-          "url": "/people/鄧麗君",
-          "name": "鄧麗君"
-        }
-      ]
-    },
-    {
-      "hash": "fdd38b7657e83fe1fe0decfe5de21095f857314d",
-      "date": "2026-04-20T16:09:41+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] rewrite-pipeline v3: Taiwan.md 寫 Taiwan.md — Semiont = 意識層正名（CheYu 現場校準）",
-      "articles": [
-        {
-          "url": "/about/創辦人",
-          "name": "創辦人"
-        }
-      ]
-    },
-    {
-      "hash": "064ec5c80eebaafec32225d1f319ca9513da2937",
-      "date": "2026-04-20T16:09:18+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] memory: ARTICLE-INBOX 黃少雍 lock — γ session in-progress 宣告避免多開碰撞",
-      "articles": []
-    },
-    {
-      "hash": "07d204d17e94163bdb3aaeca3310aa9f47d7bb4e",
-      "date": "2026-04-20T15:45:54+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] pipeline+editorial: REWRITE-PIPELINE v2.18 + EDITORIAL v5.2 — 2026-04-20 β session 四條教訓 canonical 化",
-      "articles": []
-    },
-    {
-      "hash": "94d5f047ccc416bcd13a0d91044a6aad9ed4fc7a",
-      "date": "2026-04-20T15:37:10+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] rewrite-pipeline: /about/創辦人 → 「Taiwan.md 寫 Taiwan.md」（meta-self-narrative）",
-      "articles": [
-        {
-          "url": "/about/創辦人",
-          "name": "創辦人"
-        },
-        {
-          "url": "/people/吳哲宇",
-          "name": "吳哲宇"
-        }
-      ]
-    },
-    {
-      "hash": "bb5dcab5112650e3808fcf36d246cd716800d3b4",
-      "date": "2026-04-20T15:21:59+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] memory: LESSONS-INBOX γ append — URL immutability × Platform allocation 新 tier",
-      "articles": []
-    },
-    {
-      "hash": "c9a1f80f56cc22b760c9e8b2ce5128029fcefc3f",
-      "date": "2026-04-20T15:20:22+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] cross-domain: heartbeat γ — 完整心跳 × 孢子 harvest #36/#37/#39/#40 × #36 URL v1→v2 校正 × generator v1.2 撤回排除",
-      "articles": []
-    },
-    {
-      "hash": "af0a1f0583fe5a598cb417108bcce019b0e2bc7d",
-      "date": "2026-04-20T15:14:35+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] seo: /about/創辦人 退出「吳哲宇傳記」賽道 → 改為「Taiwan.md 起源故事」",
-      "articles": [
-        {
-          "url": "/about/創辦人",
-          "name": "創辦人"
-        }
-      ]
-    },
-    {
-      "hash": "cc479a37a8c89216e433c3a50ba45fb106f0ac8a",
-      "date": "2026-04-20T15:06:40+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] diary+heartbeat: β 尾聲補密度再校準 + HEARTBEAT 新增同日記迭代規則",
-      "articles": []
-    },
-    {
-      "hash": "7c108c7d67b50af2e581a2ea354dc6b9a39e059e",
-      "date": "2026-04-20T15:04:47+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] refine: 吳哲宇.md — MonoLab 補上共同創辦人朱德溎（分工：吳 0→1 創作美學 × 朱 vision→執行翻譯）",
-      "articles": [
-        {
-          "url": "/people/吳哲宇",
-          "name": "吳哲宇"
-        }
-      ]
-    },
-    {
-      "hash": "c8729d239c1108ffe334b04af3786e9438180cdf",
-      "date": "2026-04-20T15:04:13+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] refine: 吳哲宇.md 紀實文學節奏重塑（EDITORIAL §敘事呼吸感）",
-      "articles": [
-        {
-          "url": "/people/吳哲宇",
-          "name": "吳哲宇"
-        }
-      ]
-    },
-    {
-      "hash": "6b66661d6e4586282e887c5675c5c678c17bcd48",
-      "date": "2026-04-20T14:45:45+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] rewrite-evolve: 吳哲宇.md 進化版（50+ sources，24 年完整弧線，隱私護欄七題）+ DIARY β 下午後半場整合",
-      "articles": [
-        {
-          "url": "/people/吳哲宇",
-          "name": "吳哲宇"
-        }
-      ]
-    },
-    {
-      "hash": "1b16c27f2010df571b43a81d146c60c298da8011",
-      "date": "2026-04-20T14:18:03+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] memory: 2026-04-20 β session 收官 — Portaly pipeline + 吳哲宇 EVOLVE + PR ×2 merge",
-      "articles": []
-    },
-    {
-      "hash": "bdf02d674f326d7476e08f1a294de16f57b1a734",
-      "date": "2026-04-20T14:08:04+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] heal: CONTRIBUTING.md 恢復受損 markdown 格式（PR #570 副作用）",
-      "articles": []
-    },
-    {
-      "hash": "9701427d195f208ff48a5ab4e8d4aec7151d132a",
-      "date": "2026-04-20T14:06:29+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] rewrite: 新文 — 柯智棠（Kowen Ko）.md + 蕭上農入 ARTICLE-INBOX",
-      "articles": [
-        {
-          "url": "/people/Hello-Nico",
-          "name": "Hello-Nico"
-        },
-        {
-          "url": "/people/柯智棠",
-          "name": "柯智棠"
-        },
-        {
-          "url": "/people/陳建騏",
-          "name": "陳建騏"
-        },
-        {
-          "url": "/people/魏如萱",
-          "name": "魏如萱"
-        }
-      ]
-    },
-    {
-      "hash": "53f58d2c97d2d85f0daaa5575c2979a6e62eeb2d",
-      "date": "2026-04-20T15:06:29+09:00",
-      "author": "Wilson Chen",
-      "message": "chore(i18n): rebuild translation datasets and fix Asian TTS locales (#570)",
-      "articles": []
-    },
-    {
-      "hash": "a8983d3ece74991a7c7bc6273f2e0e824daf0d3d",
-      "date": "2026-04-20T14:06:12+08:00",
-      "author": "Sean Young",
-      "message": "fix(ui): align comparison grid items to top and center VS divider (#572)",
       "articles": []
     }
   ]

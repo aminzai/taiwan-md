@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-22T22:06:01.674Z",
+  "lastUpdated": "2026-09-23T22:04:30.495Z",
   "totals": {
     "contributors": 75,
     "activeWindow": "last 30d"
@@ -7,7 +7,7 @@
   "leaderboard": [
     {
       "login": "frank890417",
-      "commits": 9807,
+      "commits": 9810,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
@@ -35,7 +35,7 @@
     },
     {
       "login": "aminzai",
-      "commits": 90,
+      "commits": 93,
       "avatarUrl": "https://avatars.githubusercontent.com/u/71848?v=4",
       "profileUrl": "https://github.com/aminzai",
       "firstCommitAt": null,
@@ -888,7 +888,7 @@
   "topSystem": [
     {
       "login": "frank890417",
-      "commits": 9807,
+      "commits": 9810,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
@@ -1029,7 +1029,7 @@
       }
     }
   ],
-  "weeklyActive": 3,
+  "weeklyActive": 2,
   "monthlyActive": 6,
   "recentlyJoined": [
     {

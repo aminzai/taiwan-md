@@ -97,26 +97,26 @@ a human — that boundary is the design, not a limitation. The full contract is
 | ------------------------------ | ----- |
 | 📄 Total articles (zh-TW SSOT) | 1122  |
 | 🇹🇼 Chinese (zh-TW)             | 1122  |
-| 🇺🇸 English (en)                | 1108  |
-| 🇯🇵 日本語 (ja)                 | 1058  |
-| 🇰🇷 한국어 (ko)                 | 1106  |
-| 🇪🇸 Español (es)                | 1109  |
-| 🇫🇷 Français (fr)               | 1110  |
-| 🇻🇳 Tiếng Việt (vi)             | 1107  |
-| 🇮🇩 Bahasa Indonesia (id)       | 1049  |
-| 🇵🇹 Português (pt)              | 1091  |
-| 🇮🇳 हिन्दी (hi)                 | 1034  |
-| 🇸🇦 العربية (ar)                | 1064  |
-| 🇷🇺 Русский (ru)                | 1076  |
-| 🌐 Deutsch (de)                | 889   |
+| 🇺🇸 English (en)                | 1109  |
+| 🇯🇵 日本語 (ja)                 | 1065  |
+| 🇰🇷 한국어 (ko)                 | 1109  |
+| 🇪🇸 Español (es)                | 1110  |
+| 🇫🇷 Français (fr)               | 1111  |
+| 🇻🇳 Tiếng Việt (vi)             | 1113  |
+| 🇮🇩 Bahasa Indonesia (id)       | 1057  |
+| 🇵🇹 Português (pt)              | 1094  |
+| 🇮🇳 हिन्दी (hi)                 | 1042  |
+| 🇸🇦 العربية (ar)                | 1066  |
+| 🇷🇺 Русский (ru)                | 1080  |
+| 🌐 Deutsch (de)                | 982   |
 | 📂 Categories                  | 14    |
 | 🕸️ Knowledge graph nodes       | 220+  |
 | 🔗 Resource websites           | 146+  |
 | 👥 Contributors                | 75    |
 | ⭐ GitHub Stars                | 1187  |
 | 🍴 Forks                       | 187   |
-| 📅 Articles last 7 days        | 44    |
-| 📅 Articles last 30 days       | 102   |
+| 📅 Articles last 7 days        | 45    |
+| 📅 Articles last 30 days       | 90    |
 
 <!-- STATS:END -->
 
