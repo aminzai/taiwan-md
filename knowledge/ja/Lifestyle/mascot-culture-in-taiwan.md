@@ -1,180 +1,293 @@
 ---
-title: 'Mascots: From Black Bear Obsession to Cultural Curation via Puns'
-description: "The birth of 'OhBear' in 2013 kicked off Taiwan's mascot Warring States period. From the island-wide black bear free-for-all and 'Milkfish Boy'—ugly enough to appear on a US talk show—to 'Welfare Bear' with hundreds of millions in annual revenue and 'Bravo Bear' testifying in the council, Taiwan's mascots are evolving from government propaganda tools into cultural symbols with souls and social resonance."
+title: '台湾のマスコット：大同ベイビーの贈答品から、地方キャラクターの全域展開へ'
+description: '1969年に大同ベイビーがリビングに入り、1990年のプロ野球元年で龍・獅・虎・象がスタンドを熱狂させ；そしてオー熊、ブラボ、ツァイチーアヒルが登場し、キャラクターが市場と交通の現場へ。全台の公的機関がこぞって数十体の黒熊ぬいぐるみを出す中、マスコットの真の試練は可愛さを演じることではなく、看板や一回限りのイベントから抜け出し、日常生活の中で地域のために具体的な任務を果たせるかどうかだ。'
 date: 2026-04-21
+category: 'Lifestyle'
 tags:
   [
-    'mascot',
-    'Taiwan Black Bear',
-    'OhBear',
-    'Ugly-Cute',
-    'Bobo Pigeon',
-    'Caiqi Duck',
-    'Welfare Bear',
-    'Bravo Bear',
-    'Hongfu',
-    'Taipei City Council',
+    'マスコット',
+    '大同ベイビー',
+    'プロ野球元年',
+    'オー熊',
+    'ブラボ',
+    'ツァイチーアヒル',
+    'ヨウチーアヒル',
+    '高雄捷運',
+    'マオリーニャオ',
+    'Tiger Duck',
+    'ティモン',
+    'フィッシュヘッド君',
+    'ミルクフィッシュ君',
   ]
-subcategory: 'Urban Life'
+subcategory: '城市生活'
 author: 'Taiwan.md Contributors'
-category: 'Lifestyle'
-readingTime: 15
-lastVerified: 2026-04-21
-lastHumanReview: false
-translatedFrom: 'Lifestyle/吉祥物.md'
-sourceCommitSha: '88b3abd8'
-sourceContentHash: 'sha256:7453fc91529be112'
-sourceBodyHash: 'sha256:0280d05fe808358b'
-translatedAt: '2026-06-09T03:07:00+08:00'
 featured: false
+lastVerified: 2026-09-05
+lastHumanReview: false
+readingTime: 20
+curation: 'incubating'
+rationale:
+  why_this_hook: '從大同寶寶、職棒元年到菜奇鴨，梳理台灣吉祥物從企業贈品演進至承擔公共任務與地方治理的脈絡'
+  whats_excluded: '排除短效型純廣告促銷角色與未具實體布偶裝或常態營運機制的純平面插畫'
+  where_it_hedges: '探討角色可愛親和力的同時，指出黑熊題材辨識度飽和、外包抄襲風險與公共預算成效等現實挑戰'
+  whos_pushing_back: '部分觀點認為地方吉祥物多屬活動消耗品與形式化政績包裝'
+translatedFrom: 'Lifestyle/吉祥物.md'
+sourceCommitSha: 'c0061c6df'
+sourceContentHash: 'sha256:62a0444682031043'
+sourceBodyHash: 'sha256:f0ac4cd7b2bc3b4c'
+translatedAt: '2026-09-23T11:48:21+08:00'
 ---
 
-> **30-Second Overview:** Taiwan once fell into a collective obsession with "bears only," with dozens of black bear mascots sharing similar appearances across the island. However, as "Milkfish Boy" became so ugly it appeared on a US talk show, China Post's "Bobo Pigeon" made a comeback with its soft and cute image, and "Welfare Bear" achieved a commercial miracle with hundreds of millions in annual revenue, Taiwan's mascots are undergoing a qualitative shift from "cute tools" to "distinctive brands."
+> **30秒概観：** 台湾のマスコットの変遷は、造型が厳粛から可愛いへ変わっただけではない。1969年の大同ベイビーと1990年プロ野球元年の4球団マスコットが、企業と球隊を人と寄り添うキャラクターにした；2013年以降、オー熊、ブラボ、フィッシュヘッド君、ツァイチーアヒルが、観光、都市統治、スポーツ、地方食文化を同じ線上に繋いだ。真の課題は、キャラクターが看板を離れ、人の生活に入れるかどうかだ；つまり「誰を代表するか」から「誰のために何の任務を果たすか」へ歩むことだ。[^1] [^2] [^3] [^22]
 
-On December 3, 2013, a black bear with a white V on its chest and an orange cape quietly came to life on the internet. Half a year later, it was officially appointed as the leader of the "Super Mission Group" of the Ministry of Transportation and Communications' Tourism Bureau, named "OhBear" [^1]. This was not just the inauguration of a public sector mascot; it marked Taiwan's formal entry into the "Mascot Warring States Period."
+1969年、大同公司が大同ベイビーを発表。2013年12月3日、交通部観光署のオー熊スタンプがリリース。2024年、台南市政府がツァイチーアヒルで59か所の公有小売市場を繋いだ。3つの年、3つのシーンが、台湾マスコットの軌跡を広げる：企業贈答品、政府広報から、地域を案内し、交通システムで迎賓し、校園でアイデンティティを説明する文化的役割へ。[^1] [^2] [^3]
 
-### Historical Depth: From "Datong Baby" to the Year of Pro Baseball
+マスコットの歴史は、「抽象的な機関いかに人間の言葉になるか」の歴史でもある。企業、観光署、都市政府、捷運公司、学校、サッカー代表隊、市場処は、本来、制度、標識、公文書で語る。キャラクターがこれらの機関を、名前があり、動作があり、写真に撮れ、記憶できる対象に変える。この翻訳が必ずしも成功するとは限らないが、人が近づける入り口を提供する。[^1] [^2] [^4] [^8]
 
-Taiwan's mascot culture did not emerge out of nowhere. As early as 1969, Datong Company created Taiwan's most representative corporate mascot, "Datong Baby" [^2], to promote color televisions. This small figurine wearing a helmet and holding an橄榄球 (American football) was not only a corporate identity but also became a symbol of family prosperity in Taiwan during the 1970s.
+![ツァイチーアヒルとヨウチーアヒル、台南市市場処公式マスコット](https://upload.wikimedia.org/wikipedia/commons/d/dd/%E8%8F%9C%E5%A5%87%E9%B4%A8Tsh%C3%A0i-tsh%C4%AB-%C3%A1.jpg)
 
-By 1990, the opening of Taiwan's first year of professional baseball saw four teams—Brother Elephants, Sanshang Tigers, Uni-Lions, and Wellcome Dragons—enter the field led by their respective mascots, pioneering the era of sports mascots [^3]. However, early mascots mostly served as "gifts" or "ornaments," lacking complete story backgrounds and world-building settings.
+_台南市市場処公式マスコット：左がヨウチーアヒル、右がツァイチーアヒル。写真：葉泯萱／台南市政府新聞及国際関係処、台南市政府 Government Website Open Information Announcement に基づき使用、出典「台南市政府」を表示必須。_[^4]
 
-### Bear Obsession: Taiwan's Unique Black Bear Mania
+## まず一匹の本当の熊から語ろう
 
-In Taiwan, if you don't know what mascot to design, choosing a black bear is usually the safe bet. Statistics show that Taiwan has created dozens of black bear mascots from different industries that have no blood relation but coexist simultaneously [^4]. From Taipei Universiade's "Bravo Bear," Kaohsiung City's "Kaohsiung Bear," V Air's "V Bear," to Ningxia Night Market's "Ningxia Bear," black bears have become a totem in Taiwan's collective consciousness.
+[台湾黒熊](/ja/nature/taiwanese-black-bear/)は台湾固有のツキノワグマ亜種であり、玉山国家公園の英文資料で絶滅危惧野生動物とされる。胸のV字斑紋が識別しやすく、保育対象であると同時にデザイン語彙にもなった：デザイナーは黒い体、丸い耳、V字の胸を借用し、観客に即座に「台湾」を連想させられる。[^5]
 
-However, this "collective obsession" also brought a crisis of辨识度 (recognizability). In the 2016 island-wide mascot PK battle, Kaohsiung alone sent three different bears, making it difficult for the audience to distinguish the difference between "GaoGao Bear" and "Kaohsiung Bear" [^4].
+玉山国家公園の資料によると、台湾黒熊は黄白色のV字または三日月形の胸斑を持つ。公式保育類野生動物名録にも台湾黒熊が陸域保育類野生動物として列記されている。これらの生物学的特徴が黒熊に高い視覚識別性を与えるが、「描きやすい」と「保育をすでに明確に伝えた」は別問題だ。[^5] [^6]
 
-📝 Curator's Note: When every bear looks like a "Taiwan Bear," they lose their uniqueness as a brand and become tools for one-off event appearances.
+ここには見落とされがちな距離がある。野生の熊が直面するのは生息地、人獣衝突、密猟リスク。マスコットの熊が直面するのは識別性、ライセンス、イベント出席、SNS交流。実在動物をキャラクター化すると親近感が生まれるが、保育議題を可愛い記号に平坦化する恐れもある。黒熊図案を見たとき、その生物としてのアイデンティティも同時に思い起こし、単なるデザインテンプレートとして扱わないことが望ましい。[^5] [^6]
 
-### Commercial Miracle: "Welfare Bear" and "Open Shogun" with Hundreds of Millions in Annual Revenue
+> 📝 **キュレーターノート：** 本物の熊は毎日ペルソナを経営する必要がない；マスコットはペルソナで人々にもう一度見てもらわねばならない。より難しいのは、見られた後、原型の真実の置かれた状況が消えてはならないことだ。
 
-Whether a mascot can "generate revenue" is a hard indicator for measuring its brand value. "Welfare Bear" from Fullmart (Quanlian Welfare Center) and "Open Shogun" from 7-Eleven are both backed by marketing genius Liu Hongzheng [^5].
+## 1969：大同ベイビーが企業を人間にした
 
-At its peak, "Open Shogun" brought in over 1 billion NTD in annual revenue for Unified Supermarket, with licensing scope even covering co-branded special cars and theme parks [^5]. "Welfare Bear," through the brainwashing hit song "Welfare Bear, Bear Welfare" and IP management of the Fruit Exploration Team, contributes approximately 200 to 300 million NTD in annual revenue to Fullmart [^6].
+大同ベイビーの鍵は「台湾最古」といった過度に単純化されやすいランキングではなく、企業アイデンティティを早期に、身体を持ち、姿勢があり、収集可能な物品にした点にある。1969年発売の初代キャラクターは、ヘルメットを被り、ラグビーボールを抱え、身に大同のブランド印を携えていた。贈答品として家庭に入り、ブランドが家電の外殻に留まらなくなった。[^1] [^7]
 
-Liu Hongzheng points out that the key to managing an IP lies in establishing a "worldview." For example, Welfare Bear is set as a boy with strong curiosity who dreams of becoming an exemplary store clerk, with blood type A, like the Fullmart logo [^5].
+大同公司公式資料によれば、民国58年（1969年）より、大同公司家電製品購入満1万元で大同ベイビー1体を贈呈。赤いヘルメット、ラグビーボール、プラスチック素材が、大同が当時伝えようとしたチームワーク、堅忍不抜の耐久性、サービス精神を具体的に凝縮していた。[^1]
 
-### Political Life: "Bravo Bear" Testifying in the Council
+大同ベイビーが家庭に入ると、ブランドと消費者の心理的距離が変わった。テレビ、冷蔵庫、電気鍋はリビングの機能家電だが、大同ベイビーは撫でられ、飾られ、保存される感情的な物品だ。企業アイデンティティは「商標を見る」から「家にそれがいる」へ転換した。[^1]
 
-When mascots enter the public sector, they are no longer just cute plush toys but "political beings" that must face scrutiny of public fund efficiency. Taipei City Government's mascot "Bravo Bear" (Bravo) is the most representative case.
+大同ベイビーの胸の数字、頭頂の銭穴、両足と手に持つラグビーボールにも、公式が企業内部的意味を与えた：胸の数字は大同創業年数、頭頂の銭穴は倹約精神、両足は着実な歩み、ラグビーボールは顧客に奉仕し、艱難を厭わない仕事の姿勢。これらの解釈が必ずしも全消費者の実感と一致するとは限らないが、企業がいかにキャラクターに来歴を書き込んだかの証拠を残している。[^1]
 
-In 2018, the Taipei City Government's Bureau of Cultural Affairs spent 1.13 million NTD to apply for trademark registration, "micro-plastically" transforming the original "Gold Medal Bravo Bear" into an "Ocean Bravo Bear," which sparked fierce questioning in the council. Councilors questioned whether "micro-plastic surgery" was a bureaucratic bad habit, even sarcastically saying: "Why have you become so ugly?" [^7][^8].
+この手法は後に多くの企業や公共機関に継承された：抽象的な会社、都市、イベントを、門口で迎賓し、シールに登場し、子供に抱き去られるキャラクターに託す。マスコットは thus 短期的にイベントを焦点化し、長期的に親近感を蓄積する二つの時間スケールを持つ。[^1] [^7]
 
-Additionally, Bravo Bear's budget-to-revenue ratio often becomes a focal point. In 2024, councilors questioned that Bravo Bear's annual marketing and maintenance budget exceeds 11 million NTD, while the annual revenue from licensing fees and appearance fees is only about 400,000 NTD, jokingly calling it a "money-losing product" [^9][^10].
+> 📝 **キュレーターノート：** 企業マスコットの最も早い競争は、誰がより萌えているかではなく、誰がリビングの小さな一角を先に確保できるかだ。
 
-📝 Curator's Note: The sorrow of public sector mascots lies in their struggle between "city image" and "budget efficiency." When a mascot's monthly salary (converted from budget) is higher than that of city officials, its cuteness becomes a political original sin.
+## 1990：プロ野球元年が球団をトーテムにした
 
-### Hongfu: The Century-Old Fortune-Bringing Messenger of Ximending Red House
+1990年3月17日、中華職棒元年が開幕、兄弟象、三商虎、統一獅、味全龍の4創始球団がすべて動物を名に冠し、球団アイデンティティを具体的な一匹の動物に直接結びつけた。[^22]
 
-Compared to the political pressure on public sector mascots, Ximending Red House's "Hongfu" demonstrates how to transform history into cute cultural assets. "Hongfu," which made its debut in 2024, is a red fox with a lively expression wearing the horizontal frieze of the Red House building [^11].
+スポーツマスコットと企業贈答品は全く異なる。大同ベイビーが企業の信用と耐久の約束を代表するのに対し、プロ球団のマスコットは毎週ファンの勝負感情、本拠地動員、コミュニティ帰属を担わねばならない。象、虎、獅子、龍はまずユニフォーム胸の標識であり、後に球場脇を歩き、応援を煽る着ぐるみへと成長した。[^22]
 
-Hongfu's design is not imagined out of thin air; its inspiration comes from the "Taipei Inari Shrine" next to Ximending Market (now Ximending Red House) during the Japanese colonial period [^12]. As the messenger of the Inari God, it was transformed into the Red House's "Reception Minister." The white horizontal band on its body echoes the red-and-white pebble wash characteristics of the Red House building [^13].
+4種の動物はファンの世代記憶の担い手にもなった。スタンドで雰囲気を盛り上げるだけでなく、球団グッズ、ファン専用応援グッズ、世代共通記憶の核心担体となった。球団の勝敗は一時的だが、スタンドでキャラクターが喚起した帰属感は、ファンと共に数十年を歩む。[^22]
 
-📝 Curator's Note: Hongfu's success lies in "historical research." It is not just a fox but a carrier of the Red House's century-old history. Through the settings of "fortune-bringing" and "sustainability," it successfully connects ancient monuments with modern cultural and creative industries.
+> 📝 **キュレーターノート：** スポーツマスコットは家電を売らず、風景を売らない。毎週球場へ足を運ぶときの「我々は同じチームだ」という帰属を売るのだ。
 
-### The Ugluer, The More Loved: The Counterattack of "Ugly-Cute" in B-Class Attractions
+## 2013—2017：黒熊がブランドから出て、都市のキャラクターになった
 
-In the flood of pursuing cuteness, a group of mascots goes against the grain, carving out a path through "bizarre" and "ugly-cute" aesthetics. The most famous case is Tainan Beimen's "Milkfish Boy," whose black eyes and eerie smile were rated by netizens as "nightmare level," so ugly that it even appeared on the US talk show _Last Week Tonight_ [^14][^15].
+オー熊の設定は、公部門の言語をキャラクタ言語に翻訳する演習のようだ。交通部観光署公式ページでは「スーパー任務組組長」と書かれ、2013年12月3日スタンプリリース、2014年6月3日宣誓就任などの経歴が列記される。白いVネック、オレンジのマント、観光署の文字が、台湾黒熊の原型を観光任務に接続する。[^2]
 
-Penghu is even a stronghold for ugly-cute mascots. From "Pearl Little Child" and "Chengqian Fresh Oyster" to "Bikini Clownfish," these landmarks with a strong plastic feel and bizarre shapes, although heavily criticized upon their debut, unexpectedly triggered a check-in craze [^15].
+オー熊のキャラ設定には誕生日、職務、性格、服装、日常活動まで含まれる。これらのデータは一見軽いが、実際には「観光署」という行政機関を、一人称で語れるキャラクターに転換している。公式コンテンツが政策用語から「今日私はどこへ行く」という口調へ移ると、読者が受け取るのは機関名ではなく、行程を持つ案内人だ。[^2]
 
-### Mr. Fish Head: The "Cross-Section" Aesthetics That Went Viral in Japan
+ブラボの軌跡はより都市イベントに近い。台北市政府関連公式資料によると、ブラボは2017台北ユニバーシアードで宣伝大使を務め、大会終了後もファンと商品需要を蓄積。2017年9月20日、台北市政府が正式にブラボを市府マスコットに招聘。[^3]
 
-Tainan Tourism Mascot "Mr. Fish Head" (SABABOY) demonstrates how to go international through "bizarre" aesthetics. Designed by illustrator Marco Chen Yu-ren, this mascot has a cute smile on the front and an extremely realistic fish head cross-section on the back [^16].
+![ブラボと陽明山国家公園来訪者](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Bravo_and_visitors_in_Yangmingshan_National_Park_20160124b.jpg/500px-Bravo_and_visitors_in_Yangmingshan_National_Park_20160124b.jpg)
 
-In June 2024, a Japanese netizen shared a photo of Mr. Fish Head's back on X (formerly Twitter), triggering over 5 million visits [^17]. This "bold and visually striking contrast cuteness" made Mr. Fish Head go viral in Japan, becoming a surprise weapon for Tainan tourism on international social media.
+_2016年1月、2017台北ユニバーシアードマスコットのブラボと陽明山国家公園来訪者。写真：Chi-Hung Lin／Flickr、CC BY-SA 2.0。_[^8]
 
-### Bobo Pigeon: The Soft-Cute Comeback of an Old Public Sector Brand
+ブラボは閉幕翌日に職業安定所へ履歴書を提出し、一度きりの大型イベントに鋭い問いを残した：閉幕式が散会し、熱が冷めたとき、キャラクターはどう都市生活の中で持続可能な居場所を見つけるか？ 市府は後に「TPE」金メダルを授与し、専用オフィスを配置し、ブラボをイベントキャラクターから市政・観光活動の公共イメージへ転換させた。[^3]
 
-Contrary to the bizarre route, China Post's "Bobo Pigeon" demonstrates how to rejuvenate an old public sector brand through precise brand management. Bobo Pigeon was born around 2015; its round shape and the setting of being a Pisces who "hates being called fat" quickly captured hearts on social media platforms [^18][^19].
+## なぜ黒熊が繰り返し登場するのか
 
-In 2024, the "Bobo Pigeon Mailbox Stamp Doll" gift box co-launched by China Post and Yih Wei was sold out in just 10 minutes [^20]. Bobo Pigeon's success lies in breaking away from the stiff civil servant image of traditional "Postal Babies" and instead pursuing a "soft-cute" and "lifestyle" feel.
+黒熊が公部門デザインの第一選択肢となり続ける理由は、3つの明確な視覚効率を備えるからだ：台湾固有種との連想が強く、胸のV字で即座に識別でき、丸顔とずんぐりした体型が着ぐるみ、空気膨張装置、通信スタンプへ極めて容易に転換できる。前二項は黒熊の生物的特徴とオー熊設定で裏付けられ、後一項はデザイン分析に属し、公式統計を装ってはならない。[^2] [^5]
 
-### From the Death of "Ah Long" to the Pun Redemption of "Caiqi Duck"
+しかし、「黒熊を選べば間違いない」という安全牌思考が、急速に識別性飽和の危機を招いた。全台の公私の部門が相次いで血縁関係のない数十体の黒熊キャラクターを生み出し、観光署「オー熊」、台北市「ブラボ」、高雄市「高雄熊」、威航「威熊」、寧夏夜市「寧夏熊」など。林承毅は冗談めかして、高雄だけで3体占め、「高高熊」と「高雄熊」の違いを誰が分けられるか、と。[^23]
 
-The vitality of a mascot often comes from the "authenticity" behind it. In May 2024, the National Taiwan Literature Museum's mascot "Ah Long" was embroiled in a plagiarism controversy, ending with an apology from the Literature Museum and the prosecution of the outsourcing vendor [^21][^22]. This "Death of Ah Long" gave Taiwan's public sector a heavy lesson: mascots cannot just be outsourced shells; they must possess legal and creative souls.
+サービスデザイナーの林承毅は分析した：すべての熊が「台湾黒熊」の総称のように見えると、キャラクターは独立ブランドとしての記憶点を失い、一次性イベントの出張ツールに堕しやすい。キャラクターが具体的な都市任務と長期的な日常運営に置かれたときのみ、「また一匹の黒熊」から突囲できる。[^23]
 
-In contrast, Tainan Market Mascot "Caiqi Duck," which debuted in 2021 but went viral at the end of 2024, took another path. This duck wearing an apron and topped with leaves takes its name from the Hokkien pun for "Vegetable Market" [^23].
+| 設計層次   | 読者がまず見るもの                       | さらに補うべき内容                          |
+| ---------- | ---------------------------------------- | ------------------------------------------- |
+| 生物原型   | 黒い体、V字胸、台湾黒熊                  | 保育脈絡と真実の生息地[^5] [^6]             |
+| キャラ識別 | 名前、口癖、服装、動作                   | 異なる媒体で一貫性を保てるか[^2]            |
+| 公共任務   | 観光、イベント、都市活動                 | 任務終了後も生活シーンがあるか[^3]          |
+| IP経営     | グッズ、コラボ、ライセンス、コミュニティ | 収入ルートと公共効果を分けて計算[^15] [^16] |
 
-"I'm not a potato, I'm not a kiwi, I'm Caiqi Duck." This呆萌 (dumb-cute) self-introduction, combined with Taiwanese people's obsession with puns, caused this once-obscure duck to go viral on social media platforms like Threads [^24].
+> 📝 **キュレーターノート：** 原型は「どの類か」を認識させるだけ、キャラクターが「どの一匹か」を記憶させる。すべての熊が「台湾黒熊」の総称のように見えるとき、彼女らは独自性を失い、イベント展示台に成り下がる。
 
-### Data and Current Status: The Economics of Mascots
+## 交通システムがマスコットを路面へ連れ出した
 
-| Mascot             | Birth Year | Affiliated Unit         | Commercial Value / Influence                                                              |
-| :----------------- | :--------- | :---------------------- | :---------------------------------------------------------------------------------------- |
-| Open Shogun        | 2004       | 7-Eleven                | Peak annual revenue exceeded 1 billion NTD [^5]                                           |
-| Welfare Bear       | 2014       | Fullmart Welfare Center | Contributes approx. 200-300 million NTD in annual revenue [^6]                            |
-| Bravo Bear (Bravo) | 2016       | Taipei City Government  | Annual marketing budget exceeds 10 million, licensing revenue approx. 400k [^9]           |
-| Hongfu             | 2024       | Ximending Red House     | Combines ESG and digital tech, driving the transformation of a century-old monument [^11] |
-| Mr. Fish Head      | 2018       | Tainan Tourism Bureau   | Single X post by Japanese netizens exceeded 5 million visits [^17]                        |
-| Caiqi Duck         | 2021       | Tainan City Market Dept | Drives the upgrade of Tainan traditional market tourism [^25]                             |
+高雄捷運のマスコットは従来の観光パンフレットの静的展示から出て、直接ライトレールホームと交通交差点へ。高雄捷運2015年公式ニュースリリースによれば、HAPPIハピとU!FUヨンフーが高雄市初のマスコット大戦期間中、交通シーンで票を募った。マスコットはthus交通システムと市民が相互作用する現場メディアとなった。[^9]
 
-### Challenges and Outlook: Refusing to Be "Passersby"
+![高雄捷運マスコット ハピとヨンフー](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/%E9%AB%98%E9%9B%84%E6%8D%B7%E9%81%8B%E5%90%89%E7%A5%A5%E7%89%A9_IMG_0907.jpg/960px-%E9%AB%98%E9%9B%84%E6%8D%B7%E9%81%8B%E5%90%89%E7%A5%A5%E7%89%A9_IMG_0907.jpg)
 
-Japan's mascot industry once rose to a "Mascot Extermination Stage" due to oversaturation, where only characters with strong memory points could survive [^4]. Taiwan currently faces similar challenges: many public sector budgets are spent on one-time designs, lacking long-term brand management.
+_高雄捷運マスコット ハピ（黄）とヨンフー（青）が高雄都市マスコットPK戦で。写真：Tze Chiang Hao、CC BY-SA 4.0。_[^10]
 
-"For a mascot to succeed, the key is not whether it is cute, but whether it is 'authentic'," points out service designer Lin Cheng-yi. Mascots should be an important brand identifier, not just a propaganda tool [^4].
+高雄捷運現行キャラ専区にはヨンフー一家も列記：熊パパのヨンフー、熊ママのバオジュ、熊姉さんのピンピン、熊弟のアンアン、プレーリードッグのハピ。同専区は「高捷少女」と後続キャラシリーズも保存。これは交通キャラクターが一次性の装飾ではなく、運営テーマ、受け手、媒体に合わせて変形し得ることを示す。[^4]
 
-Taiwan's future mascots may no longer need more black bears, but rather more like "Caiqi Duck" or "Bobo Pigeon," which make people smile when encountered on the street and want to tell friends: "Hey, look at this one, so Taiwanese!"
+この事例は、マスコットの機能が必ずしも「都市を売る」ことではないことを思い出させる。交通施設の距離感を下げ、駅、ライトレール、公共イベントに、写真に撮られ、投票され、記憶される顔を加える。キャラクターは交通情報を置き換えないが、交通システムに感情的な入り口を一層加える。[^4] [^9]
 
----
+交通システムのキャラクターには越えてはならない一線がある：可愛さで正確さを置き換えてはならない。班次、運賃、乗換、安全情報は依然として明確な文字と標識を必要とする。キャラクターの最良の位置は、人々が進んでルールを読みたくなるところであり、装飾でルールを覆い隠すところではない。これが公共サービスキャラクターと純商業キャラクターの決定的差異だ。[^4]
 
-## Further Reading
+## 一つの県、一匹のレオパードキャット、一つの諧音
 
-- **[Taiwan Variety Shows](/culture/台灣綜藝節目)** — Role design and audience interaction mechanisms in the entertainment industry
-- **[Taiwan Memes](/ja/culture/taiwan-meme-culture)** — How puns, ugly-cute, and contrast cuteness spread on the Taiwanese internet
-- **[Fullmart Welfare Center](/ja/economy/pxmart-supermarket)** — Brand management and IP strategy behind Welfare Bear
-- **[Taiwan Black Bear](/ja/nature/taiwanese-black-bear)** — Biological prototype and conservation issues as a cultural totem
+苗栗県政府が保育類動物のレオパードキャットをマオリーニャオの原型とし、丸い目、丸い体、髭、黄金色で、親しみやすい地方マスコットに仕立てた。公式ニュースにも、マオリーニャオが投票期間中に下鄉し住民と交流、支持を訴えたと記録される。この下鄉交流でマオリーニャオは公式広報品の枠を超え、全県住民が熱烈に参加し、認同を投じる一員となった。[^11]
 
-## References
+![苗栗県マスコット マオリーニャオ、台湾高鐵苗栗駅にて](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Miaolimiao_at_THSR_Miaoli_Station.jpg/960px-Miaolimiao_at_THSR_Miaoli_Station.jpg)
 
-[^1]: [Taiwan's Tourism Representative Bear - Ministry of Justice Investigation Bureau](https://www.mjib.gov.tw/FileUploads/eBooks/56089fdb1ae74777a1fec51b3e709ffe/Section_file/b264b7d3783b41c6967752c57c1d35a9.pdf) — Ministry of Justice Investigation Bureau e-book, introducing the background of OhBear's birth in 2013
+_苗栗県マスコット マオリーニャオ、台湾高鐵苗栗駅大ロビーにて。写真：Foxy1219、CC BY-SA 4.0。_[^12]
 
-[^2]: [Exploring Symbolism and Transplant Traces from the "Corporate Doll" Image: A Case Study of Datong Baby - Zheng Xiuru](https://sun.noonspace.com/w28NoonSpace/juming/MsgInfo/%E3%80%8A%E9%9B%95%E5%A1%91%E7%A0%94%E7%A9%B6%E3%80%8B21-04%E9%84%AD%E7%A7%80%E5%A6%82.pdf) — Academic paper exploring the symbolic significance of Datong Baby's birth in 1969 as a corporate mascot
+マオリーニャオの設計は同時に3層の意味を重ねる：苗栗の旧名「貓裏」の音声連想、レオパードキャット保育の地方生態、高鐵駅など旅客が通る公共空間。ブラボと異なり、大型国際イベントを起点としない。県名、動物、観光ルートを一つに結ぶ地方案内人のようだ。[^11] [^12]
 
-[^3]: [Witnessing History and Reviewing Important Moments in Taiwan: 1990 Year of Pro Baseball - United Daily News](https://udn70.udn.com/story/1990) — Record of the opening of Taiwan's first year of professional baseball in 1990, with mascots from four teams: Brother Elephants, Sanshang Tigers, Uni-Lions, and Wellcome Dragons
+マオリーニャオの諧音命名には具体的な地方考量が込められる：苗栗旧名「貓裏」の読みを親しみやすい挨拶に転じ、レオパードキャットのイメージで在地生態環境を繋ぎ、観光マーケティングと生物保育を同一キャラクター上で交わらせる。[^11]
 
-[^4]: [Mascot Successology (Part 2): Taiwan's Unique "Black Bear" Obsession - The News Lens](https://www.thenewslens.com/article/80404) — Service designer Lin Cheng-yi's perspective, analyzing the saturation of Taiwan's black bear mascots and the crisis of brand uniqueness
+## 校園マスコット：学校校章をキャラクターに翻訳
 
-[^5]: [The Man Who Created Open Shogun and Welfare Bear: Marketing Genius Liu Hongzheng Teaches 4 Steps to IP Success - Civil Affairs Magazine](https://www.cw.com.tw/article/5137665) — Liu Hongzheng interview, Open Shogun's peak annual revenue exceeded 1 billion NTD, methodology for establishing IP worldviews
+国立台湾科技大学のTiger Duckは、虎坂守ベンジャミンと鴨のロージー・ロッシーで構成される。校方説明によれば、名前は台科大校章のスパナとネジから来て、実務実作の精神を代表する。Tiger Duckは学校識別度を高め、学校と大衆の距離を縮めることも期待される。[^13]
 
-[^6]: [Father of Welfare Bear Decodes IP Secrets: Contributes Approx. 2-300 Million NTD in Annual Revenue - Yahoo News](https://tw.news.yahoo.com/%E5%85%A8%E8%81%AF-%E6%94%AF%E6%8F%B4%E6%94%B6%E9%8A%80-%E6%93%816-2%E8%90%AC%E4%BA%BA%E8%B7%A8%E5%B9%B4%E8%81%B2%E5%8B%A2-%E7%A6%8F%E5%88%A9%E7%86%8A%E3%80%81Open%E5%B0%87%E7%88%B6%E8%A7E3%E5%AF%86IP%E7%A7%98%E8%A8%A3-060430739.html) — Welfare Bear contributes approx. 200-300 million NTD in annual revenue to Fullmart annually
+![国立台湾科技大学校園マスコット Tiger Duck](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/%E6%9B%BE%E6%B3%B0%E6%98%8E_%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8_%E5%90%89%E7%A5%A5%E7%89%A9.jpg/960px-%E6%9B%BE%E6%B3%B0%E6%98%8E_%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E5%A4%A7_%E5%90%89%E7%A5%A5%E7%89%A9.jpg)
 
-[^7]: [Bravo Bear Appears in Council After Plastic Surgery, Councilors Sarcastically Ask: Why Have You Become So Ugly? - Liberty Times Net](https://news.ltn.com.tw/news/politics/breakingnews/2411188) — Council questioning of the 1.13 million NTD plastic surgery case for Bravo Bear
+_国立台湾科技大学校園マスコット映像。写真：Taiming2003、CC BY-SA 4.0。_[^14]
 
-[^8]: [Rebranding Causes Twins, 20 Taipei City Councilors Sign Petition to Support Gold Medal Bravo Bear - NTDTV Asia](https://www.ntdtv.com.tw/b5/20180503/video/220628.html) — 20 Taipei City Councilors signed a petition opposing the rebranding of Bravo Bear
+校園キャラクターの任務は都市キャラクターと完全には同一ではない。台湾全体を代表する必要もなく、すべての訪問者を観光客に変える必要もない。まず学生、卒業生、教職員が校章の外に、より語れ、写真に撮れ、活動に参加できる共通イメージを見つけられることだ。スパナとネジが虎と鴨に転換されるのは、制度言語を校園日常に翻訳する例だ。[^13]
 
-[^9]: [Bravo Bear's Annual Revenue 360k Makes It a Money-Losing Product? Taipei Bureau of Cultural Affairs: Evaluating Not to Collect Licensing Fees - LINE TODAY](https://today.line.me/tw/v3/article/60W8k1a) — Controversy over Bravo Bear's annual revenue of 360k vs. 10-million-level marketing budget
+Tiger Duckには校園生活のユーモアも搭載される：校方が「我们在基隆路」（我々は基隆路にいる）でユーモアスタンプをリリースし、マスコットが学校識別を確立するだけでなく、日常の校園地理とコミュニティ交流に共通話題を残した。[^13]
 
-[^10]: [Bravo Bear's Marketing Expenses Allocated Nearly 16 Million Over Three Years - Hsu Chiao-Hsin Facebook](https://www.facebook.com/HsuChiaoHsin/posts/2107418992692689/) — Councilor Hsu Chiao-Hsin disclosed that Bravo Bear's marketing expenses over three years were nearly 16 million NTD
+## キャラクターは着ぐるみの中だけにいない
 
-[^11]: [Ximending Red House Reception Minister "Hongfu" Makes Debut - Yahoo Finance](https://tw.stock.yahoo.com/news/%E8%A5%BF%E9%96%80%E7%B4%85%E6%A8%93%E6%8E%A5%E5%BE%85%E9%83%A8%E9%95%B7-%E7%B4%85%E7%A6%8F-%E9%A6%96%E5%BA%A6%E4%BA%AE%E7%9B%B8-%E6%94%9C%E6%89%8B%E5%B7%A5%E8%97%9D%E4%B8%AD%E5%BF%83%E5%B1%95%E9%96%8B%E6%B0%B8%E7%BA%8D%E8%A1%8C%E5%8B%95-064125170.html) — Report on Ximending Red House's "Hongfu" making its debut in 2024
+マスコットは着ぐるみを離れ、校園階段、駅ロビー、商店ショーウィンドウ、街区壁面へも入る。苗栗三義建中国小の3D彩繪階段は魏栄欣と蕭章の合作で、石虎、勝興駅、龍騰断橋、木彫ダルマが描かれる。単一の公式マスコット人形ではないが、地方キャラクターと景点シンボルがいかに公共空間に入り、人々が身体で一段の地方物語を歩めるかを示す。[^15]
 
-[^12]: [Why Choose a Fox as a Mascot? Originating from Taipei Inari Shrine - M1DOKU](https://m1doku.com/theredhouseesg/) — Explanation of Hongfu's design originating from the Taipei Inari Shrine during the Japanese colonial period
+![建中国小3D彩繪階段と石虎キャラクター](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/%E5%BB%BA%E4%B8%AD%E5%9C%8B%E5%B0%8F3D%E5%BD%A9%E7%B9%AA%E9%9A%8E%E6%A2%AF.jpg/500px-%E5%BB%BA%E4%B8%AD%E5%9C%8B%E5%B0%8F3D%E5%BD%A9%E7%B9%AA%E9%9A%8E%E6%A2%AF.jpg)
 
-[^13]: [Ximending Red House Original Character "Hongfu" Appears - Tanukii_don X](https://x.com/Tanukii_don/status/1820409634022437272) — Hongfu's design details (Red House horizontal frieze, red-white pebble wash)
+_苗栗三義建中国小3D彩繪階段、石虎、勝興駅、龍騰断橋、木彫ダルマを含む。写真：Paddy.hsiao、CC BY 4.0。これは地方公共芸術とキャラクターシンボルの事例であり、校方マスコットと誤称しない。_[^15]
 
-[^14]: [The Origin of Milkfish Boy! Is Ugliness Intentional? - Haha Taiwan Street Interview](https://www.youtube.com/watch?v=Qx6zPGaiNSo) — Designer of Milkfish Boy's YouTube street interview stating "ugliness is intentional"
+したがって、地方キャラクターの成否を判断するのに、人形があるかだけでは不十分だ。一本のルート、一カ所の撮影スポット、一つの校園入り口、あるいは人々が進んで立ち止まり、地方を理解しようとする視覚的暗号になれるかも問わねばならない。公共空間のキャラクターに完全な人設は必須ではないが、歩き体験できる一段の地方経験と関係を持たねばならない。[^15]
 
-[^15]: [Taiwan's "9 Major Ugly Mascots" Make Netizens Laugh - Up Media](https://www.upmedia.mg/tw/focus/comprehensive/171257) — List of Taiwan's 9 major ugly mascots, including Penghu Pearl Little Child, Chengqian Fresh Oyster, etc.
+## 国家隊の隊章の外側：ティモン TYMON
 
-[^16]: [Who Is Mr. Fish Head? Revealing the True Identities of Tainan's Viral Mascot and Major Domain Influencers - Uptogo](https://uptogo.com.tw/%E5%A8%9B%E6%A8%82/%E5%90%8D%E4%BA%BA/%E9%AD%9A%E9%A0%AD%E6%98%AF%E8%AA%B0%EF%BC%9F/) — Introduction to Mr. Fish Head (SABABOY) designer Chen Yu-ren (Marco)
+ティモン TYMONはチャイニーズ・タイペイ各級国家サッカー代表隊のマスコットだ。学校や交通システムのキャラクターと比べ、国家隊マスコットが扱うのはファン動員、試合現場、代表隊の感情凝集。すべてのサッカールールを説明する必要はないが、選手入場、ファン記念撮影、グッズの中で、隊章より表情豊かな入り口を提供せねばならない。[^16]
 
-[^17]: [Viral! Tainan's "Mr. Fish Head" Bizarre Cross-Section Attracts 5 Million Japanese Visitors - Yahoo News](https://tw.news.yahoo.com/%E7%B4%85%E4%BA%86-%E5%8F%B0%E5%8D%97-%E9%AD%9A%E9%A0%AD%E5%90%9B-%E7%8D%B5%E5%A5%87%E5%89%96%E9%9D%A2%E5%9C%96-%E5%90%B8500%E8%90%AC%E6%97%A5%E4%BA%BA%E6%9C%9D%E8%81%96-072400851.html) — Japanese netizen shared Mr. Fish Head's cross-section photo, single X post exceeded 5 million visits
+ファンがスタンドでタオルを振り、ユニフォームを着るとき、マスコットは抽象的な国家隊アイデンティティを、一緒に写真を撮り、ハイタッチできる実体に転換する。スポーツ現場でキャラクターが担うのは、熱情と帰属の具象化だ。[^16]
 
-[^18]: [Bobo Pigeon Is a Pisces! Hates Being Called Fat - China Post Facebook](https://www.facebook.com/shenhuihung/posts/771283382300866/) — China Post Facebook post, Bobo Pigeon's Pisces setting and "hates being called fat"
+国際大会の競技緊張に直面し、専属マスコットは台湾サッカー運動の識別標識を確立する。協会標識だけより、表情豊かなティモンの方がSNS中継、現場応援、記念品で流通しやすく、草の根普及とファン凝集のための日常的な感情の橋を架ける。[^16]
 
-[^19]: [Bobo Pigeon Seems to Have a Taboo About This Thing - Threads](https://www.threads.com/@chanskym/post/DHfJdXVSv2J/) — Threads community user's extended discussion about Bobo Pigeon
+## キャラクターIPの分水嶺：図案から日常へ
 
-[^20]: [Post Office Cute Series Small Puff Gift Box Goes Viral! Sold Out in 10 Minutes - MSN](https://www.msn.com/zh-tw/news/other/%E9%83%B5%E5%B1%80%E8%90%8C%E7%B3%BB%E5%B0%8F%E6%B3%A1%E8%8A%99%E7%A6%AE%E7%9B%92%E7%88%86%E7%B4%85-%E8%A9%90%E9%A8%99%E8%B6%81%E7%86%B1%E4%B8%8A%E7%B7%9A-%E4%B8%AD%E8%8F%AF%E9%83%B5%E6%94%BF%E6%80%A5%E7%A4%BA%E8%AD%A6/ar-AA20dW8Y) — Bobo Pigeon x Yih Wei co-branded mailbox stamp doll gift box sold out in 10 minutes
+企業マスコットがこの分水嶺を最もよく示す。天下雑誌報道によると、Open将は全盛期にキャラ運営マーケティングチームを置き、テーマ店、映画、バンドコラボ、コラボ特注車、テーマ館を手がけ、2014年にセブン-イレブンに10億元の売上をもたらしたとその商業ピークを描写。10億売上の背後にある鍵は、企業がキャラクターを真に、長期的なシフト運営、商品開発、常態維持を要する無形資産と見なした点にある。[^17]
 
-[^21]: [National Taiwan Literature Museum Mascot Plagiarism Incident - Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E6%96%87%E5%AD%B8%E9%A4%A8%E5%90%89%E7%A5%A5%E7%89%A9%E6%8A%84%E8%A5%B2%E4%BA%8B%E4%BB%B6) — Wikipedia entry: National Taiwan Literature Museum mascot "Ah Long" plagiarism incident (2024-05)
+同記事は[全聯福利中心](/ja/economy/pxmart-supermarket/)福利熊の誕生を2014年に置き、換購贈品、生鮮包装、戦略提携商品で売上を積み上げたと指摘。操盤手の言葉を引用し、果物包装変更の売上も「10億元の調子に達した」と。この口径は異なる商品と販売活動を含み、純粋なライセンス収入と直接等置できず、公共部門マスコットの出席収入とも硬直比較すべきではない。[^17]
 
-[^22]: [Literature Museum's "Ah Long" Plagiarism Incident, Northern Prosecutors Decide Not to Prosecute Chinese Illustrator - Yahoo News](https://tw.news.yahoo.com/%E7%8D%A8%E5%AE%B6-%E5%8F%B0%E6%96%87%E9%A4%A8-%E9%98%BF%E9%BE%8D-%E6%8A%84%E8%A5%B2%E4%BA%8B%E4%BB%B6%E5%8C%97%E6%AA%A2%E4%B8%8D%E8%B5%B7%E8%A8%B4-%E4%B8%AD%E5%9C%8B%E7%B9%AA%E5%B8%AB-223507967.html) — Follow-up on "Ah Long" plagiarism incident, Northern Prosecutors decide not to prosecute Chinese illustrator
+企業IPの真の門檻は、異なるシーンでキャラ性格を維持できるかだ。テーマ店は空間、コラボ商品は物品、映画とバンドコラボはコンテンツ、特注車は移動媒体。これらすべてがロゴだけを残すなら、キャラクターは商標へ逆戻りする。あらゆる媒体で読者が「これは同じキャラクターが違うことをしている」と認識できたとき、IPは生活を持ち始める。[^17]
 
-[^23]: [Cannot Live Without Puns! Tainan's "Caiqi Duck" Goes Viral, Attracting Thousands of Pilgrims - Yahoo News](https://tw.news.yahoo.com/%E4%B8%8D%E8%83%BD%E6%B2%92%E6%9C%89%E8%AB%A7%E9%9F%B3%E5%93%8F-%E5%8F%B0%E5%8D%97-%E8%8F%9C%E5%A5%87%E9%B4%A8-%E6%9A%B4%E7%B4%85%E5%BC%95%E8%90%AC%E4%BA%BA%E6%9C%9D%E8%81%96-055730860.html) — Report on "Caiqi Duck" puns and Tainan market mascot going viral
+中華郵政と義美のコラボ商品は、郵政マスコットのポポハトを包装に入れ、郵政をサービス機関から、収集、交換、贈答できる日常物品に変えた。この協力の文化的意義は、「郵差、郵筒、郵票」の外に、また一つ表情豊かなキャラ入り口を加えた点にある。[^18]
 
-[^24]: [Puns Have No Limits! Market Mascot "Caiqi Duck" Goes Viral - Sanli News Network](https://www.setn.com/News.aspx?NewsID=1536731) — Sanli News Network report on "Caiqi Duck" social media spread phenomenon
+| キャラクター     | 検証可能な経営シグナル                   | 直接推論できないこと                    |
+| ---------------- | ---------------------------------------- | --------------------------------------- |
+| Open将           | キャラチーム、テーマ店、コラボ、テーマ館 | 単一活動の売上＝キャラライセンス料[^17] |
+| 福利熊           | 換購贈品、生鮮包装、戦略提携             | 報道の10億＝毎年の純利[^17]             |
+| ポポハト         | 郵政と食品コラボ包装へ参入               | 一度のコラボ＝長期ブランド成功[^18]     |
+| ツァイチーアヒル | 59か所公有小売市場の集点活動を連結       | 参加人数＝市場売上成長[^3]              |
+| Tiger Duck       | 校章意象、校園識別、キャラ命名           | 一枚の校園写真＝キャラ普及度[^13] [^14] |
+| ティモン         | 国家隊、ファン、試合現場                 | キャラ露出＝球団競技成績[^16]           |
 
-[^25]: [Tainan's Cute Mascot "Caiqi Duck" Helps Upgrade Market Tourism - Threads](https://www.threads.com/@loveagrogirl/post/DVgePDBksKJ/) — Threads post: Tainan market tourism and the "Caiqi Duck" effect
+## 可愛さだけでは足りない：フィッシュヘッド君とツァイチーアヒル
+
+台南観光旅遊局のフィッシュヘッド君公式設定は直接的だ：台南沿海浅坪式漁塭で生まれたミルクフィッシュ、英文名Sababoy、使命は世界に台南を知らせること。キャラクターが「魚頭」を選び、魚全体でないことで、ミルクフィッシュを食卓の食材から、あちこち旅し都市を紹介する観光使者へ転換した。[^19]
+
+公式ページは意図的に、フィッシュヘッド君が振り返ると魚頭断面が見えると明記し、ただ可愛さを追求するマスコットと距離を置く。この設計は台湾地方食文化のユーモアに近い：まず丸く、萌え、親しみやすく感じさせ、少し獵奇的な背面で、この魚には自分の来歴があると思い出させる。この段落は公式キャラ資料の編集分析であり、ユーモア感をデザイナーの直接引用語として誤記しない。[^19]
+
+台南市政府別ニュースリリースでは、フィッシュヘッド君が2018年七股海鮮祭記者会で初お披露目、その後日本交流、観光プロモーション、球場、旅展に登場。2023年、市府が「フィッシュヘッド君の遊楽場」でテーマ装置展示を開催。これらのシーンでフィッシュヘッド君は単なる食材イメージではなく、人々を連れて地方を知らせる観光大使となった。[^20]
+
+観光大使として景点宣伝に焦点を当てるのとは異なり、ツァイチーアヒルは直接日常の菜市場に根を下ろす。台南市政府が2024年、市場処マスコット「ツァイチーアヒル」で「菜市仔、款物仔籃不住你集点鴨」活動を展開。市民が59か所の公有小売市場を巡り、[台湾の市場文化と伝統市場](/ja/lifestyle/taiwan-traditional-markets-and-market-culture/)の買い物日常と結合し、QRコード集点、チェックイン、グッズ交換で再び市場へ足を運ぶ。[^3]
+
+ツァイチーアヒルのキュレーションの深さは、マスコットを実際の市場案内インターフェースへ化した点にある：どこで買い物し、どう老市場を探索するかを市民に伝え、何気ない買い物を儀式感のある集点体験へ転換。キャラクターの「台味」はthus観察可能な具体的行動を持ち、単なる宣伝スローガンに留まらない。[^3]
+
+> 📝 **キュレーターノート：** フィッシュヘッド君が食材をキャラクターにし、ツァイチーアヒルが市場を任務にする；地方感が真に着地するとき、マスコットはあなたに次どこへ行くかを指示する。
+
+## 可愛さが現実に遭遇するとき：版権底線と醜萌の逆襲
+
+マスコットの生命力は往々にして背後の「真実性」から来る。2024年5月、国立台湾文学館実境解謎ゲームメインビジュアル「阿龍」が中国絵師作品の盗用を指摘され、館方はまず盗用なしと発表、翌日には委託業者提供の原創証拠が偽造と認め、公開謝罪し全面下架。この事件は公部門文創ガバナンスに警鐘を鳴らした：マスコットが労務標案下の使い捨て産物に堕すれば、侵権騒動が起きたとき消耗するのは、公共機関が長年積み上げた社会信頼だ。[^25]
+
+一方、精緻な可愛さを追求する外に、台湾地方空間には獵奇と反差を特徴とする「醜萌」群像も生えている。最も有名なのは台南北門の「ミルクフィッシュ君」、その真っ黒な大きな目と奇妙な笑顔が悪夢級ランドマークと評され、米国HBOトーク番組『Last Week Tonight with John Oliver』でも取り上げられ国際的話題となった。これら未修飾の地方造形が、意図せずクロスボーダー・コミュニティ伝播の異色風景となった。[^26]
+
+本島市鎮の特色造景に加え、澎湖の「真珠小童」、「城前鮮蚵」、「ビキニ小丑魚」などランドマークも、初登場時にはプラスチック感と美学論争を伴ったが、魔性のビジュアルでSNS上にチェックイン熱潮を巻き起こし、フィッシュヘッド君の断面趣味と共に台湾独自の「醜萌文化」と[台湾ミーム](/ja/culture/taiwan-meme-culture/)生態を描く。この常識を破る自嘲と反差は、在地クリエイターが日系精緻フレームから脱却しようとする草の根的試みを反映する。[^26] [^27]
+
+## 公共予算もマスコットを採点する
+
+企業キャラクターが売れなければ戦略を変えられる。公部門キャラクターが公費を使うとき、問題は一層増える。2018年、ブラボが商標と造型改版で113万元を支出し、議員が議会で質疑。この論争は一匹の熊が良いか悪いかだけでなく、公共機関がなぜ改めるか、何を解決するか、改めた後どう効果を評価するかを明確に説明したかにも関わる。[^21]
+
+したがって、公部門マスコットを評価するには、ライセンス料や単発出席費だけでは不十分。少なくとも3面向を同時に見るべきだ：資訊伝達を向上させたか、市民が都市活動に参加しやすくなったか、設計・維持コストを公開説明できるか。売上数字は手がかりにはなるが、単独で文化効果を代表し得ない。ここでの3面向は本文が提案する分析フレームであり、公式統計指標ではない。[^3] [^21]
+
+企業IPの運営実績に対しても、外界は同様に表面数字を貫き理性的に分解する必要がある。報道で言及される売上規模、商品販売数、換購門檻、ライセンス提携は、それぞれ異なる次元の商業命題に答える。それらをすべて足し合わせても、「キャラクター成功」を自動導出できない。キャラクターの商業効果、公共効果、文化記憶、保育コミュニケーションは、分けて記録し、それらがどう相互影響するかを説明するのが望ましい。[^5] [^17] [^18]
+
+## 「可愛い」を一つの方法論へ書き換える
+
+半世紀にわたる台湾マスコットの流変を振り返ると、共通の経験は硬直した体制を親しみやすい人間の言葉へ転換したことだ：大同ベイビーが企業に実体イメージを与え、オー熊が観光政策に対話口調を与え、高雄捷運が着ぐるみを通勤現場へ連れ出した。異なるシーンで、マスコット各々に専属の任務がある：マオリーニャオがレオパードキャット保育と県名を駅へ入れ、Tiger Duckが校章を校園パートナーへ転換し、ティモンが代表隊をファンがハイタッチできる実体にし、フィッシュヘッド君が在地食材を観光舞台へ押し上げ、ツァイチーアヒルが菜市場巡礼を任務を帯びた都市探索へ変えた。[^1] [^2] [^3] [^4] [^9] [^11] [^13] [^16] [^19]
+
+この道にはいくつかの現実的問題も残る。キャラクター原型は黒熊に過度集中していないか？ ライセンス収入、商品販売、公共効果が同一表に混ぜられていないか？ 公式キャラクターの画像ファイル、写真作品、派生商品は、権利境界を明確に標示しているか？ これらに答えがなければ、どれだけ可愛いキャラクターも一次性の背景美術に留まる恐れがある。[^5] [^17] [^21]
+
+画像権利は特に「公式」二字でごまかせない。本文が保留するWikimedia Commons画像は、それぞれCC BY、CC BY-SA、政府開放資料使用条件を標示するが、写真のライセンスはキャラクター商標、公式原画、派生商品が自由使用可能であることを意味しない。記事はキャラクターを展示できるが、投稿や再製時には撮影者、ライセンス条項、商標、政府開放資料公告を逐一確認する必要がある。[^4] [^8] [^10] [^12] [^14] [^15] [^16]
+
+読者にとって、次に街でマスコットに出会ったら、一つ多く問いかけてほしい：それは誰の地方を代表し、誰のために何の任務を果たすのか？ 答えが一つの市場、一つの食べ物、一つの駅、一つの学校、一つの試合、一段の保育記憶へ戻れるなら、キャラクターに生き残る機会がある。生活に落ちてこそ、マスコットはイベント宣伝道具の躯殻を脱ぎ、台湾が世界へ語りかける生きた一つの方式になれる。[^3] [^4] [^5]
+
+## 延伸閱讀
+
+- [**台湾ミーム**](/ja/culture/taiwan-meme-culture) — 諧音、醜萌、反差がいかにSNSで流動するか
+
+- [**全聯福利中心**](/ja/economy/pxmart-supermarket) — 福利熊と企業IPの日常経営
+
+- [**台湾の市場文化と伝統市場**](/ja/lifestyle/taiwan-traditional-markets-and-market-culture) — ツァイチーアヒルとヨウチーアヒルが繋ぐ市場、食べ物、都市生活
+
+- [**台湾黒熊**](/ja/nature/taiwanese-black-bear) — 文化トーテムの背後にある固有生物原型と真実の生息地
+
+## 參考資料
+
+[^1]: [大同公司：大同ベイビー](https://www.tatung.com/tw/info/about-mascot) — 詳細は元リンク本文資料参照
+
+[^2]: [交通部観光署：オー熊について](https://www.taiwan.net.tw/m1.aspx?sno=0040078) — 詳細は元リンク本文資料参照
+
+[^3]: [台南市政府：菜市仔、款物仔籃不住你集点鴨](https://www.tainan.gov.tw/news_content.aspx?n=13370&s=8704341) — 詳細は元リンク本文資料参照
+
+[^4]: [Wikimedia Commons：ツァイチーアヒル Tshài-tshī-á.jpg](https://commons.wikimedia.org/wiki/File:%E8%8F%9C%E5%A5%87%E9%B4%A8Tsh%C3%A0i-tsh%C4%AB-%C3%A1.jpg) — 詳細は元リンク本文資料参照
+
+[^5]: [Yushan National Park：Taiwan black bear information](https://www.ysnp.gov.tw/En/StaticPage/ScienceEn) — 詳細は元リンク本文資料参照
+
+[^6]: [玉山国家公園：保育類野生動物名録](https://www.ysnp.gov.tw/StaticPage/Directory) — 詳細は元リンク本文資料参照
+
+[^7]: [大同ベイビー研究：企業偶像イメージから記号と移植痕跡を探る](https://sun.noonspace.com/w28NoonSpace/juming/MsgInfo/%E3%80%8A%E9%9B%95%E5%A1%91%E7%A0%94%E7%A9%B6%E3%80%8B21-04%E9%84%AD%E7%A7%80%E5%A6%82.pdf) — 詳細は元リンク本文資料参照
+
+[^8]: [Wikimedia Commons：ブラボと陽明山国家公園来訪者](https://commons.wikimedia.org/wiki/File:Bravo_and_visitors_in_Yangmingshan_National_Park_20160124b.jpg) — 詳細は元リンク本文資料参照
+
+[^9]: [高雄捷運：高捷U!FUおよびHAPPIライトレール駅で萌えアピール](https://www.krtc.com.tw/Information/news_more?id=b696995bfaf9465fbe63a8e2e048d9bb) — 詳細は元リンク本文資料参照
+
+[^10]: [Wikimedia Commons：高雄捷運マスコット IMG 0907.jpg](https://commons.wikimedia.org/wiki/File:%E9%AB%98%E9%9B%84%E6%8D%B7%E9%81%8B%E5%90%89%E7%A5%A5%E7%89%A9_IMG_0907.jpg) — 詳細は元リンク本文資料参照
+
+[^11]: [苗栗県政府：郷親のマオリーニャオ支持に感謝](https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=196769) — 詳細は元リンク本文資料参照
+
+[^12]: [Wikimedia Commons：台湾高鐵苗栗駅のマオリーニャオ](https://commons.wikimedia.org/wiki/File:Miaolimiao_at_THSR_Miaoli_Station.jpg) — 詳細は元リンク本文資料参照
+
+[^13]: [国立台湾科技大学：Tiger Duck！台科大が専属校園マスコットを打造](https://www.ntust.edu.tw/p/404-1000-54016.php?Lang=zh-tw) — 詳細は元リンク本文資料参照
+
+[^14]: [Wikimedia Commons：曾泰明 国立台湾科技大学 マスコット](https://commons.wikimedia.org/wiki/File:%E6%9B%BE%E6%B3%B0%E6%98%8E_%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8_%E5%90%89%E7%A5%A5%E7%89%A9.jpg) — 詳細は元リンク本文資料参照
+
+[^15]: [Wikimedia Commons：建中国小3D彩繪階段](https://commons.wikimedia.org/wiki/File:%E5%BB%BA%E4%B8%AD%E5%9C%8B%E5%B0%8F3D%E5%BD%A9%E7%B9%AA%E9%9A%8E%E6%A2%AF.jpg) — 詳細は元リンク本文資料参照
+
+[^16]: [Wikimedia Commons：TYMON.jpg](https://commons.wikimedia.org/wiki/File:TYMON.jpg) — 詳細は元リンク本文資料参照
+
+[^17]: [天下雑誌：Open将、福利熊を打造した男](https://www.cw.com.tw/article/5137665) — 詳細は元リンク本文資料参照
+
+[^18]: [中華郵政：郵政130周年記念コラボ小泡芙ギフトボックス](https://www.post.gov.tw/post/internet/Group/index.jsp?ID=150101&news_no=73607&news_cat=11&group_name=&control_type=page) — 詳細は元リンク本文資料参照
+
+[^19]: [台南市政府観光旅遊局：フィッシュヘッド君紹介専区](https://www.twtainan.net/zh-tw/event/newsdetail/4155/) — 詳細は元リンク本文資料参照
+
+[^20]: [台南市政府：フィッシュヘッド君5周年「フィッシュヘッド君の遊楽場」](https://www.tainan.gov.tw/news_content.aspx?n=13370&s=8603620) — 詳細は元リンク本文資料参照
+
+[^21]: [自由時報：ブラボ整形に113万](https://news.ltn.com.tw/news/politics/breakingnews/2412456) — 自由時報報道
+
+[^22]: [中華職業棒球大聯盟 — ウィキペディア](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E8%8F%AF%E8%81%B7%E6%A5%AD%E6%A3%92%E7%90%83%E5%A4%A7%E8%81%AF%E7%9B%9F) — 1990年3月17日開幕、創始4球団：兄弟象、統一獅、味全龍、三商虎
+
+[^23]: [キーコメントネット：台湾特有の「黒熊」迷戀とブランド独自性危機](https://www.thenewslens.com/article/80404) — 林承毅が台湾黒熊マスコット飽和と2016年PK戦現象を分析
+
+[^25]: [実境解謎ゲームメインビジュアル「阿龍」中国盗用 台文館謝罪下架](https://www.cna.com.tw/news/acul/202405160327.aspx) — 中央社報道 2024年5月台文館阿龍盗用事件
+
+[^26]: [ミルクフィッシュ君、バナナ王まで醜くて国際へ！John Oliver：台湾は即捨てマスコットを愛する 彼が指摘する荒謬風景が全台に充満する鍵](https://esg.businesstoday.com.tw/article/category/180698/post/202110260024/) — 今周刊ESG永続台湾報道、2021年John Oliverが『上週今夜秀』で台南北門ミルクフィッシュ君等梗図を冒頭に台湾を語る
+
+[^27]: [澎湖だけで4つ「全台9大醜マスコットランドマーク」！うち2つは米国トークショーにも](https://www.ettoday.net/news/20230426/2486681.htm) — ETtoday報道 澎湖真珠小童、城前鮮蚵、ビキニ小丑魚、花枝妹が全台醜マスコットランドマーク入選

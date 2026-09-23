@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-23T13:19:25+08:00",
-    "zhCommitHead": "37d2d58d0",
+    "lastUpdated": "2026-09-23T13:55:06+08:00",
+    "zhCommitHead": "63962916c",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -68,8 +68,8 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 1005,
-        "stale": 40,
+        "fresh": 1006,
+        "stale": 39,
         "metadata_stale": 5,
         "missing": 74,
         "orphan": 0
@@ -84,16 +84,16 @@
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 1002,
-        "stale": 29,
+        "fresh": 1006,
+        "stale": 26,
         "metadata_stale": 4,
-        "missing": 89,
+        "missing": 88,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 1022,
-        "stale": 34,
+        "fresh": 1024,
+        "stale": 32,
         "metadata_stale": 8,
         "missing": 60,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 894,
+        "fresh": 896,
         "stale": 13,
         "metadata_stale": 6,
-        "missing": 211,
+        "missing": 209,
         "orphan": 0
       }
     },
@@ -9623,8 +9623,8 @@
           "sourceContentHash": "sha256:8cc6a4958817d23a",
           "sourceBodyHash": "sha256:b2944607fccb365d",
           "translatedAt": "2026-09-23T03:48:00.340150+00:00",
-          "translationLastCommit": "caea4fab",
-          "translationLastModified": "2026-07-29T02:34:42+08:00",
+          "translationLastCommit": "63962916",
+          "translationLastModified": "2026-09-23T13:19:26+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "bytes": 20744,
@@ -53419,18 +53419,18 @@
         "ar": {
           "path": "ar/Lifestyle/mascot-culture-in-taiwan.md",
           "translatedFrom": "Lifestyle/吉祥物.md",
-          "sourceCommitSha": "25b97c085",
-          "sourceContentHash": "sha256:cfeed87bcc86a207",
-          "sourceBodyHash": "sha256:761ccd3c7cd0d390",
-          "translatedAt": "2026-09-10T07:58:53+08:00",
+          "sourceCommitSha": "c0061c6df",
+          "sourceContentHash": "sha256:62a0444682031043",
+          "sourceBodyHash": "sha256:f0ac4cd7b2bc3b4c",
+          "translatedAt": "2026-09-23T11:48:01+08:00",
           "translationLastCommit": "9d168a59",
           "translationLastModified": "2026-09-10T19:11:46+08:00",
           "inferred": false,
-          "footnoteDefs": 21,
-          "bytes": 48799,
+          "footnoteDefs": 26,
+          "bytes": 57157,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (26→21)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Lifestyle/mascot-culture-in-taiwan.md",
@@ -67257,8 +67257,8 @@
           "sourceContentHash": "sha256:eca9dd4ad2636bc6",
           "sourceBodyHash": "sha256:bbdf3516f36f033d",
           "translatedAt": "2026-09-23T04:54:44.185331+00:00",
-          "translationLastCommit": "f1c371ea",
-          "translationLastModified": "2026-07-28T10:05:32+08:00",
+          "translationLastCommit": "63962916",
+          "translationLastModified": "2026-09-23T13:19:26+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "bytes": 19512,
@@ -76943,8 +76943,8 @@
           "sourceContentHash": "sha256:4dc98dc84117c5d8",
           "sourceBodyHash": "sha256:2679dec9ddab6dbc",
           "translatedAt": "2026-09-23T11:48:01+08:00",
-          "translationLastCommit": "174a83b6",
-          "translationLastModified": "2026-09-10T05:31:49+08:00",
+          "translationLastCommit": "63962916",
+          "translationLastModified": "2026-09-23T13:19:26+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "bytes": 61010,
@@ -87935,8 +87935,8 @@
           "sourceContentHash": "sha256:eb0a0062b5494500",
           "sourceBodyHash": "sha256:a759a5339dd81f4b",
           "translatedAt": "2026-09-23T11:48:01+08:00",
-          "translationLastCommit": "7481f802",
-          "translationLastModified": "2026-08-04T11:06:34+08:00",
+          "translationLastCommit": "63962916",
+          "translationLastModified": "2026-09-23T13:19:26+08:00",
           "inferred": false,
           "footnoteDefs": 25,
           "bytes": 39878,
@@ -147760,20 +147760,18 @@
         "ar": {
           "path": "ar/Food/night-market-culture.md",
           "translatedFrom": "Food/夜市文化.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:cad0161e7864d0ae",
-          "sourceBodyHash": "sha256:ea37a51a6e2ccfcd",
-          "translatedAt": "2026-07-25T10:53:27+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:86820d44ddf9a31a",
+          "sourceBodyHash": "sha256:d37208c6e0c05c9c",
+          "translatedAt": "2026-09-23T11:48:24+08:00",
           "translationLastCommit": "e0d888ab",
           "translationLastModified": "2026-09-22T01:04:14+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 26972,
+          "bytes": 30001,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+9 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Food/night-market-culture.md",
@@ -150066,20 +150064,18 @@
         "id": {
           "path": "id/Food/taiwan-rice-cuisine-culture.md",
           "translatedFrom": "Food/台灣米食文化.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:0e38833f3cafaf68",
-          "sourceBodyHash": "sha256:2354ee60853945b0",
-          "translatedAt": "2026-07-25T17:25:33+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:d06ea631387761c6",
+          "sourceBodyHash": "sha256:1e5405f424ed35fc",
+          "translatedAt": "2026-09-23T11:48:22+08:00",
           "translationLastCommit": "f4d0f1e6",
           "translationLastModified": "2026-09-22T01:07:23+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 13787,
+          "bytes": 14727,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+9 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Food/taiwan-rice-cuisine-culture.md",
@@ -150463,7 +150459,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Food/taiwan-soy-sauce.md",
+          "translatedFrom": "Food/醬油.md",
+          "sourceCommitSha": "dab0de0c1",
+          "sourceContentHash": "sha256:a61d4f2f204a976e",
+          "sourceBodyHash": "sha256:1596d4035cbdfea6",
+          "translatedAt": "2026-09-23T11:48:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "bytes": 21344,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -150994,20 +151003,18 @@
         "hi": {
           "path": "hi/Food/taiwan-seafood-culture.md",
           "translatedFrom": "Food/台灣海鮮文化.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:b19eaae2749a2675",
-          "sourceBodyHash": "sha256:0e334a19b5edfbf1",
-          "translatedAt": "2026-07-25T05:00:12+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:83fd36c7a8a59ff5",
+          "sourceBodyHash": "sha256:a8b22a0fba5539c1",
+          "translatedAt": "2026-09-23T11:48:23+08:00",
           "translationLastCommit": "af273ebd",
           "translationLastModified": "2026-09-22T01:05:09+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 22388,
+          "bytes": 24146,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+10 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Food/taiwan-seafood-culture.md",
@@ -157792,20 +157799,18 @@
         "hi": {
           "path": "hi/Food/taiwanese-new-immigrant-culinary-fusion.md",
           "translatedFrom": "Food/台灣新住民美食融合.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:bd8e4eaaa3e395c7",
-          "sourceBodyHash": "sha256:6806ae061b784232",
-          "translatedAt": "2026-07-25T05:00:12+08:00",
+          "sourceCommitSha": "9094012f4",
+          "sourceContentHash": "sha256:77ab88a911a474f4",
+          "sourceBodyHash": "sha256:0ecfd7b1fa40d486",
+          "translatedAt": "2026-09-23T11:48:23+08:00",
           "translationLastCommit": "af273ebd",
           "translationLastModified": "2026-09-22T01:05:09+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 48101,
+          "bytes": 51079,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+9 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Food/taiwanese-new-immigrant-culinary-fusion.md",
@@ -158002,20 +158007,18 @@
         "hi": {
           "path": "hi/Food/taiwanese-noodle-culture.md",
           "translatedFrom": "Food/台灣麵食文化.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:7aeb090ae7f880d7",
-          "sourceBodyHash": "sha256:07d9c3b482846ce9",
-          "translatedAt": "2026-07-25T07:56:00+08:00",
+          "sourceCommitSha": "9094012f4",
+          "sourceContentHash": "sha256:bd2837ec0fbef900",
+          "sourceBodyHash": "sha256:a96dfd18a42fc656",
+          "translatedAt": "2026-09-23T11:48:23+08:00",
           "translationLastCommit": "af273ebd",
           "translationLastModified": "2026-09-22T01:05:09+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 34725,
+          "bytes": 39299,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+10 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Food/taiwanese-noodle-culture.md",
@@ -161296,7 +161299,20 @@
           "diffSummary": "+1 -0"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Food/taiwan-fruit-kingdom.md",
+          "translatedFrom": "Food/台灣水果王國.md",
+          "sourceCommitSha": "813fde2d6",
+          "sourceContentHash": "sha256:e8ef7d9d72df6a42",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-23T05:19:47.037314+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 40,
+          "bytes": 107016,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -177268,7 +177284,20 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/History/taiwan-minpao-newspaper.md",
+          "translatedFrom": "History/臺灣民報.md",
+          "sourceCommitSha": "1b7250789",
+          "sourceContentHash": "sha256:cfc5c04e9673e1a1",
+          "sourceBodyHash": "sha256:27b8803688951c5a",
+          "translatedAt": "2026-09-23T11:48:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "bytes": 26561,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -213525,8 +213554,8 @@
           "sourceContentHash": "sha256:e5fd53530b9e999c",
           "sourceBodyHash": "sha256:201c8b949857fdd7",
           "translatedAt": "2026-09-23T11:48:01+08:00",
-          "translationLastCommit": "b44548b9",
-          "translationLastModified": "2026-09-17T11:23:51+08:00",
+          "translationLastCommit": "63962916",
+          "translationLastModified": "2026-09-23T13:19:26+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "bytes": 26551,
