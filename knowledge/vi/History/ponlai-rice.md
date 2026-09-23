@@ -1,85 +1,159 @@
 ---
-title: 'Gạo Bồng Lai: Một hạt gạo thay đổi nông nghiệp và bàn ăn Đài Loan qua trăm năm'
-description: 'Từ con đường lai tạo của Kỵ Vĩnh Cát và Mạc Vĩnh Nhân thời kỳ Nhật trị, đến sự phổ biến của số 65 Đài Trung, gạo Bồng Lai không chỉ giải quyết khủng hoảng lương thực mà còn ảnh hưởng sâu sắc tới kinh tế xã hội và bản sắc văn hóa Đài Loan.'
-date: 2026-06-25
+title: 'Bạo loạn thóc gạo: Làm thế nào một hạt gạo thay đổi một trăm năm nông nghiệp và bữa ăn trên Đài Loan'
+description: 'Từ sự bão động thóc gạo ở Nhật năm 1918, sự giống của Thảo Thượng và Mã Vĩ Nhân, cho đến Thung 65, các giống lúa dẻo bền bỉ sau chiến tranh và ngày nay là sự lựa chọn chính xác, bạo loạn thóc gạo không chỉ thay đổi hương vị cơm, mà còn thay đổi hệ thống nông nghiệp, phong cảnh địa phương và ký ức lịch sử của Đài Loan.'
+date: 2026-08-20
 category: 'History'
 tags:
   [
-    'Gạo Bồng Lai',
+    'Bạo loạn thóc gạo',
     'Nông nghiệp Đài Loan',
-    'Thời kỳ Nhật trị',
-    'Kỵ Vĩnh Cát',
-    'Mạc Vĩnh Nhân',
-    'Số 65 Đài Trung',
+    'Thời kỳ thuộc địa Nhật',
+    'Thảo Thượng',
+    'Mã Vĩ Nhân',
+    'Thung 65',
     'Lương thực',
     'Văn hóa Đài Loan',
   ]
 subcategory: '殖民與帝國'
 author: 'Taiwan.md Contributors'
 featured: false
-lastVerified: 2026-06-25
+lastVerified: 2026-08-20
 lastHumanReview: false
-readingTime: 12
-curation: incubating
+readingTime: 14
+curation: 'incubating'
 translatedFrom: 'History/蓬萊米.md'
-sourceCommitSha: '69b3afd91'
-sourceContentHash: 'sha256:3c85e554c80495b9'
-sourceBodyHash: 'sha256:39ddb75027efa4b4'
-translatedAt: '2026-08-09T08:07:25+08:00'
+sourceCommitSha: '4e22e3bb9'
+sourceContentHash: 'sha256:3d54c34f765113cd'
+sourceBodyHash: 'sha256:fa292335dae74f0c'
+translatedAt: '2026-09-23T22:11:54+08:00'
 ---
 
-> **Tóm tắt 30 giây:** Vào năm 1918, cuộc bạo động gạo tại Nhật Bản khiến chính phủ thuộc địa thúc đẩy cải tiến lúa gạo tại Đài Loan. Dưới nỗ lực suốt hơn mười năm của các nhà khoa học nông nghiệp Kỵ Vĩnh Cát và Mạc Vĩnh Nhân, họ thành công lai tạo ra "gạo Bồng Lai" phù hợp với điều kiện địa lý-khí hậu Đài Loan, đặc biệt là "số 65 Đài Trung" với năng suất cao, chất lượng tốt và khả năng chống bệnh. Điều này không chỉ đáp ứng nhu cầu lương thực của Nhật Bản mà còn thay đổi hoàn toàn phương thức sản xuất nông nghiệp và văn hóa ăn uống của Đài Loan, trở thành viên đá tảng của sự phát triển trăm năm của đảo quốc. Cho tới ngày nay, các loại gạo chính trên bàn ăn Đài Loan hầu như đều mang "huyết thống" của số 65 Đài Trung, là minh chứng tác động sâu rộng của hạt gạo này tới xã hội Đài Loan.
+> **30 giây tóm tắt:** Năm 1918, bão động thóc gạo ở Nhật đưa mối lo âu lương thực của đế quốc tới Đài Loan; Thảo Thượng, đến Đài Loan năm 1912, và Mã Vĩ Nhân, đến sớm hơn tại nông trại Chia Để, cùng với thương nhân gạo Lý Bằng Nghị sẵn sàng chịu rủi ro thị trường, dần biến những giống lúa Nhật ban đầu không phù hợp với đồng bẉng Đài Loan thành bạo loạn thóc gạo — gạo có thể trồng, thu hoạch và trở thành bữa ăn hàng ngày của người Đài Loan. Năm 1929, Thung 65 được ra mắt, trở thành khung xương quan trọng cho nhiều giống lúa dẻo Đài Loan sau này. Câu chuyện này đồng thời là sự giao thoa giữa khoa học nông nghiệp, kinh tế thuộc địa, thương mại địa phương và giác quan ẩm thực.[^1] [^2] [^3]
 
-Tháng 8 năm 1918, tỉnh Toyama của Nhật Bản bùng nổ cuộc "bạo động gạo" (米騷動) làm chấn động cả nước[^1]. Vào thời đó, phụ nữ từ các làng chài bất mãn vì giá gạo tăng vọt, thiếu gạo để nấu nướng nên lên phố thưa kiến, cuộc phản đối này nhanh chóng lan rộng khắp đất nước, cuối cùng dẫn tới việc nội các từ chức. Cuộc vận động xã hội này không những phơi bày khủng hoảng lương thực nghiêm trọng trong nước Nhật Bản, mà còn thúc đẩy chính phủ Nhật Bản hướng ánh nhìn tới thuộc địa Đài Loan, kỳ vọng giải quyết vấn đề lương thực của đế quốc thông qua tăng sản lượng gạo ở Đài Loan[^1]. Tuy nhiên, lúc đó Đài Loan chủ yếu trồng "gạo Tại Lai" (kiểu sơ sai) với hạt dài, mềm và ít ngọt, khác xa với "gạo cương dân" (hạt tròn) mà người Nhật Bản quen ăn, khiến gạo Đài Loan khó có thể trực tiếp đáp ứng nhu cầu thị trường Nhật Bản[^2].
+![Cánh đồng lúa xanh và dãy núi ở Đông Đài, trình bày phong cảnh lúa mạch hiện đại của Đài Loan](https://upload.wikimedia.org/wikipedia/commons/1/14/Green_Rice_Fields_in_Luye%2C_Taiwan_-_June_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
 
-📝 Ghi chép của người sắp xếp: Một cuộc vận động xã hội ở phía xa kia lại có thể kéo theo sự thay đổi hạt gạo trên bàn ăn Đài Loan, sự liên kết của lịch sử thường vượt ngoài mong đợi. Điều này cũng nhắc nhở chúng ta rằng, những vấn đề lương thực tưởng chừng đơn giản, đằng sau thường ẩn chứa những cấu trúc chính trị và xã hội phức tạp.
+_Ảnh cánh đồng lúa ở Luye, tỉnh Đông Đài, chụp bởi Jun Jie Yam (người dùng Wikimedia Commons YJJcoolcool), CC BY 4.0; [trang tệp tin](https://commons.wikimedia.org/wiki/File:Green_Rice_Fields_in_Luye,_Taiwan_-\_June_2023.jpg)／[giấy phép](https://creativecommons.org/licenses/by/4.0/deed.en)。[^10] Ảnh minh họa cho phong cảnh lúa mạch hiện đại, không phải ảnh lịch sử của lịch sử giống bạo loạn thóc gạo.
 
-Để giải quyết tình thế này, vào năm 1912, một nhà khoa học nông nghiệp trẻ vừa tốt nghiệp từ Trường Đại học Nông khoa Đế quốc Đông Bắc là Kỵ Vĩnh Cát đã tới Đài Loan, gánh vác sứ mệnh cải tiến lúa gạo[^2]. Trước đó, tổng độc lãnh Đài Loan đã nhập khẩu 145 giống gạo "Nội địa" của Nhật Bản để thử trồng, nhưng vì không thích ứng với điều kiện khí hậu của Đài Loan nên liên tục thất bại[^2]. Kỵ Vĩnh Cát tận dụng nền tảng học thuật của mình, phân loại một cách hệ thống các giống lúa Đài Loan, và khẳng định rằng "nhập khẩu giống Nội địa" chính là hướng phát triển của cải tiến lúa gạo Đài Loan[^2].
+## Trước tiên, hãy bắt đầu từ một cuộc bão động thóc gạo
 
-### Từ "giống địa phương" tới "giống Nội địa"—con đường lai tạo dài đằng đằng
+Tháng 8 năm 1918, các phụ nữ nông thôn ở tỉnh Hoa Dũ (Nhật) đứng trước cửa thương nhân gạo để kêu kiện vì giá gạo tăng cao, thu nhập lao động không đủ mua gạo cho gia đình. Yêu cầu "Đừng vận chuyển gạo đi nơi khác" lan tỏa từ địa phương thành một cuộc bão động toàn quốc Nhật, cuối cùng dẫn đến việc toàn bộ nội các phải từ chức. Cuộc di chuyển xã hội này khiến chính phủ Nhật ngày càng quyết liệt trong việc tự cung cấp lương thực trong nội địa, đồng thời thúc đẩy chính sách tăng sản lượng và cải thiện giống lúa ở thuộc địa. [^1]
 
-Sự tới của Kỵ Vĩnh Cát đã đưa hy vọng mới vào công cuộc cải tiến lúa gạo Đài Loan. Ông phát hiện ra rằng các giống Nhật Bản ở Đài Loan có tỷ lệ kết hạt thấp, chủ yếu là vì môi trường cao nhiệt ẩm ướt của Đài Loan làm cho thời gian ra hoa ngắn, tỷ lệ thụ phấn thấp[^3]. Ban đầu, các thí nghiệm của ông tại Đài Bắc cũng liên tục gặp thất bại, nhưng ông không bỏ cuộc. Năm 1914, Kỵ Vĩnh Cát dựa trên nền tảng di truyền học Mendel, đề xuất phương pháp "phân ly thuần tuyến", lựa chọn các dòng lúa gạo tốt của Đài Loan[^3]. Cùng lúc, ông cũng hướng ánh nhìn tới một nhân vật then chốt khác——Mạc Vĩnh Nhân.
+Đây không phải là câu chuyện đi thẳng từ chính sách Nhật tới bát cơm của Đài Loan. Người Nhật quen ăn gạo dẻo, hạt ngắn, dính nhau. Gạo lúa mà người Đài Loan thường ăn trước đây thuộc loại gạo dẻo, hạt dài, khi nấu sẽ rời rạc. Chính phủ thuộc địa mong muốn Đài Loan sản xuất nhiều gạo hơn, đồng thời mong muốn những gạo này đáp ứng khẩu vị thị trường Nhật. Vì vậy, "tăng sản lượng" và "thay đổi hương vị gạo" trở thành hai mặt của cùng một kế hoạch nông nghiệp. [^1] [^7]
 
-Mạc Vĩnh Nhân, một cậu bé nông dân gốc từ tỉnh Fukuoka của Nhật Bản, đã tới Đài Loan từ năm 1910 để làm việc tại trang trại nông nghiệp Chiayi, từng sự cải tiến lúa gạo[^4]. Ông đến Đài Loan sớm hơn Kỵ Vĩnh Cát, và nhờ sự chăm chỉ tại ruộng đất cũng như chuyên môn, ông đã nhận được sự đánh giá cao từ Kỵ Vĩnh Cát. Năm 1914, Mạc Vĩnh Nhân được điều tới trang trại thí nghiệm Đài Trung, chịu trách nhiệm lai tạo giống lúa cũng như nuôi dáy lúa gạo Nhật Bản. Mỗi sáng sớm ông đều bước vào ruộng, quan sát cây non phát triển, ngay cả khi gặp khó khăn, ông và Kỵ Vĩnh Cát cũng cùng thảo luận đối sách, hai người hợp tác như "đầu tay và chân" (頭手地), đặt nền móng vững chắc cho cải tiến lúa gạo Đài Loan[^4].
+> 📝 Ghi chú biên tập: Một cuộc di chuyển xã hội ở xa, kéo theo không chỉ là mức giá gạo, mà còn là tiêu chuẩn "bữa ăn ngon" trên một hòn đảo khác.
 
-📝 Ghi chép của người sắp xếp: Những bước đột phá trong nghiên cứu khoa học thường không chỉ dựa vào trí tuệ trong phòng thí nghiệm, mà còn cần nước mắt và sự kiên trì trên những luống ruộng. Sự hợp tác giữa Kỵ Vĩnh Cát và Mạc Vĩnh Nhân chính là kỳ tích của sự kết hợp hoàn hảo giữa lý thuyết và thực hành.
+## Thảo Thượng không phải đang đứng trước một mảnh đất trống
 
-Năm 1921, giám đốc nông vụ tỉnh Đài Bắc là Hirasawa Kameichiro phát hiện ra cây lúa Nhật Bản "loại Nakamura" phát triển tốt trên đồi Trúc Tử ở Dương Minh Sơn[^3]. Trúc Tử mát mẻ ẩm ướt, đất phì tươi, môi trường tương tự như khí hậu Kyushu của Nhật Bản, tạo điều kiện tuyệt vời cho sự phát triển của lúa gạo Nhật Bản. Phát hiện này trở thành một bước ngoặt lớn trong cải tiến lúa gạo[^3]. Sau đó, Mạc Vĩnh Nhân đã đề xuất phương pháp "cây non sớm cắm" (phương pháp cấy mạ sớm) đột phá, bằng cách rút ngắn thời gian nuôi tơm để thay đổi chu kỳ sinh trưởng của cây, thành công giải quyết vấn đề lúa gạo Nhật Bản ra hoa sớm do khí hậu, cho phép "loại Nakamura" di chuyển từ cao nguyên núi xuống bằng lũng[^2]. Sau đó, việc nhân rộng loại Nakamura ở Đài Loan dần mở rộng, đặt nền tảng cho gạo Bồng Lai sau này.
+Năm 1912, Thảo Thượng đến Đài Loan, gia nhập trường nghiên cứu nông nghiệp của chính phủ thuộc địa. Trước đó, chính phủ thuộc địa đã thử nghiệm hơn một trăm giống lúa Nhật, nhưng lúa Nhật phản ứng không ổn định với nhiệt độ cao, độ ẩm và ánh sáng mặt trời ở Đài Loan, thường rút ngắn hoặc kéo dài thời gian bào hoa, khó có thể trồng trên quy mô rộng lớn ở đồng bẉng. Sau này, Thảo Thượng xử lý tranh cãi giữa "cải thiện các giống lúa bản địa hiện có" và "giới thiệu lúa Nhật" thông qua phân loại giống và so sánh các giống. [^1] [^2]
 
-### Sự ra đời của gạo Bồng Lai và "phép lạ" của số 65 Đài Trung
+Nghiên cứu của Thảo Thượng không phải là mang "gạo Nhật" hoàn toàn đến Đài Loan. Ông phát hiện rằng các giống Nhật ở Đài Loan có tỉ lệ kết quả thấp, liên quan đến thời gian hoa rộ ngắn và tỉ lệ thụ phấn bị ảnh hưởng bởi nhiệt độ cao và độ ẩm cao. Năm 1914, ông áp dụng di truyền học Mendel và phương pháp tách giống sạch để lọc ra các dòng lúa Đài Loan tốt, đồng thời mở rộng phạm vi nghiên cứu tới trường nông nghiệp Thung 65. [^2]
 
-Năm 1926 là một năm có ý nghĩa đặc biệt với Kỵ Vĩnh Cát và Mạc Vĩnh Nhân. Tại hội nghị "Hội Gạo Đại Nhật Bản" (大日本米穀會) do tổng độc lãnh Đài Loan Izawa Takeshi triệu tập tại Đài Bắc Khách sạn Đường sắt, ông chính thức đặt tên cho "loại Nakamura" đã cải tiến thành công là "gạo Bồng Lai"[^2]. Cái tên này không chỉ tượng trưng cho một cột mốc mới trong nông nghiệp Đài Loan, mà còn mang theo kỳ vọng về những tài nguyên phong phú của "đảo Bồng Lai" thần tiên này. Tuy nhiên, sau khi đặt tên, những thách thức liên tiếp xảy ra. Cùng năm tháng 7, gạo Bồng Lai bị xâm hại bởi bệnh đạo ôn, sản lượng thu hoạch tệ hại, khiến công cuộc nhân rộng phải đối mặt áp lực lớn[^3].
+Mã Vĩ Nhân đến Đài Loan sớm hơn Thảo Thượng. Với nền tảng là một kỹ sĩ nông nghiệp từ vùng Hoa Dũ phía tây Nhật, ông đã làm việc tại nông trại Chia Để từ năm 1910. Năm 1914, ông chuyển sang trường nông nghiệp Thung 65, chịu trách nhiệm lai chéo giống lúa và trồng thử ngoài đồng. Báo cáo nghiên cứu của PanSci mô tả hai người như "cộng tác thực sự": Thảo Thượng tổ chức giống và lý thuyết, trong khi Mã Vĩ Nhân dành thời gian dài đi bộ trong cánh đồng thử nghiệm để quan sát cây con và bông lúa. [^1]
 
-Năm 1927, "Khủng hoảng Showa" (昭和恐慌) quét qua toàn cầu, giá gạo giảm sâu, ý chí của nông dân trồng gạo Bồng Lai giảm mạnh[^2]. Lúc này, thương nhân gạo Lý Bằng Nghi (李鵬儀) từ Hoa Đàng, Chương Hóa đã bước tới, ông cam kết sẽ mua hết gạo Bồng Lai mà nông dân trồng, bất kể sản lượng tốt hay xấu. Dù trong giai đoạn đầu vì bệnh đạo ôn, hạn hán và các bão tố, nhà xay gạo của Lý Bằng Nghi gần như bị bỏ trống ba năm liền, suýt phải phá sản, nhưng ông vẫn giữ lời hứa, tiếp tục hỗ trợ nông dân[^3].
+## Chùm thông: Từ cánh đồng gốc trong núi xuống đồng bẉng
 
-📝 Ghi chép của người sắp xếp: Dưới sự thử thách kép của khoa học và kinh tế, niềm tin và sự kiên trì của một thương nhân gạo trở thành lực lượng chính yếu thúc đẩy cách mạng nông nghiệp. Tầm nhìn xa và trách nhiệm của Lý Bằng Nghi đã san phẳng con đường cho sự phổ biến của gạo Bồng Lai.
+Năm 1921, trưởng bộ nông nghiệp tỉnh Bắc Đài, Trịnh Thủy, phát hiện ra rằng cây lúa Nhật ở khu vực rừng núi Yên Minh trồng rất tốt. Khí hậu ở Chùm Thông mát mẻ, địa hình kín đáo, tương tự như khu vực miền Kyushu ở Nhật, cũng phù hợp để cách ly các giống khác nhau và duy trì sự tinh khiết của giống gốc. Đây sau này trở thành cánh đồng gốc của bạo loạn thóc gạo, kết nối giữa việc bảo quản giống và trồng giống ngoài đồng. [^1] [^4]
 
-Dưới sự nỗ lực không ngừng của Kỵ Vĩnh Cát và Mạc Vĩnh Nhân, họ đã lai tạo giống chống sâu "Quy Trị" với giống năng suất cao "Thần Lực", vào năm 1929 thành công tạo ra "số 65 Đài Trung" làm bước ngoặt lịch sử[^4]. Giống mới này sở hữu những đặc tính xuất sắc như năng suất cao, chất lượng tốt, chống bệnh đạo ôn, khả năng thích ứng mạnh, và không nhạy cảm với ánh sáng mặt trời, có thể phù hợp với cả hai mùa trồng của Đài Loan[^4]. Cùng năm, dưới điều kiện thời tiết thuận lợi, Lý Bằng Nghi mở rộng diện tích mua hàng tới 1500 mẫu, khiến gạo Bồng Lai ở các địa phương như Đại Giáp, Viên Lâm, Bắc Đẩu sản lượng bội thu, sản lượng gấp ba lần so với gạo địa phương[^3]. Thành công lần này không chỉ giúp Lý Bằng Nghi bù đắp những tổn thất của quá khứ, mà còn quan trọng hơn là hoàn toàn thắng được niềm tin của nông dân. Năm sau, 75% ruộng lúa của Đài Loan đã chuyển sang trồng gạo Bồng Lai, lúa gạo trồng trọt của Đài Loan từ đây toàn diện đảo chiều[^3]. Tới năm 1936, "số 65 Đài Trung" sở hữu khả năng chống bệnh ổn định hơn và sức thích ứng tốt hơn, đã thay thế rộng rãi "loại Nakamura", trở thành giống gạo Bồng Lai chính trên Đài Loan, khai mở một chương mới trong lúa gạo trồng trọt Đài Loan[^6].
+Năm 1923, Mã Vĩ Nhân đề xuất phương pháp trồng cây con bằng cách ghép, rút ngắn thời gian trồng cây con từ khoảng hai tháng xuống khoảng một tháng, thay đổi chu kỳ sinh trưởng của cây, giảm thiểu vấn đề rút ngắn thời gian bào hoa của lúa Nhật do ánh sáng và khí hậu ở Đài Loan. Nhờ đó, các giống không chỉ có thể ở lại trong môi trường đặc biệt của rừng núi mà còn có cơ hội lan tỏa ra đồng bẉng Đài Loan. [^2] [^5]
 
-### Tác động sâu rộng của gạo Bồng Lai và cuộc tranh chấp chưa kết thúc
+Sự chuyển đổi này cho thấy, sự lựa chọn giống không chỉ là "thay đổi gen" hay "chọn ra một giống mới". Thời gian trồng, kích thước cây con, độ cao cánh đồng, phương pháp cách ly và nông dân có thể vận hành theo phương pháp hay không, đều có thể quyết định liệu một cây lúa có thể chuyển từ cánh đồng thử nghiệm sang công nghiệp sản xuất hay không.
 
-Thành công của gạo Bồng Lai không chỉ giải quyết nhu cầu lương thực của Nhật Bản, mà còn thay đổi sâu sắc bộ mặt nông nghiệp Đài Loan. Nó nâng cao sản lượng lúa gạo, cải thiện sinh kế nông dân, và thúc đẩy kỹ thuật nông nghiệp Đài Loan hướng tới hiện đại hoá. Tinh thần lai tạo giống của Kỵ Vĩnh Cát và Mạc Vĩnh Nhân, cũng như tầm nhìn thương mại của Lý Bằng Nghi, cùng nhau sáng tác nên trang sử lẫy lừng trong lịch sử nông nghiệp Đài Loan. Kỵ Vĩnh Cát vẫn ở lại Đài Loan để giảng dạy sau chiến tranh, liên tục đóng góp cho nông nghiệp Đài Loan, cho tới năm 1957 mới trở lại Nhật Bản, được vinh danh là "Cha đẻ gạo Bồng Lai", "Ân nhân của nông nghiệp Đài Loan"[^3].
+## Tên gọi của bạo loạn thóc gạo và sự mong manh của giống gốc
 
-Tuy vậy, sự phổ biến của gạo Bồng Lai cũng kèm theo một số tranh cãi. Chính phủ thuộc địa thúc đẩy tăng sản lượng gạo, chủ yếu là để đáp ứng nhu cầu của lãnh thổ Nhật Bản, chứ không hoàn toàn xem xét lợi ích bản địa Đài Loan. Điều này làm cho phát triển nông nghiệp Đài Loan ở một mức độ nào đó bị chi phối bởi chính sách thuộc địa, cũng gợi ra cuộc thảo luận về các vấn đề cấu trúc kinh tế như "mâu thuẫn giữa gạo và đường"[^5]. Dưới chính sách thuộc địa "Nhật Bản công nghiệp, Đài Loan nông nghiệp", sản xuất nông nghiệp Đài Loan được lập kế hoạch chặt chẽ, diện tích trồng và sản lượng lúa gạo cùng với mía đường bị kiểm soát nghiêm ngặt, quyền lựa chọn của nông dân bị hạn chế. Dù gạo Bồng Lai mang lại hiệu quả kinh tế, nhưng cũng làm trầm trọng vai trò "kho lương thực" của Đài Loan, khiến cấu trúc kinh tế Đài Loan thể hiện tính "hai chiều" là lúa gạo địa phương chủ yếu để tiêu dùng nội địa Đài Loan, trong khi gạo Bồng Lai được xuất khẩu lớn tới Nhật Bản[^7]. Cấu trúc hai chiều này phản ánh sự phức tạp và mâu thuẫn của phát triển nông nghiệp Đài Loan dưới sự cai trị thuộc địa.
+Năm 1926, gạo lúa sản xuất tại Đài Loan được đặt tên là "Bạo loạn thóc gạo" tại Hội đồng Lúa gạo Nhật lần thứ 19. Tên gọi lấy cảm hứng từ thiên đường Bạo Lãnh, đóng gói một đối tượng nông nghiệp được cải thiện ở Đài Loan nhưng có nguồn gốc từ lúa Nhật thành biểu tượng của sự thịnh vượng Đài Loan. [^1] [^5]
 
-Những nghiên cứu gần đây còn phát hiện ra rằng, trong bộ gen của "số 65 Đài Trung" có thể đã hòa lẫn gen của lúa mưa thung lũng sơn địa Đài Loan, điều này gợi ý rằng trong quá trình lai tạo, ngoài nỗ lực con người, lâm sàng di truyền từ tự nhiên cũng đã đóng một vai trò bất ngờ, làm thêm những lớp giải đọc sâu hơn cho phần lịch sử này[^4][^8]. Khám phá này thách thức quan điểm truyền thống chỉ quy cho lai tạo toàn bộ cho thao tác khéo léo của nhà khoa học, vén mở sự kỳ diệu của sự giao thoa giữa tự nhiên và nhân lực.
+Nhưng việc đặt tên không đồng nghĩa với thành công. Trong cùng năm, bạo loạn thóc gạo bị bệnh hại tấn thương, thu hoạch kém cỏi. Nhóm nghiên cứu sau đó tiếp tục hướng tới các mục tiêu rộng lớn, năng suất cao, chịu muối tốt, chịu sâu bệnh tốt. Những gì trồng tốt ở cánh đồng gốc, để trở thành một mặt hàng nông dân sẵn sàng chấp nhận, cần sự ổn định và thị trường. [^1]
 
-Câu chuyện của gạo Bồng Lai là một sử thi về khoa học, kiên trì, thương mại và sự thay đổi xã hội. Nó không chỉ là câu chuyện của một hạt gạo, mà còn là tóm tắt của việc Đài Loan trong một trăm năm qua dưới bối cảnh lịch sử phức tạp, như thế nào là tìm kiếm sự sống còn và phát triển. Cho tới ngày nay, các loại gạo chính trên bàn ăn Đài Loan, như số 9 Đài Giới, gạo Việt Quang, v.v., hầu như đều mang "huyết thống" của "số 65 Đài Trung", hạt gạo này không chỉ là nền tảng của an ninh lương thực Đài Loan, mà còn là di sản quan trọng của hiện đại hoá nông nghiệp Đài Loan[^6]. Khi chúng ta thưởng thức các bát cơm Bồng Lai thơm ngon, chúng ta cũng nên quay lại nhìn đoạn lịch sử "hạt nào cũng chứa mồ hôi," cũng như những nhân vật tiên phong đã cống hiến tuổi thọ của họ cho việc này, câu chuyện của họ đã hòa lẫn vào đất đai và văn hóa Đài Loan.
+Năm 1927, khủng hoải Showa khiến giá gạo giảm, sức thu hút của nông dân trồng bạo loạn thóc gạo giảm. Lúc này, thương nhân gạo Lý Bằng Nghị ở Hoa Đường, Trùng Khánh, cam kết mua gạo theo diện tích trồng, không dựa trên chất lượng thu hoạch trong năm. Bệnh hại, hạn hán và bão lốc liên tiếp gây thiệt hại, nhà máy bãi gạo của ông từng bỏ hoang gần ba năm. Đến năm 1929, khi thu hoạch cải thiện, cam kết thương mại này cuối cùng giúp bạo loạn thóc gạo chiếm được niềm tin của nông dân. [^1]
 
-## References
+![Cánh đồng lúa và các bản làng núi ở Ruisui, Hualien, trình bày cách lúa mạch được nhúng vào phong cảnh miền đông](https://upload.wikimedia.org/wikipedia/commons/9/9b/05_Countryside_of_Taiwan_-_rice_fields_and_mountains_in_Ruisui%2C_Hualien_County%2C_Taiwan.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
 
-[^1]: [粒粒皆辛苦，那些促成蓬萊米上餐桌的田間推手——磯永吉和末永仁](https://pansci.asia/archives/362733) — PanSci 泛科學 2023 năm chuyên bài
+_Ảnh cánh đồng lúa và các bản làng núi ở Ruisui, Hualien, chụp bởi Marek Slusarczyk (người dùng Wikimedia Commons Tupungato), CC BY 3.0; [trang tệp tin](https://commons.wikimedia.org/wiki/File:05_Countryside_of_Taiwan_-\_rice_fields_and_mountains_in_Ruisui,\_Hualien_County,\_Taiwan.jpg)／[giấy phép](https://creativecommons.org/licenses/by/3.0/deed.en)。[^11] Ảnh minh họa cho liên kết tới trang tệp tin gốc, chưa được tải lên hoặc lưu trữ lại.
 
-[^2]: [磯永吉與末永仁 走在稻穗婆娑的小徑上──臺灣蓬萊米的故事](http://ntualumnibm.ntu.edu.tw/bm.bimonthly.article/detail/sn/8298) — Trương Văn Lương, Tạp chí Lưỡng tháng Cựu sinh viên Đại học Đài Bắc số 129
+## Thung 65: Một giống trở thành khung xương của sự lựa chọn giống
 
-[^3]: [靦腆的育種家 ─ 蓬萊米之母 末永 仁](http://iso-house.agron.ntu.edu.tw/doc/%E9%9D%A6%E8%85%86%E7%9A%84%E8%82%B2%E7%A8%AE%E5%AE%B6-%E8%93%AC%E8%90%8A%E7%B1%B3%E4%B9%8B%E6%AF%8D-%E6%9C%AB%E6%B0%B8%E4%BB%81-%E8%AC%9D%E5%85%86%E6%A8%9E.pdf) — Tạ Triệu Shuang, Nhà Kỵ PDF
+Năm 1929, Thảo Thượng và Mã Vĩ Nhân lai chéo giữa Thủy Trì và Thần Lực, chọn ra Thung 65. Báo cáo nghiên cứu của Viện Nghiên cứu Trung Ương chỉ ra rằng nó mang tính chống bệnh hại tốt và khả năng thu hoạch hai lần trong một năm, quan trọng nhất là không nhạy cảm với độ dài ánh sáng. Thông báo của Đại học Quốc gia Đài Loan cũng cho rằng đây là tổ tiên của khoảng tám phần trăm các giống lúa dẻo mới được sinh ra tại Đài Loan. [^2] [^3]
 
-[^4]: [面對「內地種」：](https://theme.npm.edu.tw/Academic/BookDownload.ashx?bid=951) — Bộ Công vụ Bảo tàng Cung điện quốc gia Xuất bản Học thuật
+Vì các nguồn khác nhau có tỷ lệ phần trăm khác nhau (khoảng tám phần trăm và tám mươi phần trăm), không nên đưa ra một con số duy nhất như là tỷ lệ chính xác không thể tranh cãi. Kết luận an toàn hơn là: Thung 65 không phải là một giống kỷ niệm trong lịch sử bạo loạn thóc gạo, mà là khung xương của nhiều giống lúa dẻo Đài Loan sau này.
 
-[^5]: [蓬萊米命名百年的影響與貢獻](https://www.agriharvest.tw/archives/135666/) — Chuyên bài Nông Truyền Thông
+Nghiên cứu di truyền của Viện Nghiên cứu Trung Ương cũng làm cho bộ khung này trở nên phức tạp hơn. Ngoài gen từ Thủy Trì và Thần Lực, Thung 65 còn mang gen từ lúa núi bản địa Muteka, Nakabo. Điều này nên được ghi nhận như một phát hiện nghiên cứu, thay vì suy luận trực tiếp thành "bạo loạn thóc gạo là gạo của người bản địa". Điều thực sự nói lên là, sự hình thành giống thường là kết quả của sự lựa chọn nhân tạo, dòng gen tự nhiên và môi trường địa phương. [^3]
 
-[^6]: [蓬萊米記憶｜在台灣改良的日本米](https://ourisland.pts.org.tw/content/2580) — Truyền hình Công cộng "Hòn đảo của chúng ta" 2017-01-02 chuyên đề
+Sự miễn dịch với chu kỳ ánh sáng của Thung 65 cũng có giải thích ở mức độ phân tử. Nhóm nghiên cứu chỉ ra rằng gen Hd1 ở thứ sáu cặp nhiễm thể của nó mang một dãy kéo dài, khiến gen mất đi chức năng điều chỉnh thời gian bào hoa. Do đó, cây lúa không cần phải hoàn toàn tuân theo nhịp sinh học của ánh sáng ở Nhật, mà có thể bào hoa ổn định trong cả hai giai đoạn mùa xuân và mùa hè ở Đài Loan. [^3]
 
-[^7]: [從數字裡找到不一樣的歷史：「蓬萊米到臺灣──日治臺灣的米作與經濟」講座側記](https://blog.press.ntu.edu.tw/?p=3597) — Trung tâm Xuất bản Đại học Đài Bắc 2015-08-12 Bài ghi chép Diễn đàn
+## Thành công công nghệ, không thể xóa bỏ kinh tế thuộc địa
 
-[^8]: [蓬莱米台中六十五号中文](https://www.taiunsake.co.jp/%E8%93%AC%E8%90%8A%E7%B1%B3%E5%8F%B0%E4%B8%AD%E5%85%AD%E5%8D%81%E4%BA%94%E5%8F%B7%E4%B8%AD%E6%96%87) — Công ty Sake Đài Vân Nhật Bản Giới thiệu trang
+Bạo loạn thóc gạo nâng cao chất lượng gạo, năng suất và giá trị thị trường, đồng thời thúc đẩy việc thành lập trường thử nghiệm, cánh đồng gốc và hệ thống quản lý giống. Báo cáo kỷ niệm trăm năm của Bộ Nông nghiệp chia nhỏ hành trình này thành một số giai đoạn: ban đầu xử lý sự thích ứng môi trường, sau chiến tranh xử lý ổn định và tăng năng suất, những năm 1980 chuyển hướng tới hương vị và đặc trưng, và từ những năm 2010 trở đi, thêm các yếu tố như sự bền vững khí hậu, lựa chọn hỗ trợ dấu hiệu phân tử và nông nghiệp bền vững. [^5]
+
+Sự lựa chọn giống sau chiến tranh không phải là phần mở rộng của thời kỳ thuộc địa. Những ghi chép của Bộ Nông nghiệp ghi nhận rằng Giải phóng 1, Giải phóng 242 và sau này là Thung 67, lần lượt đáp ứng các vấn đề mới như chống bệnh, ổn định sản lượng, chống gãy đổ và thu hoạch bằng máy móc. Những năm 1980 trở đi, các giống như Thung 9 phản ánh nhu cầu của người tiêu dùng về hương vị và chất lượng. [^5]
+
+Tuy nhiên, khoa học nông nghiệp trong thời kỳ thuộc địa không nên chỉ được viết thành "khởi nguồn của sự hiện đại hóa Đài Loan". Nghiên cứu chỉ ra rằng các cải tiến giống, trường thử nghiệm và hệ thống tưới tiêu của chính phủ thuộc địa Nhật, một phần tăng năng suất, nhưng đồng thời cũng đưa Đài Loan vào cấu trúc kinh tế cung cấp gạo và nguyên liệu cho Nhật, làm sâu sắc sự bất bình đẳng trong phân phối tài nguyên và phân lớp xã hội. [^6]
+
+Một nghiên cứu khác nhắc nhở rằng sự thay đổi trong sở thích ẩm thực của người Đài Loan từ lúa núi bản địa, lúa bản địa đến bạo loạn thóc gạo không thể chỉ được giải thích bằng sự di cư dân cư. Chính sách thuộc địa, công nghệ nông nghiệp và tiêu chuẩn cảm quan "gạo ngon", đều là những yếu tố cùng hoạt động. [^7]
+
+Do đó, bạo loạn thóc gạo có thể đồng thời là kết quả công nghệ và di sản thuộc địa. Nó giúp nhiều gia đình ăn được bát cơm dẻo phù hợp với khẩu vị chủ đạo vào thời điểm đó, đồng thời đưa nông nghiệp Đài Loan sâu hơn vào hệ thống lương thực của đế quốc. Xóa bỏ bất kỳ mặt nào trong hai mặt này, những gì còn lại không phải là lịch sử, mà là câu chuyện một chiều về thành tựu.
+
+> 📝 Ghi chú biên tập: Một hạt gạo không cần phải chọn giữa "tiến bộ" và " áp bức"; những gì thực sự cần được giải thích là, ai đã nhận được gì từ nó, và ai phải chịu lấy giá.
+
+## Từ sản lượng cao sau chiến tranh đến sự lựa chọn chính xác ngày nay
+
+Câu chuyện tiếp theo của bạo loạn thóc gạo không kết thúc ở năm 1929. Sau chiến tranh, dân số tăng, hệ thống tưới tiêu, phân bón hoá học và lực lượng lao động nông thôn đi làm việc ở thành thị khác, khiến mục tiêu lựa chọn chuyển hướng tới chống bệnh, chống gãy đổ, tăng năng suất và phù hợp với nông nghiệp hóa máy. Dữ liệu của Bộ Nông nghiệp cho biếtt, giống Thung 67 được sinh ra năm 1978 từng là giống quan trọng về tăng năng suất, chống gãy đổ và thu hoạch bằng máy móc. [^5]
+
+Từ những năm 1980 trở đi, Đài Loan không chỉ hỏi "một mẫu có thu hoạch bao nhiêu", mà còn hỏi "nấu nướng ngon không". Thung 9 và sau này là các giống gạo thơm và đặc trưng, phản ánh sự chuyển đổi của gạo từ hàng hóa an ninh lương thực sang thực phẩm có nguồn gốc, có thương hiệu và có sự khác biệt cảm quan. Sau khi gia nhập WTO năm 2002, sự cạnh tranh thị trường và áp lực nhập khẩu cũng khiến sự khác biệt giữa các giống trở nên quan trọng hơn. [^5]
+
+Vào những năm 2010, biến đổi khí hậu khiến nhiệt độ cao, lượ lượng mưa cực đoan, sâu bệnh và nguồn nước trở thành các điều kiện mới cho sự lựa chọn giống. Lựa chọn hỗ trợ dấu hiệu phân tử, bón phân chính xác, giám sát bằng drone và nông nghiệp thân thiện môi trường đang biến "quan sát" ở cánh đồng thử nghiệm thành công việc dữ liệu chính xác hơn. Điều này không có nghĩa là nông dân không còn quan trọng, mà là kinh nghiệm thực địa, gen, khí hậu và dữ liệu quản lý được đưa vào cùng một khung ra quyết định. [^5]
+
+### Từ "thu hoạch được nhiều" đến "có thể nhận biết hương vị"
+
+Thung 67 có thể đại diện cho giai đoạn chuyển từ an ninh lương thực sang nông nghiệp hóa máy sau chiến tranh. Trang mạng kiến thức nông nghiệp ghi nhận, mục tiêu lựa chọn của nó vào những năm 1960 là chống gãy đổ và tăng năng suất, sợn cường, phạm vi thích ứng rộng, cũng phù hợp với thu hoạch bằng máy móc. Từ năm 1979 đến 1998, nó từng là giống được trồng rộng nhất ở Đài Loan, chiếm hơn bảy phần mười. [^12]
+
+Sự thành công của giống này khác biệt quan trọng so với câu chuyện của Thung 65: ban đầu, sự lựa chọn giống cần phải để cho lúa dẻo sống sót ở Đài Loan, sau chiến tranh, sự lựa chọn giống cần phải để lúa sản xuất ổn định trong điều kiện giảm lao động, tăng phân bón và hóa máy. Gạo chuyển từ đối tượng của chính sách lương thực đế quốc sang vấn đề về an ninh lương thực và hiệu quả sản xuất nông nghiệp của nhà nước sau chiến tranh.
+
+Đến những năm 1980, thị trường bắt đầu hỏi thêm một điều khác: gạo có hương vị, mùi thơm và nguồn gốc rõ ràng hơn không. Thung 9 do Hứa Chí Thái phát triển, sau đó trở thành một giống gạo chất lượng quan trọng trên thị trường Đài Loan. Bản ghi của Tạp chí Ánh Sáng Đài Loan ghi nhận, Thung 194, Thung Nam 16 và các giống khác đưa tên giống, hương vị và bao bì thương hiệu trực tiếp tới tay người tiêu dùng. [^13]
+
+Sự chuyển đổi này thay đổi ngôn ngữ của "gạo ngon". Trước đây, hỏi là bao nhiêu một mẫu có thu hoạch; sau đó, bắt đầu hỏi về tinh bột trực tiếp, độ dính, mùi thơm, phù hợp để nấu cháo hay cơm cuốn, và liệu người tiêu dùng có sẵn sàng trả thêm tiền cho giống và nguồn gốc hay không. Gạo không còn là nguyên liệu trắng không tên nữa, mà bắt đầu như trà và cà phê, mang lại lịch sử hương vị dễ nhận biết.
+
+Danh sách các giống của Trung tâm Nghiên cứu Nông nghiệp Vùng Nam cho thấy xu hướng này vẫn đang tiếp tục: Thung Nam 11 ra mắt năm 2004, nhấn mạnh chất lượng gạo và năng suất; Thung Nam 16 hoàn thành năm 2012 thông qua hỗ trợ dấu hiệu phân tử hợp tác với Đại học Quốc gia Đài Loan; Thung Nam 19 mang các mục tiêu như tiết kiệm nước, chống bệnh và giảm tỉ lệ caryopses trắng; Thung Nam 21 là giống gạo dùng để pha rượu ra mắt năm 2024. [^14]
+
+Ý nghĩa của lựa chọn hỗ trợ dấu hiệu phân tử không phải là để nông nghiệp trở thành một công trình có thể hoàn thành bằng một nút bấm. Bản ghi của Tạp chí Ánh Sáng Đài Loan ghi nhận, Thung Nam 16 được lai chéo từ gạo thơm và Thung 67, thông qua lựa chọn hỗ trợ dấu hiệu phân tử để rút ngắn thời gian sinh ra xuống sáu năm. [^13] Tuy nhiên, các giống mới vẫn cần quay lại cánh đồng thử nghiệm để chịu đựng được khí hậu, đất, bệnh hại, cách vận hành của nông dân và khẩu vị thị trường. Phòng thí nghiệm tăng tốc quá trình lọc, nhưng không thay thế cho quyết định cuối cùng ở cánh đồng.
+
+## Chùm Thông, nơi ở của Thảo Thượng và ký ức của một bát cơm
+
+Giống gốc sau này biến mất ở Đài Loan, nhưng vào năm 2016, thông qua hạt giống được bảo quản bởi Khoa Nông nghiệp của Đại học Quốc gia Đài Loan và Viện Nghiên cứu Di truyền Quốc gia Nhật, nó trở lại lại cánh đồng Chùm Thông. Báo cáo của Truyền hình Công cộng ghi nhận sự trồng lại, cánh đồng gốc và những người lớn tuổi địa phương, đồng thời ghi nhận sự thay đổi phong cảnh của Chùm Thông sau này chuyển sang trồng hoa và nông nghiệp giải trí. [^4]
+
+Nơi ở của Thảo Thượng trên khuôn viên Đại học Quốc gia Đài Loan cũng bảo quản một ký ức khác. Năm 2003, kiến trúc sư Liu Chính Tử phát hiện những bản ghi chép tay và dụng cụ của Thảo Thượng trong ngôi nhà, biến một căn phòng gần như bị bỏ quên trở thành cửa ngõ vào lịch sử nông học Đài Loan. Năm 2016, Truyền hình Công cộng báo cáo về những bức tường tre, tấm vách ngăn nước và cửa sổ hỏng hóc của ngôi nhà, nhắc nhở mọ người: một trung tâm nghiên cứu cho một bát cơm cũng có thể bị lãng quên nhanh hơn một bát cơm. [^4] [^8] [^9]
+
+Bạo loạn thóc gạo sau này xuất hiện trong các bữa ăn nhanh, bánh tét, cơm cuộn và bữa ăn gia đình. Các bài viết về ẩm thực thường hỏi người Đài Loan hôm nay ăn bao nhiêu gạo. Lịch sử của bạo loạn thóc gạo hỏi thêm một câu hỏi khác: Tại sao chúng ta lại coi một giống gạo nhất định là "bữa ăn bình thường"? Câu trả lời không chỉ nằi ở khẩu vị, mà còn ở trường thử nghiệm, thị trường thuộc địa, cam kết của nông dân, thu mua thương mại, chính sách sau chiến tranh và thói quen của nhiều thế hệ.
+
+Hôm nay, mở nắp nồi cơm, hơi thơm của cơm như một phần của cuộc sống hàng ngày, nhưng không phải là tự nhiên. Nó trải qua những thất bại của nhà nghiên cứu, những lần thử nghiệm liên tục của Mã Vĩ Nhân trong cánh đồng, cam kết thu mua của Lý Bằng Nghị dành cho nông dân, sự truyền tìm của những nhà lựa chọn sau chiến tranh về chống bệnh và tăng năng suất, và cũng qua từng miếng cơm của người Đài Loan biến lúa Nhật thành hương vị riêng.
+
+\*\*Điều đáng nhớ nhất về bạo loạn thóc gạo không phải là nó có tinh khiết hay không, mà là nó cho chúng ta thấy: hương vị Đài Loan có thể là kết quả của những lần thử nghiệm, thất bại và điều chỉnh trên một mảnh đất mới, cuối cùng được công nhận chung."
+
+## Tài liệu tham khảo
+
+[^1]: [Mỗi hạt đều đầy nỗi khổ, những người góp phần đưa bạo loạn thóc gạo lên bàn ăn — Thảo Thượng và Mã Vĩ Nhân](https://pansci.asia/archives/362733) — Bài viết chuyên đề của PanSci, tổng hợp bão động thóc gạo, phân loại giống, Chùm Thông, giống gốc và vai trò thúc đẩy của Lý Bằng Nghị.
+
+[^2]: [Thảo Thượng và Mã Vĩ Nhân trên con đường giữa bông lúa — Câu chuyện bạo loạn thóc gạo của Đài Loan](http://ntualumnibm.ntu.edu.tw/bm.bimonthly.article/detail/sn/8298) — Bài viết chuyên đề của Tạp chí Sinh viên Alumni Đại học Quốc gia Đài Loan, ghi nhận hai nhà lựa chọn, trường thử nghiệm và tiến trình của Thung 65.
+
+[^3]: [Lúa núi bản địa có việc phải làm! Giải mã nguồn gốc của bạo loạn thóc gạo ở Đài Loan, phát hiện dấu vết di cư ngôn ngữ Nam Đảo](https://research.sinica.edu.tw/hsing-yue-le-rice-gene-austronesian/) — Bài viết của Viện Nghiên cứu Trung Ương, giải thích tính chất chống bệnh, chu kỳ ánh sáng và nghiên cứu di truyền của Thung 65.
+
+[^4]: [Ký ức bạo loạn thóc gạo | Gạo Nhật được cải thiện ở Đài Loan](https://ourisland.pts.org.tw/content/2580) — Chương trình "Hòn đảo của chúng ta" của Truyền hình Công cộng, ghi nhận sự trồng lại giống gốc ở Chùm Thông, cánh đồng gốc và sự bảo quản của ngôi nhà Thảo Thượng.
+
+[^5]: [Hành trình trên bờ sông gạo: Kỷ niệm trăm năm của bạo loạn thóc gạo](https://theme.moa.gov.tw/showcase.php?id=32) — Kỷ niệm trăm năm của Bộ Nông nghiệp, tổng hợp sản lượng cao sau chiến tranh, lựa chọn chất lượng, gạo đặc trưng và nông nghiệp bền vững hiện đại.
+
+[^6]: [The introduction and impact of food crops in Taiwan during the Japanese colonial period](https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2025.1724277/full) — Nghiên cứu về kết quả năng suất của việc cải tiến cây trồng trong thời kỳ thuộc địa, cũng như bất bình đẳng tài nguyên và phân lớp xã hội.
+
+[^7]: [The Taste of Colonialism? Changing Norms of Rice Production and Consumption in Modern Taiwan](https://link.springer.com/chapter/10.1007/978-3-030-96268-5_4) — Chương trình học thuật phân tích sở thích gạo, chính sách thuộc địa, công nghệ lựa chọn và tiêu chuẩn cảm quan "gạo ngon".
+
+[^8]: [「Cha của bạo loạn thóc gạo」 ngôi nhà gỗ của Thảo Thượng, quyên góp từ cộng đồng hy vọng khôi phục](https://news.pts.org.tw/article/338418) — Báo cáo tin tức của Truyền hình Công cộng về khó khăn trong việc bảo tồn di tích lịch sử của ngôi nhà Thảo Thượng và ý nghĩa của trung tâm nghiên cứu.
+
+[^9]: [Tracing the Roots of Taiwanese Rice](https://www.taiwan-panorama.com/en/Articles/Details?Guid=cf723995-adf6-4202-8532-1e5714c49fc0&CatId=10&postname=Tracing%20the%20Roots%20of%20Taiwanese%20Rice) — Bài viết tiếng Anh của Tạp chí Ánh Sáng Đài Loan, truy tìm nguồn gốc của ngôi nhà Thảo Thượng, giống gốc Chùm Thông, giống gốc, tên gọi bạo loạn thóc gạo và Thung 65.
+
+[^10]: [Green Rice Fields in Luye, Taiwan - June 2023.jpg](https://commons.wikimedia.org/wiki/File:Green_Rice_Fields_in_Luye,_Taiwan_-_June_2023.jpg) — Trang tệp tin Wikimedia Commons; Jun Jie Yam, CC BY 4.0, sử dụng liên kết ảnh gốc trong văn bản.
+
+[^11]: [05 Countryside of Taiwan - rice fields and mountains in Ruisui, Hualien County, Taiwan.jpg](https://commons.wikimedia.org/wiki/File:05_Countryside_of_Taiwan_-_rice_fields_and_mountains_in_Ruisui,_Hualien_County,_Taiwan.jpg) — Trang tệp tin Wikimedia Commons; Marek Slusarczyk, CC BY 3.0, sử dụng liên kết ảnh gốc trong văn bản.
+
+[^12]: [Thung 67](https://kmweb.moa.gov.tw/theme_data.php?theme=important_breed&id=31) — Dữ liệu giống của Trang mạng kiến thức nông nghiệp, ghi nhận mục tiêu lựa chọn, đặc điểm thu hoạch bằng máy móc và diện tích thúc đẩy hàng năm của Thung 67.
+
+[^13]: [Taste and Terroir: Taiwan’s Rice Gains Refinement](https://www.taiwan-panorama.com/en/Articles/Details?Guid=9f55739f-871f-4cad-bf79-3d4c05e95f92&CatId=10&postname=Taste%20and%20Terroir%3A%20Taiwan%E2%80%99s%20Rice%20Gains%20Refinement) — Bài viết của Tạp chí Ánh Sáng Đài Loan, ghi nhận Thung 9, Thung 194, Thung Nam 16, hợp tác thương hiệu và lựa chọn hỗ trợ dấu hiệu phân tử.
+
+[^14]: [Rice](https://www.tndais.gov.tw/en/ws.php?id=2886&font_size=big&print=Y) — Lịch sử các giống của Trung tâm Nghiên cứu Nông nghiệp Vùng Nam, liệt kê năm sinh và mục đích sử dụng của Thung Nam 11, 16, 19, 20, 21.

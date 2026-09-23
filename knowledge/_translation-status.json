@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-24T01:16:33+08:00",
-    "zhCommitHead": "feea83322",
+    "lastUpdated": "2026-09-24T01:20:42+08:00",
+    "zhCommitHead": "c781f9ad0",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,16 +28,16 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 999,
+        "fresh": 1000,
         "stale": 63,
         "metadata_stale": 0,
-        "missing": 62,
+        "missing": 61,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1124,
-        "fresh": 1070,
-        "stale": 38,
+        "fresh": 1071,
+        "stale": 37,
         "metadata_stale": 0,
         "missing": 16,
         "orphan": 0
@@ -52,24 +52,24 @@
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1069,
-        "stale": 42,
+        "fresh": 1071,
+        "stale": 40,
         "metadata_stale": 0,
         "missing": 13,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 1090,
-        "stale": 20,
+        "fresh": 1091,
+        "stale": 19,
         "metadata_stale": 1,
         "missing": 13,
         "orphan": 0
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 1019,
-        "stale": 36,
+        "fresh": 1020,
+        "stale": 35,
         "metadata_stale": 0,
         "missing": 69,
         "orphan": 0
@@ -92,16 +92,16 @@
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 1040,
-        "stale": 26,
+        "fresh": 1041,
+        "stale": 25,
         "metadata_stale": 0,
         "missing": 58,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1052,
-        "stale": 25,
+        "fresh": 1053,
+        "stale": 24,
         "metadata_stale": 1,
         "missing": 46,
         "orphan": 0
@@ -70807,8 +70807,8 @@
           "sourceContentHash": "sha256:d584a485050631e9",
           "sourceBodyHash": "sha256:5fb85b385727325b",
           "translatedAt": "2026-09-23T22:11:58+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8117f19c",
+          "translationLastModified": "2026-09-24T01:16:33+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "bytes": 25165,
@@ -78137,11 +78137,11 @@
           "translationLastCommit": "",
           "translationLastModified": "",
           "inferred": false,
-          "footnoteDefs": 30,
-          "bytes": 87522,
+          "footnoteDefs": 85,
+          "bytes": 111207,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (85→30)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/About/algorithmic-art-bigger-than-nations.md",
@@ -78153,11 +78153,11 @@
           "translationLastCommit": "",
           "translationLastModified": "",
           "inferred": false,
-          "footnoteDefs": 30,
-          "bytes": 93893,
+          "footnoteDefs": 85,
+          "bytes": 118279,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (85→30)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/About/algorithmic-art-bigger-than-nations.md",
@@ -78166,14 +78166,14 @@
           "sourceContentHash": "sha256:f80a6926eb8b07e4",
           "sourceBodyHash": "sha256:9644f2433efde351",
           "translatedAt": "2026-09-23T17:00:04Z",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "76c969d1",
+          "translationLastModified": "2026-09-24T01:19:40+08:00",
           "inferred": false,
-          "footnoteDefs": 60,
-          "bytes": 90011,
+          "footnoteDefs": 85,
+          "bytes": 100408,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (85→60)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/About/algorithmic-art-bigger-than-nations.md",
@@ -78201,11 +78201,11 @@
           "translationLastCommit": "",
           "translationLastModified": "",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 132705,
+          "footnoteDefs": 45,
+          "bytes": 168764,
           "armorResidue": 0,
           "status": "stale",
-          "reason": "footnote-loss (85→0)"
+          "reason": "footnote-loss (85→45)"
         },
         "ar": {
           "path": "ar/About/algorithmic-art-bigger-than-nations.md",
@@ -78214,14 +78214,14 @@
           "sourceContentHash": "sha256:f80a6926eb8b07e4",
           "sourceBodyHash": "sha256:9644f2433efde351",
           "translatedAt": "2026-09-23T17:00:59Z",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c781f9ad",
+          "translationLastModified": "2026-09-24T01:19:48+08:00",
           "inferred": false,
-          "footnoteDefs": 57,
-          "bytes": 121368,
+          "footnoteDefs": 85,
+          "bytes": 137911,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (85→57)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/About/algorithmic-art-bigger-than-nations.md",
@@ -78233,11 +78233,11 @@
           "translationLastCommit": "",
           "translationLastModified": "",
           "inferred": false,
-          "footnoteDefs": 15,
-          "bytes": 115738,
+          "footnoteDefs": 85,
+          "bytes": 157132,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (85→15)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/About/algorithmic-art-bigger-than-nations.md",
@@ -78249,11 +78249,11 @@
           "translationLastCommit": "",
           "translationLastModified": "",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 69072,
+          "footnoteDefs": 60,
+          "bytes": 94238,
           "armorResidue": 0,
           "status": "stale",
-          "reason": "footnote-loss (85→0)"
+          "reason": "footnote-loss (85→60)"
         }
       }
     },
@@ -120844,8 +120844,8 @@
           "sourceContentHash": "sha256:ad617fbb654f67ae",
           "sourceBodyHash": "sha256:986ab9796f1069f2",
           "translatedAt": "2026-09-23T15:45:13.050546+00:00",
-          "translationLastCommit": "26d3f390",
-          "translationLastModified": "2026-09-22T00:53:27+08:00",
+          "translationLastCommit": "8117f19c",
+          "translationLastModified": "2026-09-24T01:16:33+08:00",
           "inferred": false,
           "footnoteDefs": 23,
           "bytes": 32247,
@@ -124994,20 +124994,18 @@
         "ko": {
           "path": "ko/People/stanley-yen.md",
           "translatedFrom": "People/嚴長壽.md",
-          "sourceCommitSha": "df2e7558",
-          "sourceContentHash": "sha256:259b129f305ff5f9",
-          "sourceBodyHash": "sha256:366255e36a4fa0f5",
-          "translatedAt": "2026-06-16T17:14:05Z",
+          "sourceCommitSha": "9cef725ce",
+          "sourceContentHash": "sha256:f03fe4356a8b034b",
+          "sourceBodyHash": "sha256:0511dd3ec1c7896e",
+          "translatedAt": "2026-09-23T22:11:48+08:00",
           "translationLastCommit": "bd89e7e1",
           "translationLastModified": "2026-07-25T10:33:05+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "bytes": 20000,
+          "bytes": 23163,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/stanley-yen.md",
@@ -139448,8 +139446,8 @@
           "sourceContentHash": "sha256:2f3feb8df34cdc45",
           "sourceBodyHash": "sha256:3e236311319150f0",
           "translatedAt": "2026-09-23T22:11:58+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "8117f19c",
+          "translationLastModified": "2026-09-24T01:16:33+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "bytes": 31031,
@@ -151372,8 +151370,8 @@
           "sourceContentHash": "sha256:9939199675a5453a",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-23T16:34:28.416345+00:00",
-          "translationLastCommit": "1cba4b04",
-          "translationLastModified": "2026-09-22T12:14:59+08:00",
+          "translationLastCommit": "8117f19c",
+          "translationLastModified": "2026-09-24T01:16:33+08:00",
           "inferred": false,
           "footnoteDefs": 37,
           "bytes": 30248,
@@ -157061,20 +157059,18 @@
         "fr": {
           "path": "fr/Food/taiwanese-street-food.md",
           "translatedFrom": "Food/台灣小吃.md",
-          "sourceCommitSha": "1facb1b9c",
-          "sourceContentHash": "sha256:d44d711c2a614f5f",
-          "sourceBodyHash": "sha256:fc8359a5a9777af0",
-          "translatedAt": "2026-07-25T07:05:14+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:da45c346079f5144",
+          "sourceBodyHash": "sha256:40a1aa98903d8e72",
+          "translatedAt": "2026-09-23T22:11:52+08:00",
           "translationLastCommit": "677cd01d",
           "translationLastModified": "2026-09-22T01:05:52+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 22447,
+          "bytes": 23073,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+9 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Food/taiwanese-street-food.md",
@@ -193539,8 +193535,8 @@
           "sourceContentHash": "sha256:9851afbe3b082508",
           "sourceBodyHash": "sha256:9e4ce2561244c6a9",
           "translatedAt": "2026-09-23T16:14:17.771061+00:00",
-          "translationLastCommit": "26d3f390",
-          "translationLastModified": "2026-09-22T00:53:27+08:00",
+          "translationLastCommit": "8117f19c",
+          "translationLastModified": "2026-09-24T01:16:33+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "bytes": 30437,
@@ -198300,7 +198296,20 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Culture/tsou-mayasvi-festival.md",
+          "translatedFrom": "Culture/鄒族戰祭.md",
+          "sourceCommitSha": "1eb167b3b",
+          "sourceContentHash": "sha256:ae52d69aff0bb025",
+          "sourceBodyHash": "sha256:caa7d610513eb652",
+          "translatedAt": "2026-09-23T22:11:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "bytes": 21954,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Culture/tsou-mayasvi-festival.md",
