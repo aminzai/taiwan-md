@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-23T20:26:42+08:00",
-    "zhCommitHead": "be2fb2872",
+    "lastUpdated": "2026-09-23T20:35:27+08:00",
+    "zhCommitHead": "1cee93e2e",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,8 +28,8 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 977,
-        "stale": 64,
+        "fresh": 978,
+        "stale": 63,
         "metadata_stale": 19,
         "missing": 64,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 918,
+        "fresh": 922,
         "stale": 14,
         "metadata_stale": 6,
-        "missing": 186,
+        "missing": 182,
         "orphan": 0
       }
     },
@@ -3362,8 +3362,8 @@
           "sourceContentHash": "sha256:3550fb52e312828d",
           "sourceBodyHash": "sha256:4cfd214b3bc19b4d",
           "translatedAt": "2026-09-23T18:41:10+08:00",
-          "translationLastCommit": "caa10522",
-          "translationLastModified": "2026-07-27T18:58:03+08:00",
+          "translationLastCommit": "1cee93e2",
+          "translationLastModified": "2026-09-23T20:26:42+08:00",
           "inferred": false,
           "footnoteDefs": 25,
           "bytes": 43806,
@@ -3718,7 +3718,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Music/fire-ex.md",
+          "translatedFrom": "Music/滅火器樂團.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:ff50a058e16cd318",
+          "sourceBodyHash": "sha256:4b22b6f4b3e09c1b",
+          "translatedAt": "2026-09-23T20:15:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 19,
+          "bytes": 20257,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -22504,7 +22517,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/foxconn-precision-industry.md",
+          "translatedFrom": "Economy/台灣企業：鴻海精密.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:f8ad90a4cc28bbe6",
+          "sourceBodyHash": "sha256:68bf0232c7180c94",
+          "translatedAt": "2026-09-23T20:15:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "bytes": 27677,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -24657,8 +24683,8 @@
           "sourceContentHash": "sha256:19e7a45a0852260f",
           "sourceBodyHash": "sha256:a1d16e29348fc28f",
           "translatedAt": "2026-09-23T19:25:23+08:00",
-          "translationLastCommit": "caa10522",
-          "translationLastModified": "2026-07-27T18:58:03+08:00",
+          "translationLastCommit": "1cee93e2",
+          "translationLastModified": "2026-09-23T20:26:42+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "bytes": 39616,
@@ -25858,20 +25884,18 @@
         "ja": {
           "path": "ja/Technology/artificial-intelligence-development-strategy.md",
           "translatedFrom": "Technology/台灣人工智慧發展與未來策略.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:ea05ddc3465f02eb",
-          "sourceBodyHash": "sha256:c1a908bbd971d40d",
-          "translatedAt": "2026-06-16T16:55:14Z",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:151b93f3268baa1f",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-23T11:53:24.088178+00:00",
           "translationLastCommit": "59ff7e7d",
           "translationLastModified": "2026-07-30T04:02:34+08:00",
           "inferred": false,
           "footnoteDefs": 40,
-          "bytes": 54572,
+          "bytes": 56089,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+7 -6"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Technology/artificial-intelligence-development-strategy.md",
@@ -36093,7 +36117,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Art/lin-ching-yao-artist.md",
+          "translatedFrom": "Art/林經堯.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:d29637a833e9cde7",
+          "sourceBodyHash": "sha256:31177a634927a74f",
+          "translatedAt": "2026-09-23T20:15:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "bytes": 13759,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -64238,7 +64275,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/united-front-tour-groups.md",
+          "translatedFrom": "Society/統戰團.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:6189acad34e81f7d",
+          "sourceBodyHash": "sha256:a81371a8c3c242ce",
+          "translatedAt": "2026-09-23T20:30:38+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 22,
+          "bytes": 24709,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -115482,11 +115532,11 @@
           "sourceContentHash": "sha256:eecabb61bafa58a4",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-23T10:41:32.616228+00:00",
-          "translationLastCommit": "caa10522",
-          "translationLastModified": "2026-07-27T18:58:03+08:00",
+          "translationLastCommit": "1cee93e2",
+          "translationLastModified": "2026-09-23T20:26:42+08:00",
           "inferred": false,
           "footnoteDefs": 74,
-          "bytes": 85503,
+          "bytes": 85509,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -147263,8 +147313,8 @@
           "sourceContentHash": "sha256:0f8567c72fce22ef",
           "sourceBodyHash": "sha256:31e72a4ea39ea451",
           "translatedAt": "2026-09-23T18:41:10+08:00",
-          "translationLastCommit": "caa10522",
-          "translationLastModified": "2026-07-27T18:58:03+08:00",
+          "translationLastCommit": "1cee93e2",
+          "translationLastModified": "2026-09-23T20:26:42+08:00",
           "inferred": false,
           "footnoteDefs": 4,
           "bytes": 17342,
@@ -157962,8 +158012,8 @@
           "sourceContentHash": "sha256:77ab88a911a474f4",
           "sourceBodyHash": "sha256:0ecfd7b1fa40d486",
           "translatedAt": "2026-09-23T18:41:10+08:00",
-          "translationLastCommit": "dcb7eb53",
-          "translationLastModified": "2026-09-22T01:05:35+08:00",
+          "translationLastCommit": "1cee93e2",
+          "translationLastModified": "2026-09-23T20:26:42+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 24427,
@@ -158166,8 +158216,8 @@
           "sourceContentHash": "sha256:bd2837ec0fbef900",
           "sourceBodyHash": "sha256:a96dfd18a42fc656",
           "translatedAt": "2026-09-23T18:41:10+08:00",
-          "translationLastCommit": "dcb7eb53",
-          "translationLastModified": "2026-09-22T01:05:35+08:00",
+          "translationLastCommit": "1cee93e2",
+          "translationLastModified": "2026-09-23T20:26:42+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 16544,
@@ -161454,11 +161504,11 @@
           "sourceContentHash": "sha256:e8ef7d9d72df6a42",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-23T11:56:28.071253+00:00",
-          "translationLastCommit": "fd678fd2",
-          "translationLastModified": "2026-07-25T10:32:02+08:00",
+          "translationLastCommit": "1cee93e2",
+          "translationLastModified": "2026-09-23T20:26:42+08:00",
           "inferred": false,
           "footnoteDefs": 40,
-          "bytes": 57108,
+          "bytes": 57110,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -189609,8 +189659,8 @@
           "sourceContentHash": "sha256:446265901543dd85",
           "sourceBodyHash": "sha256:2daf1a831ec93084",
           "translatedAt": "2026-09-23T19:25:42+08:00",
-          "translationLastCommit": "caa10522",
-          "translationLastModified": "2026-07-27T18:58:03+08:00",
+          "translationLastCommit": "1cee93e2",
+          "translationLastModified": "2026-09-23T20:26:42+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "bytes": 30899,
@@ -198906,8 +198956,8 @@
           "sourceContentHash": "sha256:e71b837d32f8708d",
           "sourceBodyHash": "sha256:9b0e9ffb81c95f4e",
           "translatedAt": "2026-09-23T19:25:23+08:00",
-          "translationLastCommit": "dcb7eb53",
-          "translationLastModified": "2026-09-22T01:05:35+08:00",
+          "translationLastCommit": "1cee93e2",
+          "translationLastModified": "2026-09-23T20:26:42+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "bytes": 19497,
