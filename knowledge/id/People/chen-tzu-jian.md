@@ -22,11 +22,13 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-01-01
 lastHumanReview: true
+summary: '台灣網路創作者、新聞主播、節目主持人。1994年5月8日生於南投縣水里鄉，畢業於南投縣立水里國民中學、國立大里高級中學、國立彰化師範大學國文系。自小夢想當主播。2015年與動眼神經等人創立《眼球中央電視台》，模仿央視官話嘲諷中華民國法統荒謬走紅。2018年3月5日至12月31日任華視午間新聞主播（23歲最年輕紀錄）。2023年5月31日在121萬訂閱、累計超過3億點閱巔峰停更。後主持公視《哈囉！你給問嗎？》（第59屆金鐘生活風格主持人入圍）、小公視《成仁高中偵探社》S1（2024-2025）與S2（2025年起，金鐘60少年節目入圍）。2026年3月點外送寫35行「不要香菜」備註爆紅；4月起帶愛犬柚子旅居東京一年。'
+coverImage: ''
 translatedFrom: 'People/陳子見.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:b4ed377dcae75954'
-sourceBodyHash: 'sha256:5225e3163bb10fe2'
-translatedAt: '2026-07-25T12:49:29+08:00'
+sourceCommitSha: '7255b3ab1'
+sourceContentHash: 'sha256:eb27407b6e235169'
+sourceBodyHash: 'sha256:0faeef3fdda7a842'
+translatedAt: '2026-09-23T02:43:52.393486+00:00'
 ---
 
 ## Ringkasan 30 Detik
@@ -64,23 +66,21 @@ Chen Tzu-chien sama produser Oculomotor Nerve di video perpisahan & wawancara la
 
 Lagi, saat gerakan #MeToo Taiwan 2023 meledak, pernah kena pelecehan seksual karyawan wanita: lawan bukan cuma pelukan paksa berulang (termasuk liburan karyawan 2021 "berlutut pelukan"), tapi di luar fitnah pacaran, sok-sokan kerja, ngarang cerita intim (pelek paha, cemburu, mata mirip ngajak tidur, nenek moyang roh dll.), bikin gerah. Ia pasca berhenti sendiri ungkap hal ini, demi lindungi diri. Pasca berhenti juga ngakui, pernah dua kali didekati investor Tiongkok (termasuk tawar 750 ribu beli fanspage, lawan mau konten dipindah ke Douyin), tapi ditolak karena "satu kerja sama bisnis aja nggak cuma harga itu" dan nggak niat jual. Tutup saluran, biaya wajib buat nemuin badan, rasain suhu hidup lagi. [^6]
 
-## Transformasi & Kehidupan Pribadi Pasca Berhenti
+## Transformasi Pasca Penghentian dan Kehidupan Pribadi
 
-Berhenti lalu Chen Tzu-chien cepat beralih TV tradisional & short-form pribadi. Oktober 2023 mulai bersama Lee Pei-yu (Da Pei) co-host PTS "Halo! Kamu Tanya Apa?", lewat node ini nominasi Golden Bell 59 pembawa gaya hidup. Agustus 2024–Januari 2025 host PTS Junior program immersive real-puzzle pertama Taiwan "Klub Detektif SMA Cheng-jen", November 2025 lanjut S2 (upgrade "Perang Hidup Mati Tebakan", eliminasi, tiap eps masukin escape room, scripted murder mystery, bahas isu sekolah: pelecehan seksual berkuasa, narkoba, sistem senior-junior; undang Chu Yu-cheng, Hu Sheng-ming, Li Yi-long bintang, ia peran "Senior Jian" host), 17 Oktober 2025 bawa tim naik karpet merah Golden Bell 60, "Klub Detektif SMA Cheng-jen" nominasi program remaja. [^8]
+Setelah menghentikan aktivitas, Chen Tzu-chien dengan cepat beralih ke ranah televisi tradisional dan konten video pendek pribadi. Mulai Oktober 2023, ia menjadi pembawa acara bersama Li Pei-yu (Dapei) di program CCTV _Hello! What Do You Want to Ask?_, dan melalui acara tersebut, ia masuk nominasi Penghargaan Gaya Hidup Pembawa Acara Golden Bell ke-59. Dari Agustus hingga Januari 2024, ia membawakan program pemecahan misteri realitas imersif pertama dari CCTV Taiwan, _Detective Club di Sekolah Menengah Chenren_, dan mulai November 2025, melanjutkan dengan S2 (yang ditingkatkan menjadi sistem eliminasi "Perang Bertahan Hidup Detektif," setiap episode menyertakan elemen _escape room_ dan _murder mystery_, membahas isu-isu sekolah seperti pelecehan kekuasaan, narkoba, dan senioritas; mengundang deretan bintang seperti Chu You-cheng, Hu Sheng-ming, dan Li Yi-long untuk membawakan peran "senior"), pada 17 Oktober 2025, ia memimpin tim di karpet merah Golden Bell ke-60, dengan _Detective Club di Sekolah Menengah Chenren_ masuk nominasi penghargaan program remaja. [^8]
 
-12 Juli 2024 mulainya di Instagram luncurkan "News Spot", gaya subtitle berita Jepang edit current affairs, sering pairing endorsement; 29 September 2025 luncurkan short vertikal "Retina News". Sambil kelola YouTube pribadi "Retina & Pomelo Daily", fokus bagi Pomelo (anjing Shiba betina, mantan ketua kehormatan Partai Gak Bisa Bahagia) & kehidupan sehari-hari kelelahan ekstrem ketumbar. Maret 2026 pesan antar mie usus besar tulis 35 baris "jangan ketumbar" di catatan, berhasil nge-hook balasan boss "sedang diselidiki", lanjutin simbol budayanya. April 2026 bawa Pomelo staycation Tokyo setahun, bagi Tokyo Tower, jalan sakura, emosional bilang "akhirnya ngejar satu mimpi". [^7]
+Sejak 12 Juli 2024, ia meluncurkan "Lokasi Berita" di Instagram, mengedit berita terkini dengan gaya teks Jepang, yang sering dipadukan dengan iklan; pada 29 September 2025, ia merilis video pendek vertikal "Retina News." Ia juga mengelola saluran YouTube pribadinya, "Rutinitas Retina & Yuzu," yang berfokus membagikan kehidupan sehari-hari bersama anjingnya, Yuzu (Chihuahua betina, mantan ketua kehormatan Partai Kegembiraan Tanpa Batas), dan keengganannya terhadap daun ketumbar. Pada Maret 2026, ketika ia memesan mie besar dengan pengiriman, ia menulis 35 baris "Tidak pakai ketumbar" di kolom catatan, yang berhasil memancing balasan dari pemilik toko, "Sedang diselidiki," melanjutkan simbol budaya tersebut. Mulai April 2026, ia dan Yuzu pindah ke Tokyo selama setahun, berbagi kegiatan sehari-hari seperti berjalan-jalan di Menara Tokyo dan melihat bunga sakura, dengan perasaan sentimental mengatakan "akhirnya mewujudkan satu mimpi." [^7]
 
-November 2024 di forum lintas generasi, ia bilang sekarang capek konten current affairs, "kalau nggak punya ide seru, nggak mau bikin", peluang comeback sebentar lagi rendah, fokus kerja sudah geser ke TV & short-form pribadi; ia juga bercanda pengen kolab Tang Chi-yang. [^8]
-
----
-
-**Baca Lanjut**
-
-- [Bajiong](八炯.md) — Dari YouTuber pro-Taiwan jadi pembongkar rantai statistik netizen pro-PRC, jalan lain yang juga nulis resistensi ke brand pribadi
-- [A Di](阿滴.md) — Eksperimen suara internasional YouTuber bilingual jutaan, sama Retina bikin cerminan "Eksternal Propaganda Inggris vs Sindiran Cina"
-- [Chang Chih-chi](張志祺.md) — Host Chih-chi 77, kreator digital sebaya bikin isu jadi program solusi lain
+Pada forum lintas generasi pada November 2024, ia menyatakan bahwa saat ini merasa lelah terhadap konten berita, "kecuali ada ide yang menyenangkan, saya tidak ingin melakukannya," sehingga kemungkinan untuk aktif kembali dalam waktu singkat rendah, dan fokus kerjanya telah beralih ke televisi dan video pendek pribadi; ia juga bercanda mengatakan sangat ingin bekerja sama dengan Tang Qi-yang. [^8]
 
 ---
+
+**Bacaan Lanjutan**
+
+- [Ba Jiong](/id/people/pa-chiung-political-youtuber) — Dari YouTuber Taiwan yang pro-Taiwan menjadi _influencer_ jaringan propaganda Tiongkok, jalur lain dalam menulis perlawanan ke dalam merek pribadi
+- [A Di](/id/people/ray-du-english-youtuber) — Eksperimen suara internasional dari YouTuber bilingual, cerminan antara "advokasi bahasa Inggris vs sarkasme berbahasa Mandarin" dengan Retina
+- [Chang Zhi-qi](/id/people/shasha77-chang-chih-chi) — Pembawa acara Zhiqi Qiqi, cara lain untuk membuat isu menjadi program bagi kreator konten digital seusianya
 
 ## Referensi
 

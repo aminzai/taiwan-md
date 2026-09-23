@@ -24,10 +24,10 @@ imageCredit: 'SLP台北創業領導計畫'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://slptaipei.com/'
 translatedFrom: 'Economy/SLP台北創業領導計畫.md'
-sourceCommitSha: 'cc540a12b'
-sourceContentHash: 'sha256:2807864e36fcb52b'
-sourceBodyHash: 'sha256:dc6cccd48d2e9282'
-translatedAt: '2026-07-27T22:12:14+08:00'
+sourceCommitSha: '7255b3ab1'
+sourceContentHash: 'sha256:7724220e60173fa7'
+sourceBodyHash: 'sha256:e213a0f35315b401'
+translatedAt: '2026-09-23T03:05:22.713097+00:00'
 ---
 
 # Program Kepemimpinan Kewirausahaan SLP Taipei: Kelas yang Dimulai dengan Enjut Yuan, Naik ke 58 Ribu Yuan dan Tetap Sulit Didapat
@@ -147,22 +147,22 @@ Koreksi kecil ini, tepat membawa kependudukan dukungan kewirausahaan non-saham T
 >
 > Jika mata ditarik ke global, akan menemukan hal yang lebih berlawanan dengan intuisi. Cabang Bangalore SLP India didirikan pada tahun 2010, dua tahun lebih awal dari Taipei, kursus hanya empat bulan, biaya sekitar 12.000 dolar Taiwan Baru, jauh lebih rendah dari 58 ribu Taipei sekarang — namun di alumninya ada Skyroot Aerospace, salah satu pemimpin aerospace swasta India[^29]. Biaya lebih rendah, waktu lebih pendek cabang, menjalankan kasus tunggal paling terkenal di seluruh jaringan. Ini menunjukkan satu hal: output sejati program semacam ini, bukan perusahaan yang "diajarkan" oleh kursus, melainkan orang-orang yang disaring dan dinyalakan oleh kelompok orang, enam bulan itu. Harga yang dinaikkan, tidak dapat membeli itu.
 
-## Epilog: Tidak Bergantung pada Pemerintah, Tidak Bergantung pada Saham, Melakukan Sesuatu dalam Waktu Lama
+## Epilog: Melakukan Sesuatu dalam Jangka Panjang Tanpa Mengandalkan Pemerintah atau Ekuitas
 
-Pada tahun 2012, sekelompok orang yang juga sedang berwirausaha, di Taipei mengeluarkan uang sendiri, secara无偿 (gratis) menyelenggarakan kelas. Biaya satu kali angkatan pertama 6.000 yuan, dihitung kurang dari 100 yuan per jam.
+Pada tahun 2012, sekelompok orang yang juga sedang berwirausaha mengadakan satu sesi pelatihan di Taipei secara mandiri dan tanpa biaya. Biaya sekali bayar untuk angkatan pertama adalah enam ribu Yuan, setara kurang dari seratus Yuan per jam.
 
-Empat belas tahun kemudian, hal yang sama menjadi komunitas terlembagakan yang berlangsung setahun sekali, lebih dari seratus orang berebut tiga puluh kursi, biaya mendekati 60 ribu, pada tahun 2023 secara resmi mendaftarkan menjadi asosiasi. Harga naik hampir sepuluh kali lipat, logika inti penyelenggaraan tidak berubah satu kata — wirausaha membantu wirausaha, mengambil waktu Anda bukan saham Anda, setiap yuan menulis "semuanya digunakan untuk peserta".
+Empat belas tahun kemudian, hal yang sama telah berkembang menjadi komunitas tahunan yang diminati lebih dari seratus orang dengan hanya tiga puluh kuota terbatas, dengan biaya mendekati enam puluh ribu. Pada tahun 2023, komunitas ini secara resmi didirikan sebagai sebuah asosiasi. Harganya hampir sepuluh kali lipat, namun logika inti penyelenggara tidak berubah sedikit pun—wirausahawan membantu wirausahawan; mereka mengambil waktu Anda, bukan ekuitas Anda, dan setiap rupiah tertulis "sepenuhnya digunakan untuk peserta".
 
-Ini tidak pernah muncul di media internasional, juga jarang diliput secara khusus oleh majalah besar seperti Business Weekly, CommonWealth Magazine[^30], ia diam-diam diteruskan di INSIDE, di Startup Gathering, di saluran YouTube berlangganan tiga belas orang itu sendiri, angkatan demi angkatan. Pada akhirnya, ini adalah sepotong saling bantu rakyat Taiwan: tanpa bergantung pada subsidi pemerintah, tanpa bergantung pada pasar modal, bagaimana sekelompok orang, dengan hubungan interpersonal, dengan satu kalimat "berkelahi dalam kelompok lebih memiliki peluang menang", melakukan hal kecil ini menjadi besar, menjadi lama, menjadi tempat yang sulit didapat empat belas tahun kemudian.
+Komunitas ini tidak pernah muncul di media internasional, dan jarang diliput secara khusus oleh majalah besar seperti _The Business Weekly_ atau _Tianxia_ [^30]; ia terus berlanjut secara diam-diam melalui INSIDE, melalui pertemuan wirausaha (_Startup Gathering_), dan di kanal YouTube milik mereka yang memiliki tiga belas pelanggan. Pada dasarnya, ini adalah sepotong gambaran dari gotong royong masyarakat Taiwan: bagaimana sekelompok orang mampu mengembangkan sesuatu yang kecil menjadi besar dan berkelanjutan hanya dengan mengandalkan hubungan pribadi dan pepatah "hanya dengan berkumpul baru ada peluang menang," menjadikannya tempat yang sulit ditemukan bahkan setelah empat belas tahun.
 
-Lebih banyak wawancara alumni dan siluet kursus, dikumpulkan di Saluran YouTube Resmi SLP Taipei [di sini](https://www.youtube.com/@SLPTAIPEI).
+Wawancara alumni dan cuplikan kursus lainnya dapat ditemukan di [kanal YouTube resmi SLP](https://www.youtube.com/@SLPTAIPEI).
 
 **Bacaan Lanjutan**:
 
-- [Ekosistem Startup](新創生態系.md) — Dari kesulitan startup Taiwan yang kekurangan modal ventura, ke pengembangan keseluruhan AppWorks, modal ventura dan pencarian unicorn, SLP adalah cabang "tidak mengambil saham" dalam ekosistem ini.
-- [Ekonomi Kreator Media Mandiri Taiwan: Medan Pecah 23 Juta Orang](台灣自媒體創作者經濟.md) — Bentuk ekonomi Taiwan "individu sebelum perusahaan" lainnya, yang secara jauh呼应 (mencerminkan) logika SLP "memilih orang bukan perusahaan".
-- [Transformasi dan Peningkatan Industri Taiwan: Dari Negara Manufaktur ke Negara Kuat Inovasi](台灣產業轉型升級.md) — Latar belakang besar "dari awal ke institusional" di balik kurva biaya SLP, adalah bagian dari transformasi industri Taiwan.
-- [Ekosistem Komersial di Luar Taman Teknologi Taiwan](台灣科技園區外圍商圈生態.md) — Bentuk lain dari energi kewirausahaan yang mendarat menjadi kluster fisik.
+- [Ekosistem Startup](/id/economy/taiwan-startup-ecosystem-overview) — Dari kesulitan startup Taiwan dalam kekurangan modal ventura, hingga perkembangan keseluruhan yang dikejar oleh AppWorks, pendanaan venture, dan unicorn, SLP adalah salah satu cabang "tanpa mengambil ekuitas" dalam ekosistem ini.
+- [Ekonomi Kreator Media Mandiri Taiwan: Medan Perang Pecahan 23 Juta Orang](/id/economy/taiwan-self-media-creator-economy) — Ini adalah model ekonomi Taiwan lainnya di mana "individu mendahului perusahaan," yang sangat selaras dengan logika SLP, yaitu "memilih orang, bukan memilih perusahaan."
+- [Transformasi dan Peningkatan Industri Taiwan: Dari Negara Manufaktur Menjadi Negara Inovatif](/id/economy/industrial-transformation-from-manufacturing-to-innovation) — Latar belakang besar di balik kurva biaya SLP—yaitu "dari inisiasi ke institusionalisasi"—adalah bagian dari transformasi industri Taiwan.
+- [Ekosistem Kawasan Bisnis Pinggiran Taman Teknologi Taiwan](/id/economy/tech-park-peripheral-business-ecosystem) — Ini adalah gambaran lain bagaimana energi kewirausahaan terwujud menjadi permukiman fisik.
 
 ## Sumber Gambar
 

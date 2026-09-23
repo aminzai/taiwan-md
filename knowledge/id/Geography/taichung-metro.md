@@ -24,23 +24,23 @@ rationale:
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'Geography/台中捷運.md'
-sourceCommitSha: '65acd39dc'
-sourceContentHash: 'sha256:930e1cf08d9847c7'
-sourceBodyHash: 'sha256:ac8494ae079b5eb8'
-translatedAt: '2026-09-14T06:58:43+08:00'
+sourceCommitSha: 'd9ef16d5e'
+sourceContentHash: 'sha256:9851afbe3b082508'
+sourceBodyHash: 'sha256:9e4ce2561244c6a9'
+translatedAt: '2026-09-23T02:05:01.038652+00:00'
 ---
 
-> **Ringkasan 30 Detik:** 2020, Garis Hijau MRT Taichung pertama kali memasuki operasi uji coba, namun berhenti pada hari ke-6 akibat kerusakan coupler, dan baru resmi beroperasi tahun berikutnya. Rute tinggi sepanjang 16,7 km ini menghubungkan Beitun, Jalan Wenxin, dan Stasiun HSR Taichung, serta membawa kota yang lama bergantung pada bus, sepeda motor, dan mobil ke era rel yang memaksa pembahasan tentang integrasi moda transportasi, keamanan, dan pejalan kaki. Yang benar-benar berubah bukan hanya tempat orang naik kereta, melainkan Taichung mulai memahami jarak dirinya sendiri lewat konsep "stasiun berikutnya".
+**30 秒概覽：** Pada 2020, rel pertama MRT Taichung berhenti karena kerusakan konektor pada hari ke-6 uji coba operasional, dan baru resmi beroperasi tahun berikutnya. Lintasan terapung sepanjang 16,7 km menghubungkan Beitun, Jalan Wuri-Xin, dan Stasiun Kereta Api Taichung Tinggi, membawa sebuah kota yang selama ini bergantung pada bus, sepeda motor, dan mobil ke dalam era rel yang menuntut diskusi tentang transfer, keselamatan, dan berjalan kaki. Yang benar-benar berubah bukanlah di mana orang naik, tetapi bagaimana Taichung mulai memahami jaraknya melalui "stasiun berikutnya".
 
-16 November 2020, Lu Hsiu-yen mengumumkan Garis Hijau MRT Taichung memulai operasi uji coba, kota ini pertama kali memiliki MRT sendiri. Hari itu lebih dari 70.000 orang kali masuk stasiun, seperti sebuah pesta coba rasa skala kota, semua orang tidak hanya naik kereta, tapi juga memverifikasi apakah Taichung benar-benar bisa menjadi kota yang bergerak di atas rel. [^1]
+Pada 16 November 2020, Lu Hsin-yueh mengumumkan pelaksanaan uji coba operasional MRT Taichung hijau, kota ini untuk pertama kalinya memiliki MRT-nya sendiri. Pada hari itu lebih dari 70.000 orang naik, seperti sebuah acara cicip kota yang besar, di mana orang tidak hanya menggunakan transportasi tetapi juga memastikan apakah Taichung benar-benar bisa menjadi sebuah kota yang bergerak di atas rel.[^1]
 
-6 hari kemudian, sumbu coupler semi-permanen di antara gerbong kereta patah, 18 rangkaian kereta dihentikan total. Garis Hijau yang dijadwalkan resmi beroperasi akhir 2020, baru bisa beroperasi kembali 25 April 2021. [^2]
+Enam hari kemudian, poros konektor semi-permanen antar gerbong kereta terputus, dan 18 gerbong kereta semuanya terhenti. Garis hijau yang semula dijadwalkan beroperasi penuh pada akhir 2020 baru kembali beroperasi pada 25 April tahun berikutnya.[^2]
 
-Bagian paling layak ditulis dari rute ini, justru karena ia tidak diselesaikan sesuai skenario upacara. MRT Taichung bukan titik akhir kalimat "akhirnya punya MRT", melainkan sebuah tempat dengan jalan lebar, banyak sepeda motor dan mobil, serta tata kota yang tersebar, yang pertama kali harus menaruh keamanan, integrasi moda transportasi, dan kepercayaan di atas satu peta rute yang sama.
+Tempat paling patut ditulis dari garis ini justru adalah karena ia tidak selesai sesuai dengan naskah upacara. MRT Taichung bukanlah sebuah titik akhir dari sebuah kalimat "Akhirnya ada MRT", tetapi adalah sebuah tempat di mana jalan lebar, banyak kendaraan bermotor, dan kota yang tersebar, pertama kalinya harus meletakkan keselamatan, transfer, dan kepercayaan pada peta yang sama.
 
-![Kereta Garis Hijau MRT Taichung berjalan di rel tinggi](https://commons.wikimedia.org/wiki/Special:FilePath/Train_of_Taichung_MRT.jpg?width=1280)
+![Kereta MRT Taichung hijau berjalan di rel terapung](https://commons.wikimedia.org/wiki/Special:FilePath/Train_of_Taichung_MRT.jpg?width=1280)
 
-_Gambar: Kereta Garis Hijau MRT Taichung. Fotografi: Cbliu. Sumber gambar: [Halaman berkas Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Train_of_Taichung_MRT.jpg), lisensi Data Terbuka Situs Web Pemerintah Biro Berita Pemerintah Kota Taichung, wajib mencantumkan sumber saat digunakan. [^3]_
+_ Gambar: Kereta MRT Taichung hijau. Foto: Cbliu._ Sumber gambar: [Halaman berkas Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Train_of_Taichung_MRT.jpg), lisensi terbuka pemerintah kota Taichung, menyatakan sumber saat penggunaan.[^3]
 
 ## Sebuah Kota, Dimulai dari "Tanpa MRT"
 
@@ -72,32 +72,30 @@ CNA dengan jelas menulis garis waktu penundaan ini. Garis Hijau awalnya dijadwal
 
 Dari perspektif insinyur, pelajaran rute ini sangat konkret. Uji coba bukan ritual pra-resmi, melainkan pekerjaan yang harus terus menengok kembali setelah resmi beroperasi. Dari perspektif penumpang, maka masalah lain: sebuah rute bisa sangat baru, tapi tidak boleh meminta penumpang menggunakan tubuh mereka sendiri untuk menyelesaikan verifikasi terakhir.
 
-## Garis Hijau Bukan Cuma Menghubungkan Dua Ujung
+## Hijau Bukan Hanya Menghubungkan Dua Ujung
 
-Garis Hijau paling mudah dipahami sebagai "perantara Beitun ke HSR". Pemahaman ini tidak salah, tapi terlalu sempit. Ia sekaligus menaruh kawasan perumahan Beitun, integrasi TRA di Songzhu, aktivitas komersial di Jalan Wenxin, inti administratif di sekitar Pemerintah Kota, serta Stasiun HSR Taichung di dalam sistem tiket dan jarak antar keberangkatan yang sama.
+Garis Hijau paling mudah dipahami sebagai jalur penghubung "Nantun ke Stasiun Kereta Api Tinggi". Pemahaman ini tidak salah, namun terlalu sempit. Garis ini sekaligus menempatkan kawasan perumahan Nantun, transfer kereta api di Songchu, aktivitas komersial di jalan Wunshin, inti administratif di sekitar Balai Kota, dan Stasiun Kereta Api Tinggi Taichung dalam satu sistem tiket dan jadwal yang sama.
 
-Jalur ini juga membuat skala kota Taichung terasa. Rel tinggi lewat di atas jalan raya, stasiun dan eskalator mengangkat orang dari permukaan jalan ke ketinggian lain. Tempat-tempat yang dulu hanya berdekatan di peta, kini punya satuan konkret "stasiun berikutnya". Kota tidak lagi hanya digambarkan panjang jalan, tapi juga digambarkan waktu tunggu antar stasiun.
+Garis ini juga membuat skala kota Taichung terasa nyata. Rel elevated melewati di atas jalan, stasiun dan eskalator membawa orang dari permukaan jalan ke ketinggian lain. Tempat yang hanya berdekatan di peta kini memiliki unit konkret bernama "stasiun berikutnya". Kota tidak lagi hanya diukur oleh panjang jalan, tetapi juga oleh waktu tunggu antar stasiun.
 
-Railway Gazette menyinggung, Garis Hijau melingkar sisi barat pusat kota, dan tidak melayani Stasiun Taichung TRA. Kesenjangan ini membuatnya lebih mirip kerangka pertama, bukan jaringan lengkap. Biro Proyek MRT Pemerintah Kota saat ini memasukkan perpanjangan Garis Hijau ke Dakeng, Changhua, serta Garis Biru, Oranye, Ungu, Merah ke dalam visi jaringan rel secara keseluruhan. [^4] [^5]
+Railway Gazette menyatakan bahwa garis Hijau mengelilingi sisi barat pusat kota dan tidak melayani Stasiun Kereta Api Taichung. Celah ini membuatnya lebih seperti tulang pertama, bukan jaringan rute yang lengkap. Kota Taichung saat ini menempatkan garis Hijau yang diperluas ke Dapu, Changhua, serta garis Biru, Oranye, Ungu, dan Merah sebagai bagian dari visi jaringan rel yang lebih luas. [^4] [^5]
 
-![Kereta MRT Taichung mendekati Stasiun HSR Taichung](https://commons.wikimedia.org/wiki/Special:FilePath/2020-11-20_MRT_train_near_HSR_Taichung_Station_%28Taichung_Metro%29.jpg?width=1280)
+![Kereta Taichung MRT mendekati Stasiun HSR Taichung](https://commons.wikimedia.org/wiki/Special:FilePath/2020-11-20_MRT_train_near_HSR_Taichung_Station_%28Taichung_Metro%29.jpg?width=1280)
 
-_Gambar: Kereta MRT Taichung mendekati Stasiun HSR Taichung. Fotografi: WC-QHS. Sumber gambar: Halaman berkas Wikimedia Commons, lisensi CC BY-SA 2.0, wajib mencantumkan penulis, lisensi, dan berbagi turunan dengan cara yang sama. [^9]_
-
-[Halaman berkas Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2020-11-20_MRT_train_near_HSR_Taichung_Station_%28Taichung_Metro%29.jpg)
+_ Gambar: Kereta Taichung MRT mendekati Stasiun HSR Taichung. Foto: WC-QHS. _ Sumber gambar: [Halaman berkas Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2020-11-20_MRT_train_near_HSR_Taichung_Station_%28Taichung_Metro%29.jpg), lisensi CC BY-SA 2.0, wajib mencantumkan nama pembuat, lisensi, dan membagikan karya turunan dengan lisensi yang sama. [^9]
 
 ```tw-timeline
 Garis Hijau Taichung tidak muncul semalam (tahun)
-1993 | Perencanaan Awal | Sistem MRT Wilayah Metropolitan Taichung mulai memasuki perencanaan sistematis
-2004 | Garis Hijau Disetujui | Garis Wuri-Wenxin-Beitun menjadi jaringan awal
-2009 | Mulai Dibangun | Garis Hijau resmi memasuki tahap konstruksi jangka panjang
-2020 | Uji Coba | 18 stasiun pertama kali dibuka untuk penumpang
-2021 | Resmi Beroperasi | Uji coba ulang setelah perbaikan kecelakaan dan resmi beroperasi
-Sumber: Biro Proyek MRT Pemerintah Kota Taichung, PT MRT Taichung, CNA
+1993 | Perencanaan awal | Sistem transportasi massa Taichung mulai masuk ke perencanaan institusional
+2004 | Hijau disetujui | Garis Wunshin-Nantun di Wu Ju menjadi jaringan awal
+2009 | Pembangunan dimulai | Garis Hijau secara resmi memasuki fase konstruksi jangka panjang
+2020 | Uji coba | 18 stasiun dibuka pertama kali untuk uji coba publik
+2021 | Operasional penuh | Setelah perbaikan kerusakan, uji coba ulang dan operasional penuh secara resmi dimulai
+Sumber: Biro Proyek MRT Pemerintah Kota Taichung, Taichung MRT Co., Ltd., CNA
 ```
 
-> **📝 Catatan Kurator**
-> Nilai jalur pertama, bukan karena ia sudah menghubungkan seluruh Taichung, melainkan ia membuat jalur berikutnya bukan lagi sekadar garis-garis warna di peta, tapi janji yang bisa dibandingkan penumpang.
+> **📝 Catatan kurator**
+> Nilai dari garis pertama bukanlah karena garis ini sudah menghubungkan seluruh Taichung, tetapi karena garis ini membuat garis berikutnya tidak lagi hanya garis berwarna di peta, melainkan janji yang dapat dibandingkan oleh penumpang.
 
 ## Dampak Satu Jalur MRT, Bukan Hanya Angka Penumpang
 
@@ -107,20 +105,20 @@ Hasil ini diletakkan kembali ke kondisi transportasi Taichung, justru lebih mena
 
 Dengan kata lain, perubahan harga rumah di dekat stasiun hanyalah salah satu hasil. Pertanyaan lebih penting: apakah stasiun benar-benar membuat orang kurang naik sepeda motor sejarak itu, apakah anak bisa sendiri jalan ke pintu stasiun, apakah orang yang tidak punya mobil di Taichung punya lebih banyak pilihan. Keberhasilan pembangunan transportasi, tidak seharusnya hanya diukur "dekatnya jadi mahal berapa", tapi juga "siapa yang jadi punya cara tiba baru".
 
-## Kota di Atas Stasiun, Kehidupan di Bawah
+## Kota di Atas Stasiun, Rutinitas di Bawahnya
 
-Sebagian besar rute Garis Hijau berbentuk tinggi, ini menjadikan stasiun semacam pintu masuk kota vertikal. Penumpang dulu dari kolong, persimpangan, atau halte bus jalan ke badan stasiun, lalu naik eskalator dan lift, baru sampai peron. Catatan proyek Otis menyebut, Garis Hijau punya 18 stasiun, saat konstruksi harus memasang 117 unit eskalator berat dan 59 unit lift dalam kondisi tidak mengganggu aliran kendaraan dan pejalan kaki sehari-hari. [^6]
+Mayoritas jalur Garis Hijau dibangun dalam bentuk jembatan terap, sehingga stasiun menjadi pintu masuk vertikal ke kota. Penumpang pertama-tama berjalan dari trotoar, persimpangan, atau halte bus ke bangunan stasiun, kemudian naik menggunakan escalator dan lift, baru mencapai platform. Catatan proyek Otis menyatakan bahwa Garis Hijau memiliki 18 stasiun, dan selama konstruksi harus dipasang 117 unit escalator barang berat dan 59 unit lift tanpa mengganggu lalu lintas kendaraan dan pejalan kaki.[^6]
 
-![Peron Garis Hijau Stasiun Pemerintah Kota MRT Taichung](https://commons.wikimedia.org/wiki/Special:FilePath/Taichung_Metro_Taichung_City_Hall_Station_Green_Line_Platform.jpg?width=1280)
+![Platform Garis Hijau Stasiun Pemerintah Kota Taichung](https://commons.wikimedia.org/wiki/Special:FilePath/Taichung_Metro_Taichung_City_Hall_Station_Green_Line_Platform.jpg?width=1280)
 
-_Gambar: Peron Garis Hijau Stasiun Pemerintah Kota MRT Taichung. Fotografi: Cheng,Cheng-en, pengguna Wikimedia Rail02000. Sumber gambar: [Halaman berkas Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taichung_Metro_Taichung_City_Hall_Station_Green_Line_Platform.jpg), lisensi CC BY-SA 4.0, wajib mencantumkan penulis, lisensi, dan berbagi turunan dengan cara yang sama. [^10]_
+_ Gambar : Platform Garis Hijau Stasiun Pemerintah Kota Taichung MRT. Foto : Cheng, Cheng-en, pengguna Wikimedia Rail02000. _ Sumber gambar : [Halaman berkas Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taichung_Metro_Taichung_City_Hall_Station_Green_Line_Platform.jpg), dilisensikan CC BY-SA 4.0, memerlukan atribusi, lisensi, dan berbagi serupa untuk karya turunan.[^10]
 
-Pergerakan vertikal ini punya harganya. Bagi orang terburu-buru, jarak ke tangga adalah biaya integrasi. Bagi orang mendorong kereta bayi, pengguna kursi roda, atau bawa barang, apakah lift mudah ditemukan jadi prasyarat bisa pakai MRT. Aksesibilitas MRT tidak dimulai setelah kereta sampai peron, tapi sudah ditentukan dari trotoar ke pintu masuk segmen pertama.
+Gerakan vertikal ini memiliki biaya tersendiri. Bagi orang yang sedang terburu-buru, jarak ke pintu masuk tangga adalah biaya transfer. Bagi orang yang menggunakan kereta bayi, kursi roda, atau menggendong koper, ketersediaan lift menjadi syarat untuk menggunakan MRT. Aksesibilitas MRT tidak dimulai ketika kereta tiba di platform, tetapi sudah ditentukan sejak jalur trotoar hingga pintu masuk pertama.
 
-Garis Hijau Taichung jadi seperti pengingat yang digantung di atas kota: rel bisa melintasi blok, tapi kehidupan tidak bisa digantung. Trotoar di sekitar stasiun, penutup hujan, perantara bus, dan pencahayaan malam, akan menentukan sebuah MRT tinggi apakah kenyamanan sehari-hari, atau hanya garis indah di peta.
+Oleh karena itu, Garis Hijau Taichung juga seperti pengingat yang terap di atas kota: rel dapat melintasi blok jalan, tetapi kehidupan tidak bisa melayang. Trotoar, perlindungan dari hujan, hubungan bus, dan pencahayaan malam di sekitar stasiun akan menentukan apakah sebuah stasiun MRT terap di atas jalan benar-benar nyaman digunakan sehari-hari, atau hanya indah di peta.
 
 > **📝 Catatan Kurator**
-> MRT tinggi mengangkat kereta, tapi tidak mengangkat penumpang dari tanah. Teknik kota yang sesungguhnya, tetap terjadi di segmen jalan sebelum pintu masuk.
+> MRT terap di atas jalan mengangkat kereta, tetapi tidak mengangkat penumpang dari permukaan jalan. Teknik kota yang sebenarnya masih terjadi di jalur menuju pintu masuk.
 
 ## Bagaimana Stasiun Menghubungkan Dua Moda Transportasi
 
@@ -159,22 +157,22 @@ Tapi yang benar-benar diingat penumpang, mungkin bukan 16,7 km, juga bukan rekor
 
 Makna kota MRT Taichung, justru tersembunyi di pengulangan-pengulangan tak megah ini. Ada yang pertama kali naik kereta ke kantor, ada yang bawa anak ke Stasiun HSR, ada yang tidak perlu cari parkir lagi buat nonton acara. Rel tetap mengubah masa depan kota jadi aksi yang bisa diulang setiap hari. Saat badan stasiun, peron, integrasi, dan jalan raya diikat satu perjalanan, MRT benar-benar dari istilah teknik jadi kehidupan kota.
 
-## Integrasi Bukan Soal Tambahan, Tapi Rel Kedua Garis Hijau
+## Alih Transisi Bukan Opsional, melainkan Jalur Kedua Garis Hijau
 
-18 stasiun Garis Hijau tidak akan menyelesaikan satu perjalanan sendirian. Bagi kebanyakan penumpang, rute sesungguhnya adalah rumah ke halte bus, halte bus ke pintu masuk MRT, peron ke tujuan, lalu dari stasiun terakhir jalan ke kantor, sekolah, atau mal. Setiap ganti tangan bisa bikin orang hitung ulang waktu. Kalau di antara segmen ada yang tidak teduh hujan, tidak penunjuk jelas, atau waktu tunggu terlalu lama, penumpang mungkin kembali ke sepeda motor yang familiar.
+Kedua belas belas stasiun Garis Hijau tidak akan menyelesaikan satu perjalanan secara sendiri-sendi. Bagi sebagian besar penumpang, rute sebenarnya adalah dari rumah ke halte bus, dari halte bus ke pintu masuk MRT, dari platform ke tujuan, lalu dari stasiun terakhir masuk ke kantor, sekolah, atau pusat perbelanjaan. Setiap perpindahan bisa membuat seseorang menghitung ulang waktunya. Jika salah satu bagian tidak dilindungi dari hujan, tidak memiliki petunjuk yang jelas, atau waktu tunggu terlalu lama, penumpang mungkin kembali ke sepeda motor yang sudah dikenal.
 
-Pentingnya Stasiun Songzhu dan Stasiun HSR Taichung, justru karena mereka bikin Garis Hijau bukan cuma jalur tunggal antar dua ujung. Yang pertama masukin MRT ke jaringan integrasi TRA, yang kedua taruh rel kota, kereta cepat, bus perantara, dan pergerakan antar kota di satu jadwal perjalanan. Nilai node ini bukan stasiun seberapa besar, tapi apakah alat transportasi kecepatan beda bisa nyambung dalam satu kali keluar rumah. [^1] [^4]
+Kepentingan Stasiun Songzhu dan Stasiun MRT Taichung HSR terletak pada kenyataan bahwa mereka membuat Garis Hijau tidak hanya jalur tunggal di antara dua ujung. Yang pertama memasukkan MRT ke dalam jaringan transfer KRL, yang kedua menaruh jalan rel kota bersamaan dengan kereta api kecepatan tinggi, bus penghubung, dan mobilitas antarkota dalam satu jadwal yang sama. Nilai dari node-node ini bukanlah seberapa besar bangunannya, tetapi apakah berbagai kendaraan dengan kecepatan berbeda dapat bertemu dalam satu perjalanan yang sama. [^1] [^4]
 
-Soal berikutnya Garis Hijau Taichung, akibatnya bukan "masih mau bangun berapa jalur" segampang itu. Jaringan jadi panjang nanti, tiket, jarak keberangkatan, jarak integrasi, dan desain informasi harus ikut gede. Kalau tiap jalur sendiri enak, tapi ganti jalur harus jalan jauh, kota dapat mungkin cuma lebih banyak pilihan, bukan kehidupan lebih mudah tiba. Inilah alasan pemerintah kota masukin perpanjangan Garis Hijau dan Garis Biru, Oranye, Ungu, Merah ke perencanaan jaringan keseluruhan. [^4]
+Pertanyaan berikutnya untuk Garis Hijau Taichung, oleh karena itu, bukanlah sekadar "berapa banyak lagi yang harus dibangun." Setelah jaringan semakin panjang, tiket, frekuensi, jarak transfer, dan desain informasi juga harus berkembang bersama. Jika setiap lini nyaman tetapi transfernya membutuhkan jarak jauh, kota mungkin hanya mendapatkan lebih banyak pilihan, bukan aksesibilitas yang lebih baik. Inilah sebabnya kota merencakan pulau Garis Hijau bersamaan dengan lini Biru, Oranye, Ungu, dan Merah dalam satu jaringan yang terintegrasi. [^4]
 
-Dari pengelolaan proyek, integrasi tetap tempat paling bisa uji apakah pembangunan publik benar-benar berpusat pada pengguna. Kereta tepat waktu bisa dibuktikan catatan sistem, penumpang mau naik lagi atau tidak, harus lihat dia keluar stasiun apakah bisa aman lewat persimpangan, apakah tahu bus berikutnya dari mana, serta bawa barang apakah bisa tidak perlu belok-belok. Nilai kota Garis Hijau, akhirnya akan jatuh di detail-detail yang tidak akan muncul di foto potong pita.
+Dari perspektif manajemen proyek, transfer justru paling tepat untuk mengukur apakah bangunan umum benar-benar berpusat pada pengguna. Kepunkaan kereta dapat dibuktikan oleh rekam sistem, tetapi apakah penumpang rela naik lagi, tergantung pada apakah setelah keluar dari stasiun mereka bisa menyeberangi jalan dengan aman, tahu di mana bus berikutnya berangkat, dan bisa menggulung bagasi tanpa harus berkelana jauh. Nilai akhir dari Garis Hijau akan ditentukan oleh detail-detail yang tidak akan muncul di foto peresmian.
 
-![Pintu keluar-masuk antara Stasiun Songzhu MRT Taichung dan Stasiun Songzhu TRA](https://commons.wikimedia.org/wiki/Special:FilePath/Entrance-exit_between_Taichung_Metro_Songzhu_Station_and_TRA_Songzhu_Station_02.jpg?width=1280)
+![Keluar masuk antara Stasiun MRT Taichung Songzhu dan Stasiun KRL Songzhu](https://commons.wikimedia.org/wiki/Special:FilePath/Entrance-exit_between_Taichung_Metro_Songzhu_Station_and_TRA_Songzhu_Station_02.jpg?width=1280)
 
-_Gambar: Pintu keluar-masuk antara Stasiun Songzhu MRT Taichung dan Stasiun Songzhu TRA. Fotografi: Tbatb. Sumber gambar: [Halaman berkas Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Entrance-exit_between_Taichung_Metro_Songzhu_Station_and_TRA_Songzhu_Station_02.jpg), lisensi CC BY-SA 4.0, wajib mencantumkan penulis, lisensi, dan berbagi turunan dengan cara yang sama. [^11]_
+_ Gambar: Keluar masuk antara Stasiun MRT Taichung Songzhu dan Stasiun KRL Songzhu. Foto: Tbatb. _ Sumber gambar: [Halaman berkas Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Entrance-exit_between_Taichung_Metro_Songzhu_Station_and_TRA_Songzhu_Station_02.jpg), dilisensikan di bawah CC BY-SA 4.0, membutuhkan atribusi, lisensi, dan berbagi serupa untuk karya turunannya. [^11]
 
 > **📝 Catatan Kurator**
-> Satu jalur MRT di peta cuma butuh dua ujung, masuk kehidupan butuh banyak segmen jalan. Integrasi sesungguhnya, adalah meyakinkan segmen-segmen ini jadi satu perjalanan.
+> Satu garis MRT hanya membutuhkan dua titik ujung untuk digambar di peta, tetapi butuh banyak langkah untuk masuk ke kehidupan sehari-hari. Transfer sejati adalah tentang meyakinkan semua langkah itu menjadi satu perjalanan yang utuh.
 
 ## Setelah Garis Hijau, Taichung Masih Harus Menjawab Apa
 

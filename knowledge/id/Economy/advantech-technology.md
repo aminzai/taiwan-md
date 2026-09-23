@@ -11,10 +11,10 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: 'Economy/台灣企業：研華科技.md'
-sourceCommitSha: 'cfaa22a5d'
-sourceContentHash: 'sha256:73894dd98c9e1eee'
-sourceBodyHash: 'sha256:96e60be7abecd0c6'
-translatedAt: '2026-09-09T15:32:33+08:00'
+sourceCommitSha: '7255b3ab1'
+sourceContentHash: 'sha256:8cc6a4958817d23a'
+sourceBodyHash: 'sha256:b2944607fccb365d'
+translatedAt: '2026-09-23T02:55:24.397181+00:00'
 ---
 
 > **Gambaran 30 detik**
@@ -107,25 +107,25 @@ Nilai merek Advantech dibangun atas dua pilar: kualitas produk dan posisi profes
 
 ### Tantangan yang Dihadapi
 
-**Kompetisi Pasar Semakin Ketat**: Seiring dengan perkembangan pesat pasar Internet of Things, semakin banyak perusahaan memasuki bidang ini, termasuk raksasa IT tradisional dan perusahaan teknologi baru yang sedang berkembang, persaingan menjadi semakin sengit.
+**Persaingan Pasar yang Meningkat**: Seiring pesatnya perkembangan pasar IoT, semakin banyak perusahaan memasuki bidang ini, termasuk raksasa IT tradisional dan perusahaan teknologi baru, sehingga persaingannya menjadi sangat ketat.
 
-**Kecepatan Pembaruan Teknologi**: AI, 5G, komputasi tepi, dan teknologi baru lainnya berkembang dengan cepat, memerlukan perusahaan untuk berinvestasi sumber daya R&D dalam jumlah besar untuk mengikuti perkembangan.
+**Kecepatan Pembaruan Teknologi**: Teknologi baru seperti AI, 5G, dan komputasi tepi (edge computing) berkembang dengan cepat, menuntut perusahaan untuk menginvestasikan banyak sumber daya R&D agar dapat mengikuti perkembangan tersebut.
 
-**Tantangan Rantai Pasokan**: Ketidakpastian rantai pasokan global, terutama fluktuasi pasokan komponen kunci seperti semikonduktor, memiliki dampak besar pada industri manufaktur.
+**Tantangan Rantai Pasokan**: Ketidakpastian rantai pasokan global, terutama fluktuasi pasokan komponen kunci seperti semikonduktor, memberikan dampak besar pada industri manufaktur.
 
-**Perubahan Kebutuhan Pelanggan**: Seiring dengan pendalaman transformasi digital, pelanggan tidak hanya membutuhkan produk perangkat keras, tetapi juga layanan perangkat lunak dan solusi, yang memerlukan perusahaan memiliki kemampuan yang lebih komprehensif.
+**Perubahan Kebutuhan Pelanggan**: Seiring pendalaman transformasi digital, pelanggan tidak hanya membutuhkan produk perangkat keras, tetapi juga layanan dan solusi perangkat lunak, yang menuntut perusahaan memiliki kapabilitas yang lebih komprehensif.
 
 ### Prospek Masa Depan
 
-Fokus strategis Advantech terkonsentrasi pada empat arah: perluasan aplikasi AI tepi, transformasi dari berorientasi produk menjadi berorientasi layanan (meningkatkan pendapatan langganan perangkat lunak dan analisis data), ekspansi program mitra kolaborasi, dan tujuan manufaktur hijau dalam kerangka ESG. Di antara ini, transformasi layanan adalah yang paling menantang, karena keunggulan tradisional Advantech ada di perangkat keras, layanan perangkat lunak memerlukan model bisnis dan kemampuan penjualan yang sangat berbeda.
+Fokus strategis Wistron (研華) terpusat pada empat arah: perluasan aplikasi AI tepi, transisi dari orientasi produk ke orientasi layanan (meningkatkan pendapatan langganan perangkat lunak dan analisis data), ekspansi program kemitraan, dan target manufaktur hijau di bawah kerangka ESG. Transisi menuju layanan adalah yang paling menantang, karena keunggulan tradisional Wistron terletak pada perangkat keras, sementara layanan perangkat lunak memerlukan model bisnis dan kemampuan penjualan yang sama sekali berbeda.
 
-Advantech telah berkembang dari startup tiga insinyur Hewlett-Packard di tahun 1983 menjadi pemimpin pasar komputer industri dengan kehadiran di 27 negara hari ini, merupakan kasus konkret dari merek proprietary mandiri industri teknologi tinggi Taiwan. Pada ulang tahun ke-40 tahun 2023, Ketua Dewan Direksi Liu Ke-chen menyatakan fokus pada "AIoT + Edge Computing", mencerminkan penilaian sadar Advantech terhadap positioning dirinya sendiri: di era di mana kebutuhan kedaulatan data dan komputasi real-time meningkat, akumulasi mendalam dalam sistem tertanam adalah parit kompetitif yang tidak dapat digantikan.
+Perjalanan Wistron Technology dari pendirian oleh tiga insinyur HP pada tahun 1983 hingga menjadi pemimpin pasar komputer industri dengan basis di 27 negara hari ini adalah contoh konkret dari pembentukan merek mandiri dalam industri teknologi tinggi Taiwan. Pada peringatan 40 tahun di tahun 2023, Ketua Direktur Liu Ke-chen menyatakan fokus pada "AIoT + Edge Computing," yang mencerminkan penilaian yang jernih Wistron terhadap posisinya: dalam era tuntutan kedaulatan data dan komputasi _real-time_ yang tinggi, akumulasi mendalam sistem tertanam (embedded system) adalah parit pertahanan kompetitif yang tak tergantikan.
 
 ---
 
 **Bacaan Lanjutan**:
 
-- Rencana Inkubator AAMA Taipei (AAMA台北搖籃計畫): Yayasan Pendidikan Advantech adalah salah satu kontributor rencana mentoring kewirausahaan yang dikembangkan menjadi yayasan ini, dan Liu Ke-chen juga pernah menjadi mentor program. Keduanya bersama-sama mempromosikan "Program Kewirausahaan Bersama AIoT AAMA"
+- [Program Inkubator Taipei AAMA](/economy/AAMA台北搖籃計畫): Yayasan Pendidikan Wistron adalah salah satu donatur yayasan untuk program inkubasi ini, dan Ketua Direktur Liu Ke-chen juga pernah menjabat sebagai mentor program; keduanya bersama-sama mendorong "Proyek Kolaborasi Perusahaan AIoT AAMA".
 
 ## Referensi
 
