@@ -332,6 +332,19 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-24 twmd-babel-nightly — measured-copy-is-not-the-committed-copy：閘門量的那一份檔案，跟最後寫進 git 的那一份，中間隔著一次 prettier
+
+- **pattern**: `measured-copy-is-not-the-committed-copy`
+- **原則**：commit 路徑上有一個會改寫檔案的格式化器（lint-staged 的 prettier），它排在所有檢查器前面。任何在它之外跑的檢查，量的都是還沒被格式化的那一份；任何拿格式化後的東西去跟沒格式化的東西比的檢查，量到的差異有一部分是格式化器自己造的。兩種方向今晚各撞一次，都不會自己叫。
+- **觸發**：2026-09-24 同一夜兩例。(1) dispatcher 在驗證前對譯文跑 prettier、母稿卻是 commit 當時的樣子，四篇 prettier 不穩定的母稿的每一份譯文都被判「網址改寫」，十二語卡同一道閘，失敗記成模型的帳。(2) 印尼文旗艦文委派交件時十四道閘全綠，commit 時 prettier 把缺空行的腳註 74、75 折進 73，腳註數少兩條、hard 擋下；交件閘門量的是交件那一刻的檔案。
+- **instances**：
+  - 2026-09-24 twmd-babel-nightly 網址閘門不對稱＋委派交件漏 prettier → memory/2026-09-24-004242-twmd-babel-nightly.md
+- **已落地**：`verify-translation.extract_urls` 兩側對稱還原反斜線跳脫（`aaac94be2`）；委派派工單閘門清單補第 15 道 `prettier --check`（`fea28f87d`）。
+- **修補候選**：(a) 比較型檢查（網址、腳註數、章節數）一律兩側過同一個正規化，或兩側都不過；(b) 任何「交件前自檢」的閘門清單最後一道固定是 commit 會跑的那把格式化器——同一件事在 dispatcher 那邊是對的（它先 prettier 再驗），在委派層缺了。
+- **可能層級**：通用反射候選（「驗證對象要等於落地對象」，#82 proxy 的一個具體形狀）
+- **相關**：2026-09-07 `formatter-vs-checker`（同一對元件，那次是寫入權先行）、2026-09-23 `italic-span-defeats-url-escaping` (c)、2026-09-23 `prescribed-profile-is-not-the-gate-profile`（量尺不是 commit 那把）、REFLEXES #82、#99
+- **verification_count**: 2
+
 ### 2026-09-23 twmd-maintainer-am — italic-span-defeats-url-escaping：把網址包進角括號救不了它，因為會改壞它的是外面那層斜體
 
 - **pattern**: `italic-span-defeats-url-escaping`
@@ -342,6 +355,7 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
   - **第二把尺**是我自己寫的候選網（斜體span 內含帶底線網址）：撈出 139 篇母稿、343 處，看起來是個大家族。用 prettier 實跑逐篇驗完，真正會壞的只有 3 篇。**候選網不是量測結果**，中間隔著一次實跑。
 - **修補候選**：(a) `article-health` 加一個 plugin（或併進既有 `link-url-mangle`）：對每個檔案跑一次 prettier 比對網址出現次數，差異即 hard——這道尺是確定性的、便宜、每次 commit 都在，比靠人記得「斜體裡不要放帶底線的網址」可靠（MANIFESTO §14 高儀器化）；(b) EDITORIAL 圖說格式補一句「圖片來源與授權那段放在斜體外」，讓新寫的文章不再長出這個形狀；(c) 譯文層未量——母稿只有 3 篇，但譯文是否也帶同形圖說、babel 重翻時會不會被 prettier 改壞，本班沒查。
 - **可能層級**：儀器（article-health plugin，最該做的一層）＋ EDITORIAL 圖說格式一句
+- **(c) 譯文層量完（2026-09-24 twmd-babel-nightly）**：全庫 zh 母稿用 prettier 實跑逐檔比網址出現次數，09-23 修掉的三篇之外，prettier 不穩定的還有四篇（蓬萊米／台灣客家音樂／高雄加工出口區／新竹米粉），那次的候選網只看斜體圖說內的網址，這四篇有的是逗號後的底線、有的是網址裡跳脫的括號。它們在譯文層的症狀是網址閘門永遠不過：dispatcher 驗證前對譯文跑 prettier，母稿卻是 commit 當時的樣子。其中 `\_`／`\(` 這類反斜線跳脫在連結目的地裡渲染出的 href 不變，是量測不對稱不是壞連結，已在 `verify-translation.extract_urls` 兩側對稱還原；會真的弄壞網址的仍只有 `_`→`*` 那一型 → 見 `measured-copy-is-not-the-committed-copy`
 - **相關**：2026-09-07 `formatter-vs-checker-disagree...`（本條是它留下的未解項的答案，且補了一個它沒寫到的關鍵事實：角括號無效）、REFLEXES #99 尺先驗再用（0 命中先跑正控制，本條救回一次假陰性）、#82 proxy signal（「網址集合沒變」是「每一處網址都完好」的替身）、#65 awareness instrument 自身要 cross-verify、MANIFESTO §14 高儀器化
 - **verification_count**: 1
 
@@ -428,10 +442,11 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **觸發**：2026-09-21 00:36 追 run 33830 的 structured-heavy 引擎 221 次只過 20：36 次死在 Phase N「title contains markdown/newline」，追到 `extract_footnote_defs` 最後一個分支把散文型腳註切成半個連結、URL 後整段丟掉；全庫 158 篇 ≥30 腳註的 zh 稿裡 20 篇有這型腳註（台灣網路社群遷徙史 44/47 條、電競 32/32），它們在 structured 引擎裡從 07-25 pilot 起就永遠過不去，每次 130–750 秒。修法 `244baf079`（整條當 desc 送翻，17,489 條腳註身分回圈零 URL 遺失）。同夜第二型：`imageAlt` 被兩條引擎當 passthrough 複製 zh 而閘門要求翻，36 次；第三型：patch 引擎把既有譯文的 tags 債原封組回被擋，五次拒收才升級。三型合計一夜 ≥ 86 次確定性失敗，佔 535 次嘗試的 16%，而 report 只寫「no output written」與「verify=1」。
 - **instances**：
   - 2026-09-21 twmd-babel-nightly 散文型腳註／imageAlt／tags 債三型 → memory/2026-09-21-005044-twmd-babel-nightly.md
+  - 2026-09-24 twmd-babel-nightly 五型：單條腳註批次的裸物件被當截斷拒收、寬鬆 JSON 解析撈到物件裡的 tags 陣列、網址比對把 prettier 的反斜線跳脫當改寫、日韓標籤照抄判準把拉丁字母品牌名算進分子、腳註格式閘不認日韓「[^14]に同じ」語序。五個都是每次重試結果一樣、卻被記成「模型又沒過」的確定性失敗 → memory/2026-09-24-004242-twmd-babel-nightly.md
 - **修補候選**：dispatcher 記 fail 時多一欄「本次失敗是否可由輸入端預判」——最便宜的版本是在派工前跑一次 `extract_footnote_defs` 與 frontmatter 對比，任何在派工前就能判定必敗的組合直接記 `precheck-fail` 不派、不計 fail_count（REFLEXES #38 (d) 那條「閘門誤判可修、本質太難重試無用」的第三桶：**還沒派就知道會敗**）。
 - **可能層級**：通用反射候選（任何「輸入端確定性缺陷混進輸出端隨機失敗的計數器」）
 - **相關**：REFLEXES #38 (d) `fail_counts` 混閘門誤判與本質太難（本條是第三種根因：解析器對輸入形狀的缺陷，重試零意義且每次燒完整工作量）、#85（「不知道敗在哪」借了「模型沒過」的符號）、#90（逐條回報把單一根因打散成 36 個看似無關的錯誤）
-- **verification_count**: 1
+- **verification_count**: 2
 
 ### 2026-09-21 twmd-babel-nightly — gate-and-engine-disagree-on-who-owns-a-field：同一個 frontmatter 欄位，閘門說要翻、引擎說要複製，兩個方向都出過事
 
