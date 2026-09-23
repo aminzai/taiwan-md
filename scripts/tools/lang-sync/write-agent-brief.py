@@ -387,6 +387,11 @@ def build(lang: str) -> dict:
             # `Shih Ming-te`／`Shih Mingte`——那是施明德，黨外運動者，跟宏碁創辦人毫無關係。
             # 前十三道全綠，因為每一道問的都是「這個字串合法嗎」，沒有一道問「這個名字是這個人嗎」。
             "python3 scripts/tools/lang-sync/name-consistency-check.py <目標路徑>   # 張冠李戴 = 0",
+            # 第 15 道（2026-09-24）：commit 時 lint-staged 會先跑 prettier，再跑上面那些檢查。
+            # 印尼文〈比國家還大的演算藝術〉交件時十四道全綠，第 73–75 條腳註之間少了空行，
+            # prettier 把 74、75 折進 73 變成縮排續行，腳註數當場少兩條，commit 被擋。
+            # 前十四道量的都是交件那一刻的檔案，不是會被寫進 git 的那一份。
+            "npx prettier --check <目標路徑>   # 必須 stable；不穩就用 --write 看它改了什麼，把原因修掉再重跑全部閘門（不要只接受 prettier 的改寫）",
             # ⚠️ article-health 的 `description 太長` 是 **warn 不是 hard**，不要動它。
             # 2026-09-10 一天之內四隻 agent 看到那行就把 description 砍短，實際發生的是：
             #   zh：「2026 年，徐臺屏把約八十位教師設計的三百支 AI 代理人放進共享大市集…
