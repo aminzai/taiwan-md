@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-23T09:25:45+08:00",
-    "zhCommitHead": "f6f7c6ce8",
+    "lastUpdated": "2026-09-23T09:31:14+08:00",
+    "zhCommitHead": "a7913e191",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -44,8 +44,8 @@
       },
       "es": {
         "total_zh": 1124,
-        "fresh": 1044,
-        "stale": 58,
+        "fresh": 1045,
+        "stale": 57,
         "metadata_stale": 7,
         "missing": 15,
         "orphan": 0
@@ -76,8 +76,8 @@
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1045,
-        "stale": 37,
+        "fresh": 1046,
+        "stale": 36,
         "metadata_stale": 9,
         "missing": 33,
         "orphan": 0
@@ -92,8 +92,8 @@
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 1012,
-        "stale": 40,
+        "fresh": 1013,
+        "stale": 39,
         "metadata_stale": 12,
         "missing": 60,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 878,
+        "fresh": 881,
         "stale": 17,
         "metadata_stale": 8,
-        "missing": 221,
+        "missing": 218,
         "orphan": 0
       }
     },
@@ -4638,11 +4638,11 @@
           "sourceContentHash": "sha256:d0269e2f1779f743",
           "sourceBodyHash": "sha256:70e0b74692ddad14",
           "translatedAt": "2026-09-23T07:28:02+08:00",
-          "translationLastCommit": "d182e5d8",
-          "translationLastModified": "2026-08-16T08:53:57+08:00",
+          "translationLastCommit": "a7913e19",
+          "translationLastModified": "2026-09-23T09:25:45+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "bytes": 12243,
+          "bytes": 12245,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -6172,20 +6172,18 @@
         "es": {
           "path": "es/Music/hsien-ching-chen.md",
           "translatedFrom": "Music/陳嫺靜.md",
-          "sourceCommitSha": "b38a5dab",
-          "sourceContentHash": "sha256:0530e001b5d0938d",
-          "sourceBodyHash": "sha256:3f93c99802db78df",
-          "translatedAt": "2026-06-29T01:02:29+08:00",
+          "sourceCommitSha": "7255b3ab1",
+          "sourceContentHash": "sha256:512d67826a21d4e6",
+          "sourceBodyHash": "sha256:b3516ecc857f1e0e",
+          "translatedAt": "2026-09-23T01:28:06.200173+00:00",
           "translationLastCommit": "df411148",
           "translationLastModified": "2026-07-27T10:57:42+08:00",
           "inferred": false,
           "footnoteDefs": 43,
-          "bytes": 51205,
+          "bytes": 52553,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -5"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Music/hsien-ching-chen.md",
@@ -6244,20 +6242,18 @@
         "pt": {
           "path": "pt/Music/hsien-ching-chen.md",
           "translatedFrom": "Music/陳嫺靜.md",
-          "sourceCommitSha": "b38a5daba",
-          "sourceContentHash": "sha256:0530e001b5d0938d",
-          "sourceBodyHash": "sha256:3f93c99802db78df",
-          "translatedAt": "2026-07-27T07:12:41+08:00",
+          "sourceCommitSha": "7255b3ab1",
+          "sourceContentHash": "sha256:512d67826a21d4e6",
+          "sourceBodyHash": "sha256:b3516ecc857f1e0e",
+          "translatedAt": "2026-09-23T01:29:21.073879+00:00",
           "translationLastCommit": "26d3f390",
           "translationLastModified": "2026-09-22T00:53:27+08:00",
           "inferred": false,
           "footnoteDefs": 43,
-          "bytes": 46568,
+          "bytes": 47412,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -5"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Music/hsien-ching-chen.md",
@@ -6280,20 +6276,18 @@
         "ar": {
           "path": "ar/Music/hsien-ching-chen.md",
           "translatedFrom": "Music/陳嫺靜.md",
-          "sourceCommitSha": "b38a5daba",
-          "sourceContentHash": "sha256:0530e001b5d0938d",
-          "sourceBodyHash": "sha256:3f93c99802db78df",
-          "translatedAt": "2026-07-27T08:25:57+08:00",
+          "sourceCommitSha": "7255b3ab1",
+          "sourceContentHash": "sha256:512d67826a21d4e6",
+          "sourceBodyHash": "sha256:b3516ecc857f1e0e",
+          "translatedAt": "2026-09-23T01:30:51.704398+00:00",
           "translationLastCommit": "e0d888ab",
           "translationLastModified": "2026-09-22T01:04:14+08:00",
           "inferred": false,
           "footnoteDefs": 43,
-          "bytes": 66968,
+          "bytes": 68028,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -5"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Music/hsien-ching-chen.md",
@@ -27644,7 +27638,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Technology/taiwan-mobile-payment.md",
+          "translatedFrom": "Technology/台灣行動支付.md",
+          "sourceCommitSha": "574b1a339",
+          "sourceContentHash": "sha256:d9687f2e9f925231",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-23T01:16:18.232643+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "bytes": 32424,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -53284,8 +53291,8 @@
           "sourceContentHash": "sha256:996216db6cfc762f",
           "sourceBodyHash": "sha256:f6cfe4546203aec9",
           "translatedAt": "2026-09-23T07:28:02+08:00",
-          "translationLastCommit": "c5713ab9",
-          "translationLastModified": "2026-08-04T17:29:58+08:00",
+          "translationLastCommit": "a7913e19",
+          "translationLastModified": "2026-09-23T09:25:45+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "bytes": 25661,
@@ -63834,7 +63841,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion.md",
+          "translatedFrom": "Society/2026鄭習會與國共十年再會.md",
+          "sourceCommitSha": "dd39065b2",
+          "sourceContentHash": "sha256:3eecc6e30b4626f7",
+          "sourceBodyHash": "sha256:3d0acbeaa8a56355",
+          "translatedAt": "2026-09-23T08:41:09+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 22,
+          "bytes": 29872,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -76997,8 +77017,8 @@
           "sourceContentHash": "sha256:4dc98dc84117c5d8",
           "sourceBodyHash": "sha256:2679dec9ddab6dbc",
           "translatedAt": "2026-09-22T23:54:34.371911+00:00",
-          "translationLastCommit": "475cf65e",
-          "translationLastModified": "2026-07-27T19:04:11+08:00",
+          "translationLastCommit": "a7913e19",
+          "translationLastModified": "2026-09-23T09:25:45+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "bytes": 43080,
@@ -85846,8 +85866,8 @@
           "sourceContentHash": "sha256:9283c26216174046",
           "sourceBodyHash": "sha256:36625e315aaacf51",
           "translatedAt": "2026-09-23T08:41:07+08:00",
-          "translationLastCommit": "f3161f53",
-          "translationLastModified": "2026-08-15T16:29:46+08:00",
+          "translationLastCommit": "a7913e19",
+          "translationLastModified": "2026-09-23T09:25:45+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "bytes": 16415,
@@ -108473,7 +108493,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/mark-liu.md",
+          "translatedFrom": "People/劉德音.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:5e90feeafc19360c",
+          "sourceBodyHash": "sha256:81e4bcfc4e50e127",
+          "translatedAt": "2026-09-23T08:41:09+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "bytes": 16159,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -110206,8 +110239,8 @@
           "sourceContentHash": "sha256:28ebca4abc1527e4",
           "sourceBodyHash": "sha256:2ae685b1d23ee474",
           "translatedAt": "2026-09-23T00:42:08.445326+00:00",
-          "translationLastCommit": "f4d0f1e6",
-          "translationLastModified": "2026-09-22T01:07:23+08:00",
+          "translationLastCommit": "a7913e19",
+          "translationLastModified": "2026-09-23T09:25:45+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "bytes": 30579,
@@ -126045,8 +126078,8 @@
           "sourceContentHash": "sha256:f51e056dbe61a84c",
           "sourceBodyHash": "sha256:be5f4cfa04f53c22",
           "translatedAt": "2026-09-23T07:28:02+08:00",
-          "translationLastCommit": "f4d0f1e6",
-          "translationLastModified": "2026-09-22T01:07:23+08:00",
+          "translationLastCommit": "a7913e19",
+          "translationLastModified": "2026-09-23T09:25:45+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "bytes": 24508,
