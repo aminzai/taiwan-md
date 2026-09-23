@@ -24,37 +24,35 @@ rationale:
   whos_pushing_back: '把政府、林家、專家與都市工程放在同一張衝突地圖，不把任何一方寫成單一反派。'
 curation: 'incubating'
 translatedFrom: 'Geography/林安泰古厝.md'
-sourceCommitSha: '13c7fbcdb'
-sourceContentHash: 'sha256:47d89dc0ac03a566'
-sourceBodyHash: 'sha256:7079616fec64f3a7'
-translatedAt: '2026-09-11T05:40:15+08:00'
+sourceCommitSha: 'd9ef16d5e'
+sourceContentHash: 'sha256:bf88a96f60bbcd8e'
+sourceBodyHash: 'sha256:f8662882b41f1947'
+translatedAt: '2026-09-23T02:05:48.180037+00:00'
 ---
 
-> **Resumo de 30 segundos:** A Lin An Tai Ancient House situava-se originalmente na Siwei Road, no distrito de Da'an, e foi desmontada em 1977 devido ao alargamento da Dunhua South Road. Após passar por locais intermediários — armazém na Anhe Road e sob o viaduto da Heping West Road —, foi finalmente remontada no Binjiang Park. Preservou evidências materiais parciais de uma residência de imigrantes de Anxi da era Qing e de um pátio Minnan, mas também deixou o problema de que a preservação por relocação não consegue levar intactos a paisagem e a vida do local original.
+> **Visão geral em 30 segundos:** A Casa Antiga de Lin An-tai esteve originalmente na Rua Siwei, no distrito de Da’an, em Taipé. Foi desmontada em 1977 devido à ampliação da Avenida Dunhua, passou por locais intermediários como o armazém da Avenida Anhe e a passagem sob a ponte elevada da Avenida Pinghe, e finalmente foi recomposta no Parque Binjiang. Ela preserva parte das evidências materiais das casas de imigrantes de Anxi do período Qing e dos courtyards minnan, mas também deixa o problema de que a relocação não pode levar consigo integralmente a paisagem e a vida do local original.
 
-![Entrada e muro da Lin An Tai Ancient House Folk Museum, 2019.](https://upload.wikimedia.org/wikipedia/commons/9/90/Lin_An_Tai_Historical_House_%26_Museum_-_Taipei_-_Taiwan_-_01_%2847873685321%29.jpg)
+![Entrada e cerca do Museu de Objetos Etnográficos da Casa Antiga de Lin An-tai, 2019.](https://upload.wikimedia.org/wikipedia/commons/9/90/Lin_An_Tai_Historical_House_%26_Museum_-_Taipei_-_Taiwan_-_01_%2847873685321%29.jpg)
 
-_Imagem: Adam Jones, Wikimedia Commons, CC BY-SA 2.0. Imagem original e informações de licença na página de descrição da imagem. Imagem não modificada._
+_Imagem: Adam Jones, Wikimedia Commons, CC BY-SA 2.0._ A imagem original e as informações de licença estão disponíveis na [página de descrição da imagem](<https://commons.wikimedia.org/wiki/File:Lin_An_Tai_Historical_House_%26_Museum_-_Taipei_-_Taiwan_-_01_(47873685321).jpg>). A imagem não foi modificada.
 
-[página de descrição da imagem](<https://commons.wikimedia.org/wiki/File:Lin_An_Tai_Historical_House_%26_Museum_-_Taipei_-_Taiwan_-_01_(47873685321).jpg>)
+![Fachada e lago de bordo da Casa Antiga de Lin An-tai.](https://upload.wikimedia.org/wikipedia/commons/a/a8/Lin_An_Tai_Historical_House_02.jpg)
 
-![Exterior da Lin An Tai Ancient House e lagoa em forma de lua crescente.](https://upload.wikimedia.org/wikipedia/commons/a/a8/Lin_An_Tai_Historical_House_02.jpg)
+_Imagem: Bernard Gagnon, Wikimedia Commons, CC BY-SA 3.0._ A imagem original e as informações de licença estão disponíveis na [página de descrição da imagem](https://commons.wikimedia.org/wiki/File:Lin_An_Tai_Historical_House_02.jpg). A imagem não foi modificada.
 
-_Imagem: Bernard Gagnon, Wikimedia Commons, CC BY-SA 3.0. Imagem original e informações de licença na [página de descrição da imagem](https://commons.wikimedia.org/wiki/File:Lin_An_Tai_Historical_House_02.jpg). Imagem não modificada._
+![Corpo principal e lago de bordo da Casa Antiga de Lin An-tai.](https://upload.wikimedia.org/wikipedia/commons/c/c8/Lin_An_Tai_Historical_House_01.jpg)
 
-![Corpo principal da Lin An Tai Ancient House e lagoa em forma de lua crescente.](https://upload.wikimedia.org/wikipedia/commons/c/c8/Lin_An_Tai_Historical_House_01.jpg)
+_Imagem: Bernard Gagnon, Wikimedia Commons, CC BY-SA licença múltipla._ A imagem original e as informações de licença estão disponíveis na [página de descrição da imagem](https://commons.wikimedia.org/wiki/File:Lin_An_Tai_Historical_House_01.jpg). A imagem não foi modificada.
 
-_Imagem: Bernard Gagnon, Wikimedia Commons, CC BY-SA licença múltipla. Imagem original e informações de licença na [página de descrição da imagem](https://commons.wikimedia.org/wiki/File:Lin_An_Tai_Historical_House_01.jpg). Imagem não modificada._
+![Jardim e cenário da Casa Antiga de Lin An-tai.](https://upload.wikimedia.org/wikipedia/commons/c/c0/Lin_An_Tai_Historical_House_04.jpg)
 
-![Jardim e elementos aquáticos da Lin An Tai Ancient House.](https://upload.wikimedia.org/wikipedia/commons/c/c0/Lin_An_Tai_Historical_House_04.jpg)
+_Imagem: Bernard Gagnon, Wikimedia Commons, CC BY-SA 3.0._ A imagem original e as informações de licença estão disponíveis na [página de descrição da imagem](https://commons.wikimedia.org/wiki/File:Lin_An_Tai_Historical_House_04.jpg). A imagem não foi modificada.
 
-_Imagem: Bernard Gagnon, Wikimedia Commons, CC BY-SA 3.0. Imagem original e informações de licença na [página de descrição da imagem](https://commons.wikimedia.org/wiki/File:Lin_An_Tai_Historical_House_04.jpg). Imagem não modificada._
+Em 1977, no número 141 da Rua Siwei, no distrito de Da’an, em Taipé, uma casa que havia estado em pé por cerca de duzentos anos começou a ser desmontada. Não foram as escavações de terra que chegaram primeiro, mas sim as janelas, os móveis, as telhas, os elementos de madeira, os tijaros e as pedras, um por um, saíram de suas posições originais. Nesse ano, o projeto de alargamento da Avenida Dunhua aproximava-se da Casa Antiga de Lin An-tai.[^1]
 
-Em 1977, no n.º 141 da Siwei Road, no distrito de Da'an de Taipé, uma casa que já estava de pé há cerca de duzentos anos começou a ser desmontada. Não foram escavadoras que entraram primeiro, mas janelas, móveis, telhas, componentes de madeira, tijolos e lajes de pedra, peça por peça, a deixarem as suas posições originais. Naquele ano, a obra de alargamento da Dunhua South Road aproximou-se da Lin An Tai Ancient House.[^1]
+Do local original ao Parque Binjiang, a distância em linha reta é de cerca de dez quilômetros. Esse percurso levou dez anos para ser concluído, e só então a casa foi erguida novamente em um novo solo.[^2] A Casa Antiga de Lin An-tai, portanto, se tornou uma história que não se resume bem a um simples “salvamento bem-sucedido”. Ela foi preservada, sim, mas também perdeu sua geografia, seus vizinhos e sua vida originais.
 
-Do local original ao Binjiang Park, a distância em linha recta é de cerca de dez quilómetros. Esse percurso acabou por levar dez anos até que a casa antiga voltasse a erguer-se na nova terra.[^2] A Lin An Tai Ancient House tornou-se assim uma história que não se resume apenas a "preservação bem-sucedida". Ela de facto permaneceu, mas também de facto perdeu a sua geografia, vizinhança e vida originais.
-
-> **Nota do curador:** Uma casa pode ser mudada, mas a relação entre a casa e a terra não pode ser empacotada toda de uma vez.
+> **Nota do curador:** Uma casa pode ser transportada, mas a relação entre a casa e o terreno não pode ser embalada em pacote.
 
 ## Primeiro houve uma pessoa, depois houve uma casa
 
@@ -76,41 +74,41 @@ Em 1967, o Ministério do Interior convocou uma reunião com as pastas dos Trans
 
 Em 1978, a família Lin concordou com a demolição. Esta decisão não pode ser simplificada como uma doação voluntária da casa antiga pela família, nem redigida apenas como um resgate unilateral do governo. O registo oficial documentou o puxa-encolhe entre direitos de propriedade, compensações, condições de habitação e a área prevista para a estrada. Quando a casa não está inscrita na lista de monumentos, com que força a família pode exigir que a cidade pare? Não há uma resposta justa.[^5]
 
-## A primeira mudança da casa antiga, na verdade foram três mudanças
+## A primeira mudança da casa antiga, na verdade, foi três mudanças
 
-A obra de desmontagem iniciada em 1977, segundo o comunicado do Departamento de Assuntos Civis do Governo da Cidade de Taipé, levou primeiro os componentes para um armazém temporário na Anhe Road, depois para debaixo do viaduto da Heping West Road, e só por fim encontrou o local de reconstrução na zona da Binjiang Street. Da desmontagem à reconstrução, o processo de transporte durou cerca de dez anos no total, não foi concluído de uma só vez.[^4]
+Segundo o comunicado de imprensa do Departamento de Assuntos Civis do Governo da Cidade de Taipé, a obra de desmontagem iniciada em 1977 fez com que os componentes da casa antiga fossem primeiro armazenados em um depósito temporário na Rua Anhe, depois transferidos para debaixo da ponte elevada da Rua Pinghe, e somente então encontrassem uma posição para a reconstrução na região da Rua Binjiang. Do desmontagem à reconstrução, o processo de transporte durou cerca de dez anos, sem ser concluído de uma só vez.[^4]
 
-O _Taipei Times_ descreve este processo como uma engenharia logística caótica. A desmontagem levou cinco meses; os componentes ficaram retidos no armazém da Anhe Road devido a disputas de terra, depois foram para debaixo do viaduto da Heping West Road, onde madeiras e pilares se danificaram em ambiente de infiltração. Seis anos depois, o governo encontrou o novo local no Binjiang Park.[^2]
+A reportagem do Taipei Times descreve esse processo como uma espécie de engenharia logística desordenada. A desmontagem da casa antiga levou cinco meses; os componentes ficaram retidos no depósito da Rua Anhe devido a disputas fundiárias, foram posteriormente movidos para debaixo da ponte elevada da Rua Pinghe, e os elementos de madeira sofreram danos por causa de infiltrações. Seis anos depois, o governo encontrou um novo local no Parque Binjiang.[^2]
 
-| Período   | Ocorrência                           | Questão deixada neste momento                                    |
-| --------- | ------------------------------------ | ---------------------------------------------------------------- |
-| 1754      | Lin Chin-ming chega a Taiwan         | Família de imigrantes de Anxi assenta em Taipé.                  |
-| 1783–1785 | Conclusão do corpo principal         | Residência principal da família Lin toma forma.                  |
-| 1976–1978 | Alargamento da estrada e desmontagem | Conflito entre preservação no local e reconstrução noutro local. |
-| 1984–1987 | Reorganização no Binjiang Park       | Reconstrução no novo local, conclusão e abertura ao público.     |
-| 2000      | Abertura do Folk Museum              | Casa ancestral privada torna-se espaço cultural público.         |
+| Década    | Evento ocorrido                                   | Problema deixado naquele momento                                   |
+| --------- | ------------------------------------------------- | ------------------------------------------------------------------ |
+| 1754      | Travessia de Lin Qinming                          | Famílias imigrantes de Anshu estabeleceram-se em Taipé.            |
+| 1783–1785 | Conclusão do corpo principal                      | A estrutura principal da casa Lin foi formada.                     |
+| 1976–1978 | Largamento da rua e desmontagem                   | O conflito entre preservação no local e remoção para reconstrução. |
+| 1984–1987 | Reorganização no Parque Binjiang                  | Reconstrução no novo local, conclusão e abertura ao público.       |
+| 2000      | Abertura do Museu de Folclore e Objetos Culturais | A casa ancestral privada tornou-se um espaço cultural público.     |
 
-_Fonte da cronologia: página de história do Departamento de Assuntos Civis do Governo da Cidade de Taipé, relatório de investigação oficial e Taipei Times._
+_Fonte da linha do tempo: página de histórico do Departamento de Assuntos Civis do Governo da Cidade de Taipé, relatórios de pesquisa oficiais e Taipei Times._
 
-A dificuldade da mudança não está só na distância. A casa antiga era originalmente um sistema construtivo com direcção e ordem. Telhas pressionavam a estrutura do telhado, pilares de madeira e paredes de tijolo encaixavam-se mutuamente, portas e janelas formavam dimensões com o uso diário. Quando cada peça era retirada, a relação original também era desfeita.
+As dificuldades da mudança vão além da distância. A casa antiga era um sistema estrutural orientado e ordenado. Os telhados ficavam sobre a estrutura de madeira, os pilares de madeira se encaixavam com os muros de tijolo, e as portas e janelas eram dimensionadas de acordo com o uso cotidiano. Quando cada peça era desmontada, as relações originais também eram quebradas.
 
-Dados de investigação oficial indicam que, após múltiplas relocações e remontagens, parte dos antigos componentes de madeira sofreu danos, e as telhas originais deixaram de ser utilizadas.[^6] Este detalhe merece mais registo do que "preservação completa". Preservar não é fazer com que cada material chegue intacto à nova casa, mas decidir, depois de a perda já ter ocorrido, que vestígios ainda podem ser honestamente mantidos.
+Segundo os dados de pesquisa oficiais, após várias mudanças e reorganizações, alguns dos componentes antigos de madeira sofreram danos e os telhados originais também não foram mais utilizados.[^6] Esse detalhe é mais memorável do que a ideia de "preservação completa". Preservar não significa que cada peça chegue intacta ao novo local, mas sim decidir, após os danos já terem ocorrido, quais marcas ainda podem ser honestamente mantidas.
 
-![Detalhes de pinturas coloridas e decoração da Lin An Tai Ancient House.](https://upload.wikimedia.org/wikipedia/commons/c/cf/Lin_An_Tai_Historical_House_07.jpg)
+![Detalhe das pinturas e decorações da casa antiga de Lin An Tai.](https://upload.wikimedia.org/wikipedia/commons/c/cf/Lin_An_Tai_Historical_House_07.jpg)
 
-_Imagem: Bernard Gagnon, Wikimedia Commons, CC BY-SA licença múltipla. Imagem original e informações de licença na [página de descrição da imagem](https://commons.wikimedia.org/wiki/File:Lin_An_Tai_Historical_House_07.jpg). Imagem não modificada._
+_Foto: Bernard Gagnon, Wikimedia Commons, CC BY-SA licença múltipla._ A imagem original e as informações de licença estão disponíveis na [página de descrição da imagem](https://commons.wikimedia.org/wiki/File:Lin_An_Tai_Historical_House_07.jpg). A imagem não foi modificada.
 
-![Jardim à beira da lagoa e conjunto arquitectónico da Lin An Tai Ancient House.](https://upload.wikimedia.org/wikipedia/commons/9/94/Lin_An_Tai_Historical_House_05.jpg)
+![Pátio e conjunto de edifícios da casa antiga de Lin An Tai.](https://upload.wikimedia.org/wikipedia/commons/9/94/Lin_An_Tai_Historical_House_05.jpg)
 
-_Imagem: Bernard Gagnon, Wikimedia Commons, CC BY-SA 3.0. Imagem original e informações de licença na [página de descrição da imagem](https://commons.wikimedia.org/wiki/File:Lin_An_Tai_Historical_House_05.jpg). Imagem não modificada._
+_Foto: Bernard Gagnon, Wikimedia Commons, CC BY-SA 3.0._ A imagem original e as informações de licença estão disponíveis na [página de descrição da imagem](https://commons.wikimedia.org/wiki/File:Lin_An_Tai_Historical_House_05.jpg). A imagem não foi modificada.
 
-Para engenheiros ou restauradores, os desafios deste caso podem ser decompostos em vários níveis. O primeiro é a identificação: cada telha, cada peça de madeira, cada tijolo e pedra deve ter a sua informação de posição registada antes da desmontagem. O segundo é a preservação: os componentes não podem ser apenas amontoados, devem enfrentar o desgaste causado por humidade, transporte e espera. O terceiro é a remontagem: a fundação, orientação, drenagem e necessidades de uso do novo local forçarão o restaurador a escolher entre materiais antigos e nova engenharia.
+Para engenheiros ou restauradores, os desafios desse caso podem ser divididos em alguns níveis. O primeiro nível é a identificação: cada telhado, cada peça de madeira e cada bloco de pedra deve ter sua posição registrada antes da desmontagem. O segundo nível é a preservação: os componentes não podem ser apenas acumulados em um só lugar, mas também precisam enfrentar a umidade, o transporte e a espera, que causam desgaste. O terceiro nível é a reorganização: a fundação do novo local, a orientação, o drenagem e as necessidades de uso forçarão os restauradores a escolher entre os materiais antigos e os novos.
 
-Por isso, a codificação não é apenas uma técnica de construção, mas uma forma de converter a memória arquitectónica em dados rastreáveis. Permite que quem vem depois saiba onde cada componente estava originalmente, e também permite ver que partes já se perderam. Se houver apenas fotos da reconstrução concluída, o leitor tende a pensar que a casa nunca foi interrompida. Manter registos de desmontagem, listas de materiais e estados de dano é o que constitui uma documentação técnica responsável perante a arquitectura histórica.
+Portanto, a codificação não é apenas uma técnica de construção, mas uma forma de transformar a memória do edifício em dados rastreáveis. Ela permite que as pessoas posteriores saibam onde cada componente estava originalmente, e também permite que se veja quais partes já foram perdidas. Se houver apenas fotografias da reconstrução concluída, é fácil para o leitor achar que a casa nunca foi interrompida. Deixar registros de desmontagem, listas de materiais e condições de dano juntos é a documentação técnica responsável para edifícios históricos.
 
-Isto também explica por que a preservação por relocação não pode ser julgada apenas pela aparência final. A investigação académica aponta que edifícios relocalizados perdem o seu ambiente original, e a técnica de engenharia pode afectar a autenticidade.[^7] Para instituições culturais públicas, não se deve exibir apenas a cumeeira completa e o pátio arrumado, mas também fotos do local original, rotas de relocação, desgaste de materiais e controvérsias de decisão. Só tornando o processo público é que o visitante tem oportunidade de compreender que o edifício à sua frente não é uma preservação natural, mas o resultado acumulado de escolhas e custos de múltiplas partes. É também por isso que este artigo coloca lado a lado a história oficial, investigações governamentais, resumos académicos e reportagens em inglês: cada fonte ilumina um segmento do processo, e nenhuma página sozinha pode substituir toda a história.
+Isso também explica por que a preservação por remoção não pode ser julgada apenas pela aparência final. Pesquisas acadêmicas apontam que, após a mudança, o edifício perde seu ambiente original e a técnica de engenharia também pode afetar a autenticidade.[^7] Para instituições culturais públicas, a exposição não deve incluir apenas o sítio completo e o pátio ordenado, mas também fotografias do local original, rotas de mudança, condições de dano dos materiais e controvérsias sobre decisões. Só tornando o processo público que os visitantes terão a chance de entender que o que está diante dos olhos não é algo naturalmente preservado, mas o resultado de múltiplas escolhas e custos. É também por isso que este texto reúne a história oficial, pesquisas governamentais, resumos acadêmicos e relatos em inglês: diferentes fontes iluminam cada etapa do processo, e nenhuma delas pode substituir sozinha toda a história.
 
-> **Nota do curador:** "Mudança" soa como verbo do quotidiano, mas para a arquitectura histórica cada deslocamento redefine o que ela é.
+> **Nota do curador:** "Mudança" soa como um verbo cotidiano, mas para edifícios históricos, cada mudança redefine o que eles são.
 
 ## Reconstruir não é pôr o objecto original de volta no lugar original
 

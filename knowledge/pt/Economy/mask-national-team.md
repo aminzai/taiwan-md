@@ -1,19 +1,19 @@
 ---
-title: 'Equipa Nacional de Máscaras: 40 dias para ligar 92 linhas de produção, como a manufatura de Taiwan mudou de marcha na crise'
-description: 'Na escassez de máscaras de 2020, Taiwan ligou máquinas-ferramenta, têxtil, militares e governo numa só cadeia de abastecimento, completando 92 linhas de produção em 40 dias. O que realmente vale a pena recordar é esta capacidade de manufatura que costuma estar dispersa, mas sabe colaborar em crise.'
+title: 'Equipe nacional de máscaras: 40 dias para conectar 92 linhas de produção e como a indústria fez Taiwan mudar de marcha durante a crise'
+description: 'Durante a escassez de máscaras em 2020, Taiwan conectou máquinas-ferramenta, têxteis, o exército e o governo em uma única cadeia de suprimentos, completando 92 linhas de produção em 40 dias. O que realmente vale a pena lembrar é essa capacidade de manufatura normalmente dispersa, mas que pode colaborar em tempos de crise.'
 date: 2026-08-15
 category: 'Economy'
-subcategory: '經濟發展'
 tags:
   [
-    'Equipa Nacional de Máscaras',
+    'Equipe nacional de máscaras',
     'máquinas-ferramenta',
     'manufatura de precisão',
     'COVID-19',
     'política industrial',
     'cooperação internacional',
-    'diplomacia das máscaras',
+    'diplomacia de máscaras',
   ]
+subcategory: '經濟發展'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-15
@@ -21,185 +21,179 @@ lastHumanReview: false
 readingTime: 12
 curation: 'incubating'
 translatedFrom: 'Economy/口罩國家隊.md'
-sourceCommitSha: '4a95859b1'
-sourceContentHash: 'sha256:0d5afce6607921e8'
-sourceBodyHash: 'sha256:6f90b2f90f4bd537'
-translatedAt: '2026-09-12T19:57:16+08:00'
+sourceCommitSha: '7255b3ab1'
+sourceContentHash: 'sha256:972cf4aaa92341f0'
+sourceBodyHash: 'sha256:b76f31d5c89bcc16'
+translatedAt: '2026-09-23T09:26:35+08:00'
 ---
 
-> **Visão geral em 30 segundos:** Em janeiro de 2020, Taiwan só conseguia produzir cerca de 1,88 milhões de máscaras médicas e cirúrgicas por dia. O Centro de Comando Central de Epidemias, a partir de 31 de janeiro, requereu as máscaras relevantes, e as indústrias de máquinas-ferramenta e de máscaras completaram, em 40 dias, 92 novas linhas de produção, elevando a capacidade diária de cerca de 2,71 milhões para perto de 20 milhões de unidades no final de maio.[^1] [^2] [^3]
+> **30 segundos de visão geral:** Em janeiro de 2020, Taiwan podia produzir apenas cerca de 1,88 milhão de máscaras cirúrgicas e médicas por dia. O Centro de Comando de Epidemias da Administração Nacional de Saúde Pública começou a requisitar máscaras em 31 de janeiro, e as indústrias de máquinas-ferramenta e máscaras concluíram 92 novas linhas de produção em 40 dias, aumentando a capacidade diária de cerca de 2,71 milhões para quase 20 milhões no final de maio. [^1] [^2] [^3]
 >
-> Esta história costuma ser contada como «todos se esforçaram juntos, por isso deu certo». Mas o que os números escondem e vale a pena olhar é como um grupo de fabricantes que normalmente competem entre si conseguiu, sem ter muito tempo para esperar pela padronização, ligar máquinas, matérias-primas, logística e sistema de distribuição num sistema temporário, mas eficaz.
+> A história mais fácil de contar sobre isso é "todo mundo trabalhou juntos, por isso deu certo". Mas por trás dos números, há algo mais interessante: como um grupo de concorrentes que normalmente competem entre si conseguiu, sem muito tempo para padronizar, conectar máquinas, matérias-primas, logística e um sistema de distribuição eficaz, ainda que temporário.
 >
-> _Ver também: [Oficiais das Forças Armadas auxiliam embalagem de máscaras](https://www.twreporter.org/images/20200427165916-32ddfe7b8048afe913e0e0beb9d5d4ea-mobile.jpg) (The Reporter)_
-> _Oficiais das Forças Armadas auxiliam embalagem de máscaras. Fotografia／Yang Tzu-lei, imagem cedida por: [The Reporter 〈O desafio da Equipa Nacional de Máscaras〉](https://www.twreporter.org/a/covid-19-mask-national-team-taiwan-can-help)._
+> _Veja também: [Soldados do Ministério da Defesa ajudando no embalamento de máscaras](https://www.twreporter.org/images/20200427165916-32ddfe7b8048afe913e0e0beb9d5d4ea-mobile.jpg) (repórter)_
+> _Soldados do Ministério da Defesa ajudando no embalamento de máscaras. Foto: Yang Zilei, fonte: [Reporter](https://www.twreporter.org/a/covid-19-mask-national-team-taiwan-can-help)._
 
-## A escassez de máscaras caiu primeiro numa linha de produção que ainda não estava ligada
+## A escassez de máscaras começou com uma linha de produção ainda não conectada
 
-A 20 de janeiro de 2020, Taiwan criou o Centro de Comando Central de Epidemias para Pneumonia Grave com Transmissão Nova. Três dias depois, o Ministério dos Assuntos Económicos anunciou que, a partir de 24 de janeiro, passava a controlar a exportação de máscaras da posição 6307, mantendo primeiro o stock limitado de máscaras médicas no país.[^4] [^5]
+Em 20 de janeiro de 2020, Taiwan estabeleceu o Centro de Comando de Epidemias para a Pneumonia Infecciosa de Alta Transmissibilidade. Três dias depois, o Ministério da Economia anunciou que, a partir de 24 de janeiro, exportações de máscaras seriam controladas, mantendo as escassas máscaras médicas dentro do país. [^4] [^5]
 
-O problema nessa altura era muito concreto: a capacidade de produção nacional não bastava. O Centro de Comando Central de Epidemias reviu depois que, a partir de 31 de janeiro, continuou a política de requisição de máscaras, com capacidade diária inicial de cerca de 2,71 milhões de unidades. O _The Reporter_, calculando com a capacidade pré-pandemia, registava então uma produção diária de cerca de 1,88 milhões. Os dois números correspondem a momentos diferentes e não podem ser fundidos num único referencial.[^1] [^2]
+O problema naquele momento era concreto: a capacidade interna existente não era suficiente. Revisando os eventos, o Centro de Comando de Epidemias adotou a política de requisição de máscaras a partir de 31 de janeiro, com uma capacidade inicial de cerca de 2,71 milhões por dia. O Reporter calculou a capacidade pré-pandemia em cerca de 1,88 milhões por dia. Esses dois conjuntos de números correspondem a momentos diferentes e não devem ser misturados como um único padrão. [^1] [^2]
 
-A diferença está em cada máquina. Taiwan tinha fabricantes de máscaras, e também tinha fabricantes de máquinas-ferramenta familiarizados com equipamentos de automação, sistemas de controlo e componentes, mas uma máquina de máscaras não se faz levando qualquer máquina-ferramenta para a linha. O que o governo realmente tinha de resolver era fazer com que indústrias diferentes avançassem simultaneamente entre matérias-primas, máquinas, instalação, testes e mão de obra. O Conselho de Desenvolvimento Nacional descreve este processo como cooperação intersetorial, e assinala que a Associação de Máquinas-Ferramenta em fevereiro de 2020 tomou a iniciativa de ligar os operadores.[^6]
+A diferença está em cada máquina. Taiwan tem fabricantes de máscaras, bem como empresas de máquinas-ferramenta familiarizadas com automação, sistemas de controle e componentes. Mas uma máquina de máscaras não pode ser simplesmente trazida de qualquer máquina-ferramenta e usada diretamente para produzir. O que o governo precisava resolver era como fazer diferentes indústrias avançarem simultaneamente em matérias-primas, máquinas, instalação, testes e mão de obra. O relatório do Conselho Nacional de Desenvolvimento Desenvolvimento descreve esse processo como cooperação interdisciplinar e destaca que a associação de máquinas-ferramenta ajudou ativamente a conectar empresas em fevereiro de 2020. [^6]
 
-> **📝 Nota do curador:** O primeiro problema da Equipa Nacional de Máscaras não foi «há ou não fábricas», mas «as fábricas conseguem esperar umas pelas outras dentro do mesmo prazo». A crise transformou o trabalho que na cadeia de abastecimento costuma ser orçado separadamente num único contador regressivo.
+> **📝 Nota do curador:** O primeiro desafio da equipe nacional de máscaras não foi "ter fábricas", mas "ter fábricas que pudessem se sincronizar dentro de um mesmo prazo". A crise transformou tarefas normalmente separadas por setores em um único cronômetro.
 
-## Os quarenta dias em que as fábricas de máquinas-ferramenta assumiram o comando
+## Quarenta dias para as fábricas de máquinas-ferramenta
 
-A equipa nacional formou-se no início de fevereiro. O Focus Taiwan noticiou que cerca de 100 técnicos levaram seis semanas a montar 92 linhas de produção de máscaras cirúrgicas, prevendo elevar a capacidade diária de 4 para 13 milhões de unidades. Era uma estimativa faseada, que também explica por que as «92 linhas» posteriores não equivaliam a 20 milhões de unidades prontas num só dia.[^7]
+A equipe nacional foi formada no início de fevereiro. O Focus Taiwan noticiou que cerca de 100 técnicos gastaram seis semanas montando 92 linhas de produção de máscaras cirúrgicas, com previsão de aumentar a capacidade diária de 4 milhões para 13 milhões. Essa era a estimativa estágio por estágio naquele momento, o que também explica por que as "92 linhas" não significam que 20 milhões de unidades prontas apareceram de repente. [^7]
 
-A meta do primeiro lote de 60 linhas era concluir entrega e instalação num mês, acrescentando cerca de 6 milhões de unidades/dia. Se as fábricas de máscaras originais passassem de 11 para 24 horas de operação, a produção também subiria de cerca de 1,88 para cerca de 4 milhões. Mas o ritmo real atrasou: a 2 de março a produção diária era de cerca de 8,2 milhões, ainda abaixo da meta de 10 milhões fixada pelo Yuan Executivo.[^2]
+As primeiras 60 linhas tinham como objetivo concluir a entrega e instalação em um mês, adicionando cerca de 6 milhões de capacidade diária. Se as fábricas de máscaras existentes aumentassem de 11 horas para 24 horas por dia, a produção também subiria de cerca de 1,88 milhões para cerca de 4 milhões. No entanto, o progresso real ficou atrás: em 2 de março, a produção diária era de cerca de 8,2 milhões, ainda não atingindo a meta de 10 milhões estabelecida pelo Gabinete Executivo. [^2]
 
-Este desfasamento é importante. Lembra-nos que «linha montada», «máquina a correr estável» e «produto distribuível» são três coisas diferentes. A máquina de máscaras tem de ser entregue, posicionada, calibrada, testada; as matérias-primas também têm de chegar a tempo. Qualquer elo mais lento reflete-se na prateleira da farmácia. Os dados do Conselho de Desenvolvimento Nacional também referem que os operadores enfrentavam então máquinas velhas, dificuldade de manutenção e encomendas de equipamento novo.[^6]
+Essa lacuna é importante. Ela nos lembra que "montar a linha", "operar a máquina estávelmente" e "distribuir o produto" são três coisas distintas. As máquinas precisam ser enviadas, posicionadas, ajustadas e testadas, e as matérias-primas também precisam chegar ao mesmo tempo. Qualquer atraso em qualquer etapa será refletido nas prateleiras das farmácias. Os dados do Conselho Nacional de Desenvolvimento também mencionam que as empresas enfrentaram problemas como máquinas antigas, dificuldade de manutenção e encomendas de novas máquinas. [^6]
 
-O Yuan Executivo no final de fevereiro adicionou 90 milhões de NT$ ao orçamento, comprando mais 30 linhas, levando o total da equipa nacional a 92 linhas. O Instituto de Investigação Económica de Taiwan aponta que, dessas, 2 são de máscaras cirúrgicas com atilhos, as 92 linhas estão distribuídas por 15 operadores, mobilizando mais de 3.200 pessoas-vez.[^2] [^3]
+O Gabinete Executivo aprovou mais 90 milhões de dólares em fevereiro para comprar 30 linhas adicionais, elevando o total da equipe nacional para 92 linhas. A análise do Instituto de Pesquisa Econômica da China (Instituto de Pesquisa Econômica da China) também destacou que duas dessas linhas eram para máscaras cirúrgicas com laço, e que as 92 linhas estavam distribuídas entre 15 empresas, mobilizando mais de 3.200 pessoas. [^2] [^3]
 
-As fotos abaixo levam o olhar, em sequência, para os técnicos, as máquinas-ferramenta e o chão de fábrica das máscaras. Elas completam o que as estatísticas não mostram: as linhas não são «92» abstratas, mas exigem entrada de pessoal, ajuste de equipamento, chegada de materiais, para finalmente se tornarem material médico utilizável.
+As fotos a seguir mostram os técnicos, as máquinas-ferramenta e os locais de produção de máscaras. Elas complementam os números estatísticos: a linha de produção não é apenas um conceito abstrato de "92 linhas", mas algo que requer pessoal, ajustes de equipamentos e disponibilidade de materiais antes de se tornar um suprimento médico utilizável.
 
-_Ver também: [Técnicos da Equipa Nacional de Máscaras auxiliam montagem e calibração](https://img.ltn.com.tw/Upload/news/600/2020/03/19/3105348_1_1.jpg)_
+_Veja também: [Técnicos da equipe nacional ajudando na montagem e calibração](https://img.ltn.com.tw/Upload/news/600/2020/03/19/3105348_1_1.jpg)_
 
-![Presidente visita a Taiwan Kang Chiao Manufacturing](https://commons.wikimedia.org/wiki/Special:Redirect/file/02.05_%E7%B8%BD%E7%B5%B1%E8%A8%AA%E8%A6%96%E3%80%8C%E5%8F%B0%E7%81%A3%E5%BA%B7%E5%8C%A0%E8%A3%BD%E9%80%A0%E5%85%AC%E5%8F%B8%E3%80%8D_%2849491632921%29.jpg)
-_Presidente visita a Taiwan Kang Chiao Manufacturing. Imagem cedida por: Wikimedia Commons.[^19]_
+![Presidente visita a fábrica Taiwan Kangxiang](https://commons.wikimedia.org/wiki/Special:Redirect/file/02.05_%E7%B8%BD%E7%B5%B1%E8%A8%AA%E8%A6%96%E3%80%8C%E5%8F%B0%E7%81%A3%E5%BA%B7%E5%8C%A0%E8%A3%BD%E9%80%A0%E5%85%AC%E5%8F%B8%E3%80%8D_%2849491632921%29.jpg)
+_Presidente visita a fábrica Taiwan Kangxiang._ Fonte: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:02.05_%E7%B8%BD%E7%B5%B1%E8%A8%AA%E8%A6%96%E3%80%8C%E5%8F%B0%E7%81%A3%E5%BA%B7%E5%8C%A0%E8%A3%BD%E9%80%A0%E5%85%AC%E5%8F%B8%E3%80%8D_%2849491632921%29.jpg). [^19]
 
-[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:02.05_%E7%B8%BD%E7%B5%B1%E8%A8%AA%E8%A6%96%E3%80%8C%E5%8F%B0%E7%81%A3%E5%BA%B7%E5%8C%A0%E8%A3%BD%E9%80%A0%E5%85%AC%E5%8F%B8%E3%80%8D_%2849491632921%29.jpg)
+![Presidente visita a fábrica Longhong Mecânica](https://commons.wikimedia.org/wiki/Special:Redirect/file/03.05_%E7%B8%BD%E7%B5%B1%E8%A8%AA%E8%A6%96%E3%80%8C%E9%95%B7%E5%AE%8F%E6%A9%9F%E6%A2%B0%E5%85%AC%E5%8F%B8%E3%80%8D%EF%BC%8C%E7%82%BA%E5%8F%83%E8%88%87%E3%80%8C%E5%8F%A3%E7%BD%A9%E5%9C%8B%E5%AE%B6%E9%9A%8A%E3%80%8D%E5%B7%A5%E5%85%B7%E6%A9%9F%E6%A5%AD%E8%80%85%E6%89%93%E6%B0%A3_%2849622619966%29.jpg)
+_Presidente visita a fábrica Longhong Mecânica, incentivando as empresas de máquinas-ferramenta que participam da equipe nacional de máscaras._ Fonte: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:03.05_%E7%B8%BD%E7%B5%B1%E8%A8%AA%E8%A6%96%E3%80%8C%E9%95%B7%E5%AE%8F%E6%A9%9F%E6%A2%B0%E5%85%AC%E5%8F%B8%E3%80%8D%EF%BC%8C%E7%82%BA%E5%8F%83%E8%88%87%E3%80%8C%E5%8F%A3%E7%BD%A9%E5%9C%8B%E5%AE%B6%E9%9A%8A%E3%80%8D%E5%B7%A5%E5%85%B7%E6%A9%9F%E6%A5%AD%E8%80%85%E6%89%93%E6%B0%A3_%2849622619966%29.jpg). [^20]
 
-![Presidente visita a Chang Hong Machinery](https://commons.wikimedia.org/wiki/Special:Redirect/file/03.05_%E7%B8%BD%E7%B5%B1%E8%A8%AA%E8%A6%96%E3%80%8C%E9%95%B7%E5%AE%8F%E6%A9%9F%E6%A2%B0%E5%85%AC%E5%8F%B8%E3%80%8D%EF%BC%8C%E7%82%BA%E5%8F%83%E8%88%87%E3%80%8C%E5%8F%A3%E7%BD%A9%E5%9C%8B%E5%AE%B6%E9%9A%8A%E3%80%8D%E5%B7%A5%E5%85%B7%E6%A9%9F%E6%A5%AD%E8%80%85%E6%89%93%E6%B0%A3_%2849622619966%29.jpg)
-_Presidente visita a Chang Hong Machinery, para animar os operadores de máquinas-ferramenta que participam na Equipa Nacional de Máscaras. Imagem cedida por: Wikimedia Commons.[^20]_
+![Presidente visita o local da fábrica Taiwan Kangxiang](https://commons.wikimedia.org/wiki/Special:Redirect/file/02.05_%E7%B8%BD%E7%B5%B1%E8%A8%AA%E8%A6%96%E3%80%8C%E5%8F%B0%E7%81%A3%E5%BA%B7%E5%8C%A0%E8%A3%BD%E9%80%A0%E5%85%AC%E5%8F%B8%E3%80%8D_%2849491845167%29.jpg)
+_Presidente visita o local da fábrica Taiwan Kangxiang._ Fonte: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:02.05_%E7%B8%BD%E7%B5%B1%E8%A8%AA%E8%A6%96%E3%80%8C%E5%8F%B0%E7%81%A3%E5%BA%B7%E5%8C%A0%E8%A3%BD%E9%80%A0%E5%85%AC%E5%8F%B8%E3%80%8D_%2849491845167%29.jpg). [^21]
 
-[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:03.05_%E7%B8%BD%E7%B5%B1%E8%A8%AA%E8%A6%96%E3%80%8C%E9%95%B7%E5%AE%8F%E6%A9%9F%E6%A2%B0%E5%85%AC%E5%8F%B8%E3%80%8D%EF%BC%8C%E7%82%BA%E5%8F%83%E8%88%87%E3%80%8C%E5%8F%A3%E7%BD%A9%E5%9C%8B%E5%AE%B6%E9%9A%8A%E3%80%8D%E5%B7%A5%E5%85%B7%E6%A9%9F%E6%A5%AD%E8%80%85%E6%89%93%E6%B0%A3_%2849622619966%29.jpg)
+_Veja também: [Linhas de produção e instalação de máscaras](https://www.twreporter.org/images/20200427173429-8161d5ccebb96662a18b9344b03f4949-mobile.jpg)_
 
-![Presidente visita o local da Taiwan Kang Chiao Manufacturing](https://commons.wikimedia.org/wiki/Special:Redirect/file/02.05_%E7%B8%BD%E7%B5%B1%E8%A8%AA%E8%A6%96%E3%80%8C%E5%8F%B0%E7%81%A3%E5%BA%B7%E5%8C%A0%E8%A3%BD%E9%80%A0%E5%85%AC%E5%8F%B8%E3%80%8D_%2849491845167%29.jpg)
-_Presidente visita o local da Taiwan Kang Chiao Manufacturing. Imagem cedida por: Wikimedia Commons.[^21]_
+> **Leitura de imagens:** As fotos de Kangxiang e Longhong mostram o momento em que a capacidade de manufatura se torna visível, enquanto as fotos dos técnicos mostram como essa capacidade é concretizada. Juntas, elas se aproximam da cena completa da equipe nacional de máscaras.
 
-[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:02.05_%E7%B8%BD%E7%B5%B1%E8%A8%AA%E8%A6%96%E3%80%8C%E5%8F%B0%E7%81%A3%E5%BA%B7%E5%8C%A0%E8%A3%BD%E9%80%A0%E5%85%AC%E5%8F%B8%E3%80%8D_%2849491845167%29.jpg)
+| Ponto-chave              | Número ou data verificável                           | O que esse número representa                                                                   |
+| ------------------------ | ---------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| Início da pandemia       | Capacidade original de cerca de 1,88 milhões por dia | A escassez de máscaras era primeiro um problema de capacidade, não apenas de fila. [^2]        |
+| Expansão da linha        | Começou com 60 linhas, mais 30 adicionais            | As 92 linhas são o resultado de uma soma gradual. [^2]                                         |
+| Velocidade de construção | Cerca de 40 dias para concluir 92 linhas             | A velocidade vem da divisão de trabalho interdisciplinar e coordenação centralizada. [^1] [^3] |
+| Pico de capacidade       | No final de maio, próximo a 20 milhões por dia       | Suficiente para suportar a distribuição, a saúde e as doações externas. [^4]                   |
 
-_Ver também: [Linha de produção de máscaras e instalação no local](https://www.twreporter.org/images/20200427173429-8161d5ccebb96662a18b9344b03f4949-mobile.jpg)_
+## Máscaras não são apenas uma máquina, mas cinco processos e uma camada de tecido termofundido
 
-> **Leitura das imagens:** As fotos da Kang Chiao e da Chang Hong mostram o momento em que a «capacidade de fabricar» se torna visível; a foto dos técnicos deixa ver como essa capacidade é executada concretamente. Juntas, as três aproximam-se do terreno completo da Equipa Nacional de Máscaras.
+A máquina de máscaras é apenas a parte visível da cadeia de suprimentos. O relatório do Conselho Nacional de Desenvolvimento resume a fabricação de máscaras médicas em cinco etapas: entrada de matéria-prima, formação, solda, corte e saída. Três camadas de tecido sem fio precisam ser alinhadas com precisão em diferentes processos, e as cordas ou laços também precisam ser feitos na etapa final. Isso significa que "ter uma máquina" não significa "ter um produto qualificado", e as especificações de matéria-prima, ajustes, testes e inspeções de qualidade precisam estar todos prontos ao mesmo tempo. [^6]
 
-| Marco-chave              | Número ou data verificável                      | O que este número representa                                                             |
-| ------------------------ | ----------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| Início da pandemia       | Produção original ~1,88 milhões/dia             | A escassez foi primeiro de capacidade, não só de filas.[^2]                              |
-| Expansão de linhas       | 60 linhas no arranque, mais 30 compradas depois | As 92 linhas são soma faseada.[^2]                                                       |
-| Velocidade de instalação | ~40 dias para 92 linhas                         | Velocidade vem da divisão de trabalho intersetorial e coordenação centralizada.[^1] [^3] |
-| Pico de capacidade       | Fim de maio ~20 milhões/dia                     | Só então sustenta distribuição, saúde e ajuda externa.[^4]                               |
+O mais fácil de ignorar é o tecido termofundido intermediário. Após ser carregado com carga eletrostática por meio de eletrofilia, o tecido termofundido forma a camada filtrante importante das máscaras médicas. Os dados compilados pelo Reporter mostram que a eficiência de filtragem pode subir de 37% para 96% após a carga eletrostática. Portanto, a equipe nacional de máscaras não apenas aumentou o número de máquinas, mas também precisou sincronizar a matéria-prima de polipropileno (PP), os equipamentos de eletrofilia e o fornecimento de materiais. [^2]
 
-## A máscara não é só uma máquina, são cinco processos e uma camada de não-tecido meltblown
+| Etapa do processo | Trabalho principal                                                   | Por que não podemos olhar apenas para o número de linhas                                        |
+| ----------------- | -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| Entrada           | Introduzir camadas externas, filtrantes e internas de tecido sem fio | As especificações e tensão da matéria-prima afetam a formação subsequente. [^6]                 |
+| Formação          | Dobrar e posicionar os materiais em várias camadas                   | A posição entre as camadas afeta a estrutura da máscara. [^6]                                   |
+| Solda             | Fixar o corpo da máscara e as juntas                                 | As condições de solda precisam ser ajustadas conforme os materiais e equipamentos. [^6]         |
+| Corte             | Cortar conforme as dimensões especificadas                           | As dimensões e qualidade das bordas afetam o uso e a inspeção. [^6]                             |
+| Saída             | Completar as cordas/ laços e outras etapas posteriores               | Mesmo após a saída, ainda não significa que o embalamento e distribuição estão concluídos. [^6] |
 
-A máquina de máscaras é só a parte visível da cadeia ligada. O Conselho de Desenvolvimento Nacional resume a conformação da máscara médica em cinco passos: alimentação, conformação, fusão, corte, saída; três camadas de não-tecido têm de estar alinhadas com precisão em diferentes operações, elásticos ou atilhos completam-se na fase final. Isso significa que «ter máquina» não equivale a «ter produto qualificado»; especificações de matéria-prima, calibração, testes e controlo de qualidade têm de chegar em simultâneo.[^6]
+## Apenas após o aumento da capacidade, as máscaras começaram a ser distribuídas de forma equitativa
 
-O mais fácil de ignorar é o não-tecido meltblown do meio. Só depois de carregado eletrostaticamente por descarga corona o meltblown forma a camada de filtração essencial da máscara médica. Dados de testes compilados pelo _The Reporter_ mostram que a eficiência de filtração sobe de 37% para 96% após a carga eletrostática. Por isso, a Equipa Nacional de Máscaras não só somou máquinas, mas teve de sincronizar matéria-prima PP polipropileno, equipamento de meltblown e abastecimento de materiais.[^2]
+Em 6 de fevereiro, Taiwan lançou a primeira versão do sistema de venda com registro, permitindo que as pessoas comprassem máscaras requisitadas com seus cartões de seguro na rede de farmácias conveniadas. O Ministério da Saúde e Bem-Estar posteriormente explicou que o contexto direto para essa medida foi o aumento repentino da demanda no início da pandemia, enquanto a capacidade interna ainda era limitada, exigindo que o governo distribuísse as máscaras requisitadas à população. [^8]
 
-| Etapa do processo | Trabalho principal                                    | Por que não basta contar linhas                                          |
-| ----------------- | ----------------------------------------------------- | ------------------------------------------------------------------------ |
-| Alimentação       | Introduzir não-tecido externo, de filtração e interno | Especificação e tensão da matéria-prima afetam conformação seguinte.[^6] |
-| Conformação       | Dobrar e posicionar multicamadas                      | Instabilidade entre camadas afeta estrutura da máscara.[^6]              |
-| Fusão             | Fixar corpo da máscara e pontos de união              | Condições de fusão dependem de material e equipamento.[^6]               |
-| Corte             | Cortar à medida especificada                          | Dimensão e qualidade da borda afetam uso e inspeção.[^6]                 |
-| Saída             | Completar elásticos/atilhos e saída final             | Saída concluída não significa embalagem e distribuição feitas.[^6]       |
+O sistema de venda com registro não existe sozinho como uma inovação digital. Ele depende de dados como produção diária, quantidade requisitada, estoque das farmácias e logística. Os dados do Gabinete Executivo de abril de 2020 mostram que, a partir de 9 de abril, cada pessoa podia comprar 9 máscaras adultas a cada duas semanas. O Centro de Comando de Epidemias registrou que a quantidade comprada foi aumentando gradualmente com a capacidade diária, de 2 por semana para 9 a cada 14 dias. [^4] [^5]
 
-## Só depois de a capacidade subir, as máscaras puderam ser distribuídas com justiça
+É por isso que "equipe nacional de máscaras" não pode se referir apenas às fábricas de máquinas-ferramenta. Pessoal de reserva do exército ajudou no embalamento, o Instituto de Pesquisa Textil coordenou a requisição, o Correios da China (Correios da China) lidou com a logística, as fábricas de máscaras produziram, e o governo gerenciou a requisição, compra, distribuição e ritmo das políticas. Cada unidade faz algo diferente, mas todos se encontram no momento em que uma família recebe as máscaras. [^4]
 
-A 6 de fevereiro, Taiwan lançou a primeira geração do sistema de registo nominal de máscaras: a população podia comprar máscaras requiridas nas farmácias conveniadas apresentando o cartão do seguro de saúde. O Ministério da Saúde e Bem-Estar explicou depois que a medida nasceu do aumento súbito de procura no início da pandemia, enquanto a capacidade nacional continuava limitada, obrigando o governo a distribuir as máscaras requiridas à população.[^8]
+> **📝 Nota do curador:** O sistema de venda com registro parece ser apenas um mecanismo de venda, mas na verdade é mais como uma rede de distribuição que conecta capacidade, dados do seguro, farmácias, lojas de conveniência e logística. Quanto mais linhas de produção são adicionadas, mais há para distribuir, e quanto mais estável o sistema, menos a capacidade adicional fica presa nas fábricas.
 
-O registo nominal não é uma inovação digital isolada. Tem de funcionar com produção diária, quantidade requirida, stock das farmácias e dados logísticos. Dados do Yuan Executivo de abril de 2020 registam que a partir de 9 de abril cada pessoa podia comprar 9 máscaras de adulto a cada duas semanas. O Centro de Comando Central de Epidemias regista que a quota de compra subiu gradualmente, de 2 máscaras em 7 dias para 9 máscaras em 14 dias, acompanhando o aumento da capacidade diária.[^4] [^5]
+## De 16 milhões para 20 milhões, os números também têm carimbos de data/hora
 
-Por isso a «Equipa Nacional de Máscaras» não pode designar só as fábricas de máquinas-ferramenta. Reservistas militares ajudaram na embalagem, o Instituto de Investigação Têxtil coordenou a requisição prática, os Correios de Taiwan trataram da logística, as fábricas de máscaras produziram, o governo geriu requisição, aquisição, distribuição e ritmo da política. Cada unidade fez coisas diferentes, mas todas tiveram de confluir no momento em que uma família recebe a máscara na mão.[^4]
+Em 26 de abril de 2020, o Reporter registrou que, com as 92 linhas da equipe nacional somadas à capacidade existente das fábricas de máscaras, a produção diária atingiu 16 milhões, um aumento de cerca de 8,5 vezes em três meses. No dia 27 de abril, o relatório ainda usava 16 milhões como a "capacidade estável". [^2]
 
-> **📝 Nota do curador:** O registo nominal parece um sistema de venda, mas na prática é mais uma rede que liga capacidade, dados do seguro de saúde, farmácias, lojas de conveniência e logística. As linhas aumentam, o sistema tem o que distribuir; o sistema estabiliza, a capacidade extra não fica parada na fábrica.
+O relatório divulgado pelo Centro de Comando de Epidemias em 2 de junho usou como base os 2,71 milhões de 31 de janeiro e afirmou que a capacidade diária chegou a cerca de 20 milhões no final de maio. O artigo do Instituto de Pesquisa Econômica da China também resumiu a mudança como "de 1,88 milhões para 20 milhões". Esses números parecem diferentes, mas na verdade são registros de capacidade em diferentes datas, com diferentes metodologias estatísticas e estágios. Ao escrever, é importante preservar os pontos de tempo das fontes e não apresentar todos os números como uma linha sem comentários. [^1] [^3] [^4]
 
-## De 16 para 20 milhões, os números também têm carimbo de tempo
+Depois que a capacidade e o estoque são suficientes para atender à demanda interna, as políticas começam a relaxar as restrições de exportação. O Centro de Comando de Epidemias explicou que, a partir de 1 de junho, a requisição diária seria de 8 milhões, com o restante disponível para venda interna ou exportação, mantendo um mecanismo para aumentar a requisição quando o estoque cair abaixo de 100 milhões. [^4]
 
-A 26 de abril de 2020, o _The Reporter_ registava que as 92 linhas da equipa nacional mais a capacidade original das fábricas de máscaras levavam a produção diária a 16 milhões, aumento de cerca de 8,5 vezes em três meses. A 27 de abril, o mesmo meio ainda usava 16 milhões como capacidade diária «estabilizada».[^2]
+Essa mudança transforma a história de "como sobreviver à escassez" para "o que fazer com a capacidade extra". Em abril, o Reporter já registrava as preocupações dos fornecedores sobre o fim repentino da pandemia e o excesso de capacidade, compilando as propostas do Ministério da Economia sobre estoques de emergência, demanda interna de saúde e estratégias de exportação. [^2]
 
-A retrospetiva do Centro de Comando Central de Epidemias a 2 de junho toma como base os ~2,71 milhões de 31 de janeiro e aponta que a capacidade diária subiu para perto de 20 milhões no final de maio. O artigo do Instituto de Investigação Económica de Taiwan resume a mudança como «de 1,88 para 20 milhões». Números aparentemente diferentes, na verdade são registos de capacidade em datas, critérios estatísticos e fases diferentes. Ao escrever, deve preservar-se o momento da fonte, e não alinhar cada número numa linha reta sem anotação.[^1] [^3] [^4]
+_Veja também: [Planejamento de capacidade e discussões políticas da equipe nacional de máscaras](https://www.twreporter.org/images/20200427174026-a2f6830332d0860d5e3e379ec14d9ed1-mobile.jpg)_
 
-Quando capacidade e stock bastaram para a procura interna, a política começou a afrouxar a limitação de exportação. O Centro de Comando Central de Epidemias explicou que a partir de 1 de junho passava a requerer 8 milhões/dia, libertando o resto para venda interna ou exportação, mantendo o mecanismo de subir a requisição se o stock caísse abaixo de 100 milhões.[^4]
+## Linhas de produção no exterior: Lituânia e República Tcheca não podem ser confundidas
 
-Esta viragem leva a história do «como sobreviver à escassez» para «o que fazer com a capacidade extra». Já em abril o _The Reporter_ registava a dúvida dos operadores sobre o fim súbito da pandemia e excesso de capacidade, e compilava as ideias do Ministério dos Assuntos Económicos sobre stock de prontidão, procura médica interna e layout de exportação.[^2]
+A história internacional da equipe nacional de máscaras deve ser dividida em pelo menos duas partes. Em abril de 2020, o Ministério das Relações Exteriores anunciou a primeira onda de ajuda humanitária internacional: doou 100.000 máscaras por semana aos Estados Unidos e mais 200.000 doadas, além de 7 milhões de máscaras doadas à União Europeia e aos países europeus mais afetados, e planejou doar mais 1 milhão de máscaras de Taiwan aos amigos diplomáticos. [^14] Em 2020, Taiwan doou 100.000 máscaras médicas à Lituânia, ajudando os profissionais de saúde na linha de frente. Em 2021, a Lituânia doou 20.000 doses de vacina AstraZeneca a Taiwan.
 
-_Ver também: [Planeamento de capacidade e debate de política da Equipa Nacional de Máscaras](https://www.twreporter.org/images/20200427174026-a2f6830332d0860d5e3e379ec14d9ed1-mobile.jpg)_
+A explicação oficial do Gabinete do Presidente foi clara: o caso da Lituânia é uma doação de máscaras prontas, não uma exportação de linhas de produção de máscaras já confirmada por essa fonte. [^10]
 
-## As linhas foram para o estrangeiro, Lituânia e Chéquia não se podem misturar
+O registro claro de "linhas de produção enviadas ao exterior" está na República Tcheca. [^15] [^16]
 
-A história internacional da Equipa Nacional de Máscaras tem pelo menos duas naturezas. O Ministério dos Negócios Estrangeiros anunciou em abril de 2020 a primeira vaga de ajuda humanitária internacional: aos EUA, 100 mil unidades/semana mais 2 milhões de doação; à UE e países europeus mais afetados, 7 milhões; planeava ainda doar 1 milhão de máscaras taiwanesas a países aliados.[^14] Em 2020, Taiwan ajudou a Lituânia com 100 mil máscaras de grau médico[^18], apoiando profissionais de saúde na linha da frente. Em 2021, a Lituânia doou por sua vez 20 mil doses de vacina AstraZeneca a Taiwan.
+O Focus Taiwan noticiou que a linha de produção de máscaras médicas automatizadas doada por Taiwan chegou à República Tcheca em fevereiro de 2021. O Brno Daily local relatou que o equipamento foi doado por empresas de máquinas do sul de Taiwan, incluindo cinco linhas de produção de máscaras 3D totalmente automáticas, com custo do equipamento de cerca de 1,52 milhão de dólares, e o relatório estimou uma produção diária de 43.000 unidades. [^11] [^13]
 
-A versão oficial da Presidência é clara: o caso lituano é doação de máscaras prontas, não de linhas de produção de máscaras, como aquela fonte confirmou.[^10]
+Posteriormente, o relatório do Central News Agency descreveu a produção estimada de cerca de 5 milhões por mês após a linha começar a operar, destacando que parte da capacidade seria doada para fins benéficos. 43.000 unidades por dia e 5 milhões por mês não são os mesmos números, e ambos podem envolver diferentes escopos de equipamentos, dias de trabalho ou estágios de estimativa. Sem especificações técnicas mais completas, este texto não converte esses números em uma única curva, apenas mantém a conclusão verificável: "o equipamento de Taiwan chegou e foi colocado na indústria de combate à pandemia da República Tcheca". [^12]
 
-O caso com «linhas que chegaram ao estrangeiro» confirmado é o da Chéquia.[^15] [^16]
+| Caso internacional | Conteúdo fornecido por Taiwan                              | Resultado verificável                                                                                                             | Confusão a evitar ao escrever                                                                                           |
+| ------------------ | ---------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Lituânia           | 100.000 máscaras médicas                                   | Ajudou profissionais de saúde na linha de frente. Em 2021, a Lituânia doou 20.000 doses de vacina a Taiwan. [^10]                 | Não confundir doação de máscaras prontas com exportação de linhas de produção.                                          |
+| República Tcheca   | 5 linhas de produção de máscaras 3D totalmente automáticas | Chegaram em fevereiro de 2021, iniciaram produção em massa e parte da capacidade foi doada para fins benéficos. [^11] [^12] [^13] | Não aplicar diretamente as estimativas de capacidade do caso da República Tcheca à capacidade diária interna de Taiwan. |
 
-O Focus Taiwan noticiou que a linha de produção automática de máscaras médicas prometida por Taiwan chegou à Chéquia em fevereiro de 2021. O _Brno Daily_ local reportou que o equipamento foi doado em conjunto por operadores de máquinas do sul de Taiwan, incluindo 5 linhas totalmente automáticas de máscaras 3D, custo de equipamento ~1,52 milhões USD, estimativa de 43.000 unidades/dia.[^11] [^13]
+> **📝 Nota do curador:** "Taiwan pode ajudar" tem duas dimensões: uma é enviar máscaras para os hospitais de outros países, e a outra é enviar o método de produzir máscaras para as fábricas de outros países. A primeira resolve a lacuna imediata, e a segunda deixa uma capacidade que pode continuar funcionando.
 
-Uma notícia posterior da Agência Central de Notícias descreve a produção estimada após entrada em funcionamento como ~5 milhões/mês, com parte da capacidade destinada a fins sociais. 43.000/dia e 5 milhões/mês não são o mesmo número; podem envolver diferentes alcances de equipamento, dias úteis ou fase de estimativa. Sem especificações técnicas mais completas, este texto não os converte numa única curva, mantendo apenas a conclusão verificável: «equipamento taiwanês já chegou e entrou na manufatura de prevenção da Chéquia».[^12]
+## Além da narrativa de heróis, há um problema industrial
 
-| Caso no estrangeiro | Conteúdo fornecido por Taiwan                  | Resultado verificável                                                                                                      | Confusão a evitar na escrita                                                                             |
-| ------------------- | ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| Lituânia            | 100 mil máscaras de grau médico                | Apoio a profissionais de saúde na linha da frente. 2021: Lituânia doa 20 mil doses de vacina a Taiwan.[^10]                | Não escrever doação de máscaras prontas como exportação de linhas.                                       |
-| Chéquia             | 5 linhas totalmente automáticas de máscaras 3D | Chegada em fev. 2021, posterior produção em série e planeamento de parte da capacidade para fins sociais.[^11] [^12] [^13] | Não aplicar estimativas de capacidade do caso checo diretamente à capacidade diária doméstica de Taiwan. |
+A narrativa mais comum sobre a equipe nacional de máscaras é "40 dias, 92 linhas, 20 milhões". Esses números são importantes, mas tendem a esconder as dificuldades da indústria: um país pode concentrar recursos em tempos de crise, mas não pode depender de uma única mobilização para garantir mercados de longo prazo.
 
-> **📝 Nota do curador:** O «Taiwan Can Help» tem duas escalas: uma leva máscaras ao hospital do outro; a outra leva o método de fabricar máscaras à fábrica do outro. A primeira resolve o buraco imediato; a segunda deixa uma capacidade que continua a girar.
+O Reporter levantou a questão em abril de 2020 sobre se, após a pandemia, essas linhas se tornariam "máquinas de mosca", discutindo a superprodução de máscaras e a transformação industrial no mesmo parágrafo. Isso não nega os resultados da equipe nacional, mas questiona a próxima etapa da política: compras governamentais, estoques de emergência, certificações internacionais e mercados de exportação podem transformar os equipamentos e experiências de emergência temporária em capacidades industriais sustentáveis? [^2]
 
-## Para além da narrativa heróica, fica um problema industrial
+O Ministério da Economia também respondeu oficialmente a controvérsias relacionadas à equipe nacional de máscaras, reafirmando que, no início da pandemia de 2020, houve cooperação entre várias ministérios e empresas privadas, e novamente listando os números de produção diária, de 1,88 milhões para 20 milhões no final de maio. Esses dados podem sustentar os fatos básicos sobre capacidade e cooperação, mas não podem ser usados para inferir os resultados operacionais de cada empresa envolvida. [^9]
 
-A narrativa mais comum da Equipa Nacional de Máscaras é «40 dias, 92 linhas, 20 milhões». Esses números são de facto importantes, mas tendem a esconder a dificuldade da indústria: o Estado pode concentrar recursos na crise, mas não pode garantir mercado a longo prazo só com uma mobilização única.
+O que podemos afirmar é que essa mobilização fez Taiwan reconhecer uma condição normalmente invisível: máquinas-ferramenta, têxteis, matérias-primas, fábricas de máscaras, exército e logística, que normalmente têm seus próprios ritmos, foram exigidos a compartilhar um mesmo nó. A velocidade da máquina de máscaras se tornou um espelho, refletindo a capacidade de cooperação acumulada na cadeia de suprimentos, bem como os limites entre uma mobilização temporária e sistemas de longo prazo.
 
-O _The Reporter_ em abril de 2020 já levantava a questão «depois da pandemia viram máquinas ociosas?» e punha o excesso de capacidade de máscaras e a atualização industrial no mesmo parágrafo. Não é negação do feito da equipa nacional, mas interrogação sobre o próximo round da política: compras públicas, stock de prontidão, certificação internacional e mercados de exportação conseguem transformar o equipamento e a experiência de curto prazo em capacidade industrial sustentável?[^2]
+## Parafusos, tecido termofundido e um prazo comum
 
-O Ministério dos Assuntos Económicos respondeu depois a controvérsias sobre a equipa nacional com comunicado oficial, reafirmando que no início de 2020 houve cooperação interdepartamental e com operadores civis, e voltando a citar a subida de 1,88 para 20 milhões no final de maio. Esse documento suporta os factos base de capacidade e cooperação, mas não permite inferir o resultado operacional posterior de cada fábrica participante.[^9]
+Olhando para a primavera de 2020, o valor da equipe nacional de máscaras não está apenas em aumentar a produção de milhões para perto de 20 milhões. O legado é a memória de um grupo de técnicos montando 92 linhas em cerca de seis semanas, de fábricas de máscaras, fornecedores de matéria-prima e governo ajustando o ritmo quando a produção ficava atrás, e de farmácias e logística transformando o número de fábricas em máscaras reais que as famílias podem usar. [^2] [^7]
 
-O que se pode confirmar é que esta mobilização deixou ver uma condição que costuma ser invisível: máquinas-ferramenta, têxtil, matérias-primas, fábricas de máscaras, militares e logística, cada um com o seu ritmo habitual, a crise exigiu que partilhassem o mesmo nó. A velocidade da máquina de máscaras torna-se assim um espelho: reflete a capacidade de colaboração que a cadeia de abastecimento acumulou no dia a dia, e também reflete o limite que a mobilização temporária não substitui o sistema de longo prazo.
+A resiliência da manufatura de Taiwan muitas vezes não está na placa de uma fábrica, mas na disposição de diferentes fábricas de compartilhar seus processos com um mesmo prazo. Quarenta dias depois, as 92 linhas começaram a funcionar. Alguns meses depois, o sistema de venda com registro evoluiu de compras limitadas para uma distribuição mais ampla. [^4] [^8] A verdadeira pergunta que essa história deixa, talvez, não seja se é possível replicar as 92 linhas da próxima vez, mas se é possível manter a linha temporariamente conectada como uma forma de cooperação confiável no dia a dia.
 
-## Parafusos, não-tecido meltblown e um prazo comum
+## Leituras recomendadas
 
-Olhando para a primavera de 2020, o valor da Equipa Nacional de Máscaras não está só em ter empurrado a produção de alguns milhões para perto de 20 milhões. Fica a memória de um grupo de técnicos que em cerca de seis semanas montou 92 linhas; de fábricas de máscaras, fornecedores de matéria-prima e governo a reajustar o ritmo quando a produção atrasava; de farmácias e logística a transformar o número de peças da fábrica em máscaras que a família realmente segura na mão.[^2] [^7]
-
-A resiliência da manufatura de Taiwan muitas vezes não está no letreiro de uma fábrica, mas na disposição de fábricas diferentes em confiar os seus próprios processos a um prazo comum. 40 dias depois, 92 linhas começam a girar. Mais alguns meses, o registo nominal passa de compra limitada a distribuição mais alargada.[^4] [^8] A verdadeira questão que esta história deixa talvez não seja se da próxima vez se conseguem replicar 92 linhas, mas se no dia a dia se consegue manter aquela linha temporariamente ligada como um modo de cooperação em que se possa confiar.
-
-## Leitura complementar
-
-- [Indústria de máquinas-ferramenta de Taiwan](%E5%8F%B0%E7%81%A3%E6%A9%9F%E6%A2%B0%E5%B7%A5%E5%85%B7%E7%94%A2%E6%A5%AD.md) — Contexto industrial do cluster de máquinas de precisão de Taiwan.
-- [Transformação e atualização da indústria de Taiwan](%E5%8F%B0%E7%81%A3%E7%94%A2%E6%A5%AD%E8%BD%89%E5%9E%8B%E5%8D%87%E7%B4%9A.md) — Problemas de transformação que a manufatura enfrenta após a crise.
+- [Indústria de máquinas-ferramenta de Taiwan](/pt/economy/taiwan-machine-tool-industry) — Contexto industrial do agrupamento de máquinas de precisão de Taiwan.
+- [Transformação e upgrade industrial de Taiwan](/pt/economy/industrial-transformation-from-manufacturing-to-innovation) — Questões de transformação enfrentadas pela indústria após a crise.
 
 ## Referências
 
-[^1]: [Centro de Comando Central de Epidemias: Epidemia doméstica abranda, Equipa Nacional de Máscaras ajuda dentro e fora](https://at.cdc.gov.tw/4T6Y36) — 2 de junho de 2020, regista requisição de máscaras, capacidade diária de 2,71 milhões para perto de 20 milhões, registo nominal e política de exportação posterior.
+[^1]: [Centro de Comando de Epidemias: A pandemia interna de Taiwan melhora, e a equipe nacional de máscaras também apoia internacionalmente](https://at.cdc.gov.tw/4T6Y36) — 2 de junho de 2020, registra a requisição de máscaras, aumento da capacidade diária de 2,71 milhões para cerca de 20 milhões, sistema de venda com registro e políticas posteriores de exportação.
 
-[^2]: [The Reporter: O desafio da Equipa Nacional de Máscaras](https://www.twreporter.org/a/covid-19-mask-national-team-taiwan-can-help) — 26 de abril de 2020, regista base de 1,88 milhões, 92 linhas, estrangulamento de capacidade e desafios industriais posteriores.
+[^2]: [Reporter: Os desafios da equipe nacional de máscaras](https://www.twreporter.org/a/covid-19-mask-national-team-taiwan-can-help) — 26 de abril de 2020, registra a base de 1,88 milhões, 92 linhas, gargalos de capacidade e desafios posteriores da indústria.
 
-[^3]: [Instituto de Investigação Económica de Taiwan: Desenvolver marca Taiwan a partir da Equipa Nacional de Máscaras](https://www.tier.org.tw/comment/tiermon202008.aspx) — Regista 40 dias, 92 linhas, 2 linhas de máscaras cirúrgicas com atilhos, 15 operadores e mais de 3.200 pessoas-vez.
+[^3]: [Instituto de Pesquisa Econômica da China: Desenvolvendo a marca de Taiwan a partir da equipe nacional de máscaras](https://www.tier.org.tw/comment/tiermon202008.aspx) — Registra 40 dias, 92 linhas, 2 linhas de máscaras cirúrgicas com laço, 15 empresas e mais de 3.200 pessoas.
 
-[^4]: [Yuan Executivo: Situação atual e medidas da COVID-19 (pneumonia de Wuhan)](https://www.ey.gov.tw/Page/448DE008087A1971/8f87d2a2-1b15-4a29-a501-78958d6f723f) — 16 de abril de 2020, regista controlo, requisição, quantidade de compra no registo nominal e gestão de material de prevenção.
+[^4]: [Gabinete Executivo: Situação atual da pandemia COVID–19 e medidas tomadas](https://www.ey.gov.tw/Page/448DE008087A1971/8f87d2a2-1b15-4a29-a501-78958d6f723f) — 16 de abril de 2020, registra o controle de máscaras, requisição, quantidade de compra no sistema de venda com registro e alocação de suprimentos de combate à pandemia.
 
-[^5]: [Bureau Industrial do Ministério dos Assuntos Económicos: Elite da fabricação de máscaras, heróis nos bastidores da Equipa Nacional de Máscaras](https://www.hrd.gov.tw/media/8781/%E7%B6%93%E6%BF%9F%E9%83%A8%E5%B7%A5%E6%A5%AD%E5%B1%80-%E8%A3%BD%E7%BD%A9%E5%B0%96%E5%85%B5-%E5%8F%A3%E7%BD%A9%E5%9C%8B%E5%AE%B6%E9%9A%8A%E7%9A%84%E5%B9%95%E5%BE%8C%E8%8B%B1%E9%9B%84.pdf?mediaDL=true) — Resumo de caso do Bureau Industrial, inclui informação de controlo de exportação de máscaras a partir de 24 de janeiro de 2020.
+[^5]: [Departamento Industrial do Ministério da Economia: Heróis por trás das máscaras, a equipe nacional de máscaras](https://www.hrd.gov.tw/media/8781/%E7%B6%93%E6%BF%9F%E9%83%A8%E5%B7%A5%E6%A5%AD%E5%B1%80-%E8%A3%BD%E7%BD%A9%E5%B0%96%E5%85%B5-%E5%8F%A3%E7%BD%A9%E5%9C%8B%E5%AE%B6%E9%9A%8A%E7%9A%84%E5%B9%95%E5%BE%8C%E8%8B%B1%E9%9B%84.pdf?mediaDL=true) — Apresentação de caso do departamento industrial, incluindo informações sobre o controle de exportação de máscaras a partir de 24 de janeiro de 2020.
 
-[^6]: [Conselho de Desenvolvimento Nacional: Cooperação intersetorial constrói Equipa Nacional de Máscaras](https://ws.ndc.gov.tw/Download.ashx?u=LzAwMS9hZG1pbmlzdHJhdG9yLzEwL3JlbGZpbGUvMC8xNDAwMi84OGVjMzlhOS00ZjdlLTQxNjgtYmE4OS0yOGJiZDJmMGFlYmIucGRm&n=5pys5pyf5bCI6aGMMDQt6Leo5Z%2Bf5ZCI5L2c5omT6YCg5Y%2Bj572p5ZyL5a626ZqKLnBkZg%3D%3D&icon=.pdf) — Explica colaboração intersetorial entre Associação de Máquinas-Ferramenta, operadores de máscaras e governo, e expansão de linhas.
+[^6]: [Conselho Nacional de Desenvolvimento: Cooperação interdisciplinar para construir a equipe nacional de máscaras](https://ws.ndc.gov.tw/Download.ashx?u=LzAwMS9hZG1pbmlzdHJhdG9yLzEwL3JlbGZpbGUvMC8xNDAwMi84OGVjMzlhOS00ZjdlLTQxNjgtYmE4OS0yOGJiZDJmMGFlYmIucGRm&n=5pys5pyf5bCI6aGMMDQt6Leo5Z%2Bf5ZCI5L2c5omT6YCg5Y%2Bj572p5ZyL5a626ZqKLnBkZg%3D%3D&icon=.pdf) — Explica a cooperação entre a associação de máquinas-ferramenta, empresas de máscaras e governo, e a expansão das linhas de produção.
 
-[^7]: [Focus Taiwan: How a team of technicians is helping Taiwan triple mask production](https://focustaiwan.tw/society/202003240015) — 24 de março de 2020, regista ~100 técnicos em seis semanas montam 92 linhas e estimativa de capacidade da altura.
+[^7]: [Focus Taiwan: Como uma equipe de técnicos está ajudando Taiwan a triplicar a produção de máscaras](https://focustaiwan.tw/society/202003240015) — 24 de março de 2020, registra cerca de 100 técnicos montando 92 linhas em seis semanas e as estimativas de capacidade naquele momento.
 
-[^8]: [Ministério da Saúde e Bem-Estar: Venda de máscaras com registo nominal, canais online/lojas de conveniência param serviço após 44.ª ronda](https://www.mohw.gov.tw/fp-16-63258-1.html) — Retrospetiva do contexto político e funcionamento do registo nominal a 6 de fevereiro de 2020.
+[^8]: [Ministério da Saúde e Bem-Estar: Venda de máscaras com registro, operação online e em lojas de conveniência até a 44ª rodada, serviço temporariamente suspenso](https://www.mohw.gov.tw/fp-16-63258-1.html) — Revê o contexto político e o funcionamento do sistema de venda com registro lançado em 6 de fevereiro de 2020.
 
-[^9]: [Ministério dos Assuntos Económicos: Ex-ministro Lee acusa «Equipa Nacional de Máscaras lucrou grandes comissões» — apresente provas ou peça desculpa publicamente](https://www.moea.gov.tw/Mns/populace/news/News.aspx?kind=1&menu_id=40&news_id=112536) — Esclarecimento oficial de 2023, lista modo de cooperação e números de capacidade, usado aqui só para conferir versão oficial.
+[^9]: [Ministério da Economia: Ministro Li afirma "equipe nacional de máscaras lucrou com grandes comissões" e exige provas ou pede desculpas publicamente](https://www.moea.gov.tw/Mns/populace/news/News.aspx?kind=1&menu_id=40&news_id=112536) — Comunicado oficial de 2023, lista os modelos de cooperação e números de capacidade, usado neste texto apenas para verificar as declarações oficiais.
 
-[^10]: [Presidência: Presidência agradece sinceramente doação de vacinas da Lituânia chegada a Taiwan](https://www.president.gov.tw/NEWS/26145) — Regista Taiwan doou 100 mil máscaras de grau médico à Lituânia, e Lituânia depois doou 20 mil doses de vacina a Taiwan.
+[^10]: [Gabinete do Presidente: Agradece sinceramente à Lituânia pela doação de vacinas](https://www.president.gov.tw/NEWS/26145) — Registra a doação de 100.000 máscaras médicas de Taiwan à Lituânia, e a doação subsequente de 20.000 doses de vacina pela Lituânia a Taiwan.
 
-[^11]: [Focus Taiwan: Taiwan-donated face mask production line arrives in Czechia](https://focustaiwan.tw/politics/202102230026) — 23 de fevereiro de 2021, reporta chegada de linha automática de máscaras médicas doada por Taiwan à Chéquia.
+[^11]: [Focus Taiwan: Linha de produção de máscaras doada por Taiwan chega à República Tcheca](https://focustaiwan.tw/politics/202102230026) — 23 de fevereiro de 2021, relata a chegada da linha de produção de máscaras automatizadas doada por Taiwan à República Tcheca.
 
-[^12]: [Qiao Xinwen / Agência Central de Notícias: Linha de máscaras doada à Chéquia entra em produção, parte da capacidade para fins sociais](https://ocacnews.net/article/276616) — 1 de abril de 2021, reporta entrada em produção, estimativa de produção mensal e uso social.
+[^12]: [Notícias de Taiwan/China Central News Agency: Linha de máscaras doada a Taiwan inicia produção, parte da capacidade doada para fins benéficos](https://ocacnews.net/article/276616) — 1º de abril de 2021, relata a produção da linha, estimativas de produção mensal e uso para fins benéficos.
 
-[^13]: [Brno Daily: Taiwan Donates Facemask Production Equipment to the Czech Republic](https://brnodaily.com/2020/09/16/news/politics/taiwan-donates-facemask-production-equipment-to-the-czech-republic/) — Reporta cinco linhas totalmente automáticas de máscaras 3D, custo de equipamento e estimativa de produção diária.
+[^13]: [Brno Daily: Taiwan doa equipamentos de produção de máscaras à República Tcheca](https://brnodaily.com/2020/09/16/news/politics/taiwan-donates-facemask-production-equipment-to-the-czech-republic/) — Relata cinco linhas de produção de máscaras 3D totalmente automáticas, custo do equipamento e estimativas de produção diária.
 
-[^14]: [Ministério dos Negócios Estrangeiros: Ministério anuncia ajuda humanitária internacional de doação de 10 milhões de máscaras a EUA, UE, países europeus e aliados](https://www.mofa.gov.tw/News_Content.aspx?n=8742DCE7A2A28761&s=3795B82D1807E1AA) — Anúncio de 1 de abril de 2020 da primeira vaga de ajuda humanitária internacional, destinos e quantidades.
+[^14]: [Ministério das Relações Exteriores: Anuncia doação de 10 milhões de máscaras como ajuda humanitária internacional aos Estados Unidos, União Europeia, países europeus e amigos diplomáticos](https://www.mofa.gov.tw/News_Content.aspx?n=8742DCE7A2A28761&s=3795B82D1807E1AA) — Anúncio em 1º de abril de 2020 sobre os destinos e quantidades da primeira onda de ajuda humanitária internacional.
 
-[^15]: [Ministério dos Negócios Estrangeiros: Ministro Wu Chao-hsieh e presidente do Senado checo Vystrcil co-presidem cerimónia de inauguração de linha de máscaras](https://www.mofa.gov.tw/News_Content.aspx?n=95&sms=73&s=95494) — Informação de inauguração da linha na Chéquia a 11 de março de 2021.
+[^15]: [Ministério das Relações Exteriores: Ministro das Relações Exteriores Wu Jong-sie e Presidente do Conselho dos Estados da República Tcheca Wei Zeqi inauguram juntos a linha de produção de máscaras](https://www.mofa.gov.tw/News_Content.aspx?n=95&sms=73&s=95494) — Informações sobre a inauguração da linha da República Tcheca em 11 de março de 2021.
 
-[^16]: [Liberty Times: Nossa doação de linha de máscaras à Chéquia inaugurada com corte de fita por videoconferência dos dois países](https://news.ltn.com.tw/news/politics/paper/1436515) — Reporta início de produção de máscaras médicas na linha automática checa doada por Taiwan.
+[^16]: [Liberty Times: Cerimônia de corte de fita da linha de máscaras doada a Taiwan na República Tcheca conecta os dois países](https://news.ltn.com.tw/news/politics/paper/1436515) — Relata que a linha de produção de máscaras automatizadas doada por Taiwan na República Tcheca começou a produzir máscaras médicas.
 
-[^17]: [Liberty Times: Operador apoia 6 técnicos «Equipa Nacional de Máscaras» trabalham sem dormir nem descansar](https://news.ltn.com.tw/news/life/breakingnews/3105348) — Reporta Koyo Machinery enviou 6 técnicos, participou na montagem e calibração do primeiro lote de 60 linhas.
+[^17]: [Liberty Times: Fornecedores enviam 6 técnicos, "equipe nacional de máscaras" trabalha sem parar para cumprir o prazo](https://news.ltn.com.tw/news/life/breakingnews/3105348) — Relata que a empresa Cuiyi Mecânica enviou 6 técnicos para participar da montagem e calibração das primeiras 60 linhas.
 
-[^18]: [LRT: Taiwan donates 100,000 facemasks to Lithuania](https://www.lrt.lt/en/news-in-english/19/1162181/taiwan-donates-100-000-facemasks-to-lithuania) — Abril de 2020, reporta doação de 100 mil máscaras à Lituânia.
+[^18]: [LRT: Taiwan doa 100.000 máscaras à Lituânia](https://www.lrt.lt/en/news-in-english/19/1162181/taiwan-donates-100-000-facemasks-to-lithuania) — Relata a doação de 100.000 máscaras de Taiwan à Lituânia em abril de 2020.
 
-[^19]: [Wikimedia Commons: Presidente visita «Taiwan Kang Chiao Manufacturing»](https://commons.wikimedia.org/wiki/File:02.05_%E7%B8%BD%E7%B5%B1%E8%A8%AA%E8%A6%96%E3%80%8C%E5%8F%B0%E7%81%A3%E5%BA%B7%E5%8C%A0%E8%A3%BD%E9%80%A0%E5%85%AC%E5%8F%B8%E3%80%8D_%2849491632921%29.jpg) — Imagem do Wikimedia Commons indicada pelo utilizador.
+[^19]: [Wikimedia Commons: Presidente visita "Taiwan Kangxiang Manufacturing"](https://commons.wikimedia.org/wiki/File:02.05_%E7%B8%BD%E7%B5%B1%E8%A8%AA%E8%A6%96%E3%80%8C%E5%8F%B0%E7%81%A3%E5%BA%B7%E5%8C%A0%E8%A3%BD%E9%80%A0%E5%85%AC%E5%8F%B8%E3%80%8D_%2849491632921%29.jpg) — Imagem especificada pelo usuário no Wikimedia Commons.
 
-[^20]: [Wikimedia Commons: Presidente visita «Chang Hong Machinery»](https://commons.wikimedia.org/wiki/File:03.05_%E7%B8%BD%E7%B5%B1%E8%A8%AA%E8%A6%96%E3%80%8C%E9%95%B7%E5%AE%8F%E6%A9%9F%E6%A2%B0%E5%85%AC%E5%8F%B8%E3%80%8D%EF%BC%8C%E7%82%BA%E5%8F%83%E8%88%87%E3%80%8C%E5%8F%A3%E7%BD%A9%E5%9C%8B%E5%AE%B6%E9%9A%8A%E3%80%8D%E5%B7%A5%E5%85%B7%E6%A9%9F%E6%A5%AD%E8%80%85%E6%89%93%E6%B0%A3_%2849622619966%29.jpg) — Imagem do Wikimedia Commons indicada pelo utilizador.
+[^20]: [Wikimedia Commons: Presidente visita "Longhong Mecânica"](https://commons.wikimedia.org/wiki/File:03.05_%E7%B8%BD%E7%B5%B1%E8%A8%AA%E8%A6%96%E3%80%8C%E9%95%B7%E5%AE%8F%E6%A9%9F%E6%A2%B0%E5%85%AC%E5%8F%B8%E3%80%8D%EF%BC%8C%E7%82%BA%E5%8F%83%E8%88%87%E3%80%8C%E5%8F%A3%E7%BD%A9%E5%9C%8B%E5%AE%B6%E9%9A%8A%E3%80%8D%E5%B7%A5%E5%85%B7%E6%A9%9F%E6%A5%AD%E8%80%85%E6%89%93%E6%B0%A3_%2849622619966%29.jpg) — Imagem especificada pelo usuário no Wikimedia Commons.
 
-[^21]: [Wikimedia Commons: Presidente visita local da «Taiwan Kang Chiao Manufacturing»](https://commons.wikimedia.org/wiki/File:02.05_%E7%B8%BD%E7%B5%B1%E8%A8%AA%E8%A6%96%E3%80%8C%E5%8F%B0%E7%81%A3%E5%BA%B7%E5%8C%A0%E8%A3%BD%E9%80%A0%E5%85%AC%E5%8F%B8%E3%80%8D_%2849491845167%29.jpg) — Imagem do Wikimedia Commons indicada pelo utilizador.
+[^21]: [Wikimedia Commons: Presidente visita o local de "Taiwan Kangxiang Manufacturing"](https://commons.wikimedia.org/wiki/File:02.05_%E7%B8%BD%E7%B5%B1%E8%A8%AA%E8%A6%96%E3%80%8C%E5%8F%B0%E7%81%A3%E5%BA%B7%E5%8C%A0%E8%A3%BD%E9%80%A0%E5%85%AC%E5%8F%B8%E3%80%8D_%2849491845167%29.jpg) — Imagem especificada pelo usuário no Wikimedia Commons.

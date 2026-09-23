@@ -1,30 +1,34 @@
 ---
 title: 'Chen Tzu-chien (Retina) — Construindo um arranha-céu de sátira sobre as ruínas da mídia oficial e desmontando-o com as próprias mãos no auge'
 description: "Da inspiração para o 'Xinwen Lianbo' da CCTV vinda de um grupo de frente unida de Fujian, até se tornar, aos 23 anos, o mais jovem apresentador do noticiário do meio-dia da CTS, e depois encerrar voluntariamente um canal com 1,21 milhão de inscritos, Chen Tzu-chien completou, sob o nome 'Retina', uma ação de desconstrução anti-autoritária de oito anos. Após 2023, migrou para programas infantis da PTS, apresentando 'Olá! Você tem alguma pergunta?' (indicado ao 59º Golden Bell) e 'Clube de Detetives da Escola Secundária Cheng Ren' S1 e S2 (indicado ao 60º Golden Bell na categoria programa juvenil), e a partir de 2026 passou um ano vivendo em Tóquio com seu cão Yuzu, compartilhando no Instagram e no YouTube pessoal o 'Retina News' e o dia a dia de sua extrema aversão a coentro."
-date: '2026-04-20'
+date: 2026-04-20
 category: 'People'
-subcategory: '數位與媒體'
 tags:
-  - 'Retina'
-  - 'Televisão Central do Olho'
-  - 'Chen Tzu-chien'
-  - 'Apresentador da CTS'
-  - 'Notícias satíricas'
-  - 'Transformação midiática'
-  - 'Indicação ao Golden Bell'
-  - 'Clube de Detetives da Escola Secundária Cheng Ren'
-  - 'Retina News'
-  - 'Olá! Você tem alguma pergunta?'
-  - 'Vivência em Tóquio'
+  [
+    'Retina',
+    'Televisão Central do Olho',
+    'Chen Tzu-chien',
+    'Apresentador da CTS',
+    'Notícias satíricas',
+    'Transformação midiática',
+    'Indicação ao Golden Bell',
+    'Clube de Detetives da Escola Secundária Cheng Ren',
+    'Retina News',
+    'Olá! Você tem alguma pergunta?',
+    'Vivência em Tóquio',
+  ]
+subcategory: '數位與媒體'
 author: 'Taiwan.md'
 featured: false
-lastVerified: '2026-01-01'
+lastVerified: 2026-01-01
 lastHumanReview: true
+summary: '台灣網路創作者、新聞主播、節目主持人。1994年5月8日生於南投縣水里鄉，畢業於南投縣立水里國民中學、國立大里高級中學、國立彰化師範大學國文系。自小夢想當主播。2015年與動眼神經等人創立《眼球中央電視台》，模仿央視官話嘲諷中華民國法統荒謬走紅。2018年3月5日至12月31日任華視午間新聞主播（23歲最年輕紀錄）。2023年5月31日在121萬訂閱、累計超過3億點閱巔峰停更。後主持公視《哈囉！你給問嗎？》（第59屆金鐘生活風格主持人入圍）、小公視《成仁高中偵探社》S1（2024-2025）與S2（2025年起，金鐘60少年節目入圍）。2026年3月點外送寫35行「不要香菜」備註爆紅；4月起帶愛犬柚子旅居東京一年。'
+coverImage: ''
 translatedFrom: 'People/陳子見.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:b4ed377dcae75954'
-sourceBodyHash: 'sha256:5225e3163bb10fe2'
-translatedAt: '2026-07-25T03:42:45+08:00'
+sourceCommitSha: '7255b3ab1'
+sourceContentHash: 'sha256:eb27407b6e235169'
+sourceBodyHash: 'sha256:0faeef3fdda7a842'
+translatedAt: '2026-09-23T02:58:36.607902+00:00'
 ---
 
 ## Visão geral em 30 segundos
@@ -62,21 +66,21 @@ Chen Tzu-chien e a produtora Dong Yan Shen Jing admitiram nos vídeos de despedi
 
 Além disso, durante a onda do #MeToo em Taiwan em 2023, sofreu assédio sexual de uma funcionária: ela não só o abraçava à força frequentemente (incluindo 'ajoelhar e abraçar' numa viagem da equipe em 2021), como espalhava boatos de que namoravam, gabava-se de capacidades profissionais, inventava cenas íntimas (apalpar coxas, ciúmes, olhares sugerindo sexo, 'espíritos de antepassados', etc.), tornando-se insuportável. Ele expôs o caso pessoalmente após a pausa, para se proteger. Após a pausa, também revelou ter recebido duas abordagens de capital chinês (incluindo oferta de 750 mil para comprar a página de fãs, com intenção de levar o conteúdo para o Douyin), mas recusou ambas porque 'uma única parceria comercial já não vale só esse preço' e não havia intenção de vender. Encerrar o canal foi o preço necessário para reencontrar seu corpo e voltar a sentir a temperatura da vida.[^6]
 
-## Transformação e vida pessoal após a pausa
+## Transição e Vida Pessoal Após o Hiato
 
-Após a pausa, Chen Tzu-chien migrou rapidamente para a TV tradicional e o curta-metragem pessoal. A partir de outubro de 2023, co-apresentou na PTS 'Olá! Você tem alguma pergunta?' com Li Pei-yu (Da Pei), sendo indicado ao 59º Golden Bell na categoria apresentador de estilo de vida. De agosto de 2024 a janeiro de 2025, apresentou na PTS Júnior o primeiro programa imersivo de mistério em cenário real de Taiwan, 'Clube de Detetives da Escola Secundária Cheng Ren'; a partir de novembro de 2025, lançou a S2 (atualizada para 'Batalha de Sobrevivência Dedutiva' no formato eliminação, cada episódio incorpora elementos de escape room e script murder, abordando temas escolares como assédio de poder, drogas, sistema de veteranos; convidou Zhu You-cheng, Hu Sheng-ming, Li Yi-long e outros nomes de peso, ele atuou como 'veterano Jian'), e em 17 de outubro de 2025 liderou a equipe no tapete vermelho do 60º Golden Bell, com 'Clube de Detetives da Escola Secundária Cheng Ren' indicado na categoria programa juvenil.[^8]
+Após parar, Chen Tzu-chien rapidamente migrou para os campos da televisão tradicional e do vídeo curto pessoal. A partir de outubro de 2023, ele coapresentou o programa "Olá! Você Quer Perguntar?" na TV pública (Taiwan), sendo indicado ao Prêmio Golden Bell de Estilo de Vida em sua 59ª edição com este programa. De agosto a janeiro de 2024, ele apresentou o primeiro programa de realidade imersiva e quebra-cabeças da pequena TV de Taiwan, "Clube de Detetives do Ensino Médio Cheng-Ren", e a partir de novembro de 2025, continuou com a S2 (que foi atualizada para um formato eliminatório de "Sobrevivência de Mistério"), incorporando elementos de _escape room_ e _murder mystery_ em cada episódio, explorando temas escolares como assédio sexual por poder, drogas e hierarquia entre veteranos e calouras; ele convidou elencos como Chu You-cheng, Hu Sheng-ming e Li Yi-long para atuar (ele apresentou no papel de "veterano"). Em 17 de outubro de 2025, ele liderou sua equipe ao tapete vermelho do 60º Prêmio Golden Bell, onde "Clube de Detetives do Ensino Médio Cheng-Ren" foi indicado ao prêmio de programas juvenis. [^8]
 
-A partir de 12 de julho de 2024, lançou no Instagram 'Cena de Notícias', editando atualidades no estilo de legendas de noticiário japonês, frequentemente com parcerias comerciais; em 29 de setembro de 2025, lançou o curta vertical 'Retina News'. Paralelamente, gerencia o canal pessoal no YouTube 'Retina & Yuzu no Dia a Dia', focado em compartilhar o cotidiano com a cadela Yuzu (shiba fêmea, ex-presidente honorária do Partido da Alegria Impossível) e sua extrema aversão a coentro. Em março de 2026, ao pedir delivery de mee sua de intestino grosso, escreveu 35 linhas de 'sem coentro' nas observações, conseguindo fazer o dono responder 'em investigação', perpetuando seu símbolo cultural. A partir de abril de 2026, levou Yuzu para viver um ano em Tóquio, compartilhando o dia a dia na Torre de Tóquio, passeios entre cerejeiras, emocionado ao dizer 'finalmente realizei um sonho'.[^7]
+A partir de 12 de julho de 2024, ele lançou o "Cenário Noticioso" no Instagram, editando notícias atuais no estilo de legendas japonesas, frequentemente acompanhado por publicidade; em 29 de setembro de 2025, ele lançou o vídeo curto vertical "Retina News". Ele também gerencia seu canal pessoal do YouTube, "Rotina da Retina & Yuzu", focado em compartilhar a vida diária com sua cadela Yuzu (um Shiba Inu fêmea, ex-presidente honorária do Partido Feliz Inútil) e seu extremo desgosto por coentro. Em março de 2026, ao pedir _dan dan mian_ (macarrão picante) para entrega, ele escreveu em 35 linhas na nota "Sem coentro", conseguindo a resposta do dono: "Em investigação", o que manteve seu símbolo cultural. A partir de abril de 2026, ele levou Yuzu para morar no Japão por um ano, compartilhando atividades diárias como passeios pela Torre de Tóquio e cerejeiras, expressando sentimentalmente que "finalmente realizou um sonho". [^7]
 
-Em novembro de 2024, num fórum intergeracional, disse estar cansado de conteúdo de atualidade: 'A menos que tenha uma ideia divertida, não quero fazer', probabilidade baixa de retorno no curto prazo, foco de trabalho já voltado para TV e curtas pessoais; brincou que gostaria de colaborar com Tang Chi-yang.[^8]
+Em uma atividade de fórum intergeracional em novembro de 2024, ele disse estar cansado do conteúdo atual, dizendo: "A menos que haja alguma ideia divertida, não quero fazer", indicando baixa probabilidade de retomar o trabalho em pouco tempo, pois seu foco profissional havia mudado para a televisão e vídeos curtos pessoais; ele também brincou que gostaria de colaborar com Tang Chi-ying. [^8]
 
 ---
 
-**Leitura complementar**
+**Leitura Complementar**
 
-- Ba Jiong (八炯) — De YouTuber pró-Taiwan a expositor da cadeia de influenciadores da frente unida do PCC, outro caminho de escrever a resistência na marca pessoal
-- A Di (阿滴) — O experimento de projeção internacional do YouTuber bilíngue de milhões, formando com Retina o espelho 'propaganda em inglês vs. sátira em chinês'
-- Chang Chih-chi (張志祺) — Apresentador do Chih-chi 77, outra solução de como criadores de conteúdo digital da mesma geração transformam pautas em programas
+- [Ba Jiong](/pt/people/pa-chiung-political-youtuber) — De YouTuber taiwanês a influenciador que expõe a rede de propaganda do Partido Comunista Chinês, outro caminho para escrever resistência em sua marca pessoal
+- [A Di](/pt/people/ray-du-english-youtuber) — O experimento internacional do YouTuber bilíngue, um espelho entre "propaganda externa em inglês vs. sátira em chinês" com Retina
+- [Chang Chi-qi](/pt/people/shasha77-chang-chih-chi) — Como criadores de conteúdo digital da mesma geração, apresentadores de _Chi-Qi Qiqi_ encontram outra solução para temas através de programas
 
 ---
 

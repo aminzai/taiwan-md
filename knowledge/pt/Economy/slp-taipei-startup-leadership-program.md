@@ -24,10 +24,10 @@ imageCredit: 'SLP台北創業領導計畫'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://slptaipei.com/'
 translatedFrom: 'Economy/SLP台北創業領導計畫.md'
-sourceCommitSha: 'cc540a12b'
-sourceContentHash: 'sha256:2807864e36fcb52b'
-sourceBodyHash: 'sha256:dc6cccd48d2e9282'
-translatedAt: '2026-07-28T03:07:44+08:00'
+sourceCommitSha: '7255b3ab1'
+sourceContentHash: 'sha256:7724220e60173fa7'
+sourceBodyHash: 'sha256:e213a0f35315b401'
+translatedAt: '2026-09-23T01:51:51.322549+00:00'
 ---
 
 # SLP Taipé: a aula que começou por NT$ 6.000 e subiu para NT$ 58.000, mas continua com fila de espera
@@ -147,22 +147,22 @@ Esta pequena correção traz à tona a paisagem do apoio ao empreendedorismo sem
 >
 > Se alargarmos o olhar ao global, descobrimos algo ainda mais contra-intuitivo. O capítulo de Bangalore do SLP na Índia foi fundado em 2010, dois anos antes de Taipé, o curso dura apenas quatro meses, a taxa ronda NT$ 12.600 (Rs 35.000), muito abaixo dos atuais NT$ 58.000 de Taipé — mas entre os seus alumni está a Skyroot Aerospace, uma das líderes do setor aeroespacial privado indiano[^29]. Um capítulo mais barato, mais curto, produziu o caso único mais vistoso de toda a rede. Isso prova uma coisa: o verdadeiro output deste tipo de programas nunca são as empresas "ensinadas" pelo currículo, mas as pessoas que aquele grupo, aquele meio ano, seleciona e inflama. Preço alto não compra isso.
 
-## Epílogo: sem depender do governo, sem depender de participação acionária, fazer uma coisa durar
+## Epílogo: Sem apoio governamental, sem ações, fazendo algo por muito tempo
 
-Em 2012, um grupo de pessoas que também estavam a empreender, em Taipé, tirou do próprio bolso, organizou voluntariamente uma aula. Primeira edição, taxa única de NT$ 6.000, dava menos de NT$ 100 por hora.
+Em 2012, um grupo de pessoas que também estavam empreendendo pagou de sua própria carteira em Taipé para dar uma aula de graça. O custo da primeira edição foi de seis mil, o que dá menos de cem por hora.
 
-Catorze anos depois, a mesma coisa tornou-se um evento anual, centenas a disputar trinta vagas, taxa a roçar os sessenta mil, comunidade institucionalizada; em 2023 até se constituiu formalmente como associação. O preço subiu quase dez vezes, a lógica organizacional central nem uma vírgula mexeu — empreendedores a ajudar empreendedores, pedem o seu tempo não a sua participação acionária, cada cêntimo escrito "integralmente destinado aos alunos".
+14 anos depois, a mesma iniciativa se tornou uma comunidade institucionalizada, realizada anualmente, com mais de cem pessoas competindo por 30 vagas e custos próximos a 60 mil. Em 2023, foi oficialmente registrada como uma associação. O preço subiu quase dez vezes, mas a lógica central de organização permaneceu a mesma: empreendedores ajudando empreendedores, cobrando seu tempo e não suas ações, com cada centavo escrito como "totalmente destinado aos alunos".
 
-Nunca chegou aos media internacionais, também raramente mereceu reportagem de fundo em grandes revistas como a Business Weekly (商業周刊) ou a CommonWealth Magazine (天下雜誌)[^30]; simplesmente vai passando quietamente na INSIDE, nos encontros de empreendedores, no seu próprio canal de YouTube com treze subscritores, edição após edição. No fundo, isto é um corte transversal da mútua ajuda civil em Taiwan: sem subsídios estatais, sem mercado de capitais, como um grupo de pessoas, apoiado em relações pessoais, numa frase "lutar em grupo dá mais hipótese de vencer", faz uma coisa pequena crescer, durar, tornar-se catorze anos depois um lugar ainda com fila de espera.
+Nunca apareceu na mídia internacional e raramente foi noticiado por grandes publicações como Business Weekly ou Tianxia[^30]. Em vez disso, foi transmitido silenciosamente em INSIDE, em encontros de empreendedores e no próprio canal do YouTube com 13 assinantes. No fim, isso é um fragmento da solidariedade cívica em Taiwan: como um grupo de pessoas, sem apoio governamental ou do mercado de capitais, dependendo de relacionamentos e de uma frase como "juntos temos mais chance", transformou algo pequeno em algo grande e duradouro, que ainda é difícil de conseguir 14 anos depois.
 
-Mais entrevistas de alumni e excertos de aulas, reunidos no [canal oficial do YouTube do SLP Taipé](https://www.youtube.com/@SLPTAIPEI).
+Mais entrevistas com ex-alunos e clipes do curso estão disponíveis no [canal oficial do YouTube do SLP Taipé](https://www.youtube.com/@SLPTAIPEI).
 
-**Leitura complementar**:
+**Leitura adicional**:
 
-- [Ecossistema de startups](新創生態系.md) — Do dilema da falta de capital de risco ao desenvolvimento global perseguido pela AppWorks, capital de risco e unicórnios, o SLP é a linha "sem participação acionária" dentro deste ecossistema.
-- [Economia de criadores de media próprios em Taiwan: o campo de batalha fragmentado de 23 milhões](台灣自媒體創作者經濟.md) — Outro tipo de "pessoa antes da empresa" na economia de Taiwan, que ressoa à distância com a lógica do SLP de "escolher a pessoa, não a empresa".
-- [Transformação e atualização industrial de Taiwan: de potência manufatureira a potência inovadora](台灣產業轉型升級.md) — O grande pano de fundo "da fase inicial à institucionalização" por trás da curva de custos do SLP, é parte da transformação industrial de Taiwan.
-- [Ecossistema comercial periférico dos parques tecnológicos de Taiwan](台灣科技園區外圍商圈生態.md) — Outra face da energia empreendedora a assentar em aglomerados físicos.
+- [Ecossistema de startups](/pt/economy/taiwan-startup-ecosystem-overview) — Desde o desafio de falta de capital de risco em Taiwan, até o desenvolvimento geral de AppWorks, venture capital e unicórnios, o SLP é uma linha paralela que não pega ações nesse ecossistema.
+- [Economia de criadores de mídia independente em Taiwan: um campo de batalha de 23 milhões de pessoas](/pt/economy/taiwan-self-media-creator-economy) — Outro tipo de economia em Taiwan onde o indivíduo precede a empresa, ecoando a lógica do SLP de escolher pessoas, não empresas.
+- [Transformação e modernização da indústria em Taiwan: do país fabril ao país inovador](/pt/economy/industrial-transformation-from-manufacturing-to-innovation) — O grande contexto por trás da curva de custos do SLP, de algo improvisado a algo institucionalizado, é parte da transformação da indústria em Taiwan.
+- [Ecossistema do entorno do Parque Científico de Taiwan](/pt/economy/tech-park-peripheral-business-ecosystem) — Outra forma de como a energia de empreendedores se transforma em comunidades físicas.
 
 ## Fontes das imagens
 
