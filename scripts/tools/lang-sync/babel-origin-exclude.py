@@ -36,6 +36,13 @@ sys.path.insert(0, str(REPO / "scripts" / "tools" / "lang-sync"))
 from langs import ALL_TRANSLATION_LANGS  # noqa: E402
 
 DEFAULT_OUT = REPO / ".taiwanmd" / "babel-exclude.tsv"
+# 委派層認領清單（2026-09-24）：主 session 把一篇派給 Claude sub-agent 翻的那段
+# 時間，dispatcher 不能也去碰它——對 missing 檔，dispatcher 失敗時的
+# restore_head_or_quarantine 會把 agent 寫到一半的檔案移進隔離區。原本手寫進
+# DEFAULT_OUT 的排除行最多活 90 分鐘（EXCLUDE_REFRESH_MIN 到期就被本工具重寫蓋掉），
+# 而一篇 sonnet 委派要 20-50 分鐘，剛好卡在會被蓋掉的區間。認領寫在這個獨立檔，
+# 每次重算都原樣併進輸出；交件驗收完由主 session 自己刪行。格式同輸出檔。
+CLAIMS_FILE = REPO / ".taiwanmd" / "babel-exclude-claims.tsv"
 TRANSLATED_FROM_RE = re.compile(r"^translatedFrom:\s*['\"]?(.+?)['\"]?\s*$", re.M)
 
 
@@ -86,6 +93,24 @@ def build(remote_ref: str) -> tuple[str, list[tuple[str, str]], Counter]:
     return base, sorted(rows), stats
 
 
+def read_claims(path: Path) -> list[tuple[str, str]]:
+    """讀委派層認領清單（見 CLAIMS_FILE 註解）。檔案不存在就是沒有認領；
+    空行與 # 開頭的註解行略過，格式不對的行印警告後略過，不讓一行手誤擋掉整份清單。"""
+    if not path.exists():
+        return []
+    out: list[tuple[str, str]] = []
+    for n, line in enumerate(path.read_text(encoding="utf-8").splitlines(), 1):
+        line = line.strip()
+        if not line or line.startswith("#"):
+            continue
+        parts = line.split("\t")
+        if len(parts) != 2 or not parts[1].endswith(".md"):
+            print(f"  ⚠️ {path.name}:{n} 格式不對，略過：{line!r}", file=sys.stderr)
+            continue
+        out.append((parts[0], parts[1]))
+    return out
+
+
 def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__.split("\n\n")[0])
     ap.add_argument("--remote-ref", default="origin/main")
@@ -102,7 +127,11 @@ def main() -> None:
     if args.dry_run:
         return
     args.out.parent.mkdir(parents=True, exist_ok=True)
-    body = "\n".join(f"{lang}\t{zh}" for lang, zh in rows) + "\n"
+    claims = read_claims(CLAIMS_FILE)
+    if claims:
+        print(f"  delegation claims (from {CLAIMS_FILE.name}): {len(claims)}")
+    merged = sorted(set(rows) | set(claims))
+    body = "\n".join(f"{lang}\t{zh}" for lang, zh in merged) + "\n"
     args.out.write_text(body, encoding="utf-8")
     print(f"wrote {args.out.relative_to(REPO)}")
 
