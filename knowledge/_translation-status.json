@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-23T07:52:08+08:00",
-    "zhCommitHead": "c6aa32436",
+    "lastUpdated": "2026-09-23T08:06:02+08:00",
+    "zhCommitHead": "1177a6cb8",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,8 +28,8 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 937,
-        "stale": 95,
+        "fresh": 938,
+        "stale": 94,
         "metadata_stale": 26,
         "missing": 66,
         "orphan": 0
@@ -68,8 +68,8 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 995,
-        "stale": 47,
+        "fresh": 996,
+        "stale": 46,
         "metadata_stale": 7,
         "missing": 75,
         "orphan": 0
@@ -92,8 +92,8 @@
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 1013,
-        "stale": 40,
+        "fresh": 1014,
+        "stale": 39,
         "metadata_stale": 11,
         "missing": 60,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 878,
+        "fresh": 879,
         "stale": 10,
         "metadata_stale": 5,
-        "missing": 231,
+        "missing": 230,
         "orphan": 0
       }
     },
@@ -53019,18 +53019,18 @@
         "ja": {
           "path": "ja/Lifestyle/taiwan-walking-green-man.md",
           "translatedFrom": "Lifestyle/小綠人.md",
-          "sourceCommitSha": "69b3afd91",
-          "sourceContentHash": "sha256:0e8351a88b984c1d",
-          "sourceBodyHash": "sha256:83cbb50293e2fd70",
-          "translatedAt": "2026-08-04T14:12:35+08:00",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:996216db6cfc762f",
+          "sourceBodyHash": "sha256:f6cfe4546203aec9",
+          "translatedAt": "2026-09-23T07:28:01+08:00",
           "translationLastCommit": "11a9ed98",
           "translationLastModified": "2026-08-04T17:31:53+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 10470,
+          "footnoteDefs": 17,
+          "bytes": 24490,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (17→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Lifestyle/taiwan-walking-green-man.md",
@@ -53147,18 +53147,18 @@
         "ar": {
           "path": "ar/Lifestyle/taiwan-walking-green-man.md",
           "translatedFrom": "Lifestyle/小綠人.md",
-          "sourceCommitSha": "69b3afd91",
-          "sourceContentHash": "sha256:0e8351a88b984c1d",
-          "sourceBodyHash": "sha256:83cbb50293e2fd70",
-          "translatedAt": "2026-08-04T14:12:38+08:00",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:996216db6cfc762f",
+          "sourceBodyHash": "sha256:f6cfe4546203aec9",
+          "translatedAt": "2026-09-23T07:28:04+08:00",
           "translationLastCommit": "3f9996a9",
           "translationLastModified": "2026-08-04T17:34:44+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 13760,
+          "footnoteDefs": 17,
+          "bytes": 35089,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (17→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Lifestyle/taiwan-walking-green-man.md",
@@ -58192,8 +58192,8 @@
           "sourceContentHash": "sha256:68988284647ce5e2",
           "sourceBodyHash": "sha256:f7df18837078b48f",
           "translatedAt": "2026-09-22T22:14:33.245021+00:00",
-          "translationLastCommit": "c504c031",
-          "translationLastModified": "2026-09-22T00:50:34+08:00",
+          "translationLastCommit": "1177a6cb",
+          "translationLastModified": "2026-09-23T07:52:08+08:00",
           "inferred": false,
           "footnoteDefs": 41,
           "bytes": 42114,
@@ -76369,8 +76369,8 @@
           "sourceContentHash": "sha256:23cebf6a8b8bd2b2",
           "sourceBodyHash": "sha256:35243ed7adf1417f",
           "translatedAt": "2026-09-23T05:53:44+08:00",
-          "translationLastCommit": "4b56bfdb",
-          "translationLastModified": "2026-09-13T14:57:09+08:00",
+          "translationLastCommit": "1177a6cb",
+          "translationLastModified": "2026-09-23T07:52:08+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "bytes": 31782,
@@ -76773,20 +76773,18 @@
         "id": {
           "path": "id/About/how-an-article-is-born.md",
           "translatedFrom": "About/文章如何誕生.md",
-          "sourceCommitSha": "984fb7892",
-          "sourceContentHash": "sha256:92fcb394123e4aee",
-          "sourceBodyHash": "sha256:b8984a2133e5738f",
-          "translatedAt": "2026-07-26T08:13:11+08:00",
+          "sourceCommitSha": "d182e5d85",
+          "sourceContentHash": "sha256:4dc98dc84117c5d8",
+          "sourceBodyHash": "sha256:2679dec9ddab6dbc",
+          "translatedAt": "2026-09-22T23:54:34.371911+00:00",
           "translationLastCommit": "475cf65e",
           "translationLastModified": "2026-07-27T19:04:11+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "bytes": 42816,
+          "bytes": 43080,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/About/how-an-article-is-born.md",
@@ -110667,7 +110665,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/samuel-yin-yan-liang.md",
+          "translatedFrom": "People/尹衍樑.md",
+          "sourceCommitSha": "31a05c44b",
+          "sourceContentHash": "sha256:de14cddb4cd06bf6",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-22T23:15:20.733734+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 40,
+          "bytes": 47112,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -178296,8 +178307,8 @@
           "sourceContentHash": "sha256:1c4df7a1034d9237",
           "sourceBodyHash": "sha256:decacb8f3924c150",
           "translatedAt": "2026-09-23T05:53:44+08:00",
-          "translationLastCommit": "475cf65e",
-          "translationLastModified": "2026-07-27T19:04:11+08:00",
+          "translationLastCommit": "1177a6cb",
+          "translationLastModified": "2026-09-23T07:52:08+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "bytes": 23840,

@@ -1,141 +1,152 @@
 ---
-title: 'Cultura do Chá de Taiwan'
-description: 'Um pequeno arquipélago excluído do acordo internacional de controle de produção de chá, que acabou criando uma era dourada para a indústria do chá e, por fim, conquistou o mundo com uma xícara de chá com petisco.'
+title: 'A cultura do chá em Taiwan'
+description: "Uma pequena ilha excluída do Pacto Internacional de Limitação da Produção de Chá criou uma era de ouro para o setor, e no fim conquistou o mundo com um copo de chá com leite e 'petiscos'"
 date: 2026-03-23
 category: 'Food'
 tags:
   [
     'Alimentação',
-    'Cultura do Chá',
-    'Oolong',
-    'Chá de Montanha',
-    'Bebida de Shaking',
-    'Bubble Tea',
+    'cultura do chá',
+    'chá oolong',
+    'chá de montanha',
+    'bebidas geladas caseiras',
+    'chá com leite e pérolas',
   ]
 subcategory: '飲品文化'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
+image: '/article-images/food/formosa-oolong-tea-jacksons.webp'
+imageAlt: 'Embalagem de chá oolong "Formosa" da marca britânica Jacksons of Piccadilly, fotografada por Joost J. Bakker IJmuiden'
+imageCredit: 'Joost J. Bakker  IJmuiden / Wikimedia Commons'
+created: 2026-03-23
 readingTime: 12
+curation: 'incubating'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Jacksons_of_Piccadilly_Formosa_Oolong_Tea_(51878727206).jpg'
 translatedFrom: 'Food/茶文化.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:86475082b87388fc'
-sourceBodyHash: 'sha256:a9375147f15627a6'
-translatedAt: '2026-07-25T12:45:42+08:00'
-image: '/article-images/food/formosa-oolong-tea-jacksons.webp'
-imageCredit: 'Joost J. Bakker  IJmuiden / Wikimedia Commons'
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:86fb5241b5393f5b'
+sourceBodyHash: 'sha256:add135df68f1784c'
+translatedAt: '2026-09-23T05:53:45+08:00'
 ---
 
-# Cultura do Chá de Taiwan
+# A cultura do chá em Taiwan
 
-> **30 segundos de visão geral**: A cultura do chá de Taiwan passou por três transformações surpreendentes: na década de 1930, ao ser excluída do acordo internacional de controle de produção de chá, surgiu inesperadamente, com a exportação anual aumentando de 3,29 milhões de kg para 5,8 milhões de kg; nos anos 1980, uma xícara de chá com espuma redefiniu a cultura de beber chá; em 1987, a adição de petisco (bolas de tapioca) ao bubble tea tornou‑se o símbolo de soft power de Taiwan que conquistou o mundo.
+> **Resumo em 30 segundos**: A cultura do chá em Taiwan passou por três transformações notáveis: na década de 1930, excluída do Pacto Internacional de Limitação da Produção de Chá, a ilha viu suas exportações saltarem de 3,29 milhões de quilogramas para 5,8 milhões; na década de 1980, um chá vermelho com espuma redefiniu a cultura do chá; e em 1987, o chá com leite e pérolas, com 'petiscos', tornou-se um símbolo de influência suave global de Taiwan.
 
-Em 1934, quando Índia, Sri Lanka e outras grandes potências do chá assinaram o Acordo Internacional de Controle de Produção de Chá, ninguém imaginou que a pequena ilha de Taiwan, excluída, abriria a mais brilhante era dourada da história do chá.
+Em 1934, quando a Índia, Sri Lanka e outras nações produtoras de chá assinaram o Pacto Internacional de Limitação da Produção de Chá, ninguém imaginava que a pequena ilha excluída, Taiwan, iniciaria a era mais brilhante de sua história do chá.
 
-Naquele ano, a exportação de chá preto de Taiwan atingiu 3,29 milhões de kg, competindo com chá de pacote e chá oolong. Em 1937, esse número já havia disparado para 5,8 milhões de kg, representando 52 % da exportação daquele ano. O chá preto de Taiwan não apenas dominou a Ásia, mas também perfumou a capital da Dinamarca, Copenhague, a 8.800 km de distância.
+Naquele ano, as exportações de chá vermelho de Taiwan atingiram 3,29 milhões de quilogramas, competindo com o chá Baozhong e o chá oolong. Em 1937, esse número havia subido para 5,8 milhões de quilogramas, representando 52% das exportações daquele ano. O chá vermelho de Taiwan não apenas dominou a Ásia, mas chegou a florescer 8.800 quilômetros de distância, na capital dinamarquesa de Copenhague.
 
-**Como um país de chá esquecido encontrou oportunidade em meio às restrições?**
+**Como uma nação produtora de chá esquecida encontrou oportunidade nas restrições?**
 
-Esta história começa com um comerciante japonês.
+Essa história começa com um comerciante japonês.
 
-## Inovação rejeitada: da Siberia ao mercado europeu
+## Inovação rejeitada: da Sibéria à Europa, a rota do chá
 
-Em 1906, Taiwan começou a exportar sua primeira remessa de chá preto para a Rússia. Curiosamente, essa remessa era o que hoje seria difícil de imaginar: o “chá de tijolo vermelho” — chá prensado em blocos, facilitando o transporte de longa distância até a Sibéria.
+Em 1906, Taiwan começou a exportar seu primeiro lote de chá vermelho para a Rússia. Curiosamente, esse chá era o que hoje seria difícil de imaginar: o 'chá de tijolo' — folhas de chá prensadas em forma de tijolos para facilitar o transporte de longa distância até a Sibéria.
 
-O líder desse empreendimento foi o lendário comerciante Kōdō Kōsai, do período Meiji. Nascido em Kumamoto, ele estudou a produção de chá preto na juventude, viajou a Hankou, na China, para aprender a arte do chá de tijolo, e até abriu uma loja de chá na Sibéria. Mas em 1917, a Revolução Russa de Outubro mudou tudo — a demanda por chá preto caiu abruptamente, encerrando silenciosamente o primeiro período de exportação de Taiwan.
+Liderando esse empreendimento estava o mais carismático comerciante do período Meiji, Katsuragi no. Nascido em Kumamoto, ele aprendeu a fazer chá vermelho ainda jovem, viajou até Hankou, na China, para aprender a arte do chá de tijolo, e até abriu uma loja de chá na Sibéria. Mas a Revolução de Outubro da Rússia em 1917 mudou tudo — a demanda por chá vermelho caiu abruptamente, encerrando a primeira fase de exportação de chá vermelho de Taiwan.
 
-O governo japonês não desistiu e decidiu virar‑se para o mercado europeu. No entanto, o chá preto de folhas pequenas de Taiwan não tinha sabor forte o suficiente para se adequar ao estilo europeu dominante, que adicionava açúcar e leite. Em 1925, a Mitsui & Co. Ltd. trouxe mudas de chá Assam de folhas grandes da Índia, permitindo que Taiwan finalmente produza um verdadeiro chá preto de folhas grandes.
+O governo japonês, não desanimado, decidiu virar-se para o mercado europeu. Mas o chá vermelho de folhas pequenas de Taiwan não tinha sabor forte o suficiente para se adequar ao paladar europeu, dominado por nações como a Grã-Bretanha (chá com açúcar e leite). Em 1925, a Mitsui & Co. introduziu da Índia o chá Assam de folhas grandes, e Taiwan finalmente teve um 'chá vermelho de folhas grandes' autêntico.
 
-**A virada veio de forma inesperada.**
+**A virada estratégica veio de forma inesperada.**
 
-## Era dourada inesperada: o peixe que escapou do acordo internacional de controle de produção
+## Era de ouro inesperada: o peixe que escapou da malha do controle internacional
 
-Em 1930, a produção mundial de chá excedeu a demanda, causando uma queda nos preços do chá preto. Índia, Sri Lanka e outros países produtores de chá preto assinaram o Acordo Internacional de Controle de Produção de Chá, estabelecendo metas de produção e exportação de 1933 a 1940.
+Na década de 1930, havia superprodução mundial de chá, e os preços do chá vermelho desmoronaram. Índia, Sri Lanka e outras nações produtoras de chá vermelho firmaram o Pacto Internacional de Limitação da Produção de Chá, estabelecendo quotas de produção e exportação para 1933-1940.
 
-Mas Taiwan foi excluída do acordo — essa decisão aparentemente marginalizou o país, mas acabou se tornando a maior oportunidade para a indústria do chá de Taiwan.
+Mas Taiwan foi excluída desse acordo — uma decisão que parecia marginalizar a ilha, mas acabou se tornando a maior oportunidade do setor de chá de Taiwan.
 
-**Quando outros países produtores de chá foram forçados a reduzir a produção, Taiwan pôde, ao contrário, avançar em plena força.**
+**Enquanto outras nações produtoras de chá eram forçadas a reduzir a produção, Taiwan podia dar tudo de frente.**
 
-Conhecido como o “Guardião do Chá Preto de Taiwan”, Shin-chi Kōng-chih (新井耕吉郎) chegou a Yuchi em 1936, estabelecendo o Laboratório de Testes de Chá Preto de Yuchi da Academia Central. Ele criou uma fábrica industrial em estilo Ceylonês, e a área de produção de chá preto de Yuchi atingiu o pico histórico de 3.000 hectares.
+Conhecido como 'guardião do chá vermelho de Taiwan', Shōkichi Arai chegou a Fish Pool em 1936 e fundou o Instituto de Pesquisa de Chá Vermelho de Fish Pool do Academia Sinica. Ele criou uma fábrica industrializada de grande escala no estilo cingalês, e a área de produção de chá vermelho em Fish Pool atingiu seu ápice histórico de 3.000 hectares.
 
-Durante esse período, a vila de Yuchi tornou‑se a terra natal do chá preto de Taiwan. Além de Yuchi, a região de Guanxi, em Hsinchu, também se tornou um importante centro de produção de chá preto.
+Durante esse período, Fish Pool se tornou a terra natal do chá vermelho de Taiwan. Além de Fish Pool, Hsinchu Guangxi também se tornou um centro importante de produção de chá vermelho.
 
-## De exportação a consumo interno: o ponto de virada de 1975
+## De exportação para consumo interno: o divisor de águas de 1975
 
-1975 foi um ponto de virada importante para a indústria do chá de Taiwan. A crise energética mundial, combinada com a valorização do dólar taiwanês, interrompeu as exportações de chá. O Ministério da Agricultura e Silvicultura começou a pensar: como fazer os taiwaneses beberem chá por conta própria?
+1975 foi um marco na indústria do chá de Taiwan. A crise energética mundial e o fortalecimento do dólar taiwanês levaram à interrupção das exportações de chá. O Departamento de Agricultura e Florestas começou a repensar: como fazer com que os taiwaneses bebam mais chá?
 
-**Naquela época, os taiwaneses realmente não bebiam muito chá.**
+**Naquela época, os taiwaneses não bebiam muito chá.**
 
-Refrigerantes e café se tornaram bebidas de consumo popular antes do chá. Apenas pessoas ricas tinham o hábito de beber chá. O Ministério da Agricultura e Silvicultura decidiu enfatizar a saúde, descobriu que estudos estrangeiros mostravam que o chá é mais saudável que o café, e em 1975 realizou uma coletiva de imprensa para promover a relação entre chá e saúde.
+Refrigerantes e cafés eram bebidas mais populares entre o povo comum. Apenas as pessoas ricas tinham o hábito de beber chá. O Departamento decidiu enfatizar os benefícios à saúde, descobrindo que estudos estrangeiros mostravam que o chá era mais saudável que o café. Em 1975, realizaram uma conferência de imprensa para promover a relação entre chá e saúde.
 
-No mesmo ano, a primeira competição de chá após a libertação de Taiwan — a competição de chá de pacote de Xindian — foi realizada. A região de Meishan começou a cultivar chá de montanha. Em 1982, as regras de gestão do chá foram revogadas, permitindo que os agricultores taiwaneses produzissem, fabricassem e vendessem por conta própria.
+Na mesma época, realizou-se a primeira competição de chá de Taiwan desde a recuperação — a Competição de Chá Baozhong de Xinbeitou. A região de Meishan começou a cultivar chá de montanha. Em 1982, a regulamentação do processamento de chá foi revogada, e agricultores taiwaneses puderam finalmente 'produzir, processar e vender por conta própria'.
 
-**Competições e marcas em disputa impulsionaram o avanço tecnológico da produção de chá oolong de Taiwan.**
+**As competições e a multiplicidade de marcas impulsionaram rapidamente a tecnologia de produção de chá oolong de Taiwan.**
 
-Na década de 1980, a bolsa de valores de Taiwan ultrapassou 10.000 pontos, entrando na era do “dinheiro inundando os pés”. Salões de chá surgiram como brotos de chuva, tornando‑se locais para jogar, reuniões e encontros de namoro. O Taipei Zhiteng Lù e a Yángxiān Cháxíng (anteriormente Chunshuitang) foram fundados nesse período.
+Na década de 1980, a bolsa de valores de Taiwan ultrapassou 10.000 pontos, entrando na era da 'abundância de dinheiro'. Salas de chá surgiam como cogumelos após a chuva, tornando-se locais para jogar cartas, reunir-se e conhecer pessoas. O Pavilion de Chá de Xieyi em Taipei e a loja de chá Yanghsiao em Taichung (antiga Spring Water Pavilion) foram fundadas nessa época.
 
-## Revolução de bebidas frias: do chá com espuma ao bubble tea
+## Revolução das bebidas geladas: do chá vermelho com espuma ao chá com leite e pérolas
 
-Em 1983, um experimento mudou a cultura do chá de Taiwan.
+Em 1983, uma experiência mudou a cultura do chá de Taiwan.
 
-O fundador da Chunshuitang, Liu Hanjie, viu a técnica de preparar café gelado no Japão; no verão, pediu ao atendente que adicionasse cubos de gelo ao chá preto, mas lhe disseram: “Ninguém está bebendo chá preto gelado!”
+O fundador da Spring Water Pavilion, Liu Hanjie, viu a técnica de preparo de café gelado no Japão. No verão, ele pediu aos funcionários que colocassem gelo no chá vermelho, mas foi informado: 'Ninguém bebe chá gelado!'
 
-De volta a Taiwan, Liu Hanjie comprou um agitador (copo de shaker), colocou chá preto, açúcar de cana e cubos de gelo e agitou. O chá a 4 °C entrava na boca, com o aroma intenso do chá preto e a espuma densa que adicionava textura — nasceu o “chá com espuma”.
+De volta a Taiwan, Liu comprou um agitador (copo de plástico), colocou chá vermelho, açúcar e gelo, e agitou. O chá a 4°C entrava em contato com a boca, liberando o aroma do chá vermelho, enquanto a espessa espuma adicionava textura — o 'chá vermelho com espuma' havia nascido.
 
 **Mas a verdadeira revolução estava por vir.**
 
-Em 1987, a gerente da Chunshuitang, Lin Xiuhui, durante um trabalho, tentou adicionar “pudim de tapioca” (bolas de tapioca) ao bubble tea preparado. Essa combinação de um lanche popular taiwanês com um chá de leite rico não apenas rompeu a fronteira entre “bebida de chá” e “petisco”, mas também recebeu elogios enormes dos clientes após a degustação.
+Em 1987, a gerente da Spring Water Pavilion naquele momento, Lin Xiuxue, experimentou adicionar 'pérolas de farinha' ao chá com leite gelado durante o trabalho. A combinação de um petisco popular entre o povo taiwanês com o cremoso chá com leite não apenas quebrou as fronteiras entre 'bebidas' e 'petiscos', mas também recebeu excelente aceitação dos clientes.
 
-A proporção dourada da Chunshuitang, “7:2:1” — caldo de chá, cubos de gelo, espuma — tornou‑se a fórmula padrão do bubble tea.
+**A proporção mágica da Spring Water Pavilion — 7:2:1 (chá, gelo, espuma) — tornou-se a fórmula padrão do chá com leite e pérolas.**
 
-Curiosamente, a Tainan Hanlin Tea House também reivindicou a invenção do bubble tea; as duas empresas se enfrentaram em tribunal por dez anos. O juiz finalmente concluiu que o bubble tea é uma nova bebida, não uma patente, e não há necessidade de disputar quem foi o “ancestral”.
+Curiosamente, o Tea House de Hanlin em Tainan também reivindicou a invenção do chá com leite e pérolas, e as duas partes disputaram a autoria em tribunal por dez anos. O juiz finalmente concluiu que o chá com leite e pérolas era uma nova bebida, não um produto patenteado, e não havia necessidade de discutir quem era o verdadeiro inventor.
 
 ## O império do chá por trás dos números
 
-Hoje, a indústria de bebidas de shaked de Taiwan tem um tamanho impressionante:
+Hoje, o setor de bebidas geladas caseiras de Taiwan é impressionante:
 
-- **2024: faturamento de bebidas de shaked: 1.331,3 bilhões de yuans**, estabelecendo um recorde histórico
-- **Número total de lojas de bebidas de shaked em Taiwan: 16.070**, representando 57 % das lojas de bebidas do país
-- **Taxa de abertura de lojas: em média 40 novas lojas por mês**
-- **Consumo médio anual por taiwanês: cerca de 1.075.040.000 xícaras** (calculado a 50 yuan por xícara)
+- **Receita anual das bebidas geladas caseiras em 2024: 13,313 bilhões de dólares taiwaneses**, atingindo um novo recorde
+- **Número total de lojas de bebidas geladas em toda a ilha: 16.070**, representando 57% de todas as lojas de bebidas do país
+- **Velocidade de expansão: uma média de 40 novas lojas por mês**
+- **Consumo anual per capita de taiwaneses: cerca de 1.075 milhões de copos** (calculado com base em 50 dólares taiwaneses por copo)
 
-**O consumo de bebidas de shaked pelos habitantes de Taichung é particularmente impressionante — em comparação com a população real, o consumo é claramente acima da média.**
+**O consumo de bebidas geladas caseiras em Taichung é especialmente notável — proporcionalmente à população, o consumo é significativamente acima da média.**
 
-Em termos de gênero, todas as faixas etárias têm consumo feminino superior ao masculino, com mulheres de 25 a 34 anos representando cerca de 20 % do consumo total. Quanto à preferência de doçura, mais da metade dos consumidores opta por “pouco açúcar”, seguido por “sem açúcar” (39,7 %).
+Em termos de gênero, em todas as faixas etárias, as mulheres consumem mais do que os homens, com jovens mulheres de 25 a 34 anos representando cerca de 20% do consumo total. Em relação à preferência de doçura, mais da metade dos consumidores optam por açúcar leve, seguido por sem açúcar (39,7%).
 
-## Conquista mundial: de Taichung ao mundo
+## Conquista global: de Taichung ao mundo
 
-O bubble tea da Chunshuitang agora vende em média mais de 2 milhões de xícaras por ano. Mas o mais importante é que essa xícara de chá com petisco já se tornou a soft power de Taiwan que conquista o mundo.
+O chá com leite e pérolas da Spring Water Pavilion hoje vende mais de 2 milhões de copos por ano. Mas mais importante, essa bebida com 'petiscos' tornou-se uma força suave global de Taiwan.
 
-Em 2020, Taiwan tinha mais de 15.000 lojas de bebidas de shaked, a região com maior densidade de lojas do mundo.
+**Em 2020, Taiwan contava com mais de 15.000 lojas de bebidas geladas caseiras, sendo a região com a maior densidade de tais estabelecimentos no mundo.**
 
-Marcas de bebidas de shaked de Taiwan, como Wu Xi Lan, CoCo, e Qingxin Fqun, expandiram‑se rapidamente para o exterior, entrando nos mercados do Sudeste Asiático, Europa e América. O bubble tea não é apenas a obra atemporal da Chunshuitang, mas também um marco importante na promoção da cultura do chá ao redor do mundo.
+Marcas taiwanesas de bebidas geladas, como Five Dian,CoCo e Chun Shun, expandiram rapidamente para fora do país, entrando em mercados como Sudeste Asiático, Europa e América do Norte. O chá com leite e pérolas não apenas se tornou o ícone duradouro da Spring Water Pavilion, mas também um marco importante para levar a cultura das bebidas para o mundo.
 
-O mercado global de bebidas de shaked na região Ásia‑Pacífico atingiu 1,14 bilhão de dólares em 2024, com Vietnã e Taiwan previstos como os maiores volumes de vendas. O mercado chinês cresceu quase cinco vezes desde o início dos anos 2020.
+O tamanho do mercado global de bebidas geladas caseiras na Ásia-Pacífico atingiu 1,14 bilhão de dólares em 2024, com Vietnam e Taiwan previstos para ter o maior volume de vendas. O mercado da China continental cresceu quase cinco vezes desde o início da década de 2020.
 
-## Do Formosa Oolong ao Bubble Tea
+## De Formosa Oolong a Bubble Tea
 
-Ao olhar para os 150 anos de história do chá, a cultura do chá de Taiwan demonstra uma incrível capacidade de adaptação e espírito inovador.
+Olhando para os 150 anos da história do chá, a cultura do chá de Taiwan demonstra uma notável capacidade de adaptação e inovação.
 
-Em 1869, o comerciante britânico John Dodd enviou pela primeira vez 210.000 quilos de “Formosa Oolong” do Dàdàochéng para Nova York. Naquela época, ninguém imaginou que a bela ilha chamada “Formosa” (福爾摩沙) conquistaria o mundo com uma xícara de bubble tea um século depois.
+Em 1869, o comerciante britânico John Dodd primeiro transportou 210.000 libras de 'Formosa Oolong' do porto de Dadaowan até Nova York. Naquela época, ninguém imaginava que a ilha chamada 'Formosa' (bela ilha), houvesse um século depois, conquistaria o mundo com uma simples taça de chá com leite e pérolas.
 
-**A verdadeira sustentabilidade não está em manter a tradição, mas em redefinir continuamente o significado da tradição.**
+**A verdadeira sustentabilidade não está em manter o tradicional, mas em constantemente redefinir o significado do tradicional.**
 
-O segredo do sucesso da cultura do chá de Taiwan talvez esteja nessa filosofia de “manter o núcleo, flexibilidade nas fronteiras”. Desde a tradicional arte do chá até a moderna cultura de bebidas de shaked, do “Formosa Oolong” ao “Bubble Tea”, Taiwan sempre encontra equilíbrio entre tradição e inovação.
+O segredo do sucesso da cultura do chá de Taiwan pode estar justamente nessa filosofia de 'manter o núcleo, flexibilizar as bordas'. Desde a tradição do chá de cerimônia até a cultura moderna de bebidas geladas caseiras, de 'Formosa Oolong' a 'Bubble Tea', Taiwan sempre encontra o equilíbrio entre tradição e inovação.
 
-Isso não é apenas a história de uma xícara de chá, mas a história de como uma ilha mantém sua identidade cultural na era da globalização, enquanto conquista o mundo com inovação.
+Isso não é apenas a história de uma taça de chá, mas a história de como uma ilha mantém sua identidade cultural no fluxo da globalização, ao mesmo tempo que usa inovação para conquistar o mundo.
+
+## Fontes das imagens
+
+- Hero：Embalagem de chá oolong "Formosa" da marca britânica Jacksons of Piccadilly, fotografada por Joost J. Bakker IJmuiden, [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Jacksons_of_Piccadilly_Formosa_Oolong_Tea_(51878727206).jpg>)，CC BY 2.0。
 
 ## Referências
 
-- [Histórico da Cultura do Chá de Taiwan - Academia de Chá](https://teatalkacademy.com/celebrities/13-tang-jia-hong/152-c3offee2019-05)
-- [Invenção do Bubble Tea - Site oficial da Chunshuitang](https://www.chunshuitang.com.tw/article-detail/invent-bubble-milk-tea/)
-- [Frenesi de bebidas: revelando dados de bebidas de shaked em Taiwan](https://lndatatech.github.io/taiwan-drink/)
-- [Testemunho da transformação econômica de Taiwan: o brilho do “chá de ouro” na evolução da indústria do chá de Taiwan - Agri Media](https://www.agriharvest.tw/archives/70760)
+- [Contexto histórico do chá de Taiwan - Tea College](https://teatalkacademy.com/celebrities/13-tang-jia-hong/152-c3offee2019-05)
+- [A invenção do chá com leite e pérolas - Site oficial da Spring Water Pavilion](https://www.chunshuitang.com.tw/article-detail/invent-bubble-milk-tea/)
+- [Turbilhão de bebidas: revelando os dados por trás das bebidas geladas caseiras em toda a ilha - LnData](https://lndatatech.github.io/taiwan-drink/)
+- [Testemunhando o desenvolvimento do setor de chá de Taiwan na sombra da 'era do chá' - Agricultura e Comunicação](https://www.agriharvest.tw/archives/70760)
 - [Chá de Taiwan - Wikipédia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E8%8C%B6%E8%91%89)
 
 ## Tópicos relacionados
 
-- [台灣小吃 (Comida Taiwan)](/pt/food/taiwanese-street-food)
+- [Comida taiwanesa](/pt/food/taiwanese-street-food)
+
+```
+
+```
