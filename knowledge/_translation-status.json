@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-24T06:51:18+08:00",
-    "zhCommitHead": "75ff1ba72",
+    "lastUpdated": "2026-09-24T07:20:34+08:00",
+    "zhCommitHead": "d43588e5c",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1081,
-        "stale": 28,
+        "fresh": 1082,
+        "stale": 27,
         "metadata_stale": 0,
         "missing": 15,
         "orphan": 0
@@ -44,8 +44,8 @@
       },
       "es": {
         "total_zh": 1124,
-        "fresh": 1068,
-        "stale": 42,
+        "fresh": 1069,
+        "stale": 41,
         "metadata_stale": 0,
         "missing": 14,
         "orphan": 0
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 1027,
+        "fresh": 1028,
         "stale": 31,
         "metadata_stale": 0,
-        "missing": 66,
+        "missing": 65,
         "orphan": 0
       },
       "pt": {
@@ -84,18 +84,18 @@
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 1023,
+        "fresh": 1024,
         "stale": 19,
         "metadata_stale": 0,
-        "missing": 82,
+        "missing": 81,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 1045,
+        "fresh": 1046,
         "stale": 21,
         "metadata_stale": 0,
-        "missing": 58,
+        "missing": 57,
         "orphan": 0
       },
       "ru": {
@@ -24447,7 +24447,20 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Technology/tasa-taiwan-space-agency.md",
+          "translatedFrom": "Technology/國家太空中心.md",
+          "sourceCommitSha": "82c0407f6",
+          "sourceContentHash": "sha256:e4e6dbc8acdd8970",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-23T22:42:27.307415+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 72,
+          "bytes": 181685,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -72031,7 +72044,20 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/complex-life-festival.md",
+          "translatedFrom": "Society/複雜生活節.md",
+          "sourceCommitSha": "dd82dc4a6",
+          "sourceContentHash": "sha256:7ebf5415595c2d0c",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-23T22:43:52.579180+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 36,
+          "bytes": 99899,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Society/complex-life-festival.md",
@@ -113437,18 +113463,18 @@
         "en": {
           "path": "en/People/chen-chih-chung.md",
           "translatedFrom": "People/陳致中.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:c3cf496574092462",
-          "sourceBodyHash": "sha256:b26709ecc046be72",
-          "translatedAt": "2026-05-09T11:09:57+08:00",
+          "sourceCommitSha": "fa7059f7a",
+          "sourceContentHash": "sha256:4de98c280e186c57",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-23T23:04:44.496632+00:00",
           "translationLastCommit": "d6ea86f0",
           "translationLastModified": "2026-09-22T01:05:30+08:00",
           "inferred": false,
-          "footnoteDefs": 11,
-          "bytes": 12131,
+          "footnoteDefs": 62,
+          "bytes": 70962,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (62→11)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/People/chen-chih-chung.md",
@@ -151847,18 +151873,18 @@
         "es": {
           "path": "es/Food/taiwan-breakfast-culture.md",
           "translatedFrom": "Food/台灣早餐文化.md",
-          "sourceCommitSha": "85926aa3b",
-          "sourceContentHash": "sha256:03f68d8696f5da84",
-          "sourceBodyHash": "sha256:dc5728577e386104",
-          "translatedAt": "2026-05-20T05:08:32+08:00",
+          "sourceCommitSha": "ee6650052",
+          "sourceContentHash": "sha256:499276bde9de600f",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-23T22:22:33.345321+00:00",
           "translationLastCommit": "de52e731",
           "translationLastModified": "2026-09-22T01:05:46+08:00",
           "inferred": false,
-          "footnoteDefs": 6,
-          "bytes": 20807,
+          "footnoteDefs": 41,
+          "bytes": 63371,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (41→6)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Food/taiwan-breakfast-culture.md",
@@ -184862,8 +184888,8 @@
           "sourceContentHash": "sha256:7893a2743008a706",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-23T21:04:15.072607+00:00",
-          "translationLastCommit": "74349bb6",
-          "translationLastModified": "2026-09-24T01:05:06+08:00",
+          "translationLastCommit": "4e7eafa4",
+          "translationLastModified": "2026-09-24T06:51:19+08:00",
           "inferred": false,
           "footnoteDefs": 31,
           "bytes": 87651,
@@ -188447,7 +188473,20 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Geography/beitou-hot-spring-street.md",
+          "translatedFrom": "Geography/北投溫泉街.md",
+          "sourceCommitSha": "2187c1c9c",
+          "sourceContentHash": "sha256:2c4fe0156269ff13",
+          "sourceBodyHash": "sha256:123f0a9f012e26b6",
+          "translatedAt": "2026-09-23T22:11:56+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 29,
+          "bytes": 68620,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Geography/beitou-hot-spring-street.md",
