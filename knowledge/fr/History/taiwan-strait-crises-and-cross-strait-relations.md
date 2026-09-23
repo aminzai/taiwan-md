@@ -1,168 +1,184 @@
 ---
 title: 'Crise du détroit de Taïwan et évolution des relations inter-détroit'
-description: 'Du souvenir des obus de la grand-mère de Kinmen au quotidien « bouddhiste » des jeunes de Taipei, comment soixante-dix ans de crise du détroit de Taïwan ont façonné la psychologie collective des Taïwanais'
+description: 'Du souvenir des obus de l’aïeule de Jinmen aux quotidiens sereins des jeunes Taïwanais, comment sept décennies de crise ont façonné l’identité collective taïwanaise'
 date: 2026-03-18
 category: 'History'
 tags:
-  - 'relations inter-détroit'
-  - 'crise du détroit de Taïwan'
-  - 'histoire'
-  - 'relations internationales'
-  - 'géopolitique'
+  [
+    'relations inter-détroit',
+    'crise du détroit de Taïwan',
+    'histoire',
+    'relations internationales',
+    'géopolitique',
+  ]
 subcategory: '民主與治理'
 author: 'Taiwan.md'
+difficulty: 'advanced'
 readingTime: 15
 featured: false
 lastVerified: 2026-03-25
 lastHumanReview: false
-translatedFrom: History/台海危機與兩岸關係發展.md
-sourceCommitSha: 'dd39065b'
-sourceContentHash: 'sha256:fcdf343dc3efa72e'
-sourceBodyHash: 'sha256:8952fca56720f010'
-translatedAt: '2026-05-25T21:07:36Z'
-difficulty: 'advanced'
+sporeLinks:
+  - id: 13
+    platform: 'threads'
+    date: '2026-04-08'
+    url: 'https://www.threads.com/@taiwandotmd/post/DW2rgufk40S'
+translatedFrom: 'History/台海危機與兩岸關係發展.md'
+sourceCommitSha: '5aa11ee92'
+sourceContentHash: 'sha256:292f82300f3a8a11'
+sourceBodyHash: 'sha256:dbb56e0c9c904d7c'
+translatedAt: '2026-09-23T22:11:52+08:00'
 ---
 
 # Crise du détroit de Taïwan et évolution des relations inter-détroit
 
-## La veille du vote, les missiles
+## Les missiles de la veille du vote
 
-Le 8 mars 1996, deux semaines avant la première élection présidentielle directe de Taïwan, le matin même, l’armée populaire de libération a tiré des missiles balistiques Dongfeng‑15 à 29 km au large de Keelung et à 37 km au large de Kaohsiung. Plus de 70 % du trafic maritime commercial taïwanais passe par ces deux ports ; les routes ont été immédiatement interrompues.
+Le 8 mars 1996, à deux semaines du premier scrutin présidentiel direct de Taïwan, l’armée de libération populaire a lancé des missiles balistiques Dong Feng-15 depuis la mer au large de Keelung, à environ 29 milles nautiques, et depuis la mer au large de Kaohsiung, à environ 30 à 150 milles nautiques[^5][^10] . Plus de 70 % du trafic maritime commercial taïwanais passait par ces deux ports, et les routes maritimes furent interrompues du jour au lendemain.
 
-La Bourse de Taipei a chuté. L’aéroport de Taoyuan a connu une ruée pour l’achat de billets d’avion. Les riches ont transféré leurs capitaux à l’étranger. Les bulletins télévisés ont diffusé en boucle les images des essais de missiles.
+La Bourse de Taïpei s’effondra. Des files d’attente se formèrent à l’aéroport de Taoyuan pour acheter des billets. Les riches déplacèrent leurs capitaux à l’étranger. Les chaînes d’information en continu diffusèrent en boucle les images des tirs de missiles.
 
-Pourtant, deux semaines plus tard, le 23 mars, 76 % des électeurs taïwanais se sont rendus aux urnes. Lee Teng‑hui a été élu avec 54 % des voix, soit cinq points de pourcentage de plus que les sondages avant la crise des missiles. Les missiles n’ont pas découragé les électeurs, ils ont même renforcé le soutien à Lee.
+Mais deux semaines plus tard, le 23 mars, 76 % des électeurs taïwanais se rendirent aux urnes. Lee Teng-hui remporta avec 54 % des voix, soit environ 5 points de pourcentage de plus que les sondages menés avant la crise des missiles[^5][^10] . Les missiles n’avaient pas effrayé les électeurs — ils l’avaient même élu.
 
-C’est le moment le plus ironique des soixante‑dix ans de relations dans le détroit : l’intimidation militaire a produit le résultat le plus redouté par l’intimidateur.
+C’est l’un des moments les plus ironiques des soixante-dix ans d’histoire des relations inter-détroit : la terreur militaire avait produit le résultat le plus contraire à celui que ses auteurs désiraient.
 
-## Une porte tenue par mille hommes
+## La porte gardée par mille soldats
 
-Revenons quarante ans en arrière. Le 18 janvier 1955, à 7 h du matin, sur une petite île au large du Zhejiang appelée Yijiangshan, le colonel Wang Sheng‑ming se préparait à affronter le dernier jour de sa vie.
+Revenons à quarante ans en arrière. À 7 heures du matin du 18 janvier 1955, sur une petite île appelée Yijiangshan dans l’océan Pacifique, le commandant d’unité, Wang Shengming, se préparait à affronter le dernier jour de sa vie.
 
-L’armée populaire de libération a mobilisé entre 4 000 et 5 000 soldats, 186 navires et plus de 180 avions pour attaquer l’île. Les défenseurs comptaient entre 1 030 et 1 086 hommes (y compris les troupes anti‑communistes). Les estimations varient, mais le rapport était d’un soldat défenseur pour 4 à 7 envahisseurs. Le maréchal Peng Dehuai, lors de la planification, aurait déclaré : « On dit souvent qu’on ne coupe pas un poulet avec un couteau à bœuf ; cette fois, nous allons utiliser le couteau à bœuf pour tuer le poulet. » C’était la première opération conjointe terre‑mer‑air de l’armée de libération ; Pékin ne pouvait pas se permettre d’échouer.
+L’armée de libération populaire déploya entre 4 000 et 5 000 soldats, plus de 200 navires et 180 avions pour attaquer cette île[^3] . Les défenseurs, environ 1 030 hommes (y compris les troupes anti-communistes sauveurs de la nation), étaient largement désavantagés. Peng Dehuai, en organisant l’opération, déclara : « On dit souvent qu’il ne faut pas utiliser un grand couteau pour tuer un poulet — mais cette fois, nous allons utiliser un couteau de boucher pour tuer un poulet. » C’était la première opération conjointe des trois services de l’armée de libération. Pékin ne pouvait pas se permettre de perdre.
 
-Le combat a duré moins de deux jours. Dans la nuit du 19 janvier, à 2 h, l’île a changé de mains. Wang Sheng‑ming est mort, son adjoint Wang Fu‑bi a été capturé. L’armée de libération a déclaré 393 morts et 1 027 blessés ; l’armée nationaliste a parlé de 720 morts.
+Les combats durèrent moins de deux jours. À 2 heures du matin du 19 janvier, l’île fut perdue. Wang Shengming mourut au combat, et son adjoint, Wang Fubi, fut capturé. L’armée de libération annonça avoir perdu 393 soldats tués et 1 027 blessés. L’armée nationale fit état de 720 morts.
 
-L’île de Yijiangshan était très petite, mais elle constituait la porte d’entrée de l’île de Da Chen. Après la perte de Yijiangshan, Chiang Kai‑shek a décidé d’abandonner l’ensemble de l’archipel de Taizhou. En février 1955, sous la protection de la 7ᵉ flotte américaine, la population et les troupes de Da Chen ont été évacuées. Chiang Ching‑kuo a été envoyé pour dialoguer avec les résidents et les accompagner dans le départ. Trois jours plus tard, les forces de libération occupaient toutes les îles côtières du Zhejiang oriental.
+Yijiangshan est une île minuscule, mais elle est la porte d’entrée de Dahuitou. Après la perte de Yijiangshan, Chiang Kai-shek décida d’abandonner toute l’archipel de Taizhou. Le 2 février 1955, sous la protection de la septième flotte américaine, tous les habitants et soldats de Dahuitou furent évacués. Chiang Ching-kuo fut chargé d’assurer la communication avec les résidents, accompagnant le départ des habitants et soldats. Trois jours plus tard, l’armée de libération occupa tous les îlots côtiers de la province du Zhejiang.
 
-L’impact de cette petite bataille a dépassé toutes les attentes[^3]. Elle a directement conduit à la signature du Traité de défense mutuelle sino‑américain le 12 décembre 1954, officialisant l’alliance militaire entre les États‑Unis et Taïwan. En même temps, la menace nucléaire américaine pendant la crise a poussé Pékin à décider de développer sa propre arsenal nucléaire. La perte d’une île de mille hommes a, de façon inattendue, remodelé la stratégie de toute l’Asie de l’Est.
+L’impact de cette petite bataille dépassa toutes les attentes[^3] . De la bombardement de Jinmen en septembre 1954 à la chute de Yijiangshan, la Première crise du détroit de Taïwan amena les États-Unis et Taïwan à signer le Traité de défense commun le 2 décembre 1954. Dix jours après la chute de Yijiangshan, le Congrès américain adopta la Résolution sur les îles de Formose le 29 janvier 1955, autorisant le président à utiliser la force pour défendre Taïwan et Pékin. Parallèlement, la menace nucléaire émise par les États-Unis pendant la crise fut également considérée comme un facteur ayant poussé Pékin à décider de développer son propre arsenal nucléaire[^1] . La chute d’une petite île de mille habitants avait accidentellement redessiné la carte stratégique de toute l’Asie orientale.
 
-## Quarante‑quatre jours, 470 000 obus
+## Quarante-quatre jours, quatre cent soixante-dix mille obus
 
-Le 23 août 1958, l’été à Kinmen s’est transformé en enfer.
+Le 23 août 1958, l’été à Jinmen se transforma en enfer.
 
-L’après‑midi, 569 pièces d’artillerie de l’armée populaire ont tiré simultanément. Kinmen, d’une superficie d’environ 150 km², a subi plus de 470 000 obus en 44 jours, l’un des taux de densité de tir les plus élevés jamais enregistrés.
+À 17h30, l’armée de libération lança simultanément plus de six cents obus de gros cal[^4] . Sur une île de environ 150 km², Jinmen subit plus de 470 000 obus pendant les 44 jours qui suivirent[^1] . C’est l’un des records les plus élevés de densité d’artillerie par unité de surface dans l’histoire militaire.
 
-Le premier jour a été catastrophique. Le commandant de la défense de Kinmen, Zhao Jia‑xiang, et le colonel Zhang Jie sont morts sur le coup ; Ji Xing‑wen a été grièvement blessé et est décédé trois jours plus tard d’une péritonite. Le commandant de la défense, Hu Lian, et le ministre de la Défense, Yu Da‑wei, ont été blessés par des éclats. Ji Xing‑wen, légende de la première frappe anti‑japonaise lors du massacre du pont de Lugou, a perdu la vie près d’une table de repas à Kinmen.
+Le premier jour d’artillerie fut un désastre. Le commandant de la défense de Jinmen, Zhao Jiaxian, et Zhang Jie, furent tués sur le champ. Ji Xingwen, blessé grièvement, mourut trois jours plus tard d’une péritonite. Le commandant de la défense, Hu Ruan, et le ministre de la Défense en visite, Yu Dawei, furent également blessés par des éclats de obus. Ji Xingwen, héros légendaire qui avait fait feu de grâce lors de l’incident de la route de Lugou, perdit sa vie à table dans un restaurant à Jinmen.
 
-La vie des habitants a été bouleversée. Des milliers de maisons ont été détruites ou endommagées, 618 civils et militaires sont morts, 2 610 blessés. Les résidents ont dû s’installer dans des tunnels souterrains. Kinmen a alors connu une période de 36 ans de « gouvernement en zone de guerre » (1956‑1992), avec un contrôle militaire total : couvre‑feu nocturne, autorisation obligatoire pour les pêcheurs, censure du courrier.
+La vie quotidienne des habitants de Jinmen fut bouleversée. Plus de neuf mille maisons furent détruites ou partiellement détruites, 618 soldats et civils moururent, et 2 610 personnes furent blessées[^4] . Les habitants furent contraints de s’installer dans des tunnels souterrains. Jinmen entra un régime de gouvernance militaire qui durerait 36 ans (1956-1992), avec un contrôle strict sur les déplacements, la communication et les activités économiques des habitants. Couvre-feu nocturne, autorisation nécessaire pour les pêcheurs, censure des lettres.
 
-Les combats aériens ont également été intenses. Les États‑Unis ont fourni aux forces aériennes taïwanaises les missiles antiradar AGM‑65 « Maverick », assurant la supériorité aérienne. La 7ᵉ flotte américaine a aidé à briser le blocus maritime et à maintenir les lignes d’approvisionnement.
+Pendant la bombardement, les combats aériens furent tout aussi intenses. Les États-Unis fournirent à l’armée de l’air nationale les missiles les plus avancés de l’époque, les missiles Tomahawk, pour établir la supériorité aérienne. La septième flotte américaine contribua à briser le blocus maritime et à maintenir les lignes d’approvisionnement.
 
-Le 6 octobre, le ministre de la Défense Peng Dehuai, au nom de Pékin, a publié la « Lettre aux compatriotes taïwanais », annonçant un cesse‑feu d’une semaine pour des raisons «humanitaires». Le rythme a ensuite changé en «un jour de tir, deux jours d’arrêt». Cette cadence absurde a perduré jusqu’au 1ᵉʳ janvier 1979, jour où les États‑Unis ont établi des relations diplomatiques avec la République populaire de Chine, moment où Pékin a officiellement cessé les tirs.
+Le 6 octobre, Pékin, au nom du ministre de la Défense Peng Dehuai, publia une lettre intitulée « Lettre à nos frères et sœurs taïwanais » annonçant un cessez-le-feu d’une semaine pour des raisons humanitaires. Ensuite, il adopta une règle étrange : tirer un jour sur deux, et s’abstenir le lendemain. Ce rythme absurde perdurera jusqu’au 1er janvier 1979, le jour même où les États-Unis établirent des relations diplomatiques avec la République populaire de Chine.
 
-Ce qui rend la guerre d’artillerie de 823 étrange, c’est qu’elle n’avait jamais eu pour objectif d’occuper Kinmen[^4]. Mao Zedong voulait tester la détermination des États‑Unis à défendre les îles taïwanaises et afficher au monde son intention de «libérer Taïwan». Les obus étaient un signal politique, le domicile des Kinmenais le prix à payer.
+L’étrangeté de la bataille de Jinmen réside dans le fait qu’elle n’avait jamais été conçue pour conquérir l’île[^4] . Mao Zedong voulait tester la détermination des États-Unis à défendre les îles hors de la frontière chinoise, tout en démontrant à la communauté internationale sa volonté d’« réunifier Taïwan ». Les obus étaient des signaux politiques, et les maisons de Jinmen en étaient le prix.
 
-Un reportage de BBC Chinese a cité une opinion largement répandue : après la fin de la guerre d’artillerie, une reconquête militaire du continent était pratiquement impossible, et le gouvernement taïwanais s’est tourné vers la démocratie et les libertés. Dans ce sens, le 823 était une « guerre de défense de Taïwan ». Par la suite, le détroit a connu une longue période de paix, le partage de souveraineté a permis le miracle économique et la démocratisation.
+Un reportage de la BBC en chinois rapporta un point de vue largement partagé à Taïwan[^1] : après la fin de cette bataille, il devenait clair que la reconquête militaire de la Chine continentale était impossible, et que le gouvernement taïwanais devait se tourner vers la démocratie et la liberté. D’un point de vue plus large, la bataille de 1958 était une « bataille de défense de Taïwan ». Après cela, le détroit de Taïwan entra dans une longue période de paix, maintenant la séparation des deux rives, ce qui permit ensuite l’étrange miracle économique et la démocratisation.
 
-## Le président coincé une nuit dans un avion à Hawaï
+## Le président coincé dans un avion à Honolulu
 
-Les graines de la crise des missiles de 1996 ont été semées en 1994.
+La graine de la crise des missiles de 1996 avait en réalité été plantée en 1994.
 
-Cette année-là, Lee Teng‑hui, de retour d’Amérique du Sud, a fait escale à Honolulu pour le ravitaillement. Sa demande de visa d’entrée aux États‑Unis a été refusée. L’administration Clinton ne l’a pas laissé quitter l’aérodrome militaire, et il a dû passer la nuit dans son propre avion. Un fonctionnaire du Département d’État a admis en privé que la situation était « embarrassante ». Lee a ensuite plaint d’être traité comme un « second‑classe leader ».
+Cette année-là, Lee Teng-hui, de retour d’un voyage en Amérique du Sud, fit escale à Honolulu à bord d’un avion pour faire le plein de carburant. Il demanda un visa d’entrée aux États-Unis, qui fut refusé. Le gouvernement Clinton n’autorisa pas l’avion à atterrir dans un aéroport militaire, et Lee fut contraint de passer la nuit dans son propre avion. Un responsable du département d’État américain admettra plus tard que la situation était « gênante », tandis que Lee se plaignit d’avoir été traité comme un leader de second ordre[^5] .
 
-Cette humiliation a déclenché une réaction en chaîne à Washington. Des législateurs pro‑Taïwan ont commencé à intervenir, le cabinet de lobbying Cassidy & Associates a été sollicité. En mai 1995, la Chambre des représentants a adopté à 396‑0 et le Sénat à 97‑1 une résolution demandant au Département d’État d’autoriser la visite de Lee aux États‑Unis. Le Département a cédé.
+Cette humiliation déclencha une réaction en chaîne à Washington. Les députés pro-taïwan commencèrent à agir, et le cabinet d’affaires Cassidy & Associates s’engagea pour défendre la cause. En mai 1995, la Chambre des représentants votèrent à l’unanimité (396 voix contre 0) et le Sénat à 97 voix contre 1, exigeant que le département d’État autorise Lee Teng-hui à visiter les États-Unis. Le département d’État céda.
 
-Du 9 au 10 juin 1995, Lee, en tant qu’ancien élève, est retourné à son alma mater, l’Université Cornell, où il a prononcé une conférence intitulée « L’expérience de la démocratisation de Taïwan »[^5]. Il y a déclaré ce qui a mis Pékin en colère : « Taïwan est un pays souverain et indépendant. » (Taiwan is a country with independent sovereignty.) La réaction de Pékin s’est résumée à quatre caractères : « C’est intolérable, qui peut le supporter ? »
+Le 9 juin 1995, Lee Teng-hui, en tant qu’ancien élève, retourna à son alma mater, l’université de Cornell, où il prononça un discours intitulé « Ce que le peuple désire, je le partage dans mon cœur »[^11] . Il n’utilisa pas les mots « indépendance de Taïwan », mais son discours, qui répétait sans cesse « la République de Chine existe à Taïwan » et parlait de « souveraineté au service du peuple », équivalait à une déclaration officielle de l’identité nationale de Taïwan sur scène américaine. Pékin réagissit avec la phrase célèbre : « C’est tolérable, mais plus ne peut être supporté »[^1] .
 
-En juillet, Xinhua a annoncé que l’armée populaire allait procéder à des essais de missiles. Par un canal secret, Pékin a transmis à Zeng Yong‑xian, conseiller de politique étrangère de Lee, le message suivant : « Nos missiles balistiques seront lancés vers Taïwan dans quelques semaines, mais vous n’avez pas à vous inquiéter. » Zeng avait déjà rencontré Yang Shang‑kun en 1992 en tant qu’émissaire de Lee. Cette ligne discrète a permis aux deux parties de connaître leurs limites.
+En juillet, le journal officiel Xinhua annonça que l’armée de libération procèderait à des tirs de missiles. Mais via des canaux secrets, Pékin transmettait un message à l’advis de Lee Teng-hui, Tseng Sheng-hsiung : « Les missiles seront tirés vers Taïwan dans quelques semaines — ne vous inquiétez pas »[^5] . Tseng Sheng-hsiung, qui avait été l’envoyé secret de Lee Teng-hui lors de sa rencontre avec Yang Shangkun en 1992[^10] , savait que les limites étaient claires.
 
-Du 21 juillet 1995, la deuxième brigade d’artillerie a tiré six missiles Dong‑Feng‑15 à 36 miles au large du nord de Taïwan. De août à novembre de la même année, la flotte de la mer de l’Est a déployé 59 navires pour des exercices, et l’armée de l’air a effectué 192 missions.
+À partir du 21 juillet 1995, le 2e corps d’artillerie tira six missiles Dong Feng-15 dans les eaux septante milles au large de Taïwan[^5][^10] . En août, la flotte de la mer de Chine du Nord déploya 59 navires pour des manœuvres, et l’armée de l’air effectua 192 vols[^5] .
 
-Début 1996, à l’approche de la première élection présidentielle, Pékin a intensifié ses préparatifs. De janvier à février, 100 000 troupes se sont massées le long du détroit. Le 8 mars, les missiles ont visé les eaux de Keelung et Kaohsiung. Les États‑Unis ont réagi en déployant les groupes aéronavals « Indépendant » et « Nimitz ». C’était le plus grand déploi naval américain en Asie depuis la guerre du Vietnam.
+Au début de 1996, alors que le premier scrutin présidentiel direct approchait, Pékin intensifia sa pression. Entre janvier et février, 100 000 soldats se rassemblèrent le long de la côte chinoise[^5] . Le tir de missile du 8 mars visait directement les eaux au large de Keelung et de Kaohsiung. Les États-Unis réagirent en déployant deux groupes de porte-avions, le USS Independence et le USS Nimitz. C’était le plus grand déploiement militaire américain en Asie depuis la guerre du Vietnam[^1][^10] .
 
-Le résultat était clair. Lee a remporté l’élection. Pékin a compris que son armée était largement inférieure à celle des États‑Unis. Jiang Zemin a ordonné à l’armée populaire de lancer un programme de modernisation de dix ans.
+Tout le monde sait aujourd’hui le résultat. Lee Teng-hui remporta l’élection avec 54 % des voix, avec un taux de participation de 76 %[^10] . La leçon apprise par Pékin fut : son écart avec les États-Unis était trop grand. Jiang Zemin donna l’ordre à l’armée de libération de lancer un plan de modernisation sur dix ans.
 
-## L’île déserte au cœur de la Guerre froide
+## L’île déserte pendant la guerre froide
 
-Entre la deuxième et la troisième crise du détroit, plus de trente ans de confrontation froide se sont écoulés.
+Entre la deuxième et la troisième crise du détroit de Taïwan, il y eut trente longues années de tension pendant la guerre froide.
 
-En 1971, la République de Chine a quitté l’ONU. En 1972, Nixon a visité la Chine. En 1979, les États‑Unis ont reconnu Pékin et ont rompu leurs relations avec Taipei. Taïwan s’est de plus en plus isolé sur la scène internationale, mais son économie a décollé à une vitesse fulgurante, faisant partie des « quatre tigres asiatiques ». Ces trois décennies ont été marquées par une coupure totale des relations politiques entre les deux rives, les contacts culturels ne subsistant que dans la mémoire collective.
+En 1971, la République de Chine quitta les Nations Unies. En 1972, Nixon visita la Chine. En 1979, les États-Unis établirent des relations diplomatiques avec Pékin et rompent avec Taipei. Taïwan devenait de plus en plus isolée sur la scène internationale, mais à l’intérieur, l’économie décolla à une vitesse prodigieuse, devenant l’un des « quatre petits tigres asiatiques ». Ce tiers de siècle fut une époque de complète isolation politique entre les deux rives, où seules les mémoires culturelles maintenaient les liens.
 
-En 1987, Taïwan a levé la loi martiale et a autorisé les anciens combattants à retourner dans leurs foyers. Certains étaient encore jeunes lorsqu’ils ont quitté le continent, et étaient déjà très âgés à leur retour. Une vie de quarante ans était interrompue par un détroit.
+En 1987, Taïwan leva l’état de siège. La même année, les anciens soldats furent autorisés à rendre visite à leurs familles. Certains jeunes hommes, partis en Chine à l’âge de vingt ans, revinrent des décennies plus tard, vieillis. Quarante ans de vie avaient été coupés par un détroit.
 
-En 1992, le SEF et le ARATS se sont rencontrés à Hong Kong et ont conclu ce qui est devenu connu sous le nom de « Consensus de 1992 », une formule vague. Pékin l’interprète comme « les deux parties insistent sur une Chine », Taipei comme « une Chine, deux interprétations ». Cette zone d’ambiguïté a permis aux relations inter‑détroit de se maintenir pendant vingt ans.
+En 1992, les associations de la vie civile des deux rives se rencontrèrent à Hong Kong et conclurent un accord vague qui devint plus tard connu sous le nom de « consensus des années 92 ». Pékin interpréta l’accord comme : « Les deux parties s’engagent à respecter le principe d’une seule Chine », tandis que Taïwan le comprenait comme : « Une Chine, mais chacun a sa propre interprétation ». Cet espace de flou subtil permit aux relations inter-détroit de durer pendant vingt ans.
 
-## Le Sunflower et la nouvelle identité taïwanaise
+## L’ère du printemps de la fleur et l’identité taïwanaise des nouvelles générations
 
-De 2008 à 2016, sous Ma Ying‑jeou, 23 accords ont été signés, dont le ECFA (Accord-cadre sur la coopération économique). En 2015, Ma et Xi Jinping se sont serrés la main à Singapour, première rencontre entre dirigeants des deux rives depuis 1949.
+De 2008 à 2016, sous la présidence de Ma Ying-jeou, les deux rives signèrent 23 accords, y compris l’Accord-cadre de coopération économique (ECFA). En 2015, Ma Ying-jeou et Xi Jinping se rencontrèrent à Singapour, marquant la première rencontre entre dirigeants des deux rives depuis 1949.
 
-Mais le mouvement Sunflower de 2014 a tout changé. Des étudiants ont occupé le Parlement pendant 23 jours pour s’opposer au « Service Trade Agreement ». En surface, il s’agissait d’une crainte économique ; en profondeur, la peur était que l’intégration économique entraîne la perte de souveraineté politique.
+Mais l’occupation étudiante de l’Assemblée législative en 2014, connue sous le nom de « printemps de la fleur », changa tout. Les étudiants occupèrent le siège de l’Assemblée législative pendant 24 jours pour protester contre le ratification de l’Accord sur les services commerciales. En surface, la crainte était liée à l’ouverture économique, mais la vraie inquiétude était : Taïwan perdrait-t-elle son autonomie politique face à une intégration économique ?
 
-Après le Sunflower, l’attitude de la société taïwanaise envers les relations inter‑détroit a connu une rupture générationnelle. Les sondages du Centre de recherche électorale de l’Université politique de Taïwan montrent[^6] que la proportion de personnes s’identifiant comme « Taïwanais » est passée de 17,6 % en 1992 à plus de 60 % dans les années 2020, tandis que celle s’identifiant comme « Chinois » est tombée en dessous de 3 %. La majorité continue de soutenir le « statut quo », mais la définition du « statut quo » évolue avec les générations. Pour les jeunes, le statut quo signifie que Taïwan est déjà de facto un pays indépendant.
+Après le printemps de la fleur, la société taïwanaise connaissait une fracture générationnelle dans sa perception des relations inter-détroit. Les sondages menés par le Centre d’études électorales de l’Université nationale des sciences et lettres (NTU) montrèrent que, depuis 17,6 % en 1992, la proportion de personnes s’identifiant comme « Taïwanais » augmenta continuellement pour dépasser 60 % dans les années 2020, tandis que ceux s’identifiant comme « Chinois » descendirent sous 3 %[^6] . Bien que la majorité soutînt toujours le statu quo, la définition du « statu quo » évoluait avec les générations. Pour les jeunes, le statu quo signifie que Taïwan est déjà un État indépendant en fait.
 
-## Pelosi arrive, les Taïwanais jouent au basket
+## Pelosi est arrivée, les Taïwanais jouaient au basket-ball
 
-Le soir du 2 août 2022, l’avion de la présidente de la Chambre des États‑Unis, Nancy Pelosi, a atterri à l’aéroport de Songshan à Taipei. Le journaliste de BBC Chinese, Lu Jia‑hong, a rapporté une scène qui a intrigué les médias internationaux : à côté de l’aéroport, un terrain de basket était occupé par des jeunes qui jouaient puis s’éloignaient, sans attendre la venue de la femme politique la plus puissante du monde.
+Le 2 août 2022, le soir, Nancy Pelosi, présidente de la Chambre des représentants des États-Unis, atterrit à l’aéroport de Songshan à Taïpei. Un reportage de la BBC par le journaliste Lyu Jiaxiong décrivit une scène étrange pour les médias internationaux[^2] : sur un terrain de basket-ball près de l’aéroport, les jeunes gens terminèrent leur match et partirent, sans attendre l’arrivée de la femme politique la plus puissante du monde.
 
-« Qui est Pelosi ? » ont demandé deux amis de Lu, tous deux actifs dans le secteur audiovisuel et très connectés en ligne, mais qui n’avaient jamais entendu ce nom.
+« Qui est Pelosi ? » demandèrent deux amis taïwanais, tous deux travaillant dans le secteur audiovisuel et utilisant intensément les réseaux sociaux, ignorant complètement la visite de cette figure politique féminine américaine la plus influente[^2] .
 
-Pékin a annoncé des exercices militaires autour de Taïwan, les missiles ont traversé le ciel de l’île principale pour la première fois. Les médias internationaux ont largement couvert la crainte d’une guerre dans le détroit. À Taïwan, les gens ont continué à sortir dîner, faire du shopping, regarder des séries. Zhang Jie‑ping, intellectuel installé à Taïwan après des études à Guangzhou, a écrit sur Facebook : « Le Taïwan que le monde imagine et le Taïwan vécu par les Taïwanais ne sont absolument pas le même endroit. »
+Pékin annonça des manœuvres militaires autour de Taïwan, et pour la première fois, des missiles traversèrent le ciel de Taïwan. Les médias internationaux couvrirent massivement le risque de guerre dans le détroit de Taïwan. À Taïwan, les gens sortaient normalement pour dîner, faire du shopping, regarder des séries télévisées. Zhang Jiping, une figure culturelle ayant étudié à Guangzhou puis émigré à Taïwan, écrivit sur Facebook : « En vérité, je comprends vraiment maintenant — le Taïwan que le monde imagine (c’est-à-dire le lieu le plus dangereux de la planète), et le Taïwan où vivent les Taïwanais, ce ne sont vraiment pas le même endroit »[^2] .
 
-Certains comparent la réaction taïwanaise à celle des Sud‑Coréens face aux missiles nord‑coréens : la peur existe, mais elle est devenue une habitude.
+Certains comparèrent la réaction des Taïwanais à celle des Coréens face aux missiles nord-coréens : il y avait bien de la peur, mais elle était déjà habituée.
 
-La vraie inquiétude s’est manifestée sur les marchés. La Bourse taïwanaise a chuté. Liu De‑yin, président de TSMC, a accordé une rare interview à CNN, déclarant : « Si la Chine envahit Taïwan, il n’y aura aucun gagnant, tout le monde sera perdant. »
+Cependant, la vraie angoisse se manifesta sur les marchés. La Bourse de Taïpei baissa. Le président de TSMC, Mark Liu, accepta rarement une interview avec CNN pour parler de guerre : « S’il entre dans Taïwan, la Chine ne gagnera rien — nous serons tous perdants »[^2][^8] .
 
-Après la visite de Pelosi, la pression militaire de Pékin est devenue la norme. Les avions de l’armée populaire traversent quotidiennement la ligne médiane du détroit. En 2022, près de 1 700 incursions ont été détectées, un record. Depuis, le nombre reste élevé chaque année. Les navires de la marine chinoise augmentent également leurs activités autour des eaux taïwanaises.
+Après le débarquement de Pelosi, la pression militaire de Pékin devint une routine. Les avions de l’armée de libération traversaient régulièrement la ligne médiane du détroit de Taïwan, devenant une nouvelle quotidienne. En 2022, plus de 1 700 avions militaires furent détectés se rapprochant de Taïwan, bien au-delà des records précédents. Chaque année depuis, le chiffre reste élevé. Les navires de la marine chinoise augmentèrent également leurs activités autour de Taïwan.
 
-Ces chiffres reflètent un changement fondamental : avant 2022, la ligne médiane du détroit était un espace tampon tacite ; depuis, elle a pratiquement disparu.
+Derrière ces chiffres se cache un changement fondamental : avant 2022, la ligne médiane du détroit de Taïwan était une zone tampon implicite entre les deux parties ; après, elle semblait avoir disparu.
 
-## Un blocage structurel
+## Le blocage structurel
 
-Soixante‑dix ans de crises dans le détroit suivent une chaîne logique récurrente : une partie effectue une action perçue par l’autre comme une modification du statu quo, l’autre répond par une démonstration militaire, les États‑Unis interviennent pour rétablir l’équilibre, et toutes les parties reculent d’un pas avant la guerre totale. C’est ce qui s’est passé en 1954, 1958, 1996 et, de façon similaire, en 2022.
+L’histoire des soixante-dix ans de crise dans le détroit de Taïwan suit une logique récurrente : une partie entreprend une action que l’autre perçoit comme un changement dans le statu quo, l’autre répond par une démonstration militaire, les États-Unis interviennent pour rétablir l’équilibre, et toutes les parties reculent à la limite d’une guerre totale. C’était ainsi en 1954, en 1958, en 1996, et en 2022.
 
-Cependant, les conditions qui soutiennent ce cycle changent. En 1996, la présence de deux groupes aéronavals américains pouvait faire reculer Pékin ; aujourd’hui, la capacité d’interdiction d’accès de l’armée populaire signifie que les porte‑avions américains ne peuvent plus s’approcher facilement du détroit. L’économie taïwanaise, qui dépendait fortement du continent sous Ma Ying‑jeou, diminue, mais la dépendance mondiale aux semi‑conducteurs taïwanais atteint un niveau historique. Le « contradiction du silicium » devient le nouveau bouclier de sécurité de Taïwan.
+Mais les conditions qui soutiennent ce cycle évoluent. En 1996, deux groupes de porte-avions américains suffisaient pour faire reculer Pékin. Aujourd’hui, la capacité de l’armée de libération à interdire l’accès signifie que les porte-avions américains ne peuvent plus s’approcher facilement du détroit de Taïwan. La dépendance économique de Taïwan à l’égard de la Chine continentale a baissé depuis le pic atteint sous Ma Ying-jeou, mais la dépendance mondiale à l’égard des semi-conducteurs taïwanais a atteint un niveau sans précédent. Le « bouclier de silicium » devient la nouvelle barrière de sécurité de Taïwan.
 
-Les échanges civils entre les deux rives se sont partiellement repris après la pandémie, mais la confiance continue de s’éroder. Les sondages de l’Université politique montrent clairement : l’identité taïwanaise augmente, le soutien à l’unification diminue, tandis que la volonté de Pékin d’unifier reste inchangée. Ce sont des courbes parallèles que la négociation ne peut réconcilier.
+Les échanges civils entre les deux rives ont partiellement repris après la pandémie, mais la confiance continue de se détériorer. Les sondages de l’Université nationale des sciences et lettres (NTU) le confirment : l’identité taïwanaise continue de monter, le soutien à l’unité nationale continue de baisser, tandis que la volonté de Pékin de réunifier le pays ne faiblit jamais. Ce sont deux courbes parallèles qui ne peuvent pas être réconciliées par la négociation.
 
-Lorsque Xi Jinping a présenté en 2019 le « plan de réunification sous un cadre un pays, deux systèmes pour Taïwan », la réaction taïwanaise a été presque unanimement de rejet. Le mouvement anti‑extradition de Hong Kong a encore affaibli la crédibilité de la proposition.
+Lorsque Xi Jinping proposa publiquement en 2019 le « plan d’unité d’une Chine, deux systèmes pour Taïwan », la réaction du peuple taïwanais fut presque unanime dans son rejet. L’effet de la révolte de la réforme de l’extradition à Hong Kong à ce moment-là rendit cette proposition particulièrement peu convaincante.
 
-## Les tunnels de granit de Kinmen
+## Les tunnels de granit de Jinmen
 
-Kinmen possède plus de 130 km de tunnels souterrains. Pendant la guerre d’artillerie de 823, les habitants s’y réfugiaient, accouchaient, célébraient des mariages. Après la levée du régime de guerre, les tunnels sont devenus des attractions touristiques. Les guides accompagnent des visiteurs de Taïwan et de Chine continentale, traversent les anciens emplacements d’obus et lisent les slogans gravés sur les murs.
+Sous la surface de Jinmen, des tunnels ont été creusés dans le granit. Pendant les années de gestion militaire après la bataille de 1958, l’île était parsemée de tunnels de défense, du tunnel de Zhishan aux tunnels de Qionglin et Jin Cheng, creusés à la main par les soldats et les miliciens. Les habitants s’y réfugiaient pour se protéger des obus et des bombardements aériens. Après la fin de la gestion militaire, ces tunnels devinrent des sites touristiques. Les guides accompagnent des visiteurs venus de Taïwan et de Chine continentale, visitant les endroits où les obus étaient stockés, lisant les slogans muraux gravés dans le granit.
 
-Depuis l’ouverture du « petit 3 » en 2001, les Kinmenais peuvent prendre le ferry pour Xiamen. Ils y boivent du café, achètent des produits de première nécessité, font du commerce. Certains ont de la famille de l’autre côté du détroit. La côte de Xiamen se trouve à seulement 2,1 km de Kinmen ; par temps clair, les immeubles sont visibles à l’œil nu.
+Après l’ouverture des trois liaisons en 2001, les habitants de Jinmen pouvaient prendre un bateau pour aller à Xiamen. Ils y allaient boire du café, faire des courses, faire des affaires. Certains membres de leur famille vivaient juste en face, du côté où tombaient les obus. La distance entre le cap de Ma Shan à Jinmen et le cap de Jiugong est d’environ 1,8 kilomètre. Par temps clair, on peut voir les gratte-ciels de l’autre côté à l’œil nu.
 
-En août 2022, lors d’exercices de missiles chinois autour de Taïwan, quelques roquettes sont tombées dans les eaux économiques exclusives du Japon. La vie quotidienne à Kinmen n’a guère changé. Le « Wind Lion », statue emblématique de l’île, garde toujours le poste, les boutiques hors taxes restent ouvertes. En soixante‑dix ans, les Kinmenais connaissent mieux que quiconque l’apparence d’une guerre et sont les plus habiles à vivre sous la menace.
+En août 2022, pendant que l’armée de libération tirait des missiles dans l’océan autour de Taïwan, quelques-uns atterrirent dans la zone économique exclusive du Japon. La vie quotidienne à Jinmen ne changea pas beaucoup. Les fameux « gardiens du vent » en pierre de granit continuaient de veiller aux carrefours, et les magasins de tabac à taxes réduites continuaient à fonctionner. Depuis soixante-dix ans, les habitants de Jinmen comprennent mieux que quiconque à quoi ressemble la guerre, et ils sont plus habitués que quiconque à vivre sous la menace.
 
-Les éclats d’obus des tunnels de granit ont été récupérés par des forgerons locaux pour fabriquer des couteaux de cuisine. Le « couteau de Kinmen » est devenu une spécialité touristique : acier de haute qualité, réputé plus tranchant et plus durable que les couteaux ordinaires. Les obus se sont transformés en outils de coupe.
+Les éclats de missiles conservés dans les tunnels de granit furent ensuite rapportés aux forgerons de Jinmen pour fabriquer des couteaux de cuisine. Le « couteau de cuisine de Jinmen » devint un produit touristique local, apprécié pour sa qualité en acier et sa dureté, réputé pour être plus tranchant et plus durable que les couteaux ordinaires. Les obus de guerre avaient été transformés en outils de cuisine.
 
-**Lectures complémentaires** :
+**Lecture complémentaire** :
 
-- [造山者：世紀的賭注](/fr/art/mountain-makers-tsmc-documentary) — Xiao Ju‑zheng, documentaire 2025, interviews de plus de 80 pionniers des semi‑conducteurs, 2026 visite des pôles d’investissement CHIPS Act aux États‑Unis
-- [Défense et modernisation militaire de Taïwan](/fr/society/taiwan-defense-modernization) — De la stratégie « Porc‑épine » aux chars M1A2T, les transformations fondamentales après trois crises du détroit
-- [Les pays diplomatiques de Taïwan et la diplomatie internationale](/fr/society/taiwan-diplomatic-allies-and-international-relations) — Au‑delà de la confrontation militaire, une autre ligne de front : comment Taïwan cherche sa place dans le système international
-- [Rencontre 2026 entre Zheng Xi et Xi Jinping](/fr/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — Le dernier chapitre de soixante‑dix ans d’interaction inter‑détroit : le président du KMT rencontre Xi à Pékin pendant dix minutes
-- [Ma Ying-jeou](/fr/people/ma-ying-jeou-cross-strait-reconciliation-leader) — La poignée de main de 80 secondes à Singapour le 7/11/2015, la signature de l’ECFA, les deux voyages en Chine en 2023 et 2024 : un dirigeant de la période dorée des relations inter‑détroit et les controverses post‑mandat
-- [Teresa Teng](/fr/people/teresa-teng) — Un autre champ de bataille du soft power pendant la Guerre froide : sa voix a traversé le continent, 1989 elle porte un badge « anti‑régime militaire », 1991 elle crie depuis le poste d’observation de Ma Shan
-- [Résolution sur l’avenir de Taïwan](/fr/history/resolution-on-taiwans-future) — La crise de 1996 a accéléré la transformation pragmatique du DPP ; trois ans plus tard, elle a engendré ce document définissant la position inter‑détroit pendant vingt‑sept ans
+- [Les fondateurs : Le pari du siècle](/fr/art/mountain-makers-tsmc-documentary) — Xiao Juzhen, documentaire de 2025, cinq ans d’interviews avec plus de 80 anciens ingénieurs en semi-conducteurs, se rendant dans les villes de Carnegie Mellon, University of Wisconsin, University of Michigan, cœur du CHIPS Act en 2026
 
-## Références
+- [Défense nationale et modernisation militaire de Taïwan](/fr/society/taiwan-defense-modernization) — De la stratégie du « porc épais » aux chars M1A2T, les transformations fondamentales de la logique de défense de Taïwan après trois crises du détroit de Taïwan
+- [Les États amis de Taïwan et la diplomatie internationale](/fr/society/taiwan-diplomatic-allies-and-international-relations) — Une autre frontière au-delà de la confrontation militaire : comment Taïwan trouve sa place dans le système international
+- [Le sommet de Zheng-Xi en 2026 : Dix minutes pour une rencontre décennale entre dirigeants nationaux](/fr/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — Dernier chapitre de l’histoire des interactions inter-détroit sur soixante-dix ans : le président du parti nationaliste rencontre Xi Jinping à Pékin
+- [Ma Ying-jeou](/fr/people/ma-ying-jeou-cross-strait-reconciliation-leader) — Le handshake de 80 secondes à Singapour en 2015, la signature de l’ECFA, les deux visites à Pékin en 2023 et 2024, et le dirigeant controversé après son mandat
+- [Deng Lijun](/fr/people/teresa-teng) — Un autre champ de bataille de la puissance douce de la guerre froide : sa voix a pénétré la Chine continentale, elle a porté un badge anti-militaire lors de la course de chevaux de 1989, et a crié un message à la Chine continentale depuis l’observatoire de Ma Shan en 1991
+- [La résolution sur l’avenir de Taïwan](/fr/history/resolution-on-taiwans-future) — La crise du détroit de Taïwan en 1996 accéléra la transformation pragmatique du Parti démocrate progressiste ; trois ans plus tard, cette résolution définissait la position des deux rives de Taïwan pendant vingt-sept ans
 
-[^1]: BBC 中文 (2022), « Taiwan Strait crises – a review », https://www.bbc.com/zhongwen/trad/chinese-news-53834569
+## Sources
 
-[^2]: BBC 中文 (2022), « Pelosi’s Taiwan visit: why Taiwanese aren’t nervous », https://www.bbc.com/zhongwen/trad/chinese-news-62402927
+[^1]: BBC Chinese (2022), « Résumé des crises du détroit de Taïwan », https://www.bbc.com/zhongwen/trad/chinese-news-53834569
 
-[^3]: Wikipédia, « Battle of Yijiangshan Island », https://zh.wikipedia.org/wiki/%E4%B8%80%E6%B1%9F%E5%B1%B1%E5%B3%B6%E6%88%B0%E5%BD%B9
+[^2]: BBC Chinese (2022), « Analyse de la visite de Pelosi à Taïwan : la tension s’intensifie, pourquoi les Taïwanais ne sont-ils pas inquiets ? », https://www.bbc.com/zhongwen/trad/chinese-news-62402927
 
-[^4]: Wikipédia, « Kinmen artillery battle », https://zh.wikipedia.org/wiki/%E9%87%91%E9%96%80%E7%A0%B2%E6%88%B0
+[^3]: Wikipédia, « Bataille de l’île Yijiangshan », https://zh.wikipedia.org/wiki/%E4%B8%80%E6%B1%9F%E5%B1%B1%E5%B3%B6%E6%88%B0%E5%BD%B9
+
+[^4]: Wikipédia, « Bombardement de Jinmen », https://zh.wikipedia.org/wiki/%E9%87%91%E9%96%80%E7%A0%B2%E6%88%B0
 
 [^5]: Wikipedia, "Third Taiwan Strait Crisis," https://en.wikipedia.org/wiki/Third_Taiwan_Strait_Crisis
 
-[^6]: Centre de recherche électorale, Université politique de Taïwan, « Trends in Taiwanese vs. Chinese identity », https://esc.nccu.edu.tw/PageDoc/Detail?fid=7800&id=6960
+[^6]: Centre d’études électorales de l’Université nationale des sciences et lettres (NTU), « Tendances d’identité Taïwan/Chine parmi les Taïwanais », https://esc.nccu.edu.tw/PageDoc/Detail?fid=7800&id=6960
 
-[^7]: 天下雜誌 (2022), « 1996 Taiwan Strait crisis witness Zhang Rong‑feng », https://www.cw.com.tw/article/5122255
+[^7]: Magazine de l’hebdomadaire « China Times » (2022), « Témoignage de Zhang Rongfeng, témoin de la crise du détroit de Taïwan en 1996 », https://www.cw.com.tw/article/5122255
 
-[^8]: CNN (2022), "TSMC Chairman Mark Liu Interview," https://edition.cnn.com/videos/tv/2022/07/31/exp-731-taiwan-tech-mark-liu-tsmc.cnn
+[^8]: CNN (2022), "Interview exclusive de Mark Liu, président de TSMC," https://edition.cnn.com/videos/tv/2022/07/31/exp-731-taiwan-tech-mark-liu-tsmc.cnn
 
-[^9]: Su Qi (2014), 《兩岸波濤二十年紀實》, 天下文化, https://www.books.com.tw/products/0010831375
+[^9]: Su Qi (2014), _Vingt ans de vagues inter-détroit_, éditions China Times Culture, https://www.books.com.tw/products/0010831375
+
+[^10]: Wikipédia, « Crise des missiles dans le détroit de Taïwan », https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E6%B5%B7%E5%B3%BD%E9%A3%9B%E5%BD%88%E5%8D%B1%E6%A9%9F
+
+[^11]: Bureau présidentiel (10 juin 1995), « Discours de Lee Teng-hui à l’université de Cornell, intitulé : Ce que le peuple désire, je le partage dans mon cœur », https://www.president.gov.tw/NEWS/22622
+
+```
+
+```

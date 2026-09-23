@@ -1,17 +1,17 @@
 ---
-title: "Systèmes fluviaux et caractéristiques hydrologiques de Taïwan : géographie hydrologique des cours d'eau courts, rapides et saisonniers"
-description: "Explorez les systèmes fluviaux uniques de Taïwan, du bassin de la rivière Zhuoshui à celui de la rivière Gaoping, pour comprendre comment la topographie de l'île façonne ses caractéristiques hydrologiques."
+title: "Système fluvial et caractéristiques hydrologiques de Taïwan : géographie hydrique des cours d'eau rapides et du changement saisonnier"
+description: 'Exploration du système fluvial unique de Taïwan, de la rivière Tsuchi à la rivière Gao Píng, pour comprendre comment le relief insulaire façonne ses particularités hydriques.'
 date: 2026-03-18
 category: 'Geography'
 tags:
   [
-    'Géographie',
-    'Rivières',
-    'Hydrologie',
-    'Rivière Zhuoshui',
-    'Rivière Gaoping',
-    'Rivière Tamsui',
-    'Ressources en eau',
+    'géographie',
+    'fleuve',
+    'hydrologie',
+    'rivière Tsuchi',
+    'rivière Gao Píng',
+    'rivière Tamise',
+    'ressources en eau',
   ]
 subcategory: '水文與水資源'
 author: 'Taiwan.md'
@@ -20,303 +20,332 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 readingTime: 11
 translatedFrom: 'Geography/台灣河川系統與水文特色.md'
-sourceCommitSha: '70372d3a0'
-sourceContentHash: 'sha256:8df5b8e9967c9dc4'
-sourceBodyHash: 'sha256:8b2b2e4c01c9feb3'
-translatedAt: '2026-07-27T03:39:57+08:00'
+sourceCommitSha: 'ff1ce7d66'
+sourceContentHash: 'sha256:f2ac5aec701df4d2'
+sourceBodyHash: 'sha256:4cdc3e89f08b13d3'
+translatedAt: '2026-09-23T22:11:52+08:00'
 ---
 
-# Systèmes fluvialots et caractéristiques hydrologiques de Taïwan : géographie hydrologique des cours d'eau courts, rapides et saisonniers
+# Système fluvial et caractéristiques hydrologiques de Taïwan : géographie hydrique des cours d'eau rapides et du changement saisonnier
 
-## Aperçu en 30 secondes
+## Aperçu rapide (30 secondes)
 
-La forme allongée de l'île et la position orientale de ses chaînes de montagnes créent un profil fluvial typique à Taïwan : « **des cours d'eau courts et rapides, avec une division est-ouest** ». La **rivière Zhuoshui** (186,6 km) est la plus longue du pays, le bassin de la **rivorb Gaoping** possède la plus grande superficie (3 257 km²), tandis que la **rivière Tamsui** relie les quatre siècles d'histoire du développement du grand bassin de Taipei. Les rivières de Taïwan présentent une configuration géographique où « l'ouest est long et l'est est court, avec des pentes raides et des courants rapides », constituant à la fois une ressource hydroélectrique et une source de pression par les inondations lors des typhons.
+L'insularité étroite, avec les montagnes orientées vers l'Est, a donné à Taïwan le profil typique de « **cours d'eau courts et rapides, drainage Est-Ouest** ». La rivière Tsuchi (186,6 km) est la plus longue du pays ; le bassin de la rivière Gao Píng est le plus vaste (3 257 km²) [^1] ; tandis que la rivière Tamise a accompagné l'histoire de développement du grand Bassin de Taipei sur quatre siècles. Le paysage fluvial de Taïwan est caractérisé par une configuration « longue à l'Ouest et courte à l'Est, pentes raides et cours d'eau rapides », ce qui permet à la fois le stockage des ressources en eau et génère des pressions d'inondation lors des typhons.
 
-Sur les 129 rivières gérées par le gouvernement central à Taïwan, la plupart mesurent moins de 50 km, mais présentent une pente moyenne supérieure à 1/100 — soit des pentes des dizaines de fois plus abruptes que celles des grands fleuves européens.
+Il existe 118 systèmes fluviaux au niveau de la municipalité ou plus dans tout le pays, dont 24 gérés par l'État [^7] ; la plupart des rivières font moins de 50 km de long, mais leur pente est souvent supérieure à 1/100, ce qui les rend des dizaines de fois plus escarpées que les grands fleuves européens.
 
-Lors de chaque typhon, le débit des rivières taïwanaises peut être multiplié par cent en 24 heures avant de chuter brutalement ; ce rythme extrême façonne le paysage hydrologique unique et la culture de prévention des crues de Taïwan.
+Lors d'un typhon, le débit des cours d'eau de Taïwan peut augmenter d'un centuple en 24 heures avant de chuter brusquement. Ce rythme extrême façonne un paysage hydrologique et une culture de prévention des inondations uniques à Taïwan.
 
-Mots-clés : cours d'eau courts et rapides, division est-ouest, variations saisonnières, rivières de type torrentueux, ressources hydroélectriques, ligne de partage des eaux.
+Mots-clés : cours d'eau rapides, drainage Est-Ouest, variation saisonnière, rivières arides, ressources hydrauliques, bassin versant
 
 ## Pourquoi est-ce important ?
 
-Taïwan compte 129 rivières sous gestion centrale. La rivière Zhuoshui a formé par alluvionnement la plaine de Changhua, devenue une zone d'excellence pour la production rizicole. La rivière Tamsui a permis l'éclosion du bassin de Taipei, établissant son centre politique et économique. Le réservoir de Deji sur la rivière Dajia fournit l'eau industrielle au centre du pays. L'irrigation agricole, l'approvisionnement urbain, l'hydroélectricité et les corridors écologiques coexistent, formant le réseau vital de la survie de l'île.
+Taïwan compte 24 rivières gérées par l'État et 92 rivières municipales [^7]. La rivière Tsuchi a formé la plaine de Changhua, qui est une zone d'excellence pour la production de riz. La rivière Tamise a façonné le Bassin de Taipei, jetant les bases du centre politique et économique. Le réservoir de Deji sur la rivière Dajia fournit l'eau industrielle au centre. L'agriculture par irrigation fluviale, l'approvisionnement en eau urbain, la production d'énergie hydroélectrique et les corridors écologiques fonctionnent parallèlement, constituant le réseau fondamental de la survie insulaire.
 
-Les rivières sont également la principale source de catastrophes naturelles à Taïwan. Le débit augmente de plusieurs centaines de fois pendant les typhons ; l'écart annuel entre la saison des hautes eaux et la saison sèche (les précipitations de mai à octobre représentent 78 % du total annuel) a contraint Taïwan à construire un vaste système de réservoirs, tels que Zengwen, Feicui et Shimen.
+Les rivières sont également la principale source de catastrophes naturelles à Taïwan. Le débit augmente de plusieurs centaines de fois pendant les typhons, et l'écart entre les saisons humides et sèches (septembre-octobre représentant 78 % des précipitations annuelles) oblige Taïwan à construire des systèmes de réservoirs majeurs comme Zengwen, Hsinchu et Shimen.
 
-Comprendre le caractère court et rapide des rivières de Taiment, c'est comprendre comment cette île doit faire face simultanément à la double pression de l'abondance et de la pénurie d'eau.
+Comprendre la nature rapide et courte des rivières de Taïwan, c'est comprendre comment cette île fait face simultanément aux pressions du surplus et du manque d'eau.
 
 ## Caractéristiques fondamentales des rivières de Taïwan
 
-Les caractéristiques des rivières de Taïwan sont directement déterminées par la topographie : l'orientation orientale de la chaîne centrale entraîne une asymétrie des réseaux hydrographiques est-ouest, la jeunesse des couches rocheuses provoque une forte érosion du lit, et l'étroitesse de l'île limite la longueur des cours d'eau. La superposition de ces trois facteurs géographiques crée un type de « rivières courtes à haute énergie », rare dans le monde.
+Les caractéristiques des rivières de Taïwan sont directement déterminées par le relief : la chaîne centrale orientée vers l'Est entraîne une asymétrie entre les systèmes Est et Ouest ; les couches rocheuses étant jeunes, l'érosion du lit est intense ; et la forme étroite de l'île limite la longueur des cours d'eau. Ces trois facteurs géographiques combinés créent un type de « rivière à haute énergie » rare au monde.
 
-### Le déterminisme topographique : dialogue entre montagnes et rivières
+### Déterminisme topographique : le dialogue entre montagnes et rivières
 
-**Configuration de division est-ouest :**
-Le système fluvial de Taïwan utilise principalement la chaîne centrale comme ligne de partage des eaux, présentant une nette caractéristique de division est-ouest. Les bassins versants de l'ouest sont plus vastes avec des cônes de déjection développés. À l'est, les rivières présentent des pentes raides et de nombreux canyons, leur longueur étant généralement inférieure à 60 km.
+**Configuration du drainage Est-Ouest :**
+Le système fluvial de Taïwan est principalement divisé par la chaîne centrale, présentant une nette caractéristique de drainage Est-Ouest. Les bassins versants occidentaux sont plus grands et les deltas alluviaux sont développés. Les cours d'eau orientés vers l'Est présentent des vallées escarpées et sont généralement courts, avec moins de 60 km.
 
-- **Rivières de l'ouest** : plus longues, bassins versants plus larges, cônes de déjection développés.
-- **Rivières de l'est** : courtes et rapides, pentes raides, topographie de canyons.
+- **Rivières de l'Ouest** : Plus longues, bassins plus grands, deltas alluviaux développés
+- **Rivières de l'Est** : Courtes et rapides, pentes raides, nombreuses vallées encaissées
 
-Données représentatives des rivières de Taïwan :
+Les chiffres représentatifs des rivières dans tout le pays sont les suivants :
 
-- Nombre total de rivières gérées par le gouvernement central : 1lam 129.
-- Rivière la plus longue : rivière Zhuoshui (186,6 km).
-- Deuxième plus longue : rivière Gaoping (171 km).
-- Troisième plus longue : rivière Tamsui (158,7 km, incluant les affluents).
+- Nombre total de systèmes au niveau municipal ou supérieur : 118 (24 gérés par l'État, 2 inter-provinciaux, 92 municipaux) [^7]
+- Rivière la plus longue : Tsuchi (186,6 km) [^1]
+- Deuxième plus longue : Gao Píng (171,0 km) [^1]
+- Troisième plus longue : Tamise (158,7 km) [^1]
 
-### Caractéristiques physiques des « cours d'eau courts et rapides »
+### Caractéristiques physiques des « cours d'eau rapides »
 
-**Courtes et puissantes :**
+**Compact et vif :**
 
-- La partie la plus large de l'île de Taïwan ne mesure que 144 km.
-- La plupart des rivières mesurent moins de 50 km.
-- Les pentes sont abruptes, avec une pente moyenne supérieure à 1/100.
+- La largeur maximale de l'île est de seulement 144 km Est-Ouest.
+- La plupart des rivières font moins de 50 km.
+- Les pentes fluviales sont raides, avec une pente moyenne supérieure à 1/100.
 
-**Débit rapide et force hydraulique :**
+**Rapide et puissant :**
 
-- Grand potentiel hydroélectrique, la capacité installée du bassin de la rivière Dajia dépasse 1 million de kW.
-- Forte capacité d'érosion, transportant une grande quantité de sédiments.
-- Vitesse de courant élevée, mais peu propice au développement de la navigation.
+- Grand potentiel hydroélectrique ; la capacité installée du bassin de Dajia dépasse 1 million de tonnes (瓩).
+- Forte force érosive, transportant de grandes quantités de sédiments.
+- Vitesse rapide, mais défavorable au développement maritime.
 
 ### Variations saisonnières extrêmes
 
 **Saison des pluies vs Saison sèche :**
 
-- Été (mai à octobre) : précipitations abondantes, montée brutale du niveau des eaux.
-- Hiver (novembre à avril) : précipitations rares, certains segments s'assèchent.
-- Les rivières du centre et du sud sont souvent de type « torrentueux », s'asséchant fréquemment en hiver.
+- Été (mai-octobre) : Pluies abondantes, montée spectaculaire du niveau des rivières.
+- Hiver (novembre-avril) : Peu de précipitations, assèchement de certains tronçons.
+- Les rivières du centre et du sud sont souvent de type « aride », avec des périodes d'étiage fréquentes en hiver.
 
-**Effet des typhons :**
+**Effet typhonique :**
 
-- Le débit peut atteindre des centaines de fois le débit normal pendant un typhon.
-- Augmentation et chute soudaines, risque élevé d'inondations.
-- Redistribution massive des sédiments.
+- Le débit peut atteindre plusieurs centaines de fois le niveau normal pendant un typhon.
+- Augmentation et diminution soudaines, risque élevé d'inondation.
+- Redistribution massive de sédiments.
 
 ## Les trois grands systèmes fluviaux
 
-### Rivière Zhuoshui : la plus longue rivière de Taïwan
+### Rivière Tsuchi : la plus longue de Taïwan
 
 **Données de base :**
 
-- Longueur totale : 186,6 km.
-- Superficie du bassin versant : 3 157 km².
-- Source : entre le sommet principal du mont Hehuanshan et le sommet Dongfeng dans la chaîne centrale.
-- Embouchure : entre Dacheng (Changhua) et Mailiao (Yunlin).
+- Longueur totale : 186,6 km [^1]
+- Superficie du bassin versant : 3 157 km² [^1]
+- Source : entre le pic principal de Hanoushan et Dongfeng dans la chaîne centrale [^2]
+- Exutoire : entre Dachenghua et Mailiao, Changhua et Yunlin
 
 **Caractéristiques géographiques :**
-La rivière Zhuoshui porte bien son nom, car elle présente un aspect trouble en raison du transport massif de sédiments. Ce cours d'eau relie la géographie et l'humanité du centre de Taïwan :
+La rivière Tsuchi est à la hauteur de son nom ; elle est trouble en raison du transport de grandes quantités de sédiments. Cette rivière relie la géographie et l'histoire humaine du centre de Taïwan :
 
-- **Amont** : canyons de haute montagne, territoires traditionnels des peuples Atayal et Seediq.
-- **Milieu** : barrage de Jiji, ouvrage hydraulique crucial fournissant plus de 1,4 milliard de tonnes d'eau par an.
-- **Aval** : formation de la plaine de Changhua, l'une des plus grandes zones rizicoles de Taïwan.
+- **Amont** : Vallées montagneuses, territoires traditionnels des peuples Tayag et Sedek
+- **Milieu** : Barrage de Jiji, qui prélève environ 2 milliards de mètres cubes par an. C'est la plus grande installation hydraulique du pays en termes d'extraction d'eau, alimentant l'irrigation, les besoins vitaux et l'industrie de Liuqing à Changhua et Yunlin [^8].
+- **Aval** : Formation de la plaine de Changhua par sédimentation, l'une des plus grandes zones de production de riz du pays.
 
-**Importance culturelle :**
+**Signification humaine :**
 
-- A permis le développement de la civilisation agricole de la plaine de Changhua.
-- La ligne ferroviaire Jiji a été construite le long de la rivière Zhuoshui.
-- Le riz de la rivière Zhuoshui est célèbre dans tout le pays pour la qualité de son eau.
+- Elle a façonné le patrimoine agricole de la plaine de Changhua.
+- Le chemin de fer Jiji est construit le long de la rivière Tsuchi.
+- Le riz de Tsuchi est réputé dans tout le pays pour sa source d'eau de qualité.
 
 **Valeur écologique :**
-L'embouchure de la rivière Zhuoshui attire chaque année des dizaines de milliers d'oiseaux migrateurs pour l'hiver, notamment les ibis à face noire et diverses espèces d'échus. Les zones humides de l'embouchure, reliées à la côte de Changhua, constituent un nœud crucial du corridor migratoire de la côte ouest.
+L'embouchure de la rivière Tsuchi attire des dizaines de milliers d'oiseaux migrateurs chaque année, y compris les aigrettes à bec noir et diverses espèces de limicoles. Le marais de l'embouchure est un point clé du corridor migratoire côtier occidental.
 
-### Rivière Gaoping : la ligne de vie du sud de Taïwan
+### Rivière Gao Píng : la ligne de vie du sud de Taïwan
 
 **Données de base :**
 
-- Longueur totale : 171 km.
-- Superficie du bassin versant : 3 257 km² (la plus grande de Taïwan).
-- Affluents principaux : rivière Qishan, rivière Meinong, rivière Laonong.
-- Population desservie : environ 2,6 millions de personnes.
+- Longueur totale : 171,0 km [^1]
+- Superficie du bassin versant : 3 257 km² (la plus grande de Taïwan) [^1]
+- Affluents principaux : rivière Laonong (incluant Tsuchoku), rivière Qishan (incluant Meinong), rivière Ailiao [^9]
 
 **Importance des ressources en eau :**
-La rivière Gaoping est la principale source d'eau du sud de Taïlam :
+La rivière Gao Píng est la principale source d'eau du sud de Taïwan :
 
-- Fournit environ 70 % de l'eau de la zone métropolitaine de Kaohsiung (variable selon l'année).
-- Le système formé par les rivières Zengwen et Gaoping soutient le développement industriel du sud.
-- Les rivières de la ville de Kaohsiung, comme la rivière Love (Ai He) et la rivière Qianzhen, proviennent toutes du réseau de la rivière Gaoping.
+- Le barrage de Gao Píng prélève en moyenne 1 à 1,1 million de mètres cubes par jour, représentant environ 70 % de la consommation quotidienne du grand Kaohsiung [^10].
+- Les systèmes Zengwen et Gao Píng soutiennent le développement industriel du sud de Taïwan.
+- Les rivières urbaines comme l'Aihe et la rivière Qianzhen à Kaohsiung sont des systèmes indépendants, l'Aihe prenant sa source dans la région de Renwu Bagualiao et n'appartenant pas au bassin de Gao Píng [^11].
 
 **Paysage culturel :**
 
-- **Plaine de Meinong** : les communautés Hakka y préservent les méthodes traditionnelles de culture du tabac et l'artisanat des ombrelles en papier.
-- **Vieille rue de Qishan** : témoin historique de l'industrie de la banane.
-- **Sources thermales de Liugui** : station thermale située sur les rives de la rivière Laonong.
+- **Plaine de Meinong** : Les communautés Hakka conservent les méthodes traditionnelles de culture du tabac et l'art des parasols en papier.
+- **Vieille rue Qishan** : Témoignage de l'industrie du bananier.
+- **Source thermale Liuqi** : Un lieu thermal situé le long de la rivière Laonong.
 
 **Défis et opportunités :**
 
-- Écart extrême entre saison des hautes et basses eaux, nécessitant une régulation par réservoirs.
-- Équilibre entre pollution industrielle et usage domestique.
-  ance entre développement du bassin versant et protection écologique.
+- Grande variation entre les saisons humides et sèches, nécessitant une régulation par des réservoirs.
+- Équilibre entre la pollution industrielle et l'approvisionnement en eau domestique.
+- Arbitrage entre le développement du bassin versant et la protection de l'environnement.
 
-### Rivière Tamsui : la rivière mère du nord de Taïwan
+### Rivière Tamise : la mère rivière du nord de Taïwan
 
 **Données de base :**
 
-- Longueur du cours principal : 158,7 km (incluant le système d'affluents).
-- Superficie du bassin versant : 2 726 km².
-- Affluents principaux : rivière Keelung, rivière Xindian, rivière Dahan.
+- Longueur principale : 158,7 km [^1]
+- Superficie du bassin versant : 2 726 km² [^1]
+- Affluents principaux : rivières Keelung, Xindian et Dahan
 
-La rivière Tamsui est témoin de près de 400 ans d'histoire de Taïwan : en 1624, les Hollandais sont entrés à Taïwan via l'embouchure de la rivière Tamsui ; en 1709, les migrants chinois ont colonisé massivement le bassin de Taipei. La prospérité de l'époque, résumée par l'expression « un gouvernement, deux cerfs, trois Mengjia », reposait sur le transport fluvial. Après l'occupation japonaise en 1895, la modernisation du port de Tamsui a stimulé l'industrialisation du nord de Taïtan. Après la guerre, la zone métropolitaine de Taipei s'est étendue le long du réseau de la rivière Tamsui, devenant le centre politique et économique actuel.
+La rivière Tamise témoigne de l'histoire de Taïwan sur près de 400 ans : en 1629, les Espagnols ont construit la ville de San Dominggo sur la rive nord de la rivière Tamise ; en 1642, les Néerlandais reprennent et reconstruisent le fort d'Antonio, aujourd'hui connu sous le nom de Fort Hongmao [^12] ; en 1709, les colons Chen Lai-zhang pénètrent dans le Bassin de Taipei, et la prospérité du « gouvernement, deux cerfs et trois Mangxia » est établie sur cette base fluviale. Au début de la période coloniale japonaise, le port de Tamise était une porte d'entrée pour le commerce transfrontalier, mais avec le lancement du projet de construction du port de Keelung en 1899, le port de Tamise a progressivement décliné [^13]. Après la guerre, la zone métropolitaine de Taipei s'est étendue le long du système de la rivière Tamise, devenant aujourd'hui un centre politique et économique.
 
-**Développement urbain et rivières :**
+**Développement urbain et rivière :**
 
-- **Bassin de Taipei** : formé par l'alluvionnement de la rivière Tamsui, devenu le centre politique et économique.
-- **Parcs riverains** : corridors verts urbains, espaces de loisirs pour les citoyens.
-- **Paysage des berges** : la ligne d'horizon allant de Bali et Tamsui à Guandu.
+- **Bassin de Taipei** : Formé par les alluvions de la rivière Tamise, il est devenu le centre politique et économique.
+- **Parc riverain** : Un corridor vert urbain, un espace de loisirs pour les citoyens.
+- **Paysage fluvial** : La ligne d'horizon allant de Bali à Tamsui en passant par Guandu.
 
-**Changements environnementaux :**
+**Changement environnemental :**
 
-- Années 1970-1980 : pollution industrielle grave, surnommée le « fleuve noir ».
-- Depuis les années 1990 : le gouvernement a lancé l'assainissement du système de la rivière Tamsui et le traitement des eaux usées.
-- Depuis les années 2010 : la restauration écologique porte ses fruits, avec le retour des aigrettes et des bergeronnes sur les berges.
+- Milieu des années 1980 : Les eaux de la rivière Tamise sont devenues un égout dans la plupart des tronçons en raison des rejets industriels et domestiques, gagnant le surnom de « fleuve du Yangtsé noir » [^14].
+- À partir de 1988 : Le projet préliminaire d'assainissement du système de la rivière Tamise commence, avec l'installation de stations de interception des eaux usées claires sur les rivières Keelung et Tamise [^14].
+- Après les années 2010 : La restauration écologique montre des résultats, avec le retour des aigrettes et des hérons blancs le long des berges.
 
 ## Autres rivières importantes
 
-Outre les trois grands systèmes, Taïwan possède des dizaines de rivières de taille moyenne ayant chacune une importance géographique et culturelle. Les rivières de l'est sont raides et rapides, tandis que celles de l'ouest et du centre remplissent souvent des fonctions d'irrigation et d'hydroélectricité.
+Outre les trois grands systèmes, Taïwan compte des dizaines de rivières de taille moyenne, chacune ayant une signification géographique et culturelle. Les rivières du Nord sont rapides et escarpées ; celles du centre et de l'Ouest ont souvent à la fois des fonctions d'irrigation et de production hydroélectrique.
 
-Les trois rivières de l'est — la rivière Hualien, la rivière Xiuguluan et la rivière Beinan — traversent la vallée de Hualien-Taitung ; bien que chacune mesure moins de 100 km, elles portent les cultures de festivals fluviaux des peuples Amis, Paiwan et Beinan.
+Les rivières Hualien, Xiugulan, et Bainan traversent respectivement les sections nord, centrale et sud de la vallée longitudinale de Hualien. Chacune fait moins de 100 km de long [^1], mais elles portent le patrimoine des rituels fluviaux des peuples Amis, Paiwan et Bainan.
 
-Dans le centre, les rivières Dajia, Wu et Da'an constituent les artères vitales des ressources en eau de Miaoli à Taichung, formant l'ossature hydrique du pays.
+Les rivières Dajia, Wu, et Dan dans le centre sont les artères vitales en ressources pour la région de Miaoli à Taichung, formant ensemble l'ossature des ressources en eau du pays.
 
-### Rivières de l'est : courtes, rapides et escarpées
+### Rivières du Nord : rapides et élégantes
 
 **Rivière Hualien :**
 
-- La plus longue rivière de l'est (57 km).
-- Traverse les chaînes centrale et côtière, formant la vallée de Hualien-Taitung.
-- Lit large, principale source d'irrigation pour la plaine de Hualement.
+- Longueur : 57,3 km, superficie du bassin versant : 1 507 km² [^1] (la plus longue du Nord est la rivière Bainan, 84,4 km).
+- Elle coule au nord le long de la partie nord de la vallée longitudinale de Hualien et se jette dans la mer au sud de la ville de Hualien.
+- Le lit est large, c'est une source d'irrigation principale pour la plaine de Hualien.
 
-**Rivière Xiuguluan :**
+**Rivière Xiugulan :**
 
-- Seule rivière de Taïwan traversant transversalement la chaîne côtière.
-- Lieu prisé pour le rafting.
-- L'embouchure forme une zone de mélange de marées, présentant une grande biodiversité piscicole.
+- Longueur : 81,2 km [^1], c'est le seul fleuve de Taïwan à traverser les montagnes côtières.
+- C'est un lieu populaire pour les activités de kayak.
+- L'embouchure forme une zone de mélange des marées, avec une grande diversité d'espèces de poissons.
 
-**Rivière Beinan :**
+**Rivière Bainan :**
 
-- La rivière mère de la plaine de Taitung.
-- Topographie de terrasses développée, riche en sites culturels préhistoriques.
-- Témoin important de la culture Beinan.
+- Longueur : 84,4 km, la plus longue du Nord [^1], mère rivière de la plaine de Taitung.
+- Elle possède un relief de terrasses développé et est riche en sites archéologiques anciens.
+- Témoignage important de la culture Bainan.
 
 ### Rivières du centre : piliers du développement industriel
 
 **Rivière Dajia :**
 
-- Rivière hydroélectrique majeure du centre.
-- Ouvrages hydrauliques importants comme le réservoir de Degi et le barrage de Qingshan.
+- Rivière hydraulique importante du centre.
+- Projets hydrauliques importants comme le réservoir de Deji et le barrage de Qingshan.
 - Soutient le développement de la zone industrielle de Taichung.
 
 **Rivière Wu :**
 
-- Source d'eau importante pour la zone métropolitaine de Taichung.
-- Traverse les comtés de Changhua, Taichung et Nantou.
-- Les communautés culturelles de Mingjian et Caotun se sont développées sur ses rives.
+- Source d'eau importante pour la métropole de Taichung.
+- Traverse les municipalités de Changhua, Taichung et Nantou.
+- Les communautés culturelles comme Mingan et Caotun se sont développées le long de ses berges.
 
-**Rivlam Da'an :**
+**Rivière Dan :**
 
 - Rivière importante de Miaoli.
-- La zone thermale de Tai'an se situe en amont.
-- Lieu de rencontre des cultures Hakka et autochtones.
+- La zone thermale Tai'an est située en amont.
+- Lieu de rencontre entre la culture Hakka et les cultures autochtones.
 
 ## Phénomènes uniques des rivières de Taïwan
 
-La géologie jeune de Taïwan et son soulèvement rapide ont engendré des phénomènes géomorphologiques fluviaux rares dans les zones tempérées. Les lits en tresses, l'avulsion fluviale et les terrasses alluviales coexistent, illustrant la dynamique évolutive des rivières de l'île.
+Le jeune âge géologique et le soulèvement rapide de Taïwan ont engendré plusieurs phénomènes géomorphologiques fluviaux rares dans les régions tempérées. La coexistence des cours d'eau à méandres, de l'enlèvement fluvial et des sites de terrasses fluviales démontre la dynamique de l'évolution des rivières de cette île.
 
-### Rivières en tresses et cônes de déjection
+### Cours d'eau à méandres et deltas alluviaux
 
 **Caractéristiques géomorphologiques :**
-En raison de la pente raide et de la forte charge sédimentaire, de nombreuses rivières de Taïwan présentent un caractère « en tresses » :
+En raison des pentes raides et du grand apport sédimentaire, de nombreuses rivières de Taïwan présentent une caractéristique de « cours d'eau à méandres » :
 
-- Lits larges avec des courants dispersés.
-- Forte variation saisonnière du chenal.
-- Formation de plaines de cônes de déjection développés.
+- Lit large, écoulement dispersé.
+- Grandes variations saisonnières des chenaux.
+- Formation de deltas alluviaux développés.
 
 **Exemples typiques :**
 
-- Cône de déjection de la rivière Zhuoshui : forme la zone fertile de la plaine de Changhua.
-- Cône de déjection de la rivière Gaoping : crée la plaine de Pingtung.
-- Cône de déjection de la rivière Lanyang : base de la plaine d'Yilan.
+- Delta alluvial de la rivière Tsuchi : forme la zone d'excellence de la plaine de Changhua.
+- Delta alluvial de la rivière Gao Píng : crée la plaine de Pingtung.
+- Delta alluvial de la rivière Lanyang : base de la plaine d'Yilan.
 
-### Phénomène d'avulsion fluviale
+### Phénomène d'enlèvement fluvial (River Capture)
 
-**Témoignage de l'activité géologique :**
-Le soulèvement géologique rapide de Taïwan provoque des phénomènes intéressants d'« avulsion » (changement de lit) :
+**Témoignage des processus géologiques :**
+Le soulèvement rapide de Taïwan provoque un phénomène intéressant d'« enlèvement fluvial » :
 
-- Des rivières s'écoulant initialement vers l'est ont été « capturées » par des rivières de l'ouest.
-- Cas le plus célèbre : l'amont de la rivière Dajia appartenait originellement au système de la rivière Liwu.
-- Illustre la jeunesse et l'activité géologique de Taïwan.
+- Les rivières avec des pentes plus raides érodent vers l'amont, « volant » le bassin versant d'une rivière voisine.
+- Le cas le plus célèbre est celui où la rivière Lanyang a enlevé l'amont de la rivière Dajia dans la région de Siyuan-Kou, rendant le bassin supérieur de la rivière Dajia large mais avec un débit relativement faible [^15].
+- Cela témoigne du jeune âge et de l'activité géologique de Taïwan.
 
-### Importance culturelle des terrasses alluviales
+### Signification culturelle des terrasses fluviales
 
-**Scène de l'activité humaine :**
-La plupart des sites culturels préhistoriques connus de Taïwan sont situés sur des terrasses alluviales :
+**Scène des activités humaines :**
+La plupart des sites archéologiques préhistoriques connus à Taïwan sont répartis sur les terrasses fluviales :
 
-- **Site de Beinan** : terrasse de la rivière Beinan, environ 3000-5300 ans avant notre ère.
-- **Site de Shisanhang** : terrasse de la rivière Tamsui, environ 1800-500 av. J.-C. (200-1500 ap. J.-C.).
-- **Site de Qubing** : amont de la rivière Zhuoshui, environ 4000 ans avant notre ère.
+- **Site de Bainan** : Terrasse de la rivière Bainan, datant d'environ 2 300 à 5 300 ans [^16].
+- **Site des Treize Lignes (Shisanxing)** : Terrasse de la rivière Tamise, datant d'environ 1800 à 500 ans avant J.-C. (entre 200 et 1500 apr. J.-C.).
+- **Site de Qubing** : Amont de la rivière Tsuchi, avec le plus ancien niveau culturel datant d'environ 4 000 ans [^17].
 
-Ces terrasses ne sont pas seulement des archives de l'évolution des rivières, elles préservent également les traces précieuses de l'activité humaine à Taïwan.
+Ces terrasses fluviales ne documentent pas seulement l'histoire des changements fluviaux, mais conservent également les traces précieuses des activités humaines à Taïwan.
 
 ## Défis de la gestion des ressources en eau
 
-La disponibilité annuelle d'eau par habitant à Taïwan est d'environ 2 100 m³. Bien que cela semble abondant, les précipitations sont fortement concentrées pendant la saison des typhons (mai-octobre représente 78 %), et la topographie escarpée entraîne une évacuation rapide de l'eau vers la mer. La quantité réellement utilisable est bien inférieure au chiffre affiché, entraînant des pénuries lors des années de sécheresse. En 2021, Taïwan a connu sa pire sécheresse en 56 ans, forçant certains comtés à instaurer une distribution d'eau par zones.
+Les précipitations annuelles de Taïwan sont bien supérieures à la moyenne mondiale, mais l'eau douce disponible par habitant est d'environ 4 100 tonnes, inférieure à la moyenne mondiale de 5 900 tonnes [^4] : les pluies sont fortement concentrées pendant la saison des typhons (septembre-octobre représentant 78 %), et le relief escarpé fait que l'eau s'écoule rapidement vers la mer. La quantité réellement utilisable est donc bien inférieure au chiffre des précipitations, ce qui entraîne des pénuries d'approvisionnement lors des années sèches. En 2021, Taïwan a connu sa sécheresse la plus grave en 56 ans, forçant certaines municipalités à mettre en place un approvisionnement par zones.
 
-### Écart entre abondance et pénurie et régulation
+### Écarts saisonniers et régulation
 
-L'écart saisonnier à Taïwan est immense : de mai à octobre, on enregistre 78 % des pluies annuelles, contre seulement 22 % de novembre à avril ; les rivières du centre et du sud s'assèchent fréquemment en saison sèche. Pour y remédier, Taïwan a construit un système de stockage comprenant les réservoirs de Feicui (source pour Xindian et le Grand Taipei), Shimen (artère pour Dahan et Taoyuan), Zengwen (le plus grand du sud) et Degi (pour Dajia et l'industrie du centre), afin de stocker l'eau en saison des pluies et de la redistribuer en saison sèche.
+Les écarts entre les saisons humides et sèches sont importants : septembre-octobre représente 78 % des précipitations annuelles, tandis que novembre-avril ne représente que 22 %, entraînant souvent l'assèchement des rivières du centre et du sud. Pour cela, Taïwan a construit un système de stockage avec le réservoir de Hsinchu (rivière Xindian/Tamise), le réservoir de Shimen (rivière Dahan/Taoyuan), le réservoir Zengwen (le plus grand du sud) et le réservoir Deji (rivière Dajia/centre), qui est alimenté en eau pendant la saison des pluies pour être distribuée pendant la saison sèche.
 
 ### Impact de l'urbanisation sur les rivières
 
-L'urbanisation soumet les rivières à une triple pression : canalisation des lits, pollution par les eaux usées industrielles et augmentation massive du ruissellement de surface. Dans les années 1970-1980, la qualité de l'eau de la rivière Tamsui s'est dégradée, au point d'être surnommée le « fleuve noir » ; la rivière Love à Kaohsiung est également devenue un égout à ciel ouvert. Depuis les années 1990, le gouvernement a lancé des programmes de réhabilitation ; la qualité de l'eau de la Tamsui s'est nettement améliorée et la rivière Love est devenue un modèle de berge touristique. À Taichung, les rivières Lüquan et Liuchuan ont été transformées en corridors piétonniers vers 2018.
+L'urbanisation exerce une triple pression sur les rivières : canalisation, pollution par les eaux usées industrielles et augmentation du ruissellement de surface. Au milieu des années 1970-1980, la qualité de l'eau de la rivière Tamise s'est dégradée, étant surnommée « fleuve du Yangtsé noir » ; l'Aihe à Kaohsiung est également devenue un égout malodorant. À partir des années 1990, le gouvernement a lancé des projets d'assainissement fluvial, et la qualité de l'eau de la rivière Tamise s'est nettement améliorée, faisant de l'Aihe un modèle de berge touristique. Les anciens chenaux de Green River (Taichung) et Liu River ont été réaménagés en corridors piétonniers autour de 2018.
 
 ### Nouveaux défis du changement climatique
 
-Le changement climatique accentue les écarts saisonniers, augmentant la fréquence des pluies torrentielles extrêmes et prolongeant les périodes de sécheresse. Taïwan promeut ces dernières années des systèmes de gestion intelligente de l'eau, la construction d'usines de recyclage d'eau et une gestion intégrée des bassins versants pour maintenir la sécurité de l'approvisionnement dans un avenir aux précipitations plus instables.
+Le changement climatique rend les écarts saisonniers encore plus extrêmes, avec une augmentation de la fréquence des pluies torrentielles et un allongement des périodes de sécheresse. Ces dernières années, Taïwan promeut un système de gestion intelligente des ressources en eau, la construction d'usines de réutilisation des eaux usées et une gouvernance intégrée du bassin versant pour tenter de maintenir la sécurité de l'approvisionnement dans un avenir où les précipitations sont encore plus instables.
 
 ## Culture fluviale et paysage humain
 
-### Rivières et développement des établissements
+### Rivières et développement des établissements humains
 
-Avant la généralisation des routes et rails, les rivières étaient les artères de transport les plus importantes de Taïwan. Mengjia (aujourd'hui Wanhua) s'est développée grâce au transport fluvial de la rivière Tamsui pour devenir le centre commercial le plus prospère de Taïwan sous la dynastie Qing ; Lukang était l'embouchure pour les produits agricoles de la plaine de Changhua ; Qishan, via la voie navigable de la rivière Meinong, est devenue à la fin du XIXe siècle le centre de collecte des bananes du sud de Taïtan.
+Avant la généralisation des chemins de fer et des routes, les rivières étaient les artères de transport les plus importantes de Taïwan. Mangxia (aujourd'hui Wanhua), grâce au transport fluvial sur la rivière Tamise, est devenue l'établissement commercial le plus prospère du nord de Taïwan à l'époque Qing ; Lukang est un port d'exportation des produits agricoles de la plaine de Changhua. Le bananier de Qishan était acheminé vers le port de Kaohsiung par chemin de fer et route, et en 1960, six décimes des exportations japonaises provenaient de Qishan, qui a acquis le surnom de « Royaume du Bananier » [^19].
 
-L'espace riverain moderne se transforme en corridor de loisirs : la piste cyclable de la rivière Tamsui relie l'ouest du bassin de Taipei ; les bateaux lumineux nocturnes sur la rivière Love à Kaohsiung sont devenus une icône touristique ; le parc riverain de la rivière Hualien présente la culture traditionnelle des peuples Amis.
+Les espaces riverains modernes se sont transformés en corridors de loisirs : la piste cyclable de la rivière Tamise relie l'ouest du Bassin de Taipei ; les bateaux nocturnes de l'Aihe à Kaohsiung sont devenus une carte postale touristique ; le parc fluvial de Hualien présente la culture traditionnelle des Amis.
 
 ### Croyances fluviales et folklore
 
-Diverses croyances fluviales persistent dans le folklore taïwanais : Mazu, en tant que protectrice des mers et des rivières, voit ses temples portuaires construits au bord de l'eau ; Shui Xian Zun Wang est la divinité de l'eau pour les migrants chinois, honorée dans les villes portuaires comme Keelung ou Tamsui. Les peuples autochtones possèdent leurs propres festivals fluviaux, comme le festival de la pêche (_ilisin_) des Amis, étroitement lié aux cours d'eau.
+De nombreuses croyances populaires sur les rivières circulent à Taïwan : Mazu est vénérée comme déesse protectrice de la mer et des rivières, et les temples portuaires sont souvent construits au bord de l'eau ; le dieu de l'eau Han est également vénéré dans les villes portuaires comme Keelung et Tamsui. Les peuples autochtones ont leurs propres rituels fluviaux et marins : les festivals de pêche (misacepo') des Amis se déroulent du 1er au 30 juin, tandis que le grand festival de récolte (ilisin) commence le 1er juillet [^20].
 
-Les rivières sont aussi des paysages littéraires majeurs : la rivière Meinong dans l'œuvre de Zhong Li-he porte la mémoire rurale Hakka ; la rivière Dajia dans les œuvres de Yang Kui témoigne des souffrances des paysans sous l'occupation japonaise ; et l'œuvre _Tristesse_ de Wu He utilise la rivière Hualien comme toile de fond pour explorer les traumatismes autochtones.
+Les rivières sont également un paysage littéraire important à Taïwan : _La ferme de Lishan_ de Chung Li-he dépeint la campagne Hakka sous les montagnes de Meinong [^21], et _Tristesse_ de Wu-he raconte l'histoire d'un petit village près de l'embouchure de la rivière Tamise qui est en train d'être creusé par une route [^22].
 
-### Corridors écologiques et biodiversité
+## Corridors écologiques et biodiversité
 
 ### Importance des écosystèmes fluviaux
 
-Les rivières sont les corridors biologiques les plus critiques entre la montagne et la mer à Taïwan. Des poissons de cours d'eau, comme le _Kuhua_ ou le _Taiwan Stone Chub_, migrent le long des rivières pour frayer ; les rapaces et les oiseaux migrateurs utilisent les vallées pour leurs migrations ; les graines de plantes se dispersent des hautes montagnes vers les embouchures des plaines via le courant.
+Les rivières sont les corridors biologiques les plus cruciaux entre les montagnes et la mer à Taïwan. Des poissons de rivière comme le _Kuhua_ ou le _Taiwan Stone Carp_ migrent pour se reproduire ; les rapaces et les oiseaux migrateurs traversent les vallées fluviales ; les graines végétales se dispersent des hautes montagnes jusqu'à l'embouchure de la plaine.
 
-Les rivières de Taïwan abritent plusieurs espèces de poissons d'eau douce endémiques : le saumon de Taïwan (_Oncorhynchus masou formosanus_) ne subsiste que dans la rivière Qiajia (affluent de la Dajia) et est un vestige de l'ère glaciaire ; le _Taiwan Stone Chub_ se concentre dans le bassin de la rivière Zhuoshui ; le poisson _Goushen_ est une espèce indigène dominante dans les cours d'eau de Taïwan.
+Les rivières de Taïwan abritent plusieurs espèces de poissons d'eau douce endémiques : le saumon de Taiwan (_Oncorhynchus masou formosanus_), qui ne survit que dans la rivière Qijia à Qijiawan, est une espèce relicte du Paléolithique ; le poisson-chat à grande taille (_Gao Shen Chanhe_) vit uniquement dans les rivières du sud et de l'Est avec beaucoup de rochers, et a été classé comme espèce menacée en 1989, au même titre que le saumon à bec rose [^23].
 
-### Trésor d'écosystèmes d'embouchure
+### Trésor écologique des embouchures
 
-L'embouchure des rivières, zone de rencontre entre eau douce et eau salée, présente la plus grande biodiversité. Les zones humides de la côte de Changhua à l'embouchure de la rivière Zhuoshui attirent plus de 100 000 oiseaux migrateurs chaque année, constituant l'une des stations de passage les plus importantes au monde pour les échidnés ; la zone humide de Jiatan à l'embouchure de la rivière Gaoping est un habitat central pour l'ibis à face noire au sud de Taïwan ; le parc naturel de Guandu à l'embouchure de la rivière Tamsui est une zone de protection écologique rare en milieu urbain.
+Les embouchures où l'eau douce rencontre l'eau salée sont les zones de plus grande biodiversité. Les marais côtiers de Changhua à l'embouchure de la rivière Tsuchi sont un site de transit important pour les limicoles ; les marais salins abandonnés de Qiechian (près du port de Xingda, au sud de la rivière Erren, pas à l'embouchure de Gao Píng) sont un lieu d'hivernage pour les aigrettes à bec noir dans le sud de Taïwan [^24] ; le Parc naturel de Guandu à l'embouchure de la rivière Tamise est une zone protégée rare en milieu urbain.
 
-## Conclusion : Sagesse de la symbiose entre l'eau et l'île
+## Conclusion : la sagesse symbiotique entre l'eau et l'île
 
-Les systèmes fluviaux de Taïwan démontent une complexité géographique étonnante pour une île de cette superficie. Ces rivières assument simultanément des fonctions d'irrigation, d'hydroélectricité, d'approvisionnement urbain et de corridors écologiques, tout en enregistrant les strates historiques : des festivals autochtones à la colonisation chinoise de 1709, du projet d'irrigation de Chanan de 1908 par Yosuke Hatta à la restauration écologique contemporaine. La relation entre les Taïwanais et leurs rivières a évolué du transport fluvial et l'irrigation vers la lutte contre la pollution et la réhabilitation.
+Le système fluvial de Taïwan présente une complexité géographique étonnante dans un petit îlot. Ces rivières remplissent simultanément les fonctions d'irrigation, de production d'énergie, d'approvisionnement en eau urbain et de corridor écologique, tout en enregistrant les strates historiques des rituels autochtones, de la colonisation Han en 1709, du projet [嘉南大圳](/fr/history/chianan-irrigation-canal/) en 1920 jusqu'à la restauration écologique contemporaine. La relation entre le peuple de Taïwan et ses rivières a évolué depuis le transport fluvial, l'irrigation, la pollution, jusqu'à l'assainissement.
 
-Face aux doubles défis du changement climatique et de l'urbanisation, la gestion des rivières à Taïwan s'oriente vers plus de durabilité. Trouver l'équilibre entre développement et protection, faire en sorte que les rivières redeviennent de beaux paysages urbains et préserver leur écologie sont les enjeux centraux de Taïwan face au climat.
+Face aux doubles défis du changement climatique et de l'urbanisation, la gestion des rivières de Taïwan s'oriente vers une plus grande durabilité. Comment trouver un équilibre entre développement et protection, comment faire en sorte que les rivières redeviennent de beaux paysages urbains, et comment maintenir l'écosystème fluvial sont les défis centraux auxquels est confronté Taïwan face au changement climatique.
 
-Bien que courtes, les rivières de Taïwan portent une signification naturelle et humaine profonde. Chaque rivière est un livre d'histoire vivant, enregistrant la sagesse de la symbiose entre cette île et l'eau, et guidant la direction du développement durable futur.
+Bien que ses rivières soient courtes, leur signification naturelle et humaine est extrêmement profonde. Chaque rivière est un livre d'histoire vivant, enregistrant la sagesse de cette île en symbiose avec l'eau, et guidant l'avenir du développement durable.
 
 ## Références
 
-[^1]: Administration de l'eau, [« Données de base sur les rivières importantes de Taïwan »](https://www.wra.gov.tw/cp.aspx?n=3164).
+[^1]: [《Données de base sur les rivières gérées par l'État et inter-provinciales》](https://www.wra.gov.tw/cp.aspx?n=3164) — Ministère des Ressources en Eau
 
-[^2]: 4ème bureau des rivières de l'Administration de l'eau, [« Présentation du bassin de la rivière Zhuoshui »](https://www.wra.gov.tw/wra04/cp.aspx?n=10967).
+[^2]: [《Présentation du bassin versant de Tsuchi》](https://www.wra.gov.tw/wra04/cp.aspx?n=10967) — Bureau de la quatrième division des ressources en eau
 
-[^3]: Wikipédia, [« Rivière Zhuoshui »](https://zh.wikipedia.org/zh-tw/%E6%BF%81%E6%B0%B4%E6%BA%AA), [« Rivière Gaoping »](https://zh.wikipedia.org/zh-tw/%E9%AB%98%E5%B1%8F%E6%BA%AA), [« Rivière Tamsui »](https://zh.wikipedia.org/zh-tw/%E6%B7%A1%E6%B0%B4%E6%B2%B3).
+[^4]: [« Le cauchemar persistant de la sécheresse : pourquoi Taïwan, riche en précipitations, fait-elle face à des pénuries ? »](https://climate.cwa.gov.tw/ClimatePedia/detail_page/7) — Encyclopédie climatique de l'Agence météorologique centrale
 
-[^4]: Bureau central de météorologie, [« Données hydrométéorologiques de Taïwan »](https://www.cwa.gov.tw/).
+[^7]: [《Annonce du périmètre et du plan de gestion des voies navigables : classification des rivières gérées par l'État, inter-provinciales et municipales》](https://www.wra.gov.tw/wralaw/Law_Content.aspx?n=9279&s=10108&sms=9191) — Ministère des Ressources en Eau
 
-[^5]: Administration du développement rural et de la conservation des sols du ministère de l'Agriculture, [« Topographie et caractéristiques hydrologiques des rivières de Taïwan »](https://www.swcb.gov.tw/).
+[^8]: [« Origine de la construction du réservoir »](https://web.wra.gov.tw/jiji/cp.aspx?n=8792) — Centre de gestion du barrage de Jiji
 
-[^6]: Hanlin Cloud Academy, [« Données géographiques des rivières de Taïwan »](https://www.ehanlin.com.tw/).
+[^9]: [« Rivière Gao Píng »](https://www.wra.gov.tw/wra07/cp.aspx?n=12494) — Bureau de la septième division des ressources en eau
+
+[^10]: [« Barrage de Gao Píng »](https://www.wra.gov.tw/wrasb/cp.aspx?n=31317) — Bureau régional des ressources en eau du sud
+
+[^11]: [« De la source à l'embouchure : le nouveau chapitre des berges du nord de Kaohsiung après 30 ans d'assainissement de l'Aihe »](https://www.cw.com.tw/article/5138055) — Magazine Tianxia
+
+[^12]: [« Architecture historique de Tamise – Fort Hongmao »](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=331943) — Archives du Centre national de mémoire culturelle
+
+[^13]: [« De port commercial à paysage magnifique : la transformation de Tamise sous le régime japonais »](https://archives.ith.sinica.edu.tw/collections_con.php?no=229) — Archives du Musée d'histoire de Taïwan (Academia Sinica)
+
+[^14]: [« Les rivières : la transformation de la rivière Tamise »](https://www.epd.ntpc.gov.tw/StaticPage/river-tamsui) — Bureau de protection de l'environnement du gouvernement de Taipei
+
+[^15]: [« Système fluvial de Dajia »](https://www.wra.gov.tw/wra03/cp.aspx?n=10468) — Bureau de la troisième division des ressources en eau
+
+[^16]: [« Site archéologique de Bainan à Taitung »](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Place&id=274387) — Archives du Centre national de mémoire culturelle
+
+[^17]: [« Site archéologique de Qubing, la première découverte d'un établissement en montagne à Taïwan »](https://museum.sinica.edu.tw/knowledge-base/item/118/) — Musée des artefacts historiques de l'Institut de linguistique historique (Academia Sinica)
+
+[^19]: [« L'histoire du "Royaume du Bananier", un bananier capricieux mais fier »](https://www.agriharvest.tw/archives/102002/) — Média agricole
+
+[^20]: [« Calendrier des fêtes saisonnières des peuples autochtones pour l'année 115 »](https://www.cip.gov.tw/data/news/202511/T-01814499.pdf) — Commission pour les peuples autochtones
+
+[^21]: [« Chronologie littéraire de Chung Li-he »](https://cws.nmtl.gov.tw/home/zh-tw/chronology/550432) — Musée national de la littérature de Taïwan
+
+[^22]: [« Tristesse »](https://toolkit.culture.tw/literatureinfo_155_93.html) — Portail culturel de Taïwan
+
+[^23]: [« Le poisson-chat à grande taille est un poisson protégé »](https://kmweb.moa.gov.tw/theme_data.php?theme=news&sub_theme=attention&id=42723) — Portail des connaissances agricoles du Ministère de l'Agriculture
+
+[^24]: [« Marais de Qiechian »](https://wetland.e-info.org.tw/file/south/2330) — Réseau des zones humides de Taïwan (Centre d'information environnementale)
+
+[^25]: [« Grand canal de Jianan »](https://www.ia.gov.tw/zh-TW/media/StoryContent?a=109&id=422&p=2&listid=109) — Ministère de l'Agriculture et des Ressources en Eau

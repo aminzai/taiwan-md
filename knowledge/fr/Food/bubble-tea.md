@@ -1,136 +1,148 @@
 ---
-title: 'Le bubble tea — comment une tasse a conquis le monde'
-description: "En 1987, lors d'une réunion d'équipe à Taichung, un geste anodin a donné naissance à une boisson qui allait conquérir la planète. Origines disputées, politique culturelle et débat sur les 500 calories d'un verre de bubble tea."
+title: 'Le thé à la perle (Bubble Tea)'
+description: "Un événement d'une réunion d'employés à Taïwan en 1987, un geste anodin a conquis le monde. L'origine controversée du bubble tea, sa politique culturelle et le débat sur sa santé avec ses 500 calories."
 date: 2026-03-30
+category: 'Food'
 tags:
   [
-    gastronomie,
-    bubble tea,
-    boissons à emporter,
-    mondialisation,
-    soft power,
-    diplomatie culturelle,
+    'Gastronomie',
+    'Bubble Tea',
+    'Boisson artisanale',
+    'Mondialisation',
+    'Soft power',
+    'Diplomatie culturelle',
   ]
-subcategory: 'Culture des boissons'
-category: 'Food'
+subcategory: '飲品文化'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-30
 lastHumanReview: false
 image: '/article-images/food/classic-bubble-tea-2013.webp'
-imageAlt: 'Bubble tea classique'
+imageAlt: "Gros plan classique d'un thé à la perle"
 imageCredit: 'Oqmilteashop / Wikimedia Commons'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Classic_bubble_tea.jpg'
 translatedFrom: 'Food/珍珠奶茶.md'
-sourceCommitSha: '30569f74'
-sourceContentHash: 'sha256:d90e80b19559290b'
-sourceBodyHash: 'sha256:9bc13bf8c8054628'
-translatedAt: '2026-05-17T06:15:00Z'
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:4b6c70d0fd8de132'
+sourceBodyHash: 'sha256:402d0d087252b30e'
+translatedAt: '2026-09-23T22:11:52+08:00'
 ---
 
-# Le bubble tea
+# Le thé à la perle
 
-> **En 30 secondes :** En 1987, Lin Xiuhui, gérante d'un salon de thé à Taichung, verse des billes de tapioca dans son thé au lait pendant une réunion d'équipe — juste pour voir. En quelques mois, cette boisson dépasse en ventes tous les autres articles de la carte. Trente-huit ans plus tard, ce geste improvisé a engendré une industrie mondiale estimée à 3,5 milliards de dollars, propulsé l'emoji 🧋 sur tous les téléphones de la planète, et déclenché une bataille de légitimité entre marques taïwanaises et chinoises pour revendiquer le titre d'inventeur.
+> **Aperçu de 30 secondes :** En 1987, une gérante de salon de thé à Taïwan a versé des perles dans du thé au lait lors d'une réunion d'employés, par simple essai — le résultat fut que cette boisson se vendit plus rapidement que toutes les autres boissons en quelques mois. Trente-huit ans plus tard, ce geste a donné naissance à une industrie mondiale d'environ 3,5 milliards de dollars, faisant du emoji 🧋 (thé à la perle) un symbole sur chaque téléphone, et amenant les marques de Taïwan et de Chine continentale à se disputer le titre d'« inventeur ».
 
-Nous sommes en 1987, dans une ruelle de Taichung, au sein de ce qui deviendra plus tard le salon de thé Chun Shui Tang. Lin Xiuhui, la gérante, préside une réunion d'équipe. Sur la table, les ingrédients qu'elle a rapportés le matin même du marché Jianguo à bord de son scooter — parmi lesquels un bol de petites billes blanches de tapioca, une friandise taïwanaise qu'elle affectionnait depuis l'enfance. Sans vraiment réfléchir, elle en verse quelques-unes dans son thé au lait Assam et prend une gorgée.
+En 1987, dans un salon de thé situé sur la rue Siwei, à Taichung. La gérante Lin Xiu-hui présidait une réunion d'employés ; sur la table se trouvaient les ingrédients qu'elle avait achetés au marché de Jianuo ce matin en scooter, dont un bol de perles blanches — une collation locale qu'elle aimait depuis l'enfance. Elle versa ces perles dans le thé au lait Assam à portée de main et but une gorgée.
 
-« Tout le monde lors de cette réunion a adoré cette boisson, et quelques mois plus tard ses ventes dépassaient celles de toutes nos autres boissons glacées réunies. » Lin Xiuhui l'a confié des années plus tard à un journaliste de CNN, sans emphase particulière, comme si elle décrivait un heureux accident qu'elle n'avait pas elle-même anticipé.
+« Tout le monde était tombé amoureux de cette boisson lors de cette réunion ; quelques mois plus tard, ses ventes ont dépassé celles de tous nos autres thés glacés », a raconté Lin Xiu-hui des années plus tard à un journaliste du CNN, sans exagération intentionnelle, mais plutôt en décrivant un petit accident qu'elle elle-même n'avait pas anticipé.
 
-Cet accident allait finir devant les tribunaux pendant dix ans.
+Ce hasard fut ensuite porté dans une bataille juridique qui dura dix ans.
 
 ## Un procès de dix ans sans vainqueur
 
-La version de Lin Xiuhui ne constitue que la moitié de l'histoire.
+La version de Lin Xiu-hui n'est qu'une partie de l'histoire.
 
-Du côté de Tainan, Tu Zonghe, fondateur du salon de thé Hanlin, a sa propre version : après l'ouverture de son établissement en 1986, il aurait aperçu un jour au marché de belles billes de tapioca d'un blanc nacré, eu l'intuition de les marier au thé au lait, et baptisé la boisson en référence à l'aspect de ces billes évoquant des perles. Les deux récits se situent dans le Taïwan de la seconde moitié des années 1980, l'un au nord, l'autre au sud, et chacun revendique la primauté.
+Tu Zonghe, fondateur du salon de thé Hanlin à Tainan, a une autre version : après avoir ouvert son magasin en 1986, il vit un jour des perles d'un blanc immaculé au marché, eut une illumination et tenta de les mélanger avec du thé au lait, nommant la création en raison de l'apparence des perles qui ressemblaient à des perles. Les deux histoires se sont déroulées dans le Nord et le Sud de Taïwan à la fin des années 1980, et toutes prétendent être les premiers.
 
-La version de Chun Shui Tang est plus précise encore : le fondateur Liu Hanjie avait ouvert un salon de boissons rue Siwei à Taichung dès 1983 ; c'est en 1987 que Lin Xiuhui, alors gérante, aurait créé le bubble tea par hasard lors de cette fameuse réunion, avant de le tester à la vente puis de le mettre officiellement à la carte. Chun Shui Tang affirme même que le responsable de Hanlin s'était rendu en personne dans leur établissement pour s'en inspirer.
+La version du salon de thé Chunshui est plus précise : son fondateur Liu Han-jie a ouvert un magasin de boissons sur la rue Siwei à Taichung en 1983, et c'est Lin Xiu-hui qui l'a inventé accidentellement lors d'une réunion d'employés en 1987. La boisson fut ensuite testée et officiellement lancée. Le salon de thé Chunshui a même indiqué que le responsable du salon Hanlin était venu observer et apprendre chez Chunshui.
 
-Cette question de priorité a finalement été portée devant les tribunaux. Chun Shui Tang et Hanlin se sont mutuellement poursuivis en justice dans un feuilleton judiciaire qui a duré plus de dix ans. **En 2019, la justice taïwanaise a tranché : le bubble tea est une boisson nouvelle mais non brevetable ; n'importe qui peut en préparer, et personne n'a besoin de revendiquer d'être le premier.** Aucune des deux parties n'a obtenu de brevet. Personne n'a gagné, personne n'a perdu.
+Cette question du « qui est premier » est finalement allée au tribunal. Chunshui et Hanlin se sont mutuellement poursuivis, entraînant un litige de plus de dix ans. **En 2019, les tribunaux de Taïwan ont rendu leur verdict : le thé à la perle est une boisson nouvelle, non un produit breveté, que n'importe qui ou quel magasin peut fabriquer, il n'est pas nécessaire de se disputer l'ancêtre.** Aucune des deux parties n'a obtenu de brevet ; personne n'a gagné, et personne n'a perdu.
 
-> 📝 **Note de la rédaction**
-> La question « qui a inventé le bubble tea ? » a peut-être déjà perdu son sens à Taïwan même. Ce qui mérite davantage réflexion, c'est pourquoi il a fallu dix ans de procédure pour déterminer le « lieu de naissance » d'une boisson. Aujourd'hui que le marché mondial du bubble tea avoisine les 100 milliards de nouveaux dollars taïwanais, les enjeux réels de ce procès allaient manifestement bien au-delà du simple droit à l'histoire.
+> 📝 **Note du curateur**
+> La question « Qui a inventé le thé à la perle ? » est peut-être devenue insignifiante à Taïwan elle-même. Ce qui mérite d'être davantage exploré, c'est : pourquoi l'« lieu de naissance » d'une boisson nécessite-t-il dix ans de procès pour être confirmé ? Aujourd'hui, avec un marché mondial du thé à la perle approchant les 100 milliards de dollars taïwanais, le véritable enjeu de ce procès n'est manifestement pas seulement une question d'hégémonie historique.
 
-## 26 000 enseignes — plus que les supérettes
+## 26 000 magasins, plus que les dépanneurs
 
-Quelle que soit l'enseigne qui a servi le premier bubble tea, la passion taïwanaise pour cette boisson dépasse largement le cadre de la querelle des origines.
+Quelle que soit la maison qui ait inventé le thé à la perle en premier, l'obsession de Taïwan pour cette boisson a dépassé l'enjeu de la « paternité ».
 
-Selon les données du ministère des Finances taïwanais, en avril 2022 le nombre total de commerces de boissons en tout genre atteignait un niveau record : **26 000 établissements**, soit près de 10 000 de plus que le nombre de supérettes dans tout le pays, et une croissance de 67,6 % sur la dernière décennie. Dans n'importe quelle ruelle de Taipei, vous pouvez trouver côte à côte un 50嵐, un Qingxin Fuquan, un CoCo et un Machi Kiosk, tous en concurrence directe. Et lorsque vous entrez dans l'un d'eux, le nombre de choix à faire est bien supérieur à ce qu'on imagine : sucre entier, demi-sucre, peu sucré, sans sucre ; beaucoup de glaçons, peu de glaçons, sans glaçons, glaçons normaux ; perles de tapioca, gelée de coco, taro, pudding… À Taïwan, commander un bubble tea est un acte hautement personnalisé, et non la commande d'un produit standardisé.
+Selon les statistiques du Ministère des Finances de Taïwan, le nombre de différents types de magasins de boissons dans tout le pays a atteint un sommet historique en avril 2022, avec **26 000 établissements**, soit près de 10 000 plus que tous les dépanneurs de Taïwan, et une croissance de 67,6 % au cours de la décennie précédente. Dans n'importe quelle ruelle du centre de Taipei, il est possible qu'on trouve côte à côte 50 Lan, Qingxin Fuquan, CoCo, Magu Cha Fang, se disputant les clients. En entrant dans l'un d'eux, vous avez plus de choix que ce que vous imaginez : sucre complet, demi-sucre, léger, sans sucre, beaucoup de glace, peu de glace, sans glace, perles, coco, taro, panna... Un thé à la perle est un choix hautement personnalisé à Taïwan, pas un produit standard.
 
-L'ampleur du marché mondial est encore plus vertigineuse. Plusieurs instituts d'études de marché estiment que la taille du marché mondial du bubble tea atteignait environ **3,5 milliards de dollars (soit environ 112 milliards de nouveaux dollars taïwanais) en 2024**, avec des prévisions de croissance à 6–7 milliards de dollars d'ici 2034. Les marques taïwanaises sont à l'origine de ce marché : CoCo possède plus de 5 000 points de vente dans le monde, Gong Cha plus de 2 000, et des enseignes comme The Alley ou Sunrise Tea Tang continuent d'ouvrir des boutiques à l'étranger. Chun Shui Tang écoule encore aujourd'hui plus de deux millions de bubble teas par an dans ses seuls établissements taïwanais.
+L'échelle du marché mondial est encore plus étonnante. Plusieurs organismes de recherche de marché estiment que le marché mondial du thé à la perle en 2024 représente environ **3,5 milliards de dollars (environ 112 milliards de dollars taïwanais)**, et qu'il devrait atteindre 6 à 7 milliards de dollars d'ici 2034. Les marques taïwanaises sont le point d'origine de ce marché : CoCo a plus de 5 000 succursales dans le monde, Gong Cha en a plus de 2 000, et des filiales à l'étranger de marques comme Lukangxiang ou Rìchū Chá Tàitai continuent de se développer. Le salon Chunshui vend encore plus de 2 millions de tasses de thé à la perle par an sur le marché local taïwanais.
 
-Cette expansion mondiale a emprunté une trajectoire singulière : ni diplomatie culturelle pilotée par un gouvernement, ni stratégie de conquête de marché savamment orchestrée par de grandes marques. Le bubble tea a fait ses premiers pas hors de Taïwan sur les ailes de la nostalgie des diasporas — des Taïwanais installés à Los Angeles ou à Vancouver qui voulaient retrouver le goût de chez eux, ont ouvert des boutiques, et ont fait découvrir cette boisson à leurs voisins. C'est la trajectoire la plus typique de la cuisine taïwanaise populaire vers l'international : non pas une exportation, mais une diffusion ; non pas une stratégie, mais un mode de vie.
+Ce processus de mondialisation suit un chemin intéressant : il n'est pas promu par une diplomatie culturelle gouvernementale, ni par une stratégie d'expansion de marque méticuleusement conçue. Le premier pas du thé à la perle vers le monde repose sur la nostalgie des migrants — les immigrés taïwanais à Los Angeles, les immigrés taïwanais à Vancouver, ils voulaient boire un goût de leur patrie, ont ouvert un magasin local, et ont fini par faire aimer cette boisson aux voisins. C'est l'itinéraire le plus typique de la diffusion des [spécialités taïwanaises](/fr/food/taiwanese-street-food/) : ce n'est pas une exportation, c'est une dispersion ; ce n'est pas une stratégie, c'est la vie.
 
-> 📊 **Chiffres clés**
-> Marché mondial du bubble tea (2024) : environ 3,5 milliards de dollars (soit ~ 112 milliards NTD)
-> Nombre d'enseignes de boissons à emporter à Taïwan (pic 2022) : 26 000+, soit +67,6 % sur dix ans
-> CoCo — points de vente dans le monde : 5 000+
-> Gong Cha — points de vente dans le monde : 2 000+
-> Ventes annuelles de bubble tea chez Chun Shui Tang : plus de 2 millions de tasses
+> 📊 **Analyse des chiffres**
+> Taille du marché mondial du thé à la perle (2024) : environ 3,5 milliards de dollars (environ 112 milliards de dollars taïwanais)
+> Nombre de magasins de boissons artisanales à Taïwan (pic en 2022) : 26 000+ ; croissance de 67,6 % au cours de la décennie précédente
+> Succursales mondiales CoCo : 5 000+
+> Succursales mondiales Gong Cha : 2 000+
+> Ventes annuelles de thé à la perle par Chunshui : plus de 2 millions de tasses
 
-## Tokyo 2019 : six heures de queue
+## En 2019, six heures d'attente à Tokyo
 
-Du salon de thé taïwanais au reste du monde, le bubble tea n'a pas déferlé en une seule vague, mais en plusieurs, l'une après l'autre.
+Le passage du thé à la perle des salons de thé taïwanais au monde n'a pas été une explosion unique, mais une vague après l'autre.
 
-À la fin des années 1990, la première vague a touché l'Amérique du Nord et l'Asie du Sud-Est dans le sillage de la diaspora taïwanaise. Dans les années 2000, la montée en puissance des chaînes a transformé cette boisson de la communauté expatriée en langue commune de la jeunesse asiatique. Dans les années 2010, Instagram a mondialisé son langage visuel — le verre transparent, les perles noires, la grosse paille semblaient avoir été conçus pour les réseaux sociaux.
+À la fin des années 1990, la première vague est arrivée avec les migrants taïwanais en Amérique du Nord et en Asie du Sud-Est. Dans les années 2000, la marque en chaîne a fait passer cette boisson d'une consommation communautaire à un langage commun pour la jeunesse asiatique. Dans les années 2010, Instagram a rendu son langage visuel mondial — l'image de verres transparents, de perles noires et de pailles épaisses est intrinsèquement conçue pour les médias sociaux.
 
-Mais le phénomène le plus spectaculaire s'est produit au Japon en 2019.
+Mais le phénomène le plus dramatique s'est produit au Japon en 2019.
 
-Cet été-là, devant la boutique The Alley à Tokyo, un panneau indiquait « temps d'attente : 5 heures » — un chiffre qui a ensuite été mis à jour à 6 heures. Les médias japonais ont baptisé l'événement « troisième vague du boom du tapioca » (第三波タピオカブーム). Rouge à lèvres aux couleurs du bubble tea, salade au bubble tea, snacks aromatisés au bubble tea ont envahi les rayons. Des jeunes Japonaises sortaient habillées de pied en cap aux couleurs du bubble tea — lèvres, paupières et tenue assortis — uniquement pour la photo souvenir.
+Ce été-là, devant le magasin Lukangxiang à Tokyo, un panneau indiquait « attente de 5 heures », avant que ce chiffre ne soit mis à jour à 6. Les médias japonais ont appelé cela le « troisième boom du tapioca » (第三波タピオカブーム), avec l'émergence simultanée de rouge à lèvres au thé à la perle, salades au thé à la perle et snacks au goût de thé à la perle. Les jeunes filles japonaises sortaient en portant des tenues dans les couleurs du thé à la perle pour prendre une photo de "check-in".
 
-Ce que la grande majorité des consommateurs japonais ignoraient, c'est que ce phénomène qu'ils suivaient avec frénésie avait pour point de départ une réunion d'équipe à Taichung, trente ans plus tôt. Un internaute japonais a ironisé sur les réseaux : « Le temps passé à faire la queue suffirait largement pour prendre un avion pour Taïwan, boire un verre, et rentrer. »
+Ce que la grande majorité des consommateurs japonais ne comprenaient pas, c'est que cette tendance qu'ils suivaient provenait d'un essai fortuit lors d'une réunion d'employés à Taichung trente ans auparavant. Un netizen japonais s'était moqué sur les réseaux sociaux : « Le temps d'attente est suffisant pour aller boire un verre à Taïwan et revenir ».
 
-L'année suivante, le bubble tea allait franchir une étape encore plus étrange et devenir un symbole politique.
+L'année suivante, le thé à la perle a connu une ascension encore plus étrange : il est devenu un symbole politique.
 
-## 🧋 Une tasse de thé, une alliance pour la démocratie
+## 🧋 Un thé au lait, une alliance démocratique
 
-En avril 2020, des comptes nationalistes chinois lancent une campagne de harcèlement contre des célébrités thaïlandaises, poussant inopinément les internautes taïwanais, hongkongais et thaïlandais à se retrouver du même côté. Le hashtag #MilkTeaAlliance (奶茶聯盟, « Alliance du thé au lait ») explose rapidement — ce nom faisant référence au fait que ces trois territoires partagent la tradition du thé additionné de lait, alors que la culture du thé en Chine continentale ne prévoit traditionnellement pas cet ajout. Une petite différence culinaire, aussi précise qu'elle est tranchante.
+En avril 2020, des comptes pro-nationalistes chinois ont lancé une campagne de harcèlement contre une célébrité thaïlandaise, poussant accidentellement les utilisateurs taïwanais, hongkongais et thaïlandais du même côté. Le hashtag « #MilkTeaAlliance » est devenu viral — ce nom faisait référence à ces trois endroits qui buvaient du thé au lait, en contraste avec la tradition chinoise continentale qui ne met pas de lait, une différence alimentaire minuscule mais piquante.
 
-Le thé au lait devenait une sorte de code culturel : thé avec du lait = démocratie et ouverture ; thé nature = un autre ordre politique. La métaphore est suffisamment simpliste pour prêter à sourire, mais elle a bel et bien circulé dans les manifestations de Birmanie, du Bélarus et de Thaïlande au cours de l'année 2020. À travers un simple symbole alimentaire, l'expérience démocratique taïwanaise se trouvait reliée aux mouvements civiques d'Asie du Sud-Est d'une façon qu'aucun diplomate n'aurait pu orchestrer.
+Le thé au lait est devenu un code pour un certain mode de vie : le thé avec du lait = démocratie, ouverture ; le thé clair = l'autre ordre politique en opposition. Cette métaphore est si grossière qu'elle est presque drôle, mais elle a été citée à maintes reprises lors des manifestations au Myanmar, en Biélorussie et en Thaïlande en 2020. Il a lié l'expérience démocratique de Taïwan aux mouvements civiques d'Asie du Sud-Est avec un simple symbole alimentaire, accomplissant ce qu'aucun diplomate n'aurait pu faire.
 
-La même année, Unicode 13.0 officialisait l'emoji 🧋 bubble tea, offrant à cette boisson son propre visage sur tous les téléphones du monde.
+La même année, Unicode 13.0 a officiellement inclus le emoji 🧋 (thé à la perle), donnant à cette boisson son propre visage sur chaque téléphone.
 
-> 📝 **Note de la rédaction**
-> La « Milk Tea Alliance » a traduit la géopolitique en langage d'autocollants de messagerie grâce à la simple question du lait dans le thé — c'est peut-être le moment à la fois le plus absurde et le plus authentique de toute l'histoire du bubble tea : une boisson née dans un contexte des plus ordinaires qui devient, sans l'avoir cherché, le symbole d'une solidarité démocratique transnationale.
+> 📝 **Note du curateur**
+> L'« Alliance du thé au lait » a traduit la géopolitique en langage d'emoji avec un simple ajout de lait, ce qui est peut-être le moment le plus absurde et le plus réel dans l'histoire du thé à la perle : une boisson populaire née dans la culture des [marchés nocturnes](/fr/food/night-market-culture/) est devenue accidentellement un symbole d'solidarité démocratique internationale. Elle n'a même pas essayé de le faire.
 
-## 500 calories par verre — et la question santé que personne ne veut entendre
+## Une boisson de 500 calories, et les problèmes de santé que personne ne veut entendre
 
-Toute histoire honnête sur le bubble tea doit affronter ce chiffre qui fait froncer les sourcils des nutritionnistes.
+Toute histoire honnête du thé à la perle doit aborder le chiffre qui fait froncer les sourcils des nutritionnistes.
 
-Un bubble tea à sucre complet avec glaçons normaux représente entre 400 et 600 calories, et environ 50 à 70 grammes de sucre — soit l'équivalent calorique d'un repas complet, ou plus du double de la limite quotidienne recommandée par l'OMS. Le Dr Martin Lee, chef du service de néphrologie du National University Hospital de Singapour, l'a dit sans détour : « Le sucre contenu dans le bubble tea peut aggraver le diabète, ce qui entraîne des lésions rénales, voire une insuffisance rénale. » Des recherches académiques publiées sur PubMed soulignent également que, pour les jeunes Asiatiques qui en consomment quotidiennement, les risques sanitaires sont comparables à ceux des sodas sucrés — un enjeu de santé publique qui ne saurait être ignoré.
+Un thé au lait avec du sucre complet et beaucoup de glace contient environ 400 à 600 calories, avec environ 50 à 70 grammes de sucre — l'équivalent calorique d'un repas complet, ou plus du double de la limite quotidienne recommandée par l'OMS. Le Dr Martin Lee, chef du service de néphrologie de l'Université nationale de Singapour, a déclaré directement : « Le sucre dans le thé à la perle peut aggraver le diabète, entraînant des lésions rénales voire une insuffisance rénale ». Des études académiques publiées sur PubMed ont également indiqué que pour les jeunes Asiatiques qui consomment du thé à la perle quotidiennement, les risques pour la santé sont comparables à ceux des sodas sucrés, ce qui est un problème de santé publique qu'il ne faut pas ignorer.
 
-Il ne s'agit pas d'un alarmisme excessif, mais d'un risque bien réel qui se matérialise dès lors que le bubble tea passe du statut de plaisir occasionnel à celui d'habitude quotidienne. Le ministère taïwanais de la Santé et du Bien-être a à plusieurs reprises demandé aux chaînes de boissons d'afficher obligatoirement les calories. Mais quand les consommateurs voient « 520 kcal » sur l'étiquette, la majorité commande quand même sucre complet — ce petit fait dit beaucoup de la difficulté à changer les comportements humains.
+Ce n'est pas une fausse alerte, mais un risque réel lorsqu'un thé à la perle passe d'un plaisir occasionnel à une habitude quotidienne. Les 26 000 magasins de boissons suivis par le Ministère des Finances de Taïwan ne sont pas seulement des statistiques entrepreneuriales, mais aussi un signal d'alarme pour la santé publique. Le Ministère de la Santé de Taïwan a plusieurs fois exigé que les marques de boissons artisanales en chaîne indiquent obligatoirement les calories, mais après avoir vu l'étiquette « 520 calories », la plupart des consommateurs choisissent toujours le sucre complet — ce petit fait illustre à quel point il est difficile de changer les comportements humains.
 
-En 2011, la culture alimentaire taïwanaise a subi un coup beaucoup plus direct : du plastifiant DEHP a été illégalement ajouté à des agents de trouble utilisés dans l'alimentation et les boissons, contaminant notamment les boissons à emporter comme le bubble tea. L'Agence taïwanaise des aliments et des médicaments a finalement confirmé que **965 produits étaient contaminés, dont 206 déjà exportés vers 22 pays**. Ce scandale a fait s'effondrer les ventes de boissons taïwanaises sur des marchés comme Hong Kong ou la Malaisie, et a directement déclenché une refonte majeure de la réglementation taïwanaise en matière de sécurité alimentaire.
+En 2011, la culture alimentaire taïwanaise a subi un coup plus direct : le DEHP, un plastifiant, a été ajouté illégalement aux aliments et boissons par des produits chimiques Qiyunji, affectant les boissons artisanales comme le thé à la perle. L'Agence de contrôle des aliments et des médicaments de Taïwan a finalement confirmé que **965 produits étaient contaminés, dont 206 exportés vers 22 pays**. Ce scandale a fait chuter l'activité des entreprises de boissons taïwanaises sur les marchés comme Hong Kong et la Malaisie, et est devenu le déclencheur direct d'une révision majeure des réglementations sur la sécurité alimentaire à Taïwan.
 
-La question environnementale, elle, n'a pas disparu. La vague mondiale d'interdiction des pailles en plastique à usage unique a posé au bubble tea un problème d'ingénierie bien concret : les pailles en papier ramollissent au contact du liquide, celles en métal brûlent les lèvres, et les matériaux biodégradables coûtent trop cher. Les avancées de la filière en matière d'emballages durables sont bien moins rapides que sa communication marketing.
+Les problèmes environnementaux n'ont pas disparu non plus. La vague mondiale contre les pailles en plastique à usage unique a présenté un problème technique réel pour le thé à la perle : les pailles en papier ramollissent au contact de l'eau, les pailles métalliques sont considérées comme chaudes, et les matériaux biodégradables sont trop coûteux. Le progrès de cette boisson dans la promotion des emballages durables est beaucoup plus lent que son marketing de marque.
 
-## La « nouvelle culture du thé » et l'histoire qui se dilue
+## Les « nouveaux thés » et une histoire diluée
 
-Une autre forme de compétition, plus silencieuse, est en cours.
+Une autre compétition, plus silencieuse, se déroule.
 
-Les marques chinoises de « nouvelle culture du thé » — Heytea, Nayuki, Bawang Chaji — multiplient les ouvertures à l'international à grande vitesse ; certaines ont déjà rattrapé, voire dépassé, plusieurs marques taïwanaises en nombre de points de vente à l'étranger. Ce qui mérite encore plus attention, c'est leur discours marketing : les origines taïwanaises du bubble tea s'y trouvent progressivement diluées dans des formulations vagues comme « culture du thé » ou « innovation asiatique autour du thé ». Pour les marques taïwanaises, la bataille pour le contrôle du récit des origines est devenue aussi cruciale — et peut-être encore plus difficile à gagner — que la concurrence commerciale elle-même.
+Les marques chinoises continentales de « nouveaux thés » — HeyTea, Nayuki Tea, BaWangcha Ji — ouvrent rapidement des magasins dans le monde entier ces dernières années, dont certaines succursales à l'étranger égalent ou dépassent celles de certaines marques taïwanaises. Ce qui est plus remarquable, c'est leur discours marketing : l'origine taïwanaise du thé à la perle est progressivement diluée par des termes vagues comme « culture du thé » ou « innovation du thé asiatique » dans le récit de ces marques. Pour les marques taïwanaises, le pouvoir discursif du « lieu d'origine » est devenu une bataille aussi importante que la concurrence commerciale, et même plus difficile à gagner.
 
-Sur le plan commercial, on peut s'affronter à coups de capitaux et d'ouvertures de boutiques. Sur le plan narratif, tout dépend de qui raconte l'histoire que le plus grand nombre de personnes retient et croit.
+Le commerce peut rivaliser par le capital et la vitesse d'expansion ; le pouvoir discursif dépend de qui est mémorisé et cru par le plus grand nombre.
 
-Les acteurs taïwanais, gouvernementaux comme privés, ne sont pas sans en être conscients. Les événements culturels organisés par le ministère des Affaires étrangères autour du bubble tea à l'étranger, la promotion menée par le Conseil des affaires des ressortissants d'outre-mer via les communautés taïwanaises, le fait que Chun Shui Tang place toujours l'histoire de Lin Xiuhui en tête de sa page d'accueil — tout cela relève d'une forme d'ingénierie narrative défensive, visant à empêcher que l'étiquette « Made in Taiwan » ne se dilue. Mais sur un marché mondial où les consommateurs achètent une expérience et non une histoire d'origine, ce combat n'aura pas de fin.
+Les gouvernements et les marques privées taïwanaises ne sont pas inconscients de cela. Les activités culturelles du thé à la perle à l'étranger organisées par le Ministère des Affaires étrangères, la promotion par l'Association pour les affaires taïwanaises auprès des communautés en dehors de Taïwan, le fait que Chunshui maintienne l'histoire de Lin Xiu-hui en haut de sa page d'accueil du site web... tout cela est une sorte d'ingénierie narrative défensive, tentant de ne pas diluer l'étiquette « fabriqué à Taïwan ». Mais sur le marché mondial, les consommateurs boivent l'expérience, pas l'histoire de la provenance ; cette bataille est destinée à n'avoir pas de fin.
 
-## Un geste qui continue de se répercuter
+## Un geste toujours en cours
 
-Le geste de Lin Xiuhui en 1987 reste, aujourd'hui encore, l'histoire la plus mise en avant sur la page d'accueil de Chun Shui Tang. Ces billes de tapioca dans le thé au lait qui se sont vendues plus que tout le reste en quelques mois — c'est l'histoire la plus proche d'un « mythe fondateur » que cette boisson puisse offrir.
+Le geste de Lin Xiu-hui en 1987 reste l'histoire la plus visible sur la page d'accueil du site web de Chunshui. Cette boisson aux perles s'est vendue mieux que toutes les autres pendant plusieurs mois — cet événement est la version la plus proche de la « mythologie de l'origine » de cette boisson.
 
-Mais en 2026, maintenir les mots « inventé à Taïwan » au cœur du récit de cette boisson demande bien plus d'énergie que le geste initial qui a consisté à verser des billes dans une tasse de thé. Combien de personnes dans le monde boivent chaque jour un bubble tea sans savoir ni chercher à savoir d'où il vient ? Ce nombre est proprement incalculable.
+Mais en 2026, l'énergie nécessaire pour maintenir le mot « inventé à Taïwan » au cœur de l'histoire de cette boisson est bien plus grande que l'instant où les perles ont été versées dans le thé au lait. Combien de personnes dans le monde boivent un thé à la perle chaque jour sans savoir ni se soucier d'où il vient ? Ce chiffre est presque impossible à calculer.
 
-Ce geste, en son temps, ignorait ce qu'il était en train de faire. Les grands accidents ne le savent jamais.
+À ce moment-là, on ne savait pas ce qu'on faisait. Les grands hasards ne sont jamais prévus.
+
+## Lectures complémentaires
+
+- [Aperçu de la gastronomie taïwanaise](/fr/food/taiwan-food-overview) — Carte panoramique des goûts hybrides depuis les autochtones jusqu'au Michelin : la place du thé à la perle dans quatre siècles de mélanges
+- [Culture des boissons artisanales à Taïwan](/fr/food/hand-shaken-drink-culture) — Histoire de l'expansion des marques comme 50 Lan, Gong Cha et CoCo dans plus de 40 pays
+- [Culture du thé](/fr/food/golden-age-echoes-taiwan-tea-culture) — Du thé Oolong de Theodore en 1865 au thé de montagne d'aujourd'hui, la légende du thé taïwanais
+
+## Sources d'images
+
+- Héros : Gros plan classique du thé à la perle, photo par Oqmilteashop, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Classic_bubble_tea.jpg), CC BY-SA 3.0.
 
 ## Références
 
-- [Site officiel de Chun Shui Tang : l'invention du bubble tea](https://www.chunshuitang.com.tw/article-detail/invent-bubble-milk-tea/) (source primaire)
-- [CNN Travel : The rise of bubble tea, one of Taiwan's most beloved beverages](https://edition.cnn.com/travel/article/taiwan-bubble-tea-origins/index.html) (avec citation de Lin Xiuhui)
-- [ETtoday : Qui a inventé le bubble tea ? Dix ans de procès entre Chun Shui Tang et Hanlin — le verdict](https://www.ettoday.net/news/20190731/1502150.htm) (reportage sur le jugement de 2019)
-- [Analyse du marché des boissons à emporter à Taïwan (données du ministère des Finances taïwanais)](https://lndatatech.github.io/taiwan-drink/) (source statistique primaire)
-- [TIME : What Is the Milk Tea Alliance?](https://time.com/5904114/milk-tea-alliance/) (contexte de la Milk Tea Alliance)
-- [Maximize Market Research : Global Bubble Tea Market Size 2024](https://www.maximizemarketresearch.com/market-report/global-bubble-tea-market/110228/) (données marché mondial)
-- [PubMed : 2011 Taiwan food scandal — plasticizer contamination](https://pubmed.ncbi.nlm.nih.gov/23684997/) (source académique primaire, données sur 965 produits contaminés)
-- [National University Hospital Singapore : What happens if you drink too much bubble tea?](https://www.nuhsplus.edu.sg/article/what-happens-if-you-drink-too-much-bubble-tea) (source de la citation du Dr Martin Lee)
+- [Site officiel de Chunshui : L'invention du thé à la perle](https://www.chunshuitang.com.tw/article-detail/invent-bubble-milk-tea/) (Source primaire)
+- [CNN Travel : The rise of bubble tea, one of Taiwan's most beloved beverages](https://edition.cnn.com/travel/article/taiwan-bubble-tea-origins/index.html) (Incluant le témoignage de Lin Xiu-hui)
+- [ETtoday : Qui a inventé le thé à la perle ? Chunshui et Hanlin se poursuivent depuis 10 ans, le verdict du tribunal est tombé](https://www.ettoday.net/news/20190731/1502150.htm) (Reportage sur le jugement de 2019)
+- [Analyse des données du marché des boissons artisanales à Taïwan (Statistiques du Ministère des Finances de Taïwan)](https://lndatatech.github.io/taiwan-drink/) (Source statistique primaire)
+- [TIME : What Is the Milk Tea Alliance?](https://time.com/5904114/milk-tea-alliance/) (Contexte de l'Alliance du thé au lait)
+- [Maximize Market Research : Global Bubble Tea Market Size 2024](https://www.maximizemarketresearch.com/market-report/global-bubble-tea-market/110228/) (Données de marché mondial)
+- [PubMed : Scandale alimentaire taïwanais en 2011 — contamination par des plastifiants](https://pubmed.ncbi.nlm.nih.gov/23684997/) (Source académique primaire, données sur la contamination de 965 produits)
+- [National University Hospital Singapore : What happens if you drink too much bubble tea?](https://www.nuhsplus.edu.sg/article/what-happens-if-you-drink-too-much-bubble-tea) (Source du témoignage du Dr Martin Lee)
+
+Sujets connexes de cet article : [Culture des marchés nocturnes](/fr/food/night-market-culture/), [Spécialités taïwanaises](/fr/food/taiwanese-street-food/), culture alimentaire taïwanaise.
