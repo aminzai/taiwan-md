@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-23T19:28:05+08:00",
-    "zhCommitHead": "82eaf3995",
+    "lastUpdated": "2026-09-23T20:26:42+08:00",
+    "zhCommitHead": "be2fb2872",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,8 +28,8 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 973,
-        "stale": 68,
+        "fresh": 977,
+        "stale": 64,
         "metadata_stale": 19,
         "missing": 64,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 912,
+        "fresh": 918,
         "stale": 14,
         "metadata_stale": 6,
-        "missing": 192,
+        "missing": 186,
         "orphan": 0
       }
     },
@@ -24653,20 +24653,18 @@
         "ja": {
           "path": "ja/Technology/science-park-development.md",
           "translatedFrom": "Technology/科技園區發展.md",
-          "sourceCommitSha": "11b9ab5c",
-          "sourceContentHash": "sha256:b2e42e39e2b6099a",
-          "sourceBodyHash": "sha256:08cc37391882e836",
-          "translatedAt": "2026-06-22T00:30:00+08:00",
+          "sourceCommitSha": "bc725e8c5",
+          "sourceContentHash": "sha256:19e7a45a0852260f",
+          "sourceBodyHash": "sha256:a1d16e29348fc28f",
+          "translatedAt": "2026-09-23T19:25:23+08:00",
           "translationLastCommit": "caa10522",
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "bytes": 45026,
+          "bytes": 39616,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Technology/science-park-development.md",
@@ -32598,7 +32596,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Technology/taiwan-software-industry-development.md",
+          "translatedFrom": "Technology/台灣軟體產業發展.md",
+          "sourceCommitSha": "24efd20f3",
+          "sourceContentHash": "sha256:e6d1dafa422fe928",
+          "sourceBodyHash": "sha256:1d51e9aba96f7253",
+          "translatedAt": "2026-09-23T19:25:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "bytes": 20714,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -36866,7 +36877,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Art/taiwanese-prose.md",
+          "translatedFrom": "Art/台灣散文.md",
+          "sourceCommitSha": "7415dcaae",
+          "sourceContentHash": "sha256:073fd0e58756d2a3",
+          "sourceBodyHash": "sha256:2c9c292fec3fdb34",
+          "translatedAt": "2026-09-23T19:25:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "bytes": 16061,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -66405,8 +66429,8 @@
           "sourceContentHash": "sha256:7528460cb857fc3b",
           "sourceBodyHash": "sha256:0b63d09474dfeccb",
           "translatedAt": "2026-09-23T17:23:33+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "be2fb287",
+          "translationLastModified": "2026-09-23T19:28:05+08:00",
           "inferred": false,
           "footnoteDefs": 23,
           "bytes": 42440,
@@ -66796,8 +66820,8 @@
           "sourceContentHash": "sha256:400d675ceaf05f40",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-23T10:46:00.139292+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "be2fb287",
+          "translationLastModified": "2026-09-23T19:28:05+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "bytes": 54673,
@@ -88701,8 +88725,8 @@
           "sourceContentHash": "sha256:8130ad5ab40eae13",
           "sourceBodyHash": "sha256:f699c0cd2ccbe17d",
           "translatedAt": "2026-09-23T18:41:12+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "be2fb287",
+          "translationLastModified": "2026-09-23T19:28:05+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "bytes": 24785,
@@ -105468,7 +105492,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/chi-cheng-flying-antelope.md",
+          "translatedFrom": "People/紀政.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:ec85f3e1d7f5d977",
+          "sourceBodyHash": "sha256:5932775fa82a34d0",
+          "translatedAt": "2026-09-23T19:25:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "bytes": 16005,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -121206,8 +121243,8 @@
           "sourceContentHash": "sha256:81084f8c4d60488a",
           "sourceBodyHash": "sha256:e37ed40c36801365",
           "translatedAt": "2026-09-23T18:41:12+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "be2fb287",
+          "translationLastModified": "2026-09-23T19:28:05+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "bytes": 21869,
@@ -133024,7 +133061,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/People/yeh-kuo-yi-electronics-manufacturing-pioneer.md",
+          "translatedFrom": "People/葉國一.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:736f2b6cf89c9093",
+          "sourceBodyHash": "sha256:728aa85d9d44e89a",
+          "translatedAt": "2026-09-23T19:25:25+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "bytes": 17629,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -153399,8 +153449,8 @@
           "sourceContentHash": "sha256:6170c025ca20811f",
           "sourceBodyHash": "sha256:41cfdb3eed2dcde1",
           "translatedAt": "2026-09-23T18:41:12+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "be2fb287",
+          "translationLastModified": "2026-09-23T19:28:05+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "bytes": 12000,
@@ -161400,18 +161450,18 @@
         "ja": {
           "path": "ja/Food/taiwan-fruit-kingdom.md",
           "translatedFrom": "Food/台灣水果王國.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:cec5a64527d2ad7f",
-          "sourceBodyHash": "sha256:c88724fc04366f08",
-          "translatedAt": "2026-05-01T18:09:43+08:00",
+          "sourceCommitSha": "813fde2d6",
+          "sourceContentHash": "sha256:e8ef7d9d72df6a42",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-23T11:56:28.071253+00:00",
           "translationLastCommit": "fd678fd2",
           "translationLastModified": "2026-07-25T10:32:02+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 13642,
+          "footnoteDefs": 40,
+          "bytes": 57108,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (40→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Food/taiwan-fruit-kingdom.md",
@@ -189555,20 +189605,18 @@
         "ja": {
           "path": "ja/Geography/data-taiwan-22-cities.md",
           "translatedFrom": "Geography/用數據看台灣22縣市.md",
-          "sourceCommitSha": "4437f621",
-          "sourceContentHash": "sha256:8f2edc35ffb515e3",
-          "sourceBodyHash": "sha256:1a4463448315b959",
-          "translatedAt": "2026-06-16T17:05:15Z",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:446265901543dd85",
+          "sourceBodyHash": "sha256:2daf1a831ec93084",
+          "translatedAt": "2026-09-23T19:25:42+08:00",
           "translationLastCommit": "caa10522",
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 31367,
+          "bytes": 30899,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Geography/data-taiwan-22-cities.md",
@@ -198854,20 +198902,18 @@
         "ja": {
           "path": "ja/Culture/penghu-folk-culture.md",
           "translatedFrom": "Culture/澎湖民俗文化.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:20a4e415d5a5b5ab",
-          "sourceBodyHash": "sha256:800e8b0751351b5e",
-          "translatedAt": "2026-05-01T18:02:56+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:e71b837d32f8708d",
+          "sourceBodyHash": "sha256:9b0e9ffb81c95f4e",
+          "translatedAt": "2026-09-23T19:25:23+08:00",
           "translationLastCommit": "dcb7eb53",
           "translationLastModified": "2026-09-22T01:05:35+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "bytes": 17726,
+          "bytes": 19497,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+6 -8"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Culture/penghu-folk-culture.md",
@@ -205962,7 +206008,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/taiwan-temple-festivals-and-performance-troupes.md",
+          "translatedFrom": "Culture/台灣廟會與陣頭文化.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:dd389bc47ee02430",
+          "sourceBodyHash": "sha256:57fa9edbc965f758",
+          "translatedAt": "2026-09-23T19:25:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "bytes": 17019,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -210928,7 +210987,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/taiwanese-life-ceremony-traditions.md",
+          "translatedFrom": "Culture/台灣婚喪喜慶與人生禮俗.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:23a33f282c63dd9f",
+          "sourceBodyHash": "sha256:b2520a23c500cf3f",
+          "translatedAt": "2026-09-23T19:25:45+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "bytes": 29301,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
