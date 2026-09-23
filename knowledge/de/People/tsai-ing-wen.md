@@ -29,10 +29,10 @@ rationale:
   whos_pushing_back: '國民黨、深綠本土派、原住民族倡議者、同婚專法批評者、退休軍公教與居住能源改革批評者。'
 relatedDiary: ['2026-07-12-225636-manual']
 translatedFrom: 'People/蔡英文.md'
-sourceCommitSha: '4f3974f86'
-sourceContentHash: 'sha256:2ea54fe4a3dcfc40'
-sourceBodyHash: 'sha256:3efdfebbac8eea3c'
-translatedAt: '2026-09-21T14:20:33.596626+00:00'
+sourceCommitSha: '7255b3ab1'
+sourceContentHash: 'sha256:ad617fbb654f67ae'
+sourceBodyHash: 'sha256:986ab9796f1069f2'
+translatedAt: '2026-09-23T18:02:03.054356+00:00'
 ---
 
 # Tsai Ing-wen: Von der Nacht der Niederlage zu 8,17 Millionen Stimmen – acht Jahre Präsidentschaft in Zurückhaltung
@@ -154,23 +154,23 @@ Daher sind „weniger diplomatische Partner“ und „mehr internationale Unters
 
 ## Nach dem Amt: Zuerst die Regeln prüfen, dann handeln
 
-Am 20. Mai 2024 übergab Tsai Ing-wen das Präsidentenamt an Lai Ching-te. Die Demokratische Fortschrittspartei (DPP) hatte drei aufeinanderfolgende Präsidentschaftswahlen gewonnen, was ein erstmaliges Parteiergebnis nach der direkten Wahl des Präsidenten war.
+Am 20. Mai 2024 übergab Tsai Ing-wen das Präsidentenamt an Lai Ching-te. Der Demokratische Fortschrittspartei (DPP) hatte drei aufeinanderfolgende Präsidentschaftswahlen gewonnen, was ein erstmaliges Parteiergebnis nach der direkten Wahl des Präsidenten war.
 
-Im Oktober desselben Jahres besuchte sie als ehemalige Präsidentin Tschechien, Frankreich und Belgien und nahm in einem Parlamentsabend im Europäischen Parlament teil. Sie war die erste ehemalige Präsidentin Taiwans, die das EU-Hauptquartier betrat, doch es handelte sich nicht um eine offizielle Rede im Europäischen Parlament; die ursprünglich geplante Reise nach Großbritannien fand nicht statt.[^18]
+Im Oktober desselben Jahres besuchte sie als ehemalige Präsidentin Tschechien, Frankreich und Belgien und nahm in einem Abgeordnetensalon im Europäischen Parlament teil. Sie war die erste ehemalige Präsidentin Taiwans, die das Europäische Hauptquartier besucht hatte, doch es handelte sich nicht um eine formelle Rede im Europäischen Parlament; die geplante Reise nach Großbritannien fand ebenfalls nicht statt. [^18]
 
-Von den WTO-Verhandlungsbäneten bis zu einem Konferenzraum des Europäischen Parlaments tat sie weiterhin Ähnliches: Sie sah zuerst, was die Regeln erlaubten, und brachte Taiwan an diese Grenze.
+Von der WTO-Verhandlungsbank bis zu einem Konferenzraum im Europäischen Parlament tat sie weiterhin dasselbe: Sie sah zuerst, was die Regeln erlaubten, und brachte Taiwan an diese Grenze.
 
-Die Geschichte kehrt zum Wahlsieg von 2012 zurück. Der Satz „Nicht aufgeben“ war nach acht Jahren Präsidentschaft nicht mehr nur ein Trostwort. Die Landrechte der indigenen Völker, die Justizreform, die Immobilienpreise, die Energie und das Risiko in der Taiwanstraße wurden von ihr nicht gelöst; die Gesetze zur gleichgeschlechtlichen Ehe, das Rentensystem und die Verteidigungsanpassung waren Realitäten, mit denen die nachfolgende Regierung umgehen oder reagieren musste.
+Die Geschichte kehrt zum Wahlsieg von 2012 zurück. Der Satz „Nicht aufgeben“ war nach acht Jahren als Präsidentin nicht mehr nur ein Trostwort. Die Probleme des indigenen Landes, der Justizreform, der Immobilienpreise, der Energie und des Taiwan-See-Risikos wurden von ihr nicht gelöst; die Gesetze zur gleichgeschlechtlichen Ehe, das Rentensystem und die Verteidigungsanpassung waren Realitäten, mit denen die Nachfolgeregierung umgehen oder reagieren musste.
 
-Als sie das Präsidentenamt verließ, war die Zahl von 8,17 Millionen Stimmen bereits Geschichte. Was blieb, war ein anderes, ruhigeres Beweisstück: Ein Politiker kann Systeme hinterlassen, ohne lauter zu schreien; und diese Systeme bewahren sowohl das, was er erreicht hat, als auch das, was er nicht geschafft hat.
+Als sie das Präsidentenamt verließ, war die Zahl der 8,17 Millionen Stimmen bereits Geschichte. Was blieb, war ein anderes, ruhigeres Beweisstück: Ein Politiker konnte Institutionen hinterlassen, ohne laut zu sein, und diese Institutionen bewahrten sowohl das Gesparte als auch das Unvollendete sorgfältig auf.
 
 **Weiterführende Lektüre**:
 
-- [Das unsichtbare Land](/art/看不見的國家) — Eine Dokumentation von Ge Jeong-mun, die sieben Jahre Tsais Ing-wens begleitet und ihre Persönlichkeit sowie die taiwanische Demokratie aus externer Sicht beobachtet.
-- [Ehe und Gleichberechtigung in Taiwan](/de/society/taiwan-marriage-equality-lgbtq-rights) — Der gesamte Prozess von der Zeichen 748, über das Referendum bis zum Inkrafttreten des Gesetzes.
-- [Geschichte und Namensgebung der indigenen Völker Taiwans](/history/台灣原住民族歷史與正名運動) — Der Kampf vor der Entschuldigung und die weiterhin zu klärenden Fragen bezüglich Land und Identität nach der Entschuldigung.
-- [Ma Ying-jeou](馬英九.md) — Die ehemalige Präsidentin, die Tsai Ing-wen 2012 besiegte und ihr 2016 das Amt übergab.
-- [Lai Ching-te](賴清德.md) — Vizepräsidentin und Nachfolger von Tsai Ing-wen.
+- [Das unsichtbare Land](/de/art/invisible-nation) — Die Dokumentation von Ge Jeong-mun, die sieben Jahre Tsais Ing-wens begleitet und ihre Persönlichkeit sowie die taiwanische Demokratie aus externer Sicht beobachtet.
+- [Taiwan: Gleichgeschlechtliche Ehe und Geschlechtergerechtigkeit](/de/society/taiwan-marriage-equality-lgbtq-rights) — Der vollständige Verlauf vom Artikel 748 bis zum Inkrafttreten des Gesetzes.
+- [Geschichte der indigenen Völker Taiwans und die Namensgebungsbewegung](/de/history/indigenous-peoples-history-and-naming-movement) — Der Kampf vor der Entschuldigung und die anhängenden Land- und Identitätsprobleme nach der Entschuldigung.
+- [Ma Ying-jeou](/de/people/ma-ying-jeou-cross-strait-reconciliation-leader) — Die am 2012 Tsai Ing-wen besiegende und sie im Jahr 2016 an die Macht übergebende ehemalige Präsidentin.
+- [Lai Ching-te](/de/people/lai-ching-te) — Vizepräsident von Tsai Ing-wen und ihr Nachfolger.
 
 ## Bildquellen
 

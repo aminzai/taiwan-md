@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-24T03:18:05+08:00",
-    "zhCommitHead": "6f6ab6afe",
+    "lastUpdated": "2026-09-24T03:29:56+08:00",
+    "zhCommitHead": "4674b71be",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1078,
-        "stale": 31,
+        "fresh": 1079,
+        "stale": 30,
         "metadata_stale": 0,
         "missing": 15,
         "orphan": 0
@@ -36,8 +36,8 @@
       },
       "ko": {
         "total_zh": 1124,
-        "fresh": 1077,
-        "stale": 32,
+        "fresh": 1078,
+        "stale": 31,
         "metadata_stale": 0,
         "missing": 15,
         "orphan": 0
@@ -68,8 +68,8 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 1024,
-        "stale": 33,
+        "fresh": 1025,
+        "stale": 32,
         "metadata_stale": 0,
         "missing": 67,
         "orphan": 0
@@ -84,18 +84,18 @@
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 1020,
+        "fresh": 1021,
         "stale": 21,
         "metadata_stale": 0,
-        "missing": 83,
+        "missing": 82,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 1044,
+        "fresh": 1045,
         "stale": 22,
         "metadata_stale": 0,
-        "missing": 58,
+        "missing": 57,
         "orphan": 0
       },
       "ru": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 980,
+        "fresh": 981,
         "stale": 3,
         "metadata_stale": 0,
-        "missing": 141,
+        "missing": 140,
         "orphan": 0
       }
     },
@@ -10091,7 +10091,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/taiwan-orchid-industry.md",
+          "translatedFrom": "Economy/台灣蘭花.md",
+          "sourceCommitSha": "63fb967a1",
+          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
+          "sourceBodyHash": "sha256:f9ade260f241a953",
+          "translatedAt": "2026-09-23T22:12:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "bytes": 21567,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -15237,8 +15250,8 @@
           "sourceContentHash": "sha256:b945d3a9f265b5de",
           "sourceBodyHash": "sha256:9cb708cf066e8c05",
           "translatedAt": "2026-09-23T22:11:54+08:00",
-          "translationLastCommit": "af8fa505",
-          "translationLastModified": "2026-07-28T08:16:06+08:00",
+          "translationLastCommit": "4674b71b",
+          "translationLastModified": "2026-09-24T03:18:05+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "bytes": 26630,
@@ -18638,8 +18651,8 @@
           "sourceContentHash": "sha256:bea7a776566a0bbd",
           "sourceBodyHash": "sha256:760025faea8ce9a0",
           "translatedAt": "2026-09-23T22:11:54+08:00",
-          "translationLastCommit": "502c9338",
-          "translationLastModified": "2026-08-01T00:13:09+08:00",
+          "translationLastCommit": "4674b71b",
+          "translationLastModified": "2026-09-24T03:18:05+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "bytes": 23176,
@@ -38293,8 +38306,8 @@
           "sourceContentHash": "sha256:6bc07dcf7ad94466",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-23T18:12:07.407120+00:00",
-          "translationLastCommit": "e8265091",
-          "translationLastModified": "2026-08-09T11:18:44+08:00",
+          "translationLastCommit": "4674b71b",
+          "translationLastModified": "2026-09-24T03:18:05+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "bytes": 21352,
@@ -58796,20 +58809,18 @@
         "en": {
           "path": "en/Society/volunteering-and-civic-charity-in-taiwan.md",
           "translatedFrom": "Society/台灣志工文化與公益參與.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:47c6a7bb7a1ac1e1",
-          "sourceBodyHash": "sha256:edcd412e8178b727",
-          "translatedAt": "2026-05-25T21:06:51Z",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:83e68a6262dbf058",
+          "sourceBodyHash": "sha256:7149df720d9ca880",
+          "translatedAt": "2026-09-23T22:11:44+08:00",
           "translationLastCommit": "29e0766d",
           "translationLastModified": "2026-07-25T10:34:23+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 8201,
+          "bytes": 12295,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+2 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Society/volunteering-and-civic-charity-in-taiwan.md",
@@ -150675,8 +150686,8 @@
           "sourceContentHash": "sha256:d06ea631387761c6",
           "sourceBodyHash": "sha256:1e5405f424ed35fc",
           "translatedAt": "2026-09-23T22:11:54+08:00",
-          "translationLastCommit": "1c89db9a",
-          "translationLastModified": "2026-09-22T01:05:58+08:00",
+          "translationLastCommit": "4674b71b",
+          "translationLastModified": "2026-09-24T03:18:05+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 18649,
@@ -151070,8 +151081,8 @@
           "sourceContentHash": "sha256:a61d4f2f204a976e",
           "sourceBodyHash": "sha256:1596d4035cbdfea6",
           "translatedAt": "2026-09-23T22:11:54+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4674b71b",
+          "translationLastModified": "2026-09-24T03:18:05+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "bytes": 25390,
@@ -151099,7 +151110,20 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Food/taiwan-soy-sauce.md",
+          "translatedFrom": "Food/醬油.md",
+          "sourceCommitSha": "dab0de0c1",
+          "sourceContentHash": "sha256:a61d4f2f204a976e",
+          "sourceBodyHash": "sha256:1596d4035cbdfea6",
+          "translatedAt": "2026-09-23T22:12:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "bytes": 44562,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Food/taiwan-soy-sauce.md",
@@ -155314,20 +155338,18 @@
         "ko": {
           "path": "ko/Food/hand-shaken-drink-culture.md",
           "translatedFrom": "Food/台灣手搖飲文化.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:874c652bf8f5b63c",
-          "sourceBodyHash": "sha256:53b616e81595b8c6",
-          "translatedAt": "2026-05-20T05:08:30+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:f41c9bad8a88780e",
+          "sourceBodyHash": "sha256:b1b3fe1671d31604",
+          "translatedAt": "2026-09-23T22:11:48+08:00",
           "translationLastCommit": "5f8252f9",
           "translationLastModified": "2026-09-22T01:05:42+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 14454,
+          "bytes": 14384,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+13 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Food/hand-shaken-drink-culture.md",
@@ -180148,8 +180170,8 @@
           "sourceContentHash": "sha256:4a36332de3715b33",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-23T17:44:32.051535+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4674b71b",
+          "translationLastModified": "2026-09-24T03:18:05+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "bytes": 28447,
@@ -181900,18 +181922,18 @@
         "id": {
           "path": "id/History/taiwan-strait-crises-and-cross-strait-relations.md",
           "translatedFrom": "History/台海危機與兩岸關係發展.md",
-          "sourceCommitSha": "dd39065b2",
-          "sourceContentHash": "sha256:fcdf343dc3efa72e",
-          "sourceBodyHash": "sha256:8952fca56720f010",
-          "translatedAt": "2026-09-09T15:32:33+08:00",
+          "sourceCommitSha": "5aa11ee92",
+          "sourceContentHash": "sha256:292f82300f3a8a11",
+          "sourceBodyHash": "sha256:dbb56e0c9c904d7c",
+          "translatedAt": "2026-09-23T22:11:56+08:00",
           "translationLastCommit": "e30a5f63",
           "translationLastModified": "2026-09-16T15:38:03+08:00",
           "inferred": false,
-          "footnoteDefs": 9,
-          "bytes": 22438,
+          "footnoteDefs": 11,
+          "bytes": 22642,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (11→9)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/History/taiwan-strait-crises-and-cross-strait-relations.md",
@@ -186389,7 +186411,20 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Geography/alishan-forest-railway.md",
+          "translatedFrom": "Geography/阿里山林業鐵路.md",
+          "sourceCommitSha": "da79c32b0",
+          "sourceContentHash": "sha256:98502e991d7261a6",
+          "sourceBodyHash": "sha256:7466cc3940afd368",
+          "translatedAt": "2026-09-23T22:12:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "bytes": 31656,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -209223,8 +209258,8 @@
           "sourceContentHash": "sha256:82a373ca1ee51cf4",
           "sourceBodyHash": "sha256:fc1ffe59248c5ac1",
           "translatedAt": "2026-09-23T22:11:54+08:00",
-          "translationLastCommit": "d1237168",
-          "translationLastModified": "2026-08-09T12:31:16+08:00",
+          "translationLastCommit": "4674b71b",
+          "translationLastModified": "2026-09-24T03:18:05+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "bytes": 20247,
@@ -216944,8 +216979,8 @@
           "sourceContentHash": "sha256:ea660a4477ab8648",
           "sourceBodyHash": "sha256:ab22f8e268664ba4",
           "translatedAt": "2026-09-23T22:11:54+08:00",
-          "translationLastCommit": "74349bb6",
-          "translationLastModified": "2026-09-24T01:05:06+08:00",
+          "translationLastCommit": "4674b71b",
+          "translationLastModified": "2026-09-24T03:18:05+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "bytes": 16353,
