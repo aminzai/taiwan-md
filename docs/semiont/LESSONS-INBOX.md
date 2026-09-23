@@ -332,6 +332,29 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-23 twmd-maintainer-am — italic-span-defeats-url-escaping：把網址包進角括號救不了它，因為會改壞它的是外面那層斜體
+
+- **pattern**: `italic-span-defeats-url-escaping`
+- **原則**：整行圖說包在 `_..._` 裡、而裡面的網址帶底線時，pre-commit 的 prettier 會把那層斜體重新解析，順手把網址裡的底線改成星號，連結當場失效。**角括號（CommonMark 的網址跳脫寫法）在這個情境下不成立**：林安泰古厝同一條網址，在清單行帶角括號沒事、在斜體行同樣帶角括號照樣被改。會出事的是斜體這層容器，不是網址本身缺跳脫——**跳脫寫在被害者身上沒有用，要改的是加害者所在的那一層**。修法是把「圖片來源／原始圖片與授權說明」那段移出斜體，圖說本文仍是斜體。
+- **觸發**：2026-09-23 twmd-maintainer-am 要 commit 九篇母稿的連結修補，口罩國家隊在 pre-commit 被擋。這是 2026-09-07 `formatter-vs-checker` 那條明寫「**尚未量出全庫有幾篇斜體圖說內含帶底線網址，不知道這是偶發還是一個家族**」的未解項，本班量完了：**全庫母稿三篇**（口罩國家隊／台中捷運／林安泰古厝），八處，全部當班修掉。→ memory/2026-09-23-084836-twmd-maintainer-am.md
+- **量它的時候尺錯了兩次，兩次都是靜默的**：
+  - **第一把尺**比對網址「集合」（改前 vs prettier 跑後）。回 0 命中。原因是同一條網址通常在腳註也有一份、那份不在斜體裡不會被改，集合因此不變，而圖說那一份已經壞了。改成比對**每條網址的出現次數**才看得見。0 命中當下沒有當成答案，照 REFLEXES #99 先跑正控制（拿已知會壞的那篇餵進去），才發現是尺瞎了不是病沒了。
+  - **第二把尺**是我自己寫的候選網（斜體span 內含帶底線網址）：撈出 139 篇母稿、343 處，看起來是個大家族。用 prettier 實跑逐篇驗完，真正會壞的只有 3 篇。**候選網不是量測結果**，中間隔著一次實跑。
+- **修補候選**：(a) `article-health` 加一個 plugin（或併進既有 `link-url-mangle`）：對每個檔案跑一次 prettier 比對網址出現次數，差異即 hard——這道尺是確定性的、便宜、每次 commit 都在，比靠人記得「斜體裡不要放帶底線的網址」可靠（MANIFESTO §14 高儀器化）；(b) EDITORIAL 圖說格式補一句「圖片來源與授權那段放在斜體外」，讓新寫的文章不再長出這個形狀；(c) 譯文層未量——母稿只有 3 篇，但譯文是否也帶同形圖說、babel 重翻時會不會被 prettier 改壞，本班沒查。
+- **可能層級**：儀器（article-health plugin，最該做的一層）＋ EDITORIAL 圖說格式一句
+- **相關**：2026-09-07 `formatter-vs-checker-disagree...`（本條是它留下的未解項的答案，且補了一個它沒寫到的關鍵事實：角括號無效）、REFLEXES #99 尺先驗再用（0 命中先跑正控制，本條救回一次假陰性）、#82 proxy signal（「網址集合沒變」是「每一處網址都完好」的替身）、#65 awareness instrument 自身要 cross-verify、MANIFESTO §14 高儀器化
+- **verification_count**: 1
+
+### 2026-09-23 twmd-maintainer-am — prescribed-profile-is-not-the-gate-profile：pipeline 指名要帶的那個 profile，不是 commit 真正會跑的那一把
+
+- **pattern**: `prescribed-profile-is-not-the-gate-profile`
+- **原則**：`MAINTAINER-PIPELINE` §Step 3.5 與 §Top 5 都明文「`--profile=ci-deploy` 必帶」，理由寫得很具體（不帶 profile 會拿到 CI 不認的綠燈）。但 pre-commit 實際跑的是 `--profile=pre-commit`，兩個 profile 的檢查集合不相等：本班九個檔在 `ci-deploy` 全部 hard=0，照 SOP 走完準備 commit，其中一篇在 `pre-commit` 是 hard=1（`footnote-format`，檔尾一對沒有意義的反引號讓 prettier 把腳註折成縮排續行）。**那條規則沒有寫錯，它只是不完整**：它防的是「漏跑 ci-deploy」，沒防「只跑 ci-deploy」。照著 canonical 一字不差地做，仍然會在 commit 那一刻被擋。
+- **觸發**：2026-09-23 twmd-maintainer-am，九篇母稿連結修補。→ memory/2026-09-23-084836-twmd-maintainer-am.md
+- **修補候選**：(a) §Step 3.5 與 Top-5 那條改成「heal 完跑 `--profile=ci-deploy` **與** `--profile=pre-commit` 兩把，或直接跑 `--staged --profile=pre-commit` 模擬 commit 閘門」；(b) 更根本的是讓工具自己講：`article-health` 印 Summary 時附一行「本次用的是 profile X；commit 閘門用的是 pre-commit」，讓兩把尺的存在在輸出裡看得見，不必靠讀 pipeline 記得。
+- **可能層級**：MAINTAINER-PIPELINE §Step 3.5 一句 ＋ article-health 輸出一行
+- **相關**：REFLEXES #83 checker 兩把尺 divergence（本條是它的 profile 變體，且這次是 **canonical 自己只指名其中一把**）、#82 proxy signal（「ci-deploy 綠」是「commit 會過」的替身）、#66 gate threshold 要用真實產出 dogfood 校準
+- **verification_count**: 1
+
 ### 2026-09-23 twmd-spore-harvest-am — chrome-headless-window-blocks-extension：擴充功能連不上的根因是瀏覽器沒有視窗，而兩班之間沒有人問過那個問題
 
 - **pattern**: `chrome-headless-window-blocks-extension`
