@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-24T02:04:24+08:00",
-    "zhCommitHead": "ab98c27e9",
+    "lastUpdated": "2026-09-24T02:11:25+08:00",
+    "zhCommitHead": "bb48e2f49",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1075,
-        "stale": 34,
+        "fresh": 1076,
+        "stale": 33,
         "metadata_stale": 0,
         "missing": 15,
         "orphan": 0
@@ -36,8 +36,8 @@
       },
       "ko": {
         "total_zh": 1124,
-        "fresh": 1072,
-        "stale": 37,
+        "fresh": 1073,
+        "stale": 36,
         "metadata_stale": 0,
         "missing": 15,
         "orphan": 0
@@ -52,18 +52,18 @@
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1072,
-        "stale": 39,
+        "fresh": 1073,
+        "stale": 38,
         "metadata_stale": 0,
         "missing": 13,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 1093,
+        "fresh": 1094,
         "stale": 18,
         "metadata_stale": 1,
-        "missing": 12,
+        "missing": 11,
         "orphan": 0
       },
       "id": {
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 1018,
+        "fresh": 1019,
         "stale": 21,
         "metadata_stale": 0,
-        "missing": 85,
+        "missing": 84,
         "orphan": 0
       },
       "ar": {
@@ -15192,8 +15192,8 @@
           "sourceContentHash": "sha256:b945d3a9f265b5de",
           "sourceBodyHash": "sha256:9cb708cf066e8c05",
           "translatedAt": "2026-09-23T22:11:50+08:00",
-          "translationLastCommit": "df411148",
-          "translationLastModified": "2026-07-27T10:57:42+08:00",
+          "translationLastCommit": "bb48e2f4",
+          "translationLastModified": "2026-09-24T02:04:25+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "bytes": 25499,
@@ -17199,8 +17199,8 @@
           "sourceContentHash": "sha256:0aa215792db0c157",
           "sourceBodyHash": "sha256:abefead0dde8fee7",
           "translatedAt": "2026-09-23T22:11:50+08:00",
-          "translationLastCommit": "74349bb6",
-          "translationLastModified": "2026-09-24T01:05:06+08:00",
+          "translationLastCommit": "bb48e2f4",
+          "translationLastModified": "2026-09-24T02:04:25+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "bytes": 29002,
@@ -70817,7 +70817,20 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Society/shuidaotou-waterworks.md",
+          "translatedFrom": "Society/水道頭.md",
+          "sourceCommitSha": "015d1a9c9",
+          "sourceContentHash": "sha256:d584a485050631e9",
+          "sourceBodyHash": "sha256:5fb85b385727325b",
+          "translatedAt": "2026-09-23T22:12:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "bytes": 58261,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Society/shuidaotou-waterworks.md",
@@ -125820,8 +125833,8 @@
           "sourceContentHash": "sha256:50a3b31b4cb61eed",
           "sourceBodyHash": "sha256:e893f57da90167f4",
           "translatedAt": "2026-09-23T22:11:50+08:00",
-          "translationLastCommit": "c297b51f",
-          "translationLastModified": "2026-09-22T08:43:11+08:00",
+          "translationLastCommit": "bb48e2f4",
+          "translationLastModified": "2026-09-24T02:04:25+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "bytes": 21040,
@@ -157035,20 +157048,18 @@
         "en": {
           "path": "en/Food/taiwanese-street-food.md",
           "translatedFrom": "Food/台灣小吃.md",
-          "sourceCommitSha": "1facb1b9",
-          "sourceContentHash": "sha256:d44d711c2a614f5f",
-          "sourceBodyHash": "sha256:fc8359a5a9777af0",
-          "translatedAt": "2026-05-13T01:07:52Z",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:da45c346079f5144",
+          "sourceBodyHash": "sha256:40a1aa98903d8e72",
+          "translatedAt": "2026-09-23T22:11:44+08:00",
           "translationLastCommit": "d6ea86f0",
           "translationLastModified": "2026-09-22T01:05:30+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 19713,
+          "bytes": 18947,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+9 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Food/taiwanese-street-food.md",
@@ -157069,20 +157080,18 @@
         "ko": {
           "path": "ko/Food/taiwanese-street-food.md",
           "translatedFrom": "Food/台灣小吃.md",
-          "sourceCommitSha": "1facb1b9c",
-          "sourceContentHash": "sha256:d44d711c2a614f5f",
-          "sourceBodyHash": "sha256:fc8359a5a9777af0",
-          "translatedAt": "2026-07-26T13:23:36+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:da45c346079f5144",
+          "sourceBodyHash": "sha256:40a1aa98903d8e72",
+          "translatedAt": "2026-09-23T22:11:48+08:00",
           "translationLastCommit": "5f8252f9",
           "translationLastModified": "2026-09-22T01:05:42+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 21029,
+          "bytes": 20596,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+9 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Food/taiwanese-street-food.md",
@@ -157091,8 +157100,8 @@
           "sourceContentHash": "sha256:da45c346079f5144",
           "sourceBodyHash": "sha256:40a1aa98903d8e72",
           "translatedAt": "2026-09-23T22:11:50+08:00",
-          "translationLastCommit": "de52e731",
-          "translationLastModified": "2026-09-22T01:05:46+08:00",
+          "translationLastCommit": "bb48e2f4",
+          "translationLastModified": "2026-09-24T02:04:25+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 20699,
@@ -164605,20 +164614,18 @@
         "fr": {
           "path": "fr/Food/taiwan-specialty-home-cooking.md",
           "translatedFrom": "Food/台灣手路菜.md",
-          "sourceCommitSha": "b0e441fa",
-          "sourceContentHash": "sha256:976bf813ab549fe2",
-          "sourceBodyHash": "sha256:c76694b44c893f41",
-          "translatedAt": "2026-06-10T16:45:50Z",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:9223547d26dcdf04",
+          "sourceBodyHash": "sha256:68bfe9c03d05ae36",
+          "translatedAt": "2026-09-23T22:11:52+08:00",
           "translationLastCommit": "677cd01d",
           "translationLastModified": "2026-09-22T01:05:52+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 18631,
+          "bytes": 18088,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+8 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Food/taiwan-specialty-home-cooking.md",
@@ -180096,7 +180103,20 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/History/kano-chiayi-agriculture-forestry.md",
+          "translatedFrom": "History/嘉義農林.md",
+          "sourceCommitSha": "7147bb94b",
+          "sourceContentHash": "sha256:4a36332de3715b33",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-23T17:44:32.051535+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "bytes": 28447,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/History/kano-chiayi-agriculture-forestry.md",
@@ -181810,8 +181830,8 @@
           "sourceContentHash": "sha256:292f82300f3a8a11",
           "sourceBodyHash": "sha256:dbb56e0c9c904d7c",
           "translatedAt": "2026-09-23T22:11:50+08:00",
-          "translationLastCommit": "afdf727a",
-          "translationLastModified": "2026-07-27T19:00:44+08:00",
+          "translationLastCommit": "bb48e2f4",
+          "translationLastModified": "2026-09-24T02:04:25+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "bytes": 24668,
@@ -183582,8 +183602,8 @@
           "sourceContentHash": "sha256:bf88a96f60bbcd8e",
           "sourceBodyHash": "sha256:f8662882b41f1947",
           "translatedAt": "2026-09-23T16:33:48.560676+00:00",
-          "translationLastCommit": "db8c390c",
-          "translationLastModified": "2026-09-22T00:50:12+08:00",
+          "translationLastCommit": "bb48e2f4",
+          "translationLastModified": "2026-09-24T02:04:25+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "bytes": 35811,
