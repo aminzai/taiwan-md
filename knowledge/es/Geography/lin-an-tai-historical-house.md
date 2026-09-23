@@ -24,37 +24,35 @@ rationale:
   whos_pushing_back: '把政府、林家、專家與都市工程放在同一張衝突地圖，不把任何一方寫成單一反派。'
 curation: 'incubating'
 translatedFrom: 'Geography/林安泰古厝.md'
-sourceCommitSha: '13c7fbcdb'
-sourceContentHash: 'sha256:47d89dc0ac03a566'
-sourceBodyHash: 'sha256:7079616fec64f3a7'
-translatedAt: '2026-09-11T04:29:34+08:00'
+sourceCommitSha: 'd9ef16d5e'
+sourceContentHash: 'sha256:bf88a96f60bbcd8e'
+sourceBodyHash: 'sha256:f8662882b41f1947'
+translatedAt: '2026-09-23T16:33:48.560676+00:00'
 ---
 
-> **Resumen en 30 segundos:** La antigua residencia Lin An Tai estaba originalmente en la calle Siwei, distrito de Da'an. Fue desmantelada en 1977 debido a la ampliación de la Avenida Dunhua Sur. Tras pasar por un almacén temporal en la calle Anhe y bajo el puente elevado de la Avenida Heping Oeste, finalmente fue reconstruida en el Parque Binjiang. Conserva parte de la evidencia material de la residencia de los inmigrantes de Anxi de la dinastía Qing y los patios minnan, pero deja planteado el problema de que el traslado no puede llevarse consigo el paisaje y la vida del sitio original.
+> **Resumen en 30 segundos:** La antigua residencia Lin An Tai estaba originalmente en la calle Siwei del distrito de Daan; debido al ensanchamiento de la calle Dunhua Sur, fue desmontada en 1977, pasó por ubicaciones intermedias como el almacén de la calle Anhe y bajo el viaducto de la calle Heping Oeste, y finalmente se reconstruyó en el parque Binjiang. Conserva parte de la evidencia material de una mansión de inmigrantes de Anxi de la era Qing y de un patio minnan, pero también deja el problema de que la conservación por traslado no puede llevarse por completo el paisaje y la vida del sitio original.
 
-![Entrada y muro de la Residencia Antigua Lin An Tai Museo de Arte Popular, 2019.](https://upload.wikimedia.org/wikipedia/commons/9/90/Lin_An_Tai_Historical_House_%26_Museum_-_Taipei_-_Taiwan_-_01_%2847873685321%29.jpg)
+![Entrada y muralla del Museo de Arte Popular de la Residencia Antigua Lin An Tai, 2019.](https://upload.wikimedia.org/wikipedia/commons/9/90/Lin_An_Tai_Historical_House_%26_Museum_-_Taipei_-_Taiwan_-_01_%2847873685321%29.jpg)
 
-_Foto: Adam Jones, Wikimedia Commons, CC BY-SA 2.0. Imagen original y detalles de licencia en página de descripción de la imagen. Imagen sin modificaciones._
+_Foto: Adam Jones, Wikimedia Commons, CC BY-SA 2.0._ Ver la [página de descripción de la imagen](<https://commons.wikimedia.org/wiki/File:Lin_An_Tai_Historical_House_%26_Museum_-_Taipei_-_Taiwan_-_01_(47873685321).jpg>) para la imagen original y la información de licencia. La imagen no ha sido modificada.
 
-[página de descripción de la imagen](<https://commons.wikimedia.org/wiki/File:Lin_An_Tai_Historical_House_%26_Museum_-_Taipei_-_Taiwan_-_01_(47873685321).jpg>)
+![Exterior de la Residencia Antigua Lin An Tai y estanque en forma de media luna.](https://upload.wikimedia.org/wikipedia/commons/a/a8/Lin_An_Tai_Historical_House_02.jpg)
 
-![Vista exterior de la Residencia Antigua Lin An Tai y el Estanque Yue Mei.](https://upload.wikimedia.org/wikipedia/commons/a/a8/Lin_An_Tai_Historical_House_02.jpg)
+_Foto: Bernard Gagnon, Wikimedia Commons, CC BY-SA 3.0._ Ver la [página de descripción de la imagen](https://commons.wikimedia.org/wiki/File:Lin_An_Tai_Historical_House_02.jpg) para la imagen original y la información de licencia. La imagen no ha sido modificada.
 
-_Foto: Bernard Gagnon, Wikimedia Commons, CC BY-SA 3.0. Imagen original y detalles de licencia en [página de descripción de la imagen](https://commons.wikimedia.org/wiki/File:Lin_An_Tai_Historical_House_02.jpg). Imagen sin modificaciones._
+![Edificio principal de la Residencia Antigua Lin An Tai y estanque en forma de media luna.](https://upload.wikimedia.org/wikipedia/commons/c/c8/Lin_An_Tai_Historical_House_01.jpg)
 
-![Vista frontal de la Residencia Antigua Lin An Tai y el Estanque Yue Mei.](https://upload.wikimedia.org/wikipedia/commons/c/c8/Lin_An_Tai_Historical_House_01.jpg)
-
-_Foto: Bernard Gagnon, Wikimedia Commons, CC BY-SA Licencia múltiple. Imagen original y detalles de licencia en [página de descripción de la imagen](https://commons.wikimedia.org/wiki/File:Lin_An_Tai_Historical_House_01.jpg). Imagen sin modificaciones._
+_Foto: Bernard Gagnon, Wikimedia Commons, CC BY-SA licencia múltiple._ Ver la [página de descripción de la imagen](https://commons.wikimedia.org/wiki/File:Lin_An_Tai_Historical_House_01.jpg) para la imagen original y la información de licencia. La imagen no ha sido modificada.
 
 ![Jardín y elementos acuáticos de la Residencia Antigua Lin An Tai.](https://upload.wikimedia.org/wikipedia/commons/c/c0/Lin_An_Tai_Historical_House_04.jpg)
 
-_Foto: Bernard Gagnon, Wikimedia Commons, CC BY-SA 3.0. Imagen original y detalles de licencia en [página de descripción de la imagen](https://commons.wikimedia.org/wiki/File:Lin_An_Tai_Historical_House_04.jpg). Imagen sin modificaciones._
+_Foto: Bernard Gagnon, Wikimedia Commons, CC BY-SA 3.0._ Ver la [página de descripción de la imagen](https://commons.wikimedia.org/wiki/File:Lin_An_Tai_Historical_House_04.jpg) para la imagen original y la información de licencia. La imagen no ha sido modificada.
 
-En 1977, en el número 141 de la calle Siwei, distrito de Da'an, Taipéi, una casa que ya llevaba unos doscientos años en pie comenzó a ser desmantelada. No fue la excavadora quien entró primero, sino que ventanas, muebles, tejas, componentes de madera, ladrillos y losas de piedra salieron de sus posiciones originales una por una. Ese año, la obra de ampliación de la Avenida Dunhua Sur se acercaba a la antigua residencia Lin An Tai. [^1]
+En 1977, en el número 141 de la calle Siwei del distrito de Daan, Taipéi, una casa que llevaba unos doscientos años en pie comenzó a ser desmontada. No fueron las excavadoras las que entraron primero, sino que ventanas, muebles, tejas, componentes de madera, ladrillos y losas de piedra fueron dejando su posición original uno a uno. Ese año, las obras de ensanchamiento de la calle Dunhua Sur se acercaron a la Residencia Antigua Lin An Tai.[^1]
 
-Desde el sitio original hasta el Parque Binjiang, la distancia en línea recta es de unos diez kilómetros. Este trayecto tardó diez años en recorrerse, y la residencia antigua solo se volvió a levantar en una nueva tierra. [^2] Por ello, la Residencia Antigua Lin An Tai se convierte en una historia poco adecuada para ser resumida simplemente como un "éxito de conservación". Es cierto que se salvó, pero es cierto también que perdió su geografía, su vecindario y su vida originales.
+Desde el sitio original hasta el parque Binjiang, la distancia en línea recta es de unos diez kilómetros. Este camino tardó diez años en recorrerse antes de que la antigua residencia volviera a erguirse en una nueva tierra.[^2] La Residencia Antigua Lin An Tai se convirtió así en una historia que no se resume bien con solo «conservación exitosa». Efectivamente permaneció, pero también perdió efectivamente su geografía, su vecindario y su vida originales.[^2]
 
-> **Nota del curador:** Una casa puede ser trasladada, pero la relación entre la casa y la tierra no puede ser empaquetada en su totalidad.
+> **Nota del curador:** Una casa se puede mover, pero la relación entre la casa y la tierra no se puede empacar toda de una vez.
 
 ## Primero existió una persona, luego existió una casa
 
@@ -76,41 +74,41 @@ En 1967, el Ministerio del Interior convocó a unidades relacionadas de transpor
 
 En 1978, la familia Lin aceptó la demolición. Esta decisión no puede simplificarse como una donación activa de la residencia antigua por parte de la familia Lin, ni puede escribirse simplemente como un rescate unilateral por parte del gobierno. Los registros oficiales documentaron la tensión entre la propiedad, la compensación, las condiciones de vivienda y el terreno previsto para la carretera. Cuando la casa no estaba incluida en el registro de monumentos históricos, no había una respuesta justa sobre qué fuerza podía exigir a la ciudad que se detuviera. [^5]
 
-## El primer traslado de la residencia antigua, en realidad fueron tres
+## La primera mudanza de la casa antigua, en realidad se mudó tres veces
 
-Según el comunicado de prensa de la Oficina de Asuntos Civiles del Gobierno Municipal de Taipéi, la obra de desmantelamiento comenzó en 1977. Los componentes de la residencia antigua fueron colocados primero en un almacén temporal en la calle Anhe, luego trasladados bajo el puente elevado de la Avenida Heping Oeste, y finalmente encontraron una ubicación para la reconstrucción en la zona de la calle Binjiang. Desde el desmantelamiento hasta la reconstrucción, el proceso de transporte duró aproximadamente diez años, no se completó de una sola vez. [^4]
+El desmantelamiento iniciado en 1977, según el comunicado de prensa de la Oficina de Asuntos Civiles del Gobierno Municipal de Taipéi, llevó primero los componentes de la casa antigua a un almacén temporal en la calle Anhe, luego bajo el viaducto de la calle Heping Oeste, y solo al final se encontró el sitio de reconstrucción en los alrededores de la calle Binjiang. Desde el desmantelamiento hasta la reconstrucción, el proceso de traslado duró aproximadamente diez años y no se completó de una sola vez.[^4]
 
-El reporte de _Taipei Times_ describe este proceso como una ingeniería logística desordenada. El desmantelamiento de la residencia antigua tomó cinco meses; los componentes quedaron estancados en el almacén de la calle Anhe debido a disputas de tierra, luego fueron colocados bajo el puente elevado de la Avenida Heping Oeste, donde los componentes de madera y las vigas sufrieron daños por el ambiente húmedo. Seis años después, el gobierno encontró un nuevo sitio en el Parque Binjiang. [^2]
+El reportaje del _Taipei Times_ describe este proceso como una ingeniería logística caótica. El desmontaje de la casa antigua tomó cinco meses; los componentes quedaron retenidos en el almacén de la calle Anhe por una disputa de tierras, luego se trasladaron bajo el viaducto de la calle Heping Oeste, donde la madera y los pilares sufrieron daños en un ambiente con filtraciones. Seis años después, el gobierno halló el nuevo emplazamiento en el Parque Binjiang.[^2]
 
-| Año       | Evento                               | Problema dejado en este punto                                          |
-| --------- | ------------------------------------ | ---------------------------------------------------------------------- |
-| 1754      | Lin Qinming cruza a Taiwán           | La familia de inmigrantes de Anxi se establece en Taipéi.              |
-| 1783–1785 | Completada la estructura principal   | Se forma la arquitectura principal de la residencia de la familia Lin. |
-| 1976–1978 | Ampliación vial y desmantelamiento   | Conflicto entre conservación _in situ_ y reconstrucción en otro lugar. |
-| 1984–1987 | Reconstrucción en el Parque Binjiang | Reconstrucción en nuevo sitio, finalización y apertura al público.     |
-| 2000      | Apertura del Museo de Arte Popular   | La casa ancestral privada se convierte en espacio público cultural.    |
+| Década    | Hechos ocurridos                   | Problemas que quedaron en este momento                                |
+| --------- | ---------------------------------- | --------------------------------------------------------------------- |
+| 1754      | Lin Chin-ming cruza a Taiwán       | La familia inmigrante de Anxi echa raíces en Taipéi.                  |
+| 1783–1785 | Completado el cuerpo principal     | La residencia principal de la familia Lin toma forma.                 |
+| 1976–1978 | Ensanche de vía y desmontaje       | Conflicto entre conservación in situ y reconstrucción en nuevo sitio. |
+| 1984–1987 | Reorganización del Parque Binjiang | Reconstrucción en nuevo sitio, finalización y apertura al público.    |
+| 2000      | Apertura del Museo de Arte Popular | La casa ancestral privada se convierte en espacio cultural público.   |
 
-_Fuente de la línea de tiempo: Página de historia oficial del Gobierno Municipal de Taipéi, informes de investigación oficiales y *Taipei Times*._
+_Fuentes de la línea de tiempo: página de evolución de la Oficina de Asuntos Civiles del Gobierno Municipal de Taipéi, informes oficiales de investigación y *Taipei Times*._
 
-La dificultad del traslado no reside solo en la distancia. La residencia antigua era originalmente un sistema estructural con dirección y orden. Las tejas se apoyan en el armazón del techo, las vigas de madera y los muros de ladrillo se entrelazan, las puertas y ventanas forman dimensiones con el uso diario. Cuando cada pieza se desmonta, las relaciones originales también se desmontan.
+La dificultad de la mudanza no reside solo en la distancia. La casa antigua era originalmente un sistema constructivo con orientación y orden: las tejas presionaban sobre la armadura, los pilares de madera y los muros de ladrillo se encajaban mutuamente, puertas y ventanas formaban dimensiones junto al uso cotidiano. Al desmontar cada pieza, también se desarmaban las relaciones originales.
 
-Los datos de investigación oficiales indican que, tras múltiples traslados y reorganizaciones, algunos componentes de madera antiguos de la residencia antigua sufrieron daños, y las tejas originales ya no se utilizan. [^6] Este detalle es más digno de recordar que "conservación completa". La conservación no consiste en llevar a salvo cada material a la nueva casa, sino en decidir, después de que se han producido pérdidas, qué huellas pueden ser dejadas honestamente.
+La documentación oficial de investigación señala que, tras múltiples traslados y reensamblajes, parte de los componentes de madera antiguos resultaron dañados y las tejas originales ya no se reutilizaron.[^6] Este detalle merece más recuerdo que la frase «conservación íntegra». Conservar no es hacer llegar cada fragmento de material intacto al nuevo hogar, sino decidir, una vez que la pérdida ya ocurrió, qué huellas pueden conservarse honestamente.
 
-![Detalles de pinturas y decoraciones de la Residencia Antigua Lin An Tai.](https://upload.wikimedia.org/wikipedia/commons/c/cf/Lin_An_Tai_Historical_House_07.jpg)
+![Detalle de pinturas y decoración de la Antigua Residencia Lin An Tai.](https://upload.wikimedia.org/wikipedia/commons/c/cf/Lin_An_Tai_Historical_House_07.jpg)
 
-_Foto: Bernard Gagnon, Wikimedia Commons, CC BY-SA Licencia múltiple. Imagen original y detalles de licencia en [página de descripción de la imagen](https://commons.wikimedia.org/wiki/File:Lin_An_Tai_Historical_House_07.jpg). Imagen sin modificaciones._
+_Imagen: Bernard Gagnon, Wikimedia Commons, CC BY-SA múltiple licencia._ Imagen original y detalles de licencia en la [página de descripción de la imagen](https://commons.wikimedia.org/wiki/File:Lin_An_Tai_Historical_House_07.jpg). Imagen sin modificaciones.
 
-![Jardín junto al estanque y grupo arquitectónico de la Residencia Antigua Lin An Tai.](https://upload.wikimedia.org/wikipedia/commons/9/94/Lin_An_Tai_Historical_House_05.jpg)
+![Jardín junto al estanque y conjunto arquitectónico de la Antigua Residencia Lin An Tai.](https://upload.wikimedia.org/wikipedia/commons/9/94/Lin_An_Tai_Historical_House_05.jpg)
 
-_Foto: Bernard Gagnon, Wikimedia Commons, CC BY-SA 3.0. Imagen original y detalles de licencia en [página de descripción de la imagen](https://commons.wikimedia.org/wiki/File:Lin_An_Tai_Historical_House_05.jpg). Imagen sin modificaciones._
+_Imagen: Bernard Gagnon, Wikimedia Commons, CC BY-SA 3.0._ Imagen original y detalles de licencia en la [página de descripción de la imagen](https://commons.wikimedia.org/wiki/File:Lin_An_Tai_Historical_House_05.jpg). Imagen sin modificaciones.
 
-Para ingenieros o restauradores, el problema de este caso se puede desglosar en varios niveles. El primer nivel es el reconocimiento: cada teja, cada pieza de madera y cada losa de piedra deben dejar información de su posición antes del desmantelamiento. El segundo nivel es la conservación: los componentes no solo deben ser apilados, sino que deben enfrentar el desgaste causado por la humedad, el transporte y la espera. El tercer nivel es la reorganización: la cimentación, dirección, drenaje y necesidades de uso del nuevo sitio obligan al restaurador a hacer elecciones entre materiales antiguos e ingeniería nueva.
+Para ingenieros o restauradores, los retos de este caso pueden desglosarse en varias capas. La primera es la identificación: cada teja, cada pieza de madera y cada piedra deben llevar registrada su información de posición antes del desmontaje. La segunda es la conservación: los componentes no pueden simplemente apilarse concentrados, sino que deben enfrentar el deterioro causado por la humedad, el transporte y la espera. La tercera es el reensamblaje: los cimientos, la orientación, el drenaje y las necesidades de uso del nuevo emplazamiento obligarán al restaurador a elegir entre materiales antiguos y nueva ingeniería.
 
-Por lo tanto, la codificación no es solo una técnica de construcción, sino una manera de convertir la memoria arquitectónica en datos rastreables. Permite que las personas posteriores sepan dónde estaban originalmente los componentes, y muestra qué partes se han perdido. Si solo hay fotos después de completar la reconstrucción, los lectores pueden pensar erróneamente que la casa nunca se interrumpió. Dejar registros de desmantelamiento, listas de materiales y estados de daño es el documento técnico responsable hacia la arquitectura histórica.
+Por tanto, la codificación no es mera técnica de obra, sino una forma de convertir la memoria arquitectónica en datos rastreables. Permite a quienes vienen después saber dónde estaba originalmente cada componente, y también ver qué partes ya se han perdido. Si solo quedan las fotos de la reconstrucción terminada, el lector tiende a creer que la casa nunca se interrumpió. Dejar constancia del registro de desmontaje, el inventario de materiales y el estado de daños es el documento técnico responsable frente a la arquitectura histórica.
 
-Esto también explica por qué la conservación por traslado no puede juzgarse solo por la apariencia final. La investigación académica indica que los edificios trasladados pierden su entorno original, y la ingeniería puede afectar la autenticidad. [^7] Para las instituciones de cultura pública, la exhibición no debería incluir solo aleros completos y patios ordenados, sino también fotos del sitio original, rutas de traslado, desgaste de materiales y controversias de decisión. Solo haciendo el proceso público, los visitantes tienen la oportunidad de entender que el edificio frente a ellos no se ha conservado naturalmente, sino que es el resultado de múltiples elecciones y costos acumulados. Esta es la razón por la que este artículo coloca juntos los registros oficiales, investigaciones gubernamentales, resúmenes académicos y reportes en inglés: diferentes fuentes iluminan cada una una parte del proceso, ninguna página sola puede reemplazar toda la historia.
+Esto también explica por qué la conservación por traslado no puede juzgarse solo por el aspecto final. La investigación académica señala que la arquitectura trasladada pierde su entorno original y que la técnica de ingeniería puede afectar su autenticidad.[^7] Para las instituciones culturales públicas, no basta exhibir la crestería completa y el patio ordenado; deben incluirse también fotos del sitio original, la ruta de traslado, el desgaste de materiales y las controversias de decisión. Solo haciendo público el proceso, el visitante tiene la oportunidad de comprender que la arquitectura ante sus ojos no es una supervivencia natural, sino el resultado acumulado de múltiples elecciones y costos. Por eso este artículo yuxtapone la evolución oficial, la investigación gubernamental, los resúmenes académicos y el reportaje en inglés: cada fuente ilumina un tramo del proceso, y ninguna página por sí sola puede sustituir la historia completa.
 
-> **Nota del curador:** "Mudarse" suena como un verbo cotidiano, pero para la arquitectura histórica, cada movimiento redefine qué es.
+> **Nota de la curadora:** «Mudanza» suena a verbo cotidiano, pero para la arquitectura histórica, cada movimiento redefine lo que es.
 
 ## Reconstruir no es devolver el objeto original a su lugar
 
