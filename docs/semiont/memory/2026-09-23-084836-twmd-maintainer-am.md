@@ -56,6 +56,14 @@ Cron 排程。Stage 1 量 `main...origin/main` 得 `4 0`，本機純領先四個
 
 四則最新留言都是維護者且無新 follow-up，Step 2.4 SKIP，不補罐頭回覆。
 
+## 收官時的分岔：本班自己造的，本班併掉
+
+Stage 1 量到的是 `4 0` 純領先，而收官 push 被拒，重量是 `9 6` —— **真分岔，而且是這一班自己造的**：origin 那六個是今早三篇投稿的 commit 加上我在 GitHub 上按的三個 merge，本機那九個是 babel 六個批次加上我自己的三個。PR 在 GitHub 上 merge、本機同時繼續 commit，兩邊就各自往前走了。
+
+照 §Step 1.1b 當班修，不留交接。先量 base 起的檔案交集是 **0**，再量 origin 要進來的三個檔跟工作樹髒檔的交集也是 **0**，確認無衝突面之後用 merge 不用 rebase（babel 六個 writer 正在寫，rebase 會改寫我自己那三個 commit 的 sha，per DNA #35 不在 sub-agent 跑期間做會改寫歷史的 git 操作）。`1d0615369` 併入，push 過，`0 0`。接著補 `sync-translations-json.py` 讓翻譯登記表收下那三篇（`b37f5d068`）。
+
+這條值得記一筆：**分岔不一定來自別台機器**，「在 GitHub 上收 PR」跟「在本機 commit」是兩個寫入點，同一班同時用就會分岔。代價很小（交集 0、一次 merge），因為它只活了十幾分鐘——這正是 Step 1.1b「每班 Stage 1 看到就修，分岔不會活過一天」那句話的反面驗證。
+
 ## 收官 checklist
 
 | 檢查項                                           | 狀態                                                    |
