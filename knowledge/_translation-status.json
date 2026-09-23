@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-23T15:57:04+08:00",
-    "zhCommitHead": "c549b26c2",
+    "lastUpdated": "2026-09-23T16:22:16+08:00",
+    "zhCommitHead": "54fb03864",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -68,8 +68,8 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 1012,
-        "stale": 36,
+        "fresh": 1013,
+        "stale": 35,
         "metadata_stale": 5,
         "missing": 71,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 901,
+        "fresh": 902,
         "stale": 13,
         "metadata_stale": 6,
-        "missing": 204,
+        "missing": 203,
         "orphan": 0
       }
     },
@@ -48746,7 +48746,20 @@
           "reason": "armor-residue (4 個未還原佔位符)"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Lifestyle/taiwan-garbage-truck-music.md",
+          "translatedFrom": "Lifestyle/台灣垃圾車音樂.md",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:02bd3943b09e813f",
+          "sourceBodyHash": "sha256:45fcf1e43c9080d6",
+          "translatedAt": "2026-09-23T14:55:56+08:00",
+          "translationLastCommit": "a1b29b2b",
+          "translationLastModified": "2026-09-12T20:45:48+08:00",
+          "inferred": false,
+          "footnoteDefs": 19,
+          "bytes": 21809,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -162357,8 +162370,8 @@
           "sourceContentHash": "sha256:86fb5241b5393f5b",
           "sourceBodyHash": "sha256:add135df68f1784c",
           "translatedAt": "2026-09-23T13:51:52+08:00",
-          "translationLastCommit": "af273ebd",
-          "translationLastModified": "2026-09-22T01:05:09+08:00",
+          "translationLastCommit": "54fb0386",
+          "translationLastModified": "2026-09-23T15:57:05+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 25432,
@@ -203400,20 +203413,18 @@
         "id": {
           "path": "id/Culture/wretch.md",
           "translatedFrom": "Culture/無名小站.md",
-          "sourceCommitSha": "d40e50420",
-          "sourceContentHash": "sha256:1d592674c8a22f46",
-          "sourceBodyHash": "sha256:74e768331f7f3a8b",
-          "translatedAt": "2026-07-18T18:59:53+08:00",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:bb3880571afae296",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-23T08:03:20.871640+00:00",
           "translationLastCommit": "f4d0f1e6",
           "translationLastModified": "2026-09-22T01:07:23+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "bytes": 45324,
+          "bytes": 45667,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Culture/wretch.md",
@@ -203438,8 +203449,8 @@
           "sourceContentHash": "sha256:bb3880571afae296",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-23T05:56:18.587528+00:00",
-          "translationLastCommit": "af273ebd",
-          "translationLastModified": "2026-09-22T01:05:09+08:00",
+          "translationLastCommit": "54fb0386",
+          "translationLastModified": "2026-09-23T15:57:05+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "bytes": 93487,

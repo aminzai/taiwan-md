@@ -1,143 +1,148 @@
 ---
-title: 'Teh Susu Mutiara'
-description: 'Dalam sebuah rapat karyawan di Taichung pada 1987, satu tindakan spontan membuat segelas minuman menaklukkan dunia. Perdebatan tentang asal-usul dan politik budaya teh susu mutiara, serta polemik kesehatan di balik segelas minuman berkalori 500 kkal.'
-date: '2026-03-30'
-author: 'Taiwan.md'
+title: 'Teh Boba (珍珠奶茶)'
+description: 'Persaingan asal-usul teh boba yang dimulai dari rapat karyawan di Taiwan pada tahun 1987, membahas politik budaya dan perdebatan kesehatan seputar minuman dengan kandungan 500 kalori.'
+date: 2026-03-30
 category: 'Food'
-subcategory: '飲品文化'
 tags:
   [
-    'kuliner',
-    'teh susu mutiara',
-    'minuman racikan tangan',
-    'globalisasi',
-    'kekuatan lunak',
-    'diplomasi budaya',
+    'Kuliner',
+    'Teh Boba',
+    'Minuman Kekinian',
+    'Globalisasi',
+    'Soft Power',
+    'Diplomasi Budaya',
   ]
-lastVerified: '2026-03-30'
-lastHumanReview: false
+subcategory: '飲品文化'
+author: 'Taiwan.md'
 featured: true
+lastVerified: 2026-03-30
+lastHumanReview: false
 image: '/article-images/food/classic-bubble-tea-2013.webp'
+imageAlt: 'Foto close-up teh boba klasik'
 imageCredit: 'Oqmilteashop / Wikimedia Commons'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Classic_bubble_tea.jpg'
 translatedFrom: 'Food/珍珠奶茶.md'
-sourceCommitSha: '30569f742'
-sourceContentHash: 'sha256:d90e80b19559290b'
-sourceBodyHash: 'sha256:9bc13bf8c8054628'
-translatedAt: '2026-07-18T18:59:53+08:00'
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:4b6c70d0fd8de132'
+sourceBodyHash: 'sha256:402d0d087252b30e'
+translatedAt: '2026-09-23T13:51:51+08:00'
 ---
 
-# Teh Susu Mutiara
+# Teh Boba (珍珠奶茶)
 
-> **Ikhtisar 30 detik:** Pada 1987, Lin Hsiu-hui, manajer sebuah kedai teh di Taichung, menuangkan bola-bola tapioka ke dalam teh susu saat rapat karyawan, sekadar mencoba secara spontan—hasilnya, dalam beberapa bulan minuman itu terjual lebih banyak daripada seluruh minuman lain. Tiga puluh delapan tahun kemudian, tindakan tersebut melahirkan industri global senilai sekitar US$3,5 miliar, menghadirkan emoji teh susu mutiara 🧋 di setiap ponsel, sekaligus membuat merek-merek dari Taiwan dan Tiongkok daratan sama-sama memperebutkan gelar “penemu”.
+> **Ringkasan 30 Detik:** Pada tahun 1987, di sebuah kedai teh di Taichung, pemilik toko Lin Xiu-hui menuangkan _boba_ ke dalam teh susu saat rapat karyawan. Hasilnya, minuman tersebut laris lebih cepat daripada semua minuman lainnya selama beberapa bulan. Tiga puluh delapan tahun kemudian, tindakan ini melahirkan industri global senilai sekitar 3,5 miliar dolar, membuat emoji teh boba 🧋 muncul di setiap ponsel, dan menyebabkan merek-merek Taiwan serta Tiongkok daratan berebut gelar "penemu".
 
-Pada 1987, di Jalan Ssu-wei, Kota Taichung, berdiri sebuah kedai teh yang menjadi cikal bakal Chun Shui Tang. Manajernya, Lin Hsiu-hui, sedang memimpin rapat karyawan. Di atas meja terdapat bahan-bahan yang dibelinya dengan mengendarai sepeda motor ke Pasar Chien-kuo pagi itu, termasuk semangkuk bola-bola tapioka putih—jajanan Taiwan yang disukainya sejak kecil. Begitu saja, ia menuangkan bola-bola tersebut ke dalam teh susu Assam di tangannya, lalu menyesapnya.
+Pada tahun 1987, di sebuah kedai teh di Siwei Street, Taichung. Pemilik toko Lin Xiu-hui sedang memimpin rapat karyawan. Di atas meja terhampar bahan makanan yang ia beli dari Pasar Jianguo pada pagi itu menggunakan sepeda motor; salah satunya adalah semangkuk _boba_ putih—cemilan lokal favoritnya sejak kecil. Ia kemudian menuangkan _boba_ tersebut ke dalam teh Assam di dekatnya dan menyesapnya.
 
-“Semua orang dalam rapat itu menyukai minuman ini, dan beberapa bulan kemudian penjualannya melampaui seluruh es teh kami yang lain,” tutur Lin kepada wartawan CNN bertahun-tahun kemudian. Nada bicaranya tidak terdengar sengaja melebih-lebihkan, melainkan seperti orang yang sedang menceritakan insiden kecil yang bahkan tidak pernah ia duga.
+"Setiap orang di rapat itu menyukai minuman ini, dan dalam beberapa bulan, penjualannya melebihi semua teh dingin kami," kata Lin Xiu-hui kepada jurnalis CNN bertahun-tahun kemudian, nadanya tidak berlebihan, melainkan seperti menggambarkan sebuah kebetulan kecil yang bahkan ia sendiri tidak duga.
 
-Insiden inilah yang kemudian menyeretnya ke dalam sengketa hukum selama satu dasawarsa.
+Kebetulan ini kemudian membawanya ke persidangan selama sepuluh tahun.
 
-## Sengketa hukum selama sepuluh tahun tanpa pemenang
+## Persidangan Sepuluh Tahun Tanpa Pemenang
 
-Versi Lin Hsiu-hui hanyalah separuh dari kisah ini.
+Versi Lin Xiu-hui hanyalah separuh dari cerita ini.
 
-Pendiri Hanlin Tea Room di Tainan, Tu Tsung-ho, memiliki versi lain. Setelah membuka kedainya pada 1986, suatu hari ia melihat bola-bola tapioka yang putih dan bening di pasar. Terilhami oleh penampilannya, ia mencoba memadukannya dengan teh susu dan menamainya “mutiara” karena bentuknya menyerupai mutiara. Kedua kisah tersebut sama-sama terjadi di Taiwan pada pertengahan hingga akhir 1980-an—satu di utara dan satu di selatan—dan keduanya mengaku sebagai yang pertama.
+Tu Zonghe, pendiri kedai teh Hanlin di Tainan, memiliki narasi lain: setelah membuka toko pada tahun 1986, ia melihat _boba_ yang putih dan jernih di pasar suatu hari, mendapatkan inspirasi untuk menggabungkannya dengan teh susu, dan menamainya karena bentuknya menyerupai mutiara. Kedua cerita ini terjadi di Taiwan bagian utara dan selatan pada pertengahan hingga akhir tahun 1980-an, dan keduanya mengklaim sebagai yang pertama.
 
-Versi Chun Shui Tang lebih terperinci: pendirinya, Liu Han-chieh, membuka toko minuman di Jalan Ssu-wei, Taichung, pada 1983. Pada 1987, Lin Hsiu-hui, yang ketika itu menjabat sebagai manajer, tanpa sengaja meracik teh susu mutiara dalam rapat karyawan. Minuman tersebut kemudian diuji jual dan diluncurkan secara resmi. Pihak Chun Shui Tang bahkan menyatakan bahwa pengelola Hanlin Tea Room pernah datang sendiri ke Chun Shui Tang untuk mengamati dan mempelajari usahanya.
+Versi Chunshuitang lebih akurat: pendiri Liu Hanjie membuka kedai minuman di Siwei Street, Taichung, pada tahun 1983. Pada tahun 1987, teh boba dibuat secara tidak sengaja oleh Lin Xiu-hui saat rapat karyawan, kemudian dicoba dijual dan diluncurkan secara resmi. Pihak Chunshuitang bahkan menyebutkan bahwa manajer Hanlin pernah datang langsung ke Chunshuitang untuk belajar.
 
-Persoalan “siapa yang lebih dahulu” akhirnya dibawa ke pengadilan. Chun Shui Tang dan Hanlin Tea Room saling menggugat dalam sengketa yang berlangsung lebih dari sepuluh tahun. **Pada 2019, pengadilan Taiwan memutuskan bahwa teh susu mutiara merupakan jenis minuman baru, bukan produk yang dapat dipatenkan; siapa pun atau kedai mana pun boleh meraciknya sehingga tidak perlu memperebutkan siapa pelopornya.** Tidak satu pun pihak dapat memperoleh paten. Tidak ada yang menang dan tidak ada yang kalah.
+Masalah "siapa yang pertama" ini akhirnya dibawa ke pengadilan. Chunshuitang dan Hanlin saling menggugat, berlarut-larut selama lebih dari sepuluh tahun. **Pada tahun 2019, pengadilan Taiwan memutuskan: teh boba adalah minuman baru, bukan produk paten, dan siapa pun atau toko mana pun dapat membuatnya; tidak perlu berebut siapa leluhurnya.** Kedua belah pihak gagal mendapatkan paten, sehingga tidak ada yang menang dan tidak ada yang kalah.
 
-> 📝 **Catatan kurator**
-> Pertanyaan “siapa yang menemukan teh susu mutiara” mungkin sudah kehilangan maknanya di Taiwan sendiri. Pertanyaan yang lebih layak diajukan ialah: mengapa “tempat kelahiran” segelas minuman harus dipastikan melalui sengketa hukum selama sepuluh tahun? Kini, ketika nilai pasar teh susu mutiara global mendekati NT$100 miliar, jelas bahwa taruhan sesungguhnya dalam perkara tersebut bukan sekadar kewenangan untuk menentukan narasi sejarah.
+> 📝 **Catatan Kurator**
+> Pertanyaan "Siapa penemu teh boba" mungkin sudah kehilangan maknanya di Taiwan itu sendiri. Yang lebih patut ditanyakan adalah: mengapa "tempat kelahiran" sebuah minuman memerlukan sepuluh tahun persidangan untuk dikonfirmasi? Di pasar teh boba global yang mendekati 100 miliar Dolar Taiwan, taruhan sebenarnya dari persidangan itu jelas bukan hanya soal narasi sejarah.
 
-## 26.000 kedai, lebih banyak daripada toko swalayan
+## 26.000 Toko, Lebih Banyak dari Minimarket
 
-Entah kedai teh mana yang pertama kali membuat teh susu mutiara, kegandrungan Taiwan terhadap minuman ini sejak lama telah melampaui jangkauan perdebatan tentang “penemunya”.
+Terlepas dari kedai mana yang pertama kali membuat teh boba, obsesi Taiwan terhadap minuman ini telah melampaui jangkauan perebutan "penemu".
 
-Menurut data statistik Kementerian Keuangan Taiwan, jumlah seluruh jenis kedai minuman di negara tersebut mencapai rekor tertinggi pada April 2022, yakni **26.000 kedai**. Angka ini hampir 10.000 lebih banyak daripada jumlah toko swalayan di seluruh Taiwan dan menunjukkan pertumbuhan sebesar 67,6% dalam sepuluh tahun. Di sembarang gang di pusat Kota Taipei, gerai 50 Lan, Ching Shin Fu Chuan, CoCo, dan Macu Tea mungkin berdiri bersebelahan sambil berebut pelanggan. Saat memasuki salah satunya, Anda harus membuat lebih banyak pilihan daripada yang mungkin dibayangkan: gula penuh, setengah gula, sedikit gula, atau tanpa gula; banyak es, sedikit es, tanpa es, atau es biasa; bola tapioka, nata de coco, bola talas, puding, dan seterusnya. Di Taiwan, segelas teh susu mutiara merupakan pilihan yang sangat personal, bukan produk standar.
+Menurut data Kementerian Keuangan Taiwan, pada April 2022, jumlah toko minuman berbagai jenis di seluruh negeri mencapai rekor tertinggi, yaitu **26.000**, hampir 10.000 lebih banyak daripada minimarket di seluruh Taiwan, dan tumbuh sebesar 67,6% dalam sepuluh tahun terakhir. Di gang sembarang di Kota Taipei, mungkin ada 50 Lan, Qingxin Fuquan, CoCo, dan Magu Cha Fang yang berdekatan, saling bersaing mendapatkan pelanggan. Ketika memasuki salah satu toko, pilihan yang harus Anda buat lebih banyak dari yang Anda bayangkan: manis penuh setengah manis tanpa gula, es banyak es sedikit tanpa es normal, _boba_, nata de coco, ube pudding... Secangkir teh boba adalah pilihan yang sangat personal di Taiwan, bukan produk standar.
 
-Skala pasar globalnya bahkan lebih mencengangkan. Sejumlah lembaga riset pasar memperkirakan nilai pasar teh susu mutiara global pada 2024 mencapai sekitar **US$3,5 miliar (sekitar NT$112 miliar)** dan diproyeksikan tumbuh menjadi US$6–7 miliar pada 2034. Merek-merek Taiwan merupakan titik awal pasar ini: CoCo Fresh Tea & Juice memiliki lebih dari 5.000 gerai di seluruh dunia, Gong Cha lebih dari 2.000 gerai, sedangkan merek seperti The Alley dan Chatime terus memperluas cabangnya di luar negeri. Di Taiwan sendiri, Chun Shui Tang masih menjual lebih dari dua juta gelas teh susu mutiara setiap tahun.
+Skala pasar global bahkan lebih mencengangkan. Beberapa lembaga riset pasar memperkirakan bahwa pada tahun 2024, pasar teh boba global bernilai sekitar **3,5 miliar Dolar AS (sekitar 112 miliar Dolar Taiwan)**, dan diperkirakan akan tumbuh hingga 6-7 miliar Dolar AS pada tahun 2034. Merek Taiwan adalah titik asal pasar ini: CoCo memiliki lebih dari 5.000 gerai secara global, Gong Cha memiliki lebih dari 2.000 gerai, sementara cabang luar negeri merek seperti Lukangxiang dan Rich Tea masih terus berkembang. Chunshuitang sendiri menjual lebih dari 2 juta cangkir teh boba setiap tahun di Taiwan lokal.
 
-Proses globalisasi ini menempuh jalur yang menarik. Ia bukan diplomasi budaya yang digerakkan pemerintah, juga bukan strategi ekspansi pasar yang dirancang secara saksama oleh merek-merek besar. Langkah pertama teh susu mutiara menuju dunia justru bertumpu pada kerinduan para migran terhadap kampung halaman—migran Taiwan di Los Angeles dan Vancouver ingin menikmati cita rasa tanah air, lalu membuka kedai setempat dan membuat para tetangga turut jatuh cinta kepada minuman tersebut. Inilah pola paling khas penyebaran jajanan Taiwan (台灣小吃) ke luar negeri: bukan ekspor, melainkan penyebaran; bukan strategi, melainkan kehidupan sehari-hari.
+Proses globalisasi ini mengikuti jalur yang menarik: itu bukan diplomasi budaya yang didorong oleh pemerintah, juga bukan strategi ekspansi pasar yang dirancang dengan cermat oleh merek besar. Langkah pertama teh boba menuju dunia bergantung pada kerinduan para imigran—para imigran Taiwan di Los Angeles, para imigran Taiwan di Vancouver; mereka ingin minum rasa kampung halaman, dan membuka toko di sana, yang akhirnya membuat tetangga pun menyukai minuman ini. Inilah jalur penyebaran paling khas dari [kuliner Taiwan](/id/food/taiwanese-street-food/): bukan ekspor, melainkan difusi; bukan strategi, melainkan kehidupan.
 
-> 📊 **Memahami angka**
-> Nilai pasar teh susu mutiara global (2024): sekitar US$3,5 miliar (sekitar NT$112 miliar)
-> Jumlah kedai minuman racikan tangan di Taiwan (puncak 2022): 26.000+, tumbuh 67,6% dalam sepuluh tahun
-> Gerai CoCo di seluruh dunia: 5.000+
-> Gerai Gong Cha di seluruh dunia: 2.000+
-> Penjualan tahunan teh susu mutiara Chun Shui Tang: lebih dari dua juta gelas
+> 📊 **Interpretasi Angka**
+> Skala pasar teh boba global (2024): Sekitar 3,5 miliar Dolar AS (sekitar 112 miliar Dolar Taiwan)
+> Jumlah toko minuman kekinian Taiwan (Puncak 2022): 26.000+ gerai, pertumbuhan 67,6% dalam sepuluh tahun terakhir
+> Gerai CoCo secara global: 5.000+ gerai
+> Gerai Gong Cha secara global: 2.000+ gerai
+> Penjualan teh boba Chunshuitang per tahun: Lebih dari 2 juta cangkir
 
-## Pada 2019, antrean enam jam di Tokyo
+## Tahun 2019, Antrean Enam Jam di Tokyo
 
-Penyebaran teh susu mutiara dari kedai-kedai teh Taiwan ke seluruh dunia bukanlah satu ledakan tunggal, melainkan gelombang demi gelombang.
+Teh boba mengalir dari kedai teh Taiwan ke dunia, bukan ledakan tunggal, melainkan gelombang demi gelombang.
 
-Pada akhir 1990-an, gelombang pertama tiba di Amerika Utara dan Asia Tenggara bersama para migran Taiwan. Pada 2000-an, pembentukan jaringan waralaba membuatnya berkembang dari minuman komunitas diaspora menjadi bahasa bersama generasi muda Asia. Pada 2010-an, Instagram mengglobalkan bahasa visualnya—gelas transparan, mutiara hitam, dan sedotan besar seolah memang dirancang untuk media sosial.
+Pada akhir tahun 1990-an, gelombang pertama menyebar bersama imigran Taiwan yang tiba di Amerika Utara dan Asia Tenggara. Pada tahun 2000-an, merek waralaba menjadikannya bahasa umum generasi muda Asia dari minuman komunitas diaspora. Pada tahun 2010-an, Instagram mengglobalkan bahasa visualnya—gambar cangkir transparan, _boba_ hitam, sedotan tebal secara alami dirancang untuk media sosial.
 
-Namun, fenomena paling dramatis terjadi di Jepang pada 2019.
+Namun fenomena paling dramatis terjadi di Jepang pada tahun 2019.
 
-Pada musim panas tahun itu, sebuah papan bertuliskan “waktu tunggu lima jam” muncul di depan gerai The Alley di Tokyo. Angkanya kemudian diperbarui menjadi enam jam. Media Jepang menyebutnya “第三波タピオカブーム” atau “gelombang ketiga demam tapioka”. Lipstik teh susu mutiara, salad teh susu mutiara, dan kudapan bercita rasa teh susu mutiara bermunculan secara serentak. Para perempuan muda Jepang bahkan mengenakan satu set warna teh susu mutiara pada lipstik, perona mata, dan pakaian mereka hanya untuk mengambil satu foto yang menandai kunjungan.
+Musim panas itu, papan tanda "perlu menunggu 5 jam" muncul di depan Lukangxiang, Tokyo, dan angka tersebut kemudian diperbarui menjadi 6. Media Jepang menyebutnya sebagai "Gelombang Boba Ketiga" (第三波タピオカブーム), di mana lipstik teh boba, salad teh boba, dan makanan ringan rasa teh boba bermunculan bersama. Gadis-gadis Jepang tampil dengan palet warna teh boba lengkap pada lipstik, _eyeshadow_, dan pakaian mereka, hanya untuk mengambil foto _check-in_.
 
-Hal yang tidak diketahui oleh sebagian besar konsumen Jepang ialah bahwa tren yang mereka ikuti bermula dari percobaan spontan dalam rapat karyawan di Kota Taichung tiga puluh tahun sebelumnya. Seorang warganet Jepang berseloroh di media sosial, “Waktu mengantre itu sudah cukup untuk terbang ke Taiwan, minum segelas, lalu kembali lagi.”
+Apa yang tidak dipahami oleh sebagian besar konsumen Jepang adalah bahwa tren yang mereka ikuti berawal dari percobaan acak di rapat karyawan sebuah kota kecil di Taichung tiga puluh tahun lalu. Seorang pengguna internet Jepang mengejek di media sosial: "Waktu antre sudah cukup untuk terbang ke Taiwan minum secangkir dan kembali."
 
-Setahun kemudian, teh susu mutiara mengalami peningkatan identitas yang lebih tidak terduga: ia menjadi simbol politik.
+Tahun berikutnya, teh boba mengalami lompatan identitas yang lebih aneh: ia menjadi simbol politik.
 
-## 🧋 Segelas teh susu, sebuah persekutuan demokrasi
+## 🧋 Secangkir Teh Susu, Sebuah Aliansi Demokratis
 
-Pada April 2020, akun-akun internet nasionalis Tiongkok melancarkan aksi perundungan terhadap seorang bintang Thailand. Tanpa disengaja, tindakan itu mendorong warganet Taiwan, Hong Kong, dan Thailand ke kubu yang sama. Tagar “Aliansi Teh Susu” (#MilkTeaAlliance) segera melejit—namanya mengacu pada perbedaan kuliner yang kecil tetapi tajam: ketiga tempat tersebut sama-sama meminum teh dengan susu, sedangkan teh dalam tradisi Tiongkok daratan biasanya tidak dicampur susu.
+Pada April 2020, akun media sosial nasionalistik Tiongkok melancarkan kampanye pelecehan terhadap selebritas Thailand, secara tidak sengaja mendorong pengguna internet dari Taiwan, Hong Kong, dan Thailand ke satu sisi. Tagar "#MilkTeaAlliance" (Aliansi Teh Susu) dengan cepat menjadi viral—nama ini merujuk pada fakta bahwa ketiga tempat tersebut minum teh yang diberi susu, sementara budaya teh Tiongkok daratan secara tradisional tidak menambahkan susu, sebuah perbedaan kecil namun tajam dalam konsumsi.
 
-Teh susu menjadi semacam kode gaya hidup: teh dengan susu berarti demokrasi dan keterbukaan, sedangkan teh tawar melambangkan tatanan politik lain yang berlawanan. Metafora ini sedemikian kasarnya hingga terasa lucu, tetapi benar-benar berulang kali digunakan di tengah unjuk rasa di Myanmar, Belarus, dan Thailand sepanjang 2020. Dengan sebuah simbol kuliner, metafora itu menghubungkan pengalaman demokrasi Taiwan dengan gerakan warga di Asia Tenggara, menghasilkan sesuatu yang tidak dapat dicapai oleh diplomat mana pun.
+Teh boba menjadi kode untuk semacam gaya hidup: teh dengan susu = demokrasi, terbuka; teh bening = tatanan politik lain yang berlawanan. Metafora ini agak lucu tetapi benar-benar dikutip berulang kali di lokasi protes di Myanmar, Belarus, dan Thailand pada tahun 2020. Dengan simbol makanan, ia menghubungkan pengalaman demokratis Taiwan dengan gerakan warga negara Asia Tenggara, melakukan apa pun diplomat tidak bisa lakukan.
 
-Pada tahun yang sama, Unicode 13.0 secara resmi memasukkan emoji teh susu mutiara 🧋 sehingga minuman ini memiliki wajahnya sendiri di setiap ponsel.
+Pada tahun yang sama, Unicode 13.0 secara resmi memasukkan emoji 🧋 teh boba, memberikan wajahnya sendiri di setiap ponsel.
 
-> 📝 **Catatan kurator**
-> Dengan perkara sederhana berupa penambahan susu, “Aliansi Teh Susu” menerjemahkan geopolitik ke dalam bahasa stiker ponsel. Barangkali inilah momen paling absurd sekaligus paling nyata dalam sejarah teh susu mutiara: minuman rakyat yang lahir dari budaya pasar malam (夜市文化) tanpa sengaja menjadi simbol solidaritas demokrasi lintas negara. Minuman itu bahkan tidak pernah berusaha menjadi demikian.
+> 📝 **Catatan Kurator**
+> "Aliansi Teh Susu" menerjemahkan geopolitik menjadi bahasa stiker ponsel melalui hal kecil penambahan susu; ini mungkin adalah momen paling absurd sekaligus paling nyata dalam sejarah teh boba: minuman rakyat yang lahir di [budaya pasar malam](/id/food/night-market-culture/) secara tidak sengaja menjadi simbol solidaritas demokratis lintas negara. Padahal ia sama sekali tidak bermaksud demikian.
 
-## Segelas minuman berkalori 500 kkal dan persoalan kesehatan yang tidak ingin didengar siapa pun
+## Secangkir 500 Kalori, dan Masalah Kesehatan yang Tak Terdengar
 
-Setiap kisah teh susu mutiara yang jujur harus menghadapi angka yang membuat ahli gizi mengernyitkan dahi.
+Setiap kisah teh boba yang jujur harus menghadapi angka yang membuat ahli gizi mengerutkan kening.
 
-Segelas teh susu mutiara dengan gula penuh dan takaran es biasa mengandung sekitar 400–600 kkal serta 50–70 gram gula—setara dengan kalori satu porsi nasi kotak, atau lebih dari dua kali batas asupan gula harian yang direkomendasikan WHO. Dr Martin Lee, kepala Departemen Nefrologi National University Hospital Singapura, pernah menyatakan secara lugas, “Gula dalam teh susu mutiara dapat memperparah diabetes, yang selanjutnya menyebabkan kerusakan bahkan gagal ginjal.” Penelitian akademis yang dipublikasikan di PubMed juga menunjukkan bahwa bagi kaum muda Asia yang meminum teh susu mutiara setiap hari, risiko kesehatannya setara dengan minuman ringan bergula dan merupakan masalah kesehatan masyarakat yang tidak boleh diabaikan.
+Secangkir teh boba dengan pemanis penuh dan es normal memiliki kalori sekitar 400-600 kkal, dengan kandungan gula sekitar 50-70 gram—setara dengan kalori satu kotak makan siang, atau lebih dari dua kali batas asupan gula harian yang direkomendasikan WHO. Dr Martin Lee, kepala departemen ginjal di National University Hospital Singapura, pernah menyatakan secara langsung: "Gula dalam teh boba dapat memperburuk diabetes, yang kemudian menyebabkan kerusakan ginjal bahkan gagal ginjal." Penelitian akademis yang diterbitkan di PubMed juga menunjukkan bahwa bagi kaum muda Asia yang mengonsumsi teh boba setiap hari, risikonya setara dengan minuman bersoda manis, dan ini adalah masalah kesehatan masyarakat yang tidak boleh diabaikan.
 
-Ini bukan peringatan sensasional, melainkan risiko nyata yang muncul ketika teh susu mutiara berubah dari kenikmatan sesekali menjadi kebiasaan sehari-hari. Sebanyak 26.000 kedai minuman yang dipantau Kementerian Keuangan Taiwan bukan sekadar statistik kewirausahaan, melainkan juga sinyal peringatan kesehatan masyarakat. Kementerian Kesehatan dan Kesejahteraan Taiwan telah berulang kali mewajibkan jaringan merek minuman racikan tangan mencantumkan jumlah kalori. Namun, setelah melihat label “520 kkal”, sebagian besar konsumen tetap memilih gula penuh—fakta kecil ini menunjukkan betapa sulitnya mengubah perilaku manusia.
+Ini bukan peringatan sensasional, melainkan risiko nyata ketika teh boba berubah dari suguhan sesekali menjadi kebiasaan harian. 26.000 toko minuman yang dilacak oleh Kementerian Keuangan Taiwan bukan hanya statistik pendirian bisnis, tetapi juga sinyal peringatan kesehatan masyarakat. Kementerian Kesehatan Taiwan telah berulang kali menuntut merek minuman kekinian untuk mencantumkan label kalori secara wajib, namun mayoritas konsumen masih memilih pemanis penuh setelah melihat label "520 kkal"—fakta kecil ini menunjukkan betapa sulitnya mengubah perilaku manusia.
 
-Pada 2011, budaya kuliner Taiwan mengalami pukulan yang lebih langsung: bahan pemlastis DEHP ditambahkan secara ilegal ke bahan pengemulsi dalam makanan dan minuman, termasuk teh susu mutiara serta minuman racikan tangan lainnya. Badan Pengawas Obat dan Makanan Taiwan akhirnya memastikan bahwa **965 produk telah terkontaminasi, dan 206 di antaranya telah diekspor ke 22 negara**. Skandal ini membuat bisnis industri minuman Taiwan di pasar seperti Hong Kong dan Malaysia merosot tajam, sekaligus menjadi pemicu langsung perombakan besar-besaran peraturan keamanan pangan Taiwan.
+Pada tahun 2011, budaya makanan Taiwan juga mengalami pukulan yang lebih langsung: zat kimia DEHP (plastisizer) ditambahkan secara ilegal ke makanan dan minuman oleh perusahaan Qiyunji, yang berdampak pada minuman kekinian seperti teh boba. Badan Pengawas Obat dan Makanan Taiwan akhirnya mengonfirmasi **965 produk terkontaminasi, di mana 206 di antaranya telah diekspor ke 22 negara**. Skandal ini menyebabkan bisnis industri minuman Taiwan menurun drastis di pasar seperti Hong Kong dan Malaysia, dan juga menjadi pemicu langsung reformasi besar-besaran undang-undang keamanan pangan Taiwan.
 
-Persoalan lingkungan pun tidak pernah lenyap. Gelombang pelarangan sedotan plastik sekali pakai di seluruh dunia menghadirkan masalah rekayasa yang nyata bagi teh susu mutiara: sedotan kertas melunak saat terkena air, sedotan logam dianggap terlalu panas, sedangkan bahan yang dapat terurai terlalu mahal. Kemajuan minuman ini dalam penerapan kemasan berkelanjutan jauh lebih lambat daripada laju pemasaran mereknya.
+Masalah lingkungan juga tidak hilang. Gelombang larangan sedotan plastik sekali pakai secara global membuat teh boba menghadapi masalah rekayasa praktis: sedotan kertas melunak saat terkena air, sedotan logam dianggap panas, dan bahan yang dapat terurai biayanya terlalu mahal. Kemajuan minuman ini dalam mempromosikan kemasan berkelanjutan jauh lebih lambat daripada kecepatan pemasaran mereknya.
 
-## “Minuman teh baru” dan kisah yang kian diencerkan
+## "Teh Baru" dan Cerita yang Diencerkan
 
-Ada pula bentuk persaingan lain yang berlangsung dengan lebih senyap.
+Ada persaingan lain yang lebih tenang yang terjadi.
 
-Merek-merek “minuman teh baru” dari Tiongkok daratan—Heytea, Nayuki, dan Chagee—dalam beberapa tahun terakhir membuka gerai dengan cepat di berbagai penjuru dunia. Jumlah gerai luar negeri beberapa merek tersebut telah menyamai, bahkan melampaui, sebagian merek Taiwan. Hal yang lebih patut diperhatikan ialah bahasa pemasaran mereka: dalam narasi merek-merek tersebut, asal-usul teh susu mutiara dari Taiwan secara bertahap diencerkan oleh istilah samar seperti “budaya minuman teh” dan “inovasi minuman teh Asia”. Bagi merek Taiwan, kewenangan untuk menentukan narasi tentang “tempat asal” kini menjadi medan pertempuran yang sama pentingnya dengan persaingan komersial—bahkan mungkin lebih sulit dimenangkan.
+Merek "teh baru" dari Tiongkok daratan—HeyTea, Nayuki Tea, BaWangchaJi—telah berkembang pesat di seluruh dunia dalam beberapa tahun terakhir, dengan skala gerai luar negeri beberapa merek menyamai atau bahkan melampaui beberapa merek Taiwan. Yang lebih menarik adalah bahasa pemasaran mereka: asal-usul teh boba dari Taiwan secara bertahap diencerkan dalam narasi merek-merek ini dengan kata-kata samar seperti "budaya minuman" atau "inovasi teh Asia". Bagi merek Taiwan, hak naratif atas "tempat asal" menjadi pertempuran yang sama pentingnya dan bahkan lebih sulit daripada persaingan komersial.
 
-Dalam bisnis, persaingan dapat dilakukan dengan modal dan kecepatan pembukaan gerai. Namun, kewenangan atas narasi ditentukan oleh kisah siapa yang diingat dan dipercaya oleh lebih banyak orang.
+Bisnis dapat bersaing berdasarkan modal dan kecepatan ekspansi; hak naratif bergantung pada kisah siapa yang paling banyak diingat dan dipercaya orang.
 
-Pemerintah Taiwan dan merek-merek swasta bukannya tidak menyadari persoalan ini. Kegiatan budaya teh susu mutiara di luar negeri yang diselenggarakan Kementerian Luar Negeri, promosi oleh Dewan Urusan Komunitas Perantauan melalui komunitas Taiwan di luar negeri, serta keputusan Chun Shui Tang untuk terus menempatkan kisah Lin Hsiu-hui secara mencolok di halaman utama situs resminya—semuanya merupakan bentuk proyek narasi defensif yang berusaha mencegah label “buatan Taiwan” menjadi kabur. Namun, di pasar global, konsumen membeli pengalaman, bukan kisah tempat asal. Pertarungan ini ditakdirkan tidak memiliki garis akhir.
+Pemerintah dan merek swasta Taiwan tidak menyadari hal ini. Kegiatan budaya teh boba di luar negeri yang diselenggarakan oleh Kementerian Luar Negeri, promosi oleh Komisi Diaspora melalui komunitas Taiwan di luar negeri, dan konsistensi Chunshuitang untuk menempatkan kisah Lin Xiu-hui di halaman depan situs web resmi... semua ini adalah upaya narasi defensif, mencoba agar label "Buatan Taiwan" tidak terencerkan. Namun di pasar global, konsumen minum pengalaman, bukan cerita asal; pertempuran ini ditakdirkan tanpa akhir.
 
-## Satu tindakan yang terus berlanjut
+## Tindakan yang Terus Berlanjut
 
-Tindakan Lin Hsiu-hui pada 1987 hingga kini masih menjadi kisah paling mencolok di halaman utama situs resmi Chun Shui Tang. Dalam hitungan bulan, teh susu dengan bola-bola tapioka itu terjual lebih banyak daripada seluruh minuman lainnya—fakta ini sendiri merupakan versi kisah yang paling mendekati “mitos asal-usul” minuman tersebut.
+Tindakan Lin Xiu-hui pada tahun 1987 masih menjadi kisah paling menonjol di halaman depan situs web Chunshuitang. Teh boba itu laris lebih baik daripada semua minuman lainnya dalam beberapa bulan—fakta ini sendiri adalah versi terdekat dari "mitos asal" untuk minuman ini.
 
-Namun, pada 2026, mempertahankan kata-kata “ditemukan di Taiwan” di jantung kisah minuman ini membutuhkan upaya yang jauh lebih besar daripada momen awal ketika bola-bola tapioka dituangkan ke dalam teh susu. Berapa banyak orang di seluruh dunia yang setiap hari meminum segelas teh susu mutiara tanpa mengetahui ataupun memedulikan asalnya? Angka tersebut hampir mustahil dihitung.
+Namun, di tahun 2026, kekuatan yang dibutuhkan agar kata-kata "ditemukan oleh Taiwan" tetap berada di inti cerita minuman ini jauh lebih besar daripada saat pertama kali menuangkan _boba_ ke dalam teh susu. Berapa banyak orang di seluruh dunia yang minum teh boba setiap hari tanpa tahu atau peduli dari mana asalnya? Angka ini hampir tidak mungkin untuk dihitung.
 
-Tentu saja, momen itu tidak mengetahui apa yang sedang dilakukannya. Kebetulan-kebetulan besar memang tidak pernah tahu.
+Momen itu tentu saja tidak tahu apa yang dilakukannya. Keajaiban besar selalu tidak mengetahuinya.
 
-## Bacaan lebih lanjut
+## Bacaan Lanjutan
 
-- [Ikhtisar kuliner Taiwan](/food/台灣美食總覽) — panorama dari masyarakat adat hingga Michelin: posisi teh susu mutiara dalam cita rasa hibrida yang terbentuk selama empat ratus tahun
-- [Budaya minuman racikan tangan Taiwan](/food/台灣手搖飲文化) — sejarah ekspansi merek seperti 50 Lan, Gong Cha, dan CoCo ke lebih dari 40 negara
-- [Budaya teh](/id/food/golden-age-echoes-taiwan-tea-culture) — legenda mutu teh Taiwan, dari teh oolong John Dodd pada 1865 hingga teh pegunungan tinggi masa kini
+- [Ikhtisar Kuliner Taiwan](/food/台灣美食總覽) — Peta panorama dari penduduk asli hingga Michelin: posisi teh boba dalam rasa campuran empat ratus tahun
+- [Budaya Minuman Kekinian Taiwan](/id/food/hand-shaken-drink-culture) — Sejarah ekspansi merek seperti 50 Lan, Gong Cha, dan CoCo ke lebih dari 40 negara
+- [Budaya Teh](/id/food/golden-age-echoes-taiwan-tea-culture) — Dari teh Oolong Todd pada tahun 1865 hingga teh pegunungan hari ini, legenda kualitas daun teh Taiwan
+
+## Sumber Gambar
+
+- Hero: Foto close-up teh boba klasik, difoto oleh Oqmilteashop, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Classic_bubble_tea.jpg), CC BY-SA 3.0.
 
 ## Referensi
 
-- [Situs resmi Chun Shui Tang: Penemuan teh susu mutiara](https://www.chunshuitang.com.tw/article-detail/invent-bubble-milk-tea/) (sumber primer)
-- [CNN Travel: The rise of bubble tea, one of Taiwan's most beloved beverages](https://edition.cnn.com/travel/article/taiwan-bubble-tea-origins/index.html) (memuat kutipan Lin Hsiu-hui)
-- [ETtoday: Siapa yang menemukan teh susu mutiara? Chun Shui Tang dan Hanlin Tea Room saling menggugat selama sepuluh tahun; putusan pengadilan telah terbit](https://www.ettoday.net/news/20190731/1502150.htm) (laporan putusan 2019)
-- [Analisis data pasar minuman racikan tangan Taiwan (data statistik Kementerian Keuangan Taiwan)](https://lndatatech.github.io/taiwan-drink/) (sumber statistik primer)
-- [TIME: What Is the Milk Tea Alliance?](https://time.com/5904114/milk-tea-alliance/) (latar belakang Aliansi Teh Susu)
-- [Maximize Market Research: Global Bubble Tea Market Size 2024](https://www.maximizemarketresearch.com/market-report/global-bubble-tea-market/110228/) (data pasar global)
-- [PubMed: 2011 Taiwan food scandal — plasticizer contamination](https://pubmed.ncbi.nlm.nih.gov/23684997/) (sumber akademis primer; data kontaminasi 965 produk)
-- [National University Hospital Singapore: What happens if you drink too much bubble tea?](https://www.nuhsplus.edu.sg/article/what-happens-if-you-drink-too-much-bubble-tea) (sumber kutipan Dr Martin Lee)
+- [Situs Web Resmi Chunshuitang: Penemuan Teh Boba](https://www.chunshuitang.com.tw/article-detail/invent-bubble-milk-tea/) (Sumber primer)
+- [CNN Travel: The rise of bubble tea, one of Taiwan's most beloved beverages](https://edition.cnn.com/travel/article/taiwan-bubble-tea-origins/index.html) (Mengandung kutipan Lin Xiu-hui)
+- [ETtoday: Siapa penemu teh boba? Chunshuitang dan Hanlin menggugat selama 10 tahun; putusan pengadilan keluar](https://www.ettoday.net/news/20190731/1502150.htm) (Laporan putusan 2019)
+- [Analisis Data Pasar Minuman Kekinian Taiwan (Data Kementerian Keuangan Taiwan)](https://lndatatech.github.io/taiwan-drink/) (Sumber statistik primer)
+- [TIME: What Is the Milk Tea Alliance?](https://time.com/5904114/milk-tea-alliance/) (Latar belakang Aliansi Teh Susu)
+- [Maximize Market Research: Global Bubble Tea Market Size 2024](https://www.maximizemarketresearch.com/market-report/global-bubble-tea-market/110228/) (Data pasar global)
+- [PubMed: Skandal makanan Taiwan 2011 — kontaminasi plastisizer](https://pubmed.ncbi.nlm.nih.gov/23684997/) (Sumber primer akademis, data 965 produk terkontaminasi)
+- [National University Hospital Singapore: What happens if you drink too much bubble tea?](https://www.nuhsplus.edu.sg/article/what-happens-if-you-drink-too-much-bubble-tea) (Sumber kutipan Dr Martin Lee)
 
-Topik terkait entri ini: budaya pasar malam (夜市文化), jajanan Taiwan (台灣小吃), dan budaya kuliner Taiwan.
+Topik terkait entri ini: [Budaya pasar malam](/id/food/night-market-culture/), [kuliner Taiwan](/id/food/taiwanese-street-food/), budaya makanan Taiwan.

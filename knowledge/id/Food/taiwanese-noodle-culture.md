@@ -1,155 +1,160 @@
 ---
-title: 'Budaya Makanan Mie Taiwan'
-description: 'Dari kampung militer pasca-perang hingga panggung internasional, makanan mie Taiwan memulai perjalanan dari tepung terigu bantuan AS selama tujuh puluh tahun, menggabungkan memori provinsi dan inovasi lokal, menulis epik kuliner dari imigrasi dan tanah air'
+title: 'Budaya Mie Taiwān: Tujuh Puluh Tahun dari tepung bantuan AS hingga kuliner nasional'
+description: 'Dari permukiman veteran pasca-perang hingga panggung internasional, mie Taiwān dalam tujuh puluh tahun berkembang dari tepung bantuan AS, bersatu dengan kenangan provinsi dan inovasi lokal, menulis epik makanan migran dan tanah air'
 date: 2026-03-24
-author: 'Taiwan.md Editorial Team'
 category: 'Food'
-subcategory: 'Makanan Pokok dan Mie'
 tags:
   [
-    'Mie',
-    'Budaya Kuliner',
-    'Masakan Taiwan',
-    'Masakan Pendatang',
-    'Budaya Kampung Militer',
-    'Mie Sapi',
-    'Mie Danzai',
+    'mie',
+    'budaya kuliner',
+    'kuliner Taiwān',
+    'masakan luar pulau',
+    'budaya permukiman veteran',
+    'mie daging sapi',
+    'mie daging babi',
   ]
-readingTime: 15
+subcategory: '主食與麵食'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-03-24
 lastHumanReview: true
-featured: true
+image: '/article-images/food/tu-hsiao-yue-danzai-noodle-2015.webp'
+imageAlt: 'Mie daging babi dari toko Doushuiyue'
+imageCredit: 'Wpcpey / Wikimedia Commons'
+difficulty: 'intermediate'
+readingTime: 15
 imageLicense: 'CC BY 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Tan_Tsai_Noodle_of_Tu_Hsiao_Yue_2015.jpg'
 translatedFrom: 'Food/台灣麵食文化.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:7aeb090ae7f880d7'
-sourceBodyHash: 'sha256:07d9c3b482846ce9'
-translatedAt: '2026-07-25T21:33:43+08:00'
-image: '/article-images/food/tu-hsiao-yue-danzai-noodle-2015.webp'
-imageCredit: 'Wpcpey / Wikimedia Commons'
-difficulty: 'intermediate'
+sourceCommitSha: '9094012f4'
+sourceContentHash: 'sha256:bd2837ec0fbef900'
+sourceBodyHash: 'sha256:a96dfd18a42fc656'
+translatedAt: '2026-09-23T14:55:55+08:00'
 ---
 
-# Budaya Makanan Mie Taiwan: Dari Tepung Terigu Bantuan AS hingga Makanan Nasional dalam 70 Tahun
+# Budaya Mie Taiwān: Tujuh Puluh Tahun dari tepung bantuan AS hingga kuliner nasional
 
-## Pemandangan: Mangkuk Mie Pertama di Depan Kuil Shuixin, Tainan
+## Latar: Mangkuk pertama di depan Kuil Xian di Tainan
 
-Pada tahun 1895, di depan Kuil Shuixin, Tainan, nelayan Hong Yutou (洪芋頭) menjual mangkuk-mangkuk mie panas di bawah cahaya redup lampion kertas, dengan bahu yang menopang tongkat pembawa beban. Ini bukan pertama kalinya mie muncul di Taiwan, namun ini adalah awal dari legenda "Du Xiaoyue" (度小月). Taiwan saat itu masih merupakan masyarakat agraris, di mana sapi adalah mitra pertanian, bukan bahan makanan; makanan mie lebih merupakan rencana darurat di tepi pelabuhan nelayan.
+Pada 1895, di depan Kuil Xian di Tainan. Seorang nelayan bernama Hong Yu Tou menggendong keranjangnya di bawah cahaya lentera kertas, menjual mangkuk-mangkuk mie panas. Ini bukan pertama kalinya mie muncul di Taiwān, namun ini adalah permulaan legenda "Doushuiyue". Pada masa itu, Taiwān masih merupakan masyarakat pertanian, di mana sapi adalah teman bertani bukan bahan makanan, dan mie lebih banyak sebagai makanan darurat di tepi pelabuangan.
 
-Setengah abad kemudian, ketika _Asia Weekly_ menilai mie sapi Taipei sebagai "salah satu makanan terbaik di Asia", dan ketika wisatawan dari Jepang dan Hong Kong merasa wajib mencicipi mie sapi Taiwan sebelum berangkat, kita mungkin harus bertanya: **Mie paling terkenal di Taiwan sebenarnya berumur kurang dari seratus tahun—bagaimana mereka bisa berubah dari memori perantauan menjadi identitas pulau dalam hanya beberapa dekade?**
+Setengah abad kemudian, ketika _Asia Weekly_ menilai mie daging sapi di Taipei sebagai "salah satu makanan terbaik di Asia", dan ketika wisatawan Jepang dan Hong Kong tak bisa pergi tanpa mencoba satu mangkuk mie daging sapi Taiwān, kita mungkin harus bertanya: **makanan paling terkenal di Taiwān, sebenarnya belum mencapai seratus tahun usia—bagaimana mereka dalam beberapa puluh tahun bisa berubah dari kenangan asing menjadi identitas pulau?**
 
-## Inti yang Melawan Intuisi: Mie Sapi "Rasa Sichuan" Sebenarnya Lahir di Taiwan
+## Intuisi yang menantang: "Mie daging sapi ala Sichuan" justru lahir di Taiwān
 
-Ketika menyebut makanan mie Taiwan, kebanyakan orang akan memikirkan tradisi yang "berakar panjang". Namun kenyataannya adalah: mie sapi merah yang paling representatif di Taiwan, bukan berasal dari Sichuan, melainkan **penemuan asli Taiwan**.
+Ketika kita berbicara tentang kuliner mie Taiwān, kebanyakan orang akan berpikir tentang "tradisi yang telah lama". Namun fakta sebenarnya adalah: mie daging sapi Sichuan paling ikonik di Taiwān, tidak berasal dari Sichuan, melainkan **adalah penemuan asli Taiwān**.
 
-Ini bermula dari masa pasca-perang. Pada tahun 1949, pemerintah Nasionalis pindah ke Taiwan, membawa serta militer dan warga dari berbagai provinsi. Koki-koki beretnis Sichuan yang berdinas di Basis Udara Gangshan, Kaohsiung, menghadapi kesulitan rindu kampung halaman dan dilema nyata: mereka merindukan masakan sapi dari kampung halaman, namun tidak memiliki bahan makanan asli; mereka memiliki tepung terigu dari bantuan AS, namun kekurangan bumbu yang familiar. Maka, sebuah eksperimen kuliner yang hebat dimulai.
+Ini harus kita mulai dari pasca-perang. Pada 1949, pemerintah nasional pindah ke Taiwān, membawa serta para pasukan dan warga dari berbagai provinsi. Para chef berlatar belakang Sichuan yang bertempat tinggal di Pangkalan Udara Gangshan di Kaohsiung, menghadapi rasa rindu kampung halaman dan keterbatasan realitas: ingin merasakan makanan daging sapi kampung halaman, namun tidak tersedia bahan asli; memiliki tepung bantuan AS yang tersedia, namun kekurangan bumbu akrab. Dan inilah permulaan eksperimen kuliner yang hebat.
 
-Mereka menggunakan saus kedelai pedas lokal Gangshan (terutama merek "Earth" / 地球牌) untuk mensimulasikan rasa saus kedelai Sichuan; menggunakan kaleng daging sapi dari bantuan AS untuk mewujudkan kembali mie sapi merah dalam ingatan; dan menyajikannya dengan mie yang dibuat dari tepung terigu bantuan AS. "Mie Sapi Merah Rasa Sichuan" yang lahir ini sebenarnya adalah **kombinasi inovatif antara memori kampung militer (Juncun) dan bahan makanan lokal Taiwan**.
+Mereka menggunakan pasta cabe lokal Gangshan (terutama merek "Dadi"), untuk meniru rasa pasta cabe Sichuan; menggunakan kalengan daging sapi bantuan AS, untuk merealisasikan kenangan daging sapi karamel; dan juga menggunakan mie yang dibuat dari tepung bantuan AS. Mie daging sapi Sichuan yang lahir dari proses ini, sebenarnya adalah **gabungan inovatif antara kenangan permukiman veteran dan bahan makanan lokal Taiwān**.
 
-Penulis kuliner Lu Yaodong (逯耀東) pernah berkata: "Mie Sapi Merah Rasa Sichuan ditemukan di kampung militer Angkatan Udara Gangshan, menggunakan saus kedelai untuk menggoreng kaldu, kemudian menyebar ke Taipei, dan akhirnya ke seluruh Taiwan." Ini bukan masakan Sichuan yang murni, melainkan "masakan kampung militer" (Juncun) yang khas Taiwan—rasa tanah air yang direkonstruksi di perantauan.
+Penulis kuliner Xu Yaodong pernah berkata: "Mie daging sapi Sichuan ditemukan di permukiman veteran Pangkalan Udara Gangshan, menggunakan pasta cabe untuk merebus kuahnya, kemudian baru populer di seluruh Taipei dan Taiwan." Ini bukan makanan Sichuan asli, melainkan "masakan permukiman veteran" khas Taiwān—rasa kampung halaman yang direkonstruksi di tanah asing.
 
-## Catatan Kurator 1: Mie sebagai Saksi Zaman
+## Catatan kurator 1: Mie sebagai saksi zaman
 
-**Jika nasi承载 (memuat) memori Taiwan agraris, maka makanan mie mencatat proses kelahiran Taiwan modern.**
+**Jika nasi putih adalah penyimpan kenangan pertanian Taiwān, maka mie adalah dokumen kelahiran Taiwān modern.**
 
-Dari "Du Xiaoyue" dalam mie Danzai, kita dapat melihat fluktuasi musiman ekonomi Taiwan awal. "Xiaoyue" (bulan kecil) merujuk pada musim badai, ketika aktivitas laut berkurang dan pendapatan nelayan menurun tajam selama musim sepi. Hong Yutou berjualan di depan Kuil Shuixin tepat untuk melewati masa sulit ini. Sebuah mangkuk mie Danzai yang kecil, dengan porsi tidak besar namun rasa berlapis kaya, mencerminkan kebijaksanaan orang Taiwan saat itu untuk "memanfaatkan segala sesuatu secara maksimal".
+Dari "Doushuiyue" mie daging babi kita bisa melihat fluktuasi musiman ekonomi awal Taiwān. "Xiaoyue" merujuk pada musim angin topan, ketika aktivitas laut berkurang dan pendapatan nelayan menurun. Hong Yu Tou berjualan di depan Kuil Xian, justru untuk melewati masa sulit ini. Satu mangkuk kecil mie daging babi, tak banyak tapi penuh lapisan rasa, mencerminkan kebijaksanaan "memaksimalkan penggunaan sumber daya" pada masa itu.
 
-Sedangkan makanan mie di kampung militer pasca-perang, menyaksikan titik balik sejarah yang lebih besar. Ketika budaya kuliner dari Sichuan, Shandong, Henan, dan Shaanxi berkumpul di Taiwan, makanan mie menjadi wadah bagi "diaspora" dan "rekomposisi". **Setiap helai mie memuat kerinduan kampung halaman, dan setiap suapan kaldu mendefinisikan ulang rasa "rumah".**
+Sementara itu, mie di permukiman veteran pasca-perang, menyaksikan perubahan sejarah yang lebih besar. Ketika budaya kuliner dari Sichuan, Shandong, Henan, dan Shaanxi bertemu di Taiwān, mie menjadi media "penyebaran" dan "rekonstruksi". **Setiap helai mie membawa kenangan, setiap suapan kuah sedang mendefinisikan rasa "rumah".**
 
-## Dari Selatan ke Utara: Geografi Makanan Mie Taiwan
+## Dari selatan ke utara: Geografi mie Taiwān
 
-### Tainan: Titik Awal Makanan Mie Peradaban Laut
+### Tainan: Titik asal peradaban maritim
 
-Budaya makanan mie Tainan bersumber dari perdagangan laut. Selain mie Danzai, ada juga mie Yi (意麵) dan mie Yi ikan tongkol (鱔魚意麵) sebagai masakan khas. Mie Yi Tainan bermula dari Yanshui, dengan penambahan telur ke dalam tepung terigu, menghasilkan warna kuning keemasan, yang disebut "Jade Ruyi" (玉如意). Mie ini lebih tebal dan cocok untuk dipasangkan dengan kaldu kental atau ditumis.
+Budaya kuliner mie Tainan berasal dari perdagangan maritim. Selain mie daging babi, ada juga mie spaghetti dan mie udang spaghetti khas. Mie spaghetti Tainen berasal dari Yanshui, ditambahkan telur ke dalam tepung, menampilkan warna kuning keemasan, disebut "Yu Ru Yi". Mie ini lebih tebal dan cocok dipadukan dengan kuah kental atau digoreng.
 
-**Esensi mie Danzai** terletak pada "kecil namun presisi". Porsi mangkuk tidak besar, namun memiliki banyak lapisan pelengkap seperti udang, daun bawang, daging cincang (rouzao), dan bawang putih, ditambah kaldu bening yang manis yang direbus dari kepala udang dan tulang babi. Setiap suapan adalah konsentrat kepuasan. Filosofi "kerajinan halus" ini kemudian juga mempengaruhi perkembangan makanan mie di daerah lain di Taiwan.
+**Esensi mie daging babi** terletak pada "kecil namun sempurna". Satu porsi tak banyak, namun dilengkapi dengan udang, daun bawang, daging cincang, dan bawang putih, ditambahkan kaldu manis dari kepala udang dan tulang babi. Setiap suapan penuh kepuasan. Filosofi "kerja teliti" ini kemudian mempengaruhi perkembangan kuliner mie di seluruh Taiwān.
 
-### Utara: Tungku Lebur Memori Kampung Militer
+### Bagian utara: Tempat pencampuran kenangan permukiman veteran
 
-Daerah Jalan Yongkang dan Jalan Selatan Jianguo di Taipei pernah menjadi pusat konsentrasi makanan mie kampung militer. Di sini tidak hanya ada mie sapi merah rasa Sichuan, tetapi juga roti bawang Shandong, mie kuah Henan, dan mie sarsaparilla Shaanxi. **Setiap gang adalah sebuah provinsi, dan setiap stan mie adalah sejarah migrasi.**
+Jalan Yongkang dan Jalan Jian'gang Selatan di Taipei, dulunya pusat kuliner mie permukiman veteran. Di sini tidak hanya ada mie daging sapi Sichuan, tetapi juga kue minyak daun bawang dari Shandong, mie campur dari Henan, dan mie pedas dari Shaanxi. **Setiap gang sempit adalah satu provinsi, setiap stan keliling adalah satu kisah migrasi.**
 
-Karakteristik makanan mie di utara adalah "kaya dan beragam". Sama-sama mie sapi, namun ada rasa merah, kaldu bening, pedas, tomat, dan banyak lagi. Keanekaragaman ini mencerminkan latar belakang sejarah Taipei sebagai pusat politik yang menghimpun imigran dari berbagai provinsi.
+Ciri khas kuliner mie bagian utara adalah "kaya dan beragam". Meskipun sama-sama mie daging sapi, ada varian karamel, kuah bening, pedas, dan tomat. Keragaman ini mencerminkan latar belakang sejarah migrasi para pendatang dari berbagai provinsi ke Taipei sebagai pusat politik.
 
-### Selatan dan Tengah: Eksperimen Inovasi Lokal
+### Bagian tengah dan selatan: Eksperimen inovasi lokal
 
-Walaupun _rouyuan_ (bola daging) Changhua bukan mie, namun kulitnya terbuat dari pati, sehingga termasuk dalam budaya makanan mie dalam arti luas. Mie daging bawang putih Yilan dan _wonton_ (扁食) Hualien menunjukkan modifikasi lokal terhadap makanan mie asing di berbagai daerah.
+Meskipun bakpao bukan mie, bakpao dari Changhua tetap menggunakan tepung sebagai bahan kulit, termasuk dalam budaya kuliner mie secara luas. Mie kaldu bawang putih dari Ilan, dan mie basah dari Hualien, semuanya menunjukkan adaptasi lokal terhadap mie asing.
 
-**Karakteristik Taichung** adalah "nasi daging cincang" (肉角飯 / _roujiao fan_), yang menggabungkan konsep daging cincang dari utara dengan preferensi rasa di tengah. Sementara itu, daerah Yunlin dan Chiayi mengembangkan mie sapi merah yang menggantikan saus kedelai dengan bahan obat tradisional Tiongkok, menunjukkan pengaruh budaya pengobatan makanan (食疗) terhadap makanan mie.
+**Ciri khas Taichung** adalah "nasi daging babi" (nasi daging cincang), menggabungkan konsep daging cincang dari bagian utara dengan selera rasa tengah. Di sekitar Yunlin dan Jiayi, dikembangkan mie daging sapi Sichuan yang mengganti pasta cabe dengan rempah tradisional, menunjukkan pengaruh budaya pengobatan tradisional terhadap kuliner mie.
 
-## Catatan Kurator 2: Semangat Demokrasi Makanan Mie Rakyat
+## Catatan kurator 2: Semangat demokrasi kuliner rakyat
 
-**Yangchun mie, mie wonton, mie Qiezi—makanan mie "rakyat" ini mungkin tidak sepopuler mie sapi, namun lebih mewakili semangat demokratis budaya makanan mie Taiwan.**
+**Mie kuning, mie basah, mie potong—meskipun mungkin tidak sepopuler mie daging sapi, namun lebih mewakili semangat demokrasi budaya mie Taiwān.**
 
-Yangchun mie dibuat dari tepung terigu berprotein rendah, air, dan garam, dengan tubuh mie yang halus dan kenyal, pelengkap sederhana namun tidak sembarangan. Sebuah mangkuk Yangchun mie di tengah malam sering kali menenangkan jiwa perantau, kualitas "sederhana namun hangat" ini adalah inti dari budaya kuliner Taiwan.
+Mie kuning terbuat dari tepung rendah, air, dan garam, teksturnya halus dan kenyal, dengan bahan sederhana namun tidak meremehkan. Mangkuk mie kuning di tengah malam seringkali bisa menenangkan hati para pengunjung jauh dari rumah. Sifat "sederhana namun hang" ini adalah inti budaya kuliner Taiwān.
 
-Mie wonton di Taiwan memiliki interpretasi berbeda di berbagai daerah. Utara lebih menyukai wonton kecil dan elegan, selatan lebih menyukai _wonton_ (扁食) yang besar dan penuh. **Perbedaan lokal ini bukan perpecahan, melainkan perwujudan kekayaan**—makanan yang sama, tumbuh dengan bentuk berbeda di tanah yang berbeda.
+Mie basah memiliki berbagai interpretasi di seluruh Taiwān. Di bagian utara lebih suka mie basah kecil dan rapi, sementara di bagian selatan lebih suka mie basah besar dan penuh. **Perbedaan regional ini bukan pemecah belah, melainkan ekspresi kekayaan**—makanan yang sama bisa tumbuh berbeda di tanah yang berbeda.
 
-Mie Qiezi (切仔麵) mencerminkan "kebijaksanaan elastis" orang Taiwan. Dimasak dan dijual sesuai permintaan pelanggan, bisa kering atau basah, bisa dipasangkan dengan berbagai lauk. Konsep "kustomisasi" ini kemudian juga mempengaruhi budaya industri layanan di Taiwan.
+Mie potong mewujudkan "kecerdasan fleksibel" orang Taiwān. Sesuai dengan kebutuhan pelanggan, mie bisa disajikan kering atau basah, dan bisa disandingkan dengan berbagai lauk pendamping. Konsep "disesuaikan" ini kemudian juga memengaruhi budaya layanan di Taiwān.
 
-## Revolusi Mie Instan: Keajaiban Industrialisasi Rasa Taiwan
+## Revolusi mie instan: Keajaiban industri rasa Taiwān
 
-Pada tahun 1973, Weeli Food (維力食品) meluncurkan mie saus tauge (炸醬麵), membuka jalan bagi mie kering instan dengan prinsip "pemisahan kering dan basah". Saus kedelai asin gurih yang unik dari mie instan ini masih menjadi salah satu dari "Empat Raja Mie Instan Taiwan" (bersama Mie Daging Cincang Uni-President, Mie Sapi Kaldu Asli Weiwang, dan Mie Ayam Tulang Ribs Weidan Weiyi).
+Pada 1973, Wei Li mengeluarkan mie goreng, membuka jalan bagi mie instan kering basah. Bumbu kental asin pedasnya tetap menjadi salah satu dari "empat raja mie instan Taiwān" (bersama dengan mie daging cincang Unification, mie daging sapi asli Wu Pai, dan mie ayam bumbu A dari Wei Dan).
 
-**Kesuksesan mie instan Taiwan bukan hanya hasil industrialisasi, melainkan perwujudan inovasi budaya.** Mie Sapi Merah Bumbu Bawang Manhan Dacan (滿漢大餐) yang diluncurkan oleh Uni-President (統一企業) pada tahun 1983, menghadirkan koki terkenal Fu Peimei untuk mengembangkan resepnya, memasukkan konsep masakan mewah ke dalam produk makanan cepat saji. Pemikiran "pemurnian" (精細化) ini kemudian menjadi ciri khas industri makanan Taiwan.
+**Keberhasilan mie instan Taiwān bukan hanya hasil industrialisasi, melainkan juga ekspresi inovasi budaya.** Mie daging sapi panggang daun bawang dari Full House yang diluncurkan oleh Unification pada 1983, menghirekalkan chef Fu Peimei untuk mengembangkan resep, membawa konsep kuliner premium ke dalam produk mie instan. Gaya berpikir "premium" ini kemudian menjadi ciri khas industri pangan Taiwān.
 
-Yang lebih penting, produsen mie instan Taiwan sejak awal menyadari pentingnya "lokalitas". Mereka tidak hanya meniru ramen Jepang, tetapi mengembangkan rasa seperti daging cincang, sapi, dan ayam tulang ribs yang memiliki karakteristik Taiwan. Rasa-rasa ini tidak hanya menaklukkan pasar Taiwan, tetapi juga berhasil menembus pasar internasional, membuat dunia mengenal mie rasa "Taiwan".
+Yang lebih penting, produsen mie instan Taiwān sudah lama menyadari pentingnya "lokalisasi". Mereka tidak sekadar meniru mie ramen Jepang, melainkan mengembangkan rasa daging cincang, daging sapi, ayam bumbu, yang khas Taiwān. Rasa-rasa ini tidak hanya menguasai pasar Taiwān, tetapi juga berhasil menembus pasar internasional, membuat seluruh dunia mengenal "rasa Taiwān" dari mie instan.
 
-## Budaya Mie Kering: Transformasi Mewah dari Tradisi hingga Fashion
+## Budaya mie kering: Transformasi dari tradisional ke mode
 
-Sistem mie kering Taiwan memiliki akar tradisional yang dalam. Mie alkali (油麵) yang berwarna kuning keemasan karena penambahan air alkali, kenyal dan kuat, adalah protagonis dari mie goreng Taiwan. Mie potong pisau (刀削麵) yang masuk ke Taiwan kemudian dimodifikasi menjadi bentuk bergelombang dengan bagian tengah tebal dan sisi yang lebih tipis, meningkatkan luas permukaan untuk menempelkan saus.
+Sistem mie kering di Taiwān memiliki akar tradisional yang kuat. Mie kuning (mie alkali) karena ditambahkan air kapur menjadi berwarna keemasan, kenyal dan dinamis, menjadi bahan utama mie goreng ala Taiwān. Mie potong yang masuk ke Taiwān kemudian diperbaiki menjadi bentuk gelombang tebal di tengah dan tipis di sisi, meningkatkan luas area untuk menempel bumbu.
 
-Memasuki abad ke-21, **kebangkitan mie kering campur (乾拌麵) menyuntikkan energi baru ke budaya makanan mie Taiwan.** Dari Zengban Mie hingga Manhan Dacan, berbagai merek mie kering campur muncul bak jamur setelah hujan, bahkan berhasil menembus pasar internasional. Makanan mie tanpa kuah ini mencampur saus dan mie secara langsung, menciptakan rasa kental yang kaya, sekaligus memenuhi kebutuhan gaya hidup berkecepatan tinggi orang modern.
+Masuk ke abad ke-21, **popularitas mie kering campur memberi energi baru bagi budaya kuliner mie Taiwān**. Dari Cenmix hingga Full House, berbagai merek mie kering muncul seperti jam keluluan, bahkan berhasil penetrasi pasar internasional. Mie kering tanpa kuah ini menggabungkan bumbu dan mie secara langsung, menciptakan rasa kental, sekaligus memenuhi kebutuhan gaya hidup cepat modern.
 
-**Kesuksesan mie kering campur menunjukkan kemampuan inovasi industri makanan Taiwan.** Ia mempertahankan esensi makanan mie tradisional, sekaligus mengintegrasikan konsep kemasan dan pemasaran modern. Mie saus tauge Weili bisa dimakan kering campur atau dijadikan mie kuah, berbagai cara kreatif muncul tanpa henti, bahkan ada yang menambahkan krim dan keju untuk menciptakan "mie kering campur krim" yang baru.
+**Keberhasilan mie kering campur menunjukkan kemampuan inovasi industri pangan Taiwān**. Ia tidak hanya melestarikan esensi tradisi mie, tetapi juga menggabungkan konsep kemasan dan pemasaran modern. Mie goreng Cenmix bisa disajikan kering atau dengan kuah, berbagai cara kreatif muncul, bahkan ada yang menambahkan mentega dan keju menciptakan "mie kering campur mentega" baru.
 
-## Pengaruh Internasional: Ekspor Budaya Makanan Mie Taiwan
+## Pengaruh internasional: Ekspor budaya kuliner mie Taiwān
 
-**Sementara budaya ramen Jepang menyerbu Taiwan, makanan mie Taiwan juga sedang mengekspor pengaruh budayanya ke dunia.**
+**Ketika budaya mie ramen Jepang merebak di Taiwān, budaya kuliner mie Taiwān juga sedang mengekspor pengaruhnya ke seluruh dunia.**
 
-Mie sapi Taiwan telah menjadi "rasa Taiwan" yang wajib dicicipi oleh wisatawan internasional. Banyak wisatawan asing yang datang ke Taiwan, pertama kali yang diminta dimakan adalah mie sapi. Ini bukan hanya pengalaman indera perasa, melainkan pertukaran budaya. Melalui semangkuk mie sapi, orang asing dapat merasakan lapisan sejarah Taiwan, toleransi budaya, dan semangat inovasi.
+Mie daging sapi Taiwān telah menjadi bagian tak terpisahkan dari "rasa Taiwān" bagi para turis internasional. Banyak turis asing yang datang ke Taiwān, pertama-tama memesan mie daging sapi. Ini bukan hanya pengalaman rasa, tetapi juga pertukaran budaya. Melalui satu mangkuk mie daging sapi, orang asing bisa merasakan sejarah lapisan, inklusivitas budaya, dan semangat inovasi di Taiwān.
 
-Kesuksesan internasional mie instan Taiwan juga patut diperhatikan. Merek-merek seperti Uni-President dan Weili tidak hanya memasok pasar domestik, tetapi juga memperluas jangkauan ke luar negeri. Perusahaan-perusahaan ini membawa mie instan rasa Taiwan ke pasar internasional, memungkinkan konsumen di seluruh dunia untuk mencicipi "rasa Taiwan".
+Keberhasilan mie instan Taiwān juga patut untuk dicatat. Merek-merek seperti Unification dan Wei Li tidak hanya melayani pasar domestik, tetapi juga memperluas sayap ke luar negeri. Perusahaan-perusahaan ini mendorong mie instan dengan rasa Taiwān ke pasar internasional, membuat konsumen di seluruh dunia bisa merasakan "rasa Taiwān".
 
-**Yang lebih penting adalah ekspor konsep**: nilai-nilai seperti "toleransi dan inovasi", "kerajinan halus", dan "demokrasi dan keragaman" yang tercermin dalam budaya makanan mie Taiwan, juga mempengaruhi perkembangan budaya kuliner internasional.
+**Yang lebih penting adalah ekspor ide**: nilai-nilai yang terwujud dalam budaya kuliner mie Taiwān, seperti "inklusivitas inovasi", "kerja teliti", "demokrasi keanekaragaman", juga sedang memengaruhi perkembangan budaya kuliner internasional.
 
-## Catatan Kurator 3: Nasi Daging Cincang vs Mie Sapi—Identitas Ganda Makanan Nasional
+## Catatan kurator 3: Identitas ganda kuliner nasional—Nasi daging babi vs Mie daging sapi
 
-**Dalam budaya kuliner Taiwan, ada fenomena "identitas ganda" yang menarik: nasi daging cincang (滷肉飯) dan mie sapi sama-sama dianggap sebagai "makanan nasional", namun mereka mewakili gen budaya yang berbeda.**
+**Di dalam budaya kuliner Taiwān, ada fenomena "identitas ganda" yang menarik: baik nasi daging babi maupun mie daging sapi dianggap sebagai "kuliner nasional", namun mereka mewakili gen kultural yang berbeda.**
 
-Nasi daging cincang mencerminkan semangat "akar lokal yang dalam". Murah dan tersebar luas, bisa ditemukan dari stan pinggir jalan hingga restoran mewah, benar-benar mewujudkan ideal rakyat "enak namun tidak mahal". Selain itu, ada perbedaan utara-selatan: nasi daging cincang di utara adalah daging babi cincang (rouzao), sedangkan di selatan adalah potongan daging babi tiga lapis (kuangrou). Perbedaan lokal ini bukan konflik, melainkan perwujudan kekayaan.
+Nasi daging babi mewujudkan semangat "akar lokal yang kuat". Ia murah dan populer, bisa ditemukan dari pedagang keliling hingga restoran mewah, benar-benar mewujudkan ideal "enak namun terjangkau". Selain itu, ada perbedaan antara utara dan selatan: di utara nasi daging babi menggunakan daging babi cincang (daging cincang), sementara di selatan menggunakan potongan daging babi tiga lapis (daging babi goreng). Perbedaan regional ini bukan konflik, melainkan ekspresi kekayaan.
 
-Mie sapi mewakili semangat "inovasi dan integrasi". Ia berasal dari kampung militer pendatang, namun diciptakan kembali di tanah Taiwan. Dari rasa Sichuan, kaldu bening, tomat, hingga pedas, perkembangan beragam mie sapi mencerminkan toleransi budaya Taiwan.
+Mie daging sapi mewujudkan semangat "inovasi integratif". Ia berasal dari permukiman veteran luar pulau, namun diciptakan kembali di tanah Taiwān. Dari Sichuan, kuah bening, hingga tomat, pedas, mie daging sapi berkembang secara beragam, mencerminkan inklusivitas budaya Taiwān.
 
-**Kehadiran kedua makanan nasional ini secara tepat melambangkan karakteristik ganda budaya Taiwan: memiliki akar lokal yang dalam, sekaligus semangat inovasi yang terbuka.** Mereka tidak saling bertentangan, melainkan saling melengkapi, bersama-sama membentuk gambaran lengkap budaya kuliner Taiwan.
+**Keberadaan paralel dari dua kuliner nasional ini, melambangkan sifat ganda budaya Taiwān: memiliki akar lokal yang kuat sekaligus semangat inovasi yang terbuka.** Mereka tidak saling bertentangan, melainkan saling melengkapi, bersama-sama membentuk gambaran lengkap budaya kuliner Taiwān.
 
-## Prospek Masa Depan: Siklus Abadi dari Tradisi hingga Inovasi
+## Prospek masa depan: Siklus tak terputus dari tradisional ke inovasi
 
-Men面对 tantangan globalisasi, budaya makanan mie Taiwan juga mencari arah pengembangan baru. **Kesehatan, pemurnian, dan internasionalisasi** adalah tren penting saat ini.
+Menghadapi tantangan globalisasi, budaya kuliner mie Taiwān juga sedang mencari arah pengembangan baru. **Kesehatan, premium, internasionalisasi** adalah tren penting saat ini.
 
-Dalam hal kesehatan, mie gandum utuh, mie sayuran, dan kaldu rendah natrium semakin diperhatikan. Dalam hal pemurnian, mie sapi premium, ramen butik, dan mie Italia kreatif mendorong makanan mie tradisional ke tingkat yang lebih tinggi. Dalam hal internasionalisasi, makanan mie Taiwan sedang berbunga dan berbuah di seluruh dunia, dari toko ramen Taiwan di New York hingga restoran mie sapi di London, jejak budaya makanan mie Taiwan dapat dilihat.
+Dari segi kesehatan, mie berperasan penuh, mie sayur, dan kuah rendah garam semakin mendapat perhatian. Dari segi premium, mie daging sapi premium, mie ramen butik, dan mie Italia kreatif, mendorong kuliner tradisional ke tingkat yang lebih tinggi. Dari segi internasionalisasi, kuliner mie ala Taiwān sedang berkembang subur di seluruh dunia, dari toko mie ramen ala Taiwān di New York hingga restoran mie daging sapi di London, semuanya menunjukkan jejak budaya kuliner mie Taiwān.
 
-**Namun bagaimana pun perubahannya, nilai inti budaya makanan mie Taiwan tetap tidak berubah: toleransi, inovasi, presisi, dan kerakyatan.** Karakteristik-karakteristik ini membuat makanan mie Taiwan bukan hanya makanan, melainkan wadah budaya, ikatan emosional, dan simbol identitas.
+**Tidak peduli bagaimana perubahannya, nilai inti budaya kuliner mie Taiwān tetap tidak berubah: inklusivitas, inovasi, premium, dan demokrasi.** Ciri-ciri ini membuat mie Taiwān tidak hanya sebagai makanan, tetapi juga sebagai pembawa budaya, ikatan emosional, dan simbol identitas.
 
-Dari semangkuk mie Danzai pertama di depan Kuil Shuixin pada tahun 1895, hingga mie sapi Taiwan yang kini populer global, budaya makanan mie Taiwan telah melewati lebih dari satu abad perkembangan. **Ini bukan hanya evolusi resep, melainkan epik tentang bagaimana masyarakat imigran membangun kembali rumah dan menciptakan identitas di tanah baru.**
+Dari mangkuk mie daging babi pertama di depan Kuil Xian pada 1895, hingga mie daging sapi ala Taiwān yang kini populer di seluruh dunia, budaya kuliner mie Taiwān telah melalui perkembangan lebih dari satu abad. **Ini bukan hanya evolusi resep, tetapi juga epik bagaimana masyarakat migran menciptakan kembali rumah dan identitas di tanah baru.**
 
-Di era globalisasi hari ini, ketika kita mencicipi semangkuk mie Taiwan di sudut mana pun di dunia, kita tidak hanya mencicipi kelezatan, melainkan juga kepadatan budaya sebuah pulau, memori kolektif sekelompok orang, dan kreativitas yang tak pernah berhenti. **Mie mungkin bisa putus, namun semangat orang Taiwan dalam menciptakan kelezatan tidak akan pernah terputus.**
+Di era globalisasi, ketika kita menikmati mangkuk mie ala Taiwān di manapun di dunia, kita tidak hanya merasakan rasa, tetapi juga kepadatan budaya sebuah pulau, kenangan kolektif sekelompok orang, dan semangat kreatif yang tak pernah padam. **Mie mungkin bisa putus, tetapi semangat menciptakan kelezatan oleh orang Taiwān takkan pernah putus.**
 
 ---
+
+## Sumber gambar
+
+- Hero：Mie daging babi dari toko Doushuiyue, Foto Wpcpey，[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tan_Tsai_Noodle_of_Tu_Hsiao_Yue_2015.jpg)，CC BY 4.0。
 
 ## Referensi
 
-1. Lu Yaodong, Majalah _Yinshi_ (Diet) Edisi Perkenalan, tentang bukti asal-usul Mie Sapi Merah Rasa Sichuan
-2. Wikipedia, "Mie Sapi", https://zh.wikipedia.org/zh-tw/%E7%89%9B%E8%82%89%E9%9D%A2
-3. Yu Fu, "Misterius Asal-usul Mie Sapi Taiwan", Independent Review, 2024
-4. "Mie 'Sichuan' Sebenarnya Berasal dari Taiwan? Mengintip Cerita di Balik Mie Sapi", _Shipu Ziyupei_, Free E-News, 2017
-5. "Masakan Kampung Militer, Apakah yang Dimakan Adalah Kerinduan Kampung atau Masakan?", Bank Budaya, 2025
-6. "Rasa yang Memuat Kerinduan Kampung—Laporan Seri Budaya Kuliner Kampung Militer Taiwan", Zhuojian Mingjia, 2025
-7. Situs Resmi Du Xiaoyue Danzai Mie, tentang sejarah Du Xiaoyue, https://noodle1895.com/about-du-hsiao-yueh/
-8. Wikipedia, "Mie Danzai", https://zh.wikipedia.org/zh-hant/%E6%93%94%E4%BB%94%E9%BA%B5
-9. "Bersama 'Makanan' Maju, Rasa Klasik Beragam Mie Instan Taiwan", Berita Taiwan Kementerian Luar Negeri, 2024
-10. "Kenali 4 Raja Mie Taiwan: Yangchun Mie, Mie Yi, Mie Mianxian, Mie Youmian", _Shipu Ziyupei_, Free E-News, 2017
-11. "Klasifikasi Mie Instan Terlaris 2025 Fullian TOP10! 'Weili Zha Jiang Mie' Hanya Peringkat 4", Foodie Player, 2025
-12. Wikipedia, "Nasi Daging Cincang", https://zh.wikipedia.org/zh-tw/%E8%82%89%E8%87%8A%E9%A3%AF
-13. "Komentar Super A] Makanan Rakyat: Masa Lalu dan Kini Nasi Daging Cincang", Free Review Network, 2016
-14. "Negara Paling Ahli Makan Mie Instan Terungkap! Taiwan竟 Tidak Masuk Tiga Besar", DailyView Internet Thermometer, 2025
+1. Xu Yaodong，《Majalah Makanan》Edisi peluncuran，tentang asal-usul mie daging sapi Sichuan
+2. Wikipedia，〈Mie daging sapi〉，https://zh.wikipedia.org/zh-tw/%E7%89%9B%E8%82%89%E9%9D%A2
+3. Yu Fu，〈Misteri mie daging sapi Taiwān yang membingungkan〉，Komentar Independen，2024
+4. 〈"Sichuan" mie daging sapi sebenarnya berasal dari Taiwān? Menyelami latar belakang mie daging sapi〉，《Resep Bebas》Libertas Digital，2017
+5. 〈Makanan permukiman veteran, sebenarnya makan kenangan atau makanan?〉，Bank Budaya，2025
+6. 〈Rasa kenangan yang dibawa—Seri laporan budaya kuliner permukiman veteran Taiwān〉，Zhao Jian Mingjia，2025
+7. Situs resmi Doushuiyue，tentang sejarah Doushuiyue，https://noodle1895.com/about-du-hsiao-yueh/
+8. Wikipedia，〈Mie daging babi〉，https://zh.wikipedia.org/zh-hant/%E6%93%94%E4%BB%94%E9%BA%B5
+9. 〈Bersama "makanan", rasa klasik 100 rasa mie instan Taiwān〉，Kementerian Luar Negeri Republik Tiongkok (Taiwān)，2024
+10. 〈Mengenal 4 raja mie di Taiwān: Mie kuning, Mie spaghetti, Mie tipis, Mie alkali〉，《Resep Bebas》Libertas Digital，2017
+11. 〈Peringkat 10 mie instan terlaris 2025 di Hypercar! "Mie goreng Cenmix" hanya peringkat ke-4〉，Pecinta Makanan，2025
+12. Wikipedia，〈Nasi daging babi〉，https://zh.wikipedia.org/zh-tw/%E8%82%89%E8%87%8A%E9%A3%AF
+13. 〈"Super Komentar" Komentar kuliner rakyat: Sejarah nasi daging babi〉，Jaringan Komentar Libertas，2016
+14. 〈Negara yang paling suka makan mie instan di dunia terungkap! Taiwān tak masuk peringkat teratas 3〉，Thermometer Suhu Digital DailyView，2025
