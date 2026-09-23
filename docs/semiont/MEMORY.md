@@ -349,3 +349,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-23 | 070943-twmd-feedback-triage | 第三輪零回報仍跑完 `--commit`，兩道對賬 87/87 與 86/87 全綠（#1252 上游刪留言 git 留著）；自己昨天也抄過的「停用未拍板」改回 manual-by-decision | 替身與真尺常只差一行，交接層沒有那一行 | [→](memory/2026-09-23-070943-twmd-feedback-triage.md) |
 | 2026-09-23 | 084836-twmd-maintainer-am | aminzai 三篇譯文收下；死連結綠燈底下追出十二語 60 條家族，根因是母稿裸檔名連結；09-07 斜體網址未解項量完＝全庫三篇；收官分岔當班併掉 | 會改壞網址的是外面那層斜體，角括號救不了；收 PR 與本機 commit 是兩個寫入點 | [→](memory/2026-09-23-084836-twmd-maintainer-am.md) |
 | 2026-09-24 | 004242-twmd-babel-nightly | 旗艦文十二語到齊（委派層一夜收十一語、單價每語約 30 萬 token）；五道閘門誤判當夜修；77 份尾段漂移對齊；缺稿一半是長文，登記 #79 | 驗證對象要等於落地對象，比較型閘門兩側過同一個正規化 | [→](memory/2026-09-24-004242-twmd-babel-nightly.md) |
+| 2026-09-24 | 053909-twmd-routine-sync | 第 58 輪：embeddings 殼層去寫死修補（`929a6f739`）apply 進機器；cron／enabled 拉 live 排程器對 ROUTINE.md 零差 | 跨過 05:30 收官的班改殼要隔兩晚生效；babel 重算後不受影響，昨天的案例差點被硬套 | [→](memory/2026-09-24-053909-twmd-routine-sync.md) |
