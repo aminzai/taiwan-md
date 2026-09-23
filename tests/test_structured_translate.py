@@ -555,3 +555,17 @@ def test_bare_object_still_rejected_for_multi_item_or_wrong_id():
     assert not MODULE.is_footnote_batch_response(record, wrong)
     assert not MODULE.is_footnote_batch_response(record)
     assert MODULE.normalize_footnote_batch(record, two) is record
+
+
+def test_extract_json_loose_prefers_outer_object_over_inner_array():
+    text = '{"title": "T", "description": "D", "tags": ["a", "b"]}\n\nNote: done.'
+    assert MODULE._extract_json_loose(text) == {
+        "title": "T", "description": "D", "tags": ["a", "b"],
+    }
+
+
+def test_extract_json_loose_still_takes_last_answer_after_reasoning():
+    text = 'Thinking {"draft": 1} ... final:\n[{"n": "1", "title": "T", "desc": "D"}]'
+    assert MODULE._extract_json_loose(text) == [{"n": "1", "title": "T", "desc": "D"}]
+    truncated = '[{"n": "1", "title": "A", "desc": "a"}, {"n": "2", "title": "B", "desc": "b"}, {"n": "3"'
+    assert MODULE._extract_json_loose(truncated) == {"n": "2", "title": "B", "desc": "b"}

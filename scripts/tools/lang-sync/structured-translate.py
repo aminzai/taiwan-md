@@ -195,7 +195,14 @@ _NO_REASONING_SUFFIX = (
 def _extract_json_loose(text: str):
     """json.loads 直接失敗時的退路：從文字裡找「最後一段」括號配對完整的 [...] 或
     {...} 子字串（reasoning 模型常把真正答案放在碎念之後）。找不到就讓例外往上拋，
-    交給呼叫端的重試機制處理。"""
+    交給呼叫端的重試機制處理。
+
+    2026-09-24：舊版先整輪找 `[` 再找 `{`，於是一個合法的 frontmatter 物件後面多
+    一句說明，就會撈到物件**裡面**的 tags 陣列回傳（`JSON shape fail: list len=8
+    first=str`，run 98122 修後窗 3 次，整篇 exit=1）。改成兩種括號的候選一起收，
+    只留不被其他候選包住的最外層，再取最後一個。
+    """
+    candidates: list[tuple[int, int, object]] = []
     for open_ch, close_ch in (("[", "]"), ("{", "}")):
         start = text.rfind(open_ch)
         while start != -1:
@@ -206,13 +213,19 @@ def _extract_json_loose(text: str):
                 elif text[i] == close_ch:
                     depth -= 1
                     if depth == 0:
-                        candidate = text[start:i + 1]
                         try:
-                            return json.loads(candidate)
+                            candidates.append((start, i + 1, json.loads(text[start:i + 1])))
                         except json.JSONDecodeError:
-                            break
+                            pass
+                        break
             start = text.rfind(open_ch, 0, start)
-    raise json.JSONDecodeError("no balanced JSON substring found", text, 0)
+    if not candidates:
+        raise json.JSONDecodeError("no balanced JSON substring found", text, 0)
+    outermost = [
+        c for c in candidates
+        if not any(o is not c and o[0] <= c[0] and c[1] <= o[1] for o in candidates)
+    ]
+    return max(outermost, key=lambda c: c[0])[2]
 
 
 def call_json(backend, system: str, user: str, *, max_tokens: int, timeout: int,
