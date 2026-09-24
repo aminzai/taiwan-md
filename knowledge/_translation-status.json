@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-24T11:17:38+08:00",
-    "zhCommitHead": "69d29ba33",
+    "lastUpdated": "2026-09-24T11:35:44+08:00",
+    "zhCommitHead": "d84f74ee3",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -52,8 +52,8 @@
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1079,
-        "stale": 32,
+        "fresh": 1080,
+        "stale": 31,
         "metadata_stale": 0,
         "missing": 13,
         "orphan": 0
@@ -76,18 +76,18 @@
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1074,
-        "stale": 20,
+        "fresh": 1075,
+        "stale": 19,
         "metadata_stale": 0,
         "missing": 30,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 1026,
+        "fresh": 1027,
         "stale": 19,
         "metadata_stale": 0,
-        "missing": 79,
+        "missing": 78,
         "orphan": 0
       },
       "ar": {
@@ -7237,11 +7237,11 @@
           "sourceContentHash": "sha256:3f3e19a3f60ba784",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T01:20:08.544762+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d84f74ee",
+          "translationLastModified": "2026-09-24T11:17:38+08:00",
           "inferred": false,
           "footnoteDefs": 40,
-          "bytes": 57717,
+          "bytes": 57721,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -46013,7 +46013,20 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Lifestyle/taiwan-queuing-culture.md",
+          "translatedFrom": "Lifestyle/排隊.md",
+          "sourceCommitSha": "0e24f2873",
+          "sourceContentHash": "sha256:71a07c5ea0f34a1e",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T02:58:56.035103+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 38,
+          "bytes": 146558,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -60959,8 +60972,8 @@
           "sourceContentHash": "sha256:75def73de8a38979",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T02:26:06.763419+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d84f74ee",
+          "translationLastModified": "2026-09-24T11:17:38+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "bytes": 62798,
@@ -88307,18 +88320,18 @@
         "fr": {
           "path": "fr/Politics/2026-local-elections-taiwan.md",
           "translatedFrom": "Politics/2026 九合一選舉.md",
-          "sourceCommitSha": "7678a430",
-          "sourceContentHash": "sha256:f2f73e655df4bef5",
-          "sourceBodyHash": "sha256:b17fcd6aed7e9299",
-          "translatedAt": "2026-06-10T16:45:50Z",
+          "sourceCommitSha": "2cbb7955c",
+          "sourceContentHash": "sha256:98482d1a94d7ac85",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T03:22:48.380485+00:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
-          "footnoteDefs": 24,
-          "bytes": 46340,
+          "footnoteDefs": 39,
+          "bytes": 65396,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (39→24)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Politics/2026-local-elections-taiwan.md",
@@ -138513,20 +138526,18 @@
         "pt": {
           "path": "pt/People/ma-ying-jeou-cross-strait-reconciliation-leader.md",
           "translatedFrom": "People/馬英九.md",
-          "sourceCommitSha": "31a05c44b",
-          "sourceContentHash": "sha256:7ebf03343b7d94a6",
-          "sourceBodyHash": "sha256:3ba24a255fbd26bc",
-          "translatedAt": "2026-07-29T07:32:34+08:00",
+          "sourceCommitSha": "8cc6a667e",
+          "sourceContentHash": "sha256:70721e3134a573dc",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T02:57:58.184283+00:00",
           "translationLastCommit": "8cc6a667",
           "translationLastModified": "2026-09-18T15:14:09+08:00",
           "inferred": false,
-          "footnoteDefs": 43,
-          "bytes": 49710,
+          "footnoteDefs": 41,
+          "bytes": 59805,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+50 -54"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/People/ma-ying-jeou-cross-strait-reconciliation-leader.md",
