@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-24T22:06:02+08:00",
-    "zhCommitHead": "185807a88",
+    "lastUpdated": "2026-09-24T22:13:57+08:00",
+    "zhCommitHead": "b11d1eea3",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -52,16 +52,16 @@
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1082,
-        "stale": 29,
+        "fresh": 1083,
+        "stale": 28,
         "metadata_stale": 0,
         "missing": 13,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 1104,
-        "stale": 11,
+        "fresh": 1105,
+        "stale": 10,
         "metadata_stale": 0,
         "missing": 9,
         "orphan": 0
@@ -120688,18 +120688,18 @@
         "fr": {
           "path": "fr/People/red-shin-minecraft-youtuber.md",
           "translatedFrom": "People/阿神.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:c0745c4b9d2ae295",
-          "sourceBodyHash": "sha256:c2f250d5a21d59eb",
-          "translatedAt": "2026-05-01T22:19:06+08:00",
+          "sourceCommitSha": "fb7f4f824",
+          "sourceContentHash": "sha256:5d4d8978fc43c7cd",
+          "sourceBodyHash": "sha256:02c4e1b3fececdae",
+          "translatedAt": "2026-09-23T22:11:52+08:00",
           "translationLastCommit": "425a1d47",
           "translationLastModified": "2026-07-25T10:30:51+08:00",
           "inferred": false,
-          "footnoteDefs": 9,
-          "bytes": 12997,
+          "footnoteDefs": 18,
+          "bytes": 36674,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (18→9)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/People/red-shin-minecraft-youtuber.md",
@@ -121264,8 +121264,8 @@
           "sourceContentHash": "sha256:ad617fbb654f67ae",
           "sourceBodyHash": "sha256:986ab9796f1069f2",
           "translatedAt": "2026-09-24T12:34:54.232592+00:00",
-          "translationLastCommit": "426d9542",
-          "translationLastModified": "2026-09-22T00:50:27+08:00",
+          "translationLastCommit": "b11d1eea",
+          "translationLastModified": "2026-09-24T22:06:03+08:00",
           "inferred": false,
           "footnoteDefs": 23,
           "bytes": 41232,
@@ -190870,20 +190870,18 @@
         "vi": {
           "path": "vi/Geography/data-taiwan-22-cities.md",
           "translatedFrom": "Geography/用數據看台灣22縣市.md",
-          "sourceCommitSha": "4437f6212",
-          "sourceContentHash": "sha256:8f2edc35ffb515e3",
-          "sourceBodyHash": "sha256:1a4463448315b959",
-          "translatedAt": "2026-08-09T09:26:48+08:00",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:446265901543dd85",
+          "sourceBodyHash": "sha256:2daf1a831ec93084",
+          "translatedAt": "2026-09-24T22:04:27+08:00",
           "translationLastCommit": "1c89db9a",
           "translationLastModified": "2026-09-22T01:05:58+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 34778,
+          "bytes": 34910,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
