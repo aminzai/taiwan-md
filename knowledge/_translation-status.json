@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-24T09:25:52+08:00",
-    "zhCommitHead": "9038d03f6",
+    "lastUpdated": "2026-09-24T09:49:42+08:00",
+    "zhCommitHead": "2e363195a",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 1028,
+        "fresh": 1029,
         "stale": 31,
         "metadata_stale": 0,
-        "missing": 65,
+        "missing": 64,
         "orphan": 0
       },
       "pt": {
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 1025,
+        "fresh": 1026,
         "stale": 19,
         "metadata_stale": 0,
-        "missing": 80,
+        "missing": 79,
         "orphan": 0
       },
       "ar": {
@@ -7231,7 +7231,20 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Music/chou-hui.md",
+          "translatedFrom": "Music/周蕙.md",
+          "sourceCommitSha": "a2811a4f0",
+          "sourceContentHash": "sha256:3f3e19a3f60ba784",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T01:20:08.544762+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 40,
+          "bytes": 57717,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Music/chou-hui.md",
@@ -33049,7 +33062,20 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Technology/nvidia-in-taiwan.md",
+          "translatedFrom": "Technology/NVIDIA在台灣.md",
+          "sourceCommitSha": "0df538d8c",
+          "sourceContentHash": "sha256:a7a044b9c6def84a",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T01:21:10.061511+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 71,
+          "bytes": 155303,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Technology/nvidia-in-taiwan.md",
@@ -101950,11 +101976,11 @@
           "sourceContentHash": "sha256:d43bbd945067b97d",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-23T23:39:31.336696+00:00",
-          "translationLastCommit": "74349bb6",
-          "translationLastModified": "2026-09-24T01:05:06+08:00",
+          "translationLastCommit": "2e363195",
+          "translationLastModified": "2026-09-24T09:25:53+08:00",
           "inferred": false,
           "footnoteDefs": 92,
-          "bytes": 86416,
+          "bytes": 86430,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -196065,8 +196091,8 @@
           "sourceContentHash": "sha256:a92ec79c444536b4",
           "sourceBodyHash": "sha256:2dcae5a0df1cbb16",
           "translatedAt": "2026-09-23T22:11:54+08:00",
-          "translationLastCommit": "74349bb6",
-          "translationLastModified": "2026-09-24T01:05:06+08:00",
+          "translationLastCommit": "2e363195",
+          "translationLastModified": "2026-09-24T09:25:53+08:00",
           "inferred": false,
           "footnoteDefs": 28,
           "bytes": 79228,
