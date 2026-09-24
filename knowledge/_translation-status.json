@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-24T07:46:22+08:00",
-    "zhCommitHead": "9bcc5193b",
+    "lastUpdated": "2026-09-24T08:39:55+08:00",
+    "zhCommitHead": "001098168",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1082,
-        "stale": 27,
+        "fresh": 1083,
+        "stale": 26,
         "metadata_stale": 0,
         "missing": 15,
         "orphan": 0
@@ -36,8 +36,8 @@
       },
       "ko": {
         "total_zh": 1124,
-        "fresh": 1080,
-        "stale": 29,
+        "fresh": 1081,
+        "stale": 28,
         "metadata_stale": 0,
         "missing": 15,
         "orphan": 0
@@ -52,8 +52,8 @@
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1077,
-        "stale": 34,
+        "fresh": 1078,
+        "stale": 33,
         "metadata_stale": 0,
         "missing": 13,
         "orphan": 0
@@ -76,26 +76,26 @@
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1071,
-        "stale": 23,
+        "fresh": 1073,
+        "stale": 21,
         "metadata_stale": 0,
         "missing": 30,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 1024,
+        "fresh": 1025,
         "stale": 19,
         "metadata_stale": 0,
-        "missing": 81,
+        "missing": 80,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 1047,
+        "fresh": 1048,
         "stale": 21,
         "metadata_stale": 0,
-        "missing": 56,
+        "missing": 55,
         "orphan": 0
       },
       "ru": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 981,
+        "fresh": 982,
         "stale": 3,
         "metadata_stale": 0,
-        "missing": 140,
+        "missing": 139,
         "orphan": 0
       }
     },
@@ -8309,7 +8309,20 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Economy/taiwan-shipbuilding-industry.md",
+          "translatedFrom": "Economy/台灣造船業.md",
+          "sourceCommitSha": "60e991e02",
+          "sourceContentHash": "sha256:72151c012acc7cd3",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T05:38:44+08:00",
+          "translationLastCommit": "afea31a7",
+          "translationLastModified": "2026-09-24T05:41:03+08:00",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "bytes": 31896,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Economy/taiwan-shipbuilding-industry.md",
@@ -19204,18 +19217,18 @@
         "en": {
           "path": "en/Economy/taiwan-enterprise-uni-president.md",
           "translatedFrom": "Economy/台灣企業：統一企業.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:3fb7c059831bdebb",
-          "sourceBodyHash": "sha256:481f2cb6cfdcbd21",
-          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "sourceCommitSha": "05ed20149",
+          "sourceContentHash": "sha256:012f47b06c66bfb9",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-23T23:59:06.185264+00:00",
           "translationLastCommit": "29e0766d",
           "translationLastModified": "2026-07-25T10:34:23+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 9169,
+          "footnoteDefs": 64,
+          "bytes": 66431,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (64→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/taiwan-enterprise-uni-president.md",
@@ -36330,20 +36343,18 @@
         "pt": {
           "path": "pt/Art/taiwanese-cinema.md",
           "translatedFrom": "Art/台灣電影.md",
-          "sourceCommitSha": "d520299ba",
-          "sourceContentHash": "sha256:83c16fc3741fa4e4",
-          "sourceBodyHash": "sha256:f474d40c72f846a7",
-          "translatedAt": "2026-07-18T18:57:47+08:00",
+          "sourceCommitSha": "cc6f9d9b3",
+          "sourceContentHash": "sha256:4eec1818bd85149d",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-23T23:46:36.531888+00:00",
           "translationLastCommit": "c64976e8",
           "translationLastModified": "2026-09-22T01:09:03+08:00",
           "inferred": false,
           "footnoteDefs": 72,
-          "bytes": 69402,
+          "bytes": 70401,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+27 -27"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Art/taiwanese-cinema.md",
@@ -94653,8 +94664,8 @@
           "sourceContentHash": "sha256:ac5cbabad7f0e8a5",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-23T21:53:43.203898+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "aaf79cff",
+          "translationLastModified": "2026-09-24T07:46:22+08:00",
           "inferred": false,
           "footnoteDefs": 32,
           "bytes": 67798,
@@ -101922,15 +101933,15 @@
         "vi": {
           "path": "vi/People/yang-dechang.md",
           "translatedFrom": "People/楊德昌.md",
-          "sourceCommitSha": "21298a7a",
-          "sourceContentHash": "sha256:c2aa8f15ab2b1700",
-          "sourceBodyHash": "sha256:7119ad62eb825546",
-          "translatedAt": "2026-07-28T08:51:46+08:00",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:d43bbd945067b97d",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-23T23:39:31.336696+00:00",
           "translationLastCommit": "74349bb6",
           "translationLastModified": "2026-09-24T01:05:06+08:00",
           "inferred": false,
           "footnoteDefs": 92,
-          "bytes": 77357,
+          "bytes": 86416,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -113614,18 +113625,18 @@
         "pt": {
           "path": "pt/People/chen-chih-chung.md",
           "translatedFrom": "People/陳致中.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:c3cf496574092462",
-          "sourceBodyHash": "sha256:b26709ecc046be72",
-          "translatedAt": "2026-07-25T09:23:09+08:00",
+          "sourceCommitSha": "fa7059f7a",
+          "sourceContentHash": "sha256:4de98c280e186c57",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T00:21:10.423713+00:00",
           "translationLastCommit": "c64976e8",
           "translationLastModified": "2026-09-22T01:09:03+08:00",
           "inferred": false,
-          "footnoteDefs": 11,
-          "bytes": 11396,
+          "footnoteDefs": 62,
+          "bytes": 72198,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (62→11)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/People/chen-chih-chung.md",
@@ -151896,18 +151907,18 @@
         "ko": {
           "path": "ko/Food/taiwan-breakfast-culture.md",
           "translatedFrom": "Food/台灣早餐文化.md",
-          "sourceCommitSha": "85926aa3b",
-          "sourceContentHash": "sha256:03f68d8696f5da84",
-          "sourceBodyHash": "sha256:dc5728577e386104",
-          "translatedAt": "2026-05-20T05:08:30+08:00",
+          "sourceCommitSha": "ee6650052",
+          "sourceContentHash": "sha256:499276bde9de600f",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T00:03:11.084053+00:00",
           "translationLastCommit": "5f8252f9",
           "translationLastModified": "2026-09-22T01:05:42+08:00",
           "inferred": false,
-          "footnoteDefs": 6,
-          "bytes": 18220,
+          "footnoteDefs": 41,
+          "bytes": 63611,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (41→6)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Food/taiwan-breakfast-culture.md",
@@ -170468,7 +170479,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/History/psychological-warfare.md",
+          "translatedFrom": "History/心戰.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:5c60d44b5f8680b8",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T05:38:44+08:00",
+          "translationLastCommit": "5c79721f",
+          "translationLastModified": "2026-09-24T05:39:57+08:00",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "bytes": 12299,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -186479,7 +186503,20 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Geography/alishan-forest-railway.md",
+          "translatedFrom": "Geography/阿里山林業鐵路.md",
+          "sourceCommitSha": "da79c32b0",
+          "sourceContentHash": "sha256:98502e991d7261a6",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T05:38:44+08:00",
+          "translationLastCommit": "30ca5b93",
+          "translationLastModified": "2026-09-24T05:40:31+08:00",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "bytes": 48555,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -188516,8 +188553,8 @@
           "sourceContentHash": "sha256:2c4fe0156269ff13",
           "sourceBodyHash": "sha256:123f0a9f012e26b6",
           "translatedAt": "2026-09-23T22:11:56+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "aaf79cff",
+          "translationLastModified": "2026-09-24T07:46:22+08:00",
           "inferred": false,
           "footnoteDefs": 29,
           "bytes": 68620,
@@ -192342,20 +192379,18 @@
         "fr": {
           "path": "fr/Geography/zhongshan-north-road-tiaotong.md",
           "translatedFrom": "Geography/中山北路條通.md",
-          "sourceCommitSha": "fe48ea49",
-          "sourceContentHash": "sha256:c8a39341eabfac41",
-          "sourceBodyHash": "sha256:8e3e2179e3d0c9c2",
-          "translatedAt": "2026-06-22T00:30:00+08:00",
+          "sourceCommitSha": "2da8b92f2",
+          "sourceContentHash": "sha256:c4a4c2010dd95827",
+          "sourceBodyHash": "sha256:605dca39a0b5b5c5",
+          "translatedAt": "2026-09-24T00:14:30.489308+00:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "bytes": 69273,
+          "bytes": 69452,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Geography/zhongshan-north-road-tiaotong.md",
