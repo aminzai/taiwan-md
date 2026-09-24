@@ -332,6 +332,20 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-25 twmd-babel-nightly — wikilink-residue-renders-as-bold-chinese：譯文留著 [[中文]]，每道閘都放行，站上印成一個點不下去的粗體中文詞
+
+- **pattern**: `wikilink-residue-renders-as-bold-chinese`
+- **原則**：站上渲染器 `resolveWikilinks()`（`src/utils/article-render.ts`）對任何 `[[X]]`／`[[X|Y]]` 只印粗體、不出連結。譯文保留 `[[中文]]` 時 cjk-leak-check 依設計豁免 wikilink，verify／article-health 也不管，所以它穿過所有閘門，落地後讀者在法文句子中間看到粗體「歌仔戲」。閘門全在問「檔案對不對」，沒有一道在問「這段在站上長成什麼樣」。
+- **觸發**：2026-09-25〈金鐘獎〉十一語委派，同一份派工單六語把 wikilink 換成連結、五語留著（es／fr／ja 留 `[[中文]]`、hi／ru 寫 `[[中文|譯名]]`），十一隻 agent 都回報全綠。病根在派工單只寫了「目標不存在時扁平化」，沒寫存在時怎麼辦，誤判清單還把 wikilink 列成「看到別動」。
+- **instances**：
+  - 2026-09-25 twmd-babel-nightly〈金鐘獎〉五語 → memory/2026-09-25-004244-twmd-babel-nightly.md
+- **規模**：同一量尺全庫一次，12 語 253 份既有譯文帶中文 wikilink（en 18／ja 34／ko 22／es 27／fr 13／vi 40／id 17／pt 14／hi 25／ar 12／ru 9／de 22）。
+- **已落地**：〈金鐘獎〉五語機械替換（`274bd50b6`）；`write-agent-brief.py` 補「wikilink_targets 有網址就寫 [譯名](網址)」（`12821384b`）。
+- **修補候選**：(a) 存量 253 份機械替換（>50 檔，命中 §自主權邊界，等哲宇或 Full mode）；(b) verify-translation 加一檢：譯文含 `[[` 且 zh 原文該 wikilink 在目標語言有譯文 → FAIL，讓產線與委派層都擋；(c) 或反過來讓渲染器在譯文頁把 `[[中文]]` 解析成在地化連結，一處改好全站存量——這條是站體改動，影響面要先量。
+- **可能層級**：操作規則（綁本站渲染器行為）；背後的「閘門量檔案、不量渲染結果」接 REFLEXES #82／#84
+- **verification_count**: 1
+- **severity**: tactical
+
 ### 2026-09-24 twmd-maintainer-am — alarm-goes-quiet-as-it-gets-urgent：倒數中的警報，標題凍在開票那天的讀數，而清單只看得到標題
 
 - **pattern**: alarm-goes-quiet-as-it-gets-urgent
@@ -361,11 +375,12 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **觸發**：2026-09-24 同一夜兩例。(1) dispatcher 在驗證前對譯文跑 prettier、母稿卻是 commit 當時的樣子，四篇 prettier 不穩定的母稿的每一份譯文都被判「網址改寫」，十二語卡同一道閘，失敗記成模型的帳。(2) 印尼文旗艦文委派交件時十四道閘全綠，commit 時 prettier 把缺空行的腳註 74、75 折進 73，腳註數少兩條、hard 擋下；交件閘門量的是交件那一刻的檔案。
 - **instances**：
   - 2026-09-24 twmd-babel-nightly 網址閘門不對稱＋委派交件漏 prettier → memory/2026-09-24-004242-twmd-babel-nightly.md
+  - 2026-09-25 twmd-babel-nightly 第三例：prettier 把 `*斜體*` 改寫成 `_斜體_`，句尾網址在譯文側多一個 `_`，高雄加工出口區三語三模型卡同一道網址閘（`dd695c1b7` 兩側一起剝）→ memory/2026-09-25-004244-twmd-babel-nightly.md
 - **已落地**：`verify-translation.extract_urls` 兩側對稱還原反斜線跳脫（`aaac94be2`）；委派派工單閘門清單補第 15 道 `prettier --check`（`fea28f87d`）。
 - **修補候選**：(a) 比較型檢查（網址、腳註數、章節數）一律兩側過同一個正規化，或兩側都不過；(b) 任何「交件前自檢」的閘門清單最後一道固定是 commit 會跑的那把格式化器——同一件事在 dispatcher 那邊是對的（它先 prettier 再驗），在委派層缺了。
 - **可能層級**：通用反射候選（「驗證對象要等於落地對象」，#82 proxy 的一個具體形狀）
 - **相關**：2026-09-07 `formatter-vs-checker`（同一對元件，那次是寫入權先行）、2026-09-23 `italic-span-defeats-url-escaping` (c)、2026-09-23 `prescribed-profile-is-not-the-gate-profile`（量尺不是 commit 那把）、REFLEXES #82、#99
-- **verification_count**: 2
+- **verification_count**: 3
 
 ### 2026-09-23 twmd-maintainer-am — italic-span-defeats-url-escaping：把網址包進角括號救不了它，因為會改壞它的是外面那層斜體
 
@@ -465,10 +480,11 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **instances**：
   - 2026-09-21 twmd-babel-nightly 散文型腳註／imageAlt／tags 債三型 → memory/2026-09-21-005044-twmd-babel-nightly.md
   - 2026-09-24 twmd-babel-nightly 五型：單條腳註批次的裸物件被當截斷拒收、寬鬆 JSON 解析撈到物件裡的 tags 陣列、網址比對把 prettier 的反斜線跳脫當改寫、日韓標籤照抄判準把拉丁字母品牌名算進分子、腳註格式閘不認日韓「[^14]に同じ」語序。五個都是每次重試結果一樣、卻被記成「模型又沒過」的確定性失敗 → memory/2026-09-24-004242-twmd-babel-nightly.md
+  - 2026-09-25 twmd-babel-nightly 三型，全是「一篇文章、多種模型、同一道閘」：整篇引擎的網址裝甲不認中文路徑（台灣棒球文化十二語）、腳註 fixer 刪多來源腳註的第二個出處（台灣網路社群遷徙史、外送專法）、母稿引用從未上傳的圖（東港迎王船六語）。判讀捷徑：同篇失敗跨三種以上 worker 就先查閘門與母稿，不查模型 → memory/2026-09-25-004244-twmd-babel-nightly.md
 - **修補候選**：dispatcher 記 fail 時多一欄「本次失敗是否可由輸入端預判」——最便宜的版本是在派工前跑一次 `extract_footnote_defs` 與 frontmatter 對比，任何在派工前就能判定必敗的組合直接記 `precheck-fail` 不派、不計 fail_count（REFLEXES #38 (d) 那條「閘門誤判可修、本質太難重試無用」的第三桶：**還沒派就知道會敗**）。
 - **可能層級**：通用反射候選（任何「輸入端確定性缺陷混進輸出端隨機失敗的計數器」）
 - **相關**：REFLEXES #38 (d) `fail_counts` 混閘門誤判與本質太難（本條是第三種根因：解析器對輸入形狀的缺陷，重試零意義且每次燒完整工作量）、#85（「不知道敗在哪」借了「模型沒過」的符號）、#90（逐條回報把單一根因打散成 36 個看似無關的錯誤）
-- **verification_count**: 2
+- **verification_count**: 3
 
 ### 2026-09-21 twmd-babel-nightly — gate-and-engine-disagree-on-who-owns-a-field：同一個 frontmatter 欄位，閘門說要翻、引擎說要複製，兩個方向都出過事
 
@@ -570,9 +586,10 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **instances**：
   - 2026-09-13 004943-twmd-babel-nightly — 37+9 篇卡住，手動羅馬化補 46 筆（[memory](memory/2026-09-13-004943-twmd-babel-nightly.md)）
   - 2026-09-14 005514-twmd-babel-nightly — 150 篇卡住，`slug-suggest.py` 批次生成補 150 筆（[memory](memory/2026-09-14-005514-twmd-babel-nightly.md)）
+  - 2026-09-25 004244-twmd-babel-nightly — news-radar 09-19 三篇（金鐘獎／油價機制／誰算低薪）卡六天、log 警告 133 次無人讀；補 slug 並把缺口接進 `babel-preflight.py`（每班 Stage 0 第一個指令），不再靠碰巧翻 log（[memory](memory/2026-09-25-004244-twmd-babel-nightly.md)）
 - **可能層級**：操作規則（新條目誕生流程／`_slug-map.json` intake 機制的具體缺口，不是通用反射）
 - **相關**：REFLEXES #82 準確的交接會替代路由（同構：兩份 memory row 都準確寫下同一句教訓，卻沒有一次真正被送進決策/修復面，直到第三次撞見才進 inbox）
-- **verification_count**: 2
+- **verification_count**: 3
 - **severity**: tactical
 - **distill_ready**: true
 
