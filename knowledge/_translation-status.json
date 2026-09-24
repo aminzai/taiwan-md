@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-24T15:36:01+08:00",
-    "zhCommitHead": "29571dbd4",
+    "lastUpdated": "2026-09-24T15:40:03+08:00",
+    "zhCommitHead": "2f4a622a7",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 1029,
+        "fresh": 1030,
         "stale": 19,
         "metadata_stale": 0,
-        "missing": 76,
+        "missing": 75,
         "orphan": 0
       },
       "ar": {
@@ -1156,8 +1156,8 @@
           "sourceContentHash": "sha256:384848975d3b840a",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T05:39:15.613604+00:00",
-          "translationLastCommit": "29e0766d",
-          "translationLastModified": "2026-07-25T10:34:23+08:00",
+          "translationLastCommit": "2f4a622a",
+          "translationLastModified": "2026-09-24T15:36:01+08:00",
           "inferred": false,
           "footnoteDefs": 46,
           "bytes": 46982,
@@ -120506,8 +120506,8 @@
           "sourceContentHash": "sha256:5d4d8978fc43c7cd",
           "sourceBodyHash": "sha256:02c4e1b3fececdae",
           "translatedAt": "2026-09-23T22:11:44+08:00",
-          "translationLastCommit": "29e0766d",
-          "translationLastModified": "2026-07-25T10:34:23+08:00",
+          "translationLastCommit": "2f4a622a",
+          "translationLastModified": "2026-09-24T15:36:01+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "bytes": 31381,
@@ -121060,8 +121060,8 @@
           "sourceContentHash": "sha256:ad617fbb654f67ae",
           "sourceBodyHash": "sha256:986ab9796f1069f2",
           "translatedAt": "2026-09-24T07:27:40.706512+00:00",
-          "translationLastCommit": "8c2e0fd9",
-          "translationLastModified": "2026-09-22T00:49:58+08:00",
+          "translationLastCommit": "2f4a622a",
+          "translationLastModified": "2026-09-24T15:36:01+08:00",
           "inferred": false,
           "footnoteDefs": 23,
           "bytes": 32517,
@@ -161076,7 +161076,20 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Food/taiwan-banquet-culture.md",
+          "translatedFrom": "Food/台灣辦桌文化.md",
+          "sourceCommitSha": "26a67c779",
+          "sourceContentHash": "sha256:e2ad095276c4d00c",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T07:25:02.736601+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 33,
+          "bytes": 113341,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
