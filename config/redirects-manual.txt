@@ -176,6 +176,11 @@
 
 # 爬蟲與瀏覽器慣例先試 /sitemap.xml；站上真正的入口是 Astro 產的 sitemap-index.xml
 # （robots.txt 已指向它）。2026-09-20 CF 一天 10 筆 404，長期是 unknown 家族榜首。
+# ⚠️ 2026-09-25 data-refresh-am 查證：這條目前沒有作用。站體部署在 GitHub Pages，
+# 不讀 _redirects；會生效的只有 astro.config 從 redirects-generated.json 生成的
+# meta-refresh 頁，而產生器刻意略過帶副檔名的 source（.xml 路徑放不了 HTML 頁）。
+# 09-25 線上 curl /sitemap.xml 仍回 404。要真的接住，得在 build 產出裡放一份
+# sitemap.xml（例如複製 sitemap-index.xml），不是在這裡加規則。
 /sitemap.xml /sitemap-index.xml 301
 
 # 2026-09-22 maintainer-am：en 六組同源雙檔收斂成一個 canonical 檔名（check-slug-consistency --all 第一段）。
