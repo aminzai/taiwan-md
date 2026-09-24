@@ -79,3 +79,11 @@ def test_ja_tags_latin_brand_names_do_not_count_as_untranslated(tmp_path):
 def test_ja_tags_verbatim_chinese_copy_still_fails(tmp_path):
     ja = "['創業', 'Portaly', 'PLG', 'AI', 'SaaS', '創作者經濟']"
     assert _tags_check(tmp_path, ja) == "FAIL"
+
+
+def test_extract_urls_ignores_italic_underscore_closer():
+    # prettier 把 *斜體* 改寫成 _斜體_；母稿星號收尾、譯文底線收尾，網址要一樣
+    zh = "*圖片頁：https://commons.wikimedia.org/wiki/File:Port_of_Kaohsiung_map.svg。*"
+    tr = "_그림 페이지: https://commons.wikimedia.org/wiki/File:Port_of_Kaohsiung_map.svg._"
+    assert VERIFY.extract_urls(zh) == VERIFY.extract_urls(tr)
+    assert VERIFY.extract_urls(tr) == ["https://commons.wikimedia.org/wiki/File:Port_of_Kaohsiung_map.svg"]

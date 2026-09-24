@@ -231,11 +231,17 @@ def extract_urls(body: str) -> list[str]:
     改寫，十二語永遠過不了（run 98122 修後窗至少 10 次）。真正的網址不含反斜線，
     還原後才比，擋下的仍只有真的改了網址的譯文。尾端剝除一併加上跳脫殘留的
     `\\` 與強調符號 `*`（網址不會以星號結尾，那是外層斜體的收尾）。
+
+    2026-09-25：尾端剝除再加 `_`。prettier 把斜體統一寫成 `_…_`，所以同一行
+    `*圖片頁：https://…/Port_of_Kaohsiung_map.svg。*` 在母稿是星號收尾、在
+    dispatcher 驗證的譯文是 `…svg._`——`*` 已經剝、`_` 沒剝，高雄加工出口區三
+    語、三種模型全部卡在這一條。GFM 的自動連結本來就不把結尾的 `_` 算進網址，
+    渲染出的 href 相同；兩側一起剝，真的改掉路徑中段的譯文照樣擋。
     """
     urls = []
     for u in re.findall(URL_PATTERN, body):
         u = _MD_ESCAPE_RE.sub(r"\1", u)
-        urls.append(u.rstrip(".,;:!?*\\"))
+        urls.append(u.rstrip(".,;:!?*_\\"))
     return urls
 
 
