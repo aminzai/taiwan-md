@@ -1,147 +1,165 @@
 ---
 title: 'Hakka Food Culture'
-description: 'The rich and diverse food culture of the Hakka people, from the mellow aroma of ground tea to the mountain-forest charm of ginger lily rice dumplings, showcases the Hakka spirit of frugality and making the most of local ingredients.'
+description: "The rich and diverse Hakka food culture, from the mellow aroma of lei cha to the mountainous charm of wild ginger flower dumplings, showcases the Hakka people's frugal and thrifty lifestyle wisdom"
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'Food'
+tags:
+  [
+    'Food',
+    'Hakka',
+    'lei cha',
+    'wild ginger flower dumplings',
+    'traditional snacks',
+    'ethnic culture',
+  ]
 subcategory: '族群飲食'
-tags: ['Food', '客家', '擂茶', '野薑花粽', '傳統美食', '族群文化']
-readingTime: 12
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: false
+image: '/article-images/food/meinong-hakka-leicha-tea-2023.webp'
+imageAlt: 'Hakka lei cha experience at Minong Folk Village'
+imageCredit: 'WEI, WAN-CHEN / Wikimedia Commons'
+created: 2026-03-19
+readingTime: 12
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E7%BE%8E%E6%BF%83%E6%B0%91%E4%BF%97%E6%9D%91%E5%AE%A2%E5%AE%B6%E6%93%82%E8%8C%B6%E9%AB%94%E9%A9%9780.jpg'
 translatedFrom: 'Food/客家飲食文化.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:3122286a1056f9c8'
-sourceBodyHash: 'sha256:dacc006277fbf01a'
-translatedAt: '2026-05-24T05:06:32+08:00'
-image: '/article-images/food/meinong-hakka-leicha-tea-2023.webp'
-imageCredit: 'WEI, WAN-CHEN / Wikimedia Commons'
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:3b6b12dd06856da0'
+sourceBodyHash: 'sha256:1006124334926615'
+translatedAt: '2026-09-23T22:11:44+08:00'
 ---
 
 # Hakka Food Culture
 
-> **30-second overview:** Hakka food culture is characterized by its "salty, rich, and fragrant" flavors, carrying the migration history and life wisdom of the Hakka people. From the aroma of ground tea on Beipu Old Street to the ginger lily rice dumplings of Neiwan, from the rich flavors of braised pork with preserved mustard greens to the humble stir-fry of Hakka-style fried dishes, every dish tells a story of the Hakka people's deep connection to the land.
+> **30-second overview:** Hakka food culture is characterized by "salty, fatty, and fragrant," carrying the migration history and life wisdom of the Hakka people. From the aroma of lei cha in Beipu Old Street to the wild ginger flower dumplings in Wufeng, from the rich braised pork with salted cabbage to the simple Hakka stir-fry, every dish tells the deep feelings between the Hakka people and the land.
 
 ## Why It Matters
 
-Hakka cuisine holds a unique place in Taiwan's diverse food culture. Throughout their long migration, the Hakka people developed distinctive food preservation techniques and cooking methods that continue to influence Taiwan's culinary landscape to this day. The "salty, fragrant, and richly flavored" character of Hakka dishes reflects the nutritional needs of a laboring people and embodies the Hakka philosophy of frugal living and making the most of every resource.
+Hakka cuisine occupies a unique position in Taiwan's diverse food culture. Throughout the long migration process, the Hakka people developed unique food preservation techniques and cooking methods, which still influence Taiwan's food culture today. The "salty, fragrant, and rich" flavor of Hakka dishes reflects the nutritional needs of laboring people and embodies the Hakka people's philosophy of frugality and making the most of resources.
 
 ## Overview
 
-Walking down Beipu Old Street in Hsinchu, the air is always filled with the aroma of ground tea. It is the mellow fragrance released when sesame, peanuts, and tea leaves are repeatedly ground in a stone mortar — a scent that seems to carry the weight of time itself. An elderly woman sits at an old wooden table, grinding clockwise with a pestle, a gesture that has been passed down through the Hakka community for centuries.
+Walking into the old street in Beipu, Hsinchu, the air is always filled with the aroma of lei cha. It is the mellow flavor of sesame, peanuts, and tea leaves ground repeatedly in a stone mortar, as if allowing one to sense the weight of time. An elderly grandmother sits in front of an ancient wooden table, holding a pestle and grinding clockwise, an action that has been passed down for centuries in the Hakka community.
 
-The formation of Hakka food culture is inseparable from the migration history of the Hakka people. During their long journeys of resettlement, the Hakka had to learn how to survive in different environments and how to make the most of limited ingredients. This survival wisdom of "eating from the mountains when in the mountains, eating from the water when by the water" shaped the fundamental characteristics of Hakka cuisine: using local ingredients and wasting nothing.
+The formation of Hakka food culture is inseparable from the migration history of the Hakka people. During the long process of migration, the Hakka people had to learn how to survive in different environments and how to make the most of limited ingredients. This "living on the mountain by the mountain, living on the water by the water" survival wisdom shaped the basic characteristics of Hakka cuisine: "using local materials" and "making the most of resources."
 
 ## Classic Dishes
 
-Hakka cuisine is known for several representative dishes, each embodying a specific historical context and local wisdom.
+Hakka cuisine is known for several representative dishes, each of which condenses specific historical context and local wisdom.
 
-### Ground Tea (Lei Cha): A Thousand-Year Legacy of the "Three Raw Ingredients Soup"
+### Lei Cha: A Millennium Heritage of Three-Life Soup
 
-Ground tea, also known as "San Sheng Tang" (Three Raw Ingredients Soup), is said to derive its name from the Three Kingdoms period combination of "raw tea, raw ginger, and raw rice"[^1]. In the daily life of the Hakka people, ground tea serves as both a beverage and a social medium as well as a nourishing food supplement.
+Lei cha, also known as "three-life soup," is said to have originated from the combination of "raw tea, raw ginger, and raw rice" in the Three Kingdoms period[^1]. In the daily life of the Hakka people, lei cha is not only a drink but also a social medium and health-preserving food.
 
-Traditional ground tea preparation requires a dedicated mortar and pestle. The mortar is typically made of fired clay with fine grooves on the inner walls; the pestle is usually crafted from guava wood or camellia oil tree trunks, chosen for their hardness and natural fragrance. To prepare the tea, tea leaves, sesame, peanuts, and other ingredients are placed in the mortar and ground clockwise with the pestle until everything is blended into a fine powder.
+The traditional production of lei cha requires special mortars and pestles. The mortar is usually made of clay, with delicate lines on the inner wall; the pestle is mostly made of breadfruit wood or tea tree trunk, which is hard and has natural fragrance. When making, tea leaves, sesame, peanuts and other raw materials are put into the mortar, and the pestle is used to grind clockwise until all materials are integrated into a fine powder.
 
-The ground tea culture is especially well-developed in the Hsinchu area. From Hukou and Zhudong to Beipu, each township has its own ground tea specialty. Ground tea on Beipu Old Street is a must-try experience for visitors. Many shops not only serve ready-made ground tea but also let guests experience the grinding process firsthand. A 2022 survey by the Hakka Affairs Council showed that ground tea has become a core experiential attraction of Hakka cultural tourism in Hsinchu County.
+The lei cha culture in the Hsinchu area is particularly developed, from Lake Port, Zhudong to Beipu, every town has its own lei cha characteristics. The lei cha in Beipu Old Street is even a must-visit experience for tourists, many shops not only provide ready-made lei cha, but also open to tourists to experience the grinding process. The Hakka Affairs Commission's 2022 survey shows that lei cha has become the core experience item of Hsinchu County's Hakka cultural tourism.
 
-With the passage of time, ground tea has also evolved. Around 2015, "iced ground tea" emerged as an innovation on Beipu Old Street, transforming the traditional hot drink into a refreshing summer beverage. Even takeout cup versions appeared, bringing this ancient drink off the tea table and into the era of hand-shaken beverages.
+With the changes of the times, lei cha has also had modern changes. After about 2015, Beipu Old Street appeared the innovative "iced lei cha", turning the traditional hot drink into a cool summer drink, and even launching a take-out cup version, letting this ancient drink walk out of the table and into the era of bubble tea.
 
-**Nutritional Value and Dietary Considerations**
-Ground tea is rich in protein, vitamin E, and unsaturated fatty acids, offering excellent nutritional value. However, because its main ingredients are nuts, it is relatively high in calories, so people with diabetes and those watching their weight should consume it in moderation. Traditional ground tea is served hot and unsweetened, preserving the natural flavors of its ingredients.
+**Nutritional Value and Taboos**
+Lei cha is rich in protein, vitamin E and unsaturated fatty acids, with good nutritional value. However, since the main ingredients are nuts, the calories are relatively high, diabetic patients and people who are losing weight need to drink in moderation. Traditional lei cha is a hot drink without added sugar, maintaining the natural flavor of the ingredients.
 
-### Ginger Lily Rice Dumplings: Fragrant Memories of the Mountain Forest
+### Wild Ginger Flower Dumplings: Fragrant Memories in the Mountains
 
-On Neiwan Old Street in Hengshan Township, Hsinchu County, there is a special kind of rice dumpling that leaves a lasting impression — the ginger lily rice dumpling. This mountain-forest delicacy embodies the culinary wisdom of the Hakka people living in harmony with the natural environment.
+In the old street of Wufeng, Hsinchu County, there is a special kind of dumpling that is unforgettable - wild ginger flower dumplings. This mountain flavor condenses the dietary wisdom of the Hakka people living in harmony with nature.
 
-The ginger lily (native to India, widely naturalized in Taiwan) blooms every summer, filling entire mountain areas with its fresh fragrance. Resourceful Hakka people discovered that the dried and ground rhizomes of the ginger lily not only have a unique aroma but also excellent preservative properties. They mixed ginger lily powder with mountain pepper, mountain shiitake mushrooms, Hakka pickled dried radish, black pork, and glutinous rice to create the filling, then wrapped the dumplings in the broad leaves of the ginger lily plant. After steaming, this mountain delicacy was ready to enjoy.
+Wild ginger (originated in India, introduced to Taiwan and widely naturalized), every summer when it blooms, the whole mountain area is filled with its fresh fragrance. The clever Hakka people discovered that the root of wild ginger, after drying and grinding into powder, not only has a unique fragrance, but also has good preservative effect. So they mixed wild ginger powder with mountain pepper, mountain wild mushrooms, Hakka pickled radish, black pork and glutinous rice to make filling, and then wrapped it with the broad leaves of wild ginger, and after steaming, it became this mountain delicious food.
 
-The making of ginger lily rice dumplings reflects the Hakka people's environmental consciousness. Ginger lily leaves are naturally non-toxic and serve as an eco-friendly wrapping material that also imparts a natural fragrance to the dumplings. During steaming, the distinctive aroma of the ginger lily permeates the glutinous rice, creating a unique layering of flavors.
+The production process of wild ginger flower dumplings embodies the environmental protection concept of the Hakka people. The leaves of wild ginger are naturally non-toxic, used as wrapping materials not only environmental protection, but also can add natural fragrance to the dumplings. During the steaming process, the unique fragrance of wild ginger will penetrate into the glutinous rice, forming a unique flavor level.
 
-The preciousness of this delicacy lies in its seasonality and regional specificity. The ginger lily has a limited growing season and is mainly found in Taiwan's low-to-mid elevation mountain areas, making ginger lily rice dumplings a rare treat that can only be enjoyed at certain times and in certain places.
+The preciousness of this food lies in its seasonality and regional characteristics. The harvest season of wild ginger is limited, and it is mainly distributed in the medium and low altitude mountainous areas of Taiwan, which makes wild ginger flower dumplings become a rare delicacy that can only be tasted at a specific time and place.
 
-### Hakka Stir-Fry: The Ultimate Expression of Commoner Wisdom
+### Hakka Stir-Fry: The Ultimate Presentation of Folk Wisdom
 
-Hakka stir-fry is the most representative home-style dish in Hakka cuisine and the one that best embodies the Hakka principle of "frugal household management." The essence of this dish lies in the idea that "anything can be stir-fried, and nothing goes to waste."
+Hakka stir-fry is the most representative home-cooked dish in Hakka cuisine, and it is also the dish that best embodies the Hakka people's concept of "frugality and thrift." The essence of this dish lies in "everything can be stir-fried, nothing is wasted."
 
-Traditional Hakka stir-fry uses shredded pork, dried tofu, celery, Chinese chives, and bean sprouts as its main ingredients, but in reality, there is no fixed recipe for Hakka stir-fry. On the Hakka dinner table, leftover vegetables, small amounts of meat, and various pickled products can all become ingredients for the stir-fry. This flexible and adaptive cooking style reflects the Hakka people's creativity and wisdom in the face of limited resources.
+Traditional Hakka stir-fry takes pork silk, tofu, celery, leek and bean sprouts as the main ingredients, but in fact, Hakka stir-fry has no fixed recipe. On the Hakka dining table, leftover vegetables, a small amount of meat, and various pickled products can all become the ingredients of stir-fry. This flexible and changeable cooking method embodies the creativity and wisdom of the Hakka people when facing limited resources.
 
-### The Culture of Pickling: The Magician of Time
+### Pickling Culture: The Magician of Time
 
-The Hakka people's pickling techniques are truly remarkable. Preserved mustard greens (fucai), dried preserved mustard greens (meigan cai), salted pork, pickled radish, and other preserved foods not only extend the shelf life of ingredients but also create unique flavors.
+The pickling techniques of the Hakka people are second to none. Pickled vegetables, salted mustard, salted pork, pickled radish and other pickled products not only extend the shelf life of food, but also create unique flavors.
 
-**Fucai** is the product of mustard greens that have been pickled and fermented, possessing a distinctive sour aroma and serving as an indispensable ingredient in many Hakka dishes[^5]. **Meigan cai** (dried preserved mustard greens) is the result of drying and curing mustard greens, with a salty, fragrant, and richly flavored taste — a classic pairing with braised pork. **Salted pork** is pork that has been cured with salt and air-dried, allowing it to be stored for extended periods and serving as an important protein source for the Hakka people.
+**Pickled vegetables** are the product of mustard after pickling and fermentation, with a unique sour and salty taste, and are an indispensable ingredient in many Hakka dishes[^5]. **Salted mustard** is the result of mustard drying and pickling, with a salty and fragrant taste, and is a classic combination with braised pork. **Salted pork** is the product of pork after salt curing and air drying, which can be stored for a long time and is an important source of protein for the Hakka people.
 
-The development of these pickling techniques is closely related to the living environment of the Hakka people. In an agricultural society, how to preserve food without refrigeration equipment was an essential survival skill. The pickling techniques developed by the Hakka people not only solved the preservation problem but also created a rich variety of flavor profiles.
+The development of these pickling techniques is closely related to the living environment of the Hakka people. In the agricultural society, how to preserve food without refrigeration equipment is an important survival skill. The pickling technology developed by the Hakka people not only solves the problem of preservation, but also creates a rich variety of flavors.
 
-## Food Philosophy
+## Dietary Philosophy
 
-Hakka food philosophy did not arise in a vacuum; it is a direct product of migratory life and a labor-intensive environment.
+The Hakka dietary philosophy is not created out of thin air, but is the direct product of migration life and labor environment.
 
-### Salty, Rich, and Fragrant: The Culinary Code of Laborers
+### Salty, Fatty, and Fragrant: The Food Password of Laborers
 
-Hakka cuisine is known for being "salty, rich, and fragrant," a flavor profile that directly stems from the Hakka people's agricultural labor environment. The Hakka were predominantly engaged in farming, which demanded enormous physical exertion. Their diet therefore tended toward strongly flavored, high-calorie foods to replenish the salt and energy lost through heavy labor.
+Hakka dishes are known for their "salty, fatty, and fragrant" flavor, which directly stems from the agricultural labor environment of the Hakka people. The Hakka people are mostly engaged in agricultural labor, which requires a lot of physical consumption, so the diet tends to be heavy in taste and high in calories to supplement the salt and calories lost during labor.
 
-"Salty" was to replace salt lost through labor; "rich" was to provide high calories; and "fragrant" was achieved through various spices and seasonings to stimulate appetite and ensure adequate nutritional intake. This culinary character reflects the Hakka people's pragmatic approach to life and their precise understanding of the body's needs.
+"Salty" is to supplement the salt lost during labor; "fatty" is to provide high calories; "fragrant" is to stimulate appetite through various spices and seasonings, so that people can absorb enough nutrition. This dietary feature reflects the practical attitude of the Hakka people and their accurate grasp of physical needs.
 
-### Using Local Ingredients: Living in Harmony with Nature
+### Using Local Materials: Living in Harmony with Nature
 
-The migration history of the Hakka people forged their remarkable adaptability. Whether settling in mountainous areas, plains, or coastal regions, the Hakka people were able to make full use of local ingredients and develop cuisine with distinctive regional characteristics.
+The migration history of the Hakka people has given them strong adaptability. Whether settling in the mountains, plains or coastal areas, the Hakka people can make full use of local food resources and develop local characteristic dishes.
 
-In the mountains, the Hakka gathered wild vegetables and mushrooms to create mountain-forest dishes; on the plains, they made the most of crops to develop a rich rice-based food culture; and in coastal areas, the Hakka incorporated seafood elements to create different flavors.
+In the mountains, the Hakka people collect wild vegetables and mushrooms to make mountain dishes; on the plains, they make full use of crops to develop various rice food cultures; in coastal areas, the Hakka people also incorporate seafood elements to create different flavors.
 
-### Frugality and Cherishing Resources: A Food Ethic of No Waste
+### Frugality and Thrift: The Ethics of Non-Wasteful Eating
 
-The Hakka people's frugal character has also deeply influenced their food culture. On the Hakka dinner table, waste is rare. Leftover dishes can be re-seasoned to become another course, bones can be used to make soup, and vegetable leaves can be turned into pickles. This philosophy of "making the most of everything" is both a pragmatic choice born of economic necessity and a form of respect for food and natural resources.
+The frugal character of the Hakka people also deeply affects their food culture. On the Hakka dining table, there is rarely any waste. Leftover dishes can be re-seasoned into another dish, bones can be cooked into soup, and vegetable leaves can be made into pickled vegetables. This "making the most of resources" concept is both a practical choice under economic pressure and a respect for food and natural resources.
 
-## Modern Transmission and Innovation
+## Modern Inheritance and Innovation
 
-Hakka food culture in the 21st century faces the dual challenges of a generational transmission gap and market transformation.
+Hakka food culture faces the dual challenges of inheritance interruption and market transformation in the 21st century.
 
-### A Dialogue Between Tradition and Modernity
+### Dialogue Between Tradition and Modernity
 
-In modern society, Hakka food culture faces the challenge of balancing preservation and innovation. On one hand, younger generations are gradually losing familiarity with traditional Hakka dishes; on the other hand, Hakka cuisine is seeking new positioning in the modern restaurant market.
+In modern society, Hakka food culture faces the challenges of inheritance and innovation. On the one hand, the younger generation's understanding of traditional Hakka dishes is gradually decreasing; on the other hand, Hakka dishes are also looking for new positioning in the modern catering market.
 
-Many Hakka restaurants have begun attempting to modernize traditional dishes — reducing oil and salt content, improving plating and presentation, and even incorporating elements from other culinary traditions. While these changes have sparked some controversy, they have also opened new pathways for the dissemination of Hakka food culture.
+Many Hakka restaurants have begun to try to modernize traditional Hakka dishes, reduce oil and salt content, improve the appearance and presentation, and even incorporate elements of other cuisines. Although these changes have caused some disputes, they have also opened up new ways for the dissemination of Hakka food culture.
 
-### The Double-Edged Sword of Tourism Culture
+### Tourist Culture: A Double-Edged Sword
 
-The tourism-oriented development of Hakka food culture has brought both opportunities and challenges. Ground tea in Beipu and ginger lily rice dumplings in Neiwan have both become famous tourist experiences. On one hand, this development has raised the visibility of Hakka culture; on the other hand, it may also lead to over-commercialization, stripping away the original cultural substance.
+The commodification of Hakka food culture brings both opportunities and challenges. Like Beipu's lei cha and Wufeng's wild ginger flower dumplings, they have become famous tourist experiences. On the one hand, this development has improved the popularity of Hakka culture; on the other hand, it may also lead to over-commercialization and lose the original cultural connotation.
 
-Finding a balance between commercial development and cultural preservation is an important issue that the modern development of Hakka food culture must address.
+How to find a balance between commercial development and cultural preservation is an important issue that the modern Hakka food culture development must face.
 
 ## Cultural Significance and Value
 
-The value of Hakka food culture extends far beyond the food itself. It is a vessel of Hakka historical memory, a symbol of cultural identity, and a crystallization of traditional wisdom. In an era of globalization, these distinctive food cultures are all the more precious.
+The value of Hakka food culture is far more than the food itself. It is the carrier of the Hakka people's historical memory, the symbol of cultural identity, and the crystallization of traditional wisdom. In the era of globalization, these unique food cultures are even more precious.
 
-The "salty, fragrant, and richly flavored" character of Hakka cuisine reflects the resilient character of the Hakka people; the pickling culture embodies their life wisdom; and the ground tea culture showcases their social traditions. These culinary traditions have not only enriched Taiwan's gastronomic landscape but have also added an important dimension to Taiwan's multicultural identity.
+The "salty, fragrant, and rich" flavor of Hakka dishes reflects the tenacious character of the Hakka people; the pickling culture embodies the life wisdom of the Hakka people; the lei cha culture shows the social traditions of the Hakka people. These food cultures not only enrich the food map of Taiwan, but also add important colors to Taiwan's diverse culture.
 
-By tasting Hakka cuisine, we not only enjoy sensory satisfaction but also experience the cultural depth and life wisdom of an entire ethnic group. This is the most precious value of Hakka food culture.
+Through tasting Hakka food, we can not only enjoy the satisfaction of taste, but also feel the cultural heritage and life wisdom of an ethnic group. This is exactly the most precious value of Hakka food culture.
 
 ---
 
-## Further Reading
+## Extended Reading
 
-- [Taiwanese Fermented Foods and Pickle Culture](/en/food/taiwan-fermented-and-pickled-foods): The science and culture of Taiwanese preserved foods
-- [Tea Culture](/en/culture/golden-age-echoes-taiwan-tea-culture): The development of tea culture in Taiwan
-- [Taiwanese Street Food](/en/food/taiwanese-street-food): Taiwan's diverse street food culture
+- [Taiwan Fermented Foods and Pickling Culture](/en/food/taiwan-fermented-and-pickled-foods): The science and culture of Taiwan's pickled foods
+- [Tea Culture](/en/culture/golden-age-echoes-taiwan-tea-culture): The development context of Taiwan's tea culture
+- [Taiwan Snacks](/en/food/taiwanese-street-food): Taiwan's diverse snack culture
+
+## Image Source
+
+- Hero: Hakka lei cha experience at Minong Folk Village, photographed by WEI, WAN-CHEN, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E7%BE%8E%E6%BF%83%E6%B0%91%E4%BF%97%E6%9D%91%E5%AE%A2%E5%AE%B6%E6%93%82%E8%8C%B6%E9%AB%94%E9%A9%9780.jpg), CC BY-SA 4.0.
 
 ## References
 
-[^1]: National Cultural Memory Bank, "Ground Tea Culture Feature," https://tcmb.culture.tw/zh-tw/detail?id=334448
+[^1]: National Cultural Memory Database, "Lei Cha Culture Special Topic", https://tcmb.culture.tw/zh-tw/detail?id=334448
 
-[^2]: Wikipedia, "Ginger Lily Rice Dumplings" entry, https://zh.wikipedia.org/zh-tw/%E9%87%8E%E8%96%91%E8%8A%B1%E7%B2%BD
+[^2]: Wikipedia, "Wild Ginger Flower Dumplings" entry, https://zh.wikipedia.org/zh-tw/%E9%87%8E%E8%96%91%E8%8A%B1%E7%B2%BD
 
-[^3]: Hakka Affairs Council, _Survey and Research on Hakka Food Culture_ (2023), https://www.hakka.gov.tw/File/Attach/38788/File_72807.pdf
+[^3]: Hakka Affairs Commission, "Investigation and Research on Hakka Food Culture" (2023), https://www.hakka.gov.tw/File/Attach/38788/File_72807.pdf
 
-[^4]: Hsinchu County Bureau of Culture, "Love to Eat Meige — Hsinchu Area Hakka Food Culture Thematic Exhibition," https://www.hchcc.gov.tw/
+[^4]: Hsinchu County Government Cultural Affairs Bureau, "Love What You Eat — Hakka Food Culture Theme Exhibition in Hsinchu", https://www.hchcc.gov.tw/
 
-[^5]: Ministry of Agriculture, _Development of Taiwan's Preserved Food Industry_ (2025), https://www.moa.gov.tw/
+[^5]: Ministry of Agriculture, "Development of Taiwan's Pickled Food Industry" (2025), https://www.moa.gov.tw/
 
-[^6]: Hakka Affairs Council, "Hakka Culture Key Development Zone Promotion Program," https://www.hakka.gov.tw/Content/Content?NodeID=63&PageID=38317
+[^6]: Hakka Affairs Commission, "Key Development Area Promotion Plan for Hakka Culture", https://www.hakka.gov.tw/Content/Content?NodeID=63&PageID=38317
 
 ---
 
 **Taiwan.md Editorial Team** | Last updated: 2026-03-19
+
+```
+
+```
