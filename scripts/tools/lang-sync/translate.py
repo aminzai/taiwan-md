@@ -366,10 +366,16 @@ _URL_TOKEN_RE = re.compile(
     # CommonMark 保護含括號 URL 的 canonical 寫法。舊的 `[^)]+` 在第一個
     # `)` 截斷，token 還原後會造出 `[[Title](<](<URL>))`。
     r"(!?\[[^\]]*\]\()(<[^>\s]+>|[^)\s]+)(\))"            # markdown 連結／圖片的 target
-    r"|(https?://[^\s\)\]\"'>一-鿿，。；：、！？「」『』《》〈〉]+)"  # 裸 URL
-    # 排除 CJK Han range + 全形標點——裸 URL 緊貼中文（無空格）時避免把後面的
-    # 中文文字一起吞進 token（吞進去＝那段文字被藏在 opaque token 裡，最終還原
-    # 回來仍是 zh 原文，等於 armor 自己製造一個 cjk-leak）。
+    rf"|({_verify_mod.URL_PATTERN})"                       # 裸 URL
+    # 裸 URL 的邊界直接借 verify-translation 的 URL_PATTERN（第 11 檢查「URL
+    # count」那把尺），裝甲藏起來的跟閘門要數的是同一段字。2026-09-25 前這裡
+    # 自己一份 regex、把漢字排除在外（怕 URL 緊貼中文時把後面的散文吞進
+    # token），閘門那把尺卻把漢字算進網址：`https://kamatiam.org/棒球如何成為
+    # 國球從紅葉的故事說起/` 裝甲只藏到 `kamatiam.org/`，模型看見中文路徑就翻，
+    # 閘門判網址改寫——台灣棒球文化十二語、四種模型全部卡在同一條腳註。全庫
+    # 13 篇母稿有這種裸網址（維基條目、新聞標題路徑），沒有一處緊貼散文；真的
+    # 緊貼時兩把尺一致的結果是 cjk-leak 擋下，跟舊行為（網址閘擋下）同樣是擋，
+    # 不會放行壞譯文。全形標點仍在排除清單裡，`陳映真（出生地…）` 照舊切在括號前。
 )
 
 _ARTICLE_IMAGE_TARGET_RE = re.compile(
