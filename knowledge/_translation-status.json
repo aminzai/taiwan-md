@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-25T00:03:11+08:00",
-    "zhCommitHead": "0914d4bf0",
+    "lastUpdated": "2026-09-25T01:03:20+08:00",
+    "zhCommitHead": "840f500e8",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,90 +28,90 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 1009,
-        "stale": 62,
+        "fresh": 1010,
+        "stale": 63,
         "metadata_stale": 0,
-        "missing": 53,
+        "missing": 51,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1124,
-        "fresh": 1090,
-        "stale": 21,
+        "fresh": 1092,
+        "stale": 22,
         "metadata_stale": 0,
-        "missing": 13,
+        "missing": 10,
         "orphan": 0
       },
       "es": {
         "total_zh": 1124,
         "fresh": 1083,
-        "stale": 27,
+        "stale": 28,
         "metadata_stale": 0,
-        "missing": 14,
+        "missing": 13,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1124,
         "fresh": 1084,
-        "stale": 28,
+        "stale": 29,
         "metadata_stale": 0,
-        "missing": 12,
+        "missing": 11,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1124,
         "fresh": 1105,
-        "stale": 10,
+        "stale": 11,
         "metadata_stale": 0,
-        "missing": 9,
+        "missing": 8,
         "orphan": 0
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 1036,
-        "stale": 31,
+        "fresh": 1038,
+        "stale": 32,
         "metadata_stale": 0,
-        "missing": 57,
+        "missing": 54,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1078,
-        "stale": 16,
+        "fresh": 1080,
+        "stale": 17,
         "metadata_stale": 0,
-        "missing": 30,
+        "missing": 27,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1124,
         "fresh": 1034,
-        "stale": 18,
+        "stale": 19,
         "metadata_stale": 0,
-        "missing": 72,
+        "missing": 71,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1124,
         "fresh": 1056,
-        "stale": 19,
+        "stale": 20,
         "metadata_stale": 0,
-        "missing": 49,
+        "missing": 48,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1063,
-        "stale": 21,
+        "fresh": 1066,
+        "stale": 20,
         "metadata_stale": 1,
-        "missing": 39,
+        "missing": 37,
         "orphan": 0
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 991,
-        "stale": 2,
+        "fresh": 993,
+        "stale": 3,
         "metadata_stale": 0,
-        "missing": 131,
+        "missing": 128,
         "orphan": 0
       }
     },
@@ -19343,8 +19343,8 @@
           "sourceContentHash": "sha256:012f47b06c66bfb9",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T14:09:56.497429+00:00",
-          "translationLastCommit": "4a07538f",
-          "translationLastModified": "2026-07-25T10:29:52+08:00",
+          "translationLastCommit": "2bb75306",
+          "translationLastModified": "2026-09-25T00:03:11+08:00",
           "inferred": false,
           "footnoteDefs": 64,
           "bytes": 67211,
@@ -19385,7 +19385,20 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/taiwan-enterprise-uni-president.md",
+          "translatedFrom": "Economy/台灣企業：統一企業.md",
+          "sourceCommitSha": "05ed20149",
+          "sourceContentHash": "sha256:012f47b06c66bfb9",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T16:13:43.514855+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 64,
+          "bytes": 66604,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -60727,7 +60740,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/commonwealth-magazine.md",
+          "translatedFrom": "Society/天下雜誌.md",
+          "sourceCommitSha": "d317f1649",
+          "sourceContentHash": "sha256:d8c6b002cc3ec35d",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T16:03:22.988617+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 41,
+          "bytes": 52355,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -74071,7 +74097,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/taiwan-diplomatic-allies-and-international-relations.md",
+          "translatedFrom": "Society/台灣邦交國與國際外交.md",
+          "sourceCommitSha": "669a4c875",
+          "sourceContentHash": "sha256:4a54c99c213cd153",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T16:38:42.378765+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 42,
+          "bytes": 42727,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -98599,7 +98638,20 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/People/chien-chien-eating.md",
+          "translatedFrom": "People/千千進食中.md",
+          "sourceCommitSha": "513bf256a",
+          "sourceContentHash": "sha256:4bfc707dc97b4776",
+          "sourceBodyHash": "sha256:685bed7af9ee32a1",
+          "translatedAt": "2026-09-22T10:29:35+08:00",
+          "translationLastCommit": "3f9e184d",
+          "translationLastModified": "2026-09-25T00:50:15+08:00",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "bytes": 19177,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/chien-chien-eating.md",
@@ -99913,7 +99965,20 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/luo-dayou.md",
+          "translatedFrom": "People/羅大佑.md",
+          "sourceCommitSha": "ac1d187af",
+          "sourceContentHash": "sha256:2bd311f3a1309672",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T16:00:36.172686+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 30,
+          "bytes": 59668,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/People/luo-dayou.md",
@@ -142417,18 +142482,18 @@
         "ru": {
           "path": "ru/People/hung-hsing-fu.md",
           "translatedFrom": "People/洪醒夫.md",
-          "sourceCommitSha": "69b3afd91",
-          "sourceContentHash": "sha256:0eca334f2d6037af",
-          "sourceBodyHash": "",
-          "translatedAt": "2026-08-04T10:02:21.052728+00:00",
+          "sourceCommitSha": "e413aa732",
+          "sourceContentHash": "sha256:7a0754dc62002a77",
+          "sourceBodyHash": "sha256:f80ea3550618f493",
+          "translatedAt": "2026-09-24T22:04:30+08:00",
           "translationLastCommit": "cb57a18e",
           "translationLastModified": "2026-08-04T19:15:08+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 8163,
+          "footnoteDefs": 11,
+          "bytes": 46405,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (11→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/People/hung-hsing-fu.md",
@@ -150319,7 +150384,20 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Food/hsinchu-rice-noodles.md",
+          "translatedFrom": "Food/新竹米粉.md",
+          "sourceCommitSha": "1200bee75",
+          "sourceContentHash": "sha256:64f19c58057c504d",
+          "sourceBodyHash": "sha256:0c3fe6ee6329ecfa",
+          "translatedAt": "2026-09-24T22:04:26+08:00",
+          "translationLastCommit": "3f9e184d",
+          "translationLastModified": "2026-09-25T00:50:15+08:00",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "bytes": 16627,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Food/hsinchu-rice-noodles.md",
@@ -151576,7 +151654,20 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Food/taiwan-soy-sauce.md",
+          "translatedFrom": "Food/醬油.md",
+          "sourceCommitSha": "dab0de0c1",
+          "sourceContentHash": "sha256:a61d4f2f204a976e",
+          "sourceBodyHash": "sha256:1596d4035cbdfea6",
+          "translatedAt": "2026-09-24T22:04:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "bytes": 21776,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Food/taiwan-soy-sauce.md",
@@ -152007,12 +152098,12 @@
           "sourceCommitSha": "03b3aaae8",
           "sourceContentHash": "sha256:9939199675a5453a",
           "sourceBodyHash": "",
-          "translatedAt": "2026-09-22T09:01:38.570407+00:00",
+          "translatedAt": "2026-09-24T16:20:19.132967+00:00",
           "translationLastCommit": "dabd4fef",
           "translationLastModified": "2026-09-22T18:13:40+08:00",
           "inferred": false,
           "footnoteDefs": 37,
-          "bytes": 46380,
+          "bytes": 46415,
           "armorResidue": 0,
           "status": "stale",
           "reason": "sha-lost-hash-mismatch"
@@ -177524,7 +177615,20 @@
           "reason": "same-commit"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/History/kaohsiung-export-processing-zone.md",
+          "translatedFrom": "History/高雄加工出口區.md",
+          "sourceCommitSha": "ebfb9f7bc",
+          "sourceContentHash": "sha256:226ce57f62ea8e09",
+          "sourceBodyHash": "sha256:97a0f46568355878",
+          "translatedAt": "2026-09-23T22:11:48+08:00",
+          "translationLastCommit": "3f9e184d",
+          "translationLastModified": "2026-09-25T00:50:15+08:00",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "bytes": 20102,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "status": "missing"
@@ -177562,10 +177666,36 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/History/kaohsiung-export-processing-zone.md",
+          "translatedFrom": "History/高雄加工出口區.md",
+          "sourceCommitSha": "ebfb9f7bc",
+          "sourceContentHash": "sha256:226ce57f62ea8e09",
+          "sourceBodyHash": "sha256:97a0f46568355878",
+          "translatedAt": "2026-09-23T22:11:56+08:00",
+          "translationLastCommit": "3f9e184d",
+          "translationLastModified": "2026-09-25T00:50:15+08:00",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "bytes": 20891,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/History/kaohsiung-export-processing-zone.md",
+          "translatedFrom": "History/高雄加工出口區.md",
+          "sourceCommitSha": "ebfb9f7bc",
+          "sourceContentHash": "sha256:226ce57f62ea8e09",
+          "sourceBodyHash": "sha256:97a0f46568355878",
+          "translatedAt": "2026-09-23T22:11:58+08:00",
+          "translationLastCommit": "3f9e184d",
+          "translationLastModified": "2026-09-25T00:50:15+08:00",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "bytes": 21361,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/History/kaohsiung-export-processing-zone.md",
@@ -177587,7 +177717,20 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/History/kaohsiung-export-processing-zone.md",
+          "translatedFrom": "History/高雄加工出口區.md",
+          "sourceCommitSha": "ebfb9f7bc",
+          "sourceContentHash": "sha256:226ce57f62ea8e09",
+          "sourceBodyHash": "sha256:97a0f46568355878",
+          "translatedAt": "2026-09-22T04:48:31+08:00",
+          "translationLastCommit": "3f9e184d",
+          "translationLastModified": "2026-09-25T00:50:15+08:00",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "bytes": 35535,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/History/kaohsiung-export-processing-zone.md",
@@ -207555,10 +207698,10 @@
     },
     "Culture/東港迎王船.md": {
       "zh": {
-        "lastCommit": "daeb62e1",
-        "lastModified": "2026-08-18T18:49:56+08:00",
-        "contentHash": "sha256:33d193f87f3bd376",
-        "bodyHash": "sha256:0eb855cec6e26b55"
+        "lastCommit": "3f9e184d",
+        "lastModified": "2026-09-25T00:50:15+08:00",
+        "contentHash": "sha256:d56573864b826475",
+        "bodyHash": "sha256:1750eec6a44e0473"
       },
       "translations": {
         "en": {
@@ -214944,8 +215087,8 @@
           "sourceContentHash": "sha256:8649216212301e4d",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T15:34:30.462513+00:00",
-          "translationLastCommit": "fbdc4940",
-          "translationLastModified": "2026-07-29T01:33:17+08:00",
+          "translationLastCommit": "2bb75306",
+          "translationLastModified": "2026-09-25T00:03:11+08:00",
           "inferred": false,
           "footnoteDefs": 32,
           "bytes": 52687,
@@ -220490,37 +220633,167 @@
           "status": "missing"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Culture/golden-bell-awards.md",
+          "translatedFrom": "Culture/金鐘獎.md",
+          "sourceCommitSha": "ff39af227",
+          "sourceContentHash": "sha256:641571b11a5e3ea9",
+          "sourceBodyHash": "sha256:02baeff9cbce935a",
+          "translatedAt": "2026-09-25T00:53:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "bytes": 34020,
+          "armorResidue": 0,
+          "status": "stale",
+          "reason": "footnote-loss (59→0)"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Culture/golden-bell-awards.md",
+          "translatedFrom": "Culture/金鐘獎.md",
+          "sourceCommitSha": "ff39af227",
+          "sourceContentHash": "sha256:641571b11a5e3ea9",
+          "sourceBodyHash": "sha256:02baeff9cbce935a",
+          "translatedAt": "2026-09-25T00:53:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "bytes": 10786,
+          "armorResidue": 0,
+          "status": "stale",
+          "reason": "footnote-loss (59→0)"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Culture/golden-bell-awards.md",
+          "translatedFrom": "Culture/金鐘獎.md",
+          "sourceCommitSha": "ff39af227",
+          "sourceContentHash": "sha256:641571b11a5e3ea9",
+          "sourceBodyHash": "sha256:02baeff9cbce935a",
+          "translatedAt": "2026-09-25T00:53:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "bytes": 22519,
+          "armorResidue": 0,
+          "status": "stale",
+          "reason": "footnote-loss (59→0)"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Culture/golden-bell-awards.md",
+          "translatedFrom": "Culture/金鐘獎.md",
+          "sourceCommitSha": "ff39af227",
+          "sourceContentHash": "sha256:641571b11a5e3ea9",
+          "sourceBodyHash": "sha256:02baeff9cbce935a",
+          "translatedAt": "2026-09-25T00:53:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 45,
+          "bytes": 58821,
+          "armorResidue": 0,
+          "status": "stale",
+          "reason": "footnote-loss (59→45)"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Culture/golden-bell-awards.md",
+          "translatedFrom": "Culture/金鐘獎.md",
+          "sourceCommitSha": "ff39af227",
+          "sourceContentHash": "sha256:641571b11a5e3ea9",
+          "sourceBodyHash": "sha256:02baeff9cbce935a",
+          "translatedAt": "2026-09-25T00:53:03+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "bytes": 19073,
+          "armorResidue": 0,
+          "status": "stale",
+          "reason": "footnote-loss (59→0)"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Culture/golden-bell-awards.md",
+          "translatedFrom": "Culture/金鐘獎.md",
+          "sourceCommitSha": "ff39af227",
+          "sourceContentHash": "sha256:641571b11a5e3ea9",
+          "sourceBodyHash": "sha256:02baeff9cbce935a",
+          "translatedAt": "2026-09-25T00:53:04+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "bytes": 32865,
+          "armorResidue": 0,
+          "status": "stale",
+          "reason": "footnote-loss (59→0)"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Culture/golden-bell-awards.md",
+          "translatedFrom": "Culture/金鐘獎.md",
+          "sourceCommitSha": "ff39af227",
+          "sourceContentHash": "sha256:641571b11a5e3ea9",
+          "sourceBodyHash": "sha256:02baeff9cbce935a",
+          "translatedAt": "2026-09-25T00:53:04+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "bytes": 15265,
+          "armorResidue": 0,
+          "status": "stale",
+          "reason": "footnote-loss (59→0)"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Culture/golden-bell-awards.md",
+          "translatedFrom": "Culture/金鐘獎.md",
+          "sourceCommitSha": "ff39af227",
+          "sourceContentHash": "sha256:641571b11a5e3ea9",
+          "sourceBodyHash": "sha256:02baeff9cbce935a",
+          "translatedAt": "2026-09-25T00:53:04+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "bytes": 46232,
+          "armorResidue": 0,
+          "status": "stale",
+          "reason": "footnote-loss (59→0)"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Culture/golden-bell-awards.md",
+          "translatedFrom": "Culture/金鐘獎.md",
+          "sourceCommitSha": "ff39af227",
+          "sourceContentHash": "sha256:641571b11a5e3ea9",
+          "sourceBodyHash": "sha256:02baeff9cbce935a",
+          "translatedAt": "2026-09-25T00:53:04+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "bytes": 21552,
+          "armorResidue": 0,
+          "status": "stale",
+          "reason": "footnote-loss (59→0)"
         },
         "ru": {
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/golden-bell-awards.md",
+          "translatedFrom": "Culture/金鐘獎.md",
+          "sourceCommitSha": "ff39af227",
+          "sourceContentHash": "sha256:641571b11a5e3ea9",
+          "sourceBodyHash": "sha256:02baeff9cbce935a",
+          "translatedAt": "2026-09-25T00:53:04+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "bytes": 22201,
+          "armorResidue": 0,
+          "status": "stale",
+          "reason": "footnote-loss (59→0)"
         }
       }
     },
