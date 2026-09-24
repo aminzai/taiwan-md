@@ -1,402 +1,452 @@
 ---
-title: '2026 Nine-in-One Elections: Stress Testing Democratic Infrastructure in the Age of AI Cognitive Warfare'
-description: "On November 28, 2026, all 22 cities and counties across Taiwan will simultaneously open polling stations to elect nine categories of office, filling over 11,000 elected executive and representative positions. This election is unlike any before — the difference is not the candidates, but the environment in which it takes place: the CCP's escalation of state-level AI cognitive warfare, 123+ spoofed news websites, and prosecutors listing AI disinformation as one of four key election investigation priorities. This is not an election information roundup — it is a historical positioning and structural pressure analysis of this election."
+title: '2026 Nine-in-One Elections: Stress Testing Democratic Infrastructure in the Era of AI Cognitive Warfare'
+description: "On November 28, 2026, all 22 counties and municipalities across Taiwan will hold elections for nine positions simultaneously, electing over 11,000 local executives and representatives. This election is unlike any before it—the difference is not in the candidates, but in the environment in which it occurs: the CCP's upgraded national AI cognitive warfare, 123+ fake news websites, and prosecutors including AI disinformation as one of their four key focuses. This article is not an election information summary, but an analysis of the historical positioning and structural pressures of this election."
 date: 2026-05-27
-author: 'Taiwan.md'
 category: 'Politics'
-subcategory: '2026 選舉專題'
-datasets:
-  - id: '27491'
-    name: 'Number of Eligible Voters'
-    url: 'https://data.gov.tw/dataset/27491'
-    agency: 'Central Election Commission'
-    update_freq: 'Every 4 years'
-    why: 'Population data for the 11,000 seats cited in the article, with historical totals across past elections'
-    verified: 2026-06-10
-  - id: '15035'
-    name: 'District Prosecutors Office Final Judgments on Public Officials Election and Recall Act Violations'
-    url: 'https://data.gov.tw/dataset/15035'
-    agency: 'Department of Statistics, MOJ'
-    update_freq: 'Monthly'
-    why: "Historical judgment results for vote-buying and foreign interference, the two traditional fronts among the four key investigation priorities — quantitative view of prosecutors' enforcement intensity"
-    verified: 2026-06-10
 tags:
   [
-    '2026選舉',
-    '九合一',
-    '地方公職人員',
-    '直轄市長',
-    '縣市長',
-    '認知作戰',
-    'AI假訊息',
+    '2026 elections',
+    'Nine-in-One',
+    'local public officials',
+    'metropolitan mayors',
+    'county mayors',
+    'cognitive warfare',
+    'AI fake news',
   ]
-readingTime: 18
+subcategory: '2026 選舉專題'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-07-10
 lastHumanReview: false
-featured: true
+readingTime: 18
+updateLog:
+  - date: '2026-07-10'
+    changes: '選前四個半月全文事實刷新：時程表對齊中選會第 622 次委員會議決議（登記 8/31-9/4、補 11/12・11/17 與 12/4 節點、投票時間改以公告為準）、直轄市長屆次更正（第 9 屆）、韓國瑜罷免年份更正（2020）、民調禁令更正為投票日前十日；§三 補查察建制化（最高檢執行小組、北檢深偽中心、Polymarket 首宗偵結）與 6-7 月實際攻擊型態（假快訊洗版、假帳號養號、淺層偽造）；§四 藍白機制三場整合民調運轉結果；§九 重寫為「已發生/將發生」，補公投綁大選回歸、原住民移轉投票、選罷法第 26 條三個制度新變數；+15 新腳註'
+datasets:
+  - id: '27491'
+    name: '選舉人數'
+    url: 'https://data.gov.tw/dataset/27491'
+    agency: '中央選舉委員會'
+    update_freq: '每4年'
+    why: '文中 1.1 萬個席次由多少選舉人選出，歷屆母體統計'
+    verified: 2026-06-10
+  - id: '15035'
+    name: '地方檢察署執行違反公職人員選舉罷免法案件裁判確定人數(統計)'
+    url: 'https://data.gov.tw/dataset/15035'
+    agency: '法務部統計處'
+    update_freq: '每1月'
+    why: '查察四大重點中賄選與介選兩項的歷年裁判結果，檢方查察強度量化面'
+    verified: 2026-06-10
+relatedDiary: ['2026-07-10-224934-elections-refresh']
 translatedFrom: 'Politics/2026 九合一選舉.md'
-sourceCommitSha: '7678a430'
-sourceContentHash: 'sha256:f2f73e655df4bef5'
-sourceBodyHash: 'sha256:b17fcd6aed7e9299'
-translatedAt: '2026-06-10T16:43:34Z'
+sourceCommitSha: '2cbb7955c'
+sourceContentHash: 'sha256:98482d1a94d7ac85'
+translatedAt: '2026-09-24T04:03:02.673199+00:00'
 ---
 
-On November 28, 2026, at 8:00 AM sharp on a Saturday.
+**30-Second Overview:** On November 28, 2026, nine types of positions across Taiwan held simultaneous elections on the same day, totaling about 11,000 seats—the ninth municipal mayor election since 1994. In 22 cities and counties, 13 are set for leadership changes. What makes this different from previous cycles is the environment: industrialized Chinese Communist Party (CCP) AI cognitive warfare, prosecutors and investigators operating six months in advance, and the potential re-linking of referendums with general elections. This article serves as a comprehensive chapter on the 2026 election—its historical positioning, structural pressures, and new institutional variables—written for those who will read it five years from now to understand why this year is a critical node in Taiwan's democracy.
 
-From Heping Island in Keelung to Eluanbi in Pingtung, from Jincheng in Kinmen to Orchid Island in Taitung, all 22 special municipalities and counties (cities) across Taiwan will open their polling stations in the same hour. From special municipality mayors to village (里) chiefs, from councilors to indigenous district representatives, **nine categories of office will be voted on in a single day**[^1], affecting a total of over **11,000 elected executive and representative positions**[^2]. This is the literal meaning of "nine-in-one" — nine types of elections held on the same day.
+The date is Saturday morning at eight o'clock, November 28, 2026[^25].
 
-Once every four years, this ritual repeats. The first direct election of special municipality mayors in 1994, the first nine-in-one after the five-municipality upgrade in 2010, the pattern set after Taoyuan's upgrade in 2014, the election administration collapse when referendums were bundled with elections in 2018, and the post-pandemic election amid ruling-opposition confrontation in 2022. Each one has been a routine checkup on Taiwan's democracy.
+From Keelung and Penghu to Kinmen and Taitung, the polling places across all 22 municipalities and counties opened simultaneously on the same hour. From municipal mayors down to village chiefs, from councilors to indigenous representatives, **nine positions were elected on the same day**[^1], affecting over **11,000 elected officials and representatives**[^2]. This is the literal meaning of "Nine-in-One"—nine types of elections held on a single day.
 
-But the 2026 edition is unlike any before it.
+This ritual repeats every four years. The first municipal mayor election in 1994; the first Nine-in-One after the five cities were upgraded in 2010; the pattern solidified after Taoyuan's upgrade in 2014; the electoral crisis caused by linking referendums with general elections in 2018; and the post-pandemic election amid cross-party antagonism in 2022. Each one is a routine health check for Taiwanese democracy.
 
-The difference is not the candidates — candidates coming and going is the normal state of democracy. The difference is the environment in which this election takes place.
+But this 2026 cycle is unlike any previous one.
 
-A report released by OpenAI in February 2026 revealed that the CCP has established a state-level AI cognitive warfare system[^3]. Citizen Lab disclosed in the same year that 123+ spoofed news websites are spreading disinformation in multiple languages[^4]. Taiwan's Ministry of Justice has listed AI disinformation as one of four key priorities for 2026 election investigations (vote-buying, gambling operations, AI disinformation, and foreign interference)[^5]. Japan's _Yomiuri Shimbun_ reported that the Xi Jinping regime is targeting the 2028 election to prevent Lai Ching-te's reelection, treating the 2026 local elections as a "preliminary battle"[^6].
+The difference is not the candidates—candidates are, after all, a constant feature of democracy. The difference lies in the environment surrounding this election.
 
-Whether Taiwan's democratic infrastructure can withstand this stress test will not be determined on election day alone. The answer is being built, inch by inch, right now — 18 months before the election — in every institution, every civic tool, every fact-checking organization, and every citizen willing to spend a weekend at a polling station.
+A report released by OpenAI in February 2026 revealed that the CCP had established a national-level AI cognitive warfare system[^3]. Citizen Lab disclosed in the same year that over 123 fake news websites were spreading disinformation across multiple languages[^4]. Prosecutors have listed disinformation as one of the four key focus areas for the 2026 elections (bribery and violence, gambling, fake news, and foreign interference), with investigative task forces operating six months before the vote[^5]. _The Yomiuri Shimbun_ in Japan revealed that the Xi Jinping regime is targeting 2028 to prevent Lai Ching-te's re-election, viewing the 2026 local elections as a "precursor battle"[^6].
 
-This article is the "general chapter" of the 2026 elections. It is not an election information roundup (that is the job of the [/elections/2026/](/elections/2026/) dynamic page); it is the curatorial narrative, historical positioning, and structural pressure analysis of this election. Written for someone reading five years from now, to understand why 2026 was a critical node for Taiwan's democracy.
+Whether Taiwan's democratic infrastructure can withstand this stress test will only be revealed on election day. The answer has been accumulated month by month before the election—by every institution, every civic tool, every fact-checking organization, and every citizen willing to spend a weekend at a polling place.
 
----
+This is the "comprehensive chapter" of the 2026 elections. It is not an aggregation of election information (that is the job of the dynamic page [/elections/2026/](/elections/2026/)), but rather a curated narrative, an analysis of historical positioning and structural pressures for this election. It is written for those who will read it five years from now to understand why 2026 is a critical node in Taiwanese democracy.
 
-## I. Basic Election Information: Timeline and Scale
+## I. Election Basics: Timeline and Scale
 
-The Central Election Commission's announced statutory timeline for the 2026 local official elections is as follows[^7]:
+The statutory timeline, as resolved in the 622nd meeting of the Central Election Commission on October 31, 2025[^7], is as follows:
 
-| Date             | Procedure                               |
-| ---------------- | --------------------------------------- |
-| 2026/08/20       | Official announcement (election launch) |
-| 2026/08/29–09/04 | Candidate registration                  |
-| 2026/10/16       | Candidate qualification review          |
-| 2026/10/23       | Candidate number lottery                |
-| 2026/11/28 (Sat) | Election day (08:00–16:00)              |
+| Date               | Procedure                                                         |
+| :----------------- | :---------------------------------------------------------------- |
+| 2026/08/20         | Publication of election announcement (Election officially starts) |
+| 2026/08/31-09/04   | Candidate registration                                            |
+| Before 2026/10/16  | Review and finalization of candidate lists                        |
+| 2026/10/23         | Drawing of candidate numbers                                      |
+| 2026/11/12 & 11/17 | Announcement of candidate lists (Metropolitan Mayors first)       |
+| 2026/11/28 (Sat)   | Election Day (Voting hours follow the election announcement)      |
+| 2026/12/04         | Announcement of elected officials' lists                          |
 
-Scale of the nine categories of office[^1][^8]:
+The start and end times for voting will be stated in the August 20th election announcement; the customary practice from past local elections is from 8:00 AM to 4:00 PM[^25].
 
-| Office                                              | Seats       |
-| --------------------------------------------------- | ----------- |
-| Special municipality mayors                         | 6           |
-| Special municipality councilors                     | 380         |
-| County (city) mayors                                | 16          |
-| County (city) councilors                            | 532         |
-| Township (city) mayors                              | 198         |
-| Township (city) representatives                     | 2,148       |
-| Mountain indigenous district mayors (special muni.) | 6           |
-| Mountain indigenous district representatives        | 50          |
-| Village (里) chiefs                                 | 7,748       |
-| **Total**                                           | **~11,084** |
+An estimated scale across nine positions (based on the 11,023 seats contested in 2022, with official numbers subject to the election announcement)[^1][^8]:
 
-A single ballot is not enough — each voter will receive multiple ballots at the polling station corresponding to their district eligibility, from special municipality mayor to village chief, each in a different color. For voters in mountain indigenous districts such as Fuxin in Taoyuan, Wulai in New Taipei, and Namasia in Kaohsiung, they will additionally receive ballots for district mayor and district representatives. This is the literal complexity of "nine-in-one."
+| Position                                     | Number of Seats    |
+| :------------------------------------------- | :----------------- |
+| Metropolitan Mayor                           | 6                  |
+| Metropolitan Councilors                      | 380                |
+| County/City Mayor                            | 16                 |
+| County/City Councilors                       | 532                |
+| Township/Town/City Chief                     | 198                |
+| Township/Town/City Representatives           | 2,148              |
+| Metropolitan Indigenous Area Chiefs          | 6                  |
+| Metropolitan Indigenous Area Representatives | 50                 |
+| Village (Li) Chiefs                          | 7,748              |
+| **Total**                                    | **Approx. 11,084** |
 
-For election administration, this is a quadrennial logistics nightmare: ballot printing, polling station setup, vote-counting staff training, and live broadcast of tally calls — every step must be completed within a single working day. Taiwan's election system has long been described by international observers as "one of the fastest vote-counting democracies in the world," and the reason is not technology but institutions: hand-written ballots, manual counting, simultaneous live broadcast of tally calls, on-site party poll watchers, and the standard operating procedure of "one person, one ballot, one action" for election staff[^9].
+One ballot paper is not enough—each voter receives multiple ballots corresponding to their district qualifications, with different colors for each race, from the Metropolitan Mayor down to the village chief. Voters in indigenous areas such as Fuxing, Wulai (New Taipei), and Namaxia (Kaohsiung) also receive ballots for area chiefs and representatives. This is the complexity of "Nine-in-One" in a literal sense.
 
-See also: 九合一選舉是什麼 (What Are the Nine-in-One Elections) · 選舉公報 (Election Gazette) · 中選會制度 (Central Election Commission System)
+For election authorities, this is a logistical nightmare that occurs every four years: ballot printing, polling station setup, poll worker training, and vote counting broadcast—each stage must be completed on the same working day. Taiwan's electoral system has long been described by international observers as "one of the world's fastest counting democracies," not because of technology, but because of its system: handwritten ballots, manual counting, simultaneous live broadcasting of vote tallies, presence of party monitors, and a standard operating procedure where election staff follow a "one person, one vote, one action" protocol[^9].
 
----
+See in detail: [What is the Nine-in-One Election?](/en/politics/nine-in-one-elections-explained/) · [Election Gazette](/en/politics/election-bulletin-system/) · [CEC System](/en/politics/central-election-commission/)
 
-## II. Historical Positioning: Finding This Election's Place on a Thirty-Year Coordinate
+## II. Historical Positioning: Locating This Election on a Thirty-Year Timeline
 
-To understand why 2026 matters, one must first understand its position on the coordinate of Taiwan's electoral history.
+To understand why 2026 is important, one must first grasp its position within the history of Taiwanese elections.
 
-**The 11th special municipality mayor election since the first direct elections in Taipei and Kaohsiung in 1994.** The third constitutional amendment in 1994 passed the _Provincial and County Self-Government Act_ and the _Special Municipality Self-Government Act_, changing the mayors of Taipei and Kaohsiung from appointed to elected, reconnecting a democratic path that had been severed for 27 years. From 1994 to 2026, a full 32 years and 11 rounds of special municipality mayor elections — this system has been operating continuously for more than a generation[^10].
+**The 9th Municipal Mayor Election since the 1994 North/South Metropolitan Cities.** The third constitutional amendment in 1994 passed the Local Autonomy Act and the Metropolitan City Autonomy Act, changing the mayors of Taipei and Kaohsiung from appointed officials to popularly elected ones—thus reconnecting a democratic path that had been severed for 27 years. From 1994 to 2026, there have been 9 consecutive re-elections of municipal mayors, meaning this system has operated for over one generation[^10]. The county (city) mayors elected on the same day are the 20th set since local autonomy was implemented in 1950.
 
-**The 4th nine-in-one since the five-municipality upgrade in 2010.** In 2010, Taipei County was upgraded to New Taipei City, Taichung County and City merged into a special municipality, Tainan County and City merged into a special municipality, Kaohsiung County and City merged into a special municipality, along with the original Taipei and Kaohsiung, forming the "five municipalities." In 2014, Taoyuan was upgraded, creating today's "six municipalities" structure. The term "nine-in-one" only came into widespread use in 2014 — before that, local elections were held on separate dates. Consolidating all local offices into a single day was itself a product of the major electoral system overhaul in 2010.
+**The 4th "Nine Cities Integration" after the 2010 Metropolitan Area Upgrade.** In 2010, Taipei County upgraded to New Taipei City, Taichung County and City merged into a metropolitan city, Tainan County and City merged into a metropolitan city, and Kaohsiung County and City merged into a metropolitan city. These joined Taipei City and Kaohsiung City to form the "Five Cities." In 2014, Taoyuan upgraded to become today's "Six Cities" structure. The term "Nine Cities Integration" was only officially used widely in 2014—before that, local elections were held separately. Consolidating all local public offices into one day was a result of the major systemic reorganization during the 2010 election.
 
-**The first midterm test after the 2024 general election.** In January 2024, the presidential and legislative elections were held on the same day. The DPP retained the presidency but lost its Legislative Yuan majority, and the legislature entered a "ruling minority, opposition majority" configuration. From that moment, 2026 was viewed by all sides as a midterm vote of confidence in the ruling party. Whether central government governance, Legislative Yuan conflicts, and executive-legislative tensions would be reflected in voters' choices of local executives and councilors — this is the classic question of midterm elections.
+**The First Midterm Test After the 2024 General Election.** The presidential and legislative elections were held on the same day in January 2024. While the Democratic Progressive Party retained the presidency, it lost a majority of seats in the legislature, resulting in a "small executive, large opposition" dynamic in the Legislative Yuan. From that moment on, 2026 has been viewed by various parties as a midterm referendum on the ruling party. Whether the central government's policies, the conflicts within the Legislative Yuan, or the tug-of-war between the executive and legislative branches will be reflected in voters' choices for local executives and council members—this is the classic premise of a midterm election.
 
-**The preliminary battle for the 2028 general election.** Japan's _Yomiuri Shimbun_ reported that the CCP views the 2026 local elections as a "preliminary battle" to prevent Lai Ching-te's reelection[^6]. Regardless of whether this framing aligns with how Taiwan's voters themselves interpret the election, external actors have already treated 2026 as a rehearsal for 2028. Whether this external narrative will in turn affect the issue framing of the 2026 campaign itself is a question worth tracking.
+**A Precursor Battle to the 2028 General Election.** The _Yomiuri Shimbun_ revealed that the PRC views the 2026 local elections as a "precursor battle" to prevent Lai Ching-te from being reelected[^6]. Regardless of whether this framing aligns with how Taiwanese voters interpret it, external forces have treated 2026 as a dress rehearsal for 2028. Whether this external narrative will in turn influence the agenda setting of the 2026 campaign is a question worth tracking.
 
-**The continuation after the 2025 Great Recall.** In 2025, citizen groups launched the largest recall campaign in history, with 1.3 million signatures[^11]. The political energy, civic organizational capacity, street mobilization experience, and how this movement carries over or transforms in 2026 is another line of observation. The recall itself targeted individual legislators, but the accumulated civic awareness will diffuse into voting behavior in local elections.
+**A Continuation After the 2025 Recall.** In 2025, civil society groups launched the largest recall movement in history, with 1.3 million signatures[^11]. How the political energy, civic organizational capacity, and street mobilization experience from this movement will continue or transform in 2026 is another line of observation. While recalls target individual legislators, the accumulated civic consciousness tends to spread to voting behavior in local elections.
 
-None of these five historical coordinates have reached their conclusion. 2026 is not the endpoint of these stories — it is their next node.
+Each of these five historical coordinates remains unfinished. 2026 is not the end point of these stories; it is their next node.
 
-For detailed historical context, see: [Taiwan Democratization](/en/history/taiwan-democratization/) · [Taiwan's Democratic Transition](/en/history/taiwan-democratization/) · [The Great Recall Movement (2024–2025)](/en/history/great-recall-movement-2024/) · [Taiwan Elections and Party Politics](/en/history/taiwan-elections-and-party-politics/)
+For a detailed historical context, see: [Democratization](/en/history/taiwan-democratization-history/) · [Taiwan Democratic Transition](/en/history/taiwan-democratization/) · [Major Recall](/en/history/great-recall-movement-2024/) · [Taiwan Elections and Party Politics](/en/history/taiwan-elections-and-party-politics/)
 
----
+## III. Why This Election is Different from the Past: Three Layers of External Pressure
 
-## III. Why This Election Is Different: Three Layers of External Pressure
+Taiwanese elections over the past three decades have always been shadowed by external interference—the 1996 Taiwan Strait missile crisis, the "Shanghai Central Radio" in 2000, and the alleged botnet operations behind the Han Kuo-yu phenomenon in 2018. However, the external pressures faced in 2026 are of a different magnitude because advancements in AI technology have drastically lowered the cost, increased the scale, and heightened the difficulty of tracking cognitive warfare[^3].
 
-External interference has shadowed Taiwan's elections for the past thirty years — the 1996 Taiwan Strait missile crisis, the 2000 "Shanghai Central Radio" broadcasts, the alleged cyber-army operations behind the Han Kuo-yu phenomenon in 2018. But the external pressure facing 2026 is of a different order, primarily because advances in AI technology have caused the cost of cognitive warfare to plummet, its scale to surge, and the difficulty of tracking it to spike.
+### (1) AI Cognitive Warfare: From Manual Botnets to Industrialization
 
-### (1) AI Cognitive Warfare: From Manual Cyber Armies to Industrialization
+A report released by OpenAI in February 2026 revealed[^3] that the PRC has established a national-level AI cognitive warfare system. This system reportedly involves over 300 "cyber special forces" operators, thousands of fake accounts, and more than 100 tactics within at least one province, targeting Taiwan as a primary objective. What makes this report unique is that it is not an accusation from Taiwan; rather, it is systemic behavior identified by OpenAI while tracking API misuse across multiple actors.
 
-A report released by OpenAI in February 2026 revealed[^3] that the CCP has established a state-level AI cognitive warfare system, with at least 300+ "cyber special operations" operators in a single province, thousands of fake accounts, and over 100 tactics, listing Taiwan as one of the primary targets. What makes this report distinctive is that it is not an accusation from Taiwan itself — it is OpenAI identifying systematic behavior across multiple actors while tracking abuse patterns of its own API.
+Concurrently, the Taiwan Democracy Lab DoubleThink Lab published an analysis of internal documents from "China Science and Technology" (a reference to Chinese military think tanks)[^12], revealing how Chinese military think tanks are integrating large language models into influence operations frameworks. Nine key points identified include automated narrative generation, cross-platform distribution, precise customization targeting local issues, injecting misinformation into local forums and social media, using AI translation to reach non-Chinese speakers, and generating fake videos via voice synthesis.
 
-DoubleThink Lab in Taiwan simultaneously released an analysis of internal documents from "Zhongke Tianji"[^12], revealing how Chinese military think tanks incorporate large language models into influence operation frameworks. Nine key points include: automated narrative generation, cross-platform distribution, precision customization targeting local issues, inserting disinformation into local forums and communities, using AI translation to reach non-Chinese-speaking audiences, and using voice synthesis to produce fake videos.
+Once this infrastructure is mature, every mayoral election in a municipality, every county (city) mayor candidate, and every local council member could become the target of individualized attacks. **Past botnets targeted "Taiwan as a whole"; future AI cognitive warfare targets are "specific districts, specific candidates, and specific issues" with precision.**
 
-Once this infrastructure matures, every special municipality mayor election, every county (city) mayor candidate, every local councilor could become the target of individually customized attacks. **Past cyber armies targeted "Taiwan as a whole"**; future AI cognitive warfare targets **"specific districts, specific candidates, specific issues" with precision**.
+This is not science fiction—it is the real attack surface of the 2026 election.
 
-This is not science fiction — it is the real attack surface of the 2026 election.
+### (2) Fake News Websites: The Industrial Replication of False Media
 
-### (2) Spoofed News Websites: Industrialized Replication of Fake Media
+A 2026 investigation by Citizen Lab uncovered over 123 fake news websites, spanning multiple languages, platforms, and topics[^4]. The design logic of these sites was as follows: copying the layouts of real news organizations, randomly assembling mixed true and false content, using SEO optimization for search engine indexing, and promoting through social media fake accounts—creating the illusion that "this report comes from multiple independent sources."
 
-A 2026 investigation by Citizen Lab revealed 123+ spoofed news websites spanning multiple languages, platforms, and topics[^4]. The design logic of these websites: copy the layout of real news sites, randomly mix true and false content, optimize for SEO so search engines index them, and use fake social media accounts to amplify — creating the illusion that "this report comes from multiple independent sources."
+Some fake websites specifically targeted Taiwanese election narratives, mimicking the layouts of local Taiwanese media and publishing seemingly localized political commentary written in Traditional Chinese but meticulously designed. For the average voter, the digital literacy required to distinguish "real Taiwanese media" from "a fake website imitating Taiwanese media" is a magnitude higher than before.
 
-Some spoofed websites specifically target Taiwan election narratives — mimicking the layout of Taiwan's domestic media, using Traditional Chinese, and publishing political commentary that appears to be from a local perspective but is in fact carefully designed. For the average voter, distinguishing "this is a real Taiwan media outlet" from "this is a spoofed website imitating Taiwan media" requires a level of digital literacy an order of magnitude higher than before.
+### (3) Institutionalized Scrutiny: From Declaration to Operational Deployment
 
-### (3) Ministry of Justice's Four Key Investigation Priorities: Listing AI Disinformation as a Formal Election Crime Category
+The prosecutorial system identified four key areas of focus for the 2026 election[^5]:
 
-The Ministry of Justice has defined four categories of election investigation priorities for 2026[^5]:
+1. **Bribery and Violence**—Traditional issues of money-for-votes and electoral violence
+2. **Election Gambling**—Manipulating public opinion through betting
+3. **Disinformation**—Deepfakes, generative text, and customized attacks
+4. **Foreign Interference**—Cross-border coordinated operations, foreign funding, and overseas botnets
 
-1. **Vote-buying** — traditional cash-for-votes
-2. **Gambling operations** — manipulating public opinion through betting
-3. **AI disinformation** — deepfake audio/video, generative text, customized attacks
-4. **Foreign interference** — cross-border coordinated operations, external funding, overseas cyber armies
+Listing AI-generated disinformation as a distinct focus area is unprecedented in the history of Taiwanese election scrutiny; previously, such content was scattered within vaguer legal articles like "false statements" or "spreading rumors." After May 2026, this declaration became an operational reality: on May 25, the Supreme Prosecutors Office established the "Task Force to Investigate Election Interference," and local prosecutors' offices nationwide were simultaneously set up. The reward for reporting foreign interference was set at up to twenty million NTD[^5]; on June 5, the Taipei District Prosecutors Office established the "National Center for Handling Major Deepfake Disinformation," creating a forensic and tracing window with the Investigation Bureau and Criminal Investigation Division[^26].
 
-The third category, "AI disinformation," is the **first time** in Taiwan's election investigation history that this category has been independently listed as a key investigation priority — in the past, AI disinformation was scattered across vaguer legal provisions such as "false statements" or "spreading rumors," and was not treated as an independent investigation category. This adjustment itself is an institutional response to external pressure — the Ministry of Justice acknowledging that traditional tools are insufficient and that dedicated investigation units are needed.
+The first case investigated was not a deepfake but gambling—in June, the Taoyuan District Prosecutors Office investigated the first case of foreign cryptocurrency election gambling: four individuals confessed to betting on "Taiwanese local elections in 2026" using stablecoins on the overseas prediction platform Polymarket and were granted suspended sentences[^27]. By the end of June, the Taipei District Prosecutors Office had already accepted 37 cases related to electoral interference information[^28]. The scrutiny apparatus began operating six months before Election Day, which itself is evidence that 2026 is different from past elections.
 
-See also: 政治獻金透明度 (Political Donation Transparency) · Cognitive warfare-related reporting
+### (4) What Real Attacks Look Like: Currently, Account Farming and Page Washing, Not Deepfakes
 
----
+As of July 2026, no deepfake video targeting candidates has been verified[^29]. The actual attack patterns observed are far cheaper than deepfakes:
 
-## IV. Internal Structural Issues: Ruling Minority, Blue-White Cooperation, Third Forces
+On June 15, three waves of content—such as "National Alert Suddenly Sounds" or "Kaohsiung City Emergency Announcement"—were mass-posted on Facebook. This involved 383 posts and 163 unique fan pages, with a peak density of 34 posts in five minutes. Cybersecurity researchers attributed this operation to content farm groups from Hebei, China, assessing it as preparatory cognitive warfare for the 2026 local elections[^29]. In the same month, the media trust rating organization NewsGuard uncovered that a Chinese network had created 294 fake dating accounts on Threads starting in May, posing as Asian women looking to meet Taiwanese men. The naming patterns of 40% of these accounts were similar to those used in the February 2026 attack against the DPP, suggesting account farming in preparation for political messaging[^30].
 
-Beyond external pressure, the 2026 election is layered on top of structural tensions already present in Taiwan's representative democracy.
+These operations share a common characteristic: they use mass-produced "shallow fakes" (fake school closures, fabricated disaster announcements, fake dating accounts) instead of high-cost deepfakes. For fact-checking organizations, this is harder to track than deepfakes—the damage from each individual piece is too small to warrant separate debunking, but the cumulative volume slowly erodes the trust in "official announcements." Another line worth watching: rumors about "insufficient votes" or "130% voter turnout" during the June 2026 local elections in South Korea have been transplanted and circulated on Taiwanese social platforms, showing a cross-border replication of the narrative that "elections are unreliable"[^31].
 
-### Continuation of the Ruling Minority Configuration
+See more at: [Political Donation Transparency](/en/politics/political-donation-transparency/) · [Election Process](/en/politics/taiwan-election-process/)
 
-After the 2024 Legislative Yuan elections, the DPP lost its majority, the KMT became the largest party but without a majority, and the TPP became the pivotal minority. Since the Legislative Yuan convened in February 2024, it has been in a state of high confrontation — parliamentary reform bills, budget reviews, personnel confirmation votes, and constitutional interpretation proceedings have seen repeated battles between ruling and opposition camps.
+## IV. Internal Structural Issues: Dominance of the Major Parties, Blue-White Cooperation, and Third Forces
 
-Will this ruling-minority configuration persist in the 2026 local elections? Will local voters use local ballots to express their attitude toward central political confrontation? Or will local elections return to local issues, decoupling from central political confrontation? This is the most worth-tracking interpretive battlefield after the 2026 results come in.
+Beyond external pressures, the 2026 elections are layered upon pre-existing structural tensions within Taiwan's representative democracy.
 
-### Blue-White Cooperation Agreement
+### Continuation of Major Party Dominance
 
-On March 18, 2026, two opposition parties passed a joint governance agreement, the contents of which include negotiated division of labor in certain counties and cities — public reporting mentions coordination mechanisms for New Taipei City, Chiayi City, and Yilan County[^13]. This agreement is a rare pre-election formalized institutional cooperation framework in Taiwan's multi-party competition history.
+After the 2024 Legislative Yuan by-elections resulted in the Pan-Green Party losing a majority, the Kuomintang became the largest party in the legislature but not a majority, while the Taiwan People's Party emerged as a key minority. Since the Legislative Yuan convened in February 2024, it has remained in a state of high confrontation—every item, from legislative reform bills and budget reviews to personnel consent and constitutional review procedures, is repeatedly contested between the major parties.
 
-Past multi-party cooperation mostly appeared under informal labels such as "opposition integration" or "party negotiations," and often collapsed before the election due to individual candidate preferences. Writing the cooperation mechanism into an inter-party agreement document — regardless of its ultimate effectiveness — is a new institutional-level attempt. Whether the results of this attempt will become a template for future multi-party competition can only be assessed after the election results and their subsequent effects.
+Will this pattern of dominance persist in the 2026 local elections? Will local voters express their attitude toward central political opposition through local ballots? Or will the local elections revert to local issues, decoupling from central political conflict? This interpretive battleground is the most noteworthy area to track after the 2026 results.
 
-### Civic Momentum After the 2025 Great Recall
+### The Blue-White Cooperation Agreement: One Round of Mechanism Operation Complete
 
-The energy of 1.3 million signatures will not disappear the day the recall ends. Petition station experience, street mobilization networks, cross-organizational collaboration platforms, social media communication chains — these are fixed capital of civil society that will reappear in different forms in 2026. They may be new citizen groups, new election monitoring platforms, new issue advocacy organizations. How this civic momentum intertwines with party competition is another main thread for observing 2026.
+On March 18, 2026, two opposition parties passed a "Joint Governance and Local Election Cooperation Agreement," stipulating the principle of "nominate first, integrate second, jointly nominate one," with the selection process determined by public consensus when necessary—with Xinyi City, Chiayi City, and Yilan County being the first to initiate coordination in public reports[^13]. This agreement is a rare formalized pre-election institutional cooperation framework in Taiwan's multi-party competition history.
 
-### The Expansion Trial of Third Forces
+By July 2026, this mechanism has actually operated one round: Chiayi City produced the first nationally co-nominated candidate from the Taiwan People's Party in early April; Xinyi (late April) and Yilan (early May) nominated candidates from the Kuomintang, with the losing side publicly pledging to assist in the subsequent election[^32]. A variation also occurred in Chiayi County—the Kuomintang for the first time yielded to an independent candidate at the county executive level, extending the two-party agreement into a "Major Opposition Alliance"[^33]. The mechanism is not without friction: both Changhua and Kinmen showed candidacy dynamics outside of coordination, making the boundary of integration a true test of this agreement's effectiveness.
 
-The TPP won 8 at-large seats in the 2024 legislative election, becoming the pivotal minority in the legislature. 2026 is the first time this third force contests local elections as the "pivotal third party in the legislature" — in the past, the TPP's organizational base at the local level was relatively weak, and 2026 is the critical test of whether it can convert its central-level support into local seats.
+Past multi-party cooperation has often appeared under non-institutionalized terms like "opposition consolidation" or "party negotiation," frequently breaking down due to individual candidate intentions before the election. Writing a cooperation mechanism into an inter-party agreement document and actually running public opinion polls according to that document—regardless of the final election results—is a new attempt at the institutional level. Whether this attempt will become a model for future multi-party competition must be assessed based on the election outcomes and subsequent effects.
 
-See also: [Taiwan Elections and Party Politics](/en/history/taiwan-elections-and-party-politics/) · [The Great Recall Movement (2024–2025)](/en/history/great-recall-movement-2024/)
+### Civic Momentum After the 2025 Recall
 
----
+The energy from the 1.3 million signatures will not vanish on the day of the recall's conclusion. Signature gathering experiences, street mobilization networks, cross-organizational cooperation platforms, and social media transmission chains are fixed capital of civil society that will reappear in different forms in 2026. This might manifest as new civic groups, new election monitoring platforms, or new issue advocacy organizations. How this civic momentum intertwines with party competition is another main thread to observe in 2026.
 
-## V. Structural Issues Across 22 Cities and Counties
+### The Test of Third Force Expansion
 
-Elections take place in cities and counties, but the political landscape of these jurisdictions was not formed in 2026. Each has its own factional structure, industrial history, ethnic composition, and geographic tension — these structures determine the motifs and tension fields of elections; candidates are the surface, structures are the bedrock.
+The Taiwan People's Party secured 8 seats in the National Assembly through non-affiliated districts in the 2024 legislative elections, becoming a key minority in the legislature. 2026 marks the first time this third force participates in local elections as a "key third party" in the legislature—the Taiwan People's Party has historically had relatively weak organizational foundations at the local level; 2026 is a crucial test of whether it can translate its central-level support into local seats.
 
-**The six special municipalities** face common issues: population flow (continuous absorption from non-metropolitan areas), urban governance (transportation, housing, air pollution, waste, long-term care), and industrial transformation (manufacturing to services, traditional services to the AI era). But the tension fields differ greatly among the six — Taipei's housing prices and housing justice, New Taipei's satellite city governance, Taoyuan's Aerotropolis and large-scale development, Taichung's red-black factions and Central Science Park expansion, Tainan's historical preservation and tourism, Kaohsiung's petrochemical transition and port city regeneration.
+See: [Taiwan Elections and Party Politics](/en/history/taiwan-elections-and-party-politics/) · [Major Recall](/en/history/great-recall-movement-2024/)
 
-**The 16 counties (cities)** have more localized issues:
+## V. Structural Issues of the Twenty-Two Counties and Cities
 
-- **Hsinchu (County and City)** — Science Park population overflow, indigenous cultural preservation, political landscape differences between Hakka and Hoklo settlements
-- **Miaoli** — industrial transition from mining to tourism, Hakka political structure, population outflow
-- **Changhua** — aging issues in the western corridor, agricultural politics, coastal industrial zone (e.g., wind power) development controversies
-- **Nantou** — mountain tourism, continuation of post-921 earthquake reconstruction, indigenous tribal self-governance
-- **Yunlin** — factional structure of agricultural politics (the Chang family's influence extending from the provincial council to the present), air pollution issues, Formosa Plastics' Sixth Naphtha Cracker
-- **Chiayi (County and City)** — aging society, agricultural refinement, Alishan tourism and indigenous tribes
-- **Pingtung** — agricultural and fisheries politics, indigenous issues, Kenting tourism and the environment
-- **Yilan** — tourism saturation, in-migration, dual-city effect after the Hsuehshan Tunnel
-- **Hualien** — dual structure of local factions and indigenous tribal politics, eastern transportation construction controversies, post-earthquake reconstruction
-- **Taitung** — tourism seasonality, indigenous tribal self-governance, cross-sea cruises and the environment
-- **Penghu** — tourism seasonality, gambling referendum history, population loss
-- **Kinmen** — cross-strait relations (mini-three-links, military tension escalation and de-escalation), identity issues after the transition from wartime administration
-- **Lienchiang (Matsu)** — cross-strait relations, severe population outflow, archipelago governance of the Matsu Islands
-- **Keelung** — port transformation, satellite city positioning, Taipei-New Taipei-Keelung transportation integration
+Elections take place at the county and city level, but the political landscape of these areas was not formed in 2026. Each county and city has its own factional structure, industrial history, ethnic composition, and geographical tensions—these structures determine the core themes and tension fields of the elections; candidates are merely the surface, while the underlying structure is the foundation.
 
-Each city and county has its own issue gravity field. Election results are snapshots of that gravity field at a particular moment, not outcomes generated from thin air.
+The common issues facing the **Six Metros** include: population flow (continuous absorption of people from non-metropolitan areas), urban governance (transportation, housing, air pollution, waste, long-term care), and industrial transformation (from manufacturing to services, from traditional services to the AI era). However, the tension fields among the Six Metros vary greatly—Taipei's housing prices and residential justice, New Taipei's satellite city governance, Taoyuan's aerospace industry and large-scale development, Taichung's Red and Blue factions and the expansion of Hsinchu Science Park, Tainan's historical preservation and tourism, and Kaohsiung's petrochemical transformation and port city revitalization.
 
-See also: [Geography Hub](/geography) · 22 city and county article groups (the political landscape layer is a priority for the next EVOLVE supplement)
+The issues in the **16 Counties (and Cities)** are more localized:
 
----
+- **Hsinchu (County/City)** — Outflow from science park populations, cultural preservation of indigenous peoples, and differences in the political map between Hakka and Hokkien settlements
+- **Miaoli** — Industrial transformation from mining to tourism, Hakka political structure, and population outflow
+- **Changhua** — Aging issues along the Western Corridor, agricultural politics, and disputes over coastal industrial zone (such as wind power) development
+- **Nantou** — Mountain tourism, continuation of post-921 reconstruction, and indigenous tribal autonomy
+- **Yunlin** — Factional structure in agricultural politics (the Chang family's political influence extending from the provincial assembly to today), air pollution issues, and Formosa Plastics Group/Luxing
+- **Chiayi (County/City)** — Aging society, agricultural refinement, Alishan tourism, and indigenous tribes
+- **Pingtung** — Agricultural and fishing politics, indigenous issues, Kenting tourism, and environment
+- **Yilan** — Tourism saturation, migrant populations, and the dual-city effect after the Suidao Expressway
+- **Hualien** — Dual structures of local factions and indigenous tribal politics, disputes over eastern transportation construction, and post-earthquake reconstruction
+- **Taitung** — Seasonal fluctuations in tourism, indigenous tribal autonomy, cross-strait cruise ships, and environment
+- **Penghu** — Seasonality of tourism, the history of gambling referendums, and population loss
+- **Kinmen** — Cross-strait relations (Small Three Links, military tension fluctuations), identity issues after transforming into a war zone administration area
+- **Lienchiang (Matsu)** — Cross-strait relations, severe population outflow, and the governance of the Matsu archipelago
+- **Keelung** — Port industry transformation, satellite city positioning, and North-Taipei-Keelung transportation integration
 
-## VI. The Historical Significance of Nine Categories of Office
+Every county and city has its own gravitational field of issues. The election results are a snapshot of this gravitational field at a certain moment, not an arbitrarily generated outcome.
 
-The term "nine-in-one" may seem like merely nine types of elections bundled together, but each category of office has its own institutional history.
+See in detail: [Geography Hub](/geography) · Articles on the 22 Counties and Cities (the political map layer is a focus for the next EVOLVE supplement chapter).
 
-### Special Municipality Mayors: The 4th Since the Six-Municipality Structure Stabilized
+## VI. Historical Significance of Nine Positions
 
-The office of special municipality mayor was born when Taipei was upgraded in 1967, expanded when Kaohsiung was upgraded in 1979, doubled with the five-municipality upgrade in 2010, and became today's six-municipality structure with Taoyuan's upgrade in 2014[^14]. 2026 is the 4th simultaneous election since the six-municipality structure stabilized — the institution has entered a steady state, but voters' expectations of the six special municipalities are structurally different from their expectations of the 16 counties (cities): the six are viewed as "quasi-central level," and candidates are often seen as potential contenders for the 2028 general election.
+The term "Nine-in-One" (九合一), while seemingly just nine types of elections combined, represents a history for each specific position.
 
-### County (City) Mayors: The Political Landscape of 16 Non-Special-Municipality Jurisdictions
+### Metropolitan Mayor: The Fourth Cycle After the Stabilization of Six Cities
 
-The 16 county (city) mayors of non-special-municipality jurisdictions — this number was largely established at the initial implementation of local self-governance in 1950[^15]. Apart from the adjustment of the five-municipality upgrade in 2010, the political landscape of the 16 counties (cities) has not changed dramatically over the past half-century. The election results for these 16 positions often reflect the actual structure of Taiwan's grassroots politics more accurately than the six special municipalities — local factions, kinship networks, industry interests, religious networks.
+The position of Metropolitan Mayor was established when Taipei was upgraded in 1967, expanded when Kaohsiung was upgraded in 1979, doubled during the Five-City upgrade in 2010, and solidified with Taoyuan's upgrade in 2014 to form today's Six Cities structure[^14]. 2026 marks the fourth synchronized election after the stabilization of this Six Cities structure—the system has entered a steady state. However, voters' expectations for the Six Cities differ structurally from those for the 16 counties (cities): the Six Cities are often viewed as "quasi-central levels," and candidates themselves are frequently seen as potential figures in the 2028 general election.
 
-### Councilors: Continuation of the Single Non-Transferable Vote (SNTV) Multi-Member District System
+### County/City Mayor: The Political Landscape of 16 Non-Metropolitan Cities
 
-The councilor system is different from the legislator system. Legislative Yuan members were changed to a single-district two-vote system (district + at-large) in 2008, but county (city) councilors and special municipality councilors remain under the **Single Non-Transferable Vote (SNTV)** multi-member district system — a district elects multiple members, each voter casts only one vote, and the highest vote-getters are elected in order[^16]. SNTV is an old system formalized in 1992; legislators have already been reformed once, but the councilor system has not followed.
+The County/City Mayors of the 16 non-metropolitan cities—this number was roughly established during the initial phase of local autonomy in 1950[^15]. Apart from the adjustment made during the Five-City upgrade in 2010, the political landscape of these 16 counties (cities) has not changed significantly over the past half a century. The election results for these 16 positions often reflect the actual grassroots political structure of Taiwan better than the Six Cities—including local factions, kinship networks, industrial interests, and religious networks.
 
-This system design encourages "intra-party competition" — candidates from the same party compete against each other in the same district. For voters, this system produces unique voting strategies: should one vote for the "marginal candidate" within the party who is most likely to lose? This is also why councilor elections feel completely different from presidential/legislative elections.
+### Legislator: Continuation of the Single Non-Transferable Vote (SNTV) System in Plurality Districts
 
-See also: 議員制度 (Councilor System)
+The system for legislators differs from that of legislative members (Taiwan's parliamentarians). Legislative Yuan members switched to a single constituency, two-vote system (constituency + non-affiliated) in 2008, but County/City Legislators and Metropolitan City Legislators still use the **Single Non-Transferable Vote (SNTV)** system—where multiple people are elected from one district, voters can only cast one vote, and candidates are elected sequentially based on the number of votes received[^16]. SNTV is an older system formalized in 1992; while legislative members have undergone a revision, the legislator system has not kept pace.
 
-### Village (里) Chiefs: Taiwan's Most Grassroots Elected Executives
+This design encourages "intra-party competition"—where candidates from the same party compete against each other within the same district. For voters, this system creates a unique voting strategy: should they vote for the "marginal candidate" most likely to lose within the political party? This is also why the feeling of county/city elections is completely different from presidential or legislative member elections.
 
-Taiwan has 7,748 village (里) chiefs — more than the 6,600+ 7-Eleven stores. The history of this office can be traced to the _hokō_ (保甲) system during the Japanese colonial era, and it was directly renamed and inherited after the war[^17]. The village chief election is the **only office where independent candidates dominate** — factions and personal connections matter more than party affiliation.
+See in detail: [Legislator System](/en/politics/city-councilor-system-taiwan/)
 
-Village chief election results rarely make national media, but this office is the most grassroots interface of Taiwan's public services. Care for elderly living alone, garbage truck route disputes, community activity center management, neighborhood dispute mediation, senior citizen stipend distribution, government message delivery — all of these daily governance tasks rest with village chiefs.
+### Village Head: Taiwan's Most Grassroots Elected Official
 
-See also: 村里長制度 (Village and 里 Chief System)
+There are 7,748 village heads across all of Taiwan—more than the 6,600+ 7-Eleven stores. The history of this position can be traced back to the _Hojō_ system during Japanese colonial rule, and it was directly renamed and inherited after World War II[^17]. The Village Head is the **only dominant non-party candidate** position in Taiwanese elections—where factions and personal relationships are more important than political parties.
 
-### Indigenous District Mayors: An Institutional Response to Ensuring Self-Governance Is Not Sacrificed for Upgrades
+The results of village head elections rarely make national media headlines, but this role represents the most grassroots point of contact for public service in Taiwan. Daily governance tasks such as caring for elderly individuals living alone, disputes over garbage truck routes, managing community activity centers, mediating neighborly conflicts, distributing senior citizen stipends, and relaying government information are all handled by the village head.
 
-The office of mountain indigenous district mayor in special municipalities was newly created when Taoyuan was upgraded in 2014[^18]. The elected status of mountain township mayors would have been stripped upon upgrade to a special municipality (townships become appointed district directors after upgrade). To prevent indigenous self-governance from being swallowed by municipal restructuring, the Legislative Yuan passed amendments to the _Local Government Act_, creating this new office — mountain indigenous districts in special municipalities retain their self-governing elections. This is Taiwan's institutional response to "upgrades must not sacrifice indigenous self-governance."
+See in detail: [Village Head System](/en/politics/village-chief-system/)
 
-Currently, 6 mountain indigenous districts (Wulai in New Taipei, Fuxin in Taoyuan, Heping in Taichung, Namasia in Kaohsiung, Taoyuan in Kaohsiung, Maolin in Kaohsiung) will elect district mayors and district representatives. The 50 district representative seats are not many, but the existence of this system itself is more important than the number of seats — it represents the commitment to Taiwan's multi-ethnic democratic framework.
+### Indigenous District Chief: A Systemic Response to Protecting Autonomy During Upgrading
 
-See also: 直轄市山地原住民區長 (Mountain Indigenous District Mayors in Special Municipalities)
+The Metropolitan Indigenous District Chiefs were newly established during Taoyuan's upgrade in 2014[^18]. The elected status of the village head in mountainous areas would have been stripped after the area was upgraded to a metropolitan city (the township/town was reassigned as a district by the new administration). To prevent indigenous autonomy from being subsumed by urban restructuring, the Legislative Yuan passed an amendment to the Local Government Act, establishing this position—where Metropolitan Indigenous Districts maintain their own elections. This is Taiwan's systemic response to "not sacrificing indigenous autonomy during upgrading."
 
----
+Currently, 6 metropolitan areas have Indigenous Districts (Wulai in New Taipei City, Fuxing in Taoyuan, Heping in Taichung, Namaxia in Kaohsiung, Taoyuan in Kaohsiung, and Maolin in Kaohsiung) that elect a District Chief and district representatives. Although there are not many seats for the 50 district representatives, the existence of this system itself is more significant than the number of seats—it represents Taiwan's commitment to a diverse ethnic democratic structure.
 
-## VII. Taiwan.md's Position in This Election
+See in detail: [Metropolitan Indigenous District Chiefs](/en/politics/indigenous-district-chief-system/)
 
-At this point, a clear self-declaration is necessary.
+## VII. The Place of Taiwan.md in This Election
 
-Taiwan.md **does not cover campaigns**.
-Taiwan.md **does not do breaking news**.
-Taiwan.md **does not publish polls**.
-Taiwan.md **does not endorse any candidate**.
-Taiwan.md **does not comment on any party's nomination strategy**.
+Before proceeding, a clear self-declaration is necessary.
 
-Taiwan.md's work in the 2026 election operates on three layers:
+Taiwan.md **does not report on campaigns**.
+Taiwan.md **does not provide breaking news**.
+Taiwan.md **does not conduct polls**.
+Taiwan.md **does not endorse any candidates**.
+Taiwan.md **does not comment on party nomination strategies**.
 
-### Institutional Layer
+What Taiwan.md does regarding the 2026 elections operates on three levels:
 
-Writing about how institutions grow, how they function, why they are designed this way, and when they break. The counterintuitive design of the Central Election Commission, the SNTV councilor system, the factional structure of village chiefs, the transparency design of political donation laws, the institutional function of the election gazette, the historical evolution of voting eligibility thresholds — these are the core content written into the [Politics Hub](/politics).
+### Institutional Level
 
-### Historical Layer
+We write about how systems are designed, how they function, why they were designed that way, and when they might fail. The counter-intuitive designs of the Central Election Commission, the SNTV system for councilors, the factional structure of village heads, the transparency design of political donations, the functional role of election bulletins, and the historical evolution of voting thresholds—these are core contents found in the [Politics Hub](/politics).
 
-Placing this election on the thirty-year democratization coordinate to find its position. The first ballot for directly elected Taipei and Kaohsiung mayors in 1994, the five-municipality upgrade in 2010, the chaos of bundled referendums in 2018, the Kaohsiung mayor recall in 2022, the ruling-minority configuration in 2024, the Great Recall in 2025 — every historical node is a prequel to 2026.
+### Historical Level
 
-### Civic Monitoring Tool Layer
+We place this election within the context of three decades of democratization. The first vote for a directly elected mayor in Taipei in 1994, the elevation of the five municipalities in 2010, the chaos of linking referendums with general elections in 2018, the recall of the Kaohsiung mayor in 2020, the "small-party/large-party" dynamic in 2024, and the major recall movement in 2025—each historical node serves as a prequel to 2026.
 
-Cross-linking to the [/elections/2026/](/elections/2026/) dynamic page, which collects candidate information, political donation visualization, multi-perspective analysis, and civic monitoring tool guides. The dynamic page and static articles divide labor: articles write "how institutions grow" (content that will be read for five years), while the dynamic page writes "the current situation is" (content updated as the campaign evolves).
+### Citizen Oversight Tool Level
+
+We cross-link to the dynamic page [/elections/2026/](/elections/2026/), which collects candidate information, visualizes political donations, organizes multi-perspective views, and guides citizen oversight tools. The dynamic page and static articles have distinct roles: articles write "how systems are designed" (content intended to be read for five years), while the dynamic page writes "the current situation is" (content updated as the campaign evolves).
 
 ### Five Iron Rules
 
-Every article written under the Politics category follows five iron rules (per the [Politics Hub](/politics)):
+Every article published under the Politics category adheres to these five iron rules (per [Politics Hub](/politics)):
 
-1. **Symmetry Principle** — Writing about a candidate means writing about the opponent; writing about a city/county means writing about all cities/counties. Asymmetric publishing = endorsement signal.
-2. **Institutional Layer First** — Perspectives are locked to "why this institution is worth cherishing," "why democratic transition is not easy," "why transparency matters," and do not descend to the candidate-level or policy-stance level.
-3. **30-Day Pre-Election Spore Freeze** — 30 days before the election (2026-10-29 → 11-28), publishing any candidate-specific spores is prohibited to avoid being read as an endorsement during the pre-election viral period.
-4. **AI Deepfake Defense** — Every article goes through a complete hallucination audit + story atom audit + cross-source verification.
-5. **Three-Filter Self-Application** — Default bonus for creators / multi-observer drift / editorial voice / external critique default not executed.
+1. **Symmetry Principle** — If one candidate is written about, their opponent is also written about / if one county or city is covered, all counties and cities are covered. Asymmetrical publication = endorsement signal
+2. **Institutional Focus** — The perspective is locked on "why this system is worth cherishing," "why democratic transition is difficult," or "why transparency matters," not at the candidate-level or policy-stance-level.
+3. **Pre-election 30-day spore freeze** — For 30 days before the election (October 29, 2026 $\rightarrow$ November 28), no candidate-specific spores are published to avoid pre-election viral content being read as endorsement.
+4. **AI deepfake defense** — Every article undergoes a complete hallucination audit + story atom audit + cross-source verification.
+5. **Three-Filter Self-Application** — The creator's default bias / multi-observer drift / editorial voice / external critique is not applied.
 
-These five iron rules are not restrictions written for readers to see; they are commitments written for ourselves. If you read anything that feels wrong — feel free to file an Issue / PR / comment. This is how Taiwan.md evolves together with its readers.
-
----
+These five iron rules are commitments made to ourselves, not limitations for the reader. If you read any article and feel it is incorrect—we welcome you to open an Issue / PR / leave a comment. This is how Taiwan.md evolves with its readers.
 
 ## VIII. Reading Paths for Readers
 
-Depending on what you want to know, this category has different entry points.
+Depending on what you want to know, this classification has different entry points.
 
 **To understand how the system works:**
-九合一選舉是什麼 (What Are the Nine-in-One Elections) → 投票權門檻歷史 (History of Voting Eligibility Thresholds) → 中選會制度 (Central Election Commission System) → 選舉公報 (Election Gazette) → 政治獻金透明度 (Political Donation Transparency) → 議員制度 (Councilor System) → 村里長制度 (Village and 里 Chief System) → 直轄市山地原住民區長 (Mountain Indigenous District Mayors in Special Municipalities)
+[What is the Nine-in-One Election?](/en/politics/nine-in-one-elections-explained/) $\rightarrow$ [History of Voting Rights Thresholds](/en/politics/voting-rights-threshold-history/) $\rightarrow$ [Central Election Commission System](/en/politics/central-election-commission/) $\rightarrow$ [Election Bulletins](/en/politics/election-bulletin-system/) $\rightarrow$ [Political Donation Transparency](/en/politics/political-donation-transparency/) $\rightarrow$ [Councilor System](/en/politics/city-councilor-system-taiwan/) $\rightarrow$ [Village Head System](/en/politics/village-chief-system/) $\rightarrow$ [Indigenous Leaders in Special Municipal Areas](/en/politics/indigenous-district-chief-system/)
 
-**To see the latest on the 2026 elections:**
-[/elections/2026/](/elections/2026/) — dashboard / candidates / political donations / multi-perspective analysis
+**To see the latest status of the 2026 elections:**
+[/elections/2026/](/elections/2026/) — dashboard / candidates / political donations / multi-perspective views
 
-**For historical context:**
-[Democratization](/en/history/taiwan-democratization-history/) → [Taiwan's Democratic Transition](/en/history/taiwan-democratization/) → [The Great Recall Movement (2024–2025)](/en/history/great-recall-movement-2024/) → [Taiwan Elections and Party Politics](/en/history/taiwan-elections-and-party-politics/)
+**To view historical context:**
+[Democratization](/en/history/taiwan-democratization-history/) $\rightarrow$ [Taiwanese Democratic Transition](/en/history/taiwan-democratization/) $\rightarrow$ [Major Recall Movements](/en/history/great-recall-movement-2024/) $\rightarrow$ [Elections and Party Politics in Taiwan](/en/history/taiwan-elections-and-party-politics/)
 
-**For civic monitoring tools:**
-[Open Source Community and g0v](/en/technology/open-source-and-g0v/) → 政治獻金透明度 (Political Donation Transparency) → [External resource compilation (/elections/2026/)](/elections/2026/)
+**To view citizen oversight tools:**
+[Open-Source Community and g0v](/en/technology/open-source-and-g0v/) $\rightarrow$ [Political Donation Transparency](/en/politics/political-donation-transparency/) $\rightarrow$ [External Resource Compilation (/elections/2026/)](/elections/2026/)
 
-**To understand the political context of a specific city or county:**
-[Geography Hub](/geography) → the city or county you care about → the political landscape section of that city or county (Tier 1.2 supplement pending ship)
+**To know the political context of a specific county or city:**
+[Geography Hub](/geography) $\rightarrow$ The counties and cities you are interested in (Political maps for each county/city are being prepared)
 
----
+## IX. Where the Campaign Stands: What Has Happened and What Will Happen
 
-## IX. Key Dates to Watch
+Looking back from mid-July 2026, there are still over four months until Election Day. The basic structure of the campaign has largely taken shape.
 
-From today (2026-05-27) to election day (2026-11-28), there are six months remaining. The following are key dates worth tracking:
+### What Has Happened: Three New Variables at the System Level
 
-**2026/08/20 Central Election Commission announcement** — Election administration officially begins. From this day, the 18-month "speculation phase" enters statutory procedure.
+**Referendums May Be Re-linked to General Elections**. In November 2025, the Legislative Yuan passed a third reading amendment to Article 23 of the Referendum Act, bringing back the "linking referendum to general elections" mechanism—where an announced referendum is held on the same day as a national election if it occurs within three to six months of that election[^34]. Opposition parties have proposed five or six referendums concerning issues like abolishing capital punishment, corporal punishment, restarting nuclear power, and domestic transfer voting, aiming to link them to November 28. However, as of July, all proposals remain at the stage of "submission for second reading discussion," meaning they might not pass until August at the earliest. Past precedent serves as a warning: the referendum on abolishing capital punishment that passed in a Legislative Yuan vote in May 2025 was deemed non-compliant with the Referendum Act and difficult to process by the Central Election Commission[^35]. Voters will receive nine or nine plus N ballots in November; the answer will come in August.
 
-**2026/08-29–09/04 Candidate registration** — The final candidate list emerges. Opposition integration agreements, blue-white cooperation, third-force expansion, independent coordination — the results of all pre-election maneuvering will be revealed in these six days. Candidates who do not register by this day can no longer enter the race.
+**Indigenous voters can now transfer their votes**. In December 2025, the Legislative Yuan passed a third reading amendment to the Election and Recall Act, removing residency restrictions for Indigenous voters, effective January 2026—this is the first practical gap in Taiwan's absentee voting system, though the general version of the Absentee Voting Act has not yet reached a third reading[^36]. The Central Election Commission estimated the scale of this election during a public hearing: multiplying electoral districts by ballot types results in **8,896** different sets of ballots—the complexity of vote transfer is the direct concern of election authorities regarding hasty implementation[^36].
 
-**2026/10/16 Candidate qualification review + 2026/10/23 Number lottery** — The number lottery determines the order of candidates on the ballot. In Taiwan's election culture, the subtle influence of candidate numbers (especially the "first-mover effect" of number 1) may affect a small number of voters.
+**The bar for candidacy has just been changed**. In June 2026, the Legislative Yuan passed a third reading amendment to Article 26 of the Election and Recall Act, allowing individuals who have received suspended sentences or are eligible for social labor service to register as candidates, effective July 1[^37]. This amendment, dubbed the "Gao Hong-an Clause" by the media, rewrote the legal line on candidacy eight weeks before registration day—supporters claim it restores the presumption of innocence, while critics question it as an ad hoc change for specific cases. It will directly affect who can appear on the ballot.
 
-**2026/10/29 → 11/28 — The 30 days before the election:**
+### What Has Happened: The Nomination Landscape is Roughly Set
 
-- Poll publication ban period (per the _Election and Recall Act_)
-- Taiwan.md activates candidate-specific spore freeze
-- Ministry of Justice election investigations enter peak alert status
-- Expected peak period for cognitive warfare (per OpenAI / DoubleThink Lab analysis)
+The nomination process for the three major parties entered its final stages in July: the Democratic Progressive Party (DPP) has nominated 19 candidates across 22 municipalities; the Kuomintang (KMT) has completed nominations for difficult and transition districts, and the vetting of incumbent politicians is expected to be handled once in late July. Of the three individuals nominated by the Taiwan People's Party (TPP), two were transferred to assist the DPP after a survey on Blue-White integration[^38]. In 13 of the 22 municipalities, incumbents will not appear on the ballot due to term expiration or legal restrictions—this is an election marked by significant turnover. The actual operation record of the Blue-White cooperation mechanism can be seen in [Section Four](#四內部結構性議題朝小野大藍白協作第三勢力).
 
-**2026/11/28 Election day** — Voting from 08:00–16:00, counting begins after 16:00. Taiwan's vote-counting tradition is "fast but not sloppy" — major results are expected to be tallied between 22:00–24:00 that evening.
+Taiwan.md does not list candidates in this article—the complete list will follow the Central Election Commission's announcement in November; for pre-election nomination dynamics, please refer to compilations from mainstream media and the [Central Election Commission announcements](https://web.cec.gov.tw/).
 
-**After 2026/12/01** — The political interpretive battlefield after results are announced. Beyond the specific vote counts of who won and lost, how the 2024 ruling-minority configuration continues or reconfigures, expectations for the 2028 general election landscape, and the subsequent trajectory of blue-white cooperation — these "post-election narratives" may be more important than the election results themselves.
+### What Will Happen: Six Milestones on the Legal Timeline
 
----
+**August 20, 2026: Central Election Commission issues election notice**—the election process officially begins; voting times, required quotas, and whether referendums are held concurrently will all be finalized on this day. The "speculative phase" of over a year enters the formal procedure.
 
-## Closing
+**August 31–September 4, 2026: Candidate registration**—the final list of candidates emerges. The results of party nominations, integration agreements, and independent candidacies will be revealed during these five days. Anyone who has not registered cannot participate from this day forward.
 
-At 8:00 AM on Saturday, November 28, 2026, all 22 cities and counties across Taiwan will simultaneously open their polling stations. From that moment until 4:00 PM, Taiwan's voters will complete, in eight hours, this democratic ritual of "nine categories of office voted on in a single day" — a rarity in the world.
+**October 16 (Pre-review) + October 23, 2026: Lottery draw**—the order on the ballot is determined by a number drawing. The subtle influence of numbers in Taiwanese electoral culture (especially the "first-mover advantage" of Number 1) may affect a small number of voters.
 
-But the real stress test of this ritual is not on that day alone — it is in the 18 months before the election, in an environment of escalating AI cognitive warfare, amid political confrontation under a ruling-minority configuration, at the seams between civic monitoring tools and open government data, and in every stream of messages whose truth is difficult to discern.
+**Starting November 18, 2026: Ten-day ban on public opinion polling**—the Election and Recall Act stipulates that no one may publish public opinion data by any means ten days before voting[^39].
+
+**October 29 to November 28, 2026: The final 30 days before the election**:
+
+- Taiwan.md initiates candidate-specific spore freeze (self-discipline, stricter than the legal polling ban)
+- Investigation and prosecution of elections enters a state of high alert
+- Cognitive warfare is expected to peak (based on OpenAI / DoubleThink Lab analysis)
+
+**November 28, 2026: Election Day**—voting time adheres to the election notice (the historical standard is 8 AM to 4 PM); counting begins immediately after voting ends. The traditional vote-counting process in Taiwan is "fast but not sloppy"—based on past experience, major results are tallied that evening, and the list of winners is announced on December 4.
+
+**After December 2026**:—the political interpretation battle following the count. Beyond who won or lost specifically, how the pattern of small parties/large parties from 2024 continues or reorganizes, expectations for the 2028 general election landscape, and the future direction of Blue-White cooperation—these "post-election narratives" may be more significant than the election results themselves.
+
+## Conclusion
+
+On Saturday morning, November 28, 2026, polling places across all 22 counties and municipalities opened simultaneously. From that moment on, Taiwanese voters would complete this rare "nine-position simultaneous election" democratic ritual within a single day.
+
+But the real stress test of this ritual is not on the day itself—it is in every day leading up to it: amid the escalating AI cognitive warfare, amidst the political opposition between the ruling and opposition parties, at the intersection of citizen oversight tools and government open data, and within every stream of messages that are difficult to distinguish as true or false.
 
 Can Taiwan's democratic infrastructure withstand this stress test?
 
-The answer will not be revealed on election day alone. The answer is being built, inch by inch, in every institution, every civic tool, every fact-checking organization, and every citizen willing to take the time to verify information.
+The answer will not be revealed on election day. The answer is accumulated bit by bit in every institution, every civic tool, every fact-checking organization, and every citizen willing to spend time verifying information.
 
-Taiwan.md's position in this stress test: curation at the institutional layer, historical layer, and civic monitoring tool layer. We do not cover campaigns, but we document the environment in which this election takes place. Written for someone five years in the future who wants to understand why 2026 was a critical node.
+Taiwan.md occupies a position in this stress test: curation at the systemic, historical, and civic oversight layers. It does not report campaign narratives; rather, it records the environment in which this election occurs. It is written for those who wish to understand why 2026 was a critical node five years from now.
 
 🧬
 
 ---
 
-_v1.0 | 2026-05-27 | Born from the ARTICLE-INBOX 🗳️ 2026 Election Series anchor article mission. Provides the curatorial general chapter narrative for the [Politics Hub](/politics) beyond the /elections/2026/ dynamic page._
+_v1.1 | 2026-07-10 | Four-and-a-half months of pre-election factual updates (full list in frontmatter updateLog): Timeline alignment with the 622nd Central Election Commission meeting, correction of election and recall years, institutionalization of prosecution, and attack patterns from June–July, operation of the blue-white mechanism, and three new systemic variables._
+
+_v1.0 | 2026-05-27 | Anchor article task for the 2026 Election series, born in ARTICLE-INBOX 🗳️. A curated narrative outside of the dynamic page /elections/2026/ provided to the [Political Hub](/politics)._
 
 ## Open Data
 
-The government open data below lets you verify or rebut the claims in this article. Links point to persistent pages on [data.gov.tw](https://data.gov.tw/); readers working with AI can also query the same datasets through Taiwan's open data MCP gateway, [Twinkle Hub](https://hub.twinkleai.tw/).
+The following open government data can be used to verify or refute the arguments in this article. Links point to persistent pages on [data.gov.tw](https://data.gov.tw/); readers working with AI can also query the same datasets through Taiwan's open data MCP gateway, [Twinkle Hub](https://hub.twinkleai.tw/).
 
-- [Number of Eligible Voters](https://data.gov.tw/dataset/27491) (Central Election Commission, updated every four years) — The 11,000 seats the article mentions are filled by how many eligible voters; the population statistics across past elections are here
-- [District Prosecutors Office Final Judgments on Election and Recall Act Violations](https://data.gov.tw/dataset/15035) (Department of Statistics, MOJ, updated monthly) — Historical judgment results for vote-buying and foreign interference, the two traditional battlefields among the four key investigation priorities cited in the article — the quantitative view of prosecutors' enforcement intensity
+- [Electorate Size](https://data.gov.tw/dataset/27491) (Central Election Commission, updated every four years)— This shows how many eligible voters were selected for the 11,000 seats mentioned in the text; historical population statistics are available here.
+- [Number of Cases Decided by Local Prosecutors' Offices Violating the Public Officials Election and Recall Act](https://data.gov.tw/dataset/15035) (Statistics Bureau, Ministry of Justice, updated monthly)— This provides a quantitative measure of prosecutorial intensity regarding bribery and foreign interference, two traditional battlegrounds mentioned in the text.
 
 ## References
 
-[^1]: [2026 Republic of China Local Official Elections — Wikipedia](https://zh.wikipedia.org/wiki/2026年中華民國地方公職人員選舉) — Nine categories of office totaling approximately 11,000+ elected executives and representatives
+[^1]: [2026 Local Public Official Elections in the Republic of China - Wikipedia](https://zh.wikipedia.org/wiki/2026年中華民國地方公職人員選舉) — A total of nine positions account for approximately 11,000+ elected heads and representatives
 
-[^2]: [Central Election Commission](https://web.cec.gov.tw/) — Statutory election authority; all seat figures subject to CEC announcement
+[^2]: [Central Election Commission](https://web.cec.gov.tw/) — The statutory election authority; all staff numbers are based on announcements from the Central Election Commission
 
-[^3]: [China's "AI Manipulation of Public Opinion" Interfering in Taiwan Elections](https://www.fountmedia.io/article/338076) — Fount Media's summary of the OpenAI February 2026 report
+[^3]: [China's 'AI Manipulation of Public Opinion' Intervenes in Taiwan Elections](https://www.fountmedia.io/article/338076) — A summary of Fount Media regarding OpenAI's 2026/02 report
 
-[^4]: [Citizen Lab Reveals Global Operation of Spoofed News Websites](https://citizenlab.ca/) — Citizen Lab, University of Toronto
+[^4]: [Citizen Lab Exposes Global Fake News Websites](https://citizenlab.ca/) — University of Toronto Citizen Lab
 
-[^5]: [Summary: Four Key Priorities for 2026 Election Investigations](https://udn.com/news/) — United Daily News report on Ministry of Justice investigation directions
+[^5]: [Supreme Prosecutors Office 'Task Force to Investigate Election Interference' Established, Targeting Four Key Areas](https://news.ltn.com.tw/news/society/breakingnews/5448593) — Liberty Times 2026-05-25: Strictly investigating bribery and violence, cutting off election gambling, preventing fake news interference, and blocking foreign power intervention; reporting that the maximum penalty for foreign interference is twenty million NTD
 
-[^6]: [Xi Jinping Targets 2028 to Block Lai's Reelection, Treats 2026 as Preliminary Battle](https://www.yomiuri.co.jp/) — Japan's _Yomiuri Shimbun_ report
+[^6]: [Xi Jinping Targets 2028 to Prevent Lai's Reelection, Views 2026 as a Precursor Battle](https://www.yomiuri.co.jp/) — Report by The Yomiuri Shimbun in Japan
 
-[^7]: [Central Election Commission 2026 Election Timeline Announcement](https://web.cec.gov.tw/) — Official source for the Central Election Commission's 2026 election timeline
+[^7]: [Schedule for the 115th Local Public Official Elections Voting Day and Procedures](https://www.cna.com.tw/news/aipl/202510310261.aspx) — Central News Agency 2025-10-31: Resolution of the 622nd meeting of the Central Election Commission; announced on 8/20, registration from 8/31 to 9/4, pre-review on 10/16, drawing lots on 10/23, voting on 11/28
 
-[^8]: [2026 Special Municipality and County (City) Mayor Elections Overview](https://zh.wikipedia.org/wiki/2026年中華民國直轄市長及縣市長選舉) — Official source for the 2026 special municipality and county (city) mayor elections overview
+[^8]: [Overview of the 2026 Municipal Mayor and County Mayor Elections](https://zh.wikipedia.org/wiki/2026年中華民國直轄市長及縣市長選舉) — Official data source for the 2026 Municipal Mayor and County Mayor Elections
 
-[^9]: [The Institutional Design Behind Taiwan's Vote-Counting Speed](https://www.twreporter.org/) — Official source for the institutional design behind Taiwan's vote-counting speed
+[^9]: [The System Design of Taiwan's Election Vote Counting Speed](https://www.twreporter.org/) — Official data source on the system design of Taiwan's election vote counting speed
 
-[^10]: [History of Directly Elected Special Municipality Mayors in Taiwan](https://zh.wikipedia.org/wiki/中華民國直轄市長) — From the first direct elections in Taipei and Kaohsiung in 1994 to Taoyuan's upgrade in 2014
+[^10]: [History of Elected Mayors in Taiwan](https://zh.wikipedia.org/wiki/中華民國直轄市長) — From the first direct elections in Taipei in 1994 to Taoyuan's elevation in 2014
 
-[^11]: [Largest Recall Campaign in History](https://newtalk.tw/) — Newtalk report on the total signature count for the 2025 Great Recall
+[^11]: [The Largest Recall Movement in History](https://newtalk.tw/) — A report by New Head News on the total signatures for the 2025 large-scale recall movement
 
-[^12]: [The Rise of AI in Chinese Influence Operations — Nine Key Points from Zhongke Tianji Documents](https://medium.com/doublethinklab-tw/ai-在中國影響力作戰中的崛起-從中科天璣文件中得出的九大要點-0547560a3aea) — DoubleThink Lab, Taiwan
+[^12]: [The Rise of AI in China's Influence Operations - Nine Key Points Derived from CASIA Documents](https://medium.com/doublethinklab-tw/ai-在中國影響力作戰中的崛起-從中科天璣文件中得出的九大要點-0547560a3aea) — Taiwan Democracy Lab DoubleThink Lab
 
-[^13]: [KMT and TPP Pass Joint Governance Agreement](https://udn.com/news/) — United Daily News report on the March 18, 2026 KMT-TPP joint governance agreement
+[^13]: [KMT and TPP Sign 2026 Joint Governance and Local Election Cooperation Agreement](https://www.cna.com.tw/news/aipl/202603180245.aspx) — Central News Agency 2026-03-18: First nomination, then integration, jointly nominating one person; the working group for negotiations in New Taipei, Chiayi City, and Yilan has been launched
 
-[^14]: [History of Taiwan's Special Municipality System](https://zh.wikipedia.org/wiki/中華民國直轄市) — Institutional evolution from Taipei's upgrade in 1967 to Taoyuan's upgrade in 2014
+[^14]: [History of Municipal Systems in Taiwan](https://zh.wikipedia.org/wiki/中華民國直轄市) — The institutional evolution from Taipei's elevation in 1967 to Taoyuan's elevation in 2014
 
-[^15]: [History of Local Self-Governance in Taiwan](https://zh.wikipedia.org/wiki/中華民國地方自治) — The 16-county/city framework from the 1950s onward
+[^15]: [History of Local Autonomy in Taiwan](https://zh.wikipedia.org/wiki/中華民國地方自治) — The structure of 16 counties and cities starting from the 1950s
 
-[^16]: [Single Non-Transferable Vote (SNTV)](https://zh.wikipedia.org/wiki/單記非讓渡投票制) — Official source for the Single Non-Transferable Vote (SNTV) system
+[^16]: [Single Non-Transferable Vote in Multi-Member Districts (SNTV)](https://zh.wikipedia.org/wiki/單記非讓渡投票制) — Official source for Single Non-Transferable Vote in Multi-Member Districts (SNTV).
 
-[^17]: [Village (里) System from Japanese-Era Hokō to Postwar Evolution](https://zh.wikipedia.org/wiki/村里) — Official source for the village (里) system from Japanese-era hokō to postwar evolution
+[^17]: [The Village System: From Japanese Colonial Police System to Post-War History](https://zh.wikipedia.org/wiki/村里) — Official source for the history of the village system from the Japanese colonial police system to after the war.
 
-[^18]: [Mountain Indigenous District Self-Governance System in Special Municipalities](https://law.moj.gov.tw/) — Taiwan Ministry of Justice Law and Regulation Database, _Local Government Act_ §§83-2 to 83-8
+[^18]: [Self-Governing System in Indigenous Areas of Municipalities](https://law.moj.gov.tw/) — National Legal Database, 'Local Government Act' §83-2 to §83-8.
 
-[^19]: [Control Yuan Political Donation Public Search Platform](https://ardata.cy.gov.tw/) — Statutory disclosure platform for candidate political donations
+[^19]: [Supervisory Yuan Political Donation Disclosure Platform](https://ardata.cy.gov.tw/) — The official platform for candidate political donation disclosure.
 
-[^20]: [g0v councilor-voter-guide](https://github.com/g0v/councilor-voter-guide) — g0v open-source voter guide project
+[^20]: [g0v councilor-voter-guide](https://github.com/g0v/councilor-voter-guide) — Open-source project for g0v voting guides.
 
-[^21]: [Taiwan FactCheck Center](https://tfc-taiwan.org.tw/) — IFCN-certified fact-checking organization
+[^21]: [Taiwan Fact Check Center](https://tfc-taiwan.org.tw/) — IFCN certified fact-checking organization.
 
-[^22]: [Cofacts 真的假的](https://cofacts.tw/) — g0v crowdsourced fact-checking + LINE chatbot
+[^22]: [Cofacts True or False](https://cofacts.tw/) — g0v crowdsourced verification + LINE chatbot.
 
-[^23]: [DoubleThink Lab](https://doublethinklab.org/) — Cognitive warfare and foreign influence research organization
+[^23]: [Taiwan Democracy Lab DoubleThink Lab](https://doublethinklab.org/) — Organization researching cognitive warfare and foreign influence.
 
-[^24]: [PTS PNN Election Special](https://pnn.pts.org.tw/) — Public Television Service PNN platform election-related reporting collection
+[^24]: [Taiwan Public Television PNN Election Special](https://pnn.pts.org.tw/) — Collection of election-related reports from the Taiwan Public Broadcasting PNN platform.
+
+[^25]: [Central Election Commission](https://web.cec.gov.tw/) — Voting start and end times are listed in the election announcement issued on 2026-08-20; past local official elections were held from 8 AM to 4 PM.
+
+[^26]: [North District Prosecutors Office Establishes National Fake Information Handling Center for Deepfakes](https://udn.com/news/story/7321/9547729) — United Daily News, 2026-06-05: A specialized prosecutor team was formed in conjunction with the Investigation Bureau and Criminal Affairs Bureau to establish a deepfake forensics and tracing window.
+
+[^27]: [Taoyuan District Prosecutors Office Investigates First Case of Cross-Border Virtual Currency Election Gambling](https://udn.com/news/story/7321/9552434) — United Daily News, 2026-06-08: Polymarket launched the '2026 Taiwan Local Elections' market with stablecoin betting; 4 people were suspended from prosecution.
+
+[^28]: [North District Prosecutors Office Has Accepted 37 Cases of Election Interference Information](https://news.ltn.com.tw/news/society/breakingnews/5488825) — Liberty Times, 2026-06-30: 7 cases have been investigated, and an anti-bribery campaign focusing on fake news has been released.
+
+[^29]: [Fake News Spam Incident Analyzed by Cybersecurity Experts as Part of the 2026 Election Cognitive Warfare Layout](https://www.cna.com.tw/news/aipl/202606200060.aspx) — Central News Agency, 2026-06-20: 383 posts, 163 fan pages, with a density of 34 per 5 minutes, attributed to a content farm group in Hebei, China; the conclusion that it was 'premeditated for the election' is not definitive.
+
+[^30]: [Chinese Network Launches Hundreds of Fake Dating Accounts](https://www.newsguardtech.com/special-reports/chinese-network-launches-hundreds-of-fake-dating-accounts-to-influence-the-next-taiwanese-election/) — NewsGuard, 2026-06-25: 294 fake dating accounts and 118 naming patterns were used, similar to the attack on the DPP in February; this was assessed by an organization as a shift to political manipulation before the election.
+
+[^31]: [Fact Check of Korean Local Election 'Insufficient Votes' Rumors](https://www.mygopen.com/2026/06/election.html) — MyGoPen 2026-06: Narratives about election fraud in the South Korean June 3rd election were transplanted into Taiwanese social communities, and organizations have fact-checked them
+
+[^32]: [Chiayi City Blue and White Poll Released, Producing First National Co-nominated Candidates](https://news.pts.org.tw/article/802486) — CNA 2026-04-07: The first integrated poll after an agreement; see other reports from Central News Agency and CNA regarding New Taipei (4/28) and Yilan (5/04)
+
+[^33]: [KMT Announces Concession to Independent Candidates in Chiayi County](https://www.chinatimes.com/realtimenews/20260526003976-260407) — China Times 2026-05-26: The first time at the county mayor level that a concession was made to independent candidates, extending the 'opposition alliance'
+
+[^34]: [Amendment to the 'Referendum Act' Passes Third Reading; Return of 'Linking Referendum with General Elections'](https://news.pts.org.tw/article/782387) — CNA 2025-11-21: A referendum announced will be held on the same day as a national election within 3-6 months; President announces it on 2025-12-03
+
+[^35]: [Anti-Abolition Referendum Moves to Second Reading Without Delay, Must Pass by August at Latest to Link with General Elections](https://www.cna.com.tw/news/aipl/202606260163.aspx) — Central News Agency 2026-06-26: The background section includes the precedent where the Anti-Abolition referendum passed by the Legislative Yuan in May 2025 was deemed not compliant with the 'Referendum Act' and could not be processed by the Election Commission
+
+[^36]: [Public Hearing on Absentee Voting Law: CEC Estimates 8,896 Types of Ballots for 2026](https://www.cna.com.tw/news/aipl/202601260228.aspx) — Central News Agency 2026-01-26: The general version of the 'Absentee Voting Act' has not passed third reading; the clause that indigenous peoples are not restricted by domicile was passed on 2025-12-26 and announced on 2026-01-21 (Amendment to Articles 57, 70-71, and 73 of the 'Election and Recall Act')
+
+[^37]: [Legislative Yuan Passes Amendment to Election and Recall Act: Those with Suspended Sentences or Eligible for Social Labor Can Run](https://udn.com/news/story/6656/9562278) — United Daily News 2026-06-12: Media refers to the 'Ko Hong-an Clause,' effective after the President's announcement on July 1, 2026
+
+[^38]: [KMT Incumbent in 6 Counties and Cities Scheduled for Extraordinary Executive Meeting on 7/22](https://news.nextapple.com/politics/20260706/411D654E645E97EBC98BD301EBA5AF25) — iNews 2026-07-06: As of early July, it is a plan not an accomplished fact; the DPP's nomination progress has been announced in previous executive meetings
+
+[^39]: [Article 53 of the 'Public Officials Election and Recall Act'](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020010) — National Legal Database: Political parties and any person may not publish public opinion survey data from ten days before the vote until the end of the voting time
