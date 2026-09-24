@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-24T10:57:08+08:00",
-    "zhCommitHead": "b9d26a26b",
+    "lastUpdated": "2026-09-24T11:17:20+08:00",
+    "zhCommitHead": "ba9af9edc",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1084,
-        "stale": 25,
+        "fresh": 1085,
+        "stale": 24,
         "metadata_stale": 0,
         "missing": 15,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 983,
+        "fresh": 984,
         "stale": 3,
         "metadata_stale": 0,
-        "missing": 138,
+        "missing": 137,
         "orphan": 0
       }
     },
@@ -63887,7 +63887,20 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/kuma-academy-civil-defense-school.md",
+          "translatedFrom": "Society/黑熊學院.md",
+          "sourceCommitSha": "cdc7cc719",
+          "sourceContentHash": "sha256:42de5cb53b9bc1de",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T03:09:43.985790+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 34,
+          "bytes": 59572,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -81935,15 +81948,15 @@
         "vi": {
           "path": "vi/Nature/daan-river-yitian-sword.md",
           "translatedFrom": "Nature/大安溪倚天劍.md",
-          "sourceCommitSha": "21298a7a",
-          "sourceContentHash": "sha256:d645338641d89664",
-          "sourceBodyHash": "sha256:5dcfd938f21ea513",
-          "translatedAt": "2026-07-28T19:24:14+08:00",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:c15c81ec44174b35",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T02:23:19.020156+00:00",
           "translationLastCommit": "74349bb6",
           "translationLastModified": "2026-09-24T01:05:06+08:00",
           "inferred": false,
           "footnoteDefs": 63,
-          "bytes": 66985,
+          "bytes": 74760,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -88282,8 +88295,8 @@
           "sourceContentHash": "sha256:98482d1a94d7ac85",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T02:16:17.977965+00:00",
-          "translationLastCommit": "afdf727a",
-          "translationLastModified": "2026-07-27T19:00:44+08:00",
+          "translationLastCommit": "ba9af9ed",
+          "translationLastModified": "2026-09-24T10:57:09+08:00",
           "inferred": false,
           "footnoteDefs": 39,
           "bytes": 63764,
@@ -114238,8 +114251,8 @@
           "sourceContentHash": "sha256:a6a3cf2441fdbe3c",
           "sourceBodyHash": "sha256:0b0d1fd6c8d63d0e",
           "translatedAt": "2026-09-23T22:11:50+08:00",
-          "translationLastCommit": "89b721a3",
-          "translationLastModified": "2026-09-18T21:24:38+08:00",
+          "translationLastCommit": "ba9af9ed",
+          "translationLastModified": "2026-09-24T10:57:09+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "bytes": 51743,
@@ -151936,18 +151949,18 @@
         "en": {
           "path": "en/Food/taiwan-breakfast-culture.md",
           "translatedFrom": "Food/台灣早餐文化.md",
-          "sourceCommitSha": "85926aa3b",
-          "sourceContentHash": "sha256:03f68d8696f5da84",
-          "sourceBodyHash": "sha256:dc5728577e386104",
-          "translatedAt": "2026-05-20T05:08:27+08:00",
+          "sourceCommitSha": "ee6650052",
+          "sourceContentHash": "sha256:499276bde9de600f",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T02:40:21.617224+00:00",
           "translationLastCommit": "d6ea86f0",
           "translationLastModified": "2026-09-22T01:05:30+08:00",
           "inferred": false,
-          "footnoteDefs": 6,
-          "bytes": 18632,
+          "footnoteDefs": 41,
+          "bytes": 58767,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (41→6)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Food/taiwan-breakfast-culture.md",
@@ -184010,11 +184023,11 @@
           "sourceContentHash": "sha256:b78814073b388a83",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T00:59:58.709326+00:00",
-          "translationLastCommit": "afdf727a",
-          "translationLastModified": "2026-07-27T19:00:44+08:00",
+          "translationLastCommit": "ba9af9ed",
+          "translationLastModified": "2026-09-24T10:57:09+08:00",
           "inferred": false,
           "footnoteDefs": 40,
-          "bytes": 57731,
+          "bytes": 57735,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -197469,8 +197482,8 @@
           "sourceContentHash": "sha256:92677747f5c5aca7",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T01:43:52.710987+00:00",
-          "translationLastCommit": "de52e731",
-          "translationLastModified": "2026-09-22T01:05:46+08:00",
+          "translationLastCommit": "ba9af9ed",
+          "translationLastModified": "2026-09-24T10:57:09+08:00",
           "inferred": false,
           "footnoteDefs": 30,
           "bytes": 62606,
