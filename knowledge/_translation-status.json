@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-25T06:04:15+08:00",
-    "zhCommitHead": "b7ccd44af",
+    "lastUpdated": "2026-09-25T06:13:43+08:00",
+    "zhCommitHead": "059426a58",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 1013,
+        "fresh": 1014,
         "stale": 62,
         "metadata_stale": 0,
-        "missing": 49,
+        "missing": 48,
         "orphan": 0
       },
       "ko": {
@@ -76,8 +76,8 @@
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1088,
-        "stale": 14,
+        "fresh": 1089,
+        "stale": 13,
         "metadata_stale": 0,
         "missing": 22,
         "orphan": 0
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1074,
+        "fresh": 1075,
         "stale": 14,
         "metadata_stale": 1,
-        "missing": 35,
+        "missing": 34,
         "orphan": 0
       },
       "de": {
@@ -157127,7 +157127,20 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Food/dandan-hamburger.md",
+          "translatedFrom": "Food/丹丹漢堡.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:74f73b542d15e4ba",
+          "sourceBodyHash": "sha256:c5e18daca97dc004",
+          "translatedAt": "2026-09-25T04:57:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "bytes": 37591,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Food/dandan-hamburger.md",
@@ -162972,20 +162985,18 @@
         "pt": {
           "path": "pt/Food/taiwan-fruit-kingdom.md",
           "translatedFrom": "Food/台灣水果王國.md",
-          "sourceCommitSha": "9bab1acf2",
-          "sourceContentHash": "sha256:9a6d62e64c75b406",
-          "sourceBodyHash": "sha256:4f6e5414cbe29614",
-          "translatedAt": "2026-07-18T18:57:48+08:00",
+          "sourceCommitSha": "813fde2d6",
+          "sourceContentHash": "sha256:e8ef7d9d72df6a42",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T21:56:17.545809+00:00",
           "translationLastCommit": "c64976e8",
           "translationLastModified": "2026-09-22T01:09:03+08:00",
           "inferred": false,
           "footnoteDefs": 40,
-          "bytes": 56112,
+          "bytes": 55159,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Food/taiwan-fruit-kingdom.md",
@@ -163020,7 +163031,20 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Food/taiwan-fruit-kingdom.md",
+          "translatedFrom": "Food/台灣水果王國.md",
+          "sourceCommitSha": "813fde2d6",
+          "sourceContentHash": "sha256:e8ef7d9d72df6a42",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T21:57:37.157623+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 40,
+          "bytes": 84908,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Food/taiwan-fruit-kingdom.md",
