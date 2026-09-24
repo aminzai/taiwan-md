@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-25T01:03:20+08:00",
-    "zhCommitHead": "840f500e8",
+    "lastUpdated": "2026-09-25T01:35:33+08:00",
+    "zhCommitHead": "b2a9b9ae4",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,98 +20,98 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1092,
+        "fresh": 1093,
         "stale": 17,
         "metadata_stale": 0,
-        "missing": 15,
+        "missing": 14,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 1010,
-        "stale": 63,
+        "fresh": 1011,
+        "stale": 62,
         "metadata_stale": 0,
         "missing": 51,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1124,
-        "fresh": 1092,
-        "stale": 22,
+        "fresh": 1093,
+        "stale": 21,
         "metadata_stale": 0,
         "missing": 10,
         "orphan": 0
       },
       "es": {
         "total_zh": 1124,
-        "fresh": 1083,
-        "stale": 28,
+        "fresh": 1085,
+        "stale": 26,
         "metadata_stale": 0,
         "missing": 13,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1084,
-        "stale": 29,
+        "fresh": 1085,
+        "stale": 28,
         "metadata_stale": 0,
         "missing": 11,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 1105,
-        "stale": 11,
+        "fresh": 1106,
+        "stale": 10,
         "metadata_stale": 0,
         "missing": 8,
         "orphan": 0
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 1038,
-        "stale": 32,
+        "fresh": 1039,
+        "stale": 31,
         "metadata_stale": 0,
         "missing": 54,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1080,
-        "stale": 17,
+        "fresh": 1081,
+        "stale": 16,
         "metadata_stale": 0,
         "missing": 27,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 1034,
-        "stale": 19,
+        "fresh": 1036,
+        "stale": 18,
         "metadata_stale": 0,
-        "missing": 71,
+        "missing": 70,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 1056,
-        "stale": 20,
+        "fresh": 1058,
+        "stale": 19,
         "metadata_stale": 0,
-        "missing": 48,
+        "missing": 47,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1066,
+        "fresh": 1067,
         "stale": 20,
         "metadata_stale": 1,
-        "missing": 37,
+        "missing": 36,
         "orphan": 0
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 993,
-        "stale": 3,
+        "fresh": 995,
+        "stale": 2,
         "metadata_stale": 0,
-        "missing": 128,
+        "missing": 127,
         "orphan": 0
       }
     },
@@ -1591,7 +1591,20 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Music/golden-melodies-legacy-taiwan-pop-music.md",
+          "translatedFrom": "Music/台灣流行音樂.md",
+          "sourceCommitSha": "1e1040928",
+          "sourceContentHash": "sha256:4517347444f75a1c",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T17:00:49.551453+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 58,
+          "bytes": 114810,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -4050,20 +4063,18 @@
         "es": {
           "path": "es/Music/megaport-festival.md",
           "translatedFrom": "Music/大港開唱.md",
-          "sourceCommitSha": "717a640b",
-          "sourceContentHash": "sha256:2cde586b88469ed9",
-          "sourceBodyHash": "sha256:db05dfd8f23d6ee9",
-          "translatedAt": "2026-07-23T21:00:00+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:ded0e72872765bab",
+          "sourceBodyHash": "sha256:1dd7ff6902b5f09f",
+          "translatedAt": "2026-09-24T22:04:26+08:00",
           "translationLastCommit": "de52e731",
           "translationLastModified": "2026-09-22T01:05:46+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "bytes": 17673,
+          "bytes": 17309,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Music/megaport-festival.md",
@@ -35376,7 +35387,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Technology/submarine-cables-taiwan-lifeline.md",
+          "translatedFrom": "Technology/海底電纜.md",
+          "sourceCommitSha": "5ff155c10",
+          "sourceContentHash": "sha256:1867ed080d284a4e",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T17:13:38.343388+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 49,
+          "bytes": 44473,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -60746,8 +60770,8 @@
           "sourceContentHash": "sha256:d8c6b002cc3ec35d",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T16:03:22.988617+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d6f1541e",
+          "translationLastModified": "2026-09-25T01:03:21+08:00",
           "inferred": false,
           "footnoteDefs": 41,
           "bytes": 52355,
@@ -74103,8 +74127,8 @@
           "sourceContentHash": "sha256:4a54c99c213cd153",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T16:38:42.378765+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d6f1541e",
+          "translationLastModified": "2026-09-25T01:03:21+08:00",
           "inferred": false,
           "footnoteDefs": 42,
           "bytes": 42727,
@@ -150496,7 +150520,20 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Food/hsinchu-rice-noodles.md",
+          "translatedFrom": "Food/新竹米粉.md",
+          "sourceCommitSha": "1200bee75",
+          "sourceContentHash": "sha256:64f19c58057c504d",
+          "sourceBodyHash": "sha256:0c3fe6ee6329ecfa",
+          "translatedAt": "2026-09-24T22:04:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "bytes": 22444,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Food/hsinchu-rice-noodles.md",
@@ -161261,7 +161298,20 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Food/taiwan-banquet-culture.md",
+          "translatedFrom": "Food/台灣辦桌文化.md",
+          "sourceCommitSha": "26a67c779",
+          "sourceContentHash": "sha256:e2ad095276c4d00c",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T16:53:02.177531+00:00",
+          "translationLastCommit": "f797335b",
+          "translationLastModified": "2026-07-24T18:52:59+08:00",
+          "inferred": false,
+          "footnoteDefs": 33,
+          "bytes": 50694,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Food/taiwan-banquet-culture.md",
@@ -184611,11 +184661,11 @@
           "sourceContentHash": "sha256:b78814073b388a83",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T15:25:54.151386+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d6f1541e",
+          "translationLastModified": "2026-09-25T01:03:21+08:00",
           "inferred": false,
           "footnoteDefs": 40,
-          "bytes": 57499,
+          "bytes": 57503,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -220639,14 +220689,14 @@
           "sourceContentHash": "sha256:641571b11a5e3ea9",
           "sourceBodyHash": "sha256:02baeff9cbce935a",
           "translatedAt": "2026-09-25T00:53:03+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "274bd50b",
+          "translationLastModified": "2026-09-25T01:19:50+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 34020,
+          "footnoteDefs": 59,
+          "bytes": 62908,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (59→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Culture/golden-bell-awards.md",
@@ -220655,14 +220705,14 @@
           "sourceContentHash": "sha256:641571b11a5e3ea9",
           "sourceBodyHash": "sha256:02baeff9cbce935a",
           "translatedAt": "2026-09-25T00:53:03+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bcc6b00b",
+          "translationLastModified": "2026-09-25T01:15:15+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 10786,
+          "footnoteDefs": 59,
+          "bytes": 64153,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (59→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Culture/golden-bell-awards.md",
@@ -220671,14 +220721,14 @@
           "sourceContentHash": "sha256:641571b11a5e3ea9",
           "sourceBodyHash": "sha256:02baeff9cbce935a",
           "translatedAt": "2026-09-25T00:53:03+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "274bd50b",
+          "translationLastModified": "2026-09-25T01:19:50+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 22519,
+          "footnoteDefs": 59,
+          "bytes": 64727,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (59→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Culture/golden-bell-awards.md",
@@ -220687,14 +220737,14 @@
           "sourceContentHash": "sha256:641571b11a5e3ea9",
           "sourceBodyHash": "sha256:02baeff9cbce935a",
           "translatedAt": "2026-09-25T00:53:03+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "274bd50b",
+          "translationLastModified": "2026-09-25T01:19:50+08:00",
           "inferred": false,
-          "footnoteDefs": 45,
-          "bytes": 58821,
+          "footnoteDefs": 59,
+          "bytes": 67467,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (59→45)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Culture/golden-bell-awards.md",
@@ -220703,14 +220753,14 @@
           "sourceContentHash": "sha256:641571b11a5e3ea9",
           "sourceBodyHash": "sha256:02baeff9cbce935a",
           "translatedAt": "2026-09-25T00:53:03+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bcc6b00b",
+          "translationLastModified": "2026-09-25T01:15:15+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 19073,
+          "footnoteDefs": 59,
+          "bytes": 71867,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (59→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Culture/golden-bell-awards.md",
@@ -220719,14 +220769,14 @@
           "sourceContentHash": "sha256:641571b11a5e3ea9",
           "sourceBodyHash": "sha256:02baeff9cbce935a",
           "translatedAt": "2026-09-25T00:53:04+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bcc6b00b",
+          "translationLastModified": "2026-09-25T01:15:15+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 32865,
+          "footnoteDefs": 59,
+          "bytes": 60654,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (59→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Culture/golden-bell-awards.md",
@@ -220735,14 +220785,14 @@
           "sourceContentHash": "sha256:641571b11a5e3ea9",
           "sourceBodyHash": "sha256:02baeff9cbce935a",
           "translatedAt": "2026-09-25T00:53:04+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bcc6b00b",
+          "translationLastModified": "2026-09-25T01:15:15+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 15265,
+          "footnoteDefs": 59,
+          "bytes": 61031,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (59→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Culture/golden-bell-awards.md",
@@ -220751,14 +220801,14 @@
           "sourceContentHash": "sha256:641571b11a5e3ea9",
           "sourceBodyHash": "sha256:02baeff9cbce935a",
           "translatedAt": "2026-09-25T00:53:04+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "274bd50b",
+          "translationLastModified": "2026-09-25T01:19:50+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 46232,
+          "footnoteDefs": 59,
+          "bytes": 132143,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (59→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Culture/golden-bell-awards.md",
@@ -220767,17 +220817,30 @@
           "sourceContentHash": "sha256:641571b11a5e3ea9",
           "sourceBodyHash": "sha256:02baeff9cbce935a",
           "translatedAt": "2026-09-25T00:53:04+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bcc6b00b",
+          "translationLastModified": "2026-09-25T01:15:15+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 21552,
+          "footnoteDefs": 59,
+          "bytes": 89095,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (59→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Culture/golden-bell-awards.md",
+          "translatedFrom": "Culture/金鐘獎.md",
+          "sourceCommitSha": "ff39af227",
+          "sourceContentHash": "sha256:641571b11a5e3ea9",
+          "sourceBodyHash": "sha256:02baeff9cbce935a",
+          "translatedAt": "2026-09-25T00:53:04+08:00",
+          "translationLastCommit": "274bd50b",
+          "translationLastModified": "2026-09-25T01:19:50+08:00",
+          "inferred": false,
+          "footnoteDefs": 59,
+          "bytes": 93667,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Culture/golden-bell-awards.md",
@@ -220786,14 +220849,14 @@
           "sourceContentHash": "sha256:641571b11a5e3ea9",
           "sourceBodyHash": "sha256:02baeff9cbce935a",
           "translatedAt": "2026-09-25T00:53:04+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bcc6b00b",
+          "translationLastModified": "2026-09-25T01:15:15+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 22201,
+          "footnoteDefs": 59,
+          "bytes": 64193,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (59→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
