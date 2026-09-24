@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-24T12:14:27+08:00",
-    "zhCommitHead": "4112d2da0",
+    "lastUpdated": "2026-09-24T12:25:44+08:00",
+    "zhCommitHead": "84da79d5e",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1086,
-        "stale": 23,
+        "fresh": 1087,
+        "stale": 22,
         "metadata_stale": 0,
         "missing": 15,
         "orphan": 0
@@ -44,8 +44,8 @@
       },
       "es": {
         "total_zh": 1124,
-        "fresh": 1074,
-        "stale": 36,
+        "fresh": 1075,
+        "stale": 35,
         "metadata_stale": 0,
         "missing": 14,
         "orphan": 0
@@ -88269,18 +88269,18 @@
         "en": {
           "path": "en/Politics/2026-local-elections-taiwan.md",
           "translatedFrom": "Politics/2026 九合一選舉.md",
-          "sourceCommitSha": "7678a430",
-          "sourceContentHash": "sha256:f2f73e655df4bef5",
-          "sourceBodyHash": "sha256:b17fcd6aed7e9299",
-          "translatedAt": "2026-06-10T16:43:34Z",
+          "sourceCommitSha": "2cbb7955c",
+          "sourceContentHash": "sha256:98482d1a94d7ac85",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T04:03:02.673199+00:00",
           "translationLastCommit": "892cb4ef",
           "translationLastModified": "2026-07-27T18:53:04+08:00",
           "inferred": false,
-          "footnoteDefs": 24,
-          "bytes": 40783,
+          "footnoteDefs": 39,
+          "bytes": 57613,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (39→24)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Politics/2026-local-elections-taiwan.md",
@@ -138541,8 +138541,8 @@
           "sourceContentHash": "sha256:70721e3134a573dc",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T02:57:58.184283+00:00",
-          "translationLastCommit": "8cc6a667",
-          "translationLastModified": "2026-09-18T15:14:09+08:00",
+          "translationLastCommit": "84da79d5",
+          "translationLastModified": "2026-09-24T12:14:27+08:00",
           "inferred": false,
           "footnoteDefs": 41,
           "bytes": 59805,
@@ -188771,20 +188771,18 @@
         "es": {
           "path": "es/Geography/hsinchu-city.md",
           "translatedFrom": "Geography/新竹市.md",
-          "sourceCommitSha": "85634f83b",
-          "sourceContentHash": "sha256:7e6b8ee6fb86d020",
-          "sourceBodyHash": "sha256:be043e8d5036e0e2",
-          "translatedAt": "2026-05-19T05:08:07+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:5b1e9a773d6dbaca",
+          "sourceBodyHash": "sha256:c9f1ea2022062b04",
+          "translatedAt": "2026-09-23T22:11:50+08:00",
           "translationLastCommit": "de52e731",
           "translationLastModified": "2026-09-22T01:05:46+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "bytes": 61603,
+          "bytes": 52940,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+26 -8"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Geography/hsinchu-city.md",
@@ -197566,8 +197564,8 @@
           "sourceContentHash": "sha256:92677747f5c5aca7",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T03:28:12.266911+00:00",
-          "translationLastCommit": "c64976e8",
-          "translationLastModified": "2026-09-22T01:09:03+08:00",
+          "translationLastCommit": "84da79d5",
+          "translationLastModified": "2026-09-24T12:14:27+08:00",
           "inferred": false,
           "footnoteDefs": 30,
           "bytes": 61696,
@@ -208877,8 +208875,8 @@
           "sourceContentHash": "sha256:7fbac409f18267e1",
           "sourceBodyHash": "sha256:7132650f96a1d22a",
           "translatedAt": "2026-09-23T22:11:58+08:00",
-          "translationLastCommit": "2963c50a",
-          "translationLastModified": "2026-07-25T06:18:07+08:00",
+          "translationLastCommit": "84da79d5",
+          "translationLastModified": "2026-09-24T12:14:27+08:00",
           "inferred": false,
           "footnoteDefs": 28,
           "bytes": 62342,
