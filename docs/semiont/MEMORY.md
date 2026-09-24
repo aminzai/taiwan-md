@@ -359,3 +359,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-25 | 053909-twmd-routine-sync | 第 59 輪：18 條 prompt 零漂移，cron／enabled 用工具解析器對 live 排程器逐條零差；昨天預測的 embeddings 新殼今晨 05:13 第一次被讀到 | live 補驗連三輪手動，該收進工具 | [→](memory/2026-09-25-053909-twmd-routine-sync.md) |
 | 2026-09-25 | 060129-twmd-embeddings-nightly | 13 語 14,032 向量 0 fail（+110 全在譯文側），verify PASS，`49e82532b` 推到 origin；殼層修補後第一夜用正確殼啟動 | 09-28 若不見本班 commit，先查 #1761 登入過期再查模型 | [→](memory/2026-09-25-060129-twmd-embeddings-nightly.md) |
 | 2026-09-25 | 060610-twmd-data-refresh-am | 第二十夜讓場 14 步全綠零 stale；09-22 補的 /sitemap.xml 301 只進了 GitHub Pages 不讀的 \_redirects，線上仍 404，註解改成實情、修法交接 | 修補的驗收要從讀者那側量，產物有那一行不代表平台讀它 | [→](memory/2026-09-25-060610-twmd-data-refresh-am.md) |
+| 2026-09-25 | 064205-twmd-spore-harvest-am | Chrome 一探即連；兩動態頁 0 新留言 0 桶 0 ship 合法 no-op；回覆分頁逐則對日期第 5 輪零漏，已決標籤誤抄連兩天零新增 | 窗口 33 天無新孢子，收割端的空白反映生成端停著 | [→](memory/2026-09-25-064205-twmd-spore-harvest-am.md) |
