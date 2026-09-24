@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-25T02:58:45+08:00",
-    "zhCommitHead": "37e43b3e1",
+    "lastUpdated": "2026-09-25T03:19:28+08:00",
+    "zhCommitHead": "042894ea4",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -36,8 +36,8 @@
       },
       "ko": {
         "total_zh": 1124,
-        "fresh": 1094,
-        "stale": 21,
+        "fresh": 1096,
+        "stale": 19,
         "metadata_stale": 0,
         "missing": 9,
         "orphan": 0
@@ -52,8 +52,8 @@
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1087,
-        "stale": 27,
+        "fresh": 1088,
+        "stale": 26,
         "metadata_stale": 0,
         "missing": 10,
         "orphan": 0
@@ -68,18 +68,18 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 1039,
+        "fresh": 1040,
         "stale": 31,
         "metadata_stale": 0,
-        "missing": 54,
+        "missing": 53,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1082,
+        "fresh": 1083,
         "stale": 16,
         "metadata_stale": 0,
-        "missing": 26,
+        "missing": 25,
         "orphan": 0
       },
       "hi": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 996,
+        "fresh": 997,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 126,
+        "missing": 125,
         "orphan": 0
       }
     },
@@ -35393,8 +35393,8 @@
           "sourceContentHash": "sha256:1867ed080d284a4e",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T17:13:38.343388+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "042894ea",
+          "translationLastModified": "2026-09-25T02:58:45+08:00",
           "inferred": false,
           "footnoteDefs": 49,
           "bytes": 44473,
@@ -57854,8 +57854,8 @@
           "sourceContentHash": "sha256:cc5bd7cfca8af637",
           "sourceBodyHash": "sha256:073e34a439566b72",
           "translatedAt": "2026-09-24T22:04:30+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "042894ea",
+          "translationLastModified": "2026-09-25T02:58:45+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "bytes": 40344,
@@ -102358,18 +102358,18 @@
         "fr": {
           "path": "fr/People/yang-dechang.md",
           "translatedFrom": "People/楊德昌.md",
-          "sourceCommitSha": "fa062cc1",
-          "sourceContentHash": "sha256:dd210fd225a73bd3",
-          "sourceBodyHash": "sha256:3f3a71807f18f434",
-          "translatedAt": "2026-05-22T05:08:47+08:00",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:d43bbd945067b97d",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T19:05:38.125983+00:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
-          "footnoteDefs": 6,
-          "bytes": 10817,
+          "footnoteDefs": 92,
+          "bytes": 73917,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (92→6)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/People/yang-dechang.md",
@@ -161460,7 +161460,20 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Food/taiwan-banquet-culture.md",
+          "translatedFrom": "Food/台灣辦桌文化.md",
+          "sourceCommitSha": "26a67c779",
+          "sourceContentHash": "sha256:e2ad095276c4d00c",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T18:52:33.486235+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 33,
+          "bytes": 53238,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Food/taiwan-banquet-culture.md",
@@ -169797,7 +169810,20 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/History/bipartisan-good-policy.md",
+          "translatedFrom": "History/跨黨派的好政策.md",
+          "sourceCommitSha": "e666af3e1",
+          "sourceContentHash": "sha256:165d618ccd73fdcd",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T18:46:14.300708+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 57,
+          "bytes": 75162,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/History/bipartisan-good-policy.md",
@@ -191126,20 +191152,18 @@
         "ko": {
           "path": "ko/Geography/data-taiwan-22-cities.md",
           "translatedFrom": "Geography/用數據看台灣22縣市.md",
-          "sourceCommitSha": "4437f621",
-          "sourceContentHash": "sha256:8f2edc35ffb515e3",
-          "sourceBodyHash": "sha256:1a4463448315b959",
-          "translatedAt": "2026-06-16T17:05:51Z",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:446265901543dd85",
+          "sourceBodyHash": "sha256:2daf1a831ec93084",
+          "translatedAt": "2026-09-25T01:48:19+08:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 29070,
+          "bytes": 28894,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Geography/data-taiwan-22-cities.md",
@@ -191648,7 +191672,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Geography/ximending.md",
+          "translatedFrom": "Geography/西門町.md",
+          "sourceCommitSha": "49728f9d5",
+          "sourceContentHash": "sha256:0ee777992a128197",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T18:43:43.419812+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 33,
+          "bytes": 62213,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -205122,20 +205159,18 @@
         "ko": {
           "path": "ko/Culture/wretch.md",
           "translatedFrom": "Culture/無名小站.md",
-          "sourceCommitSha": "d40e5042",
-          "sourceContentHash": "sha256:1d592674c8a22f46",
-          "sourceBodyHash": "sha256:74e768331f7f3a8b",
-          "translatedAt": "2026-06-16T18:19:09Z",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:bb3880571afae296",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T18:45:29.578184+00:00",
           "translationLastCommit": "0597bc0e",
           "translationLastModified": "2026-07-23T22:29:23+09:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "bytes": 43859,
+          "bytes": 45897,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Culture/wretch.md",

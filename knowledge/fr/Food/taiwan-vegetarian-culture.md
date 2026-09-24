@@ -1,117 +1,123 @@
 ---
 title: 'La culture végétarienne de Taïwan'
-description: "La proportion de population végétarienne à Taïwan se classe parmi les trois premières au monde, de la tradition végétarienne bouddhiste à l'évolution culturelle de l'innovation moderne en matière d'ingrédients végétaux"
+description: "La proportion de végétariens à Taïwan se classe parmi les trois premières au monde, évolution culturelle de la tradition bouddhique à l'innovation moderne des ingrédients végétariens"
 date: 2026-03-19
+category: 'Food'
 tags:
   [
     'végétarisme',
     'bouddhisme',
-    'ingrédients végétaux',
+    'ingrédients végétariens',
     'Tzu Chi',
     'restaurants végétariens',
   ]
 subcategory: '飲食哲學'
 author: 'Taiwan.md'
-readingTime: 8
 featured: false
-category: 'Food'
 lastVerified: 2026-05-16
 lastHumanReview: true
+image: '/article-images/food/taiwanese-vegetarian-sign.webp'
+imageAlt: 'Enseigne de restaurant végétarien taïwanais'
+imageCredit: 'user:takoradee / Wikimedia Commons'
+readingTime: 8
+curation: 'incubating'
 imageLicense: 'CC BY 2.5'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taiwanese_vegetarian_sign.jpg'
 translatedFrom: 'Food/台灣素食文化.md'
-sourceCommitSha: 'd6e87d07'
-sourceContentHash: 'sha256:b6884a554f5b7c89'
-sourceBodyHash: 'sha256:6d448c8add3f1fbd'
-translatedAt: '2026-05-17T05:33:00Z'
-image: '/article-images/food/taiwanese-vegetarian-sign.webp'
-imageCredit: 'user:takoradee / Wikimedia Commons'
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:e050ee2343bbf606'
+sourceBodyHash: 'sha256:ec5fbcb2b471d5c3'
+translatedAt: '2026-09-23T22:11:52+08:00'
 ---
 
 # La culture végétarienne de Taïwan
 
-> **En 30 secondes :** La population végétarienne de Taïwan représente environ 13-14 % (plus de 3 millions de personnes), l'une des plus fortes proportions au monde[^1]. La tradition bouddhiste de la compassion (incluant le « végétalisme pur » qui exclut les cinq alliacées) en est le socle ; après 1949, l'arrivée massive de moines à Taïwan, puis le rayonnement de la Fondation Tzu Chi, ont consolidé la motivation religieuse ; ces dernières années, la conscience sanitaire et environnementale a étendu le végétarisme aux générations plus jeunes. La densité d'environ 6 000 restaurants végétariens dans l'île, les technologies d'« imitations carnées » exportées vers la Chine et l'Asie du Sud-Est, ainsi que la présence de plusieurs restaurants végétariens recommandés par le Guide Michelin, composent un écosystème végétarien à part entière.
+> **Aperçu en 30 secondes :** La proportion de végétariens à Taïwan s'élève à environ 13-14 % (plus de 3 millions de personnes), ce qui en fait l'une des plus élevées au monde[^1]. Fondée sur la discipline bouddhique de compassion (incluant l'interdiction des « cinq épices » du _jing-su_), renforcée par l'arrivée de moines après 1949 et promue par la Fondation Tzu Chi, cette culture a des racines religieuses solides ; ces dernières années, la conscience sanitaire et écologique a étendu le végétarisme aux jeunes générations. La densité d'environ 6 000 restaurants végétariens sur l'île, la technologie des « ingrédients imitatifs » exportée vers la Chine continentale et l'Asie du Sud-Est, ainsi que les recommandations du Guide Michelin pour plusieurs établissements végétariens, constituent ensemble l'écosystème végétarien de Taïwan.
 
-Taïwan est l'une des régions du monde avec la plus forte proportion de population végétarienne : environ 13 à 14 % de la population (plus de 3 millions de personnes) est végétarienne. Ce chiffre se situe parmi les plus élevés au niveau international, et CNN a désigné Taipei comme l'une des « dix villes les plus accueillantes pour les végétariens dans le monde »[^1]. De l'influence profonde de la compassion bouddhiste à l'essor de la conscience sanitaire moderne, la culture végétarienne taïwanaise superpose tradition religieuse et vie contemporaine sur la même table. Le réseau dense de restaurants végétariens et les technologies innovantes en matière d'ingrédients végétaux placent Taïwan au centre de la carte végétarienne mondiale.
+Taïwan est l'une des régions au monde où la proportion de végétariens est la plus élevée, avec environ 13-14 % de la population (plus de 3 millions de personnes) suivant un régime végétarien. Ce ratio figure parmi les plus hauts au niveau international ; la chaîne américaine CNN a d'ailleurs classé Taipei parmi les « dix villes les plus accueillantes pour les végétariens au monde »[^1]. De l'influence profonde de l'esprit de compassion bouddhique à l'élan moderne de la conscience sanitaire, la culture végétarienne de Taïwan superpose tradition religieuse et vie contemporaine sur une même table. Le réseau dense de restaurants végétariens et la technologie innovante des ingrédients végétariens placent Taïwan au cœur de la carte mondiale du végétarisme.
 
-## L'influence profonde de la tradition végétarienne bouddhiste
+## L'influence profonde de la tradition végétarienne bouddhique
 
-Les racines de la culture végétarienne taïwanaise remontent à la tradition bouddhiste. Le précepte de non-violence (_ahimsa_), transmis de l'Inde à la Chine, a donné naissance à une culture végétarienne unique dans le monde sinophone. Après 1949, l'arrivée en masse de moines à Taïwan a renforcé encore davantage l'influence du végétarisme bouddhiste.
+Les racines de la culture végétarienne taïwanaise remontent à la tradition bouddhique. Le précepte bouddhique de non-violence, transmis de l'Inde en Chine, y a développé une culture végétarienne unique. Après 1949, l'arrivée massive de moines à Taïwan a renforcé davantage l'influence du végétarisme bouddhique.
 
-La conception végétarienne du bouddhisme taïwanais est plus stricte que dans d'autres régions bouddhistes. Non seulement la viande est exclue, mais aussi les œufs, les produits laitiers, ainsi que les « cinq alliacées » (_wuxin_) — oignon, ail, poireau, ciboulette et échalote. Ce concept de « végétalisme pur » (_jingsu_) considère que ces ingrédients nuisent à la pratique spirituelle, et les bouddhistes dévots s'y conforment strictement.
+La conception bouddhique taïwanaise du végétarisme est plus stricte que dans d'autres régions bouddhiques. Non seulement la viande est exclue, mais aussi les œufs, les produits laitiers, l'oignon, l'ail, la ciboulette et autres « _wu-xin_ » (五辛, « cinq épices »). Ce concept de _jing-su_ (淨素, « végétarisme pur ») considère que ces ingrédients perturbent la pratique spirituelle ; les bouddhistes dévots les évitent donc rigoureusement.
 
-La Fondation Tzu Chi (_Tzu Chi Gongde Hui_), fondée par la Maître Cheng Yen (_Zhengyan Fashi_), a joué un rôle déterminant dans la promotion de la culture végétarienne à Taïwan. Tzu Chi prône le principe de la « compassion comme fondement » (_ciwei weihuai_), considérant que le végétarisme est la manière la plus directe de mettre la compassion en pratique. Grâce aux activités de bénévolat et au service social, Tzu Chi a diffusé les valeurs végétariennes à une échelle sociétale plus large.
+La Fondation bouddhique Tzu Chi (慈濟功德會), fondée par la Maître Cheng Yen (證嚴法師), a joué un rôle déterminant dans la promotion du végétarisme à Taïwan. Tzu Chi prône l'idéal de « compassion dans le cœur » et considère le végétarisme comme la manière la plus directe de mettre la compassion en pratique. À travers ses activités de bénévolat et son action sociale, Tzu Chi a diffusé l'idée végétarienne à des couches plus larges de la société.
 
-La cuisine végétarienne des temples a également développé un style propre. Le « végétarisme de protection de l'esprit » (_xinling huanbao_) de Dharma Drum Mountain, ou la philosophie culinaire du « bouddhisme humain » (_renjian fojiao_) de Fo Guang Shan, mettent toutes deux l'accent sur une alimentation simple, naturelle et saine. Les restaurants végétariens des lieux de culte constituent souvent la première ligne qui fait entrer la pensée végétarienne dans l'alimentation quotidienne.
+Les cuisines des temples ont également développé leur propre style. La cuisine « écologie de l'esprit » de la Montagne du Tambour de Dharma (法鼓山) et la philosophie culinaire du « bouddhisme humaniste » de la Montagne de la Lumière du Bouddha (佛光山) insistent toutes deux sur une alimentation simple, naturelle et saine. Ces restaurants végétariens situés dans des lieux religieux sont souvent en première ligne pour intégrer le végétarisme dans l'alimentation quotidienne.
 
 ## Une proportion de végétariens parmi les trois premières au monde
 
-Selon les statistiques des instituts d'études de marché, la proportion de la population végétarienne à Taïwan se situe entre 12 et 14 %, ce qui la place dans le monde parmi les trois premiers, derrière certaines régions de l'Inde. Ce chiffre dépasse largement les 2 à 3 % observés dans les pays occidentaux et surpasse également les autres régions asiatiques.
+Selon les enquêtes d'instituts d'études de marché, la proportion de végétariens à Taïwan se situe autour de 12-14 %, se classant dans le top 3 mondial, juste derrière certaines régions de l'Inde. Ce chiffre dépasse largement les 2-3 % observés dans les pays occidentaux et surpasse également les autres régions d'Asie.
 
-Plusieurs facteurs expliquent cette proportion élevée. La motivation religieuse est la principale : environ 60 % des végétariens le sont pour des raisons bouddhistes ou d'autres convictions religieuses. Les considérations de santé représentent 30 %, notamment en raison des crises alimentaires récurrentes qui ont poussé de nombreuses personnes à adopter le végétarisme. La conscience environnementale compte pour environ 10 %, les jeunes générations étant particulièrement sensibles aux droits des animaux et à la protection de l'environnement.
+Cette proportion élevée s'explique par plusieurs facteurs. La conviction religieuse est la motivation principale : environ 60 % des végétariens le sont pour des raisons bouddhiques ou religieuses. Les considérations de santé représentent 30 %, notamment en raison des scandales alimentaires récurrents qui poussent davantage de gens vers le végétarisme. La conscience écologique compte pour environ 10 %, les jeunes générations accordant une importance particulière aux droits des animaux et à la protection de l'environnement.
 
-Fait intéressant, les végétariens taïwanais présentent des profils diversifiés. Il y a les végétaliens stricts (_quansu_), qui ne consomment que des aliments d'origine végétale ; les lacto-ovo-végétariens (_dansu_), qui acceptent les œufs et les produits laitiers ; et les pesco-végétariens (_yusu_), qui consomment du poisson. Cette classification flexible reflète la tolérance de la société taïwanaise envers les différentes formes de végétarisme.
+Il est intéressant de noter la diversité des profils de végétariens taïwanais. Il y a les « végétariens stricts » (_quan-su_, 全素) qui ne consomment que des aliments d'origine végétale ; les « ovo-lacto-végétariens » (_dan-nai-su_, 蛋奶素) qui acceptent œufs et produits laitiers ; et les « pesco-végétariens » (_yu-su_, 魚素) qui mangent du poisson. Cette classification flexible reflète l'inclusivité de la société taïwanaise envers la culture végétarienne.
 
-En termes de répartition par âge, les végétariens d'âge moyen et les personnes âgées sont principalement motivés par la religion, tandis que les jeunes végétariens le sont davantage par des considérations de santé et d'environnement. Cette différenciation générationnelle favorise également le développement pluriel de la culture végétarienne.
+Sur le plan générationnel, les végétariens d'âge mûr ou avancé sont principalement motivés par la religion, tandis que les jeunes le sont davantage par la santé et l'écologie. Cette différence intergénérationnelle stimule aussi le développement pluriel de la culture végétarienne.
 
 ## Un réseau dense de restaurants végétariens
 
-La densité de restaurants végétariens à Taïwan est probablement la plus élevée au monde. Selon les statistiques, le pays compte environ 6 000 restaurants végétariens, soit un restaurant pour environ 4 000 habitants. Dans le centre de Taipei, on trouve un choix végétarien dans presque chaque quartier.
+La densité de restaurants végétariens à Taïwan est sans équivalent mondial. Selon les statistiques, l'île compte environ 6 000 établissements végétariens, soit un restaurant pour 4 000 habitants. Dans les quartiers de Taipei, on trouve presque à chaque coin de rue une option végétarienne.
 
-Ces restaurants végétariens présentent des modèles d'exploitation diversifiés. Le format traditionnel de buffet libre-service reste dominant, offrant un large choix de plats végétariens à des prix abordables. Les restaurants végétariens haut de gamme, quant à eux, misent sur la sophistication, élevant la cuisine végétale au rang d'art.
+Ces restaurants présentent des modèles d'exploitation variés. Le format traditionnel du buffet en libre-service reste dominant, offrant un large choix de plats végétariens à prix abordables. Les restaurants gastronomiques végétariens, eux, misent sur la finesse, élevant la cuisine végétarienne au rang d'art.
 
-Les marchés nocturnes (_yeshi_) et les stands de street food font également partie intégrante de la culture végétarienne. Le _luwei_ végétarien (fondue taïwanaise), le _xiansuji_ végétarien (poulet frit croustillant) et l'_ezhijian_ végétarien (omelette aux huîtres) permettent aux végétariens de profiter pleinement de la culture des marchés nocturnes taïwanais. Cette accessibilité fait passer le végétarisme du « choix d'une minorité » au statut d'option ordinaire dans le quotidien des familles.
+Les marchés de nuit et les étals de rue font aussi partie intégrante de la culture végétarienne. Les _lu-wei_ végétariens (素食滷味), le « poulet » frit végétarien (素食鹹酥雞), l'omelette aux huîtres végétarienne (素食蚵仔煎) permettent aux végétariens de profiter pleinement de la culture des marchés de nuit. Cette accessibilité a fait passer le végétarisme du « choix d'une minorité » à une option quotidienne pour les foyers ordinaires.
 
-L'émergence de marques végétariennes en chaîne a favorisé la standardisation du secteur. Des enseignes renommées telles que Kuan Xin Yuan, Yang Xin Dian et Ci Long Dianxin ont développé des modèles de franchise, diffusant le végétarisme dans davantage de régions.
+L'émergence de chaînes de restaurants végétariens a poussé plus loin la standardisation de la filière. Des marques connues comme Kuan Xin Yuan (寬心園), Yang Xin Dian (養心殿) ou Ci Long Dim Sum (慈龍點心) ont développé des modèles en franchise, diffusant le végétarisme dans davantage de régions.
 
-## L'innovation en ingrédients végétaux : le développement unique de la technologie de viande végétale taïwanaise
+## L'innovation dans les ingrédients : le développement unique de la technologie taïwanaise de « viande végétarienne »
 
-La technologie de fabrication d'ingrédients végétaux de Taïwan est réputée dans le monde entier. Des produits traditionnels comme le tofu et la peau de soja aux substituts modernes de viande et de fruits de mer, la variété des ingrédients végétaux taïwanais est immense, avec des textures riches et complexes.
+La technologie taïwanaise de fabrication d'ingrédients végétariens jouit d'une renommée mondiale. Du tofu et de la peau de soja traditionnels aux viandes et fruits de mer végétariens modernes, les produits taïwanais se distinguent par leur variété et la richesse de leurs textures.
 
-La fabrication traditionnelle d'ingrédients végétaux utilise principalement la protéine de soja, transformée par différents procédés pour créer des textures variées. Les produits tels que le « poulet végétal » (_suji_), le « canard végétal » (_saya_) et le « poisson végétal » (_suyu_) imitent non seulement l'apparence des ingrédients réels, mais s'en rapprochent également en texture et en goût. Ce concept d'« imitation réaliste » est l'une des caractéristiques majeures de la culture des ingrédients végétaux taïwanaise.
+La fabrication traditionnelle repose principalement sur la protéine de soja, transformée par divers procédés pour créer une multitude de textures. Le « poulet », le « canard », le « poisson » végétariens imitent non seulement l'apparence des vrais ingrédients, mais cherchent aussi à en reproduire le goût et la mâche. Ce concept d'« imitation » (_fang-zhen_, 仿真) est une caractéristique majeure de la culture des ingrédients végétariens taïwanais.
 
-Ces dernières années, avec les progrès de la science alimentaire, les fabricants taïwanais ont commencé à utiliser des protéines végétales plus diversifiées, notamment la protéine de blé, la protéine de pois et la protéine fongique. Ces innovations technologiques permettent aux ingrédients végétaux de se rapprocher davantage de la texture de la vraie viande, tout en offrant un profil nutritionnel plus équilibré.
+Ces dernières années, grâce aux progrès de la technologie alimentaire, les industriels taïwanais ont commencé à utiliser des protéines végétales plus diversifiées : protéine de blé, de pois, de champignons, etc. Ces innovations rapprochent la texture des produits de celle de la viande réelle et améliorent leur équilibre nutritionnel.
 
-La technologie taïwanaise en matière d'ingrédients végétaux ne se limite pas au marché intérieur : elle commence également à s'exporter. Des fabricants renommés tels que Uni-President, I-Mei et Songzhen commercialisent leurs produits végétaux en Chine, en Asie du Sud-Est et dans d'autres régions. Cette exportation de savoir-faire permet à Taïwan d'occuper une position clé dans la chaîne d'approvisionnement asiatique des ingrédients végétariens.
+La technologie taïwanaise des ingrédients végétariens ne dessert pas seulement le marché intérieur ; elle s'exporte également. Des groupes connus comme Uni-President (統一), I-Mei (義美) ou Song Zhen (松珍) vendent leurs produits en Chine continentale, en Asie du Sud-Est et ailleurs. Cette exportation technologique place Taïwan en position de fournisseur clé dans l'industrie asiatique des ingrédients végétariens.
 
-## Les arguments sanitaires et environnementaux du végétarisme contemporain
+## Les arguments santé et écologie du végétarisme moderne
 
-Avec la montée de la conscience sanitaire, un nombre croissant de personnes choisissent le végétarisme pour des raisons de santé. Des études montrent qu'un régime végétarien approprié peut réduire le risque de maladies cardiovasculaires, de diabète et d'autres maladies chroniques. Ces bienfaits pour la santé ont transformé le végétarisme, passant d'un choix religieux à un véritable mode de vie.
+Avec la montée de la conscience sanitaire, de plus en plus de personnes adoptent le végétarisme pour des raisons de santé. Des études montrent qu'un régime végétarien bien conduit peut réduire les risques de maladies cardiovasculaires, de diabète et d'autres pathologies chroniques. Ces bénéfices transforment le végétarisme d'un choix religieux en un mode de vie.
 
-La conscience environnementale est également un facteur important de développement du végétarisme. L'élevage produit environ 14,5 % des émissions mondiales de gaz à effet de serre, et adopter un régime végétarien est considéré comme un moyen efficace de réduire son empreinte carbone individuelle. De nombreux jeunes se tournent vers le végétarisme sur la base de convictions écologiques.
+La conscience écologique est un autre moteur important. L'élevage génère environ 14,5 % des émissions mondiales de gaz à effet de serre ; choisir le végétarisme est considéré comme un moyen efficace pour un individu de réduire son empreinte carbone. De nombreux jeunes commencent à expérimenter le végétarisme par conviction écologique.
 
-Le concept de « flexitarisme » (_flexitarianism_) gagne également en popularité. Ces personnes ne sont pas entièrement végétariennes, mais réduisent délibérément leur consommation de viande toutement en augmentant la part des aliments végétaux. Cette approche flexible encourage davantage de personnes à essayer un mode de vie végétarien.
+Le concept de « flexitarisme » gagne aussi du terrain. Ces personnes ne sont pas totalement végétariennes, mais réduisent délibérément leur consommation de viande au profit des végétaux. Cette approche souple incite un public plus large à essayer le mode de vie végétarien.
 
-L'essor des réseaux sociaux a également favorisé la diffusion de la culture végétarienne. Les photos soignées de plats végétariens, le partage de recettes saines et la promotion des valeurs écologiques se propagent via les plateformes numériques. Les jeunes générations découvrent la culture végétarienne à travers ces canaux, créant de nouvelles tendances de consommation.
+L'essor des réseaux sociaux propage également la culture végétarienne. Photos alléchantes de plats végétariens, partage de recettes saines, promotion d'idéaux écologiques circulent sur les plateformes numériques, élargissant l'influence. La jeune génération découvre la culture végétarienne par ces canaux, créant de nouvelles tendances de consommation.
 
-## Le raffinement de la cuisine végétarienne
+## L'affinement de la cuisine végétarienne
 
-La cuisine végétarienne traditionnelle est souvent perçue comme monotone et fade, mais les chefs végétariens contemporains sont en train de changer cette image. Grâce à un savoir-faire culinaire raffiné et à la créativité, ils élèvent la cuisine végétarienne à un nouveau niveau.
+La cuisine végétarienne traditionnelle souffre souvent d'une image de monotonie, mais les chefs végétariens contemporains changent cette perception. Par leur maîtrise technique et leur créativité, ils portent la cuisine végétarienne à de nouveaux sommets.
 
-Dans l'édition du Guide Michelin consacrée à Taipei, plusieurs restaurants végétariens ont été recommandés, témoignant du niveau de sophistication atteint par la cuisine végétarienne. Ces restaurants offrent non seulement une cuisine végétarienne savoureuse, mais proposent également une expérience gastronomique complète.
+Le Guide Michelin Taipei recommande plusieurs restaurants végétariens, attestant du niveau de raffinement atteint. Ces établissements n'offrent pas seulement de délicieux plats végétariens ; ils créent une expérience gastronomique complète.
 
-Les techniques de cuisine moléculaire sont également appliquées à la cuisine végétarienne. Grâce à diverses méthodes de cuisson innovantes, les chefs parviennent à créer des textures et des effets visuels inédits. Cette innovation technologique permet à la cuisine végétarienne de surprendre et de faire preuve de créativité.
+Les techniques de cuisine moléculaire s'appliquent aussi au végétarien. Par diverses méthodes de cuisson innovantes, les chefs créent des textures et des effets visuels inédits. Cette innovation technique permet à la cuisine végétarienne de surprendre et d'inventer.
 
-Dans l'édition du Guide Michelin consacrée à Taipei, plusieurs restaurants végétariens ont été recommandés, témoignant du niveau de sophistication atteint par la cuisine végétarienne. Ces restaurants offrent non seulement une cuisine végétarienne savoureuse, mais proposent également une expérience gastronomique complète.
+Le Guide Michelin Taipei recommande plusieurs restaurants végétariens, attestant du niveau de raffinement atteint. Ces établissements n'offrent pas seulement de délicieux plats végétariens ; ils créent une expérience gastronomique complète.
 
 ## Défis et perspectives d'avenir
 
-Malgré le dynamisme de la culture végétarienne taïwanaise, certains défis subsistent. L'équilibre nutritionnel reste la principale préoccupation : de nombreux végétariens présentent des carences en vitamine B12, en fer et d'autres nutriments essentiels. Les professionnels du secteur et les nutritionnistes doivent promouvoir plus activement une connaissance nutritionnelle correcte du végétarisme.
+Malgré l'essor de la culture végétarienne taïwanaise, des défis subsistent. L'équilibre nutritionnel est le principal : de nombreux végétariens manquent de vitamine B12, de fer et d'autres nutriments. Industriels et nutritionnistes doivent promouvoir plus activement les connaissances nutritionnelles adaptées au végétarisme.
 
-La sécurité alimentaire est également un enjeu important. Certains produits végétaux, dans la quête de texture et d'appétence, contiennent des additifs en quantité excessive. Comment garantir à la fois la sécurité alimentaire et le caractère naturel et sain des produits, tout en préservant leur saveur, est une question à laquelle l'industrie doit réfléchir.
+La sécurité alimentaire est un autre enjeu majeur. Certains produits végétariens, pour imiter le goût et l'apparence de la viande, recourent à une quantité excessive d'additifs. Comment garantir sécurité et naturalité tout en préservant la saveur est une question que la filière doit résoudre.
 
-À partir de 2024, la viande artificielle et la viande de culture cellulaire entrent successivement dans leur phase de commercialisation. L'accumulation taïwanaise dans la fabrication d'ingrédients végétaux (Uni-President, I-Mei, Songzhen), le végétarisme religieux (Tzu Chi, Fo Guang Shan) et le végétarisme de la vie quotidienne (chaînes, versions végétariennes des plats de marché nocturne) déterminera son rôle dans cette mutation globale : exportateur de technologies, marché récepteur, ou position hybride entre les deux. Deux points d'observation pour 2026 : la viande artificielle parviendra-t-elle à pénétrer les grands réseaux de chaînes ? Et la part de la jeune population végétarienne continuera-t-elle de croître ?
+Depuis 2024, la viande artificielle et la viande cultivée entrent progressivement dans la phase de commercialisation. L'accumulation de longue date de Taïwan dans la fabrication d'ingrédients végétariens (Uni-President, I-Mei, Song Zhen), le végétarisme religieux (Tzu Chi, Montagne de la Lumière du Bouddha) et le végétarisme de vie courante (marques en franchise, versions végétariennes des marchés de nuit) déterminera son rôle dans cette mutation mondiale : exportateur de technologies, marché récepteur, ou position hybride entre les deux. Les points d'observation pour 2026 sont deux : la viande artificielle parviendra-t-elle à pénétrer les circuits de distribution grand public, et la proportion de jeunes végétariens continuera-t-elle de croître.
 
-## Pour aller plus loin
+## Lectures complémentaires
 
-- [Religion et culture des temples à Taïwan](/fr/culture/taiwan-religion-and-temple-culture) — Contexte religieux de la tradition végétarienne bouddhiste et rôle des réfectoires de temple dans la culture alimentaire
-- [Culture du petit-déjeuner taïwanais](/fr/food/taiwan-breakfast-culture) — Crêpes aux œufs, lait de soja, galettes : les versions végétariennes sont devenues des options standard du petit-déjeuner taïwanais
-- [Industrie taïwanaise des technologies alimentaires](/technology/台灣食品科技產業) — Contexte technologique et industriel des « imitations carnées »
+- [Culture religieuse et des temples de Taïwan](/fr/culture/taiwan-religion-and-temple-culture) — Contexte religieux du végétarisme bouddhique et rôle des cantines de temples dans la culture alimentaire
+- [Culture du petit-déjeuner à Taïwan](/fr/food/taiwan-breakfast-culture) — Les versions végétariennes de l'omelette roulée, du lait de soja, du pain cuit au four sont devenues des options standard du petit-déjeuner taïwanais
+- [Industrie taïwanaise de la technologie alimentaire](/technology/台灣食品科技產業) — Contexte technologique et industriel de la technologie des ingrédients imitatifs
+
+## Sources des images
+
+- Image d'en-tête : Enseigne de restaurant végétarien taïwanais, photographe user:takoradee, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taiwanese_vegetarian_sign.jpg), CC BY 2.5.
 
 ## Références
 
-[^1]: [CNN Travel : Les dix villes les plus accueillantes pour les végétariens — Taipei sélectionnée](http://www.cnn.com/travel/article/best-vegetarian-friendly-cities/index.html) — CNN Travel : Les dix villes les plus accueillantes pour les végétariens — Taipei sélectionnée
+[^1]: [CNN Travel : Les dix villes les plus accueillantes pour les végétariens au monde — Taipei sélectionnée](http://www.cnn.com/travel/article/best-vegetarian-friendly-cities/index.html) — CNN Travel : Les dix villes les plus accueillantes pour les végétariens au monde — Taipei sélectionnée
 
-[^3]: [Études sur la culture bouddhiste : Définition des cinq alliacées et tradition des interdits](https://zh.wikipedia.org/zh-tw/%E4%BA%94%E8%BE%9B) — Études sur la culture bouddhiste : Définition des cinq alliacées et tradition des interdits
+[^3]: [Recherche sur la culture bouddhique : Définition et tradition d'interdiction des cinq épices](https://zh.wikipedia.org/zh-tw/%E4%BA%94%E8%BE%9B) — Recherche sur la culture bouddhique : Définition et tradition d'interdiction des cinq épices
 
-[^5]: [Agence des produits alimentaires et pharmaceutiques de Taïwan : Guide sur l'étiquetage des aliments végétariens préemballés](https://www.fda.gov.tw/TC/siteContent.aspx?sid=1658) — Agence des produits alimentaires et pharmaceutiques de Taïwan : Guide sur l'étiquetage des aliments végétariens préemballés
+[^5]: [Administration des aliments et médicaments du Ministère de la Santé et du Bien-être : Guide des règlements d'étiquetage des aliments préemballés végétariens](https://www.fda.gov.tw/TC/siteContent.aspx?sid=1658) — Administration des aliments et médicaments du Ministère de la Santé et du Bien-être : Guide des règlements d'étiquetage des aliments préemballés végétariens
