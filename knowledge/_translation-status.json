@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-25T01:41:59+08:00",
-    "zhCommitHead": "d652eb7fa",
+    "lastUpdated": "2026-09-25T01:57:42+08:00",
+    "zhCommitHead": "c203fe148",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1124,
-        "fresh": 1093,
+        "fresh": 1094,
         "stale": 21,
         "metadata_stale": 0,
-        "missing": 10,
+        "missing": 9,
         "orphan": 0
       },
       "es": {
@@ -52,16 +52,16 @@
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1085,
-        "stale": 28,
+        "fresh": 1086,
+        "stale": 27,
         "metadata_stale": 0,
         "missing": 11,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 1106,
-        "stale": 10,
+        "fresh": 1107,
+        "stale": 9,
         "metadata_stale": 0,
         "missing": 8,
         "orphan": 0
@@ -84,8 +84,8 @@
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 1036,
-        "stale": 18,
+        "fresh": 1037,
+        "stale": 17,
         "metadata_stale": 0,
         "missing": 70,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 995,
+        "fresh": 996,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 127,
+        "missing": 126,
         "orphan": 0
       }
     },
@@ -57835,7 +57835,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/becoming-a-teacher-taiwan-teacher-training.md",
+          "translatedFrom": "Society/一個教師的誕生：台灣師資培育制度.md",
+          "sourceCommitSha": "bb059332d",
+          "sourceContentHash": "sha256:cc5bd7cfca8af637",
+          "sourceBodyHash": "sha256:073e34a439566b72",
+          "translatedAt": "2026-09-24T22:04:30+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "bytes": 40344,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -73240,7 +73253,20 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Society/academia-sinica.md",
+          "translatedFrom": "Society/中央研究院.md",
+          "sourceCommitSha": "6fbe01217",
+          "sourceContentHash": "sha256:718e4da0518930ba",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T17:25:22.601374+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 57,
+          "bytes": 71866,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "status": "missing"
@@ -99995,11 +100021,11 @@
           "sourceContentHash": "sha256:2bd311f3a1309672",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T16:00:36.172686+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c203fe14",
+          "translationLastModified": "2026-09-25T01:41:59+08:00",
           "inferred": false,
           "footnoteDefs": 30,
-          "bytes": 59668,
+          "bytes": 59672,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -126465,20 +126491,18 @@
         "hi": {
           "path": "hi/People/lin-chi-wei-social-innovator.md",
           "translatedFrom": "People/林啟維.md",
-          "sourceCommitSha": "cfaa22a5d",
-          "sourceContentHash": "sha256:82817fc4c48a612b",
-          "sourceBodyHash": "sha256:5e2c0e25dde8c071",
-          "translatedAt": "2026-07-29T00:26:15+08:00",
+          "sourceCommitSha": "4f3974f86",
+          "sourceContentHash": "sha256:50a3b31b4cb61eed",
+          "sourceBodyHash": "sha256:e893f57da90167f4",
+          "translatedAt": "2026-09-24T17:45:08.884554+00:00",
           "translationLastCommit": "caea4fab",
           "translationLastModified": "2026-07-29T02:34:42+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "bytes": 41864,
+          "bytes": 42480,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/lin-chi-wei-social-innovator.md",
@@ -142510,8 +142534,8 @@
           "sourceContentHash": "sha256:7a0754dc62002a77",
           "sourceBodyHash": "sha256:f80ea3550618f493",
           "translatedAt": "2026-09-24T22:04:30+08:00",
-          "translationLastCommit": "cb57a18e",
-          "translationLastModified": "2026-08-04T19:15:08+08:00",
+          "translationLastCommit": "c203fe14",
+          "translationLastModified": "2026-09-25T01:41:59+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "bytes": 46405,
@@ -151456,18 +151480,18 @@
         "fr": {
           "path": "fr/Food/taiwan-vegetarian-culture.md",
           "translatedFrom": "Food/台灣素食文化.md",
-          "sourceCommitSha": "d6e87d07",
-          "sourceContentHash": "sha256:b6884a554f5b7c89",
-          "sourceBodyHash": "sha256:6d448c8add3f1fbd",
-          "translatedAt": "2026-05-17T05:33:00Z",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:e050ee2343bbf606",
+          "sourceBodyHash": "sha256:ec5fbcb2b471d5c3",
+          "translatedAt": "2026-09-23T22:11:52+08:00",
           "translationLastCommit": "677cd01d",
           "translationLastModified": "2026-09-22T01:05:52+08:00",
           "inferred": false,
           "footnoteDefs": 3,
-          "bytes": 16031,
+          "bytes": 15411,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Food/taiwan-vegetarian-culture.md",
@@ -152136,8 +152160,8 @@
           "sourceContentHash": "sha256:9939199675a5453a",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T16:20:19.132967+00:00",
-          "translationLastCommit": "dabd4fef",
-          "translationLastModified": "2026-09-22T18:13:40+08:00",
+          "translationLastCommit": "c203fe14",
+          "translationLastModified": "2026-09-25T01:41:59+08:00",
           "inferred": false,
           "footnoteDefs": 37,
           "bytes": 46415,
@@ -187597,18 +187621,18 @@
         "vi": {
           "path": "vi/Geography/taiwan-agricultural-landscapes-and-industry-belts.md",
           "translatedFrom": "Geography/台灣農業地景與產業分布.md",
-          "sourceCommitSha": "f712b724",
-          "sourceContentHash": "sha256:0407ac15b1209c04f0a1a7c2d3b4e5f6",
-          "sourceBodyHash": "sha256:92c2111bcaaae7c8a9d0e1f2g3h4i5j6",
-          "translatedAt": "2026-07-31T00:00:00Z",
+          "sourceCommitSha": "b349895a3",
+          "sourceContentHash": "sha256:88ba75169cfa45ae",
+          "sourceBodyHash": "sha256:9f28d4872bf9c477",
+          "translatedAt": "2026-09-23T22:11:54+08:00",
           "translationLastCommit": "502c9338",
           "translationLastModified": "2026-08-01T00:13:09+08:00",
           "inferred": false,
-          "footnoteDefs": 6,
-          "bytes": 16981,
+          "footnoteDefs": 11,
+          "bytes": 16576,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (11→6)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Geography/taiwan-agricultural-landscapes-and-industry-belts.md",
