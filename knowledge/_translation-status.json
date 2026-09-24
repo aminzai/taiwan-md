@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-25T01:57:42+08:00",
-    "zhCommitHead": "c203fe148",
+    "lastUpdated": "2026-09-25T02:21:23+08:00",
+    "zhCommitHead": "13651e00b",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 1011,
+        "fresh": 1012,
         "stale": 62,
         "metadata_stale": 0,
-        "missing": 51,
+        "missing": 50,
         "orphan": 0
       },
       "ko": {
@@ -100,8 +100,8 @@
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1067,
-        "stale": 20,
+        "fresh": 1068,
+        "stale": 19,
         "metadata_stale": 1,
         "missing": 36,
         "orphan": 0
@@ -1735,14 +1735,14 @@
           "path": "vi/Music/taiwan-hakka-music-from-mountain-songs-to-rock.md",
           "translatedFrom": "Music/台灣客家音樂.md",
           "sourceCommitSha": "0f8fae0ae",
-          "sourceContentHash": "sha256:a1abbcd1a1bce08a",
-          "sourceBodyHash": "sha256:ffa289d8ac5acb30",
-          "translatedAt": "2026-09-21T00:58:30+08:00",
+          "sourceContentHash": "sha256:c683269655bc3d87",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T17:52:35.136146+00:00",
           "translationLastCommit": "87e51b24",
           "translationLastModified": "2026-09-24T00:54:01+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "bytes": 15763,
+          "bytes": 14818,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -19402,8 +19402,8 @@
           "sourceContentHash": "sha256:012f47b06c66bfb9",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T16:13:43.514855+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "13651e00",
+          "translationLastModified": "2026-09-25T01:57:42+08:00",
           "inferred": false,
           "footnoteDefs": 64,
           "bytes": 66604,
@@ -194931,7 +194931,20 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Geography/ankeng-light-rail.md",
+          "translatedFrom": "Geography/安坑輕軌.md",
+          "sourceCommitSha": "c1f6836ca",
+          "sourceContentHash": "sha256:7f5850e64dc6fc40",
+          "sourceBodyHash": "sha256:201a3e94e3e4fbf2",
+          "translatedAt": "2026-09-25T01:48:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "bytes": 28111,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Geography/ankeng-light-rail.md",
@@ -209564,18 +209577,18 @@
         "ru": {
           "path": "ru/Culture/taiwan-vtuber.md",
           "translatedFrom": "Culture/台灣VTuber.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:3f59bb70f08b3142",
-          "sourceBodyHash": "sha256:6a92a5ddcde70c30",
-          "translatedAt": "2026-07-25T09:23:19+08:00",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:7fbac409f18267e1",
+          "sourceBodyHash": "sha256:7132650f96a1d22a",
+          "translatedAt": "2026-09-25T01:48:23+08:00",
           "translationLastCommit": "9d4f7166",
           "translationLastModified": "2026-07-25T10:40:03+08:00",
           "inferred": false,
-          "footnoteDefs": 15,
-          "bytes": 35316,
+          "footnoteDefs": 28,
+          "bytes": 97566,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (28→15)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
