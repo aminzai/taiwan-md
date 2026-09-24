@@ -213,6 +213,37 @@ def check_track_record(days: int = 2) -> dict:
                     "不要靠加大重試（同一個弱適配再燒一次算力）" if weak else "無明顯弱適配"}
 
 
+def check_slug_registration() -> dict:
+    """純中文檔名、還沒有任何語言譯文、也沒登記在 `_slug-map.json` 的母稿。
+
+    為什麼放在 preflight（2026-09-25）：這種文章 prepare-batch 的 ASCII fallback
+    只吐得出空字串（TBD-NEEDS-SLUG），dispatcher 十二語同時跳過，每輪在 master.log
+    印一行警告而已。09-13（46 篇）、09-14（150 篇）、09-25（金鐘獎／油價機制／
+    誰算低薪，卡六天、警告印了 133 次）三次都是當班碰巧翻 log 才發現。preflight 是
+    每一班 babel 的第一個指令，缺口放在這裡就不必靠碰巧。判準照抄
+    `babel-dispatch.build_slug_map` 與 `prepare-batch` 的 fallback，不另訂一套。
+    """
+    knowledge = REPO / "knowledge"
+    try:
+        from langs import ALL_TRANSLATION_LANGS
+        trans = json.loads((knowledge / "_translations.json").read_text(encoding="utf-8"))
+        curated = json.loads((knowledge / "_slug-map.json").read_text(encoding="utf-8"))
+    except Exception as e:  # noqa: BLE001 — 自檢工具不因讀檔失敗中斷
+        return {"available": False, "error": str(e)}
+    has_slug = {z for k, z in trans.items() if "TBD-NEEDS-SLUG" not in k} | set(curated)
+    unslugged = []
+    for p in sorted(knowledge.glob("*/*.md")):
+        cat = p.parent.name
+        if cat in ALL_TRANSLATION_LANGS or cat.startswith("_") or p.name.startswith("_"):
+            continue
+        zh = f"{cat}/{p.name}"
+        stem = p.stem.lower().replace(" ", "-")
+        ascii_fallback = "".join(c for c in stem if c.isascii() and (c.isalnum() or c == "-"))
+        if zh not in has_slug and not ascii_fallback:
+            unslugged.append(zh)
+    return {"available": True, "unslugged": unslugged}
+
+
 def check_codex() -> dict:
     path = shutil.which("codex")
     if not path:
@@ -236,6 +267,7 @@ def main():
         "fleet": check_fleet(),
         "codex": check_codex(),
         "track_record": check_track_record(),
+        "slug_registration": check_slug_registration(),
     }
     report["pool_eligibility"] = check_pool_eligibility(report["ollama"])
     tiers_up = sum(1 for k in ("openrouter", "ollama", "fleet", "codex")
@@ -286,6 +318,15 @@ def main():
             print(f"   ✅ 實績檢查  近兩日 {tr['samples']} 筆，無明顯弱適配")
         print(f"   {'✅' if cx.get('available') else '➖'} codex      "
               f"{cx.get('version') or cx.get('hint')}")
+        sr = report["slug_registration"]
+        if sr.get("unslugged"):
+            n = len(sr["unslugged"])
+            print(f"   ⚠️ 缺 slug    {n} 篇新母稿沒有 slug，十二語都排不進佇列："
+                  + "、".join(sr["unslugged"][:3]) + ("…" if n > 3 else ""))
+            print("      → slug-suggest.py 產生後人工核對，合進 knowledge/_slug-map.json"
+                  "（dispatcher 每輪重讀，不必重啟）")
+        elif sr.get("available"):
+            print("   ✅ slug 登記  每篇母稿都排得進佇列")
         if report["verdict"] != "healthy":
             print("\n   ⚠️ 算力層缺席會讓 babel 靜默降級（產能掉但 log 看起來正常）。"
                   "\n      缺 key → 只跑本機模型；缺 ollama → 只跑雲端且無主權捕手。")
