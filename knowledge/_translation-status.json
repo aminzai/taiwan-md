@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-24T17:16:11+08:00",
-    "zhCommitHead": "3b4634f97",
+    "lastUpdated": "2026-09-24T17:35:51+08:00",
+    "zhCommitHead": "a7a462688",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -44,16 +44,16 @@
       },
       "es": {
         "total_zh": 1124,
-        "fresh": 1078,
-        "stale": 32,
+        "fresh": 1079,
+        "stale": 31,
         "metadata_stale": 0,
         "missing": 14,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1081,
-        "stale": 30,
+        "fresh": 1082,
+        "stale": 29,
         "metadata_stale": 0,
         "missing": 13,
         "orphan": 0
@@ -92,8 +92,8 @@
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 1051,
-        "stale": 21,
+        "fresh": 1052,
+        "stale": 20,
         "metadata_stale": 0,
         "missing": 52,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 986,
+        "fresh": 987,
         "stale": 3,
         "metadata_stale": 0,
-        "missing": 135,
+        "missing": 134,
         "orphan": 0
       }
     },
@@ -38377,18 +38377,18 @@
         "es": {
           "path": "es/Art/paper-windmill-theater.md",
           "translatedFrom": "Art/紙風車劇團.md",
-          "sourceCommitSha": "088a688b2",
-          "sourceContentHash": "sha256:dac39dc01ba71011",
-          "sourceBodyHash": "sha256:dece40987a4bedea",
-          "translatedAt": "2026-06-17T00:36:20+08:00",
+          "sourceCommitSha": "fd35815e1",
+          "sourceContentHash": "sha256:bcce97e3493eec98",
+          "sourceBodyHash": "sha256:c5eb598a94be9567",
+          "translatedAt": "2026-09-23T22:11:50+08:00",
           "translationLastCommit": "740160f9",
           "translationLastModified": "2026-06-17T01:21:28+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 22076,
+          "footnoteDefs": 17,
+          "bytes": 18566,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (17→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Art/paper-windmill-theater.md",
@@ -71305,7 +71305,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/taiwan-rural-education.md",
+          "translatedFrom": "Society/台灣偏鄉教育.md",
+          "sourceCommitSha": "4d620ce7b",
+          "sourceContentHash": "sha256:1277fc2755a587fc",
+          "sourceBodyHash": "sha256:64665163579f4d98",
+          "translatedAt": "2026-09-23T22:12:06+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "bytes": 20764,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -161130,8 +161143,8 @@
           "sourceContentHash": "sha256:e2ad095276c4d00c",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T07:25:02.736601+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a7a46268",
+          "translationLastModified": "2026-09-24T17:16:11+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "bytes": 113341,
@@ -161231,20 +161244,18 @@
         "fr": {
           "path": "fr/Food/hakka-food-culture.md",
           "translatedFrom": "Food/客家飲食文化.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:3122286a1056f9c8",
-          "sourceBodyHash": "sha256:dacc006277fbf01a",
-          "translatedAt": "2026-05-24T05:06:33+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:3b6b12dd06856da0",
+          "sourceBodyHash": "sha256:1006124334926615",
+          "translatedAt": "2026-09-23T22:11:52+08:00",
           "translationLastCommit": "677cd01d",
           "translationLastModified": "2026-09-22T01:05:52+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "bytes": 16660,
+          "bytes": 16695,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+14 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Food/hakka-food-culture.md",
@@ -187823,15 +187834,15 @@
         "id": {
           "path": "id/Geography/yushan-weather-station.md",
           "translatedFrom": "Geography/玉山氣象站.md",
-          "sourceCommitSha": "4f3974f8",
-          "sourceContentHash": "sha256:c2ed56f9f5f0e381",
-          "sourceBodyHash": "sha256:522eab501e4df7fe",
-          "translatedAt": "2026-09-09T15:32:33+08:00",
+          "sourceCommitSha": "4f3974f86",
+          "sourceContentHash": "sha256:51557b2ea91dd853",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T09:11:34.481355+00:00",
           "translationLastCommit": "74349bb6",
           "translationLastModified": "2026-09-24T01:05:06+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "bytes": 35632,
+          "bytes": 35957,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -194057,20 +194068,18 @@
         "ar": {
           "path": "ar/Geography/taichung-metro.md",
           "translatedFrom": "Geography/台中捷運.md",
-          "sourceCommitSha": "65acd39dc",
-          "sourceContentHash": "sha256:930e1cf08d9847c7",
-          "sourceBodyHash": "sha256:ac8494ae079b5eb8",
-          "translatedAt": "2026-09-11T05:40:18+08:00",
+          "sourceCommitSha": "d9ef16d5e",
+          "sourceContentHash": "sha256:9851afbe3b082508",
+          "sourceBodyHash": "sha256:9e4ce2561244c6a9",
+          "translatedAt": "2026-09-24T09:33:33.492324+00:00",
           "translationLastCommit": "e0d888ab",
           "translationLastModified": "2026-09-22T01:04:14+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 39817,
+          "bytes": 40274,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Geography/taichung-metro.md",
