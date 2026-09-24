@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-24T22:13:57+08:00",
-    "zhCommitHead": "b11d1eea3",
+    "lastUpdated": "2026-09-24T22:26:20+08:00",
+    "zhCommitHead": "fc0e4b468",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -52,10 +52,10 @@
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1083,
+        "fresh": 1084,
         "stale": 28,
         "metadata_stale": 0,
-        "missing": 13,
+        "missing": 12,
         "orphan": 0
       },
       "vi": {
@@ -17987,8 +17987,8 @@
           "sourceContentHash": "sha256:9bdb791d8649c130",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T12:35:01.142855+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fc0e4b46",
+          "translationLastModified": "2026-09-24T22:13:57+08:00",
           "inferred": false,
           "footnoteDefs": 30,
           "bytes": 95029,
@@ -21838,8 +21838,8 @@
           "sourceContentHash": "sha256:972cf4aaa92341f0",
           "sourceBodyHash": "sha256:b76f31d5c89bcc16",
           "translatedAt": "2026-09-23T22:12:00+08:00",
-          "translationLastCommit": "e89520f0",
-          "translationLastModified": "2026-09-14T10:24:11+08:00",
+          "translationLastCommit": "fc0e4b46",
+          "translationLastModified": "2026-09-24T22:13:57+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "bytes": 61172,
@@ -51050,7 +51050,20 @@
           "status": "missing"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Lifestyle/taiwan-street-trees.md",
+          "translatedFrom": "Lifestyle/台灣行道樹.md",
+          "sourceCommitSha": "40374bb7c",
+          "sourceContentHash": "sha256:e67ede9cedeaf7ed",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T14:08:19.470580+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 72,
+          "bytes": 106254,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Lifestyle/taiwan-street-trees.md",
