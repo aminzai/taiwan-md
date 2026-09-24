@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-24T17:35:51+08:00",
-    "zhCommitHead": "a7a462688",
+    "lastUpdated": "2026-09-24T17:45:26+08:00",
+    "zhCommitHead": "2a677e297",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1091,
-        "stale": 18,
+        "fresh": 1092,
+        "stale": 17,
         "metadata_stale": 0,
         "missing": 15,
         "orphan": 0
@@ -36,8 +36,8 @@
       },
       "ko": {
         "total_zh": 1124,
-        "fresh": 1085,
-        "stale": 25,
+        "fresh": 1087,
+        "stale": 23,
         "metadata_stale": 0,
         "missing": 14,
         "orphan": 0
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 1052,
+        "fresh": 1053,
         "stale": 20,
         "metadata_stale": 0,
-        "missing": 52,
+        "missing": 51,
         "orphan": 0
       },
       "ru": {
@@ -108,8 +108,8 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 987,
-        "stale": 3,
+        "fresh": 988,
+        "stale": 2,
         "metadata_stale": 0,
         "missing": 134,
         "orphan": 0
@@ -19808,18 +19808,18 @@
         "de": {
           "path": "de/Economy/agricultural-technology-and-refined-agriculture.md",
           "translatedFrom": "Economy/農業科技與精緻農業.md",
-          "sourceCommitSha": "369298aba",
-          "sourceContentHash": "sha256:19b72b95becb40d7",
-          "sourceBodyHash": "sha256:966a2693a6cccc59",
-          "translatedAt": "2026-09-12T12:53:10+08:00",
+          "sourceCommitSha": "83cd5d0f3",
+          "sourceContentHash": "sha256:5226e0cd696e818f",
+          "sourceBodyHash": "sha256:3697d708565efd02",
+          "translatedAt": "2026-09-23T22:12:06+08:00",
           "translationLastCommit": "723152cd",
           "translationLastModified": "2026-09-12T16:21:30+08:00",
           "inferred": false,
-          "footnoteDefs": 7,
-          "bytes": 19030,
+          "footnoteDefs": 12,
+          "bytes": 22649,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (12→7)"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -75711,11 +75711,11 @@
           "sourceContentHash": "sha256:0acd5b8de068abbb",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T07:47:16.113660+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2a677e29",
+          "translationLastModified": "2026-09-24T17:35:52+08:00",
           "inferred": false,
           "footnoteDefs": 45,
-          "bytes": 76609,
+          "bytes": 76611,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -161174,20 +161174,18 @@
         "en": {
           "path": "en/Food/hakka-food-culture.md",
           "translatedFrom": "Food/客家飲食文化.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:3122286a1056f9c8",
-          "sourceBodyHash": "sha256:dacc006277fbf01a",
-          "translatedAt": "2026-05-24T05:06:32+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:3b6b12dd06856da0",
+          "sourceBodyHash": "sha256:1006124334926615",
+          "translatedAt": "2026-09-23T22:11:44+08:00",
           "translationLastCommit": "d6ea86f0",
           "translationLastModified": "2026-09-22T01:05:30+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "bytes": 14537,
+          "bytes": 14489,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+14 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Food/hakka-food-culture.md",
@@ -164207,20 +164205,18 @@
         "ko": {
           "path": "ko/Food/bubble-tea.md",
           "translatedFrom": "Food/珍珠奶茶.md",
-          "sourceCommitSha": "30569f74",
-          "sourceContentHash": "sha256:d90e80b19559290b",
-          "sourceBodyHash": "sha256:9bc13bf8c8054628",
-          "translatedAt": "2026-05-16T22:20:00Z",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:4b6c70d0fd8de132",
+          "sourceBodyHash": "sha256:402d0d087252b30e",
+          "translatedAt": "2026-09-23T22:11:48+08:00",
           "translationLastCommit": "5f8252f9",
           "translationLastModified": "2026-09-22T01:05:42+08:00",
           "inferred": false,
-          "footnoteDefs": 8,
-          "bytes": 17268,
+          "footnoteDefs": 0,
+          "bytes": 18050,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+9 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Food/bubble-tea.md",
@@ -165169,20 +165165,18 @@
         "ko": {
           "path": "ko/Food/taiwan-fermented-and-pickled-foods.md",
           "translatedFrom": "Food/台灣發酵食品與醃製文化.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:c2ef664839dd9cc6",
-          "sourceBodyHash": "sha256:b693c93c53efd3dc",
-          "translatedAt": "2026-05-20T05:08:30+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:5835dab8860b5f83",
+          "sourceBodyHash": "sha256:e507de3f31c3d46a",
+          "translatedAt": "2026-09-23T22:11:48+08:00",
           "translationLastCommit": "5f8252f9",
           "translationLastModified": "2026-09-22T01:05:42+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "bytes": 14348,
+          "bytes": 14646,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+16 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Food/taiwan-fermented-and-pickled-foods.md",
@@ -178617,7 +178611,20 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/History/taiwan-minpao-newspaper.md",
+          "translatedFrom": "History/臺灣民報.md",
+          "sourceCommitSha": "1b7250789",
+          "sourceContentHash": "sha256:cfc5c04e9673e1a1",
+          "sourceBodyHash": "sha256:27b8803688951c5a",
+          "translatedAt": "2026-09-23T22:12:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "bytes": 33967,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -186756,13 +186763,13 @@
           "translatedFrom": "Geography/阿里山林業鐵路.md",
           "sourceCommitSha": "da79c32b0",
           "sourceContentHash": "sha256:98502e991d7261a6",
-          "sourceBodyHash": "",
-          "translatedAt": "2026-09-24T05:38:44+08:00",
+          "sourceBodyHash": "sha256:7466cc3940afd368",
+          "translatedAt": "2026-09-23T22:12:00+08:00",
           "translationLastCommit": "30ca5b93",
           "translationLastModified": "2026-09-24T05:40:31+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 48555,
+          "bytes": 49282,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -194072,8 +194079,8 @@
           "sourceContentHash": "sha256:9851afbe3b082508",
           "sourceBodyHash": "sha256:9e4ce2561244c6a9",
           "translatedAt": "2026-09-24T09:33:33.492324+00:00",
-          "translationLastCommit": "e0d888ab",
-          "translationLastModified": "2026-09-22T01:04:14+08:00",
+          "translationLastCommit": "2a677e29",
+          "translationLastModified": "2026-09-24T17:35:52+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "bytes": 40274,
@@ -206136,8 +206143,8 @@
           "sourceContentHash": "sha256:c31335e314326f55",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T08:32:39.810787+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2a677e29",
+          "translationLastModified": "2026-09-24T17:35:52+08:00",
           "inferred": false,
           "footnoteDefs": 38,
           "bytes": 73502,
