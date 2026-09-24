@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-25T03:19:28+08:00",
-    "zhCommitHead": "042894ea4",
+    "lastUpdated": "2026-09-25T03:19:46+08:00",
+    "zhCommitHead": "e17c3f0d4",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 1040,
+        "fresh": 1041,
         "stale": 31,
         "metadata_stale": 0,
-        "missing": 53,
+        "missing": 52,
         "orphan": 0
       },
       "pt": {
@@ -102366,7 +102366,7 @@
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 92,
-          "bytes": 73917,
+          "bytes": 73931,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -193522,7 +193522,20 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Geography/gueishan-island.md",
+          "translatedFrom": "Geography/龜山島.md",
+          "sourceCommitSha": "47ff13e07",
+          "sourceContentHash": "sha256:acb674b180da7910",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T19:08:34.650461+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 38,
+          "bytes": 64578,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Geography/gueishan-island.md",
