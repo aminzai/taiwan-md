@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-25T05:43:31+08:00",
-    "zhCommitHead": "cef2a8dd1",
+    "lastUpdated": "2026-09-25T05:54:39+08:00",
+    "zhCommitHead": "5a077286f",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -44,8 +44,8 @@
       },
       "es": {
         "total_zh": 1124,
-        "fresh": 1087,
-        "stale": 26,
+        "fresh": 1088,
+        "stale": 25,
         "metadata_stale": 0,
         "missing": 11,
         "orphan": 0
@@ -100,18 +100,18 @@
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1073,
+        "fresh": 1074,
         "stale": 14,
         "metadata_stale": 1,
-        "missing": 36,
+        "missing": 35,
         "orphan": 0
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 999,
+        "fresh": 1000,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 123,
+        "missing": 122,
         "orphan": 0
       }
     },
@@ -5203,7 +5203,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Music/deserts-chang-and-anpu.md",
+          "translatedFrom": "Music/張懸與安溥.md",
+          "sourceCommitSha": "f803d0b6b",
+          "sourceContentHash": "sha256:c547e65c58653968",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T21:34:45.465599+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 32,
+          "bytes": 51867,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -8404,8 +8417,8 @@
           "sourceContentHash": "sha256:72151c012acc7cd3",
           "sourceBodyHash": "sha256:818b90ddb26bb8d5",
           "translatedAt": "2026-09-23T22:12:02+08:00",
-          "translationLastCommit": "afea31a7",
-          "translationLastModified": "2026-09-24T05:41:03+08:00",
+          "translationLastCommit": "5a077286",
+          "translationLastModified": "2026-09-25T05:43:31+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "bytes": 30343,
@@ -23733,18 +23746,18 @@
         "es": {
           "path": "es/Technology/threads-in-taiwan.md",
           "translatedFrom": "Technology/Threads在台灣.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:b344ec326785b46d",
-          "sourceBodyHash": "sha256:a5b8490e2fd9be42",
-          "translatedAt": "2026-05-24T05:06:33+08:00",
+          "sourceCommitSha": "9094012f4",
+          "sourceContentHash": "sha256:bbdb130f551a69e8",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T20:58:09.132580+00:00",
           "translationLastCommit": "de52e731",
           "translationLastModified": "2026-09-22T01:05:46+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 23008,
+          "footnoteDefs": 55,
+          "bytes": 143811,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (55→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Technology/threads-in-taiwan.md",
@@ -26232,7 +26245,20 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Technology/artificial-intelligence-development-strategy.md",
+          "translatedFrom": "Technology/台灣人工智慧發展與未來策略.md",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:151b93f3268baa1f",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T21:46:07.001294+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 40,
+          "bytes": 77920,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Technology/artificial-intelligence-development-strategy.md",
@@ -63781,8 +63807,8 @@
           "sourceContentHash": "sha256:9680a9c97c074b94",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T20:34:32.804264+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5a077286",
+          "translationLastModified": "2026-09-25T05:43:31+08:00",
           "inferred": false,
           "footnoteDefs": 58,
           "bytes": 98137,
@@ -192932,8 +192958,8 @@
           "sourceContentHash": "sha256:981f398813aadaf3",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T20:37:09.236482+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5a077286",
+          "translationLastModified": "2026-09-25T05:43:31+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "bytes": 96926,
@@ -215538,8 +215564,8 @@
           "sourceContentHash": "sha256:8649216212301e4d",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T19:56:27.871226+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5a077286",
+          "translationLastModified": "2026-09-25T05:43:31+08:00",
           "inferred": false,
           "footnoteDefs": 32,
           "bytes": 73288,
