@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-24T20:04:12+08:00",
-    "zhCommitHead": "88b5f9f46",
+    "lastUpdated": "2026-09-24T20:45:31+08:00",
+    "zhCommitHead": "ecad44d0f",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -36,8 +36,8 @@
       },
       "ko": {
         "total_zh": 1124,
-        "fresh": 1087,
-        "stale": 23,
+        "fresh": 1089,
+        "stale": 21,
         "metadata_stale": 0,
         "missing": 14,
         "orphan": 0
@@ -60,18 +60,18 @@
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 1103,
-        "stale": 12,
+        "fresh": 1104,
+        "stale": 11,
         "metadata_stale": 0,
         "missing": 9,
         "orphan": 0
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 1035,
+        "fresh": 1036,
         "stale": 31,
         "metadata_stale": 0,
-        "missing": 58,
+        "missing": 57,
         "orphan": 0
       },
       "pt": {
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 1031,
+        "fresh": 1032,
         "stale": 19,
         "metadata_stale": 0,
-        "missing": 74,
+        "missing": 73,
         "orphan": 0
       },
       "ar": {
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1062,
+        "fresh": 1063,
         "stale": 21,
         "metadata_stale": 1,
-        "missing": 40,
+        "missing": 39,
         "orphan": 0
       },
       "de": {
@@ -6879,7 +6879,20 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Music/elephant-gymnastics.md",
+          "translatedFrom": "Music/大象體操.md",
+          "sourceCommitSha": "8547b2665",
+          "sourceContentHash": "sha256:71cdc104f7f3b8f4",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T12:24:11.517302+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 56,
+          "bytes": 47813,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Music/elephant-gymnastics.md",
@@ -17957,7 +17970,20 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Economy/slp-taipei-startup-leadership-program.md",
+          "translatedFrom": "Economy/SLP台北創業領導計畫.md",
+          "sourceCommitSha": "7255b3ab1",
+          "sourceContentHash": "sha256:9bdb791d8649c130",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T12:35:01.142855+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 30,
+          "bytes": 95029,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -63982,7 +64008,20 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Society/kuma-academy-civil-defense-school.md",
+          "translatedFrom": "Society/黑熊學院.md",
+          "sourceCommitSha": "cdc7cc719",
+          "sourceContentHash": "sha256:42de5cb53b9bc1de",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T12:28:55.381143+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 34,
+          "bytes": 91761,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Society/kuma-academy-civil-defense-school.md",
@@ -77452,20 +77491,18 @@
         "ko": {
           "path": "ko/About/how-an-article-is-born.md",
           "translatedFrom": "About/文章如何誕生.md",
-          "sourceCommitSha": "984fb789",
-          "sourceContentHash": "sha256:92fcb394123e4aee",
-          "sourceBodyHash": "sha256:b8984a2133e5738f",
-          "translatedAt": "2026-06-19T11:57:16+08:00",
+          "sourceCommitSha": "d182e5d85",
+          "sourceContentHash": "sha256:4dc98dc84117c5d8",
+          "sourceBodyHash": "sha256:2679dec9ddab6dbc",
+          "translatedAt": "2026-09-24T12:24:05.696758+00:00",
           "translationLastCommit": "c297b51f",
           "translationLastModified": "2026-09-22T08:43:11+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "bytes": 47043,
+          "bytes": 47144,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/About/how-an-article-is-born.md",
@@ -121214,20 +121251,18 @@
         "vi": {
           "path": "vi/People/tsai-ing-wen.md",
           "translatedFrom": "People/蔡英文.md",
-          "sourceCommitSha": "4f3974f86",
-          "sourceContentHash": "sha256:2ea54fe4a3dcfc40",
-          "sourceBodyHash": "sha256:3efdfebbac8eea3c",
-          "translatedAt": "2026-09-21T21:38:55+08:00",
+          "sourceCommitSha": "7255b3ab1",
+          "sourceContentHash": "sha256:ad617fbb654f67ae",
+          "sourceBodyHash": "sha256:986ab9796f1069f2",
+          "translatedAt": "2026-09-24T12:34:54.232592+00:00",
           "translationLastCommit": "426d9542",
           "translationLastModified": "2026-09-22T00:50:27+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "bytes": 41141,
+          "bytes": 41232,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/tsai-ing-wen.md",
@@ -166242,18 +166277,18 @@
         "ko": {
           "path": "ko/History/ponlai-rice.md",
           "translatedFrom": "History/蓬萊米.md",
-          "sourceCommitSha": "69b3afd91",
-          "sourceContentHash": "sha256:3c85e554c80495b9",
-          "sourceBodyHash": "sha256:39ddb75027efa4b4",
-          "translatedAt": "2026-08-04T16:11:29+08:00",
+          "sourceCommitSha": "4e22e3bb9",
+          "sourceContentHash": "sha256:3d54c34f765113cd",
+          "sourceBodyHash": "sha256:fa292335dae74f0c",
+          "translatedAt": "2026-09-23T22:11:48+08:00",
           "translationLastCommit": "bb212378",
           "translationLastModified": "2026-08-04T17:39:36+08:00",
           "inferred": false,
-          "footnoteDefs": 8,
-          "bytes": 14851,
+          "footnoteDefs": 14,
+          "bytes": 21756,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (14→8)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/History/ponlai-rice.md",
@@ -191749,11 +191784,11 @@
           "sourceContentHash": "sha256:2038e5c6672647ae",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T10:10:21.721302+00:00",
-          "translationLastCommit": "e165066c",
-          "translationLastModified": "2026-09-10T01:47:43+08:00",
+          "translationLastCommit": "ecad44d0",
+          "translationLastModified": "2026-09-24T20:04:12+08:00",
           "inferred": false,
           "footnoteDefs": 39,
-          "bytes": 64748,
+          "bytes": 64750,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
