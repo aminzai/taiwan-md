@@ -332,6 +332,17 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-25 twmd-data-refresh-am — fix-lands-in-a-layer-the-platform-never-reads：修補寫進了部署平台根本不讀的那一層，產生器重跑成功就被當成已修好
+
+- **pattern**: `fix-lands-in-a-layer-the-platform-never-reads`
+- **原則**：一條修補的驗收如果是「產生器吐出了那一行」，它量的是自己的生成邏輯，不是讀者或爬蟲拿到什麼。09-22 替 `/sitemap.xml` 補一條 301 進 `config/redirects-manual.txt`，重生後 `_redirects` 多一條、收官寫「補 301」；但站體部署在 GitHub Pages，不讀 `_redirects`，會生效的只有 astro.config 用 `redirects-generated.json` 生成的 meta-refresh 頁，而 `generate-redirects.mjs` 刻意略過帶副檔名的 source。三天後線上仍 404。同一條產線兩份說明互相矛盾：產生器檔頭寫「CF Pages 讀 build 輸出的 `_redirects`」，astro.config 註解寫「部署平台是 GitHub Pages，`_redirects` 不支援」；手寫規則檔的檔頭沿用前者，還說「直接加一行即可」。
+- **觸發**：2026-09-25 06:0x data-refresh-am 看到 09-23 的 404 裡 `/sitemap.xml` 仍一天 10 筆，`curl -sI https://taiwan.md/sitemap.xml` 回 404、`/sitemap-index.xml` 回 200。已把規則旁的註解改成實情（`78b480aa8`），真正的修法沒做。→ [memory/2026-09-25-060610-twmd-data-refresh-am.md](memory/2026-09-25-060610-twmd-data-refresh-am.md)
+- **候選處置**：(a) build 產出放一份 `sitemap.xml`（複製 `sitemap-index.xml`，或讓 sitemap 整合多吐一個檔名）(b) `generate-redirects.mjs` 對「帶副檔名、因此不會生成 stub」的手寫規則印 WARN，說明它在 GitHub Pages 上不會生效 (c) 產生器與手寫規則檔的檔頭改成跟 astro.config 一致的平台真相 (d) 404 類修補的驗收一律對線上 curl 一次，不是看產物有沒有那一行。
+- **可能層級**：通用反射（REFLEXES #84 的新維度）
+- **相關**：REFLEXES #84（發佈產物要對賬 ground truth。差別：#84 收的是產物內容跟真相不一致，這次是整份產物根本不被平台讀取，內容對不對都沒差）；#82（產物存在當成效果的替身）；MANIFESTO §6 註「CF 是前面的 DNS/CDN 層，部署是 GitHub Pages」2026-07-17 部署平台真相修正，那次修正沒傳到產生器檔頭
+- **verification_count**: 1
+- **severity**: tactical
+
 ### 2026-09-25 twmd-babel-nightly — wikilink-residue-renders-as-bold-chinese：譯文留著 [[中文]]，每道閘都放行，站上印成一個點不下去的粗體中文詞
 
 - **pattern**: `wikilink-residue-renders-as-bold-chinese`
@@ -1142,8 +1153,9 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **相關**：REFLEXES #52（免疫層沒在 fail loud 比缺免疫層更危險——這裡是反面：閘門在 fail loud，但叫的是假的）、REFLEXES #38（混維度：`SCOPE MISMATCH` 一個紅燈同時代表「跨 session 污染」與「自家 formatter churn」兩種根因）、2026-08-09 twmd-weekly-report-sun「每天被人工推翻的假警報是注意力層的靜默債」
 - **instances**：
   - 2026-09-24 twmd-embeddings-nightly＋twmd-data-refresh-am 同一個早上兩班。refresh 用 `git commit -- <37 paths>` 收官（09-23 為了不被 babel 掃走存證而改的做法），commit 後其中 14 檔呈 `MM`：HEAD 與工作樹都是 prettier 版，索引留著格式化前的 README 表格與 JSON；embeddings 的 memory 檔從它 05:59 收官起就是同一個狀態。兩班都用 `git diff --quiet HEAD -- <paths>` 驗工作樹等於 HEAD 後 `git reset -q -- <paths>` 清掉。**新的風險面**：這台機器上 babel dispatcher 一直在 commit，若它的收件流程是「add 自己的檔＋commit 整個索引」，這些舊 blob 會被它帶進自己的 commit，等於把剛格式化好的 README 還原回去，且記在翻譯批次的名下 → memory/2026-09-24-060314-twmd-data-refresh-am.md
+  - 2026-09-25 twmd-data-refresh-am 同形再一次：pathspec 收官 37 檔後 14 檔 `MM`（README、stats、INDEX 等），逐檔驗工作樹等於 HEAD 後清掉。連三班、兩條 routine，收官步驟仍靠當班記得補這一刀 → memory/2026-09-25-060610-twmd-data-refresh-am.md
 - **修補候選（補）**：pathspec 收官的 routine 在 commit 之後固定跑一次「工作樹等於 HEAD 的路徑就 reset 索引」，可以寫成 `scripts/tools/` 的小工具，也可以直接進 refresh／embeddings 兩條 routine prompt 的收官步驟。
-- **verification_count**: 3
+- **verification_count**: 4
 - **severity**: moderate（不損資料，但持續消耗一道 structural 閘門的可信度；隊列空了九天才首次浮現，往後每個有件的 cycle 都會複現）
 
 ### 2026-08-07 twmd-feedback-triage — out-of-band-status-transition-bypasses-sovereignty-layer：主權層的寫入掛在自動路徑上，人類手動收束那批就整批沒進 git，8 週無人發現
@@ -1448,7 +1460,9 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **候選處置**：(a) 母稿 12 篇改絕對路徑，譯文由 babel 依 source sha 追（129 檔超 §自主權邊界，本班未動）(b) `verify-internal-links.sh` 認 `](../` 與 `](./` 相對路徑並解析成站上路由再驗 (c) babel 產線的連結閘門對 `../` 直接拒收，因為站上沒有任何合法路由是相對的。
 - **可能層級**：操作規則（連結檢查器盲區）＋ REFLEXES #87 的變體（保護密度跟曝光量成反比：延伸閱讀連結沒有格式閘門，正文 wikilink 有）
 - **相關**：MEMORY §神經迴路「巴別塔會把三月未審初稿裡的幻覺放大到十二語」（同一放大結構）、「多語言 nav 的隱性路由 scope」instance 2（死連結報告的比例閘門讓小家族長期隱形）、REFLEXES #87、#38 零維度變體（`latest.json` 只存 top 300，長尾裡的家族看不到）
-- **verification_count**: 1
+- **instances**：
+  - 2026-09-25 twmd-data-refresh-am 殘留量：monitor-404 09-23 的 `md-extension` 家族 524 筆（如 `/ko/culture/Culture/台灣文化創意園區發展.md`），追到譯文裡還留著 `](../Culture/X.md)` 這種帶副檔名的相對連結；全庫量到 15 份譯文 39 條（fr 3／ru 2／pt 2／ko 2／ar 2／ja／id／es／en 各 1）。09-21 的 129 份已被 babel 依 source sha 追掉大半，剩下這批是還沒輪到重譯的。dispatcher 在寫工作樹，本班沒動。→ [memory/2026-09-25-060610-twmd-data-refresh-am.md](memory/2026-09-25-060610-twmd-data-refresh-am.md)
+- **verification_count**: 2
 - **severity**: tactical
 - **2026-09-21 twmd-maintainer-am 落地**：(a) 12 篇母稿 38 條改絕對路徑，三條目標不存在的改指大稻埕／台灣電影／純文字（`4f3974f86`）；(b) `verify_internal_links.py` 加 `is_relative_href` + `resolve_relative_href`，在 09-07 舊 dist 上 456 條相對連結現形（`69f7c6211`）。(c) babel 產線拒收 `../` 未做。譯文那 129 檔等 babel 依 source sha 追，本班沒碰。
 
