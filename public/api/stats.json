@@ -1,40 +1,40 @@
 {
-  "totalArticles": 14062,
+  "totalArticles": 14173,
   "totalCategories": 27,
   "estimatedContributors": 75,
-  "totalTags": 9085,
+  "totalTags": 9109,
   "categories": [
     {
       "name": "vi",
-      "count": 1113
+      "count": 1116
     },
     {
       "name": "es",
-      "count": 1110
+      "count": 1113
     },
     {
       "name": "ko",
-      "count": 1109
+      "count": 1115
     },
     {
       "name": "hi",
-      "count": 1042
+      "count": 1057
     },
     {
       "name": "fr",
-      "count": 1111
+      "count": 1114
     },
     {
       "name": "en",
-      "count": 1109
+      "count": 1110
     },
     {
       "name": "ja",
-      "count": 1065
+      "count": 1075
     },
     {
       "name": "ru",
-      "count": 1080
+      "count": 1089
     },
     {
       "name": "Technology",
@@ -46,15 +46,15 @@
     },
     {
       "name": "id",
-      "count": 1057
+      "count": 1075
     },
     {
       "name": "ar",
-      "count": 1066
+      "count": 1081
     },
     {
       "name": "pt",
-      "count": 1094
+      "count": 1102
     },
     {
       "name": "Politics",
@@ -70,7 +70,7 @@
     },
     {
       "name": "de",
-      "count": 982
+      "count": 1002
     },
     {
       "name": "Lifestyle",
@@ -116,7 +116,7 @@
   "topTags": [
     {
       "name": "Economy",
-      "count": 68
+      "count": 67
     },
     {
       "name": "人物",
@@ -183,41 +183,41 @@
       "count": 23
     },
     {
-      "name": "歷史",
-      "count": 23
-    },
-    {
       "name": "音樂",
       "count": 23
     },
     {
-      "name": "客家",
+      "name": "建築",
+      "count": 23
+    },
+    {
+      "name": "體育",
       "count": 23
     }
   ],
   "languageDistribution": {
-    "zh-TW": 14062,
+    "zh-TW": 14173,
     "en": 0
   },
-  "lastUpdated": "2026-09-23T22:04:30.361Z",
-  "stars": 1187,
+  "lastUpdated": "2026-09-24T22:04:22.294Z",
+  "stars": 1190,
   "forks": 187,
   "zhPages": 1122,
   "languagePages": {
     "zh-TW": 1122,
-    "en": 1109,
-    "ja": 1065,
-    "ko": 1109,
-    "es": 1110,
-    "fr": 1111,
-    "vi": 1113,
-    "id": 1057,
-    "pt": 1094,
-    "hi": 1042,
-    "ar": 1066,
-    "ru": 1080,
-    "de": 982
+    "en": 1110,
+    "ja": 1075,
+    "ko": 1115,
+    "es": 1113,
+    "fr": 1114,
+    "vi": 1116,
+    "id": 1075,
+    "pt": 1102,
+    "hi": 1057,
+    "ar": 1081,
+    "ru": 1089,
+    "de": 1002
   },
-  "enPages": 1109,
+  "enPages": 1110,
   "totalPages": 1122
 }

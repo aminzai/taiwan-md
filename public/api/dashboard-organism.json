@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-23T22:04:47.823Z",
+  "lastUpdated": "2026-09-24T22:04:41.453Z",
   "organs": [
     {
       "id": "heart",
@@ -121,18 +121,18 @@
       "metrics": {
         "languageCoverage": {
           "zh-TW": 1122,
-          "en": 1107,
-          "ja": 1063,
-          "ko": 1107,
-          "es": 1108,
-          "fr": 1109,
-          "vi": 1111,
-          "id": 1055,
-          "pt": 1092,
-          "hi": 1040,
-          "ar": 1064,
-          "ru": 1078,
-          "de": 980
+          "en": 1108,
+          "ja": 1073,
+          "ko": 1113,
+          "es": 1111,
+          "fr": 1112,
+          "vi": 1114,
+          "id": 1073,
+          "pt": 1100,
+          "hi": 1055,
+          "ar": 1079,
+          "ru": 1087,
+          "de": 1000
         },
         "translationPct": 90,
         "langHealthDetails": {
@@ -223,7 +223,7 @@
               "pct": 92
             },
             "articles": {
-              "count": 1107,
+              "count": 1108,
               "pct": 99
             },
             "score": 96
@@ -315,10 +315,10 @@
               "pct": 0
             },
             "articles": {
-              "count": 1063,
-              "pct": 95
+              "count": 1073,
+              "pct": 96
             },
-            "score": 76
+            "score": 77
           },
           "ko": {
             "ui": {
@@ -407,7 +407,7 @@
               "pct": 92
             },
             "articles": {
-              "count": 1107,
+              "count": 1113,
               "pct": 99
             },
             "score": 96
@@ -499,7 +499,7 @@
               "pct": 92
             },
             "articles": {
-              "count": 1108,
+              "count": 1111,
               "pct": 99
             },
             "score": 96
@@ -591,7 +591,7 @@
               "pct": 23
             },
             "articles": {
-              "count": 1109,
+              "count": 1112,
               "pct": 99
             },
             "score": 82
@@ -683,7 +683,7 @@
               "pct": 100
             },
             "articles": {
-              "count": 1111,
+              "count": 1114,
               "pct": 99
             },
             "score": 98
@@ -775,8 +775,8 @@
               "pct": 100
             },
             "articles": {
-              "count": 1055,
-              "pct": 94
+              "count": 1073,
+              "pct": 96
             },
             "score": 96
           },
@@ -867,8 +867,8 @@
               "pct": 100
             },
             "articles": {
-              "count": 1092,
-              "pct": 97
+              "count": 1100,
+              "pct": 98
             },
             "score": 97
           },
@@ -959,10 +959,10 @@
               "pct": 100
             },
             "articles": {
-              "count": 1040,
-              "pct": 93
+              "count": 1055,
+              "pct": 94
             },
-            "score": 95
+            "score": 96
           },
           "ar": {
             "ui": {
@@ -1051,10 +1051,10 @@
               "pct": 0
             },
             "articles": {
-              "count": 1064,
-              "pct": 95
+              "count": 1079,
+              "pct": 96
             },
-            "score": 76
+            "score": 77
           },
           "ru": {
             "ui": {
@@ -1143,10 +1143,10 @@
               "pct": 0
             },
             "articles": {
-              "count": 1078,
-              "pct": 96
+              "count": 1087,
+              "pct": 97
             },
-            "score": 76
+            "score": 77
           },
           "de": {
             "ui": {
@@ -1235,10 +1235,10 @@
               "pct": 100
             },
             "articles": {
-              "count": 980,
-              "pct": 87
+              "count": 1000,
+              "pct": 89
             },
-            "score": 95
+            "score": 96
           }
         }
       }

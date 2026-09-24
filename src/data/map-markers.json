@@ -8646,6 +8646,17 @@
     "city": "桃園"
   },
   {
+    "title": "معكوس ميني ميل: صناعة تُصنع بين الرياح والشمس، ووزن اسم واحد",
+    "lat": 24.798994,
+    "lng": 120.971305,
+    "category": "food",
+    "region": "north",
+    "link": "/food/hsinchu-rice-noodles",
+    "lang": "zh-TW",
+    "desc": "قبل حوالي مئة عام، قادت مهاجرة هويان تقنية المعكوس إلى هينتشو؛ ومياه تشيا، نانشي، ورياح تسان تحوّلت الجنوب الكبير إلى مصنع للمعكوس. بعد الجدل حول محتوى الأرز في عام 2013، أصبح «معكوس هينتشو» ليس مجرد نكهة محلية، بل اسمًا يجب أن يُوضح فيه الأصل، العملية، وعلامة التجارة.",
+    "city": "新竹"
+  },
+  {
     "title": "حلوى شينغانغ (新港飴): من حادثة يوم ممطر إلى ذاكرة ثقافية تمتد لمئة عام عند بوابة المعبد",
     "lat": 23.47398,
     "lng": 120.448593,
@@ -8798,6 +8809,17 @@
     "lang": "zh-TW",
     "desc": "بدأت هولندا ببناء قلعة زيلانديا في كثبان دايوان عام 1624؛ وفي 9 فبراير 1662 غادر 2000 هولندي الشاطئ. تأسست أول مدرسة في تايوان عام 1665. أصبحت العاصمة الإدارية لتايوان لمدة 261 عاماً حتى 1885. يوم 13 مارس 1947، تم إعدام المحامي تونغ دزشان في حلقة مينسينغ الخضراء. في 2023، تجاوزت إيرادات منطقة نانكاو تايوان سيكو بمليار ونصف التريليون دولار.",
     "city": "台南"
+  },
+  {
+    "title": "تايوان: ثلاثة أزمنة في مدينة واحدة؛ معبد لونغشان يراقب 101 عام 2004",
+    "lat": 25.035836,
+    "lng": 121.559198,
+    "category": "geography",
+    "region": "north",
+    "link": "/geography/taipei-city",
+    "lang": "zh-TW",
+    "desc": "في منطقة وانغه، يوجد معبد لونغشان الذي يعود إلى عام 1738. وعلى بعد ثلاثة كيلومترات، تم الانتهاء من مبنى تايبيه 101 في ليلة رأس السنة الميلادية 2004 على أرض كانت سابقاً مستودع ماسان الياباني ومصنع الأسلحة الحربية بعد الحرب. وفي داو تشيانغ، كان شاي الـ \"أولونغ\" الذي استخدمه لي تشونغ في ستينيات القرن التاسع عشر يدعم التجارة الخارجية لتايوان الشمالية بأكملها. في نفس الحوض، تتجاور ثلاثة أزمنة: 1738 و 1885 و 2004.",
+    "city": "台北"
   },
   {
     "title": "مناظر الينابيع الساخنة في تايوان",
@@ -8954,6 +8976,17 @@
     "city": "花蓮"
   },
   {
+    "title": "هايت؟تي: الطالبة المتفوقة في كلية الطب لمدة تسع سنوات، فترة الانقطاع",
+    "lat": 24.810278,
+    "lng": 120.966615,
+    "category": "people",
+    "region": "north",
+    "link": "/people/huai-te-indie-singer",
+    "lang": "zh-TW",
+    "desc": "في 21 أغسطس 2021، صعدت هايت؟تي مرتدية نظارات سوداء لتستلم جائزة أفضل مغني جديد في حفل جوكرز الغنائي الدولي الـ 32. قالت للكاميرا: «أرجو ألا تخافوا». اسمها الحقيقي لين تشياي، من شيانغشان، شينتشو؛ درست الطب لمدة تسع سنوات في كلية الطب العسكرية بشينتشو، بما في ذلك سنة انقطاع خلال السنة الثالثة وسنة تأخير (استغرقت ثلاث سنوات لإكمال التدريب العملي بسبب عدم المتابعة). بعد إكمال تدريب الأطباء المتدربين والحصول على درجة بكالوريوس الطب، كانت لا تزال ترتدي قناعًا في غرفة العمليات كطبيبة متدربة أثناء حصولها على الجائزة. تلك السنة التي ضغطت فيها زر الإيقاف في مسار الدراسة الأكثر تفوقاً في تايوان.",
+    "city": "新竹"
+  },
+  {
     "title": "لياو هونغ جي: من سفينة صيد السمك الطائر إلى الانجراف مع التيار الأسود، يقيس بحار تايوان بحياته كاتب البحر",
     "lat": 23.989045,
     "lng": 121.60708,
@@ -8996,6 +9029,17 @@
     "lang": "zh-TW",
     "desc": "الكوريون في تايوان ليسوا مجرد مجموعة من المؤثرين المرئيين، بل هم نسيج يومي تنسجه مجتمع كاوهسيونغ القديم، والتعليم ثنائي اللغة، وتبادل الشباب، والطلاب الوافدون، والعائلات معاً.",
     "city": "高雄"
+  },
+  {
+    "title": "العطلات الرسمية: تاريخ تايوان المكتوب بـ\"عدم العمل\"",
+    "lat": 25.026987,
+    "lng": 121.56318,
+    "category": "society",
+    "region": "north",
+    "link": "/society/national-holidays",
+    "lang": "zh-TW",
+    "desc": "أول عطلة رسمية قانونية في جمهورية الصين (تايوان) ليست العاشر من أكتوبر، ولا يوم السنة الجديدة، بل هي العاشر والعشرين من أغسطس 1997. من \"يوم الذلة\" في 17 يونيو خلال الحكم الياباني حتى \"الاستعادة vs النهاية الحربية\" الذي أثاره البرلمان في عام 2025، كل حرف أحمر على التقويم هو جواب من نفاذٍ سياسي عن ما يجب أن تتذكره تايوان ومن تنتمي إليه—لكن الإجازة لم تكن قط مسألة وطنية وحدها، بل هي أيضًا سؤال حول ما إذا كان العمال يستحقون الراحة.",
+    "city": "台北"
   },
   {
     "title": "الإسكان الوطني والعدالة السكنية: المصعد الرأسمالي الذي أنشأته الحكومة، لمن يخدم في النهاية؟",
@@ -9636,6 +9680,17 @@
     "city": "台中"
   },
   {
+    "title": "Condado de Chiayi: 490,000 personas prestan su rostro a Alishan y nadie recuerda la capital del condado en Taibao",
+    "lat": 23.475659,
+    "lng": 120.447956,
+    "category": "geography",
+    "region": "south",
+    "link": "/geography/chiayi-county",
+    "lang": "zh-TW",
+    "desc": "A las cinco de la mañana, los puestos de ostras de Dongshi aún están en el agua; la mitad de los ostiones del país provienen de estas aguas. A 100 kilómetros, el ferrocarril forestal de Alishan, inaugurado en 1912, tiene una longitud total de 66.6 kilómetros y abarca veinte mil pings. El Museo Nacional Palace (Sucursal Sur) cerca de la estación de tren de alta velocidad de Taibao tardó 15 años en abrir y recibió 760,000 visitantes en 2018. Cuando la capital del condado de Chiayi se trasladó de la ciudad de Chiayi a Taibao en 1991, todo el país consideraba que Chiayi era solo la ciudad de Chiayi. Treinta y cinco años después, este condado, con 490,000 habitantes rodeando los 270,000 residentes separados, tiene un índice de envejecimiento del 174%, el más alto de Taiwán.",
+    "city": "嘉義"
+  },
+  {
     "title": "Gongguan: el laboratorio del Imperio japonés, los salones clandestinos de la ley marcial y las chuletas de pollo frito de los estudiantes de la NTU: tres siglos en 500 metros",
     "lat": 25.026578,
     "lng": 121.567325,
@@ -9667,17 +9722,6 @@
     "lang": "zh-TW",
     "desc": "Un sábado por la tarde, estudiantes hacen fila frente al teatro de ladrillo rojo al final del callejón 5 de la calle Guling; al lado están el Museo Nacional de Historia, construido en 1955, y el estanque de lotos del Jardín Botánico de Taipéi, reorganizado en 1921. Esta calle de 1,2 kilómetros se llamó Sakuma-chō en 1922 y en 1947 fue rebautizada como calle Guling, nombre tomado de Lushan, en Jiangxi. Después de la guerra de 1945, los libros que los japoneses no pudieron llevarse al retirarse se pusieron en la calle y formaron la primera calle de libros usados de Taiwán; en su apogeo, en la década de 1960, tuvo más de 200 puestos. Tras la apertura del puente Guanghua en abril de 1973, los vendedores fueron reorganizados y trasladados bajo el paso elevado Guanghua. El 15 de junio de 1961, en esta calle, Mao Wu, de 16 años, mató con un cuchillo scout a Liu Min, de 15; en 1991 Edward Yang convirtió el caso en una película de 237 minutos. La calle de libros fue desmantelada, los puestos se mudaron y los estudiantes empezaron a comprar libros en otros lugares; lo que quedó fue el antiguo edificio de ladrillo rojo de una comisaría de la época japonesa, un museo de posguerra de estilo palaciego chino y el estanque de lotos que permanece allí desde 1921.",
     "city": "台北"
-  },
-  {
-    "title": "Ciudad de Hsinchu: la muralla de bambú de Zhúqiàn plantada en 1733, cuna de TSMC nacida en 1980",
-    "lat": 24.806097,
-    "lng": 120.974036,
-    "category": "geography",
-    "region": "north",
-    "link": "/geography/hsinchu-city",
-    "lang": "zh-TW",
-    "desc": "En 1733, undécimo año del reinado de Yongzheng, el magistrado de la prefectura de Tamsui, Xu Zhimin, plantó bambú espinoso (cìzhú) alrededor del asentamiento de Zhúqiàn, formando una muralla circular de tierra de 1408 metros de circunferencia. En 1829 se completó la muralla de ladrillo y piedra; la puerta oriental, Puerta Yingxi (迎曦門), sigue en pie junto al foso. 247 años después, el 15 de diciembre de 1980, Chiang Ching-kuo cortó la cinta roja del primer parque científico de Taiwán, a 5 kilómetros de la Puerta Yingxi. Entre 1953 y 1974, 148 miembros del Escuadrón Murciélago Negro (黑蝙蝠中隊) despegaron de esta ciudad del viento para realizar misiones de reconocimiento sobre China continental y nunca regresaron. Una ciudad subprovincial de 450 000 habitantes sostuvo el frente de la Guerra Fría, fue la ciudad han más antigua del norte, alberga dos universidades de élite y es el punto de partida del 90 % de los chips de gama alta del mundo. El apodo \"Ciudad del Viento\" suena literario, pero todas las industrias de esta ciudad están relacionadas con el viento.",
-    "city": "新竹"
   },
   {
     "title": "La calle antigua de Hukou: al mudarse el tren en 1929, la calle de ladrillo rojo quedó inmóvil durante un siglo",
@@ -9810,6 +9854,17 @@
     "lang": "zh-TW",
     "desc": "El móvil vibra, la notificación muestra una lista de artículos que apenas entiendes, pulsas «declaración conforme» y lo que has completado, legalmente, es un mandato de despacho aduanero. En Taiwán hay 7,59 millones de personas registradas en esa app; en agosto de 2026, tras una publicación que estalló en redes, muchas fueron por primera vez a averiguar quién la opera: Trade-Van Information Services, una empresa cotizada en la que el Ministerio de Finanzas posee el 36,11 %, sin llegar a la mayoría. Al mismo tiempo, el Gobierno propone por segunda vez rebajar el umbral de exención de 2.000 NT$. ¿Quién ha pagado la factura de este atajo y quién no ha llegado a tomar la palabra en ningún momento?",
     "city": "桃園"
+  },
+  {
+    "title": "Los árboles de alineación de Taiwán: una calle que lleva el nombre de un árbol y una decisión de cien años sin resolver",
+    "lat": 25.039931,
+    "lng": 121.572257,
+    "category": "lifestyle",
+    "region": "north",
+    "link": "/lifestyle/taiwan-street-trees",
+    "lang": "zh-TW",
+    "desc": "El n.º 292 de la Sección 2 de la Calle Qiedong, en la ciudad de Changhua, toma su número de un viejo árbol de catalpa cuya edad es motivo de debate: la calle se adaptó al árbol, no el árbol a la calle. Desde la teoría de plantación de Tashiro Ando en 1898, la plantación masiva de alstonia (árbol de la pizarra) en los años 80, hasta la petición de más de seis mil personas en 2026 exigiendo la prohibición de la poda de decapitación (desmoche), cada generación de taiwaneses ha tomado decisiones sobre los árboles de sus calles. Sin embargo, esa guía de poda que establece «prohibición total», hasta hoy sigue siendo solo «para referencia y uso de las distintas agencias».",
+    "city": "台北"
   },
   {
     "title": "Biodiversidad",
@@ -10139,6 +10194,17 @@
     "link": "/history/taipei-main-station",
     "lang": "zh-TW",
     "desc": "La gare de Taipei est passée du quai ferroviaire près du fleuve Danshui et de Dadaocheng à la quatrième génération de structures souterraines inaugurée en 1989. Aujourd'hui, la TRA, le TGV taïwanais, le métro de Taipei et le MRT de l'aéroport de Taoyuan s'y croisent ; elle ne sert pas seulement à faire partir les gens, mais permet aussi d'établir des pauses, des rassemblements et des mémoires urbaines dans le hall, la rue souterraine, les quais et les bento.",
+    "city": "台北"
+  },
+  {
+    "title": "Les arbres d'alignement de Taïwan : un chemin nommé d'après un arbre, et une décision restée inachevée depuis cent ans",
+    "lat": 25.032516,
+    "lng": 121.559937,
+    "category": "lifestyle",
+    "region": "north",
+    "link": "/lifestyle/taiwan-street-trees",
+    "lang": "zh-TW",
+    "desc": "Au numéro 292, segment 2, rue Qiujin, Changhua, la plaque porte le nom d'un vieux citronnier dont l'âge fait l'objet de débats — la route suit l'arbre, et non l'arbre la route. Des théories de plantation de Taniyama Sadayoshi en 1898, aux plantations abrues des années 1980, jusqu'aux plus de six mille signatures recueillies en 2026 pour interiter la taille en tête de mort, chaque génération de Taïwanais a pris des décisions concernant les arbres des rues. Pourtant, le guide de taille indiquant « interdit formellement » n'est encore qu'« à titre de référence pour les autorités ».",
     "city": "台北"
   },
   {
@@ -10879,6 +10945,17 @@
     "city": "台北"
   },
   {
+    "title": "Stasiun Meteorologi Gunung Yushan: Penjaga Gunung Tinggi Terisolasi di Ketinggian 3.858 Meter",
+    "lat": 23.466753,
+    "lng": 120.962169,
+    "category": "geography",
+    "region": "central",
+    "link": "/geography/yushan-weather-station",
+    "lang": "zh-TW",
+    "desc": "Terletak di Puncak Utara Gunung Yushan pada ketinggian 3.858 meter, stasiun ini adalah lembaga meteorologi dan administrasi tertinggi di Asia Timur Laut. Di bawah ancaman cuaca ekstrem dan sambaran petir, beberapa generasi pengamat dengan kesepian dan keteguhan hati mereka telah mengamankan data meteorologi langsung untuk Taiwan.",
+    "city": "南投"
+  },
+  {
     "title": "Gempa bumi Hsinchu-Taichung 1935: setelah Chingshui hancur, bagaimana jalan belajar mengingat gempa",
     "lat": 24.808294,
     "lng": 120.973049,
@@ -11605,6 +11682,17 @@
     "city": "基隆"
   },
   {
+    "title": "金鐘賞：三局が十七年たらい回しにした末、台湾が毎年「私たちのテレビ」に線を引く",
+    "lat": 25.039754,
+    "lng": 121.570744,
+    "category": "culture",
+    "region": "north",
+    "link": "/ja/culture/golden-bell-awards",
+    "lang": "ja",
+    "desc": "2022年10月22日、陳亞蘭（ちん・あらん）はスーツ姿で国父記念館の舞台に立ち、歌仔戯の男役でドラマ番組主演男優賞を獲得した。五十七年間で初めての女性受賞者だった。1965年にラジオのために鋳られたこの鐘は、十七年間ずっと台視・中視・華視という三つの名前の間だけを回っていた。やがて公視、客家ドラマ、ベトナム人俳優が一人また一人と名簿に入ってきた。金鐘賞が毎年授けるのは演技だが、本当に引いているのは一本の線だ——誰が台湾のテレビに数えられ、誰がまだ線の外にいるのか。",
+    "city": "台北"
+  },
+  {
     "title": "関聖帝君：敗軍の将軍はいかにして台湾の万能の神となったか",
     "lat": 25.033095,
     "lng": 121.562022,
@@ -11768,6 +11856,17 @@
     "lang": "ja",
     "desc": "1987年の落成時、両庁院は蒋中正を記念する宮殿式建築であり、鉄柵門が市民を外に締め出していました。2003年に朱宗慶がその門を撤去し、2004年には台湾初の行政法人となりました。オランダFlentrop社のパイプオルガンの4,172本の音管が壁の裏に埋め込まれ、芸術総監督の劉怡汝氏は、芸術文化施設は「見えない障壁」を見抜くべきだと語っています。",
     "city": "台北"
+  },
+  {
+    "title": "排灣族のガラスビーズ（qata）：一つのビーズが継承する部族の責任",
+    "lat": 22.689894,
+    "lng": 120.482338,
+    "category": "culture",
+    "region": "south",
+    "link": "/ja/culture/paiwan-glass-beads",
+    "lang": "ja",
+    "desc": "1976年、屏東三地門の巫瑪斯・ジングルルは5年間の試行錯誤を経て排灣のガラスビーズを再制作しました。1983年には施秀菊が「トンボの巣」を設立し、途絶えていたこの工芸が再び生活に入りました。これは単なる「古代技術の復活」という一本道の話ではなく、どのような知識が見られ、作られ、次世代に引き継がれるのかを人々が再決定した物語です。",
+    "city": "屏東"
   },
   {
     "title": "澎湖の民俗文化",
@@ -13343,6 +13442,17 @@
     "city": "嘉義"
   },
   {
+    "title": "安坑軽軌：一本の橋が新店渓を越え、最後の1マイルはまだコミュニティの中に",
+    "lat": 25.004243,
+    "lng": 121.469116,
+    "category": "geography",
+    "region": "north",
+    "link": "/ja/geography/ankeng-light-rail",
+    "lang": "ja",
+    "desc": "2015年に国家発展委員会が安坑線を審議したとき、安坑の人口はすでに道路より速く増えていた。2023年、7.5キロの軽軌がようやく新店渓を越えて十四張に接続した。2025年の年間乗車人員は約203万人で、計画段階の一日当たり6.9万人という目標とはまだ距離がある。この路線が残した問いは：列車は来たが、住民はどうやって列車まで行き、また家まで帰るのか？",
+    "city": "新北"
+  },
+  {
     "title": "艋舺：清朝統治下の台北で最もにぎわった場所、いまは台北で平均年齢が最も高い区",
     "lat": 25.032324,
     "lng": 121.559162,
@@ -13351,6 +13461,17 @@
     "link": "/ja/geography/bangka",
     "lang": "ja",
     "desc": "艋舺龍山寺は、1738 年に泉州三邑出身者が資金を出し合って建立してから 2026 年で 288 年となり、清朝の台北府より 137 年早く存在していました。1853 年の頂下郊拼という械闘は同安人を大稲埕へ押し出し、北台湾の 2 世紀にわたる分岐を植え付けました。日本統治時代後に萬華へ改称され、1990 年に区が設置され、2010 年に鈕承澤が映画『艋舺』を撮りました。高齢化指数は現在 320.78% で市内最高です。この台北最古の街では、朝 6 時、廟埕の最初の線香がいまも燃えています。",
+    "city": "台北"
+  },
+  {
+    "title": "板南線：二つの都市を地下に縫い合わせる26.5km",
+    "lat": 25.032469,
+    "lng": 121.558295,
+    "category": "geography",
+    "region": "north",
+    "link": "/ja/geography/bannan-line",
+    "lang": "ja",
+    "desc": "1999年12月24日、板南線は西門、龍山寺、市政府を結び、その後頂埔と南港展覧館へと延伸した。この23駅、26.5kmの地下鉄は、板橋・台北・南港の通勤時間、商業流、徒歩ルート、そして土地の想像を書き換え、誰が人流を受け取り、誰が変化を負うのか、そして最後の500メートルがどのように歩き終えられるのかという問題を残した。",
     "city": "台北"
   },
   {
@@ -14154,6 +14275,17 @@
     "link": "/ja/geography/yushan-jade-mountain",
     "lang": "ja",
     "desc": "1897年、日本の植民者たちはこの山を「新高山」と名付け、帝国が富士山を超える高さへの野心を象徴しました。100年を経た今日、玉山はなお台湾の最高峰であり続けています——原住民族の聖山、清代文献の記録、植民地地図上の王冠、そして今日における論争の的となる登山の聖地と環境倫理の試練の場として。",
+    "city": "南投"
+  },
+  {
+    "title": "玉山気象台：孤高の3,858メートルに佇む守望者",
+    "lat": 23.473008,
+    "lng": 120.954402,
+    "category": "geography",
+    "region": "central",
+    "link": "/ja/geography/yushan-weather-station",
+    "lang": "ja",
+    "desc": "南投県信義郷玉山北峰（標高3,858m）に位置するこの気象台は、東北アジアで最も標高の高い気象・行政機関です。極端な天候や雷の脅威の中、幾代の観測員が孤独と献身をもって台湾の生きた気象脈動を捉えてきました。",
     "city": "南投"
   },
   {
@@ -16720,6 +16852,17 @@
     "city": "宜蘭"
   },
   {
+    "title": "理科太太：科普成為流量之時，專業亦成為公共責任",
+    "lat": 25.036888,
+    "lng": 121.565487,
+    "category": "people",
+    "region": "north",
+    "link": "/ja/people/li-ke-tai-tai",
+    "lang": "ja",
+    "desc": "理科太太は生物医工学のバックグラウンドと生活科学動画で知名度を得た後、健康製品、オンライン講座、自メディアの商業化へと進みました。彼女の物語は単なる爆発的な人気の話ではなく、なぜ視聴者が「科学らしき人」を信じるのか、そしてその信頼がいかに検証され、規範され、公共の議論に返還されるべきかという問題に関わっています。本稿はチャンネルの起源、知識の翻訳、医療機器と食品広告の事案、有料コンテンツの無料ポッドキャスト化までを追い、台湾の知識型クリエイターが流量、専門性、公共責任の綱引きにどう向き合ってきたかを描きます。",
+    "city": "台北"
+  },
+  {
     "title": "李宗盛：平易な言葉で他人の心の内を書き尽くし、『山丘』でようやく自分を語りました",
     "lat": 25.029089,
     "lng": 121.559645,
@@ -16805,6 +16948,17 @@
     "link": "/ja/people/lin-chi-wei-social-innovator",
     "lang": "ja",
     "desc": "林啟維（Chi-Wei Lin、ネット上ではCWとして知られる）は台湾の起業家です。2014年、彼の教育ボードゲームは米国の「Parents' Choice Awards」でレゴを破り銀メダルを獲得しました；10年後、彼が創業したPortalyは全台湾で最大のクリエイター向けビジネスプラットフォームとなり、20万人が影響力を収入に変換しています。2025年からは利益を上げ、広告費をかけずにオーガニックPLG（プロダクト主導成長）で成長しました。伝統産業からソフトウェア、さらにAIへとゼロから学び直すたびに、彼は同じことを続けています：他者があるものを別のものに変換する手助けをし、その方法を公開して共有することです。",
+    "city": "台北"
+  },
+  {
+    "title": "林佳辰：地球団の歌詞から朝食屋のミームダンスまで、アイドルの「整然さ」を自身の「リラックス感」へと昇華させる過程",
+    "lat": 25.035568,
+    "lng": 121.572354,
+    "category": "people",
+    "region": "north",
+    "link": "/ja/people/lin-chia-chen-singer",
+    "lang": "ja",
+    "desc": "2022年、林佳辰は『原子少年』の地球団メンバーとして公衆の目に触れ、決勝曲の作詞に携わりました。2026年には、自室で〈Love Me Again〉のデモを完成させ、ロック的な叫びから台北の夜の路地裏での朝食屋ダンスへと活動範囲を広げました。この道の最も興味深い点は、アイドルという枠組みから逸脱したのではなく、その枠組みの中で生活感を舞台に描き戻し、グループ経験を個人の創作の土台とした点です。",
     "city": "台北"
   },
   {
@@ -18667,6 +18821,17 @@
     "city": "台北"
   },
   {
+    "title": "台湾テックが語る物語：100点のチップ、60点のマイク",
+    "lat": 23.006129,
+    "lng": 120.229352,
+    "category": "technology",
+    "region": "south",
+    "link": "/ja/technology/taiwan-tech-storytelling",
+    "lang": "ja",
+    "desc": "台湾は100点のチップを作れるのに、ついサプライヤーのプレゼン調で語ってしまう。同じ一個のチップを、クアルコムは神話に、MediaTekはスペックシートに仕立てる。NVIDIAは一個も自ら作らないのに、純利益は受託製造側の2倍。この40点の差は、市場がとっくに勘定済みで、請求書は純利益率に印刷されている。",
+    "city": "台南"
+  },
+  {
     "title": "タングステン：台湾には鉱山がないのに、世界中が欲しがる粉末を精製している——その立ち位置は想像以上に脆い",
     "lat": 22.676983,
     "lng": 120.478085,
@@ -19602,14 +19767,14 @@
     "city": "嘉義"
   },
   {
-    "title": "Condado de Chiayi: 490 mil pessoas emprestam a cara a Alishan, a sede do condado em Taibao ninguém lembra",
+    "title": "Condado de Chiayi: 490 mil pessoas emprestam sua imagem a Alishan, mas ninguém lembra que a sede do condado está em Taibao",
     "lat": 23.472425,
     "lng": 120.442629,
     "category": "geography",
     "region": "south",
     "link": "/geography/chiayi-county",
     "lang": "zh-TW",
-    "desc": "Às cinco da manhã, os viveiros de ostras no mar de Dongshi ainda estão na água, metade das ostras do país vem deste mar. A cem quilómetros de distância, em Alishan, a ferrovia florestal inaugurada em 1912 até Erwanping tem 66,6 km. Ao lado da estação de alta velocidade de Taibao, o Museu do Palácio Nacional do Sul levou 15 anos para abrir, teve 760 mil visitantes em 2018. Em 1991, a sede do condado de Chiayi mudou da cidade de Chiayi para Taibao, o país inteiro achava que Chiayi era a cidade de Chiayi. Trinta e cinco anos depois, este condado de 490 mil pessoas rodeia a cidade de 270 mil que foi separada, índice de envelhecimento 174% o primeiro de Taiwan.",
+    "desc": "Às cinco da manhã, as fazendas de ostras no mar de Dongshi ainda estão na água; metade das ostras do país vem deste mar. A cem quilômetros dali, em Alishan, a ferrovia florestal inaugurada em 1912 até Erwanping tem 66,6 km de extensão. No meio, ao lado da estação de alta velocidade de Taibao, o Museu do Palácio Nacional do Sul levou 15 anos para ser construído e abriu as portas; em 2018 recebeu 760 mil visitantes. Quando a sede do condado de Chiayi foi transferida da cidade de Chiayi para Taibao em 1991, o país inteiro achava que Chiayi era apenas a cidade de Chiayi. Trinta e cinco anos depois, os 490 mil habitantes deste condado cercam a cidade de 270 mil que foi separada, com índice de envelhecimento de 174%, o mais alto de Taiwan.",
     "city": "嘉義"
   },
   {
@@ -19621,17 +19786,6 @@
     "link": "/geography/dalongdong",
     "lang": "zh-TW",
     "desc": "Do monte de conchas de Yuanshan há 5.300 anos à construção em palha do Baoan Temple por imigrantes de Tong''an em 1742, do \"a cada cinco passos um xiucai, a cada dez passos um juren\" de Chen Weiying em 1859 à reconstrução em 1925 do Templo de Confúcio demolido pelos japoneses por gentry local, da destruição do Santuário de Taiwan por um avião em 1944 à construção em 1973 por Yang Cho-cheng do Grand Hotel de 14 andares em estilo palaciano chinês no mesmo local. Três espaços de fé alinham-se no eixo de 1,5 km de Dalongdong a Yuanshan, mas nenhum é a versão do guia turístico: o Baoan Temple é o primeiro Prêmio de Patrimônio Cultural da UNESCO Ásia-Pacífico de Taiwan, restaurado por Liao Wu-zhi em 1995 recusando subsídio governamental e gastando 260 milhões do próprio bolso; o Templo de Confúcio existe graças à doação de mais de 3.000 ping de terra pela família Chen Yueji e por Koo Hsien-jung para que Confúcio tivesse um lar; o Grand Hotel com suas telhas amarelas e colunas vermelhas recebeu 111 chefes de Estado. Os tios e tias praticando tai chi na Dalong Street pisam na fatia de tempo mais concentrada de Taipé.",
-    "city": "台北"
-  },
-  {
-    "title": "Gongguan: o laboratório de pesquisa do Império Japonês, o salão clandestino da era da lei marcial, o frango frito dos estudantes da NTU — três séculos em 500 metros",
-    "lat": 25.029042,
-    "lng": 121.57274,
-    "category": "geography",
-    "region": "north",
-    "link": "/geography/gongguan",
-    "lang": "zh-TW",
-    "desc": "Em 1928, os japoneses fundaram a sexta universidade imperial em Taipé; o bairro de professores fora dos portões tornou-se, após a guerra, um enclave de estudiosos da China continental, abrigando o salão de Yin Hai-kuang sob vigilância, a Casa das Glicínias de dissidentes do Partido Fora do Poder e o escritório de Tai Ching-nung; a chegada do metrô em 1999 transformou a rotatória em um centro de consumo estudantil — três épocas comprimidas em meio quilômetro.",
     "city": "台北"
   },
   {
@@ -20075,14 +20229,14 @@
     "city": "馬祖"
   },
   {
-    "title": "Мяоли: хаккский упрямый округ, который за восемь лет избрал главу, умноживший долг казны втрое",
+    "title": "Мяоли: округ хакков-настойчивых, где за восемь лет избрали главу, удвоившего долги казначейства",
     "lat": 24.557924,
     "lng": 120.828857,
     "category": "geography",
     "region": "central",
     "link": "/geography/miaoli-county",
     "lang": "zh-TW",
-    "desc": "В японский колониальный период Мяоли производил 95% камфоры на Тайване, а Саньи заложил основу деревообработки из остатков камфоровых деревьев. В 2002 году в деревне Бэйхэ цюня Гуанььсян прошёл первый фестиваль цветения павлонии. В 2008 году Лю Чжэньхун принял округ с долгом в 202 млрд, а к 2014 году при уходе долг достиг 676 млрд. Между тем произошли трагедия Чжу Фэньминь, выпившей пестицид, насильственный снос аптеки Чжан и строительство за 1,2 млрд хаккского тулу, ставшего «музеем-комарником». Сегодня в этом округе, где хакки составляют 62,5% населения — второе место на Тайване — живут 530 тысяч человек.",
+    "desc": "В период японского управления Мяоли производил 95% камфоры на всём Тайване, а Саньи заложил основу резьбы по дереву, перерабатывая корни камфорных деревьев. В 2002 году в деревне Бэйхэ округа Гуаньсянь прошёл первый фестиваль цветения тунговых деревьев. В 2008 году Лю Чжэньхун принял округ с долгами в 20,2 млрд, а к 2014 году, при уходе в отставку, задолженность по книгам достигла 67,6 млрд. Между тем произошли инциденты: Чжу Фэньминь выпила пестицид, аптеку Чжан снесли насильно, а хаккский тулу за 120 млн превратился в «музей комаров». Сегодня в этом округе, где хакки составляют 62,5% — второе по величине значение на Тайване — проживает 530 тысяч человек.",
     "city": "苗栗"
   },
   {
@@ -20460,14 +20614,14 @@
     "city": "台中"
   },
   {
-    "title": "Đài Nam: 261 năm là thủ phủ, 400 năm di tích, chip bán dẫn thế kỷ 21, xếp chồng trên cùng một vùng đất",
+    "title": "Thái Nam: Thủ phủ 261 năm, di tích 400 năm và vi mạch thế kỷ 21 cùng tồn tại trên một mảnh đất",
     "lat": 23.002234,
     "lng": 120.234851,
     "category": "geography",
     "region": "south",
     "link": "/geography/tainan-city",
     "lang": "zh-TW",
-    "desc": "Năm 1624, những người Hà Lan bắt đầu xây thành Zeelandia trên đồi cát ở Đại Viên. Ngày 1 tháng 2 năm 1662, Coyette ký hiệp ước đầu hàng tại thành này, ngày 9 tháng 2 anh ta rời bãi biển với 2.000 người Hà Lan. Năm 1665, Trần Yên Hoa xây Khổng Miếu, trở thành \"Toàn Đài Học Vị\". Năm 1684, triều đại Thanh thành lập Đài Nam Phủ, từ 1624 đến 1885 liên tục 261 năm, Đài Nam là trung tâm hành chính của Đài Loan. Ngày 13 tháng 3 năm 1947 vào buổi trưa, Thang Đức Chương tại công viên Dân Sinh bị bắn hạ. Ngày 25 tháng 12 năm 2010 hợp nhất hạt và thành phố, 37 quận, 1,86 triệu người. Năm 2023, doanh thu hàng năm của Nam Khoa vượt qua Trúc Khoa. Ba lớp lịch sử xếp chồng trên cùng một vùng đất.",
+    "desc": "Năm 1624, người Hà Lan bắt đầu xây dựng Thành Lạp Lan Xa trên cồn cát Đại Oan; ngày 1 tháng 2 năm 1662, Kê Nhất ký Hiệp ước Trịnh-Hà và rời bãi biển cùng 2.000 người Hà Lan vào ngày 9 tháng 2. Năm 1665, Trần Vĩnh Hoa xây dựng Khổng Miếu, trở thành \"trường học đầu tiên của toàn Đài\". Năm 1885, địa vị thủ phủ 261 năm kết thúc khi tỉnh chuyển đến Đài Bắc. Ngày 13 tháng 3 năm 1947, Luật sư Thang Đức Chương bị trói và đưa đi diễu hành trước khi bị bắn ba phát tại Công viên Mẫn Sinh. Ngày 25 tháng 12 năm 2010, thành phố hợp nhất thành 37 quận với khoảng 1,86 triệu dân. Năm 2023, doanh thu của Nam Kho đạt 1 nghìn 5 trăm 855 tỷ Đài tệ, vượt qua Chu Kho 165,5 tỷ Đài tệ; nhà máy wafer 3 nanomet của TSMC trị giá 700 tỷ Đài tệ được xây dựng trên đồng bằng này mà người Hà Lan đã cắm cờ cách đây 400 năm.",
     "city": "台南"
   },
   {
@@ -20600,17 +20754,6 @@
     "link": "/people/samuel-yin-yan-liang",
     "lang": "zh-TW",
     "desc": "Vào lúc sáng sớm 4 giờ 21 phút ngày 26 tháng 5 năm 2026, Chủ tịch Tập đoàn Nhuận Thái, Người sáng lập Giải thưởng Đường Uân Diễn Lương qua đời tại Bệnh viện Đài Bắc Vinh Dân, hưởng thọ 76 tuổi. Trước khi qua đời, ông công khai hứa sẽ hiến 95% tài sản cho từ thiện: xây dựng Trung tâm Ung thư Hạt nặng tại Bệnh viện Đài Bắc Vinh Dân, xây Thư viện Đạt Hiền cho Chính Đại, xây Trung tâm Hoạt động Vương Kim Bình cho Chương Hóa Sư Đại. Năm 2012, ông hiến 30 tỷ đô la Taiwan Mới thành quỹ tín chỉ để thành lập Giải thưởng Đường, với mỗi mục giải thưởng trị giá 50 triệu đô la Taiwan Mới, vượt Nobel. Gia đình của ông tuân theo di chúc, lo hậu sự từ đơn giản, không lập nhà tang lễ, không tổ chức lễ tưởng niệm công khai.",
-    "city": "台北"
-  },
-  {
-    "title": "Vương Đệ Trường: Dùng Logic Kỹ Sư Lạnh Lùng, Chụp Nỗi Đơn Độc Nóng Bỏng Ngực Trên Tim",
-    "lat": 25.037188,
-    "lng": 121.562977,
-    "category": "people",
-    "region": "north",
-    "link": "/people/yang-dechang",
-    "lang": "zh-TW",
-    "desc": "Vào đầu những năm 1980, khi mới về làm việc tại Công ty Phim Trung Tây, Vương Đệ Trường mặc áo sơ mi in ba tên: \"Herzog, Bresson, Yang\" (Herzog, Bresson, Vương Đệ Trường). Người đàn anh này đặt tên mình sau hai nhà vô tư. Người từ bỏ công việc kỹ sư phần mềm tàu ngầm Mỹ, trở về Đài Loan học chụp phim khi mới ba mươi, sau này trở thành đạo diễn người Đài Loan đầu tiên thắng giải Kểu Diễn Viên Hạng Nhất tại Hội Chợ Điện Ản Cannes — nhưng bộ phim của ông \"Một Một\" từng 17 năm không chiếu rộng rãi tại Đài Loan. Ông dùng phương pháp lạnh lùng nhất, chụp lên những gì chúng ta không dám nhìn thấy trong đồng cảm.",
     "city": "台北"
   },
   {

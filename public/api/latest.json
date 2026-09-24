@@ -1,5 +1,5 @@
 {
-  "_generated": "2026-09-23T22:05:07.404Z",
+  "_generated": "2026-09-24T22:05:02.932Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
@@ -294,8 +294,8 @@
         "image": "/article-images/history/recall-bluebird-legislative-yuan-2024.webp"
       },
       {
-        "title": "Kaohsiung: The Year It Became a Direct-Administered City, When Eight People from Kaohsiung Were Locked in Taipei's Prisons",
-        "desc": "On July 1, 1979, Kaohsiung was upgraded to Taiwan's second direct-administered city. On December 10, World Human Rights Day, a speech at the Dagangpu Roundabout by the Formosa Magazine Publishing House turned into a conflict under tear gas. Eight people were sentenced. On February 28, 1980, a blood case erupted at Lin Yi-hsiung's home on Xinyi Road in Taipei. In that same year of 1979, Kaohsiung received administrative glory but swallowed the heaviest political repression in post-war Taiwan. With 2.71 million people scattered across 38 districts, the Qijin sandbar, the Namaxia Bunun tribe, the China Steel smokestacks, and the Weiwuying aluminum alloy roof all share one city. This city took 45 years to stitch its wounds into its own shape.",
+        "title": "Kaohsiung: In 1979, the year it was upgraded to a municipality, eight people from Kaohsiung were imprisoned in Taipei",
+        "desc": "On July 1, 1979, Kaohsiung was upgraded to Taiwan's second special municipality. On December 10th, World Human Rights Day, the speech at Beautiful Island Magazine in Dagangpu Yuanhuan turned into a conflict under tear gas. Eight people were sentenced, and on February 28, 1980, the blood incident occurred at Lin Yi-hsiung's home on Xinyi Road in Taipei. In the same year, 1979, Kaohsiung achieved administrative glory but also endured the heaviest political repression of post-war Taiwan. With 2.71 million people spread across 38 districts—Qijin Sandbar, Nanxia Indigenous Village, China Steel smokestacks, and the Aluminum Dome at Weiwuying all in one city—this city spent 45 years stitching its wounds into its own shape.",
         "category": "geography",
         "href": "/en/geography/kaohsiung-city",
         "date": "2026-09-22T01:05:30+08:00",
@@ -331,7 +331,7 @@
       },
       {
         "title": "Hakka Food Culture",
-        "desc": "The rich and diverse food culture of the Hakka people, from the mellow aroma of ground tea to the mountain-forest charm of ginger lily rice dumplings, showcases the Hakka spirit of frugality and making the most of local ingredients.",
+        "desc": "The rich and diverse Hakka food culture, from the mellow aroma of lei cha to the mountainous charm of wild ginger flower dumplings, showcases the Hakka people's frugal and thrifty lifestyle wisdom",
         "category": "food",
         "href": "/en/food/hakka-food-culture",
         "date": "2026-09-22T01:05:30+08:00",
@@ -366,12 +366,12 @@
         "image": "/article-images/food/taiwanese-pineapple-cake.webp"
       },
       {
-        "title": "Taiwanese Breakfast Culture",
-        "desc": "From danbing, shaobing, and youtiao to the global expansion of Yonghe Soy Milk, breakfast-shop aunties and Taiwanese morning rituals",
+        "title": "Taiwanese Breakfast Culture: Twenty Thousand Shops Sell the Same Breakfast, Yet No One Owns It",
+        "desc": "In 1955, three soy milk shops lined up at Yonghe Zhongzheng Bridge; the one with the 'Yonghe Soy Milk' sign never left a trace. Seventy years later, concentrated soy milk and factory-made pastry skins tore down the barriers to opening a shop. The Judicial Yuan reclassified 'MexiMi' as a weak trademark, and an entire street sprouted Mii-Miii, Hongyi, and Morning Beautiful Rice Cake. This meal could not hold its recipe, could not hold its name, and could not hold the body standing in front of the griddle—so it became the shared dawn of twenty thousand shops.",
         "category": "food",
         "href": "/en/food/taiwan-breakfast-culture",
         "date": "2026-09-22T01:05:30+08:00",
-        "readingTime": null,
+        "readingTime": 20,
         "image": "/article-images/food/taiwan-breakfast-hero-set.webp"
       },
       {
@@ -528,8 +528,8 @@
         "image": "/article-images/technology/taiwan-students-digital-learning-2019.webp"
       },
       {
-        "title": "Chen Chih-chung: Political Rise, Legal Battles, and Digital Reinvention",
-        "desc": "From first family heir to top Kaohsiung councilor, Chen Chih-chung weathered decade-long scandals and election bans before finding a second voice on social media.",
+        "title": "Chen Chih-chung: Elected to Kaohsiung City Council Three Times, Two Terms Ended in Legal Proceedings",
+        "desc": "On August 18, 2008, orientation for the University of Virginia School of Law began, but Chen Chih-chung, who was preparing to pursue his J.D., never showed up and lost his admission eligibility on the very day. Later, he was elected to the Kaohsiung City Council three times from Xiaogang in Qianzhen District, with two of his terms ending at the moment a judgment became final. In between, he served 272 days in prison. The verdict rendered in April 2023 did not include a forfeiture of civil rights. A month later, the three-reading revision of the election and recall law added a blacklist clause, preventing him from registering as a candidate.",
         "category": "people",
         "href": "/en/people/chen-chih-chung",
         "date": "2026-09-22T01:05:30+08:00",
@@ -547,6 +547,15 @@
       }
     ],
     "ja": [
+      {
+        "title": "金鐘賞：三局が十七年たらい回しにした末、台湾が毎年「私たちのテレビ」に線を引く",
+        "desc": "2022年10月22日、陳亞蘭（ちん・あらん）はスーツ姿で国父記念館の舞台に立ち、歌仔戯の男役でドラマ番組主演男優賞を獲得した。五十七年間で初めての女性受賞者だった。1965年にラジオのために鋳られたこの鐘は、十七年間ずっと台視・中視・華視という三つの名前の間だけを回っていた。やがて公視、客家ドラマ、ベトナム人俳優が一人また一人と名簿に入ってきた。金鐘賞が毎年授けるのは演技だが、本当に引いているのは一本の線だ——誰が台湾のテレビに数えられ、誰がまだ線の外にいるのか。",
+        "category": "culture",
+        "href": "/ja/culture/golden-bell-awards",
+        "date": "2026-09-25T01:19:50+08:00",
+        "readingTime": 15,
+        "image": "/article-images/culture/golden-bell-45th-main-stage-2010.webp"
+      },
       {
         "title": "嘉義市：皇帝から嘉義の名を賜りながら、最も見過ごされやすい省轄市となった都市",
         "desc": "清の乾隆52年の詔書により「諸羅」は「嘉義」へ改名され、台湾で唯一、皇帝が自ら名を賜った城となりました。1908年、日本人はこの城の南西3.3キロの水田に、世界初の北回帰線標塔を建てました。1931年、嘉義農林の三民族混成チームは甲子園で準優勝しました。1947年3月25日、画家の陳澄波は駅前で縛られて銃殺され、遺体は路上に三日間置かれました。現在の嘉義市は人口26万人、面積60平方キロ、高鉄駅を持たず、嘉義県に完全に囲まれた、台湾の中規模都市の標本です。",
@@ -807,15 +816,6 @@
         "date": "2026-09-22T01:05:35+08:00",
         "readingTime": 10,
         "image": "/article-images/food/pho-vietnamese-noodle-soup.webp"
-      },
-      {
-        "title": "台湾麺食文化",
-        "desc": "戦後の眷村から国際舞台へ、台湾麺食が七十年間で米援小麦粉から始まり、省籍の記憶と本土の革新を融合し、移民と故郷の食文化叙事詩を綴った",
-        "category": "food",
-        "href": "/ja/food/taiwanese-noodle-culture",
-        "date": "2026-09-22T01:05:35+08:00",
-        "readingTime": 15,
-        "image": "/article-images/food/tu-hsiao-yue-danzai-noodle-2015.webp"
       }
     ],
     "ko": [
@@ -838,8 +838,8 @@
         "image": "/article-images/culture/shopping-design-designbiz-2022-banner.jpg"
       },
       {
-        "title": "타이완의 사운드스케이프: 쓰레기차의 클래식, 지하철의 새소리, 그리고 들리지만 좀처럼 경청되지 않는 섬",
-        "desc": "같은 해, 타이베이 MRT는 레이광샤와 리신윈에게 의뢰해 진입 음악을 예술로 만들면서도, 문 닫힘 경고음의 선율을 없애고 다시 새소리로 되돌렸다. 소리는 동시에 미학화되고 기능화되었다. 타이완이 《소음관리법》으로 제거하려는 이 소리들은 사실 “여기가 집”임을 식별하게 해 주는 표지이다. 한 사운드스케이프 연구 석사의 질문: 타이완을 이해하는 일은 “우리가 어떤 소리에 익숙하게 무심해져 있는가”를 묻는 데서 시작할 수 있다.",
+        "title": "타이완의 음향 풍경: 쓰레기차의 클래식, 지하철의 새소리, 그리고 오직 들리는 것만 존재하는 섬",
+        "desc": "같은 해 타이베이 지하철은 승강장 음악을 예술로 만들면서도, 문 닫힘 경고음의 선율을 제거하고 새소리로 되돌렸다. 소리가 미학화와 기능화되는 과정에서, 타이완이 '집'이라는 지표를 인식하는 데 사용했던 이 소리들은 오히려 간과되어 왔다. 음향 풍경 연구 석사의 질문: 타이완을 이해하려면 '우리는 어떤 소리를 무시하는가?'라는 질문에서 시작해야 한다.",
         "category": "culture",
         "href": "/ko/culture/taiwan-soundscape",
         "date": "2026-09-22T01:05:42+08:00",
@@ -847,8 +847,8 @@
         "image": "/article-images/culture/shilin-night-market-soundscape-2015.webp"
       },
       {
-        "title": "쩐주나이차(珍珠奶茶)",
-        "desc": "1987년 타이중의 한 직원 회의에서 나온 무심한 한 동작이 전 세계를 사로잡는 음료를 만들었다. 쩐주나이차의 기원 논쟁, 문화 정치, 그리고 한 잔의 500킬로칼로리를 둘러싼 건강 논쟁.",
+        "title": "타이완의 쩐주나이차(珍珠奶茶)",
+        "desc": "1987년 타이중 한 차집에서 벌어진 직원 회의, 우연한 행동 하나가 전 세계를 정복했다. 쩐주나이차의 기원 논쟁, 문화 정치, 그리고 500칼로리 음료에 대한 건강 담론.",
         "category": "food",
         "href": "/ko/food/bubble-tea",
         "date": "2026-09-22T01:05:42+08:00",
@@ -901,17 +901,17 @@
         "image": "/article-images/food/taiwanese-pineapple-cake.webp"
       },
       {
-        "title": "타이완 아침 문화",
-        "desc": "계란빵(蛋餅), 샤오빠오유탸오(燒餅油條)에서 융허두장(永和豆漿)의 글로벌 확장까지, 아침집 아줌마와 타이완 사람들의 아침 의식",
+        "title": "대만 아침 식사 문화: 2만 개의 가게가 같은 아침 식사를 팔지만 아무도 소유하지 않는다",
+        "desc": "1955년, 융화 중정교 앞 세 개의 두유 가게 중 '융화 두유' 간판을 단 곳은 남지 않았다. 70년 후, 농축 두유와 공장 토스트가 개업 장벽을 허물자 행정 법원은 '미X미'를 취약 상표로 규정했고, 한 거리는 미아미, 홍예, 짜오안미즈청 같은 가게들로 가득 찼다. 이 아침 식사는 방식을 지키지 못하고, 이름을 지키지 못하며, 프라이팬 앞의 몸을 지키지 못했기에 2만 개의 가게가 공유하는 새벽이 되었다.",
         "category": "food",
         "href": "/ko/food/taiwan-breakfast-culture",
         "date": "2026-09-22T01:05:42+08:00",
-        "readingTime": null,
+        "readingTime": 20,
         "image": "/article-images/food/taiwan-breakfast-hero-set.webp"
       },
       {
-        "title": "대만 발효식품과 절임 문화",
-        "desc": "취두부에서 두부유까지, 대만 고유의 발효 기술과 절임 문화 전통을 탐구하다",
+        "title": "타이완의 발효 식품과 절임 문화",
+        "desc": "취두부부터 두부유까지, 타이완 특유의 발효 기술 및 절임 문화 전통 탐구",
         "category": "food",
         "href": "/ko/food/taiwan-fermented-and-pickled-foods",
         "date": "2026-09-22T01:05:42+08:00",
@@ -982,8 +982,8 @@
         "image": "/article-images/food/pho-vietnamese-noodle-soup.webp"
       },
       {
-        "title": "타이완 면 음식 문화: 미국 원조 밀가루에서 국민 음식까지의 70년 서사시",
-        "desc": "전쟁 후 군인촌에서 국제 무대까지, 타이완 면 음식이 70년간 미국 원조 밀가루에서 출발해 성(省)의 기억과 현지 혁신을 융합하며 이민과 고향의 음식 역사를 써내려간 이야기",
+        "title": "타이완 면식 문화: 전후 권촌에서 국제 무대까지, 70년간의 국민 음식 서사시",
+        "desc": "전후 권촌에서 국제 무대까지, 타이완 면식이 70년간 미원 밀가루에서 시작해 성적 기억과 토착 혁신을 융합하며 이민과 원향의 식문화 서사시를 써내려간 과정",
         "category": "food",
         "href": "/ko/food/taiwanese-noodle-culture",
         "date": "2026-09-22T01:05:42+08:00",
@@ -1018,8 +1018,8 @@
         "image": "/article-images/music/megaport-festival-2025-namba-stage.webp"
       },
       {
-        "title": "선셋 롤러코스터: 포토부스 배경 사진 한 장에서 첼라까지, 타이베이 노을을 영어로 노른  14년",
-        "desc": "2010년, 19세의 학생이 맥 포토부스에서 아무렇게나 「Sunset Rollercoaster」 프리셋을 골라 마이스페이스 프로필 사진으로 설정했다. 14년 후, 이 밴드는 코첼라 페스티벌 20여 년 역사상 무대에 오른 최초의 타이완 밴드가 되었다. 전곡 영어 가사, 아열대 시티팝, 산업 시스템에 기대지 않고, 그들은 대충 찍은 롤러코스터 실루엣 한 장으로 타이완이 세계에 가장 많이 들리는 방식을 만들어냈다.",
+        "title": "낙일 페리스: 포토 부스 배경 사진에서 코첼라까지, 전 영어로 타이베이의 노을을 노래한 14년",
+        "desc": "2010년 19세 학생이 Mac Photo Booth에서 'Sunset Rollercoaster' 프리셋을 임의로 선택하여 MySpace 프로필 사진으로 사용했다. 14년 후, 이 밴드는 코첼라 페스티벌에 초청된 최초의 대만 밴드가 되었다. 전 영어, 아열대 시티 팝, 산업 시스템에 의존하지 않는 그들은 무심코 찍은 롤러코스터 실루엣으로 세계가 듣는 가장 대중적인 방식으로 타이완을 만들어냈다.",
         "category": "music",
         "href": "/ko/music/sunset-rollercoaster",
         "date": "2026-09-22T01:05:42+08:00",
@@ -1092,6 +1092,15 @@
     ],
     "es": [
       {
+        "title": "Premios Golden Bell: tras diecisiete años repartidos entre tres canales, Taiwán traza cada año una línea para «nuestra televisión»",
+        "desc": "El 22 de octubre de 2022, Chen Ya-lan subió al escenario del Auditorio Sun Yat-sen vestida de traje y ganó el premio a Mejor Actor de Programa Dramático interpretando a un galán de ópera taiwanesa, la primera mujer en 57 años. Esta campana, fundida en 1965 para la radio, pasó diecisiete años rotando solo entre tres nombres: TTV, CTV y CTS; después llegaron PTS, los dramas hakka y actores vietnamitas, uno tras otro. Los Golden Bell premian actuaciones cada año, pero lo que de verdad trazan es una línea: quién cuenta como la televisión de Taiwán y quién sigue fuera de ella.",
+        "category": "culture",
+        "href": "/es/culture/golden-bell-awards",
+        "date": "2026-09-25T01:19:50+08:00",
+        "readingTime": 15,
+        "image": "/article-images/culture/golden-bell-45th-main-stage-2010.webp"
+      },
+      {
         "title": "Keelung: El puerto más cercano a Taipéi, el que Taipéi no ve",
         "desc": "A las cuatro de la mañana, el mercado de pescado de Jinanya aún resuena con pujas. Los pescadores gritan en minnan, y en cuestión de segundos un cesto de pescado viaja desde barcos de Hualien, Yilan y Badaocun hasta un restaurante japonés en el distrito este de Taipéi. En 1626, los españoles izaron la bandera en la isla de la paz. En 1875, Shen Baozhen cambió 'Jilong' a 'Ji-di-chang-long'. En 1984, este lugar era el séptimo puerto de contenedores del mundo. Luego ocurrieron tres cosas a la vez: el puerto de Kaohsiung lo superó, el aeropuerto de Taoyuan comenzó a operar y la industria minera se desplomó. Hoy viven 360,000 personas aquí, y el 39% se desplaza a trabajar a Taipéi. Lo que Taipéi ve es un declive, pero el océano ve un puerto que nunca ha dejado su lugar.",
         "category": "geography",
@@ -1101,8 +1110,8 @@
         "image": "/article-images/geography/keelung-hero.webp"
       },
       {
-        "title": "Condado de Chiayi: 490.000 personas le prestan el rostro a Alishan, y nadie recuerda que la sede del condado está en Taibao",
-        "desc": "A las cinco de la madrugada, los criaderos de ostras frente a la costa de Dongshi siguen dentro del agua; la mitad de las ostras de todo el país viene de este mar. A cien kilómetros, en Alishan, el ferrocarril forestal que llegó hasta Erwanping en 1912 tiene una longitud total de 66,6 kilómetros. En medio, junto a la estación Chiayi del tren de alta velocidad en Taibao, la sede sur del Museo Nacional del Palacio tardó 15 años en abrir; en 2018 recibió 760.000 visitantes. Cuando en 1991 la sede del condado de Chiayi se trasladó desde la ciudad de Chiayi a Taibao, todo el país seguía pensando que Chiayi era la ciudad de Chiayi. Treinta y cinco años después, las 490.000 personas de este condado rodean una ciudad de 270.000 habitantes que le fue recortada, con un índice de envejecimiento de 174%, el más alto de Taiwán.",
+        "title": "Condado de Chiayi: 490,000 personas prestan su rostro a Alishan y nadie recuerda la capital del condado en Taibao",
+        "desc": "A las cinco de la mañana, los puestos de ostras de Dongshi aún están en el agua; la mitad de los ostiones del país provienen de estas aguas. A 100 kilómetros, el ferrocarril forestal de Alishan, inaugurado en 1912, tiene una longitud total de 66.6 kilómetros y abarca veinte mil pings. El Museo Nacional Palace (Sucursal Sur) cerca de la estación de tren de alta velocidad de Taibao tardó 15 años en abrir y recibió 760,000 visitantes en 2018. Cuando la capital del condado de Chiayi se trasladó de la ciudad de Chiayi a Taibao en 1991, todo el país consideraba que Chiayi era solo la ciudad de Chiayi. Treinta y cinco años después, este condado, con 490,000 habitantes rodeando los 270,000 residentes separados, tiene un índice de envejecimiento del 174%, el más alto de Taiwán.",
         "category": "geography",
         "href": "/es/geography/chiayi-county",
         "date": "2026-09-22T01:05:46+08:00",
@@ -1110,8 +1119,8 @@
         "image": ""
       },
       {
-        "title": "Ciudad de Hsinchu: la muralla de bambú de Zhúqiàn plantada en 1733, cuna de TSMC nacida en 1980",
-        "desc": "En 1733, undécimo año del reinado de Yongzheng, el magistrado de la prefectura de Tamsui, Xu Zhimin, plantó bambú espinoso (cìzhú) alrededor del asentamiento de Zhúqiàn, formando una muralla circular de tierra de 1408 metros de circunferencia. En 1829 se completó la muralla de ladrillo y piedra; la puerta oriental, Puerta Yingxi (迎曦門), sigue en pie junto al foso. 247 años después, el 15 de diciembre de 1980, Chiang Ching-kuo cortó la cinta roja del primer parque científico de Taiwán, a 5 kilómetros de la Puerta Yingxi. Entre 1953 y 1974, 148 miembros del Escuadrón Murciélago Negro (黑蝙蝠中隊) despegaron de esta ciudad del viento para realizar misiones de reconocimiento sobre China continental y nunca regresaron. Una ciudad subprovincial de 450 000 habitantes sostuvo el frente de la Guerra Fría, fue la ciudad han más antigua del norte, alberga dos universidades de élite y es el punto de partida del 90 % de los chips de gama alta del mundo. El apodo \"Ciudad del Viento\" suena literario, pero todas las industrias de esta ciudad están relacionadas con el viento.",
+        "title": "Hsinchu: la ciudad de bambú fundada en 1733 que en 1980 vio nacer la cuna de TSMC",
+        "desc": "En el undécimo año de Yongzheng (1733), el subprefecto de Tamsui Xu Zhi-min plantó bambú espinos alrededor de un perímetro de 1408 metros, creando una ciudadela circular de tierra. La muralla de ladrillo y piedra se completó en 1829, y la puerta oriental Yingxi sigue en pie junto al foso. 247 años después, el 15 de diciembre de 1980, Chiang Ching-kuo cortó la cinta inaugural del primer parque científico de Taiwán a 5 km de la puerta Yingxi. Entre 1953 y 1974, 148 miembros del Escuadrón Murciélago Negro despegaron de esta ciudad del viento para reconocer la China continental y nunca regresaron. Una ciudad provincial de 450 000 habitantes que sostiene la primera línea de la Guerra Fría, la ciudad han más antigua del norte, dos universidades de élite y el origen del 90 % de los chips avanzados mundiales. El apodo \"ciudad del viento\" suena literario, pero en esta ciudad todas las industrias están ligadas al viento.",
         "category": "geography",
         "href": "/es/geography/hsinchu-city",
         "date": "2026-09-22T01:05:46+08:00",
@@ -1173,8 +1182,8 @@
         "image": "/article-images/food/formosa-oolong-tea-jacksons.webp"
       },
       {
-        "title": "La cultura culinaria hakka",
-        "desc": "La rica y diversa cultura culinaria del pueblo hakka, desde el aroma intenso del lei cha hasta el encanto silvestre del zongzi de jengibre silvestre, refleja la sabiduría de vida de esta comunidad, caracterizada por su frugalidad y el aprovechamiento de los recursos locales.",
+        "title": "Cultura gastronómica hakka",
+        "desc": "La rica y diversa cultura gastronómica del pueblo hakka, desde el aroma intenso del té machacado hasta el encanto montañés de los zongzi de flor de jengibre silvestre, refleja la sabiduría de vida de este grupo étnico, caracterizada por la laboriosidad, la economía doméstica y el aprovechamiento de los recursos locales",
         "category": "food",
         "href": "/es/food/hakka-food-culture",
         "date": "2026-09-22T01:05:46+08:00",
@@ -1209,17 +1218,17 @@
         "image": "/article-images/food/taiwanese-pineapple-cake.webp"
       },
       {
-        "title": "Cultura del desayuno en Taiwán",
-        "desc": "De danbing, shaobing y youtiao a la expansión global de Yonghe Doujiang: las tías de las tiendas de desayuno y el ritual matutino de los taiwaneses",
+        "title": "La cultura del desayuno en Taiwán: veinte mil tiendas venden el mismo desayuno, y nadie lo posee",
+        "desc": "En 1955, tres tiendas de té de soja se alinearon frente al puente Zhongzheng en Yonghe; la que tenía el letrero \"Yonghe Soy Milk\" no sobrevivió. Setenta años después, con la reducción de las barreras de entrada gracias a la leche de soja concentrada y los panecillos industriales, el tribunal administrativo clasificó a \"Mei X Mei\" como una marca vulnerable, y toda la calle se llenó de Mei You Mei, Hongye y Zaonan Meizicheng. Este desayuno no puede defender su método, ni su nombre, ni el cuerpo frente a la sartén, por lo que se ha convertido en un amanecer compartido por veinte mil tiendas.",
         "category": "food",
         "href": "/es/food/taiwan-breakfast-culture",
         "date": "2026-09-22T01:05:46+08:00",
-        "readingTime": null,
+        "readingTime": 20,
         "image": "/article-images/food/taiwan-breakfast-hero-set.webp"
       },
       {
-        "title": "Alimentos fermentados y cultura del encurtido en Taiwán",
-        "desc": "Desde el tofu apestoso hasta el queso de soja fermentado, explorando las técnicas de fermentación únicas de Taiwán y la tradición cultural del encurtido",
+        "title": "La cultura de alimentos fermentados y encurtidos de Taiwán",
+        "desc": "Desde el tofu apestoso hasta el *douhua ru*, explorando las tradiciones únicas de fermentación y conservación de Taiwán",
         "category": "food",
         "href": "/es/food/taiwan-fermented-and-pickled-foods",
         "date": "2026-09-22T01:05:46+08:00",
@@ -1335,8 +1344,8 @@
         "image": "/article-images/art/nml-trial-issue-hero-2011.webp"
       },
       {
-        "title": "Megaport Festival: el festival de música taiwanés que creció junto al puerto de Kaohsiung",
-        "desc": "Megaport Festival (大港開唱) es un gran festival taiwanés al aire libre fundado en 2006 junto al puerto de Kaohsiung. Partiendo de la experiencia curatorial del equipo de Formoz Festival, de los miembros de CHTHONIC y de TRA Music, reunió en un mismo espacio a las bandas del sur de Taiwán, los directos en taiwanés, los carteles internacionales, la aldea de ONG y el paisaje portuario. Gracias a él, la ribera del puerto de Kaohsiung se convirtió en un escenario clave donde se cruzan la cultura de ir a ver bandas, la identidad urbana y los asuntos públicos de Taiwán.",
+        "title": "Gran apertura en el puerto: el festival de música al aire libre de Taiwán que nació en el puerto de Kaohsiung",
+        "desc": "Megaport Festival es un festival de música al aire libre de gran envergadura creado en 2006 junto al puerto de Kaohsiung. Partiendo de la experiencia del equipo de producción de Wild Child Live y de miembros de la banda Shinzui junto con TRA Music, reúne bandas de Taiwán meridional, escenarios en taiyu, carteles internacionales, puestas temáticas de ONG y el paisaje portuario en un mismo espacio. Convierte el puerto de Kaohsiung en un punto clave donde convergen la cultura de audiencia, la identidad urbana y los asuntos públicos.",
         "category": "music",
         "href": "/es/music/megaport-festival",
         "date": "2026-09-22T01:05:46+08:00",
@@ -1351,18 +1360,18 @@
         "date": "2026-09-22T01:05:46+08:00",
         "readingTime": "12min",
         "image": "/article-images/music/sunset-rollercoaster-live-2018.webp"
-      },
-      {
-        "title": "Desarrollo del hip hop y el rap en Taiwán: el chino no debería poder rapear, el taiwanés no podía subir al escenario, y esto no era un gueto; convirtieron tres desventajas en una huella vocal de soberanía",
-        "desc": "En 2004, Sung Yueh-ting llevaba ya dos años muerto. Su madre y su hermano menor subieron al escenario para recibir en su nombre el Golden Melody a mejor letrista. Las rimas dobles de «Life's a Struggle» empujaron un paso más allá el prejuicio de que «el chino no sirve para rapear». Desde los años underground, cuando se aprendía de manera autodidacta disco importado por disco importado, hasta que Leo Wang y MC HotDog ganaron sucesivamente el premio a mejor cantante masculino de rap, Taiwán recorrió ese camino en veinte años. Pero lo más conmovedor de esta isla no es cuánto se parece a Estados Unidos, sino cómo convirtió tres desventajas de origen —los tonos del chino, el acento del taiwanés y unos sujetos vulnerables que no venían del gueto— en una huella vocal plural de soberanía que sólo aquí podía cantarse.",
-        "category": "music",
-        "href": "/es/music/taiwan-hip-hop-and-rap",
-        "date": "2026-09-22T01:05:46+08:00",
-        "readingTime": 24,
-        "image": "/article-images/music/nine-one-one-2016.webp"
       }
     ],
     "fr": [
+      {
+        "title": "Golden Bell Awards : après dix-sept ans où trois chaînes se sont partagé le prix à tour de rôle, Taïwan trace chaque année une ligne autour de « notre télévision »",
+        "desc": "Le 22 octobre 2022, Chen Ya-lan est montée sur la scène du Sun Yat-sen Memorial Hall en costume, remportant le prix du meilleur acteur dans un programme dramatique grâce à son rôle masculin d’opéra taïwanais — la première femme en cinquante-sept ans. Cette cloche, fondue en 1965 pour la radio, n’a tourné pendant dix-sept ans qu’entre trois noms : TTV, CTV et CTS ; puis PTS, les fictions hakka et des acteurs vietnamiens sont entrés un à un dans la liste. Chaque année, les Golden Bell Awards récompensent le jeu d’acteur, mais ce qu’ils tracent vraiment, c’est une ligne : qui compte comme « la télévision de Taïwan », et qui reste encore en dehors.",
+        "category": "culture",
+        "href": "/fr/culture/golden-bell-awards",
+        "date": "2026-09-25T01:19:50+08:00",
+        "readingTime": 15,
+        "image": "/article-images/culture/golden-bell-45th-main-stage-2010.webp"
+      },
       {
         "title": "Hualien : les Sakizaya, invisibles pendant 129 ans, le Taroko, reconquis par la reconnaissance officielle, mais éloigné à nouveau par le 0403",
         "desc": "En 1878, l’armée Qing fit subir le lingchi (dépeçage lent) au chef Komod Pazik du clan Takivaw, ligoté à un banian ; les Sakizaya se cachèrent au sein des Amis pendant 129 ans. En 2004, le peuple Taroko sortit des rangs des Atayal pour devenir la 12e ethnie ; en 2007, le gouvernement de Chen Shui-bian reconnut les Sakizaya comme la 13e ethnie. Le 3 avril 2024 à 7h58, les 98 secondes du séisme de magnitude 7.1 ont détruit d’un coup les sites de Yanzi Kou (Bouche d’Hirondelle), Jiudong et le sentier Sakadang du parc national de Taroko. En 2024, les visiteurs ne sont plus que 210 000 contre 6,6 millions en année normale. Sur cette terre, la plus étroite à seulement 5 km entre mer et montagnes, le destin des 6 peuples autochtones a toujours oscillé avec les plaques tectoniques.",
@@ -1373,8 +1382,8 @@
         "image": "/article-images/geography/cingshui-cliffs-suhua-highway-2009.webp"
       },
       {
-        "title": "Lianjiang : le comté le plus éloigné de Taïwan, le plus proche de la Guerre froide",
-        "desc": "Depuis le sommet de Nangan, Fuzhou est à 16 km. Taipei est à 200 km. Le siège du comté de Lianjiang est de l'autre côté des forces communistes. En 1617, Shen Yourong captura 69 pirates sur l'île Dongju ; en 1956, l'Armée nationale transforma ces cinq îles en zone d'administration militaire ; en 1992, Kinmen et Matsu furent libérés cinq ans après Taïwan. Aujourd'hui, 13 646 personnes y vivent, le taux de perte du dialecte de Matsu est de 94 %, et le référendum sur les jeux de hasard, le seul au pays à avoir été approuvé en 2012, n'a toujours pas abouti. Les « Larmes bleues » attirent 200 000 visiteurs par an, mais les habitants se souviennent des restrictions d'éclairage. Un comté de 28,8 km² qui condense l'histoire de la Guerre froide de Taïwan.",
+        "title": "Comté de Lienchiang : le comté le plus éloigné de Taïwan, celui le plus proche de la Guerre Froide",
+        "desc": "Du sommet de Nan'ao, on peut voir Fuzhou en 16 kilomètres. Taipei est à 200 kilomètres, et l'administration du comté se trouve du côté des forces communistes. En 1617, Shen Yourong a capturé 69 pirates japonais au pied de Dongju. En 1956, les Forces nationales ont transformé ces cinq îles en zones administratives militaires. En 1992, Kinmen est devenue libre cinq ans après Taïwan. Aujourd'hui, 13 646 personnes vivent ici, le taux de perte de la langue Mazong est de 94 %, et le référendum sur les jeux, unique à être adopté au niveau national en 2012, n'a toujours pas de suite. Les larmes bleues attirent 200 000 touristes par an, mais les habitants se souviennent du couvre-feu. Un comté de 28,8 kilomètres carrés qui condense l'histoire de la Guerre Froide de Taïwan sur lui.",
         "category": "geography",
         "href": "/fr/geography/lienchiang-county",
         "date": "2026-09-22T01:05:52+08:00",
@@ -1400,8 +1409,8 @@
         "image": ""
       },
       {
-        "title": "Comté de Penghu : deux refus du casino, l'île aux Chrysanthèmes n'a pas choisi la pauvreté",
-        "desc": "Le 26 septembre 2009, à Magong, 17 359 voix contre, 3 962 voix d'écart, le casino a perdu. Sept ans plus tard, en 2016, on revote : 81,07 % contre. Un archipel de seulement 1 000 mm de pluie par an, 108 000 habitants inscrits mais seulement 80 000 résidents, a produit le premier référendum local sur les jeux d'argent du pays, puis l'a reproduit. Dans ces mêmes eaux, en 1604, Shen Yourong a fait retraiter les Néerlandais ; en 1622, les Néerlandais sont passés de Fengguetou à Tainan ; en 1885, le général Courbet est mort de maladie au port de Magong. Les colonnes de basalte de 17,4 millions d'années sont toujours là, 89 îles sont en roche volcanique noire, 1 est en andésite plus ancienne. En hiver, dans les murs de pierre des _càizhái_, les cultures poussent à l'abri du vent.",
+        "title": "Penghu : Deux fois le refus des casinos, l'île a choisi autre chose que la pauvreté",
+        "desc": "Le 26 septembre 2009, une votation locale sur les jeux de hasard a eu 17 359 votes contre et 3 962 pour. Sept ans plus tard, en 2016, un nouveau vote a enregistré 81,07 % de votes contre. Cette île isolée, avec seulement 1 000 mm de précipitations par an et une population permanente de 80 000 sur 108 000 inscrits au registre, est devenue le théâtre du premier référendum local sur les jeux, puis d'un second. Dans cette même zone maritime, Shen You-rong a chassé les Néerlandais en 1604 ; les Néerlandais sont partis de Fengguiwei pour Tainan en 1622 ; et le commandant français est mort de maladie à Mamiyaungang en 1885. Les piliers de basalte vieux de 17,4 millions d'années subsistent, avec 89 îles de roche volcanique noire et une plus ancienne île de andésite. Dans les murs de pierre des fermes hivernales, les cultures poussent à l'abri du vent.",
         "category": "geography",
         "href": "/fr/geography/penghu-county",
         "date": "2026-09-22T01:05:52+08:00",
@@ -1454,8 +1463,8 @@
         "image": "/article-images/food/formosa-oolong-tea-jacksons.webp"
       },
       {
-        "title": "La culture culinaire hakka",
-        "desc": "La culture culinaire riche et diversifiée du peuple hakka, du parfum onctueux du « lei cha » aux saveurs forestières du zongzi à la fleur de gingembre sauvage, reflète la sagesse de vie de la communauté hakka, fondée sur l'économie domestique et l'utilisation des ressources locales.",
+        "title": "La culture gastronomique Hakka (客家)",
+        "desc": "La riche et diversifiée culture alimentaire des Hakka, de l'arôme profond du *lei cha* à l'atmosphère forestière des *zong* au fleur de gingembre sauvage, illustre la sagesse de vie basée sur le travail acharné et l'utilisation locale des ressources par les familles Hakka.",
         "category": "food",
         "href": "/fr/food/hakka-food-culture",
         "date": "2026-09-22T01:05:52+08:00",
@@ -1517,8 +1526,8 @@
         "image": "/article-images/food/taiwan-food-overview-raohe-night-market-2023.webp"
       },
       {
-        "title": "Les saveurs autochtones de Taïwan : trois mille ans de mémoire culinaire",
-        "desc": "Des flammes d'AKAME à l'univers végétal des Amis — comment la cuisine des peuples autochtones de Taïwan retrouve aujourd'hui sa place sur la scène mondiale",
+        "title": "La culture alimentaire des peuples autochtones de Taïwan",
+        "desc": "Des flammes d'Akame au cosmos végétal des Amis : comment la cuisine autochtone de Taïwan rallume le regard mondial après trois millénaires",
         "category": "food",
         "href": "/fr/food/taiwan-indigenous-foodways",
         "date": "2026-09-22T01:05:52+08:00",
@@ -1535,8 +1544,8 @@
         "image": "/article-images/food/rice-dumpling-zongzi.webp"
       },
       {
-        "title": "La culture des fruits de mer à Taïwan",
-        "desc": "Des ports de pêche aux étals de nuit, en passant par les restaurants et les huîtres dorées à la plancha, Taïwan célèbre les trésors de la mer avec une générosité et une fraîcheur incomparables",
+        "title": "Culture des fruits de mer de Taïwan",
+        "desc": "Livraison directe depuis les ports de pêche, culture des restaurants de fruits de mer, omelette aux huîtres et autres plats de saveurs marines, illustrant le caractère insulaire de Taïwan, entouré de mer, et sa riche tradition culinaire des fruits de mer",
         "category": "food",
         "href": "/fr/food/taiwan-seafood-culture",
         "date": "2026-09-22T01:05:52+08:00",
@@ -1554,7 +1563,7 @@
       },
       {
         "title": "La culture végétarienne de Taïwan",
-        "desc": "La proportion de population végétarienne à Taïwan se classe parmi les trois premières au monde, de la tradition végétarienne bouddhiste à l'évolution culturelle de l'innovation moderne en matière d'ingrédients végétaux",
+        "desc": "La proportion de végétariens à Taïwan se classe parmi les trois premières au monde, évolution culturelle de la tradition bouddhique à l'innovation moderne des ingrédients végétariens",
         "category": "food",
         "href": "/fr/food/taiwan-vegetarian-culture",
         "date": "2026-09-22T01:05:52+08:00",
@@ -1623,15 +1632,6 @@
         "date": "2026-09-22T01:05:52+08:00",
         "readingTime": 16,
         "image": "/article-images/technology/chung-shyang-ii-uav-2007.webp"
-      },
-      {
-        "title": "L'IA entre dans les salles de classe : Trois cents agents, pour soutenir des enseignants seuls après la formation",
-        "desc": "En 2026, Xu Tai-ping a mis à disposition une centaine d'agents IA conçus pour environ quatre-vingt enseignants dans un marché partagé. Deux enquêtes taïwanaises révèlent que si neuf décimales de professeurs ont déjà été exposés à l'IA, 95,6 % estiment encore avoir besoin de formation. De la courte session de trois heures au collège Da Jia (Da Jia National School) aux tests « client » (customer) du lycée Nei-hu, en passant par le programme 'Arche des talents' du Ministère de l'Éducation, cet article se demande : les outils sont-ils dans les salles de classe, mais qui soutient les enseignants une fois retournés au travail ? C'est un défi éducatif plus ardu que la simple diffusion d'outils.",
-        "category": "technology",
-        "href": "/fr/technology/taiwan-teachers-and-ai-education",
-        "date": "2026-09-22T01:05:52+08:00",
-        "readingTime": null,
-        "image": "/article-images/technology/taiwan-students-digital-learning-2019.webp"
       }
     ],
     "vi": [
@@ -1708,8 +1708,8 @@
         "image": ""
       },
       {
-        "title": "Nhìn Đài Loan qua dữ liệu 22 tỉnh thành: khoảng cách mật độ 151 lần, chênh lệch tuổi thọ một thế hệ",
-        "desc": "Trên cùng một hòn đảo, thành phố đông đúc nhất Đài Bắc có 8.975 người trên mỗi km², trong khi Đài Đông chỉ có 59 người, chênh lệch 151 lần. Tân Bắc có 4,04 triệu dân là nơi đông nhất, trong khi Liên Giang chỉ 1,36 vạn người là nơi ít nhất, chênh lệch 297 lần. Hsinchu Tân Trúc với tỷ lệ cao tuổi 15,08% là nơi trẻ nhất, Chiayi Chiayi với 24,11% là nơi già nhất, chênh lệch gần một thế hệ. Sử dụng dữ liệu chính thức từ Bộ Nội vụ Đài Loan cuối năm 2025, bài viết vẽ một bức chân dung đảo quốc có thể đo đạc và kiểm chứng được: bảy mươi phần trăm dân cư tập trung trên ba mươi phần trăm diện tích đất, tình trạng già hóa không bắt đầu từ các thành phố mà từ phía đông, đảo ngoài khơi và các tỉnh nông nghiệp, mọi tỉnh thành đều ghi nhận con số tử vong vượt quá sinh thêm.",
+        "title": "Nhìn Đài Loan qua dữ liệu 22 thành phố và huyện: Chênh lệch mật độ 151 lần, chênh lệch thế hệ giữa già nhất và trẻ nhất",
+        "desc": "Cùng một hòn đảo, Thủ đô Đài Bắc có mật độ dân số cao nhất là 8.975 người/km², trong khi Cao Hùng có mức thấp nhất chỉ 59 người; sự khác biệt lên tới 151 lần. Tân Trúc với tỷ lệ già hóa 15,08% và Gia Nghĩa với 24,11% cho thấy khoảng cách gần một thế hệ. Dựa trên dữ liệu chính thức cuối năm 2025 của Cục Hành chính dân sự Bộ Nội vụ, chúng tôi vẽ nên chân dung có thể kiểm chứng của cả hòn đảo: bảy phần dân cư chen chúc trong ba phần đất đai, và ranh giới già hóa không nằm ở đô thị mà ở các vùng phía Đông, đảo xa và nông nghiệp; và tất cả 22 thành phố/huyện đều đã vượt qua ngưỡng sinh bằng tử.",
         "category": "geography",
         "href": "/vi/geography/data-taiwan-22-cities",
         "date": "2026-09-22T01:05:58+08:00",
@@ -1726,8 +1726,8 @@
         "image": ""
       },
       {
-        "title": "Đài Nam: 261 năm là thủ phủ, 400 năm di tích, chip bán dẫn thế kỷ 21, xếp chồng trên cùng một vùng đất",
-        "desc": "Năm 1624, những người Hà Lan bắt đầu xây thành Zeelandia trên đồi cát ở Đại Viên. Ngày 1 tháng 2 năm 1662, Coyette ký hiệp ước đầu hàng tại thành này, ngày 9 tháng 2 anh ta rời bãi biển với 2.000 người Hà Lan. Năm 1665, Trần Yên Hoa xây Khổng Miếu, trở thành \"Toàn Đài Học Vị\". Năm 1684, triều đại Thanh thành lập Đài Nam Phủ, từ 1624 đến 1885 liên tục 261 năm, Đài Nam là trung tâm hành chính của Đài Loan. Ngày 13 tháng 3 năm 1947 vào buổi trưa, Thang Đức Chương tại công viên Dân Sinh bị bắn hạ. Ngày 25 tháng 12 năm 2010 hợp nhất hạt và thành phố, 37 quận, 1,86 triệu người. Năm 2023, doanh thu hàng năm của Nam Khoa vượt qua Trúc Khoa. Ba lớp lịch sử xếp chồng trên cùng một vùng đất.",
+        "title": "Thái Nam: Thủ phủ 261 năm, di tích 400 năm và vi mạch thế kỷ 21 cùng tồn tại trên một mảnh đất",
+        "desc": "Năm 1624, người Hà Lan bắt đầu xây dựng Thành Lạp Lan Xa trên cồn cát Đại Oan; ngày 1 tháng 2 năm 1662, Kê Nhất ký Hiệp ước Trịnh-Hà và rời bãi biển cùng 2.000 người Hà Lan vào ngày 9 tháng 2. Năm 1665, Trần Vĩnh Hoa xây dựng Khổng Miếu, trở thành \"trường học đầu tiên của toàn Đài\". Năm 1885, địa vị thủ phủ 261 năm kết thúc khi tỉnh chuyển đến Đài Bắc. Ngày 13 tháng 3 năm 1947, Luật sư Thang Đức Chương bị trói và đưa đi diễu hành trước khi bị bắn ba phát tại Công viên Mẫn Sinh. Ngày 25 tháng 12 năm 2010, thành phố hợp nhất thành 37 quận với khoảng 1,86 triệu dân. Năm 2023, doanh thu của Nam Kho đạt 1 nghìn 5 trăm 855 tỷ Đài tệ, vượt qua Chu Kho 165,5 tỷ Đài tệ; nhà máy wafer 3 nanomet của TSMC trị giá 700 tỷ Đài tệ được xây dựng trên đồng bằng này mà người Hà Lan đã cắm cờ cách đây 400 năm.",
         "category": "geography",
         "href": "/vi/geography/tainan-city",
         "date": "2026-09-22T01:05:58+08:00",
@@ -2207,8 +2207,8 @@
         "image": "/article-images/geography/chiayi-city-hero.webp"
       },
       {
-        "title": "Condado de Chiayi: 490 mil pessoas emprestam a cara a Alishan, a sede do condado em Taibao ninguém lembra",
-        "desc": "Às cinco da manhã, os viveiros de ostras no mar de Dongshi ainda estão na água, metade das ostras do país vem deste mar. A cem quilómetros de distância, em Alishan, a ferrovia florestal inaugurada em 1912 até Erwanping tem 66,6 km. Ao lado da estação de alta velocidade de Taibao, o Museu do Palácio Nacional do Sul levou 15 anos para abrir, teve 760 mil visitantes em 2018. Em 1991, a sede do condado de Chiayi mudou da cidade de Chiayi para Taibao, o país inteiro achava que Chiayi era a cidade de Chiayi. Trinta e cinco anos depois, este condado de 490 mil pessoas rodeia a cidade de 270 mil que foi separada, índice de envelhecimento 174% o primeiro de Taiwan.",
+        "title": "Condado de Chiayi: 490 mil pessoas emprestam sua imagem a Alishan, mas ninguém lembra que a sede do condado está em Taibao",
+        "desc": "Às cinco da manhã, as fazendas de ostras no mar de Dongshi ainda estão na água; metade das ostras do país vem deste mar. A cem quilômetros dali, em Alishan, a ferrovia florestal inaugurada em 1912 até Erwanping tem 66,6 km de extensão. No meio, ao lado da estação de alta velocidade de Taibao, o Museu do Palácio Nacional do Sul levou 15 anos para ser construído e abriu as portas; em 2018 recebeu 760 mil visitantes. Quando a sede do condado de Chiayi foi transferida da cidade de Chiayi para Taibao em 1991, o país inteiro achava que Chiayi era apenas a cidade de Chiayi. Trinta e cinco anos depois, os 490 mil habitantes deste condado cercam a cidade de 270 mil que foi separada, com índice de envelhecimento de 174%, o mais alto de Taiwan.",
         "category": "geography",
         "href": "/pt/geography/chiayi-county",
         "date": "2026-09-22T01:09:03+08:00",
@@ -2451,6 +2451,15 @@
       }
     ],
     "hi": [
+      {
+        "title": "गोल्डन बेल अवार्ड्स: तीन चैनलों में सत्रह साल की बारी के बाद, ताइवान हर साल \"हमारे टेलीविज़न\" के लिए एक रेखा खींचता है",
+        "desc": "22 अक्टूबर 2022 को, चेन या-लान सूट पहनकर सन यात-सेन स्मारक भवन के मंच पर चढ़ीं और गीत-नाट्य के पुरुष पात्र की भूमिका में नाटक श्रेणी सर्वश्रेष्ठ अभिनेता पुरस्कार जीता — सत्तावन साल में पहली महिला विजेता। 1965 में रेडियो प्रसारण के लिए ढाला गया यह घंटा, सत्रह साल तक केवल तीन नामों के बीच घूमता रहा; बाद में सार्वजनिक टेलीविज़न, हक्का नाटक, वियतनामी अभिनेता एक-एक कर सूची में शामिल होते गए। गोल्डन बेल हर साल अभिनय को पुरस्कृत करता है, पर असल में जो खींचा जाता है वह एक रेखा है: कौन ताइवान के टेलीविज़न में गिना जाता है, और कौन अब भी उस रेखा के बाहर है।",
+        "category": "culture",
+        "href": "/hi/culture/golden-bell-awards",
+        "date": "2026-09-25T01:19:50+08:00",
+        "readingTime": 15,
+        "image": "/article-images/culture/golden-bell-45th-main-stage-2010.webp"
+      },
       {
         "title": "कीलुंग शहर: ताइपे के सबसे नज़दीक का बंदरगाह, जिसे ताइपे सबसे कम देख पाता है",
         "desc": "भोर के चार बजे कांग्ज़ीडिंग मछली बाज़ार में अभी भी नीलामी की आवाज़ें गूँज रही हैं। नीलामकर्ता होक्किएन में बोली लगाते हैं, और चंद सेकंड में एक टोकरी मछली हुआलिएन, यीलान, बादौज़ी के मछली पकड़ने वाले जहाज़ों से ताइपे के पूर्वी ज़िले के जापानी रेस्तरां में पहुँच जाती है। 1626 में स्पेनिश लोगों ने मात्सू द्वीप पर झंडा गाड़ा, 1875 में शेन बाओझेन ने \"जिलॉन्ग\" को \"कीलुंग\" में बदला जिसका अर्थ \"आधार समृद्ध और फलता-फूलता\" है, 1984 में यह बंदरगाह दुनिया का सातवाँ सबसे बड़ा कंटेनर बंदरगाह था। फिर तीन चीज़ें एक साथ हुईं: काऊशुंग बंदरगाह ने इसे पीछे छोड़ दिया, ताओयुआन हवाई अड्डा चालू हो गया, और जिनगुआशिह खनन क्षेत्र ढह गया। आज यहाँ 3.6 लाख लोग रहते हैं, 39% ताइपे आने-जाने के लिए यात्रा करते हैं। ताइपे देखता है गिरावट, समुद्र देखता है एक ऐसा बंदरगाह जिसने कभी अपनी जगह नहीं छोड़ी।",
@@ -2711,15 +2720,6 @@
         "date": "2026-09-22T01:05:09+08:00",
         "readingTime": "8",
         "image": ""
-      },
-      {
-        "title": "ली अंग: दो ऑस्कर के पीछे, वह बेटा जिसके पिता को अलविदा कहने का मौका ही नहीं मिला",
-        "desc": "2006 में ऑस्कर के मंच पर, ली अंग इतिहास के पहले एशियाई निर्देशक बने जिन्होंने सर्वश्रेष्ठ निर्देशक का पुरस्कार जीता, लेकिन उन्होंने मंदारिन में कहा, \"आपकी देखभाल के लिए धन्यवाद।\" दुनिया दो छोटे सोने के मूर्तियों के ताइवान के प्रकाश को याद करती है, लेकिन उसने जो पूरे जीवन फिल्माया, वह दमन, भय और वह पिता है जो दो साल पहले अचानक चल बस गया और हमेशा से उसकी फिल्मों का विरोध करता था। छह साल तक घर पर खाना पकाने वाले बेरोजगार दामाद से लेकर वेनिस में दो बार सिंघ लियोन तक, उसका असली प्रतिद्वंद्वी कभी सेट नहीं था, बल्कि वह स्वयं था जो पार नहीं कर पा रहा था।",
-        "category": "people",
-        "href": "/hi/people/ang-lee",
-        "date": "2026-09-22T01:05:09+08:00",
-        "readingTime": null,
-        "image": "/article-images/people/ang-lee-bafta-2013.webp"
       }
     ],
     "ar": [
@@ -2996,6 +2996,15 @@
     ],
     "ru": [
       {
+        "title": "«Золотой колокол»: после семнадцати лет, когда три канала сменяли друг друга по кругу, Тайвань каждый год проводит новую черту вокруг «нашего телевидения»",
+        "desc": "22 октября 2022 года Чэнь Ялань поднялась на сцену Мемориального зала Сунь Ятсена в костюме — амплуа героя-любовника гэцзайси принесло ей премию за лучшую мужскую роль в драматической программе, первую в истории для женщины за пятьдесят семь лет. Этот колокол, отлитый в 1965 году для радио, семнадцать лет переходил по кругу только между тремя именами — ТТВ, ЧТВ и ЦТС; затем в список один за другим вошли Общественное телевидение, хакка-драма, вьетнамский актёр. «Золотой колокол» каждый год награждает актёрскую игру, но на самом деле проводит черту: кто ещё достоин называться тайваньским телевидением, а кто остаётся за чертой.",
+        "category": "culture",
+        "href": "/ru/culture/golden-bell-awards",
+        "date": "2026-09-25T01:19:50+08:00",
+        "readingTime": 15,
+        "image": "/article-images/culture/golden-bell-45th-main-stage-2010.webp"
+      },
+      {
         "title": "Нью-Пэй: кольцо вокруг Тайбея, 4 млн жителей поддерживают столичный транспорт, промышленность и память",
         "desc": "Городок Хутайн (Красный город) в Тайнбине с 1628 года, когда испанцы положили первый кирпич, уже 398 лет. Это на 247 лет раньше, чем Сунь Пэйцзинь основал Тайбэйский округ в 1875 году. Сегодня 29 районов Нью-Пэя окружают 12 районов Тайбея, в этом крупнейшем прямом управлении провинции живут 4 млн человек, 390 тыс. жителей ездят на работу в Тайбэй через границы города. Но это не спальный городок — в нём есть золотая жила Линьчжоу, открытая в 1853 году, улун-чай из Тайнбина, продававшийся в Нью-Йорке ещё в 1869 году, первая в Азии золотая жила Джингуаршань в 1890-х годах, железная дорога Пинсинь, открытая в 1929 году для перевозки угля, резьба по столбам у храма Зисань в Саньцзе, начатая Ли Мэйцзинь в 1947 году, и племя народа тайя в Дэлань в Улай. Нью-Пэй — это уменьшенная копия Тайваня за 400 лет, только не в пределах Тайбея.",
         "category": "geography",
@@ -3032,8 +3041,8 @@
         "image": "/article-images/geography/keelung-hero.webp"
       },
       {
-        "title": "Мяоли: хаккский упрямый округ, который за восемь лет избрал главу, умноживший долг казны втрое",
-        "desc": "В японский колониальный период Мяоли производил 95% камфоры на Тайване, а Саньи заложил основу деревообработки из остатков камфоровых деревьев. В 2002 году в деревне Бэйхэ цюня Гуанььсян прошёл первый фестиваль цветения павлонии. В 2008 году Лю Чжэньхун принял округ с долгом в 202 млрд, а к 2014 году при уходе долг достиг 676 млрд. Между тем произошли трагедия Чжу Фэньминь, выпившей пестицид, насильственный снос аптеки Чжан и строительство за 1,2 млрд хаккского тулу, ставшего «музеем-комарником». Сегодня в этом округе, где хакки составляют 62,5% населения — второе место на Тайване — живут 530 тысяч человек.",
+        "title": "Мяоли: округ хакков-настойчивых, где за восемь лет избрали главу, удвоившего долги казначейства",
+        "desc": "В период японского управления Мяоли производил 95% камфоры на всём Тайване, а Саньи заложил основу резьбы по дереву, перерабатывая корни камфорных деревьев. В 2002 году в деревне Бэйхэ округа Гуаньсянь прошёл первый фестиваль цветения тунговых деревьев. В 2008 году Лю Чжэньхун принял округ с долгами в 20,2 млрд, а к 2014 году, при уходе в отставку, задолженность по книгам достигла 67,6 млрд. Между тем произошли инциденты: Чжу Фэньминь выпила пестицид, аптеку Чжан снесли насильно, а хаккский тулу за 120 млн превратился в «музей комаров». Сегодня в этом округе, где хакки составляют 62,5% — второе по величине значение на Тайване — проживает 530 тысяч человек.",
         "category": "geography",
         "href": "/ru/geography/miaoli-county",
         "date": "2026-09-22T01:09:08+08:00",
@@ -3252,15 +3261,6 @@
         "desc": "В 1970–1990-е годы международные СМИ называли Тайвань «Пиратским королевством». Статья прослеживает взлёт и падение индустрии подделок, как дедлайн 12 июня и специальная статья 301 заставили трансформировать систему, и объясняет, почему модель доверия TSMC «не конкурировать с клиентами» стала переворотом в этой истории.",
         "category": "history",
         "href": "/ru/history/taiwan-piracy-era",
-        "date": "2026-09-22T01:04:22+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "Звук не имеет адреса: как тайваньское вещание превратилось из государственного глосника в общественное пространство местностей",
-        "desc": "От экспериментального вещания 1925 года, вещательных станций периода японского правления, послевоенного «Голоса Тайваня» до частных радиостанций периода военного положения и подпольного вещания — отслеживание того, как радиоприёмники одновременно передавали указы, песни, языки и нелегко поддающиеся заглушению местный опыт.",
-        "category": "history",
-        "href": "/ru/history/taiwan-radio-broadcasting-history",
         "date": "2026-09-22T01:04:22+08:00",
         "readingTime": 12,
         "image": ""

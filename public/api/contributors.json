@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-23T22:04:30.495Z",
+  "lastUpdated": "2026-09-24T22:04:22.532Z",
   "totals": {
     "contributors": 75,
     "activeWindow": "last 30d"
@@ -7,7 +7,7 @@
   "leaderboard": [
     {
       "login": "frank890417",
-      "commits": 9810,
+      "commits": 9813,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
@@ -35,7 +35,7 @@
     },
     {
       "login": "aminzai",
-      "commits": 93,
+      "commits": 96,
       "avatarUrl": "https://avatars.githubusercontent.com/u/71848?v=4",
       "profileUrl": "https://github.com/aminzai",
       "firstCommitAt": null,
@@ -888,7 +888,7 @@
   "topSystem": [
     {
       "login": "frank890417",
-      "commits": 9810,
+      "commits": 9813,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
@@ -1031,20 +1031,5 @@
   ],
   "weeklyActive": 2,
   "monthlyActive": 6,
-  "recentlyJoined": [
-    {
-      "login": "rhosiqs",
-      "commits": 8,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/101655495?v=4",
-      "profileUrl": "https://github.com/rhosiqs",
-      "firstCommitAt": "2026-08-25 22:09:07 +0800",
-      "lastCommitAt": "2026-09-12 18:57:34 +0800",
-      "primaryArea": "content",
-      "breakdown": {
-        "content": 4,
-        "system": 2,
-        "translation": 2
-      }
-    }
-  ]
+  "recentlyJoined": []
 }
