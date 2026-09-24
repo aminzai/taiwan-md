@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-25T02:42:04+08:00",
-    "zhCommitHead": "88855526f",
+    "lastUpdated": "2026-09-25T02:51:14+08:00",
+    "zhCommitHead": "a62d67dcf",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -52,10 +52,10 @@
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1086,
+        "fresh": 1087,
         "stale": 27,
         "metadata_stale": 0,
-        "missing": 11,
+        "missing": 10,
         "orphan": 0
       },
       "vi": {
@@ -100,8 +100,8 @@
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1068,
-        "stale": 19,
+        "fresh": 1069,
+        "stale": 18,
         "metadata_stale": 1,
         "missing": 36,
         "orphan": 0
@@ -66747,7 +66747,20 @@
           "status": "missing"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Society/benzopyrene-food-safety-incident.md",
+          "translatedFrom": "Society/苯駢芘食安事件.md",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:036e3f58784db1c4",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T18:21:53.478022+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 74,
+          "bytes": 108465,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Society/benzopyrene-food-safety-incident.md",
@@ -161341,8 +161354,8 @@
           "sourceContentHash": "sha256:e2ad095276c4d00c",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T16:53:02.177531+00:00",
-          "translationLastCommit": "f797335b",
-          "translationLastModified": "2026-07-24T18:52:59+08:00",
+          "translationLastCommit": "a62d67dc",
+          "translationLastModified": "2026-09-25T02:42:04+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "bytes": 50694,
@@ -187004,20 +187017,18 @@
         "ru": {
           "path": "ru/Geography/miaoli-county.md",
           "translatedFrom": "Geography/苗栗縣.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:0de597da286e629e",
-          "sourceBodyHash": "sha256:9523731d73687bb2",
-          "translatedAt": "2026-09-08T02:28:35.831038+00:00",
+          "sourceCommitSha": "8d4f4b434",
+          "sourceContentHash": "sha256:d42a13d401176a58",
+          "sourceBodyHash": "sha256:240cad04d9fcb9fe",
+          "translatedAt": "2026-09-24T18:43:12.577443+00:00",
           "translationLastCommit": "0565ddd4",
           "translationLastModified": "2026-09-22T01:09:08+08:00",
           "inferred": false,
           "footnoteDefs": 36,
-          "bytes": 84627,
+          "bytes": 85698,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+8 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"

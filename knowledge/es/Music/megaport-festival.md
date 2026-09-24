@@ -1,23 +1,19 @@
 ---
-translatedFrom: 'Music/大港開唱.md'
-sourceCommitSha: '717a640b'
-sourceContentHash: 'sha256:2cde586b88469ed9'
-sourceBodyHash: 'sha256:db05dfd8f23d6ee9'
-translatedAt: '2026-07-23T21:00:00+08:00'
-lang: 'es'
-title: 'Megaport Festival: el festival de música taiwanés que creció junto al puerto de Kaohsiung'
-description: 'Megaport Festival (大港開唱) es un gran festival taiwanés al aire libre fundado en 2006 junto al puerto de Kaohsiung. Partiendo de la experiencia curatorial del equipo de Formoz Festival, de los miembros de CHTHONIC y de TRA Music, reunió en un mismo espacio a las bandas del sur de Taiwán, los directos en taiwanés, los carteles internacionales, la aldea de ONG y el paisaje portuario. Gracias a él, la ribera del puerto de Kaohsiung se convirtió en un escenario clave donde se cruzan la cultura de ir a ver bandas, la identidad urbana y los asuntos públicos de Taiwán.'
+title: 'Gran apertura en el puerto: el festival de música al aire libre de Taiwán que nació en el puerto de Kaohsiung'
+description: 'Megaport Festival es un festival de música al aire libre de gran envergadura creado en 2006 junto al puerto de Kaohsiung. Partiendo de la experiencia del equipo de producción de Wild Child Live y de miembros de la banda Shinzui junto con TRA Music, reúne bandas de Taiwán meridional, escenarios en taiyu, carteles internacionales, puestas temáticas de ONG y el paisaje portuario en un mismo espacio. Convierte el puerto de Kaohsiung en un punto clave donde convergen la cultura de audiencia, la identidad urbana y los asuntos públicos.'
 date: 2026-07-10
 category: 'Music'
 tags:
-  - '大港開唱'
-  - 'Megaport'
-  - 'festival de música'
-  - 'Kaohsiung'
-  - 'música independiente'
-  - 'taiwanés'
-  - 'CHTHONIC'
-subcategory: 'Industria musical'
+  [
+    'Megaport Festival',
+    'Megaport',
+    'festival de música',
+    'Kaohsiung',
+    'música independiente',
+    'taiyu',
+    'Shinzui',
+  ]
+subcategory: '音樂產業'
 author: 'Taiwan.md Contributors'
 featured: false
 canonical-order: 999
@@ -29,105 +25,110 @@ imageCredit: 'Xi.you 1010.2008 / Wikimedia Commons'
 imageLicense: 'CC BY 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:2025%E5%A4%A7%E6%B8%AF%E9%96%8B%E5%94%B1-%E5%8D%97%E9%9C%B8%E5%A4%A9_MEGAPORT_FEST.jpg'
 rationale:
-  why_this_hook: 'Entrar por el espacio de la ribera del puerto de Kaohsiung y por la cultura taiwanesa de ir a ver bandas, para evitar que quede como un párrafo accesorio de Freddy Lim o de CHTHONIC.'
-  whats_excluded: 'La lista completa de carteles año por año, los detalles de las polémicas sobre la venta de entradas y el contexto financiero de todos los años de suspensión y reanudación quedan para un texto posterior más profundo.'
-  where_it_hedges: 'Los registros de venta de entradas y la polémica de la suspensión se apoyan en fuentes verificables de medios y oficiales; los detalles no contrastados del todo no entran en el eje principal del texto.'
-  whos_pushing_back: 'Quienes ven Megaport como algo demasiado politizado, quienes lo consideran solo un gran evento de entretenimiento y quienes esperan un análisis completo de la gestión de la industria musical.'
+  why_this_hook: '以高雄港邊的場域與台灣聽團文化切入，避免寫成林昶佐或閃靈的附屬段落。'
+  whats_excluded: '完整歷年卡司表、售票爭議細節、所有停辦與復辦年份的財務脈絡，留待後續深稿補強。'
+  where_it_hedges: '售票紀錄與停辦爭議採媒體與官方可查來源；未完整交叉驗證的細節不寫入正文主軸。'
+  whos_pushing_back: '把大港視為政治色彩過重者、只把它當大型娛樂活動者、期待完整音樂產業營運分析的讀者。'
+translatedFrom: 'Music/大港開唱.md'
+sourceCommitSha: 'e974b4c9e'
+sourceContentHash: 'sha256:ded0e72872765bab'
+sourceBodyHash: 'sha256:1dd7ff6902b5f09f'
+translatedAt: '2026-09-24T22:04:26+08:00'
 ---
 
-# Megaport Festival: el festival de música taiwanés que creció junto al puerto de Kaohsiung
+# Gran apertura en el puerto: el festival de música al aire libre de Taiwán que nació en el puerto de Kaohsiung
 
-![El escenario Nanbatian del Megaport Festival de 2025: las luces y el público mirando hacia el gran escenario junto al puerto de Kaohsiung.](https://upload.wikimedia.org/wikipedia/commons/8/8e/2025%E5%A4%A7%E6%B8%AF%E9%96%8B%E5%94%B1-%E5%8D%97%E9%9C%B8%E5%A4%A9_MEGAPORT_FEST.jpg)
-_El escenario Nanbatian del Megaport Festival de 2025. Photo: Xi.you 1010.2008 / Wikimedia Commons, CC BY 4.0._
+![Escenario al aire libre del Megaport Festival 2025, iluminado con luces y multitud frente al gran escenario orientado hacia el puerto de Kaohsiung.](/article-images/music/megaport-festival-2025-namba-stage.webp)
+_Escenario al aire libre del Megaport Festival 2025. Foto: Xi.you 1010.2008 / Wikimedia Commons, CC BY 4.0._
 
-> **Resumen en 30 segundos:** Megaport Festival (大港開唱) es un gran festival al aire libre fundado en 2006 junto al puerto de Kaohsiung. Nació como prolongación de la experiencia del equipo de Formoz Festival (野台開唱); en sus primeros años lo impulsaron Freddy Lim (林昶佐), Doris Yeh (葉湘怡) y el equipo de TRA Music, y más tarde tomaron el relevo Doris y Dani Wang (汪子驤) junto a su equipo. Megaport reúne a las bandas del sur de Taiwán, el paisaje portuario, los directos en taiwanés, los carteles internacionales, la memoria del pop taiwanés y la aldea de ONG, y convierte dos días de conciertos en la manera que tiene una ciudad de volver a imaginarse a sí misma con sonido.
+> **Resumen de 30 segundos:** Megaport Festival es un festival de música al aire libre de gran envergadura creado en 2006 junto al puerto de Kaohsiung. Nació como una extensión de la experiencia del equipo de Wild Child Live, impulsado inicialmente por Lin Chao-tzu, Doris Ye Hsiang-yi y el equipo de TRA Music, y posteriormente llevado adelante por Doris junto con Dani Wang Tzu-chuan y otros equipos. Megaport reúne bandas de Taiwán meridional, paisajes portuarios, escenarios en taiyu, carteles internacionales, memorias populares de Taiwán y puestas temáticas de ONG en un solo lugar, transformando dos días de actuaciones en una forma en que una ciudad reimagina su propia identidad a través del sonido.
 
 ---
 
-En 2006, el Pier-2 de Kaohsiung acababa de transformarse de almacenes portuarios en distrito artístico, y ni el metro ni el tranvía habían conectado todavía la ribera del puerto con la vida cotidiana de la ciudad.
+En 2006, el distrito de arte bóveda de Kaohsiung (Bózǐ) acababa de transformarse de almacenes portuarios en un espacio artístico, y ni el metro ni el tranvía habían conectado aún el área portuaria con la vida cotidiana de la ciudad.
 
-Aquel otoño, Megaport Festival abrió sus puertas junto a los muelles 11 y 12 del puerto de Kaohsiung. La página oficial de HISTORY, al mirar atrás hacia la primera edición, escribe que entonces solo había tres escenarios: «Nanbatian» (南霸天), «Hailongwang» (海龍王) y «Fengyong» (風湧). En el cartel figuraban Sugar Plum Ferry, Cheer Chen, Jeannie Hsieh, Fire EX., Bohemian Bo y Tizzy Bac, y también los japoneses envy y YURA YURA TEIKOKU. Ese programa colocó en un mismo fin de semana a las bandas independientes taiwanesas, al sonido underground japonés, a la memoria del pop en taiwanés y a la ribera del puerto de Kaohsiung.[^1]
+Ese otoño, Megaport Festival abrió sus puertas junto al muelle 11 y 12 del puerto de Kaohsiung. Según la página oficial de HISTORIA, en aquella primera edición solo existían tres escenarios: "Nanhapantian", "Longwang" y "Fengwuj". Entre los artistas estaban Sweet Mango, Chen Chih-hsin, Xie Jinyan, Fire Ex, Menta, Tizzy Bac, así como grupos japoneses como envy, YURA YURA TEIKOKU. Esta programación colocaba juntas bandas independientes de Taiwán, sonidos subterráneos de Japón, memorias populares en taiyu y el paisaje del puerto de Kaohsiung durante el mismo fin de semana.[^1]
 
-## El sur no es decoración
+## El sur no es solo decoración
 
-El punto de partida de Megaport está claramente ligado al Formoz Festival de Taipéi.
+El origen de Megaport está claramente conectado con el festival al aire libre Wild Child Live en Taipéi.
 
-La página oficial de ABOUT sitúa a Megaport como un festival fundado en Kaohsiung por el equipo organizador de Formoz, uno al sur y otro al norte, convirtiéndose en uno de los pioneros del mercado de los grandes festivales taiwaneses. En la entrevista de VERSE, Doris recuerda que en 2006 ella y Freddy organizaron la primera edición con el equipo de TRA Music bajo el lema «大港起風湧，海龍南霸天», con el objetivo de crear un festival del sur distinto del Formoz de Taipéi.[^2][^3]
+Según la página oficial de ACERCA DE, Megaport es presentado como un festival creado por el equipo organizador de Wild Child Live en Kaohsiung, convirtiéndose junto con su contraparte en Taipéi en uno de los pioneros de los grandes festivales en Taiwán. En una entrevista con VERSE, Doris recordó que en 2006 ella y Freddy organizaron la primera edición de Megaport con el lema "El viento del gran puerto sopla, el dragón del mar se levanta", con el objetivo de crear un festival musical en el sur distinto al de Taipéi.[^2][^3]
 
-Aquí «el sur» no es una imagen escénica ni un eslogan de marketing. La mitad de los artistas de la primera edición venían del sur de Taiwán, y hasta los nombres de los escenarios llevaban el acento de la ciudad portuaria: Nanbatian, Hailongwang, Fengyong. Son nombres ásperos, brillantes, directos, ligados al espacio abierto de la ribera del puerto de Kaohsiung, y hacen que el festival hable con la voz de Kaohsiung desde su primera edición.[^3]
+"El sur" aquí no se refiere solo al diseño visual del escenario ni a un eslogan comercial. En la primera edición de Megaport, la mitad de los artistas provenían del sur de Taiwán, y los nombres de los escenarios reflejaban el espíritu del puerto: Nanhapantian, Longwang, Fengwuj. Estos nombres son duros, llamativos y directos, conectados con el amplio espacio del puerto de Kaohsiung, permitiendo que el festival hablara desde el primer día con la voz de Kaohsiung.[^3]
 
-## Un equipo curatorial nacido de CHTHONIC
+## El equipo curador que brotó de Shinzui
 
-Fuera del país se suele recordar Megaport como el festival fundado por Freddy Lim, pero lo que de verdad lo ha mantenido vivo como marca a largo plazo es un equipo.
+Megaport suele ser recordado por el público como un festival fundado por Lin Chao-tzu, pero quien realmente lo convirtió en una marca duradera fue un equipo.
 
-La entrevista de VERSE señala que, después de que Freddy Lim fuera elegido diputado en 2016 y dejara el equipo de Megaport, Doris y Dani tomaron el mando. Doris lo dirigió en 2016 y 2017 y luego pasó a ser asesora; Dani participa en la coordinación del evento desde 2016 y en el equipo lo llaman «el presidente» (社長).[^3]
+Según una entrevista con VERSE, tras que Lin Chao-tzu fue elegido diputado local en 2016 y dejara el equipo organizador de Megaport, Doris y Dani asumieron el liderazgo del festival. Doris dirigió las ediciones de 2016 y 2017, y luego se retiró como asesora; Dani participó activamente desde 2016, siendo conocido en el equipo como "el presidente".[^3]
 
-Este relevo es importante. Megaport se ha ido puliendo hasta convertirse en una institución de largo plazo entre miembros de bandas, curadores, equipo de producción y gestores del recinto, sin quedarse en el carisma personal de una estrella. Dani dice en VERSE que «no avanzar es retroceder», una frase que aterriza en la realidad de gestionar un festival: escenarios, circulación, backstage, medidas sanitarias, entradas, merchandising, zona de descanso de los artistas; todo hay que rehacerlo cada año.[^4]
+Este cambio fue crucial. Megaport se consolidó como un sistema a largo plazo gracias al trabajo conjunto de músicos, curadores, equipos de producción y espacios. No se limitó a la fama de figuras individuales. En la entrevista con VERSE, Dani comentó que "si no progresas, retrocedes", una idea que cobra sentido en la operación del festival: escenarios, flujos de personas, áreas traseras, medidas sanitarias, ventas de entradas, merchandising, zonas de descanso para artistas, todo debe rediseñarse cada año.[^4]
 
-Y precisamente porque quienes llevan el timón son también intérpretes, Megaport asumió muy pronto la idea de gestión de que «los artistas también son clientes de la organización». Dani cree que un buen backstage relaja a quienes actúan y hace que se entreguen más sobre el escenario; Doris, por su parte, recuerda que Megaport está limitado por la geografía de la ribera del puerto y debe configurarse según las condiciones del recinto. Por eso la internacionalización de Megaport no aparece solo en la lista de bandas extranjeras, sino también en cómo desmonta la experiencia de los festivales de fuera y la va reincorporando, poco a poco, al ecosistema de los directos en Taiwán, junto al puerto de Kaohsiung.[^5]
+Además, dado que quienes dirigen el festival también son artistas, desde temprano Megaport adoptó la filosofía de que "los artistas también son clientes del organizador". Dani cree que un buen detrás de escena permite a los artistas relajarse y dar lo mejor en el escenario; Doris recuerda que Megaport, limitado por su geografía portuaria, debe adaptarse a las condiciones del lugar. Por eso, la internacionalización de Megaport no solo se refleja en la lista de artistas extranjeros, sino también en cómo lleva las experiencias de festivales internacionales de vuelta al puerto de Kaohsiung, integrándolas poco a poco en la ecología escénica de Taiwán.[^5]
 
-![La banda 1976 actuando en el Megaport Festival de 2016, con las luces del escenario iluminando a todo el grupo.](https://upload.wikimedia.org/wikipedia/commons/e/ea/1976bandatMegaport2016.jpg)
-_La banda 1976 en el Megaport Festival de 2016. Photo: Po Sing Tew / Wikimedia Commons, CC BY 2.0._
+![Banda 1976 en su actuación en Megaport Festival 2016, iluminada por luces sobre toda la banda.](https://upload.wikimedia.org/wikipedia/commons/e/ea/1976bandatMegaport2016.jpg)
+_Banda 1976 en Megaport Festival 2016. Foto: Po Sing Tew / Wikimedia Commons, CC BY 2.0._
 
 ## El festival de la vida
 
-La curaduría más reconocible de Megaport no está solo en las bandas independientes.
+La curaduría más distintiva de Megaport no se limita a bandas independientes.
 
-Tras su reanudación en 2015, Doris y Dani invitaron a He Yi-hang y a LTK Commune a hacer juntos el «espectáculo de sala Megaport». Más tarde llegaron al escenario Shen Wen-cheng, Wang Tsai-hua, Tsai Kuei, Huang Hsi-tien, Jeannie Hsieh o Tsai Chiu-feng, memorias del taiwanés y del pop de distintas generaciones. Estas decisiones expandieron Megaport más allá del «festival de los que van a ver bandas» y lo convirtieron en un escenario capaz de acoger a la vez rock underground, espectáculo de sala en taiwanés, ídolos, hip hop, heavy metal, folk y colaboraciones transversales.[^3][^6]
+Tras su reanudación en 2015, Doris y Dani invitaron a He Yihang y a la comunidad de la cuenca del río Zhuánwěi a presentar "Gran teatro de Megaport". Posteriormente, figuras como Shen Wencheng, Wang Caihua, Cai Gui, Huang Xitian, Xie Jinyan, Cai Qiufeng y otras voces de generaciones anteriores en taiyu o pop también fueron incluidas en el escenario de Megaport. Estas programaciones ampliaron el alcance del festival, convirtiéndolo en un espacio que podía albergar rock alternativo, teatro musical en taiyu, idols, hip-hop, heavy metal, folk y colaboraciones interdisciplinarias.[^3][^6]
 
-La página oficial de ABOUT llama a Megaport «el festival de la vida». No es un eslogan abstracto: corresponde a un método curatorial que consiste en hacer que se encuentren junto al puerto distintas etapas de la vida, distintas memorias generacionales, distintas lenguas y distintos gustos musicales. Quienes son jóvenes pueden venir por Bloody Blender o Sunset Rollercoaster, y ver en ese mismo fin de semana a Huang Hsi-tien o a Shen Wen-cheng; y las voces en taiwanés que conocen los mayores vuelven a escucharse, dentro del sistema de sonido a todo volumen de un festival.[^2]
+Según la página oficial de ACERCA DE, Megaport se describe como "el festival de la vida". Esta frase no es un lema abstracto; representa un enfoque curatorial: reunir distintas etapas de vida, memorias de generaciones diferentes, lenguas y gustos musicales en un mismo lugar. Los jóvenes fanáticos pueden venir por la banda de rock "Blood Orange Juice Machine" y el viaje en globo, pero verán a Huang Xitian o Shen Wencheng durante el mismo fin de semana; las voces en taiyu que los mayores conocen también son re-presentadas en este sistema de gran volumen durante el festival.[^2]
 
-![Enno Cheng actuando en el escenario del Megaport Festival de 2018, con una guitarra y un micrófono en las manos.](https://upload.wikimedia.org/wikipedia/commons/b/bc/Enno-2018%E5%A4%A7%E6%B8%AF%E9%96%8B%E5%94%B1.jpg)
-_Enno Cheng en el Megaport Festival de 2018. Photo: Ken26729264 / Wikimedia Commons, CC BY-SA 4.0._
+![Zheng Yinong en su actuación en Megaport Festival 2018, con guitarra y micrófono en mano.](https://upload.wikimedia.org/wikipedia/commons/b/bc/Enno-2018%E5%A4%A7%E6%B8%AF%E9%96%8B%E5%94%B1.jpg)
+_Zheng Yinong en Megaport Festival 2018. Foto: Ken26729264 / Wikimedia Commons, CC BY-SA 4.0._
 
-## La aldea de ONG y el espacio público
+## Puestas temáticas de ONG y espacios públicos
 
-La otra línea de Megaport son los asuntos públicos.
+Otra faceta de Megaport es su compromiso con asuntos públicos.
 
-Doris dice en VERSE que instalaron la aldea de ONG porque venir a un festival no significa que desaparezcan las cosas que hay que recordar. Dani y Doris también conectan la aldea de ONG con el espíritu de los conciertos que Freddy organizó en el pasado: el «Concierto Justicia Invencible», el «Concierto contra la anexión por China» o el «Concierto por la libertad del Tíbet». Así, el carácter público de Megaport no existe solo en algunas canciones o en las palabras de algún artista, sino que está configurado como parte del propio espacio.[^7]
+En una entrevista con VERSE, Doris explicó que Megaport incluye puestas temáticas de ONG porque asistir a un festival musical no significa que los temas que deben recordarse desaparezcan. Doris y Dani también vinculan las puestas temáticas de ONG con el espíritu de actividades anteriores organizadas por Freddy, como "Concierto por la Justicia", "Concierto contra la anexión china" y "Concierto por la Libertad de Tíbet". Esto convierte la dimensión pública de Megaport no solo en algo expresado en algunas canciones o declaraciones de artistas, sino también en una parte integrante del espacio físico del festival.[^7]
 
-Ese carácter público también trae polémica. En 2019, durante una interpelación en el Consejo Municipal de Kaohsiung, un concejal del Kuomintang reprodujo un fragmento en el que el concejal de Taipéi Froggy Chiu soltaba palabrotas en el escenario de Megaport; el entonces alcalde de Kaohsiung, Han Kuo-yu, respondió criticando el contenido como «vulgar, indecente e insoportable». La agencia CNA recogió este cruce de acusaciones y también las dudas de Huang Chieh sobre el doble rasero.[^8]
+Esta dimensión pública también ha generado controversias. En 2019, durante un interrogatorio en el ayuntamiento de Kaohsiung, un diputado de la oposición (KMT) reprodujo un video del diputado de Taipéi Chiu Wei-jie diciendo palabrotas en el escenario de Megaport; el entonces alcalde de Kaohsiung, Han Kuo-yu, criticó el contenido como "inapropiado y vulgar". El reportaje de Central News Agency documentó esta confrontación y las críticas de Huang Chieh sobre el doble estándar.[^8]
 
-Para Megaport, la polémica no es una rama lateral. Muestra cómo mira una ciudad su propia cultura: un festival puede ser solo una actividad turística, o puede ser un escenario público donde chocan los jóvenes, las bandas, las ONG, los políticos y los valores de la ciudad.
+Para Megaport, las controversias no son un detalle secundario. Muestran cómo una ciudad ve su propia cultura: un festival musical puede ser solo un evento turístico, o puede convertirse en un espacio público donde jóvenes, bandas, ONG, figuras políticas y valores urbanos colisionan.
 
-## Después de agotar las entradas
+## Después del agotamiento
 
-En 2019 Megaport anunció su suspensión y en 2021 volvió. Para cuando VERSE la entrevistó en 2022, Doris ya lo veía como el resultado de una acumulación de años y no como un estallido provocado por una sola noticia. Dice que Megaport agota las entradas todos los años desde 2015, y que la única diferencia es que antes se agotaban antes del evento y ahora se agotan justo después de ponerse a la venta.[^9]
+En 2019, Megaport anunció su cierre; en 2021 regresó. Durante la entrevista con VERSE en 2022, Doris ya veía el festival como el resultado de una acumulación a largo plazo, no como un fenómeno efímero causado por un solo evento noticioso. Ella comentó que desde 2015, Megaport vendía todas las entradas cada año, diferenciándose solo en que antes se agotaban antes del evento, y ahora se agotaban inmediatamente después de la venta.[^9]
 
-La web oficial indica que el Megaport de 2026 está fijado para los días 21 y 22 de marzo, con el Pier-2 Art Center de Kaohsiung como localización; el cartel incluye a Sunset Rollercoaster, Kessoku Band, AiNA THE END, Fire EX., Hiromi's Sonicwonder, Käärijä, Yang Fan y Bloody Blender, entre otros. Esa lista conserva la mezcla característica de Megaport: un proyecto de banda de anime japonés, una figura mediática finlandesa de Eurovisión, rock taiwanés y memoria del pop en taiwanés pueden aparecer uno al lado del otro en el mismo fin de semana portuario.[^10]
+El sitio web oficial muestra que Megaport Festival 2026 está programado para los días 21 y 22 de marzo, en el distrito artístico Bózǐ de Kaohsiung; entre los artistas figuran Sunset Rollercoaster, Ending Band, AiNA THE END, Fire Ex, Hiromi's Sonicwonder, Käärijä, Yang Fan, Blood Orange Juice Machine y otros. Esta lista mantiene la esencia de Megaport: planes de grupos japoneses de anime, figuras de la canción europea finlandesa y la escena rockera y pop en taiyu de Taiwán pueden aparecer juntas en el mismo fin de semana portuario.[^10]
 
-Si Megaport merece una entrada propia no es solo porque sea grande, porque cueste conseguir entradas o porque tenga un cartel vistoso. Lo más importante es que enlaza varias claves de la [cultura de festivales de Taiwán](/es/music/taiwan-music-festival-culture): la mirada local e internacional de CHTHONIC, la identidad urbana del sur de Taiwán, el ecosistema en directo de la [música independiente taiwanesa](/es/music/indie-music-scene), el regreso del taiwanés como lengua contemporánea y la posibilidad del festival como espacio público.
+Megaport Festival merece ser un artículo independiente no solo por su tamaño, la dificultad para conseguir entradas o su cartel destacado. Lo más importante es que conecta varias líneas clave de [la cultura de festivales musicales en Taiwán](/es/music/taiwan-music-festival-culture/): la visión local e internacional de Shinzui, la identidad urbana del sur de Taiwán, la escena en vivo de [la música independiente de Taiwán](/es/music/indie-music-scene/), el retorno del taiyu como lengua contemporánea, y la posibilidad de los festivales como espacios públicos.
 
-Hay festivales que parecen un programa de mano; Megaport se parece más a una ciudad temporal. En dos días, los almacenes, los muelles, el césped y los recintos de la ribera del puerto son renombrados por el sonido. Cuando se apagan las luces y se desmontan los escenarios, mucha gente vuelve al año siguiente, como quien regresa a una tierra natal que solo existe en marzo.
+Algunos festivales son como una programación; Megaport es más bien como una ciudad efímera. En dos días, los almacenes, muelles, hierbas y salas del puerto son renombrados por el sonido. Cuando se apagan las luces y se desmonta el escenario, mucha gente regresa el año siguiente, como si volviera a un lugar que solo aparece en marzo.
 
-**Lecturas complementarias**: Freddy Lim, CHTHONIC, [cultura de festivales de Taiwán](/es/music/taiwan-music-festival-culture), [música independiente taiwanesa](/es/music/indie-music-scene), [Fire EX.](/es/music/fire-ex)
+**Lecturas relacionadas**: Lin Chao-tzu, Shinzui, [Cultura de festivales musicales en Taiwán](/es/music/taiwan-music-festival-culture/), [Música independiente de Taiwán](/es/music/indie-music-scene/), [Banda Fire Ex](/es/music/fire-ex/)
 
-## Fuentes de imágenes
+## Créditos de imágenes
 
-Este texto utiliza 3 imágenes con licencia CC de Wikimedia Commons:
+Este artículo utiliza 3 imágenes con licencia CC de Wikimedia Commons:
 
-- **Escenario Nanbatian del Megaport 2025** (hero) — fotografía de Xi.you 1010.2008 ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2025%E5%A4%A7%E6%B8%AF%E9%96%8B%E5%94%B1-%E5%8D%97%E9%9C%B8%E5%A4%A9_MEGAPORT_FEST.jpg)), 2025. Licencia: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
-- **La banda 1976 actuando en Megaport** (scene-mid 1) — fotografía de Po Sing Tew ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1976bandatMegaport2016.jpg)), 2016. Licencia: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).
-- **Enno Cheng actuando en Megaport** (scene-mid 2) — fotografía de Ken26729264 ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Enno-2018%E5%A4%A7%E6%B8%AF%E9%96%8B%E5%94%B1.jpg)), 2018. Licencia: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- **Escenario al aire libre del Megaport Festival 2025** (portada) — Fotografía de Xi.you 1010.2008 ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2025%E5%A4%A7%E6%B8%AF%E9%96%8B%E5%94%B1-%E5%8D%97%E9%9C%B8%E5%A4%A9_MEGAPORT_FEST.jpg)), 2025. Licencia: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+- **Actuación de la banda 1976 en Megaport Festival** (escena media 1) — Fotografía de Po Sing Tew ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1976bandatMegaport2016.jpg)), 2016. Licencia: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).
+- **Actuación de Zheng Yinong en Megaport Festival** (escena media 2) — Fotografía de Ken26729264 ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Enno-2018%E5%A4%A7%E6%B8%AF%E9%96%8B%E5%94%B1.jpg)), 2018. Licencia: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Referencias
 
-[^1]: [大港開唱 MEGAPORT FESTIVAL: HISTORY](https://megaportfest.com/info/history/) — Página oficial de historia de Megaport, que recoge carteles, escenarios, artistas y textos retrospectivos oficiales de todas las ediciones desde 2006; es la principal puerta de entrada de primera mano para verificar años y carteles.
+[^1]: [Megaport Festival: HISTORIA](https://megaportfest.com/info/history/) — Página oficial de historia de Megaport Festival, que recopila pósteres, escenarios, artistas y textos oficiales de cada edición desde 2006, siendo el punto de entrada principal para verificar fechas y carteles.
 
-[^2]: [大港開唱 MEGAPORT FESTIVAL: ABOUT](https://megaportfest.com/info/about/) — Página oficial de presentación de Megaport, que explica su fundación en 2006, su vínculo con Formoz Festival, el paisaje portuario y su definición como «el festival de la vida».
+[^2]: [Megaport Festival: ACERCA DE](https://megaportfest.com/info/about/) — Página oficial de Megaport Festival que explica su fundación en 2006, su conexión con Wild Child Live, el paisaje portuario y su posicionamiento como "festival de la vida".
 
-[^3]: [VERSE: «Megaport» pasado y presente (I): la vida generosa de quienes llevan el timón del festival](https://www.verse.com.tw/article/megaport-festival-01) — Entrevista de VERSE de 2022 con Doris y Dani, que detalla los inicios de 2006, los muelles 11 y 12 del puerto de Kaohsiung, la proporción de bandas del sur de Taiwán, la denominación de los escenarios y el relevo del equipo gestor a partir de 2016.
+[^3]: [VERSE: "El pasado y presente de Megaport Festival (I)": La vida nocturna musical del organizador](https://www.verse.com.tw/article/megaport-festival-01) — Entrevista de VERSE de 2022 con Doris y Dani, que detalla la fundación en 2006, el muelle 11 y 12 del puerto de Kaohsiung, la proporción de artistas del sur de Taiwán, los nombres de los escenarios y el cambio en el equipo organizador tras 2016.
 
-[^4]: [VERSE: «Megaport» pasado y presente (I): la vida generosa de quienes llevan el timón del festival](https://www.verse.com.tw/article/megaport-festival-01) — La misma entrevista recoge la idea de Dani de que en la gestión de Megaport «no avanzar es retroceder», así como las presiones curatoriales derivadas de la pandemia, las medidas sanitarias, la circulación y la experiencia del evento.
+[^4]: [VERSE: "El pasado y presente de Megaport Festival (I)": La vida nocturna musical del organizador](https://www.verse.com.tw/article/megaport-festival-01) — La misma entrevista registra la perspectiva de Dani sobre la presión curatorial de "si no progresas, retrocedes", así como las presiones de la pandemia, medidas sanitarias, flujos de personas y experiencia del evento.
 
-[^5]: [VERSE: «Megaport» pasado y presente (II): no son solo 16 años, sino la suma cultural de la historia de los festivales de Taiwán](https://www.verse.com.tw/article/megaport-festival-02) — La segunda parte de la entrevista de VERSE sitúa a Megaport dentro del contexto de Formoz y de la cultura taiwanesa de ir a ver bandas, y aborda la cultura de la venta de entradas, el backstage de los artistas y la experiencia de quienes actúan.
+[^5]: [VERSE: "El pasado y presente de Megaport Festival (II)": Más allá de 16 años, una suma cultural de la historia de festivales musicales en Taiwán](https://www.verse.com.tw/article/megaport-festival-02) — La segunda parte de la entrevista de VERSE sitúa a Megaport en el contexto de Wild Child Live y la cultura de audiencia de Taiwán, discutiendo la cultura de ventas de entradas, el trato a los artistas y la experiencia en vivo.
 
-[^6]: [大港開唱 MEGAPORT FESTIVAL: HISTORY](https://megaportfest.com/info/history/) — La página oficial de carteles por año muestra que distintas ediciones incorporaron a Jeannie Hsieh, Shen Wen-cheng, Huang Hsi-tien o Tsai Chiu-feng, memorias del taiwanés y del pop de varias generaciones, junto a bandas independientes y carteles internacionales.
+[^6]: [Megaport Festival: HISTORIA](https://megaportfest.com/info/history/) — La página oficial de carteles anteriores muestra cómo artistas como Xie Jinyan, Shen Wencheng, Huang Xitian, Cai Qiufeng y otras voces de generaciones anteriores en taiyu o pop han sido incluidas, junto con bandas independientes y carteles internacionales.
 
-[^7]: [VERSE: «Megaport» pasado y presente (I): la vida generosa de quienes llevan el timón del festival](https://www.verse.com.tw/article/megaport-festival-01) — La entrevista explica el origen del espíritu de la aldea de ONG de Megaport y cómo entienden Doris y Dani la relación entre el festival y la libertad, la justicia y los asuntos públicos.
+[^7]: [VERSE: "El pasado y presente de Megaport Festival (I)": La vida nocturna musical del organizador](https://www.verse.com.tw/article/megaport-festival-01) — La entrevista explica el origen espiritual de las puestas temáticas de ONG en Megaport, y cómo Doris y Dani entienden la relación entre festivales, libertad, justicia y asuntos públicos.
 
-[^8]: [CNA: Han Kuo-yu critica Megaport por indecente; Huang Chieh cuestiona el doble rasero](https://www.cna.com.tw/news/aloc/201909260286.aspx) — Reportaje de la agencia CNA de 2019 sobre las críticas y contracríticas al lenguaje usado en el escenario de Megaport durante una interpelación en el Consejo Municipal de Kaohsiung, que muestra la polémica político-cultural que suscita el carácter público del festival.
+[^8]: [Central News Agency: Han Kuo-yu critica Megaport Festival por lenguaje inapropiado; Huang Chieh cuestiona el doble estándar](https://www.cna.com.tw/news/aloc/201909260286.aspx) — Reportaje de Central News Agency de 2019 sobre las críticas y contracriticas al lenguaje usado en el escenario de Megaport Festival durante un interrogatorio en el ayuntamiento de Kaohsiung, reflejando las controversias políticas y culturales alrededor de su dimensión pública.
 
-[^9]: [VERSE: «Megaport» pasado y presente (II): no son solo 16 años, sino la suma cultural de la historia de los festivales de Taiwán](https://www.verse.com.tw/article/megaport-festival-02) — La segunda parte de la entrevista recoge la valoración de Doris sobre el fenómeno de las entradas agotadas, señalando que se agotan todos los años desde 2015 y que no se debe a una única polémica política.
+[^9]: [VERSE: "El pasado y presente de Megaport Festival (II)": Más allá de 16 años, una suma cultural de la historia de festivales musicales en Taiwán](https://www.verse.com.tw/article/megaport-festival-02) — La segunda parte de la entrevista registra la visión de Doris sobre el agotamiento de entradas, indicando que desde 2015 Megaport ha agotado todas las entradas cada año, y no debido a un solo conflicto político.
 
-[^10]: [Web oficial de 大港開唱 MEGAPORT FESTIVAL](https://megaportfest.com/) — La portada oficial enumera la fecha, el lugar, el lema y parte del cartel del Megaport de 2026; se utiliza para confirmar la información pública disponible hasta julio de 2026.
+[^10]: [Sitio web oficial de Megaport Festival](https://megaportfest.com/) — La página principal oficial lista la fecha, lugar, lema y parte del cartel de Megaport Festival 2026, utilizada para confirmar información pública disponible hasta julio de 2026.
