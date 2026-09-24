@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-24T18:41:52+08:00",
-    "zhCommitHead": "99cc7dfe7",
+    "lastUpdated": "2026-09-24T19:09:30+08:00",
+    "zhCommitHead": "d4ebf9fb4",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -84,18 +84,18 @@
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 1030,
+        "fresh": 1031,
         "stale": 19,
         "metadata_stale": 0,
-        "missing": 75,
+        "missing": 74,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 1053,
+        "fresh": 1054,
         "stale": 20,
         "metadata_stale": 0,
-        "missing": 51,
+        "missing": 50,
         "orphan": 0
       },
       "ru": {
@@ -72267,7 +72267,20 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Society/complex-life-festival.md",
+          "translatedFrom": "Society/複雜生活節.md",
+          "sourceCommitSha": "dd82dc4a6",
+          "sourceContentHash": "sha256:7ebf5415595c2d0c",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T10:25:34.471325+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 36,
+          "bytes": 154006,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Society/complex-life-festival.md",
@@ -95058,7 +95071,20 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/huai-te-indie-singer.md",
+          "translatedFrom": "People/壞特.md",
+          "sourceCommitSha": "dd39065b2",
+          "sourceContentHash": "sha256:67d7cdf3a4bcd692",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T10:47:13.357228+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 37,
+          "bytes": 86339,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/huai-te-indie-singer.md",
@@ -156127,8 +156153,8 @@
           "sourceContentHash": "sha256:c2e6d8f7560888c4",
           "sourceBodyHash": "sha256:11add6012534def8",
           "translatedAt": "2026-09-23T22:11:52+08:00",
-          "translationLastCommit": "677cd01d",
-          "translationLastModified": "2026-09-22T01:05:52+08:00",
+          "translationLastCommit": "d4ebf9fb",
+          "translationLastModified": "2026-09-24T18:41:53+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 18221,
@@ -161257,8 +161283,8 @@
           "sourceContentHash": "sha256:3b6b12dd06856da0",
           "sourceBodyHash": "sha256:1006124334926615",
           "translatedAt": "2026-09-23T22:11:52+08:00",
-          "translationLastCommit": "677cd01d",
-          "translationLastModified": "2026-09-22T01:05:52+08:00",
+          "translationLastCommit": "d4ebf9fb",
+          "translationLastModified": "2026-09-24T18:41:53+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "bytes": 16695,
