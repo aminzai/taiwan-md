@@ -357,3 +357,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-24 | 084757-twmd-maintainer-am | aminzai 三篇譯文收下（閘門跑在隔離工作樹避開 dispatcher 的 index）；登入警報的標題凍在開票那天、清單上愈來愈小聲，當班修掉；#1609 查證路徑從「翻兩冊實體書」縮到剩一次登入 | 警報的大聲程度要跟著倒數走；縮小範圍會產生進展感，於是沒人問有沒有別條路 | [→](memory/2026-09-24-084757-twmd-maintainer-am.md) |
 | 2026-09-25 | 004244-twmd-babel-nightly | 三道「一篇卡死所有模型」的閘門缺陷當夜修；三篇新文缺 slug 卡六天補上並接進起跑自檢；〈金鐘獎〉十一語委派收齊 | 同篇跨三種模型同理由失敗先查閘門；派工單只寫半條規則，全綠也會分岔 | [→](memory/2026-09-25-004244-twmd-babel-nightly.md) |
 | 2026-09-25 | 053909-twmd-routine-sync | 第 59 輪：18 條 prompt 零漂移，cron／enabled 用工具解析器對 live 排程器逐條零差；昨天預測的 embeddings 新殼今晨 05:13 第一次被讀到 | live 補驗連三輪手動，該收進工具 | [→](memory/2026-09-25-053909-twmd-routine-sync.md) |
+| 2026-09-25 | 060129-twmd-embeddings-nightly | 13 語 14,032 向量 0 fail（+110 全在譯文側），verify PASS，`49e82532b` 推到 origin；殼層修補後第一夜用正確殼啟動 | 09-28 若不見本班 commit，先查 #1761 登入過期再查模型 | [→](memory/2026-09-25-060129-twmd-embeddings-nightly.md) |
