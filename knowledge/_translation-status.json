@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-24T22:26:20+08:00",
-    "zhCommitHead": "fc0e4b468",
+    "lastUpdated": "2026-09-24T23:17:47+08:00",
+    "zhCommitHead": "77ef45a5d",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -44,8 +44,8 @@
       },
       "es": {
         "total_zh": 1124,
-        "fresh": 1081,
-        "stale": 29,
+        "fresh": 1082,
+        "stale": 28,
         "metadata_stale": 0,
         "missing": 14,
         "orphan": 0
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1079,
+        "fresh": 1078,
         "stale": 16,
         "metadata_stale": 0,
-        "missing": 29,
+        "missing": 30,
         "orphan": 0
       },
       "hi": {
@@ -10116,20 +10116,7 @@
           "reason": "same-commit"
         },
         "pt": {
-          "path": "pt/Economy/taiwan-orchid-industry.md",
-          "translatedFrom": "Economy/台灣蘭花.md",
-          "sourceCommitSha": "63fb967a1",
-          "sourceContentHash": "sha256:e5ed54a3ae12d0e6",
-          "sourceBodyHash": "sha256:f9ade260f241a953",
-          "translatedAt": "2026-09-23T22:11:58+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 9,
-          "bytes": 21914,
-          "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "hi": {
           "path": "hi/Economy/taiwan-orchid-industry.md",
@@ -19352,18 +19339,18 @@
         "es": {
           "path": "es/Economy/taiwan-enterprise-uni-president.md",
           "translatedFrom": "Economy/台灣企業：統一企業.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:3fb7c059831bdebb",
-          "sourceBodyHash": "sha256:481f2cb6cfdcbd21",
-          "translatedAt": "2026-05-01T22:19:10+08:00",
+          "sourceCommitSha": "05ed20149",
+          "sourceContentHash": "sha256:012f47b06c66bfb9",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T14:09:56.497429+00:00",
           "translationLastCommit": "4a07538f",
           "translationLastModified": "2026-07-25T10:29:52+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 7644,
+          "footnoteDefs": 64,
+          "bytes": 67211,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (64→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Economy/taiwan-enterprise-uni-president.md",
@@ -58752,8 +58739,8 @@
           "sourceContentHash": "sha256:31f2d67654f5ca72",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T12:13:20.299138+00:00",
-          "translationLastCommit": "74349bb6",
-          "translationLastModified": "2026-09-24T01:05:06+08:00",
+          "translationLastCommit": "77ef45a5",
+          "translationLastModified": "2026-09-24T22:26:24+08:00",
           "inferred": false,
           "footnoteDefs": 41,
           "bytes": 47078,
