@@ -238,3 +238,18 @@ def test_both_plugins_registered():
     found = registry.discover_checks()
     assert "footnote-format" in found
     assert "footnote-density" in found
+
+
+def test_fix_prose_prefix_keeps_every_source_link(tmp_path):
+    # 2026-09-25：Pattern 4 抓到第二個連結卻沒寫回去，patch 引擎組回譯文後跑
+    # fixer，多來源腳註的第二個出處被刪（網址 47→44，五語卡住）。
+    two = ("[^33]: 2025 年 LINE 台灣月活約 2200 萬。[Korea Herald 分析](https://www.koreaherald.com/)"
+           "；[DataReportal Digital 2025 Taiwan](https://datareportal.com/reports/digital-2025-taiwan)。")
+    one = "[^34]: 2005 年無名小站成立公司，進入商業化階段。[數位時代報導](https://www.bnext.com.tw/)。"
+    body = f"段落[^33][^34]\n\n{two}\n{one}\n"
+    path = _write(tmp_path, body)
+    footnote_format.fix(load_target(path), {})
+    text = path.read_text(encoding="utf-8")
+    assert two in text  # 多來源：原樣保留
+    assert "datareportal.com/reports/digital-2025-taiwan" in text
+    assert "[^34]: [數位時代報導](https://www.bnext.com.tw/) — " in text  # 單來源：照舊改成 canonical

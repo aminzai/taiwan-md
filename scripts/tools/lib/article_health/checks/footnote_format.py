@@ -238,6 +238,14 @@ def fix(target: FileTarget, config: dict[str, Any]) -> int:
         # to desc (preserve context, drop the prose-as-prefix structure).
         m = _PROSE_PREFIX.match(line)
         if m:
+            # 第二個來源連結（group 5/6，或 tail 裡還有一個 markdown 連結）
+            # 在下面的改寫裡沒有位置放，舊版直接丟掉——docstring 說不碰多連結
+            # 腳註，這一支卻碰了。2026-09-25：patch 引擎組回譯文後跑本 fixer，
+            # 台灣網路社群遷徙史的 fr/en/es/ko/pt 譯文腳註 [^33]/[^38]/[^42] 的
+            # 第二個出處（DataReportal、數位時代）被刪，網址 47→44，verify 判
+            # 網址遺失，五語三種模型全部卡住。多來源散文腳註一律留原樣。
+            if m.group(5) or "](" in m.group("tail"):
+                continue
             prefix = m.group(1)
             prose = m.group("prose").strip().rstrip("，,。.；;").strip()
             # Strip "參見"/"見"/"，" suffix words (they were connecting prose → link)
