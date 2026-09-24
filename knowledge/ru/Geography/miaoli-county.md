@@ -1,21 +1,21 @@
 ---
-title: 'Мяоли: хаккский упрямый округ, который за восемь лет избрал главу, умноживший долг казны втрое'
-description: 'В японский колониальный период Мяоли производил 95% камфоры на Тайване, а Саньи заложил основу деревообработки из остатков камфоровых деревьев. В 2002 году в деревне Бэйхэ цюня Гуанььсян прошёл первый фестиваль цветения павлонии. В 2008 году Лю Чжэньхун принял округ с долгом в 202 млрд, а к 2014 году при уходе долг достиг 676 млрд. Между тем произошли трагедия Чжу Фэньминь, выпившей пестицид, насильственный снос аптеки Чжан и строительство за 1,2 млрд хаккского тулу, ставшего «музеем-комарником». Сегодня в этом округе, где хакки составляют 62,5% населения — второе место на Тайване — живут 530 тысяч человек.'
+title: 'Мяоли: округ хакков-настойчивых, где за восемь лет избрали главу, удвоившего долги казначейства'
+description: 'В период японского управления Мяоли производил 95% камфоры на всём Тайване, а Саньи заложил основу резьбы по дереву, перерабатывая корни камфорных деревьев. В 2002 году в деревне Бэйхэ округа Гуаньсянь прошёл первый фестиваль цветения тунговых деревьев. В 2008 году Лю Чжэньхун принял округ с долгами в 20,2 млрд, а к 2014 году, при уходе в отставку, задолженность по книгам достигла 67,6 млрд. Между тем произошли инциденты: Чжу Фэньминь выпила пестицид, аптеку Чжан снесли насильно, а хаккский тулу за 120 млн превратился в «музей комаров». Сегодня в этом округе, где хакки составляют 62,5% — второе по величине значение на Тайване — проживает 530 тысяч человек.'
 date: 2026-05-18
 category: 'Geography'
 tags:
   [
     'Мяоли',
-    'Мяоли (хсян)',
+    'Мяоли',
     'хакка',
-    'хаккская культура',
-    'случай Дапу',
-    'деревообработка Саньи',
-    'цветение павлонии',
+    'культура хакка',
+    'инцидент Дабу',
+    'резьба по дереву Саньи',
+    'цветение тунговых деревьев',
     'сайся',
-    'Пастаай',
+    'фестиваль карликов',
     'Лю Чжэньхун',
-    'серия из 22 округов',
+    'серия 22 округов и городов',
   ]
 subcategory: '縣市'
 author: 'Taiwan.md Contributors'
@@ -25,16 +25,16 @@ lastHumanReview: false
 readingTime: 16
 researchReport: 'reports/research/2026-05/苗栗縣.md'
 series: '22 縣市系列（batch 1）'
-imageNote: '原圖為台灣政府開放資料授權（OGDL-Taiwan-1.0），不在既定允收清單（CC BY／CC BY-SA／CC0／公有領域）內，待決定是否放行'
 image: '/article-images/geography/miaoli-tung-blossom-festival-2023.webp'
+imageAlt: 'В 2023 году хаккский фестиваль цветения тунговых деревьев открылся с молитвами за благословение возле столетнего каменного Бэгуна в Саньи, Мяоли.'
 imageCredit: '中華民國客家委員會'
 imageLicense: 'OGDL-Taiwan-1.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:2023_Tung_Blossom_Festival.jpg'
 translatedFrom: 'Geography/苗栗縣.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:0de597da286e629e'
-sourceBodyHash: 'sha256:9523731d73687bb2'
-translatedAt: '2026-09-08T02:28:35.831038+00:00'
+sourceCommitSha: '8d4f4b434'
+sourceContentHash: 'sha256:d42a13d401176a58'
+sourceBodyHash: 'sha256:240cad04d9fcb9fe'
+translatedAt: '2026-09-24T18:43:12.577443+00:00'
 ---
 
 # Мяоли: хаккский упрямый округ, который за восемь лет избрал главу, умноживший долг казны втрое
@@ -218,17 +218,17 @@ _Агротуристический клубничный сад Даху, 2021-0
 
 ## Источники изображений
 
-В статье использовано 6 изображений Wikimedia Commons по лицензии CC, hot-link с сервера загрузки Wikimedia:
+В данной статье используются 7 изображений с Wikimedia Commons (главное — по лицензии открытых правительственных данных, уже включено в библиотеку сайта; остальные 6 — по лицензиям CC):
 
-- **Hero**: [2023 Tung Blossom Festival](https://commons.wikimedia.org/wiki/File:2023_Tung_Blossom_Festival.jpg) — Фото: Комитет по делам хакков РК, 2023-04-14, CC BY 4.0. Официальное фото фестиваля павлонии хакков.
-- **Сцена §1903 открыта**: [Shengxing Station 2010-06-02](https://commons.wikimedia.org/wiki/File:Shengxing_Station_2010-06-02.jpg) — Фото: Cheng-en Cheng, 2010-06-02, CC BY-SA 2.0. Станция Шэньсинь, высшая точка продольной линии.
-- **Сцена §деревообработка Саньи**: [Sanyi Wood Sculpture Museum 20100501](https://commons.wikimedia.org/wiki/File:Sanyi_Wood_Sculpture_Museum_20100501.jpg) — Фото: SSR2000, 2010-05-01, CC BY-SA 3.0. Музей деревообработки Саньи.
-- **Сцена §Даху клубника**: [Strawberry farm, Dahu Township2017](https://commons.wikimedia.org/wiki/File:Strawberry_farm%2C_Dahu_Township2017.jpg) — Фото: Taiwankengo, 2017-03-24, CC BY-SA 4.0. Клубничный сад Даху.
-- **Сцена §Пастаай**: [Saisiat pastaai](https://commons.wikimedia.org/wiki/File:Saisiat_pastaai.jpg) — Фото: CenkX, 2006, CC BY-SA 3.0. Пастаай сайся в Наньчжуане.
-- **Сцена §случай Дапу**: [2013-08-18 拆政府](https://commons.wikimedia.org/wiki/File:2013-08-18_%E6%8B%86%E6%94%BF%E5%BA%9C_P8180109_%289555113047%29.jpg) — Фото: Чжунь Цянь, Фанцзян, 2013-08-18, CC BY-SA 2.0. Место движения "Снести правительство".
-- **Сцена §530 тысяч**: [Miaoli Dahu Strawberry Farm 1](https://commons.wikimedia.org/wiki/File:Miaoli_Dahu_Strawberry_Farm_1.jpg) — Фото: Rick888chen, 2021-01-28, CC BY-SA 4.0. Агротуристический клубничный сад Даху.
+- **Главное**: [2023 Tung Blossom Festival](https://commons.wikimedia.org/wiki/File:2023_Tung_Blossom_Festival.jpg) — Фото: Комитет по делам хакков Республики Китай, 2023-04-14, [OGDL-Taiwan-1.0](https://data.gov.tw/license) (лицензия на открытые правительственные данные, совместима с CC BY 4.0). Официальное фото-фиксация молитвы и поклонения Комитетом по делам хакков возле столетней каменной статуи Бергуна в цзянь Саньи при объявлении об открытии Фестиваля павлонии, уже включено в библиотеку сайта.
+- **Сцена §1903 открытие**: [Shengxing Station 2010-06-02](https://commons.wikimedia.org/wiki/File:Shengxing_Station_2010-06-02.jpg) — Фото: Чэнь Чэнь-энь, 2010-06-02, CC BY-SA 2.0. Станция Шэньсинь, самая высокая точка Продольной линии.
+- **Сцена §Деревообработка Саньи**: [Sanyi Wood Sculpture Museum 20100501](https://commons.wikimedia.org/wiki/File:Sanyi_Wood_Sculpture_Museum_20100501.jpg) — Фото: SSR2000, 2010-05-01, CC BY-SA 3.0. Музей деревообработки Саньи.
+- **Сцена §Клубника Даху**: [Strawberry farm, Dahu Township2017](https://commons.wikimedia.org/wiki/File:Strawberry_farm%2C_Dahu_Township2017.jpg) — Фото: Taiwankengo, 2017-03-24, CC BY-SA 4.0. Клубничный сад в цзянь Даху.
+- **Сцена §Фестиваль Пастаай**: [Saisiat pastaai](https://commons.wikimedia.org/wiki/File:Saisiat_pastaai.jpg) — Фото: CenkX, 2006, CC BY-SA 3.0. Фестиваль пастаай сайся в Наньчжуан.
+- **Сцена §Случай Дапу**: [2013-08-18 拆政府](https://commons.wikimedia.org/wiki/File:2013-08-18_%E6%8B%86%E6%94%BF%E5%BA%9C_P8180109_%289555113047%29.jpg) — Фото: Чжунь Цзянь Фаньцзян, 2013-08-18, CC BY-SA 2.0. Место проведения движения «Снесите правительство».
+- **Сцена §530 тысяч человек**: [Miaoli Dahu Strawberry Farm 1](https://commons.wikimedia.org/wiki/File:Miaoli_Dahu_Strawberry_Farm_1.jpg) — Фото: Rick888chen, 2021-01-28, CC BY-SA 4.0. Клубничный агротуристический сад Даху в Мяоли.
 
-Условия лицензии: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Условия лицензий: [OGDL-Taiwan-1.0](https://data.gov.tw/license) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) / [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Ссылки
 

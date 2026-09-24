@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-25T03:20:11+08:00",
-    "zhCommitHead": "001c30f38",
+    "lastUpdated": "2026-09-25T03:49:40+08:00",
+    "zhCommitHead": "c5637ac28",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -52,8 +52,8 @@
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1088,
-        "stale": 26,
+        "fresh": 1089,
+        "stale": 25,
         "metadata_stale": 0,
         "missing": 10,
         "orphan": 0
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 1041,
+        "fresh": 1042,
         "stale": 31,
         "metadata_stale": 0,
-        "missing": 52,
+        "missing": 51,
         "orphan": 0
       },
       "pt": {
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 1037,
+        "fresh": 1038,
         "stale": 17,
         "metadata_stale": 0,
-        "missing": 70,
+        "missing": 69,
         "orphan": 0
       },
       "ar": {
@@ -1572,7 +1572,20 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Music/golden-melodies-legacy-taiwan-pop-music.md",
+          "translatedFrom": "Music/台灣流行音樂.md",
+          "sourceCommitSha": "1e1040928",
+          "sourceContentHash": "sha256:4517347444f75a1c",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T19:38:46.974110+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 58,
+          "bytes": 55725,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Music/golden-melodies-legacy-taiwan-pop-music.md",
@@ -1738,8 +1751,8 @@
           "sourceContentHash": "sha256:c683269655bc3d87",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T17:52:35.136146+00:00",
-          "translationLastCommit": "87e51b24",
-          "translationLastModified": "2026-09-24T00:54:01+08:00",
+          "translationLastCommit": "c5637ac2",
+          "translationLastModified": "2026-09-25T03:20:11+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "bytes": 14818,
@@ -26125,20 +26138,18 @@
         "fr": {
           "path": "fr/Technology/artificial-intelligence-development-strategy.md",
           "translatedFrom": "Technology/台灣人工智慧發展與未來策略.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:ea05ddc3465f02eb",
-          "sourceBodyHash": "sha256:c1a908bbd971d40d",
-          "translatedAt": "2026-06-16T16:54:51Z",
+          "sourceCommitSha": "b67b190fb",
+          "sourceContentHash": "sha256:151b93f3268baa1f",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T19:36:01.985999+00:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 40,
-          "bytes": 55003,
+          "bytes": 54604,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+7 -6"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Technology/artificial-intelligence-development-strategy.md",
@@ -88693,7 +88704,20 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Politics/2026-local-elections-taiwan.md",
+          "translatedFrom": "Politics/2026 九合一選舉.md",
+          "sourceCommitSha": "2cbb7955c",
+          "sourceContentHash": "sha256:98482d1a94d7ac85",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T19:20:14.641216+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 39,
+          "bytes": 121139,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -126521,8 +126545,8 @@
           "sourceContentHash": "sha256:50a3b31b4cb61eed",
           "sourceBodyHash": "sha256:e893f57da90167f4",
           "translatedAt": "2026-09-24T17:45:08.884554+00:00",
-          "translationLastCommit": "caea4fab",
-          "translationLastModified": "2026-07-29T02:34:42+08:00",
+          "translationLastCommit": "001c30f3",
+          "translationLastModified": "2026-09-25T03:19:53+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "bytes": 42480,
@@ -187675,8 +187699,8 @@
           "sourceContentHash": "sha256:88ba75169cfa45ae",
           "sourceBodyHash": "sha256:9f28d4872bf9c477",
           "translatedAt": "2026-09-23T22:11:54+08:00",
-          "translationLastCommit": "502c9338",
-          "translationLastModified": "2026-08-01T00:13:09+08:00",
+          "translationLastCommit": "c5637ac2",
+          "translationLastModified": "2026-09-25T03:20:11+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "bytes": 16576,
