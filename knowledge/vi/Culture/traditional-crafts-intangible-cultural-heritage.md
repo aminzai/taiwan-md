@@ -1,20 +1,20 @@
 ---
-title: 'Nghề thủ công truyền thống và tài sản văn hóa phi vật thể của Đài Loan: Hệ thống công nhận đến rồi, nhưng thợ apprentice lại thiếu thốn'
-description: 'Vào tháng 12 năm 2022, Bộ Văn hóa đã công nhận Thủ Sử Quý Long (87 tuổi) là "an hững quốc phẩm" của Tây Ngoại; chỉ sau 6 tháng, ông đã khuất. Đài Loan mới chỉ trong năm 2005 mới đưa "người bảo tồn nghề truyền thống quan trọng" vào Luật Bảo tồn tài sản văn hóa; trễ 50 năm so với Nhật Bản và 43 năm so với Hàn Quốc. Khi hệ thống cuối cùng được thành lập, nghiệp thu nghề đã sụp đổ từ thập niên 1970-80 do xu hướng công nghiệp hóa — trong hơn 600 thợ truyền thống, những người dưới 50 tuổi chỉ là "một phần nhỏ". Danh sách càng dài, số người có thể truyền dạy càng ít.'
+title: 'Nghệ thuật truyền thống và di sản văn hóa phi vật thể của Đài Loan: Sự công nhận về hệ thống đã đến, nhưng học trò thì không còn'
+description: 'Tháng 12 năm 2022, Bộ Văn hóa công bố danh sách "Bảo vật nhân loại" với nghệ nhân Thổ Thủy Tư Phụ Tô Thanh Lương (蘇清良) ở Cao Hùng. Sáu tháng sau ông qua đời. Đài Loan chỉ ghi nhận "Người gìn giữ nghề thủ công truyền thống quan trọng" vào Luật Di sản Văn hóa năm 2005, chậm hơn Nhật Bản 50 năm và Hàn Quốc 43 năm. Khi hệ thống được thiết lập, chế độ học nghề đã sụp đổ trong làn sóng công nghiệp hóa thập niên 1970-80—trong số hơn 600 nghệ nhân truyền thống, người dưới 50 tuổi "chỉ là thiểu số". Danh sách càng dài, số người có thể dạy lại càng ít.'
 date: 2026-05-15
 category: 'Culture'
 tags:
   [
-    'nghề thủ công truyền thống',
-    'tài sản văn hóa phi vật thể',
-    'anh hững quốc phẩm',
-    'bộ văn hóa',
-    'nhà thợ',
-    'Quý Long Tử Sử',
-    'Đứa Nữ Đất',
-    'Hồng Huyền Tịch',
-    'Thái Thạch Văn',
-    'luật tài sản văn hóa',
+    'Nghệ thuật truyền thống',
+    'Di sản văn hóa phi vật thể',
+    'Bảo vật nhân loại',
+    'Bộ Văn hóa',
+    'Nghệ nhân',
+    'Tô Thanh Lương',
+    'Yuma Taru',
+    'Lâm Quang Nghị',
+    'Vương Thanh Sương',
+    'Luật Di sản Văn hóa',
   ]
 subcategory: '傳統工藝'
 author: 'Taiwan.md'
@@ -27,282 +27,283 @@ imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Yuanxiangyuan_Paper_Umbrella,_Taiwan_2013-07.JPG'
 readingTime: 14
 translatedFrom: 'Culture/台灣傳統工藝與無形文化資產.md'
-sourceCommitSha: '12cf33d8c'
-sourceContentHash: 'sha256:0e116841e98362b0'
+sourceCommitSha: '21298a7ae'
+sourceContentHash: 'sha256:d8ceca8d969bbb7a'
 sourceBodyHash: 'sha256:8d311f99ab1ace9b'
-translatedAt: '2026-07-27T22:12:14+08:00'
+translatedAt: '2026-09-23T22:11:54+08:00'
 ---
 
-# Nghề thủ công truyền thống và tài sản văn hóa phi vật thể của Đài Loan: Hệ thống công nhận đến rồi, nhưng thợ apprentice lại thiếu thốn
+# Nghệ thuật truyền thống và di sản văn hóa phi vật thể của Đài Loan: Sự công nhận về hệ thống đã đến, nhưng học trò thì không còn
 
-> **Tóm tắt 30 giây:** Vào tháng 12 năm 2022, Bộ Văn hóa công bố danh sách mới các "người bảo tồn kỹ thuật tài sản văn hóa". Thủ Sử Quý Long (87 tuổi) được xét vào "công nghệ xây dựng nước" là nhà thợ đầu tiên của Thành phố Kinh đô được công nhận là người bảo tồn di sản phi vật thể cấp quốc gia. Sau 6 tháng, ông đã khuất. Đài Loan mới chỉ trong năm 2005 mới đưa "người bảo tồn nghề truyền thống quan trọng" vào Luật Bảo tồn tài sản văn hóa; 2016 năm sau, hệ thống chia thành 5 loại danh mục riêng biệt: nghệ thuật biểu diễn truyền thống, nghề thủ công truyền thống, truyền thống kể chuyện, dân gian, kiến thức truyền thống và thực hành. Nhật Bản đã có hệ thống này từ năm 1955, Hàn Quốc từ năm 1962. Đài Loan trễ hơn 50 năm. Khi luật pháp cuối cùng được ban hành, nghiệp thu nghề đã sụp đổ từ thập niên 1970-80 do xu hướng công nghiệp hóa và thay thế ngoại khẩu. Theo thống kê của Bộ Văn hóa, trong hơn 600 thợ truyền thống được cấp phép, những người dưới 50 tuổi chỉ là "một phần nhỏ".[^1] [^2] [^3]
-
----
-
-## Đoạn thành phố cũ cuối cùng của Tamsui trước khi bị xây dựng lại
-
-Ngày 19 tháng 12 năm 2022, Bộ Văn hóa công bố danh sách mới các "người bảo tồn kỹ thuật tài sản văn hóa". Thủ Sử Quý Long (87 tuổi) của Tây Ngoại được xét vào "công nghệ xây dựng nước" là nhà thợ đầu tiên của Thành phố Kinh đô được công nhận là người bảo tồn di sản phi vật thể cấp quốc gia.([^1])
-
-Ông bắt đầu học nghề từ năm 16 tuổi với Thủ Văn Hán Nhã Khổ, đã làm nghề hơn 70 năm với đồng gốm. Ông đã sửa chữa hơn 30 công trình cổ kỹ thuật, từ đầu Đài Loan đến cuối đảo: các công trình cổ được bảo vệ quốc gia như Bộ Giao thông của Hoàng đế Viễn Tây, tỉnh huyện Xích Trú, gia đình Lục ở Wufeng, thành phố cổ Hành Châu đều có dấu ấn của ông.([^4])
-
-Ông nói với nhà báo Central News Agency bằng tiếng Đài:
-
-> "Chúng tôi bắt đầu từ đầu Đài Loan đến cuối đảo, liên tục làm việc tại Tamsui... làm đến Hành Châu."([^1])
-
-Năm nay, cháu gái của ông, Su Jiàn-mu, chính thức học nghề và được Bộ Văn hóa cấp phép làm thợ truyền thống. Ông và cháu cùng nhau thực hiện dự án sửa chữa nhà trang triển lịch sử Kinh đô.
-
-> "Cháu muốn ra ngoài làm việc, con tôi rất vui! Vì công việc sửa chữa công trình cổ không còn khó khăn nữa! Vì chúng tôi đã làm công trình cổ qua ba thế hệ, tôi một thế hệ, người sau tôi một thế hệ, cháu tôi một thế hệ."([^1])
-
-Ngày 20 tháng 7 năm 2023, Thủ Sử Quý Long khuất. Tổng thống đã báo hiệu tôn trọng, bản tin sử dụng ngôn ngữ "những người tiêu biểu từ quá khứ".([^5]) Danh tính "an hững quốc phẩm" trong lời nói của ông đã trở thành "trong ngành nghề này, cuối cùng đã có người kế thừa". Nhưng gia đình ba thế hệ như vậy, trong ngành thủ công của Đài Loan năm 2026, đã trở thành ngoại lệ.
+> **Tóm tắt 30 giây:** Tháng 12 năm 2022, Bộ Văn hóa công bố danh sách "Bảo vật nhân loại" mới, trong đó có nghệ nhân Thổ Thủy Tư Phụ Tô Thanh Lương (蘇清良) 87 tuổi ở Cao Hùng được ghi nhận là người gìn giữ "Kỹ thuật trùng tu thạch thủy", và ông qua đời sáu tháng sau. Đài Loan chỉ đưa điều khoản về "Kỹ thuật bảo tồn di sản văn hóa và người gìn giữ" vào 《Luật Bảo tồn Di sản Văn hóa》 năm 2005; đến năm 2016 mới sửa đổi để phân loại di sản văn hóa phi vật thể thành 5 loại lớn. Nhật Bản đã chỉ định 30 "Bảo vật nhân loại quan trọng" đầu tiên từ năm 1955, và Hàn Quốc cũng thiết lập hệ thống tương tự vào năm 1962. Đài Loan đã chậm hơn 50 năm. Khi luật pháp cuối cùng được ban hành, chế độ học nghề đã sụp đổ trong làn sóng công nghiệp hóa và gia công xuất khẩu thập niên 1970-80. Cục Di sản Văn hóa thống kê hơn 600 người có trình độ "nghệ nhân truyền thống" trên toàn quốc, và những người dưới 50 tuổi "chỉ là thiểu số".[^1] [^2] [^3]
 
 ---
 
-## Từ ngữ "an hững quốc phẩm" là sao cho Nhật Bản trễ 50 năm khi mang sang Đài Loan
+## Nét phấn trắng cuối cùng trước di tích Tam Thủy
 
-"An hững quốc phẩm" là từ ngữ được nhập khẩu từ Nhật Bản, là hệ thống pháp luật được biên dịch sang Đài Loan.
+Ngày 19 tháng 12 năm 2022, Bộ Văn hóa công bố danh sách các người gìn giữ "Kỹ thuật bảo tồn di sản văn hóa" mới. Nghệ nhân Thổ Thủy Tư Phụ Tô Thanh Lương (蘇清良) 87 tuổi ở Hồ Nội, Cao Hùng, được ghi nhận trong "Kỹ thuật trùng tu thạch thủy", là nghệ nhân đầu tiên của thành phố Cao Hùng được công nhận là người gìn giữ di sản văn hóa phi vật thể cấp quốc gia theo "Kỹ thuật bảo tồn di sản văn hóa".[^1]
 
-Nhật Bản quy định Luật Bảo vệ di sản vào năm 1950, ban đầu chỉ chọn định để bảo vệ nhẹ nhàng. Sửa đổi lần đầu vào năm 1954, xác lập hệ thống công nhận "di sản phi vật thể quan trọng" và "người bảo tồn". Vào ngày 15 tháng 2 năm 1955, Nhật Bản công bố 30 người đầu tiên là "người bảo tồn di sản phi vật thể quan trọng" (gọi là anh hững quốc phẩm). Từ năm 1964, mỗi người được xét công nhận riêng lẻ sẽ nhận được trợ cấp hàng năm 200 triệu yen từ chính phủ, dùng riêng cho việc nuôi dưỡng người kế thừa, nghiên cứu và ghi chép.([^6])
+Ông bắt đầu học nghề từ năm 16 tuổi dưới sự chỉ dạy của Thổ Thủy Tư Phụ Hàn Kính Phúc (蘇韓其福), và đã làm công việc đất sét hơn bảy mươi năm. Ông đã trùng tu hơn 30 di tích, từ Đài Loan đến tận cuối đảo: các di sản quốc định như Cục Đường sắt Bộ Tổng đốc Đài Loan, Tỉnh ủy Tân Trúc, Lâm gia Vụ Phong, Thành cổ Hằng Xuân đều có dấu ấn của ông.[^4]
 
-Hàn Quốc quy định Luật Bảo vệ di sản vào năm 1962, hệ thống thiên vị Nhật Bản nhưng bao gồm cả văn hóa dân gian.([^7])
+Ông nói với phóng viên Thông tấn xã Trung ương bằng tiếng Đài ngữ:
 
-Đài Loan thì sao? Đầu năm 1982, Bộ Văn hóa đã có phiên bản đầu tiên của Luật Bảo tồn tài sản văn hóa, lúc đó tập trung vào công trình cổ (vật thể). Năm 2005, lần thứ năm sửa đổi, mới thêm "kỹ thuật bảo tồn tài sản văn hóa và người bảo tồn" vào luật, cuối cùng có cơ sở pháp lý cho tinh thần hệ thống Nhật Bản. Năm 2016, sửa đổi lại, chia "tài sản văn hóa phi vật thể" thành 5 loại danh mục: nghệ thuật biểu diễn truyền thống, nghề thủ công truyền thống, truyền thống kể chuyện, dân gian, kiến thức truyền thống và thực hành.([^3])
+> "Tôi đã làm từ đầu đến cuối Đài Loan, ở Tam Thủy... và đi đến Hằng Xuân."[^1]
 
-| Quốc gia | Luật pháp                              | Khởi động hệ thống                                           | Khoảng cách với Đài Loan |
-| -------- | -------------------------------------- | ------------------------------------------------------------ | ------------------------ |
-| Nhật Bản | 1950 Luật Bảo vệ di sản → 1954 sửa đổi | 1955, 30 người đầu tiên                                      | Trễ 50 năm               |
-| Hàn Quốc | 1962 Luật Bảo vệ di sản                | 1962                                                         | Trễ 43 năm               |
-| Đài Loan | 1982 Luật Bảo tồn → 2005/2016 sửa đổi  | Viết vào điều luật năm 2005 / xét công nhận cá nhân năm 2010 | —                        |
+Vào năm được công nhận, cháu trai ông là Tô Kiến Minh (蘇建銘) chính thức theo học và đạt chứng chỉ nghệ nhân truyền thống của Bộ Văn hóa. Ông bà và cháu tiếp tục trùng tu nóc tháp tại Bảo tàng Lịch sử Thành phố Cao Hùng.
 
-Lời nói thường ngày là "Đài Loan phát triển trễ, nên hệ thống cũng trễ". Nhưng **lời này đảo ngược nguyên nhân và hệ quả**. Ngành công nghiệp thủ công của Đài Loan trong thập niên 1950-70 là lực lượng xuất khẩu chính: mũi cày, dệt tre, gốm sứ, đèn Giáng Sinh xuất khẩu sang Mỹ, Nhật Bản, quy mô từng sôi động hơn so với Nhật Bản thời đó. Lý do trễ là vì trong 50 năm, định nghĩa tài sản văn hóa của chính phủ chỉ có công trình cổ và vật thể, không có "những người biết làm những việc này". Khi cuối cùng đưa người vào luật, 50 năm trước đã làm ngày càng già của các nghề thủ công truyền thống.
+> "Cháu muốn ra làm, tôi rất vui! Công việc trùng tu di tích sẽ không bao giờ hết đâu! Bởi vì ba thế hệ chúng tôi đều làm di tích."[^1]
 
-> 📝 **Ghi chú của ngườo dẫn chương:** Trong số 30 anh hững quốc phẩm đầu tiên của Nhật Bản năm 1955, tuổi trung bình là 55 tuổi. Đến năm 2025, hệ thống này đã thay đổi lớn lần đầu tiên trong 50 năm, bao gồm "văn hóa sống" (nhà bếp, người Dương) vào danh sách, do doàn ngành công nghệ nghề bị lão hóa nghiêm trọng, mỗi năm 5-10 anh hững quốc phẩm mất người, nhiều nghề đã xuất hiện "chỉ còn một anh hững quốc phẩm cuối cùng".([^2]) Khoảng cách thời gian của Đài Loan, tương đương là kế thừa một hệ thống đã đang đối mặt với thời gian, nhưng chưa có mức trợ cấp tương đương.
+Tô Thanh Lương qua đời vào ngày 20 tháng 7 năm 2023. Tổng thống đã ban tặng huân chương, và bản tin sử dụng từ điếu văn là "tấm gương sáng trong quá khứ".[^5] Danh hiệu "Bảo vật nhân loại" đối với ông trở thành lời nhắn: "Cuối cùng cũng có người kế thừa nghề này." Nhưng gia đình ba đời của ông chỉ là ngoại lệ trong giới thạch thủy của Đài Loan vào năm 2026.
 
 ---
 
-## Cát bụi ở Kinh Long, cây ở Sanxia, mưa ở Meinong
+## Từ "Bảo vật nhân loại"—sự du nhập muộn màng của Đài Loan sau Nhật Bản 50 năm
 
-![Bức tường bằng gạch đỏ của phố cổ Sanxia, chứng kiến lịch sử tài sản văn hóa của ngành tằm màu](https://commons.wikimedia.org/wiki/File:Sanxia_Indigo_Display.jpg)
-_Bức tường bằng gạch đỏ của phố cổ Sanxia, chứng kiến lịch sử tài sản văn hóa của ngành tằm màu.\_Nguồn ảnh: Tào Nhân Măng, CC BY-SA 4.0, [Tập tin trên Commons](https://commons.wikimedia.org/wiki/File:Sanxia_Indigo_Display.jpg)._
+Từ "Bảo vật nhân loại" có nguồn gốc từ Nhật Bản, là sự du nhập hệ thống của Nhật Bản sang Đài Loan.
 
-Các khu dệt nghề không xuất hiện một cách ngẫu nhiên. Mỗi khu đều là "vật liệu địa phương × công nghệ được mang đến bởi người nhập cư" gặp nhau. Địa lý giới hạn khả năng sản xuất trong một bán kính, người nhập cư quyết định loại công nghiệp sẽ phát triển trong bán kính đó.
+Nhật Bản ban hành 《Luật Bảo vệ Di sản Văn hóa》 vào năm 1950, ban đầu mang tính bảo tồn thụ động do "sợ suy tàn". Sau lần sửa đổi đầu tiên vào năm 1954, hai chế độ công nhận là "Di sản văn hóa phi vật thể quan trọng" và "người gìn giữ" đã được thiết lập rõ ràng. Ngày 15 tháng 2 năm 1955, 30 "Người gìn giữ di sản văn hóa phi vật thể quan trọng" đầu tiên (thường gọi là Bảo vật nhân loại) đã được chỉ định. Từ năm 1964, mỗi người được công nhận sẽ nhận trợ cấp hàng năm 2 triệu Yên từ chính phủ, dùng riêng để nuôi dưỡng người kế thừa, nghiên cứu và ghi chép.[^6]
 
-**Kinh Long (gốm sứ):** Đất sét mịn và dẻo trong khu vực Xiangshan và Great Lake là đất tốt cho gốm. Năm 1804 (năm 9 của Gia Kinh), người Hokkien từ Quanzhou, Wu Anshu đã đến đảo và làm khoảng trống. Do xung đột giữa Quanzhou và Zhangzhou, năm 1853 (năm 3 của Xuan Fong) họ chuyển đến Xiangshan, ngày nay là phố cổ Kinh Long. Các thế hệ người Wu (Ans, Su) đã cùng nhau.([^8]) [(^9)] Năm 1895, chính phủ Nhật Bản đầu tư vào Kinh Long, North Peak, Nantou, và Kinh Long vào lĩnh vực công nghiệp hóa, vào năm 1931, "động lực công nghiệp" đưa vào máy móc và công nghệ nung.([(^10)]) Vào đỉnh cao thập niên 1990, Kinh Long có 1.300 gia đình gốm sứ, được gọi là "Kinh đô của gốm sứ Đài Loan".([(^11)])
+Hàn Quốc ban hành 《Luật Bảo vệ Di sản Văn hóa》 vào năm 1962, hệ thống cơ bản mô phỏng Nhật Bản nhưng mở rộng phạm vi bao gồm cả dân tục.[^7]
 
-Số liệu này sẽ khiến bạn dừng lại: theo thống kê các nhà máy sản xuất hàng không phải là kim loại, sau đỉnh cao năm 70, Kinh Long có 701 gia đình → năm 1997 có 662 gia đình → năm 2002 có 554 gia đình → năm 2007 có 289 gia đình → năm 2024, hiện tại chỉ còn dưới 100 gia đình làm nhà máy và studio riêng.([(^12)]) Ba nguyên nhân sụp giảm chồng lên nhau: toàn cầu hóa khiến sản xuất chuyển sang Trung Quốc và Đông Nam Á, tự động hóa gây thặng dư, chi phí môi trường tăng. Đất sét vẫn còn dưới Xiangshan, nhưng người làm gốm không còn.
+Còn Đài Loan thì sao? Chỉ đến năm 1982 mới có phiên bản đầu tiên của 《Luật Bảo tồn Di sản Văn hóa》, trọng tâm lúc đó là di tích (vật thể). Đến lần sửa đổi lớn thứ năm vào năm 2005, điều khoản về "Kỹ thuật bảo tồn di sản văn hóa và người gìn giữ" mới được bổ sung, và tinh thần hệ thống Nhật Bản cuối cùng đã có cơ sở pháp lý tương ứng. Đến năm 2016 mới sửa đổi để chia "di sản văn hóa phi vật thể" thành 5 loại lớn: nghệ thuật biểu diễn truyền thống, nghề thủ công truyền thống, truyền khẩu, dân tục, tri thức và thực hành truyền thống.[^3]
 
-**Sanxia (điêu gỗ):** Khu vực núi Miao có tán jati rộng, năm 1918 (năm 7 của Taisho), Wu Jinbao dùng tên con trai mình Wu Luo Song đồng tài với người Nhật Zōzaki thành lập "Công ty thương mại Đông Đại" (Tōdai Shokuhin K.K.). Khi đó, gỗ jati bị chính phủ Nhật Bản kiểm soát, Wu Jinbao bị giam vì cắp đứt cây jati, vợ Luo Miệt chạy đi để cứu giúp, cuối cùng mới có thể cùng Zōzaki đầu tư chung. Điêu gỗ Sanxia khác với điêu gỗ ở các nơi khác trên thế giới, vì nó thích dùng "cành cây, gốc cây, nốt cây", hay nói khác là "tạo hình từ gỗ lạ", nguồn gốc từ phế phẩm của ngành chế tạo jati. Người Nhật cần jati để làm dầu, không phải để làm cành cây. Phần phụ trừ của ngành chế tạo jati đã trở thành nền kinh tế này của điêu gỗ Đài Loan.([(^13)])
+| Quốc gia | Luật pháp                                                    | Khởi động hệ thống                                                | Khoảng cách với Đài Loan |
+| :------- | :----------------------------------------------------------- | :---------------------------------------------------------------- | :----------------------- |
+| Nhật Bản | 1950 Luật Bảo vệ Di sản Văn hóa $\rightarrow$ Sửa đổi 1954   | 30 người đầu tiên năm 1955                                        | Sớm hơn Đài Loan 50 năm  |
+| Hàn Quốc | 1962 Luật Bảo vệ Di sản Văn hóa                              | Năm 1962                                                          | Sớm hơn Đài Loan 43 năm  |
+| Đài Loan | 1982 Luật Di sản Văn hóa $\rightarrow$ Sửa đổi lớn 2005/2016 | Ghi vào điều khoản năm 2005 / Công nhận cá nhân đầu tiên năm 2010 | —                        |
 
-**Meinong (la xưởng giấy):** Vào thập niên 1910 của thời Minh Khang, người Hakka林 A Qui và Wu Zhenxing mời các thợ làm la xưởng giấy từ Thâu Quốc đến Đài Loan truyền báo nghề (một số nói là giáo sư từ Meixian, Guangdong, Guo Yuqin đến địa cư tại Meinong). Ban đầu các nhà máy la xưởng giấy ở Meinong đều dùng "giọng" làm tên (Giọng Hoa, Giọng Zhenxing, Giọng Đức, Giọng Tân), kể nhớ nguồn gốc từ Thâu Quốc.([(^14)]) [(^15)] Vào thập niên 1960, thời kỳ vàng của la xưởng giấy, Meinong sản xuất 20.000 chiếc, doanh thu 400 triệu nhà nước mới.([(^14)]) Vào năm 1981, tạp chí光華 thực địa điểm khảo sát: một người tự làm trung bình 2 chiếc mỗi ngày. Năm năm người phối hợp sản xuất tối đa 1.000 chiếc mỗi tháng. La xưởng có 3 kích thước chuẩn (24 inch / 14.5 inch / 12 inch), mỗi chiếc có 32 cây cẩu; hàng hoá đặc biệt có 40 cây cẩu và bán kính 22 inch. Giá bán từ 350 đến 1.000 nhà nước mới.([(^15)])
+Quan điểm phổ biến là "Đài Loan phát triển muộn hơn nên hệ thống cũng muộn", nhưng **quan điểm này đã đảo ngược quan hệ nhân quả**. Ngành công nghiệp thủ công của Đài Loan trong những năm 1950-70 là lực lượng xuất khẩu chính: mũ cói, đồ đan tre, gốm sứ, đèn Giáng sinh được xuất khẩu số lượng lớn sang Mỹ và Nhật Bản, quy mô ngành nghề từng sôi động hơn cả Nhật Bản cùng thời. Lý do hệ thống muộn là trong 50 năm đó, định nghĩa di sản văn hóa của chính phủ chỉ giới hạn ở di tích và đồ vật, mà không có "người làm ra những thứ này". Khi người được ghi vào luật pháp, các nghệ nhân của mọi nhà trong suốt 50 năm đó đã lần lượt già đi.
 
-Linh Xương Hồng là chủ nhà máy Giọng Vọng, năm 1981 nói với nhà báo của tạp chí光華:
-
-> "Do quá trình làm việc phức tạp và công việc kiêu khổ, hiện nay nhiều người trẻ không có kiên nhẫn và quyết tâm học hỏi. Vì vậy chúng tôi thực sự đang gặp phải tình trạng không có người kế thừa."([(^15)])
-
-Câu nói này được viết vào năm 1981. Đọc lại 45 năm sau, nó giống như ngày hôm nay.
-
-**Sanpo (dệt tre):** Tài nguyên rừng tràn + năm 1939, người Nhật池田 và Nitta thiết lập "Trung tâm truyền thụ nghề dệt tre" tại Sanpo District, đã nuôi dưỡng trung tâm nghề dệt tre của Đài Loan sau chiến tranh. Huang Tuc Shan (1939) ra trường đại học công nghiệp tại đây, sau đó trở thành một trong những người khởi xướng hệ thống dệt tre của Đài Loan sau chiến tranh.([(^16)]) Ngài 84 tuổi năm 2010 đã được xét công nhận là "người bảo tồn dệt tre", mất ngày 2020.
+> 📝 **Ghi chú của Người biên tập:** Trong nhóm Bảo vật nhân loại đầu tiên của Nhật Bản năm 1955, độ tuổi trung bình là 55 tuổi. Năm 2025, hệ thống trải qua lần cải cách lớn đầu tiên sau 50 năm, đưa "văn hóa sinh hoạt" (đầu bếp, thợ làm rượu) vào vì bộ phận kỹ thuật thủ công đang già hóa nghiêm trọng; mỗi năm có 5-10 Bảo vật nhân loại qua đời và nhiều nghề thủ công xuất hiện "người cuối cùng". Sự chênh lệch thời gian của Đài Loan đồng nghĩa với việc thừa kế một hệ thống vốn đã chạy đua với thời gian, nhưng lại chưa nhận được mức độ hỗ trợ tương đương.
 
 ---
 
-## Không phải công quyền xua tan nghề thủ công: Phục hồi tằm màu ở Sanxia
+## Đất sét Nghênh Ca, cây gỗ Tam Nghĩa, và chiếc ô Mỹ Nông
 
-![Bộ trưng bày các bộ xếp "Rồng và Trắng" của Trung tâm Lịch sử Văn hóa Sanxia, biểu hiện ứng dụng hiện đại của tằm màu được phục hồi từ năm 1996](https://commons.wikimedia.org/wiki/File:Sanxia_Indigo_Display.jpg)
-_Các bộ xếp "Rồng và Trắng" được trưng bày tại Trung tâm Lịch sử Văn hóa Sanxia, phản ánh bề mặt ứng dụng hiện đại của tằm màu được phục hồi từ năm 1996 tại Sanxia.\_Nguồn ảnh: Tào Nhân Măng, CC BY-SA 4.0, [Tập tin trên Commons](https://commons.wikimedia.org/wiki/File:Sanxia_Indigo_Display.jpg)._
+![Bức ảnh bên ngoài Bảo tàng điêu khắc gỗ Tam Nghĩa, bảo tàng công lập duy nhất lấy chủ đề điêu khắc gỗ ở Đài Loan](/article-images/culture/sanyi-wood-sculpture-museum-2010.webp)
+_Bức ảnh bên ngoài Bảo tàng điêu khắc gỗ Tam Nghĩa (Thôn Quảng Thịnh, huyện Tam Nghĩa, Cao Hùng), bảo tàng công lập duy nhất lấy chủ đề điêu khắc gỗ. Ảnh: Anrew0517, 2010-05-01, CC BY-SA 3.0, [Commons File](https://commons.wikimedia.org/wiki/File:Sanyi_Wood_Sculpture_Museum_20100501.jpg)._
 
-Sanxia (tên cũ là Tam Giác Hồ) vào thời Minh Khang là trung tâm chính của ngành tằm màu ở Bắc Đài Loan. Suối Clear Creek kết hợp với thung lũng ẩm ướt phù hợp cho cây tằm màu (Indigofera tinctoria) phát triển, các phố tẩm màu ngày càng đông đúc. Ngày nay, tường gạch đỏ của phố cổ Sanxia vẫn là bằng chứng lịch sử về sự thịnh vượng của ngành tằm màu.([(^17)])
+Các cụm nghề thủ công không tự nhiên sinh ra. Mỗi nơi là sự kết tinh kép của "nguyên liệu địa phương $\times$ kỹ thuật do người di cư mang lại". Địa lý đã khóa khả năng sản xuất trong một bán kính, và người di cư quyết định ngành nghề nào sẽ phát triển trong bán kính đó.
 
-Nhưng vào thời Minh Khang, vi chất tẩm màu nhân tạo từ châu Âu được nhập khẩu, sau đó vào thời kỳ Nhật Bản, áo dài Tây phương và áo Nhật Bản phổ biến, ngành tằm màu truyền thống dần tàn phai. Tằm màu tại Sanxia đã mất đi hơn 70 năm.
+**Nghênh Ca (Gốm sứ):** Đất sét ở khu vực Tiêm Sơn và Đại Hồ mịn và dẻo, là đất tốt để làm đồ gốm. Năm 1804 (năm Gia Khánh thứ 9 của Thanh), Ngô An từ Tuyền Châu, Phúc Kiến vượt biển đến Đài Loan và mở lò tại Hố Thỏ Đại Hồ. Sau đó, do xung đột giữa Tuyền và Trương, họ di chuyển đến Khảm Giác vào năm 1853 (năm Hàm Phong thứ 3), chính là phố cổ Nghênh Ca ngày nay. Các thành viên mang họ Ngô đã lần lượt đến Đài Loan gia nhập.[^8] [^9] Sau thời kỳ Nhật trị năm 1895, chính quyền thuộc địa đầu tư tài nguyên công nghiệp hóa vào Bắc Đầu, Nam Đầu, Miêu Lịch và Nghênh Ca; "Phong trào công nghiệp hóa" năm 1931 đã mang đến các thiết bị lò nung cơ khí và kỹ thuật nung.[^10] Vào thời kỳ đỉnh cao thập niên 1990, Nghênh Ca có 1.300 nhà máy gốm sứ, được quốc tế gọi là "Cảnh Đức Trấn của Đài Loan".[^11]
 
-Nguồn gốc của cuộc hồi sinh năm 1990 thực sự không phải từ các cơ quan chính phủ. Các cư dân địa phương tự mình tìm lại. Vào năm 1990, cư dân Sanxia đã khởi động "Tìm lại tằm màu Sanxia đã mất". Năm 1994, "Studio Lịch sử và Văn hóa Tam Giác Hồ" được thành lập, năm 1996 chính thức thành lập "Hiệp hộ Hợp tác Văn hóa Tam Giác Hồ". Năm 1999, hội đã triển khai chương trình truyền dẫn và phục hồi kỹ thuật tằm màu. Giám đốc điều hành của hội, Liu Mỵ Thảo, cùng với giáo sư Ma Phụn Mi và giáo sư Trần Giai Linh đã cùng nhau tìm lại các kỹ thuật tằm màu đã bị mất.([(^17)])
+Con số tiếp theo sẽ khiến bạn dừng lại: Theo thống kê các nhà máy sản xuất đồ phi kim loại, từ đỉnh cao 701 nhà máy vào cuối thập niên 70 của Minh Quốc (ROC), giảm xuống còn 662 nhà máy vào năm 1997 $\rightarrow$ 554 nhà máy vào năm 2002 $\rightarrow$ 289 nhà máy vào năm 2007 $\rightarrow$ và chưa đến 100 nhà máy và xưởng cá nhân cho đến hiện tại (năm 2024).[^12] Ba lý do suy thoái chồng chất: toàn cầu hóa khiến sản xuất chuyển sang Trung Quốc và Đông Nam Á, tự động hóa gây dư thừa nguồn cung, và chi phí bảo vệ môi trường tăng cao. Đất sét vẫn còn dưới Tiêm Sơn, nhưng người làm gốm thì không còn.
 
-Điều này ngược lại với thứ tự của hệ thống "anh hững quốc phẩm": trước khi luật pháp (2005), nghề thủ công đã tự mình hồi sinh (1990). Khi Luật Bảo tồn tài sản văn hóa viết thêm hệ thống bảo tồn, tằm màu Sanxia đã tự sống 15 năm. Luật pháp chỉ để công nhận, không phải để cứu vãn.
+**Tam Nghĩa (Điêu khắc gỗ):** Rừng cây tràm ở vùng núi Miêu Lịch rải rác, vào năm 1918 (năm Đại Chính thứ 7), Ngô Tiến Bảo (吳進寶) đã cùng người Nhật Bản Kanzaki thành lập "Công ty TNHH Higashi Tatsumono" dưới tên con trai ông là Ngô La Tùng (吳羅松). Lúc đó, gỗ tràm bị chính phủ Nhật kiểm soát; Ngô Tiến Bảo bị giam giữ vì nhặt đầu cây tràm, và vợ ông là La Đan Muội (羅緞妹) đã phải chạy đôn chạy bó mới giúp ông được bảo lãnh, sau này mới có cơ hội hợp tác kinh doanh với Kanzaki. Điêu khắc gỗ Tam Nghĩa khác biệt so với điêu khắc gỗ ở nơi khác trên thế giới vì nó yêu thích sử dụng "rễ cây, đầu cây, u cây", tức là "điêu khắc kỳ vật", nguồn gốc từ phế liệu còn lại của ngành tinh dầu tràm. Người Nhật cần dầu tràm, chứ không phải đầu cây. Sản phẩm phụ của ngành tinh dầu đã trở thành điểm khởi đầu cho ngành điêu khắc gỗ Đài Loan.[^13]
 
-> 📝 **Ghi chú của ngườo dẫn chương:** Vụ việc Sanxia hé lộ một sự tương phản ẩn giấu: "Hồi sinh nghề thủ công từ dưới lên" vs "Bảo tồn tài sản văn hóa từ trên xuống" là hai con đường khác nhau. Các khoản trợ cấp của Bộ Văn hóa hầu hết dòng vào các tổ chức (hợp tác xã, bảo tàng, trung tâm nghiên cứu), chỉ rất ít dòng đến tay người thợ riêng lẻ; các khoản trợ cấp là "theo dự án", hoàn thành một dự án là dừng lại, không thể hỗ trợ người thợ làm việc lâu dài. Các nhà nghiên cứu phê phán về cấu trúc trợ cấp, chỉ dừng lại ở vấn đề cấu trúc này.
+**Mỹ Nông (Ô giấy):** Trong thời kỳ Đại Chính trị của Nhật Bản (thập niên 1910), người di cư Khách Gia Lâm A Quý (林阿貴) và Ngô Chấn Hưng (吳振興) đã mời các nghệ nhân làm ô từ Triều Châu, Quảng Đông đến Đài Loan truyền nghề (hoặc có ý kiến khác là các nghệ nhân của huyện Mai ở Quảng Đông như Quách Ngọc Cầm (郭玉琴) vượt biển định cư tại Mỹ Nông). Các xưởng sản xuất ô giấy ban đầu ở Mỹ Nông thường được đặt tên bắt đầu bằng chữ "Quảng" (Quảng Hoa Hưng, Quảng Chấn Hưng, Quảng Đức Hưng, Quảng Tiến Thắng), để tưởng nhớ nguồn gốc từ Quảng Đông.[^14] [^15] Trong thời kỳ hoàng kim của ô giấy vào những năm 1960, Mỹ Nông sản xuất 20.000 chiếc mỗi năm với giá trị 40 triệu Đài tệ.[^14] Một cuộc khảo sát thực địa của tạp chí Quang Hoa năm 1981 cho biết: một người tự làm trung bình 2 chiếc mỗi ngày. Năm người hợp tác phân công lao động tối đa sản xuất được 1.000 chiếc mỗi tháng. Chiếc ô có ba kích thước tiêu chuẩn (24 inch / 14,5 inch / 12 inch), tất cả đều dùng khung tre 32 thanh; các sản phẩm đặc biệt dùng khung tre 40 thanh, bán kính 22 inch. Giá dao động từ 350 đến 1.000 Đài tệ.[^15]
 
----
+Lâm Hưởng Hồng (林享鴻) là chủ xưởng Quảng Vinh Hưng, ông nói với phóng viên tạp chí Quang Hoa năm 1981:
 
-## Học nghề từ một thợ đã chết 100 năm trước
+> "Vì quá trình sản xuất phức tạp và công việc vất vả, ngày nay thanh niên đều không có sự kiên nhẫn và nghị lực để học. Vì vậy chúng tôi thực sự đang đối mặt với tình trạng không người kế thừa."[^15]
 
-Năm 1981 (năm 70 của Dân Quốc), người học Lin Hồng Nhiễu bị trộm cắp tại Chùa Hương Nhã của Jiayi.
+Câu nói này được viết vào năm 1981. Khi đọc lại sau 45 năm thì giống như lời vừa nói hôm nay.
 
-Khi đó, Lin Hồng Nhiễu (30 tuổi) mới mời vào gia đình Lin Tien Mộc học giao tấm Hương Nhiễu, bắt đầu sửa chữa. Hương Nhiễu (Hương Lai, sinh năm 1826, người Hương Nhiễu đầu tiên là người bản địa của Đài Loan) đã chết hơn 100 năm, công thức hoạch chất, nhiệt độ nung, tỷ lệ màu sắc không được ghi lại bằng văn bản.([(^18)])
-
-Trong quá trình sửa chữa, Lin Hồng Nhiễu phát hiện mình thực sự không biết Lin Hương Nhiễu dùng nguyên liệu gì, tỷ lệ hoạch chất như thế nào. Mỗi lần điều chỉnh màu sắc không đúng, mỗi lần điều chỉnh tỷ lệ sai, như đang xác nhận lại "thế nào cũng không thể trở lại thời kỳ khi Lin Hương Nhiễu còn sống". Ngài sau đó nói với nhà báo của tạp chí Classic:
-
-> "Trong toàn bộ quá trình sửa chữa, tôi thực sự như đang học lại từ đầu."([(^18)])
-
-Ngài còn nói:
-
-> "Nếu Lin Hương Nhiễu còn sống, tôi chắc chắn sẽ mời ngài làm thầy."([(^18)])
-
-Lin Hồng Nhiễu đã từng dùng hơn 10 năm từ tìm kiếm lại, sau đó được xét công nhận là "người truyền thụ giao tấm Hương Nhiễu thế hệ thứ ba". Nhưng ngài biết, điều mình tìm kiếm lại chỉ là "gần nhất với Lin Hương Nhiễu", không phải chính xác như thời ngài.
-
-Khó khăn thực sự của việc mất nghề nằm ở đây: khi bị đứt qua một hoặc hai thế hệ, người sau không thể tìm được người thợ để học. Hệ thống apprentice cần hai người mặt trước, thợ trưởng tay tay dạy sửa sai để đúng; sai một lần, được chỉnh lại một lần, lần sau sẽ đúng. Dây chuyền học của Hương Nhiễu bị đứt khi ngài khuất, Lin Hồng Nhiễu chỉ có thể học từ "công trình" của Hương Nhiễu, không thể học trực tiếp từ ngài.
+**Trúc Sơn, Nam Đầu (Đồ đan tre):** Nguồn tài nguyên tre kết hợp với "Trung tâm đào tạo nghề thủ công tre" do người Nhật Bản Ikeda và Nishin thành lập tại quận Trúc Sơn vào năm 1939, đã nuôi dưỡng trung tâm của ngành đồ đan tre Đài Loan thời hậu chiến. Hoàng Đồ Sơn (黃塗山) tốt nghiệp trường tiểu học Trúc Sơn năm 1939 và thi vào cơ sở này, sau này trở thành một trong những người tiên phong hệ thống đồ đan tre Đài Loan thời hậu chiến.[^16] Năm ông 84 tuổi (2010), ông mới được công nhận là người gìn giữ "Đồ đan tre", và qua đời năm 2020.
 
 ---
 
-## Dệt xếp là ký ức của cơ thể: Đức Nữ Đất 34 năm
+## Nghệ thuật không được chính phủ cứu: Sự phục hồi nhuộm chàm Tam Hiệp
 
-Năm 1992, khi còn chưa đủ 30 tuổi, Đức Nữ Đất (tên Hán: Hoàng Ái Li, thổ ngữ là Yuma Taru, sinh năm 1963 tại xã Tào An, tỉnh Miao) bắt đầu "chạy bản địa". Ngài chạy đến 8 bộ dân tộc Tay Ngã, hơn 100 bản địa, thực hiện khảo sát trường.([(^19)]) Từ năm 1996, chồng ngài Baunay Watan đã dành 3 năm cùng ngài quay phim tài liệu, năm 1999 hoàn thành bộ phim《K'gi na yaki（Mẹ và tơ non）》, ghi lại quá trình ngài học từ mẹ kỹ thuật dệt xế truyền thống của ngòi Tay Ngã.([(^20)])
+![Trang phục nhuộm chàm "Bộ sưu tập Xanh và Trắng" trưng bày trong Bảo tàng Di tích Khu vực Tam Hiệp, là tư liệu thị giác đương đại tiêu biểu của sự phục hồi nhuộm chàm Tam Hiệp sau năm 1996](/article-images/culture/sanxia-indigo-display.webp)
+_Trang phục nhuộm chàm "Bộ sưu tập Xanh và Trắng" được trưng bày tại Bảo tàng Di tích Khu vực Tam Hiệp, thể hiện diện mạo ứng dụng của nghề nhuộm chàm đương đại Tam Hiệp sau khi phục hồi vào năm 1996. Ảnh: Tự Nhân Mạnh Tử, CC BY-SA 4.0, [Commons File](https://commons.wikimedia.org/wiki/File:%E4%B8%89%E5%B3%BD%E5%8D%80%E6%AD%B7%E5%8F%B2%E6%96%87%E7%89%A9%E9%A4%A8%E5%85%A7%E6%89%80%E5%B1%95%E7%A4%BA%E3%80%8C%E8%97%8D%E8%88%87%E7%99%BD%E7%B3%BB%E5%88%97%E3%80%8D%E8%97%8D%E6%9F%93%E6%9C%8D%E9%A3%BE.jpg)._
 
-Xưởng dệt của ngài "Cây cối" được lập tại xã Tào An, tỉnh Miao, thu hút các cô gia phụ ngòi Tay Ngã học dệt. Từ năm 1992 đến năm 2026, ngài đã làm 34 năm, đã thành công phục hồi 400-500 bộ trang phục truyền thống của ngòi Tay Ngã.([(^21)])
+Tam Hiệp (tên cũ là Tam Giác Dũng) là trung tâm dệt may quan trọng nhất ở phía Bắc Đài Loan trong thời Thanh Quang Thịnh. Nước suối trong lành và thung lũng ẩm ướt rất thích hợp cho cây chàm lớn (Mã Lam) phát triển, các xưởng nhuộm mọc san sát trên phố. Mặt tiền gạch đỏ của phố cổ Tam Hiệp ngày nay vẫn là minh chứng lịch sử về sự giàu có nhờ nghề nhuộm chàm ngày xưa.[^17]
 
-Năm 2016, ngài được Bộ Văn hóa xét công nhận là "tằm màu Tay Ngã — kỹ thuật ghép và xếp cùng họa tiết dệt xế của ngòi Tay Ngã" là người bảo tồn nghề truyền thống quan trọng, đóng vai trò là anh hững quốc phẩm nhỏ tuổi nhất của Đài Loan, 53 tuổi.([(^22)]) Ngài cho vocus phỏng vấn nhà báo:
+Nhưng khi thuốc nhuộm tổng hợp châu Âu được giới thiệu trong thời Thanh Quang Thịnh, và trang phục kiểu Tây cùng kimono Nhật Bản thịnh hành sau giữa thời Nhật trị, ngành dệt truyền thống dần biến mất. Nghề nhuộm chàm của Tam Hiệp đã bị thất truyền hơn 70 năm.
 
-> "Vấn đề xác định văn hóa này, bạn phải yêu thích nó từ sâu thấp trong lòng; nếu nó không thực sự thâm nhập vào xương máu, thì nó không hữu ích."([(^23)])
+Nguồn gốc của sự phục hồi này vào những năm 1990 thực ra không nằm ở các cơ quan chính phủ, mà là do người dân địa phương tự tìm lại. Năm 1990, cư dân Tam Hiệp phát động "Tìm kiếm màu chàm thất lạc của Tam Hiệp"; năm 1994, "Xưởng văn hóa lịch sử Tam Giác Dũng" được thành lập; năm 1996, "Hiệp hội Văn hóa Tam Giác Dũng" chính thức thành lập; và năm 1999, hiệp hội triển khai kế hoạch quảng bá nhuộm chàm và phục hồi kỹ thuật. Tổng giám đốc hiệp hội Lưu Mỹ Linh (劉美鈴) cùng với thầy Mã Phân Muội (馬芬妹) và thầy Trần Cảnh Lâm (陳景林) đã tìm lại được kỹ thuật nhuộm chàm thất truyền.[^17]
 
-> "Nên dùng cách này thu hút các dân tộc, chứ không chỉ có thể học dệt xế mới làm trang phục truyền thống, để tự mình tôn trọng và biết mình là ai."([(^23)])
+Điều này ngược lại với trình tự của hệ thống "Bảo vật nhân loại": trước khi có hệ thống (năm 2005), sự phục hồi nghề thủ công (năm 1990) đã diễn ra trong dân gian. Khi Luật Di sản Văn hóa ghi nhận hệ thống, nhuộm chàm Tam Hiệp đã tự tồn tại được 15 năm. Hệ thống đến để chứng nhận, chứ không phải để cứu mạng.
 
-Cụm từ "thâm nhập vào xương máu" này đáng để dừng lại. Hệ thống apprentice của nghề thủ công người Hoa là thợ trưởng dạy cho thợ trẻ một chiều, truyền thụ trực tiếp. Dệt xế của Đức Nữ Đất là cách để lại dệt xế Tay Ngã trở lại thể xác của cả một bộ dân tộc nữ giới. Những thứ được học qua cơ thể, hơn là ghi nhớ bằng sách, sống sót lâu hơn.
-
----
-
-## Trên danh sách không có điêu gỗ: nghề dân tộc nguyên dân tộc nguyên dân tộc chờ đợi 11 năm mới được đưa vào
-
-Đến cuối năm 2021, Bộ Văn hóa đã xét công nhận 21 loại 29 người là "người bảo tồn nghề truyền thống quan trọng" (cấp quốc gia), bao gồm gốm sứ, điêu gỗ, dệt tre, tô màu, dệt xế, kim hoà, thêu, 7 loại chính.([(^24)]) Nhưng có một khoảng trống rõ ràng: **điêu gỗ không có người bảo tồn cấp quốc gia**.
-
-Đây không phải vì Đài Loan không làm nghề điêu gỗ. Khu vực Yushan, Taitung, Quốc Ngân, Quân Đảo mỗi nơi có truyền thống điêu gỗ, các bản làng nguyên dân tộc có nguyên tác điêu gỗ và vật dụng sống bằng đá kéo dài ngàn năm. Nhưng trên danh sách "người bảo tồn nghề truyền thống quan trọng", điêu gỗ cho đến nay chưa có xác nhận riêng lẻ.
-
-Điều gì có trên danh sách, điều gì không có trên danh sách, chính là lựa chọn của người dẫn chương. Hệ thống bảo tồn tài sản văn hóa của Đài Loan có những điểm yếu riêng.
-
-| Loại nghề                       | Người bảo tồn                               | Năm xét công nhận |
-| ------------------------------- | ------------------------------------------- | ----------------- |
-| Tô màu                          | Vương Thạch Văn (còn làm việc đến 100 tuổi) | 2010              |
-| Dệt tre                         | Huang Tuc Shan                              | 2010              |
-| Điêu gỗ truyền thống            | Shi Zhen Yang                               | 2011              |
-| Nhôm công cụ                    | Trần Vạn Năng                               | 2011              |
-| Cắt hoa                         | Lý Bích Quân                                | 2013              |
-| Dệt thớ tre                     | Zhang Cien Ping                             | 2016              |
-| Tằm màu Tay Ngã                 | Đức Nữ Đất                                  | 2016              |
-| Điêu gỗ truyền thống quan trọng | Trần Khí Tướng                              | 2019              |
-| Sợi sợi                         | Huang Lan Yeu                               | 2020              |
-| Điêu gỗ truyền thống quan trọng | Lý Bích Quân (xác nhận lại)                 | 2020              |
-| Đánh đá                         | Đức Bách Hà                                 | 2021              |
-| Dệt ván                         | Trần Ba Nó                                  | 2021              |
-| Đá quý                          | Vương Phúc Thành                            | 2021              |
-| Điêu gỗ truyền thống quan trọng | Trần Đệ Thạch                               | 2021              |
-| Tô màu                          | Vương Lí Hương                              | 2021              |
-| Dệt thớ tre                     | Chen Li You Mi                              | 2021              |
-| Dệt xế Kinavatjesan             | Yên Ngọc Ngư                                | 2021              |
-| Dệt xế Gaya tminun              | Zhang Phong Ying                            | 2021              |
-| Đánh gỗ chi tiết                | Nguyễn Lí Hải                               | 2021              |
-| Tranh truyền thống kiến trúc    | Trường Văn Nam                              | 2021              |
-| Công nghệ xây dựng nước         | Quý Long Tử Sử (1935–2023)                  | 2022              |
-
-Xem kỹ hơn một chút, có một vấn đề cấu trúc: bốn loại nghề dân tộc nguyên dân tộc (Kinavatjesan, Gaya tminun, Tay Ngã, và các loại khác) đều xuất hiện trong một lô cùng năm 2021. Khi Luật Bảo tồn tài sản văn hóa được sửa đổi năm 2005, nghề dân tộc nguyên dân tộc gần như không có xác nhận cấp quốc gia; phải đợi tới năm 2016 sửa đổi lại và chờ 5 năm, đến năm 2021 mới cùng nhau đưa vào. **Hệ thống công nhận nghề dân tộc nguyên dân tộc trễ hơn 11 năm so với các nghề người Hoa.**
+> 📝 **Ghi chú của Người biên tập:** Trường hợp Tam Hiệp tiết lộ một sự đối lập vô hình: "Sự phục hồi nghề thủ công từ dưới lên" $\text{vs}$ "Bảo tồn di sản văn hóa từ trên xuống" là hai con đường khác nhau. Hầu hết các khoản trợ cấp của Bộ Văn hóa chảy vào tổ chức (hiệp hội, bảo tàng, trung tâm nghiên cứu), tỷ lệ đến cá nhân nghệ nhân rất ít; sự hỗ trợ mang tính "dự án", làm xong một dự án thì kết thúc, không thể hỗ trợ sáng tạo lâu dài cho nghệ nhân. Sự chỉ trích của giới học thuật về cấu trúc hỗ trợ chính là mắc kẹt ở sự sai lệch cơ cấu này.
 
 ---
 
-## 600 thợ, dưới 50 tuổi chỉ là "một phần nhỏ"
+## Học nghề từ một vị sư phụ đã mất trăm năm
 
-Toán học năm 2026 rất đơn giản.
+Vào năm 1981 (Minh Quốc thứ 70), tượng gốm giao chỉ của Miếu Gia Học Giả Từ Tế tại Gia Nghĩa bị trộm.
 
-Đài Loan đến tháng 5 năm 2023, tài sản văn hóa phi vật thể (bao gồm chung và quan trọng) cộng lại 6 loại chính 615 mục, trong đó nghề thủ công truyền thống gồm 182 mục.([(^25)]) Tổng cộng 29 người là "người bảo tồn nghề truyền thống quan trọng" (số liệu 2021, sau đó năm 2022 đã thêm nhiều người nữa), 600 người trên toàn quốc được Bộ Văn hóa cấp phép làm "thợ truyền thống".
+Lâm Quang Nghị (林洸沂), lúc đó mới ngoài 30 tuổi, vừa theo học kỹ thuật men gốm giao dưới sự hướng dẫn của Lâm Thiêm Mộc (林添木) và nhận dự án trùng tu. Bà Diệp Vương (葉王 - sinh năm 1826, nghệ nhân gốm giao bản địa đầu tiên của Đài Loan) đã mất hơn một trăm năm trước; công thức men, nhiệt độ nung, tỷ lệ pha màu lúc đó không để lại ghi chép bằng văn bản.[^18]
 
-Bộ Văn hóa trong báo chí thừa nhận: dưới 50 tuổi trong số 600 người "thợ truyền thống" chỉ là "một phần nhỏ".([(^26)]) Câu câu này trông bình thường, nhưng khi phân tích sẽ khiến bạn ngạc nhiên: trong 600 người, nếu 70% trên 50 tuổi, thì còn lại 180 người dưới 50 tuổi, trung bình chia cho 6 loại nghề (gốm sứ, điêu gỗ, dệt xế, dệt tre, kim hoà, tô màu), mỗi loại khoảng 30 người kế thừa. Phân bố đều ra các khu dệt nghề như Kinh Long, Sanxia, Meinong, Miao, Guan Miao, Dashi, Tainan, mỗi khu chỉ còn vài người trẻ làm thợ.
+Trong quá trình trùng tu, Lâm Quang Nghị phát hiện ra rằng mình hoàn toàn không biết bà Diệp Vương ban đầu đã sử dụng nguyên liệu gì và tỷ lệ men nào. Mỗi lần tạo ra màu đều không đúng, mỗi lần pha sai tỷ lệ, giống như đang liên tục kiểm chứng "rằng dù thế nào cũng không thể quay về thời mà bà Diệp Vương còn tồn tại được". Ông sau này nói với phóng viên tạp chí kinh điển:
 
-So sánh với hệ thống anh hững quốc phẩm của Nhật Bản: đến tháng 7 năm 2025, còn 105 người anh hững quốc phẩm đang sống, mỗi người được xét công nhận riêng lẻ sẽ nhận được trợ cấp hàng năm 200 triệu yen dùng riêng cho việc nuôi dưỡng người kế thừa, nghiên cứu và ghi chép.([(^2)]) Hệ thống hiện tại của Đài Loan cho "người bảo tồn nghề truyền thống quan trọng" không có bất kỳ cấp độ tương đương nào, hầu hết các thợ truyền thống chỉ có thể tự tìm kiếm thị trường. Văn hóa sáng tạo, hợp tác với nhà thiết kế, tham gia vào các khu văn hóa sáng tạo, là cách các thợ truyền thống tự tìm ra cách kéo sâu bò, không phải do hệ thống cung cấp. Các nhà nghiên cứu phê phán về cấu trúc trợ cấp, chỉ dừng lại ở vấn đề cấu trúc này.
+> "Trong toàn bộ quá trình trùng tu, thực ra tôi giống như học lại từ đầu."[^18]
 
-Chén Vạn Năng (nhà thợ nhôm tại Kinh Hoa, gia đình ba thế hệ, người được xét công nhận là anh hững quốc phẩm năm 2011) nói với nhà báo cuối tuần của tạp chí tự do Tây phương:
+Và nói thêm:
 
-> "Hôm qua đổi mới, hôm nay truyền thống; hôm nay đổi mới, ngày mai truyền thống."([(^27)])
+> "Nếu bà Diệp Vương còn sống, tôi nhất định sẽ xin làm đệ tử của bà ấy."[^18]
 
-Mặt khác của câu nói này là: hôm nay không đổi mới, ngày mai đã không còn.
+Lâm Quang Nghị đã mất hơn mười năm mới dần tìm lại được, sau đó ông được công nhận là "Người kế thừa thế hệ thứ ba gốm giao Diệp Vương". Nhưng ông biết rằng những gì mình tìm lại chỉ là "gần giống nhất" với bà Diệp Vương, chứ không phải chính bà ấy.
 
-> ⚠️ **Tranh luận:** Bộ Văn hóa và Trung tâm Nghiên cứu và Phát triển Nghề thuật của Đài Loan (NTCRI) thúc đẩy hợp tác "nghề × thiết kế". Xem tích cực, các thương hiệu như Twenty Two Design, nhạc truyền thống, bảo tàng đá Hoa Lan đã giúp các nghề truyền thống cũ có thị trường mới; nhìn tiêu cực, các thợ truyền thống bị xem như "nguyên liệu": nhà thiết kế dùng chúng, các thợ không có quyền sở hữu sản phẩm. Nhà thiết kế Xiao Qingyang nói: "Nếu có văn hóa tốt, thì có thể có văn hóa sáng tạo tốt."([(^28)]) Nhưng "văn hóa tốt" cần các thợ có thời gian làm việc chậm rãi, dạy dỗ, chứ không phải bị ép buộc ra thị trường.
-
----
-
-## Cùng nhau xát bã cát trắng
-
-Năm 2022, tháng 12, khi Thủ Sử Quý Long 87 tuổi được xét công nhận, cháu gái của ông, Su Jiàn-mu, chính thức học nghề và được Bộ Văn hóa cấp phép làm thợ truyền thống. Năm đó, ông và cháu cùng nhau thực hiện dự án sửa chữa nhà trang triển lịch sử Kinh đô. Su Jiàn-mu xát bã cát trắng, bổ sắt.([(^1)])
-
-Năm 100 tuổi, Vương Thạch Văn (sinh năm 1922, đến năm 2025 vẫn đang sống) mỗi ngày tạo ra 5-6 giờ. Con trai Vương Thạch Văn, Vương Thạch Văn, Vương Thạch Văn (sinh năm 1950) là người kế thừa thế hệ thứ ba. Gia đình ba thế hệ là những ngoại lệ duy nhất không để hệ thống apprentice bị đứt. Vương Thạch Văn chuyển lời của bố mình:
-
-> "Để làm tốt vẻ màu, phải sống lâu."([(^29)])
-
-Câu nói phiên bản Đài Loan của câu đó là "hệ thống pháp lúc mới hoạt động, phải nhanh chóng thực hiện". Đài Loan mới chỉ trong năm 2005 mới đưa kỹ thuật bảo tồn vào Luật Bảo tồn tài sản văn hóa, trễ 50 năm so với Nhật Bản; năm 2016 mới chia tài sản văn hóa phi vật thể thành 5 loại, trễ 13 năm so với Hiệp đồng UNESCO 2003. Khi luật pháp cuối cùng được ban hành, người còn sống và làm nghề là hạn chế. Thủ Sử Quý Long được xét công nhận chỉ sau 6 tháng đã khuất. Huang Tuc Shan được xét công nhận 10 năm sau đã khuất. Họ đều là người sinh vào thập niên 1920-1930. Thế hệ 1945-1965 thì sao? Khi hệ thống apprentice sụp đổ vào thập niên 1970, họ vừa mới cần học apprentice, đa số đã chuyển sang làng khác.
-
-Khu dệt nghề vẫn đang tồn tại. Đất còn tồn tại. Cây jati vẫn còn sinh. Rừng tre vẫn còn sinh. Nhưng hệ thống apprentice cần hai người mặt trước, thợ trưởng tay tay dạy sửa sai để đúng. Khi Su Jiàn-mu đang xát bã cát trắng trên đỉnh tháp của Bảo tàng Lịch sử Kinh đô, đó là chuỗi nối ít nhất còn không bị đứt của nghề thủ công truyền thống của Đài Loan.
-
-Danh sách càng dài, số người có thể truyền dạy càng ít. Lần sau bạn đi vào cửa hàng văn hóa sáng tạo, nhìn vào mỗi sản phẩm đều có tên của một anh hững quốc phẩm, sau tên đó, có người còn đóng góp, hoặc không còn.
+Khó khăn thực sự của việc thất truyền nghề thủ công nằm ở đây: khi một hoặc hai thế hệ bị đứt quãng, dù hậu bối có muốn học, họ cũng không thể tìm được người thầy để đối diện. Chế độ học nghề cần hai người đối mặt trực tiếp, người thầy sửa chữa sai lầm cho đồ đệ tận tay; sai một lần, được sửa một lần, lần sau sẽ đúng. Chuỗi truyền thừa của bà Diệp Vương đã bị cắt đứt sau khi bà qua đời, Lâm Quang Nghị chỉ có thể học từ "tác phẩm" của bà Diệp Vương, chứ không thể học từ chính bà ấy.
 
 ---
 
-**Đọc thêm**:
+## Dệt hoa văn là ký ức của cơ thể: Yuma Taru trong 34 năm
 
-- [Tằm màu](/culture/藍染) — Từ ngành tằm màu xuất khẩu chính vào thời Minh Khang, đến gần như tàn phai vào năm 1940, đến khi hồi sinh tại Sanxia, Miao, Tây Ngoại, Hạ Long.
-- [Vải hoa Đài Loan](/culture/台灣花布) — Vải hoa Hakka từ sản phẩm nhà máy thời Nhật Bản đến biểu tượng xác định văn hóa bản địa.
-- [La xưởng giấy](/culture/紙傘) — Từ vật dụng chịu mưa đến sản phẩm nghệ thuật của la xưởng giấy Meinong.
-- [Nón lá](/culture/斗笠) — Dệt tre và vật dụng đại dụng của nông dân Đài Loan.
-- [Lễ hội truyền thống và kỷ niệm](/culture/傳統節慶與慶典) — Nghề thủ công là phương tiện vật chất của lễ hội (la xưởng giấy bằng gỗ cho tiệc lễ, xe thần Mẫu Mẫu trong lễ hội).
+Vào năm 1992, Yuma Taru (尤瑪達陸) (tên Hán là Hoàng Á Lợi - 黃亞莉, người Thái Nha, sinh năm 1963 tại thị trấn Thái An, Miêu Lịch) bắt đầu "đi khắp các bộ lạc". Bà đã đi qua tám tiểu nhóm Thái Nha và hơn 100 bộ lạc để thực hiện khảo sát thực địa.[^19] Từ năm 1996, chồng bà Baunay Watan đã dành ba năm đồng hành cùng bà quay phim tài liệu, hoàn thành 《K'gi na yaki (Cây gai dầu của bà ngoại)》 vào năm 1999, ghi lại quá trình bà học kỹ thuật dệt truyền thống Thái Nha từ bà mình.[^20]
+
+Xưởng dệt "Dã Đồng" của bà được đặt tại bộ lạc Tượng Tị, Miêu Lịch, và đã tuyển dụng phụ nữ bản địa để học dệt. Từ năm 1992 đến 2026, bà đã làm việc trong 34 năm và đã phục hồi thành công 400-500 bộ trang phục truyền thống Thái Nha.[^21]
+
+Năm 2016, bà được Bộ Văn hóa công nhận là người gìn giữ nghề thủ công quan trọng "Kỹ thuật nhuộm dệt Thái Nha—dệt đan và dệt chải và hoa văn Thái Nha", lúc đó là Bảo vật nhân loại trẻ nhất Đài Loan, 53 tuổi.[^22] Bà nói với phóng viên vocus:
+
+> "Vấn đề nhận diện văn hóa là bạn phải yêu nó từ tận đáy lòng; nếu nó không thực sự đi vào xương tủy của bạn, thì nó vô dụng."[^23]
+
+> "Nên thu hút người dân theo cách này, chứ không chỉ học dệt để làm trang phục truyền thống, mà còn để tự tôn trọng bản thân, để biết mình là ai."[^23]
+
+Khái niệm "đi vào xương tủy" đáng để dừng lại. Chế độ học nghề của nghệ nhân Hán là sự kế thừa tuyến tính từ thầy sang trò; sự phục hồi hoa văn Thái Nha của Yuma Taru là việc đưa các hoa văn Thái Nha trở lại cơ thể của toàn bộ phụ nữ trong một tộc người. Những gì được học qua cơ thể, có thời gian tồn tại lâu hơn những gì ghi nhớ bằng sách vở.
 
 ---
+
+## Không có điêu khắc đá trong danh sách: Nghệ thuật bản địa chờ 11 năm mới được bổ sung
+
+Tính đến cuối năm 2021, tổng cộng có 29 hạng mục và 21 người được Bộ Văn hóa công nhận là "Người gìn giữ nghề thủ công truyền thống quan trọng" (cấp quốc gia), bao gồm 7 loại: gốm sứ, điêu khắc gỗ, đồ đan tre, nghệ thuật sơn mài, nhuộm dệt, kim hoàn, thêu. [^24] Nhưng có một khoảng trống rõ ràng: **điêu khắc đá chưa có người gìn giữ cấp quốc gia**.
+
+Đây không phải là Đài Loan không làm điêu khắc đá. Ngọc Lý ở Hoa Liên, Đô Lan ở Đài Đông, Kim Môn và Bành Hồ đều có truyền thống điêu khắc đá; nhà sàn bằng đá và đồ dùng sinh hoạt bằng đá của các bộ lạc bản địa cũng là nghề thủ công được duy trì hàng ngàn năm. Nhưng trong danh sách "Người gìn giữ nghề thủ công truyền thống quan trọng", cho đến nay vẫn chưa có sự công nhận cá nhân riêng biệt nào cho điêu khắc đá.
+
+Cái gì có trong danh sách, và cái gì không có trong danh sách, tự nó đã là một lựa chọn của người biên tập. Hệ thống bảo tồn di sản văn hóa của Đài Loan có những điểm mù riêng.
+
+| Loại nghề thủ công                   | Người gìn giữ                                | Năm được công nhận |
+| :----------------------------------- | :------------------------------------------- | :----------------- |
+| Nghệ thuật sơn mài                   | Vương Thanh Sương (vẫn sáng tác ở tuổi trăm) | 2010               |
+| Đồ đan tre                           | Hoàng Đồ Sơn (1926–2020)                     | 2010               |
+| Điêu khắc gỗ truyền thống            | Thi Trấn Dương                               | 2011               |
+| Nghệ thuật thiếc                     | Trần Vạn Năng                                | 2011               |
+| Kỹ thuật chạm hoa văn                | Lý Bỉnh Quý                                  | 2013               |
+| Đan tre và dây mây                   | Trương Hiến Bình                             | 2016               |
+| Nhuộm dệt Thái Nha                   | Yuma Taru                                    | 2016               |
+| Điêu khắc gỗ truyền thống quan trọng | Trần Khải Thôn                               | 2019               |
+| Dệt sợi gai                          | Hoàng Lan Diệp                               | 2020               |
+| Điêu khắc gỗ truyền thống quan trọng | Lý Bỉnh Quý (công nhận kép)                  | 2020               |
+| Đúc đất sét                          | Đỗ Mục Hà                                    | 2021               |
+| Trang trí bằng vỏ sò                 | Trần Tam Hỏa                                 | 2021               |
+| Điêu khắc ngọc                       | Hoàng Phúc Thọ                               | 2021               |
+| Điêu khắc gỗ truyền thống quan trọng | Thái Đức Thái                                | 2021               |
+| Nghệ thuật sơn mài                   | Hoàng Lệ Thục                                | 2021               |
+| Thêu Kinavatjesan của người Paiwan   | Trần Lí Hữu Muội                             | 2021               |
+| Dệt sợi chuối của người Kamalan      | Nghiêm Ngọc Anh                              | 2021               |
+| Dệt Tjemenun của người Paiwan        | Hứa Xuân Mỹ                                  | 2021               |
+| Dệt Gaya tminun của người Sedek      | Trương Phượng Anh                            | 2021               |
+| Mộc nhỏ (細木作)                     | Du Lễ Hải                                    | 2021               |
+| Vẽ trang trí kiến trúc truyền thống  | Trang Vũ Nam                                 | 2021               |
+| Kỹ thuật trùng tu thạch thủy         | Tô Thanh Lương (1935–2023)                   | 2022               |
+
+Nhìn kỹ một vấn đề cơ cấu: bốn nghề thủ công của người bản địa (Kamalan, hai nghề Paiwan, Sedek) đều được đưa vào cùng đợt năm 2021. Khi Luật Di sản Văn hóa sửa đổi năm 2005, hầu như không có sự ghi nhận cấp quốc gia nào cho nghề thủ công bản địa; phải đợi đến lần sửa đổi thứ hai vào năm 2016 và 5 năm sau là năm 2021 mới được bổ sung bốn hạng mục này. **Hệ thống đã chậm hơn nghệ thuật Hán ít nhất 11 năm.**
+
+---
+
+## 600 Nghệ nhân, người dưới 50 tuổi "chỉ là thiểu số"
+
+Phép tính vào năm 2026 rất đơn giản.
+
+Tính đến tháng 5 năm 2023, Đài Loan có tổng cộng 615 hạng mục di sản văn hóa phi vật thể (bao gồm chung và quan trọng) thuộc 6 loại lớn, trong đó nghề thủ công truyền thống chiếm 182 hạng mục.[^25] Tổng cộng có 29 "Người gìn giữ nghề thủ công truyền thống quan trọng" cấp quốc gia (số liệu năm 2021, sau năm 2022 lại tăng thêm nhiều người), và hơn 600 "nghệ nhân truyền thống" được Bộ Văn hóa ủy quyền cấp chứng chỉ.
+
+Cục Di sản Văn hóa thừa nhận trong báo cáo: số lượng nghệ nhân truyền thống dưới 50 tuổi "chỉ là thiểu số".[^26] Câu này bề ngoài có vẻ bình lặng, nhưng khi tính ra thì thật đáng kinh ngạc: nếu ước tính 70% trong số 600 người ở trên 50 tuổi, còn lại là 180 người dưới 50 tuổi, được phân bổ đều cho 6 loại nghề thủ công của Đài Loan (gốm sứ, điêu khắc gỗ, nhuộm dệt, đồ đan tre, kim hoàn, nghệ thuật sơn mài), thì mỗi loại có khoảng 30 người kế thừa. Nếu phải phân bổ ra tất cả các cụm nghề thủ công ở Nghênh Ca, Tam Nghĩa, Mỹ Nông, Miêu Lịch, Quan Miếu, Đại Khê, Lộc Cảng, Đài Nam, thì mỗi cụm chỉ còn lại một vài nghệ nhân trẻ.
+
+So sánh với số liệu của hệ thống Bảo vật nhân loại Nhật Bản: vào tháng 7 năm 2025, có 105 Bảo vật nhân loại đang sống ở Nhật Bản, và mỗi người được công nhận cá nhân nhận 2 triệu Yên trợ cấp hàng năm để nuôi dưỡng người kế thừa, nghiên cứu và ghi chép.[^2] Hệ thống hiện hành của Đài Loan không có mức hỗ trợ tương đương cho "Người gìn giữ nghề thủ công truyền thống quan trọng"; phần lớn các nghệ nhân địa phương phải tự tìm kiếm thị trường. Việc thương mại hóa văn hóa, hợp tác với nhà thiết kế, tham gia khu vực văn hóa là những cách mà các nghệ nhân Đài Loan đương đại chủ động tìm ra để kéo dài sự tồn tại, chứ không phải do hệ thống cung cấp.
+
+Trần Vạn Năng (nghệ nhân thiếc Lộc Cảng, nghề ba đời, Bảo vật nhân loại được công nhận năm 2011) nói với phóng viên tạp chí Thời báo Tự do:
+
+> "Sáng tạo hôm qua, truyền thống hôm nay; sáng tạo hôm nay, truyền thống ngày mai."[^27]
+
+Mặt khác của câu này là: nếu không đổi mới hôm nay, thì ngày mai sẽ biến mất.
+
+> ⚠️ **Tranh cãi:** Bộ Văn hóa và Trung tâm Nghiên cứu Phát triển Thủ công Đài Loan (NTCRI) thúc đẩy hợp tác "Thủ công $\times$ Thiết kế". Xét mặt tích cực, các thương hiệu như Nhị Thập Nhị Thiết Kế, Ấn Hoa Lạc, Bảo tàng Gạch hoa Đài Loan đã mang lại thị trường mới cho nghề thủ công cũ; xét mặt tiêu cực, nghệ nhân bị coi là "kho nguyên liệu": nhà thiết kế sử dụng, còn nghệ nhân không có quyền sở hữu trí tuệ. Nhà thiết kế Tiêu Thanh Dương nói: "Phải có văn hóa tốt thì mới có thể có văn hóa sáng tạo tốt."[^28] Nhưng "văn hóa tốt" cần nghệ nhân có thời gian từ tốn làm, từ tốn dạy, chứ không phải bị ép buộc đưa ra thị trường.
+
+---
+
+## Bà và cháu cùng tô vôi trắng
+
+Vào năm 1987 (năm Tô Thanh Lương được công nhận ở tuổi 87), cháu trai ông là Tô Kiến Minh vừa đạt chứng chỉ nghệ nhân truyền thống của Bộ Văn hóa. Năm đó, bà và cháu cùng tiếp nhận dự án trùng tu nóc tháp tại Bảo tàng Lịch sử Thành phố Cao Hùng. Bà Tô Thanh Lương (蘇清良) 86 tuổi đến công trường giám sát, còn chàng trai trẻ Tô Kiến Minh tô vôi trắng và sửa ngói.[^1]
+
+Vương Thanh Sương (王清霜 - sinh năm 1922, vẫn còn sống vào năm 2025) sáng tác 5-6 giờ mỗi ngày. Con trai ông là Vương Hiền Dân (王賢民), Vương Hiền Chí (王賢志) tiếp nối, và cháu trai Vương Tuấn Vĩ (王峻偉) là thế hệ thứ ba. Gia đình này là một trong số ít các gia tộc nghề thủ công không để chế độ học nghề bị đứt gãy. Vương Hiền Dân kể lại lời cha mình:
+
+> "Muốn làm tốt nghệ thuật sơn mài, thì phải sống lâu một chút."[^29]
+
+Phiên bản Đài Loan của câu "Muốn làm tốt nghệ thuật sơn mài, thì phải sống lâu một chút" là "Hệ thống phải làm tốt, thì phải nhanh chóng thực hiện". Đài Loan chỉ đưa kỹ thuật bảo tồn vào Luật Di sản Văn hóa năm 2005, chậm hơn Nhật Bản 50 năm; đến năm 2016 mới chia di sản văn hóa phi vật thể thành 5 loại lớn, chậm hơn Công ước UNESCO 2003 là 13 năm. Luật pháp đã có, nhưng số người còn sống và vẫn làm được, vẫn dạy được thì có hạn. Tô Thanh Lương qua đời sáu tháng sau khi được công nhận, Hoàng Đồ Sơn qua đời 10 năm sau khi được công nhận; họ đều thuộc thế hệ sinh từ 1925-1935. Thế hệ sinh từ 1945-1965 thì sao? Khi chế độ học nghề sụp đổ vào những năm 1970, họ vừa mới bắt đầu học nghề, và đa số đã chuyển ngành.
+
+Cụm nghề vẫn còn. Đất sét vẫn còn. Gỗ tràm vẫn mọc. Rừng tre vẫn thu hoạch được. Nhưng chế độ học nghề cần hai người đối mặt trực tiếp, người thầy sửa chữa sai lầm cho đồ đệ tận tay. Khi cháu trai của Tô Thanh Lương tô lớp vôi trắng trên nóc tháp, dưới lớp vôi trắng đó là một trong số ít những sợi dây chuyền nghề thủ công truyền thống Đài Loan chưa bị đứt đoạn.
+
+Danh sách càng dài, số người có thể dạy lại càng ít. Lần tới khi bước vào cửa hàng văn hóa sáng tạo, nhìn thấy tên của một Bảo vật nhân loại đứng sau mỗi sản phẩm, thì phía sau cái tên đó, có thể còn có người, hoặc cũng có thể không còn ai nữa.
+
+---
+
+**Đọc thêm:**
+
+- [Nhuộm chàm](/vi/culture/taiwan-indigo-dyeing) — Lịch sử nghề nhuộm chàm hoàn chỉnh từ việc xuất khẩu số lượng lớn thời Thanh đến gần như tuyệt chủng vào năm 1940, và sự phục hồi tại Tam Hiệp, Miêu Lịch, Thái Bình, Tinh Liêu.
+- [Vải hoa Đài Loan](/vi/culture/taiwan-floral-fabric) — Hành trình nhận diện bản sắc của vải hoa Khách Gia từ sản phẩm nhà máy thời Nhật trị đến biểu tượng văn hóa địa phương.
+- [Ô giấy](/vi/culture/taiwan-paper-umbrella) — Con đường chuyển đổi của ô giấy Mỹ Nông từ vật dụng che mưa sang tác phẩm nghệ thuật.
+- [Nón lá](/vi/culture/bamboo-hat-craft) — Vật phẩm đại diện cho nghề dệt cói và nông nghiệp Đài Loan.
+- [Lễ hội và nghi lễ truyền thống](/vi/culture/traditional-festivals-and-celebrations) — Nghề thủ công là vật mang hữu hình của các lễ hội (giấy gói bánh muối, kiệu rước Bà Mẫu).
+
+---
+
+## Nguồn ảnh
+
+Bài viết này sử dụng 3 ảnh được cấp phép CC từ Wikimedia Commons, tất cả đều được lưu trữ tại `public/article-images/culture/` để tránh liên kết nóng đến máy chủ nguồn:
+
+- [Ô giấy Mỹ Nông, Đài Loan 2013-07](https://commons.wikimedia.org/wiki/File:Yuanxiangyuan_Paper_Umbrella,_Taiwan_2013-07.JPG) — Ảnh: Outlookxp, 2013-07-20, CC BY-SA 3.0. Tập hợp ô giấy dầu Khách Gia trưng bày tại làng văn hóa nguyên bản Mỹ Nông, với các màu đỏ, vàng, đen xen kẽ, là một trong những tư liệu thị giác tiêu biểu của nghề ô giấy Mỹ Nông.
+- [Bảo tàng điêu khắc gỗ Tam Nghĩa 20100501](https://commons.wikimedia.org/wiki/File:Sanyi_Wood_Sculpture_Museum_20100501.jpg) — Ảnh: Anrew0517, 2010-05-01, CC BY-SA 3.0. Bên ngoài Bảo tàng điêu khắc gỗ Tam Nghĩa (Thôn Quảng Thịnh, huyện Tam Nghĩa, Cao Hùng), là bảo tàng công lập duy nhất lấy chủ đề điêu khắc gỗ ở Đài Loan.
+- [Trang phục nhuộm chàm "Bộ sưu tập Xanh và Trắng" trưng bày trong Bảo tàng Di tích Khu vực Tam Hiệp](https://commons.wikimedia.org/wiki/File:%E4%B8%89%E5%B3%BD%E5%8D%80%E6%AD%B7%E5%8F%B2%E6%96%87%E7%89%A9%E9%A4%A8%E5%85%A7%E6%89%80%E5%B1%95%E7%A4%BA%E3%80%8C%E8%97%8D%E8%88%87%E7%99%BD%E7%B3%BB%E5%88%97%E3%80%8D%E8%97%8D%E6%9F%93%E6%9C%8D%E9%A3%BE.jpg) — Ảnh: Tự Nhân Mạnh Tử, CC BY-SA 4.0. Trang phục nhuộm chàm "Bộ sưu tập Xanh và Trắng" được trưng bày tại Bảo tàng Di tích Khu vực Tam Hiệp, thể hiện diện mạo ứng dụng của nghề nhuộm chàm đương đại Tam Hiệp sau khi phục hồi vào năm 1996.
 
 ## Tài liệu tham khảo
 
-[^1]: [Thủ Văn xây dựng 70 năm, Quý Long được xét công nhận là anh hững quốc phẩm](https://www.cna.com.tw/news/acul/202212190092.aspx) — Central News Agency 2022-12-19 báo chí, trích dẫn ngôn lời tiếng Đài của Quý Long "Chúng tôi bắt đầu từ đầu Đài Loan đến cuối đảo" và lời chia sẻ về việc kế thừa bằng gia đình.
+[^1]: [Trùng tu thạch thủy hơn 70 năm - Tô Thanh Lương được Bộ Văn hóa công nhận là "Bảo vật nhân loại"](https://www.cna.com.tw/news/acul/202212190092.aspx) — Bản tin Thông tấn xã Trung ương ngày 19/12/2022, bản phỏng vấn độc quyền của Tô Thanh Lương, bao gồm lời tự thuật bằng tiếng Đài ngữ "Tôi đã làm từ đầu đến cuối Đài Loan" và trích dẫn về sự kế thừa của ông bà cháu.
 
-[^2]: [《Anh hững quốc phẩm ngày nay》Vấn đề nghiêm trọng về người kế thừa](https://news.yahoo.co.jp/articles/af5da6be88c12f666fe7f3cb70760ac1aed5b0d2) — Yahoo Japan báo chí, 2025 năm hệ thống anh hững quốc phẩm của Nhật Bản thay đổi lớn lần đầu trong 50 năm, đáp ứng vấn đề lão hóa nghiêm trọng của ngành công nghệ nghề; đến tháng 7 năm 2025, còn 105 người anh hững quốc phẩm đang sống.
+[^2]: [《Bảo vật nhân loại hiện tại》Vấn đề người kế thừa sâu sắc](https://news.yahoo.co.jp/articles/af5da6be88c12f666fe7f3cb70760ac1aed5b0d2) — Bản tin Yahoo Nhật Bản, năm 2025 hệ thống "Bảo vật nhân loại" của Nhật Bản lần đầu tiên cải cách lớn để ứng phó với khủng hoảng già hóa trong bộ phận kỹ thuật thủ công; có 105 người đang sống vào tháng 7 năm 2025.
 
-[^3]: [Luật Bảo tồn tài sản văn hóa](https://zh.wikipedia.org/zh-tw/%E6%96%87%E5%8C%96%E8%B3%87%E7%94%A2%E4%BF%9D%E5%AD%98%E6%B3%95) — Wikipedia tiếng Trung bản Tiếng Việt về Luật Bảo tồn tài sản văn hóa, bao gồm lịch sử lập pháp 1982, sửa đổi lần thứ năm 2005, và chia tài sản văn hóa phi vật thể thành 5 loại danh mục.
+[^3]: [Luật Bảo tồn Di sản Văn hóa](https://zh.wikipedia.org/zh-tw/%E6%96%87%E5%8C%96%E8%B3%87%E7%94%A2%E4%BF%9D%E5%AD%98%E6%B3%95) — Mục Luật Di sản Văn hóa trên Wikipedia, bao gồm quá trình phát triển điều khoản từ việc lập pháp năm 1982, sửa đổi lớn thứ năm năm 2005 và lần sửa đổi vào năm 2016 để thiết lập "5 loại di sản văn hóa phi vật thể".
 
-[^4]: [Quý Long](https://zh.wikipedia.org/zh-tw/%E8%98%87%E6%B8%85%E8%89%AF) — Wikipedia tiếng Trung về Quý Long, ghi nhận sinh năm 1935, bắt đầu học nghề từ năm 16 tuổi, sửa chữa hơn 30 công trình cổ, xét công nhận 2022, khuất 2023.
+[^4]: [Tô Thanh Lương](https://zh.wikipedia.org/zh-tw/%E8%98%87%E6%B8%85%E8%89%AF) — Mục Tô Thanh Lương trên Wikipedia, ghi lại toàn bộ sự nghiệp của ông: sinh năm 1935, bắt đầu học nghề năm 16 tuổi, trùng tu hơn 30 di tích, được công nhận năm 2022 và qua đời năm 2023.
 
-[^5]: [Kỹ thuật anh hững quốc phẩm Quý Long khuất, Tổng thống đề nghị khen ngợi](https://art.ltn.com.tw/article/breakingnews/4387610) — Tạp chí tự do 2023, tin tức về việc Quý Long khuất, Tổng thống đề nghị khen ngợi.
+[^5]: [Tô Thanh Lương, người gìn giữ kỹ thuật văn hóa, qua đời - Tổng thống ban tặng huân chương](https://art.ltn.com.tw/article/breakingnews/4387610) — Bản tin Thời báo Tự do về sự qua đời của Tô Thanh Lương vào năm 2023, chi tiết về huân chương của tổng thống.
 
-[^6]: [Living National Treasure (Nhật Bản)](https://en.wikipedia.org/wiki/Preservers_of_Important_Intangible_Cultural_Properties) — Wikipedia tiếng Anh về hệ thống anh hững quốc phẩm của Nhật Bản, ghi nhận Luật Bảo vệ di sản 1950, sửa đổi 1954, ngày 15-02-1955 phân công lần đầu, và hệ thống trợ cấp 200 triệu yen từ năm 1964.
+[^6]: [Bảo vật quốc gia sống (Nhật Bản)](https://en.wikipedia.org/wiki/Preservers_of_Important_Intangible_Cultural_Properties) — Mục hệ thống Bảo vật nhân loại trên Wikipedia tiếng Anh, ghi lại Luật Bảo vệ Di sản Văn hóa năm 1950, sửa đổi năm 1954, chỉ định đợt đầu tiên ngày 15/02/1955 và khởi động chế độ trợ cấp 2 triệu Yên vào năm 1964.
 
-[^7]: [Di sản phi vật thể quan trọng (Hàn Quốc)](<https://en.wikipedia.org/wiki/National_Intangible_Cultural_Heritage_(South_Korea)>) — Wikipedia tiếng Anh về hệ thống di sản phi vật thể quan trọng của Hàn Quốc, 1962 lập pháp, thiên vị Nhật Bản nhưng bao gồm cả văn hóa dân gian.
+[^7]: [Di sản văn hóa phi vật thể quốc gia (Hàn Quốc)](<https://en.wikipedia.org/wiki/National_Intangible_Cultural_Heritage_(South_Korea)>) — Mục hệ thống Di sản Văn hóa phi vật thể quan trọng trên Wikipedia tiếng Anh, ban hành năm 1962, mô phỏng Nhật Bản nhưng phạm vi rộng hơn.
 
-[^8]: [Lịch sử phát triển của Kinh Long](https://www.yingge.ntpc.gov.tw/home.jsp?id=6fed0da13b535525) — Trang web chính thức của quận Kinh Long, Bắc Ngoại, lịch sử phát triển, Wu Anshu đến đảo năm 1804, chuyển đến Xiangshan năm 1853.
+[^8]: [Sự phát triển của Nghênh Ca](https://www.yingge.ntpc.gov.tw/home.jsp?id=6fed0da13b535525) — Trang web chính thức của Tòa thị chính Nghênh Ca, Tân Bắc, ghi lại diễn biến lịch sử "Sự phát triển của Nghênh Ca", với trình tự và bối cảnh địa lý hoàn chỉnh về việc mở lò năm 1804 và di chuyển đến Khảm Giác năm 1853.
 
-[^9]: [Kinh Long — Lịch sử gốm sứ](https://openmuseum.tw/muse/exhibition/2ef9b3d6c88b6ccff5bc017db7bdf83e) — Triển lãm trực tuyến "Kinh Long" của Cơ quan triển lãm mở, lịch sử gốm sứ và quy trình di cư của gia đình Wu từ Quanzhou đến Đài Loan.
+[^9]: [Thị trấn Huyện Tử - Lịch sử gốm sứ Nghênh Ca](https://openmuseum.tw/muse/exhibition/2ef9b3d6c88b6ccff5bc017db7bdf83e) — Triển lãm trực tuyến của Bảo tàng Mở "Thị trấn Huyện Tử", là lời kể mang tính triển lãm về nguồn gốc gốm sứ Nghênh Ca và con đường gia tộc Ngô từ Tuyền Châu đến Đài Loan.
 
-[^10]: [Kiln It! 200 năm lịch sử gốm sứ Kinh Long](https://www.taiwan-panorama.com/en/Articles/Details?Guid=36e1a9b6-3996-47b4-a750-20d984fe8844) — Tạp chí Light vàng tiếng Anh chuyên đề lịch sử gốm sứ Kinh Long, bao gồm đầu tư công nghiệp hóa của chính phủ Nhật Bản vào năm 1895 và động lực công nghiệp hóa vào năm 1931.
+[^10]: [Kiln It! Lịch sử 200 năm gốm sứ Nghênh Ca](https://www.taiwan-panorama.com/en/Articles/Details?Guid=36e1a9b6-3996-47b4-a750-20d984fe8844) — Bài chuyên đề tiếng Anh của tạp chí Quang Hoa về lịch sử gốm sứ Nghênh Ca, bao gồm dòng thời gian chi tiết và tài liệu gốc bằng tiếng Anh về sự phát triển công nghiệp hóa dưới thời Nhật trị năm 1895 và phong trào công nghiệp hóa năm 1931.
 
-[^11]: [Gốm sứ Kinh Long mới](https://dailyfocus.news/porcelain/) — Thương hiệu gốm sứ Kinh Long "Mới Vượt", dữ liệu 1.300 gia đình vào đỉnh cao thập niên 1990, danh tiếng "Kinh đô gốm sứ Đài Loan".
+[^11]: [Nghênh Ca Tân Vượng Tập Cất](https://dailyfocus.news/porcelain/) — Tài liệu chính thức của thương hiệu gốm sứ lâu đời Nghênh Ca "Tân Vượng Tập Cất", bao gồm dữ liệu đỉnh cao 1.300 nhà máy trong những năm 90 và nguồn gốc danh xưng quốc tế "Cảnh Đức Trấn của Đài Loan".
 
-[^12]: [T22 Magazine Số 01 — Đất, lò nung và ký ức, con đường không bình thường của Kinh Long](https://www.tdri.org.tw/zh-TW/news/431) — Tạp chí của Viện Nghiên cứu Thiết kế Đài Loan, số liệu thống kê các nhà máy sản xuất hàng không phải kim loại theo năm (701→662→554→289) và ba nguyên nhân sụp giảm.
+[^12]: [Báo cáo địa phương T22, số 01: Đất sét, lò nung và ký ức, con đường phi thường của Nghênh Ca](https://www.tdri.org.tw/zh-TW/news/431) — Bài chuyên đề về nghề thủ công Nghênh Ca của Viện Nghiên cứu Thiết kế Đài Loan (TDRI), bao gồm dữ liệu hàng năm về số nhà máy sản xuất đồ phi kim loại (701 $\rightarrow$ 662 $\rightarrow$ 554 $\rightarrow$ 289) và ba nguyên nhân suy thoái.
 
-[^13]: [Phong cách điêu gỗ Sanxia, nguồn gốc và biến đổi-02-Nguồn gốc từ gỗ lạ và công ty đông đại](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Event&id=259834) — Bộ nhớ văn hóa quốc gia, lịch sử chi tiết về Wu Jinbao và Zōzaki thành lập công ty đông đại năm 1918.
+[^13]: [Phong cách, nguồn gốc và sự phát triển của điêu khắc gỗ Tam Nghĩa - 02 - Sự trỗi dậy của "điêu khắc kỳ vật" và việc thành lập Công ty TNHH Higashi Tatsumono](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Event&id=259834) — Kho lưu trữ văn hóa quốc gia, nghiên cứu chi tiết về nguồn gốc sự hợp tác giữa Ngô Tiến Bảo năm 1918 và Kanzaki để thành lập "Công ty TNHH Higashi Tatsumono" của điêu khắc gỗ Tam Nghĩa.
 
-[^14]: [Meinong oil-paper umbrellas](https://english.hakka.gov.tw/Content/Content?NodeID=684&PageID=42444&LanguageType=ENG) — Phiên bản tiếng Anh của Hội Hakka về la xưởng giấy Meinong, bao gồm năm 1910, Lin A Qui và Wu Zhenxing mời thợ từ Thâu Quốc, sản xuất 20.000 chiếc vào thập niên 1960, doanh thu 400 triệu nhà nước.
+[^14]: [Ô giấy Mỹ Nông](https://english.hakka.gov.tw/Content/Content?NodeID=684&PageID=42444&LanguageType=ENG) — Mục chuyên đề tiếng Anh của Hiệp hội Khách Gia, bao gồm việc giới thiệu dưới thời Đại Chính trị Nhật Bản, sự mời các nghệ nhân từ Quảng Đông bởi Lâm A Quý và Ngô Chấn Hưng, dữ liệu sản xuất 20.000 chiếc/năm và giá trị 40 triệu Đài tệ trong những năm 1960.
 
-[^15]: [Từ vật dụng đến sản phẩm nghệ thuật — La xưởng giấy Meinong](https://www.taiwan-panorama.com/Articles/Details?Guid=bee14bb4-c7a7-44e1-8fc7-abeea46586c7&CatId=9) — Tạp chí Light vàng năm 1981 khảo sát thực địa, bao gồm lời chia sẻ của Lin Xương Hồng về "thiếu người kế thừa" và các thông số sản xuất, giá bán hàng ngày.
+[^15]: [Từ dụng cụ thành tác phẩm nghệ thuật - Ô giấy Mỹ Nông](https://www.taiwan-panorama.com/Articles/Details?Guid=bee14bb4-c7a7-44e1-8fc7-abeea46586c7&CatId=9) — Bài chuyên đề khảo sát thực địa của tạp chí Quang Hoa năm 1981, bao gồm trích dẫn của Lâm Hưởng Hồng từ xưởng Quảng Vinh Hưng "đối mặt với tình trạng không người kế thừa" và hồ sơ nguyên bản về tiêu chuẩn sản xuất, giá cả và quy trình vào năm đó.
 
-[^16]: [Huang Tuc Shan](https://zh.wikipedia.org/zh-tw/%E9%BB%8F%E5%A1%97%E5%B1%B1) — Wikipedia tiếng Trung về Huang Tuc Shan (1926–2020), lịch sử học tập tại trung tâm dệt tre Sanpo năm 1939, vai trò khởi xướng hệ thống dệt tre sau chiến tranh, xét công nhận 2010.
+[^16]: [Hoàng Đồ Sơn](https://zh.wikipedia.org/zh-tw/%E9%BB%83%E5%A1%97%E5%B1%B1) — Mục Hoàng Đồ Sơn trên Wikipedia (1926–2020), ghi lại quá trình ông gia nhập Trung tâm đào tạo nghề thủ công tre quận Trúc Sơn năm 1939, vị trí trung tâm của ngành đồ đan tre Đài Loan thời hậu chiến và việc được công nhận là người gìn giữ "Đồ đan tre" vào năm 2010.
 
-[^17]: [Về chính mình](http://www.sanchiaoyung.org.tw/front/bin/home.phtml) — Trang web chính thức của Hiệp hộ Hợp tác Văn hóa Tam Giác Hồ, lịch sử hồi sinh tằm màu Sanxia 1990, thành lập studio lịch sử 1994, hội thành lập 1996, chương trình phục hồi kỹ thuật 1999.
+[^17]: [Về chúng tôi - Hiệp hội Văn hóa Tam Giác Dũng](http://www.sanchiaoyung.org.tw/front/bin/home.phtml) — Lịch sử trang web của Hiệp hội Văn hóa Tam Giác Dũng, bao gồm nguồn gốc sự phục hồi nhuộm chàm Tam Hiệp năm 1990, xưởng văn hóa lịch sử năm 1994, thành lập hiệp hội năm 1996 và kế hoạch quảng bá và phục hồi kỹ thuật nhuộm chàm năm 1999.
 
-[^18]: [Từ nhà thờ đến anh hững quốc phẩm — Lin Hồng Nhiễu, người học giao tấm Hương Nhiễu](https://www.rhythmsmonthly.com/?p=35716) — Tạp chí Classic, phỏng vấn Lin Hồng Nhiễu về việc học tập lại qua quá trình sửa chữa giao tấm Hương Nhiễu đã khuất, và được xét công nhận là người truyền thụ thế hệ thứ ba.
+[^18]: [Từ mái miếu đến nhân gian - Đại sư gốm giao Lâm Quang Nghị](https://www.rhythmsmonthly.com/?p=35716) — Phỏng vấn nhân vật của tạp chí Kinh điển, câu chuyện đầy đủ về việc Lâm Quang Nghị trùng tu tượng gốm giao Miếu Gia Học Giả Từ Tế từ năm 1981, quá trình mày mò tỷ lệ men hơn mười năm và cuối cùng được công nhận là người kế thừa thế hệ thứ ba gốm giao Diệp Vương.
 
-[^19]: [Yuma Taru](https://en.wikipedia.org/wiki/Yuma_Taru) — Wikipedia tiếng Anh về Đức Nữ Đất, 8 bộ dân tộc Tay Ngã, hơn 100 bản địa, tên Hán Hoàng Ái Li, sinh năm 1963 tại xã Tào An, tỉnh Miao.
+[^19]: [Yuma Taru](https://en.wikipedia.org/wiki/Yuma_Taru) — Mục Yuma Taru trên Wikipedia tiếng Anh, bối cảnh sinh ra tại Thái An, Miêu Lịch, với tên Hán Hoàng Á Lợi, khảo sát thực địa năm 1992 đi qua hơn 100 bộ lạc và tám tiểu nhóm Thái Nha.
 
-[^20]: [Người sử đổi lịch sử | Baunay Watan](https://www.moc.gov.tw/en/information_235_77197.html) — Trang web tiếng Anh của Bộ Văn hóa về Baunay Watan, dự án phim tài liệu K'gi na yaki (Mẹ và tơ non) 1996-1999.
+[^20]: [Nhà sử học Thái Nha | Baunay Watan](https://www.moc.gov.tw/en/information_235_77197.html) — Mục chuyên đề tiếng Anh của Bộ Văn hóa MOC, về quá trình làm phim tài liệu 《K'gi na yaki (Cây gai dầu của bà ngoại)》 do chồng bà Baunay Watan thực hiện từ năm 1996-1999.
 
-[^21]: [Nghệ sĩ nguyên dân tộc bảo tồn dệt xế truyền thống](https://taiwanreview.nat.gov.tw/AMP/Culture/Top-News/24402/Indigenous-artist-preserves-traditional-Atayal-weaving) — Taiwan Today tiếng Anh, quy mô hoạt động của "Cây cối" tại xã Tào An, phục hồi 400-500 bộ trang phục truyền thống Tay Ngã.
+[^21]: [Nghệ nhân bản địa gìn giữ nghề dệt Thái Nha](https://taiwanreview.nat.gov.tw/AMP/Culture/Top-News/24402/Indigenous-artist-preserves-traditional-Atayal-weaving) — Bài chuyên đề tiếng Anh của Taiwan Today, thống kê quy mô hoạt động của xưởng Dã Đồng tại bộ lạc Tượng Tị, phục hồi thành công 400-500 bộ trang phục truyền thống Thái Nha.
 
-[^22]: [Đức Nữ Đất](https://zh.wikipedia.org/zh-tw/%E5%B0%A4%E7%91%AA%C2%B7%E9%81%94%E9%99%B8) — Wikipedia tiếng Trung về Đức Nữ Đất, xét công nhận 2016 là người bảo tồn nghề truyền thống quan trọng, anh hững quốc phẩm nhỏ tuổi nhất (53 tuổi).
+[^22]: [Yuma Taru](https://zh.wikipedia.org/zh-tw/%E5%B0%A4%E7%91%AA%C2%B7%E9%81%94%E9%99%B8) — Mục Yuma Taru trên Wikipedia, hồ sơ chính thức về việc bà được Bộ Văn hóa công nhận năm 2016 (năm Minh Quốc thứ 105) là người gìn giữ nghề thủ công quan trọng "Kỹ thuật nhuộm dệt Thái Nha—dệt đan và dệt chải và hoa văn Thái Nha", Bảo vật nhân loại trẻ nhất lúc đó (53 tuổi).
 
-[^23]: [Ghi chép câu chuyện đẹp của nguyên dân tộc](https://vocus.cc/article/5e53409bfd897800013f0d61) — Vocus phỏng vấn Đức Nữ Đất, bao gồm lời chia sẻ "xác định văn hóa này phải yêu thích từ sâu thấp trong lòng" và "cho phép các dân tộc tự tôn trọng và biết mình là ai".
+[^23]: [Ghi lại câu chuyện đẹp của Thái Nha bằng hoa văn](https://vocus.cc/article/5e53409bfd897800013f0d61) — Phỏng vấn Yuma Taru trên vocus, bao gồm hai đoạn trích tiếng Trung: "Vấn đề nhận diện văn hóa là bạn phải yêu nó từ tận đáy lòng" và "để tự tôn trọng bản thân, để biết mình là ai".
 
-[^24]: [Danh sách người bảo tồn nghề truyền thống quan trọng](https://nchdb.boch.gov.tw/announcement/310) — Trang web chính thức của Bộ Văn hóa về danh sách người bảo tồn nghề truyền thống quan trọng đến năm 2021.
+[^24]: [Người gìn giữ nghề thủ công truyền thống quan trọng của Cổng thông tin di sản quốc gia](https://nchdb.boch.gov.tw/announcement/310) — Thông báo chính thức của trang web di sản văn hóa quốc gia Bộ Văn hóa, danh sách và năm được công nhận chính thức 21 hạng mục và 29 người "Người gìn giữ nghề thủ công truyền thống quan trọng" tính đến cuối năm 2021.
 
-[^25]: [Bộ Văn hóa](https://www.moc.gov.tw/en/News_Content2.aspx?n=389&s=14012) — Trang web tiếng Anh của Bộ Văn hóa, thống kê tài sản văn hóa phi vật thể 6 loại chính 615 mục đến tháng 5 năm 2023, bao gồm 182 mục nghề thủ công truyền thống.
+[^25]: [Cục Di sản Văn hóa](https://www.moc.gov.tw/en/News_Content2.aspx?n=389&s=14012) — Trang web tiếng Anh của Cục Di sản Văn hóa Bộ Văn hóa, thống kê 615 hạng mục di sản văn hóa phi vật thể trên Đài Loan tính đến tháng 5 năm 2023, bao gồm 182 tiểu mục nghề thủ công truyền thống.
 
-[^26]: [Thợ truyền thống thiếu người kế thừa, bộ văn hóa đào tạo lớp học ở cả Bắc và Nam](https://news.ltn.com.tw/news/life/breakingnews/2383523) — Tạp chí tự do báo chí, bộ văn hóa thừa nhận rằng trong số 600 người "thợ truyền thống", dưới 50 tuổi chỉ là "một phần nhỏ", bao gồm giải thích về chương trình đào tạo của bộ văn hóa vào các trường đại học nghệ thuật.
+[^26]: [Khoảng trống nhân tài nghệ nhân truyền thống - Các khóa đào tạo của Cục Di sản Văn hóa được cả Bắc và Nam tham gia](https://news.ltn.com.tw/news/life/breakingnews/2383523) — Bài báo Thời báo Tự do, trong đó Cục Di sản Văn hóa thừa nhận rằng số lượng dưới 50 tuổi trong hơn 600 "nghệ nhân truyền thống" chỉ là thiểu số, bao gồm giải thích chính thức về các khóa đào tạo thạch thủy được ủy thác bởi Cục Di sản Văn hóa cho Đại học Nghệ thuật Đài Nam.
 
-[^27]: [Gia đình ba thế hệ người nhôm anh hững quốc phẩm — Chén Vạn Năng](https://art.ltn.com.tw/article/paper/1556119) — Tạp chí tự do cuối tuần về gia đình Chén Vạn Năng, bao gồm lời chia sẻ "hôm qua đổi mới, hôm nay truyền thống; hôm nay đổi mới, ngày mai truyền thống" và lịch sử gia đình ba thế hệ.
+[^27]: [Ba người cha con gìn giữ nghệ thuật thiếc - Gia đình Trần Vạn Năng, Bảo vật nhân loại nghề thủ công thiếc](https://art.ltn.com.tw/article/paper/1556119) — Bài chuyên đề gia đình Trần Vạn Năng trên Thời báo Tự do, bao gồm trích dẫn "Sáng tạo hôm qua, truyền thống hôm nay; sáng tạo hôm nay, truyền thống ngày mai" và hồ sơ chi tiết về nghề ba đời của nghệ nhân thiếc Lộc Cảng.
 
-[^28]: [Nhà thiết kế Xiao Qingyang: nếu có văn hóa tốt, thì có thể có văn hóa sáng tạo tốt](https://www.thenewslens.com/article/65127) — The News Lens phỏng vấn Xiao Qingyang, bao gồm quan điểm cốt lõi "nếu có văn hóa tốt, thì có thể có văn hóa sáng tạo tốt" và thảo luận chi tiết về mối quan hệ giữa văn hóa và văn hóa sáng tạo.
+[^28]: [Nhà thiết kế Tiêu Thanh Dương: Phải có văn hóa tốt thì mới có thể có văn hóa sáng tạo tốt](https://www.thenewslens.com/article/65127) — Bài phỏng vấn The News Lens với Tiêu Thanh Dương, bao gồm quan điểm cốt lõi "Phải có văn hóa tốt thì mới có thể có văn hóa sáng tạo tốt" và thảo luận chi tiết về mối quan hệ giữa văn hóa và nghề thủ công ở Đài Loan.
 
-[^29]: [Người nhôm anh hững quốc phẩm vĩ đại của Đài Loan — Vương Thạch Văn già thụ động](https://www.wowlavie.com/article/ae1601482) — Tạp chí La Vie về gia đình Vương Thạch Văn, bao gồm lời chia sẻ của con trai Vương Thạch Văn về "để làm tốt vẻ màu, phải sống lâu" và lịch sử gia đình ba thế hệ.
-
-## Hình ảnh nguồn
-
-Bài viết sử dụng 3 hình ảnh Wikimedia Commons có giấy phép CC, tất cả được lưu trữ trong `public/article-images/culture/` để tránh liên kết trực tiếp đến máy chủ nguồn:
-
-- [Hình ảnh la xưởng giấy Yuanxiangyuan, Đài Loan 2013-07](https://commons.wikimedia.org/wiki/File:Yuanxiangyuan_Paper_Umbrella,_Taiwan_2013-07.JPG) — Ảnh: Outlookxp, 2013-07-20, CC BY-SA 3.0. Các bộ xếp la xưởng giấy đỏ vàng đen được trưng bày tại làng văn hóa la xưởng giấy Meinong, là một trong những hình ảnh đại diện nhất của nghề la xưởng giấy Đài Loan.
-- [Bức tường bằng gạch đỏ của phố cổ Sanxia](https://commons.wikimedia.org/wiki/File:Sanyi_Wood_Sculpture_Museum_20100501.jpg) — Ảnh: Anrew0517, 2010-05-01, CC BY-SA 3.0. Bức tường bằng gạch đỏ của Bảo tàng Điêu gỗ Sanxia (xã Sanyi, tỉnh Miao), là bảo tàng công cộng duy nhất tập trung vào điêu gỗ ở Đài Loan.
-- [Bộ trưng bày "Rồng và Trắng" của Trung tâm Lịch sử Văn hóa Sanxia](https://commons.wikimedia.org/wiki/File:%E4%B8%89%E5%B3%BD%E5%8D%80%E6%AD%B7%E5%8F%B2%E6%96%87%E7%89%A9%E9%A4%A8%E5%85%A7%E6%89%80%E5%B1%95%E7%A4%BA%E3%80%8C%E8%97%8D%E8%88%87%E7%99%BD%E7%B3%BB%E5%88%97%E3%80%8D%E8%97%8D%E6%9F%93%E6%9C%81%E9%A3%BE.jpg) — Ảnh: Tào Nhân Măng, CC BY-SA 4.0. Các bộ xếp "Rồng và Trắng" được trưng bày tại Trung tâm Lịch sử Văn hóa Sanxia, phản ánh bề mặt ứng dụng hiện đại của tằm màu được phục hồi từ năm 1996 tại Sanxia.
+[^29]: [Bảo vật quốc gia Đài Loan cống hiến cả đời cho nghệ thuật sơn mài! Xem thời gian của bậc thầy Vương Thanh Sương tại "Nghệ thuật sơn mài Mỹ Nghiên" Nam Đầu](https://www.wowlavie.com/article/ae1601482) — Bài chuyên đề gia đình trên tạp chí La Vie, bao gồm trích dẫn của con trai Vương Hiền Dân: "Muốn làm tốt nghệ thuật sơn mài, thì phải sống lâu một chút" và hồ sơ nghề thủ công ba đời.

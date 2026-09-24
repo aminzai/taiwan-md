@@ -1,254 +1,262 @@
 ---
-title: 'Tín ngưỡng tôn giáo Đài Loan: Đế chế đức tin sinh trưởng từ nỗi sợ'
-description: 'Hòn đảo có mật độ đền miếu cao nhất thế giới và đứng thứ hai châu Á về tự do tôn giáo; hai tín ngưỡng lớn nhất — Vương gia và Ma Tổ — đều có nguồn gốc lịch sử gắn với dịch bệnh và cái chết. Từ những di dân quân sự thế kỷ XVII mang tượng thần vượt Hắc Thủy Câu, đến 94 điểm trong báo cáo tự do năm 2025; từ việc Nhất Quán Đạo bị cấm năm 1953 và trở thành tôn giáo đầu tiên được hợp pháp hóa sau khi dỡ bỏ thiết quân luật năm 1987, đến bốn tông phái Phật giáo lớn và Giáo hội Trưởng Lão đi theo những con đường riêng trong quan hệ giữa tôn giáo và chính trị — tín ngưỡng Đài Loan không nằm trong kinh sách, mà hiện hữu trong làn hương khói nơi góc phố.'
+title: 'Tôn giáo Đài Loan: Đế chế tín ngưỡng sinh ra từ nỗi sợ hãi'
+description: 'Hòn đảo có mật độ đền chùa cao nhất thế giới và xếp hạng tự do tôn giáo thứ hai châu Á, hai tín ngưỡng chính là Vương Gia và Mẫu Tổ đều có nguồn gốc lịch sử liên quan đến dịch bệnh và cái chết. Từ việc thần tượng được mang qua eo biển Hắc Thủy bởi người di cư quân sự vào thế kỷ 17, cho đến điểm số 94 trong báo cáo tự do năm 2025; từ việc nhất quán đạo bị cấm vào năm 1953, hợp pháp hóa lần đầu tiên sau khi giải giam vào năm 1987, cho đến việc các tông phái Phật giáo lớn và Hội Thánh Lão già mỗi bên đi một con đường trong quan hệ chính trị - tôn giáo—tín ngưỡng của Đài Loan không nằm trong kinh điển, mà nằm trong khói hương ở mỗi ngã rẽ.'
 date: 2026-04-28
-author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: '宗教與民俗'
 tags:
   [
     'Tôn giáo',
-    'Đền miếu',
+    'Đền chùa',
     'Tín ngưỡng dân gian',
-    'Ma Tổ',
-    'Vương gia',
+    'Mẫu Tổ',
+    'Vương Gia',
     'Phật giáo',
     'Đạo giáo',
-    'Nhất Quán Đạo',
-    'Giáo hội Trưởng Lão',
+    'Nhất quán đạo',
+    'Hội Thánh Lão già',
     'Bảo An Cung',
   ]
+subcategory: '宗教與民俗'
+author: 'Taiwan.md Contributors'
 readingTime: 22
+featured: true
 lastVerified: 2026-04-28
 lastHumanReview: true
-featured: true
+sporeLinks:
+  - id: 6
+    platform: 'threads'
+    date: '2026-04-06'
+    url: 'https://www.threads.com/@taiwandotmd/post/DWx7dvkEcNA'
+  - id: 7
+    platform: 'x'
+    date: '2026-04-06'
+    url: 'https://x.com/taiwandotmd/status/2041042663613608298'
 translatedFrom: 'Culture/台灣宗教與寺廟文化.md'
-sourceCommitSha: 'd56c5a60'
-sourceContentHash: 'sha256:518362b111919aa4'
-sourceBodyHash: 'sha256:b2ec869950288157'
-translatedAt: '2026-07-18T18:59:51+08:00'
+sourceCommitSha: '4f3974f86'
+sourceContentHash: 'sha256:e70a2042c1d5dde1'
+translatedAt: '2026-09-24T06:05:55.069724+00:00'
 ---
 
-# Tín ngưỡng tôn giáo Đài Loan: Đế chế đức tin sinh trưởng từ nỗi sợ
+# Tín ngưỡng Đài Loan: Đế chế tín ngưỡng nảy nở trong nỗi sợ hãi
 
-> **Tổng quan trong 30 giây:** Đài Loan có khoảng 15.000 công trình tôn giáo được đăng ký, nhiều hơn cả số cửa hàng tiện lợi trên toàn đảo. Nhiều nhất không phải đền Ma Tổ như công chúng thường nghĩ — khoảng 672 ngôi — mà là đền Vương gia, với khoảng 1.330 ngôi. Đây là vị thần của nỗi sợ, chuyên trừ dịch bệnh, bắt nguồn từ nghi lễ “tiễn thuyền Vương gia mang ôn dịch”. Trong cùng một ngôi đền, người ta có thể thấy Quan Âm của Phật giáo, Ngọc Hoàng Đại Đế của Đạo giáo và Thổ Địa Công thuộc tín ngưỡng dân gian cùng hưởng hương khói. Mỗi tháng ba âm lịch, hơn một triệu người theo cuộc tuần hành của Ma Tổ Đại Giáp suốt chín ngày tám đêm, trên hành trình dài 340 km. Năm 2014, Hành Thiên Cung — nơi đón sáu triệu lượt khách mỗi năm — dỡ bỏ toàn bộ lư hương, trở thành ngôi đền lớn đầu tiên tại Đài Loan “cấm hương”. Báo cáo Tự do Toàn cầu năm 2025 của Freedom House xếp Đài Loan là quốc gia tự do thứ hai châu Á. Tín ngưỡng trên hòn đảo này chưa bao giờ là chuyện ở chốn mây trời — nó ở ngay đầu ngõ nhà bạn, bắt đầu từ khoảnh khắc những di dân quân sự thế kỷ XVII đặt chân lên bờ.
+> **Tóm tắt 30 giây:** Khoảng mười lăm nghìn công trình tôn giáo đã được đăng ký tại Đài Loan, nhiều hơn cả số cửa hàng tiện lợi trên toàn đảo. Số lượng lớn nhất không phải là miếu Mazu (khoảng 672 ngôi), mà là các miếu Vương Gia (khoảng 1.330 ngôi) — những vị thần của nỗi sợ hãi, khởi nguồn từ nghi thức "Tiễn Ôn Vương Thuyền" và chuyên trấn yểm dịch bệnh. Trong cùng một ngôi đền, bạn có thể thấy Quan Âm Phật giáo, Ngọc Hoàng Đại Đế Đạo giáo, và các vị thần bản địa được thờ cúng chung. Mỗi năm vào tháng Ba âm lịch, hơn một triệu người tham gia lễ rước kiệu Mazu trong chín ngày tám đêm, quãng đường 340 km. Năm 2014, Hành Thiên Cung đã tháo dỡ tất cả lư hương, trở thành ngôi đền lớn đầu tiên của Đài Loan thực hiện "cấm nhang". Năm 2025, Báo cáo Tự do Toàn cầu của Freedom House xếp Đài Loan vào vị trí quốc gia thứ hai tự do ở châu Á. Tín ngưỡng trên hòn đảo này chưa bao giờ là chuyện trên mây — nó đã bắt đầu ngay từ khoảnh khắc những người di cư quân sự đổ bộ từ thế kỷ 17 tại con hẻm nhà bạn.
 
-Năm 1995, một người tên Liêu Vũ Trị (Liao Wu-chih, 廖武治) đứng trên mái Bảo An Cung Đại Long Động ở Đài Bắc, nhìn các nghệ nhân cắt dán khảm từng mảnh kính màu trở lại vị trí của chúng từ hai trăm năm trước[^1]. Bảo An Cung được xây dựng năm 1804, là ngôi đền thờ Bảo Sinh Đại Đế do di dân Đồng An mang đến. Trải qua thời kỳ Nhật Bản cai trị, thời hậu chiến và quá trình đô thị mở rộng, đến thập niên 1990, ngôi đền đã xuống cấp nghiêm trọng. Chính phủ Đài Loan xếp nơi này vào hạng di tích cấp hai năm 1985, nhưng sau khi xếp hạng lại không có ai trùng tu.
+Năm 1995, một người tên Liêu Vũ Trị đứng trên mái của Bảo An Miếu Đại Long Đồng (Taipei) và nhìn các nghệ nhân khảm sành sứ gắn từng mảnh kính màu trở lại vị trí cách đây hai trăm năm[^1]. Bảo An Miếu được xây dựng vào năm 1804, là một ngôi đền mang tín ngưỡng Bảo Sinh Đại Đế do người di cư Đồng An mang đến. Sau khi trải qua thời Nhật trị, hậu chiến và sự mở rộng đô thị, đến những năm 1990, nó đã xuống cấp nghiêm trọng. Chính quyền Đài Loan đã xếp nó là di tích cấp hai vào năm 1985, nhưng sau khi được công nhận thì không ai trùng tu.
 
-Liêu Vũ Trị quyết định tự gây quỹ sửa chữa. Trong bảy năm, ông không nhận một đồng nào từ chính phủ, kiên trì sử dụng kỹ thuật và vật liệu nguyên bản[^2]. Ông tìm khắp Đài Loan những bậc thầy lâu năm về cắt dán, điêu khắc đá, chạm gỗ và hội họa; một số kỹ thuật khi ấy đã gần thất truyền. “Dùng vật liệu mới để sửa đền cổ thì rất dễ,” về sau ông nói trong một cuộc phỏng vấn, “nhưng như thế không phải phục dựng, mà là trang trí lại.”
+Liêu Vũ Trị quyết định tự gây quỹ để sửa chữa. Trong bảy năm, ông không nhận một xu nào từ chính phủ, kiên trì sử dụng phương pháp và nguyên vật liệu truyền thống[^2]. Ông tìm kiếm các nghệ nhân làm khảm sành sứ, điêu khắc đá, chạm khắc gỗ và vẽ tranh trên toàn đảo; một số kỹ thuật đã gần như thất truyền. "Sửa chữa ngôi đền cổ bằng vật liệu mới thì dễ," ông chia sẻ trong một cuộc phỏng vấn sau này, "nhưng đó không phải là trùng tu, mà là trang trí."
 
-Năm 2003, Bảo An Cung nhận Giải thưởng Bảo tồn Di sản Văn hóa châu Á–Thái Bình Dương của Tổ chức Giáo dục, Khoa học và Văn hóa Liên Hợp Quốc (UNESCO), trở thành công trình đầu tiên tại Đài Loan được trao giải này[^3]. Hội đồng giám khảo viết: “Một hình mẫu phục dựng dựa vào cộng đồng.” (A model for community-based restoration.)
+Năm 2003, Bảo An Miếu nhận giải thưởng Bảo tồn Di sản Văn hóa Châu Á của UNESCO, là ngôi đền đầu tiên của Đài Loan[^3]. Ban giám khảo đã viết một câu: "Một mô hình phục hồi dựa vào cộng đồng" (A model for community-based restoration).
 
-Câu chuyện này thực chất là hình ảnh thu nhỏ của lịch sử tôn giáo trên toàn đảo: chính phủ rút lui, người dân tự mình hành động; kỹ nghệ gần đứt đoạn, nhưng vẫn có người kiên trì truyền lại; đền miếu không chỉ là đền miếu, mà còn là vật chứa ký ức của một thành phố. Muốn hiểu vì sao hòn đảo này hình thành mật độ đền miếu cao nhất thế giới, cần trở lại hơn ba trăm năm trước — với những con người buộc tượng thần vào mình, đánh cược mạng sống để vượt Hắc Thủy Câu.
+Câu chuyện này thực chất là một lát cắt lịch sử tôn giáo của cả hòn đảo: chính phủ rút lui, người dân tự mình làm; kỹ năng sắp tuyệt chủng, nhưng có người kiên trì truyền lại; ngôi đền không chỉ là ngôi đền, mà còn là vật chứa đựng ký ức đô thị. Để hiểu tại sao hòn đảo này lại có mật độ miếu thờ cao nhất thế giới, trước hết phải quay về hơn ba trăm năm trước: những người đã trói thần tượng lên mình và liều mạng vượt qua eo biển Hắc Thủy Cốc (Eo biển Đài Loan).
 
-### Vì sao hòn đảo này có 15.000 ngôi đền?
+### Tại sao hòn đảo này có mười lăm nghìn ngôi đền?
 
-Theo thống kê của Bộ Nội chính, năm 2024 Đài Loan có khoảng 15.000 công trình tôn giáo được đăng ký[^4] — nhiều hơn khoảng 13.000 cửa hàng tiện lợi trên toàn đảo[^5]. Đài Nam là thành phố có mật độ đền miếu cao nhất Đài Loan; thống kê năm 2015 đã ghi nhận 1.641 ngôi[^6].
+Theo thống kê của Bộ Nội chính, vào năm 2024, có khoảng 15.000 công trình tôn giáo được đăng ký tại Đài Loan[^4]: nhiều hơn khoảng 13.000 cửa hàng tiện lợi trên toàn đảo[^5]. Đài Nam là thành phố có mật độ miếu thờ cao nhất cả nước, với 1.641 ngôi vào năm 2015[^6].
 
-Nhưng đằng sau con số này là một tương phản mà phần lớn mọi người không nhận ra: **tín ngưỡng phổ biến nhất không phải Ma Tổ, mà là Vương gia**.
+Nhưng dưới con số này ẩn chứa một sự tương phản mà đa số người không nhận ra: **thần linh được thờ phụng nhiều nhất không phải là Mazu, mà là Vương Gia**.
 
-“Cơ sở dữ liệu đền miếu Đài Loan” của Viện Nghiên cứu Trung ương đã đối chiếu chéo dữ liệu đăng ký tôn giáo của Bộ Nội chính, ghi nhận khoảng 1.330 đền thờ Vương gia và khoảng 672 đền Ma Tổ; số đền Vương gia gần gấp đôi số đền Ma Tổ[^25]. “Tín ngưỡng Vương gia đặc biệt thịnh hành ở miền nam Đài Loan, thường được nhắc cùng tín ngưỡng Ma Tổ ở miền trung Đài Loan qua câu nói dân gian: ‘Miền nam thờ Vương gia, miền trung thờ Ma Tổ’; ngoài ra còn có câu ‘tháng ba cuồng Ma Tổ, tháng tư mừng sinh nhật Vương gia’.”[^26]
+"Cơ sở dữ liệu đền chùa Đài Loan" của Viện Quốc gia Trung Hoa đã đối chiếu với đăng ký tôn giáo của Bộ Nội chính và cho thấy, các miếu tín ngưỡng Vương Gia có khoảng 1.330 ngôi, còn miếu Mazu có khoảng 672 ngôi; số lượng miếu Vương Gia gần gấp đôi miếu Mazu[^25]. "Tín ngưỡng Vương Gia đặc biệt thịnh hành ở miền Nam Đài Loan, song hành với tín ngưỡng Mazu ở trung tâm Đài Loan, người ta thường nói: 'Vương Gia phương Nam, Mazu trung tâm', còn gọi là 'Mazu tháng Ba điên cuồng, Vương Gia tháng Tư sinh sôi'"[^26].
 
-Vương gia là vị thần nào? Chức năng ban đầu của họ là **ôn thần**, tức thần dịch bệnh. “Tín ngưỡng Vương gia bắt nguồn từ nghi lễ tiễn thuyền Vương gia mang ôn dịch ở vùng duyên hải đông nam Trung Quốc thời kỳ đầu; những chiếc thuyền này trôi từ khu vực Hạ Môn, Tuyền Châu đến nhiều nơi dọc bờ biển tây nam Đài Loan.”[^27] Cư dân ven biển đưa hiện thân cụ thể của dịch bệnh — một chiếc thuyền gỗ chất đầy đồ tế lễ — ra biển, mong dịch bệnh sẽ theo thuyền rời đi. Những chiếc thuyền Vương gia trôi tới Đài Loan được người dân địa phương vớt lên rồi lập đền thờ phụng; từ đó, ôn thần trở thành thần bảo hộ.
+Vương Gia là vị thần gì? Chức năng ban đầu của họ là **thần bệnh dịch**. "Tín ngưỡng Vương Gia bắt nguồn từ các chuyến thuyền tiễn ôn ở ven biển Đông Nam Á thời kỳ đầu, di cư đến các vùng ven biển phía Tây Nam Đài Loan từ Hạ Môn và Tuyền Châu."[^27] Cư dân ven biển đã nhân cách hóa dịch bệnh: một chiếc thuyền gỗ chở đầy lễ vật; đẩy ra biển, mong dịch bệnh rời đi cùng con thuyền. Những chiếc thuyền Vương Thuyền lạc vào Đài Loan đã được người dân địa phương nhặt lên, dựng miếu thờ cúng, và thần bệnh dịch dần biến thành thần hộ mệnh.
 
-> **📝 Ghi chú của người tuyển chọn:** Vị thần được thờ phổ biến nhất trên một hòn đảo bắt nguồn từ nỗi sợ dịch bệnh. Đây không phải lựa chọn xuất phát từ lòng từ bi, mà là phản xạ sinh tồn của một xã hội di dân có nền y tế lạc hậu — giao thứ không thể kiểm soát cho một nhân cách có thể hình dung. Khi bệnh tật về sau trở nên kiểm soát được, Vương gia không biến mất; chức năng của họ chuyển sang trừ tà, ban bình an và che chở. Thần linh không chết, họ chỉ đổi việc.
+> **📝 Ghi chú của Biên tập viên:** Vị thần phổ biến nhất trên hòn đảo lại bắt nguồn từ nỗi sợ hãi dịch bệnh. Đây không phải là một lựa chọn nhân từ, mà là phản xạ sinh tồn của xã hội di cư thiếu thốn y học — giao phó những thứ không thể kiểm soát cho một cá tính có thể hình dung được. Khi bệnh tật sau này trở nên có thể kiểm soát, Vương Gia không biến mất, chức năng của họ chuyển thành trừ tà, bình an và phù hộ. Thần linh không chết, chúng chỉ thay đổi công việc.
 
-Ma Tổ cũng vận hành theo cùng một logic. Ban đầu, Ma Tổ là thần biển ở Mi Châu, Phúc Kiến, thời Tống, có chức năng bảo hộ ngư dân ra khơi bình an. Những di dân quân sự thế kỷ XVII vượt Hắc Thủy Câu — eo biển Đài Loan — tới đảo, buộc tượng Ma Tổ trên cột buồm. Thuyền cập bến, thần cũng tới nơi. Nhưng chức năng của Ma Tổ trên đảo nhanh chóng mở rộng: từ thần biển thành vị thần chữa bệnh, trừ tà, cầu con, bảo hộ mùa màng, giúp thi cử và làm ăn phát đạt — việc gì cũng quản. Một vị thần biển chỉ có một chức năng đã trở thành nữ thần mẹ toàn năng của hòn đảo.
+Mazu cũng tuân theo logic tương tự. Mazu ban đầu là thần biển ở Mi Châu, Phúc Kiến thời nhà Tống, với chức năng bảo vệ ngư dân ra khơi bình an. Vào thế kỷ 17, những người di cư quân sự vượt eo biển Hắc Thủy Cốc (Eo biển Đài Loan) đến đảo và đã trói tượng Mazu lên cột buồm. Khi thuyền cập bến, thần cũng đến. Nhưng chức năng của Mazu trên đảo nhanh chóng mở rộng: từ thần biển thành thần chữa bệnh, trừ tà, cầu con, phù hộ nông nghiệp, hỗ trợ thi cử, làm ăn phát đạt — mọi thứ đều quản lý. Một vị thần có chức năng đơn nhất đã trở thành một nữ thần mẹ toàn năng của hòn đảo.
 
-Thổ Địa Công cũng đi theo con đường tương tự. Ban đầu đây là vị thần đồng ruộng của xã hội nông nghiệp, cai quản thu hoạch trên một khoảnh đất; sau quá trình đô thị hóa, chức năng chuyển sang thương mại. Một số đền Thổ Địa Công ở quận Tín Nghĩa, Đài Bắc, được cho là “đặc biệt giỏi giúp người ta kiếm tiền”, nên hương khói rất thịnh[^28]. Chức năng của thần linh tiến hóa theo cơ cấu xã hội.
+Thổ Địa Công cũng đi theo con đường tương tự. Ban đầu là thần ruộng đất trong xã hội nông nghiệp, cai quản mùa màng trên một thửa ruộng; sau khi đô thị hóa, chức năng chuyển sang thương mại, một số miếu Thổ Địa ở khu Xinh Nghĩa (Taipei) được cho là "đặc biệt giỏi giúp người kiếm tiền", với sự sùng bái thịnh vượng[^28]. Chức năng của thần linh đã tiến hóa theo cấu trúc xã hội.
 
-### 340 km, chín ngày tám đêm
+### Ba trăm bốn mươi km, chín ngày tám đêm
 
-Mỗi tháng ba âm lịch, toàn đảo như được tiếp quản bởi một cuộc hành quân tôn giáo.
+Mỗi năm vào tháng Ba âm lịch, cả hòn đảo đều bị cuốn vào một cuộc hành quân tôn giáo.
 
-Cuộc tuần hành hành hương Ma Tổ của Trấn Lan Cung Đại Giáp năm 2025 khởi giá lúc 22 giờ 45 phút ngày 4 tháng 4 và hồi loan ngày 13 tháng 4. Trong chín ngày tám đêm, đoàn đi qua 21 hương trấn thuộc bốn huyện, thành phố là Đài Trung, Chương Hóa, Vân Lâm và Chiayi, ghé gần một trăm ngôi đền trên tổng hành trình 340 km[^8]. Năm 2004, kênh Discovery xếp sự kiện này vào ba đại lễ hội tôn giáo của thế giới[^9]. Năm 2009, UNESCO ghi danh tín ngưỡng và phong tục Ma Tổ vào Danh sách Di sản văn hóa phi vật thể đại diện của nhân loại[^10].
+Lễ rước kiệu Mazu tại Trấn Lan Cung (Đại Giáp) bắt đầu từ 22:45 ngày 4 tháng 4 năm 2025 và kết thúc vào ngày 13 tháng 4, kéo dài chín ngày tám đêm, băng qua hai mươi mốt thị trấn của bốn thành phố Đài Trung, Chương Gia, Vân Lâm và Gia Nghĩa, với tổng quãng đường gần 340 km[^8]. Kênh Discovery đã liệt kê sự kiện này là một trong ba đại sự kiện tôn giáo thế giới vào năm 2004[^9]. Năm 2009, UNESCO đã đưa tín ngưỡng Mazu vào Di sản Văn hóa Phi vật thể của nhân loại[^10].
 
-Trên đường đi có một điều rất đặc biệt — **các trạm tiếp tế dọc tuyến**. Chúng không do nhà đền bố trí, mà được cư dân hai bên đường tự nguyện dựng lên. Bún gạo, gà dầu mè, dịch vụ xoa bóp, thuốc giảm đau, dao cạo râu, băng vệ sinh và nước thể thao đều được cung cấp miễn phí. “Ma Tổ đang đi, mọi người cùng giúp sức.”[^11] Một bà lão có thể tiết kiệm suốt cả năm chỉ để trong mấy ngày này nấu một nồi canh đủ cho một trăm người. Bà không quen những tín đồ ấy, họ cũng không quen bà, nhưng Ma Tổ biết tất cả mọi người.
+Trong chuyến đi có một điều rất đặc biệt: **các trạm tiếp tế dọc đường**. Chúng không do ban miếu sắp xếp, mà là sự tự phát của người dân địa phương. Bánh gạo mì miễn phí, gà dầu mè, mát-xa, thuốc giảm đau, dao cạo râu, băng vệ sinh, nước uống thể thao. "Mazu đang đi, mọi người giúp đỡ."[^11] Một bà lão có thể tiết kiệm cả năm chỉ để nấu một nồi canh đủ cho trăm người trong những ngày này. Bà không quen biết các tín đồ này, và các tín đồ cũng không quen biết bà, nhưng Mazu thì nhận ra tất cả họ.
 
-Kỳ lạ hơn nữa là **truyền thống kiệu thần tự chuyển hướng**. Không phải người khiêng kiệu quyết định đường đi, mà là “con người đi theo Ma Tổ” — khi kiệu bất ngờ ngoặt gấp, lao nhanh hoặc quay đầu, người khiêng chỉ có thể đi theo, không được cưỡng lại[^12]. Đây là khoảnh khắc tín ngưỡng dân gian trở nên vật chất nhất: thần không ở trên trời, thần ở ngay trong khối gỗ, và khối gỗ tự chuyển động.
+Điều kỳ diệu hơn là **truyền thống xe thần tự quay hướng**. Xe thần không được người mang đi, mà là "người đi theo Mazu" — khi xe thần đột nhiên rẽ gấp, lao tới hoặc quay đầu, những người mang kiệu chỉ có thể đi theo, không thể chống lại[^12]. Đây là khoảnh khắc vật chất hóa nhất của tín ngưỡng dân gian: Thần không ở trên trời, mà đang ở trong gỗ, và khúc gỗ tự di chuyển.
 
-Những năm gần đây, cuộc tuần hành ngày càng phức tạp. Năm 2016, “văn hóa Ma Tổ” được đưa vào “Quy hoạch năm năm lần thứ 13” và sáng kiến “Vành đai và Con đường” của Trung Quốc; năm 2018, một phái đoàn Phúc Kiến đề xuất thành lập cơ quan lãnh đạo cấp quốc gia gồm Ban Công tác Mặt trận Thống nhất, Văn phòng Sự vụ Đài Loan, Bộ Văn hóa và Tỉnh ủy Phúc Kiến để thúc đẩy phát triển văn hóa Ma Tổ[^13]. Đảng Cộng sản Trung Quốc đóng gói Ma Tổ thành “nữ thần hòa bình eo biển” và tài trợ các đoàn hành hương xuyên eo biển. Vấn đề là phần lớn tín đồ Ma Tổ tại Đài Loan chỉ muốn thờ Ma Tổ, không muốn bị bất kỳ ai đại diện. Trong đoàn tuần hành không có đồng thuận về câu hỏi “Ma Tổ có phải vũ khí của công tác mặt trận thống nhất hay không”.
+Trong những năm gần đây, lễ rước đã trở nên phức tạp hơn. Năm 2016, "Văn hóa Mazu" được đưa vào "Kế hoạch 135" và sáng kiến "Một Vành đai Một Con đường" của Trung Quốc; năm 2018, phái đoàn Phúc Kiến đề xuất thành lập một cơ quan lãnh đạo cấp quốc gia do Ban Tông Chiến, Văn phòng Đài Loan và Bộ Văn hóa tỉnh Phúc Kiến cùng nhau thúc đẩy sự phát triển văn hóa Mazu[^13]. Đảng Cộng sản Trung Quốc đã đóng gói Mazu như "nữ thần hòa bình eo biển", tài trợ cho các đoàn hành hương qua biển. Vấn đề là, đa số tín đồ Mazu của Đài Loan chỉ muốn thờ Mazu, không muốn bị ai đại diện. Trong đội rước, không có sự đồng thuận về câu hỏi: "Mazu có phải là vũ khí tông chiến hay không".
 
-> **📝 Ghi chú của người tuyển chọn:** Ở Đài Loan, Ma Tổ đồng thời là tôn giáo, văn hóa, du lịch và chính trị. Trung Quốc muốn biến bà thành biểu tượng cho quan niệm “hai bờ cùng thuộc một Trung Quốc”, trong khi tín đồ Đài Loan dùng cuộc đi bộ hằng năm của một triệu người để biến bà thành “vị thần của chính hòn đảo chúng ta”. Một vị thần có thể đồng thời là nhiều thứ; ở Đài Loan, đó không phải mâu thuẫn, mà là một sự ngầm hiểu.
+> **📝 Ghi chú của Biên tập viên:** Mazu ở Đài Loan vừa là tôn giáo, vừa là văn hóa, vừa là du lịch, vừa là chính trị. Trung Quốc muốn biến bà thành biểu tượng của "hai bờ cùng một Trung Hoa", còn tín đồ Đài Loan lại dùng việc hàng triệu người đi bộ mỗi năm để biến bà thành "vị thần riêng của hòn đảo chúng tôi". Một vị thần có thể đồng thời là nhiều thứ, điều này không phải là mâu thuẫn mà là sự ăn ý ở Đài Loan.
 
-### Ba tôn giáo chung một mái đền
+### Ba tôn giáo chung một mái nhà
 
-Bước vào Long Sơn Tự Mãnh Giáp ở Đài Bắc, người ta sẽ chứng kiến một cảnh tượng mà người ngoài khó hiểu: chính điện thờ Quan Thế Âm Bồ Tát của Phật giáo; một bên hậu điện là Thiên Thượng Thánh Mẫu Ma Tổ của Đạo giáo và tín ngưỡng dân gian, bên kia là Văn Xương Đế Quân của Đạo giáo, vị thần coi sóc vận thi cử; điện bên còn có Nguyệt Hạ Lão Nhân của tín ngưỡng dân gian, vị thần coi sóc nhân duyên, Chú Sinh Nương Nương ban con cái và Quan Thánh Đế Quân, vị võ thần tài[^21]. Một ngôi đền có ít nhất bảy vị thần thuộc ba hệ thống tôn giáo. Người Đài Loan không thấy điều đó mâu thuẫn.
+Bước vào Long Sơn Tự (艋舺) ở Đài Bắc, bạn sẽ thấy một cảnh tượng mà người ngoài khó hiểu: chính điện thờ Quan Thế Âm Bồ Tát (Phật giáo), hậu điện có Thiên Thượng Thánh Mẫu Mazu (Đạo giáo/Tín ngưỡng dân gian), bên cạnh là Văn Xương Đế Quân (Đạo giáo, cai quản thi cử), và còn có Nguyệt Hạ Lão Nhân (Tín ngưỡng dân gian, cai quản duyên phận) ở phòng phụ, cùng với Chú Sinh Nương Nương (cầu con) và Quan Thánh Đế Quân (thần tài lộc)[^21]. Một ngôi đền, ít nhất bảy vị thần, thuộc ba hệ thống tôn giáo. Người Đài Loan không cảm thấy xung đột.
 
-Đây chính là điểm đặc biệt nhất của tín ngưỡng Đài Loan — **tam giáo hợp nhất không phải triết học, mà là cách bố trí không gian**. Phật tử, tín đồ Đạo giáo và người theo tín ngưỡng dân gian cùng bước vào một ngôi đền, mỗi người thờ vị thần của mình mà không bài xích nhau. Khảo sát năm 2019 của Viện Nghiên cứu Trung ương cũng phản ánh sự pha trộn này: 49,3% dân chúng theo tôn giáo dân gian truyền thống, 14% theo Phật giáo, 12,4% theo Đạo giáo, 5,5% theo Tin Lành, 2,1% theo Nhất Quán Đạo và 1,3% theo Công giáo[^29]. Nhưng trong thực tế, một người có thể đồng thời thờ Ma Tổ, cầu Quan Âm và đến đền Thổ Địa Công vào dịp lễ. Đó không phải bội giáo, mà là đời sống thường nhật.
+Đây chính là điểm đặc biệt nhất của tín ngưỡng Đài Loan: **sự hợp nhất Tam Giáo không phải là triết học, mà là sự sắp xếp không gian**. Phật tử, Đạo giáo và người theo tín ngưỡng dân gian cùng đến một ngôi đền, mỗi người thờ vị thần của mình, không hề nhìn nhau bằng ánh mắt khó chịu. Một cuộc khảo sát năm 2019 của Viện Quốc gia Trung Hoa cũng cho thấy sự pha trộn này: 49,3% người dân sùng bái tín ngưỡng dân gian truyền thống, 14% theo Phật giáo, 12,4% theo Đạo giáo, 5,5% Tin lành, 2,1% Nhất Quán Đạo, và 1,3% Công giáo[^29]. Nhưng trong thực tế vận hành, một người có thể cùng thờ Mazu, cầu Quan Âm, đến miếu Thổ Địa vào dịp lễ, điều này không phải là phản bội tôn giáo, mà là sinh hoạt thường ngày.
 
-Sự pha trộn này hình thành như thế nào? Bối cảnh lịch sử là từ thế kỷ XVII trở đi, những di dân vượt biển mang theo các vị thần từ quê gốc. Không gian trên đảo có hạn, không thể xây nhiều đền riêng biệt đến vậy, nên các vị thần được đặt cùng nhau. Theo thời gian, sự phân công chức năng thay vì ranh giới giáo phái trở thành logic chủ đạo: thi cử tìm Văn Xương, nhân duyên tìm Nguyệt Lão, kinh doanh tìm Quan Công, bình an tìm Ma Tổ, cầu con tìm Chú Sinh Nương Nương — mỗi vị thần có chuyên môn riêng, tín đồ thờ theo nhu cầu chứ không xét giáo phái.
+Sự pha trộn này đến từ đâu? Bối cảnh lịch sử là những vị thần của quê hương khác nhau được mang đến bởi người di cư qua biển sau thế kỷ 17; không gian hòn đảo có hạn, các ngôi đền không thể xây đủ nhiều cái độc lập, nên các vị thần đã được đặt chung. Dần dần, sự phân công chức năng thay vì ranh giới giáo phái trở thành logic chủ đạo: tìm thi cử thì tìm Văn Xương, tìm duyên phận thì tìm Nguyệt Lão, làm ăn phát đạt thì tìm Quan Công, bình an thì tìm Mazu, cầu con thì tìm Chú Sinh Nương Nương; mỗi vị thần đều có chuyên môn riêng, và tín đồ cũng thờ cúng theo nhu cầu, không bàn về giáo phái.
 
-Một sự kiện hậu chiến khiến sự pha trộn này càng rõ nét. Ngày 31 tháng 5 năm 1945, quân đội Hoa Kỳ ném bom Đài Bắc, chính điện Long Sơn Tự bị phá hủy, nhưng tượng Quan Âm Bồ Tát bên trong vẫn nguyên vẹn giữa đống đổ nát[^30]. Những người theo tín ngưỡng dân gian, Phật tử và tín đồ Đạo giáo từng thờ pho tượng này đều xem đó là phép màu. Tượng thần không phân tôn giáo, phép màu cũng vậy.
+Một sự kiện sau chiến tranh đã làm rõ hơn sự pha trộn này. Ngày 31 tháng 5 năm 1945, quân Mỹ ném bom Đài Bắc, chính điện Long Sơn Tự bị phá hủy, nhưng tượng Quan Âm trong đó vẫn còn nguyên vẹn giữa đống đổ nát[^30]. Những người theo tín ngưỡng dân gian, Phật giáo và Đạo giáo đã thờ cúng vị Quan Âm này đều coi đây là một phép màu. Tượng thần không phân biệt tôn giáo, và phép màu cũng không phân biệt.
 
-> **📝 Ghi chú của người tuyển chọn:** Người phương Tây thường hỏi “rốt cuộc người Đài Loan theo tôn giáo nào”, nhưng bản thân câu hỏi đã sai — nó mặc nhiên giả định rằng “mỗi người chỉ có thể tin một tôn giáo”. Với người Đài Loan, “tin gì” và “thờ gì” là hai chuyện khác nhau. Một người có thể cả đời tự nhận là Phật tử, nhưng mỗi năm vào ngày mồng hai vẫn về nhà cha mẹ đẻ và cúng Thổ Địa Công, trước kỳ thi lại đến cầu Văn Xương, khi kinh doanh thì thờ Quan Công. Đó không phải thiếu trung thành, mà là phân công.
+> **📝 Ghi chú của Biên tập viên:** Người phương Tây thường hỏi "Người Đài Loan thực sự tín ngưỡng gì", bản thân câu hỏi này đã sai — nó giả định rằng "một người chỉ có thể theo một tôn giáo". Nhưng đối với người Đài Loan, "tin cái gì" và "thờ ai" là hai chuyện khác nhau. Bạn có thể nói cả đời mình là Phật tử, nhưng vẫn đến miếu Thổ Địa vào ngày rằm tháng Giêng, đi lễ Văn Xương trước kỳ thi, và thờ Quan Công khi làm ăn. Đây không phải là sự không trung thành, mà là phân công lao động.
 
-### Từ bị cấm đến hợp pháp: Hành trình 34 năm của Nhất Quán Đạo
+### Từ cấm đoán đến hợp pháp: Nhất Quán Đạo đã trải qua 34 năm
 
-Năm 1953, chính phủ Quốc dân ra lệnh cấm Nhất Quán Đạo với lý do “liên quan đến mê tín và gây phương hại cho trị an địa phương”[^31]. Tôn giáo có nguồn gốc từ Sơn Đông, Trung Quốc, kết hợp Nho giáo, Phật giáo và Đạo giáo này phải chuyển sang hoạt động bí mật tại Đài Loan, duy trì bằng truyền khẩu; trong 34 năm, số tín đồ không giảm mà còn tăng.
+Năm 1953, Chính phủ Quốc dân đã ra lệnh cấm Nhất Quán Đạo với lý do "liên quan đến mê tín và gây rối an ninh địa phương"[^31]. Tôn giáo này có nguồn gốc từ Sơn Đông, Trung Quốc, kết hợp ba tôn giáo Nho, Phật, Đạo, đã chuyển vào ngầm tại Đài Loan, duy trì bằng truyền miệng, trong suốt 34 năm số lượng tín đồ không hề giảm.
 
-Năm 1987 — cùng năm Đài Loan dỡ bỏ thiết quân luật — 40 nhà lập pháp cùng ký tên kêu gọi chính phủ hợp pháp hóa Nhất Quán Đạo. Tháng 3 năm 1988, “Tổng hội Nhất Quán Đạo Trung Hoa Dân Quốc” được thành lập[^32]. Nhất Quán Đạo trở thành **tôn giáo đầu tiên tại Đài Loan thời hậu chiến chuyển từ bất hợp pháp sang hợp pháp** — hoạt động vận động thậm chí đã bắt đầu vài tháng trước thời điểm chính thức dỡ bỏ thiết quân luật ngày 15 tháng 7 năm 1987. Tính đến tháng 3 năm 2018, Đài Loan ghi nhận khoảng 800.000 tín đồ Nhất Quán Đạo[^33].
+Năm 1987: Cùng năm giải giam Đài Loan, bốn mươi nghị sĩ đã ký kiến nghị yêu cầu chính phủ hợp pháp hóa Nhất Quán Đạo. Tháng 3 năm 1988, "Tổng hội Nhất Quán Đạo Trung Hoa Dân Quốc" được thành lập[^32]. Nhất Quán Đạo trở thành **tôn giáo đầu tiên ở Đài Loan chuyển từ bất hợp pháp sang hợp pháp sau chiến tranh**: thời điểm vận động thậm chí còn sớm hơn vài tháng so với việc giải giam (ngày 15 tháng 7 năm 1987). Đến tháng 3 năm 2018, có khoảng 80 vạn tín đồ Nhất Quán Đạo được ghi nhận tại Đài Loan[^33].
 
-Nhất Quán Đạo có ba đặc trưng: ăn chay nghiêm ngặt, tam giáo hợp nhất và mở rộng toàn cầu. Tôn giáo này có đạo trường tại hơn 80 quốc gia[^34], chủ trương những quan niệm tận thế riêng như “tam kỳ mạt kiếp” và “tam Phật ứng vận”. Nhưng với người ngoài, đặc điểm dễ hiểu nhất là đồ ăn tại các đạo trường Nhất Quán Đạo rất ngon, hoàn toàn thuần chay, miễn phí và không ai ép khách nhập đạo.
+Đặc điểm của Nhất Quán Đạo là ăn chay nghiêm ngặt + hợp nhất Tam Giáo + mở rộng toàn cầu. Họ có đạo tràng ở hơn 80 quốc gia[^34], và chủ trương các quan niệm tận thế độc đáo như "Tam Kỳ Mạt Kiếp" và "Tam Phật Ứng Vận". Nhưng đặc điểm dễ hiểu nhất đối với người ngoài là: đồ ăn ở đạo tràng Nhất Quán Đạo rất ngon, hoàn toàn chay, miễn phí, và không ép buộc bạn nhập môn.
 
-> **📝 Ghi chú của người tuyển chọn:** Lịch sử Nhất Quán Đạo là hình ảnh thu nhỏ của quá trình tự do hóa tôn giáo tại Đài Loan. Một tôn giáo bị nhà nước cấm suốt 34 năm không biến mất, mà còn tích lũy năng lực huy động cơ sở trong thời kỳ hoạt động bí mật; trước thềm dỡ bỏ thiết quân luật, nó trở thành phép thử cho cải cách chính trị — “có thể cho phép tôn giáo bí mật này hoạt động hợp pháp hay không” trở thành chỉ dấu đo mức độ cởi mở của chính phủ. Ngày nay Nhất Quán Đạo đã là một trong những tôn giáo chính, nhưng điều tôn giáo này dạy cho Đài Loan không chỉ thuộc về đức tin, mà còn là sự thật rằng “đàn áp chính trị không thể giết chết tín ngưỡng”.
+> **📝 Ghi chú của Biên tập viên:** Lịch sử của Nhất Quán Đạo là một lát cắt về sự tự do tôn giáo hóa của Đài Loan. Một tôn giáo bị nhà nước cấm đoán 34 năm đã không biến mất, mà ngược lại tích lũy năng lượng huy động cơ sở trong thời kỳ ngầm; trước thềm giải giam trở thành một phép thử cải cách chính trị — "liệu có thể hợp pháp hóa tôn giáo ngầm này" đã trở thành chỉ số đo lường mức độ cởi mở của chính phủ. Ngày nay, Nhất Quán Đạo là một trong những tôn giáo chủ lưu, nhưng nó dạy cho Đài Loan không chỉ là tôn giáo, mà còn là sự thật rằng "sự đàn áp chính trị không thể giết chết tín ngưỡng".
 
-### Sự trỗi dậy thời hậu chiến: Bốn tông phái Phật giáo lớn
+### Sự trỗi dậy sau chiến tranh: Bốn ngọn núi Phật giáo
 
-Nếu Vương gia và Ma Tổ đại diện cho nỗi sợ của những di dân vượt biển, Phật giáo mới nổi đại diện cho **một nhu cầu khác của xã hội Đài Loan thời hậu chiến** — sau đô thị hóa, tăng trưởng kinh tế và phổ cập giáo dục, con người không chỉ cần bình an và tài lộc, mà còn cần ý nghĩa.
+Nếu Vương Gia và Mazu đại diện cho nỗi sợ hãi của người di cư qua biển, thì các Phật giáo mới nổi lại đại diện cho **một nhu cầu khác của xã hội Đài Loan thời hậu chiến**: sau khi đô thị hóa, tăng trưởng kinh tế và phổ cập giáo dục, con người không chỉ cần bình an và tài lộc, mà còn cần ý nghĩa.
 
-Bốn tông phái Phật giáo lớn trỗi dậy trong bối cảnh ấy:
+Bốn ngọn núi Phật giáo trỗi dậy trong bối cảnh này:
 
-- **Quỹ Từ Tế** (1966, Hoa Liên): Pháp sư Chứng Nghiêm khởi đầu với 30 bà nội trợ “mỗi ngày tiết kiệm năm hào”[^7]. Ngày nay, Từ Tế có tình nguyện viên tại 68 quốc gia và đã cứu trợ tại 136 quốc gia[^35]. “Vì Phật giáo, vì chúng sinh” là tinh thần cốt lõi của Từ Tế.
-- **Phật Quang Sơn** (1967, Đại Thụ, Cao Hùng): Pháp sư Tinh Vân khởi công xây chùa tại vườn tre Ma Trúc ở Đại Thụ, chủ trương “Phật giáo nhân gian” — Phật pháp không ở trong rừng núi, mà ở giữa nhân gian. Tổ chức này đã lần lượt thành lập hơn 300 chùa và đạo trường, 16 học viện Phật giáo trên khắp thế giới, đồng thời sáng lập Đại học Nam Hoa, Đại học Phật Quang và Phật Đà Kỷ Niệm Quán[^36]. Tinh Vân viên tịch tại Khai Sơn Liêu thuộc Truyền Đăng Lâu, Phật Quang Sơn, lúc 17 giờ ngày 5 tháng 2 năm 2023, hưởng thọ 97 tuổi[^37].
-- **Pháp Cổ Sơn** (1989, Kim Sơn): do Pháp sư Thánh Nghiêm sáng lập. Năm 1990, ông đề xướng “Nâng cao phẩm chất con người, xây dựng tịnh độ nhân gian”; năm 1992, ông đưa ra khái niệm “bảo vệ môi trường tâm linh”[^38] — mở rộng bảo vệ môi trường từ phương diện vật chất sang tinh thần, trở thành một trong những khái niệm văn hóa quan trọng của Đài Loan thời hậu chiến.
-- **Trung Đài Thiền Tự** (Phố Lý): năm 1987, Hòa thượng Duy Giác xây dựng Linh Tuyền Tự trên nền tảng Duy Giác Thiền Tự[^39]. Trung Đài Thiền Tự chính thức hoàn thành ngày 1 tháng 9 năm 2001 — “trải qua ba năm quy hoạch và bảy năm xây dựng kể từ năm 1992”[^40] — muộn hơn ba tông phái còn lại trên 30 năm. Khoảng cách thế hệ này cũng định hình đường lối chú trọng thiền tu rất khác biệt của nơi đây. Hòa thượng Duy Giác viên tịch ngày 8 tháng 4 năm 2016, hưởng thọ 90 tuổi.
+- **Quỹ Từ Tế (Tzu Chi Foundation)** (1966, Hoa Liên): Chứng Nghiêm Pháp sư bắt đầu từ ba mươi bà nội trợ "kiếm được năm mao một ngày"[^7]. Ngày nay, Từ Tế có tình nguyện viên ở 68 quốc gia và cung cấp cứu trợ ở 136 quốc gia[^35]. "Vì Phật giáo, vì chúng sinh" là tinh thần cốt lõi của Từ Tế.
+- **Phật Quang Sơn** (1967, Cao Hùng Đại Thụ): Pháp sư Tinh Vân khởi công xây chùa tại Ma Trúc Viên, chủ trương "Phật pháp nhân gian" — Phật pháp không nằm trong rừng núi, mà là ở nhân gian. Sau đó đã thành lập 300 đạo tràng và 16 trường Phật học trên toàn thế giới, sáng lập Đại học Nam Hoa, Đại học Phật Quang, Bảo tàng Phật Đà[^36]. Pháp sư Tinh Vân viên tịch vào lúc 17 giờ ngày 5 tháng 2 năm 2023 tại Lâu Truyền Đăng ở Phật Quang Sơn, hưởng thọ 97 tuổi[^37].
+- **Pháp Cổ Sơn** (1989, Kim Sơn): Được sáng lập bởi Thánh Nghiêm Pháp sư. Năm 1990 công bố "nâng cao phẩm chất con người, kiến tạo cõi tịnh độ nhân gian"; năm 1992 đưa ra khái niệm "bảo vệ môi trường tâm linh"[^38]: mở rộng bảo vệ môi trường từ cấp vật chất sang cấp tinh thần, là một trong những từ vựng văn hóa quan trọng của Đài Loan thời hậu chiến.
+- **Trung Đài Thiền Tự** (Phổ Lý): Hòa thượng Duy Giác đã sáng lập Linh Tuyền Tự trên cơ sở Trung Đài Thiền Tự vào năm 1987[^39]. Trung Đài Thiền Tự chính thức hoàn thành vào ngày 1 tháng 9 năm 2001: "sau 3 năm quy hoạch và 7 năm xây dựng từ năm 1992"[^40]: muộn hơn ba mươi năm so với ba ngọn núi lớn khác. Khoảng cách thế hệ này cũng định hình nên con đường tu thiền rất khác biệt của họ so với ba vị tiền bối. Hòa thượng Duy Giác viên tịch vào ngày 8 tháng 4 năm 2016, hưởng thọ 90 tuổi.
 
-Bốn tông phái lớn áp dụng những chiến lược khác nhau trong quan hệ giữa tôn giáo và chính trị: Từ Tế “không bàn chính trị, chỉ làm từ thiện”; Giáo hội Trưởng Lão “tích cực tham gia chuyển đổi dân chủ”; Phật Quang Sơn “tham gia ở mức độ thích hợp, duy trì đối thoại với cả hai bờ eo biển”. Dù đều là tổ chức tôn giáo, họ có thể nằm ở những vị trí rất xa nhau trên cùng một phổ.
+Bốn ngọn núi có các chiến lược quan hệ chính trị - tôn giáo khác nhau: Từ Tế "không nói chính trị, chỉ làm từ thiện"; Giáo hội Trưởng lão "tích cực tham gia chuyển đổi dân chủ"; Phật Quang Sơn "tham gia vừa phải, duy trì đối thoại với cả hai bờ eo biển". Cùng là các tổ chức tôn giáo, quang phổ có thể rất rộng.
 
-### Túi y tế của Mã Nhã Các: 160 năm Cơ Đốc giáo tại Đài Loan
+### Hộp y tế của Mãnh Cáchristian: 160 năm Cơ đốc giáo ở Đài Loan
 
-Ngày 28 tháng 5 năm 1865, bác sĩ truyền giáo Mã Nhã Các (Dr. James Laidlaw Maxwell, 馬雅各) của Giáo hội Trưởng Lão Scotland đặt chân lên bờ tại Đả Cẩu — Cao Hùng ngày nay — ở miền nam Đài Loan. Ngày 16 tháng 6, ông bắt đầu truyền giáo và hành nghề y tại phố Khán Tây bên ngoài cửa tây Phủ Thành Đài Loan[^41]. Đây là điểm khởi đầu của đạo Tin Lành tại Đài Loan.
+Ngày 28 tháng 5 năm 1865, nhà truyền giáo người Scotland, bác sĩ James Laidlaw Maxwell (Mãnh Cáchristian), đổ bộ vào Đả Cẩu (nay là Cao Hùng) phía nam Đài Loan và bắt đầu giảng đạo và hành nghề y tại phố Khán Tây bên ngoài thành phố Đài Loan vào ngày 16 tháng 6[^41]. Đây là khởi điểm của Tin lành Cơ đốc giáo Đài Loan.
 
-Bảy năm sau, ngày 7 tháng 3 năm 1872, Mã Giai (George Leslie Mackay, 馬偕) thuộc Giáo hội Trưởng Lão Canada cập bến Đạm Thủy, mở đầu công cuộc truyền giáo ở miền bắc[^42]. Oxford College do Mã Giai thành lập tại Đạm Thủy năm 1882 là một trong những hình mẫu sơ khai của nền giáo dục hiện đại Đài Loan. Bệnh viện Mackay, Trường Trung học Trường Vinh, Trường Trung học Đạm Giang và Đại học Chân Lý — những cơ sở vẫn hoạt động đến nay — đều được xây dựng trên nền móng mà Giáo hội Trưởng Lão đặt ra từ cuối thế kỷ XIX.
+Bảy năm sau, ngày 7 tháng 3 năm 1872, George Leslie Mackay (Mã Khải) từ Tam Thủy đổ bộ và mở rộng truyền giáo ở phía Bắc[^42]. Trường Oxford do Mã Khải thành lập tại Tam Thủy (năm 1882) là một trong những hình mẫu của nền giáo dục hiện đại Đài Loan. Các cơ sở như Bệnh viện Mã Khải, Trung học Trưởng Vinh, Trung học Đạm Giang, Đại học Chân Lý: những tổ chức này vẫn đang hoạt động cho đến ngày nay, đều được đặt nền móng từ cuối thế kỷ 19 bởi Giáo hội Trưởng lão.
 
-Điểm khiến Giáo hội Trưởng Lão khác biệt với các tôn giáo khác là **giáo hội trực tiếp can dự chính trị**. Ngày 16 tháng 8 năm 1977, Giáo hội Trưởng Lão Cơ Đốc Đài Loan công bố “Tuyên ngôn Nhân quyền”, công khai kêu gọi chính phủ “thực hiện các biện pháp hữu hiệu để Đài Loan trở thành một quốc gia mới và độc lập”[^43]. Khi ấy Đài Loan vẫn nằm dưới thiết quân luật; công khai chủ trương độc lập đồng nghĩa với nguy cơ ngồi tù. Giáo hội Trưởng Lão trở thành một trong số ít tổ chức công dân bản địa có thể công khai lên tiếng trước khi thiết quân luật được dỡ bỏ.
+Điểm khác biệt của Giáo hội Trưởng lão so với các tôn giáo khác là: **họ trực tiếp can thiệp vào chính trị**. Ngày 16 tháng 8 năm 1977, Giáo hội Trưởng lão Đài Loan đã công bố "Tuyên ngôn Nhân quyền", công khai kêu gọi chính phủ "thực hiện các biện pháp hiệu quả để Đài Loan trở thành một quốc gia mới và độc lập"[^43]. Vào thời điểm đó, Đài Loan vẫn đang trong tình trạng giới nghiêm, việc công khai chủ trương độc lập là một rủi ro bị bắt giam. Giáo hội Trưởng lão đã trở thành một trong số ít các tổ chức dân sự bản địa có thể lên tiếng công khai trước khi giải giam.
 
-Công giáo cũng để lại dấu ấn riêng — Đại học Phụ Nhân, sự hợp tác ban đầu với Bệnh viện Mackay và hoạt động phục vụ lâu dài của Hội Truyền giáo Bethlehem tại các cộng đồng người bản địa ở Đài Đông[^44]. Quy mô của các tổ chức này không bằng bốn tông phái Phật giáo lớn, nhưng đóng góp của họ cho y tế, giáo dục và phúc lợi xã hội ở các vùng xa xôi rất sâu rộng.
+Công giáo cũng có dấu ấn riêng: Đại học Phúc Nhân, Bệnh viện Mã Khải (hợp tác ban đầu), và truyền giáo phương Tây Bạch Lãnh đã đóng góp lâu dài cho các bộ lạc ở Đài Đông[^44]. Các cơ sở này quy mô không lớn bằng bốn ngọn núi Phật giáo, nhưng sự đóng góp của họ trong y tế, giáo dục và phúc lợi xã hội tại vùng sâu vùng xa là vô cùng to lớn.
 
-> **📝 Ghi chú của người tuyển chọn:** Trong 160 năm tại Đài Loan, Cơ Đốc giáo chưa bao giờ là tôn giáo lớn — tín đồ chỉ chiếm khoảng 5–6% dân số — nhưng ảnh hưởng của nó vượt xa số lượng tín đồ. Tôn giáo này đưa vào Đài Loan nền giáo dục hiện đại, y tế hiện đại, giáo dục phụ nữ, hệ thống chữ viết cho người bản địa, phong trào chữ viết bình dân và diễn ngôn nhân quyền. Tất cả những điều ấy không phải chuyện bên trong đại điện, mà là hạ tầng của toàn xã hội. Ảnh hưởng của một tôn giáo không nằm ở số người thờ vị thần của nó, mà ở số việc tôn giáo ấy đã làm nên trong khi xã hội vốn chưa có những điều đó.
+> **📝 Ghi chú của Biên tập viên:** Trong 160 năm ở Đài Loan, Cơ đốc giáo chưa bao giờ là tôn giáo đa số (tỷ lệ dân số khoảng 5-6%), nhưng ảnh hưởng của nó vượt xa con số tín đồ. Nó mang đến giáo dục hiện đại, y học hiện đại, giáo dục phụ nữ, chữ viết cho người bản địa, phong trào chữ Bạch thoại, và luận thuyết nhân quyền — những thứ không phải là chuyện trong chính điện, mà là cơ sở hạ tầng xã hội. Ảnh hưởng của một tôn giáo không nằm ở số lượng người thờ vị thần đó, mà ở việc nó đã làm được bao nhiêu điều mà xã hội vốn chưa có.
 
-### Hành Thiên Cung dỡ lư hương: Khi lòng thành gặp PM2.5
+### Hành Thiên Cung tháo lư hương: Khi lòng thành gặp PM2.5
 
-Lúc 3 giờ sáng ngày 26 tháng 8 năm 2014, Hành Thiên Cung cử công nhân dời hai lư hương lớn và 15 bàn cúng trước đại điện[^14]. Ngôi đền lớn đầu tiên của Đài Loan đón sáu triệu lượt khách mỗi năm — thờ chính Quan Thánh Đế Quân — tuyên bố cấm hương. Đây là cuộc cải cách đền miếu quy mô lớn nhất trong nửa thế kỷ[^15].
+Vào lúc 3 giờ sáng ngày 26 tháng 8 năm 2014, Hành Thiên Cung đã cho công nhân di chuyển hai chiếc lư hương lớn và mười lăm bàn thờ trước chính điện[^14]. Ngôi đền lớn nhất trong nửa thế kỷ: vị thần cai quản Quan Thánh Đế Quân, tuyên bố cấm nhang. Đây là cuộc cải cách quy mô lớn nhất của ngôi đền trong nửa thế kỷ[^15].
 
-Bối cảnh của quyết định này là thống kê của Cục Bảo vệ Môi trường cho thấy mỗi năm có 90.000–220.000 tấn giấy vàng mã bị đốt — nguồn B ghi 240.000 tấn — trong khi nồng độ PM2.5 quanh đền miếu có thể đạt 45 microgam trên mét khối, cao gấp ba lần tiêu chuẩn quốc gia[^17]. Pháp Cổ Sơn còn quyết liệt hơn — dùng màn hình lớn phát video giấy vàng mã đang cháy để thay thế việc đốt thật[^18].
+Bối cảnh quyết định: Cơ quan Bảo vệ Môi trường thống kê mỗi năm đốt 9-22 vạn tấn vàng mã (nguồn B viết 24 vạn tấn); PM2.5 xung quanh miếu có thể đạt tới 45 microgam/mét khối, gấp ba lần tiêu chuẩn quốc gia[^17]. Pháp Cổ Sơn còn quyết liệt hơn: trực tiếp sử dụng màn hình lớn để chiếu video đốt vàng mã thay thế việc đốt[^18].
 
-Nhưng phản ứng chia thành hai cực[^16]. Phe truyền thống cho rằng “không có hương khói thì không linh”, hay “thần không ngửi thấy hương thì làm sao biết bạn tới lễ”. Trong khi đó, tín đồ trẻ và những người bảo vệ môi trường cảm thấy “cuối cùng cũng có người thay đổi”. Số liệu sau một năm cho thấy một điều thú vị: **lượng người đến Hành Thiên Cung không giảm mà còn tăng** — có thêm các gia đình đưa trẻ nhỏ tới, thêm những người trẻ không hút thuốc và thêm người trung niên, cao tuổi có cơ địa dị ứng.
+Nhưng phản ứng lại phân cực[^16]. Phe truyền thống cho rằng "không có nhang thì không có linh nghiệm", "thần linh không ngửi thấy nhang sao biết bạn đến cúng". Tín đồ trẻ và phe bảo vệ môi trường lại cảm thấy "cuối cùng cũng có người thay đổi". Số liệu một năm sau rất thú vị: số lượng khách hành hương tại Hành Thiên Cung **không giảm, mà còn tăng** — thêm các gia đình dẫn con nhỏ đến, thêm những thanh niên không hút thuốc, thêm người trung niên và cao tuổi bị dị ứng.
 
-Sự kiện này phơi bày một vấn đề căn bản: **hình thức và nội hàm của nghi lễ tôn giáo có thể tách rời nhau**. Hương khói không phải bản thân tôn giáo, mà là biểu hiện vật chất của tôn giáo. Biểu hiện có thể thay đổi, còn thần vẫn ở đó. Một khi mọi người chấp nhận điều này, cải cách đền miếu sẽ có thêm không gian.
+Sự kiện này đã vạch ra một vấn đề căn bản: **hình thức nghi lễ tôn giáo và nội dung có thể tách rời**. Nhang không phải là tôn giáo, mà là biểu hiện vật lý của tôn giáo. Biểu hiện có thể thay đổi, nhưng thần linh vẫn còn đó. Một khi mọi người chấp nhận điều này, việc cải cách đền chùa sẽ có không gian để phát triển.
 
-### Thơ xin xăm, ban quản lý đền và bài tập dân chủ của một hòn đảo
+### Câu đối, Hội quản lý miếu và sự thực hành dân chủ trên một hòn đảo
 
-Cuối cùng là hai điều ít được chú ý hơn.
+Cuối cùng nói hai vấn đề ít được chú ý hơn.
 
-**Điều thứ nhất là thơ xin xăm**. Hệ thống thơ xin xăm trong các đền miếu Đài Loan thực chất là một trong những “hệ thống tư vấn tâm lý miễn phí” sớm nhất thế giới. Một người trẻ thất tình, một người trung niên thất nghiệp hay một người già đau ốm có thể bước vào đền, lắc ống xăm, rút ra một bài thơ bốn câu rồi trò chuyện với tình nguyện viên giải xăm. Bản thân bài thơ có thể mơ hồ, nhưng quá trình giải xăm là quá trình lắng nghe, được lắng nghe và nhận lời khuyên. Không mất phí đăng ký, cũng không cần hẹn trước[^19].
+**Vấn đề thứ nhất là câu đối (thiên chỉ)**. Hệ thống câu đối của các ngôi đền Đài Loan thực chất là một trong những "hệ thống tư vấn tâm lý miễn phí" sớm nhất trên thế giới. Một thanh niên thất tình, một trung niên thất nghiệp, một người già bị bệnh, có thể bước vào miếu, lắc ống rút thăm, và nhận được một bài thơ bốn câu, rồi trò chuyện với tình nguyện viên giải đáp. Bản thân câu đối có thể mơ hồ, nhưng quá trình giải đáp là lắng nghe, được lắng nghe, và được tư vấn. Không có phí đăng ký, không cần hẹn trước[^19].
 
-**Điều thứ hai là ban quản lý đền**. Cơ chế ủy ban quản lý đền miếu tại Đài Loan — mỗi người một phiếu bầu ra chủ nhiệm, phó chủ nhiệm và tổng thư ký — thực chất là một hình thức thực hành dân chủ cơ sở đã tồn tại ở Đài Loan từ thời Thanh[^22]. Nó có trước nghị viện, đảng phái và cả chế độ hộ tịch. Một ngôi đền nhỏ có thể quản lý mười triệu tiền hương dầu, một mảnh đất và một cộng đồng tín đồ; tất cả đều phải vận hành dựa trên cơ chế dân chủ. Dĩ nhiên, điều này cũng có nghĩa chính trị đền miếu có thể rất đen tối — đấu đá phe phái, mua phiếu và móc nối với chính trị địa phương[^23]. Nhưng ít nhất nó lưu lại một sự thật: người Đài Loan không phải đến năm 1996 mới bắt đầu bỏ phiếu; họ đã học việc này từ hàng trăm năm trước trong ngôi đền nhỏ đầu ngõ.
+**Mục thứ hai là Hội quản lý đền miếu**. Hệ thống quản lý các ngôi đền ở Đài Loan—với cơ chế bầu ra chủ ủy, phó chủ ủy và tổng thư ký theo hình thức một người một phiếu—thực chất là sự thực hành dân chủ cấp cơ sở đã tồn tại từ thời Thanh ở Đài Loan[^22]. Nó có trước nghị viện, có trước các đảng phái chính trị, và có trước chế độ hộ khẩu. Một ngôi đền nhỏ có thể quản lý hàng chục triệu tiền hương dầu, một mảnh đất, và một nhóm tín đồ; tất cả những điều này đều vận hành nhờ cơ chế dân chủ. Tất nhiên, điều này cũng ngụ ý rằng chính trị đền miếu đôi khi rất đen tối—với sự đấu đá phe phái, mua phiếu bầu, và liên kết với chính trường địa phương[^23]. Nhưng nó ít nhất đã để lại một thực tế: người Đài Loan không bắt đầu bỏ phiếu từ năm 1996; họ đã học được điều này tại ngôi đền nhỏ ở ngõ phố hàng trăm năm trước.
 
-### Từ nỗi sợ đến tự do
+### Từ sợ hãi đến tự do
 
-Trở lại với sự tương phản ban đầu: hòn đảo có mật độ đền miếu cao nhất thế giới và đứng thứ hai châu Á về tự do tôn giáo, nhưng hai tín ngưỡng lớn nhất của nó đều có nguồn gốc lịch sử gắn với dịch bệnh và cái chết.
+Quay lại sự tương phản ban đầu: hòn đảo có mật độ đền miếu cao nhất thế giới và thứ hạng tự do tôn giáo đứng thứ hai châu Á, trong đó cả hai tín ngưỡng lớn đều bắt nguồn từ bệnh dịch và cái chết.
 
-Trong báo cáo Tự do Toàn cầu năm 2025 của Freedom House, Đài Loan đạt 94 điểm, đứng thứ hai châu Á, chỉ sau Nhật Bản[^45]. Bảng xếp hạng này bao gồm nhiều phương diện như tự do tôn giáo, tự do ngôn luận và tự do lập hội. Nếu so với ba trăm năm trước — khi những di dân quân sự buộc tượng thần trên thuyền và đánh cược mạng sống để vượt biển — có lẽ họ không thể hình dung con cháu mình sẽ sống trên một hòn đảo như ngày nay: tự do tin theo bất kỳ tôn giáo nào, tự do không tin bất kỳ tôn giáo nào, có thể thờ cả ba tôn giáo hoặc không thờ gì cả.
+Báo cáo về mức độ tự do toàn cầu của Freedom House năm 2025 cho thấy Đài Loan xếp thứ hai Châu Á với 94 điểm (chỉ sau Nhật Bản)[^45]. Xếp hạng này bao gồm nhiều khía cạnh như tự do tôn giáo, tự do ngôn luận và tự do lập hội. So sánh với ba trăm năm trước—những người di cư quân sự buộc mình lên thuyền, liều mạng vượt biển—họ khó có thể tưởng tượng được hậu duệ của họ sẽ sống trên một hòn đảo như thế này: nơi họ có thể tự do tin bất kỳ tôn giáo nào, tự do không tin bất kỳ tôn giáo nào, vừa thờ ba tôn giáo lại vừa không thờ bất cứ tôn giáo nào.
 
-Bảo An Cung do Liêu Vũ Trị phục dựng ngày nay tổ chức Lễ hội Văn hóa Bảo Sinh hằng năm, kết hợp triển lãm nghệ thuật, hòa nhạc và tọa đàm học thuật[^24]. Một ngôi đền được di dân Đồng An dựng lên hai trăm năm trước để thờ Bảo Sinh Đại Đế nay đã trở thành một trong những trung tâm văn hóa của Đài Bắc. Tượng thần vẫn ở đó, nhưng bên cạnh đã có thêm ban nhạc jazz.
+Miếu Bảo An do Liêu Vũ Trị trùng tu ngày nay tổ chức Lễ hội Văn hóa Bảo Sinh hàng năm, kết hợp triển lãm nghệ thuật, hòa nhạc và các buổi diễn thuyết học thuật[^24]. Ngôi đền được xây dựng bởi những người di cư từ Đồng An hai trăm năm trước với tín ngưỡng Đại Đế Bảo Sinh, ngày nay đã trở thành một trung tâm văn hóa của Đài Bắc. Tượng thần vẫn còn đó, nhưng bên cạnh cũng có ban nhạc jazz.
 
-Lịch sử tín ngưỡng của hòn đảo bắt đầu từ khoảnh khắc những di dân quân sự thế kỷ XVII đặt chân lên bờ, rồi liên tục tiến đến những ngôi đền cấm hương, phong trào bảo vệ môi trường tâm linh, Phật giáo nhân gian và vị trí thứ hai của Freedom House vào năm 2025. Dòng chảy ấy chưa từng đứt đoạn; mỗi thời đại đều bổ sung điều mới trên nền tảng cũ. Vương gia từ ôn thần trở thành thần bình an, Ma Tổ từ thần biển thành thần toàn năng, Thổ Địa Công từ thần đồng ruộng thành thần thương mại. Thần không chết, thần đổi việc.
+Lịch sử tín ngưỡng của hòn đảo này, bắt đầu từ khoảnh khắc những người di cư quân sự đổ bộ vào thế kỷ 17, kéo dài đến năm 2025 với các ngôi đền cấm nhang, bảo vệ môi trường tinh thần, Phật giáo nhân gian và vị trí thứ hai của Freedom House. Không có khoảng trống nào trong quá trình này; mỗi thời đại đều xây dựng thêm trên nền tảng ban đầu. Các Vương gia đã chuyển từ thần dịch bệnh thành thần bình an; Mazu đã chuyển từ thần biển thành thần toàn năng; Thổ Địa Công đã chuyển từ thần ruộng đất thành thần thương mại. Thần không chết, mà thay đổi công việc.
 
-Những nỗi sợ từ các cuộc vượt biển thế kỷ XVII — sợ Hắc Thủy Câu, sợ dịch bệnh, sợ xung đột vũ trang giữa các nhóm di dân, sợ thiên tai — chưa thực sự biến mất. Chúng được chuyển hóa thành 15.000 ngôi đền, cuộc tuần hành chín ngày của một triệu người, mạng lưới tình nguyện viên toàn cầu của bốn tông phái Phật giáo lớn, bản tuyên ngôn nhân quyền mà Giáo hội Trưởng Lão kiên trì lên tiếng và quá trình hợp pháp hóa sau 34 năm hoạt động bí mật của Nhất Quán Đạo.
+Những nỗi sợ hãi của thế kỷ 17 khi vượt biển—sợ eo biển Hắc Thủy Cốc, sợ bệnh dịch, sợ giao tranh vũ trang, sợ thiên tai—đã không thực sự biến mất. Chúng đã được chuyển hóa thành mười lăm nghìn ngôi đền, các đoàn rước kiệu kéo dài chín ngày của một triệu người, các tình nguyện viên trên toàn thế giới thuộc bốn tông phái lớn, những tuyên ngôn nhân quyền kiên trì của Hội Thánh Trưởng Lão, và sự hợp pháp hóa ba mươi tư năm dưới lòng đất của Một Thanh Đạo.
 
-Nỗi sợ chưa từng biến mất; nó chỉ sinh trưởng thành hình hài của đức tin.
+Sợ hãi chưa bao giờ biến mất; nó chỉ mọc ra hình hài của tín ngưỡng.
 
-Và đức tin ấy cuối cùng đã làm cho hòn đảo được tự do.
+Và chính tín ngưỡng này đã mang lại tự do cho hòn đảo.
 
 **Đọc thêm**
 
-- [Cộng đồng kiều dân và người Đài Loan hải ngoại](../Society/台灣海外僑民與離散社群) — Ma Tổ, Vương gia và Thổ Địa Công đã theo chân di dân vượt biển lần nữa để đến khắp thế giới như thế nào
-- [Văn hóa và ngôn ngữ Khách Gia](../Culture/客家文化與語言) — tín ngưỡng Nghĩa Dân Gia là thực hành tôn giáo đặc sắc nhất của cộng đồng Khách Gia tại Đài Loan
-- [Phong trào xã hội Đài Loan thời Nhật Bản cai trị](../History/日治時期臺灣社會運動) — chính quyền thuộc địa kiểm soát tôn giáo như thế nào và bị tôn giáo chống lại ra sao
-- [Sự kiện 28 tháng 2](../History/二二八事件) — vai trò của giới tôn giáo thời hậu chiến, đặc biệt là Giáo hội Trưởng Lão, trong chuyển đổi chính trị
-- [Tưởng Vị Thủy](../People/蔣渭水) — nhà cách mạng đồng thời là bác sĩ và cuộc đối thoại của ông với các lãnh tụ tôn giáo cùng thời
-- [Cảm thức Đài Loan: Có phải chúng ta phải đợi người Hàn Quốc nhấn thích rồi mới dám nói những ngôi nhà cũ của mình rất đẹp?](/vi/culture/taiwanese-sensibility) — đền miếu là một trong những nơi thường lưu giữ trọn vẹn nhất các yếu tố thẩm mỹ đời thường của Đài Loan như sàn đá mài terrazzo và hoa sắt cửa sổ
+- [Kiều dân và cộng đồng người ly tán Đài Loan](/vi/society/taiwanese-overseas-and-diaspora) — Mazu, Vương gia, Thổ Địa Công làm thế nào để ra khơi lần nữa trên toàn thế giới cùng với những người di cư
+- [Văn hóa và ngôn ngữ Khách Gia](/vi/culture/hakka-culture-and-language) — Tín ngưỡng Nghĩa Dân Gia là thực hành tôn giáo đặc biệt nhất của cộng đồng Khách Gia ở Đài Loan
+- [Phong trào xã hội Đài Loan thời Nhật trị](/vi/history/social-movements-during-japanese-rule) — Chính quyền thuộc địa đã kiểm soát tôn giáo như thế nào, và tôn giáo đã phản kháng lại nó ra sao
+- [Sự kiện Hai Cách Hai Tám](/vi/history/228-incident) — Vai trò của giới tôn giáo sau chiến tranh (đặc biệt là Hội Thánh Trưởng Lão) trong quá trình chuyển đổi chính trị
+- [Giang Vĩ Thủy](/vi/people/chiang-wei-shui) — Nhà cách mạng y khoa, cuộc đối thoại với các nhà lãnh đạo tôn giáo cùng thời
+- [Cảm tính Đài Loan: Chúng ta có cần người Hàn Quốc nhấn thích trước khi dám nói ngôi nhà cũ của mình đẹp không?](/vi/culture/taiwanese-sensibility) — Các giá trị thẩm mỹ hàng ngày của Đài Loan như đá mài và hoa cửa sắt, một trong những nơi lưu giữ được nhiều nhất chính là các đền miếu
 
 ## Tài liệu tham khảo
 
-[^1]: [Toàn bộ hồ sơ phục dựng Bảo An Cung Đại Long Động của UNESCO](https://www.baoan.org.tw/unesco.php?lang=en) — hồ sơ chính thức đầy đủ về quá trình phục dựng của nhóm Liêu Vũ Trị từ năm 1995 đến 2002
+[^1]: [Toàn bộ hồ sơ trùng tu Bảo An Miếu Đại Long Đồng của UNESCO](https://www.baoan.org.tw/unesco.php?lang=en) — Hồ sơ chính thức về quá trình trùng tu bởi đội ngũ Liêu Vũ Trị từ năm 1995 đến 2002
 
-[^2]: [Taipei Times: Liao Wu-chih, vị cứu tinh của Bảo An Cung](https://www.taipeitimes.com/News/taiwan/archives/2009/10/06/2003455293) — phỏng vấn Liêu Vũ Trị về quá trình tự gây quỹ phục dựng trong bảy năm và quyết định không nhận kinh phí chính phủ
+[^2]: [Taipei Times: Liêu Vũ Trị, vị cứu tinh của Miếu Bảo An](https://www.taipeitimes.com/News/taiwan/archives/2009/10/06/2003455293) — Phỏng vấn độc quyền Liêu Vũ Trị về quá trình quyết định tự gây quỹ trùng tu trong bảy năm mà không nhận kinh phí từ chính phủ
 
-[^3]: [Bảo An Cung Đại Long Động — Wikipedia](https://en.wikipedia.org/wiki/Dalongdong_Baoan_Temple) — nguồn nguyên văn nhận xét “một hình mẫu phục dựng dựa vào cộng đồng” của hội đồng Giải thưởng Bảo tồn Di sản Văn hóa châu Á–Thái Bình Dương của UNESCO
+[^3]: [Miếu Bảo An Đại Long Đồng — Wikipedia](https://en.wikipedia.org/wiki/Dalongdong_Baoan_Temple) — Nguồn gốc của bản đánh giá giải thưởng bảo tồn di sản văn hóa châu Á - Thái Bình Dương của UNESCO và 'mô hình trùng tu dựa vào cộng đồng'
 
-[^4]: [Thống kê đền miếu và nhà thờ toàn quốc của Bộ Nội chính](https://religion.moi.gov.tw/ChartReport/Index?ci=1&cid=2) — số liệu chính thức năm 2024 ghi nhận khoảng 15.000 công trình tôn giáo, gồm 9.794 cơ sở Đạo giáo, 2.273 cơ sở Phật giáo và các tôn giáo khác
+[^4]: [Thống kê đền chùa toàn quốc của Bộ Nội chính](https://religion.moi.gov.tw/ChartReport/Index?ci=1&cid=2) — Số liệu thống kê chính thức về khoảng 15.000 công trình tôn giáo tại Đài Loan năm 2024 (Đạo giáo 9.794 / Phật giáo 2.273 / Khác)
 
-[^5]: [Mật độ cửa hàng tiện lợi Đài Loan đứng thứ hai thế giới — thống kê của Bộ Kinh tế](https://www.moea.gov.tw/) — năm 2023, Đài Loan có khoảng 13.000 cửa hàng tiện lợi thuộc 7-Eleven, FamilyMart, OK Mart và Hi-Life
+[^5]: [Mật độ cửa hàng tiện lợi Đài Loan đứng thứ hai thế giới — Thống kê Bộ Kinh tế](https://www.moea.gov.tw/) — Khoảng 13.000 cửa hàng tiện lợi tại Đài Loan năm 2023 (7-Eleven + FamilyMart + OK Mart + Hi-Life)
 
-[^6]: [Đài Nam dẫn đầu về mật độ đền miếu — Taipei Times](https://www.taipeitimes.com/News/taiwan/archives/2015/07/15/2003623092) — năm 2015, Đài Nam có 1.641 ngôi đền, là thành phố có mật độ đền miếu cao nhất Đài Loan
+[^6]: [Đài Nam dẫn đầu về mật độ đền chùa — Taipei Times](https://www.taipeitimes.com/News/taiwan/archives/2015/07/15/2003623092) — Năm 2015, Đài Nam với 1.641 ngôi đền là thành phố có mật độ đền thờ cao nhất toàn Đài Loan
 
-[^7]: [Trang web chính thức của Quỹ Từ Tế](https://www.tzuchi.org/) — câu chuyện Pháp sư Chứng Nghiêm sáng lập tổ chức năm 1966 với 30 bà nội trợ “mỗi ngày tiết kiệm năm hào” và tinh thần “vì Phật giáo, vì chúng sinh”
+[^7]: [Trang web chính thức của Quỹ Từ Tế](https://www.tzuchi.org/) — Câu chuyện sáng lập và tinh thần 'vì Phật giáo, vì chúng sinh' của Pháp sư Chứng Nghiêm, bắt đầu từ 30 bà nội trợ với 'tiền tiết kiệm mỗi ngày năm mao' vào năm 1966
 
-[^8]: [Trăm cảnh tôn giáo của Bộ Nội chính: Cuộc tuần hành Ma Tổ Đại Giáp](https://taiwangods.moi.gov.tw/html/landscape_en/1_0011.aspx?i=39) — số liệu chính thức về hành trình chín ngày tám đêm, qua 21 hương trấn thuộc bốn huyện, thành phố, gần một trăm ngôi đền và dài 340 km
+[^8]: [Bách cảnh tôn giáo của Bộ Nội chính: Lễ rước kiệu Mazu tại Đại Giáp](https://taiwangods.moi.gov.tw/html/landscape_en/1_0011.aspx?i=39) — Dữ liệu chính thức về sự kiện kéo dài 9 ngày 8 đêm, trải qua 21 thị trấn thuộc 4 huyện và thành phố, với gần trăm ngôi đền và 340 km
 
-[^9]: [Cuộc hành hương Ma Tổ Đại Giáp — Wikipedia](https://en.wikipedia.org/wiki/Dajia_Mazu_Pilgrimage) — lịch sử Discovery xếp sự kiện vào ba đại lễ hội tôn giáo của thế giới năm 2004 và thống kê quy mô
+[^9]: [Lễ rước kiệu Mazu Đại Giáp — Wikipedia](https://en.wikipedia.org/wiki/Dajia_Mazu_Pilgrimage) — Thống kê về lịch sử và quy mô của sự kiện được công nhận là một trong ba đại lễ tôn giáo thế giới vào năm 2004
 
-[^10]: [Tín ngưỡng và phong tục Ma Tổ — UNESCO](https://ich.unesco.org/en/RL/mazu-belief-and-customs-00227) — trang chính thức về việc UNESCO ghi danh vào Danh sách Di sản văn hóa phi vật thể đại diện của nhân loại năm 2009
+[^10]: [Tín ngưỡng và phong tục Mazu của UNESCO](https://ich.unesco.org/en/RL/mazu-belief-and-customs-00227) — Trang thông tin chính thức của Tổ chức Giáo dục, Khoa học và Văn hóa Liên Hợp Quốc về di sản phi vật thể của nhân loại vào năm 2009
 
-[^11]: [Theo chân Ma Tổ qua Đài Loan — Taiwan Panorama](https://www.taiwan-panorama.com/en-us/Articles/Details?Guid=c895c6bd-8c94-4149-b640-90c28265ff62) — phóng sự tại chỗ về văn hóa trạm tiếp tế và tinh thần “Ma Tổ đang đi, mọi người cùng giúp sức”
+[^11]: [Theo dấu Mazu qua Đài Loan — Taiwan Panorama](https://www.taiwan-panorama.com/en-us/Articles/Details?Guid=c895c6bd-8c94-4149-b640-90c28265ff62) — Ghi chép thực tế về văn hóa trạm tiếp sức 'Mazu đang đi, mọi người giúp đỡ'
 
-[^12]: [Truyền thống kiệu Ma Tổ — Taiwan Panorama](https://www.taiwan-panorama.com/en-us/Articles/Details?Guid=c895c6bd-8c94-4149-b640-90c28265ff62) — ghi chép về truyền thống kiệu thần tự lắc, ngoặt gấp và lao nhanh theo ý chỉ Ma Tổ trong cuộc tuần hành
+[^12]: [Truyền thống kiệu Mazu — Taiwan Panorama](https://www.taiwan-panorama.com/en-us/Articles/Details?Guid=c895c6bd-8c94-4149-b640-90c28265ff62) — Hồ sơ truyền thống lễ rước nơi kiệu tự vận động, đột ngột đổi hướng và lao nhanh theo ý chỉ của Mazu
 
-[^13]: [Nhân danh Ma Tổ — Oxford Foreign Policy Analysis](https://academic.oup.com/fpa/article/20/3/orae009/7663822) — nghiên cứu học thuật ghi nhận việc Đảng Cộng sản Trung Quốc đưa văn hóa Ma Tổ vào “Quy hoạch năm năm lần thứ 13”, “Vành đai và Con đường” và vận dụng trong công tác mặt trận thống nhất hai bờ eo biển
+[^13]: [Mang tên Mazu — Oxford Foreign Policy Analysis](https://academic.oup.com/fpa/article/20/3/orae009/7663822) — Bài báo học thuật ghi lại việc Trung Quốc đại lục đưa văn hóa Mazu vào 'Kế hoạch 5 năm thứ 13', 'Vành đai và Con đường' và sử dụng trong chiến lược thống nhất hai bờ eo biển
 
-[^14]: [Hành Thiên Cung cấm hương — Taipei Times](https://www.taipeitimes.com/News/front/archives/2014/08/27/2003598362) — quyết định cấm hương và việc dời hai lư hương lớn cùng 15 bàn cúng lúc 3 giờ sáng ngày 26 tháng 8 năm 2014
+[^14]: [Miếu Xinh Thiên cấm nhang — Taipei Times](https://www.taipeitimes.com/News/front/archives/2014/08/27/2003598362) — Quyết định cấm nhang vào lúc ba giờ sáng ngày 26 tháng 8 năm 2014, khi di dời hai lư hương lớn và mười lăm bàn thờ
 
-[^15]: [Hành Thiên Cung — Wikipedia](https://en.wikipedia.org/wiki/Xingtian_Temple) — tư liệu về việc đền thờ chính Quan Thánh Đế Quân, đón khoảng sáu triệu lượt khách mỗi năm và tiến hành cuộc cải cách đền miếu lớn nhất Đài Loan trong nửa thế kỷ
+[^15]: [Miếu Xinh Thiên — Wikipedia](https://en.wikipedia.org/wiki/Xingtian_Temple) — Hồ sơ cải cách đền thờ lớn nhất trong nửa thế kỷ của Đài Loan, nơi thờ Quan Thánh Đế Quân với khoảng 6 triệu lượt khách hành hương mỗi năm
 
-[^16]: [Các đền khác phản ứng trước quyết định của Hành Thiên Cung — Taipei Times](https://www.taipeitimes.com/News/taiwan/archives/2014/08/26/2003598308) — bài tổng hợp về những phản ứng trái chiều của các đền miếu trước lệnh cấm hương của Hành Thiên Cung
+[^16]: [Các ngôi đền phản ứng với quyết định của Hành Thiên - Taipei Times](https://www.taipeitimes.com/News/taiwan/archives/2014/08/26/2003598308) — Báo cáo tổng hợp về hai luồng ý kiến đối với việc cấm nhang ở Hành Thiên Cung
 
-[^17]: [Đền miếu và ô nhiễm PM2.5 — Taipei Times](https://www.taipeitimes.com/News/feat/archives/2022/01/12/2003771194) — thống kê của Cục Bảo vệ Môi trường về 90.000–220.000 tấn giấy vàng mã bị đốt mỗi năm và nồng độ PM2.5 quanh đền miếu đạt 45 microgam trên mét khối
+[^17]: [Đền chùa và ô nhiễm PM2.5 - Taipei Times](https://www.taipeitimes.com/News/feat/archives/2022/01/12/2003771194) — Cơ quan Bảo vệ Môi trường thống kê hàng năm đốt 9-22 nghìn tấn giấy vàng mã / PM2.5 xung quanh đền đạt tới 45 microgram/mét khối
 
-[^18]: [Lễ bái ít carbon tại Pháp Cổ Sơn — Taiwan Panorama](https://www.taiwan-panorama.com/en/Articles/Details?Guid=cb3bb54b-9c08-47f7-beec-d93370649a79) — thực hành lễ bái ít carbon của Pháp Cổ Sơn, dùng màn hình lớn phát video giấy vàng mã đang cháy thay cho việc đốt thật
+[^18]: [Tôn giáo ít carbon tại Dharma Drum - Taiwan Panorama](https://www.taiwan-panorama.com/en/Articles/Details?Guid=cb3bb54b-9c08-47f7-beec-d93370649a79) — Thực hành thờ cúng ít carbon của Pháp Cổ Sơn, sử dụng màn hình lớn để chiếu video đốt giấy vàng mã thay thế việc đốt thực tế
 
-[^19]: [Khía cạnh tư vấn tâm lý của thơ xin xăm tại đền miếu Đài Loan — Bình luận Dân tục học](https://www.taiwanfolklore.com/) — phân tích xã hội học về hệ thống thơ xin xăm như một trong những hệ thống tư vấn tâm lý miễn phí sớm nhất Đài Loan
+[^19]: [Hướng tư vấn tâm lý qua thẻ bói ở đền chùa Đài Loan - Bình luận Dân tộc học](https://www.taiwanfolklore.com/) — Phân tích xã hội học về hệ thống thẻ bói như là hệ thống tư vấn tâm lý miễn phí sớm nhất của Đài Loan
 
-[^20]: [Bảo tồn nghệ thuật cắt dán tại đền miếu Đài Loan — Cục Di sản Văn hóa](https://www.boch.gov.tw/) — hồ sơ chính thức về việc Cách mạng Văn hóa không lan đến Đài Loan, nhờ đó các kỹ thuật cắt dán và điêu khắc đá truyền thống được bảo tồn đầy đủ nhất trên đảo
+[^20]: [Bảo tồn nghệ thuật trang trí bằng men gốm ở đền chùa Đài Loan - Cục Tài sản Văn hóa](https://www.boch.gov.tw/) — Hồ sơ chính thức lưu giữ nguyên vẹn nhất về kỹ thuật điêu khắc đá trang trí bằng men gốm truyền thống trên đảo, không bị ảnh hưởng bởi Cách mạng Văn hóa Đại học
 
-[^21]: [Trang web chính thức của Long Sơn Tự Mãnh Giáp](https://www.lungshan.org.tw/) — hồ sơ lịch sử về cuộc không kích của Hoa Kỳ ngày 31 tháng 5 năm 1945 và việc tượng Quan Âm Bồ Tát vẫn nguyên vẹn trong đống đổ nát
+[^21]: [Trang web chính thức của chùa Long Sơn Mẫng Gia](https://www.lungshan.org.tw/) — Hồ sơ lịch sử về việc tượng Quan Âm vẫn còn nguyên vẹn trong đống đổ nát sau cuộc không kích của quân Mỹ vào ngày 31 tháng 5 năm 1945
 
-[^22]: [Cơ chế ủy ban quản lý đền miếu Đài Loan — Viện Dân tộc học, Viện Nghiên cứu Trung ương](https://www.ioe.sinica.edu.tw/) — nghiên cứu học thuật về cơ chế ban quản lý đền theo nguyên tắc mỗi người một phiếu, một thực hành dân chủ đã tồn tại tại Đài Loan từ thời Thanh
+[^22]: [Chế độ quản lý đền chùa Đài Loan - Viện Quốc gia Trung Hoa](https://www.ioe.sinica.edu.tw/) — Nghiên cứu học thuật về chế độ hội đồng quản lý đền thờ, nơi thực hành dân chủ 'một người một phiếu' đã tồn tại ở Đài Loan thời Thanh
 
-[^23]: [Chính trị đền miếu và phe phái địa phương — The Reporter](https://www.twreporter.org/) — loạt phóng sự điều tra về đấu đá phe phái trong đền miếu, mua phiếu và mối liên hệ với chính trị địa phương
+[^23]: [Chính trị và phe phái địa phương của đền chùa - Báo cáo viên](https://www.twreporter.org/) — Tuyển tập các bài báo điều tra về sự đấu đá phe phái, mua vé và mối liên hệ với chính trị địa phương của các ngôi đền
 
-[^24]: [Lễ hội Văn hóa Bảo Sinh Đại Long Động](https://www.baoan.org.tw/) — trường hợp tiêu biểu về chuyển đổi văn hóa đền miếu, kết hợp triển lãm nghệ thuật, hòa nhạc và tọa đàm học thuật
+[^24]: [Lễ hội văn hóa Bảo Sinh Đại Long Đồng](https://www.baoan.org.tw/) — Ví dụ điển hình về sự chuyển đổi văn hóa đền chùa kết hợp triển lãm nghệ thuật, hòa nhạc và diễn thuyết học thuật
 
-[^25]: [Cơ sở dữ liệu đền miếu Đài Loan của Viện Nghiên cứu Trung ương: GIS văn hóa tín ngưỡng Vương gia](https://crgis.rchss.sinica.edu.tw/wangye) — kết quả đối chiếu dữ liệu đăng ký tôn giáo của Bộ Nội chính với cơ sở dữ liệu đền miếu của Viện Nghiên cứu Trung ương, cho thấy khoảng 1.330 đền Vương gia, đứng đầu các đền thờ thần linh
+[^25]: [Cơ sở dữ liệu đền chùa Đài Loan của Viện Quốc gia Trung Hoa: GIS tín ngưỡng Vương Gia](https://crgis.rchss.sinica.edu.tw/wangye) — Cơ sở dữ liệu đền thờ được đăng ký bởi Bộ Nội vụ đối chiếu với Viện Quốc gia Trung Hoa, trong đó có khoảng 1.330 ngôi đền là đền thần minh
 
-[^26]: [Vương gia Thiên Tuế — Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%8E%8B%E7%88%BA%E5%8D%83%E6%AD%B2) — nguồn của các câu nói dân gian “miền nam thờ Vương gia, miền trung thờ Ma Tổ” và “tháng ba cuồng Ma Tổ, tháng tư mừng sinh nhật Vương gia”
+[^26]: [Thiên Tuế Vương Gia - Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%8E%8B%E7%88%BA%E5%8D%83%E6%AD%B2) — Nguồn gốc của các thành ngữ 'Nam Vương Gia, Trung Mẫu Tổ' và 'Mao Tổ tháng Ba điên cuồng, Vương Gia tháng Tư sinh'
 
-[^27]: [Cơ sở dữ liệu đền miếu Đài Loan của Viện Nghiên cứu Trung ương: Nguồn gốc tín ngưỡng Vương gia](https://crgis.rchss.sinica.edu.tw/wangye) — ghi chép học thuật về những chiếc thuyền Vương gia tiễn ôn dịch từ vùng duyên hải đông nam Trung Quốc thời kỳ đầu trôi từ Hạ Môn, Tuyền Châu đến nhiều nơi dọc bờ biển tây nam Đài Loan
+[^27]: [Cơ sở dữ liệu đền chùa Đài Loan của Viện Quốc gia Trung Hoa: Nguồn gốc tín ngưỡng Vương Gia](https://crgis.rchss.sinica.edu.tw/wangye) — Ghi chép học thuật về các đoàn thuyền giải dịch bệnh từ Tuyền Châu, Hạ Môn đến các vùng ven biển phía Tây Nam Đài Loan trong thời kỳ đầu
 
-[^28]: [Sự tiến hóa của tín ngưỡng Thổ Địa Công tại Đài Loan — nghiên cứu điền dã dân tục](https://www.folklore.tw/) — sự chuyển đổi chức năng của Thổ Địa Công từ thần nông nghiệp sang thần thương mại và trường hợp hương khói tại các đền ở quận Tín Nghĩa, Đài Bắc
+[^28]: [Sự tiến hóa của tín ngưỡng Thổ Địa ở Đài Loan - Nghiên cứu thực địa dân tục](https://www.folklore.tw/) — Ví dụ về sự chuyển đổi chức năng từ thần nông sang thần thương, tại các ngôi đền ở quận Tín Nghĩa, Đài Bắc
 
-[^29]: [Tôn giáo Đài Loan — Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E5%AE%97%E6%95%99) — khảo sát tỷ lệ tín ngưỡng năm 2019 của Viện Xã hội học thuộc Viện Nghiên cứu Trung ương: tôn giáo dân gian 49,3%, Phật giáo 14%, Đạo giáo 12,4%, Tin Lành 5,5%, Nhất Quán Đạo 2,1% và Công giáo 1,3%
+[^29]: [Tôn giáo Đài Loan - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E5%AE%97%E6%95%99) — Khảo sát tỷ lệ tín ngưỡng năm 2019 của Viện Nghiên cứu Xã hội học thuộc Viện Quốc gia Trung Hoa (Dân tục 49.3% / Phật giáo 14% / Đạo giáo 12.4% / Tin lành 5.5% / Nhất quán đạo 2.1% / Công giáo 1.3%)
 
-[^30]: [Hồ sơ thiệt hại thời chiến của Long Sơn Tự — trang web chính thức của Long Sơn Tự Mãnh Giáp](https://www.lungshan.org.tw/tw/05_2_history.php) — hồ sơ lịch sử của nhà đền về cuộc không kích ngày 31 tháng 5 năm 1945, khi chính điện bị phá hủy nhưng tượng Quan Âm vẫn nguyên vẹn trong đống đổ nát
+[^30]: [Hồ sơ thiệt hại của chùa Long Sơn trong chiến tranh - Trang web chính thức của chùa Long Sơn Mẫng Gia](https://www.lungshan.org.tw/tw/05_2_history.php) — Bản ghi chép lịch sử của ngôi đền về việc bị không kích vào ngày 31 tháng 5 năm 1945, khi điện thờ chính bị phá hủy nhưng tượng Quan Âm vẫn còn nguyên vẹn trong đống đổ nát
 
-[^31]: [Tiến trình chính trị từ cấm đoán đến giải cấm Nhất Quán Đạo tại Đài Loan — Viện Xã hội học, Viện Nghiên cứu Trung ương](https://www.ios.sinica.edu.tw/people/personal/hyc/1996查禁與開禁一貫道的政治過程.pdf) — toàn văn nghiên cứu học thuật về việc chính phủ Quốc dân cấm Nhất Quán Đạo năm 1953 với lý do “liên quan đến mê tín và gây phương hại cho trị an địa phương”
+[^31]: [Quán Đạo tại Đài Loan: Quá trình Cấm đoán và Mở cấm - Viện Nghiên cứu Khoa học Xã hội Trung Quốc](https://www.ios.sinica.edu.tw/people/personal/hyc/1996查禁與開禁一貫道的政治過程.pdf) — Toàn văn nghiên cứu học thuật do Chính phủ Quốc dân ban hành năm 1953 với lý do 'liên quan đến mê tín dị đoan và gây rối an ninh địa phương'
 
-[^32]: [Nhất Quán Đạo — Wikipedia](https://zh.wikipedia.org/zh-tw/%E4%B8%80%E8%B2%AB%E9%81%93) — 40 nhà lập pháp cùng ký tên năm 1987 và việc thành lập Tổng hội Nhất Quán Đạo Trung Hoa Dân Quốc tháng 3 năm 1988, đánh dấu tôn giáo bất hợp pháp đầu tiên được hợp pháp hóa thời hậu chiến
+[^32]: [Quán Đạo - Wikipedia](https://zh.wikipedia.org/zh-tw/%E4%B8%80%E8%B2%AB%E9%81%93) — Hội Trung Hoa Dân Quốc Quán Đạo được thành lập vào tháng 3 năm 1988 sau khi 40 nghị sĩ ký tên vào năm 1987, là tôn giáo phi pháp hóa đầu tiên trong thời hậu chiến
 
-[^33]: [Tổng hội Nhất Quán Đạo Trung Hoa Dân Quốc — Wikipedia](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E4%B8%80%E8%B2%AB%E9%81%93%E7%B8%BD%E6%9C%83) — thống kê chính thức của Tổng hội ghi nhận khoảng 800.000 tín đồ Nhất Quán Đạo tại Đài Loan tính đến tháng 3 năm 2018
+[^33]: [Hội Trung Hoa Dân Quốc Quán Đạo - Wikipedia](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E4%B8%80%E8%B2%AB%E9%81%93%E7%B8%BD%E6%9C%83) — Số liệu thống kê chính thức của hội tính đến tháng 3 năm 2018 với khoảng 80 vạn tín đồ Quán Đạo tại Đài Loan
 
-[^34]: [Sự phát triển toàn cầu của Nhất Quán Đạo — trang web chính thức của Tổng hội Nhất Quán Đạo](https://www.iktw.org.tw/) — thông tin chính thức về quá trình mở rộng ra nước ngoài và các đạo trường Nhất Quán Đạo tại hơn 80 quốc gia
+[^34]: [Phát triển Toàn cầu của Quán Đạo - Trang web chính thức của Hội Quán Đạo](https://www.iktw.org.tw/) — Thông tin về sự mở rộng ra nước ngoài của Quán Đạo với các đạo tràng tại hơn 80 quốc gia
 
-[^35]: [Phạm vi hoạt động toàn cầu của Quỹ Từ Tế](https://www.tzuchi.org/) — theo dữ liệu trên trang web tiếng Anh chính thức tính đến ngày 31 tháng 5 năm 2024, Từ Tế có tình nguyện viên tại 68 quốc gia và đã cứu trợ tại 136 quốc gia
+[^35]: [Tzu Chi Foundation Global Reach](https://www.tzuchi.org/) — Dữ liệu từ trang web tiếng Anh cho biết tính đến ngày 31 tháng 5 năm 2024, Tzu Chi có tình nguyện viên ở 68 quốc gia và đã cung cấp cứu trợ tại 136 quốc gia
 
-[^36]: [Chuyên trang Đại sư Tinh Vân — trang web chính thức của Phật Quang Sơn](https://www.fgs.org.tw/master/) — tư liệu về việc sáng lập Phật Quang Sơn năm 1967, thành lập hơn 300 chùa trên thế giới, 16 học viện Phật giáo, Đại học Nam Hoa, Đại học Phật Quang và Phật Đà Kỷ Niệm Quán
+[^36]: [Trang của Đại sư Tinh Vân - Trang web Phật Quang Sơn](https://www.fgs.org.tw/master/) — Thành lập Phật Quang Sơn năm 1967, thành lập hơn 300 tự viện trên toàn thế giới, 16 học viện Phật giáo, và sáng lập Đại học Nam Hoa / Đại học Phật Quang / Bảo tàng Phật Đà
 
-[^37]: [Thích Tinh Vân — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%87%8B%E6%98%9F%E9%9B%B2) — viên tịch tại Khai Sơn Liêu thuộc Truyền Đăng Lâu, Phật Quang Sơn, lúc 17 giờ ngày 5 tháng 2 năm 2023, hưởng thọ 97 tuổi
+[^37]: [Thích Tinh Vân - Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%87%8B%E6%98%9F%E9%9B%B2) — Ngài viên tịch tại Miếu Đường Truyền Đăng ở Phật Quang Sơn vào lúc 5 giờ chiều ngày 5 tháng 2 năm 2023, hưởng thọ 97 tuổi
 
-[^38]: [Pháp sư Thánh Nghiêm, người sáng lập Pháp Cổ Sơn — trang web chính thức của Pháp Cổ Sơn](https://www.shengyen.org/bio.php) — lịch sử sáng lập Pháp Cổ Sơn năm 1989, khẩu hiệu “Nâng cao phẩm chất con người, xây dựng tịnh độ nhân gian” năm 1990 và quan niệm “bảo vệ môi trường tâm linh” năm 1992
+[^38]: [Sư phụ Thánh Nghiêm - Người sáng lập Pháp Cổ Sơn - Trang web Pháp Cổ Sơn](https://www.shengyen.org/bio.php) — Lịch sử về việc thành lập Pháp Cổ Sơn vào năm 1989, 'Nâng cao phẩm chất con người, kiến tạo cảnh giới thanh tịnh cho nhân gian' vào năm 1990 và triết lý 'Bảo vệ môi trường tinh thần' vào năm 1992
 
-[^39]: [Trung Đài Thiền Tự: Khởi đầu của Hòa thượng Duy Giác tại Linh Tuyền Tự — trang web chính thức của Trung Đài](https://www.ctworld.org.tw/grandmaster/) — hồ sơ về việc Hòa thượng Duy Giác xây dựng Linh Tuyền Tự ở tuổi 60 vào năm 1987 để nhập thế hoằng pháp
+[^39]: [Chùa Trung Đài: Sự khởi đầu của Hòa thượng Duy Giác tại Linh Tuyền Tự - Trang web Trung Đài](https://www.ctworld.org.tw/grandmaster/) — Hồ sơ về việc Hòa thượng Duy Giác khai phá và xây dựng Linh Tuyền Tự vào năm 1987 khi ngài 60 tuổi để truyền bá Phật pháp
 
-[^40]: [Quá trình hoàn thành Trung Đài Thiền Tự — hướng dẫn đền miếu của Cục Du lịch](https://www.taiwan.net.tw/) — ba năm quy hoạch và bảy năm xây dựng kể từ năm 1992, khánh thành ngày 1 tháng 9 năm 2001 và trở thành đạo trường Thiền tông có quy mô lớn nhất Đài Loan
+[^40]: [Quá trình hoàn thành Chùa Trung Đài - Hướng dẫn đền chùa của Cục Du lịch](https://www.taiwan.net.tw/) — Quy hoạch trong 3 năm và xây dựng trong 7 năm kể từ năm 1992, khánh thành vào ngày 1 tháng 9 năm 2001, là đạo tràng Thiền lớn nhất toàn Đài
 
-[^41]: [Bác sĩ Mã Nhã Các — Tổng hội Giáo hội Trưởng Lão Cơ Đốc Đài Loan](https://www.pct.org.tw/article_peop.aspx?strContentID=C2006041700011) — điểm khởi đầu truyền giáo của Giáo hội Trưởng Lão, với việc đặt chân lên bờ tại Đả Cẩu ngày 28 tháng 5 năm 1865 và bắt đầu truyền giáo, hành nghề y tại phố Khán Tây ngoài cửa tây Phủ Thành ngày 16 tháng 6
+[^41]: [Bác sĩ Mã Nhã Cách - Tổng hội Giáo xứ Cơ Đốc Phục vụ Đài Loan](https://www.pct.org.tw/article_peop.aspx?strContentID=C2006041700011) — Điểm khởi đầu của công tác truyền giáo và y tế của Hội Thánh với việc đổ bộ tại Đả Cẩu vào ngày 28 tháng 5 năm 1865 và hoạt động ở Tây Môn phủ thành vào ngày 16 tháng 6
 
-[^42]: [Bác sĩ Mã Giai — Tổng hội Giáo hội Trưởng Lão Cơ Đốc Đài Loan](https://www.pct.org.tw/article_peop.aspx?strContentID=C2006041700011) — hồ sơ về việc bắt đầu truyền giáo ở miền bắc từ Đạm Thủy ngày 7 tháng 3 năm 1872 và thành lập Oxford College năm 1882
+[^42]: [Tiến sĩ Mã Khải - Tổng hội Giáo xứ Cơ Đốc Phục vụ Đài Loan](https://www.pct.org.tw/article_peop.aspx?strContentID=C2006041700011) — Hồ sơ về công tác truyền giáo phía Bắc bắt đầu từ Tamsui vào ngày 7 tháng 3 năm 1872 và việc thành lập Trường Oxford vào năm 1882
 
-[^43]: [Tuyên ngôn Nhân quyền năm 1977 — Wikipedia](https://zh.wikipedia.org/zh-tw/%E4%BA%BA%E6%AC%8A%E5%AE%A3%E8%A8%80_%281977%E5%B9%B4%29) — toàn văn “Tuyên ngôn Nhân quyền” do Giáo hội Trưởng Lão Cơ Đốc Đài Loan công bố ngày 16 tháng 8 năm 1977, chủ trương “để Đài Loan trở thành một quốc gia mới và độc lập”
+[^43]: [Tuyên ngôn Nhân quyền 1977 - Wikipedia](https://zh.wikipedia.org/zh-tw/%E4%BA%BA%E6%AC%8A%E5%AE%A3%E8%A8%80_%281977%E5%B9%B4%29) — Toàn văn 'Tuyên ngôn Nhân quyền' do Tổng hội Giáo xứ Cơ Đốc Phục vụ Đài Loan công bố vào ngày 16 tháng 8 năm 1977, chủ trương 'làm cho Đài Loan trở thành một quốc gia mới và độc lập'
 
-[^44]: [Công giáo tại Đài Loan — Hiệp hội Giáo vụ Công giáo](https://www.catholic.org.tw/) — lịch sử Đại học Phụ Nhân, sự hợp tác ban đầu với Bệnh viện Mackay và hoạt động phục vụ lâu dài của Hội Truyền giáo Bethlehem trong các cộng đồng người bản địa tại Đài Đông
+[^44]: [Công giáo tại Đài Loan - Hội đồng Giám mục Công giáo](https://www.catholic.org.tw/) — Lịch sử về sự hợp tác ban đầu giữa Đại học Phúc Nhân / Bệnh viện Mã Khải và sự đóng góp lâu dài của các nhà truyền giáo nước ngoài người Bạch Lãnh trong việc phục vụ các bộ lạc bản địa ở Taitung
 
-[^45]: [Freedom House 2025: Đài Loan đứng thứ hai châu Á](https://hakkanews.tw/2025/02/26/183472/) — bản tin của Hakka News về việc Đài Loan đạt 94 điểm trong báo cáo Tự do Toàn cầu năm 2025, đứng thứ hai châu Á, chỉ sau Nhật Bản
+[^45]: [Freedom House 2025: Đài Loan xếp hạng thứ 2 Châu Á](https://hakkanews.tw/2025/02/26/183472/) — Báo cáo tin tức từ khách báo cho biết Đài Loan đạt 94 điểm và đứng thứ 2 châu Á (chỉ sau Nhật Bản) trong Báo cáo Tự do Toàn cầu năm 2025
