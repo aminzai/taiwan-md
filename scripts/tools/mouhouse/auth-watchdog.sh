@@ -93,7 +93,9 @@ elif [ -n "$DAYS_SINCE" ] && [ "$DAYS_SINCE" -gt "$EXPIRY_DAYS" ]; then
 elif [ -n "$DAYS_SINCE" ] && [ "$DAYS_SINCE" -ge "$WARN_AT_DAYS" ]; then
   LEVEL="warn"
   LEFT=$(( EXPIRY_DAYS - DAYS_SINCE ))
-  TITLE="mouhouse 登入將在約 ${LEFT} 天後過期（登入日 ${LOGIN_DATE}，看門狗提醒 $TODAY）"
+  # 標題寫絕對日期不寫相對天數：相對天數一旦凍住就是錯的，絕對日期凍住還是對的。
+  EXPIRY_DATE=$(date -j -v+"${LEFT}"d '+%Y-%m-%d' 2>/dev/null || date -d "+${LEFT} days" '+%Y-%m-%d' 2>/dev/null || echo "$TODAY+${LEFT}d")
+  TITLE="mouhouse 登入預估 ${EXPIRY_DATE} 過期，剩約 ${LEFT} 天（登入日 ${LOGIN_DATE}，看門狗更新 $TODAY）"
   BODY=$(printf 'Claude Desktop 的登入 session 是 30 天固定壽命（2026-07-24 登入 → 08-23 過期，四天零產出）。目前登入日 %s，已 %s 天，預估 %s 天後過期。\n\n**建議這幾天在 mouhouse 重新登入一次**，登入後看門狗會自動記下新日期。\n\n背景：reports/mouhouse-blackout-root-cause-2026-09-05.md · OBSERVER-QUEUE #49。本 issue 由 `scripts/tools/mouhouse/auth-watchdog.sh` 開。🧬' "$LOGIN_DATE" "$DAYS_SINCE" "$LEFT")
 fi
 
@@ -109,6 +111,11 @@ gh label list -R "$REPO" --search auth-stale --json name --jq '.[].name' 2>/dev/
   || gh label create auth-stale -R "$REPO" --color B60205 --description "mouhouse Claude Desktop 登入過期／即將過期（auth-watchdog）" >/dev/null 2>&1 || true
 EXISTING=$(gh issue list -R "$REPO" --label auth-stale --state open --json number --jq '.[0].number' 2>/dev/null || echo "")
 if [ -n "$EXISTING" ]; then
+  # 標題跟著倒數一起改，不是只補一則留言（2026-09-24 maintainer-am）：
+  # 標題原本只在 gh issue create 用得到，所以它會凍在開票那天的讀數。#1761 開票時寫「約 5 天」，
+  # 三天後留言區已倒數到 3 天而標題還是 5 天——而 issue 清單只看得到標題。最該被一眼看見的那一則，
+  # 在唯一會被掃過的那個畫面上，隨著愈接近過期愈安靜。
+  gh issue edit "$EXISTING" -R "$REPO" --title "$TITLE" >/dev/null 2>&1 && say "標題更新為：$TITLE"
   gh issue comment "$EXISTING" -R "$REPO" --body "$BODY" >/dev/null && say "留言到既有 issue #$EXISTING"
 else
   URL=$(gh issue create -R "$REPO" --title "$TITLE" --body "$BODY" --label auth-stale 2>/dev/null) && say "開 issue：$URL"
