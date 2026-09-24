@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-24T08:54:49+08:00",
-    "zhCommitHead": "d1fb11e8c",
+    "lastUpdated": "2026-09-24T09:04:52+08:00",
+    "zhCommitHead": "d1b54cea8",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 982,
+        "fresh": 983,
         "stale": 3,
         "metadata_stale": 0,
-        "missing": 139,
+        "missing": 138,
         "orphan": 0
       }
     },
@@ -36347,11 +36347,11 @@
           "sourceContentHash": "sha256:4eec1818bd85149d",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-23T23:46:36.531888+00:00",
-          "translationLastCommit": "c64976e8",
-          "translationLastModified": "2026-09-22T01:09:03+08:00",
+          "translationLastCommit": "d1b54cea",
+          "translationLastModified": "2026-09-24T08:54:49+08:00",
           "inferred": false,
           "footnoteDefs": 72,
-          "bytes": 70401,
+          "bytes": 70407,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -113629,8 +113629,8 @@
           "sourceContentHash": "sha256:4de98c280e186c57",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T00:21:10.423713+00:00",
-          "translationLastCommit": "c64976e8",
-          "translationLastModified": "2026-09-22T01:09:03+08:00",
+          "translationLastCommit": "d1b54cea",
+          "translationLastModified": "2026-09-24T08:54:49+08:00",
           "inferred": false,
           "footnoteDefs": 62,
           "bytes": 72198,
@@ -186660,11 +186660,11 @@
           "sourceContentHash": "sha256:02c38601d122ae9f",
           "sourceBodyHash": "sha256:2e7aefb4f30ec2e9",
           "translatedAt": "2026-09-23T22:11:58+08:00",
-          "translationLastCommit": "4d154e53",
-          "translationLastModified": "2026-07-29T09:12:58+08:00",
+          "translationLastCommit": "d1b54cea",
+          "translationLastModified": "2026-09-24T08:54:49+08:00",
           "inferred": false,
           "footnoteDefs": 19,
-          "bytes": 69138,
+          "bytes": 69144,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -192854,7 +192854,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Geography/gueishan-island.md",
+          "translatedFrom": "Geography/龜山島.md",
+          "sourceCommitSha": "47ff13e07",
+          "sourceContentHash": "sha256:acb674b180da7910",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T00:45:17.648160+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 38,
+          "bytes": 66138,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
