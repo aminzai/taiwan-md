@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-25T05:05:39+08:00",
-    "zhCommitHead": "15ce75c80",
+    "lastUpdated": "2026-09-25T05:20:02+08:00",
+    "zhCommitHead": "2dcfb2538",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 1061,
+        "fresh": 1062,
         "stale": 19,
         "metadata_stale": 0,
-        "missing": 44,
+        "missing": 43,
         "orphan": 0
       },
       "ru": {
@@ -60811,8 +60811,8 @@
           "sourceContentHash": "sha256:d8c6b002cc3ec35d",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T20:43:34.627565+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2dcfb253",
+          "translationLastModified": "2026-09-25T05:05:39+08:00",
           "inferred": false,
           "footnoteDefs": 41,
           "bytes": 106317,
@@ -88775,8 +88775,8 @@
           "sourceContentHash": "sha256:98482d1a94d7ac85",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T19:20:14.641216+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2dcfb253",
+          "translationLastModified": "2026-09-25T05:05:39+08:00",
           "inferred": false,
           "footnoteDefs": 39,
           "bytes": 121139,
@@ -192926,7 +192926,20 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Geography/kaohsiung-city.md",
+          "translatedFrom": "Geography/高雄市.md",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:981f398813aadaf3",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T20:37:09.236482+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 33,
+          "bytes": 96926,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Geography/kaohsiung-city.md",
@@ -202986,8 +202999,8 @@
           "sourceContentHash": "sha256:b1932b90a96124c5",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T20:12:15.483202+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2dcfb253",
+          "translationLastModified": "2026-09-25T05:05:39+08:00",
           "inferred": false,
           "footnoteDefs": 46,
           "bytes": 92457,
