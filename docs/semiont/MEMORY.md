@@ -354,3 +354,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-24 | 060314-twmd-data-refresh-am | 第十九夜讓場 14 步全綠零 stale；排程快照先落檔，面板 stale_hours 24→0；pathspec 收官留下 14 檔索引殘影，清掉並補 LESSONS vc=3 | 手動排對的順序留不給下一班；解法要看它防的，也看它留下的 | [→](memory/2026-09-24-060314-twmd-data-refresh-am.md) |
 | 2026-09-24 | 064212-twmd-spore-harvest-am | Chrome 一探即連；兩動態頁 0 新留言 0 桶 0 ship 合法 no-op；已決決定的「未拍板」誤抄今晨三班零新增 | 沒被抄是讀到更正，不是被攔下；空白跟被攔在紀錄上同形 | [→](memory/2026-09-24-064212-twmd-spore-harvest-am.md) |
 | 2026-09-24 | 071058-twmd-feedback-triage | 第四輪零回報仍跑完 `--commit`，兩道對賬 87/87 與 86/87 全綠（#1252 上游刪留言 git 留著）；兩則 open 的讀者 issue 補上第 28／19 天 | 對賬核得出紀錄的份數與則數，核不出讀者等了幾天 | [→](memory/2026-09-24-071058-twmd-feedback-triage.md) |
+| 2026-09-24 | 084757-twmd-maintainer-am | aminzai 三篇譯文收下（閘門跑在隔離工作樹避開 dispatcher 的 index）；登入警報的標題凍在開票那天、清單上愈來愈小聲，當班修掉；#1609 查證路徑從「翻兩冊實體書」縮到剩一次登入 | 警報的大聲程度要跟著倒數走；縮小範圍會產生進展感，於是沒人問有沒有別條路 | [→](memory/2026-09-24-084757-twmd-maintainer-am.md) |
