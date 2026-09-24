@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-24T12:54:57+08:00",
-    "zhCommitHead": "4d74f3a21",
+    "lastUpdated": "2026-09-24T13:32:23+08:00",
+    "zhCommitHead": "f6d00f837",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -36,8 +36,8 @@
       },
       "ko": {
         "total_zh": 1124,
-        "fresh": 1083,
-        "stale": 27,
+        "fresh": 1084,
+        "stale": 26,
         "metadata_stale": 0,
         "missing": 14,
         "orphan": 0
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1057,
+        "fresh": 1058,
         "stale": 22,
         "metadata_stale": 1,
-        "missing": 44,
+        "missing": 43,
         "orphan": 0
       },
       "de": {
@@ -22198,7 +22198,20 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Economy/acer-pc-industry-pioneer.md",
+          "translatedFrom": "Economy/台灣企業：宏碁.md",
+          "sourceCommitSha": "a94bbcf6b",
+          "sourceContentHash": "sha256:d376a35c550402b2",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T04:42:08.241129+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 56,
+          "bytes": 96834,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Economy/acer-pc-industry-pioneer.md",
@@ -46019,8 +46032,8 @@
           "sourceContentHash": "sha256:71a07c5ea0f34a1e",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T02:58:56.035103+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f6d00f83",
+          "translationLastModified": "2026-09-24T12:54:57+08:00",
           "inferred": false,
           "footnoteDefs": 38,
           "bytes": 146558,
@@ -63063,20 +63076,18 @@
         "ko": {
           "path": "ko/Society/pts-public-television-service.md",
           "translatedFrom": "Society/公視.md",
-          "sourceCommitSha": "81f10131",
-          "sourceContentHash": "sha256:5d55767b0e73ce88",
-          "sourceBodyHash": "sha256:55150dbbe846399a",
-          "translatedAt": "2026-06-22T00:30:00+08:00",
+          "sourceCommitSha": "6b09bda3b",
+          "sourceContentHash": "sha256:4db765c86303453e",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T05:08:52.690941+00:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 43,
-          "bytes": 42314,
+          "bytes": 43971,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Society/pts-public-television-service.md",
