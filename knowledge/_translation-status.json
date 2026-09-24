@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-25T03:49:46+08:00",
-    "zhCommitHead": "9ce629e6b",
+    "lastUpdated": "2026-09-25T04:33:53+08:00",
+    "zhCommitHead": "212727cab",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -52,8 +52,8 @@
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1089,
-        "stale": 25,
+        "fresh": 1090,
+        "stale": 24,
         "metadata_stale": 0,
         "missing": 10,
         "orphan": 0
@@ -68,50 +68,50 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 1042,
+        "fresh": 1044,
         "stale": 31,
         "metadata_stale": 0,
-        "missing": 51,
+        "missing": 49,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1083,
+        "fresh": 1086,
         "stale": 16,
         "metadata_stale": 0,
-        "missing": 25,
+        "missing": 22,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 1038,
+        "fresh": 1039,
         "stale": 17,
         "metadata_stale": 0,
-        "missing": 69,
+        "missing": 68,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 1059,
+        "fresh": 1060,
         "stale": 19,
         "metadata_stale": 0,
-        "missing": 46,
+        "missing": 45,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1069,
-        "stale": 18,
+        "fresh": 1070,
+        "stale": 17,
         "metadata_stale": 1,
         "missing": 36,
         "orphan": 0
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 997,
+        "fresh": 999,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 125,
+        "missing": 123,
         "orphan": 0
       }
     },
@@ -49484,7 +49484,20 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Lifestyle/toll-station.md",
+          "translatedFrom": "Lifestyle/收費站.md",
+          "sourceCommitSha": "09ffe560f",
+          "sourceContentHash": "sha256:cffdc6c150dee65c",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T19:38:31.767929+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 31,
+          "bytes": 49504,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Lifestyle/toll-station.md",
@@ -57792,7 +57805,20 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Society/becoming-a-teacher-taiwan-teacher-training.md",
+          "translatedFrom": "Society/一個教師的誕生：台灣師資培育制度.md",
+          "sourceCommitSha": "bb059332d",
+          "sourceContentHash": "sha256:cc5bd7cfca8af637",
+          "sourceBodyHash": "sha256:073e34a439566b72",
+          "translatedAt": "2026-09-25T01:48:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "bytes": 40874,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Society/becoming-a-teacher-taiwan-teacher-training.md",
@@ -59601,7 +59627,20 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Society/pansci.md",
+          "translatedFrom": "Society/泛科學.md",
+          "sourceCommitSha": "2ed57e086",
+          "sourceContentHash": "sha256:81628aa1fa2a0014",
+          "sourceBodyHash": "sha256:004993e686695dd6",
+          "translatedAt": "2026-09-25T01:48:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "bytes": 29999,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Society/pansci.md",
@@ -100043,7 +100082,20 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/luo-dayou.md",
+          "translatedFrom": "People/羅大佑.md",
+          "sourceCommitSha": "ac1d187af",
+          "sourceContentHash": "sha256:2bd311f3a1309672",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T20:11:41.027328+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 30,
+          "bytes": 37680,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -120912,7 +120964,20 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/red-shin-minecraft-youtuber.md",
+          "translatedFrom": "People/阿神.md",
+          "sourceCommitSha": "fb7f4f824",
+          "sourceContentHash": "sha256:5d4d8978fc43c7cd",
+          "sourceBodyHash": "sha256:02c4e1b3fececdae",
+          "translatedAt": "2026-09-25T01:48:22+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "bytes": 32636,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -139710,20 +139775,18 @@
         "fr": {
           "path": "fr/People/nieh-yung-jen.md",
           "translatedFrom": "People/聶永真.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:af655ef71174b4b7",
-          "sourceBodyHash": "sha256:8bdb4d64fdb3b5e7",
-          "translatedAt": "2026-06-16T17:05:54Z",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:54a5de1265f2b2ea",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T19:52:03.540930+00:00",
           "translationLastCommit": "e137dda5",
           "translationLastModified": "2026-07-31T00:55:37+08:00",
           "inferred": false,
           "footnoteDefs": 31,
-          "bytes": 50552,
+          "bytes": 50035,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+11 -10"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/People/nieh-yung-jen.md",
@@ -187071,8 +187134,8 @@
           "sourceContentHash": "sha256:d42a13d401176a58",
           "sourceBodyHash": "sha256:240cad04d9fcb9fe",
           "translatedAt": "2026-09-24T18:43:12.577443+00:00",
-          "translationLastCommit": "0565ddd4",
-          "translationLastModified": "2026-09-22T01:09:08+08:00",
+          "translationLastCommit": "9ce629e6",
+          "translationLastModified": "2026-09-25T03:49:40+08:00",
           "inferred": false,
           "footnoteDefs": 36,
           "bytes": 85698,
@@ -195035,8 +195098,8 @@
           "sourceContentHash": "sha256:7f5850e64dc6fc40",
           "sourceBodyHash": "sha256:201a3e94e3e4fbf2",
           "translatedAt": "2026-09-25T01:48:19+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "212727ca",
+          "translationLastModified": "2026-09-25T03:49:46+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "bytes": 28111,
@@ -202888,7 +202951,20 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Culture/taiwan-indigo-dyeing.md",
+          "translatedFrom": "Culture/藍染.md",
+          "sourceCommitSha": "a43cf9153",
+          "sourceContentHash": "sha256:b1932b90a96124c5",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T20:12:15.483202+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 46,
+          "bytes": 92457,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Culture/taiwan-indigo-dyeing.md",
@@ -207947,7 +208023,20 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/donggang-king-boat-festival.md",
+          "translatedFrom": "Culture/東港迎王船.md",
+          "sourceCommitSha": "3f9e184dc",
+          "sourceContentHash": "sha256:d56573864b826475",
+          "sourceBodyHash": "sha256:1750eec6a44e0473",
+          "translatedAt": "2026-09-25T01:48:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "bytes": 31943,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -208136,7 +208225,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/hakka-culture-and-language.md",
+          "translatedFrom": "Culture/客家文化與語言.md",
+          "sourceCommitSha": "a43cf9153",
+          "sourceContentHash": "sha256:b03d6ffbe269bd62",
+          "sourceBodyHash": "sha256:b5324c6cea623600",
+          "translatedAt": "2026-09-25T01:48:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "bytes": 21658,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -209677,8 +209779,8 @@
           "sourceContentHash": "sha256:7fbac409f18267e1",
           "sourceBodyHash": "sha256:7132650f96a1d22a",
           "translatedAt": "2026-09-25T01:48:23+08:00",
-          "translationLastCommit": "9d4f7166",
-          "translationLastModified": "2026-07-25T10:40:03+08:00",
+          "translationLastCommit": "9ce629e6",
+          "translationLastModified": "2026-09-25T03:49:40+08:00",
           "inferred": false,
           "footnoteDefs": 28,
           "bytes": 97566,
@@ -210673,18 +210775,18 @@
         "ru": {
           "path": "ru/Culture/taiwan-furry-culture.md",
           "translatedFrom": "Culture/台灣獸迷文化.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:fb754fde867da6b6",
-          "sourceBodyHash": "sha256:b8b517c948537006",
-          "translatedAt": "2026-07-25T05:00:16+08:00",
+          "sourceCommitSha": "4a95859b1",
+          "sourceContentHash": "sha256:7f4fc66b36800cb9",
+          "sourceBodyHash": "sha256:3e6fa91c9ef25405",
+          "translatedAt": "2026-09-25T01:48:23+08:00",
           "translationLastCommit": "5c95aa21",
           "translationLastModified": "2026-07-25T05:30:09+08:00",
           "inferred": false,
-          "footnoteDefs": 9,
-          "bytes": 16120,
+          "footnoteDefs": 10,
+          "bytes": 35060,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (10→9)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Culture/taiwan-furry-culture.md",
@@ -215375,7 +215477,20 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Culture/taiwanese-tea-culture-and-living-aesthetics.md",
+          "translatedFrom": "Culture/台灣茶文化.md",
+          "sourceCommitSha": "4aabbe030",
+          "sourceContentHash": "sha256:8649216212301e4d",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T19:56:27.871226+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 32,
+          "bytes": 73288,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Culture/taiwanese-tea-culture-and-living-aesthetics.md",
