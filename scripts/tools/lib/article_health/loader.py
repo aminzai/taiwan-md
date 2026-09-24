@@ -215,6 +215,13 @@ def _derive_meta_from_path(path: Path) -> tuple[str, str, str]:
     try:
         idx = parts.index("knowledge")
     except ValueError:
+        # dispatcher 隔離區的檔名是 `{lang}--{slug}.md`（verify-translation 的
+        # detect_lang 早就認得）。2026-09-25 前這裡一律回 zh-TW，對隔離樣本跑
+        # 健檢會讓中文標點規則打在印尼文、葡文上，診斷的人拿到一整排假的
+        # cjk-punct，真正的失敗原因（幻覺 wikilink、腳註格式）被埋在後面。
+        m = re.fullmatch(r"([a-z]{2})--(.+)", path.stem)
+        if m and m.group(1) in _LANG_DIRS:
+            return (m.group(1), "", m.group(2))
         return ("zh-TW", "", path.stem)
     rest = parts[idx + 1 :]
     if not rest:
