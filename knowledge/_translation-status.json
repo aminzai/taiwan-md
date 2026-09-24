@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-24T14:47:30+08:00",
-    "zhCommitHead": "a43d14764",
+    "lastUpdated": "2026-09-24T15:16:40+08:00",
+    "zhCommitHead": "c70c2645b",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,24 +20,24 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1088,
-        "stale": 21,
+        "fresh": 1089,
+        "stale": 20,
         "metadata_stale": 0,
         "missing": 15,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 1005,
+        "fresh": 1006,
         "stale": 62,
         "metadata_stale": 0,
-        "missing": 57,
+        "missing": 56,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1124,
-        "fresh": 1084,
-        "stale": 26,
+        "fresh": 1085,
+        "stale": 25,
         "metadata_stale": 0,
         "missing": 14,
         "orphan": 0
@@ -60,10 +60,10 @@
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 1101,
+        "fresh": 1102,
         "stale": 12,
         "metadata_stale": 0,
-        "missing": 11,
+        "missing": 10,
         "orphan": 0
       },
       "id": {
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 1028,
+        "fresh": 1029,
         "stale": 19,
         "metadata_stale": 0,
-        "missing": 77,
+        "missing": 76,
         "orphan": 0
       },
       "ar": {
@@ -6898,7 +6898,20 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Music/elephant-gymnastics.md",
+          "translatedFrom": "Music/大象體操.md",
+          "sourceCommitSha": "8547b2665",
+          "sourceContentHash": "sha256:71cdc104f7f3b8f4",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T06:23:05.238653+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 56,
+          "bytes": 96776,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Music/elephant-gymnastics.md",
@@ -63091,8 +63104,8 @@
           "sourceContentHash": "sha256:4db765c86303453e",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T05:08:52.690941+00:00",
-          "translationLastCommit": "f74fbaae",
-          "translationLastModified": "2026-07-27T18:59:24+08:00",
+          "translationLastCommit": "c70c2645",
+          "translationLastModified": "2026-09-24T14:47:30+08:00",
           "inferred": false,
           "footnoteDefs": 43,
           "bytes": 43971,
@@ -108262,7 +108275,20 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/People/lin-chia-chen-singer.md",
+          "translatedFrom": "People/林佳辰.md",
+          "sourceCommitSha": "2187c1c9c",
+          "sourceContentHash": "sha256:11fc2d2ddbeac051",
+          "sourceBodyHash": "sha256:ecc6d9a502536bda",
+          "translatedAt": "2026-09-23T22:11:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "bytes": 30791,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/lin-chia-chen-singer.md",
@@ -120476,18 +120502,18 @@
         "en": {
           "path": "en/People/red-shin-minecraft-youtuber.md",
           "translatedFrom": "People/阿神.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:c0745c4b9d2ae295",
-          "sourceBodyHash": "sha256:c2f250d5a21d59eb",
-          "translatedAt": "2026-05-01T12:53:58+08:00",
+          "sourceCommitSha": "fb7f4f824",
+          "sourceContentHash": "sha256:5d4d8978fc43c7cd",
+          "sourceBodyHash": "sha256:02c4e1b3fececdae",
+          "translatedAt": "2026-09-23T22:11:44+08:00",
           "translationLastCommit": "29e0766d",
           "translationLastModified": "2026-07-25T10:34:23+08:00",
           "inferred": false,
-          "footnoteDefs": 9,
-          "bytes": 11510,
+          "footnoteDefs": 18,
+          "bytes": 31381,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (18→9)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/People/red-shin-minecraft-youtuber.md",
@@ -218369,20 +218395,18 @@
         "ko": {
           "path": "ko/Culture/eslite-bookstore.md",
           "translatedFrom": "Culture/誠品書店.md",
-          "sourceCommitSha": "63ad1b2b8",
-          "sourceContentHash": "sha256:ec07a1faa117e7b7",
-          "sourceBodyHash": "sha256:49e3639b8d3ada20",
-          "translatedAt": "2026-09-12T22:04:14+08:00",
+          "sourceCommitSha": "4f3974f86",
+          "sourceContentHash": "sha256:3b7540877760c9ee",
+          "sourceBodyHash": "sha256:2e2b5a8142de57dd",
+          "translatedAt": "2026-09-23T22:11:48+08:00",
           "translationLastCommit": "3c20aad3",
           "translationLastModified": "2026-09-22T00:49:37+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "bytes": 36744,
+          "bytes": 35899,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+47 -8"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Culture/eslite-bookstore.md",
@@ -220446,7 +220470,20 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Culture/taiwan-cats-eye-nephrite.md",
+          "translatedFrom": "Culture/貓眼石.md",
+          "sourceCommitSha": "998b8bdb1",
+          "sourceContentHash": "sha256:51233924254f4114",
+          "sourceBodyHash": "sha256:3a79800811848f46",
+          "translatedAt": "2026-09-23T22:11:54+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 19,
+          "bytes": 43992,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Culture/taiwan-cats-eye-nephrite.md",
