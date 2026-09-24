@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-25T06:13:43+08:00",
-    "zhCommitHead": "059426a58",
+    "lastUpdated": "2026-09-25T06:14:00+08:00",
+    "zhCommitHead": "f5b6a0530",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 1000,
+        "fresh": 1001,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 122,
+        "missing": 121,
         "orphan": 0
       }
     },
@@ -206883,7 +206883,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/dragon-boat-festival.md",
+          "translatedFrom": "Culture/端午節.md",
+          "sourceCommitSha": "58fa84f01",
+          "sourceContentHash": "sha256:c31335e314326f55",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T22:00:14.829818+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 38,
+          "bytes": 54961,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
