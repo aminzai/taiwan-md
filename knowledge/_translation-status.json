@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-24T23:44:08+08:00",
-    "zhCommitHead": "576c1d33f",
+    "lastUpdated": "2026-09-25T00:03:11+08:00",
+    "zhCommitHead": "0914d4bf0",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -36,10 +36,10 @@
       },
       "ko": {
         "total_zh": 1124,
-        "fresh": 1089,
+        "fresh": 1090,
         "stale": 21,
         "metadata_stale": 0,
-        "missing": 14,
+        "missing": 13,
         "orphan": 0
       },
       "es": {
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 1033,
+        "fresh": 1034,
         "stale": 18,
         "metadata_stale": 0,
-        "missing": 73,
+        "missing": 72,
         "orphan": 0
       },
       "ar": {
@@ -59937,7 +59937,20 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Society/remote-area-schools-education-act.md",
+          "translatedFrom": "Society/偏遠地區學校教育發展條例全解.md",
+          "sourceCommitSha": "d7a109601",
+          "sourceContentHash": "sha256:3a5b64aac1eb2c2e",
+          "sourceBodyHash": "sha256:1640a85ec53af696",
+          "translatedAt": "2026-09-24T22:04:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "bytes": 108015,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Society/remote-area-schools-education-act.md",
@@ -141218,7 +141231,20 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/People/frank-huang-psmc.md",
+          "translatedFrom": "People/黃崇仁.md",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:db74afff74180364",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T15:47:08.519257+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 62,
+          "bytes": 72901,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "status": "missing"
@@ -190887,8 +190913,8 @@
           "sourceContentHash": "sha256:446265901543dd85",
           "sourceBodyHash": "sha256:2daf1a831ec93084",
           "translatedAt": "2026-09-24T22:04:27+08:00",
-          "translationLastCommit": "1c89db9a",
-          "translationLastModified": "2026-09-22T01:05:58+08:00",
+          "translationLastCommit": "0914d4bf",
+          "translationLastModified": "2026-09-24T23:44:08+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "bytes": 34910,
