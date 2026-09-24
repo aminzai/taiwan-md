@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-24T13:32:23+08:00",
-    "zhCommitHead": "f6d00f837",
+    "lastUpdated": "2026-09-24T14:03:25+08:00",
+    "zhCommitHead": "35e6d7f9d",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 1004,
+        "fresh": 1005,
         "stale": 62,
         "metadata_stale": 0,
-        "missing": 58,
+        "missing": 57,
         "orphan": 0
       },
       "ko": {
@@ -60,9 +60,9 @@
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 1099,
+        "fresh": 1100,
         "stale": 13,
-        "metadata_stale": 1,
+        "metadata_stale": 0,
         "missing": 11,
         "orphan": 0
       },
@@ -84,26 +84,26 @@
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 1027,
+        "fresh": 1028,
         "stale": 19,
         "metadata_stale": 0,
-        "missing": 78,
+        "missing": 77,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 1048,
+        "fresh": 1049,
         "stale": 21,
         "metadata_stale": 0,
-        "missing": 55,
+        "missing": 54,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1124,
-        "fresh": 1058,
+        "fresh": 1059,
         "stale": 22,
         "metadata_stale": 1,
-        "missing": 43,
+        "missing": 42,
         "orphan": 0
       },
       "de": {
@@ -1597,7 +1597,20 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Music/golden-melodies-legacy-taiwan-pop-music.md",
+          "translatedFrom": "Music/台灣流行音樂.md",
+          "sourceCommitSha": "1e1040928",
+          "sourceContentHash": "sha256:4517347444f75a1c",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T05:35:14.656141+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 58,
+          "bytes": 82435,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Music/golden-melodies-legacy-taiwan-pop-music.md",
@@ -70479,7 +70492,20 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Society/chinese-taipei.md",
+          "translatedFrom": "Society/中華台北.md",
+          "sourceCommitSha": "bbd8788a3",
+          "sourceContentHash": "sha256:7318206b6cc4ec7b",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T05:29:01.770583+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 38,
+          "bytes": 101865,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Society/chinese-taipei.md",
@@ -104908,7 +104934,20 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/People/li-ke-tai-tai.md",
+          "translatedFrom": "People/理科太太.md",
+          "sourceCommitSha": "3d8f3df35",
+          "sourceContentHash": "sha256:b1932f2a73ba90a1",
+          "sourceBodyHash": "sha256:256049c552528280",
+          "translatedAt": "2026-09-23T22:11:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "bytes": 30967,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/li-ke-tai-tai.md",
@@ -162285,11 +162324,11 @@
           "sourceContentHash": "sha256:e8ef7d9d72df6a42",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T03:47:15.543120+00:00",
-          "translationLastCommit": "4a07538f",
-          "translationLastModified": "2026-07-25T10:29:52+08:00",
+          "translationLastCommit": "35e6d7f9",
+          "translationLastModified": "2026-09-24T13:32:23+08:00",
           "inferred": false,
           "footnoteDefs": 40,
-          "bytes": 58051,
+          "bytes": 58053,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -188799,11 +188838,11 @@
           "sourceContentHash": "sha256:5b1e9a773d6dbaca",
           "sourceBodyHash": "sha256:c9f1ea2022062b04",
           "translatedAt": "2026-09-23T22:11:50+08:00",
-          "translationLastCommit": "de52e731",
-          "translationLastModified": "2026-09-22T01:05:46+08:00",
+          "translationLastCommit": "35e6d7f9",
+          "translationLastModified": "2026-09-24T13:32:23+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "bytes": 52940,
+          "bytes": 52942,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -191039,7 +191078,20 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Geography/ximending.md",
+          "translatedFrom": "Geography/西門町.md",
+          "sourceCommitSha": "49728f9d5",
+          "sourceContentHash": "sha256:0ee777992a128197",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T05:34:06.989110+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 33,
+          "bytes": 84992,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Geography/ximending.md",
@@ -208470,20 +208522,18 @@
         "vi": {
           "path": "vi/Culture/traditional-crafts-intangible-cultural-heritage.md",
           "translatedFrom": "Culture/台灣傳統工藝與無形文化資產.md",
-          "sourceCommitSha": "12cf33d8c",
-          "sourceContentHash": "sha256:0e116841e98362b0",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:d8ceca8d969bbb7a",
           "sourceBodyHash": "sha256:8d311f99ab1ace9b",
-          "translatedAt": "2026-07-27T22:12:14+08:00",
+          "translatedAt": "2026-09-23T22:11:54+08:00",
           "translationLastCommit": "a2e068fd",
           "translationLastModified": "2026-07-28T04:37:47+08:00",
           "inferred": false,
           "footnoteDefs": 29,
-          "bytes": 46198,
+          "bytes": 51353,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+8 -8"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Culture/traditional-crafts-intangible-cultural-heritage.md",
