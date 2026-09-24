@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-24T14:03:25+08:00",
-    "zhCommitHead": "35e6d7f9d",
+    "lastUpdated": "2026-09-24T14:21:03+08:00",
+    "zhCommitHead": "5f1974b9a",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1087,
-        "stale": 22,
+        "fresh": 1088,
+        "stale": 21,
         "metadata_stale": 0,
         "missing": 15,
         "orphan": 0
@@ -44,8 +44,8 @@
       },
       "es": {
         "total_zh": 1124,
-        "fresh": 1075,
-        "stale": 35,
+        "fresh": 1076,
+        "stale": 34,
         "metadata_stale": 0,
         "missing": 14,
         "orphan": 0
@@ -60,8 +60,8 @@
       },
       "vi": {
         "total_zh": 1124,
-        "fresh": 1100,
-        "stale": 13,
+        "fresh": 1101,
+        "stale": 12,
         "metadata_stale": 0,
         "missing": 11,
         "orphan": 0
@@ -1152,18 +1152,18 @@
         "en": {
           "path": "en/Music/taiwan-instrument-making-from-houli-saxophones-to-global-music-factories.md",
           "translatedFrom": "Music/台灣樂器製造.md",
-          "sourceCommitSha": "ce74fa26",
-          "sourceContentHash": "sha256:d7bd090bae6990bf",
-          "sourceBodyHash": "sha256:381c1171bf2bf67f",
-          "translatedAt": "2026-06-05T16:40:22Z",
+          "sourceCommitSha": "b4f3dab63",
+          "sourceContentHash": "sha256:384848975d3b840a",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T05:39:15.613604+00:00",
           "translationLastCommit": "29e0766d",
           "translationLastModified": "2026-07-25T10:34:23+08:00",
           "inferred": false,
-          "footnoteDefs": 10,
-          "bytes": 22018,
+          "footnoteDefs": 46,
+          "bytes": 46982,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (46→10)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Music/taiwan-instrument-making-from-houli-saxophones-to-global-music-factories.md",
@@ -12226,20 +12226,18 @@
         "es": {
           "path": "es/Economy/aama-taipei-cradle-program.md",
           "translatedFrom": "Economy/AAMA台北搖籃計畫.md",
-          "sourceCommitSha": "2e6738999",
-          "sourceContentHash": "sha256:c03fa77efb2f6e8c",
-          "sourceBodyHash": "sha256:8e73793f11fceb53",
-          "translatedAt": "2026-07-24T10:40:42+08:00",
+          "sourceCommitSha": "4f3974f86",
+          "sourceContentHash": "sha256:ab3b9104eaaaac16",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T05:58:34.995911+00:00",
           "translationLastCommit": "4a07538f",
           "translationLastModified": "2026-07-25T10:29:52+08:00",
           "inferred": false,
           "footnoteDefs": 39,
-          "bytes": 41989,
+          "bytes": 44374,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -5"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Economy/aama-taipei-cradle-program.md",
@@ -193112,8 +193110,8 @@
           "sourceContentHash": "sha256:45cce9092926094b",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T04:15:12.961650+00:00",
-          "translationLastCommit": "74349bb6",
-          "translationLastModified": "2026-09-24T01:05:06+08:00",
+          "translationLastCommit": "5f1974b9",
+          "translationLastModified": "2026-09-24T14:03:25+08:00",
           "inferred": false,
           "footnoteDefs": 40,
           "bytes": 57404,
@@ -198568,20 +198566,18 @@
         "vi": {
           "path": "vi/Culture/taiwan-religion-and-temple-culture.md",
           "translatedFrom": "Culture/台灣宗教與寺廟文化.md",
-          "sourceCommitSha": "d56c5a60",
-          "sourceContentHash": "sha256:518362b111919aa4",
-          "sourceBodyHash": "sha256:b2ec869950288157",
-          "translatedAt": "2026-07-18T18:59:51+08:00",
+          "sourceCommitSha": "4f3974f86",
+          "sourceContentHash": "sha256:e70a2042c1d5dde1",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T06:05:55.069724+00:00",
           "translationLastCommit": "7b1f253e",
           "translationLastModified": "2026-07-27T20:10:10+08:00",
           "inferred": false,
           "footnoteDefs": 45,
-          "bytes": 49369,
+          "bytes": 47486,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -5"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Culture/taiwan-religion-and-temple-culture.md",
