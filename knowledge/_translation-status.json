@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-24T23:39:43+08:00",
-    "zhCommitHead": "2e8b30e24",
+    "lastUpdated": "2026-09-24T23:44:08+08:00",
+    "zhCommitHead": "576c1d33f",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -44,8 +44,8 @@
       },
       "es": {
         "total_zh": 1124,
-        "fresh": 1082,
-        "stale": 28,
+        "fresh": 1083,
+        "stale": 27,
         "metadata_stale": 0,
         "missing": 14,
         "orphan": 0
@@ -51043,8 +51043,8 @@
           "sourceContentHash": "sha256:e67ede9cedeaf7ed",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T14:08:19.470580+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "576c1d33",
+          "translationLastModified": "2026-09-24T23:39:43+08:00",
           "inferred": false,
           "footnoteDefs": 72,
           "bytes": 106254,
@@ -120692,8 +120692,8 @@
           "sourceContentHash": "sha256:5d4d8978fc43c7cd",
           "sourceBodyHash": "sha256:02c4e1b3fececdae",
           "translatedAt": "2026-09-23T22:11:52+08:00",
-          "translationLastCommit": "425a1d47",
-          "translationLastModified": "2026-07-25T10:30:51+08:00",
+          "translationLastCommit": "576c1d33",
+          "translationLastModified": "2026-09-24T23:39:43+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "bytes": 36674,
@@ -214914,18 +214914,18 @@
         "es": {
           "path": "es/Culture/taiwanese-tea-culture-and-living-aesthetics.md",
           "translatedFrom": "Culture/台灣茶文化.md",
-          "sourceCommitSha": "d6e87d07",
-          "sourceContentHash": "sha256:218a1627dd56bfb5",
-          "sourceBodyHash": "sha256:ca6d9cb8b6ed52e7",
-          "translatedAt": "2026-05-17T06:00:00Z",
+          "sourceCommitSha": "4aabbe030",
+          "sourceContentHash": "sha256:8649216212301e4d",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T15:34:30.462513+00:00",
           "translationLastCommit": "fbdc4940",
           "translationLastModified": "2026-07-29T01:33:17+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 17024,
+          "footnoteDefs": 32,
+          "bytes": 52687,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (32→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Culture/taiwanese-tea-culture-and-living-aesthetics.md",
