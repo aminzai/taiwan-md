@@ -30,10 +30,10 @@ rationale:
   whos_pushing_back: '國民黨、深綠本土派、原住民族倡議者、同婚專法批評者、退休軍公教與居住能源改革批評者。'
 relatedDiary: ['2026-07-12-225636-manual']
 translatedFrom: 'People/蔡英文.md'
-sourceCommitSha: '4f3974f86'
-sourceContentHash: 'sha256:2ea54fe4a3dcfc40'
-sourceBodyHash: 'sha256:3efdfebbac8eea3c'
-translatedAt: '2026-09-21T14:23:29.196985+00:00'
+sourceCommitSha: '7255b3ab1'
+sourceContentHash: 'sha256:ad617fbb654f67ae'
+sourceBodyHash: 'sha256:986ab9796f1069f2'
+translatedAt: '2026-09-24T07:27:40.706512+00:00'
 ---
 
 # Tsai Ing-wen: From the Night of Defeat to 8.17 Million Votes, an Eight-Year Presidency of Quietude
@@ -153,25 +153,25 @@ Another map expanded in the opposite direction. The U.S. Congress passed the "Ta
 
 Therefore, "fewer diplomatic allies" and "more international support" are both true, but they measure different things. The former counts the number of countries recognizing the Republic of China; the latter describes substantial links without formal ties. The Tsai administration chose to bet limited resources on the latter; this choice increased Taiwan's exposure in democratic nations without stopping the continued loss of official recognition. How a reader evaluates it depends on whether they believe the core of diplomacy is status, practical cooperation, or both are indispensable.
 
-## After Leaving Office, Still Following Rules Before Proceeding
+## After Leaving Office, Still Following the Rules Before Proceeding
 
-On May 20, 2024, Tsai Ing-wen handed the presidency to Lai Ching-te. The Democratic Progressive Party (DPP) achieved a rare feat in post-direct presidential elections by winning three consecutive terms.
+On May 20, 2024, Tsai Ing-wen handed the presidency to Lai Ching-te. The Democratic Progressive Party achieved a record of winning three consecutive presidential elections, which is unprecedented since direct presidential elections began.
 
-In October of that year, she traveled to Prague, Paris, and Brussels as a former president, attending a parliamentary reception at the European Parliament building. This was the first former Taiwanese president to visit the EU headquarters, though it was not an official speech before the European Parliament; her planned trip to the UK did not materialize.[^18]
+In October of that year, as a former president, she visited the Czech Republic, France, and Belgium, and attended a parliamentary salon reception at the European Parliament building. She was the first former Taiwanese president to enter an EU headquarters, but it was not a formal speech before the European Parliament; her planned trip to the UK did not materialize.[^18]
 
 From the WTO negotiating table to a meeting room in the European Parliament, she continued to do similar things: seeing where the rules allowed her to go, and then bringing Taiwan to that boundary.
 
-The story ultimately returns to the 2012 election loss. The phrase "do not give up," after eight years as president, was no longer just a comfort. Issues such as indigenous land, judicial reform, housing prices, energy, and cross-strait risks were not resolved by her; while the same-sex marriage law, pension system, and defense adjustments became realities that subsequent governments had to continue or respond to.
+The story ultimately returns to the 2012 election loss. The phrase "do not give up," after eight years of presidency, was no longer just a comfort. Issues such as indigenous land, judicial reform, housing prices, energy, and cross-strait risks were not resolved by her; however, the same-sex marriage law, the pension system, and defense adjustments have become realities that subsequent administrations must follow up on or respond to.
 
-When she left the Presidential Office, 8.17 million votes were already a historical number. What remained was another quieter piece of evidence: that political figures can leave behind systems without raising their voice, and those systems faithfully preserve what they accomplished and what they did not.
+When she left the Presidential Office, the 8.17 million votes had already become history. What remained was another quieter piece of evidence: that political figures can leave behind systems without raising their voice, and those systems faithfully preserve what they completed as well as what they did not complete.
 
 **Further Reading**:
 
-- [The Invisible Nation](/en/art/invisible-nation) — A documentary chronicling Tsai Ing-wen's seven years through the lens of Ge Jing-wen, observing her personality and Taiwanese democracy from an external perspective.
-- [Taiwanese Marriage Equality and Gender Equality](/en/society/taiwan-marriage-equality-lgbtq-rights) — The complete process from Article 748 to referendums and the enactment of the special law.
-- [Indigenous Peoples' History and Naming Movement in Taiwan](/en/history/indigenous-peoples-history-and-naming-movement) — Struggles before the apology, and land and identity issues that remain after the apology.
-- [Ma Ying-jeou](馬英九.md) — The former president who defeated Tsai Ing-wen in 2012 and passed power to her in 2016.
-- [Lai Ching-te](賴清德.md) — Tsai Ing-wen's vice president and successor.
+- [The Unseen Nation](/en/art/invisible-nation) — A documentary chronicling Tsai Ing-wen's seven years by Ge Jing-wen, observing her personality and Taiwanese democracy from an external perspective.
+- [Taiwanese Same-Sex Marriage and Gender Equality](/en/society/taiwan-marriage-equality-lgbtq-rights) — The complete process from Article 748 to the enactment of the special law.
+- [History and Naming Movement of Taiwan's Indigenous Peoples](/en/history/indigenous-peoples-history-and-naming-movement) — Struggles before the apology, and land and identity issues that remain after the apology.
+- [Ma Ying-jeou](/en/people/ma-ying-jeou-cross-strait-reconciliation-leader) — The former president who defeated Tsai Ing-wen in 2012 and handed power to her in 2016.
+- [Lai Ching-te](/en/people/lai-ching-te) — Tsai Ing-wen's vice president and successor.
 
 ## Image Sources
 

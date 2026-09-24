@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-24T15:25:19+08:00",
-    "zhCommitHead": "a59ba1a87",
+    "lastUpdated": "2026-09-24T15:36:01+08:00",
+    "zhCommitHead": "29571dbd4",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1124,
-        "fresh": 1089,
-        "stale": 20,
+        "fresh": 1090,
+        "stale": 19,
         "metadata_stale": 0,
         "missing": 15,
         "orphan": 0
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 1031,
+        "fresh": 1032,
         "stale": 31,
         "metadata_stale": 0,
-        "missing": 62,
+        "missing": 61,
         "orphan": 0
       },
       "pt": {
@@ -121056,20 +121056,18 @@
         "en": {
           "path": "en/People/tsai-ing-wen.md",
           "translatedFrom": "People/蔡英文.md",
-          "sourceCommitSha": "4f3974f86",
-          "sourceContentHash": "sha256:2ea54fe4a3dcfc40",
-          "sourceBodyHash": "sha256:3efdfebbac8eea3c",
-          "translatedAt": "2026-09-21T14:23:29.196985+00:00",
+          "sourceCommitSha": "7255b3ab1",
+          "sourceContentHash": "sha256:ad617fbb654f67ae",
+          "sourceBodyHash": "sha256:986ab9796f1069f2",
+          "translatedAt": "2026-09-24T07:27:40.706512+00:00",
           "translationLastCommit": "8c2e0fd9",
           "translationLastModified": "2026-09-22T00:49:58+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "bytes": 32415,
+          "bytes": 32517,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/People/tsai-ing-wen.md",
@@ -191108,11 +191106,11 @@
           "sourceContentHash": "sha256:0ee777992a128197",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T05:34:06.989110+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "29571dbd",
+          "translationLastModified": "2026-09-24T15:25:19+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "bytes": 84992,
+          "bytes": 84996,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -194156,7 +194154,20 @@
           "diffSummary": "+3 -3"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Geography/chiayi-city.md",
+          "translatedFrom": "Geography/嘉義市.md",
+          "sourceCommitSha": "2187c1c9c",
+          "sourceContentHash": "sha256:789e2bd45ea7b5f4",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T07:17:01.947791+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 32,
+          "bytes": 51745,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Geography/chiayi-city.md",
@@ -210493,15 +210504,15 @@
         "ko": {
           "path": "ko/Culture/taiwan-soundscape.md",
           "translatedFrom": "Culture/台灣聲景.md",
-          "sourceCommitSha": "e974b4c9",
+          "sourceCommitSha": "e974b4c9e",
           "sourceContentHash": "sha256:819a7ee143f7b981",
           "sourceBodyHash": "sha256:efd1cd3b8e9f03d6",
-          "translatedAt": "2026-06-27T00:54:19+08:00",
+          "translatedAt": "2026-09-23T22:11:48+08:00",
           "translationLastCommit": "74349bb6",
           "translationLastModified": "2026-09-24T01:05:06+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "bytes": 37956,
+          "bytes": 37203,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
