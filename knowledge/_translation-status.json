@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-24T19:09:48+08:00",
-    "zhCommitHead": "414b78db9",
+    "lastUpdated": "2026-09-24T19:11:42+08:00",
+    "zhCommitHead": "3c48ebac6",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -72273,8 +72273,8 @@
           "sourceContentHash": "sha256:7ebf5415595c2d0c",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T10:25:34.471325+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3c48ebac",
+          "translationLastModified": "2026-09-24T19:09:51+08:00",
           "inferred": false,
           "footnoteDefs": 36,
           "bytes": 154006,
@@ -186800,13 +186800,13 @@
           "translatedFrom": "Geography/阿里山林業鐵路.md",
           "sourceCommitSha": "da79c32b0",
           "sourceContentHash": "sha256:98502e991d7261a6",
-          "sourceBodyHash": "sha256:7466cc3940afd368",
-          "translatedAt": "2026-09-23T22:12:00+08:00",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T05:38:44+08:00",
           "translationLastCommit": "30ca5b93",
           "translationLastModified": "2026-09-24T05:40:31+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 49282,
+          "bytes": 48555,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
