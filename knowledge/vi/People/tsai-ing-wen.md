@@ -30,10 +30,10 @@ rationale:
   whos_pushing_back: '國民黨、深綠本土派、原住民族倡議者、同婚專法批評者、退休軍公教與居住能源改革批評者。'
 relatedDiary: ['2026-07-12-225636-manual']
 translatedFrom: 'People/蔡英文.md'
-sourceCommitSha: '4f3974f86'
-sourceContentHash: 'sha256:2ea54fe4a3dcfc40'
-sourceBodyHash: 'sha256:3efdfebbac8eea3c'
-translatedAt: '2026-09-21T21:38:55+08:00'
+sourceCommitSha: '7255b3ab1'
+sourceContentHash: 'sha256:ad617fbb654f67ae'
+sourceBodyHash: 'sha256:986ab9796f1069f2'
+translatedAt: '2026-09-24T12:34:54.232592+00:00'
 ---
 
 # Thái Anh Văn: Từ đêm thất cử đến 8,17 triệu phiếu bầu, tám năm lãnh đạo trong im lặng
@@ -153,25 +153,25 @@ Nhưng một bản đồ khác lại mở rộng theo hướng ngược lại. Q
 
 Do đó, "số lượng quốc gia có quan hệ ngoại giao giảm" và "sự ủng hộ quốc tế tăng lên" đều là sự thật, nhưng chúng đo lường những thứ khác nhau. Cái trước tính số quốc gia công nhận Trung Hoa Dân Quốc, cái sau mô tả mối liên kết thực chất không chính thức. Chính quyền Thái Anh Văn chọn đặt nguồn lực hữu hạn vào cái sau; lựa chọn này nâng cao mức độ hiển thị của Đài Loan với các nước dân chủ, nhưng cũng không ngăn chặn sự mất mát quan hệ ngoại giao chính thức tiếp tục diễn ra. Người đọc đánh giá nó như thế nào phụ thuộc vào việc họ cho rằng cốt lõi của ngoại giao là danh nghĩa, hợp tác thực chất, hay cả hai đều không thể bỏ qua.
 
-## Sau khi rời nhiệm sở, vẫn xem quy tắc rồi mới bước vào
+## Sau khi nhậm chức, vẫn xem quy tắc rồi mới hành động
 
-Vào ngày 20 tháng 5 năm 2024, Thái Anh Văn trao chức tổng thống cho Lại Thanh Đức (Lai Ching-te). Đảng Dân Tiến liên tiếp giành ba nhiệm kỳ tổng thống, là một kỷ lục của đảng kể từ khi có bầu cử trực tiếp.
+Ngày 20 tháng 5 năm 2024, Thái Anh Văn trao nhiệm sở tổng thống cho Lại Thanh Đức. Đảng Dân Tiến liên tiếp giành ba nhiệm kỳ tổng thống, đây là một kỷ lục của đảng phái trong các cuộc bầu cử tổng thống trực tiếp.
 
-Vào tháng 10 cùng năm, bà với tư cách cựu tổng thống đã đến thăm Séc, Pháp và Bỉ, và tham dự buổi tiệc salon tại tòa nhà Nghị viện Châu Âu. Bà là nữ tổng thống Đài Loan đầu tiên bước vào trụ sở Liên minh Châu Âu, nhưng đây không phải là một bài phát biểu chính thức của Nghị viện châu Âu; chuyến đi định sang Anh cũng đã không thành công.[^18]
+Vào tháng 10 cùng năm, với tư cách cựu tổng thống, bà đã đến thăm Séc, Pháp và Bỉ, đồng thời tham dự buổi tiệc giao lưu nghị sĩ tại tòa nhà Nghị viện Châu Âu. Đây là vị cựu tổng thống Đài Loan đầu tiên vào trụ sở Liên minh Châu Âu, nhưng không phải là một bài phát biểu chính thức trước Nghị viện châu Âu; chuyến đi đến Anh ban đầu cũng chưa thành hiện thực.[^18]
 
-Từ bàn đàm phán WTO đến phòng họp tại Nghị viện Châu Âu, bà vẫn đang làm những việc tương tự: xem quy tắc cho phép đi được đến đâu, rồi đưa Đài Loan đến biên giới đó.
+Từ bàn đàm phán WTO đến phòng họp của Nghị viện Châu Âu, bà vẫn đang làm những điều tương tự: xem quy tắc cho phép tiến xa đến đâu, rồi đưa Đài Loan đến giới hạn đó.
 
-Câu chuyện kết thúc trở lại bục thất bại năm 2012. Lời nói "đừng bỏ cuộc" sau tám năm nhiệm kỳ tổng thống không chỉ là một lời an ủi. Vấn đề đất đai người bản địa, cải cách tư pháp, giá nhà, năng lượng và rủi ro eo biển Đài Loan vẫn chưa được bà giải quyết; còn luật hôn nhân đồng giới, hệ thống lương hưu và điều chỉnh quốc phòng đã trở thành thực tế mà chính quyền kế nhiệm phải tiếp nối hoặc phản hồi.
+Câu chuyện kết thúc tại bục tranh cử năm 2012. Câu nói "Đừng bỏ cuộc" sau tám nhiệm kỳ tổng thống đã không còn chỉ là một lời an ủi. Các vấn đề về đất đai của người bản địa, cải cách tư pháp, giá nhà ở, năng lượng và rủi ro eo biển Đài Loan vẫn chưa được bà giải quyết; luật hôn nhân đồng giới, chế độ lương hưu và điều chỉnh quốc phòng đã trở thành thực tế mà chính quyền kế nhiệm phải tiếp nối hoặc phản hồi.
 
-Khi bà rời Phủ Tổng thống, 8,17 triệu phiếu bầu đã trở thành một con số lịch sử. Thứ được để lại là một bằng chứng yên tĩnh hơn: nhân vật chính trị có thể không cần tăng âm lượng để để lại thể chế, và thể chế sẽ trung thực lưu giữ những gì họ đã hoàn thành, cũng như những gì họ chưa hoàn thành.
+Khi rời Phủ Tổng thống, 8,17 triệu phiếu bầu đã trở thành một con số trong lịch sử. Điều còn lại là một bằng chứng khác yên tĩnh hơn: các nhân vật chính trị có thể để lại hệ thống mà không cần tăng âm lượng, và hệ thống sẽ trung thực lưu giữ những gì họ đã hoàn thành cũng như những gì họ chưa làm được.
 
 **Đọc thêm**:
 
-- [Quốc gia vô hình](/vi/art/invisible-nation) — Bộ phim tài liệu ghi lại bảy năm của Thái Anh Văn qua ống kính sát sao của Cát Tĩnh Văn, quan sát tính cách bà và nền dân chủ Đài Loan từ bên ngoài.
-- [Hôn nhân đồng giới và bình đẳng giới ở Đài Loan](/vi/society/taiwan-marriage-equality-lgbtq-rights) — Toàn bộ quá trình từ Quyết định 748 đến luật chuyên biệt có hiệu lực.
-- [Lịch sử người bản địa và phong trào đòi công nhận tên gọi của Đài Loan](/vi/history/indigenous-peoples-history-and-naming-movement) — Cuộc đấu tranh trước lời xin lỗi, và các vấn đề đất đai, thân phận vẫn cần được giải quyết sau lời xin lỗi.
-- [Mã Anh Cửu](馬英九.md) — Tổng thống tiền nhiệm đã đánh bại Thái Anh Văn vào năm 2012 và trao quyền lực cho bà vào năm 2016.
-- [Lại Thanh Đức](賴清德.md) — Phó tổng thống và người kế nhiệm của Thái Anh Văn.
+- [Quốc gia vô hình](/vi/art/invisible-nation) — Bộ phim tài liệu ghi lại bảy năm của Thái Anh Văn do Cát Tĩnh Văn quay, quan sát tính cách và nền dân chủ Đài Loan từ góc nhìn bên ngoài.
+- [Hôn nhân đồng giới và bình đẳng giới ở Đài Loan](/vi/society/taiwan-marriage-equality-lgbtq-rights) — Toàn bộ quá trình từ Hiến pháp 748, trưng cầu dân ý đến khi luật có hiệu lực.
+- [Lịch sử người bản địa Đài Loan và phong trào tự khẳng định danh tính](/vi/history/indigenous-peoples-history-and-naming-movement) — Cuộc đấu tranh trước lời xin lỗi, và các vấn đề về đất đai và thân phận vẫn còn tồn tại sau lời xin lỗi.
+- [Mã Anh Cửu](/vi/people/ma-ying-jeou-cross-strait-reconciliation-leader) — Cựu tổng thống đã đánh bại Thái Anh Văn vào năm 2012 và trao quyền lực cho bà vào năm 2016.
+- [Lại Thanh Đức](/vi/people/lai-ching-te) — Phó tổng thống và người kế nhiệm của Thái Anh Văn.
 
 ## Nguồn hình ảnh
 
