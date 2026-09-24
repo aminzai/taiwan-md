@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-25T01:35:52+08:00",
-    "zhCommitHead": "6df690845",
+    "lastUpdated": "2026-09-25T01:41:59+08:00",
+    "zhCommitHead": "d652eb7fa",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1124,
-        "fresh": 1081,
+        "fresh": 1082,
         "stale": 16,
         "metadata_stale": 0,
-        "missing": 27,
+        "missing": 26,
         "orphan": 0
       },
       "hi": {
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1124,
-        "fresh": 1058,
+        "fresh": 1059,
         "stale": 19,
         "metadata_stale": 0,
-        "missing": 47,
+        "missing": 46,
         "orphan": 0
       },
       "ru": {
@@ -141326,8 +141326,8 @@
           "sourceContentHash": "sha256:db74afff74180364",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T15:47:08.519257+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d652eb7f",
+          "translationLastModified": "2026-09-25T01:35:52+08:00",
           "inferred": false,
           "footnoteDefs": 62,
           "bytes": 72901,
@@ -177764,7 +177764,20 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/History/kaohsiung-export-processing-zone.md",
+          "translatedFrom": "History/高雄加工出口區.md",
+          "sourceCommitSha": "ebfb9f7bc",
+          "sourceContentHash": "sha256:226ce57f62ea8e09",
+          "sourceBodyHash": "sha256:97a0f46568355878",
+          "translatedAt": "2026-09-24T22:04:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "bytes": 28951,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/History/kaohsiung-export-processing-zone.md",
@@ -190750,7 +190763,20 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Geography/bangka.md",
+          "translatedFrom": "Geography/艋舺.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:087fe7b9d4504fbb",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T17:28:01.423011+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 32,
+          "bytes": 59935,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Geography/bangka.md",
