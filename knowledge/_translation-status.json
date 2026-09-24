@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-24T16:59:42+08:00",
-    "zhCommitHead": "ebeba0fca",
+    "lastUpdated": "2026-09-24T17:16:11+08:00",
+    "zhCommitHead": "3b4634f97",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -44,16 +44,16 @@
       },
       "es": {
         "total_zh": 1124,
-        "fresh": 1077,
-        "stale": 33,
+        "fresh": 1078,
+        "stale": 32,
         "metadata_stale": 0,
         "missing": 14,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1124,
-        "fresh": 1080,
-        "stale": 31,
+        "fresh": 1081,
+        "stale": 30,
         "metadata_stale": 0,
         "missing": 13,
         "orphan": 0
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 1034,
+        "fresh": 1035,
         "stale": 31,
         "metadata_stale": 0,
-        "missing": 59,
+        "missing": 58,
         "orphan": 0
       },
       "pt": {
@@ -135844,7 +135844,20 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/tieniu-jie-ge.md",
+          "translatedFrom": "People/鐵牛杰哥.md",
+          "sourceCommitSha": "a7bf511aa",
+          "sourceContentHash": "sha256:695b08b5d7d2de65",
+          "sourceBodyHash": "sha256:6c22ac71a15a46ba",
+          "translatedAt": "2026-09-23T22:11:56+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "bytes": 37490,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/tieniu-jie-ge.md",
@@ -141655,8 +141668,8 @@
           "sourceContentHash": "sha256:d21eaa1c32fc46c9",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T08:19:32.732515+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3b4634f9",
+          "translationLastModified": "2026-09-24T16:59:43+08:00",
           "inferred": false,
           "footnoteDefs": 30,
           "bytes": 51754,
@@ -156084,20 +156097,18 @@
         "fr": {
           "path": "fr/Food/taiwan-indigenous-foodways.md",
           "translatedFrom": "Food/台灣原住民飲食文化.md",
-          "sourceCommitSha": "a05d2431",
-          "sourceContentHash": "sha256:d67f3581051e39e8",
-          "sourceBodyHash": "sha256:50386f161e8d186f",
-          "translatedAt": "2026-04-14T12:31:33+08:00",
+          "sourceCommitSha": "e974b4c9e",
+          "sourceContentHash": "sha256:c2e6d8f7560888c4",
+          "sourceBodyHash": "sha256:11add6012534def8",
+          "translatedAt": "2026-09-23T22:11:52+08:00",
           "translationLastCommit": "677cd01d",
           "translationLastModified": "2026-09-22T01:05:52+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 18196,
+          "bytes": 18221,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+9 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Food/taiwan-indigenous-foodways.md",
@@ -166179,18 +166190,18 @@
         "es": {
           "path": "es/History/ponlai-rice.md",
           "translatedFrom": "History/蓬萊米.md",
-          "sourceCommitSha": "59abe705e",
-          "sourceContentHash": "sha256:3c85e554c80495b9",
-          "sourceBodyHash": "sha256:39ddb75027efa4b4",
-          "translatedAt": "2026-06-26T00:38:47+08:00",
+          "sourceCommitSha": "4e22e3bb9",
+          "sourceContentHash": "sha256:3d54c34f765113cd",
+          "sourceBodyHash": "sha256:fa292335dae74f0c",
+          "translatedAt": "2026-09-23T22:11:50+08:00",
           "translationLastCommit": "5bc8a207",
           "translationLastModified": "2026-06-26T00:56:22+08:00",
           "inferred": false,
-          "footnoteDefs": 8,
-          "bytes": 15800,
+          "footnoteDefs": 14,
+          "bytes": 25447,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (14→8)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/History/ponlai-rice.md",
@@ -194210,8 +194221,8 @@
           "sourceContentHash": "sha256:789e2bd45ea7b5f4",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T07:17:01.947791+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3b4634f9",
+          "translationLastModified": "2026-09-24T16:59:43+08:00",
           "inferred": false,
           "footnoteDefs": 32,
           "bytes": 51745,
@@ -206081,8 +206092,8 @@
           "sourceContentHash": "sha256:c31335e314326f55",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T07:40:23.110579+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3b4634f9",
+          "translationLastModified": "2026-09-24T16:59:43+08:00",
           "inferred": false,
           "footnoteDefs": 38,
           "bytes": 53151,
