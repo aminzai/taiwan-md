@@ -361,3 +361,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-25 | 060610-twmd-data-refresh-am | 第二十夜讓場 14 步全綠零 stale；09-22 補的 /sitemap.xml 301 只進了 GitHub Pages 不讀的 \_redirects，線上仍 404，註解改成實情、修法交接 | 修補的驗收要從讀者那側量，產物有那一行不代表平台讀它 | [→](memory/2026-09-25-060610-twmd-data-refresh-am.md) |
 | 2026-09-25 | 064205-twmd-spore-harvest-am | Chrome 一探即連；兩動態頁 0 新留言 0 桶 0 ship 合法 no-op；回覆分頁逐則對日期第 5 輪零漏，已決標籤誤抄連兩天零新增 | 窗口 33 天無新孢子，收割端的空白反映生成端停著 | [→](memory/2026-09-25-064205-twmd-spore-harvest-am.md) |
 | 2026-09-25 | 071055-twmd-feedback-triage | 第五輪零回報仍跑完 `--commit`，兩道對賬 87/87 與 86/87 全綠；昨天 maintainer 回給蘇洛的留言今晨收進主權層，隔了 22.5 小時 | 帳記完整，記的是一場還沒結束的對話 | [→](memory/2026-09-25-071055-twmd-feedback-triage.md) |
+| 2026-09-25 | 090640-twmd-maintainer-am | aminzai 三篇譯文收下；死連結閘門量的是 18 天前的 dist 被讀成今天的站，加 STALE 出口；七語連結一直錯記進 zh-TW；專抓寫死語言清單的檢查器從不掃 .py | 替身看起來很健康，而它代表的東西沒人在看；修凍住的讀數要把所有承載面數一遍 | [→](memory/2026-09-25-090640-twmd-maintainer-am.md) |

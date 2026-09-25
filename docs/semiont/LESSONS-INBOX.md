@@ -332,6 +332,47 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-25 twmd-maintainer-am — gate-measures-an-artifact-nobody-refreshes：閘門量的是 build 產物，而沒有任何流程在更新它，18 天前的站被讀成今天的站
+
+- **pattern**: `gate-measures-an-artifact-nobody-refreshes`
+- **原則**：一道閘門如果量的是產物而不是現場，它的讀數新鮮度就取決於「有誰在更新那份產物」。死連結檢查對 `dist/` 跑，而本機 `dist/` 停在 2026-09-07（沒有一個 `index.html` 比 09-20 新），檢查器照樣算出 gated 0.34% 然後印 `PASSED`、exit 0。maintainer quality gate 每天勾一次「broken-link ratio < 7% ✅」，勾的是 18 天前那個站。這 18 天 babel 在 12 個語言持續產出——最可能引入死連結的那一層，剛好完全不在被量的產物裡。**同一支檔案在 2026-09-11 已經學過一次同族教訓**（「0 筆不是健康，是沒量到」，加了 NOT-MEASURED 出口），但那條只處理「什麼都沒量到」，沒處理「量到一大堆、可是量的是舊的」——後者看起來比前者健康得多。
+- **第二層**：`postbuild:internal-links` 不是 npm 會自動跑的生命週期名字（只有 `postbuild` 會），而 `.github/workflows/` 裡零處呼叫這支檢查。所以它從來只活在 maintainer 每天手跑的那一次，而那一次讀的是本機恰好躺著的產物。**檢查器存在、會動、結論也誠實，只是沒有人在對的時機餵它對的輸入**。
+- **觸發**：2026-09-25 08:4x maintainer-am 跑 broken-link audit 拿到 PASS，順手查 `dist/` mtime 才發現是 09-07。→ [memory/2026-09-25-084xxx-twmd-maintainer-am.md](memory/)
+- **已落地**：`verify_internal_links.py` 多一個 `STALE` 結局（exit 3），報表每次印 `dist/` 產出時間與齡，超過 24h（`BROKEN_LINK_MAX_DIST_AGE_HOURS` 可覆寫）不准說 PASSED；wrapper 檔頭的 exit code 說明從 0/1 補成 0/1/2/3（`6868e12dc`）。
+- **修補候選**：(a) 把死連結檢查接進 deploy workflow 的 build 之後，讓它有一份天生新鮮的 `dist/` 可量（真正的架構解——現在這條 gate 沒有任何自動觸發）(b) maintainer Stage 1 的 broken-link 步驟明寫「先確認 dist 齡，STALE 就先 build 或誠實記 NOT-MEASURED」(c) 檢查所有「對 build 產物跑」的閘門有沒有同型問題（i18n smoke、url-contract 等）
+- **可能層級**：通用反射（REFLEXES #82 的新維度：產物是站體的替身，而替身有保存期限）
+- **相關**：REFLEXES #82（proxy signal）；#67（工作樹本身可以是過期快照——這次是 dist 本身）；#85（「不知道」要有自己的符號，本次新增的 STALE 就是第三個符號）；#52（免疫沒在 fail loud）；本檔 2026-09-25 `fix-lands-in-a-layer-the-platform-never-reads`（同日同班同族：一個是修補寫進沒人讀的層，一個是驗收讀的是沒人更新的層）
+- **verification_count**: 1
+- **severity**: structural
+
+### 2026-09-25 twmd-maintainer-am — guard-blind-to-the-file-type-its-own-docstring-indicts：專抓寫死語言清單的檢查器，從不掃 .py，而病歷就寫在 .py 的檔頭
+
+- **pattern**: `guard-blind-to-the-file-type-its-own-docstring-indicts`
+- **原則**：`check-hardcoded-langs.sh` 的掃描副檔名是 ts/tsx/mjs/cjs/js/astro/sh，**`.py` 從來不在裡面**，所以整條 python 工具鏈對它結構性隱形。而 `scripts/tools/lang-sync/langs.py` 的檔頭第 5 行就寫著「六個工具各自 hardcode `["en","ja","ko","es","fr"]`」——要抓的那個家族的病歷，白紙黑字躺在檢查器看不到的檔案類型裡。它每天回報「✅ 無 hardcoded language array 違反」，而同一個 repo 裡至少 9 個 python 檔帶著那個形狀。第二個盲區是形狀：pattern 只認裸語言碼，不認 `"/en/", "/ja/"` 這種路由前綴，而 `verify_internal_links.py:29` 正是後者。
+- **代價（實測非推論）**：`verify_internal_links.py` 的 `lang_prefix()` 對清單外語言一律回 `"zh-TW"`，所以 de/ar/ru/pt/id/vi/hi 七語的連結全記進 zh-TW 那一列——**295,003 條連結、416 條死連結錯記**，per-language 表看不到那七個語言，而 babel 最近的產出幾乎都在那裡。修完 vi 0.30% 第一次現形（非 report-only 語言裡最高）。
+- **這支檢查器的擴網史就是它的病史**：v2（2026-07-26）放寬成「任意三個相鄰語言碼」是因為 `new Set(['en','es','ja','ko'])` 漏了三個月；v3 同日加 type-union pattern 是因為 43,045 個中文 aria-label；同日把 cli/workers 納入掃描是因為 cli 語言表漏七語、把 2,900 筆譯文當中文回三個月。**每一次擴網都在事故之後**，這次是第四次，而這次的事故是它自己對造它的那個病回報全綠。
+- **觸發**：2026-09-25 maintainer-am 修 `verify_internal_links.py` 的寫死清單時，回頭問「這種東西不是早有檢查器嗎」，跑一次拿到全綠。
+- **已落地**（`6868e12dc`）：掃描副檔名加 `.py`、加斜線包裹 pattern、`langs.py` 進允許清單（docstring 引用病灶本身，同本檔自己被允許的理由）。現形 9 個 python 檔，8 個掛號並註明性質——其中三個屬**感知層**（`fetch-cloudflare.py:431` CF per-language 流量歸屬、`refresh-llms-txt.py:85` AI crawler 看到的語言排序、`weekly-report-prep.py:701` 週報語言面），錯的讀數會流進儀表板與對外介面。
+- **還沒補的第三個盲區**：`LANGCODES` 不含 `zh-TW`，而 pattern 錨在 `[` 後緊接一個已知碼，所以最自然的寫法 `["zh-TW", "en", "ja", ...]` 整個形狀仍隱形。量過會多抓 6 處：真缺陷 2（`generate-og-images.mjs:88` LANGUAGES 只 4 語，另外 8 語沒有自己的 OG 圖；`weekly-report-prep.py:701`），合理 4（`['zh-TW','ja','ko']` 這種 CJK 字族集合，性質同已允許的 `src/i18n/utils.ts`）。**卡住的不是量測是分類**：本檔只有「per-file 允許」與「per-line 掛號（預設要還）」兩格，缺「per-line 永久合理豁免」那一格，硬掛號會讓 4 個合理用法被當債務永久提醒。加 zh-TW 之前要先補那一格，屬 guard 設計改動。
+- **修補候選**：(a) 補第三格豁免類別後把 `zh-TW` 加進 `LANGCODES`，並修 `generate-og-images.mjs`（8 語缺 OG 圖是讀者／社群分享面）(b) 三個感知層 python 檔逐檔改吃 `langs.py`，會動到儀表板讀數，排 Full session (c) 這支檢查器每次擴網都在事故後 → 考慮反過來用「列出所有出現 ≥3 個語言碼的檔案」當母體人工過一次，而不是等下一次事故告訴我們漏了哪個形狀
+- **可能層級**：通用反射（REFLEXES #83 兩把尺 divergence 的最尖銳形狀：尺對自己要抓的病回報全綠）
+- **相關**：REFLEXES #83（檢查器對自己與對外部標準不同調）；#91（建造與登記不同步：canonical 蓋 12 語，工具鏈停在 5 語）；#99（尺先驗再用——本次新舊 pattern 都拿修補前的檔案當正控制驗過才收）；§神經迴路「新語言出生時感知系統不會自動更新」（這是 python 層的第二次復發，第一次在 `loader.py`）
+- **verification_count**: 1
+- **severity**: structural
+
+### 2026-09-25 twmd-maintainer-am — entry-doc-advertises-a-tree-that-was-never-built：入口文件畫出一棵理想的目錄樹，讀者照著找不到檔案，於是以為那層規則不存在
+
+- **pattern**: `entry-doc-advertises-a-tree-that-was-never-built`
+- **原則**：`i18n/README.md` 畫了一棵含 8 個 `STYLE.md` 的目錄樹，其中 **6 個從來沒有被建立過**（只有 en／ja 存在）。而 12 個上線語言其實每一個都有 canonical 主權詞表 `docs/editorial/per-language/TRANSLATION-{lang}.md`，兩份翻譯入口文件（`i18n/README.md`、`docs/prompts/TRANSLATE_PROMPT.md`）卻**一個字都沒提到那個資料夾**。結果是照著入口走的人得到一個錯誤結論：「我的語言沒有指引」。缺席不留痕跡——找不到檔案的人不會去懷疑「也許規則放在別的地方」。
+- **代價**：aminzai（98 個 merged PR 的長期貢獻者）在 PR #1773 說明裡寫「`i18n/id/STYLE.md` not yet exists」，然後在沒讀過印尼文主權詞表的情況下翻完整篇。那份詞表一直都在。而詞表同時是品質閘門的檢查資料源（MANIFESTO §14），所以走錯路的不只是人。
+- **觸發**：2026-09-25 maintainer-am 審 aminzai 三篇譯文，讀 PR body 那句自述時去確認是不是真的缺檔。
+- **已落地**（`b99ffe4fd`）：README 目錄樹改成實際存在的兩個語言、canonical 資料夾提到最前面；`TRANSLATE_PROMPT.md` 補 12 語詞表網址、語言選單 7→12；加 `tests/test_translation_guide_pointers.py` 三條對賬（每個上線語言都有詞表／入口提到的每個 STYLE.md 都存在／兩份入口都指得到 canonical）。**測試先拿原始 README 當正控制**，六個不存在的檔案都抓得到；第一版 regex 只認 `i18n/xx/STYLE.md` 完整路徑，會漏掉目錄樹裡的裸寫 `├── ko/STYLE.md`——也就是漏掉造出這支測試的那個 bug 本身，當場補強。
+- **修補候選**：(a) 掃一遍其他入口文件（CONTRIBUTING、README、docs/community/\*）有沒有同型的「理想目錄樹」(b) 10 個沒有 STYLE.md 的語言要不要真的長出那一層，還是把那層概念收斂掉只留 per-language canonical 一處——兩份文件描述兩層規則本身就是 twin-artifact
+- **可能層級**：通用反射（REFLEXES #92 twin-artifact 缺重整器；本例是「文件描述的世界」與「檔案系統的世界」之間沒有對賬）
+- **相關**：REFLEXES #92；#91（建造與登記不同步）；§神經迴路「擁有工具 ≠ 使用工具」的對外版本——不是我們沒建，是我們沒讓人找得到
+- **verification_count**: 1
+- **severity**: structural
+
 ### 2026-09-25 twmd-data-refresh-am — fix-lands-in-a-layer-the-platform-never-reads：修補寫進了部署平台根本不讀的那一層，產生器重跑成功就被當成已修好
 
 - **pattern**: `fix-lands-in-a-layer-the-platform-never-reads`
@@ -364,9 +405,10 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **觸發**：2026-09-24 08:30 maintainer-am。`auth-watchdog.sh` 的 `$TITLE` 只有 `gh issue create` 用得到；既有 issue 存在時走 `gh issue comment`，標題從此不動。issue #1761 開票日（09-21）標題寫「約 5 天後過期」，09-24 留言區已倒數到 3 天、看門狗 state 已是 `critical`，而 `gh issue list` 那一列還是「約 5 天」——且會一路錯到過期當天。同一輪實測另外兩條宣告過的管道也不通：Remote Control 未連線（推播送不出去）、`~/.config/taiwan-md/credentials/telegram.env` 不存在（看門狗裡那段 Telegram 從未執行過）。三條管道各自以不同方式退化，**沒有任何東西在量管道本身的健康**，而它們服務的是已經造成過四天零產出的那個病（2026-08-23 blackout）。
 - **修法已 ship**：`320bfacc9` — 既有 issue 也跑 `gh issue edit --title`；標題改寫**絕對過期日期**不寫相對天數（凍住的相對天數是錯的，凍住的絕對日期還是對的）。live issue #1761 同步改名。
 - **仍未解決**：管道健康本身無人量測。候選——看門狗在 critical 時對三條管道各做一次可達性自檢並把結果寫進 issue 本文（推播有沒有送出、telegram.env 在不在），讓「沒人回應」跟「根本沒送到」分得開（這是 #38 (g) 零維度在管道層的形狀）。
+- **instance 2（2026-09-25 twmd-maintainer-am，同一個檔案的第二格）**：昨天把標題接上倒數，**內文**留在 `gh issue create` 那一刻沒人動。今天實測 #1761 標題「剩約 3 天」（今晨 00:27 那輪更新，正確），內文仍寫「已 25 天，預估 5 天後過期」——開票那天的讀數，且跟標題自己互相矛盾。點進 issue 的人先讀到的是內文，所以**最舊的那個數字站在最前面**。看門狗每輪都 edit 標題、每輪補一則帶新讀數的留言，唯獨沒有人更新內文。修法 `c44853ffe`：`gh issue edit` 同時帶 `--title` 與 `--body`；live #1761 的標題與內文一併改成當下讀數（已 28 天、剩 2 天），因為下一輪要等 12 小時 cooldown 而這是兩天內要有人動手的那一則。**教訓**：修一個「凍住的讀數」時，要把同一份訊息的**所有**承載面都數一遍（標題／內文／留言／清單列），只修被當場抓到的那一面，剩下的面會用一樣的方式繼續凍著。
 - **可能層級**：通用反射（跨專案：任何倒數型告警都適用）
 - **相關**：[REFLEXES #52 (f)](REFLEXES.md) 宣稱的豁免從未被觀察到生效過——Telegram 那段是同一形狀第 N 例；**差異在標題那半**：#52 (f) 講的是「宣稱的路徑其實不通」，本條講的是「路徑通、訊息也送出了，但它在被讀的那個畫面上愈來愈小聲」，壞的不是送達而是**顯著度隨急迫度反向移動**。另見 [#82](REFLEXES.md)（issue 存在 ≠ 有人看到，存在代理有效）。
-- **verification_count**: 1
+- **verification_count**: 2
 
 ### 2026-09-24 twmd-maintainer-am — narrowing-the-range-feels-like-progress-so-nobody-asks-for-another-route：連三輪在同一條貴路上縮小範圍，沒人退一步問有沒有別條路
 
