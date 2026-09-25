@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-25T08:38:17+08:00",
-    "zhCommitHead": "da95d0404",
+    "lastUpdated": "2026-09-25T08:41:28+08:00",
+    "zhCommitHead": "2f8f6d1b6",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1124,
-        "fresh": 1046,
+        "fresh": 1047,
         "stale": 30,
         "metadata_stale": 0,
-        "missing": 48,
+        "missing": 47,
         "orphan": 0
       },
       "pt": {
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 1045,
+        "fresh": 1046,
         "stale": 17,
         "metadata_stale": 0,
-        "missing": 62,
+        "missing": 61,
         "orphan": 0
       },
       "ar": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 1009,
+        "fresh": 1011,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 113,
+        "missing": 111,
         "orphan": 0
       }
     },
@@ -5620,7 +5620,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Music/taiwan-screen-scoring-from-cinema-to-games.md",
+          "translatedFrom": "Music/台灣影視配樂.md",
+          "sourceCommitSha": "31a05c44b",
+          "sourceContentHash": "sha256:3d345fa4696c5375",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T00:27:30.830749+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 36,
+          "bytes": 46677,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -8456,7 +8469,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/taiwan-shipbuilding-industry.md",
+          "translatedFrom": "Economy/台灣造船業.md",
+          "sourceCommitSha": "60e991e02",
+          "sourceContentHash": "sha256:1d40bc3d04d5d44b",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T21:12:40.625335+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "bytes": 24586,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -99423,7 +99449,20 @@
           "diffSummary": "+2 -2"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/bernard-tseng.md",
+          "translatedFrom": "People/曾博恩.md",
+          "sourceCommitSha": "4f72f613c",
+          "sourceContentHash": "sha256:8cc10fd808c3a1ae",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T21:12:40.625335+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 51,
+          "bytes": 46833,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/bernard-tseng.md",
@@ -118949,8 +118988,8 @@
           "sourceContentHash": "sha256:6cb3c6ef00fae4cb",
           "sourceBodyHash": "sha256:04a00b8b001b29b2",
           "translatedAt": "2026-09-25T07:26:05+08:00",
-          "translationLastCommit": "317c36a1",
-          "translationLastModified": "2026-07-25T12:27:50+08:00",
+          "translationLastCommit": "2f8f6d1b",
+          "translationLastModified": "2026-09-25T08:38:17+08:00",
           "inferred": false,
           "footnoteDefs": 25,
           "bytes": 40129,
@@ -157393,8 +157432,8 @@
           "sourceContentHash": "sha256:74f73b542d15e4ba",
           "sourceBodyHash": "sha256:c5e18daca97dc004",
           "translatedAt": "2026-09-25T04:57:28+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2f8f6d1b",
+          "translationLastModified": "2026-09-25T08:38:17+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "bytes": 32623,
@@ -188899,7 +188938,20 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Geography/dadaocheng.md",
+          "translatedFrom": "Geography/大稻埕.md",
+          "sourceCommitSha": "31a05c44b",
+          "sourceContentHash": "sha256:a74434c8289b52c5",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T21:12:40.625335+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 24,
+          "bytes": 109854,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Geography/dadaocheng.md",
