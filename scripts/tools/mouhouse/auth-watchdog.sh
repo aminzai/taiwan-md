@@ -115,7 +115,13 @@ if [ -n "$EXISTING" ]; then
   # 標題原本只在 gh issue create 用得到，所以它會凍在開票那天的讀數。#1761 開票時寫「約 5 天」，
   # 三天後留言區已倒數到 3 天而標題還是 5 天——而 issue 清單只看得到標題。最該被一眼看見的那一則，
   # 在唯一會被掃過的那個畫面上，隨著愈接近過期愈安靜。
-  gh issue edit "$EXISTING" -R "$REPO" --title "$TITLE" >/dev/null 2>&1 && say "標題更新為：$TITLE"
+  # 內文也要跟著倒數改（2026-09-25 maintainer-am）：昨天把標題接上倒數，內文
+  # 卻還留在 `gh issue create` 那一刻。實測今天 #1761 標題寫「剩約 3 天」（09-24
+  # 更新，今天實際剩 2 天），而內文仍寫「已 25 天，預估 5 天後過期」——開票那天的
+  # 讀數。點進 issue 的人先讀到的是內文，所以最舊的那個數字站在最前面，而且它跟
+  # 標題自己互相矛盾。昨天那條教訓（警報愈急愈安靜）在同一個檔案裡還有第二格。
+  gh issue edit "$EXISTING" -R "$REPO" --title "$TITLE" --body "$BODY" >/dev/null 2>&1 \
+    && say "標題與內文更新為倒數當下讀數：$TITLE"
   gh issue comment "$EXISTING" -R "$REPO" --body "$BODY" >/dev/null && say "留言到既有 issue #$EXISTING"
 else
   URL=$(gh issue create -R "$REPO" --title "$TITLE" --body "$BODY" --label auth-stale 2>/dev/null) && say "開 issue：$URL"
