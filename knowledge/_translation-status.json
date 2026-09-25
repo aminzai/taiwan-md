@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-25T08:14:54+08:00",
-    "zhCommitHead": "601fafe6f",
+    "lastUpdated": "2026-09-25T08:23:01+08:00",
+    "zhCommitHead": "33ba23bbd",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -28,8 +28,8 @@
       },
       "ja": {
         "total_zh": 1124,
-        "fresh": 1015,
-        "stale": 62,
+        "fresh": 1016,
+        "stale": 61,
         "metadata_stale": 0,
         "missing": 47,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 1007,
+        "fresh": 1008,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 115,
+        "missing": 114,
         "orphan": 0
       }
     },
@@ -35819,7 +35819,20 @@
           "status": "missing"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Technology/rayark-games.md",
+          "translatedFrom": "Technology/雷亞遊戲.md",
+          "sourceCommitSha": "31a05c44b",
+          "sourceContentHash": "sha256:76756fb2dd575588",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T23:52:21.973138+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 53,
+          "bytes": 61090,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -76090,11 +76103,11 @@
           "sourceContentHash": "sha256:0acd5b8de068abbb",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T22:30:21.988086+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "33ba23bb",
+          "translationLastModified": "2026-09-25T08:14:54+08:00",
           "inferred": false,
           "footnoteDefs": 45,
-          "bytes": 119363,
+          "bytes": 119365,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -95291,8 +95304,8 @@
           "sourceContentHash": "sha256:ac5cbabad7f0e8a5",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T23:35:27.707862+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "33ba23bb",
+          "translationLastModified": "2026-09-25T08:14:54+08:00",
           "inferred": false,
           "footnoteDefs": 32,
           "bytes": 121471,
@@ -99326,20 +99339,18 @@
         "ja": {
           "path": "ja/People/bernard-tseng.md",
           "translatedFrom": "People/曾博恩.md",
-          "sourceCommitSha": "86db85f3d",
-          "sourceContentHash": "sha256:47cec189b7c7bcfc",
-          "sourceBodyHash": "sha256:db17e32fed11eadc",
-          "translatedAt": "2026-05-16T05:07:55+08:00",
+          "sourceCommitSha": "4f72f613c",
+          "sourceContentHash": "sha256:8cc10fd808c3a1ae",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-24T23:52:33.484038+00:00",
           "translationLastCommit": "4f72f613",
           "translationLastModified": "2026-08-31T08:48:08+08:00",
           "inferred": false,
           "footnoteDefs": 51,
-          "bytes": 51382,
+          "bytes": 54770,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/bernard-tseng.md",
@@ -152829,8 +152840,8 @@
           "sourceContentHash": "sha256:499276bde9de600f",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T23:52:28.032717+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "33ba23bb",
+          "translationLastModified": "2026-09-25T08:14:54+08:00",
           "inferred": false,
           "footnoteDefs": 41,
           "bytes": 122054,
