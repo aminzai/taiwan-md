@@ -11,6 +11,7 @@ import os
 import posixpath
 import re
 import random
+import time
 import html.parser
 import multiprocessing as mp
 from urllib.parse import unquote, urlparse
@@ -26,7 +27,19 @@ LANG_SWITCHER_LABELS = {"中文", "English", "日本語", "한국어",
                         "Switch to English", "Switch to 中文",
                         "Switch to 日本語", "Switch to 한국어"}
 
-LANG_PREFIXES = ["/en/", "/ja/", "/ko/", "/es/", "/fr/"]
+# 語言前綴從 registry 衍生，不寫死（2026-09-25 twmd-maintainer-am）。
+# 病根：這裡原本寫死 ["/en/", "/ja/", "/ko/", "/es/", "/fr/"]，而站上已有 12 個
+# 語言。`lang_prefix()` 對清單外的語言一律回 "zh-TW"，所以 de/ar/ru/pt/id/vi/hi
+# 七個語言的連結全部被記在 zh-TW 那一列裡：per-language 表看不到它們，而 babel
+# 產線最近的產出幾乎都在那七個語言。這正是 langs.py 檔頭寫的
+# 「新語言出生時感知系統不會自動更新」在本檔的第二次復發（第一次在 loader.py），
+# 修法也一樣：吃 langs.py 這個 SSOT bridge，加第 N 個語言不用再改這裡。
+# 注意：本改動不動 gate 數字 —— gated 只排除 REPORT_ONLY_LANGS（es/fr），
+# 這七個語言改判前後都在 gate 內，只是從 zh-TW 那一列移到自己那一列。
+sys.path.insert(0, str(Path(__file__).resolve().parent / "lang-sync"))
+from langs import ENABLED_TRANSLATION_LANGS  # noqa: E402
+
+LANG_PREFIXES = [f"/{code}/" for code in ENABLED_TRANSLATION_LANGS]
 
 # Broken ratio must be below this to pass.
 # History: 1.0 → 7.0 on 2026-05-04 (jovial-feistel) as a "temporary" raise when
@@ -43,6 +56,11 @@ LANG_PREFIXES = ["/en/", "/ja/", "/ko/", "/es/", "/fr/"]
 # 顯式覆寫（必須在 routine memory 記一筆，不准靜默常態化）：
 #   BROKEN_LINK_THRESHOLD=4 bash scripts/tools/verify-internal-links.sh ...
 THRESHOLD_PERCENT = float(os.environ.get("BROKEN_LINK_THRESHOLD", "7.0"))
+
+# dist/ 允許的最大年齡（小時）。deploy 每次 push main 都會重跑，maintainer 是
+# 每日班，所以 24h 內的產物才代表「現在的站」。刻意要量舊產物時顯式覆寫，
+# 並在 routine memory 記一筆（不准靜默常態化，同 BROKEN_LINK_THRESHOLD 紀律）。
+MAX_DIST_AGE_HOURS = float(os.environ.get("BROKEN_LINK_MAX_DIST_AGE_HOURS", "24"))
 
 
 # ── HTML parser ──────────────────────────────────────────────────
@@ -308,6 +326,17 @@ def main():
 
     total_pages = len(html_files)
 
+    # dist/ 的新鮮度用「最新一個 html 的 mtime」量，不用目錄 mtime——目錄的
+    # mtime 任何一次 touch 都會變新，會謊報新鮮（proxy signal，REFLEXES #82）。
+    newest_html_mtime = None
+    for f in html_files:
+        try:
+            m = os.path.getmtime(f)
+        except OSError:
+            continue
+        if newest_html_mtime is None or m > newest_html_mtime:
+            newest_html_mtime = m
+
     # ── Extract and verify links ─────────────────────────────────
 
     all_links = []          # (source_file, href, text, category)
@@ -398,8 +427,27 @@ def main():
     # 那個假讀數還被寫進閾值。坑記錄了，出口沒補，所以今天在 origin/main 的乾淨
     # worktree 上又拿到一次 0/0 PASSED。
     # 0 筆不是健康，是沒量到，要有自己的符號（REFLEXES #85 / #24 第 8 種）。
+    # 量到了一堆，但量的是哪一天的 dist？（2026-09-25 maintainer-am 補）
+    # 上面那條補的是「0 筆不是健康」，這條補的是同一家族的下一格：
+    # 頁數看起來很漂亮、ratio 算得出來、於是印 PASSED，而 dist/ 是 18 天前的。
+    # 當天實測：dist/ 停在 2026-09-07、沒有一個 index.html 比 09-20 新，而那
+    # 18 天裡 babel 在 12 個語言上持續產出——最可能引入死連結的那一層，剛好
+    # 完全不在被量的那份產物裡。maintainer 的 quality gate 每天勾一次
+    # 「broken-link ratio < 7% ✅」，勾的是 09-07 的站。
+    # 陳舊要有自己的符號，不能借用「沒事」那個（REFLEXES #85 / #67 工作樹本身
+    # 可以是過期快照 / #82 產物是站體的替身）。
+    dist_age_hours = None
+    if newest_html_mtime is not None:
+        dist_age_hours = (time.time() - newest_html_mtime) / 3600.0
+        print(
+            f"  dist/ 產出時間                : "
+            f"{time.strftime('%Y-%m-%d %H:%M', time.localtime(newest_html_mtime))}"
+            f"（齡 {dist_age_hours:.1f}h，上限 {MAX_DIST_AGE_HOURS:.0f}h）"
+        )
     if total_pages == 0 or total_internal == 0:
         result = "NOT-MEASURED"
+    elif dist_age_hours is not None and dist_age_hours > MAX_DIST_AGE_HOURS:
+        result = "STALE"
     else:
         result = "PASS" if gated_ratio < THRESHOLD_PERCENT else "FAIL"
     print(f"  Result                       : {result}")
@@ -504,14 +552,22 @@ def main():
         print(f"  NOT-MEASURED — 掃到 {total_pages} 頁 / {total_internal} 條連結，沒有東西可量。")
         print(f"  這不是通過。{dist_dir}/ 是 build 產物，先跑 npm run build 再跑本檔；")
         print("  若是在 worktree 裡跑，該 worktree 沒有自己的 dist/。")
+    elif result == "STALE":
+        print(f"  STALE — dist/ 已經 {dist_age_hours:.1f} 小時沒更新（上限 {MAX_DIST_AGE_HOURS:.0f}h）。")
+        print(f"  這不是通過。gated ratio {gated_ratio:.2f}% 描述的是 "
+              f"{time.strftime('%Y-%m-%d', time.localtime(newest_html_mtime))} 那天的站，不是現在的站。")
+        print("  先跑 npm run build 再跑本檔；或顯式 BROKEN_LINK_MAX_DIST_AGE_HOURS=<h> 量舊產物。")
     elif result == "PASS":
         print(f"  PASSED — gated broken ratio {gated_ratio:.2f}% < {THRESHOLD_PERCENT}% (all-langs {broken_ratio:.2f}%)")
     else:
         print(f"  FAILED — gated broken ratio {gated_ratio:.2f}% >= {THRESHOLD_PERCENT}% (all-langs {broken_ratio:.2f}%)")
     print(sep)
 
-    # NOT-MEASURED 回 2，跟 FAIL 的 1 分開：呼叫端要能區分「壞了」與「沒量到」。
-    sys.exit(0 if result == "PASS" else (2 if result == "NOT-MEASURED" else 1))
+    # 四種結局各有自己的 exit code：呼叫端要能區分「壞了」「沒量到」「量的是舊的」。
+    # 0 PASS / 1 FAIL / 2 NOT-MEASURED / 3 STALE
+    sys.exit(
+        {"PASS": 0, "FAIL": 1, "NOT-MEASURED": 2, "STALE": 3}[result]
+    )
 
 
 if __name__ == "__main__":

@@ -21,6 +21,18 @@ MODE="${1:-scan}"
 
 # 已知語言碼（跟 src/config/languages.mjs 對齊；新語言出生時補這裡一個 alternation）
 LANGCODES="en|ja|ko|es|fr|vi|id|pt|hi|ar|ru|de|th"
+# ⚠️ 已知盲區，**本清單刻意還沒加 zh-TW**（2026-09-25 twmd-maintainer-am 量過）：
+# pattern 錨在 `[` 後面緊接一個已知語言碼，所以最自然的寫法——從預設語言開頭的
+# `["zh-TW", "en", "ja", ...]`——整個形狀目前隱形。加上 zh-TW 會多抓 6 處，其中
+#   真缺陷 2：scripts/core/generate-og-images.mjs:88（LANGUAGES 只有 4 語，
+#             另外 8 語沒有自己的 OG 圖）、scripts/tools/weekly-report-prep.py:701
+#             （週報語言面停在 zh-TW+5）
+#   合理 4：['zh-TW','ja','ko'] 這種 **CJK 字族集合**（companies/data template 的
+#           萬/억 單位判斷、check-ui-language 的 CJK_LANGS）——新語言出生時不該
+#           自動加進去，性質同已在允許清單的 src/i18n/utils.ts
+# 卡住的不是量測而是分類：本檔只有「per-file 允許」與「per-line 掛號（預設要還）」
+# 兩格，沒有「per-line 永久合理豁免」那一格，硬掛號會讓 4 個合理用法被當債務永久
+# 提醒。加 zh-TW 之前要先補那一格，屬 guard 設計改動，排 Full session。
 
 # Patterns 來抓 hardcoded language array。
 #
@@ -35,9 +47,21 @@ LANGCODES="en|ja|ko|es|fr|vi|id|pt|hi|ar|ru|de|th"
 # `?? VIZ_STRINGS['zh-TW']`，於是 vi/id/pt/hi/ar/ru 六語的 renderer UI 字串全退回
 # 中文：dist 上這六語共 43,045 個中文 aria-label，阿拉伯文 / 印地文 / 俄文讀者的
 # 螢幕閱讀器每個腳註都唸中文。加第二條 pattern 抓 union 形狀。
+# v4（2026-09-25 twmd-maintainer-am）：兩個盲區一起補。
+# (1) **副檔名**：v1-v3 只掃 ts/tsx/mjs/cjs/js/astro/sh，`.py` 從來不在名單裡，
+#     所以整條 python 工具鏈對這支檢查器是結構性隱形——而 `langs.py` 的檔頭早就
+#     寫明「六個工具各自 hardcode ["en","ja","ko","es","fr"]」。那個家族一直住在
+#     這支檢查器看不到的地方，於是它每天回報「✅ 無違反」。
+# (2) **斜線包裹形狀**：pattern 只認裸語言碼 `'en', 'ja'`，不認路由前綴
+#     `"/en/", "/ja/"`。verify_internal_links.py:29 就是後者，站體品質閘門的
+#     語言歸屬因此停在 5 個語言，de/ar/ru/pt/id/vi/hi 七語的連結全被記進 zh-TW
+#     那一列（實測 295,003 條連結、416 條死連結錯記）。
+# 誕生於同一次班：一支專為抓「寫死語言清單」而生的檢查器，對造它的那個病的
+# 最新一批 instance 回報全綠（REFLEXES #83 兩把尺 divergence / #82）。
 PATTERNS=(
   "\\[\\s*['\"]($LANGCODES)['\"]\\s*,\\s*['\"]($LANGCODES)['\"]\\s*,\\s*['\"]($LANGCODES)['\"]"
   "['\"]($LANGCODES)['\"]\\s*\\|\\s*['\"]($LANGCODES)['\"]\\s*\\|\\s*['\"]($LANGCODES)['\"]"
+  "['\"]/($LANGCODES)/['\"]\\s*,\\s*['\"]/($LANGCODES)/['\"]"
 )
 
 # 允許清單（這些檔案的 hardcoded 語言清單是 SSOT 本體或合理的歷史 mirror）
@@ -45,6 +69,10 @@ ALLOWLIST=(
   "src/config/languages.ts"
   "src/config/languages.mjs"
   "scripts/tools/check-hardcoded-langs.sh"
+  # python 工具鏈的 SSOT bridge 本體。它的 docstring 逐字引用了要抓的那個形狀
+  # （"六個工具各自 hardcode [...]"），跟本檔自己被允許的理由相同：說明病灶的
+  # 文字不是病灶。2026-09-25 把 .py 納入掃描範圍時現形。
+  "scripts/tools/lang-sync/langs.py"
   # 真陽性以外的一條：這是 per-language fallback cascade（缺 key 時依序退到哪個
   # 語言），是有順序的偏好清單，不是語言註冊表。新語言出生時本來就該自己決定
   # 退階順序，不能從 registry derive。
@@ -70,6 +98,28 @@ DEBT=(
   "src/data/opendata-content.ts:13|2026-07-26|OpendataLang：策展文案每語一份，補齊要寫六語整頁內容；/ar/opendata 現在是 6,051 漢字的中文頁"
   "src/data/mcp-content.ts:19|2026-07-26|McpLang：同上；/ar/mcp 現在是 1,082 漢字的中文頁"
   "src/templates/elections-2026.template.astro:122|2026-07-26|electionCopy：選舉專頁文案每語一份，同上"
+  # ── 2026-09-25 .py 納入掃描範圍後現形的 python 工具鏈（9 個，langs.py 已進
+  # 允許清單，其餘 8 個掛號）。分兩種性質，處置不同：
+  #
+  # A. 真盲區（清單停在 5-9 語，站上有 12 語）——這批有實際後果，要改成吃
+  #    langs.py。其中三個屬感知層，錯的讀數會流進儀表板與 AI 介面：
+  #    fetch-cloudflare 的 per-language 流量歸屬、refresh-llms-txt 的語言排序、
+  #    weekly-report-prep 的週報語言面。
+  # B. 已列滿 12 語的有序清單——`sibling-slug-map` 的 SIBLING_PRIORITY 是
+  #    fallback 偏好順序，性質同已允許的 src/i18n/utils.ts（新語言本來就該自己
+  #    決定退階位置，不能從 registry derive）；另兩個是列滿但仍該 derive。
+  #
+  # 本班（maintainer-am）只把它們從隱形變成可見 + 掛號，不當班順手改：A 類六個
+  # 檔各自要判斷「這個清單是語言註冊表還是有意義的順序」，而其中三個會動到儀表板
+  # 讀數，屬 quality gate 鄰接面。逐檔判斷排進 OBSERVER-QUEUE / 下一個 Full session。
+  "scripts/tools/fetch-cloudflare.py:431|2026-09-25|A 類感知層：lang_prefixes 停在 5 語，CF per-language 流量歸屬看不到 de/ar/ru/pt/id/vi/hi，讀數流進儀表板"
+  "scripts/tools/refresh-llms-txt.py:85|2026-09-25|A 類感知層：llms.txt 語言排序停在 5 語，AI crawler 看到的介面缺 7 語"
+  "scripts/tools/unify-translation-slugs.py:26|2026-09-25|A 類：LANGS 停在 5 語，slug 統一化跳過 7 語"
+  "scripts/tools/backfill-translated-from.py:55|2026-09-25|A 類：--lang choices 停在 5 語，7 語無法用此工具回填"
+  "scripts/tools/lang-sync/salvage-quarantined.py:21|2026-09-25|A 類：LANG_DIRS 9 語，缺 ar/ru/de——這三語的隔離譯文打撈不到"
+  "scripts/tools/lang-sync/name-consistency-check.py:50|2026-09-25|B 類：已列滿 12 語但仍寫死，下一個語言出生時會漂"
+  "scripts/tools/lang-sync/sovereignty-lexicon-check.py:79|2026-09-25|B 類：已列滿 12 語但仍寫死，同上"
+  "scripts/tools/lang-sync/sibling-slug-map.py:34|2026-09-25|B 類：SIBLING_PRIORITY 是 fallback 偏好順序，性質同 src/i18n/utils.ts，可能該進允許清單而非改 derive"
 )
 
 DEBT_SEEN=""
@@ -89,7 +139,7 @@ is_debt() {
 # 收集要掃描的檔案
 if [[ "$MODE" == "--staged" ]]; then
   FILES=$(git diff --cached --name-only --diff-filter=ACM \
-    | grep -E '\.(ts|tsx|mjs|cjs|js|astro|sh)$' || true)
+    | grep -E '\.(ts|tsx|mjs|cjs|js|astro|sh|py)$' || true)
 else
   # cli/ 與 workers/ 是分發層（npm 套件、MCP server、遠端 endpoint）。它們不在
   # 站體的 import 關係裡，所以站體的檢查一路看不到它們——2026-07-26 量到 cli 的
@@ -97,7 +147,7 @@ else
   FILES=$(find src scripts cli workers astro.config.mjs \
     -type f \
     \( -name "*.ts" -o -name "*.tsx" -o -name "*.mjs" -o -name "*.cjs" \
-       -o -name "*.js" -o -name "*.astro" -o -name "*.sh" \) \
+       -o -name "*.js" -o -name "*.astro" -o -name "*.sh" -o -name "*.py" \) \
     2>/dev/null | grep -v node_modules | grep -v dist || true)
 fi
 
