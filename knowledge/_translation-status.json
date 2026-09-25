@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-25T08:23:01+08:00",
-    "zhCommitHead": "33ba23bbd",
+    "lastUpdated": "2026-09-25T08:38:17+08:00",
+    "zhCommitHead": "da95d0404",
     "totalZh": 1124,
     "activeLanguages": [
       "en",
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1124,
-        "fresh": 1043,
+        "fresh": 1045,
         "stale": 17,
         "metadata_stale": 0,
-        "missing": 64,
+        "missing": 62,
         "orphan": 0
       },
       "ar": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1124,
-        "fresh": 1008,
+        "fresh": 1009,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 114,
+        "missing": 113,
         "orphan": 0
       }
     },
@@ -99343,8 +99343,8 @@
           "sourceContentHash": "sha256:8cc10fd808c3a1ae",
           "sourceBodyHash": "",
           "translatedAt": "2026-09-24T23:52:33.484038+00:00",
-          "translationLastCommit": "4f72f613",
-          "translationLastModified": "2026-08-31T08:48:08+08:00",
+          "translationLastCommit": "da95d040",
+          "translationLastModified": "2026-09-25T08:23:01+08:00",
           "inferred": false,
           "footnoteDefs": 51,
           "bytes": 54770,
@@ -104631,7 +104631,20 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/audrey-tang.md",
+          "translatedFrom": "People/唐鳳.md",
+          "sourceCommitSha": "e75b621d2",
+          "sourceContentHash": "sha256:1917aa69dfd8ab97",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T00:12:15.548675+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 44,
+          "bytes": 90824,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -130594,7 +130607,20 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/chia-yung-chieh.md",
+          "translatedFrom": "People/賈永婕.md",
+          "sourceCommitSha": "dd39065b2",
+          "sourceContentHash": "sha256:ef77f1a4a4a50fce",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T00:29:37.817306+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 34,
+          "bytes": 68848,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/chia-yung-chieh.md",
@@ -152319,12 +152345,12 @@
           "sourceCommitSha": "03b3aaae8",
           "sourceContentHash": "sha256:9939199675a5453a",
           "sourceBodyHash": "",
-          "translatedAt": "2026-09-23T00:59:58.053241+00:00",
+          "translatedAt": "2026-09-24T23:58:16.370202+00:00",
           "translationLastCommit": "e86f0b9e",
           "translationLastModified": "2026-09-23T10:15:23+08:00",
           "inferred": false,
           "footnoteDefs": 37,
-          "bytes": 34513,
+          "bytes": 32042,
           "armorResidue": 0,
           "status": "stale",
           "reason": "sha-lost-hash-mismatch"
@@ -158703,8 +158729,8 @@
           "sourceContentHash": "sha256:2fe5a6d2b2c5bb93",
           "sourceBodyHash": "sha256:b309cbb9088a34f0",
           "translatedAt": "2026-09-25T04:57:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "da95d040",
+          "translationLastModified": "2026-09-25T08:23:01+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "bytes": 28190,
@@ -208925,7 +208951,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Culture/taiwan-advertising-history.md",
+          "translatedFrom": "Culture/台灣廣告史.md",
+          "sourceCommitSha": "f7484ebea",
+          "sourceContentHash": "sha256:5bf5af7cbb7baf0f",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-09-25T00:15:08.820170+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 56,
+          "bytes": 51398,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
