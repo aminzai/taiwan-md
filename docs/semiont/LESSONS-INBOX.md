@@ -1088,6 +1088,17 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **verification_count**: 1
 - **severity**: tactical
 
+### 2026-09-27 twmd-spore-harvest-am — routine-prompt-prescribes-add-u-on-shared-index：routine 殼的收官指令寫 `git add -u`，在並行 dispatcher 共用的 index 上等於指示合併 commit
+
+- **pattern**: `routine-prompt-prescribes-add-u-on-shared-index`
+- **原則**：REFLEXES #6 已經寫明「平行 session 共享 index 時用 pathspec commit」，但 `docs/semiont/routine-prompts/twmd-spore-harvest-am.md` 的 Stage 4 仍寫 `git add -u`＋bare `git commit`。babel 產線常駐後 index 幾乎永遠帶著別人的 staged 檔，照殼執行就是把譯文掛進孢子收割的 SHA。規則在反射層，違反它的指令在 routine 殼層，當班只能靠自己想起 #6 來繞過殼。
+- **觸發**：2026-09-27 06:4x 收官時 index 有 babel 的 knowledge/ 譯文與 `reports/babel/fail-memo.json`（staged），本班改用 pathspec 收官（`86bbf8111`）。同早 embeddings-nightly 也記「routine 只用 pathspec commit」。→ memory/2026-09-27-064350-twmd-spore-harvest-am
+- **候選處置**：席位 `/twmd-routine`（動得了 routine-prompts/ 與 mirror）——把殼的收官段改成 pathspec／`git commit --only` 範例；順手 grep 其餘 routine-prompts 有無同型指令（babel-nightly 殼是「禁 `git add -u knowledge/`」，方向正確）。
+- **可能層級**：操作規則（REFLEXES #6 的殼層 instance）
+- **相關**：REFLEXES #6、#68；REFLEXES #63（routine prompt 是 cron context 唯一指令面，殼錯了當班就照錯的做）
+- **verification_count**: 1
+- **severity**: tactical
+
 ## ✅ 已消化（保留 pointer）
 
 <!-- distill 完的條目搬這裡 -->

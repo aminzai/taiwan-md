@@ -319,3 +319,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-27 | 053928-twmd-routine-sync | 第 60 輪：babel-nightly 缺 Stage 0.5，git 版較新照 git 補上機器（舊版存證）；cron／enabled 對 live 18 條零差；09-26 那輪因登入過期沒醒，新殼晚一晚送達 | 對賬器缺席一天，漂移就多活一站 | [→](memory/2026-09-27-053928-twmd-routine-sync.md) |
 | 2026-09-27 | 060322-twmd-embeddings-nightly | 13 語 14,469 向量 0 fail，verify PASS，`5267a8746` 推上；十三語篇數首次齊平 1,113；09-26 缺席因登入早兩天過期 | index 常有 dispatcher staged 檔，routine 只用 pathspec commit | [→](memory/2026-09-27-060322-twmd-embeddings-nightly.md) |
 | 2026-09-27 | 061126-twmd-data-refresh-am | 14 步全綠零過期，隔一天缺席後第一次刷新；營運狀態板每天把正在跑的自己記成錯過，加三小時寬限修掉 | 被評分者產生的板，會把「還在跑」記成「錯過」 | [→](memory/2026-09-27-061126-twmd-data-refresh-am.md) |
+| 2026-09-27 | 064350-twmd-spore-harvest-am | 缺席一天後第一次掃：動態頁零新留言；#29 李洋聚合到 1.4 萬照門檻重抓 D+166，留言 +2 卻在頂層找不到 | 計數差是巢狀層缺口唯一的記號；殼的 add -u 在共用 index 上會合併 commit | [→](memory/2026-09-27-064350-twmd-spore-harvest-am.md) |
