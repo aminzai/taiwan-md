@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-24T22:04:41.453Z",
+  "lastUpdated": "2026-09-26T22:06:47.337Z",
   "organs": [
     {
       "id": "heart",
@@ -10,12 +10,12 @@
       "score": 90,
       "trend": "up",
       "metrics": {
-        "articlesLast7Days": 45,
-        "articlesLast30Days": 90,
+        "articlesLast7Days": 41,
+        "articlesLast30Days": 94,
         "totalArticles": 1122,
-        "selfProducedLast7Days": 3,
-        "selfProducedLast30Days": 4,
-        "contributedLast7Days": 42
+        "selfProducedLast7Days": 1,
+        "selfProducedLast30Days": 5,
+        "contributedLast7Days": 40
       }
     },
     {
@@ -24,7 +24,7 @@
       "nameZh": "免疫系統",
       "metaphor": "品質防禦",
       "emoji": "🛡️",
-      "score": 59,
+      "score": 57,
       "trend": "up",
       "version": "v2-2026-05-16",
       "metrics": {
@@ -37,9 +37,9 @@
           "plugin_pass_rate": 70.1,
           "plugin_health": 100,
           "citation_density": 93.8,
-          "tool_freshness": 60,
+          "tool_freshness": 40,
           "drift_velocity": 90,
-          "external_rulers": 3.5
+          "external_rulers": 3.7
         }
       }
     },
@@ -52,7 +52,7 @@
       "score": 95,
       "trend": "up",
       "metrics": {
-        "editorialLastModified": "2026-09-19T03:28:26.000Z"
+        "editorialLastModified": "2026-09-26T17:10:07.000Z"
       }
     },
     {
@@ -116,31 +116,31 @@
       "nameZh": "語言器官",
       "metaphor": "多語言複製",
       "emoji": "🌐",
-      "score": 90,
+      "score": 92,
       "trend": "up",
       "metrics": {
         "languageCoverage": {
           "zh-TW": 1122,
-          "en": 1108,
-          "ja": 1073,
-          "ko": 1113,
-          "es": 1111,
-          "fr": 1112,
-          "vi": 1114,
-          "id": 1073,
-          "pt": 1100,
-          "hi": 1055,
-          "ar": 1079,
-          "ru": 1087,
-          "de": 1000
+          "en": 1122,
+          "ja": 1122,
+          "ko": 1122,
+          "es": 1122,
+          "fr": 1122,
+          "vi": 1122,
+          "id": 1122,
+          "pt": 1122,
+          "hi": 1122,
+          "ar": 1122,
+          "ru": 1122,
+          "de": 1122
         },
-        "translationPct": 90,
+        "translationPct": 92,
         "langHealthDetails": {
           "en": {
             "ui": {
               "filled": 202,
-              "total": 228,
-              "pct": 89,
+              "total": 229,
+              "pct": 88,
               "kind": "explicit-key-presence",
               "qualityVerified": false
             },
@@ -223,16 +223,16 @@
               "pct": 92
             },
             "articles": {
-              "count": 1108,
-              "pct": 99
+              "count": 1122,
+              "pct": 100
             },
-            "score": 96
+            "score": 97
           },
           "ja": {
             "ui": {
               "filled": 202,
-              "total": 228,
-              "pct": 89,
+              "total": 229,
+              "pct": 88,
               "kind": "explicit-key-presence",
               "qualityVerified": false
             },
@@ -315,16 +315,16 @@
               "pct": 0
             },
             "articles": {
-              "count": 1073,
-              "pct": 96
+              "count": 1122,
+              "pct": 100
             },
-            "score": 77
+            "score": 78
           },
           "ko": {
             "ui": {
               "filled": 202,
-              "total": 228,
-              "pct": 89,
+              "total": 229,
+              "pct": 88,
               "kind": "explicit-key-presence",
               "qualityVerified": false
             },
@@ -407,16 +407,16 @@
               "pct": 92
             },
             "articles": {
-              "count": 1113,
-              "pct": 99
+              "count": 1122,
+              "pct": 100
             },
             "score": 96
           },
           "es": {
             "ui": {
               "filled": 202,
-              "total": 228,
-              "pct": 89,
+              "total": 229,
+              "pct": 88,
               "kind": "explicit-key-presence",
               "qualityVerified": false
             },
@@ -499,16 +499,16 @@
               "pct": 92
             },
             "articles": {
-              "count": 1111,
-              "pct": 99
+              "count": 1122,
+              "pct": 100
             },
             "score": 96
           },
           "fr": {
             "ui": {
               "filled": 202,
-              "total": 228,
-              "pct": 89,
+              "total": 229,
+              "pct": 88,
               "kind": "explicit-key-presence",
               "qualityVerified": false
             },
@@ -591,16 +591,16 @@
               "pct": 23
             },
             "articles": {
-              "count": 1112,
-              "pct": 99
+              "count": 1122,
+              "pct": 100
             },
-            "score": 82
+            "score": 83
           },
           "vi": {
             "ui": {
               "filled": 202,
-              "total": 228,
-              "pct": 89,
+              "total": 229,
+              "pct": 88,
               "kind": "explicit-key-presence",
               "qualityVerified": false
             },
@@ -683,15 +683,15 @@
               "pct": 100
             },
             "articles": {
-              "count": 1114,
-              "pct": 99
+              "count": 1122,
+              "pct": 100
             },
             "score": 98
           },
           "id": {
             "ui": {
               "filled": 201,
-              "total": 228,
+              "total": 229,
               "pct": 88,
               "kind": "explicit-key-presence",
               "qualityVerified": false
@@ -775,15 +775,15 @@
               "pct": 100
             },
             "articles": {
-              "count": 1073,
-              "pct": 96
+              "count": 1122,
+              "pct": 100
             },
-            "score": 96
+            "score": 98
           },
           "pt": {
             "ui": {
               "filled": 201,
-              "total": 228,
+              "total": 229,
               "pct": 88,
               "kind": "explicit-key-presence",
               "qualityVerified": false
@@ -867,16 +867,16 @@
               "pct": 100
             },
             "articles": {
-              "count": 1100,
-              "pct": 98
+              "count": 1122,
+              "pct": 100
             },
-            "score": 97
+            "score": 98
           },
           "hi": {
             "ui": {
               "filled": 202,
-              "total": 228,
-              "pct": 89,
+              "total": 229,
+              "pct": 88,
               "kind": "explicit-key-presence",
               "qualityVerified": false
             },
@@ -959,107 +959,15 @@
               "pct": 100
             },
             "articles": {
-              "count": 1055,
-              "pct": 94
+              "count": 1122,
+              "pct": 100
             },
-            "score": 96
+            "score": 98
           },
           "ar": {
             "ui": {
               "filled": 202,
-              "total": 228,
-              "pct": 89,
-              "kind": "explicit-key-presence",
-              "qualityVerified": false
-            },
-            "pages": {
-              "filled": 1967,
-              "total": 1983,
-              "pct": 99,
-              "kind": "explicit-key-presence",
-              "qualityVerified": false,
-              "details": [
-                {
-                  "page": "about",
-                  "filled": 270,
-                  "total": 276,
-                  "pct": 98,
-                  "kind": "explicit-key-presence",
-                  "qualityVerified": false
-                },
-                {
-                  "page": "contribute",
-                  "filled": 354,
-                  "total": 354,
-                  "pct": 100,
-                  "kind": "explicit-key-presence",
-                  "qualityVerified": false
-                },
-                {
-                  "page": "dashboard",
-                  "filled": 150,
-                  "total": 150,
-                  "pct": 100,
-                  "kind": "explicit-key-presence",
-                  "qualityVerified": false
-                },
-                {
-                  "page": "data",
-                  "filled": 331,
-                  "total": 341,
-                  "pct": 97,
-                  "kind": "explicit-key-presence",
-                  "qualityVerified": false
-                },
-                {
-                  "page": "map",
-                  "filled": 455,
-                  "total": 455,
-                  "pct": 100,
-                  "kind": "explicit-key-presence",
-                  "qualityVerified": false
-                },
-                {
-                  "page": "resources",
-                  "filled": 361,
-                  "total": 361,
-                  "pct": 100,
-                  "kind": "explicit-key-presence",
-                  "qualityVerified": false
-                },
-                {
-                  "page": "changelog",
-                  "filled": 12,
-                  "total": 12,
-                  "pct": 100,
-                  "kind": "explicit-key-presence",
-                  "qualityVerified": false
-                },
-                {
-                  "page": "assets",
-                  "filled": 34,
-                  "total": 34,
-                  "pct": 100,
-                  "kind": "explicit-key-presence",
-                  "qualityVerified": false
-                }
-              ]
-            },
-            "hubs": {
-              "filled": 0,
-              "total": 13,
-              "pct": 0
-            },
-            "articles": {
-              "count": 1079,
-              "pct": 96
-            },
-            "score": 77
-          },
-          "ru": {
-            "ui": {
-              "filled": 201,
-              "total": 228,
+              "total": 229,
               "pct": 88,
               "kind": "explicit-key-presence",
               "qualityVerified": false
@@ -1143,16 +1051,108 @@
               "pct": 0
             },
             "articles": {
-              "count": 1087,
-              "pct": 97
+              "count": 1122,
+              "pct": 100
             },
-            "score": 77
+            "score": 78
+          },
+          "ru": {
+            "ui": {
+              "filled": 201,
+              "total": 229,
+              "pct": 88,
+              "kind": "explicit-key-presence",
+              "qualityVerified": false
+            },
+            "pages": {
+              "filled": 1967,
+              "total": 1983,
+              "pct": 99,
+              "kind": "explicit-key-presence",
+              "qualityVerified": false,
+              "details": [
+                {
+                  "page": "about",
+                  "filled": 270,
+                  "total": 276,
+                  "pct": 98,
+                  "kind": "explicit-key-presence",
+                  "qualityVerified": false
+                },
+                {
+                  "page": "contribute",
+                  "filled": 354,
+                  "total": 354,
+                  "pct": 100,
+                  "kind": "explicit-key-presence",
+                  "qualityVerified": false
+                },
+                {
+                  "page": "dashboard",
+                  "filled": 150,
+                  "total": 150,
+                  "pct": 100,
+                  "kind": "explicit-key-presence",
+                  "qualityVerified": false
+                },
+                {
+                  "page": "data",
+                  "filled": 331,
+                  "total": 341,
+                  "pct": 97,
+                  "kind": "explicit-key-presence",
+                  "qualityVerified": false
+                },
+                {
+                  "page": "map",
+                  "filled": 455,
+                  "total": 455,
+                  "pct": 100,
+                  "kind": "explicit-key-presence",
+                  "qualityVerified": false
+                },
+                {
+                  "page": "resources",
+                  "filled": 361,
+                  "total": 361,
+                  "pct": 100,
+                  "kind": "explicit-key-presence",
+                  "qualityVerified": false
+                },
+                {
+                  "page": "changelog",
+                  "filled": 12,
+                  "total": 12,
+                  "pct": 100,
+                  "kind": "explicit-key-presence",
+                  "qualityVerified": false
+                },
+                {
+                  "page": "assets",
+                  "filled": 34,
+                  "total": 34,
+                  "pct": 100,
+                  "kind": "explicit-key-presence",
+                  "qualityVerified": false
+                }
+              ]
+            },
+            "hubs": {
+              "filled": 0,
+              "total": 13,
+              "pct": 0
+            },
+            "articles": {
+              "count": 1122,
+              "pct": 100
+            },
+            "score": 78
           },
           "de": {
             "ui": {
               "filled": 227,
-              "total": 228,
-              "pct": 100,
+              "total": 229,
+              "pct": 99,
               "kind": "explicit-key-presence",
               "qualityVerified": false
             },
@@ -1235,10 +1235,10 @@
               "pct": 100
             },
             "articles": {
-              "count": 1000,
-              "pct": 89
+              "count": 1122,
+              "pct": 100
             },
-            "score": 96
+            "score": 100
           }
         }
       }

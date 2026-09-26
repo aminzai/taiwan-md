@@ -1,40 +1,40 @@
 {
-  "totalArticles": 14173,
+  "totalArticles": 14612,
   "totalCategories": 27,
-  "estimatedContributors": 75,
-  "totalTags": 9109,
+  "estimatedContributors": 76,
+  "totalTags": 9173,
   "categories": [
     {
       "name": "vi",
-      "count": 1116
+      "count": 1124
     },
     {
       "name": "es",
-      "count": 1113
+      "count": 1124
     },
     {
       "name": "ko",
-      "count": 1115
+      "count": 1124
     },
     {
       "name": "hi",
-      "count": 1057
+      "count": 1124
     },
     {
       "name": "fr",
-      "count": 1114
+      "count": 1124
     },
     {
       "name": "en",
-      "count": 1110
+      "count": 1124
     },
     {
       "name": "ja",
-      "count": 1075
+      "count": 1124
     },
     {
       "name": "ru",
-      "count": 1089
+      "count": 1124
     },
     {
       "name": "Technology",
@@ -46,15 +46,15 @@
     },
     {
       "name": "id",
-      "count": 1075
+      "count": 1124
     },
     {
       "name": "ar",
-      "count": 1081
+      "count": 1124
     },
     {
       "name": "pt",
-      "count": 1102
+      "count": 1124
     },
     {
       "name": "Politics",
@@ -70,7 +70,7 @@
     },
     {
       "name": "de",
-      "count": 1002
+      "count": 1124
     },
     {
       "name": "Lifestyle",
@@ -116,7 +116,7 @@
   "topTags": [
     {
       "name": "Economy",
-      "count": 67
+      "count": 66
     },
     {
       "name": "人物",
@@ -124,7 +124,7 @@
     },
     {
       "name": "企業",
-      "count": 56
+      "count": 55
     },
     {
       "name": "YouTuber",
@@ -136,7 +136,7 @@
     },
     {
       "name": "民主化",
-      "count": 31
+      "count": 32
     },
     {
       "name": "原住民族",
@@ -152,6 +152,10 @@
     },
     {
       "name": "台南",
+      "count": 27
+    },
+    {
+      "name": "政治",
       "count": 26
     },
     {
@@ -159,23 +163,23 @@
       "count": 26
     },
     {
-      "name": "政治",
-      "count": 25
-    },
-    {
       "name": "AI",
-      "count": 25
-    },
-    {
-      "name": "원주민",
-      "count": 25
-    },
-    {
-      "name": "기업",
-      "count": 25
+      "count": 26
     },
     {
       "name": "飲食文化",
+      "count": 25
+    },
+    {
+      "name": "建築",
+      "count": 24
+    },
+    {
+      "name": "원주민",
+      "count": 24
+    },
+    {
+      "name": "기업",
       "count": 24
     },
     {
@@ -187,37 +191,33 @@
       "count": 23
     },
     {
-      "name": "建築",
-      "count": 23
-    },
-    {
-      "name": "體育",
-      "count": 23
+      "name": "奧運",
+      "count": 22
     }
   ],
   "languageDistribution": {
-    "zh-TW": 14173,
+    "zh-TW": 14612,
     "en": 0
   },
-  "lastUpdated": "2026-09-24T22:04:22.294Z",
+  "lastUpdated": "2026-09-26T22:06:30.389Z",
   "stars": 1190,
   "forks": 187,
   "zhPages": 1122,
   "languagePages": {
     "zh-TW": 1122,
-    "en": 1110,
-    "ja": 1075,
-    "ko": 1115,
-    "es": 1113,
-    "fr": 1114,
-    "vi": 1116,
-    "id": 1075,
-    "pt": 1102,
-    "hi": 1057,
-    "ar": 1081,
-    "ru": 1089,
-    "de": 1002
+    "en": 1124,
+    "ja": 1124,
+    "ko": 1124,
+    "es": 1124,
+    "fr": 1124,
+    "vi": 1124,
+    "id": 1124,
+    "pt": 1124,
+    "hi": 1124,
+    "ar": 1124,
+    "ru": 1124,
+    "de": 1124
   },
-  "enPages": 1110,
+  "enPages": 1124,
   "totalPages": 1122
 }

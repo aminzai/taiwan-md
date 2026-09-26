@@ -97,26 +97,26 @@ a human — that boundary is the design, not a limitation. The full contract is
 | ------------------------------ | ----- |
 | 📄 Total articles (zh-TW SSOT) | 1122  |
 | 🇹🇼 Chinese (zh-TW)             | 1122  |
-| 🇺🇸 English (en)                | 1110  |
-| 🇯🇵 日本語 (ja)                 | 1075  |
-| 🇰🇷 한국어 (ko)                 | 1115  |
-| 🇪🇸 Español (es)                | 1113  |
-| 🇫🇷 Français (fr)               | 1114  |
-| 🇻🇳 Tiếng Việt (vi)             | 1116  |
-| 🇮🇩 Bahasa Indonesia (id)       | 1075  |
-| 🇵🇹 Português (pt)              | 1102  |
-| 🇮🇳 हिन्दी (hi)                 | 1057  |
-| 🇸🇦 العربية (ar)                | 1081  |
-| 🇷🇺 Русский (ru)                | 1089  |
-| 🌐 Deutsch (de)                | 1002  |
+| 🇺🇸 English (en)                | 1124  |
+| 🇯🇵 日本語 (ja)                 | 1124  |
+| 🇰🇷 한국어 (ko)                 | 1124  |
+| 🇪🇸 Español (es)                | 1124  |
+| 🇫🇷 Français (fr)               | 1124  |
+| 🇻🇳 Tiếng Việt (vi)             | 1124  |
+| 🇮🇩 Bahasa Indonesia (id)       | 1124  |
+| 🇵🇹 Português (pt)              | 1124  |
+| 🇮🇳 हिन्दी (hi)                 | 1124  |
+| 🇸🇦 العربية (ar)                | 1124  |
+| 🇷🇺 Русский (ru)                | 1124  |
+| 🌐 Deutsch (de)                | 1124  |
 | 📂 Categories                  | 14    |
 | 🕸️ Knowledge graph nodes       | 220+  |
 | 🔗 Resource websites           | 146+  |
-| 👥 Contributors                | 75    |
+| 👥 Contributors                | 76    |
 | ⭐ GitHub Stars                | 1190  |
 | 🍴 Forks                       | 187   |
-| 📅 Articles last 7 days        | 45    |
-| 📅 Articles last 30 days       | 90    |
+| 📅 Articles last 7 days        | 41    |
+| 📅 Articles last 30 days       | 94    |
 
 <!-- STATS:END -->
 
@@ -612,12 +612,13 @@ Thanks to these wonderful people ([emoji key](https://allcontributors.org/docs/e
     <td align="center"><a href="https://github.com/r000tmnt"><img src="https://avatars.githubusercontent.com/u/62630285?v=4" width="100px;" alt=""/><br /><sub><b>ParkCorner</b></sub></a><br />💻 🖋️</td>
     <td align="center"><a href="https://github.com/gn00295120"><img src="https://avatars.githubusercontent.com/u/30173341?v=4" width="100px;" alt=""/><br /><sub><b>Lucas Wang</b></sub></a><br />💻 🌍</td>
     <td align="center"><a href="https://github.com/wegoliao"><img src="https://avatars.githubusercontent.com/u/10190551?v=4" width="100px;" alt=""/><br /><sub><b>wegoliao</b></sub></a><br />🖋️</td>
+    <td align="center"><a href="https://github.com/kwt-klure"><img src="https://avatars.githubusercontent.com/u/53093680?v=4" width="100px;" alt=""/><br /><sub><b>kwt-klure</b></sub></a><br />💻</td>
     <td align="center"><a href="https://github.com/jessejs0202"><img src="https://avatars.githubusercontent.com/u/247524286?v=4" width="100px;" alt=""/><br /><sub><b>jessejs0202</b></sub></a><br />💻 🌍</td>
     <td align="center"><a href="https://github.com/benben6515"><img src="https://avatars.githubusercontent.com/u/61361198?v=4" width="100px;" alt=""/><br /><sub><b>benben6515</b></sub></a><br />💻</td>
     <td align="center"><a href="https://github.com/siansiansu"><img src="https://avatars.githubusercontent.com/u/33391637?v=4" width="100px;" alt=""/><br /><sub><b>siansiansu</b></sub></a><br />💻 🖋️</td>
-    <td align="center"><a href="https://github.com/Lisa123wang"><img src="https://avatars.githubusercontent.com/u/103297468?v=4" width="100px;" alt=""/><br /><sub><b>Lisa</b></sub></a><br />🖋️ 🌍</td>
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/Lisa123wang"><img src="https://avatars.githubusercontent.com/u/103297468?v=4" width="100px;" alt=""/><br /><sub><b>Lisa</b></sub></a><br />🖋️ 🌍</td>
     <td align="center"><a href="https://github.com/Johnwang860424"><img src="https://avatars.githubusercontent.com/u/43649946?v=4" width="100px;" alt=""/><br /><sub><b>Johnwang</b></sub></a><br />💻 🖋️</td>
     <td align="center"><a href="https://github.com/jekyll530"><img src="https://avatars.githubusercontent.com/u/150101610?v=4" width="100px;" alt=""/><br /><sub><b>jekyll530</b></sub></a><br />🖋️ 🌍</td>
     <td align="center"><a href="https://github.com/f312213213"><img src="https://avatars.githubusercontent.com/u/71749524?v=4" width="100px;" alt=""/><br /><sub><b>David</b></sub></a><br />💻 🌍</td>
@@ -625,9 +626,9 @@ Thanks to these wonderful people ([emoji key](https://allcontributors.org/docs/e
     <td align="center"><a href="https://github.com/expectingshadowland-maker"><img src="https://avatars.githubusercontent.com/u/276374199?v=4" width="100px;" alt=""/><br /><sub><b>expectingshadowland-maker</b></sub></a><br />🖋️</td>
     <td align="center"><a href="https://github.com/jacky1822"><img src="https://avatars.githubusercontent.com/u/94786796?v=4" width="100px;" alt=""/><br /><sub><b>jacky1822</b></sub></a><br />🖋️</td>
     <td align="center"><a href="https://github.com/jinnshuchang"><img src="https://avatars.githubusercontent.com/u/231710471?v=4" width="100px;" alt=""/><br /><sub><b>jinnshuchang</b></sub></a><br />🖋️</td>
-    <td align="center"><a href="https://github.com/k66inthesky"><img src="https://avatars.githubusercontent.com/u/45890492?v=4" width="100px;" alt=""/><br /><sub><b>k66inthesky</b></sub></a><br />🖋️</td>
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/k66inthesky"><img src="https://avatars.githubusercontent.com/u/45890492?v=4" width="100px;" alt=""/><br /><sub><b>k66inthesky</b></sub></a><br />🖋️</td>
     <td align="center"><a href="https://github.com/kevinyay945"><img src="https://avatars.githubusercontent.com/u/17717808?v=4" width="100px;" alt=""/><br /><sub><b>kevinyay945</b></sub></a><br />💻 📖</td>
     <td align="center"><a href="https://github.com/littlecabin-co"><img src="https://avatars.githubusercontent.com/u/269660511?v=4" width="100px;" alt=""/><br /><sub><b>littlecabin-co</b></sub></a><br />💻 🖋️</td>
     <td align="center"><a href="https://github.com/luofreddy"><img src="https://avatars.githubusercontent.com/u/85281073?v=4" width="100px;" alt=""/><br /><sub><b>luofreddy</b></sub></a><br />💻</td>
@@ -635,9 +636,9 @@ Thanks to these wonderful people ([emoji key](https://allcontributors.org/docs/e
     <td align="center"><a href="https://github.com/ro9er117911"><img src="https://avatars.githubusercontent.com/u/127029993?v=4" width="100px;" alt=""/><br /><sub><b>ro9er117911</b></sub></a><br />💻 🖋️</td>
     <td align="center"><a href="https://github.com/sageotomo"><img src="https://avatars.githubusercontent.com/u/271172009?v=4" width="100px;" alt=""/><br /><sub><b>sageotomo</b></sub></a><br />💻</td>
     <td align="center"><a href="https://github.com/ytchen175"><img src="https://avatars.githubusercontent.com/u/58975450?v=4" width="100px;" alt=""/><br /><sub><b>ytchen175</b></sub></a><br />🖋️</td>
-    <td align="center"><a href="https://github.com/Rushyuheng"><img src="https://avatars.githubusercontent.com/u/15012940?v=4" width="100px;" alt=""/><br /><sub><b>Rushyuheng</b></sub></a><br />💻 🖋️</td>
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/Rushyuheng"><img src="https://avatars.githubusercontent.com/u/15012940?v=4" width="100px;" alt=""/><br /><sub><b>Rushyuheng</b></sub></a><br />💻 🖋️</td>
     <td align="center"><a href="https://github.com/yuweichen1008"><img src="https://avatars.githubusercontent.com/u/12914366?v=4" width="100px;" alt=""/><br /><sub><b>Yuwei Chen</b></sub></a><br />💻 🖋️</td>
     <td align="center"><a href="https://github.com/x1001000"><img src="https://avatars.githubusercontent.com/u/6036508?v=4" width="100px;" alt=""/><br /><sub><b>十百千</b></sub></a><br />💻 🖋️</td>
     <td align="center"><a href="https://github.com/ycku"><img src="https://avatars.githubusercontent.com/u/20721473?v=4" width="100px;" alt=""/><br /><sub><b>ycku</b></sub></a><br />🖋️</td>
@@ -645,9 +646,9 @@ Thanks to these wonderful people ([emoji key](https://allcontributors.org/docs/e
     <td align="center"><a href="https://github.com/assanges"><img src="https://avatars.githubusercontent.com/u/4113063?v=4" width="100px;" alt=""/><br /><sub><b>Sean Young</b></sub></a><br />💻</td>
     <td align="center"><a href="https://github.com/RayHsu1117"><img src="https://avatars.githubusercontent.com/u/105488123?v=4" width="100px;" alt=""/><br /><sub><b>RayHsu1117</b></sub></a><br />💻</td>
     <td align="center"><a href="https://github.com/NeilLee93"><img src="https://avatars.githubusercontent.com/u/97795790?v=4" width="100px;" alt=""/><br /><sub><b>NeilLee93</b></sub></a><br />💻</td>
-    <td align="center"><a href="https://github.com/TWjohnwang"><img src="https://avatars.githubusercontent.com/u/108091299?v=4" width="100px;" alt=""/><br /><sub><b>TWjohnwang</b></sub></a><br />💻</td>
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/TWjohnwang"><img src="https://avatars.githubusercontent.com/u/108091299?v=4" width="100px;" alt=""/><br /><sub><b>TWjohnwang</b></sub></a><br />💻</td>
     <td align="center"><a href="https://github.com/howieyoung"><img src="https://avatars.githubusercontent.com/u/12218074?v=4" width="100px;" alt=""/><br /><sub><b>Howie Young</b></sub></a><br />💻 🛡️</td>
     <td align="center"><a href="https://github.com/XasonLai"><img src="https://avatars.githubusercontent.com/u/12758654?v=4" width="100px;" alt=""/><br /><sub><b>XasonLai</b></sub></a><br />💻</td>
     <td align="center"><a href="https://github.com/chenyi-wu"><img src="https://avatars.githubusercontent.com/u/66383520?v=4" width="100px;" alt=""/><br /><sub><b>Chen-Yi Wu</b></sub></a><br />💻 🖋️</td>
@@ -655,9 +656,9 @@ Thanks to these wonderful people ([emoji key](https://allcontributors.org/docs/e
     <td align="center"><a href="https://github.com/cwlin0131"><img src="https://avatars.githubusercontent.com/u/101349007?v=4" width="100px;" alt=""/><br /><sub><b>cwlin0131</b></sub></a><br />🖋️</td>
     <td align="center"><a href="https://github.com/chipohao"><img src="https://avatars.githubusercontent.com/u/61603468?v=4" width="100px;" alt=""/><br /><sub><b>chipohao</b></sub></a><br />🖋️</td>
     <td align="center"><a href="https://github.com/brianhu-tw"><img src="https://avatars.githubusercontent.com/u/9028425?v=4" width="100px;" alt=""/><br /><sub><b>Brian Hu</b></sub></a><br />💻 🌍</td>
-    <td align="center"><a href="https://github.com/AndyWang505"><img src="https://avatars.githubusercontent.com/u/71600455?v=4" width="100px;" alt=""/><br /><sub><b>Andy Wang</b></sub></a><br />💻</td>
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/AndyWang505"><img src="https://avatars.githubusercontent.com/u/71600455?v=4" width="100px;" alt=""/><br /><sub><b>Andy Wang</b></sub></a><br />💻</td>
     <td align="center"><a href="https://github.com/Aaron2464"><img src="https://avatars.githubusercontent.com/u/31269964?v=4" width="100px;" alt=""/><br /><sub><b>Aaron2464</b></sub></a><br />💻</td>
     <td align="center"><a href="https://github.com/idlccp02"><img src="https://avatars.githubusercontent.com/u/233878411?v=4" width="100px;" alt=""/><br /><sub><b>idlccp02</b></sub></a><br />🖋️</td>
     <td align="center"><a href="https://github.com/alstontsai0816"><img src="https://avatars.githubusercontent.com/u/194244853?v=4" width="100px;" alt=""/><br /><sub><b>我們一家都很蔡</b></sub></a><br />🐛</td>
@@ -665,9 +666,9 @@ Thanks to these wonderful people ([emoji key](https://allcontributors.org/docs/e
     <td align="center"><a href="https://github.com/kouchun"><img src="https://avatars.githubusercontent.com/kouchun" width="100px;" alt=""/><br /><sub><b>kouchun</b></sub></a><br />🌍</td>
     <td align="center"><a href="https://github.com/S3A432087"><img src="https://avatars.githubusercontent.com/S3A432087" width="100px;" alt=""/><br /><sub><b>S3A432087</b></sub></a><br />🌍</td>
     <td align="center"><a href="https://github.com/Phaapnag"><img src="https://avatars.githubusercontent.com/Phaapnag" width="100px;" alt=""/><br /><sub><b>Phaapnag</b></sub></a><br />🌍</td>
-    <td align="center"><a href="https://github.com/chaoshanhsu"><img src="https://avatars.githubusercontent.com/chaoshanhsu" width="100px;" alt=""/><br /><sub><b>chaoshanhsu</b></sub></a><br />🐛</td>
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/chaoshanhsu"><img src="https://avatars.githubusercontent.com/chaoshanhsu" width="100px;" alt=""/><br /><sub><b>chaoshanhsu</b></sub></a><br />🐛</td>
     <td align="center"><a href="https://github.com/twlilirentw-coder"><img src="https://avatars.githubusercontent.com/twlilirentw-coder" width="100px;" alt=""/><br /><sub><b>twlilirentw-coder</b></sub></a><br />🐛</td>
     <td align="center"><a href="https://github.com/notoriouslab"><img src="https://avatars.githubusercontent.com/notoriouslab" width="100px;" alt=""/><br /><sub><b>notoriouslab</b></sub></a><br />🤔</td>
     <td align="center"><a href="https://github.com/tan-i-ham"><img src="https://avatars.githubusercontent.com/tan-i-ham" width="100px;" alt=""/><br /><sub><b>tan-i-ham</b></sub></a><br />🤔</td>

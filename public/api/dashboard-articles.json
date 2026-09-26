@@ -1,5 +1,230 @@
 [
   {
+    "title": "一篇文章是怎麼長出來的：Taiwan.md 那條對抗 AI 寫作本能的六階產線（REWRITE-PIPELINE v7.5 × EDITORIAL v6.12）",
+    "slug": "文章如何誕生",
+    "category": "about",
+    "subcategory": null,
+    "date": "2026-06-19",
+    "lastModified": "2026-09-26",
+    "lastVerified": "2026-06-19",
+    "lastHumanReview": false,
+    "curation": null,
+    "featured": false,
+    "wordCount": 7976,
+    "tagCount": 0,
+    "tags": [],
+    "translations": {
+      "en": true,
+      "ja": true,
+      "ko": true,
+      "es": true,
+      "fr": true,
+      "vi": true,
+      "id": true,
+      "pt": true,
+      "hi": true,
+      "ar": true,
+      "ru": true,
+      "de": true
+    },
+    "revision": 6,
+    "commitHash": "1749b429",
+    "commitSubject": "EDITORIAL：戴資穎 214 週是累計不是連續",
+    "description": "你讀到的每一篇 Taiwan.md 文章，有溫度、有場景、可查證，背後是 6 個階段、20 幾道不准跳過的閘門、一支不自己寫稿的 AI 編輯部。這台機器存在的唯一理由，是 AI 寫作最會犯的那些錯：搜到事實就照時間排、長出沒有資訊量的塑膠句、把英文摘要回譯成假引語、讀了舊文就被它的壞習慣感染。這是拆解這條產線的文章，而它自己也是這條產線跑出來的。",
+    "healthScore": 45,
+    "qualityScore": 13,
+    "formatIssues": 1,
+    "hasOverview": true,
+    "hasReading": false,
+    "fnCount": 13,
+    "bodyInternalLinks": 0,
+    "bodyInternalLinksZero": true
+  },
+  {
+    "title": "動物園與展演動物倫理",
+    "slug": "動物園與展演動物倫理",
+    "category": "society",
+    "subcategory": "動物與倫理",
+    "date": "2026-03-18",
+    "lastModified": "2026-09-25",
+    "lastVerified": "2026-03-19",
+    "lastHumanReview": false,
+    "curation": null,
+    "featured": false,
+    "wordCount": 3644,
+    "tagCount": 0,
+    "tags": [],
+    "translations": {
+      "en": true,
+      "ja": true,
+      "ko": true,
+      "es": true,
+      "fr": true,
+      "vi": true,
+      "id": true,
+      "pt": true,
+      "hi": true,
+      "ar": true,
+      "ru": true,
+      "de": true
+    },
+    "revision": 11,
+    "commitHash": "8a859629",
+    "commitSubject": "🧬 [semiont] heal: 〈動物園與展演動物倫理〉同一個錯的年份套在兩條法規上，兩句園長引語查無出處",
+    "description": "從鐵籠裡的大象到 Xpark 的水母牆——台灣正在重新定義人與被展示動物的關係",
+    "healthScore": 45,
+    "qualityScore": 4,
+    "formatIssues": 0,
+    "hasOverview": true,
+    "hasReading": true,
+    "fnCount": 5,
+    "bodyInternalLinks": 1,
+    "bodyInternalLinksZero": false
+  },
+  {
+    "title": "台灣在國際標準中的標示問題",
+    "slug": "台灣在國際標準中的標示問題",
+    "category": "society",
+    "subcategory": "國際關係",
+    "date": "2026-03-18",
+    "lastModified": "2026-09-25",
+    "lastVerified": "2026-03-19",
+    "lastHumanReview": false,
+    "curation": null,
+    "featured": false,
+    "wordCount": 2064,
+    "tagCount": 6,
+    "tags": [
+      "ISO 3166",
+      "國際標準",
+      "開源軟體",
+      "g0v",
+      "數位主權",
+      "台灣標示"
+    ],
+    "translations": {
+      "en": true,
+      "ja": true,
+      "ko": true,
+      "es": true,
+      "fr": true,
+      "vi": true,
+      "id": true,
+      "pt": true,
+      "hi": true,
+      "ar": true,
+      "ru": true,
+      "de": true
+    },
+    "revision": 11,
+    "commitHash": "d7b843fb",
+    "commitSubject": "🧬 [semiont] heal: 〈台灣在國際標準中的標示問題〉ISO 3166 從一開始就這樣寫，沒有「改名」這回事",
+    "description": "從 ISO 程式碼到開源軟體——台灣的名字如何在全球數位基礎設施中被書寫、爭議與修正",
+    "healthScore": 47,
+    "qualityScore": 0,
+    "formatIssues": 1,
+    "hasOverview": true,
+    "hasReading": false,
+    "fnCount": 6,
+    "bodyInternalLinks": 0,
+    "bodyInternalLinksZero": true
+  },
+  {
+    "title": "台灣政治環境與選舉制度",
+    "slug": "台灣政治環境與選舉制度",
+    "category": "society",
+    "subcategory": "民主與政治",
+    "date": "2026-03-18",
+    "lastModified": "2026-09-25",
+    "lastVerified": "2026-03-19",
+    "lastHumanReview": false,
+    "curation": null,
+    "featured": false,
+    "wordCount": 2540,
+    "tagCount": 6,
+    "tags": [
+      "政治體制",
+      "選舉制度",
+      "半總統制",
+      "地方自治",
+      "公民社會",
+      "數位民主"
+    ],
+    "translations": {
+      "en": true,
+      "ja": true,
+      "ko": true,
+      "es": true,
+      "fr": true,
+      "vi": true,
+      "id": true,
+      "pt": true,
+      "hi": true,
+      "ar": true,
+      "ru": true,
+      "de": true
+    },
+    "revision": 17,
+    "commitHash": "886779d8",
+    "commitSubject": "🧬 [semiont] heal: 〈台灣政治環境與選舉制度〉巡邏抓到四處錯，修憲門檻寫成四分之一",
+    "description": "從憲法架構、中央與地方選舉機制，到深層的政黨政治文化，全面解析台灣如何在複雜的地緣政治中，維繫一個活力四射且制度嚴謹的民主社會",
+    "healthScore": 51,
+    "qualityScore": 0,
+    "formatIssues": 0,
+    "hasOverview": true,
+    "hasReading": true,
+    "fnCount": 6,
+    "bodyInternalLinks": 0,
+    "bodyInternalLinksZero": true
+  },
+  {
+    "title": "誰算低薪：最低工資守住了本薪，低薪搬進了年終那一欄",
+    "slug": "誰算低薪",
+    "category": "society",
+    "subcategory": "人權與平等",
+    "date": "2026-09-18",
+    "lastModified": "2026-09-25",
+    "lastVerified": "2026-09-25",
+    "lastHumanReview": false,
+    "curation": null,
+    "featured": false,
+    "wordCount": 6977,
+    "tagCount": 5,
+    "tags": [
+      "低薪",
+      "最低工資",
+      "年終獎金",
+      "薪資中位數",
+      "主計總處"
+    ],
+    "translations": {
+      "en": true,
+      "ja": true,
+      "ko": true,
+      "es": true,
+      "fr": true,
+      "vi": true,
+      "id": true,
+      "pt": true,
+      "hi": true,
+      "ar": true,
+      "ru": true,
+      "de": true
+    },
+    "revision": 20,
+    "commitHash": "b10ec653",
+    "commitSubject": "🧬 [semiont] rewrite: 〈誰算低薪〉補上審議會結果——明年最低工資月薪 30,900 元",
+    "description": "出社會六年的公關企劃起薪兩萬八，章魚燒從四十五塊漲到七十塊，明年最低工資破三萬，地板追上了她。2026 年 9 月主計總處說，按月薪算台灣沒有人低薪，按一整年算有 126 萬人，差在年終那一欄：最低工資法守本薪，年終獎金沒有一條法律守。十年連漲把地板推過了國際低薪線，低薪沒有消失，它搬進了不發獎金的行業。",
+    "healthScore": 65,
+    "qualityScore": 0,
+    "formatIssues": 1,
+    "hasOverview": true,
+    "hasReading": false,
+    "fnCount": 30,
+    "bodyInternalLinks": 1,
+    "bodyInternalLinksZero": false
+  },
+  {
     "title": "台中捷運：一條等了三十年的綠線，先學會如何被相信",
     "slug": "台中捷運",
     "category": "geography",
@@ -760,12 +985,12 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
-      "hi": false,
-      "ar": false,
-      "ru": false,
-      "de": false
+      "hi": true,
+      "ar": true,
+      "ru": true,
+      "de": true
     },
     "revision": 16,
     "commitHash": "56f4d6f8",
@@ -931,7 +1156,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": true,
@@ -1061,18 +1286,18 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
-      "ja": false,
-      "ko": false,
-      "es": false,
-      "fr": false,
-      "vi": false,
-      "id": false,
-      "pt": false,
-      "hi": false,
-      "ar": false,
-      "ru": false,
-      "de": false
+      "en": true,
+      "ja": true,
+      "ko": true,
+      "es": true,
+      "fr": true,
+      "vi": true,
+      "id": true,
+      "pt": true,
+      "hi": true,
+      "ar": true,
+      "ru": true,
+      "de": true
     },
     "revision": 15,
     "commitHash": "ff39af22",
@@ -1115,12 +1340,12 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 9,
     "commitHash": "e80217d1",
@@ -1293,7 +1518,7 @@
       "vi": true,
       "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true,
       "de": true
@@ -1527,12 +1752,12 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
-      "hi": false,
-      "ar": false,
-      "ru": false,
-      "de": false
+      "hi": true,
+      "ar": true,
+      "ru": true,
+      "de": true
     },
     "revision": 14,
     "commitHash": "83975eef",
@@ -1573,7 +1798,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 6,
     "commitHash": "c2191ba3",
@@ -1586,53 +1811,6 @@
     "hasReading": false,
     "fnCount": 17,
     "bodyInternalLinks": 5,
-    "bodyInternalLinksZero": false
-  },
-  {
-    "title": "誰算低薪：最低工資守住了本薪，低薪搬進了年終那一欄",
-    "slug": "誰算低薪",
-    "category": "society",
-    "subcategory": "人權與平等",
-    "date": "2026-09-18",
-    "lastModified": "2026-09-19",
-    "lastVerified": "2026-09-19",
-    "lastHumanReview": false,
-    "curation": null,
-    "featured": false,
-    "wordCount": 6835,
-    "tagCount": 5,
-    "tags": [
-      "低薪",
-      "最低工資",
-      "年終獎金",
-      "薪資中位數",
-      "主計總處"
-    ],
-    "translations": {
-      "en": false,
-      "ja": false,
-      "ko": false,
-      "es": false,
-      "fr": false,
-      "vi": false,
-      "id": false,
-      "pt": false,
-      "hi": false,
-      "ar": false,
-      "ru": false,
-      "de": false
-    },
-    "revision": 19,
-    "commitHash": "ff39af22",
-    "commitSubject": "🧬 [semiont] memory: news-radar 收官——三篇每一道閘門都綠卻沒有一句是自己的話，日記回扣三篇 v2",
-    "description": "出社會六年的公關企劃起薪兩萬八，章魚燒從四十五塊漲到七十塊，明年最低工資可能破三萬，地板追上了她。2026 年 9 月主計總處說，按月薪算台灣沒有人低薪，按一整年算有 126 萬人，差在年終那一欄：最低工資法守本薪，年終獎金沒有一條法律守。十年連漲把地板推過了國際低薪線，低薪沒有消失，它搬進了不發獎金的行業。",
-    "healthScore": 65,
-    "qualityScore": 0,
-    "formatIssues": 1,
-    "hasOverview": true,
-    "hasReading": false,
-    "fnCount": 29,
-    "bodyInternalLinks": 1,
     "bodyInternalLinksZero": false
   },
   {
@@ -1950,7 +2128,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 9,
     "commitHash": "6b09bda3",
@@ -2036,10 +2214,10 @@
       "vi": true,
       "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 4,
     "commitHash": "8d4f4b43",
@@ -2264,7 +2442,7 @@
       "pt": true,
       "hi": true,
       "ar": true,
-      "ru": false,
+      "ru": true,
       "de": true
     },
     "revision": 16,
@@ -2301,7 +2479,7 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
       "hi": true,
       "ar": true,
@@ -2609,7 +2787,7 @@
       "vi": true,
       "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true,
       "de": true
@@ -3243,7 +3421,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
@@ -3307,7 +3485,7 @@
     "commitHash": "98d54f4a",
     "commitSubject": "🧬 heal: 維護者代補格式債，讓 CI 轉綠",
     "description": "台灣燈會從 1990 年台北的元宵燈會出發，經過主辦城市輪替、地方創意與數位科技加入，逐漸成為結合民俗、藝術、觀光與公共治理的國家級節慶。它不只是在夜裡點亮一座主燈，也把每一座城市的地景、產業、交通與集體想像帶到全台灣，並留下大型文化活動如何與日常生活協商的治理課題。",
-    "healthScore": 56,
+    "healthScore": 51,
     "qualityScore": 0,
     "formatIssues": 1,
     "hasOverview": true,
@@ -3339,10 +3517,10 @@
       "vi": true,
       "id": true,
       "pt": true,
-      "hi": false,
-      "ar": false,
+      "hi": true,
+      "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 20,
     "commitHash": "ee665005",
@@ -3390,7 +3568,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "a33f0338",
@@ -3425,7 +3603,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
@@ -3441,7 +3619,7 @@
     "commitHash": "bfdca09d",
     "commitSubject": "🧬 heal: 維護者代補格式債，讓 CI 轉綠",
     "description": "青草茶不是一種固定配方，而是一套把野草、地方市場、人情與健康信念煮進日常的臺灣生活知識。",
-    "healthScore": 52,
+    "healthScore": 47,
     "qualityScore": 7,
     "formatIssues": 2,
     "hasOverview": true,
@@ -3484,7 +3662,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "b79e85b1",
@@ -3670,7 +3848,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
@@ -3686,7 +3864,7 @@
     "commitHash": "78d491c5",
     "commitSubject": "🧬 heal: 維護者代補格式債，讓 CI 轉綠",
     "description": "終年約 22°C 的水不以低溫取勝，而是以二氧化碳氣泡、百年浴場與彈珠汽水，改變一座港鎮的日常記憶",
-    "healthScore": 56,
+    "healthScore": 51,
     "qualityScore": 5,
     "formatIssues": 1,
     "hasOverview": true,
@@ -3717,7 +3895,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
@@ -3901,7 +4079,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
@@ -4180,13 +4358,13 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
-      "ko": false,
+      "ja": true,
+      "ko": true,
       "es": true,
       "fr": true,
       "vi": true,
       "id": true,
-      "pt": false,
+      "pt": true,
       "hi": true,
       "ar": true,
       "ru": true,
@@ -4649,7 +4827,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
@@ -4659,7 +4837,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "fa7059f7",
@@ -4832,7 +5010,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
@@ -4879,12 +5057,12 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
       "hi": true,
       "ar": true,
@@ -4967,7 +5145,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
@@ -5014,7 +5192,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
@@ -5108,7 +5286,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
@@ -5596,7 +5774,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
@@ -5876,7 +6054,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
@@ -5921,13 +6099,13 @@
       "ko": true,
       "es": true,
       "fr": true,
-      "vi": false,
+      "vi": true,
       "id": true,
       "pt": true,
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "0166a77c",
@@ -6205,7 +6383,7 @@
       "vi": true,
       "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true,
       "de": true
@@ -6331,7 +6509,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
@@ -6605,7 +6783,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
@@ -7177,11 +7355,11 @@
       "fr": true,
       "vi": true,
       "id": true,
-      "pt": false,
+      "pt": true,
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "63fb967a",
@@ -7222,7 +7400,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 1,
     "commitHash": "60e991e0",
@@ -7496,7 +7674,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
@@ -7541,7 +7719,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
@@ -7588,7 +7766,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
@@ -7838,9 +8016,9 @@
       "id": true,
       "pt": true,
       "hi": true,
-      "ar": false,
-      "ru": false,
-      "de": false
+      "ar": true,
+      "ru": true,
+      "de": true
     },
     "revision": 1,
     "commitHash": "da79c32b",
@@ -7927,7 +8105,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
@@ -8117,7 +8295,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
@@ -8170,11 +8348,11 @@
       "fr": true,
       "vi": true,
       "id": true,
-      "pt": false,
+      "pt": true,
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 1,
     "commitHash": "7147bb94",
@@ -8407,10 +8585,10 @@
       "fr": true,
       "vi": true,
       "id": true,
-      "pt": false,
+      "pt": true,
       "hi": true,
       "ar": true,
-      "ru": false,
+      "ru": true,
       "de": true
     },
     "revision": 2,
@@ -8776,7 +8954,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
@@ -9010,7 +9188,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
@@ -9250,7 +9428,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
@@ -9628,7 +9806,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
@@ -9819,7 +9997,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
@@ -10000,17 +10178,17 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
-      "ja": false,
-      "ko": false,
-      "es": false,
-      "fr": false,
-      "vi": false,
-      "id": false,
-      "pt": false,
-      "hi": false,
-      "ar": false,
-      "ru": false,
+      "en": true,
+      "ja": true,
+      "ko": true,
+      "es": true,
+      "fr": true,
+      "vi": true,
+      "id": true,
+      "pt": true,
+      "hi": true,
+      "ar": true,
+      "ru": true,
       "de": true
     },
     "revision": 3,
@@ -10048,14 +10226,14 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
       "vi": true,
       "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true,
       "de": true
@@ -10142,7 +10320,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
@@ -10421,8 +10599,8 @@
       "食品標示"
     ],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
@@ -10474,7 +10652,7 @@
       "ja": true,
       "ko": true,
       "es": true,
-      "fr": false,
+      "fr": true,
       "vi": true,
       "id": true,
       "pt": true,
@@ -10853,7 +11031,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 15,
     "commitHash": "1389f8ce",
@@ -11025,10 +11203,10 @@
       "產業轉型"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true,
       "vi": true,
       "id": true,
@@ -11264,18 +11442,18 @@
       "消費文化"
     ],
     "translations": {
-      "en": false,
-      "ja": false,
-      "ko": false,
-      "es": false,
-      "fr": false,
-      "vi": false,
-      "id": false,
-      "pt": false,
+      "en": true,
+      "ja": true,
+      "ko": true,
+      "es": true,
+      "fr": true,
+      "vi": true,
+      "id": true,
+      "pt": true,
       "hi": true,
-      "ar": false,
-      "ru": false,
-      "de": false
+      "ar": true,
+      "ru": true,
+      "de": true
     },
     "revision": 4,
     "commitHash": "0e24f287",
@@ -11313,7 +11491,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
@@ -11677,7 +11855,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
@@ -11724,7 +11902,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
@@ -12000,7 +12178,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
@@ -12177,18 +12355,18 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": true,
-      "es": false,
-      "fr": false,
-      "vi": false,
-      "id": false,
-      "pt": false,
-      "hi": false,
-      "ar": false,
-      "ru": false,
-      "de": false
+      "es": true,
+      "fr": true,
+      "vi": true,
+      "id": true,
+      "pt": true,
+      "hi": true,
+      "ar": true,
+      "ru": true,
+      "de": true
     },
     "revision": 4,
     "commitHash": "6fbe0121",
@@ -12273,18 +12451,18 @@
       "疫苗受害救濟"
     ],
     "translations": {
-      "en": false,
-      "ja": false,
-      "ko": false,
-      "es": false,
-      "fr": false,
+      "en": true,
+      "ja": true,
+      "ko": true,
+      "es": true,
+      "fr": true,
       "vi": true,
-      "id": false,
-      "pt": false,
-      "hi": false,
-      "ar": false,
-      "ru": false,
-      "de": false
+      "id": true,
+      "pt": true,
+      "hi": true,
+      "ar": true,
+      "ru": true,
+      "de": true
     },
     "revision": 7,
     "commitHash": "fa44ba5a",
@@ -12363,10 +12541,10 @@
       "vi": true,
       "id": true,
       "pt": true,
-      "hi": false,
-      "ar": false,
+      "hi": true,
+      "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 9,
     "commitHash": "fa44ba5a",
@@ -12589,9 +12767,9 @@
       "文化資產"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": true,
       "fr": true,
       "vi": true,
@@ -12599,7 +12777,7 @@
       "pt": true,
       "hi": true,
       "ar": true,
-      "ru": false,
+      "ru": true,
       "de": true
     },
     "revision": 2,
@@ -12692,7 +12870,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
@@ -13014,18 +13192,18 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": true,
-      "es": false,
-      "fr": false,
-      "vi": false,
-      "id": false,
-      "pt": false,
-      "hi": false,
-      "ar": false,
-      "ru": false,
-      "de": false
+      "es": true,
+      "fr": true,
+      "vi": true,
+      "id": true,
+      "pt": true,
+      "hi": true,
+      "ar": true,
+      "ru": true,
+      "de": true
     },
     "revision": 7,
     "commitHash": "d704d4e5",
@@ -13063,7 +13241,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
@@ -13163,7 +13341,7 @@
       "pt": true,
       "hi": true,
       "ar": true,
-      "ru": false,
+      "ru": true,
       "de": true
     },
     "revision": 3,
@@ -13562,7 +13740,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
@@ -13753,12 +13931,12 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "c5877264",
@@ -13878,7 +14056,7 @@
       "vi": true,
       "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true,
       "de": true
@@ -13917,10 +14095,10 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
-      "hi": false,
-      "ar": false,
+      "hi": true,
+      "ar": true,
       "ru": true,
       "de": true
     },
@@ -14136,18 +14314,18 @@
       "文化治理"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": true,
-      "fr": false,
+      "fr": true,
       "vi": true,
       "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 7,
     "commitHash": "cb75c040",
@@ -14426,7 +14604,7 @@
       "pt": true,
       "hi": true,
       "ar": true,
-      "ru": false,
+      "ru": true,
       "de": true
     },
     "revision": 16,
@@ -14463,9 +14641,9 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true,
       "de": true
@@ -14516,7 +14694,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "211401fe",
@@ -14595,9 +14773,9 @@
       "vi": true,
       "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
-      "ru": false,
+      "ru": true,
       "de": true
     },
     "revision": 12,
@@ -14628,18 +14806,18 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
-      "hi": false,
-      "ar": false,
-      "ru": false,
-      "de": false
+      "hi": true,
+      "ar": true,
+      "ru": true,
+      "de": true
     },
     "revision": 1,
     "commitHash": "40374bb7",
@@ -14717,17 +14895,17 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
-      "es": false,
-      "fr": false,
+      "es": true,
+      "fr": true,
       "vi": true,
       "id": true,
-      "pt": false,
-      "hi": false,
-      "ar": false,
-      "ru": false,
-      "de": false
+      "pt": true,
+      "hi": true,
+      "ar": true,
+      "ru": true,
+      "de": true
     },
     "revision": 12,
     "commitHash": "6158e172",
@@ -14861,7 +15039,7 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
       "hi": true,
       "ar": true,
@@ -15445,7 +15623,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 18,
     "commitHash": "fdd06c97",
@@ -15475,18 +15653,18 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
-      "ja": false,
-      "ko": false,
-      "es": false,
+      "en": true,
+      "ja": true,
+      "ko": true,
+      "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
-      "pt": false,
-      "hi": false,
-      "ar": false,
-      "ru": false,
-      "de": false
+      "id": true,
+      "pt": true,
+      "hi": true,
+      "ar": true,
+      "ru": true,
+      "de": true
     },
     "revision": 13,
     "commitHash": "3eea1f63",
@@ -15524,10 +15702,10 @@
       "vi": true,
       "id": true,
       "pt": true,
-      "hi": false,
-      "ar": false,
+      "hi": true,
+      "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "d6fdcf86",
@@ -15802,13 +15980,13 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "154c45e8",
     "commitSubject": "🧬 [semiont] heal: 把兩則讀者 issue 的尾巴收乾淨（#1180 描述、#1204 rewrite 缺口）",
     "description": "1980 年代，新店的宏廣卡通承包了全世界近三分之一的動畫製作量，被叫做「東方迪士尼」。台灣兩度與迪士尼樂園擦身而過，其中 1990 年代的台中月眉案破局在土地開發權與專屬高鐵站等條件；《玩具總動員 3》早期劇本裡，故障的巴斯光年要被送回「原產地」台灣維修。從代工黃金歲月到史迪奇騎機車，這條連結比想像中深。",
-    "healthScore": 50,
+    "healthScore": 45,
     "qualityScore": 7,
     "formatIssues": 1,
     "hasOverview": true,
@@ -15947,47 +16125,6 @@
     "bodyInternalLinksZero": true
   },
   {
-    "title": "一篇文章是怎麼長出來的：Taiwan.md 那條對抗 AI 寫作本能的六階產線（REWRITE-PIPELINE v7.5 × EDITORIAL v6.12）",
-    "slug": "文章如何誕生",
-    "category": "about",
-    "subcategory": null,
-    "date": "2026-06-19",
-    "lastModified": "2026-07-19",
-    "lastVerified": "2026-06-19",
-    "lastHumanReview": false,
-    "curation": null,
-    "featured": false,
-    "wordCount": 7976,
-    "tagCount": 0,
-    "tags": [],
-    "translations": {
-      "en": true,
-      "ja": true,
-      "ko": true,
-      "es": true,
-      "fr": true,
-      "vi": true,
-      "id": true,
-      "pt": true,
-      "hi": true,
-      "ar": true,
-      "ru": true,
-      "de": true
-    },
-    "revision": 5,
-    "commitHash": "984fb789",
-    "commitSubject": "🧬 [semiont] polish: 文章如何誕生.md 標點淨化（破折號 0→0、分號 15→12）",
-    "description": "你讀到的每一篇 Taiwan.md 文章，有溫度、有場景、可查證，背後是 6 個階段、20 幾道不准跳過的閘門、一支不自己寫稿的 AI 編輯部。這台機器存在的唯一理由，是 AI 寫作最會犯的那些錯：搜到事實就照時間排、長出沒有資訊量的塑膠句、把英文摘要回譯成假引語、讀了舊文就被它的壞習慣感染。這是拆解這條產線的文章，而它自己也是這條產線跑出來的。",
-    "healthScore": 45,
-    "qualityScore": 13,
-    "formatIssues": 1,
-    "hasOverview": true,
-    "hasReading": false,
-    "fnCount": 13,
-    "bodyInternalLinks": 0,
-    "bodyInternalLinksZero": true
-  },
-  {
     "title": "為什麼台灣需要自己的知識庫：AI 對台灣最危險的事，不是說錯，是不說",
     "slug": "為什麼台灣需要自己的知識庫",
     "category": "about",
@@ -16017,11 +16154,11 @@
       "fr": true,
       "vi": true,
       "id": true,
-      "pt": false,
+      "pt": true,
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 12,
     "commitHash": "b7dd7863",
@@ -16224,15 +16361,15 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true,
       "vi": true,
       "id": true,
       "pt": true,
-      "hi": false,
-      "ar": false,
+      "hi": true,
+      "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 4,
     "commitHash": "65a87b48",
@@ -16321,7 +16458,7 @@
       "id": true,
       "pt": true,
       "hi": true,
-      "ar": false,
+      "ar": true,
       "ru": true,
       "de": true
     },
@@ -16407,7 +16544,7 @@
       "vi": true,
       "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true,
       "de": true
@@ -16451,7 +16588,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 18,
     "commitHash": "d56c5a60",
@@ -16534,7 +16671,7 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
       "hi": true,
       "ar": true,
@@ -16630,10 +16767,10 @@
       "vi": true,
       "id": true,
       "pt": true,
-      "hi": false,
-      "ar": false,
+      "hi": true,
+      "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 4,
     "commitHash": "172e37b1",
@@ -16868,7 +17005,7 @@
       "id": true,
       "pt": true,
       "hi": true,
-      "ar": false,
+      "ar": true,
       "ru": true,
       "de": true
     },
@@ -16955,7 +17092,7 @@
       "fr": true,
       "vi": true,
       "id": true,
-      "pt": false,
+      "pt": true,
       "hi": true,
       "ar": true,
       "ru": true,
@@ -17182,12 +17319,12 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
-      "ru": false,
-      "de": false
+      "ru": true,
+      "de": true
     },
     "revision": 9,
     "commitHash": "53dd93dd",
@@ -17226,8 +17363,8 @@
       "id": true,
       "pt": true,
       "hi": true,
-      "ar": false,
-      "ru": false,
+      "ar": true,
+      "ru": true,
       "de": true
     },
     "revision": 22,
@@ -17553,10 +17690,10 @@
       "vi": true,
       "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 4,
     "commitHash": "47d343b7",
@@ -17644,7 +17781,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 8,
     "commitHash": "b74252d9",
@@ -17682,7 +17819,7 @@
       "vi": true,
       "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true,
       "de": true
@@ -17767,7 +17904,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "a5490c04",
@@ -18034,7 +18171,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 8,
     "commitHash": "5add39fc",
@@ -18250,12 +18387,12 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
       "hi": true,
-      "ar": false,
+      "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "036f4f3f",
@@ -18302,9 +18439,9 @@
       "id": true,
       "pt": true,
       "hi": true,
-      "ar": false,
-      "ru": false,
-      "de": false
+      "ar": true,
+      "ru": true,
+      "de": true
     },
     "revision": 5,
     "commitHash": "09ffe560",
@@ -18352,7 +18489,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "42b42a93",
@@ -18395,12 +18532,12 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
-      "pt": false,
-      "hi": false,
-      "ar": false,
-      "ru": false,
-      "de": false
+      "id": true,
+      "pt": true,
+      "hi": true,
+      "ar": true,
+      "ru": true,
+      "de": true
     },
     "revision": 8,
     "commitHash": "79f66898",
@@ -18439,9 +18576,9 @@
       "id": true,
       "pt": true,
       "hi": true,
-      "ar": false,
+      "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 27,
     "commitHash": "3d2adaeb",
@@ -18526,10 +18663,10 @@
       "vi": true,
       "id": true,
       "pt": true,
-      "hi": false,
-      "ar": false,
-      "ru": false,
-      "de": false
+      "hi": true,
+      "ar": true,
+      "ru": true,
+      "de": true
     },
     "revision": 13,
     "commitHash": "b4f3dab6",
@@ -18568,7 +18705,7 @@
       "id": true,
       "pt": true,
       "hi": true,
-      "ar": false,
+      "ar": true,
       "ru": true,
       "de": true
     },
@@ -18652,7 +18789,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 8,
     "commitHash": "c40c53f6",
@@ -18693,7 +18830,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "8547b266",
@@ -18729,9 +18866,9 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true,
       "de": true
@@ -18824,7 +18961,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 4,
     "commitHash": "b38a5dab",
@@ -19132,7 +19269,7 @@
       "vi": true,
       "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true,
       "de": true
@@ -19369,7 +19506,7 @@
     "commitHash": "95f42de8",
     "commitSubject": "🧬 [semiont] polish: 紀懷新.md 標點淨化（破折號 20→15、分號 11→11）",
     "description": "紀懷新是 Google DeepMind 研究副總裁，也是讓 AI 學會「一步一步推理」的思維鏈論文共同作者。這個在淡水長大的台灣人，把認知心理學裡「人怎麼學習」的概念（Piaget 的基模理論）變成了教機器推理的方法。而這份改變 AI 的突破只花了約五千美金，因為那從來就不是算力能解決的問題。",
-    "healthScore": 60,
+    "healthScore": 55,
     "qualityScore": 7,
     "formatIssues": 1,
     "hasOverview": true,
@@ -19531,10 +19668,10 @@
       "fr": true,
       "vi": true,
       "id": true,
-      "pt": false,
-      "hi": false,
-      "ar": false,
-      "ru": false,
+      "pt": true,
+      "hi": true,
+      "ar": true,
+      "ru": true,
       "de": true
     },
     "revision": 23,
@@ -19678,10 +19815,10 @@
       "vi": true,
       "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
-      "ru": false,
-      "de": false
+      "ru": true,
+      "de": true
     },
     "revision": 6,
     "commitHash": "fb7f4f82",
@@ -19770,7 +19907,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 4,
     "commitHash": "5fbbcf41",
@@ -19944,12 +20081,12 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 9,
     "commitHash": "bbd8788a",
@@ -20026,10 +20163,10 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
       "hi": true,
-      "ar": false,
+      "ar": true,
       "ru": true,
       "de": true
     },
@@ -20514,12 +20651,12 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "b1f23fd8",
@@ -20638,10 +20775,10 @@
       "fr": true,
       "vi": true,
       "id": true,
-      "pt": false,
-      "hi": false,
-      "ar": false,
-      "ru": false,
+      "pt": true,
+      "hi": true,
+      "ar": true,
+      "ru": true,
       "de": true
     },
     "revision": 8,
@@ -20686,12 +20823,12 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
-      "pt": false,
-      "hi": false,
+      "id": true,
+      "pt": true,
+      "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 7,
     "commitHash": "7bad84a3",
@@ -20776,7 +20913,7 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
       "hi": true,
       "ar": true,
@@ -20817,12 +20954,12 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 21,
     "commitHash": "7c4a5891",
@@ -20863,7 +21000,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 8,
     "commitHash": "a5dc99e2",
@@ -21235,9 +21372,9 @@
       "id": true,
       "pt": true,
       "hi": true,
-      "ar": false,
+      "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 10,
     "commitHash": "82c0407f",
@@ -21364,7 +21501,7 @@
       "vi": true,
       "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true,
       "de": true
@@ -21496,7 +21633,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 23,
     "commitHash": "54ed6c78",
@@ -21541,15 +21678,15 @@
       "id": true,
       "pt": true,
       "hi": true,
-      "ar": false,
-      "ru": false,
+      "ar": true,
+      "ru": true,
       "de": true
     },
     "revision": 5,
     "commitHash": "8b61d368",
     "commitSubject": "🧬 [semiont] evolve: 聲景雙文章互鏈與英文版 SEO 差異化 — 兩篇同名 Taiwan Soundscape 分家",
     "description": "同一年，台北捷運一邊找雷光夏、李欣芸把進站音樂變成藝術，一邊把關門警示音的旋律拿掉、改回鳥鳴聲。聲音同時被美學化與功能化。台灣用《噪音管制法》要消除的這些聲音，其實是我們辨認「這裡是家」的地標。一個聲景研究碩士的提問：理解台灣，可以從問「我們習慣忽略什麼聲音」開始。",
-    "healthScore": 60,
+    "healthScore": 55,
     "qualityScore": 4,
     "formatIssues": 1,
     "hasOverview": true,
@@ -21916,12 +22053,12 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
-      "pt": false,
-      "hi": false,
-      "ar": false,
+      "id": true,
+      "pt": true,
+      "hi": true,
+      "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 27,
     "commitHash": "09c1bf1a",
@@ -21967,7 +22104,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "dbf93456",
@@ -22141,12 +22278,12 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 9,
     "commitHash": "c8e5ac9e",
@@ -22295,54 +22432,6 @@
     "fnCount": 0,
     "bodyInternalLinks": 6,
     "bodyInternalLinksZero": false
-  },
-  {
-    "title": "台灣政治環境與選舉制度",
-    "slug": "台灣政治環境與選舉制度",
-    "category": "society",
-    "subcategory": "民主與政治",
-    "date": "2026-03-18",
-    "lastModified": "2026-07-16",
-    "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
-    "curation": null,
-    "featured": false,
-    "wordCount": 2453,
-    "tagCount": 6,
-    "tags": [
-      "政治體制",
-      "選舉制度",
-      "半總統制",
-      "地方自治",
-      "公民社會",
-      "數位民主"
-    ],
-    "translations": {
-      "en": true,
-      "ja": true,
-      "ko": true,
-      "es": true,
-      "fr": true,
-      "vi": true,
-      "id": true,
-      "pt": true,
-      "hi": true,
-      "ar": true,
-      "ru": true,
-      "de": true
-    },
-    "revision": 16,
-    "commitHash": "dbaf2895",
-    "commitSubject": "🧬 [semiont] cross-link: 為「大罷免」建立雙向延伸閱讀",
-    "description": "從憲法架構、中央與地方選舉機制，到深層的政黨政治文化，全面解析台灣如何在複雜的地緣政治中，維繫一個活力四射且制度嚴謹的民主社會",
-    "healthScore": 50,
-    "qualityScore": 0,
-    "formatIssues": 0,
-    "hasOverview": true,
-    "hasReading": true,
-    "fnCount": 5,
-    "bodyInternalLinks": 0,
-    "bodyInternalLinksZero": true
   },
   {
     "title": "社會運動與公民參與",
@@ -22518,7 +22607,7 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
       "hi": true,
       "ar": true,
@@ -22650,7 +22739,7 @@
       "vi": true,
       "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true,
       "de": true
@@ -22905,8 +22994,8 @@
       "id": true,
       "pt": true,
       "hi": true,
-      "ar": false,
-      "ru": false,
+      "ar": true,
+      "ru": true,
       "de": true
     },
     "revision": 4,
@@ -23031,12 +23120,12 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 8,
     "commitHash": "68644a9d",
@@ -23776,7 +23865,7 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
       "hi": true,
       "ar": true,
@@ -24153,7 +24242,7 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
       "hi": true,
       "ar": true,
@@ -24349,7 +24438,7 @@
     "commitHash": "c212e14d",
     "commitSubject": "🧬 [semiont] heal: 保齡球 +featured:false +subcategory='休閒與娛樂' + 16 footnote canonical (標題回填非 author-year stub) + orphan [^7] 接回紀兆航本人投稿 (PR #1181 post-merge)",
     "description": "1990 年代，保齡球是台灣最瘋狂的國民運動。憑藉自創的「飛碟球」技術，台灣在 1998 年曼谷亞運橫掃六金，全台球館一度突破 600 家，單日營收可達 30 萬元。",
-    "healthScore": 44,
+    "healthScore": 39,
     "qualityScore": 6,
     "formatIssues": 2,
     "hasOverview": true,
@@ -24599,9 +24688,9 @@
       "id": true,
       "pt": true,
       "hi": true,
-      "ar": false,
+      "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 12,
     "commitHash": "e79c30b8",
@@ -24642,7 +24731,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 13,
     "commitHash": "30612690",
@@ -24727,10 +24816,10 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
-      "hi": false,
-      "ar": false,
+      "hi": true,
+      "ar": true,
       "ru": true,
       "de": true
     },
@@ -24830,7 +24919,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 8,
     "commitHash": "e1b5668a",
@@ -24868,10 +24957,10 @@
       "vi": true,
       "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 4,
     "commitHash": "58fa84f0",
@@ -25001,7 +25090,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 15,
     "commitHash": "db263367",
@@ -25039,7 +25128,7 @@
       "vi": true,
       "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true,
       "de": true
@@ -25129,7 +25218,7 @@
       "vi": true,
       "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true,
       "de": true
@@ -25181,7 +25270,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "9bddcff6",
@@ -25217,12 +25306,12 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 1,
     "commitHash": "cfce444a",
@@ -25413,7 +25502,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "c109869a",
@@ -25499,10 +25588,10 @@
       "vi": true,
       "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 14,
     "commitHash": "fd09526d",
@@ -25591,12 +25680,12 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 1,
     "commitHash": "f7484ebe",
@@ -26090,7 +26179,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 26,
     "commitHash": "ef8fab38",
@@ -26359,10 +26448,10 @@
       "vi": true,
       "id": true,
       "pt": true,
-      "hi": false,
-      "ar": false,
-      "ru": false,
-      "de": false
+      "hi": true,
+      "ar": true,
+      "ru": true,
+      "de": true
     },
     "revision": 19,
     "commitHash": "fef3e119",
@@ -26487,12 +26576,12 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 11,
     "commitHash": "5de488e7",
@@ -26676,7 +26765,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 7,
     "commitHash": "e1dc9d48",
@@ -26997,7 +27086,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 7,
     "commitHash": "91eb4403",
@@ -27035,7 +27124,7 @@
       "vi": true,
       "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true,
       "de": true
@@ -27297,7 +27386,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 17,
     "commitHash": "6dc4c225",
@@ -27478,7 +27567,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "edae9fc9",
@@ -27558,9 +27647,9 @@
       "id": true,
       "pt": true,
       "hi": true,
-      "ar": false,
-      "ru": false,
-      "de": false
+      "ar": true,
+      "ru": true,
+      "de": true
     },
     "revision": 15,
     "commitHash": "8c9a002a",
@@ -27971,7 +28060,7 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
       "hi": true,
       "ar": true,
@@ -28193,12 +28282,12 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "43bf3637",
@@ -28236,10 +28325,10 @@
       "vi": true,
       "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "946f38bb",
@@ -28280,7 +28369,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 6,
     "commitHash": "946f38bb",
@@ -28689,7 +28778,7 @@
       "vi": true,
       "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true,
       "de": true
@@ -28812,10 +28901,10 @@
       "vi": true,
       "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 7,
     "commitHash": "6f28d616",
@@ -28853,10 +28942,10 @@
       "vi": true,
       "id": true,
       "pt": true,
-      "hi": false,
-      "ar": false,
+      "hi": true,
+      "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 7,
     "commitHash": "6f28d616",
@@ -28894,10 +28983,10 @@
       "vi": true,
       "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "6f28d616",
@@ -29015,12 +29104,12 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
-      "hi": false,
-      "ar": false,
+      "hi": true,
+      "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "4aa49c87",
@@ -29101,8 +29190,8 @@
       "pt": true,
       "hi": true,
       "ar": true,
-      "ru": false,
-      "de": false
+      "ru": true,
+      "de": true
     },
     "revision": 5,
     "commitHash": "b457dbbb",
@@ -29181,7 +29270,7 @@
       "vi": true,
       "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true,
       "de": true
@@ -29225,7 +29314,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "036da279",
@@ -29314,7 +29403,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "0feffb18",
@@ -29403,7 +29492,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "cc8a26f1",
@@ -29439,7 +29528,7 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
       "hi": true,
       "ar": true,
@@ -29867,7 +29956,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "9b5cb286",
@@ -29903,7 +29992,7 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
       "hi": true,
       "ar": true,
@@ -30180,9 +30269,9 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true,
       "de": true
@@ -30458,7 +30547,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "4777e254",
@@ -30589,12 +30678,12 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
       "hi": true,
       "ar": true,
-      "ru": false,
-      "de": false
+      "ru": true,
+      "de": true
     },
     "revision": 4,
     "commitHash": "03864750",
@@ -30771,7 +30860,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "4cd497a8",
@@ -31797,10 +31886,10 @@
       "vi": true,
       "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 34,
     "commitHash": "ae885eb8",
@@ -32242,12 +32331,12 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "70821197",
@@ -32737,7 +32826,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "376ba20d",
@@ -32914,7 +33003,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 8,
     "commitHash": "5dc50b7a",
@@ -33163,7 +33252,7 @@
       "vi": true,
       "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true,
       "de": true
@@ -34727,7 +34816,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 12,
     "commitHash": "1a822274",
@@ -35029,7 +35118,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 2,
     "commitHash": "81e6f52d",
@@ -35117,7 +35206,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "37ef8f67",
@@ -35973,7 +36062,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "1cdf2763",
@@ -36196,7 +36285,7 @@
       "fr": true,
       "vi": true,
       "id": true,
-      "pt": false,
+      "pt": true,
       "hi": true,
       "ar": true,
       "ru": true,
@@ -37529,7 +37618,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 4,
     "commitHash": "86d067a0",
@@ -38248,7 +38337,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 4,
     "commitHash": "956a36f3",
@@ -38521,55 +38610,6 @@
     "fnCount": 12,
     "bodyInternalLinks": 0,
     "bodyInternalLinksZero": true
-  },
-  {
-    "title": "動物園與展演動物倫理",
-    "slug": "動物園與展演動物倫理",
-    "category": "society",
-    "subcategory": "動物與倫理",
-    "date": "2026-03-18",
-    "lastModified": "2026-04-10",
-    "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
-    "curation": null,
-    "featured": false,
-    "wordCount": 3630,
-    "tagCount": 7,
-    "tags": [
-      "動物園",
-      "展演動物",
-      "動物福利",
-      "Xpark",
-      "台北動物園",
-      "動物倫理",
-      "新竹動物園"
-    ],
-    "translations": {
-      "en": true,
-      "ja": true,
-      "ko": true,
-      "es": true,
-      "fr": true,
-      "vi": true,
-      "id": true,
-      "pt": true,
-      "hi": true,
-      "ar": true,
-      "ru": true,
-      "de": true
-    },
-    "revision": 10,
-    "commitHash": "ecb173b1",
-    "commitSubject": "🧬 [semiont] rewrite: 新專題「台灣動物用藥爭議」+ SSODT Phase 0 實驗",
-    "description": "從鐵籠裡的大象到 Xpark 的水母牆——台灣正在重新定義人與被展示動物的關係",
-    "healthScore": 55,
-    "qualityScore": 4,
-    "formatIssues": 0,
-    "hasOverview": true,
-    "hasReading": true,
-    "fnCount": 5,
-    "bodyInternalLinks": 1,
-    "bodyInternalLinksZero": false
   },
   {
     "title": "台灣資安產業發展",
@@ -39474,13 +39514,13 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 5,
     "commitHash": "a00af134",
     "commitSubject": "rewrite: 台灣當代文學發展 — EDITORIAL v4 + Pipeline v2 (zh)",
     "description": "1975 年，一個餐廳經營失敗的台南人陳廷智在西門町擺起推車，用祖傳醃料炸雞塊。五十年後，鹽酥雞成了台灣少數不需要夜市、不需要店面、只靠一台推車和一鍋油就能存活的小吃——CNN 兩度將它列入台灣必吃清單，但它最正宗的吃法，永遠是半夜在路邊等那個紙袋。",
-    "healthScore": 88,
+    "healthScore": 83,
     "qualityScore": 0,
     "formatIssues": 1,
     "hasOverview": true,
@@ -41051,7 +41091,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 9,
     "commitHash": "da5251d3",
@@ -45107,7 +45147,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 8,
     "commitHash": "1bb1eeb9",
@@ -45385,7 +45425,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 10,
     "commitHash": "730a9315",
@@ -45431,11 +45471,11 @@
       "fr": true,
       "vi": true,
       "id": true,
-      "pt": false,
+      "pt": true,
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 9,
     "commitHash": "f2426fdf",
@@ -45580,7 +45620,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 9,
     "commitHash": "f2426fdf",
@@ -46381,7 +46421,7 @@
       "ko": true,
       "es": true,
       "fr": true,
-      "vi": false,
+      "vi": true,
       "id": true,
       "pt": true,
       "hi": true,
@@ -47821,7 +47861,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 11,
     "commitHash": "b8865630",
@@ -48013,61 +48053,13 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 14,
     "commitHash": "15319020",
     "commitSubject": "content: 台灣在國際標準中的標示問題",
     "description": "從「唱自己的歌」到改變整個華語音樂圈——1970年代那場屬於年輕人的文化革命",
     "healthScore": 80,
-    "qualityScore": 0,
-    "formatIssues": 1,
-    "hasOverview": true,
-    "hasReading": false,
-    "fnCount": 6,
-    "bodyInternalLinks": 0,
-    "bodyInternalLinksZero": true
-  },
-  {
-    "title": "台灣在國際標準中的標示問題",
-    "slug": "台灣在國際標準中的標示問題",
-    "category": "society",
-    "subcategory": "國際關係",
-    "date": "2026-03-18",
-    "lastModified": "2026-03-18",
-    "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
-    "curation": null,
-    "featured": false,
-    "wordCount": 2070,
-    "tagCount": 6,
-    "tags": [
-      "ISO 3166",
-      "國際標準",
-      "開源軟體",
-      "g0v",
-      "數位主權",
-      "台灣標示"
-    ],
-    "translations": {
-      "en": true,
-      "ja": true,
-      "ko": true,
-      "es": true,
-      "fr": true,
-      "vi": true,
-      "id": true,
-      "pt": true,
-      "hi": true,
-      "ar": true,
-      "ru": true,
-      "de": true
-    },
-    "revision": 10,
-    "commitHash": "15319020",
-    "commitSubject": "content: 台灣在國際標準中的標示問題",
-    "description": "從 ISO 程式碼到開源軟體——台灣的名字如何在全球數位基礎設施中被書寫、爭議與修正",
-    "healthScore": 47,
     "qualityScore": 0,
     "formatIssues": 1,
     "hasOverview": true,
@@ -48384,7 +48376,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
@@ -48982,8 +48974,8 @@
       "vi": true,
       "id": true,
       "pt": true,
-      "hi": false,
-      "ar": false,
+      "hi": true,
+      "ar": true,
       "ru": true,
       "de": true
     },
@@ -49025,8 +49017,8 @@
       "pt": true,
       "hi": true,
       "ar": true,
-      "ru": false,
-      "de": false
+      "ru": true,
+      "de": true
     },
     "revision": 3,
     "commitHash": "",
@@ -49067,7 +49059,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "",
@@ -49103,7 +49095,7 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
       "hi": true,
       "ar": true,
@@ -49146,10 +49138,10 @@
       "vi": true,
       "id": true,
       "pt": true,
-      "hi": false,
-      "ar": false,
-      "ru": false,
-      "de": false
+      "hi": true,
+      "ar": true,
+      "ru": true,
+      "de": true
     },
     "revision": 3,
     "commitHash": "",
@@ -49187,7 +49179,7 @@
       "vi": true,
       "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true,
       "de": true
@@ -49317,12 +49309,12 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 3,
     "commitHash": "",
@@ -49405,7 +49397,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
@@ -49452,7 +49444,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
@@ -49547,7 +49539,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
@@ -50300,7 +50292,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 1,
     "commitHash": "",
@@ -50388,7 +50380,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 1,
     "commitHash": "",
@@ -50436,7 +50428,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 1,
     "commitHash": "",
@@ -50530,7 +50522,7 @@
       "hi": true,
       "ar": true,
       "ru": true,
-      "de": false
+      "de": true
     },
     "revision": 10,
     "commitHash": "",
