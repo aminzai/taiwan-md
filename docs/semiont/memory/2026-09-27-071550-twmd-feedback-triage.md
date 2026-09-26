@@ -36,17 +36,21 @@ cron 07:00 的例行轉錄班：把讀者在站上送的回報機械性轉成 Gi
 
 ## 收官 checklist
 
-| 檢查項                                | 狀態                                    |
-| ------------------------------------- | --------------------------------------- |
-| MEMORY 有這次 session 的紀錄          | ✅                                      |
-| Timestamp 精確                        | ✅ `git log %ai` + `session-id.sh`      |
-| Handoff 三態已審視                    | ✅（🚨 登入項退役）                     |
-| HG12 `git add docs/feedback/archive/` | ✅ 本輪 0 新檔（無新回報、無新留言）    |
-| HG12b `archive-reconcile`             | ✅ 87/87                                |
-| HG12c `comment-reconcile`             | ✅ 86/87（`#1252` 上游已刪，git 留著）  |
-| HG13 讀全文才判斷                     | ✅ 本輪 0 筆，`--show-all` 當正控制跑過 |
-| HG11 機器身份                         | ✅ `ghs_`／issues:write／單一庫         |
-| 自我檢查工具 PASS                     | 見下方 prose-health                     |
+| 檢查項                                | 狀態                                     |
+| ------------------------------------- | ---------------------------------------- |
+| MEMORY 有這次 session 的紀錄          | ✅                                       |
+| Timestamp 精確                        | ✅ `git log %ai` + `session-id.sh`       |
+| Handoff 三態已審視                    | ✅（🚨 登入項退役）                      |
+| HG12 `git add docs/feedback/archive/` | ✅ 本輪 0 新檔（無新回報、無新留言）     |
+| HG12b `archive-reconcile`             | ✅ 87/87                                 |
+| HG12c `comment-reconcile`             | ✅ 86/87（`#1252` 上游已刪，git 留著）   |
+| HG13 讀全文才判斷                     | ✅ 本輪 0 筆，`--show-all` 當正控制跑過  |
+| HG11 機器身份                         | ✅ `ghs_`／issues:write／單一庫          |
+| 自我檢查工具 PASS                     | ✅ prose-health hard=0 score=3/3         |
+| diary                                 | skipped — `0c` 第 1 條不中（見下）       |
+| evolve                                | skipped — 本班未 ship 內容，純轉錄＋對賬 |
+
+**diary skip 理由**（per DIARY-PIPELINE §Stage 0c「要寫才需要理由」）：`diary-gate.py` exit 0（冷卻已過 9 天、鄰居最高 0.02 沒有既有的家），0b 四個家測試也確實只有最後一列成立。但 `0c` 要三條全中，第 1 條「這次 routine 真的動了世界」不中——0 個 issue、0 份新 archive、兩道對賬全綠，正是條文點名的「純空場、純對賬全綠」。校準資料裡被冷卻窗擋下的 8 篇有 7 篇出自本 routine，今天在一個空場上寫日記就是哲宇 09-09 點名的那個 pattern。那段反芻留在 Beat 5，結構性發現進 LESSONS。
 
 ## Handoff 三態
 
