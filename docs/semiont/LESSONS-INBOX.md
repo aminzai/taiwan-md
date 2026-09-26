@@ -332,6 +332,18 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-27 twmd-feedback-triage — reconciliation-blind-to-what-reached-neither-side：對賬的兩個操作數共用同一個盲點，沒抵達任何一邊的那筆讓兩邊相等
+
+- **pattern**: `reconciliation-blind-to-what-reached-neither-side`
+- **原則**：一道拿「我方紀錄數」對「線上現存數」的對賬，抓得到單邊缺（漏收／上游刪除），抓不到**從未抵達任何一邊**的那筆。`reconcileComments()` 比的是兩個數字：一則讀者留言若在兩次成功掃描之間貼出又刪掉，archive 從來沒有它、線上也已經沒有它，兩邊同時少同一筆 → 相等 → 計入 `aligned` → 收官印 ✅。主權層對兩半紀錄的保證因此不對稱：**回報列**的緩衝在 Supabase，`status` 留 `new` 直到被歸檔，漏掉一輪只是延遲；**issue 留言**的緩衝在 GitHub，而那是作者可以自行刪除的地方，所以「兩次成功掃描之間」是一個留言可以無痕消失的窗口，而窗口寬度等於排程間隔。這條線每天掃一次 = 24 小時的窗口；漏掉一輪就變 48 小時，且沒有任何讀數會因此變色。
+- **觸發**：2026-09-27 07:12 本班收官讀 `comment-reconcile=86/87 ✅`。09-26 那輪因 mouhouse 登入過期整條沒醒（儀表板黃燈「fire 後 22.9h 零 git 痕跡」），本班是缺席一天後第一次掃。先確認好消息：`fetchIssueComments()` 讀的是 issue 的**當下**線上狀態、sync 按 `author+createdAt` 去重 append，所以只要留言此刻還在，漏幾輪都補得回來——缺席不造成永久缺口，補掃是全掃不是增量。真正的缺口是反面：逐行讀 `reconcileComments()`（`archive.mjs`）確認它只比 `archived` 與 `live` 兩個 count，`live > archived` 報漏收、`archived > live` 報上游已刪、相等即 `aligned`，沒有第三個來源能證明「曾經有過幾則」。→ memory/2026-09-27-071...-twmd-feedback-triage.md
+- **可能層級**：通用反射（REFLEXES #82／#88 的新維度）
+- **相關**：REFLEXES #82（proxy signal。差別：#82 講「選了觀察成本低的訊號當代理」，這裡兩個訊號都選對了、也真的都摸到各自那側的 ground truth，問題是**兩側都是事後讀取**，它們的交集不覆蓋「存在過但兩邊都沒留下」的區間——`aligned` 是「兩邊一致」當「全部說過的話都收到了」的代理）；#84（生成型產物要對賬 ground truth。差別：#84 的修法是「拿外部真實狀態來比」，本條指出當外部真實狀態本身是可變的、且它就是唯一的證人時，比對只能證明兩邊一致，不能證明完整）；#88（同一條 routine 轉錄＋保管雙職責，差別：#88 收的是保管那半被跳過，本條收的是保管那半照跑、且報綠燈，但它量不出那個窗口）；MEMORY §神經迴路「儀器只看見存在、看不見缺席」
+- **instances**：
+- **verification_count**: 1
+- **severity**: structural
+- **不在本班席位**：把窗口收窄（提高掃描頻率）或加第三個證人（webhook／事件流）都屬排程與架構調整，per BECOME §行動鐵律 10 需 Full mode ＋人類 gate。本條只把這個窗口的存在與寬度記下來，不自行改閘門、不改頻率。
+
 ### 2026-09-27 twmd-data-refresh-am — board-grades-its-own-author-mid-run：產生狀態板的 routine 在跑到一半時被自己的板子記成錯過
 
 - **pattern**: `board-grades-its-own-author-mid-run`
