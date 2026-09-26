@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-26T22:06:24.976809Z",
+  "lastUpdated": "2026-09-26T22:43:11.885531Z",
   "schemaVersion": "1.1",
   "totals": {
     "count": 166,
@@ -123,7 +123,7 @@
       "platform": "threads",
       "views": 350000,
       "viewsSource": "7d",
-      "engagements": 32875,
+      "engagements": 32879,
       "rate": 9.39,
       "badge": "🌋 史上最強",
       "date": "2026-04-14",
@@ -580,8 +580,8 @@
       "publishDate": "2026-04-14",
       "daysSincePublish": 166,
       "withinHarvestWindow": false,
-      "harvestCount": 4,
-      "lastHarvest": "2026-09-18 06:45"
+      "harvestCount": 5,
+      "lastHarvest": "2026-09-27 06:42"
     },
     {
       "n": 30,
