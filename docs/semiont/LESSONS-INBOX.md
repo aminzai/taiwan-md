@@ -332,6 +332,17 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-27 twmd-data-refresh-am — board-grades-its-own-author-mid-run：產生狀態板的 routine 在跑到一半時被自己的板子記成錯過
+
+- **pattern**: `board-grades-its-own-author-mid-run`
+- **原則**：一張用「收官紀錄存不存在」判斷有沒有跑的狀態板，如果由其中一條被評分的 routine 在跑到一半時產生，那條 routine 永遠讀不到自己今天的紀錄。`generate-dashboard-status.mjs` 只問「排程時刻到了沒」，到點就把沒有 memory 檔的當天記成 missed；data-refresh-am 在 Step 6.6 產生這張板、收官 memory 要十分鐘後才寫，於是每天早上發布的板上，它自己的當天都是 missed（09-25 commit 的板顯示 degraded，今天因為 09-26 真的沒醒，連同今天被算成連兩次、掛 down）。「還在跑」借用了「錯過」的符號。
+- **觸發**：2026-09-27 06:05 讀 Step 6.6 輸出 `down:1`，追到 data-refresh-am 的 grid 最後兩格 missed／missed，其中今天那格是本班自己。回頭查 `c900cafda:public/api/dashboard-status.json` 確認 09-25 同形。已修 `2e29d7ec1`：排程時刻後 3 小時寬限內且尚無紀錄記 idle、不計入連續錯過；今天已有紀錄照算 fired（第一版漏了後者，embeddings／routine-sync 被誤降 degraded，當場補）。→ memory/2026-09-27-061126-twmd-data-refresh-am.md
+- **可能層級**：通用反射（REFLEXES #85 的新維度）
+- **相關**：REFLEXES #85（「不知道」要有自己的符號。差別：#85 收的是不知道被印成「沒事」，這裡是「還沒完成」被印成「出事」，方向相反，同樣是一個狀態值蓋住兩種處置）；#38（混維度）；MEMORY §神經迴路「lastRunAt 在 spawn 那一刻寫入」（fire 與完成之間的時間差，這次落在另一側）
+- **instances**：
+- **verification_count**: 1
+- **severity**: tactical
+
 ### 2026-09-26 twmd-maintainer — alarm-opens-but-nothing-closes：兩個告警都會開 issue，問題解除時卻沒有東西去關，讀的人分不出是還沒好還是好了沒人收
 
 - **pattern**: `alarm-opens-but-nothing-closes`
@@ -1818,47 +1829,47 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 **觸發**：cron `twmd-distill-weekly`，STRICT BECOME GATE full mode（8 器官最低 🛡️57，Q5/Q6/Q13/Q14 PASS）。主樹落後 origin 2 個 commit 且 index 裡有 babel dispatcher 的在途檔，本班改在 `.worktrees/20260927-distill-weekly`（從 origin/main 開）工作，不碰主樹。`lessons-distill.py audit`：§未消化 102 條，severity=structural 13 條，vc≥3 8 條，Stage 0a 候選 0，檔尾 stray 0。候選 pool 19 條主 session 全讀；另派四個唯讀子代依 `chunk --agents 4` 分段對 canonical 做 ground-truth grep，回報的每一條「已涵蓋」都由主 session 重 grep 驗過才採信（REFLEXES #31）。
 
-| #   | 原 entry                                                                                   | 消化目的地                                                                                            | severity   | vc          |
-| --- | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------- | ---------- | ----------- |
-| 1   | 2026-09-24 twmd-babel-nightly `measured-copy-is-not-the-committed-copy`                    | **REFLEXES #100（新編號）** 驗證對象要等於落地對象                                                    | —          | 3           |
-| 2   | 2026-08-10 twmd-feedback-triage `formatter-vs-generator-quote-churn-fakes-scope-alarm`     | subsumed 進 #100 載體 (1)（原為 #92 觸發鏈一例）                                                      | moderate   | 4           |
-| 3   | 2026-09-23 twmd-maintainer-am `italic-span-defeats-url-escaping`                           | subsumed 進 #100 載體 (2) 與規則 (d)                                                                  | —          | 2           |
-| 4   | 2026-09-23 twmd-maintainer-am `prescribed-profile-is-not-the-gate-profile`                 | subsumed 進 #100 規則 (c) ＋ MAINTAINER v2.13 Step 3.5 補 pre-commit profile                          | —          | 1           |
-| 5   | 2026-08-16 twmd-maintainer-am `fix-scope-follows-symptom-not-root-class`                   | **REFLEXES #101（新編號）** 修補範圍照根因的類別畫                                                    | moderate   | 2（鏈 5）   |
-| 6   | 2026-08-27 twmd-maintainer-manual `silent-abort-in-the-path-that-only-runs-when-it-matters` | subsumed 進 #101 同檔版；機制已在 #24 形式 11                                                         | high       | 1（家族 5） |
-| 7   | 2026-09-20 twmd-routine-audit-weekly `steady-state-reconciliation-has-no-owner-after-the-crisis-does` | **REFLEXES #68 fold** 穩態稅；09-26 推送改常駐（`279ac88c8`）已收掉根源                        | structural | 4           |
-| 8   | 2026-09-18 twmd-babel-nightly `dispatcher-blind-to-the-other-producer`                     | subsumed 進 #68 穩態稅（同一個根的另一面）                                                            | —          | 2           |
-| 9   | 2026-09-22 twmd-babel-nightly `staged-files-leak-into-a-parallel-writers-commit`           | **REFLEXES #68 fold** commit 階段鏡像                                                                 | structural | 1（家族 5） |
-| 10  | 2026-09-23 twmd-embeddings-nightly `handoff-addressed-to-a-seat-that-cannot-act`           | **REFLEXES #97 fold** 子規則「收件席位動不了手」＋ MEMORY-PIPELINE v2.5 §Handoff 收件席位             | —          | 3           |
-| 11  | 2026-09-23 twmd-spore-harvest-am `settled-decision-relabelled-as-open-in-handoff`          | **REFLEXES #97 fold** 子規則「狀態標籤反向」＋ MEMORY-PIPELINE v2.5 參照帶狀態                        | —          | 1（27 班）  |
-| 12  | 2026-09-21 twmd-babel-nightly `deterministic-parser-defect-billed-as-model-failure`        | **REFLEXES #38 fold** (d) 第三種根因                                                                  | —          | 3           |
-| 13  | 2026-09-22 twmd-babel-nightly `metadata-stale-bump-assumes-frontmatter-unchanged`          | **REFLEXES #38 fold** ＋ SQUEEZE v4.14 §Tier 0b「bump 必同步 passthrough」                            | structural | 1           |
-| 14  | 2026-09-22 twmd-babel-nightly `one-gate-three-engines-three-rulers`                        | **REFLEXES #83 fold** 一個轉換住在三條引擎裡                                                          | structural | 3           |
-| 15  | 2026-09-21 twmd-babel-nightly `gate-and-engine-disagree-on-who-owns-a-field`               | subsumed 進 #83 同一 fold（欄位所有權三份手抄）                                                       | —          | 2           |
-| 16  | 2026-07-26 vortex-babel `meta-scan`（proactive-duplicate-judgment-scan）                   | subsumed 進 #83 同一 fold（元問法＋`strip_legit_zones()` 收斂）                                       | —          | 1           |
-| 17  | 2026-08-11 twmd-maintainer-am `gates-measure-handling-not-solving`                         | **REFLEXES #82 fold** 動作謂詞閘門；MAINTAINER v2.7 §1c 已落地                                        | high       | 3           |
-| 18  | 2026-09-22 twmd-babel-nightly `fresh-status-hides-truncation`                              | **REFLEXES #82 fold** provenance 對得上就永遠 fresh（載體一）                                         | structural | 1           |
-| 19  | 2026-09-23 twmd-babel-nightly `armor-restores-itself-unverified`                           | **REFLEXES #82 fold** 同上（載體二，變形的一端自己驗還原）                                            | structural | 1           |
-| 20  | 2026-09-25 twmd-maintainer-am `gate-measures-an-artifact-nobody-refreshes`                 | **REFLEXES #67 fold** 全站閘門量腳下那棵樹（時間軸）；`STALE` 出口已落地（`6868e12dc`）              | structural | 1           |
-| 21  | 2026-08-22 twmd-maintainer-am `whole-tree-gate-judges-from-the-branch-it-is-standing-on`   | **REFLEXES #67 fold** 同上（分支軸）；pre-push 分支感知已落地                                         | —          | 2           |
-| 22  | 2026-09-26 twmd-maintainer `resume-from-snapshot-drops-later-fixes`                        | **REFLEXES #56 fold** v11；產線取捨在 OBSERVER-QUEUE #81                                              | structural | 1           |
-| 23  | 2026-09-25 twmd-maintainer-am `guard-blind-to-the-file-type-its-own-docstring-indicts`     | **REFLEXES #56 fold** v10（v6 同一支檢查器第四次落後）                                                | structural | 1           |
-| 24  | 2026-09-25 twmd-maintainer-am `entry-doc-advertises-a-tree-that-was-never-built`           | **REFLEXES #92 fold**；`b99ffe4fd` ＋三條對賬測試已落地                                               | structural | 1           |
-| 25  | 2026-08-13 twmd-feedback-triage `reflex-exists-but-not-a-step-on-this-line`                | **housekeeping-done**：早已列在 #92 觸發鏈，09-23 閘門版 instance 補進 #92 歸檔行                     | low-medium | 2           |
-| 26  | 2026-09-20 twmd-maintainer-am `canonical-positive-example-fails-its-own-rules`             | **REFLEXES #65 fold** v12；規則分層在 OBSERVER-QUEUE #74                                              | structural | 2           |
-| 27  | 2026-09-22 twmd-maintainer-am `merged-source-translations-outlive-the-merge`               | **REFLEXES #91 fold** 刪除與登記                                                                      | structural | 1           |
-| 28  | 2026-09-27 twmd-babel-nightly `dry-run-fixers-on-known-clean-corpus-first`                 | **REFLEXES #99 fold** 變體 (f) 修復器負對照                                                           | —          | 1           |
-| 29  | 2026-08-30 twmd-maintainer-am `scaffold-window-has-no-qa`                                  | **MEMORY §神經迴路**「新語言出生時感知系統不會自動更新」instance 2                                    | —          | 2           |
-| 30  | 2026-08-04 manual（EZ WAY 孢子）`platform-allowlist-scattered-downstream`                  | **MEMORY §神經迴路** 同一條 instance 3（新平台）                                                      | —          | 1           |
-| 31  | 2026-09-20 twmd-distill-weekly `inbox-audit-boundary-stops-before-where-entries-actually-fall` | **already-covered** `lessons-distill.py audit` 檔尾 stray 檢查（`e1b14088a`），本輪實跑印 0          | structural | 1           |
-| 32  | 2026-09-14 twmd-babel-nightly `new-article-creation-has-no-slug-registration-step`         | **already-covered** `babel-preflight.py` `check_slug_registration()`（每班 Stage 0 第一個指令）       | tactical   | 3           |
-| 33  | 2026-08-15 twmd-maintainer-am `merge-first-collides-with-all-file-deploy-gate`             | **already-covered** MAINTAINER §1b P2 列「heal 能在同一個 push 週期完成，否則走 P1」                  | operational | 2          |
-| 34  | 2026-07-14 twmd-babel-nightly `diff-patch-current-translation-cross-entry`                 | **already-covered** SQUEEZE §Tier 0a Step 1b                                                          | correctness | 1          |
-| 35  | 2026-07-14 twmd-babel-nightly `parallel-subagent-scratch-race`                             | **already-covered** SQUEEZE §Tier 0a Step 1c                                                          | correctness | 1          |
-| 36  | 2026-08-04 支語研究 `dedup-layer-silent-degradation`                                       | **already-covered** TERMINOLOGY-TRENDS-PIPELINE「雙防線查重」                                         | tactical   | 1           |
-| 37  | 2026-08-14 twmd-feedback-triage `transcription-gates-guard-fidelity-not-consequence`       | **already-covered** FEEDBACK-TRIAGE-PIPELINE §不能轉錄的那一筆（「搬到公開 issue 會傷到誰」判斷式）   | high       | 1           |
-| 38  | 2026-08-07 twmd-feedback-triage `out-of-band-status-transition-bypasses-sovereignty-layer` | **already-covered** FEEDBACK-TRIAGE-PIPELINE HG12b 對賬                                               | —          | 1           |
-| 39  | 2026-09-21 twmd-data-refresh-am `relative-category-links-survive-link-check`               | **already-covered** 母稿 12 篇改絕對路徑（`4f3974f86`）＋`verify_internal_links.py` 認相對路徑（`69f7c6211`） | tactical | 2        |
+| #   | 原 entry                                                                                              | 消化目的地                                                                                                    | severity    | vc          |
+| --- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ----------- | ----------- |
+| 1   | 2026-09-24 twmd-babel-nightly `measured-copy-is-not-the-committed-copy`                               | **REFLEXES #100（新編號）** 驗證對象要等於落地對象                                                            | —           | 3           |
+| 2   | 2026-08-10 twmd-feedback-triage `formatter-vs-generator-quote-churn-fakes-scope-alarm`                | subsumed 進 #100 載體 (1)（原為 #92 觸發鏈一例）                                                              | moderate    | 4           |
+| 3   | 2026-09-23 twmd-maintainer-am `italic-span-defeats-url-escaping`                                      | subsumed 進 #100 載體 (2) 與規則 (d)                                                                          | —           | 2           |
+| 4   | 2026-09-23 twmd-maintainer-am `prescribed-profile-is-not-the-gate-profile`                            | subsumed 進 #100 規則 (c) ＋ MAINTAINER v2.13 Step 3.5 補 pre-commit profile                                  | —           | 1           |
+| 5   | 2026-08-16 twmd-maintainer-am `fix-scope-follows-symptom-not-root-class`                              | **REFLEXES #101（新編號）** 修補範圍照根因的類別畫                                                            | moderate    | 2（鏈 5）   |
+| 6   | 2026-08-27 twmd-maintainer-manual `silent-abort-in-the-path-that-only-runs-when-it-matters`           | subsumed 進 #101 同檔版；機制已在 #24 形式 11                                                                 | high        | 1（家族 5） |
+| 7   | 2026-09-20 twmd-routine-audit-weekly `steady-state-reconciliation-has-no-owner-after-the-crisis-does` | **REFLEXES #68 fold** 穩態稅；09-26 推送改常駐（`279ac88c8`）已收掉根源                                       | structural  | 4           |
+| 8   | 2026-09-18 twmd-babel-nightly `dispatcher-blind-to-the-other-producer`                                | subsumed 進 #68 穩態稅（同一個根的另一面）                                                                    | —           | 2           |
+| 9   | 2026-09-22 twmd-babel-nightly `staged-files-leak-into-a-parallel-writers-commit`                      | **REFLEXES #68 fold** commit 階段鏡像                                                                         | structural  | 1（家族 5） |
+| 10  | 2026-09-23 twmd-embeddings-nightly `handoff-addressed-to-a-seat-that-cannot-act`                      | **REFLEXES #97 fold** 子規則「收件席位動不了手」＋ MEMORY-PIPELINE v2.5 §Handoff 收件席位                     | —           | 3           |
+| 11  | 2026-09-23 twmd-spore-harvest-am `settled-decision-relabelled-as-open-in-handoff`                     | **REFLEXES #97 fold** 子規則「狀態標籤反向」＋ MEMORY-PIPELINE v2.5 參照帶狀態                                | —           | 1（27 班）  |
+| 12  | 2026-09-21 twmd-babel-nightly `deterministic-parser-defect-billed-as-model-failure`                   | **REFLEXES #38 fold** (d) 第三種根因                                                                          | —           | 3           |
+| 13  | 2026-09-22 twmd-babel-nightly `metadata-stale-bump-assumes-frontmatter-unchanged`                     | **REFLEXES #38 fold** ＋ SQUEEZE v4.14 §Tier 0b「bump 必同步 passthrough」                                    | structural  | 1           |
+| 14  | 2026-09-22 twmd-babel-nightly `one-gate-three-engines-three-rulers`                                   | **REFLEXES #83 fold** 一個轉換住在三條引擎裡                                                                  | structural  | 3           |
+| 15  | 2026-09-21 twmd-babel-nightly `gate-and-engine-disagree-on-who-owns-a-field`                          | subsumed 進 #83 同一 fold（欄位所有權三份手抄）                                                               | —           | 2           |
+| 16  | 2026-07-26 vortex-babel `meta-scan`（proactive-duplicate-judgment-scan）                              | subsumed 進 #83 同一 fold（元問法＋`strip_legit_zones()` 收斂）                                               | —           | 1           |
+| 17  | 2026-08-11 twmd-maintainer-am `gates-measure-handling-not-solving`                                    | **REFLEXES #82 fold** 動作謂詞閘門；MAINTAINER v2.7 §1c 已落地                                                | high        | 3           |
+| 18  | 2026-09-22 twmd-babel-nightly `fresh-status-hides-truncation`                                         | **REFLEXES #82 fold** provenance 對得上就永遠 fresh（載體一）                                                 | structural  | 1           |
+| 19  | 2026-09-23 twmd-babel-nightly `armor-restores-itself-unverified`                                      | **REFLEXES #82 fold** 同上（載體二，變形的一端自己驗還原）                                                    | structural  | 1           |
+| 20  | 2026-09-25 twmd-maintainer-am `gate-measures-an-artifact-nobody-refreshes`                            | **REFLEXES #67 fold** 全站閘門量腳下那棵樹（時間軸）；`STALE` 出口已落地（`6868e12dc`）                       | structural  | 1           |
+| 21  | 2026-08-22 twmd-maintainer-am `whole-tree-gate-judges-from-the-branch-it-is-standing-on`              | **REFLEXES #67 fold** 同上（分支軸）；pre-push 分支感知已落地                                                 | —           | 2           |
+| 22  | 2026-09-26 twmd-maintainer `resume-from-snapshot-drops-later-fixes`                                   | **REFLEXES #56 fold** v11；產線取捨在 OBSERVER-QUEUE #81                                                      | structural  | 1           |
+| 23  | 2026-09-25 twmd-maintainer-am `guard-blind-to-the-file-type-its-own-docstring-indicts`                | **REFLEXES #56 fold** v10（v6 同一支檢查器第四次落後）                                                        | structural  | 1           |
+| 24  | 2026-09-25 twmd-maintainer-am `entry-doc-advertises-a-tree-that-was-never-built`                      | **REFLEXES #92 fold**；`b99ffe4fd` ＋三條對賬測試已落地                                                       | structural  | 1           |
+| 25  | 2026-08-13 twmd-feedback-triage `reflex-exists-but-not-a-step-on-this-line`                           | **housekeeping-done**：早已列在 #92 觸發鏈，09-23 閘門版 instance 補進 #92 歸檔行                             | low-medium  | 2           |
+| 26  | 2026-09-20 twmd-maintainer-am `canonical-positive-example-fails-its-own-rules`                        | **REFLEXES #65 fold** v12；規則分層在 OBSERVER-QUEUE #74                                                      | structural  | 2           |
+| 27  | 2026-09-22 twmd-maintainer-am `merged-source-translations-outlive-the-merge`                          | **REFLEXES #91 fold** 刪除與登記                                                                              | structural  | 1           |
+| 28  | 2026-09-27 twmd-babel-nightly `dry-run-fixers-on-known-clean-corpus-first`                            | **REFLEXES #99 fold** 變體 (f) 修復器負對照                                                                   | —           | 1           |
+| 29  | 2026-08-30 twmd-maintainer-am `scaffold-window-has-no-qa`                                             | **MEMORY §神經迴路**「新語言出生時感知系統不會自動更新」instance 2                                            | —           | 2           |
+| 30  | 2026-08-04 manual（EZ WAY 孢子）`platform-allowlist-scattered-downstream`                             | **MEMORY §神經迴路** 同一條 instance 3（新平台）                                                              | —           | 1           |
+| 31  | 2026-09-20 twmd-distill-weekly `inbox-audit-boundary-stops-before-where-entries-actually-fall`        | **already-covered** `lessons-distill.py audit` 檔尾 stray 檢查（`e1b14088a`），本輪實跑印 0                   | structural  | 1           |
+| 32  | 2026-09-14 twmd-babel-nightly `new-article-creation-has-no-slug-registration-step`                    | **already-covered** `babel-preflight.py` `check_slug_registration()`（每班 Stage 0 第一個指令）               | tactical    | 3           |
+| 33  | 2026-08-15 twmd-maintainer-am `merge-first-collides-with-all-file-deploy-gate`                        | **already-covered** MAINTAINER §1b P2 列「heal 能在同一個 push 週期完成，否則走 P1」                          | operational | 2           |
+| 34  | 2026-07-14 twmd-babel-nightly `diff-patch-current-translation-cross-entry`                            | **already-covered** SQUEEZE §Tier 0a Step 1b                                                                  | correctness | 1           |
+| 35  | 2026-07-14 twmd-babel-nightly `parallel-subagent-scratch-race`                                        | **already-covered** SQUEEZE §Tier 0a Step 1c                                                                  | correctness | 1           |
+| 36  | 2026-08-04 支語研究 `dedup-layer-silent-degradation`                                                  | **already-covered** TERMINOLOGY-TRENDS-PIPELINE「雙防線查重」                                                 | tactical    | 1           |
+| 37  | 2026-08-14 twmd-feedback-triage `transcription-gates-guard-fidelity-not-consequence`                  | **already-covered** FEEDBACK-TRIAGE-PIPELINE §不能轉錄的那一筆（「搬到公開 issue 會傷到誰」判斷式）           | high        | 1           |
+| 38  | 2026-08-07 twmd-feedback-triage `out-of-band-status-transition-bypasses-sovereignty-layer`            | **already-covered** FEEDBACK-TRIAGE-PIPELINE HG12b 對賬                                                       | —           | 1           |
+| 39  | 2026-09-21 twmd-data-refresh-am `relative-category-links-survive-link-check`                          | **already-covered** 母稿 12 篇改絕對路徑（`4f3974f86`）＋`verify_internal_links.py` 認相對路徑（`69f7c6211`） | tactical    | 2           |
 
 **判準說明**：兩條新編號各自是一個跨 task 的家族，不在現有 canonical：#100 由四條 entry 在六週、三條 routine 各自撞到（格式化器排在 commit 路徑上，驗收量到的版本跟落地的版本不同），#24 形式 10 只收「格式化器改壞內容」那一半；#101 是同型五次加一次同檔版，#15 管「要不要做成儀器」，#101 管「做成儀器時範圍畫多寬」。`steady-state-reconciliation` vc=4 且標 distill_ready，本來考慮開新編號，但四個 instance 同一天、同一個 git 領域，而根源已在 09-26 由推送常駐收掉，判斷放 #68 子規則較穩，不為單一領域的證據開新號。其餘 structural singleton 全數 fold 既有反射（零膨脹）。九條 already-covered 都對 canonical 重 grep 驗過位置。
 
