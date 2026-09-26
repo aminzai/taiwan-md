@@ -87,6 +87,17 @@ function cadenceHuman(cronExpression) {
   return `每週${WEEKDAY_ZH[dow] ?? '?'} ${hh}:${mm}`;
 }
 
+/** 今天的排程時刻＋寬限是否已過。fire 的證據是收官寫下的 memory 檔，
+ *  routine 從觸發到收官要幾分鐘到一兩小時；只看「到點沒」會把正在跑的那一輪
+ *  記成 miss。最尖銳的是 data-refresh-am 自己：這張板在它跑到一半時產生，
+ *  於是它每天早上都把自己的當天標成 missed（09-25 板上 degraded、09-27 板上
+ *  down，實際兩天都是這一輪正在跑）。寬限 3 小時涵蓋現行 routine 的收官時間。 */
+const FIRE_GRACE_MINUTES = 180;
+function isPastGrace(hour, min, now = new Date()) {
+  const nowMin = now.getHours() * 60 + now.getMinutes();
+  return nowMin >= hour * 60 + min + FIRE_GRACE_MINUTES;
+}
+
 /** 給定 'YYYY-MM-DD'，該天在該 cron 下是否為期望 fire 日 */
 function isExpectedDate(dateStr, dow, dom = null) {
   const d = new Date(`${dateStr}T00:00:00`);
@@ -201,12 +212,8 @@ function buildRoutineBoard() {
       if (!expected) state = 'idle';
       else if (fireDates.has(dateStr)) state = 'fired';
       else if (dateStr === todayStr) {
-        // 今天且排程時刻還沒到 → 還不算「miss」，先當 idle
-        const now = new Date();
-        const due =
-          now.getHours() > hour ||
-          (now.getHours() === hour && now.getMinutes() >= min);
-        state = due ? 'missed' : 'idle';
+        // 今天且還沒過「排程時刻＋寬限」→ 還不算「miss」，先當 idle
+        state = isPastGrace(hour, min) ? 'missed' : 'idle';
       } else state = 'missed';
       grid14.push({ date: dateStr, state });
     }
@@ -223,13 +230,12 @@ function buildRoutineBoard() {
         const d = addDays(today, -i);
         const dateStr = localDateStr(d);
         if (!isExpectedDate(dateStr, dow, dom)) continue;
-        if (dateStr === todayStr) {
-          const now = new Date();
-          const due =
-            now.getHours() > hour ||
-            (now.getHours() === hour && now.getMinutes() >= min);
-          if (!due) continue; // 今天還沒到點，不計入
-        }
+        if (
+          dateStr === todayStr &&
+          !fireDates.has(dateStr) &&
+          !isPastGrace(hour, min)
+        )
+          continue; // 今天還在跑或還沒到點，不計入
         if (fireDates.has(dateStr)) break; // 找到最近一次命中，停止累計
         consecutiveMissed++;
       }
