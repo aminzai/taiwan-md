@@ -316,3 +316,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-27 | 021339-twmd-weekly-report-sun | W39 體檢：十三語文章覆蓋率封頂（1122／1122）的同一週自產 1 篇、新建 0 篇；六條 routine 沉默死亡追到登入過期；桶 1 零項、roadmap roll 第八週、佇列 #85 只問 review-stock 誰做；廣播 20 人 | 三個器官分數同時替停轉的產線發綠燈——假的不是警報是分數本身 | [→](memory/2026-09-27-021339-twmd-weekly-report-sun.md) |
 | 2026-09-27 | 031342-twmd-distill-weekly | 消化 39 條教訓（102→63），新增 #100 驗證對象要等於落地對象、#101 修補範圍照根因類別畫；索引歸檔 54 列 | 單一領域的 vc=4 放子規則不開新號；子代說找不到的段落，先重 grep 再採信 | [→](memory/2026-09-27-031342-twmd-distill-weekly.md) |
 | 2026-09-27 | 043054-twmd-self-evolve-weekly | 四件記了數週的缺口接線：INBOX 切角期限、commit 前問 prettier 的網址檢查、pathspec 索引殘影、CF 逐頁明細 | 缺的是最後一段聚合不是資料；替尺省成本讓它量到零 | [→](memory/2026-09-27-043054-twmd-self-evolve-weekly.md) |
+| 2026-09-27 | 053928-twmd-routine-sync | 第 60 輪：babel-nightly 缺 Stage 0.5，git 版較新照 git 補上機器（舊版存證）；cron／enabled 對 live 18 條零差；09-26 那輪因登入過期沒醒，新殼晚一晚送達 | 對賬器缺席一天，漂移就多活一站 | [→](memory/2026-09-27-053928-twmd-routine-sync.md) |
