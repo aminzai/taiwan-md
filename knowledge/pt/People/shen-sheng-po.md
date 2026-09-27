@@ -88,7 +88,6 @@ Shen Sheng-po não deixou um "fórmula de sucesso", mas uma **atitude**: entende
 
 ## Referências
 
-- [Shen Sheng-po (Wikipedia)](https://en.wikipedia.org/wiki/Shen_Sheng-po)
 - [Shen Sheng-po | Taiwan Contemporary Art Archive](https://tcaaarchive.org/Artist/Detail/1334)
 - [Shen Sheng-po | Artemperor Art Knowledge Base](https://artemperor.tw/knowledge/2372)
 - [OpenLab.Taipei](https://openlabtaipei.org/)

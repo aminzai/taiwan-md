@@ -44,7 +44,7 @@ Life in the dependents' village meant the world of performance was never unfamil
 
 In 1986, Chang Yu-sheng was in his first year of university when his younger sister Chang Yu-hsien drowned. She was only 15 years old. It was the first real hole in his life. His sister had loved singing and sung well; Chang Yu-sheng said he sang to fulfill his sister's musical dream.[^2]
 
-He entered the then-prominent Mupan Folk Song Singing Competition and won. Two years later he sang the warmest advertising jingle in [Taiwan pop music](https://taiwan.md/music/golden-melodies-legacy-taiwan-pop-music) history:
+He entered the then-prominent Mupan Folk Song Singing Competition and won. Two years later he sang the warmest advertising jingle in [Taiwan pop music](/en/music/golden-melodies-legacy-taiwan-pop-music/) history:
 
 In 1988, the Black Pine Sarsaparilla "Modern Hero" TV advertisement played powerfully on television, and the insert song was ["My Future Is Not a Dream"](https://www.youtube.com/watch?v=lTxZmhAoSGU). His clear high voice and uplifting lyrics quickly made him a household name. The following year (November 1989), his first personal album [_Miss You Every Day_](https://www.youtube.com/watch?v=qSslpWSSTLg) came out, selling 350,000 copies.[^2]
 

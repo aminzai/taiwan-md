@@ -82,9 +82,9 @@ Reading Huang Chung-kai and reading Tung Wei-ko are entirely different rhythms, 
 
 ## The Veterans on New Ground
 
-[Chu Tien-hsin](https://zh.wikipedia.org/wiki/%E6%9C%B1%E5%A4%A9%E5%BF%83) did not stop after 2000. _The Hunters_ (獵人們, 2005), _Early Summer Love in the Time of Lotus_ (初夏荷花時期的愛情, 2010, winner of the 2011 Taipei International Book Exhibition Award) — she continued writing memory, the city, and the fractures left behind when the Japanese empire disappeared; later came _Thirty-Three Years' Dreaming_ (三十三年夢), about dreams and travels in Japan.
+Chu Tien-hsin did not stop after 2000. _The Hunters_ (獵人們, 2005), _Early Summer Love in the Time of Lotus_ (初夏荷花時期的愛情, 2010, winner of the 2011 Taipei International Book Exhibition Award) — she continued writing memory, the city, and the fractures left behind when the Japanese empire disappeared; later came _Thirty-Three Years' Dreaming_ (三十三年夢), about dreams and travels in Japan.
 
-[Chu Tien-wen](https://zh.wikipedia.org/wiki/%E6%9C%B1%E5%A4%A9%E6%96%87) began writing in June 2000, finished in December 2007, and published _Shaman_ (巫言) in February 2008. An essay-style long work, 200,000 characters, with an extraordinarily high density of prose — every page feels like summoning a sense of language on the verge of disappearing. Between 2001 and 2005 she primarily wrote scripts for [Hou Hsiao-hsien](https://zh.wikipedia.org/wiki/%E4%BE%AF%E5%AD%9D%E8%B3%A2) (_Millennium Mambo_, _Café Lumière_, _Three Times_), then poured seven and a half years of accumulation entirely into _Shaman_.
+[Chu Tien-wen](/en/people/chu-tien-wen/) began writing in June 2000, finished in December 2007, and published _Shaman_ (巫言) in February 2008. An essay-style long work, 200,000 characters, with an extraordinarily high density of prose — every page feels like summoning a sense of language on the verge of disappearing. Between 2001 and 2005 she primarily wrote scripts for [Hou Hsiao-hsien](/en/people/hou-hsiao-hsien/) (_Millennium Mambo_, _Café Lumière_, _Three Times_), then poured seven and a half years of accumulation entirely into _Shaman_.
 
 Su Wei-chen continues writing with Tainan as her anchor: _Magic Hour_ (魔術時刻, 2002), _Tainan Reflections_ (倒影台南, 2004), _Time Brigade_ (時光隊伍, 2006). Her writing is the very slow, very deep kind — time like a river; those inside it know which water this is.
 

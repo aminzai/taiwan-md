@@ -127,7 +127,7 @@ From street performer to challenge king, from Golden Melody winner to Rain God l
 
 ## References
 
-- [Wikipedia: Jam Hsiao](https://en.wikipedia.org/wiki/Jam_Hsiao) — Comprehensive career overview
+- [Wikipedia: Jam Hsiao](https://zh.wikipedia.org/zh-tw/%E8%95%AD%E6%95%AC%E9%A8%B0) — Comprehensive career overview
 - [National Cultural Memory Bank: 24th Golden Melody Awards Jam Hsiao Crowned King](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=507328) — Golden Melody Award records
 - [PTS News: Jam Hsiao Golden Melody King](https://news.pts.org.tw/article/244506) — 2013 Golden Melody Awards coverage
 - [Wikipedia: One Million Star Season 1](<https://zh.wikipedia.org/zh-tw/%E8%B6%85%E7%B4%9A%E6%98%9F%E5%85%89%E5%A4%A7%E9%81%93_(%E7%AC%AC%E4%B8%80%E5%B1%86)>) — Historical challenger segment records
