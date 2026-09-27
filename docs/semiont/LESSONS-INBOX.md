@@ -332,6 +332,17 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-28 twmd-babel-nightly — link-resolved-at-write-time-freezes-when-target-is-born-later：連結在寫入當下查表改寫，目標後來才出生的就永遠停在舊網址
+
+- **pattern**: link-resolved-at-write-time-freezes-when-target-is-born-later
+- **原則**：一個查表式改寫只在寫入時跑一次，它的正確性就綁在「寫入那一刻表裡有什麼」；表之後長大，已寫入的東西不會回頭對齊，而這種落差在任何以「目標存在」為判準的閘門上都是綠的。
+- **觸發**：2026-09-28 00:55 babel-nightly 驗收 12 語 24 小時譯文，順手乾跑 `localize-cross-links.py --all`：6,413 條譯文內連結指向 zh 頁面，而目標語言早有譯文（新七語各 800 多條）。07-27 立的第二段（翻譯前先改寫連結）只認得當時已存在的譯文；死連結閘門看到 zh 頁存在就放行。量化與處置在 OBSERVER-QUEUE #89（待決），本班只修了 66 條只缺語言前綴的（`da37e88bf`）。
+- **instances**：
+  - 2026-09-28 twmd-babel-nightly 6,413 條／2,656 檔 → memory/2026-09-28-005550-twmd-babel-nightly.md
+- **可能層級**：通用反射（跟 REFLEXES #101「修補範圍照根因類別畫」同族：07-27 修的是「模型不改連結」，根因類別是「連結改寫只發生一次」）
+- **相關**：REFLEXES #101、#84（產物要對賬 ground truth）；MEMORY §神經迴路「多語言 nav 的隱性路由 scope」
+- **verification_count**: 1
+
 ### 2026-09-27 twmd-routine-audit-weekly — append-only-queue-numbering-has-no-allocator：佇列編號是「讀表上最大號加一」，兩個平行 session 讀到同一個最大號，而號碼先流到公開留言才被發現撞了
 
 - **pattern**: `append-only-queue-numbering-has-no-allocator`
