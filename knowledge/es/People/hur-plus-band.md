@@ -208,7 +208,7 @@ HUR+ está probando esta hipótesis. Aún no la ha probado por completo, pero ca
 
 - [Lien Ying](/es/people/lien-ying) — Bailarina principal de HUR+, el primer caso en Taiwán donde un miembro del grupo desarrolla una carrera en solitario. "El nivel de baile que debe tener un grupo femenino".
 - [Nueva generación de ídolos taiwaneses](/es/culture/taiwan-new-idol-generation) — De DD52 a la porra cósmica, seis años de experimento industrial en el concurso de ídolos taiwanés.
-- [Tsai Ing-wen (楊丞琳)](/es/people/rainie-yang) — La mentora principal de DD52 y una historia de veinticinco años saliendo del sistema de ídolos con autonomía.
+- [Rainie Yang (楊丞琳)](/es/people/rainie-yang) — La mentora principal de DD52 y una historia de veinticinco años saliendo del sistema de ídolos con autonomía.
 - [Mayday (五月天)(五月天)](/es/music/mayday-band) — Otra historia de larga distancia de un grupo musical taiwanés, desde escenarios pequeños hasta estadios asiáticos.
 - [Música independiente taiwanesa](/es/music/indie-music-scene) — La intersección del estilo musical de HUR+ y la música electrónica independiente.
 

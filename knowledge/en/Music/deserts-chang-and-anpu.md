@@ -185,7 +185,7 @@ The blank was important. Deserts Chang had spent twelve years growing into a sym
 
 In May 2018, under the name "Anpu," she held the "Refining Clouds" concert at Taipei Arena — 20,000 tickets sold out instantly [^20].
 
-The show cost NT$36 million to produce. The main stage was assembled from 3,200+ irregularly shaped LED panels into the form of clouds; the stage alone cost NT$15 million and took six months to design [^20]. From more than 200 candidate songs, she selected 22 covers: all works by Taiwanese musicians who had influenced her, spanning thirty years of underground and independent music history — Chao Yi-hao, Chen Shan-ni, Huang Hsiao-chen, Lin Chiang. For the 20,000 in attendance, most of these were "new songs" they had never heard before.
+The show cost NT$36 million to produce. The main stage was assembled from 3,200+ irregularly shaped LED panels into the form of clouds; the stage alone cost NT$15 million and took six months to design [^20]. From more than 200 candidate songs, she selected 22 covers: all works by Taiwanese musicians who had influenced her, spanning thirty years of underground and independent music history — Chao Yi-hao, Sandee Chan, Huang Hsiao-chen, Lim Giong. For the 20,000 in attendance, most of these were "new songs" they had never heard before.
 
 Music critic Ma Shih-fang wrote: "A magnificent dream." He described the stage, built like interlocking blocks, as creating an oneiric sensory experience: precise, sweeping, breathtaking — yet never overwrought [^20].
 
@@ -199,7 +199,7 @@ On January 18, 2022, Anpu announced her divorce at a concert, saying she had com
 
 Nine months later, the album _9522_ was released. Sixteen tracks, almost all written between her fourteenth and seventeenth years. The cipher-like album title hints at 1995 to 2022 — a 27-year span [^22]. A forty-year-old woman going back to sing songs written in her girlhood, framed as "a letter of blessing written to girls and women still growing up" [^22].
 
-["The Best Time"](https://www.youtube.com/watch?v=hiOnDnHwwjU) was the first single; its main melody was written when she was fourteen. She once submitted it as a car commercial jingle, and it was rejected. Years later, actress Chang Chun-ning heard the demo, was moved by the melody, and encouraged her to finish it. Wu Ch'ing-feng (Waa Wei) was the first to hear the completed version and gave it this assessment: "This moment makes an entire life worth it." The two of them listened to each other's albums and talked until dawn [^23].
+["The Best Time"](https://www.youtube.com/watch?v=hiOnDnHwwjU) was the first single; its main melody was written when she was fourteen. She once submitted it as a car commercial jingle, and it was rejected. Years later, actress Chang Chun-ning heard the demo, was moved by the melody, and encouraged her to finish it. Wu Qing-feng was the first to hear the completed version and gave it this assessment: "This moment makes an entire life worth it." The two of them listened to each other's albums and talked until dawn [^23].
 
 In 2023, "The Best Time" won Song of the Year at the 34th Golden Melody Awards [^24]. The jury's citation: "A work that transcends era and time — a good song to be heard forever." On the day of the ceremony, her name was not Deserts Chang. It was Anpu.
 

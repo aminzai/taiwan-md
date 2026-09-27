@@ -107,7 +107,7 @@ Cette période de blanc est importante. Deserts Chang était devenue en douze an
 
 En mai 2018, sous le nom « Anpu », elle organise au Taipei Arena le concert « Lian Yun ». Vingt mille billets vendus en un instant [^20].
 
-Ce concert a coûté 36 millions de NT$ à produire. La scène principale est composée de plus de 3 200 panneaux LED irréguliers formant un nuage ; rien que la scène a coûté 15 millions, conçue en six mois [^20]. Sur plus de deux cents chansons candidates, elle en choisit vingt-deux à reprendre — toutes des œuvres de musiciens taïwanais qui l'ont influencée, couvrant trente ans d'histoire de la musique indépendante et underground. Chao Yi-hao, Sandee Chan, Huang Hsiao-chen, Lin Chiang. Pour les vingt mille spectateurs, ce sont en majorité des « nouvelles chansons » qu'ils n'ont jamais entendues.
+Ce concert a coûté 36 millions de NT$ à produire. La scène principale est composée de plus de 3 200 panneaux LED irréguliers formant un nuage ; rien que la scène a coûté 15 millions, conçue en six mois [^20]. Sur plus de deux cents chansons candidates, elle en choisit vingt-deux à reprendre — toutes des œuvres de musiciens taïwanais qui l'ont influencée, couvrant trente ans d'histoire de la musique indépendante et underground. Chao Yi-hao, Sandee Chan, Huang Hsiao-chen, Lim Giong. Pour les vingt mille spectateurs, ce sont en majorité des « nouvelles chansons » qu'ils n'ont jamais entendues.
 
 Le critique Ma Shih-fang écrit : « Un rêve magnifique. » Il décrit la scène, montée comme un assemblage de blocs, créant une expérience sensorielle onirique : précise, monumentale, à couper le souffle, sans ostentation [^20].
 
@@ -133,7 +133,7 @@ En 2023, « Zui Hao De Shi Guang » remporte la Chanson de l'année aux 34es Gol
 
 Onze ans plus tôt, cette personne avait été bannie de Chine pour avoir brandi le drapeau de la République de Chine ; aujourd'hui, elle souhaite un joyeux anniversaire à la République populaire de Chine.
 
-La réaction des fans taïwanais n'est pas la colère, c'est le cœur brisé. Celle qui chantait « Mei Gui Se De Ni », qui s'est exprimée pendant le mouvement Tournesol, qui à Manchester avait dit « It's just a flag », comment a-t-elle pu écrire cette lettre ? Son amie Hsin Pei tente une défense, et se fait lyncher [^27]. Un écrivain analyse directement ses gestes récents et conclut : « démonstration d'allégeance préméditée » [^28]. Le politologue Huang Chao-nien souligne qu'il s'agit d'un volet de la stratégie chinoise dite des « trois milieux et une jeunesse » : forcer les artistes taïwanais à des prises de position politiques pour influencer l'identité de la jeunesse [^29].
+La réaction des fans taïwanais n'est pas la colère, c'est le cœur brisé. Celle qui chantait « Mei Gui Se De Ni », qui s'est exprimée pendant le mouvement Tournesol, qui à Manchester avait dit « It's just a flag », comment a-t-elle pu écrire cette lettre ? Son amie Ho Hsin-sui tente une défense, et se fait lyncher [^27]. Un écrivain analyse directement ses gestes récents et conclut : « démonstration d'allégeance préméditée » [^28]. Le politologue Huang Chao-nien souligne qu'il s'agit d'un volet de la stratégie chinoise dite des « trois milieux et une jeunesse » : forcer les artistes taïwanais à des prises de position politiques pour influencer l'identité de la jeunesse [^29].
 
 Onze jours plus tard, le 12 octobre, festival Takao. Avant qu'Anpu ne monte sur scène, le public agite déjà des drapeaux de la baleine de l'indépendance taïwanaise et des drapeaux du Mont Yu. Des fans crient directement : « Chiao Anpu, pourquoi ? »
 
@@ -229,7 +229,7 @@ Peut-être la fille a-t-elle appris la même chose de son père. Sauf que la ré
 
 [^26]: [Lettre manuscrite d'Anpu pour le 75e anniversaire de la nouvelle Chine — CTS News](https://news.cts.com.tw/cts/entertain/202410/202410022383717.html) — 1er octobre 2024 22:01 sur Weibo
 
-[^27]: [Hsin Pei défend Anpu et se fait lyncher — UDN Stars](https://stars.udn.com/star/story/10088/8267193) — Critique de la défense
+[^27]: [Ho Hsin-sui défend Anpu et se fait lyncher — UDN Stars](https://stars.udn.com/star/story/10088/8267193) — Critique de la défense
 
 [^28]: [Un écrivain liste les actions récentes d'Anpu — Liberty Times](https://ent.ltn.com.tw/news/breakingnews/4818861) — Analyse « démonstration d'allégeance préméditée »
 

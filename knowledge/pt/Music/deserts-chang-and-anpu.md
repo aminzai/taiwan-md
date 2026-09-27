@@ -107,7 +107,7 @@ Esse intervalo foi importante. Ao longo de doze anos, Deserts Chang havia se tra
 
 Em maio de 2018, ela realizou o show _Refining Clouds_ na Taipei Arena sob o nome “Anpu”. Os vinte mil ingressos esgotaram-se instantaneamente [^20].
 
-A produção custou 36 milhões de dólares taiwaneses. O palco principal, concebido como uma nuvem, foi montado com mais de 3.200 painéis irregulares de LED. Somente o palco custou 15 milhões e levou seis meses para ser projetado [^20]. Entre mais de duzentas candidatas, ela escolheu 22 canções para reinterpretar, todas de músicos taiwaneses que a haviam influenciado, percorrendo trinta anos de história da música underground e independente: Chao Yi-hao, Sandee Chan, Peggy Hsu e Lim Giong. Para a maioria das vinte mil pessoas presentes, eram “canções novas” que nunca haviam ouvido.
+A produção custou 36 milhões de dólares taiwaneses. O palco principal, concebido como uma nuvem, foi montado com mais de 3.200 painéis irregulares de LED. Somente o palco custou 15 milhões e levou seis meses para ser projetado [^20]. Entre mais de duzentas candidatas, ela escolheu 22 canções para reinterpretar, todas de músicos taiwaneses que a haviam influenciado, percorrendo trinta anos de história da música underground e independente: Chao Yi-hao, Sandee Chan, Huang Hsiao-chen e Lim Giong. Para a maioria das vinte mil pessoas presentes, eram “canções novas” que nunca haviam ouvido.
 
 O crítico musical Ma Shih-fang escreveu: “Um sonho de heroica intensidade.” Para ele, o palco construído como um conjunto de blocos produzia uma experiência sensorial onírica: precisa, grandiosa e de tirar o fôlego, mas sem ostentação [^20].
 
