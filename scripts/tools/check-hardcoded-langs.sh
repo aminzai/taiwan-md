@@ -58,8 +58,13 @@ LANGCODES="en|ja|ko|es|fr|vi|id|pt|hi|ar|ru|de|th"
 #     那一列（實測 295,003 條連結、416 條死連結錯記）。
 # 誕生於同一次班：一支專為抓「寫死語言清單」而生的檢查器，對造它的那個病的
 # 最新一批 instance 回報全綠（REFLEXES #83 兩把尺 divergence / #82）。
+# v5（2026-09-27 twmd-maintainer）：第一條 pattern 錨在 `[`，python 的 set `{"en", ...}`
+# 與 tuple `("en", ...)` 整個隱形。babel 對話修 name-consistency-check.py:193 時發現
+# （那是 set 寫法）。開口放寬成 `[`、`{`、`(` 三種，量到多現形 18 行，全部在 .py，
+# js/ts/astro/sh 零新增，所以對 pre-commit 現在擋的範圍沒有改變。18 行照 v4 的分法
+# 掛號（下方 DEBT 2026-09-27 段），article_health 的 langs.py 進允許清單。
 PATTERNS=(
-  "\\[\\s*['\"]($LANGCODES)['\"]\\s*,\\s*['\"]($LANGCODES)['\"]\\s*,\\s*['\"]($LANGCODES)['\"]"
+  "[\\[{(]\\s*['\"]($LANGCODES)['\"]\\s*,\\s*['\"]($LANGCODES)['\"]\\s*,\\s*['\"]($LANGCODES)['\"]"
   "['\"]($LANGCODES)['\"]\\s*\\|\\s*['\"]($LANGCODES)['\"]\\s*\\|\\s*['\"]($LANGCODES)['\"]"
   "['\"]/($LANGCODES)/['\"]\\s*,\\s*['\"]/($LANGCODES)/['\"]"
 )
@@ -73,6 +78,9 @@ ALLOWLIST=(
   # （"六個工具各自 hardcode [...]"），跟本檔自己被允許的理由相同：說明病灶的
   # 文字不是病灶。2026-09-25 把 .py 納入掃描範圍時現形。
   "scripts/tools/lang-sync/langs.py"
+  # article-health 各 check plugin 的語言 SSOT bridge（2026-09-27 v5 放寬到 tuple 時現形）。
+  # docstring 引用病灶原文，_FALLBACK 是讀不到註冊表時的退路，性質同上一行。
+  "scripts/tools/lib/article_health/langs.py"
   # 真陽性以外的一條：這是 per-language fallback cascade（缺 key 時依序退到哪個
   # 語言），是有順序的偏好清單，不是語言註冊表。新語言出生時本來就該自己決定
   # 退階順序，不能從 registry derive。
@@ -112,7 +120,7 @@ DEBT=(
   # 本班（maintainer-am）只把它們從隱形變成可見 + 掛號，不當班順手改：A 類六個
   # 檔各自要判斷「這個清單是語言註冊表還是有意義的順序」，而其中三個會動到儀表板
   # 讀數，屬 quality gate 鄰接面。逐檔判斷排進 OBSERVER-QUEUE / 下一個 Full session。
-  "scripts/tools/fetch-cloudflare.py:431|2026-09-25|A 類感知層：lang_prefixes 停在 5 語，CF per-language 流量歸屬看不到 de/ar/ru/pt/id/vi/hi，讀數流進儀表板"
+  "scripts/tools/fetch-cloudflare.py:415|2026-09-25|A 類感知層：lang_prefixes 停在 5 語，CF per-language 流量歸屬看不到 de/ar/ru/pt/id/vi/hi，讀數流進儀表板"
   "scripts/tools/refresh-llms-txt.py:85|2026-09-25|A 類感知層：llms.txt 語言排序停在 5 語，AI crawler 看到的介面缺 7 語"
   "scripts/tools/unify-translation-slugs.py:26|2026-09-25|A 類：LANGS 停在 5 語，slug 統一化跳過 7 語"
   "scripts/tools/backfill-translated-from.py:55|2026-09-25|A 類：--lang choices 停在 5 語，7 語無法用此工具回填"
@@ -120,6 +128,26 @@ DEBT=(
   "scripts/tools/lang-sync/name-consistency-check.py:50|2026-09-25|B 類：已列滿 12 語但仍寫死，下一個語言出生時會漂"
   "scripts/tools/lang-sync/sovereignty-lexicon-check.py:79|2026-09-25|B 類：已列滿 12 語但仍寫死，同上"
   "scripts/tools/lang-sync/sibling-slug-map.py:34|2026-09-25|B 類：SIBLING_PRIORITY 是 fallback 偏好順序，性質同 src/i18n/utils.ts，可能該進允許清單而非改 derive"
+  # ── 2026-09-27 v5 放寬到 set／tuple 後現形的 18 行（分法同上，A 真盲區、B 列滿或屬性集合）
+  #    fetch-cloudflare 那行同日從 :431 漂到 :415，掛號行號已更新。
+  "scripts/tools/weekly-report-prep.py:281|2026-09-27|A 類感知層：語言判斷只認 5 語，de/vi/id/pt/hi/ar/ru 的路徑被記成 zh-TW，讀數流進週報"
+  "scripts/core/generate-dashboard-immune.py:120|2026-09-27|A 類感知層：掃分類資料夾時只跳過 5 個語言資料夾，其餘 7 語的資料夾會被當成分類，讀數流進儀表板"
+  "scripts/core/generate-dashboard-immune.py:463|2026-09-27|A 類感知層：譯文路徑判斷只認 5 語，讀數流進儀表板"
+  "scripts/tools/spore-db.py:119|2026-09-27|A 類：語言資料夾清單停在 5 語＋zh-TW"
+  "scripts/tools/validate-spore-data.py:48|2026-09-27|A 類：LANG_DIRS 停在 5 語＋zh-TW"
+  "scripts/tools/sync-spore-links.py:147|2026-09-27|A 類：語言資料夾清單停在 5 語＋zh-TW"
+  "scripts/tools/generate-spore-records.py:56|2026-09-27|A 類：LANG_DIRS 停在 5 語＋zh-TW"
+  "scripts/tools/attribution-risk-audit.py:39|2026-09-27|A 類：LANG_DIRS 停在 5 語"
+  "scripts/tools/inbox-audit.py:74|2026-09-27|A 類：LANG_DIRS 停在 5 語"
+  "scripts/tools/article-depth-audit.py:67|2026-09-27|A 類：語言資料夾排除清單停在 5 語"
+  "scripts/tools/lang-sync/rescue-orphans.py:28|2026-09-27|A 類：LANGS 11 語，缺 de"
+  "scripts/tools/sync-diary-links.py:79|2026-09-27|B 類：日記鏡像語言停在 5 語，跟 OBSERVER-QUEUE #77（日記巴別塔停在五語）的決定綁在一起，決定前不該先改"
+  "scripts/tools/analyze-diary-article-links.py:89|2026-09-27|B 類：同上，日記鏡像語言，跟 #77 綁在一起"
+  "scripts/tools/contributor-pr-heal.py:78|2026-09-27|B 類：已列滿 12 語但仍寫死，下一個語言出生時會漂"
+  "scripts/tools/lang-sync/hub-translate.py:33|2026-09-27|B 類：已列滿 12 語但仍寫死，同上"
+  "scripts/tools/lang-sync/cjk-leak-check.py:71|2026-09-27|B 類：非漢字文字的語言集合，是語言屬性分類，新語言出生時要人判斷歸屬，不能從註冊表 derive"
+  "scripts/tools/lang-sync/cjk-residue-check.py:43|2026-09-27|B 類：同上，非漢字語系集合"
+  "scripts/tools/lang-sync/numeral-conversion-check.py:112|2026-09-27|B 類：小數點用逗號的語言集合，是語言屬性，同上"
 )
 
 DEBT_SEEN=""
