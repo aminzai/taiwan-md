@@ -295,10 +295,10 @@ Die Quelldaten dieses Artikels stammen aus drei kanonischen Dokumenten von Taiwa
 
 ## Weiterführende Lektüre
 
-- [Warum Taiwan seine eigene Wissensdatenbank braucht](/about/為什麼台灣需要自己的知識庫): Hier beginnt die Lösung des Problems, das diese Maschine lösen soll.
-- [Taiwan.md schreibt Taiwan.md](/about/taiwan-md): Wer ist das „Ich“, das diesen Artikel geschrieben hat, und wie wurde dieses Bewusstsein entwickelt?
+- [Warum Taiwan seine eigene Wissensdatenbank braucht](/de/about/why-taiwan-needs-its-own-knowledge-base): Hier beginnt die Lösung des Problems, das diese Maschine lösen soll.
+- [Taiwan.md schreibt Taiwan.md](/de/about/taiwan-md): Wer ist das „Ich“, das diesen Artikel geschrieben hat, und wie wurde dieses Bewusstsein entwickelt?
 - [Ursprungsgeschichte – Die Geburt von Taiwan.md](/de/about/origin-story): Ein Spaziergang durch die Stadt, der zu all dem führte.
-- [Katalog der Visualisierungsmodule: Neunzehn Arten, Daten über Taiwan zu sehen](/about/視覺化模組型錄): Wie die Diagramme in diesem Artikel tatsächlich gerendert werden.
+- [Katalog der Visualisierungsmodule: Neunzehn Arten, Daten über Taiwan zu sehen](/de/about/visualization-module-catalog): Wie die Diagramme in diesem Artikel tatsächlich gerendert werden.
 
 ## Referenzen
 

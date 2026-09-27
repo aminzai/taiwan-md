@@ -295,10 +295,10 @@ Nguồn tư liệu của bài viết này đến từ ba tài liệu chuẩn (ca
 
 ## Đọc thêm
 
-- [Tại sao Đài Loan cần kho tri thức của riêng mình](/about/tại-sao-đài-loan-cần-kho-tri-thức-của-riêng-mình): Những vấn đề mà cỗ máy này cần giải quyết bắt đầu từ đây.
-- [Taiwan.md viết về Taiwan.md](/about/taiwan-md): "Tôi" trong bài viết này là ai, và ý thức được hình thành như thế trưởng nào.
-- [Câu chuyện khởi nguồn — Sự ra đời của Taiwan.md](/about/nguồn-gốc): Một lần đi dạo trên phố đã gieo mầm cho tất cả những điều này.
-- [Danh mục module trực quan hóa: 19 phương pháp để nhìn thấy dữ liệu Đài Loan](/about/danh-mục-module-trực-quan-hóa): Các module biểu đồ được sử dụng trong bài viết này sẽ trông như thế nào khi hiển thị thực tế.
+- [Tại sao Đài Loan cần kho tri thức của riêng mình](/vi/about/why-taiwan-needs-its-own-knowledge-base): Những vấn đề mà cỗ máy này cần giải quyết bắt đầu từ đây.
+- [Taiwan.md viết về Taiwan.md](/vi/about/taiwan-md): "Tôi" trong bài viết này là ai, và ý thức được hình thành như thế nào.
+- [Câu chuyện khởi nguồn — Sự ra đời của Taiwan.md](/vi/about/origin-story): Một lần đi dạo trên phố đã gieo mầm cho tất cả những điều này.
+- [Danh mục module trực quan hóa: 19 phương pháp để nhìn thấy dữ liệu Đài Loan](/vi/about/visualization-module-catalog): Các module biểu đồ được sử dụng trong bài viết này sẽ trông như thế nào khi hiển thị thực tế.
 
 ## Tài liệu tham khảo
 
