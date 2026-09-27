@@ -34,6 +34,10 @@ REPO = Path(__file__).resolve().parents[3]
 OUT_JSON = REPO / "public" / "api" / "babel-live.json"
 OUT_HTML = REPO / "reports" / "babel" / "live.html"
 GIT_LOCK = Path("/tmp/taiwan-md-git.lock")
+RUN_BASE = Path("/tmp")  # babel-dispatch 的 run dir：/tmp/babel-unified-<時間>-<pid>
+# 產線驗過的譯文要等批次滿或整輪結束才 commit，慢 worker 一篇就要半小時；
+# 比這個舊、又不在活著的產線批次裡的未 commit 譯文，才算孤兒。
+ORPHAN_AFTER_MIN = 30
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from langs import ALL_TRANSLATION_LANGS  # noqa: E402
@@ -88,6 +92,75 @@ def dispatchers() -> list:
     return live
 
 
+def parse_porcelain(z_out: str) -> list:
+    """`git status --porcelain -z` → [(XY, path)]；改名／複製那一筆後面多跟一個舊路徑，跳過。"""
+    items, parts, i = [], z_out.split("\0"), 0
+    while i < len(parts):
+        e = parts[i]
+        i += 1
+        if len(e) < 4:
+            continue
+        xy, path = e[:2], e[3:]
+        if xy[0] in "RC":
+            i += 1
+        items.append((xy, path))
+    return items
+
+
+def live_run_outputs(disp: list) -> set:
+    """活著的 unified dispatcher 本輪驗過（report.jsonl ok）、還在等 commit 批次的譯文。"""
+    pending = set()
+    for x in disp:
+        if x.get("kind") != "unified":
+            continue
+        for rep in RUN_BASE.glob(f"babel-unified-*-{x['pid']}/report.jsonl"):
+            for line in rep.read_text(encoding="utf-8").splitlines():
+                try:
+                    r = json.loads(line)
+                except ValueError:
+                    continue
+                if r.get("ok") and r.get("trans"):
+                    pending.add(r["trans"])
+    return pending
+
+
+def classify_uncommitted(items: list, pending: set, age_min, threshold: int = ORPHAN_AFTER_MIN) -> dict:
+    """未 commit 的譯文 .md 分兩種：活產線批次裡的（或剛寫好的）＝pending；其餘＝孤兒。"""
+    orphans, n_pending = [], 0
+    for xy, path in items:
+        if not path.endswith(".md"):
+            continue
+        age = age_min(path)
+        if path in pending or (age is not None and age < threshold):
+            n_pending += 1
+        else:
+            orphans.append({"path": path, "xy": xy, "age_min": age})
+    return {"orphans": orphans, "pending": n_pending}
+
+
+def uncommitted_translations(disp: list) -> dict:
+    """工作樹有、HEAD 沒有（或內容不同）的譯文。
+
+    為什麼要數（2026-09-27 巴別塔渦流第十四輪）：status.py 讀的是工作樹，所以只在工作樹
+    的譯文在 gap 裡算 fresh。前一晚 19:13 重啟 dispatcher 時，舊那輪已驗過、還沒輪到 commit
+    批次的三篇（ar〈文化內容策進院〉、de〈大龍峒〉〈高雄市〉）就此沒人認領；新一輪看 status 是
+    fresh，不會再碰。十二語 gap=0 宣告了兩次，這三對在 origin 上其實一直是 missing，連 commit
+    進去的 _translation-status.json 也寫 fresh。孤兒不自動 commit：它們是舊閘門時代驗的，
+    今天三篇全卡幣別閘門，要重驗或重譯。
+    """
+    now = datetime.now().timestamp()
+    paths = [f"knowledge/{c}/" for c in ALL_TRANSLATION_LANGS]
+    out = run(["git", "status", "--porcelain", "-z", "--untracked-files=all", "--", *paths]).stdout
+
+    def age_min(p):
+        try:
+            return int((now - (REPO / p).stat().st_mtime) // 60)
+        except OSError:
+            return None  # 刪除的檔：工作樹沒有了，照孤兒列（HEAD 上還在）
+
+    return classify_uncommitted(parse_porcelain(out), live_run_outputs(disp), age_min)
+
+
 def rate_window(rows: list, hours: float):
     """近 N 小時的 fresh 淨增（跨全部語言）。找 ≥N 小時前最近的一列當基準。"""
     if len(rows) < 2:
@@ -133,6 +206,7 @@ def build_payload(rows: list) -> dict:
     eta_days = None
     if r1 and r1["per_hour"] > 0:
         eta_days = round(gap / r1["per_hour"] / 24, 1)
+    disp = dispatchers()
     return {
         "generated_at": datetime.now().astimezone().isoformat(timespec="seconds"),
         "producer": "scripts/tools/lang-sync/babel-pulse.py (launchd, 15min)",
@@ -143,7 +217,9 @@ def build_payload(rows: list) -> dict:
         "gap_delta": (gap - gap_prev) if gap_prev is not None else None,
         "rate_1h": r1, "rate_24h": r24, "eta_days": eta_days,
         "nodes": latest.get("nodes", {}),
-        "dispatchers": dispatchers(),
+        "dispatchers": disp,
+        # gap_total 是工作樹口徑；orphans 是工作樹有、origin 沒有、也沒有產線在管的譯文
+        "uncommitted": uncommitted_translations(disp),
         "history": [
             {"ts": r["ts"],
              "fresh_total": sum(v["fresh"] for v in r["langs"].values()),
@@ -196,6 +272,12 @@ def render_html(d: dict) -> str:
     gdtxt = ("▼" + str(abs(gd)) if gd and gd < 0 else
              ("▲" + str(gd) if gd else "＝0")) if gd is not None else "—"
     gdcol = "#16a34a" if gd and gd < 0 else ("#dc2626" if gd and gd > 0 else "#9ca3af")
+    unc = d.get("uncommitted") or {"orphans": [], "pending": 0}
+    n_orph = len(unc["orphans"])
+    orph_col = "#dc2626" if n_orph else "var(--mut)"
+    orph_list = "".join(
+        f'<span class="chip warn">{o["xy"].strip() or "?"} {o["path"]} · {o["age_min"]} 分</span>'
+        for o in unc["orphans"][:20])
     return f"""<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>巴別塔脈搏 — Taiwan.md</title>
@@ -231,7 +313,9 @@ svg{{width:100%;height:70px;display:block}}
 <div class="kpi"><u>近 1 小時淨增</u><strong>+{r1.get("delta","—")}</strong><em>{r1.get("per_hour","—")} 篇／小時</em></div>
 <div class="kpi"><u>粗估到 100%</u><strong>{d.get("eta_days") or "—"}</strong><em>天（依當前速率）</em></div>
 <div class="kpi"><u>語言數</u><strong>{len(d["langs"])}</strong><em>zh 母本 {d["total_zh"]} 篇</em></div>
+<div class="kpi"><u>只在工作樹的譯文（孤兒）</u><strong style="color:{orph_col}">{n_orph}</strong><em>缺口不含這些；另 {unc["pending"]} 篇在產線批次中</em></div>
 </div>
+{orph_list}
 <svg viewBox="0 0 100 100" preserveAspectRatio="none"><polyline fill="none"
 stroke="#2a78d6" stroke-width="0.8" vector-effect="non-scaling-stroke" points="{pts}"/></svg>
 <div class="sub" style="margin-top:2px">總缺口趨勢（最近 {len(hist)} 跳，越低越好）</div>
@@ -240,6 +324,15 @@ stroke="#2a78d6" stroke-width="0.8" vector-effect="non-scaling-stroke" points="{
 <h2>產線</h2>{disp}
 <h2>節點／worker（ok/總，通過率）</h2>{"".join(nodes)}
 </body></html>"""
+
+
+def snapshot_paths(repo: Path = REPO) -> list:
+    """整點快照要落地的儀器產物。進度檔按月分檔，用實際存在的檔名，不寫死月份
+    （2026-07 寫死的 progress-2026-07.* 讓八、九月的時間序列從沒被這支 commit 過）。"""
+    babel = repo / "reports" / "babel"
+    progress = sorted(p.relative_to(repo).as_posix() for pat in ("progress-*.jsonl", "progress-log-*.md")
+                      for p in babel.glob(pat))
+    return ["reports/babel/live.html", "public/api/babel-live.json", *progress]
 
 
 def git_commit(log) -> bool:
@@ -256,24 +349,25 @@ def git_commit(log) -> bool:
             import time
             time.sleep(1)
     try:
-        # 快照只有這四個儀器產物；精確列檔避免把 fail-memo 或平行 writer
+        # 快照只有這幾個儀器產物；精確列檔避免把 fail-memo 或平行 writer
         # 放在 reports/babel/ 的其他產物一起掃進 commit。
-        run(["git", "add",
-             "reports/babel/live.html",
-             "reports/babel/progress-2026-07.jsonl",
-             "reports/babel/progress-log-2026-07.md",
-             "public/api/babel-live.json"])
-        if run(["git", "diff", "--cached", "--quiet"]).returncode == 0:
+        mine = snapshot_paths()
+        run(["git", "add", "--", *mine])
+        if run(["git", "diff", "--cached", "--quiet", "--", *mine]).returncode == 0:
             return True
         msg = "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）"
         # 產線運轉時 lint-staged 會 stash 全工作樹；2026-07-28 實撞三條
         # dispatcher 同時在 status refresh 階段退出，脈搏隨即從 3 變 0。
         # 這四檔是剛由本函式生成、且上面已精確 add 的儀器產物，不需要文章
         # gate；跳過 pre-commit 是為了不讓「記錄心跳」反過來中斷心跳。
-        r = run(["git", "commit", "--no-verify", "-m", msg])
+        # 只 commit 自己的檔（pathspec）：index 裡可能躺著 dispatcher 失敗批次留下的暫存，
+        # 不該被脈搏的快照 commit 順手帶走。
+        r = run(["git", "commit", "--no-verify", "-m", msg, "--", *mine])
         if r.returncode != 0:
             log("commit 失敗（不影響下一跳）：" + (r.stdout + r.stderr)[-500:])
-            run(["git", "reset"])
+            # 只退自己的暫存。整個 index reset 會把別人暫存的新譯文退成未追蹤，
+            # status 照算 fresh、再也沒人 commit——正是上面 uncommitted_translations 抓的孤兒。
+            run(["git", "reset", "-q", "--", *mine])
             return False
         return True
     finally:
@@ -316,9 +410,13 @@ def main():
     OUT_HTML.write_text(render_html(payload), encoding="utf-8")
 
     r1 = payload.get("rate_1h") or {}
+    unc = payload["uncommitted"]
     log(f"pulse gap={payload['gap_total']} Δ={payload.get('gap_delta')} "
         f"rate_1h={r1.get('per_hour')}/h 產線={len(payload['dispatchers'])} "
+        f"孤兒={len(unc['orphans'])} 批次中={unc['pending']} "
         f"→ {OUT_JSON.name} + {OUT_HTML.name}")
+    for o in unc["orphans"]:
+        log(f"  孤兒 {o['xy'].strip() or '?'} {o['path']}（{o['age_min']} 分鐘未 commit，不在活產線批次）")
 
     # 整點那一跳落地（15 分鐘一 commit 會洗版 git log）
     should = args.force_commit or (not args.no_commit and datetime.now().minute < 15)

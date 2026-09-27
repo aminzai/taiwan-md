@@ -3,8 +3,8 @@ title: 'BABEL-VORTEX-LOOP'
 description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.55)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.64'
-last_updated: 2026-09-26
+current_version: 'v1.65'
+last_updated: 2026-09-27
 last_session: '2026-09-26-100333-babel-vortex（翻譯率 100% 模式：推送常駐、付費 Haiku、閘門家族、委派 worktree 路徑陷阱與核准視窗、腳註修復器的語言盲）'
 sister_docs:
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
@@ -45,6 +45,11 @@ ScheduleWakeup 的 prompt 固定為三部分，**禁止複寫本檔內容**：
    ＋ `git status -sb` 確認在 main 分支
 2. **生產**：各 worker 近 45 分實際 report.jsonl 記錄數——零記錄的 worker 去 curl 它的 endpoint（慢 worker 如 laguna 300s+/篇屬正常，先查再判）
 3. **第二訊號源**：fleet registry 的機器狀態交叉比對（讀壞先重讀一次；自癒層在 fleetlib）
+
+**落地**（v1.65）：gap 是工作樹口徑——status.py 讀工作樹，沒 commit 的譯文照算 fresh。
+`babel-pulse` 的 `孤兒=N` 列出工作樹有、HEAD 沒有、也不在活產線批次裡的譯文；**孤兒 > 0 時
+gap=0 不成立**。孤兒先跑全套現行閘門，過了照一般落地；不過就認領重譯，不要直接 commit
+（它們是舊閘門時代驗的）。
 
 死掉的產線看 log 尾：`🛑 空轉自動收工` → 直接重啟；崩潰 → 查根因再重啟。
 重啟指令在各 `/tmp/babel-*.log` 開頭；產線編組現況與原則見
@@ -206,6 +211,7 @@ stale 清償實測：老五語（en/ja/ko/es/fr）的語意無關 bump **全軍�
 ## 收官條件
 
 十一語 stale=0 missing=0 且 QA gate 全綠 → 跑 /twmd-finale 宣告巴別塔 100%。
+stale／missing 要是 origin 上的數字：babel-pulse `孤兒=0` 才算（v1.65）。
 
 ### 第十三家族是檢查器的病，不是譯文的病（2026-07-27 追查）
 
@@ -282,6 +288,16 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 證據（重試觸發次數），不是相關性。
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
+
+- v1.65（2026-09-27 下午第十四輪）：**「缺口歸零」宣告了兩輪，origin 上其實還缺三對**。前一晚 19:13 重啟
+  dispatcher 時，舊那輪 18:12–18:45 已驗過、還沒輪到 commit 批次的三篇（ar〈文化內容策進院〉、de〈大龍峒〉
+  〈高雄市〉）變成未追蹤檔留在工作樹：新一輪看 status 是 fresh 不再碰，status.py 讀工作樹也算 fresh，連 commit
+  進去的 `_translation-status.json` 都寫 fresh，所以 12:41 的 gap=0 與第十一至十三輪的「維持 0」都少算了這三對。
+  用今天的閘門重驗三篇全卡幣別（裸 yuan 15／3／1 處）、章節數各差一，交給 Sonnet 重譯（第十二波）。進化：
+  `babel-pulse` 數孤兒（工作樹有、HEAD 沒有、不在活產線批次裡、超過 30 分鐘的譯文），看板與 log 都列；
+  同一支的整點 commit 原本寫死 `progress-2026-07.*`、失敗時整個 index `git reset`（會把別人暫存的新譯文退成
+  未追蹤，正是孤兒的另一個來源），改成實際存在的月份檔與只退自己的暫存。主工作樹 index 另有 14:30 留下的
+  未格式化暫存（minified 報表、en〈文章如何誕生〉的 `''` 引號），工作樹與 HEAD 相同，已退暫存。
 
 - v1.64（2026-09-27 下午第十三輪）：**佇列清空之後，常駐產線會空轉重生**。dispatcher 是用 `launchctl submit`
   掛上去的（com.taiwanmd.babel.nightly），submitted job 一律 KeepAlive：佇列空了它照樣啟動、印 DONE、退出，
