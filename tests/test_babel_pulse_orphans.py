@@ -165,3 +165,23 @@ def test_translation_that_dropped_every_source_is_counted(tmp_path, monkeypatch)
     monkeypatch.setattr(MODULE, "REPO", tmp_path)
     r = MODULE.content_gaps()["no_sources"]
     assert r["count"] == 1 and r["sample"] == [{"path": "knowledge/en/About/dropped.md", "zh_urls": 6}]
+
+
+def test_translation_whose_urls_differ_from_zh_is_counted_once(tmp_path, monkeypatch):
+    # 2026-09-28 實例：es〈滷肉飯〉最後一條腳註斷在 youtube.com/watch，另有一條 zh 沒有的維基連結
+    zh_dir, en_dir = tmp_path / "knowledge" / "Food", tmp_path / "knowledge" / "en" / "Food"
+    zh_dir.mkdir(parents=True)
+    en_dir.mkdir(parents=True)
+    links = "".join(f"- https://example.gov.tw/{i}\n" for i in range(6))
+    (zh_dir / "x.md").write_text("---\ntitle: x\n---\n## 一\n\n內容\n\n" + links + "- https://www.youtube.com/watch?v=abc\n", encoding="utf-8")
+    ok = "---\ntranslatedFrom: 'Food/x.md'\n---\n## One\n\ntext\n\n" + links + "- https://www.youtube.com/watch?v=abc\n"
+    (en_dir / "ok.md").write_text(ok, encoding="utf-8")
+    (en_dir / "cut.md").write_text(ok.replace("watch?v=abc", "watch"), encoding="utf-8")
+    (en_dir / "added.md").write_text(ok + "- https://en.wikipedia.org/wiki/Noodles\n", encoding="utf-8")
+    (en_dir / "dropped.md").write_text("---\ntranslatedFrom: 'Food/x.md'\n---\n## One\n\ntext\n", encoding="utf-8")
+    monkeypatch.setattr(MODULE, "REPO", tmp_path)
+    r = MODULE.content_gaps()
+    assert r["no_sources"]["count"] == 1  # 全部丟光的算無出處，不重複算進網址不符
+    got = {s["path"]: (s["missing"], s["extra"]) for s in r["url_mismatch"]["sample"]}
+    assert got == {"knowledge/en/Food/cut.md": (1, 1), "knowledge/en/Food/added.md": (0, 1)}
+    assert r["url_mismatch"]["count"] == 2

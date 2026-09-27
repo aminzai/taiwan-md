@@ -233,17 +233,34 @@ H2_RE = re.compile(r"^## ", re.M)
 
 
 URL_RE = re.compile(r"https?://")
+_VERIFY = None
+
+
+def _verify_module():
+    """verify-translation.py 的 extract_urls／parse_fm——網址比對用閘門自己那把尺，不另寫 regex。"""
+    global _VERIFY
+    if _VERIFY is None:
+        spec = importlib.util.spec_from_file_location(
+            "verify_translation", Path(__file__).with_name("verify-translation.py"))
+        _VERIFY = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(_VERIFY)
+    return _VERIFY
 
 
 def content_gaps(min_h2: int = 4, min_urls: int = 5) -> dict:
-    """status 算 fresh、內容卻缺一大塊的譯文，兩族一次掃：
+    """status 算 fresh、內容卻缺一大塊的譯文，三族一次掃：
 
     截斷：## 章節不到 zh 的六成、篇幅也不到該語言正常比例的七成（2026-09-27 渦流第二十一輪：es〈長榮海運〉
     zh 八個章節只譯到第二個、ja〈楊勇緯〉十五個只有五個，版本標記照樣是新的；verify 的章節數與篇幅比對只是 WARN）。
     無出處：zh 引了 ≥5 個網址、譯文一個都沒有（第二十二輪：fr〈台灣官方網站資源〉zh 53 個網址、法文版 0 個，
     參考資料整段不見；站上的文章靠出處立足，沒有出處的譯文等於少了一半）。
+    網址不符：網址組合跟 zh 不一樣——少了、多了或被改了，也就是 verify 第 11 檢查會擋的譯文（第二十五輪：
+    es〈滷肉飯〉最後一條腳註斷在 youtube.com/watch、劉山東牛肉麵被連到「上海牛肉麵」的維基頁；全庫 648 篇，少 1,315 個網址、多出或被改的 817 個）。
+    這道檢查 07-29 才變成完全比對，之前落地的是存量；之後的新譯文都要過它，所以這個數字只該往下走——
+    往上走代表有一條產線繞過了閘門。無出處的篇另外算，不重複計入。
     「正常比例」取該語言全部譯文對 zh 篇幅比的中位數，不寫死每個語言的數字，新語言出生也適用。
     """
+    vt = _verify_module()
     pairs = collections.defaultdict(list)
     for lang in ALL_TRANSLATION_LANGS:
         for p in (REPO / "knowledge" / lang).rglob("*.md"):
@@ -256,21 +273,30 @@ def content_gaps(min_h2: int = 4, min_urls: int = 5) -> dict:
                 continue
             z = zp.read_text(encoding="utf-8", errors="replace")
             zb, tb = z.split("\n---", 1)[-1], t.split("\n---", 1)[-1]
+            zc = collections.Counter(vt.extract_urls(vt.parse_fm(z)[1]))
+            tc = collections.Counter(vt.extract_urls(vt.parse_fm(t)[1]))
             pairs[lang].append((p.relative_to(REPO).as_posix(), len(H2_RE.findall(z)), len(H2_RE.findall(t)),
-                                len(tb) / max(1, len(zb)), len(URL_RE.findall(zb)), len(URL_RE.findall(tb))))
-    trunc, nosrc = [], []
-    trunc_by, nosrc_by = {}, {}
+                                len(tb) / max(1, len(zb)), len(URL_RE.findall(zb)), len(URL_RE.findall(tb)),
+                                sum((zc - tc).values()), sum((tc - zc).values())))
+    trunc, nosrc, urlx = [], [], []
+    trunc_by, nosrc_by, urlx_by = {}, {}, {}
     for lang, rows in pairs.items():
         med = statistics.median(r[3] for r in rows)
-        for rel, zh2, tr2, ratio, zu, tu in rows:
+        for rel, zh2, tr2, ratio, zu, tu, u_missing, u_extra in rows:
             if zh2 >= min_h2 and tr2 <= 0.6 * zh2 and ratio / med < 0.7:
                 trunc.append({"path": rel, "h2": f"{zh2}→{tr2}", "length": round(ratio / med, 2)})
                 trunc_by[lang] = trunc_by.get(lang, 0) + 1
             if zu >= min_urls and tu == 0:
                 nosrc.append({"path": rel, "zh_urls": zu})
                 nosrc_by[lang] = nosrc_by.get(lang, 0) + 1
+            elif u_missing or u_extra:
+                urlx.append({"path": rel, "missing": u_missing, "extra": u_extra})
+                urlx_by[lang] = urlx_by.get(lang, 0) + 1
     return {"truncated": {"count": len(trunc), "by_lang": trunc_by, "sample": trunc[:12]},
-            "no_sources": {"count": len(nosrc), "by_lang": nosrc_by, "sample": nosrc[:12]}}
+            "no_sources": {"count": len(nosrc), "by_lang": nosrc_by, "sample": nosrc[:12]},
+            "url_mismatch": {"count": len(urlx), "by_lang": urlx_by,
+                             "missing": sum(r["missing"] for r in urlx), "extra": sum(r["extra"] for r in urlx),
+                             "sample": urlx[:12]}}
 
 
 def truncated_translations(min_h2: int = 4) -> dict:
@@ -407,6 +433,8 @@ def render_html(d: dict) -> str:
     tr_col = "#dc2626" if tr_n else "var(--mut)"
     ns_n = (d.get("no_sources") or {}).get("count", 0)
     ns_col = "#dc2626" if ns_n else "var(--mut)"
+    um = d.get("url_mismatch") or {"count": 0, "missing": 0, "extra": 0}
+    um_col = "#dc2626" if um["count"] else "var(--mut)"
     return f"""<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>巴別塔脈搏 — Taiwan.md</title>
@@ -445,6 +473,7 @@ svg{{width:100%;height:70px;display:block}}
 <div class="kpi"><u>只在工作樹的譯文（孤兒）</u><strong style="color:{orph_col}">{n_orph}</strong><em>缺口不含這些；另 {unc["pending"]} 篇在產線批次中</em></div>
 <div class="kpi"><u>算 fresh 但沒有出處</u><strong style="color:{ns_col}">{ns_n}</strong><em>zh 引了 ≥5 個網址、譯文 0 個</em></div>
 <div class="kpi"><u>算 fresh 但只譯了前段</u><strong style="color:{tr_col}">{tr_n}</strong><em>章節不到 zh 六成、篇幅不到七成</em></div>
+<div class="kpi"><u>算 fresh 但網址跟 zh 不一樣</u><strong style="color:{um_col}">{um["count"]}</strong><em>verify 網址比對會擋；少 {um["missing"]}、多或改 {um["extra"]}</em></div>
 <div class="kpi"><u>算 fresh 但不是目標語言</u><strong style="color:{lm_col}">{lm["total"]}</strong><em>整篇錯語 {lm["wrong_language"]}／尾段漂移 {lm["foreign_script"]}</em></div>
 </div>
 {orph_list}
@@ -549,6 +578,7 @@ def main():
         f"語言不符={payload['language_mismatch']['total']}"
         f"（整篇錯語 {payload['language_mismatch']['wrong_language']}／尾段漂移 {payload['language_mismatch']['foreign_script']}）"
         f" 截斷={payload['truncated']['count']} 無出處={payload['no_sources']['count']}"
+        f" 網址不符={payload['url_mismatch']['count']}"
         f" → {OUT_JSON.name} + {OUT_HTML.name}")
     for o in unc["orphans"]:
         log(f"  孤兒 {o['xy'].strip() or '?'} {o['path']}（{o['age_min']} 分鐘未 commit，不在活產線批次）")
