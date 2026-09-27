@@ -1,20 +1,20 @@
 ---
-title: 'Unicharm: Una empresa taiwanesa'
+title: 'Empresas de Taiwán: Uni-President'
 description: 'En 1967, Gao Qingyuan, de 38 años, abrió una pequeña fábrica de harina y piensos en Tainan con 82 empleados. Más de medio siglo después, esta compañía se ha convertido en un imperio minorista detrás de 7,248 tiendas 7-ELEVEN, Starbucks, Cosisme y Carrefour: tus huevos de té para desayunar, los fideos con carne durante la noche de tifón y el pago de servicios públicos en una tienda de conveniencia, gran parte está empacado por ellos. La historia en miniatura de Taiwán es cómo una fábrica de harina de Tainan se convirtió en un contenedor que alberga el día de los taiwaneses, una historia que caminas todos los días pero rara vez lees.'
 date: 2026-07-13
 category: 'Economy'
 tags:
   [
-    'Unicharm',
-    'Grupo Unicharm',
+    'Uni-President',
+    'Grupo Uni-President',
     '7-ELEVEN',
-    'Tienda de conveniencia Unicharm',
+    'President Chain Store',
     'Gao Qingyuan',
     'Luo Zhixian',
     'Xu Chongren',
     'Tienda de conveniencia',
     'Carrefour',
-    'Fideos Unicharm',
+    'Fideos Uni-President',
   ]
 subcategory: '企業列傳'
 author: 'Taiwan.md'
