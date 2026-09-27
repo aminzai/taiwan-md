@@ -1,187 +1,362 @@
 ---
-title: 'Environmental Awakening and the Net‑Zero Transition'
-description: 'How Taiwan moved from pollution‑first industrialization to a civic‑driven sustainability model—shaped by grassroots activism, circular economy policy, corporate ESG, and a 2050 net‑zero roadmap'
+title: 'Environmental Awakening and Net-Zero Transition'
+description: 'From Polluting Island to Sustainability Pioneer: How Taiwan Transformed Through 40 Years of Environmental Activism'
 date: 2026-03-21
+category: 'Society'
 tags:
   [
     'environmentalism',
     'sustainability',
-    'net-zero',
+    'net-zero emissions',
     'circular economy',
-    'ESG',
-    'climate change',
+    'climate action',
   ]
+subcategory: '社會運動'
 author: 'Taiwan.md'
-difficulty: 'intermediate'
-readingTime: 8
 featured: true
-category: 'Society'
 lastVerified: 2026-03-21
+lastHumanReview: true
+readingTime: 8
 translatedFrom: 'Society/環保與永續發展.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:58130043015789fc'
 sourceBodyHash: 'sha256:4ec983b4e284ca15'
-translatedAt: '2026-04-14T12:25:09+08:00'
-lastHumanReview: true
+translatedAt: '2026-09-28T02:52:33+08:00'
 ---
 
-# Environmental Awakening and the Net‑Zero Transition
+# Environmental Awakening and Net-Zero Transition: Taiwan's Green Awakening
 
-Taiwan’s environmental story is the arc of a small, export‑driven island learning—sometimes painfully—how to keep prosperity without sacrificing air, water, and public health. From the 1960s–80s era of “pollute first, clean later,” Taiwan moved into a civic awakening in the late 1980s and 1990s, then into a new phase where sustainability is no longer only a protest slogan but also an industrial strategy, a policy mandate, and a cultural habit.
+> **30-Second Overview:** Taiwan transformed from a "pollution-first, cleanup-later" industrial model in the 1980s to announcing a "2050 net-zero emissions" sustainability commitment in 2022. Key turning points include the 1986 Lukang anti-DuPont movement, the 1998 waste classification system, and the energy transition following the 2011 Fukushima disaster. Today Taiwan achieves a 60.1% resource recovery rate, significantly improved air quality, and over 200 enterprises committed to science-based carbon reduction targets, advancing toward becoming an Asian sustainability exemplar.
 
-For international readers, this is not simply a technical story about emissions targets. It’s a portrait of how democracy, local activism, and industrial transformation can co‑evolve. Environmentalism in Taiwan is inseparable from its democratization: public protests shaped energy policy, waste policy reshaped everyday routines, and corporate ESG initiatives now connect the island to global supply‑chain expectations.
+An island's environmental awakening often begins with crisis. In the 1980s, Taiwan paid a heavy environmental price for its economic miracle: the Love River turned black, the air turned gray, and garbage piled everywhere. But crisis is also transformation. In just 40 years, Taiwan evolved from the "Smokestack Island" to a "sustainability pioneer"—a transition that not only reshaped Taiwan's development model but provided the world with precious lessons in sustainable development.
 
-## 30‑Second Overview
+## Awakening Era: Taiwan's Environmental Revolution Begins in Lukang
 
-Taiwan’s environmental movement gained force in the 1980s as citizens resisted polluting factories and nuclear power expansion. Landmark episodes include the Lukang (鹿港) anti‑DuPont movement, the long‑running anti‑nuclear debate around the Fourth Nuclear Power Plant (核四), and the nationally influential “pay‑as‑you‑throw” waste system. In the 2010s–2020s, Taiwan accelerated circular‑economy policy and corporate ESG practices. In 2022, the government announced a 2050 net‑zero target with a 12‑strategy transition plan.
+### 1986: Anti-DuPont Movement in Lukang—the Birth Year of Taiwan's Environmental Movement
 
-**Keywords:** environmental activism, net‑zero, circular economy, ESG, anti‑nuclear movement, waste sorting, climate adaptation
+**March 1986**: When the U.S. DuPont Corporation planned to establish a titanium dioxide factory in Lukang, Changhua, nobody expected this would become the starting point of Taiwan's environmental movement.
 
----
+**Event Details:**
 
-## The Price of Industrialization (1960s–1980s)
+- Planned investment: US$400 million
+- Reason for opposition: The factory would discharge waste acid, threatening aquaculture fisheries
+- Protest outcome: DuPont ultimately abandoned its plans to establish the plant
 
-Taiwan’s economic miracle was powered by heavy industry and manufacturing. That success came with visible costs:
+This was Taiwan's first successful environmental protest. The fishermen and residents of Lukang proved through direct action that economic development cannot come at the cost of the environment. _Human Magazine_ recorded the classic slogan: "We want to live, not merely survive!"
 
-- **Water pollution:** Rivers like Houjin River (後勁溪) and Love River (愛河) became symbols of industrial runoff.
-- **Air pollution:** Dense industrial zones produced chronic smog; southern cities developed a reputation for heavy pollution.
-- **Soil contamination:** Heavy metals and chemical by‑products affected farmland and public health.
-- **Urban noise and traffic:** Rapid urbanization brought environmental stress beyond factories.
+### 1988: Environmental Protection Administration Established—the Beginning of Institutional Development
 
-This was an era when environmental protection was framed as a drag on growth. By the mid‑1980s, however, the social costs were too visible to ignore.
+Just two years after the anti-DuPont event, the Environmental Protection Administration was officially established on **August 22, 1988**, marking Taiwan's entry into the era of systematic environmental governance.
 
-## Civic Awakening and the Birth of Environmental Politics (1980s–1990s)
+**First Director:** Jan Yuh-shyn
+**Core Tasks:** Air quality management, water pollution prevention, waste disposal, environmental impact assessment
 
-Taiwan’s democratization opened space for public activism. Environmental protests became a legitimate form of citizen action—often intertwined with demands for transparency and local rights.
+The establishment of the EPA symbolized a fundamental shift in government attitude: from "economy first" to "environmental protection and development in parallel."
 
-**Key milestones:**
+## Air Revolution: From Smokestack Island to Fresh Taiwan
 
-- **Lukang anti‑DuPont movement (1986):** Residents successfully resisted a petrochemical project; it is widely regarded as Taiwan’s first major environmental victory.
-- **Lee Chang Yung chemical pollution事件 (新竹李長榮化工污染事件, 1987):** A high‑profile incident that galvanized public anger.
-- **Environmental Protection Administration established (1988):** Institutionalized environmental policy in government.
-- **Fifth Naphtha Cracker protests (反五輕運動, 1989):** Local resistance to a major petrochemical project in Kaohsiung’s Houjin area.
+### 1990s: PM2.5 Hell
 
-These campaigns did more than stop projects. They created a new public expectation: environmental impact and community consent matter.
+Taiwan in the 1990s, especially central and southern regions, experienced severe air pollution:
 
-## The Anti‑Nuclear Movement: A Democratic Stress Test
+**Kaohsiung's Forest of Smokestacks:**
 
-Taiwan’s anti‑nuclear movement is emblematic of how environmental debates became societal debates. The Fourth Nuclear Power Plant (核四, “Nuclear‑4”) became a national symbol for safety, governance, and the legitimacy of large‑scale projects.
+- Heavy industrial clusters including CPC Dalin Refinery, Taiwan Power Company Hsinta Power Plant, and China Steel
+- PM2.5 annual average concentration reached 35-40 μg/m³ (WHO standard: 15 μg/m³)
+- Dubbed the "Smokestack Island" by international media
 
-**Why it mattered:**
+**Taichung Coal Power Dilemma:**
 
-- Nuclear power became a focal point where energy security, earthquake risk, and democratic process collided.
-- After Fukushima (2011), public opposition surged.
-- In 2016, the government pledged a “nuclear‑free homeland” (非核家園) by 2025.
+- Taiwan Power Company Taichung Power Plant (commercial operation began 1990)
+- Installed capacity of 5.5GW, the world's second-largest coal-fired power plant
+- Became the greatest source of air pollution in central Taiwan
 
-The movement reshaped the energy conversation: renewable energy, grid resilience, and public accountability became central questions—not peripheral ones.
+### Results of Improvement: The Numbers Speak
 
-## From “Trash Wars” to a Circular Society
+After 30 years of effort, Taiwan's air quality improved substantially:
 
-In the 1990s, Taiwan’s garbage crisis was severe: landfill shortages, public resistance to incinerators, and rapidly rising waste volumes. The response became a defining policy success.
+**PM2.5 Concentration Changes (National Average):**
 
-**Signature reforms:**
+- **2015:** 20.0 μg/m³
+- **2020:** 14.3 μg/m³
+- **2023:** 11.9 μg/m³
+- **Improvement Rate:** 40.5% reduction over 5 years
 
-- **Pay‑as‑you‑throw waste bags (隨袋徵收):** Households must purchase official trash bags, incentivizing reduction.
-- **Three‑stream sorting:** general waste, recycling, and food waste.
-- **Scheduled collection points:** the ritual of “meeting the garbage truck” (垃圾車音樂) reshaped daily rhythms in cities.
+**Concrete Improvement Measures:**
 
-**Outcome:** Taiwan now reports recycling rates above 50%, and food‑waste recovery among the highest in Asia. International delegations regularly study the system.
+1. **Industrial Transition:** High-pollution industries relocated or upgraded
+2. **Fuel Conversion:** Coal power plants shifted to natural gas
+3. **Traffic Improvement:** Promotion of electric vehicles, phase-out of aging motorcycles
+4. **Regulatory Strengthening:** Major Air Pollution Control Act amendments in 2018 with increased penalties
 
-## The Corporate Shift: ESG as Industrial Strategy
+## Garbage Revolution: From Landfill Crisis to Circular Exemplar
 
-Taiwan’s export economy is tightly tied to global supply chains. As ESG (Environmental, Social, Governance) expectations rose internationally, Taiwan’s corporations adapted quickly.
+### 1990s: Garbage Wars
 
-**Why ESG gained traction:**
+Taiwan faced a severe "garbage crisis" in the 1990s:
 
-- Global investors and clients demand ESG compliance.
-- Regulators require sustainability reporting for listed companies.
-- Carbon footprints affect export competitiveness.
+**Scale of the Problem:**
 
-**Case study: TSMC (台積電)**
+- Daily waste volume: 24,000 metric tons
+- Waste disposal rate: only 85%
+- Improper dumping was a serious problem
 
-Taiwan’s flagship semiconductor company has become a model of industrial sustainability:
+**Turning Point: 1998—The Birth Year of Waste Classification**
 
-- **Net‑zero by 2050** commitment.
-- **100% renewable energy for production by 2030** (ambitious in a grid still transitioning).
-- **Near‑zero liquid discharge** and advanced water recycling.
-- **Supply‑chain ESG standards** pushed downstream.
+**Implemented Policies:**
 
-Other enterprises—from Foxconn (鴻海) to Delta Electronics (台達電)—have made similar commitments, reframing “green transition” as a core business risk and opportunity.
+1. **Pay-Per-Bag Collection:** Designated garbage bag fee system
+2. **Three-Stream Classification:** General waste, recyclables, and food waste
+3. **Scheduled Collection Points:** Changed public waste disposal habits
 
-## The Circular Economy: Taiwan’s Resource‑Scarcity Advantage
+### Today's Achievement: World-Class Recycling Model
 
-Taiwan has limited natural resources. This scarcity has produced a practical, engineering‑led approach to circularity.
+**2023 Resource Recovery Report Card:**
 
-**Examples:**
+- **Resource Recovery Rate:** 60.1% (top three globally)
+- **Food Waste Recovery Rate:** 89.7%
+- **Recycling Categories:** 29 types, 105 items
 
-- **Industrial by‑product reuse:** steel slag into cement materials; petrochemical by‑products reused in manufacturing.
-- **Agricultural waste energy:** rice husks and livestock waste repurposed for bioenergy.
-- **Marine waste recovery:** abandoned fishing nets and plastic waste turned into new materials.
+**International Recognition:**
 
-Government initiatives, such as the 2018 Circular Economy Promotion Plan, frame circularity not as a lifestyle trend but as a national competitiveness strategy.
+- United Nations Environment Programme (UNEP) praised Taiwan as a "circular economy exemplar"
+- European Union listed Taiwan as a "best practice case"
+- Over 30 countries sent delegations to Taiwan to learn the waste classification system
 
-## The 2050 Net‑Zero Roadmap
+## Energy Transition: From Anti-Nuclear to Clean Energy
 
-In 2022, Taiwan announced its 2050 net‑zero target, anchoring the transition in a 12‑strategy plan:
+### Nuclear Controversy and Historical Turning Point
 
-1. Offshore wind and solar expansion
-2. Hydrogen development
-3. Emerging energy (geothermal, marine)
-4. Smart grid and storage
-5. Energy efficiency
-6. Carbon capture, utilization, and storage (CCUS)
-7. Transport electrification
-8. Resource circulation and zero‑waste systems
-9. Natural carbon sinks
-10. Net‑zero green lifestyles
-11. Green finance
-12. Just transition (公正轉型)
+**March 11, 2011**—the Fukushima nuclear disaster in Japan completely changed Taiwan's energy policy direction.
 
-The inclusion of “just transition” is notable: Taiwan recognizes that decarbonization must not abandon workers or communities dependent on high‑carbon industries.
+**Key Moments in Anti-Nuclear Movement:**
 
-## Climate Adaptation: Living with Risk
+- **2013:** 300,000 people participated in anti-nuclear march
+- **2016:** Tsai Ing-wen government announced "nuclear-free homeland by 2025"
+- **2018:** Nuclear-4 fuel rods shipped out of Taiwan
+- **2021:** Nuclear-4 restart proposal defeated in referendum
 
-Taiwan sits on the frontline of climate volatility: typhoons, extreme rainfall, and drought are intensifying. Adaptation is therefore as important as mitigation.
+### Clean Energy Development: From Zero to Leadership
 
-**Priority areas:**
+**Renewable Energy Installed Capacity Growth (2015-2025):**
 
-- **Water security:** desalination, recycled water, and smart distribution.
-- **Disaster resilience:** early‑warning systems and coastal defenses.
-- **Ecosystem protection:** wetlands, forests, and biodiversity as carbon sinks and buffers.
+| Year | Solar (MW) | Wind (MW) | Renewables Share |
+| ---- | ---------- | --------- | ---------------- |
+| 2015 | 1,769      | 848       | 4.8%             |
+| 2020 | 6,214      | 1,693     | 5.7%             |
+| 2025 | 20,000\*   | 6,200\*   | 20%\*            |
 
-The goal is not only to reduce emissions, but to build a society that can endure climate shocks without destabilizing daily life.
+\*Target values
 
-## What Makes Taiwan’s Path Distinctive
+**Offshore Wind Breakthrough:**
 
-1. **Democratization and environmentalism grew together.** Environmental protests were also a form of democratic practice.
-2. **Everyday culture changed, not just policy.** Waste sorting, recycling, and energy awareness are embedded in daily routine.
-3. **Industry is a partner, not only a target.** ESG and global supply chains pull corporate behavior toward sustainability.
-4. **Scarcity breeds innovation.** Taiwan’s lack of resources has pushed circular thinking into mainstream policy.
+- **2021:** First commercial offshore wind farm operational (Formosa Wind)
+- **Installed Capacity:** 128MW, annual generation 480 million kWh
+- **2025 Target:** Cumulative offshore wind capacity of 5.7GW
 
-## Ongoing Challenges
+## 2050 Net-Zero Emissions: Taiwan's Climate Commitment
 
-- **Energy reliability vs. renewable intermittency** remains a difficult balancing act.
-- **High‑carbon industrial sectors** face large transition costs.
-- **Behavioral change** still lags in some areas of consumption.
-- **Social consensus** is harder as political polarization grows.
+### Policy Declaration and International Alignment
 
-## Closing Reflection
+**March 30, 2022**, the Executive Yuan officially announced the "Taiwan 2050 Net-Zero Emissions Pathways and Strategies Overview," clearly demonstrating Taiwan's commitment to net-zero transition.
 
-Taiwan’s environmental evolution is not a straight line, but a negotiated path between growth and responsibility. The shift from industrial pollution to net‑zero ambition was driven by protests, policy reforms, and a re‑imagining of what development means. The next chapter will depend on whether Taiwan can keep its civic energy alive while building the infrastructure of a low‑carbon future.
+**12 Key Strategies:**
 
-For international observers, Taiwan offers a compelling case: a small island, deeply integrated into global trade, using democratic activism and policy innovation to reinvent itself as a sustainability leader.
+1. **Offshore Wind and Solar:** Renewable energy as primary development focus
+2. **Hydrogen Energy:** Emerging clean energy source
+3. **Next-Generation Energy:** Geothermal, marine energy, and more
+4. **Power System and Energy Storage:** Smart grid construction
+5. **Energy Efficiency:** Improved energy efficiency
+6. **Carbon Capture, Utilization, and Storage (CCUS):** CCUS technology development
+7. **Transport Electrification:** Transportation transformation
+8. **Resource Circulation and Zero Waste:** Deepened circular economy
+9. **Natural Carbon Sinks:** Forest and soil carbon absorption
+10. **Net-Zero Green Living:** Consumer behavior transformation
+11. **Green Finance:** Financial sector sustainability transition
+12. **Just Transition:** Ensuring equitable transition across society
 
----
+### Sectoral Decarbonization Targets
+
+**2030 Sectoral Emissions Reduction Targets (relative to 2005 baseline):**
+
+- **Energy Sector:** 30% reduction
+- **Manufacturing Sector:** 25% reduction
+- **Transportation Sector:** 15% reduction
+- **Commercial and Residential Sector:** 12% reduction
+
+## Corporate ESG: From Passive Compliance to Active Leadership
+
+### TSMC's Sustainability Exemplar
+
+**Global semiconductor leader** TSMC set benchmarks in ESG:
+
+**2050 Net-Zero Commitment:**
+
+- **2030:** 100% renewable energy for production
+- **2040:** Net-zero Scope 1 and 2 emissions
+- **2050:** Net-zero Scope 3 emissions (including supply chain)
+
+**Concrete Actions:**
+
+- Signed the world's largest green power purchase agreement (920MW)
+- Established supplier sustainability management system
+- Invested US$4 billion in developing green manufacturing processes
+
+### Financial Sector's Green Awakening
+
+**Rapid Development of Sustainable Finance:**
+
+- **2022:** Green finance product balances reached NT$4.8 trillion
+- **ESG Funds:** Scale exceeded NT$1.2 trillion
+- **Green Bonds:** Issuance amount reached NT$350 billion
+
+**Important Milestones:**
+
+- **2021:** Yuanta Bank joined RE100
+- **2022:** Financial Supervisory Commission released "Listed Company Sustainability Development Roadmap"
+- **2023:** Mandatory sustainability reporting requirement for enterprises with annual revenue above NT$10 billion
+
+## Circular Economy: Taiwan's Wisdom in Waste-to-Treasure Transformation
+
+### Industrial Waste 100% Reused
+
+**Formosa Plastics Group's Circular Model:**
+
+- **Petrochemical Waste Reuse Rate:** 99.8%
+- **Wastewater Treatment:** Established industrial reclaimed water facilities
+- **Waste-to-Energy Generation:** 200 million kWh annually
+
+**China Steel Company's Steel Circulation:**
+
+- **Steel Furnace Slag:** Converted into cement materials and road base
+- **Waste Gas Recovery:** Transformed into thermal and electrical energy
+- **Wastewater Treatment:** 100% recycling and reuse
+
+### New Life for Agricultural Waste
+
+**Rice Husk Power Generation Project:**
+
+- **Annual Processing:** 100,000 metric tons of rice husks
+- **Generation Capacity:** 6.95MW
+- **Carbon Reduction Benefit:** 40,000 metric tons of CO₂ avoided annually
+
+**Livestock Waste Resourceization:**
+
+- **Biogas Electricity Generation:** 80 million kWh annually
+- **Liquid Fertilizer Use:** Converted into organic fertilizer
+- **Solid Compost:** Supplies demand for organic agriculture
+
+## Challenges and Breakthroughs: Sustainability's Real Test
+
+### Energy Security vs. Environmental Sustainability
+
+**Renewable Energy Intermittency Challenge:**
+
+- Solar power generation affected by weather; no output at night
+- Wind power affected by monsoons; lower capacity in winter
+- Grid stability requires more energy storage facilities
+
+**Solution Strategies:**
+
+1. **Large-Scale Deployment of Energy Storage:** Target 3GW by 2030
+2. **Smart Grid Construction:** Enhanced electricity dispatch flexibility
+3. **Regional Power Integration:** Power interconnection with neighboring countries
+
+### Industrial Transition Pressure
+
+**High-Carbon Industries Face Challenges:**
+
+- Petrochemical Industry: Facing pressure from Carbon Border Adjustment Mechanism (CBAM)
+- Steel Industry: Needs investment in hydrogen-based steel production technology
+- Cement Industry: Exploring carbon capture technology applications
+
+**Government Support Measures:**
+
+- **Green Technology Research and Development Subsidies:** NT$20 billion annual budget
+- **Low-Carbon Transition Loans:** Banks provide preferential interest rates
+- **Industrial Upgrade Guidance:** Assisting enterprises in establishing carbon reduction pathways
+
+### Socially Just Transition
+
+**Employment Impact and Response:**
+
+- Traditional industrial job opportunities declining
+- Green collar job demand increasing significantly
+- Skills conversion training needs
+
+**Just Transition Fund:**
+
+- Government allocated NT$12 billion fund
+- Assisting workers in skills conversion
+- Supporting green industry development
+
+## International Cooperation: Taiwan's Experience Toward the World
+
+### Circular Economy Technology Export
+
+**Taiwan's Circular Economy Technology Wins International Favor:**
+
+**Southeast Asia Cooperation Cases:**
+
+- **Vietnam:** Technology transfer for waste-to-energy technology
+- **Thailand:** Cooperation in establishing plastic waste recycling treatment facilities
+- **Indonesia:** Assistance in establishing electronic waste recycling system
+
+**Achievement Data:**
+
+- Technology export projects: 45 cases
+- Waste processed with assistance: 3 million metric tons annually
+- Job creation: 23,000 positions
+
+### Climate Diplomacy in New Fields
+
+Despite facing diplomatic constraints, Taiwan actively participates in international climate cooperation:
+
+**Multilateral Initiative Participation:**
+
+- **RE100:** 41 Taiwanese enterprises joined
+- **SBTi:** Science-Based Targets initiative, 67 enterprises committed
+- **EP100:** Energy Productivity initiative, 12 enterprises participating
+
+## Future Vision: Sustainability Aspirations for 2030-2050
+
+### Key Technology Breakthroughs
+
+**Priority Development Technologies:**
+
+1. **Hydrogen Economy:** Green hydrogen production and application
+2. **Carbon Capture Technology:** CCUS commercialization
+3. **Next-Generation Energy Storage:** Solid-state batteries, flow batteries
+4. **Negative Carbon Technology:** Direct air capture (DAC)
+
+### Lifestyle Transformation
+
+**Net-Zero Green Living Promotion:**
+
+- **Green Consumption:** Promoting eco-label certification
+- **Low-Carbon Transportation:** Target 35% electric vehicle adoption rate by 2030
+- **Energy-Efficient Buildings:** Mandatory solar panel installation for new construction
+- **Dietary Transition:** Promoting plant-based diets, reducing livestock emissions
+
+### International Positioning Goals
+
+**Taiwan's Sustainability Development Goals by 2030:**
+
+- Becoming Asia's circular economy demonstration zone
+- Achieving 30% renewable energy share
+- Maintaining world top-three resource recovery rate
+- ESG investment scale reaching 20% of GDP
+
+Taiwan's environmental and sustainability development journey proves an essential fact: **crisis can become the catalyst for transformation**. From the environmental pollution of the 1980s to today's sustainability pioneer, Taiwan accomplished in 40 years what developed nations took a century to achieve.
+
+Behind this transformation lies the persistence of countless environmental activists, corporate transition efforts, and the awakening of public environmental consciousness. Facing the global challenge of climate change, Taiwan is contributing to the planet's future in its own way, using the power of this island.
 
 ## References
 
-- Ministry of Environment (環境部): https://www.moenv.gov.tw/
-- Ministry of Economic Affairs Net‑Zero Office: https://go-moea.tw/
-- Citizen of the Earth Taiwan (地球公民基金會): https://www.cet-taiwan.org/
-- TSMC Sustainability Reports (台積電永續報告): https://esg.tsmc.com/zh-Hant
-- Environmental Information Association (台灣環境資訊協會): https://e-info.org.tw/
-- Tzu Chi Environmental Protection (慈濟環保志業體): https://www.tzuchi.org.tw/
-- FSC Sustainable Finance (金管會永續金融網): https://esg.fsc.gov.tw/
-- National Development Council Net‑Zero Policy: https://ncsd.ndc.gov.tw/Fore/nsdn/about0/2050Path
-- Taiwan Circular Economy Office: https://cepo.org.tw/
-- Taiwan Climate Change Projection and Information Platform: https://tccip.ncdr.nat.gov.tw/
+- [Ministry of Environment](https://www.moenv.gov.tw/)
+- [National Development Council - 2050 Net-Zero Emissions Pathway](https://ncsd.ndc.gov.tw/Fore/nsdn/about0/2050Path)
+- [Ministry of Economic Affairs Energy Bureau - Renewable Energy Development Statistics](https://www.moeaboe.gov.tw/)
+- [TSMC Sustainability Report](https://esg.tsmc.com/)
+- [Citizens of the Earth Taiwan](https://www.cet-taiwan.org/)
+- [Circular Taiwan Foundation](https://circular-taiwan.org/)
+- [Taiwan Environmental Information Association](https://e-info.org.tw/)
