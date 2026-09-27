@@ -117,8 +117,8 @@ As iguarias de Tainan não são apenas comidas gostosas reunidas por acaso. São
 ## Referências
 
 - [“Uma tradição inventada”! Quando a sopa de carne bovina se tornou um dos pratos representativos de Tainan?](https://www.upmedia.mg/news_info.php?Type=5&SerialNo=105780)
-- [Wujiaogang (Tainan) — Wikipédia](<https://zh.wikipedia.org/zh-tw/%E4%BA%94%E6%Aument%E6%B8%AF_(%E8%87%BA%E5%8D%97)>)
-- [A história caminhante de Tainan: O peixe-limão enriqueceu os tanques e também as manhãs e o estômago dos habitantes da cidade — The News Lens](httpshttps://www.thenewslens.com/article/131368)
+- [Wujiaogang (Tainan) — Wikipédia](<https://zh.wikipedia.org/zh-tw/%E4%BA%94%E6%A2%9D%E6%B8%AF_(%E8%87%BA%E5%8D%97)>)
+- [A história caminhante de Tainan: O peixe-limão enriqueceu os tanques e também as manhãs e o estômago dos habitantes da cidade — The News Lens](https://www.thenewslens.com/article/131368)
 - [Sopa de peixe-limão e de peixe-espada de Tainan podem ter origem em produtos europeus do século XVII — CNA](https://www.cna.com.tw/news/acul/202403060184.aspx)
 - [A origem e os segredos da sopa de carne bovina de Tainan](https://storycircle571.com/2024/12/17/%E5%88%B0%E5%8F%B0%E5%8D%97%EF%BC%8C%E4%B8%80%E5%AE%9A%E8%A6%81%E4%BE%86%E7%A2%97%E7%89%9B%E8%82%89%E6%B9%AF%EF%BC%81%E5%8F%B0%E5%8D%97%E7%89%9B%E8%82%89%E6%B9%AF%E7%9A%84%E7%B7%A3%E8%B5%B7%E3%80%81/)
 - [Macarrão com enguia — Wikipédia](https://zh.wikipedia.org/zh-tw/%E9%B1%94%E9%AD%9A%E6%84%8F%E9%BA%B5)

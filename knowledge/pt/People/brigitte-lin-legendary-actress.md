@@ -147,7 +147,7 @@ As novas gerações, ao rever os seus clássicos, redescobrem o seu encanto, pro
 - [Arquivo de Cinema de Hong Kong](https://www.filmarchive.gov.hk/zh_TW/web/hkfa/home.html) —资料 do período em Hong Kong
 - [O Invencível do Oriente — Associação de Prémios de Cinema de Hong Kong](https://www.hkfaa.com/) — avaliação da obra clássica
 
-[^1]: Verbete «Lin Ching-hsia» da Wikipédia: Sung Tsun-shou como realizador, convidou-a para protagonizar _A Janela_ (1973). https://zh.wikipedia.org/wiki/Lin Ching-hsia
+[^1]: Verbete «Lin Ching-hsia» da Wikipédia: Sung Tsun-shou como realizador, convidou-a para protagonizar _A Janela_ (1973). https://zh.wikipedia.org/wiki/林青霞
 
 [^2]: _A Janela_ (1973), realizado por Sung Tsun-shou, primeira protagonista de Lin Ching-hsia, adaptado do romance homónimo de Chiung Yao. Dados da obra em Taiwan Cinema: https://taiwancinema.bamid.gov.tw/
 

@@ -128,7 +128,7 @@ _1989년 허우샤오셴은 《비정성》으로 베니스 황금사자상을 �
 허우샤운 《풍궤래인》, 《동년방사》, 《연련풍진》을 거쳐 타이완의 향토성, 기억, 시간을 길고 느린 카메라 언어로 변모시켰다[^34]. 1989년 9월 15일, 그의 《비정성》은 제46회 베니스 영화제 황금사자상을 수상하며 타이완 영화가 처음으로 3대 영화제의 최고상을 거머쥐었다[^35]. 더욱 놀라운 것은 이 작품이 당시 매우 민감했던 2.28 사건을 정면으로 다루며 한 가족의 흥망성쇠를 통해 그 역사를 묘사했다는 점이다[^35]. 허우샤오셴의 롱테이크 미학은 국제적으로 얼마나 높게 평가받았는가? 이란 감독 아바스는 그의 《희몽인생》을 강력히 지지했고, 구로사와 아키라는 네 번이나 보았으며 직접 찍어낼 수 없다고 말했으며, 일본의 시노하라 요코도 그로부터 큰 영향을 받았다[^36].
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/q6m_7eleXw" title="비정성 4K 디지털 복원판 예고편" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/q6m_7eleZXw" title="비정성 4K 디지털 복원판 예고편" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 _《비정성》 4K 디지털 복원판 예고편. 1989년 그는 베니스에서 황금사자상을 받았고, 2.28 사건을 처음으로 진지하게 대형 스크린에 올렸다. — 같은 해 타이완 극장 내 국산 영화는 관객을 잃어가고 있었다._
@@ -426,7 +426,7 @@ _반교 4K 예고편. 백색공포를 게임으로, 다시 흥행하는 공포�
 본문은 4개의 이미지를 사용하며, 모든 이미지는 `public/article-images/art/`에 캐시되어 원격 서버 연결을 방지함:
 
 - [차이밍량과 리캉성(《일생》)](<https://commons.wikimedia.org/wiki/File:Tsai_Ming-liang_and_Lee_Kang-sheng_(Days).jpg>) — Photo: hinnk, CC BY-SA 3.0
-- [사륜지종 스틸컷](https://commons.wikimedia.org/wiki/File:%E8%8E%8E%E9%9F%B5%E4%B9%8B%E9%90%98.jpg) — 송측/만영, 공공저작물
+- [사륜지종 스틸컷](https://commons.wikimedia.org/wiki/File:%E8%8E%8E%E5%8B%87%E4%B9%8B%E9%90%98.jpg) — 송측/만영, 공공저작물
 - [허우샤오셴 1989 베니스 황금사장 현장](https://commons.wikimedia.org/wiki/File:1989_Venice_film_festival_Hou_Hsiao-hsien_winner_of_the_Gold_Lion.jpg) — Photo: Gorup de Besanez, CC BY-SA 4.0
 - [리안 2009 베니스 영화제](https://commons.wikimedia.org/wiki/File:Ang_Lee_-_66%C3%A8me_Festival_de_Venise_%28Mostra%29.jpg) — Photo: nicolas genin, CC BY-SA 2.0
 

@@ -151,7 +151,7 @@ translatedAt: '2026-07-26T19:42:16+08:00'
 
 [^28]: [https://news.nextapple.com/lifestyle/20260515/BDFF44F01A4FE82846EE477D762BC6BC](https://news.nextapple.com/lifestyle/20260515/BDFF44F01A4FE82846EE477D762BC6BC) — см. дополнительные данные в первоисточнике
 
-[^29]: [https://tw.news.yahoo.com/%E6%93%8E%E5%A4%A9%E5%B4%97%E6%83%85%E4%BA%8B%E6%BF%80%E6%88%B0%E5%85%A8%E…](https://tw.news.yahoo.com/%E6%93%8E%E5%A4%A9%E5%B4%97%E6%83%85%E4%BE%B6%E6%BF%80%E6%88%B0%E5%85%A8%E7%A8%8B4k%E7%9B%B4%E6%92%AD-%E7%B6%B2%E7%8F%BE%E5%A0%B4%E6%9C%9D%E8%81%96%E9%A9%9A%E8%A6%8B-%E5%A5%97%E5%A5%97%E4%B8%9F%E5%9C%B0-%E8%AD%A6%E6%96%B9%E8%A6%81%E8%BE%A6%E4%BA%86-025400349.html) — новости Yahoo
+[^29]: [https://tw.news.yahoo.com/%E6%93%8E%E5%A4%A9%E5%B4%97%E6%83%85%E4%BE%B6%E6%BF%80%E6%88%B0%E5%85%A8%E…](https://tw.news.yahoo.com/%E6%93%8E%E5%A4%A9%E5%B4%97%E6%83%85%E4%BE%B6%E6%BF%80%E6%88%B0%E5%85%A8%E7%A8%8B4k%E7%9B%B4%E6%92%AD-%E7%B6%B2%E7%8F%BE%E5%A0%B4%E6%9C%9D%E8%81%96%E9%A9%9A%E8%A6%8B-%E5%A5%97%E5%A5%97%E4%B8%9F%E5%9C%B0-%E8%AD%A6%E6%96%B9%E8%A6%81%E8%BE%A6%E4%BA%86-025400349.html) — новости Yahoo
 
 [^30]: [https://wuo-wuo.com/123-comment/all-column-articles/1225-bubalus-bubalis2010](https://wuo-wuo.com/123-comment/all-column-articles/1225-bubalus-bubalis2010) — см. дополнительные данные в первоисточнике
 

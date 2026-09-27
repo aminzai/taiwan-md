@@ -91,11 +91,11 @@ En 2026, Bai Xianyong continue de participer à des événements publics, de pro
 
 De Guilin (Guangxi) à New Park de Taipei, de « Littérature moderne » au théâtre Kunqu de Suzhou, le parcours de plus de soixante ans de Bai Xianyong constitue un exemple de persévérance face à la « mémoire » que l’on refuse d’abandonner.
 
-**Lectures complémentaires** : [Bai Xianyong — Wikipédia (zh)](https://zh.wikipedia.org/wiki/%E7%99%BD%E5%85%88%E9%9A%BF) | [Prix national des arts : dossier de Bai Xianyong](https://www.ncafroc.org.tw/artsaward/winnerDetail@1229) | [Musée national de la littérature taïwanaise](https://www.nmtl.gov.tw/) | [San Mao](/fr/people/san-mao) : Bai Xianyong a recommandé sa première œuvre « Huò » à la revue « Littérature moderne ».
+**Lectures complémentaires** : [Bai Xianyong — Wikipédia (zh)](https://zh.wikipedia.org/wiki/白先勇) | [Prix national des arts : dossier de Bai Xianyong](https://www.ncafroc.org.tw/artsaward/winnerDetail@1229) | [Musée national de la littérature taïwanaise](https://www.nmtl.gov.tw/) | [San Mao](/fr/people/san-mao) : Bai Xianyong a recommandé sa première œuvre « Huò » à la revue « Littérature moderne ».
 
 ## Références
 
-[^1]: [Wikipédia : Bai Xianyong](https://zh.wikipedia.org/wiki/%E7%99%BD%E5%85%88%E9%9A%BF) — confirme la naissance en 1937 à Guilin, le fait d’être le fils de Bai Chongxi, les études en langues étrangères à l’Université nationale de Taiwan, la création de « Littérature moderne », la première édition de « Taipei People » en avril 1971 (14 nouvelles) et la publication de « Les Enfants du péché » en 1983.
+[^1]: [Wikipédia : Bai Xianyong](https://zh.wikipedia.org/wiki/白先勇) — confirme la naissance en 1937 à Guilin, le fait d’être le fils de Bai Chongxi, les études en langues étrangères à l’Université nationale de Taiwan, la création de « Littérature moderne », la première édition de « Taipei People » en avril 1971 (14 nouvelles) et la publication de « Les Enfants du péché » en 1983.
 
 [^2]: [Site officiel de la version jeunesse du Peony Pavilion](https://www.paochunglei.com/) — indique le lancement de la planification en 2003, la première représentation à Taipei en avril 2004, plus de 300 représentations et 600 000 spectateurs, ainsi que le livre « Peony Flowers Blooming Twenty Years » pour le 20ᵉ anniversaire en 2024.
 
@@ -103,4 +103,4 @@ De Guilin (Guangxi) à New Park de Taipei, de « Littérature moderne » au th
 
 [^4]: [Xinhua Taiwan : Bai Xianyong actif en 2026](http://www.news.cn/tw/20250424/4a72b8928bb74c51a0b0b20e0c5599b9/c.html) — comprend les activités littéraires de 2025‑2026 et l’exposition spéciale à l’Université nationale de Taiwan.
 
-[^5]: [Wikipédia : Red Chamber Award](https://zh.wikipedia.org/wiki/%E7%BA%A2%E5%AE%A4%E5%A4%A2%E8%B5%9B) — confirme que le lauréat du 7ᵉ Red Chamber Award (2018) était « Qing Fuzi » et « Wang Chunfeng », excluant toute affirmation selon laquelle Bai Xianyong aurait reçu le prix.
+[^5]: [Wikipédia : Red Chamber Award](https://zh.wikipedia.org/wiki/紅樓夢獎) — confirme que le lauréat du 7ᵉ Red Chamber Award (2018) était « Qing Fuzi » et « Wang Chunfeng », excluant toute affirmation selon laquelle Bai Xianyong aurait reçu le prix.

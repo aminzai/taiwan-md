@@ -171,7 +171,7 @@ Es la grieta que una isla encontró en la cadena global de suministro de carne d
 - [Wikipedia: Yuanxing Niu](https://zh.wikipedia.org/zh-tw/%E6%BA%90%E8%88%88%E7%89%9B)
 - [AgriHarvest: Nace la primera raza de iniciativa privada, el "Yuanxing Niu"](https://www.agriharvest.tw/archives/121122/) (Reportaje de AgriHarvest, 2024)
 - [PTS Noticias: El "Wagyu taiwanés" de Lee Teng-hui, el Yuanxing Niu, obtiene registro de nueva raza tras 4 años de solicitud](https://news.pts.org.tw/article/701011) (Noticias PTS, 2024)
-- [AgriHarvest: Para competir con la carne importada, el mapa de mejora de la carne nacional](https://www.agriharvest.tw/archives/125578/) (Datos del Ministerio de Agricultura, 2025)
+- [AgriHarvest: Para competir con la carne importada, el mapa de mejora de la carne nacional](https://www.agriharvest.tw/archives/125578) (Datos del Ministerio de Agricultura, 2025)
 - [United Daily News / Revista Fengnian: Análisis de la tasa de autosuficiencia de carne nacional y las fuentes de importación](https://udn.com/news/story/123535/8760486) (Estadísticas del Ministerio de Agricultura, 2025)
 - [12Foody: Lo que no sabías sobre la carne de res fresca, el secreto del sabor de la sopa de res de Tainan](https://www.12foody.com.tw/blog/posts/beef-07) (Contexto cultural gastronómico)
 - [Catdrawer: La sopa de res de Tainan, el camino del matadero a la mesa](https://catdrawer.blog/2018/07/07/%E5%8F%B0%E5%8D%97%E7%89%9B%E8%82%89%E6%B9%AF%E3%80%80%E5%BE%9E%E5%B1%A0%E5%AE%B0%E5%A0%B4%E5%88%B0%E9%A4%90%E6%A1%8C%E9%80%99%E6%AE%B5%E8%B7%AF/) (Reportaje en profundidad sobre la cadena de sacrificio)

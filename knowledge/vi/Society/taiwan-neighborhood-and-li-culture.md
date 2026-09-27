@@ -202,7 +202,7 @@ Bởi vì ở đó, chúng ta không chỉ là người bầu cử mà còn là 
 ## Tài liệu tham khảo
 
 1. Viện Văn hóa Trung Hoa Dân Quốc (2022). "Kế hoạch phát triển văn hóa xã và làng (năm 2011-2016)". Truy cập tại:https://www.moc.gov.tw/cp.aspx?n=128
-2. Cổng thông tin xã hội (2021). "Không chỉ là lớp nghệ thuật, đại học cộng đồng và hành động xã hội". Truy cập tại:https://communitytaiwan.moc.gov.tw/Item/Detail/không-chỉ-là-lớp-nghệ-thuật-đại-học-cộng-đồng-và-hành-động-xã-hội
+2. Cổng thông tin xã hội (2021). "Không chỉ là lớp nghệ thuật, đại học cộng đồng và hành động xã hội". Truy cập tại:https://communitytaiwan.moc.gov.tw/Item/Detail/不只是才藝班，社區大學的社會行動
 3. Văn phòng Nhân sự thành phố Đài Bắc (2024). "Quyền lợi và nghĩa vụ của chủ làng". Truy cập tại:https://ca.gov.taipei/cp.aspx?n=3E43CD1A09FE5FA9
 4. Bộ Nội vụ (2023). "Luật hành chính địa phương và hệ thống làng". Truy cập tại:https://www.moi.gov.tw/
-5. Nhóm biên tập Wikipedia (2025). "Hóa sinh tổng thể xã hội". Wikipedia tiếng Việt. Truy cập tại:https://zh.wikipedia.org/zh-tw/hóa-sinh-tổng-thể-xã-hội
+5. Nhóm biên tập Wikipedia (2025). "Hóa sinh tổng thể xã hội". Wikipedia tiếng Việt. Truy cập tại:https://zh.wikipedia.org/zh-tw/社區總體營造

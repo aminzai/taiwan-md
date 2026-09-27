@@ -163,7 +163,7 @@ This is the crack that an island has found in the global beef supply chain. The 
 - [Wikipedia: Yuan Xing Cattle](https://zh.wikipedia.org/zh-tw/%E6%BA%90%E8%88%88%E7%89%9B)
 - [AgriHarvest: First Privately Bred Domestic Breed "Yuan Xing Cattle" Successfully Developed](https://www.agriharvest.tw/archives/121122/) (AgriHarvest report, 2024)
 - [PTS Public Television News: Lee Teng-hui's Taiwanese Wagyu "Yuan Xing Cattle" Approved for New Breed Registration After 4 Years](https://news.pts.org.tw/article/701011) (PTS News, 2024)
-- [AgriHarvest: Resisting Imported Beef Competition, Domestic Cattle Improvement Roadmap](https://www.agriharvest.tw/archives/125578/) (Ministry of Agriculture data, 2025)
+- [AgriHarvest: Resisting Imported Beef Competition, Domestic Cattle Improvement Roadmap](https://www.agriharvest.tw/archives/125578) (Ministry of Agriculture data, 2025)
 - [United Daily News / Harvest Magazine: Analysis of Domestic Beef Self-Sufficiency Rate and Import Sources](https://udn.com/news/story/123535/8760486) (Ministry of Agriculture statistics, 2025)
 - [12Foody: What You Don't Know About Freshly Slaughtered Beef—The Secret to Tainan Beef Soup's Flavor](https://www.12foody.com.tw/blog/posts/beef-07) (Food culture context)
 - [Cat Drawer: Tainan Beef Soup—The Road from Slaughterhouse to Table](https://catdrawer.blog/2018/07/07/%E5%8F%B0%E5%8D%97%E7%89%9B%E8%82%89%E6%B9%AF%E3%80%80%E5%BE%9E%E5%B1%A0%E5%AE%B0%E5%A0%B4%E5%88%B0%E9%A4%90%E6%A1%8C%E9%80%99%E6%AE%B5%E8%B7%AF/) (In-depth slaughter chain report)

@@ -132,7 +132,7 @@ difficulty: 'beginner'
 
 [^1]: 中華民国教育部、「注音符号教学指引」、2024年版、https://language.moe.gov.tw/
 
-[^2]: ウィキペディア、「注音符号」項目、https://zh.wikipedia.org/wiki/注音符号
+[^2]: ウィキペディア、「注音符号」項目、https://zh.wikipedia.org/wiki/注音符號
 
 [^3]: 中華民国教育部国語推行委員会、「注音符号沿革」、1978年；教育部国語文成就網 https://language.moe.gov.tw/
 

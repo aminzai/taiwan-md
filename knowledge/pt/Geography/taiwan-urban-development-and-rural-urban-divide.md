@@ -347,5 +347,5 @@ A disparidade entre campo e cidade nunca poderá ser totalmente eliminada, mas p
 - [Lista de População por Divisão Administrativa de Taiwan - Wikipédia](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E8%A1%8C%E6%94%BF%E5%8D%80%E4%BA%BA%E5%8F%A3%E5%88%97%E8%A1%88)
 - [Disparidade Norte-Sul de Taiwan - Wikipédia](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E5%8D%97%E5%8C%97%E5%B7%AE%E8%B7%9D)
 - [Estatísticas Populacionais do Departamento de Registro de Residência do Ministério do Interior](https://www.ris.gov.tw/app/portal/346)
-- [Relatório de Desenvolvimento Econômico Regional de Taiwan, Conselho de Planejamento e Desenvolvimento Econômico](https://www.ctci.org.tw/media/8182/2019-09%E4%bb%8a%E9%a1%8c%E5%a0%b1%E5%91%8a-20200205%E4%fix%e6%96%b9.pdf)
+- [Relatório de Desenvolvimento Econômico Regional de Taiwan, Conselho de Planejamento e Desenvolvimento Econômico](https://www.ctci.org.tw/media/8182/2019-09專題報告-台灣地方經濟發展及人口回流政策之挑戰與因應-20200205修正.pdf)
 - [Perspectivas de Política Tecnológica - Análise da Disparidade de Desenvolvimento Rural-Urbano em Taiwan](https_portal.stpi.narl.org.tw/index/article/10572)

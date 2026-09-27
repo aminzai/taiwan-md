@@ -126,7 +126,7 @@ Regardless of one’s position, few deny his consistency. From Yan’an’s disi
 
 **Image Sources**
 
-- Hero photo: Presidential Office, Wikimedia Commons, CC BY 2.0. Original file: [President attending Su Beng’s centennial birthday](<https://commons.wikimedia.org/wiki/File:11.08_%E7%B8%BD%E7%AB%AF%E5%87%BA%E5%B8%AD%E5%8F%B0%E5%8F%B0%E5%8F%8C%E7%99%BE%E5%B9%B4%E7%94%9F%E6%97%A5_(38226043862).jpg>).
+- Hero photo: Presidential Office, Wikimedia Commons, CC BY 2.0. Original file: [President attending Su Beng’s centennial birthday](<https://commons.wikimedia.org/wiki/File:11.08_總統出席史明百歲生日會_(38226043862).jpg>).
 - Portrait in text: Siegfy, Wikimedia Commons, CC BY‑SA 2.0. Original file: [Taiwan independence “father” Su Beng portrait](<https://commons.wikimedia.org/wiki/File:%E5%8F%B0%E7%8D%A8%E6%95%99%E7%88%B6%E5%8F%B2%E6%98%8E%E8%80%81%E5%85%88%E7%94%9F_(3539602788).jpg>).
 - Video: Documentary _Revolution in Progress_ (directed by Chen Li‑kuei), YouTube, embedded as inline external link.
 
