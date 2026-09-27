@@ -3,9 +3,9 @@ title: 'REWRITE-PIPELINE-SINGLE'
 description: '文章改寫主流程 canonical（單檔型，2026-09-19 起現行）— 6 stage 線性 (Stage 0 觀點 + 1-5 取材/寫/驗/形/連)，從 v6.7 續行：論點必須是一句對台灣的主張、研究 ~100 次天花板且一隻 lane 找人、開場一個人一個時刻、tw-* ≤ 4、無冷讀站'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v6.8'
-last_updated: 2026-09-19
-last_session: '2026-09-19-news-radar（v6.8：從 v6.7 快照續行成現行 canonical——哲宇「twmd-rewrite 回頭對齊單檔型，多檔型留校察看」；套用 9/19 五條修正）'
+current_version: 'v6.8.1'
+last_updated: 2026-09-27
+last_session: '2026-09-26-230240-twmd-maintainer（v6.8.1：補回續行時漏掉的兩條——寫手讀整份研究報告（v7.4）、先判 spine 類型再鎖核心矛盾（v7.6/v7.7）；OBSERVER-QUEUE #81 哲宇拍板 B）'
 plugin_check: 'python3 scripts/tools/article-health.py {file} --profile=rewrite-stage-4'
 sister_docs:
   - 'EVOLVE-PIPELINE.md'
@@ -21,9 +21,9 @@ upstream_canonical:
   - '../editorial/EDITORIAL.md'
 ---
 
-# REWRITE-PIPELINE-SINGLE.md — 文章改寫主流程 v6.8（單檔型，現行）
+# REWRITE-PIPELINE-SINGLE.md — 文章改寫主流程 v6.8.1（單檔型，現行）
 
-> **現行 canonical（2026-09-19 起）。行數帽 2,300（husky 擋），只走 v6.x patch，升 minor 要哲宇拍板＋等量減法。不長回來的三樣：不設冷讀站、不設多席編輯室、不加後設論點形態。規則准入：錯誤修儀器不修句子，悶才進規則，且只從讀者 callout 進、每條寫明哪次 callout 哪篇。** v9 多檔型已搬 [archive/rewrite-v9.9-2026-09-19/](archive/rewrite-v9.9-2026-09-19/README.md)。這份從 2026-06-06〈國宅與居住正義〉ship 當天的 v6.7 續行，只加了五件 9/18-19 三篇實驗證明重要的事：**(1) 論點是一句對台灣的主張**，主詞是人、機構、制度或事件，「這場討論的形狀」不算論點（Step 0.6.5）；**(2) 研究 ~100 次天花板，其中一隻 lane 專門找人**（Step 1.1）；**(3) 開場是一個人在一個時刻做一件事，每段最多一個要讀者記住的數字**（Step 2.3）；**(4) tw-\* 模組單篇 ≤ 4**（Step 2.8）；**(5) 沒有冷讀站**——可讀性由 Step 2.3 與 `opening-readability.py` 接住（Step 4.1）。背景：[LESSONS `third-type-thesis-defaults-to-meta-observation`](../semiont/LESSONS-INBOX.md)、工單 [reports/staging/humanize-brief-2026-09-19.md](../../reports/staging/humanize-brief-2026-09-19.md)。工具名以現行 `scripts/tools/` 為準（`article-health.py` 家族）。
+> **現行 canonical（2026-09-19 起）。行數帽 2,300（husky 擋），只走 v6.x patch，升 minor 要哲宇拍板＋等量減法。不長回來的三樣：不設冷讀站、不設多席編輯室、不加後設論點形態。規則准入：錯誤修儀器不修句子，悶才進規則，且只從讀者 callout 進、每條寫明哪次 callout 哪篇。** v9 多檔型已搬 [archive/rewrite-v9.9-2026-09-19/](archive/rewrite-v9.9-2026-09-19/README.md)。這份從 2026-06-06〈國宅與居住正義〉ship 當天的 v6.7 續行，只加了五件 9/18-19 三篇實驗證明重要的事：**(1) 論點是一句對台灣的主張**，主詞是人、機構、制度或事件，「這場討論的形狀」不算論點（Step 0.6.5）；**(2) 研究 ~100 次天花板，其中一隻 lane 專門找人**（Step 1.1）；**(3) 開場是一個人在一個時刻做一件事，每段最多一個要讀者記住的數字**（Step 2.3）；**(4) tw-\* 模組單篇 ≤ 4**（Step 2.8）；**(5) 沒有冷讀站**——可讀性由 Step 2.3 與 `opening-readability.py` 接住（Step 4.1）。**v6.8.1（2026-09-27）補回續行時漏掉的兩條**，兩條都是哲宇先前拍過的修正，OBSERVER-QUEUE #81 哲宇拍板 B：寫手讀整份研究報告（v7.4，Step 0.2-bis 規則 3）、先判 spine 類型再鎖核心矛盾（v7.6→v7.7，Step 0.1.5）。背景：[LESSONS `third-type-thesis-defaults-to-meta-observation`](../semiont/LESSONS-INBOX.md)、工單 [reports/staging/humanize-brief-2026-09-19.md](../../reports/staging/humanize-brief-2026-09-19.md)。工具名以現行 `scripts/tools/` 為準（`article-health.py` 家族）。
 
 > **第一性原理**：所有文章都走同一條 6-stage pipeline，每篇都跑過。模式判定 + 編輯前思考收斂在 **Stage 0 觀點**（Step 0.1-0.6），Stage 1 變純取材，Stage 2-5 完全 mode-agnostic。
 >
@@ -41,8 +41,9 @@ upstream_canonical:
 ╭──────────────────────────────────────────────────────────────────────────╮
 │              REWRITE-PIPELINE 6 階段 — 每篇都跑同一條                    │
 │                                                                          │
-│   Stage 0: 觀點 ─→ 6 steps（編輯前思考 + 模式判定）⭐ v6.0 新增          │
+│   Stage 0: 觀點 ─→ 7 steps（編輯前思考 + 模式判定）⭐ v6.0 新增          │
 │            ├── Step 0.1 模式識別 [Fresh/Evolution/Merge/Boundary]        │
+│            ├── Step 0.1.5 spine 類型（立體群像是預設畫布）               │
 │            ├── Step 0.2 既有素材萃取（EVOLVE only）                       │
 │            ├── Step 0.3 選 canonical（Merge variant only）                │
 │            ├── Step 0.4 範圍切片表（Boundary variant only）               │
@@ -54,7 +55,7 @@ upstream_canonical:
 │            ├── Step 1.1 搜尋深度 全篇 ~100 天花板（一隻 lane 找人）       │
 │            ├── Step 1.2 結尾素材鎖定                                      │
 │            ├── Step 1.3 重複偵測                                          │
-│            ├── Step 1.4 找矛盾鎖定（收斂 Stage 0.6 核心矛盾候選）         │
+│            ├── Step 1.4 鎖 spine（核心矛盾或組織主軸）                    │
 │            ├── Step 1.5 問觀察者要一手素材                                │
 │            ├── Step 1.6 私有 SSOT 觀察者拍板（條件式）                    │
 │            ├── Step 1.7 研究報告必存                                      │
@@ -116,7 +117,7 @@ upstream_canonical:
 | Gate                        | 觸發 stage | 條件                          | 工具                                                                                                   | 不過 = ?         |
 | --------------------------- | ---------- | ----------------------------- | ------------------------------------------------------------------------------------------------------ | ---------------- |
 | **§觀點成型落檔**           | Stage 0 終 | depth article                 | manual: grep `## 觀點成型` in research report + frontmatter `viewpoint_formed: true`                   | **不進 Stage 1** |
-| 核心矛盾鎖                  | Stage 1 終 | 所有 depth                    | research report frontmatter manual                                                                     | 不進 Stage 2     |
+| spine 鎖（核心矛盾／組織主軸） | Stage 1 終 | 所有 depth                    | research report frontmatter manual                                                                     | 不進 Stage 2     |
 | 研究報告落檔                | Stage 1 終 | depth ≥ 2000 字               | manual ls + frontmatter `researchReport`                                                               | 不進 Stage 2     |
 | **研究報告 SSOT health** 🔬 | Stage 1 終 | **所有 depth**                | `research-report-health.py --tier=depth`（distinct≥25 / en≠0 / 一手≠0 / 搜尋日誌 / 信度三層 / raw §8） | **不進 Stage 2** |
 | 媒體授權矩陣三表            | Stage 1 終 | 所有 article（**含 EVOLVE**） | manual append research 檔末尾 + ls public/article-images/{cat}/                                        | 不進 Stage 2     |
@@ -148,15 +149,15 @@ upstream_canonical:
 
 3. **觀點先於搜尋 💭**（v6.0 新增）— 所有 article 進 Stage 1 前**必須跑 Stage 0.6 觀點成型**：
    - 六個核心問題（記憶 / 多元面貌 / 想法感受 / 歷史脈絡 / 社會關聯 / 類型專屬）逐一答完
-   - 切入點清單 + 預期核心矛盾候選 + 研究方向 落 research report §觀點成型 section
+   - spine 類型（Step 0.1.5）+ 切入點清單 + 預期核心矛盾／組織主軸候選 + 研究方向 落 research report §觀點成型 section
    - frontmatter `viewpoint_formed: true` 表示通過
-   - Stage 1.4 找矛盾鎖定時，從 Stage 0.6 候選收斂為單一核心矛盾
+   - Stage 1.4 鎖 spine 時，從 Stage 0.6 候選收斂為單一核心矛盾（矛盾驅動）或一條組織主軸（立體群像）
    - **EVOLVE 模式**：Stage 0.6 在 0.2 萃取舊素材之後跑。觀點從題材 + 研究長出，**不從「為什麼舊文寫不好」長出**（v6.2 反轉 v6.0：後者會讓校正焦慮變成論點脊椎，見 [Step 0.2-bis 拆除防火牆](#step-02-bis-拆除防火牆teardown-firewall-callout-triggered-evolve-強制-)）。**callout-triggered EVOLVE 強制走 Step 0.2-bis 三條防火牆規則 + Step 3.2-bis backstop。**
 
 4. **拆除防火牆 🧱**（v6.2 新增）— **callout-triggered EVOLVE**（讀者/專家/peer 指出舊文錯、或自己 factcheck 抓到誤植所觸發的重寫）必過：
    - callout 只進 Stage 1 查證（`[CALLOUT-VERIFY]`），用完即丟，**不進觀點、不進正文**
    - Stage 0.6 觀點當作 Fresh 在做，**blind to errata**——論點脊椎不准是「歸屬要正確 / 別搞混 / 名字很重要」
-   - Stage 2 寫作 context 隔離：首選 spawn fresh writer agent 只給 fact-pack，主 session 自寫則 Stage 2 不重開舊文
+   - Stage 2 寫作 context 隔離：首選 spawn fresh writer agent，隔離範圍是舊文 prose 與 callout，研究報告整份給（見規則 3）；主 session 自寫則 Stage 2 不重開舊文
    - Stage 3.2-bis backstop 自檢句：「如果第一次就寫對，這句還會存在嗎？只為回應過去錯誤而存在的，刪」
    - canonical：[Step 0.2-bis](#step-02-bis-拆除防火牆teardown-firewall-callout-triggered-evolve-強制-) + [Step 3.2-bis](#step-32-bis-校正焦慮掃描correction-meta-scancallout-triggered-強制-)。觸發：2026-06-01 影視配樂第二輪 callout（事實修對但充滿 AI 校正焦慮）
 
@@ -167,7 +168,7 @@ upstream_canonical:
 > 從 LESSONS-INBOX / memory 抽 ship-then-retract 高 friction step。動工前主動掃一次。
 
 1. **Step 0.6 觀點成型**（v6.0 新增）— 沒有觀點之前的搜尋都是亂槍（蘋果西打 PR #1041 教訓：searched-first 寫成 crisis-only reveal，觀察者校正為 60 年完整記憶）
-2. **Step 1.4 核心矛盾鎖定** — 找不到矛盾 = 這篇不該被重寫（國防現代化重寫教訓）
+2. **Step 0.1.5 → 1.4 先判 spine 再鎖** — 矛盾驅動的題找不到矛盾 = 這篇不該被重寫（國防現代化重寫教訓）；受愛戴的題預設立體群像，改鎖組織主軸，不硬找矛盾（金曲獎 v1、施振榮 v1 教訓）
 3. **Step 1.7 研究報告 = SSOT** — 搜了沒把原始軌跡寫回 §8 = 沒搜；信度三層 + negative findings + 反例 list（v6.5 從 12 範本萃取）；跑 `research-report-health.py` 驗收
 4. **Step 2.4 小標題不編年體** — 編年體 = 維基百科化 = 失敗（Cicada / 草東 / 康士坦 教訓）
 5. **Step 4.3.3 aspect ratio 護欄** — portrait hero 切到頭（林琪兒 ι session 教訓）
@@ -205,13 +206,13 @@ upstream_canonical:
 | ---------------- | ---------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **0.6 觀點成型** | 1 sub-agent                                                | **Opus**                                                      | 觀點是最高判斷（這次失敗根因就是觀點被投毒）；探索搜尋加倍（≤ 10-15）                                                                                  | callout case：blind to errata（不給 callout / 勘誤 / 舊 §觀點成型）                                                                                                 |
 | **1 研究深挖**   | N 個 parallel sub-agent（按子領域切，每 agent 分搜尋配額） | **Sonnet**（breadth + extract；contested atom escalate Opus） | falsification-first；全篇 ~100 次天花板（Stage 1 ~80，一隻 lane 找人）+ 來源配額（人~15/中~30/英~15/一手~15/反方~5）；結構化 verification table 落報告 | **各 agent 回報完整搜尋軌跡 + raw findings（不自己摘要）；orchestrator 把 ALL raw verbatim append 到 report §8，額外合成 §6 clean fact-pack（疊加層，不替換 raw）** |
-| **2 寫正文**     | 1 個 **fresh** sub-agent                                   | **Opus**                                                      | 寫作 craft 最高判斷；fresh context 才乾淨                                                                                                              | **只給 topic + clean fact-pack + 觀點 + EDITORIAL + pipeline**；不給舊文 prose / callout / orchestrator 累積 context                                                |
+| **2 寫正文**     | 1 個 **fresh** sub-agent                                   | **Opus**                                                      | 寫作 craft 最高判斷；fresh context 才乾淨                                                                                                              | **給 topic + 整份 research report（§6 fact-pack 當導覽、§8 raw 必讀）+ 觀點 + EDITORIAL + pipeline**；不給舊文 prose / callout / errata 旁檔 / orchestrator 累積 context                                                |
 | **3.5 查證**     | M 個 parallel verifier ＋ 主 session                       | **Sonnet**（查證機械可查、fan-out 便宜）                      | 每 atom 對一手 Ctrl-F，adversarial（prompted to falsify）；高風險 atom（引語/歸屬/獎項屆次）≥ 2 verifier                                               | 主 session（Opus orchestrator）跑 deterministic gate（article-health）＋ 最終 spot-check                                                                            |
 
 ### 鐵律（這次 worked example 學到的）
 
 1. **觀點 agent blind to errata**（v6.2 §0.2-bis 規則 2 泛化）：viewpoint 從題材＋研究長出，不從「舊文為何爛 / callout」長出。
-2. **寫作 agent 永遠 fresh ＋ 只吃 fact-pack**（v6.2 規則 3 從 callout-only 泛化到所有 depth EVOLVE/Fresh）：orchestrator 把 clean fact-pack（verification table ＋ 觀點 ＋ 媒體 manifest）交 writer，**不轉貼舊文 prose**。
+2. **寫作 agent 永遠 fresh，但要讀完整 research report（含 §8 raw），不是只吃 orchestrator 摘要的 fact-pack**（v7.4，2026-06-15〈迷音 Miin〉EVOLVE，哲宇 callout「為什麼你不讓他去讀 report，難怪最近文章都變爛」；9/19 從 v6.7 快照續行時漏掉，09-27 OBSERVER-QUEUE #81 補回）：隔離邊界是**舊文 prose ＋ callout**（病毒），研究報告整份給。writer prompt 必須叫它 `Read reports/research/{slug}.md` 全檔；§6 clean fact-pack（verification table ＋ 觀點 ＋ 媒體 manifest）只是導覽疊加層，**不能取代 writer 親讀 §8 raw 的逐字與細節**（呼應鐵律 6）。**反 pattern**：orchestrator 把 report 二次摘要成精簡 fact-pack 塞 prompt、又不讓 writer 讀 report ＝ 雙重失真。報告合成層的過程噪音會跟著被讀進去，由 `research-report-health.py` v4 擋（2026-08-15，v7.4 的副作用）；「舊文為何寫不好」的診斷寫在 errata 旁檔（Step 0.2-bis 規則 2），不進報告。
 3. **sub-agent claim 是線索不是 oracle（[REFLEXES #31](../semiont/REFLEXES.md)）— 不可省的 hard gate**：agent 回報「gates 全過 / facts verified」**必須主 session 重驗**。2026-06-01 worked example：writer agent 自報全綠，主 session spot-check 抓到它**自己新長出一句杜撰引語**（賈樟柯「現代性／土地根性」，cited source 無此句）→ de-quote。Stage 3.5 verifier fan-out ＋ 主 session 對「引語 / 歸屬 / 獎項屆次」一手抽查 = hard gate。
 4. **媒體用已驗證官方 URL，不採 agent 自選 ID**：writer agent 會挑 YouTube ID 但常是非官方 / fan upload。媒體 manifest 在研究階段驗證官方頻道後鎖定，writer 只填已驗證的（Step 1.9）。
 5. **falsification > confirmation**：研究 ＋ 查證 agent 的 prompt 都要「try to break，不是 confirm」（[Stage 1 falsification](../semiont/REFLEXES.md) ＋ #16）。
@@ -298,6 +299,26 @@ AI 讀了品質不佳的舊文會不自覺模仿它的語氣、結構、甚至�
 
 > 💡 **實際上 Evolution 模式 = Fresh 模式 + 免費的 Step 0.2 素材**。寫作品質完全相同，只是省了部分研究時間。
 
+### Step 0.1.5: spine 類型（立體群像是預設畫布）🎭
+
+> **v6.8.1 補回**：v7.6（2026-06-28）→ v7.7（07-06）→ v7.8（07-25）→ v9.10（09-19）累積下來的形態，9/19 從 v6.7 快照續行時漏掉，OBSERVER-QUEUE #81 哲宇 2026-09-27 拍板 B 補回。DNA 根：[MANIFESTO §13 立體地愛](../semiont/MANIFESTO.md)、[REFLEXES #77](../semiont/REFLEXES.md)。七種策展手法表與第三型六條紀律在 [archive v9.9 Step 0.1.5](archive/rewrite-v9.9-2026-09-19/REWRITE-STAGE-0-VIEWPOINT.md)。
+
+判完模式就判 spine，**在想核心矛盾之前**：
+
+| spine                                    | 適用                                                                                                   | Step 1.4 鎖什麼                                                                                              |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
+| **立體群像（預設畫布）**                 | 幾乎所有台灣主題；受愛戴的人物、機構、典禮、傳統、地方、工藝、集體記憶一律在這裡                       | 一條溫暖的組織主軸串 ≥ 4 個 facet；爭議當厚度不當主軸；人物的真實張力當一個 facet，不當主脊                  |
+| **矛盾驅動**（例外，寫 `unlock_reason`） | 真正的公共爭議、醜聞、單一可辯的主張，需要一個 thesis 才誠實                                           | ≤ 30 字核心矛盾                                                                                              |
+| **第三型：多觀點立場議題**               | 進行中的公共議題，多方都有正當立場，且有此刻可指認的戰場（法案審查中、事件偵辦中、明確的上路日或期限） | 結構性且未解的核心矛盾；文章替多方留位置，**論點仍是一句對台灣可被反駁的主張**（Step 0.6.5），不寫討論的形狀 |
+
+- **拿不準且不是進行中的公共爭論 → 立體群像**；是進行中的公共爭論，不准用「拿不準」躲進立體群像
+- **防誤分類**：一個人「有真實內在張力」不等於該用矛盾驅動。受敬重的人物預設立體群像，張力當一個 facet
+- **self-check 判外部效果**：真的去想像一個支持者在讀，他會不會覺得被攻擊；自己能圓過去不算通過
+- 非政治主題把政治、兩岸、主權當脊椎或壓軸 → 命中 §自主權邊界，要人拍板
+- **立體不等於平**：立體群像一樣要押一句論點（Step 0.6.5），退回維基式面向清單是失敗
+
+**落檔**：research report frontmatter `spine_type`（`立體群像`／`矛盾驅動`／`矛盾驅動（第三型）`），後兩者加 `unlock_reason`。**觸發**：2026-06-28〈金曲獎〉v1 把核心矛盾鎖成「官方獎 vs 拒領的聲音」，整篇批判論戰，哲宇 callout「太批判、切入點不對、會炎上、跟立體講好違背」→ v2 改立體群像；2026-07-06〈施振榮〉v1 把受敬重的人寫成他自己理論的反例，哲宇 callout「會炎上、沒立體、過度放核心矛盾」→ 立體群像升為預設畫布；2026-07-25〈外送專法〉哲宇 directive 公共議題走第三型；2026-09-18〈誰算低薪〉〈油價機制〉〈金鐘獎〉第三型寫出後設論點，隔天改回一句對台灣的主張。
+
 ### Step 0.2: 既有素材萃取（條件式）
 
 **Skip 條件**：mode = Fresh。
@@ -375,7 +396,7 @@ callout 是線索不是 source（[REFLEXES #16](../semiont/REFLEXES.md)）。把
 
 **規則 2 — 觀點對 errata 失明（blind to errata）**
 
-Stage 0.6 觀點成型**當作 Fresh 在做**：從題材本身 + 一手研究長出觀點，**像舊文與 callout 從不存在**。「為什麼舊文寫不好」是 meta 觀察，落 research report §舊文診斷 + LESSONS-INBOX，**永遠不准進觀點、不准進正文**。
+Stage 0.6 觀點成型**當作 Fresh 在做**：從題材本身 + 一手研究長出觀點，**像舊文與 callout 從不存在**。「為什麼舊文寫不好」是 meta 觀察，落 `reports/research/{slug}-errata.md`（研究報告的旁檔，writer 不讀）+ LESSONS-INBOX，**永遠不准進觀點、不准進正文**。（v6.8.1：寫手改讀整份研究報告之後，診斷若還寫在報告裡就會一起被讀進去，所以搬到旁檔。）
 
 - 反指標自檢：我的核心矛盾 / 論點脊椎，是不是在講「歸屬要正確 / 不要搞混 / 名字很重要」？**是 → 觀點被 errata 投毒了，砍掉重想。** 一個配樂專家寫這題不會用「別搞錯名字」當主軸，他會用產業制度史 / 美學流派 / 世代傳承的真實骨架。
 
@@ -383,8 +404,8 @@ Stage 0.6 觀點成型**當作 Fresh 在做**：從題材本身 + 一手研究�
 
 「不再參考舊文」靠意志力做不到 —— 舊文 + callout 還在 context 裡就會 prime（[神經迴路：規則要能執行才算規則](../semiont/MEMORY.md)）。**強制隔離**：
 
-- Stage 2 的寫作輸入 = **只有** `reports/research/{slug}.md` 的 fact-pack + §觀點成型 + EDITORIAL.md。
-- **首選**：spawn 一個 fresh writer agent（Step 1.8 既有 spawn 機制），prompt 只給 fact-pack + 觀點 + anchors，**不給舊文 body、不給 callout**。Agent 在乾淨 context 裡像第一次寫。
+- Stage 2 的寫作輸入 = `reports/research/{slug}.md` **整份報告（§6 fact-pack ＋ §8 raw 全部讀）** + §觀點成型 + EDITORIAL.md。隔離範圍只有舊文 body、callout 與 errata 旁檔（v7.4 補回，見鐵律 2）。
+- **首選**：spawn 一個 fresh writer agent（Step 1.8 既有 spawn 機制），prompt 叫它 Read 整份研究報告 ＋ 觀點 ＋ anchors，**不給舊文 body、不給 callout、不給 errata 旁檔**。Agent 在乾淨 context 裡像第一次寫。
 - **主 session 自寫時**：Stage 2 期間**不准重新打開舊文檔案**，只看 research report。寫完跑下方 Step 3.2-bis backstop。
 
 #### Backstop 自檢句（Stage 3 hard gate，見 Step 3.2-bis）
@@ -546,8 +567,9 @@ Stage 0.6 跟 Stage 1.1 的差別不是「搜幾次」，是**搜的目的不一
 
 - {主詞是人、機構、制度或事件。「吵的是哪一欄」「它記錄不決定」「這場爭論的形狀是⋯」這種主詞是討論本身的後設句不算；爭論的形狀可以當骨架，不能當主張。受愛戴的題不逼讀者選邊，但一樣要押一句。範例：「政府蓋的便宜房，最後養出早買者的資產扶梯」「最低工資守住了本薪，低薪搬進了年終那一欄」}
 
-### 預期核心矛盾候選（待 Stage 1.4 收斂）
+### 預期核心矛盾／組織主軸候選（待 Stage 1.4 收斂）
 
+- spine_type：{立體群像／矛盾驅動／矛盾驅動（第三型）}（Step 0.1.5；後兩者附 unlock_reason）
 - A：{≤ 30 字}
 - B：{≤ 30 字}
 - C：{≤ 30 字}
@@ -587,7 +609,7 @@ Stage 0 結束時 deliverable：
 - [x] 研究方法論已讀（Step 0.5）— `cat docs/editorial/RESEARCH.md` + `RESEARCH-TEMPLATE.md`
 - [x] §觀點成型 section 已寫進 research report（Step 0.6.5）
 - [x] 六個核心問題全答（Step 0.6.1）
-- [x] 切入點清單 + 核心矛盾候選 + 研究方向 已列
+- [x] spine 類型已判（Step 0.1.5）+ 切入點清單 + 核心矛盾／組織主軸候選 + 研究方向 已列
 - [x] research report frontmatter `viewpoint_formed: true`
 
 **沒過 = 不進 Stage 1。**
@@ -643,15 +665,14 @@ grep -r "主題關鍵詞" knowledge/{Category}/
 
 如果發現高度重疊的既有文章 → 改走 Evolution / Merge / Boundary 模式（回 Step 1.1 重判）。
 
-### Step 1.4: 找矛盾鎖定（收斂 Stage 0.6 候選為單一核心矛盾）🔥
+### Step 1.4: 鎖 spine（矛盾驅動收斂核心矛盾，立體群像收斂組織主軸）🔥
 
-在結束 Stage 1 之前，必須能回答這個問題：**「這篇文章的核心矛盾是什麼？」**
+在結束 Stage 1 之前，必須能回答：**「這篇文章靠什麼撐起來？」** 答案的形狀由 Step 0.1.5 的 spine 類型決定：
 
-- 好的重寫不是修辭層的工作，是矛盾層的工作。舊文不是寫得不好，是它拒絕承認內部矛盾
-- 找到矛盾 = 找到重寫的理由。**找不到矛盾 = 這篇不該被重寫**
-- 寫進研究筆記：`核心矛盾 = ?`（一句話，不超過 30 字）
+- **矛盾驅動／第三型**：好的重寫是矛盾層的工作。找到矛盾 = 找到重寫的理由，**找不到矛盾 = 這篇不該被重寫**。寫進研究筆記：`核心矛盾 = ?`（一句話，不超過 30 字）
+- **立體群像（預設）**：寫進研究筆記：`組織主軸 = ?`（一句話，串起 ≥ 4 個 facet）。找不到組織主軸 = 還沒想清楚，回 Stage 0；**不准為了過這一關硬造一個矛盾**（金曲獎 v1、施振榮 v1）
 
-**範例**：
+**範例**（矛盾驅動）：
 
 - 「台灣說要走豪豬戰略，但 76% 預算拿去買美國傳統武器」
 - 「TFT 說要解決偏鄉教育，但孩子的問題不在教室裡是在整個生態系」
@@ -783,7 +804,7 @@ verification: # 信心程度系統 — 每條附「憑什麼是這層」的基�
 
 ## 1. 觀點成型（Stage 0，含 §探索搜尋紀錄 ≥20 query）
 
-記憶 anchor / 多元面貌 / 核心矛盾候選 2-3（多選一 + 為什麼）。
+記憶 anchor / 多元面貌 / spine 類型 + 核心矛盾或組織主軸候選 2-3（多選一 + 為什麼）。
 
 ## 2. 搜尋日誌 / 方法論（Search Log）
 
@@ -846,7 +867,7 @@ python3 scripts/tools/research-report-health.py reports/research/YYYY-MM/{slug}.
 
 **存檔責任**：Stage 1 主 session 在 agent 回傳後**同一個 response** 內寫 §1-§8 完整檔 + 跑 research-report-health gate，不 defer。raw §8 缺席或 gate hard_fail = Stage 1 未完成。
 
-**讀取責任**：Stage 2 Write 開始前，grep `reports/research/` 看有無相關主題報告可 cross-reference。**Writer agent 只吃 §6 Clean Fact-Pack**（context 隔離，per §多 agent 編排）。
+**讀取責任**：Stage 2 Write 開始前，grep `reports/research/` 看有無相關主題報告可 cross-reference。**Writer agent 讀整份報告，§6 Clean Fact-Pack 是導覽**（v7.4 補回；context 隔離的對象是舊文與 callout，per §多 agent 編排鐵律 2）。
 
 #### Step 1.7 附：reports/ 頂層 ad-hoc report 命名 convention（2026-05-27 新增）
 
@@ -1088,7 +1109,7 @@ yt-dlp --skip-download --write-auto-sub --write-sub \
 
 Stage 1 結束時 deliverable：
 
-- [x] 核心矛盾欄位必填（Step 1.4）— 填不出來 → 不進 Stage 2
+- [x] spine 欄位必填（Step 1.4：矛盾驅動填核心矛盾、立體群像填組織主軸）— 填不出來 → 不進 Stage 2
 - [x] depth-article 研究報告必存（Step 1.7）— `reports/research/YYYY-MM/{slug}.md` 不存在 → 不進 Stage 2
 - [x] 媒體授權矩陣三表 append 完成（inline 外連 / 圖片 / transcript）
 - [x] 圖片已 cache 在 `public/article-images/{category}/`
@@ -1103,7 +1124,7 @@ Stage 1 結束時 deliverable：
 
 ## Stage 2: 寫（預算 40-45%）
 
-> **v6.3 預設**：depth EVOLVE / Fresh 的 Stage 2 **派 fresh Opus sub-agent 寫**（context 隔離，見 [§多 agent 編排](#-多-agent-編排v63-orchestrator--tiered-sub-agents)）。主 session 只把 clean fact-pack ＋ 觀點 ＋ EDITORIAL 交給 writer，不轉貼舊文 prose。Micro / 短修正才主 session 自寫。
+> **v6.3 預設**：depth EVOLVE / Fresh 的 Stage 2 **派 fresh Opus sub-agent 寫**（context 隔離，見 [§多 agent 編排](#-多-agent-編排v63-orchestrator--tiered-sub-agents)）。主 session 把整份研究報告（§6 fact-pack 當導覽）＋ 觀點 ＋ EDITORIAL 交給 writer，不轉貼舊文 prose。Micro / 短修正才主 session 自寫。
 
 **必讀**：`cat docs/editorial/EDITORIAL.md`（全文，1000+ 行，**不可截斷**）
 
@@ -2166,3 +2187,5 @@ _最近 milestone（完整 changelog → `git log docs/pipelines/REWRITE-PIPELIN
 🧬
 
 _v6.8 | 2026-09-19 news-radar — 從 v6.7 快照（`b19194bea2`，〈國宅與居住正義〉ship 當天）續行成現行 canonical。哲宇 2026-09-19：「把 twmd-rewrite 技能先回頭對齊單檔型 rewrite-pipeline，多檔型留校察看，先不使用」。加入五條 9/18-19 三篇實驗的修正：論點是一句對台灣的主張（Step 0.6.5）／研究 ~100 次天花板＋找人 lane（Step 1.1）／開場一個人一個時刻＋數字紀律（Step 2.3）／tw-\* ≤ 4（Step 2.8）／opening-readability（Step 4.1）；無冷讀站。_
+
+_v6.8.1 | 2026-09-27 twmd-maintainer — 補回 9/19 從 v6.7 快照續行時漏掉的兩條修正，都是哲宇先前拍過的：(1) 寫手讀整份研究報告含 §8 raw（v7.4，06-15〈迷音 Miin〉callout），改動多 agent 編排表、鐵律 2、Step 0.2-bis 規則 3、Step 1.7 讀取責任、Stage 2 前言；「舊文為何寫不好」的診斷改寫到 errata 旁檔，避免寫手讀整份報告時一起讀進去。(2) 先判 spine 類型再鎖核心矛盾（v7.6→v7.7，06-28〈金曲獎〉、07-06〈施振榮〉callout；MANIFESTO §13、REFLEXES #77），新增 Step 0.1.5，Step 1.4 立體群像改鎖組織主軸。觸發：Discussion #1757（kwt-klure）指出，維護班對照 v9.9 封存版驗證，OBSERVER-QUEUE #81 哲宇 2026-09-27 拍板 B。開場規則跟 EDITORIAL 五種開場互斥那一件併入 #74，這次不動。_
