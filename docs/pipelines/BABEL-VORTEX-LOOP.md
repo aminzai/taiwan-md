@@ -3,7 +3,7 @@ title: 'BABEL-VORTEX-LOOP'
 description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.55)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.65'
+current_version: 'v1.66'
 last_updated: 2026-09-27
 last_session: '2026-09-26-100333-babel-vortex（翻譯率 100% 模式：推送常駐、付費 Haiku、閘門家族、委派 worktree 路徑陷阱與核准視窗、腳註修復器的語言盲）'
 sister_docs:
@@ -49,7 +49,10 @@ ScheduleWakeup 的 prompt 固定為三部分，**禁止複寫本檔內容**：
 **落地**（v1.65）：gap 是工作樹口徑——status.py 讀工作樹，沒 commit 的譯文照算 fresh。
 `babel-pulse` 的 `孤兒=N` 列出工作樹有、HEAD 沒有、也不在活產線批次裡的譯文；**孤兒 > 0 時
 gap=0 不成立**。孤兒先跑全套現行閘門，過了照一般落地；不過就認領重譯，不要直接 commit
-（它們是舊閘門時代驗的）。
+（它們是舊閘門時代驗的）。同一行的 `殘留暫存=N`（v1.66）是 index 跟 HEAD 不同、工作樹卻跟 HEAD
+相同的路徑：它不進任何 pathspec commit，但 origin 一動到同檔，push-every 的合併就被擋、推送停住。
+確認暫存內容只是格式差（或確定沒人要）後，在共用鎖底下 `git restore --staged`；只對已追蹤檔這樣做，
+新檔退暫存會變成孤兒。
 
 死掉的產線看 log 尾：`🛑 空轉自動收工` → 直接重啟；崩潰 → 查根因再重啟。
 重啟指令在各 `/tmp/babel-*.log` 開頭；產線編組現況與原則見
@@ -288,6 +291,12 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 證據（重試觸發次數），不是相關性。
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
+
+- v1.66（2026-09-27 傍晚第十五輪）：**孤兒的同構在 index**。v1.65 抓的是工作樹有、沒人要的譯文；同一天主工作樹
+  的 index 兩度出現沒人要的暫存（14:30 minified 報表與 en〈文章如何誕生〉、16:30 前後 OBSERVER-QUEUE 表格重排），
+  工作樹都跟 HEAD 相同，各放一個多小時，維護班 session 確認不是它、查不出是哪個程序留的。它的代價不在缺口，
+  在推送：origin 動到同一個檔，push-every 合併就被擋。`babel-pulse` 加 `殘留暫存=N`（index≠HEAD 且工作樹＝HEAD，
+  有人拿著共用鎖時不算），測試用真的 git repo 重現兩種形狀。本輪巡檢缺口 0、孤兒 0、殘留暫存 0，CI 綠。
 
 - v1.65（2026-09-27 下午第十四輪）：**「缺口歸零」宣告了兩輪，origin 上其實還缺三對**。前一晚 19:13 重啟
   dispatcher 時，舊那輪 18:12–18:45 已驗過、還沒輪到 commit 批次的三篇（ar〈文化內容策進院〉、de〈大龍峒〉

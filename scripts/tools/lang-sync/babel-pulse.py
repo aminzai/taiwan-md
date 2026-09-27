@@ -161,6 +161,22 @@ def uncommitted_translations(disp: list) -> dict:
     return classify_uncommitted(parse_porcelain(out), live_run_outputs(disp), age_min)
 
 
+def leftover_staged() -> list:
+    """index 跟 HEAD 不同、工作樹卻跟 HEAD 相同的路徑：有人暫存了一份內容、工作樹又被還原，
+    暫存留著沒人要。
+
+    為什麼要看（2026-09-27 渦流第十五輪）：同一天主工作樹兩度出現這種暫存，14:30 是 minified 報表
+    與 en〈文章如何誕生〉的 `''` 引號版，16:30 前後是 OBSERVER-QUEUE 表格重排版，內容都跟 HEAD
+    相同、各放了一個多小時，查不出是哪個程序留的。它不會進任何人的 pathspec commit，卻會讓
+    push-every 合併 origin 時被「local changes would be overwritten」擋下：只要 origin 動到同一個檔，
+    推送就停，而推送停住不會出現在缺口讀數裡。拿著共用 git 鎖的人正在 add→commit，那段暫存是進行中的，不算。
+    """
+    if GIT_LOCK.exists():
+        return []
+    staged = [p for p in run(["git", "diff", "--cached", "--name-only", "-z"]).stdout.split("\0") if p]
+    return [p for p in staged if run(["git", "diff", "--quiet", "HEAD", "--", p]).returncode == 0]
+
+
 def rate_window(rows: list, hours: float):
     """近 N 小時的 fresh 淨增（跨全部語言）。找 ≥N 小時前最近的一列當基準。"""
     if len(rows) < 2:
@@ -220,6 +236,7 @@ def build_payload(rows: list) -> dict:
         "dispatchers": disp,
         # gap_total 是工作樹口徑；orphans 是工作樹有、origin 沒有、也沒有產線在管的譯文
         "uncommitted": uncommitted_translations(disp),
+        "leftover_staged": leftover_staged(),
         "history": [
             {"ts": r["ts"],
              "fresh_total": sum(v["fresh"] for v in r["langs"].values()),
@@ -278,6 +295,8 @@ def render_html(d: dict) -> str:
     orph_list = "".join(
         f'<span class="chip warn">{o["xy"].strip() or "?"} {o["path"]} · {o["age_min"]} 分</span>'
         for o in unc["orphans"][:20])
+    orph_list += "".join(
+        f'<span class="chip warn">殘留暫存 {p}</span>' for p in (d.get("leftover_staged") or [])[:20])
     return f"""<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>巴別塔脈搏 — Taiwan.md</title>
@@ -413,10 +432,12 @@ def main():
     unc = payload["uncommitted"]
     log(f"pulse gap={payload['gap_total']} Δ={payload.get('gap_delta')} "
         f"rate_1h={r1.get('per_hour')}/h 產線={len(payload['dispatchers'])} "
-        f"孤兒={len(unc['orphans'])} 批次中={unc['pending']} "
+        f"孤兒={len(unc['orphans'])} 批次中={unc['pending']} 殘留暫存={len(payload['leftover_staged'])} "
         f"→ {OUT_JSON.name} + {OUT_HTML.name}")
     for o in unc["orphans"]:
         log(f"  孤兒 {o['xy'].strip() or '?'} {o['path']}（{o['age_min']} 分鐘未 commit，不在活產線批次）")
+    for p in payload["leftover_staged"]:
+        log(f"  殘留暫存 {p}（index 跟 HEAD 不同、工作樹跟 HEAD 相同；會擋 push-every 合併 origin）")
 
     # 整點那一跳落地（15 分鐘一 commit 會洗版 git log）
     should = args.force_commit or (not args.no_commit and datetime.now().minute < 15)

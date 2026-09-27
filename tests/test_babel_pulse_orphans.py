@@ -67,3 +67,34 @@ def test_snapshot_paths_follow_the_months_that_exist(tmp_path):
     assert "reports/babel/progress-2026-09.jsonl" in paths
     assert "reports/babel/progress-log-2026-09.md" in paths
     assert "reports/babel/fail-memo.json" not in paths
+
+
+def _git(repo, *args):
+    import subprocess
+    subprocess.run(["git", *args], cwd=repo, check=True, capture_output=True)
+
+
+def test_staged_content_the_worktree_no_longer_backs_is_leftover(tmp_path, monkeypatch):
+    repo = tmp_path / "r"
+    repo.mkdir()
+    _git(repo, "init", "-q")
+    _git(repo, "config", "user.email", "t@example.com")
+    _git(repo, "config", "user.name", "t")
+    queue, draft = repo / "queue.md", repo / "draft.md"
+    queue.write_text("| a |\n", encoding="utf-8")
+    draft.write_text("x\n", encoding="utf-8")
+    _git(repo, "add", ".")
+    _git(repo, "commit", "-q", "-m", "init")
+    # 2026-09-27 的形狀：有人暫存了表格重排版，工作樹又回到 HEAD
+    queue.write_text("|  a  |\n", encoding="utf-8")
+    _git(repo, "add", "queue.md")
+    queue.write_text("| a |\n", encoding="utf-8")
+    # 正常的部分暫存：工作樹還有自己的改動，是有人在編輯中，不算殘留
+    draft.write_text("y\n", encoding="utf-8")
+    _git(repo, "add", "draft.md")
+    draft.write_text("z\n", encoding="utf-8")
+    monkeypatch.setattr(MODULE, "REPO", repo)
+    monkeypatch.setattr(MODULE, "GIT_LOCK", tmp_path / "lock")
+    assert MODULE.leftover_staged() == ["queue.md"]
+    (tmp_path / "lock").mkdir()
+    assert MODULE.leftover_staged() == []  # 有人拿著共用鎖正在 add→commit
