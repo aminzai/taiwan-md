@@ -182,6 +182,8 @@ def parse_fm(content: str) -> tuple[dict, str]:
 # "contains CJK" is not a leftover-untranslated signal for these; byte-identity
 # to the zh source is.
 CJK_SCRIPT_LANGS = {"ja", "ko"}
+# ja 標題跟 zh 相同時，只有這種短漢字人名／地名算正常（≤6 字，可含間隔號）
+SHORT_KANJI_NAME = re.compile(r"[\u4e00-\u9fff々・·]{2,6}")
 
 
 def has_cjk(s: str) -> bool:
@@ -535,7 +537,11 @@ def main():
             continue
         if cjk_script_target:
             if zh_fm and v == zh_fm.get(f, object()):
-                bad_fields.append(f"{f}: identical to zh '{v[:30]}'")
+                # 2026-09-27：ja 人物頁的標題就是漢字人名（楊勇緯、杜奕瑾、戴資穎），跟 zh 一字不差才是對的。以前
+                # 一律判未翻，agent 為了過閘替名字加羅馬拼音，或乾脆編一個敘述型標題（「PTT創世神・杜奕瑾：30年の
+                # デジタル史」）——閘門製造了改內容換綠燈的誘因。只放行 ja 的短漢字名，句子型標題照擋。
+                if not (lang == "ja" and f == "title" and SHORT_KANJI_NAME.fullmatch(str(v))):
+                    bad_fields.append(f"{f}: identical to zh '{v[:30]}'")
         elif has_cjk(_strip_legit(str(v))):
             bad_fields.append(f"{f}: '{v[:30]}'")
     if bad_fields:
