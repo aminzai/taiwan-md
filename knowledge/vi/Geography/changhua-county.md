@@ -151,7 +151,7 @@ Wikipedia ghi lại "Vụ Nhị Lâm": "Tổng cộng đã bắt giữ 93 ngư�
 
 Vụ Nhị Lâm thường bị giản lược trong sách giáo khoa lịch sử Đài Loan, nhưng ý nghĩa của nó gắn liền với phong trào chống DuPont. **Cả hai phong trào đều xảy ra ở Chương Hóa, và cả hai đều là khởi điểm của một phong trào xã hội nào đó của Đài Loan: năm 1925, Nhị Lâm là sự khởi đầu của phong trào nông dân; năm 1986, Lộc Cảng là sự khởi đầu của phong trào môi trường. Huyện Chương Hóa là nơi liên tục xuất hiện "lần đầu tiên" trong lịch sử các phong trào xã hội Đài Loan.** Một huyện nông nghiệp có kênh đào từ năm 1709, làm sao lại trở thành điểm khởi đầu của hai phong trào xã hội? Có lẽ chính vì sự phụ thuộc quá cụ thể của người dân nơi này vào nước, đất đai và cây trồng, nên khi những thứ đó bị ngoại nhân uy hiếp, phản ứng cũng nhanh nhất.
 
-36 năm sau vụ Nhị Lâm, Đài Loan đã trải qua thời kỳ hậu chiến, sự kiện Hai Hai Ba, khủng bố trắng, và Đại Xã Kiến Thiết Mười. Sau đó, một sự kiện khác lại xảy ra trong phạm vi Chương Hóa.
+36 năm sau vụ Nhị Lâm, Đài Loan đã trải qua thời kỳ hậu chiến, sự kiện 228, khủng bố trắng, và Đại Xã Kiến Thiết Mười. Sau đó, một sự kiện khác lại xảy ra trong phạm vi Chương Hóa.
 
 ## Phật lớn Bạch Quái Sơn: Bồ Tát bê tông 22 mét
 
@@ -214,7 +214,7 @@ Lần tới khi đến Chương Hóa, đừng chỉ đi dạo phố cổ Lộc C
 - [Phong trào xã hội và sự tham gia của công dân](/vi/society/social-movements-and-civic-participation) — Vị trí của vụ Nhị Lâm năm 1925 và phong trào chống DuPont năm 1986 trong lịch sử các phong trào xã hội Đài Loan
 - [Bảo vệ môi trường và phát triển bền vững](/vi/society/environmental-awakening-and-net-zero-transition) — Phong trào chống DuPont Lộc Cảng năm 1986 là điểm khởi đầu của phong trào bảo vệ môi trường đầu tiên ở Đài Loan
 - [Văn hóa bánh ngọt Đài Loan](/vi/food/taiwan-pastry-culture) — Nguồn gốc Bánh Nhân Thịt Bắc Đẩu năm 1898, truyền thống tiệm bánh Lộc Cảng trăm năm
-- [Đường sắt Đài Loan (Taicyang)](/economy/台糖) — Công ty Đường Lâm Bản Nguyên đằng sau vụ Nhị Lâm năm 1925, đế chế đường sắt thời Nhật Bản
+- [Đường sắt Đài Loan (Taicyang)](/vi/economy/taiwan-sugar) — Công ty Đường Lâm Bản Nguyên đằng sau vụ Nhị Lâm năm 1925, đế chế đường sắt thời Nhật Bản
 - [Thành phố Keelung](/vi/geography/keelung-city) — Một thành phố được định hình bởi cảng khác trong chuỗi 22 thành phố, so sánh các ranh giới lỗi của hai "cảng suy tàn"
 - [Huyện Tân Trúc](/vi/geography/hsinchu-county) — Chuỗi 22 thành phố: người Khách Gia tập trung quanh khu công nghệ, tạo ra cấu trúc dân số khác biệt bên trong hành lang miền Trung so với Chương Hóa
 

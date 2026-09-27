@@ -147,7 +147,7 @@ Esta frase cambió nuestra forma de ver la estación. El techo de la estructura,
 
 La estructura actual es aproximadamente cuadrada, con tres puertas en cada uno de sus cuatro lados, doce en total. Algunas entradas tienen brújulas en el suelo, y la Puerta Sur 2, debido a su repliegue, también sirve como salida de emergencia. Estos detalles no aparecen en las cuatro palabras «centro de transporte», pero explican cómo la arquitectura esconde la dirección, la separación de flujos y la seguridad en las acciones diarias. [^9]
 
-La Estación de Taipéi también preserva las capas de los alrededores de la ciudad. Al salir de la zona de la estación, se puede llegar a la Puerta Norte, el Museo Nacional de Taiwán, el Parque del Ministerio de Ferrocarriles, el Parque de la Paz Er'Erba y el Salón Zhongshan. La estación no es una caja aislada, sino una entrada que conecta diferentes regímenes políticos, diferentes tecnologías de transporte y diferentes memorias urbanas. [^2] [^9]
+La Estación de Taipéi también preserva las capas de los alrededores de la ciudad. Al salir de la zona de la estación, se puede llegar a la Puerta Norte, el Museo Nacional de Taiwán, el Parque del Ministerio de Ferrocarriles, el Parque Conmemorativo de la Paz 228 y el Salón Zhongshan. La estación no es una caja aislada, sino una entrada que conecta diferentes regímenes políticos, diferentes tecnologías de transporte y diferentes memorias urbanas. [^2] [^9]
 
 ## La estación también decide hacia dónde crece la ciudad
 

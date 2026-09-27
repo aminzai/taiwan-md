@@ -57,7 +57,7 @@ Do tỷ lệ giới hàng đầu của người di cư ngoại tỉnh rất khô
 
 Lâu dài, xã hội thường cho rằng các dân tộc ngoại tỉnh có ưu thế. Tuy nhiên, theo nghiên cứu của giáo sư Su Guoxian của Đại học Đài Loan, sự chênh lệch giáo dục và nghề nghiệp giữa các tỉnh thành đã giảm mạnh từ tốc độ [^3].
 
-Nhưng vào những năm 50–60, xã hội Đài Loan đã có một giai đoạn ít được thảo luận hơn: nhiều người đàn ông trẻ, nghèo đói từ các dân tộc ngoại tỉnh vội đến, không có nơi ở vì không tìm được công việc, trở thành "người dân lạc lối". Tỷ lệ tội phạm của người ngoại tỉnh từng gần bằng hai lần người bản làng [^10], khủng hoảng an ninh này gây ra sự cô lập và bất an sâu sắc giữa các dân tộc. Thậm chí trong sự kiện Hai bảy, nhiều người dân cấp dưới không tội lỗi cũng trở thành nạn nhân, đợt thương tích kép này lâu dài bị các lập luận chính trị bị phân chia kín đoái che giấu [^18][^25].
+Nhưng vào những năm 50–60, xã hội Đài Loan đã có một giai đoạn ít được thảo luận hơn: nhiều người đàn ông trẻ, nghèo đói từ các dân tộc ngoại tỉnh vội đến, không có nơi ở vì không tìm được công việc, trở thành "người dân lạc lối". Tỷ lệ tội phạm của người ngoại tỉnh từng gần bằng hai lần người bản làng [^10], khủng hoảng an ninh này gây ra sự cô lập và bất an sâu sắc giữa các dân tộc. Thậm chí trong sự kiện 228, nhiều người dân cấp dưới không tội lỗi cũng trở thành nạn nhân, đợt thương tích kép này lâu dài bị các lập luận chính trị bị phân chia kín đoái che giấu [^18][^25].
 
 ## Dấu ấn trong số liệu của hành trình chuyển đổi
 
@@ -70,7 +70,7 @@ Quá trình chuyển đổi bản sắc để lại những dấu ấn kỳ lạ
 
 ## Đọc thêm
 
-- [Các dân tộc (người Hoa, người đồng bằng, người nguyên thủy ngoại tỉnh mới)](/culture/族群（閩南客家原住民外省新住民）) — Hiểu rõ hơn về cách tương tác giữa các dân tộc trong bối cảnh lớn hơn.
+- [Các dân tộc (người Hoa, người đồng bằng, người nguyên thủy ngoại tỉnh mới)](/vi/culture/ethnic-groups) — Hiểu rõ hơn về cách tương tác giữa các dân tộc trong bối cảnh lớn hơn.
 - [Lịch sử khu dân cư Đài Loan](/vi/history/taiwan-military-dependents-villages-history) — Bổ sung về không gian sinh sống, mạng lưới xã hội và trí nhớ văn hóa sau khi di cư.
 - [Thảm họa trắng Đài Loan](/vi/history/taiwan-white-terror) — Kết nối trải nghiệm của các dân tộc ngoại tỉnh trong hành chính ác tính và các vụ án chính trị.
 
@@ -104,7 +104,7 @@ Quá trình chuyển đổi bản sắc để lại những dấu ấn kỳ lạ
 
 [^16]: [Nhớ lại ngôi nhà đã mất: Văn học khu dân cư](https://tlvm.nmtl.gov.tw/zh/Theme/ExhibitionArticleCont?Exbid=143](https://tlvm.nmtl.gov.tw/zh/Theme/ExhibitionArticleCont?Exbid=143) — Cung cấp bối cảnh, số liệu hoặc sự kiện liên quan đến bài viết này.
 
-[^18]: [Central News Agency: Các nhà nghiên cứu thảo luận về những nạn nhân của người ngoại tỉnh trong sự kiện Hai bảy](https://www.cna.com.tw/news/aipl/201907280115.aspx) — Cung cấp bối cảnh, số liệu hoặc sự kiện liên quan đến bài viết này.
+[^18]: [Central News Agency: Các nhà nghiên cứu thảo luận về những nạn nhân của người ngoại tỉnh trong sự kiện 228](https://www.cna.com.tw/news/aipl/201907280115.aspx) — Cung cấp bối cảnh, số liệu hoặc sự kiện liên quan đến bài viết này.
 
 [^20]: [Khu dân cư mới tại Cửa Đảo: Biến đổi lịch sử và bản sắc](https://khm.org.tw/tw/event/past/detail/22](https://khm.org.tw/tw/event/past/detail/22) — Cung cấp bối cảnh, số liệu hoặc sự kiện liên quan đến bài viết này.
 

@@ -43,7 +43,7 @@ Từ thập niên 1900 đến 1930, Đài Loan có hai tạp chí phụ nữ đ�
 
 ### Sau chiến tranh đến thời kỳ kiểm duyên: Hai cuốn tạp chí, hai lần tù nhật, một vụ Bí Đựa
 
-Sau năm 1945, tự do lời nói ngắn ngủi, ngay sau sự kiện Hai Hai ba, lại bị thắt chặt[^4]. Ngày 11 tháng 11 năm 1949, Tự do Trung Quốc ra mắt tại Đài Bắc, với Hồ Nhất (胡適) đăng ký nhà xuất bản, Le Thịnh (雷震) làm chủ biên tập[^5]. Mười năm sau, bài viết "Sông dòng tràn đầy không ngăn cản" (Dà Jiāng dōng liú dòngchéng bù rùn) trong vol. 23, số 9 dẫn đến kết quả, Le Thịnh bị bắt ngày 4 tháng 9 năm 1960, bị tòa án kỷ luật kết tội 10 năm ngày 26 tháng 9[^5]. Đây là lần đầu tiên Kỷ đảo chính trị tại Đài Loan xử phạt chủ biên tập của một cuốn tạp chí vì tội phản động.
+Sau năm 1945, tự do lời nói ngắn ngủi, ngay sau sự kiện 228, lại bị thắt chặt[^4]. Ngày 11 tháng 11 năm 1949, Tự do Trung Quốc ra mắt tại Đài Bắc, với Hồ Nhất (胡適) đăng ký nhà xuất bản, Le Thịnh (雷震) làm chủ biên tập[^5]. Mười năm sau, bài viết "Sông dòng tràn đầy không ngăn cản" (Dà Jiāng dōng liú dòngchéng bù rùn) trong vol. 23, số 9 dẫn đến kết quả, Le Thịnh bị bắt ngày 4 tháng 9 năm 1960, bị tòa án kỷ luật kết tội 10 năm ngày 26 tháng 9[^5]. Đây là lần đầu tiên Kỷ đảo chính trị tại Đài Loan xử phạt chủ biên tập của một cuốn tạp chí vì tội phản động.
 
 📝 Ghi chú của người dẫn xuất: Tạp chí trong hệ thống áp đảo nhất sợ điều gì nhất không phải là nội dung họ in ra, mà là đọc giả bắt đầu cắt bài bình luận cùng nhau trao đổi.
 
@@ -115,7 +115,7 @@ Việc rời bằng giấy không đồng nghĩa với việc "nội dung hoàn 
 
 [^3]: [Báo cáo thị trường quảng cáo số tại Đài Loan năm 2024: 636.83 tỷ USD, chiếm 77.9% thiết bị di động](https://www.awoo.ai/news/2024-dma-ads-report/) — Awoo.ai trích dẫn Báo cáo thống kê quảng cáo số toàn năm 2024 của DMA.
 
-[^4]: [Lịch sử truyền thông Đài Loan — Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E5%AA%92%E9%AB%94%E5%8F%B2) — Bối cảnh lịch sử về sự thắt chặt tự do lời nói sau sự kiện Hai Hai ba, sự giảm thiểu báo chí.
+[^4]: [Lịch sử truyền thông Đài Loan — Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E5%AA%92%E9%AB%94%E5%8F%B2) — Bối cảnh lịch sử về sự thắt chặt tự do lời nói sau sự kiện 228, sự giảm thiểu báo chí.
 
 [^5]: [Từ "ngồi viết" đến "đứng dậy viết": Le Thịnh và Tự do Trung Quốc](https://chinadigitaltimes.net/chinese/215420.html) — Lịch sử đầy đủ từ khi ra mắt năm 1949 đến khi Le Thịnh bị kết tội 10 năm.
 

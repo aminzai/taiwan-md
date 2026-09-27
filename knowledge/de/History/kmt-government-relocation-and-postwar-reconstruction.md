@@ -176,4 +176,4 @@ Wenn jemand im Jahr 2050 wissen möchte, was die Menschen Taiwans im Jahr 1949 s
 
 ---
 
-**Weiterführende Lektüre**: Kriegsrechtzeit, Weißer Terror, [Zwei-Null-Acht-Vier-Ereignis](zh only — convert to plain text + Chinese parenthesis), [Wirtschaftswunder](zh only — convert to plain text + Chinese parenthesis)
+**Weiterführende Lektüre**: Kriegsrechtzeit, Weißer Terror, [228-Ereignis](/de/history/228-incident/), [Wirtschaftswunder](/de/economy/economic-miracle/)

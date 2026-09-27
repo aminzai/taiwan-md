@@ -71,7 +71,7 @@ _Hình ảnh: Chia wei ku, [Trang tập tin Wikimedia Commons](https://commons.w
 
 "Tiểu thuyết đại hà" không phải là sắp xếp các năm thành một bảng biểu, mà là để nhân vật sống giữa chế độ và đất đai. Những con người trong tác phẩm của Chung Triệu Chính không chỉ là nạn nhân hay nhân chứng lịch sử, họ có công việc, hôn nhân, gia đình, ngôn ngữ, và cả cuộc sống thường nhật không chịu biến mất trong thời đại vĩ đại. Điều này khiến tiểu thuyết của ông vừa gần gũi với tài liệu địa phương và câu chuyện gia đình, nhưng lại không chỉ là tài liệu địa phương hay câu chuyện gia đình.
 
-Tài liệu của Quốc lập Đài Loan Văn học Quán chỉ ra rằng các tác phẩm quan trọng khác của ông bao gồm 《Cao Sơn Tổ Khúc》 và 《Nộ Đào》. 《Cao Sơn Tổ Khúc》 xử lý lịch sử của các dân tộc bản địa, còn 《Nộ Đào》 lấy bối cảnh sự kiện Hai Hai Ba, Chung Triệu Chính đã mất ba năm để hoàn thành, xuất bản năm 1993. Tuyến sáng tác này cho thấy ông viết về người Khách Gia không phải là tự nhốt mình trong một dân tộc duy nhất, mà là bắt đầu từ vị trí của mình để truy vấn cách các dân tộc khác cùng trải qua lịch sử Đài Loan.[^2]
+Tài liệu của Quốc lập Đài Loan Văn học Quán chỉ ra rằng các tác phẩm quan trọng khác của ông bao gồm 《Cao Sơn Tổ Khúc》 và 《Nộ Đào》. 《Cao Sơn Tổ Khúc》 xử lý lịch sử của các dân tộc bản địa, còn 《Nộ Đào》 lấy bối cảnh sự kiện 228, Chung Triệu Chính đã mất ba năm để hoàn thành, xuất bản năm 1993. Tuyến sáng tác này cho thấy ông viết về người Khách Gia không phải là tự nhốt mình trong một dân tộc duy nhất, mà là bắt đầu từ vị trí của mình để truy vấn cách các dân tộc khác cùng trải qua lịch sử Đài Loan.[^2]
 
 Quy mô sáng tác của ông cũng không thể chỉ đại diện bằng cuốn 《Lỗ Băng Hoa》. Cơ sở dữ liệu thống kê ông đã để lại 22 tiểu thuyết dài, 154 tiểu thuyết trung và ngắn, 7 tập tùy bút phê bình, hơn 30 kịch bản truyền hình, 47 tác phẩm dịch thuật và 15 tuyển tập biên soạn. Những con số này không phải để tôn vinh tác giả, mà là để độc giả hiểu: ông giống một người lao động văn học vận hành liên tục hơn là một thiên tài đơn lẻ thỉnh thoảng viết nên kiệt tác.[^2]
 
@@ -133,9 +133,9 @@ Nếu chỉ đọc 《Lỗ Băng Hoa》, người ta sẽ nghĩ Chung Triệu Ch
 
 ## Bốn dòng sông, bốn loại thời gian Đài Loan
 
-Tài liệu tiếng Anh của Ủy ban Người Khách Gia xem Chung Triệu Chính là tác giả đã hoàn thành bốn bộ tiểu thuyết sông dài của Đài Loan. Trọng tâm của cách nói này không phải là tạo ra hồ sơ cho ông, mà là vì các tác phẩm của ông có những quy mô lịch sử khác nhau: ký ức cá nhân, lịch sử người Đài Loan, kinh nghiệm của các dân tộc bản địa và chấn thương chính trị chưa lắng xuống sau sự kiện Hai Hai Ba.[^12]
+Tài liệu tiếng Anh của Ủy ban Người Khách Gia xem Chung Triệu Chính là tác giả đã hoàn thành bốn bộ tiểu thuyết sông dài của Đài Loan. Trọng tâm của cách nói này không phải là tạo ra hồ sơ cho ông, mà là vì các tác phẩm của ông có những quy mô lịch sử khác nhau: ký ức cá nhân, lịch sử người Đài Loan, kinh nghiệm của các dân tộc bản địa và chấn thương chính trị chưa lắng xuống sau sự kiện 228.[^12]
 
-《Đoại Lưu Tam Bộ Khúc》 bắt đầu từ dòng nước đục của cá nhân và thời đại, 《Đài Loan Nhân Tam Bộ Khúc》 đặt nhân vật vào một lịch sử dài hơn. 《Cao Sơn Tổ Khúc》 chuyển hướng sang vùng núi và các dân tộc bản địa, còn 《Nộ Đào》 đối mặt trực diện với sự kiện Hai Hai Ba. Những tác phẩm này không thể thay thế lẫn nhau, vì mỗi tác phẩm đều thay đổi ranh giới của "câu chuyện Đài Loan".[^2]
+《Đoại Lưu Tam Bộ Khúc》 bắt đầu từ dòng nước đục của cá nhân và thời đại, 《Đài Loan Nhân Tam Bộ Khúc》 đặt nhân vật vào một lịch sử dài hơn. 《Cao Sơn Tổ Khúc》 chuyển hướng sang vùng núi và các dân tộc bản địa, còn 《Nộ Đào》 đối mặt trực diện với sự kiện 228. Những tác phẩm này không thể thay thế lẫn nhau, vì mỗi tác phẩm đều thay đổi ranh giới của "câu chuyện Đài Loan".[^2]
 
 Sự vĩ đại của tiểu thuyết đại hà không chỉ là số lượng nhân vật nhiều, mà là nó để cuộc sống thường nhật của những người nhỏ bé gánh chịu sức nặng lịch sử. Chung Triệu Chính viết về ăn uống, đi học, làm việc, yêu đương và chuyển nhà, nhưng độc giả cảm nhận được chính trị, chiến tranh và chính sách ngôn ngữ đã đi vào gia đình qua những hành động này.
 
@@ -145,7 +145,7 @@ Sự vĩ đại của tiểu thuyết đại hà không chỉ là số lượng 
 
 Vì vậy, Long Đàm không chỉ là một phông nền để độc giả chụp ảnh, mà là thước đo cho tác phẩm của Chung Triệu Chính. Khi độc giả đi qua khu phố ông từng sống và quay lại đọc tiểu thuyết, họ sẽ thấy rõ hơn cách ông viết địa phương quen thuộc thành ký ức xuyên thế hệ.
 
-Tính địa phương này cũng không đồng nghĩa với sự khép kín. Chung Triệu Chính bắt đầu từ làng Khách Gia, viết đến các dân tộc bản địa, Hai Hai Ba, nhóm tác giả thời hậu chiến và thể chế văn học Đài Loan. Đài Loan của ông không phải là tự truyện của một dân tộc duy nhất, mà là ký ức đa dạng được tạo ra sau khi các kinh nghiệm khác nhau va chạm với nhau.
+Tính địa phương này cũng không đồng nghĩa với sự khép kín. Chung Triệu Chính bắt đầu từ làng Khách Gia, viết đến các dân tộc bản địa, 228, nhóm tác giả thời hậu chiến và thể chế văn học Đài Loan. Đài Loan của ông không phải là tự truyện của một dân tộc duy nhất, mà là ký ức đa dạng được tạo ra sau khi các kinh nghiệm khác nhau va chạm với nhau.
 
 Tác phẩm của Chung Triệu Chính vẫn đáng để đọc lại, chính vì ngày nay Đài Loan đã có nhiều ngôn ngữ và nhiều vị trí xuất bản hơn. Người đọc mới không cần xem ông như một tượng thần không thể thách thức, mà có thể bắt đầu từ những lựa chọn của ông để tiếp tục đặt câu hỏi ai, phương ngữ nào, địa phương nào vẫn chưa được đưa vào câu chuyện.
 

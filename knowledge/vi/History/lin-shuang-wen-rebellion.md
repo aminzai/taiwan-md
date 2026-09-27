@@ -90,7 +90,7 @@ Những chính sách này không phải đều là câu chuyện tiến bộ. H�
 
 ## Tại sao hôm nay vẫn nên đọc lại?
 
-Sự kiện Lin Shuangwen không phải là cùng một trải nghiệm lịch sử với Tháng Tư 28, Cuộc khủng hoả̉ng Trắng hay sự dân chủ hóa, và chúng ta không nên ép buộc chúng vào một đường thẳng. Tuy nhiên, nó nêu lên một câu hỏi thường xuyên lặp lại trong lịch sử Đài Loan: khi quyền lực trung ương coi địa phương như một khu vực cần được quản lý, xã hội địa phương sẽ phản hồi thế nào? Và khi trung ương bị buộc phải tăng cường năng lực cai trị, những chế độ mới thêm vào sẽ bảo vệ ai, hạn chế ai?
+Sự kiện Lin Shuangwen không phải là cùng một trải nghiệm lịch sử với sự kiện 228, Cuộc khủng hoả̉ng Trắng hay sự dân chủ hóa, và chúng ta không nên ép buộc chúng vào một đường thẳng. Tuy nhiên, nó nêu lên một câu hỏi thường xuyên lặp lại trong lịch sử Đài Loan: khi quyền lực trung ương coi địa phương như một khu vực cần được quản lý, xã hội địa phương sẽ phản hồi thế nào? Và khi trung ương bị buộc phải tăng cường năng lực cai trị, những chế độ mới thêm vào sẽ bảo vệ ai, hạn chế ai?
 
 Lin Shuangwen cuối cùng cũng bị đưa đi Bắc Kinh, Jin Niang và những người khác để lại dấu vết trong lời khai và tài liệu. Đế quốc viết cuộc chiến này thành một trận chiến hoàn hảo, trong khi địa phương để lại bức tường thành, bia ký và tên địa danh, và những nhà nghiên cứu sau này tìm kiếm tiếng nói bị áp đặt trong những khoảng trống của tài liệu. Điều này không phải là sự đối lập đơn giản giữa "chính thức" và "phi chính thức", mà là sự công nhận rằng cùng một sự kiện tồn tại đa bộ nhớ đồng thời. [^2] [^4]
 

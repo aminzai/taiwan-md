@@ -83,11 +83,11 @@ Viết xong câu chuyện của ông, chúng ta có thể tự hỏi: trong khi 
 
 **Đọc thêm**
 
-- [Zheng Nanrong](/people/鄭南榕) — Người thực hành tiếp theo của quyền tự do ngôn luận được khai thác từ thời In Hải Cương đến "phản cháy" cực đoan nhất
-- [Xu Zhuoyun](/people/許倬雲) — Cùng thời In Hải Cương, trong hệ thống Đại học Đài Loan, Viện Nghiên cứu Quốc gia thúc đẩy hiện đại hóa khoa học xã hội nhân văn
+- [Zheng Nanrong](/vi/people/zheng-nanrong) — Người thực hành tiếp theo của quyền tự do ngôn luận được khai thác từ thời In Hải Cương đến "phản cháy" cực đoan nhất
+- [Xu Zhuoyun](/vi/people/cho-yun-hsu-bridging-historian) — Cùng thời In Hải Cương, trong hệ thống Đại học Đài Loan, Viện Nghiên cứu Quốc gia thúc đẩy hiện đại hóa khoa học xã hội nhân văn
 - [Bạo lực trắng của Đài Loan](/vi/history/taiwan-white-terror) — In Hải Cương bị đình đệlại, vụ án Lê Hàn tù, cuốn sách "Tầm nhìn về văn hóa Trung Quốc" bị hạn chế bối cảnh chính trị
 - [Thời kỳ trừng án](/vi/history/martial-law-era) — Vụ án Lê Hàn, việc đóng cửa cửa hàng sách Kể Thiên, dừng xuất bản tạp chí Tự Do Trung Hoa khung pháp lý và chính trị
-- [Sự kiện Hai Bảo](/history/二二八事件) — Hai năm trước khi In Hải Cương tới Đài Loan, sự kiện này xảy ra, định hình cú sốc đầu tiên của ông về "chế độ quốc gia"
+- [Sự kiện 228](/vi/history/228-incident) — Hai năm trước khi In Hải Cương tới Đài Loan, sự kiện này xảy ra, định hình cú sốc đầu tiên của ông về "chế độ quốc gia"
 
 ---
 

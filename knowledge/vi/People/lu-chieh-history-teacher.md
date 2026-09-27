@@ -1,5 +1,5 @@
 ---
-title: 'Lữ Tiệp: Từ câu hỏi về sự kiện Hai Ba Bát bị né tránh đến 28 bài giảng lịch sử Đài Loan'
+title: 'Lữ Tiệp: Từ câu hỏi về sự kiện 228 bị né tránh đến 28 bài giảng lịch sử Đài Loan'
 description: 'Từ quán hải sản đến bục giảng dạy thêm, Lữ Tiệp dùng câu chuyện để thúc đẩy kiến thức chính thống, nhưng cũng yêu cầu học viên quay lại với tư liệu, sự thật và quan điểm lịch sử.'
 date: 2026-08-14
 category: 'People'
@@ -26,15 +26,15 @@ sourceBodyHash: 'sha256:6ab4993ddc7e3736'
 translatedAt: '2026-09-17T06:43:40+08:00'
 ---
 
-# Lữ Tiệp: Từ câu hỏi về sự kiện Hai Ba Bát bị né tránh đến 28 bài giảng lịch sử Đài Loan
+# Lữ Tiệp: Từ câu hỏi về sự kiện 228 bị né tránh đến 28 bài giảng lịch sử Đài Loan
 
 > **Tóm tắt 30 giây:** Năm 2026, Lữ Tiệp ra mắt khóa học Lịch sử Đài Loan với cốt lõi là 28 bối cảnh lịch sử, kéo dài 10 giờ; khóa học không chỉ sắp xếp sự thay đổi chế độ mà còn đưa tự do, dân chủ, văn hóa, bản sắc và vị thế quốc tế vào cùng một bức tranh. [^8]
 >
-> Khi còn học trung học, ông từng đặt câu hỏi về sự kiện Hai Ba Bát trong lớp, và giáo viên đã ngần ngại né tránh. Nhiều năm sau, người thầy dạy thêm vốn ban đầu chỉ vì điền sai nguyện vọng vào khoa Lịch sử này, lại liên tục nhấn mạnh rằng lịch sử không phải là việc ghi nhớ một đáp án duy nhất, mà là phân biệt tư liệu, sự thật và quan điểm lịch sử. [^1] [^2]
+> Khi còn học trung học, ông từng đặt câu hỏi về sự kiện 228 trong lớp, và giáo viên đã ngần ngại né tránh. Nhiều năm sau, người thầy dạy thêm vốn ban đầu chỉ vì điền sai nguyện vọng vào khoa Lịch sử này, lại liên tục nhấn mạnh rằng lịch sử không phải là việc ghi nhớ một đáp án duy nhất, mà là phân biệt tư liệu, sự thật và quan điểm lịch sử. [^1] [^2]
 >
 > Do đó, câu chuyện của Lữ Tiệp không chỉ là "giáo viên nổi tiếng làm thế nào để thành công". Điều đáng được tìm hiểu hơn là: sau khi kể lịch sử một cách hấp dẫn, liệu người đó có thể kéo độc giả quay lại với tài liệu, bằng chứng và sự phán đoán của chính mình?
 
-Trong lớp học trung học, một câu hỏi về sự kiện Hai Ba Bát đã bị giáo viên tạm gác lại. Hơn hai mươi năm sau, Lữ Tiệp, người từng đặt ra câu hỏi đó, đang phân tách lịch sử Đài Loan thành 28 bối cảnh lịch sử có thể tiếp cận được. [^1] [^8]
+Trong lớp học trung học, một câu hỏi về sự kiện 228 đã bị giáo viên tạm gác lại. Hơn hai mươi năm sau, Lữ Tiệp, người từng đặt ra câu hỏi đó, đang phân tách lịch sử Đài Loan thành 28 bối cảnh lịch sử có thể tiếp cận được. [^1] [^8]
 
 Khoảng cách giữa hai sự kiện này không chỉ là từ lớp học đến ống kính, từ lớp luyện thi đến khóa học trực tuyến. Nó giống như một vết đứt gãy trong giáo dục lịch sử: một số vấn đề bị bỏ qua vì khó nói. Một số vấn đề lại cần được hỏi thêm một câu vì quá dễ dàng trở thành câu chuyện—cơ sở của câu chuyện đó ở đâu?
 
@@ -50,7 +50,7 @@ _Ảnh: Hình ảnh công khai từ trang của [Giáo dục Gia Đình và Tr�
 
 ## Câu hỏi mà giáo viên đã né tránh
 
-Trong một tập Podcast tháng 7 năm 2026, Lữ Tiệp hồi tưởng lại việc ông đặt câu hỏi về sự kiện Hai Ba Bát trong lớp trung học, và giáo viên đã "giật mình" mà không trả lời trực tiếp. Những gì được ghi lại trong chương trình không phải là toàn bộ bản ghi lời nói trong lớp, mà là một bối cảnh rất nhỏ: tổng thống đã được bầu cử trực tiếp, nhưng những vấn đề nào có thể thảo luận trong lớp, và có thể đi đến đâu, vẫn khiến người ta do dự. [^1]
+Trong một tập Podcast tháng 7 năm 2026, Lữ Tiệp hồi tưởng lại việc ông đặt câu hỏi về sự kiện 228 trong lớp trung học, và giáo viên đã "giật mình" mà không trả lời trực tiếp. Những gì được ghi lại trong chương trình không phải là toàn bộ bản ghi lời nói trong lớp, mà là một bối cảnh rất nhỏ: tổng thống đã được bầu cử trực tiếp, nhưng những vấn đề nào có thể thảo luận trong lớp, và có thể đi đến đâu, vẫn khiến người ta do dự. [^1]
 
 Trọng lượng của bối cảnh này là nó không đưa ra một lời giải đáp kịch tính. Giáo viên né tránh vì lý do gì, các học sinh khác phản ứng thế nào, đều không được nói chi tiết trong phần giới thiệu. Chúng ta không cần phải bù đắp cho khoảng trống bằng một câu chuyện đẹp hơn. Điều chắc chắn là, đối với Lữ Tiệp khi còn trẻ, đó là trải nghiệm về việc "lịch sử không phải là thứ đã được viết xong trong sách giáo khoa".
 
@@ -152,13 +152,13 @@ Câu hỏi bị giáo viên né tránh trong lớp trung học đã không nhậ
 
 ## Đọc mở rộng
 
-- [〈Ai nói Lịch sử Đài Loan chỉ có bi kịch?〉Podcast StoryStudio "Cạn ly người Đài" (Cheers Taiwan People)](https://podcasts.apple.com/tw/podcast/%E8%AA%B0%E8%AA%AA%E8%87%BA%E7%81%A3%E5%8F%B2%E5%8F%AA%E8%83%BD%E6%82%B2%E6%83%85-%E6%AD%B7%E5%8F%B2%E8%A3%9C%E6%95%99%E5%90%8D%E5%B8%AB%E7%B8%B1%E6%A9%AB%E6%B2%99%E5%A0%B4-20-%E5%B9%B4%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%8B%E7%8F%BE%E5%A0%B4%E8%A7%80%E5%AF%9F-ft-%E5%91%82%E6%8D%B7/id1593373742?i=1000778009947) — Nghe Lữ Tiệp nói về câu hỏi Hai Ba Bát trong lớp trung học, kinh nghiệm dạy thêm và phương pháp giảng dạy lịch sử Đài Loan.
+- [〈Ai nói Lịch sử Đài Loan chỉ có bi kịch?〉Podcast StoryStudio "Cạn ly người Đài" (Cheers Taiwan People)](https://podcasts.apple.com/tw/podcast/%E8%AA%B0%E8%AA%AA%E8%87%BA%E7%81%A3%E5%8F%B2%E5%8F%AA%E8%83%BD%E6%82%B2%E6%83%85-%E6%AD%B7%E5%8F%B2%E8%A3%9C%E6%95%99%E5%90%8D%E5%B8%AB%E7%B8%B1%E6%A9%AB%E6%B2%99%E5%A0%B4-20-%E5%B9%B4%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%8B%E7%8F%BE%E5%A0%B4%E8%A7%80%E5%AF%9F-ft-%E5%91%82%E6%8D%B7/id1593373742?i=1000778009947) — Nghe Lữ Tiệp nói về câu hỏi 228 trong lớp trung học, kinh nghiệm dạy thêm và phương pháp giảng dạy lịch sử Đài Loan.
 - [〈Nhưng nhân tính không thay đổi. Giáo viên nổi tiếng Lữ Tiệp: "Việc quan trọng nhất khi học lịch sử không phải là thi cử"〉](https://futureparenting.cwgv.com.tw/family/content/index/22429) — Trích dẫn cách nói của Lữ Tiệp về tư liệu, sự thật và quan điểm lịch sử, cũng như cách ông hiểu giáo dục lịch sử.
 - [Văn hóa lớp luyện thi Đài Loan: Sự trỗi dậy và sụp đổ của một con phố](https://taiwan.md/en/society/taiwan-cram-school-culture/) — Từ Nam Dương phố đến ngõ xóm cộng đồng, tìm hiểu văn hóa lớp luyện thi đã trở thành một phần cấu trúc giáo dục Đài Loan như thế nào.
 
 ## Tài liệu tham khảo
 
-[^1]: [StoryStudio／Apple Podcasts: 〈Ai nói Lịch sử Đài Loan chỉ có bi kịch? Giáo viên lịch sử nổi tiếng chinh chiến 20 năm qua, quan sát thực tế lần đầu ft. Lữ Tiệp〉](https://podcasts.apple.com/tw/podcast/%E8%AA%B0%E8%AA%AA%E8%87%BA%E7%81%A3%E5%8F%B2%E5%8F%AA%E8%83%BD%E6%82%B2%E6%83%85-%E6%AD%B7%E5%8F%B2%E8%A3%9C%E6%95%99%E5%90%8D%E5%B8%AB%E7%B8%B1%E6%A9%AB%E6%B2%99%E5%A0%B4-20-%E5%B9%B4%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%8B%E7%8F%BE%E5%A0%B4%E8%A7%80%E5%AF%9F-ft-%E5%91%82%E6%8D%B7/id1593373742?i=1000778009947) — Phần giới thiệu chương trình phát hành tháng 7 năm 2026, ghi lại hồi tưởng của Lữ Tiệp về câu hỏi Hai Ba Bát trong lớp trung học và hướng suy nghĩ mới về phương pháp giảng dạy lịch sử Đài Loan.
+[^1]: [StoryStudio／Apple Podcasts: 〈Ai nói Lịch sử Đài Loan chỉ có bi kịch? Giáo viên lịch sử nổi tiếng chinh chiến 20 năm qua, quan sát thực tế lần đầu ft. Lữ Tiệp〉](https://podcasts.apple.com/tw/podcast/%E8%AA%B0%E8%AA%AA%E8%87%BA%E7%81%A3%E5%8F%B2%E5%8F%AA%E8%83%BD%E6%82%B2%E6%83%85-%E6%AD%B7%E5%8F%B2%E8%A3%9C%E6%95%99%E5%90%8D%E5%B8%AB%E7%B8%B1%E6%A9%AB%E6%B2%99%E5%A0%B4-20-%E5%B9%B4%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%8B%E7%8F%BE%E5%A0%B4%E8%A7%80%E5%AF%9F-ft-%E5%91%82%E6%8D%B7/id1593373742?i=1000778009947) — Phần giới thiệu chương trình phát hành tháng 7 năm 2026, ghi lại hồi tưởng của Lữ Tiệp về câu hỏi 228 trong lớp trung học và hướng suy nghĩ mới về phương pháp giảng dạy lịch sử Đài Loan.
 
 [^2]: [Giáo dục Gia Đình và Trẻ Em (Parenting Times): 〈Nhưng nhân tính không thay đổi. Giáo viên nổi tiếng Lữ Tiệp: "Việc quan trọng nhất khi học lịch sử không phải là thi cử"〉](https://futureparenting.cwgv.com.tw/family/content/index/22429) — Ghi lại những lời kể trực tiếp của Lữ Tiệp về việc điền sai nguyện vọng vào khoa Lịch sử, mục đích sử dụng giáo dục lịch sử và bước ngoặt cuộc đời, đồng thời trích dẫn nội dung tác phẩm.
 

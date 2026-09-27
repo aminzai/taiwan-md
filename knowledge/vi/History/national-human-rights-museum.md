@@ -247,7 +247,7 @@ Trần thuật về nạn nhân trung tâm (victim-centered) là tiêu chuẩn m
 
 ## Mở Một Tờ Sổ Ngân sách Lỗ Chủn Khắp Nơi
 
-Ngày 14 tháng 1 năm 2025, Đài Bắc. Quỹ Kỷ niệm Tiến sĩ Trần Văn Thành, Quỹ Trịnh Nam Vinh, Hội Quốc gia Chăm sóc Hai tháng 28, Hội Thúc đẩy Rõ ràng Trường hợp Khủng bố Trắng Năm mươi năm, Hiệp hội Chăm sóc Tù nhân Chính trị Thiết quân luật Đài Loan, Hiệp hội Nhân quyền Đài Loan v.v. 33 tổ chức dân gian phát hành tuyên bố chung[^23]:
+Ngày 14 tháng 1 năm 2025, Đài Bắc. Quỹ Kỷ niệm Tiến sĩ Trần Văn Thành, Quỹ Trịnh Nam Vinh, Tổng hội Quan tâm 228 Đài Loan, Hội Thúc đẩy Rõ ràng Trường hợp Khủng bố Trắng Năm mươi năm, Hiệp hội Chăm sóc Tù nhân Chính trị Thiết quân luật Đài Loan, Hiệp hội Nhân quyền Đài Loan v.v. 33 tổ chức dân gian phát hành tuyên bố chung[^23]:
 
 > "Chúng tôi không sẵn sàng thấy Đài Loan dân chủ suy thoái, biểu thị phản đối mạnh mẽ đối với Quốc Dân Đảng và Đảng Nhân dân, kêu gọi toàn dân phát biểu hành động, cùng nhau chống lại Quốc Dân Đảng và Đảng Nhân dân đang cố gắng qua Quốc hội để cứu lấy tài sản đảng bất hợp pháp, xóa bỏ ngân sách liên quan Chuyển đổi công bằng!"[^23]
 
@@ -326,7 +326,7 @@ Không thể phong tỏa được bảo tàng này. Là cơ sở hạ tầng ký
 - [Thời kỳ Thiết quân luật](/history/thiết-quân-luật-thời-kỳ) — 38 năm thiết quân luật 1949-1987, pháp lý cơ sở của lịch sử được trưng bày bảo tàng này
 - [Khủng bố Trắng Đài Loan](/history/khủng-bố-trắng-đài-loan) — 29.407 trường hợp quân pháp, 140 ngàn gia đình nạn nhân bị chấn thương, qui mô cụ thể mà Bia Nước Mắt tưởng niệm
 - [Chuyển đổi công bằng Đài Loan](/history/chuyển-đổi-công-bằng-đài-loan) — Kéo giằng của việc hủy bỏ sáu ngàn phán quyết nhưng không thể truy cứu trách nhiệm kẻ gây hại, bài viết này là một phân đoạn tổ chức
-- [Sự kiện Hai tháng 28](/history/sự-kiện-hai-tháng-28) — Cuộc biến chính lớn nhất sau chiến tranh Đài Loan, bắt đầu của 38 năm thiết quân luật
+- [Sự kiện 228](/vi/history/228-incident) — Cuộc biến chính lớn nhất sau chiến tranh Đài Loan, bắt đầu của 38 năm thiết quân luật
 
 ## Nguồn Hình Ảnh
 

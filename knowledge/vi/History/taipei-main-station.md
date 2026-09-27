@@ -147,7 +147,7 @@ Câu nói này đã thay đổi cách chúng ta nhìn nhận nhà ga. Mái nhà 
 
 Cấu trúc hiện tại gần hình vuông, với ba cửa ở mỗi mặt, tổng cộng mười hai cánh cửa. Mặt đất của một số lối vào có la bàn chỉ hướng, và Cửa Nam 2 có chức năng thoát hiểm do bị thu hẹp. Những chi tiết này sẽ không xuất hiện trong từ "đầu mối giao thông", nhưng lại cho thấy kiến trúc đã ẩn chứa phương hướng, phân luồng và an toàn trong các hành động hàng ngày như thế nào. [^9]
 
-Ga Tàu Đài Bắc cũng bảo tồn các tầng lớp của khu vực thành phố xung quanh. Bước ra khỏi khu ga, có thể kết nối với Cổng Bắc, Bảo tàng Đài Loan, Khu công viên đường sắt, Công viên Hòa bình Nhị Thập Bát và Trung Sơn Đường. Nhà ga không phải là một chiếc hộp biệt lập, mà là lối vào kết nối các chế độ chính trị khác nhau, các kỹ thuật giao thông khác nhau và các ký ức đô thị khác nhau. [^2] [^9]
+Ga Tàu Đài Bắc cũng bảo tồn các tầng lớp của khu vực thành phố xung quanh. Bước ra khỏi khu ga, có thể kết nối với Cổng Bắc, Bảo tàng Đài Loan, Khu công viên đường sắt, Công viên Hòa bình 228 và Trung Sơn Đường. Nhà ga không phải là một chiếc hộp biệt lập, mà là lối vào kết nối các chế độ chính trị khác nhau, các kỹ thuật giao thông khác nhau và các ký ức đô thị khác nhau. [^2] [^9]
 
 ## Ga cũng quyết định thành phố sẽ phát triển theo hướng nào
 

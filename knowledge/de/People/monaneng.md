@@ -192,10 +192,10 @@ Im letzten Band seines 1989er Gedichtbands, **„Wir sehen nicht mehr die Dunkel
 **Weiterführende Literatur:**
 
 - [Chen Yingzhen](/de/people/chen-yingzhen) — schrieb den langen Einleitungstext **„Mona Neng — Ein Dichter der Kolonialzone Taiwans“** für den 1989er Gedichtband, ein zentraler Kulturschöpfer der unionistischen Szene
-- [Geschichte und Bewegung der taiwanesischen Ureinwohner](/history/台灣原住民族歷史與正名運動) — von der Gründung der ORA 1984 bis zu den Schlafprotesten am Kaiserring 2017, einschließlich des Kontexts der Landrechtsbewegung 1988
-- [Vor- und frühgeschichtliche Zeit und Ureinwohner](/history/史前時代與原住民) — die lange Geschichte der taiwanesischen Ureinwohner auf dieser Insel
-- [Zweiundzwanzigacht-Ereignis](/history/二二八事件) — die historische Hintergrundgeschichte der einheitlichen Debatte Taiwans, im Zusammenhang mit Mona Nengs unionistischer Haltung
-- [Taiwans demokratischer Übergang](/history/台灣民主轉型) — der Kontext der Befreiung in den 1980er-Jahren, in dem Mona Nengs Gedichte entstanden
+- [Geschichte und Bewegung der taiwanesischen Ureinwohner](/de/history/indigenous-peoples-history-and-naming-movement) — von der Gründung der ORA 1984 bis zu den Schlafprotesten am Kaiserring 2017, einschließlich des Kontexts der Landrechtsbewegung 1988
+- [Vor- und frühgeschichtliche Zeit und Ureinwohner](/de/history/prehistoric-era-and-indigenous-peoples) — die lange Geschichte der taiwanesischen Ureinwohner auf dieser Insel
+- [228-Ereignis](/de/history/228-incident) — die historische Hintergrundgeschichte der einheitlichen Debatte Taiwans, im Zusammenhang mit Mona Nengs unionistischer Haltung
+- [Taiwans demokratischer Übergang](/de/history/taiwan-democratization) — der Kontext der Befreiung in den 1980er-Jahren, in dem Mona Nengs Gedichte entstanden
 
 ## Bildnachweise
 

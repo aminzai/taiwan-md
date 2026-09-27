@@ -75,7 +75,7 @@ Die Wahlergebnisse wurden am Abend bekannt gegeben. Hsu Hsin-liang gewann mit ei
 
 Hsu Hsin-liang gab in einem Interview 40 Jahre später folgende Worte ab: „**Selbst wenn sie Wählerbetrug betrieben haben, konnte ich ihn besiegen, ich bin vollkommen zuversichtlich.**“ „**Man muss den König zuerst fangen; es gab viele Geheimagenten in Zhongli damals, und wenn ich nicht gegangen wäre, wäre ich sofort gefasst worden.**“ „**Ich habe mit der Polizei geschüttelt, sie haben mich alle verdreht, und manche haben gespuckt. Aber sie konnten mir nichts anhaben, denn ich war bereits Gouverneur gewählt.**“ [^5]
 
-Das Zhongli-Ereignis war der erste spontane Straßenmarsch in Taiwan nach dem Krieg, um Wahlbetrug zu protestieren. Zwischen 1947 und 1977 marschierten die Taiwanesen nicht mehr auf die Straße. Erst nach dem Brand der Polizeistation in Zhongli folgten das Qiaotou-Ereignis im Januar 1979 und das Beiliao-Ereignis am 10. Dezember 1979.
+Das Zhongli-Ereignis war der erste spontane Straßenmarsch in Taiwan nach dem Krieg, um Wahlbetrug zu protestieren. Vom 228-Ereignis 1947 bis zum Zhongli-Ereignis 1977 gingen die Taiwaner dreißig Jahre lang nicht mehr auf die Straße. Erst nach dem Brand der Polizeistation in Zhongli folgten das Qiaotou-Ereignis im Januar 1979 und das Beiliao-Ereignis am 10. Dezember 1979.
 
 > **📝 Kuratorische Anmerkung:** Die gängige Erzählung ist, dass „das Beiliao-Ereignis die Demokratisierung Taiwans einleitete“. Diese Erzählung überspringt das Zhongli-Ereignis um zwei Jahre. Korrigieren wir die Kausalität: **Der Brand der Polizeistation in Zhongli am 19. November 1977 war der Ausgangspunkt der Volksbewegung nach dem Krieg in Taiwan; das Beiliao-Ereignis von 1979 ist dessen Folge.** Die Grundschule, die Mittelschule und die Polizeistation in Zhongli sind heute Orte, an denen Zhongler Mittagessen essen, Kinder abholen oder durchfahren. Aber am Abend des 19. November 1977 waren diese Punkte die physischen Koordinaten der unabhängigen Bewegung Taiwans. Jiang Wen-guo war 22 Jahre alt, Chang Chi-ping 19 und Liu Shi-rong 16.
 
@@ -172,15 +172,15 @@ Denken Sie beim nächsten Mal an Taoyuan nicht nur an den Flughafen. Denken Sie 
 
 ## Weiterführende Lektüre
 
-- [Stadt Keelung](/geography/基隆市) — Pilotreihe der 22 Bezirke und Städte: Als der Flughafen Taoyuan im Jahr 1979 eröffnet wurde, verlagerte sich Taiwans Außentort vom Hafen von Keelung auf Taoyuan; der Hafen von Keelung fiel von Platz 7 weltweit auf Platz 113.
-- [County Hsinchu](/geography/新竹縣) — Nachbarbezirk des Hakka im Süden von Taoyuan: Jiang Shaozu aus Beipu, Hsinchu, marschierte im Juli 1895 nach Norden und nahm an der Schlacht von Daqangkang teil.
-- [Stadt Hsinchu](/geography/新竹市) — Zentrum, das zusammen mit Taoyuan die Hakka-Verteilung im Norden bildet; die Region Taoyuan wurde 1875 in den County Hsinchu eingegliedert.
-- [County Miaoli](/geography/苗栗縣) — Geschwisterstück der Reihe 22: Der Ausgangspunkt der hakkaischen Einwanderung aus Miaoli nach Taoyuan, Wu Tangxing marschierte im Jahr 1895 nach Norden und kämpfte gegen Japan.
-- [County Nantou](/geography/南投縣) — Reihe 22, Teil 3: Der einzige County ohne Küste vs. der Handel auf der Landmasse Taoyuan; ein Vergleich zweier „Grenzen“.
-- [Hakka Kultur und Sprache](/culture/客家文化與語言) — Über 800.000 Hakka in Taoyuan, die größte Zahl im ganzen Land.
-- [Arbeitsmigranten](/society/移工) — 132.158 Arbeitsmigranten in Taoyuan, die größte Zahl im ganzen Land.
-- [Schlacht von Yiwei](/history/乙未之役) — Die Hakka-Bewegung gegen Japan in Daqangkang, Taoyuan, mit Jiang Shaozu, Wu Tangxing und Jiang Guohui im Jahr 1895.
-- [Chiang Kai-shek](/people/蔣中正) — Er starb und wurde in Cihu bei Daxi beigesetzt; heute beherbergt der Cihu Memorial Sculpture Park alle Statuen von Chiang Kai-shek, die entfernt wurden.
+- [Stadt Keelung](/de/geography/keelung-city) — Pilotreihe der 22 Bezirke und Städte: Als der Flughafen Taoyuan im Jahr 1979 eröffnet wurde, verlagerte sich Taiwans Außentort vom Hafen von Keelung auf Taoyuan; der Hafen von Keelung fiel von Platz 7 weltweit auf Platz 113.
+- [County Hsinchu](/de/geography/hsinchu-county) — Nachbarbezirk des Hakka im Süden von Taoyuan: Jiang Shaozu aus Beipu, Hsinchu, marschierte im Juli 1895 nach Norden und nahm an der Schlacht von Daqangkang teil.
+- [Stadt Hsinchu](/de/geography/hsinchu-city) — Zentrum, das zusammen mit Taoyuan die Hakka-Verteilung im Norden bildet; die Region Taoyuan wurde 1875 in den County Hsinchu eingegliedert.
+- [County Miaoli](/de/geography/miaoli-county) — Geschwisterstück der Reihe 22: Der Ausgangspunkt der hakkaischen Einwanderung aus Miaoli nach Taoyuan, Wu Tangxing marschierte im Jahr 1895 nach Norden und kämpfte gegen Japan.
+- [County Nantou](/de/geography/nantou-county) — Reihe 22, Teil 3: Der einzige County ohne Küste vs. der Handel auf der Landmasse Taoyuan; ein Vergleich zweier „Grenzen“.
+- [Hakka Kultur und Sprache](/de/culture/hakka-culture-and-language) — Über 800.000 Hakka in Taoyuan, die größte Zahl im ganzen Land.
+- [Arbeitsmigranten](/de/society/migrant-workers-in-taiwan) — 132.158 Arbeitsmigranten in Taoyuan, die größte Zahl im ganzen Land.
+- [Schlacht von Yiwei](/de/history/1895-taiwan-resistance-war) — Die Hakka-Bewegung gegen Japan in Daqangkang, Taoyuan, mit Jiang Shaozu, Wu Tangxing und Jiang Guohui im Jahr 1895.
+- [Chiang Kai-shek](/de/people/chiang-kai-shek) — Er starb und wurde in Cihu bei Daxi beigesetzt; heute beherbergt der Cihu Memorial Sculpture Park alle Statuen von Chiang Kai-shek, die entfernt wurden.
 
 ## Bildquellen
 

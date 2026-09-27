@@ -50,7 +50,7 @@ Năm 1983, 《Nghịch Tử》 xuất bản.[^1] Bối cảnh là Tân Công Vi�
 
 Ý nghĩa lịch sử của 《Nghịch Tử》 vượt ra khỏi phạm vi văn học: đó là lần đầu tiên năm 1983 văn đàn Đài Loan trao cho nhóm người đồng tính một không gian kể chuyện trọn vẹn như vậy, với thái độ đồng cảm chứ không phải bệnh lý hóa. Xu hướng tính dục của chính Bạch Tiên Dũng chỉ dần được công chúng biết sau khi xuất bản, nhưng cuốn sách đã đứng ở vị trí tiến trước dư luận xã hội trước đó.
 
-«Tân Công Viên Đài Bắc» (nay là Công viên Kỷ niệm Hòa bình 22-8) trong 《Nghịch Tử》 là nơi trú ẩn của những người bị đẩy ra biên duyên. Việc chọn địa điểm mang trọng lượng lịch sử: công viên này đồng thời ghi chép cả hai lịch sử đàn áp chính trị và biên duyên hóa đô thị, trở thành ký hiệu không gian độc đáo mà Bạch Tiên Dũng dùng để viết lịch sử chiến sau của Đài Loan.
+«Tân Công Viên Đài Bắc» (nay là Công viên Kỷ niệm Hòa bình 228) trong 《Nghịch Tử》 là nơi trú ẩn của những người bị đẩy ra biên duyên. Việc chọn địa điểm mang trọng lượng lịch sử: công viên này đồng thời ghi chép cả hai lịch sử đàn áp chính trị và biên duyên hóa đô thị, trở thành ký hiệu không gian độc đáo mà Bạch Tiên Dũng dùng để viết lịch sử chiến sau của Đài Loan.
 
 ## Kế hoạch 2003, công diễn tháng 4 năm 2004: Phiên bản Thanh Xuân 《牡丹亭》
 
