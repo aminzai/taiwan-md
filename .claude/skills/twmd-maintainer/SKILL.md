@@ -41,6 +41,7 @@ git log --since="24 hours ago" --oneline | head -30
 git log --since="48 hours ago" --pretty=format:"%h %ai %s" | head -50
 bash scripts/tools/consciousness-snapshot.sh
 bash scripts/tools/routine-status.sh
+bash scripts/tools/ci-main-health.sh   # main 上每條 workflow 最後一次跑成什麼樣（七態，不用自己判）
 ```
 
 寫進 memory file 的 §Stage 1 表（≥ 5 列）：open PR / open issue / past 24hr commits / past 48hr commits / build status / i18n smoke / immune organ score。

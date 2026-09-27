@@ -3,9 +3,9 @@ title: 'MAINTAINER-PIPELINE'
 description: '日常維護者主流程 canonical — 4 stage 線性 / Step N.M 編號 / Default-action principle / Issue 要修不是要分類 / Git merge 優先 (merge-first-then-heal，P1 push-to-branch 是格式債 default) / Draft PR 處置 / §collect-and-merge / §collect-and-merge / §Close 前 hard gate / §雙向校正 / §[Content] issue digest sub-flow'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v2.13'
+current_version: 'v2.14'
 last_updated: 2026-09-27
-last_session: '2026-09-27-031342-twmd-distill-weekly（Step 3.5 補 pre-commit profile，REFLEXES #100）'
+last_session: '2026-09-27-083000-twmd-maintainer-am（Step 1.5 從可貼指令改成 ci-main-health.sh 儀器，八小時窗的盲點）'
 sister_docs:
   - 'CONTRIBUTOR-SYSTEM-PIPELINE.md'
   - 'EVOLVE-PIPELINE.md'
@@ -482,13 +482,22 @@ git log --since="12 hours ago" --oneline
 **問「main 上每一條 workflow 最後一次跑成什麼樣」，不要點名兩條問**（2026-09-03 補）：
 
 ```bash
-gh api "repos/frank890417/taiwan-md/actions/runs?branch=main&per_page=100" --jq \
-  '[.workflow_runs[]] | group_by(.name)[] | (sort_by(.created_at) | last) | "\(.conclusion // .status)\t\(.created_at)\t\(.name)"' | sort
+bash scripts/tools/ci-main-health.sh          # 報告，永遠 exit 0
+bash scripts/tools/ci-main-health.sh --strict # 有 RED 就 exit 1
 ```
 
-**Red flag**：任何一條 workflow 最新一次 on main 是 `failure` → Stage 3.5 第一個 polish item 是修它（per 2026-05-11 PM cycle 教訓：merge 路徑無 build 觸發 + PR-side CI ≠ main deploy CI 是已知 silent gap）。
+**Red flag**：任何一條 workflow 最新一次 on main 是 RED → Stage 3.5 第一個 polish item 是修它（per 2026-05-11 PM cycle 教訓：merge 路徑無 build 觸發 + PR-side CI ≠ main deploy CI 是已知 silent gap）。七態（GREEN／RED／BLOCKED／UNKNOWN／RUNNING／OFF-BRANCH／NEVER-ON-MAIN）由工具直接印出來，不用自己判。
 
 **為什麼改成 group-by 全表**（2026-09-03 maintainer-am）：本步驟原本寫死 `--workflow="Deploy to GitHub Pages"` 與 `"i18n Smoke Test"` 兩條。`Python tests` 從 2026-08-30 起在 main 上紅了四天沒有任何一輪 cycle 看到——它不在那兩個名字裡，而且它掛 `paths` filter，紅完之後就沒有再被觸發過，`gh run list` 的預設視窗裡也不會再出現。**點名式的健康檢查只看得到造它的人當時想得到的那幾條**（LESSONS `scaffold-window-has-no-qa` 的同型；REFLEXES #82 存在代理有效）。第一個受害者是一支跟它無關的投稿 PR（#1662 Windows UTF-8 修補）：它動了 `scripts/**/*.py`，於是繼承了 main 的紅，投稿者看到的是自己的 PR 紅了。**紅在 main 上不會自己叫，它會等下一個路過的人替它背黑鍋**。
+
+**為什麼 2026-09-27 又從 group-by 改成儀器**（twmd-maintainer-am）：上一段那個修補方向是對的，但那條可貼的指令換來另一種盲——**group-by 只看得到那 100 筆裡出現過的 workflow**。本 repo 的 babel 產線整點 commit、deploy 跟著跑，09-27 實測那 100 筆只涵蓋 **8.3 小時**（15:19Z → 23:35Z）。一條掛 paths filter 的 workflow 紅完之後不再被觸發，就會滑出這個窗，於是「最後一次跑成什麼樣」被悄悄換成「最近八小時跑過的那幾條長怎樣」——**上一段擔心的那種紅，正好是最容易滑出窗的那種紅**。跟 Step 1.5b 那段 snippet 是同一個病的第二次發作（REFLEXES #82／#15：可貼的指令會腐爛，儀器才會被 dogfood）。
+
+[`ci-main-health.sh`](../../scripts/tools/ci-main-health.sh) 改成**先列 workflow，再逐條問它自己的 runs endpoint**，窗口大小跟 main 的 commit 量脫鉤，工作流再冷門也看得到。首跑抽驗當場抓到新尺自己的兩個假陽性，兩個都已修（REFLEXES #99 尺先驗再用，新尺的讀數在抽驗之前不可引用）：
+
+- `?branch=main` 比對的是 `head_branch`，而**投稿者從自己 fork 的 main 送來的 PR，head branch 就叫 main**——一則 2026-04-01 投稿 PR 的失敗被讀成「Translation PR Check 在 main 紅了 178 天」。已濾掉 `pull_request` 事件。
+- `push:` 不等於「會在 main 上跑」：`push: {tags: [cli-v*]}` 是 tag 推送，分支永遠對不上，`npm-publish-cli` 因此被誤報成 NEVER-ON-MAIN。已改成只認帶 `branches` 或無細則的 push。
+
+刻意**不設**「幾天沒跑算 stale」的門檻：掛 paths filter 的 workflow 冷幾天是正常的，憑感覺設一個數字只會生假陽性（REFLEXES #66 門檻要用真實產出校準）。工具只印齡，判斷留給人。全綠的讀數本身也過了正控制（fixture 餵 failure／stale／不認得的值，三態都正確亮燈、`--strict` 回 1）。
 
 ### Step 1.5b: 每個 open PR 的 CI 有沒有被 arm（2026-08-14 新增，2026-08-19 儀器化）
 
@@ -1569,6 +1578,7 @@ _v2.0 | 2026-05-11 twmd-maintainer-pm-211549-v2-spine — Stage spine restoratio
 
 _最近 milestone（完整 changelog → `git log docs/pipelines/MAINTAINER-PIPELINE.md`）_：
 
+- **v2.14**（2026-09-27 twmd-maintainer-am）— Step 1.5 從可貼指令改成 [`ci-main-health.sh`](../../scripts/tools/ci-main-health.sh) 儀器：09-03 的 group-by 全表只涵蓋最近 100 筆 run，實測 8.3 小時，冷門 workflow 紅完就滑出窗；改成逐條問 workflow 自己的 runs endpoint。新尺首跑抽驗抓到自己兩個假陽性（fork PR 的 head branch 叫 main／`push: tags` 不是分支觸發），修完再過正控制
 - **v2.13**（2026-09-27 twmd-distill-weekly）— Step 3.5 補「commit 跑的是 pre-commit 那把 profile」，heal 完兩把都跑（LESSONS `prescribed-profile-is-not-the-gate-profile` → REFLEXES #100）
 - **v2.12**（2026-09-19 分岔合併）— Step 1.1b 分岔當班修（策略 B 12 步 + `merge-divergence.py`），「撞 conflict → abort」廢止
 - **v2.11**（2026-09-19 twmd-maintainer-am）— Step 3.0 動手前先認領（`--add-assignee @me`），跨機器平行偵測的第三層
