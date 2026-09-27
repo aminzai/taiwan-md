@@ -227,6 +227,15 @@ def main():
         # 連結，再按有無語言前綴分流判定。
         for match in re.findall(r"\]\((/[^)\s]+?)\)", text):
             path = match.rstrip("/").split("#")[0].split("?")[0]
+            # 2026-09-28：帶副檔名的是靜態檔（/article-images/…webp 等），住在
+            # public/ 不在 knowledge/。原本一律當文章查 .md，存在的圖片也被報
+            # 「目標不存在」，12 語 24 小時驗收裡假警報佔壞連結的一半以上。
+            if re.search(r"\.[A-Za-z0-9]{2,5}$", path):
+                if (REPO / "public" / path.lstrip("/")).exists():
+                    ok += 1
+                else:
+                    broken.append((p, match + "  ← 靜態檔不存在"))
+                continue
             if path.startswith(f"/{lang}/"):
                 target = REPO / f"knowledge{path}.md"
                 if target.exists():
