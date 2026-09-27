@@ -42,7 +42,7 @@ Fenomena kehilangan akar budaya ini menjadi semakin tajam akibat guncangan geopo
 
 Persis di latar belakang era seperti inilah, «menyanyikan lagu sendiri» tidak lagi sekadar slogan, melainkan sebuah gerakan kesadaran budaya. Orang muda tidak puas hanya menjadi penikmat musik barat, mereka ingin menggunakan bahasa mereka sendiri, cerita mereka sendiri, menciptakan suara yang milik tanah air ini.
 
-### Tiga Pelopor: Yang Hsien (楊弦), Hu Te-fu (胡德夫), Li Shuang-tse (李雙澤)
+## Tiga Pelopor: Yang Hsien (楊弦), Hu Te-fu (胡德夫), Li Shuang-tse (李雙澤)
 
 ### Yang Hsien: Penyebar Lagu Rakyat Modern
 

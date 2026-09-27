@@ -103,7 +103,7 @@ Ce phénomène de « rupture » littéraire est attribué par certains chercheur
 
 ## L'âge d'or du modernisme et les querelles littéraires (1960 – 1987)
 
-## L'essor du modernisme
+### L'essor du modernisme
 
 Dans les années 1960, la littérature taïwanaise entra dans l'âge d'or du modernisme. Avec la croissance économique apportée par l'aide américaine et la culture américaine, la littérature moderniste s'imposa.
 
@@ -127,13 +127,13 @@ Le cœur de cette querelle portait sur la question de la définition de la litt�
 
 ## La renaissance pluraliste après la levée de la loi martiale (1987 – aujourd'hui)
 
-## Le jalon de la reconnaissance littéraire
+### Le jalon de la reconnaissance littéraire
 
 En 1987, Taïwan leva la loi martiale, et la création littéraire obtint une liberté sans précédent. **La même année, _Esquisse d'une histoire de la littérature taïwanaise_ de Ye Shitao fut publiée, établissant l'histoire de la littérature taïwanaise comme une catégorie littéraire construisant sa propre histoire.**
 
 Cette œuvre répondit enfin à la question dérangeante de 1945 — Taïwan n'avait pas seulement une littérature, mais une tradition littéraire riche et profonde.
 
-## La renaissance de la littérature autochtone
+### La renaissance de la littérature autochtone
 
 Dans l'atmosphère de l'ère multiculturelle, la littérature autochtone commença à renaître. **En 1971, le Paiwan Chen Yingxiong publia _Le Chef tempête : histoires d'autochtones_, inaugurant la création littéraire moderne autochtone.**
 
@@ -143,19 +143,19 @@ En 1993, Sun Dachuan fonda la « Société culturelle Shanhai », ouvrant un esp
 
 Ces écrivains ne « nostalgisent pas le passé », mais « redéfinissent le présent » — ils utilisent des techniques littéraires contemporaines pour réinterpréter la sagesse et les valeurs tribales, permettant aux voix autochtones de redevenir, quatre siècles plus tard, l'un des courants dominants de la littérature taïwanaise.
 
-## La nouvelle génération et la création transdisciplinaire
+### La nouvelle génération et la création transdisciplinaire
 
 **Des écrivains de la nouvelle génération comme Luo Yijun, Hu Shuwen, Gan Yaoming, Wu Mingyi, Chen Xue et Yi Geyan, avec de nouvelles techniques créatives et de nouveaux sujets de préoccupation, ouvrent de nouvelles possibilités pour la littérature taïwanaise.** Leurs œuvres présentent souvent des caractéristiques transculturelles et transmédia, reflétant le nouveau visage de la littérature à l'ère de la mondialisation.
 
 **La littérature féminine est devenue une force importante dans le monde littéraire taïwanais.** _Le Meurtre du mari_ de Li Ang, avec son sujet audacieux et sa plume acérée, dénonce l'oppression des femmes par la société patriarcale traditionnelle. Des écrivaines comme Liao Huiying (_Les Graines de colza_), Su Weizhen et Xia Yu ont enrichi la perspective de genre de la littérature taïwanaise.
 
-## La littérature en langue maternelle et l'écriture écologique
+### La littérature en langue maternelle et l'écriture écologique
 
 Les développements importants après la levée de la loi martiale incluent **l'essor de la littérature en langue maternelle**, comme les créations littéraires en taïwanais de Xiang Yang, Lin Yangmin et Huang Jinlian, ainsi que les créations littéraires en hakka de Du Panfangge, Zeng Guihai et Huang Hengqiu.
 
 **Des écrivains comme Wu Mingyi, Liu Kexiang et Liao Hongji se consacrent à l'écriture naturaliste, portant attention aux questions environnementales**, démontrant la réflexion de la littérature taïwanaise sur la crise écologique. Cette « littérature écologique » enrichit non seulement le champ thématique de la littérature taïwanaise, mais incarne aussi la responsabilité sociale des écrivains contemporains.
 
-## Les nouvelles formes littéraires à l'ère numérique
+### Les nouvelles formes littéraires à l'ère numérique
 
 À l'entrée dans le 21e siècle, la littérature taïwanaise fait face au double défi de la mondialisation et de la numérisation. **La littérature en ligne a émergé, et _Le Premier baiser_ de Pizi Cai a inauguré la voie de la littérature nativement numérique.** La science-fiction, le polar, la fantasy et d'autres littératures de genre ont également connu un développement considérable.
 

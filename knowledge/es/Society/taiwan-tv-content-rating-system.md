@@ -74,7 +74,7 @@ La evolución del sistema de clasificación ha ido acompañada de una redefinici
 
 Con la convergencia digital, Taiwán ha ido integrando gradualmente los estándares de clasificación de diferentes medios. Actualmente, el cine (Ministerio de Cultura), la televisión (NCC), los programas de video (Ministerio de Cultura) y los juegos digitales (Ministerio de Desarrollo Digital) han implementado plenamente el "sistema de cinco niveles".
 
-## Autorregulación y supervisión de los juegos digitales
+### Autorregulación y supervisión de los juegos digitales
 
 La clasificación de los juegos digitales (GSRR) está a cargo del Ministerio de Desarrollo Digital. A diferencia del cine y la televisión, la clasificación de juegos enfatiza más el "registro voluntario" por parte de los desarrolladores.[^10] En la Taipei Game Show de 2026, el Ministerio de Desarrollo Digital promovió además el "Indicador de Juegos Amigables", combinando el sistema de clasificación con la confianza digital.[^11]
 

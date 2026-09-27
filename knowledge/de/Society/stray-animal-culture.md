@@ -329,7 +329,7 @@ Mamenzu ist das Gebiet mit der höchsten Dichte der Steinbären in Taiwan, und g
 
 ---
 
-## Die 5-Jahres-Statistik von Yonghe-Damm vs. die 5- bis 9-fache Haltungsrate
+### Die 5-Jahres-Statistik von Yonghe-Damm vs. die 5- bis 9-fache Haltungsrate
 
 In den letzten fünf Jahren wurden in den Nähe des Yonghe-Staudamms **nahezu tausend streunende Hunde** gefangen und umgesiedelt[^7]. Doch Zhang Jun Yi war ehrlich: „Die Rate, mit der wir fangen und kastrieren, hinkt weit hinterher, was die Menschen füttern, kombiniert mit dem Aussetzen und die Fortpflanzungsrate der Hunde.“[^7]
 

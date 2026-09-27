@@ -76,9 +76,9 @@ Berdasarkan penelitian Prof. Yang Wen-hsiung di National Cheng Kung University, 
 
 **Fenomena ini tidak ada di wilayah sastra berbahasa Tionghoa lainnya. Sastra Hong Kong maupun sastra kontemporer Tiongkok daratan, keduanya tidak pernah mengalami dominasi wanita di bidang prosa.**
 
-### Tiga Aliran Khusus Esai Taiwan
+## Tiga Aliran Khusus Esai Taiwan
 
-#### Penulisan Kehidupan: Dari Kenangan Pribadi ke Identitas Kolektif
+### Penulisan Kehidupan: Dari Kenangan Pribadi ke Identitas Kolektif
 
 Ciri khas terbesar esai Taiwan adalah „penulisan kehidupan” — mengangkat pengalaman sehari-hari ke tingkat kesusastraan. Tradisi ini bermula dari Chi Chun, dikembangkan oleh Lin Wen-yueh, Chang Hsiao-feng, dan Chien Mei, membentuk estetika yang unik.
 
@@ -88,7 +88,7 @@ Ciri khas terbesar esai Taiwan adalah „penulisan kehidupan” — mengangkat p
 
 **《女兒紅》 karya Chien Mei** (1988) mewakili kebangkitan kesadaran perempuan Taiwan pada 1980-an. Bahasanya lebih bebas, emosinya lebih langsung, narasinya lebih eksperimental. Ia menulis: „Aku adalah anggur putri, terkubur di kedalaman zaman, menunggu seseorang yang akan membukanya.”
 
-#### Penulisan Alam: Dari Pemandangan Literati ke Peduli Ekologi
+### Penulisan Alam: Dari Pemandangan Literati ke Peduli Ekologi
 
 Mulai 1980-an, esai Taiwan memunculkan aliran baru „penulisan alam”, yang berjalan seiring dengan kebangkitan kesadaran pelestarian lingkungan di Taiwan.
 
@@ -98,7 +98,7 @@ Mulai 1980-an, esai Taiwan memunculkan aliran baru „penulisan alam”, yang be
 
 Kemunculan esai semacam ini mencerminkan perhatian masyarakat Taiwan terhadap isu lingkungan, serta beresonansi dengan gerakan demokratisasi 1980-an — pengenalan ulang terhadap tanah air itu sendiri merupakan tindakan politik.
 
-#### Sastra Kuliner: Dari Keinginan Lidah ke Kenangan Budaya
+### Sastra Kuliner: Dari Keinginan Lidah ke Kenangan Budaya
 
 Pasca 1990-an, esai Taiwan mengembangkan aliran khusus lain: sastra kuliner.
 

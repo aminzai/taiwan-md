@@ -45,7 +45,7 @@ En aquel entonces, los conflictos tribales en Nigeria eran intensos y las centra
 
 A partir de 1969, Sun Yun-suan ocupó sucesivamente los cargos de Ministro de Economía y Primer Ministro (Presidente del Yuan Ejecutivo). Durante este período, Taiwán enfrentó una situación de crisis interna y externa, incluyendo su expulsión de las Naciones Unidas y la crisis del petróleo. Sun Yun-suan comprendió que, para sobrevivir, Taiwán debía pasar de una economía intensiva en mano de obra a una intensiva en tecnología [^1][^6].
 
-## El desayuno de los siete en la pequeña tienda de leche de soja Xinxinxin
+### El desayuno de los siete en la pequeña tienda de leche de soja Xinxinxin
 
 El 7 de febrero de 1974, por la mañana, en la "Tienda de Leche de Soja Xinxinxin" de la calle Nanyang en Taipéi, se celebraba un desayuno que cambiaría el destino de Taiwán. Los participantes incluían a Sun Yun-suan, Pan Wenyuan, Li Guoding, Fei Hua y otros tres más. En apenas una hora, llegaron a un consenso: Taiwán debía desarrollar la tecnología de circuitos integrados (CI) [^11].
 
@@ -62,7 +62,7 @@ Posteriormente, Sun Yun-suan impulsó la creación del **Instituto de Investigac
 
 Lo más elogiable de Sun Yun-suan, además de sus logros políticos, fue su integridad casi rigurosa. Durante su ejercicio en altos cargos, rechazó las comisiones de proveedores y las destinó a la formación de ingenieros; rechazó aumentos de salario, considerando que debía compartir las penurias con sus subordinados. En una época de inflación galopante, su esposa Yu Huixuan incluso tuvo que empeñar joyas traídas de Shanghái para complementar los gastos del hogar [^3][^4].
 
-## Hijo piadoso y padre afectuoso
+### Hijo piadoso y padre afectuoso
 
 Sun Yun-suan era profundamente piadoso con su madre. A pesar de sus ocupaciones oficiales, al llegar a casa cada noche la saludaba primero personalmente y le daba masajes en la espalda. Lamentó no haber podido cumplir con sus deberes filiales durante su formación en Estados Unidos, por lo que, tras regresar a Taiwán, valoró aún más el tiempo con su madre. Para sus hijos, aunque no pudo ofrecerles lujos, creó un ambiente familiar lleno de amor y humor. Jugaba almohadas con sus hijos e incluso, cuando su hija tenía acné, le aplicaba limón personalmente en la cara, mostrando el lado cálido detrás de la fachada severa del tecnócrata [^3].
 

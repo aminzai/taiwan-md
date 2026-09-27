@@ -84,7 +84,7 @@ Xie Yu-wei menyatukan penyanyi, aktor, pencipta, produser, pelukis dalam diri, l
 
 2001, Hakka Affairs Council Eksekutif Yuan didirikan, adalah badan khusus urusan kelompok Hakka yang didirikan pemerintah Taiwan. 2003, **TV Hakka** mulai siaran, menjadi saluran TV pertama di dunia yang siaran 24 jam penuh bahasa Hakka, sangat memperluas saluran penyebaran dan basis penonton musik bahasa Hakka. [^8]
 
-### Huang Lian-yu: Jalan Lain Penciptaan Tradisional
+## Huang Lian-yu: Jalan Lain Penciptaan Tradisional
 
 Huang Lian-yu adalah tokoh penting lain musik Hakka. Karya representatif _Lagu Gunung Satu Jalan_ mengarang ulang lagu gunung tradisional, dipadukan alat musik modern, mempertahankan rasa tradisional sambil menambah rasa zaman. Ia pemahaman budaya Hakka mendalam, selain penciptaan sendiri, juga lama menjabat promotor budaya Hakka.
 

@@ -168,7 +168,7 @@ L'impact de Hou Hsiao-hsien sur le cinéma taïwanais et mondial peut être anal
 **Niveau culturel** : Il a prouvé que le cinéma non occidental pouvait conquérir les festivals internationaux
 **Niveau spirituel** : Il a maintenu la pureté artistique, refusant tout compromis commercial
 
-## Disciples et héritage
+### Disciples et héritage
 
 Les réalisateurs taïwanais directement influencés par Hou Hsiao-hsien :
 
@@ -176,7 +176,7 @@ Les réalisateurs taïwanais directement influencés par Hou Hsiao-hsien :
 - **Ang Lee** : Bien qu'il se soit tourné vers Hollywood, on retrouve l'esthétique de Hou dans des œuvres comme Lust, Caution
 - **Edward Yang** : Bien que son style diffère, il partageait la même conviction envers le cinéma d'auteur
 
-## La persistance de la réputation internationale
+### La persistance de la réputation internationale
 
 Même après sa retraite, Hou Hsiao-hsien reste considéré par la communauté cinématographique internationale comme une « légende vivante » :
 

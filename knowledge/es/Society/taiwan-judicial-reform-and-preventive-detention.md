@@ -86,7 +86,7 @@ El Ministerio de Justicia expresó una idea similar en otra ocasión: "En la act
 
 ## Las voces en contra: cuando la "prevención" devora la "presunción"
 
-## Las siete propuestas principales de la JRF
+### Las siete propuestas principales de la JRF
 
 La Fundación para la Reforma Judicial (en adelante, JRF) es la institución que ha planteado las objeciones más sistemáticas en este debate. Su lista de propuestas de larga data sobre el sistema de detención incluye[^8]:
 
@@ -100,13 +100,13 @@ La Fundación para la Reforma Judicial (en adelante, JRF) es la institución que
 
 La séptima propuesta es, en su opinión, el problema más central: la ley vigente permite a los jueces determinar, con una "razón considerable" (un estándar más bajo que "motivos específicos"), que un acusado por un delito grave presenta riesgo de fuga o de connivencia, y proceder a su detención. La JRF considera que este umbral reducido "carece de legitimidad" y que los acusados por delitos graves quedan, en la práctica, detenidos antes del juicio[^8].
 
-## "No jugar con la justicia por motivos políticos"
+### "No jugar con la justicia por motivos políticos"
 
 En agosto de 2025, cuando el grupo parlamentario del Partido Popular propuso eliminar el supuesto de "connivencia", la JRF publicó un artículo de opinión criticando la calidad de dicha propuesta[^9]:
 
 Este artículo de opinión subrayaba al mismo tiempo un punto: la detención preventiva no es exclusiva de Taiwán. "Los sistemas legales de Alemania, Japón, Estados Unidos y otros países mantienen supuestos de detención similares; la normativa vigente de nuestro país tiene legitimidad en el derecho internacional." La JRF no pide la abolición del sistema, sino que **vuelva a la rigurosidad que le corresponde**[^9].
 
-## ¿Dónde está el límite de la presunción de inocencia
+### ¿Dónde está el límite de la presunción de inocencia
 
 El argumento central contra la ampliación sigue siendo el principio constitucional de **presunción de inocencia**. Tanto la Constitución como el Pacto Internacional de Derechos Civiles y Políticos establecen expresamente que, antes de una sentencia firme del tribunal, toda persona debe ser considerada inocente[^14].
 
@@ -116,7 +116,7 @@ La pregunta de la JRF es: cuando la detención preventiva pasa de ser la "excepc
 
 ## Otro eje: el movimiento por los derechos de las víctimas
 
-## De 1999 a 2026
+### De 1999 a 2026
 
 Mientras la Ley de Enjuiciamiento Criminal avanzaba en la dirección de "fortalecer los medios de investigación del Estado", otro eje de reforma también se aceleró en la década de 2020: la posición y el derecho de información de las víctimas en el proceso penal.
 
@@ -124,7 +124,7 @@ En enero de 1999 se aprobó la Ley de Protección de Víctimas de Delitos, y se 
 
 En enero de 2023 se aprobó una enmienda a la Ley de Protección de Víctimas de Delitos, incorporando al sistema formal las demandas impulsadas durante años por la "Alianza Ciudadana por la Protección de los Derechos de las Víctimas de Delitos" (presupuesto, personal y racionalización salarial)[^12].
 
-## La transparencia judicial y el acceso a las deliberaciones en 2025
+### La transparencia judicial y el acceso a las deliberaciones en 2025
 
 El 27 de junio de 2025, el Yuan Legislativo aprobó en tercera lectura una enmienda a la Ley Orgánica de los Tribunales, cuyos dos nuevos mecanismos cambiaron directamente la posición de las víctimas en el proceso penal[^5]:
 
@@ -135,7 +135,7 @@ Hasta entonces, las "deliberaciones" judiciales se celebraban a puerta cerrada; 
 
 Esta enmienda generó una controversia significativa durante el proceso legislativo. El Partido Democrático Progresista se opuso a la cláusula de transmisión en directo, argumentando que "se forzó la aprobación de un espectáculo de transmisiones judiciales a pesar de la oposición unánime de jueces, fiscales, abogados y académicos", expresando preocupación por su impacto en la imparcialidad del juicio; pero, con la ventaja numérica del Kuomintang y el Partido Popular, la enmienda fue aprobada de todos modos[^5].
 
-## Los dos ejes apuntan a un mismo nuevo principio
+### Los dos ejes apuntan a un mismo nuevo principio
 
 La enmienda a la Ley Orgánica de los Tribunales de 2025 y la enmienda a la Ley de Enjuiciamiento Criminal de 2026, tomadas en conjunto, revelan la dirección de la reforma judicial de Taiwán en estos dos años: **las víctimas no deben ser ignoradas por la opacidad del proceso judicial**.
 
@@ -145,7 +145,7 @@ La contradicción de la reforma judicial también reside aquí.
 
 ## Cómo lo hacen otros países
 
-## Japón: la "justicia rehén" bajo un límite de 23 días
+### Japón: la "justicia rehén" bajo un límite de 23 días
 
 La Ley de Enjuiciamiento Criminal de Japón establece que la detención previa a la acusación (denominada "kōryū") tiene un máximo de 23 días. Sin embargo, en la práctica, los fiscales pueden eludir este límite mediante la fragmentación de cargos o múltiples arrestos[^13].
 
@@ -153,7 +153,7 @@ El Comité de Derechos Humanos de las Naciones Unidas y Human Rights Watch han c
 
 A finales de 2023, Japón aprobó un sistema unificado de "penas de reclusión" (en vigor desde junio de 2025), que fusiona los trabajos forzados y la reclusión, priorizando la reinserción sobre el castigo puro. Pero el sistema de "kōryū" en sí mismo aún no ha sido reformado de raíz[^13].
 
-## Estados Unidos: de la fianza a la evaluación de riesgos
+### Estados Unidos: de la fianza a la evaluación de riesgos
 
 La Constitución de Estados Unidos garantiza en su Octava Enmienda el derecho del acusado a obtener fianza. Sin embargo, la Ley Federal de Reforma de la Fianza de 1984 introdujo una cláusula de preventive detention: para los acusados que "representen un peligro para la comunidad", se puede denegar la fianza[^14].
 
@@ -161,7 +161,7 @@ Este sistema ha generado profundas injusticias en la práctica: los acusados de 
 
 Desde 2019, el estado de Nueva York ha impulsado reformas, introduciendo "herramientas de evaluación de riesgos" (risk assessment tools) como sustituto de las cantidades fijas de fianza, en un intento de reducir el número de personas detenidas por su situación de pobreza[^14].
 
-## Alemania: un sistema completo de medidas alternativas escalonadas
+### Alemania: un sistema completo de medidas alternativas escalonadas
 
 El artículo 116 de la Ley de Enjuiciamiento Criminal de Alemania establece un sistema completo de medidas alternativas a la detención[^15]:
 
@@ -171,7 +171,7 @@ El artículo 116 de la Ley de Enjuiciamiento Criminal de Alemania establece un s
 
 La trayectoria histórica de este sistema es en realidad similar a la de Taiwán: en la década de 1950, el supuesto de "probabilidad de reincidencia" se aplicaba inicialmente solo a delitos sexuales específicos, y a partir de agosto de 1972 se extendió a una serie de delitos graves. La doctrina jurídica alemana reconoce directamente que la detención previa al juicio "se ha convertido en una herramienta combinada con fines punitivos y de prevención del delito", oscilando entre "garantizar el desarrollo del procedimiento" y "suprimir la prevención del delito"[^15].
 
-## La posición de Taiwán
+### La posición de Taiwán
 
 Tras comparar los tres países, la posición de Taiwán es clara:
 

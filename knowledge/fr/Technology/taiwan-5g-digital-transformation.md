@@ -47,7 +47,7 @@ Sur le plan social, la transformation numérique touche à la fois la sécurité
 
 ## Historique du développement de la 5G à Taïwan
 
-## Attribution du spectre et lancement commercial
+### Attribution du spectre et lancement commercial
 
 Le développement de la 5G à Taïwan a commencé par la planification du spectre, le gouvernement utilisant l'attribution rapide de fréquences et les subventions à la construction comme principaux outils :
 
@@ -69,7 +69,7 @@ En décembre 2019, les enchères pour le spectre 5G ont débuté, pour un montan
 
 > ※ Taiwan Star a finalisé sa fusion avec Taiwan Mobile en mai 2023 et a depuis été intégré sous la marque Taiwan Mobile[^4].
 
-## Déploiement rapide des infrastructures
+### Déploiement rapide des infrastructures
 
 La vitesse de déploiement des stations de base 5G à Taïwan est parmi les plus élevées au monde, les subventions gouvernementales ayant accéléré le calendrier de construction :
 
@@ -87,7 +87,7 @@ D'environ 4 000 stations à fin 2020 à plus de 29 087 en mars 2023[^5], le nomb
 - Taux de couverture des autoroutes : plus de 85 %
 - Taux de couverture le long de la ligne du train à grande vitesse : plus de 90 %
 
-## Soutien politique gouvernemental
+### Soutien politique gouvernemental
 
 Le gouvernement a accéléré le déploiement de la 5G à travers plusieurs instruments politiques :
 
@@ -100,7 +100,7 @@ En 2021, une loi visant à accélérer l'investissement a été adoptée, alloua
 
 ## Le plan DIGI+ : feuille de route pour une nation numérique
 
-## Contexte et objectifs du plan
+### Contexte et objectifs du plan
 
 Le « Plan pour une nation numérique et le développement de l'économie innovante (2017-2025) » constitue la stratégie globale de transformation numérique de Taïwan, abrégé en plan DIGI+.
 
@@ -119,53 +119,53 @@ Le sigle « DIGI+ » se décline en cinq axes : Development (développement des 
 4. **Territoire numérique** : établir un territoire numérique sûr et résilient
 5. **Inclusion numérique** : créer une société numérique équitable et accessible
 
-## Sept axes d'action principaux
+### Sept axes d'action principaux
 
 Le plan DIGI+ comprend sept axes couvrant les infrastructures ainsi que les services applicatifs :
 
-### 1. Environnement fondamental de l'innovation numérique
+#### 1. Environnement fondamental de l'innovation numérique
 
 - Déploiement de réseaux ultra-haut débit (fibre optique, 5G)
 - Plateformes de services cloud
 - Zones d'expérimentation pour l'Internet des objets
 - Gouvernance et ouverture des données
 
-### 2. Montée en puissance de l'économie numérique
+#### 2. Montée en puissance de l'économie numérique
 
 - Accompagnement de la transformation numérique des industries
 - Incubation de start-ups
 - Développement du commerce électronique transfrontalier
 - Services financiers numériques
 
-### 3. Services gouvernementaux numériques
+#### 3. Services gouvernementaux numériques
 
 - Intégration des services gouvernementaux numériques en un portail unique
 - Mécanisme d'identification numérique
 - Ouverture des données gouvernementales
 - Plateformes de participation citoyenne
 
-### 4. Protection des droits numériques
+#### 4. Protection des droits numériques
 
 - Cadre juridique de protection des données personnelles
 - Protection de la sécurité de l'information
 - Renforcement de la littératie numérique
 - Réduction de la fracture numérique
 
-### 5. Protection du territoire numérique
+#### 5. Protection du territoire numérique
 
 - Protection des infrastructures critiques
 - Système de défense collaborative en cybersécurité
 - Gouvernance nationale de la cybersécurité
 - Construction de la résilience numérique
 
-### 6. Formation des talents numériques
+#### 6. Formation des talents numériques
 
 - Formation aux compétences numériques
 - Programmes de coopération industrie-académie
 - Échanges internationaux de talents
 - Systèmes d'apprentissage tout au long de la vie
 
-### 7. Applications pour villes et campagnes intelligentes
+#### 7. Applications pour villes et campagnes intelligentes
 
 - Systèmes de transport intelligents
 - Services médicaux intelligents
@@ -174,7 +174,7 @@ Le plan DIGI+ comprend sept axes couvrant les infrastructures ainsi que les serv
 
 ## Création du ministère du Développement numérique
 
-## Intégration organisationnelle et missions
+### Intégration organisationnelle et missions
 
 Le 27 août 2022, le ministère du Développement numérique a été officiellement créé, marquant une étape importante dans la gouvernance numérique de Taïwan[^11].
 
@@ -193,7 +193,7 @@ Le ministère a regroupé le département de gestion de l'information du Conseil
 
 Le ministère comprend trois unités opérationnelles principales : la Direction du gouvernement numérique, l'Agence de l'industrie numérique et la Direction de l'information et de la cybersécurité, ainsi que la Direction du réseau démocratique et la Direction de la planification globale.
 
-## Politiques et programmes importants
+### Politiques et programmes importants
 
 Depuis sa création, le ministère a promu plusieurs politiques importantes :
 
@@ -220,7 +220,7 @@ Depuis sa création, le ministère a promu plusieurs politiques importantes :
 
 ## Déploiement des domaines d'application de la 5G
 
-## Applications sectorielles verticales
+### Applications sectorielles verticales
 
 Taïwan promeut le déploiement de la 5G dans divers secteurs verticaux, en validant les modèles économiques par l'expérimentation sur le terrain :
 
@@ -254,7 +254,7 @@ L'agriculture de précision combine des capteurs IoT avec la transmission de don
 - **Pêche intelligente** : surveillance environnementale de l'aquaculture en mer
 - **Traçabilité des produits agricoles** : suivi par blockchain combiné à la 5G
 
-## Déploiement de réseaux privés et modèles économiques
+### Déploiement de réseaux privés et modèles économiques
 
 Les réseaux privés 5G (Private Network) permettent aux entreprises de disposer d'un environnement réseau géré de manière autonome, constituant une infrastructure clé de transformation numérique pour les domaines exigeant une haute fiabilité, tels que l'automatisation d'usine, la connectivité hospitalière ou l'intelligence portuaire.
 
@@ -274,7 +274,7 @@ Le MaaS (Mobilité en tant que service) intègre plusieurs options de déplaceme
 
 ## Défis et difficultés
 
-## Taux de pénétration des utilisateurs faible
+### Taux de pénétration des utilisateurs faible
 
 L'infrastructure 5G de Taïwan figure parmi les meilleures au monde, mais le taux de pénétration des utilisateurs n'est que de 25 %, bien inférieur à la Corée du Sud (45 %) et aux États-Unis (35 %), révélant un écart significatif entre le déploiement d'infrastructures et l'adoption des applications.
 
@@ -292,7 +292,7 @@ L'infrastructure 5G de Taïwan figure parmi les meilleures au monde, mais le tau
 3. **Différence d'expérience limitée** : l'utilisation quotidienne ne diffère pas sensiblement de la 4G
 4. **Coût des terminaux** : le prix des téléphones 5G reste élevé
 
-## Développement lent des applications commerciales
+### Développement lent des applications commerciales
 
 Les applications B2B au niveau des entreprises font face à de multiples défis : le coût de déploiement des réseaux privés 5G est élevé, l'intégration aux systèmes existants est complexe, et le retour sur investissement reste incertain, ce qui incite les entreprises à la prudence plutôt qu'à l'action.
 
@@ -310,7 +310,7 @@ Les applications B2B au niveau des entreprises font face à de multiples défis 
 - Problèmes d'adaptation réglementaire
 - Préoccupations en matière de cybersécurité
 
-## Pression de la concurrence internationale
+### Pression de la concurrence internationale
 
 Le développement de la 5G à Taïwan fait face à une concurrence internationale intense, provenant principalement de deux directions : la dépendance technologique et la géopolitique.
 
@@ -328,7 +328,7 @@ Le développement de la 5G à Taïwan fait face à une concurrence international
 
 ## Résultats et impact de la transformation numérique
 
-## Bénéfices économiques
+### Bénéfices économiques
 
 Depuis la mise en œuvre du plan DIGI+, la taille de l'économie numérique est passée de 1 200 milliards de dollars NT en 2017 à 1 700 milliards en 2023[^7], les investissements dans les start-ups ont augmenté de 20 % par an, et les emplois liés au numérique ont augmenté de 150 000.
 
@@ -346,7 +346,7 @@ Depuis la mise en œuvre du plan DIGI+, la taille de l'économie numérique est 
 - Augmentation annuelle de 25 % du volume des transactions de commerce électronique
 - Taux de couverture des services financiers numériques atteignant 85 %
 
-## Impact social
+### Impact social
 
 La transformation numérique a modifié le fonctionnement social de Taïwan au quotidien : les services en ligne atteignent 95 %, le taux de pénétration des factures électroniques est de 90 %, et le taux de pénétration du paiement mobile est de 80 %.
 
@@ -364,7 +364,7 @@ La transformation numérique a modifié le fonctionnement social de Taïwan au q
 - Maturité des plateformes d'éducation en ligne
 - Extension des services de ville intelligente
 
-## Renforcement de la position internationale
+### Renforcement de la position internationale
 
 Taïwan a significativement progressé dans les classements mondiaux de compétitivité numérique :
 
@@ -377,7 +377,7 @@ Taïwan a significativement progressé dans les classements mondiaux de compéti
 
 ## Orientations futures
 
-## Déploiement prospectif de la 6G
+### Déploiement prospectif de la 6G
 
 Taïwan a lancé la recherche préliminaire sur la 6G, avec le début des études technologiques en 2024, l'objectif de participer à l'élaboration des normes internationales en 2027, la validation technologique en 2029, et la perspective de disposer des bases d'un service commercial en 2030.
 
@@ -388,7 +388,7 @@ Taïwan a lancé la recherche préliminaire sur la 6G, avec le début des étude
 - Réseaux nativement basés sur l'intelligence artificielle
 - Technologies de communication holographique
 
-## Renforcement de la résilience numérique
+### Renforcement de la résilience numérique
 
 Face aux incertitudes mondiales, Taïwan renforce sa résilience numérique globale en se concentrant sur la diversification des chaînes d'approvisionnement et l'autonomie dans les technologies clés.
 
@@ -406,7 +406,7 @@ Face aux incertitudes mondiales, Taïwan renforce sa résilience numérique glob
 - Gouvernance des flux transfrontaliers de données
 - Protection des droits numériques
 
-## Transformation numérique vers la neutralité carbone
+### Transformation numérique vers la neutralité carbone
 
 Les objectifs de neutralité carbone et la transformation numérique convergent : l'efficacité énergétique des centres de données, l'alimentation solaire des stations de base et les réseaux intelligents nécessitent une avancée simultanée des infrastructures numériques et de la transition verte.
 
@@ -426,7 +426,7 @@ Les objectifs de neutralité carbone et la transformation numérique convergent 
 
 ## Position et influence mondiales
 
-## Rôle dans la région Asie-Pacifique
+### Rôle dans la région Asie-Pacifique
 
 Le rôle de Taïwan dans le développement numérique de l'Asie-Pacifique repose sur deux piliers qui se renforcent mutuellement : l'exportation technologique côté fabrication (puces semi-conducteurs, équipements réseau) et la participation aux spécifications côté normalisation (3GPP, IEEE 802.11). Cette double approche « fabrication + normalisation » rend la position de Taïwan dans les chaînes d'approvisionnement numériques mondiales plus difficile à remplacer.
 
@@ -446,7 +446,7 @@ Les résultats de Taïwan dans le classement IMD de compétitivité numérique (
 - Participation aux recommandations de l'UIT-T
 - Promotion des architectures réseau ouvertes
 
-## Partenariats de coopération internationale
+### Partenariats de coopération internationale
 
 Taïwan a établi des relations de coopération numérique internationale à plusieurs niveaux, l'accord de coopération technologique Taïwan-États-Unis et le dialogue de coopération numérique Taïwan-Japon étant les deux axes les plus avancés en termes de réalisations concrètes.
 

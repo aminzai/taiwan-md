@@ -40,7 +40,7 @@ On the social front, digital transformation involves two dimensions simultaneous
 
 ## Taiwan's 5G Development Timeline
 
-## Spectrum Auction and Commercial Launch
+### Spectrum Auction and Commercial Launch
 
 Taiwan's 5G development began with spectrum planning, with the government using rapid spectrum release and construction subsidies as primary tools:
 
@@ -62,7 +62,7 @@ In December 2019, the 5G spectrum auction began, reaching a total bid value of N
 
 > ※ Taiwan Star completed its merger with Taiwan Mobile in May 2023 and has since been integrated under Taiwan Mobile[^4].
 
-## Rapid Infrastructure Deployment
+### Rapid Infrastructure Deployment
 
 Taiwan's 5G base station construction pace leads globally, with government subsidies accelerating the buildout timeline:
 
@@ -80,7 +80,7 @@ From approximately 4,000 stations at the end of 2020 to over 29,087 in March 202
 - Expressway coverage: over 85%
 - High-speed rail corridor coverage: over 90%
 
-## Government Policy Support
+### Government Policy Support
 
 The government has accelerated 5G deployment through multiple policy tools:
 
@@ -93,7 +93,7 @@ In 2021, the Accelerated Investment Act was passed, allocating NT$15.5 billion i
 
 ## The DIGI+ Program: Blueprint for a Digital Nation
 
-## Program Background and Objectives
+### Program Background and Objectives
 
 The "Digital Nation and Innovative Economic Development Program (2017–2025)" is Taiwan's overarching digital transformation strategy, known as the DIGI+ Program.
 
@@ -112,53 +112,53 @@ The acronym "DIGI+" maps to five dimensions: Development (building infrastructur
 4. **Digital Territory**: Establish a secure, resilient digital territory
 5. **Digital Inclusion**: Create an equitable, accessible digital society
 
-## Seven Pillars of Action Plans
+### Seven Pillars of Action Plans
 
 The DIGI+ Program encompasses seven pillars spanning infrastructure to application services:
 
-### 1. Digital Innovation Infrastructure
+#### 1. Digital Innovation Infrastructure
 
 - Ultra-broadband network construction (fiber, 5G)
 - Cloud service platforms
 - IoT testbeds
 - Data governance and open data
 
-### 2. Digital Economy Advancement
+#### 2. Digital Economy Advancement
 
 - Industry digital transformation consulting
 - Startup incubation
 - Cross-border e-commerce development
 - Digital financial services
 
-### 3. Digital Government Services
+#### 3. Digital Government Services
 
 - One-stop integration of government digital services
 - Digital identity verification mechanisms
 - Open government data
 - Public participation platforms
 
-### 4. Digital Rights Protection
+#### 4. Digital Rights Protection
 
 - Personal data protection legislation
 - Information security safeguards
 - Digital literacy enhancement
 - Digital divide reduction
 
-### 5. Digital Territory Protection
+#### 5. Digital Territory Protection
 
 - Critical infrastructure protection
 - Cybersecurity joint defense framework
 - National cybersecurity governance
 - Digital resilience building
 
-### 6. Digital Talent Development
+#### 6. Digital Talent Development
 
 - Digital skills training
 - Industry-academia collaboration programs
 - International talent exchange
 - Lifelong learning systems
 
-### 7. Smart City and Rural Applications
+#### 7. Smart City and Rural Applications
 
 - Smart transportation systems
 - Smart healthcare services
@@ -167,7 +167,7 @@ The DIGI+ Program encompasses seven pillars spanning infrastructure to applicati
 
 ## Establishment of the Ministry of Digital Affairs
 
-## Organizational Integration and Mission
+### Organizational Integration and Mission
 
 On August 27, 2022, the Ministry of Digital Affairs (moda) was formally established, marking a significant milestone in Taiwan's digital governance[^11].
 
@@ -186,7 +186,7 @@ moda integrated the National Development Council's Department of Information Man
 
 moda comprises three core operational units — the Department of Digital Government, the Digital Industry Department, and the Department of Information and Cybersecurity — along with the Department of Democracy Network and the Department of Comprehensive Planning.
 
-## Key Policies and Programs
+### Key Policies and Programs
 
 Since its establishment, moda has advanced several important policies:
 
@@ -213,41 +213,41 @@ Since its establishment, moda has advanced several important policies:
 
 ## 5G Application Domain Development
 
-## Vertical Domain Applications
+### Vertical Domain Applications
 
 Taiwan is promoting 5G applications across various vertical domains, using field trials to validate business models:
 
 Smart manufacturing is the most concretely advanced domain. Both Foxconn's Tucheng factory and TSMC's 5G use cases have demonstrated viable paths from pilot to scale.
 
-### Smart Manufacturing
+#### Smart Manufacturing
 
 Foxconn's Tucheng factory combines a 5G private network with AI-based quality inspection, while TSMC has deployed a 5G AGV (Automated Guided Vehicle) system. Both cases have entered mass production application.
 
 - **China Steel**: 5G remote operation and AR maintenance
 - **Expected benefits**: 20–30% improvement in production efficiency
 
-### Smart Healthcare
+#### Smart Healthcare
 
 5G telemedicine connects rural medical resources, and surgical live-streaming teaching enables cross-hospital real-time instruction through 4K/8K ultra-high-definition transmission.
 
 - **AI-assisted diagnosis**: Real-time image analysis and recommendations
 - **Emergency medicine**: Real-time connection between ambulances and hospitals
 
-### Smart Transportation
+#### Smart Transportation
 
 The Shalun testbed in Tainan is currently the largest-scale autonomous driving testing site, while smart signal systems optimize intersection management using real-time traffic data.
 
 - **Connected vehicle applications**: V2X communication technology development
 - **Drone delivery**: Last-mile logistics for rural areas
 
-### Smart Agriculture
+#### Smart Agriculture
 
 Precision agriculture combines IoT sensors with 5G data transmission. Drones can conduct real-time monitoring over large farmland areas, reducing labor costs.
 
 - **Smart fisheries**: Offshore aquaculture environment monitoring
 - **Agricultural product traceability**: Blockchain combined with 5G tracking
 
-## Private Network Deployment and Business Models
+### Private Network Deployment and Business Models
 
 5G private networks allow enterprises to build self-managed network environments, serving as critical digital transformation infrastructure for high-reliability use cases such as factory automation, hospital connectivity, and port intelligence.
 
@@ -267,7 +267,7 @@ MaaS (Mobility as a Service) integrates multiple transportation options; HealthT
 
 ## Challenges and Difficulties
 
-## Low Subscriber Penetration
+### Low Subscriber Penetration
 
 Taiwan's 5G infrastructure is among the world's best, yet subscriber penetration is approximately 25% — far below South Korea's 45% and the United States' 35% — revealing a significant gap between infrastructure and application adoption.
 
@@ -285,7 +285,7 @@ Taiwan's 5G infrastructure is among the world's best, yet subscriber penetration
 3. **Limited experiential difference**: Everyday use shows little improvement over 4G
 4. **Device costs**: 5G smartphone prices remain relatively high
 
-## Slow Commercial Application Development
+### Slow Commercial Application Development
 
 B2B enterprise-level applications face multiple challenges: high 5G private network deployment costs, complex integration with legacy systems, and unclear return on investment — causing enterprises to观望 rather than act.
 
@@ -303,7 +303,7 @@ B2B enterprise-level applications face multiple challenges: high 5G private netw
 - Regulatory adaptation issues
 - Cybersecurity concerns
 
-## International Competitive Pressure
+### International Competitive Pressure
 
 Taiwan's 5G development faces intense international competition, primarily from two directions: technology dependence and geopolitics.
 
@@ -321,7 +321,7 @@ Taiwan's 5G development faces intense international competition, primarily from 
 
 ## Digital Transformation Outcomes and Impact
 
-## Economic Benefits
+### Economic Benefits
 
 Since the implementation of the DIGI+ Program, the digital economy has grown from NT$12 trillion in 2017 to NT$17 trillion in 2023[^7], with startup investment growing 20% annually and digital-related employment increasing by 150,000 jobs.
 
@@ -339,7 +339,7 @@ Since the implementation of the DIGI+ Program, the digital economy has grown fro
 - E-commerce transaction volume grew 25% annually
 - Digital financial services coverage reached 85%
 
-## Social Impact
+### Social Impact
 
 Digital transformation has changed the fabric of daily life in Taiwan at the practical level: online application services reach 95%, electronic invoice adoption is at 90%, and mobile payment penetration is at 80%.
 
@@ -357,7 +357,7 @@ Digital transformation has changed the fabric of daily life in Taiwan at the pra
 - Online education platforms matured
 - Smart city services expanded
 
-## Enhanced International Standing
+### Enhanced International Standing
 
 Taiwan has achieved significant improvement in global digital competitiveness rankings:
 
@@ -370,7 +370,7 @@ Taiwan has achieved significant improvement in global digital competitiveness ra
 
 ## Future Development Directions
 
-## 6G Forward Deployment
+### 6G Forward Deployment
 
 Taiwan has initiated 6G preliminary research, beginning technology studies in 2024, targeting participation in international standards setting by 2027, conducting technology verification by 2029, and aiming for commercial service readiness by 2030.
 
@@ -381,7 +381,7 @@ Taiwan has initiated 6G preliminary research, beginning technology studies in 20
 - AI-native networks
 - Holographic communication technology
 
-## Digital Resilience Strengthening
+### Digital Resilience Strengthening
 
 In the face of global uncertainty, Taiwan is strengthening overall digital resilience through supply chain diversification and key technology autonomy.
 
@@ -399,7 +399,7 @@ In the face of global uncertainty, Taiwan is strengthening overall digital resil
 - Cross-border data flow governance
 - Digital human rights protection
 
-## Net-Zero Digital Transformation
+### Net-Zero Digital Transformation
 
 Net-zero emissions targets and digital transformation are converging: data center energy efficiency, solar-powered base stations, and smart grids all require digital infrastructure and green transformation to advance in tandem.
 
@@ -419,7 +419,7 @@ Net-zero emissions targets and digital transformation are converging: data cente
 
 ## Global Position and Influence
 
-## Asia-Pacific Regional Role
+### Asia-Pacific Regional Role
 
 Taiwan's role in Asia-Pacific digital development is built on two mutually reinforcing foundations: manufacturing-side technology output (semiconductor chips, network equipment) and standards-side specification participation (3GPP, IEEE 802.11). This "manufacturing + standards" dual-track positioning makes Taiwan's role in the global digital supply chain harder to replace.
 
@@ -439,7 +439,7 @@ Taiwan's achievements in the IMD Digital Competitiveness Ranking (9th) and the O
   | ITU-T recommendation participation
 - Open network architecture promotion
 
-## International Cooperative Partnerships
+### International Cooperative Partnerships
 
 Taiwan has established multi-layered international digital cooperation relationships, with the Taiwan-US Science and Technology Cooperation Agreement and the Taiwan-Japan Digital Cooperation Dialogue being the two most substantively advanced axes.
 

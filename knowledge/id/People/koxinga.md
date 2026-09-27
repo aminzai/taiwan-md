@@ -83,7 +83,7 @@ Setelah membaca surat-surat yang dicegat tersebut, mungkin Zheng Chenggong mulai
 
 Setelah mundur ke Xiamen, pemerintah Tiongkok mengeluarkan perintah pemindahan penduduk, memaksa semua penduduk dalam radius tiga puluh mil dari pantai untuk pindah ke pedalaman, serta membakar rumah dan kapal mereka guna memutus pasokan bagi pasukan Zheng. Pesisir Tenggara berubah menjadi tanah hangus. Zheng Chenggong membutuhkan basis baru, jika tidak, Kekaisaran Lautannya akan mati karena blokade.
 
-### Sembilan Bulan: Dari Pendaratan hingga Pendirian Negara
+## Sembilan Bulan: Dari Pendaratan hingga Pendirian Negara
 
 Pada tahun 1659, seseorang bernama He Bin melarikan diri dari orang Belanda ke Xiamen dan membawa peta Taiwan serta sebuah usulan: merebut Taiwan.
 

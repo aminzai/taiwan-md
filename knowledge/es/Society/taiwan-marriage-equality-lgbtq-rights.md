@@ -75,7 +75,7 @@ El rechazo era previsible. Pero Chi Chia-wei no buscaba un éxito inmediato; lo 
 
 ## La guerra de un solo hombre
 
-## La indiferencia y los insultos de la sociedad
+### La indiferencia y los insultos de la sociedad
 
 Entre finales de la década de 1980 y principios de la de 1990, las personas homosexuales seguían siendo un grupo altamente estigmatizado en Taiwán. Chi Chia-wei participó en movimientos sociales con su identidad pública y fue frecuentemente insultado y ridiculizado por transeúntes.
 
@@ -143,7 +143,7 @@ Pero esta derrota también impulsó una importante reflexión social: **¿deben 
 
 ## 17 de mayo de 2019: Los 66 votos históricos
 
-## El Día Internacional contra la Homofobia
+### El Día Internacional contra la Homofobia
 
 El 17 de mayo de 2019 — el "Día Internacional contra la Homofobia, la Transfobia y la Bifobia" — el Yuan Legislativo aprobó en tercera lectura la _Ley de Aplicación de la Interpretación n.º 748 del Tribunal Constitucional_.
 

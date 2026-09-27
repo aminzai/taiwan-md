@@ -82,20 +82,20 @@ On YouTube, his music videos have accumulated over 5.1 billion views in total, w
 
 ## Inevitable Controversies and Questions
 
-## The Ambiguous Zone of Political Stance
+### The Ambiguous Zone of Political Stance
 
 Jay Chou's political positioning has always been a sensitive topic in cross-strait discourse. He has publicly stated "I am Chinese," while also saying "I was born and raised in Taiwan — I am also Taiwanese." During the 2008 Beijing Olympics, he expressed hope that the Olympics would be held in "his own country," drawing criticism from Taiwan's green camp.
 
 This ambiguous positioning has allowed him to maintain commercial success on both sides of the strait, but it has also led many to question whether his stance is driven more by business than by conviction. In 2020, Chinese state media cited his words in defense of other artists, once again pulling him into political controversy.
 
-## The Phanta Bear NFT Controversy
+### The Phanta Bear NFT Controversy
 
 In early 2022, Jay Chou was swept into an NFT controversy. He changed his Instagram profile picture to a Phanta Bear NFT, triggering a market frenzy in which the project recorded NT$280 million in trading volume within a single day. JVR Music quickly issued a statement clarifying that Jay Chou "did not participate in any commercial planning or operations, and did not receive any proceeds."
 
 > **⚠️ Controversial perspective**  
 > The agency explained that the NFT was not a "collaboration" with Chou but rather a product licensed by his friend Tony Chiang's PHANTACi brand. Nevertheless, the episode highlighted the contentious nature of celebrity influence in the cryptocurrency market.
 
-## Ghostwriting Allegations
+### Ghostwriting Allegations
 
 Over the years, Jay Chou's creative team has included several behind-the-scenes contributors, including lyricist Huang Jun-lang. Huang once vented on social media about the pressures of the creative process, sparking outside speculation about whether Chou's works are entirely original. While collaborative creation is standard practice in the music industry, for an artist who has built his brand on originality, such questions persist.
 

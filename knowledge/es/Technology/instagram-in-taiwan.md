@@ -35,7 +35,7 @@ La difusión inicial de Instagram en Taiwán siguió la ruta de las comunidades 
 
 📝 Nota del curador: En Taiwán, los filtros de IG son un contrato social: todos acuerdan mostrar solo el 5 % más brillante de sus vidas.
 
-## Las cifras detrás de los patrones de uso
+### Las cifras detrás de los patrones de uso
 
 El informe _Digital 2025: Taiwan_ de DataReportal señala que la tasa de alcance publicitario de Instagram en Taiwán ya alcanza el 48,8 % de la población total; entre los adultos taiwaneses mayores de 18 años, más del 56,2 % son usuarios activos[^3]. El informe TWNIC 2025 muestra, por su parte, que la tasa de uso de Instagram se sitúa como la segunda red social más usada en Taiwán (21,07 %), con un descenso respecto al 23,89 % de 2024[^4].
 

@@ -43,7 +43,7 @@ Dos escenarios en Venecia, separados por cuarenta años, trazan el arco completo
 
 ## Era pionera (1980-2000)
 
-## Experimentos con video en torno a la levantamiento de la ley marcial
+### Experimentos con video en torno a la levantamiento de la ley marcial
 
 En 1987, Taiwán levantó la ley marcial y el aire social se agitó violentamente. Durante ese período, un grupo de artistas jóvenes tomó las cámaras de video y filmación que entonces comenzaban a popularizarse, apuntando el objetivo hacia sí mismos, hacia las calles y hacia la memoria reprimida de esta isla durante décadas.
 
@@ -57,7 +57,7 @@ El arte de nuevos medios en Taiwán durante este período tenía una caracterís
 
 ## El despertar digital (2000-2010)
 
-## Impulso político y nacimiento de instituciones
+### Impulso político y nacimiento de instituciones
 
 La década de 2000 fue un decenio clave para la "institucionalización" del arte de nuevos medios en Taiwán. En 2001, el Museo de Arte Contemporáneo de Taipéi (MoCA Taipei) abrió sus puertas en el antiguo edificio de la escuela primaria Jiànchéng de la era colonial japonesa, convirtiéndose en el primer museo de Taiwán dedicado exclusivamente al arte contemporáneo[^4]. Ese mismo año se fundó la Fundación de Arte Digital, que posteriormente asumió la curaduría y operación del Festival de Arte Digital de Taipéi. En 2006 se inauguró la primera edición del Festival de Arte Digital de Taipéi, la primera gran exposición anual de Taiwán dedicada al arte digital[^5], invitando a artistas internacionales y creadores locales a dialogar en un mismo escenario. Se han celebrado cerca de veinte ediciones hasta la fecha.
 
@@ -69,7 +69,7 @@ En 2010, **LuxuryLogico** (豪華朗機工) fue fundado por cuatro miembros: Ken
 
 ## Explosión internacional (2010-2020)
 
-## Hsin-Chien Huang: el avance internacional del arte en RV
+### Hsin-Chien Huang: el avance internacional del arte en RV
 
 **Hsin-Chien Huang** (n. 1966, Taipéi) se graduó en ingeniería mecánica en la Universidad Nacional de Taiwán y posteriormente estudió en Estados Unidos, donde obtuvo una licenciatura en diseño de producto en el ArtCenter College of Design de California y un máster en diseño en el Instituto Tecnológico de Illinois. En la década de 1990 fue director artístico en Sega y Sony, y en 1995 diseñó para Laurie Anderson la obra en CD-ROM _Puppet Motel_, iniciando una asociación creativa que duraría más de veinte años. En 2001 regresó a Taiwán y fundó el estudio Story Nest, dedicándose desde entonces plenamente a la creación de arte de nuevos medios.
 
@@ -79,25 +79,25 @@ Las obras de RV de Huang no siguen la línea del entretenimiento, sino que utili
 
 > "Lo que hago con la RV es un viaje interior, no un espectáculo exterior. El espectador entra para encontrarse a sí mismo." — Hsin-Chien Huang
 
-## Chia-Wei Hsu: el multiverso de la arqueología audiovisual
+### Chia-Wei Hsu: el multiverso de la arqueología audiovisual
 
 **Chia-Wei Hsu** (n. 1983) revisita historias olvidadas a través de instalaciones de video. Su método creativo se asemeja al de un arqueólogo: trabajo de campo, consulta de archivos, entrevistas con los protagonistas y, a continuación, reconstrucción de los lugares donde la historia se fracturó mediante instalaciones de video multicanal. _Marshal Tie Jia_ (2012) rastrea los flujos de creencias entre Taiwán y el sudeste asiático; _Ruins of the Intelligence Bureau_ (2017) desentierra vestigios de redes de inteligencia de la Guerra Fría; _Takasago_ (2019) reexplora la historia de los pueblos indígenas de Taiwán movilizados por el Imperio japonés. Hsu ganó el primer premio del Premio de Bellas Artes de Taipéi (2012) y sus obras se han exhibido en la Bienal de Taipéi, la Bienal de Sídney y otras importantes exposiciones[^6].
 
-## Huang Yi: cuando el coreógrafo se encuentra con el robot KUKA
+### Huang Yi: cuando el coreógrafo se encuentra con el robot KUKA
 
 **Huang Yi** (n. 1983) es el coreógrafo interdisciplinar de mayor proyección internacional de Taiwán. En 2012 presentó _Huang Yi & KUKA_, en el que bailaba en el escenario con un brazo robótico industrial. La obra, presentada en una conferencia TED, generó atención internacional y posteriormente giró por más de veinte ciudades de todo el mundo[^7]. El núcleo de la creación de Huang Yi es "la intimidad entre el ser humano y la máquina": el robot no es un accesorio, sino un compañero de baile con emociones. Fue incluido en la lista "30 Under 30" de arte de Forbes Asia y seleccionado como TED Fellow.
 
-## Hsu-Chang Chang: la magia de la animación en un universo de papel ritual
+### Hsu-Chang Chang: la magia de la animación en un universo de papel ritual
 
 **Hsu-Chang Chang** (n. 1988) procede de una familia dedicada al papel ritual (_zhǐzhā_) en Xinzhuang, con tres generaciones de tradición en la fabricación de figuras de papel para funerales. Transforma esta artesanía fúnebre taiwanesa en lenguaje de arte contemporáneo, creando personajes de teatro de marionetas con técnicas de papel ritual y combinándolos con animación stop-motion para construir un universo visual singular. Su obra _Si So Mi_ ha sido seleccionada en múltiples festivales internacionales de animación, y la serie _Tropical Compound Eye_ ha recibido amplia atención en el Museo de Bellas Artes de Taipéi y en exposiciones internacionales. La obra de Chang demuestra algo: la posibilidad más conmovedora del arte de nuevos medios en Taiwán no siempre reside en la tecnología de vanguardia, sino en la reacción química entre la artesanía tradicional y la tecnología contemporánea.
 
-## LuxuryLogico: filosofía del jardín mecánico
+### LuxuryLogico: filosofía del jardín mecánico
 
 En la Exposición Mundial de Flora de Taichung de 2018, _The Sound of Blooming_ (_Escuchar el sonido de las flores al abrirse_) de LuxuryLogico se convirtió en la instalación artística más comentada de todo Taiwán. 697 pétalos mecánicos se abrían y cerraban, respirando en respuesta a los cambios de sonido ambiental y luz: esta instalación esférica gigante de 15 metros de diámetro no era una demostración tecnológica, sino una pregunta filosófica: ¿puede una máquina percibir la naturaleza[^8]? Antes y después de esta obra, LuxuryLogico ha presentado múltiples trabajos a gran escala en el ámbito del arte público, ensamblando sensores, motores y LED en organismos que respiran.
 
 ## Nueva ola (2020-presente)
 
-## Arte generativo y estética algorítmica
+### Arte generativo y estética algorítmica
 
 En la década de 2020, el auge de los NFT y las plataformas de arte generativo (fxHash, Art Blocks) abrió nuevos canales internacionales para los artistas de nuevos medios de Taiwán.
 

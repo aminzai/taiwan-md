@@ -84,7 +84,7 @@ Xie Yuwei reúne las facetas de cantante, actor, compositor, productor y pintor,
 
 En 2001 se fundó el Consejo de Asuntos Hakka (行政院客家委員會) del Ejecutivo de Taiwán, el organismo gubernamental dedicado específicamente a los asuntos de la comunidad hakka. En 2003 comenzó sus emisiones **Hakka TV** (客家電視台), el primer canal de televisión del mundo que transmite íntegramente en lengua hakka las veinticuatro horas del día, ampliando significativamente los canales de difusión y la base de audiencia de la música en lengua hakka.[^8]
 
-### Huang Lianyu: otro camino en la composición tradicional
+## Huang Lianyu: otro camino en la composición tradicional
 
 Huang Lianyu es otra figura fundamental de la música hakka. Su obra representativa _Shan'ge yitiao lu_ (_Un camino de canciones de montaña_) reinterpreta las canciones de montaña tradicionales con arreglos modernos e instrumentos contemporáneos, conservando el sabor tradicional mientras añade un sentido de modernidad. Posee un profundo entendimiento de la cultura hakka y, además de su propia creación, ha sido durante años un activo promotor de la cultura hakka.
 

@@ -45,7 +45,7 @@ Après près de vingt ans de service à la Taiwan Power Company (Taipower), l'ex
 
 À partir de 1969, Sun Yun-suan occupa successivement les postes de ministre de l'Économie et de Premier ministre. Durant cette période, Taïwan faisait face à une situation intérieure et extérieure critique : retrait des Nations Unies, crise pétrolière, entre autres. Sun Yun-suan savait que pour survivre, Taïwan devait passer d'une économie de main-d'œuvre à une économie de haute technologie [^1][^6].
 
-## Le petit-déjeuner des sept au restaurant Xiao Xinxin
+### Le petit-déjeuner des sept au restaurant Xiao Xinxin
 
 Le 7 février 1974, au petit matin, dans le restaurant de petit-déjeuner « Xiao Xinxin » de la rue Nanyang à Taipei, un petit-déjeuner allait changer le destin de Taïwan. Les participants — Sun Yun-suan, Pan Wenyuan, Li Guoding, Fei Hua et trois autres — parvinrent en moins d'une heure à un consensus : Taïwan devait développer la technologie des circuits intégrés (CI) [^11].
 

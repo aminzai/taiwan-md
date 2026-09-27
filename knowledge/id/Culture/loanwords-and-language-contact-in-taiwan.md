@@ -87,7 +87,7 @@ Taiwan (台灣) pada 2026 menghadapi jurang generasi bahasa (世代鴻溝) yang 
 
 Di era globalisasi yang dipimpin oleh Instagram, TikTok, Netflix, tidak ada bahasa yang mudah mempertahankan kebersihannya. Percakapan sehari-hari remaja Taiwan (台灣年輕人) telah menjadi kebiasaan mencampur kata dari bahasa Mandarin, Inggris, Jepang, dan Korea (中英日韓). Apakah ini "kolonialisme budaya" (文化殖民) atau "fusi multikultural" (多元融合)?
 
-### Pertanyaan yang Lebih Mendasar
+## Pertanyaan yang Lebih Mendasar
 
 Di era teknologi terjemahan AI yang semakin matang, berapa banyak makna praktis dari mempertahankan kebersihan bahasa? Ketika Google Translate dapat menerjemahkan 50 bahasa secara real-time, apakah konsep "batas" bahasa itu sendiri sudah usang?
 

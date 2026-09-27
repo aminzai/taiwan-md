@@ -179,7 +179,7 @@ Untuk memahami lebih dalam tentang Losheng, dapat membaca melalui tiga jalur yan
 
 [^11]: [「樂生療養院保存推動」第6次會議紀錄｜新北市文化局](https://www.culture.ntpc.gov.tw/files/file_pool/1/0G247362822017163111/%E3%80%8C樂生療養院保存推動%E3%80%8D第6次會議紀錄.pdf) — Catatan rapat keenam 'Dorongan Pelestarian Panti Losheng' dari Biro Budaya Kota Singsan, menyediakan data pemantauan konstruksi, platform, koneksi stasiun Luegling, dan koordinasi pemulihan.
 
-### Kredit Gambar
+## Kredit Gambar
 
 - [Birdview of Rakuseiin (c. 1932).jpg｜Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Birdview_of_Rakuseiin_(c._1932).jpg>) — Menyematkan gambar Wikimedia Commons dari jarak jauh; penulis sebenarnya dan lisensi sesuai dengan penanda di halaman file.
 
@@ -187,7 +187,7 @@ Untuk memahami lebih dalam tentang Losheng, dapat membaca melalui tiga jalur yan
 
 - [Losheng Prayer hall.jpg｜Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Losheng_Prayer_hall.jpg) — Menyematkan gambar Wikimedia Commons dari jarak jauh; penulis sebenarnya dan lisensi sesuai dengan penanda di halaman file.
 
-## Setelah Pelestarian, Siapa yang Masih Bisa Hidup Di Sini
+### Setelah Pelestarian, Siapa yang Masih Bisa Hidup Di Sini
 
 Sistem warisan budaya menyelesaikan masalah pendaftaran, pemulihan, dan pengelolaan, tetapi keunikan Losheng terletak pada 'tinggal' tidak dapat dipisahkan. Untuk monumen bersejarah umum, mungkin membuka untuk tur atau pameran adalah tujuan utama setelah pemulihan. Untuk Losheng, kenyataan khusus adalah penghuni panti masih menjadi pembawa sejarah tempat itu di masa sekarang. Bahan pemulihan, rute panduan, tingkat kebisingan aktivitas, norma fotografi, dan privasi medis semuanya memerlukan batas antara pameran budaya dan kehidupan penghuni. Ini bukan memperlakukan penghuni panti sebagai orang yang perlu dilindungi tetapi tidak memiliki wewenang pengambilan keputusan, melainkan mengakui bahwa mereka memiliki pengetahuan dan hak yang terbentuk dari penggunaan jangka panjang terhadap kompleks panti.
 

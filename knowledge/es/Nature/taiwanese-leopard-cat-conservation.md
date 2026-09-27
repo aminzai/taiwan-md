@@ -60,7 +60,7 @@ El hábitat del leopardo de Formosa coincide exactamente con las zonas de mayor 
 
 ## El gato fantasma: probablemente nunca lo has visto
 
-## No es un gato doméstico ni un leopardo
+### No es un gato doméstico ni un leopardo
 
 El leopardo de Formosa (_Prionailurus bengalensis_), cuyo nombre científico es gato leopardo, no tiene ninguna relación con los leopardos. Su tamaño es similar al de un gato doméstico, con un peso aproximado de 3 a 6 kilogramos.
 
@@ -68,7 +68,7 @@ El leopardo de Formosa (_Prionailurus bengalensis_), cuyo nombre científico es 
 
 El leopardo de Formosa es un animal nocturno con un amplo rango de actividad (los machos pueden cubrir entre 5 y 10 kilómetros cuadrados) y un comportamiento solitario. Por eso se le conoce como el "gato fantasma": vive cerca de tu hogar, pero probablemente nunca lo has visto en tu vida.
 
-## Las colinas bajas son su hogar y su cementerio
+### Las colinas bajas son su hogar y su cementerio
 
 El leopardo de Formosa no vive en parques nacionales de alta montaña. Habita zonas de colinas suaves por debajo de los 800 metros de altitud, donde se entrelazan campos de cultivo, huertos, bosques de bambú y bosques secundarios.
 
@@ -120,7 +120,7 @@ Además, las trampas para animales en las zonas montañosas, aunque oficialmente
 
 ## La luz de la conservación: hay quien protege
 
-## Pagos por servicios ecosistémicos del leopardo de Formosa
+### Pagos por servicios ecosistémicos del leopardo de Formosa
 
 "No te metas con mis pollos y yo no te enveneno" — la lógica es clara, pero no puedes hacer que el leopardo de Formosa entienda el lenguaje humano. Así que el gobierno cambió de enfoque: **pagar a los agricultores**.
 
@@ -130,13 +130,13 @@ Esto no es caridad. Es **convertir a los agricultores en aliados de la conservac
 
 Desde su implementación, cientos de familias agricultoras se han sumado. Un agricultor comentó: "Antes, ver un leopardo de Formosa me daba ganas de insultarlo; ahora, ver uno saco el teléfono para fotografiarlo, porque cada foto vale dinero".
 
-## Corredores ecológicos y pasos de fauna
+### Corredores ecológicos y pasos de fauna
 
 Para abordar el problema de los atropellos, algunos tramos de carretera en Miaoli y Nantou han comenzado a instalar **pasos de fauna**, construyendo túneles o pasos inferiores bajo las carreteras para que los leopardos de Formosa puedan cruzar de forma segura.
 
 ¿Funcionan estos pasos? Las cámaras trampa han captado imágenes de leopardos de Formosa utilizándolos. Sí funcionan, pero no son suficientes. En toda la red vial de Miaoli, los tramos con pasos de fauna siguen siendo una minoría.
 
-## Leopardos de Formosa célebres
+### Leopardos de Formosa célebres
 
 La conservación necesita historias y también protagonistas. **Jibao**, un leopardo de Formosa rescatado por el centro de animales de Houli en Taichung, se convirtió en una estrella de la educación para la conservación gracias a su temperamento dócil. Hizo que muchas personas que nunca se habían interesado por la especie descubrieran que este animal existe en Taiwán.
 
@@ -185,9 +185,13 @@ A los taiwaneses les gusta decir "si rezas, se te protege". Pero el leopardo de 
 ## Referencias
 
 [^1]: [Reglamento autonómico de conservación del leopardo de Formosa en Miaoli - Environmental Information Center](https://e-info.org.tw/node/221882) — Confirma que la Asamblea del Condado de Miaoli aprobó en tercera lectura el reglamento autonómico de conservación del leopardo de Formosa el 10 de diciembre de 2019.
+
 [^2]: [Wuo Wuo: ¡Plum! Y luego me convertí en carne seca — Reportaje sobre atropellos](https://wuo-wuo.com/topics/widlife/94-road-killing-topic) — Estadísticas de atropellos de leopardos de Formosa entre 2017 y 2023.
+
 [^3]: [Programa de Pagos por Servicios Ecosistémicos del Leopardo de Formosa del Ministerio de Agricultura](https://www.moa.gov.tw/) — Descripción del programa de subsidios a la agricultura amigable con el leopardo de Formosa.
+
 [^4]: [Instituto de Investigación de Biodiversidad (TBRI) del Ministerio de Agricultura](https://www.tbri.gov.tw/) — Programa de reproducción en cautividad del leopardo de Formosa e investigación de conservación.
+
 [^5]: [Wuo Wuo: Antes de la extinción — Reportaje especial sobre el leopardo de Formosa en Taiwán](https://wuo-wuo.com/topics/widlife/taiwan-leopard-cat) — Reportaje completo sobre el estado actual de la conservación del leopardo de Formosa en Taiwán.
 
 Lecturas complementarias:

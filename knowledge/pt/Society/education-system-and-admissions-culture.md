@@ -143,13 +143,13 @@ O sistema educacional de Taiwan formou uma força de trabalho qualificada, forne
 
 A cultura da "resposta padrão" pode comprimir o espaço para o desenvolvimento da criatividade, e a relação entre pressão acadêmica e problemas de saúde mental merece atenção. A expansão excessiva do ensino superior também causou inflação de diplomas, e muitos graduados universitários trabalham em áreas não relacionadas ao seu campo de estudo, formando um desajuste de recursos humanos.
 
-### Perspectivas de Pais e Estudantes
+## Perspectivas de Pais e Estudantes
 
-#### Expectativas dos Pais e Pressão dos Estudantes
+### Expectativas dos Pais e Pressão dos Estudantes
 
 Muitos pais consideram as notas acadêmicas dos filhos como o retorno do investimento familiar e um símbolo do status social da família. Sob essa expectativa, os estudantes enfrentam uma carga pesada de estudos e pressão de exames, quase sem espaço para respirar entre o ingresso no ensino superior e o lazer; a ansiedade sobre o futuro começa a se acumular desde o ensino médio inferior.
 
-#### Diferenças Geracionais
+### Diferenças Geracionais
 
 A definição de sucesso da geração mais jovem está mudando. Cada vez mais jovens colocam em primeiro plano interesses e especialidades, e o equilíbrio entre trabalho e vida, não vendo as universidades de topo como o único objetivo. A expansão do horizonte internacional também levou alguns jovens a escolher trabalhar ou estudar no exterior, reduzindo a dependência do sistema de ingresso no ensino superior local de Taiwan.
 

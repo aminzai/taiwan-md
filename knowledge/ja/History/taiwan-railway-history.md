@@ -221,7 +221,7 @@ _2021 年、DT668 が E327 に推進され、台湾鉄路海線を走行した�
 - [文化部（英語）：Alishan Forest Railway](https://www.moc.gov.tw/en/News_Content2.aspx?n=398&s=14062)
 - [台湾光華雑誌：懐旧の味──弁当文化の再流行](https://www.taiwan-panorama.com/Articles/Details?Guid=3cd2ae7a-f0e1-4aa2-8696-9af844ba112c&CatId=10)
 
-### 外国人技師と機関車系譜（2026-05-11 EVOLVE 新規脚注）
+## 外国人技師と機関車系譜（2026-05-11 EVOLVE 新規脚注）
 
 [^f1]: [維基百科：臺灣鐵路（清朝）](<https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E9%90%B5%E8%B7%AF_(%E6%B8%85%E6%9C%9D)>) — 劉銘伝鉄道における外国人技師の配置（Becker の工事設計、Watson の路線調査、Matheson の商務顧問）と、その背後にあったジャーディン・マセソン商会（Jardine Matheson）の調達ネットワークの文脈。
 
@@ -249,7 +249,7 @@ _2021 年、DT668 が E327 に推進され、台湾鉄路海線を走行した�
 
 [^f13]: [維基百科：復興號列車](https://zh.wikipedia.org/zh-tw/%E5%BE%A9%E8%88%88%E8%99%9F%E5%88%97%E8%BB%8A) — 1980-07-06 の営業開始、唐栄鉄工廠製冷房車、第三級客車としての位置付けの記録。
 
-## 関連読み物
+### 関連読み物
 
 - [清朝統治期](/ja/history/qing-dynasty-rule) — 劉銘伝がレールを敷き始めた政治的背景
 - [日本統治時代](/ja/history/japanese-colonial-era) — 長谷川謹介、河合鈰太郎が台湾鉄道建設を引き継いだ植民地政府の文脈
