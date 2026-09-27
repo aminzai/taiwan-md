@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-28T06:44:18+08:00",
+  "generated_at": "2026-09-28T07:33:11+08:00",
   "producer": "scripts/tools/lang-sync/babel-pulse.py (launchd, 15min)",
-  "snapshot_ts": "2026-09-28T06:44:09+08:00",
+  "snapshot_ts": "2026-09-28T07:33:02+08:00",
   "total_zh": 1124,
   "langs": [
     {
@@ -117,12 +117,12 @@
   "gap_delta": 0,
   "rate_1h": {
     "delta": 0,
-    "span_h": 1.25,
+    "span_h": 1.07,
     "per_hour": 0.0
   },
   "rate_24h": {
     "delta": 66,
-    "span_h": 29.82,
+    "span_h": 30.63,
     "per_hour": 2.2
   },
   "eta_days": null,
@@ -233,8 +233,8 @@
   "dispatchers": [
     {
       "kind": "unified",
-      "pid": "27736",
-      "uptime": "00:14",
+      "pid": "44470",
+      "uptime": "00:01",
       "langs": "",
       "workers": 11
     }
@@ -331,14 +331,14 @@
     "sample": []
   },
   "url_mismatch": {
-    "count": 589,
+    "count": 583,
     "by_lang": {
       "en": 50,
-      "ja": 87,
-      "ko": 55,
-      "es": 71,
+      "ja": 84,
+      "ko": 54,
+      "es": 70,
       "fr": 61,
-      "vi": 54,
+      "vi": 53,
       "id": 45,
       "pt": 39,
       "hi": 45,
@@ -346,8 +346,8 @@
       "ru": 28,
       "de": 28
     },
-    "missing": 1186,
-    "extra": 662,
+    "missing": 1148,
+    "extra": 627,
     "sample": [
       {
         "path": "knowledge/en/Music/choir.md",
@@ -412,16 +412,6 @@
     ]
   },
   "history": [
-    {
-      "ts": "2026-08-08T22:31:22+08:00",
-      "fresh_total": 8045,
-      "gap_total": 1701
-    },
-    {
-      "ts": "2026-08-08T22:46:34+08:00",
-      "fresh_total": 8045,
-      "gap_total": 1701
-    },
     {
       "ts": "2026-08-08T23:01:45+08:00",
       "fresh_total": 8045,
@@ -889,6 +879,16 @@
     },
     {
       "ts": "2026-09-28T06:44:09+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-28T07:29:01+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-28T07:33:02+08:00",
       "fresh_total": 13488,
       "gap_total": 0
     }
