@@ -15,13 +15,13 @@ tags:
   ]
 readingTime: '28'
 lastVerified: '2026-07-22'
-lastHumanReview: 'false'
+lastHumanReview: false
 featured: false
 translatedFrom: 'Economy/NET.md'
 sourceCommitSha: '1b3c22ac7'
 sourceContentHash: 'sha256:34ffbb88716e1c90'
 sourceBodyHash: 'sha256:401833a7ed0b48dd'
-translatedAt: '2026-07-24T12:35:28+08:00'
+translatedAt: '2026-09-28T02:52:34+08:00'
 ---
 
 > **Ringkasan 30 Detik:** Merek pakaian lokal Taiwan, NET (Main Rich Clothing), bermula dari "Pasar Ibu Rumah Tangga" pada tahun 1960-an. Di bawah kepemimpinan pendirinya, Huang Teng-lung, merek ini berhasil bertahan hingga saat ini setelah masuknya raksasa internasional seperti Uniqlo dan Zara. Hal yang paling dikenal dari NET bukanlah desainnya, melainkan tanggung jawab sosialnya yang rendah hati namun mendalam—melakukan "Tutup Toko untuk Membeli Pakaian" bagi anak-anak kurang mampu selama 15 tahun berturut-turut. Namun, perusahaan yang biasanya tenang ini baru-baru ini terlibat dalam sengketa hukum dengan pemerintah terkait hak milik di Keelung East Coast Plaza, menunjukkan karakter mereknya yang "lembut namun tangguh."
@@ -40,7 +40,7 @@ Namun, Huang Teng-lung menyadari bahwa hanya mengandalkan barang sisa bukanlah s
 
 ## Strategi "Pembukaan Terbalik" dan Estetika Ruang di Tengah Gempuran Raksasa Internasional
 
-Setelah tahun 2010, merek _fast fashion_ internasional seperti Uniqlo, Zara, dan H&M mulai merambah Taiwan, menyebabkan banyak merek lokal seperti Hang Ten dan Giordano mundur dari lokasi-lokasi utama. Namun, NET mengambil strategi "pembukaan terlumur" (reverse expansion) yang sangat berbeda, serta memiliki dedikasi khusus terhadap desain ruang.
+Setelah tahun 2010, merek fast fashion internasional seperti Uniqlo, Zara, dan H&M mulai merambah Taiwan, menyebabkan banyak merek lokal seperti Hang Ten dan Giordano mundur dari lokasi-lokasi utama. Namun, NET mengambil strategi "pembukaan terluwur" (reverse expansion) yang sangat berbeda, serta memiliki dedikasi khusus terhadap desain ruang.
 
 ### Toko Flagship Yongfu Lou: Pelindung Landmark Distrik Timur
 
@@ -62,7 +62,7 @@ Dalam kehidupan sehari-hari masyarakat Taiwan, NET bukan sekadar sebuah toko, me
 
 ### Label Merah Diskon 50%: Perburuan Harta Karun di Seluruh Gerai
 
-Bagi banyak konsumen yang sangat memperhatikan anggaran, bagian paling menarik dari NET adalah aktivitas diskonnya yang teratur. Setiap pergantian musim, produk dengan "Label Merah" atau "Label Kuning" akan muncul di dalam toko, bahkan terkadang menawarkan promosi luar biasa seperti "5 item Label Merah dengan diskon 70%". [^27] Setiap hari Kamis saat pembaruan diskon, gerai sering dipenuhi oleh orang-orang yang sedang "berburu harta karun". Proses mencari produk dengan nilai _cost-performance_ (CP) tinggi di antara rak-rak besar telah menjadi budaya konsumsi khas masyarakat Taiwan. [^28]
+Bagi banyak konsumen yang sangat memperhatikan anggaran, bagian paling menarik dari NET adalah aktivitas diskonnya yang teratur. Setiap pergantian musim, produk dengan "Label Merah" atau "Label Kuning" akan muncul di dalam toko, bahkan terkadang menawarkan promosi luar biasa seperti "5 item Label Merah dengan diskon 70%". [^27] Setiap hari Kamis saat pembaruan diskon, gerai sering dipenuhi oleh orang-orang yang sedang "berburu harta karun". Proses mencari produk dengan nilai cost-performance (CP) tinggi di antara rak-rak besar telah menjadi budaya konsumsi khas masyarakat Taiwan. [^28]
 
 ### Set Jas Pertama: Upacara Kedewasaan bagi Pemuda Baru dalam Masyarakat
 
@@ -82,7 +82,7 @@ Di pasar pakaian murah Taiwan, NET sering dibandingkan dengan merek Jepang seper
 | **Uniqlo** | Pengembangan material (Heattech, Airism) | Menonjolkan bahan fungsional dan model dasar, memperkuat kolaborasi desainer dalam beberapa tahun terakhir (seperti seri U, seri C). [^31] |
 | **GU**     | Tren, kemudaan, harga rendah             | Potongan lebih berani dan mengikuti tren, kualitas sedikit di bawah Uniqlo tetapi lebih disukai oleh remaja. [^32]                         |
 
-Keunggulan NET terletak pada fleksibilitas rantai pasoknya dan pemahaman mendalam tentang pasar Taiwan. Saat merek internasional menyesuaikan harga atau potongan karena strategi global yang seragam, NET tetap mampu mempertahankan sikap "paling mengerti lemari pakaian orang Taiwan". [^33]
+NET memiliki keunggulan yang terletak pada fleksibilitas rantai pasoknya dan pemahaman mendalam tentang pasar Taiwan. Saat merek internasional menyesuaikan harga atau potongan karena strategi global yang seragam, NET tetap mampu mempertahankan sikap "paling mengerti lemari pakaian orang Taiwan". [^33]
 
 ---
 
@@ -100,18 +100,16 @@ NET, yang selama ini dikenal karena aksi amal yang rendah hati, secara tidak ter
 
 ## Mengapa Kita Membutuhkan NET?
 
-Di era industri mode yang semakin global, keberadaan NET adalah sebuah anomali. Ia tidak mengejar tren terbaru di atas panggung _catwalk_, juga tidak menyewa duta internasional yang mahal. Ia lebih seperti seorang teman lama, menunggu dengan tenang di sudut jalan, menyediakan pilihan berkualitas stabil dan harga masuk akal. Saat merek internasional mundur, ia tetap tinggal; saat anak-anak kurang mampu membutuhkan pakaian baru, ia membuka pintunya.
+Di era industri mode yang semakin global, keberadaan NET adalah sebuah anomali. Ia tidak mengejar tren terbaru di atas panggung catwalk, juga tidak menyewa duta internasional yang mahal. Ia lebih seperti seorang teman lama, menunggu dengan tenang di sudut jalan, menyediakan pilihan berkualitas stabil dan harga masuk akal. Saat merek internasional mundur, ia tetap tinggal; saat anak-anak kurang mampu membutuhkan pakaian baru, ia membuka pintunya.
 
-NET bukan sekadar perusahaan yang menjual pakaian, melainkan pembawa ketahanan dan kehangatan masyarakat Taiwan. Di tengah arus _fast fashion_, dalam waktu tiga puluh tahun ia membuktikan bahwa: **Nilai sebuah perusahaan tidak terletak pada berapa banyak uang yang dihasilkannya, tetapi pada apa yang ditinggalkannya untuk tanah ini.**
+NET bukan sekadar perusahaan yang menjual pakaian, melainkan pembawa ketahanan dan kehangatan masyarakat Taiwan. Di tengah arus fast fashion, dalam waktu tiga puluh tahun ia membuktikan bahwa: **Nilai sebuah perusahaan tidak terletak pada berapa banyak uang yang dihasilkannya, tetapi pada apa yang ditinggalkannya untuk tanah ini.**
 
 ---
-
-### Referensi
 
 ## Bacaan Lanjutan
 
 - [Industri Tekstil](/id/economy/taiwan-textile-industry) — Konteks hulu dari juara tersembunyi tekstil Taiwan
-- [Perusahaan Taiwan: Hon Hai Precision](https://www.google.com/search?q=%E9%91%92%E5%8F%B3+%E4%BD%93%E7%94%9F) — Narasi skala besar lainnya dari perusahaan lokal
+- [Perusahaan Taiwan: Hon Hai Precision Industries](/id/economy/foxconn-precision-industry) — Narasi skala besar lainnya dari perusahaan lokal
 
 ## Referensi
 
