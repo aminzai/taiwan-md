@@ -1,97 +1,137 @@
 ---
-title: "Taiwan's Biodiversity Hotspots"
-description: 'Exploring how Taiwan, occupying only 0.025% of global land area, nurtures over 50,000 known species in world-class biodiversity'
+title: 'Taiwan Biodiversity Hotspots'
+description: 'A 36,000 km² island harbors 59,000 known species—a biodiversity density 100 times the global average'
 date: 2026-03-21
+category: 'Geography'
 tags:
   [
-    'ecology',
-    'biodiversity',
-    'endemic species',
-    'conservation',
-    'national parks',
+    'Ecology',
+    'Biodiversity',
+    'Endemic Species',
+    'Conservation',
+    'National Parks',
   ]
+subcategory: '生態地理'
 author: 'Taiwan.md Contributors'
-difficulty: 'beginner'
-readingTime: 8
-category: 'Geography'
 featured: false
 lastVerified: 2026-03-21
+lastHumanReview: true
+difficulty: 'beginner'
+readingTime: 8
 translatedFrom: 'Geography/台灣生態多樣性熱點.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:9dea4a4cafb753d9'
 sourceBodyHash: 'sha256:4398643bac3fb675'
-translatedAt: '2026-04-14T12:25:09+08:00'
-lastHumanReview: true
+translatedAt: '2026-09-27T23:29:49+08:00'
 ---
 
-# Taiwan's Biodiversity Hotspots
+# Taiwan Biodiversity Hotspots
 
-## 30-Second Overview
+> **30-Second Overview:** In November 2024, a Formosan black bear named Daguali was released into the wild again in Zhuoxi Township, but found its way back into human communities. This is no accident—Taiwan is home to only 200–600 black bears, yet this 36,000 km² island contains over 59,000 known species, a biodiversity density 100 times the global average. The question is: on the most densely populated living stage on Earth, how much space have we left for wildlife?
 
-Taiwan occupies only 0.025% of global land area yet hosts over 50,000 known species, with species density per unit area 100 times the global average. From sea level to Yushan's (玉山) main peak at 3,952 meters, the complete vertical climate zones create diverse ecological environments. With endemic species comprising 25% of total species, including star species like the Formosan Black Bear (台灣黑熊), Formosan Landlocked Salmon (櫻花鉤吻鮭), and Taiwan Blue Magpie (台灣藍鵲), Taiwan is recognized as one of the world's biodiversity hotspots.
+## A Living Island 100 Times More Crowded Than Tokyo
 
-**Keywords**: Biodiversity hotspot, endemic species, vertical distribution, ecosystems, conservation
+In February 2025, a surveillance camera at a school in Yuli, Hualien captured a heartbreaking scene: Daguali, a Formosan black bear, wandered through the schoolyard like a lost child. This was already the third time it had encountered humans unexpectedly.
 
-## Why Taiwan is an Ecological Treasure Island
+Trapped and injured in July 2023, rescued in November the same year, captured again in March 2024 for disturbing indigenous settlements, and released again in December 2024—Daguali's story mirrors Taiwan's broader ecological crisis: there is simply not enough space.
 
-Taiwan is located at the junction of the Eurasian Plate and Philippine Sea Plate, giving the island unique ecological conditions. The Tropic of Cancer (北回歸線) passes through central Taiwan, combined with complex topographical changes, creating the world's rare complete vertical climate zones.
+According to the latest statistics from Taiwan's Forest and Nature Conservation Agency, Taiwan has recorded **over 59,000 species of organisms**, with estimates suggesting the actual total exceeds 150,000 species. When placed on 36,000 km² of land, these figures mean approximately 1.6 known species per square kilometer—if undescribed species are included, the density exceeds 4 species per square kilometer.
 
-From Kenting's (墾丁) tropical coral reef coast to Hehuanshan's (合歡山) alpine grasslands, within less than 200 kilometers, climate types span from tropical oceanic to alpine cold climates. This extreme environmental gradient provides ideal habitats for species with different habits and is the fundamental reason for Taiwan's rich biodiversity.
+Compare this to Germany's 357,000 km² hosting 45,000 species, or the United Kingdom's 243,000 km² hosting 30,000 species. Taiwan's biodiversity density is **100 times the global average**.
 
-The island's isolation promotes species evolutionary differentiation. When ancient organisms reached Taiwan via land bridges or ocean currents, geographical isolation led to gradual evolution of unique forms and habits, creating numerous endemic species. Currently, endemic species comprise 25% of Taiwan's recorded species—a proportion ranking among the world's highest for islands.
+## Vertical 4,000 Meters: A Climate Elevator
 
-Taiwan's geology is young and active, with continuous orogenic movement creating complex and varied topography. From the Central Mountain Range's peaks to western plains and valleys, from eastern coastal cliffs to southern coral terraces, each topographical type nurtures special ecosystems.
+Taiwan's biodiversity secret lies in a single word: **three-dimensionality**.
 
-## Ecological Miracles from Mountains to Ocean
+From the sea level near Tainan to Yushan's main peak at 3,952 meters, the horizontal distance is merely 200 kilometers, yet the climate change is equivalent to traveling from Taiwan directly to Norway. For every 1,000 meters of elevation gain, temperature drops approximately 6°C, equivalent to a latitudinal shift of 800 kilometers northward.
 
-### Alpine Ecosystems
+This "climate elevator" creates extraordinarily complex ecosystems. From tropical rainforests at sea level to alpine grasslands at Yushan's summit, Taiwan recreates half the planet's climate zones within an area smaller than many metropolitan areas. Organisms at different elevations evolved separately, forming a clearly stratified ladder of life.
 
-Taiwan has over 200 mountains exceeding 3,000 meters elevation, with these alpine areas serving as refugia for many rare species. The **Formosan Black Bear** (台灣黑熊) is Taiwan's largest terrestrial mammal and an endemic subspecies of Asian black bear. They primarily inhabit mountain forests between 1,000-3,500 meters, serving as apex predators in Taiwan's alpine ecosystems.
+Taiwan's young geology is another critical factor. At only 5 million years old, Taiwan continues to rise—gaining 2–3 centimeters annually. Ongoing orogeny creates extraordinarily complex microhabitats, providing endless opportunities for species differentiation.
 
-The **Formosan Landlocked Salmon** (櫻花鉤吻鮭) is Taiwan's most precious freshwater fish and the world's lowest-latitude distributed salmon. This glacial relict species only inhabits the Qijiawan Creek watershed in Shei-Pa National Park (雪霸國家公園) at approximately 1,700 meters elevation. The salmon's existence proves Taiwan experienced colder climates during the Ice Age.
+## The Ark of the Ice Age
 
-Alpine grasslands are Taiwan's unique ecological landscapes, mainly distributed above 3,000 meters elevation. Plants like Leontopodium microphyllum (玉山薄雪草) and Formosan Lily (台灣百合) have adapted to extreme climatic conditions, completing their life cycles during brief growing seasons.
+The very existence of the **Formosan Landlocked Salmon** is a miracle in itself. This is the world's lowest-latitude salmon species, a living Ice Age relic.
 
-### Forest Ecosystems
+Twenty thousand years ago during the last glacial period, Taiwan's climate resembled modern-day northeastern China, allowing salmon to thrive in lowland river systems. As temperatures rose after the ice age ended, they were forced to "climb the mountains"—today they can barely survive only in the Qijiawan Creek at 1,700 meters elevation.
 
-Taiwan's forest coverage exceeds 60%, among the world's highest. By elevation, Taiwan's forests can be divided into tropical rainforests, subtropical evergreen broadleaf forests, temperate mixed needle-broadleaf forests, and alpine coniferous forests.
+The miracle is that they survived. By 1995, only 253 individuals remained globally. Through 30 years of efforts by Shei-Pa National Park, the population reached **15,374 individuals** in 2023—a 60-fold increase from 1995. This is regarded as one of Taiwan's most successful conservation stories.
 
-The **Taiwan Blue Magpie** (台灣藍鵲) is an endemic bird species and one of Taiwan's national bird candidates. This beautiful bird primarily inhabits mid to low-elevation broadleaf forests, feeding on insects, small animals, and fruits. They exhibit strong group behavior and territoriality, forming an important part of Taiwan's forest ecosystems.
+The **Taiwan Mountain Salamander** is another Ice Age relic. This ancient amphibian is distributed only between 1,500–2,500 meters elevation and is extremely sensitive to temperature, thriving only below 15°C. Climate change has reduced its habitat from 11 locations to 7, with projections suggesting only 3 populations might survive by 2050.
 
-The **Formosan Rock Macaque** (台灣獼猴) is Taiwan's only native primate, widely distributed throughout the island's forest environments. With decreasing habitats and increasing human interference, conflicts between macaques and humans have intensified, becoming an important wildlife conservation issue.
+## Kingdom of Endemic Species: 30% Unique to Earth
 
-### Marine and Wetland Ecosystems
+**Over 30% of Taiwan's species** are endemic—found nowhere else on Earth. This proportion ranks among the highest on any island globally.
 
-Taiwan is surrounded by sea with over 1,500 kilometers of coastline. The coral reef ecosystems of southern and southeastern waters are particularly rich, with Kenting National Park's (墾丁國家公園) waters recording over 250 reef-building coral species and more than 1,000 fish species.
+**Taiwan Macaques** migrated from mainland China 200,000 years ago but, isolated by the Taiwan Strait, evolved distinct characteristics: smaller body size, darker fur, and redder facial skin. They remain Taiwan's only native primate besides humans.
 
-The **Black-faced Spoonbill** (黑面琵鷺) is Taiwan's most famous winter migrant, with approximately 2,000 individuals wintering annually at Tainan's Tsengwen River Estuary (台南曾文溪口) and Chiayi's Aogu Wetland (嘉義鰲鼓濕地). This globally endangered bird species considers Taiwan's wetlands important wintering grounds, bringing international attention to Taiwan's wetland conservation.
+**Formosan Black Bears** display a distinctive V-shaped white marking on their chests—a characteristic of Taiwan's population that differs from the crescent-shaped marking found in other Asian black bear populations. According to Yushan National Park estimates, approximately **200–600** individuals remain across Taiwan, with potentially 250–300 within the park itself. Each individual requires 30–40 km² of activity space.
 
-**Taijiang National Park** (台江國家公園) protects important estuarine wetland ecosystems along Taiwan's southwestern coast. The mangroves (紅樹林), lagoons (潟湖), and salt ponds (鹽田) provide habitats and feeding grounds for numerous waterbirds, serving as important windows for understanding Taiwan's coastal ecology.
+**Taiwan Blue Magpies** were selected as Taiwan's "national bird" in a 2007 online vote. Beyond their striking blue plumage, their most distinctive feature is their "family system"—older offspring remain to help raise younger siblings, a cooperative breeding behavior remarkably rare among birds.
 
-## Conservation Challenges and Efforts
+## Another Taiwan in the Ocean
 
-Taiwan's high development has created enormous pressure on ecological environments. Urbanization, industrial development, and agricultural activities continuously compress wildlife habitats, threatening many species' survival. Statistics show over 4,000 animal and plant species in Taiwan are currently listed as protected.
+Taiwan is surrounded by sea, and its marine biodiversity is equally remarkable. Taiwan's waters record approximately 3,000 fish species, with coral reef fish exceeding 1,000 species. Kenting National Park's marine waters record about 300 reef-building coral species, comprising one-third of all reef-building corals globally.
 
-The **National Park** system is the core force of Taiwan's ecological conservation. Since Kenting National Park's establishment in 1984, Taiwan has successively established 9 national parks and 1 national nature park, with protected areas comprising about 8.6% of total land area. These protected areas not only safeguard important ecosystems but also provide valuable sites for scientific research and environmental education.
+Yet Taiwan's coral reefs are experiencing catastrophe. In summer 2020, water temperatures exceeded 29°C for consecutive weeks, causing massive coral bleaching in Kenting, Green Island, and Orchid Island, with coral coverage declining over 50% in some areas.
 
-Recently, Taiwan promoted the **National Ecological Network** (國土生態綠網) project, attempting to connect fragmented habitats and establish complete ecological corridors. This large-scale inter-ministerial project combines conservation, restoration, and sustainable use concepts, hoping to find balance between development and conservation.
+**Green Island's Sunrise Hot Spring** is one of the world's rare submarine thermal springs. The mineral-rich thermal water creates a unique marine environment where scientists have discovered multiple heat-resistant microorganisms with potentially significant applications for biotechnology and medicine.
 
-Climate change brings new challenges to Taiwan's ecosystems. Rising temperatures cause alpine plant habitats to continuously migrate upward, while sea level rise threatens coastal wetland survival. Scientists are closely monitoring these changes and seeking adaptation strategies.
+## International Airport for Migratory Birds
 
-## World-Class Natural Heritage
+Taiwan lies at the core of the **East Asian–Australasian Flyway**, one of the world's most critical bird migration corridors. Each spring and autumn, over 150 species and 1 million individual birds migrate through Taiwan.
 
-Taiwan's biodiversity has important academic value and represents humanity's shared natural heritage. Many international scientific studies regard Taiwan as an ideal location for researching island biogeography and evolutionary biology.
+**Black-faced Spoonbills** are the most famous international visitors. In 1992, only 294 individuals remained worldwide, on the brink of extinction. Through international conservation efforts, the population has grown to approximately 5,000, with roughly 2,000 choosing to winter in Taiwan.
 
-Institutions like the **Endemic Species Research Institute** (特有生物研究保育中心) continuously conduct biodiversity surveys and conservation research, with new species discovered in Taiwan annually. These discoveries not only enrich our understanding of Taiwan's ecosystems but also provide important data for global biodiversity conservation.
+**Grey-faced Buzzards** create spectacular "raptor rivers" during their October migration through Manzhou, Pingtung. The single-day passage record was set on October 13, 2003, when 53,688 individuals passed through—commemorated as the "National Day Eagles."
 
-Taiwan's ecological tourism is gradually gaining international attention. From watching sunrise at Alishan (阿里山) to appreciating gorges at Taroko (太魯閣), from diving at Orchid Island (蘭嶼) to bird watching at Kinmen (金門), Taiwan's rich natural landscapes provide infinite possibilities for ecological tourism.
+## Vanished Royalty and Present Threats
 
-Standing at any corner of Taiwan, we can feel the vigorous life force of this land. Whether it's bird songs in mountain forests or wave sounds along coasts, they all tell the wonderful story of Taiwan's ecology. Protecting this ecological treasure island is not only Taiwan's responsibility but humanity's shared mission.
+The extinction of the **Taiwan Clouded Leopard** represents the most tragic lesson in Taiwan's ecological history. Once the forest king, this beautiful big cat required 30–40 km² of activity space per adult. With deforestation and road development fragmenting habitats, these cats lost their living space.
 
----
+The last confirmed sighting was in 1983 in Taitung. Pingtung Scientific University deployed 1,500 automatic cameras for 13 years of monitoring but found no evidence. In 2013, the Council of Agriculture officially declared the Taiwan clouded leopard "functionally extinct."
 
-Further Reading:
+**Road kill** is the most severe present-day threat. Taiwan has the world's second-highest road density at 2.4 kilometers of road per square kilometer of land. According to the Road Kill Observation Network, Taiwan loses millions of wild animals annually to vehicular collisions. **Formosan Wildcats** are particularly affected, with 100 individuals recorded dead from traffic accidents over nine years.
 
-- [Endemic Species](/en/nature/endemic-species)
-- [National Parks](/en/nature/national-parks)
-- [Biodiversity](/en/nature/biodiversity)
+## Rescue Efforts: Hope and Challenges
+
+**Formosan Wildcat conservation** demonstrates hope. Through establishing wildlife corridors in Miaoli, Taichung, and Nantou, promoting wildlife-friendly agriculture, and monitoring population dynamics, wildcat numbers increased from fewer than 500 in 2013 to approximately 800–1,000 in 2024.
+
+**Wildlife-friendly farming** played a crucial role. At the Dacheng Wetland in Changhua, farmers promoting "Black-faced Spoonbill-friendly farming methods" adjusted harvest timing to preserve feeding habitats for migratory birds. Participating farmers received higher prices for their rice, achieving a win-win for both conservation and economics.
+
+**Citizen science** contributed enormous value. The **Taiwan Biodiversity Network (TBN)** combines citizen scientists to build Taiwan's largest species distribution database. The **Road Kill Observation Network** established the first comprehensive road kill database through public reporting, helping the government install wildlife corridors at critical hotspots.
+
+## Climate Change: A Survival Challenge
+
+Global warming poses the greatest impact on Taiwan's alpine ecosystems. Rising temperatures push suitable habitats for alpine plants upward, but mountaintops are the absolute limit—nowhere left to go.
+
+Scientists project that if temperatures rise 2°C, Taiwan's alpine vegetation zones will shift upward 300–400 meters. **Taiwan Cypress** and **Taiwan Fir** and other high-mountain conifers already show signs of upward migration.
+
+Ocean acidification presents a more subtle threat. Increased atmospheric CO₂ levels lower seawater pH, affecting coral and mollusks' ability to build calcium-based skeletons. Taiwan's marine waters have seen a pH decline of 0.1 over the past 20 years. Oyster farmers in Changhua report thinning shells, slower growth, and approximately 20% productivity decline.
+
+## Visible Economic Value
+
+Taiwan's forests sequester approximately 12 million metric tons of carbon annually, equivalent to preventing 32 million metric tons of CO₂ emissions. Using European Emissions Trading System prices, this value equals approximately 77 billion Taiwan dollars.
+
+**Pollination services from honeybees** are crucial for agriculture. Taiwan's bee pollination services generate an annual economic value of approximately 20 billion Taiwan dollars. If bees disappeared, one-third of agricultural crops would be affected.
+
+**Wetland purification** saves Taiwan billions in annual wastewater treatment expenses. Per hectare, constructed wetlands can process approximately 50,000 metric tons of domestic wastewater annually, equivalent to a small wastewater treatment plant.
+
+Taiwan's birdwatching tourism has established an international brand, attracting over 100,000 international visitors annually and generating approximately 5 billion Taiwan dollars in tourism revenue. **Firefly seasons** have become important spring and summer tourism attractions, generating hundreds of millions in annual tourism income.
+
+## Sharing Taiwan with the Planet
+
+Daguali's story is not over. In March 2025, the bear was spotted wandering on roads again, and Hualien's Forest Bureau is preparing for a third rescue. But perhaps one day, we will find the wisdom for humans and wildlife to coexist.
+
+Taiwan is one of the world's highest biodiversity density locations, and this miracle requires protection from every person. Download iNaturalist or eBird apps to record wildlife you encounter; purchase wildlife-friendly agricultural products to support farmers using no pesticides; choose sustainable seafood and refuse overharvesting.
+
+Protecting Taiwan's biodiversity is not only the responsibility of governments and scientists—it is the mission of every person living on this island. Let us leave a vibrant and beautiful Taiwan for the next generation.
+
+## References
+
+- [Forest and Nature Conservation Agency Biodiversity Website](https://www.forest.gov.tw/biodiversity)
+- [Yushan National Park Management Office – Formosan Black Bear Science Education](https://www.ysnp.gov.tw/StaticPage/Science)
+- [Taiwan Biodiversity Network (TBN)](https://www.tbn.org.tw/)
+- [Taiwan Road Kill Observation Network](https://roadkill.tw/)
+- [The Reporter – Taiwan Black Bears Frequently Sighted](https://www.twreporter.org/a/ursus-thibetanus-formosanus-conservation)
+- [Endemic Species Research Institute](https://www.tesri.gov.tw/)
