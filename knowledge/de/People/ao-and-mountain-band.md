@@ -13,7 +13,7 @@ tags:
     'Folktronica',
     'elektronische Volksmusik',
     'Indie-Musik',
-    'Golden Melody Awards',
+    'Golden Indie Music Awards',
     'Golden Sound Awards',
     'Modern Problem',
     'Hidden Album',
@@ -33,7 +33,7 @@ sourceBodyHash: 'sha256:99f87ca9cdb0ab32'
 translatedAt: '2026-09-23T20:37:55+08:00'
 ---
 
-> **30-Sekunden-Überblick:** Au und Shan (Our Shame) ist ein Duo aus Taiwan; die Mitglieder sind Sängerin Estelle H (Xiao'ao) und Schlagzeugerin Isan. Sie lernten sich in der Highschool kennen und gewannen 2015 mit einer Akustik-Arrangement den **Golden Sound Award für Komposition** (Akustik-Demo von „Dear“). Nach dem Studium arbeiteten beide im Technologiebereich. Im Winter 2018 änderten sie den Namen ihrer ursprünglichen Folk-Gruppe, die „Wei Xiao'ao“ hieß, in „Au und Shan“. Xiao'ao kaufte einen Synthesizer, Isan begann mit Pads, und die Musik wandelte sich zur Folktronica. Im Jahr 2019 veröffentlichten sie das EP „All Good Things Will Happen“, dessen Mixing von dem japanischen Golden Award Produzenten AKNIT übernommen wurde. Das Debütalbum „Modern Problem“ im Jahr 2022 war nominiert für den **Golden Melody Award in zwei Kategorien (Bester Alternativer Pop und Bester Newcomer)**, wobei 60 % der Titel auf Englisch sind. Am 4. August 2025 erschien das zweite Album „Hidden Album“, mit internationalen Kollaborationen wie dem britischen Grammy-Mixer Jay Reynolds, dem US-Grammy-Ingenieur Brian Elgin (der mit Dua Lipa und Lana Del Rey zusammengearbeitet hat), ASOBOiSM aus Japan und Odd People Club aus Frankreich – das Thema wandelte sich von „Technologieangst“ zu „die durch Technologie verdeckten menschlichen Schatten“: Selbstverletzung, Taburomanzen, Kryptowährungsbetrug, weibliche Körpererfahrungen. Ein Song namens 〈Miffy〉 ist eine Hommage an die Aktivistin Chen Mei-hui. Am 4. Januar 2026 gibt es ein Konzert zu „Hidden Album“.
+> **30-Sekunden-Überblick:** Au und Shan (Our Shame) ist ein Duo aus Taiwan; die Mitglieder sind Sängerin Estelle H (Xiao'ao) und Schlagzeugerin Isan. Sie lernten sich in der Highschool kennen und gewannen 2015 mit einer Akustik-Arrangement den **Golden Sound Award für Komposition** (Akustik-Demo von „Dear“). Nach dem Studium arbeiteten beide im Technologiebereich. Im Winter 2018 änderten sie den Namen ihrer ursprünglichen Folk-Gruppe, die „Wei Xiao'ao“ hieß, in „Au und Shan“. Xiao'ao kaufte einen Synthesizer, Isan begann mit Pads, und die Musik wandelte sich zur Folktronica. Im Jahr 2019 veröffentlichten sie das EP „All Good Things Will Happen“, dessen Mixing von dem japanischen Golden Award Produzenten AKNIT übernommen wurde. Das Debütalbum „Modern Problem“ im Jahr 2022 war nominiert für den **Golden Indie Music Award in zwei Kategorien (Bester Alternativer Pop und Bester Newcomer)**, wobei 60 % der Titel auf Englisch sind. Am 4. August 2025 erschien das zweite Album „Hidden Album“, mit internationalen Kollaborationen wie dem britischen Grammy-Mixer Jay Reynolds, dem US-Grammy-Ingenieur Brian Elgin (der mit Dua Lipa und Lana Del Rey zusammengearbeitet hat), ASOBOiSM aus Japan und Odd People Club aus Frankreich – das Thema wandelte sich von „Technologieangst“ zu „die durch Technologie verdeckten menschlichen Schatten“: Selbstverletzung, Taburomanzen, Kryptowährungsbetrug, weibliche Körpererfahrungen. Ein Song namens 〈Miffy〉 ist eine Hommage an die Aktivistin Chen Mei-hui. Am 4. Januar 2026 gibt es ein Konzert zu „Hidden Album“.
 
 Im Winter 2018 in einem Raum in Taipeh.
 
@@ -100,7 +100,7 @@ Das Thema von „Modern Problem“ ist schon im Titel ersichtlich: **Die Problem
 
 Das Album endet mit „party to the moon“, das für die verstorbene enge Freundin geschrieben wurde. Die Behandlung ist kein Klagelied und keine Abschiedsrede, sondern eine surreale Szene einer Party auf dem Mond. Der Song über den Tod spricht nicht direkt über den Tod; der Abschnitt über den Verlust spricht nicht direkt über den Schmerz.[^6]
 
-Das Album wurde später für den **Golden Melody Award in zwei Kategorien (Bester Alternativer Pop und Bester Newcomer)** nominiert. Obwohl beide Kategorien keinen Preis gewannen, war die Doppelnominierung eine signifikante Anerkennung im Bereich der taiwanesischen Folktronica.[^7] Gleichzeitig wurde Modern Problem von Musikredakteuren aus Europa, Nordamerika, Australien und Südostasien in internationale Streaming-Playlists aufgenommen. Au und Shan sind leise aus dem Kreis der großen taiwanesischen Indie-Bands in die Ohren des internationalen Publikums vorgedrungen.
+Das Album wurde später für den **Golden Indie Music Award in zwei Kategorien (Bester Alternativer Pop und Bester Newcomer)** nominiert. Obwohl beide Kategorien keinen Preis gewannen, war die Doppelnominierung eine signifikante Anerkennung im Bereich der taiwanesischen Folktronica.[^7] Gleichzeitig wurde Modern Problem von Musikredakteuren aus Europa, Nordamerika, Australien und Südostasien in internationale Streaming-Playlists aufgenommen. Au und Shan sind leise aus dem Kreis der großen taiwanesischen Indie-Bands in die Ohren des internationalen Publikums vorgedrungen.
 
 > **✦** Xiao'ao sagte in einem Interview: „Ich möchte keine traditionelle Tanzmusik machen; ich möchte das Gefühl eines einsamen Tanzes, wie mein Gehirn sich an Erinnerungen tanzt.“[^8]
 
@@ -128,7 +128,7 @@ Die Ouvertüre des Albums heißt 〈Face ID〉 und wurde in Paris geschrieben. X
 
 〈Hollywood Dream〉 wurde bei 36 Stunden Schlaflosigkeit geschrieben. Dieser Extremzustand ermöglichte es ihr jedoch, eine „ermüdete Klangfarbe“ einzufangen.[^8]
 
-Das Produktionsteam von „Hidden Album“ ist auch die größte internationale Besetzung von Au und Shan: Der britische Grammy-Mixer **Jay Reynolds** kümmert sich um den Mix, der US-Grammy-Ingenieur **Brian Elgin** (der mit Dua Lipa und Lana Del Rey zusammengearbeitet hat) übernimmt das Mastering, der aufstrebende japanische Rapper/R&B-Produzent **ASOBOiSM** beteiligt sich, der französische Elektronikproduzent **Odd People Club** trägt zum Arrangement bei, und die taiwanesische Künstlerin **BRADD** (Gewinner des Golden Melody Award für R&B Singles) arbeitet mitproduzierend mit. Ein Album aus einem Raum in Taipeh, das Namen aus fünf Ländern trägt.
+Das Produktionsteam von „Hidden Album“ ist auch die größte internationale Besetzung von Au und Shan: Der britische Grammy-Mixer **Jay Reynolds** kümmert sich um den Mix, der US-Grammy-Ingenieur **Brian Elgin** (der mit Dua Lipa und Lana Del Rey zusammengearbeitet hat) übernimmt das Mastering, der aufstrebende japanische Rapper/R&B-Produzent **ASOBOiSM** beteiligt sich, der französische Elektronikproduzent **Odd People Club** trägt zum Arrangement bei, und die taiwanesische Künstlerin **BRADD** (Gewinner des Golden Indie Music Award für R&B Singles) arbeitet mitproduzierend mit. Ein Album aus einem Raum in Taipeh, das Namen aus fünf Ländern trägt.
 
 Isan beschrieb diese Kooperationsform klar:
 
@@ -140,7 +140,7 @@ Von dem japanischen Mixing für das EP 2019 bis zur Einladung von britisch-ameri
 
 Am 4. Januar 2026 veranstalten Au und Shan ein Konzert zu „Hidden Album.“[^9]
 
-Von dem Akustik-Demo-Champion im Jahr 2015 bis heute sind sie in ihrem Zehnten Jahr als Band unterwegs. Von den zwei Mädchen aus der Highschool, über das Akustik-Duo im Studium, die Tech-Angestellten, das Folktronica-Duo mit Rebranding im Winter 2018, die Doppelnominierten beim Golden Melody Award 2022 bis zum zweiten Album mit Grammy-Team in 2025 – dieser Weg ist keine gewöhnliche Wachstumskurve eines Indie-Ensembles.
+Von dem Akustik-Demo-Champion im Jahr 2015 bis heute sind sie in ihrem Zehnten Jahr als Band unterwegs. Von den zwei Mädchen aus der Highschool, über das Akustik-Duo im Studium, die Tech-Angestellten, das Folktronica-Duo mit Rebranding im Winter 2018, die Doppelnominierten beim Golden Indie Music Award 2022 bis zum zweiten Album mit Grammy-Team in 2025 – dieser Weg ist keine gewöhnliche Wachstumskurve eines Indie-Ensembles.
 
 Die wahre Besonderheit von Au und Shan liegt darin, dass **sie zehn Jahre gebraucht haben, um „das, was nicht gesagt werden kann“, in „einen Klang zu verwandeln, der gehört werden kann“**. Der Musikstil und die internationale Zusammenarbeit sind nur Nebenprodukte.
 
@@ -176,7 +176,7 @@ Das ist Au und Shan.
 
 [^6]: [Marie Claire Analyse von „Modern Problem“ im Jahr 2022](https://www.marieclaire.com.tw/entertainment/music/67560) — Eine detaillierte Analyse des ersten Albums „Modern Problem“ durch Marie Claire im Jahr 2022, die die Interpretation der 12 Songs, die Analyse des Themas der Technologieangst, das Design und den Hintergrund der Kündigung von Xiao'ao nach dem Tod einer engen Freundin enthält.
 
-[^7]: [TNL Kritische Übersicht – vollständige Nominierungsliste Golden Melody Awards 2022](https://www.thenewslens.com/article/175925) — Ein Bericht von TNL Critical Review über die Golden Melody Awards 2022, der die vollständigen Nominierten für Bester Alternativer Pop und Bester Newcomer auflistet und bestätigt, dass Au und Shan mit „Modern Problem“ in beiden Kategorien nominiert wurden.
+[^7]: [TNL Kritische Übersicht – vollständige Nominierungsliste Golden Indie Music Awards 2022](https://www.thenewslens.com/article/175925) — Ein Bericht von TNL Critical Review über die Golden Indie Music Awards 2022, der die vollständigen Nominierten für Bester Alternativer Pop und Bester Newcomer auflistet und bestätigt, dass Au und Shan mit „Modern Problem“ in beiden Kategorien nominiert wurden.
 
 [^8]: [Turn! Interview mit Au und Shan im Jahr 2025](https://vocus.cc/article/68c6cfa5fd89780001106e97) — Ein ausführliches Interview von Turn! vor und nach der Veröffentlichung von „Hidden Album“, das die vollständigen Zitate zu Xiao'aos „Gefühl des einsamen Tanzes“, dem „ungezwungenen Gefühl“ beim Schreiben von 〈Face ID〉 in Paris und dem Schaffen bei 36 Stunden Schlaflosigkeit enthält.
 

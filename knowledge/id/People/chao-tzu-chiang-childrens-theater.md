@@ -28,7 +28,7 @@ translatedAt: '2026-07-26T02:07:18+08:00'
 > **Ringkasan 30 Detik:**
 > Chao Tzu-chiang, nama yang unik dalam industri hiburan Taiwan. Ia mengenali kehangatan lewat 'Kakek Buah-Buahan' untuk menyertai pertumbuhan banyak anak, namun di balik itu, jiwa pertunjukan yang dibentuk di Lantai Pangeran, serta pengaruh finansial yang menumpuk setelah mendirikan 'Koleksi Drama Anak-Anak 'Jika'' dengan utang ratus juta dolar, serta ketahanan yang menolak menyerah selama pandemi dan krisis keuangan. Artikel ini akan mengungkapkan, bagaimana 'Kakek Buah-Buahan' mempertahankan mimpi anak Taiwan dalam keadaan sejati, sekaligus menjadi suara publik pada krisis anggaran TV Negara pada tahun 2025.
 
-Pada tahun 1984, Chao Tzu-chiang yang berusia 19 tahun mendapati iklan perekrutan Lantai Pangeran di koran yang menyatakan "Gratis Selama Tahun"[^1]. Tak mengetahui seni pertunjukan, ia bergabung dengan sikap "Tidak masalah, gratis, bahkan makan siang ada" dengan ikut mengikuti seleksi, tak sangka menjadi cikal bakal kebanggaan selama-lamanya[^2]. Di dalam pusat latihan Lantai Pangeran, sebuah kolektif eksperimen Taiwan, ia berpartisipasi dalam klasik seperti "Nine Songs" dan "Xi You Ji", serta dalam pengaruh mendalam para senior seperti Golden Horse penerima, memahami kebenaran bahwa "teater adalah kehidupan"[^3].
+Pada tahun 1984, Chao Tzu-chiang yang berusia 19 tahun mendapati iklan perekrutan Lantai Pangeran di koran yang menyatakan "Gratis Selama Tahun"[^1]. Tak mengetahui seni pertunjukan, ia bergabung dengan sikap "Tidak masalah, gratis, bahkan makan siang ada" dengan ikut mengikuti seleksi, tak sangka menjadi cikal bakal kebanggaan selama-lamanya[^2]. Di dalam pusat latihan Lantai Pangeran, sebuah kolektif eksperimen Taiwan, ia berpartisipasi dalam klasik seperti "Nine Songs" dan "Xi You Ji", serta dalam pengaruh mendalam para senior seperti Chin Shih-chieh, memahami kebenaran bahwa "teater adalah kehidupan"[^3].
 
 Pada 2 Juli 1998, program anak TV Negara "Fruit Ice Cream" pertama kali ditayangkan. Di layar, seorang lukisan berwarna merah-hijau berdiri, memakai kacamata pipih tua, bersuara lembut sebagai 'Kakek Buah-Buahan' untuk bertemu dengan anak-anak Taiwan. Saat itu, Chao Tzu-chiang berada pada puncak kariernya, namun ia memutuskan menyelesaikan program anak, yang justru memicu kritik: "Kamu sudah terlalu terkenal untuk program anak! Apa yang kamu lakukan nanti, kalau sudah tua dan tidak ada yang mau?!"[^4]
 
@@ -85,7 +85,7 @@ Chao Tzu-chiang menunjukkan bahwa seni pertunjukan dapat menjadi pelindung. Meli
 
 **Daftar Pustaka:**
 
-[^1]: [Chao Tzu-chiang secara tidak sengaja bergabung dengan Lantai Pangeran](https://today.line.me/tw/v3/article/WBeOlNv) — LINE TODAY, 2023.07, Menyadari Golden Horse tampak menatap mata terbuka sangat aneh
+[^1]: [Chao Tzu-chiang secara tidak sengaja bergabung dengan Lantai Pangeran](https://today.line.me/tw/v3/article/WBeOlNv) — LINE TODAY, 2023.07, Menyadari Chin Shih-chieh tampak menatap mata terbuka sangat aneh
 
 [^2]: [Chao Tzu-chiang masuk Lantai Pangeran karena iklan gratis](https://www.chinatimes.com/newspapers/20230703000477-260112) — China Times, 2023.07, Keuntungan bergabung dengan Lantai Pangeran
 

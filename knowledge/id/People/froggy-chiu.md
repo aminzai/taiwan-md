@@ -83,15 +83,15 @@ Partai Gembira Tanpa Hukum akhirnya nggak jadi partai jangka panjang, tapi kasih
 
 ## Channel Kayak Rumah Pusaka, Juga Kayak Perusahaan yang Harus Tutup Buku
 
-_Jangan Lihat Saat Kerja_ didirikan akhir 2015. Maret 2025, Qiu Weijie umumkan channel berhenti tayang dan perusahaan bubar. _Digital Era_ lapor, channel waktu itu kumpul 900 ribu+ langganan, total tayangan 400 juta+. Laporan rapiin tiga sebab saling tarik: anggota inti perlahan pergi, sikap politik bikin tayangan terkena dampak, dan perusahaan akhir tahun masih punya defisit dana ~400 ribu TWD, Golden Bell Awards juga bikin rugi ~200-300 ribu TWD[^3].
+_Jangan Lihat Saat Kerja_ didirikan akhir 2015. Maret 2025, Qiu Weijie umumkan channel berhenti tayang dan perusahaan bubar. _Digital Era_ lapor, channel waktu itu kumpul 900 ribu+ langganan, total tayangan 400 juta+. Laporan rapiin tiga sebab saling tarik: anggota inti perlahan pergi, sikap politik bikin tayangan terkena dampak, dan perusahaan akhir tahun masih punya defisit dana ~400 ribu TWD, Penghargaan Zouzhong juga bikin rugi ~200-300 ribu TWD[^3].
 
 Laporan Storm Media tambahin deskripsi emosionalnya. Qiu Weijie ibaratkan _Jangan Lihat Saat Kerja_ "rumah pusaka", meski anggota pergi satu-satu, dia masih nantiin suatu hari semua orang balik. Dia juga akui, sebagai bos, seharusnya lebih awal jamin keuangan aman, tapi dalam ragu lama kelewatan momen stop loss, dan bilang "kegagalan ada di aku"[^9].
 
 Di sini terbentuk kontradiksi paling konkret kisah Gua Ji. Kreasi internet kasih dia kemampuan kumpul cepat audiens, launch pemilu, bikin live streaming yudisial, bahkan ciptakan partai bernama kebahagiaan. Tapi pas channel jadi tim yang harus bayar gaji, bonus akhir tahun, pesangon, biaya acara, daya tarik pribadi paling efektif **ggak** otomatis jadi tata kelola organisasi yang stabil. Kreator bisa andal intuisi mulai rencana, tapi **ggak** bisa andal intuisi doang pertahankan perusahaan sepuluh tahun.
 
-## Lampu Padam, Golden Bell Awards Nggak Ikut Hilang
+## Lampu Padam, Penghargaan Zouzhong Nggak Ikut Hilang
 
-_Jangan Lihat Saat Kerja_ bubar **bukan** berarti jaringan kreator yang pernah dibangun ikut hilang. _The Reporter_ lapor, Golden Bell Awards ke-7 2025 diurus komite eksekutif baru, Huang Brothers, Dcard, Baolingguo dll lanjut, Gua Ji tetep wakil ketua, tema acara "Reinkarnasi"[^10]. Ini perubahan organisasi menarik: penghargaan yang awalnya diinisiasi tim tunggal, mulai harus cari struktur yang lebih bisa tanggung jawab jangka panjang dari tim pendiri asli.
+_Jangan Lihat Saat Kerja_ bubar **bukan** berarti jaringan kreator yang pernah dibangun ikut hilang. _The Reporter_ lapor, Penghargaan Zouzhong ke-7 2025 diurus komite eksekutif baru, Huang Brothers, Dcard, Baolingguo dll lanjut, Gua Ji tetep wakil ketua, tema acara "Reinkarnasi"[^10]. Ini perubahan organisasi menarik: penghargaan yang awalnya diinisiasi tim tunggal, mulai harus cari struktur yang lebih bisa tanggung jawab jangka panjang dari tim pendiri asli.
 
 Jadi, warisan kreasi Gua Ji nggak cuma video apa aja yang difilm, atau pernah dapat berapa suara. Lebih penting, dia demonstrasiin kreator internet bisa gimana masuk kehidupan publik, juga bikin orang lihat masuknya itu **bukan** satu kali sukses lintas domain, tapi rangkaian konversi yang **harus** bayar mahal. Dari rencana real show ke layanan anggota DPRD, dari live streaming yudisial ke Partai Gembira Tanpa Hukum, terus ke channel bubar, setiap langkah "penonton" diubah jadi "anggota", "pemilih", "pihak terkait", atau "penanggung bersama".
 
@@ -105,9 +105,9 @@ Ketidakpastian ini bukan cacat cerita, tapi syarat kehidupan demokrasi sendiri.
 
 **Baca Lanjutan:**
 
-- [Industri dan Budaya YouTuber Taiwan](/id/culture/taiwan-youtuber-industry) — Dari Cai Aga, Golden Bell Awards ke VTuber, lengkapi latar panjang industri audiovisual internet Taiwan.
+- [Industri dan Budaya YouTuber Taiwan](/id/culture/taiwan-youtuber-industry) — Dari Cai Aga, Penghargaan Zouzhong ke VTuber, lengkapi latar panjang industri audiovisual internet Taiwan.
 - [Zeng Bo'en](/people/曾博恩) — Jalur lain kreator Taiwan dari konten internet masuk isu publik dan pertunjukan lapangan.
-- [Situs Resmi Golden Bell Awards](https://walkbelljohn.com/) — Ikuti perkembangan organisasi penghargaan kreator Taiwan selanjutnya.
+- [Situs Resmi Penghargaan Zouzhong](https://walkbelljohn.com/) — Ikuti perkembangan organisasi penghargaan kreator Taiwan selanjutnya.
 
 ## Referensi
 
@@ -129,7 +129,7 @@ Ketidakpastian ini bukan cacat cerita, tapi syarat kehidupan demokrasi sendiri.
 
 [^9]: [Storm Media: Channel YouTube Hampir Sejuta Langganan Umumkan Berhenti! Operasional 9 Tahun Ungkap 3 Alasan Utama Tutup](https://www.storm.mg/lifestyle/5339020) — Laporan bubar 2025, silang tunjukin kepergian tim _Jangan Lihat Saat Kerja_, guncangan sikap politik, rugi, dan ucapan Qiu Weijie soal tanggung jawab.
 
-[^10]: [The Reporter: Pas _Jangan Lihat Saat Kerja_ Bubar Golden Bell Awards Diurus Komite Eksekutif Baru](https://www.mirrormedia.mg/story/20250709edi055) — Artikel Golden Bell Awards 2025, jelaskan pasca bubur channel struktur komite eksekutif, peran lanjut Gua Ji, dan tema "Reinkarnasi".
+[^10]: [The Reporter: Pas _Jangan Lihat Saat Kerja_ Bubar Penghargaan Zouzhong Diurus Komite Eksekutif Baru](https://www.mirrormedia.mg/story/20250709edi055) — Artikel Penghargaan Zouzhong 2025, jelaskan pasca bubur channel struktur komite eksekutif, peran lanjut Gua Ji, dan tema "Reinkarnasi".
 
 [^11]: [TechNews Orange: Influencer Gua Ji Mau Awasi Walikota! Cuma Belanjain 1,2 Juta Kampanye, Bisa Disebut Anggota DPRD Pemasaran Internet Terkuat](https://techorange.com/2018/11/26/froggychiu-du-kp/) — Artikel pasca-pemilu berizin CNA, catet biaya kampanye, trafik internet, estimasi konversi suara, dan sumbu kampanye "pembukaan demokrasi".
 

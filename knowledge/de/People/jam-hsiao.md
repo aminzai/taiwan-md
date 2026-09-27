@@ -88,7 +88,7 @@ Diese Teilnahme enthüllte eine andere Seite von Xiao Jing-teng: Neben seiner te
 
 ## Ein vielseitiges Künstlerleben
 
-Neben seiner Musik war Xiao Jing-teng auch aktiv in Film und Fernsehen involviert. **Im Jahr 2011 wirkte er in dem Film „Killer Ouyang Penzai“ mit, und erhielt für dieses Werk den Golden Horse Award als bester neuer Schauspieler**, wodurch er zu einem Künstler wurde, der sowohl im Kino als auch in der Musik tätig war.
+Neben seiner Musik war Xiao Jing-teng auch aktiv in Film und Fernsehen involviert. **Im Jahr 2011 wirkte er in dem Film „Killer Ouyang Penzai“ mit, und erhielt für dieses Werk den Hong Kong Film Award als bester neuer Schauspieler**, wodurch er zu einem Künstler wurde, der sowohl im Kino als auch in der Musik tätig war.
 
 **Von 2013 bis 2015 war Xiao Jing-teng drei Jahre lang Mentor bei „The Most Beautiful Harmony“ von Beijing TV und führte seine Schüler durch dreimaligen Gesamtsieg.** Dieser Rekord ist bis heute unerreicht und beweist, dass er nicht nur singen, sondern auch andere lehren konnte.
 
