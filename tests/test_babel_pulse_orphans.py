@@ -133,3 +133,21 @@ def test_unchanged_files_reuse_the_cache_and_changed_files_are_judged_again(tmp_
     assert MODULE.language_mismatch()["foreign_script"] == 1
     (en / "b.md").write_text("---\ntitle: t\n---\n" + EN + "More text. ", encoding="utf-8")
     assert MODULE.language_mismatch()["foreign_script"] == 0  # 檔案變了就重判
+
+
+def test_translation_that_stops_after_the_first_sections_is_counted(tmp_path, monkeypatch):
+    # 2026-09-27 實例：es〈長榮海運〉zh 八個章節只譯到第二個，版本標記照樣是新的
+    zh_dir, en_dir = tmp_path / "knowledge" / "Economy", tmp_path / "knowledge" / "en" / "Economy"
+    zh_dir.mkdir(parents=True)
+    en_dir.mkdir(parents=True)
+    zh_body = "".join(f"## 第{i}章\n\n" + "內容" * 200 + "\n\n" for i in range(8))
+    (zh_dir / "x.md").write_text("---\ntitle: x\n---\n" + zh_body, encoding="utf-8")
+    full = "".join(f"## Part {i}\n\n" + "text " * 240 + "\n\n" for i in range(8))
+    head = "".join(f"## Part {i}\n\n" + "text " * 240 + "\n\n" for i in range(2))
+    for n in range(4):
+        (en_dir / f"ok{n}.md").write_text("---\ntranslatedFrom: 'Economy/x.md'\n---\n" + full, encoding="utf-8")
+    (en_dir / "cut.md").write_text("---\ntranslatedFrom: 'Economy/x.md'\n---\n" + head, encoding="utf-8")
+    monkeypatch.setattr(MODULE, "REPO", tmp_path)
+    r = MODULE.truncated_translations()
+    assert r["count"] == 1
+    assert r["sample"][0]["path"] == "knowledge/en/Economy/cut.md" and r["sample"][0]["h2"] == "8→2"

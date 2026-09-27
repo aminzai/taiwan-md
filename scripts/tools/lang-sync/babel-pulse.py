@@ -23,9 +23,12 @@
 from __future__ import annotations
 
 import argparse
+import collections
 import importlib.util
 import json
 import os
+import re
+import statistics
 import subprocess
 import sys
 from datetime import datetime, timedelta
@@ -225,6 +228,41 @@ def language_mismatch() -> dict:
     return {**counts, "total": sum(counts.values()), "by_lang": by_lang, "sample": sample}
 
 
+SRC_RE = re.compile(r"^translatedFrom:\s*['\"]?([^'\"\n]+)", re.M)
+H2_RE = re.compile(r"^## ", re.M)
+
+
+def truncated_translations(min_h2: int = 4) -> dict:
+    """status 算 fresh、但只譯了前段的譯文：## 章節不到 zh 的六成，篇幅也不到該語言正常比例的七成。
+
+    為什麼要數（2026-09-27 渦流第二十一輪）：es〈長榮海運〉zh 八個章節只譯到第二個、ja〈楊勇緯〉十五個只有
+    五個，參考資料整段不見，版本標記照樣是新的。verify 的章節數與篇幅比對只是 WARN，dispatcher 收下了。
+    「正常比例」取該語言全部譯文對 zh 篇幅比的中位數，不寫死每個語言的數字，新語言出生也適用。
+    """
+    pairs = collections.defaultdict(list)
+    for lang in ALL_TRANSLATION_LANGS:
+        for p in (REPO / "knowledge" / lang).rglob("*.md"):
+            if p.name.startswith("_"):
+                continue
+            t = p.read_text(encoding="utf-8", errors="replace")
+            m = SRC_RE.search(t)
+            zp = REPO / "knowledge" / m.group(1).strip() if m else None
+            if not zp or not zp.exists():
+                continue
+            z = zp.read_text(encoding="utf-8", errors="replace")
+            zb, tb = z.split("\n---", 1)[-1], t.split("\n---", 1)[-1]
+            pairs[lang].append((p.relative_to(REPO).as_posix(), len(H2_RE.findall(z)), len(H2_RE.findall(t)),
+                                len(tb) / max(1, len(zb))))
+    hits, by_lang = [], {}
+    for lang, rows in pairs.items():
+        med = statistics.median(r[3] for r in rows)
+        for rel, zh2, tr2, ratio in rows:
+            if zh2 >= min_h2 and tr2 <= 0.6 * zh2 and ratio / med < 0.7:
+                hits.append({"path": rel, "h2": f"{zh2}→{tr2}", "length": round(ratio / med, 2)})
+                by_lang[lang] = by_lang.get(lang, 0) + 1
+    return {"count": len(hits), "by_lang": by_lang, "sample": hits[:12]}
+
+
 def rate_window(rows: list, hours: float):
     """近 N 小時的 fresh 淨增（跨全部語言）。找 ≥N 小時前最近的一列當基準。"""
     if len(rows) < 2:
@@ -287,6 +325,8 @@ def build_payload(rows: list) -> dict:
         "leftover_staged": leftover_staged(),
         # gap 算 fresh、實際不是目標語言的譯文（整篇錯語／尾段漂移）
         "language_mismatch": language_mismatch(),
+        # gap 算 fresh、實際只譯了前段的譯文
+        "truncated": truncated_translations(),
         "history": [
             {"ts": r["ts"],
              "fresh_total": sum(v["fresh"] for v in r["langs"].values()),
@@ -349,6 +389,8 @@ def render_html(d: dict) -> str:
         f'<span class="chip warn">殘留暫存 {p}</span>' for p in (d.get("leftover_staged") or [])[:20])
     lm = d.get("language_mismatch") or {"total": 0, "wrong_language": 0, "foreign_script": 0}
     lm_col = "#dc2626" if lm["total"] else "var(--mut)"
+    tr_n = (d.get("truncated") or {}).get("count", 0)
+    tr_col = "#dc2626" if tr_n else "var(--mut)"
     return f"""<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>巴別塔脈搏 — Taiwan.md</title>
@@ -385,6 +427,7 @@ svg{{width:100%;height:70px;display:block}}
 <div class="kpi"><u>粗估到 100%</u><strong>{d.get("eta_days") or "—"}</strong><em>天（依當前速率）</em></div>
 <div class="kpi"><u>語言數</u><strong>{len(d["langs"])}</strong><em>zh 母本 {d["total_zh"]} 篇</em></div>
 <div class="kpi"><u>只在工作樹的譯文（孤兒）</u><strong style="color:{orph_col}">{n_orph}</strong><em>缺口不含這些；另 {unc["pending"]} 篇在產線批次中</em></div>
+<div class="kpi"><u>算 fresh 但只譯了前段</u><strong style="color:{tr_col}">{tr_n}</strong><em>章節不到 zh 六成、篇幅不到七成</em></div>
 <div class="kpi"><u>算 fresh 但不是目標語言</u><strong style="color:{lm_col}">{lm["total"]}</strong><em>整篇錯語 {lm["wrong_language"]}／尾段漂移 {lm["foreign_script"]}</em></div>
 </div>
 {orph_list}
@@ -488,6 +531,7 @@ def main():
         f"孤兒={len(unc['orphans'])} 批次中={unc['pending']} 殘留暫存={len(payload['leftover_staged'])} "
         f"語言不符={payload['language_mismatch']['total']}"
         f"（整篇錯語 {payload['language_mismatch']['wrong_language']}／尾段漂移 {payload['language_mismatch']['foreign_script']}）"
+        f" 截斷={payload['truncated']['count']}"
         f" → {OUT_JSON.name} + {OUT_HTML.name}")
     for o in unc["orphans"]:
         log(f"  孤兒 {o['xy'].strip() or '?'} {o['path']}（{o['age_min']} 分鐘未 commit，不在活產線批次）")
