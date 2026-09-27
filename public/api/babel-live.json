@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-27T11:57:18+08:00",
+  "generated_at": "2026-09-27T12:41:46+08:00",
   "producer": "scripts/tools/lang-sync/babel-pulse.py (launchd, 15min)",
-  "snapshot_ts": "2026-09-27T11:57:09+08:00",
+  "snapshot_ts": "2026-09-27T12:41:37+08:00",
   "total_zh": 1124,
   "langs": [
     {
@@ -11,16 +11,16 @@
       "stale": 0,
       "missing": 0,
       "coverage_pct": 100.0,
-      "fresh_delta": 1
+      "fresh_delta": 0
     },
     {
       "lang": "ja",
       "name": "日本語",
-      "fresh": 1123,
-      "stale": 1,
+      "fresh": 1124,
+      "stale": 0,
       "missing": 0,
       "coverage_pct": 100.0,
-      "fresh_delta": 8
+      "fresh_delta": 1
     },
     {
       "lang": "ko",
@@ -29,7 +29,7 @@
       "stale": 0,
       "missing": 0,
       "coverage_pct": 100.0,
-      "fresh_delta": 2
+      "fresh_delta": 0
     },
     {
       "lang": "es",
@@ -38,7 +38,7 @@
       "stale": 0,
       "missing": 0,
       "coverage_pct": 100.0,
-      "fresh_delta": 1
+      "fresh_delta": 0
     },
     {
       "lang": "fr",
@@ -47,7 +47,7 @@
       "stale": 0,
       "missing": 0,
       "coverage_pct": 100.0,
-      "fresh_delta": 2
+      "fresh_delta": 0
     },
     {
       "lang": "vi",
@@ -56,7 +56,7 @@
       "stale": 0,
       "missing": 0,
       "coverage_pct": 100.0,
-      "fresh_delta": 8
+      "fresh_delta": 0
     },
     {
       "lang": "id",
@@ -65,7 +65,7 @@
       "stale": 0,
       "missing": 0,
       "coverage_pct": 100.0,
-      "fresh_delta": 4
+      "fresh_delta": 0
     },
     {
       "lang": "pt",
@@ -74,16 +74,16 @@
       "stale": 0,
       "missing": 0,
       "coverage_pct": 100.0,
-      "fresh_delta": 7
+      "fresh_delta": 0
     },
     {
       "lang": "hi",
       "name": "हिन्दी",
-      "fresh": 1122,
-      "stale": 2,
+      "fresh": 1124,
+      "stale": 0,
       "missing": 0,
       "coverage_pct": 100.0,
-      "fresh_delta": 8
+      "fresh_delta": 2
     },
     {
       "lang": "ar",
@@ -92,7 +92,7 @@
       "stale": 0,
       "missing": 0,
       "coverage_pct": 100.0,
-      "fresh_delta": 11
+      "fresh_delta": 0
     },
     {
       "lang": "ru",
@@ -101,7 +101,7 @@
       "stale": 0,
       "missing": 0,
       "coverage_pct": 100.0,
-      "fresh_delta": 7
+      "fresh_delta": 0
     },
     {
       "lang": "de",
@@ -110,19 +110,19 @@
       "stale": 0,
       "missing": 0,
       "coverage_pct": 100.0,
-      "fresh_delta": 4
+      "fresh_delta": 0
     }
   ],
-  "gap_total": 3,
-  "gap_delta": -63,
+  "gap_total": 0,
+  "gap_delta": -3,
   "rate_1h": {
-    "delta": 63,
-    "span_h": 11.03,
-    "per_hour": 5.7
+    "delta": 66,
+    "span_h": 11.78,
+    "per_hour": 5.6
   },
   "rate_24h": {
-    "delta": 5440,
-    "span_h": 1180.33,
+    "delta": 5443,
+    "span_h": 1181.07,
     "per_hour": 4.6
   },
   "eta_days": 0.0,
@@ -233,18 +233,13 @@
   "dispatchers": [
     {
       "kind": "unified",
-      "pid": "11288",
-      "uptime": "00:04",
+      "pid": "29321",
+      "uptime": "00:12",
       "langs": "",
       "workers": 9
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-08T10:23:10+08:00",
-      "fresh_total": 8045,
-      "gap_total": 1701
-    },
     {
       "ts": "2026-08-08T10:38:21+08:00",
       "fresh_total": 8045,
@@ -719,6 +714,11 @@
       "ts": "2026-09-27T11:57:09+08:00",
       "fresh_total": 13485,
       "gap_total": 3
+    },
+    {
+      "ts": "2026-09-27T12:41:37+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
     }
   ]
 }
