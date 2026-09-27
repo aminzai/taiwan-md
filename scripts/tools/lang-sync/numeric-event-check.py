@@ -51,10 +51,10 @@ EVENTS: dict[str, dict] = {
         "zh": r"九二一",
         "number": r"(?<!\d)921(?!\d)|9[·・./\-‑]21",
         "forms": {
-            "en": r"September 21|21 September|Chi-?Chi", "fr": r"21 septembre|Chi-?Chi", "es": r"21 de septiembre|Chi-?Chi",
-            "pt": r"21 de setembro|Chi-?Chi", "de": r"21\. September|Chi-?Chi", "id": r"21 September|Chi-?Chi",
-            "vi": r"21 tháng 9|Tập Tập|Chi-?Chi", "ru": r"21 сентября|Чичи|Цзицзи",
-            "ja": r"九二一|9月21日|集集", "ko": r"9월 21일|지지", "hi": r"21 सितंबर|ची-ची|चीची", "ar": r"21 سبتمبر|تشي تشي",
+            "en": r"September 21|21 September|Chi-?Chi", "fr": r"21 septembre|Chi-?Chi|séisme de 1999", "es": r"21 de septiembre|Chi-?Chi|Jiji|terremoto de 1999",
+            "pt": r"21 de setembro|Chi-?Chi|Jiji", "de": r"21\. September|Chi-?Chi|Jiji|Erdbebens? von 1999", "id": r"21 September|Chi-?Chi|Jiji",
+            "vi": r"21 tháng 9|Tập Tập|Chi-?Chi", "ru": r"21 сентября|Чичи|Цзицзи|Чжи-Чжи|1999 год",
+            "ja": r"九二一|9月21日|集集", "ko": r"9월 21일|지지|구이이", "hi": r"21 सितंबर|ची-ची|चीची", "ar": r"21 سبتمبر|تشي تشي",
         },
     },
     "八八風災": {
@@ -62,12 +62,34 @@ EVENTS: dict[str, dict] = {
         "number": r"(?<!\d)88(?!\d)|8[·・./\-‑]8(?!\d)",
         "forms": {
             "en": r"Morakot|8 August|August 8", "fr": r"Morakot|8 août", "es": r"Morakot|8 de agosto", "pt": r"Morakot|8 de agosto",
-            "de": r"Morakot|8\. August", "id": r"Morakot|8 Agustus", "vi": r"Morakot|8 tháng 8", "ru": r"Моракот|Morakot|8 августа",
-            "ja": r"モーラコット|莫拉克|八八|8月8日|Morakot", "ko": r"모라꼿|모라콧|8월 8일|Morakot", "hi": r"मोराकोट|Morakot|8 अगस्त",
+            "de": r"Morakot|8\. August", "id": r"Morakot|8 Agustus", "vi": r"Morakot|8 tháng 8|Tám Tám", "ru": r"Моракот|Morakot|8 августа",
+            "ja": r"モーラコット|莫拉克|八八|8月8日|Morakot", "ko": r"모라꼿|모라콧|8월 8일|Morakot", "hi": r"मोराकोट|Morakot|8 अगस्त|आठ-आठ",
             "ar": r"موراكوت|Morakot|8 أغسطس",
         },
     },
 }
+
+
+# 已確認的錯形式（第二十六、二十七輪審查逐條對過 zh）。認得出來的寫法只能抓「整篇沒有正確寫法」的譯文，
+# 同一篇裡正確與錯誤並存時（en〈高鐵〉別處寫了 921、小標卻是「19921 Earthquake」）要靠這張表抓
+WRONG: dict[str, dict[str, str]] = {
+    "二二八": {
+        "ru": r"Двадцать втор", "fr": r"février 28", "de": r"Zwei-?Null-?Acht|Zwei-Acht-Acht|Zweiundzwanzigacht",
+        "vi": r"Hai Ba Bát|Hai Hai Ba\b|Hai bảy|Hai Bảo|Tháng Tư 28|Nhị Thập Bát|Hai Mươi Tám|Hai tám tám|Hòa bình 22-8|Hai tháng 28",
+        "ko": r"이이사|이二八|이얼바|에르에바", "hi": r"दो-अठारह|दो-अर-बाह", "es": r"Er'Erba", "pt": r"28 de Fever\b",
+    },
+    "九二一": {
+        "en": r"19921|1992 [Ee]arthquake", "de": r"Erdbebens? von 1992|19921", "fr": r"Jiujiaoying|Jiuzichi|19921", "es": r"Jiuzhi\b|19921",
+        "id": r"Jiuzichi|19921", "hi": r"नवगौजी|1992 के भूकंप", "ar": r"جيوتشوان|1992 \(سنة بعد", "ja": r"九妹一",
+    },
+    "八八風災": {"ko": r"八八 풍수해"},
+}
+# 日期字串本身合法（2015 年 3 月 22 日的抗議、新聞日期），只有出現在 1947 或「事件」字眼附近才算錯
+WRONG_DATE: dict[str, dict[str, str]] = {
+    "二二八": {"ru": r"22 (февраля|августа)", "fr": r"22 mars", "es": r"22 de (febrero|marzo)", "de": r"22\. (Februar|März)",
+             "en": r"(February|March) 22|22 (February|March)", "pt": r"22 de (fevereiro|março)", "id": r"22 (Februari|Maret)"},
+}
+EVENT_CONTEXT = r"1947|[Ii]ncident|[Ée]vénement|Incidente|Vorfall|Ereignis|Zwischenfall|Insiden|Peristiwa|событи|инцидент|massacre|Massaker|masacre"
 
 
 def zh_prose(text: str) -> str:
@@ -102,6 +124,21 @@ def check(event: str, lang: str, zh_text: str, tr_text: str) -> int:
     return n
 
 
+def known_wrong(event: str, lang: str, tr_text: str) -> list[str]:
+    """譯文正文裡出現的已確認錯形式（去重）。"""
+    body = body_of(tr_text)
+    hits = set()
+    pat = WRONG.get(event, {}).get(lang)
+    if pat:
+        hits |= {m.group(0) for m in re.finditer(pat, body)}
+    dpat = WRONG_DATE.get(event, {}).get(lang)
+    if dpat:
+        for m in re.finditer(dpat, body):
+            if re.search(EVENT_CONTEXT, body[max(0, m.start() - 80):m.end() + 80]):
+                hits.add(m.group(0))
+    return sorted(hits)
+
+
 def main() -> int:
     args = sys.argv[1:]
     events = list(EVENTS)
@@ -114,6 +151,7 @@ def main() -> int:
               if not p.name.startswith("_")])
     zh_cache: dict[Path, str] = {}
     found = {e: [] for e in events}
+    wrong_hits = {e: [] for e in events}
     for p in files:
         lang = p.relative_to(KNOWLEDGE).parts[0]
         t = p.read_text(encoding="utf-8")
@@ -127,10 +165,16 @@ def main() -> int:
             n = check(e, lang, zh_cache[zp], t)
             if n:
                 found[e].append((p.relative_to(REPO).as_posix(), n))
+            w = known_wrong(e, lang, t) if re.search(EVENTS[e]["zh"], zh_prose(zh_cache[zp])) else []
+            if w:
+                wrong_hits[e].append((p.relative_to(REPO).as_posix(), w))
     for e in events:
         print(f"{e}：{len(found[e])} 篇譯文找不到認得出來的寫法（zh 正文提到次數）")
         for rel, n in found[e]:
             print(f"  {rel}  ×{n}")
+        print(f"{e}：{len(wrong_hits[e])} 篇譯文有已確認的錯形式")
+        for rel, w in wrong_hits[e]:
+            print(f"  {rel}  {w}")
     return 0
 
 

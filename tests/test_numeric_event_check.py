@@ -41,3 +41,17 @@ def test_french_non_breaking_space_between_day_and_month_is_recognized():
     # 2026-09-28 實例：fr〈白先勇〉「parc de la paix du 28 février」審查為正確，數字與月份之間是 U+00A0
     tr = "---\ntitle: t\n---\nle parc de la paix du 28 février\n"
     assert MODULE.check("二二八", "fr", ZH, tr) == 0
+
+
+def test_known_wrong_form_is_reported_even_when_a_correct_form_is_also_present():
+    # 2026-09-28 實例：en〈台灣高鐵〉別處寫了 921，小標卻是「Safety Engineered After the 19921 Earthquake」
+    tr = "---\ntitle: t\n---\n## Safety Engineered After the 19921 Earthquake\n\nThe 921 earthquake of 1999...\n"
+    assert MODULE.known_wrong("九二一", "en", tr) == ["19921"]
+    assert MODULE.known_wrong("九二一", "en", "---\ntitle: t\n---\nThe 921 earthquake.\n") == []
+
+
+def test_a_real_22_march_date_is_not_a_228_error_but_one_next_to_1947_is():
+    ok = "---\ntitle: t\n---\nLe 22 mars 2015, 200 manifestants ont marché jusqu'au siège.\n"
+    bad = "---\ntitle: t\n---\nAprès les événements du 22 mars 1947, la répression s'abattit.\n"
+    assert MODULE.known_wrong("二二八", "fr", ok) == []
+    assert MODULE.known_wrong("二二八", "fr", bad) == ["22 mars"]
