@@ -6,7 +6,7 @@ status: 'buffer'
 apoptosis: 'never'
 current_version: 'v3.7'
 last_updated: 2026-09-27
-last_session: '2026-09-27 twmd-distill-weekly：39 entries distilled（REFLEXES #100-#101 + 11 fold + MEMORY §神經迴路 +2 instance + 3 pipeline 一句 + 9 already-covered），§未消化 102→63'
+last_session: '2026-09-27-211031-twmd-routine-audit-weekly：+2 新 entry（佇列編號無配號者 vc=3 distill_ready／結案句不重數 vc=1）＋ tool-measures-the-tree vc 2→3 distill_ready ＋ sitemap instance 結案註'
 sister_docs:
   - 'MEMORY.md'
   - 'DIARY.md'
@@ -332,6 +332,34 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-27 twmd-routine-audit-weekly — append-only-queue-numbering-has-no-allocator：佇列編號是「讀表上最大號加一」，兩個平行 session 讀到同一個最大號，而號碼先流到公開留言才被發現撞了
+
+- **pattern**: `append-only-queue-numbering-has-no-allocator`
+- **原則**：OBSERVER-QUEUE 的新列編號沒有配號者，每個 session 各自讀自己腳下那份表、取最大號加一。兩個 session 在同一個窗口裡各開一列，就會拿到同一個號。撞號本身不貴，貴的是號碼離開 repo 的速度比撞號被發現的速度快：三次裡有兩次，號碼在合併前已經寫進對外的公開回覆，於是「誰保留原號」由哪一邊先被外人引用決定，後到的那一列連同它在其他檔案裡的引用都要改號，而改號前寫下的 commit 訊息永遠指著舊號。
+- **觸發**：2026-09-27 本審計讀 7 天窗口的 commit 與 memory，同一種修補出現三次：(1) 09-17 feedback-triage 量到分岔期間本機與 origin 各自從下一個空號往下編，同一個 #56 兩邊指兩件事，三十三份未推送的交接文引用的名字在觀察者那側會解析成別的決策（diary 2026-09-17-071001）；(2) 09-27 00:43 維護班開 #81、00:52 babel 對話也開 #81，Discussion #1757 的公開回覆已引用前者，後者改 #84，`9a4ca85f9` 的 commit 訊息寫的「#81」其實是 #84（`06a8b1885`）；(3) 09-27 02:28 週體檢開 #85（整列黏在 #84 同一行、表上看不見），08:47 維護班也開 #85 並已在 issue #1609 對讀者公開引用，渦流 16:23 拆行改號 #86，週報與週體檢 memory 裡的「#85 twmd-review-stock」從此指的是 #86（`5f084f204`）。三次由三個不同 session 各自發現、各自修，沒有一次回頭看前一次。
+- **可能層級**：操作規則＋工具候選。REFLEXES #68（多核心 git 協調）管的是 commit／push／CI 三階段的碰撞，本條是第四個共享面：**共享計數器**。跟 #51（session ID 撞名用 schema 解）同一個形狀，#51 的解法是讓名字不必配號（時間戳＋handle），本條同樣可以這樣解。
+- **相關**：REFLEXES #68、#51；LESSONS `divergence-warning-is-tree-level-not-per-file`（09-14，同一段分岔期的另一面）
+- **候選機械化**：(a) 開列前先 `git fetch` 再讀最大號，並在 commit 前重讀一次（縮窗，不消除）；(b) pre-commit 檢查 OBSERVER-QUEUE 表內編號唯一、且每列以 `| ` 起頭（順便抓到 #85 黏行那種「表上看不見的列」）；(c) 對外引用前先 push，讓號碼在公開之前先落在 origin。(b) 是零判斷的一道閘，最便宜。
+- **instances**：
+  - 2026-09-17 twmd-feedback-triage — 分岔期兩側各編 #56
+  - 2026-09-27 00:52 babel-vortex × 00:43 twmd-maintainer — 雙 #81，後者改 #84
+  - 2026-09-27 08:47 twmd-maintainer-am × 02:28 twmd-weekly-report-sun — 雙 #85（其一黏行不可見），後者改 #86
+- **verification_count**: 3
+- **distill_ready**: true
+- **severity**: structural
+
+### 2026-09-27 twmd-routine-audit-weekly — closure-written-from-the-mechanism-not-the-recount：結案句根據「修法應該會讓它消失」寫成，沒有重數一次它還在不在
+
+- **pattern**: `closure-written-from-the-mechanism-not-the-recount`
+- **原則**：一條教訓升進 canonical 時附的「根源已收掉」，是從修法的設計推出來的，沒有在修法上線之後重數一次症狀。09-27 distill 把 `steady-state-reconciliation-has-no-owner-after-the-crisis-does` 折進 REFLEXES #68 子規則，判準寫「根源已在 09-26 由推送常駐收掉」。本審計重數 7 天窗口的「把 origin 併進本機」merge commit：09-21～09-25 每天 4～5 筆，推送常駐 09-26 10:27 上線之後，09-26 當天 11 筆、09-27 13 筆。形狀確實變了：09-20 那種單筆 4,304 檔的跨機器大併消失了，換成每筆 1～15 檔的小併，集中在 09-26 23:00～09-27 01:25 渦流、babel 夜班、維護班三個 session 同時推送的那兩個半小時。推送常駐收掉的是「營運機產線不推」那個根；平行 session 在同一台機器上 `git pull`（本機 `pull.rebase` 未設定，預設 merge）這個根還在。兩句話都對，canonical 裡只寫了前一句。
+- **觸發**：2026-09-27 本審計 Stage 2 對 `git log --merges` 逐日計數，對照 REFLEXES #68 L405 的結案句。→ reports/routine-audit-2026-09-27.md §3A
+- **可能層級**：distill SOP 的一步（fold 或升號時，凡寫「已收掉／已根治」的句子，附一個上線後的重數讀數與日期）；或 REFLEXES #67（「已驗過」帶被驗時刻的時間戳）的新載體：這次帶時間戳的是結案句，被驗的是修法而不是症狀。
+- **相關**：REFLEXES #67、#68、#100（驗證對象要等於落地對象）；LESSONS `fix-lands-in-a-layer-the-platform-never-reads`（同樣是修法上線即視為已修，那條差在平台不讀，本條差在症狀換了形狀）
+- **instances**：
+  - 2026-09-27 twmd-distill-weekly — #68 fold 的「根源已收掉」，上線後 merge commit 從 4～5／日升到 11～13／日
+- **verification_count**: 1
+- **severity**: tactical
+
 ### 2026-09-27 babel-vortex — pathspec-commit-hook-edits-strand-in-a-temporary-index：路徑式 commit 的 hook 改寫只進 commit，真 index 留改寫前的版本
 
 - **pattern**: `pathspec-commit-hook-edits-strand-in-a-temporary-index`
@@ -408,6 +436,7 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **相關**：REFLEXES #84（發佈產物要對賬 ground truth。差別：#84 收的是產物內容跟真相不一致，這次是整份產物根本不被平台讀取，內容對不對都沒差）；#82（產物存在當成效果的替身）；MANIFESTO §6 註「CF 是前面的 DNS/CDN 層，部署是 GitHub Pages」2026-07-17 部署平台真相修正，那次修正沒傳到產生器檔頭
 - **instances**：
   - 2026-09-26 twmd-maintainer：auth-watchdog 09-24、09-25 兩班都在 repo 修了登入判斷，launchd 跑的是 `~/.local/bin` 那份 09-11 的拷貝，修補從沒到過執行它的那一層，#1761 照樣誤報。補了看門狗自我比對（跟 origin/main 不同就在告警裡說）＋ `install-auth-watchdog.sh --local`（abc7f2978）→ memory/2026-09-26-230240-twmd-maintainer.md
+- **原 instance 結案（2026-09-27 routine-audit，不計 vc）**：`/sitemap.xml` 由 09-27 maintainer-am 改成 build 產出實檔之後，本審計 21:09 對線上 `curl -sI https://taiwan.md/sitemap.xml` 回 `HTTP/2 200`、`content-type: application/xml`。這次的驗收照本條處置 (d) 從讀者那側量，距 09-22 第一次「補 301」五天。
 - **verification_count**: 2
 - **severity**: tactical
 
@@ -756,7 +785,9 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **instances**：
   - 2026-08-27 twmd-maintainer-manual — `translation-ratio-check.sh --pr N` 對本機工作樹開 PR 的新檔，穩定假 FAIL → 本 entry
   - 2026-09-27 babel-vortex — 反方向的同一個病：工作樹比 origin 多三篇沒 commit 的譯文（dispatcher 前一晚重啟時遺落），status.py 讀工作樹照算 fresh，12:41 宣告十二語缺口歸零後連續三輪讀同一個 0，origin 上其實缺三對，連 commit 進去的 `_translation-status.json` 也寫 fresh。問的是「站上缺幾對」，量的是「我腳下這棵樹缺幾對」。修法：babel-pulse 數孤兒（工作樹有、HEAD 沒有、不在活產線批次，`090980362`），渦流 SOP v1.65 規定孤兒 > 0 時 gap=0 不成立 → memory/2026-09-26-100333-babel-vortex.md
-- **verification_count**: 2
+  - 2026-09-25 semiont-heartbeat（2026-09-27 routine-audit 補登）— 第三個載體：`check-parallel-actor.sh` 只看主工作樹，11:30 那輪排程死在 commit 前、四個檔的未 commit 修改留在 `.worktrees/20260925-heartbeat-queue-defaults/`，平行檢查照樣回 CLEAN，下一輪差點在主樹重做一次較差的版本。問的是「有沒有別人的工作在飛」，量的是「主樹乾不乾淨」。三個 instance 是三支不同工具（PR 量尺、缺口脈搏、平行檢查）、三個不同 session 獨立撞到 → memory/2026-09-25-144832-semiont-heartbeat.md
+- **verification_count**: 3
+- **distill_ready**: true
 - **severity**: high（在 canonical SOP 指名的位置上長期假 FAIL）
 
 ### 2026-08-27 twmd-maintainer-manual — cleanup-step-assumes-the-file-is-new：診斷用的還原步驟寫成 `rm`，遇到已在 main 的檔就是刪掉線上內容
