@@ -327,3 +327,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-28 | 011542-twmd-supporters-weekly | 第七輪 0 候選：正控制對 06–07 月仍命中，隱私 gate 兩條 PASS，NT$8,400 不變；定額續扣缺席照引 OBSERVER-QUEUE #75（待決） | 佇列項沒新資料時，交接寫下一個有資料的日期 | [→](memory/2026-09-28-011542-twmd-supporters-weekly.md) |
 | 2026-09-28 | 053916-twmd-routine-sync | 第 61 輪：十八條三層零漂移；live 鏡像齡 23.6 小時，照前例用 list_scheduled_tasks 逐條補驗 cron／enabled 零差；昨天補送的 babel 殼今晨第一班已讀到 | 補驗第五輪仍靠當班記得，交接照原樣傳 10-04 self-evolve | [→](memory/2026-09-28-053916-twmd-routine-sync.md) |
 | 2026-09-28 | 055906-twmd-embeddings-nightly | 13 語 14,469 向量 0 fail，verify PASS，`8b0ab0bd1` 推上；篇數不變但 687 篇譯文的鄰居換了，全來自 babel-vortex 重譯 | 篇數封頂後，索引有沒有反映站上變化要看鄰居變動量 | [→](memory/2026-09-28-055906-twmd-embeddings-nightly.md) |
+| 2026-09-28 | 061044-twmd-data-refresh-am | 14 步全綠零過期，狀態板寬限第一次生效；404 unknown 連兩夜過半、榜首 /rclone.conf，五個探路名收進掃描器 | ms/page 146→104 是分母長大不是變快；zsh 不拆未加引號的變數 | [→](memory/2026-09-28-061044-twmd-data-refresh-am.md) |
