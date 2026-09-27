@@ -76,3 +76,16 @@ def test_chinese_numeral_parser():
     assert MODULE._cn_int("兩千") == 2000
     assert MODULE._cn_int("十") == 10
     assert MODULE._cn_int("一百二十") == 120
+
+
+def test_approximate_chinese_numeral_counts_as_a_twin(tmp_path):
+    # 「一千多億」＝1,000 億以上；譯成 more than NT$100 billion 是對的，
+    # 不該讓另一處「100億」（10 billion）被報成沒換算
+    zh = "政府補貼一千多億元，另有利息 100億 元。"
+    out = "Subsidies exceeded NT$100 billion, plus NT$10 billion in interest."
+    assert run(tmp_path, zh, out, "en") == []
+
+
+def test_arabic_approximate_figure_is_still_checked(tmp_path):
+    hits = run(tmp_path, "累計 1,000多億 元。", "A cumulative 1,000 billion dollars.", "en")
+    assert len(hits) == 1
