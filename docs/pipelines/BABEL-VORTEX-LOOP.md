@@ -3,7 +3,7 @@ title: 'BABEL-VORTEX-LOOP'
 description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.55)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.67'
+current_version: 'v1.68'
 last_updated: 2026-09-27
 last_session: '2026-09-26-100333-babel-vortex（翻譯率 100% 模式：推送常駐、付費 Haiku、閘門家族、委派 worktree 路徑陷阱與核准視窗、腳註修復器的語言盲）'
 sister_docs:
@@ -292,6 +292,12 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 證據（重試觸發次數），不是相關性。
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
+
+- v1.68（2026-09-27 晚間第十七輪）：**worktree 裡的 commit 一個 hook 都不跑**。上一輪留了一個沒驗的疑點，這輪用
+  GIT*TRACE 實測：`core.hooksPath` 是相對路徑 `.husky/*`，而 `.husky/\_`是 husky 在 npm install 時生成、自帶`.gitignore('\*')`的目錄，新 worktree 裡沒有它，git 找不到 hook 就靜默略過。worktree 裡的 commit 與`semiont-worktree.sh ship` 因此繞過 pre-commit 與 pre-push 的全部閘門，只剩 CI；維護班 session 與 routine 都在
+worktree 裡 commit。`semiont-worktree.sh new`改成複製一份包裝腳本（它照 git 呼叫的路徑找本 worktree 的`.husky/<hook>`；自帶的 .gitignore 讓它不會被 `git add -A`帶進 commit，所以不用 symlink），探針 worktree 實測
+pre-commit 全段跑完、commit 成功後移除；委派 worktree 補裝。沒補到的：routine 自己的`20260927-self-evolve-weekly`（不動別人的樹），以及 app 或 EnterWorktree 開、不經這支腳本的 worktree。全面的解是把
+`core.hooksPath`設成絕對路徑，但 npm install 會改回相對，而且是全機常駐設定，交哲宇。另記：驗 hook 時別開`GIT_TRACE=1`，trace 會混進 lint-staged 讀的 git 輸出，讓它誤判「沒有初始 commit」而失敗。
 
 - v1.67（2026-09-27 傍晚第十六輪）：**「查不出是哪個程序」的殘留暫存，是渦流自己的 commit 留的**。v1.66 的讀數
   上線後第一次巡檢就讀到 2：`babel-live.json` 與 `live.html`，內容是 17:10 快照 commit 當下的原始輸出（JSON 1 格縮排、

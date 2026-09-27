@@ -59,6 +59,12 @@ case "$CMD" in
     [ -f "${ROOT}/.env" ] && ln -sf "${ROOT}/.env" "${PATH_NEW}/.env"
     # credentials 目錄也要共享（REFLEXES #2 鐵律：credentials 只能一個地方）
     [ -d "${ROOT}/.credentials" ] && ln -sf "${ROOT}/.credentials" "${PATH_NEW}/.credentials"
+    # git hooks：core.hooksPath 是相對路徑 `.husky/_`，而 `.husky/_` 是 husky 在 npm install 時生成、
+    # 自帶 .gitignore('*') 的目錄，新 worktree 裡沒有它 → git 找不到任何 hook，pre-commit／pre-push
+    # 全部靜默不跑，worktree 的 commit 與 ship 等於繞過所有閘門（2026-09-27 渦流第十七輪用 GIT_TRACE 實測）。
+    # 複製一份包裝腳本：它照 git 呼叫的路徑找 `.husky/<hook>`，跑的是本 worktree 自己那份 hook；
+    # 內含的 .gitignore 讓它不會被 `git add -A` 帶進 commit（symlink 會被當成未追蹤檔，不用）。
+    [ -d "${ROOT}/.husky/_" ] && cp -R "${ROOT}/.husky/_" "${PATH_NEW}/.husky/_"
 
     BASE_SHA="$(git -C "${PATH_NEW}" rev-parse --short HEAD)"
     echo "base: ${FROM_REF} @ ${BASE_SHA}"
@@ -122,7 +128,7 @@ semiont-worktree.sh — 多 session 平行 worktree 管理
 
 Usage:
   $0 new <letter> [--from <ref>]   # 開新 worktree（.worktrees/YYYYMMDD-<letter>/）
-                    # 自動 symlink node_modules / .env / .credentials
+                    # 自動 symlink node_modules / .env / .credentials，複製 husky 包裝腳本（hooks 才會跑）
                     # --from 預設 main；本地 main 領先 origin 時用 --from origin/main
   $0 list            # 列出現有 worktree
   $0 ship            # 在 worktree 內：pull rebase + push + 自毀
