@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-28T05:45:41+08:00",
+  "generated_at": "2026-09-28T06:44:18+08:00",
   "producer": "scripts/tools/lang-sync/babel-pulse.py (launchd, 15min)",
-  "snapshot_ts": "2026-09-28T05:45:32+08:00",
+  "snapshot_ts": "2026-09-28T06:44:09+08:00",
   "total_zh": 1124,
   "langs": [
     {
@@ -117,13 +117,13 @@
   "gap_delta": 0,
   "rate_1h": {
     "delta": 0,
-    "span_h": 1.05,
+    "span_h": 1.25,
     "per_hour": 0.0
   },
   "rate_24h": {
     "delta": 66,
-    "span_h": 28.84,
-    "per_hour": 2.3
+    "span_h": 29.82,
+    "per_hour": 2.2
   },
   "eta_days": null,
   "nodes": {
@@ -233,8 +233,8 @@
   "dispatchers": [
     {
       "kind": "unified",
-      "pid": "99588",
-      "uptime": "00:17",
+      "pid": "27736",
+      "uptime": "00:14",
       "langs": "",
       "workers": 11
     }
@@ -331,23 +331,23 @@
     "sample": []
   },
   "url_mismatch": {
-    "count": 621,
+    "count": 589,
     "by_lang": {
-      "en": 53,
-      "ja": 91,
-      "ko": 57,
-      "es": 75,
-      "fr": 64,
-      "vi": 55,
-      "id": 48,
-      "pt": 43,
-      "hi": 47,
-      "ar": 27,
-      "ru": 33,
+      "en": 50,
+      "ja": 87,
+      "ko": 55,
+      "es": 71,
+      "fr": 61,
+      "vi": 54,
+      "id": 45,
+      "pt": 39,
+      "hi": 45,
+      "ar": 26,
+      "ru": 28,
       "de": 28
     },
-    "missing": 1240,
-    "extra": 721,
+    "missing": 1186,
+    "extra": 662,
     "sample": [
       {
         "path": "knowledge/en/Music/choir.md",
@@ -412,16 +412,6 @@
     ]
   },
   "history": [
-    {
-      "ts": "2026-08-08T22:01:02+08:00",
-      "fresh_total": 8045,
-      "gap_total": 1701
-    },
-    {
-      "ts": "2026-08-08T22:16:12+08:00",
-      "fresh_total": 8045,
-      "gap_total": 1701
-    },
     {
       "ts": "2026-08-08T22:31:22+08:00",
       "fresh_total": 8045,
@@ -889,6 +879,16 @@
     },
     {
       "ts": "2026-09-28T05:45:32+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-28T06:29:04+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-28T06:44:09+08:00",
       "fresh_total": 13488,
       "gap_total": 0
     }
