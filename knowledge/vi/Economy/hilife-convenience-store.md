@@ -91,7 +91,7 @@ Câu chuyện của Hi-Life không chỉ là sự thịnh suy của một doanh 
 
 [^4]: [CM Media: Hi-Life thay đổi thế hệ, gia tộc họ Uông rút lui khỏi quản lý, Tập đoàn Union nắm quyền chủ đạo](https://www.cmmedia.com.tw/home/articles/43287) — Tin tức về việc gia tộc họ Uông rút hoàn toàn và sự lên nắm quyền của Chủ tịch mới Lý Văn Minh (Li Wen-ming).
 
-[^7]: [Threads: Chủ của Hi-Life vốn là Quang Tuyền (nên bảng hiệu có màu đỏ)](https://www.threads.com/@marktosay/post/DQQP1V9gọc/) — Quan sát trực quan của người dùng mạng xã hội về việc thay đổi nhận diện từ "đỏ" sang "xanh dương/xanh lá".
+[^7]: [Threads: Chủ của Hi-Life vốn là Quang Tuyền (nên bảng hiệu có màu đỏ)](https://www.threads.com/@marktosay/post/DQQP1V9gdy2/) — Quan sát trực quan của người dùng mạng xã hội về việc thay đổi nhận diện từ "đỏ" sang "xanh dương/xanh lá".
 
 [^10]: [Economic Daily News: Ngân hàng Union hợp tác với Hi-Life thắt chặt bố cục tài chính bán lẻ, chương trình hoàn tiền 5% kéo dài đến năm 2026](https://money.udn.com/money/story/5613/9145086) — Đưa tin về việc Ngân hàng Union coi Hi-Life là mắt xích quan trọng trong chiến lược tài chính bán lẻ.
 

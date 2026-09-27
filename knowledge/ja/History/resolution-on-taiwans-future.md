@@ -150,7 +150,7 @@ translatedAt: '2026-05-18T05:08:08+08:00'
 
 [^7]: [1996年中華民国大統領選挙](https://zh.wikipedia.org/zh-tw/1996年中華民國總統選挙) —— 彭明敏／謝長廷得票率21.13%、李登輝／連戦54%。
 
-[^8]: [台湾独立運動の新世代綱領](https://zh.wikipedia.org/wiki/台湾独立運動の新世代綱領) —— 1996年5月10日周奕成執筆、百余名が連署。
+[^8]: [台湾独立運動の新世代綱領](https://zh.wikipedia.org/wiki/台灣獨立運動的新世代綱領) —— 1996年5月10日周奕成執筆、百余名が連署。
 
 [^9]: [CRS Report 98-837: Taiwan: The "Three No's"](https://www.everycrsreport.com/reports/98-837.html) —— アメリカ国会研究処 1998、[ワシントン・ポスト1998.6.30報道](https://www.washingtonpost.com/archive/politics/1998/06/30/clinton-restates-three-noes-policy-on-taiwan/) にも同時記録あり。
 
