@@ -3,7 +3,7 @@ title: 'BABEL-VORTEX-LOOP'
 description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.55)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.77'
+current_version: 'v1.78'
 last_updated: 2026-09-28
 last_session: '2026-09-26-100333-babel-vortex（翻譯率 100% 模式：推送常駐、付費 Haiku、閘門家族、委派 worktree 路徑陷阱與核准視窗、腳註修復器的語言盲）'
 sister_docs:
@@ -293,6 +293,20 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 證據（重試觸發次數），不是相關性。
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
+
+- v1.78（2026-09-28 凌晨第二十五輪）：**網址跟 zh 不一樣的譯文，存量 648 篇**。把上一輪 es〈滷肉飯〉的兩種網址病
+  （斷掉、譯者自加）往全庫量：`babel-pulse` 加第三族 `網址不符=N`（648 篇；判準直接 import verify 的 `extract_urls`，
+  新譯文都要過這道閘，讀數只該往下走，往上走就是有產線繞過閘門）。現成的 `restore-footnote-urls.py`（委派派工單
+  早就在用，從沒對存量跑過）乾跑可還原 790 個網址／416 篇，抽樣全是讀者點了會壞的連結（網域拼錯、維基網址被改
+  一個位元組）→ 超過 50 檔進 OBSERVER-QUEUE #90。還原後剩下的用 zh 自己的 git 歷史分兩種：網址出現在 zh 舊版的
+  （譯文照改版前的 zh 翻，被批次 bump 成 fresh）9 篇；zh 從來沒有的（譯者捏造：Google 搜尋亂碼、三條共用同一個
+  slug 的 Kompas 報導、`www.zoo.com`）20 篇。前者與捏造整段參考資料的 9 篇交第十五波（16 Haiku＋2 Sonnet）照現在
+  的 zh 重譯，其餘手修（站內連結寫成完整網址 6 篇、自加或換掉維基連結 6 篇）。**兩個教訓**：(a) 看起來錯的網址先查
+  zh 有沒有同一條——36 條 `https://taiwan.md/…` 是 zh 自己引的，出處照 zh 原樣保留；第一版一律改寫，被腳註格式閘門
+  擋下才發現。(b) zsh 的 `$VAR` 不拆字，檢查跑在 0 個檔上照樣印「0 failing」；讀檢查結果要連檔數一起看。驗收另抓到
+  agent 自己的拼寫（沈向洋寫成 Shen Hsiang-yang、朗島 Langpu、浩鼎 Haoding Biotech、揚昇 Yangshang），照各語語料
+  改回。zh〈曾雅妮〉寫 2011 年 6 月 Wegmans LPGA 錦標賽在桃園揚昇舉行，十二語照抄；疑似把 6 月美國那場跟 10 月桃園
+  那場混在一起，交 FACTCHECK 查證，不在翻譯層改。
 
 - v1.77（2026-09-28 凌晨第二十四輪）：**譯文殘留的 wikilink，站上把中文秀給讀者**。上一輪為了讓 es〈台語歌演化〉
   過閘，自創了 `[[zh 條目|譯名]]` 的寫法；這輪才讀到 07-18 的 `flatten-translation-wikilinks.py` 與 09-22 起三條引擎
