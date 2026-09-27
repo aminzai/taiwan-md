@@ -55,7 +55,7 @@ El origen del arroz con cerdo estofado se remonta a la cultura de los barrios mi
 
 Las madres de los barrios militares combinaron las técnicas culinarias de sus lugares de origen con los ingredientes locales taiwaneses, desarrollando una forma única de preparar el cerdo estofado. Utilizaban piel de cerdo para añadir colágeno, azúcar de caña para realzar el dulzor y fuego alto para reducir la salsa y oscurecer su color. Estas técnicas, aparentemente sencillas, encierran una profunda sabiduría culinaria.
 
-A medida que los barrios militares fueron demolidos, estos conocimientos se dispersaron por toda la isla. Muchos de los establecimientos clásicos de arroz con cerdo estofado pueden rastrear sus raíces hasta los barrios militares. Por ejemplo, el arroz con cerdo estofado que sirve la esposa del dueño de [Liu Shandong Beef Noodle](https://es.wikipedia.org/wiki/Sopa_de_fideos_con_carne_de_Shanghai) en Taipéi conserva un marcado sabor shandongés.
+A medida que los barrios militares fueron demolidos, estos conocimientos se dispersaron por toda la isla. Muchos de los establecimientos clásicos de arroz con cerdo estofado pueden rastrear sus raíces hasta los barrios militares. Por ejemplo, el arroz con cerdo estofado que sirve la esposa del dueño de Liu Shandong Beef Noodle en Taipéi conserva un marcado sabor shandongés.
 
 ## La controversia del "plato nacional" de 2011
 
