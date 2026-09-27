@@ -332,6 +332,15 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-27 babel-vortex — pathspec-commit-hook-edits-strand-in-a-temporary-index：路徑式 commit 的 hook 改寫只進 commit，真 index 留改寫前的版本
+
+- **pattern**: `pathspec-commit-hook-edits-strand-in-a-temporary-index`
+- **原則**：`git commit -- <檔>` 的 pre-commit 跑在暫時 index（`.git/next-index-*.lock`）上；lint-staged／prettier 改寫的內容只進 commit，真正的 `.git/index` 在 hook 前就寫成改寫前的版本，事後不回頭。HEAD＝工作樹＝格式化版、index＝舊版，看起來像有人暫存了東西沒 commit，而且會擋 push-every 合併 origin。
+- **觸發**：2026-09-27 一天三次（14:30、16:27、17:10），都緊接在渦流自己的路徑式 commit 之後。下午我把它寫成「來路不明」、去問了維護班 session（對方確認不是它），第三次才被新讀數 `殘留暫存` 當場抓到，用一支會改寫檔案的 pre-commit 在暫存 repo 重現確認。修法 `.husky/post-commit` → `scripts/tools/lib/post-commit-index-sync.py`（剛 commit 的路徑 index≠HEAD 且工作樹＝HEAD 就對齊）→ memory/2026-09-26-100333-babel-vortex.md
+- **可能層級**：操作規則（已儀器化）＋通用反射候選：自己的動作之後冒出的「來路不明」殘留，先查自己的工具鏈，再去找別的 actor
+- **相關**：REFLEXES #68（平行 session 一律用 pathspec commit 的建議正是觸發條件；新維度是 hook 的副作用落在暫時 index）；LESSONS `tool-measures-the-tree-it-stands-in-not-the-thing-it-was-asked-about`（同一天、同一個「讀數站在哪棵樹」的家族）
+- **verification_count**: 1
+
 ### 2026-09-27 twmd-maintainer-am — read-cap-outgrown-by-the-thing-it-reads：對賬器的取數上限被它要對賬的檔案長過去，一邊少驗、一邊假報，兩個方向互相掩護
 
 - **pattern**: `read-cap-outgrown-by-the-thing-it-reads`
