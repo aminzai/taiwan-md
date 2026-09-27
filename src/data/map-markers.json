@@ -9218,17 +9218,6 @@
     "city": "台北"
   },
   {
-    "title": "Chiayi-Stadt: Vom Kaiser in Chiayi benannt, doch zur am wenigsten beachteten Provinzhauptstadt geworden",
-    "lat": 23.478852,
-    "lng": 120.454216,
-    "category": "geography",
-    "region": "south",
-    "link": "/geography/chiayi-city",
-    "lang": "zh-TW",
-    "desc": "Im 52. Regierungsjahr des Kaiserreichs Qing verlieh der Kaiser in seinem Edikt die Bezeichnung „Zhuluo“ in „Chiayi“ – die einzige Stadt Taiwans, deren Name direkt vom Kaiser verliehen wurde. 1908 errichteten die Japaner in einem Reisfeld 3,3 Kilometer südwestlich der Stadt den ersten weltweit existierenden Äquator-Monumentpfahl. 1931 erreichten die gemischten Chiayi-Bauern- und Forstwirtschaftsteams das Chiayi-Semifinale im Jahr des Drachen. Am 25. März 1947 wurde der Maler Chen Chengbao in der Eisenbahnhalle erschossen; sein Leichnam lag drei Tage in der Gasse. Heute zählt Chiayi-Stadt zu 260.000 Einwohnern und 60 Quadratkilometern, ohne einen Hochgeschwindigkeitszugang, von Chiayi-Kreis vollständig umringt – ein Repräsentativexemplar der mittelgroßen Städte Taiwans.",
-    "city": "嘉義"
-  },
-  {
     "title": "Chiayi County: 490,000 Menschen leihen ihr Gesicht dem Alishan, doch die Kreisstadt Taibao wird vergessen",
     "lat": 23.478197,
     "lng": 120.45307,
@@ -9238,6 +9227,17 @@
     "lang": "zh-TW",
     "desc": "Um fünf Uhr morgens liegen die Austernkulturen vor der Küste von Dongshi noch im Wasser – die Hälfte aller Austern des Landes kommt aus diesem Meer. Hundert Kilometer entfernt führt die 1912 eröffnete Waldbahn des Alishan über eine Gesamtlänge von 66,6 Kilometern bis zum Wald von Erbaiyaping. Neben dem Hochgeschwindigkeitsbahnhof Taibao in der Mitte wurde das Palastmuseum Süd-Filiale nach 15 Jahren Bauzeit eröffnet und zog 2018 760.000 Besucher an. Als die Kreisregierung 1991 von Chiayi Stadt nach Taibao verlegt wurde, hielt die ganze Nation Chiayi für die Stadt Chiayi. Fünfunddreißig Jahre später umgeben 490.000 Menschen des Landkreises die abgetrennte Stadt mit 270.000 Einwohnern, während der Alterungsindex des Landkreises mit 174% landesweit an erster Stelle steht.",
     "city": "嘉義"
+  },
+  {
+    "title": "Dalongdong: Der Weihrauch des Baoan-Tempels, die Glocke des Konfuzius-Tempels und der blaue Himmel mit weißer Sonne über Yuanshan – drei Epochen des Taipeher Glaubens",
+    "lat": 25.032707,
+    "lng": 121.571203,
+    "category": "geography",
+    "region": "north",
+    "link": "/geography/dalongdong",
+    "lang": "zh-TW",
+    "desc": "Von dem 5.300 Jahre alten Muschelhaufen von Yuanshan bis zum notdürftigen Bau des Baoan-Tempels durch Tong’an-Migranten im Jahr 1742, von Chen Wei-yings bestandenem Provinzexamen 1859 mit dem Ruf „alle fünf Schritte ein Xiucai, alle zehn Schritte ein Juren“ bis zum 1925 von lokalen Honoratioren finanzierten Wiederaufbau des von den Japanern abgerissenen Konfuzius-Tempels, vom Flugzeugabsturz, der 1944 den Schrein zerstörte, bis zu dem 14-stöckigen Bau im chinesischen Palaststil, den Yang Cho-cheng 1973 am selben Ort für das Grand Hotel Taipeh errichtete. Drei Räume des Glaubens liegen nebeneinander auf der 1,5 Kilometer langen Achse von Dalongdong bis Yuanshan, doch keiner entspricht der Version im Reiseprospekt: Der Baoan-Tempel ist die Stätte, für die Liao Wu-chih 1995 staatliche Zuschüsse ablehnte und NT$260 Millionen aus eigener Tasche aufbrachte – Taiwans erster mit dem UNESCO-Asien-Pazifik-Kulturerbepreis ausgezeichneter Ort; der Konfuzius-Tempel steht auf mehr als 3.000 Ping Land, das die Familie Chen Yueji und Koo Hsien-jung spendeten, damit Konfuzius nicht heimatlos blieb; das Grand Hotel Taipeh ist der rot gedeckte, gelbtraufige Bau, der schon 111 Staatsoberhäupter empfangen hat. Die Onkel und Tanten, die auf der Dalong-Street Tai Chi üben, stehen auf Taipehs am dichtesten verschachtelter Zeitscheibe.",
+    "city": "台北"
   },
   {
     "title": "Taiwans 22 Bezirke in Zahlen: Dichte-Unterschied von 151-fach, Altersunterschiede einer Generation",
@@ -9271,6 +9271,17 @@
     "lang": "zh-TW",
     "desc": "Im Jahr 1733 errichtete Xu Zhimin (徐治民) eine runde Erdburg in Zhuxian durch das Pflanzen von Bambus. Am 15. Dezember 1980 schnitt Chiang Ching-kuo (蔣經國) den roten Schleier für das erste Wissenschaftszentrum Taiwans.",
     "city": "新竹"
+  },
+  {
+    "title": "Kaohsiung: 1979 zur regierungsunmittelbaren Stadt erhoben, saßen acht Kaohsiunger im selben Jahr in Taipeh im Gefängnis",
+    "lat": 22.631008,
+    "lng": 120.297601,
+    "category": "geography",
+    "region": "south",
+    "link": "/geography/kaohsiung-city",
+    "lang": "zh-TW",
+    "desc": "Am 1. Juli 1979 wurde Kaohsiung zur zweiten regierungsunmittelbaren Stadt Taiwans erhoben. Am 10. Dezember desselben Jahres, dem Internationalen Tag der Menschenrechte, endete eine Kundgebung der Zeitschrift Formosa am Dagangpu-Kreisverkehr in Zusammenstößen unter Tränengas. Acht Menschen wurden verurteilt, und am 28. Februar 1980 ereignete sich in der Wohnung von Lin Yi-hsiung in der Xinyi-Straße in Taipeh ein Mordfall. Im selben Jahr 1979 erhielt Kaohsiung die administrative Ehre und schluckte zugleich die schwerste politische Unterdrückung der taiwanischen Nachkriegsgeschichte. 2,71 Millionen Menschen verteilen sich auf 38 Bezirke: Die Sandbank von Qijin, das Bunun-Dorf in Namasia, die Schornsteine von China Steel und das Aluminiumdach des Weiwuying-Zentrums teilen sich dieselbe Stadt. 45 Jahre lang hat diese Stadt ihre Wunden zu ihrer eigenen Form vernäht.",
+    "city": "高雄"
   },
   {
     "title": "Miaoli: Der County, dessen Kehnhals die Staatsverschuldung verdoppelte",
@@ -9601,6 +9612,17 @@
     "lang": "en",
     "desc": "On a Saturday afternoon, students line up in front of the red-brick theater at the end of Lane 5, Guling Street. Next to it are the National Museum of History, built in 1955, and the lotus pond of the Taipei Botanical Garden, reorganized in 1921. This 1.2-kilometer street was called Sakuma-cho in 1922 and renamed Guling Street in 1947 after Lushan in Jiangxi. After 1945, the books left behind when the Japanese withdrew were laid out along the roadside and became Taiwan's first used-book street. At its 1960s peak there were more than 200 vendors. After Guanghua Bridge opened in April 1973, the vendors were cleared out and moved beneath the Guanghua overpass. On June 15, 1961, on this street, 16-year-old Mao Wu killed 15-year-old Liu Min with a scout knife. In 1991, Edward Yang made the incident into a 237-minute film. The book street was dismantled, the stalls moved, and students began buying books elsewhere. What remains are the Japanese-era red-brick former police precinct, the postwar Chinese palace-style museum, and the lotus pond that has been in the same place since 1921.",
     "city": "台北"
+  },
+  {
+    "title": "Kaohsiung: In 1979, the Year It Became a Special Municipality, Eight Kaohsiung Natives Were Locked Up in Taipei",
+    "lat": 22.62002,
+    "lng": 120.307181,
+    "category": "geography",
+    "region": "south",
+    "link": "/en/geography/kaohsiung-city",
+    "lang": "en",
+    "desc": "On July 1, 1979, Kaohsiung became Taiwan's second special municipality. On December 10, International Human Rights Day, a Formosa Magazine rally at Dagangpu Roundabout turned into a clash under tear gas. Eight people were sentenced, and on February 28, 1980, a bloody attack struck Lin Yi-hsiung's home on Xinyi Road in Taipei. In that same year, 1979, Kaohsiung won administrative glory and absorbed postwar Taiwan's heaviest political repression. 2.71 million people are spread across 38 districts — the Qijin sandbar, the Bunun villages of Namasia, China Steel's smokestacks, and Weiwuying's aluminum-alloy roof all sharing one city — and it took this city 45 years to stitch that wound into its own shape.",
+    "city": "高雄"
   },
   {
     "title": "Lin An-Tai Old House: You Can Dismantle a House, but Not a Piece of Taipei",
@@ -10131,6 +10153,17 @@
     "city": "南投"
   },
   {
+    "title": "Chen Cheng-po",
+    "lat": 25.165283,
+    "lng": 121.439485,
+    "category": "people",
+    "region": "north",
+    "link": "/people/chen-cheng-po",
+    "lang": "zh-TW",
+    "desc": "Conquistó la Exposición Imperial de Tokio con sus óleos, pero fue fusilado frente a la estación de tren de Chiayi — y lo que hizo que el mundo lo conociera fue, con frecuencia, su muerte, no sus cuadros.",
+    "city": "新北"
+  },
+  {
     "title": "Chen Chien-nien: el rey de los Golden Melody del puesto policial; las canciones que dejó su abuelo materno, el nieto las convirtió en océano",
     "lat": 22.031859,
     "lng": 121.543739,
@@ -10637,6 +10670,17 @@
     "city": "桃園"
   },
   {
+    "title": "ताइवान VTuber: V-स्किन से परे, वर्चुअल आइडल को हक़ीक़त में कौन लाता है?",
+    "lat": 22.628798,
+    "lng": 120.294283,
+    "category": "culture",
+    "region": "south",
+    "link": "/culture/taiwan-vtuber",
+    "lang": "zh-TW",
+    "desc": "2017 में Yahoo TV ने हूनी को लॉन्च किया; ताइवान का VTuber उद्योग कॉर्पोरेट प्रयोग से बढ़कर 2025 तक 3,000 से ज़्यादा डेब्यू तक पहुँचा। इसने काऊशुंग की मिस लिन को बिना चेहरा दिखाए राजनीतिक लाइवस्ट्रीम का मौक़ा दिया, नान-ई और पब्लिक टेलीविज़न को किरदार से शिक्षा व सार्वजनिक कॉन्टेंट तक ले गया; साथ ही, स्थानीय निर्माता अब भी जापान की परिपक्व VTuber इंडस्ट्री और ताइवानी दर्शकों के बीच राह खोज रहे हैं।",
+    "city": "高雄"
+  },
+  {
     "title": "तारोको (Truku) जनजाति: 2004 में वापस पाया अपना नाम, तीन सौ पुराने गांवों को अब भी लौटना है",
     "lat": 24.162513,
     "lng": 121.626694,
@@ -11053,6 +11097,17 @@
     "lang": "zh-TW",
     "desc": "चांगहुआ शहर के काशू रोड सेगमेंट 2, नंबर 292 में, दरवाजे का नंबर एक पुराने काशू पेड़ के नाम पर रखा गया है जिसकी उम्र के बारे में अलग-अलग मत हैं — सड़क पेड़ के अनुसार बनाई गई, पेड़ पेड़ के अनुसार नहीं। 1898 में ताशिरो यासुसदा के वृक्षारोपण सिद्धांत से लेकर, 1980 के दशक में जंगली तरीके से लगाए गए ब्लैकबोर्ड पेड़ों तक, और 2026 में छह हजार से अधिक लोगों द्वारा सिर काटने वाली छंटाई पर प्रतिबंध लगाने की मांग करने वाली याचिका तक, ताइवान की हर पीढ़ी ने सड़क के पेड़ों के बारे में फैसले लिए हैं। बस यह है कि \"पूर्ण रूप से प्रतिबंधित\" लिखी गई छंटाई की मार्गदर्शिका आज भी केवल \"विभिन्न एजेंसियों के संदर्भ और उपयोग के लिए\" है।",
     "city": "台北"
+  },
+  {
+    "title": "चेन चिह-चुंग: तीन बार काऊशुंग नगर परिषद के लिए चुने गए, दो बार कार्यकाल क़ानून की धाराओं में ख़त्म हुआ",
+    "lat": 22.625463,
+    "lng": 120.305651,
+    "category": "people",
+    "region": "south",
+    "link": "/people/chen-chih-chung",
+    "lang": "zh-TW",
+    "desc": "18 अगस्त 2008 को वर्जीनिया विश्वविद्यालय लॉ स्कूल का नवागत ओरिएंटेशन शुरू हुआ। जे.डी. की पढ़ाई की तैयारी कर रहे चेन चिह-चुंग वहाँ नहीं पहुँचे, और उसी दिन उनकी दाख़िला योग्यता समाप्त हो गई। इसके बाद काऊशुंग के छ्येनचन–श्याओकांग क्षेत्र ने उन्हें तीन बार नगर परिषद के लिए चुना, जिनमें से दो बार उनका कार्यकाल फ़ैसला अंतिम होने के उसी क्षण ख़त्म हो गया — बीच में उन्होंने 272 दिन जेल में काटे। अप्रैल 2023 में अंतिम हुए फ़ैसले के मुख्य पाठ में नागरिक अधिकार वंचना नहीं थी। एक महीने बाद तीसरे वाचन से पारित चुनाव-वापसी क़ानून के \"काला धन विरोधी खंड\" ने उन्हें दोबारा उम्मीदवार के रूप में पंजीकरण करने से रोक दिया।",
+    "city": "高雄"
   },
   {
     "title": "एनो चेंग (Enno Cheng): सबसे अनजान भाषा में सबसे ईमानदार गीत लिखना — 2016 में पहचान सार्वजनिक करने से 2023 गोल्डन मेलोडी ताइवानी भाषा के दोहरे पुरस्कार तक के सात साल",
@@ -13080,8 +13135,8 @@
   },
   {
     "title": "夜市経済学：ブランドなき商業の奇跡",
-    "lat": 24.148103,
-    "lng": 120.678978,
+    "lat": 24.179103,
+    "lng": 120.651978,
     "category": "economy",
     "region": "central",
     "link": "/ja/economy/night-market-economics",
@@ -14256,14 +14311,14 @@
     "city": "彰化"
   },
   {
-    "title": "嘉義市：皇帝から嘉義の名を賜りながら、最も見過ごされやすい省轄市となった都市",
+    "title": "嘉義市：皇帝に「嘉義」の名を賜りながら、最も見過ごされやすい省轄市になった都市",
     "lat": 23.479163,
     "lng": 120.445308,
     "category": "geography",
     "region": "south",
     "link": "/ja/geography/chiayi-city",
     "lang": "ja",
-    "desc": "清の乾隆52年の詔書により「諸羅」は「嘉義」へ改名され、台湾で唯一、皇帝が自ら名を賜った城となりました。1908年、日本人はこの城の南西3.3キロの水田に、世界初の北回帰線標塔を建てました。1931年、嘉義農林の三民族混成チームは甲子園で準優勝しました。1947年3月25日、画家の陳澄波は駅前で縛られて銃殺され、遺体は路上に三日間置かれました。現在の嘉義市は人口26万人、面積60平方キロ、高鉄駅を持たず、嘉義県に完全に囲まれた、台湾の中規模都市の標本です。",
+    "desc": "清の乾隆52年（1787年）の詔により「諸羅」は「嘉義」と改名された。台湾で唯一、皇帝自らが名を賜った城である。1908年、日本人はこの街の南西3.3キロの水田に、世界初となる北回帰線標塔を建てた。1931年、嘉義農林の三民族混成チームは甲子園で準優勝を果たした。1947年3月25日、画家の陳澄波は駅前で縛られて銃殺され、遺体は路上に三日間放置された。今日の嘉義市は人口26万人、面積60平方キロ、高鉄駅を持たず嘉義県に完全に囲まれている、台湾の中規模都市の標本である。",
     "city": "嘉義"
   },
   {
@@ -14895,14 +14950,14 @@
   },
   {
     "title": "地形と地質",
-    "lat": 23.999124,
-    "lng": 121.602627,
+    "lat": 23.468292,
+    "lng": 120.953326,
     "category": "geography",
-    "region": "east",
+    "region": "central",
     "link": "/ja/geography/terrain-and-geology",
     "lang": "ja",
     "desc": "600万年の島には2億年前の古い記憶が秘められています — 世界で最も若い造山帯と最も激しいプレート衝突の奇跡です",
-    "city": "花蓮"
+    "city": "南投"
   },
   {
     "title": "宝岩（宝蔵巖）：30年間取り壊し続けられた違法建築集落が、台北で最もクールなアート村になったまで",
@@ -15561,7 +15616,7 @@
     "region": "north",
     "link": "/ja/history/taiwan-military-dependents-villages-history",
     "lang": "ja",
-    "desc": "ビルマの孤軍から竹の王国へ、120万人の大移動が「家」をいかに再定義したか",
+    "desc": "ビルマの孤軍から竹籬笆王国へ、120万人の大移動が「家」をいかに再定義したか",
     "city": "台北"
   },
   {
@@ -15948,6 +16003,17 @@
     "lang": "ja",
     "desc": "台湾高速鉄道は台北から高雄までを90分に縮めるだけでなく、民間BOTから技術の切り替え、そして公共の責担へと移る制度実験でもある。西部走廊がどのように変化したかは、財務、連携、そして駅地域によって決まる。",
     "city": "高雄"
+  },
+  {
+    "title": "台湾の公園と日常の余暇",
+    "lat": 25.040395,
+    "lng": 121.563175,
+    "category": "lifestyle",
+    "region": "north",
+    "link": "/ja/lifestyle/taiwan-parks-and-everyday-leisure",
+    "lang": "ja",
+    "desc": "早朝の太極拳から夜間の散歩まで――台湾の公園が世代を超えた社交の場として機能する文化観察",
+    "city": "台北"
   },
   {
     "title": "郵便局：1888年にまず開設、政権が変わっても窓口はそのまま",
@@ -18597,7 +18663,7 @@
     "region": "north",
     "link": "/ja/people/wei-tsung-cheng-comic-artist",
     "lang": "ja",
-    "desc": "2009年、『マ皇降臨』で韋宗成は同人誌からプロ漫画家へ転身しました。2010年から連載が始まった『冥戦録』は、九妹一地震後の台湾、西門町の街景、道教派閥、そしてマゾウの林默娘を少年冒険の物語に取り入れました。直感に反して、韋宗成は先に「台湾味」を設計してから物語を埋め込むのではなく、先に市場、バス、そして身近な伝説を描きました。その結果、地方は日常の細部の中から、花灯や歌仔戯の舞台に登りつく世界へと成長し、漫画の登場人物も紙の上を離れて生命を得ました。これにより、台湾漫画産業と信仰の再現を理解する入口となりました。",
+    "desc": "2009年、『マ皇降臨』で韋宗成は同人誌からプロ漫画家へ転身しました。2010年から連載が始まった『冥戦録』は、921大地震後の台湾、西門町の街景、道教派閥、そしてマゾウの林默娘を少年冒険の物語に取り入れました。直感に反して、韋宗成は先に「台湾味」を設計してから物語を埋め込むのではなく、先に市場、バス、そして身近な伝説を描きました。その結果、地方は日常の細部の中から、花灯や歌仔戯の舞台に登りつく世界へと成長し、漫画の登場人物も紙の上を離れて生命を得ました。これにより、台湾漫画産業と信仰の再現を理解する入口となりました。",
     "city": "台北"
   },
   {
@@ -20614,14 +20680,14 @@
     "city": "台東"
   },
   {
-    "title": "장진청(江振誠): 그는 어떤 것도 정의된 채로 두지 않고, 먼저 돌아섰다",
+    "title": "앙드레 치앙: 무언가로 완전히 정의되기 전에, 그는 늘 먼저 돌아섰다",
     "lat": 24.750158,
     "lng": 121.75819,
     "category": "people",
     "region": "north",
     "link": "/ko/people/andre-chiang-taiwanese-culinary-innovator",
     "lang": "ko",
-    "desc": "1997년, 서화호텔(西華飯店)의 20대 초반 프랑스 레스토랑 셰프가 프랑스 3스타 셰프 두 명을 대만으로 초청해 10일간 함께 일하게 하고, 다시 프랑스행 티켓을 구매해 따라갔다. 남프랑스에서 2년간 감자를 껍질을 벗기는 기초 작업부터 싱가포르 레스토랑의 세계 14위 등극, 이듬해主动적인 폐점, 그리고 타이베이에서 가장 예약하기 어려운 RAW를 오픈한 후 10년 만에 다시 돌아섬까지 — 장진청이 가장 대체 불가능한 행동은, 매번 한 직함으로 정의되는 순간에 조명을 끄고 다음 질문을 던진다는 점이다: '대만의 맛은 무엇인가?'",
+    "desc": "1997년, 더 셔우드 타이베이에서 일하던 20대 초반의 프랑스 레스토랑 셰프가 프랑스인 3스타 셰프 두 명을 타이완으로 초청해 열흘간 함께 일하게 하고는, 곧장 비행기 표를 사서 프랑스로 그들을 쫓아갔다. 남프랑스에서 2년간 감자를 깎는 일부터, 싱가포르 레스토랑의 순위를 세계 14위까지 끌어올린 이듬해 스스로 불을 끈 일, 그리고 타이베이에서 가장 예약하기 힘든 RAW를 열었다가 10년째 되던 해 다시 돌아선 일까지 — 앙드레 치앙에게서 가장 대체 불가능한 것은, 어떤 타이틀에 의해 완전히 정의되려는 순간마다 먼저 불을 끄고 다음 질문으로 넘어간다는 점이다: 타이완의 맛이란 대체 무엇인가.",
     "city": "宜蘭"
   },
   {
@@ -21439,14 +21505,14 @@
     "city": "台南"
   },
   {
-    "title": "Тайбэй: три времени в одном городе — 1738 год, когда строился Лоншаньцзин, и 2004 год, когда возвышение 101 взяло высоту",
+    "title": "Тайбэй: три времени одного города — храм Луншаньсы 1738 года смотрит на небоскрёб 101 2004 года",
     "lat": 25.030916,
     "lng": 121.567462,
     "category": "geography",
     "region": "north",
     "link": "/geography/taipei-city",
     "lang": "zh-TW",
-    "desc": "В Ванъюе стоит 1738 года — Лоншаньцзин. В три километрах оттуда, в новогоднюю ночь 2004 года, Тайбэй 101, построенный на месте склада эпохи Японии и военного завода послевоенного периода, стал самой высокой зданием в мире. Еще немного дальше — Дадунчжэнь, где в 1860-х годах Ли Чунсинь, купив чайный чай на одной лодке, возглавил весь внешнеэкономический обмен Северного Тайбэя. В одном и том же басейне трех временных точек — 1738, 1885 и 2004 — стоят рядом. В 1875 году Шэн Паочен основал Тайбэй-фу, в 1920 году японцы объединили три рынка в Тайбэй-город, в 1947 году Линь Цзянмай зажёг чужую сигарету 22 февраля, в 1949 году национальное правительство переехало в Тайбэй с 1,2 млн человек, в 1967 году он стал первым прямым управлением по всей провинции, в 1990 году студенты «Ночной лилии» сидели в зале памяти Чжунъэня семь дней и шесть ночей. Двенадцать районов — живут в разные века.",
+    "desc": "В Ваньхуа стоит храм Луншаньсы 1738 года. В трёх километрах — Тайбэй 101, который в канун 2004 года, открывшись на месте бывшего японского склада Суншань и послевоенного 44-го арсенала, стал самым высоким зданием мира. А в Дадаочэне в 1860-х годах Ли Чуньшэн на чае, вывозимом одним кораблём, поднял всю внешнюю торговлю Северного Тайваня. В одном и том же бассейне рядом стоят три времени — 1738, 1885 и 2004 годы. В 1875 году Шэнь Баочжэнь учредил Тайбэй-фу, в 1920 году японцы объединили три рыночных посёлка в город Тайбэй, в 1947 году пачка контрабандных сигарет Линь Цзяньмай зажгла инцидент 228, в 1949 году правительство Китайской Республики перевезло в Тайбэй 1,2 миллиона человек, в 1967 году город первым на Тайване получил статус города центрального подчинения, в 1990 году движение «Дикий лилейник» просидело семь дней и шесть ночей у Мемориального зала Чан Кайши. Двенадцать районов живут в разных веках.",
     "city": "台北"
   },
   {

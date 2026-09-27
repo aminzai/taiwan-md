@@ -2,12 +2,12 @@
   "_meta": {
     "created": "2026-06-25",
     "ga_id": "G-JGC5W00N7T",
-    "last_census": "2026-09-26",
+    "last_census": "2026-09-27",
     "note": "子代名冊 SSOT。GA-derived 欄位(ga/title_ga/last_seen/hostnames/title_brands)由 fork-census.py 每次跑自動更新;investigation-derived 欄位(github/credits/type/cognitive_layer/health/notes)sticky,只有人/agent 填,probe 永不覆寫。每個 entry 同時帶 hostnames + title_brands,讓 probe 下次跑能把同一 fork 的多個指紋 re-consolidate 而非 re-split。",
     "ga_window": "365daysAgo",
     "self_traffic": {
-      "views": 637195,
-      "users": 376222
+      "views": 641111,
+      "users": 380035
     },
     "dev_noise": {
       "views": 12250,
@@ -74,7 +74,7 @@
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 523,
+        "views": 520,
         "users": 60
       },
       "confidence": "high",
@@ -107,7 +107,7 @@
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 530,
+        "views": 524,
         "users": 29
       },
       "confidence": "high (repo facts); medium (who)",
@@ -237,7 +237,7 @@
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 63,
+        "views": 54,
         "users": 19
       },
       "confidence": "low (是不是我們的 fork 無法證實);high (gated + 蘇巧慧身份)",

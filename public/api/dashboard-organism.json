@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-26T22:06:47.337Z",
+  "lastUpdated": "2026-09-27T22:06:25.728Z",
   "organs": [
     {
       "id": "heart",
@@ -10,12 +10,12 @@
       "score": 90,
       "trend": "up",
       "metrics": {
-        "articlesLast7Days": 41,
-        "articlesLast30Days": 94,
+        "articlesLast7Days": 22,
+        "articlesLast30Days": 74,
         "totalArticles": 1122,
         "selfProducedLast7Days": 1,
         "selfProducedLast30Days": 5,
-        "contributedLast7Days": 40
+        "contributedLast7Days": 21
       }
     },
     {
@@ -24,7 +24,7 @@
       "nameZh": "免疫系統",
       "metaphor": "品質防禦",
       "emoji": "🛡️",
-      "score": 57,
+      "score": 59,
       "trend": "up",
       "version": "v2-2026-05-16",
       "metrics": {
@@ -37,7 +37,7 @@
           "plugin_pass_rate": 70.1,
           "plugin_health": 100,
           "citation_density": 93.8,
-          "tool_freshness": 40,
+          "tool_freshness": 60,
           "drift_velocity": 90,
           "external_rulers": 3.7
         }

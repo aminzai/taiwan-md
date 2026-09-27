@@ -129,6 +129,22 @@
     "path": "fr/History/formosa-historical-name.md"
   },
   {
+    "title": "‘Ho Fei-peng’",
+    "description": "‘A media entrepreneur who led by eight years and suffered seven years of losses, ultimately building Taiwan’’s largest publishing group.’",
+    "category": "en",
+    "tags": [
+      "‘Cite Media’",
+      "‘Publishing’",
+      "‘Digital Transformation’",
+      "‘Self-Awareness’"
+    ],
+    "url": "https://taiwan.md/en/people/he-feipeng",
+    "readingTime": 19,
+    "featured": false,
+    "date": "2026-03-26",
+    "path": "en/People/he-feipeng.md"
+  },
+  {
     "title": "'Kuma Academy: A Civil Defense School That Hopes One Day It Will No Longer Need to Exist'",
     "description": "In 2021, five volunteers talked for five hours in a cafe and decided to teach Taiwanese people how to face war. After holding only a few events, they were NT$210,000 in debt. The next year, Russia invaded Ukraine, Robert Tsao donated NT$600 million, and the call went out to train three million Kuma Warriors in three years. The academy teaches tourniquets, evacuation, and fraud prevention, and states plainly that it is 'absolutely not training militia.' The more seriously it teaches, the more China puts it on Taiwan independence lists and the more it becomes a political football inside Taiwan. A school born because of war, yet hoping one day it will never be needed.",
     "category": "en",
@@ -6354,7 +6370,7 @@
   },
   {
     "title": "台湾眷村の歴史",
-    "description": "ビルマの孤軍から竹の王国へ、120万人の大移動が「家」をいかに再定義したか",
+    "description": "ビルマの孤軍から竹籬笆王国へ、120万人の大移動が「家」をいかに再定義したか",
     "category": "ja",
     "tags": [
       "眷村",
@@ -7357,7 +7373,7 @@
   },
   {
     "title": "台湾の公園と日常の余暇",
-    "description": "早朝の太極拳から夜間の散歩まで――台湾の公園が世代を超えた社交の場として果たす役割に関する文化観察",
+    "description": "早朝の太極拳から夜間の散歩まで――台湾の公園が世代を超えた社交の場として機能する文化観察",
     "category": "ja",
     "tags": [
       "公園",
@@ -7367,7 +7383,7 @@
       "日常生活"
     ],
     "url": "https://taiwan.md/ja/lifestyle/taiwan-parks-and-everyday-leisure",
-    "readingTime": 11,
+    "readingTime": 20,
     "featured": false,
     "date": "2026-03-18",
     "path": "ja/Lifestyle/taiwan-parks-and-everyday-leisure.md"
@@ -15409,7 +15425,7 @@
       "温泉"
     ],
     "url": "https://taiwan.md/ja/geography/terrain-and-geology",
-    "readingTime": 14,
+    "readingTime": 20,
     "featured": false,
     "date": "2026-03-23",
     "path": "ja/Geography/terrain-and-geology.md"
@@ -17239,7 +17255,7 @@
       "人工知能"
     ],
     "url": "https://taiwan.md/ja/people/ethan-tu",
-    "readingTime": 14,
+    "readingTime": 27,
     "featured": true,
     "date": "2026-03-30",
     "path": "ja/People/ethan-tu.md"
@@ -18081,9 +18097,16 @@
     "title": "夜市経済学：ブランドなき商業の奇跡",
     "description": "ブランド、装飾、固定の店舗を持たない状況下で、台湾の夜市（ナイトマーケット）がいかにして年間産値約4000億の経済的奇跡を生み出したかを探る",
     "category": "ja",
-    "tags": [],
+    "tags": [
+      "経済",
+      "夜市",
+      "台湾",
+      "ビジネスモデル",
+      "観光",
+      "屋台軽食"
+    ],
     "url": "https://taiwan.md/ja/economy/night-market-economics",
-    "readingTime": 12,
+    "readingTime": 20,
     "featured": false,
     "date": "2026-03-21",
     "path": "ja/Economy/night-market-economics.md"
@@ -21049,7 +21072,7 @@
   },
   {
     "title": "韋宗成：把三峽の妖怪を描き込んで西門町へ、マゾウを漫画の枠から解き放つ",
-    "description": "2009年、『マ皇降臨』で韋宗成は同人誌からプロ漫画家へ転身しました。2010年から連載が始まった『冥戦録』は、九妹一地震後の台湾、西門町の街景、道教派閥、そしてマゾウの林默娘を少年冒険の物語に取り入れました。直感に反して、韋宗成は先に「台湾味」を設計してから物語を埋め込むのではなく、先に市場、バス、そして身近な伝説を描きました。その結果、地方は日常の細部の中から、花灯や歌仔戯の舞台に登りつく世界へと成長し、漫画の登場人物も紙の上を離れて生命を得ました。これにより、台湾漫画産業と信仰の再現を理解する入口となりました。",
+    "description": "2009年、『マ皇降臨』で韋宗成は同人誌からプロ漫画家へ転身しました。2010年から連載が始まった『冥戦録』は、921大地震後の台湾、西門町の街景、道教派閥、そしてマゾウの林默娘を少年冒険の物語に取り入れました。直感に反して、韋宗成は先に「台湾味」を設計してから物語を埋め込むのではなく、先に市場、バス、そして身近な伝説を描きました。その結果、地方は日常の細部の中から、花灯や歌仔戯の舞台に登りつく世界へと成長し、漫画の登場人物も紙の上を離れて生命を得ました。これにより、台湾漫画産業と信仰の再現を理解する入口となりました。",
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/people/wei-tsung-cheng-comic-artist",
@@ -26965,7 +26988,7 @@
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/people/yang-yung-wei-judo-olympic-silver",
-    "readingTime": 9,
+    "readingTime": 21,
     "featured": false,
     "date": "2026-03-21",
     "path": "ja/People/yang-yung-wei-judo-olympic-silver.md"
@@ -27862,12 +27885,12 @@
     "path": "Food/嘉義火雞肉飯.md"
   },
   {
-    "title": "嘉義市：皇帝から嘉義の名を賜りながら、最も見過ごされやすい省轄市となった都市",
-    "description": "清の乾隆52年の詔書により「諸羅」は「嘉義」へ改名され、台湾で唯一、皇帝が自ら名を賜った城となりました。1908年、日本人はこの城の南西3.3キロの水田に、世界初の北回帰線標塔を建てました。1931年、嘉義農林の三民族混成チームは甲子園で準優勝しました。1947年3月25日、画家の陳澄波は駅前で縛られて銃殺され、遺体は路上に三日間置かれました。現在の嘉義市は人口26万人、面積60平方キロ、高鉄駅を持たず、嘉義県に完全に囲まれた、台湾の中規模都市の標本です。",
+    "title": "嘉義市：皇帝に「嘉義」の名を賜りながら、最も見過ごされやすい省轄市になった都市",
+    "description": "清の乾隆52年（1787年）の詔により「諸羅」は「嘉義」と改名された。台湾で唯一、皇帝自らが名を賜った城である。1908年、日本人はこの街の南西3.3キロの水田に、世界初となる北回帰線標塔を建てた。1931年、嘉義農林の三民族混成チームは甲子園で準優勝を果たした。1947年3月25日、画家の陳澄波は駅前で縛られて銃殺され、遺体は路上に三日間放置された。今日の嘉義市は人口26万人、面積60平方キロ、高鉄駅を持たず嘉義県に完全に囲まれている、台湾の中規模都市の標本である。",
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/geography/chiayi-city",
-    "readingTime": 67,
+    "readingTime": 70,
     "featured": false,
     "date": "2026-05-18",
     "path": "ja/Geography/chiayi-city.md"
@@ -30933,7 +30956,7 @@
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/history/yuan-xing-cattle-beef-soup-history",
-    "readingTime": 25,
+    "readingTime": 28,
     "featured": false,
     "date": "2026-03-25",
     "path": "ja/History/yuan-xing-cattle-beef-soup-history.md"
@@ -34819,19 +34842,8 @@
     "path": "fr/People/andre-chiang-taiwanese-culinary-innovator.md"
   },
   {
-    "title": "André Chiang: Él nunca espera a que algo sea definido para dar el siguiente paso",
-    "description": "En 1997, un chef de cocina francesa en el Hotel Westin de Taipéi, con poco más de veinte años, invitó a dos chefs franceses con tres estrellas Michelin a colaborar durante diez días antes de comprar un billete de avión hacia Francia. Desde pelar patatas en el sur de Francia durante dos años hasta llevar al restaurante de Singapur al puesto 14 mundial y cerrar sus puertas al año siguiente; desde abrir RAW en Taipéi, uno de los lugares más difíciles de reservar, hasta decidir dar un giro en su décimo aniversario: la acción más insustituible de André Chiang es que, cada vez que una etiqueta intenta definirlo, él apaga las luces y se lanza a la siguiente pregunta: ¿qué es el sabor de Taiwán?",
-    "category": "es",
-    "tags": [],
-    "url": "https://taiwan.md/es/people/andre-chiang-taiwanese-culinary-innovator",
-    "readingTime": 129,
-    "featured": true,
-    "date": "2026-07-17",
-    "path": "es/People/andre-chiang-taiwanese-culinary-innovator.md"
-  },
-  {
     "title": "André Chiang: ele nunca espera que algo seja rigidamente definido — antes vira-se e parte",
-    "description": "Em 1997, um chef de cozinha francês de vinte e poucos anos no Hotel Westin Taipei convidou dois chefs franceses de três estrelas Michelin para uma residência de dez dias em Taiwan e depois comprou uma passagem para a França. De descascar batatas por dois anos no sul da França a levar o ranking do seu restaurante em Singapura ao 14º lugar mundial no ano seguinte e fechá-lo por iniciativa própria, até abrir o RAW, o restaurante mais difícil de reservar em Taipé, e virar-se novamente no seu décimo ano — o gesto mais insubstituível de André Chiang é, cada vez que está prestes a ser definido por um título, apagar as luzes primeiro e perguntar: afinal, o que é o sabor de Taiwan?",
+    "description": "Em 1997, um chef de cozinha francês de vinte e poucos anos no hotel Sherwood Taipei convidou dois chefs franceses de três estrelas Michelin para uma residência de dez dias em Taiwan e depois comprou uma passagem para a França. De descascar batatas por dois anos no sul da França a levar o ranking do seu restaurante em Singapura ao 14º lugar mundial no ano seguinte e fechá-lo por iniciativa própria, até abrir o RAW, o restaurante mais difícil de reservar em Taipé, e virar-se novamente no seu décimo ano — o gesto mais insubstituível de André Chiang é, cada vez que está prestes a ser definido por um título, apagar as luzes primeiro e perguntar: afinal, o que é o sabor de Taiwan?",
     "category": "pt",
     "tags": [],
     "url": "https://taiwan.md/pt/people/andre-chiang-taiwanese-culinary-innovator",
@@ -34842,7 +34854,7 @@
   },
   {
     "title": "André Chiang: Er wartete nie, bis eine Definition sich festsetzte, bevor er sich abwandte",
-    "description": "1997 lud ein junger Chefkoch eines französischen Restaurants im Westin-Hotel zwei französische Drei-Sterne-Köche zu einer zehntägigen Zusammenarbeit nach Taiwan ein und kaufte dann ein Flugticket, um ihnen nach Frankreich zu folgen. Vom zwei Jahre langen Kartoffelschälen in Südfrankreich über das Hochschieben seines Singapur-Restaurants auf Platz 14 der Weltrangliste – das er im Folgejahr freiwillig schloss – bis zum schwer zu buchenden RAW in Taipeh, von dem er sich im zehnten Jahr abwandte: André Chiangs unersetzlichster Zug ist es, das Licht auszuschalten und die nächste Frage zu stellen, sobald ihn ein Titel zu definieren droht: Was genau ist der Geschmack Taiwans?",
+    "description": "1997 lud ein junger Chefkoch eines französischen Restaurants im Sherwood Taipei zwei französische Drei-Sterne-Köche zu einer zehntägigen Zusammenarbeit nach Taiwan ein und kaufte dann ein Flugticket, um ihnen nach Frankreich zu folgen. Vom zwei Jahre langen Kartoffelschälen in Südfrankreich über das Hochschieben seines Singapur-Restaurants auf Platz 14 der Weltrangliste – das er im Folgejahr freiwillig schloss – bis zum schwer zu buchenden RAW in Taipeh, von dem er sich im zehnten Jahr abwandte: André Chiangs unersetzlichster Zug ist es, das Licht auszuschalten und die nächste Frage zu stellen, sobald ihn ein Titel zu definieren droht: Was genau ist der Geschmack Taiwans?",
     "category": "de",
     "tags": [],
     "url": "https://taiwan.md/de/people/andre-chiang-taiwanese-culinary-innovator",
@@ -34853,7 +34865,7 @@
   },
   {
     "title": "André Chiang: He Never Waited for a Definition to Settle Before Turning Away",
-    "description": "In 1997, a young French restaurant chef at the Western Hotel invited two French three-star chefs to Taiwan for a ten-day collaboration, then bought a ticket to follow them to France. From peeling potatoes in southern France for two years, to pushing his Singapore restaurant to the 14th spot on the world rankings before voluntarily closing it the following year, to opening Taipei’s most difficult-to-book RAW and turning away again in its tenth year—André Chiang’s most irreplaceable move is to turn off the lights and ask the next question whenever he is about to be defined by a title: What exactly is the taste of Taiwan?",
+    "description": "In 1997, a young French restaurant chef at The Sherwood Taipei invited two French three-star chefs to Taiwan for a ten-day collaboration, then bought a ticket to follow them to France. From peeling potatoes in southern France for two years, to pushing his Singapore restaurant to the 14th spot on the world rankings before voluntarily closing it the following year, to opening Taipei’s most difficult-to-book RAW and turning away again in its tenth year—André Chiang’s most irreplaceable move is to turn off the lights and ask the next question whenever he is about to be defined by a title: What exactly is the taste of Taiwan?",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/people/andre-chiang-taiwanese-culinary-innovator",
@@ -34872,6 +34884,17 @@
     "featured": true,
     "date": "2026-07-17",
     "path": "vi/People/andre-chiang-taiwanese-culinary-innovator.md"
+  },
+  {
+    "title": "André Chiang: nunca espera a que lo definan del todo para dar un giro",
+    "description": "En 1997, un chef de cocina francesa de poco más de veinte años en The Sherwood Taipei invitó por iniciativa propia a dos chefs franceses con tres estrellas Michelin a una residencia de diez días en Taiwán, y después compró un billete de avión para seguirlos a Francia. Desde pelar patatas durante dos años en el sur de Francia hasta llevar el ranking de su restaurante en Singapur al puesto 14 del mundo y apagar las luces por decisión propia al año siguiente; desde abrir en Taipéi el RAW, el restaurante más difícil de reservar, hasta dar un giro en su décimo aniversario: la acción más insustituible de André Chiang es que, cada vez que un título está a punto de definirlo por completo, él apaga la luz primero y pasa a la siguiente pregunta: ¿qué es, en el fondo, el sabor de Taiwán?",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/people/andre-chiang-taiwanese-culinary-innovator",
+    "readingTime": 184,
+    "featured": true,
+    "date": "2026-07-17",
+    "path": "es/People/andre-chiang-taiwanese-culinary-innovator.md"
   },
   {
     "title": "Ang Lee : derrière deux Oscars, le fils qui n’a pas pu dire vraiment adieu à son père",
@@ -35147,7 +35170,7 @@
   },
   {
     "title": "Ao dan Gunung: Dua Pekerja Teknologi yang Membuat Musik dengan Synthesizer tentang Hal-Hal yang Tidak Bisa Dikatakan di Kantor",
-    "description": "Ao dan Gunung (Our Shame) adalah grup lagu folktronica berdua dari Taiwan, terdiri dari Ao (vokal, synthesizer, produser) dan Isan (drum, Pad). Mereka kenal di Klub Musik SMA mereka, dan selama periode kuliah mereka memenangkan Hadiah Kreativitas Golden Kuo-yuan pada tahun 2015 dengan lagu a cappella. Setelah lulus, kedua orang bekerja sebagai pekerja teknologi. Pada musim dingin 2018, mereka mengganti nama grup lagu folk akustik yang awalnya bernama 'Ao Kecil' menjadi 'Ao dan Gunung', membeli synthesizer, Isan berubah menjadi pengoperasian Pad, dan musik mereka beralih ke folktronica (folk elektronik). Pada tahun 2022, teman dekat Ao meninggal, Ia mengundurkan diri dari pekerjaan penuh waktu, dan grup mereka merilis album pertama《Modern Problem》yang dinominasikan untuk Penghargaan Musik Golden Melody 13 tahun untuk Kategori Lagu Pop Alternatif Terbaik dan Petingan Pemula Terbaik. Pada 4 Agustus 2025, mereka merilis album kedua《Hidden Album》dengan kolaborasi produser audio Grammy British Jay Reynolds, insinyur audio Grammy Amerika Serikat Brian Elgin (yang pernah bekerja sama dengan Dua Lipa dan Lana Del Rey), serta tim kolaborasi internasional seperti ASOBOiSM di Jepang. Tema album beralih dari 'kecemasan teknologi' (Modern Problem) menuju 'bayangan manusiawi yang tersembunyi di balik teknologi'—mengatasi masalah depresi, cinta terlarang, penipuan kripto virtual, pengalaman tubuh perempuan—di mana satu lagu《Miffy》menyemangati Chen Mei-hui, seorang aktivis sosial.",
+    "description": "Ao dan Gunung (Our Shame) adalah grup lagu folktronica berdua dari Taiwan, terdiri dari Ao (vokal, synthesizer, produser) dan Isan (drum, Pad). Mereka kenal di Klub Musik SMA mereka, dan selama periode kuliah mereka memenangkan Hadiah Kreativitas Jin Shao pada tahun 2015 dengan lagu a cappella. Setelah lulus, kedua orang bekerja sebagai pekerja teknologi. Pada musim dingin 2018, mereka mengganti nama grup lagu folk akustik yang awalnya bernama 'Ao Kecil' menjadi 'Ao dan Gunung', membeli synthesizer, Isan berubah menjadi pengoperasian Pad, dan musik mereka beralih ke folktronica (folk elektronik). Pada tahun 2022, teman dekat Ao meninggal, Ia mengundurkan diri dari pekerjaan penuh waktu, dan grup mereka merilis album pertama《Modern Problem》yang dinominasikan untuk Golden Indie Music Awards ke-13 untuk Kategori Lagu Pop Alternatif Terbaik dan Petingan Pemula Terbaik. Pada 4 Agustus 2025, mereka merilis album kedua《Hidden Album》dengan kolaborasi produser audio Grammy British Jay Reynolds, insinyur audio Grammy Amerika Serikat Brian Elgin (yang pernah bekerja sama dengan Dua Lipa dan Lana Del Rey), serta tim kolaborasi internasional seperti ASOBOiSM di Jepang. Tema album beralih dari 'kecemasan teknologi' (Modern Problem) menuju 'bayangan manusiawi yang tersembunyi di balik teknologi'—mengatasi masalah depresi, cinta terlarang, penipuan kripto virtual, pengalaman tubuh perempuan—di mana satu lagu《Miffy》menyemangati Chen Mei-hui, seorang aktivis sosial.",
     "category": "id",
     "tags": [],
     "url": "https://taiwan.md/id/people/ao-and-mountain-band",
@@ -35169,7 +35192,7 @@
   },
   {
     "title": "Ao e Montanha (Our Shame): duas funcionárias de tecnologia usam sintetizadores para criar o que não podem dizer no escritório",
-    "description": "Ao e Montanha (Our Shame) é um duo taiwanês de folktronica, formado por Hsiao Ao (voz, sintetizador, produção) e Isan (bateria, pad), que se conheceram no clube de música da escola secundária e, na universidade, venceram o Golden Melody Awards (universitário) de 2015 na categoria composição com folk acústico. Após a formatura, ambas entraram para a indústria tecnológica como funcionárias de escritório. No inverno de 2018, renomearam o projeto — antes chamado «Wei Hsiao Ao» — para «Ao e Montanha»; Hsiao Ao comprou um sintetizador, Isan passou a tocar pad, e o som migrou para a folktronica. Em 2022, após a morte de uma amiga próxima, Hsiao Ao pediu demissão do emprego fixo e o duo lançou o álbum de estreia *Modern Problem*, indicado ao 13.º Golden Indie Music Awards nas categorias Melhor Álbum Pop Alternativo e Melhor Artista Revelação. A 4 de agosto de 2025 saiu o segundo álbum, *Hidden Album*, com equipa internacional: o britânico Jay Reynolds (mixagem, Grammy), o norte-americano Brian Elgin (masterização, Grammy, trabalhou com Dua Lipa e Lana Del Rey), a japonesa ASOBOiSM e o francês Odd People Club. O tema desloca-se da «ansiedade tecnológica» (*Modern Problem*) para as «sombras da humanidade encobertas pela tecnologia» — autoflagelação, amores tabu, golpes com criptomoedas, vivências do corpo feminino — e a faixa «Miffy» presta homenagem à ativista Chen Mei-hui.",
+    "description": "Ao e Montanha (Our Shame) é um duo taiwanês de folktronica, formado por Hsiao Ao (voz, sintetizador, produção) e Isan (bateria, pad), que se conheceram no clube de música da escola secundária e, na universidade, venceram o Jin Shao Award (universitário) de 2015 na categoria composição com folk acústico. Após a formatura, ambas entraram para a indústria tecnológica como funcionárias de escritório. No inverno de 2018, renomearam o projeto — antes chamado «Wei Hsiao Ao» — para «Ao e Montanha»; Hsiao Ao comprou um sintetizador, Isan passou a tocar pad, e o som migrou para a folktronica. Em 2022, após a morte de uma amiga próxima, Hsiao Ao pediu demissão do emprego fixo e o duo lançou o álbum de estreia *Modern Problem*, indicado ao 13.º Golden Indie Music Awards nas categorias Melhor Álbum Pop Alternativo e Melhor Artista Revelação. A 4 de agosto de 2025 saiu o segundo álbum, *Hidden Album*, com equipa internacional: o britânico Jay Reynolds (mixagem, Grammy), o norte-americano Brian Elgin (masterização, Grammy, trabalhou com Dua Lipa e Lana Del Rey), a japonesa ASOBOiSM e o francês Odd People Club. O tema desloca-se da «ansiedade tecnológica» (*Modern Problem*) para as «sombras da humanidade encobertas pela tecnologia» — autoflagelação, amores tabu, golpes com criptomoedas, vivências do corpo feminino — e a faixa «Miffy» presta homenagem à ativista Chen Mei-hui.",
     "category": "pt",
     "tags": [],
     "url": "https://taiwan.md/pt/people/ao-and-mountain-band",
@@ -37812,17 +37835,6 @@
     "featured": false,
     "date": "2026-05-13",
     "path": "id/People/bernard-tseng.md"
-  },
-  {
-    "title": "Bernard Tseng: Có thể tính được punchline, không tính nổi trọng lượng xã hội",
-    "description": "Bernard Tseng sinh năm 1990, từ những chiếc tai nghe trên ghế học của Kiến Trung, đến bằng cấp kép Ngoại văn–Tâm lý ĐHG Đài Loan, bằng Thần kinh–Tâm trí từ UCL, thạc sĩ Sinh học tích hợp từ Đại học Paris VI, cuối cùng chuyển hướng sang stand-up comedy ngay trước khi nộp đơn học tiến sĩ. Cùng với Tạ Chính Hào, ông chuyển nên công ty STR Network, đẩy single-mic comedy ở Đài Loan từ Open Mic Kamedy Club lên sân vận động 13.000 chỗ. Anh cũng dùng cùng một sự chính xác của nhà thần kinh học, nhưng tính sai được trọng lượng cảm xúc xã hội của meme Trịnh Thành Công, video delivery driver, và tranh cãi thuế giải trí.",
-    "category": "vi",
-    "tags": [],
-    "url": "https://taiwan.md/vi/people/bernard-tseng",
-    "readingTime": 168,
-    "featured": false,
-    "date": "2026-05-13",
-    "path": "vi/People/bernard-tseng.md"
   },
   {
     "title": "Beruang Madu Taiwan",
@@ -41336,11 +41348,11 @@
   },
   {
     "title": "Chế độ dân chủ: Từ dỡ bỏ luật quân sự năm 1987 đến Lai Thanh Đức năm 2024, tọa độ ba mươi bảy năm dân chủ của Đài Loan",
-    "description": "Đài Loan từ khi áp dụng luật quân sự năm 1949 bắt đầu 38 năm thống trị độc tài, ngày 15 tháng 7 năm 1987 dỡ bỏ luật quân sự, năm 1996 lần đầu tiên bầu tổng thống trực tiếp (Lý Đăng Huỳ), năm 2000 lần đầu tiên luân phiên đảng phái (Trần Thủy Biên). Ngày 17 tháng 5 năm 2019 trở thành khu vực đầu tiên tại Á hợp pháp hóa hôn nhân đồng tính. Ngày 13 tháng 1 năm 2024 Lai Thanh Đức với 40,05%, 5,58 triệu phiếu bầu trúng cử tổng thống nhiệm kỳ thứ 16, Đảng Dân tiến lần đầu tiên thắng ba lần liên tiếp; Quốc dân đảng giành lại vị trí đảng lớn nhất tại Viện Lập pháp (52 ghế), Đảng Dân tiến 51 ghế, Đảng Dân chúng 8 ghế, ba đảng đều không đạt quá bán.",
+    "description": "Đài Loan từ cấm nghiêm 38 năm (1949-1987) sang dân chủ hóa: bầu tổng thống trực tiếp (1996), luân phiên quyền lực (2000), hôn nhân đồng giới hợp pháp (2019), bầu cử 2024 với ba đảng không đạt đa số.",
     "category": "vi",
     "tags": [],
     "url": "https://taiwan.md/vi/society/democratic-system",
-    "readingTime": 36,
+    "readingTime": 38,
     "featured": false,
     "date": "2026-03-17",
     "path": "vi/Society/democratic-system.md"
@@ -41544,7 +41556,7 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/people/chen-cheng-po",
-    "readingTime": 41,
+    "readingTime": 76,
     "featured": false,
     "date": "2026-03-31",
     "path": "es/People/chen-cheng-po.md"
@@ -42209,7 +42221,7 @@
   },
   {
     "title": "Chen San-huo: Gebrochene Vasen an das Schicksal übergeben, um die Dachdekoration am Tempel zum Leben zu erwecken",
-    "description": "Nach dem Erdbeben von 1992 sammelte der Künstler Chen San-huo (陳三火) in Tainan Scherben einer Vase und entwickelte sich vom Lehrling für Tempelrestaurierung zum „Dachkünstler“, der aus Abfallkeramik kreiert. Er formte die Tradition neu, indem er die Brüche, Zufälle und recycelten Materialien anstelle der ursprünglichen Form nutzte.",
+    "description": "Nach dem Erdbeben von 1999 sammelte der Künstler Chen San-huo (陳三火) in Tainan Scherben einer Vase und entwickelte sich vom Lehrling für Tempelrestaurierung zum „Dachkünstler“, der aus Abfallkeramik kreiert. Er formte die Tradition neu, indem er die Brüche, Zufälle und recycelten Materialien anstelle der ursprünglichen Form nutzte.",
     "category": "de",
     "tags": [],
     "url": "https://taiwan.md/de/people/chen-san-huo-jiannian-artist",
@@ -42220,7 +42232,7 @@
   },
   {
     "title": "Chen San-huo: Handing Broken Vases to Fate, Keeping the Temple Roof's Jian-nian Alive",
-    "description": "After the 1992 Earthquake, Tainan artist Chen San-huo picked up a shattered vase in Fengyuan, transforming from a temple restoration apprentice into a \"rooftop artist\" who creates with broken ceramics. Instead of making Jian-nian look like the original, he let fragmentation, chance, and recycled materials redefine its shape.",
+    "description": "After the 921 Earthquake, Tainan artist Chen San-huo picked up a shattered vase in Fengyuan, transforming from a temple restoration apprentice into a \"rooftop artist\" who creates with broken ceramics. Instead of making Jian-nian look like the original, he let fragmentation, chance, and recycled materials redefine its shape.",
     "category": "en",
     "tags": [
       "Jian-nian",
@@ -42797,7 +42809,7 @@
       "消失的情人節"
     ],
     "url": "https://taiwan.md/en/people/chen-yu-hsun-taiwan-comedy-film-magician",
-    "readingTime": 45,
+    "readingTime": 46,
     "featured": false,
     "date": "2026-03-19",
     "path": "en/People/chen-yu-hsun-taiwan-comedy-film-magician.md"
@@ -43410,11 +43422,11 @@
   },
   {
     "title": "Chi Po-lin",
-    "description": "How a government clerk who couldn't afford helicopters on his salary mortgaged his house to create Taiwan's most successful documentary",
+    "description": "How a government clerk who could not afford helicopters on his salary mortgaged his house to create Taiwan's most successful documentary",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/people/chi-po-lin",
-    "readingTime": 46,
+    "readingTime": 72,
     "featured": false,
     "date": "2026-03-25",
     "path": "en/People/chi-po-lin.md"
@@ -43462,6 +43474,17 @@
     "featured": false,
     "date": "2026-03-25",
     "path": "pt/People/chi-po-lin.md"
+  },
+  {
+    "title": "Chi-Huey Wong",
+    "description": "World authority in glycoscience, 2014 Wolf Prize in Chemistry recipient, former president of Academia Sinica who was close to the Nobel Prize before the OBI Pharma controversy",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/people/chi-huey-wong-glycoscience-pioneer",
+    "readingTime": 50,
+    "featured": false,
+    "date": "2026-03-31",
+    "path": "en/People/chi-huey-wong-glycoscience-pioneer.md"
   },
   {
     "title": "Chi-Huey Wong",
@@ -43517,17 +43540,6 @@
     "featured": false,
     "date": "2026-03-31",
     "path": "de/People/chi-huey-wong-glycoscience-pioneer.md"
-  },
-  {
-    "title": "Chi-Huey Wong: Pioneer of Glycoscience",
-    "description": "World-renowned authority in carbohydrate chemistry, former president of Academia Sinica, and Nobel Prize candidate",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/people/chi-huey-wong-glycoscience-pioneer",
-    "readingTime": 21,
-    "featured": false,
-    "date": "2026-03-31",
-    "path": "en/People/chi-huey-wong-glycoscience-pioneer.md"
   },
   {
     "title": "Chi-Wei Lin: Dari merek permainan papan fisik pemenang penghargaan internasional menjadi platform perangkat lunak untuk 200 ribu kreator",
@@ -45760,12 +45772,12 @@
     "path": "pt/Geography/keelung-city.md"
   },
   {
-    "title": "Cinéma taïwanais : la voix au bord de l'écran et une histoire cinématographique entre vie et mort",
-    "description": "Dans les salles de cinéma des années 1930, un conteur se tenait à côté de l'écran pour improviser en taiwanais les dialogues d'un film muet ; quatre-vingt-dix ans plus tard, *Le Septième de passage* (海角七號) réunit cinq langues sur le même écran. Bien que le cinéma en langue taiwanaise ait été autrefois la troisième plus grande production de longs métrages au monde avant d'être étouffé, les films taïwanais ont connu des cycles de renaissance et de déclin. Entre les succès internationaux aux festivals européens et l'effondrement du box-office local jusqu'à moins de 0,36 %, cette histoire n'est pas une ligne droite vers le progrès, mais un récit de résilience où Taïwan a lutté pour raconter sa propre réalité avec ses propres voix.",
+    "title": "Cinéma taïwanais : la voix à côté de l'écran, et l'histoire d'un cinéma mort, puis ressuscité",
+    "description": "En 1930, un benshi improvisait en taïwanais les films muets ; 90 ans plus tard, *Cape No. 7* fait résonner cinq langues sur un même écran. Entre les deux, le cinéma en taïwanais, jadis 3e producteur mondial, est étouffé et le Nouveau Cinéma primé à Venise pendant que le box-office national tombe à 0,36 %. Pas une ligne du pire au meilleur : une histoire sans cesse déclarée morte, puis ressuscitée.",
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/art/taiwanese-cinema",
-    "readingTime": 197,
+    "readingTime": 253,
     "featured": true,
     "date": "2026-03-23",
     "path": "fr/Art/taiwanese-cinema.md"
@@ -47658,11 +47670,11 @@
   },
   {
     "title": "Cultura de Aguas Termales",
-    "description": "Desde la terapia militar japonesa hasta una de las tres termas de barro del mundo: la historia de cómo Taiwán se convirtió accidentalmente en un reino de aguas termales. Con 128 zonas termales, la densa densidad de la isla supera a Japón; el barro de Guanziling y las termas submarinas de Isla Verde son fenómenos geológicos únicos en el planeta.",
+    "description": "De la terapia militar a un imperio curativo: la historia de cómo Taiwán se convirtió accidentalmente en un reino de aguas termales con tres de las raras aguas termales de lodo del mundo",
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/lifestyle/hot-spring-culture",
-    "readingTime": 64,
+    "readingTime": 86,
     "featured": false,
     "date": "2026-03-22",
     "path": "es/Lifestyle/hot-spring-culture.md"
@@ -47814,22 +47826,6 @@
     "featured": false,
     "date": "2026-09-13",
     "path": "pt/Lifestyle/taiwan-traditional-markets-and-market-culture.md"
-  },
-  {
-    "title": "Cultura de senderos de Taiwán y custodia ciudadana",
-    "description": "Desde la Asociación de Senderos de Mil Li hasta la plataforma iTrail, explorando la cultura única de custodia de senderos y el espíritu de ciencia ciudadana de Taiwán",
-    "category": "es",
-    "tags": [
-      "Naturaleza",
-      "Senderos",
-      "Ciencia ciudadana",
-      "Conservación ecológica"
-    ],
-    "url": "https://taiwan.md/es/nature/trail-culture-and-civic-stewardship",
-    "readingTime": 28,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "es/Nature/trail-culture-and-civic-stewardship.md"
   },
   {
     "title": "Cultura de tecelagem dos povos indígenas de Taiwan: tecendo a memória familiar de volta ao corpo",
@@ -49071,6 +49067,17 @@
     "path": "fr/Geography/dalongdong.md"
   },
   {
+    "title": "Dalongdong: Der Weihrauch des Baoan-Tempels, die Glocke des Konfuzius-Tempels und der blaue Himmel mit weißer Sonne über Yuanshan – drei Epochen des Taipeher Glaubens",
+    "description": "Von dem 5.300 Jahre alten Muschelhaufen von Yuanshan bis zum notdürftigen Bau des Baoan-Tempels durch Tong’an-Migranten im Jahr 1742, von Chen Wei-yings bestandenem Provinzexamen 1859 mit dem Ruf „alle fünf Schritte ein Xiucai, alle zehn Schritte ein Juren“ bis zum 1925 von lokalen Honoratioren finanzierten Wiederaufbau des von den Japanern abgerissenen Konfuzius-Tempels, vom Flugzeugabsturz, der 1944 den Schrein zerstörte, bis zu dem 14-stöckigen Bau im chinesischen Palaststil, den Yang Cho-cheng 1973 am selben Ort für das Grand Hotel Taipeh errichtete. Drei Räume des Glaubens liegen nebeneinander auf der 1,5 Kilometer langen Achse von Dalongdong bis Yuanshan, doch keiner entspricht der Version im Reiseprospekt: Der Baoan-Tempel ist die Stätte, für die Liao Wu-chih 1995 staatliche Zuschüsse ablehnte und NT$260 Millionen aus eigener Tasche aufbrachte – Taiwans erster mit dem UNESCO-Asien-Pazifik-Kulturerbepreis ausgezeichneter Ort; der Konfuzius-Tempel steht auf mehr als 3.000 Ping Land, das die Familie Chen Yueji und Koo Hsien-jung spendeten, damit Konfuzius nicht heimatlos blieb; das Grand Hotel Taipeh ist der rot gedeckte, gelbtraufige Bau, der schon 111 Staatsoberhäupter empfangen hat. Die Onkel und Tanten, die auf der Dalong-Street Tai Chi üben, stehen auf Taipehs am dichtesten verschachtelter Zeitscheibe.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/geography/dalongdong",
+    "readingTime": 259,
+    "featured": false,
+    "date": "2026-05-21",
+    "path": "de/Geography/dalongdong.md"
+  },
+  {
     "title": "Dalongdong: el incienso del templo Baoan, la campana del templo de Confucio y el Cielo Azul con Sol Blanco de Yuanshan, tres épocas de fe en Taipéi",
     "description": "Desde el conchero de Yuanshan, de hace 5.300 años, hasta la construcción inicial del templo Baoan por inmigrantes de Tong’an en 1742; desde el éxito de Chen Wei-ying en el examen provincial de 1859, que dio lugar al dicho «un xiucai cada cinco pasos, un juren cada diez», hasta la reconstrucción del templo de Confucio demolido por los japoneses, financiada por notables locales en 1925; desde el santuario sintoísta destruido por el choque de un avión en 1944 hasta el Grand Hotel de Yuanshan, de 14 pisos y estilo palaciego chino, levantado por Yang Cho-cheng en el mismo solar en 1973. Tres espacios de fe se alinean en el eje de 1,5 kilómetros entre Dalongdong y Yuanshan, pero ninguno corresponde a la versión de las guías turísticas: el templo Baoan fue la primera obra de Taiwán en recibir el Premio del Patrimonio Asia-Pacífico de la UNESCO, tras la restauración de 1995 en la que Liao Wu-chih rechazó subsidios públicos y gastó 260 millones de dólares taiwaneses de fondos propios; el templo de Confucio existe porque la familia Chen Yueji y Koo Hsien-jung donaron más de 3.000 ping de terreno para que Confucio no quedara sin hogar; el Grand Hotel de Yuanshan es el edificio de tejas rojas y aleros amarillos que ha recibido a 111 jefes de Estado. Los tíos y tías que practican taichí en la calle Dalong pisan el corte temporal más concentrado de Taipéi.",
     "category": "es",
@@ -49752,17 +49759,6 @@
     "featured": true,
     "date": "2026-06-13",
     "path": "vi/Art/invisible-nation.md"
-  },
-  {
-    "title": "Datong: Die Verehrung in Baoan-Gong, die Glocke im Kong Miao und der Himmel von Yuan Shan – Der Glaube Taipeis aus drei Epochen",
-    "description": "Von der 5.300 Jahre alten Yuan Shan Muschelgrube über den Bau des Baoan-Gongs durch die Tong'an-Leute im Jahr 1742, über das „Fünf Schritte eine Schönheit, zehn Schritte ein Sprung“ von Chen Wei-ying im Jahr 1859 bis zum Wiederaufbau des Kong Miao nach der Zerstörung durch die Japaner im Jahr 1925, und vom Einschlag des Schreins im Jahr 1944 bis zur Errichtung des 14-stöckigen chinesischen Palastes, des Yuan Shan Hotel, von Yang Chao-cheng an derselben Stelle im Jahr 1973. Drei Glaubensräume liegen entlang der 1,5 Kilometer langen Achse von Datong bis Yuan Shan nebeneinander, aber keines davon ist die Version aus dem Reiseführer: Baoan-Gong ist der erste UNESCO Asien-Pazifik-Kulturerbe in Taiwan, der 1995 von Liao Wu-zhi ohne staatliche Subventionen mit eigenen Mitteln restauriert wurde; das Kong Miao ist das Landstück von über 3.000 Ping, das die Familie Chen Yue-chi und Gu Hsien-rong spendeten, damit Konfuzius ein Zuhause hatte; und das Yuan Shan Hotel ist der rote Ziegeldach-gelbe Sims, der 111 Staatsoberhäupter beherbergte. Die Onkel und Tanten, die Tai Chi auf der Datong Street üben, treten durch eine stark komprimierte Zeitspanne von Taipei.",
-    "category": "de",
-    "tags": [],
-    "url": "https://taiwan.md/de/geography/dalongdong",
-    "readingTime": 254,
-    "featured": false,
-    "date": "2026-05-21",
-    "path": "de/Geography/dalongdong.md"
   },
   {
     "title": "Dấu gạch chéo ngược trong chữ 'Công': Hai lớp thuế mặc định mà kỹ sư Đài Loan trả mỗi ngày",
@@ -53897,6 +53893,17 @@
   },
   {
     "title": "Du Congming",
+    "description": "Taiwan's first medical doctorate holder who developed the gradual smoking cessation method helping 11,498 people quit opium in 17 years; founder of Kaohsiung Medical University",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/people/du-congming-founder-of-modern-medicine-in-taiwan",
+    "readingTime": 47,
+    "featured": false,
+    "date": "2026-03-31",
+    "path": "en/People/du-congming-founder-of-modern-medicine-in-taiwan.md"
+  },
+  {
+    "title": "Du Congming",
     "description": "El primer doctor en medicina de Taiwán, inventor del método de desintoxicación progresiva que en 17 años ayudó a 11.498 personas a abandonar el opio, fundador de la Universidad Médica de Kaohsiung",
     "category": "es",
     "tags": [],
@@ -53916,17 +53923,6 @@
     "featured": false,
     "date": "2026-03-31",
     "path": "pt/People/du-congming-founder-of-modern-medicine-in-taiwan.md"
-  },
-  {
-    "title": "Du Congming: Founder of Modern Medicine in Taiwan",
-    "description": "Taiwan's first medical doctor and father of modern medicine in Taiwan",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/people/du-congming-founder-of-modern-medicine-in-taiwan",
-    "readingTime": 30,
-    "featured": false,
-    "date": "2026-03-31",
-    "path": "en/People/du-congming-founder-of-modern-medicine-in-taiwan.md"
   },
   {
     "title": "Du lịch toàn tuổi thọ cộng đồng và văn hóa cuộc sống gia đình ở Đài Loan: Khi sự ấm áp trở thành tiện ích tiếp cận mạnh nhất",
@@ -55158,7 +55154,7 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/food/braised-pork-rice",
-    "readingTime": 42,
+    "readingTime": 43,
     "featured": true,
     "date": "2026-03-19",
     "path": "es/Food/braised-pork-rice.md"
@@ -55450,7 +55446,7 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/technology/taiwan-open-source-spirit",
-    "readingTime": 24,
+    "readingTime": 57,
     "featured": false,
     "date": "2026-03-29",
     "path": "es/Technology/taiwan-open-source-spirit.md"
@@ -56527,6 +56523,17 @@
     "path": "es/Economy/taiwan-enterprise-chang-chun-petrochemical.md"
   },
   {
+    "title": "Empresa taiwanesa: Evergreen Marine",
+    "description": "Un carguero de segunda mano con 15 años de antigüedad que se coronó como el número uno mundial 17 años después — y luego el testamento del fundador desgarró un imperio",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/economy/evergreen-marine",
+    "readingTime": 49,
+    "featured": false,
+    "date": "2026-03-24",
+    "path": "es/Economy/evergreen-marine.md"
+  },
+  {
     "title": "Empresas de Taiwan: Acer — Quem desenhou a curva do sorriso teve a maior dificuldade em atingir as duas pontas",
     "description": "Em 1992, Stan Shih desenhou uma curva voltada para cima dentro da Acer, dizendo à manufatura de Taiwan para não ficar presa no elo de menor valor agregado — a montagem — e avançar para P&D e marca. Essa frase moldou a indústria de Taiwan por trinta anos. Mas o próprio autor, em sua corrida para a ponta da marca, caiu três vezes: a grande cisão de 2000, o colapso de estoque em 2011 após atingir o segundo lugar mundial, e o prejuízo de 205 bilhões em 2013 que forçou o fundador de 68 anos a voltar. A ironia final surgiu vinte anos depois: a Wistron, a \"irmã menor\" de fabricação por contrato que ele separou e ninguém apostava, chegou ao topo da curva do sorriso na era dos servidores de IA.",
     "category": "pt",
@@ -56624,17 +56631,6 @@
     "featured": false,
     "date": "2026-03-20",
     "path": "es/Economy/esun-financial-holding-digital-banking-pioneer.md"
-  },
-  {
-    "title": "Empresas de Taiwán: Evergreen Marine",
-    "description": "Un buque de carga de segunda mano con 15 años de antigüedad, que 17 años después se coronó como el número uno del mundo — y luego el testamento del fundador desgarró un imperio.",
-    "category": "es",
-    "tags": [],
-    "url": "https://taiwan.md/es/economy/evergreen-marine",
-    "readingTime": 17,
-    "featured": false,
-    "date": "2026-03-24",
-    "path": "es/Economy/evergreen-marine.md"
   },
   {
     "title": "Empresas de Taiwán: Foxconn Precision Industry: 8 billones de ingresos y la guerra anticorrupción interna en un mismo balance general",
@@ -56794,6 +56790,17 @@
     "featured": true,
     "date": "2026-05-09",
     "path": "pt/Economy/tsmc.md"
+  },
+  {
+    "title": "Empresas de Taiwán: Uni-President",
+    "description": "En 1967, Gao Qingyuan, de 38 años, abrió una pequeña fábrica de harina y piensos en Tainan con 82 empleados. Más de medio siglo después, esta compañía se ha convertido en un imperio minorista detrás de 7,248 tiendas 7-ELEVEN, Starbucks, Cosisme y Carrefour: tus huevos de té para desayunar, los fideos con carne durante la noche de tifón y el pago de servicios públicos en una tienda de conveniencia, gran parte está empacado por ellos. La historia en miniatura de Taiwán es cómo una fábrica de harina de Tainan se convirtió en un contenedor que alberga el día de los taiwaneses, una historia que caminas todos los días pero rara vez lees.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/economy/taiwan-enterprise-uni-president",
+    "readingTime": 229,
+    "featured": false,
+    "date": "2026-07-13",
+    "path": "es/Economy/taiwan-enterprise-uni-president.md"
   },
   {
     "title": "Empresas taiwanesas: Delta Electronics",
@@ -57269,12 +57276,12 @@
     "path": "de/Technology/taiwan-software-industry-development.md"
   },
   {
-    "title": "Environmental Awakening and the Net‑Zero Transition",
-    "description": "How Taiwan moved from pollution‑first industrialization to a civic‑driven sustainability model—shaped by grassroots activism, circular economy policy, corporate ESG, and a 2050 net‑zero roadmap",
+    "title": "Environmental Awakening and Net-Zero Transition",
+    "description": "From Polluting Island to Sustainability Pioneer: How Taiwan Transformed Through 40 Years of Environmental Activism",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/society/environmental-awakening-and-net-zero-transition",
-    "readingTime": 39,
+    "readingTime": 56,
     "featured": true,
     "date": "2026-03-21",
     "path": "en/Society/environmental-awakening-and-net-zero-transition.md"
@@ -57803,6 +57810,17 @@
   },
   {
     "title": "Ethan Tu",
+    "description": "Founder of PTT with a 486 computer, led Cortana AI at Microsoft, then returned to Taiwan to build nonprofit AI research—a thirty-year digital journey",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/people/ethan-tu",
+    "readingTime": 53,
+    "featured": true,
+    "date": "2026-03-30",
+    "path": "en/People/ethan-tu.md"
+  },
+  {
+    "title": "Ethan Tu",
     "description": "Levantó el foro más grande de Taiwán con una computadora 486, lideró el lanzamiento de Cortana en Microsoft y luego abandonó un salario alto en Seattle para regresar a Taiwán y hacer IA sin fines de lucro: la historia digital de treinta años del creador del PTT",
     "category": "es",
     "tags": [],
@@ -57822,17 +57840,6 @@
     "featured": true,
     "date": "2026-03-30",
     "path": "de/People/ethan-tu.md"
-  },
-  {
-    "title": "Ethan Tu (杜奕瑾)",
-    "description": "Founder of PTT, former Microsoft AI lead, and creator of Taiwan AI Labs—an architect of Taiwan’s digital public sphere",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/people/ethan-tu",
-    "readingTime": 22,
-    "featured": true,
-    "date": "2026-03-30",
-    "path": "en/People/ethan-tu.md"
   },
   {
     "title": "Ethan Tu (杜奕瑾)",
@@ -57927,16 +57934,7 @@
     "title": "Evolución de las canciones en taiwanes: de la 'música de los abuelos' a la nueva favorita de los jóvenes bohemios",
     "description": "Rastrea la evolución de las canciones en taiwanes desde la era del nakashi, Hong Yifeng y Jody Chiang hasta las nuevas generaciones de bandas como Eggplant Egg Band y Sorry Youth Band, explorando cómo la música en taiwanes ha recuperado la aceptación de las generaciones jóvenes.",
     "category": "es",
-    "tags": [
-      "canciones en taiwanes",
-      "nakashi",
-      "Hong Yifeng",
-      "Jody Chiang",
-      "Eggplant Egg Band",
-      "Sorry Youth Band",
-      "Collage",
-      "Premios Golden Melody"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/es/music/taiwanese-hokkien-song-evolution",
     "readingTime": 72,
     "featured": true,
@@ -58028,7 +58026,7 @@
   },
   {
     "title": "Extintor — El nombre encontrado junto a la piscina, cantado durante veinticinco años",
-    "description": "En el año 2000, tres estudiantes de secundaria de Kaohsiung encontraron un extintor junto a la piscina y lo adoptaron como nombre de banda. Veinticinco años después, cantan punk en taiwanés como la voz de la era del Movimiento Sunflower, trasladan su sello a el sur, y en el escenario del Festival Daigou dedican siete minutos a decir al público: está bien estar decepcionado, pero no te conviertas en la clase de persona que odias.",
+    "description": "En el año 2000, tres estudiantes de secundaria de Kaohsiung encontraron un extintor junto a la piscina y lo adoptaron como nombre de banda. Veinticinco años después, cantan punk en taiwanés como la voz de la era del Movimiento Sunflower, trasladan su sello de vuelta al sur, y en el escenario del Festival Takao dedican siete minutos a decirle a la audiencia: está bien estar decepcionado, pero no te conviertas en la clase de persona que odias.",
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/music/fire-ex",
@@ -58251,11 +58249,11 @@
   },
   {
     "title": "Falun Gong: del reloj floral de Yangmingshan al prisma de dos orillas en Zhongnanhai y el 101",
-    "description": "En 1995 se estableció discretamente el primer punto de práctica de Falun Gong en Taiwán, junto al reloj floral de Yangmingshan. En los siguientes treinta años, este grupo calificado como “secta” y perseguido de forma extrema en la República Popular China se desarrolló en Taiwán bajo la dirección de profesores de la Universidad Nacional de Taiwán y registrado como una “organización sin fines de lucro”. La presencia tranquila de Falun Gong en Taiwán no solo representa la difusión de una práctica de qigong, sino también la primera línea de defensa de la libertad religiosa garantizada por la Constitución de Taiwán.",
+    "description": "En 1995, el primer punto de práctica de Falun Gong en Taiwán se estableció discretamente junto al reloj floral de Yangmingshan. En los treinta años siguientes, este grupo calificado como «secta» y perseguido extremadamente en China se desarrolló en Taiwán bajo liderazgo de profesores de la Universidad Nacional de Taiwán, registrado como una asociación legal. La presencia tranquila de Falun Gong en Taiwán no solo representa la difusión de una práctica de qigong, sino también la primera línea de defensa de la libertad religiosa garantizada por la Constitución de Taiwán.",
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/society/falun-gong-in-taiwan",
-    "readingTime": 45,
+    "readingTime": 53,
     "featured": false,
     "date": "2026-04-29",
     "path": "es/Society/falun-gong-in-taiwan.md"
@@ -61141,7 +61139,7 @@
     "category": "id",
     "tags": [],
     "url": "https://taiwan.md/id/people/froggy-chiu",
-    "readingTime": 67,
+    "readingTime": 68,
     "featured": false,
     "date": "2026-08-17",
     "path": "id/People/froggy-chiu.md"
@@ -62015,22 +62013,6 @@
     "featured": false,
     "date": "2026-03-26",
     "path": "es/People/he-feipeng.md"
-  },
-  {
-    "title": "He Feipeng (何飛鵬)",
-    "description": "Founder of Cite Media Group and a key architect of Taiwan’s publishing industry—how He Feipeng guided print culture into the digital age",
-    "category": "en",
-    "tags": [
-      "publishing",
-      "media",
-      "digital-transformation",
-      "management"
-    ],
-    "url": "https://taiwan.md/en/people/he-feipeng",
-    "readingTime": 27,
-    "featured": false,
-    "date": "2026-03-26",
-    "path": "en/People/he-feipeng.md"
   },
   {
     "title": "Hệ sinh thái khởi nghiệp: Hành trình từ thách thức ban đầu đến sự tăng tốc của các quỹ đầu tư và siêu sao",
@@ -63657,11 +63639,11 @@
   },
   {
     "title": "Hot Spring Culture",
-    "description": "From Military Medicine to World-Class Mud Springs: How Taiwan Became an Accidental Hot Spring Empire",
+    "description": "From Military Recuperation to World-Class Mud Springs: How Taiwan Unexpectedly Became a Hot Spring Empire",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/lifestyle/hot-spring-culture",
-    "readingTime": 68,
+    "readingTime": 72,
     "featured": false,
     "date": "2026-03-22",
     "path": "en/Lifestyle/hot-spring-culture.md"
@@ -63874,7 +63856,7 @@
   },
   {
     "title": "How an article is made: The six-stage pipeline (REWRITE-PIPELINE v7.5 × EDITORIAL v6.12) that resists AI writing instincts in Taiwan.md",
-    "description": "Every article you read on Taiwan.md has warmth, context, and verifiability because it passes through a 6-stage process with dozens of non-skippable gates, managed by an editorial team that does not write autonomously. The sole purpose of this system is to correct the common mistakes made by AI writing: listing facts purely chronologically, generating low-information ''plastic'' sentences, translating English abstracts into false quotes, and being infected by bad habits from outdated sources. This article deconstructs that pipeline, and it was produced by it.",
+    "description": "Every article you read on Taiwan.md has warmth, context, and verifiability because it passes through a 6-stage process with dozens of non-skippable gates, managed by an editorial team that does not write autonomously. The sole purpose of this system is to correct the common mistakes made by AI writing: listing facts purely chronologically, generating low-information 'plastic' sentences, translating English abstracts into false quotes, and being infected by bad habits from outdated sources. This article deconstructs that pipeline, and it was produced by it.",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/about/how-an-article-is-born",
@@ -66509,17 +66491,6 @@
     "path": "en/Culture/indigenous-naming-taiwan.md"
   },
   {
-    "title": "Indigenous Peoples' History and Naming Rights Movement",
-    "description": "From 'barbarians' to 'Indigenous peoples' - a centuries-long struggle for identity recognition and dignity",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/history/indigenous-peoples-history-and-naming-movement",
-    "readingTime": 32,
-    "featured": false,
-    "date": "2026-03-29",
-    "path": "en/History/indigenous-peoples-history-and-naming-movement.md"
-  },
-  {
     "title": "Indigo Dyeing: Two Centuries Later, Cultivating the Same Strobilanthes cusia",
     "description": "In August 1999, Chen Ching-lin guided the Sanxia Dye Workshop in producing the first blue scarf in over seventy years. From a major Qing-era export to just ten remaining households by 1940, this craft requiring patience for living bacteria now yields distinct answers in Sanxia, Miaoli, Taiping, and Chingliao: Is the goal of revival to restore a living vat of color, or to build a sellable brand?",
     "category": "en",
@@ -68106,7 +68077,7 @@
   },
   {
     "title": "Jiang Zhen-cheng: Dia Tidak Pernah Menunggu Sesuatu Didefinisikan Mati, Sebelum Berbalik Pergi",
-    "description": "Pada tahun 1997, seorang koki restoran Prancis berusia dua puluhan di Hotel Westin Taipei mengundang dua koki bintang tiga Prancis untuk menjadi tamu dan bekerja sama selama sepuluh hari, lalu membeli tiket pesawat untuk mengikutinya ke Prancis. Dari mengupas kentang selama dua tahun di Prancis Selatan, hingga mendorong peringkat restoran di Singapura ke peringkat ke-14 di dunia dan memutuskan untuk menutupnya pada tahun berikutnya, hingga membuka RAW di Taipei yang paling sulit dipesan dan kembali berbalik pada tahun kesepuluh—tindakan paling tak tergantikan dari Jiang Zhen-cheng adalah mematikan lampu dan bertanya pada soal berikutnya setiap kali hampir didefinisikan mati oleh sebuah gelar: Apa sebenarnya rasa Taiwan?",
+    "description": "Pada tahun 1997, seorang koki restoran Prancis berusia dua puluhan di The Sherwood Taipei mengundang dua koki bintang tiga Prancis untuk menjadi tamu dan bekerja sama selama sepuluh hari, lalu membeli tiket pesawat untuk mengikutinya ke Prancis. Dari mengupas kentang selama dua tahun di Prancis Selatan, hingga mendorong peringkat restoran di Singapura ke peringkat ke-14 di dunia dan memutuskan untuk menutupnya pada tahun berikutnya, hingga membuka RAW di Taipei yang paling sulit dipesan dan kembali berbalik pada tahun kesepuluh—tindakan paling tak tergantikan dari Jiang Zhen-cheng adalah mematikan lampu dan bertanya pada soal berikutnya setiap kali hampir didefinisikan mati oleh sebuah gelar: Apa sebenarnya rasa Taiwan?",
     "category": "id",
     "tags": [],
     "url": "https://taiwan.md/id/people/andre-chiang-taiwanese-culinary-innovator",
@@ -69652,6 +69623,17 @@
     "path": "vi/Geography/kaohsiung-city.md"
   },
   {
+    "title": "Kaohsiung: 1979 zur regierungsunmittelbaren Stadt erhoben, saßen acht Kaohsiunger im selben Jahr in Taipeh im Gefängnis",
+    "description": "Am 1. Juli 1979 wurde Kaohsiung zur zweiten regierungsunmittelbaren Stadt Taiwans erhoben. Am 10. Dezember desselben Jahres, dem Internationalen Tag der Menschenrechte, endete eine Kundgebung der Zeitschrift Formosa am Dagangpu-Kreisverkehr in Zusammenstößen unter Tränengas. Acht Menschen wurden verurteilt, und am 28. Februar 1980 ereignete sich in der Wohnung von Lin Yi-hsiung in der Xinyi-Straße in Taipeh ein Mordfall. Im selben Jahr 1979 erhielt Kaohsiung die administrative Ehre und schluckte zugleich die schwerste politische Unterdrückung der taiwanischen Nachkriegsgeschichte. 2,71 Millionen Menschen verteilen sich auf 38 Bezirke: Die Sandbank von Qijin, das Bunun-Dorf in Namasia, die Schornsteine von China Steel und das Aluminiumdach des Weiwuying-Zentrums teilen sich dieselbe Stadt. 45 Jahre lang hat diese Stadt ihre Wunden zu ihrer eigenen Form vernäht.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/geography/kaohsiung-city",
+    "readingTime": 261,
+    "featured": false,
+    "date": "2026-05-18",
+    "path": "de/Geography/kaohsiung-city.md"
+  },
+  {
     "title": "Kaohsiung: Cómo un puerto conectó a Dagou, Hamaxing y una ciudad industrial",
     "description": "La construcción del puerto de Dagou, iniciada en 1908, no fue una obra lineal para introducir barcos. Impulsó simultáneamente el ferrocarril transversal, la exportación de azúcar y banano, las aduanas y oficinas portuarias, la urbanización por relleno de Hamaxing, y el proyecto posbélico de reescribir la escala urbana de Kaohsiung mediante contenedores e industria pesada. Al observar hoy los cobertizos de banano y el Museo de Historia Portuaria en la antigua zona portuaria, se hace evidente la pregunta que el puerto de Kaohsiung deja: ¿cómo hace un puerto, que se expandió para enviar mercancías al mundo, que las personas que viven en la costa realmente vean su propia ciudad?",
     "category": "es",
@@ -69674,23 +69656,12 @@
     "path": "es/Geography/kaohsiung-city.md"
   },
   {
-    "title": "Kaohsiung: Im Jahr 1979, in dem die Stadt zur direktverwalteten Stadt aufgestiegen wurde, war acht Menschen aus Kaohsiung im Gefängnis in Taipeh",
-    "description": "Am 1. Juli 1979 wurde Kaohsiung zur zweiten direktverwalteten Stadt Taiwans. Am 10. Dezember, dem Internationalen Tag der Menschenrechte, verwandelte sich eine Rede der „Beautiful Island“-Gesellschaft in Dapengwan in einen Konflikt unter Tränengas. Acht Personen wurden zu Gefängnisstrafen verurteilt. Am 28. Februar 1980 wurde in der Wohnung von Lin I-hsiung in der Xinyi Road in Taipeh ein Blutverbrechen begangen. Im selben Jahr 1979 erlangte Kaohsiung administrative Würde, doch schluckte zugleich die schwerste politische Unterdrückung Taiwans nach dem Krieg. 2,71 Millionen Menschen verteilt über 38 Bezirke. Die Sandbank von Qijin, das bunte Dorf der NMA-Xaya, der Rauchfang von China Steel, und die Aluminiumhäuser auf dem Dach des Weiwuying-Camps teilten sich dasselbe Stadtgebiet. Diese Stadt brauchte 45 Jahre, um ihre Wunden in ihre eigene Form zu nähen.",
-    "category": "de",
-    "tags": [],
-    "url": "https://taiwan.md/de/geography/kaohsiung-city",
-    "readingTime": 262,
-    "featured": false,
-    "date": "2026-05-18",
-    "path": "de/Geography/kaohsiung-city.md"
-  },
-  {
-    "title": "Kaohsiung: In 1979, the year it was upgraded to a municipality, eight people from Kaohsiung were imprisoned in Taipei",
-    "description": "On July 1, 1979, Kaohsiung was upgraded to Taiwan's second special municipality. On December 10th, World Human Rights Day, the speech at Beautiful Island Magazine in Dagangpu Yuanhuan turned into a conflict under tear gas. Eight people were sentenced, and on February 28, 1980, the blood incident occurred at Lin Yi-hsiung's home on Xinyi Road in Taipei. In the same year, 1979, Kaohsiung achieved administrative glory but also endured the heaviest political repression of post-war Taiwan. With 2.71 million people spread across 38 districts—Qijin Sandbar, Nanxia Indigenous Village, China Steel smokestacks, and the Aluminum Dome at Weiwuying all in one city—this city spent 45 years stitching its wounds into its own shape.",
+    "title": "Kaohsiung: In 1979, the Year It Became a Special Municipality, Eight Kaohsiung Natives Were Locked Up in Taipei",
+    "description": "On July 1, 1979, Kaohsiung became Taiwan's second special municipality. On December 10, International Human Rights Day, a Formosa Magazine rally at Dagangpu Roundabout turned into a clash under tear gas. Eight people were sentenced, and on February 28, 1980, a bloody attack struck Lin Yi-hsiung's home on Xinyi Road in Taipei. In that same year, 1979, Kaohsiung won administrative glory and absorbed postwar Taiwan's heaviest political repression. 2.71 million people are spread across 38 districts — the Qijin sandbar, the Bunun villages of Namasia, China Steel's smokestacks, and Weiwuying's aluminum-alloy roof all sharing one city — and it took this city 45 years to stitch that wound into its own shape.",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/geography/kaohsiung-city",
-    "readingTime": 246,
+    "readingTime": 245,
     "featured": false,
     "date": "2026-05-18",
     "path": "en/Geography/kaohsiung-city.md"
@@ -70960,18 +70931,11 @@
   },
   {
     "title": "Ko Wen-je",
-    "description": "Desde creador del protocolo estándar de ECMO hasta abanderado de la tercera fuerza: la accidentada historia política del primer alcalde independiente de Taipéi en Taiwán",
+    "description": "Desde creador del protocolo estándar de ECMO hasta abanderado de la tercera fuerza política, la accidentada historia de Taiwán hacia el tripartidismo",
     "category": "es",
-    "tags": [
-      "人物",
-      "政治",
-      "台北市長",
-      "台灣民眾黨",
-      "醫師",
-      "第三勢力"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/es/people/ko-wen-je",
-    "readingTime": 53,
+    "readingTime": 52,
     "featured": false,
     "date": "2026-03-30",
     "path": "es/People/ko-wen-je.md"
@@ -71455,7 +71419,7 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/people/koxinga",
-    "readingTime": 83,
+    "readingTime": 82,
     "featured": false,
     "date": "2026-03-27",
     "path": "es/People/koxinga.md"
@@ -71466,7 +71430,7 @@
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/people/koxinga",
-    "readingTime": 83,
+    "readingTime": 82,
     "featured": false,
     "date": "2026-03-27",
     "path": "fr/People/koxinga.md"
@@ -73178,7 +73142,7 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/lifestyle/taiwan-scooter-culture",
-    "readingTime": 64,
+    "readingTime": 63,
     "featured": true,
     "date": "2026-03-25",
     "path": "es/Lifestyle/taiwan-scooter-culture.md"
@@ -73204,6 +73168,22 @@
     "featured": false,
     "date": "2026-08-20",
     "path": "es/Culture/taiwan-independent-bookstores.md"
+  },
+  {
+    "title": "La cultura de las sendas de Taiwán y su guardianía cívica",
+    "description": "Desde la Asociación de Sendas Milenarias hasta la plataforma iTrail, explorando la cultura única de guardianía de sendas en Taiwán y el espíritu de la ciencia ciudadana",
+    "category": "es",
+    "tags": [
+      "naturaleza",
+      "sendas",
+      "ciencia ciudadana",
+      "conservación ecológica"
+    ],
+    "url": "https://taiwan.md/es/nature/trail-culture-and-civic-stewardship",
+    "readingTime": 76,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "es/Nature/trail-culture-and-civic-stewardship.md"
   },
   {
     "title": "La cultura de las tiendas de conveniencia en Taiwán",
@@ -73261,7 +73241,7 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/music/taiwan-music-festival-culture",
-    "readingTime": 70,
+    "readingTime": 75,
     "featured": true,
     "date": "2026-03-29",
     "path": "es/Music/taiwan-music-festival-culture.md"
@@ -73903,7 +73883,7 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/culture/taiwan-mandarin-evolution",
-    "readingTime": 41,
+    "readingTime": 63,
     "featured": false,
     "date": "2026-03-29",
     "path": "es/Culture/taiwan-mandarin-evolution.md"
@@ -82109,25 +82089,6 @@
     "path": "vi/People/lung-ying-tai.md"
   },
   {
-    "title": "Long Yingtai : née à Daliao en 1952, de *Recueil de feu sauvage* à première ministre de la Culture de Taïwan, une intellectuelle publique",
-    "description": "Née le 13 février 1952 dans le canton de Daliao, comté de Kaohsiung (aujourd'hui district de Daliao, Kaohsiung). Maîtrise en littérature anglaise et américaine de la Kansas State University ; le niveau doctoral présente des divergences dans les sources (P0⚠️). *Recueil de feu sauvage* publié pour la première fois en décembre 1985, réimprimé 24 fois en 21 jours, dépassant 100 000 exemplaires en 4 mois. Première ministre de la Culture de Taïwan (2012-2014, nommée par Ma Ying-jeou). *Rivières et mers, 1949* publié en 2009.",
-    "category": "fr",
-    "tags": [
-      "文學",
-      "散文",
-      "野火集",
-      "大江大海",
-      "文化部長",
-      "公共知識分子",
-      "高雄"
-    ],
-    "url": "https://taiwan.md/fr/people/lung-ying-tai",
-    "readingTime": 52,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "fr/People/lung-ying-tai.md"
-  },
-  {
     "title": "Long Yingtai: de Daliao 1952, del \"Colección Fuego Salvaje\" a la primera ministra de Cultura de Taiwán como intelectual pública",
     "description": "Nacida el 13/2/1952 en el municipio de Daliao, condado de Kaohsiung. Maestría en literatura inglesa y estadounidense por la Universidad Estatal de Kansas; la descripción de su doctorado presenta discrepancias (P0⚠️). \"Colección Fuego Salvaje\" publicado por primera vez en diciembre de 1985, reeditado 24 veces en 21 días, superó los 100.000 ejemplares en 4 meses. Primera ministra de Cultura de Taiwán (2012-2014, nombrada por Ma Ying-jeou). \"Gran río, gran mar: 1949\" publicado en 2009.",
     "category": "es",
@@ -82650,7 +82611,7 @@
     "path": "vi/People/lu-yen-hsun-tennis-champion.md"
   },
   {
-    "title": "Lữ Tiệp: Từ câu hỏi về sự kiện Hai Ba Bát bị né tránh đến 28 bài giảng lịch sử Đài Loan",
+    "title": "Lữ Tiệp: Từ câu hỏi về sự kiện 228 bị né tránh đến 28 bài giảng lịch sử Đài Loan",
     "description": "Từ quán hải sản đến bục giảng dạy thêm, Lữ Tiệp dùng câu chuyện để thúc đẩy kiến thức chính thống, nhưng cũng yêu cầu học viên quay lại với tư liệu, sự thật và quan điểm lịch sử.",
     "category": "vi",
     "tags": [],
@@ -82865,6 +82826,17 @@
     "featured": false,
     "date": "2026-07-20",
     "path": "en/Culture/lunar-july-ghost-month.md"
+  },
+  {
+    "title": "Lung Ying-tai : Grande-Liao 1952, des «Feux de brousse» à la première ministre de la Culture de Taïwan",
+    "description": "Née le 13 février 1952 à Grande-Liao. Auteure de «Feux de brousse» (1985), réimprimé 24 fois en 21 jours avec plus de 100 000 exemplaires vendus en 4 mois. Première ministre de la Culture de Taïwan (2012-2014). Intellectuelle publique connue pour ses critiques du régime autoritaire et ses œuvres sur la dispersion de 1949.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/people/lung-ying-tai",
+    "readingTime": 51,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "fr/People/lung-ying-tai.md"
   },
   {
     "title": "Lung Ying-tai: Born in Daliao in 1952, the Public Intellectual from The Wild Fire to Taiwan's First Minister of Culture",
@@ -85423,7 +85395,7 @@
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/resources/mini-taiwan-pulse",
-    "readingTime": 7,
+    "readingTime": 14,
     "featured": false,
     "date": "2026-03-22",
     "path": "ja/resources/mini-taiwan-pulse.md"
@@ -86103,7 +86075,7 @@
     "category": "pt",
     "tags": [],
     "url": "https://taiwan.md/pt/nature/taiwan-mountains-and-hiking-culture",
-    "readingTime": 71,
+    "readingTime": 70,
     "featured": false,
     "date": "2026-03-18",
     "path": "pt/Nature/taiwan-mountains-and-hiking-culture.md"
@@ -88753,7 +88725,7 @@
       "không gian văn hóa"
     ],
     "url": "https://taiwan.md/vi/art/alien-art-centre",
-    "readingTime": 48,
+    "readingTime": 49,
     "featured": false,
     "date": "2026-03-22",
     "path": "vi/Art/alien-art-centre.md"
@@ -89684,7 +89656,7 @@
     "category": "vi",
     "tags": [],
     "url": "https://taiwan.md/vi/nature/taiwan-mountains-and-hiking-culture",
-    "readingTime": 67,
+    "readingTime": 66,
     "featured": false,
     "date": "2026-03-18",
     "path": "vi/Nature/taiwan-mountains-and-hiking-culture.md"
@@ -92789,12 +92761,12 @@
     "path": "id/Technology/semiconductor-water-use-and-taiwan-water-resources.md"
   },
   {
-    "title": "Penghargaan Musik Golden Horse: Taiwan memberi penghargaan untuk musik sendiri, dan tiga puluh lima tahun momen yang tak terlupakan",
-    "description": "Di tahun 2024, di dalam gedung besar, musik indie Cao Dong kembali menakjubkan, penghubung mewakili, seluruh penonton sunyi untuk seorang drum seniman yang telah meninggal. Selama tiga puluh lima tahun, Penghargaan Golden Horse berkembang dari sepucuk surat tangan penulis lagu Cai Qin menjadi sebuah upacara nasional. Ia menjadi saksi rekor Fantasia Zhou Zeyu, serta rekor 14 kali nominasi Hua Chengyu, dan memberikan penghargaan tertinggi kepada penyanyi berbahasa Taiwan, Hakka, dan bahasa pribumi. Ini adalah tempat di mana Taiwan memberi penghargaan untuk musik sendiri, menentukan suara mana yang layak diingat.",
+    "title": "Penghargaan Musik Golden Melody: Taiwan memberi penghargaan untuk musik sendiri, dan tiga puluh lima tahun momen yang tak terlupakan",
+    "description": "Di tahun 2024, di dalam gedung besar, musik indie Cao Dong kembali menakjubkan, penghubung mewakili, seluruh penonton sunyi untuk seorang drum seniman yang telah meninggal. Selama tiga puluh lima tahun, Penghargaan Golden Melody berkembang dari sepucuk surat tangan penulis lagu Cai Qin menjadi sebuah upacara nasional. Ia menjadi saksi rekor Fantasia Zhou Zeyu, serta rekor 14 kali nominasi Hua Chengyu, dan memberikan penghargaan tertinggi kepada penyanyi berbahasa Taiwan, Hakka, dan bahasa pribumi. Ini adalah tempat di mana Taiwan memberi penghargaan untuk musik sendiri, menentukan suara mana yang layak diingat.",
     "category": "id",
     "tags": [],
     "url": "https://taiwan.md/id/music/pop-music-and-golden-melody-awards",
-    "readingTime": 176,
+    "readingTime": 177,
     "featured": false,
     "date": "2026-06-28",
     "path": "id/Music/pop-music-and-golden-melody-awards.md"
@@ -95459,7 +95431,7 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/culture/loanwords-and-language-contact-in-taiwan",
-    "readingTime": 59,
+    "readingTime": 63,
     "featured": false,
     "date": "2026-03-23",
     "path": "es/Culture/loanwords-and-language-contact-in-taiwan.md"
@@ -97864,12 +97836,12 @@
     "path": "fr/About/taiwan-official-resources.md"
   },
   {
-    "title": "Ressources officielles de Taïwan : 30 ans d'un miracle, de 25 sites web à une puissance de l'e-gouvernement",
-    "description": "En 1996, 25 agences gouvernementales taïwanaises créèrent leurs premiers sites web officiels pour participer à l'Exposition mondiale de l'Internet. Trente ans plus tard, cette île est devenue un modèle mondial d'e-gouvernement — de la déclaration fiscale en ligne au portail unique, de l'ouverture des données au corpus d'entraînement pour l'IA, découvrez comment Taïwan a écrit la légende de sa transformation numérique à travers ses sites officiels.",
+    "title": "Ressources officielles de Taïwan : le miracle de 30 ans, de 25 sites web à une puissance du gouvernement numérique",
+    "description": "En 1996, 25 agences taïwanaises créèrent leurs premiers sites officiels pour l'Exposition mondiale d'Internet. Trente ans plus tard, l'île est un modèle mondial de gouvernement numérique — déclaration fiscale en ligne, portail unique, données ouvertes, corpus d'IA. Découvrez la légende de la transformation numérique que Taïwan a écrite à travers ses sites officiels.",
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/about/taiwan-official-resources-revisit",
-    "readingTime": 52,
+    "readingTime": 85,
     "featured": true,
     "date": "2026-03-23",
     "path": "fr/About/taiwan-official-resources-revisit.md"
@@ -100199,7 +100171,7 @@
   },
   {
     "title": "Shilinxi: Ein Wasserfall, der die Holzwirtschaft in einen Wald zurückführt",
-    "description": "Von „Xidi“ im Bezirk Zhushan, Nantou, über den Holztransport und das Erdbeben von 1992 bis zum Songtung-Fallwasser, den Taiwan-Azaleen und die Umweltbildung – wie lernt das Tal von Shilinxi wieder, mit Wasser zu leben?",
+    "description": "Von „Xidi“ im Bezirk Zhushan, Nantou, über den Holztransport und das Erdbeben von 1999 bis zum Songtung-Fallwasser, den Taiwan-Azaleen und die Umweltbildung – wie lernt das Tal von Shilinxi wieder, mit Wasser zu leben?",
     "category": "de",
     "tags": [
       "Shilinxi",
@@ -104386,6 +104358,17 @@
     "path": "de/Technology/taiwan-bim-construction-tech.md"
   },
   {
+    "title": "Taiwan Biodiversity Hotspots",
+    "description": "A 36,000 km² island harbors 59,000 known species—a biodiversity density 100 times the global average",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/geography/taiwan-biodiversity-hotspots",
+    "readingTime": 48,
+    "featured": false,
+    "date": "2026-03-21",
+    "path": "en/Geography/taiwan-biodiversity-hotspots.md"
+  },
+  {
     "title": "Taiwan Bird Window Collision Issue: The Invisible Urban Killer",
     "description": "An in-depth exploration of the current state, scientific principles, seasonal impacts, and prevention cases of wild bird casualties from striking building glass in Taiwan, alongside an analysis of regulations for bird-friendly architecture.",
     "category": "en",
@@ -105168,17 +105151,6 @@
     "path": "en/Music/taiwan-folk-music-and-songs.md"
   },
   {
-    "title": "Taiwan Foods: United Foods",
-    "description": "В 1967 году 38-летний Гоцин Юань открыл небольшую фабрику по производству муки и кормов в Тайнане с 82 сотрудниками. Более полувека спустя эта компания превратилась из одного пакета унифицированной муки в розничную империю, стоящую за 7248 магазинами 7-ELEVEN, Starbucks, Cosemi и Carrefour: ваши утренние чайные яйца, лапша с мясным соусом во время тайфуна, оплата коммунальных услуг в круглосуточном магазине — большая часть этого упакована этой компанией. Как фабрика муки из Тайнаня стала контейнером для повседневной жизни жителей Тайваня — это микроистория Тайваня, которую вы проходите каждый день, но редко читаете.",
-    "category": "ru",
-    "tags": [],
-    "url": "https://taiwan.md/ru/economy/taiwan-enterprise-uni-president",
-    "readingTime": 215,
-    "featured": false,
-    "date": "2026-07-13",
-    "path": "ru/Economy/taiwan-enterprise-uni-president.md"
-  },
-  {
     "title": "Taiwan Fruit Kingdom: This Island Cultivates Every Piece of Fruit as Life and Memory",
     "description": "From the early mornings on Yujing slopes, old pomelos in Matou, morning auctions in Binjiang, to grandmothers peeling fruit skins, and from lychee weevils to foreign workers in orchards: this subtropical island turns fruit into a way to converse with the land, generations, and the world.",
     "category": "en",
@@ -105323,17 +105295,11 @@
   },
   {
     "title": "Taiwan Hot Springs Landscape",
-    "description": "Beitou, Zhiben, Jiaoxi - the beautiful intersection of hot spring culture and geological science",
+    "description": "From \"Witch''s Hot Spring\" to the top 15 global hot spring destination—how tectonic collision cooks this island''s healing remedy",
     "category": "en",
-    "tags": [
-      "hot springs",
-      "geology",
-      "volcanoes",
-      "hot spring culture",
-      "tourism"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/en/geography/taiwan-hot-springs-landscape",
-    "readingTime": 63,
+    "readingTime": 68,
     "featured": false,
     "date": "2026-03-23",
     "path": "en/Geography/taiwan-hot-springs-landscape.md"
@@ -105442,6 +105408,17 @@
     "featured": false,
     "date": "2026-04-17",
     "path": "en/Culture/taiwan-indigenous-mythology.md"
+  },
+  {
+    "title": "Taiwan Indigenous Peoples' History and Naming Rights Movement",
+    "description": "In 1987, a 19-year-old Tsou youth faced execution at a Taipei execution ground. His death ignited the first spark of the naming rights movement.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/history/indigenous-peoples-history-and-naming-movement",
+    "readingTime": 55,
+    "featured": false,
+    "date": "2026-03-29",
+    "path": "en/History/indigenous-peoples-history-and-naming-movement.md"
   },
   {
     "title": "Taiwan Indigenous Weaving Culture: Weaving Family Memory Back onto the Body",
@@ -107512,17 +107489,11 @@
   },
   {
     "title": "Taiwan's 16 Indigenous Peoples: A Cultural Map",
-    "description": "Explore the distribution, languages, ceremonial traditions, and contemporary artistic developments of Taiwan's 16 officially recognized indigenous peoples, revealing the diverse cultural landscape of Taiwan's First Nations",
+    "description": "\"16\" is not a naturally occurring number—it is the result of negotiation. From 210,000 Amis to 441 Kanakanavu, Taiwan''s indigenous peoples possess a cultural depth far exceeding any official roster.",
     "category": "en",
-    "tags": [
-      "indigenous peoples",
-      "culture",
-      "ceremonies",
-      "languages",
-      "contemporary art"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/en/culture/indigenous-peoples-16-tribes-cultural-map",
-    "readingTime": 35,
+    "readingTime": 52,
     "featured": false,
     "date": "2026-03-29",
     "path": "en/Culture/indigenous-peoples-16-tribes-cultural-map.md"
@@ -107606,6 +107577,17 @@
     "path": "en/Society/taiwan-animal-drug-controversy.md"
   },
   {
+    "title": "Taiwan's Animation Outsourcing Industry",
+    "description": "Taiwan was once a global animation outsourcing powerhouse where companies like Cuckoos' Nest Studio handled classic Hollywood animations, producing one-third of global animation output at its peak.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/economy/taiwan-creator-economy",
+    "readingTime": 29,
+    "featured": false,
+    "date": "2026-03-24",
+    "path": "en/Economy/taiwan-creator-economy.md"
+  },
+  {
     "title": "Taiwan's Arcade Culture and Streetscapes",
     "description": "Corridors of shelter and life: memories of Taiwan's streets woven with scooters, street vendors, and human warmth",
     "category": "en",
@@ -107653,17 +107635,6 @@
     "featured": true,
     "date": "2026-05-22",
     "path": "ko/Technology/taiwan-bim-construction-tech.md"
-  },
-  {
-    "title": "Taiwan's Biodiversity Hotspots",
-    "description": "Exploring how Taiwan, occupying only 0.025% of global land area, nurtures over 50,000 known species in world-class biodiversity",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/geography/taiwan-biodiversity-hotspots",
-    "readingTime": 31,
-    "featured": false,
-    "date": "2026-03-21",
-    "path": "en/Geography/taiwan-biodiversity-hotspots.md"
   },
   {
     "title": "Taiwan's Bubble Tea Culture",
@@ -107819,17 +107790,6 @@
     "path": "en/Economy/taiwan-self-media-creator-economy.md"
   },
   {
-    "title": "Taiwan's Creator Economy: A Fragmented Battlefield of 23 Million",
-    "description": "The market is less than 1% of America's, yet creators juggle twice as many platforms — how do they survive?",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/economy/taiwan-creator-economy",
-    "readingTime": 63,
-    "featured": false,
-    "date": "2026-03-24",
-    "path": "en/Economy/taiwan-creator-economy.md"
-  },
-  {
     "title": "Taiwan’s Democratic Transition: The Grave Dug by Authoritarianism",
     "description": "Every crackdown breeds more resistance. From the February 28 Incident to the Sunflower Movement, how an island allowed a dictatorial regime to cultivate the very forces that buried it.",
     "category": "en",
@@ -107923,7 +107883,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/lifestyle/taiwan-education-system",
-    "readingTime": 67,
+    "readingTime": 66,
     "featured": true,
     "date": "2026-03-23",
     "path": "en/Lifestyle/taiwan-education-system.md"
@@ -108180,6 +108140,17 @@
     "featured": false,
     "date": "2026-08-19",
     "path": "en/Culture/taiwan-letterpress-printing.md"
+  },
+  {
+    "title": "Taiwan's Long-Term Care System Development",
+    "description": "The world's most advanced long-term care system, yet shadowed by an even larger invisible caregiving ecosystem",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/society/long-term-care-system-development",
+    "readingTime": 61,
+    "featured": false,
+    "date": "2026-03-22",
+    "path": "en/Society/long-term-care-system-development.md"
   },
   {
     "title": "Taiwan's Machine Tool Industry",
@@ -111161,6 +111132,17 @@
     "path": "vi/Geography/hsinchu-county.md"
   },
   {
+    "title": "Tăng Bác Ân: Tính ra được điểm cười, không tính được xã hội",
+    "description": "Tăng Bác Ân sinh năm 1990, từ tai nghe trên bàn ghế trường Kiến Trung, đến song ngành Ngoại ngữ và Tâm lý học tại Đại học Đài Loan, Khoa học Não bộ và Trí tuệ tại Đại học London, Thạc sĩ Sinh học Tích hợp tại Đại học Paris VI, cuối cùng chuyển sang hài độc thoại trước khi nộp hồ sơ tiến sĩ. Anh cùng Tạ Chính Hào sáng lập Sater Entertainment, đưa stand-up comedy Đài Loan từ Open Mic của Comedy Land lên sân vận động nhỏ với 13 nghìn người, và cũng dùng sự chính xác của một nhà khoa học thần kinh để tính sai trọng lượng cảm xúc xã hội của các vụ án về Zheng Nanrong, video shipper và thuế giải trí.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/people/bernard-tseng",
+    "readingTime": 163,
+    "featured": false,
+    "date": "2026-05-13",
+    "path": "vi/People/bernard-tseng.md"
+  },
+  {
     "title": "Tang Ping : Chaque décision célèbre est un rejet de l'étiquette de « génie »",
     "description": "Aînée par ses camarades à l'âge de 8 ans, elle a refusé d'être admise sans examen au Jianzhong à 14 ans, s'est outée en tant que personne transgenre à 24 ans mais a refusé d'être une ambassadrice, et la première condition pour son entrée au conseil à 35 ans était « pas de bureau ». Le 2 décembre 2025, elle a reçu le Prix Right Livelihood à Stockholm, parlant non pas d'elle-même, mais de « nous ».",
     "category": "fr",
@@ -111331,7 +111313,7 @@
     "category": "de",
     "tags": [],
     "url": "https://taiwan.md/de/geography/taoyuan-city",
-    "readingTime": 190,
+    "readingTime": 191,
     "featured": false,
     "date": "2026-05-18",
     "path": "de/Geography/taoyuan-city.md"
@@ -113272,17 +113254,6 @@
     "featured": false,
     "date": "2026-03-18",
     "path": "en/Art/development-of-contemporary-taiwanese-sculpture.md"
-  },
-  {
-    "title": "The Development of Taiwan’s Long‑Term Care System",
-    "description": "From Long‑Term Care 1.0 to 2.0, Taiwan’s response to rapid aging through community‑based care",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/society/long-term-care-system-development",
-    "readingTime": 28,
-    "featured": false,
-    "date": "2026-03-22",
-    "path": "en/Society/long-term-care-system-development.md"
   },
   {
     "title": "The Divine Pig Festival: A Century of Tension Between Taiwanese Faith and Animal Welfare",
@@ -115548,11 +115519,11 @@
   },
   {
     "title": "Topografía y Geología",
-    "description": "Una isla de 6 millones de años que alberga memorias antiguas de 200 millones de años — el milagro de la cadena orogénica más joven del mundo y la colisión de placas tectónicas más intensa",
+    "description": "6 millones de años de una isla que alberga memorias antiguas de 200 millones de años — el milagro de la cadena orogénica más joven del mundo y la colisión de placas tectónicas más intensa",
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/geography/terrain-and-geology",
-    "readingTime": 22,
+    "readingTime": 58,
     "featured": false,
     "date": "2026-03-23",
     "path": "es/Geography/terrain-and-geology.md"
@@ -116012,17 +115983,6 @@
     "featured": false,
     "date": "2026-08-16",
     "path": "vi/People/chen-wen-yu-plant-breeder.md"
-  },
-  {
-    "title": "Trần Yân Nhi",
-    "description": "109 tuần Thứ nhất thế giới, LPGA 15 chức vô địch 5 giải lớn, 22 tuổi trở thành vận động viên trẻ nhất từng sở hữu 5 cúp giải lớn trong lịch sử, vượt qua kỷ lục của Tiger Woods; năm 2025 kết thúc thời kỳ 11 năm không vô địch, lại trở thành nữ hoàng.",
-    "category": "vi",
-    "tags": [],
-    "url": "https://taiwan.md/vi/people/yani-tseng",
-    "readingTime": 49,
-    "featured": false,
-    "date": "2026-03-31",
-    "path": "vi/People/yani-tseng.md"
   },
   {
     "title": "Trang nhỏ vô danh: Máy tính tìm được, tuổi trẻ bán đi, và một sự biến mất không ai đưa hỏa thiêu",
@@ -117403,17 +117363,6 @@
     "path": "fr/People/yani-tseng.md"
   },
   {
-    "title": "Tseng Ya-ni",
-    "description": "109 minggu nomor satu dunia, 15 gelar LPGA, 5 gelang besar, 22 tahun menjadi pemain paling muda memiliki 5 gelang besar sekaligus, melebihi rekord Tiger Woods; Oktober 2025 berakhir kehamparan 11 tahun tanpa gelar, kembali menjadi pemenang",
-    "category": "id",
-    "tags": [],
-    "url": "https://taiwan.md/id/people/yani-tseng",
-    "readingTime": 56,
-    "featured": false,
-    "date": "2026-03-31",
-    "path": "id/People/yani-tseng.md"
-  },
-  {
     "title": "Tseng Ya-ni: Die Königin der LPGA mit 15 Titeln und 5 Majors, die eine Ära definierte",
     "description": "In Woche 109 Weltspitze, 15 LPGA-Titel und 5 Major-Siege; Mit 22 Jahren wurde sie die jüngste Spielerin mit fünf Major-Titeln und übertraf damit Tiger Woods' Rekord; Im Oktober 2025 beendete sie eine 11-jährige Titelpause.",
     "category": "de",
@@ -118167,17 +118116,6 @@
     "featured": true,
     "date": "2026-04-29",
     "path": "ko/Technology/submarine-cables-taiwan-lifeline.md"
-  },
-  {
-    "title": "Unicharm: Una empresa taiwanesa",
-    "description": "En 1967, Gao Qingyuan, de 38 años, abrió una pequeña fábrica de harina y piensos en Tainan con 82 empleados. Más de medio siglo después, esta compañía se ha convertido en un imperio minorista detrás de 7,248 tiendas 7-ELEVEN, Starbucks, Cosisme y Carrefour: tus huevos de té para desayunar, los fideos con carne durante la noche de tifón y el pago de servicios públicos en una tienda de conveniencia, gran parte está empacado por ellos. La historia en miniatura de Taiwán es cómo una fábrica de harina de Tainan se convirtió en un contenedor que alberga el día de los taiwaneses, una historia que caminas todos los días pero rara vez lees.",
-    "category": "es",
-    "tags": [],
-    "url": "https://taiwan.md/es/economy/taiwan-enterprise-uni-president",
-    "readingTime": 229,
-    "featured": false,
-    "date": "2026-07-13",
-    "path": "es/Economy/taiwan-enterprise-uni-president.md"
   },
   {
     "title": "United Front Groups: The Cognitive Game of 'Moistening Things Silently,' From Low-Cost Tourism to Influencer Traffic",
@@ -119197,7 +119135,7 @@
   },
   {
     "title": "VH (Vast & Hazy): Fifteen Years of Directional Calibration for an 'Exit-System Band'",
-    "description": "Formed at the Tamkang University Golden Bell Award in 2011, went on hiatus in 2014, returned as a duo in 2017, and was nominated three times for Golden Melody Best Vocal Group. In an era when the Taiwan indie scene favored noise, Vast & Hazy chose to be a shelter for nameless anxiety — and fans spontaneously named them an 'exit-system band.' In April 2026, after Yi-chi announced his move to behind-the-scenes work, Ka-ka carries the name forward.",
+    "description": "Formed at the Tamkang University Jin Shao Award in 2011, went on hiatus in 2014, returned as a duo in 2017, and was nominated three times for Golden Melody Best Vocal Group. In an era when the Taiwan indie scene favored noise, Vast & Hazy chose to be a shelter for nameless anxiety — and fans spontaneously named them an 'exit-system band.' In April 2026, after Yi-chi announced his move to behind-the-scenes work, Ka-ka carries the name forward.",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/people/vh-band",
@@ -123726,6 +123664,17 @@
   },
   {
     "title": "Yani Tseng",
+    "description": "109 minggu nomor satu dunia, 15 gelar LPGA, 5 gelang besar, 22 tahun menjadi pemain paling muda memiliki 5 gelang besar sekaligus, melampaui rekor Tiger Woods; Oktober 2025 mengakhiri 11 tahun tanpa gelar, kembali menjadi juara",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/people/yani-tseng",
+    "readingTime": 56,
+    "featured": false,
+    "date": "2026-03-31",
+    "path": "id/People/yani-tseng.md"
+  },
+  {
+    "title": "Yani Tseng",
     "description": "109 semanas como número 1 do mundo, 15 títulos no LPGA e 5 majors, tornou-se a jogadora mais jovem da história com 5 taças de majors aos 22 anos, superando o recorde de Tiger Woods; em 2025 encerrou jejum de 11 anos sem títulos e voltou a vencer",
     "category": "pt",
     "tags": [],
@@ -123734,6 +123683,17 @@
     "featured": false,
     "date": "2026-03-31",
     "path": "pt/People/yani-tseng.md"
+  },
+  {
+    "title": "Yani Tseng",
+    "description": "109 tuần Thứ nhất thế giới, LPGA 15 chức vô địch, 5 giải lớn, 22 tuổi trở thành vận động viên trẻ nhất từng sở hữu 5 cúp giải lớn trong lịch sử, vượt qua kỷ lục của Tiger Woods; 2025 kết thúc 11 năm không vô địch, lại trở thành nữ hoàng.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/people/yani-tseng",
+    "readingTime": 56,
+    "featured": false,
+    "date": "2026-03-31",
+    "path": "vi/People/yani-tseng.md"
   },
   {
     "title": "Yanshi Fengpao: Eine Kanonenstadt, die das Gedächtnis der Pest auf den Straßen von Yanshi bewahrt",
@@ -132574,12 +132534,12 @@
     "path": "ru/Society/taipei-rat-problem.md"
   },
   {
-    "title": "Тайбэй: три времени в одном городе — 1738 год, когда строился Лоншаньцзин, и 2004 год, когда возвышение 101 взяло высоту",
-    "description": "В Ванъюе стоит 1738 года — Лоншаньцзин. В три километрах оттуда, в новогоднюю ночь 2004 года, Тайбэй 101, построенный на месте склада эпохи Японии и военного завода послевоенного периода, стал самой высокой зданием в мире. Еще немного дальше — Дадунчжэнь, где в 1860-х годах Ли Чунсинь, купив чайный чай на одной лодке, возглавил весь внешнеэкономический обмен Северного Тайбэя. В одном и том же басейне трех временных точек — 1738, 1885 и 2004 — стоят рядом. В 1875 году Шэн Паочен основал Тайбэй-фу, в 1920 году японцы объединили три рынка в Тайбэй-город, в 1947 году Линь Цзянмай зажёг чужую сигарету 22 февраля, в 1949 году национальное правительство переехало в Тайбэй с 1,2 млн человек, в 1967 году он стал первым прямым управлением по всей провинции, в 1990 году студенты «Ночной лилии» сидели в зале памяти Чжунъэня семь дней и шесть ночей. Двенадцать районов — живут в разные века.",
+    "title": "Тайбэй: три времени одного города — храм Луншаньсы 1738 года смотрит на небоскрёб 101 2004 года",
+    "description": "В Ваньхуа стоит храм Луншаньсы 1738 года. В трёх километрах — Тайбэй 101, который в канун 2004 года, открывшись на месте бывшего японского склада Суншань и послевоенного 44-го арсенала, стал самым высоким зданием мира. А в Дадаочэне в 1860-х годах Ли Чуньшэн на чае, вывозимом одним кораблём, поднял всю внешнюю торговлю Северного Тайваня. В одном и том же бассейне рядом стоят три времени — 1738, 1885 и 2004 годы. В 1875 году Шэнь Баочжэнь учредил Тайбэй-фу, в 1920 году японцы объединили три рыночных посёлка в город Тайбэй, в 1947 году пачка контрабандных сигарет Линь Цзяньмай зажгла инцидент 228, в 1949 году правительство Китайской Республики перевезло в Тайбэй 1,2 миллиона человек, в 1967 году город первым на Тайване получил статус города центрального подчинения, в 1990 году движение «Дикий лилейник» просидело семь дней и шесть ночей у Мемориального зала Чан Кайши. Двенадцать районов живут в разных веках.",
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/geography/taipei-city",
-    "readingTime": 205,
+    "readingTime": 216,
     "featured": false,
     "date": "2026-05-18",
     "path": "ru/Geography/taipei-city.md"
@@ -133707,6 +133667,17 @@
     "featured": true,
     "date": "2026-03-22",
     "path": "ru/Economy/delta-electronics-taiwan-power-giant.md"
+  },
+  {
+    "title": "Тайваньские предприятия: Uni-President Enterprises",
+    "description": "В 1967 году 38-летний Гао Цинъюань открыл небольшую фабрику по производству муки и кормов в Тайнане с 82 сотрудниками. Более полувека спустя эта компания превратилась из одного пакета унифицированной муки в розничную империю, стоящую за 7248 магазинами 7-ELEVEN, Starbucks, Cosemi и Carrefour: ваши утренние чайные яйца, лапша с мясным соусом во время тайфуна, оплата коммунальных услуг в круглосуточном магазине — большая часть этого упакована этой компанией. Как фабрика муки из Тайнаня стала контейнером для повседневной жизни жителей Тайваня — это микроистория Тайваня, которую вы проходите каждый день, но редко читаете.",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/economy/taiwan-enterprise-uni-president",
+    "readingTime": 215,
+    "featured": false,
+    "date": "2026-07-13",
+    "path": "ru/Economy/taiwan-enterprise-uni-president.md"
   },
   {
     "title": "Тайваньские предприятия: Группа Формоза Пластикс (Тайсуй цзитуань)",
@@ -139638,7 +139609,7 @@
     "category": "ar",
     "tags": [],
     "url": "https://taiwan.md/ar/society/volunteer-firefighters-taiwan",
-    "readingTime": 83,
+    "readingTime": 82,
     "featured": false,
     "date": "2026-08-21",
     "path": "ar/Society/volunteer-firefighters-taiwan.md"
@@ -139954,7 +139925,7 @@
     "category": "ar",
     "tags": [],
     "url": "https://taiwan.md/ar/history/taiwan-elections-and-party-politics",
-    "readingTime": 122,
+    "readingTime": 123,
     "featured": false,
     "date": "2026-03-20",
     "path": "ar/History/taiwan-elections-and-party-politics.md"
@@ -140732,7 +140703,7 @@
     "category": "ar",
     "tags": [],
     "url": "https://taiwan.md/ar/technology/taiwan-tech-storytelling",
-    "readingTime": 109,
+    "readingTime": 108,
     "featured": false,
     "date": "2026-08-15",
     "path": "ar/Technology/taiwan-tech-storytelling.md"
@@ -149634,6 +149605,17 @@
     "path": "ar/People/hung-hsing-fu.md"
   },
   {
+    "title": "هيئة تشجيع المحتوى الثقافي: مؤسسة حكومية يُطلب منها أن تعمل كشركة، والجدار ذاته الذي تصطدم به منذ سبع سنوات",
+    "description": "افتُتحت هيئة تشجيع المحتوى الثقافي (TAICCA) في نوفمبر 2019، وكُلّفت بتنفيذ حصة استثمارية بقيمة 10 مليارات NT$ خصصها صندوق التنمية الوطني، تضع بها الأموال في قصص تايوان عبر الاستثمار وتملّك الأسهم لا عبر الإعانات. حتى نهاية 2024 استثمرت الهيئة نيابة عن الصندوق ما مجموعه NT$5.737 مليار، ليصل الإجمالي مع رأس المال الخاص إلى أكثر من 10 مليارات NT$، لكنها لم تكشف علنًا عن أرباح أو خسائر أي مشروع بعينه. مؤسسة حكومية يُطلب منها أن تتحرك بسرعة الشركات: الجزء الذي يُطلب منه أن يكون سريعًا، والجزء الذي يجب أن يتمهّل ليقدّم الحساب، وجهان لنظام واحد.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/economy/taiwan-creative-content-agency",
+    "readingTime": 167,
+    "featured": false,
+    "date": "2026-08-15",
+    "path": "ar/Economy/taiwan-creative-content-agency.md"
+  },
+  {
     "title": "و بايفو (أندو بايفو): من بوكزي في جياي إلى مائدة العالم، جينات تايوان وتغليف اليابان الأسطوري العالمي",
     "description": "في عام 1961، اشترى أندو بايفو براءة اختراع مطعم زانغ كو وو للمعكرونة الفورية مقابل 23 مليون ين ياباني. لم تكن هذه مجرد صفقة تجارية، بل كانت صراعًا دوليًا حول تعريف الاختراع. هذا رائد الأعمال من بوكزي في جياي حول روح المعكرونة الفورية التقليدية في تايوان إلى طعام ياباني، ومن خلال كوب نودلز \"هومي\" غيرت عادات الطعام العالمية. تتعمق هذه المقالة في بداياته في تايوان تحت الحكم الياباني، وتجاربه في السجن بعد الحرب، وتوترات هويته وعائلته بين البلدين.",
     "category": "ar",
@@ -149786,17 +149768,6 @@
     "featured": false,
     "date": "2026-08-14",
     "path": "ar/Food/siu-mei-bento-taiwan.md"
-  },
-  {
-    "title": "وكالة المحتوى الإبداعي التايوانية (TAICCA): وكالة حكومية يُطلب منها العمل كشركة، والجدار نفسه الذي تصطدم به منذ سبع سنوات",
-    "description": "وكالة المحتوى الإبداعي التايوانية (TAICCA) التي تم افتتاحها في نوفمبر 2019، كُلفت بتنفيذ حصة استثمارية قدرها 10 مليارات دولار تايواني من صندوق التنمية الوطنية، حيث تضع الأموال في قصص تايوان عبر استثمارات الأسهم بدلاً من المنح. وبحلول نهاية عام 2024، استثمرت 5.737 مليار دولار تايواني نيابة عن صندوق التنمية الوطنية، وبإضافة الأموال الخاصة بلغ الإجمالي أكثر من 10 مليارات، إلا أنها لم تكشف عن أرباح أو خسائر أي حالة على الإطلاق. وكالة حكومية يُطلب منها العمل كشركة، فالجزء المطلوب منه السرعة والجزء الذي يجب أن يبطئ لتقديم الحسابات، هما وجهان لنفس النظام.",
-    "category": "ar",
-    "tags": [],
-    "url": "https://taiwan.md/ar/economy/taiwan-creative-content-agency",
-    "readingTime": 153,
-    "featured": false,
-    "date": "2026-08-15",
-    "path": "ar/Economy/taiwan-creative-content-agency.md"
   },
   {
     "title": "ولادة معلم: أربعون عاماً من الإصلاح والانهيار في نظام تدريب المعلمين في تايوان",
@@ -150449,14 +150420,7 @@
     "title": "आ शेन: ग्यारह साल तक हर दिन अपलोड करने के बाद, \"स्थायी विराम\" के बावजूद नए वीडियो क्यों आ रहे हैं",
     "description": "जुलाई 2026 में, आ शेन के मुख्य चैनल पर लिखा है \"रिटायर हो गया, जब मन करे तभी वीडियो बनाता हूँ\" — और उसी दिन एक नया वीडियो अपलोड होता है। ग्यारह साल तक रोज़ाना अपलोड करने के बाद, तीन साल पहले का \"स्थायी विराम\" स्थायी विदाई क्यों नहीं बना?",
     "category": "hi",
-    "tags": [
-      "आ शेन",
-      "यूट्यूबर",
-      "माइनक्राफ्ट",
-      "गाओशेनमा",
-      "ताइवानी इंटरनेट संस्कृति",
-      "क्रिएटर श्रम"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/hi/people/red-shin-minecraft-youtuber",
     "readingTime": 104,
     "featured": false,
@@ -152317,20 +152281,14 @@
     "path": "hi/People/chen-chien-jen.md"
   },
   {
-    "title": "चेन चिह-चुंग: पहले परिवार की आभा से \"काला धन विरोधी खंड\" के तहत राजनीतिक उतार-चढ़ाव तक",
-    "description": "2008 में, चेन चिह-चुंग को विदेशी मनी लॉन्ड्रिंग मामले के कारण पढ़ाई बीच में छोड़कर ताइवान लौटना पड़ा, जिससे न्यायिक विवादों से घिरी उनकी राजनीतिक यात्रा शुरू हुई। वे दो बार अपने निर्वाचन क्षेत्र से सर्वाधिक मतों से काऊशुंग नगर पार्षद चुने गए, लेकिन तीन बार मामलों के कारण पद से हटाए भी गए। 2023 में \"काला धन विरोधी खंड\" पारित होने के बाद, उनका राजनीतिक मार्ग समाप्त होता प्रतीत हुआ, फिर भी वे थ्रेड्स जैसे सोशल मीडिया प्लेटफॉर्म की ओर मुड़े, जहां पिता चेन शुई-बियान के साथ \"वॉटर\" जैसे हास्यपूर्ण संवादों के माध्यम से, उन्होंने एक असामान्य पिता-पुत्र संबंध और डिजिटल वापसी प्रदर्शित की।",
+    "title": "चेन चिह-चुंग: तीन बार काऊशुंग नगर परिषद के लिए चुने गए, दो बार कार्यकाल क़ानून की धाराओं में ख़त्म हुआ",
+    "description": "18 अगस्त 2008 को वर्जीनिया विश्वविद्यालय लॉ स्कूल का नवागत ओरिएंटेशन शुरू हुआ। जे.डी. की पढ़ाई की तैयारी कर रहे चेन चिह-चुंग वहाँ नहीं पहुँचे, और उसी दिन उनकी दाख़िला योग्यता समाप्त हो गई। इसके बाद काऊशुंग के छ्येनचन–श्याओकांग क्षेत्र ने उन्हें तीन बार नगर परिषद के लिए चुना, जिनमें से दो बार उनका कार्यकाल फ़ैसला अंतिम होने के उसी क्षण ख़त्म हो गया — बीच में उन्होंने 272 दिन जेल में काटे। अप्रैल 2023 में अंतिम हुए फ़ैसले के मुख्य पाठ में नागरिक अधिकार वंचना नहीं थी। एक महीने बाद तीसरे वाचन से पारित चुनाव-वापसी क़ानून के \"काला धन विरोधी खंड\" ने उन्हें दोबारा उम्मीदवार के रूप में पंजीकरण करने से रोक दिया।",
     "category": "hi",
-    "tags": [
-      "राजनीतिक हस्ती",
-      "न्यायिक विवाद",
-      "चेन शुई-बियान",
-      "काऊशुंग",
-      "थ्रेड्स"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/hi/people/chen-chih-chung",
-    "readingTime": 39,
+    "readingTime": 214,
     "featured": false,
-    "date": "2026-05-04",
+    "date": "2026-08-18",
     "path": "hi/People/chen-chih-chung.md"
   },
   {
@@ -153565,14 +153523,14 @@
     "path": "hi/Music/ktv-culture.md"
   },
   {
-    "title": "ताइवान VTuber: कॉर्पोरेट प्रयोग से \"आउट ऑफ द सर्कल\" तक आभासी-यथार्थ सहजीवी विकास",
-    "description": "2017 में, आभासी लड़की हूनी Yahoo TV पर दिखाई दी, जिससे ताइवान VTuber उद्योग की शुरुआत हुई। प्रारंभिक कॉर्पोरेट तकनीकी प्रयोग से लेकर 2025 तक पूरे ताइवान में संचयी रूप से 3,000 से अधिक VTubers के डेब्यू तक, यह शक्ति ओलंपिक सहयोग और ताइवानी भाषा के पुनरुद्धार तक फैले एक सांस्कृतिक पारिस्थितिकी तंत्र में विकसित हो चुकी है। इसके द्वारा संचालित सुपर चैट अर्थव्यवस्था भले ही करोड़ों तक पहुंच गई है, लेकिन व्यक्तिगत रचनाकारों को अभी भी उच्च लागत और उच्च कारोबार दर की चुनौतियों का सामना करना पड़ रहा है।",
+    "title": "ताइवान VTuber: V-स्किन से परे, वर्चुअल आइडल को हक़ीक़त में कौन लाता है?",
+    "description": "2017 में Yahoo TV ने हूनी को लॉन्च किया; ताइवान का VTuber उद्योग कॉर्पोरेट प्रयोग से बढ़कर 2025 तक 3,000 से ज़्यादा डेब्यू तक पहुँचा। इसने काऊशुंग की मिस लिन को बिना चेहरा दिखाए राजनीतिक लाइवस्ट्रीम का मौक़ा दिया, नान-ई और पब्लिक टेलीविज़न को किरदार से शिक्षा व सार्वजनिक कॉन्टेंट तक ले गया; साथ ही, स्थानीय निर्माता अब भी जापान की परिपक्व VTuber इंडस्ट्री और ताइवानी दर्शकों के बीच राह खोज रहे हैं।",
     "category": "hi",
     "tags": [],
     "url": "https://taiwan.md/hi/culture/taiwan-vtuber",
-    "readingTime": 69,
+    "readingTime": 214,
     "featured": false,
-    "date": "2026-04-26",
+    "date": "2026-08-14",
     "path": "hi/Culture/taiwan-vtuber.md"
   },
   {
@@ -154270,17 +154228,17 @@
   },
   {
     "title": "ताइवान का संक्रमण न्याय",
-    "description": "ताइवान ने सत्तावादी काल के करीब छह हज़ार दोषी साबित करने वाले फैसलों को रद्द कर दिया, लेकिन एक भी अपराधी को जिम्मेदार ठहराया नहीं गया—यह अंतर सफेद भय से भी कठिनता से व्याख्यायित है।",
+    "description": "ताइवान ने सत्तावादी काल के करीब छह हज़ार दोषी साबित करने वाले फैसलों को रद्द कर दिया, लेकिन एक भी अपराधी को जिम्मेदार ठहराया नहीं गया—यह अंतर श्वेत आतंक से भी कठिनता से व्याख्यायित है।",
     "category": "hi",
     "tags": [
       "इतिहास",
       "संक्रमण न्याय",
       "लोकतान्त्रिकरण",
       "मानवाधिकार",
-      "सफेद भय"
+      "श्वेत आतंक"
     ],
     "url": "https://taiwan.md/hi/history/taiwan-transitional-justice",
-    "readingTime": 79,
+    "readingTime": 78,
     "featured": false,
     "date": "2026-03-31",
     "path": "hi/History/taiwan-transitional-justice.md"
@@ -155284,7 +155242,7 @@
       "जापानी शासन काल"
     ],
     "url": "https://taiwan.md/hi/art/taiwanese-architecture",
-    "readingTime": 95,
+    "readingTime": 94,
     "featured": true,
     "date": "2026-03-28",
     "path": "hi/Art/taiwanese-architecture.md"
@@ -159259,14 +159217,14 @@
     "path": "hi/Society/ma-ying-jeou-meme.md"
   },
   {
-    "title": "मा यिंग-जो: हार्वर्ड कानून डॉक्टरेट ने चियांग चिंग-कुओ के कार्यालय में अंग्रेजी अनुवादक के रूप में प्रवेश किया, आठ साल तक \"स्वच्छ\" छवि वाले राष्ट्रपति के रूप में रहे, दो किनारे, सनफ्लावर और 22K छोड़ गए",
-    "description": "7 नवंबर 2015 को सिंगापुर के शांगरी-ला में, उन्होंने शी जिनपिंग के साथ 1 मिनट 20 सेकंड तक हाथ मिलाया, 1949 के बाद से दो किनारों के सर्वोच्च नेताओं की पहली मुलाकात। उसी तस्वीर को ताइवानी समाज आज तक दो पूरी तरह से अलग तरीकों से याद करता है: एक तरफ ऐतिहासिक सफलता देखता है, दूसरी तरफ विषयगत रियायत देखता है। उनके आठ साल के राष्ट्रपति कार्यकाल की \"स्वच्छ\" छवि, दो किनारे, 22K और सनफ्लावर, साथ ही पद छोड़ने के बाद दस साल में दो बार चीन यात्रा और 2026 में परिवार का बयान, आज तक कोई निश्चित निष्कर्ष नहीं निकला है।",
+    "title": "मा यिंग-जो: हार्वर्ड लॉ डॉक्टरेट लेकर चियांग चिंग-कुओ के दफ़्तर में अंग्रेज़ी अनुवादक बने, आठ साल \"स्वच्छ\" छवि पर टिके राष्ट्रपति रहे, पीछे छोड़ गए दोनों किनारे, सनफ्लावर और 22K",
+    "description": "7 नवंबर 2015 को सिंगापुर के शांगरी-ला में उन्होंने शी जिनपिंग से 1 मिनट 20 सेकंड हाथ मिलाया — 1949 के बाद दोनों किनारों के सर्वोच्च नेताओं की पहली मुलाकात। वही तस्वीर आज तक ताइवानी समाज में दो बिल्कुल अलग तरीकों से याद की जाती है: एक तरफ़ ऐतिहासिक सफलता, दूसरी तरफ़ स्वायत्तता में समझौता। आठ साल के राष्ट्रपति कार्यकाल में बनी उनकी \"स्वच्छ\" छवि, दोनों किनारों की नीति, 22K और सनफ्लावर आंदोलन — साथ ही पद छोड़ने के बाद दस साल में दो बार चीन यात्रा और 2026 के पारिवारिक बयान — का फ़ैसला आज तक नहीं हो पाया है।",
     "category": "hi",
     "tags": [],
     "url": "https://taiwan.md/hi/people/ma-ying-jeou-cross-strait-reconciliation-leader",
-    "readingTime": 147,
+    "readingTime": 179,
     "featured": false,
-    "date": "2026-03-30",
+    "date": "2026-05-23",
     "path": "hi/People/ma-ying-jeou-cross-strait-reconciliation-leader.md"
   },
   {
@@ -159877,7 +159835,7 @@
     "category": "hi",
     "tags": [],
     "url": "https://taiwan.md/hi/people/samuel-yin-yan-liang",
-    "readingTime": 109,
+    "readingTime": 132,
     "featured": true,
     "date": "2026-05-26",
     "path": "hi/People/samuel-yin-yan-liang.md"
@@ -161189,14 +161147,7 @@
     "title": "वांग चिएन-मिंग (王建民)：चिएनसिंग जूनियर हाई (建興國中) से शुरुआत, सिंकर ने यांकीज़ को दो सीज़न जिताए",
     "description": "1980 में ताइनान (台南) में जन्मे वांग चिएन-मिंग ताइवान के अमेरिका-प्रवासी बेसबॉल इतिहास के सबसे प्रतिनिधि पिचर हैं। ताइनान चिएनसिंग जूनियर हाई में पढ़ाई, 2005 में मेजर लीग के मंच पर पहला कदम। 2006 में 19 जीत 6 हार के साथ सांताना के साथ अमेरिकन लीग के संयुक्त जीत-खिताब विजेता (एशिया के पहले), 2007 में फिर 19 जीत 7 हार। जून 2008 में बेसरनिंग के दौरान चोट के बाद करियर पलट गया। 2018 में वृत्तचित्र《होउजिन：वांग चिएन-मिंग (後勁：王建民)》रिलीज़; 2023 WBC और 2024 WBSC प्रीमियर12 में ताइवान टीम (中華隊) के बुलपेन कोच।",
     "category": "hi",
-    "tags": [
-      "खेल",
-      "बेसबॉल",
-      "MLB",
-      "यांकीज़",
-      "अमेरिका-प्रवासी पिचर",
-      "ताइवान राष्ट्रीय टीम"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/hi/people/chien-ming-wang-mlb-sinker-ace",
     "readingTime": 64,
     "featured": false,
@@ -170027,6 +169978,25 @@
     "path": "ko/People/chu-yi-kuei-qing-rebel.md"
   },
   {
+    "title": "앙드레 치앙: 무언가로 완전히 정의되기 전에, 그는 늘 먼저 돌아섰다",
+    "description": "1997년, 더 셔우드 타이베이에서 일하던 20대 초반의 프랑스 레스토랑 셰프가 프랑스인 3스타 셰프 두 명을 타이완으로 초청해 열흘간 함께 일하게 하고는, 곧장 비행기 표를 사서 프랑스로 그들을 쫓아갔다. 남프랑스에서 2년간 감자를 깎는 일부터, 싱가포르 레스토랑의 순위를 세계 14위까지 끌어올린 이듬해 스스로 불을 끈 일, 그리고 타이베이에서 가장 예약하기 힘든 RAW를 열었다가 10년째 되던 해 다시 돌아선 일까지 — 앙드레 치앙에게서 가장 대체 불가능한 것은, 어떤 타이틀에 의해 완전히 정의되려는 순간마다 먼저 불을 끄고 다음 질문으로 넘어간다는 점이다: 타이완의 맛이란 대체 무엇인가.",
+    "category": "ko",
+    "tags": [
+      "인물",
+      "앙드레 치앙",
+      "명셰프",
+      "미쉐린",
+      "RAW",
+      "외식업",
+      "타이완"
+    ],
+    "url": "https://taiwan.md/ko/people/andre-chiang-taiwanese-culinary-innovator",
+    "readingTime": 98,
+    "featured": true,
+    "date": "2026-07-17",
+    "path": "ko/People/andre-chiang-taiwanese-culinary-innovator.md"
+  },
+  {
     "title": "애플 시드라: 국민 탄산음료에서 자본의 폭풍까지, 60년의 대만 맛은 어떻게 다시 태어났나",
     "description": "1965년 필리핀 화교 리훙뤄가 미국 셰스니스(CosCo) 회사에서 제조법을 사들여 대서양음료를 설립했다. 애플 시드라는 그때부터 러차오점 냉장고, 반줘 연회석, KTV 룸에서 60년 동안 자리를 바꾸지 않은 황금빛 탄산이 되었다. 그 상표는 첫 30년 동안 세 차례 외국인 소유주를 거쳤고, 쑨유잉이 사재 80만 달러를 들여서야 대만으로 되찾아올 수 있었다. 한국 아이돌 규현은 타이난 두샤오웨에서 우연히 이를 마셨고, 이 음료는 자사 공장의 효모균과 곰팡이 핀 천장 아래에서 두 차례 무너졌다. 마지막에는 모회사 대서양음료가 가오슝 후네이의 7,222평 토지를 매각해 EPS 8.71위안의 중량감 있는 복귀를 떠받쳤다.",
     "category": "ko",
@@ -171796,25 +171766,6 @@
     "featured": false,
     "date": "2026-08-14",
     "path": "ko/People/jason-wu-fashion-designer.md"
-  },
-  {
-    "title": "장진청(江振誠): 그는 어떤 것도 정의된 채로 두지 않고, 먼저 돌아섰다",
-    "description": "1997년, 서화호텔(西華飯店)의 20대 초반 프랑스 레스토랑 셰프가 프랑스 3스타 셰프 두 명을 대만으로 초청해 10일간 함께 일하게 하고, 다시 프랑스행 티켓을 구매해 따라갔다. 남프랑스에서 2년간 감자를 껍질을 벗기는 기초 작업부터 싱가포르 레스토랑의 세계 14위 등극, 이듬해主动적인 폐점, 그리고 타이베이에서 가장 예약하기 어려운 RAW를 오픈한 후 10년 만에 다시 돌아섬까지 — 장진청이 가장 대체 불가능한 행동은, 매번 한 직함으로 정의되는 순간에 조명을 끄고 다음 질문을 던진다는 점이다: '대만의 맛은 무엇인가?'",
-    "category": "ko",
-    "tags": [
-      "인물",
-      "장진청(江振誠)",
-      "명셰프",
-      "미슐랭",
-      "RAW",
-      "외식 산업",
-      "대만"
-    ],
-    "url": "https://taiwan.md/ko/people/andre-chiang-taiwanese-culinary-innovator",
-    "readingTime": 89,
-    "featured": true,
-    "date": "2026-07-17",
-    "path": "ko/People/andre-chiang-taiwanese-culinary-innovator.md"
   },
   {
     "title": "장징궈: 권위주의의 문을 틔운 사람",
@@ -175786,7 +175737,7 @@
     "category": "ko",
     "tags": [],
     "url": "https://taiwan.md/ko/nature/taiwan-mountains-and-hiking-culture",
-    "readingTime": 33,
+    "readingTime": 32,
     "featured": false,
     "date": "2026-03-18",
     "path": "ko/Nature/taiwan-mountains-and-hiking-culture.md"
@@ -176801,8 +176752,8 @@
     "path": "ko/About/how-an-article-is-born.md"
   },
   {
-    "title": "한국어",
-    "description": "역사상 최초로 해임된 직할시장, 4년 후 국회의장에 오르다. 어떠한 정치적 궤적인가?",
+    "title": "한국우",
+    "description": "역사상 처음 해임된 직할시장이 4년 뒤 국회의장이 되다. 어떤 정치적 궤적인가?",
     "category": "ko",
     "tags": [
       "정치인",
@@ -176817,7 +176768,7 @@
     "url": "https://taiwan.md/ko/people/han-kuo-yu",
     "readingTime": 36,
     "featured": true,
-    "date": "2026-04-11",
+    "date": "2026-04-13",
     "path": "ko/People/han-kuo-yu.md"
   },
   {
@@ -177533,7 +177484,7 @@
   },
   {
     "title": "オープンソースコミュニティとg0v",
-    "description": "2020年2月、世界中がマスクの買い占めに明け暮れる中、台湾のプログラマーたちは72時間で13,000軒の便利商店（コンビニエンスストア）で口罩地圖（マスクマップ）の在庫を検索できるシステムを構築しました。政府の命令も予算支援もなく、ただ一つの信念――コードで社会を変える――だけが支えでした。これがg0v零時政府、政府を「fork（フォーク）」する奇妙な実験です。",
+    "description": "2020年2月、世界中がマスクの買い占めに奔走する中、台湾のプログラマーたちは72時間で13,000軒の便利商店でマスク在庫を検索できるシステムを構築しました。政府の命令も予算支援もなく、ただ一つの信念――コードで社会を変える――だけが支えでした。これがg0v零時政府、政府を「fork（フォーク）」する奇妙な実験です。",
     "category": "ja",
     "tags": [
       "Technology",
@@ -177542,7 +177493,7 @@
       "シビックテック"
     ],
     "url": "https://taiwan.md/ja/technology/open-source-and-g0v",
-    "readingTime": 18,
+    "readingTime": 26,
     "featured": false,
     "date": "2026-03-23",
     "path": "ja/Technology/open-source-and-g0v.md"
