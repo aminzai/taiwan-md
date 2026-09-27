@@ -1,232 +1,177 @@
 ---
-title: 'The Development of Taiwan’s Long‑Term Care System'
-description: 'From Long‑Term Care 1.0 to 2.0, Taiwan’s response to rapid aging through community‑based care'
+title: Taiwan's Long-Term Care System Development
+description: The world's most advanced long-term care system, yet shadowed by an even larger invisible caregiving ecosystem
 date: 2026-03-22
+category: Society
 tags:
-  ['long-term care', 'aging society', 'social policy', 'LTC 2.0', 'home care']
-category: 'Society'
-author: 'Taiwan.md'
+  - long-term care
+  - aging society
+  - foreign caregivers
+  - LTC 2.0
+  - system contradictions
+subcategory: 社會福利
+author: Taiwan.md
 featured: false
 lastVerified: 2026-03-22
-translatedFrom: 'Society/台灣長期照顧制度發展.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:c735ef0db3cd23ac'
-sourceBodyHash: 'sha256:738376ef61832978'
-translatedAt: '2026-04-14T12:25:09+08:00'
-readingTime: 8
 lastHumanReview: false
+readingTime: 8
+translatedFrom: Society/台灣長期照顧制度發展.md
+sourceCommitSha: 4b6d28c54
+sourceContentHash: sha256:c735ef0db3cd23ac
+sourceBodyHash: sha256:738376ef61832978
+translatedAt: 2026-09-27T21:39:08+08:00
 ---
 
-# The Development of Taiwan’s Long‑Term Care System
+# Taiwan's Long-Term Care System Development
 
-## 30‑Second Snapshot
+> **30-Second Overview:** Taiwan operates Asia's most comprehensive long-term care system, serving 360,000 people with an 85% satisfaction rate. Yet simultaneously, 214,000 foreign domestic caregivers silently sustain an even larger parallel care ecosystem. This is a story about system design, social values, and the compromises between them.
 
-Taiwan is one of Asia’s fastest‑aging societies. In response, it launched a ten‑year long‑term care plan in 2007 and upgraded it to **Long‑Term Care 2.0 (長照2.0)** in 2017. The system emphasizes **aging in place (在地老化)** through a layered network of home, community, and institutional services. The nationwide **1966 hotline** and local care management centers help families navigate services—from home care to day‑care and dementia support—making Taiwan a regional model for long‑term care.
+In 2017, the Tsai Ing-wen administration launched Long-Term Care 2.0, proclaiming a vision to construct "continuous, universal long-term care services." That same year, Taiwan's employment of foreign domestic caregivers surpassed 200,000 for the first time.
 
-**Keywords:** 長照2.0, aging in place, 1966 hotline, care management centers, home care
+This is no coincidence. It reflects Taiwan's long-term care system's greatest contradiction: on one side is a government-funded official system with an annual budget of NT$65 billion; on the other side stands a hidden system where 214,000 households privately employ foreign caregivers. The first serves 360,000 people; the second serves approximately 210,000. Two parallel care worlds that barely interact.
 
-## Why It Matters
+> **📝 Curator's Note**
+> Taiwan's long-term care policy's most counterintuitive paradox: we build a world-class care system while simultaneously becoming the world's most foreign-caregiver-dependent society.
 
-Taiwan’s aging curve is steep: it entered an “aged society” in 2018 (14% aged 65+) and is projected to become a **super‑aged society** by 2026 (20%+). This demographic shift tests healthcare, family structures, and social budgets. Taiwan’s long‑term care system is a crucial policy response that seeks to protect dignity, reduce caregiver burden, and sustain community life.
+## The Birth of a System: Racing Ahead of Super-Aging
 
-## Policy Timeline
+In 1993, Taiwan's population aged 65 and over reached 7%, marking the official entry into an aging society. But political response came surprisingly late. It wasn't until 2007—fourteen years after aging began—that the "Long-Term Care Ten-Year Plan" officially launched.
 
-### Early Planning (1990s–2000s)
+The belated plan was poorly received from the start. With a NT$81.7 billion budget over ten years, it seemed substantial. But averaged across years, it amounted to only NT$8.17 billion annually—less than 2% of the health insurance budget at the time. Worse still, services reached only about 20,000 people, a coverage rate of just 1.5%.
 
-- 1993: Taiwan officially became an aging society (65+ population over 7%)
-- 1996: National Health Insurance launched, creating a medical foundation
-- 2005: Draft Long‑Term Care Insurance Act proposed
-- 2007: Estimated 430,000 people with functional disabilities
+In the 2016 presidential election, long-term care became an unavoidable issue for all three candidate camps. Tsai Ing-wen pledged an upgrade to "Long-Term Care 2.0," shifting funding from annual appropriations to a dedicated tobacco tax mechanism, immediately raising annual budgets to over NT$30 billion.
 
-### Long‑Term Care 1.0 (2007–2016)
+> **⚠️ Contested Perspective**
+> Medical professionals have criticized Taiwan's approach: Japan's long-term care insurance struggles despite splitting funding between taxes and insurance premiums. Taiwan relies solely on tax revenue, raising serious questions about fiscal sustainability.
 
-**Ten‑Year Plan**
+| 2017: 29,000 people        | 2024: 360,000 people           |
+| -------------------------- | ------------------------------ |
+| LTC 2.0's first-year users | Current users (12-fold growth) |
 
-- Budget: ~NT$81.7 billion over ten years
-- Target population: roughly 20,000 initially
+The numbers look impressive. The reality remains stark.
 
-**Services introduced:**
+## The Era of Severe Staffing Shortages: Seven Care Workers Juggling One Recipient
 
-- Home care (daily life support)
-- Community services (day care, family care)
-- Institutional services (nursing homes, residential facilities)
-- Professional services (rehabilitation, therapy)
+"We cannot find enough people" is the long-term care system's most acute pain point. Tu Hsin-ning, director of Taiwan's Home Care Service Alliance, has documented a structural collapse in care worker recruitment: in 2016, Taiwan's 186 home care organizations employed an average of 47.9 workers per unit. By 2024, with 2,235 units now in operation, the average had plummeted to 24.3 workers per unit.
 
-**Limitations:**
+More units, dispersed workforce, impossible scheduling. Chen Wan-yu, a case manager at Taipei's Junwei Long-Term Care facility, encountered an extreme scenario: one client required seven different care workers rotating through the day. Different workers arrived for different tasks—one for bathing, another for walks, another for positioning.
 
-- Low coverage rate (~1.5% of population)
-- Urban‑rural gaps
-- High out‑of‑pocket costs for families
+> **💡 Did You Know?**
+> Evening care services are nearly impossible to find. Even with government-provided incentive pay of NT$385 per hour, few care workers volunteer for evening shifts. Families juggling daytime work struggle to "take a breath" when night falls.
 
-### Long‑Term Care 2.0 (2017–Present)
+More troubling still: the middle tier of case managers faces massive attrition. Ministry of Health and Welfare regulations cap each case manager at 120 clients, yet reality frequently exceeds 150. Shih Sheng-mao, a senior case manager at Taipei's Red Heart Association, states it plainly: "Social workers specializing in isolated elderly can manage 30–60 cases for deep engagement. 150 cases makes genuine holistic care impossible."
 
-**Core objectives:**
+Dark humor circulates through Taiwan's care sector: "Our long-term care in the future will depend on only two kinds of people—foreigners and robots!"
 
-- “Continuous, accessible long‑term care services”
-- “Aging in place, healthy aging, active aging”
-- “Reduced burden on family caregivers”
+## The Invisible Half: 214,000 Foreign Caregivers Sustaining a Parallel World
 
-**Expanded eligibility includes:**
+As Long-Term Care 2.0 garnered media acclaim, a far larger caregiving ecosystem was quietly expanding.
 
-- People with disabilities
-- People with dementia
-- Indigenous adults aged 55–64 with functional limitations
-- Adults 50+ with early‑onset dementia
+Taiwan first opened its doors to foreign domestic caregivers in 1992, when only 306 were employed. By March 2024, that number had grown to 214,514—with 80% from Indonesia, 10.8% from the Philippines, and 8.9% from Vietnam. Lined up end to end, they would stretch from Taipei to Kaohsiung.
 
-## The LTC 2.0 Service Network
+> **📊 Data Source**
+> According to Ministry of Labor statistics, as of March 2024, Taiwan's population aged 80 and above totals 910,000, with 41.7% experiencing some degree of functional disability.
 
-### ABC Community Care Model
+These 214,000 households with foreign caregivers comprise a completely parallel care ecosystem. Hiring one foreign domestic caregiver costs approximately NT$30,000 monthly for 24-hour care. By contrast, Long-Term Care 2.0's maximum monthly subsidy for severely disabled recipients is only NT$32,340—and with limited service hours. The math speaks volumes.
 
-Taiwan’s care network is structured as a three‑level system:
+More critically, the two systems barely coexist. Current regulations prevent households with foreign caregivers from accessing Long-Term Care 2.0 services (with narrow exceptions for assistive devices and home accessibility modifications). This exclusionary clause transforms 214,000 households into institutional orphans.
 
-**A‑Level: Integrated Care Centers**
+> **⚠️ Contested Perspective**
+> Starting in 2026, Long-Term Care 3.0 will allow households employing foreign caregivers to access community care services. However, the Ministry of Health and Welfare worries this could trigger a surge in migrant worker demand of up to 160,000 people, creating severe supply-demand imbalance.
 
-- Case management and service coordination
-- Serving 20,000–30,000 residents per area
-- Goal: at least one center per township/district
+## 24 Hours vs. 8 Hours: Confrontation Between Two Care Philosophies
 
-**B‑Level: Composite Service Centers**
+Why do Taiwanese families prefer paying NT$30,000 to hire a foreign caregiver over accessing Long-Term Care 2.0?
 
-- Provide multiple care services (day care, multi‑function centers, group homes)
-- Higher density in urban areas
+Lian Jin-ying in Hualien is simultaneously caring for her 98-year-old mother with dementia and her 76-year-old husband. She explains: "A care worker comes for only two hours daily. I have to rush home to cook for my husband, and I must be back by 1 p.m. Evenings, we basically cannot find anyone."
 
-**C‑Level: Neighborhood Care Stations**
+This reflects the fundamental difference between the two systems: Long-Term Care 2.0 provides "segmented professional care," while foreign caregivers provide "round-the-clock lifestyle companionship." The former aligns with international professional care standards; the latter aligns with what East Asian families actually need.
 
-- Community‑level services: shared meals, health promotion, prevention
-- Goal: at least one per junior‑high school district
+> **📝 Curator's Note**
+> Taiwan's care model choice reflects a struggle between two value systems: Northern European "professionalization and community-based care" versus East Asian "family-centered and holistic care."
 
-### Core Service Categories
+After comparing Taiwan's and Singapore's care models, Lynn Yu Ling Ng from the National University of Singapore discovered something crucial: Taiwan's foreign caregivers function more as "supplementary to family caregivers" rather than "replacements." This stems from Taiwan's strict eligibility requirements—medical assessment is mandatory before hiring—forcing employers to learn basic care skills and remain involved even with hired caregivers.
 
-**Care Services**
+By contrast, professional long-term care services in Taiwan frequently absent when most needed. Wei Li-hu, one of the rare care workers who specialize in evening shifts, puts it bluntly: "Most people simply refuse evening work, even with the NT$385 incentive."
 
-- Home care (daily assistance and household support)
-- Day care (nutrition, social activities, health promotion)
-- Family caregiver support programs
-- Small‑scale, multi‑function services
+## Dignity on the Assembly Line: When Care Becomes Rushing Work
 
-**Professional Services**
+Staffing shortages exact a toll beyond just scheduling nightmares—they compromise care quality itself.
 
-- Home nursing and wound care
-- Rehabilitation (PT/OT/speech therapy)
-- Psychological support
+Zhang Kai-jie (pseudonym), a social worker at a residential care facility, has observed how even basic bathing becomes assembly-line production. "At 8 a.m., residents bathe. In winter temperatures around 10°C, they're pulled from warm blankets. Residents line up outside the bathroom. Three care workers divide the tasks: one undresses, one supports the body, one rinses."
 
-**Assistive Devices & Barrier‑Free Home Modifications**
+Li Shao-fen, assistant professor at National Yang Ming Chiao Tung University's Institute of Health and Welfare, terms this phenomenon "rushed caregiving"—care workers numb themselves day after day to simply complete their labor tasks, while the agency of care work collapses and residents bear the risk.
 
-- Rental, purchase, and repair of mobility aids
-- Installation of handrails, ramps, and anti‑slip features
+> **💡 Did You Know?**
+> Most residential facilities bathe residents only twice weekly during winter months, because insufficient staffing prevents timely service provision.
 
-### Dementia Care Support
+A former care worker, Xiaoshi (pseudonym), recalls: "During bathing shifts, we'd wash about ten people daily, cycling through every two to three hours—constantly cleaning, feeding, bathing. It was pure assembly line, so rushed. I'd finish dripping with sweat."
 
-- **Dementia‑friendly centers** in each county/city
-- “瑞智學堂” programs for cognitive stimulation
-- Support groups and caregiver training
-- Early screening and intervention pathways
+This "efficiency-first" care model is precisely why Taiwanese families choose foreign caregivers: at home, residents can at least preserve basic dignity.
 
-## Financing: A Tax‑Based Model
+## International Perspective: Taiwan's Care Model Stands Alone
 
-Unlike Japan’s insurance‑based system, Taiwan funds LTC mainly through **tax revenue**:
+Taiwan's dual-track caregiving system is genuinely unique globally.
 
-**Long‑Term Care Development Fund**
+Germany established long-term care insurance in 1994 with a "cash or services" model—recipients choose either cash to arrange their own care or accept professional services. Japan's kaigo (介護) insurance centers on integrated community care, emphasizing the unity of medical, care, and housing. The Netherlands built its long-term care insurance in 1968 and now operates through "care packages" delivering standardized services.
 
-- Revenue sources: tobacco tax surcharges, central & local budgets, donations
-- 2023 budget: ~NT$65 billion
+Yet no other nation runs two care systems of comparable scale that barely coexist, as Taiwan does.
 
-**Cost‑sharing principle:**
+> **📝 Curator's Note**
+> Taiwan's long-term care system's contradiction mirrors the deeper struggle in East Asian societies modernizing: Do we want the professionalized Northern European model, or the humanized family-centered model? The answer is: we want both, but we're failing at both.
 
-- Government covers about 85–90%
-- Users pay 10–15%, adjusted by income
+According to scholar Liang Li-fang: "Taiwan's foreign caregivers were never intended to replace family roles, but to supplement family care insufficiencies. This aligns with Confucian cultural expectations about family responsibility."
 
-**Subsidy tiers:**
+Yet this model's cost is systemic fragmentation. The 210,000 households employing foreign caregivers cannot access Long-Term Care 2.0's community resources, respite services, or assistive device support. They live outside institutional sight, surviving on their own.
 
-- Low‑income households: fully subsidized
-- Lower‑middle income: 5% co‑pay
-- General households: 16% co‑pay
+## Three Arrows of Rescue: Government's Response to the Staffing Crisis
 
-## Access and Assessment
+Confronted with severe long-term care workforce shortages, the Ministry of Health and Welfare has launched three policy initiatives:
 
-**1966 Hotline**
+**First Arrow: Diverse Companionship Care Services Pilot Program**
+Allows the public to purchase temporary and short-term care services out-of-pocket. Launched in 2025, within three months it had served 485 people across 15 counties, demonstrating genuine demand.
 
-- 24/7 nationwide hotline for consultation and application
-- Services in Mandarin, Taiwanese, Hakka, and Indigenous languages
+**Second Arrow: Industry-Academic International Class Talent Recruitment and Retention Program**
+Enrolls Vietnamese and Indonesian students in two-year long-term care programs with post-graduation employment contracts requiring three years of service. The first cohort of 22 has been fully pre-booked by industry, with the second cohort expanding to 40.
 
-**Care Management Centers**
+**Third Arrow: Opening Mid-Level Foreign Technical Talent Pathways**
+Foreign domestic caregivers with six or more years of work experience and monthly wages reaching NT$29,000 can transition to "mid-level technical personnel" status, unrestricted by work-year limits. As of February 2024, 15,000 people had obtained this credential.
 
-- Staffed by nurses, social workers, and therapists
-- Conduct functional assessment (ADL/IADL) and cognitive screening
-- Develop individualized care plans and service referrals
+> **⚠️ Contested Perspective**
+> Three arrows sound substantial, but 22 Vietnamese students against hundreds of thousands in unmet demand draw criticism as "a drop in the bucket." The real solution likely requires raising social status and wages for care work itself.
 
-## Service Providers and Workforce
+## Long-Term Care 3.0's Wager: Integration or Further Fragmentation?
 
-**Service providers**
+Starting in 2026, Long-Term Care 3.0 will roll out in phases, with the largest reform being inclusion of households with foreign caregivers in community services. Will this reform resolve the dual-track system's contradictions, or create even greater complexity?
 
-- Non‑profit organizations
-- Private care companies
-- Government‑commissioned providers
+Lu Chien-te, vice minister of the Ministry of Health and Welfare, states: "Foreign workers are supplementary labor, filling roles local workers refuse." Yet reality contradicts this framing: the 214,000 foreign caregivers are no longer "supplementary"—they've become Taiwan's long-term care system's backbone.
 
-**Workforce (2023 estimates):**
+Should Long-Term Care 3.0 successfully integrate the two systems, Taiwan might pioneer a globally unique "hybrid care model"—combining professional service quality standards with family care's human warmth.
 
-- ~50,000 care workers
-- 1,500 care managers
-- 3,000 home nurses
-- 2,000 rehabilitation therapists
+If it fails, Taiwan faces a more severe institutional split: Affluent families employing foreign caregivers gain dual services, while lower-income families queue for government resources, and class disparities widen at precisely the moment of greatest care vulnerability.
 
-**Challenges:**
+> **📝 Curator's Note**
+> Taiwan's long-term care system's future is actually answering a deeper question: What kind of society do we want to become? One prioritizing efficiency through professionalization, or one valuing human warmth through interpersonal connection?
 
-- Care worker shortage (ratio ~1:20 vs. 1:10 international benchmark)
-- Relatively low wages compared with healthcare
-- Limited career pathways
+## Afterword: Two Ways of Loving
 
-## Current Utilization
+Tong Fu-chien, an 86-year-old from Tainan living with kidney disease and dementia, has an Indonesian caregiver named Astuti who grinds tofu and noodles soft each day—"because Grandpa's teeth cannot manage hard food, but he loves noodles." Astuti calls him "yi ji bang" (one-rate excellent), and his son says Astuti is "like another daughter."
 
-**2023 figures:**
+Elsewhere, in Hualien, 69-year-old Lian Jin-ying cares for her 98-year-old mother with dementia, using Long-Term Care 2.0 home care workers for meal preparation, yet still sleeps on the floor in her mother's room each night. "This is my mother! I cannot abandon her."
 
-- Total users: ~360,000
-- Home care: ~140,000
-- Day care: ~18,000
-- Respite care: ~80,000
+These two stories represent Taiwan's society's two understandings of "caregiving": one is professional specialization with controllable quality—care as service purchased; another is whole-person companionship and emotional co-creation—care as family extension.
 
-**Coverage:**
+Taiwan's long-term care system's development is fundamentally about seeking balance between these two forms of love. We are still learning how to maintain human warmth while ensuring professional quality; how to pursue efficiency while never forgetting that caregiving's essence lies in human connection.
 
-- About 61% of disabled seniors receive services (up from ~30% in LTC 1.0)
-
-## What Makes Taiwan’s System Distinct
-
-1. **Community‑based design:** The ABC network brings services to neighborhoods.
-2. **Cultural adaptation:** Services integrate Indigenous and Hakka language support.
-3. **Family‑centered support:** Emphasis on respite care and caregiver training.
-4. **Digital infrastructure:** A national LTC management system enables online applications and quality monitoring.
-
-## International Comparison
-
-- **Japan:** Insurance‑based “Kaigo” system with broad coverage
-- **South Korea:** Social insurance with caregiver subsidies
-- **Taiwan:** Tax‑based model with strong community integration
-
-Taiwan’s approach prioritizes **fiscal stability** and **community access**, though demand growth is testing both.
-
-## Challenges Ahead
-
-- **Rapid demographic change:** super‑aged society by 2026
-- **Rising disability rates:** projected to reach ~880,000 by 2031
-- **Regional gaps:** fewer services in rural areas
-- **Financial sustainability:** growing demand pressures public budgets
-
-## Future Directions
-
-- Expand preventive care and early intervention
-- Introduce more smart‑care technologies and tele‑services
-- Improve care worker wages and career development
-- Strengthen quality standards across providers
-- Deepen cross‑national learning and cooperation
-
-## Closing Reflection
-
-Taiwan’s long‑term care system reflects a societal commitment to dignity and intergenerational solidarity. The shift to **Long‑Term Care 2.0** signals a move from fragmented services to a coordinated, community‑based network. If Taiwan can sustain funding, workforce growth, and quality standards, it will continue to serve as an important reference point for other aging societies in Asia.
+This learning will continue for a long time. But at least, we have already begun.
 
 ## References
 
-- Ministry of Health and Welfare, _[Long‑Term Care Services Act](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=L0070040)_
-- Ministry of Health and Welfare, _[LTC 2.0 White Paper](https://1966.gov.tw/LTC/cp-6572-69919-207.html)_
-- National Development Council, _[Population Projections](https://pop-proj.ndc.gov.tw/)_, 2022
-- [LTC Management Center Statistical Yearbook](https://dep.mohw.gov.tw/dos/cp-5223-62358-113.html)
-- 1966 Long‑Term Care Hotline: https://1966.gov.tw/
+- [報導者：大缺工時代下，靠誰撐起長照3.0？](https://www.twreporter.org/a/long-term-care-plan-3-labor-shortage)
+- [Straits Times: Taiwan is hiring more foreigners to care for its elderly](https://www.straitstimes.com/multimedia/graphics/2025/05/elders-taiwan-insight/index.html)
+- [愛長照：借鏡荷蘭、德國、奧地利等七個國家長照制度](https://www.ilong-termcare.com/articles/2pK)
+- [衛生福利部長照專區](https://1966.gov.tw/)
+- [國家發展委員會人口推估報告](https://pop-proj.ndc.gov.tw/)
+- [勞動部外國人聘僱服務網](https://www.wda.gov.tw/)
+- [Taiwan News: Taiwan on track to be super-aged society](https://www.taiwannews.com.tw/news/5954295)
+- [海峽時報：Taiwan further eases curbs on foreign caregivers](https://www.straitstimes.com/asia/se-asia/faster-ageing-taiwan-further-eases-curbs-on-foreign-caregivers)
