@@ -230,7 +230,7 @@ Die intelligente Fertigung ist das am weitesten entwickelte Gebiet, wobei die 5G
 
 Foxconn (土城廠) kombiniert 5G-Privatenetzwerke mit KI-Qualitätskontrolle, während TSMC ein 5G-AGV-Transportsystem implementiert hat; beide Projekte sind in der Serienanwendungsphase angekommen.
 
-- **Chungking Steel (中鋼)**: Fernsteuerung und AR-Wartung mittels 5G
+- **China Steel (中鋼)**: Fernsteuerung und AR-Wartung mittels 5G
 - **Erwarteter Nutzen**: Steigerung der Produktionseffizienz um 20–30 %
 
 #### Intelligente Medizin
