@@ -67,6 +67,34 @@ EVENTS: dict[str, dict] = {
             "ar": r"موراكوت|Morakot|8 أغسطس",
         },
     },
+    "八二三": {
+        "zh": r"八二三",
+        "number": r"(?<!\d)823(?!\d)|8[·・./\-‑]23",
+        "forms": {
+            "en": r"August 23|23 August|Taiwan Strait Crisis|Kinmen", "fr": r"23 août|crise du détroit|bombardement de Kinmen", "es": r"23 de agosto|crisis del estrecho",
+            "pt": r"23 de agosto|crise do estreito|bombardeio de 1958", "de": r"23\. August|August[- ]23|Taiwan-?[Kk]rise|Taiwanstraße-Krise|Acht-zwei-drei", "id": r"23 Agustus|Agustus 23|Krisis Selat",
+            "vi": r"23 tháng 8|Khủng hoảng eo biển|Tám Tháng Hai Mươi Ba", "ru": r"23 августа|кризис|артиллерийск\w+ дуэл\w+ 1958", "ja": r"八二三|8月23日|金門砲戦|台湾海峡危機",
+            "ko": r"8월 23일|금문|진먼|대만해협 위기", "hi": r"23 अगस्त|जलडमरूमध्य संकट|आठ दो तीन", "ar": r"23 أغسطس|أزمة مضيق|معركة المدفعية 1958",
+        },
+    },
+    "三一九": {
+        "zh": r"三一九",
+        "number": r"(?<!\d)319(?!\d)|3[·・./\-‑]19",
+        "forms": {
+            "en": r"March 19|19 March", "fr": r"19 mars", "es": r"19 de marzo", "pt": r"19 de março", "de": r"19\. März",
+            "id": r"19 Maret", "vi": r"19 tháng 3", "ru": r"19 марта", "ja": r"三一九|3月19日", "ko": r"3월 19일",
+            "hi": r"19 मार्च|उन्नीस मार्च", "ar": r"19 مارس",
+        },
+    },
+    "六四": {
+        "zh": r"六四天安門|六四事件|六四屠殺",
+        "number": r"(?<!\d)6[·・./\-‑]4(?!\d)|June 4|4 June",
+        "forms": {
+            "en": r"Tian'?anmen", "fr": r"Tian'?anmen|4 juin", "es": r"Tian'?anmen|4 de junio", "pt": r"Tian'?anmen|4 de junho",
+            "de": r"Tian'?anmen|4\. Juni", "id": r"Tian'?anmen|4 Juni", "vi": r"Thiên An Môn|Tian'?anmen|4 tháng 6", "ru": r"Тяньаньмэнь|4 июня",
+            "ja": r"天安門|六四", "ko": r"천안문|톈안먼|6·4", "hi": r"तियानानमेन|त्येनआनमेन|तियानआनमेन|4 जून|छह-चार|64 घटना", "ar": r"تيانانمن|تيان آن من|4 يونيو",
+        },
+    },
 }
 
 
@@ -83,6 +111,12 @@ WRONG: dict[str, dict[str, str]] = {
         "id": r"Jiuzichi|19921", "hi": r"नवगौजी|1992 के भूकंप", "ar": r"جيوتشوان|1992 \(سنة بعد", "ja": r"九妹一",
     },
     "八八風災": {"ko": r"八八 풍수해"},
+    "八二三": {
+        "vi": r"Bát Nhị Tam|Tám Nhị Tam|[Tt]ám [Hh]ai [Bb]a|Bát Đảo", "ko": r"팔이삼", "es": r"Ba Er San", "fr": r"Ba'er-san|Action de printemps",
+        "de": r"Ba Er San|Beschuss von ’82|’82 ein", "ar": r"با إر سان|قصف ثمانية وعشرين", "ru": r"Аютхуай|восьмеро-двух", "id": r"Baizan",
+    },
+    "三一九": {"de": r"Schussvorfall vom 3\. Januar", "hi": r"उनतीस मार्च गोलीकांड"},
+    "六四": {"vi": r"Sáu Ba", "hi": r"छियाओआन", "de": r"April-Behufs"},
 }
 # 日期字串本身合法（2015 年 3 月 22 日的抗議、新聞日期），只有出現在 1947 或「事件」字眼附近才算錯
 WRONG_DATE: dict[str, dict[str, str]] = {
