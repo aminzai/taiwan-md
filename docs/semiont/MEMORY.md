@@ -326,3 +326,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-28 | 005550-twmd-babel-nightly | 十二語已 100%，夜班做驗收：日記最後一篇補五語、驗收尺把存在的圖片報成壞連結先修、四語自造 slug 與 ar「九月選舉」改回；6,413 條停在中文網址的連結進佇列 #89 | 尺歪時真問題跟著被當雜訊；寫入當下查表的改寫，目標晚出生就凍住 | [→](memory/2026-09-28-005550-twmd-babel-nightly.md) |
 | 2026-09-28 | 011542-twmd-supporters-weekly | 第七輪 0 候選：正控制對 06–07 月仍命中，隱私 gate 兩條 PASS，NT$8,400 不變；定額續扣缺席照引 OBSERVER-QUEUE #75（待決） | 佇列項沒新資料時，交接寫下一個有資料的日期 | [→](memory/2026-09-28-011542-twmd-supporters-weekly.md) |
 | 2026-09-28 | 053916-twmd-routine-sync | 第 61 輪：十八條三層零漂移；live 鏡像齡 23.6 小時，照前例用 list_scheduled_tasks 逐條補驗 cron／enabled 零差；昨天補送的 babel 殼今晨第一班已讀到 | 補驗第五輪仍靠當班記得，交接照原樣傳 10-04 self-evolve | [→](memory/2026-09-28-053916-twmd-routine-sync.md) |
+| 2026-09-28 | 055906-twmd-embeddings-nightly | 13 語 14,469 向量 0 fail，verify PASS，`8b0ab0bd1` 推上；篇數不變但 687 篇譯文的鄰居換了，全來自 babel-vortex 重譯 | 篇數封頂後，索引有沒有反映站上變化要看鄰居變動量 | [→](memory/2026-09-28-055906-twmd-embeddings-nightly.md) |
