@@ -98,3 +98,38 @@ def test_staged_content_the_worktree_no_longer_backs_is_leftover(tmp_path, monke
     assert MODULE.leftover_staged() == ["queue.md"]
     (tmp_path / "lock").mkdir()
     assert MODULE.leftover_staged() == []  # 有人拿著共用鎖正在 add→commit
+
+
+FR = ("Cet article parle de l'histoire et de la culture de Taïwan pour les lecteurs qui veulent "
+      "comprendre la société de cette île et ses habitants. ") * 12
+EN = ("This article discusses the history and the culture of Taiwan for readers who want to "
+      "understand the society of this island and its people. ") * 12
+
+
+def _lang_repo(tmp_path, monkeypatch):
+    en = tmp_path / "knowledge" / "en"
+    en.mkdir(parents=True)
+    (en / "a.md").write_text("---\ntitle: t\n---\n" + FR, encoding="utf-8")  # 在 en 目錄裡的法文
+    (en / "b.md").write_text("---\ntitle: t\n---\n" + EN, encoding="utf-8")
+    monkeypatch.setattr(MODULE, "REPO", tmp_path)
+    monkeypatch.setattr(MODULE, "TLC_CACHE", tmp_path / ".taiwanmd" / "tlc-cache.json")
+    return en
+
+
+def test_fresh_translation_in_the_wrong_language_is_counted(tmp_path, monkeypatch):
+    # 2026-09-27 實例：ja〈黃山料〉整篇英文，status 照算 fresh
+    _lang_repo(tmp_path, monkeypatch)
+    r = MODULE.language_mismatch()
+    assert r["wrong_language"] == 1 and r["foreign_script"] == 0 and r["total"] == 1
+    assert r["sample"] == [{"path": "knowledge/en/a.md", "kind": "wrong_language", "detected": "fr"}]
+
+
+def test_unchanged_files_reuse_the_cache_and_changed_files_are_judged_again(tmp_path, monkeypatch):
+    en = _lang_repo(tmp_path, monkeypatch)
+    MODULE.language_mismatch()
+    cache = json.loads(MODULE.TLC_CACHE.read_text(encoding="utf-8"))
+    cache["knowledge/en/b.md"][1:3] = ["fail", "foreign_script"]  # 檔案沒動、判定被改：應該照快取
+    MODULE.TLC_CACHE.write_text(json.dumps(cache), encoding="utf-8")
+    assert MODULE.language_mismatch()["foreign_script"] == 1
+    (en / "b.md").write_text("---\ntitle: t\n---\n" + EN + "More text. ", encoding="utf-8")
+    assert MODULE.language_mismatch()["foreign_script"] == 0  # 檔案變了就重判

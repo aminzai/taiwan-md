@@ -3,7 +3,7 @@ title: 'BABEL-VORTEX-LOOP'
 description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.55)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.68'
+current_version: 'v1.69'
 last_updated: 2026-09-27
 last_session: '2026-09-26-100333-babel-vortex（翻譯率 100% 模式：推送常駐、付費 Haiku、閘門家族、委派 worktree 路徑陷阱與核准視窗、腳註修復器的語言盲）'
 sister_docs:
@@ -215,7 +215,8 @@ stale 清償實測：老五語（en/ja/ko/es/fr）的語意無關 bump **全軍�
 ## 收官條件
 
 十一語 stale=0 missing=0 且 QA gate 全綠 → 跑 /twmd-finale 宣告巴別塔 100%。
-stale／missing 要是 origin 上的數字：babel-pulse `孤兒=0` 才算（v1.65）。
+stale／missing 要是 origin 上的數字：babel-pulse `孤兒=0` 才算（v1.65）。同一行的 `語言不符=N`（v1.69）
+是 status 算 fresh、實際不是目標語言的譯文，存量處置在 OBSERVER-QUEUE #53 與 #69，宣告時一起報。
 
 ### 第十三家族是檢查器的病，不是譯文的病（2026-07-27 追查）
 
@@ -292,6 +293,14 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 證據（重試觸發次數），不是相關性。
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
+
+- v1.69（2026-09-27 晚間第十八輪）：**十二語全 fresh，其中 83 篇讀者讀不到自己的語言**。名字巡檢改掃全部語言後，
+  ja〈黃山料〉的候選把一件舊事帶回眼前：那篇整篇是英文，status 只看版本標記，照算 fresh。用 dispatcher 第一道閘門
+  `target-language-check` 全掃 13,488 篇（約 36 秒）：整篇錯語 51（ja、ko、es、fr 各有十幾篇是英文，OBSERVER-QUEUE
+  #53 進佇列時也是 51，沒動過）、尾段漂成別的文字 32（hi 31、ar 1，#69 當初 40）。`babel-pulse` 加 `語言不符=N`
+  讀數，判準就是 `judge()`，以檔案大小與 mtime 快取、只重判變過的檔（冷跑 55 秒、熱跑 19 秒）。同輪依名字候選
+  修五處認錯人（hi〈拼板舟〉蔡維軒、hi〈偏遠地區學校〉劉安婷、ar 三篇的兩蔣／政大／馬英九，`dbd897d3f`）。
+  部署看起來卡住 31 分鐘，對照上一次成功的建置要 44 分鐘，是正常長度。
 
 - v1.68（2026-09-27 晚間第十七輪）：**worktree 裡的 commit 一個 hook 都不跑**。上一輪留了一個沒驗的疑點，這輪用
   `GIT_TRACE` 實測：`core.hooksPath` 是相對路徑 `.husky/_`，那是 husky 在 npm install 時生成的目錄，裡面自帶一個

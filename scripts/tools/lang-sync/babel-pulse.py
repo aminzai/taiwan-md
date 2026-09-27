@@ -23,6 +23,7 @@
 from __future__ import annotations
 
 import argparse
+import importlib.util
 import json
 import os
 import subprocess
@@ -177,6 +178,53 @@ def leftover_staged() -> list:
     return [p for p in staged if run(["git", "diff", "--quiet", "HEAD", "--", p]).returncode == 0]
 
 
+TLC_CACHE = REPO / ".taiwanmd" / "target-language-cache.json"
+
+
+def language_mismatch() -> dict:
+    """status 算 fresh、卻不是目標語言的譯文：整篇是別的語言（OBSERVER-QUEUE #53），或尾段漂成
+    別的文字（#69）。判準就是 dispatcher 第一道閘門 target-language-check 的 judge()。
+
+    為什麼要數（2026-09-27 渦流第十八輪）：十二語缺口歸零之後，ja〈黃山料〉照樣是整篇英文、hi 三十一篇
+    尾段漂成韓文。status 只看版本標記，這些都算 fresh，於是「100%」裡有 83 篇讀者讀不到自己的語言
+    （整篇錯語 51、尾段漂移 32，全掃 13,488 篇約 36 秒）。存量怎麼清等哲宇決定，這裡讓它每輪看得到。
+    快取以檔案大小＋mtime 為鍵，只重判變過的檔。
+    """
+    spec = importlib.util.spec_from_file_location(
+        "target_language_check", Path(__file__).with_name("target-language-check.py"))
+    tlc = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(tlc)
+    tlc.REPO = REPO  # judge() 印的路徑跟本支同一個根
+    try:
+        cache = json.loads(TLC_CACHE.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        cache = {}
+    new_cache, counts, by_lang, sample = {}, {"wrong_language": 0, "foreign_script": 0}, {}, []
+    for lang in [L for L in ALL_TRANSLATION_LANGS if L in tlc.ALL_LANGS]:
+        for p in sorted((REPO / "knowledge" / lang).rglob("*.md")):
+            if p.name.startswith("_"):
+                continue
+            rel = p.relative_to(REPO).as_posix()
+            st = p.stat()
+            key = f"{st.st_size}:{st.st_mtime_ns}"
+            hit = cache.get(rel)
+            if hit and hit[0] == key:
+                verdict, kind, detected = hit[1], hit[2], hit[3]
+            else:
+                r = tlc.judge(p, lang)
+                verdict, detected = r["verdict"], r["detected"]
+                kind = "foreign_script" if "漂入" in (r.get("note") or "") else "wrong_language"
+            new_cache[rel] = [key, verdict, kind, detected]
+            if verdict == "fail":
+                counts[kind] += 1
+                by_lang[lang] = by_lang.get(lang, 0) + 1
+                if len(sample) < 12:
+                    sample.append({"path": rel, "kind": kind, "detected": detected})
+    TLC_CACHE.parent.mkdir(exist_ok=True)
+    TLC_CACHE.write_text(json.dumps(new_cache, ensure_ascii=False), encoding="utf-8")
+    return {**counts, "total": sum(counts.values()), "by_lang": by_lang, "sample": sample}
+
+
 def rate_window(rows: list, hours: float):
     """近 N 小時的 fresh 淨增（跨全部語言）。找 ≥N 小時前最近的一列當基準。"""
     if len(rows) < 2:
@@ -237,6 +285,8 @@ def build_payload(rows: list) -> dict:
         # gap_total 是工作樹口徑；orphans 是工作樹有、origin 沒有、也沒有產線在管的譯文
         "uncommitted": uncommitted_translations(disp),
         "leftover_staged": leftover_staged(),
+        # gap 算 fresh、實際不是目標語言的譯文（整篇錯語／尾段漂移）
+        "language_mismatch": language_mismatch(),
         "history": [
             {"ts": r["ts"],
              "fresh_total": sum(v["fresh"] for v in r["langs"].values()),
@@ -297,6 +347,8 @@ def render_html(d: dict) -> str:
         for o in unc["orphans"][:20])
     orph_list += "".join(
         f'<span class="chip warn">殘留暫存 {p}</span>' for p in (d.get("leftover_staged") or [])[:20])
+    lm = d.get("language_mismatch") or {"total": 0, "wrong_language": 0, "foreign_script": 0}
+    lm_col = "#dc2626" if lm["total"] else "var(--mut)"
     return f"""<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>巴別塔脈搏 — Taiwan.md</title>
@@ -333,6 +385,7 @@ svg{{width:100%;height:70px;display:block}}
 <div class="kpi"><u>粗估到 100%</u><strong>{d.get("eta_days") or "—"}</strong><em>天（依當前速率）</em></div>
 <div class="kpi"><u>語言數</u><strong>{len(d["langs"])}</strong><em>zh 母本 {d["total_zh"]} 篇</em></div>
 <div class="kpi"><u>只在工作樹的譯文（孤兒）</u><strong style="color:{orph_col}">{n_orph}</strong><em>缺口不含這些；另 {unc["pending"]} 篇在產線批次中</em></div>
+<div class="kpi"><u>算 fresh 但不是目標語言</u><strong style="color:{lm_col}">{lm["total"]}</strong><em>整篇錯語 {lm["wrong_language"]}／尾段漂移 {lm["foreign_script"]}</em></div>
 </div>
 {orph_list}
 <svg viewBox="0 0 100 100" preserveAspectRatio="none"><polyline fill="none"
@@ -433,7 +486,9 @@ def main():
     log(f"pulse gap={payload['gap_total']} Δ={payload.get('gap_delta')} "
         f"rate_1h={r1.get('per_hour')}/h 產線={len(payload['dispatchers'])} "
         f"孤兒={len(unc['orphans'])} 批次中={unc['pending']} 殘留暫存={len(payload['leftover_staged'])} "
-        f"→ {OUT_JSON.name} + {OUT_HTML.name}")
+        f"語言不符={payload['language_mismatch']['total']}"
+        f"（整篇錯語 {payload['language_mismatch']['wrong_language']}／尾段漂移 {payload['language_mismatch']['foreign_script']}）"
+        f" → {OUT_JSON.name} + {OUT_HTML.name}")
     for o in unc["orphans"]:
         log(f"  孤兒 {o['xy'].strip() or '?'} {o['path']}（{o['age_min']} 分鐘未 commit，不在活產線批次）")
     for p in payload["leftover_staged"]:
