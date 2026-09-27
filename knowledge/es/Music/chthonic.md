@@ -105,7 +105,7 @@ La internacionalización de CHTHONIC no se limita al mapa de giras. La banda pro
 
 ## No solo un vocalista
 
-La imagen pública de CHTHONIC suele asociarse con Freddy Lim, especialmente después de que éste dejara la música para unirse a _Taiwan People's Party_, el congreso y la diplomacia. Pero CHTHONIC no es un proyecto individual de un vocalista.
+La imagen pública de CHTHONIC suele asociarse con Freddy Lim, especialmente después de que éste dejara la música para unirse a _New Power Party_, el congreso y la diplomacia. Pero CHTHONIC no es un proyecto individual de un vocalista.
 
 Doris Ye (葉湘怡) ha sido durante mucho tiempo la líder, bajista y núcleo operativo de la banda. Jesse Liu (劉笙彙) es una fuente clave de composición y sonido de guitarra. La percusión de Dani Wang (汪子驤) y el teclado de CJ Gao (高嘉嶸) llevan a CHTHONIC a una configuración más sinfónica y dramática. El sitio web oficial y las redes sociales aún operan bajo la marca CHTHONIC como una banda completa, recordando al lector que la historia de CHTHONIC no se puede entender solo desde la perspectiva política de Freddy Lim.[^7]
 

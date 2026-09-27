@@ -131,7 +131,7 @@ Therefore, what is most worth writing about the post office is not the statistic
 
 [^1]: [Chunghwa Post: Company Profile](https://www.post.gov.tw/post/internet/Group/index.jsp?ID=1609201179673) — Chunghwa Post's official historical evolution, recording the 1888 Taiwan Postal Bureau, 1896 Great Qing Postal, post-war postal organizations, and 2003 corporatization.
 
-[^2]: [Chen Yu-hsin: The Establishment of Taiwan Postal Services in the Early Japanese Colonial Period (1895-1924) - Focusing on Postal Operations](https://www.airitilibrary.com/Article/Detail/U0021-1610201315152585) — Abstract of a master's thesis from the Institute of History and Philology, National Taiwan University, explaining the governance background, local outposts, changes in usage rates, and civilian life networks of Japanese colonial postal services.
+[^2]: [Chen Yu-hsin: The Establishment of Taiwan Postal Services in the Early Japanese Colonial Period (1895-1924) - Focusing on Postal Operations](https://www.airitilibrary.com/Article/Detail/U0021-1610201315152585) — Abstract of a master's thesis from the Graduate Institute of Taiwan History, National Taiwan Normal University, explaining the governance background, local outposts, changes in usage rates, and civilian life networks of Japanese colonial postal services.
 
 [^3]: [ABPS: Taiwan Postal History](https://www.abps.org.uk/competitions/taiwan-postal-history/) — Abstract of an English exhibition article from the British Philatelic Society, outlining Taiwan's postal history from the Imperial Courier Post, the 1884–85 French naval blockade and 1885 postal reform, to the 1895 Japanese takeover and the 1945 overprinted Japanese stamp phase.
 

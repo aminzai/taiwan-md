@@ -52,7 +52,7 @@ Pommel horse is the gymnastics event that demands the most upper-body strength a
 
 Most importantly, his signature technique — the Thomas Flair — was gradually reaching maturity. This movement requires the athlete to swing both legs wide apart in circles, like breakdancing, but within the constrained environment of the pommel horse — an extremely high degree of difficulty. Li Chih-kai not only performed it with stability but could execute multiple consecutive flairs, something quite rare even in international gymnastics.
 
-After entering the sports-affiliated high school program at National Taiwan University of Physical Education (國立體育大學附中), Li Chih-kai received more professional training. His technical progress during this phase was rapid, and he began distinguishing himself in national competitions. In 2015, as national champion, he represented Taiwan at the World Artistic Gymnastics Championships for the first time. Although he did not medal, the international competition experience laid a foundation for future breakthroughs.
+After entering the sports-affiliated high school program at National Taiwan Sport University (國立體育大學附中), Li Chih-kai received more professional training. His technical progress during this phase was rapid, and he began distinguishing himself in national competitions. In 2015, as national champion, he represented Taiwan at the World Artistic Gymnastics Championships for the first time. Although he did not medal, the international competition experience laid a foundation for future breakthroughs.
 
 ## The Turning Point: Asian Games Gold Medal
 
