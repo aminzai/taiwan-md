@@ -3,7 +3,7 @@ title: 'BABEL-VORTEX-LOOP'
 description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.55)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.62'
+current_version: 'v1.63'
 last_updated: 2026-09-26
 last_session: '2026-09-26-100333-babel-vortex（翻譯率 100% 模式：推送常駐、付費 Haiku、閘門家族、委派 worktree 路徑陷阱與核准視窗、腳註修復器的語言盲）'
 sister_docs:
@@ -282,6 +282,13 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 證據（重試觸發次數），不是相關性。
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
+
+- v1.63（2026-09-27 上午第十輪）：**改了寫出端，要 grep 所有讀入端**。昨晚讓 structured-translate 多寫一行
+  sourceBodyHash（`510189b0f`），patch-translate 卻寫死 `[:-4]` 剝它的 provenance，留下重複的 translatedFrom；
+  dispatcher 06:3x 一整批 63 篇因三篇 YAML 重複鍵被 pre-commit 擋下，重試兩次後留在暫存區收工，連帶擋住同一
+  索引上的孢子 routine。改成按鍵名剝（`a2e645aea`），批次修好放行（`a37cd932d`）。另兩條：主工作樹暫存區
+  有別人的東西時 cherry-pick 一律被拒，落地改「複製＋只提交該路徑」；幣別檢查把越南文 đồng thời（同時）
+  誤判成越南盾，待修。dispatcher 清空佇列自行收工，缺口 3，第十一波在跑。
 
 - v1.62（2026-09-27 凌晨第九輪）：**委派回報是張冠李戴的探針，而閘門看不到這一族**。第九波二十對缺稿
   全數上站；委派 agent 比對兄弟譯文時接連照出認錯人：施振榮被寫成施明德的名字（en〈宏碁〉63 處）、童子賢寫成
