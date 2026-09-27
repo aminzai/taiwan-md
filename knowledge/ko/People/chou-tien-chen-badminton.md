@@ -111,7 +111,7 @@ translatedAt: '2026-07-07T00:38:22+08:00'
 ## 이미지 출처
 
 - [Chartlin / Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Chou_Tien-Chen_(TPE)_2018.jpg>) — CC BY-SA 4.0 (2018 중화 타이베이 오픈)
-- [Tony2803.tw / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E5%91%A8%E5%A4%A9%E6%88%902024%E5%8F%B0%E5%8C%97%E7%BE%BD%E5%85%83%E5%85%AC%E5%BC%80%E8%B5%9B.jpg) — CC BY 4.0 (2024 타이베이 오픈)
+- [Tony2803.tw / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:周天成2024台北羽球公開賽.jpg) — CC BY 4.0 (2024 타이베이 오픈)
 - [타이베이시 체육국 / Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Chou_Tien-chen_in_2022_Taipei_Open_(cropped).jpg>) — Attribution (정부 개방 데이터, 2022 타이베이 오픈)
 
 ## 참고 자료
@@ -130,7 +130,7 @@ translatedAt: '2026-07-07T00:38:22+08:00'
 
 [^7]: [주천성 인도네시아 경기에서 세계 왕 격파, Super 1000 급 남자 단식 결승 최연령 기록 창설 (공영 뉴스)](https://news.pts.org.tw/article/755054) — 2025년 인도네시아 오픈에서 세계 왕 격파, 35세 150일로 Super 1000 남자 단식 결승 최연령 기록.
 
-[^8]: [주천성 북극 경기 우승, 세계 랭킹 상승·연말 경기 포인트 1위] (자유스포츠) — 핀란드 북극 오픈 우승 및 연말 포인트 선두.
+[^8]: [주천성 북극 경기 우승, 세계 랭킹 상승·연말 경기 포인트 1위 (자유스포츠)](https://sports.ltn.com.tw/news/breakingnews/4830267) — 핀란드 북극 오픈 우승 및 연말 포인트 선두.
 
 [^9]: [역대 기록 세우다! 타이완 일고 주천성 세계 랭킹 6위 (자유스포츠)](https://sports.ltn.com.tw/news/breakingnews/5068932) — 2025년 고령 세계 랭킹 신기록 및 “젊은 선수들의 롤모델” 평가.
 
@@ -142,7 +142,7 @@ translatedAt: '2026-07-07T00:38:22+08:00'
 
 [^13]: [타이완 배드민턴, 세계 왕 첫 격파 주천성은 이렇게 싸웠다 (오늘주간)](https://www.businesstoday.com.tw/article-content-80417-121788) — 주천성이 국제 경기에서 세계 왕 린단을 꺾은 타이완 최초 인물 보도.
 
-[^14]: [주천성 인터뷰] ‘영제’ 실제 피곤함, 진짜였다고 해명 (자유스포츠) — ‘영제’ 별명 유래와 실제 피곤함에 대한 해명.
+[^14]: [주천성 인터뷰: ‘영제’ 실제 피곤함, 진짜였다고 해명 (자유스포츠)](https://sports.ltn.com.tw/news/paper/1316633) — ‘영제’ 별명 유래와 실제 피곤함에 대한 해명.
 
 [^15]: [타이베이 배드민턴 경기／신앙이 가속화된 성숙, 주천성 마음 변화 (ETtoday 스포츠)](https://sports.ettoday.net/news/537400) — 신앙이 경기 마인드에 미친 영향 보도.
 

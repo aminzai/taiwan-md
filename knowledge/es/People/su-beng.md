@@ -126,8 +126,8 @@ Independientemente de la posición, pocos pueden negar su coherencia. Desde la d
 
 ## Fuentes de imágenes
 
-- Foto principal: Oficina del Presidente, Wikimedia Commons, CC BY 2.0. Archivo original: [11.08 Presidente asistiendo al centenario de Su Beng](<https://commons.wikimedia.org/wiki/File:11.08_%E7%B8%BD%E7%AB%AF%E5%87%BA%E5%B8%AD%E5%8F%97%E5%8F%83%E5%8F%B2%E6%98%8E%E7%99%BE%E5%B2%81%E7%94%9F%E6%97%A5_(38226043862).jpg>).
-- Retrato interno: Siegfy, Wikimedia Commons, CC BY‑SA 2.0. Archivo original: [Su Beng, el padre del independentismo taiwanés](<https://commons.wikimedia.org/wiki/File:%E5%8F%B0%E7%8D%A8%E6%95%99%E7%88%B6%E5%8F%B2%E6%98%8E%E8%80%81%E5%85%88%E5%85%AC%E5%BC%80_(3539602788).jpg>).
+- Foto principal: Oficina del Presidente, Wikimedia Commons, CC BY 2.0. Archivo original: [11.08 Presidente asistiendo al centenario de Su Beng](<https://commons.wikimedia.org/wiki/File:11.08_總統出席史明百歲生日會_(38226043862).jpg>).
+- Retrato interno: Siegfy, Wikimedia Commons, CC BY‑SA 2.0. Archivo original: [Su Beng, el padre del independentismo taiwanés](<https://commons.wikimedia.org/wiki/File:台獨教父史明老先生_(3539602788).jpg>).
 - Vídeo: Documental _Revolución en marcha_ (dir. Chen Li‑gui), YouTube, incrustado como enlace externo.
 
 ## Referencias

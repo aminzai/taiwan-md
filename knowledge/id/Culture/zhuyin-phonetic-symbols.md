@@ -139,7 +139,7 @@ Pada zaman yang berubah dengan cepat ini, simbol fonetik Zhuyin mengingatkan kit
 
 [^1]: Kementerian Pendidikan Republik Tiongkok (Taiwan), _Pedoman Pengajaran Simbol Fonetik Zhuyin_, edisi 2024, https://language.moe.gov.tw/
 
-[^2]: Wikipedia, artikel “Simbol Fonetik Zhuyin”, https://zh.wikipedia.org/wiki/%E6%B3%A8%E9%9F%B3%E7%AC%A6%E8%99%9F
+[^2]: Wikipedia, artikel “Simbol Fonetik Zhuyin”, https://zh.wikipedia.org/wiki/注音符號
 
 [^3]: Komite Promosi Bahasa Mandarin, Kementerian Pendidikan Republik Tiongkok (Taiwan), _Sejarah Perkembangan Simbol Fonetik Zhuyin_, 1978; Situs Pencapaian Bahasa Kementerian Pendidikan https://language.moe.gov.tw/
 

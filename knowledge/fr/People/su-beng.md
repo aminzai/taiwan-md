@@ -128,8 +128,8 @@ Quel que soit le camp, il est rare de contester sa constance. De la désillusion
 
 ## Sources d’images
 
-- Photo principale : Bureau de la présidence, Wikimedia Commons, CC BY 2.0. Fichier original : [11.08 Président assiste à la fête du centenaire de Su Beng](<https://commons.wikimedia.org/wiki/File:11.08_%E7%B8%BD%E7%AB%AF%E5%87%BA%E5%B8%AD%E5%8F%97%E5%8F%83%E5%8F%B2%E6%98%8E%E7%99%BE%E5%B2%81%E7%94%9F%E6%97%A5_(38226043862).jpg>).
-- Portrait interne : Siegfy, Wikimedia Commons, CC BY‑SA 2.0. Fichier original : [Su Beng, père du mouvement indépendantiste taïwanais](<https://commons.wikimedia.org/wiki/File:%E5%8F%B2%E6%98%8E%E6%95%99%E7%88%B6%E5%8F%B2%E6%98%8E%E8%80%81%E5%85%88%E5%85%AC%E5%BC%80%E5%9C%96_(3539602788).jpg>).
+- Photo principale : Bureau de la présidence, Wikimedia Commons, CC BY 2.0. Fichier original : [11.08 Président assiste à la fête du centenaire de Su Beng](<https://commons.wikimedia.org/wiki/File:11.08_總統出席史明百歲生日會_(38226043862).jpg>).
+- Portrait interne : Siegfy, Wikimedia Commons, CC BY‑SA 2.0. Fichier original : [Su Beng, père du mouvement indépendantiste taïwanais](<https://commons.wikimedia.org/wiki/File:台獨教父史明老先生_(3539602788).jpg>).
 - Vidéo : documentaire _Révolution en marche_ (réalisateur Chen Li‑kui), YouTube, intégré en ligne uniquement.
 
 ## Références

@@ -83,7 +83,7 @@ From Ming dynasty "leaf games" to the Japanese colonial period's menko games, to
 
 [^7]: Facebook. (November 14, 2019). "Who's played wang-a-piau? Raise your hand. (Quietly shedding tears of the era.)". Retrieved from https://www.facebook.com/TaiwanCulturalMemoryBank/posts/
 
-[^8]: Facebook. (June 25, 2019). Zhuge Silang — Childhood toy: wang-a-piau. Retrieved from https://www.facebook.com/JhugeShiro/videos/658271267974100/
+[^8]: Facebook. (June 25, 2019). Zhuge Silang — Childhood toy: wang-a-piau. Retrieved from https://www.facebook.com/JhugeShiro/videos/%E5%85%92%E6%99%82%E7%AB%A5%E7%8E%A9%E5%B0%AA%E4%BB%94%E6%A8%99%E4%BD%A0%E9%83%BD%E6%80%8E%E9%BA%BC%E7%8E%A9/658271267974100/
 
 [^9]: YouTube. (August 6, 2019). A terrorist falls in love with toys — five years collecting memories of youth. Retrieved from https://www.youtube.com/watch?v=bKUk0yG0ewo
 
