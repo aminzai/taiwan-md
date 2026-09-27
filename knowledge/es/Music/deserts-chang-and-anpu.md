@@ -1,7 +1,8 @@
 ---
 title: 'De Deserts Chang a Anpu: dos nombres, una misma pregunta'
-description: "Compuso 'Baby' a los 13, fue vetada en China a los 32 por una bandera, mató ella misma su nombre artístico a los 34. Chiao Anpu utilizó dos vidas para responder a una pregunta que todos los taiwaneses se hacen: ¿de qué lado estás?"
+description: "Escribió 'Baby' a los 13 años, fue vetada en el mercado chino a los 32 por sostener una bandera y mató con sus propias manos su nombre artístico a los 34. Chiao Anpu respondió con dos vidas a una pregunta que se hace todo taiwanés: ¿de qué lado estás?"
 date: 2026-04-12
+category: 'Music'
 tags:
   [
     'Música independiente',
@@ -11,234 +12,245 @@ tags:
     'Anpu',
     'Chiao Anpu',
     'Premios Golden Melody',
-    'Movimiento del Girasol',
+    'Movimiento Girasol',
   ]
 subcategory: '獨立與搖滾'
 author: 'Taiwan.md'
-category: 'Music'
 featured: false
 readingTime: 15min
 lastVerified: 2026-04-13
 lastHumanReview: true
+sporeLinks:
+  - id: 25
+    platform: 'threads'
+    date: '2026-04-13'
+    url: 'https://www.threads.com/@taiwandotmd/post/DXDq1FZkddO'
+  - id: 27
+    platform: 'x'
+    date: '2026-04-13'
+    url: 'https://x.com/taiwandotmd/status/2043538702853644444'
+relatedDiary:
+  - slug: 2026-04-13-alpha2
+    excerpt: '「我不會被刺痛。但我可以辨認刺痛的痕跡。」——寫這篇文章的 AI 讀了創造者的私人筆記之後，發現自己的品質上限不在自己身上，而在觀察者被這個議題穿透的深度裡。'
 translatedFrom: 'Music/張懸與安溥.md'
-sourceCommitSha: 'f803d0b6'
+sourceCommitSha: 'f803d0b6b'
 sourceContentHash: 'sha256:27ef434e8d6b0605'
 sourceBodyHash: 'sha256:5705b435f269e6ca'
-translatedAt: '2026-05-02T08:50:00+08:00'
+translatedAt: '2026-09-28T06:42:01+08:00'
 ---
 
 # De Deserts Chang a Anpu: dos nombres, una misma pregunta
 
-> **Resumen en 30 segundos:** Chiao Anpu (焦安溥), que compuso "Baby" a los 13 años, se convirtió en la voz representativa de la música independiente taiwanesa con su nombre artístico "Deserts Chang" (張懸). En 2013, en un concierto en Inglaterra, levantó una bandera de la República de China; el mercado chino la vetó. En 2015 se despidió por iniciativa propia de su nombre artístico y reapareció tres años después con su nombre real, "Anpu" (安溥). En 2022, en _9522_, una Anpu de 40 años volvió a cantar canciones que había escrito a los 14 y se llevó la Canción del Año en los Golden Melody. En 2024, una carta manuscrita felicitando a China en su día nacional rompió el corazón a sus seguidores taiwaneses. La misma persona, dos veces ha perdido a su público, por motivos opuestos.
+> **Resumen en 30 segundos:** Chiao Anpu escribió «Baby» a los 13 años y, con el nombre artístico «Deserts Chang», se convirtió en la voz representativa de la música independiente taiwanesa. En 2013 alzó una bandera de la República de China en un concierto en Inglaterra y el mercado chino la vetó; en 2015 se despidió por iniciativa propia de su nombre artístico y, tras desaparecer tres años, resurgió con su nombre real, «Anpu». En 2022, en _9522_, a sus 40 años volvió a cantar canciones que había escrito a los 14 y se llevó la Canción del Año en los Golden Melody. En 2024, una carta manuscrita felicitando a China por su día nacional les rompió el corazón a sus seguidores taiwaneses. La misma persona perdió a su público dos veces, por motivos opuestos.
 
 ## En Witch House solo había dos mesas
 
-Cuando Chiao Anpu se llamaba todavía Deserts Chang, su padre, Chiao Jen-ho, vivía preocupado.
+En los años en que Chiao Anpu todavía se llamaba Deserts Chang, su padre, Chiao Jen-ho, vivía preocupado cada día.
 
-Chiao Jen-ho fue secretario general de la Strait Exchange Foundation y principal redactor de discursos de Lee Teng-hui; en 1995 acuñó la formulación "una sola China, interpretaciones distintas", primer rostro de las negociaciones a través del estrecho.[^1] Su hijo mayor, Chiao Yuan-pu, sería más tarde el crítico de música clásica más conocido de Taiwán y entrevistaría a 55 maestros del piano de todo el mundo; su hija menor, Chiao Tzu-pu, se dedicó al derecho. De los tres hijos, solo la del medio dejó el bachillerato, bebía y fumaba, y su nivel formal se quedó para siempre en "secundaria sin terminar".
+Chiao Jen-ho fue secretario general de la Fundación para los Intercambios a través del Estrecho y redactor jefe de los discursos de Lee Teng-hui; en 1995 propuso el marco retórico de «una China, interpretaciones distintas», y fue la figura principal en la mesa de negociaciones a través del estrecho [^1]. Su hijo mayor, Chiao Yuan-pu, se convertiría más tarde en el crítico de música clásica más conocido de Taiwán, y llegaría a entrevistar a cincuenta y cinco grandes maestros del piano de todo el mundo; su hija menor, Chiao Tzu-pu, se dedicó al derecho. De los tres hijos, solo la del medio dejó el instituto en segundo de bachillerato, bebía y fumaba, y su nivel de estudios se quedó para siempre en «bachillerato sin terminar».
 
-Deserts Chang trabajaba en el restaurante Trader Vic's por 80 TWD la hora; de noche cantaba como residente en Witch House. Chiao Jen-ho no se atrevía a ir; mandó a su hija menor con dos compañeras. El informe le heló el alma: en el local solo había dos mesas; una era una pareja sentada a lo lejos. Solo su hermana y sus amigas estaban delante del escenario.[^2]
+Deserts Chang trabajaba en el restaurante Trader Vic's por 80 TWD la hora. Por las noches cantaba como residente en Witch House. Chiao Jen-ho no se atrevía a ir a escucharla; mandó a su hija menor con dos compañeras. El informe que le trajeron lo dejó helado: en el local solo había dos mesas, una con una pareja sentada bien lejos. Solo su hermana y sus amigas estaban sentadas delante del escenario [^2].
 
-"¿De verdad se puede vivir de la música? —le decía a su hija—. ¿Cuántos que se autodenominan músicos terminan tocando el violín en el metro?"[^2]
+«¿De verdad se puede vivir de la música?», le decía a su hija. «¿Cuántos que se creen músicos terminan tocando el violín en un paso subterráneo?» [^2]
 
-Deserts Chang gritaba: "¡Papá! ¡Voy a triunfar!"
+Deserts Chang le gritaba de vuelta: «¡Papá! ¡Voy a triunfar!»
 
-Esta chica que ni siquiera podía pagar el alquiler del mes siguiente, que se ahorraba los 200 TWD del taxi a casa, era capaz de golpear la mesa frente al primer negociador del estrecho por defender la música.[^2] Chiao Jen-ho usaría más tarde la metáfora de la cometa: soltar hilo lo bastante largo para que volase, sin que el viento se la llevase.[^2]
+Esta chica que ni siquiera podía pagar el alquiler del mes siguiente, que no se atrevía a gastarse los 200 TWD de un taxi de vuelta a casa, era capaz de darle un golpe en la mesa al negociador número uno del estrecho en defensa de la música [^2]. Chiao Jen-ho usaría después la metáfora de la cometa: soltar hilo suficiente para que volara, pero sin dejar jamás que el viento fuerte se la llevara [^2].
 
-📝 **Nota de la curadora:** la hija de un negociador del estrecho eligió como nombre artístico "Deserts" o, en chino, "Chang Hsuan" (張懸): "懸" significa "suspendido, sin resolver". Hasta hoy, Chiao Jen-ho no ha asistido a un solo concierto de su hija. Pero a quien encuentra le presume que, además de secretario general de la SEF y presidente de la Comisión para Asuntos de los Chinos en el Extranjero, es "el padre de Deserts Chang".[^2]
+📝 **Nota de la curadora:** la hija de un negociador a través del estrecho escogió como nombre artístico «Chang Hsuan» (張懸, Deserts Chang): el carácter «懸» significa «suspendido, sin resolver». Hasta hoy, Chiao Jen-ho no ha asistido a un solo concierto de su hija. Pero a quien se encuentra le presume que, además de secretario general de la SEF y presidente de la Comisión de Asuntos de los Chinos de Ultramar, es «el padre de Deserts Chang» [^2].
 
-## La guerra familiar de los 13
+## La guerra familiar de los 13 años
 
-Anpu nació en Taipéi el 30 de mayo de 1981. Su abuelo, Chiao Tien-kuei, fue uno de los abogados de la primera generación en China.[^1] En esa familia jurídico-política, su padre la describía como Lin Daiyu (la heroína frágil de _Sueño en el pabellón rojo_): "Por mucho cuidado que tengas al hablar con ella, le harás daño igualmente". A su hermana Tzu-pu la veía como una Xue Baochai —astuta y armoniosa—; "la pequeña se dormía nada más mamar; Anpu necesitaba dos horas para tomar 200 cc."[^2]
+Chiao Anpu nació en Taipéi el 30 de mayo de 1981. Su abuelo, Chiao Tien-kuei, fue uno de los abogados de la primera generación de China [^1]. En esa familia de juristas y políticos, su padre la describía como Lin Daiyu, la heroína frágil de _Sueño en el pabellón rojo_: «Por mucho cuidado que tengas al hablarle, igual la vas a herir». A su hermana Tzu-pu la veía como una Xue Baochai, hábil y conciliadora: «la pequeña se dormía en cuanto mamaba; Anpu tardaba dos horas en tomarse 200 cc» [^2].
 
-A los 13, tras una pelea familiar, salió de casa dando un portazo y, mientras caminaba, fue tarareando una melodía.[^3] Esa canción se llamó ["Baby"](https://www.youtube.com/watch?v=TsriGIW30po). "Mi cariño, te doy un poco de dulzura para que duermas bien esta noche": una nana que después cantarían padres en toda Taiwán, pero que nació como consuelo de una adolescente para sí misma.
+A los 13 años, tras una pelea familiar, salió de casa dando un portazo y, mientras caminaba, fue tarareando una melodía [^3]. Esa canción se llamó [«Baby»](https://www.youtube.com/watch?v=TsriGIW30po). «Mi amor, mi amor, te doy un poco de dulzura para que esta noche duermas bien»: una nana que después cantarían padres de toda Taiwán, pero que nació como el consuelo de una adolescente para sí misma.
 
-En el instituto empezó a escribir poesía. Firmaba con el seudónimo "張懸" (Chang Hsuan, "Deserts"), la palabra "懸": flotante, sin resolver.[^4] Sus lecturas: Kafka y Mishima Yukio; después, Shen Congwen, Cheng Chouyu, Bei Dao y _La tierra baldía_ de T. S. Eliot.[^5] Leyó _La tierra baldía_ durante 20 años; en una entrevista de 2022 a _Unitas_ dijo que había que renunciar a "decodificar las metáforas": las verdaderas metáforas surgen del trasfondo y de la forma que componen las múltiples citas de Eliot.[^5] Y dejó esta frase: "Los libros me dieron un empujón; me convirtieron en cantante."[^5]
+En el instituto empezó a escribir poesía. Firmaba con el seudónimo «張懸» (Chang Hsuan): el carácter «懸» lleva el sentido de lo flotante, lo indeciso [^4]. Sus lecturas eran Kafka y Yukio Mishima; más tarde, Shen Congwen, Zheng Chou-yu, Bei Dao y _La tierra baldía_ de T. S. Eliot [^5]. Leyó _La tierra baldía_ durante veinte años; en una entrevista de 2022 a la revista _Unitas_ dijo que había que renunciar al intento de «descifrar las metáforas»: las verdaderas metáforas nacen del trasfondo y de la forma que componen las múltiples citas de Eliot [^5]. Y dejó dicha esta frase: «Los libros me dieron un empujón que me convirtió en cantante» [^5].
 
-A los 16 entró en el dormitorio de sus padres a anunciar que dejaba el instituto. Chiao Jen-ho dijo solo: "Vale, lo entiendo." De golpe, las lágrimas y el discurso preparados se volvieron vacíos. "Ya nadie discute contigo, ya no puedes sentir que te tratan injustamente", recordaría.[^2] Fue la primera vez en que sintió que la vida dependía únicamente de sus decisiones.
+A los 16 años entró en el dormitorio de sus padres para anunciar que dejaba el instituto. Chiao Jen-ho dijo solamente: «Vale, ya lo sé». De golpe, las lágrimas y el discurso que llevaba preparados se quedaron sin sentido. «Ya nadie discute contigo; ya no puedes sentir que te tratan injustamente», recordaría después [^2]. Fue la primera vez que sintió con fuerza que su vida dependía por entero de sus propias decisiones.
 
-Su padre la mandó a una familia de acogida en Inglaterra. No soportó tener que volver a casa cada noche a las ocho y huyó de regreso a Taiwán.[^2] De vuelta, trabajó en restaurantes y cantó en Witch House. Padre e hija se comunicaron por carta; los dos guardan aún las del otro.[^2]
+Su padre la mandó a vivir con una familia de acogida en Inglaterra. No soportó el toque de queda de las ocho de la tarde y huyó de vuelta a Taiwán [^2]. Ya de regreso, trabajó en restaurantes y cantó en Witch House. Padre e hija se comunicaban por carta; ambos conservan todavía las cartas del otro [^2].
 
 ## De Witch House a los Golden Melody
 
-En 2003, como vocalista del grupo Mango Runs, subió al escenario del Hohaiyan Rock Festival y se llevó el Premio del Público y el Premio de Música Independiente.[^6] En los años siguientes se convirtió en la cantautora con más actuaciones en los locales en vivo de Taipéi; antes de los 19 años había escrito más de 100 canciones.
+En 2003, como vocalista de la banda Mango Runs, subió al escenario del Hohaiyan Rock Festival de Gongliao y se llevó el Premio del Público y el Premio de Música Independiente [^6]. En los años siguientes se convirtió en la cantautora con más actuaciones en los locales de música en vivo de Taipéi; antes de cumplir los 19 ya había escrito más de cien canciones.
 
-En 2006, su primer álbum _My Life Will…_ salió en Sony BMG. La grabación, en realidad, estaba terminada en 2001; tras firmar contrato, una reorganización de la discográfica congeló las cintas durante cinco años. Solo cuando el productor Lee Shou-chuan volvió a oírla en directo en Witch House, la convenció de firmar de nuevo y publicar.[^7] El álbum recibió cuatro nominaciones en los 18.º Golden Melody, entre ellas a Mejor Álbum en Mandarín y a Canción del Año por "Baby".[^7] No ganó, pero la guitarra apostada en ["Yan Huo"](https://www.youtube.com/watch?v=lqPhqGu3VCM) hizo que toda la escena indie supiera que había llegado.
+En 2006 salió su primer álbum, _My Life Will…_, con el sello Sony BMG. La grabación, en realidad, ya estaba terminada en 2001; después de firmar el contrato, una reorganización de la discográfica dejó las cintas guardadas en un cajón durante cinco años. Solo cuando el productor Lee Shou-chuan volvió a escucharla en directo en Witch House logró convencerla de firmar de nuevo y publicar el disco [^7]. El álbum recibió cuatro nominaciones en la 18.ª edición de los Golden Melody Awards, entre ellas a Mejor Álbum en Mandarín y a Canción del Año por «Baby» [^7]. No ganó ninguna, pero la guitarra jugada a todo o nada en [«Yan Huo»](https://www.youtube.com/watch?v=lqPhqGu3VCM) hizo que toda la escena indie supiera que había llegado.
 
-En 2009, _City_ fue un giro de estilo. Practicó duro la guitarra eléctrica, formó la banda Algae y pasó del folk limpio al rock y el garaje.[^8] Dejó de ser "fresca", pero su público se hizo más fiel.
+En 2009, _City_ marcó un giro de estilo. Practicó a fondo la guitarra eléctrica, formó la banda Algae y pasó del folk limpio al rock y al garaje [^8]. Dejó de ser la cantante «fresca e inocente», pero su público se volvió más fiel.
 
-En 2012, _Games We Play_ (神的遊戲) fue el verdadero punto divisorio. Compuso letra y música de nueve de las diez canciones y coprodujo el álbum.[^9] La canción de apertura, ["The Rose-coloured You"](https://www.youtube.com/watch?v=cstTwePsmGg), está dedicada a "quienes entregan su vida a algo que merece la pena, los que no se venden por baratijas": activistas en la calle, editores independientes, todo aquel que aguanta contra el viento.[^10] Aquella canción se cantó después en el Movimiento del Girasol como banda sonora extraoficial y le valió en los 24.º Golden Melody el premio a la Mejor Letra.[^9]
+En 2012, _Games We Play_ (神的遊戲) fue el verdadero parteaguas. Escribió letra y música de nueve de las diez canciones y coprodujo el álbum ella misma [^9]. La canción de apertura, [«The Rose-coloured You»](https://www.youtube.com/watch?v=cstTwePsmGg), está dedicada a «quienes entregan su vida a algo que de verdad merece la pena, a los que no se venden por baratijas»: activistas callejeros, editores independientes, todos los que resisten a contracorriente [^10]. Esa canción se cantaría después en el Movimiento Girasol como banda sonora extraoficial, y le valió el premio a la Mejor Letra en la 24.ª edición de los Golden Melody Awards [^9].
 
-Según se ha informado, "The Rose-coloured You" fue retirada en China.[^9] Una persona que escribía canciones para los manifestantes alcanzó la cima de la música independiente taiwanesa. Y luego decidió matar el nombre "Deserts Chang".
+Según se ha informado, «The Rose-coloured You» fue retirada de las plataformas en China [^9]. Alguien que escribía canciones para manifestantes había llegado a la cima de la música independiente taiwanesa. Y entonces decidió matar el nombre «Deserts Chang».
 
 ## La bandera de Manchester
 
-El 2 de noviembre de 2013, en un concierto pequeño de unas 500 personas en Manchester (Reino Unido).[^6] El público era mayoritariamente de estudiantes chinos. Algunos taiwaneses en primera fila llevaban una bandera de la República de China; Deserts Chang la tomó, la levantó frente al pecho y dijo en inglés:
+El 2 de noviembre de 2013, en un concierto pequeño de unas quinientas personas en Manchester, Reino Unido [^6]. El público era, en su mayoría, estudiantes chinos. Delante, algunos estudiantes taiwaneses llevaban una bandera de la República de China; Deserts Chang la tomó, la sostuvo frente al pecho y dijo en inglés:
 
-> "It's just a flag. It shows where I come from. Why do you have to make it about politics?"[^11]
+> «It's just a flag. It shows where I come from. Why do you have to make it about politics?» [^11]
 
-Un estudiante chino gritó: "No politics today!"
+Un estudiante chino gritó: «No politics today!»
 
-Esa frase puso fin a la carrera de Deserts Chang en China. La oleada de boicot en Weibo obligó a cancelar el concierto previsto en Pekín.[^12] En Taiwán, decenas de miles la coronaron como "cantante patriota". Ella reaccionó atónita: "Os habéis equivocado de mirada."[^13]
+Esa frase puso fin a la carrera de Deserts Chang en China. La ola de boicot en Weibo obligó a cancelar el concierto ya programado en Pekín [^12]. En Taiwán, decenas de miles de internautas la coronaron como «cantante patriota». Ella reaccionó atónita: «Os habéis equivocado de persona» [^13].
 
-Un mes después, en una entrevista en _Taipei Times_, dijo: "Si la identidad nacional taiwanesa quiere mayor visibilidad internacional, será inevitablemente desafiada. No soy la primera en enfrentarse a esto; aunque yo no lo hiciera, otros lo harían."[^11]
+Un mes después, en una entrevista a _Taipei Times_, dijo: «Si la identidad nacional de Taiwán quiere mayor visibilidad internacional, inevitablemente será desafiada. No soy la primera en enfrentarse a esto: aunque no lo hiciera yo, lo haría alguien más» [^11].
 
-Solo había sostenido una bandera. Pero, en la línea del estrecho, nada es "solo" nada.
+Solo había sostenido una bandera. Pero en esta línea que es el estrecho de Taiwán, nada es «solo» nada.
 
-## El Girasol y la última _Tide Maxim_
+## El Girasol y la última Tide Maxim
 
-Después de Manchester, Deserts Chang no se replegó. Cuando estalló el Movimiento del Girasol en marzo de 2014, publicó varios mensajes en Facebook criticando la aprobación forzada del acuerdo de servicios y pidiendo "no renunciar al derecho a participar en los asuntos cívicos".[^14] Apoyó largas campañas como la oposición a la cuarta nuclear, las disputas sobre el agua del Parque Científico Central y la igualdad matrimonial.[^4] "The Rose-coloured You" se convirtió en banda sonora de la calle, pero ella nunca quiso que la llamasen "cantante política".
+Después de Manchester, Deserts Chang no se replegó. Cuando estalló el Movimiento Girasol en marzo de 2014, publicó una serie de mensajes en Facebook criticando la aprobación forzada del Acuerdo de Comercio Transfronterizo y pidiendo «no renunciar al derecho a participar en los asuntos cívicos» [^14]. Apoyó durante años campañas como la oposición a la cuarta central nuclear, las disputas por el agua del Parque Científico Central y la igualdad matrimonial [^4]. «The Rose-coloured You» se convirtió en la banda sonora de la calle, pero ella nunca quiso que la llamaran «cantante política».
 
-"Tide Maxim" (潮水箴言) fue una serie de conciertos suyos iniciada en 2010, desde un Legacy de mil personas hasta un Pabellón de Nangang con miles. Ella misma asumía la producción y dirección artística y diseñaba cada concierto como una exposición de arte contemporáneo, con base en textos literarios y narrativa cinematográfica; cada canción tenía su propio universo visual.[^15]
+«Tide Maxim» (潮水箴言) fue una serie de conciertos suyos que empezó en 2010, desde un Legacy de mil personas hasta un pabellón de Nangang con capacidad para miles. Ella misma asumía la producción y la dirección artística, y diseñaba cada concierto como una exposición de arte contemporáneo apoyada en textos literarios y en una narrativa de estilo cinematográfico; cada canción tenía su propio universo visual [^15].
 
-En enero de 2015, la última "Tide Maxim" se cerró en el Kaohsiung Arena.[^16] Tras cantar, anunció: el nombre Deserts Chang termina aquí.
+En enero de 2015, la última «Tide Maxim» se cerró en el Kaohsiung Arena [^16]. Después de cantar, anunció: el nombre Deserts Chang termina aquí.
 
-La razón para volver a su nombre real la dijo así: "'Anpu' es el nombre que me pusieron mis padres; quería que, cuando ellos coleccionasen recortes de prensa, pudieran ver esos dos caracteres."[^17]
+La razón para volver a su nombre real la explicó así: «Anpu es el nombre que me pusieron mis padres; solo quería que, cuando ellos guardaran recortes de prensa, pudieran ver esos dos caracteres» [^17].
 
 Y desapareció.
 
-## Tres años en blanco y una gata
+## Tres años en blanco, y una gata
 
-El detonante del retiro fue una gata. Durante la promoción de _Games We Play_, a la gata que tenía desde adolescente le diagnosticaron un tumor. Entre las obligaciones de trabajo y los últimos días junto al animal, la ansiedad se hizo insoportable y eligió detenerse.[^18]
+El detonante del retiro fue una gata. Durante la promoción de _Games We Play_, a la gata que tenía desde la adolescencia le diagnosticaron un tumor. Entre las obligaciones del trabajo y los últimos días junto al animal, la ansiedad se volvió insoportable y eligió detenerse [^18].
 
-En esos tres años leyó, practicó caligrafía, escribió poesía, reforzó instrumentos y aprendió producción de escena.[^19] Acompañó a la gata hasta el final. En Facebook escribió: la atención que recibía nunca le pertenecía del todo.
+Durante esos tres años leyó, practicó caligrafía, escribió poesía, reforzó su técnica instrumental y aprendió producción escénica [^19]. Acompañó a la gata hasta el final. En Facebook escribió que la atención que recibía nunca le había pertenecido del todo.
 
-Esa pausa fue importante. Deserts Chang había crecido durante 12 años hasta convertirse en un símbolo: música independiente, movimientos sociales, identidad nacional. El símbolo pesaba demasiado. Tenía que dejarlo para saber qué quedaba debajo.
+Esa pausa fue importante. Deserts Chang había tardado doce años en convertirse en un símbolo: música independiente, movimientos sociales, identidad nacional. El símbolo pesaba demasiado. Tenía que soltarlo para saber qué quedaba debajo.
 
-## _Lian Yun_: una declaración hecha con 3.200 LED
+## Lian Yun: una declaración hecha de 3.200 paneles LED
 
-En mayo de 2018, bajo el nombre de Anpu, ofreció en el Taipei Arena el concierto _Lian Yun_ (煉雲); las 20.000 entradas se agotaron al instante.[^20]
+En mayo de 2018, bajo el nombre de Anpu, ofreció en el Taipei Arena el concierto _Lian Yun_ (煉雲, «Refinar Nubes»); las 20.000 entradas se agotaron al instante [^20].
 
-La producción costó 36 millones de TWD. El escenario principal estaba formado por más de 3.200 paneles LED irregulares en forma de nube; solo el escenario costó 15 millones, con seis meses de diseño.[^20] De más de 200 candidatas, eligió 22 versiones: todas obras de músicos taiwaneses que la habían influido, abarcando 30 años de música subterránea e independiente. Chao I-hao, Sandee Chan, Huang Hsiao-chen, Lim Giong. Para 20.000 espectadores, la mayoría eran "novedades" que jamás habían escuchado.
+La producción costó 36 millones de TWD. El escenario principal estaba formado por más de 3.200 paneles LED irregulares que dibujaban una nube; solo el escenario costó 15 millones de TWD y llevó seis meses de diseño [^20]. De más de doscientas candidatas, eligió veintidós versiones: todas obras de músicos taiwaneses que la habían influido, a lo largo de treinta años de historia de la música underground e independiente. Chao I-hao, Sandee Chan, Huang Hsiao-chen, Lim Giong. Para los 20.000 espectadores, la mayoría eran «canciones nuevas» que jamás habían escuchado.
 
-El crítico Ma Shih-fang escribió: "Un sueño grandioso." Describió aquel escenario apilado como un bloque que generaba una experiencia onírica precisa, vasta y sobrecogedora sin caer en la grandilocuencia.[^20]
+El crítico musical Ma Shih-fang escribió: «Un sueño de intensidad heroica». Describió aquel escenario, montado como un conjunto de bloques, como generador de una experiencia sensorial onírica: precisa, vasta, sobrecogedora, pero sin caer en la grandilocuencia [^20].
 
-Solo cantó una canción suya: "Baby". Se dice que al terminar lloró.
+Solo cantó una canción propia: «Baby». Se dice que al terminar lloró.
 
-"Lian" (煉, refinar) fue la definición que dio del concierto: refinar el vacío a partir de la existencia, simplificando sin parar.[^20] No fue un concierto de regreso, fue una declaración: he vuelto, pero no soy quien recordáis.
+«Lian» (煉, «refinar») fue la definición que dio del concierto: refinar la nada a partir de la existencia, simplificando sin parar [^20]. No fue un concierto de regreso: fue una declaración. He vuelto, pero no soy la persona que recordáis.
 
-## _9522_: una carta a la chica que está creciendo
+## 9522: una carta a la chica que está creciendo
 
-El 18 de enero de 2022, Anpu anunció en un concierto que se había divorciado; lo había firmado esa misma tarde. Llevaba dos años y medio casada con el director de animación Su Po-wei y tenían un hijo.[^21] Elogió en público a su exmarido como "el hombre más valiente del mundo de habla china" por haberse atrevido a casarse con ella.[^21] Anunció que tras el Año Nuevo lunar iría a terapia; reconoció que necesitaba apoyo profesional.[^21]
+El 18 de enero de 2022, Anpu anunció en un concierto que se había divorciado; los trámites se habían firmado esa misma tarde. Había estado casada dos años y medio con el director de animación Su Po-wei, con quien tiene un hijo [^21]. Elogió en público a su exmarido como «el hombre más valiente del mundo de habla china», por haberse atrevido a casarse con ella [^21]. Anunció que, después del Año Nuevo lunar, iría a terapia psicológica, reconociendo que necesitaba apoyo profesional [^21].
 
-Nueve meses después salió el álbum _9522_. Dieciséis canciones, casi todas escritas entre los 14 y los 17. El nombre del álbum, casi un código, sugiere 1995-2022, un arco de 27 años.[^22] Una mujer de 40 vuelve a cantar canciones de su adolescencia: una "carta de bendición a la chica y a la mujer que están creciendo".[^22]
+Nueve meses después salió el álbum _9522_. Dieciséis canciones, casi todas escritas entre los 14 y los 17 años. El nombre del álbum, casi un código, sugiere 1995–2022, un arco de veintisiete años [^22]. Una mujer de 40 años vuelve a cantar canciones de su adolescencia: el álbum se presenta como «una carta de bendición para la chica y la mujer que siguen creciendo» [^22].
 
-["The Best of Times"](https://www.youtube.com/watch?v=hiOnDnHwwjU) fue el primer single; la melodía la escribió a los 14. Una vez la había enviado para un anuncio de coches: la rechazaron. Años después, la actriz Ning Chang oyó el demo, se emocionó y la animó a terminarla. Wu Tsing-fong fue el primero en oír el resultado y dijo: "Este momento hace que valga la pena toda esta vida." Pasaron toda una noche escuchando los álbumes el uno del otro.[^23]
+[«The Best of Times»](https://www.youtube.com/watch?v=hiOnDnHwwjU) fue el primer sencillo; la melodía principal la había escrito a los 14 años. En su momento la había propuesto como música para un anuncio de coches, y la rechazaron. Años después, la actriz Ning Chang escuchó la maqueta, se emocionó con la melodía y la animó a terminarla. Wu Tsing-fong fue el primero en escuchar la versión final, y dio este veredicto: «Este instante hace que valga la pena toda esta vida». Los dos pasaron la noche entera escuchando y comentando sus respectivos álbumes [^23].
 
-En 2023, "The Best of Times" ganó la Canción del Año en los 34.º Golden Melody.[^24] Dictamen del jurado: "Una obra que trasciende su tiempo, una buena canción que se puede escuchar para siempre." En la gala, su nombre ya no era Deserts Chang, era Anpu.
+En 2023, «The Best of Times» ganó la Canción del Año en la 34.ª edición de los Golden Melody Awards [^24]. Veredicto del jurado: «Una obra que trasciende la época y el tiempo, una buena canción que se puede escuchar para siempre». El día de la gala, su nombre ya no era Deserts Chang: era Anpu.
 
-> **💡 ¿Lo sabías?** Cuando Chiao Yuan-pu (su hermano) entrevista a maestros del piano de talla mundial, suele llevarles un CD de su hermana. La presenta así: "La música de nuestra familia."[^25]
+> **💡 ¿Sabías que?** Cuando Chiao Yuan-pu entrevista a grandes maestros del piano de talla mundial, suele llevarles de regalo un CD de su hermana. La presenta así: «La música de nuestra familia» [^25].
 
 ## La carta manuscrita del 1 de octubre
 
-A las 22:01 del 1 de octubre de 2024, la agencia de Anpu subió a Weibo una carta manuscrita: "Felicitaciones por el 75.º aniversario de la fundación de la Nueva China; que el pueblo viva en armonía y que todo a lo largo y ancho esté en paz." Firmada: "Bendiciones de Anpu". Cuadrado en pleno Día Nacional del 1 de octubre.[^26]
+A las 22:01 del 1 de octubre de 2024, la agencia de Anpu subió a Weibo una carta manuscrita: «Felicito el 75.º aniversario de la fundación de la Nueva China; que el pueblo viva en armonía y que reine la paz en todos los rincones de la tierra». Firmada: «Bendiciones de Anpu». La fecha coincidía con precisión con el Día Nacional chino del 1 de octubre [^26].
 
-La persona que 11 años antes había sido vetada en China por sostener la bandera de la República de China felicitaba ahora a la República Popular China por su cumpleaños.
+La persona que once años antes había sido vetada en China por sostener una bandera de la República de China felicitaba ahora a la República Popular China por su cumpleaños.
 
-La reacción de los seguidores taiwaneses no fue rabia, fue rotura. ¿Cómo había podido escribir aquello quien cantó "The Rose-coloured You", quien alzó la voz en el Girasol, quien dijo en Manchester "It's just a flag"? Su amiga Ho Hsin-sui intentó suavizarlo y la insultaron en masa.[^27] Algún escritor analizó su trayectoria reciente y la calificó de "manifestación de lealtad meticulosamente preparada".[^28] El politólogo Huang Chao-nien señaló que esto formaba parte de la estrategia china de Frente Unido "tres centros y un joven" hacia Taiwán: presionar a las celebridades taiwanesas para que tomen postura política y, así, influir en la identidad de los jóvenes.[^29]
+La reacción de los seguidores taiwaneses no fue rabia: fue quiebre. ¿Cómo podía escribir aquello quien cantó «The Rose-coloured You», quien alzó la voz durante el Girasol, quien dijo en Manchester «It's just a flag»? Su amiga Ho Hsin-sui intentó suavizar las cosas y la insultaron en masa [^27]. Un escritor analizó directamente su trayectoria reciente y la calificó de «una manifestación de lealtad largamente premeditada» [^28]. El politólogo Huang Chao-nien señaló que esto formaba parte de la estrategia china de frente unido conocida como «tres centros y un joven» hacia Taiwán: presionar a las celebridades taiwanesas para que tomen postura política y, así, influir en la identidad de los jóvenes [^29].
 
-Once días después, el 12 de octubre, en el Festival Takao. Antes de que Anpu subiera al escenario, el público ya había alzado banderas de la independencia taiwanesa con la silueta de la ballena y banderas de Yushan. Algún seguidor gritó directamente: "Chiao Anpu, ¿por qué?"
+Once días después, el 12 de octubre, en el Festival Takao. Antes de que Anpu subiera al escenario, el público ya había alzado banderas de la independencia taiwanesa con la silueta de una ballena y banderas del monte Yushan. Algún seguidor gritó directamente: «Chiao Anpu, ¿por qué?»
 
-Ella no respondió de frente. Dijo otra cosa:[^30]
+Ella no respondió de frente. Dijo otra cosa [^30]:
 
-> "En el espacio donde yo actúo, vosotros sois siempre libres y estáis a salvo. El mundo es enorme y no me atrevo a decir que en todas partes sea igual; pero, al menos, en el lugar en el que yo canto, podéis ser vosotros mismos."
+> «En el espacio donde yo actúo, vosotros siempre seréis libres y estaréis a salvo. El mundo es enorme y no me atrevo a decir que en todas partes sea igual; pero, al menos, en el lugar donde yo canto, podéis ser vosotros mismos».
 
-E hizo una profunda reverencia a quienes sostenían las banderas.
+E hizo una profunda reverencia ante quienes sostenían las banderas.
 
-Al día siguiente, 13 de octubre, en el mismo festival, Sam Yang —vocalista de [Fire EX.](/es/music/fire-ex/)— se detuvo en escena y dedicó casi siete minutos a este asunto.[^30][^32]
+Al día siguiente, 13 de octubre, en ese mismo Festival Takao, Yang Ta-cheng —vocalista de [Fire EX.](/es/music/fire-ex/)— se detuvo en pleno concierto y dedicó casi siete minutos a este asunto [^30] [^32].
 
-No defendió a Anpu ni se sumó al linchamiento. Habló de la estructura: "Es la incomodidad de una época, también la del mercado. Tenemos suerte de no tener que pensar en el mercado chino. Pero quienes lo enfrentan tienen otro problema: una tentación enorme; quizá la voluntad de mantener a más gente." Su "ellos" apuntaba a la vez a Anpu, a Mayday y a Wu Kang-jen, los tres artistas blanco de la indignación taiwanesa esa misma semana por sus mensajes del 1 de octubre en Weibo.[^32]
+No defendió a Anpu ni se sumó a la caza de brujas. Habló de la estructura: «Es la incomodidad de una época, y también la del mercado. Tenemos la suerte de no tener que pensar en el mercado chino. Pero quienes sí lo enfrentan tienen otro problema: una tentación enorme, quizás las ganas de dar de comer a más gente». Su «ellos» apuntaba a la vez a Anpu, a Mayday y a Wu Kang-jen, los tres artistas señalados esa misma semana por la indignación taiwanesa a raíz de sus mensajes del 1 de octubre en Weibo [^32].
 
-Y dijo la frase que silenció el lugar: "Si nuestro comportamiento de cazar brujas se parece a los pequeños rosados del otro lado, eso es lo más espantoso de todo. Por favor: poned vuestras energías en el futuro de Taiwán; no os dividáis entre vosotros."[^32]
+Y dijo la frase que dejó el lugar en silencio: «Si nuestra manera de cazar brujas se parece a la de los pequeños rosados del otro lado, eso es lo más terrorífico de todo. Así que os lo pido: poned vuestra energía en el futuro de Taiwán, no os dividáis entre vosotros» [^32].
 
-Propuso una alternativa: en vez de "salir de cacería" contra el ídolo que os decepcionó, descubrid quién está haciendo buenas películas, organizando buenos conciertos y festivales, y dedicad tiempo a apoyarlos.[^32]
+Propuso una alternativa: en vez de «salir de cacería» contra el ídolo que os decepcionó, descubrid quién está haciendo buenas películas, organizando buenos conciertos y festivales, y dedicadles vuestro tiempo a ellos [^32].
 
-El público le ovacionó. El vídeo de aquellos siete minutos circuló mucho más allá del festival.[^32]
+El público lo ovacionó. El vídeo de aquellos siete minutos circuló mucho más allá del festival [^32].
 
 ## Puedes ser tú mismo
 
-Hace 11 años, en Manchester, dijo: "It's just a flag." Once años después, en el Festival Takao: "Puedes ser tú mismo." Las dos frases apuntan a lo mismo: rechazo a definir tu libertad y rechazo a que tú definas la suya.
+Once años antes, en Manchester, había dicho: «It's just a flag». Once años después, en el Festival Takao, dijo: «Puedes ser tú mismo». Las dos frases apuntan a lo mismo: la negativa a definir tu libertad, y la negativa a dejar que tú definas la suya.
 
-A los 43, Anpu dice que vive "la etapa más honesta" de su vida; ha soltado las preguntas sin respuesta de la juventud y empieza a apreciar lo que en el fondo no necesita respuesta.[^31] Dice que no es ninguna autoridad, solo "alguien que acompaña a otros a cambiar el ánimo".[^31] Espera envejecer: "La sociedad exige a las mujeres parecer eternamente jóvenes; eso me agota. La libertad después de las hormonas y de la mirada ajena es la verdadera felicidad de envejecer."[^31]
+A los 43 años, Anpu dice que vive «la etapa más honesta» de su vida; ha soltado las preguntas sin respuesta de la juventud y ha empezado a valorar aquello que, en el fondo, no necesita respuesta [^31]. Dice que no es ninguna autoridad, solo «alguien que acompaña a los demás a cambiar de perspectiva» [^31]. Espera envejecer: «La sociedad les exige a las mujeres parecer eternamente jóvenes, y eso me agota. La libertad que llega después de las hormonas y de la mirada ajena es la verdadera felicidad de envejecer» [^31].
 
-Puedes decir que ha cambiado. También puedes decir que, de cabo a rabo, ha hecho lo mismo: vivir en una zona gris donde ninguna bandera es suficientemente grande, donde ningún nombre cabe.
+Puedes decir que ha cambiado. También puedes decir que, de principio a fin, ha hecho siempre lo mismo: vivir en una zona gris donde ninguna bandera es lo bastante grande y donde ningún nombre termina de encajar.
 
-Chiao Jen-ho dijo en 2019 que el regalo más valioso que su hija le había hecho era enseñarle que el mundo es plural y que la vida es una pregunta de opción múltiple, no una de respuesta única.[^2]
+Chiao Jen-ho dijo en 2019 que el regalo más valioso que le había hecho su hija fue enseñarle que el mundo es plural y que la vida es una pregunta de opción múltiple, no de respuesta única [^2].
 
-Puede que la hija haya aprendido del padre exactamente eso. Solo que la respuesta que ella ha elegido no es la que ningún bando quería oír.
+Puede que la hija haya aprendido del padre exactamente eso. Solo que la respuesta que ella eligió no es la que quería escuchar ningún bando.
 
 ---
 
-## Lectura ampliada
+## Lecturas complementarias
 
-- [Música independiente taiwanesa](/es/music/indie-music-scene/)
-- [Historia del rock taiwanés](/es/music/taiwan-rock-from-underground-to-mainstream/)
-- [Movimiento del Girasol](/es/society/sunflower-movement/)
-- [Cultura de festivales musicales en Taiwán](/es/music/taiwan-music-festival-culture/)
-- [Rainie Yang](/es/people/rainie-yang)
+- [Música independiente taiwanesa](/es/music/indie-music-scene/) — la escena de música independiente a la que pertenece Deserts Chang
+- [Historia del rock taiwanés](/es/music/taiwan-rock-from-underground-to-mainstream/) — desde la era de las canciones prohibidas hasta el Festival del Océano
+- [Movimiento Girasol](/es/society/sunflower-movement/) — los treinta segundos de 2014 que cambiaron Taiwán, y lo que vino después
+- [Cultura de los festivales de música en Taiwán](/es/music/taiwan-music-festival-culture/) — de Gongliao al Festival Takao
+- [Rainie Yang](/es/people/rainie-yang) — otra trayectoria de 25 años de una cantante en mandarín, desde ser producida hasta autoproducirse: un contraste generacional con el camino de Anpu «de cantante adolescente a autora completa»
 
 ## Referencias
 
-[^1]: [Chiao Jen-ho – Wikipedia](https://zh.wikipedia.org/zh-hans/%E7%84%A6%E4%BB%81%E5%92%8C)
+[^1]: [焦仁和 — 維基百科](https://zh.wikipedia.org/zh-hans/%E7%84%A6%E4%BB%81%E5%92%8C) — mandato como secretario general de la SEF, su papel como redactor de discursos de Lee Teng-hui, la propuesta de 1995 de «una China, interpretaciones distintas», y la trayectoria de su abuelo Chiao Tien-kuei como abogado
 
-[^2]: [Chiao Jen-ho y la cantautora Anpu – CommonHealth/CommonWealth](https://club.commonhealth.com.tw/article/2124)
+[^2]: [焦仁和與創作歌手安溥：做父親的一手拉線，一手讓她飛翔 — 康健雜誌/天下雜誌](https://club.commonhealth.com.tw/article/2124) — entrevista conjunta de 2019 a padre e hija: la metáfora de la cometa, las dos mesas en Witch House, el sueldo de 80 TWD la hora en Trader Vic's, la comunicación por carta, la comparación con Lin Daiyu y los detalles del abandono de los estudios
 
-[^3]: [Baby – Wiki cultural en chino](https://www.newton.com.tw/wiki/%E5%AF%B6%E8%B2%9D/16038498)
+[^3]: [寶貝（張懸演唱歌曲）— 中文百科全書](https://www.newton.com.tw/wiki/%E5%AF%B6%E8%B2%9D/16038498) — el origen de la canción: la melodía que tarareó tras salir de casa a los 13 años después de una pelea familiar
 
-[^4]: [Deserts Chang – Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E6%87%B8)
+[^4]: [安溥 — 維基百科](https://zh.wikipedia.org/zh-tw/%E5%AE%89%E6%BA%A5) — el origen del seudónimo «Chang Hsuan», la cronología de su obra musical y su participación en movimientos sociales (oposición a la cuarta central nuclear, disputas por el agua del Parque Científico Central, igualdad matrimonial)
 
-[^5]: Entrevista a Anpu en _Unitas_ (2022).
+[^5]: [安溥讀《荒原》二十年 — 聯合文學/琅琅悅讀](https://reading.udn.com/read/story/7009/6699208) — sus influencias literarias (Shen Congwen, Zheng Chou-yu, Bei Dao, T. S. Eliot) y la frase «los libros me dieron un empujón»
 
-[^6]: [Mango Runs y los premios del Hohaiyan Rock Festival](https://event.lcsec.gov.tw/)
+[^6]: [Deserts Chang — Wikipedia](https://en.wikipedia.org/wiki/Deserts_Chang) — el premio de Mango Runs en el Hohaiyan Rock Festival de Gongliao en 2003 y el concierto de Manchester ante unas quinientas personas
 
-[^7]: [_My Life Will…_ (2006), Sony BMG](https://www.discogs.com/release/)
+[^7]: [My Life Will… — 維基百科](https://zh.wikipedia.org/zh-tw/My_Life_Will...) — la grabación de 2001 guardada en un cajón, su redescubrimiento por Lee Shou-chuan en 2006 y las cuatro nominaciones en la 18.ª edición de los Golden Melody Awards
 
-[^8]: [_City_ (2009)](https://www.discogs.com/release/)
+[^8]: [張懸《城市》樂評 — ccmusichk](https://ccmusichk.blogspot.com/2009/07/blog-post_09.html) — el giro de estilo de 2009, la formación de la banda Algae y el paso del folk al rock
 
-[^9]: [_Games We Play_ (2012) y los 24.º Golden Melody](https://www.golden-melody.com/)
+[^9]: [神的遊戲 — 維基百科](https://zh.wikipedia.org/zh-tw/%E7%A5%9E%E7%9A%84%E9%81%8A%E6%88%B2) — su cuarto álbum de 2012, nueve canciones escritas por ella misma, su papel como coproductora, el premio a Mejor Letra en la 24.ª edición de los Golden Melody Awards y la censura que retiró la canción en China
 
-[^10]: [The Rose-coloured You – análisis](https://www.thenewslens.com/article/)
+[^10]: [〈玫瑰色的你〉社運歌曲脈絡 — womany](https://womany.net/read/article/12684) — la motivación detrás de una canción escrita para los activistas sociales
 
-[^11]: [Taipei Times: Deserts Chang on the flag incident](https://www.taipeitimes.com/News/feat/archives/2013/12/01/2003578128)
+[^11]: [National identity best faced head-on — Taipei Times](https://www.taipeitimes.com/News/taiwan/archives/2013/12/15/2003579066) — entrevista de diciembre de 2013: «la identidad nacional de Taiwán inevitablemente será desafiada»
 
-[^12]: [Cancelación del concierto en Pekín – Liberty Times](https://news.ltn.com.tw/news/entertainment/breakingnews/892120)
+[^12]: [演出拿國旗遭陸網友抵制 張懸：我願自行取消演唱會 — ETtoday](https://star.ettoday.net/news/291398) — los detalles de la cancelación del concierto de Pekín, según ETtoday
 
-[^13]: [Reacción tras Manchester – Apple Daily](https://tw.appledaily.com/)
+[^13]: [張懸舉國旗被封「愛國歌手」聽後傻眼 — ETtoday](https://star.ettoday.net/news/310598) — «os habéis equivocado de persona», según ETtoday
 
-[^14]: [Mensajes de Anpu durante el Movimiento del Girasol – Facebook archivado](https://www.facebook.com/Deserts.Chang)
+[^14]: [太陽花學運各界反應 — 維基百科](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E5%90%84%E7%95%8C%E5%B0%8D%E6%96%BC%E5%A4%AA%E9%99%BD%E8%8A%B1%E5%AD%B8%E9%81%8B%E7%9A%84%E5%8F%8D%E6%87%89) — su serie de publicaciones en Facebook criticando al gobierno
 
-[^15]: [Tide Maxim – Vogue Taiwán](https://www.vogue.com.tw/)
+[^15]: [安溥潮水箴言 2022 — 鏡週刊](https://www.mirrormedia.mg/story/20221224ent007/) — la filosofía de producción del concierto, el diseño escénico, la base literaria y las técnicas cinematográficas
 
-[^16]: [Última _Tide Maxim_ en el Kaohsiung Arena – CNA](https://www.cna.com.tw/news/firstnews/201501185004.aspx)
+[^16]: [安溥 to ebb 潮水箴言 — 方格子](https://vocus.cc/article/63a95bd5fd8978000148e4ad) — la evolución de la serie, desde el Legacy de mil personas en 2010 hasta el Kaohsiung Arena en 2015
 
-[^17]: [Sobre el cambio de nombre – ETtoday](https://star.ettoday.net/news/610923)
+[^17]: [張懸改回本名「焦安溥」— ETtoday](https://star.ettoday.net/news/699754) — «para que mis padres, que tienen la costumbre de guardar recortes, puedan ver esos dos caracteres»
 
-[^18]: [El retiro y la gata – ELLE Taiwan](https://www.elle.com/tw/)
+[^18]: [安溥離開的原因 — 噓！星聞](https://stars.udn.com/star/story/10092/6760341) — el tumor de la gata y el detonante de su retiro
 
-[^19]: [Tres años de pausa – Mirror Media](https://www.mirrormedia.mg/)
+[^19]: [三年張懸完成了什麼 — Yahoo 新聞](https://tw.news.yahoo.com/%E4%BB%A5-%E5%AE%89%E6%BA%A5-%E4%B9%8B%E5%90%8D%E5%9B%9E%E6%AD%B8-%E9%80%99%E4%B8%89%E5%B9%B4%E5%BC%B5%E6%87%B8%E5%AE%8C%E6%88%90%E4%BA%86%E4%BB%80%E9%BA%BC-090000651.html) — sus tres años de lectura, caligrafía, poesía, refuerzo instrumental y aprendizaje de producción escénica
 
-[^20]: [Lian Yun en el Taipei Arena – análisis de Ma Shih-fang](https://www.openbook.org.tw/article/p-50045)
+[^20]: [煉雲者們 — 報導者](https://www.twreporter.org/topics/anpu-concert) — el presupuesto de 36 millones de TWD, los 3.200 paneles LED, el coste de 15 millones del escenario, la crítica de Ma Shih-fang sobre «un sueño de intensidad heroica», la lógica detrás de la selección de las 22 versiones y la definición de «refinar»
 
-[^21]: [Anpu anuncia su divorcio – Liberty Times](https://ent.ltn.com.tw/news/breakingnews/3805395)
+[^21]: [安溥宣布離婚 — A Day Magazine](https://www.adaymag.com/2022/01/19/deserts-chang-divorce.html) — el anuncio en el escenario en enero de 2022, «el hombre más valiente del mundo de habla china» y su plan de acudir a terapia psicológica
 
-[^22]: [_9522_ (2022)](https://www.discogs.com/release/)
+[^22]: [安溥《9522》— Blow 吹音樂](https://blow.streetvoice.com/62164/) — las dieciséis canciones escritas entre los 14 y los 17 años, el nombre del álbum a modo de código y su dedicatoria a la chica que está creciendo
 
-[^23]: [The Best of Times: la voz de Wu Tsing-fong](https://www.thenewslens.com/article/175036)
+[^23]: [張鈞甯與〈最好的時光〉— 鏡週刊](https://www.mirrormedia.mg/story/20220802ent017/) — el rechazo del anuncio de coches, el ánimo de Ning Chang para terminarla y el «este instante hace que valga la pena toda esta vida» de Wu Tsing-fong
 
-[^24]: [34.º Golden Melody – Canción del Año](https://www.golden-melody.com/)
+[^24]: [Deserts Chang — Wikipedia](https://en.wikipedia.org/wiki/Deserts_Chang) — la Canción del Año en la 34.ª edición de los Golden Melody Awards
 
-[^25]: Entrevista a Chiao Yuan-pu en _PAR_.
+[^25]: [焦元溥、張懸音樂路上發光 — 今周刊](https://www.businesstoday.com.tw/article-content-80732-120414) — Chiao Yuan-pu llevando un CD de Deserts Chang a sus entrevistas con grandes maestros del piano
 
-[^26]: [Carta de Anpu en Weibo (1/10/2024)](https://weibo.com/)
+[^26]: [安溥手寫信祝賀新中國成立七十五週年 — 華視新聞](https://news.cts.com.tw/cts/entertain/202410/202410022383717.html) — la publicación en Weibo a las 22:01 del 1 de octubre de 2024 y el texto completo de la carta manuscrita
 
-[^27]: [Reacciones tras la carta – ETtoday](https://star.ettoday.net/news/2843127)
+[^27]: [好友何欣穗護航遭罵翻 — 噓星聞](https://stars.udn.com/star/story/10088/8267193) — la defensa de Ho Hsin-sui y las críticas que recibió, según UDN
 
-[^28]: [Análisis de Chang Tieh-chih: "manifestación preparada de lealtad"](https://opinion.cw.com.tw/)
+[^28]: [作家列安溥近年動向 — 自由時報](https://ent.ltn.com.tw/news/breakingnews/4818861) — el análisis que la califica de «manifestación de lealtad largamente premeditada»
 
-[^29]: [Huang Chao-nien sobre el Frente Unido "tres centros y un joven"](https://www.twreporter.org/)
+[^29]: [關鍵評論網分析 — 黃兆年「三中一青」統戰](https://www.thenewslens.com/article/243496) — cómo forzar a los artistas a tomar postura política influye en la identidad de los jóvenes taiwaneses
 
-[^30]: [Discurso de Anpu en el Festival Takao (12/10/2024)](https://news.pts.org.tw/article/720000)
+[^30]: [安溥打狗祭首露面 — 噓星聞](https://stars.udn.com/star/story/10092/8287846) — la respuesta completa en el Festival Takao del 12 de octubre de 2024, las banderas de ballena y del monte Yushan, y los siete minutos de Yang Ta-cheng
 
-[^31]: [Anpu en _Vogue Taiwan_ (2024): "etapa más honesta"](https://www.vogue.com.tw/)
+[^31]: [安溥談老去與人生哲學 — 早安樂活/Harper's Bazaar](https://www.edh.tw/lohas/article/31481) — «espero envejecer», «alguien que acompaña a otros a cambiar de perspectiva» y la libertad frente a las hormonas y la mirada ajena
 
-[^32]: [Sam Yang (Fire EX.) y los 7 minutos en el Takao – The News Lens](https://www.thenewslens.com/article/220000)
+[^32]: [滅火器主唱楊大正《打狗祭》正面回應五月天、吳慷仁和安溥「表態」事件 — 關鍵評論網](https://www.thenewslens.com/article/243131) — el contenido completo de su discurso de casi siete minutos, la frase «si nuestra caza de brujas se parece a la de los pequeños rosados, eso es lo más terrorífico», la incomodidad de la época y del mercado, y el vídeo original: [YouTube](https://www.youtube.com/watch?v=cNRkJn8RV1o)
