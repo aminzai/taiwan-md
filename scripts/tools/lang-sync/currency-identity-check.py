@@ -61,7 +61,10 @@ PROPER_NOUN = re.compile(r"^\s*[A-ZА-Я][a-zа-я-]")
 # 這一族比人民幣那族更隱形：讀者不會覺得句子怪，只會以為台灣用印尼盾。
 LOCAL_CURRENCY = {
     "id": r"rupiah", "hi": r"रुपये|रुपए|रुपया", "ru": r"рубл\w*",
-    "vi": r"đồng", "ar": r"ريال|درهم|دينار",
+    # 越南文 đồng 也是一串常用複合詞的首字（đồng thời 同時、đồng ý 同意、đồng bộ 同步…），
+    # 2026-09-27 vi〈台灣在國際標準中的標示問題〉的「ISO 3166-1 đồng thời」被當成 1 越南盾。
+    "vi": r"đồng(?!\s+(?:thời|ý|bộ|nghĩa|loạt|đều|hành|bằng|minh|tâm|chí|nhất|hương|nghiệp|thuận|dạng|đẳng|cảm|lòng|hồ)\b)",
+    "ar": r"ريال|درهم|دينار",
 }
 # 越南文的 đồng 是「貨幣單位」的通稱不是專有名詞，`đồng Đài Loan` 正是台幣的標準
 # 講法；rupiah／рубль／ريال 則是國家專屬詞，後面接 Taiwan 也救不回來（`rupiah
@@ -121,7 +124,8 @@ def scan(path: Path) -> list[str]:
     # Taiwan 也不會讓 rupiah 變成正確的幣別，反而正是最典型的錯法。
     loc = LOCAL_CURRENCY.get(lang)
     if loc:
-        lpat = re.compile(rf"[0-9][0-9.,]*[0-9]?\s?(?:{MAG}\s)?(?:{loc})\b", re.I)
+        # 數字前面緊貼字母或連字號是代碼的一部分（ISO 3166-1），不是金額
+        lpat = re.compile(rf"(?<![\w\-])[0-9][0-9.,]*[0-9]?\s?(?:{MAG}\s)?(?:{loc})\b", re.I)
         ok = re.compile(LOCAL_OK[lang], re.I)
         gen = GENERIC_UNIT.get(lang)
         for m in lpat.finditer(text):
