@@ -436,6 +436,25 @@ def replace_provenance(fm_block: str, zh_path: str, zh_content: str) -> str:
     return "\n".join(kept + provenance_lines(zh_path, zh_content))
 
 
+def frontmatter_debt(zh_fm: dict, tr_fm: dict) -> list[str]:
+    """既有譯文 frontmatter 自帶的債：有就改走 LLM 重翻 frontmatter，不沿用舊值（見 main 註解）。"""
+    debt = []
+    zh_alt = zh_fm.get("imageAlt")
+    if zh_alt and tr_fm.get("imageAlt") in (None, "", zh_alt):
+        debt.append("imageAlt 譯文缺欄或未翻")
+    zh_tags = zh_fm.get("tags")
+    tr_tags = tr_fm.get("tags")
+    if isinstance(zh_tags, list) and zh_tags and isinstance(tr_tags, list) and tr_tags:
+        same = sum(1 for t in tr_tags if t in zh_tags)
+        if same / len(tr_tags) >= TAGS_UNTRANSLATED_RATIO:
+            debt.append(f"tags {same}/{len(tr_tags)} 仍是 zh 原字")
+        elif len(tr_tags) == 1 and len(zh_tags) >= 2:
+            # 2026-09-27：整篇引擎只切 ASCII 逗號，阿拉伯逗號「،」／日文頓號「、」連成的
+            # 整張清單變成一個標籤（ar 438 篇、ja 14 篇）。碰到就順手重翻，存量隨 stale 慢慢還。
+            debt.append(f"tags 擠成 1 個字串（zh 有 {len(zh_tags)} 個）")
+    return debt
+
+
 def rebuild_frontmatter_preserve_translation(zh_fm: dict, tr_fm: dict, zh_path: str,
                                               zh_content: str) -> str:
     """title/description/tags/subcategory 在 old_sha→HEAD 之間語意未變 → 不燒
@@ -719,16 +738,7 @@ def main() -> int:
     # 五次拒收後才升級整篇重翻——每次拒收都燒掉一次完整 patch。撞到 patch 範圍的
     # pre-existing 問題一律順手接住（REFLEXES #42 v4），這裡多燒一次 frontmatter
     # 呼叫換整篇過閘。
-    fm_debt = []
-    zh_alt = zh_fm.get("imageAlt")
-    if zh_alt and tr_fm.get("imageAlt") in (None, "", zh_alt):
-        fm_debt.append("imageAlt 譯文缺欄或未翻")
-    zh_tags = zh_fm.get("tags")
-    tr_tags = tr_fm.get("tags")
-    if isinstance(zh_tags, list) and zh_tags and isinstance(tr_tags, list) and tr_tags:
-        same = sum(1 for t in tr_tags if t in zh_tags)
-        if same / len(tr_tags) >= TAGS_UNTRANSLATED_RATIO:
-            fm_debt.append(f"tags {same}/{len(tr_tags)} 仍是 zh 原字")
+    fm_debt = frontmatter_debt(zh_fm, tr_fm)
     if fm_debt and not fm_fields_changed:
         fm_fields_changed = True
         print(f"   frontmatter 既有債 → 改走 LLM 重翻 frontmatter：{'; '.join(fm_debt)}")

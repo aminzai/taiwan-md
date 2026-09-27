@@ -107,7 +107,29 @@ def sync_passthrough_fields(fm_lines: list[str], zh_fm: dict,
     return [l for l in out if l is not None], changed
 
 
-def heal_file(path: Path, apply: bool, sync_passthrough: bool = False) -> tuple[str, str]:
+def split_collapsed_tags(lines: list[str], tr_fm: dict, zh_fm: dict) -> tuple[list[str], str | None, str | None]:
+    """--split-tags：譯文 tags 只有一個字串、裡面用分隔符包著整張清單，而 zh 有 ≥2 個標籤
+    → 照 zh 的數量切開，換掉整個 tags 區塊。回傳 (新行陣列, 變更說明, 錯誤)。
+
+    病根在整篇引擎只切 ASCII 逗號（translate.split_tags 2026-09-27 修掉），存量 ar 438、ja 14。
+    切的規則跟引擎共用同一支 split_tags；切出來的數量對不上 zh 就不動，交給重翻。"""
+    tr_tags, zh_tags = tr_fm.get("tags"), zh_fm.get("tags")
+    if not (isinstance(tr_tags, list) and len(tr_tags) == 1 and isinstance(tr_tags[0], str)
+            and isinstance(zh_tags, list) and len(zh_tags) >= 2):
+        return lines, None, None
+    translate = import_module("translate")  # 延遲載入：bump-source-sha 也 import 本檔
+    parts = translate.split_tags(tr_tags[0], len(zh_tags))
+    if len(parts) != len(zh_tags):
+        return lines, None, f"tags 切出 {len(parts)} 個、zh 有 {len(zh_tags)} 個，要重翻"
+    start = next(i for i, l in enumerate(lines) if l.startswith("tags:"))
+    end = start + 1
+    while end < len(lines) and (lines[end].startswith((" ", "\t")) or lines[end].strip() in ("[", "]")):
+        end += 1
+    return lines[:start] + [_st.render_field("tags", parts)] + lines[end:], f"tags: 1 → {len(parts)}", None
+
+
+def heal_file(path: Path, apply: bool, sync_passthrough: bool = False,
+              split_tags: bool = False) -> tuple[str, str]:
     """回傳 (狀態, 說明)。狀態：healed / would-heal / skip / error。"""
     text = path.read_text(encoding="utf-8")
     fm_text, body, m = split_fm(text)
@@ -116,7 +138,7 @@ def heal_file(path: Path, apply: bool, sync_passthrough: bool = False) -> tuple[
     lines = fm_text.split("\n")
     hits = [(i, BAD_LINE_RE.match(l)) for i, l in enumerate(lines)]
     hits = [(i, mm) for i, mm in hits if mm and mm.group("key") in FIELDS]
-    if not hits and not sync_passthrough:
+    if not hits and not sync_passthrough and not split_tags:
         return "skip", "clean"
     try:
         fm = yaml.safe_load(fm_text) or {}
@@ -135,7 +157,7 @@ def heal_file(path: Path, apply: bool, sync_passthrough: bool = False) -> tuple[
         # 行位移後重新定位 rationale 命中行
         hits = [(i, BAD_LINE_RE.match(l)) for i, l in enumerate(lines)]
         hits = [(i, mm) for i, mm in hits if mm and mm.group("key") in FIELDS]
-        if not hits and not changed:
+        if not hits and not changed and not split_tags:
             return "skip", "clean"
     for i, mm in hits:
         key = mm.group("key")
@@ -146,7 +168,18 @@ def heal_file(path: Path, apply: bool, sync_passthrough: bool = False) -> tuple[
             continue
         lines[i] = _st.render_field(key, zh_fm[key])
         changed.append(f"{key}: {type(zh_fm[key]).__name__}")
-    new_fm = "\n".join(l for l in lines if l is not None)
+    lines = [l for l in lines if l is not None]
+    tag_parts = None
+    if split_tags:
+        lines, note, err = split_collapsed_tags(lines, fm, zh_fm)
+        if err:
+            return "error", err
+        if note:
+            changed.append(note)
+            tag_parts = len(zh_fm["tags"])
+    if not changed:
+        return "skip", "clean"
+    new_fm = "\n".join(lines)
     # 守恆：新 frontmatter 必須能 parse，且該欄位值 == zh 的值
     # 加尾端換行再 parse：檔案裡 frontmatter 後面接的是 "\n---"，block scalar `|` 的
     # clip 行為要看到那個換行才會保留最後一個 \n，跟實際落檔後的讀法一致。
@@ -159,6 +192,14 @@ def heal_file(path: Path, apply: bool, sync_passthrough: bool = False) -> tuple[
         for key in SYNC_SCALAR_FIELDS:
             if zh_fm.get(key) is not None and parsed.get(key) != zh_fm[key]:
                 return "error", f"{key} mismatch after sync"
+    if tag_parts is not None:
+        # 守恆：切完的標籤數等於 zh，且串回去跟原本那一個字串只差分隔符
+        new_tags = parsed.get("tags")
+        if not isinstance(new_tags, list) or len(new_tags) != tag_parts:
+            return "error", "tags count mismatch after split"
+        joined = re.sub(r"[\s,，、،;；]", "", "".join(new_tags))
+        if joined != re.sub(r"[\s,，、،;；]", "", fm["tags"][0]):
+            return "error", "tags content changed by split"
     if apply:
         path.write_text(f"---\n{new_fm}\n---\n{body}", encoding="utf-8")
         return "healed", "; ".join(changed)
@@ -172,6 +213,8 @@ def main():
     ap.add_argument("--skip-dirty", action="store_true")
     ap.add_argument("--sync-passthrough", action="store_true",
                     help="同時把 zh 的標量 passthrough 欄位（圖片四欄等）同步進譯文")
+    ap.add_argument("--split-tags", action="store_true",
+                    help="把擠成一個字串的 tags 照 zh 的數量切開（ar／ja 的阿拉伯逗號、頓號存量）")
     ap.add_argument("--limit", type=int, default=0, help="dry-run 時最多印幾筆（0=全部）")
     args = ap.parse_args()
     langs = LANG_DIRS if args.lang == "all" else [args.lang]
@@ -184,7 +227,8 @@ def main():
             if rel in dirty:
                 totals["dirty-skip"] += 1
                 continue
-            status, note = heal_file(p, args.apply, sync_passthrough=args.sync_passthrough)
+            status, note = heal_file(p, args.apply, sync_passthrough=args.sync_passthrough,
+                                     split_tags=args.split_tags)
             totals[status] += 1
             if status in ("healed", "would-heal", "error"):
                 shown = totals["healed"] + totals["would-heal"] + totals["error"]

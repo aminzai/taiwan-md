@@ -39,3 +39,15 @@ def test_chapter_urls_are_armored_and_restored(tmp_path):
     assert "/society/%E5%8F%B0%E7%81%A3" in out
     assert "https://example.org/a_(b)" in out
     assert issues == []
+
+
+def test_frontmatter_debt_flags_tags_collapsed_into_one_string():
+    # 2026-09-27：ar 438 篇、ja 14 篇的 tags 是一個字串包著整張清單（整篇引擎只切 ASCII 逗號）；
+    # patch 碰到時要改走 LLM 重翻 frontmatter，不沿用那一格
+    zh = {"tags": ["泰雅族", "紋面", "染織", "gaga", "文化復興"]}
+    collapsed = {"tags": ["タイヤル族、紋面、染織、gaga、文化復興"]}
+    assert MODULE.frontmatter_debt(zh, collapsed) == ["tags 擠成 1 個字串（zh 有 5 個）"]
+    fine = {"tags": ["Atayal", "facial tattoo", "weaving", "gaga", "cultural revival"]}
+    assert MODULE.frontmatter_debt(zh, fine) == []
+    # zh 本來就只有一個標籤：譯文一個標籤是正常的
+    assert MODULE.frontmatter_debt({"tags": ["泰雅族"]}, {"tags": ["タイヤル族"]}) == []

@@ -482,6 +482,31 @@ def restore_urls(text: str, urls: list[str]) -> tuple[str, list[int]]:
     return text, bad
 
 
+# 模型照指示把標籤寫成一行「逗號分隔」，但阿拉伯文用阿拉伯逗號「،」、日文用頓號「、」。
+# 只切 ASCII 逗號的話整串變成一個標籤：2026-09-27 盤點 ar 438 篇、ja 14 篇的 tags 是
+# 一個字串包著整張清單（其餘十語 0），站上的標籤頁因此多出一堆「甲، 乙، 丙」。
+TAG_SEPARATORS = re.compile(r"\s*[,，、،;；]\s*")
+
+
+def zh_tag_count(zh_fm: dict) -> int:
+    tags = zh_fm.get("tags") or []
+    if isinstance(tags, str):
+        return len([t for t in tags.split(",") if t.strip()])
+    return len(tags)
+
+
+def split_tags(tags_raw: str, n_zh: int) -> list[str]:
+    """切模型回的標籤行，數量要跟 zh 一樣：依序試 ASCII 逗號、寬分隔符、整行不切，
+    第一個數量對得上的就用（zh 只有一個標籤時，標籤裡帶的逗號是內容，不拆）；
+    都對不上才取數量最接近的切法，同樣接近時留 ASCII 版（舊行為）。"""
+    ascii_split = [t.strip() for t in tags_raw.split(",") if t.strip()]
+    wide = [t.strip() for t in TAG_SEPARATORS.split(tags_raw) if t.strip()]
+    for cand in (ascii_split, wide, [tags_raw.strip()]):
+        if len(cand) == n_zh:
+            return cand
+    return min((ascii_split, wide), key=lambda s: abs(len(s) - n_zh))
+
+
 def disarm_frontmatter(zh_fm: dict) -> str:
     """Transform 1（常駐，2026-07-26 A/B 實測 passthrough fail 5→0、型別跳脫
     WARN 7→0，見 reports/armored-input-ab-2026-07-26.md §4.2）：只把
@@ -775,7 +800,7 @@ def armor_post(raw_output: str, ctx: dict, article: dict) -> tuple[Optional[str]
 
     # ---- Frontmatter 組裝（passthrough 機械複製，單引號＋撇號雙寫跳脫）----
     zh_fm = ctx["zh_fm"]
-    tags_out = [t.strip() for t in tags_raw.split(",") if t.strip()] if tags_raw else []
+    tags_out = split_tags(tags_raw, zh_tag_count(zh_fm)) if tags_raw else []
 
     lines: list[str] = []
     for key in zh_fm.keys():
