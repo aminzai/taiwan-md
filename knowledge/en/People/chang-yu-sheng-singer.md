@@ -76,7 +76,7 @@ At a bottleneck in commercial music, Chang Yu-sheng voluntarily enrolled in the 
 
 Chang Yu-sheng was a producer — and sometimes this identity matters more than his identity as a singer.
 
-His discovery of [A-mei](https://taiwan.md/en/People/a-mei/) went like this: after A-mei won an award on Five Lamp Variety Show, she joined her cousin's band and sang in Taipei bars. Chang Yu-sheng went to hear her for the first time, then came back almost every night for about a month. He determined A-mei was someone who could be developed, brought Feng Hua Records owner Chang Hsiao-yen and director Chen Fu-ming to hear her, and the company decided to sign her.[^6] A-mei first duetted with Chang Yu-sheng on "The One Who Loves Me Hurts Me Most" on one of his albums; in December 1996 he produced her debut album _Sisters_, which was formally released.
+His discovery of [A-mei](/en/people/a-mei/) went like this: after A-mei won an award on Five Lamp Variety Show, she joined her cousin's band and sang in Taipei bars. Chang Yu-sheng went to hear her for the first time, then came back almost every night for about a month. He determined A-mei was someone who could be developed, brought Feng Hua Records owner Chang Hsiao-yen and director Chen Fu-ming to hear her, and the company decided to sign her.[^6] A-mei first duetted with Chang Yu-sheng on "The One Who Loves Me Hurts Me Most" on one of his albums; in December 1996 he produced her debut album _Sisters_, which was formally released.
 
 _Bad Boy_ followed in 1997. In the title track Chang Yu-sheng expanded A-mei's ethnic musical sensibility further, adding Latin rhythms and world music influences; "Thinking of You" brought in her younger sister and cousin as backing vocalists, carrying the texture of Indigenous voices.[^6] This album topped IFPI Taiwan's sales charts for 9 consecutive weeks, selling 1.38 million copies in Taiwan — the highest-selling album in Taiwan's history — and exceeded 6 million copies across all of Asia.
 
@@ -96,7 +96,7 @@ His Glasgow Coma Scale hovered between 3 and 4 for a sustained 24 days. On the e
 
 ### "It Feels Like Yu-sheng Is Singing"
 
-In 2017, twenty years after his death, the Golden Melody Awards posthumously presented Chang Yu-sheng with the Special Contribution Award — he is the youngest recipient of a Golden Melody Special Contribution Award in the award's history. That night, [A-mei](https://taiwan.md/en/People/a-mei/) sang his songs on stage. His mother was in the audience below, choking back tears and saying: "It feels like Yu-sheng is singing."[^9]
+In 2017, twenty years after his death, the Golden Melody Awards posthumously presented Chang Yu-sheng with the Special Contribution Award — he is the youngest recipient of a Golden Melody Special Contribution Award in the award's history. That night, [A-mei](/en/people/a-mei/) sang his songs on stage. His mother was in the audience below, choking back tears and saying: "It feels like Yu-sheng is singing."[^9]
 
 Standing there was a queen he had personally built — and he had been gone long ago.
 

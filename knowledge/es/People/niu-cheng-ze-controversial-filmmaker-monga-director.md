@@ -30,7 +30,7 @@ La experiencia actoral de su infancia le proporcionó una base valiosa para su f
 
 ## Los años como actor en la década de 1980
 
-Tras alcanzar la edad adulta, Niu continuó trabajando como actor en películas dirigidas por [Hou Hsiao-hsien](https://taiwan.md/es/People/hou-hsiao-hsien/) como _El segundo verano de Lao Mo_ y _Dust in the Wind_, participando activamente en el movimiento del Nuevo Cine taiwanés.
+Tras alcanzar la edad adulta, Niu continuó trabajando como actor en películas dirigidas por [Hou Hsiao-hsien](/es/people/hou-hsiao-hsien/) como _El segundo verano de Lao Mo_ y _Dust in the Wind_, participando activamente en el movimiento del Nuevo Cine taiwanés.
 
 Bajo la tutela de Hou Hsiao-hsien aprendió la esencia del arte cinematográfico, una experiencia que influyó profundamente en su estilo creativo posterior. Comenzó a reflexionar sobre el significado profundo del cine, más allá del mero entretenimiento comercial.
 

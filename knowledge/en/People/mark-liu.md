@@ -41,7 +41,7 @@ Over these three decades, TSMC's advanced processes moved from the micron era in
 
 ## Dual Leadership Succession
 
-In 2018, [Morris Chang](https://www.zoo.com/en/People/tsmc-morris-chang/) announced his retirement, and TSMC activated a dual-leadership structure: Liu became chairman and [C.C. Wei](https://www.zoo.com/en/People/cc-wei/) became president.[^2] Their division of labor: Liu was responsible for overall strategy and external relations, while Wei led operational execution.
+In 2018, [Morris Chang](/en/people/tsmc-morris-chang/) announced his retirement, and TSMC activated a dual-leadership structure: Liu became chairman and [C.C. Wei](/en/people/cc-wei/) became president.[^2] Their division of labor: Liu was responsible for overall strategy and external relations, while Wei led operational execution.
 
 This arrangement was interpreted at the time as a smooth transition for TSMC, but it was soon forced by geopolitical pressure to make decisions far more complex than any design had anticipated. 2018 was the year the US-China trade war fully erupted, and every critical decision TSMC made over the next six years had to simultaneously satisfy Washington, Beijing, and Taipei.
 
@@ -83,7 +83,7 @@ A person can say "nobody can control TSMC by force" within six years and, upon r
 
 ## "Buy TSMC": Handing the Reins to C. C. Wei
 
-In June 2024, Liu formally stepped down as chairman of TSMC, with [C.C. Wei](https://www.zoo.com/en/People/cc-wei/) taking sole command.[^6] TSMC's dual-leadership era came to an end.
+In June 2024, Liu formally stepped down as chairman of TSMC, with [C.C. Wei](/en/people/cc-wei/) taking sole command.[^6] TSMC's dual-leadership era came to an end.
 
 On the day of his retirement, when asked if he had anything to say, he smiled and said: **"Buy TSMC."**[^7] TSMC's stock closed at NT$839 that day, and Liu held on to every share of TSMC he owned, with his estimated net worth exceeding NT$10 billion.
 
