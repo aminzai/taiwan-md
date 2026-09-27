@@ -146,6 +146,11 @@ def parse_fm(content: str) -> tuple[dict, str]:
         if in_list and re.match(r"^['\"].*['\"],?$", stripped):
             out.setdefault(in_list, []).append(stripped.strip(",").strip("'\""))
             continue
+        # 不加引號的續行項目（`    Alishan,`）也是合法 YAML。2026-09-27 de〈阿里山林業鐵路〉的
+        # tags 整組沒加引號，這裡只認引號項，於是 tags 被判「zh 有但譯文缺」——擋下的是好譯文。
+        if in_list and stripped and ":" not in stripped and re.fullmatch(r"[^\[\]'\"#][^\[\]'\"]*,?", stripped):
+            out.setdefault(in_list, []).append(stripped.rstrip(",").strip())
+            continue
         # Single-line scalar
         m = re.match(r"^(\w+):\s*(.+)$", line)
         if m:
