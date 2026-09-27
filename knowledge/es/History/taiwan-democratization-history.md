@@ -31,7 +31,7 @@ El 18 de marzo de 1980, el tribunal militar de Taiwán inició el juicio del Cas
 
 El Kuomintang (KMT) pretendía un juicio público para demostrar la legitimidad judicial. El resultado fue el opuesto.
 
-El juicio proporcionó a los acusados un escenario nacional. Shih Ming-te había preparado una declaración de sesenta mil palabras, pero tras enterarse en la audiencia de que la madre de [[林義雄]] (Lin Yi-hsiung) y sus dos hijas gemelas habían sido asesinadas fuera de prisión (el [[二二八事件|incidente de la familia Lin]]), renunció a su defensa en ese mismo instante y pidió al juez que le impusiera la pena de muerte. Esta escena se difundió por toda la isla a través de los medios.
+El juicio proporcionó a los acusados un escenario nacional. Shih Ming-te había preparado una declaración de sesenta mil palabras, pero tras enterarse en la audiencia de que la madre de [[林義雄]] (Lin Yi-hsiung) y sus dos hijas gemelas habían sido asesinadas fuera de prisión (el [incidente de la familia Lin](/es/history/228-incident/)), renunció a su defensa en ese mismo instante y pidió al juez que le impusiera la pena de muerte. Esta escena se difundió por toda la isla a través de los medios.
 
 > 📝 **Nota del curador:** La consecuencia más absurda del juicio de la Isla Hermosa fue que el grupo de jóvenes abogados que defendieron a los acusados —[[陳水扁]] (Chen Shui-bian), Yeh Chu-lung, Su Tseng-chang, Chang Chun-hsiung y Yu Ching— se convirtieron casi todos, en menos de veinte años, en presidentes de Taiwán, presidentes del Yuan Ejecutivo o alcaldes de municipios especiales. El juicio meticulosamente planeado por el KMT terminó, sin querer, cultivando a toda una generación de élrmite políticos para el movimiento de oposición.
 
@@ -63,7 +63,7 @@ Esta frase fue utilizada selectivamente por distintos espectros políticos. Los 
 
 Chiang Ching-kuo falleció seis meses después.
 
-Pero el fin de la ley marcial no significó libertad inmediata. El gobierno aprobó simultáneamente la Ley de Seguridad Nacional, cuyo artículo 9 estipulaba que las sentencias de los tribunales militares contra civiles durante la ley marcial «no podrán ser objeto de apelación o recurso ante el tribunal competente». En otras palabras, se bloquearon legalmente las vías de reparación para las víctimas del [[台灣白色恐怖|terror blanco]].
+Pero el fin de la ley marcial no significó libertad inmediata. El gobierno aprobó simultáneamente la Ley de Seguridad Nacional, cuyo artículo 9 estipulaba que las sentencias de los tribunales militares contra civiles durante la ley marcial «no podrán ser objeto de apelación o recurso ante el tribunal competente». En otras palabras, se bloquearon legalmente las vías de reparación para las víctimas del [terror blanco](/es/history/taiwan-white-terror/).
 
 > **«Por ello, algunos académicos sostienen que el verdadero punto de partida de la democratización de Taiwán fue 1 992 (reforma del artículo 100 del Código Penal y abolición de la Ley de Castigo de la Sedición), y no el fin de la ley marcial en 1987».**
 
@@ -140,7 +140,7 @@ Freedom House otorgó a Taiwán 93 puntos en 2025 (sobre 100), situándola sexta
 
 Pero tras las cifras hay grietas:
 
-Durante el [[台灣白色恐怖|terror blanco]], se estima que entre 140.000 y 200.000 personas sufrieron persecución política, y entre 3.000 y 4.000 fueron ejecutadas. La justicia transicional aún no se ha completado. El artículo 9 de la Ley de Seguridad Nacional no fue declarado inconstitucional por los magistrados del Tribunal Constitucional hasta 2019, 32 años después del fin de la ley marcial.
+Durante el [terror blanco](/es/history/taiwan-white-terror/), se estima que entre 140.000 y 200.000 personas sufrieron persecución política, y entre 3.000 y 4.000 fueron ejecutadas. La justicia transicional aún no se ha completado. El artículo 9 de la Ley de Seguridad Nacional no fue declarado inconstitucional por los magistrados del Tribunal Constitucional hasta 2019, 32 años después del fin de la ley marcial.
 
 La desinformación es el nuevo campo de batalla. En las elecciones locales de 2018 y en las presidenciales de 2020 aparecieron campañas masivas de desinformación, muchas de ellas con origen externo. El gobierno de China intenta continuamente influir en la formulación de políticas, los medios y la infraestructura democrática de Taiwación (según el informe de Freedom House 2025).
 

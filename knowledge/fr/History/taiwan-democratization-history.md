@@ -31,7 +31,7 @@ Le 18 mars 1980, le tribunal militaire de Taïwan ouvre l'audience de l'affaire 
 
 Le Kuomintang (KMT) souhaitait initialement un procès public pour démontrer la légitimité judiciaire. Le résultat fut inverse.
 
-Le procès offrit aux accusés une tribune nationale. Shih Ming-te avait préparé un mémoire de défense de soixante mille mots, mais apprenant durant l'audience que la mère de [[林義雄]] (Lin Yi-hsiung) et ses deux filles jumelles avaient été assassinées hors de prison (l'affaire du massacre de la famille Lin liée à l'[[二二八事件|incident du 228]]), il renonça sur-le-champ à sa défense, demandant au juge de le condamner à mort. Cette scène fut diffusée dans toute l'île par les médias.
+Le procès offrit aux accusés une tribune nationale. Shih Ming-te avait préparé un mémoire de défense de soixante mille mots, mais apprenant durant l'audience que la mère de [[林義雄]] (Lin Yi-hsiung) et ses deux filles jumelles avaient été assassinées hors de prison (l'affaire du massacre de la famille Lin liée à l'[incident du 228](/fr/history/228-incident/)), il renonça sur-le-champ à sa défense, demandant au juge de le condamner à mort. Cette scène fut diffusée dans toute l'île par les médias.
 
 > 📝 **Note du commissaire d'exposition :** La conséquence la plus absurde du procès de l'île de Formose fut que le groupe de jeunes avocats assurant la défense — [[陳水扁]] (Chen Shui-bian), Frank Lai, Su Tseng-chang, Chang Chun-hsiung et Yu Ching — est devenu, presque intégralement et en moins de vingt ans, président, président de l'Exécutif ou maire de municipalité spéciale à Taïwan. Le procès méticuleusement orchestré par le KMT a, sans le vouloir, formé toute une génération d'élites politiques pour le mouvement d'opposition.
 
@@ -140,7 +140,7 @@ Freedom House attribue à Taïwan une note de 93 sur 100 en 2025, ce qui la plac
 
 Pourtant, des fissures subsistent derrière les chiffres :
 
-Durant la [[台灣白色恐怖|Terreur blanche]], on estime que entre 140 000 et 200 000 personnes ont subi des persécutions politiques, et 3 000 à 4 000 ont été exécutées. La justice transitionnelle n'est toujours pas achevée. L'article 9 de la Loi sur la sécurité nationale n'a été déclaré inconstitutionnel par les juges constitutionnels qu'en 2019, soit 32 ans après la levée de la loi martiale.
+Durant la [Terreur blanche](/fr/history/taiwan-white-terror/), on estime que entre 140 000 et 200 000 personnes ont subi des persécutions politiques, et 3 000 à 4 000 ont été exécutées. La justice transitionnelle n'est toujours pas achevée. L'article 9 de la Loi sur la sécurité nationale n'a été déclaré inconstitutionnel par les juges constitutionnels qu'en 2019, soit 32 ans après la levée de la loi martiale.
 
 La désinformation est le nouveau champ de bataille. Les élections locales de 2018 et l'élection présidentielle de 2020 ont été marquées par des campagnes massives de manipulation de l'information, dont de nombreuses sources pointent vers l'étranger. Le gouvernement chinois tente continuellement d'influencer la formation des politiques, les médias et les infrastructures démocratiques de Taïwan (selon le rapport 2025 de Freedom House).
 

@@ -89,7 +89,7 @@ The gray area of fact is here: Liu Ming-chuan indeed built Taiwan’s first rail
 
 One is a dreamer; the other is an executor. Who is the "Father" depends on whether you think "starting" is more important or "finishing" is more important. (From the context of the commentary by Jiang Bing-lun in [United Daily News Mingren Hall](https://opinion.udn.com/opinion/story/12705/4720975))
 
-> 📝 **Curatorial Perspective:** The dispute over the "Father of Railways" is, on the surface, historical research; underneath, it is the identity politics that Taiwanese society is always dealing with—whose legacy is "more ours": the Qing dynasty or the Japanese colonial era? This question appears not only in railways but also in [[日治時期|Japanese Colonial Architecture]], water conservancy facilities, and even medical systems.
+> 📝 **Curatorial Perspective:** The dispute over the "Father of Railways" is, on the surface, historical research; underneath, it is the identity politics that Taiwanese society is always dealing with—whose legacy is "more ours": the Qing dynasty or the Japanese colonial era? This question appears not only in railways but also in [Japanese Colonial Architecture](/en/history/japanese-colonial-era/), water conservancy facilities, and even medical systems.
 
 ## April 20, 1908: The Day at Taichung Park
 
@@ -211,7 +211,7 @@ This article uses 3 CC-licensed images, all cached in `public/article-images/his
 ## Further Reading
 
 - [Qing Dynasty Rule](/en/history/qing-dynasty-rule) — Political background of Liu Ming-chuan starting to lay tracks
-- [[日治時期|Japanese Colonial Era]](/history/日治時期) — Colonial government context of Hasegawa Kin-suke and Kawai Shitarao taking over Taiwan railway construction
+- [Japanese Colonial Era](/en/history/japanese-colonial-era/)(/history/日治時期) — Colonial government context of Hasegawa Kin-suke and Kawai Shitarao taking over Taiwan railway construction
 - [Sino-French War](/en/history/sino-french-war-in-taiwan) — Liu Ming-chuan was appointed as the first Governor-General of Taiwan due to this war, immediately initiating railway construction from Keelung to Hsinchu
 - [Taiwan Transportation System](/en/lifestyle/transportation-system) — The position of post-war railways in the diverse transportation network of highways, airports, and MRT
 - [Taiwan High-Speed Rail](/en/lifestyle/taiwan-high-speed-rail) — The high-speed railway system opened in 2007, the contemporary extension of Taiwan railway history

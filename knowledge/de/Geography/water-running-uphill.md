@@ -66,7 +66,7 @@ Zuletzt haben auch Kontroversen um die Landerschließung rund um "Wasser fließt
 
 Was das Auge als "horizontal" wahrnimmt, ist das Ergebnis einer Verhandlung zwischen Gehirn und Umgebung – und hat mit dem ursprünglichen Grund, warum dieser Kanal überhaupt gegraben wurde, eigentlich nichts zu tun.
 
-**Weiterführende Lektüre**: Landkreis Taitung (台東縣) · [[台灣原住民族16族文化地圖|Kulturkarte der 16 indigenen Völker Taiwans]] · [[台灣島嶼地理特色與形成|Geografische Besonderheiten und Entstehung der taiwanischen Insel]]
+**Weiterführende Lektüre**: Landkreis Taitung (台東縣) · [Kulturkarte der 16 indigenen Völker Taiwans](/de/culture/indigenous-peoples-16-tribes-cultural-map/) · [Geografische Besonderheiten und Entstehung der taiwanischen Insel](/de/geography/geography-and-geology/)
 
 ## Quellen
 

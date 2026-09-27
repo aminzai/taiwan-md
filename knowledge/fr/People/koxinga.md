@@ -39,7 +39,7 @@ L'homme qui menait cette armée s'appelait Fuso et ramassait des coquillages sur
 
 Le 27 août 1624, à Senrihama, sur l'île de Hirado dans la préfecture de Kyushu au Japon, une femme japonaise de la lignée Tagawa donna naissance à un fils sur les rochers du rivage. La légende raconte qu'elle, en ramassant des coquillages, fut prise de douleurs soudaines et accoucha sur place : ce rocher fut nommé plus tard le « Rocher de la Naissance » (_Erdan Shi_) et demeure aujourd'un site touristique de Hirado.
 
-Le père de l'enfant, Zheng Zhilong, était absent. Ce Chinois originaire de Nan'an, dans le Fujian, gérait alors son empire maritime : s'il se disait marchand, il était en réalité l'un des chefs du plus grand groupe de pirates d'Asie de l'Est. Il monopolisait les routes maritimes allant des côtes chinoises à Nagasaki au Japon ; même la Compagnie néerlandaise des Indes orientales avait subi une défaite cuisante face à lui lors de la [[台灣海洋貿易史|bataille de Liaoluo Bay]] en 1633.
+Le père de l'enfant, Zheng Zhilong, était absent. Ce Chinois originaire de Nan'an, dans le Fujian, gérait alors son empire maritime : s'il se disait marchand, il était en réalité l'un des chefs du plus grand groupe de pirates d'Asie de l'Est. Il monopolisait les routes maritimes allant des côtes chinoises à Nagasaki au Japon ; même la Compagnie néerlandaise des Indes orientales avait subi une défaite cuisante face à lui lors de la [bataille de Liaoluo Bay](/fr/history/taiwan-maritime-trade-history/) en 1633.
 
 Fuso passa sept ans d'une enfance insouciante à Hirado. En 1631, son père le ramena à Anping, dans le Fujian, et changea son nom en Zheng Sen. Un enfant ayant grandi au Japon fut soudainement plongé dans le système des examens impériaux chinois : il s'y adapta étonnamment bien. Il devint _xiucai_ (étudiant diplômé) en 1638 et intégra l'Académie Impériale de Nanjing en 1644, devenant le disciple du grand érudit de la région du Jiangzhe, Qian Qianyi. Pour encourager son élève, Qian Qianyi lui donna le nom de courtoisie « Damu ».
 
@@ -91,7 +91,7 @@ La motivation de Zheng Chenggong était pragmatique : le problème de la nourrit
 
 Le 23 mars 1661, la flotte de Zheng partit de Liaolowo, à Kinmen. Quatre cents voiliers transportant environ 25 000 soldats traversèrent le détroit de Taïwan par des chenaux peu profonds inconnus des Néerlandais, pour atteindre Tainan.
 
-La [[荷西明鄭時期|résistance néerlandaise]] fut bien plus tenace que prévu. Le jour du débarquement, après que les troupes de Zheng eurent utilisé les passages secrets, trois navires de guerre néerlandais interceptèrent la flotte : ils coulèrent plusieurs voiliers, mais le vaisseau amiral, l'_Hector_, explosa suite à l'inflammation de ses réserves de munitions et sombra, faisant perdre la maîtrise des mers aux Néerlandais.
+La [résistance néerlandaise](/fr/history/dutch-spanish-and-koxinga-era/) fut bien plus tenace que prévu. Le jour du débarquement, après que les troupes de Zheng eurent utilisé les passages secrets, trois navires de guerre néerlandais interceptèrent la flotte : ils coulèrent plusieurs voiliers, mais le vaisseau amiral, l'_Hector_, explosa suite à l'inflammation de ses réserves de munitions et sombra, faisant perdre la maîtrise des mers aux Néerlandais.
 
 La garnison de Fort Provint (Chihkan Tower) ne comptait que 140 hommes et capitula en quatre jours. Mais Fort Zeelandia était une autre affaire : cette forteresse européenne à plusieurs niveaux, défendue par 905 soldats néerlandais et dotée d'un important artillerie, résista. Les armures d'écailles et les armes blanches des troupes de Zheng payèrent un prix lourd face aux canons. Le siège dura neuf mois entiers.
 
@@ -103,13 +103,13 @@ Zheng Chenggong annonça la « fondation du pays et de la maison », créant le 
 
 Cependant, le territoire du « Royaume de Dongning » ne se limitait pas à Taïwan. Selon les recherches de _Taiwan Historical Archives_, le domaine des Zheng incluait initialement des îles comme Kinmen, Xiamen, Tongshan et Nan'ao dans le Fujian et le Guangdong ; Taïwan était une expansion du royaume et non son intégralité. Nominalement, il continuait à honorer l'ère de l'empereur Yongli de la dynastie Ming du Sud, utilisant le calendrier « Da Ming Zhongxing Yongli Datong Li » — ajoutant « Zhongxing » (Restauration) pour souligner sa volonté de restaurer la légitimité des Ming. Une copie de ce calendrier de 1677 est conservée à la bibliothèque Bodleian d'Oxford, témoignant des relations commerciales où la Compagnie britannique des Indes orientales fut invitée à établir un comptoir à Taïwan.
 
-Ce régime maritime centré sur Taïwan inaugura une période de vingt et un ans de règne pour la [[荷西明鄭時期|dynastie de Zheng]] (estimée à 21 ans par les historiens), jusqu'à sa destruction par les forces Qing en 1683.
+Ce régime maritime centré sur Taïwan inaugura une période de vingt et un ans de règne pour la [dynastie de Zheng](/fr/history/dutch-spanish-and-koxinga-era/) (estimée à 21 ans par les historiens), jusqu'à sa destruction par les forces Qing en 1683.
 
 ## La page omise : ceux qui étaient là
 
 Dans le récit du « Roi Saint de l'Ouverture de Taïwan », un groupe de personnes a presque totalement disparu.
 
-Lorsque les troupes de Zheng débarquèrent à Taïwan, des centaines de milliers d'[[台灣原住民族歷史與正名運動|autochtones]] habitaient l'île. Le régime de Zheng imposa le système _tuntian_, entraînant une vague d'immigration chinoise et une expropriation systématique des terres autochtones. Selon les archives néerlandaises et Qing, les pertes humaines causées par les campagnes contre les tribulations autochtones sont difficiles à quantifier précisément, mais plus de 2 200 autochtones périrent lors des conflits durant le siège.
+Lorsque les troupes de Zheng débarquèrent à Taïwan, des centaines de milliers d'[autochtones](/fr/history/indigenous-peoples-history-and-naming-movement/) habitaient l'île. Le régime de Zheng imposa le système _tuntian_, entraînant une vague d'immigration chinoise et une expropriation systématique des terres autochtones. Selon les archives néerlandaises et Qing, les pertes humaines causées par les campagnes contre les tribulations autochtones sont difficiles à quantifier précisément, mais plus de 2 200 autochtones périrent lors des conflits durant le siège.
 
 Zheng Chenggong est appelé celui qui « ouvrit Taïwan », mais pour les peuples autochtones, il fut le précurseur d'une longue histoire de dépossession. Cette contradiction n'est pas encore pleinement débattue — si le temple du Prince de Yiping à Tainan est très vénéré et que 63 temples dédiés au Roi Saint existent à Taïwan, le discours sur la violence coloniale de l'ère Zheng reste marginal.
 

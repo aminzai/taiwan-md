@@ -17,7 +17,7 @@ translatedAt: '2026-05-02T08:50:00+08:00'
 featured: false
 ---
 
-> **30-second overview:** In 1949, about 1.2 million soldiers and civilians retreated to Taiwan with the Nationalist government from mainland China, forming the demographic structure of mainlanders (waishengren) and ethnic Taiwanese (benshengren). Institutional inequality during martial law, layered with the collective trauma left by the [[二二八事件|February 28 Incident]], made provincial origin the most sensitive underlying logic in Taiwanese politics. After democratization, provincial tensions were repeatedly mobilized by politicians, until they were gradually diluted by "Taiwanese identity" after the millennium — but researchers say the tensions never disappeared, only changed form.
+> **30-second overview:** In 1949, about 1.2 million soldiers and civilians retreated to Taiwan with the Nationalist government from mainland China, forming the demographic structure of mainlanders (waishengren) and ethnic Taiwanese (benshengren). Institutional inequality during martial law, layered with the collective trauma left by the [February 28 Incident](/en/history/228-incident/), made provincial origin the most sensitive underlying logic in Taiwanese politics. After democratization, provincial tensions were repeatedly mobilized by politicians, until they were gradually diluted by "Taiwanese identity" after the millennium — but researchers say the tensions never disappeared, only changed form.
 
 ---
 
@@ -40,7 +40,7 @@ Rita's confusion is, in fact, a microcosm of seventy years of history compressed
 | Soldiers: about 500,000+                     | 12.2% mainlander in 1961                                   |
 | Civil servants and civilians: about 600,000+ | Mainlander share among senior government posts: far higher |
 
-In October 1949, the Chinese Civil War was decided. [[蔣中正|Chiang Kai-shek]] led the Republic of China government in retreat to Taiwan, bringing the largest population influx in Taiwanese history. Historian Lin Tung-fa estimates that between 1945 and 1952, the total number of soldiers and civilians arriving in Taiwan was about 1.2 million — of whom soldiers were roughly half, mostly single, dependentless men in chaotic retreat.
+In October 1949, the Chinese Civil War was decided. [Chiang Kai-shek](/en/people/chiang-kai-shek/) led the Republic of China government in retreat to Taiwan, bringing the largest population influx in Taiwanese history. Historian Lin Tung-fa estimates that between 1945 and 1952, the total number of soldiers and civilians arriving in Taiwan was about 1.2 million — of whom soldiers were roughly half, mostly single, dependentless men in chaotic retreat.
 
 These people came from every Chinese province: Jiangsu, Zhejiang, Hunan, Shandong, Guangdong… they didn't even know each other. Before this, on the mainland, a Jiangsu native had also seen a Zhejiang native as a "person from another province." But once in Taiwan, they all became "mainlanders" (waishengren), set against the "ethnic Taiwanese" (benshengren) who had settled in Taiwan before the war.
 
@@ -55,13 +55,13 @@ The transit stop turned into a lifetime.
 
 ## The Wound of February 28: The Original Sin of Provincial Tensions
 
-The [[二二八事件|February 28 Incident]] occurred in 1947, two years before that great migration. But it is the underlying color of everything that came after.
+The [February 28 Incident](/en/history/228-incident/) occurred in 1947, two years before that great migration. But it is the underlying color of everything that came after.
 
 On February 27, 1947, near the Tianma Tea House in Taipei, contraband-cigarette enforcement officers beat a female street vendor, Lin Chiang-mai, and shot dead the bystander Chen Wen-hsi (then 20 years old) on the spot. The next day, all of Taipei went on a citywide strike, and protests spread across the island. In early March, the Nationalist government brought in troops to suppress the uprising. Across Taiwan, ethnic Taiwanese elites, intellectuals, doctors, and lawyers were arrested and killed; the death toll is estimated to be over 10,000.
 
 That massacre burned provincial differences into collective trauma. What the bensheng remembered was that the army brought by the waisheng killed their fathers and brothers; what the waisheng were told was that the bensheng had rebelled. From then on, the two sides' historical memories split apart.
 
-More importantly: the government did not allow public discussion of it for forty years afterward. Under [[戒嚴時期|martial law]], "228" was a forbidden term. The wound was covered with a sealing bandage, but the wound did not heal — it festered in silence.
+More importantly: the government did not allow public discussion of it for forty years afterward. Under [martial law](/en/history/martial-law-era/), "228" was a forbidden term. The wound was covered with a sealing bandage, but the wound did not heal — it festered in silence.
 
 > **⚠️ Contested viewpoint**
 > The death toll of the February 28 Incident remains contested. The Executive Yuan's 1992 _Report on the February 28 Incident_ estimated 18,000 to 28,000; some scholars consider this number too high; others argue that, due to deaths extending into the White Terror's "village cleansing," it is even harder to estimate. Whatever the number, the nature and scale of the violence is a confirmed wound in Taiwan's history.
@@ -105,13 +105,13 @@ Taiwan now has only 13 designated juancun cultural preservation areas; Sisinan V
 
 ## Political Mobilization: The Birth of the Provincial Card
 
-There is a paradox in [[台灣民主轉型|Taiwan's democratic transition]]: democratization let suppressed voices come to the surface, but the same process turned provincial tensions from private resentment into a public electoral weapon.
+There is a paradox in [Taiwan's democratic transition](/en/history/taiwan-democratization/): democratization let suppressed voices come to the surface, but the same process turned provincial tensions from private resentment into a public electoral weapon.
 
 Research by Academia Sinica's Wang Fu-chang shows that in the 1970s, Chiang Ching-kuo began recruiting young ethnic Taiwanese politicians. This move was meant as opening, but unexpectedly triggered a "sense of crisis" among the mainlander political elite: mainlanders made up only 12% of Taiwan's population, and once democratization came, losing political dominance would be inevitable.
 
 This sense of crisis, in turn, sharpened the ethnic consciousness of bensheng. "An important reason Taiwan's democratization was able to advance was that ethnic politics, which had been very subtle, came to the surface as a confrontation," Wang told BBC Chinese.
 
-[[李登輝|Lee Teng-hui]] is the most complex figure of this period. He was bensheng, yet rose step by step within the KMT system, eventually becoming Taiwan's first bensheng president (1988). His emergence was both a symbol of bensheng political ascendancy and what extended provincial tensions from internal party conflict to the streets. Mainlander politicians formed the New Party (1993), centered on Taipei City, and stirred up a whirlwind by appealing to the "mainlander sense of crisis" to mobilize voters.
+[Lee Teng-hui](/en/people/lee-teng-hui/) is the most complex figure of this period. He was bensheng, yet rose step by step within the KMT system, eventually becoming Taiwan's first bensheng president (1988). His emergence was both a symbol of bensheng political ascendancy and what extended provincial tensions from internal party conflict to the streets. Mainlander politicians formed the New Party (1993), centered on Taipei City, and stirred up a whirlwind by appealing to the "mainlander sense of crisis" to mobilize voters.
 
 At the same time, the DPP was no slouch either. The slogan "Taiwanese vote for Taiwanese" turned provincial identity directly into electoral logic. Bensheng made up about 70% of Taiwan's population, and in the math of democratic elections, that chip was too tempting.
 

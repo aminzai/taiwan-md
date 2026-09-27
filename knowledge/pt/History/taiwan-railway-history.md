@@ -86,7 +86,7 @@ A área cinzenta dos fatos está aqui: Liu Mingchuan de fato construiu a primeir
 
 Um é o sonhador, o outro é o executor. Quem é o "pai", depende de você achar que "começar" é mais importante, ou "terminar" é mais importante. (Baseado no contexto argumentativo do [comentário de Jiang Binglun no Mingrentang do United Daily News](https://opinion.udn.com/opinion/story/12705/4720975))
 
-> 📝 **Ponto de vista curatorial:** A disputa do "pai das ferrovias" é aparentemente uma questão de pesquisa histórica, mas por baixo está a política de identidade que a sociedade de Taiwan sempre lida — o legado da dinastia Qing e o legado do período colonial japonês, qual deles é "mais nosso"? Essa questão não aparece apenas nas ferrovias, mas também na [[日治時期|arquitetura do período colonial japonês]], em instalações hidráulicas e até no sistema médico.
+> 📝 **Ponto de vista curatorial:** A disputa do "pai das ferrovias" é aparentemente uma questão de pesquisa histórica, mas por baixo está a política de identidade que a sociedade de Taiwan sempre lida — o legado da dinastia Qing e o legado do período colonial japonês, qual deles é "mais nosso"? Essa questão não aparece apenas nas ferrovias, mas também na [arquitetura do período colonial japonês](/pt/history/japanese-colonial-era/), em instalações hidráulicas e até no sistema médico.
 
 ## 1908: Aquele dia no Parque de Taichung
 

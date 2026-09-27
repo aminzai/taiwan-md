@@ -39,7 +39,7 @@ Am 12. März 1867 geriet das amerikanische Handelsschiff _Rover_ auf hoher See a
 
 Vierzehn Menschen wurden getötet. Nur ein Wasserbewohner aus Guangdong entkam und brachte die Nachricht nach Dagou.
 
-Die Nachricht erreichte Xiamen. Der amerikanische Konsul Charles W. Le Gendre reiste sofort nach Norden nach Fuzhou, um mit dem Gouverneur von Minzhè zu verhandeln. Die Haltung der [[清治時期|Qing-Regierung]] war eindeutig: es sei ein Gebiet „wilder Barbaren“ und unterliege keiner Zuständigkeit[^2]. Auch die US-Marine versuchte militärisch einzugreifen: Die USS Hartford sandte 181 Mann aus, die von den Paiwan abgewehrt wurden; der Kommandant Alexander MacKenzie wurde getroffen und starb[^3].
+Die Nachricht erreichte Xiamen. Der amerikanische Konsul Charles W. Le Gendre reiste sofort nach Norden nach Fuzhou, um mit dem Gouverneur von Minzhè zu verhandeln. Die Haltung der [Qing-Regierung](/de/history/qing-dynasty-rule/) war eindeutig: es sei ein Gebiet „wilder Barbaren“ und unterliege keiner Zuständigkeit[^2]. Auch die US-Marine versuchte militärisch einzugreifen: Die USS Hartford sandte 181 Mann aus, die von den Paiwan abgewehrt wurden; der Kommandant Alexander MacKenzie wurde getroffen und starb[^3].
 
 Die Marine konnte das Gebiet nicht erobern, und die Regierung wollte sich nicht einmischen. Le Gendre beschloss, selbst zu gehen.
 

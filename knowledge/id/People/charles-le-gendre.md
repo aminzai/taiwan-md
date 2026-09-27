@@ -39,7 +39,7 @@ Pada 12 Maret 1867, kapal dagang AS Rover (羅發號) berlayar dari Shantou menu
 
 14 orang dibunuh. Hanya seorang pelaut asal Guangdong yang melarikan diri, membawa berita ke Takau (打狗).
 
-Berita sampai ke Xiamen. Konsul AS di Xiamen, Charles Le Gendre, segera bergerak utara ke Fuzhou menemui Gubernur Jenderal Min-Zhe untuk berunding. Sikap [[清治時期|pemerintah Qing]] sangat jelas: itu adalah wilayah "shengfan" (生番), tidak di bawah yurisdiksi[^2]. Angkatan Laut AS juga mencoba intervensi militer: USS Hartford mengirim 181 personelendarat, dikalahkan oleh suku Paiwan, komandan Alexander MacKenzie tertembak mati[^3].
+Berita sampai ke Xiamen. Konsul AS di Xiamen, Charles Le Gendre, segera bergerak utara ke Fuzhou menemui Gubernur Jenderal Min-Zhe untuk berunding. Sikap [pemerintah Qing](/id/history/qing-dynasty-rule/) sangat jelas: itu adalah wilayah "shengfan" (生番), tidak di bawah yurisdiksi[^2]. Angkatan Laut AS juga mencoba intervensi militer: USS Hartford mengirim 181 personelendarat, dikalahkan oleh suku Paiwan, komandan Alexander MacKenzie tertembak mati[^3].
 
 Kapal perang tidak bisa menaklukkan, pemerintah tidak mau campur tangan. Le Gendre memutuskan pergi sendiri.
 
@@ -60,7 +60,7 @@ September 1867, Le Gendre dibiringi juru bahasa William A. Pickering (必麒麟)
 Apa yang dibicarakan kedua orang itu? Memorandum formal 28 Februari 1869 mencatat tiga ketentuan konkret: awak kapal asing yang tenggelam naik darat harus mengibarkan bendera merah menunjukkan identitas; pendaratan hanya di lokasi yang ditentukan; dilarang memasuki desa komunitas pegunungan[^7].
 
 > **📝 Catatan Kurator**
-> Keistimewaan Perjanjian Eluanbi tidak ada pada ketentuannya, melainkan pada para penandatangan: satu sisi konsul AS, sisi lain [[台灣原住民族歷史與正名運動|suku Paiwan]] Kepala Tertinggi Delapan Belas Komunitas. Pemerintah Qing sama sekali tidak hadir. Ini mungkin adalah memorandum tertulis pertama dalam sejarah Taiwan yang ditandatangani langsung oleh pemimpin orang asli setempat dengan wakil asing. Artinya: di pinggiran kekaisaran, orang asli bukan objek pasif, melainkan subjek yang mampu berunding.
+> Keistimewaan Perjanjian Eluanbi tidak ada pada ketentuannya, melainkan pada para penandatangan: satu sisi konsul AS, sisi lain [suku Paiwan](/id/history/indigenous-peoples-history-and-naming-movement/) Kepala Tertinggi Delapan Belas Komunitas. Pemerintah Qing sama sekali tidak hadir. Ini mungkin adalah memorandum tertulis pertama dalam sejarah Taiwan yang ditandatangani langsung oleh pemimpin orang asli setempat dengan wakil asing. Artinya: di pinggiran kekaisaran, orang asli bukan objek pasif, melainkan subjek yang mampu berunding.
 
 Dari Mei 1867 hingga Mei 1872, Le Gendre minimal delapan kali mengunjungi Taiwan[^8]. Setiap kali ia mencatat catatan, menggambar peta, mengumpulkan intelijen. Ia memposisikan dirinya sebagai "ahli Taiwan" di lingkaran diplomasi Eropa-Amerika.
 
@@ -107,7 +107,7 @@ Le Gendre dalam drama adalah salah satu tokoh inti. Tapi lebih penting: Tokitok 
 
 1875 Le Gendre meninggalkan Jepang. 1890 ia tiba di Korea, jadi penasihat diplomatik Kaisar Gojong. 1 September 1899, ia meninggal dunia di Seoul karena stroke, usia 69 tahun[^22].
 
-Hidupnya melintasi panggung diplomasi tiga kekaisaran: AS, Jepang, Korea. Tapi enam tahun terpentingnya di Formosa. Ia dan [[史溫侯|Robert Swinhoe]] orang era yang sama, keduanya di 1860-an meninggalkan catatan tak terhapuskan di Taiwan, tapi motivasi beda total: satu untuk sains, satu untuk kekuasaan.
+Hidupnya melintasi panggung diplomasi tiga kekaisaran: AS, Jepang, Korea. Tapi enam tahun terpentingnya di Formosa. Ia dan [Robert Swinhoe](/id/people/robert-swinhoe-naturalist/) orang era yang sama, keduanya di 1860-an meninggalkan catatan tak terhapuskan di Taiwan, tapi motivasi beda total: satu untuk sains, satu untuk kekuasaan.
 
 ---
 

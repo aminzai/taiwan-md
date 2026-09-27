@@ -60,7 +60,7 @@ Seit vierhundert Jahren heißt es auf internationalen Karten: „Formosa“. Doc
 
 ## Schon vor tausend Jahren bewohnt
 
-Bevor irgendein Europäer die Insel betrat, lebten Menschen dort seit mindestens sechs Jahrtausenden. [[史前時代與原住民|Dabenkeng-Kultur]] (ca. 5.000–4.500 v. Chr.) ist die früheste bekannte neolithische Kultur Taiwans und eng mit der Verbreitung der Austronesisch-Sprachen verbunden[^9]。Sprachwissenschaftliche und genetische Studien deuten darauf hin, dass Taiwan möglicherweise der Ursprung der gesamten Austronesisch-Sprachfamilie ist – eine Familie, die heute über vierhundert Millionen Menschen umfasst und sich über den Pazifik- und Indischen Ozean erstreckt.
+Bevor irgendein Europäer die Insel betrat, lebten Menschen dort seit mindestens sechs Jahrtausenden. [Dabenkeng-Kultur](/de/history/prehistoric-era-and-indigenous-peoples/) (ca. 5.000–4.500 v. Chr.) ist die früheste bekannte neolithische Kultur Taiwans und eng mit der Verbreitung der Austronesisch-Sprachen verbunden[^9]。Sprachwissenschaftliche und genetische Studien deuten darauf hin, dass Taiwan möglicherweise der Ursprung der gesamten Austronesisch-Sprachfamilie ist – eine Familie, die heute über vierhundert Millionen Menschen umfasst und sich über den Pazifik- und Indischen Ozean erstreckt.
 
 Chinesische Texte erwähnen Taiwan früher als die europäischen, aber sie sind ebenso vage. Ob die „Yizhou“ im _Sanguozhi_ (Drei-Reiche-Zeit) oder „Liuyou“ im _Suishu_ (Sui-Dynastie) Taiwan bezeichnen, ist bis heute umstritten[^10]。
 
@@ -68,7 +68,7 @@ Chinesische Texte erwähnen Taiwan früher als die europäischen, aber sie sind 
 
 ## Die ersten Europäer, die die Insel wirklich betraten
 
-1624 gründete die Niederländische Ostindien-Gesellschaft (VOC) in Südtaiwan, in Tamsui (heute Anping), die Festung Fort Zeelandia und begann eine 38-jährige Kolonialherrschaft[[荷西明鄭時期|Niederländisch-Französische Periode]][^11]。
+1624 gründete die Niederländische Ostindien-Gesellschaft (VOC) in Südtaiwan, in Tamsui (heute Anping), die Festung Fort Zeelandia und begann eine 38-jährige Kolonialherrschaft[Niederländisch-Französische Periode](/de/history/dutch-spanish-and-koxinga-era/)[^11]。
 
 Der niederländische Missionar Georg Candidius schrieb 1628 die erste systematische ethnographische Studie Taiwans. Er beschrieb die Syrak-Männer (Shi-Men), ihre Rituale, ihre Vorstellungen vom Seelenleben und ihre Zeremonien[^12]。Im Gegensatz zu Psalmansazer, handelte es sich um einen echten Menschen, der in einem Dorf lebte.
 
@@ -78,7 +78,7 @@ Der niederländische Missionar Georg Candidius schrieb 1628 die erste systematis
 
 Ab 1856 trat ein neues Kapitel ein. Es gab weniger fragmentarische Berichte von Missionaren und Händlern, sondern systematische wissenschaftliche Forschung und diplomatische Berichte.
 
-Zuerst war [[史溫侯|James Davidson]]. Er war britischer Konsul in Taiwan und schrieb in vier Jahren 52 wissenschaftliche Aufsätze, in denen er 227 Vogelarten dokumentierte. Er sah die Welt durch die Linse der Biologie.
+Zuerst war [James Davidson](/de/people/robert-swinhoe-naturalist/). Er war britischer Konsul in Taiwan und schrieb in vier Jahren 52 wissenschaftliche Aufsätze, in denen er 227 Vogelarten dokumentierte. Er sah die Welt durch die Linse der Biologie.
 
 Dann kam [Lee Ch’i-ming](/de/people/charles-le-gendre/). Er war amerikanischer Konsul in Xiamen und besuchte Taiwan achtmal. Seine Manuskripte umfassen 1.600 Seiten. Er sah die Insel durch die Linse der Politik.
 

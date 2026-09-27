@@ -58,7 +58,7 @@ SYM thành lập năm 1954 ban đầu chuyên làm phụ kiện xe đạp điệ
 
 Bốn thập kỷ sau đây là cuộc cách mạng xuất khẩu của ngành công nghiệp chế tạo Đài Loan, xếp hạng trên các cuốn sách giáo trình.
 
-Mối quan hệ giữa SYM và Honda kéo dài hơn 40 năm, đến năm 2002 cả hai phái khác nhau vì SYM bắt đầu cạnh tranh trực tiếp với Honda trên thị trường quốc tế. Sau khi tách rời, SYM hợp tác với Hyundai, trong khi KYMCO chọn con đường hơn nữa táo bạo: vào thập niên 2000, trở thành [[台灣中小企業與隱形冠軍|nhà sản xuất xe máy lớn nhất Đài Loan]], xuất khẩu hàng triệu xe đến châu Âu, Đông Nam Á, Trung Quốc, đứng thứ 5 trên thế giới. BMW thậm chí hợp tác cung cấp động cơ cho xe khám nghiệm G450X và động cơ thêm năng lượng cho xe điện BMW i3.
+Mối quan hệ giữa SYM và Honda kéo dài hơn 40 năm, đến năm 2002 cả hai phái khác nhau vì SYM bắt đầu cạnh tranh trực tiếp với Honda trên thị trường quốc tế. Sau khi tách rời, SYM hợp tác với Hyundai, trong khi KYMCO chọn con đường hơn nữa táo bạo: vào thập niên 2000, trở thành [nhà sản xuất xe máy lớn nhất Đài Loan](/vi/economy/taiwan-smes-and-hidden-champions/), xuất khẩu hàng triệu xe đến châu Âu, Đông Nam Á, Trung Quốc, đứng thứ 5 trên thế giới. BMW thậm chí hợp tác cung cấp động cơ cho xe khám nghiệm G450X và động cơ thêm năng lượng cho xe điện BMW i3.
 
 Từ phụ trợ thành hãng riêng, từ giao thông nội thành đến xuất khẩu toàn cầu, sự bùng nổ của ngành xe máy Đài Loan không phải nhờ niềm đam mê, mà là nhờ khả năng sản xuất được ép ra từ thị trường nội địa khổng lồ.
 
@@ -106,7 +106,7 @@ Thực tế là: vào năm 2025, trong tổng số 700.000 chiếc xe máy mới
 
 ## Người bạn hàng xóm trong tiệm sửa xe máy
 
-Hầu hết các góc phố ở Đài Loan đều có một tiệm sửa xe máy. Những tiệm này không chỉ là nơi sửa chữa — trong thời kỳ chưa có [[台灣便利商店文化|tiệm bán lẻ tiện lợi]] — tiệm sửa xe máy là trung tâm giao lưu cộng đồng, nơi chia sẻ tin tức, đôi khi còn là chỗ trỪ kẹp trẻ mẹ đi làm.
+Hầu hết các góc phố ở Đài Loan đều có một tiệm sửa xe máy. Những tiệm này không chỉ là nơi sửa chữa — trong thời kỳ chưa có [tiệm bán lẻ tiện lợi](/vi/lifestyle/convenience-store-culture/) — tiệm sửa xe máy là trung tâm giao lưu cộng đồng, nơi chia sẻ tin tức, đôi khi còn là chỗ trỪ kẹp trẻ mẹ đi làm.
 
 Hầu hết các tiệm này do một người hoặc một cặp vợ chồng kinh doanh, dựa vào doanh thu bảo dưỡng xe xăng. Chuyển đổi sang xe điện có tác động trực tiếp: xe máy điện gần như không cần bảo dưỡng truyền thống, không có dầu nhớt, không có cuộn thởi, không có dây truyền động. Một chiếc Gogoro được bảo dưỡng tại trung tâm xuất nhập khẩu ít hơn một chiếc KYMCO GP 125.
 

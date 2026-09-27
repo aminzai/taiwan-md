@@ -51,7 +51,7 @@ Câu chuyện phải bắt đầu từ bốn tháng trước đó.
 
 Ngày 17 tháng 4 năm 1895, Lý Hùng Chương ký "Hiệp ước Bình Quan" với Nhật Bản ở thành phố Hạ Quan, vĩnh viễn nhượng Đài Loan và Bành Hồ cho Nhật Bản[^3]. Tin tức này được truyền về Bắc Kinh, đầu não là chơi vơi. Khi truyền đến Đài Loan, thực sự là hoảng loạn.
 
-[[清治時期|Triều Thanh]] đã cai trị Đài Loan trong hơn hai trăm năm. Mười năm trước, Lưu Minh Truyền mới nâng nó lên thành một tỉnh, xây dựng đường sắt, lắp đặt điện báo. Bây giờ, một tờ hiệp ước chỉ cần nhượng lấy tất cả cái này cho đi rồi.
+[Triều Thanh](/vi/history/qing-dynasty-rule/) đã cai trị Đài Loan trong hơn hai trăm năm. Mười năm trước, Lưu Minh Truyền mới nâng nó lên thành một tỉnh, xây dựng đường sắt, lắp đặt điện báo. Bây giờ, một tờ hiệp ước chỉ cần nhượng lấy tất cả cái này cho đi rồi.
 
 Bá Dực Đài Loan Đường Cảnh Tuyển từng gửi thư phản đối nhượng lệnh trước khi hiệp ước được ký. Nhà cử nhân Khâu Phùng Giáp là người Đài ở Kinh cũng kêu gọi bạn bè ký tên phản đối. Nhưng triều Thanh đã quyết định rồi[^4]. Khâu Phùng Giáp viết ra những dòng thơ được sử dụng lặp lại sau này: "Tướng tương hữu quyền năng cắt địa, cô thần vô lực khả hồi thiên."
 
@@ -76,7 +76,7 @@ Giữa tình hỗn loạn, quân lính và dân quân cướp phá, phóng hỏa
 
 Quách Hiển Vinh là "gián điệp" hay là "chủ nghĩa thực dụng"? Cuộc tranh cãi này kéo dài cả một trăm ba mươi năm. Logic của anh ta rất đơn giản: thành phố đã bị cướp phá rồi, nếu không để quân Nhật vào, những gì bị phá hủy là tài sản và tính mạng của những cư dân Đài Bắc. Nhưng anh ta sau này trở thành một trong những người Đài Loan quyền lực nhất thời kỳ Nhật trị, gia tộc Quách Lộc Hương từ đó mà nổi lên[^13].
 
-Ngày 17 tháng 6, Nhật Bản tổ chức "Lễ khai trị" ở Đài Bắc, Tổng Độc Phủ Đài Loan chính thức hoạt động. [[日治時期|Thời kỳ Nhật trị]] bắt đầu.
+Ngày 17 tháng 6, Nhật Bản tổ chức "Lễ khai trị" ở Đài Bắc, Tổng Độc Phủ Đài Loan chính thức hoạt động. [Thời kỳ Nhật trị](/vi/history/japanese-colonial-era/) bắt đầu.
 
 ## Cuộc chiến trong núi
 

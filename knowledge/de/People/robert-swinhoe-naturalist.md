@@ -90,7 +90,7 @@ Die Schuppenpanzer-Schildkröte (_Rafetus swinhoei_) hat ein anderes Schicksal. 
 
 ## Ein Nebeneffekt der Diplomatie
 
-Swinhoe hinterließ Taiwan nicht nur mit Exkavaten. 1862 schrieb er einen _Bericht über den taiwanesischen Außenhandel im Jahr 1862_, in dem er das Exportpotenzial von taiwanesischem Tee analysierte [^16]. Dieser Bericht lockte indirekt den schottischen Kaufmann John Dodd nach Taiwan. Dodd brachte 1869 Tee-Setzlinge aus Anxi zum ersten Mal mit 2.131 Tang taiwanesischen Oolong-Tee direkt nach New York – unter der Marke „Choicest Formosa Oolong Tea“ – ein Meilenstein im [[茶文化|Export der taiwanesischen Teekultur]], begonnen mit einem Naturforscher-Bericht.
+Swinhoe hinterließ Taiwan nicht nur mit Exkavaten. 1862 schrieb er einen _Bericht über den taiwanesischen Außenhandel im Jahr 1862_, in dem er das Exportpotenzial von taiwanesischem Tee analysierte [^16]. Dieser Bericht lockte indirekt den schottischen Kaufmann John Dodd nach Taiwan. Dodd brachte 1869 Tee-Setzlinge aus Anxi zum ersten Mal mit 2.131 Tang taiwanesischen Oolong-Tee direkt nach New York – unter der Marke „Choicest Formosa Oolong Tea“ – ein Meilenstein im [Export der taiwanesischen Teekultur](/de/food/golden-age-echoes-taiwan-tea-culture/), begonnen mit einem Naturforscher-Bericht.
 
 1864 veröffentlichte er zwei kurze Artikel in _Scientific American_: einen über taiwanesischen Kautionsharz und einen über Tintenpapier [^17]. Der Kautionshandel löste 1868 einen internationalen Handelsstreit aus: Die britische Firma Jardine Matheson Schmuggel-Kautionsharz wurde von den Qing-Behörden beschlagnahmt, Swinhoe kehrte kurzfristig zurück, um die Angelegenheit zu regeln, und unterzeichnete schließlich das Kautionsprotokoll zur Beendigung des Monopols.
 

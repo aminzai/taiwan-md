@@ -25,7 +25,7 @@ translatedAt: '2026-09-18T21:56:25.099079+00:00'
 ---
 
 **Tóm tắt 30 giây:** Đài Loan có hơn 1,1 triệu tình nguyện viên đăng ký, mỗi năm đóng góp hơn 120 triệu giờ dịch vụ vô償. Từ Từ Trí khởi đầu bằng 30 bà nội trợ tại Hoa Liên Tịnh Xá tiết kiệm năm xu mỗi ngày, đến gần 9.000 trạm tái chế môi trường trên toàn Đài Loan, các mẹ kể chuyện ở trường học, các đội phân phát bữa ăn cho người cao tuổi trong cộng đồng——tình nguyện viên không phải là 「đạo đức」 của Đài Loan, mà là 「cơ sở hạ tầng」 của Đài Loan.
-(Về mô hình động viên tình nguyện viên cứu nạn, xem 〈[[台灣災難志工文化|Siêu nhân xẻng và sự đồng thời của đảo]]〉)
+(Về mô hình động viên tình nguyện viên cứu nạn, xem 〈[Siêu nhân xẻng và sự đồng thời của đảo](/vi/society/taiwan-disaster-volunteer-culture/)〉)
 
 ## Điểm khởi đầu từ năm xu tiền
 
