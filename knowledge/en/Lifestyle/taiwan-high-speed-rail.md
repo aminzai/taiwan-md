@@ -66,7 +66,7 @@ Therefore, the final operating train, the 700T series, was not simply an unmodif
 
 _Image: Mersh, [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:THSR_700T_train_at_THSR_Tainan_Station_20120726.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/deed.en). Image unaltered._
 
-## Safety Engineered After the 19921 Earthquake
+## Safety Engineered After the 921 Earthquake
 
 After signing the contract in 1998, the project did not proceed in a straight line. The 1999 Chi-Chi (921) earthquake forced a review of civil engineering contracts. Official THSRC histories record that the first civil engineering contract was issued in March 2000, with construction beginning in August of the same year. This delay was not merely an anecdote but a concrete moment when Taiwan had to readjust its design between high speed and high seismic risk.[^4]
 

@@ -36,7 +36,7 @@ translatedAt: '2026-09-23T11:48:02+08:00'
 
 # Wei Zong-cheng: Die Dämonen von Sanxia in Ximending gezeichnet, Mazu entkommt dem Comicrahmen
 
-> **30-Sekunden-Zusammenfassung:** Im Jahr 2009 wurde Wei Zong-cheng mit dem politischen Satire-Comic „Ma Huang Jiang Lin“ zum professionellen Zeichner. Mit „Ming Zhan Lu“, das 2010 erschien, wurden die Nachbeben des Erdbebens von 1992 in Taiwan, die Straßenbilder von Ximending, verschiedene daoistische Schulen und Mazu Lin Mo-niang in eine Jugendabenteuergeschichte integriert. Viele sehen dies als Erfolg der „lokalen Elemente“, aber Wei Zong-chens eigene Aussage ist alltäglicher: Er zeichnete Märkte, Busse und Sorgen beim Schulweg; Taiwan wurde nicht als aufgeklebtes Etikett verwendet, sondern wuchs aus dem Leben selbst heraus.
+> **30-Sekunden-Zusammenfassung:** Im Jahr 2009 wurde Wei Zong-cheng mit dem politischen Satire-Comic „Ma Huang Jiang Lin“ zum professionellen Zeichner. Mit „Ming Zhan Lu“, das 2010 erschien, wurden die Nachbeben des Erdbebens von 1999 in Taiwan, die Straßenbilder von Ximending, verschiedene daoistische Schulen und Mazu Lin Mo-niang in eine Jugendabenteuergeschichte integriert. Viele sehen dies als Erfolg der „lokalen Elemente“, aber Wei Zong-chens eigene Aussage ist alltäglicher: Er zeichnete Märkte, Busse und Sorgen beim Schulweg; Taiwan wurde nicht als aufgeklebtes Etikett verwendet, sondern wuchs aus dem Leben selbst heraus.
 
 ![Skulptur der Mazu von Meizhou Island in Putian, Fujian, als freie Lizenzillustration für den Kontext des Volksglaubens in „Ming Zhan Lu“](https://commons.wikimedia.org/wiki/Special:FilePath/Mazu.jpg)
 
@@ -99,7 +99,7 @@ Seine Zusammenarbeit mit Future Digital war besonders wichtig. Berichten zufolge
 
 ## „Ming Zhan Lu“: Gottheiten in einem lebbaren Netzwerk
 
-„Ming Zhan Lu“ läuft seit 2010. Die Geschichte spielt nach dem Erdbeben von 1992, als sich auf der Insel Taiwan paranormales Geschehen vermehrt und die Polizei eine „Black Day Task Force“ einrichtet, um Vorfälle mit Daoisten zu bearbeiten. Das Werk behandelt den Volksglauben nicht als mystischen Filter, sondern lässt Menschen, Götter, Geister und Dämonen miteinander in Beziehung stehen. [^2]
+„Ming Zhan Lu“ läuft seit 2010. Die Geschichte spielt nach dem Erdbeben von 1999, als sich auf der Insel Taiwan paranormales Geschehen vermehrt und die Polizei eine „Black Day Task Force“ einrichtet, um Vorfälle mit Daoisten zu bearbeiten. Das Werk behandelt den Volksglauben nicht als mystischen Filter, sondern lässt Menschen, Götter, Geister und Dämonen miteinander in Beziehung stehen. [^2]
 
 Wei Zong-cheng stellte sich anfangs eine Gruppe enthusiastischer Jugendlicher vor, die Abenteuer erleben; erst der Redakteur Han Jingyue schlug Lin Mo-niang hinzu, was Mazu zu einer wichtigen Figur machte. Die Tischgespräche von Openbook berichten, dass Han Jingyue glaubte, der Ursprung des Comics sei die Figur selbst, und Lin Mo-niang habe zuerst Leser angezogen und durch die Schöpfung Anerkennung aufgebaut. [^6]
 

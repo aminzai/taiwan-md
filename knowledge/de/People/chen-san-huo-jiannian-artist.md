@@ -1,6 +1,6 @@
 ---
 title: 'Chen San-huo: Gebrochene Vasen an das Schicksal übergeben, um die Dachdekoration am Tempel zum Leben zu erwecken'
-description: 'Nach dem Erdbeben von 1992 sammelte der Künstler Chen San-huo (陳三火) in Tainan Scherben einer Vase und entwickelte sich vom Lehrling für Tempelrestaurierung zum „Dachkünstler“, der aus Abfallkeramik kreiert. Er formte die Tradition neu, indem er die Brüche, Zufälle und recycelten Materialien anstelle der ursprünglichen Form nutzte.'
+description: 'Nach dem Erdbeben von 1999 sammelte der Künstler Chen San-huo (陳三火) in Tainan Scherben einer Vase und entwickelte sich vom Lehrling für Tempelrestaurierung zum „Dachkünstler“, der aus Abfallkeramik kreiert. Er formte die Tradition neu, indem er die Brüche, Zufälle und recycelten Materialien anstelle der ursprünglichen Form nutzte.'
 date: 2026-08-19
 subcategory: '藝術與設計'
 category: 'People'
@@ -24,9 +24,9 @@ sourceBodyHash: 'sha256:7efe5656906a3904'
 translatedAt: '2026-09-14T14:50:08+08:00'
 ---
 
-> **30-Sekunden-Zusammenfassung:** Ursprünglich war Chen San-huo ein Lehrling für die Keramikdekoration, der in Tempeln lebte. 2002, nach dem Erdbeben von 1992, fand er beim Restaurieren des Tzu Chi Tempels in Fengyuan eine weggeworfene Scherbe und schuf so zufällig einen Damm. Später machte er „Formfindung durch Zerschlagen“ zu seiner Methode. Dieser Wendepunkt gleicht einem handwerklichen Paradoxon: Um die Jiannian-Kunst zu bewahren, darf man sie nicht nur perfekt kopieren; manchmal muss man sie erst verändern.
+> **30-Sekunden-Zusammenfassung:** Ursprünglich war Chen San-huo ein Lehrling für die Keramikdekoration, der in Tempeln lebte. 2002, nach dem Erdbeben von 1999, fand er beim Restaurieren des Tzu Chi Tempels in Fengyuan eine weggeworfene Scherbe und schuf so zufällig einen Damm. Später machte er „Formfindung durch Zerschlagen“ zu seiner Methode. Dieser Wendepunkt gleicht einem handwerklichen Paradoxon: Um die Jiannian-Kunst zu bewahren, darf man sie nicht nur perfekt kopieren; manchmal muss man sie erst verändern.
 
-Im Jahr 2002 wurde der Tzu Chi Tempel in Fengyuan nach dem Erdbeben von 1992 restauriert. Chen San-huo (陳三火) aus Ma Dou, Tainan, fand beim Bauplatz eine vom Tempel weggeworfene Scherbe und setzte daraus einen Damm zusammen. Dieses Werk wurde nicht mit einem vorgezeichneten Umriss begonnen, sondern begann mit den Fragmenten nach dem Bruch. Dieser Zufall wurde später zu seiner charakteristischsten Schaffensweise.[^1]
+Im Jahr 2002 wurde der Tzu Chi Tempel in Fengyuan nach dem Erdbeben von 1999 restauriert. Chen San-huo (陳三火) aus Ma Dou, Tainan, fand beim Bauplatz eine vom Tempel weggeworfene Scherbe und setzte daraus einen Damm zusammen. Dieses Werk wurde nicht mit einem vorgezeichneten Umriss begonnen, sondern begann mit den Fragmenten nach dem Bruch. Dieser Zufall wurde später zu seiner charakteristischsten Schaffensweise.[^1]
 
 Später nannte er diese Methode „Formfindung durch Zerschlagen“ (以摃代剪): Er schlug alte Vasen, Weinflaschen oder Töpfe und fand dann die Formen von Figuren, Falten oder Tieren entlang der Kurven und Texturen der Scherben. Die Jiannian-Kunst wandelte sich somit von einer Dekoration auf dem Tempeldach zu einer dreidimensionalen Kunstform, die den Materialbruch bewahrt.[^2] Dies ist keine Täuschung, bei der Abfall als neues Material getarnt wird, sondern eine Gestaltung, bei der Risse Teil der Komposition sind.
 

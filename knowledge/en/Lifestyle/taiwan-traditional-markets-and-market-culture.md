@@ -89,7 +89,7 @@ In _Reporter_'s photographic report on Jianuo Market, the market was described a
 
 Jianuo Market in Taichung was built in 1972, originally planned to house residents and temporary vendors near Lǜchuān (綠川). The first and second floors are the market, the third and fourth floors are residences, and the basement is parking; this mix of market and housing made vendors and residents both colleagues and neighbors.[^8]
 
-This spatial arrangement brought convenience but also left behind long-term management and safety costs. After the 1992 earthquake, cracks and leaks appeared in the building, leading some residents to gradually move out. When the market was relocated due to urban planning around the train station, vendors could move to a new location, but the people who originally lived above the market did not have the same housing options.[^3] [^8]
+This spatial arrangement brought convenience but also left behind long-term management and safety costs. After the 921 earthquake, cracks and leaks appeared in the building, leading some residents to gradually move out. When the market was relocated due to urban planning around the train station, vendors could move to a new location, but the people who originally lived above the market did not have the same housing options.[^3] [^8]
 
 What is hardest to move is often not the stall sign, but the relationships that were never meant to be written into city plans. The old Jianuo Market housed Mazu Temple and Earth God Temples; the new market initially did not reserve space for worship, and vendors later had to coordinate the placement of deities.[^8]
 

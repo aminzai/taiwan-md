@@ -163,7 +163,7 @@ La sécurité incendie à Taïwan n'est donc pas seulement l'histoire d'un organ
 
 ## Lectures complémentaires
 
-- [Tremblement de terre de Jiuzichi](/history/九二一集集地震) — Comment la catastrophe a changé le système de prévention des désastres et la mémoire collective de Taïwan.
+- [Séisme du 21 septembre 1999](/fr/history/921-jiji-earthquake) — Comment la catastrophe a changé le système de prévention des désastres et la mémoire collective de Taïwan.
 - [Mouvements sociaux et participation citoyenne](/fr/society/social-movements-and-civic-participation) — Comprendre la participation publique à Taïwan au-delà du bénévolat.
 - [Développement urbain et écarts ruraux de Taïwan](/fr/geography/taiwan-urban-development-and-rural-urban-divide) — Comment les différences de ressources locales affectent la réponse aux désastres.
 
@@ -175,7 +175,7 @@ Cet article utilise 1 image sous licence CC comme image principale, mise en cach
 
 ## Références
 
-[^1]: [Wu, Chang & Collins : Mobilizing Voluntary Organizations in Taiwanese Emergency Response](https://www.researchgate.net/publication/298727422_Mobilizing_Voluntary_Organizations_in_Taiwanese_Emergency_Response_Citizen_Engagement_and_Local_Fire_Branch_Heads) — Étude de 2015 dans le _Journal of Contemporary Eastern Asia_ qui décrit la structure de gouvernance des désastres après le tremblement de terre de Jiuzichi et les conditions de mobilisation des unités locales de pompiers.
+[^1]: [Wu, Chang & Collins : Mobilizing Voluntary Organizations in Taiwanese Emergency Response](https://www.researchgate.net/publication/298727422_Mobilizing_Voluntary_Organizations_in_Taiwanese_Emergency_Response_Citizen_Engagement_and_Local_Fire_Branch_Heads) — Étude de 2015 dans le _Journal of Contemporary Eastern Asia_ qui décrit la structure de gouvernance des désastres après le séisme du 21 septembre 1999 et les conditions de mobilisation des unités locales de pompiers.
 
 [^2]: [Bibliothèque nationale de Taïwan : « Communications sur Taïwan », numéro 90 / Pompiers](https://wwwacc.ntl.edu.tw/ct.asp?xItem=57329&ctNode=2217&mp=5) — Page thématique des pompiers de la Bibliothèque nationale de Taïwan en 2015, qui répertorie les jalons historiques du système d'incendie moderne et des brigades volontaires à Taïwan (1895, 1902, 1921).
 

@@ -1,6 +1,6 @@
 ---
 title: 'Shilinxi: Ein Wasserfall, der die Holzwirtschaft in einen Wald zurückführt'
-description: 'Von „Xidi“ im Bezirk Zhushan, Nantou, über den Holztransport und das Erdbeben von 1992 bis zum Songtung-Fallwasser, den Taiwan-Azaleen und die Umweltbildung – wie lernt das Tal von Shilinxi wieder, mit Wasser zu leben?'
+description: 'Von „Xidi“ im Bezirk Zhushan, Nantou, über den Holztransport und das Erdbeben von 1999 bis zum Songtung-Fallwasser, den Taiwan-Azaleen und die Umweltbildung – wie lernt das Tal von Shilinxi wieder, mit Wasser zu leben?'
 date: 2026-08-15
 category: 'Nature'
 tags: ['Shilinxi', 'Nantou', 'Zhushan', 'Wald', 'Wasserfall', 'Umweltbildung']
@@ -24,7 +24,7 @@ _Foto vom Shilinxi Forest Ecological Resort, aufgenommen am 1. März 2013; lieny
 
 > **Kurzüberblick**
 >
-> Shilinxi befindet sich in der Xishan-Gemeinde, Nantou-Bezirk, an der Xi Shan Road 6, und ist mit einer Höhe von etwa 1.600 bis 1.800 Metern gekennzeichnet. Es erstreckt sich entlang beider Ufer des Jiazou-Xi Bachs. Am bekanntesten ist es für den Songtung-Fallwasser, aber was interessanter ist: Warum hat dieses Tal, das ursprünglich vom Holzeinschlag lebte, nach der Erschließung durch Straßen, dem Tourismusbetrieb, Taifunen und dem Erdbeben von 1992 wieder den Wald, die Ökologie und die Naturerziehung in den Mittelpunkt gestellt?[^1] [^2] [^3]
+> Shilinxi befindet sich in der Xishan-Gemeinde, Nantou-Bezirk, an der Xi Shan Road 6, und ist mit einer Höhe von etwa 1.600 bis 1.800 Metern gekennzeichnet. Es erstreckt sich entlang beider Ufer des Jiazou-Xi Bachs. Am bekanntesten ist es für den Songtung-Fallwasser, aber was interessanter ist: Warum hat dieses Tal, das ursprünglich vom Holzeinschlag lebte, nach der Erschließung durch Straßen, dem Tourismusbetrieb, Taifunen und dem Erdbeben von 1999 wieder den Wald, die Ökologie und die Naturerziehung in den Mittelpunkt gestellt?[^1] [^2] [^3]
 
 | Drei Zahlen, die man sich merken sollte | Daten                                                                        |
 | :-------------------------------------- | :--------------------------------------------------------------------------- |
@@ -60,7 +60,7 @@ Die Chronik des Resorts vermerkt, dass die erste Touristin im Februar 1983 (ROC-
 2. **1970 (ROC-Jahr):** Die Xi'a-Route wurde entdeckt und der Bergweg begann, als Wanderroute zu dienen.[^4]
 3. **1973 (ROC-Jahr):** Gründung der Shilinxi Amusement Enterprise Co., Ltd.[^4]
 4. **1984 (ROC-Jahr):** Fertigstellung der Straße von Xi'tou nach Shilinxi, das Eintreffen des ersten Reisebusses wird vermerkt.[^4]
-5. **1997 (ROC-Jahr):** Das Erdbeben von 1992 führte zum Abbruch der einzigen Fernstraße und zur Schließung des Resorts.[^1] [^4]
+5. **1997 (ROC-Jahr):** Das Erdbeben von 1999 führte zum Abbruch der einzigen Fernstraße und zur Schließung des Resorts.[^1] [^4]
 6. **1999 (ROC-Jahr):** Die Tunnel durch An-ting wurden eröffnet, und das Resort wurde am 1. September desselben Jahres wiedereröffnet.[^4]
 7. **2006–2008 (ROC-Jahre):** Umbenennung des Resorts, Gründung des Naturzentrums und Erhalt der Umweltbildungskennzeichnung.[^1] [^4]
 
@@ -155,7 +155,7 @@ Die offizielle Website des Resorts verbietet den Betrieb von ferngesteuerten Dro
 
 ## Was bleibt, wenn der Wasserschall verschwunden ist?
 
-Die Geschichte von Shilinxi begann mit dem Holzeinschlag in Xidi, durchlief die Erschließung durch Straßen, den Tourismusbetrieb, Taifun Hebo und das Erdbeben von 1992 und mündete schließlich in die Naturerziehung. Dieser Weg hat die Vergangenheit nicht ausgelöscht: Die heutige japanische Fichtenwaldlandschaft des Resorts ist ein Ergebnis der künstlichen Erneuerung. Auch die Naturaktivitäten haben die Holzkultur in Kurse integriert, sodass Besucher wissen, dass der Wald von heute oft die menschliche Entscheidung von gestern beinhaltet.[^1] [^4] [^11]
+Die Geschichte von Shilinxi begann mit dem Holzeinschlag in Xidi, durchlief die Erschließung durch Straßen, den Tourismusbetrieb, Taifun Hebo und das Erdbeben von 1999 und mündete schließlich in die Naturerziehung. Dieser Weg hat die Vergangenheit nicht ausgelöscht: Die heutige japanische Fichtenwaldlandschaft des Resorts ist ein Ergebnis der künstlichen Erneuerung. Auch die Naturaktivitäten haben die Holzkultur in Kurse integriert, sodass Besucher wissen, dass der Wald von heute oft die menschliche Entscheidung von gestern beinhaltet.[^1] [^4] [^11]
 
 Der Songtung-Fallwasser kann während der Dürre schwach werden und nach dem Monsun wieder an Kraft gewinnen. Der Qinglong-Fallwasser kann in trockenen Zeiten nur einen schmalen Wasserlauf zeigen, aber bei starkem Regen zu einer reißenden Wasserwand werden. Shijing versteckt die Kraft des Wassers in den Gesteinhöhlen. Die Taiwan-Azalen und die Kristallorchidee verbergen die Jahreszeiten unter dem Wald.[^5] [^6] [^7] [^10]
 

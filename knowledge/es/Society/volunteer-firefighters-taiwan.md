@@ -163,7 +163,7 @@ La seguridad contra incendios de Taiwán no es solo la historia de una agencia n
 
 ## Lecturas adicionales
 
-- [Terremoto de Jiuzhi](/history/九二一集集地震) — Cómo los terremotos cambiaron el sistema de prevención de desastres y la memoria colectiva de Taiwán.
+- [Terremoto de Jiji](/es/history/921-jiji-earthquake) — Cómo los terremotos cambiaron el sistema de prevención de desastres y la memoria colectiva de Taiwán.
 - [Movimientos sociales y participación ciudadana](/es/society/social-movements-and-civic-participation) — Comprender la participación pública en Taiwán a través del voluntariado.
 - [Desarrollo urbano y brecha rural de Taiwán](/es/geography/taiwan-urban-development-and-rural-urban-divide) — Cómo las diferencias en los recursos locales afectan la respuesta a desastres.
 
@@ -175,7 +175,7 @@ Este artículo utiliza 1 imagen con licencia CC como imagen principal, almacenad
 
 ## Referencias
 
-[^1]: [Wu, Chang & Collins: Mobilizing Voluntary Organizations in Taiwanese Emergency Response](https://www.researchgate.net/publication/298727422_Mobilizing_Voluntary_Organizations_in_Taiwanese_Emergency_Response_Citizen_Engagement_and_Local_Fire_Branch_Heads) — Investigación de 2015 en el _Journal of Contemporary Eastern Asia_ que describe la estructura de gestión de desastres después del terremoto de Jiuzhi y las condiciones para la movilización de unidades locales de bomberos.
+[^1]: [Wu, Chang & Collins: Mobilizing Voluntary Organizations in Taiwanese Emergency Response](https://www.researchgate.net/publication/298727422_Mobilizing_Voluntary_Organizations_in_Taiwanese_Emergency_Response_Citizen_Engagement_and_Local_Fire_Branch_Heads) — Investigación de 2015 en el _Journal of Contemporary Eastern Asia_ que describe la estructura de gestión de desastres después del terremoto de Jiji y las condiciones para la movilización de unidades locales de bomberos.
 
 [^2]: [Biblioteca Nacional de Taiwán: "Comunicación sobre Taiwán", edición 90 / Bomberos](https://wwwacc.ntl.edu.tw/ct.asp?xItem=57329&ctNode=2217&mp=5) — Página temática de incendios de la Biblioteca Nacional de Taiwán en 2015, que organiza los hitos históricos del sistema de extinción de incendios moderno y los bomberos voluntarios en 1895, 1902 y 1921.
 

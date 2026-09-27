@@ -163,8 +163,8 @@ Keselamatan pemadam kebakaran Taiwan bukan hanya kisah lembaga negara, tetapi ju
 
 ## Bacaan Lanjutan
 
-- [Gempa Bumi Jiuzichi](/history/九二一集集地震) — Bagaimana bencana mengubah sistem pencegahan bencana dan memori kolektif Taiwan.
-- [Gerakan Sosial dan Partisipasi Warga](/society/社會運動與公民參與) — Memahami partisipasi publik di Taiwan dari layanan sukarela.
+- [Gempa Bumi 921](/id/history/921-jiji-earthquake) — Bagaimana bencana mengubah sistem pencegahan bencana dan memori kolektif Taiwan.
+- [Gerakan Sosial dan Partisipasi Warga](/id/society/social-movements-and-civic-participation) — Memahami partisipasi publik di Taiwan dari layanan sukarela.
 - [Pembangunan Kota dan Kesenjangan Pedesaan Taiwan](/id/geography/taiwan-urban-development-and-rural-urban-divide) — Bagaimana perbedaan sumber daya lokal memengaruhi respons bencana.
 
 ## Sumber Gambar
@@ -175,7 +175,7 @@ Artikel ini menggunakan 1 gambar berlisensi CC sebagai gambar utama, yang dikelo
 
 ## Referensi
 
-[^1]: [Wu, Chang & Collins: Mobilizing Voluntary Organizations in Taiwanese Emergency Response](https://www.researchgate.net/publication/298727422_Mobilizing_Voluntary_Organizations_in_Taiwanese_Emergency_Response_Citizen_Engagement_and_Local_Fire_Branch_Heads) — Studi tahun 2015 di _Journal of Contemporary Eastern Asia_, yang menjelaskan kerangka tata kelola bencana setelah Gempa Bumi Jiuzichi dan kondisi mobilisasi organisasi pemadam lokal.
+[^1]: [Wu, Chang & Collins: Mobilizing Voluntary Organizations in Taiwanese Emergency Response](https://www.researchgate.net/publication/298727422_Mobilizing_Voluntary_Organizations_in_Taiwanese_Emergency_Response_Citizen_Engagement_and_Local_Fire_Branch_Heads) — Studi tahun 2015 di _Journal of Contemporary Eastern Asia_, yang menjelaskan kerangka tata kelola bencana setelah Gempa Bumi 921 dan kondisi mobilisasi organisasi pemadam lokal.
 
 [^2]: [Perpustakaan Nasional Taiwan: "Komunikasi Taiwan" Edisi ke-90 / Pemadam Kebakaran](https://wwwacc.ntl.edu.tw/ct.asp?xItem=57329&ctNode=2217&mp=5) — Halaman khusus pemadam kebakaran Perpustakaan Nasional Taiwan tahun 2015, yang mengumpulkan titik sejarah sistem pemadaman modern dan tim sukarelawan di Taiwan pada tahun 1895, 1902, dan 1921.
 

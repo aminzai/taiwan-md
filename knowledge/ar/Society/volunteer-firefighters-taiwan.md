@@ -163,7 +163,7 @@ _الصورة: مبنى فرقة إطفاء مينشيونغ، تصوير Tbatb�
 
 ## موارد إضافية للقراءة
 
-- [زلزال جيوتشوان (جيوتشوان)](/history/九二一集集地震) — كيف غيرت الكوارث نظام الوقاية من الكوارث والذاكرة الجماعية في تايوان.
+- [زلزال 921](/ar/history/921-jiji-earthquake) — كيف غيرت الكوارث نظام الوقاية من الكوارث والذاكرة الجماعية في تايوان.
 - [الحركات الاجتماعية والمشاركة المدنية](/ar/society/social-movements-and-civic-participation) — فهم المشاركة العامة من منظور الخدمة الطوعية.
 - [تطوير المدن والفجوة بين الحضرية والريفية في تايوان](/ar/geography/taiwan-urban-development-and-rural-urban-divide) — كيف تؤثر الفروقات في الموارد المحلية على الاستجابة للكوارث.
 
@@ -175,7 +175,7 @@ _الصورة: مبنى فرقة إطفاء مينشيونغ، تصوير Tbatb�
 
 ## المراجع
 
-[^1]: [Wu, Chang & Collins: Mobilizing Voluntary Organizations in Taiwanese Emergency Response](https://www.researchgate.net/publication/298727422_Mobilizing_Voluntary_Organizations_in_Taiwanese_Emergency_Response_Citizen_Engagement_and_Local_Fire_Branch_Heads) — دراسة من عام 2015 في مجلة "العالم المعاصر في شرق آسيا"، توضح بنية إدارة الكوارث بعد زلزال جيوتشوان، وشروط تحريك المنظمات الطوعية من قبل فرق الإطفاء المحلية.
+[^1]: [Wu, Chang & Collins: Mobilizing Voluntary Organizations in Taiwanese Emergency Response](https://www.researchgate.net/publication/298727422_Mobilizing_Voluntary_Organizations_in_Taiwanese_Emergency_Response_Citizen_Engagement_and_Local_Fire_Branch_Heads) — دراسة من عام 2015 في مجلة "العالم المعاصر في شرق آسيا"، توضح بنية إدارة الكوارث بعد زلزال 921، وشروط تحريك المنظمات الطوعية من قبل فرق الإطفاء المحلية.
 
 [^2]: [المكتبة الوطنية التايوانية: "نشرة تايوان" العدد 90 / الإطفاء](https://wwwacc.ntl.edu.tw/ct.asp?xItem=57329&ctNode=2217&mp=5) — صفحة إطفاء خاصة من المكتبة الوطنية التايوانية عام 2015، تجمع نقاط تاريخية حول نظام الإطفاء الحديث في تايوان وفرق الإطفاء الطوعية في عوام 1895، 1902، و1921.
 

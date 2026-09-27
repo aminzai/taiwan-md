@@ -189,7 +189,7 @@ Yet the system also faces challenges:
 
 The true value of Taiwan's disaster medical system lies not in possessing the most advanced equipment or the largest workforce, but in establishing institutional mechanisms capable of **quickly imposing order amidst chaos**.
 
-From the painful lessons of the 19921 earthquake to the mature operations during the Hualien earthquake, Taiwan has proven over 25 years that even a small nation can build a world-class disaster medical system. The key realization is that the core challenge of disaster medicine is not a technical one, but an institutional one: who is on duty, who commands, who coordinates, and who decides.
+From the painful lessons of the 921 earthquake to the mature operations during the Hualien earthquake, Taiwan has proven over 25 years that even a small nation can build a world-class disaster medical system. The key realization is that the core challenge of disaster medicine is not a technical one, but an institutional one: who is on duty, who commands, who coordinates, and who decides.
 
 When the next disaster strikes, what saves lives will not be the most expensive equipment, but the emergency room physicians working 24 hours a day, and the set of institutional protocols behind them—protocols tested through dozens of real-world scenarios.
 
@@ -199,7 +199,7 @@ When the next disaster strikes, what saves lives will not be the most expensive 
 
 - [Medical Care Act](/en/society/medical-care-act) — The legal basis for disaster medicine is rooted in Article 1 of the Medical Care Act, which mandates "reasonable distribution of medical resources" and institutional stratification; this article's disaster scenarios reflect the practical operation of the Medical Care Act under extreme conditions.
 - [Taiwan Animal Drug Controversy](/en/society/taiwan-animal-drug-controversy) — Humans have emergency medical systems, 119 (emergency services), National Health Insurance (NHI), and DMAT; animal emergencies require itemized registration even for oxygen. The resource gap between the two systems is a mirror reflecting how this island prioritizes value.
-- [Taiwan COVID-19 Pandemic and Vaccines](/society/台灣新冠疫情與疫苗) — The dedicated wards and emergency room congestion in May 2021 represented the longest continuous stress test of this disaster medical system.
+- [Taiwan COVID-19 Pandemic and Vaccines](/en/society/taiwan-covid-pandemic-and-vaccines) — The dedicated wards and emergency room congestion in May 2021 represented the longest continuous stress test of this disaster medical system.
 
 ## References
 

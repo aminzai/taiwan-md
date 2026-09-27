@@ -1,6 +1,6 @@
 ---
 title: "Chen San-huo: Handing Broken Vases to Fate, Keeping the Temple Roof's Jian-nian Alive"
-description: 'After the 1992 Earthquake, Tainan artist Chen San-huo picked up a shattered vase in Fengyuan, transforming from a temple restoration apprentice into a "rooftop artist" who creates with broken ceramics. Instead of making Jian-nian look like the original, he let fragmentation, chance, and recycled materials redefine its shape.'
+description: 'After the 921 Earthquake, Tainan artist Chen San-huo picked up a shattered vase in Fengyuan, transforming from a temple restoration apprentice into a "rooftop artist" who creates with broken ceramics. Instead of making Jian-nian look like the original, he let fragmentation, chance, and recycled materials redefine its shape.'
 date: 2026-08-19
 subcategory: '藝術與設計'
 category: 'People'
