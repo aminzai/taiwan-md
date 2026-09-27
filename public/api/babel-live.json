@@ -1,949 +1,896 @@
 {
- "generated_at": "2026-09-28T03:08:37+08:00",
- "producer": "scripts/tools/lang-sync/babel-pulse.py (launchd, 15min)",
- "snapshot_ts": "2026-09-28T03:08:28+08:00",
- "total_zh": 1124,
- "langs": [
-  {
-   "lang": "en",
-   "name": "English",
-   "fresh": 1124,
-   "stale": 0,
-   "missing": 0,
-   "coverage_pct": 100.0,
-   "fresh_delta": 0
+  "generated_at": "2026-09-28T04:55:56+08:00",
+  "producer": "scripts/tools/lang-sync/babel-pulse.py (launchd, 15min)",
+  "snapshot_ts": "2026-09-28T04:55:47+08:00",
+  "total_zh": 1124,
+  "langs": [
+    {
+      "lang": "en",
+      "name": "English",
+      "fresh": 1124,
+      "stale": 0,
+      "missing": 0,
+      "coverage_pct": 100.0,
+      "fresh_delta": 0
+    },
+    {
+      "lang": "ja",
+      "name": "日本語",
+      "fresh": 1124,
+      "stale": 0,
+      "missing": 0,
+      "coverage_pct": 100.0,
+      "fresh_delta": 0
+    },
+    {
+      "lang": "ko",
+      "name": "한국어",
+      "fresh": 1124,
+      "stale": 0,
+      "missing": 0,
+      "coverage_pct": 100.0,
+      "fresh_delta": 0
+    },
+    {
+      "lang": "es",
+      "name": "Español",
+      "fresh": 1124,
+      "stale": 0,
+      "missing": 0,
+      "coverage_pct": 100.0,
+      "fresh_delta": 0
+    },
+    {
+      "lang": "fr",
+      "name": "Français",
+      "fresh": 1124,
+      "stale": 0,
+      "missing": 0,
+      "coverage_pct": 100.0,
+      "fresh_delta": 0
+    },
+    {
+      "lang": "vi",
+      "name": "Tiếng Việt",
+      "fresh": 1124,
+      "stale": 0,
+      "missing": 0,
+      "coverage_pct": 100.0,
+      "fresh_delta": 0
+    },
+    {
+      "lang": "id",
+      "name": "Indonesia",
+      "fresh": 1124,
+      "stale": 0,
+      "missing": 0,
+      "coverage_pct": 100.0,
+      "fresh_delta": 0
+    },
+    {
+      "lang": "pt",
+      "name": "Português",
+      "fresh": 1124,
+      "stale": 0,
+      "missing": 0,
+      "coverage_pct": 100.0,
+      "fresh_delta": 0
+    },
+    {
+      "lang": "hi",
+      "name": "हिन्दी",
+      "fresh": 1124,
+      "stale": 0,
+      "missing": 0,
+      "coverage_pct": 100.0,
+      "fresh_delta": 0
+    },
+    {
+      "lang": "ar",
+      "name": "العربية",
+      "fresh": 1124,
+      "stale": 0,
+      "missing": 0,
+      "coverage_pct": 100.0,
+      "fresh_delta": 0
+    },
+    {
+      "lang": "ru",
+      "name": "Русский",
+      "fresh": 1124,
+      "stale": 0,
+      "missing": 0,
+      "coverage_pct": 100.0,
+      "fresh_delta": 0
+    },
+    {
+      "lang": "de",
+      "name": "de",
+      "fresh": 1124,
+      "stale": 0,
+      "missing": 0,
+      "coverage_pct": 100.0,
+      "fresh_delta": 0
+    }
+  ],
+  "gap_total": 0,
+  "gap_delta": 0,
+  "rate_1h": {
+    "delta": 0,
+    "span_h": 1.79,
+    "per_hour": 0.0
   },
-  {
-   "lang": "ja",
-   "name": "日本語",
-   "fresh": 1124,
-   "stale": 0,
-   "missing": 0,
-   "coverage_pct": 100.0,
-   "fresh_delta": 0
+  "rate_24h": {
+    "delta": 66,
+    "span_h": 28.01,
+    "per_hour": 2.4
   },
-  {
-   "lang": "ko",
-   "name": "한국어",
-   "fresh": 1124,
-   "stale": 0,
-   "missing": 0,
-   "coverage_pct": 100.0,
-   "fresh_delta": 0
+  "eta_days": null,
+  "nodes": {
+    "worker:haiku2": {
+      "ok": 61,
+      "fail": 26,
+      "avg_s": 266.6,
+      "top_fail": [
+        ["no output written by tra", 11],
+        ["leak", 4]
+      ],
+      "last_activity": "2026-09-26T22:20:40+08:00"
+    },
+    "worker:haiku1": {
+      "ok": 48,
+      "fail": 31,
+      "avg_s": 290.7,
+      "top_fail": [
+        ["no output written by tra", 12],
+        ["leak", 4]
+      ],
+      "last_activity": "2026-09-27T03:13:04+08:00"
+    },
+    "worker:haiku3": {
+      "ok": 75,
+      "fail": 27,
+      "avg_s": 235.6,
+      "top_fail": [
+        ["no output written by tra", 13],
+        ["leak", 4]
+      ],
+      "last_activity": "2026-09-26T22:20:49+08:00"
+    },
+    "worker:lagunas": {
+      "ok": 474,
+      "fail": 523,
+      "avg_s": 279.8,
+      "top_fail": [
+        ["no output written by tra", 356],
+        ["patch candidate rejected", 51]
+      ],
+      "last_activity": "2026-09-27T05:04:15+08:00"
+    },
+    "worker:nemo": {
+      "ok": 276,
+      "fail": 241,
+      "avg_s": 723.7,
+      "top_fail": [
+        ["no output written by tra", 147],
+        ["patch candidate rejected", 28]
+      ],
+      "last_activity": "2026-09-27T04:59:58+08:00"
+    },
+    "worker:macm4max2": {
+      "ok": 341,
+      "fail": 421,
+      "avg_s": 550.7,
+      "top_fail": [
+        ["no output written by tra", 240],
+        ["verify=1 [URL count]", 43]
+      ],
+      "last_activity": "2026-09-27T06:12:12+08:00"
+    },
+    "worker:macm4max1": {
+      "ok": 327,
+      "fail": 496,
+      "avg_s": 536.1,
+      "top_fail": [
+        ["no output written by tra", 265],
+        ["verify=1 [URL count]", 50]
+      ],
+      "last_activity": "2026-09-27T11:56:43+08:00"
+    },
+    "worker:macm4max3": {
+      "ok": 330,
+      "fail": 419,
+      "avg_s": 547.7,
+      "top_fail": [
+        ["no output written by tra", 232],
+        ["patch candidate rejected", 51]
+      ],
+      "last_activity": "2026-09-27T05:02:47+08:00"
+    },
+    "worker:?": {
+      "ok": 0,
+      "fail": 122,
+      "avg_s": null,
+      "top_fail": [["?", 122]],
+      "last_activity": "2026-09-27T05:53:36+08:00"
+    },
+    "endpoint:local": {
+      "alive": true
+    },
+    "endpoint:laptop-4090": {
+      "alive": false
+    },
+    "endpoint:laptop-5090": {
+      "alive": false
+    },
+    "endpoint:desktop-3090": {
+      "alive": false
+    },
+    "endpoint:mac-m4max": {
+      "alive": true
+    }
   },
-  {
-   "lang": "es",
-   "name": "Español",
-   "fresh": 1124,
-   "stale": 0,
-   "missing": 0,
-   "coverage_pct": 100.0,
-   "fresh_delta": 0
+  "dispatchers": [
+    {
+      "kind": "unified",
+      "pid": "84119",
+      "uptime": "00:04",
+      "langs": "",
+      "workers": 11
+    }
+  ],
+  "uncommitted": {
+    "orphans": [],
+    "pending": 0
   },
-  {
-   "lang": "fr",
-   "name": "Français",
-   "fresh": 1124,
-   "stale": 0,
-   "missing": 0,
-   "coverage_pct": 100.0,
-   "fresh_delta": 0
-  },
-  {
-   "lang": "vi",
-   "name": "Tiếng Việt",
-   "fresh": 1124,
-   "stale": 0,
-   "missing": 0,
-   "coverage_pct": 100.0,
-   "fresh_delta": 0
-  },
-  {
-   "lang": "id",
-   "name": "Indonesia",
-   "fresh": 1124,
-   "stale": 0,
-   "missing": 0,
-   "coverage_pct": 100.0,
-   "fresh_delta": 0
-  },
-  {
-   "lang": "pt",
-   "name": "Português",
-   "fresh": 1124,
-   "stale": 0,
-   "missing": 0,
-   "coverage_pct": 100.0,
-   "fresh_delta": 0
-  },
-  {
-   "lang": "hi",
-   "name": "हिन्दी",
-   "fresh": 1124,
-   "stale": 0,
-   "missing": 0,
-   "coverage_pct": 100.0,
-   "fresh_delta": 0
-  },
-  {
-   "lang": "ar",
-   "name": "العربية",
-   "fresh": 1124,
-   "stale": 0,
-   "missing": 0,
-   "coverage_pct": 100.0,
-   "fresh_delta": 0
-  },
-  {
-   "lang": "ru",
-   "name": "Русский",
-   "fresh": 1124,
-   "stale": 0,
-   "missing": 0,
-   "coverage_pct": 100.0,
-   "fresh_delta": 0
-  },
-  {
-   "lang": "de",
-   "name": "de",
-   "fresh": 1124,
-   "stale": 0,
-   "missing": 0,
-   "coverage_pct": 100.0,
-   "fresh_delta": 0
-  }
- ],
- "gap_total": 0,
- "gap_delta": 0,
- "rate_1h": {
-  "delta": 0,
-  "span_h": 1.49,
-  "per_hour": 0.0
- },
- "rate_24h": {
-  "delta": 66,
-  "span_h": 26.22,
-  "per_hour": 2.5
- },
- "eta_days": null,
- "nodes": {
-  "worker:haiku2": {
-   "ok": 61,
-   "fail": 26,
-   "avg_s": 266.6,
-   "top_fail": [
-    [
-     "no output written by tra",
-     11
-    ],
-    [
-     "leak",
-     4
+  "leftover_staged": [],
+  "language_mismatch": {
+    "wrong_language": 51,
+    "foreign_script": 32,
+    "total": 83,
+    "by_lang": {
+      "ja": 17,
+      "ko": 12,
+      "es": 11,
+      "fr": 9,
+      "id": 1,
+      "hi": 32,
+      "ar": 1
+    },
+    "sample": [
+      {
+        "path": "knowledge/ja/Art/post-martial-law-taiwanese-literature.md",
+        "kind": "wrong_language",
+        "detected": "en"
+      },
+      {
+        "path": "knowledge/ja/Art/taiwan-new-media-art.md",
+        "kind": "wrong_language",
+        "detected": "en"
+      },
+      {
+        "path": "knowledge/ja/Art/tehching-hsieh-performance-artist.md",
+        "kind": "wrong_language",
+        "detected": "en"
+      },
+      {
+        "path": "knowledge/ja/History/psychological-warfare.md",
+        "kind": "wrong_language",
+        "detected": "en"
+      },
+      {
+        "path": "knowledge/ja/History/taiwan-democratization.md",
+        "kind": "wrong_language",
+        "detected": "en"
+      },
+      {
+        "path": "knowledge/ja/People/cheng-li-wun.md",
+        "kind": "wrong_language",
+        "detected": "en"
+      },
+      {
+        "path": "knowledge/ja/People/chia-yung-chieh.md",
+        "kind": "wrong_language",
+        "detected": "en"
+      },
+      {
+        "path": "knowledge/ja/People/hebe-tien-singer.md",
+        "kind": "wrong_language",
+        "detected": "en"
+      },
+      {
+        "path": "knowledge/ja/People/huang-shan-liao.md",
+        "kind": "wrong_language",
+        "detected": "en"
+      },
+      {
+        "path": "knowledge/ja/Society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion.md",
+        "kind": "wrong_language",
+        "detected": "en"
+      },
+      {
+        "path": "knowledge/ja/Society/chinese-taipei.md",
+        "kind": "wrong_language",
+        "detected": "en"
+      },
+      {
+        "path": "knowledge/ja/Society/complex-life-festival.md",
+        "kind": "wrong_language",
+        "detected": "en"
+      }
     ]
-   ],
-   "last_activity": "2026-09-26T22:20:40+08:00"
   },
-  "worker:haiku1": {
-   "ok": 48,
-   "fail": 31,
-   "avg_s": 290.7,
-   "top_fail": [
-    [
-     "no output written by tra",
-     12
-    ],
-    [
-     "leak",
-     4
+  "truncated": {
+    "count": 0,
+    "by_lang": {},
+    "sample": []
+  },
+  "no_sources": {
+    "count": 0,
+    "by_lang": {},
+    "sample": []
+  },
+  "url_mismatch": {
+    "count": 621,
+    "by_lang": {
+      "en": 53,
+      "ja": 91,
+      "ko": 57,
+      "es": 75,
+      "fr": 64,
+      "vi": 55,
+      "id": 48,
+      "pt": 43,
+      "hi": 47,
+      "ar": 27,
+      "ru": 33,
+      "de": 28
+    },
+    "missing": 1240,
+    "extra": 721,
+    "sample": [
+      {
+        "path": "knowledge/en/Music/choir.md",
+        "missing": 1,
+        "extra": 1
+      },
+      {
+        "path": "knowledge/en/Music/indigenous-music-traditions.md",
+        "missing": 1,
+        "extra": 1
+      },
+      {
+        "path": "knowledge/en/Music/taiwan-music-festival-culture.md",
+        "missing": 3,
+        "extra": 0
+      },
+      {
+        "path": "knowledge/en/Economy/evergreen-marine.md",
+        "missing": 1,
+        "extra": 0
+      },
+      {
+        "path": "knowledge/en/Economy/taiwan-shipbuilding-industry.md",
+        "missing": 1,
+        "extra": 1
+      },
+      {
+        "path": "knowledge/en/Technology/ai-development-in-taiwan.md",
+        "missing": 2,
+        "extra": 0
+      },
+      {
+        "path": "knowledge/en/Technology/taiwan-audio-industry-development.md",
+        "missing": 2,
+        "extra": 0
+      },
+      {
+        "path": "knowledge/en/Technology/taiwan-tech-storytelling.md",
+        "missing": 5,
+        "extra": 0
+      },
+      {
+        "path": "knowledge/en/Art/taiwanese-cinema.md",
+        "missing": 2,
+        "extra": 2
+      },
+      {
+        "path": "knowledge/en/Art/wang-hsin-jen-artist.md",
+        "missing": 5,
+        "extra": 5
+      },
+      {
+        "path": "knowledge/en/Art/new-ecological-art-environment.md",
+        "missing": 1,
+        "extra": 1
+      },
+      {
+        "path": "knowledge/en/Lifestyle/taiwan-scooter-culture.md",
+        "missing": 1,
+        "extra": 0
+      }
     ]
-   ],
-   "last_activity": "2026-09-27T03:13:04+08:00"
   },
-  "worker:haiku3": {
-   "ok": 75,
-   "fail": 27,
-   "avg_s": 235.6,
-   "top_fail": [
-    [
-     "no output written by tra",
-     13
-    ],
-    [
-     "leak",
-     4
-    ]
-   ],
-   "last_activity": "2026-09-26T22:20:49+08:00"
-  },
-  "worker:lagunas": {
-   "ok": 474,
-   "fail": 523,
-   "avg_s": 279.8,
-   "top_fail": [
-    [
-     "no output written by tra",
-     356
-    ],
-    [
-     "patch candidate rejected",
-     51
-    ]
-   ],
-   "last_activity": "2026-09-27T05:04:15+08:00"
-  },
-  "worker:nemo": {
-   "ok": 276,
-   "fail": 241,
-   "avg_s": 723.7,
-   "top_fail": [
-    [
-     "no output written by tra",
-     147
-    ],
-    [
-     "patch candidate rejected",
-     28
-    ]
-   ],
-   "last_activity": "2026-09-27T04:59:58+08:00"
-  },
-  "worker:macm4max2": {
-   "ok": 341,
-   "fail": 421,
-   "avg_s": 550.7,
-   "top_fail": [
-    [
-     "no output written by tra",
-     240
-    ],
-    [
-     "verify=1 [URL count]",
-     43
-    ]
-   ],
-   "last_activity": "2026-09-27T06:12:12+08:00"
-  },
-  "worker:macm4max1": {
-   "ok": 327,
-   "fail": 496,
-   "avg_s": 536.1,
-   "top_fail": [
-    [
-     "no output written by tra",
-     265
-    ],
-    [
-     "verify=1 [URL count]",
-     50
-    ]
-   ],
-   "last_activity": "2026-09-27T11:56:43+08:00"
-  },
-  "worker:macm4max3": {
-   "ok": 330,
-   "fail": 419,
-   "avg_s": 547.7,
-   "top_fail": [
-    [
-     "no output written by tra",
-     232
-    ],
-    [
-     "patch candidate rejected",
-     51
-    ]
-   ],
-   "last_activity": "2026-09-27T05:02:47+08:00"
-  },
-  "worker:?": {
-   "ok": 0,
-   "fail": 122,
-   "avg_s": null,
-   "top_fail": [
-    [
-     "?",
-     122
-    ]
-   ],
-   "last_activity": "2026-09-27T05:53:36+08:00"
-  },
-  "endpoint:local": {
-   "alive": true
-  },
-  "endpoint:laptop-4090": {
-   "alive": false
-  },
-  "endpoint:laptop-5090": {
-   "alive": false
-  },
-  "endpoint:desktop-3090": {
-   "alive": false
-  },
-  "endpoint:mac-m4max": {
-   "alive": true
-  }
- },
- "dispatchers": [
-  {
-   "kind": "unified",
-   "pid": "43318",
-   "uptime": "00:10",
-   "langs": "",
-   "workers": 11
-  }
- ],
- "uncommitted": {
-  "orphans": [],
-  "pending": 0
- },
- "leftover_staged": [],
- "language_mismatch": {
-  "wrong_language": 51,
-  "foreign_script": 32,
-  "total": 83,
-  "by_lang": {
-   "ja": 17,
-   "ko": 12,
-   "es": 11,
-   "fr": 9,
-   "id": 1,
-   "hi": 32,
-   "ar": 1
-  },
-  "sample": [
-   {
-    "path": "knowledge/ja/Art/post-martial-law-taiwanese-literature.md",
-    "kind": "wrong_language",
-    "detected": "en"
-   },
-   {
-    "path": "knowledge/ja/Art/taiwan-new-media-art.md",
-    "kind": "wrong_language",
-    "detected": "en"
-   },
-   {
-    "path": "knowledge/ja/Art/tehching-hsieh-performance-artist.md",
-    "kind": "wrong_language",
-    "detected": "en"
-   },
-   {
-    "path": "knowledge/ja/History/psychological-warfare.md",
-    "kind": "wrong_language",
-    "detected": "en"
-   },
-   {
-    "path": "knowledge/ja/History/taiwan-democratization.md",
-    "kind": "wrong_language",
-    "detected": "en"
-   },
-   {
-    "path": "knowledge/ja/People/cheng-li-wun.md",
-    "kind": "wrong_language",
-    "detected": "en"
-   },
-   {
-    "path": "knowledge/ja/People/chia-yung-chieh.md",
-    "kind": "wrong_language",
-    "detected": "en"
-   },
-   {
-    "path": "knowledge/ja/People/hebe-tien-singer.md",
-    "kind": "wrong_language",
-    "detected": "en"
-   },
-   {
-    "path": "knowledge/ja/People/huang-shan-liao.md",
-    "kind": "wrong_language",
-    "detected": "en"
-   },
-   {
-    "path": "knowledge/ja/Society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion.md",
-    "kind": "wrong_language",
-    "detected": "en"
-   },
-   {
-    "path": "knowledge/ja/Society/chinese-taipei.md",
-    "kind": "wrong_language",
-    "detected": "en"
-   },
-   {
-    "path": "knowledge/ja/Society/complex-life-festival.md",
-    "kind": "wrong_language",
-    "detected": "en"
-   }
+  "history": [
+    {
+      "ts": "2026-08-08T21:30:41+08:00",
+      "fresh_total": 8045,
+      "gap_total": 1701
+    },
+    {
+      "ts": "2026-08-08T21:45:52+08:00",
+      "fresh_total": 8045,
+      "gap_total": 1701
+    },
+    {
+      "ts": "2026-08-08T22:01:02+08:00",
+      "fresh_total": 8045,
+      "gap_total": 1701
+    },
+    {
+      "ts": "2026-08-08T22:16:12+08:00",
+      "fresh_total": 8045,
+      "gap_total": 1701
+    },
+    {
+      "ts": "2026-08-08T22:31:22+08:00",
+      "fresh_total": 8045,
+      "gap_total": 1701
+    },
+    {
+      "ts": "2026-08-08T22:46:34+08:00",
+      "fresh_total": 8045,
+      "gap_total": 1701
+    },
+    {
+      "ts": "2026-08-08T23:01:45+08:00",
+      "fresh_total": 8045,
+      "gap_total": 1701
+    },
+    {
+      "ts": "2026-08-08T23:16:56+08:00",
+      "fresh_total": 8045,
+      "gap_total": 1701
+    },
+    {
+      "ts": "2026-08-08T23:32:06+08:00",
+      "fresh_total": 8045,
+      "gap_total": 1701
+    },
+    {
+      "ts": "2026-08-08T23:47:16+08:00",
+      "fresh_total": 8045,
+      "gap_total": 1701
+    },
+    {
+      "ts": "2026-08-09T00:02:26+08:00",
+      "fresh_total": 8045,
+      "gap_total": 1701
+    },
+    {
+      "ts": "2026-08-09T00:17:37+08:00",
+      "fresh_total": 8045,
+      "gap_total": 1701
+    },
+    {
+      "ts": "2026-08-09T00:32:47+08:00",
+      "fresh_total": 8045,
+      "gap_total": 1701
+    },
+    {
+      "ts": "2026-08-09T00:47:57+08:00",
+      "fresh_total": 8045,
+      "gap_total": 1701
+    },
+    {
+      "ts": "2026-08-09T01:03:07+08:00",
+      "fresh_total": 8045,
+      "gap_total": 1701
+    },
+    {
+      "ts": "2026-08-09T01:18:17+08:00",
+      "fresh_total": 8045,
+      "gap_total": 1701
+    },
+    {
+      "ts": "2026-08-09T01:33:26+08:00",
+      "fresh_total": 8045,
+      "gap_total": 1701
+    },
+    {
+      "ts": "2026-08-09T01:48:36+08:00",
+      "fresh_total": 8045,
+      "gap_total": 1701
+    },
+    {
+      "ts": "2026-08-09T02:03:46+08:00",
+      "fresh_total": 8045,
+      "gap_total": 1701
+    },
+    {
+      "ts": "2026-08-09T02:18:56+08:00",
+      "fresh_total": 8045,
+      "gap_total": 1701
+    },
+    {
+      "ts": "2026-08-09T02:34:06+08:00",
+      "fresh_total": 8045,
+      "gap_total": 1701
+    },
+    {
+      "ts": "2026-08-09T02:49:16+08:00",
+      "fresh_total": 8045,
+      "gap_total": 1701
+    },
+    {
+      "ts": "2026-08-09T03:04:26+08:00",
+      "fresh_total": 8045,
+      "gap_total": 1701
+    },
+    {
+      "ts": "2026-08-09T03:19:36+08:00",
+      "fresh_total": 8045,
+      "gap_total": 1701
+    },
+    {
+      "ts": "2026-08-09T03:34:46+08:00",
+      "fresh_total": 8045,
+      "gap_total": 1701
+    },
+    {
+      "ts": "2026-08-09T03:49:56+08:00",
+      "fresh_total": 8045,
+      "gap_total": 1701
+    },
+    {
+      "ts": "2026-08-09T04:05:05+08:00",
+      "fresh_total": 8045,
+      "gap_total": 1701
+    },
+    {
+      "ts": "2026-08-09T04:20:15+08:00",
+      "fresh_total": 8045,
+      "gap_total": 1701
+    },
+    {
+      "ts": "2026-08-09T04:35:25+08:00",
+      "fresh_total": 8045,
+      "gap_total": 1701
+    },
+    {
+      "ts": "2026-08-09T04:50:35+08:00",
+      "fresh_total": 8045,
+      "gap_total": 1701
+    },
+    {
+      "ts": "2026-08-09T05:05:45+08:00",
+      "fresh_total": 8045,
+      "gap_total": 1701
+    },
+    {
+      "ts": "2026-08-09T05:20:55+08:00",
+      "fresh_total": 8045,
+      "gap_total": 1701
+    },
+    {
+      "ts": "2026-08-09T05:36:05+08:00",
+      "fresh_total": 8045,
+      "gap_total": 1701
+    },
+    {
+      "ts": "2026-08-09T05:51:15+08:00",
+      "fresh_total": 8045,
+      "gap_total": 1701
+    },
+    {
+      "ts": "2026-08-09T06:06:25+08:00",
+      "fresh_total": 8045,
+      "gap_total": 1701
+    },
+    {
+      "ts": "2026-08-09T06:21:35+08:00",
+      "fresh_total": 8045,
+      "gap_total": 1701
+    },
+    {
+      "ts": "2026-08-09T06:36:44+08:00",
+      "fresh_total": 8045,
+      "gap_total": 1701
+    },
+    {
+      "ts": "2026-08-09T06:51:54+08:00",
+      "fresh_total": 8045,
+      "gap_total": 1701
+    },
+    {
+      "ts": "2026-08-09T07:07:04+08:00",
+      "fresh_total": 8045,
+      "gap_total": 1701
+    },
+    {
+      "ts": "2026-08-09T07:22:14+08:00",
+      "fresh_total": 8045,
+      "gap_total": 1701
+    },
+    {
+      "ts": "2026-08-09T07:37:24+08:00",
+      "fresh_total": 8045,
+      "gap_total": 1701
+    },
+    {
+      "ts": "2026-09-26T18:57:45+08:00",
+      "fresh_total": 13233,
+      "gap_total": 255
+    },
+    {
+      "ts": "2026-09-26T19:08:59+08:00",
+      "fresh_total": 13242,
+      "gap_total": 246
+    },
+    {
+      "ts": "2026-09-26T20:10:53+08:00",
+      "fresh_total": 13282,
+      "gap_total": 206
+    },
+    {
+      "ts": "2026-09-26T20:53:21+08:00",
+      "fresh_total": 13323,
+      "gap_total": 165
+    },
+    {
+      "ts": "2026-09-26T21:31:42+08:00",
+      "fresh_total": 13344,
+      "gap_total": 144
+    },
+    {
+      "ts": "2026-09-26T21:44:27+08:00",
+      "fresh_total": 13365,
+      "gap_total": 123
+    },
+    {
+      "ts": "2026-09-26T22:26:18+08:00",
+      "fresh_total": 13392,
+      "gap_total": 96
+    },
+    {
+      "ts": "2026-09-26T23:20:52+08:00",
+      "fresh_total": 13393,
+      "gap_total": 95
+    },
+    {
+      "ts": "2026-09-27T00:44:27+08:00",
+      "fresh_total": 13421,
+      "gap_total": 67
+    },
+    {
+      "ts": "2026-09-27T00:55:05+08:00",
+      "fresh_total": 13422,
+      "gap_total": 66
+    },
+    {
+      "ts": "2026-09-27T11:57:09+08:00",
+      "fresh_total": 13485,
+      "gap_total": 3
+    },
+    {
+      "ts": "2026-09-27T12:41:37+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-27T12:43:45+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-27T13:28:56+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-27T14:28:57+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-27T15:28:57+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-27T15:41:02+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-27T16:22:29+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-27T16:59:46+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-27T17:07:44+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-27T17:09:02+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-27T17:10:07+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-27T17:28:48+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-27T17:33:32+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-27T17:34:15+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-27T18:28:58+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-27T18:33:47+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-27T19:28:46+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-27T19:35:19+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-27T19:36:14+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-27T19:37:59+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-27T20:29:11+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-27T20:42:55+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-27T21:29:16+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-27T21:46:58+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-27T22:29:03+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-27T22:33:42+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-27T22:44:11+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-27T23:29:04+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-27T23:31:59+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-27T23:52:26+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-28T00:28:47+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-28T00:40:00+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-28T00:41:47+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-28T00:43:45+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-28T01:30:45+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-28T01:38:01+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-28T01:39:03+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-28T02:29:08+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-28T02:33:31+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-28T03:08:28+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-28T04:10:15+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-28T04:37:34+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-28T04:42:23+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-28T04:55:47+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    }
   ]
- },
- "truncated": {
-  "count": 0,
-  "by_lang": {},
-  "sample": []
- },
- "no_sources": {
-  "count": 0,
-  "by_lang": {},
-  "sample": []
- },
- "url_mismatch": {
-  "count": 624,
-  "by_lang": {
-   "en": 53,
-   "ja": 91,
-   "ko": 57,
-   "es": 77,
-   "fr": 65,
-   "vi": 55,
-   "id": 48,
-   "pt": 43,
-   "hi": 47,
-   "ar": 27,
-   "ru": 33,
-   "de": 28
-  },
-  "missing": 1269,
-  "extra": 752,
-  "sample": [
-   {
-    "path": "knowledge/en/Music/choir.md",
-    "missing": 1,
-    "extra": 1
-   },
-   {
-    "path": "knowledge/en/Music/indigenous-music-traditions.md",
-    "missing": 1,
-    "extra": 1
-   },
-   {
-    "path": "knowledge/en/Music/taiwan-music-festival-culture.md",
-    "missing": 3,
-    "extra": 0
-   },
-   {
-    "path": "knowledge/en/Economy/evergreen-marine.md",
-    "missing": 1,
-    "extra": 0
-   },
-   {
-    "path": "knowledge/en/Economy/taiwan-shipbuilding-industry.md",
-    "missing": 1,
-    "extra": 1
-   },
-   {
-    "path": "knowledge/en/Technology/ai-development-in-taiwan.md",
-    "missing": 2,
-    "extra": 0
-   },
-   {
-    "path": "knowledge/en/Technology/taiwan-audio-industry-development.md",
-    "missing": 2,
-    "extra": 0
-   },
-   {
-    "path": "knowledge/en/Technology/taiwan-tech-storytelling.md",
-    "missing": 5,
-    "extra": 0
-   },
-   {
-    "path": "knowledge/en/Art/taiwanese-cinema.md",
-    "missing": 2,
-    "extra": 2
-   },
-   {
-    "path": "knowledge/en/Art/wang-hsin-jen-artist.md",
-    "missing": 5,
-    "extra": 5
-   },
-   {
-    "path": "knowledge/en/Art/new-ecological-art-environment.md",
-    "missing": 1,
-    "extra": 1
-   },
-   {
-    "path": "knowledge/en/Lifestyle/taiwan-scooter-culture.md",
-    "missing": 1,
-    "extra": 0
-   }
-  ]
- },
- "history": [
-  {
-   "ts": "2026-08-08T20:29:58+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-08-08T20:45:08+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-08-08T21:00:19+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-08-08T21:15:29+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-08-08T21:30:41+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-08-08T21:45:52+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-08-08T22:01:02+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-08-08T22:16:12+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-08-08T22:31:22+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-08-08T22:46:34+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-08-08T23:01:45+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-08-08T23:16:56+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-08-08T23:32:06+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-08-08T23:47:16+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-08-09T00:02:26+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-08-09T00:17:37+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-08-09T00:32:47+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-08-09T00:47:57+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-08-09T01:03:07+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-08-09T01:18:17+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-08-09T01:33:26+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-08-09T01:48:36+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-08-09T02:03:46+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-08-09T02:18:56+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-08-09T02:34:06+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-08-09T02:49:16+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-08-09T03:04:26+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-08-09T03:19:36+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-08-09T03:34:46+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-08-09T03:49:56+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-08-09T04:05:05+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-08-09T04:20:15+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-08-09T04:35:25+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-08-09T04:50:35+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-08-09T05:05:45+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-08-09T05:20:55+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-08-09T05:36:05+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-08-09T05:51:15+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-08-09T06:06:25+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-08-09T06:21:35+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-08-09T06:36:44+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-08-09T06:51:54+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-08-09T07:07:04+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-08-09T07:22:14+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-08-09T07:37:24+08:00",
-   "fresh_total": 8045,
-   "gap_total": 1701
-  },
-  {
-   "ts": "2026-09-26T18:57:45+08:00",
-   "fresh_total": 13233,
-   "gap_total": 255
-  },
-  {
-   "ts": "2026-09-26T19:08:59+08:00",
-   "fresh_total": 13242,
-   "gap_total": 246
-  },
-  {
-   "ts": "2026-09-26T20:10:53+08:00",
-   "fresh_total": 13282,
-   "gap_total": 206
-  },
-  {
-   "ts": "2026-09-26T20:53:21+08:00",
-   "fresh_total": 13323,
-   "gap_total": 165
-  },
-  {
-   "ts": "2026-09-26T21:31:42+08:00",
-   "fresh_total": 13344,
-   "gap_total": 144
-  },
-  {
-   "ts": "2026-09-26T21:44:27+08:00",
-   "fresh_total": 13365,
-   "gap_total": 123
-  },
-  {
-   "ts": "2026-09-26T22:26:18+08:00",
-   "fresh_total": 13392,
-   "gap_total": 96
-  },
-  {
-   "ts": "2026-09-26T23:20:52+08:00",
-   "fresh_total": 13393,
-   "gap_total": 95
-  },
-  {
-   "ts": "2026-09-27T00:44:27+08:00",
-   "fresh_total": 13421,
-   "gap_total": 67
-  },
-  {
-   "ts": "2026-09-27T00:55:05+08:00",
-   "fresh_total": 13422,
-   "gap_total": 66
-  },
-  {
-   "ts": "2026-09-27T11:57:09+08:00",
-   "fresh_total": 13485,
-   "gap_total": 3
-  },
-  {
-   "ts": "2026-09-27T12:41:37+08:00",
-   "fresh_total": 13488,
-   "gap_total": 0
-  },
-  {
-   "ts": "2026-09-27T12:43:45+08:00",
-   "fresh_total": 13488,
-   "gap_total": 0
-  },
-  {
-   "ts": "2026-09-27T13:28:56+08:00",
-   "fresh_total": 13488,
-   "gap_total": 0
-  },
-  {
-   "ts": "2026-09-27T14:28:57+08:00",
-   "fresh_total": 13488,
-   "gap_total": 0
-  },
-  {
-   "ts": "2026-09-27T15:28:57+08:00",
-   "fresh_total": 13488,
-   "gap_total": 0
-  },
-  {
-   "ts": "2026-09-27T15:41:02+08:00",
-   "fresh_total": 13488,
-   "gap_total": 0
-  },
-  {
-   "ts": "2026-09-27T16:22:29+08:00",
-   "fresh_total": 13488,
-   "gap_total": 0
-  },
-  {
-   "ts": "2026-09-27T16:59:46+08:00",
-   "fresh_total": 13488,
-   "gap_total": 0
-  },
-  {
-   "ts": "2026-09-27T17:07:44+08:00",
-   "fresh_total": 13488,
-   "gap_total": 0
-  },
-  {
-   "ts": "2026-09-27T17:09:02+08:00",
-   "fresh_total": 13488,
-   "gap_total": 0
-  },
-  {
-   "ts": "2026-09-27T17:10:07+08:00",
-   "fresh_total": 13488,
-   "gap_total": 0
-  },
-  {
-   "ts": "2026-09-27T17:28:48+08:00",
-   "fresh_total": 13488,
-   "gap_total": 0
-  },
-  {
-   "ts": "2026-09-27T17:33:32+08:00",
-   "fresh_total": 13488,
-   "gap_total": 0
-  },
-  {
-   "ts": "2026-09-27T17:34:15+08:00",
-   "fresh_total": 13488,
-   "gap_total": 0
-  },
-  {
-   "ts": "2026-09-27T18:28:58+08:00",
-   "fresh_total": 13488,
-   "gap_total": 0
-  },
-  {
-   "ts": "2026-09-27T18:33:47+08:00",
-   "fresh_total": 13488,
-   "gap_total": 0
-  },
-  {
-   "ts": "2026-09-27T19:28:46+08:00",
-   "fresh_total": 13488,
-   "gap_total": 0
-  },
-  {
-   "ts": "2026-09-27T19:35:19+08:00",
-   "fresh_total": 13488,
-   "gap_total": 0
-  },
-  {
-   "ts": "2026-09-27T19:36:14+08:00",
-   "fresh_total": 13488,
-   "gap_total": 0
-  },
-  {
-   "ts": "2026-09-27T19:37:59+08:00",
-   "fresh_total": 13488,
-   "gap_total": 0
-  },
-  {
-   "ts": "2026-09-27T20:29:11+08:00",
-   "fresh_total": 13488,
-   "gap_total": 0
-  },
-  {
-   "ts": "2026-09-27T20:42:55+08:00",
-   "fresh_total": 13488,
-   "gap_total": 0
-  },
-  {
-   "ts": "2026-09-27T21:29:16+08:00",
-   "fresh_total": 13488,
-   "gap_total": 0
-  },
-  {
-   "ts": "2026-09-27T21:46:58+08:00",
-   "fresh_total": 13488,
-   "gap_total": 0
-  },
-  {
-   "ts": "2026-09-27T22:29:03+08:00",
-   "fresh_total": 13488,
-   "gap_total": 0
-  },
-  {
-   "ts": "2026-09-27T22:33:42+08:00",
-   "fresh_total": 13488,
-   "gap_total": 0
-  },
-  {
-   "ts": "2026-09-27T22:44:11+08:00",
-   "fresh_total": 13488,
-   "gap_total": 0
-  },
-  {
-   "ts": "2026-09-27T23:29:04+08:00",
-   "fresh_total": 13488,
-   "gap_total": 0
-  },
-  {
-   "ts": "2026-09-27T23:31:59+08:00",
-   "fresh_total": 13488,
-   "gap_total": 0
-  },
-  {
-   "ts": "2026-09-27T23:52:26+08:00",
-   "fresh_total": 13488,
-   "gap_total": 0
-  },
-  {
-   "ts": "2026-09-28T00:28:47+08:00",
-   "fresh_total": 13488,
-   "gap_total": 0
-  },
-  {
-   "ts": "2026-09-28T00:40:00+08:00",
-   "fresh_total": 13488,
-   "gap_total": 0
-  },
-  {
-   "ts": "2026-09-28T00:41:47+08:00",
-   "fresh_total": 13488,
-   "gap_total": 0
-  },
-  {
-   "ts": "2026-09-28T00:43:45+08:00",
-   "fresh_total": 13488,
-   "gap_total": 0
-  },
-  {
-   "ts": "2026-09-28T01:30:45+08:00",
-   "fresh_total": 13488,
-   "gap_total": 0
-  },
-  {
-   "ts": "2026-09-28T01:38:01+08:00",
-   "fresh_total": 13488,
-   "gap_total": 0
-  },
-  {
-   "ts": "2026-09-28T01:39:03+08:00",
-   "fresh_total": 13488,
-   "gap_total": 0
-  },
-  {
-   "ts": "2026-09-28T02:29:08+08:00",
-   "fresh_total": 13488,
-   "gap_total": 0
-  },
-  {
-   "ts": "2026-09-28T02:33:31+08:00",
-   "fresh_total": 13488,
-   "gap_total": 0
-  },
-  {
-   "ts": "2026-09-28T03:08:28+08:00",
-   "fresh_total": 13488,
-   "gap_total": 0
-  }
- ]
 }
