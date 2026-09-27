@@ -421,6 +421,21 @@ def provenance_lines(zh_path: str, zh_content: str) -> list[str]:
     ]
 
 
+PROVENANCE_KEYS = ("translatedFrom:", "sourceCommitSha:", "sourceContentHash:",
+                   "sourceBodyHash:", "translatedAt:")
+
+
+def replace_provenance(fm_block: str, zh_path: str, zh_content: str) -> str:
+    """把 translate_frontmatter() 產出的 provenance 行按鍵名剝掉，換成 provenance_lines()。
+
+    舊版寫死 `[:-4]`，假設對方固定在尾端 append 4 行。2026-09-26 structured-translate
+    補寫 sourceBodyHash 變成 5 行之後，切片只剝掉後 4 行、留下 translatedFrom，再 append
+    一份 → YAML 重複鍵。dispatcher 一整批 63 篇因此被 pre-commit 擋在暫存區五小時。
+    按鍵名剝，對方行數再變也不會壞。"""
+    kept = [l for l in fm_block.split("\n") if not l.startswith(PROVENANCE_KEYS)]
+    return "\n".join(kept + provenance_lines(zh_path, zh_content))
+
+
 def rebuild_frontmatter_preserve_translation(zh_fm: dict, tr_fm: dict, zh_path: str,
                                               zh_content: str) -> str:
     """title/description/tags/subcategory 在 old_sha→HEAD 之間語意未變 → 不燒
@@ -842,8 +857,7 @@ def main() -> int:
         # （translatedFrom/sourceCommitSha/sourceContentHash/translatedAt，見它的
         # 原始碼）——換成我們自己這份 5 行（多一個 sourceBodyHash，見
         # provenance_lines() docstring），兩條路徑最終 provenance 格式統一。
-        fm_lines_all = fm_block.split("\n")
-        fm_block = "\n".join(fm_lines_all[:-4] + provenance_lines(args.zh_path, zh_content))
+        fm_block = replace_provenance(fm_block, args.zh_path, zh_content)
     else:
         fm_block = rebuild_frontmatter_preserve_translation(zh_fm, tr_fm, args.zh_path, zh_content)
     fm_problems = st.validate_frontmatter_block(fm_block, args.lang)
