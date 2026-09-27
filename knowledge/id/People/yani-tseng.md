@@ -1,9 +1,9 @@
 ---
-title: 'Tseng Ya-ni'
-description: '109 minggu nomor satu dunia, 15 gelar LPGA, 5 gelang besar, 22 tahun menjadi pemain paling muda memiliki 5 gelang besar sekaligus, melebihi rekord Tiger Woods; Oktober 2025 berakhir kehamparan 11 tahun tanpa gelar, kembali menjadi pemenang'
+title: 'Yani Tseng'
+description: '109 minggu nomor satu dunia, 15 gelar LPGA, 5 gelang besar, 22 tahun menjadi pemain paling muda memiliki 5 gelang besar sekaligus, melampaui rekor Tiger Woods; Oktober 2025 mengakhiri 11 tahun tanpa gelar, kembali menjadi juara'
 date: 2026-03-31
 category: 'People'
-subcategory: 'Olahraga'
+subcategory: '體育'
 tags:
   - 'olahraga'
   - 'golf'
@@ -20,138 +20,136 @@ translatedFrom: 'People/曾雅妮.md'
 sourceCommitSha: 'f99a9959c'
 sourceContentHash: 'sha256:890dbecd669ee83c'
 sourceBodyHash: 'sha256:480fe5c7e2becbe9'
-translatedAt: '2026-07-25T06:34:15+08:00'
+translatedAt: '2026-09-28T02:52:34+08:00'
 ---
 
-# Tseng Ya-ni
+# Yani Tseng
 
-> **30 detik ringkasan:** Pada 31 Juli 2011, Tseng Ya-ni (22 tahun) berhasil mempertahankan gelar di Kompetisi Golf Wanita Inggris dengan 212 pot, menjadi pemain paling muda di sejarah yang memiliki 5 gelang besar — pada usia yang sama, Tiger Woods hanya memiliki 2. Rekord 109 minggu sebagai nomor satu dunia, yang belum pecahkan selama lebih dari sepuluh tahun dalam sejarah golf wanita. Selama kariernya, LPGA 15 gelar, 5 gelang besar, ini adalah pencapaian tertinggi bagi atlet Taiwan dalam satu acara olahraga profesional internasional. Pada Oktober 2025, di lapangan golf Yangshang, ia memenangkan gelar setelah 11 tahun mengendap, menatap mata merah berkata pada diri sendiri, "Sudah berat."
+> **Ringkasan 30 detik:** Pada 31 Juli 2011, Yani Tseng (22 tahun) berhasil mempertahankan gelar di Championship Golf Wanita Inggris dengan skor 212, menjadi pemain termuda di sejarah yang memiliki 5 gelang besar — pada usia yang sama, Tiger Woods hanya punya 2. Rekor 109 minggu sebagai nomor satu dunia belum pernah terlampaui di sejarah golf wanita selama lebih dari sepuluh tahun. Sepanjang karier profesionalnya, Tseng meraih 15 gelar LPGA dan 5 gelang besar — pencapaian tertinggi atlet Taiwan dalam satu tur golf profesional internasional. Oktober 2025, di lapangan Yangsheng, dia memenangkan gelar setelah 11 tahun mengalami keputusan, dengan air mata mata merah berkata pada dirinya sendiri, "Sudah berat."
 
-2025 Oktober, lapangan golf Yangshang, ribuan penonton menunggu di situ. Mereka menunggu selama 11 tahun.
+2025 Oktober, lapangan golf Yangsheng, ribuan penonton menunggu di sana. Mereka telah menunggu selama 11 tahun.
 
-"Pada 2011, saya mencapai puncak di sini. 14 tahun berlalu, dan saya kembali menang di sini. Melihat dukungan keluarga, teman, dan penonton membuat saya bertahan." Kata Tseng Ya-ni, matanya merah. Hari itu ia berusia 36 tahun, memenangkan gelar kariernya nomor 28 — mengakhiri kehamparan 4291 hari tanpa gelar.
+"Pada 2011, saya mencapai puncak di sini. 14 tahun telah berlalu, dan saya kembali menang di sini. Melihat dukungan keluarga, teman, dan penonton membuat saya bisa bertahan." Begitulah Yani Tseng mengucapkannya, dengan mata yang berkaca-kaca. Pada hari itu dia berusia 36 tahun, meraih gelar karier ke-28 — mengakhiri masa tanpa juara selama 4.291 hari.
 
-Penutupan ini, bersama dengan puncaknya pada 2011, membentuk garis utama kisah ini.
+Penutupan ini, bersama dengan puncaknya pada 2011, membentuk garis utuh kisah ini.
 
-## 6 Tahun: Bentuk Awal Bakat
+## Usia 6 Tahun: Bentuk Awal Bakat
 
-23 Januari 1989, Tseng Ya-ni lahir di Yangmei, Taoyuan. Pada usia 6 tahun, orang tuanya membawanya ke lapangan golf untuk bersenang-senang. Satu tendakan pertama yang diberikannya membuat semua orang di sekitarnya memperhatikan. Bukan hasil latihan, melainkan rasa ruang dan temporal yang alami.
+23 Januari 1989, Yani Tseng lahir di Yangmei, Taoyuan. Pada usia 6 tahun, orang tuanya membawanya ke lapangan golf untuk bersenang-senang. Satu ayunan pertama yang diberikannya membuat semua orang di sekitarnya memperhatikan. Bukan hasil latihan, melainkan rasa ruang dan waktu yang alami.
 
-Mulai usia 8 tahun, ia mulai dilatih secara resmi. Selama muda, ia mengalahkan kompetisi amateur di Asia. Sumber daya pelatihan golf wanita di Taiwan tidak sebanyak yang lain, tetapi bakatnya membuatnya menonjol dari lingkungan yang terbatas itu, menyiapkan fondasi teknis yang cukup untuk beralih ke kompetisi profesional.
+Mulai usia 8 tahun, dia menerima pelatihan resmi. Selama masa muda, dia mengalahkan kompetisi amatir di seluruh Asia Pasifik. Sumber daya pelatihan golf wanita di Taiwan tidak sebanyak tempat lain, namun bakatnya membuat dia menonjol dari lingkungan yang terbatas itu, mempersiapkan fondasi teknis yang memadai untuk beralih ke kompetisi profesional.
 
-2005 tahun, berusia 16 tahun, Tseng Ya-ni bergabung dengan golf profesional. Ia mulai bermpertandingkan di Asian Women's Professional Golf Tour (ALPG). 2007 tahun, ia memenangkan gelar profesional pertamanya — Kompetisi Golf Wanita DLF di India. Sama tahun, ia menang di LPGA Tour di Kanada, memberi tahu dunia bahwa ia sudah siap menembus panggung yang lebih besar.
+Tahun 2005, pada usia 16 tahun, Yani Tseng bergabung dengan golf profesional. Dia mulai berkompetisi di Asian Women's Professional Golf Tour (ALPG). Tahun 2007, dia meraih gelar profesional pertamanya — Kejuaraan Golf Wanita DLF di India. Tahun yang sama, dia juara di Women's Tour Kanada, memberitahu dunia bahwa dia sudah siap untuk panggung yang lebih besar.
 
-## Menang di Liga Besar Pertama: Mc Donald's LPGA Championship 2008
+## Juara di Besar Pertama: Kejuaraan LPGA McDonald's 2008
 
-2008 tahun, Tseng Ya-ni memperoleh izin ikut serta LPGA Tour. Ia melangkah pada panggung golf wanita dengan tingkat dunia tertinggi.
+Tahun 2008, Yani Tseng memperoleh kualifikasi untuk tour LPGA dan resmi melangkah ke panggung golf wanita tingkat dunia.
 
-Ia menang di LPGA Major pertamanya.
+Dia memenangkan major LPGA pertamanya dalam pertandingan pertamanya.
 
-2008 McDonald's LPGA Championship, ia mengalahkan markas besar Amerika Serikat Maria Hjorth dalam putaran ekstra, mengamankan gelar. Ia menjadi pemain Tionghoa pertama yang menang di LPGA Major. Usia 19 tahun, pertama kali ikut serta di LPGA Major, berhasil menang.
+Kejuaraan LPGA McDonald's 2008, dia mengalahkan nama besar Amerika Maria Hjorth dalam putaran tambahan, merebut gelar. Dia menjadi pemain pertama keturunan Tionghoa yang memenangkan major LPGA. Usia 19 tahun, pertama kali bermain di major LPGA, dia menang.
 
-Pada tahun yang sama, ia juga menang di LPGA State Farm Classic, meraih 2 gelar selama tahun.
+Tahun yang sama, dia juga memenangkan LPGA State Farm Classic, meraih 2 gelar sepanjang tahun.
 
-Kemenangan ini merangsang semangat golf di Taiwan sekaligus, dan membuat LPGA secara serius memandang wajah baru dari Taiwan itu. Ia bukan kejutan yang tiba tiba — hasilnya menunjukkan hal itu.
+Kemenangan ini memicu gairah golf di Taiwan sekaligus membuat LPGA mulai serius memandang wajah baru dari Taiwan. Dia bukan kejutan yang sekejap — hasil-hasil berikutnya membuktikan hal itu.
 
-📝 **Keterampilan golf Tseng Ya-ni tidak dari kekuatan pecah, melainkan kontrol jarak yang sangat akurat dan stabilitas psikologis dalam kondisi tekanan. Akurasi drive-nya membuatmu dapat melihat dimana ia ingin bola jatir — jenis keheningan itu, pada seorang pemula profesional berusia 19 tahun, sangat langka.**
+📝 **Keterampilan golf Yani Tseng bukan terletak pada kekuatan ledakan, melainkan pada kontrol jarak yang luar biasa akurat dan stabilitas psikologis dalam tekanan. Ketepatan long gamenya memungkinkan kamu melihat persis di mana dia menginginkan bola jatuh — jenis ketenangan itu, pada seorang pemula profesional berusia 19 tahun, sangat langka.**
 
 ## 2010–2012: Tiga Tahun Menguasai Golf Wanita
 
-2010 tahun adalah awalnya menjadi penguasa.
+Tahun 2010 adalah awal kenaikannya menjadi penguasa.
 
-Tahun itu ia memenangkan 5 gelar LPGA, termasuk Kompetisi Golf Wanita Inggris dan Kompetisi Nabisco (ANA Inspiration). Ia menjadi pemain pertama di sejarah yang menangkan kedua gelar besar itu dalam satu tahun, serta mengamankan 3 gelar besar pada usia 21 tahun, mencatat rekord usia termuda menjadi pemain wanita yang mencapai hal itu, serta memenangkan Pemain Tahun, dan papan hadiah pemenang.
+Tahun itu dia meraih 5 gelar LPGA, termasuk Championship Golf Wanita Inggris dan Kejuaraan Nabisco (ANA Inspiration). Dia menjadi pemain pertama di sejarah yang memenangkan kedua major tersebut dalam satu tahun, serta mengamankan 3 gelang besar pada usia 21 tahun, menetapkan rekor pemain wanita termuda mencapai prestasi itu, dan memenangkan Pemain Terbaik Tahun serta memimpin daftar hadiah uang.
 
-**2011 Februari**, ia menang di Kompetisi Wanita ANZ, pertama kali naik ke peringkat satu dunia. Ini adalah titik awal mempertahankannya selama 109 minggu.
+**Februari 2011**, dia memenangkan ANZ Women's Championship, kali pertama mencapai peringkat nomor satu dunia. Ini adalah awal dari 109 minggu mempertahankan posisi itu.
 
-2011 Juni, Taiwan memperoleh hak co-organisasi LPGA — Wegmans LPGA Championship di Taoyuan Yangshang Golf Course, mengundang lebih dari 60.000 penonton dalam 4 hari. Semangatnya, tidak pernah ada di sejarah olahraga Taiwan. Tseng Ya-ni menang dengan total 269 pot, 19 pot di bawah standar, mengalahkan secara menyongsong. Pada usia 22 tahun, di balik kemenangan itu, ia menjadi pemain paling muda di sejarah yang memiliki 4 gelar besar — Tiger Woods pada usia yang sama hanya memiliki 2.
+Juni 2011, Taiwan memperoleh hak penyelenggaraan kejuaraan LPGA — Kejuaraan LPGA Wegmans di Lapangan Golf Yangsheng, Taoyuan menarik lebih dari 60.000 penonton selama 4 hari. Antusiasme seperti itu hampir tidak pernah terjadi dalam sejarah olahraga Taiwan. Yani Tseng menang dengan total 269 pukulan, 19 di bawah par, dengan margin yang mengesankan. Pada usia 22 tahun, setelah kemenangan ini, dia menjadi pemain termuda di sejarah yang memiliki 4 gelang besar — Tiger Woods pada usia yang sama hanya punya 2.
 
-**31 Juli 2011, Kompetisi Golf Wanita Inggris.** Total 212 pot, 16 pot di bawah standar, berhasil mempertahankan gelar. Ia menjadi pemain paling muda di sejarah yang memiliki 5 gelar besar, sekaligus menjadi pemain pertama yang berhasil mempertahankan gelar di Kompetisi Golf Wanita Inggris yang baru berubah menjadi kompetisi profesional.
+**31 Juli 2011, Kejuaraan Golf Wanita Inggris.** Total 212 pukulan, 16 di bawah par, berhasil mempertahankan gelar. Dia menjadi pemain termuda di sejarah yang memiliki 5 gelang besar, serta pemain pertama yang berhasil mempertahankan Kejuaraan Golf Wanita Inggris sejak turnamen itu menjadi profesional.
 
-2011 tahun: 7 gelar LPGA, 2 gelar besar, Pemain Tahun, papan hadiah pemenang. Pada tahun LPGA itu, kompetisi hampir berbentuk "Tseng Ya-ni vs siapa pun yang lain".
+Tahun 2011: 7 gelar LPGA, 2 gelang besar, Pemain Terbaik Tahun, memimpin daftar hadiah. Dalam tour LPGA tahun itu, struktur kompetisinya hampir adalah "Yani Tseng vs. semua orang lain".
 
-2012 tahun, ia menang di Kompetisi Thailand dengan -19 pot, memenangkan Kompetisi Kembangan Orphans, serta gelar ketiga di Kompetisi Asia.
+Tahun 2012, dia menang di turnamen Thailand dengan skor -19, memenangkan Founder's Cup, dan meraih gelar ketiga di Kia Championship.
 
-2010–2012 tiga tahun, ia secara keseluruhan memenangkan 13 gelar LPGA, termasuk 4 gelar besar.
+Tiga tahun 2010–2012, secara keseluruhan dia memenangkan 13 gelar LPGA, termasuk 4 gelang besar.
 
-## 109 Minggu: Rekord yang Belum Pecahkan Selama Lebih dari Sepuluh Tahun
+## 109 Minggu: Rekor yang Tidak Terlampaui Lebih dari Sepuluh Tahun
 
-2011 Februari, pertama kali naik ke peringkat satu dunia. Rekor 109 minggu itu dipertahankannya hingga 2013 tahun sebelum turun ke peringkat dua.
+Februari 2011, dia pertama kali mencapai peringkat nomor satu dunia. Rekor 109 minggu ini dipertahankannya hingga 2013 sebelum turun ke peringkat dua.
 
-Mengutip angka ini memberi konteks yang berat: LPGA sekitar 30 kompetisi per tahun, pemain top dari Amerika Serikat, Korea Selatan, Jepang, Thailand semua bersaing di sana. Setiap minggu daftar skor adalah medan tempat nyata. Berhenti lebih dari dua tahun tanpa mengganti posisi berarti ia menyiapkan keunggulan yang tidak bisa ditantang rekan-rekan selama setiap akhir pekan turnamen.
+Menempatkan angka ini dalam konteks: LPGA menyelenggarakan sekitar 30 turnamen per tahun, dengan pemain top dari Amerika Serikat, Korea Selatan, Jepang, dan Thailand semua berkompetisi di panggung yang sama. Setiap minggu daftar peringkat adalah medan pertempuran nyata. Bertahan lebih dari dua tahun tanpa mengalah berarti dia mempertahankan keunggulan yang tidak tertandingi rekan-rekannya setiap akhir pekan musim.
 
-Bukan "beberapa kompetisi tertentu yang luar biasa", melainkan output tingkat tinggi yang terus-menerus — itulah sebenarnya kesulitan 109 minggu.
+Bukan "beberapa turnamen tertentu yang luar biasa", melainkan output level tinggi yang berkelanjutan — itulah kesulitan sejati dari 109 minggu.
 
-Rekor ini dalam sejarah golf wanita belum pernah pecahkan selama lebih dari sepuluh tahun.
+Rekor ini dalam sejarah golf wanita belum pernah terlampaui selama lebih dari sepuluh tahun.
 
-## Teknik Menyeluruh: Mengapa Ia Bisa Menguasai Begitu Lama
+## Teknik Menyeluruh: Mengapa Dia Bisa Mendominasi Begitu Lama
 
-Peringkat dunia golf tidak seperti tenis, satu kompetisi besar saja bisa mengubahnya. Poin LPGA dikumpulkan setiap minggu, kontrol posisi depan yang stabil plus kemenangan kadang-kadang adalah rumus untuk menjadi nomor satu dunia secara bertahun-tahun.
+Peringkat dunia golf tidak seperti tenis, di mana satu turnamen besar dapat mengubahnya secara dramatis. Poin LPGA terakumulasi setiap minggu, dengan performa konsisten di posisi depan ditambah kemenangan sesekali adalah formula untuk menjadi nomor satu dunia jangka panjang.
 
-Tseng Ya-ni bisa mempertahankan 109 minggu berkat stabilitas teknik menyeluruhnya.
+Yani Tseng mampu mempertahankan 109 minggu berkat stabilitas teknik menyeluruhnya.
 
-Persentase ball dalam jalur (Fairway in Regulation) selama bertahun-tahun berada di puncak, berarti jarang membawa bola ke lokasi yang rumit, memberi pilihan serangan yang lebih jelas. Kontrol drive-nya adalah senjata utamanya, persepsi jarak dan kontrol bidang tembakannya memberi keunggulan dalam serangan ke green. Statistik GIR (Ball dalam Green)nya unggul, serta kemampuan putter dan baca green di level teratas di seluruh turnamen.
+Tingkat fairway-nya (Fairway in Regulation) konsisten di peringkat teratas selama bertahun-tahun, berarti dia jarang menempatkan bola dalam situasi sulit, memberikan pilihan serangan yang lebih jelas. Kontrol long game-nya adalah senjata utamanya — persepsi jarak dan kontrol terbang yang memungkinkan keunggulan jelas saat menyerang greens. Statistik GIR-nya superior, dengan kemampuan putting dan membaca green di level teratas seluruh tour. Kekuatan terbesar mungkin adalah psikologinya. Dalam beberapa lubang akhir pertandingan, saat memimpin, atau saat mengejar skor, ritme swing dan kecepatan keputusannya hampir tidak berubah. Jenis keteguhan ini di bawah tekanan lebih sulit dipelajari daripada teknik apa pun.
 
-Bagian paling kuatnya mungkin psikologisnya. Dalam beberapa terakhir dari kompetisi, saat berpendapat, atau saat mengikuti skor, ritme drive dan keputusannya hampir tidak berubah. Jenis keabadian ini di bawah tekanan, lebih sulit dipelajari daripada teknik mana pun.
+## Penurunan: 4.291 Hari Berjuang
 
-## Penurunan: 4291 Hari Berjuang
+Tahun 2013, Yani Tseng tidak memenangkan gelar sepeninggal tahun, turun dari peringkat nomor satu. Dunia luar mulai berbicara tentang "terjatuh dari godaan" dan "mimpi yang berakhir".
 
-2013 tahun, Tseng Ya-ni tidak memenangkan gelar selama tahun, turun ke peringkat dunia. Luar itu mulai terdengar suara "turun dari tuwa" dan "akhir cerita legendaris".
+Tahun 2014, dia memenangkan Kejuaraan Golf Wanita Taifeng Taiwan, kembali setelah 22 bulan, di hadapan penonton lokal. Namun setelah kemenangan itu, perjuangan yang lebih panjang baru benar-benar dimulai.
 
-2014 tahun, ia memenangkan Kompetisi Golf Wanita Taiwan di Taifung, kembali setelah 22 bulan, di depan penonton lokal. Namun setelah kemenangan itu, masalah yang lebih panjang mulai benar-benar terasa.
+Dia mengubah teknik swing, mengganti pelatih, mencoba menemukan kembali rasa itu. Namun cedera adalah masalah yang lebih mendasar: **cedera pinggul membuatnya menjalani dua operasi**. Setiap operasi memutus ritme latihan, memaksanya membangun kembali koordinasi tubuhnya dari awal. Rehabilitasi panjang, ketidakpastian terus-menerus dalam penyesuaian, ditambah perhatian dunia luar — tekanan psikologis selama beberapa tahun itu jauh melampaui masalah teknis. Dia melintasi periode depresi.
 
-Ia mengubah teknik drive, mengganti pelatih, mencoba menemukan kembali rasa. Tapi cedera adalah masalah yang lebih mendasar: **cedera lutut membuatnya operasi dua kali**, setiap operasi memutuskanannya latihan, membuatnya harus membangun kembali koordinasi tubuhnya. Rehabilitasi yang lama, rasa tidak pasti yang harus disesuaikan berulang-ulang, serta tatapan luar — tekanan psikologis selama beberapa tahun itu jauh melebihi masalah teknik. Ia melewati periode depresi.
+Lebih dari setahun yang lalu, dia bahkan mengubah putting stroke menjadi tangan kiri, mencoba mengatasi bottleneck putting-nya. Keputusan itu hampir tidak pernah didengar dalam golf profesional, tetapi Yani Tseng melakukannya — bisa dilihat betapa desperatnya dia untuk kembali berkompetisi.
 
-Lebih dari satu tahun yang lalu, bahkan mengubah putter menjadi tangan kiri, mencoba mengatasi bottleneck putter. Keputusan itu hampir tidak pernah dengar di golf profesional, tapi Tseng Ya-ni melakukannya — bisa dilihat betapa inginannya kembali ke papan skor.
+Angka-angka membuatnya jelas: Tahun 2016, hanya 13 dari 25 turnamen tour yang dia masuki; tahun 2018, hanya 7 dari 20 yang dia selesaikan, dengan hadiah hampir tidak ada; tahun 2020 karena cedera dan pandemi dia hampir tidak bermain sama sekali.
 
-Jumlah rendahnya hasilnya sangat jelas: 2016 tahun, hanya 13 dari 25 turnamen LPGA yang lolos; 2018 tahun, hanya 7 dari 20 yang lolos, hampir tidak ada hadiah; 2020 tahun karena cedera dan pandemi hampir tidak pernah ikut.
+Dalam olahraga profesional, hal yang paling sulit bukanlah kalah — melainkan otak masih mengingat cara bermain sementara tubuh tidak bisa mengikuti. Selama bertahun-tahun, dia berada di kesenjangan itu, tidak pernah pergi.
 
-Dalam olahraga profesional, paling sulit bukanlah kalah, melainkan otak tetap ingat cara bermain, tubuh tidak bisa mengikutinya. Selama bertahun-tahun, ia berada di kesenjangan itu, tidak pernah meninggalkan lapangan.
+📝 **"Saya melihat diri saya sebagai seseorang yang sangat mencintai golf."** Begitulah Yani Tseng berkata saat diwawancarai di akhir 2024. Dia tidak mengatakan "saya ingin kembali ke nomor satu". Dia berbicara tentang cinta — itu adalah alasan dia terus muncul di lapangan, dan alasan akhirnya bertahan. (Dari Warta Agama, 2024)
 
-📝 **"Saya melihat diri sendiri sebagai seseorang yang sangat menyukai golf."** Kata Tseng Ya-ni pada akhir 2024 dalam wawancara. Ia tidak berkata "saya ingin kembali ke peringkat satu". Ia berkata tentang cinta — itu adalah alasan ia tetap muncul di lapangan, serta alasan akhirnya bertahan. (Sumber: Media Tempo, 2024)
+## 2025: Gelar Nomor 28 di Lapangan Golf Yangsheng
 
-## 2025: Gelar Nomor 28 di Lapangan Golf Yangshang
+26 Oktober 2025, lapangan golf Yangsheng.
 
-26 Oktober 2025, lapangan golf Yangshang.
+Julukan "Ratu Senyum" itu, Yani Tseng gunakan selama bertahun-tahun, tetapi senyum itu hilang untuk waktu yang lama. Hari itu, di Kejuaraan Women's Open dengan total hadiah $1 juta, dia menang dengan skor -14, total 130, mengakhiri 11 tahun tanpa gelar. Penonton Taiwan kembali mengerumuninya di green ke-18, meski jumlahnya jauh lebih sedikit dibanding sepuluh tahun lalu, namun kedalaman emosi tidak kalah dengan saat itu.
 
-Nickname "Gilang Matahari" itu, Tseng Ya-ni menggunakannya selama bertahun-tahun, tapi senyum itu ada periode waktunya menghilang. Hari itu, di Kompetisi Women's Open dengan hadiah total $1 juta, ia menang dengan 14 pot di bawah standar, total 130 pot, mengakhiri kehamparan 11 tahun tanpa gelar. Penonton Taiwan kembali mengemungi di green 18, meski jumlah orangnya jauh lebih sedikit dibandingkan sepuluh tahun yang lalu, tetapi kerapatan emosinya tidak kalah dengan masa lalu.
+Dia berkata: "Selama 11 tahun terakhir, hal tersulit adalah tidak tahu apakah itu akan terjadi lagi. Setiap hari yang bisa dilakukan hanyalah terus berusaha, menjaga semangat, memberitahu diri sendiri jangan menyerah, percaya diri bisa, maka hasil tahun ini bisa dilihat." (Dari Kantor Berita Pusat, 2025 Oktober)
 
-Ia berkata: "Selama 10 tahun terakhir, paling berat adalah tidak tahu apakah akan terjadi lagi (mengalahkan). Setiap hari yang bisa dilakukan adalah terus berusaha, mempertahankan semangat, mengatakan pada diri sendiri jangan menyerah, percayalah kamu bisa, dan itulah mengapa hasil akhir bisa terlihat tahun ini." (Sumber: Kompas, 2025 Oktober)
-
-Tseng Ya-ni menangis. Ia berkata pada diri sendiri dalam dua kata: "Sudah berat."
+Yani Tseng menangis. Dia berkata pada dirinya sendiri dalam dua kata: "Sudah berat."
 
 Itu adalah gelar nomor 28 dalam kariernya.
 
-## "Efek Tseng Ya-ni" di Golf Taiwan
+## "Efek Yani Tseng" dalam Golf Taiwan
 
-Selama 2010–2012, periode puncaknya, partisipasi golf di Taiwan tumbuh secara nyata, penonton lapangan dan kelas pelatihan remaja meningkat secara signifikan. Bank Tabungan Pernasada (Taiwan New Bank) mengumumkan pada Mei 2011 bahwa ia menjadi sponsor, menyebutnya sebagai "atlet pertama Taiwan yang naik ke peringkat satu dunia di dunia olahraga inti". Pengiklanan swasta menyusul evaluasi lingkungan bisnis terhadapnya.
+Selama periode puncaknya 2010–2012, partisipasi golf di Taiwan meningkat terlihat, dengan penonton lapangan dan kelas pelatihan remaja mengalami peningkatan signifikan. Taiwan Financial Holdings mengumumkan pada Mei 2011 bahwa ia menjadi sponsor, menyebutnya sebagai "atlet pertama Taiwan yang mencapai peringkat nomor satu dunia dalam olahraga arus utama", mencerminkan penilaian lingkungan bisnis terhadap statusnya.
 
-Ia membantu Taiwan memperoleh hak co-organisasi LPGA pada 2011, memungkinkan kompetisi internasional tingkat dunia diadakan di tanah Taiwan, mengundang lebih dari 60.000 orang untuk melihat tingkat golf wanita teratas dunia secara dekat.
+Dia membantu Taiwan memperoleh hak penyelenggaraan turnamen LPGA pada 2011, membawa kompetisi internasional tingkat dunia ke tanah Taiwan, memungkinkan lebih dari 60.000 orang menyaksikan secara langsung standar golf wanita dunia tertinggi.
 
-Ia juga secara langsung menginvestasikan generasi berikutnya. Ia meluncurkan "Turnamen Pelatihan Golf Tseng Ya-ni", mengajar para pemain muda, mentransformasikan teknik dan sumber dayanya menjadi dukungan untuk generasi mendatang. Di masa yang datang, kemampuan golf wanita Taiwan jelas berbeda dari sebelumnya — Chen Chieh-yun baru-baru ini menampilkan hasil yang stabil di LPGA, sebagian terhormat atas pintu yang dibuka oleh era itu.
+Dia juga secara langsung berinvestasi dalam generasi berikutnya. Dia meluncurkan "Skirt and Swing Golf Training Camp Yani Tseng", melayani sebagai pelatih mengajar pemain muda, mengubah keahlian dan sumber dayanya menjadi dukungan untuk generasi berikutnya. Setelah eraannya, kemampuan golf wanita Taiwan jelas berbeda dari sebelumnya — kinerja stabil Chen Chieh-yun baru-baru ini di LPGA sebagian berhutang pada pintu yang dibuka era itu.
 
-Yang lebih penting, ia mengubah kerangka pengetahuan Taiwan tentang olahraga ini. Golf di Taiwan lama menganggapnya "olahraga orang kaya", bukan olahraga massa. Keberhasilan Tseng Ya-ni menunjukkan bahwa olahraga ini bisa dimulai dari desa kecil Yangmei, dari seorang gadis berusia 6 tahun yang pertama kali menggenggam tenda, menuju puncak dunia.
+Lebih penting lagi, dia mengubah kerangka pikiran Taiwan tentang olahraga ini. Golf lama dilihat di Taiwan sebagai "olahraga orang kaya", bukan olahraga massa. Kesuksesan Yani Tseng menunjukkan bahwa olahraga itu bisa dimulai dari kota kecil Yangmei, dari seorang gadis berusia 6 tahun yang pertama kali menggenggam klub, menuju puncak dunia.
 
-15 gelar LPGA dan 5 gelar besar dari Tseng Ya-ni masih menjadi pencapaian tertinggi bagi atlet Taiwan dalam satu turnamen profesional internasional.
+15 gelar LPGA dan 5 gelang besar Yani Tseng tetap menjadi pencapaian tertinggi atlet Taiwan dalam satu turnamen golf profesional internasional.
 
-| Tahun        | Jumlah Gelar LPGA | Gelar Besar                         | Keterangan                                 |
-| ------------ | ----------------- | ----------------------------------- | ------------------------------------------ |
-| 2008         | 2                 | 1 (LPGA Championship)               | Gelar besar pertama                        |
-| 2009         | 1                 | —                                   | Pencapai hadiah $2 juta tercepat           |
-| 2010         | 5                 | 2 (Nabisco + British Open)          | Pemain Tahun                               |
-| 2011         | 7                 | 2 (LPGA Championship, British Open) | Puncak karier, pertama nomor satu dunia    |
-| 2012         | 3                 | —                                   | Tiga kali berturut-turut naik papan hadiah |
-| Total (LPGA) | 15                | 5                                   | 109 minggu nomor satu dunia                |
+| Tahun        | Gelar LPGA | Gelang Besar                             | Catatan                                  |
+| ------------ | ---------- | ---------------------------------------- | ---------------------------------------- |
+| 2008         | 2          | 1 (Kejuaraan LPGA)                       | Gelang besar pertama                     |
+| 2009         | 1          | —                                        | Pencapai hadiah $2 juta tercepat         |
+| 2010         | 5          | 2 (Nabisco + Championship Inggris)       | Pemain Terbaik Tahun                     |
+| 2011         | 7          | 2 (Kejuaraan LPGA, Championship Inggris) | Puncak karier, pertama nomor satu dunia  |
+| 2012         | 3          | —                                        | Tiga kali berturut-turut memimpin daftar |
+| Total (LPGA) | 15         | 5                                        | 109 minggu nomor satu dunia              |
 
-Angka 109 minggu sebagai nomor satu dunia, beratnya tidak dari posisinya, melainkan dari yang diwakilinya: keangguran yang kokoh, berkelanjutan, dan luar biasa.
+Angka 109 minggu sebagai nomor satu dunia, beratnya bukan dari peringkatnya sendiri, melainkan dari apa yang diwakilinya: keunggulan yang gigih, berkelanjutan, luar biasa.
 
-Dari Yangmei ke dunia, kembali dari kejatuhan di Yangshang 18 – 4291 hari kemudian, senyum itu kembali. Ini bukan hanya cerita golf, melainkan sebuah cerita tentang "sekali lagi".
+Dari Yangmei ke dunia, kemudian kembali dari lembah setelah menempuh 4.291 hari di green ke-18 Yangsheng — senyum itu kembali. Ini bukan hanya kisah golf, tetapi kisah tentang "lagi kali".
 
-## Daftar Pustaka
+## Referensi
 
-- [Tseng Ya-ni - Wikipedia (Bahasa Indonesia)](https://id.wikipedia.org/wiki/Yani_Tseng) (Statistik karier dan gelar besar)
-- [Golf: Seberapa Buruk Bintang Lama Tseng Ya-ni? Setelah 10 Tahun Tanpa Gelar - Kompas Olahraga](https://olahraga.kompas.com/read/2019/07/15/150000010/golf-apa-kekuatan-bintang-lama-yani-tseng) (2019)
-- [Tseng Ya-ni Mengakhiri Kehamparan 11 Tahun, "Sudah Berat" - Kompas](https://www.kompas.com/baca/read/2025/10/26/150000010/tseng-yani-ni-mengakhiri-kehamparan-11-tahun-sudah-berat) (2025, termasuk kutipan wawancara langsung)
-- [Dari Turun, Membangun Kembali, Kembali ke Yangshang 18 - Kesehatan Kompas](https://kesehatan.kompas.com/read/2025/10/26/150000010/golf-apa-kekuatan-bintang-lama-yani-tseng) (2025)
-- [Kembali ke Langkah yang Benar Setelah Turun? Tseng Ya-ni: "Aku Adalah Orang yang Suka Bermain Golf" - Media Tempo](https://www.tempo.co/2024/12/31/golf-apa-kekuatan-bintang-lama-yani-tseng) (2024, termasuk kutipan wawancara langsung)
-- [Bank Pernasada Menjadi Sponsor Bintang Golf Dunia Tseng Ya-ni - Bank Pernasada](https://www.tabunganpensiun.co.id/berita/pengumuman/2011/05/15/bank-pensiun-menjadi-sponsor-bintang-golf-dunia-yani-tseng) (2011, data sponsor swasta)
-- [LPGA Tour Official Website](https://www.lpga.com) (Statistik resmi, satu sumber)
+- [Yani Tseng - Wikipedia bahasa Tionghoa](https://zh.wikipedia.org/zh-tw/%E6%9B%BE%E9%9B%85%E5%A6%AE) (Statistik karier dan prestasi gelang besar)
+- [Betapa kuatnya bintang lama Yani Tseng? Lebih dari 10 tahun tanpa gelar - Liberty Sports](https://sports.ltn.com.tw/news/breakingnews/3025757) (2019)
+- [Yani Tseng Mengakhiri Kehamparan 11 Tahun, "Sudah Berat" - Kantor Berita Pusat](https://www.cna.com.tw/news/aspt/202510260210.aspx) (2025, termasuk wawancara langsung)
+- [Melintasi Depresi, Cedera Pinggul, Kembali ke Yangsheng ke-18 - Kesehatan Liberty](https://health.ltn.com.tw/article/breakingnews/5224495) (2025)
+- [Kembali Berdiri Tegak, Bersiap Ayun Lagi! Yani Tseng: "Saya Adalah Orang yang Mencintai Golf" - Storm Media](https://www.storm.mg/lifestyle/4814132) (2024, termasuk wawancara langsung)
+- [Taiwan Financial Holding Mensponsori Bintang Golf Dunia Yani Tseng - Taiwan Financial](https://www.taishinbank.com.tw/TSB/personal/common/news/TSBankNews-000121/) (2011, data sponsor asli)
+- [LPGA Tour Official Website](https://www.lpga.com) (Statistik resmi, sumber primer)
