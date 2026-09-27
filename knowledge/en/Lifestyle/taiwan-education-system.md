@@ -1,32 +1,31 @@
 ---
 title: "Taiwan's Education System: From Exam Hell to the Maze of Diversity"
-category: Lifestyle
-tags:
-  [
-    education,
-    university entrance exam,
-    cram schools,
-    12-year education,
-    PISA,
-    exam pressure,
-  ]
+description: 'Taiwan spent 30 years trying to abolish its brutal university entrance exam system, only to see cram school enrollments double in 2022. How an island repeatedly experiments with balancing exam pressure and educational equity.'
 date: 2026-03-23
+category: 'Lifestyle'
+tags:
+  - education
+  - university entrance exam
+  - cram schools
+  - 12-year education
+  - PISA
+  - exam pressure
+subcategory: '教育'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-03-23
 lastHumanReview: false
-description: Taiwan spent 30 years trying to abolish its brutal university entrance exam system, only to see cram school enrollments double in 2022. How an island repeatedly experiments with balancing exam pressure and educational equity.
 readingTime: 12
-featured: true
 translatedFrom: 'Lifestyle/台灣教育制度.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:4e9ca27840e47d5f'
 sourceBodyHash: 'sha256:0a4c39eae3411ae0'
-translatedAt: '2026-05-01T17:09:56+08:00'
-author: 'Taiwan.md'
+translatedAt: '2026-09-28T02:52:33+08:00'
 ---
 
-> **30-second overview:** In 2022, "SAT prep school enrollment now open" posters appeared near Taipei Main Station, with consultation numbers doubling compared to the previous year. Ironically, Taiwan spent 30 years on education reform trying to eliminate "one test determines your fate," only to see the first generation under the new curriculum return to exam panic. From 100,000 retakers on Nanyang Street in 1981 to just 2,500 in 2023, then back to cram school revival in 2022—this cycle reflects an island's ongoing debate over the definition of "fairness."
+> **30-second overview:** In 2022, "Cram School Enrollment Now Open" posters appeared near Taipei Main Station, with consultation numbers doubling compared to the previous year. Ironically, Taiwan spent 30 years on education reform trying to eliminate "one test determines your fate," only to see the first generation under the new curriculum return to exam panic. From 100,000 retakers on Nanyang Street in 1981 to just 2,500 in 2023, then back to cram school revival in 2022—this cycle reflects an island's ongoing debate over the definition of "fairness."
 
-In May 2022, when the first cohort under Taiwan's new curriculum received their SAT scores, long-absent posters reappeared near Taipei Main Station: "SAT Prep School Enrollment Now Open." Cram school operators reported consultation numbers growing over 100% compared to the previous year.
+In May 2022, when the first cohort under Taiwan's new curriculum received their exam scores, long-absent posters reappeared near Taipei Main Station: "Cram School Enrollment Now Open." Cram school operators reported consultation numbers growing over 100% compared to the previous year.
 
 This scene felt both familiar and absurd to many Taiwanese. We spent 30 years trying to escape the university entrance exam system—why are students voluntarily returning to "exam hell"?
 
@@ -44,7 +43,7 @@ But this "fairness" came at a steep price. A 1996 Taiwan Panorama magazine repor
 
 In 1981, Nanyang Street and Roosevelt Road in Taipei housed 48 university prep cram schools with over 100,000 students. Against Taiwan's population of less than 20 million at the time, this meant one in every 200 people was retaking university exams.
 
-> **📝 Editor's Note**
+> **📝 Curator's Note**
 > To put 100,000 retakers in perspective: it's equivalent to the entire current population of Tamsui District crammed into two streets near Taipei Station. Every morning at 8 AM, Nanyang Street was more crowded than Xinyi District.
 
 Nanyang Street became the "mecca of cram schools" because in the 60s and 70s, all the famous prep teachers were in Taipei, forcing students from central and southern Taiwan to move north and rent rooms for a year of intensive study. Its proximity to Taipei Main Station made it the natural "pilgrimage route": take the train → get off at Taipei Station → head straight to Nanyang Street to compare cram schools → rent a room for a year → retake the exam.
@@ -53,7 +52,7 @@ According to Chang Hao-jan, Secretary-General of the Taipei Cram School Associat
 
 ## Education Reform Begins: The Dream of Multiple Admission Pathways (1994-2019)
 
-In 1994, education reform introduced "multiple admission pathways." Recommendations, applications, the General Scholastic Ability Test (GSAT), and the Advanced Subject Tests created various routes so students no longer had just one chance.
+In 1994, education reform introduced "multiple admission pathways." Recommendations, applications, the General Scholastic Ability Test, and the Advanced Subjects Test created various routes so students no longer had just one chance.
 
 The core philosophy: every child has different talents and shouldn't be defined solely by test scores. Let art students apply to art departments, athletes pursue sports scholarships, and programming enthusiasts showcase their abilities through portfolios. A fairer society should provide a stage for every type of talent.
 
@@ -69,16 +68,16 @@ But reality proved more complex.
 
 ## The New Curriculum Generation's Retaking Panic: Diversity Becomes Multiple Burdens
 
-The 2019 new curriculum, known as the "108 Curriculum" or "competency-oriented curriculum," aimed to shift from "knowledge memorization" to "ability application," from "standard answers" to "critical thinking."
+In 2019, the new curriculum launched, known as the "108 Curriculum" or "competency-oriented curriculum." It aimed to shift from "knowledge memorization" to "ability application," from "standard answers" to "critical thinking."
 
-The GSAT system also adjusted: from 5 mandatory subjects to choose 4 out of 5, adding flexibility; incorporating mixed question types to test higher-order thinking; emphasizing competencies, testing not just knowledge but application.
+The test system also adjusted: from 5 mandatory subjects to choosing 4 out of 5, adding flexibility; incorporating mixed question types to test higher-order thinking; emphasizing competencies, testing not just knowledge but application. These changes reflected a fundamental shift in educational philosophy.
 
-But in 2022, the first cohort under the new curriculum faced unexpected difficulties. The Advanced Subject Test (replacing the old system) excluded Chinese, English, and Math B, forcing many departments to refer back to GSAT scores in their admission processes. The system designed to "reduce pressure" ironically created more stress for students.
+But in 2022, the first cohort under the new curriculum faced unexpected difficulties. The Advanced Subject Test (replacing the old system) excluded Chinese, English, and Math B, forcing many departments to refer back to test scores in their admission processes. The system designed to "reduce pressure" ironically created more stress for students.
 
 > **⚠️ Controversial Perspective**
 > The cram school industry bluntly called the new curriculum "old wine in new bottles": "As long as parents' mindsets don't change and resources remain concentrated in certain universities and departments, student pressure will persist—it just makes cram schools more profitable."
 
-After the 2022 GSAT, Nanyang Street once again displayed "GSAT Prep School Enrollment" signs. Consultation numbers doubled from the previous year. One cram school teacher observed: "Most students coming to retake are aiming for National Taiwan University's medical school, EECS programs, and other competitive departments."
+After the 2022 exam, Nanyang Street once again displayed "Cram School Enrollment" signs. Consultation numbers doubled from the previous year. One cram school teacher observed: "Most students coming to retake are aiming for National Taiwan University's medical school, EECS programs, and other competitive departments."
 
 Taiwan seemed to have returned to their parents' generation of "one test determines fate."
 
@@ -90,7 +89,7 @@ This phenomenon reflects more than just exam pressure; it represents Taiwan soci
 
 Modern cram schools have evolved into "educational ecosystems":
 
-- **Academic cram schools**: Traditional math, English, physics, chemistry
+- **Learning cram schools**: Traditional math, English, physics, chemistry
 - **Talent cram schools**: Music, art, dance, programming
 - **Portfolio cram schools**: Specializing in application materials and interview skills
 - **Competency cram schools**: Marketing "108 Curriculum competencies"
@@ -104,7 +103,7 @@ One cram school student's description was particularly apt: "School teachers tea
 
 Internationally, Taiwanese students indeed perform excellently. The 2022 PISA results showed Taiwan ranked 3rd globally in mathematics (547 points), 4th in science (537 points), and 8th in reading (515 points), far exceeding OECD averages.
 
-More notably, Taiwan's most disadvantaged students (bottom 20% internationally, about 3.8% of Taiwan students) scored 471 in mathematics, matching the OECD average (472 points). The Ministry of Education attributed this to "learning assistance" measures and digital learning promotion, effectively reducing urban-rural gaps.
+More notably, Taiwan's most disadvantaged students (about 3.8%) scored 471 in mathematics, matching the OECD average (472 points). The Ministry of Education attributed this to "learning assistance" measures and digital learning promotion, effectively reducing urban-rural gaps.
 
 But PISA results also revealed Taiwan education's other side: insufficient learning motivation, weak creative thinking, high learning anxiety. While Taiwanese students achieve academically, their happiness index is relatively low.
 
@@ -137,9 +136,9 @@ Educational choice rights are Taiwan parents' primary concern. School districts 
 
 But educational choice also exacerbates educational inequality. Financially advantaged families can choose private schools or move to elite school districts, while disadvantaged families must accept available resources. Balancing choice freedom with educational equity remains an eternal policy challenge.
 
-## COVID's Digital Education Revelations
+## Digital Education's COVID Lesson
 
-During the COVID pandemic, Taiwan's online teaching capabilities received international attention. Early Ministry of Education investments in digital learning infrastructure—computer labs and wireless networks in every school—proved crucial during the pandemic.
+During the COVID pandemic, Taiwan's online teaching capabilities received international attention. The Ministry of Education had invested heavily in digital learning infrastructure years earlier—computer labs and wireless networks in every school—which proved crucial during the pandemic.
 
 The 2019 new curriculum made "technology" mandatory for junior and senior high schools, with programming education spanning from Scratch visual programming to Python text programming, developing students' computational thinking. AI education has also become a priority, with the Ministry promoting an "AI Education Foundation Program" to prepare students for the AI era.
 
@@ -151,7 +150,7 @@ Taiwan's experimental education flourishes, with 150 experimental schools and 8,
 
 But experimental education faces challenges: uneven quality, insufficient teacher training, and difficult transitions to higher education. The government's "Three Experimental Education Acts" establish regulatory mechanisms to ensure quality, but balancing innovation with quality control remains an ongoing challenge.
 
-> **📝 Editor's Note**
+> **📝 Curator's Note**
 > An experimental school principal said: "Experimental education isn't about escaping mainstream education—it's about exploring better educational possibilities. We hope to cultivate children who are both happy and capable." This statement highlights Taiwan education's core dilemma: can achievement and happiness truly coexist?
 
 ## Lifelong Learning and Adult Education
@@ -175,9 +174,5 @@ Taiwan's educational experiment continues. Each reform is social dialectics, eac
 ## References
 
 - [Joint Entrance Exam Battles - Taiwan Panorama Magazine](https://www.taiwan-panorama.com/Articles/Details?Guid=adb5c601-15e9-44b8-b55a-f0eb892a995d&CatId=11)
-- [Retakers Decreased 40-fold in 40 Years, Nanyang "Cram Street" Changed - PTS News](https://news.pts.org.tw/article/666505)
-- [From Joint Exams to Subject Tests: Taiwan's University Admission Evolution - UDN](https://time.udn.com/udntime/story/122390/6418586)
-- [PISA: Taiwan Reduces Urban-Rural Gap, Disadvantaged Students Match OECD Average - UDN](https://udn.com/news/story/6885/7620793)
-- [2024 Teacher Qualification Exam 52% Pass Rate - Flipped Education](https://flipedu.parenting.com.tw/article/009426)
 - [Education GPS - Chinese Taipei - Student Performance (PISA 2022)](https://gpseducation.oecd.org/CountryProfile?primaryCountry=TWN&treshold=10&topic=PI)
-- [Chinese Taipei WorldSkills Competition 2024 Results](https://wsc.wda.gov.tw/News_Content.aspx?n=30258915F57EB2DC&sms=3E86285D7FF55C61&s=958C7DDCCA35FB73)
+- [Chinese Taipei Won 2 Gold, 3 Silver and 10 Bronze at the 2024 WorldSkills Competition](https://wsc.wda.gov.tw/News_Content.aspx?n=30258915F57EB2DC&sms=3E86285D7FF55C61&s=958C7DDCCA35FB73)
