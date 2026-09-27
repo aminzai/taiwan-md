@@ -3,8 +3,8 @@ title: 'BABEL-VORTEX-LOOP'
 description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.55)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.75'
-last_updated: 2026-09-27
+current_version: 'v1.76'
+last_updated: 2026-09-28
 last_session: '2026-09-26-100333-babel-vortex（翻譯率 100% 模式：推送常駐、付費 Haiku、閘門家族、委派 worktree 路徑陷阱與核准視窗、腳註修復器的語言盲）'
 sister_docs:
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
@@ -293,6 +293,17 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 證據（重試觸發次數），不是相關性。
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
+
+- v1.76（2026-09-28 凌晨第二十三輪）：**標題層級漂移**。沿著「內容對不上 zh」再量一格：44 篇譯文標題數跟 zh 一樣、
+  層級卻不一樣，最常見是 zh 的 `###` 被升成 `##`（ja〈台灣維基百科〉九個全升），站上目次多出假的頂層章節。內容沒錯，
+  所以不需要模型：`heading-level-align.py` 三道判準（同數、每個標題的相對位置差不到 0.2、只改井字號數量），44 篇落地
+  （`8bb92b00b` 41 篇＋`1834b39bb` 3 篇）。標題數不同的 551 篇要重譯才對得齊，不在範圍。**兩個教訓**：(a) 跨篇機械修補
+  會讓 pre-commit 連帶審那些檔案**原本就有**的 hard 錯誤——三篇被擋（es wikilink 寫成英文名、ja 腳註分隔寫成「、」、
+  描述太短），44 篇的 commit 整批失敗。做法：過得了的先落地，擋下的 `git restore --staged` 留在工作樹，修完舊毛病再
+  單獨 commit；不用 `--no-verify`，也不為綠燈改譯文內容。(b) **寫「讀者看到的不變」之前先查渲染**：閘門 fixer 的說明是
+  「保留可見文字」，我把它延伸成「站上不變」寫進 commit 訊息；查 `src/utils/article-render.ts` 才知道文章頁的 wikilink
+  一律轉粗體，轉純文字等於粗體變細體。`0b02d7d98` 改回 `[[zh 條目|譯名]]` 並在訊息裡更正。對不到條目的 wikilink 全庫
+  254 處／92 篇，無損修法要照 zh 同位置對照，跨 >50 檔 → OBSERVER-QUEUE #88。
 
 - v1.75（2026-09-27 深夜第二十二輪）：**沒有出處的譯文也算 fresh**。上一輪網址重疊率的尺有洞，但其中一格不受影響：
   譯文一個網址都沒有、zh 卻引了五個以上。全庫 11 篇，fr〈台灣官方網站資源〉zh 53 個網址、法文版 0 個，章節也只剩
