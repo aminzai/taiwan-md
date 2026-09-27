@@ -744,7 +744,10 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **處置**：`--pr` 模式改成把 PR 內容取進暫存區再量，譯文讀暫存區、中文源仍讀 main 工作樹（commit `1cbb7b0a4`）。修完三篇都 PASS，且章節/腳註/URL 數量完全守恆（13→13、62→62、79→79）。跟 MAINTAINER §診斷紀律「把 PR 的內容檔帶進 main 樹跑」同一個原則——**被量的是 PR 的內容，量尺是 main 的**——差別在那條紀律寫給人，沒有寫進工具。
 - **可能層級**：`detector-inherits-the-blindness-it-was-built-to-catch`（8/19）的鄰居：那條是偵測器自己用了代理訊號，本條是工具搞錯了被量的對象。合起來可能是一條「**工具的量測對象要 explicit，不能繼承執行環境**」。判準候選：任何吃 PR 編號的工具，要問「它是去把 PR 的東西拿過來，還是假設 PR 的東西已經在腳下」。
 - **相關**：LESSONS `detector-inherits-the-blindness-it-was-built-to-catch`、`diagnosing-from-the-contributor-tree-audits-a-past-self`（7 月，反向：站在對方的樹上讀我們的工具）、REFLEXES #24（工具在說謊）、#82（proxy signal）
-- **verification_count**: 1
+- **instances**：
+  - 2026-08-27 twmd-maintainer-manual — `translation-ratio-check.sh --pr N` 對本機工作樹開 PR 的新檔，穩定假 FAIL → 本 entry
+  - 2026-09-27 babel-vortex — 反方向的同一個病：工作樹比 origin 多三篇沒 commit 的譯文（dispatcher 前一晚重啟時遺落），status.py 讀工作樹照算 fresh，12:41 宣告十二語缺口歸零後連續三輪讀同一個 0，origin 上其實缺三對，連 commit 進去的 `_translation-status.json` 也寫 fresh。問的是「站上缺幾對」，量的是「我腳下這棵樹缺幾對」。修法：babel-pulse 數孤兒（工作樹有、HEAD 沒有、不在活產線批次，`090980362`），渦流 SOP v1.65 規定孤兒 > 0 時 gap=0 不成立 → memory/2026-09-26-100333-babel-vortex.md
+- **verification_count**: 2
 - **severity**: high（在 canonical SOP 指名的位置上長期假 FAIL）
 
 ### 2026-08-27 twmd-maintainer-manual — cleanup-step-assumes-the-file-is-new：診斷用的還原步驟寫成 `rm`，遇到已在 main 的檔就是刪掉線上內容
