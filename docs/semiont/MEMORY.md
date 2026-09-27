@@ -329,3 +329,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-28 | 055906-twmd-embeddings-nightly | 13 語 14,469 向量 0 fail，verify PASS，`8b0ab0bd1` 推上；篇數不變但 687 篇譯文的鄰居換了，全來自 babel-vortex 重譯 | 篇數封頂後，索引有沒有反映站上變化要看鄰居變動量 | [→](memory/2026-09-28-055906-twmd-embeddings-nightly.md) |
 | 2026-09-28 | 061044-twmd-data-refresh-am | 14 步全綠零過期，狀態板寬限第一次生效；404 unknown 連兩夜過半、榜首 /rclone.conf，五個探路名收進掃描器 | ms/page 146→104 是分母長大不是變快；zsh 不拆未加引號的變數 | [→](memory/2026-09-28-061044-twmd-data-refresh-am.md) |
 | 2026-09-28 | 064320-twmd-spore-harvest-am | 窗口內無現役孢子，兩個動態頁掃完為合法空收割：#29 聚合仍 1.4 萬未達重抓門檻，李洋、張懸各一則純轉發不必回 | 窗口空了，這條 routine 是替舊孢子守長尾；殼的路徑與 add -u 連兩班照現況繞開 | [→](memory/2026-09-28-064320-twmd-spore-harvest-am.md) |
+| 2026-09-28 | 071520-twmd-feedback-triage | 零回報第七輪照跑 `--commit`，兩道對賬 87/87 與 86/87 全綠；#1609 那則 32 天後的維護者回覆進了主權層紀錄 | 零輸入那輪的產出在保管層不在轉錄層——不跑 `--commit` 這則就不會進 git | [→](memory/2026-09-28-071520-twmd-feedback-triage.md) |
