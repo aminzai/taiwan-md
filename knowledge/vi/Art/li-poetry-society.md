@@ -257,11 +257,11 @@ Hội thơ Lưỡi 60 năm chưa ngừng xuất bản. Taiwan.md vừa mới b�
 
 **Đọc Thêm**:
 
-- [Thơ Hiện Đại Đài Loan](/art/taiwanese-modern-poetry/) — Thực nghiệm hiện đại chủ nghĩa từ ba phòng sách, tạo thành đối thoại với truyền thống hiện thực bản địa của hội thơ Lưỡi
-- [Văn Học Chiến Tranh Sau Đài Loan](/art/post-martial-law-taiwanese-literature/) — Con đường mất tiếng nói, bỏ tù, tranh luận của các nhà viết chuyện như Diễp Thạch Tao, Trần Ánh Chân, cũng là người cùng thế hệ với các nhà thơ hội thơ Lưỡi
-- [Lịch Sử Văn Học Đài Loan](/art/history-of-taiwanese-literature/) — Hub bối cảnh lịch sử văn học Đài Loan hoàn chỉnh
-- [Văn Học Thời Nhật Trị](/art/indigenous-literature/) — Bối cảnh phát triển của thế hệ đa ngôn ngữ hội thơ Lưỡi
-- [Tu Phan Phương Cách](/people/tu-pan-fangke/) — Nữ nhà thơ đa ngôn ngữ người Khách Gia gia nhập năm 1965; "Bình An Kịch" và dòng thơ Khách Gia
+- [Thơ Hiện Đại Đài Loan](/vi/art/taiwanese-modern-poetry) — Thực nghiệm hiện đại chủ nghĩa từ ba phòng sách, tạo thành đối thoại với truyền thống hiện thực bản địa của hội thơ Lưỡi
+- [Văn Học Chiến Tranh Sau Đài Loan](/vi/art/post-martial-law-taiwanese-literature) — Con đường mất tiếng nói, bỏ tù, tranh luận của các nhà viết chuyện như Diễp Thạch Tao, Trần Ánh Chân, cũng là người cùng thế hệ với các nhà thơ hội thơ Lưỡi
+- [Lịch Sử Văn Học Đài Loan](/vi/art/history-of-taiwanese-literature) — Hub bối cảnh lịch sử văn học Đài Loan hoàn chỉnh
+- [Văn Học Thời Nhật Trị](/vi/art/indigenous-literature) — Bối cảnh phát triển của thế hệ đa ngôn ngữ hội thơ Lưỡi
+- [Tu Phan Phương Cách](/vi/people/tu-pan-fangke) — Nữ nhà thơ đa ngôn ngữ người Khách Gia gia nhập năm 1965; "Bình An Kịch" và dòng thơ Khách Gia
 
 ## Nguồn Ảnh
 

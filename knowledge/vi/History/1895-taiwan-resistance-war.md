@@ -122,8 +122,8 @@ Lá cờ hổ vàng nằm trong tủ kính của bảo tàng. Nó rất yên tĩ
 **Đọc thêm**:
 
 - [Ba nước ngoài nhìn chiến tranh 乙未: album ảnh của thợ chụp, ghi chép của ký giả, nhật ký của linh mục](/history/ba-nuoc-ngoai-nhin-chien-tranh) — loạt D-2. Thợp chụp ảnh Nhật Bản Viễn Tây Thành Thực, ký giả Mỹ Davidson, linh mục Nhật Bản Tế Xương Lưu - ba tài liệu chứng kiến quan trọng nhất về chiến tranh 乙未 bằng tiếng ngoài, cũng như những hạn chế quan điểm đằng sau ba tài liệu này
-- [Thời kỳ Nhật trị](/history/japanese-colonial-era) — Chiến tranh 乙未 là điểm cuối cùng của thời kỳ Thanh trị, giúp hiểu rõ bối cảnh hai trăm năm cai trị Đài Loan
-- [Thời kỳ Nhật trị](/history/japanese-colonial-era) — Quốc gia dân chủ biến mất, sự cai trị Nhật Bản Đài Loan kéo dài năm mươi năm bắt đầu
+- [Thời kỳ Nhật trị](/vi/history/japanese-colonial-era) — Chiến tranh 乙未 là điểm cuối cùng của thời kỳ Thanh trị, giúp hiểu rõ bối cảnh hai trăm năm cai trị Đài Loan
+- [Thời kỳ Nhật trị](/vi/history/japanese-colonial-era) — Quốc gia dân chủ biến mất, sự cai trị Nhật Bản Đài Loan kéo dài năm mươi năm bắt đầu
 - [Chiến tranh Pháp-Tân](/history/sino-french-war) — Mười năm trước, quân Pháp tấn công Đài Loan, Lưu Minh Truyền giữ được Cơ Long. Mười năm sau, tỉnh mà anh ta xây dựng bị nhượng lệnh
 - [Sử Ôn Hầu](/people/史溫侯) — Ba mươi năm trước, lãnh sự Anh ghi lại lịch sử tự nhiên trên cùng một hòn đảo, khi đó thế giới đó đã kết thúc
 

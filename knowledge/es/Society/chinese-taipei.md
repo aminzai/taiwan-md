@@ -187,7 +187,7 @@ And that ticket still only lets Taiwan enter, and still cannot print its own nam
 ## Further Reading
 
 - [Issues with Taiwan's Representation in International Standards](/society/Issues-with-Taiwans-Representation-in-International-Standards) — From ISO 3166 to open-source software, how the name "Taiwan" is written and disputed in global digital infrastructure, originating from the same source but on a different battlefield as Olympic naming
-- [Taiwan Unification-Independence Spectrum](/society/Taiwan-Unification-Independence-Spectrum) — Why Taiwanese people's emotions towards the two names "Chinese" and "Taiwan" are so divided, a complete explanation of the underlying identity spectrum
+- [Taiwan Unification-Independence Spectrum](/es/society/Taiwan-Unification-Independence-Spectrum) — Why Taiwanese people's emotions towards the two names "Chinese" and "Taiwan" are so divided, a complete explanation of the underlying identity spectrum
 - [Taiwan's Diplomatic Allies and International Diplomacy](/society/Taiwans-Diplomatic-Allies-and-International-Diplomacy) — Beyond the spillover of the "Olympic Model," the same name dilemma Taiwan faces in formal diplomatic arenas
 - [Chi Cheng](/people/Chi-Cheng) — The complete arc from the 1968 Mexico bronze medalist "Flying Antelope," to the 1981 establishment figurehead, to the 2018 renaming initiator
 - [Yang Chuan-kwang](/people/Yang-Chuan-kwang) — The Asian Iron Man who won Taiwan's first Olympic medal under the name "Formosa" at the 1960 Rome Olympics

@@ -266,7 +266,7 @@ Das Ningxia-Nachtmarkt-Essen ist die Position Taiwans, die 42 Jahre angehäuft h
 - [Taiwan AI daily](/technology/Taiwan-AI-daily) — Generativer AI trat in Taiwans tägliches Leben ein, geschriebene Szene-Ebene-Beobachtung von Convenience Store Bestellen bis National Health Insurance Administration Batch Audit.
 - [Taiwan Enterprise: Taiwan Semiconductor Manufacturing Company](/economy/Taiwan-enterprise-Taiwan-Semiconductor-Manufacturing-Company) — Globale Wafer-Fundry-Drache-Kopf, AI-Chip-Fertigung's Kern, von Morris Chang's reinem Foundry-Modell zur fortgeschrittene Verpackungs-Geschichte.
 - [Halbleiter-Industrie](/technology/halbleiter-industrie) — Von IC-Design zu Verpackung-Test, Taiwans Halbleiter-Ökosystem-Gesamtbild.
-- [Taiwans Cybersecurity-Industrie Entwicklung](/technology/Taiwan-cybersecurity-industry-development) — Wie Geopolitik-Druck eine Asia-Pacific-Ebene AI-Cybersecurity-Industrie geboren hat.
+- [Taiwans Cybersecurity-Industrie Entwicklung](/de/technology/Taiwan-cybersecurity-industry-development) — Wie Geopolitik-Druck eine Asia-Pacific-Ebene AI-Cybersecurity-Industrie geboren hat.
 
 ---
 

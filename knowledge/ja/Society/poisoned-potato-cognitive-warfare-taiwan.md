@@ -315,12 +315,12 @@ MOUの署名からARTの調印完了まで、合計28日。予告期間の短縮
 
 ## さらに読む
 
-- [認知戦](/society/cognitive-warfare-against-taiwan) — 中国共産党の情報操作の全体像と、台湾社会の対抗メカニズム
-- [2026年 鄭習会談と国共十年ぶりの再会](/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — 同時期の両岸関係におけるもう一つの転換点
-- [台湾海峡危機と両岸関係の展開](/history/taiwan-strait-crises-and-cross-strait-relations) — 「手土産」という物語の長期的な歴史的文脈
-- [蔡英文](/people/tsai-ing-wen) — 2020-2021年のラクトパミン豚政策の決定者。傷跡のひとつ前の層
-- [頼清徳](/people/lai-ching-te) — ART協定の署名時点における総統の任期
-- [想想フォーラム](/society/thinking-taiwan-forum) — 蔡英文が2025年に改版・再開した旗艦コラム「年度中国観測報告」が扱う同種の認知戦テーマ
+- [認知戦](/ja/society/cognitive-warfare-against-taiwan) — 中国共産党の情報操作の全体像と、台湾社会の対抗メカニズム
+- [2026年 鄭習会談と国共十年ぶりの再会](/ja/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — 同時期の両岸関係におけるもう一つの転換点
+- [台湾海峡危機と両岸関係の展開](/ja/history/taiwan-strait-crises-and-cross-strait-relations) — 「手土産」という物語の長期的な歴史的文脈
+- [蔡英文](/ja/people/tsai-ing-wen) — 2020-2021年のラクトパミン豚政策の決定者。傷跡のひとつ前の層
+- [頼清徳](/ja/people/lai-ching-te) — ART協定の署名時点における総統の任期
+- [想想フォーラム](/ja/society/thinking-taiwan-forum) — 蔡英文が2025年に改版・再開した旗艦コラム「年度中国観測報告」が扱う同種の認知戦テーマ
 
 ---
 

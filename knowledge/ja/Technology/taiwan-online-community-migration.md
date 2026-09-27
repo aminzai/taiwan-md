@@ -156,12 +156,12 @@ LINEの利用規約第4.7条は、この論理を実に率直に書いている�
 
 ## さらに読む
 
-- [無名小站——他人がいつでも切れるサーバーに置かれた青春](/culture/wretch)
-- [PTT批踢踢——学術ネットワークから生えた都市国家](/technology/ptt-bulletin-board-system)
-- [Facebook in 台湾](/technology/facebook-in-taiwan)
-- [Threads in 台湾——脆と11分31秒](/technology/threads-in-taiwan)
-- [Instagram in 台湾](/technology/instagram-in-taiwan)
-- [迷音 Miin——2026年、「行こう行こう、miinへ行こう」の避難港](/technology/miin-music-app)
+- [無名小站——他人がいつでも切れるサーバーに置かれた青春](/ja/culture/wretch)
+- [PTT批踢踢——学術ネットワークから生えた都市国家](/ja/technology/ptt-bulletin-board-system)
+- [Facebook in 台湾](/ja/technology/facebook-in-taiwan)
+- [Threads in 台湾——脆と11分31秒](/ja/technology/threads-in-taiwan)
+- [Instagram in 台湾](/ja/technology/instagram-in-taiwan)
+- [迷音 Miin——2026年、「行こう行こう、miinへ行こう」の避難港](/ja/technology/miin-music-app)
 
 ---
 

@@ -213,9 +213,9 @@ Seperti apa versi berikutnya akan terlihat? Apakah sengketa unifikasi-independen
 ## Bacaan Lanjutan
 
 - [Deklarasi Masa Depan Taiwan (zh only)](/History/Taiwan-Future-Resolution) — Titik awal dua kata "saat ini" dalam narasi Tionghua Independen tahun 1999
-- [Tsai Ing-wen](/People/Tsai-Ing-wen) — Pengusung konsep kerja "Republik Tiongkok (Taiwan)", perwakilan sub-spektrum Tionghua Independernya
-- [Lai Ching-te](/People/Lai-Ching-te) — Pelaksana narasi Tionghua Independen kontemporer "tidak saling terkait", tokoh utama dalam ucapan tiga nama pada 20 Mei
-- [Pemilihan dan Politik Partai Taiwan](/History/Taiwan-Elections-and-Party-Politics) — Konteks lebih luas bagaimana spektrum unifikasi-independensi dibentuk kembali oleh pemilihan
+- [Tsai Ing-wen](/id/people/Tsai-Ing-wen) — Pengusung konsep kerja "Republik Tiongkok (Taiwan)", perwakilan sub-spektrum Tionghua Independernya
+- [Lai Ching-te](/id/people/Lai-Ching-te) — Pelaksana narasi Tionghua Independen kontemporer "tidak saling terkait", tokoh utama dalam ucapan tiga nama pada 20 Mei
+- [Pemilihan dan Politik Partai Taiwan](/id/history/Taiwan-Elections-and-Party-Politics) — Konteks lebih luas bagaimana spektrum unifikasi-independensi dibentuk kembali oleh pemilihan
 - [Transisi Demokrasi Taiwan](/History/Taiwan-Democracy-Transition) — Latar belakang sejarah lahirnya spektrum unifikasi-independensi: dari pemerintahan satu partai hingga pemilu kompetitif
 - [Krisis Selat Taiwan dan Perkembangan Hubungan Lintas Selat](/History/Taiwan-Strait-Crisis-and-Cross-Strait-Relations) — lintasan jangka panjang spektrum yang terus ditekan oleh kekuatan eksternal
 - [Negara yang Tak Terlihat](/art/Invisible-State) — Konteks di mana Tsai Ing-wen menyatakan dalam dokumenter ini bahwa "Taiwan pada dasarnya adalah negara yang independen"

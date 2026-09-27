@@ -230,13 +230,13 @@ Pour le lecteur, la prochaine fois qu'il rencontre une mascotte dans la rue, il 
 
 ## Lectures complémentaires
 
-- [**Mèmes de Taïwan**](/culture/taiwan-meme-culture/) — Comment l'homophonie, le mignon-étrange et le contraste circulent sur les réseaux sociaux
+- [**Mèmes de Taïwan**](/fr/culture/taiwan-meme-culture) — Comment l'homophonie, le mignon-étrange et le contraste circulent sur les réseaux sociaux
 
-- [**全聯福利中心**](/economy/pxmart-supermarket/) — La gestion quotidienne du Welfare Bear et de l'IP d'entreprise
+- [**全聯福利中心**](/fr/economy/pxmart-supermarket) — La gestion quotidienne du Welfare Bear et de l'IP d'entreprise
 
-- [**Culture des marchés traditionnels et les marchés de Taïwan**](/lifestyle/taiwan-traditional-markets-and-market-culture/) — Le marché, la nourriture et la vie urbaine liés à Caiqi Duck et Night Duck
+- [**Culture des marchés traditionnels et les marchés de Taïwan**](/fr/lifestyle/taiwan-traditional-markets-and-market-culture) — Le marché, la nourriture et la vie urbaine liés à Caiqi Duck et Night Duck
 
-- [**Ours noir de Taïwan**](/nature/taiwanese-black-bear/) — Le prototype biologique endémique derrière le totem culturel et son habitat réel
+- [**Ours noir de Taïwan**](/fr/nature/taiwanese-black-bear) — Le prototype biologique endémique derrière le totem culturel et son habitat réel
 
 ## Références
 

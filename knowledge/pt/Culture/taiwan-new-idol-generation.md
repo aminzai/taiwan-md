@@ -227,7 +227,7 @@ A resposta ainda não chegou. Mas as pessoas que ainda estão no palco: grupos q
 - [Yang Cheng-lin](/people/Yang Cheng-lin) — Professora principal de DD52, sua história de 25 anos saindo do sistema de ícones para autonomia
 - [Tsai Ing-wen](/people/Tsai Ing-wen) — Ícone de Taiwan, "a rainha do pop", citada por [Lin Hui-ying](/people/Lin Hui-ying) como "minha deusa"
 - [Música Pop de Taiwan](/music/Taiwan-pop-music) — Como Taiwan ocupa o centro do mapa da música popular chinesa
-- [Cultura do Beisebol de Taiwan](/culture/Taiwan-baseball-culture) — Matriz da cultura de "dance team", ponto de partida da Equipe Cósmica
+- [Cultura do Beisebol de Taiwan](/pt/culture/Taiwan-baseball-culture) — Matriz da cultura de "dance team", ponto de partida da Equipe Cósmica
 
 ## Referências
 

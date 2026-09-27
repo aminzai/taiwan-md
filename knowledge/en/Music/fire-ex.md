@@ -134,7 +134,7 @@ The crowd erupted. After the seven-minute clip was uploaded by audience members 
 - [Sunflower Movement](/en/society/sunflower-movement/) — The March that gave birth to "Island Sunrise"
 - [Taiwan Music Festival Culture](/en/music/taiwan-music-festival-culture/) — From Hohaiyan to Fireball Festival
 - [Chang Hsien and Anpu](/music/deserts-chang-anpu/) — The other side of Takao Festival's seven minutes
-- [Chthonic](/music/chthonic/) — A generation earlier, using Taiwanese black metal to document the era from the underground
+- [Chthonic](/en/music/chthonic) — A generation earlier, using Taiwanese black metal to document the era from the underground
 
 ## References
 

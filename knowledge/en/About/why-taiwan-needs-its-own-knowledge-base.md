@@ -212,7 +212,7 @@ Back to that forty-byte refusal on May 1. The silence is still there, but now be
 
 ## Further Reading
 
-- [Open Culture Foundation](/technology/Open-Culture-Foundation) — Pushing open source and open data in Taiwan, why knowledge openness is infrastructure.
+- [Open Culture Foundation](/en/technology/Open-Culture-Foundation) — Pushing open source and open data in Taiwan, why knowledge openness is infrastructure.
 - [Taiwan AI Laboratory](/technology/Taiwan-AI-Laboratory) — A path of civil society building AI capabilities, reading alongside the government's TAIDE and Ministry of Digital Affairs corpus.
 - [Taiwan AI School](/technology/Taiwan-AI-School) — Where Tsai Ming-shun serves as superintendent, Taiwan's civil society cultivating AI talent, on the front lines discussing local data scarcity.
 

@@ -301,7 +301,7 @@ Nhưng có một chuyện chắc chắn: nếu chúng ta chỉ dùng cây số x
 ## Mở rộng Đọc
 
 - [Chuyển đổi Dân chủ Đài Loan](/history/taiwan-democratic-transition) — Từ Sự kiện 228 đến Phong trào Hoa Dã, làm thế nào chế độ độc tài tự tay nuôi dạy lực lượng chôn vùi chính nó
-- [Công lý Chuyển đổi Đài Loan](/history/taiwan-transitional-justice) — Hủy bỏ gần sáu vạn bản án có tội, nhưng hầu như chưa có người tác nhân bị truy cứu sự khác biệt
+- [Công lý Chuyển đổi Đài Loan](/vi/history/taiwan-transitional-justice) — Hủy bỏ gần sáu vạn bản án có tội, nhưng hầu như chưa có người tác nhân bị truy cứu sự khác biệt
 - [Phát triển Khủng hoảng Đài Hải và Quan hệ Hai Bờ Eo Biển](/history/taiwan-strait-crisis-and-cross-strait-relations) — Bối cảnh hoàn chỉnh của Khủng hoảng Tên lửa năm 1996
 
 ---

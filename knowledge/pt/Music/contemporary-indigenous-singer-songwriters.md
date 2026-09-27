@@ -301,8 +301,8 @@ A jornada dos cantores indígenas contemporâneos de Taiwan é um processo onde 
 
 ## Leitura Complementar
 
-- [A-Mei](/people/a-mei/): Entenda sua trajetória musical através dos discos pop e do palco.
-- [Chen Chien-nien](/people/chen-chien-nien/): Leitura complementar sobre _Oceanos_ e o contexto criativo.
+- [A-Mei](/pt/people/a-mei): Entenda sua trajetória musical através dos discos pop e do palco.
+- [Chen Chien-nien](/pt/people/chen-chien-nien): Leitura complementar sobre _Oceanos_ e o contexto criativo.
 
 ## Referências
 

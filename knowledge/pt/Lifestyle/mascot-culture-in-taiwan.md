@@ -230,13 +230,13 @@ Para o leitor, ao encontrar uma mascote na rua da próxima vez, pode fazer mais 
 
 ## Leitura Estendida
 
-- [**Memes de Taiwan**](/culture/taiwan-meme-culture) — Como a homofonia, o bizarro e o contraste circulam nas redes sociais
+- [**Memes de Taiwan**](/pt/culture/taiwan-meme-culture) — Como a homofonia, o bizarro e o contraste circulam nas redes sociais
 
-- [**PX Mart Supermarket**](/economy/pxmart-supermarket) — A gestão diária do Welfare Bear e da IP corporativa
+- [**PX Mart Supermarket**](/pt/economy/pxmart-supermarket) — A gestão diária do Welfare Bear e da IP corporativa
 
-- [**Cultura dos Mercados Tradicionais de Taiwan**](/lifestyle/taiwan-traditional-markets-and-market-culture) — Os mercados, alimentos e a vida urbana conectados por Caiqi Ya e Night Duck
+- [**Cultura dos Mercados Tradicionais de Taiwan**](/pt/lifestyle/taiwan-traditional-markets-and-market-culture) — Os mercados, alimentos e a vida urbana conectados por Caiqi Ya e Night Duck
 
-- [**Urso Preto Taiwanês**](/nature/taiwanese-black-bear) — O protótipo biológico endêmico e o habitat real por trás do ícone cultural
+- [**Urso Preto Taiwanês**](/pt/nature/taiwanese-black-bear) — O protótipo biológico endêmico e o habitat real por trás do ícone cultural
 
 ## Referências
 

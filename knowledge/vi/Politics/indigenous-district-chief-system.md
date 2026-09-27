@@ -251,7 +251,7 @@ Nó hoạt động mười hai năm. Năm 2026 là khởi đầu của bốn nă
 - [Trung tâm chính trị](/politics) — Trung tâm kiến thức chính trị bầu cử của Taiwan.md
 - [Bầu cử chín hợp nhất 2026](/politics/2026-nine-in-one-election) — Chế độ hoàn chỉnh và lịch trình
 - [Bầu cử chín hợp nhất là gì](/politics/what-is-nine-in-one-election) — Phân tích chín loại chức vụ
-- [Chế độ trưởng phường xã](/politics/village-chief-system) — 7.748 chức vụ trưởng địa phương được bầu chọn, đơn vị chính trị cấp cơ sở nhất
+- [Chế độ trưởng phường xã](/vi/politics/village-chief-system) — 7.748 chức vụ trưởng địa phương được bầu chọn, đơn vị chính trị cấp cơ sở nhất
 - [Chế độ nghị viên](/politics/council-member-system) — Quyền lực được quy định pháp luật và hoạt động thực tế của nghị viên thành phố trực thuộc và nghị viên quận tỉnh
 - [Chế độ Ủy ban Bầu cử Trung ương](/politics/central-election-commission-system) — Thiết kế chế độ hành chính bầu cử
 - [Dân chủ hóa](/history/democratization) — Quá trình Đài Loan từ chế độ độc tài đến dân chủ
