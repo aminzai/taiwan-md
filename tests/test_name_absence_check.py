@@ -59,3 +59,16 @@ def test_award_named_in_source_or_covered_by_sanjin_is_not_reported(tmp_path, mo
     assert MODULE.scan(p, forms, pat) == []
     p = _pair(tmp_path / "b", monkeypatch, "三金得主李欣芸。", "Winner of the Golden Horse, Golden Bell and Golden Melody.")
     assert MODULE.scan(p, forms, pat) == []
+
+
+def test_university_swapped_for_another_is_reported(tmp_path, monkeypatch):
+    # 2026-09-27 實例：en〈馬祖國際藝術島〉把台師大東亞系的江柏煒寫成台大
+    forms, pat = MODULE.build_pattern()
+    p = _pair(tmp_path, monkeypatch, "台師大東亞系教授江柏煒。", "Professor Jiang Bai-wei of National Taiwan University.")
+    assert [h["person"] for h in MODULE.scan(p, forms, pat)] == ["台大"]
+
+
+def test_longer_university_name_is_not_read_as_ntu(tmp_path, monkeypatch):
+    forms, pat = MODULE.build_pattern()
+    p = _pair(tmp_path, monkeypatch, "他畢業於台藝大。", "He graduated from the National Taiwan University of Arts.")
+    assert MODULE.scan(p, forms, pat) == []

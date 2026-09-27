@@ -3,7 +3,7 @@ title: 'BABEL-VORTEX-LOOP'
 description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.55)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.70'
+current_version: 'v1.71'
 last_updated: 2026-09-27
 last_session: '2026-09-26-100333-babel-vortex（翻譯率 100% 模式：推送常駐、付費 Haiku、閘門家族、委派 worktree 路徑陷阱與核准視窗、腳註修復器的語言盲）'
 sister_docs:
@@ -293,6 +293,14 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 證據（重試觸發次數），不是相關性。
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
+
+- v1.71（2026-09-27 夜間第二十輪）：**學校、政黨、電視台也會被換成另一個**。把獎項表的做法推到本 session 修過的其他
+  封閉名單（en〈認知作戰〉民眾黨寫成親民黨、en〈知識庫〉民視寫成公視、en〈發票〉政大寫成成大）：初量 184 處，國民黨
+  幾乎都是譯者替「國府」補語境、台大一半是台藝大／台科大／臺灣體大被前綴吃掉，拿掉國民黨、補上長名之後 113 處。抽八處
+  回 zh 全是真錯：台師大江柏煒、交大張基義、中正大學黃俊儒都被寫成台大，林昶佐進的時代力量寫成民眾黨，國立台灣文學館
+  被杜撰成「National Taiwan University of Literature」（七篇修掉，`802464d6c`）。`name-absence-check` 加機構表，
+  存量併入 OBSERVER-QUEUE #84。同一輪另一件：en〈何飛鵬〉的 zh 原稿只是 4.4KB 短稿，英文版多出八個原稿沒有的章節，
+  整篇是捏造的，交 Haiku 照短稿重譯；其他十一語都是一個章節，只有 en 這樣。
 
 - v1.70（2026-09-27 晚間第十九輪）：**台灣的「金」字獎在譯文裡互相頂替**。掃非拉丁語系譯文的標題是不是目標文字，
   照出 ru〈統一企業〉標題是英文「United Foods」，比對兄弟譯文又見 es 寫成日本的 Unicharm（`027a9cdc5`）；拿英文標題的

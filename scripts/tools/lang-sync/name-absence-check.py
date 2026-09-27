@@ -66,6 +66,33 @@ ALIAS = {
 # 量到十二篇譯文點名了 zh 原文沒有的那一座：id〈金曲獎〉全篇 80 處寫成金馬，金韻、金韶、金音這些小獎最常被
 # 譯成 Golden Melody。鍵用不帶「獎」的短名，zh 寫「金曲」或「金曲獎」都算提到。
 AWARDS = {"金曲": ["Golden Melody"], "金馬": ["Golden Horse"], "金鐘": ["Golden Bell"]}
+# 學校、政黨、電視台同一族（2026-09-27 渦流第二十輪）：大學換成另一所（台師大、交大、中正大學都被寫成台大）、
+# 政黨換成另一個（時代力量寫成民眾黨），還有杜撰的「National Taiwan University of Literature」（國立台灣文學館）。
+# 值是 (英文正式名, zh 可能的其他寫法)。國民黨不收：「Kuomintang government」多半是譯者替「國府」「政府」補的語境。
+# 台藝大、台科大、臺灣體大要列：它們的英文名以 National Taiwan University 開頭，不列就會被當成台大。
+INSTITUTIONS = {
+    "民進黨": (["Democratic Progressive Party"], ["民主進步黨"]),
+    "民眾黨": (["Taiwan People's Party", "Taiwan People’s Party"], []),
+    "親民黨": (["People First Party"], []),
+    "時代力量": (["New Power Party"], []),
+    "台聯": (["Taiwan Solidarity Union"], ["台灣團結聯盟", "臺灣團結聯盟"]),
+    "民視": (["Formosa Television"], []),
+    "公視": (["Public Television Service"], ["公共電視"]),
+    "華視": (["Chinese Television System"], []),
+    "台大": (["National Taiwan University"], ["臺大", "台灣大學", "臺灣大學"]),
+    "台藝大": (["National Taiwan University of Arts"], ["臺藝大", "台灣藝術大學", "臺灣藝術大學", "藝專"]),
+    "台科大": (["National Taiwan University of Science and Technology"], ["臺科大", "台灣科技大學", "臺灣科技大學"]),
+    "臺灣體大": (["National Taiwan University of Sport"], ["台灣體大", "體育運動大學"]),
+    "師大": (["National Taiwan Normal University"], ["台灣師範大學", "臺灣師範大學", "師範學院"]),
+    "政大": (["National Chengchi University"], ["政治大學"]),
+    "成大": (["National Cheng Kung University"], ["成功大學"]),
+    "清大": (["National Tsing Hua University"], ["清華"]),
+    "交大": (["National Chiao Tung University", "National Yang Ming Chiao Tung University"],
+             ["交通大學", "陽明交大", "陽明交通大學"]),
+    "中興大學": (["National Chung Hsing University"], []),
+    "中山大學": (["National Sun Yat-sen University"], []),
+}
+ALIAS.update({k: v[1] for k, v in INSTITUTIONS.items() if v[1]})
 # 表鍵本身是日常用語或 slug 已知錯置，比對起來全是雜訊
 SKIP = {"這群人", "簡立峰"}
 SRC = re.compile(r"^translatedFrom:\s*['\"]?([^'\"\n]+)", re.M)
@@ -86,6 +113,9 @@ def build_pattern():
                 owners[f].add(han)
     for key, award_forms in AWARDS.items():
         for f in award_forms:
+            owners[f].add(key)
+    for key, (inst_forms, _) in INSTITUTIONS.items():
+        for f in inst_forms:
             owners[f].add(key)
     # 同一個拼寫掛在兩個人名下的，無從判斷在講誰，不用
     forms = {f: next(iter(o)) for f, o in owners.items() if len(o) == 1}
