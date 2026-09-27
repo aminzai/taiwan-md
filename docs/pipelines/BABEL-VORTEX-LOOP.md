@@ -3,7 +3,7 @@ title: 'BABEL-VORTEX-LOOP'
 description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.55)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.63'
+current_version: 'v1.64'
 last_updated: 2026-09-26
 last_session: '2026-09-26-100333-babel-vortex（翻譯率 100% 模式：推送常駐、付費 Haiku、閘門家族、委派 worktree 路徑陷阱與核准視窗、腳註修復器的語言盲）'
 sister_docs:
@@ -282,6 +282,12 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 證據（重試觸發次數），不是相關性。
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
+
+- v1.64（2026-09-27 下午第十三輪）：**佇列清空之後，常駐產線會空轉重生**。dispatcher 是用 `launchctl submit`
+  掛上去的（com.taiwanmd.babel.nightly），submitted job 一律 KeepAlive：佇列空了它照樣啟動、印 DONE、退出，
+  launchd 十幾秒後再拉起來——到 14:29 已重生 560 次、/tmp 留下 500 多個空 run 目錄（17MB）。功能上等於每 20 秒
+  輪詢一次佇列，新 stale 一出現就接得住，所以不是故障；但移除 submitted job 或改成閒置時睡眠輪詢是動常駐設定，
+  等哲宇決定。巡檢時「產線在跑」要連「在跑什麼」一起看：runs 計數飆升、run 目錄全是 0 筆，就是空轉。
 
 - v1.63（2026-09-27 上午第十輪）：**改了寫出端，要 grep 所有讀入端**。昨晚讓 structured-translate 多寫一行
   sourceBodyHash（`510189b0f`），patch-translate 卻寫死 `[:-4]` 剝它的 provenance，留下重複的 translatedFrom；

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-27T13:29:05+08:00",
+  "generated_at": "2026-09-27T14:29:06+08:00",
   "producer": "scripts/tools/lang-sync/babel-pulse.py (launchd, 15min)",
-  "snapshot_ts": "2026-09-27T13:28:56+08:00",
+  "snapshot_ts": "2026-09-27T14:28:57+08:00",
   "total_zh": 1124,
   "langs": [
     {
@@ -116,16 +116,16 @@
   "gap_total": 0,
   "gap_delta": 0,
   "rate_1h": {
-    "delta": 3,
-    "span_h": 1.53,
-    "per_hour": 2.0
+    "delta": 0,
+    "span_h": 1.0,
+    "per_hour": 0.0
   },
   "rate_24h": {
     "delta": 5443,
-    "span_h": 1181.86,
+    "span_h": 1182.86,
     "per_hour": 4.6
   },
-  "eta_days": 0.0,
+  "eta_days": null,
   "nodes": {
     "worker:haiku2": {
       "ok": 61,
@@ -233,18 +233,13 @@
   "dispatchers": [
     {
       "kind": "unified",
-      "pid": "42823",
-      "uptime": "00:17",
+      "pid": "57799",
+      "uptime": "00:01",
       "langs": "",
       "workers": 12
     }
   ],
   "history": [
-    {
-      "ts": "2026-08-08T11:08:40+08:00",
-      "fresh_total": 8045,
-      "gap_total": 1701
-    },
     {
       "ts": "2026-08-08T11:23:50+08:00",
       "fresh_total": 8045,
@@ -717,6 +712,11 @@
     },
     {
       "ts": "2026-09-27T13:28:56+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-27T14:28:57+08:00",
       "fresh_total": 13488,
       "gap_total": 0
     }
