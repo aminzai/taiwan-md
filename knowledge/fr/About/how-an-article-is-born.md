@@ -21,10 +21,10 @@ lastVerified: 2026-06-19
 lastHumanReview: false
 relatedDiary: ['2026-06-19-123349-manual']
 translatedFrom: 'About/文章如何誕生.md'
-sourceCommitSha: 'd182e5d85'
-sourceContentHash: 'sha256:4dc98dc84117c5d8'
-sourceBodyHash: 'sha256:2679dec9ddab6dbc'
-translatedAt: '2026-09-17T11:08:48.647663+00:00'
+sourceCommitSha: '1749b4291'
+sourceContentHash: 'sha256:dd1364c385fa1ba7'
+sourceBodyHash: 'sha256:2c84f1a45b32ba43'
+translatedAt: '2026-09-26T17:04:40.673378+00:00'
 ---
 
 # Comment un article prend vie : la chaîne de réécriture en six étapes de Taiwan.md pour contrer l’instinct de l’écriture par IA (REWRITE-PIPELINE v7.5 × EDITORIAL v6.12)
@@ -206,21 +206,21 @@ La retenue est l’autre face. La vie familiale, les maladies, les contradiction
 
 Il existe enfin une habitude minuscule mais cruciale : écrire « Taïwan » sans crainte. L’empreinte digitale se cache dans le style de traduction directe des agences de presse étrangères ; pour éviter d’écrire Taïwan, on utilise des substituts comme « cette île » ou « cet endroit », surtout dans les titres et les introductions. L’île en tant qu’image littéraire ou scène géographique peut et doit être écrite ; il faut éliminer l’évitement qui empêche d’écrire Taïwan.
 
-## Une différence qu’on saisit du premier coup d’œil
+## La différence en un coup d'œil
 
-Ces disciplines réunies donnent un résultat précis, et le mieux pour le voir, c’est un avant‑après.
+La combinaison de ces règles donne ceci ; la comparaison côte à côte est le moyen le plus rapide de comprendre.
 
-Prenons l’exemple de Tsai Ing‑wen : le modèle creux d’une IA serait « joueuse de badminton taïwanaise célèbre, qui s’est illustrée sur la scène internationale, a remporté de multiples prix, a fait honneur à Taïwan », suivi de quatre puces : principales réalisations, style de jeu, influence internationale, contribution sociale. Dans tout ce paragraphe, pas une seule année précise, pas un seul match nommé, et le sujet pourrait être remplacé par n’importe quel sportif.
+En écrivant sur Dai Ziying, le modèle vide de l'IA donnerait : « Athlète de badminton célèbre de Taïwan, excellentes performances dans les compétitions internationales, plusieurs récompenses, faisant rayonner Taïwan », suivi de quatre puces : réalisations, style de jeu, influence internationale, contribution sociale. Ce paragraphe ne contient aucune année spécifique, aucun match précis, et est applicable à n'importe quel athlète.
 
 ```tw-versus
-Modèle creux d’IA | Version éditoriale
-S’est illustrée, a fait honneur à Taïwan | Numéro 1 mondiale, 214 semaines d’affilée
-Quatre puces : réalisations / style / influence / contribution | 2020, aux Jeux olympiques de Tokyo, en larmes après la finale perdue, en tête des recherches Google à Taïwan
-Le sujet pourrait être remplacé par n’importe qui | 6 heures de jeu quotidiennes dès l’âge de 6 ans, la « main magique » de sa main gauche
-Source : EDITORIAL v6.12 §Before/After Tsai Ing‑wen
+Modèle vide de l'IA | Version curatée
+Performances excellentes, faisant rayonner Taïwan | Au sommet du monde pendant 214 semaines
+Quatre puces : réalisations/style/influence/contribution | Les larmes après la médaille d'or aux JO de Tokyo en 2020, atteignant le premier rang des recherches Google à Taïwan
+Applicable à n'importe qui | Six heures par jour depuis l'âge de six ans, style "magicien" avec la main gauche
+Source : ÉDITORIAL v6.12 §Avant/Après Dai Ziying
 ```
 
-La version éditoriale ne fait qu’une seule chose : remplacer chaque adjectif abstrait par un fait vérifiable. Les 214 semaines sont les plus longues de l’histoire du badminton féminin ; le match perdu contre Chen Yu‑wei aux Jeux olympiques de 2020 est un moment gravé dans la mémoire collective taïwanaise. La température émotionnelle se lit dans l’idée que « c’est dans le moment de la défaite que les lecteurs se souviennent le plus ». Le texte sur Mayday est exactement le même : au lieu d’écrire « l’un des groupes de rock les plus influents de Taïwan, qui a conquis les fans avec de la musique positive », on préfère « quatre étudiants du lycée attaché de l’Université normale de Taïwan ont joué une chanson sur scène, et 28 ans plus tard, sur la place Madison Square Garden à New York — la même scène que les Beatles lors de leur premier tournant aux États‑Unis — ils ont donné deux concerts, les billets étant écoulés en 48 heures »[^13]。
+La version curatée ne fait qu'une seule chose : remplacer chaque adjectif abstrait par un fait vérifiable. Le record des 214 semaines au sommet du monde est le plus long pour les femmes en simple ; la finale olympique de Tokyo 2020 contre Chen Yufei est un moment que Taïwan se souvient collectivement. La chaleur réside dans des endroits comme « ce moment où, en perdant, les lecteurs s'en souviennent ». C'est la même chose pour le groupe Mayday ; au lieu d'écrire « l'un des groupes de rock les plus influents de Taïwan, conquérant ses fans avec une musique positive », il est préférable d'écrire « quatre étudiants du lycée affilié à Shida ont joué une chanson lors d'une performance en plein air, et 28 ans plus tard, ils ont donné deux concerts au Madison Square Garden de New York (la même scène que les Beatles aux États-Unis), avec des billets vendus en 48 heures » [^13].
 
 ## Un service de rédaction qui ne rédige jamais lui-même
 

@@ -1,93 +1,94 @@
 ---
-title: 'Masalah Penandaan Taiwan dalam Standar Internasional'
-description: 'Dari kode ISO hingga perangkat lunak sumber terbuka—bagaimana nama Taiwan ditulis, diperdebatkan, dan diperbaiki dalam infrastruktur digital global'
+title: 'Isu Penamaan Taiwan dalam Standar Internasional'
+description: 'Dari kode ISO hingga perangkat lunak sumber terbuka—bagaimana nama Taiwan ditulis, diperdebatkan, dan dikoreksi dalam infrastruktur digital global'
 date: 2026-03-18
 category: 'Society'
 tags:
   [
     'ISO 3166',
-    'Standar Internasional',
-    'Perangkat Lunak Sumber Terbuka',
+    'standar internasional',
+    'perangkat lunak sumber terbuka',
     'g0v',
-    'Kedaulatan Digital',
-    'Penandaan Taiwan',
+    'kedaulatan digital',
+    'penamaan Taiwan',
   ]
-subcategory: 'Hubungan Internasional'
+subcategory: '國際關係'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Society/台灣在國際標準中的標示問題.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:5aa5d3ad7e4d012f'
-translatedAt: '2026-08-10T03:40:22.494148+00:00'
+sourceCommitSha: 'd7b843fbf'
+sourceContentHash: 'sha256:c6d4e2074d20efa4'
+sourceBodyHash: 'sha256:234ae4c6ee15c7e0'
+translatedAt: '2026-09-27T05:04:34+08:00'
 ---
 
-# Masalah Penandaan Taiwan dalam Standar Internasional
+# Isu Penamaan Taiwan dalam Standar Internasional
 
-> **Ringkasan 30 Detik:** Dalam infrastruktur digital global, Taiwan sering ditandai sebagai "Taiwan, Province of China". Penandaan ini berasal dari lanskap politik internasional pasca Resolusi Majelis Umum PBB Nomor 2758 tahun 1971, memengaruhi standar internasional seperti ISO 3166, dan meluas ke perangkat lunak sumber terbuka serta layanan jaringan global. Komunitas sumber terbuka terus mendorong cara penandaan yang lebih netral melalui laporan bug dan pull request.
+> **Ringkasan 30 Detik:** Dalam infrastruktur digital global, Taiwan sering ditandai sebagai "Taiwan, Provinsi Tiongkok". Penandaan ini berasal dari lanskap politik internasional setelah Resolusi Majelis Umum PBB ke-2758 pada tahun 1971, yang memengaruhi standar internasional seperti ISO 3166 dan meluas ke perangkat lunak sumber terbuka serta layanan web global. Komunitas sumber terbuka secara berkelanjutan mendorong metode penandaan yang lebih netral melalui laporan bug dan permintaan tarik (pull request).
 
-Dalam infrastruktur digital global, cara penandaan Taiwan mencerminkan perbedaan politik internasional yang berlangsung selama setengah abad. Dari ISO 3166 hingga antarmuka pemilihan mirror Ubuntu, di balik sebuah detail teknis tersembunyi kontroversi yang belum terselesaikan mengenai pengakuan identitas Taiwan dalam sistem internasional.
+Cara penamaan Taiwan dalam infrastruktur digital global mencerminkan perbedaan politik selama setengah abad. Di balik detail teknis, mulai dari ISO 3166 hingga antarmuka pilihan situs cermin Ubuntu, terdapat sengketa yang belum terselesaikan mengenai pengakuan identitas Taiwan dalam sistem internasional.
 
-## Konteks historis: UN 2758 hingga ISO 3166
+## Konteks Sejarah: PBB 2758 hingga ISO 3166
 
-Pada tahun 1971, Resolusi Majelis Umum PBB Nomor 2758 disahkan, memutuskan bahwa "kursi Tiongkok di PBB" diwakili oleh Republik Rakyat Tiongkok, sehingga Republik Tiongkok (Taiwan) kehilangan kursi PBB. Keputusan ini awalnya hanya menyangkut kursi perwakilan PBB, namun kemudian banyak dikutip sebagai dasar Taiwan dikecualikan atau ditampilkan dengan cara tertentu di berbagai organisasi internasional dan badan penentu standar.[^1]
+Pada tahun 1971, Resolusi Majelis Umum PBB ke-2758 disahkan, yang menentukan bahwa kursi Tiongkok di Perserikatan Bangsa-Bangsa akan ditempati oleh perwakilan Republik Rakyat Tiongkok, sehingga Republik Tiongkok kehilangan kursi PBB. Meskipun resolusi ini awalnya hanya menyangkut kursi delegasi PBB, ia kemudian secara luas dirujuk sebagai dasar pengecualian atau penandaan Taiwan dengan cara tertentu dalam berbagai organisasi internasional dan badan penetapan standar.[^1]
 
-Pada tahun 1974, nama entri Taiwan dalam standar internasional ISO 3166 diubah dari "Taiwan" menjadi "Taiwan, Province of China", secara resmi menetapkan cara penunjukan yang berlaku hingga saat ini. ISO 3166-1 sekaligus memberikan kode dua huruf `TW` untuk Taiwan, namun kontroversi mengenai nama resmi berlanjut tanpa ketentuan hingga kini.
+ISO 3166 pertama kali diterbitkan pada Desember 1974, dan nama entitas untuk Taiwan sejak saat itu adalah "Taiwan, Provinsi Tiongkok", yang masih digunakan hingga kini. ISO 3166-1 juga memberikan kode dua huruf `TW` untuk Taiwan, tetapi sengketa atas nama resmi ini terus berlanjut.
 
-Posisi ISO adalah mengikuti basis data nama geografis Biro Statistik PBB (UNSD), yang penunjukannya kembali mengacu pada lanskap politik pasca-UN 2758. Hal ini membentuk sistem saling ketergantungan: standar internasional merujuk data PBB, perangkat lunak sumber terbuka merujuk standar internasional, dan akhirnya "Taiwan, Province of China" muncul di menu tarik-turun para pengembang di seluruh dunia.[^2]
+Posisi ISO mengikuti basis data geografi dari Biro Statistik PBB (UNSD), dan penandaan terakhir merujuk pada lanskap politik pasca PBB 2758. Hal ini menciptakan sistem yang saling bergantung: standar internasional mengutip data PBB, perangkat lunak sumber terbuka mengutip standar internasional, dan akhirnya "Taiwan, Provinsi Tiongkok" muncul di menu tarik-turun para pengembang global.[^2]
 
 ## Tindakan Koreksi Komunitas Perangkat Lunak Sumber Terbuka
 
-Bug #1138121 Ubuntu (dilaporkan 2013) adalah salah satu kasus yang paling banyak dikutip. Ketika pengguna Taiwan memilih situs cermin sumber perangkat lunak, melihat label 「Taiwan, Province of China」 muncul di antarmuka, banyak yang merasa bingung. Pelapor menyarankan mengadopsi kolom common name di ISO 3166, yaitu sekadar 「Taiwan」, bukan nama resmi lengkap.
+Bug #1138121 Ubuntu (dilaporkan pada tahun 2013) adalah salah satu kasus yang paling sering dikutip. Ketika pengguna Taiwan melihat "Taiwan, Provinsi Tiongkok" di antarmuka saat memilih situs cermin sumber perangkat lunak, banyak orang merasa terganggu. Pelapor menyarankan penggunaan kolom nama umum dalam ISO 3166, yaitu hanya "Taiwan", bukan nama resmi lengkap.
 
-Masalah serupa juga berulang muncul di proyek sumber terbuka lain. Issue #43 ISO-3166-Countries-with-Regional-Codes, FreeBSD PR 138672, dan Drupal Issue #1938892 semuanya mencatat keberatan komunitas terhadap penandaan ini. Solusinya biasanya adalah beralih ke data CLDR (Unicode Common Locale Data Repository), karena penandaan CLDR untuk Taiwan relatif lebih netral.[^3]
+Masalah serupa juga berulang kali muncul di proyek sumber terbuka lainnya. Issue #43 dari ISO-3166-Countries-with-Regional-Codes, PR FreeBSD 138672, dan Drupal Issue #1938892 semuanya mencatat keberatan komunitas terhadap penandaan ini. Solusinya biasanya adalah menggunakan data CLDR (Unicode Common Locale Data Repository), yang memiliki penandaan yang lebih netral untuk Taiwan.[^3]
 
-Tindakan koreksi komunitas sumber terbuka mencerminkan pertemuan antara teknik dan politik: pengembang biasanya ingin mengadopsi penandaan yang lebih netral, tetapi terbatas oleh pertimbangan 「mengikuti standar internasional」, sehingga perubahan sering memerlukan diskusi komunitas yang lama, dan sebagian pemelihara juga memilih menghindari isu ini. Anggota komunitas g0v, chewei, lama mengumpulkan kasus terkait, mencatat luasnya masalah penandaan Taiwan di ekosistem perangkat lunak global.
+Tindakan koreksi oleh komunitas sumber terbuka mencerminkan persimpangan antara teknologi dan politik: pengembang umumnya ingin menggunakan penandaan yang lebih netral, tetapi dibatasi oleh pertimbangan "mengikuti standar internasional," sehingga modifikasi sering memerlukan diskusi komunitas yang panjang, dan beberapa pemelihara memilih untuk menghindari isu ini. Anggota komunitas g0v, chewei, telah mengumpulkan kasus-kasus terkait dalam jangka waktu lama, mencatat luasnya masalah penamaan Taiwan dalam ekosistem perangkat lunak global.
 
 ## Dampak Penamaan yang Lebih Luas
 
-Dalam acara resmi organisasi internasional, cakupan masalah penamaan Taiwan lebih luas. Dalam Sidang Kesehatan Dunia (WHA), Taiwan pernah diundang menghadiri sebagai observator dengan identitas 「Chinese Taipei」, pada periode 2009 hingga 2016 (total delapan kali); sejak 2017, Tiongkok menentang kehadiran Taiwan, undangan terhenti sejak saat itu, dan Taiwan tidak lagi menerima undangan formal.[^6] Di Organisasi Penerbangan Sipil Internasional (ICAO), Taiwan juga tidak dapat berpartisipasi dalam pengambilan keputusan sebagai anggota formal, dan dalam jangka lama bergantung pada saluran tidak formal untuk memperoleh informasi standar teknis penerbangan, menciptakan celah potensial dalam aliran informasi keselamatan penerbangan. Di Olimpiade, Taiwan berpartisipasi dengan nama 「Chinese Taipei」 (「中華台北」) sejak 1981 — nama ini berasal dari Perjanjian Lausana 1981 yang ditandatangani oleh Komite Olimpiade Internasional dan Komite Olimpiade Tionghoa. Solusi kompromi ini juga diadopsi oleh banyak organisasi internasional non-pemerintah, dan diperluas ke forum seperti APEC.
+Di forum resmi organisasi internasional, masalah penamaan Taiwan memiliki cakupan yang lebih luas. Di Sidang Kesehatan Dunia (WHA), Taiwan pernah diundang dengan status "Chinese Taipei" sebagai pengamat selama periode 2009 hingga 2016 (total delapan kali); sejak tahun 2017, Tiongkok menolak partisipasi Taiwan dan undangan terhenti, sehingga Taiwan tidak pernah menerima undangan resmi lagi.[^6] Di Organisasi Penerbangan Sipil Internasional (ICAO), Taiwan juga gagal berpartisipasi dalam pengambilan keputusan sebagai anggota resmi, secara jangka panjang mengandalkan saluran informal untuk mendapatkan informasi standar penerbangan, yang menciptakan celah potensial dalam sirkulasi informasi keselamatan penerbangan. Dalam Olimpiade, Taiwan berkompetisi sejak tahun 1981 dengan nama "Chinese Taipei"—nama ini berasal dari Kesepakatan Lausanne yang ditandatangani oleh Komite Olimpiade Internasional dan Komite Olimpiade Tiongkok pada tahun 1981. Solusi kompromi ini juga diadopsi oleh banyak organisasi internasional non-pemerintah dan meluas ke acara seperti APEC.
 
-Masalah penamaan mendapat ekstensi baru di era digital. Selain ISO 3166, kode bank SWIFT, kode bandara ICAO, dan basis data geografis berbagai negara pemerintah, masing-masing memiliki cara penunjukan Taiwan yang berbeda, kekurangan standar seragam.
+Masalah penamaan memiliki perluasan baru di era digital. Selain ISO 3166, kode bank SWIFT, kode bandara ICAO, dan basis data geografi pemerintah negara masing-masing, semuanya memiliki cara penandaan Taiwan yang berbeda, tanpa standar tunggal.
 
-Sejak 2023, sejumlah perusahaan teknologi internasional (seperti Apple, Google Maps) secara bertahap menyesuaikan nama tampilan Taiwan setelah laporan pengguna, namun penunjukan resmi ISO 3166-1 itu sendiri tidak berubah, menunjukkan pemisahan antara implementasi perusahaan dan standar internasional terus melebar.
+Penandaan resmi ISO 3166-1 sendiri belum berubah hingga saat ini; bagaimana setiap perusahaan dan proyek perangkat lunak menampilkan Taiwan masih ditentukan secara kasus per kasus.
 
-## Perubahan Desain Sampul Paspor 2020
+## Perubahan Sampul Paspor 2020
 
-**2 September 2020**, Kementerian Luar Negeri Republik Tiongkok (Taiwan) mengumumkan desain paspor baru: teks 「REPUBLIC OF CHINA」 di sampul yang semula jelas diperkecil (masih mempertahankan lambang negara), sementara teks 「TAIWAN」 diperbesar signifikan hingga sejajar dengan 「REPUBLIC OF CHINA」. Perubahan ini menanggapi insiden selama pandemi COVID-19 di mana wisatawan Taiwan di berbagai negara disalahartikan sebagai warga negara Tiongkok dan ditolak masuk, dan merupakan kali pertama pemerintah Taiwan merespons masalah konkret 「kebingungan penunjukan kedaulatan」 melalui desain paspor. Paspor baru diterbitkan mulai **Januari 2021**.[^4]
+Pada **2 September 2020**, Kementerian Luar Negeri Republik Tiongkok (Taiwan) mengumumkan desain paspor baru: tulisan "REPUBLIC OF CHINA" di sampul yang sebelumnya terlihat jelas diperkecil (meskipun lambang negara tetap ada), sementara kata "TAIWAN" diperbesar secara signifikan agar sejajar dengan "REPUBLIC OF CHINA". Perubahan ini merupakan respons terhadap insiden wisatawan Taiwan ditolak masuk di berbagai negara karena disalahartikan sebagai warga Tiongkok selama pandemi COVID-19, menjadikannya tanggapan pertama pemerintah Taiwan terhadap masalah konkret "kebingungan penandaan kedaulatan." Paspor edisi baru mulai diterbitkan pada **Januari 2021**.[^4]
 
-## Kontroversi Taipei Tionghoa di Olimpiade Paris 2024
+## Sengketa Chinese Taipei di Olimpiade Paris 2024
 
-Selama **Olimpiade Paris Juli-Agustus 2024**, Taiwan berpartisipasi dengan nama 「Chinese Taipei」, namun masyarakat sipil Tiongkok di berbagai platform media sosial menerjemahkan nama tersebut sebagai 「中國台北」, yang memiliki perbedaan jelas dengan terjemahan bahasa Tionghoa resmi yang ditetapkan oleh Komite Olimpiade Internasional: 「Chinese Taipei = 中華台北」. Insiden seperti bendera direbut oleh penonton Tiongkok dan tim pendukung warga Taiwan di luar negeri diganggu oleh pemimpin delegasi Tiongkok selama Olimpiade, memicu refleksi ulang di masyarakat Taiwan terhadap Perjanjian Lausana 1981.[^5]
+Selama **Olimpiade Paris Juli-Agustus 2024**, Taiwan berkompetisi dengan nama "Chinese Taipei," tetapi masyarakat Tiongkok menerjemahkan nama tersebut sebagai "Tiongkok Taipei" di berbagai platform sosial, yang jelas berbeda dari terjemahan resmi Olimpiade ("Chinese Taipei = Chinese Taipei"). Insiden seperti penyerbuan bendera oleh penonton Tiongkok dan gangguan terhadap delegasi Taiwan oleh pemimpin Tiongkok selama Olimpiade memicu refleksi ulang masyarakat Taiwan terhadap Kesepakatan Lausanne tahun 1981.[^5]
 
-## Kasus Tekanan Perusahaan Multinasional
+## Kasus Tekanan Perusahaan Lintas Negara
 
-Tekanan perluasan 「Prinsip Satu Tiongkok」 oleh Tiongkok pada akhir 2010-an menyebar luas ke ranah perusahaan multinasional. **China Airlines (華航)** yang lama menggunakan nama 「China Airlines」 di rute internasional memicu kontroversi internal terkait identitas kebangsaan Taiwan (petisi 「Penggantian Nama China Airlines」 2018). Perusahaan seperti **Delta Air Lines**, **Marriott International**, **United Airlines**, **Zara**, **Starbucks**, **Marriott** pernah mengalami tekanan dari Administrasi Penerbangan Sipil Tiongkok atau Kantor Informasi Siber Tiongkok karena situs web mereka mencantumkan 「Taiwan」 sebagai negara, dan dipaksa mengubahnya menjadi 「Taiwan Tiongkok」 atau 「Wilayah Taiwan Tiongkok」. Kasus-kasus ini menunjukkan bahwa 「efek politik standar ISO」 telah meluas dari ranah teknis menjadi alat tekanan geopolitik.
+Ekspansi tekanan Tiongkok mengenai "Prinsip Satu Tiongkok" meluas secara signifikan ke ranah perusahaan lintas negara pada akhir dekade 2010-an. **China Airlines** telah lama menggunakan nama "China Airlines," yang memicu sengketa internal identitas nasional Taiwan (sekitar 40.000 orang merespons petisi di Change.org untuk "mengganti nama China Airlines" selama diplomasi masker pandemi tahun 2020). Perusahaan seperti **Delta Air Lines**, **Marriott**, **United Airlines**, dan **Zara** pernah ditekan oleh Biro Penerbangan Sipil Tiongkok atau Komisi Keamanan Siber karena mencantumkan "Taiwan" sebagai negara di situs web mereka, memaksa mereka untuk mengubahnya menjadi "China Taiwan" atau "Wilayah Taiwan Tiongkok." Kasus-kasus ini menunjukkan bahwa "kekuatan politik standar ISO" telah meluas dari ranah teknis ke alat tekanan geopolitik.
 
-## Perspektif: Kedudukan Tiongkok
+## Perspektif: Sudut Pandang Tiongkok
 
-Dari sudut pandang resmi Republik Rakyat Tiongkok, 「Prinsip Satu Tiongkok」 adalah fondasi politik hubungan lintas selat, yang mengklaim bahwa Republik Rakyat Tiongkok adalah satu-satunya pemerintah sah China, dan Taiwan adalah sebuah provinsi Republik Rakyat Tiongkok (tingkat administratif 「Provinsi Taiwan」). Kedudukan ini secara langsung memengaruhi penunjukan 「Taiwan, Province of China」 untuk Taiwan di ISO 3166 sejak 1974. Memahami masalah Taiwan dalam standar internasional mengharuskan kita melihat secara bersamaan posisi penolakan pemerintah Republik Tiongkok (Taiwan), klaim Republik Rakyat Tiongkok, serta spektrum identitas plural masyarakat Taiwan — ketiganya tidak selaras, dan tidak dapat direduksi.
+Dari sudut pandang resmi Republik Rakyat Tiongkok, "Prinsip Satu Tiongkok" adalah dasar politik hubungan lintas selat, yang menyatakan bahwa Republik Rakyat Tiongkok adalah satu-satunya pemerintahan yang sah di Tiongkok dan Taiwan adalah salah satu provinsi dari Republik Rakyat Tiongkok (dengan tingkat administratif "Provinsi Taiwan"). Sudut pandang ini secara langsung memengaruhi penandaan ISO 3166 terhadap Taiwan sebagai "Taiwan, Provinsi Tiongkok" sejak tahun 1974. Memahami masalah Taiwan dalam standar internasional memerlukan pemahaman simultan tentang posisi oposisi pemerintah Republik Tiongkok (Taiwan), klaim Republik Rakyat Tiongkok, dan spektrum pengakuan yang beragam di masyarakat Taiwan—ketiganya tidak selaras dan tidak dapat disederhanakan.
 
-## Menara Babel Kedaulatan: sovereignty preservation
+## Menara Babel Kedaulatan: pelestarian kedaulatan
 
-Masalah penunjukan Taiwan dalam standar internasional, pada hakikatnya adalah masalah **infrastruktur pelestarian kedaulatan** (sovereignty preservation infrastructure). Memastikan suara first-person Taiwan hadir di setiap bahasa, setiap sistem, setiap basis data, adalah cara mempertahankan Taiwan sebagai subjek politik independen agar terus terlihat di era informasi. Setiap laporan bug, setiap pull request, setiap pembaruan desain paspor, adalah sebuah bata dalam infrastruktur ini.
+Masalah penandaan Taiwan dalam standar internasional pada dasarnya adalah masalah **infrastruktur pelestarian kedaulatan**. Memastikan adanya suara orang pertama (first-person voice) Taiwan di setiap bahasa, sistem, dan basis data adalah cara untuk memastikan Taiwan terus terlihat sebagai subjek politik independen di era informasi. Setiap laporan bug, setiap permintaan tarik, dan setiap pembaruan desain paspor adalah batu bata dari infrastruktur ini.
 
 ## Referensi
 
+[^1]: [Resolusi Majelis Umum PBB ke-2758 (1971)](<https://undocs.org/zh/A/RES/2758(XXVI)>) — Teks lengkap resolusi yang menentukan bahwa kursi delegasi di Perserikatan Bangsa-Bangsa akan ditempati oleh perwakilan Republik Rakyat Tiongkok.
+
+[^2]: [Agen Pemeliharaan ISO 3166 — Platform Penjelajahan Online](https://www.iso.org/obp/ui/#iso:code:3166:TW) — Entri Taiwan dalam ISO 3166-1, termasuk kode TW dan nama resmi.
+
+[^3]: [Ubuntu Launchpad — Bug #1138121](https://bugs.launchpad.net/ubuntu/+source/software-properties/+bug/1138121) — Laporan asli mengenai masalah penandaan Taiwan pada antarmuka sumber perangkat lunak Ubuntu, tahun 2013.
+
+[^4]: [Sampul Paspor Baru Memperbesar Kata TAIWAN Diterbitkan Januari Tahun ke-110](https://www.cna.com.tw/news/firstnews/202009020019.aspx) — Liputan Central News tanggal 2 September 2020, di mana Kementerian Luar Negeri mengumumkan desain sampul paspor baru dengan kata TAIWAN yang diperbesar dan diterbitkan pada Januari 2021.
+
+[^5]: [Komite Olimpiade Internasional — Kesepakatan Olimpiade Chinese Taipei](https://www.olympic.org/) — Kesepakatan Lausanne tahun 1981 menetapkan nama "Chinese Taipei"; sengketa muncul selama Olimpiade Paris 2024 karena terjemahan Tiongkok yang salah menjadi "Tiongkok Taipei".
+
+[^6]: [Departemen Kesehatan dan Kesejahteraan Republik Tiongkok (Taiwan) — Penjelasan Partisipasi Taiwan di WHO](https://www.mohw.gov.tw/) — Taiwan menghadiri WHA sebagai pengamat dari tahun 2009 hingga 2016, dan tidak pernah diundang lagi sejak 2017; latar belakang pengecualian ICAO dijelaskan dalam dokumen terkait Kementerian Luar Negeri.
+
 ## Bacaan Lanjutan
 
-- [Komunitas g0v — Pengumpulan Masalah Penunjukan Taiwan](https://g0v.hackmd.io/5YRoMhveTt-aXwH60T2NZg) — basis data kasus penunjukan Taiwan dalam perangkat lunak sumber terbuka yang dikumpulkan oleh chewei
-- [Platform Pencarian Daring ISO 3166](https://www.iso.org/obp/ui/#iso:code:3166:TW) — mencari penunjukan Taiwan saat ini di ISO 3166-1
-
-[^1]: [Resolusi Majelis Umum PBB Nomor 2758 (1971)](https://undocs.org/zh/A/RES/2758(XXVI) — ) — Teks lengkap resolusi yang menentukan kursi representasi China di PBB diwakili oleh Republik Rakyat Tiongkok.
-
-[^2]: [ISO 3166 Maintenance Agency — Online Browsing Platform](https://www.iso.org/obp/ui/#iso:code:3166:TW) — Entri Taiwan di ISO 3166-1, berisi kode TW dan nama resmi.
-
-[^3]: [Ubuntu Launchpad — Bug #1138121](https://bugs.launchpad.net/ubuntu/+source/software-properties/+bug/1138121) — Laporan asli mengenai masalah penandaan Taiwan di antarmuka sumber perangkat lunak Ubuntu, 2013.
-
-[^4]: [Kementerian Luar Negeri Republik Cina — Penjelasan Paspor Baru](https://www.mofa.gov.tw/) — Mengumumkan desain paspor baru pada 2 September 2020, kata TAIWAN diperbesar, diterbitkan mulai Januari 2021.
-
-[^5]: [Komite Olimpiade Internasional — Perjanjian Komite Olimpiade Tiongkok Taipei](https://www.olympic.org/) — Perjanjian Lausanne 1981 menetapkan nama 'Chinese Taipei'; pada Olimpiade Paris 2024, China menggunakan 'China Taipei' yang salah terjemahan memicu kontroversi.
-
-[^6]: [Kementerian Kesehatan dan Kesejahteraan Republik Cina — Penjelasan Partisipasi Taiwan di WHO](https://www.mohw.gov.tw/) — Taiwan menghadiri WHA sebagai observan dari 2009 hingga 2016, sejak 2017 tidak diundang lagi; latar belakang pengecualian ICAO lihat penjelasan terkait Kementerian Luar Negeri.
+- [Komunitas g0v — Kompilasi Masalah Penamaan Taiwan](https://g0v.hackmd.io/5YRoMhveTt-aXwH60T2NZg) — Basis data kasus penandaan perangkat lunak sumber terbuka yang dikumpulkan oleh chewei
+- [Platform Pencarian Online ISO 3166](https://www.iso.org/obp/ui/#iso:code:3166:TW) — Tempat untuk mencari penandaan Taiwan dalam ISO 3166-1

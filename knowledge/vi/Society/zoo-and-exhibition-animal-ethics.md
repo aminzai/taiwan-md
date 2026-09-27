@@ -1,17 +1,17 @@
 ---
-title: 'Động vật trong chương trình biểu diễn và đạo đức động vật'
-description: 'Từ những chiếc lò cài sắt của voi đến bức tường san hô của Xpark — Đài Loan đang định nghĩa lại mối quan hệ giữa con người và những con vật bị trưng bày'
+title: 'Đạo đức của sở thú và động vật biểu diễn'
+description: 'Từ những con voi trong lồng sắt đến bức tường sứa tại Xpark—Đài Loan đang định nghĩa lại mối quan hệ giữa con người và các loài vật được trưng bày'
 date: 2026-03-18
 category: 'Society'
 tags:
   [
-    'vườn thú',
+    'sở thú',
     'động vật biểu diễn',
     'phúc lợi động vật',
     'Xpark',
-    'thú viện Đài Bắc',
+    'sở thú Đài Bắc',
     'đạo đức động vật',
-    'thú viện Tân Trúc',
+    'sở thú Tân Trúc',
   ]
 subcategory: '動物與倫理'
 author: 'Taiwan.md Contributors'
@@ -20,186 +20,185 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 readingTime: 12
 translatedFrom: 'Society/動物園與展演動物倫理.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:942c806351e32e6f'
-sourceBodyHash: 'sha256:d25050b0162be631'
-translatedAt: '2026-09-10T03:36:16+08:00'
+sourceCommitSha: '8a8596298'
+sourceContentHash: 'sha256:0ca0048f5fb189e0'
+sourceBodyHash: 'sha256:2b440f6d5e5bb010'
+translatedAt: '2026-09-26T19:13:15+08:00'
 ---
 
-# Động vật trong chương trình biểu diễn và đạo đức động vật
+# Đạo đức của sở thú và động vật biểu diễn
 
-_ Từ những chiếc lò cài sắt của voi cho đến bức tường san hô của Xpark — Đài Loan đang định nghĩa lại mối quan hệ giữa con người và những con vật bị trưng bày _
+_Từ những con voi trong lồng sắt đến bức tường sứa tại Xpark, Đài Loan đang định nghĩa lại mối quan hệ giữa con người và các loài vật được trưng bày_
 
-## 30 giây tổng quan
+## Tổng quan 30 giây
 
-Các công viên thú ở Đài Loan đang trải qua cuộc cách mạng tư duy lớn nhất trong lịch sử lâu đời của chúng. Từ những buổi trưng bày trong lò cài sắt của công viên thú Trường Sơn thời thuộc địa Nhật cho đến cuộc cách mạng "không có lò cài" đột phá của công viên thú Tân Trúc năm 2019, rồi đến trận cơn bão tranh cãi về phúc lợi động vật khi Xpark khánh thành năm 2020, tất cả đang thúc đẩy chúng ta suy ngẫm lại tính hợp lý của việc "giam cầm động vật để mọi người xem".
+Sở thú ở Đài Loan đang trải qua một cuộc cách mạng tư tưởng lớn nhất trong lịch sử trăm năm. Từ việc trưng bày bằng lồng sắt tại Sở thú Viên Sơn thời Nhật Bản, đến sự cải tạo đột phá "không có lồng" của Sở thú Tân Trúc vào năm 2019, và cuộc tranh luận lớn về phúc lợi động vật bùng nổ khi Xpark khai trương vào năm 2020, tất cả đã buộc chúng ta phải suy ngẫm lại tính hợp lý của việc "giam giữ động vật để người xem".
 
-Cuộc chuyển đổi này bao phủ toàn bộ cập nhật giá trị xã hội. Từ sự biến mất của những chú hổ nhảy lửa trong các vòng biểu diễn, cho đến những tranh cãi xung quanh các quán cà phê thú cưng trên mạng xã hội, người dân Đài Loan đang hỏi: "Sự hạnh phúc của động vật, ai quyết định?"
+Sự chuyển đổi này bao hàm sự cập nhật các giá trị xã hội. Từ những con hổ biểu diễn trong rạp xiếc biến mất, đến tranh cãi về quán cà phê thú cưng trên mạng xã hội, người dân Đài Loan bắt đầu tự hỏi: "Ai mới là người quyết định niềm vui của động vật?"
 
-Năm 2017, Đài Loan ban hành "Quy chế quản lý biểu diễn động vật", và cho đến năm 2026, giấy phép biểu diễn cá heo và cá voi sẽ hết hạn — một loạt các bước ngoặt hệ thống, biến cuộc tranh luận từ triết lý đạo đức thành quyết định pháp lý thực tế.
+Việc ban hành 《Quy chế Quản lý Biểu diễn Động vật》 vào năm 2016 và sự hết hạn giấy phép biểu diễn cá voi/cá heo vào năm 2026—một loạt các bước ngoặt về thể chế đã đưa cuộc tranh luận này từ triết học đạo đức thành quyết định pháp lý thực tế.
 
-## Tại sao điều này quan trọng
+## Tại sao điều này quan trọng?
 
-Trên một hòn đảo ngày càng đô thị hóa, công viên thú có thể là nơi duy nhất mà đa số người có thể tiếp xúc với động vật hoang dã. Nhưng khi giáo dục bảo tồn và phúc lợi động vật xung đột, khi lợi ích thương mại và nguyên tắc đạo đức căng thẳng, chúng ta cần tìm cách cân bằng giữa "giúp con người hiểu biết về động vật" và "giúp động vật sống tốt đẹp hơn".
+Trên một hòn đảo ngày càng đô thị hóa, sở thú có thể là nơi duy nhất mà nhiều người tiếp xúc với động vật hoang dã. Nhưng khi giáo dục bảo tồn xung đột với phúc lợi động vật, khi lợi ích thương mại giằng co với các nguyên tắc đạo đức, làm thế nào chúng ta tìm được sự cân bằng giữa "giúp con người nhận biết về động vật" và "giúp động vật sống tốt"?
 
-Vấn đề này không có câu trả lời chuẩn, nhưng hành trình khám phá của Đài Loan phản ánh cách một xã hội đang định nghĩa lại mối quan hệ giữa con người và động vật, đồng thời cũng đang định nghĩa lại chính bản thân mình.
+Vấn đề này không có câu trả lời tiêu chuẩn, nhưng quá trình khám phá của Đài Loan phản ánh cách một xã hội định nghĩa lại mối quan hệ giữa con người và động vật, và cũng là cách chúng ta tự định nghĩa mình.
 
-Từ việc soạn thảo quy định pháp lý cho đến những tranh cãi lan truyền trên mạng xã hội, tốc độ thay đổi nhận thức của Đài Loan về động vật biểu diễn thực sự hiếm thấy ở khu vực châu Á.
+Tốc độ thay đổi thái độ của Đài Loan đối với động vật biểu diễn—từ việc ban hành quy định đến tranh cãi trên mạng xã hội—là tương đối hiếm thấy trong khu vực châu Á.
 
-## Từ lò cài sắt đến rừng rậm: Sự biến đổi qua năm tháng của Thú viện Đài Bắc
+## Từ lồng sắt đến rừng: Sự tiến hóa trăm năm của Sở thú Đài Bắc
 
-Năm 1914, chính quyền thuộc địa Nhật thiết lập "Thú viện Đài Bắc" tại Trường Sơn, với triết lý trưng bày rất đơn giản: giam nhốt những loài thú kỳ lạ trong lò cài, để mọi người ngạc nhiên. Những sàn xi măng, thanh sắt, không gian hẹp hòi — những con vật là mẫu hàng, không phải là những sinh linh sống động.
+Năm 1914, chính quyền thuộc địa Nhật Bản đã thành lập "Sở thú Đài Bắc" tại Viên Sơn. Triết lý trưng bày thời đó rất đơn giản: nhốt những loài vật kỳ lạ vào lồng để người dân kinh ngạc. Sàn bê tông, hàng rào sắt, không gian chật hẹp—động vật là vật phẩm trưng bày, chứ không phải cá thể sống.
 
-Năm 1986, thú viện chuyển đến Mục Tùy, không gian mở rộng, và suy nghĩ cũng bắt đầu thay đổi. Môi trường được cải thiện, huấn luyện hành vi, nhân giống bảo tồn — Thú viện Thành phố Đài Bắc bắt đầu thử nghiệm để những con vật sống tự nhiên hơn.
+Năm 1986, sở thú được chuyển đến Mộc Sách (Xinzhuang), không gian được mở rộng và tư duy cũng bắt đầu thay đổi. Với việc làm phong phú môi trường, huấn luyện hành vi và nhân giống bảo tồn, Sở thú Thành phố Đài Bắc bắt đầu cố gắng để động vật sống giống loài hơn.
 
-**Hiệu ứng Tròn Tròn** thay đổi mọi thứ. Năm 2013, thiên thần gấu trúc Tròn Tròn sinh ra, cả nước Đài Loan nghiện cuồng, hàng chụn ngàn người xông vào thú viện mỗi ngày. Nhưng ánh sáng thành công của Tròn Tròn cũng mang lại suy ngẫm: chúng ta yêu thương con vật hay yêu thương niềm vui mà nó mang lại?
+**Hiệu ứng Viên Tử** đã thay đổi tất cả. Năm 2013, chú gấu trúc lớn Viên Tử ra đời, khiến toàn đảo náo loạn, hàng vạn người đổ về sở thú mỗi ngày. Nhưng hào quang ngôi sao của Viên Tử cũng mang lại sự suy ngẫm: chúng ta yêu con vật hay chúng ta yêu sự giải trí mà chúng mang lại?
 
-Câu chuyện của Tròn Tròn và Tròn Tròn cũng phức tạp. Đây là hai chú gấu trúc do Trung Quốc tặng cho Đài Loan, mang theo ý nghĩa chính trị. Khi Tròn Tròn 2022 qua đời, người dân Đài Loan than khóc không chỉ cho một con thú, mà còn cho một thời kỳ lịch sử. Nhưng phía sau sự ấm áp, luôn hiện hữu một câu hỏi sắc bén: liệu việc dùng động vật như là công cụ ngoại giao có đúng không?
+Câu chuyện của Đoàn Đoàn (Tuan Tuan) còn phức tạp hơn. Đây là món quà ngoại giao do Trung Quốc tặng cho Đài Loan, mang ý nghĩa biểu tượng chính trị. Khi Đoàn Đoàn qua đời vào năm 2022, người dân Đài Loan đã thương tiếc một con vật, nhưng cũng là cả một đoạn lịch sử. Tuy nhiên, đằng sau sự ấm áp đó, luôn có một câu hỏi sắc bén: Việc coi động vật như một quân bài ngoại giao có hợp lý không?
 
-## Cuộc cách mạng "không có lò cài": Sự chuyển đổi của Thú viện Tân Trúc
+## Cuộc cách mạng "Không lồng": Sự chuyển đổi của Sở thú Tân Trúc
 
-Tháng 12 năm 2019, Thú viện Tân Trúc chính thức mở cửa sau khi được tái thiết kế, tuyên bố chính thức trở thành "thú viện không có lò cài". Cuộc cách mạng này cũng sâu sắc ở mức triết lý.[^1]
+Vào tháng 12 năm 2019, Sở thú Tân Trúc khai trương lại, tuyên bố mình là "sở thú không có lồng". Cuộc cải tạo này cũng sâu sắc ở cấp độ triết học. [^1]
 
-Hiệu trưởng Yang Jia-min nói thẳng thắn: "Động vật là cư dân, không phải hàng trưng bày." Tất cả các thiết kế đều xuất phát từ nhu cầu của động vật: hà mỗc có hồ nước sâu để lặn lội, bạch mã có bùn để tắm, hổ bengál có rừng để trốn tránh.
+Quan điểm của Giám đốc Dương Gia Dân (Yang Jiamin) là động vật không nên là công cụ giải trí. Mọi thiết kế đều xuất phát từ nhu cầu của động vật: hà mã có hồ nước sâu để bơi lội, tê giác mập có bùn để lăn lộn, hổ Bengal có rừng cây để trốn trú.
 
-Càng thách thức hơn, Thú viện Tân Trúc không còn đuổi theo sự đa dạng loài. Giảm bớt số lượng loài, tập trung vào việc trưng bày các loài địa phương một cách thân thiện, chỉ giữ lại những loài thực sự có thể sống tốt trong môi trường hiện tại. "Chúng tôi không phải là tàu Noah," Yang nói, "chúng tôi là ngôi nhà của động vật."
+Cái táo bạo hơn là Sở thú Tân Trúc không còn theo đuổi sự đa dạng loài. Họ tinh giản các loại loài, tập trung vào việc trưng bày thân thiện với động vật bản địa, chỉ giữ lại những cá thể thực sự sống tốt trong môi trường hiện có.
 
-Cuộc cách mạng này chưa hoàn hảo. Những người chỉ trích cho rằng không gian vẫn còn nhỏ quá, và những con vật vẫn bị giam cầm. Nhưng ý nghĩa của Thú viện Tân Trúc nằm ở chỗ nó chứng minh rằng Đài Loan có khả năng thoát khỏi khung cách tư duy truyền thống, tái tượng tượng lại mối quan hệ giữa con người và động vật.
+Sự chuyển đổi này chưa hoàn hảo. Những người chỉ trích nói rằng không gian vẫn còn quá nhỏ, và động vật vẫn bị giam cầm. Nhưng ý nghĩa của Sở thú Tân Trúc là nó đã chứng minh được Đài Loan có khả năng thoát ra khỏi khuôn khổ truyền thống để tái tưởng tượng mối quan hệ giữa con người và động vật.
 
-## Cơn bão Xpark: Bài kiểm tra đạo đức của những công viên nước đô thị
+## Cơn bão Xpark: Bài kiểm tra đạo đức của thủy cung đô thị
 
-Tháng 8 năm 2020, công viên nước đô thị mang phong cách Nhật Xpark khánh thành tại trung tâm thương mại cao cấp Hua Xin ở Taoyuan. Ánh sáng rực rỡ, thiết kế hiện đại, ngay từ ngày mở cửa đã gây ra tranh cãi về phúc lợi động vật. Nhưng phía sau vẻ đẹp lộng lẫy, ẩn giấu là lỗ hổng về phúc lợi động vật.
+Vào tháng 8 năm 2020, thủy cung đô thị mang phong cách Nhật Bản, Xpark, khai trương tại Trung tâm Thương mại Hoa Thái ở Cao Hùng. Với ánh sáng rực rỡ và thiết kế tiên tiến, sự kiện khai trương ngay lập tức gây ra cuộc thảo luận về phúc lợi động vật. Nhưng đằng sau vẻ đẹp đó là một lỗ đen về phúc lợi động vật.
 
-Chưa đầy một năm từ ngày mở cửa, vấn đề liên tục bùng phát:
+Chưa đầy một năm kể từ khi mở cửa, các vấn đề liên tiếp bùng phát:
 
-- **Cá heo bị thương tích**, nghi ngờ do va chạm do không gian quá hẹp
-- **Cá peng bèn hành vi bất thường**, bơi lộn trong không gian hẹp hòi
-- **Ánh sáng mạnh** ảnh hưởng tới đồng hồ sinh học của những con vật hoạt động vào ban đêm
-- **Tiếng ồn lớn**, những con vật biển chịu áp lực trong tiếng ồn của đám đông
+- **Cá đuối bị thương**, nghi ngờ do không gian quá nhỏ gây va chạm
+- **Hành vi của chim cánh cụt bất thường**, bơi lội lặp đi lặp lại trong không gian hẹp
+- **Ánh sáng mạnh** ảnh hưởng đến đồng hồ sinh học của các loài vật sống về đêm
+- **Tiếng ồn quá lớn**, động vật biển chịu áp lực giữa sự náo nhiệt của đám đông
 
-Cuộc điều tra sâu sắc của truyền thông Onewo đã thúc đẩy dư luận công cộng.[^2] Những người ủng hộ nói rằng Xpark mang lại giáo dục bảo tồn, những người chỉ trích hoài nghi rằng đây là "sự tàn bại động vật được đóng gói thành giải trí".
+Cuộc điều tra chuyên sâu của truyền thông Oa Oa (Wowa Media) đã châm ngòi cho cuộc thảo luận công chúng. [^2] Những người ủng hộ nói rằng Xpark mang lại giáo dục bảo tồn, trong khi những người chỉ trích nghi ngờ đây là "sự ngược đãi động vật được đóng gói thành giải trí".
 
-Cốt lõi của tranh cãi Xpark là câu hỏi: **Liệu mô hình thương mại của những công viên nước đô thị có thực sự phù hợp với phúc lợi động vật không?** Khi giá trị giải trí và phúc lợi động vật xung đột, chúng ta nên chọn phía nào?
+Trọng tâm của tranh cãi về Xpark nằm ở: **Mô hình kinh doanh của thủy cung đô thị bản thân có phù hợp với phúc lợi động vật không?** Khi giá trị giải trí xung đột với phúc lợi động vật, chúng ta nên chọn bên nào?
 
 Cuộc tranh luận này vẫn chưa kết thúc, nhưng nó đã thay đổi nhận thức của xã hội Đài Loan về động vật biểu diễn.
 
-## Sự biến mất của các vòng biểu diễn: Hoàng trùng của động vật biểu diễn
+## Rạp xiếc biến mất: Hoàng hôn của các màn trình diễn động vật
 
-Bạn còn nhớ những chú hổ nhảy lửa, những chú khỉ lái xe đơn xương, những con cá heo nhảy bóng không? Những hình ảnh này từng là những khung cảnh kinh điển của các vòng biểu diễn ở Đài Loan, giờ đây gần như biến mất hoàn toàn.
+Bạn còn nhớ những con hổ nhào lộn lửa, khỉ đi xe đạp một bánh, hay hải cẩu tung bóng không? Những cảnh tượng này từng là hình ảnh kinh điển của rạp xiếc Đài Loan, nhưng giờ gần như đã tuyệt chủng.
 
-Vào những năm 1990, các vòng biểu diễn Mulan và châu Á trải rộng khắp Đài Loan, và biểu diễn động vật là phần trình bày chính. Nhưng khi nhận thức về quyền lợi động vật ngày càng được quan tâm, những vòng biểu diễn này ngày càng bị đặt câu hỏi: quá trình huấn luyện có đầy đủ sự tàn bại không? Liệu những con vật thực sự "vui vẻ" khi biểu diễn?
+Vào những năm 1990, các đoàn xiếc Mộc Lan và Châu Á lưu diễn khắp Đài Loan, và biểu diễn động vật là tiết mục chính. Nhưng khi nhận thức về quyền động vật được nâng cao, những màn trình diễn này ngày càng bị chất vấn: Quá trình huấn luyện có tàn nhẫn không? Động vật có thực sự "vui vẻ" khi biểu diễn không?
 
-Điểm chuyển mình then chốt là năm 2017, khi sửa đổi "Luật bảo vệ động vật", tăng cường quy định cho động vật biểu diễn. Dù chưa có lệnh cấm hoàn toàn, nhưng thủ tục đơn đăng ký phức tạp và các tiêu chuẩn kiểm tra nghiêm ngặt đã khiến các vòng biểu diễn truyền thống khó có thể tiếp tục.
+Bước ngoặt quan trọng là việc sửa đổi 《Luật Bảo vệ Động vật》 vào năm 2018, tăng cường quy định đối với động vật biểu diễn. Mặc dù không cấm hoàn toàn, nhưng các thủ tục xin cấp phép phức tạp và tiêu chuẩn kiểm tra nghiêm ngặt đã khiến các rạp xiếc truyền thống khó lòng tiếp nối.
 
-Thay thế là sự xuất hiện của các vòng biểu diễn không có động vật. Các nhóm biểu diễn Mặt Trời và FOCA FOMOS dùng cơ thể và sáng tạo của con người thay thế cho các trò biểu diễn động vật. Người dân Đài Loan khám phá ra rằng, dù không có động vật, các vòng biểu diễn vẫn rất hấp dẫn.
+Thay thế chúng là các rạp xiếc không có động vật. Đoàn kịch Thái Dương (Taiyang Troupe), Rạp xiếc Formosa FOCA đã thay thế biểu diễn động vật bằng hình thể và sự sáng tạo của con người. Người dân Đài Loan nhận ra rằng rạp xiếc không có động vật cũng tuyệt vời như vậy.
 
-## Bài toán của công viên biển
+## Tình cảnh của công viên hải dương
 
-Các cơ sở trưng bày động vật biển ở Đài Loan đang đứng ở mặt nhánh lịch sử.
+Các cơ sở trình diễn biển tại Đài Loan đang đứng trước ngã ba đường lịch sử.
 
-Hiện nay, Đài Loan chỉ còn hai cơ sở cung cấp dịch vụ trưng bày cá voi và cá heo: Công viên biển xa Hoa ở Hualien (4 con cá heo và 1 con cá heo có vân) và Thế giới biển ở Bắc Bắc (10 con cá heo). Cả hai cơ sở đều có giấy phép hết hạn vào **năm 2026**. Cuộn đếm ngược "các vòng biểu diễn cá heo sẽ trở thành lịch sử" đã chính thức bắt đầu.
+Hiện chỉ còn hai đơn vị biểu diễn cá voi/cá heo ở Đài Loan: Công viên Hải dương Viễn Hùng (Hualien) (4 con cá heo mũi chai + 1 con cá heo hoa văn) và Thế giới Biển Dã Liễu Tân Bắc (New Taipei Wild Life Ocean World) (10 con cá heo mũi chai). Giấy phép biểu diễn của cả hai đơn vị sẽ **hết hạn vào năm 2026**. Đồng hồ đếm ngược "các màn trình diễn cá heo sắp trở thành lịch sử" đã bắt đầu.
 
-Tháng 7 năm 2024, Bộ Nông nghiệp công bố phiên bản mới của "Quy chế quản lý biểu diễn động vật", chính thức đưa việc trưng bày cá heo và cá voi vào quản lý.[^3] Cơ quan bảo vệ môi trường biển cũng thành lập "**Nhóm hỗ trợ chuyển đổi trưng bày cá heo và cá voi**", do các nhà nghiên cứu, tổ chức xã hội dân sự và chính quyền địa phương tham gia chung, với hướng đi rất rõ rện: dần dần loại bỏ các hoạt động trưng bày giải trí, chuyển đổi sang mô hình trưng bày giáo dục.
+Vào tháng 7 năm 2024, Bộ Nông nghiệp công bố 《Quy chế Quản lý Biểu diễn Động vật》 phiên bản mới, chính thức đưa việc biểu diễn cá voi/cá heo vào quản lý. Cơ quan Bảo vệ Môi trường Hải dương (Hai Bao) cũng thành lập "Nhóm Hỗ trợ Chuyển đổi Biểu diễn Cá voi/Cá heo", với sự tham gia của các học giả, tổ chức dân sự và chính quyền địa phương, định hướng cốt lõi rất rõ ràng: dần loại bỏ các màn trình diễn giải trí, chuyển sang mô hình trưng bày giáo dục.
 
-Phản hồi của Far East cũng là sự chuyển đổi thành "**Trung tâm bảo tồn cá heo**": không còn biểu diễn, nhưng cũng không thả vào biển tự do (những con cá heo đã được nuôi nhốt trong nhiều năm không thể quay lại biển), mà là sử dụng cách trưng bày giáo dục để giúp công chúng hiểu biết về cá heo. Phía quản lý cơ sở nhấn mạnh: "Cá heo sẽ không biến mất, công chúng vẫn có thể thấy chúng."
+Phản ứng của Viễn Hùng là chuyển đổi thành "Cơ sở Bảo trợ Cá heo": không còn biểu diễn, nhưng cũng không thả tự nhiên (những con cá heo đã được nuôi nhốt nhiều năm không thể trở về biển), mà sử dụng phương thức trưng bày giáo dục để công chúng nhận biết cá heo. Ban quản lý nhấn mạnh: "Cá heo sẽ không biến mất, người dân vẫn có thể nhìn thấy chúng."
 
-Nhưng phản ứng của Yehliu thì bùng nổ. Năm 2024, Thế giới biển Yehliu sinh ra **cá heo con** trong môi trường nuôi nhốt, trực tiếp va chạm với "sự chuyển đổi dần dần" đang được cộng đồng chấp nhận. Những người bảo vệ động vật đặt câu hỏi sắc bén: **Trong thời đại mà xã hội đã bắt đầu phản đối biểu diễn cá heo, liệu việc để cá heo sinh con trong hồ nước không đơn giản là để sinh ra thêm nhiều thế hệ cá heo phải sống trong lò cài không?**
+Nhưng bên Dã Liễu thì lại gây chuyện. Năm 2024, Thế giới Biển Dã Liễu đã **sinh ra những con cá heo nhỏ** trong môi trường nuôi nhốt, trực tiếp va chạm với sự đồng thuận xã hội về "dần rút lui". Những nghi vấn của các tổ chức bảo vệ động vật rất gay gắt: **Trong thời đại mà xã hội đã bắt đầu phản đối biểu diễn cá heo, việc tiếp tục để cá heo sinh con trong bể không phải là đang định sẵn cho nhiều cá thể phải sống trong lồng ngay từ khi chào đời sao?**
 
-Do ngày sinh của cá heo con đã vượt qua thời hạn cho phép sinh sản, Cơ quan bảo vệ môi trường biển áp dụng "Luật bảo vệ động vật hoang dã" để phạt Yehliu, nhưng khoản tiền phạt chỉ là **10.000 Nhân đồng**. Con số này chính là một sự vô lý: giá một sinh linh lên tới 10.000 đồng.
+Do ngày sinh của đàn con đã vượt quá thời hạn cấp phép sinh sản, Cơ quan Bảo vệ Môi trường Hải dương đã phạt Dã Liễu theo 《Luật Bảo tồn Động vật Hoang dã》, nhưng số tiền phạt chỉ là **mười nghìn Đài tệ**. Con số này tự nó đã là một sự phi lý: cái giá của một sinh mạng, mười nghìn.
 
-Trung tâm nghiên cứu xã hội động vật, Trần Tĩnh, trong nhóm chuyển đổi nói: "Chúng nên sống tự do trong biển, nhưng bị kéo lên bờ, và bây giờ con người cần nhìn thấy những con vật này, họ đã hy sinh điều gì để phục vụ cho con người?"
+Trâu Cẩm San (Zhou Jinshan), Phó Giám đốc Hiệp hội Quan tâm Sinh mệnh, đã nói trong nhóm chuyển đổi: "Chúng vốn dĩ nên sống trên biển, lại bị ép lên đất liền, thì con người làm sao hiểu được những cá thể nuôi nhốt này đã hy sinh như thế nào vì con người?"
 
-Cô cũng nhấn mạnh: "**Họ là những sinh linh sống động, không phải là dụng cụ giáo dục để con người quan sát.**"
+Bà ấy cũng nhấn mạnh: "**Chúng là những sinh mạng sống động, không phải dụng cụ để người ta chiêm ngưỡng.**"
 
-Sự rời khỏi các vòng biểu diễn cá heo đánh dấu thời khắc then chốt trong việc xã hội Đài Loan định nghĩa lại mối quan hệ giữa con người và động vật biển.
+Sự rút lui của màn trình diễn cá heo này đánh dấu một thời điểm then chốt trong việc xã hội Đài Loan định nghĩa lại "mối quan hệ giữa con người và động vật biển".
 
-## Pháp lý và thực tế: Những thách thức của quy chế quản lý biểu diễn động vật
+## Quy định và thực tế: Thách thức của Quy chế Quản lý Biểu diễn Động vật
 
-Năm 2017, "Quy chế quản lý biểu diễn động vật" ra mắt, Đài Loan lần đầu có luật pháp chuyên biệt quy định về động vật biểu diễn.[^4] Các quy định bao gồm:
+《Quy chế Quản lý Biểu diễn Động vật》 được ban hành vào năm 2016, lần đầu tiên Đài Loan có quy định chuyên biệt về động vật biểu diễn. [^4] Các quy định bao gồm:
 
-- Cơ sở trưng bày cần giấy phép
+- Địa điểm biểu diễn cần giấy phép
 - Môi trường nuôi dưỡng động vật phải đạt tiêu chuẩn tối thiểu
-- Phải bố trí bác sĩ thú y chuyên nghiệp
-- Định kỳ kiểm tra phúc lợi động vật
+- Cần bố trí bác sĩ thú y chuyên nghiệp
+- Định kỳ được kiểm tra phúc lợi động vật
 
-Nhưng thực thi pháp luật đang đối mặt với thách thức thực tế. Toàn quốc chỉ có dưới 20 người kiểm tra phúc lợi động vật, để giám sát hàng trăm cơ sở trưng bày. Tần suất kiểm tra thấp, thiếu nhân lực chuyên môn, hình phạt nhẹ nhàng, khiến cho những quy định này chỉ còn là những lời hứa trên giấy.
+Nhưng việc thực thi pháp luật đối mặt với những thách thức thực tế. Toàn đảo chỉ có chưa đến 20 thanh tra viên phúc lợi động vật, để giám sát hàng trăm địa điểm biểu diễn. Tần suất kiểm tra thấp, nhân sự chuyên môn không đủ, hình phạt còn nhẹ, khiến quy định trở thành chuyện trên giấy tờ.
 
-Vấn đề cốt lõi hơn là: quy định hiện hành vẫn dựa trên "quản lý" chứ không phải "quyền lợi của động vật". Động vật trong pháp luật vẫn là "tài sản", không phải là chủ thể có quyền lợi. Cho đến khi vị thế này thay đổi, bất kể bao nhiêu quy định nghiêm ngặt cũng chỉ là điều trị triệu chứng chứ không phải giải pháp căn bản.
+Vấn đề căn bản hơn là: các quy định hiện hành vẫn lấy "quản lý" làm xuất phát điểm, chứ không phải "quyền động vật". Động vật trong pháp luật vẫn là "vật thể", chứ không phải chủ thể có quyền. Định vị này không thay đổi, dù quy chế quản lý có nghiêm ngặt đến đâu cũng chỉ là chữa bệnh bề mặt mà không giải quyết tận gốc.
 
-## Thách thức mới trong thời đại mạng xã hội
+## Thách thức mới của thời đại mạng xã hội
 
-Instagram và TikTok đã thay đổi sinh thái của động vật biểu diễn. Các quán cà phê thú cưng, nhà hàng có động vật, trải nghiệm tiếp xúc với cá heo — những hoạt động "nhẹ nhàng" này đã trở thành mật mã thu hút lưu lượng truy cập của mạng xã hội.
+Instagram và TikTok đã thay đổi hệ sinh thái biểu diễn động vật. Các hoạt động tiếp xúc với động vật "nhẹ nhàng" như quán cà phê thú cưng, nhà hàng động vật, trải nghiệm tương tác với chuột lang nước (capybara) đã trở thành mã lưu lượng truy cập trên mạng xã hội.
 
-**Sự cố nhà hàng thú cưng ở Bắc Bắc** là tiếng chuông cảnh báo mới nhất. Vào cuối năm 2025, một nhà hàng tự hào dịch vụ "tương tác với thỏ" bị phanh phui, trong vòng vài tháng, 6 con thỏ chết và 5 con bệnh.[^5] Nguyên nhân là do sự tiếp xúc quá mức từ con người, môi trường nuôi dưỡng không phù hợp, và việc bỏ qua nhu cầu của động vật để "để cho hình ảnh chụp đẹp".
+**Sự cố nhà hàng thú cưng Bát Lý** là hồi chuông cảnh tỉnh mới nhất. Đầu năm 2026, cơ quan bảo vệ động vật của Tân Bắc đã kiểm tra một nhà hàng ở Bát Lý lấy việc tương tác với thỏ làm điểm bán hàng và phát hiện số lượng lớn thỏ chết, nhiều con bị nhiễm bệnh ghẻ, nguyên nhân cái chết là do nuôi dưỡng không đúng cách trong thời gian dài, suy dinh dưỡng, và bệnh tật không được chữa trị. [^5]
 
-Thuật toán của mạng xã hội thiên về sự "dễ thương" và "thú vị", khiến cho động vật trở thành hàng hóa thu hút lưu lượng. Một đoạn video về cá heo tắm nước nóng có thể nhận được hàng triệu lượt xem, nhưng không ai quan tâm đến việc liệu chúng có thích nghi với khí hậu của Đài Loan không.
+Thuật toán của mạng xã hội ưu tiên sự "dễ thương" và "vui nhộn", khiến động vật trở thành hàng hóa lưu lượng truy cập. Một video về chuột lang nước tắm suối nước nóng có thể đạt hàng triệu lượt xem, nhưng không ai quan tâm liệu chúng có thích nghi được với khí hậu Đài Loan hay không.
 
-Những "động vật biểu diễn nhỏ" này lan rộng khắp Đài Loan, nhưng vẫn hoạt động ở rìa pháp lý. Chúng không có sự giám sát chặt chẽ như công viên thú, cũng không cần giấy phép như các vòng biểu diễn, nhưng vẫn đang đối mặt với vấn đề về phúc lợi động vật.
+Những "động vật biểu diễn thu nhỏ" này rải rác khắp Đài Loan, nhưng lại hoạt động ở vùng xám của pháp luật. Chúng không giống như sở thú có sự giám sát nghiêm ngặt, cũng không giống như rạp xiếc cần giấy phép, nhưng chúng vẫn đối mặt với các vấn đề phúc lợi động vật.
 
-## Dải phổ đạo đức động vật của xã hội Đài Loan
+## Phổ sở thú trong xã hội Đài Loan
 
-Quan điểm của xã hội Đài Loan về công viên thú không bao giờ là đồng nhất. Những người ở các thế hệ và nền giáo dục khác nhau đứng ở những vị trí hoàn toàn khác nhau.
+Đánh giá của xã hội Đài Loan về sở thú chưa bao giờ đồng nhất; những người thuộc các thế hệ và nền tảng giáo dục khác nhau đứng ở những vị trí hoàn toàn khác biệt.
 
-Quan điểm của Đài Loan về "liệu công viên thú nên tồn tại hay không" cho thấy rõ sự chênh lệch giữa các thế hệ và giá trị:
+Thái độ của Đài Loan đối với câu hỏi "sở thú có nên tồn tại không" thể hiện sự khác biệt rõ rệt về thế hệ và giá trị:
 
-**Phe ủng hộ truyền thống** tin rằng công viên thú có chức năng giáo dục, giúp trẻ em đô thị biết được động vật trông như thế nào, nuôi dưỡng nhận thức bảo tồn. "Nếu không đến công viên thú, con tôi sẽ không bao giờ biết voi trông như thế nào?"
+**Phe ủng hộ truyền thống** cho rằng sở thú có chức năng giáo dục, giúp trẻ em thành thị nhận biết động vật và nuôi dưỡng ý thức bảo tồn. "Nếu không đến sở thú, con tôi làm sao biết voi trông như thế nào?"
 
-**Phe bảo tồn hiện đại** ủng hộ công viên thú đã được cải cách, nhấn mạnh nhân giống bảo tồn, phục hồi hoang dã, giáo dục môi trường. Công viên thú nên là "trung tâm nhận nghỉ", không phải nơi giải trí.
+**Phe bảo tồn hiện đại** ủng hộ các sở thú đã cải cách, nhấn mạnh việc nhân giống bảo tồn, tái thả tự nhiên và giáo dục môi trường. Sở thú nên là "trung tâm cứu hộ động vật", chứ không phải nơi giải trí.
 
-**Phe bảo vệ động vật** kiên định loại bỏ mọi hình thức giam cầm động vật, tin rằng bất kể môi trường nào cũng không thể thay thế cho sự tự do. "Động vật có quyền lựa chọn không? Liệu chúng đồng ý được trưng bày?"
+**Phe quyền động vật** chủ trương bãi bỏ mọi hình thức giam cầm động vật, cho rằng dù môi trường có tốt đến đâu cũng không thể thay thế được sự tự do. "Động vật có quyền lựa chọn không? Chúng có đồng ý bị trưng bày không?"
 
-**Phe thực dụng** chấp nhận những hạn chế thực tế, ủng hộ cải cách từng bước. "Lý tưởng hoàn hảo thật đẹp, nhưng những con vật đang sống cần được cải thiện ngay lập tức."
+**Phe thực dụng** thừa nhận những hạn chế của thực tế, ủng hộ cải cách dần dần. "Lý tưởng hoàn hảo rất đẹp, nhưng động vật trong thực tế cần sự cải thiện ngay lập tức."
 
-Dải phổ này không có đúng sai, nhưng phản ánh sự suy ngẫm sâu sắc của xã hội Đài Loan về mối quan hệ giữa con người và động vật.
+Phổ này không có đúng hay sai, nhưng nó phản ánh sự suy ngẫm sâu sắc của xã hội Đài Loan về mối quan hệ giữa con người và động vật.
 
-## Những điều đáng ngạc nhiên
+## Sự thật đáng kinh ngạc
 
-Từ năm 1914 đến nay, Thú viện Đài Bắc đã vượt qua **hơn 110 năm**, là một trong những công viên thú lâu đời nhất ở châu Á. Cách tiếp cận của Thú viện Tân Trúc với việc giảm số lượng loài và tập trung vào trưng bày các loài địa phương một cách thân thiện, ở khu vực công viên thú châu Á gần như chưa có tiền lệ nào tương tự. Các vòng biểu diễn truyền thống với động vật ở Đài Loan gần như biến mất hoàn toàn vào những năm 2010, bị thay thế bởi các vòng biểu diễn không có động vật.
+Sở thú Thành phố Đài Bắc đã tồn tại hơn **110 năm** kể từ khi thành lập vào năm 1914, là một trong những sở thú lâu đời nhất châu Á. Cách tiếp cận của Sở thú Tân Trúc trong việc tinh giản các loại loài và tập trung vào trưng bày thân thiện với động vật bản địa gần như chưa có tiền lệ trong giới sở thú châu Á. Các màn trình diễn động vật truyền thống của Đài Loan hầu như đã biến mất sau những năm 2010, được thay thế bằng rạp xiếc không có động vật.
 
-Đài Loan chỉ còn hai cơ sở cung cấp dịch vụ trưng bày cá heo và cá voi, và giấy phép của cả hai sẽ hết hạn vào **năm 2026**. Sự cố sinh sản vi phạm của Yehliu năm 2024, chỉ bị phạt 10.000 đồng — con số này chính là một sự vô lý. Dù "Quy chế quản lý biểu diễn động vật" đã được ban hành từ năm 2017, nhưng nguồn nhân lực thực thi nghiệp vẫn thiếu hụt nặng nề, số lượng người kiểm tra phúc lợi động vật trong cả nước chỉ có thể đếm bằng ngón tay.
+Chỉ còn hai đơn vị biểu diễn cá voi/cá heo ở Đài Loan, và giấy phép biểu diễn đều **sẽ hết hạn vào năm 2026**. Việc Dã Liễu vi phạm quy định sinh sản cá heo nhỏ vào năm 2024 với mức phạt chỉ mười nghìn—con số này tự nó đã là một sự phi lý. 《Quy chế Quản lý Biểu diễn Động vật》 được ban hành năm 2016, nhưng nhân lực thực thi còn rất thiếu thốn, thanh tra viên phúc lợi động vật trên toàn đảo đếm trên đầu ngón tay.
 
-- 🐰 Sự cố nhà hàng thú cưng ở Bắc Bắc vào cuối năm 2025: **6 chết 5 bệnh**, phơi bày khoảng trống pháp lý của "động vật biểu diễn nhỏ"
-- 📱 Những nội dung tương tác động vật phổ biến nhất trên mạng xã hội thường cũng là những nơi **rủi ro về phúc lợi động vật cao nhất**
-- 🌏 Đài Loan là một trong những khu vực hiếm hoi có luật pháp chuyên biệt về động vật biểu diễn, nhưng pháp luật vẫn xếp động vật như "tài sản" thay vì "chủ thể có quyền lợi"
+- 🐰 Sự cố nhà hàng thỏ Bát Lý đầu năm 2026: Thỏ **chết số lượng lớn**, phơi bày khoảng trống pháp lý của "biểu diễn thu nhỏ"
+- 📱 Nội dung tương tác động vật phổ biến nhất trên mạng xã hội, thường là bối cảnh có **rủi ro phúc lợi động vật cao nhất**
+- 🌏 Đài Loan là một trong số ít khu vực châu Á có quy định chuyên biệt về động vật biểu diễn, nhưng pháp luật vẫn coi động vật là "vật thể" chứ không phải chủ thể có quyền
 
-Dù pháp lý về động vật biểu diễn ở Đài Loan đã tiên phong ở châu Á, nhưng giữa thiết kế pháp lý và thực thi thực tế vẫn còn nhiều khoảng cách đáng kể.
+Mặc dù các quy định về động vật biểu diễn của Đài Loan được xem là tiên tiến ở châu Á, nhưng vẫn còn sự chênh lệch đáng kể giữa thiết kế hệ thống và thực thi trên thực tế.
 
 ## Tương lai: Định nghĩa lại mối quan hệ giữa con người và động vật
 
-Sự biến đổi của công viên thú ở Đài Loan thực sự phản ánh cả bản chất tiến bộ đạo đức của toàn xã hội. Chúng ta đang bắt đầu hiểu rằng động vật có nhu cầu và quyền lợi riêng, và cần được tôn trọng.
+Sự tiến hóa của sở thú Đài Loan thực chất là một lát cắt về sự tiến bộ đạo đức của toàn xã hội. Chúng ta bắt đầu hiểu rằng động vật có nhu cầu và quyền lợi riêng, và cần được tôn trọng.
 
-**Trong thập kỷ tới, Đài Loan có thể sẽ thấy:**
+**Trong thập kỷ tới, Đài Loan có thể chứng kiến:**
 
-Nhiều công viên thú có thể chuyển đổi thành trung tâm bảo tồn hoặc trung tâm nhận nghỉ hoang dã, và "giải phóng hoá hoang dã" có thể trở thành một trong những nhiệm vụ cốt lõi của công viên thú. Công nghệ thực tế ảo có thể thay thế một phần cho việc trưng bày động vật thực, giúp giáo dục môi trường không cò phụ thuộc vào cơ thể của động vật. Đồng thời, các nền tảng mạng xã hội và cơ quan quản lý cũng phải đối mặt với áp lực hỏi có nên hạn chế nội dung động vật biểu diễn hay không.
+Nhiều sở thú có thể chuyển đổi thành trung tâm bảo tồn hoặc trại cứu hộ động vật hoang dã; "tái thả tự nhiên" có thể trở thành một trong những nhiệm vụ cốt lõi của sở thú. Công nghệ thực tế ảo (VR) có thể thay thế một phần trưng bày động vật vật lý, giúp giáo dục bảo tồn không còn phụ thuộc vào việc trình diễn cơ thể động vật. Đồng thời, các nền tảng mạng xã hội và cơ quan quản lý đều phải đối mặt với áp lực về việc giới hạn nội dung biểu diễn động vật.
 
-Nhưng quan trọng nhất, sự thay đổi có lẽ là ở mức nhận thức: từ "động vật phục vụ con người" chuyển sang "con người và động vật cùng tồn tại".
+Nhưng thay đổi quan trọng nhất có lẽ là sự thay đổi trong nhận thức: từ "động vật phục vụ con người" chuyển sang "con người chung sống với động vật".
 
-Hành trình còn dài. Mỗi lựa chọn (đến công viên thú nào, ủng hộ vòng biểu diễn nào, nhấn nút thích hoặc báo cáo trên mạng xã hội) đều là một cuộc bầu chọn cho phúc lợi động vật của Đài Loan.
+Con đường này còn rất dài. Mỗi lựa chọn (đi sở thú nào, ủng hộ loại hình biểu diễn nào, nhấn thích hay báo cáo trên mạng xã hội) đều là một lá phiếu cho phúc lợi động vật của Đài Loan.
 
-**Tương lai của công viên thú, chính là sự lựa chọn của chúng ta.**
+**Tương lai của sở thú chính là sự lựa chọn của chúng ta.**
 
-[^1]: Thú viện Tân Trúc, 〈Triết lý cải tạo công viên thú〉, https://zoo.hccg.gov.tw/
+[^1]: Sở thú Thành phố Tân Trúc, 〈Ý tưởng cải tạo sở thú〉, https://zoo.hccg.gov.tw/
 
-[^2]: Onewo truyền thông, 〈Cuộc điều tra sâu về tranh cãi phúc lợi động vật sau khi Xpark khánh thành〉, https://wuo-wuo.com/
+[^2]: Truyền thông Oa Oa (Wowa Media), 〈Điều tra chuyên sâu về tranh cãi phúc lợi động vật sau khi Xpark khai trương〉, https://wuo-wuo.com/
 
-[^3]: Bộ Nông nghiệp, 〈Thông báo sửa đổi quy chế quản lý biểu diễn động vật〉（Tháng 7 năm 2024）, https://www.moa.gov.tw/
+[^3]: Bộ Nông nghiệp, 〈Thông báo sửa đổi Quy chế Quản lý Biểu diễn Động vật〉 (Tháng 7 năm 2024), https://www.moa.gov.tw/
 
-[^4]: Mạng lưới thông tin bảo vệ động vật của Bộ Nông nghiệp, 〈Quy chế quản lý biểu diễn động vật〉, https://animal.moa.gov.tw/
+[^4]: [Cơ sở dữ liệu pháp luật toàn quốc: Quy chế Quản lý Biểu diễn Động vật](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCODE=M0060090) — Toàn văn và lịch sử quy định, được ban hành ngày 5 tháng 2 năm 2016, sửa đổi hoàn chỉnh ngày 29 tháng 7 năm 2024.
 
-[^5]: Hội nghiên cứu xã hội động vật Đài Loan, 〈Tình trạng quản lý của động vật biểu diễn nhỏ〉, https://www.east.org.tw/
+[^5]: [Nhà hàng thỏ Bát Lý biểu diễn trái phép gây chết số lượng lớn Động vật bảo vệ: Phạt tối đa 25 vạn và chuyển hồ sơ điều tra](https://udn.com/news/story/124490/9367910) — Báo Liên hợp, báo cáo ngày 9 tháng 3 năm 2026, kết quả kiểm tra của cơ quan bảo vệ động vật Tân Bắc vào tháng 1.
 
 ---
 
-**Tài liệu mở rộng**
+**Đọc thêm**
 
-- [Tranh cãi về thuốc cho động vật ở Đài Loan](/vi/society/taiwan-animal-drug-controversy) — Từ những tranh cãi đạo đức về động vật biểu diễn cho đến khoảng trống pháp lý về thuốc cho thú cưng, tất cả đều là những mặt khác nhau của một vấn đề: pháp luật của Đài Loan vẫn chưa học cách nhìn nhận những sinh linh "không phải con người cũng không phải tài sản"
+- [Tranh cãi về thuốc thú y ở Đài Loan](/vi/society/taiwan-animal-drug-controversy) — Từ tranh cãi đạo đức về động vật biểu diễn đến lỗ hổng pháp lý trong việc sử dụng thuốc cho thú cưng, tất cả đều là các khía cạnh khác nhau của cùng một vấn đề: luật pháp Đài Loan vẫn chưa học được cách nhìn nhận những sinh mạng "không phải người cũng không phải tài sản" này.
 
 ---
 
 ## Tài liệu tham khảo
 
-- [Onewo truyền thông](https://wuo-wuo.com/) - Truyền thông độc lập quan trọng nhất về các vấn đề động vật ở Đài Loan
-- [Hội nghiên cứu xã hội động vật Đài Loan](https://www.east.org.tw/) — Tổ chức đề xuất lâu năm về các vấn đề động vật biểu diễn
-- [Tư duy đương đại về động vật](https://www.animalcontemporary.org/) — Nền tảng thảo luận về quyền lợi động vật đa lĩnh vực
-- [Thú viện Tân Trúc](https://zoo.hccg.gov.tw/) — Thực hành "thú viện không có lò cài"
-- [Thú viện Đài Bắc](https://www.zoo.gov.taipei/) — Công viên thú lâu đời nhất ở Đài Loan
+- [Truyền thông Oa Oa (Wowa Media)](https://wuo-wuo.com/) - Truyền thông độc lập quan trọng nhất về các vấn đề động vật ở Đài Loan
+- [Hiệp hội Nghiên cứu Xã hội Động vật Đài Loan](https://www.east.org.tw/) — Tổ chức vận động lâu năm về các vấn đề động vật biểu diễn
+- [Sở thú Thành phố Tân Trúc](https://zoo.hccg.gov.tw/) — Thực hành "sở thú không có lồng"
+- [Sở thú Thành phố Đài Bắc](https://www.zoo.gov.taipei/) — Sở thú lâu đời nhất lịch sử Đài Loan

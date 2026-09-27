@@ -1,91 +1,94 @@
 ---
-title: 'Vấn đề ký hiệu của Đài Loan trong các tiêu chuẩn quốc tế'
-description: 'Từ mã ISO đến phần mềm mã nguồn mở — tên gọi của Đài Loan được viết, tranh luận và sửa chữa như thế nào trong cơ sở hạ tầng số toàn cầu'
+title: 'Vấn đề định danh Đài Loan trong các tiêu chuẩn quốc tế'
+description: 'Từ mã ISO đến phần mềm nguồn mở — Tên của Đài Loan được ghi chép, tranh cãi và chỉnh sửa như thế nào trong cơ sở hạ tầng kỹ thuật số toàn cầu'
 date: 2026-03-18
 category: 'Society'
 tags:
   [
     'ISO 3166',
     'Tiêu chuẩn quốc tế',
-    'Phần mềm mã nguồn mở',
+    'Phần mềm nguồn mở',
     'g0v',
     'Chủ quyền số',
-    'Ký hiệu Đài Loan',
+    'Định danh Đài Loan',
   ]
-subcategory: 'Quan hệ quốc tế'
+subcategory: '國際關係'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Society/台灣在國際標準中的標示問題.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:5aa5d3ad7e4d012f'
-translatedAt: '2026-09-10T02:39:58.042430+00:00'
+sourceCommitSha: 'd7b843fbf'
+sourceContentHash: 'sha256:c6d4e2074d20efa4'
+sourceBodyHash: 'sha256:234ae4c6ee15c7e0'
+translatedAt: '2026-09-26T19:13:15+08:00'
 ---
 
-# Vấn đề ký hiệu của Đài Loan trong các tiêu chuẩn quốc tế
+# Vấn đề định danh Đài Loan trong các tiêu chuẩn quốc tế
 
-> **Tóm tắt 30 giây:** Trong cơ sở hạ tầng số toàn cầu, Đài Loan thường được ký hiệu là 「Taiwan, Province of China」. Ký hiệu này xuất phát từ bối cảnh chính trị quốc tế sau Nghị quyết số 2758 của Đại hội đồng Liên hợp quốc năm 1971, ảnh hưởng đến các tiêu chuẩn quốc tế như ISO 3166, và lan rộng đến phần mềm mã nguồn mở và dịch vụ mạng toàn cầu. Cộng đồng mã nguồn mở liên tục đẩy mạnh việc ký hiệu trung lập hơn thông qua các bug report và pull request.
+> **Tóm tắt 30 giây:** Trong cơ sở hạ tầng kỹ thuật số toàn cầu, Đài Loan thường bị gắn nhãn là "Taiwan, Province of China". Nhãn hiệu này bắt nguồn từ bối cảnh chính trị quốc tế sau Nghị quyết 2758 của Đại hội đồng Liên Hợp Quốc năm 1971, ảnh hưởng đến các tiêu chuẩn quốc tế như ISO 3166 và lan rộng sang phần mềm nguồn mở cùng dịch vụ mạng toàn cầu. Cộng đồng nguồn mở liên tục thúc đẩy một phương thức định danh trung lập hơn thông qua báo cáo lỗi (bug report) và yêu cầu kéo (pull request).
 
-Trong cơ sở hạ tầng số toàn cầu, cách ký hiệu Đài Loan phản ánh sự phân歧 chính trị quốc tế kéo dài nửa thế kỷ. Từ ISO 3166 đến giao diện chọn máy chủ phản chiếu của Ubuntu, đằng sau một chi tiết kỹ thuật là những tranh chấp chưa kết thúc về việc xác định danh tính của Đài Loan trong thể hệ quốc tế.
+Cách thức định danh Đài Loan trong cơ sở hạ tầng kỹ thuật số phản ánh sự khác biệt chính trị quốc tế kéo dài nửa thế kỷ. Đằng sau chi tiết kỹ thuật từ ISO 3166 đến giao diện lựa chọn máy chủ gương của Ubuntu là cuộc tranh cãi chưa được giải quyết về bản sắc của Đài Loan trong hệ thống quốc tế.
 
-## Bối cảnh lịch sử: Từ Nghị quyết 2758 của LHQ đến ISO 3166
+## Bối cảnh lịch sử: UN 2758 và ISO 3166
 
-Năm 1971, Nghị quyết số 2758 của Đại hội đồng Liên hợp quốc được thông qua, quyết định «ghế ngồi của Trung Quốc tại Liên hợp quốc» do Cộng hòa Nhân dân Trung Hoa đại diện, Trung Hoa Dân Quốc (Đài Loan) do đó mất đi ghế ngồi tại Liên hợp quốc. Quyết nghị này ban đầu chỉ liên quan đến ghế đại diện tại Liên hợp quốc, nhưng sau đó được trích dẫn rộng rãi làm cơ sở để Đài Loan bị loại trừ hoặc được ký hiệu theo cách cụ thể trong các tổ chức quốc tế và cơ quan thiết lập tiêu chuẩn đa dạng.[^1]
+Năm 1971, Nghị quyết 2758 của Đại hội đồng Liên Hợp Quốc đã được thông qua, quy định rằng ghế đại diện của Trung Quốc tại Liên Hợp Quốc thuộc về Cộng hòa Nhân dân Trung Hoa, dẫn đến việc Trung Hoa Dân Quốc mất ghế tại Liên Hợp Quốc. Mặc dù nghị quyết này ban đầu chỉ liên quan đến ghế đại diện của Liên Hợp Quốc, nó sau đó đã được viện dẫn rộng rãi làm cơ sở để Đài Loan bị loại trừ hoặc được định danh theo một cách thức nhất định trong các tổ chức và cơ quan xây dựng tiêu chuẩn quốc tế. [^1]
 
-Năm 1974, tên mục của Đài Loan trong tiêu chuẩn quốc tế ISO 3166 được thay đổi từ «Taiwan» thành «Taiwan, Province of China», chính thức xác lập cách ký hiệu được duy trì đến nay. ISO 3166-1 đồng thời cấp cho Đài Loan mã hai chữ cái `TW`, nhưng tranh chấp về tên chính thức từ đó vẫn chưa được giải quyết.
+Vào tháng 12 năm 1974, ISO 3166 lần đầu tiên công bố, tên mục của Đài Loan kể từ đó là "Taiwan, Province of China" và vẫn được duy trì đến nay. ISO 3166-1 đồng thời cấp cho Đài Loan mã hai chữ cái `TW`, nhưng cuộc tranh cãi về tên gọi chính thức đã tiếp diễn không có hồi kết.
 
-Lập trường của ISO là tuân theo cơ sở dữ liệu địa danh của Văn phòng Thống kê Liên hợp quốc (UNSD), cơ sở này lại lấy nguyên tắc từ bối cảnh chính trị sau Nghị quyết 2758 của LHQ. Điều này hình thành một hệ thống phụ thuộc lẫn nhau: tiêu chuẩn quốc tế trích dẫn dữ liệu Liên hợp quốc, phần mềm mã nguồn mở trích dẫn tiêu chuẩn quốc tế, cuối cùng «Taiwan, Province of China» xuất hiện trong menu thả xuống của các nhà phát triển trên toàn cầu.[^2]
+Lập trường của ISO tuân theo cơ sở dữ liệu địa danh của Văn phòng Thống kê Liên Hợp Quốc (UNSD), mà cơ sở dữ liệu này lại truy ngược về bối cảnh chính trị sau UN 2758. Điều này tạo thành một hệ thống phụ thuộc lẫn nhau: các tiêu chuẩn quốc tế tham chiếu tài liệu của Liên Hợp Quốc, phần mềm nguồn mở tham chiếu các tiêu chuẩn quốc tế, và cuối cùng "Taiwan, Province of China" xuất hiện trong danh sách thả xuống của các nhà phát triển toàn cầu. [^2]
 
-## Hành động chỉnh sửa của cộng đồng phần mềm mã nguồn mở
+## Hành động chỉnh sửa của cộng đồng phần mềm nguồn mở
 
-Bug #1138121 của Ubuntu (được báo cáo năm 2013) là một trong những trường hợp được trích dẫn nhiều nhất. Khi người dùng Đài Loan chọn trang gương (mirror) nguồn phần mềm, thấy dòng «Taiwan, Province of China» xuất hiện trên giao diện, nhiều người cảm thấy băn khoăn. Người báo cáo đề xuất áp dụng trường _common name_ trong ISO 3166, tức là đơn giản là «Taiwan», thay vì tên chính thức đầy đủ.
+Bug #1138121 của Ubuntu (báo cáo năm 2013) là một trong những trường hợp được trích dẫn rộng rãi nhất. Khi người dùng Đài Loan thấy "Taiwan, Province of China" xuất hiện trên giao diện khi chọn máy chủ gương cho phần mềm, nhiều người cảm thấy bối rối. Người báo cáo đã đề nghị sử dụng cột tên chung (common name) trong ISO 3166, tức là chỉ đơn thuần là "Taiwan", thay vì tên chính thức đầy đủ.
 
-Vấn đề tương tự lặp lại trong các dự án mã nguồn mở khác. Issue #43 của ISO-3166-Countries-with-Regional-Codes, PR 138672 của FreeBSD, Issue #1938892 của Drupal đều ghi nhận sự phản đối của cộng đồng đối với cách biểu diễn này. Giải pháp thường được áp dụng là chuyển sang dùng dữ liệu CLDR (Unicode Common Locale Data Repository), nơi cách biểu diễn đối với Đài Loan mang tính trung lập hơn.[^3]
+Các vấn đề tương tự cũng tái diễn trong các dự án nguồn mở khác. Issue #43 của ISO-3166-Countries-with-Regional-Codes, PR 138672 của FreeBSD và Issue #1938892 của Drupal đều ghi nhận sự phản đối của cộng đồng đối với nhãn hiệu này. Giải pháp thường là chuyển sang sử dụng dữ liệu CLDR (Kho lưu trữ Ngôn ngữ Chung Unicode), trong đó định danh cho Đài Loan mang tính trung lập hơn. [^3]
 
-Hành động chỉnh sửa của cộng đồng mã nguồn mở phản ánh giao điểm giữa kỹ thuật và chính trị: các nhà phát triển thường mong muốn dùng biểu diễn trung lập hơn, nhưng bị ràng buộc bởi cân nhắc «tuân thủ tiêu chuẩn quốc tế», việc sửa đổi thường kéo dài qua nhiều vòng thảo luận của cộng đồng, một số người bảo trì cũng chọn cách tránh né vấn đề này. Thành viên g0v chewei đã lâu dài tổng hợp các trường hợp liên quan, ghi lại độ rộng của vấn đề biểu diễn Đài Loan trong hệ sinh thái phần mềm toàn cầu.
+Hành động chỉnh sửa của cộng đồng nguồn mở phản ánh sự giao thoa giữa kỹ thuật và chính trị: các nhà phát triển thường mong muốn áp dụng một nhãn hiệu trung lập hơn, nhưng bị giới hạn bởi mối quan tâm "tuân thủ tiêu chuẩn quốc tế", khiến việc sửa đổi đòi hỏi quá trình thảo luận cộng đồng kéo dài; một số người bảo trì cũng chọn né tránh vấn đề này. Các thành viên cộng đồng g0v (g0v) đã lâu nay tổng hợp các trường hợp liên quan, ghi lại phạm vi của vấn đề định danh Đài Loan trong hệ sinh thái phần mềm toàn cầu.
 
-## Mở rộng hơn về tác động của việc đặt tên
+## Ảnh hưởng rộng hơn về tên gọi
 
-Trong các trường hợp chính thức của các tổ chức quốc tế, vấn đề đặt tên cho Đài Loan có phạm vi rộng hơn. Tại Đại hội Y tế Thế giới (WHA), Đài Loan từng được mời tham dự với tư cách quan sát viên dưới danh tính "Chinese Taipei" (Đài Bắc Trung Hoa), thời gian từ 2009 đến 2016 (tổng cộng 8屆); kể từ 2017, Trung Quốc phản đối Đài Loan tiếp tục tham dự, thư mời do đó bị ngắt quãng, Đài Loan không còn nhận được thư mời chính thức nào nữa.[^6] Tại Tổ chức Hàng không Dân dụng Quốc tế (ICAO), Đài Loan cũng không thể tham gia ra quyết định với tư cách thành viên chính thức, lâu dài phải phụ thuộc vào các kênh phi chính thức để lấy thông tin tiêu chuẩn kỹ thuật hàng không, hình thành khoảng trống tiềm ẩn trong luân chuyển thông tin an toàn hàng không. Tại Thế vận hội Olympic, Đài Loan từ năm 1981 tham dự dưới danh nghĩa "Chinese Taipei" (Đài Bắc Trung Hoa) — tên gọi này xuất phát từ Hiệp định Lausanne năm 1981 giữa Ủy ban Olympic Quốc tế (IOC) và Hội Olympic Trung Hoa. Giải pháp thỏa hiệp này cũng được nhiều tổ chức quốc tế phi chính phủ tiếp tục áp dụng, và mở rộng ra các diễn đàn như APEC.
+Trong các sự kiện chính thức của tổ chức quốc tế, vấn đề đặt tên của Đài Loan còn rộng lớn hơn. Tại Đại hội Y tế Thế giới (WHA), Đài Loan từng được mời tham dự với tư cách quan sát viên dưới danh nghĩa "Chinese Taipei" trong khoảng thời gian từ năm 2009 đến năm 2016 (tổng cộng tám kỳ); kể từ năm 2017, Trung Quốc phản đối việc Đài Loan tiếp tục tham dự, và thư mời đã bị cắt đứt, Đài Loan chưa bao giờ nhận được lời mời chính thức nào sau đó. [^6] Tại Tổ chức Hàng không Dân dụng Quốc tế (ICAO), Đài Loan cũng không thể tham gia quyết định với tư cách thành viên chính thức, mà phải phụ thuộc vào các kênh không chính thức để lấy thông tin tiêu chuẩn hàng không, tạo ra một lỗ hổng tiềm tàng trong việc lưu chuyển thông tin an toàn hàng không. Tại Thế vận hội Olympic, Đài Loan đã tham gia kể từ năm 1981 với tên gọi "Chinese Taipei" (Trung Hoa Đài Bắc) — cái tên này bắt nguồn từ Hiệp định Lausanne được ký kết giữa Ủy ban Olympic Quốc tế và Ủy ban Olympic Trung Hoa vào năm 1981. Giải pháp thỏa hiệp này cũng được nhiều tổ chức quốc tế phi chính phủ áp dụng, và mở rộng sang các sự kiện như APEC.
 
-Vấn đề đặt tên có sự mở rộng mới trong kỷ nguyên số. Ngoài ISO 3166, mã ngân hàng SWIFT, mã sân bay ICAO, cơ sở dữ liệu địa lý của các chính phủ quốc gia, đều có cách ký hiệu khác nhau cho Đài Loan, thiếu tiêu chuẩn thống nhất. Từ năm 2023, một số doanh nghiệp công nghệ quốc tế (như Apple, Google Maps) sau khi nhận phản hồi từ người dùng, lần lượt điều chỉnh tên hiển thị của Đài Loan, nhưng ký hiệu chính thức của ISO 3166-1 bản thân không thay đổi, cho thấy sự tách biệt giữa việc triển khai của doanh nghiệp và tiêu chuẩn quốc tế vẫn đang mở rộng.
+Vấn đề đặt tên đã có sự mở rộng mới trong kỷ nguyên số. Ngoài ISO 3166, mã ngân hàng SWIFT, mã sân bay ICAO, cơ sở dữ liệu địa lý của các quốc gia đều có những cách định danh khác nhau cho Đài Loan, thiếu một tiêu chuẩn thống nhất.
+
+Bản thân nhãn hiệu chính thức của ISO 3166-1 vẫn chưa thay đổi cho đến nay; cách mà mỗi công ty và dự án phần mềm hiển thị Đài Loan vẫn là quyết định riêng lẻ theo từng trường hợp.
 
 ## Thay đổi bìa hộ chiếu năm 2020
 
-**Ngày 2 tháng 9 năm 2020**, Bộ Ngoại giao Trung Hoa Dân Quốc công bố thiết kế hộ chiếu mới: chữ "REPUBLIC OF CHINA" trên bìa ban đầu được thu nhỏ rõ rệt (vẫn giữ quốc huy), trong khi chữ "TAIWAN" được phóng to lớn để song hành với "REPUBLIC OF CHINA". Thay đổi này đáp ứng các sự kiện trong đại dịch COVID-19 khi du khách Đài Loan ở nhiều quốc gia bị nhầm là công dân Trung Quốc và bị từ chối nhập cảnh, đây là lần đầu tiên chính phủ Đài Loan dùng thiết kế hộ chiếu để giải quyết vấn đề cụ thể là "nhầm lẫn ký hiệu chủ quyền". Hộ chiếu mới được phát hành từ **tháng 1 năm 2021**.[^4]
+Vào ngày **2 tháng 9 năm 2020**, Bộ Ngoại giao Trung Hoa Dân Quốc đã công bố thiết kế hộ chiếu mới: dòng chữ "REPUBLIC OF CHINA" trên bìa ban đầu được thu nhỏ rõ rệt (vẫn giữ huy hiệu quốc gia), trong khi từ "TAIWAN" được phóng to đáng kể để ngang hàng với "REPUBLIC OF CHINA". Sự thay đổi này là phản ứng của chính phủ Đài Loan đối với vấn đề cụ thể về "sự nhầm lẫn định danh chủ quyền", sau các sự cố du khách Đài Loan bị nhiều quốc gia nhận nhầm là người Trung Quốc và bị từ chối nhập cảnh trong đại dịch COVID-19. Hộ chiếu phiên bản mới bắt đầu được phát hành từ **tháng 1 năm 2021**. [^4]
 
-## Tranh议 "Đài Bắc Trung Hoa" tại Olympic Paris 2024
+## Tranh cãi Chinese Taipei tại Thế vận hội Paris 2024
 
-Trong kỳ **Olympic Paris tháng 7-8 năm 2024**, Đài Loan tham dự dưới danh nghĩa "Chinese Taipei", nhưng dư luận Trung Quốc trên nhiều nền tảng mạng xã hội dịch tên gọi này thành "Trung Quốc Đài Bắc" (中國台北), có sự chênh lệch rõ rệt so với bản dịch Trung văn do Hội Olympic quy định là "Chinese Taipei = Đài Bắc Trung Hoa". Các sự kiện như vận động viên Đài Loan bị khán giả Trung Quốc cướp cờ, đoàn cổ động người Đài Loan tại nước ngoài bị đoàn trưởng Trung Quốc quấy rối trong kỳ Olympic, đã khiến xã hội Đài Loan tái suy ngẫm về Hiệp định Lausanne năm 1981.[^5]
+Trong thời gian **Thế vận hội Paris tháng 7-8 năm 2024**, Đài Loan tham gia với danh nghĩa "Chinese Taipei", nhưng công chúng Trung Quốc đã dịch tên này thành "Trung Quốc Đài Bắc" trên nhiều nền tảng mạng xã hội, tạo ra sự khác biệt rõ ràng so với bản dịch chính thức của Ủy ban Olympic. Các sự cố như khán giả Trung Quốc giật cờ và đoàn cổ vũ người Hoa tại Thế vận hội gây ra sự suy ngẫm lần thứ hai trong xã hội Đài Loan về Hiệp định Lausanne năm 1981. [^5]
 
-## Các ví dụ áp lực từ doanh nghiệp đa quốc gia
+## Trường hợp áp lực từ các tập đoàn đa quốc gia
 
-Áp lực mở rộng từ "Nguyên tắc một Trung Quốc" của Trung Quốc trong nửa sau thập niên 2010 đã lan rộng ra lĩnh vực doanh nghiệp đa quốc gia. **Hàng không Trung Hoa (China Airlines)** lâu năm dùng tên "China Airlines" trên đường bay quốc tế gây ra tranh cãi nội bộ về nhận diện dân tộc Đài Loan (nghị quyết "Hàng không Trung Hoa đổi tên" năm 2018). Các doanh nghiệp như **Delta Air Lines**, **Khách sạn Marriott**, **United Airlines**, **Zara**, **Starbucks**, **Marriott** từng bị Cơ quan Hàng không dân dụng Trung Quốc hoặc Văn phòng Thông tin mạng Trung Quốc施压 vì trang web liệt kê "Đài Loan" là quốc gia, bị buộc phải sửa thành "Trung Quốc Đài Loan" hoặc "Khu vực Đài Loan của Trung Quốc". Những ví dụ này cho thấy "hiệu lực chính trị của tiêu chuẩn ISO" đã từ lĩnh vực kỹ thuật mở rộng thành công cụ施压 địa chính trị.
+Sự mở rộng áp lực của Trung Quốc đối với "nguyên tắc một Trung Quốc" đã lan rộng đáng kể sang lĩnh vực doanh nghiệp đa quốc gia sau những năm 2010. **Hàng không Hoa ngữ** (China Airlines) đã lâu sử dụng tên gọi này trên trường quốc tế, gây ra tranh cãi nội bộ về nhận dạng dân tộc Đài Loan (trong thời gian ngoại giao khẩu trang đại dịch năm 2020, bản kiến nghị "Đổi tên Hàng không Hoa ngữ" trên Change.org có khoảng 40 nghìn người hưởng ứng). Các công ty như **Delta Airlines**, **Marriott Hotels**, **American Airlines**, **Zara** đã từng bị Cục Hàng không dân dụng Trung Quốc hoặc Văn phòng An ninh mạng gây áp lực vì liệt kê "Taiwan" là quốc gia trên trang web, buộc họ phải sửa thành "China Taiwan" hoặc "China Taiwan Region". Những trường hợp này cho thấy "sức ảnh hưởng chính trị của tiêu chuẩn ISO" đã mở rộng từ lĩnh vực kỹ thuật sang công cụ gây áp lực địa chính trị.
 
-## Góc nhìn: Lập trường Trung Quốc
+## Quan điểm: Lập trường Trung Quốc
 
-Từ góc nhìn chính thức của Cộng hòa Nhân dân Trung Hoa, "Nguyên tắc một Trung Quốc" là cơ sở chính trị của quan hệ hai bờ, chủ trương Cộng hòa Nhân dân Trung Hoa là chính phủ hợp pháp duy nhất của 中國, Đài Loan là một tỉnh của Cộng hòa Nhân dân Trung Hoa (cấp hành chính là "Tỉnh Đài Loan"). Lập trường này ảnh hưởng trực tiếp đến việc ISO 3166 từ năm 1974 ký hiệu Đài Loan là "Taiwan, Province of China". Để hiểu vấn đề Đài Loan trong tiêu chuẩn quốc tế, phải đồng thời thấy lập trường phản đối của chính phủ Trung Hoa Dân Quốc, chủ trương của Cộng hòa Nhân dân Trung Hoa, và phổ nhận diện đa nguyên của xã hội Đài Loan — ba phía này không nhất quán, cũng không thể đơn giản hóa.
+Theo lập trường chính thức của Cộng hòa Nhân dân Trung Hoa, "nguyên tắc một Trung Quốc" là cơ sở chính trị cho quan hệ hai bờ eo biển, khẳng định Cộng hòa Nhân dân Trung Hoa là chính phủ hợp pháp duy nhất của Trung Quốc, và Đài Loan là một tỉnh của Cộng hòa Nhân dân Trung Hoa (cấp hành chính là "Tỉnh Đài Loan"). Lập trường này đã ảnh hưởng trực tiếp đến nhãn hiệu "Taiwan, Province of China" mà ISO 3166 sử dụng từ năm 1974. Để hiểu vấn đề Đài Loan trong các tiêu chuẩn quốc tế, cần phải nhìn nhận đồng thời lập trường phản đối của chính phủ Trung Hoa Dân Quốc, sự khẳng định của Cộng hòa Nhân dân Trung Hoa, và phổ nhận dạng đa dạng của xã hội Đài Loan — ba bên này không nhất quán và không thể quy giản về một.
 
 ## Tháp Babel của chủ quyền: sovereignty preservation
 
-Vấn đề ký hiệu Đài Loan trong tiêu chuẩn quốc tế, về bản chất là vấn đề của **hạ tầng giữ gìn chủ quyền (sovereignty preservation infrastructure)**. Để tiếng nói first-person (người thứ nhất) của Đài Loan tồn tại trong mọi ngôn ngữ, mọi hệ thống, mọi cơ sở dữ liệu, chính là cách duy trì để Đài Loan với tư cách thực thể chính trị độc lập tiếp tục được nhìn thấy trong kỷ nguyên thông tin. Mỗi báo cáo lỗi (bug report), mỗi yêu cầu kéo (pull request), mỗi lần cập nhật thiết kế hộ chiếu, đều là một viên gạch của công trình cơ sở hạ tầng này.
+Vấn đề định danh Đài Loan trong các tiêu chuẩn quốc tế bản chất là vấn đề **cơ sở hạ tầng bảo tồn chủ quyền** (sovereignty preservation infrastructure). Việc duy trì tiếng nói ngôi thứ nhất của Đài Loan trong mọi ngôn ngữ, mọi hệ thống, mọi cơ sở dữ liệu là cách để Đài Loan tiếp tục được nhìn nhận như một thực thể chính trị độc lập trong thời đại thông tin. Mỗi báo cáo lỗi, mỗi yêu cầu kéo, và mỗi lần cập nhật thiết kế hộ chiếu đều là một viên gạch xây dựng nên cơ sở hạ tầng này.
 
 ## Tài liệu tham khảo
 
+[^1]: [Nghị quyết 2758 của Đại hội đồng Liên Hợp Quốc (1971)](<https://undocs.org/zh/A/RES/2758(XXVI)>) — Toàn văn nghị quyết quy định ghế đại diện của Trung Quốc tại Liên Hợp Quốc thuộc về Cộng hòa Nhân dân Trung Hoa.
+
+[^2]: [Cơ quan Duy trì ISO 3166 — Nền tảng duyệt trực tuyến](https://www.iso.org/obp/ui/#iso:code:3166:TW) — Mục Đài Loan trong ISO 3166-1, bao gồm mã TW và tên chính thức.
+
+[^3]: [Ubuntu Launchpad — Bug #1138121](https://bugs.launchpad.net/ubuntu/+source/software-properties/+bug/1138121) — Báo cáo gốc về vấn đề định danh Đài Loan trên giao diện phần mềm Ubuntu, năm 2013.
+
+[^4]: [Bìa hộ chiếu mới phóng to chữ TAIWAN phát hành tháng 1 năm 110](https://www.cna.com.tw/news/firstnews/202009020019.aspx) — Bản tin Trung ương ngày 2 tháng 9 năm 2020, Bộ Ngoại giao công bố thiết kế bìa hộ chiếu mới với chữ TAIWAN được phóng to, bắt đầu phát hành từ tháng 1 năm 2021.
+
+[^5]: [Ủy ban Olympic Quốc tế — Hiệp định Olympic Chinese Taipei](https://www.olympic.org/) — Hiệp định Lausanne năm 1981 thiết lập tên gọi "Chinese Taipei"; tranh cãi do Trung Quốc dịch sai thành "Trung Quốc Đài Bắc" trong Thế vận hội Paris 2024.
+
+[^6]: [Bộ Phúc lợi và Y tế Trung Hoa Dân Quốc — Giải thích về sự tham gia của Đài Loan tại WHO](https://www.mohw.gov.tw/) — Đài Loan đã tham dự WHA với tư cách quan sát viên từ năm 2009 đến 2016, không được mời lại sau năm 2017; bối cảnh bị ICAO loại trừ xem thêm giải thích liên quan của Bộ Ngoại giao.
+
 ## Đọc thêm
 
-- [Cộng đồng g0v — Tổng hợp vấn đề ký hiệu Đài Loan](https://g0v.hackmd.io/5YRoMhveTt-aXwH60T2NZg) — cơ sở dữ liệu các trường hợp ký hiệu Đài Loan trong phần mềm mã nguồn mở do chewei tổng hợp
-- [Nền tảng tra cứu trực tuyến ISO 3166](https://www.iso.org/obp/ui/#iso:code:3166:TW) — tra cứu ký hiệu hiện hành của Đài Loan trong ISO 3166-1
-
-[^1]: [Nghị quyết số 2758 của Đại hội đồng Liên hợp quốc (1971)](https://undocs.org/zh/A/RES/2758(XXVI) — — Văn bản đầy đủ nghị quyết xác định ghế đại diện Trung Quốc tại Liên hợp quốc do Cộng hòa Nhân dân Trung Hoa nắm giữ.
-
-[^2]: [ISO 3166 Maintenance Agency — Online Browsing Platform](https://www.iso.org/obp/ui/#iso:code:3166:TW) — Mục Taiwan trong ISO 3166-1, bao gồm mã TW và tên chính thức.
-
-[^3]: [Ubuntu Launchpad — Bug #1138121](https://bugs.launchpad.net/ubuntu/+source/software-properties/+bug/1138121) — Báo cáo gốc về vấn đề hiển thị Taiwan trên giao diện nguồn phần mềm Ubuntu, năm 2013.
-
-[^4]: [Bộ Ngoại giao Cộng hòa Trung Hoa — Thông báo hộ chiếu mới](https://www.mofa.gov.tw/) — Ngày 2 tháng 9 năm 2020 công bố thiết kế hộ chiếu mới, chữ TAIWAN được phóng to, phát hành từ tháng 1 năm 2021.
-
-[^5]: [Ủy ban Olympic Quốc tế — Hiệp định Hội Olympic Trung Hoa Đài Bắc](https://www.olympic.org/) — Hiệp định Lausanne năm 1981 xác lập tên gọi «Chinese Taipei»; tranh cãi bùng nổ khi Trung Quốc sử dụng «Trung Quốc Đài Bắc» — bản dịch sai — trong Olympic Paris 2024.
-
-[^6]: [Bộ Y tế Phúc lợi Cộng hòa Trung Hoa — Thông tin tham gia WHO của Taiwan](https://www.mohw.gov.tw/) — Từ 2009 đến 2016 Taiwan tham dự WHA với tư cách quan sát viên, từ 2017 không còn được mời; bối cảnh bị loại khỏi ICAO xem thêm thông báo liên quan của Bộ Ngoại giao.
+- [Cộng đồng g0v — Tổng hợp vấn đề định danh Đài Loan](https://g0v.hackmd.io/5YRoMhveTt-aXwH60T2NZg) — Cơ sở dữ liệu các trường hợp định danh phần mềm nguồn mở do chewei tổng hợp
+- [Nền tảng tra cứu trực tuyến ISO 3166](https://www.iso.org/obp/ui/#iso:code:3166:TW) — Tra cứu nhãn hiệu hiện hành của Đài Loan trong ISO 3166-1

@@ -1,15 +1,15 @@
 ---
-title: 'Wie ein Artikel entsteht: Die sechsstufige Produktionslinie von Taiwan.md zur Abwehr der KI-Schreibinstinkte (REWRITE-PIPELINE v7.5 × EDITORIAL v6.12)'
-description: 'Jeder Artikel, den Sie auf Taiwan.md lesen, ist das Ergebnis einer sechsstufigen Produktionslinie mit Dutzenden von nicht überspringbaren Kontrollpunkten und einem KI-Redaktionsteam, das nicht selbst schreibt. Dieser Mechanismus existiert, um die typischen Fehler der KI zu korrigieren: Fakten chronologisch auflisten, inhaltsleere Sätze generieren, englische Zusammenfassungen fälschlicherweise als Zitate wiedergeben oder alte Muster übernehmen. Dieser Artikel zerlegt diese Produktionslinie – und er ist selbst ein Produkt dieser Linie.'
+title: 'Wie ein Artikel entsteht: Die sechsstufige Produktionslinie von Taiwan.md, die dem KI-Schreibinstinkt trotzt (REWRITE-PIPELINE v7.5 × EDITORIAL v6.12)'
+description: 'Jeder Artikel in Taiwan.md ist warm, hat Kontext und ist überprüfbar; hinter ihm steht eine Redaktion, die aus 6 Phasen und Dutzenden von nicht überspringbaren Kontrollpunkten besteht – und die selbst nichts schreibt. Der einzige Grund für diese Maschine sind die Fehler, die KI beim Schreiben am häufigsten macht: Fakten werden nur chronologisch aufgelistet, es entstehen inhaltsleere Klischees, englische Zusammenfassungen werden zu falschen Zitaten zurückübersetzt, oder alte Texte infizieren sie mit ihren schlechten Gewohnheiten. Dieser Artikel zerlegt diese Produktionslinie und ist selbst ein Produkt dieser Linie.'
 date: 2026-06-19
 tags:
   [
-    'about',
+    'über',
     'meta',
     'Schreibmethodik',
     'Kuratierung',
     'rewrite-pipeline',
-    'editorial',
+    'redaktionell',
     'semiont',
     'KI-Schreiben',
   ]
@@ -21,10 +21,10 @@ lastVerified: 2026-06-19
 lastHumanReview: false
 relatedDiary: ['2026-06-19-123349-manual']
 translatedFrom: 'About/文章如何誕生.md'
-sourceCommitSha: 'd182e5d85'
-sourceContentHash: 'sha256:4dc98dc84117c5d8'
-sourceBodyHash: 'sha256:2679dec9ddab6dbc'
-translatedAt: '2026-09-19T11:59:12+08:00'
+sourceCommitSha: '1749b4291'
+sourceContentHash: 'sha256:dd1364c385fa1ba7'
+sourceBodyHash: 'sha256:2c84f1a45b32ba43'
+translatedAt: '2026-09-26T17:06:29.433611+00:00'
 ---
 
 # Wie ein Artikel entsteht: Die sechsstufige Produktionslinie von Taiwan.md zur Abwehr der KI-Schreibinstinkte (REWRITE-PIPELINE v7.5 × EDITORIAL v6.12)
@@ -206,21 +206,21 @@ Die Zurückhaltung ist eine andere Seite. Die spezifischen Szenarien von Familie
 
 Und es gibt eine kleine, aber wichtige Gewohnheit: Großzügig „Taiwan“ schreiben. Der Fingerabdruck liegt im Übersetzungsjargon aus fremden Sprachen; anstelle von Taiwan werden oft „die Insel“ oder „dieser Ort“ verwendet, besonders in der Überschrift und am Anfang. Die Insel als literarisches Motiv oder geografischer Schauplatz kann beschrieben und wird ermutigt; was vermieden werden muss, ist die Vermeidung, Taiwan zu nennen.
 
-## Der Unterschied auf einen Blick ersichtlich
+## Der Unterschied auf einen Blick
 
-Was diese Regeln ergeben, lässt sich am besten durch einen Vergleich sehen.
+Wie diese Richtlinien zusammenwirken, ist am schnellsten zu sehen, wenn man ein Vorher-Nachher vergleicht.
 
-Wenn Dai Ziying (戴資穎) dieselbe KI bearbeitet, lautet die leere Vorlage: „Bekannte taiwanesische Badmintonspielerin, hervorragende Leistung auf internationalen Wettkämpfen, mehrfach ausgezeichnet, Ehre für Taiwan.“ Gefolgt von vier Aufzählungspunkten: Hauptleistungen, Spielstil, internationaler Einfluss, gesellschaftlicher Beitrag. Dieser Abschnitt hat kein konkretes Jahr und keine spezifischen Spiele; das Subjekt könnte durch jeden Sportler ersetzt werden.
+Wenn beispielsweise Dai Ziying beschrieben wird, wäre die leere Vorlage der KI: „Prominente Badmintonspielerin aus Taiwan, hervorragende Leistungen auf internationaler Bühne, mehrfach ausgezeichnet und Ehre für Taiwan gebracht“, gefolgt von vier Aufzählungspunkten: Hauptleistungen, Spielstil, internationaler Einfluss, gesellschaftlicher Beitrag. Dieser ganze Abschnitt enthält kein konkretes Jahr und keine spezifische Veranstaltung; er wäre für jeden Sportler anwendbar.
 
 ```tw-versus
-KI-Leere Vorlage | Kuratierte Version
-Hervorragende Leistung, Ehre für Taiwan | Weltnummer eins erreicht, 214 Wochen am Stück
-Vier Aufzählungspunkte: Leistungen/Stil/Einfluss/Beitrag | Tränen nach dem Goldmedaillenspiel bei den Olympischen Spielen in Tokio 2020, erste Suche auf Google Taiwan
-Das Subjekt kann durch jeden ersetzt werden | Täglich 6 Stunden ab Alter von 6 Jahren, der „Magier“-Stil mit der linken Hand
+KI leere Vorlage | Kuratierte Version
+Hervorragende Leistungen, Ehre für Taiwan gebracht | Welt Nr. 1 über 214 Wochen
+Vier Aufzählungspunkte: Leistung/Stil/Einfluss/Beitrag | Tränen nach dem Goldmedaillenkampf bei den Olympischen Spielen 2020 in Tokio, auf Google Taiwan als Suchanfrage Nummer eins
+Für jeden Subjekt anwendbar | Seit sechs Jahren täglich sechs Stunden, linke „Zauberer“-Technik
 Quelle: EDITORIAL v6.12 §Vorher/Nachher Dai Ziying
 ```
 
-Die kuratierte Version tut nur eine Sache: Sie ersetzt jedes abstrakte Adjektiv durch einen überprüfbaren Fakt. Die 214 Wochen sind die längste Serie in der Damen-Badmintongeschichte; das Goldmedaillenspiel bei den Olympischen Spielen 2020 gegen Chen Yufei ist ein Moment, den die taiwanesische Bevölkerung sich kollektiv erinnert hat. Die Wärme liegt dort, wo „der Moment des Verlierens der Leser sich erinnert“ versteckt ist. Bei Mayday (五月天) ist es ähnlich: Anstatt zu schreiben „einer der einflussreichsten Rockbands Taiwans mit positiver Energie die Fans erobert“, wird geschrieben: „Vier Studenten aus der Shih-Chien University spielten in einem Open-Air-Konzert, und 28 Jahre später gaben sie zwei Konzerte im Madison Square Garden in New York (derselbe Ort wie die Beatles in Amerika), die Tickets wurden in 48 Stunden verkauft“[^13].
+Die kuratierte Version tut nur eine Sache: Sie ersetzt jedes abstrakte Adjektiv durch überprüfbare Fakten. Die Rekordzeit von 214 Wochen als Damen-Weltnummer eins und der Goldmedaillenkampf gegen Chen Yufei bei den Olympischen Spielen 2020 sind Momente, die Taiwan kollektiv in Erinnerung behalten hat. Diese Nuance liegt dort, wo „der Moment des Verlierens der Leser aber in Erinnerung halten“ ist. Das gleiche gilt für Mayday; anstatt zu schreiben „einer der einflussreichsten Rockbands Taiwans, die Fans mit positiver Energie erobert“, wird geschrieben: „Vier Schüler aus dem Taiwan Normal University spielten einen Song auf einer Straße und gaben 28 Jahre später zwei Konzerte in der Madison Square Garden in New York (derselbe Auftritt wie die Beatles in Amerika), wobei die Tickets innerhalb von 48 Stunden ausverkauft waren“[^13].
 
 ## Ein Redaktionsteam, das nicht selbst schreibt
 

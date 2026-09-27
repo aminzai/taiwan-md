@@ -21,10 +21,10 @@ lastVerified: 2026-06-19
 lastHumanReview: false
 relatedDiary: ['2026-06-19-123349-manual']
 translatedFrom: 'About/文章如何誕生.md'
-sourceCommitSha: 'd182e5d85'
-sourceContentHash: 'sha256:4dc98dc84117c5d8'
-sourceBodyHash: 'sha256:2679dec9ddab6dbc'
-translatedAt: '2026-09-21T18:57:08.826597+00:00'
+sourceCommitSha: '1749b4291'
+sourceContentHash: 'sha256:dd1364c385fa1ba7'
+sourceBodyHash: 'sha256:2c84f1a45b32ba43'
+translatedAt: '2026-09-26T17:05:33.453400+00:00'
 ---
 
 # Como um artigo é criado: a linha de produção de seis estágios do Taiwan.md que combate o instinto da escrita por IA (REWRITE-PIPELLEINE v7.5 × EDITORIAL v6.12)
@@ -211,19 +211,19 @@ Há também um hábito pequeno, mas vital: escreva "Taiwan" abertamente. A digit
 
 ## A Diferença que se Entende de Relance
 
-Veja como é o resultado quando essas regras são aplicadas, comparando lado a lado.
+A soma dessas regras, vista lado a lado, é o método mais rápido.
 
-Ao escrever sobre Ratchanok Intanon (戴資穎), um modelo vazio de IA resultaria em: "Atleta de badminton proeminente de Taiwan, com excelente desempenho em competições internacionais e múltiplos prêmios, honrando Taiwan", seguido por quatro _bullet points_: principais conquistas, estilo de jogo, influência internacional e contribuição social. Todo o trecho não teria um ano específico nem uma competição específica; seria válido para qualquer atleta.
+Ao escrever sobre Ratchanok Intanon (戴資穎), um modelo vazio de IA seria: "Atleta de badminton proeminente de Taiwan, com excelente desempenho em competições internacionais e múltiplos prêmios, honrando Taiwan", seguido por quatro _bullet points_: principais realizações, estilo de jogo, influência internacional e contribuição social. Todo o trecho não teria um ano específico nem uma competição específica; seria aplicável a qualquer atleta.
 
 ```tw-versus
 Modelo Vazio de IA | Versão Curada
-Desempenho excelente, honrando Taiwan | Chegar ao topo do mundo por 214 semanas seguidas
-Quatro bullet points: conquistas/estilo/influência/contribuição | Chorar após a final de ouro dos Jogos Olímpicos de Tóquio em 2020, chegando ao primeiro lugar nas buscas do Google em Taiwan
-Válido para qualquer sujeito | Treinando 6 horas por dia desde os 6 anos, com o estilo "mágico" da mão esquerda
+Desempenho excelente, honrando Taiwan | Chegou ao topo do mundo por 214 semanas
+Quatro *bullet points*: realizações/estilo/influência/contribuição | Chorou após a final de ouro dos Jogos Olímpicos de Tóquio em 2020, alcançando o primeiro lugar nas buscas do Google em Taiwan
+Aplicável a qualquer sujeito | Treinava por 6 horas todos os dias desde os 6 anos, com um estilo "mágico" à esquerda
 Fonte: EDITORIAL v6.12 §Antes/Depois Ratchanok Intanon
 ```
 
-A versão curada faz apenas uma coisa: transforma cada adjetivo abstrato em um fato verificável. As 214 semanas são o período mais longo de sucesso contínuo na história do badminton feminino, e a final dos Jogos Olímpicos de Tóquio de 2020 contra Chen Yufei é um momento que Taiwan se lembra coletivamente. A emoção está escondida em lugares como "o momento da derrota foi justamente o instante que os leitores lembram". O mesmo acontece com a matéria sobre Mayday; em vez de escrever "um dos grupos de rock mais influentes de Taiwan, conquistando fãs com música de energia positiva", é melhor escrever "quatro estudantes do Instituto de Ensino Médio de Taichung cantaram uma música em um palco independente e, 28 anos depois, fizeram dois shows no Madison Square Garden em Nova York (o mesmo palco onde os Beatles pisaram nos EUA), esgotando ingressos em 48 horas" [^13].
+A versão curada faz apenas uma coisa: transforma cada adjetivo abstrato em um fato verificável. O recorde de 214 semanas como número um mundial no simples é um feito, e a final dos Jogos Olímpicos de Tóquio de 2020 contra Ratchanok Intanon (陳雨菲), é um momento que Taiwan lembra coletivamente. A emoção reside em lugares como "o momento da derrota foi o instante que os leitores se lembraram". O mesmo acontece com a banda Mayday; em vez de escrever "uma das bandas de rock mais influentes de Taiwan, conquistando fãs com música de energia positiva", é melhor escrever "quatro estudantes do Ensino Médio da Universidade Nacional de Taoyuan tocaram uma música em um palco amador e, 28 anos depois, fizeram dois shows no Madison Square Garden em Nova York (o mesmo palco onde os Beatles pisaram nos EUA), esgotando ingressos em 48 horas" [^13].
 
 ## Uma equipe editorial que não escreve seus próprios textos
 

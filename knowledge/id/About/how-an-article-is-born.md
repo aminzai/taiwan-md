@@ -21,10 +21,10 @@ lastVerified: 2026-06-19
 lastHumanReview: false
 relatedDiary: ['2026-06-19-123349-manual']
 translatedFrom: 'About/文章如何誕生.md'
-sourceCommitSha: 'd182e5d85'
-sourceContentHash: 'sha256:4dc98dc84117c5d8'
-sourceBodyHash: 'sha256:2679dec9ddab6dbc'
-translatedAt: '2026-09-22T23:54:34.371911+00:00'
+sourceCommitSha: '1749b4291'
+sourceContentHash: 'sha256:dd1364c385fa1ba7'
+sourceBodyHash: 'sha256:2c84f1a45b32ba43'
+translatedAt: '2026-09-26T17:05:11.447880+00:00'
 ---
 
 # Bagaimana Sebuah Artikel Lahir: Jalur Produksi Enah Tahap Taiwan.md yang Menangkal Insting Penulisan AI (REWRITE-PIPELINE v7.5 × EDITORIAL v6.12)
@@ -206,21 +206,21 @@ Pengendalian adalah sisi lain. Keluarga nyata, penyakit, kontradiksi, kegagalan 
 
 Masih ada kebiasaan kecil tetapi sangat penting: menulis "Taiwan" dengan大方. Sidik jari tersembunyi di aksen terjemahan langsung media asing, untuk tidak menulis Taiwan mengganti dengan "pulau ini", "tempat ini" sebagai ganti, terutama di judul dan pembuka. Pulau sebagai citra sastra, sebagai adegan geografi tentu bisa ditulis, juga didorong, yang harus dihancurkan adalah penghindaran yang tidak berani menulis Taiwan.
 
-## Perbedaan yang Jelas Sekali Lihat
+## Perbedaan yang Langsung Terlihat
 
-Bagaimana rupa gabungan disiplin-disiplin ini? Melihat perbandingan sebelum-sesudah adalah cara tercepat.
+Apa rupa semua disiplin ini jika digabungkan? Cara tercepat adalah dengan membandingkan satu contoh sebelum dan sesudah.
 
-Menulis tentang Tai Tzu-ying yang sama, template kosong AI akan berbunyi „atlet bulu tangkis terkenal Taiwan, prestasi luar biasa di panggung internasional, berjuara berkali-kali, membanggakan Taiwan”, diikuti empat bullet: pencapaian utama, gaya bermain, dampak internasional, kontribusi sosial. Seluruh paragraf tidak memiliki satu tahun spesifik pun, tidak ada satu pertandingan spesifik pun, subjeknya bisa diganti dengan atlet manapun dan tetap valid.
+Jika menulis tentang Ratchanok Intanon, templat kosong AI akan berbunyi: "Atlet bulu tangkis terkenal dari Taiwan, memiliki performa yang sangat baik di kancah internasional, meraih banyak penghargaan, dan membawa nama baik bagi Taiwan," diikuti oleh empat poin: prestasi utama, gaya bermain, pengaruh internasional, dan kontribusi sosial. Seluruh paragraf ini tidak mencantumkan tahun spesifik atau pertandingan tertentu; kalimat tersebut akan berlaku untuk atlet mana pun.
 
 ```tw-versus
-Template Kosong AI | Versi Kurasi
-Prestasi luar biasa, membanggakan Taiwan | Menduduki peringkat dunia pertama, bertahan 214 minggu
-Empat bullet: pencapaian/gaya/dampak/kontribusi | Final emas Olimpiade Tokyo 2020 menangis setelah pertandingan, menduduki peringkat pertama pencarian Google Taiwan
-Subjek diganti siapa pun tetap valid | Sejak usia 6 tahun 6 jam sehari, gaya bermain „penyihir” tangan kiri
-Sumber: EDITORIAL v6.12 §Before/After Tai Tzu-ying
+Templat Kosong AI | Versi Kurasi
+Performa Sangat Baik, Membawa Nama Baik Taiwan | Menduduki peringkat satu dunia selama total 214 minggu
+Empat Poin: Prestasi/Gaya/Pengaruh/Kontribusi | Menang medali emas Olimpiade Tokyo 2020 dan menangis, menduduki peringkat teratas pencarian Google di Taiwan
+Bisa Diganti Subjeknya | Bermain dengan gaya "pesulap" menggunakan tangan kiri selama 6 jam setiap hari sejak usia 6 tahun
+Sumber: EDITORIAL v6.12 §Sebelum/Sesudah Ratchanok Intanon
 ```
 
-Versi kurasi hanya melakukan satu hal: mengganti setiap kata sifat abstrak dengan fakta yang dapat diverifikasi. 214 minggu adalah minggu berurutan terlama dalam sejarah bulu tangkis putri, final emas Olimpiade 2020 di mana dia kalah dari Chen Yufei, adalah momen yang diingat secara kolektif oleh Taiwan. Kehangatan justru tersembunyi di tempat seperti „momen kekalahan justru menjadi momen yang diingat pembaca”. Artikel Mayday juga sama, alih-alih menulis „satu dari grup rock paling berpengaruh Taiwan, menaklukkan penggemar dengan musik energi positif”, lebih baik menulis „empat siswa SMA Affiliated to Universitas Normal Taiwan bermain satu lagu di panggung terbuka, 28 tahun kemudian di Madison Square Garden New York (panggung yang sama tempat The Beatles pertama kali tampil di AS) menggelar dua konser berturut-turut, tiket terjual habis dalam 48 jam”[^13].
+Versi kurasi hanya melakukan satu hal: mengganti setiap kata sifat abstrak dengan fakta yang dapat diverifikasi. Rekor 214 minggu adalah rekor terlama sebagai nomor tunggal dunia, dan pertandingan emas melawan Chen Yufei di Olimpiade 2020 adalah momen yang diingat secara kolektif oleh orang Taiwan. Kehangatan itu tersimpan dalam bagian seperti "momen ketika kekalahan justru menjadi momen yang diingat pembaca." Hal yang sama berlaku untuk artikel Mayday; daripada menulis "Salah satu band rock paling berpengaruh di Taiwan, menaklukkan penggemar dengan musik energi positif," lebih baik ditulis "Empat siswa dari Sekolah Menengah Atas Afiliasi Universitas Shih Tai menyanyikan sebuah lagu di panggung terbuka, dan 28 tahun kemudian mereka menggelar dua konser di Madison Square Garden di New York (panggung yang sama dengan The Beatles di Amerika), tiketnya terjual habis dalam waktu 48 jam" [^13].
 
 ## Sebuah Redaksi yang Tidak Menulis Naskah Sendiri
 

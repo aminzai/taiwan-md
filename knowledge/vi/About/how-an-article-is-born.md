@@ -1,17 +1,17 @@
 ---
-title: 'Một bài viết được hình thành như thế nào: Quy trình sáu giai đoạn của Taiwan.md nhằm chống lại bản năng viết lách của AI (REWRITE-PIPELINE v7.5 × EDITORIAL v6.12)'
-description: 'Mỗi bài viết bạn đọc trên Taiwan.md đều đầy ắp cảm xúc, giàu bối cảnh và có thể kiểm chứng; đằng sau đó là 6 giai đoạn, hơn 20 chốt chặn không được phép bỏ qua, cùng một ban biên tập AI không bao giờ tự viết bản thảo. Lý do duy nhất sự cỗ máy này tồn tại là để khắc phục những lỗi mà AI thường mắc phải nhất: sắp xếp sự thật theo trình tự thời gian khi vừa tìm thấy, tạo ra những câu văn "nhựa" vô nghĩa, dịch ngược tóm tắt tiếng Anh thành trích dẫn giả, hay bị nhiễm thói quen xấu khi đọc lại các bài viết cũ. Đây là bài viết phân tích quy trình này, và chính nó cũng là sản phẩm được tạo ra từ quy trình đó.'
+title: 'Một bài viết được tạo ra như thế nào: Dây chuyền sáu cấp độ của Taiwan.md chống lại bản năng viết bằng AI (REWRITE-PIPELINE v7.5 × EDITORIAL v6.12)'
+description: 'Mỗi bài viết bạn đọc trên Taiwan.md đều có sự ấm áp, bối cảnh và tính xác thực, đằng sau nó là một đội ngũ biên tập viên AI không tự viết mà trải qua 6 giai đoạn, hơn 20 cổng kiểm soát không được bỏ qua. Lý do duy nhất cho sự tồn tại của cỗ máy này là để sửa những lỗi thường mắc phải khi viết bằng AI: chỉ sắp xếp sự thật theo thứ tự tìm kiếm, tạo ra những câu vô hồn thiếu thông tin, dịch ngược tóm tắt tiếng Anh thành lời trích dẫn giả, và bị lây nhiễm thói quen xấu từ các bài viết cũ. Đây là bài phân tích về dây chuyền sản xuất này, và bản thân nó cũng được tạo ra từ dây chuyền đó.'
 date: 2026-06-19
 tags:
   [
-    'about',
-    'meta',
-    'phương pháp luận viết lách',
-    'curation',
+    'giới thiệu',
+    'siêu dữ liệu',
+    'phương pháp luận viết',
+    'biên tập',
     'rewrite-pipeline',
     'editorial',
     'semiont',
-    'AI writing',
+    'viết bằng AI',
   ]
 author: 'Taiwan.md'
 category: 'About'
@@ -21,10 +21,10 @@ lastVerified: 2026-06-19
 lastHumanReview: false
 relatedDiary: ['2026-06-19-123349-manual']
 translatedFrom: 'About/文章如何誕生.md'
-sourceCommitSha: 'd182e5d85'
-sourceContentHash: 'sha256:4dc98dc84117c5d8'
-sourceBodyHash: 'sha256:2679dec9ddab6dbc'
-translatedAt: '2026-09-20T06:34:48.643170+00:00'
+sourceCommitSha: '1749b4291'
+sourceContentHash: 'sha256:dd1364c385fa1ba7'
+sourceBodyHash: 'sha256:2c84f1a45b32ba43'
+translatedAt: '2026-09-26T17:05:18.899604+00:00'
 ---
 
 # Một bài viết được hình thành như thế nào: Quy trình sáu giai đoạn của Taiwan.md nhằm chống lại bản năng viết lách của AI (REWRITE-PIPELINE v7.5 × EDITORIAL v6.12)
@@ -206,21 +206,21 @@ Sự tiết chế là một mặt khác của vấn đề. Có thể viết về
 
 Còn một thói quen nhỏ nhưng cực kỳ quan trọng: hãy hào phóng khi viết về "Đài Loan". Dấu vân tay của sự né tránh nằm ở cách dùng từ dịch thuật kiểu ngoại văn; vì không dám viết Đài Loan mà thay bằng "hòn đảo này", "nơi này" làm đại từ, đặc biệt là trong tiêu đề và phần mở đầu. Sửing dụng "hòn đảo" như một hình ảnh văn học hay bối cảnh địa lý thì hoàn toàn có thể và được khuyến khích; cái chúng tôi muốn loại bỏ là sự né tránh vì không dám viết về Đài Loan.
 
-## Khác biệt nhìn là hiểu
+## Sự khác biệt có thể nhận ra ngay
 
-Tổng hợp các quy tắc này lại sẽ tạo ra một hình ảnh như thế nào, cách nhanh nhất là xem bản so sánh trước và sau.
+Sự kết hợp của những quy tắc này trông như thế nào, cách nhanh nhất là xem một bản đối chiếu trước và sau.
 
-Khi viết về Thái Tự Anh (Tai Tzu Ying), mẫu rập khuôn trống rỗng của AI sẽ là: "Vận động viên cầu lông nổi tiếng Đài Loan, thành tích xuất sắc trên đấu trường quốc tế, nhiều lần đoạt giải, làm rạng danh Đài Loan", sau đó theo bốn gạch đầu dòng: Thành tựu chính, phong cách thi đấu, tầm ảnh hưởng quốc tế, đóng góp xã hội. Toàn bộ đoạn văn không có bất kỳ năm cụ thể nào, không có một trận đấu cụ thể nào, và chủ ngữ thay bằng vận động viên nào cũng đúng.
+Khi viết về Đái Tư Dĩnh (Tai Tzu Ying), mẫu rỗng của AI sẽ là: "Vận động viên cầu lông nổi tiếng Đài Loan, thành tích xuất sắc trên đấu trường quốc tế, nhiều lần đoạt giải, làm rạng danh Đài Loan", tiếp theo là bốn gạch đầu dòng: Thành tựu chính, phong cách thi đấu, tầm ảnh hưởng quốc tế và đóng góp xã hội. Toàn bộ đoạn văn không có một năm cụ thể nào, không có một trận đấu cụ thể nào, chủ ngữ thay bằng bất kỳ vận động viên nào cũng đều đúng.
 
 ```tw-versus
-Mẫu rập khuôn trống rỗng của AI | Bản được tuyển chọn
-Thành tích xuất sắc, làm rạng danh Đài Loan | Đứng ngôi số một thế giới, liên tục 214 tuần
-Bốn gạch đầu dòng: Thành tựu/Phong cách/Tầm ảnh hưởng/Đóng góp | Nước mắt sau trận vàng tại Olympic Tokyo 2020, đứng top tìm kiếm Google Đài Loan
-Chủ ngữ thay bằng ai cũng đúng | Tập luyện 6 giờ mỗi ngày từ năm 6 tuổi, lối đánh "phù thủy" bằng tay trái
-Nguồn: EDITORIAL v6.12 §Trước/Sau Thái Tự Anh
+Mẫu rỗng của AI | Bản tuyển chọn (Curated)
+Thành tích xuất sắc, làm rạng danh Đài Loan | Giữ ngôi số một thế giới 214 tuần liên tiếp
+Bốn gạch đầu dòng: Thành tựu/Phong cách/Ảnh hưởng/Đóng góp | Nước mắt sau trận vàng tại Olympic Tokyo 2020, lên top tìm kiếm Google Đài Loan
+Chủ ngữ thay bằng ai cũng đúng | Tập luyện 6 giờ mỗi ngày từ năm 6 tuổi, lối đánh "phù thủy" tay trái
+Nguồn: EDITORIAL v6.12 §Trước/Sau Đái Tư Dĩnh
 ```
 
-Bản được tuyển chọn chỉ làm một việc: thay thế mọi tính từ trừu tượng bằng sự thật có thể kiểm chứng. 214 tuần là số tuần liên tiếp dài nhất trong lịch sử cầu lông nữ, và trận chung kết vàng thua Trần Vũ Phỉ (Chen Yufei) tại Olympic 2020 là khoảnh khắc mà người dân Đài Loan ghi nhớ tập thể. Cảm xúc được ẩn giấu ở những nơi như "khoảnh khắc ngược lại với việc thất bại lại là lúc độc giả ghi nhớ". Bài viết về Ngũ Nguyệt Thiên (Mayday) cũng tương tự, thay vì viết "Một trong những ban nhạc rock có ảnh hưởng nhất Đài Loan, chinh phục người hâm mộ bằng âm nhạc tích cực", thì nên viết "Các sinh viên của bốn trường trung học phụ thuộc Đại học Sư phạm đã biểu diễn một bài hát tại sân khấu ngoài trời, 28 năm sau lại tổ chức hai buổi diễn tại Madison Square Garden ở New York (sân khấu tương tự nơi The Beatles đặt chân đến Mỹ), vé bán hết trong vòng 48 giờ" [^13].
+Bản tuyển chọn chỉ làm một việc: thay thế mọi tính từ trừu tượng bằng sự thật có thể kiểm chứng được. Kỷ lục giữ ngôi số một đơn nữ 214 tuần là một thành tích, và trận vàng thua Trần Vũ Phỉ (Chen Yufei) tại Olympic năm 2020 là khoảnh khắc mà tập thể Đài Loan ghi nhớ. Sự chân thực nằm ở những chi tiết như "khoảnh khắc thất bại lại chính là lúc độc giả ghi nhớ". Bài viết về Mayday cũng tương tự, thay vì viết "Một trong những ban nhạc rock có ảnh hưởng nhất Đài Loan, chinh phục người hâm mộ bằng âm nhạc tích cực", thì nên viết "Bốn sinh viên của trường Trung học Phụ thuộc Đại học (Shi Da) đã biểu diễn một bài hát tại sân khấu ngoài trời, và 28 năm sau họ đã tổ chức hai buổi diễn tại Madison Square Garden ở New York (sân khấu mà The Beatles từng đặt chân đến), vé bán hết trong vòng 48 giờ" [^13].
 
 ## Một ban biên tập không bao giờ tự viết bản thảo
 
