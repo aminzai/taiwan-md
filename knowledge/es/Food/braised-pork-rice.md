@@ -59,7 +59,7 @@ A medida que los barrios militares fueron demolidos, estos conocimientos se disp
 
 ## La controversia del "plato nacional" de 2011
 
-En 2011, un debate sobre el "plato nacional de Taiwán" captó la atención de toda la isla. Un medio de comunicación organizó una votación en la que el arroz con cerdo estofado se impuso a rivales de la talla del [[牛肉麵|sopa de fideos con carne]] y las [[蚵仔煎|tortitas de ostras]], obteniendo el título honorífico de "plato nacional". Este resultado desató una intensa polémica: los partidarios consideraban que el arroz con cerdo estofado representaba mejor la cultura popular taiwanesa, mientras que los detractores cuestionaban su origen histórico.
+En 2011, un debate sobre el "plato nacional de Taiwán" captó la atención de toda la isla. Un medio de comunicación organizó una votación en la que el arroz con cerdo estofado se impuso a rivales de la talla del [sopa de fideos con carne](/es/food/beef-noodle-soup/) y las [tortitas de ostras](/es/food/oyster-omelet/), obteniendo el título honorífico de "plato nacional". Este resultado desató una intensa polémica: los partidarios consideraban que el arroz con cerdo estofado representaba mejor la cultura popular taiwanesa, mientras que los detractores cuestionaban su origen histórico.
 
 El núcleo de la controversia radicaba en la definición de «representatividad». Aunque el arroz con cerdo estofado tiene su origen en la inmigración de fuera de la isla, tras décadas de adaptación local se ha integrado profundamente en la vida cotidiana de los taiwaneses. Su silueta aparece en los puestos callejeros, las tiendas de conveniencia, los restaurantes de alta cocina y la mesa familiar. Esta universalidad y cercanía al pueblo le confieren sin duda el carácter de «comida nacional».
 
@@ -99,4 +99,4 @@ Desde la nostalgia de las abuelas de los barrios militares hasta el almuerzo rec
 
 [^4]: [CNN Travel: Los 40 mejores alimentos y bebidas de Taiwán](https://edition.cnn.com/travel/article/40-taiwan-food/index.html) — CNN seleccionó los 40 platos imprescindibles de Taiwán; el arroz con cerdo estofado encabezó la lista, confirmando su estatus internacional como comida nacional.
 
-[^5]: [Ministerio de Asuntos Económicos, Departamento de Comercio: Festival del Arroz con Cerdo Estofado de Taiwán 2019 (YouTube)](https://www.youtube.com/watch
+[^5]: [Ministerio de Asuntos Económicos, Departamento de Comercio: Festival del Arroz con Cerdo Estofado de Taiwán 2019 (YouTube)](https://www.youtube.com/watch?v=zkvOChbvzAQ) — Video promocional del "Festival del Arroz con Cerdo Estofado de Taiwán", organizado oficialmente; muestra cómo el gobierno usó el festival para llevar este plato nacional a la escena internacional.
