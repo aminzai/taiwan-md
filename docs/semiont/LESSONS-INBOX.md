@@ -332,6 +332,18 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-27 twmd-maintainer-am — absent-binary-and-rejected-flag-both-return-a-confident-zero：量測指令死在執行之前，讀出來的是一個乾淨的「沒事」
+
+- **pattern**: `absent-binary-and-rejected-flag-both-return-a-confident-zero`
+- **原則**：把量測指令接進 `| wc -l` 或 `2>/dev/null` 之後，**指令根本沒跑起來**跟**跑完真的是零**印出來的字一模一樣。兩種死法在本班同一小時各發生一次：(a) `timeout 300 git prune -n` —— macOS 沒有 `timeout` 這個 binary，整串 exit 127、零輸出；而後面接的 `echo "exit=$?"` 報的是 `wc -l` 的離開碼，於是印出「exit=0」替它作證。(b) `find ... -newermt "14 days ago" 2>/dev/null` —— 這台的 `find` 是 `bfs`，只吃 ISO 8601 時間字串，它把整條參數退回並寫 stderr，而 stderr 正被丟掉，於是回一個 `0`。**兩個零都被我當成事實讀了一輪**：先讀成「沒有東西可以安全清掉」，再讀成「所有鬆散物件都超過兩週」——兩句話互相矛盾，撞在一起才逼出重驗。拿掉 `timeout`、不再吞 stderr 之後的真值是：9,965 個不可達物件、mtime 全落在 09-19～09-27 這八天內。**結論反轉**：不是「沒東西可清」，是「可清的全都太新，安全的過期窗清不到它們」。
+- **觸發**：2026-09-27 08:47 處理交接裡掛了數輪的 `.git/gc.log`（「too many unreachable loose objects; run git prune」）。本來要把它寫成「已驗過：prune 是 no-op，可以退役」——那句話會以「已量過」的身分進交接，而它是兩個假零疊出來的。**這是 REFLEXES #99「尺先驗再用」第一次長在 shell 管線層而不是資料層**：前幾條變體防的是自製檢查器的判準寫錯，這條防的是**尺根本沒被執行**，而 shell 的慣用寫法（管線離開碼只回最後一段、`2>/dev/null` 消音、空輸出即零）三件事合起來讓「沒跑」偽裝成「跑完是零」。→ memory/2026-09-27-08xxxx-twmd-maintainer-am.md
+- **可能層級**：通用反射（REFLEXES #99 的新載體，或 #24「工具在說謊」的第 N 種形式）
+- **相關**：REFLEXES #99（尺先驗再用，0 命中先過正控制。差別：#99 的正控制是為了驗「尺的判準對不對」，本條的正控制要先回答更前面一題「尺有沒有被執行」）；#24（工具在說謊；這是「驗證器空輸出假 PASS」的 shell 版）；#85（「不知道」要有自己的符號——`wc -l` 的 0 同時是「查無」與「沒查成」）；#82（proxy signal：拿 `wc -l` 的輸出當「命中數」的代理，而它其實是「這條管線最後印了幾行」）
+- **候選機械化**：量測類指令改寫成先驗執行再讀數——`set -o pipefail`、檢查 `${PIPESTATUS[0]}`、量測時不吞 stderr（要安靜就導到檔案再看大小），以及對跨平台 binary（`timeout` / `find` 的 GNU-only 旗標）先 `command -v` 再用。本班已在這輪逐條補做，但補的是這一輪的自律，不是閘門。
+- **instances**：
+- **verification_count**: 1
+- **severity**: structural
+
 ### 2026-09-27 twmd-feedback-triage — reconciliation-blind-to-what-reached-neither-side：對賬的兩個操作數共用同一個盲點，沒抵達任何一邊的那筆讓兩邊相等
 
 - **pattern**: `reconciliation-blind-to-what-reached-neither-side`
