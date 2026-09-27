@@ -39,7 +39,7 @@
     "test:ci": "npm run test:markdown && npm run test:heading-id && node scripts/core/test-frontmatter.mjs --ci",
     "test:markdown": "node --test tests/markdown-cjk.test.mjs",
     "test:heading-id": "node --experimental-strip-types --test tests/article-heading-id.test.mjs",
-    "postbuild": "node scripts/tools/check-url-contract.mjs --strict",
+    "postbuild": "node scripts/core/emit-sitemap-alias.mjs && node scripts/tools/check-url-contract.mjs --strict",
     "postbuild:smoke": "node scripts/core/post-build-check.mjs",
     "postbuild:internal-links": "bash scripts/tools/verify-internal-links.sh",
     "preview": "astro preview",

@@ -332,6 +332,18 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-27 twmd-maintainer-am — read-cap-outgrown-by-the-thing-it-reads：對賬器的取數上限被它要對賬的檔案長過去，一邊少驗、一邊假報，兩個方向互相掩護
+
+- **pattern**: `read-cap-outgrown-by-the-thing-it-reads`
+- **原則**：一個寫死的讀取上限，會在被讀的東西長過它的那一天失效，而那一天不會有任何輸出提到這件事。`check-url-contract.mjs` 讀 sitemap 用 `readHead(file, 16MB)`，旁邊的註解寫「sitemap 只有幾 MB，讀整份」——今天 `dist/sitemap-0.xml` 已經 **18.5MB**，超出的 3.4MB 被無聲切掉，**17,785 個 `<loc>` 只進來 13,218 個**。傷害有兩個方向，而且互相掩護：(1) **反向覆蓋多報**——sitemap 的尾端是字母序偏後的語言前綴，於是「存在卻沒公告」的名單冒出 **1,752 筆清一色 `/ru/`**，讀起來像俄文那一層的接線壞了，實際上是尺只量到一半；(2) **正向對賬少驗**——4,567 個 `<loc>` 從來沒被檢查過死活，而報告印的 `dead: 0` 跟「全驗過、全乾淨」逐字相同。一個假警報搭一個假綠燈，哪一邊單獨出現都會被追，兩邊一起出現就長得像「工具在正常工作，只是某個語言有問題」。
+- **觸發**：2026-09-27 本班跑完 20 天來第一次完整 build（dist 停在 09-07，死連結閘門因此連續回 STALE），順手跑 `check-url-contract` 看有沒有回歸，撞見「1,752 篇文章頁不在 sitemap」。抽一條 `/ru/people/ang-lee/` 去 `dist/sitemap-0.xml` grep——它在 `<loc>` 裡。假陽性成立之後才往上游追到 16MB 那個常數。**這支工具的誕生理由正是 2026-07-17 那次「站體對外公告 13,014 條死 URL、三個月沒人對帳」**，而它自己的取數上限把對帳做成了 74%，沒有一行輸出提過。修補（同班 ship）：sitemap 改整份 `readFileSync`、讀失敗出聲並記進 `sitemapReadFailures`、結果多印 `sitemapLocsIngested` 讓「進來幾個」變成看得見的數字。修完 ingested 13,218→17,786、反向覆蓋 1,752→0、正向 dead 仍 0（這次是完整的 0）。正控制兩道都過（餵一個不存在的公告會報 dead=1；把 sitemap chmod 000 會出聲並記錄，不會靜默回零）。→ memory/2026-09-27-08xxxx-twmd-maintainer-am.md
+- **可能層級**：通用反射（REFLEXES #41 的新載體——那條收的是 CI timeout 會跟內容量長大失效，本條是**讀取上限**同型；或 #82／#85 的家族）
+- **相關**：REFLEXES #41（會跟內容量長大失效的 capacity 設定。差別：#41 的失效會讓 job 紅掉、看得見；本條的失效讓結果變短而不變紅）；#52（免疫系統沒在 fail loud 比缺免疫系統更危險——截斷完全無聲）；#85（「不知道」要有自己的符號：被截掉的那段跟「那段沒有 loc」印出來一樣）；#24（工具在說謊，「驗證器空輸出假 PASS」的容量版）；#99（尺先驗再用）。**跟同日另一條 `absent-binary-and-rejected-flag-both-return-a-confident-zero` 是同一天同一個形狀的兩個載體**：一個在 shell 管線層（尺沒被執行），一個在讀取上限層（尺只執行了一部分），兩者都用「零」或「少」冒充完整。
+- **候選機械化**：任何「讀整份」的取數點，把實際讀進來的量印出來並跟來源的自述量對帳（sitemap 有 `<loc>` 數、CSV 有行數、JSON 有陣列長度）；上限存在時，讀到上限就是一個要出聲的事件，不是一個安靜的邊界。
+- **instances**：
+- **verification_count**: 1
+- **severity**: structural
+
 ### 2026-09-27 twmd-maintainer-am — absent-binary-and-rejected-flag-both-return-a-confident-zero：量測指令死在執行之前，讀出來的是一個乾淨的「沒事」
 
 - **pattern**: `absent-binary-and-rejected-flag-both-return-a-confident-zero`

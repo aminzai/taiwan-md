@@ -181,6 +181,10 @@
 # meta-refresh 頁，而產生器刻意略過帶副檔名的 source（.xml 路徑放不了 HTML 頁）。
 # 09-25 線上 curl /sitemap.xml 仍回 404。要真的接住，得在 build 產出裡放一份
 # sitemap.xml（例如複製 sitemap-index.xml），不是在這裡加規則。
+# ✅ 2026-09-27 maintainer-am：上面那句話寫了兩天沒有人動手，本班做掉了——
+# scripts/core/emit-sitemap-alias.mjs 在 postbuild 把 sitemap-index.xml 複製成
+# sitemap.xml，接住這個網址的是那個檔案，不是下面這條規則。下面這條留著，是因為
+# 若哪天搬回會讀 _redirects 的平台，它仍然是對的意圖；但它現在不是生效的那一層。
 /sitemap.xml /sitemap-index.xml 301
 
 # 2026-09-22 maintainer-am：en 六組同源雙檔收斂成一個 canonical 檔名（check-slug-consistency --all 第一段）。

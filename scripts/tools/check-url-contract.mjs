@@ -318,10 +318,46 @@ function main() {
     }
   }
 
+  const result_sitemapReadFailures = [];
+
+  // sitemap 一律整份讀，不設上限。
+  //
+  // ⚠️ 2026-09-27 twmd-maintainer-am：這裡原本寫 `readHead(file, 16MB)`，註解說
+  // 「a few MB，讀整份」——而 `dist/sitemap-0.xml` 當天已經長到 18.5MB。超過的
+  // 3.4MB 被無聲切掉：17,785 個 `<loc>` 只進來 13,218 個，少了 4,567 個。
+  //
+  // 兩層傷害，而且方向相反，所以互相掩護：
+  //   1. 反向覆蓋（存在卻沒公告）當場多報 1,752 個假缺席——sitemap 尾端是
+  //      字母序偏後的語言前綴，所以「缺席」名單清一色 /ru/，看起來像某個語言
+  //      的接線壞了，實際上是尺只量到一半。
+  //   2. 正向對賬（公告了卻不存在）少驗 4,567 個 `<loc>`，而 sitemap 那格印的
+  //      `dead: 0` 讀起來跟「全驗過、全乾淨」一模一樣。
+  //
+  // 這支工具誕生就是為了接住 hreflang 公告死 URL 那種「沒有人在對帳」的缺口，
+  // 而它自己的取數上限把對帳做成了半套，沒有任何一行輸出提過這件事。一個會
+  // 跟著站長大而失效的容量設定（REFLEXES #41 的同型），加上截斷不出聲
+  // （#52 fail loud／#85「不知道」要有自己的符號）。
+  //
+  // 修法兩件：整份讀（sitemap 是單一用途的純文字，記憶體吃得下），以及萬一
+  // 讀失敗就出聲，不讓空字串冒充「這份 sitemap 沒有 loc」。
   for (const file of sitemapFiles) {
-    // sitemap files can be a few MB but are single-purpose; read whole file.
-    const xml = readHead(file, 16 * 1024 * 1024); // 16MB cap, generous
+    let xml;
+    try {
+      xml = readFileSync(file, 'utf8');
+    } catch (err) {
+      console.error(
+        `[check-url-contract] ⚠️ 讀不到 sitemap ${file}：${err.message}。` +
+          `對賬會少掉這份的 <loc>，本次結果不完整。`,
+      );
+      result_sitemapReadFailures.push(file);
+      continue;
+    }
     const locs = extractSitemapLocs(xml);
+    if (locs.length === 0 && xml.length > 0) {
+      console.error(
+        `[check-url-contract] ⚠️ ${file} 有內容（${xml.length} bytes）但抽不到任何 <loc>。`,
+      );
+    }
     for (const loc of locs) {
       if (!announced.sitemap.has(loc)) announced.sitemap.set(loc, file);
     }
@@ -334,6 +370,8 @@ function main() {
     urlSetSize: urlSet.size,
     htmlScanned: htmlFiles.length,
     sitemapScanned: sitemapFiles.length,
+    sitemapLocsIngested: announced.sitemap.size,
+    sitemapReadFailures: result_sitemapReadFailures,
     elapsedMs: 0,
     totalAnnouncedUnique: 0,
     totalDead: 0,
