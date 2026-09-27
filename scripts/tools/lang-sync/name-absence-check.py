@@ -24,8 +24,12 @@ name-consistency-check 的規則 B 刻意只比人物頁標題（它的 docstrin
 漢越音（李登輝 → Lý Đăng Huy）與鄭成功 → Koxinga 這類合法寫法淹沒訊號，正控制也沒命中，不採用。
 發明出來的錯名只剩人物頁標題那一格（name-consistency 規則 A 的少數形）看得到。
 
+掃描範圍（2026-09-27 起）：原本寫死七個拉丁語系，被 check-hardcoded-langs 點名（語言清單要從 langs.py 來）。
+改成掃全部翻譯語言：非拉丁文字的譯文只在括號對照裡寫拉丁拼寫，那裡點名的人一樣該在 zh 裡；
+全庫多出 6 處候選（ja 1、hi 2、ar 3），例如 hi 某篇括號寫 Tsai Ing-wen、zh 原文沒有蔡英文。
+
 用法：
-  python3 name-absence-check.py                 # 全庫盤點（en es fr pt id vi de）
+  python3 name-absence-check.py                 # 全庫盤點（langs.py 的全部翻譯語言）
   python3 name-absence-check.py <譯文...>        # 指定檔案
   python3 name-absence-check.py --json
 輸出只列候選，exit 0；核對要回 zh 原文看那一句在講誰。
@@ -41,7 +45,8 @@ from pathlib import Path
 REPO = Path(__file__).resolve().parents[3]
 KNOWLEDGE = REPO / "knowledge"
 TABLE = Path(__file__).with_name("name-variants.json")
-LATIN_LANGS = ["en", "es", "fr", "pt", "id", "vi", "de"]
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from langs import ALL_TRANSLATION_LANGS  # noqa: E402
 
 # 表鍵 → 原文裡可能出現的其他稱呼。有任何一個在 zh 裡，就不算「原文沒提到」。
 ALIAS = {
@@ -110,7 +115,7 @@ def main() -> int:
     if args:
         files = [Path(a) if Path(a).is_absolute() else REPO / a for a in args]
     else:
-        files = [p for L in LATIN_LANGS for p in sorted((KNOWLEDGE / L).rglob("*.md"))]
+        files = [p for L in ALL_TRANSLATION_LANGS for p in sorted((KNOWLEDGE / L).rglob("*.md"))]
     hits = [h for f in files if f.is_file() for h in scan(f, forms, pat)]
     if "--json" in sys.argv:
         print(json.dumps(hits, ensure_ascii=False, indent=1))

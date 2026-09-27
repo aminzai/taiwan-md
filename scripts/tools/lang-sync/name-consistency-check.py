@@ -190,14 +190,26 @@ LATIN_TOKEN = r"[A-Z][A-Za-z'’.\-]*"
 HAN_NAME = r"[一-鿿]{2,4}"
 LATIN_BEFORE_HAN = re.compile(rf"((?:{LATIN_TOKEN}[ \t])+{LATIN_TOKEN})\s*[（(]({HAN_NAME})[）)]")
 HAN_BEFORE_LATIN = re.compile(rf"({HAN_NAME})\s*[（(]({LATIN_TOKEN}(?:[ \t]{LATIN_TOKEN}){{1,3}})[）)]")
-LATIN_LANGS = {"en", "es", "fr", "pt", "id", "vi", "de"}
+def _latin_langs() -> set:
+    """拉丁字母語言＝target-language-check 有功能詞表的語言（它的 LATIN_LANGS 就是 set(FUNCTION_WORDS)）。
+    新增一個拉丁語系得先在那裡補功能詞，否則目標語言閘門判不了它；這裡跟著走，不另外寫死一份
+    （2026-09-27 前是集合字面值，check-hardcoded-langs 只抓串列字面值，所以沒被點名）。"""
+    import importlib.util
+    spec = importlib.util.spec_from_file_location(
+        "target_language_check", Path(__file__).with_name("target-language-check.py"))
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    return set(mod.LATIN_LANGS)
+
+
+LATIN_LANGS = _latin_langs()
 COMMON_DF = 100
 
 
 # 句首的大寫虛詞不是名字的一部分：「In Taipei (台北)」「According Lee (李)」。
 LEADING_NOISE = {"In", "At", "On", "The", "A", "An", "By", "For", "From", "With", "As", "And",
                  "But", "When", "After", "Before", "While", "According", "Both", "Le", "La",
-                 "Les", "Du", "De", "Des", "El", "Los", "Las", "Der", "Die", "Das", "Em", "No",
+                 "Les", "Du", "De", "Des", "El", "Los", "Las", "Der", "Die", "Das", "Als", "Em", "No",
                  "Na", "Di", "Ke", "Dan", "Của", "Và", "Ở", "Tại"}
 
 
