@@ -232,7 +232,7 @@ Ngày hôm đó, khi kết thúc hạn án, khoản tiền phạt đã được 
 - [Chen Hsin-yi](/vi/people/chen-hsing-yu) — Người chị bị kết án cùng vụ án chứng giả, sau này mở phòng khám nha khoa ở Tainan, cách cách nhìn nhận của cô khác với anh
 - [Taiwan Chọn bầu và Chính trị Đảng](/vi/history/taiwan-elections-and-party-politics) — Cách quyết định ai được đứng trên phiếu bầu qua khu vực bầu cử đa số, đề xuất của đảng và lực lượng địa phương
 - [Cải cách Tòa án và Hệ thống Giam giữ phòng ngừa ở Taiwan](/vi/society/taiwan-judicial-reform-and-preventive-detention) — Thiết kế và tranh cãi của quy trình hình sự, nơi các bản án và cơ chế sa thải trong bài viết này tồn tại
-- [Công lý chuyển đổi ở Taiwan](/vi/history/taiwan-transitional-justice) — Lịch sử của Tháng Tư 28 và các cuộc thanh lọc sau này, dự án nhà hát kịch thơ Kaohsiung Tháng Tư 28 do anh đề xuất nằm trong dòng thời gian này
+- [Công lý chuyển đổi ở Taiwan](/vi/history/taiwan-transitional-justice) — Lịch sử của 228 và các cuộc thanh lọc sau này, dự án nhà hát kịch thơ Kaohsiung 228 do anh đề xuất nằm trong dòng thời gian này
 - [Thành phố Kaohsiung](/vi/geography/kaohsiung-city) — Khu công nghiệp tiền trạm và khu vực khác của thành phố này
 
 ## Nguồn hình ảnh

@@ -141,7 +141,7 @@ Nếu vào năm 2050 có ai muốn biết người Đài Loan năm 1987 quan tâ
 
 - [Dân chủ hóa](/vi/history/taiwan-democratization-history) — Quá trình Đài Loan tiến tới dân chủ sau khi dỡ bỏ lệnh giới nghiêm.
 
-- [Sự kiện Hai Hai Ba (228)](/vi/history/228-incident) — Bước ngoặt lịch sử năm 1947 trước thời kỳ giới nghiêm.
+- [Sự kiện 228](/vi/history/228-incident) — Bước ngoặt lịch sử năm 1947 trước thời kỳ giới nghiêm.
 
 - [Tư pháp chuyển đổi Đài Loan](/vi/history/taiwan-transitional-justice) — Điều tra sự thật và truy cứu thủ phạm sau khi dỡ bỏ lệnh giới nghiêm.
 

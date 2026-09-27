@@ -173,9 +173,9 @@ Nhưng con cháu của khoảng 5.000 người dân trong các trường đại 
 - [Thời kỳ giới nghiêm](/vi/history/martial-law-era) — Vỏ bọc pháp lý và quá trình dỡ bỏ lệnh giới nghiêm kéo dài 38 năm 56 ngày
 - [Công lý chuyển tiếp Đài Loan](/vi/history/taiwan-transitional-justice) — Công cuộc điều tra sự thật sau khi dỡ bỏ lệnh giới nghiêm và truy cứu thủ phạm chưa hoàn thành
 - [Bảo tàng Nhân quyền Quốc gia](/vi/history/national-human-rights-museum) — Cơ quan quản lý hai khu tưởng niệm Khủng bố Trắng ở Cảnh Mỹ và Lục Đảo, từ sáu năm chuẩn bị đến việc ngân sách bị đóng băng vào năm 2025
-- [Sự kiện Hai Hai Ba](/vi/history/228-incident) — Tiền đề của Khủng bố Trắng, sự đàn áp năm 1947 đã báo trước chế độ giới nghiêm
+- [Sự kiện 228](/vi/history/228-incident) — Tiền đề của Khủng bố Trắng, sự đàn áp năm 1947 đã báo trước chế độ giới nghiêm
 - [Sự kiện Cao Hùng](/vi/history/kaohsiung-incident-formosa-incident) — Bước ngoặt quan trọng vào cuối thời kỳ Khủng bố Trắng năm 1979
-- [Viện Nghiên cứu Trung ương](/society/中央研究院) — Cơ quan đã xuất bản các cuộc phỏng vấn truyền miệng về 《Ký ức Trắng》 của Viện Lịch sử Đài Loan, và giai đoạn chuyển hướng đối tượng nghiên cứu sang hòn đảo này
+- [Viện Nghiên cứu Trung ương](/vi/society/academia-sinica) — Cơ quan đã xuất bản các cuộc phỏng vấn truyền miệng về 《Ký ức Trắng》 của Viện Lịch sử Đài Loan, và giai đoạn chuyển hướng đối tượng nghiên cứu sang hòn đảo này
 - [Ây Sơn: Vườn cây của đế quốc và Cao Nhất Sinh](/vi/history/alishan-empire-forest-and-uongu-yatauyungana) — Câu chuyện về núi của Cao Nhất Sinh và sự bịt miệng của các dân tộc bản địa
 - [Hóa đơn: Tờ giấy năm 1951 biến toàn dân thành nhân viên kiểm tra thuế](/vi/economy/taiwan-uniform-invoice) — Bản thân người thiết kế hệ thống hóa đơn, Nhậm Hiển Quần (任顯群), cũng sống trong cùng thời đại, bị bắt giam vào năm 1955 với tội "biết kẻ thù mà không báo cáo", một chiếc mũ đủ để gây chết người
 - [Ân Hải Quang](/vi/people/yin-haiguang-liberalism-philosopher) — Giáo sư khoa Triết học Đại học Đài Loan bị giam lỏng tại Ngõ 18, Ôn Châu sau vụ án Lôi Chấn năm 1960, người khai sinh ra chủ nghĩa tự do ở Đài Loan
