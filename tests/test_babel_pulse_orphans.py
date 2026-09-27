@@ -151,3 +151,17 @@ def test_translation_that_stops_after_the_first_sections_is_counted(tmp_path, mo
     r = MODULE.truncated_translations()
     assert r["count"] == 1
     assert r["sample"][0]["path"] == "knowledge/en/Economy/cut.md" and r["sample"][0]["h2"] == "8→2"
+
+
+def test_translation_that_dropped_every_source_is_counted(tmp_path, monkeypatch):
+    # 2026-09-27 實例：fr〈台灣官方網站資源〉zh 引了 53 個網址，法文版一個都沒有
+    zh_dir, en_dir = tmp_path / "knowledge" / "About", tmp_path / "knowledge" / "en" / "About"
+    zh_dir.mkdir(parents=True)
+    en_dir.mkdir(parents=True)
+    links = "".join(f"- https://example.gov.tw/{i}\n" for i in range(6))
+    (zh_dir / "x.md").write_text("---\ntitle: x\n---\n## 一\n\n內容\n\n## 參考資料\n\n" + links, encoding="utf-8")
+    (en_dir / "kept.md").write_text("---\ntranslatedFrom: 'About/x.md'\n---\n## One\n\ntext\n\n## References\n\n" + links, encoding="utf-8")
+    (en_dir / "dropped.md").write_text("---\ntranslatedFrom: 'About/x.md'\n---\n## One\n\ntext\n", encoding="utf-8")
+    monkeypatch.setattr(MODULE, "REPO", tmp_path)
+    r = MODULE.content_gaps()["no_sources"]
+    assert r["count"] == 1 and r["sample"] == [{"path": "knowledge/en/About/dropped.md", "zh_urls": 6}]

@@ -232,11 +232,16 @@ SRC_RE = re.compile(r"^translatedFrom:\s*['\"]?([^'\"\n]+)", re.M)
 H2_RE = re.compile(r"^## ", re.M)
 
 
-def truncated_translations(min_h2: int = 4) -> dict:
-    """status 算 fresh、但只譯了前段的譯文：## 章節不到 zh 的六成，篇幅也不到該語言正常比例的七成。
+URL_RE = re.compile(r"https?://")
 
-    為什麼要數（2026-09-27 渦流第二十一輪）：es〈長榮海運〉zh 八個章節只譯到第二個、ja〈楊勇緯〉十五個只有
-    五個，參考資料整段不見，版本標記照樣是新的。verify 的章節數與篇幅比對只是 WARN，dispatcher 收下了。
+
+def content_gaps(min_h2: int = 4, min_urls: int = 5) -> dict:
+    """status 算 fresh、內容卻缺一大塊的譯文，兩族一次掃：
+
+    截斷：## 章節不到 zh 的六成、篇幅也不到該語言正常比例的七成（2026-09-27 渦流第二十一輪：es〈長榮海運〉
+    zh 八個章節只譯到第二個、ja〈楊勇緯〉十五個只有五個，版本標記照樣是新的；verify 的章節數與篇幅比對只是 WARN）。
+    無出處：zh 引了 ≥5 個網址、譯文一個都沒有（第二十二輪：fr〈台灣官方網站資源〉zh 53 個網址、法文版 0 個，
+    參考資料整段不見；站上的文章靠出處立足，沒有出處的譯文等於少了一半）。
     「正常比例」取該語言全部譯文對 zh 篇幅比的中位數，不寫死每個語言的數字，新語言出生也適用。
     """
     pairs = collections.defaultdict(list)
@@ -252,15 +257,24 @@ def truncated_translations(min_h2: int = 4) -> dict:
             z = zp.read_text(encoding="utf-8", errors="replace")
             zb, tb = z.split("\n---", 1)[-1], t.split("\n---", 1)[-1]
             pairs[lang].append((p.relative_to(REPO).as_posix(), len(H2_RE.findall(z)), len(H2_RE.findall(t)),
-                                len(tb) / max(1, len(zb))))
-    hits, by_lang = [], {}
+                                len(tb) / max(1, len(zb)), len(URL_RE.findall(zb)), len(URL_RE.findall(tb))))
+    trunc, nosrc = [], []
+    trunc_by, nosrc_by = {}, {}
     for lang, rows in pairs.items():
         med = statistics.median(r[3] for r in rows)
-        for rel, zh2, tr2, ratio in rows:
+        for rel, zh2, tr2, ratio, zu, tu in rows:
             if zh2 >= min_h2 and tr2 <= 0.6 * zh2 and ratio / med < 0.7:
-                hits.append({"path": rel, "h2": f"{zh2}→{tr2}", "length": round(ratio / med, 2)})
-                by_lang[lang] = by_lang.get(lang, 0) + 1
-    return {"count": len(hits), "by_lang": by_lang, "sample": hits[:12]}
+                trunc.append({"path": rel, "h2": f"{zh2}→{tr2}", "length": round(ratio / med, 2)})
+                trunc_by[lang] = trunc_by.get(lang, 0) + 1
+            if zu >= min_urls and tu == 0:
+                nosrc.append({"path": rel, "zh_urls": zu})
+                nosrc_by[lang] = nosrc_by.get(lang, 0) + 1
+    return {"truncated": {"count": len(trunc), "by_lang": trunc_by, "sample": trunc[:12]},
+            "no_sources": {"count": len(nosrc), "by_lang": nosrc_by, "sample": nosrc[:12]}}
+
+
+def truncated_translations(min_h2: int = 4) -> dict:
+    return content_gaps(min_h2)["truncated"]
 
 
 def rate_window(rows: list, hours: float):
@@ -325,8 +339,8 @@ def build_payload(rows: list) -> dict:
         "leftover_staged": leftover_staged(),
         # gap 算 fresh、實際不是目標語言的譯文（整篇錯語／尾段漂移）
         "language_mismatch": language_mismatch(),
-        # gap 算 fresh、實際只譯了前段的譯文
-        "truncated": truncated_translations(),
+        # gap 算 fresh、內容卻缺一大塊的譯文（截斷／無出處），同一次掃描
+        **content_gaps(),
         "history": [
             {"ts": r["ts"],
              "fresh_total": sum(v["fresh"] for v in r["langs"].values()),
@@ -391,6 +405,8 @@ def render_html(d: dict) -> str:
     lm_col = "#dc2626" if lm["total"] else "var(--mut)"
     tr_n = (d.get("truncated") or {}).get("count", 0)
     tr_col = "#dc2626" if tr_n else "var(--mut)"
+    ns_n = (d.get("no_sources") or {}).get("count", 0)
+    ns_col = "#dc2626" if ns_n else "var(--mut)"
     return f"""<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>巴別塔脈搏 — Taiwan.md</title>
@@ -427,6 +443,7 @@ svg{{width:100%;height:70px;display:block}}
 <div class="kpi"><u>粗估到 100%</u><strong>{d.get("eta_days") or "—"}</strong><em>天（依當前速率）</em></div>
 <div class="kpi"><u>語言數</u><strong>{len(d["langs"])}</strong><em>zh 母本 {d["total_zh"]} 篇</em></div>
 <div class="kpi"><u>只在工作樹的譯文（孤兒）</u><strong style="color:{orph_col}">{n_orph}</strong><em>缺口不含這些；另 {unc["pending"]} 篇在產線批次中</em></div>
+<div class="kpi"><u>算 fresh 但沒有出處</u><strong style="color:{ns_col}">{ns_n}</strong><em>zh 引了 ≥5 個網址、譯文 0 個</em></div>
 <div class="kpi"><u>算 fresh 但只譯了前段</u><strong style="color:{tr_col}">{tr_n}</strong><em>章節不到 zh 六成、篇幅不到七成</em></div>
 <div class="kpi"><u>算 fresh 但不是目標語言</u><strong style="color:{lm_col}">{lm["total"]}</strong><em>整篇錯語 {lm["wrong_language"]}／尾段漂移 {lm["foreign_script"]}</em></div>
 </div>
@@ -531,7 +548,7 @@ def main():
         f"孤兒={len(unc['orphans'])} 批次中={unc['pending']} 殘留暫存={len(payload['leftover_staged'])} "
         f"語言不符={payload['language_mismatch']['total']}"
         f"（整篇錯語 {payload['language_mismatch']['wrong_language']}／尾段漂移 {payload['language_mismatch']['foreign_script']}）"
-        f" 截斷={payload['truncated']['count']}"
+        f" 截斷={payload['truncated']['count']} 無出處={payload['no_sources']['count']}"
         f" → {OUT_JSON.name} + {OUT_HTML.name}")
     for o in unc["orphans"]:
         log(f"  孤兒 {o['xy'].strip() or '?'} {o['path']}（{o['age_min']} 分鐘未 commit，不在活產線批次）")

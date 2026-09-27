@@ -3,7 +3,7 @@ title: 'BABEL-VORTEX-LOOP'
 description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.55)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.74'
+current_version: 'v1.75'
 last_updated: 2026-09-27
 last_session: '2026-09-26-100333-babel-vortex（翻譯率 100% 模式：推送常駐、付費 Haiku、閘門家族、委派 worktree 路徑陷阱與核准視窗、腳註修復器的語言盲）'
 sister_docs:
@@ -293,6 +293,12 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 證據（重試觸發次數），不是相關性。
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
+
+- v1.75（2026-09-27 深夜第二十二輪）：**沒有出處的譯文也算 fresh**。上一輪網址重疊率的尺有洞，但其中一格不受影響：
+  譯文一個網址都沒有、zh 卻引了五個以上。全庫 11 篇，fr〈台灣官方網站資源〉zh 53 個網址、法文版 0 個，章節也只剩
+  七成；多數同時少了章節、篇幅偏短，只有少數是單純丟了參考資料區。站上文章靠出處立足，這類譯文交第十四波
+  （10 Haiku＋1 Sonnet）照 zh 重譯。`babel-pulse` 把截斷與無出處併成同一次掃描（`content_gaps()`），log 多一個
+  `無出處=N`。同族存量（出處只少一部分）仍是 OBSERVER-QUEUE #61，這裡只收全部丟光的極端。
 
 - v1.74（2026-09-27 夜間第二十一輪續）：**閘門又逼 agent 改內容換綠燈**（v1.55 (a) 第二次）。第十三波 11 篇截斷譯文
   全數重譯上站，驗收時看到兩隻 ja agent 動了標題：`verify` 把「ja 標題跟 zh 一字不差」一律判成沒翻，而 ja〈楊勇緯〉
