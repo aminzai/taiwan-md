@@ -125,7 +125,7 @@ Tính cần thiết của thiết quân luật, chi tiêu quân sự lớn lao, 
 
 Nhưng tiền đề này, chưa bao giờ được thực hiện.
 
-Năm 1950 Chiến tranh Hàn bùng phát, Hạm đội Thứ Bảy của Mỹ bảo vệ eo biển Đài Loan, Đài Loan tạm thời an toàn, nhưng cũng có nghĩa là quân của Tưởng không có cơ hội tái chiếm. Năm 1958 cuộc pháo kích Tám Nhị Tam, Kim Môn vượt qua hạn pháo, nhưng tái chiếm cũng không xảy ra. Năm 1971, Trung Hoa Dân Quốc bị buộc rút khỏi Liên Hợp Quốc, vị thế "đại diện Trung Quốc" trên trường quốc tế hoàn toàn mất.
+Năm 1950 Chiến tranh Hàn bùng phát, Hạm đội Thứ Bảy của Mỹ bảo vệ eo biển Đài Loan, Đài Loan tạm thời an toàn, nhưng cũng có nghĩa là quân của Tưởng không có cơ hội tái chiếm. Năm 1958 cuộc pháo kích 823, Kim Môn vượt qua hạn pháo, nhưng tái chiếm cũng không xảy ra. Năm 1971, Trung Hoa Dân Quốc bị buộc rút khỏi Liên Hợp Quốc, vị thế "đại diện Trung Quốc" trên trường quốc tế hoàn toàn mất.
 
 Sự tác động của năm này, đối với Tưởng Giới Thạch 84 tuổi là khủng khiếp. Nhật ký ghi lại, ông cảm thấy sâu sắc sự nhục nhã. Nhưng ông không thay đổi lập trường: tái chiếm lục địa, một Trung Quốc, tuyệt đối không chấp nhận "hai Trung Quốc".
 

@@ -34,7 +34,7 @@ Si vous vous arrêtez à l’entrée n°111 de la rue Gushan à Kaohsiung, vous 
 
 ### Première vie : Adieux et retrouvailles (1967-1998)
 
-L’année suivant les tirs de l’« Action de printemps de 1958 », la mairie de Kaohsiung décida de construire un hôtel dédié aux officiers partant vers les lignes de Kinmen-Matsu. Cependant, le terrain devait être comblé, ce qui retarda la fondation de huit ans.
+L’année suivant le bombardement du 23 août 1958, la mairie de Kaohsiung décida de construire un hôtel dédié aux officiers partant vers les lignes de Kinmen-Matsu. Cependant, le terrain devait être comblé, ce qui retarda la fondation de huit ans.
 
 Le 26 septembre 1967, l’hôtel fut inauguré avec un budget de 12 millions de nouveaux dollars taïwanais par la Société des Amis des Soldats. À la même époque, une autre bâtisse identique ouvrit à Keelung, au nord et au sud, toutes deux ayant pour mission d’offrir un lieu de repos aux soldats chanceux d’obtenir le « prix Kinmen-Matsu » — un concept bien compris par ceux qui ont servi à l’époque.
 

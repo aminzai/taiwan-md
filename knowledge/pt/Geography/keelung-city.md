@@ -193,16 +193,16 @@ Da próxima vez que for a Keelung, não visite apenas o Mercado do Templo. Tente
 - [Desenvolvimento Urbano e Disparidade Urbano-Rural em Taiwan](/pt/geography/taiwan-urban-development-and-rural-urban-divide) — Vendo Keelung como "porto em declínio" na estrutura urbana de Taiwan de uma escala maior
 - [Divisão Administrativa de Taiwan](/pt/geography/administrative-divisions-of-taiwan) — Evolução administrativa: renomeação por Shen Baozhen em 1875, elevado a cidade em 1924, elevado a cidade sob província em 1945
 - [Características Urbanas e Cultura Regional](/pt/geography/urban-character-and-regional-culture) — Contexto de comparação de Keelung com outros condados e cidades
-- [Jinguishi](/geography/金瓜石) — A maior indústria de hinterland do Porto de Keelung: em 1932, o teleférico de Shuandong transportava ouro para o Porto de Pesca de Zhengbin para embarcar para o Japão
+- [Jinguishi](/pt/geography/jinguashi) — A maior indústria de hinterland do Porto de Keelung: em 1932, o teleférico de Shuandong transportava ouro para o Porto de Pesca de Zhengbin para embarcar para o Japão
 - [Yehliu](/pt/geography/yehliu-geopark) — Pertence à mesma faixa de paisagem geológica da Costa Norte
-- [Terreno Costeiro e Paisagem Marítima de Taiwan](/geography/台灣海岸地形與海洋地景) — Formação da Ilha Keelung e do Grupo Vulcânico de Keelung
-- [Cidade de Chiayi](/geography/嘉義市) — Outra cidade média sob província da Série 22 Condados e Cidades, uma cidade pressionada pelo enquadramento da capital como Keelung, comparando duas falhas diferentes
-- [Condado de Lienchiang (Matsu)](/geography/連江縣) — Série 22 Condados e Cidades: o ferry Ta-Ma balouça do Porto de Keelung para Nangan por 8 a 10 horas; Keelung é o ponto de conexão física de Matsu e da ilha principal de Taiwan
-- [Condado de Miaoli](/geography/苗栗縣) — Série 22 Condados e Cidades: a teimosia hakka vs. o paradoxo do prefeito de cinco estrelas, apresentando dois aspectos da política local junto com "ser invisível para a capital"
+- [Terreno Costeiro e Paisagem Marítima de Taiwan](/pt/geography/taiwan-coastal-landforms-and-seascapes) — Formação da Ilha Keelung e do Grupo Vulcânico de Keelung
+- [Cidade de Chiayi](/pt/geography/chiayi-city) — Outra cidade média sob província da Série 22 Condados e Cidades, uma cidade pressionada pelo enquadramento da capital como Keelung, comparando duas falhas diferentes
+- [Condado de Lienchiang (Matsu)](/pt/geography/lienchiang-county) — Série 22 Condados e Cidades: o ferry Ta-Ma balouça do Porto de Keelung para Nangan por 8 a 10 horas; Keelung é o ponto de conexão física de Matsu e da ilha principal de Taiwan
+- [Condado de Miaoli](/pt/geography/miaoli-county) — Série 22 Condados e Cidades: a teimosia hakka vs. o paradoxo do prefeito de cinco estrelas, apresentando dois aspectos da política local junto com "ser invisível para a capital"
 - [Condado de Penghu](/pt/geography/penghu-county) — Série 22 Condados e Cidades: a escolha de soberania de ilha afastada rejeitando jogos de azar duas vezes, um ponto de partida portuário esquecido como Keelung
 - [Condado de Yilan](/pt/geography/yilan-county) — Série 22 Condados e Cidades: os dois Yilans antes e depois do Túnel Xueshan, enfrentando o destino de "estar muito perto da capital" como Keelung
-- [Condado de Pingtung](/geography/屏東縣) — Série 22 Condados e Cidades: o evento de Mudan em 1874 mudou o destino de Taiwan / a área de desastre grave de Linbian alagada por um mês no ciclone 88 de 2009, um "nó chave perdido na narrativa central" como Keelung
-- [Condado de Kinmen](/pt/geography/kinmen-county) — Série 22 Condados e Cidades: as 56 horas de Guting em 1949 decidiram o destino de 75 anos de Kinmen e também de Taiwan / 44 dias e 474.910 tiros de artilharia em 1958, duas versões de "frente quente da Guerra Fria" como Keelung
+- [Condado de Pingtung](/pt/geography/pingtung-county) — Série 22 Condados e Cidades: o evento de Mudan em 1874 mudou o destino de Taiwan / a área de desastre grave de Linbian alagada por um mês no ciclone 88 de 2009, um "nó chave perdido na narrativa central" como Keelung
+- [Condado de Kinmen](/pt/geography/kinmen-county) — Série 22 Condados e Cidades: as 56 horas de Guting em 1949 decidiram o destino de 75 anos de Kinmen e também de Taiwan / 44 dias e 474.910 tiros de artilharia no bombardeio de 23 de agosto de 1958, duas versões de "frente quente da Guerra Fria" como Keelung
 
 ## Fontes de Imagem
 

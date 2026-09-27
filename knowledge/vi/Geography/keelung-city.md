@@ -188,19 +188,19 @@ Lần tới tới Cơ Long, đừng chỉ đi chơi chợ Miếu. Thử rời Đ
 
 ## Mở Rộng Đọc Thêm
 
-- [Phát Triển Đô Thị Đài Loan Và Khoảng Cách Thành Thị-Nông Thôn](/geography/台灣都市發展與城鄉差距) — Nhìn từ lớp độ lớn hơn, vị trí của "cảng suy tàn" Cơ Long trong kết cấu đô thị toàn Đài Loan
-- [Khu Hành Chính Đài Loan](/geography/台灣行政區劃) — Lịch sử hành chính: năm 1875 Trần Bảo Chân đổi tên, 1924 nâng cấp thành thành phố, 1945 đổi thành thành phố trực thuộc tỉnh
-- [Đặc Sắc Thành Phố Và Văn Hóa Khu Vực](/geography/城市特色與區域文化) — Ngữ cảnh so sánh Cơ Long với các tỉnh thành khác
-- [Kim Quầu Thạch](/geography/金瓜石) — Ngành công nghiệp hinterland lớn nhất cảng Cơ Long: năm 1932 cáp lộ lơ lửng lấy vàng tới cảng cá Chính Tân lên tàu tới Nhật Bản
-- [Dã Liễu](/geography/野柳) — Cùng thuộc dải cảnh quan địa chất Bắc Hải
-- [Địa Hình Bờ Biển Đài Loan Và Cảnh Quan Hải Dương](/geography/台灣海岸地形與海洋地景) — Hình thành Đảo Cơ Long Và Quần Núi Lửa Cơ Long
-- [Thành Phố Chiayi](/geography/嘉義市) — Loạt bài 22 tỉnh thành: thành phố trung bình khác, giống Cơ Long cũng bị khung thủ đô ép chặt, so sánh hai kiểu lỗi khác nhau
-- [Liên Giang Huyện](/geography/連江縣) — Loạt bài 22 tỉnh thành: tàu Đài Mã từ cảng Cơ Long lắc tới Mã Tổ Nước Nam mất 8 tới 10 tiếng, Cơ Long là điểm kết nối vật lý Mã Tổ và lục địa Đài Loan
-- [Miêu Lật Huyện](/geography/苗栗縣) — Loạt bài 22 tỉnh thành: khách Gia thiết quân luật cứng cỏi so với nghịch lý quận trưởng năm sao, kế bên "Cơ Long được thủ đô không thấy" hai kiểu chính trị địa phương
-- [Bành Hồ Huyện](/geography/澎湖縣) — Loạt bài 22 tỉnh thành: hai lần từ chối cá cược chọn chủ quyền đảo, giống Cơ Long cũng là "cảng bị lãng quên khởi điểm"
-- [Nghi Lan Huyện](/geography/宜蘭縣) — Loạt bài 22 tỉnh thành: hai cái Nghi Lan trước-sau Đường Tuyết Sơn, giống Cơ Long cũng đối mặt số phận "gần thủ đô quá"
-- [Bình Đông Huyện](/geography/屏東縣) — Loạt bài 22 tỉnh thành: sự kiện Bồ Đàn 1874 thay đổi số mệnh Đài Loan là điểm khởi đầu / vùng thiệt hại nặng nề 88 gió lũ năm 2009 Lâm Biên ngập một tháng, giống Cơ Long cũng là "nút chính sách trung tâm bỏ sót"
-- [Kim Môn Huyện](/geography/金門縣) — Loạt bài 22 tỉnh thành: 1949 Cổ Ninh Đầu 56 tiếng quyết định số mệnh Kim Môn 75 năm cũng quyết định Đài Loan / 1958 Bát Nhị Tam 44 ngày 474.910 phát pháo, giống Cơ Long cũng là hai kiểu phiên bản "tiền tuyến Chiến Tranh Lạnh nóng"
+- [Phát Triển Đô Thị Đài Loan Và Khoảng Cách Thành Thị-Nông Thôn](/vi/geography/taiwan-urban-development-and-rural-urban-divide) — Nhìn từ lớp độ lớn hơn, vị trí của "cảng suy tàn" Cơ Long trong kết cấu đô thị toàn Đài Loan
+- [Khu Hành Chính Đài Loan](/vi/geography/administrative-divisions-of-taiwan) — Lịch sử hành chính: năm 1875 Trần Bảo Chân đổi tên, 1924 nâng cấp thành thành phố, 1945 đổi thành thành phố trực thuộc tỉnh
+- [Đặc Sắc Thành Phố Và Văn Hóa Khu Vực](/vi/geography/urban-character-and-regional-culture) — Ngữ cảnh so sánh Cơ Long với các tỉnh thành khác
+- [Kim Quầu Thạch](/vi/geography/jinguashi) — Ngành công nghiệp hinterland lớn nhất cảng Cơ Long: năm 1932 cáp lộ lơ lửng lấy vàng tới cảng cá Chính Tân lên tàu tới Nhật Bản
+- [Dã Liễu](/vi/geography/yehliu-geopark) — Cùng thuộc dải cảnh quan địa chất Bắc Hải
+- [Địa Hình Bờ Biển Đài Loan Và Cảnh Quan Hải Dương](/vi/geography/taiwan-coastal-landforms-and-seascapes) — Hình thành Đảo Cơ Long Và Quần Núi Lửa Cơ Long
+- [Thành Phố Chiayi](/vi/geography/chiayi-city) — Loạt bài 22 tỉnh thành: thành phố trung bình khác, giống Cơ Long cũng bị khung thủ đô ép chặt, so sánh hai kiểu lỗi khác nhau
+- [Liên Giang Huyện](/vi/geography/lienchiang-county) — Loạt bài 22 tỉnh thành: tàu Đài Mã từ cảng Cơ Long lắc tới Mã Tổ Nước Nam mất 8 tới 10 tiếng, Cơ Long là điểm kết nối vật lý Mã Tổ và lục địa Đài Loan
+- [Miêu Lật Huyện](/vi/geography/miaoli-county) — Loạt bài 22 tỉnh thành: khách Gia thiết quân luật cứng cỏi so với nghịch lý quận trưởng năm sao, kế bên "Cơ Long được thủ đô không thấy" hai kiểu chính trị địa phương
+- [Bành Hồ Huyện](/vi/geography/penghu-county) — Loạt bài 22 tỉnh thành: hai lần từ chối cá cược chọn chủ quyền đảo, giống Cơ Long cũng là "cảng bị lãng quên khởi điểm"
+- [Nghi Lan Huyện](/vi/geography/yilan-county) — Loạt bài 22 tỉnh thành: hai cái Nghi Lan trước-sau Đường Tuyết Sơn, giống Cơ Long cũng đối mặt số phận "gần thủ đô quá"
+- [Bình Đông Huyện](/vi/geography/pingtung-county) — Loạt bài 22 tỉnh thành: sự kiện Bồ Đàn 1874 thay đổi số mệnh Đài Loan là điểm khởi đầu / vùng thiệt hại nặng nề 88 gió lũ năm 2009 Lâm Biên ngập một tháng, giống Cơ Long cũng là "nút chính sách trung tâm bỏ sót"
+- [Kim Môn Huyện](/vi/geography/kinmen-county) — Loạt bài 22 tỉnh thành: 1949 Cổ Ninh Đầu 56 tiếng quyết định số mệnh Kim Môn 75 năm cũng quyết định Đài Loan / Pháo chiến 823 năm 1958: 44 ngày 474.910 phát pháo, giống Cơ Long cũng là hai kiểu phiên bản "tiền tuyến Chiến Tranh Lạnh nóng"
 
 ## Nguồn Gốc Hình Ảnh
 

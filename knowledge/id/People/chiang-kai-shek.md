@@ -140,7 +140,7 @@ Alasan resmi mengapa masa darurat diperlukan, besarnya anggaran militer, dan ket
 
 Namun, premis ini tidak pernah terwujud.
 
-Ketika Perang Korea pecah pada tahun 1950, Armada Ketujuh Amerika Serikat membantu mempertahankan Selat Taiwan; Taiwan sementara aman, tetapi itu berarti pasukan Chiang tidak memiliki kesempatan untuk melakukan serangan balik. Dalam Pertempuran Baizan (八二三砲戰) tahun 1958, Kinmen bertahan di bawah tembakan, tetapi serangan balik tetap tidak terjadi. Pada tahun 1971, Republik Tiongkok terpaksa keluar dari Perserikatan Bangsa-Bangsa, dan status "perwakilan Tiongkok" mereka di kancah internasional benar-benar hilang.
+Ketika Perang Korea pecah pada tahun 1950, Armada Ketujuh Amerika Serikat membantu mempertahankan Selat Taiwan; Taiwan sementara aman, tetapi itu berarti pasukan Chiang tidak memiliki kesempatan untuk melakukan serangan balik. Dalam Pertempuran Artileri 23 Agustus 1958, Kinmen bertahan di bawah tembakan, tetapi serangan balik tetap tidak terjadi. Pada tahun 1971, Republik Tiongkok terpaksa keluar dari Perserikatan Bangsa-Bangsa, dan status "perwakilan Tiongkok" mereka di kancah internasional benar-benar hilang.
 
 Guncangan pada tahun itu merupakan pukulan besar bagi Chiang Kai-shek yang berusia 84 tahun. Catatannya menunjukkan rasa malu yang mendalam. Namun ia tidak mengubah posisinya: Serangan Balik ke Daratan, Satu Tiongkok, menolak konsep "Dua Tiongkok."
 

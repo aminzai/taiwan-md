@@ -106,7 +106,7 @@ Nửa sau thập niên 1980, hình ảnh anh ta đeo kính đen, dùng gậy di 
 
 Mùa thu năm 1989, **Nhà Xuất Bản Sao Mai** ở Đài Trung phát hành «Bông Lúa Xinh Đẹp»[^20].
 
-Tên sách có nguồn gốc từ nhạc sĩ người dân tộc Puyuma **Lục Sâm Bảo** (1910-1988) viết năm 1958 bài hát «Năm Mùa Gặt» (sau được gọi «Bông Lúa Xinh Đẹp»), ban đầu được viết cho anh em quân nhân người Puyuma được điều động tới Kim Môn trong thời kỳ pháo kích tám hai ba[^21]. Lục Sâm Bảo viết về dân tộc Puyuma, Hồ Đức Phủ ca hát vào thập niên 1970 trong phong trào dân ca hiện đại, người Paiwan Monaneng sử dụng làm tên sách — chính sự sử dụng qua các dân tộc đó đã là một tuyên bố: khái niệm người bản địa, đang được nhóm người này tái lắp ráp lại từ trên các dân tộc.
+Tên sách có nguồn gốc từ nhạc sĩ người dân tộc Puyuma **Lục Sâm Bảo** (1910-1988) viết năm 1958 bài hát «Năm Mùa Gặt» (sau được gọi «Bông Lúa Xinh Đẹp»), ban đầu được viết cho anh em quân nhân người Puyuma được điều động tới Kim Môn trong thời kỳ pháo kích 823[^21]. Lục Sâm Bảo viết về dân tộc Puyuma, Hồ Đức Phủ ca hát vào thập niên 1970 trong phong trào dân ca hiện đại, người Paiwan Monaneng sử dụng làm tên sách — chính sự sử dụng qua các dân tộc đó đã là một tuyên bố: khái niệm người bản địa, đang được nhóm người này tái lắp ráp lại từ trên các dân tộc.
 
 Tập thơ chứa **30 bài thơ**, chia thành **5 chuyên mục**:
 
@@ -248,7 +248,7 @@ Bài viết sử dụng 3 ảnh được cấp phép Wikimedia Commons, đều �
 
 [^20]: [ikm mục](https://db.nmtl.gov.tw/site2/ikm?id=527) — Ghi lại «Bông Lúa Xinh Đẹp» được phát hành năm 1989 bởi Nhà Xuất Bản Sao Mai ở Đài Trung, đạt được sự nhất trí từ nhiều nguồn. Tháng xuất bản chính xác có sự xung đột hai nguồn: Wikipedia chỉ ra tháng 8 năm 1989, Từ Điển Viện Văn Học Đài Loanghi «tháng 11, Monaneng xuất bản tập thơ hiện đại bản địa đầu tiên «Bông Lúa Xinh Đẹp»». Bài viết này áp dụng cách biểu hiện «mùa thu 1989» để phản ánh.
 
-[^21]: Bài hát «Bông Lúa Xinh Đẹp» ban đầu là bài «Năm Mùa Gặt» của nhạc sĩ người dân tộc Puyuma Lục Sâm Bảo (1910-1988) viết năm 1958, ban đầu được viết để động viên anh em quân nhân người Puyuma được điều động tới Kim Môn trong thời kỳ pháo kích tám hai ba, sau được ca hát rộng rãi bởi Hồ Đức Phủ trong phong trào dân ca hiện đại thập niên 1970. Monaneng sử dụng làm tên tập thơ người Paiwan.
+[^21]: Bài hát «Bông Lúa Xinh Đẹp» ban đầu là bài «Năm Mùa Gặt» của nhạc sĩ người dân tộc Puyuma Lục Sâm Bảo (1910-1988) viết năm 1958, ban đầu được viết để động viên anh em quân nhân người Puyuma được điều động tới Kim Môn trong thời kỳ pháo kích 823, sau được ca hát rộng rãi bởi Hồ Đức Phủ trong phong trào dân ca hiện đại thập niên 1970. Monaneng sử dụng làm tên tập thơ người Paiwan.
 
 [^22]: Tiêu đề bài mở đầu của Trần Ảnh Chân «Monaneng — Nhà Thơ Thuộc Địa Trong Đất Nước Đài Loan» được sưu tập trong «Bông Lúa Xinh Đẽp» phát hành lần đầu tiên 1989 Sao Mai, tái phát hành 2010 Nhân Gian cũng giữ lại.
 

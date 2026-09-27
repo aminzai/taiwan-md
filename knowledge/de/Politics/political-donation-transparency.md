@@ -55,7 +55,7 @@ Deshalb war der Moment, als das Gesetz über politische Spenden 2004 erlassen wu
 
 Am 26. März 2004 verabschiedete der Gesetzgeber das Gesetz über politische Spenden[^2].
 
-Die politische Atmosphäre in diesem Jahr war eigentlich nicht freundlich – nur sieben Tage nach dem Schussvorfall vom 3. Januar, löste das Präsidentschaftswahlresultat einen Konflikt zwischen Blau und Grün aus, und die Proteste vor der Keledargrand-Avenue waren noch nicht abgeklungen. Doch gerade in diesem angespannten Frühling wurde das Gesetz über politische Spenden verabschiedet.
+Die politische Atmosphäre in diesem Jahr war eigentlich nicht freundlich – nur sieben Tage nach dem Schussvorfall vom 19. März, löste das Präsidentschaftswahlresultat einen Konflikt zwischen Blau und Grün aus, und die Proteste vor der Keledargrand-Avenue waren noch nicht abgeklungen. Doch gerade in diesem angespannten Frühling wurde das Gesetz über politische Spenden verabschiedet.
 
 Warum gelangten die beiden Parteien zu einem Konsens in dieser Zeit? Die Antwort liegt in den zehn Jahren davor.
 
@@ -282,8 +282,8 @@ Seit zwanzig Jahren ist ein unsichtbarer Geldfluss abfragbar gemacht worden.
 - [Open Source Community und g0v](/de/technology/open-source-and-g0v) – Wie funktioniert die zivilgesellschaftliche Hacker-Community und warum gibt es dieses Ökosystem in Taiwan?
 - [Politik Hub](/politics) – Eine Gesamtansicht der demokratischen Infrastruktur.
 - [Wahlen 2026 Neun-in-Eins](/politics/2026 九合一選舉) – Übersicht über das System und den Zeitplan der Wahlen 2026.
-- [System der Nationalen Wahlkommission](/politics/中選會制度) – Design und Betrieb der Nationalen Wahlkommission.
-- [Was ist Neun-in-Eins?](/politics/九合一選舉是什麼) – Die neun Ämter, die neun Geschichten.
+- [System der Nationalen Wahlkommission](/de/politics/central-election-commission) – Design und Betrieb der Nationalen Wahlkommission.
+- [Was ist Neun-in-Eins?](/de/politics/nine-in-one-elections-explained) – Die neun Ämter, die neun Geschichten.
 
 ---
 

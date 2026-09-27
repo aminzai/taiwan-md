@@ -68,9 +68,9 @@ Trong thời gian giao tranh bằng pháo binh, không chiến cũng vô cùng �
 
 Ngày 6 tháng 10, Bắc Kinh dưới danh nghĩa Bộ trưởng Quốc phòng Bành Đức Hoài đã công bố "Thư gửi đồng bào Đài Loan", tuyên bố ngừng bắn một tuần dựa trên "lập trường nhân đạo". Sau đó chuyển thành chiến thuật "một ngày đánh, hai ngày không đánh": mỗi ngày có pháo kích thì hai ngày dừng. Nhịp điệu phi lý này tiếp diễn cho đến ngày 1 tháng 1 năm 1979, ngày Hoa Kỳ và Cộng hòa Nhân dân Trung Hoa thiết lập quan hệ ngoại giao, Bắc Kinh mới chính thức tuyên bố ngừng pháo kích.
 
-Điều kỳ lạ của cuộc chiến Bát Nhị Tam là mục tiêu ban đầu không phải là chiếm đóng Kim Môn[^4]. Mao Trạch Đông muốn thử thách quyết tâm của Hoa Kỳ trong việc phòng thủ các đảo ngoài Đài Loan, đồng thời thể hiện lập trường "giải phóng Đài Loan" với cộng đồng quốc tế. Bom đạn là tín hiệu chính trị, quê hương người dân Kim Môn là cái giá phải trả.
+Điều kỳ lạ của cuộc chiến 823 là mục tiêu ban đầu không phải là chiếm đóng Kim Môn[^4]. Mao Trạch Đông muốn thử thách quyết tâm của Hoa Kỳ trong việc phòng thủ các đảo ngoài Đài Loan, đồng thời thể hiện lập trường "giải phóng Đài Loan" với cộng đồng quốc tế. Bom đạn là tín hiệu chính trị, quê hương người dân Kim Môn là cái giá phải trả.
 
-Báo cáo của BBC tiếng Trung đã trích dẫn một quan điểm lan truyền ở Đài Loan[^1]: sau cuộc pháo chiến này, việc phản công lục địa gần như là không thể, và chính phủ Đài Loan chuyển hướng theo đuổi tự do dân chủ. Xét về mặt này, Bát Nhị Tam là một "cuộc chiến bảo vệ Đài Loan". Sau đó, eo biển Đài Loan bước vào thời kỳ hòa bình lâu dài, duy trì sự chia cắt hai bờ, mới có được những phép màu kinh tế và dân chủ hóa sau này.
+Báo cáo của BBC tiếng Trung đã trích dẫn một quan điểm lan truyền ở Đài Loan[^1]: sau cuộc pháo chiến này, việc phản công lục địa gần như là không thể, và chính phủ Đài Loan chuyển hướng theo đuổi tự do dân chủ. Xét về mặt này, 823 là một "cuộc chiến bảo vệ Đài Loan". Sau đó, eo biển Đài Loan bước vào thời kỳ hòa bình lâu dài, duy trì sự chia cắt hai bờ, mới có được những phép màu kinh tế và dân chủ hóa sau này.
 
 ## Tổng thống ngủ qua đêm trên máy bay ở Hawaii
 
@@ -136,7 +136,7 @@ Khi Tập Cận Bình công khai đề xuất "Phương án Đài Loan Một qu�
 
 ## Đường hầm đá granite Kim Môn
 
-Dưới lớp đá granite của Kim Môn được đào đầy các đường hầm. Trong thời kỳ chính trị chiến trường sau cuộc pháo chiến Bát Nhị Tam, toàn đảo từ đường hầm phòng thủ quân sự Trạch Sơn đến các đường hầm dân phòng ở Quỳnh Lâm và Kim Thành, từng đoạn đều do bộ đội và đội dân phòng tự tay đục đẽo ra, người dân trú ẩn trong đó để tránh bom đạn và không kích. Sau khi chính trị chiến trường kết thúc, các đường hầm đã trở thành điểm tham quan. Hướng dẫn viên đưa khách du lịch từ lục địa Đài Loan và đại lục Trung Quốc đi qua nơi từng giấu đạn, chiêm ngưỡng những khẩu hiệu tinh thần được khắc trên tường.
+Dưới lớp đá granite của Kim Môn được đào đầy các đường hầm. Trong thời kỳ chính trị chiến trường sau cuộc pháo chiến 823, toàn đảo từ đường hầm phòng thủ quân sự Trạch Sơn đến các đường hầm dân phòng ở Quỳnh Lâm và Kim Thành, từng đoạn đều do bộ đội và đội dân phòng tự tay đục đẽo ra, người dân trú ẩn trong đó để tránh bom đạn và không kích. Sau khi chính trị chiến trường kết thúc, các đường hầm đã trở thành điểm tham quan. Hướng dẫn viên đưa khách du lịch từ lục địa Đài Loan và đại lục Trung Quốc đi qua nơi từng giấu đạn, chiêm ngưỡng những khẩu hiệu tinh thần được khắc trên tường.
 
 Sau khi thông thương nhỏ ba bên vào năm 2001, người dân Kim Môn có thể đi thuyền đến Hạ Môn. Họ uống cà phê, mua đồ dùng sinh hoạt và kinh doanh ở đó. Một số người thân của người Kim Môn lại ở phía đối diện nơi bom đạn đổ xuống. Khoảng cách gần nhất từ Mã Sơn, Kim Môn đến Góc Ngư là 1,8 km. Vào những ngày thời tiết đẹp, có thể nhìn thấy các tòa nhà cao tầng bên kia bằng mắt thường.
 

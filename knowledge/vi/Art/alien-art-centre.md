@@ -34,7 +34,7 @@ Nếu bạn đứng ở cổng số 111 đường Jhushan, thấy một tòa nh�
 
 ### Giai đoạn thứ nhất: Chia ly và tái ngộ (1967-1998)
 
-Năm 1958, sau trận bắn Bát Đảo, chính quyền thành phố Kaohsiung quyết định xây một khu nghỉ dương chuyên dụng để đón tiếp quân lính tới các phòng trận biên giới. Nhưng mảnh đất là đất đã được lấp đầy, cần chờ đất ổn định, và chờ đợi kéo dài tới tám năm.
+Một năm sau trận pháo chiến 823 năm 1958, chính quyền thành phố Kaohsiung quyết định xây một khu nghỉ dương chuyên dụng để đón tiếp quân lính tới các phòng trận biên giới. Nhưng mảnh đất là đất đã được lấp đầy, cần chờ đất ổn định, và chờ đợi kéo dài tới tám năm.
 
 Ngày 26 tháng 9 năm 1967, Khu nghỉ dương Kim Mã được khánh thành với ngân sách 12 triệu đồng mới. Cùng thời gian, tại Hải Phong cũng có một tòa nhà — một ở phía nam, một ở phía bắc — phục vụ cùng một mục đích: cung cấp nơi nghỉ ngơi cho những người được chọn "giải thưởng Kim Mã" — những người lính năm nay đều hiểu ba từ này mang lại trọng lượng lớn.
 
