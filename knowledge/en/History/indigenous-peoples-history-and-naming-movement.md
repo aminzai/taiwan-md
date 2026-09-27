@@ -1,105 +1,145 @@
 ---
-title: "Indigenous Peoples' History and Naming Rights Movement"
-description: "From 'barbarians' to 'Indigenous peoples' - a centuries-long struggle for identity recognition and dignity"
+title: "Taiwan Indigenous Peoples' History and Naming Rights Movement"
+description: 'In 1987, a 19-year-old Tsou youth faced execution at a Taipei execution ground. His death ignited the first spark of the naming rights movement.'
 date: 2026-03-29
+category: 'History'
 tags:
   [
-    'Indigenous peoples',
+    'indigenous peoples',
     'naming rights movement',
-    'identity',
+    'identity recognition',
     'social movements',
     'cultural preservation',
   ]
+subcategory: '史前與原住民'
 author: 'Taiwan.md'
-difficulty: 'beginner'
-readingTime: 10
-category: 'History'
 featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
 translatedFrom: 'History/台灣原住民族歷史與正名運動.md'
-sourceCommitSha: '1e674def'
+sourceCommitSha: '1e674def2'
 sourceContentHash: 'sha256:5abb3efb22ea6c92'
 sourceBodyHash: 'sha256:93eb4a0251be6dd2'
-translatedAt: '2026-04-14T12:25:09+08:00'
+translatedAt: '2026-09-27T23:29:49+08:00'
 ---
 
-# Indigenous Peoples' History and Naming Rights Movement
+# Taiwan Indigenous Peoples' History and Naming Rights Movement
 
-From the Dutch term "wild people," the Qing's "raw barbarians," the Japanese colonial "aborigines," to the post-war "mountain compatriots," and finally today's "Indigenous peoples" (yuanzhumin zu 原住民族) - this represents not merely lexical evolution, but a centuries-spanning battle for identity recognition and dignity.
+May 15, 1987, a Taipei execution ground. A forensic officer approached a young man of nineteen, syringe in hand, ready to administer anesthesia. The young man shook his head. He said: "I am guilty of my crimes, so I must face this punishment." He refused the sedation and chose to meet death with eyes open.
 
-## The Trajectory of Labeling Under Colonial Rule
+His name was Tang Ying-shen, a Tsou youth from Tfuya village in Alishan. A year earlier, he had seen a newspaper advertisement for restaurant workers, left the mountains with a student ID, and arrived in Taipei—only to be deceived into a laundry workshop. The placement fee was 3,500 NT dollars; his employer confiscated his national ID and made him work late into the night. On January 25, 1986, on his ninth day of work, in a drunken altercation, he killed the employer's family—three people, including a two-year-old girl—and then walked to the police station to surrender.
 
-### Dutch and Qing Eras: The "Savage" Stigma
+That bullet, fired at dawn, killed not just a young man who had committed a crime.
 
-When the Dutch East India Company began ruling Taiwan in 1624, they categorized the island's inhabitants into "civilized aborigines" (gehuafan 歸化蕃) and "wild aborigines" (yefan 野蕃). Those who submitted were incorporated into the colonial system, while the "wild" were regarded as uncivilized aliens. The Qing dynasty continued this classification, further distinguishing between "cooked aborigines" (shufan 熟番) and "raw aborigines" (shengfan 生番) based on whether they paid taxes, cut their hair, and adopted Chinese surnames.
+## Four Hundred Years of Names, Four Hundred Years of Locks
 
-This "fan 番" nomenclature system was essentially a colonial control mechanism. It wasn't neutral classification but discriminatory labeling embedded with civilizational hierarchy. The Qing's "Aboriginal Administration Policy" (lifan zhengce 理番政策) explicitly treated Indigenous peoples as subjects requiring "enlightenment," denying the value of their original cultures.
+To understand this movement, one must first understand what it means that "a name is a lock."
 
-### Japanese Colonial Period: Comprehensive Control Through "Pacification"
+In 1624, the Dutch East India Company arrived in Taiwan and divided the island's inhabitants into the "civilized barbarians" (guihuafan) and the "wild barbarians" (yefan): to educate, to subdue, to incorporate—this was the logic of colonial management in three steps. When the Qing took over, they continued the classification: "cooked barbarians" (shufan) and "raw barbarians" (shengfan), with the standard being the cutting of queues, the adoption of Chinese surnames, and the payment of taxes—the more you resembled Han Chinese, the more civilized you were. Japan's colonization (1895–1945) systematized it further: calling them "fan" (barbarians), establishing "Aboriginal Affairs" police stations, implementing collective relocation policies that scattered villages from their ancestral lands, relocating them, renaming them.
 
-After Japan's takeover of Taiwan, Indigenous peoples were termed "aborigines" (banjin 蕃人), subjected to more systematic control policies. From 1895 to 1945, the Japanese government sought to completely incorporate Indigenous peoples into the colonial system through "Aboriginal Affairs" (riban jigyō 理蕃事業).
+In 1930, Seediq Chief Mona Rudao led three hundred of his people in a rebellion at Wushe. Japan deployed aircraft and poison gas in suppression, nearly annihilating the entire settlement. This was no epic of heroism; this was a people driven to the cliff's edge and their counterattack brutally erased from history.
 
-The most brutal episode was the 1930 Wushe Incident (Wushe shijian 霧社事件). Seediq chief Mona Rudao led his people in resistance against Japanese rule, ultimately facing poison gas suppression. This tragedy highlighted the violent destruction of Indigenous culture under colonial rule and planted the historical seeds for the later naming rights movement.
+In 1945, the Nationalist government took Taiwan and gave its Indigenous peoples a new name: "mountain compatriots" (shanboa). It sounded affectionate, but it actually implied "Han Chinese compatriots living in the mountains"—deliberately obscuring the Indigenous peoples' distinct identity, giving assimilationist policy a progressive veneer. Native languages were banned, Han surnames were forced, "flatlanding" policies sought to erase highland culture, villages were relocated. Taiwan's Indigenous peoples became strangers in their own homeland.
 
-## Martial Law Era: Assimilation Under "Mountain Compatriots"
+> 📝 **Five Names, Five Locks**
+>
+> Barbarians (Japanese colonial period) → Mountain dwellers (early post-war) → Mountain compatriots (government policy) → Indigenous peoples (1994 constitutional amendment) → Indigenous nations (2005 Indigenous Peoples Basic Act). The first three, others named you; the last two, you reclaimed your own name.
 
-After the ROC government took control of Taiwan in 1945, Indigenous peoples were renamed "mountain compatriots" (shanboa 山胞), seemingly more neutral but actually continuing assimilationist logic. The term "mountain compatriots" implied that Indigenous peoples were merely Han Chinese compatriots living in the mountains, deliberately ignoring their distinct ethnic identity.
+## Wu Feng's Lie, and That Statue
 
-The martial law period's policy core was "mountainland flatlanding" (shandi pingdihua 山地平地化). The government enforced Chinese education, prohibited native languages, required adoption of Chinese surnames, and even forced village relocations. While these policies operated under "modernization" banners, they essentially constituted systematic elimination of Indigenous cultures.
+After Tang Ying-shen's execution, Taiwanese society fell into rare collective self-examination.
 
-Many Indigenous peoples were forced to leave their villages for urban work, becoming bottom-rung laborers. Indigenous workers on construction sites, at sea as fishermen, and in mines bore the double burden of economic exploitation and cultural displacement.
+Bishop Joseph Chia of the Taipei Diocese took the lead in voicing support, leading a petition to Chiang Ching-kuo to spare the young man's life. Mainstream media reported extensively on the urban plight of Indigenous peoples for the first time: employment traps, low wages, wage theft, and confiscated ID cards. A single Tsou youth's case cracked open a wound that had been carefully covered for decades.
 
-## Rise of the Naming Rights Movement
+The township where Tang Ying-shen's village belonged was named "Wu Feng Township." The name came from a Qing dynasty story widely circulated: a Han Chinese man named Wu Feng voluntarily sacrificed himself to convert the Indigenous peoples who practiced headhunting. This story was co-opted by both the Japanese colonial government and the Nationalist government, written into textbooks, commemorated with statues, conveying a clear message: Indigenous peoples were savages in need of civilization.
 
-### 1980s: The Awakening Decade
+In 1988, a group of Indigenous youth marched to the front of Chiayi railway station and toppled the Wu Feng statue. In 1989, March 1, Wu Feng Township was renamed Alishan Township. In 1990, Wu Feng's story was deleted from school textbooks. The Tsou people reclaimed their own name, which had been forcibly registered as "Cao" during Japanese colonial rule.
 
-With democratization's tide, Indigenous movements began emerging. In 1983, the Taiwan Indigenous Peoples Rights Promotion Association was established as the first national Indigenous organization. Activists began questioning the official "mountain compatriots" label, demanding renaming to "Indigenous peoples."
+This was not vandalism of history. This was the correction of a lie that the state had certified for decades.
 
-In 1984, Indigenous youth published "Our Voice" (Women de husheng 我們的呼聲) in Summer Tide magazine, explicitly demanding naming rights: "We are not mountain compatriots; we are Taiwan's Indigenous peoples." This article became a crucial manifesto for the naming movement.
+That same year, 1988, thousands of Indigenous peoples marched through Taipei's streets, shouting "Return our lands," demanding the government restore traditional territories. This was the first time the naming rights movement appeared on the political stage as a collective force, and it was the prelude to the constitutional amendment four years later.
 
-### Return Our Land Movement: From Naming to Rights
+## 1984: Indigenous Peoples, or Mountain Compatriots?
 
-Naming wasn't merely about nomenclature but involved fundamental issues like land rights, autonomy, and cultural rights. In 1988, Indigenous peoples launched the "Return Our Land Movement," demanding government restoration of traditional territories and recognition of Indigenous collective rights.
+To find the institutional starting point of the naming rights movement, one must return to December 1984.
 
-The movement's climax was the 1993 "Naming Rights Movement Grand March." Thousands of Indigenous peoples took to Ketagalan Boulevard, chanting "We are Indigenous peoples, not mountain compatriots." Parade participants wore traditional costumes and sang ancient songs, demonstrating cultural subjectivity most directly.
+The Taiwan Indigenous Peoples Rights Promotion Association (TAIPRPA) was established, becoming Taiwan's first national Indigenous organization. One of its founding purposes was to promote the naming rights movement: "We are not mountain compatriots; we are Taiwan's Indigenous peoples." To say this sentence aloud in Taiwan at that time required courage and certainty.
 
-## Legislative Milestones
+The Tang Ying-shen incident gave this demand social momentum. The urban hardship of Indigenous peoples—dispossession, labor exploitation, cultural displacement—was taken seriously by mainstream media for the first time. It was not merely sympathy; it was a society beginning to feel uncomfortable about its own historical debts.
 
-### Constitutional Additional Articles: Historic Breakthrough
+## 1994: The Constitution Enshrines Two Characters
 
-In 1997, Article 10 of the Additional Articles to the ROC Constitution officially used "Indigenous peoples" (yuanzhumin 原住民), replacing "mountain compatriots." This marked the first time in ROC constitutional history that Indigenous peoples' existence was recognized, holding epochal significance.
+In 1993, thousands of Indigenous peoples gathered on Ketagalan Boulevard, wearing the traditional clothing of each tribe in a march. A year later, this demand materialized: in 1994, the Additional Articles of the Republic of China Constitution were amended, formally changing "mountain compatriots" to "Indigenous peoples."
 
-More importantly, the Constitution explicitly mandated state protection of Indigenous peoples' political participation, language and culture, economic lands, and social welfare. Though only establishing principles, it laid constitutional foundations for subsequent legislation.
+For the first time, the term "Indigenous peoples" was written into the nation's supreme law.
 
-### Indigenous Peoples Basic Act: Concrete Rights
+But one more character was still needed. "Indigenous peoples" is an individual identity designation; "Indigenous nations" is a collective subject, recognizing the language, land, and self-governance claims of entire peoples. That single additional character took eleven more years to secure. In 2005, the Indigenous Peoples Basic Act was passed, and the character "nations" officially entered law, establishing a legal framework for autonomy rights, land rights, and the government's obligation to pass on culture.
 
-The 2005 Indigenous Peoples Basic Act further renamed "Indigenous peoples" to "Indigenous nations" (yuanzhumin zu 原住民族), emphasizing their collective nature. This law established a basic rights framework including Indigenous autonomy, land rights, and cultural rights.
+> 📝 **The Political Weight of Adding a Single Character**
+>
+> "Indigenous peoples" is a personal label; "Indigenous nations" is the subjecthood of a people. The 2005 amendment, in legal terms, acknowledged collective land claims, language revitalization obligations, and a mechanism for the government to "consult equally" with Indigenous nations. It is not one character; it is an entire constitutional commitment—though the implementation still falls short of the promise.
 
-The law explicitly requires government consultation of Indigenous will when formulating related policies, establishing co-management mechanisms. While actual implementation faces many problems, the legal foundation is now established.
+## From Nine Tribes to Sixteen: Erased Faces Return One by One
 
-## From Naming to Revitalization: Contemporary Challenges
+For many peoples, "naming rights" did not mean simply changing from "mountain compatriots" to "Indigenous peoples," but rather being retrieved from the registry of neighboring larger tribes.
 
-### Urgent Language Revitalization
+The post-war government officially recognized only nine Indigenous tribes, and many peoples were subsumed into adjacent larger tribes, their languages and rituals dissolving into silence. Beginning in the 1990s, applications for naming recognition proceeded in waves:
 
-After naming success, rescuing endangered tribal languages became a new challenge. Taiwan's Indigenous peoples currently comprise 16 officially recognized tribes with 42 dialects, most facing transmission crises. Young people generally cannot speak tribal languages, with traditional cultures facing extinction risks.
+| Year | Peoples        | Notes                                                                              |
+| ---- | -------------- | ---------------------------------------------------------------------------------- |
+| 2001 | **Thao**       | Sun Moon Lake, Nantou; fewer than 900 people today                                 |
+| 2002 | **Kavalan**    | Hualien; previously hidden within Amis registry                                    |
+| 2004 | **Truku**      | Originally classified as Atayal                                                    |
+| 2007 | **Sakizaya**   | Hidden for over a century after the 1878 Kaliawan Incident                         |
+| 2008 | **Seediq**     | The people of the Wushe Incident, waiting seventy-eight years                      |
+| 2014 | **Laalawanan** | Originally part of the Tsou peoples; fewer than 300 people                         |
+| 2014 | **Kanakanavu** | Originally part of the Tsou peoples; officially recognized same year as Laalawanan |
 
-While the government promotes tribal language education, effectiveness remains limited. True revitalization requires family and community cooperation, bringing tribal languages back to daily life. Some communities have initiated "tribal language family" programs, encouraging parents to speak tribal languages at home.
+By 2014, the government recognized sixteen Indigenous peoples. The Sakizaya had been hidden within Amis identity for over 130 years before reclaiming their own name. Each naming recognition carries decades—sometimes over a century—of cultural self-rescue: collecting elders' language recordings, reconstructing rituals, tracing genealogies, then submitting documents to the government and waiting for recognition.
 
-### Unfinished Business of Land Justice
+## 2016: The Presidential Apology
 
-The "Regulations for Demarcating Indigenous Peoples' Land or Tribal Territory" was announced in 2017, but demarcation progress is slow with severely reduced scope. Many traditional territories are excluded, triggering strong Indigenous protests.
+August 1, 2016—Taiwan Indigenous Peoples Day—President Tsai Ing-wen, in the President's Office Chiang Ching-kuo Hall, formally apologized on behalf of the government to all Taiwan's Indigenous peoples. This was the first time in the history of the Republic of China that a national leader acknowledged state responsibility for four hundred years of historical injustice against Indigenous peoples.
 
-Land isn't merely economic resources but the foundation of cultural identity. How can Indigenous peoples who've lost their land maintain connections with nature? How can hunting culture be transmitted? These remain deep issues the naming movement hasn't resolved.
+The apology acknowledged responsibility across multiple regimes: the Dutch and Zheng Chenggong forces' killing of Pingpu peoples; the Qing dynasty's violent suppression; Japan's "Aboriginal Affairs" policies; post-war "flatlanding" assimilation; the banning of native languages; and the storage of nuclear waste on Orchid Island without the knowledge of the Yami people.
 
-## Taiwan's Vision of Multiculturalism
+In the apology statement, she quoted from the Atayal language:
 
-The Indigenous naming rights movement's significance far exceeds nomenclature itself. It represents Taiwanese society's recognition of multiculturalism, reflection on historical injustice, and protection of minority rights.
+> "In the Atayal language, 'truth' is called Balay. And 'reconciliation' is called Sbalay—which is 'Balay' with an S added at the beginning. True reconciliation is only possible through honest confrontation with truth."
+> — President Tsai Ing-wen, August 1, 2016
 
-Today, when we say "Indigenous peoples," we acknowledge this land's cultural diversity and the possibility of different ethnic groups coexisting and prospering together. This naming journey from "savages" to "Indigenous peoples" essentially mirrors Taiwan's democratization - from single-culture hegemony to multicultural prosperity.
+She announced that same day the establishment of the "Commission on Historical Justice and Transitional Justice for Indigenous Peoples," with herself as convenor in her capacity as president, pledging to report to the nation annually on August 1 regarding progress.
 
-But naming is only the first step. True equality and respect require everyone's effort. When we hear Bunun polyphonic singing, when we learn Atayal weaving techniques, when we respect Paiwan land wisdom, we're practicing the naming movement's true spirit - making Taiwan a truly diverse and prosperous island.
+Indigenous representatives' responses to the apology varied: some were moved, others felt it lacked concrete commitments, still others said "an apology means nothing without returning the land." The demarcation of traditional territories has proceeded slowly to this day, and the autonomy provisions in the Indigenous Peoples Basic Act have proven difficult to implement. Sbalay is something that happens only after truth is told—and that truth is still being spoken.
+
+## Language Is the Last Line of Defense
+
+After naming rights succeeded, the problems did not diminish.
+
+Taiwan's sixteen Indigenous peoples speak forty-two dialects, over half of which are designated by the United Nations as "endangered" or "critically endangered" languages. The Thao language has fewer than ten fluent speakers remaining in the 2020s. Among the Kanakanavu, the elders qualified to fully transmit the tribal language can be counted on one's fingers. When a language dies, the memory of the people dies. Language revitalization is harder than naming rights recognition because it requires simultaneous cooperation among families, schools, communities, and policy institutions; it demands young people be willing to speak a language that has almost no practical use in daily life.
 
 ---
 
-Further Reading:
+From the establishment of the Taiwan Indigenous Peoples Rights Promotion Association in 1984, to the constitutional amendment in 1994, to the Indigenous Peoples Basic Act in 2005, to the presidential apology in 2016—each milestone has been harder won than the last.
+
+But if you want to find where this road began, it was around May 15, 1987, in Taipei, when a nineteen-year-old Tsou youth refused anesthesia at an execution ground.
+
+He said his crime meant he deserved this suffering, and he would bear it awake.
+
+His people wept outside the execution chamber, his name circulated through society, and a movement began. His homeland was renamed Alishan Township; his people reclaimed their Tsou identity; his people's names were written into the constitution, written into the basic act, given a state apology thirty years overdue.
+
+Do you still remember his name?
+
+---
+
+## References
+
+- [Tang Ying-shen Incident — Wikipedia](https://zh.wikipedia.org/wiki/%E6%B9%AF%E8%8B%B1%E4%BC%B8%E4%BA%8B%E4%BB%B6)
+- [President Tsai Ing-wen's Full Apology to Indigenous Peoples — Office of the President, ROC](https://www.president.gov.tw/NEWS/20603)
+- [Indigenous Peoples Basic Act — National Laws and Regulations Database](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0130003)
+- [Sakizaya Peoples — Wikipedia](https://zh.wikipedia.org/wiki/%E6%92%92%E5%A5%87%E8%90%8A%E9%9B%85%E6%97%8F)
+- [Thao Peoples — Wikipedia](https://zh.wikipedia.org/wiki/%E9%82%B5%E6%97%8F)
+- [Council of Indigenous Peoples — Indigenous Tribes Overview](https://www.apc.gov.tw/portal/index.html)
+- [Taiwan's Indigenous Peoples — Council of Indigenous Peoples](https://www.apc.gov.tw/portal/index.html)
+
+_Further Reading: [Mona Rudao](/en/people/mona-rudao/) · [Taiwan Indigenous Land Justice and Traditional Territories](/en/society/indigenous-land-justice-and-traditional-territories/) · [Taiwan Indigenous Peoples 16 Tribes Cultural Map](/en/culture/indigenous-peoples-16-tribes-cultural-map/) · [Taiwan Indigenous Language Revitalization Movement](/en/culture/indigenous-language-revitalization-movement/) · [Taiwan Indigenous Foodways](/en/food/taiwan-indigenous-foodways/) · [Taiwan Indigenous Ecological Wisdom and Environmental Conservation](/en/nature/taiwanese-indigenous-ecological-wisdom-conservation/) · [Contemporary Indigenous Taiwanese Art](/en/art/contemporary-indigenous-art-taiwan/)_
