@@ -122,7 +122,13 @@ SCANNER_RE = re.compile(
     r"|telescope/requests|v1/graphql|graphql)$"
     r"|^/actuator(/|$)|^/api/(config|settings)$|^/configs?/|^/payment_gateways/"
     r"|^/aws-config\.js$|\.(zip|bak|tfvars|sql\.gz|tar\.gz)$|\.config\.js$"
-    r"|^/(helm|charts?)/|^/app/etc/|^/ses\.json$|/values\.ya?ml$",
+    r"|^/(helm|charts?)/|^/app/etc/|^/ses\.json$|/values\.ya?ml$"
+    # 2026-09-28 同一條件第二次成立：unknown 09-25 53%、09-26 50.4%，榜首
+    # /rclone.conf。只收當夜有證據的名字（rclone 設定檔、.NET 錯誤頁、
+    # Symfony profiler、Nuxt payload、主控台 API）。校準：articles.json
+    # 59,922 條路由字串與 dist/ 49,526 條路徑 0 誤判。
+    r"|^/(rclone\.conf|elmah\.axd|_profiler(/.*)?|settings/_payload\.json"
+    r"|api/console(/.*)?)$",
     re.IGNORECASE,
 )
 STALE_ASSET_RE = re.compile(r"^/_astro/")

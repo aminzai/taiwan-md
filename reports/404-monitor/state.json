@@ -4287,7 +4287,74 @@
           "empty": 0
         }
       }
+    },
+    {
+      "date": "2026-09-26",
+      "total_404": 2913,
+      "truncated": false,
+      "families": {
+        "probe-wellknown": {
+          "count": 156,
+          "bot": 83,
+          "browser": 73,
+          "empty": 0
+        },
+        "scanner": {
+          "count": 906,
+          "bot": 204,
+          "browser": 357,
+          "empty": 345
+        },
+        "missing-asset": {
+          "count": 43,
+          "bot": 7,
+          "browser": 36,
+          "empty": 0
+        },
+        "unknown": {
+          "count": 1428,
+          "bot": 872,
+          "browser": 556,
+          "empty": 0
+        },
+        "md-extension": {
+          "count": 142,
+          "bot": 94,
+          "browser": 48,
+          "empty": 0
+        },
+        "bad-encoding": {
+          "count": 126,
+          "bot": 112,
+          "browser": 14,
+          "empty": 0
+        },
+        "slug-variant": {
+          "count": 84,
+          "bot": 80,
+          "browser": 4,
+          "empty": 0
+        },
+        "renamed-or-truncated": {
+          "count": 12,
+          "bot": 6,
+          "browser": 6,
+          "empty": 0
+        },
+        "stale-asset": {
+          "count": 15,
+          "bot": 13,
+          "browser": 2,
+          "empty": 0
+        },
+        "cross-lang-slug": {
+          "count": 1,
+          "bot": 1,
+          "browser": 0,
+          "empty": 0
+        }
+      }
     }
   ],
-  "updated": "2026-09-26T22:04:14.361467+00:00"
+  "updated": "2026-09-27T22:07:43.217324+00:00"
 }
