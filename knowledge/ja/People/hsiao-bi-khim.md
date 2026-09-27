@@ -165,7 +165,7 @@ difficulty: 'intermediate'
 
 [^10]: https://en.wikipedia.org/wiki/Hsiao_Bi-khim — 英語版ウィキペディア、蕭美琴駐米在任中の重要外交成果、2023 年マッカーシー議長がカリフォルニア州レイガン図書館で蔡英文総統と正式に面会した歴史的突破を記録。
 
-[^11]: https://www.scmp.com/news/china/article/3263159/incoming-no-2-leader-hsiao-bi-khim-islands-new-us-whisperer — 南華早報人物側写、U.S.-Taiwan Initiative on 21st Century Trade の創設過程と 2022 年台米双方向貿易額約 1,600 億米ドルの規模、蕭美琴がワシントンで「台米関係を制度化」した戦略的思考を記録。
+[^11]: https://www.scmp.com/news/china/article/3263159/incoming-taiwan-vice-president-hsiao-bi-khim-islands-new-us-whisperer — 南華早報人物側写、U.S.-Taiwan Initiative on 21st Century Trade の創設過程と 2022 年台米双方向貿易額約 1,600 億米ドルの規模、蕭美琴がワシントンで「台米関係を制度化」した戦略的思考を記録。
 
 [^12]: https://www.president.gov.tw/Page/695 — 総統府記録、蕭美琴が 2023 年 11 月 20 日に駐米代表を辞任し、同日に賴清德が副大統領搭档として指名した時系列と、2024 年 1 月 13 日の当選・5 月就任過程。
 

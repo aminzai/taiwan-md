@@ -123,7 +123,7 @@ Camilan Tainan bukanlah sekadar kumpulan makanan enak yang kebetulan berkumpul b
 - [Asal-usul dan rahasia sup daging sapi Tainan](https://storycircle571.com/2024/12/17/%E5%88%B0%E5%8F%B0%E5%8D%97%EF%BC%8C%E4%B8%80%E5%AE%9A%E8%A6%81%E4%BE%86%E7%A2%97%E7%89%9B%E8%82%89%E6%B9%AF%EF%BC%81%E5%8F%B0%E5%8D%97%E7%89%9B%E8%82%89%E6%B9%AF%E7%9A%84%E7%B7%A3%E8%B5%B7%E3%80%81)
 - [Mi Eel — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%B1%94%E9%AD%9A%E6%84%8F%E9%BA%B5)
 - [Bagaimana menggoreng ikan sisik bisa dianggap tulus? — Independent Review @ The World](https://opinion.cw.com.tw/blog/profile/194/article/8595)
-- [Catatan Kuliner Tainan. Mi Eel Lama ● Sakariba Shan-yu Liao — BoboTravel](https://bobotravel.tw/blog/post/153178723-%E9%A3%9F%E8%A8%98%E5%8F%B0%E5%8D%97%E3%80%82%E8%80%81%E7%89%8C%E9%B1%94%E9%AD%9A%E6%84%8F%E9%BA%B5%E2%97%8F%E6%B9%AF%E5%8D%A1%E9%87%8C%E5%B7%B4%E9%B1%94%E9%AD%9A%E5%8F%8F%E5%8D%97)
+- [Catatan Kuliner Tainan. Mi Eel Lama ● Sakariba Shan-yu Liao — BoboTravel](https://bobotravel.tw/blog/post/153578723-%E9%A3%9F%E8%A8%98%E5%8F%B0%E5%8D%97%E3%80%82%E8%80%81%E7%89%8C%E9%B1%94%E9%AD%9A%E6%84%8F%E9%BA%B5%E2%97%8F%E6%B2%99%E5%8D%A1%E9%87%8C%E5%B7%B4%E9%B1%94%E9%AD%9A%E5%BB%96)
 - [Pelabuhan Lima Jalur Tainan tidak terlihat lagi, warisan sejarah sungai diteruskan — CNA](https://www.cna.com.tw/news/acul/202501260043.aspx)
 - [Budaya dan Peta Sup Daging Sapi Tainan](https://mytainan.com/tainan-food-drink/tainan-beef-soup/)
 - [Bubur Jantung Babi Larut Malam di Tainan selama hampir 70 tahun! Siapkan mental untuk mengantre — ETtoday Travel](https://travel.ettoday.net/article/2931941.htm)

@@ -175,7 +175,7 @@ Ini bukan cerita tentang "penjahat adalah tikus", melainkan masalah metabolisme 
 
 [^20]: Economic Daily, 〈Larangan Pusat untuk Ternak Babi dengan Limbah "Ada Tindakan Lanjutan"; Biro Lingkungan Taipei: Perpanjangan Pemusnahan Gratis hingga 31/12〉.<https://money.udn.com/money/story/7307/9182525>
 
-[^21]: Biro Lingungan Kota Taipei, 〈Menanggapi Pencegahan ASF Pusat; Fasilitas Pembakaran Taipei Memperpanjang Pemusnahan Gratis Limbah Non-Peternakan hingga 6/12〉.<https://www.dep.gov.taipei/News_Content.aspx?n=CB6D5C560DE4D2DD&s=A82C7AAB7FA66E31>
+[^21]: Biro Lingungan Kota Taipei, 〈Menanggapi Pencegahan ASF Pusat; Fasilitas Pembakaran Taipei Memperpanjang Pemusnahan Gratis Limbah Non-Peternakan hingga 6/12〉.<https://www.dep.gov.taipei/News_Content.aspx?n=CB6D5C560DE4D2DD&s=A82C7AAB7FA65E31>
 
 [^22]: Wuo-Wuo, 〈Isu Pemberian Racun oleh Pemerintah Kota; Pakar: Kuncinya Ada pada Manajemen Sampah dan Pemutusan Akses〉, 2026.<https://wuo-wuo.com/report/instantnews/2410-taipei-rat-poison>
 

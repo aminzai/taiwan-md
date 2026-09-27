@@ -47,7 +47,7 @@ The cause of the war had nothing to do with Taiwan. In 1883, France moved to inc
 
 The logic was simple: seize the Keelung coal mines, cut off fuel supplies along the Qing's southeastern coast, and force Beijing to the negotiating table. French Far East Squadron commander Vice Admiral Amédée Courbet was ordered to execute the plan.
 
-On August 5, 1884, French Rear Admiral Lespès shelled Keelung harbor, destroying three Qing gun emplacements[^7]. The next day French forces landed, but [Qing](https://en.wikipedia.org/wiki/Qing_dynasty) Imperial Commissioner Liu Ming-chuan led 2,000 troops in a counterattack and drove the landing party back to their ships. This was the first French retreat on Formosa.
+On August 5, 1884, French Rear Admiral Lespès shelled Keelung harbor, destroying three Qing gun emplacements[^7]. The next day French forces landed, but [Qing](/en/history/qing-dynasty-rule/) Imperial Commissioner Liu Ming-chuan led 2,000 troops in a counterattack and drove the landing party back to their ships. This was the first French retreat on Formosa.
 
 On October 1, 1,800 French marines landed at Keelung again under naval support fire. This time Liu Ming-chuan could not hold the harbor. But before withdrawing, he did one thing: he ordered the coal mine machinery destroyed and all stored coal wrecked[^8]. The French took the port and found nothing. The coal they needed still had to be shipped from Hong Kong.
 
@@ -99,7 +99,7 @@ On the eve of the Battle of Tamsui, residents brought out the statue of Qingshui
 
 The greatest consequence of the Sino-French War was not on the battlefield but in governance. The war made the Qing court recognize that Taiwan was not merely an appendage of Fujian Province — it was territory with independent strategic value. In 1885, Taiwan was separated from Fujian Province and became the 20th province of the Qing Empire. Liu Ming-chuan was appointed as the first Governor of Taiwan[^22].
 
-Liu Ming-chuan served six years (1885–1891), launching Taiwan's first wave of modernization. He built the [railway](<https://en.wikipedia.org/wiki/Taiwan_Railway_(Qing_dynasty)>) from Keelung to Hsinchu (approximately 107 km; construction began 1887, full line completed 1893); laid a submarine telegraph cable from Taipei to Fuzhou; established postal services; opened Western-style schools; and carried out land surveys[^23]. His modernization program predated [Japanese colonial-era](/en/history/japanese-colonial-era/) construction by ten years — yet after Liu Ming-chuan resigned due to illness in 1891, most of his projects stalled.
+Liu Ming-chuan served six years (1885–1891), launching Taiwan's first wave of modernization. He built the [railway](/en/history/taiwan-railway-history/) from Keelung to Hsinchu (approximately 107 km; construction began 1887, full line completed 1893); laid a submarine telegraph cable from Taipei to Fuzhou; established postal services; opened Western-style schools; and carried out land surveys[^23]. His modernization program predated [Japanese colonial-era](/en/history/japanese-colonial-era/) construction by ten years — yet after Liu Ming-chuan resigned due to illness in 1891, most of his projects stalled.
 
 ## Echoes 140 Years Later
 

@@ -111,7 +111,7 @@ He does not run a fan page and rarely uses social media.[^1] For a player who ha
 **Image Credits**
 
 - [Chartlin / Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Chou_Tien-Chen_(TPE)_2018.jpg>) — CC BY‑SA 4.0 (2018 Taipei Open)
-- [Tony2803.tw / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E5%91%A8%E5%A4%A9%E6%88%902024%E5%8F%B0%E5%8C%97%E7%88%BA%E5%AD%90%E5%85%AC%E5%BC%80.jpg) — CC BY 4.0 (2024 Taipei Open)
+- [Tony2803.tw / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:周天成2024台北羽球公開賽.jpg) — CC BY 4.0 (2024 Taipei Open)
 - [Taipei City Government Sports Bureau / Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Chou_Tien-Chen_in_2022_Taipei_Open_(cropped).jpg>) — Attribution (government open data, 2022 Taipei Open)
 
 **References**

@@ -185,11 +185,11 @@ Il y a un nouveau restaurant couvrant 139 ans à Singapour, une académie qui n'
 
 **Lectures complémentaires :**
 
-- [Nie Yung-chen](https://zh.wikipedia.org/zh-tw/%E8%91%BC%E6%B0%B8%E9%97%9F) — Un autre nom qui a porté Taïwan sur la scène internationale, utilisant le design graphique plutôt que la cuisine pour faire connaître la visibilité de Taïwan.
-- [Ang Lee](https://zh.wikipedia.org/zh-tw/%E5%90%A2%E5%AE%89) — Un créateur qui raconte des histoires orientales dans un système occidental, explorant les questions « Qui suis-je ? » et « D'où je viens ? ».
-- [Jensen Huang](https://zh.wikipedia.org/zh-tw/%E9%BB%84%E5%8D%B0%E7%A1%80) — Une autre personne d'origine taïwanaise ayant atteint le sommet d'une industrie internationale, empruntant un chemin totalement différent : rester au cœur du système et se rendre indispensable.
-- [Wu Pao-chun](https://zh.wikipedia.org/zh-tw/%E5%8D%90%E5%B1%80%E9%99%86) — Un artisan qui a conquis les juges français avec des ingrédients et matériaux taïwanais, parcourant deux chemins différents : le pain et la haute gastronomie.
-- [Huang Shan-liao](https://zh.wikipedia.org/zh-tw/%E9%BB%84%E5%B1%8B%E5%8C%97) — Un autre jeune Taïwanais sur la scène mondiale, passant du podium de la mode au bureau pour écrire, remplaçant son savoir-faire initial par l'écriture.
+- [Nie Yung-chen](/fr/people/nieh-yung-jen/) — Un autre nom qui a porté Taïwan sur la scène internationale, utilisant le design graphique plutôt que la cuisine pour faire connaître la visibilité de Taïwan.
+- [Ang Lee](/fr/people/ang-lee/) — Un créateur qui raconte des histoires orientales dans un système occidental, explorant les questions « Qui suis-je ? » et « D'où je viens ? ».
+- [Jensen Huang](/fr/people/jensen-huang/) — Une autre personne d'origine taïwanaise ayant atteint le sommet d'une industrie internationale, empruntant un chemin totalement différent : rester au cœur du système et se rendre indispensable.
+- [Wu Pao-chun](/fr/people/wu-bao-chun/) — Un artisan qui a conquis les juges français avec des ingrédients et matériaux taïwanais, parcourant deux chemins différents : le pain et la haute gastronomie.
+- [Huang Shan-liao](/fr/people/huang-shan-liao/) — Un autre jeune Taïwanais sur la scène mondiale, passant du podium de la mode au bureau pour écrire, remplaçant son savoir-faire initial par l'écriture.
 
 ## Sources des images
 
@@ -200,7 +200,7 @@ Il y a un nouveau restaurant couvrant 139 ans à Singapour, une académie qui n'
 
 [^1]: [Chef de restaurant cinq étoiles André Chiang : Une passion sans épreuves n'a aucune valeur](https://www.lssh.tp.edu.tw/~life/cmw0-990920.htm) — Reprise du texte original d'une interview de 2007 dans _China Times_ ; documente des détails tels que « être le plus jeune chef de restaurant français à Taïwan », « avoir fait tout son possible pour inviter les frères Pourcel », « travailler ensemble pendant dix jours », « Voulez-vous aller en France ? », « sa mère préparait ses bentos et les livrait en moto », ainsi que les deux reportages dans _Time_ sur la « meilleure cuisine de l'Océan Indien ». Cette source est plus proche des événements (1997) et plus fiable que l'autre mentionnée. La page originale n'est pas accessible, mais cette version identifie clairement la source et la date.
 
-[^2]: [André Chiang](https://zh.wikipedia.org/zh-tw/%E6%B1%9F%E6%8C%AF%E8%AA%A1) — Article de Wikipédia en chinois, mentionnant sa naissance à Shipei, Beitou et son éducation à Shilin.
+[^2]: [André Chiang](https://zh.wikipedia.org/zh-tw/%E6%B1%9F%E6%8C%AF%E8%AA%A0) — Article de Wikipédia en chinois, mentionnant sa naissance à Shipei, Beitou et son éducation à Shilin.
 
 [^3]: [Retour aux sources pour mieux se battre](https://www.wowlavie.com/article/ae1400710) — Entrevue du 18 décembre 2014 dans _La Vie_, citation directe d'André Chiang sur la difficulté de communiquer et le travail sur les pommes de terre pendant deux ans.
 

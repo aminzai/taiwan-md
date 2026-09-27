@@ -174,7 +174,7 @@ Trong quá trình này, ngôn ngữ cũng là một biến số then chốt: t�
 
 Ngày nay, khi chúng ta nghe tiếng Noise thử nghiệm của Zuoshuihe Commune, dòng Rock tiếng Đài của Ban nhạc Giám đốc, hay những ca khúc truyền cảm hứng của Mayday, thứ mà chúng ta đang nghe chính là ký ức âm thanh về sự chuyển mình của xã hội Đài Loan, là minh chứng cho tinh thần sáng tạo tự do được lưu giữ dưới hình thức âm nhạc.
 
-**Đọc thêm**: [Nhạc Rock Đài Loan — Wikipedia](https://zh.wikipedia.org/wiki/%E8%90%81%E5%AE%9E%E6%A3%AE%E6%B3%95) ｜ [Cục Công nghiệp Điện ảnh và Âm nhạc Đại chúng, Bộ Văn hóa](https://www.bamid.gov.tw/) ｜ [Da Tuan Dan Sheng | Believe Music](https://www.bin-music.com/) ｜ [Ocean Music Festival](https://www.hohaiyan.com/)
+**Đọc thêm**: [Nhạc Rock Đài Loan — Wikipedia](https://zh.wikipedia.org/wiki/臺灣搖滾樂) ｜ [Cục Công nghiệp Điện ảnh và Âm nhạc Đại chúng, Bộ Văn hóa](https://www.bamid.gov.tw/) ｜ [Da Tuan Dan Sheng | Believe Music](https://www.bin-music.com/) ｜ [Ocean Music Festival](https://www.hohaiyan.com/)
 
 ## Tài liệu tham khảo
 

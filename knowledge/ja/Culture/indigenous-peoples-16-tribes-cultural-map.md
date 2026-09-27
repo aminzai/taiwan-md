@@ -107,7 +107,7 @@ translatedAt: '2026-06-16T17:10:30Z'
 - [族語E楽園](https://web.klokah.tw/) — 16族言語オンライン学習プラットフォーム
 - [Wikipedia：セデク族](https://zh.wikipedia.org/wiki/賽德克族) — 正名の経緯と霧社事件
 - [Wikipedia：タオ族](https://zh.wikipedia.org/wiki/達悟族) — 飛魚季の文化と蘭嶼社会
-- [Wikipedia：サクリウ・パヴァヴァロン](https://zh.wikipedia.org/wiki/撒古流·巴瓦ワロン) — パイワン族芸術家の生涯とインタビュー記録
+- [Wikipedia：サクリウ・パヴァヴァロン](https://zh.wikipedia.org/wiki/撒古流·巴瓦瓦隆) — パイワン族芸術家の生涯とインタビュー記録
 - [Wikipedia：カナカナフ族](https://zh.wikipedia.org/wiki/卡那卡那富族) — 正名の経緯と人口現状
 - 黄美英（2018）『台湾原住民族発展史』、五南出版
 

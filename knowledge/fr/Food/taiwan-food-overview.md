@@ -288,7 +288,7 @@ Aucune cuisine n'est purement taïwanaise. Chaque plat est le plus taïwanais.
 Cet article utilise 9 images de domaine public / sous licence CC, toutes mises en cache dans `public/article-images/food/` pour éviter les liens directs vers les serveurs sources :
 
 - [Raohe Night Market 173356](https://commons.wikimedia.org/wiki/File:%E9%A5%92%E6%B2%B3%E8%A1%97%E8%A7%80%E5%85%89%E5%A4%9C%E5%B8%82_173356.jpg) — Photo : KClinla, 2023-04-26, CC BY-SA 4.0
-- [Cinavu Paiwan beiyeh](https://commons.wikimedia.org/wiki/File:%E6%8E%92%E7%87%88%E6%97%8F%E9%A3%AF%E9%A3%9F_%E5%8C%97%E8%91%89%E9%83%A8%E8%90%BD%E5%90%89%E6%8B%BF%E5%AF%8C-02.jpg) — Photo : Sin-siōng, 2024-01-02, CC BY-SA 4.0
+- [Cinavu Paiwan beiyeh](https://commons.wikimedia.org/wiki/File:排灣族飲食_北葉部落吉拿富-02.jpg) — Photo : Sin-siōng, 2024-01-02, CC BY-SA 4.0
 - [Lurou fan by udono](https://commons.wikimedia.org/wiki/File:Lurou_fan_by_udono_in_Tamsui,_Taipei.jpg) — Photo : udono (Shuets Udono), 2007-10-26, CC BY 2.0
 - [Beef noodle soup Shilin](https://commons.wikimedia.org/wiki/File:Food_BeefNoodleSoup.JPG) — Photo : (WT-shared) Jpatokal, 2007-08-22, CC BY-SA 4.0 (multi-license)
 - [Xiaolongbao Din Tai Fung Taipei](https://commons.wikimedia.org/wiki/File:Steamed_xiaolongbao_served_in_a_traditional_Chinese_steaming_basket_at_a_Din_Tai_Fung_restaurant_in_Taipei_20090321.jpg) — Photo : Banzai Hiroaki, 2009-03-21, CC BY 2.0
