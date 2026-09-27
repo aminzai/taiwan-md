@@ -192,7 +192,7 @@ Taiwan.md의 좌표에서 두판팡거는 적어도 네 개의 교차점을 차�
 **더 읽을거리**:
 
 - [笠詩社](/ko/art/li-poetry-society) — 그녀가 1965년에 들어간 본토파 시사의 네트워크
-- [二二八事件](/ko/history/228-incident) — 장치랑의 사건이 놓여 있는, 섬 전체 규모의 트라우마의 구조
+- [2·28 사건](/ko/history/228-incident) — 장치랑의 사건이 놓여 있는, 섬 전체 규모의 트라우마의 구조
 - [台灣白色恐怖](/ko/history/taiwan-white-terror) — 〈평안희〉의 정치적인 읽기의 제도적 배경
 - [台灣文學史](/ko/art/history-of-taiwanese-literature) — 언어를 건너뛴 세대와 모어 문학의 장기적인 위치
 - [莫那能](/ko/people/monaneng) — "모어가 아닌 언어 / 한자로 민족을 위해 목소리를 낸다"는 또 하나의 대위적인 길
