@@ -3,7 +3,7 @@ title: 'BABEL-VORTEX-LOOP'
 description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.55)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.76'
+current_version: 'v1.77'
 last_updated: 2026-09-28
 last_session: '2026-09-26-100333-babel-vortex（翻譯率 100% 模式：推送常駐、付費 Haiku、閘門家族、委派 worktree 路徑陷阱與核准視窗、腳註修復器的語言盲）'
 sister_docs:
@@ -293,6 +293,17 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 證據（重試觸發次數），不是相關性。
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
+
+- v1.77（2026-09-28 凌晨第二十四輪）：**譯文殘留的 wikilink，站上把中文秀給讀者**。上一輪為了讓 es〈台語歌演化〉
+  過閘，自創了 `[[zh 條目|譯名]]` 的寫法；這輪才讀到 07-18 的 `flatten-translation-wikilinks.py` 與 09-22 起三條引擎
+  共用的 `cross_link_localizer.resolve_wikilinks`：canon 早就有（有譯文 → 連結、沒有 → 純文字）。§儀器化第 1 條
+  「動手前先查既有工具」上一輪沒做。存量量下去：譯文裡還有 940 個 wikilink，文章頁一律轉粗體，其中 606 處顯示字
+  是中文（vi〈音樂祭文化〉粗體的「濁水溪公社」，線上實測）。`translation-wikilink-stock.py` 分三類、只機械改寫 A 類
+  （顯示字已翻、目標有譯文：127 處／46 篇，照引擎同一個函式改成連結，`17d8c5b7d`、`732eea35f`）；B 類英文名當目標
+  207 處／69 篇、C 類中文顯示字 606 處／180 篇，超過 50 檔 → OBSERVER-QUEUE #88（改寫初版推薦）。落地時 es〈滷肉飯〉
+  被 pre-commit 擋下：最後一條腳註斷在 `youtube.com/watch`（全庫只有這篇），補回後 verify 又抓到譯者自加的連結，
+  把台北的劉山東牛肉麵連到「上海牛肉麵」的維基頁（`0c7bd6c1a`）。另：第二十三輪的面板把四格換成自訂指標，違反
+  鐵律 2，本輪改回固定定義。
 
 - v1.76（2026-09-28 凌晨第二十三輪）：**標題層級漂移**。沿著「內容對不上 zh」再量一格：44 篇譯文標題數跟 zh 一樣、
   層級卻不一樣，最常見是 zh 的 `###` 被升成 `##`（ja〈台灣維基百科〉九個全升），站上目次多出假的頂層章節。內容沒錯，
