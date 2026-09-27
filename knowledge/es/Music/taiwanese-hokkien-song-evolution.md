@@ -31,7 +31,7 @@ translatedAt: 2026-05-17T05:34:54+08:00
 
 ## Panorama en 30 segundos
 
-Las canciones en taiwanes de Taiwán han atravesado una evolución desde la cultura nakashi de la posguerra, la era de los reyes del canto como Hong Yifeng y Wen Xia, los años dorados dominados por Jody Chiang, hasta las innovadoras interpretaciones de las nuevas generaciones de bandas como Eggplant Egg Band, Sorry Youth Band y Collage. Las canciones en taiwanes han pasado del estereotipo de "música de los abuelos" a convertirse en la nueva favorita de los jóvenes bohemios, y la creación de la categoría de álbum en taiwanes en los Premios Golden Melody ha proporcionado un apoyo institucional a esta evolución.
+Las canciones en taiwanes de Taiwán han atravesado una evolución desde la cultura nakashi de la posguerra, la era de los reyes del canto como Hong Yifeng y Wen Xia, los años dorados dominados por [[江蕙|Jody Chiang]], hasta las innovadoras interpretaciones de las nuevas generaciones de bandas como [[茄子蛋|Eggplant Egg Band]], [[拍謝少年|Sorry Youth Band]] y Collage. Las canciones en taiwanes han pasado del estereotipo de "música de los abuelos" a convertirse en la nueva favorita de los jóvenes bohemios, y la creación de la categoría de álbum en taiwanes en los Premios Golden Melody ha proporcionado un apoyo institucional a esta evolución.
 
 **Palabras clave:** música pop en taiwanes, herencia generacional, innovación musical, identidad cultural, revitalización de la lengua materna
 
@@ -87,7 +87,7 @@ Muchos cantantes en taiwanes se orientaron durante este hacia formatos de actuac
 
 ### El ascenso de Jody Chiang, la "Segunda Hermana"
 
-A finales de la década de 1980, la aparición de Jody Chiang trajo un nuevo apogeo a las canciones en taiwanes. Su voz única, su exquisita técnica vocal y su profunda interpretación emocional de las canciones hicieron que las canciones en taiwanes recuperaran una amplia atención y aceptación.
+A finales de la década de 1980, la aparición de [[江蕙|Jody Chiang]] trajo un nuevo apogeo a las canciones en taiwanes. Su voz única, su exquisita técnica vocal y su profunda interpretación emocional de las canciones hicieron que las canciones en taiwanes recuperaran una amplia atención y aceptación.
 
 El éxito de Jody Chiang no se debe únicamente a su talento personal, sino que también refleja los cambios en el entorno político de la sociedad taiwanesa. Con la levantamiento de la ley marcial y el auge de la conciencia local, la cultura en taiwanes comenzó a recibir mayor reconocimiento y apoyo. Jody Chiang supo aprovechar esta oportunidad convirtiéndose en la voz más representativa del resurgimiento de las canciones en taiwanes tras la democratización.[^3]
 
@@ -101,13 +101,13 @@ Los conciertos de Jody Chiang suelen agotar las entradas, lo que demuestra la po
 
 ### Eggplant Egg Band: la interpretación en taiwanes del espíritu rock
 
-La aparición de Eggplant Egg Band marcó la entrada de las canciones en taiwanes en una era completamente nueva. Esta banda combina arreglos de rock con letras en taiwanes, creando un estilo musical único. Su obra representativa "El vagabundo regresa" (浪子回頭) se hizo viral en internet, haciendo que muchos jóvenes redescubrieran el encanto de las canciones en taiwanes.
+La aparición de [[茄子蛋|Eggplant Egg Band]] marcó la entrada de las canciones en taiwanes en una era completamente nueva. Esta banda combina arreglos de rock con letras en taiwanes, creando un estilo musical único. Su obra representativa "El vagabundo regresa" (浪子回頭) se hizo viral en internet, haciendo que muchos jóvenes redescubrieran el encanto de las canciones en taiwanes.
 
 El éxito de Eggplant Egg Band radica en su capacidad de interpretar canciones en taiwanes en un lenguaje musical familiar para los jóvenes, eliminando la barrera lingüística. Sus letras suelen estar llenas de expresiones cotidianas, combinadas con arreglos sólidos, otorgando a las canciones en taiwanes una modernidad sin precedentes.
 
 ### Sorry Youth Band: la práctica del taiwanes con estética bohemia
 
-La banda Sorry Youth Band, con su refinado gusto musical y su estética bohemia, ha aportado una dimensión completamente nueva a las canciones en taiwanes. Su música fusiona elementos de rock independiente, folk y electrónica, con letras llenas de poesía, mostrando la dimensión literaria de las canciones en taiwanes.
+La banda [[拍謝少年|Sorry Youth Band]], con su refinado gusto musical y su estética bohemia, ha aportado una dimensión completamente nueva a las canciones en taiwanes. Su música fusiona elementos de rock independiente, folk y electrónica, con letras llenas de poesía, mostrando la dimensión literaria de las canciones en taiwanes.
 
 El público de Sorry Youth Band son principalmente jóvenes con educación superior, y su aceptación de las canciones en taiwanes demuestra el resurgimiento de la música en lengua materna en las capas intelectuales. Este fenómeno se conoce como la "bohemización" de las canciones en taiwanes, representando una elevación del estatus social de la música en taiwanes.
 
