@@ -68,7 +68,7 @@ Ngày 4 tháng 9 năm 2020, chung kết DD52. Quân Bão Đen Nhị Lô của Li
 
 Sau khi chương trình kết thúc, nhà sản xuất Phillips ký hợp đồng với sáu thành viên của Bão Đen Nhị Lô, thành lập [HUR+](/people/HUR-plus). Vị trí của Liên Anh trong nhóm là **vũ công chính cùng hát phụ**, điều mà cô xây dựng bằng câu nói đó trên DD52 được chuyển hóa thành vị trí trong nhóm sau khi ra mắt[^2].
 
-Ngày 6 tháng 11 năm 2020, HUR ra mắt. DD52 giành được giải Chương trình Giải trí lần thứ 56 Golden Melody Awards[^5].
+Ngày 6 tháng 11 năm 2020, HUR ra mắt. DD52 giành được giải Chương trình Giải trí tại Golden Bell Awards lần thứ 56[^5].
 
 Trong ba năm tiếp theo, Liên Anh cùng HUR trải qua tất cả những gì mà một nhóm thần tượng thế hệ mới của Đài Loan sẽ trải qua: phát hành album (《REVELATION》 năm 2021, 《Crimzon》 năm 2024), tổ chức liveshow (Sanyi, Legacy Taipei), tham gia 《Cô gái tương lai》 mở rộng thành chín người, gây quỹ bay sang Hàn để biểu diễn ca khúc[^6].
 
@@ -189,7 +189,7 @@ Bắt đầu nhảy từ lớp hai, chuyển đổi ở cấp trung học, từn
 
 [^4]: [Phỏng vấn Liên Anh - NIUSNEWS Mẹo Nữ Tính](https://www.niusnews.com/=P3pf0wfw4) — Phỏng vấn NiusNews tháng 6 năm 2024, ghi lại lời nói "giấc mơ sao", "tuyệt đối không thỏa hiệp"座右銘, tên fan "quân báo đốm", biệt danh "nước sốt cay ngọt Tân Hương Xuân", phản hồi chỉ trích "hoàn toàn không để tâm", gia đình có không gian trưng bày vật phẩm ứng viên.
 
-[^5]: [菱格世代 DD52 - Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%8F%B1%E6%A0%BC%E4%B8%96%E4%BB%A3) — Mục Wikipedia, ghi lại chung kết Quân Lửa Nồng Nhiệt 57.9 điểm so với Bão Đen Nhị Lô 55.4 điểm, giải Chương trình Giải trí lần thứ 56 Golden Melody Awards.
+[^5]: [菱格世代 DD52 - Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%8F%B1%E6%A0%BC%E4%B8%96%E4%BB%A3) — Mục Wikipedia, ghi lại chung kết Quân Lửa Nồng Nhiệt 57.9 điểm so với Bão Đen Nhị Lô 55.4 điểm, giải Chương trình Giải trí tại Golden Bell Awards lần thứ 56.
 
 [^6]: [Liên Anh - Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%80%A3%E7%A9%8E) — Mục Wikipedia, ghi lại trình độ học vấn Đại học Phục Nhân, danh sách đầy đủ các bài hát cá nhân, ghi lại hoạt động nhóm.
 

@@ -11,7 +11,7 @@ tags:
     'YouTuber',
     'politik internet',
     'anggota DPRD Taipei',
-    'Golden Bell Awards',
+    'Penghargaan Zouzhong',
   ]
 subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'

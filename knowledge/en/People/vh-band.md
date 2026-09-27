@@ -1,6 +1,6 @@
 ---
 title: "VH (Vast & Hazy): Fifteen Years of Directional Calibration for an 'Exit-System Band'"
-description: "Formed at the Tamkang University Golden Bell Award in 2011, went on hiatus in 2014, returned as a duo in 2017, and was nominated three times for Golden Melody Best Vocal Group. In an era when the Taiwan indie scene favored noise, Vast & Hazy chose to be a shelter for nameless anxiety — and fans spontaneously named them an 'exit-system band.' In April 2026, after Yi-chi announced his move to behind-the-scenes work, Ka-ka carries the name forward."
+description: "Formed at the Tamkang University Jin Shao Award in 2011, went on hiatus in 2014, returned as a duo in 2017, and was nominated three times for Golden Melody Best Vocal Group. In an era when the Taiwan indie scene favored noise, Vast & Hazy chose to be a shelter for nameless anxiety — and fans spontaneously named them an 'exit-system band.' In April 2026, after Yi-chi announced his move to behind-the-scenes work, Ka-ka carries the name forward."
 date: 2026-04-19
 tags:
   [
@@ -30,7 +30,7 @@ sourceBodyHash: 'sha256:cac852a1ab84bcac'
 translatedAt: '2026-05-01T12:53:58+08:00'
 ---
 
-> **30-second overview:** VH (Vast & Hazy) is a Taiwanese independent duo formed by Ka-ka (Yen Ching-hsuan) and Yi-chi (Lin Yi-chi) at the Tamkang University Golden Bell Award in 2011, nominated three times for Golden Melody Best Vocal Group (2019, 2022, 2025). With a creative philosophy of wrapping gentle vocals around observations of human nature, they rose against the grain in a 2010s indie scene dominated by political rock, and fans spontaneously named them an "exit-system band." After the RE:VH annual showcase "Forward March" in April 2026, Yi-chi announced his role would shift primarily to behind the scenes, moving the band into a new phase centered on Ka-ka.
+> **30-second overview:** VH (Vast & Hazy) is a Taiwanese independent duo formed by Ka-ka (Yen Ching-hsuan) and Yi-chi (Lin Yi-chi) at the Tamkang University Jin Shao Award in 2011, nominated three times for Golden Melody Best Vocal Group (2019, 2022, 2025). With a creative philosophy of wrapping gentle vocals around observations of human nature, they rose against the grain in a 2010s indie scene dominated by political rock, and fans spontaneously named them an "exit-system band." After the RE:VH annual showcase "Forward March" in April 2026, Yi-chi announced his role would shift primarily to behind the scenes, moving the band into a new phase centered on Ka-ka.
 
 April 10, 2026, at SUB LIVE in Taipei: the RE:VH annual showcase "Forward March." After the performance ended, Yi-chi said something — from now on his role would shift primarily to behind the scenes, and he would no longer appear on stage at every show.[^7]
 
@@ -40,7 +40,7 @@ Fifteen years of "marching forward," and a new shape has emerged.
 
 In 2008, Ka-ka (Yen Ching-hsuan) was in her second year of high school; Yi-chi (Lin Yi-chi) was in his third. The two belonged to guitar clubs at different high schools in Taipei, crossing paths briefly at a five-school joint performance — and only properly meeting when they both went to audition for arts university on the same day.
 
-A few years later they were in the same music circle at Tamkang University. In 2011, they brought drummer Bai-hu and one original song "yet," and entered the 23rd Tamkang Golden Bell Award, winning Best Composition, Best Lyrics, and Best Arrangement — three prizes at once.[^1] At the time they didn't even have a band name yet — but this competition record is Vast & Hazy's earliest public existence.
+A few years later they were in the same music circle at Tamkang University. In 2011, they brought drummer Bai-hu and one original song "yet," and entered the 23rd Tamkang Jin Shao Award, winning Best Composition, Best Lyrics, and Best Arrangement — three prizes at once.[^1] At the time they didn't even have a band name yet — but this competition record is Vast & Hazy's earliest public existence.
 
 ### A Necessary Disappearance
 

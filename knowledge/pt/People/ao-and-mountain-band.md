@@ -1,6 +1,6 @@
 ---
 title: 'Ao e Montanha (Our Shame): duas funcionárias de tecnologia usam sintetizadores para criar o que não podem dizer no escritório'
-description: 'Ao e Montanha (Our Shame) é um duo taiwanês de folktronica, formado por Hsiao Ao (voz, sintetizador, produção) e Isan (bateria, pad), que se conheceram no clube de música da escola secundária e, na universidade, venceram o Golden Melody Awards (universitário) de 2015 na categoria composição com folk acústico. Após a formatura, ambas entraram para a indústria tecnológica como funcionárias de escritório. No inverno de 2018, renomearam o projeto — antes chamado «Wei Hsiao Ao» — para «Ao e Montanha»; Hsiao Ao comprou um sintetizador, Isan passou a tocar pad, e o som migrou para a folktronica. Em 2022, após a morte de uma amiga próxima, Hsiao Ao pediu demissão do emprego fixo e o duo lançou o álbum de estreia *Modern Problem*, indicado ao 13.º Golden Indie Music Awards nas categorias Melhor Álbum Pop Alternativo e Melhor Artista Revelação. A 4 de agosto de 2025 saiu o segundo álbum, *Hidden Album*, com equipa internacional: o britânico Jay Reynolds (mixagem, Grammy), o norte-americano Brian Elgin (masterização, Grammy, trabalhou com Dua Lipa e Lana Del Rey), a japonesa ASOBOiSM e o francês Odd People Club. O tema desloca-se da «ansiedade tecnológica» (*Modern Problem*) para as «sombras da humanidade encobertas pela tecnologia» — autoflagelação, amores tabu, golpes com criptomoedas, vivências do corpo feminino — e a faixa «Miffy» presta homenagem à ativista Chen Mei-hui.'
+description: 'Ao e Montanha (Our Shame) é um duo taiwanês de folktronica, formado por Hsiao Ao (voz, sintetizador, produção) e Isan (bateria, pad), que se conheceram no clube de música da escola secundária e, na universidade, venceram o Jin Shao Award (universitário) de 2015 na categoria composição com folk acústico. Após a formatura, ambas entraram para a indústria tecnológica como funcionárias de escritório. No inverno de 2018, renomearam o projeto — antes chamado «Wei Hsiao Ao» — para «Ao e Montanha»; Hsiao Ao comprou um sintetizador, Isan passou a tocar pad, e o som migrou para a folktronica. Em 2022, após a morte de uma amiga próxima, Hsiao Ao pediu demissão do emprego fixo e o duo lançou o álbum de estreia *Modern Problem*, indicado ao 13.º Golden Indie Music Awards nas categorias Melhor Álbum Pop Alternativo e Melhor Artista Revelação. A 4 de agosto de 2025 saiu o segundo álbum, *Hidden Album*, com equipa internacional: o britânico Jay Reynolds (mixagem, Grammy), o norte-americano Brian Elgin (masterização, Grammy, trabalhou com Dua Lipa e Lana Del Rey), a japonesa ASOBOiSM e o francês Odd People Club. O tema desloca-se da «ansiedade tecnológica» (*Modern Problem*) para as «sombras da humanidade encobertas pela tecnologia» — autoflagelação, amores tabu, golpes com criptomoedas, vivências do corpo feminino — e a faixa «Miffy» presta homenagem à ativista Chen Mei-hui.'
 date: 2026-04-18
 author: 'Taiwan.md'
 category: 'People'
@@ -16,7 +16,7 @@ tags:
     'Folktrônica',
     'Música independente',
     'Golden Indie Music Awards',
-    'Golden Melody Awards (universitário)',
+    'Jin Shao Award (universitário)',
     'Modern Problem',
     'Hidden Album',
     'Sintetizador',
@@ -32,13 +32,13 @@ sourceBodyHash: 'sha256:99f87ca9cdb0ab32'
 translatedAt: '2026-07-25T06:34:18+08:00'
 ---
 
-> **Resumo em 30 segundos:** Ao e Montanha (Our Shame) é um duo taiwanês de folktronica formado pela vocalista Hsiao Ao (Estelle H) e pelo baterista Isan. Conheceram-se no clube de música do ensino médio e, na universidade, conquistaram o **Golden Melody Awards (universitário) na categoria composição** com a versão demo acústica de «Querida». Após a formatura, ambas ingressaram na indústria tecnológica. No inverno de 2018, rebatizaram o projeto — antes «Wei Hsiao Ao» — para «Ao e Montanha»; Hsiao Ao adquiriu um sintetizador, Isan migrou para o pad, e o som virou folktronica. Em 2019 lançaram o EP _Todas as Coisas Boas Acontecerão_, mixado pelo produtor japonês premiado AKNIT. O álbum de estreia _Modern Problem_ (2022) rendeu **dupla indicação ao 13.º Golden Indie Music Awards (Melhor Pop Alternativo e Melhor Artista Revelação)**, com 60 % das faixas em inglês. A 4 de agosto de 2025 saiu _Hidden Album_, com equipa internacional: Jay Reynolds (Reino Unido, mixagem, Grammy), Brian Elgin (EUA, masterização, Grammy, Dua Lipa, Lana Del Rey), ASOBOiSM (Japão), Odd People Club (França) — tema: da «ansiedade tecnológica» para as «sombras humanas encobertas pela tecnologia»: autoflagelação, amores proibidos, golpes com criptomoedas, vivências do corpo feminino. «Miffy» homenageia a ativista Chen Mei-hui. A 4 de janeiro de 2026, concerto homônimo de _Hidden Album_.
+> **Resumo em 30 segundos:** Ao e Montanha (Our Shame) é um duo taiwanês de folktronica formado pela vocalista Hsiao Ao (Estelle H) e pelo baterista Isan. Conheceram-se no clube de música do ensino médio e, na universidade, conquistaram o **Jin Shao Award (universitário) na categoria composição** com a versão demo acústica de «Querida». Após a formatura, ambas ingressaram na indústria tecnológica. No inverno de 2018, rebatizaram o projeto — antes «Wei Hsiao Ao» — para «Ao e Montanha»; Hsiao Ao adquiriu um sintetizador, Isan migrou para o pad, e o som virou folktronica. Em 2019 lançaram o EP _Todas as Coisas Boas Acontecerão_, mixado pelo produtor japonês premiado AKNIT. O álbum de estreia _Modern Problem_ (2022) rendeu **dupla indicação ao 13.º Golden Indie Music Awards (Melhor Pop Alternativo e Melhor Artista Revelação)**, com 60 % das faixas em inglês. A 4 de agosto de 2025 saiu _Hidden Album_, com equipa internacional: Jay Reynolds (Reino Unido, mixagem, Grammy), Brian Elgin (EUA, masterização, Grammy, Dua Lipa, Lana Del Rey), ASOBOiSM (Japão), Odd People Club (França) — tema: da «ansiedade tecnológica» para as «sombras humanas encobertas pela tecnologia»: autoflagelação, amores proibidos, golpes com criptomoedas, vivências do corpo feminino. «Miffy» homenageia a ativista Chen Mei-hui. A 4 de janeiro de 2026, concerto homônimo de _Hidden Album_.
 
 No inverno de 2018, num quarto qualquer de Taipé.
 
 Hsiao Ao acabara de comprar um sintetizador. Isan acabara de comprar um pad.
 
-Elas tocaram juntas no clube de música do ensino médio, venceram juntas o Golden Melody Awards (universitário) na faculdade e, após a formatura, as duas foram trabalhar na indústria tecnológica como funcionárias de escritório. Naquele dia decidiram mudar o nome do projeto — antes «Wei Hsiao Ao» — para um novo nome.[^1]
+Elas tocaram juntas no clube de música do ensino médio, venceram juntas o Jin Shao Award (universitário) na faculdade e, após a formatura, as duas foram trabalhar na indústria tecnológica como funcionárias de escritório. Naquele dia decidiram mudar o nome do projeto — antes «Wei Hsiao Ao» — para um novo nome.[^1]
 
 O nome escolhido foi Ao e Montanha.
 
@@ -61,7 +61,7 @@ A história começa mais cedo.
 
 As duas conheceram-se no clube de música do ensino médio. A típica história de banda escolar taiwanesa: alguns alunos apaixonados por música, ensaiando na sala do clube após as aulas. Nenhuma das duas planejava inicialmente tornar-se música profissional.
 
-Durante a universidade mantiveram a parceria, formação simples: Hsiao Ao no violão e voz, Isan no cajón.[^3] Em 2015, com a versão demo acústica de **[«Querida»](https://www.youtube.com/watch?v=G_wt0-SAPtk)**, conquistaram o **título de composição do Golden Melody Awards (universitário)**. O Golden Melody Awards (universitário) é o prémio de criação musical a nível de ensino superior em Taiwan; o título significou visibilidade no círculo de compositores da mesma geração.[^3]
+Durante a universidade mantiveram a parceria, formação simples: Hsiao Ao no violão e voz, Isan no cajón.[^3] Em 2015, com a versão demo acústica de **[«Querida»](https://www.youtube.com/watch?v=G_wt0-SAPtk)**, conquistaram o **título de composição do Jin Shao Award (universitário)**. O Jin Shao Award (universitário) é o prémio de criação musical a nível de ensino superior em Taiwan; o título significou visibilidade no círculo de compositores da mesma geração.[^3]
 
 Mas esse feito tornou-se um pico descontínuo: logo a seguir ambas entraram na indústria tecnológica e a atividade da banda parou.[^1] No meio independente de Taiwan, esse enredo não é raro: a paixão arde na faculdade, a rotina social a apaga após a formatura, a banda dissolve-se naturalmente.
 
@@ -167,7 +167,7 @@ Isso é Ao e Montanha.
 
 [^2]: [Marie Claire 2023 Entrevista Ao e Montanha](https://www.marieclaire.com.tw/entertainment/music/83586) — Entrevista profunda da Marie Claire 2023, aborda o tema da solidão contemporânea, a definição estética folktronica e a filosofia de Isan sobre «colaboração transfronteiriça na era da internet».
 
-[^3]: [POLYSH 2022 Entrevista Ao e Montanha](https://thepolysh.com/blog/2022/11/30/our-shame-interview/) — Entrevista do média musical POLYSH após o lançamento de _Modern Problem_, detalha o ponto de partida no Golden Melody Awards (universitário), a pausa pós-formatura, a decisão do inverno de 2018 e a aquisição do sintetizador.
+[^3]: [POLYSH 2022 Entrevista Ao e Montanha](https://thepolysh.com/blog/2022/11/30/our-shame-interview/) — Entrevista do média musical POLYSH após o lançamento de _Modern Problem_, detalha o ponto de partida no Jin Shao Award (universitário), a pausa pós-formatura, a decisão do inverno de 2018 e a aquisição do sintetizador.
 
 [^4]: [StreetVoice Página Ao e Montanha — Lançamento «Richard»](https://streetvoice.com/ourshame92/) — Página oficial no StreetVoice, regista o single «Richard» de dezembro de 2018, com explicação do episódio Richard Russell da Horizon Air e registo de várias semanas no topo e um milhão de reproduções.
 

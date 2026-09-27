@@ -1,6 +1,6 @@
 ---
 title: 'Ao dan Gunung: Dua Pekerja Teknologi yang Membuat Musik dengan Synthesizer tentang Hal-Hal yang Tidak Bisa Dikatakan di Kantor'
-description: "Ao dan Gunung (Our Shame) adalah grup lagu folktronica berdua dari Taiwan, terdiri dari Ao (vokal, synthesizer, produser) dan Isan (drum, Pad). Mereka kenal di Klub Musik SMA mereka, dan selama periode kuliah mereka memenangkan Hadiah Kreativitas Golden Kuo-yuan pada tahun 2015 dengan lagu a cappella. Setelah lulus, kedua orang bekerja sebagai pekerja teknologi. Pada musim dingin 2018, mereka mengganti nama grup lagu folk akustik yang awalnya bernama 'Ao Kecil' menjadi 'Ao dan Gunung', membeli synthesizer, Isan berubah menjadi pengoperasian Pad, dan musik mereka beralih ke folktronica (folk elektronik). Pada tahun 2022, teman dekat Ao meninggal, Ia mengundurkan diri dari pekerjaan penuh waktu, dan grup mereka merilis album pertama《Modern Problem》yang dinominasikan untuk Penghargaan Musik Golden Melody 13 tahun untuk Kategori Lagu Pop Alternatif Terbaik dan Petingan Pemula Terbaik. Pada 4 Agustus 2025, mereka merilis album kedua《Hidden Album》dengan kolaborasi produser audio Grammy British Jay Reynolds, insinyur audio Grammy Amerika Serikat Brian Elgin (yang pernah bekerja sama dengan Dua Lipa dan Lana Del Rey), serta tim kolaborasi internasional seperti ASOBOiSM di Jepang. Tema album beralih dari 'kecemasan teknologi' (Modern Problem) menuju 'bayangan manusiawi yang tersembunyi di balik teknologi'—mengatasi masalah depresi, cinta terlarang, penipuan kripto virtual, pengalaman tubuh perempuan—di mana satu lagu《Miffy》menyemangati Chen Mei-hui, seorang aktivis sosial."
+description: "Ao dan Gunung (Our Shame) adalah grup lagu folktronica berdua dari Taiwan, terdiri dari Ao (vokal, synthesizer, produser) dan Isan (drum, Pad). Mereka kenal di Klub Musik SMA mereka, dan selama periode kuliah mereka memenangkan Hadiah Kreativitas Jin Shao pada tahun 2015 dengan lagu a cappella. Setelah lulus, kedua orang bekerja sebagai pekerja teknologi. Pada musim dingin 2018, mereka mengganti nama grup lagu folk akustik yang awalnya bernama 'Ao Kecil' menjadi 'Ao dan Gunung', membeli synthesizer, Isan berubah menjadi pengoperasian Pad, dan musik mereka beralih ke folktronica (folk elektronik). Pada tahun 2022, teman dekat Ao meninggal, Ia mengundurkan diri dari pekerjaan penuh waktu, dan grup mereka merilis album pertama《Modern Problem》yang dinominasikan untuk Golden Indie Music Awards ke-13 untuk Kategori Lagu Pop Alternatif Terbaik dan Petingan Pemula Terbaik. Pada 4 Agustus 2025, mereka merilis album kedua《Hidden Album》dengan kolaborasi produser audio Grammy British Jay Reynolds, insinyur audio Grammy Amerika Serikat Brian Elgin (yang pernah bekerja sama dengan Dua Lipa dan Lana Del Rey), serta tim kolaborasi internasional seperti ASOBOiSM di Jepang. Tema album beralih dari 'kecemasan teknologi' (Modern Problem) menuju 'bayangan manusiawi yang tersembunyi di balik teknologi'—mengatasi masalah depresi, cinta terlarang, penipuan kripto virtual, pengalaman tubuh perempuan—di mana satu lagu《Miffy》menyemangati Chen Mei-hui, seorang aktivis sosial."
 date: 2026-04-18
 category: 'People'
 subcategory: 'Musik dan Pertunjukan'
@@ -14,8 +14,8 @@ tags:
     'Folktronica',
     'folk elektronik',
     'musik independen',
-    'Penghargaan Musik Golden Melody',
-    'Golden Kuo-yuan',
+    'Golden Indie Music Awards',
+    'Jin Shao',
     'Modern Problem',
     'Hidden Album',
     'sintetisator',
@@ -32,13 +32,13 @@ translatedAt: '2026-07-25T17:25:33+08:00'
 author: 'Taiwan.md'
 ---
 
-> **Ringkasan 30 detik:** Ao dan Gunung (Our Shame) adalah grup lagu folktronica berdua dari Taiwan, terdiri dari vokal Xiao Ao (Estelle H) dan drumer Isan. Mereka kenal di Klub Musik SMA, dan selama periode kuliah mereka memenangkan **Hadiah Kreativitas Golden Kuo-yuan** (versi a cappella demo《Kau Sayangku》). Setelah lulus, kedua orang bekerja sebagai pekerja teknologi. Pada musim dingin 2018, mereka mengganti nama grup lagu folk akustik yang awalnya bernama 'Ao Kecil' menjadi 'Ao dan Gunung', Xiao Ao membeli synthesizer, Isan berubah menjadi pengoperasian Pad, dan musik mereka beralih ke folktronica. Pada tahun 2019, mereka merilis EP《Semua Hal Baik Akan Terjadi》, dengan rekaman campuran oleh produser Golden Kuo-yuan Jepang AKNIT. Pada tahun 2022, album pertama mereka《Modern Problem》dinominasikan untuk **Penghargaan Musik Golden Melody 13 tahun untuk Kategori Lagu Pop Alternatif Terbaik dan Petingan Pemula Terbaik**. Pada 4 Agustus 2025, album kedua《Hidden Album》dirilis dengan tim kolaborasi internasional meliputi mixer audio Grammy British Jay Reynolds, insinyur audio Grammy Amerika Serikat Brian Elgin (berkolaborasi dengan Dua Lipa, Lana Del Rey), rapper/R&B muda Jepang ASOBOiSM, produser elektronik Prancis Odd People Club—dengan tema beralih dari 'kecemasan teknologi' menuju 'bayangan manusiawi yang tersembunyi di balik teknologi': depresi, cinta terlarang, penipuan kripto, pengalaman tubuh perempuan. Di mana satu lagu《Miffy》menyemangati Chen Mei-hui, seorang aktivis sosial. Pada 4 Januari 2026, mereka menggelar konser《Hidden Album》berjudul sama.
+> **Ringkasan 30 detik:** Ao dan Gunung (Our Shame) adalah grup lagu folktronica berdua dari Taiwan, terdiri dari vokal Xiao Ao (Estelle H) dan drumer Isan. Mereka kenal di Klub Musik SMA, dan selama periode kuliah mereka memenangkan **Hadiah Kreativitas Jin Shao** (versi a cappella demo《Kau Sayangku》). Setelah lulus, kedua orang bekerja sebagai pekerja teknologi. Pada musim dingin 2018, mereka mengganti nama grup lagu folk akustik yang awalnya bernama 'Ao Kecil' menjadi 'Ao dan Gunung', Xiao Ao membeli synthesizer, Isan berubah menjadi pengoperasian Pad, dan musik mereka beralih ke folktronica. Pada tahun 2019, mereka merilis EP《Semua Hal Baik Akan Terjadi》, dengan rekaman campuran oleh produser peraih penghargaan asal Jepang AKNIT. Pada tahun 2022, album pertama mereka《Modern Problem》dinominasikan untuk **Golden Indie Music Awards ke-13 untuk Kategori Lagu Pop Alternatif Terbaik dan Petingan Pemula Terbaik**. Pada 4 Agustus 2025, album kedua《Hidden Album》dirilis dengan tim kolaborasi internasional meliputi mixer audio Grammy British Jay Reynolds, insinyur audio Grammy Amerika Serikat Brian Elgin (berkolaborasi dengan Dua Lipa, Lana Del Rey), rapper/R&B muda Jepang ASOBOiSM, produser elektronik Prancis Odd People Club—dengan tema beralih dari 'kecemasan teknologi' menuju 'bayangan manusiawi yang tersembunyi di balik teknologi': depresi, cinta terlarang, penipuan kripto, pengalaman tubuh perempuan. Di mana satu lagu《Miffy》menyemangati Chen Mei-hui, seorang aktivis sosial. Pada 4 Januari 2026, mereka menggelar konser《Hidden Album》berjudul sama.
 
 2018, musim dingin, di sebuah ruangan di Taipei.
 
 Xiao Ao baru saja membeli synthesizer. Isan baru saja membeli Pad.
 
-Mereka kenal di Klub Musik SMA, dan selama periode kuliah mereka memenangkan Hadiah Golden Kuo-yuan, lalu setelah lulus, kedua orang bekerja sebagai pekerja teknologi. Pada hari itu, mereka memutuskan untuk mengganti nama grup lagu folk akustik yang awalnya bernama 'Ao Kecil' menjadi nama baru.[^1]
+Mereka kenal di Klub Musik SMA, dan selama periode kuliah mereka memenangkan Hadiah Jin Shao, lalu setelah lulus, kedua orang bekerja sebagai pekerja teknologi. Pada hari itu, mereka memutuskan untuk mengganti nama grup lagu folk akustik yang awalnya bernama 'Ao Kecil' menjadi nama baru.[^1]
 
 Nama mereka adalah Ao dan Gunung.
 
@@ -53,15 +53,15 @@ Keputusan pada musim dingin 2018 memiliki dua makna. Yang pertama adalah **alat 
 Penempatan musik mereka kini adalah **Folktronica**: folk ditambah elektronik, perpaduan musik folk dengan suara elektronik. Gaya mereka meliputi ambient, downtempo, retrowave, trip-hop, synth-pop. Penilai musik menggambarkan suara mereka sebagai 'tabrakan dingin digital dengan analog hangat', synthesizer bertanggung jawab atas dinginnya, gitar bertanggung jawab atas kemanannya; drum machine bertanggung jawab atas ketepatannya, vokal yang pecah belah bertanggung jawab atas kehancurannya.[^2]
 
 > **📝 Catatan Kurator**
-> Yang menarik dari grup ini bukanlah gaya musiknya, melainkan 'bagaimana dua pekerja teknologi yang main gitar sampai menggunakan synthesizer'. Dari kemenangan Golden Kuo-yuan versi a cappella hingga kolaborasi dengan tim audio Grammy internasional, ada dua perubahan identitas di tengah jalan: sekali adalah menjadi pekerja teknologi setelah lulus, sekali adalah pada musim dingin 2018 ketika mereka mengganti alat musik.
+> Yang menarik dari grup ini bukanlah gaya musiknya, melainkan 'bagaimana dua pekerja teknologi yang main gitar sampai menggunakan synthesizer'. Dari kemenangan Jin Shao versi a cappella hingga kolaborasi dengan tim audio Grammy internasional, ada dua perubahan identitas di tengah jalan: sekali adalah menjadi pekerja teknologi setelah lulus, sekali adalah pada musim dingin 2018 ketika mereka mengganti alat musik.
 
-### Kemenangan Golden Kuo-yuan di Klub Musik SMA
+### Kemenangan Jin Shao di Klub Musik SMA
 
 Cerita sebenarnya dimulai lebih awal.
 
 Mereka kenal di Klub Musik SMA. Itu adalah cerita klasik tentang kelompok musik di SMA Taiwan, beberapa siswa yang suka musik, rekreasi di ruang klub setelah sekolah. Kedua orang tidak pada awalnya berencana menjadi musisi.
 
-Selama periode kuliah, mereka mempertahankan kerja sama grup musik, dengan susunan yang sederhana: Xiao Ao memegang gitar dan menyanyikan, Isan memukul drum kayu.[^3]Pada tahun 2015, dengan versi demo tidak terhubung《Kau Sayangku》, mereka memenangkan **Hadiah Golden Kuo-yuan untuk Kreativitas**. Golden Kuo-yuan adalah penghargaan karya musik untuk perguruan tinggi dan sekolah tinggi di Taiwan, kemenangan ini berarti mereka dilihat di lingkaran karya musik remaja yang sama.
+Selama periode kuliah, mereka mempertahankan kerja sama grup musik, dengan susunan yang sederhana: Xiao Ao memegang gitar dan menyanyikan, Isan memukul drum kayu.[^3]Pada tahun 2015, dengan versi demo tidak terhubung《Kau Sayangku》, mereka memenangkan **Hadiah Jin Shao untuk Kreativitas**. Jin Shao adalah penghargaan karya musik untuk perguruan tinggi dan sekolah tinggi di Taiwan, kemenangan ini berarti mereka dilihat di lingkaran karya musik remaja yang sama.
 
 Namun, hal ini nantinya menjadi puncak tinggi yang tidak berkelanjutan: tepat setelah itu kedua orang lulus dari kuliah, masuk ke industri teknologi sebagai pekerja, aktivitas grup musik terhenti.[^1]Dalam dunia grup musik independen Taiwan, cerita seperti ini tidak jarang: semangat yang terbakar selama periode kuliah, setelah lulus disophani oleh rutinitas dunia kerja, grup musik secara alami hilang.
 
@@ -87,7 +87,7 @@ Latar belakang nama EP memiliki cerita spesifik. Di Facebook resmi Ao dan Gunung
 
 Gambar itu menjadi sebuah lagu, menjadi EP, dan menjadi keyakinan kreatif tertentu dari Ao dan Gunung: **beberapa hal tidak perlu dijelaskan, cukup diulang-ulang akan menjadi benar**. Mantra memiliki esensi seperti itu.
 
-Campuran EP ini diminta kepada produser Golden Kuo-yuan Jepang **AKNIT** (nama sebenarnya Toshiya Fueoka).[^5]Pada fase ini, Ao dan Gunung menunjukkan satu ciri khas: mereka memilih kolaborator **'pilihlah orang yang tepat, tidak peduli geografisnya'**. Cara ini akan diperluas menjadi lebih ekstrim pada tahun 2025.
+Campuran EP ini diminta kepada produser peraih penghargaan asal Jepang **AKNIT** (nama sebenarnya Toshiya Fueoka).[^5]Pada fase ini, Ao dan Gunung menunjukkan satu ciri khas: mereka memilih kolaborator **'pilihlah orang yang tepat, tidak peduli geografisnya'**. Cara ini akan diperluas menjadi lebih ekstrim pada tahun 2025.
 
 ### Pada Tahun Teman Mereka Meninggal, Ao Mengundurkan Diri dari Pekerjaan Penuh Waktu
 
@@ -99,7 +99,7 @@ Hal ini memiliki dua dampak langsung bagi Xiao Ao: ia mengundurkan diri dari pek
 
 Akhir album adalah《party to the moon》, lagu itu ditulis untuk teman yang meninggal. Cara penanganannya bukan lagu duka, bukan catatan perpisahan, adalah adegan fantasi di bulan pesta. Tentang kematian tidak ada pembicaraan langsung tentang kematian, tentang bab kehilangan tidak ada tulisan tentang rasa sakit.[^6]
 
-Album ini nantinya dinominasikan untuk **Penghargaan Musik Golden Melody 13 tahun untuk Kategori Lagu Pop Alternatif Terbaik dan Petingan Pemula Terbaik**. Meskipun tidak memenangkan keduanya, double nominasi itu sendiri sudah menjadi pengakuan signifikan di bidang folktronica Taiwan.[^7]Secara bersamaan, Modern Problem diterima dalam playlist privat editor musik di Eropa Barat, Amerika Serikat, Australia, dan Asia Tenggara. Ao dan Gunung keluar dari keluarga besar grup musik independen Taiwan, perlahan masuk ke telinga pembaca internasional.
+Album ini nantinya dinominasikan untuk **Golden Indie Music Awards ke-13 untuk Kategori Lagu Pop Alternatif Terbaik dan Petingan Pemula Terbaik**. Meskipun tidak memenangkan keduanya, double nominasi itu sendiri sudah menjadi pengakuan signifikan di bidang folktronica Taiwan.[^7]Secara bersamaan, Modern Problem diterima dalam playlist privat editor musik di Eropa Barat, Amerika Serikat, Australia, dan Asia Tenggara. Ao dan Gunung keluar dari keluarga besar grup musik independen Taiwan, perlahan masuk ke telinga pembaca internasional.
 
 > **✦** Xiao Ao dalam wawancara mengatakan, yang ingin ia lakukan bukanlah lagu musik gaya tradisional: 'Saya ingin membuat rasa pelibaran yang sendirian, seperti musik yang tarikan dengan kenangan otak.'[^8]
 
@@ -125,7 +125,7 @@ Lagu pembuka《Face ID》ditulis di Paris. Xiao Ao kemudian dalam wawancara berk
 
 《Hollywood Dream》ditulis pada kondisi tidur tidak adem selama 36 jam berturut-turut. Kondisi ekstrem itu malah membantu Xiao Ao menangkap suara 'warna kelelahan yang mengubah'.([^8]
 
-Tim kolaborasi《Hidden Album》mengukur skala terbesar untuk Ao dan Gunung: mixer audio Grammy British Jay Reynolds, insinyur audio Grammy Amerika Serikat Brian Elgin (berkolaborasi dengan Dua Lipa, Lana Del Rey), produser/rap/R&B muda Jepang ASOBOiSM, produser elektronik Prancis Odd People Club, serta **BRADD** (pemenang Penghargaan Golden Melody R&B tunggal) yang berkolaborasi sebagai produser. Sebuah album yang lahir dari ruangan di Taipei, dengan lima nama negara di belakangnya.
+Tim kolaborasi《Hidden Album》mengukur skala terbesar untuk Ao dan Gunung: mixer audio Grammy British Jay Reynolds, insinyur audio Grammy Amerika Serikat Brian Elgin (berkolaborasi dengan Dua Lipa, Lana Del Rey), produser/rap/R&B muda Jepang ASOBOiSM, produser elektronik Prancis Odd People Club, serta **BRADD** (pemenang Golden Indie Music Awards kategori R&B tunggal) yang berkolaborasi sebagai produser. Sebuah album yang lahir dari ruangan di Taipei, dengan lima nama negara di belakangnya.
 
 Isan menggambarkan pola kolaborasi ini dengan jelas:
 
@@ -137,7 +137,7 @@ Dari EP 2019 dengan rekaman campuran Japan AKNIT, hingga 2025 Hidden Album denga
 
 Pada 4 Januari 2026, Ao dan Gunung menggelar konser《Hidden Album》berjudul sama.([^9]
 
-Dari kemenangan Golden Kuo-yuan versi a cappella pada tahun 2015, ini adalah tahun ke-11 grup mereka. Dari dua gadis di Klub Musik SMA, kombinasi grup lagu akustik tidak terhubung selama periode kuliah, pekerja teknologi, dua pekerja teknologi yang berubah menjadi grup lagu folktronica berdua pada musim dingin 2018, nominasi double penghargaan Golden Melody pada tahun 2022 untuk pemula, hingga album kedua dengan kolaborator Grammy pada tahun 2025—garis besar bukanlah kurva pertumbuhan biasa untuk grup musik independen.
+Dari kemenangan Jin Shao versi a cappella pada tahun 2015, ini adalah tahun ke-11 grup mereka. Dari dua gadis di Klub Musik SMA, kombinasi grup lagu akustik tidak terhubung selama periode kuliah, pekerja teknologi, dua pekerja teknologi yang berubah menjadi grup lagu folktronica berdua pada musim dingin 2018, nominasi double Golden Indie Music Awards pada tahun 2022 untuk pemula, hingga album kedua dengan kolaborator Grammy pada tahun 2025—garis besar bukanlah kurva pertumbuhan biasa untuk grup musik independen.
 
 Keunikan sebenaranya Ao dan Gunung adalah **mereka menggunakan sepuluh tahun untuk mengubah 'hal-hal yang tidak bisa dikatakan' menjadi 'suara yang bisa dikeluarkan untuk didengar'**—gaya musik dan kolaborasi internasional hanyalah produk turunan.
 
@@ -165,15 +165,15 @@ Itulah Ao dan Gunung.
 
 [^2]: [Marie Claire 2023 Wawancara khusus Ao dan Gunung](https://www.marieclaire.com.tw/entertainment/music/83586) — Wawancara mendalam Marie Claire 2023 tentang Ao dan Gunung, membahas tema kecemasan modern mereka, penempatan estetika folktronica, serta filosofi kreatif Isan tentang 'kolaborasi lintas negara era internet'.
 
-[^3]: [POLYSH 2022 Wawancara khusus Ao dan Gunung](https://thepolysh.com/blog/2022/11/30/our-shame-interview/) — Wawancara media musik Taiwan POLYSH tentang Ao dan Gunung setelah rilis《Modern Problem》, menjelaskan titik awal kemenangan Golden Kuo-yuan, gangguan grup selama periode kuliah, keputusan rebranding pada musim dingin 2018, dan detail pembelian synthesizer.
+[^3]: [POLYSH 2022 Wawancara khusus Ao dan Gunung](https://thepolysh.com/blog/2022/11/30/our-shame-interview/) — Wawancara media musik Taiwan POLYSH tentang Ao dan Gunung setelah rilis《Modern Problem》, menjelaskan titik awal kemenangan Jin Shao, gangguan grup selama periode kuliah, keputusan rebranding pada musim dingin 2018, dan detail pembelian synthesizer.
 
 [^4]: [StreetVoice Halaman khusus Ao dan Gunung〈Richard》informasi rilis](https://streetvoice.com/ourshame92/) — Halaman resmi StreetVoice, mencakup informasi single《Richard》yang dirilis pada 12 Desember 2018, termasuk latar belakang insiden Horizon Air Richard Russell, catatan kemenangan beberapa minggu, dan rekaman lebih dari seratus juta tayangan.
 
-[^5]: [Facebook resmi Ao dan Gunung《Semua Hal Baik Akan Terjadi》EP annonce](https://www.facebook.com/ourshame/) — Facebook resmi Ao dan Gunung pada Juni 2019 untuk rilis EP, mencatat latar belakang nama EP (mantra di malam Tahun Baru 2018 di toko konvensi tentang pasangan orang tua muda yang berdoa), serta rekaman campuran oleh produser Golden Kuo-yuan Jepang AKNIT.
+[^5]: [Facebook resmi Ao dan Gunung《Semua Hal Baik Akan Terjadi》EP annonce](https://www.facebook.com/ourshame/) — Facebook resmi Ao dan Gunung pada Juni 2019 untuk rilis EP, mencatat latar belakang nama EP (mantra di malam Tahun Baru 2018 di toko konvensi tentang pasangan orang tua muda yang berdoa), serta rekaman campuran oleh produser peraih penghargaan asal Jepang AKNIT.
 
 [^6]: [Marie Claire 2022 Menguraikan album《Modern Problem》khusus](https://www.marieclaire.com.tw/entertainment/music/67560) — Marie Claire 2022 tentang album full-length pertama《Modern Problem》, mencakup analisis 12 lagu, tema kecemasan teknologi, desain visual, serta latar belakang kreatif Xiao Ao mengundurkan diri setelah teman dekat meninggal.
 
-[^7]: [TNL Jaringan Kritis 2022 Daftar pemenang Golden Melody lengkap](https://www.thenewslens.com/article/175925) — Laporan Golden Melody 2022 oleh Jaringan Kritis, mencantumkan daftar lengkap kandidat Kategori Lagu Pop Alternatif Terbaik dan Petingan Pemula Terbaik, memverifikasi nominasi double Ao dan Gunung《Modern Problem》.
+[^7]: [TNL Jaringan Kritis 2022 Daftar pemenang Golden Indie Music Awards lengkap](https://www.thenewslens.com/article/175925) — Laporan Golden Indie Music Awards 2022 oleh Jaringan Kritis, mencantumkan daftar lengkap kandidat Kategori Lagu Pop Alternatif Terbaik dan Petingan Pemula Terbaik, memverifikasi nominasi double Ao dan Gunung《Modern Problem》.
 
 [^8]: [Turn! 2025 Wawancara khusus Ao dan Gunung](https://vocus.cc/article/68c6cfa5fd89780001106e97) — Wawancara mendalam media musik Turn! tentang Ao dan Gunung sebelum dan sesudah rilis《Hidden Album》, mencakup kutipan Xiao Ao tentang 'rasa pelibaran yang sendirian',《Face ID》'rasa tidak teratur' di Paris, serta《Hollywood Dream》tertulis pada kondisi tidur tidak adem 36 jam berturut-turut.
 

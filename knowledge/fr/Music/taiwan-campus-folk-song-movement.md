@@ -9,7 +9,7 @@ tags:
   [
     'mouvement folklorique',
     'chansons folkloriques universitaires',
-    'Concours Golden Melody',
+    'Concours Golden Rhyme',
     'Li Shuangze',
     'Yang Xian',
     'Hu Defu',
@@ -29,7 +29,7 @@ difficulty: 'beginner'
 
 # Le mouvement folklorique taïwanais
 
-> **En 30 secondes :** Le 3 décembre 1976, lors d'un concert au collège Tamkang, Li Shuangze fracasse une bouteille de Coca-Cola et lance : « Pourquoi chantons-nous des chansons étrangères ? » — Cet « incident de Tamkang » déclenche le mouvement folklorique taïwanais. En 1975, Yang Xian donne la première de _Nostalgie en quatre vers_ au Zhongshan Hall ; Hu Defu introduit des chants ancestraux autochtones ; en 1977, les concours Golden Melody et Folk Style commercialisent le mouvement, donnant naissance à une génération de chanteurs folk : Chyi Yu, Tsai Chin, Ye Jiaxiu, Li Jianfu. Bien que le mouvement s'achève après une décennie, marqué par le départ de talents à l'étranger et la commercialisation, l'esprit de « chanter nos propres chansons » se perpétue jusqu'aux générations de Lo Ta-yu, Cheer Chen et Deserts Chang.
+> **En 30 secondes :** Le 3 décembre 1976, lors d'un concert au collège Tamkang, Li Shuangze fracasse une bouteille de Coca-Cola et lance : « Pourquoi chantons-nous des chansons étrangères ? » — Cet « incident de Tamkang » déclenche le mouvement folklorique taïwanais. En 1975, Yang Xian donne la première de _Nostalgie en quatre vers_ au Zhongshan Hall ; Hu Defu introduit des chants ancestraux autochtones ; en 1977, les concours Golden Rhyme et Folk Style commercialisent le mouvement, donnant naissance à une génération de chanteurs folk : Chyi Yu, Tsai Chin, Ye Jiaxiu, Li Jianfu. Bien que le mouvement s'achève après une décennie, marqué par le départ de talents à l'étranger et la commercialisation, l'esprit de « chanter nos propres chansons » se perpétue jusqu'aux générations de Lo Ta-yu, Cheer Chen et Deserts Chang.
 
 Le 3 décembre 1976, lors d'un concert au collège Tamkang[^1], un étudiant philippin d'origine chinoise monte sur scène, une bouteille de Coca-Cola à la main, une guitare dans le dos, et interpelle avec colère le public : « Pourquoi chantons-nous des chansons étrangères ? » Il fracasse sa bouteau de Coca-Cola au sol[^2]. Ce bris de verre sera plus tard perçu comme le moment où la colonisation musicale d'une époque se brise. Cet homme s'appelle Li Shuangze, et cet instant est connu sous le nom d'« incident de Tamkang » — le point de départ le plus symbolique du mouvement folklorique taïwanais.
 
@@ -67,11 +67,11 @@ L'instant où Li Shuangze fracasse sa bouteille de Coca-Cola passe en un clin d'
 
 🎵 **À écouter** : [_Beautiful Island_ de Li Shuangze](https://www.youtube.com/watch?v=4UvWeuzhxHw) — version interprétée par Yang Zu-jun
 
-## Les moteurs de la commercialisation : le concours Golden Melody et les restaurants folk occidentaux
+## Les moteurs de la commercialisation : le concours Golden Rhyme et les restaurants folk occidentaux
 
 L'incident de Tamkang allume la flamme de « chanter nos propres chansons », mais ce sont les forces commerciales qui permettent véritablement à la musique folk de pénétrer dans la société et de devenir un phénomène de masse.
 
-En 1977, le label Shin Ge lance le concours de chant « Golden Melody » ; en 1978, le label Shan Hai organise le concours « Folk Style »[^5]. Ces deux concours deviennent des pépinières de chanteurs folk : Chen Ming-shao, Bao Mei-sheng, Li Jianfu, Wang Hai-ling sont issus de « Golden Melody » ; Tsai Chin et Ye Jiaxiu sont les figures de proue de « Folk Style » ; Chyi Yu et Su Lai sont des stars qui traversent les deux camps.
+En 1977, le label Shin Ge lance le concours de chant « Golden Rhyme » ; en 1978, le label Shan Hai organise le concours « Folk Style »[^5]. Ces deux concours deviennent des pépinières de chanteurs folk : Chen Ming-shao, Bao Mei-sheng, Li Jianfu, Wang Hai-ling sont issus de « Golden Rhyme » ; Tsai Chin et Ye Jiaxiu sont les figures de proue de « Folk Style » ; Chyi Yu et Su Lai sont des stars qui traversent les deux camps.
 
 Parallèlement, des restaurants folk de style occidental poussent comme des champignons après la pluie. De Taipei — le « Wooden Boat », le « Scarecrow » — aux cafés de tout le pays, ces lieux deviennent des scènes où les chanteurs folk perfectionnent leur art et échangent avec le public. Ces espaces sont des points de rencontre culturelle, permettant à la musique folk de passer du campus à la société.
 
@@ -163,6 +163,6 @@ La réponse du mouvement folklorique taïwanais est : n'ayez pas peur de créer 
 
 [^4]: [Wikipédia : chansons folk universitaires](https://zh.wikipedia.org/zh-tw/%E6%A0%A1%E5%9C%92%E6%B0%91%E6%AD%8C) — Entrée complète de Wikipédia en chinois sur les « chansons folk universitaires », incluant la désignation historique de Yang Xian comme « père de la chanson folk moderne » et une vue d'ensemble du mouvement folk.
 
-[^5]: [« Mémorandum de la musique pop taïwanaise », Plateforme de données de Taipei](https://data.taipei/dataset/detail?id=4cc90cd2-540d-4b51-a8dd-be72cb0e2892) — Chronique de la musique pop taïwanaise fournie par la base de données culturelle de la ville de Taipei, incluant les documents officiels du concours « Golden Melody » de Shin Ge Records en 1977 et du concours « Folk Style » de Shan Hai Records en 1978.
+[^5]: [« Mémorandum de la musique pop taïwanaise », Plateforme de données de Taipei](https://data.taipei/dataset/detail?id=4cc90cd2-540d-4b51-a8dd-be72cb0e2892) — Chronique de la musique pop taïwanaise fournie par la base de données culturelle de la ville de Taipei, incluant les documents officiels du concours « Golden Rhyme » de Shin Ge Records en 1977 et du concours « Folk Style » de Shan Hai Records en 1978.
 
 [^6]: [Wikipédia : Hu Defu](https://zh.wikipedia.org/zh-tw/%E8%83%A1%E5%BE%B7%E5%A4%AB) — Entrée complète de Wikipédia en chinois sur Hu Defu, incluant son éveil musical à 11 ans dans la chorale du lycée Tamkang à Tamsui, ainsi que son rôle historique aux côtés de Li Shuangze et Yang Xian dans la promotion du mouvement folk « chanter nos propres chansons » dans les années 1970.

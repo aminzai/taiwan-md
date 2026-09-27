@@ -59,13 +59,13 @@ Além de trabalhos comerciais, seu estúdio frequentemente retorna aos ofícios 
 
 ## Impacto no design taiwanês
 
-A vitória de Hsiao no Grammy mostrou aos designers taiwaneses uma nova possibilidade: não é preciso abandonar a cultura local para competir internacionalmente. Seu sucesso inspirou os profissionais a explorar seus próprios recursos culturais, em vez de vê-los como barreiras. Além diso, o prêmio de Melhor Embalagem de Álbum no Festival da Música Golden Horse também reconheceu seu trabalho ao longo dos anos, consolidando sua trajetória tanto no exterior quanto no Brasil. [^7]
+A vitória de Hsiao no Grammy mostrou aos designers taiwaneses uma nova possibilidade: não é preciso abandonar a cultura local para competir internacionalmente. Seu sucesso inspirou os profissionais a explorar seus próprios recursos culturais, em vez de vê-los como barreiras. Além diso, o prêmio de Melhor Embalagem de Álbum no Golden Melody Awards também reconheceu seu trabalho ao longo dos anos, consolidando sua trajetória tanto no exterior quanto no Brasil. [^7]
 
 ## Referências
 
 [^1]: [Site oficial da Escola Comercial de Fengxing](https://www.fhvs.tp.edu.tw/) — História e informações sobre o curso de artes visuais.
 
-[^2]: [Lista de vencedores anteriores do Golden Horse Award — Departamento de Música e Cinema do Ministério da Cultura](https://www.bamid.gov.tw/information_143_64138.html) — Registro das indicações e vitórias de Hsiao Ch'ing-yang na categoria de Melhor Embalagem de Álbum.
+[^2]: [Lista de vencedores anteriores do Golden Melody Awards — Departamento de Música e Cinema do Ministério da Cultura](https://www.bamid.gov.tw/information_143_64138.html) — Registro das indicações e vitórias de Hsiao Ch'ing-yang na categoria de Melhor Embalagem de Álbum.
 
 [^3]: [Dados da 47ª edição do Grammy — The Recording Academy](https://www.grammy.com/) — Confirmação da primeira indicação de Hsiao Ch'ing-yang na categoria _Best Recording Package_.
 
