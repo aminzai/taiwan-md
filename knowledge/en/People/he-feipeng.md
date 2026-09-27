@@ -1,89 +1,63 @@
 ---
-title: 'He Feipeng (何飛鵬)'
-description: 'Founder of Cite Media Group and a key architect of Taiwan’s publishing industry—how He Feipeng guided print culture into the digital age'
+title: ‘Ho Fei-peng’
+description: ‘A media entrepreneur who led by eight years and suffered seven years of losses, ultimately building Taiwan’’s largest publishing group.’
 date: 2026-03-26
 category: People
-tags: [publishing, media, digital-transformation, management]
-subcategory: 'Digital & Media'
-author: 'Taiwan.md'
+tags: [‘Cite Media’, ‘Publishing’, ‘Digital Transformation’, ‘Self-Awareness’]
+subcategory: ‘數位與媒體’
+author: Taiwan.md
 featured: false
 lastVerified: 2026-03-26
-translatedFrom: 'People/何飛鵬.md'
-sourceCommitSha: 'd6e87d07'
-sourceContentHash: 'sha256:c6c5b08befa8584a'
-sourceBodyHash: 'sha256:65be42b8cac6c9ca'
-translatedAt: '2026-05-17T06:10:00Z'
 lastHumanReview: false
+curation: incubating
+translatedFrom: People/何飛鵬.md
+sourceCommitSha: 69b3afd91
+sourceContentHash: sha256:c6c5b08befa8584a
+sourceBodyHash: sha256:65be42b8cac6c9ca
+translatedAt: 2026-09-27T21:32:56+08:00
 ---
 
-# He Feipeng — Steering Taiwan’s Publishing Industry into the Digital Era
+> **30-second overview:** In 1987, Ho Fei-peng founded _Business Weekly_, losing tens of millions annually for the first seven years. Today, the Cite Media Group he established is not only Taiwan’s largest publishing empire, but also one of the few traditional media companies to survive the digital transformation wave. His journey is a survival story of Taiwan’s print media industry in the face of digital disruption.
 
-He Feipeng (何飛鵬, b. 1957) is the founder and CEO of Cite Media Group (城邦媒體集團), one of Taiwan’s most influential publishing and media conglomerates. Starting as a reporter, he built a multi‑brand publishing empire that spans books, magazines, and digital content. At a time when the internet threatened traditional print models, He became a leading voice for transformation, insisting that quality content and professional editorial standards still matter—only the medium is changing.
+| 7 years                                         | NT$100 million                      |
+| ----------------------------------------------- | ----------------------------------- |
+| Initial consecutive losses at _Business Weekly_ | 2007 investment in acquiring Pixnet |
 
-For Taiwan, He’s not just a business executive. He is a cultural strategist who shaped how knowledge, business ideas, and global trends are translated into Chinese‑language publishing. His career tracks Taiwan’s transition from a print‑dominated society to a digital, platform‑driven media environment.
+In 1987, at age 30, Ho Fei-peng made a bold decision: to launch _Business Weekly_ in an era when Taiwan had no habit of reading business magazines. It was a disastrous start. For seven or eight consecutive years, the magazine lost tens of millions of Taiwan dollars annually.
 
-## A Journalist’s Eye for Content
+“When I founded _Business Weekly_, I was eight years ahead of the market, but I also lost money for more than eight years.” — **Ho Fei-peng** (from a podcast interview with The News Lens)
 
-He Feipeng studied business at National Taiwan University before entering the media industry as a reporter. That early work taught him how stories are discovered, edited, and delivered to readers—skills that would later define his publishing philosophy.
+> **📝 Curator’s note**
+> The most fascinating aspect of Ho Fei-peng’s story is his “courage to admit mistakes.” In a society that idolizes hero CEOs, a founder who can say he “fired himself” to save his company delivers more impact than any success manual. This is why his later books in the _Automaton_ series (which sold over 500,000 copies in Taiwan) resonated so deeply with readers.
 
-He often emphasizes that media is not just about distribution, but about judgment: selecting what deserves attention and presenting it with clarity. This editorial discipline became the backbone of his later publishing strategy. When he eventually launched his own company, he brought a journalist’s commitment to relevance and a businessperson’s focus on sustainability.
+Facing financial pressure like a bottomless pit, he made a decision that contradicted entrepreneurial instinct: **he fired himself**. After recognizing his blind spots in management, he relinquished control and stepped into the background. This shift in power allowed resources to be reallocated, bringing the magazine back from the dead, ultimately becoming Taiwan’s largest-circulation business magazine.
 
-## Building Cite Media Group
+### Buying the money-losing digital division
 
-In 1996, He founded Cite Media Group with a bold vision: to create the largest Chinese‑language publishing group in the world. His strategy was not to build one monolithic brand, but a constellation of specialized imprints serving different readers.
+After the millennium, the real challenge began. The internet rose, and the print market shrank year after year.
 
-Cite grew by combining:
+In 2007, when many traditional media companies were still waiting to see, Ho Fei-peng decided to invest NT$100 million to acquire the blog platform Pixnet. At the time, this decision looked like throwing money into water—Pixnet initially lost up to NT$30 million annually and became the group’s biggest financial burden.
 
-- **Brand diversification**: different imprints for business, lifestyle, literature, and culture
-- **Distribution strategy**: building strong channels across bookstores, convenience stores, and later, online platforms
-- **Editorial specialization**: recruiting editors who understood distinct readerships and could curate high‑quality content
+But he understood one thing: traditional media people cannot save traditional media.
 
-This approach allowed Cite to scale without losing focus. It also created a publishing ecosystem where niche audiences could be served without sacrificing commercial viability.
+“Traditional media workers are ‘digital immigrants.’ We need to bring in ‘digital natives.’” — **Ho Fei-peng** (from an interview with _Digital Times_)
 
-## Shaping Taiwan’s Business Publishing
+Ho Fei-peng gave the young digital team tremendous autonomy. He allowed the group to invest up to 20% of its annual profits (about NT$80 million) in digital experiments, tolerating endless trial and error. After eight years, Pixnet finally turned profitable in 2015.
 
-He Feipeng made a strategic bet on business and management publishing, launching the “Business Weekly Publishing” (商周出版) brand. At a time when Taiwan’s business community was rapidly globalizing, this imprint became a key source of translated management ideas, leadership frameworks, and investment knowledge.
+### Generational value clashes at a turning point in eras
 
-He actively acquired translation rights for international bestsellers, ensuring that Taiwanese readers could access global business thinking without delay. This helped position Taiwan’s professional class as more globally literate, and it gave Cite a stable revenue base in a competitive market.
+However, standing at the crossroads of a generational shift, Ho Fei-peng’s public statements repeatedly sparked controversy.
 
-## Magazines and the Power of Curation
+In 2014, he published an editorial titled “A Word of Justice for Business Owners,” attempting to explore Taiwan’s labor-management relations, only to face intense online backlash as “a mouthpiece for capital.” In recent years, his public praise for political figures like [Audrey Tang](/en/people/audrey-tang/) has been questioned by PTT users as out of touch with reality. As a group leader who experienced Taiwan’s period of economic take-off, the shift from his audience being “readers who buy magazines for business news” to “netizens who command discourse” created a nearly inevitable collision of generational values.
 
-Beyond books, Cite became a major player in magazines. Titles under the group include _Business Weekly_ (商業周刊), _ELLE_, and _Cosmopolitan_, covering finance, fashion, and lifestyle. He’s argued that in an era of information overload, the role of editors becomes more—not less—important. Readers are not just looking for news; they need meaning and structure.
+But regardless of the controversy, in 2020, Ho Fei-peng received Taiwan’s highest honor in publishing—the Golden Tripod Award for Special Contribution. The English-language media _Taipei Times_ reported that this recognition honored his long-term dedication to improving Taiwan’s publishing environment.
 
-This emphasis on curation made Cite’s magazines influential in shaping public conversations, especially on business trends and consumer culture. It also positioned the group to experiment with multimedia storytelling as digital platforms expanded.
-
-## A Digital Transformation Advocate
-
-He Feipeng recognized early that publishing could not survive by simply digitizing print content. Instead, he pushed for a full rethinking of how content is created and consumed in the digital era.
-
-His strategy included:
-
-- **Digital infrastructure**: investing in online bookstores and e‑book platforms
-- **Cross‑media formats**: blending text with audio, video, and interactive content
-- **Data‑informed decisions**: using sales and reader analytics to refine publishing choices
-
-Rather than frame digital change as a threat, he treated it as a chance to expand the reach of quality content. This mindset helped Taiwan’s publishing industry adapt without losing its professional standards.
-
-## Building a Content Ecosystem
-
-He often describes Cite as a “content ecosystem” rather than a publisher. The group expanded into related sectors—film, education, and cultural products—allowing successful ideas to travel across formats. This vertical integration created multiple pathways for a story to generate value, from books to documentaries to online courses.
-
-At the same time, He invested in author development. Cite built systems to support writers and editors, recognizing that talent development is essential for long‑term cultural relevance. This is especially important in a small market like Taiwan, where the scale is limited but the impact can be deep.
-
-## Management Philosophy and Cultural Responsibility
-
-He Feipeng’s management style emphasizes people and creativity. He believes publishing is a creative industry and must cultivate a culture where editors and writers can take risks. He has advocated for flatter organizational structures and internal autonomy, allowing teams to experiment and respond quickly to market shifts.
-
-He is also outspoken about the social responsibility of media. In his view, publishing is not just a business but a cultural mission: to promote literacy, support public debate, and protect intellectual freedom. This stance has made him a respected leader in policy discussions around copyright, reading culture, and the future of publishing.
-
-## Why He Feipeng Matters
-
-He Feipeng’s career mirrors Taiwan’s media evolution. He built institutions that professionalized publishing, expanded access to global ideas, and navigated the disruptive shift to digital. His legacy is not simply a successful company, but a set of industry standards: editorial rigor, market intelligence, and cultural responsibility.
-
-For international readers, He’s a case study in how a small market can sustain a vibrant publishing ecosystem by focusing on quality, specialization, and adaptation. He shows that digital transformation doesn’t have to mean abandoning print culture—it can mean extending its influence into new spaces.
+The magazine founder in 1987, worried over financial statements and even deciding to fire himself, perhaps did not imagine that his trial and error would become, thirty years later, the most important survival guide for Taiwan’s publishing industry facing the digital tide.
 
 ## References
 
-- [Cite Media Group: CEO Profile](https://www.cite.com.tw/about/ceo) — Official biography and corporate information
-- [Business Weekly Interview: He Feipeng’s Management Philosophy](https://www.businessweekly.com.tw/magazine/Article_mag_page.aspx?id=7000123) — In‑depth profile from the group’s flagship magazine
-- [Ministry of Culture: Taiwan Publishing Industry Report](https://www.moc.gov.tw/information_250_89456.html) — Official government statistics and industry analysis
+- [Cite Media Group: CEO Profile](https://www.cite.com.tw/about/ceo) (primary source)
+- [The News Lens: I was eight years ahead of the market when I founded Business Weekly—and I also lost money for more than eight years](https://www.thenewslens.com/article/145678)
+- [Digital Times: Seeing Pixnet's turnaround to profitability—an examination of Cite Media's digital transformation](https://www.bnext.com.tw/article/43317/cite-media-digital-transformation)
+- [Taipei Times: Publishing industry honors its own at Golden Tripod Awards](https://www.taipeitimes.com/News/taiwan/archives/2020/09/12/2003743261)
+- [Ministry of Culture: 44th Golden Tripod Awards Winners List](https://www.moc.gov.tw/information_250_89456.html) (primary source)
