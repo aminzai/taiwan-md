@@ -44,3 +44,18 @@ def test_hyphenated_given_name_is_not_a_prefix_match(tmp_path, monkeypatch):
     forms = {"Lin Liang": "林良"}
     pat = re.compile(r"(?<![A-Za-z\-‑])(Lin Liang)(?![A-Za-z\-‑])")
     assert MODULE.scan(p, forms, pat) == []
+
+
+def test_award_the_source_never_mentions_is_reported(tmp_path, monkeypatch):
+    # 2026-09-27 實例：id〈金曲獎〉全篇把金曲獎寫成電影的金馬獎
+    forms, pat = MODULE.build_pattern()
+    p = _pair(tmp_path, monkeypatch, "金曲獎是台灣流行音樂的年度盛事。", "The Golden Horse Awards honor Taiwanese pop music.")
+    assert [h["person"] for h in MODULE.scan(p, forms, pat)] == ["金馬"]
+
+
+def test_award_named_in_source_or_covered_by_sanjin_is_not_reported(tmp_path, monkeypatch):
+    forms, pat = MODULE.build_pattern()
+    p = _pair(tmp_path, monkeypatch, "她拿過金曲獎。", "She won a Golden Melody Award.")
+    assert MODULE.scan(p, forms, pat) == []
+    p = _pair(tmp_path / "b", monkeypatch, "三金得主李欣芸。", "Winner of the Golden Horse, Golden Bell and Golden Melody.")
+    assert MODULE.scan(p, forms, pat) == []

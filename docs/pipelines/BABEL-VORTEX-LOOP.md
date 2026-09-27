@@ -3,7 +3,7 @@ title: 'BABEL-VORTEX-LOOP'
 description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.55)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.69'
+current_version: 'v1.70'
 last_updated: 2026-09-27
 last_session: '2026-09-26-100333-babel-vortex（翻譯率 100% 模式：推送常駐、付費 Haiku、閘門家族、委派 worktree 路徑陷阱與核准視窗、腳註修復器的語言盲）'
 sister_docs:
@@ -293,6 +293,14 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 證據（重試觸發次數），不是相關性。
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
+
+- v1.70（2026-09-27 晚間第十九輪）：**台灣的「金」字獎在譯文裡互相頂替**。掃非拉丁語系譯文的標題是不是目標文字，
+  照出 ru〈統一企業〉標題是英文「United Foods」，比對兄弟譯文又見 es 寫成日本的 Unicharm（`027a9cdc5`）；拿英文標題的
+  專有名詞去比對各語言標題太吵（1,451 處），但抽樣裡的 id「Golden Horse」引出一族：譯文點名了 zh 原文沒有的獎。
+  金曲（音樂）、金馬（電影）、金鐘（電視）之外，金韻、金韶、金音這些小獎最常被譯成 Golden Melody，連演員金士傑都被
+  拆成 Golden Horse、香港金像獎被寫成金馬。十六篇逐條回 zh 修掉（`cb67b6226`、`e73bdd52e`），最大一篇是 id〈金曲獎〉
+  全篇 80 處寫成金馬。`name-absence-check` 加一張獎項表（鍵用不帶「獎」的短名，zh 寫「三金」時三座都算提到），
+  修完剩下的候選只有 es 兩個分類總覽頁的摘要。
 
 - v1.69（2026-09-27 晚間第十八輪）：**十二語全 fresh，其中 83 篇讀者讀不到自己的語言**。名字巡檢改掃全部語言後，
   ja〈黃山料〉的候選把一件舊事帶回眼前：那篇整篇是英文，status 只看版本標記，照算 fresh。用 dispatcher 第一道閘門

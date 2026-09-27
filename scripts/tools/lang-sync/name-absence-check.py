@@ -57,7 +57,15 @@ ALIAS = {
     "蔡英文": ["小英", "蔡總統"],
     "柯文哲": ["柯P", "柯Ｐ"],
     "曾博恩": ["博恩"],
+    # 「三金」＝金馬、金鐘、金曲，原文寫三金時譯文列出三座獎不算點名錯
+    "金曲": ["三金"],
+    "金馬": ["三金"],
+    "金鐘": ["三金"],
 }
+# 張冠李戴也發生在獎項：台灣的「金」字獎各管一塊（金曲音樂、金馬電影、金鐘電視）。2026-09-27 渦流第十九輪
+# 量到十二篇譯文點名了 zh 原文沒有的那一座：id〈金曲獎〉全篇 80 處寫成金馬，金韻、金韶、金音這些小獎最常被
+# 譯成 Golden Melody。鍵用不帶「獎」的短名，zh 寫「金曲」或「金曲獎」都算提到。
+AWARDS = {"金曲": ["Golden Melody"], "金馬": ["Golden Horse"], "金鐘": ["Golden Bell"]}
 # 表鍵本身是日常用語或 slug 已知錯置，比對起來全是雜訊
 SKIP = {"這群人", "簡立峰"}
 SRC = re.compile(r"^translatedFrom:\s*['\"]?([^'\"\n]+)", re.M)
@@ -76,6 +84,9 @@ def build_pattern():
         for f in list(v["forms"]) + ([v["zh_given"]] if v.get("zh_given") else []):
             if _usable(f):
                 owners[f].add(han)
+    for key, award_forms in AWARDS.items():
+        for f in award_forms:
+            owners[f].add(key)
     # 同一個拼寫掛在兩個人名下的，無從判斷在講誰，不用
     forms = {f: next(iter(o)) for f, o in owners.items() if len(o) == 1}
     alt = "|".join(sorted(map(re.escape, forms), key=len, reverse=True))
@@ -121,7 +132,7 @@ def main() -> int:
         print(json.dumps(hits, ensure_ascii=False, indent=1))
         return 0
     for h in hits:
-        print(f"⚠️ {h['path']}:{h['line']} 「{h['form']}」是{h['person']}，zh 原文沒有這個人\n   …{h['context']}…")
+        print(f"⚠️ {h['path']}:{h['line']} 「{h['form']}」是{h['person']}，zh 原文沒提到\n   …{h['context']}…")
     print(f"\n{len(hits)} 處／{len({h['path'] for h in hits})} 篇候選（報告不是閘門：回 zh 核那一句在講誰）")
     return 0
 
