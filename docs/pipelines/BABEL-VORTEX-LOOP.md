@@ -3,7 +3,7 @@ title: 'BABEL-VORTEX-LOOP'
 description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.55)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.87'
+current_version: 'v1.88'
 last_updated: 2026-09-28
 last_session: '2026-09-26-100333-babel-vortex（翻譯率 100% 模式：推送常駐、付費 Haiku、閘門家族、委派 worktree 路徑陷阱與核准視窗、腳註修復器的語言盲）'
 sister_docs:
@@ -294,6 +294,11 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
 
+- v1.88（2026-09-28 中午第三十五輪）：**「府不是省」再往下掃一層，量到的是越南文的術語債，不是主權倒轉**。十二語掃「台北／台南省」
+  59 篇，多數誤判：韓文「성」也是「城」（臺北城）、日文「台北省会」是省會、日治的台北州／台南州譯成 Provinz／província 不精確
+  但不是主權問題。真正成族的是 vi 把縣寫成「tỉnh」（省）57 篇（「tỉnh Đài Đông」「chính phủ tỉnh Miêu Lật」），TRANSLATION-vi 規定
+  縣是 huyện；但其中 26 篇的 zh 也講到省、日治的州在越南文本來就叫 tỉnh，要逐句判，且超過 50 檔——併進 #91 的越南文存量，
+  不在渦流裡切批修。fail-memo 3,876 條、fails≥4 有 1,341 條，缺口 0 時全是已落地的歷史，§記憶觀察的「開專攻軌」不適用。
 - v1.87（2026-09-28 上午第三十四輪）：**寫死的校準值還剩哪些、主權用語換個方向再掃**。(a) 上一輪 pre-push 的病根是「量一次就
   寫死的門檻」；全庫 grep 帶日期的校準註記，巴別塔路徑上沒有第二個會漂的（numeral-conversion-check 自己標了未校準、不接閘，
   structured-translate 未校準時退回舊值），**本項無發現**。上一輪推送紀律生效：10:34、11:21 兩次上站都成功。(b) 主權用語反向掃：
