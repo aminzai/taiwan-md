@@ -90,6 +90,14 @@ ENTITIES = [
      {"en": r"\bCantonese\b", "es": r"\b[Cc]antonés\b", "fr": r"\bcantonais\b", "de": r"Kantonesisch",
       "pt": r"\b[Cc]antonês\b", "id": r"\bKanton(?:is)?\b", "vi": r"tiếng Quảng Đông|Quảng Đông ngữ", "ja": r"広東語",
       "ko": r"광둥어", "ru": r"кантонск", "hi": r"कैंटोनी", "ar": r"الكانتونية"}),
+    # 奧會模式的名稱頂替台灣的地名與物名（第四十輪）：vi〈台灣黑熊〉標題寫成「中華台北」、〈牛肉湯〉30 處、
+    # pt〈台中市〉標題、es／pt〈新北市〉H1、de〈中華菱利〉把品牌的「中華」寫成 Chinesisch Taipeh。
+    # zh 提到國際賽事或官方組織時「Chinese Taipei」是對的（中華隊、奧運、亞運、國際組織的正式名稱）。
+    ("中華台北", r"中華台北|中華臺北|中華隊|奧會|奧運|亞運|世大運|國際賽|世界盃|世錦賽|錦標賽|代表隊|國手|APEC|WHA|世衛",
+     {"en": r"Chinese Taipei", "es": r"Taip[eé]i Chin[oa]", "fr": r"Ta[iï]pei chinois", "de": r"Chinesisch[ -]Taipeh|Chinese Taipei",
+      "pt": r"Taip[eé]i? Chin[eê]s[a]?|Chinese Taipei", "id": r"Taipei Tiongkok|Chinese Taipei", "vi": r"Đài Bắc Trung Hoa",
+      "ja": r"チャイニーズ・?タイペイ", "ko": r"차이니스 타이베이|중화 ?타이베이", "ru": r"Китайск[а-я]+ Тайб[эе][йяе]",
+      "hi": r"चीनी ताइपे|चाइनीज ताइपे", "ar": r"تايبيه الصينية"}),
     # 首都頂替：譯文語言所在國的首都，zh 連那個國家都沒提到
     ("河內", r"河內|河内|越南", {"vi": r"Hà Nội"}),
     ("胡志明市", r"胡志明|西貢|越南", {"vi": r"Hồ Chí Minh"}),

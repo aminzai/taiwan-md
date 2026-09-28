@@ -61,3 +61,11 @@ def test_mandarin_turned_into_cantonese_is_caught():
     zh = "---\ntitle: t\n---\n第 30 屆金曲獎，他拿下最佳華語男歌手。\n"
     assert MODULE.check("ru", zh, "получил приз «Лучший вокалист на кантонском языке»\n") == [("粵語", 1)]
     assert MODULE.check("ru", "---\ntitle: t\n---\n他在香港發片。\n", "на кантонском языке\n") == []
+
+
+def test_chinese_taipei_standing_in_for_a_taiwanese_place_is_caught_but_not_in_sports():
+    # 2026-09-28 實例：pt〈台中市〉標題寫成「Taipé Chinesa」；體育語境的 Chinese Taipei 是正式名稱
+    zh = "---\ntitle: '台中市：1887 年差點當首都'\n---\n台中市位在台灣中部。\n"
+    assert MODULE.check("pt", zh, "---\ntitle: 'Taipé Chinesa: Quase Capital'\n---\n") == [("中華台北", 1)]
+    zh_sport = "---\ntitle: t\n---\n她在奧運為台灣拿下金牌。\n"
+    assert MODULE.check("en", zh_sport, "She won gold for Chinese Taipei at the Olympics.\n") == []
