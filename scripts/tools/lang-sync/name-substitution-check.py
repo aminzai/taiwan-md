@@ -93,7 +93,7 @@ ENTITIES = [
     # 奧會模式的名稱頂替台灣的地名與物名（第四十輪）：vi〈台灣黑熊〉標題寫成「中華台北」、〈牛肉湯〉30 處、
     # pt〈台中市〉標題、es／pt〈新北市〉H1、de〈中華菱利〉把品牌的「中華」寫成 Chinesisch Taipeh。
     # zh 提到國際賽事或官方組織時「Chinese Taipei」是對的（中華隊、奧運、亞運、國際組織的正式名稱）。
-    ("中華台北", r"中華台北|中華臺北|中華隊|奧會|奧運|亞運|世大運|國際賽|世界盃|世錦賽|錦標賽|代表隊|國手|APEC|WHA|世衛",
+    ("中華台北", r"中華台北|中華臺北|中華隊|奧會|奧運|亞運|世大運|國際賽|世界盃|世錦賽|錦標賽|代表隊|國手|APEC|WHA|世衛|Chinese Taipei",
      {"en": r"Chinese Taipei", "es": r"Taip[eé]i Chin[oa]", "fr": r"Ta[iï]pei chinois", "de": r"Chinesisch[ -]Taipeh|Chinese Taipei",
       "pt": r"Taip[eé]i? Chin[eê]s[a]?|Chinese Taipei", "id": r"Taipei Tiongkok|Chinese Taipei", "vi": r"Đài Bắc Trung Hoa",
       "ja": r"チャイニーズ・?タイペイ", "ko": r"차이니스 타이베이|중화 ?타이베이", "ru": r"Китайск[а-я]+ Тайб[эе][йяе]",
