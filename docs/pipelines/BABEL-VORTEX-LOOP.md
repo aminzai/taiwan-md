@@ -3,7 +3,7 @@ title: 'BABEL-VORTEX-LOOP'
 description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.55)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.88'
+current_version: 'v1.89'
 last_updated: 2026-09-28
 last_session: '2026-09-26-100333-babel-vortex（翻譯率 100% 模式：推送常駐、付費 Haiku、閘門家族、委派 worktree 路徑陷阱與核准視窗、腳註修復器的語言盲）'
 sister_docs:
@@ -294,6 +294,10 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
 
+- v1.89（2026-09-28 下午第三十六輪）：**修補到讀者眼前了沒——端到端抽驗**。前幾輪的修補只驗到 commit 與 CI；這輪直接抓線上頁面
+  （taiwan.md）六篇：vi〈李登輝〉、es〈蔡健雅〉、de〈陳水扁〉、id〈台南市〉、ar〈端午節〉、vi〈小虎隊〉，修對的寫法都在、錯的寫法
+  都不在。vi〈李登輝〉頁面上還有兩次 Lại Thanh Đức，出處是頁面外框的「精選文章」卡片與新聞摘要（譯文本身 0 次），不是譯文的錯。
+  **抽驗要分清楚頁面外框與正文**，不然會把網站其他區塊的內容算到譯文頭上。上站連續四次成功，推送紀律與 pre-push 校準都生效。**本輪無新發現。**
 - v1.88（2026-09-28 中午第三十五輪）：**「府不是省」再往下掃一層，量到的是越南文的術語債，不是主權倒轉**。十二語掃「台北／台南省」
   59 篇，多數誤判：韓文「성」也是「城」（臺北城）、日文「台北省会」是省會、日治的台北州／台南州譯成 Provinz／província 不精確
   但不是主權問題。真正成族的是 vi 把縣寫成「tỉnh」（省）57 篇（「tỉnh Đài Đông」「chính phủ tỉnh Miêu Lật」），TRANSLATION-vi 規定
