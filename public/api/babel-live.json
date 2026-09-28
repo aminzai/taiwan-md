@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-28T17:35:30+08:00",
+  "generated_at": "2026-09-28T18:43:17+08:00",
   "producer": "scripts/tools/lang-sync/babel-pulse.py (launchd, 15min)",
-  "snapshot_ts": "2026-09-28T17:35:21+08:00",
+  "snapshot_ts": "2026-09-28T18:43:07+08:00",
   "total_zh": 1124,
   "langs": [
     {
@@ -117,12 +117,12 @@
   "gap_delta": 0,
   "rate_1h": {
     "delta": 0,
-    "span_h": 1.05,
+    "span_h": 1.13,
     "per_hour": 0.0
   },
   "rate_24h": {
     "delta": 0,
-    "span_h": 24.02,
+    "span_h": 24.16,
     "per_hour": 0.0
   },
   "eta_days": null,
@@ -233,8 +233,8 @@
   "dispatchers": [
     {
       "kind": "unified",
-      "pid": "37249",
-      "uptime": "00:03",
+      "pid": "58613",
+      "uptime": "00:14",
       "langs": "",
       "workers": 11
     }
@@ -331,14 +331,14 @@
     "sample": []
   },
   "url_mismatch": {
-    "count": 582,
+    "count": 581,
     "by_lang": {
       "en": 50,
       "ja": 84,
       "ko": 54,
       "es": 70,
       "fr": 61,
-      "vi": 53,
+      "vi": 52,
       "id": 45,
       "pt": 38,
       "hi": 45,
@@ -346,7 +346,7 @@
       "ru": 28,
       "de": 28
     },
-    "missing": 1146,
+    "missing": 1145,
     "extra": 625,
     "sample": [
       {
@@ -412,18 +412,18 @@
     ]
   },
   "name_substitution": {
-    "count": 184,
+    "count": 172,
     "by_lang": {
-      "en": 11,
+      "en": 10,
       "ja": 1,
       "ko": 3,
       "es": 7,
       "fr": 6,
-      "vi": 75,
+      "vi": 69,
       "id": 18,
-      "pt": 15,
+      "pt": 13,
       "hi": 12,
-      "ar": 5,
+      "ar": 2,
       "ru": 5,
       "de": 26
     },
@@ -432,18 +432,6 @@
         "path": "knowledge/vi/Geography/dalongdong.md",
         "names": {
           "河內": 66
-        }
-      },
-      {
-        "path": "knowledge/vi/Food/beef-soup.md",
-        "names": {
-          "中華台北": 30
-        }
-      },
-      {
-        "path": "knowledge/vi/Nature/taiwanese-black-bear.md",
-        "names": {
-          "中華台北": 28
         }
       },
       {
@@ -491,30 +479,33 @@
         }
       },
       {
-        "path": "knowledge/vi/Society/falun-gong-in-taiwan.md",
-        "names": {
-          "中華台北": 10
-        }
-      },
-      {
         "path": "knowledge/vi/People/tsai-heipi.md",
         "names": {
           "蔡英文": 10
+        }
+      },
+      {
+        "path": "knowledge/ko/Lifestyle/national-highway-system.md",
+        "names": {
+          "蔣介石": 9
+        }
+      },
+      {
+        "path": "knowledge/vi/History/withdrawal-from-united-nations.md",
+        "names": {
+          "河內": 1,
+          "胡志明市": 8
+        }
+      },
+      {
+        "path": "knowledge/de/People/yang-shen-keng-educator.md",
+        "names": {
+          "孫中山": 9
         }
       }
     ]
   },
   "history": [
-    {
-      "ts": "2026-08-09T04:05:05+08:00",
-      "fresh_total": 8045,
-      "gap_total": 1701
-    },
-    {
-      "ts": "2026-08-09T04:20:15+08:00",
-      "fresh_total": 8045,
-      "gap_total": 1701
-    },
     {
       "ts": "2026-08-09T04:35:25+08:00",
       "fresh_total": 8045,
@@ -982,6 +973,16 @@
     },
     {
       "ts": "2026-09-28T17:35:21+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-28T18:28:47+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-28T18:43:07+08:00",
       "fresh_total": 13488,
       "gap_total": 0
     }
