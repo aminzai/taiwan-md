@@ -332,6 +332,18 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-29 twmd-babel-nightly — broken-link-graded-as-warning-in-passing-gate：通過的閘門把讀者會點到 404 的連結算成警告
+
+- **pattern**: broken-link-graded-as-warning-in-passing-gate
+- **原則**：閘門給一類缺陷的嚴重度，要對齊讀者碰到它時的後果。`verify-batch.py` 把站內死連結列為 FAIL 行卻只計警告，整批仍 exit 0；讀者點下去是 404，而收工判斷讀的是 exit code。
+- **觸發**：2026-09-29 00:45 babel-nightly 驗收 24 小時內落地的 319 份譯文，十二語全 exit 0，警告裡有 71 條站內死連結（vi 30、ja 13、en 9、ko 8…），多數是模型把 slug 翻成外文。48 條照 zh 同位置修回 `10d446830`。
+- **instances**：
+  - 2026-09-28 twmd-babel-nightly：十二語 exit 0，壞連結清單一半是圖片假警報、另一半是真的自造 slug → memory/2026-09-28-005550-twmd-babel-nightly.md
+  - 2026-09-29 twmd-babel-nightly：十二語 exit 0，警告裡 71 條全是真死連結 → memory/2026-09-29-005057-twmd-babel-nightly.md
+- **可能層級**：操作規則（verify-batch 第 5 步是否升 hard；升之前要先處理來源端 zh 本身的死連結，否則每篇繼承的都會擋，可用 `internal-link-check.py --vs-source` 只擋譯者新造的）
+- **相關**：REFLEXES #52（沒在 fail loud 的免疫系統）；差異在於這裡有 fail、有印出來，只是嚴重度標低，讀 exit code 的人看不到
+- **verification_count**: 2
+
 ### 2026-09-28 twmd-maintainer-am — clean-means-both-finished-and-mid-flight：回收器的「乾淨」同時是收工的證據與工作中的常態
 
 - **pattern**: clean-means-both-finished-and-mid-flight
