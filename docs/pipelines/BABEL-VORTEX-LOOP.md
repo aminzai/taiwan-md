@@ -3,7 +3,7 @@ title: 'BABEL-VORTEX-LOOP'
 description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.55)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.91'
+current_version: 'v1.92'
 last_updated: 2026-09-28
 last_session: '2026-09-26-100333-babel-vortex（翻譯率 100% 模式：推送常駐、付費 Haiku、閘門家族、委派 worktree 路徑陷阱與核准視窗、腳註修復器的語言盲）'
 sister_docs:
@@ -294,6 +294,12 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
 
+- v1.92（2026-09-28 傍晚第四十輪）：**「中華台北」被拿來頂替台灣的地名與物名**。照上一輪的候選掃：譯文出現 Chinese Taipei、zh 沒有
+  中華台北／中華隊／奧會模式的 39 篇，扣掉體育與正式機構名（保齡球、舉重、電競協會、消基會）還有十幾篇真錯：vi〈台灣黑熊〉標題
+  整個寫成 Đài Bắc Trung Hoa、〈牛肉湯〉30 處、〈茄芷袋〉42 處、〈法輪功〉10 處；pt〈台中市〉標題、es／pt〈新北市〉H1、es 太保、
+  vi 中正紀念堂、ja 錢櫃寫成「銭筒（チャイニーズ・タイペイ）」。**奧會模式是台灣被迫參賽用的名字，被模型當成「台灣某處」的
+  通用代稱**，是主權層的錯。surgical 6 檔（74e63f836），vi 四篇整篇重譯（w20，Sonnet），「中華台北」進名人頂替表，zh 提到國際
+  賽事或組織時不算（全庫 18 篇、總數 169→184）。
 - v1.91（2026-09-28 下午第三十九輪）：**城市頂替這把尺太吵，但抽樣撞到的都是真病**。把頂替結構推到台灣四大城（zh 沒提台北／
   高雄／台中／台南，譯文卻出現）：278 篇，誤判太多——小巨蛋譯 Taipei Arena、美麗島事件譯 Kaohsiung Incident、高屏譯
   Kaohsiung-Pingtung、New Taipei 被 Taipei 吃進去，**不入工具**。但抽樣 12 篇裡有 4 篇真錯：de〈中華菱利〉把品牌的「中華」寫成
