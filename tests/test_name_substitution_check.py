@@ -40,3 +40,17 @@ def test_a_name_inside_a_longer_word_does_not_count():
     zh = "---\ntitle: t\n---\n他在台北長大。\n"
     assert MODULE.check("en", zh, "the Tsai Ing-wenesque style\n") == []
     assert MODULE.check("id", zh, "Jakartanya\n") == []
+
+
+def test_a_second_tier_attractor_is_caught_too():
+    # 2026-09-28 實例：es〈台灣半導體產業〉把 1985 年的政務委員李國鼎寫成 Lee Teng-hui
+    zh = "---\ntitle: t\n---\n1985 年的一個下午，政務委員李國鼎走進行政院。\n"
+    tr = "En una tarde de 1985, el ministro sin cartera Lee Teng-hui fue al Yuan Ejecutivo.\n"
+    assert MODULE.check("es", zh, tr) == [("李登輝", 1)]
+
+
+def test_a_name_the_source_already_writes_in_latin_script_is_left_alone():
+    # zh 圖說引用 Wikimedia 檔名 Chiang_Kai-shek_Memorial_Hall.jpg——譯文照寫 Chiang Kai-shek 不是頂替
+    zh = "---\ntitle: t\n---\n![館舍](https://commons.wikimedia.org/wiki/File:Chiang_Kai-shek_Memorial_Hall.jpg)\n"
+    tr = "![Hall](https://commons.wikimedia.org/wiki/File:Chiang_Kai-shek_Memorial_Hall.jpg) The Chiang Kai-shek Memorial Hall.\n"
+    assert MODULE.check("en", zh, tr) == []

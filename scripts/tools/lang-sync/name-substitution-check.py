@@ -44,6 +44,46 @@ ENTITIES = [
     ("蔣介石", r"蔣介石|蔣中正|中正|蔣公|老蔣|介石|蔣總統|兩蔣|蔣氏|去蔣",
      {**{l: r"\bChiang Kai-?shek\b" for l in LATIN}, "ja": r"蒋介石|蔣介石", "ko": r"장제스",
       "ru": r"Чан Кайши", "hi": r"च(?:ि)?यांग काई-?शेक", "ar": r"تشيانغ كاي", "vi": r"Tưởng Giới Thạch"}),
+    # 第三十二輪擴表（主動結構掃描：同一個機制換一個名人）。實例：de 把捐款給黑熊學院的曹興誠寫成
+    # Morris Chang、es／pt／id 把 1985 年的政務委員李國鼎寫成 Lee Teng-hui、成功大學被換成中山大學
+    # （Sun Yat-sen）、蔣宋美齡寫成「蔣經國的妻子」。柯文哲、鄭成功沒收：抽樣裡譯者的補充語境
+    # （「柯條款」「國姓爺之子鄭經」）占了一半，當驗收閘會擋到對的譯文。
+    ("蔣經國", r"蔣經國|經國|小蔣|兩蔣|蔣氏|蔣總統|蔣家",
+     {**{l: r"\bChiang Ching-?kuo\b" for l in LATIN}, "ja": r"蒋経国|蔣經國", "ko": r"장징궈",
+      "ru": r"Цзян Цзинго", "vi": r"Tưởng Kinh Quốc"}),
+    ("孫中山", r"孫中山|孫文|國父|中山|逸仙",
+     {**{l: r"\bSun Yat-?sen\b" for l in LATIN}, "ja": r"孫文|孫中山", "ko": r"쑨원|쑨중산",
+      "ru": r"Сунь Ятсен", "vi": r"Tôn Trung Sơn|Tôn Dật Tiên"}),
+    ("李登輝", r"李登輝|李總統|李前總統",
+     {**{l: r"\bLee Teng-?hui\b" for l in LATIN}, "ja": r"李登輝", "ko": r"리덩후이",
+      "ru": r"Ли Дэнхуэй", "vi": r"Lý Đăng Huy"}),
+    ("馬英九", r"馬英九|馬總統|馬政府|小馬哥|馬前總統",
+     {**{l: r"\bMa Ying-?jeou\b" for l in LATIN}, "ja": r"馬英九", "ko": r"마잉주",
+      "ru": r"Ма Инцзю", "vi": r"Mã Anh Cửu"}),
+    ("陳水扁", r"陳水扁|阿扁|扁政府",
+     {**{l: r"\bChen Shui-?bian\b" for l in LATIN}, "ja": r"陳水扁", "ko": r"천수이볜",
+      "ru": r"Чэнь Шуйбянь", "vi": r"Trần Thủy Biển"}),
+    ("張忠謀", r"張忠謀",
+     {**{l: r"\bMorris Chang\b" for l in LATIN}, "ja": r"張忠謀|モリス・チャン", "ko": r"장중머우|모리스 창",
+      "ru": r"Моррис Чан", "vi": r"Morris Chang|Trương Trung Mưu"}),
+    ("郭台銘", r"郭台銘",
+     {**{l: r"\bTerry Gou\b" for l in LATIN}, "ja": r"郭台銘|テリー・ゴウ", "ko": r"궈타이밍|테리 궈",
+      "ru": r"Терри Гоу", "vi": r"Terry Gou|Quách Đài Minh"}),
+    ("黃仁勳", r"黃仁勳",
+     {**{l: r"\bJensen Huang\b" for l in LATIN}, "ja": r"ジェンスン・フアン|黄仁勲|黃仁勳", "ko": r"젠슨 황",
+      "ru": r"Дженсен Хуанг", "vi": r"Jensen Huang|Hoàng Nhân Huân"}),
+    ("唐鳳", r"唐鳳",
+     {**{l: r"\bAudrey Tang\b" for l in LATIN}, "ja": r"オードリー・タン|唐鳳", "ko": r"오드리 탕",
+      "ru": r"Одри Тан", "vi": r"Audrey Tang|Đường Phượng"}),
+    ("鄧麗君", r"鄧麗君",
+     {**{l: r"\bTeresa Teng\b" for l in LATIN}, "ja": r"テレサ・テン|鄧麗君", "ko": r"덩리쥔",
+      "ru": r"Тереза Тенг|Дэн Лицзюнь", "vi": r"Đặng Lệ Quân"}),
+    ("周杰倫", r"周杰倫|周董",
+     {**{l: r"\bJay Chou\b" for l in LATIN}, "ja": r"ジェイ・チョウ|周杰倫", "ko": r"저우제룬|주걸륜",
+      "ru": r"Джей Чоу|Чжоу Цзелунь", "vi": r"Châu Kiệt Luân|Jay Chou"}),
+    ("蔡依林", r"蔡依林|Jolin",
+     {**{l: r"\bJolin Tsai\b" for l in LATIN}, "ja": r"ジョリン・ツァイ|蔡依林", "ko": r"차이이린",
+      "ru": r"Джолин Цай|Цай Илинь", "vi": r"Thái Y Lâm|Jolin Tsai"}),
     # 首都頂替：譯文語言所在國的首都，zh 連那個國家都沒提到
     ("河內", r"河內|河内|越南", {"vi": r"Hà Nội"}),
     ("胡志明市", r"胡志明|西貢|越南", {"vi": r"Hồ Chí Minh"}),
@@ -59,9 +99,11 @@ _COMPILED = [(name, re.compile(zh), {l: re.compile(p) for l, p in forms.items()}
 def check(lang, zh_text, tr_text):
     """回傳 [(名稱, 譯文命中次數)]：譯文提到、zh 原稿一個別名都沒有的名人／首都。"""
     hits = []
+    # zh 原稿自己也會寫拉丁字：英文來源標題、Wikimedia 圖檔名（底線當空白）。那裡已經有這個名字，就不算頂替
+    zh_latin = zh_text.replace("_", " ")
     for name, zh_re, forms in _COMPILED:
         form = forms.get(lang)
-        if form is None or zh_re.search(zh_text):
+        if form is None or zh_re.search(zh_text) or form.search(zh_latin):
             continue
         n = len(form.findall(tr_text))
         if n:
