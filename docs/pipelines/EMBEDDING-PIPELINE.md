@@ -3,9 +3,9 @@ title: 'EMBEDDING-PIPELINE'
 description: 'bge-m3 semantic index rebuild — the keystone build that feeds reader related-articles (src/data/related) + RAG vectors (public/api/rag). Steady-state v1.2: local mac-m4max nightly rebuild with fleet fallback, sovereignty-preserving (embeddings computed in-house, never outsourced).'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.3'
-last_updated: 2026-09-21
-last_session: '2026-09-21-050733-twmd-embeddings-nightly'
+current_version: 'v1.4'
+last_updated: 2026-09-29
+last_session: '2026-09-29-twmd-embeddings-nightly'
 sister_docs:
   - 'REMOTE-GPU-PIPELINE.md'
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
@@ -116,15 +116,20 @@ node -e '
 ### Stage 3 — Commit（多核 commit collision 防護）
 
 ```bash
-git add src/data/related/
 NOW="$(date '+%Y-%m-%d %H:%M')"; echo "commit timestamp: $NOW"   # 先落地成變數並印出來，肉眼確認過再往下走
-git diff --cached --quiet && { echo "no change, skip commit"; } || \
+git diff --cached --name-only   # 先看 index 裡有沒有別人（babel dispatcher）staged 的檔——有也不動它
+git diff --quiet -- src/data/related/ && [ -z "$(git ls-files --others --exclude-standard src/data/related/)" ] \
+  && echo "no change, skip commit" || {
+  git add src/data/related/
   git commit --no-verify -m "🧬 [routine] embeddings: nightly bge-m3 rebuild — $NOW
 
-Co-Authored-By: <實際執行本次 cron session 的 model 名稱，如 Claude Sonnet 5> <noreply@anthropic.com>"
-git ls-files src/data/related/ | head -1   # 立即驗證 staged 真的進 commit
+Co-Authored-By: <實際執行本次 cron session 的 model 名稱，如 Claude Sonnet 5> <noreply@anthropic.com>" -- src/data/related/
+}
+git show --stat --format='%h %s' HEAD | tail -3   # 立即驗證 commit 只含 src/data/related/
 git push origin main
 ```
+
+**commit 一律帶 pathspec `-- src/data/related/`**（v1.4）：營運機上 babel dispatcher 隨時會 stage 譯文，不帶路徑的 `git commit` 會把 index 裡別人的檔一起捲進這個 commit（REFLEXES #6／#68）。「有沒有 diff」也只量 `src/data/related/` 這一段，不量整個 index——index 裡有別人的暫存不代表索引有變。
 
 **Co-author 必須如實填當下執行 model**，不要照抄範例文字。Cron session 指派的模型會變動（Sonnet / Opus 依排程設定），寫死特定型號會讓屬性連夜失準——2026-08-06〜08 三夜連續踩到同一個問題（第一二夜照抄範本產生錯誤屬性，第三夜靠執行者當場警覺手動修正），根因是這裡曾經寫死「Claude Opus 4.8 (1M context)」。
 
@@ -151,6 +156,8 @@ git push origin main
 ROUTINE.md SSOT 一行登記在排程表。修排程先改 ROUTINE.md 再 sync 任務檔。
 
 ---
+
+_v1.4 | 2026-09-29 twmd-embeddings-nightly session | **Stage 3 改路徑式 commit**：原本 `git add src/data/related/` 後不帶路徑 commit，`git diff --cached --quiet` 量的是整個 index；營運機 index 常有 babel dispatcher staged 的譯文，照字面跑會把別人的檔捲進 embeddings commit，也會把「別人有暫存」誤讀成「索引有變」。09-27、09-28 兩班靠交接用路徑式 commit 繞過，文件沒改，交接連帶兩班；本班照根因改文件本身。_
 
 _v1.3 | 2026-09-21 twmd-embeddings-nightly session | **Stage 1 去掉寫死的 home 路徑＋補真分岔時的 merge 處置**：`cd` 改 `git rev-parse --show-toplevel`（09-20／09-21 連兩夜在營運機 `/Users/musebase` 上照實際路徑跑，canonical 卻指著指揮部的 `/Users/cheyuwu`）；`git pull` 遇 `_translation-status.json` 衝突的處置寫成一段（THEIRS＋status.py 重生，跟 maintainer 的 merge-divergence.py 同一政策），其他衝突不自己解。觸發：09-21 本機領先 12 落後 9，第一次由本 routine 自己併分岔。_
 
