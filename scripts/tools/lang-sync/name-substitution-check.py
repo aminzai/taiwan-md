@@ -15,6 +15,11 @@
     python3 name-substitution-check.py --all --json     # 給 babel-pulse 用
 
 有命中時 exit 1。zh 原稿由譯文 frontmatter 的 translatedFrom 找。
+
+跟 name-absence-check.py 的分工：那支拿名字表（拉丁拼寫、全部人物頁）報告候選，誤報三族要人逐筆核，
+存量在 OBSERVER-QUEUE #84。這支只收模型最常拿來頂替的幾個名人與首都，各語言用自己的文字寫
+（越南文漢越音、韓文、天城文、西里爾），所以看得到那支看不到的越南文 86 篇；判準窄到可以當驗收閘。
+存量處置見 #91。
 """
 import argparse
 import json

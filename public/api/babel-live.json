@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-28T07:33:11+08:00",
+  "generated_at": "2026-09-28T09:27:36+08:00",
   "producer": "scripts/tools/lang-sync/babel-pulse.py (launchd, 15min)",
-  "snapshot_ts": "2026-09-28T07:33:02+08:00",
+  "snapshot_ts": "2026-09-28T09:27:27+08:00",
   "total_zh": 1124,
   "langs": [
     {
@@ -117,13 +117,13 @@
   "gap_delta": 0,
   "rate_1h": {
     "delta": 0,
-    "span_h": 1.07,
+    "span_h": 1.91,
     "per_hour": 0.0
   },
   "rate_24h": {
     "delta": 66,
-    "span_h": 30.63,
-    "per_hour": 2.2
+    "span_h": 32.54,
+    "per_hour": 2.0
   },
   "eta_days": null,
   "nodes": {
@@ -233,8 +233,8 @@
   "dispatchers": [
     {
       "kind": "unified",
-      "pid": "44470",
-      "uptime": "00:01",
+      "pid": "8463",
+      "uptime": "00:10",
       "langs": "",
       "workers": 11
     }
@@ -331,7 +331,7 @@
     "sample": []
   },
   "url_mismatch": {
-    "count": 583,
+    "count": 582,
     "by_lang": {
       "en": 50,
       "ja": 84,
@@ -340,14 +340,14 @@
       "fr": 61,
       "vi": 53,
       "id": 45,
-      "pt": 39,
+      "pt": 38,
       "hi": 45,
       "ar": 26,
       "ru": 28,
       "de": 28
     },
-    "missing": 1148,
-    "extra": 627,
+    "missing": 1146,
+    "extra": 625,
     "sample": [
       {
         "path": "knowledge/en/Music/choir.md",
@@ -411,22 +411,101 @@
       }
     ]
   },
+  "name_substitution": {
+    "count": 121,
+    "by_lang": {
+      "en": 1,
+      "ko": 3,
+      "es": 2,
+      "fr": 3,
+      "vi": 71,
+      "id": 6,
+      "pt": 7,
+      "hi": 15,
+      "ar": 2,
+      "ru": 2,
+      "de": 9
+    },
+    "sample": [
+      {
+        "path": "knowledge/vi/Geography/dalongdong.md",
+        "names": {
+          "河內": 66
+        }
+      },
+      {
+        "path": "knowledge/hi/People/tsai-pei-huo.md",
+        "names": {
+          "蔡英文": 59
+        }
+      },
+      {
+        "path": "knowledge/hi/People/tanya-chua-singer.md",
+        "names": {
+          "蔡英文": 45
+        }
+      },
+      {
+        "path": "knowledge/vi/People/lee-teng-hui.md",
+        "names": {
+          "賴清德": 40,
+          "河內": 2
+        }
+      },
+      {
+        "path": "knowledge/vi/People/su-tseng-chang.md",
+        "names": {
+          "蔡英文": 29,
+          "河內": 8
+        }
+      },
+      {
+        "path": "knowledge/hi/People/stan-lai-theater-innovation-master.md",
+        "names": {
+          "賴清德": 35
+        }
+      },
+      {
+        "path": "knowledge/ko/People/tsai-eng-meng.md",
+        "names": {
+          "蔡英文": 22
+        }
+      },
+      {
+        "path": "knowledge/vi/People/ao-and-mountain-band.md",
+        "names": {
+          "蔡英文": 15,
+          "河內": 4
+        }
+      },
+      {
+        "path": "knowledge/es/People/cho-yun-hsu-bridging-historian.md",
+        "names": {
+          "蔣介石": 12
+        }
+      },
+      {
+        "path": "knowledge/fr/People/cho-yun-hsu-bridging-historian.md",
+        "names": {
+          "蔣介石": 12
+        }
+      },
+      {
+        "path": "knowledge/vi/People/hsiao-bi-khim.md",
+        "names": {
+          "蔣介石": 11
+        }
+      },
+      {
+        "path": "knowledge/vi/Geography/taipei-101.md",
+        "names": {
+          "蔡英文": 8,
+          "賴清德": 3
+        }
+      }
+    ]
+  },
   "history": [
-    {
-      "ts": "2026-08-08T23:01:45+08:00",
-      "fresh_total": 8045,
-      "gap_total": 1701
-    },
-    {
-      "ts": "2026-08-08T23:16:56+08:00",
-      "fresh_total": 8045,
-      "gap_total": 1701
-    },
-    {
-      "ts": "2026-08-08T23:32:06+08:00",
-      "fresh_total": 8045,
-      "gap_total": 1701
-    },
     {
       "ts": "2026-08-08T23:47:16+08:00",
       "fresh_total": 8045,
@@ -889,6 +968,21 @@
     },
     {
       "ts": "2026-09-28T07:33:02+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-28T08:29:13+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-28T08:58:42+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-28T09:27:27+08:00",
       "fresh_total": 13488,
       "gap_total": 0
     }

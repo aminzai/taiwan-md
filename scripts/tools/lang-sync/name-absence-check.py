@@ -23,6 +23,7 @@ name-consistency-check 的規則 B 刻意只比人物頁標題（它的 docstrin
 反方向也試過：「zh 提到某人 ≥3 次、譯文卻沒有他任何已知拼寫」全庫 1,310 處／929 篇，越南文的
 漢越音（李登輝 → Lý Đăng Huy）與鄭成功 → Koxinga 這類合法寫法淹沒訊號，正控制也沒命中，不採用。
 發明出來的錯名只剩人物頁標題那一格（name-consistency 規則 A 的少數形）看得到。
+越南文漢越音與首都頂替（台北寫成 Hà Nội、台灣人寫成 Thái Anh Văn）見 name-substitution-check.py（2026-09-28）。
 
 掃描範圍（2026-09-27 起）：原本寫死七個拉丁語系，被 check-hardcoded-langs 點名（語言清單要從 langs.py 來）。
 改成掃全部翻譯語言：非拉丁文字的譯文只在括號對照裡寫拉丁拼寫，那裡點名的人一樣該在 zh 裡；
