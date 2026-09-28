@@ -141,9 +141,9 @@ Os apoiadores consideravam isso uma necessidade para que Taiwan fosse claramente
 
 Durante seus oito anos no poder, a identidade de Taiwan subiu de cerca de 30% para 70%. Chen Shui-bian promoveu pessoalmente essas mudanças de identidade, tornando o conceito de "Taiwan como um país soberano" uma visão dominante: isso também levou a Taiwan a uma divisão de posições que ainda não foi sanada até hoje.
 
-## Discurso entre os dois lados do estreito: uma nação, um país
+## Discurso entre os dois lados do estreito: um país de cada lado
 
-Em 2002, Chen Shui-bian propôs em uma transmissão de vídeo "Taiwan, China, uma nação, um país", declarando explicitamente que Taiwan e China são dois países diferentes. Essa afirmação criou uma contradição com a linguagem prudente de "Quatro Nãos" durante a posse, provocando uma forte reação de Pequim e preocupando os Estados Unidos sobre a situação no estreito de Taiwan.
+Em 2002, Chen Shui-bian propôs em uma transmissão de vídeo "Taiwan e China, um país de cada lado", declarando explicitamente que Taiwan e China são dois países diferentes. Essa afirmação criou uma contradição com a linguagem prudente de "Quatro Nãos" durante a posse, provocando uma forte reação de Pequim e preocupando os Estados Unidos sobre a situação no estreito de Taiwan.
 
 No final de seu segundo mandato, ele aprofundou ainda mais com os "Quatro Nãos de Necessidade": necessidade de independência, necessidade de reivindicação, necessidade de nova constituição, necessidade de desenvolvimento, sem problemas de esquerda ou direita. Promoveu simultaneamente o referendo de "Taiwan entra na ONU". A diplomacia sofreu uma crise de navegação, e a logística de sua passagem pelos Estados Unidos entrou em tensão com Washington.
 

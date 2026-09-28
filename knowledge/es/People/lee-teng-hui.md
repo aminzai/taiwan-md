@@ -115,7 +115,7 @@ Paradójicamente, la crisis de los misiles consolidó la democracia taiwanesa. F
 > **📝 Nota de la curadora**
 > Muchos académicos consideran la conferencia de Cornell de 1995 una línea divisoria en las relaciones a través del estrecho. Desde entonces se pasó del "una sola China, distintas interpretaciones" a una disputa de soberanía mucho más compleja.
 
-## Las "dos relaciones" y el legado político
+## La "tesis de los dos Estados" y el legado político
 
 En julio de 1999, en una entrevista para Deutsche Welle, Lee Teng-hui definió las relaciones a través del estrecho como "una relación especial entre dos Estados": la célebre "tesis de los dos Estados".
 

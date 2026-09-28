@@ -141,9 +141,9 @@ Pendukung menganggap ini sebagai tindakan yang perlu untuk membuat Taiwan dikena
 
 Selama delapan tahun menjabat, pengakuan orang Taiwan meningkat dari sekitar tiga puluh persen menjadi tujuh puluh persen. Chen Shui-bian secara pribadi mendorong upaya pengenalan ini, menjadikan kesadaran bahwa "Taiwan adalah negara berdaulat" sebagai arus utama: hal ini juga membuat masyarakat Taiwan terperosok dalam perpecahan posisi yang sulit disembuhkan hingga hari ini.
 
-## Wacana Lintas Selat: Satu Negara, Dua Pihak
+## Wacana Lintas Selat: Satu Negara di Tiap Sisi
 
-Pada tahun 2002, Chen Shui-bian mengajukan "Taiwan, Tiongkok, satu pihak dua negara" dalam pidato video, secara tegas menyatakan bahwa Taiwan dan Tiongkok adalah dua negara yang berbeda. Wacana ini kontras dengan kehati-hatian "Empat Tidak Satu Tidak Ada" saat pelantikan, memicu reaksi keras dari Beijing dan kekhawatiran Amerika Serikat mengenai situasi di Selat Taiwan.
+Pada tahun 2002, Chen Shui-bian mengajukan "Taiwan dan Tiongkok, satu negara di tiap sisi" dalam pidato video, secara tegas menyatakan bahwa Taiwan dan Tiongkok adalah dua negara yang berbeda. Wacana ini kontras dengan kehati-hatian "Empat Tidak Satu Tidak Ada" saat pelantikan, memicu reaksi keras dari Beijing dan kekhawatiran Amerika Serikat mengenai situasi di Selat Taiwan.
 
 Pada paruh kedua masa jabatan keduanya, ia lebih jauh mengajukan "Empat Harus Satu Tidak Ada": harus merdeka, harus menamai ulang, harus memiliki konstitusi baru, dan harus berkembang; tidak ada masalah orientasi kiri atau kanan. Pada saat yang sama, ia mendorong referendum "Taiwan bergabung dengan PBB." Secara diplomatik, terjadi kontroversi "diplomasi tersesat" yang mengambil jalan memutar, dan pengaturan transit melalui AS juga menyebabkan ketegangan dengan Washington.
 

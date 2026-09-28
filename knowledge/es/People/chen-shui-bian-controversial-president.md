@@ -141,9 +141,9 @@ Los partidarios consideran necesario para que Taiwán sea claramente identificad
 
 Durante sus ocho años de gobierno, la identidad taiwanesa pasó de cerca del 30 % al 70 %. Chen Shui-bian impulsó personalmente estas ingenierías de identidad, haciendo que el reconocimiento de «Taiwán es un país soberano» se volviera mayoritario: esto también sumió a la sociedad taiwanesa en una división de posturas que aún hoy cuesta sanar.
 
-## Discurso a ambos lados del estrecho: un lado, un país
+## Discurso a ambos lados del estrecho: un país a cada lado
 
-En 2002, en una videoconferencia, Chen Shui-bian planteó «Taiwán, China, un lado, un país», declarando explícitamente que Taiwán y China son dos países distintos. Este discurso contrastaba con la cautela de los «cuatro noes y un sin» de la investidura, provocó una fuerte reacción de Pekín y preocupación en EE. UU. por la situación en el estrecho.
+En 2002, en una videoconferencia, Chen Shui-bian planteó «Taiwán y China, un país a cada lado», declarando explícitamente que Taiwán y China son dos países distintos. Este discurso contrastaba con la cautela de los «cuatro noes y un sin» de la investidura, provocó una fuerte reacción de Pekín y preocupación en EE. UU. por la situación en el estrecho.
 
 En la recta final del segundo mandato, fue un paso más allá con los «cuatro quieren y un no»: quieren independencia, quieren rectificación de nombres, quieren nueva constitución, quieren desarrollo, no hay problema de rutas izquierda/derecha. Impulsó simultáneamente el «referéndum de entrada de Taiwán en la ONU». En diplomacia ocurrió la controversia del «desvío diplomático» y los arreglos de tránsito por EE. UU. entraron en tensión con Washington.
 

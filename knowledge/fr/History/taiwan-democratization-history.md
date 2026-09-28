@@ -37,7 +37,7 @@ Le procès offrit aux accusés une tribune nationale. Shih Ming-te avait prépar
 
 ## Les soixante et onze jours de Zheng Nanrong
 
-Dans la décennie suivant le procès de l'île de Formose, la société taïwanaise ressemblait à une eau chauffant lentement. Le mouvement _Tangwai_ continuait de s'étendre, mais c'est un homme originaire de la province de Chine (un _waishengren_) nommé [[鄭南榕]] (Zheng Nanrong) qui fit monter la température jusqu'au point d'ébullition.
+Dans la décennie suivant le procès de l'île de Formose, la société taïwanaise ressemblait à une eau chauffant lentement. Le mouvement _Tangwai_ continuait de s'étendre, mais c'est un homme issu d'une famille venue de Chine continentale (un _waishengren_) nommé [[鄭南榕]] (Zheng Nanrong) qui fit monter la température jusqu'au point d'ébullition.
 
 Le 10 décembre 1988, Journée internationale des droits de l'homme, Zheng Nanrong publia dans le numéro 254 de son hebdomadaire _Freedom_ (自由時代) l'intégralité d'un « Projet de constitution de la République de Taïwan ». À l'époque, cet acte équivalait à un crime de rébellion passible de la peine de mort.
 

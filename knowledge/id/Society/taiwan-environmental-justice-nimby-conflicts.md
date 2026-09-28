@@ -62,7 +62,7 @@ Pemerintah mencoba menyelesaikan kontroversi dengan dana kompensasi. Kabupaten/k
 
 ### Penanganan Sampah Lintas Kabupaten/Kota
 
-Sampah Jakarta dikirim ke Bekasi untuk diproses, sampah Bekasi dikirim ke Bogor, menciptakan fenomena "perjalanan sampah". Meskipun penanganan lintas wilayah ini menyelesaikan masalah mendesak masing-masing kabupaten/kota, juga menimbulkan masalah ketidakadilan baru.
+Sampah Kota Taipei dikirim ke New Taipei untuk diproses, sampah New Taipei dikirim ke Taoyuan, menciptakan fenomena "perjalanan sampah". Meskipun penanganan lintas wilayah ini menyelesaikan masalah mendesak masing-masing kabupaten/kota, juga menimbulkan masalah ketidakadilan baru.
 
 Tempat penimbunan sampah di daerah pegunungan terpencil menjadi tujuan akhir sampah urban. Kota-kota pegunungan seperti Wulai, Sanxia, Shidi memiliki populasi yang jarang, pengaruh politik terbatas, sering menjadi lokasi yang ditunjuk untuk tempat penimbunan sampah. Penduduk lokal protes "mengapa sampah yang dihasilkan oleh orang-orang urban harus ditanggung oleh kami".
 

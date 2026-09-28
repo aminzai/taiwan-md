@@ -141,9 +141,9 @@ Supporters argued that this was a necessary measure to ensure Taiwan was clearly
 
 During his eight years in office, the public recognition of "Taiwan" rose from about 30% to 70%. Chen Shui-bian personally drove this process of recognition, making the concept of "Taiwan as a sovereign nation" mainstream: this also led Taiwanese society into an unhealed division of positions.
 
-## Cross-Strait Discourse: One Side, One Nation
+## Cross-Strait Discourse: One Country on Each Side
 
-In 2002, in a video address, Chen Shui-bian proposed "Taiwan, China, one side, one nation," clearly asserting that Taiwan and China were two different nations. This discourse contrasted with the cautious wording of the "Four No's and One Nothing" during his inauguration, provoking a strong reaction from Beijing and causing concern in Washington regarding cross-Strait affairs.
+In 2002, in a video address, Chen Shui-bian proposed "Taiwan and China: one country on each side," clearly asserting that Taiwan and China were two different nations. This discourse contrasted with the cautious wording of the "Four No's and One Nothing" during his inauguration, provoking a strong reaction from Beijing and causing concern in Washington regarding cross-Strait affairs.
 
 In the latter part of his second term, he further proposed the "Four Yes's and One Nothing": to seek independence, to self-name, to establish a new constitution, and to develop—there was no question of alignment. He also promoted the "Taiwan accession referendum." Diplomatically, there was the controversy of "lost navigation diplomacy" involving detours, and arrangements passing through the United States also caused tension with Washington.
 

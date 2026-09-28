@@ -143,7 +143,7 @@ Sur les huit ans de mandat, l'identification taïwanaise passe d'environ 30 % à
 
 ## Rhétorique inter-détroit : un pays de chaque côté
 
-En 2002, lors d'une visioconférence, Chen Shui-bian avance « Taïwan, Chine, un pays de chaque côté » (一邊一國), affirmant explicitement que Taïwan et la Chine sont deux pays distincts. Cette thèse tranche avec la prudence des « quatre non, un sans » de l'investiture, provoque une vive réaction de Pékin et l'inquiétude de Washington quant à la situation dans le détroit.
+En 2002, lors d'une visioconférence, Chen Shui-bian avance « Taïwan et la Chine, un pays de chaque côté » (一邊一國), affirmant explicitement que Taïwan et la Chine sont deux pays distincts. Cette thèse tranche avec la prudence des « quatre non, un sans » de l'investiture, provoque une vive réaction de Pékin et l'inquiétude de Washington quant à la situation dans le détroit.
 
 En fin de second mandat, il va plus loin avec les « quatre oui, un non » : oui à l'indépendance, oui à la rectification des noms, oui à une nouvelle Constitution, oui au développement, non à la question des clivages gauche-droite. Parallèlement, il promeut le « référendum pour l'entrée de Taïwan à l'ONU ». Sur le plan diplomatique survient la controverse de la « diplomatie égarée » avec des escales détournées, et les arrangements de transit aux États-Unis se tendent avec Washington.
 

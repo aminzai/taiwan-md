@@ -142,9 +142,9 @@ Những người ủng hộ cho rằng đây là hành động cần thiết đ�
 
 Trong tám năm nắm quyền, sự đồng thuận của người dân Đài Loan đã tăng từ khoảng 30% lên 70%. Trần Thủy Biển đã thúc đẩy quá trình nhận thức này, khiến ý niệm "Đài Loan là quốc gia có chủ quyền" trở thành xu hướng chính thống: điều này cũng khiến xã hội Đài Loan rơi vào sự phân cực vị thế khó lành đến ngày nay.
 
-## Luận thuyết hai bờ eo biển: Một bên một quốc
+## Luận thuyết hai bờ eo biển: Mỗi bên một nước
 
-Năm 2002, trong một bài phát biểu qua video, Trần Thủy Biển đã đưa ra luận điểm "Đài Loan, Trung Quốc, một bên một quốc", tuyên bố rõ ràng rằng Đài Loan và Trung Quốc là hai quốc gia khác biệt. Luận điểm này tạo ra sự tương phản với lời lẽ thận trọng "Bốn không Một không" khi nhậm chức, gây ra phản ứng mạnh mẽ từ Bắc Kinh và khiến Mỹ lo ngại về tình hình eo biển Đài Loan.
+Năm 2002, trong một bài phát biểu qua video, Trần Thủy Biển đã đưa ra luận điểm "Đài Loan và Trung Quốc, mỗi bên một nước", tuyên bố rõ ràng rằng Đài Loan và Trung Quốc là hai quốc gia khác biệt. Luận điểm này tạo ra sự tương phản với lời lẽ thận trọng "Bốn không Một không" khi nhậm chức, gây ra phản ứng mạnh mẽ từ Bắc Kinh và khiến Mỹ lo ngại về tình hình eo biển Đài Loan.
 
 Vào cuối nhiệm kỳ thứ hai, ông tiến thêm một bước bằng cách đưa ra "Bốn phải Một không": cần độc lập, cần tự định danh, cần hiến pháp mới, cần phát triển, không có vấn đề về xu hướng bên trái hay bên phải. Đồng thời thúc đẩy "trưng cầu dân ý Đài Loan gia nhập Liên Hiệp Quốc". Về mặt ngoại giao, đã xảy ra tranh cãi về "ngoại giao lạc lối" đi đường vòng, và việc sắp xếp quá cảnh qua Mỹ cũng gây căng thẳng với Washington.
 

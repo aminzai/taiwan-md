@@ -142,9 +142,9 @@ Befürworter sahen darin eine notwendige Maßnahme, um Taiwan international klar
 
 In acht Jahren Regierung stieg das Selbstverständnis der Taiwanesen von etwa dreißig auf siebzig Prozent an. Chen Shui-bian förderte diese Identitätsarbeit und machte die Erkenntnis „Taiwan ist ein souveräner Staat“ zum Mainstream – was jedoch auch zu einer gesellschaftlichen Spaltung führte, die bis heute nicht geheilt ist.
 
-## Die Debatte zwischen den beiden Seiten der Taiwanstraße: Ein Land, zwei Staaten
+## Die Debatte zwischen den beiden Seiten der Taiwanstraße: Ein Land auf jeder Seite
 
-Im Jahr 2002 stellte Chen Shui-bian in einer Videovorlesung „Taiwan und China, ein Land mit zwei Staaten“ vor und erklärte damit klar, dass Taiwan und China zwei verschiedene Staaten seien. Diese Aussage wich von der vorsichtigen Formulierung bei seiner Amtseinführung ab und löste eine starke Reaktion aus Peking sowie Besorgnis in Washington über die Situation in der Taiwanstraße aus.
+Im Jahr 2002 stellte Chen Shui-bian in einer Videovorlesung „Taiwan und China – auf jeder Seite ein Land“ vor und erklärte damit klar, dass Taiwan und China zwei verschiedene Staaten seien. Diese Aussage wich von der vorsichtigen Formulierung bei seiner Amtseinführung ab und löste eine starke Reaktion aus Peking sowie Besorgnis in Washington über die Situation in der Taiwanstraße aus.
 
 Später in seiner zweiten Amtszeit stellte er mit „Vier Ja und Ein Nein“ weiterführende Forderungen: Unabhängigkeit, korrekte Benennung, neue Verfassung, Entwicklung – ohne Fragen der Ausrichtung. Gleichzeitig förderte er eine Volksabstimmung über die Zugehörigkeit Taiwans zur Vereinten Nationen. Diplomatisch gab es die Kontroverse um „irreführende Diplomatie“ durch Drittstaaten und Spannungen mit Washington aufgrund von Transitarrangements.
 
