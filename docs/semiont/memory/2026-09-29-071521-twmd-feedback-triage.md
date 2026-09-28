@@ -62,6 +62,7 @@
 
 - [ ] pending（席位 `twmd-distill-weekly` 10-04，只需裁決不需權限）— LESSONS `requery-with-a-new-shape-can-swap-the-population-not-just-the-window`（vc=1）：判它是 REFLEXES #24 形式 4 的新維度（處方帶副作用）還是只是 FEEDBACK-TRIAGE 的操作規則。已落的只有 README 範圍註記，判準本身沒動。
 - [ ] pending（席位 `twmd-feedback-triage` 本班，零判斷，動得了 `scripts/feedback/`）— 到達節奏若要常問，在 `formatIntakeAge()` 旁補一支全庫間隔分佈（它本來就握著全 status 讀取權），免得下一班又從 archive 推。本輪只寫了註記沒造工具，因為八輪零回報還不確定這個問題值不值得一支常設儀器。
+- [ ] pending（席位 Full／Review session 或 `/twmd-routine`，動得了 `.husky/pre-push`，接 9/28 `c9fcf850f` 的「build 秒數三點再判」那條）— 本班 push 給那條剛校準過的閘門一個實測資料點：`TYPICAL` 取的是近五次成功的**中位**（今天 2,018 秒，全距 1,869〜2,079），`THRESH = 中位 − 120`，所以任何比中位慢的那一次一定會白等滿 120 秒。本班遇到的 run 已跑 2,052 秒進入「近完成」分支，等到 2,172 秒仍未完，照設計放行。用中位當門檻等於結構上讓大約一半的等待註定落空。改用近五次的**最大值**或 p90 算 `THRESH` 就能把這類白等收掉，代價是更少次數會去等。數字小、方向明確，屬閾值調整（per BECOME §行動鐵律 10 要 Full mode），本班只記不改。
 
 ## Beat 5 — 反芻
 
