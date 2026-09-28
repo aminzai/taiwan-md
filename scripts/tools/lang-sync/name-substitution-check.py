@@ -112,8 +112,11 @@ def check(lang, zh_text, tr_text):
 
 
 def source_of(tr_path):
-    head = tr_path.read_text(encoding="utf-8")[:3000]
-    m = re.search(r"(?m)^translatedFrom:\s*['\"]?([^'\"\n]+?)['\"]?\s*$", head)
+    # 讀整段 frontmatter，不截前 N 字：標籤多的譯文 frontmatter 超過 3,000 字，translatedFrom 排在後面
+    #（第三十二輪 pulse 算 169、這支算 164，差的 5 篇就是這個）
+    text = tr_path.read_text(encoding="utf-8")
+    fm = re.match(r"(?s)\A---\n(.*?)\n---\n", text)
+    m = re.search(r"(?m)^translatedFrom:\s*['\"]?([^'\"\n]+?)['\"]?\s*$", fm.group(1) if fm else text)
     return KNOWLEDGE / m.group(1) if m else None
 
 
