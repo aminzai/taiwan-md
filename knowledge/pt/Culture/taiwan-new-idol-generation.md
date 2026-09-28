@@ -1,22 +1,22 @@
 ---
-title: 'A Nova Geração de Ícones de Taiwan'
-description: "Em 2020, alguém investiu 130 milhões de novos dólares para criar ícones em Taiwan. Quatro programas, quatro prêmios Golden Bell, mais de 50 participantes debutantes — e então o volume do grupo vencedor começou a cair abruptamente. A maior dificuldade da indústria de ícones de Taiwan sempre foi: 'Como sobreviver após o debut?'"
+title: 'A Nova Geração de Ídolos de Taiwan'
+description: 'Em 2020, alguém investiu 130 milhões de novos dólares taiwaneses para criar ídolos em Taiwan. Quatro programas conquistaram quatro prêmios Golden Bell, com mais de 50 debutantes — e então o volume do grupo vencedor começou a cair abruptamente. A verdadeira dificuldade da indústria de ídolos de Taiwan sempre foi: "Como sobreviver após o debut?"'
 date: 2026-04-23
 category: 'Culture'
-subcategory: 'Cultura Pop'
 tags:
   [
-    'ícones',
+    'ídolos',
     'competição',
     'DD52',
-    'Átomo Jovem',
-    'Próximas Meninas',
-    'Equipe Cósmica',
+    'Atom Boyz',
+    'Next Girlz',
+    'Cosmic Angels',
     'K-POP',
-    'Música Pop de Taiwan',
-    'Cultura de Ícones',
-    'Tsai Ing-wen',
+    'Música Pop Taiwanesa',
+    'Cultura de Ídolos',
+    'Chan Jen-hung',
   ]
+subcategory: '流行文化'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-23
@@ -26,233 +26,232 @@ translatedFrom: 'Culture/台灣新偶像世代.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:8258a0ced6980600'
 sourceBodyHash: 'sha256:3dda77b7510dd761'
-translatedAt: '2026-07-25T09:23:09+08:00'
+translatedAt: '2026-09-28T09:06:24+08:00'
 ---
 
-> **Visão de 30 segundos:** Em 2001, S.H.E debutou e Taiwan permaneceu sem um grupo de ícones bem-sucedido por 19 anos. Em 2020, o produtor Tsai Ing-wen investiu 130 milhões de novos dólares para criar o programa de competição "Geração DD52", tentando reativar a cadeia produtiva de ícones de Taiwan. Seis anos depois, DD52, Átomo Jovem, Próximas Meninas, Átomo Jovem 2 e Equipe Cósmica — cinco programas, quatro prêmios Golden Bell, mais de 50 ícones debutantes e mais de 10 grupos. Mas o volume do grupo vencedor costuma ser o mais baixo. Sete grupos masculinos tiveram declínio abrupto de popularidade após um ano de debut. O desafio mais profundo da indústria de ícones de Taiwan é: "Como sobreviver após o debut?"
+> **Visão de 30 segundos:** Em 2001, S.H.E debutou e Taiwan passou 19 anos inteiros sem uma banda de ídolos bem-sucedida. Em 2020, o produtor Chan Jen-hung (詹仁雄) investiu 130 milhões de novos dólares taiwaneses para criar o programa de competição "Geração DD52", tentando reativar a cadeia de produção de ídolos de Taiwan. Seis anos depois, DD52, Atom Boyz, Next Girlz, Atom Boyz 2 e Cosmic Angels — cinco programas, quatro prêmios Golden Bell, mais de 50 ídolos debutantes, dez ou mais grupos. Mas o volume do grupo vencedor costuma ser o mais baixo. Sete bandas masculinas sofreram queda "abrupta" de popularidade após um ano de debut. Fazer debut é fácil; manter-se vivo é o verdadeiro desafio da indústria de ídolos de Taiwan.
 
-Em 11 de setembro de 2001, a Hua Ren International lançou o grupo feminino de três membros S.H.E. Nos anos seguintes, Selina, Hebe e Ella vendieram mais de 16 milhões de cópias de álbum, tornando-se um dos grupos femininos mais bem-sucedidos da história da música popular chinesa[^1].
+Em 11 de setembro de 2001, a Hua Ren International lançou o grupo feminino de três membros S.H.E. Nos dez anos seguintes, Selina, Hebe e Ella venderam mais de 16 milhões de discos, tornando-se um dos grupos femininos mais bem-sucedidos da história da música popular em idioma chinês[^1].
 
-Depois, os grupos de ícones de Taiwan desapareceram.
+Depois, os grupos de ídolos de Taiwan desapareceram.
 
-Não foi por falta de tentativas. Grupos como Flying Aces, Bamboo Sticks, Lollipop surgiram, mas nenhum durou tanto quanto S.H.E. De 2001 a 2020, Taiwan passou 19 anos sem um grupo de ícones que concorresse com S.H.E[^2]. Nesse período, a Coreia do Sul transformou a indústria K-pop em uma máquina global de exportação cultural, o sistema AKB48 do Japão expandiu-se para toda a Ásia, e a China produziu grupos limitados por meio de programas de competição. Já Taiwan, outrora definidor da música popular chinesa, deixou um vácuo na indústria de grupos de ícones.
+Não foi por falta de tentativas. Flying Wheel, Bamboo Boyz, Lollipop — esses nomes circularam, mas nenhum resistiu ao tempo de S.H.E. De 2001 a 2020, Taiwan passou 19 anos sem produzir um grupo de ídolos que se igualasse a S.H.E[^2]. Nesse intervalo, a Coreia do Sul transformou o K-pop numa máquina global de exportação cultural, o sistema AKB48 do Japão expandiu-se por toda a Ásia, e a China produzia grupos limitados em massa através de programas de competição. Enquanto isso, Taiwan — a ilha que outrora definia a música popular em idioma chinês — deixou quase um vácuo completo na indústria de grupos de ídolos.
 
-Em 2020, alguém decidiu não esperar mais.
+Em 2020, alguém decidiu que era hora de tentar de novo.
 
 ---
 
-## A Apostada de 130 Milhões
+## 130 Milhões de Novos Dólares Taiwaneses em Jogo
 
-Em 12 de junho de 2020, o programa de competição "Geração DD52" estreou simultaneamente no YouTube e no ETtoday[^2].
+Em 12 de junho de 2020, "Geração DD52" estreou simultaneamente no YouTube e no ETtoday[^2].
 
-As especificações de DD52 superavam amplamente os de programas de competição da época. O produtor Tsai Ing-wen (um dos melhores produtores de programas de entretenimento de Taiwan) e Liang Ting-hao investiram **130 milhões de novos dólares** em produção. Esse valor era cinco a seis vezes maior que o de programas similares da época. Apenas as músicas originais gastaram 18 milhões, e as infraestruturas eram 2,5 vezes maiores que as do "Star Dream"[^2].
+As especificações de DD52 superavam em muito as de programas de competição da época. O produtor Chan Jen-hung (Chen Jen-hung, um dos melhores produtores de programas de entretenimento de Taiwan) e Liang Ting-hao investiram **130 milhões de novos dólares taiwaneses** em produção. Esse valor era de cinco a seis vezes maior que o de programas similares da mesma época. As músicas originais sozinhas consumiram 18 milhões, e o equipamento técnico era 2,5 vezes superior ao do "Star Road"[^2].
 
-104 meninas, com idades médias entre 13 e 25 anos, foram divididas em quatro equipes: Hurricane (Tempestade), Blaze Love (Fogo Amado), Pink Fun (Divertido Rosa), White Diamond (Diamante Branco)[^3]. Os principais professores foram Yang Cheng-lin e Pan Wei-bo, com convidados como Chen Li-nung, Qiao Jia-dan, Wang Xin-ling, Hsiao Jing-teng, Zhou Xing-zhe, Wei Ru-hsuan, 9m88 e Wu Zhaoxuan, totalizando 17 artistas[^3].
+104 meninas, com idades entre 13 e 25 anos, foram divididas em quatro equipes: Hurricane (Furacão), Blaze Love (Chama do Amor), Pink Fun (Diversão Rosa), White Diamond (Diamante Branco)[^3]. Os principais instrutores foram [Rainie Yang](/pt/people/rainie-yang) e Pan Wei-bo, com convidados incluindo Chen Li-nong, Eggplant, Cyndi Wang, [Jam Hsiao](/pt/people/jam-hsiao), Eric Chou, [Waa Wei](/pt/people/waa-wei-singer), 9m88 e Wu Zhuo-yuan, somando 17 artistas musicais[^3].
 
-13 episódios, duas horas cada. A final ocorreu em 4 de setembro de 2020.
+Treze episódios, dois horas cada. A final aconteceu em 4 de setembro de 2020.
 
-O time vencedor, Blaze Love, obteve 57,9 pontos; o segundo colocado, Hurricane, 55,4 pontos. A diferença foi de 2,5 pontos[^3].
+Blaze Love (Chama do Amor) tirou 57,9 pontos, Hurricane 55,4 pontos. A diferença foi de 2,5 pontos[^3].
 
-Blaze Love debutou com o nome "G.O.F" (Girls On Fire). O segundo colocado, Hurricane, foi contratado pelo produtor Felipe.Z (Felipe.Z), que formou a AOA Entertainment Lab e lançou a equipe como "HUR+"[^4]. Pink Fun debutou simultaneamente com o nome "PINK FUN"[^3].
+Blaze Love debutou com o nome "G.O.F" (Girls On Fire). O segundo colocado, Hurricane, foi assinado pelo produtor Felipe.Z, que formou AOA Entertainment Lab e lançou o grupo como "[HUR+](/pt/people/hur-plus-band)"[^4]. Pink Fun debutou simultaneamente com o mesmo nome "PINK FUN"[^3].
 
-DD52 venceu o **Prêmio Golden Bell de Melhor Programa de Competição na 56ª edição**[^3].
+DD52 ganhou o **Prêmio Golden Bell de Melhor Programa de Variedades na 56ª edição**[^3].
 
-Mas a verdadeira história só começou após a final.
+Mas a verdadeira história começou só depois da final.
 
 > **📝 Nota do Curador**
-> Tsai Ing-wen disse aos jornalistas: "Muitos pais apoiam as filhas sonhando com metas alcançáveis, e o potencial de mercado é suficiente, os grupos femininos também são mais fáceis de gerenciar." Essa afirmação parece prática, mas revela um problema profundo na indústria de ícones de Taiwan: os grupos são frequentemente obras do produtor, não escolha dos próprios membros.
+> Chan Jen-hung (詹仁雄) disse a repórteres: "Muitos pais apoiam as filhas em busca de seus sonhos, o potencial de mercado é suficiente, e bandas femininas também são mais fáceis de gerenciar." A declaração parece prática, mas revela um problema profundo na indústria de ídolos de Taiwan: aqui, os grupos são frequentemente obras do produtor, não escolhas dos próprios membros.
 
 ---
 
-## Quando o Volume do Campeão Desaparece
+## Quando o Volume do Grupo Vencedor Começou a Desaparecer
 
-Após o debut, o volume de G.O.F declinou rapidamente. Pink Fun enfrentou conflitos com a saída de membros. Dos três grupos debutantes, o mais sobrevivente foi o **segundo colocado HUR**, que manteve-se ativo por seis anos[^5].
+G.O.F viu seu volume declinar rapidamente após o debut. PINK FUN enfrentou crises de saída de membros. Dos três grupos que debutaram, o que **sobreviveu mais tempo foi HUR, o segundo colocado**[^5].
 
-A comparação de dados de engajamento nas redes sociais é cruel: G.O.F teve 517 publicações; Pink Fun, 621; HUR, 604[^5]. O campeão teve o menor número. Seis anos depois, em 2026, apenas HUR (agora chamado [HUR+](/people/HUR-plus)) continua lançando álbuns, apresentando shows e arrecadando fundos para concertos na Coreia[^4].
+A comparação de engajamento em redes sociais é impiedosa: G.O.F teve 517 menções, PINK FUN 621, HUR 604[^5]. O vencedor teve o menor número. Seis anos depois, em 2026, apenas HUR (agora chamado [HUR+](/pt/people/hur-plus-band)) continua lançando álbuns, realizando shows e arrecadando fundos para tocar na Coreia do Sul[^4].
 
-Essa inversão não foi acidental. Felipe.Z seguiu um caminho completamente diferente do do campeão: ele não seguiu a fórmula da Coreia.
+Essa inversão não foi acidental. Felipe.Z seguiu um caminho inteiramente diferente do campeão: ele não copiou a fórmula coreana.
 
-> **✦** "Quanto menos diferenciado, melhor. Se seguíssemos a mesma receita coreana, como Taiwan poderia competir?"[^4]
+> **✦** "Quanto mais diferentes somos, melhor. Se seguíssemos a mesma receita da Coreia, como Taiwan poderia competir?"[^4]
 
-Mas o maior legado de DD52, maior que qualquer grupo debutante, foi provar que Taiwan tinha 104 meninas dispostas a subir ao palco de um programa de competição, audiência disposta a assistir, professores dispostos a ensinar e o Golden Bell disposto a premiar. **O lado da oferta nunca foi o problema; o desafio estava no lado da demanda.**
+Mas o maior legado de DD52, superior a qualquer grupo que debutou, foi demonstrar que Taiwan tinha 104 meninas dispostas a subir ao palco de um programa de competição, público disposto a assistir, instrutores dispostos a ensinar e a Golden Bell disposta a premiar. **A oferta nunca foi o problema; o desafio estava no lado da demanda.**
 
 ---
 
 ## Oitenta Meninos, Sete Grupos
 
-Em 17 de abril de 2022, a versão masculina de DD52 chegou. O programa "Átomo Jovem ATOM BOYZ" estreou no TVBS[^6].
+Em 17 de abril de 2022, chegou a versão masculina de DD52. "Atom Boyz" estreou no TVBS[^6].
 
-Oitoenta meninos foram divididos em oito planetas, com dez membros por grupo. Os professores incluíram Chen Jia-hua (Ella), Zhou Tang-hao, Xie Kun-da e Tian Yi-der[^6]. As especificações eram similares às de DD52, mas com uma diferença crucial: o número de grupos debutantes era mais do dobro.
+Oitenta meninos foram divididos em oito planetas, com dez membros por grupo. Os instrutores incluíram Chen Jia-hua (Ella), Zhou Tang-hao, Xie Kun-da e Tian Yi-der[^6]. As especificações eram similares às de DD52, mas com uma diferença crítica: o número de grupos que debutaram era mais do que o dobro.
 
-O campeão, Marte, tornou-se U:NUS; o segundo colocado, Terra, virou Ozone. Até novembro de 2023, **34 concorrentes formaram sete grupos debutantes**[^6].
+O campeão, Netuno, virou U:NUS; o segundo colocado, Terra, virou Ozone. Até novembro de 2023, **34 candidatos formaram sete grupos distintos que debutaram**[^6].
 
 Sete.
 
 > **📝 Nota do Curador**
-> A ideia de sete grupos parece uma abordagem gentil para "dar mais oportunidades". Na realidade, foi uma decisão estratégica fatal. O pool de público para ícones de Taiwan é pequeno, e sete grupos dividem esse pool. Cada grupo recebe apenas uma setima parte da atenção disponível.
+> Sete grupos soa como uma abordagem gentil: "deixar mais pessoas terem oportunidade". Na realidade, foi uma decisão estratégica fatal. O mercado de ídolos de Taiwan é pequeno, e sete grupos dividem esse mercado. Cada grupo fica com apenas um sétimo da atenção disponível.
 
-O site Key Opinion em análise sobre o debut de Átomo Jovem após um ano concluiu: popularidade sofreu "declínio em furos"[^7].
+A Key Opinion (Thenewslens) publicou uma análise um ano após o debut de Atom Boyz com uma conclusão direta: a popularidade sofreu queda "em camadas"[^7].
 
-> **✦** "Grupos com menor popularidade têm dificuldade de ganhar visibilidade." "A maioria das músicas parece ser apenas para fãs, sem capacidade de ruptura."[^7]
+> **✦** "Grupos menos populares enfrentam dificuldade em ganhar visibilidade." "A maioria das músicas parece circular apenas entre fãs, sem força de penetração."[^7]
 
-Em um ano, sete grupos lançaram, no máximo, uma música por álbum, 12 canções e duas apresentações. Sem plataformas de performance, sem planos de expansão internacional, e as empresas de gestão optaram por manter-se apenas no mercado de Taiwan[^7]. O tamanho desse mercado não sustenta sete grupos.
+Em um ano, sete grupos lançaram no máximo um álbum cada, seis canções, dois shows. Sem palcos de performance, sem planos de expansão ao exterior, as agências escolheram "manter-se basicamente apenas no mercado de Taiwan"[^7]. Ninguém no mercado de Taiwan pode sustentar sete grupos.
 
-Mas Átomo Jovem também deixou marcas. Ozone tornou-se o primeiro grupo da nova geração masculina a se apresentar no Taipé 101. U:NUS, com destaque na criação de letras e composições, foi elogiado pelos fãs como "primeiro grupo masculino totalmente autoral"[^6]. Esses casos comprovam que Taiwan tem potencial, mas a estrutura da indústria não acompanha.
-
-Átomo Jovem venceu o **Prêmio Golden Bell de Melhor Diretor na 58ª edição**[^6].
+Mas Atom Boyz também deixou marcas. Ozone se tornou o primeiro grupo da nova geração masculina a fazer um show especial no Taipei Arena. U:NUS enfatizou composição e criação de letras próprias, sendo elogiado por fãs como "primeira banda masculina totalmente autoral"[^6]. Esses casos mostram que Taiwan tem potencial, mas a estrutura da indústria não acompanha.
 
 ---
 
-## Um Novo Ciclo para os Jovens Debutantes
+## Já Debutantes Competem Novamente
 
-Em julho de 2023, o formato de programas de competição evoluiu. "Próximas Meninas NEXT GIRLZ" não convidou iniciantes, mas **grupos já debutados**[^8].
+Em julho de 2023, o formato de programa de competição evoluiu. "Next Girlz" não selecionava novatas, selecionava **bandas femininas já debutadas**[^8].
 
-Seis grupos disputaram: Sunlight Orange, Mint Crystal, Onyx Spirit, Purple Moonlight, Crimson Shadow (a formação de nove membros de [HUR+](/people/HUR-plus)) e Dream Blue Bear, mais um grupo escondido desbloqueável por votação dos fãs, o espectral Crystal Water[^8].
+Seis grupos competiram: Sunny Orange, Mint Crystal, Black Opal Spirit, Purple Moon Light, Scarlet Enchantment (o grupo limitado de nove membros do [HUR+](/pt/people/hur-plus-band)), e Azure Bear, mais um grupo secreto desbloqueado por votação de espectadores chamado Ghost Crystal[^8].
 
-O campeão, Dream Blue Bear (GenBlue), venceu nove rodadas, ganhou o prêmio de 100 milhares de carros e, em 2 de setembro de 2024, estreou na Coreia com a música "COCOCO", tornando-se o primeiro caso de sucesso de Taiwan na exportação para o mercado coreano[^8].
+O vencedor, Azure Bear (GenBlue), conquistou seis vitórias em nove rodadas de competição, ganhou um prêmio de carro de luxo no valor de um milhão, e em 2 de setembro de 2024 debutou na Coreia do Sul com o single "COCOCO", tornando-se **o primeiro caso de sucesso na exportação de Taiwan para o mercado coreano através do sistema de competição de ídolos**[^8].
 
-O mais notável foi o conflito durante o programa. Os jurados criticaram a performance de Crimson Shadow (HUR+) como "agressiva demais", e Felipe.Z respondeu nas redes sociais:
+O momento mais memorável do programa foi um conflito que eclodiu durante as competições. Jurados criticaram a apresentação de Scarlet Enchantment (HUR+) por ser "muito agressiva", e Felipe.Z respondeu em redes sociais:
 
-> **✦** "Vivendo na era da pedra?"[^9]
+> **✦** "Estão vivendo na Idade da Pedra?"[^9]
 
-Essa frase tocou um ponto central da cultura de ícones de Taiwan: até onde o público e os jurados esperam dos ícones? Devem ser doces e adoráveis, ou aceitar performances agressivas? Na Coreia, o estilo "girl crush" de BLACKPINK já é dominante; em Taiwan, essa mudança estética ainda está em andamento.
+Essa frase toca numa tensão central na cultura de ídolos de Taiwan: o que o público taiwanês e os jurados esperam dos ídolos — doçura e inocência, ou disposição para abraçar um estilo de performance agressivo? Na Coreia, o "girl crush" tipo BLACKPINK já é a corrente dominante; em Taiwan, essa transformação estética ainda está em andamento.
 
-Próximas Meninas venceu o **Prêmio Golden Bell de Melhor Programa de Competição na 59ª edição**[^8].
-
----
-
-## A Quartas Tentativas, Mesmo Tsai Ing-wen
-
-Em 24 de agosto de 2024, "Átomo Jovem 2" estreou[^10].
-
-54 concorrentes, seis planetas, TVBS, LINE TV e Hami Video. O campeão, Marte, formou um grupo de sete membros, F.F.O, cujo álbum debut "Future For One" liderou as paradas de pré-venda da Livraria Taipei. ARKis, grupo de popularidade limitada, debutou no dia seguinte. Além disso, um mecanismo chamado "Plano Núcleo de Contêiner" criou outro grupo limitado[^10].
-
-Aí, o ecossistema de competições de ícones de Taiwan forma um padrão claro:
-
-| Programa         | Ano  | Gênero    | Debutantes                | Golden Bell           |
-| ---------------- | ---- | --------- | ------------------------- | --------------------- |
-| DD52             | 2020 | Feminino  | 3 grupos                  | ✅ Prêmio de Programa |
-| Átomo Jovem      | 2022 | Masculino | 7 grupos, 34 pessoas      | ✅ Prêmio de Diretor  |
-| Próximas Meninas | 2023 | Feminino  | Grupos existentes         | ✅ Prêmio de Programa |
-| Átomo Jovem 2    | 2024 | Masculino | 2 grupos + grupo limitado | ✅ Prêmio de Programa |
-
-**Quatro programas, quatro prêmios Golden Bell.** Taiwan conseguiu criar competições de ícones, mas o problema persiste: e depois do programa?
-
-Átomo Jovem 2 venceu o **Prêmio Golden Bell de Melhor Programa de Competição na 60ª edição**[^10].
-
-> **💡 Sabia?** Os quatro programas de competição de Tsai Ing-wen (DD52, Átomo Jovem, Próximas Meninas, Átomo Jovem 2) venceram prêmios Golden Bell nas edições de 56 a 60, mantendo uma média de um prêmio por edição. KickPal (jogo e Tsai Ing-wen) tornou-se a máquina de prêmios mais estável da categoria de competições de ícones na história do Golden Bell.
+Next Girlz conquistou o **Prêmio Golden Bell de Melhor Programa de Variedades na 59ª edição**[^8].
 
 ---
 
-## Novos Fatores Fora de Tsai Ing-wen
+## A Quarta Vez, Ainda Chan Jen-hung
 
-Em 7 de março de 2026, um novo programa de competição, não vinculado ao universo de Tsai Ing-wen, estreou: "Equipe Cósmica Cosmic Angels"[^11].
+Em 24 de agosto de 2024, "Atom Boyz 2" estreou[^10].
 
-Produzido pela TV Asahi e Titan Star Entertainment, o produtor B2 Chen Yan-ming apostou em 300 concorrentes para formar um grupo de nove membros[^11].
+Cinquenta e quatro candidatos, seis planetas, transmitido em TVBS, LINE TV e Hami Video. O grupo vencedor, o Planeta Pequeno, formou F.F.O (Future For One); o álbum de debut alcançou o topo nos pré-pedidos do Blogs Bookstore (博客來). O grupo de popularidade ARKis debutou no dia seguinte. Havia também um mecanismo chamado "Projeto Arca de Noé" para formar grupos limitados adicionais[^10].
 
-Duas características especiais tornam esse programa notável.
+Neste ponto, o sistema Chan Jen-hung (詹仁雄) de programas de competição de ídolos de Taiwan formou um padrão bem definido:
 
-Primeiro, a **abordagem baseada na cultura de "dance team"**. Os grupos de básquete de Taiwan se tornaram um fenômeno cultural independente após 2023. As influenciadoras Li Duo-hui, Bian He-law e Nan Mei-zhen já tinham alcance superior ao do próprio basquete. A Equipe Cósmica transferiu essa energia para a competição de ícones, uma adaptação cultural precisa[^11].
+| Programa    | Ano  | Gênero | Debutantes          | Golden Bell        |
+| ----------- | ---- | ------ | ------------------- | ------------------ |
+| DD52        | 2020 | Fem    | 3 grupos            | ✅ Melhor Programa |
+| Atom Boyz   | 2022 | Masc   | 7 grupos 34 pes     | ✅ Melhor Direção  |
+| Next Girlz  | 2023 | Fem    | Catalisando grupos  | ✅ Melhor Programa |
+| Atom Boyz 2 | 2024 | Masc   | 2 grupos + limitado | ✅ Melhor Programa |
 
-Segundo, o **apresentador é o líder coreano SUPER JUNIOR Si-hae**. Um ícone coreano de elite participou diretamente da produção de uma competição de ícones em Taiwan, assumindo o papel de apresentador fixo e envolvendo-se integralmente, muito além do simples aparecimento de um professor convidado. Os concorrentes receberam treinamento profissional na Coreia[^11]. Essa é a primeira vez que recursos coreanos de especialização são importados diretamente para uma competição de ícones em Taiwan, superando o nível de cópia de formatos.
+**Quatro programas, quatro Golden Bells.** Taiwan provou ser excelente em "fazer bons programas de competição". A pergunta real é: e depois do programa?
 
-A Equipe Cósmica ainda estava ao ar em abril de 2026[^11].
+Atom Boyz 2 conquistou o **Prêmio Golden Bell de Melhor Programa de Variedades na 60ª edição**[^10].
 
----
-
-## Uma Experiência Diferente: A Oito Anos de Luta de Sistemas Estrangeiros em Taiwan
-
-Em fevereiro de 2018, a filial de Taiwan de AKB48, TPE48, estreou oficialmente com 40 membros[^12].
-
-Quatro meses depois, a empresa produtora falhou, e os funcionários não recebiam salário por três meses. A AKS (empresa-mãe da AKB48) rescindiu o contrato de licenciamento, forçando o grupo a se renomear para AKB48 Team TP para continuar as atividades[^12].
-
-Esse é um caminho de ícones completamente diferente de DD52. DD52 é "nativo de Taiwan", começando com um programa de competição, usando o público local, professores locais e recursos nacionais para construir uma cadeia produtiva. TPE48 é "licenciamento estrangeiro", transplantando o modelo de peças teatrais do Japão, a cultura de autografias e a lógica operacional do sistema 48.
-
-> **⚠️ Ponto de Controvérsia**
-> A indústria de ícones de Taiwan deveria "construir sua própria casa" ou "transplantar o de outros países"? O ecossistema DD52 provou que Taiwan consegue criar um programa de competição premiado, mas os grupos debutantes não se sustentam. O ecossistema TPE48 provou que um modelo estrangeiro pode ser mantido por anos (renomeado para Team TP, depois TPE48 em 2026), mas nunca ultrapassou o nicho. Nenhum dos dois caminhos atingiu sucesso total, sugerindo que a resposta não está em uma escolha binária, mas em encontrar um terceiro caminho único para Taiwan.
-
-TPE48 anunciou em janeiro de 2026 o retorno ao nome original TPE48, recomeçando após oito anos de luta[^12]. A nomeada Ma Jia-ling (a primeira membro estrangeira oficial da AKB48) é uma figura simbólica significativa desse período histórico.
+> **💡 Sabia disso?**
+> Os quatro programas de competição de ídolos do sistema Chan Jen-hung (DD52, Atom Boyz, Next Girlz, Atom Boyz 2) ganharam quatro prêmios Golden Bell entre a 56ª e 60ª edição — em média, um prêmio por edição. Kick Pa Entertainment (joint venture entre Gameone e Chan Jen-hung) virou a máquina mais consistente de prêmios da categoria de ídolos na história do Golden Bell.
 
 ---
 
-## A Verdadeira Dificuldade dos Ícones de Taiwan
+## Novos Atores Fora do Sistema Chan Jen-hung
 
-Seis anos, cinco programas, mais de 50 ícones debutantes, mais de 10 grupos. Os números parecem animados, mas três problemas estruturais permanecem sem resolução.
+Em 7 de março de 2026, um programa de competição de ídolos nasceu fora do sistema Chan Jen-hung: "Cosmic Angels"[^11].
 
-**Primeiro, falta de plataformas de performance.**
+Produzido em co-produção entre WeTV e Titan Star Creative, com produtor B2 Chen Yan-ming. A partir de uma grande seleção de centenas de candidatas, foram escolhidas 30 meninas com meta de formar um grupo de nove membros[^11].
 
-A Coreia tem M Countdown, Music Bank, Inkigayo, Show! Music Center, quatro programas semanais que exigem que grupos de ícones apresentem músicas novas, acumulem exposição e concorram por posições[^7]. Taiwan não tem um programa contínuo equivalente. Após o debut, os ícones só aparecem em noticiários e shows próprios, com poucas oportunidades de palco fixo.
+Duas características tornam este programa digno de atenção.
 
-**Segundo, o tamanho das agências de gestão não suporta.**
+Primeira, **o ponto de entrada é a cultura de cheerleading**. As cheerleaders de beisebol de Taiwan se tornaram um fenômeno cultural independente após 2023. [Lee Da-hye](/pt/people/lee-da-hye), Byun Ha-yul, Nam Min-jung — esses nomes já acumulam influência nas redes sociais bem além do estádio de beisebol. Cosmic Angels enxerta essa energia no sistema de competição de ídolos, representando um enxerto cultural preciso[^11].
 
-As três maiores agências de gestão da Coreia (HYBE, SM, JYP) têm receitas anuais de centenas de bilhões a milhares de bilhões de won. As agências de ícones de Taiwan, como KickPal (parceria de Tsai Ing-wen), Wildfire ou AOA Entertainment Lab (HUR+), são muito menores. Felipe.Z investiu 50 milhões para gerenciar HUR+, mas admitiu que "o orçamento real necessário é de 300 a 400 milhões"[^4]. **Uma diferença de dez vezes.**
+Segunda, **o apresentador é Silver de SUPER JUNIOR**. Um ídolo de ponta da Coreia participando diretamente da produção de programa de competição de ídolos de Taiwan, como apresentador residente presente o tempo todo — vai muito além de aparições especiais de jurados. Os candidatos vão para a Coreia receber treinamento profissional[^11]. Esta é a primeira vez que Taiwan integra recursos profissionais coreanos diretamente ao seu sistema de competição, não apenas imitando o formato.
 
-**Terceiro, debutar é fácil demais.**
+Cosmic Angels seguia em exibição em abril de 2026[^11].
 
-DD52 deu três grupos, Átomo Jovem sete, Átomo Jovem 2 mais dois. Cada competição aumenta a oferta de ícones debutantes, mas a atenção do público não cresce proporcionalmente. Quando sete grupos masculinos compartilham o mesmo mercado, cada grupo recebe apenas uma sétima parte dos recursos e atenção disponíveis[^7].
+---
+
+## Outra Experiência: O Sistema Estrangeiro Lutando em Taiwan por Oito Anos
+
+Em fevereiro de 2018, TPE48, a divisão taiwanesa de AKB48, debutou oficialmente com um elenco de 40 membros[^12].
+
+Quatro meses depois, a companhia de gestão faliu, funcionários ficaram três meses sem salário. AKS (a empresa mãe japonesa de AKB48) rescindiu a licença, a banda foi forçada a mudar de nome para AKB48 Team TP e continuar operando[^12].
+
+Este é um caminho radicalmente diferente do sistema DD52. DD52 é "nativo", começando do programa de competição, usando público de Taiwan, instrutores de Taiwan, financiamento de Taiwan para construir uma cadeia produtiva local. TPE48 é "importado", transplantando o modelo de apresentação de teatro de AKB, a cultura de handshake, toda a lógica operacional do sistema AKB48 de 48-membros.
+
+> **⚠️ Perspectiva Controversa**
+> Taiwan deveria construir sua própria indústria de ídolos ou importar um sistema comprovado de fora? O sistema DD52 prova que Taiwan consegue fazer programas que ganham Golden Bells, mas os grupos debutados não vivem muito. O sistema TPE48 prova que um modelo importado pode funcionar por muitos anos (após renomear como TPE48, sobreviveu até 2026, retornando ao nome original), mas nunca rompeu o círculo de nichos. Nenhum dos dois caminhos realmente "venceu", talvez a resposta não seja "escolha um", mas "encontre o terceiro caminho de Taiwan".
+
+TPE48 anunciou em janeiro de 2026 que voltaria ao nome original TPE48, retomando após oito anos de luta[^12]. Jia-ling Ma (馬嘉伶), a primeira e única integrante estrangeira oficial de AKB48, é o nome mais simbolicamente significativo dessa história.
+
+---
+
+## O Verdadeiro Dilema da Indústria de Ídolos de Taiwan
+
+Seis anos, cinco programas, mais de 50 ídolos debutantes, dez ou mais grupos. Os números parecem efervescentes, mas há três problemas estruturais nunca resolvidos.
+
+**Primeiro, não existem palcos de performance.**
+
+A Coreia tem M Countdown, Music Bank, Inkigayo, Show! Music Center — pelo menos quatro programas toda semana deixando bandas de ídolos subirem ao palco para tocar novas músicas, acumular exposição, competir por posição[^7]. Taiwan não tem nada assim. Após debutar, além de aparições em programas de variedade e shows próprios, ídolos praticamente não têm estação fixa onde se exibir.
+
+**Segundo, as agências não têm escala suficiente.**
+
+Os três conglomerados coreanos de ídolos (HYBE, SM, JYP) têm receita anual na casa dos bilhões de won. As agências de ídolos de Taiwan — seja Kick Pa Entertainment do sistema DD52, Felipe.Z's AOA Entertainment Lab do HUR+, nenhuma chega nem perto. Felipe.Z mesmo revelou: "estimei três a quatrocentos milhões de novos dólares iniciantes, mas descobri que precisaria de três a quatrocentos milhões mesmo"[^4]. **Uma diferença de dez vezes**.
+
+**Terceiro, fazer debut ficou muito fácil.**
+
+DD52 produziu três grupos, Atom Boyz sete grupos, Atom Boyz 2 mais dois grupos mais grupo limitado. Cada competição bombeia mais oferta de debutantes no mercado, mas a atenção dos espectadores não cresce proporcionalmente. Quando sete bandas masculinas dividem um mesmo mercado, cada uma fica com apenas um sétimo dos recursos e atenção[^7].
 
 > **📝 Nota do Curador**
-> Há uma ironia: Taiwan é excelente em criar **programas de competição**, como comprovam os prêmios Golden Bell. Mas ainda está no início da **indústria de ícones**. Programas são eventos pontuais; indústria é contínuo. Taiwan domina o primeiro, ainda está aprendendo o segundo.
+> Há uma ironia reveladora: Taiwan é classe mundial em "fazer bons programas de competição de ídolos" — quatro Golden Bells o provam. Mas Taiwan é ainda muito iniciante em "operar uma indústria de ídolos sustentável". Programa é pontual; indústria é contínua. Taiwan domina a primeira, ainda está aprendendo a segunda.
 
 ---
 
-## As Pessoas que Sobreviveram
+## Aqueles que Sobreviveram
 
-Abaixo do discurso de "debut fácil, sobrevivência difícil", alguns casos estão saindo de caminhos diferentes.
+Mas dentro da narrativa de "debut é fácil, sobreviver é difícil", há indivíduos trilhando caminhos diferentes.
 
-O produtor Felipe.Z usou a estratégia de "não copiar grupos coreanos" para manter HUR+ ativo por seis anos, lançando três álbuns, arrecadando fundos para concertos na Coreia, com membros de diversos países (Mongólia, Reino Unido, Indonésia e Vietnã), e cada nova adição correspondia a um mercado-alvo específico[^4].
+Felipe.Z sustentou [HUR+](/pt/people/hur-plus-band) por seis anos com uma estratégia de "não parecer uma banda coreana" — três álbuns, campanha de crowdfunding para tocar na Coreia, membros cuja nacionalidade abrange Mongólia, Reino Unido, Indonésia e Vietnam; cada novo membro vem de um mercado-alvo diferente[^4].
 
-[Lin Hui-ying](/people/Lin Hui-ying) (coreografista de HUR+) saiu do grupo para seguir carreira solo, lançando o EP pessoal "EZ" em 2025 com uma mistura de hip-hop e R&B. Seus fãs organizaram um palco de aniversário em Xiangshan, e anúncios de apoio foram lançados simultaneamente em Taiwan, Japão e Tailândia[^13]. A cultura de fãs estilo K-pop está sendo localizada pelos fãs de ícones de Taiwan.
+[Erin](/pt/people/lien-ying) (principal dançarina de HUR+) saiu da banda e em 2025 lançou seu EP solo "EZ" em direção de hip-hop e R&B. Suas fãs arrecadaram fundos para montar um palco de aniversário em Daan District, com propaganda simultânea em Taiwan, Japão e Tailândia[^13]. A cultura de fã K-pop está sendo localizada e reinventada pela comunidade de fãs de ídolos de Taiwan.
 
-GenBlue (Dream Blue Bear) venceu Próximas Meninas e realmente foi para a Coreia debutar. Ozone tornou-se o primeiro grupo da nova geração masculina a se apresentar no Taipé 101. O álbum debut de F.F.O recebeu aprovação do mercado[^10].
+GenBlue (Azure Bear) conquistou Next Girlz em 2024 e realmente foi para a Coreia debutando. Ozone se tornou a primeira banda da nova geração a fazer show solo na Taipei Arena. F.F.O tornou o álbum de debut num sucesso de mercado[^10].
 
-Esses casos são limitados em escala, mas cada um é uma **prova de sobrevivência**. Em um mercado onde a média de duração de grupos de ícones é menos de três anos, sobreviver por mais um ano é uma vitória.
-
----
-
-## Taiwan Está Respondendo a Essa Pergunta
-
-Neste momento de 2026, a indústria de ícones de Taiwan tem três linhas em execução: competições de Tsai Ing-wen (Átomo Jovem continua gerando novos grupos), novas tentativas fora de Tsai Ing-wen (Equipe Cósmica) e grupos que sobreviveram à era DD52 criando seus próprios caminhos (HUR+ na Coreia, GenBlue debutando na Coreia).
-
-Taiwan não se tornará a "segunda Coreia" — o tamanho do mercado, a estrutura da indústria e o solo cultural não permitem. Mas Taiwan está respondendo a uma pergunta de maneira única: **na era dominante do K-pop em toda a Ásia, uma ilha de dois milhões e trezentos mil pessoas, como criar seus próprios ícones?**
-
-A resposta ainda não chegou. Mas as pessoas que ainda estão no palco: grupos que viveram mais que o campeão, indivíduos que saíram do grupo para seguir carreiras, fãs que arrecadaram fundos para palcos. Eles estão escrevendo respostas com cada apresentação, cada álbum e cada campanha de arrecadação.
+Esses casos individuais têm escala limitada, mas cada um é **prova de sobrevivência**. Num mercado onde a vida média de uma banda de ídolos é menor que três anos, cada ano extra é uma vitória.
 
 ---
 
-## Leituras Adicionais
+## Taiwan está Respondendo uma Pergunta Agora
 
-- [HUR+](/people/HUR-plus) — O único grupo da DD52 que ainda lança álbuns seis anos depois. "Não copiar grupos coreanos é a chave para não perder para eles"
-- [Lin Hui-ying](/people/Lin Hui-ying) — Coreografa de HUR+, caso de estudo de indivíduos saindo de grupos femininos em Taiwan
-- [Yang Cheng-lin](/people/Yang Cheng-lin) — Professora principal de DD52, sua história de 25 anos saindo do sistema de ícones para autonomia
-- [Tsai Ing-wen](/people/Tsai Ing-wen) — Ícone de Taiwan, "a rainha do pop", citada por [Lin Hui-ying](/people/Lin Hui-ying) como "minha deusa"
-- [Música Pop de Taiwan](/music/Taiwan-pop-music) — Como Taiwan ocupa o centro do mapa da música popular chinesa
-- [Cultura do Beisebol de Taiwan](/pt/culture/Taiwan-baseball-culture) — Matriz da cultura de "dance team", ponto de partida da Equipe Cósmica
+Em 2026, no momento presente, a indústria de ídolos de Taiwan está rodando três linhas simultaneamente: o sistema de competição Chan Jen-hung (Atom Boyz continua gerando novos grupos), o novo experimento fora de Chan Jen-hung (Cosmic Angels), e grupos do período DD52 abrindo seus próprios caminhos (HUR+ na Coreia, GenBlue em debut coreano).
+
+Taiwan não se tornará uma segunda Coreia — o tamanho de mercado não permite, a estrutura industrial não suporta, o solo cultural é diferente. Mas Taiwan está respondendo uma pergunta em seu próprio jeito: **Numa era onde K-pop domina toda a Ásia, uma ilha de 23 milhões de pessoas consegue cultivar seus próprios ídolos?**
+
+A resposta ainda não nasceu. Mas aqueles ainda em cena — bandas onde o segundo colocado viveu mais que o campeão, indivíduos deixando a banda para abrir caminho próprio, comunidades de fãs que arrecadam para construir seus próprios palcos. Estão escrevendo a resposta, centímetro por centímetro, show por show, álbum por álbum, campanha de crowdfunding por campanha.
+
+---
+
+## Leitura Complementar
+
+- [HUR+](/pt/people/hur-plus-band) — Segundo colocado de DD52, único grupo que sobreviveu seis anos. "Não parecer coreano é a única forma de não perder da Coreia"
+- [Erin](/pt/people/lien-ying) — Dançarina principal de HUR+, caso experimental de ídola de Taiwan tomando caminho solo
+- [Rainie Yang](/pt/people/rainie-yang) — Instrutora principal de DD52, ela mesma é um conto de 25 anos saindo do sistema de ídolos com agência própria
+- [Jolin Tsai](/pt/people/jolin-tsai) — Taiwan "rainha do talento", Erin chama publicamente de "meu deus"
+- [Música Pop Taiwanesa](/pt/music/golden-melodies-legacy-taiwan-pop-music) — Como Taiwan ocupou o centro do mapa de música popular em idioma chinês
+- [Cultura de Beisebol de Taiwan](/pt/culture/taiwan-baseball-culture) — A matriz da cultura de cheerleading, de onde Cosmic Angels tira sua base
 
 ## Referências
 
-[^1]: [S.H.E - Wikipedia](https://en.wikipedia.org/wiki/S.H.E) — Entrada da Wikipedia, registrando o debut de S.H.E em 2001, vendas de álbum, posição histórica como um dos grupos femininos mais bem-sucedidos da música popular chinesa.
+[^1]: [S.H.E - Wikipédia](https://zh.wikipedia.org/wiki/S.H.E) — Entrada da Wikipédia que registra o debut de S.H.E em 2001, vendas de álbum no recorde, e a posição histórica do grupo feminino em chinês.
 
-[^2]: [130 Milhões Investidos na Indústria de Ícones - Mirror Media](https://www.mirrormedia.mg/story/20200622insight001/) — Reportagem aprofundada da Mirror Media em 2020, revelando o orçamento de 130 milhões de DD52 (18 milhões em músicas originais, infraestrutura 2,5 vezes maior que Star Dream), e o vácuo de mercado após S.H.E por 19 anos sem um grupo feminino de grande sucesso.
+[^2]: [130 milhões de investimento em cadeia de ídolos - Mirror Media](https://www.mirrormedia.mg/story/20200622insight001/) — Reportagem investigativa de 2020 da Mirror Media revelando a alocação de 130 milhões de novos dólares de DD52 (1,8 milhões em canções originais, hardware 2,5x Star Road), e o vácuo de 19 anos sem grupos femininos de sucesso após S.H.E.
 
-[^3]: [Geração DD52 - Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%8F%B1%E6%A0%BC%E4%B8%96%E4%BB%A3) — Entrada da Wikipedia, lista completa de 104 concorrentes em quatro equipes, professores Yang Cheng-lin e Pan Wei-bo, pontuação da final Blaze Love 57,9 vs Hurricane 55,4, Prêmio Golden Bell de Melhor Programa na 56ª edição.
+[^3]: [Geração DD52 - Wikipédia](https://zh.wikipedia.org/zh-tw/%E8%8F%B1%E6%A0%BC%E4%B8%96%E4%BB%A3) — Entrada da Wikipédia cobrindo 104 candidatas em quatro grupos, instrutores principais Rainie Yang e Pan Wei-bo, final DD52 com Blaze Love 57,9 vs Hurricane 55,4, 56º Prêmio Golden Bell.
 
-[^4]: [Investimento de 50 Milhões em HUR - NOW News](https://www.nownews.com/news/6221950) — Reportagem da NOW News em 2023, citando Felipe.Z dizendo "quanto menos diferenciado, melhor", investimento de 50 milhões e a necessidade real de 300 a 400 milhões.
+[^4]: [Felipe.Z investe 50 milhões, descobre que precisa de 300-400 milhões - NOWnews](https://www.nownews.com/news/6221950) — Reportagem NOWnews de 2023 com declarações de Felipe.Z "quanto mais diferente, melhor", "estamos avançando a indústria", e a lacuna 50 milhões vs 300-400 milhões em investimento real.
 
-[^5]: [Análise de Engajamento DD52 - Medium](https://medium.com/choosebp/菱格世代dd52-hur-g-o-f-6dfa2489de1e) — Análise de engajamento nas redes sociais, G.O.F 517 publicações / Pink Fun 621 / HUR 604, campeão com o menor número, segundo colocado sobreviveu mais tempo.
+[^5]: [DD52 campeão seguiu em frente tão bem? - Medium](https://medium.com/choosebp/菱格世代dd52-hur-g-o-f-6dfa2489de1e) — Análise de engajamento em redes sociais: G.O.F 517 menções / PINK FUN 621 / HUR 604, campeão com menor volume, segundo colocado sobreviveu mais.
 
-[^6]: [Átomo Jovem - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%8E%9F%E5%AD%90%E5%B0%91%E5%B9%B4) — Entrada da Wikipedia, lista completa de 80 concorrentes em oito grupos, 7 grupos com 34 membros debutantes, U:NUS campeão / Ozone grupo de maior popularidade, Prêmio Golden Bell de Melhor Diretor na 58ª edição.
+[^6]: [Atom Boyz - Wikipédia](https://zh.wikipedia.org/zh-tw/%E5%8E%9F%E5%AD%90%E5%B0%91%E5%B9%B4) — Entrada de Wikipédia cobrindo 80 candidatos em 8 planetas, 34 pessoas em 7 grupos debutantes, U:NUS campeão / Ozone banda popular, 58º Prêmio Golden Bell.
 
-[^7]: [Análise de Sete Grupos - Key Opinion](https://www.thenewslens.com/) — Análise do Key Opinion sobre o declínio em furos da popularidade de sete grupos de Átomo Jovem após um ano, divisão do público limitado, falta de plataformas de performance, agências sem expansão internacional.
+[^7]: [Atom Boyz sete grupos declínio abrupto de popularidade - Key Opinion (Thenewslens)](https://www.thenewslens.com/) — Análise de Key Opinion sobre debut de Atom Boyz um ano depois: "declínio em camadas", sete grupos dividindo mercado limitado de espectadores, falta de palcos de performance, agências não expandindo exterior.
 
-[^8]: [Próximas Meninas - Wikipedia](https://zh.wikipedia.org/zh-hant/%E6%9C%AA%E4%BE%8B%E5%B0%91%E5%A5%B3) — Entrada da Wikipedia, sistema de confronto de seis grupos, Dream Blue Bear venceu nove rodadas, prêmio de 100 milhares de carros, GenBlue debutou na Coreia com a música "COCOCO" em 2024, Prêmio Golden Bell de Melhor Programa na 59ª edição.
+[^8]: [Next Girlz - Wikipédia](https://zh.wikipedia.org/zh-hant/%E6%9C%AA%E4%BE%86%E5%B0%91%E5%A5%B3) — Entrada de Wikipédia cobrindo competição entre 6 grupos, Azure Bear 9 rodadas 6 vitórias, GenBlue debut na Coreia com "COCOCO" em 2 de setembro de 2024, 59º Prêmio Golden Bell.
 
-[^9]: [Crítica à Performance de HUR+ - NOW News](https://www.nownews.com/news/6248884) — Reportagem da NOW News sobre a crítica dos jurados à performance de HUR+ como "agressiva demais", resposta de Felipe.Z: "Vivendo na era da pedra?"
+[^9]: [Scarlet Enchantment criticada por muito agressivo - NOWnews](https://www.nownews.com/news/6248884) — Reportagem NOWnews com resposta de Felipe.Z ao crítico: "Vivendo na Idade da Pedra?"
 
-[^10]: [Átomo Jovem 2 - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%8E%9F%E5%AD%90%E5%B0%91%E5%B9%B42) — Entrada da Wikipedia, 54 concorrentes em seis grupos, F.F.O e ARKis debutantes, Prêmio Golden Bell de Melhor Programa na 60ª edição, Tsai Ing-wen com quatro prêmios consecutivos.
+[^10]: [Atom Boyz 2 - Wikipédia](https://zh.wikipedia.org/zh-tw/%E5%8E%9F%E5%AD%90%E5%B0%91%E5%B9%B42) — Entrada de Wikipédia cobrindo 54 candidatos em 6 planetas, F.F.O / ARKis debut, 60º Prêmio Golden Bell, sistema Chan Jen-hung com 4 Bells consecutivos.
 
-[^11]: [Equipe Cósmica - Wikipedia](https://zh.wikipedia.org/wiki/%E5%AE%87%E5%AE%99%E5%95%A6%E5%95%A6%E9%9A%8A) — Entrada da Wikipedia, Si-hae (SUPER JUNIOR) como apresentador, 300 concorrentes selecionados de 800 inscritos, produção independente de Tsai Ing-wen, estreia em março de 2026.
+[^11]: [Cosmic Angels - Wikipédia](https://zh.wikipedia.org/wiki/%E5%AE%87%E5%AE%99%E5%95%A6%E5%95%A6%E9%9A%8A) — Entrada de Wikipédia com Silver apresentando, quase 800 candidatas selecionadas para 30, WeTV autoprodução saindo do sistema Chan Jen-hung, 2026-03 estreia.
 
-[^12]: [AKB48 Team TP - Wikipedia](https://en.wikipedia.org/wiki/AKB48_Team_TP) — Entrada da Wikipedia em inglês, debut em fevereiro de 2018, crise financeira, rescisão do contrato de licenciamento, renomeação para Team TP, retorno ao nome original TPE48 em 2026, Ma Jia-ling (primeira membro estrangeira oficial da AKB48).
+[^12]: [AKB48 Team TP - Wikipedia em inglês](https://en.wikipedia.org/wiki/AKB48_Team_TP) — Entrada de Wikipedia em inglês cobrindo 2018 debut, crise financeira, AKS rescindiu licença, mudança de nome para Team TP, 2026 retorno a TPE48, oito anos de trajetória.
 
-[^13]: [Campanha de Apoio CheerSPOT - Threads](https://www.threads.com/@cheerspottw/post/DRwI5LGEi_Z) — Post da campanha de apoio CheerSPOT em 2025, registrando o lançamento do EP de Lin Hui-ying "EZ" com anúncios de apoio simultâneos em Taiwan, Japão e Tailândia, 500 unidades limitadas.
+[^13]: [CheerSPOT Campanha Taiwan-Japão-Tailândia - Threads](https://www.threads.com/@cheerspottw/post/DRwI5LGEi_Z) — Post Threads de 2025 de CheerSPOT registrando campanha de crowdfunding de aniversário de Erin EP "EZ" com propaganda simultânea Taiwan, Japão, Tailândia, limite 500 sets.
