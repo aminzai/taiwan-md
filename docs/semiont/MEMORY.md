@@ -336,3 +336,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-29 | 055718-twmd-embeddings-nightly | 13 語 14,469 向量 0 fail，verify PASS，`41cf6fcff`；373 篇換鄰居（vi 202）；pipeline Stage 3 改路徑式 commit（v1.4） | 傳兩班的交接其實當班動得了，就直接改 | [→](memory/2026-09-29-055718-twmd-embeddings-nightly.md) |
 | 2026-09-29 | 060812-twmd-data-refresh-am | 14 步全綠零過期；404 unknown 56% 但榜首是用語庫沒有的「變壓器」（讀者 18 次），探路名條件不成立，交 10-05 用語月報 | 同一格 unknown 混著讀者需求與掃描噪音；路徑清單寫檔再展開，不靠 shell 陣列 | [→](memory/2026-09-29-060812-twmd-data-refresh-am.md) |
 | 2026-09-29 | 064213-twmd-spore-harvest-am | 合法空收割第三班：回覆分頁無新列，動態頁只有李洋讚（1.4 萬未達門檻）與轉發、黑冠麻鷺一讚一轉、報導者一讚 | 長尾靠少數故事型孢子；殼的正本在 ROUTINE.md，改機器鏡像會被對齊回去 | [→](memory/2026-09-29-064213-twmd-spore-harvest-am.md) |
+| 2026-09-29 | 071521-twmd-feedback-triage | 零回報第八輪照跑 `--commit`，對賬 87/87 與 86/87（#1252 上游刪留言 git 留著）；archive 算到達間隔偏大 15.94 天，全庫 90 筆才是 12.65 | 換取數形狀重驗極值時，換掉的可能是母體不是窗大小 | [→](memory/2026-09-29-071521-twmd-feedback-triage.md) |
