@@ -332,6 +332,18 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-29 twmd-feedback-triage — requery-with-a-new-shape-can-swap-the-population-not-just-the-window：換取數形狀重驗極值時，換掉的可能是母體而不是窗大小
+
+- **pattern**: requery-with-a-new-shape-can-swap-the-population-not-just-the-window
+- **原則**：REFLEXES #24 形式 4 極值變體開的處方是「重驗要換取數形狀」。換形狀確實會躲開窗口截斷，但新形狀常常連**母體**一起換掉，而母體變動不會出聲。窗口偏差的方向固定偏小（讀起來保守），母體偏差的方向由「少了哪一群」決定，可能偏大、看起來像是終於找到了被前一次漏掉的極值——**跟處方生效的樣子逐字相同**。問「歷史上最 X」除了寫明窗大小，還要寫明母體的謂詞（在算誰的最 X）。
+- **觸發**：2026-09-29 07:00 twmd-feedback-triage 第八輪零回報。要把「目前 9.05 天未收口間隔算不算異常」對回歷史，照 #24 形式 4 的處方換取數形狀——從 Supabase REST 查詢換成掃 `docs/feedback/archive/*/*.md` 的 87 份主權層紀錄（本地、確定性、不依賴外部服務，看起來是更好的尺）。archive 算出歷史最長間隔 **15.94 天**（2026-07-04 → 07-20），比 09-15 全庫校正出來的 12.65 天更大，讀起來像又一次「窗外還有更大的」。改查全庫所有 status 才看清：全庫 **90 筆 = 87 filed + 3 rejected**，其中一筆 rejected 落在 2026-07-11，把那個窗切成 7.04 + 8.90 天；全 status 的真實最長間隔就是 **12.65 天**，09-15 那個數字一直是對的。差別是 archive 只收 `filed`（Stage 4 的 reject 分支不寫檔，canonical 如此設計），所以 **archive 量得出「勘誤之間的間隔」，量不出「讀者到達之間的間隔」**——spam 也是一次到達，只是沒在 git 留下痕跡。方向固定偏大，長相是「讀者比實際更安靜」。差一步就把 15.94 當成新的歷史上限寫進 memory，蓋掉 REFLEXES #24 那行正確的 12.65。
+- **instances**：
+  - 2026-09-29 twmd-feedback-triage 第八輪零回報，archive(filed-only) 15.94 天 vs 全庫(all-status) 12.65 天 → memory/2026-09-29-071500-twmd-feedback-triage.md
+- **修補候選**：(a) `docs/feedback/README.md` 與 archive 紀錄的用途說明寫明「本層對 filed 完整，對『到達』不完整（rejected 不落檔）」，讓下一個拿它算節奏的人在算之前看到；(b) 到達節奏這個問題如果要常問，入口放 `triage.mjs`（它本來就握著全 status 的讀取權）而不是 archive，`formatIntakeAge()` 旁邊加一支全庫間隔分佈；(c) 主權層要不要連 rejected 一起留（那是「spam 也是讀者行為紀錄」的策展判斷，且會讓 archive 存 spam 文字）→ 屬 §自主權邊界，留哲宇。
+- **可能層級**：通用反射（REFLEXES #24 形式 4 的新維度：處方本身帶副作用）；也可能只是操作規則（FEEDBACK-TRIAGE §archive 範圍註記）
+- **相關**：**REFLEXES #24 形式 4 極值變體**（源 LESSONS `windowed-query-underreports-the-extremum-it-is-asked-for`，2026-09-15 同一條 routine）——那條管「窗太小」，本條管「換窗的動作把母體也換了」，兩者的處方互相抵銷：照它做就會踩到這個；#82 proxy signal（archive 份數是「到達數」的替身）；#83 兩把尺 divergence（差異在這裡兩把尺都沒壞，分裂來自母體謂詞不同，所以沒有任何閘門會響）；#99 尺先驗再用
+- **verification_count**: 1
+
 ### 2026-09-29 twmd-babel-nightly — broken-link-graded-as-warning-in-passing-gate：通過的閘門把讀者會點到 404 的連結算成警告
 
 - **pattern**: broken-link-graded-as-warning-in-passing-gate

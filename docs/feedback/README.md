@@ -19,6 +19,21 @@ frontmatter：`feedback_id / created_at / contributor / type / status / page_kin
 article_slug / lang / source_url / issue_url / issue_number`
 body：回報內容、選取的原文（quote）、正確資訊+來源、系統初判（triage_note）、`## 溝通紀錄`（issue 留言）。
 
+## 這層的範圍：對 `filed` 完整，對「到達」不完整
+
+**拿這批檔案算讀者到達節奏會得到偏大的間隔。** Stage 4 的 reject 分支只回寫 Supabase
+`status='rejected'`、**不寫 archive**（設計如此，不讓 spam 文字進 git），所以被判 spam 的那些
+回報是真的到達過、卻沒在 git 留下痕跡。用 archive 算「上一筆到下一筆隔幾天」，等於在算
+**勘誤之間的間隔**，不是**讀者到達之間的間隔**，而缺的那幾筆只會讓間隔看起來更長——長相是
+「讀者比實際更安靜」，方向固定，且沒有任何閘門會響。
+
+實例（2026-09-29）：archive 87 筆算出歷史最長間隔 15.94 天（07-04 → 07-20），全庫 90 筆
+（87 filed + 3 rejected）算出來是 12.65 天——一筆 rejected 落在 07-11 把那個窗切成兩半。
+
+**要問到達節奏就去問 Supabase 全 status**（`triage.mjs` 本來就握著那個讀取權，
+`formatIntakeAge()` 也是這樣取的），不要從這層推。詳見
+[LESSONS-INBOX `requery-with-a-new-shape-can-swap-the-population-not-just-the-window`](../semiont/LESSONS-INBOX.md)。
+
 ## PII 鐵律
 
 - **只存 `contributor`（display_name = 暱稱/回退名，已公開在 issue 的）。永遠不存 email。**
