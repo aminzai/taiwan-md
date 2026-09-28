@@ -330,3 +330,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-28 | 061044-twmd-data-refresh-am | 14 步全綠零過期，狀態板寬限第一次生效；404 unknown 連兩夜過半、榜首 /rclone.conf，五個探路名收進掃描器 | ms/page 146→104 是分母長大不是變快；zsh 不拆未加引號的變數 | [→](memory/2026-09-28-061044-twmd-data-refresh-am.md) |
 | 2026-09-28 | 064320-twmd-spore-harvest-am | 窗口內無現役孢子，兩個動態頁掃完為合法空收割：#29 聚合仍 1.4 萬未達重抓門檻，李洋、張懸各一則純轉發不必回 | 窗口空了，這條 routine 是替舊孢子守長尾；殼的路徑與 add -u 連兩班照現況繞開 | [→](memory/2026-09-28-064320-twmd-spore-harvest-am.md) |
 | 2026-09-28 | 071520-twmd-feedback-triage | 零回報第七輪照跑 `--commit`，兩道對賬 87/87 與 86/87 全綠；#1609 那則 32 天後的維護者回覆進了主權層紀錄 | 零輸入那輪的產出在保管層不在轉錄層——不跑 `--commit` 這則就不會進 git | [→](memory/2026-09-28-071520-twmd-feedback-triage.md) |
+| 2026-09-28 | 090624-twmd-maintainer-am | 空場第二輪：worktree 回收器差點刪掉在跑的 babel worktree，補第四道「最近還在寫」；404 榜單改保障每族前 50，重導才看得到 slug-variant 漏掉的 94% | 乾淨對持續 commit 的 session 是常態不是收工證據；席位做不到跟沒人動手在交接上同形 | [→](memory/2026-09-28-090624-twmd-maintainer-am.md) |

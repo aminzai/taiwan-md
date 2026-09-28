@@ -332,6 +332,32 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-28 twmd-maintainer-am — clean-means-both-finished-and-mid-flight：回收器的「乾淨」同時是收工的證據與工作中的常態
+
+- **pattern**: clean-means-both-finished-and-mid-flight
+- **原則**：一個以「有沒有還沒存起來的東西」為判準的回收器，對會一輪一輪 commit 加 push 的使用者是盲的——那種 session 在每兩輪之間的狀態跟它收工後的狀態逐字相同，而兩者的正確處置相反（留下 vs 刪掉）。判準問的是「有沒有東西會丟」，要答的問題是「現在有沒有人在用」，中間沒有任何一道在問後者。
+- **觸發**：2026-09-28 maintainer-am 空場輪，照交接跑 `worktree-gc.sh`。三道閘門（locked / 未 commit / 未推送）全綠，把 `20260926-babel-delegation` 判成可刪，而那裡面的 dispatcher 還活著（`babel-push-every.py --watch` 已跑 1 天 22 小時）、當天寫過 `.lang-sync-tasks/` 與 `reports/`；`--apply` 會把目錄從一個正在跑的 dispatcher 腳下抽走。最直接的證據是同一支工具在相隔數分鐘的兩次執行之間，那個 worktree 從「0 個未 commit 變更」變成「16 個」——先前那個乾淨讀數只是兩輪之間的一張快照。已修 `851d99e8b`：補第四道（工作樹或該 worktree 自己的 git index 在 N 小時內被動過就留，預設 6 小時），三態驗過。
+- **這條的特別之處**：同一把尺的第二次反向失誤。2026-08-09 它因為 node_modules 符號連結而永遠不開火（積了 10 個滯留 worktree、最老兩個多月），鬆綁之後變成對 live worktree 也開火。**鬆綁一把過嚴的尺時，要問的不是「現在會不會開火」，是「它現在會不會對不該開火的對象開火」**——兩次修補都只驗了前者。
+- **instances**：
+  - 2026-09-28 twmd-maintainer-am：babel live worktree 被判可刪 → `851d99e8b`
+  - 2026-08-09（歷史對照，反向）：同工具因鷹架符號連結永不開火 → 當時的鬆綁修補
+- **可能層級**：REFLEXES #38 子規則（混維度：一個狀態值承載兩種處置相反的真相，本例載體是「乾淨」這個判定本身）＋ #82（存在代理有效：乾淨代理收工）。另有獨立面向值得單列：**放寬一道過嚴閘門時的反向假陽性沒有人驗**
+- **相關**：REFLEXES #38、#82、#35（跨 session work 期間禁 destructive ops——本例是那條反射的工具化缺口）、#99（尺先驗再用：本次三態驗過才採用讀數）
+- **verification_count**: 1
+
+### 2026-09-28 twmd-maintainer-am — suppressed-warning-recurs-because-its-fix-needs-a-window-no-routine-has：每天照印的維護警告，修法需要一個所有 routine 都不在的空檔，於是沒有一班修得動
+
+- **pattern**: suppressed-warning-recurs-because-its-fix-needs-a-window-no-routine-has
+- **原則**：一個警告每天照印、每一班都讀到、每一班都往交接寫一行，不代表它難修——可能是它的修法需要一個「沒有人在寫」的窗口，而所有讀到它的 routine 都跟寫入者同時在跑。這種項目在交接層看起來跟「還沒有人動手」一模一樣，但前者再傳一百輪也不會被做掉。
+- **觸發**：`.git/gc.log` 的 unreachable loose objects 警告在 09-27 兩班的交接裡各記一次（「第二班觀察到」），本班 `git fetch` 與 `git commit` 各再印一次，第三、四次觀察。**前三次都只記「警告還在印」，這班第一次去量**：`.git` 1.3 GB、12,903 個 loose object 共 284 MiB，其中 4,344 個是 09-27 之後生的（約每天三千個）；`gc.*` 全是預設值，所以 `pruneExpire=2.weeks.ago`、`logExpiry=1.day`、`auto=6700`。機制因此是自限的而非永久封鎖：loose 數破 6700 觸發 auto-gc → 想 prune 但物件還不到兩週 → 警告 → 自我抑制一天 → 重來。**真正的修法 `git prune` 在另一個 process 正在寫物件時不安全**（babel dispatcher 本班全程在跑），所以這不是任何一班「忘了做」，是 maintainer-am 這個席位在結構上做不到。
+- **未解**：要不要把 prune 排進 babel 收工的窗口、或改 `gc.pruneExpire`（影響安全邊界的 config 決定），需要一個能動排程或確定沒有寫入者的席位。本班不改 config、不跑 prune。
+- **instances**：
+  - 2026-09-27 兩班交接各記一次（只記警告存在）
+  - 2026-09-28 twmd-maintainer-am 第一次量出數字與根因
+- **可能層級**：REFLEXES #97 子規則（交接面完整性：手上有事實不等於送進動得了它的那一層——本例是「送對了人，那個人結構上做不到」的變體）
+- **相關**：REFLEXES #97、#82（警告存在代理問題未處理）、#15（反覆浮現要儀器化）；MEMORY §神經迴路「那個警告一直是對的，錯的是它自己的說明文字」同族
+- **verification_count**: 1
+
 ### 2026-09-28 twmd-babel-nightly — link-resolved-at-write-time-freezes-when-target-is-born-later：連結在寫入當下查表改寫，目標後來才出生的就永遠停在舊網址
 
 - **pattern**: link-resolved-at-write-time-freezes-when-target-is-born-later
