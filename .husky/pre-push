@@ -150,9 +150,18 @@ fi
 if [ "${TWMD_SKIP_PREPUSH_WAIT:-0}" = "1" ]; then
   echo "🧬 pre-push: TWMD_SKIP_PREPUSH_WAIT=1，跳過 in-flight CI 等待"
 elif command -v gh >/dev/null 2>&1; then
-  THRESH=245                              # success≈350s 的 70%（校準 2026-06-14, REFLEXES #66）
-  WAIT_WINDOW=900                         # 舊等待窗口上限；超過不等於卡死，完整建置可能更久
   MAXWAIT="${TWMD_PREPUSH_MAXWAIT:-120}"  # 等待上限，避免無限卡 routine
+  # 「近完成」跟著實測的典型時長走，不寫死（REFLEXES #66 的校準原則，這裡把它做成每次重量）。
+  # 2026-06-14 校準時一次 deploy 約 350s，寫死 THRESH=245、WAIT_WINDOW=900；2026-09-28 量到
+  # 近五次成功中位 2,348s（Build 一步就 34 分鐘），於是第 4–15 分鐘的每次 push 白等 120 秒、
+  # 最後照樣取消它，真正快跑完的第 37–40 分鐘反而直接取消。現在只在「剩下的時間 ≤ MAXWAIT」
+  # 時才等；等不到的就直接 push。latest-wins 取消策略（哲宇選的）不變。
+  TYPICAL="$(gh api "repos/{owner}/{repo}/actions/workflows/deploy.yml/runs?status=success&per_page=5" \
+    --jq '[.workflow_runs[] | ((.updated_at|fromdate) - (.run_started_at|fromdate))] | sort | .[(length/2|floor)] | floor' 2>/dev/null)"
+  case "$TYPICAL" in ''|*[!0-9]*) TYPICAL=350 ;; esac   # 查不到就用 06-14 的舊基準
+  THRESH=$(( TYPICAL - MAXWAIT ))                     # 從這一刻起，等 MAXWAIT 有機會等到它完成
+  [ "$THRESH" -lt 0 ] && THRESH=0
+  WAIT_WINDOW=$(( TYPICAL + 600 ))                    # 超過典型時長十分鐘還沒完，不再當它快好了
   WAITED=0
   while :; do
     started="$(gh run list --workflow=deploy.yml --status=in_progress --json startedAt -q '.[0].startedAt' 2>/dev/null)"
@@ -164,7 +173,7 @@ elif command -v gh >/dev/null 2>&1; then
     start_epoch="$(date -j -u -f "%Y-%m-%dT%H:%M:%SZ" "$started" +%s 2>/dev/null || echo 0)"
     elapsed=$(( $(date -u +%s) - start_epoch ))
     if [ "$start_epoch" -eq 0 ] || [ "$elapsed" -lt "$THRESH" ]; then
-      echo "🧬 pre-push: in-flight deploy 還早（${elapsed}s<${THRESH}s）— 直接 push，cancel-in-progress 接手 latest-wins"
+      echo "🧬 pre-push: in-flight deploy 還早（${elapsed}s，典型 ${TYPICAL}s，等 ${MAXWAIT}s 也等不到）— 直接 push，cancel-in-progress 接手 latest-wins"
       break
     fi
     if [ "$elapsed" -gt "$WAIT_WINDOW" ]; then
