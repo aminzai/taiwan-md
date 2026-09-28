@@ -32,7 +32,7 @@ sourceBodyHash: 'sha256:1790c4ef1b7a9b20'
 translatedAt: '2026-07-28T03:07:44+08:00'
 ---
 
-> **Resumo em 30 segundos:** A 2 e 8 de Fevereiro de 2023, os dois cabos submarinos que ligam o condado de Lienchiang (Matsu) à ilha principal de Taiwan romperam-se num intervalo de seis dias[^1]. A Chunghwa Telecom levou **cerca de 50 dias** a reparar um deles; o segundo, o cabo Tainan-Matsu n.º 2, exigiu **4 meses e 23 dias** no total — «acima do tempo médio internacional de reparação de cabos submarinos», porque houve «interferência de navios da guarda costeira chinesa», segundo o vice-ministro do Desenvolvimento Digital, Chueh Ho-ming[^2]. **99 %** do tráfego internacional de internet de Taiwan depende de cabos submarinos; os **14 cabos internacionais** actualmente em operação[^3] concentram-se todos em **quatro estações de aterragem** na ilha principal: Tamsui, Bali, Toucheng e Fangshan[^4]. Em 2024, a Chunghwa Telecom activou discretamente uma quinta estação em Dawu, Taitung; os moradores só a conhecem pelo número de porta «**Edifício 506**» — fontes revelaram que serve de «rede de segurança para comunicações externas em caso de conflito entre os dois lados do estreito»[^5]. As salas limpas da TSMC são o rosto heróico do escudo de silício no topo; a 1 300 metros de profundidade, estas 14 linhas são a veia mestra invisível lá em baixo: podem, sem disparar um tiro, arrancar 23 milhões de pessoas do mundo.
+> **Resumo em 30 segundos:** A 2 e 8 de Fevereiro de 2023, os dois cabos submarinos que ligam o condado de Lienchiang (Matsu) à ilha principal de Taiwan romperam-se num intervalo de seis dias[^1]. A Chunghwa Telecom levou **cerca de 50 dias** a reparar um deles; o segundo, o cabo Taiwan-Matsu n.º 2, exigiu **4 meses e 23 dias** no total — «acima do tempo médio internacional de reparação de cabos submarinos», porque houve «interferência de navios da guarda costeira chinesa», segundo o vice-ministro do Desenvolvimento Digital, Chueh Ho-ming[^2]. **99 %** do tráfego internacional de internet de Taiwan depende de cabos submarinos; os **14 cabos internacionais** actualmente em operação[^3] concentram-se todos em **quatro estações de aterragem** na ilha principal: Tamsui, Bali, Toucheng e Fangshan[^4]. Em 2024, a Chunghwa Telecom activou discretamente uma quinta estação em Dawu, Taitung; os moradores só a conhecem pelo número de porta «**Edifício 506**» — fontes revelaram que serve de «rede de segurança para comunicações externas em caso de conflito entre os dois lados do estreito»[^5]. As salas limpas da TSMC são o rosto heróico do escudo de silício no topo; a 1 300 metros de profundidade, estas 14 linhas são a veia mestra invisível lá em baixo: podem, sem disparar um tiro, arrancar 23 milhões de pessoas do mundo.
 
 ## O «Edifício 506» não tem placas
 
@@ -57,7 +57,7 @@ Os **14 cabos internacionais** actuais de Taiwan: APG, NCP, FASTER, TPE, EAC-C2C
 
 | Meio de comunicação  | Ordem de grandeza | Exemplo de Matsu                                      |
 | -------------------- | ----------------- | ----------------------------------------------------- |
-| Cabo submarino       | Tbps (terabits/s) | Tainan-Matsu n.º 2: 560 Gbps + n.º 3: 550 Gbps        |
+| Cabo submarino       | Tbps (terabits/s) | Taiwan-Matsu n.º 2: 560 Gbps + n.º 3: 550 Gbps        |
 | Micro-ondas (backup) | Gbps (gigabits/s) | Matsu: 2,2 Gbps originais → expandidos para 12,6 Gbps |
 | Satélite LEO         | Mbps (megabits/s) | OneWeb: download 90–100 Mbps                          |
 
@@ -67,7 +67,7 @@ O director do Departamento de Construção de Resiliência do Ministério do Des
 
 ## O LINE dos matsuenses demora 15 minutos
 
-A 2 de Fevereiro de 2023, o cabo Tainan-Matsu n.º 2 terá sido arrancado por um navio de pesca chinês[^14].
+A 2 de Fevereiro de 2023, o cabo Taiwan-Matsu n.º 2 terá sido arrancado por um navio de pesca chinês[^14].
 
 A 8 de Fevereiro de 2023, o cabo n.º 3 terá sido cortado pela âncora de um navio de carga chinês. **Em seis dias, as duas principais artérias submarinas de Matsu partiram-se.**
 
@@ -75,11 +75,11 @@ Nos últimos cinco anos, Matsu acumulou **pelo menos 27 rupturas**[^15]: já era
 
 O presidente da secção de Lienchiang do DPP, Lee Wen, disse à PTS: «**uma única mensagem de texto no LINE demora 15 a 20 minutos a sair.**»[^17] Não é retórica, é facto físico. Durante os 50 dias em que a internet de Matsu foi reduzida ao mínimo, turistas da época das «lágrimas azuis» viram sistemas de pagamento falhar, teleconsultas hospitalares caírem, alunos sem aulas online, idosos com cartões de saúde electrónicos ilegíveis.
 
-A Chunghwa Telecom mobilizou antenas de micro-ondas de estações de backup em Nantou e Pingtung, elevando a capacidade para 3,8 Gbps (aumento de 76 %). A 6 de Março reabriu a banda larga fixa. **A 31 de Março, o primeiro cabo — Tainan-Matsu n.º 3 — ficou reparado**[^18], após **cerca de 50 dias**[^19].
+A Chunghwa Telecom mobilizou antenas de micro-ondas de estações de backup em Nantou e Pingtung, elevando a capacidade para 3,8 Gbps (aumento de 76 %). A 6 de Março reabriu a banda larga fixa. **A 31 de Março, o primeiro cabo — Taiwan-Matsu n.º 3 — ficou reparado**[^18], após **cerca de 50 dias**[^19].
 
 Mas a história não acaba aqui.
 
-Chueh Ho-ming disse depois ao _The Reporter_: «**O cabo Tainan-Matsu n.º 2 levou 4 meses e 23 dias a reparar, acima da média internacional; uma das razões foi a "interferência de navios da guarda costeira chinesa".**»[^2]
+Chueh Ho-ming disse depois ao _The Reporter_: «**O cabo Taiwan-Matsu n.º 2 levou 4 meses e 23 dias a reparar, acima da média internacional; uma das razões foi a "interferência de navios da guarda costeira chinesa".**»[^2]
 
 > **⚠️ De 50 dias a 4 meses e 23 dias**
 > A imprensa geral retém «Matsu 50 dias sem internet». Esse é o tempo do **primeiro cabo**; choca, mas não conta tudo. **4 meses e 23 dias** é o tempo real até **ambos** estarem operacionais — quase a soma dos dois calendários, desde a rutura de 8 de Fevereiro até ao final de Junho para regressar à largura de banda normal. Reparar um cabo não é «mandar um navio dar nós»; exige sonar para localizar, operações no leito marinho, içar as duas pontas de centenas de metros de profundidade, emendar nova fibra, fusão de isolamento, voltar a assentar — e, enquanto o navio trabalha na zona do acidente, **ainda pode topar com navios da guarda costeira chinesa a "interferir"**.
@@ -146,7 +146,7 @@ Quanto tempo para reparar um cabo partido?
 
 **Incidente TPE de Janeiro de 2025**: o _Ocean Link_ da japonesa KDDI chegou a 13 de Janeiro, reparou a 20 de Janeiro, **7 dias**[^37].
 
-**Cabo Tainan-Matsu n.º 2 de 2023**: **4 meses e 23 dias**.
+**Cabo Taiwan-Matsu n.º 2 de 2023**: **4 meses e 23 dias**.
 
 Onde está a diferença? Cabos internacionais têm prioridade sobre cabos domésticos (estrutura accionista e frota alinhadas), mais o facto de, em 2023, a reparação do n.º 2 ainda ter topado com «interferência» da guarda costeira chinesa.
 
@@ -185,7 +185,7 @@ Mas Taiwan fez coisas nestes 24 meses.
 
 No caso Hong Tai 58, o capitão chinês Wang Yu-liang foi condenado em Junho de 2025 a 3 anos + NT$ 18,22 milhões; segunda instância manteve 3 anos — **«primeiro precedente de jurisdição de novas águas interiores»** — Taiwan ganhou, pela primeira vez, um registo judicial claro na fronteira «zona cinzenta vs. lei»[^48].
 
-A Controladoria aprovou em 2025 relatório de inquérito (investigadoras Yeh Yi-chin e Lai Ting-ming) que saúda a Lei dos Sete Cabos mas pede aperfeiçoamento[^49]. A Chunghwa Telecom lançou em 2025 novos cabos Tainan-Penghu-Kinmen e Tainan-Matsu n.º 4 (200 Gbps, conclusão Junho de 2026). Micro-ondas expandidos para 12,6 Gbps, terminais OneWeb instalados.
+A Controladoria aprovou em 2025 relatório de inquérito (investigadoras Yeh Yi-chin e Lai Ting-ming) que saúda a Lei dos Sete Cabos mas pede aperfeiçoamento[^49]. A Chunghwa Telecom lançou em 2025 novos cabos Tainan-Penghu-Kinmen e Taiwan-Matsu n.º 4 (200 Gbps, conclusão Junho de 2026). Micro-ondas expandidos para 12,6 Gbps, terminais OneWeb instalados.
 
 Mas nenhuma obra altera um facto físico: **só existem 60 navios caboeiros no mundo, Taiwan só pode mobilizar 6, reparar uma rutura leva em média 7 a 30 dias, mau tempo ou «interferência» arrasta para 4 meses e 23 dias**. A veia mestra das comunicações externas de 23 milhões de taiwaneses pendura-se naquelas 14 fibras de vidro grossas como cabelo, enterradas a 1,5 metro no leito marinho.
 
@@ -204,7 +204,7 @@ Por isso o Edifício 506 não tem placa.
 
 [^1]: [The Reporter — Crise de cabos submarinos rompidos ameaça linha de vida digital de Taiwan](https://www.twreporter.org/a/damaged-undersea-cables-raises-alarm-in-taiwan) — The Reporter acompanha o evento duplo de 2023 em Matsu, calendário de reparação, explosão subsequente de 2025, reportagem profunda completa.
 
-[^2]: [The Reporter — Chueh Ho-ming sobre calendário do Tainan-Matsu n.º 2](https://www.twreporter.org/a/damaged-undersea-cables-raises-alarm-in-taiwan) — Fonte da frase original do vice-ministro Chueh Ho-ming: «4 meses e 23 dias», «interferência de navios da guarda costeira chinesa».
+[^2]: [The Reporter — Chueh Ho-ming sobre calendário do Taiwan-Matsu n.º 2](https://www.twreporter.org/a/damaged-undersea-cables-raises-alarm-in-taiwan) — Fonte da frase original do vice-ministro Chueh Ho-ming: «4 meses e 23 dias», «interferência de navios da guarda costeira chinesa».
 
 [^3]: [Global Taiwan Institute — Relatório Junho 2025](https://globaltaiwan.org/2025/06/taiwans-digital-vulnerabilities/) — Dado oficial de think tank: 99 % da transmissão internacional de dados de Taiwan via cabos submarinos.
 

@@ -101,7 +101,7 @@ Con số nước ngoài, là bảng điểm hủy hoại nhất của bộ cơ c
 Nước ngoài: Thái Anh Văn mất một nửa trong nhiệm kỳ
 2016 | 2024
 *Số nước ngoài | 22 | 12
-Nguồn: Đài Trung tin tức, Bộ Ngoại giao, CNN, 2024
+Nguồn: Thông tấn xã Trung ương, Bộ Ngoại giao, CNN, 2024
 ```
 
 Cái chém cuối cùng đến với vẻ ngoài đặc biệt khỉnh thường: ngày 15 tháng 1 năm 2024, chỉ hai ngày sau khi Đài Loan kết thúc bỏ phiếu bầu cử tổng thống, Nauru tuyên bố cắt ngoại giao với Đài Loan, nhuộm nhập Bắc Kinh[^20]. Bên kia sử dụng thời gian cắt ngoại giao để trả lời kết quả bỏ phiếu của Đài Loan.
