@@ -84,6 +84,12 @@ ENTITIES = [
     ("蔡依林", r"蔡依林|Jolin",
      {**{l: r"\bJolin Tsai\b" for l in LATIN}, "ja": r"ジョリン・ツァイ|蔡依林", "ko": r"차이이린",
       "ru": r"Джолин Цай|Цай Илинь", "vi": r"Thái Y Lâm|Jolin Tsai"}),
+    # 語言頂替（第三十八輪）：華語、台語被寫成「粵語」。全庫 5 篇全是真錯——金曲獎「最佳華語男歌手」在 ru
+    # 成了「最佳粵語歌手」（金曲沒有粵語獎項）、vi 把台語的 sip-pat-á 標成廣東話、fr 把古早味飯擔寫成廣東飯
+    ("粵語", r"粵|廣東|廣州|香港|港式|Canton",
+     {"en": r"\bCantonese\b", "es": r"\b[Cc]antonés\b", "fr": r"\bcantonais\b", "de": r"Kantonesisch",
+      "pt": r"\b[Cc]antonês\b", "id": r"\bKanton(?:is)?\b", "vi": r"tiếng Quảng Đông|Quảng Đông ngữ", "ja": r"広東語",
+      "ko": r"광둥어", "ru": r"кантонск", "hi": r"कैंटोनी", "ar": r"الكانتونية"}),
     # 首都頂替：譯文語言所在國的首都，zh 連那個國家都沒提到
     ("河內", r"河內|河内|越南", {"vi": r"Hà Nội"}),
     ("胡志明市", r"胡志明|西貢|越南", {"vi": r"Hồ Chí Minh"}),

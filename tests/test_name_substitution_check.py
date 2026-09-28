@@ -54,3 +54,10 @@ def test_a_name_the_source_already_writes_in_latin_script_is_left_alone():
     zh = "---\ntitle: t\n---\n![館舍](https://commons.wikimedia.org/wiki/File:Chiang_Kai-shek_Memorial_Hall.jpg)\n"
     tr = "![Hall](https://commons.wikimedia.org/wiki/File:Chiang_Kai-shek_Memorial_Hall.jpg) The Chiang Kai-shek Memorial Hall.\n"
     assert MODULE.check("en", zh, tr) == []
+
+
+def test_mandarin_turned_into_cantonese_is_caught():
+    # 2026-09-28 實例：ru〈台灣嘻哈〉把金曲「最佳華語男歌手」寫成「最佳粵語歌手」——金曲沒有粵語獎項
+    zh = "---\ntitle: t\n---\n第 30 屆金曲獎，他拿下最佳華語男歌手。\n"
+    assert MODULE.check("ru", zh, "получил приз «Лучший вокалист на кантонском языке»\n") == [("粵語", 1)]
+    assert MODULE.check("ru", "---\ntitle: t\n---\n他在香港發片。\n", "на кантонском языке\n") == []
