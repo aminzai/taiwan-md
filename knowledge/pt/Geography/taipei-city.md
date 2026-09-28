@@ -6,7 +6,7 @@ category: 'Geography'
 tags:
   [
     'Taipé',
-    'Taipé Chinesa',
+    'Cidade de Taipé',
     'Norte',
     'Cidade Administrativa',
     'Capital',

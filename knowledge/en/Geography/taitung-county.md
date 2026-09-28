@@ -107,7 +107,7 @@ Hongye Village is a small Bunun settlement in Yanping Township, Taitung County. 
 
 The opponent in that game was not the “Wakayama world Little League champion team from Japan.”
 
-In July 1968, at the invitation of the Chinese Taipei Baseball Association, Japan’s amateur baseball federation selected a **Little League all-star team** from the Kansai region to play in Taiwan[^16]. They were not that year’s world championship team. Japan had indeed won two consecutive Little League World Series titles in Williamsport, but the team that came to Taiwan was a different one. The Reporter’s in-depth feature “Bearing Fifty Years of Crime and Punishment” states clearly: “**So where did that ‘Wakayama world Little League champion team’ come from? ‘That claim appeared only later.’**”[^16]
+In July 1968, at the invitation of the Chinese National Baseball Committee, Japan’s amateur baseball federation selected a **Little League all-star team** from the Kansai region to play in Taiwan[^16]. They were not that year’s world championship team. Japan had indeed won two consecutive Little League World Series titles in Williamsport, but the team that came to Taiwan was a different one. The Reporter’s in-depth feature “Bearing Fifty Years of Crime and Punishment” states clearly: “**So where did that ‘Wakayama world Little League champion team’ come from? ‘That claim appeared only later.’**”[^16]
 
 The result of the August 25 game was recorded this way in the August 26, 1968 edition of the United Daily News:
 

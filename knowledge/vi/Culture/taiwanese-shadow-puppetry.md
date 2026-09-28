@@ -56,9 +56,9 @@ Nhân diện được chạm khắc từ giấy thường xuyên sang dùng da t
 
 ## Ba đoàn kịch, ba cách thụ lại truyền thống
 
-Các đoàn kịch xạ lược duy nhất còn tồn tại ở Đài Loan đều nằm ở Đài Bắc Trung Hoa[^8].
+Các đoàn kịch xạ lược duy nhất còn tồn tại ở Đài Loan đều nằm ở Cao Hùng[^8].
 
-**Đoàn kịch xạ lược Đông Hoa** là dòng dõi gia đình thụ lại lâu đời nhất, bắt đầu từ "Đệ Hành" của Trạng Lạc Trương vào thời kỳ Jiào Qìng của triều đại Qing, qua các thế hệ Trương Thịnh, Trương Chuyển, Trương Hiệu, Trương Đệ Đức, đến thế hệ thứ sáu Trương Tấm Quốc hiện nay[^2]. Năm 2020, kỹ năng tạo kịch xạ lược hình ảnh của Trương Tấm Quốc đã được Thành phố Đài Bắc Trung Hoa đăng ký làm "Người bảo tồn kỹ năng tạo kịch xạ lược hình ảnh"[^2].
+**Đoàn kịch xạ lược Đông Hoa** là dòng dõi gia đình thụ lại lâu đời nhất, bắt đầu từ "Đệ Hành" của Trạng Lạc Trương vào thời kỳ Jiào Qìng của triều đại Qing, qua các thế hệ Trương Thịnh, Trương Chuyển, Trương Hiệu, Trương Đệ Đức, đến thế hệ thứ sáu Trương Tấm Quốc hiện nay[^2]. Năm 2020, kỹ năng tạo kịch xạ lược hình ảnh của Trương Tấm Quốc đã được Chính quyền Thành phố Cao Hùng đăng ký làm "Người bảo tồn kỹ năng tạo kịch xạ lược hình ảnh"[^2].
 
 **Đoàn kịch xạ lược Nhân Phát** xuất phát từ Đỉnh Mụ Di Tịnh, là một đoàn kịch làng tụng tiếu tiêu biểu, liên tục cải tiến kỹ năng khắc và chi tiết biểu diễn[^8][^9].
 

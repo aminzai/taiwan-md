@@ -47,7 +47,7 @@ Esta é a rachadura mais profunda na figura de Lo Ta-yu: ele dedicou sua vida a 
 
 Para entender por que Lo Ta-yu escrevia músicas daquela maneira, é preciso saber o que ele deveria ter sido.
 
-Nascido em Taipé Chinesa em 20 de julho de 1954[^2], ele vinha de uma família médica tradicional; seus pais e irmãos eram profissionais de saúde. Em um ambiente como esse, ser médico era quase um destino pré-determinado, e Lo Ta-yu mesmo dizia que "era muito obediente quando criança". Ele realmente seguiu o caminho: ingressou na Faculdade de Medicina Chinesa, formou-se por volta de 1980 ou 1981[^3] e se tornou médico radiologista.
+Nascido em Taipé em 20 de julho de 1954[^2], ele vinha de uma família médica tradicional; seus pais e irmãos eram profissionais de saúde. Em um ambiente como esse, ser médico era quase um destino pré-determinado, e Lo Ta-yu mesmo dizia que "era muito obediente quando criança". Ele realmente seguiu o caminho: ingressou na Faculdade de Medicina Chinesa, formou-se por volta de 1980 ou 1981[^3] e se tornou médico radiologista.
 
 Mas este estudante de medicina meteu a música dentro de si. A história do laboratório de anatomia é algo que ele mesmo contou: era o canto mais silencioso e menos frequentado da faculdade, com bom eco, ideal para praticar canto sozinho[^1]. Um futuro médico, ensaiando uma atividade sem relação com salvar vidas em um cômodo com cadáveres.
 

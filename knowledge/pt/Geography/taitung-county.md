@@ -259,7 +259,7 @@ O condado de menor densidade abrigou os primeiros humanos. As jade contas deixad
 
 Este artigo utiliza 5 imagens licenciadas sob CC do Wikimedia Commons, com o cache da imagem principal em `public/article-images/geography/` para evitar links diretos a servidores, e as outras 4 como hot-links:
 
-- **Imagem Principal (frontmatter)**: [Montagem do Condado de Taitung](https://commons.wikimedia.org/wiki/File:Taitung_County_Montage.png) — Sleepingstar, 2012-07-06, CC BY-SA 3.0. Montagem da paisagem do condado de Taitung, incluindo Taipé Chinesa, Baishawan, Termas Zhiben, Green Island e Lanyu.
+- **Imagem Principal (frontmatter)**: [Montagem do Condado de Taitung](https://commons.wikimedia.org/wiki/File:Taitung_County_Montage.png) — Sleepingstar, 2012-07-06, CC BY-SA 3.0. Montagem da paisagem do condado de Taitung, incluindo Cidade de Taitung, Baishawan, Termas Zhiben, Green Island e Lanyu.
 - **Cena § Sítio Peinan**: [Escavação do Sítio Peinan](https://commons.wikimedia.org/wiki/File:Excavation_of_the_Peinan_Site.JPG) — Benson KC Fang, 2012-02-28, CC BY-SA 3.0. Local de escavação do caixão de pedra do Sítio Peinan.
 - **Cena § Ilha Verde**: [Monumento aos Direitos Humanos da Ilha Verde em Taiwan](https://commons.wikimedia.org/wiki/File:Taiwan_GreenIsland_Human_Rights_Memorial_Monument_2022.jpg) — S8321414, 2022-08-28, CC BY-SA 4.0. Monumento aos Direitos Humanos da Ilha Verde.
 - **Cena § Paisagem de Lanyu**: [Paisagem de Lanyu - Taiwan](https://commons.wikimedia.org/wiki/File:Lanyu_landscape_-_Taiwan.jpg) — Pai-Shih Lee (白士 李), 2017-07-21, CC BY 2.0. Visão panorâmica de Lanyu.

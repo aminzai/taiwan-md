@@ -226,7 +226,7 @@ Phản hồi của Huang Renxun là một góc nhìn hoàn toàn khác[^32]:
 | Vốn hóa thị trường tháng 5/2026       | khoảng 1,7 nghìn nghìn tỷ USD (thứ 6 thế giới) | [^33]                    |
 | Số nhân viên                          | 84.512 người (12/2024) / dự kiến 90.000        | [^11]                    |
 
-Chip AI huấn luyện của NVIDIA, bộ xử lý điện thoại của Apple, chip máy chủ của AMD — tất cả đều được Đài Bắc Trung Hoa (TSMC) độc quyền sản xuất. Nếu nhà máy của TSMC ngừng hoạt động một tuần, toàn bộ ngành công nghiệp công nghệ toàn cầu sẽ bị đình trệ theo.
+Chip AI huấn luyện của NVIDIA, bộ xử lý điện thoại của Apple, chip máy chủ của AMD — tất cả đều được TSMC độc quyền sản xuất. Nếu nhà máy của TSMC ngừng hoạt động một tuần, toàn bộ ngành công nghiệp công nghệ toàn cầu sẽ bị đình trệ theo.
 
 2 nm dự kiến sẽ bắt đầu sản xuất hàng loạt vào nửa thứ hai của 2026, với hai nhà máy mới tại Hạ Bình (Bảo Sơn) và Thành Đông (Fab 22) đã được đặt trước cho toàn bộ năm 2026 [^5]. Công nghệ 1,4 nm (A14) được công bố chính thức tại Diễn đàn Kỹ thuật Bắc Mỹ vào tháng 4 năm 2025, dự kiến sản xuất hàng loạt vào 2028, mang lại tốc độ nhanh hơn 10-15% hoặc tiết kiệm điện năng 25-30%, động mật độ logic tăng hơn 20% so với 2 nm [^6].
 
