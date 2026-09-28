@@ -1,18 +1,18 @@
 ---
-title: 'Thái Dũng Vĩ'
-description: 'Hạng bạc judo 60 kg tại Olympic Tokyo 2021, người đầu tiên của Đài Loan đạt giải Olympic judo, cùng năm tháng 11 lên ngôi số 1 thế giới.'
+title: 'Dương Dũng Vĩ'
+description: 'Hạng bạc judo 60 kg tại Olympic Tokyo 2021, vận động viên đầu tiên của Đài Loan đạt giải Olympic judo, cùng năm tháng 11 lên ngôi số 1 thế giới.'
 date: 2026-03-21
 category: 'People'
 tags:
   [
-    'Cá nhân',
-    'Thái Dũng Vĩ',
+    'Người',
+    'Dương Dũng Vĩ',
     'Judo',
     'Olympic',
     'Hạng bạc',
     'Vận động viên',
     'Đài Loan',
-    'Nguyên thủy',
+    'Người bản địa',
     'Tộc Paiwan',
   ]
 subcategory: '體育'
@@ -24,136 +24,136 @@ translatedFrom: 'People/楊勇緯.md'
 sourceCommitSha: '4b6d28c54'
 sourceContentHash: 'sha256:66a5e0aae1a572b7'
 sourceBodyHash: 'sha256:162f09653edec7c3'
-translatedAt: '2026-07-26T20:52:22+08:00'
+translatedAt: '2026-09-28T08:43:09+08:00'
 ---
 
-# Thái Dũng Vĩ
+# Dương Dũng Vĩ
 
-> **Tóm tắt 30 giây:** Thái Dũng Vĩ (sinh ngày 28/9/1997), vận động viên judo thuộc tộc Paiwan. Đạt hạng bạc judo nam 60 kg tại Olympic Tokyo 2021, là người đầu tiên của Đài Loan giành được giải Olympic judo. Cùng năm tháng 11, lên ngôi số 1 thế giới do Liên đoàn Judo quốc tế xác địng, trở thành vận động viên judo đầu tiên của Đài Loan đạt xếp hạng thế giới số 1. Tại Đại games châu Á Hà Nội 2023, giành chiếc vé vàng, khẳng định tay sức không phải là may rắng.
+> **Tóm tắt 30 giây:** Dương Dũng Vĩ (sinh ngày 28/9/1997), vận động viên judo thuộc tộc Paiwan. Hạng bạc judo nam 60 kg tại Olympic Tokyo 2021, là vận động viên đầu tiên của Đài Loan giành được giải Olympic judo. Cùng năm tháng 11, lên ngôi số 1 thế giới do Liên đoàn Judo quốc tế xác định, trở thành vận động viên judo đầu tiên của Đài Loan đạt xếp hạng thế giới số 1. Năm 2023 tại Đại hội thể thao Châu Á Hàng Châu, giành huy chương vàng, khẳng định thực lực không phải do may mắn.
 
-Ngày 24 tháng 7 năm 2021, tại Hà Nội đấu Tokyo. Khi Thái Dũng Vĩ trong trận đấu hạng 60 kg nam tại sân vận động Tokyo bị đối thủ Nhật Bản Takase Naomichi (高藤直壽) đánh bại bằng chút nghiêng ngược, khoảnh khắc anh ta dán hạng bạc lên má và thổi xìu đã lan truyền khắp thế giới. Khoảnh khắc ấy, người trẻ 23 tuổi thuộc tộc Paiwan này đã sửa đổi lịch sử judo Đài Loan — đây là hạng bạc Olympic đầu tiên của Đài Loan trong lĩnh vực judo.
+Ngày 24 tháng 7 năm 2021, tại Tokyo Budokan. Khi Dương Dũng Vĩ trong trận quyết định hạng 60 kg nam bị đối thủ người Nhật Bản Takase Naomichi (高藤直壽) đánh bại bằng sự chênh lệch nhỏ, khoảnh khắc anh ta dán huy chương bạc lên má và thổi nhẹ đã lan truyền khắp thế giới. Khoảnh khắc ấy, chàng trai 23 tuổi thuộc tộc Paiwan này đã viết lại lịch sử judo Đài Loan — đây là huy chương Olympic đầu tiên của Đài Loan trong lĩnh vực judo.
 
 ## 1997: Sự sinh ra của chiến binh Paiwan
 
-Thái Dũng Vĩ sinh ngày 28 tháng 9 năm 1997, là người bản địa thuộc tộc Paiwan. Khác với nhiều báo chí thường nhắc đến "Đông Bắc" (台東), anh ta thực sự là người Đài Trung, nhưng trong máu mình chảy máu của tinh thần chiến binh nguyên thủy. Tộc Paiwan có câu nói: "Tâm dũng cố gắng sẽ không bị đánh bại", câu nói này phản ánh hoàn hảo về cuộc đời judo của Thái Dũng Vĩ.
+Dương Dũng Vĩ sinh ngày 28 tháng 9 năm 1997, là người bản địa thuộc tộc Paiwan. Khác với nhiều báo chí nhắc tới "Đài Đông", anh ta thực sự là người Đài Trung, nhưng trong máu anh chảy sự kiên cường của tinh thần chiến binh bản địa. Tộc Paiwan có câu nói: "Tâm dũng của người kiên trì sẽ không bị đánh bại", câu nói này phản ánh hoàn hảo về cuộc đời judo của Dương Dũng Vĩ.
 
-Bắt đầu judo của Thái Dũng Vĩ là vào tiểu học. Khác với nhiều vận động viên có "tài năng sinh động", hành trình judo của anh ta đầy may mắn. Khi giáo viên thể thao nhà trường nhận thấy dù hình cường nhỏ nhưng lực nổi điệp khuyến khích anh ta thử nghiệm môn võ.
+Khởi đầu judo của Dương Dũng Vĩ là vào tiểu học. Khác với nhiều vận động viên được gọi là có "thiên tài bẩm sinh", hành trình judo của anh ta đầy những sự trùng hợp. Khi giáo viên thể dục nhà trường nhận thấy mặc dù thân hình anh nhỏ con nhưng sức nổ phát khủng khiếp, giáo viên khuyến khích anh thử sức với một môn võ.
 
-"Tôi không biết judo là gì ban đầu," Thái Dũng Vĩ kể lại, "chỉ biết phải đẩy đối thủ, cảm giác rất thú vị." "Sự thú vị" này đã bất ngờ khai sinh một chương mới của judo Đài Loan.
+"Tôi lúc đầu không biết judo là gì," Dương Dũng Vĩ kể lại sau này, "chỉ biết phải đánh nhau, cảm giác rất vui." Sự "vui" này đã bất ngờ mở ra một chương mới của lịch sử judo Đài Loan.
 
-## 2017: Kiến tạo ngọn giá bằng tia lửa trẻ em
+## 2017: Huy chương vàng thanh niên châu Á lần đầu tiên tỏa sáng
 
-Điều khiếnến Thái Dũng Vĩ nổi bật lên trên các vòng tròn judo là năm 2017. Năm đó, anh giành chiến cúng vàng hạng 60 kg tại Cúp thi đấu judo thanh niên châu Á, chỉ khi 19 tuổi.
+Điều khiến Dương Dũng Vĩ thực sự để lại dấu ấn trong giới judo là năm 2017. Năm đó, anh giành huy chương vàng hạng 60 kg tại Giải vô địch judo thanh niên châu Á, khi anh mới 19 tuổi.
 
-Ý nghĩa của chiến cúng vàng năm ấy là lớn lao. Judo Đài Loan lâu nay đứng ở vị trí thứ hai, ba trên lục địa, để trong giai đoạn thanh niên đạt được chiến thắng trước các đối thủ mạnh như Nhật Bản, Hàn Quốc, Mongol cần có kỹ thuật mạnh mẽ và tinh thần chiến đấu vượt trội.
+Ý nghĩa của huy chương vàng thanh niên ấy rất lớn. Judo Đài Loan lâu nay đứng ở vị trí thứ hai hoặc thứ ba ở châu Á, để có thể giành chiến thắng trước các đối thủ mạnh như Nhật Bản, Hàn Quốc, Mông Cổ ở giai đoạn thanh niên cần phải có kỹ thuật mạnh mẽ và tinh thần chiến đấu vượt trội.
 
-Đặc điểm kỹ thuật của Thái Dũng Vĩ được thể hiện lần đầu tại giải thi đấu thanh niên: đòn đánh đội (nâng đánh) chính xác mạnh mẽ, tốc độ xuất phát cực nhanh. Quan trọng hơn, anh thể hiện trí tuệ chiến lược vượt tuổi — biết khi tấn công, khi phòng thủ, khi tiêu tốn sức lực của đối thủ.
+Đặc điểm kỹ thuật của Dương Dũng Vĩ được thể hiện lần đầu tại giải thanh niên: động tác nội cổ (đánh đối từ bên trong đùi) chính xác mạnh mẽ, tốc độ xuất kích cực nhanh. Quan trọng hơn nữa, anh thể hiện trí tuệ chiến đấu vượt tuổi — biết khi nào tấn công, khi nào phòng thủ, khi nào tiêu tốn sức lực của đối thủ.
 
-## 2021: Từ hạng bạc Tokyo đến đầu bảng thế giới
+## 2021: Từ huy chương bạc Tokyo đến vị trí số 1 thế giới
 
-Với Thái Dũng Vĩ, Sân vận động Tokyo là "lần đầu Olympic, khó quên". Là vận động viên đầu tiên của lịch sử judo Đài Loan lên sân Olympic, áp lực là điều không thể nhấn nhắc.
+Đối với Dương Dũng Vĩ, Olympic Tokyo là "lần đầu Olympic, khó quên mãi". Là vận động viên đầu tiên trong lịch sử judo Đài Loan góp mặt tại trận chung kết Olympic, áp lực mà anh chịu không thể tưởng tượng.
 
-Trận đấu ngày 24 tháng 7 đối thủ Takase Naomichi là vận động viên chủ nhà Nhật Bản, chơi trên sân khách quả. Trận đấu rất khắc nghiệt, Thái Dũng Vĩ tạo nhiều cơ hội tấn công nhưng bị Takase kinh nghiệm xử lý. Cuối cùng, trong vòng giãn thời gian, Thái Dũng Vĩ bị thua bằng chút nghiêng ngược.
+Trận chung kết ngày 24 tháng 7 gặp đối thủ Takase Naomichi (高藤直壽), vận động viên chủ lực Nhật Bản chiến đấu trên sân nhà. Trận đấu diễn ra vô cùng khốc liệt, Dương Dũng Vĩ tạo ra nhiều cơ hội tấn công nhưng đều bị Takase kinh nghiệm xử lý. Cuối cùng, trong hiệp phụ, Dương Dũng Vĩ bị thua bằng sự chênh lệch nhỏ.
 
-"Tôi muốn giành chiến cúng vàng," Thái Dũng Vĩ khóc khi nói trước máy quay sau trận đấu, câu nói khiến cả Đài Loan đều thương xót. Dù sao, chiến cúng bạc này có ý nghĩa lịch sử — judo Đài Loan từ đó có chiến cúng Olympic.
+"Tôi muốn giành huy chương vàng," Dương Dũng Vĩ nói với những giọt nước mắt trước máy quay sau trận, câu nói ấy khiến cả Đài Loan đau lòng. Dù sao, huy chương bạc này có ý nghĩa lịch sử không thể thay thế — judo Đài Loan từ đó có huy chương Olympic.
 
-Thứ nhất, khiến ngưỡng mộ là điều khác. Vào tháng 11 năm 2021, Liên đoàn Judo quốc tế công bố xếp hạng nam 60 kg, Thái Dũng Vĩ lên ngôi số 1 thế giới. Đây là lần đầu tiên của Đài Loan trong lĩnh vực judo đạt xếp hạng thế giới số 1, khẳng định chiến cúng bạc Tokyo không phải là may rắng.
+Điều thêm thú vị là, vào tháng 11 năm 2021, Liên đoàn Judo quốc tế công bố bảng xếp hạng nam 60 kg, Dương Dũng Vĩ lên ngôi số 1 thế giới. Đây là lần đầu tiên Đài Loan có vận động viên judo đạt xếp hạng thế giới số 1, khẳng định rằng huy chương bạc Tokyo không phải do may mắn.
 
-## 2023: Kiến tạo vé vàng tại Đại games châu Á Hà Nội
+## 2023: Đại hội thể thao Châu Á Hàng Châu chứng minh thực lực
 
-"Một kết quả tốt một lần có thể là may mắn, nhưng nhiều kết quả tốt liên tục mới là chất lượng." Thái Dũng Vĩ dùng chiến cúng vàng tại Đại games châu Á Hà Nội 2023 khẳng định bản thân.
+"Một kết quả tốt có thể là may mắn, nhưng nhiều kết quả tốt liên tiếp mới là thực lực thật." Dương Dũng Vĩ dùng huy chương vàng tại Đại hội thể thao Châu Á Hàng Châu 2023 để chứng minh điều đó.
 
-Trong trận đấu hạng 60 kg nam tại Đại games châu Á Hà Nội, Thái Dũng Vĩ đối đầu với đối thủ Kazakhstan. Lần này anh không để cho chiến cúng vàng lại rơi xuống, thắng bằng lợi thế rõ ràng. Chiến cúng vàng này không chỉ là bổ sung vào bộ sưu tập, quan trọng hơn là phá vỡ giới hạn tinh thần — khẳng định anh có khả năng nắm bắt cơ hội tại các khoảnh khắc quan trọng.
+Trong trận chung kết hạng 60 kg nam tại Đại hội thể thao Châu Á Hàng Châu, Dương Dũng Vĩ đối đầu với vận động viên Kazakhstan. Lần này anh không để cho huy chương vàng trượt khỏi tay, giành chiến thắng với lợi thế rõ ràng. Huy chương vàng này không chỉ là để bổ sung bộ sưu tập, mà quan trọng hơn là một bước đột phá về tâm lý — chứng tỏ anh có khả năng nắm bắt cơ hội ở những khoảnh khắc quyết định.
 
-Đáng chú ý là, kỹ thuật thể hiện tại Đại games châu Á Hà Nội đã phát triển hơn tại thời điểm Tokyo. Kỹ thuật trên mặt đất của anh đã tiến bộ rõ rệt, triển khai chiến thuật cũng linh hoạt hơn. Khả năng phát triển liên tục như vậy là đặc tính của vận động viên xuất sắc.
+Đáng chú ý là, kỹ thuật Dương Dũng Vĩ thể hiện tại Đại hội thể thao Châu Á Hàng Châu đã tiến bộ hơn so với thời điểm Tokyo. Kỹ thuật trên mặt đất của anh đã cải thiện rõ rệt, chiến thuật cũng linh hoạt hơn. Khả năng phát triển liên tục như vậy là dấu hiệu của một vận động viên xuất sắc.
 
-## Phân tích kỹ thuật: Nhà văn judo "thủ thuật"
+## Phân tích kỹ thuật: "Nghệ sĩ judo" với động tác nội cổ đặc trưng
 
-Phong cách judo của Thái Dũng Vĩ có thể mô tả là "thuật sĩ". Anh không phải là vận động viên dựa vào sức mạnh, mà là người thắng bằng kỹ thuật, gọi là "nhà văn judo".
+Phong cách judo của Dương Dũng Vĩ có thể được mô tả là "phong cách kỹ thuật". Anh không phải là vận động viên dựa vào sức mạnh, mà là người thắng bằng kỹ thuật — một "nghệ sĩ judo".
 
-Kỹ thuật đánh dấu của anh là đòn đánh đội. Đòn này đã được thử nghiệm không thất bại trên sân đấu quốc tế. Đòn đánh đội là một kỹ thuật cần cảm giác thời gian tuyệt vời — đưa ra quá sớm sẽ bị đối thủ phát hiện, đưa ra quá muộn sẽ bỏ lỡ cơ hội. Sự xuống stance của Thái Dũng Vĩ gần như hoàn hảo, thường xuyên có thể thực hiện đòn đánh khi đối thủ không chuẩn bị.
+Động tác đặc trưng của anh là nội cổ, kỹ thuật này luôn hiệu quả trên sân đấu quốc tế. Nội cổ là một kỹ thuật đòi hỏi cảm giác thời điểm tuyệt vời — xuất kích quá sớm sẽ bị đối thủ phát hiện, xuất kích quá muộn sẽ bỏ lỡ cơ hội. Khả năng nắm bắt thời điểm của Dương Dũng Vĩ gần như hoàn hảo, anh thường xuyên có thể thực hiện nội cổ khi đối thủ hoàn toàn không chuẩn bị.
 
-Ngoài đòn đánh đội, kỹ thuật trên mặt đất của Thái Dũng Vĩ cũng rất vững. Trong trận đấu judo, nếu kỹ thuật đứng thắng không thể phân biệt, sẽ chuyển sang trận đấu trên mặt đất. Kỹ năng kiểm soát và ép buộc của Thái Dũng Vĩ đủ mức, có thể chiếm ưu thế trong trận đấu trên mặt đất.
+Ngoài nội cổ, kỹ thuật mặt đất của Dương Dũng Vĩ cũng rất vững chắc. Trong trận đấu judo, nếu kỹ thuật đứng không phân biệt được kẻ thắng người thua, sẽ chuyển sang trận đấu mặt đất. Kỹ năng kiểm soát và kềm chế của Dương Dũng Vĩ ở mức cao, cho phép anh chiếm ưu thế trong trận đấu mặt đất.
 
 ## "Tai judo": Huy hiệu của vận động viên chuyên nghiệp
 
-Những người quan sát kỹ sẽ nhận thấy, tai của Thái Dũng Vĩ có một chút đặc biệt — đó là "tai judo" (hay còn gọi là "tai cà phê").
+Những người quan sát kỹ lưỡng sẽ nhận thấy rằng tai của Dương Dũng Vĩ có hình dáng khác thường — đó chính là "tai judo" (hay còn gọi là "tai bông cải xanh").
 
-Hành trình tập luyện judo kéo dài sẽ khiến tai bị xúc tác và va đập lặp lại, gây biến dạng xương mềm. Đối với người bình thường, đây có thể là một khuyết tật, nhưng đối với vận động viên judo, đây là biểu tượng của sự tôn vinh — chứng tỏ họ đã dành nhiều cố gắng và công sức trong quá trình tập luyện.
+Quá trình tập luyện judo kéo dài sẽ khiến tai bị xúc xác và va chạm lặp lại, gây ra sự biến dạng của xương sụn. Đối với người bình thường, đây có thể là một khuyết điểm, nhưng đối với vận động viên judo, đây là biểu tượng của vinh dự — minh chứng cho sự cố gắng và nỗ lực của họ trong quá trình tập luyện.
 
-Thái Dũng Vĩ không che giấu tai judo của mình, ngược lại, anh tự hào về nó. "Đây là hiệu của tôi," anh nói, "nhắc nhở tôi đã dành công sức cho ước mơ."
+Dương Dũng Vĩ không che giấu tai judo của mình, thay vào đó anh tự hào về nó. "Đây là huy hiệu của tôi," anh nói, "nhắc nhở tôi rằng tôi đã hy sinh bao nhiêu cho ước mơ."
 
-## Hiện tượng fan Nhật Bản: Sức hút xuyên biên giới
+## Hiện tượng fan Nhật Bản: Sức hút vượt qua biên giới
 
-Sau khi kết thúc Olympic Tokyo, Thái Dũng Vĩ bất ngờ nổi tiếng ở Nhật Bản. "Bốn chữ 'vận động viên Đài Loan' thậm chí trở thành từ khóa hot trên Twitter của Nhật Bản," với hàng ngàn người theo dõi anh bởi sức mạnh và thái độ chân chất.
+Sau Olympics Tokyo, Dương Dũng Vĩ bất ngờ nổi tiếng ở Nhật Bản. Từ khóa "vận động viên Đài Loan" thậm chí trở thành trend trên Twitter Nhật Bản, vô số người dùng Nhật Bản đã bị cuốn hút bởi thực lực và thái độ khiêm tốn của anh.
 
-Hiện tượng này rất thú vị: ở quê hương nơi judo xuất phát, một vận động viên Đài Loan lại có lượng fan khổng lồ. Nhiều người Nhật Bản bình luận: "Judo của anh ấy rất đẹp, có tinh thần budo," "Hy vọng anh ấy sẽ tiếp tục cố gắng, lần sau sẽ giành chiến cúng vàng."
+Hiện tượng này rất thú vị: ở quê hương nơi judo ra đời, một vận động viên Đài Loan lại sở hữu đông đảo người hâm mộ. Nhiều người Nhật Bản bình luận: "Judo của anh ấy rất đẹp, toát lên tinh thần budo," "Hy vọng anh ấy tiếp tục cố gắng, lần sau sẽ giành huy chương vàng."
 
-Số lượng người theo dõi trên Instagram của Thái Dũng Vĩ tăng vọt sau khi kết thúc Olympic Tokyo, trong đó phần lớn là người Nhật Bản. Anh thỉnh thoảng đăng bài bằng tiếng Nhật, thể hiện sự tôn trọng đối với văn hóa judo Nhật Bản, thái độ này giúp thu hút thêm nhiều hỗ trợ quốc tế.
+Số lượng người theo dõi Dương Dũng Vĩ trên Instagram tăng vọt sau Olympics Tokyo, trong đó phần lớn là người Nhật Bản. Anh thỉnh thoảng đăng bài bằng tiếng Nhật, thể hiện sự tôn trọng đối với văn hóa judo Nhật Bản, thái độ này giúp anh thu hút thêm nhiều sự ủng hộ quốc tế.
 
-## Lịch tập học: Giá cả của tuổi trẻ
+## Lịch tập luyện hàng ngày: Giá của tuổi trẻ
 
-Để trở thành vận động viên xuất sắc trên thế giới, cần bỏ ra sức mà người khác chỉ có thể nhận thức. Một ngày của Thái Dũng Vĩ bắt đầu từ sáng sáu giờ, kết thúc vào lúc tối giờ sáu giờ. Khi bạn bè cùng tuổi đi mua sắm, đi karaoke, đi tình yêu, anh lại tập luyện trên sân đấu với mồ hôi rơi như mưa.
+Để trở thành vận động viên hàng đầu thế giới cần phải hy sinh những gì mà người bình thường khó có thể hình dung. Một ngày của Dương Dũng Vĩ bắt đầu từ 6 giờ sáng và kết thúc vào 8 giờ tối. Khi bạn bè cùng tuổi đi mua sắm, hát karaoke, yêu đương, anh lại miệt mài tập luyện trên sàn đấu, mồ hôi rơi như mưa.
 
-"Tôi đã bỏ lỡ nhiều tháng ngày tuổi trẻ," Thái Dũng Vĩ thẫn thức, "nhưng tôi không hối hận. Judo đã cho tôi nhiều hơn."
+"Tôi đã bỏ lỡ nhiều kỉ niệm tuổi trẻ," Dương Dũng Vĩ thổ lộ, "nhưng tôi không hối hận. Judo đã cho tôi rất nhiều hơn."
 
-Sự hy sinh này không chỉ là thời gian, mà còn là thể chất. Tập luyện judo rất khó khăn, thường xuyên bị thương là điều bình thường. Trên thân thiết của Thái Dũng Vĩ có nhiều vết thương nhỏ lớn, mỗi vết chính là dấu ấn của quá trình tập luyện.
+Sự hy sinh này không chỉ là thời gian, mà còn cả thân thể. Tập luyện judo rất khắc nghiệt, chấn thương là điều thường xảy ra. Trên thân thể Dương Dũng Vĩ có vô số vết scar nhỏ lớn, mỗi vết đều là dấu ấn của quá trình tập luyện.
 
-## Ý nghĩa xã hội của vận động viên nguyên thủy
+## Ý nghĩa xã hội của vận động viên bản địa
 
-Là vận động viên thành công thuộc tộc nguyên thủy, ý nghĩa của Thái Dũng Vĩ vượt ra ngoài lĩnh vực thể thao. Dân số nguyên thủy Đài Loan chiếm tỷ lệ dưới 3% tổng dân số, nhưng trong lĩnh vực thể thao lại xuất hiện nhiều tài năng. Thành công của Thái Dũng Vĩ lại khẳng định tiềm năng và tài năng của nguyên thủy trong lĩnh vực thể thao.
+Là một vận động viên thành công thuộc dân tộc bản địa Đài Loan, ý nghĩa của Dương Dũng Vĩ vượt xa ngoài lĩnh vực thể thao. Dân số bản địa Đài Loan chỉ chiếm dưới 3% tổng số dân, nhưng trong lĩnh vực thể thao lại xuất hiện rất nhiều tài năng. Thành công của Dương Dũng Vĩ lại khẳng định tiềm năng và thiên tài của người bản địa trong lĩnh vực thể thao.
 
-Quan trọng hơn, Thái Dũng Vĩ trở thành biểu tượng của thanh niên nguyên thủy. Câu chuyện của anh nói với các bạn chủ tộc: dù xuất thân như thế nào, nếu có ước mơ và ý chí, vẫn có thể tỏa sáng trên trường quốc tế.
+Quan trọng hơn nữa, Dương Dũng Vĩ trở thành biểu tượng cho thanh niên bản địa. Câu chuyện của anh kể cho các bạn bạn tộc: dù xuất thân như thế nào, nếu có ước mơ và sự kiên định, vẫn có thể tỏa sáng trên sân khấu quốc tế.
 
-Chính hành động của đại biểu nguyên thủy Hạ Ngoại Lê Văn Tấn đã nói: "Thái Dũng Vĩ không chỉ là ánh sáng của Đài Loan, còn là ánh sáng của nguyên thủy. Anh ấy đã làm cho thế giới thấy tầm quan trọng của người nguyên thủy Đài Loan."
+Nghị sĩ bản địa Dương Chánh từng nói: "Dương Dũng Vĩ không chỉ là ánh sáng của Đài Loan, mà còn là ánh sáng của người bản địa. Anh ấy đã cho thế giới thấy sức mạnh của người bản địa Đài Loan."
 
-## Giá trị thương mại và đại sứ
+## Giá trị thương mại và quảng bá hình ảnh
 
-Chiến cúng bạc Olympic đã khiến Thái Dũng Vĩ trở thành đại sứ nổi tiếng. Từ thương hiệu thể thao đến công ty viễn thông, các hãng lớn đều mong muốn mời anh làm đại sứ. Nhưng Thái Dũng Vĩ khi chọn đại sứ rất cẩn trọng, anh quan trọng hơn ý tưởng thương hiệu có phù hợp với giá trị cá nhân hay không.
+Huy chương bạc Olympic đã giúp Dương Dũng Vĩ trở thành gương mặt được săn đón cho các thương hiệu. Từ các hãng thể thao cho đến công ty viễn thông, nhiều tập đoàn lớn đều muốn mời anh làm đại sứ hình ảnh. Nhưng khi lựa chọn đại sứ, Dương Dũng Vĩ rất cẩn thận, anh chú trọng đến việc giá trị thương hiệu có phù hợp với quan điểm cá nhân của mình hay không.
 
-Viettel là đối tác quan trọng của anh, dùng hình ảnh "ngôi sao judo" được thiết kế riêng cho anh. Những hợp tác thương mại này cung cấp nguồn thu nhập, giúp anh dành trọn vẹn vào việc tập luyện, không lo về sinh hoạt.
+Taiwan Mobile là một đối tác quan trọng của anh, sử dụng hình ảnh "ngôi sao judo" được thiết kế riêng cho anh. Những hợp tác thương mại này cung cấp nguồn tài chính, giúp anh tập trung toàn lực vào tập luyện, không phải lo lắng về cuộc sống.
 
-Nhưng Thái Dũng Vĩ luôn rõ ràng về bản mình: "Tôi trước tiên là vận động viên, sau cùng mới là đại sứ." Thái độ chuyên nghiệp này giúp anh trong các hoạt động thương mại giữ được tính thuần khiết của vận động viên.
+Nhưng Dương Dũng Vĩ luôn rõ ràng về bản mình: "Tôi trước tiên là một vận động viên, sau đó mới là đại sứ hình ảnh." Thái độ chuyên nghiệp này giúp anh giữ được sự thuần khiết của một vận động viên trong các hợp tác thương mại.
 
-## Hành trình vô địch tại Olympic Bồ Đào Nha 2024
+## 2024 Olympics Paris: Con đường giữ ngôi vô địch
 
-Thái Dũng Vĩ đang chuẩn bị cho Olympic Bồ Đào Nha 2024. Là người giành chiến cúng bạc Tokyo và xếp hạng thế giới số 1 trước đó, anh sẽ mang theo áp lực và kỳ vọng lớn hơn.
+Dương Dũng Vĩ đang chuẩn bị cho Olympics Paris 2024. Là chủ nhân huy chương bạc Tokyo và từng xếp hạng số 1 thế giới, anh sẽ gánh chịu áp lực và kỳ vọng lớn hơn.
 
-"Tôi muốn giành chiến cúng vàng," Thái Dũng Vĩ nói, "không phải để chứng minh gì, mà để hoàn thành ước mơ từ năm ấy."
+"Tôi muốn giành huy chương vàng," Dương Dũng Vĩ nói, "không phải để chứng minh gì, mà để hoàn thành ước mơ từ năm ấy."
 
-Về mặt kỹ thuật, Thái Dũng Vĩ đã có khả năng giành chiến cúng vàng. Điều quan trọng là tinh thần — cách xử lý áp lực lớn hơn và vẫn giữ vững hiệu suất bình thường. Đây sẽ là thử thách lớn nhất của anh.
+Về mặt kỹ thuật, Dương Dũng Vĩ đã sở hữu khả năng giành huy chương vàng. Chìa khóa nằm ở khía cạnh tâm lý — làm thế nào để chịu được áp lực lớn hơn và vẫn phát huy bình thường. Đây sẽ là thử thách lớn nhất của anh.
 
-## Sứ mệnh thổ lộ judo
+## Sứ mệnh phổ biến judo
 
-Thái Dũng Vĩ thấu hiểu sức ảnh hưởng của mình, tích cực tham gia vào việc thổ lộ judo. Anh thường xuyên đến các trường học và sân đấu tại nhiều tỉnh thành dạy cho các vận động viên trẻ, chia sẻ kinh nghiệm tập luyện và kinh nghiệm thi đấu.
+Dương Dũng Vĩ nhận thức rõ sức ảnh hưởng của mình, tích cực tham gia vào công tác phổ biến judo. Anh thường xuyên đến các trường học và sàn đấu tại nhiều nơi để hướng dẫn các vận động viên trẻ, chia sẻ kinh nghiệm tập luyện và thi đấu.
 
-"Tôi mong muốn nhiều vận động viên judo khác ở Đài Loan sẽ tỏa sáng trên trường quốc tế," Thái Dũng Vĩ nói, "không thể chỉ có tôi một mình."
+"Tôi hy vọng rằng sẽ có nhiều vận động viên judo khác ở Đài Loan tỏa sáng trên sân khấu quốc tế," Dương Dũng Vĩ nói, "không thể chỉ có riêng tôi."
 
-Với sự thúc đẩy của anh, dân số judo tại Đài Loan tăng đáng kể. Nhiều gia đình bắt đầu để con cái học judo, hy vọng sẽ nuôi dưỡng thế hệ tiếp theo của Thái Dũng Vĩ.
+Nhờ sự dẫn dắt của anh, số lượng người học judo tại Đài Loan tăng đáng kể. Nhiều gia đình bắt đầu cho con em học judo, hy vọng sẽ nuôi dưỡng thế hệ tiếp theo của Dương Dũng Vĩ.
 
-## Triển khai tinh thần budo hiện đại
+## Diễn giải hiện đại về tinh thần budo
 
-Judo không chỉ là một môn thể thao, mà còn là sự thể hiện của tinh thần budo. "Dùng sự nhẹ nhàng để bẻ gãy sức mạnh," "tận dụng năng lượng," "tự và đồng hành" là các nguyên tắc cốt lõi của judo. Thái Dũng Vĩ là người thực hành xuất sắc trong các khía cạnh này.
+Judo không chỉ là một môn thể thao, mà còn là sự thể hiện của tinh thần budo. "Dùng sự mềm dẻo để khắc phục sức mạnh", "tận dụng năng lượng tối ưu", "cùng nhau phát triển bền vững" là các nguyên tắc cốt lõi của judo. Dương Dũng Vĩ là người thực hành xuất sắc các nguyên tắc này.
 
-Dù thắng hay thua, anh vẫn sẽ kính lễ đối thủ. Thái độ tôn trọng đối thủ này phản ánh giá trị cốt lõi của văn hóa budo. Trong một thời đại cạnh tranh khắc nghiệt, Thái Dũng Vĩ bằng hành động thể hiện điều gọi là "tranh luận giữa những người tốt."
+Dù thắng hay thua, anh đều cúi đầu lạy đối thủ. Thái độ tôn trọng đối thủ này phản ánh giá trị cốt lõi của văn hóa budo. Trong một thời đại cạnh tranh khốc liệt, Dương Dũng Vĩ bằng hành động thể hiện điều gọi là "cuộc tranh tài của những người quý phái".
 
-## Tương lai: Từ vận động viên sang huấn luyện viên
+## Triển vọng tương lai: Từ vận động viên sang huấn luyện viên
 
-Thái Dũng Vĩ đã bắt đầu suy nghĩ về kế hoạch sau khi nghỉ thi đấu. "Tôi mong muốn làm huấn luyện viên, nuôi dưỡng nhiều vận động viên judo khác ở Đài Loan," anh nói, "truyền bá kỹ thuật và kinh nghiệm của tôi xuống."
+Dương Dũng Vĩ đã bắt đầu suy tính về kế hoạch sau khi giải nghệ. "Tôi mong muốn trở thành huấn luyện viên, để nuôi dưỡng nhiều vận động viên judo khác ở Đài Loan," anh nói, "truyền bá kỹ thuật và kinh nghiệm mà tôi đã học được cho thế hệ sau."
 
-Ý tưởng này rất ý nghĩa. Judo Đài Loan cần có nhiều huấn luyện viên có kinh nghiệm quốc tế như Thái Dũng Vĩ để nuôi dưỡng thế hệ vận động viên cấp thế giới. Hành trình huấn luyện viên của anh, có thể hơn về vận động viên sẽ có tác động sâu rộng hơn.
+Ý tưởng này rất ý nghĩa. Judo Đài Loan cần phải có nhiều huấn luyện viên như Dương Dũng Vĩ có kinh nghiệm quốc tế, để nuôi dưỡng các vận động viên cấp thế giới. Hành trình huấn luyện viên của anh, có thể còn có tác động sâu rộng hơn so với thời kỳ là vận động viên.
 
-Câu chuyện của Thái Dũng Vĩ kể với chúng ta: sức mạnh của ước mơ không có giới hạn. Một người con trai tộc Paiwan, chỉ với sự kiên trì và cố gắng, lên đến đỉnh cao của judo thế giới. Anh không chỉ sửa đổi lịch sử judo Đài Loan, mà còn bằng câu chuyện của mình truyền cảm hứng cho bao nhiêu người trẻ kiên trì theo đuổi ước mơ.
+Câu chuyện của Dương Dũng Vĩ kể với chúng ta: sức mạnh của ước mơ là vô hạn. Một thanh niên thuộc tộc Paiwan, chỉ với sự kiên trì và cố gắng, đã lên tới đỉnh cao của judo thế giới. Anh không chỉ viết lại lịch sử judo Đài Loan, mà còn bằng câu chuyện của mình truyền cảm hứng cho hàng triệu thanh niên theo đuổi ước mơ với đạo đức.
 
-Từ chiến cúng bạc Tokyo đến đầu bảng thế giới, từ chiến cúng vàng Đại games châu Á đến kỳ vọng Olympic Bồ Đào Nha 2024, cuộc đời judo của Thái Dũng Vĩ vẫn đang được viết tiếp. Dù sẽ ra sao trong tương lai, Thái Dũng Vĩ đã chứng minh: người nguyên thủy của Đài Loan có khả năng tỏa sáng trên trường quốc tế.
+Từ huy chương bạc Tokyo đến vị trí số 1 thế giới, từ huy chương vàng Đại hội thể thao Châu Á đến kỳ vọng tại Olympics Paris 2024, cuộc đời judo của Dương Dũng Vĩ vẫn tiếp tục được viết nên. Dù sẽ ra sao trong tương lai, Dương Dũng Vĩ đã chứng minh: vận động viên bản địa Đài Loan có khả năng tỏa sáng trên sân khấu thế giới.
 
 **Đọc thêm**:
 
-- [Lê Thị Hương](/people/郭婞淳) — Chiến cúng vàng nâng nước Olympic 2021, người đầu tiên của Đài Loan giành ba chiến cúng Olympic liên tiếp
+- [Quách Hưởng Thuần](/vi/people/kuo-hsing-chun-olympic-weightlifting-champion) — Huy chương vàng cử tạ tại Olympics Tokyo 2021, vận động viên Đài Loan liên tiếp giành huy chương Olympic ba kỳ
 
 ## Tài liệu tham khảo
 
-- [Thái Dũng Vĩ giành hạng bạc Olympic judo 60 kg tại Tokyo 2021! Người đầu tiên của Đài Loan có chiến cúng Olympic judo](https://www.marieclaire.com.tw/lifestyle/news/59011)
-- [Vận động viên judo "Thái Dũng Vĩ" - Viettel](https://corp.taiwanmobile.com/company-profile/brand_family-10.html)
-- [Thái Dũng Vĩ - Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%A5%8A%E5%8B%87%E7%B7%AF)
-- [60 tấm lửa của người judo "Thái Dũng Vĩ" kể câu chuyện từ bạc đến vàng](https://www.womenshealthmag.com/tw/fitness/work-outs/g37125889/yangyungwei/)
+- [Thần tương judo Dương Dũng Vĩ giành hạng bạc Olympic! Vận động viên đầu tiên của Đài Loan](https://www.marieclaire.com.tw/lifestyle/news/59011)
+- [Thần tương judo Dương Dũng Vĩ - Taiwan Mobile](https://corp.taiwanmobile.com/company-profile/brand_family-10.html)
+- [Dương Dũng Vĩ - Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%A5%8A%E5%8B%87%E7%B7%AF)
+- [Thần tương judo "Dương Dũng Vĩ" 30 bức ảnh giới thiệu một mặt khác của anh](https://www.womenshealthmag.com/tw/fitness/work-outs/g37125889/yangyungwei/)
