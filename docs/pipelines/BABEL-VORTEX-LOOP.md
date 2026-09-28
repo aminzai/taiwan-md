@@ -3,7 +3,7 @@ title: 'BABEL-VORTEX-LOOP'
 description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.55)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.90'
+current_version: 'v1.91'
 last_updated: 2026-09-28
 last_session: '2026-09-26-100333-babel-vortex（翻譯率 100% 模式：推送常駐、付費 Haiku、閘門家族、委派 worktree 路徑陷阱與核准視窗、腳註修復器的語言盲）'
 sister_docs:
@@ -294,6 +294,12 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
 
+- v1.91（2026-09-28 下午第三十九輪）：**城市頂替這把尺太吵，但抽樣撞到的都是真病**。把頂替結構推到台灣四大城（zh 沒提台北／
+  高雄／台中／台南，譯文卻出現）：278 篇，誤判太多——小巨蛋譯 Taipei Arena、美麗島事件譯 Kaohsiung Incident、高屏譯
+  Kaohsiung-Pingtung、New Taipei 被 Taipei 吃進去，**不入工具**。但抽樣 12 篇裡有 4 篇真錯：de〈中華菱利〉把品牌的「中華」寫成
+  **Chinesisch Taipeh（中華台北）21 處**、pt 台馬海纜寫成台南－馬祖、fr 譯文夾著模型自問自答「(TSMC/TSMC ? Non, …)」、vi 把
+  中央社寫成「台中新聞」，當場修（d285bbf00）。**「中華」→「中華台北」是主權層的錯**（奧會模式的名稱被套到一家汽車公司），
+  下一輪可以專掃「中華」開頭的機構名在各語言有沒有被寫成 Chinese Taipei。
 - v1.90（2026-09-28 下午第三十八輪）：**語言也會被頂替**。第三十一輪 vi 重譯 agent 回報舊譯把「華語」寫成「廣東話」，照名人頂替的
   結構掃：譯文出現「粵語」、zh 連粵／廣東／廣州／香港都沒提的全庫 5 篇，全是真錯——ru〈台灣嘻哈〉把 Leo 王的「最佳華語男歌手」
   寫成「最佳粵語歌手」三處（金曲根本沒有粵語獎項）、ru〈陳嫺靜〉同款、vi〈保齡球〉把台語 sip-pat-á 標成廣東話、fr〈麻芛湯〉
