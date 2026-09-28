@@ -3,7 +3,7 @@ title: 'BABEL-VORTEX-LOOP'
 description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.55)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.86'
+current_version: 'v1.87'
 last_updated: 2026-09-28
 last_session: '2026-09-26-100333-babel-vortex（翻譯率 100% 模式：推送常駐、付費 Haiku、閘門家族、委派 worktree 路徑陷阱與核准視窗、腳註修復器的語言盲）'
 sister_docs:
@@ -294,6 +294,14 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
 
+- v1.87（2026-09-28 上午第三十四輪）：**寫死的校準值還剩哪些、主權用語換個方向再掃**。(a) 上一輪 pre-push 的病根是「量一次就
+  寫死的門檻」；全庫 grep 帶日期的校準註記，巴別塔路徑上沒有第二個會漂的（numeral-conversion-check 自己標了未校準、不接閘，
+  structured-translate 未校準時退回舊值），**本項無發現**。上一輪推送紀律生效：10:34、11:21 兩次上站都成功。(b) 主權用語反向掃：
+  「一中各表」譯成 PRC 的「一個中國原則」只 1 篇、且是在講北京的解讀，**無發現**；「臺灣省」出現在 zh 連「省」字都沒有的譯文
+  17 篇，多數是誤判（ko「대만성」是「台灣性」與「台灣性少數」，ar「مقاطعة」也作「抵制」與「縣」），真問題是**《臺灣府志》被寫成
+  「臺灣省志」**：清代的府不是省，台灣 1885 年才建省。de／pt／vi 各 1、ar 5 篇改回 prefecture 的寫法（ar 用 محافظة），ar 把台東
+  寫成「台灣東／南部省」2 篇、vi 圖說多加的「台灣省」1 篇一併修（11 檔 12 處，f0ba60da2）。de〈新竹市〉「Provinz China Taiwan」
+  是照譯 zh 自己引的維基原文「中國台灣省」，錯不在譯文，交 FACTCHECK 查維基原文。
 - v1.86（2026-09-28 上午第三十三輪）：**推送會取消正在跑的上站**。巡檢看到 deploy 跑了 31 分鐘還在 Upload，追下去：近五次成功的
   上站中位 2,348 秒（Build 一步就 34 分鐘）；09-27 一整天觸發 89 次、成功 9 次、80 次被下一次 push 取消（cancel-in-progress
   latest-wins）；09-28 到 10:30 觸發 11 次、零成功，第三十一輪逐篇落地逐次推送，一小時裡取消了六次。pre-push 的「近完成就等」
