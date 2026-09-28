@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-28T09:43:02+08:00",
+  "generated_at": "2026-09-28T09:52:46+08:00",
   "producer": "scripts/tools/lang-sync/babel-pulse.py (launchd, 15min)",
-  "snapshot_ts": "2026-09-28T09:42:53+08:00",
+  "snapshot_ts": "2026-09-28T09:52:36+08:00",
   "total_zh": 1124,
   "langs": [
     {
@@ -117,12 +117,12 @@
   "gap_delta": 0,
   "rate_1h": {
     "delta": 0,
-    "span_h": 1.23,
+    "span_h": 1.39,
     "per_hour": 0.0
   },
   "rate_24h": {
     "delta": 66,
-    "span_h": 32.8,
+    "span_h": 32.96,
     "per_hour": 2.0
   },
   "eta_days": null,
@@ -233,8 +233,8 @@
   "dispatchers": [
     {
       "kind": "unified",
-      "pid": "21416",
-      "uptime": "00:17",
+      "pid": "25513",
+      "uptime": "00:02",
       "langs": "",
       "workers": 11
     }
@@ -412,19 +412,20 @@
     ]
   },
   "name_substitution": {
-    "count": 112,
+    "count": 169,
     "by_lang": {
-      "en": 1,
-      "ko": 2,
-      "es": 2,
-      "fr": 3,
-      "vi": 66,
-      "id": 6,
-      "pt": 7,
+      "en": 7,
+      "ja": 1,
+      "ko": 3,
+      "es": 7,
+      "fr": 6,
+      "vi": 69,
+      "id": 18,
+      "pt": 13,
       "hi": 12,
       "ar": 2,
-      "ru": 2,
-      "de": 9
+      "ru": 5,
+      "de": 26
     },
     "sample": [
       {
@@ -441,6 +442,18 @@
         }
       },
       {
+        "path": "knowledge/id/Geography/yongkang-street.md",
+        "names": {
+          "馬英九": 19
+        }
+      },
+      {
+        "path": "knowledge/de/Geography/yongkang-street.md",
+        "names": {
+          "馬英九": 16
+        }
+      },
+      {
         "path": "knowledge/es/People/cho-yun-hsu-bridging-historian.md",
         "names": {
           "蔣介石": 12
@@ -450,6 +463,12 @@
         "path": "knowledge/fr/People/cho-yun-hsu-bridging-historian.md",
         "names": {
           "蔣介石": 12
+        }
+      },
+      {
+        "path": "knowledge/de/Technology/taiwan-tech-storytelling.md",
+        "names": {
+          "郭台銘": 12
         }
       },
       {
@@ -479,45 +498,14 @@
         }
       },
       {
-        "path": "knowledge/vi/Society/taiwan-sports-olympics.md",
+        "path": "knowledge/de/People/yang-shen-keng-educator.md",
         "names": {
-          "蔡英文": 4,
-          "河內": 4
-        }
-      },
-      {
-        "path": "knowledge/vi/Food/taiwanese-popcorn-chicken-redux.md",
-        "names": {
-          "蔡英文": 8
-        }
-      },
-      {
-        "path": "knowledge/vi/Food/chiayi-turkey-rice.md",
-        "names": {
-          "蔡英文": 5,
-          "河內": 3
-        }
-      },
-      {
-        "path": "knowledge/vi/Geography/administrative-divisions-of-taiwan.md",
-        "names": {
-          "蔣介石": 5,
-          "河內": 3
+          "孫中山": 9
         }
       }
     ]
   },
   "history": [
-    {
-      "ts": "2026-08-09T00:02:26+08:00",
-      "fresh_total": 8045,
-      "gap_total": 1701
-    },
-    {
-      "ts": "2026-08-09T00:17:37+08:00",
-      "fresh_total": 8045,
-      "gap_total": 1701
-    },
     {
       "ts": "2026-08-09T00:32:47+08:00",
       "fresh_total": 8045,
@@ -985,6 +973,16 @@
     },
     {
       "ts": "2026-09-28T09:42:53+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-28T09:45:58+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-28T09:52:36+08:00",
       "fresh_total": 13488,
       "gap_total": 0
     }

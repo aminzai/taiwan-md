@@ -3,7 +3,7 @@ title: 'BABEL-VORTEX-LOOP'
 description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.55)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.84'
+current_version: 'v1.85'
 last_updated: 2026-09-28
 last_session: '2026-09-26-100333-babel-vortex（翻譯率 100% 模式：推送常駐、付費 Haiku、閘門家族、委派 worktree 路徑陷阱與核准視窗、腳註修復器的語言盲）'
 sister_docs:
@@ -294,6 +294,13 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
 
+- v1.85（2026-09-28 上午第三十二輪）：**同一個機制換一批名人**。主動結構掃描：把「陌生名字被換成模型最熟的名字」從三位
+  總統推到十四位名人，抽樣真錯占多數。es／pt／id〈台灣半導體產業〉把 1985 年的政務委員李國鼎寫成李登輝；de 把捐款給黑熊學院的
+  曹興誠寫成張忠謀；施振榮的微笑曲線記到郭台銘名下；成功大學一再被換成中山大學；ko 把陳誠寫成陳水扁（括號裡自己寫著陳誠）；
+  ru 把松山機場寫成「孫中山機場」。`name-substitution-check.py` 擴表十二位（柯文哲、鄭成功不收：抽樣裡「柯條款」「國姓爺之子
+  鄭經」這種補充語境占一半），另加一道「zh 自己用拉丁字寫過這個名字就不算」（英文來源標題、Wikimedia 檔名）。全庫 138→169 篇，
+  42 篇已在 hold 分支修好、127 篇未修，#91 數字同步。**檢查器命中的「頂替」有時是譯者糾正了 zh 的錯字**：〈滅火器樂團〉zh 寫
+  「聽鄧麗珍和白光長大」，en／es／fr／ja 都譯成 Teresa Teng，錯的是 zh，交 FACTCHECK。本輪週用量 71%，不開新委派波次。
 - v1.84（2026-09-28 上午第三十一輪）：**主權 lint 的尺換成名人頂替的尺**。(a) 照 TRANSLATION-en §TL;DR 的建議先試
   「PRC 用語 lint」：Taiwan, China／China's Taiwan／compatriots／province of China 十二語一掃 1,044 篇，扣掉 zh 自己有對應詞的
   剩 136 篇，逐條看完真問題不到十篇（「Taiwan, China, Hong Kong」這種地名清單、「Taiwan is Taiwan, China is China」這種引述、
