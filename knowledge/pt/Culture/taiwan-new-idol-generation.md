@@ -14,7 +14,7 @@ tags:
     'K-POP',
     'Música Pop Taiwanesa',
     'Cultura de Ídolos',
-    'Chan Jen-hung',
+    'Chan Jen-hsiung',
   ]
 subcategory: '流行文化'
 author: 'Taiwan.md'
@@ -29,7 +29,7 @@ sourceBodyHash: 'sha256:3dda77b7510dd761'
 translatedAt: '2026-09-28T09:06:24+08:00'
 ---
 
-> **Visão de 30 segundos:** Em 2001, S.H.E debutou e Taiwan passou 19 anos inteiros sem uma banda de ídolos bem-sucedida. Em 2020, o produtor Chan Jen-hung (詹仁雄) investiu 130 milhões de novos dólares taiwaneses para criar o programa de competição "Geração DD52", tentando reativar a cadeia de produção de ídolos de Taiwan. Seis anos depois, DD52, Atom Boyz, Next Girlz, Atom Boyz 2 e Cosmic Angels — cinco programas, quatro prêmios Golden Bell, mais de 50 ídolos debutantes, dez ou mais grupos. Mas o volume do grupo vencedor costuma ser o mais baixo. Sete bandas masculinas sofreram queda "abrupta" de popularidade após um ano de debut. Fazer debut é fácil; manter-se vivo é o verdadeiro desafio da indústria de ídolos de Taiwan.
+> **Visão de 30 segundos:** Em 2001, S.H.E debutou e Taiwan passou 19 anos inteiros sem uma banda de ídolos bem-sucedida. Em 2020, o produtor Chan Jen-hsiung (詹仁雄) investiu 130 milhões de novos dólares taiwaneses para criar o programa de competição "Geração DD52", tentando reativar a cadeia de produção de ídolos de Taiwan. Seis anos depois, DD52, Atom Boyz, Next Girlz, Atom Boyz 2 e Cosmic Angels — cinco programas, quatro prêmios Golden Bell, mais de 50 ídolos debutantes, dez ou mais grupos. Mas o volume do grupo vencedor costuma ser o mais baixo. Sete bandas masculinas sofreram queda "abrupta" de popularidade após um ano de debut. Fazer debut é fácil; manter-se vivo é o verdadeiro desafio da indústria de ídolos de Taiwan.
 
 Em 11 de setembro de 2001, a Hua Ren International lançou o grupo feminino de três membros S.H.E. Nos dez anos seguintes, Selina, Hebe e Ella venderam mais de 16 milhões de discos, tornando-se um dos grupos femininos mais bem-sucedidos da história da música popular em idioma chinês[^1].
 
@@ -45,7 +45,7 @@ Em 2020, alguém decidiu que era hora de tentar de novo.
 
 Em 12 de junho de 2020, "Geração DD52" estreou simultaneamente no YouTube e no ETtoday[^2].
 
-As especificações de DD52 superavam em muito as de programas de competição da época. O produtor Chan Jen-hung (Chen Jen-hung, um dos melhores produtores de programas de entretenimento de Taiwan) e Liang Ting-hao investiram **130 milhões de novos dólares taiwaneses** em produção. Esse valor era de cinco a seis vezes maior que o de programas similares da mesma época. As músicas originais sozinhas consumiram 18 milhões, e o equipamento técnico era 2,5 vezes superior ao do "Star Road"[^2].
+As especificações de DD52 superavam em muito as de programas de competição da época. O produtor Chan Jen-hsiung (Chen Jen-hung, um dos melhores produtores de programas de entretenimento de Taiwan) e Liang Ting-hao investiram **130 milhões de novos dólares taiwaneses** em produção. Esse valor era de cinco a seis vezes maior que o de programas similares da mesma época. As músicas originais sozinhas consumiram 18 milhões, e o equipamento técnico era 2,5 vezes superior ao do "Star Road"[^2].
 
 104 meninas, com idades entre 13 e 25 anos, foram divididas em quatro equipes: Hurricane (Furacão), Blaze Love (Chama do Amor), Pink Fun (Diversão Rosa), White Diamond (Diamante Branco)[^3]. Os principais instrutores foram [Rainie Yang](/pt/people/rainie-yang) e Pan Wei-bo, com convidados incluindo Chen Li-nong, Eggplant, Cyndi Wang, [Jam Hsiao](/pt/people/jam-hsiao), Eric Chou, [Waa Wei](/pt/people/waa-wei-singer), 9m88 e Wu Zhuo-yuan, somando 17 artistas musicais[^3].
 
@@ -60,7 +60,7 @@ DD52 ganhou o **Prêmio Golden Bell de Melhor Programa de Variedades na 56ª edi
 Mas a verdadeira história começou só depois da final.
 
 > **📝 Nota do Curador**
-> Chan Jen-hung (詹仁雄) disse a repórteres: "Muitos pais apoiam as filhas em busca de seus sonhos, o potencial de mercado é suficiente, e bandas femininas também são mais fáceis de gerenciar." A declaração parece prática, mas revela um problema profundo na indústria de ídolos de Taiwan: aqui, os grupos são frequentemente obras do produtor, não escolhas dos próprios membros.
+> Chan Jen-hsiung (詹仁雄) disse a repórteres: "Muitos pais apoiam as filhas em busca de seus sonhos, o potencial de mercado é suficiente, e bandas femininas também são mais fáceis de gerenciar." A declaração parece prática, mas revela um problema profundo na indústria de ídolos de Taiwan: aqui, os grupos são frequentemente obras do produtor, não escolhas dos próprios membros.
 
 ---
 
@@ -119,13 +119,13 @@ Next Girlz conquistou o **Prêmio Golden Bell de Melhor Programa de Variedades n
 
 ---
 
-## A Quarta Vez, Ainda Chan Jen-hung
+## A Quarta Vez, Ainda Chan Jen-hsiung
 
 Em 24 de agosto de 2024, "Atom Boyz 2" estreou[^10].
 
-Cinquenta e quatro candidatos, seis planetas, transmitido em TVBS, LINE TV e Hami Video. O grupo vencedor, o Planeta Pequeno, formou F.F.O (Future For One); o álbum de debut alcançou o topo nos pré-pedidos do Blogs Bookstore (博客來). O grupo de popularidade ARKis debutou no dia seguinte. Havia também um mecanismo chamado "Projeto Arca de Noé" para formar grupos limitados adicionais[^10].
+Cinquenta e quatro candidatos, seis planetas, transmitido em TVBS, LINE TV e Hami Video. O grupo vencedor, o Planeta Pequeno, formou F.F.O (Future For One); o álbum de debut alcançou o topo nos pré-pedidos do Books.com.tw (博客來). O grupo de popularidade ARKis debutou no dia seguinte. Havia também um mecanismo chamado "Projeto Arca de Noé" para formar grupos limitados adicionais[^10].
 
-Neste ponto, o sistema Chan Jen-hung (詹仁雄) de programas de competição de ídolos de Taiwan formou um padrão bem definido:
+Neste ponto, o sistema Chan Jen-hsiung (詹仁雄) de programas de competição de ídolos de Taiwan formou um padrão bem definido:
 
 | Programa    | Ano  | Gênero | Debutantes          | Golden Bell        |
 | ----------- | ---- | ------ | ------------------- | ------------------ |
@@ -139,13 +139,13 @@ Neste ponto, o sistema Chan Jen-hung (詹仁雄) de programas de competição de
 Atom Boyz 2 conquistou o **Prêmio Golden Bell de Melhor Programa de Variedades na 60ª edição**[^10].
 
 > **💡 Sabia disso?**
-> Os quatro programas de competição de ídolos do sistema Chan Jen-hung (DD52, Atom Boyz, Next Girlz, Atom Boyz 2) ganharam quatro prêmios Golden Bell entre a 56ª e 60ª edição — em média, um prêmio por edição. Kick Pa Entertainment (joint venture entre Gameone e Chan Jen-hung) virou a máquina mais consistente de prêmios da categoria de ídolos na história do Golden Bell.
+> Os quatro programas de competição de ídolos do sistema Chan Jen-hsiung (DD52, Atom Boyz, Next Girlz, Atom Boyz 2) ganharam quatro prêmios Golden Bell entre a 56ª e 60ª edição — em média, um prêmio por edição. Kick Pa Entertainment (joint venture entre Gameone e Chan Jen-hsiung) virou a máquina mais consistente de prêmios da categoria de ídolos na história do Golden Bell.
 
 ---
 
-## Novos Atores Fora do Sistema Chan Jen-hung
+## Novos Atores Fora do Sistema Chan Jen-hsiung
 
-Em 7 de março de 2026, um programa de competição de ídolos nasceu fora do sistema Chan Jen-hung: "Cosmic Angels"[^11].
+Em 7 de março de 2026, um programa de competição de ídolos nasceu fora do sistema Chan Jen-hsiung: "Cosmic Angels"[^11].
 
 Produzido em co-produção entre WeTV e Titan Star Creative, com produtor B2 Chen Yan-ming. A partir de uma grande seleção de centenas de candidatas, foram escolhidas 30 meninas com meta de formar um grupo de nove membros[^11].
 
@@ -211,7 +211,7 @@ Esses casos individuais têm escala limitada, mas cada um é **prova de sobreviv
 
 ## Taiwan está Respondendo uma Pergunta Agora
 
-Em 2026, no momento presente, a indústria de ídolos de Taiwan está rodando três linhas simultaneamente: o sistema de competição Chan Jen-hung (Atom Boyz continua gerando novos grupos), o novo experimento fora de Chan Jen-hung (Cosmic Angels), e grupos do período DD52 abrindo seus próprios caminhos (HUR+ na Coreia, GenBlue em debut coreano).
+Em 2026, no momento presente, a indústria de ídolos de Taiwan está rodando três linhas simultaneamente: o sistema de competição Chan Jen-hsiung (Atom Boyz continua gerando novos grupos), o novo experimento fora de Chan Jen-hsiung (Cosmic Angels), e grupos do período DD52 abrindo seus próprios caminhos (HUR+ na Coreia, GenBlue em debut coreano).
 
 Taiwan não se tornará uma segunda Coreia — o tamanho de mercado não permite, a estrutura industrial não suporta, o solo cultural é diferente. Mas Taiwan está respondendo uma pergunta em seu próprio jeito: **Numa era onde K-pop domina toda a Ásia, uma ilha de 23 milhões de pessoas consegue cultivar seus próprios ídolos?**
 
@@ -248,9 +248,9 @@ A resposta ainda não nasceu. Mas aqueles ainda em cena — bandas onde o segund
 
 [^9]: [Scarlet Enchantment criticada por muito agressivo - NOWnews](https://www.nownews.com/news/6248884) — Reportagem NOWnews com resposta de Felipe.Z ao crítico: "Vivendo na Idade da Pedra?"
 
-[^10]: [Atom Boyz 2 - Wikipédia](https://zh.wikipedia.org/zh-tw/%E5%8E%9F%E5%AD%90%E5%B0%91%E5%B9%B42) — Entrada de Wikipédia cobrindo 54 candidatos em 6 planetas, F.F.O / ARKis debut, 60º Prêmio Golden Bell, sistema Chan Jen-hung com 4 Bells consecutivos.
+[^10]: [Atom Boyz 2 - Wikipédia](https://zh.wikipedia.org/zh-tw/%E5%8E%9F%E5%AD%90%E5%B0%91%E5%B9%B42) — Entrada de Wikipédia cobrindo 54 candidatos em 6 planetas, F.F.O / ARKis debut, 60º Prêmio Golden Bell, sistema Chan Jen-hsiung com 4 Bells consecutivos.
 
-[^11]: [Cosmic Angels - Wikipédia](https://zh.wikipedia.org/wiki/%E5%AE%87%E5%AE%99%E5%95%A6%E5%95%A6%E9%9A%8A) — Entrada de Wikipédia com Silver apresentando, quase 800 candidatas selecionadas para 30, WeTV autoprodução saindo do sistema Chan Jen-hung, 2026-03 estreia.
+[^11]: [Cosmic Angels - Wikipédia](https://zh.wikipedia.org/wiki/%E5%AE%87%E5%AE%99%E5%95%A6%E5%95%A6%E9%9A%8A) — Entrada de Wikipédia com Silver apresentando, quase 800 candidatas selecionadas para 30, WeTV autoprodução saindo do sistema Chan Jen-hsiung, 2026-03 estreia.
 
 [^12]: [AKB48 Team TP - Wikipedia em inglês](https://en.wikipedia.org/wiki/AKB48_Team_TP) — Entrada de Wikipedia em inglês cobrindo 2018 debut, crise financeira, AKS rescindiu licença, mudança de nome para Team TP, 2026 retorno a TPE48, oito anos de trajetória.
 
