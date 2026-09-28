@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-28T09:27:36+08:00",
+  "generated_at": "2026-09-28T09:43:02+08:00",
   "producer": "scripts/tools/lang-sync/babel-pulse.py (launchd, 15min)",
-  "snapshot_ts": "2026-09-28T09:27:27+08:00",
+  "snapshot_ts": "2026-09-28T09:42:53+08:00",
   "total_zh": 1124,
   "langs": [
     {
@@ -117,12 +117,12 @@
   "gap_delta": 0,
   "rate_1h": {
     "delta": 0,
-    "span_h": 1.91,
+    "span_h": 1.23,
     "per_hour": 0.0
   },
   "rate_24h": {
     "delta": 66,
-    "span_h": 32.54,
+    "span_h": 32.8,
     "per_hour": 2.0
   },
   "eta_days": null,
@@ -233,8 +233,8 @@
   "dispatchers": [
     {
       "kind": "unified",
-      "pid": "8463",
-      "uptime": "00:10",
+      "pid": "21416",
+      "uptime": "00:17",
       "langs": "",
       "workers": 11
     }
@@ -412,16 +412,16 @@
     ]
   },
   "name_substitution": {
-    "count": 121,
+    "count": 112,
     "by_lang": {
       "en": 1,
-      "ko": 3,
+      "ko": 2,
       "es": 2,
       "fr": 3,
-      "vi": 71,
+      "vi": 66,
       "id": 6,
       "pt": 7,
-      "hi": 15,
+      "hi": 12,
       "ar": 2,
       "ru": 2,
       "de": 9
@@ -431,44 +431,6 @@
         "path": "knowledge/vi/Geography/dalongdong.md",
         "names": {
           "河內": 66
-        }
-      },
-      {
-        "path": "knowledge/hi/People/tsai-pei-huo.md",
-        "names": {
-          "蔡英文": 59
-        }
-      },
-      {
-        "path": "knowledge/hi/People/tanya-chua-singer.md",
-        "names": {
-          "蔡英文": 45
-        }
-      },
-      {
-        "path": "knowledge/vi/People/lee-teng-hui.md",
-        "names": {
-          "賴清德": 40,
-          "河內": 2
-        }
-      },
-      {
-        "path": "knowledge/vi/People/su-tseng-chang.md",
-        "names": {
-          "蔡英文": 29,
-          "河內": 8
-        }
-      },
-      {
-        "path": "knowledge/hi/People/stan-lai-theater-innovation-master.md",
-        "names": {
-          "賴清德": 35
-        }
-      },
-      {
-        "path": "knowledge/ko/People/tsai-eng-meng.md",
-        "names": {
-          "蔡英文": 22
         }
       },
       {
@@ -491,26 +453,61 @@
         }
       },
       {
-        "path": "knowledge/vi/People/hsiao-bi-khim.md",
-        "names": {
-          "蔣介石": 11
-        }
-      },
-      {
         "path": "knowledge/vi/Geography/taipei-101.md",
         "names": {
           "蔡英文": 8,
           "賴清德": 3
         }
+      },
+      {
+        "path": "knowledge/vi/People/tsai-heipi.md",
+        "names": {
+          "蔡英文": 10
+        }
+      },
+      {
+        "path": "knowledge/ko/Lifestyle/national-highway-system.md",
+        "names": {
+          "蔣介石": 9
+        }
+      },
+      {
+        "path": "knowledge/vi/History/withdrawal-from-united-nations.md",
+        "names": {
+          "河內": 1,
+          "胡志明市": 8
+        }
+      },
+      {
+        "path": "knowledge/vi/Society/taiwan-sports-olympics.md",
+        "names": {
+          "蔡英文": 4,
+          "河內": 4
+        }
+      },
+      {
+        "path": "knowledge/vi/Food/taiwanese-popcorn-chicken-redux.md",
+        "names": {
+          "蔡英文": 8
+        }
+      },
+      {
+        "path": "knowledge/vi/Food/chiayi-turkey-rice.md",
+        "names": {
+          "蔡英文": 5,
+          "河內": 3
+        }
+      },
+      {
+        "path": "knowledge/vi/Geography/administrative-divisions-of-taiwan.md",
+        "names": {
+          "蔣介石": 5,
+          "河內": 3
+        }
       }
     ]
   },
   "history": [
-    {
-      "ts": "2026-08-08T23:47:16+08:00",
-      "fresh_total": 8045,
-      "gap_total": 1701
-    },
     {
       "ts": "2026-08-09T00:02:26+08:00",
       "fresh_total": 8045,
@@ -983,6 +980,11 @@
     },
     {
       "ts": "2026-09-28T09:27:27+08:00",
+      "fresh_total": 13488,
+      "gap_total": 0
+    },
+    {
+      "ts": "2026-09-28T09:42:53+08:00",
       "fresh_total": 13488,
       "gap_total": 0
     }
