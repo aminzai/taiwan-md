@@ -247,6 +247,20 @@ def _verify_module():
     return _VERIFY
 
 
+_NSC = None
+
+
+def _name_substitution_module():
+    """name-substitution-check.py 的 check——名人頂替用同一張表，不在這裡另列名字。"""
+    global _NSC
+    if _NSC is None:
+        spec = importlib.util.spec_from_file_location(
+            "name_substitution_check", Path(__file__).with_name("name-substitution-check.py"))
+        _NSC = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(_NSC)
+    return _NSC
+
+
 def content_gaps(min_h2: int = 4, min_urls: int = 5) -> dict:
     """status 算 fresh、內容卻缺一大塊的譯文，三族一次掃：
 
@@ -258,9 +272,13 @@ def content_gaps(min_h2: int = 4, min_urls: int = 5) -> dict:
     es〈滷肉飯〉最後一條腳註斷在 youtube.com/watch、劉山東牛肉麵被連到「上海牛肉麵」的維基頁；全庫 648 篇，少 1,315 個網址、多出或被改的 817 個）。
     這道檢查 07-29 才變成完全比對，之前落地的是存量；之後的新譯文都要過它，所以這個數字只該往下走——
     往上走代表有一條產線繞過了閘門。無出處的篇另外算，不重複計入。
+    名人頂替：譯文出現 zh 原稿連別名都沒有的名人或首都（第三十一輪：vi 把台北寫成河內 45 篇、
+    es／pt／hi〈蔡健雅〉主角整篇是 Tsai Ing-wen；網址與結構全對，其他檢查都看不見）。
     「正常比例」取該語言全部譯文對 zh 篇幅比的中位數，不寫死每個語言的數字，新語言出生也適用。
     """
     vt = _verify_module()
+    nsc = _name_substitution_module()
+    subs, subs_by = [], {}
     pairs = collections.defaultdict(list)
     for lang in ALL_TRANSLATION_LANGS:
         for p in (REPO / "knowledge" / lang).rglob("*.md"):
@@ -275,6 +293,10 @@ def content_gaps(min_h2: int = 4, min_urls: int = 5) -> dict:
             zb, tb = z.split("\n---", 1)[-1], t.split("\n---", 1)[-1]
             zc = collections.Counter(vt.extract_urls(vt.parse_fm(z)[1]))
             tc = collections.Counter(vt.extract_urls(vt.parse_fm(t)[1]))
+            hits = nsc.check(lang, z, t)
+            if hits:
+                subs.append({"path": p.relative_to(REPO).as_posix(), "names": dict(hits)})
+                subs_by[lang] = subs_by.get(lang, 0) + 1
             pairs[lang].append((p.relative_to(REPO).as_posix(), len(H2_RE.findall(z)), len(H2_RE.findall(t)),
                                 len(tb) / max(1, len(zb)), len(URL_RE.findall(zb)), len(URL_RE.findall(tb)),
                                 sum((zc - tc).values()), sum((tc - zc).values())))
@@ -296,7 +318,9 @@ def content_gaps(min_h2: int = 4, min_urls: int = 5) -> dict:
             "no_sources": {"count": len(nosrc), "by_lang": nosrc_by, "sample": nosrc[:12]},
             "url_mismatch": {"count": len(urlx), "by_lang": urlx_by,
                              "missing": sum(r["missing"] for r in urlx), "extra": sum(r["extra"] for r in urlx),
-                             "sample": urlx[:12]}}
+                             "sample": urlx[:12]},
+            "name_substitution": {"count": len(subs), "by_lang": subs_by,
+                                  "sample": sorted(subs, key=lambda r: -sum(r["names"].values()))[:12]}}
 
 
 def truncated_translations(min_h2: int = 4) -> dict:
@@ -435,6 +459,9 @@ def render_html(d: dict) -> str:
     ns_col = "#dc2626" if ns_n else "var(--mut)"
     um = d.get("url_mismatch") or {"count": 0, "missing": 0, "extra": 0}
     um_col = "#dc2626" if um["count"] else "var(--mut)"
+    nsub = d.get("name_substitution") or {"count": 0, "by_lang": {}}
+    nsub_col = "#dc2626" if nsub["count"] else "var(--mut)"
+    nsub_top = "、".join(f"{k} {v}" for k, v in sorted(nsub["by_lang"].items(), key=lambda kv: -kv[1])[:3]) or "—"
     return f"""<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>巴別塔脈搏 — Taiwan.md</title>
@@ -474,6 +501,7 @@ svg{{width:100%;height:70px;display:block}}
 <div class="kpi"><u>算 fresh 但沒有出處</u><strong style="color:{ns_col}">{ns_n}</strong><em>zh 引了 ≥5 個網址、譯文 0 個</em></div>
 <div class="kpi"><u>算 fresh 但只譯了前段</u><strong style="color:{tr_col}">{tr_n}</strong><em>章節不到 zh 六成、篇幅不到七成</em></div>
 <div class="kpi"><u>算 fresh 但網址跟 zh 不一樣</u><strong style="color:{um_col}">{um["count"]}</strong><em>verify 網址比對會擋；少 {um["missing"]}、多或改 {um["extra"]}</em></div>
+<div class="kpi"><u>名人或首都頂替</u><strong style="color:{nsub_col}">{nsub["count"]}</strong><em>zh 沒提到的蔡英文／河內等；{nsub_top}</em></div>
 <div class="kpi"><u>算 fresh 但不是目標語言</u><strong style="color:{lm_col}">{lm["total"]}</strong><em>整篇錯語 {lm["wrong_language"]}／尾段漂移 {lm["foreign_script"]}</em></div>
 </div>
 {orph_list}
@@ -579,6 +607,7 @@ def main():
         f"（整篇錯語 {payload['language_mismatch']['wrong_language']}／尾段漂移 {payload['language_mismatch']['foreign_script']}）"
         f" 截斷={payload['truncated']['count']} 無出處={payload['no_sources']['count']}"
         f" 網址不符={payload['url_mismatch']['count']}"
+        f" 名人頂替={payload['name_substitution']['count']}"
         f" → {OUT_JSON.name} + {OUT_HTML.name}")
     for o in unc["orphans"]:
         log(f"  孤兒 {o['xy'].strip() or '?'} {o['path']}（{o['age_min']} 分鐘未 commit，不在活產線批次）")

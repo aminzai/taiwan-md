@@ -185,3 +185,18 @@ def test_translation_whose_urls_differ_from_zh_is_counted_once(tmp_path, monkeyp
     got = {s["path"]: (s["missing"], s["extra"]) for s in r["url_mismatch"]["sample"]}
     assert got == {"knowledge/en/Food/cut.md": (1, 1), "knowledge/en/Food/added.md": (0, 1)}
     assert r["url_mismatch"]["count"] == 2
+
+
+def test_translation_naming_someone_the_source_never_mentions_is_counted(tmp_path, monkeypatch):
+    # 2026-09-28 實例：es〈蔡健雅〉主角整篇寫成 Tsai Ing-wen；網址與結構全對
+    zh_dir, es_dir = tmp_path / "knowledge" / "People", tmp_path / "knowledge" / "es" / "People"
+    zh_dir.mkdir(parents=True)
+    es_dir.mkdir(parents=True)
+    (zh_dir / "x.md").write_text("---\ntitle: 蔡健雅\n---\n## 一\n\n蔡健雅四度拿下金曲獎。\n", encoding="utf-8")
+    head = "---\ntranslatedFrom: 'People/x.md'\n---\n## Uno\n\n"
+    (es_dir / "ok.md").write_text(head + "Tanya Chua ganó cuatro Golden Melody.\n", encoding="utf-8")
+    (es_dir / "swapped.md").write_text(head + "Tsai Ing-wen ganó cuatro Golden Melody. Tsai Ing-wen canta.\n", encoding="utf-8")
+    monkeypatch.setattr(MODULE, "REPO", tmp_path)
+    r = MODULE.content_gaps()
+    assert r["name_substitution"]["count"] == 1
+    assert r["name_substitution"]["sample"] == [{"path": "knowledge/es/People/swapped.md", "names": {"蔡英文": 2}}]
