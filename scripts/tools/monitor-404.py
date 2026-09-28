@@ -68,6 +68,15 @@ LATEST_PATH = STATE_DIR / "latest.json"
 
 MAX_STATE_DAYS = 60
 TOP_PATHS_LIMIT = 300
+# 每個家族至少保障進 top_paths 的條數（2026-09-28 maintainer-am 新增）。
+# 純全域 top-N 是「最吵的」排序，而下游 generate-redirects.mjs 要的是「修得掉的」：
+# 它只認 slug-variant / cross-lang-slug / renamed-or-truncated 三族且 suggest 非空。
+# 一支被改名的文章，它的舊網址典型只有 1-2 次命中，於是永遠擠不進全域榜。
+# 實測 2026-09-28 latest.json：全域 300 條的切線落在 2 hits，slug-variant 全家 84 hits
+# 只有 5 hits／2 條進榜（漏 94%），renamed-or-truncated（12 hits）與 cross-lang-slug
+# （1 hit）整族缺席——重導產生器看不到的正好是它唯一能修的那一段尾巴。
+# 本值只「加進來」不排擠既有全域榜，下游拿到的是聯集（它自己會再按家族與 suggest 過濾）。
+PER_FAMILY_LIMIT = 50
 CF_ROW_LIMIT = 10000
 
 LANGS = list(ENABLED_TRANSLATION_LANGS)
@@ -484,6 +493,44 @@ def compute_alerts(date_str, families, top_paths):
     return alerts
 
 
+def select_top_paths(path_agg):
+    """把每路徑的聚合結果挑成 top_paths 清單。
+
+    兩份名單取聯集：全域最吵的前 TOP_PATHS_LIMIT 條，加上每個家族自己的前
+    PER_FAMILY_LIMIT 條。後者是給下游 generate-redirects.mjs 的保障——理由見
+    PER_FAMILY_LIMIT 的註解（全域榜只排「最吵的」，重導要的是「修得掉的」，
+    而修得掉的那一族典型每條只有 1-2 次命中，永遠擠不進全域榜）。
+
+    輸出維持 hits 遞減排序（下游與報表都依賴），且路徑不重複。
+    """
+    ranked = sorted(path_agg.items(), key=lambda kv: kv[1]["hits"], reverse=True)
+    selected = {path for path, _ in ranked[:TOP_PATHS_LIMIT]}
+    per_family_count = {}
+    for path, agg in ranked:  # 已按 hits 遞減，逐族取前 N 條
+        fam = agg["family"]
+        if per_family_count.get(fam, 0) >= PER_FAMILY_LIMIT:
+            continue
+        per_family_count[fam] = per_family_count.get(fam, 0) + 1
+        selected.add(path)
+
+    out = []
+    for path, agg in ranked:
+        if path not in selected:
+            continue
+        ua_counts = agg.get("ua_counts") or {}
+        top_ua = max(ua_counts.items(), key=lambda kv: kv[1])[0] if ua_counts else ""
+        out.append(
+            {
+                "path": path,
+                "hits": agg["hits"],
+                "family": agg["family"],
+                "ua": top_ua[:160],
+                "suggest": agg["suggest"],
+            }
+        )
+    return out
+
+
 def process_day(date_str, rows, truncated, routes, lang_cat_slugs, cat_slug_langs, registry):
     families = defaultdict(lambda: {"count": 0, "bot": 0, "browser": 0, "empty": 0})
     path_agg = {}
@@ -509,24 +556,7 @@ def process_day(date_str, rows, truncated, routes, lang_cat_slugs, cat_slug_lang
         agg["hits"] += count
         agg["ua_counts"][ua] = agg["ua_counts"].get(ua, 0) + count
 
-    top_paths = []
-    for path, agg in sorted(
-        path_agg.items(), key=lambda kv: kv[1]["hits"], reverse=True
-    )[:TOP_PATHS_LIMIT]:
-        top_ua = (
-            max(agg["ua_counts"].items(), key=lambda kv: kv[1])[0]
-            if agg["ua_counts"]
-            else ""
-        )
-        top_paths.append(
-            {
-                "path": path,
-                "hits": agg["hits"],
-                "family": agg["family"],
-                "ua": top_ua[:160],
-                "suggest": agg["suggest"],
-            }
-        )
+    top_paths = select_top_paths(path_agg)
 
     families_out = {name: dict(v) for name, v in families.items()}
     alerts = compute_alerts(date_str, families_out, top_paths)
