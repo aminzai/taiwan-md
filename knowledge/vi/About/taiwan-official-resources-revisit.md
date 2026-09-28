@@ -1,6 +1,6 @@
 ---
-title: 'Tài nguyên trang web chính phủ Đài Loan: Từ 25 trang web đến chủ quyền chính phủ số trong 30 năm kỷ diệu'
-description: 'Vào năm 1996, Đài Loan thiết lập 25 trang web chính phủ đầu tiên để tham gia Hội chợ Thế giới Internet. 30 năm sau, hòn đảo này trở thành mẫu tiêu toàn cầu về chính phủ số — từ khai thác thuế điện tử đến trang web cổng duy nhất, từ dữ liệu mở đến cơ sở dữ liệu AI, khám phá cách Đài Loan viết nên câu chuyện chuyển đổi số.'
+title: 'Tài nguyên trang web chính thức của Đài Loan: Từ 25 trang web đến kỳ tích 30 năm trở thành cường quốc chính phủ số'
+description: 'Năm 1996, để tham gia Hội chợ Triển lãm Thế giới Internet, 25 cơ quan chính phủ Đài Loan đã xây dựng đợt trang web chính thức đầu tiên. 30 năm sau, hòn đảo này trở thành hình mẫu chính phủ số toàn cầu — từ khai thuế qua mạng đến cổng thông tin duy nhất, từ dữ liệu mở đến kho ngữ liệu AI, cùng khám phá cách Đài Loan viết nên huyền thoại chuyển đổi số bằng các trang web chính thức.'
 date: 2026-03-23
 tags:
   [
@@ -9,7 +9,7 @@ tags:
     'chính phủ điện tử',
     'dữ liệu mở',
     'chuyển đổi số',
-    'tài nguyên chính phủ',
+    'tài nguyên chính thức',
   ]
 author: 'Taiwan.md'
 difficulty: 'beginner'
@@ -22,318 +22,318 @@ translatedFrom: 'About/台灣官方網站資源重寫.md'
 sourceCommitSha: 'a05d24314'
 sourceContentHash: 'sha256:73ee4c24e755afd6'
 sourceBodyHash: 'sha256:7e5da6fad0f6882b'
-translatedAt: '2026-07-26T13:02:55+08:00'
+translatedAt: '2026-09-28T08:43:09+08:00'
 ---
 
-# Tài nguyên trang web chính phủ Đài Loan: Từ 25 trang web đến chủ quyền chính phủ số trong 30 năm kỷ diệu
+# Tài nguyên trang web chính thức của Đài Loan: Từ 25 trang web đến kỳ tích 30 năm trở thành cường quốc chính phủ số
 
-> **Tóm tắt 30 giây:** 25 trang web chính phủ đầu tiên của Đài Loan được xây dựng vào năm 1996 để tham gia Hội chợ Thế giới Internet, khai phá thành công thí nghiệm chính phủ điện tử sớm nhất ở châu Á. 30 năm sau, Đài Loan sở hữu hơn 2.000 trang web chính phủ, xếp hạng 8 trong số các quốc gia có khả năng số hóa tốt nhất theo bảng xếp hạng của IMD, xây dựng hệ thống chính phủ số cấp thế giới. Từ một quyết định đơn giản đến hệ sinh thái quản lý số gồm 180+ trang web chính phủ cốt lõi, đây là câu chuyện Đài Loan viết nên cuộc kỷ niệm chuyển đổi số bằng các trang web.
+> **Tóm tắt 30 giây:** Năm 1996, 25 trang web chính thức đầu tiên mà Đài Loan xây dựng để tham gia Hội chợ Triển lãm Thế giới Internet đã mở ra thử nghiệm chính phủ điện tử sớm nhất châu Á. 30 năm sau, Đài Loan sở hữu hơn 2.000 trang web cơ quan chính phủ, xếp hạng 8 thế giới trong bảng xếp hạng năng lực cạnh tranh số của IMD, xây dựng nên một hệ thống chính phủ số đẳng cấp thế giới. Từ một quyết định đơn giản, đến hệ sinh thái quản trị số hôm nay gồm hơn 180 trang web chính thức cốt lõi, đây là câu chuyện Đài Loan dùng các trang web để viết nên huyền thoại chuyển đổi số.
 
-## Tại sao danh sách này quan trọng
+## Vì sao danh sách này quan trọng
 
-Đây không chỉ là danh sách các trang web, mà là phản ánh sức mạnh số hóa của Đài Loan. Khi các quốc gia khác còn đang lo lắng về quá trình chuyển đổi số, Đài Loan đã dành 30 năm xây dựng một hệ thống quản lý số toàn diện từ trung tâm đến địa phương, từ chính phủ đến cộng đồng, từ mở dữ liệu đến ứng dụng AI.
+Đây không chỉ là một danh sách trang web, mà là bản thu nhỏ của sức mạnh số quốc gia Đài Loan. Khi các nước trên thế giới vẫn còn loay hoay với chuyển đổi số, Đài Loan đã dùng 30 năm để xây dựng một hệ thống quản trị số hoàn chỉnh — từ trung ương đến địa phương, từ chính phủ đến dân sự, từ mở dữ liệu đến ứng dụng AI.
 
-Mỗi trang web chính phủ đều chứng kiến sự phát triển của quản lý số Đài Loan. Từ dịch vụ khai thác thuế cá nhân qua internet lần đầu tiên trên thế giới vào năm 1998, đến thành lập Bộ phát triển số vào năm 2022, đến việc xây dựng cơ sở dữ liệu huấn luyện AI chủ quyền Đài Loan vào năm 2026 — các trang web chính phủ này không chỉ là nguồn cung cấp thông tin, mà còn là cửa sổ tốt nhất để Đài Loan thể hiện sức mạnh số hóa.
+Đằng sau mỗi trang web chính thức là một chứng nhân cho quá trình tiến hóa của quản trị số Đài Loan. Từ dịch vụ khai thuế qua mạng đầu tiên trên thế giới năm 1998, đến việc thành lập Bộ Phát triển số năm 2022, rồi đến việc xây dựng kho ngữ liệu huấn luyện AI chủ quyền Đài Loan năm 2026 — những trang web chính thức này không chỉ là nơi cung cấp thông tin, mà còn là cửa sổ tốt nhất để Đài Loan phô diễn thực lực số với thế giới.
 
-## Khởi đầu không lường trước: Một buổi hội chợ mạng thay đổi mọi thứ
+## Khởi đầu bất ngờ: một hội chợ triển lãm Internet đã thay đổi tất cả
 
-### Năm 1996: Quyết định lịch sử với 25 trang web
+### Năm 1996: quyết định lịch sử với 25 trang web
 
-Câu chuyện bắt đầu từ 30 năm trước. Vào mùa hè năm 1995, chính phủ Đài Loan đưa ra một quyết định dường như bình thường: tham gia Hội chợ Thế giới Internet vào năm 1996. Để thực hiện sự kiện quốc tế này, Văn phòng Thủ tướng Họp đồng dự trù đã huy động 25 cơ quan trung tâm và các sở hành chính tỉnh, nhanh chóng xây dựng 25 trang web chính phủ đầu tiên của Đài Loan.
+Câu chuyện bắt đầu từ 30 năm trước. Vào mùa hè năm 1995, chính phủ Đài Loan đã đưa ra một quyết định tưởng như bình thường: tham gia Hội chợ Triển lãm Thế giới Internet năm 1996. Để phục vụ cho sự kiện trưng bày quốc tế này, Ủy ban Nghiên cứu Phát triển và Đánh giá thuộc Viện Hành pháp đã huy động 25 cơ quan trung ương và chính quyền các huyện thị, gấp rút xây dựng đợt trang web chính thức đầu tiên của Đài Loan.
 
-**Không ai dự đoán được, quyết định khẩn cấp này nhằm "tham gia triển lãm" sẽ trở thành tiếng vang khởi đầu cho chính phủ điện tử châu Á.**
+**Không ai ngờ rằng quyết định mang tính ứng phó "để tham gia triển lãm" này lại trở thành phát súng khởi đầu cho chính phủ điện tử ở châu Á.**
 
-Tại thời điểm đó, internet của Đài Loan mới chỉ bắt đầu phát triển, và các cán bộ hành chính vẫn còn ích ngầm với khái niệm "trang web". Những trang web của 25 cơ quan đó rất đơn giản, gần như dễ thương — chỉ có giới thiệu cơ quan, thông tin liên hệ đơn giản, và vài tấm ảnh tài liệu được quét. Nhưng đó là những trang web "nguyên sơ" đó, khai phá cánh cửa mới cho quản lý số Đài Loan.
+Vào thời điểm đó, Internet ở Đài Loan mới chỉ vừa khởi bước, công chức chính phủ vẫn còn khá xa lạ với khái niệm "trang web". Nội dung của 25 trang web đó giản dị đến mức đáng yêu — chỉ có giới thiệu cơ quan cơ bản, thông tin liên lạc đơn giản, cùng vài tấm ảnh chụp tài liệu quét. Nhưng chính những trang web "sơ khai" ấy đã mở ra cánh cửa quản trị số cho Đài Loan.
 
-### Từ xây dựng phản kháng đến tấn công chủ động
+### Từ xây dựng phòng thủ đến chủ động tiến công
 
-Ban đầu, các trang web chính phủ chỉ dùng để "tránh trễ". Nhưng tinh thần thực tiễn của người Đài Loan nhanh chóng thể hiện. Chính phủ phát hiện, trang web không chỉ giúp trình bày hình ảnh, mà còn có thể cải thiện dịch vụ công thực sự.
+Những trang web chính phủ ban đầu, nói thẳng ra là được xây "để khỏi bị bỏ lại phía sau". Nhưng tinh thần thực tế đặc trưng của người Đài Loan nhanh chóng phát huy tác dụng. Chính phủ nhận ra rằng trang web không chỉ có thể phô diễn hình ảnh, mà còn có thể thực sự cải thiện dịch vụ công.
 
-Vào năm 1998, Bộ Tài chính ra mắt dịch vụ nộp thuế thu nhập cá nhân qua internet, lần đầu tiên trên thế giới. Chỉ trong năm đầu tiên, có 10.234 người sử dụng, nhưng đến năm 2004 đã vượt qua 1 triệu người, và năm 2008 đạt 2,69 triệu người. Ví dụ thành công này chứng minh một điều: **trang web chính phủ không chỉ là kênh công bố thông tin, mà còn là nền tảng đổi mới dịch vụ.**
+Năm 1998, Bộ Tài chính ra mắt dịch vụ khai báo thuế thu nhập tổng hợp cá nhân qua mạng đầu tiên trên thế giới. Năm đầu tiên chỉ có 10.234 người sử dụng, nhưng đến năm 2004 đã vượt qua 1 triệu người, năm 2008 lại đạt tới 2,69 triệu người sử dụng. Câu chuyện thành công này chứng minh một điều: **trang web chính thức không chỉ là bảng thông báo tin tức, mà còn là nền tảng đổi mới dịch vụ.**
 
-## Mô hình chính phủ số của Đài Loan: Ba giai đoạn phát triển
+## Mô hình chính phủ Đài Loan trong chuyển đổi số: ba giai đoạn tiến hóa
 
-### Giai đoạn thứ nhất (1996-2001): Giai đoạn xây dựng hạ tầng
+### Giai đoạn một (1996-2001): thời kỳ xây dựng hạ tầng
 
-Từ khóa của giai đoạn này là "kết nối được". Chính phủ đầu tư 17,463 triệu đồng, xây dựng xương sống mạng dịch vụ chính phủ, giúp các hệ thống thông tin lớn tự do tách rời có thể trao đổi dữ liệu.
+Từ khóa của giai đoạn này là "kết nối được với nhau". Chính phủ đầu tư 1,7463 tỷ Đài tệ để xây dựng xương sống mạng lưới dịch vụ chính phủ, giúp các hệ thống thông tin quy mô lớn vốn hoạt động riêng lẻ có thể liên thông với nhau.
 
-**Các mốc quan trọng:**
+**Các mốc son quan trọng:**
 
-- Năm 1998: Thành lập Trung tâm Quản lý Chứng chỉ Chính phủ
-- Tháng 3 năm 1998: Khởi động khai thác thuế qua internet
-- Tháng 7 năm 1998: Gửi văn bản điện tử đầu tiên (Liu Zhaoxuan → Su Zhenchang)
-- Năm 2000: 70% văn bản chính phủ được trao đổi điện tử
+- Năm 1998: Trung tâm Quản lý Chứng thực Chính phủ được thành lập
+- Tháng 3 năm 1998: Khai thuế qua mạng chính thức vận hành
+- Tháng 7 năm 1998: Công văn điện tử đầu tiên được truyền đi (Lưu Triệu Huyền → Tô Trinh Chương)
+- Năm 2000: 70% công văn chuyển sang trao đổi điện tử
 
-Trong thời kỳ này, một văn bản chính phủ từ Hà Nội gửi đến Phúc Tước chỉ mất vài phút thay vì 3-5 ngày gửi bằng thư truyền thống. Sự tăng trưởng kinh tế "phi tha" này khiến chính phủ và nhân dân bắt đầu tin tưởng vào lực lượng của công nghệ số.
+Vào thời đó, một công văn gửi từ Đài Bắc đến Bình Đông, nếu gửi bằng đường bưu điện truyền thống phải mất 3-5 ngày, còn trao đổi điện tử chỉ mất vài phút. Sự cải thiện hiệu suất "như phép màu" này khiến cả chính phủ lẫn người dân bắt đầu tin vào sức mạnh của số hóa.
 
-### Giai đoạn thứ hai (2001-2010): Giai đoạn tích hợp dịch vụ
+### Giai đoạn hai (2001-2010): thời kỳ tích hợp dịch vụ
 
-Nếu giai đoạn đầu tiên là "kết nối được", giai đoạn thứ hai là "sử dụng thuận tiện". Chính phủ đầu tư 129,84 triệu đồng, chuyển tập trung từ xây dựng công nghệ sang tích hợp dịch vụ.
+Nếu giai đoạn một là "kết nối được với nhau", thì giai đoạn hai là "dùng được trơn tru". Chính phủ đầu tư 12,984 tỷ Đài tệ, trọng tâm chuyển từ xây dựng kỹ thuật sang tích hợp dịch vụ.
 
-**Các bước ngoặt chính:**
+**Đột phá then chốt:**
 
-- Năm 2001: Quy định về chữ ký điện tử được thông qua, tài liệu điện tử có hiệu lực pháp lý
-- Năm 2005: Trang web cổng "e của tôi" được khởi động
-- Bắt đầu hình thành tích hợp dịch vụ giữa các cơ quan
+- Năm 2001: "Luật Chữ ký điện tử" được thông qua, văn bản điện tử có hiệu lực pháp lý
+- Năm 2005: Cổng thông tin "e-Chính phủ của tôi" đi vào hoạt động
+- Việc tích hợp dịch vụ liên cơ quan bắt đầu thành hình
 
-Khái niệm "e của tôi" rất tiên tiến: Người dân không cần biết dịch vụ nào thuộc cơ quan nào, chỉ cần vào một cổng duy nhất đều có thể hoàn thành mọi việc chính phủ. Dù kỹ thuật chưa hoàn thiện, tư duy "tập trung vào nhu cầu của người dân" này đã đặt nền móng cho sự phát triển sau này.
+Khái niệm "e-Chính phủ của tôi" khá tiên tiến vào thời đó: người dân không cần biết dịch vụ nào thuộc cơ quan nào, chỉ cần vào một cổng duy nhất là có thể xử lý xong mọi việc. Dù kỹ thuật lúc ấy chưa hoàn thiện, nhưng tư duy "lấy nhu cầu người dân làm trung tâm" này đã đặt nền móng cho sự phát triển về sau.
 
-### Giai đoạn thứ ba (2010-nay): Giai đoạn quản lý thông minh
+### Giai đoạn ba (2010-nay): thời kỳ quản trị thông minh
 
-Vào năm 2019, Đài Loan chính thức xác định mục tiêu "chính phủ thông minh", quản lý số vào một thế kỷ mới. Chuyển tập trung từ "số hóa dịch vụ" lên "quyết định dựa trên dữ liệu".
+Năm 2019, Đài Loan chính thức xác lập mục tiêu "chính phủ thông minh", quản trị số bước vào một kỷ nguyên mới. Trọng tâm được nâng cấp từ "số hóa dịch vụ" lên "ra quyết định dựa trên dữ liệu".
 
-**Các dấu ấn hiện đại:**
+**Các dấu mốc hiện đại hóa:**
 
-- Năm 2022: Thành lập Bộ phát triển số, thống nhất chính sách quản lý số
-- Năm 2024: Tỷ lệ gia đình kết nối internet đạt 93,4%, tỷ lệ cá nhân lên mạng 90,3% — đạt kỷ lục cao
-- Năm 2026: Khởi động cơ sở dữ liệu huấn luyện AI chủ quyền Đài Loan, hơn 11 tỷ token ngôn ngữ tiếng Trung
+- Năm 2022: Bộ Phát triển số được thành lập, thống nhất chính sách quản trị số
+- Năm 2024: tỷ lệ hộ gia đình kết nối mạng đạt 93,4%, tỷ lệ cá nhân dùng internet đạt 90,3%, cả hai đều lập kỷ lục mới
+- Năm 2026: kho ngữ liệu huấn luyện AI chủ quyền Đài Loan đi vào hoạt động, với hơn 1,1 tỷ token ngữ liệu
 
-Ngày nay, các trang web chính phủ của Đài Loan không còn chỉ là "đường ống nói chuyện với người dân", mà là "nền tảng hợp tác quản lý giữa chính phủ và người dân".
+Trang web chính thức của Đài Loan ngày nay không còn chỉ là "kênh để chính phủ nói với người dân", mà đã là "nền tảng để chính phủ và người dân cùng quản trị".
 
-## Sức mạnh số hóa vượt mong đợi
+## Năng lực cạnh tranh số vượt xa tưởng tượng
 
-### Kỷ niệm số hóa trên trường quốc tế
+### Kỳ tích Đài Loan trên các bảng xếp hạng quốc tế
 
-Thành tựu của chính phủ số Đài Loan, trên các bảng xếp hạng quốc tế, đều xuất hiện ấn tượng:
+Thành tựu của chính phủ số Đài Loan liên tục đạt kết quả ấn tượng trên các bảng xếp hạng quốc tế:
 
-**Bảng xếp hạng sức mạnh số hóa của IMD:**
+**Bảng xếp hạng Năng lực Cạnh tranh Số Thế giới của IMD:**
 
-- Năm 2020: Xếp hạng 11
-- Năm 2021: Xếp hạng 8 (lần đầu vào top 10)
-- Năm 2024: Xếp hạng 8 (giữ vững top 10 liên tục)
+- Năm 2020: hạng 11
+- Năm 2021: hạng 8 (lần đầu lọt vào top 10)
+- Năm 2024: hạng 8 (giữ vững vị trí top 10 liên tục)
 
-**Khảo sát chính phủ điện tử toàn cầu của Brown University (năm 2008):**
+**Khảo sát Chính phủ điện tử Toàn cầu của Đại học Brown (năm 2008):**
 
-- Đài Loan xếp hạng thứ 2 trên thế giới
-- Chỉ sau Hàn Quốc, vượt Mỹ
+- Đài Loan xếp: hạng 2 thế giới
+- Chỉ sau Hàn Quốc, vượt qua Mỹ
 
-Ý nghĩa của những con số này là: **Đài Loan dùng 30 năm xây dựng, từ người theo dõi trở thành người dẫn đầu.**
+Ý nghĩa đằng sau những con số này là: **Đài Loan đã dùng 30 năm để từ kẻ đuổi theo trở thành chuẩn mực dẫn đầu.**
 
-### Thí nghiệm dân quyền với dữ liệu mở
+### Thử nghiệm dân chủ của dữ liệu mở
 
-Năm 2012, nền tảng mở dữ liệu chính phủ Đài Loan (data.gov.tw) chính thức được khởi động. Đây không chỉ là đổi mới công nghệ, mà còn là một cuộc cách mạng triết lý quản lý — dữ liệu chính phủ không còn là tài sản riêng của cơ quan nữa, mà là tài nguyên được chia sẻ cho toàn xã hội.
+Năm 2012, Nền tảng Dữ liệu Mở Chính phủ Đài Loan (data.gov.tw) chính thức đi vào hoạt động. Đây không chỉ là đổi mới kỹ thuật, mà còn là cuộc cách mạng về triết lý quản trị — dữ liệu chính phủ không còn là tài sản riêng của cơ quan, mà là tài nguyên chia sẻ chung cho toàn dân.
 
-**Kết quả dữ liệu mở:**
+**Thành quả dữ liệu mở:**
 
-- Số lượng bộ dữ liệu: Hơn 46.000 bộ
-- Các lĩnh vực: Giao thông, môi trường, giáo dục, y tế, kinh tế...
-- Các ví dụ ứng dụng: Bản đồ khẩu phần, cảnh báo chất lượng không khí, tình trạng giao thông...
+- Số lượng bộ dữ liệu: hơn 46.000 bộ
+- Lĩnh vực bao phủ: giao thông, môi trường, giáo dục, y tế, kinh tế, v.v.
+- Ví dụ ứng dụng: bản đồ khẩu trang, cảnh báo chất lượng không khí, tình hình giao thông, v.v.
 
-Trong đại dịch COVID-19, khả năng xây dựng nhanh chóng "bản đồ khẩu phần" nhờ dữ liệu mở cho phép người dân kiểm tra nhanh chóng tồn kho tại nhà thuốc gần đây — đó là phát hện tốt nhất của sức mạnh dữ liệu mở.
+Trong giai đoạn COVID-19, chính sách mua khẩu trang theo tên thật đã có thể nhanh chóng dựng nên "bản đồ khẩu trang", giúp người dân tra cứu tức thời lượng tồn kho tại các hiệu thuốc gần đó — đây chính là màn trình diễn ấn tượng nhất cho sức mạnh của dữ liệu mở.
 
-## Phân tích hiện trạng các trang web chính phủ Đài Loan
+## Phân tích hiện trạng trang web chính thức của Đài Loan
 
-### Cấu trúc cốt lõi: Hệ thống 5 ngành 16 bộ
+### Cấu trúc cốt lõi: hệ thống 5 viện 16 bộ
 
-**Cấp chính phủ trung tâm (48 trang web cốt lõi):**
+**Cấp chính phủ trung ương (48 trang web cốt lõi):**
 
-- Tổng thống, 5 ngành: 6 trang web cấp cao nhất
-- Các bộ ngành: Nội chính, Ngoại giao, Quốc phòng, Tài chính, Giáo dục, Pháp luật, Kinh tế, Giao thông, Y tế, Môi trường, Văn hóa, Công nghệ, Nông nghiệp, Lao động, Số hóa, Phát triển quốc gia
-- Các cơ quan chức năng đặc biệt: Quốc hội, Hội đồng Giám sát, Hội đồng Kỳ thi...
+- Phủ Tổng thống, 5 viện: 6 trang web cấp cao nhất
+- Cấp bộ: Bộ Nội vụ, Bộ Ngoại giao, Bộ Quốc phòng, v.v. — 16 bộ
+- Cơ quan quan trọng: Hội đồng Phát triển Quốc gia, Hội đồng Đại lục Sự vụ, Hội đồng Dân tộc Bản địa, v.v. — các cơ quan nhiệm vụ đặc biệt
 
-**Cấp địa phương (22 tỉnh thành):**
+**Cấp chính quyền địa phương (22 đơn vị):**
 
-- Thành phố trực thuộc trung tâm: Hà Nội, Thượng Bình, Bắc Kinh, Tây Ninh, Nam Chi, Hạ Chí
-- Các tỉnh thành: 16 tỉnh thành bao phủ đầy đủ
+- Thành phố trực thuộc trung ương: Đài Bắc, Tân Bắc, Đào Viên, Đài Trung, Đài Nam, Cao Hùng
+- Chính quyền huyện thị: bao phủ đầy đủ 16 huyện thị
 
-**Cấp các tổ chức chuyên môn (110+ trang web):**
+**Cấp tổ chức chuyên môn (hơn 110 đơn vị):**
 
-- Các trường đại học xuất sắc: Đại học Quốc gia Hà Nội, Đại học Triều Khí, Đại học Dầu khí và Công nghiệp Hà Nội...
-- Các khu dự trữ quốc gia: Sơn Thuây, Đại Lịch, Hạ Long...
-- Các cơ sở văn hóa nghệ thuật: Bảo tàng Hoàng gia, Bảo tàng Quốc gia Hà Nội, Hội đồng Nghệ thuật...
+- Cơ sở đại học và nghiên cứu: Đại học Quốc gia Đài Loan, Đại học Quốc gia Thanh Hoa, Viện Nghiên cứu Trung ương, v.v. — các học phủ hàng đầu
+- Công viên quốc gia: Ngọc Sơn, Taroko, Kenting, v.v. — các khu bảo tồn thiên nhiên
+- Cơ sở văn hóa nghệ thuật: Cố Cung, Bảo tàng Mỹ thuật Đài Bắc, Nhà hát Quốc gia, v.v. — các tổ chức văn hóa
 
-### Các lĩnh vực đặc sắc có giá trị riêng
+### Giá trị độc đáo của các lĩnh vực đặc sắc
 
-**AI và công nghệ số mới:**
+**AI và đổi mới số:**
 
-- Cơ sở dữ liệu huấn luyện AI chủ quyền Đài Loan (TAIC): Hơn 11 tỷ token ngôn ngữ tiếng Trung
-- Bộ phát triển số: Điều phối chính sách quản lý số toàn quốc
-- Cơ quan An ninh thông tin: Bảo vệ hệ thống an ninh mạng cấp quốc gia
+- Kho ngữ liệu huấn luyện AI chủ quyền Đài Loan (TAIC): hơn 1,1 tỷ token ngữ liệu tiếng Trung phồn thể
+- Bộ Phát triển số: điều phối chính sách số hóa toàn quốc
+- Cục An ninh mạng: duy trì phòng vệ an ninh mạng cấp quốc gia
 
-**Dân quyền và tham gia công dân:**
+**Dân chủ và sự tham gia của công dân:**
 
-- vTaiwan: Nền tảng hợp tác quản lý số
-- Nền tảng Join: Nền tảng tham gia chính sách công
-- g0v không giờ chính phủ: Cộng đồng công nghệ dân sự
+- vTaiwan: nền tảng hợp tác dân chủ số
+- Nền tảng Join: nền tảng tham gia chính sách công
+- g0v (chính phủ không giờ): cộng đồng công nghệ công dân
 
 **Kết nối quốc tế:**
 
-- Ngoại giao: Duy trì quan hệ quốc tế
-- Hội đồng Người Viên chứng: Dịch vụ người Viên chứng toàn cầu
-- Cơ quan Du lịch: Truyền thông lực mềm Đài Loan
+- Bộ Ngoại giao: duy trì quan hệ quốc tế
+- Ủy ban Kiều vụ: phục vụ kiều bào toàn cầu
+- Cục Du lịch: quảng bá sức mạnh mềm của Đài Loan
 
-## Bí mật lợi thế cạnh tranh: Tại sao là Đài Loan?
+## Lợi thế cạnh tranh tiềm ẩn: vì sao lại là Đài Loan?
 
-### Lợi thế ngẫu nhiên của môi trường chính trị
+### Trợ lực bất ngờ từ địa chính trị
 
-Môi trường chính trị đặc biệt của Đài Loan, ngược lại, đã trở thành động lực thúc đẩy đổi mới quản lý. **Không thể dựa vào trợ giúp của các tổ chức quốc tế, Đài Loan buộc phải tự làm mạnh mẽ, xây dựng hệ thống quản lý số độc lập và hoàn chỉnh.**
+Môi trường địa chính trị đặc thù của Đài Loan, trái lại, đã trở thành chất xúc tác cho đổi mới quản trị số. **Việc không thể dựa vào sự trợ giúp của các tổ chức quốc tế đã buộc Đài Loan phải tự lực cánh sinh, xây dựng nên một hệ thống quản trị số độc lập và hoàn chỉnh.**
 
-Sự "đổi mới bị ép buộc" này khiến Đài Loan trong các lĩnh vực chủ quyền số, an ninh dữ liệu, hệ thống tự chủ đều vươn tới đầu đợt thế giới.
+Kiểu "đổi mới bị dồn ép" này khiến Đài Loan, trong các lĩnh vực then chốt như chủ quyền số, an toàn dữ liệu, tính tự chủ của hệ thống, lại đi trước hàng đầu thế giới.
 
-### Mô hình hợp tác giữa công và tư do của Đài Loan
+### Mô hình hợp tác công tư của Đài Loan
 
-Chính phủ số của Đài Loan không phải là chính phủ đơn độc mà là kết quả của sự hợp tác giữa chính phủ, doanh nghiệp và xã hội dân sự:
+Chính phủ số của Đài Loan không phải là thành quả chính phủ đơn độc gánh vác, mà là kết quả hợp tác ba bên giữa chính phủ, doanh nghiệp và xã hội dân sự:
 
-**Chính phủ:** Cung cấp khung chính sách và hạ tầng
-**Doanh nghiệp:** Đóng góp công nghệ đổi mới và khả năng thực thi (TSMC, MediaTek...)
-**Dân cư:** Tham gia định nghĩa nhu cầu và tối ưu hoá dịch vụ (Cộng đồng g0v...)
+**Chính phủ:** cung cấp khung chính sách và hạ tầng cơ sở
+**Doanh nghiệp:** đóng góp năng lực đổi mới kỹ thuật và thực thi (các doanh nghiệp công nghệ như TSMC, MediaTek)
+**Công dân:** tham gia xác định nhu cầu và tối ưu hóa dịch vụ (cộng đồng g0v, v.v.)
 
-Mô hình "Ba xoáy chồng lên" này khiến chính phủ số của Đài Loan vừa có uy tác của chính phủ, vừa có hiệu quả của thị trường, và vừa có sự chấp nhận của xã hội.
+Mô hình "xoắn ba" này giúp quản trị số của Đài Loan vừa có tính chính danh của chính phủ, vừa có hiệu quả của thị trường, lại vừa có tính bao dung của xã hội.
 
-### Tài sản ẩn dụ văn hóa ngôn ngữ
+### Tài sản vô hình của ngôn ngữ và văn hóa
 
-Sự thiếu hụt của tiếng Trung đơn giản trong thế giới số, ngược lại, đã trở thành lợi thế cạnh tranh của Đài Loan. **Khi nội dung tiếng Trung đơn giản bị ảnh hưởng bởi môi trường chính trị, Đài Loan trở thành nhà cung cấp quan trọng nhất cho nội dung số tiếng Trung phát triển.**
+Sự khan hiếm của tiếng Trung phồn thể trong thế giới số, trái lại, đã trở thành lợi thế cạnh tranh của Đài Loan. **Khi nội dung tiếng Trung giản thể chịu ảnh hưởng bởi yếu tố địa chính trị, Đài Loan trở thành nhà cung cấp nội dung số tiếng Trung phồn thể quan trọng nhất.**
 
-Việc xây dựng cơ sở dữ liệu huấn luyện AI chủ quyền Đài Loan không chỉ là thành tựu công nghệ, mà còn là bố trí chiến lược của Đài Loan để duy trì chủ quyền văn hóa trong thế kỷ AI.
+Việc xây dựng kho ngữ liệu huấn luyện AI chủ quyền Đài Loan không chỉ là thành tựu kỹ thuật, mà còn là bố cục chiến lược để Đài Loan bảo vệ chủ quyền văn hóa trong thời đại AI.
 
-## Tầm nhìn tương lai: 30 năm tới
+## Tầm nhìn tương lai: 30 năm tiếp theo
 
-### Thách thức thứ nhất: Biên giới mới của quản lý AI
+### Thách thức một: biên cương mới của quản trị AI
 
-Tốc độ phát triển công nghệ AI nhanh chóng mang lại cơ hội và thách thức không thể có trước cho quản lý chính phủ. Đài Loan đang khám phá mô hình "quản lý hỗ trợ bởi AI" mới:
+Sự phát triển nhanh chóng của công nghệ AI mang lại cho quản trị chính phủ những cơ hội và thách thức chưa từng có. Đài Loan đang tìm tòi mô hình mới "quản trị có AI hỗ trợ":
 
-- Dịch vụ khách hàng thông minh: 24/7 dịch vụ người dân
-- Quản lý dự báo: Dùng dữ liệu lớn dự báo nhu cầu xã hội
-- Dịch vụ cá nhân hóa: Tùy chỉnh dịch vụ chính phủ theo nhu cầu người dân
+- Dịch vụ khách hàng thông minh: phục vụ người dân 24/7
+- Quản trị dự báo: dùng dữ liệu lớn để dự đoán trước nhu cầu xã hội
+- Dịch vụ cá nhân hóa: tùy biến dịch vụ chính phủ theo nhu cầu của người dân
 
-### Thách thức thứ hai: Đe dọa an ninh mạng
+### Thách thức hai: sự bình thường hóa của các mối đe dọa an ninh mạng
 
-Khi mức độ số hóa tăng lên, threat an ninh mạng cũng ngày càng nghiêm trọng. Các trang web chính phủ của Đài Loan hàng năm phải đối mặt với hàng triệu lần tấn công, việc thành lập Cơ quan An ninh thông tin là để đáp ứng thách thức này.
+Cùng với mức độ số hóa ngày càng tăng, mối đe dọa an ninh mạng cũng ngày càng nghiêm trọng. Trang web chính thức của Đài Loan mỗi năm phải đối mặt với hàng triệu lượt tấn công, việc thành lập Cục An ninh mạng chính là để ứng phó với thách thức này.
 
-### Thách thức thứ ba: Hoàn thiện khoảng cách số
+### Thách thức ba: san lấp khoảng cách số
 
-Mặc dù tỷ lệ số hóa của Đài Loan cao, vẫn tồn tại khoảng cách số giữa thành thị và nông thôn, giữa các thế hệ và giữa các tầng lớp thu nhập. Làm sao để mỗi công dân đều có thể hưởng lợi từ quản lý số, là đề tài quan trọng của tương lai.
+Dù mức độ số hóa tổng thể của Đài Loan khá cao, nhưng vẫn tồn tại khoảng cách số giữa thành thị và nông thôn, giữa các độ tuổi, giữa các mức thu nhập. Làm sao để mỗi người dân đều có thể hưởng lợi từ quản trị số, là bài toán quan trọng của tương lai.
 
-## Tầm quan trọng chiến lược của hệ sinh thái trang web chính phủ Đài Loan
+## Giá trị chiến lược của hệ sinh thái trang web chính thức Đài Loan
 
-### Thể hiện lực mềm qua số hóa
+### Sự thể hiện số hóa của sức mạnh mềm
 
-180+ trang web chính phủ cốt lõi này, tạo thành nền tảng thể hiện lực mềm của Đài Loan với thế giới:
+Hơn 180 trang web chính thức cốt lõi này tạo thành nền tảng quan trọng để Đài Loan phô diễn sức mạnh mềm với thế giới:
 
-**Lực mềm văn hóa:** Các cơ quan như Bảo tàng Hoàng gia, Bảo tàng Quốc gia Hà Nội... thể hiện sâu sắc nền văn hóa lịch sử của Đài Loan
-**Lực mềm công nghệ:** Bộ phát triển số, Bộ Khoa học và Công nghệ... thể hiện năng lực đổi mới
-**Lực mềm dân quyền:** Tổng thống, Hội đồng Giám sát... thể hiện tính minh bạch của chế độ dân chủ
+**Sức mạnh mềm văn hóa:** các tổ chức như Cố Cung, Bảo tàng Lịch sử Đài Loan thể hiện chiều sâu văn hóa của Đài Loan
+**Sức mạnh mềm công nghệ:** Bộ Phát triển số, Bộ Khoa học và Công nghệ thể hiện năng lượng đổi mới
+**Sức mạnh mềm dân chủ:** Viện Lập pháp, Viện Giám sát, v.v. thể hiện tính minh bạch của thể chế dân chủ
 
-### Cơ sở hạ tầng kinh tế qua số hóa
+### Hạ tầng số cho phát triển kinh tế
 
-Các trang web chính phủ không chỉ là thể hiện hình ảnh, mà còn là cơ sở hạ tầng kinh tế quan trọng:
+Trang web chính thức không chỉ để phô diễn hình ảnh, mà còn là hạ tầng quan trọng cho phát triển kinh tế:
 
-**Môi trường đầu tư:** Bộ Kinh tế, Cơ quan Đầu tư... cung cấp thông tin đầu tư toàn diện
-**Chính sách kinh tế:** Các bộ ngành... trở thành đường ống chính truyền thông chính sách
-**Thu hút tài năng:** Bộ Giáo dục, Bộ Khoa học và Công nghệ... thể hiện môi trường nghiên cứu khoa học
+**Môi trường đầu tư:** Bộ Kinh tế, Cục Đầu tư cung cấp thông tin đầu tư đầy đủ
+**Chính sách công nghiệp:** trang web của các bộ trở thành kênh chính để truyền đạt chính sách
+**Thu hút nhân tài:** Bộ Giáo dục, Bộ Khoa học và Công nghệ, v.v. thể hiện môi trường giáo dục và nghiên cứu của Đài Loan
 
-### Đường ống quan trọng cho tham gia quốc tế
+### Kênh quan trọng cho sự tham gia quốc tế
 
-Trong bối cảnh hạn chế tham gia quốc tế, các trang web chính phủ trở thành cầu nối quan trọng để Đài Loan giao tiếp với thế giới. Mỗi trang web tiếng Anh của các bộ ngành, đều là nền tảng phát tiếng nói của Đài Loan với cộng đồng quốc tế.
+Trong bối cảnh tham gia quốc tế bị hạn chế, trang web chính thức trở thành cầu nối quan trọng để Đài Loan giao tiếp với thế giới. Trang web tiếng Anh của mỗi bộ đều là nền tảng để Đài Loan cất tiếng nói với cộng đồng quốc tế.
 
-## Từ 25 trang web đến chủ quyền chính phủ mạnh mẽ: Bài học từ kinh nghiệm Đài Loan
+## Từ 25 trang web đến cường quốc số: bài học từ kinh nghiệm Đài Loan
 
-30 năm trước, 25 trang web chính phủ đầu tiên của Đài Loan đã khai phá thành công cuộc kỷ niệm chuyển đổi số. Ngày nay, hòn đảo này đã chứng minh đạt chuẩn chính phủ số cấp thế giới, xếp hạng 8 trong số các quốc gia có khả năng số hóa tốt nhất.
+30 năm trước, những trang web mà 25 cơ quan chính phủ xây dựng để tham gia một cuộc triển lãm quốc tế đã vô tình mở ra một kỷ nguyên mới cho quản trị số của Đài Loan. Hôm nay, hòn đảo nhỏ bé này sở hữu một hệ thống chính phủ số đẳng cấp thế giới, luôn đứng trong nhóm dẫn đầu các bảng xếp hạng năng lực cạnh tranh số toàn cầu.
 
-**Ba bài học chính từ kinh nghiệm Đài Loan:**
+**Ba bài học then chốt từ kinh nghiệm Đài Loan:**
 
-1. **Hiệu quả tăng trưởng của hành động sớm:** Bắt đầu từ năm 1996, lợi thế kinh nghiệm tích lũy 30 năm
-2. **Lộ trình phát triển từ từ tốt:** Từ thông tin đơn giản đến tích hợp dịch vụ phức tạp, tiến bộ từng bước
-3. **Mô hình đổi mới hợp tác giữa công và tư:** Tạo nên mô hình độc đáo của Đài Loan
+1. **Hiệu ứng lãi kép của hành động sớm:** khởi đầu dẫn trước từ năm 1996 đã tích lũy thành lợi thế kinh nghiệm suốt 30 năm
+2. **Lộ trình tiến hóa thực tế và tuần tự:** từ cung cấp thông tin đơn giản đến tích hợp dịch vụ phức tạp, từng bước vững chắc
+3. **Mô hình đổi mới mở và hợp tác:** chính phủ, doanh nghiệp, công dân hợp tác ba bên, tạo nên một mô hình Đài Loan độc đáo
 
-Khi các quốc gia khác còn lo lắng về quá trình chuyển đổi số, Đài Loan đã chứng minh: **một hòn đảo nhỏ có thể trở thành quốc gia chính phủ mạnh mẽ, yếu tố quan trọng không phải là nguồn lực, mà là thời gian bắt đầu sớm và độ sâu của việc thực thi.**
+Khi các nước trên thế giới vẫn còn lo lắng về chuyển đổi số, Đài Loan đã chứng minh: **một hòn đảo nhỏ cũng có thể trở thành cường quốc về quản trị số, mấu chốt không nằm ở nguồn lực nhiều hay ít, mà ở việc bắt đầu sớm hay muộn và độ sâu khi thực thi.**
 
-Danh sách các trang web chính phủ này, không chỉ là chỉ mục tài nguyên, mà còn là phản ánh sự kỷ niệm của Đài Loan. Mỗi trang web đều có một lượng cán bộ hành chính đang cố gắng nâng cao dịch vụ người dân; mỗi lần nhấp chuột là sự thể hiện của tiến bộ quản lý dân chủ của Đài Loan.
+Danh sách trang web chính thức này không chỉ là một chỉ mục tài nguyên, mà còn là bản thu nhỏ của kỳ tích số hóa Đài Loan. Đằng sau mỗi trang web là một nhóm công chức đang nỗ lực nâng cao dịch vụ cho người dân; đằng sau mỗi lượt nhấp chuột đều thể hiện bước tiến của nền quản trị dân chủ Đài Loan.
 
-Từ 25 trang web năm 1996 đến mô hình chính phủ mạnh mẽ năm 2026 — đây là câu chuyện Đài Loan viết nên cuộc kỷ niệm số bằng các trang web.
+Từ 25 trang web của năm 1996, đến hình mẫu chính phủ số của năm 2026 — đây chính là huyền thoại số mà Đài Loan đã viết nên bằng các trang web.
 
 ---
 
 ## Danh sách tài nguyên đầy đủ
 
-### 🏛️ Các cơ quan trung tâm chính phủ cốt lõi
+### 🏛️ Cơ quan trung ương cốt lõi của chính phủ
 
-**Hệ thống 5 ngành:**
+**Hệ thống 5 viện:**
 
-- [Tổng thống](https://www.president.gov.tw/) - Trung tâm quản trị hành chính cao nhất
-- [Văn phòng Thủ tướng](https://www.ey.gov.tw/) - Cơ quan hành chính cao nhất
-- [Quốc hội](https://www.ly.gov.tw/) - Cơ quan lập pháp cao nhất quốc gia
-- [Tòa án](https://www.judicial.gov.tw/) - Cơ quan tư pháp cao nhất
-- [Hội đồng Kỳ thi](https://www.exam.gov.tw/) - Cơ quan quản lý thi cử quốc gia
-- [Hội đồng Giám sát](https://www.cy.gov.tw/) - Cơ quan giám sát cao nhất
+- [Phủ Tổng thống](https://www.president.gov.tw/) - Trung tâm hành chính cao nhất của Trung Hoa Dân Quốc (Đài Loan)
+- [Viện Hành pháp](https://www.ey.gov.tw/) - Cơ quan hành chính cao nhất
+- [Viện Lập pháp](https://www.ly.gov.tw/) - Cơ quan lập pháp cao nhất quốc gia
+- [Viện Tư pháp](https://www.judicial.gov.tw/) - Cơ quan tư pháp cao nhất
+- [Viện Khảo thí](https://www.exam.gov.tw/) - Cơ quan thi cử cao nhất quốc gia
+- [Viện Giám sát](https://www.cy.gov.tw/) - Cơ quan giám sát cao nhất
 
-**16 bộ ngành:**
+**16 bộ:**
 
-- [Nội chính](https://www.moi.gov.tw/) - Hồ sơ, đất đai, xây dựng, phòng cháy chữa cháy
-- [Ngoại giao](https://www.mofa.gov.tw/) - Quan hệ ngoại giao, người Viên chứng, luật sĩ
-- [Quốc phòng](https://www.mnd.gov.tw/) - An ninh quốc gia, phòng thủ quân sự
-- [Tài chính](https://www.mof.gov.tw/) - Thuế, quỹ quốc gia, hải quan
-- [Giáo dục](https://www.edu.tw/) - Chính sách giáo dục, nghiên cứu khoa học
-- [Pháp luật](https://www.moj.gov.tw/) - Quản lý tư pháp, cải tạo, giám sát
-- [Kinh tế](https://www.moea.gov.tw/) - Công nghiệp, thương mại, năng lượng, thủy sinh
-- [Giao thông](https://www.motc.gov.tw/) - Công trình giao thông, quản lý vận tải
-- [Y tế và Lao động](https://www.mohw.gov.tw/) - Y tế, an sinh xã hội
-- [Môi trường](https://www.moenv.gov.tw/) - Bảo vệ môi trường, biến đổi khí hậu
-- [Văn hóa](https://www.moc.gov.tw/) - Văn hóa nghệ thuật, công nghiệp sáng tạo
-- [Công nghệ](https://www.most.gov.tw/) - Nghiên cứu công nghệ, phát triển khoa học
-- [Nông nghiệp](https://www.moa.gov.tw/) - Nông nghiệp, lâm nghiệp, hải sản
-- [Lao động](https://www.mol.gov.tw/) - Quyền lợi lao động, dịch vụ việc làm
-- [Số hóa](https://moda.gov.tw/) - Chính sách số, an ninh thông tin
-- [Phát triển quốc gia](https://www.ndc.gov.tw/) - Kế hoạch phát triển quốc gia
+- [Bộ Nội vụ](https://www.moi.gov.tw/) - Hộ tịch, địa chính, xây dựng, phòng cháy chữa cháy
+- [Bộ Ngoại giao](https://www.mofa.gov.tw/) - Quan hệ đối ngoại, kiều vụ, lãnh sự
+- [Bộ Quốc phòng](https://www.mnd.gov.tw/) - An ninh quốc gia, phòng vệ quân sự
+- [Bộ Tài chính](https://www.mof.gov.tw/) - Thuế vụ, ngân khố quốc gia, hải quan
+- [Bộ Giáo dục](https://www.edu.tw/) - Chính sách giáo dục, nghiên cứu học thuật
+- [Bộ Tư pháp](https://www.moj.gov.tw/) - Hành chính tư pháp, cải huấn, kiểm sát
+- [Bộ Kinh tế](https://www.moea.gov.tw/) - Công nghiệp, thương mại, năng lượng, thủy lợi
+- [Bộ Giao thông](https://www.motc.gov.tw/) - Xây dựng giao thông, quản lý vận tải
+- [Bộ Y tế và Phúc lợi](https://www.mohw.gov.tw/) - Y tế, phúc lợi xã hội
+- [Bộ Môi trường](https://www.moenv.gov.tw/) - Bảo vệ môi trường, biến đổi khí hậu
+- [Bộ Văn hóa](https://www.moc.gov.tw/) - Văn hóa nghệ thuật, công nghiệp sáng tạo văn hóa
+- [Bộ Khoa học và Công nghệ](https://www.most.gov.tw/) - Nghiên cứu phát triển khoa học công nghệ, phát triển học thuật
+- [Bộ Nông nghiệp](https://www.moa.gov.tw/) - Nông, lâm, ngư, mục, an toàn thực phẩm
+- [Bộ Lao động](https://www.mol.gov.tw/) - Quyền lợi người lao động, dịch vụ việc làm
+- [Bộ Phát triển số](https://moda.gov.tw/) - Chính sách số, an ninh mạng
+- [Hội đồng Phát triển Quốc gia](https://www.ndc.gov.tw/) - Quy hoạch phát triển quốc gia
 
-### 🏙️ Thành phố trực thuộc trung tâm và tỉnh thành (22 địa phương)
+### 🏙️ Chính quyền địa phương (22 huyện thị)
 
-**Sáu thành phố lớn:**
+**Sáu thành phố trực thuộc trung ương:**
 
-- [Chính phủ Thành phố Hà Nội](https://www.gov.taipei/) - Thủ đô thành phố
-- [Chính phủ Thành phố Thượng Bình](https://www.ntpc.gov.tw/) - Thành phố có dân số đa số nhất
-- [Chính phủ Thành phố Bắc Kinh](https://www.taoyuan.gov.tw/) - Nơi đứng trên sân bay quốc tế
-- [Chính phủ Thành phố Tây Ninh](https://www.taichung.gov.tw/) - Trung tâm kinh tế - văn hóa miền trung
-- [Chính phủ Thành phố Nam Chi](https://www.tainan.gov.tw/) - Thành phố lịch sử văn hóa
-- [Chính phủ Thành phố Hạ Chí](https://www.kcg.gov.tw/) - Thành phố lớn nhất nam bộ
+- [Chính quyền Thành phố Đài Bắc](https://www.gov.taipei/) - Thị chính thủ đô
+- [Chính quyền Thành phố Tân Bắc](https://www.ntpc.gov.tw/) - Thành phố trực thuộc trung ương đông dân nhất
+- [Chính quyền Thành phố Đào Viên](https://www.taoyuan.gov.tw/) - Nơi tọa lạc sân bay quốc tế
+- [Chính quyền Thành phố Đài Trung](https://www.taichung.gov.tw/) - Trung tâm chính trị - kinh tế miền Trung Đài Loan
+- [Chính quyền Thành phố Đài Nam](https://www.tainan.gov.tw/) - Cố đô lịch sử văn hóa
+- [Chính quyền Thành phố Cao Hùng](https://www.kcg.gov.tw/) - Đô thị lớn nhất miền Nam Đài Loan
 
-### 🎓 Các trường đại học và cơ quan nghiên cứu xuất sắc
+### 🎓 Các đại học và viện nghiên cứu hàng đầu
 
-- [Đại học Quốc gia Hà Nội](https://www.ntu.edu.tw/) - Trường đại học hàng đầu quốc gia
-- [Đại học Triều Khí](https://www.nthu.edu.tw/) - Trung tâm công nghệ và khoa học
-- [Đại học Dầu khí và Công nghiệp Hà Nội](https://www.nycu.edu.tw/) - Khoa học và công nghệ song song
-- [Đại học Kinh tế Quốc gia](https://www.ncku.edu.tw/) - Trung tâm kinh tế nam bộ
-- [Viện Nghiên cứu Khoa học Quốc gia](https://www.sinica.edu.tw/) - Cơ quan nghiên cứu khoa học cao nhất quốc gia
+- [Đại học Quốc gia Đài Loan](https://www.ntu.edu.tw/) - Học phủ cao nhất của Đài Loan
+- [Đại học Quốc gia Thanh Hoa](https://www.nthu.edu.tw/) - Trọng điểm khoa học kỹ thuật và công nghệ
+- [Đại học Quốc gia Dương Minh Giao Thông](https://www.nycu.edu.tw/) - Coi trọng cả y học lẫn công nghệ
+- [Đại học Quốc gia Thành Công](https://www.ncku.edu.tw/) - Trọng điểm học thuật miền Nam Đài Loan
+- [Viện Nghiên cứu Trung ương](https://www.sinica.edu.tw/) - Cơ quan nghiên cứu học thuật cao nhất quốc gia
 
-### 🌲 Các khu dự trữ quốc gia và khu bảo tồn tự nhiên
+### 🌲 Công viên quốc gia và khu bảo tồn thiên nhiên
 
-- [Khu dự trữ quốc gia Sơn Thuây](https://www.ysnp.gov.tw/) - Đỉnh cao nhất châu Á
-- [Khu dự trữ quốc gia Đại Lịch](https://www.taroko.gov.tw/) - Vườn đá vôi hùng vĩ
-- [Khu dự trữ quốc gia Hạ Long](https://www.ktnp.gov.tw/) - Văn hóa thiên nhiên hùng vĩ miền đông
+- [Công viên Quốc gia Ngọc Sơn](https://www.ysnp.gov.tw/) - Đỉnh núi cao nhất Đông Bắc Á
+- [Công viên Quốc gia Taroko](https://www.taroko.gov.tw/) - Kỳ quan hẻm núi đá cẩm thạch
+- [Công viên Quốc gia Kenting](https://www.ktnp.gov.tw/) - Phong tình nhiệt đới nơi cực Nam Đài Loan
 
-### 🎭 Các cơ sở văn hóa nghệ thuật
+### 🎭 Cơ sở văn hóa nghệ thuật
 
-- [Bảo tàng Hoàng gia](https://www.npm.gov.tw/) - Trung tâm lưu trữ văn hóa Trung Hoa
-- [Bảo tàng Quốc gia Hà Nội](https://www.ntm.gov.tw/) - Triển lãm lịch sử tự nhiên
-- [Hội đồng Nghệ thuật Quốc gia](https://www.npac-ntch.org/) - Nhà hát nghệ thuật
+- [Bảo tàng Cố Cung Quốc gia](https://www.npm.gov.tw/) - Trọng điểm lưu trữ văn vật Trung Hoa
+- [Bảo tàng Đài Loan Quốc lập](https://www.ntm.gov.tw/) - Trưng bày lịch sử tự nhiên Đài Loan
+- [Nhà hát Quốc gia và Phòng Hòa nhạc Quốc gia](https://www.npac-ntch.org/) - Điện đường nghệ thuật biểu diễn
 
 ### 🚄 Dịch vụ giao thông vận tải
 
-- [Cơ quan quản lý đường sắt Hà Nội](https://www.railway.gov.tw/) - Hệ thống đường sắt quốc gia
-- [Đường sắt tốc tốc Hà Nội](https://www.thsrc.com.tw/) - Vận tải nhanh chóng bán kính
-- [Xe khách Hà Nội tốt](https://www.taiwantrip.com.tw/) - Xe khách đưa đón tham quan
+- [Đường sắt Đài Loan](https://www.railway.gov.tw/) - Hệ thống đường sắt vòng quanh đảo
+- [Đường sắt cao tốc Đài Loan](https://www.thsrc.com.tw/) - Vận tải nhanh hành lang phía Tây
+- [Xe buýt Du lịch Đài Loan (Taiwan Tourist Shuttle)](https://www.taiwantrip.com.tw/) - Xe buýt trung chuyển điểm tham quan
 
-### 🏥 Cơ quan y tế và an sinh xã hội
+### 🏥 Cơ sở y tế và chăm sóc sức khỏe
 
-- [Cơ quan Kiểm soát bệnh](https://www.cdc.gov.tw/) - Chống dịch bệnh chuyên môn
-- [Cơ quan Bảo hiểm y tế Quốc gia](https://www.nhi.gov.tw/) - Quản lý bảo hiểm y tế toàn dân
+- [Cục Kiểm soát Bệnh tật](https://www.cdc.gov.tw/) - Cơ quan chuyên trách phòng chống bệnh truyền nhiễm
+- [Cục Bảo hiểm Y tế Toàn dân](https://www.nhi.gov.tw/) - Cơ quan quản lý bảo hiểm y tế toàn dân
 
 ### 📊 Dữ liệu mở và phát triển AI
 
-- [Nền tảng mở dữ liệu chính phủ](https://data.gov.tw/) - Cổng dữ liệu mở quốc gia
-- [Cơ sở dữ liệu huấn luyện AI chủ quyền Đài Loan (TAIC)](https://taic.moda.gov.tw/) - Cơ sở dữ liệu ngôn ngữ tiếng Trung
+- [Nền tảng Dữ liệu Mở Chính phủ](https://data.gov.tw/) - Cổng dữ liệu mở thống nhất toàn quốc
+- [Kho ngữ liệu huấn luyện AI chủ quyền Đài Loan (TAIC)](https://taic.moda.gov.tw/) - Kho ngữ liệu AI tiếng Trung phồn thể
 
-### 📰 Truyền hình chính phủ
+### 📰 Truyền thông chính thức
 
-- [Agence de Presse Nhân dân](https://www.cna.com.tw/) - Agence de Presse Nhân dân
-- [Truyền hình Công cộng](https://www.pts.org.tw/) - Dịch vụ truyền hình công cộng
+- [Thông tấn xã Trung ương](https://www.cna.com.tw/) - Hãng thông tấn quốc gia
+- [Đài Truyền hình Công cộng](https://www.pts.org.tw/) - Dịch vụ truyền thông công cộng
 
 ---
 
 ## Tài liệu tham khảo
 
-- [Bộ phát triển số - Chiến lược phát triển chính phủ thông minh](https://moda.gov.tw/digital-affairs/digital-service/operations/120)
-- [iThome - Phát biểu về hiệu quả chuyển đổi điện tử trong 10 năm](https://www.ithome.com.tw/news/103200)
-- [Trung tâm Nghiên cứu Quản lý Số - Di chúc lịch sử chính phủ điện tử](https://www.teg.org.tw/event/History)
-- [Văn phòng Thủ tướng - Kế hoạch thúc đẩy chính phủ thông minh 2.0](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/99b1bd4e-c4e2-479f-abaf-81306bcd0a3d)
-- [Bộ phát triển số - Báo cáo khảo sát sử dụng số trong năm 114](https://moda.gov.tw/digital-affairs/digital-service/dv-survey/18672)
+- [數位發展部 - 智慧政府發展策略](https://moda.gov.tw/digital-affairs/digital-service/operations/120)
+- [iThome - 回顧電子化政府十年成效](https://www.ithome.com.tw/news/103200)
+- [數位治理研究中心 - 數位化政府大事紀](https://www.teg.org.tw/event/History)
+- [行政院 - 服務型智慧政府2.0推動計畫](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/99b1bd4e-c4e2-479f-abaf-81306bcd0a3d)
+- [數位發展部 - 114年數位近用調查報告](https://moda.gov.tw/digital-affairs/digital-service/dv-survey/18672)
