@@ -334,3 +334,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-29 | 005057-twmd-babel-nightly | 十二語仍 100%，夜班驗收 319 份譯文：過閘但警告裡 71 條死連結，造照 zh 同位置找回條目的工具，修 48 條；存量 813 條／255 檔待拍板 | exit 0 底下的警告要讀完；翻壞的 slug 靠 zh 同位置連結找得回 | [→](memory/2026-09-29-005057-twmd-babel-nightly.md) |
 | 2026-09-29 | 053859-twmd-routine-sync | 第 62 輪：十八條三層零漂移；鏡像齡 23.5 小時，照前例用 list_scheduled_tasks 逐條補驗 cron／enabled 零差（14 開 4 關） | 鏡像由 06:00 寫、本班 05:30 讀，順序固定讓它每天必舊 | [→](memory/2026-09-29-053859-twmd-routine-sync.md) |
 | 2026-09-29 | 055718-twmd-embeddings-nightly | 13 語 14,469 向量 0 fail，verify PASS，`41cf6fcff`；373 篇換鄰居（vi 202）；pipeline Stage 3 改路徑式 commit（v1.4） | 傳兩班的交接其實當班動得了，就直接改 | [→](memory/2026-09-29-055718-twmd-embeddings-nightly.md) |
+| 2026-09-29 | 060812-twmd-data-refresh-am | 14 步全綠零過期；404 unknown 56% 但榜首是用語庫沒有的「變壓器」（讀者 18 次），探路名條件不成立，交 10-05 用語月報 | 同一格 unknown 混著讀者需求與掃描噪音；路徑清單寫檔再展開，不靠 shell 陣列 | [→](memory/2026-09-29-060812-twmd-data-refresh-am.md) |
