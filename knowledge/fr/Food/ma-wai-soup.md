@@ -66,7 +66,7 @@ Dans les fiches de culture des stations d'amélioration agricole, le jute à cap
 
 ## De la table familiale aux stands touristiques
 
-En 2018, l'Exposition florale mondiale de Taichung a planté un nouveau champ de jute dans sa « zone de vie rurale de Satoyama », présentant le ma wai comme légume sauvage représentatif du centre de Taïwan[^9]. Le riz cantonais d'antan du deuxième marché, la glace au ma wai de la vieille rue de Nautun, les biscuits et les nouilles de riz au ma wai à côté du musée — ces dernières années, le ma wai est passé d'un plat familial à un symbole touristique[^4][^5][^15].
+En 2018, l'Exposition florale mondiale de Taichung a planté un nouveau champ de jute dans sa « zone de vie rurale de Satoyama », présentant le ma wai comme légume sauvage représentatif du centre de Taïwan[^9]. Le riz à l'ancienne du deuxième marché, la glace au ma wai de la vieille rue de Nautun, les biscuits et les nouilles de riz au ma wai à côté du musée — ces dernières années, le ma wai est passé d'un plat familial à un symbole touristique[^4][^5][^15].
 
 Mais les anciens habitants de Taichung sont un peu sur leurs gardes. Remplacer la patate douce par du lait de coco, les petits poissons séchés par du tofu, certains commerçant proposant même un « matcha latte au ma wai » — quand le « amer » de la recette traditionnelle est recouvert couche après couche de sucre, reste-t-il encore de la soupe de ma wai ? Ce débat sur « faut-il assaisonner pour les touristes » n'a pas encore trouvé de conclusion[^3][^4][^10].
 
@@ -79,7 +79,7 @@ La soupe de ma wai n'est pas jolie, ne fait pas bonne figure en photo, ne se gli
 
 Mais elle se souvient d'une chose : il fut un temps où Taïwan était une île qui cultivait le jute, l'écorçait, tissait des sacs pour emballer le riz et l'envoyer au Japon. Quand cette chaîne d'approvisionnement s'est rompue et que les champs ont été convertis à d'autres cultures, ce qui est resté n'est ni une usine ni une statue, mais la poignée de jeunes feuilles que la mère fermière ne pouvait se résoudre à jeter.
 
-La prochaine fois que vous irez à Taichung, trouvez un stand de riz cantonais et commandez un bol de soupe de ma wai. Ne vous précipitez pas pour finir, attendez que la douceur remonte du fond de votre gorge. C'est le son d'une industrie qui a coulé et d'une saveur qui est restée.
+La prochaine fois que vous irez à Taichung, trouvez un stand de riz à l'ancienne et commandez un bol de soupe de ma wai. Ne vous précipitez pas pour finir, attendez que la douceur remonte du fond de votre gorge. C'est le son d'une industrie qui a coulé et d'une saveur qui est restée.
 
 ## Pour aller plus loin
 
