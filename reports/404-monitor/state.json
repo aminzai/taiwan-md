@@ -4354,7 +4354,74 @@
           "empty": 0
         }
       }
+    },
+    {
+      "date": "2026-09-27",
+      "total_404": 3899,
+      "truncated": false,
+      "families": {
+        "probe-wellknown": {
+          "count": 100,
+          "bot": 2,
+          "browser": 98,
+          "empty": 0
+        },
+        "scanner": {
+          "count": 554,
+          "bot": 25,
+          "browser": 314,
+          "empty": 215
+        },
+        "unknown": {
+          "count": 2192,
+          "bot": 1616,
+          "browser": 572,
+          "empty": 4
+        },
+        "md-extension": {
+          "count": 289,
+          "bot": 234,
+          "browser": 55,
+          "empty": 0
+        },
+        "bad-encoding": {
+          "count": 57,
+          "bot": 38,
+          "browser": 19,
+          "empty": 0
+        },
+        "slug-variant": {
+          "count": 620,
+          "bot": 618,
+          "browser": 2,
+          "empty": 0
+        },
+        "missing-asset": {
+          "count": 69,
+          "bot": 28,
+          "browser": 41,
+          "empty": 0
+        },
+        "renamed-or-truncated": {
+          "count": 15,
+          "bot": 13,
+          "browser": 2,
+          "empty": 0
+        },
+        "untranslated-demand": {
+          "count": 2,
+          "bot": 2,
+          "browser": 0,
+          "empty": 0
+        },
+        "phantom": {
+          "count": 1,
+          "bot": 1,
+          "browser": 0,
+          "empty": 0
+        }
+      }
     }
   ],
-  "updated": "2026-09-27T22:07:43.217324+00:00"
+  "updated": "2026-09-28T22:03:52.649181+00:00"
 }

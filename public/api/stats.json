@@ -2,7 +2,7 @@
   "totalArticles": 14612,
   "totalCategories": 27,
   "estimatedContributors": 76,
-  "totalTags": 9153,
+  "totalTags": 9149,
   "categories": [
     {
       "name": "vi",
@@ -199,9 +199,9 @@
     "zh-TW": 14612,
     "en": 0
   },
-  "lastUpdated": "2026-09-27T22:06:09.057Z",
+  "lastUpdated": "2026-09-28T22:05:56.160Z",
   "stars": 1191,
-  "forks": 187,
+  "forks": 188,
   "zhPages": 1122,
   "languagePages": {
     "zh-TW": 1122,

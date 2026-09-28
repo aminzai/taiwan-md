@@ -15913,7 +15913,7 @@
     "region": "north",
     "link": "/ja/lifestyle/nightlife-and-ktv-culture",
     "lang": "ja",
-    "desc": "銭筒（チャイニーズ・タイペイ）の個室から深夜食堂まで、24時間眠らない島の夜の営み",
+    "desc": "銭櫃の個室から深夜食堂まで、24時間眠らない島の夜の営み",
     "city": "台北"
   },
   {
@@ -21065,14 +21065,14 @@
     "city": "南投"
   },
   {
-    "title": "Taipé Chinesa: Quase Capital em 1887, Tornou-se a Segunda Grande Cidade Metropolitana em 2010",
+    "title": "Taichung: Quase Capital em 1887, Tornou-se a Segunda Grande Cidade Metropolitana em 2010",
     "lat": 24.145069,
     "lng": 120.679756,
     "category": "geography",
     "region": "central",
     "link": "/geography/taichung-city",
     "lang": "zh-TW",
-    "desc": "Em 1887, Liu Ming-chuan propôs o estabelecimento de uma província com sua capital em Qiaozitou (atual Taipé), planejando uma cidade octogonal. A construção começou em 1889. Em 1º de outubro de 1920, o governo japonês estabeleceu a jurisdição de Taipé Chinesa. Em 1º de dezembro de 2010, ela foi elevada a cidade metropolitana com 29 distritos.",
+    "desc": "Em 1887, Liu Ming-chuan propôs o estabelecimento de uma província com sua capital em Qiaozitou (atual Taipé), planejando uma cidade octogonal. A construção começou em 1889. Em 1º de outubro de 1920, o governo japonês estabeleceu a jurisdição de Taichung. Em 1º de dezembro de 2010, ela foi elevada a cidade metropolitana com 29 distritos.",
     "city": "台中"
   },
   {
@@ -21747,6 +21747,17 @@
     "city": "宜蘭"
   },
   {
+    "title": "Túi kaji: từ con lăn đá ở Hậu Bích đến Paris, một chiếc túi xách bình dân được thế giới nhận ra như thế nào",
+    "lat": 22.998409,
+    "lng": 120.22763,
+    "category": "culture",
+    "region": "south",
+    "link": "/culture/kaji-bag",
+    "lang": "zh-TW",
+    "desc": "500 phần quà túi kaji tại Olympic Văn hóa Paris 2024 đã được phát hết trong vòng một giờ. Nó khởi đầu từ cỏ lác và con lăn đá ở Hậu Bích, Đài Nam, rồi trải qua vải lưới nylon và sự chuyển dịch thiết kế; điều thực sự được đưa lên sân khấu quốc tế không phải là nỗi hoài niệm đã bị tẩy trắng, mà là một đoạn lao động bình dân vẫn còn có thể nhận ra được.",
+    "city": "台南"
+  },
+  {
     "title": "Cảng Cao Hùng: Một cảng biển đã kết nối Đả Cẩu, Hamaxi và thành phố công nghiệp như thế nào",
     "lat": 22.616567,
     "lng": 120.286168,
@@ -21780,6 +21791,17 @@
     "city": "台北"
   },
   {
+    "title": "Thân nhiệt lúc năm giờ sáng: Chuỗi cung ứng và độ tươi của canh bò Đài Nam",
+    "lat": 23.000328,
+    "lng": 120.22676,
+    "category": "food",
+    "region": "south",
+    "link": "/food/beef-soup",
+    "lang": "zh-TW",
+    "desc": "Canh bò Đài Nam trở thành \"món ăn đại diện\" chưa đầy hai mươi năm, nhưng lý do khiến nó đáng để xếp hàng từ năm giờ sáng lại là điều có thật — bò thân nhiệt từ lò mổ Thiện Hóa, chuỗi lạnh hoàn tất trong vài giờ, và nồi nước dùng xương bò đã sôi từ tinh mơ.",
+    "city": "台南"
+  },
+  {
     "title": "Hộp cơm Chishang: Từ hộp gỗ mỏng trên sân ga đến biểu tượng của cơm ngon toàn Đài Loan",
     "lat": 23.128699,
     "lng": 121.221973,
@@ -21800,6 +21822,17 @@
     "lang": "zh-TW",
     "desc": "Năm 1952, Hồ Quyền (Hú Quán) thiết lập nhà máy rượu tại Kinmen chiến trường, khiến ngô cứng chịu hạn hán thay thế cho gạo và rượu được vận chuyển; năm 1977, chính sách xuất khẩu mở thị trường; sau khi chiến trường quân sự kết thúc năm 1992, hàng cấp tiến trở thành nguồn thu của hầu đồng và cuộc sống hàng ngày của người dân Kinmen. Lịch sử của chai rượu này không chỉ nói về hương vị mà còn về cách một nơi biến các chế độ quân sự lại thành ký ức cuộc sống của chính mình.",
     "city": "金門"
+  },
+  {
+    "title": "Không phải do Trịnh Thành Công mang đến: Lịch sử 400 năm nuôi trồng cá măng sữa",
+    "lat": 22.999993,
+    "lng": 120.224367,
+    "category": "food",
+    "region": "south",
+    "link": "/food/milkfish-congee",
+    "lang": "zh-TW",
+    "desc": "Người Đài Nam gọi cá măng sữa là \"cá nhà\", nhưng nguồn gốc của nó là kỹ thuật nuôi trồng được Công ty Đông Ấn Hà Lan mang từ Indonesia, xuất hiện sớm hơn 37 năm so với Trịnh Thành Công đến Đài Loan năm 1661. Diện tích 4.500 hecta cánh đồng cá và hơn 7 cách chế biến cho một con cá là những di tích sống động của 400 năm lịch sử nuôi trồng này.",
+    "city": "台南"
   },
   {
     "title": "Bánh sứa (鳳梨酥): Từ bánh điểm tâm tiếp khách bầu cử đến \"viên gạch vàng\" của Đài Loan với doanh thu năm 250 tỷ",
