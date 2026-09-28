@@ -42,7 +42,7 @@ Vào năm 1950, giá trị thạch sích trên toàn huyện Đài Bắc chiếm
 
 ### Công nghệ dầm nông nghiệp cổ xưa hơn Wikipedia
 
-Lịch sử thạch sích xa hơn so với tưởng tượng. Ghi chép sớu nhất về thạch sích ở Đài Bắc xuất hiện trong bản "Thư viện tỉnh Đài Loan" của triềnh đình Qing năm kỷ 35 (1696): "Đài Bắc có... thạch sích lớn 2 con, thạch sích nhỏ 20 con..." Đến năm kỷ 19 của triềnh đình Gia Thịnh (1893), bản "Thư viện tỉnh Đài Bắc" ghi lại đã tăng lên "thạch sích lớn 2 con, thạch sích nhỏ 76 con một nửa".
+Lịch sử thạch sích xa hơn so với tưởng tượng. Ghi chép sớu nhất về thạch sích ở Đài Bắc xuất hiện trong bản "Đài Loan phủ chí" của triềnh đình Qing năm kỷ 35 (1696): "Đài Bắc có... thạch sích lớn 2 con, thạch sích nhỏ 20 con..." Đến năm kỷ 19 của triềnh đình Gia Thịnh (1893), bản "Thư viện tỉnh Đài Bắc" ghi lại đã tăng lên "thạch sích lớn 2 con, thạch sích nhỏ 76 con một nửa".
 
 "Một nửa con" là gì? Các tài liệu lịch sử không giải thích rõ, nhưng từ khảo sát thực địa suy đoán, có thể là do một số thạch sích bị thiệt hại do bão hay sóng gió, chỉ còn một nửa chức năng.
 

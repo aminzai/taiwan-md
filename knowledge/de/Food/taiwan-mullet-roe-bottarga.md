@@ -34,7 +34,7 @@ Vor und um die Wintersonnenwende entbluten die Verarbeiter in Kouhu, Yunlin, den
 
 ## Ein Brief vom Meer vor und um die Wintersonnenwende
 
-Der offizielle chinesische wissenschaftliche Name des Wurmfisches ist _Siganus_, im Volksmund wird er als Wurmfisch bezeichnet. Die Staatskulturgedächtnisbank zitiert das _Taiwan Fu Zhi_ (Chronik der Provinz Taiwan), welches feststellt, dass die „richtigen Köpfe“ (正頭烏) vor der Wintersonnenwende fetter und die „zurückkehrenden Köpfe“ (回頭烏) danach schlanker sind. Dieser Fisch hat die Zeitplanung des Meeres schon lange auf den Tisch und in das Einkommen der Küstenbewohner gebracht.[^2]
+Der offizielle chinesische wissenschaftliche Name des Wurmfisches ist _Siganus_, im Volksmund wird er als Wurmfisch bezeichnet. Die Staatskulturgedächtnisbank zitiert das _Taiwan Fu Zhi_ (Chronik der Präfektur Taiwan), welches feststellt, dass die „richtigen Köpfe“ (正頭烏) vor der Wintersonnenwende fetter und die „zurückkehrenden Köpfe“ (回頭烏) danach schlanker sind. Dieser Fisch hat die Zeitplanung des Meeres schon lange auf den Tisch und in das Einkommen der Küstenbewohner gebracht.[^2]
 
 Es gibt Aufzeichnungen über Wurmfischfang noch vor der niederländischen Herrschaft, und während dieser Zeit mussten Fangschiffe aus Taiwan eine Wurmfischsteuer entrichten. Die Wurmfischrogen wurden nicht erst später als Souvenir verpackt, sondern sind eine Konservierungsmethode, die die kurze Fischsaison bis zum Fest verlängert.[^2]
 

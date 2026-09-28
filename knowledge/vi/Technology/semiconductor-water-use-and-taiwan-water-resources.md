@@ -75,7 +75,7 @@ Hạn hán 2021 tại Đài Loan khiến vấn đề này trở nên cụ thể.
 
 ![Sau cơn bão Mơ Rôk 2009, một làng ở Gia Nghi (嘉義), xã Minh Hương bị ngập nước, con đường và nhà ở tầng mặt đất bị che khuất bởi đất lầm, người dân qua lại trên vùng này](/article-images/nature/morakot-minxiong-flood-2009.webp)
 
-_Sau bão Mơ Rôk 2009 tại Gia Nghi (Minh Hương), tỉnh Đài Loan. Vấn đề nước ở Đài Loan không chỉ thiếu nguồn, mà còn bao gồm sự tập trung mưa, sự kiện cực đoan và khả năng chịu đựng của hệ thống điều hành. Nguồn ảnh: zilupe. Giấy phép CC BY 2.0 qua Wikimedia Commons._
+_Sau bão Mơ Rôk 2009 tại Chiayi (Dân Hùng). Vấn đề nước ở Đài Loan không chỉ thiếu nguồn, mà còn bao gồm sự tập trung mưa, sự kiện cực đoan và khả năng chịu đựng của hệ thống điều hành. Nguồn ảnh: zilupe. Giấy phép CC BY 2.0 qua Wikimedia Commons._
 
 Không cần viết câu chuyện làm "dân nông đấu tranh với TSMC". Cách giả định đó quá đơn giản.
 
@@ -179,7 +179,7 @@ Nó đứng bên hồ bơ, đứng trong lưu vực sông ngòi, đứng trên �
 ## Nguồn ảnh
 
 - **TSMC Fab 18 và đồng bằng tại Khoa học Nam Tainan (hero / inline)**: [Tập đoàn TSMC tại khu công nghệ cao Nam, khu vực Tainan, nhà máy bán dẫn Fab 18 và đồng bằng tháng 5 năm 2025](https://commons.wikimedia.org/wiki/File:TSMC_Fab_18_and_fields_May_2025.jpg) — Nguồn ảnh: 4300streetcar, Wikimedia Commons, giấy phép CC BY 4.0. Bài viết sử dụng phiên bản đã lưu trong `public/article-images/technology/tainan-science-park-tsmc-fab18-fields-2025.webp`.
-- **Đỡ bão Mơ Rôk 2009 và sự ngập lũ ở Gia Nghi (Minh Hương)**: [2009-08-09 tại một làng sau cơn bão Mơ Rôk, ở Gia Nghi, tỉnh Đài Loan](https://commons.wikimedia.org/wiki/File:2009-08-09_at_a_village_under_the_Typhoon_Morakot,_in_Minxiong,_Chiayi.jpg) — Nguồn ảnh: zilupe, Wikimedia Commons, giấy phép CC BY 2.0. Bài viết sử dụng phiên bản đã lưu trong `public/article-images/nature/morakot-minxiong-flood-2009.webp`.
+- **Đỡ bão Mơ Rôk 2009 và sự ngập lũ ở Gia Nghi (Minh Hương)**: [2009-08-09 tại một làng sau cơn bão Mơ Rôk, ở Chiayi](https://commons.wikimedia.org/wiki/File:2009-08-09_at_a_village_under_the_Typhoon_Morakot,_in_Minxiong,_Chiayi.jpg) — Nguồn ảnh: zilupe, Wikimedia Commons, giấy phép CC BY 2.0. Bài viết sử dụng phiên bản đã lưu trong `public/article-images/nature/morakot-minxiong-flood-2009.webp`.
 - **Biểu đồ vòng tuần hoàn nước tái sinh và sản xuất bán dẫn**: Biểu đồ SVG do các người đóng góp Taiwan.md tự tạo, giấy phép CC BY-SA 4.0, lưu trữ tại `public/article-images/technology/reclaimed-water-semiconductor-loop.svg`. Dùng để minh họa mối quan hệ giữa hồ bơ, sông ngòi, nhà máy tái sinh, nhà máy bán dẫn và quản trị địa phương, không phải bản đồ kỹ thuật cụ thể.
 
 ## Tài liệu tham khảo
