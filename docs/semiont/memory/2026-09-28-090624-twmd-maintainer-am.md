@@ -55,13 +55,15 @@
 
 ## 收官 checklist
 
-| 檢查項                       | 狀態                                         |
-| ---------------------------- | -------------------------------------------- |
-| MEMORY 有這次 session 的紀錄 | ✅                                           |
-| Timestamp 精確               | ✅（`git log %ai`）                          |
-| Handoff 三態已審視           | ✅                                           |
-| CONSCIOUSNESS 反映最新狀態   | ✅（derived 層，本班無器官分數變動）         |
-| 自我檢查工具 PASS            | ✅ pytest 670 passed / pre-commit hooks 全過 |
+| 檢查項                       | 狀態                                                                                                                            |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| MEMORY 有這次 session 的紀錄 | ✅                                                                                                                              |
+| Timestamp 精確               | ✅（`git log %ai`）                                                                                                             |
+| Handoff 三態已審視           | ✅                                                                                                                              |
+| CONSCIOUSNESS 反映最新狀態   | ✅（derived 層，本班無器官分數變動）                                                                                            |
+| 自我檢查工具 PASS            | ✅ pytest 670 passed / pre-commit hooks 全過                                                                                    |
+| diary                        | ⏭️ skip — 本班反芻收斂到既有的 REFLEXES #82 替身家族，再寫一篇是 N+1 邊際資訊量 0（#64／#74）；思考已落在兩條 LESSONS 與 Beat 5 |
+| evolve                       | ⏭️ skip — 兩個修補都已當班落地並附測試，無待 propose 的結構改動                                                                 |
 
 ### Quality gate 七條（＋分岔）
 
