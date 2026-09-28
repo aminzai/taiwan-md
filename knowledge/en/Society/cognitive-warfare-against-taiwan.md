@@ -229,18 +229,18 @@ The ultimate battlefield of cognitive warfare is **trust relationships themselve
 
 ## Further Reading
 
-- [The Mountain Makers: A Century’s Bet](/art/the-mountain-makers-a-centurys-bet) — Hsiao Ju-chen’s 2025 documentary, five years of interviews with 80+ semiconductor pioneers, entering three CHIPS Act investment hubs in 2026: Purdue, Wisconsin, Michigan
+- [The Mountain Makers: A Century’s Bet](/en/art/mountain-makers-tsmc-documentary) — Hsiao Ju-chen’s 2025 documentary, five years of interviews with 80+ semiconductor pioneers, entering three CHIPS Act investment hubs in 2026: Purdue, Wisconsin, Michigan
 
 - [Threads in Taiwan](/en/technology/threads-in-taiwan) — Taiwan’s social media migration history and the platform structure of the information battlefield
-- [Miin](/technology/miin) — Du Yi-jin and Taiwan’s AI Lab’s anti-disinformation platform, using AI to catch coordinated operation accounts (not checking content item by item)
+- [Miin](/en/technology/miin-music-app) — Du Yi-jin and Taiwan’s AI Lab’s anti-disinformation platform, using AI to catch coordinated operation accounts (not checking content item by item)
 - [Open Culture Foundation](/en/technology/open-culture-foundation) — The backend organization hosting Cofacts’ verification bot, guarding Taiwan’s internet freedom
-- [History of Taiwan’s Online Community Migration](/technology/history-of-taiwans-online-community-migration) — Understanding the role of platforms like PTT, Dcard, and Threads in cognitive warfare
-- [Taiwan Media and Press Freedom](/society/taiwan-media-and-press-freedom) — News ecology and platform responsibility in cognitive warfare
-- [Shen Pei-yang](/people/shen-pei-yang) — One of the main researchers on cognitive warfare; in 2025, became the first Taiwanese elected official investigated by China for the "crime of splitting the country"
-- [Black Bear Academy](/society/black-bear-academy) — A civil organization putting cognitive warfare recognition into basic civil defense camps, teaching ordinary people to maintain judgment amidst disinformation and psychological warfare
-- [Toxic Potatoes: Beyond 200 ppm, There Are 30 ppm, 14 Days, and a 15-Year Food Safety Scar](/society/toxic-potatoes-cognitive-warfare) — Anatomy of how the 2026-04 Taiwan Affairs Office "letter of allegiance" narrative precisely stepped on the 15-year food safety scar since the 2011 melamine scandal
-- [Taiwan and Eswatini](/society/taiwan-and-eswatini) — Concrete scenarios of Chinese language operations like "rat," "stowaway-style diplomatic breakthrough," "international laughingstock": Lai Ching-te’s reaction during the 2026-05 visit to Eswatini
-- [Taiwan and Paraguay](/society/taiwan-and-paraguay) — How Taiwan uses long-term cooperation to withstand Chinese market temptation and political lobbying, supporting the only diplomatic ally in South America
+- [History of Taiwan’s Online Community Migration](/en/technology/taiwan-online-community-migration) — Understanding the role of platforms like PTT, Dcard, and Threads in cognitive warfare
+- [Taiwan Media and Press Freedom](/en/society/media-and-press-freedom-in-taiwan) — News ecology and platform responsibility in cognitive warfare
+- [Shen Pei-yang](/en/people/puma-shen) — One of the main researchers on cognitive warfare; in 2025, became the first Taiwanese elected official investigated by China for the "crime of splitting the country"
+- [Black Bear Academy](/en/society/kuma-academy-civil-defense-school) — A civil organization putting cognitive warfare recognition into basic civil defense camps, teaching ordinary people to maintain judgment amidst disinformation and psychological warfare
+- [Toxic Potatoes: Beyond 200 ppm, There Are 30 ppm, 14 Days, and a 15-Year Food Safety Scar](/en/society/poisoned-potato-cognitive-warfare-taiwan) — Anatomy of how the 2026-04 Taiwan Affairs Office "letter of allegiance" narrative precisely stepped on the 15-year food safety scar since the 2011 melamine scandal
+- [Taiwan and Eswatini](/en/society/taiwan-eswatini-relations) — Concrete scenarios of Chinese language operations like "rat," "stowaway-style diplomatic breakthrough," "international laughingstock": Lai Ching-te’s reaction during the 2026-05 visit to Eswatini
+- [Taiwan and Paraguay](/en/society/paraguay-taiwan) — How Taiwan uses long-term cooperation to withstand Chinese market temptation and political lobbying, supporting the only diplomatic ally in South America
 
 ## References
 

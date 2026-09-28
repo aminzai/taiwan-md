@@ -196,7 +196,7 @@ translatedAt: '2026-05-18T05:08:08+08:00'
 
 ## 関連記事
 
-- [台湾民主化](/History/台湾民主化) —— 戒厳令から民主化へ、前途決議文が生まれたより大きな文脈
-- [台湾の選挙と政党政治](/History/台湾の選挙と政党政治) —— 民進党の路線転換が台湾の選挙政治に与えた影響
+- [台湾民主化](/ja/history/taiwan-democratization) —— 戒厳令から民主化へ、前途決議文が生まれたより大きな文脈
+- [台湾の選挙と政党政治](/ja/history/taiwan-elections-and-party-politics) —— 民進党の路線転換が台湾の選挙政治に与えた影響
 - [美麗島事件](/ja/history/kaohsiung-incident-formosa-incident) —— 施明德の二十五年の政治的投獄の起点、党外運動の歴史的背景を理解する
-- [台湾海峡危機と両岸関係の発展](/History/台湾海峡危機と両岸関係の発展) —— 1996年の台湾海峡危機が民進党の実践化をいかに加速させたか
+- [台湾海峡危機と両岸関係の発展](/ja/history/taiwan-strait-crises-and-cross-strait-relations) —— 1996年の台湾海峡危機が民進党の実践化をいかに加速させたか

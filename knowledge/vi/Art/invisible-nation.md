@@ -214,13 +214,13 @@ Buổi thử chiếu phương tiện truyền thông tháng 6 năm 2025, mặt �
 
 ## Đọc thêm
 
-- [Thái Anh Văn](/people/thái-anh-văn) — Nhân vật chính của bộ phim được quay sâu bảy năm, tổng thống nữ đầu tiên của Đài Loan, từ 800,000 phiếu đánh bại tới 8,17 triệu phiếu tái tranh cử
-- [Phong trào Hoa mặt trời](/society/phong-trào-hoa-mặt-trời) — Điểm nút khóa của cung cấp dân chủ trong phim, 24 ngày năm 2014 tái tạo ý thức chính trị một thế hệ
-- [Kỷ Chính](/people/kỷ-chính) — Trong phim lấy ra huy chương đồng Olympics 1968 Mexico City, hỏi ngược "Đài Bắc Trung Hoa là tên quốc gia sao" của "Linh dương bay"
-- [Đài Bắc Trung Hoa](/society/đài-bắc-trung-hoa) — Phía sau tấm huy chương "không thể gọi tên mình" của Kỷ Chính, cơ chế tên gọi Olympic
-- [Phổ độc lập Đài Loan](/society/phổ-độc-lập-đài-loan) — Kế tiêu đề "Đài Loan từ lâu là một quốc gia độc lập" mà Thái Anh Văn phát biểu trong phim, tọa độ phổ chủ quyền
-- [Trần Bá Dương](/people/trần-bá-dương) — Phim kết thúc bài học phòng chống phiên bản thực tế: đồng sáng lập viên Học viện Gấu Đen, một đại biểu quốc hội dạy "làm thế nào để sống sót" cho dân thường
-- [Tạo sơn nhân: Cược của thế kỷ](/art/tạo-sơn-nhân-cược-của-thế-kỷ) — Một bộ phim tài liệu "giá trị Đài Loan" khác ra mắt cùng ngày, nói câu chuyện bán dẫn Đài Loan
+- [Thái Anh Văn](/vi/people/tsai-ing-wen) — Nhân vật chính của bộ phim được quay sâu bảy năm, tổng thống nữ đầu tiên của Đài Loan, từ 800,000 phiếu đánh bại tới 8,17 triệu phiếu tái tranh cử
+- [Phong trào Hoa mặt trời](/vi/society/sunflower-movement) — Điểm nút khóa của cung cấp dân chủ trong phim, 24 ngày năm 2014 tái tạo ý thức chính trị một thế hệ
+- [Kỷ Chính](/vi/people/chi-cheng-flying-antelope) — Trong phim lấy ra huy chương đồng Olympics 1968 Mexico City, hỏi ngược "Đài Bắc Trung Hoa là tên quốc gia sao" của "Linh dương bay"
+- [Đài Bắc Trung Hoa](/vi/society/chinese-taipei) — Phía sau tấm huy chương "không thể gọi tên mình" của Kỷ Chính, cơ chế tên gọi Olympic
+- [Phổ độc lập Đài Loan](/vi/society/taiwan-unification-independence-spectrum) — Kế tiêu đề "Đài Loan từ lâu là một quốc gia độc lập" mà Thái Anh Văn phát biểu trong phim, tọa độ phổ chủ quyền
+- [Trần Bá Dương](/vi/people/puma-shen) — Phim kết thúc bài học phòng chống phiên bản thực tế: đồng sáng lập viên Học viện Gấu Đen, một đại biểu quốc hội dạy "làm thế nào để sống sót" cho dân thường
+- [Tạo sơn nhân: Cược của thế kỷ](/vi/art/mountain-makers-tsmc-documentary) — Một bộ phim tài liệu "giá trị Đài Loan" khác ra mắt cùng ngày, nói câu chuyện bán dẫn Đài Loan
 
 ## Nguồn hình ảnh
 

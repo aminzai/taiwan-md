@@ -322,10 +322,10 @@ Không thể phong tỏa được bảo tàng này. Là cơ sở hạ tầng ký
 
 **Đọc thêm**:
 
-- [Lục Đảo Nhà tù](/history/lục-đảo-nhà-tù) — Cùng một hòn đảo, từ hầm tối chính trị đến quê hương của anh cả sự chồng lấp ký ức. Bài viết này tập trung vào tổ chức bảo tàng, bài đó xử lý ký ức không gian
-- [Thời kỳ Thiết quân luật](/history/thiết-quân-luật-thời-kỳ) — 38 năm thiết quân luật 1949-1987, pháp lý cơ sở của lịch sử được trưng bày bảo tàng này
-- [Khủng bố Trắng Đài Loan](/history/khủng-bố-trắng-đài-loan) — 29.407 trường hợp quân pháp, 140 ngàn gia đình nạn nhân bị chấn thương, qui mô cụ thể mà Bia Nước Mắt tưởng niệm
-- [Chuyển đổi công bằng Đài Loan](/history/chuyển-đổi-công-bằng-đài-loan) — Kéo giằng của việc hủy bỏ sáu ngàn phán quyết nhưng không thể truy cứu trách nhiệm kẻ gây hại, bài viết này là một phân đoạn tổ chức
+- [Lục Đảo Nhà tù](/vi/history/green-island-prison) — Cùng một hòn đảo, từ hầm tối chính trị đến quê hương của anh cả sự chồng lấp ký ức. Bài viết này tập trung vào tổ chức bảo tàng, bài đó xử lý ký ức không gian
+- [Thời kỳ Thiết quân luật](/vi/history/martial-law-era) — 38 năm thiết quân luật 1949-1987, pháp lý cơ sở của lịch sử được trưng bày bảo tàng này
+- [Khủng bố Trắng Đài Loan](/vi/history/taiwan-white-terror) — 29.407 trường hợp quân pháp, 140 ngàn gia đình nạn nhân bị chấn thương, qui mô cụ thể mà Bia Nước Mắt tưởng niệm
+- [Chuyển đổi công bằng Đài Loan](/vi/history/taiwan-transitional-justice) — Kéo giằng của việc hủy bỏ sáu ngàn phán quyết nhưng không thể truy cứu trách nhiệm kẻ gây hại, bài viết này là một phân đoạn tổ chức
 - [Sự kiện 228](/vi/history/228-incident) — Cuộc biến chính lớn nhất sau chiến tranh Đài Loan, bắt đầu của 38 năm thiết quân luật
 
 ## Nguồn Hình Ảnh

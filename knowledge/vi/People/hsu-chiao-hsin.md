@@ -185,12 +185,12 @@ Cô đại diện cho một lộ trình hiển thị, chứ không phải lộ t
 
 **Mở rộng**:
 
-- [Hàn Quốc Dự](/people/hàn-quốc-dự) — Người chủ trì đàm phán mua sắm quân sự 2026, nhân vật chìa khóa trong tranh cãi mua sắm quân sự của Tư Khiêu Tâm; điểm cuối của cơ cấu "Chủ tịch đảng—Viện trưởng" trong Quốc Dân Đảng
-- [Trịnh Lệ Văn](/people/trịnh-lệ-văn) — Chủ tịch đảng trong cùng tranh cãi mua sắm quân sự, cùng với Phù Khuôn Kỳ bảo vệ 3800 tỷ + N phiên bản đảng, va chạm với phiên bản 8000 tỷ của Tư Khiêu Tâm
-- [Trác Vinh Đức](/people/trác-vinh-đức) — Người thúc đẩy ngân sách đặc biệt 1,25 ngàn tỷ, đối thủ chính của phiên bản Tư Khiêu Tâm (8000 tỷ) trong khung hình
-- [Lại Thanh Đức](/people/lại-thanh-đức) — Nhân vật chính trị chủ đạo ngân sách quân sự 1,25 ngàn tỷ, đối tượng mà Tư Khiêu Tâm lặp lại va chạm trong chất vấn quốc hội
-- [Quốc phòng Đài Loan và hiện đại hoá quân sự](/society/quốc-phòng-đài-loan) — Bối cảnh chính sách hoàn chỉnh của cuộc va chạm 8000 tỷ vs 3800 tỷ+N vs 1,25 ngàn tỷ
-- [Tiêu Mỹ Cầm](/people/tiêu-mỹ-cầm) — Một mẫu hình nhân vật chính trị nữ khác trong cùng cơ cấu chính trị, đường đi hoàn toàn trái ngược và quan điểm Đài Loan tương ứng
+- [Hàn Quốc Dự](/vi/people/han-kuo-yu) — Người chủ trì đàm phán mua sắm quân sự 2026, nhân vật chìa khóa trong tranh cãi mua sắm quân sự của Tư Khiêu Tâm; điểm cuối của cơ cấu "Chủ tịch đảng—Viện trưởng" trong Quốc Dân Đảng
+- [Trịnh Lệ Văn](/vi/people/cheng-li-wun) — Chủ tịch đảng trong cùng tranh cãi mua sắm quân sự, cùng với Phù Khuôn Kỳ bảo vệ 3800 tỷ + N phiên bản đảng, va chạm với phiên bản 8000 tỷ của Tư Khiêu Tâm
+- [Trác Vinh Đức](/vi/people/cho-jung-tai) — Người thúc đẩy ngân sách đặc biệt 1,25 ngàn tỷ, đối thủ chính của phiên bản Tư Khiêu Tâm (8000 tỷ) trong khung hình
+- [Lại Thanh Đức](/vi/people/lai-ching-te) — Nhân vật chính trị chủ đạo ngân sách quân sự 1,25 ngàn tỷ, đối tượng mà Tư Khiêu Tâm lặp lại va chạm trong chất vấn quốc hội
+- [Quốc phòng Đài Loan và hiện đại hoá quân sự](/vi/society/taiwan-defense-modernization) — Bối cảnh chính sách hoàn chỉnh của cuộc va chạm 8000 tỷ vs 3800 tỷ+N vs 1,25 ngàn tỷ
+- [Tiêu Mỹ Cầm](/vi/people/hsiao-bi-khim) — Một mẫu hình nhân vật chính trị nữ khác trong cùng cơ cấu chính trị, đường đi hoàn toàn trái ngược và quan điểm Đài Loan tương ứng
 
 ## Tài liệu tham khảo
 

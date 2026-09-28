@@ -209,18 +209,18 @@ Từ Càn Long đổi tên 1787 năm tính 239 năm, quê quán huyện Chiayi c
 
 Bối cảnh nội bộ huyện Chiayi:
 
-- [Alishan: Rừng đế quốc và Cao Nhất Sinh trên núi](/history/Alishan：帝國的林場與高一生的山) — Đường sắt rừng thông xe năm 1912 lại Cao Nhất Sinh năm 1954 ở sân bắn An Kham, hai câu chuyện của núi này
-- [Cố Cung Quốc Gia](/culture/Cố-Cung-Quốc-Gia) — Viện Nam Cố Cung như là nỗ lực "cân bằng Nam Bắc" bối cảnh lớn hơn
-- [Trần Xương Ba](/people/Trần-Xương-Ba) — Họa sĩ chết ở phía trước ga Chiayi năm 1947, mặt khác của sự kiện 228 Chiayi
-- [Bát Điền Dữ Nhất](/people/Bát-Điền-Dữ-Nhất) — Công trình Chiayi Nam Đại Tú 1920-1930 biến huyện này thành Đài Loan kho lúa
+- [Alishan: Rừng đế quốc và Cao Nhất Sinh trên núi](/vi/history/alishan-empire-forest-and-uongu-yatauyungana) — Đường sắt rừng thông xe năm 1912 lại Cao Nhất Sinh năm 1954 ở sân bắn An Kham, hai câu chuyện của núi này
+- [Cố Cung Quốc Gia](/vi/culture/national-palace-museum) — Viện Nam Cố Cung như là nỗ lực "cân bằng Nam Bắc" bối cảnh lớn hơn
+- [Trần Xương Ba](/vi/people/chen-cheng-po) — Họa sĩ chết ở phía trước ga Chiayi năm 1947, mặt khác của sự kiện 228 Chiayi
+- [Bát Điền Dữ Nhất](/vi/people/hatta-yoichi) — Công trình Chiayi Nam Đại Tú 1920-1930 biến huyện này thành Đài Loan kho lúa
 
 Tọa độ lịch sử quy mô lớn hơn:
 
-- [Sự kiện 228](/history/Sự-kiện-228) — Thảm sát chính trị toàn Đài 1947, tộc Tsou xuống núi giúp duy trì trật tự là chương được nói ít nhất
-- [Khủng bố Trắng Đài Loan](/history/Khủng-bố-Trắng-Đài-Loan) — Cao Nhất Sinh, Thang Thủ Nhân 1954 ở sân bắn An Kham huyện Tân Điều vị trí
-- [Lịch sử đường sắt Đài Loan](/history/Lịch-sử-đường-sắt-Đài-Loan) — Vị trí đặc biệt của đường sắt rừng Alishan trong phát triển đường sắt Đài Loan
-- [Chiayi thành phố](/geography/Chiayi-thành-phố) — Thành phố quản lý cấp tỉnh bị huyện Chiayi bao quanh hoàn toàn, 76 năm tách thành phố của huyện của huyện
-- [Kỳ Long thành phố](/geography/Kỳ-Long-thành-phố) — Loạt 22 huyện thị bài đầu tiên, một khác "bị khung khổ thủ đô ép xuống" huyện thị, so sánh hai loại khác nhau lỗ đứt।
+- [Sự kiện 228](/vi/history/228-incident) — Thảm sát chính trị toàn Đài 1947, tộc Tsou xuống núi giúp duy trì trật tự là chương được nói ít nhất
+- [Khủng bố Trắng Đài Loan](/vi/history/taiwan-white-terror) — Cao Nhất Sinh, Thang Thủ Nhân 1954 ở sân bắn An Kham huyện Tân Điều vị trí
+- [Lịch sử đường sắt Đài Loan](/vi/history/taiwan-railway-history) — Vị trí đặc biệt của đường sắt rừng Alishan trong phát triển đường sắt Đài Loan
+- [Chiayi thành phố](/vi/geography/chiayi-city) — Thành phố quản lý cấp tỉnh bị huyện Chiayi bao quanh hoàn toàn, 76 năm tách thành phố của huyện của huyện
+- [Kỳ Long thành phố](/vi/geography/keelung-city) — Loạt 22 huyện thị bài đầu tiên, một khác "bị khung khổ thủ đô ép xuống" huyện thị, so sánh hai loại khác nhau lỗ đứt।
 
 ## Nguồn ảnh
 
