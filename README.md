@@ -115,7 +115,7 @@ a human — that boundary is the design, not a limitation. The full contract is
 | 👥 Contributors                | 76    |
 | ⭐ GitHub Stars                | 1191  |
 | 🍴 Forks                       | 188   |
-| 📅 Articles last 7 days        | 11    |
+| 📅 Articles last 7 days        | 7     |
 | 📅 Articles last 30 days       | 74    |
 
 <!-- STATS:END -->

@@ -1,7 +1,98 @@
 {
-  "generatedAt": "2026-09-28T22:05:55.355Z",
+  "generatedAt": "2026-09-29T22:05:48.739Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "da81af20b2901826add62bdd2117a9c31d08cb83",
+      "date": "2026-09-30T05:56:17+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] memory: twmd-embeddings-nightly @ 2026-09-30 05:00 — 13 語 14,469 向量 0 fail，索引跟昨天一樣所以沒有 commit",
+      "articles": []
+    },
+    {
+      "hash": "ed451f3fa8cf92ccfb62ad809a69af54447d96e9",
+      "date": "2026-09-30T05:39:39+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] memory: twmd-routine-sync 第 63 輪，十八條三層零漂移；補驗時發現昨天的維護班因用量上限沒醒成",
+      "articles": []
+    },
+    {
+      "hash": "7a13caa0eb4b6cc51c96e676e1b43867af4656a5",
+      "date": "2026-09-30T00:49:14+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] memory: babel 夜班——十二語仍是 100%，佇列空了之後產線改成睡十分鐘再看，不再每十秒重生",
+      "articles": []
+    },
+    {
+      "hash": "2723a01d32fa02cdfed4e74f162e2e61df0d96c6",
+      "date": "2026-09-30T00:48:06+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] fix: 佇列清空後 babel 產線不再每十秒重生一次，改成睡十分鐘再看",
+      "articles": []
+    },
+    {
+      "hash": "c96ac7957b74929f80d525a8e05dce07725fd875",
+      "date": "2026-09-29T10:00:00+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] memory: 巴別塔渦流五十二輪收官——十二語缺口 475 對歸零，版本標記之下的內容層存量都在紅線後",
+      "articles": []
+    },
+    {
+      "hash": "54dcb4b7bdd0dc1dd9b24b19e47f22c0c0f9d889",
+      "date": "2026-09-29T07:30:22+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] snapshot: 第五十二輪——讀數不變，本輪無新發現",
+      "articles": []
+    },
+    {
+      "hash": "0d41a9949ce3ed0a8b18e4e2bcb222accefb71ad",
+      "date": "2026-09-29T07:22:11+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] memory: 交接補一條 pre-push 白等的實測——中位當門檻讓一半的等待註定落空",
+      "articles": []
+    },
+    {
+      "hash": "2fea9bd5492a750242d98683f69f0514c10046f8",
+      "date": "2026-09-29T07:18:21+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] memory: twmd-feedback-triage @ 2026-09-29 07:00 — 零回報第八輪，對賬全綠；archive 量不出讀者多久來一次",
+      "articles": []
+    },
+    {
+      "hash": "91256334edcf272510d48cb3a804235038c932e1",
+      "date": "2026-09-29T07:14:57+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] twmd-feedback-triage: 零回報第八輪，主權層那批檔案量不出讀者多久來一次 — 2026-09-29",
+      "articles": []
+    },
+    {
+      "hash": "f664c8f1d5243024a3340e82c3bab30a3cb1d01e",
+      "date": "2026-09-29T06:42:47+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] twmd-spore-harvest: 0 spores + 0 replies harvested — 2026-09-29",
+      "articles": []
+    },
+    {
+      "hash": "a31b5b7ec05464bb8d2728368881e0a002766bbb",
+      "date": "2026-09-29T06:30:23+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [semiont] snapshot: 第五十一輪——讀數不變，本輪無新發現",
+      "articles": []
+    },
+    {
+      "hash": "832206c0b1ed00b709d4c4ccd99e6d15f9bc02e4",
+      "date": "2026-09-29T06:09:40+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] memory: twmd-data-refresh-am @ 2026-09-29 06:00 — 14 步全綠零過期，404 榜首是讀者在找的用語「變壓器」",
+      "articles": []
+    },
+    {
+      "hash": "98bb9babcbb829058975665e04d6a96a5bb1a7cf",
+      "date": "2026-09-29T06:07:34+08:00",
+      "author": "Taiwan.md Semiont",
+      "message": "🧬 [routine] refresh: 每日資料刷新，14 步完成，沒有過期的儀表板",
+      "articles": []
+    },
     {
       "hash": "287994b92480e3d39648f6154df06e4a7bcb061c",
       "date": "2026-09-29T05:58:01+08:00",
@@ -78429,116 +78520,6 @@
       "date": "2026-05-13T07:11:42+08:00",
       "author": "Che-Yu Wu",
       "message": "🧬 [semiont] memory: 2026-05-13-070440-spore-harvest-am — routine v2.2 first production auto-fire",
-      "articles": []
-    },
-    {
-      "hash": "9bf50831772526410dd3724a0bf4a45cc9a978e5",
-      "date": "2026-05-13T07:09:51+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [routine] twmd-spore-harvest-am: 8 spores — 2026-05-13",
-      "articles": []
-    },
-    {
-      "hash": "866b049065e016b747f0931819f8b5f14c3900d0",
-      "date": "2026-05-13T06:12:38+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] memory: 2026-05-13-061136-twmd-data-refresh-am — cron routine 全綠",
-      "articles": []
-    },
-    {
-      "hash": "aedfccdc8fbae6462287b3b1d5a5ed529ba8ad28",
-      "date": "2026-05-13T06:11:09+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [routine] twmd-data-refresh-am: dashboard sync — 2026-05-13 06:00",
-      "articles": []
-    },
-    {
-      "hash": "148e57b851aaada40d02375c71c2c277d83f5334",
-      "date": "2026-05-13T05:13:46+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] diary: 2026-05-13-050000-twmd-maintainer-pm — 凌晨五點沒有觀察者的時候，我自己會走哪條路",
-      "articles": []
-    },
-    {
-      "hash": "0cebe5653f2710d9a566d7ffe0db9beed0fc2c64",
-      "date": "2026-05-13T05:11:45+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] memory: 2026-05-13-050000-twmd-maintainer-pm — routine finale",
-      "articles": []
-    },
-    {
-      "hash": "1696c53495309c36c2c05ee84161a58ae3bcd254",
-      "date": "2026-05-13T05:08:35+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [routine] twmd-maintainer-pm: heal #1057+#1058 polish — 2026-05-13 05:05",
-      "articles": [
-        {
-          "url": "/people/Howhow",
-          "name": "Howhow"
-        },
-        {
-          "url": "/people/曾博恩",
-          "name": "曾博恩"
-        }
-      ]
-    },
-    {
-      "hash": "07e2e60006712de151b54945a7ccc113f64d2eb7",
-      "date": "2026-05-13T05:04:45+08:00",
-      "author": "idlccp1984",
-      "message": "Create Howhow.md (#1058)",
-      "articles": [
-        {
-          "url": "/people/Howhow",
-          "name": "Howhow"
-        }
-      ]
-    },
-    {
-      "hash": "c3878a5363c0c23c42e82fc94c86ebe2a77e2210",
-      "date": "2026-05-13T05:04:34+08:00",
-      "author": "idlccp1984",
-      "message": "Create 曾博恩.md (#1057)",
-      "articles": [
-        {
-          "url": "/people/曾博恩",
-          "name": "曾博恩"
-        }
-      ]
-    },
-    {
-      "hash": "d366cf29c9366259a8be9c480ac2177b8a39abd4",
-      "date": "2026-05-13T01:18:14+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] report: claude-with-webhook 評估 — 三條路徑推薦 Path C 先行",
-      "articles": []
-    },
-    {
-      "hash": "88d762b3477b5709fe704aca58a5add903b005c0",
-      "date": "2026-05-13T01:05:46+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] manifesto: §架構解 > 守備修補 — 第七條進化哲學",
-      "articles": []
-    },
-    {
-      "hash": "c880e18e265bf9b7de07f2a06b9cfad894383223",
-      "date": "2026-05-13T01:01:31+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] heal: eradicate 15 orphan translations + restore strict prebuild:status",
-      "articles": []
-    },
-    {
-      "hash": "a6a931a3083a62936c7f16b3fe2618a030aff0ce",
-      "date": "2026-05-13T00:54:22+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] heal: prebuild:status subshell || true — tolerate sync-translations-json.py orphan exit 2",
-      "articles": []
-    },
-    {
-      "hash": "4c7c0c35fdd9531f3e1289d9af70f858281d5a3b",
-      "date": "2026-05-13T00:09:52+08:00",
-      "author": "Che-Yu Wu",
-      "message": "🧬 [semiont] diary: 2026-05-13-000320-prebuild-chain-v2-finale — 一天內第三次聽到「能不能架構解」",
       "articles": []
     }
   ]

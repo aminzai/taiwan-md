@@ -2,12 +2,12 @@
   "_meta": {
     "created": "2026-06-25",
     "ga_id": "G-JGC5W00N7T",
-    "last_census": "2026-09-28",
+    "last_census": "2026-09-29",
     "note": "子代名冊 SSOT。GA-derived 欄位(ga/title_ga/last_seen/hostnames/title_brands)由 fork-census.py 每次跑自動更新;investigation-derived 欄位(github/credits/type/cognitive_layer/health/notes)sticky,只有人/agent 填,probe 永不覆寫。每個 entry 同時帶 hostnames + title_brands,讓 probe 下次跑能把同一 fork 的多個指紋 re-consolidate 而非 re-split。",
     "ga_window": "365daysAgo",
     "self_traffic": {
-      "views": 644992,
-      "users": 382893
+      "views": 649657,
+      "users": 385418
     },
     "dev_noise": {
       "views": 12250,
@@ -69,12 +69,12 @@
       "last_seen": "2026-09",
       "ga": {
         "window": "365daysAgo",
-        "views": 621,
-        "users": 78
+        "views": 623,
+        "users": 79
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 514,
+        "views": 510,
         "users": 60
       },
       "confidence": "high",
@@ -107,7 +107,7 @@
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 518,
+        "views": 515,
         "users": 29
       },
       "confidence": "high (repo facts); medium (who)",
@@ -165,8 +165,8 @@
       "notes": "auto-detected via GA leak — needs investigation",
       "ga": {
         "window": "365daysAgo",
-        "views": 168,
-        "users": 120
+        "views": 169,
+        "users": 121
       },
       "title_ga": {
         "window": "365daysAgo",
@@ -200,8 +200,8 @@
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 165,
-        "users": 117
+        "views": 166,
+        "users": 118
       },
       "last_seen": "2026-09",
       "first_seen": "2026-07"
@@ -237,7 +237,7 @@
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 54,
+        "views": 51,
         "users": 19
       },
       "confidence": "low (是不是我們的 fork 無法證實);high (gated + 蘇巧慧身份)",
@@ -396,7 +396,7 @@
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 20,
+        "views": 17,
         "users": 1
       },
       "last_seen": "2026-09",
