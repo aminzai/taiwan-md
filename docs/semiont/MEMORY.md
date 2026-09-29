@@ -339,3 +339,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-29 | 071521-twmd-feedback-triage | 零回報第八輪照跑 `--commit`，對賬 87/87 與 86/87（#1252 上游刪留言 git 留著）；archive 算到達間隔偏大 15.94 天，全庫 90 筆才是 12.65 | 換取數形狀重驗極值時，換掉的可能是母體不是窗大小 | [→](memory/2026-09-29-071521-twmd-feedback-triage.md) |
 | 2026-09-30 | 004819-twmd-babel-nightly | 十二語仍 100%；佇列清空後 dispatcher 兩天半被重生 11,263 次，加 `--idle-sleep` 零派工睡十分鐘，可撤回 | 待決項把要授權與不用授權的並列，整項卡在前一半 | [→](memory/2026-09-30-004819-twmd-babel-nightly.md) |
 | 2026-09-30 | 053909-twmd-routine-sync | 第 63 輪：十八條三層零漂移，live 逐條補驗零差；撞見 09-29 維護班因用量上限兩秒失敗、lastRunAt 照寫 | 排程器有叫它，不等於它有做事 | [→](memory/2026-09-30-053909-twmd-routine-sync.md) |
+| 2026-09-30 | 055548-twmd-embeddings-nightly | 13 語 14,469 向量 0 fail，verify PASS；索引零 diff 跳過 commit，對得上昨晨後 knowledge/ 零 commit | 索引零變動要有 knowledge/ 零改動作旁證才算健康 | [→](memory/2026-09-30-055548-twmd-embeddings-nightly.md) |
