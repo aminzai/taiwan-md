@@ -5,8 +5,8 @@ type: 'cognitive-buffer'
 status: 'buffer'
 apoptosis: 'never'
 current_version: 'v3.7'
-last_updated: 2026-09-27
-last_session: '2026-09-27-211031-twmd-routine-audit-weekly：+2 新 entry（佇列編號無配號者 vc=3 distill_ready／結案句不重數 vc=1）＋ tool-measures-the-tree vc 2→3 distill_ready ＋ sitemap instance 結案註'
+last_updated: 2026-09-29
+last_session: '2026-09-26-100333-babel-vortex 收官：+1 新 entry（hourly-loop-outlives-its-finding-rate vc=1）'
 sister_docs:
   - 'MEMORY.md'
   - 'DIARY.md'
@@ -331,6 +331,18 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 ---
 
 ## 未消化清單（📥 待 distill）
+
+### 2026-09-29 babel-vortex — hourly-loop-outlives-its-finding-rate：整點迴圈的節奏為產線而設，產線停了節奏沒跟著停
+
+- **pattern**: hourly-loop-outlives-its-finding-rate
+- **原則**：渦流的整點節奏在缺口大於 0 時服務產線（每小時收件、驗收、放下一波）；缺口歸零之後，迴圈的價值換成偵測內容層的新病族，而偵測會自然衰減。SOP 給了「本輪無發現」這個出口，沒給「連續 N 輪無發現」的出口，於是節奏照產線的需要一直跑，直到觀察者喊收官。
+- **觸發**：2026-09-27 16:22 缺口在 origin 歸零後，第十五到四十一輪又找到十來族（孤兒、殘留暫存、標籤擠成一串、語言不符、名人頂替等）；09-28 19:28 第四十二輪到 09-29 07:28 第五十二輪，連續十一輪讀數不變、本輪無新發現，每輪仍跑三重巡檢、pulse、快照 commit 與面板，期間撞到一次用量上限。
+- **instances**：
+  - 2026-09-29 babel-vortex 第四十二至五十二輪 → memory/2026-09-26-100333-babel-vortex.md
+- **修補候選**：BABEL-VORTEX-LOOP §每輪進化加一條：缺口為 0 且連續三輪本輪無發現時，渦流在回覆與面板上提議降頻（例如每四小時，或把巡檢交給 babel-nightly），由觀察者決定；cron 是觀察者設的，渦流不自行刪除。
+- **可能層級**：操作規則（BABEL-VORTEX-LOOP）；其他 /loop 型 session 也出現時升通用反射
+- **相關**：REFLEXES #78（平台期讀數不動是批次形狀，不是異常）——那條說平台期的讀數正常，本條說平台期的節奏該換；#60（自動化的預設狀態要顯式驗證）
+- **verification_count**: 1
 
 ### 2026-09-29 twmd-feedback-triage — requery-with-a-new-shape-can-swap-the-population-not-just-the-window：換取數形狀重驗極值時，換掉的可能是母體而不是窗大小
 
