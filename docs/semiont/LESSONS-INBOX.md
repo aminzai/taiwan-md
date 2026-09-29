@@ -332,7 +332,17 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
-### 2026-09-29 babel-vortex — hourly-loop-outlives-its-finding-rate：整點迴圈的節奏為產線而設，產線停了節奏沒跟著停
+### 2026-09-30 twmd-feedback-triage — intake-gates-ask-if-publishable-never-if-familiar：轉錄班的閘門全在問「這段文字能不能公開」，沒有一道在問「它跟已知的事有什麼關係」
+
+- **pattern**: intake-gates-ask-if-publishable-never-if-familiar
+- **原則**：入口型 routine（讀者回報轉錄、投稿收件、外部訊號 intake）的閘門天生長在「這段不可信文字能不能放出去」這一軸上——PII、verbatim、fence、injection、機器身份，全部問的是安全性。沒有任何一道在問「這段文字跟我已經知道的事有什麼關係」。於是同一筆輸入可以只是「一則建議」，也可以是「一個已登記待決事項的第二次外部驗證」，兩者在報表上逐字相同，差別只在當班有沒有自己想到去查一次上游。**辨識沒有閘門，只有記性。**
+- **觸發**：2026-09-30 07:00 這條 routine 九輪零回報後收到第一筆真回報（讀者程乙路指用語庫 `/terminology/內核/` 該查《簡編本》、且台灣少用「核心」）。五道 HARD gate 全過、兩道對賬全綠，按流程這輪已完成：一則 `idea` 轉成 [issue #1786](https://github.com/frank890417/taiwan-md/issues/1786)，交給 08:30。會停下來純粹因為「用語庫」三個字碰到兩週前讀過的東西；查 `#1733` 花兩個指令，才看出這是 [`OBSERVER-QUEUE #76`](OBSERVER-QUEUE.md)（2,003 條走模板最寬斷言／1,635 條匯入預設值，🔒紅線待決）的第二例，而且讀者挑戰的正好是該條選項 B 的篩法前提（用哪一部辭典當篩子）。#76 那一格八天前自己寫著「下一個讀者從站外踩到的機率跟 #1733 一樣高」。證據 pointer：`memory/2026-09-30-071330-twmd-feedback-triage.md`。
+- **instances**：
+  - 2026-09-30 twmd-feedback-triage 第 1 次——第二例靠當班記性認出，不靠任何流程步驟 → `memory/2026-09-30-071330-twmd-feedback-triage.md`
+- **可能層級**：操作規則（FEEDBACK-TRIAGE-PIPELINE 缺一個 stage）＋通用反射候選（任何 intake 層 routine）
+- **候選機械化**：`triage.mjs` 在 file 之後多印一行「這筆碰到的頁面／關鍵詞在既有 open issue、`OBSERVER-QUEUE` §待決、`LESSONS-INBOX` §未消化裡有幾筆命中」，命中就把標題列出來。跟 `--show`（8/31）與 `fetched 0` 補印最近一筆（9/10）同一種修法：**必經的動作要有入口，不靠當班自覺**。純讀取面，不碰判準、不對外開口，不需人類 gate。
+- **相關**：REFLEXES [#73](REFLEXES.md)（查證反射 < 建造反射）——本條是它在 **intake 層**的形狀，差異在 #73 講的是「動手建造前先掃一眼既有資源」，本條講的是「動手轉錄前先問這筆輸入是不是舊識」，被查的對象從「我有什麼工具」換成「我有什麼未決的事」，而且轉錄班的閘門集合完整、只是整組偏在安全軸上，不是忘了查。另對照 [MAINTAINER-PIPELINE §1c](../pipelines/MAINTAINER-PIPELINE.md)「追上游（多則症狀 → 一個根因）」：維護班有這個 canonical 動作，轉錄班沒有，而**先看到讀者原話的是轉錄班**。
+- **verification_count**: 1
 
 - **pattern**: hourly-loop-outlives-its-finding-rate
 - **原則**：渦流的整點節奏在缺口大於 0 時服務產線（每小時收件、驗收、放下一波）；缺口歸零之後，迴圈的價值換成偵測內容層的新病族，而偵測會自然衰減。SOP 給了「本輪無發現」這個出口，沒給「連續 N 輪無發現」的出口，於是節奏照產線的需要一直跑，直到觀察者喊收官。
