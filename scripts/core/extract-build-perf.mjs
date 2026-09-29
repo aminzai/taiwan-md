@@ -54,17 +54,43 @@ function parseDuration(seconds) {
 }
 
 // ── Step 1: list recent deploy.yml runs ─────────────────────────────────────
+// 2026-09-30 data-refresh-am：帶 status=completed 的查詢偶爾回一頁幾週前的舊 run
+// （08-21／09-02／09-18／09-19／09-30 五次，最新一筆停在 08-01～09-08），檔案照寫
+// status:ok、mtime 是今天，Step 11 看不出來。最新成功 run 比這個門檻舊就換查詢重抓，
+// 仍舊就標 stale-source 讓下游讀得到。deploy 平常一天十幾次，兩天沒有成功才算異常。
+const MAX_NEWEST_AGE_DAYS = 2;
+
+function newestAgeDays(runs) {
+  const newest = runs[0]?.created_at;
+  return newest ? (Date.now() - Date.parse(newest)) / 86400_000 : Infinity;
+}
+
+function listSuccessRuns(query) {
+  const resp = ghApi(
+    `/repos/frank890417/taiwan-md/actions/workflows/deploy.yml/runs?${query}`,
+  );
+  if (!resp || !resp.workflow_runs) return null;
+  return resp.workflow_runs
+    .filter((r) => r.conclusion === 'success')
+    .sort((a, b) => Date.parse(b.created_at) - Date.parse(a.created_at))
+    .slice(0, N_RUNS);
+}
+
 function fetchRuns() {
   // workflow file path: .github/workflows/deploy.yml
   // gh api: /repos/:owner/:repo/actions/workflows/deploy.yml/runs
-  const resp = ghApi(
-    `/repos/frank890417/taiwan-md/actions/workflows/deploy.yml/runs?per_page=${N_RUNS}&status=completed`,
-  );
-  if (!resp || !resp.workflow_runs) {
+  let runs = listSuccessRuns(`per_page=${N_RUNS}&status=completed`);
+  if (runs && newestAgeDays(runs) > MAX_NEWEST_AGE_DAYS) {
+    console.error(
+      `⚠️  status=completed 查詢的最新成功 run 是 ${runs[0]?.created_at ?? '無'}，換不帶 status 的查詢重抓`,
+    );
+    runs = listSuccessRuns(`per_page=${Math.min(N_RUNS * 2, 100)}`);
+  }
+  if (!runs) {
     console.error('⚠️  無法抓 GitHub Actions runs（gh CLI 失敗或無 auth）');
     return [];
   }
-  return resp.workflow_runs.filter((r) => r.conclusion === 'success');
+  return runs;
 }
 
 // ── Step 2: per run: fetch build job timing log ─────────────────────────────
@@ -219,9 +245,13 @@ function main() {
     );
   }
 
+  const sourceStale = newestAgeDays(runs) > MAX_NEWEST_AGE_DAYS;
   const output = {
     generated_at: new Date().toISOString(),
-    status: 'ok',
+    status: sourceStale ? 'stale-source' : 'ok',
+    ...(sourceStale && {
+      reason: `最新成功 deploy run 是 ${runs[0]?.created_at}，超過 ${MAX_NEWEST_AGE_DAYS} 天；GitHub API 可能回了舊頁`,
+    }),
     summary: {
       latest_build_seconds: buildSecs[0] ?? null,
       avg_build_seconds_7d: avg(last7),
@@ -251,12 +281,18 @@ function main() {
   console.log(`   ✓ ${OUT_PATH}`);
   console.log(`   → latest build: ${output.summary.latest_build_seconds}s`);
   console.log(
-    `   → 7d avg:       ${output.summary.avg_build_seconds_7d}s (coverage ${coverageDays ?? '?'}d)`,
+    `   → 7d avg:       ${output.summary.avg_build_seconds_7d ?? 'n/a '}s (coverage ${coverageDays ?? '?'}d)`,
   );
-  console.log(`   → 30d avg:      ${output.summary.avg_build_seconds_30d}s`);
+  console.log(
+    `   → 30d avg:      ${output.summary.avg_build_seconds_30d ?? 'n/a '}s`,
+  );
   console.log(
     `   → ms/page:      ${output.summary.ms_per_page_latest ?? 'n/a'} ${output.summary.flag_slow ? `⚠️  > ${MS_PER_PAGE_THRESHOLD}ms threshold` : ''}`,
   );
+  if (sourceStale) {
+    console.log(`⚠️  status=stale-source — ${output.reason}`);
+    return 1;
+  }
 
   return 0;
 }

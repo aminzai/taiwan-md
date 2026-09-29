@@ -3,9 +3,9 @@ title: 'DATA-REFRESH-PIPELINE'
 description: '資料更新 pipeline — git pull + 三源感知 + prebuild + GitHub stats，Heartbeat Beat 1 前置 (v2.2)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v2.2'
-last_updated: 2026-09-27
-last_session: '2026-09-27-twmd-self-evolve-weekly（收官必跑 verify-commit-scope --head，自動清 pathspec commit 的索引殘影）'
+current_version: 'v2.3'
+last_updated: 2026-09-30
+last_session: '2026-09-30-060240-twmd-data-refresh-am（Step 11 讀 build-perf status，擋 GitHub API 回舊頁）'
 sister_docs:
   - 'STATS-PIPELINE.md'
   - 'DASHBOARD-PIPELINE.md'
@@ -166,7 +166,7 @@ bash scripts/tools/refresh-data.sh
 - git pull 真失敗 → hard abort（人類介入）
 - 任何資料源失敗 → soft skip，心跳繼續用昨天的 cache
 
-**Step 11（verify dashboard freshness）** 是 2026-05-02 γ-late 加的閘門 — 跑完後檢查每個 `public/api/dashboard-*.json` 都有今天的 mtime；`dashboard-analytics.json` 另驗 `lastUpdated` 的齡（≤ 24h，含時區換算；2026-09-18 起不再跟本機日期字串比對——`lastUpdated` 是 UTC，台北 00:00–08:00 跑的每一輪都會撞「昨天」的假警報，09-08／09-09／09-18 三次確認後改尺），若內容被後段流程覆回舊快照就從 fresh sense cache 當場重生。mtime 只能證明檔案被碰過，不能單獨證明內容新鮮。任何 stale 表示有 generator 漏跑或後段覆寫（REFLEXES #43）。
+**Step 11（verify dashboard freshness）** 是 2026-05-02 γ-late 加的閘門 — 跑完後檢查每個 `public/api/dashboard-*.json` 都有今天的 mtime；`dashboard-analytics.json` 另驗 `lastUpdated` 的齡（≤ 24h，含時區換算；2026-09-18 起不再跟本機日期字串比對——`lastUpdated` 是 UTC，台北 00:00–08:00 跑的每一輪都會撞「昨天」的假警報，09-08／09-09／09-18 三次確認後改尺），若內容被後段流程覆回舊快照就從 fresh sense cache 當場重生。mtime 只能證明檔案被碰過，不能單獨證明內容新鮮。任何 stale 表示有 generator 漏跑或後段覆寫（REFLEXES #43）。`dashboard-build-perf.json` 另讀 `status`（2026-09-30 起）：GitHub API 偶爾回一頁幾週前的舊 run，generator 自驗最新成功 run 超過 2 天就換查詢重抓，仍舊就寫 `stale-source`，Step 11 把非 `ok` 算進 stale。這之前 08-21／09-02／09-18／09-19／09-30 五次舊內容都以今天的 mtime 過關。
 
 **catch ≠ fix 鐵律**（2026-05-28 誕生；2026-07-05 從 twmd-refresh skill 殼收編 canonical，per dna-audit §S5 業務規則不長殼層）：freshness gate **第 2 次連續 catch 同一個 stale dashboard JSON，必須當 cycle wire fix**——識別 generator → 確認/補 wire 進 refresh-data.sh → commit heal——不准再 spawn chip 推給下個 session。背景：dashboard-immune.json 5/17→5/28 共 11 天 silent stale、22+ cycle 連續 catch 沒 fix，是「Micro mode 不擴張 scope」推 chip 過頭的教訓。
 
@@ -469,3 +469,5 @@ _v2.1 | 2026-07-05 2026-07-05-120817-dna-audit — 步數統一 14（script 實�
 **收官後必跑 `bash scripts/tools/lib/verify-commit-scope.sh --head <預期檔數>`**（2026-09-27 self-evolve-weekly）：用 `git commit -- <paths>` 收官能避開平行 babel 把自己的檔掃走，代價是 lint-staged 在暫存索引上改完 prettier 後，原索引留著格式化前的 blob（`git status` 呈 `MM`），下一個不帶 pathspec 的 commit 會把它帶進 git。`--head` 現在會把「工作樹 == HEAD 而索引 != HEAD」的本 commit 檔 reset 回 HEAD，工作樹不動。09-24 本 routine 與 embeddings 同一早各留一次、09-25 再一次（REFLEXES #100 (e)）。
 
 **反模式**: 寫了 generator 但只在 commit 之前手動跑一次。下次 generator 就被遺忘了。所有 dashboard JSON 必須有自動 refresh path。
+
+_v2.3 | 2026-09-30 twmd-data-refresh-am — Step 11 加讀 `dashboard-build-perf.json` 的 `status`；`extract-build-perf.mjs` 自驗最新成功 run 年齡（>2 天換查詢重抓，仍舊寫 `stale-source`、exit 1）。觸發：當班最新 build 顯示 08-01，回查 git 歷史同症狀五次都以今天 mtime 過關。_

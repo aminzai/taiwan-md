@@ -320,6 +320,15 @@ if ! analytics_age_ok "$ANALYTICS_FILE"; then
   rm -f /tmp/dashboard-analytics-step11.log
 fi
 
+# dashboard-build-perf 同理：mtime 是今天、內容卻可能是 GitHub API 回的幾週前舊頁
+# （2026-08-21／09-02／09-18／09-19／09-30 五次都以 status:ok 過關）。generator 自驗
+# 最新 run 的年齡後寫 status，這裡讀它。
+BUILDPERF_STATUS=$(python3 -c 'import json,sys; print(json.load(open(sys.argv[1])).get("status",""))' public/api/dashboard-build-perf.json 2>/dev/null || echo "unreadable")
+if [ "$BUILDPERF_STATUS" != "ok" ]; then
+  STALE_COUNT=$((STALE_COUNT + 1))
+  STALE_LIST="$STALE_LIST   ❌ dashboard-build-perf.json — status=${BUILDPERF_STATUS:-missing}（內容不是最新 deploy run）\n"
+fi
+
 for f in public/api/dashboard-*.json; do
   [ -f "$f" ] || continue
   MTIME_DATE=$(stat -f "%Sm" -t "%Y-%m-%d" "$f" 2>/dev/null || stat -c "%y" "$f" 2>/dev/null | cut -d' ' -f1)
