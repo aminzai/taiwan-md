@@ -1991,6 +1991,15 @@ def main() -> None:
                      help="reverse (default) = process each priority's worklist from the tail "
                           "(anti-collision vs legacy dispatchers, which eat from the head)")
     ap.add_argument("--rounds", type=int, default=50)
+    # 閒置輪詢間隔（2026-09-30 babel-nightly）：佇列全空時，launchd keepalive 會在
+    # 十秒後把 dispatcher 拉起來，09-27 12:00 到 09-30 00:44 共重生 11,263 次
+    # （每小時約 370 次），每次都 git fetch 一次 GitHub、跑一次 status.py、在 /tmp
+    # 留一個空 run 目錄。睡在 dispatcher 裡面而不是 wrapper 裡：夜班巡檢用 ps 找
+    # babel-dispatch.py，睡在 wrapper 會讓它看起來「沒有 dispatcher」而另開一輪。
+    # 只在本 run 一篇都沒派出去時才睡；有派工的 run 照舊立刻退出交給下一輪。
+    ap.add_argument("--idle-sleep", type=int, default=0, metavar="SECONDS",
+                     help="if this run enqueued zero tasks, sleep this long before exiting "
+                          "(keepalive poll interval when the queue is empty; 0 = exit at once)")
     # default 50：2026-07-25 哲宇 directive「commit 50 篇 50 篇做好了，不然
     # 感覺有點洗版 commit history」——多產線 × 每 10 篇一 commit 曾把 git log
     # 刷成整頁 babel 批次。
@@ -2287,6 +2296,9 @@ def main() -> None:
             f"連續兩夜同檔已自動 escalate 進 OBSERVER-QUEUE.md §待決）：")
         for k in uniq:
             log(f"  - {k}")
+    if args.idle_sleep > 0 and total_enqueued == 0:
+        log(f"💤 本 run 零派工，睡 {args.idle_sleep} 秒再退出（keepalive 閒置輪詢間隔）")
+        time.sleep(args.idle_sleep)
     log("DONE")
 
 

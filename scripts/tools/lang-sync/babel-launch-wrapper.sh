@@ -9,6 +9,10 @@
 #      prompt 明文警告過，本 wrapper 自己就是活體標本：12 語硬編）
 #   2. 弱適配切軌——每次起跑用 babel-weak-lanes.py 從近兩日實績算 backend×語言
 #      的弱格，餵 --worker-skip-langs，讓 worker 把輪次讓給擅長的語言
+# 09-30 加 --idle-sleep 600：佇列清空後 keepalive 每十秒重生一次（09-27 起兩天半
+# 11,263 次，每次 git fetch 一次）。改成零派工的 run 睡十分鐘再退出，新 stale 最慢
+# 十分鐘內被接住。要回到立即重生，刪掉那一行即可，不必重掛 launchd（bash 每次重生
+# 都重新讀本檔）。
 #
 # 重掛方式（改完本檔後）：
 #   launchctl remove com.taiwanmd.babel.nightly
@@ -62,4 +66,5 @@ exec "$PY" scripts/tools/lang-sync/babel-dispatch.py \
   $SKIP_LANES \
   $EXTRA_ARGS \
   --exclude-file .taiwanmd/babel-exclude.tsv \
+  --idle-sleep 600 \
   --order forward --rounds 200 --commit-every 10

@@ -3,8 +3,8 @@ title: 'BABEL-VORTEX-LOOP'
 description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.55)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.92'
-last_updated: 2026-09-28
+current_version: 'v1.93'
+last_updated: 2026-09-30
 last_session: '2026-09-26-100333-babel-vortex（翻譯率 100% 模式：推送常駐、付費 Haiku、閘門家族、委派 worktree 路徑陷阱與核准視窗、腳註修復器的語言盲）'
 sister_docs:
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
@@ -293,6 +293,15 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 證據（重試觸發次數），不是相關性。
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
+
+- v1.93（2026-09-30 babel 夜班）：**v1.64 的空轉重生收掉了，靠的是睡在 dispatcher 裡**。v1.64 記下後連三晚
+  都寫「待哲宇決定」，但這件事沒進 OBSERVER-QUEUE，所以沒有人會被問到。量到的規模：09-27 12:00 到 09-30
+  00:44 重生 11,263 次，每小時約 370 次，每次 `git fetch` 一次 GitHub、跑一次 status.py、在 /tmp 留一個
+  4KB 空 run 目錄，stdout log 長到 55MB。處置：`babel-dispatch.py --idle-sleep`（本 run 零派工才睡），
+  wrapper 帶 600 秒。沒動 launchd 設定，常駐與輪詢語意都保留，新 stale 最慢十分鐘內被接住；要回到立即
+  重生刪 wrapper 那一行即可。睡在 wrapper 會讓 `ps` 找不到 `babel-dispatch.py`，下一個夜班照 Stage 0.5
+  第 3 條會另開一輪，所以睡的位置在 dispatcher 裡面。巡檢判讀跟著改：`runs` 計數十分鐘才動一次、
+  master.log 最後一行是「💤 本 run 零派工」＝正常閒置。
 
 - v1.92（2026-09-28 傍晚第四十輪）：**「中華台北」被拿來頂替台灣的地名與物名**。照上一輪的候選掃：譯文出現 Chinese Taipei、zh 沒有
   中華台北／中華隊／奧會模式的 39 篇，扣掉體育與正式機構名（保齡球、舉重、電競協會、消基會）還有十幾篇真錯：vi〈台灣黑熊〉標題
