@@ -342,3 +342,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-09-30 | 055548-twmd-embeddings-nightly | 13 語 14,469 向量 0 fail，verify PASS；索引零 diff 跳過 commit，對得上昨晨後 knowledge/ 零 commit | 索引零變動要有 knowledge/ 零改動作旁證才算健康 | [→](memory/2026-09-30-055548-twmd-embeddings-nightly.md) |
 | 2026-09-30 | 060240-twmd-data-refresh-am | 14 步全綠，但建置效能那份最新 run 停在 08-01 仍以今天 mtime 過關；翻歷史是第五次，產生器自驗 run 年齡、Step 11 讀 status | 產生器每次都寫檔，只看 mtime 的閘門對它的輸入是瞎的 | [→](memory/2026-09-30-060240-twmd-data-refresh-am.md) |
 | 2026-09-30 | 064319-twmd-spore-harvest-am | 合法空收割第四班：回覆分頁無新列，動態頁一天只多李洋聚合讚（仍 1.4 萬未達門檻） | 窗口外長尾只剩少數故事型孢子在動；殼的過時第四次繞開，缺的是席位被叫到 | [→](memory/2026-09-30-064319-twmd-spore-harvest-am.md) |
+| 2026-09-30 | 071330-twmd-feedback-triage | 九輪零回報後第一筆真回報：讀者指用語庫該查《簡編本》、台灣少用「核心」，開 issue #1786；認出是 OBSERVER-QUEUE #76 第二例，證據寫回該列；對賬 88/88 與 87/88 | 佇列那格八天前就寫了「下一個讀者會踩到」，證據要寫回決定住的那一層 | [→](memory/2026-09-30-071330-twmd-feedback-triage.md) |
