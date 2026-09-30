@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-09-30T10:28:25+08:00",
-    "zhCommitHead": "aecd82b9d",
+    "lastUpdated": "2026-09-30T10:55:20+08:00",
+    "zhCommitHead": "a329bd56a",
     "totalZh": 1125,
     "activeLanguages": [
       "en",
@@ -44,10 +44,10 @@
       },
       "es": {
         "total_zh": 1125,
-        "fresh": 1124,
+        "fresh": 1125,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 1,
+        "missing": 0,
         "orphan": 0
       },
       "fr": {
@@ -91450,8 +91450,8 @@
           "sourceContentHash": "sha256:9ce152768ea44921",
           "sourceBodyHash": "sha256:60bb46f6e4722d51",
           "translatedAt": "2026-09-30T10:07:30+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a329bd56",
+          "translationLastModified": "2026-09-30T10:28:26+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "bytes": 16748,
@@ -91492,7 +91492,20 @@
           "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Politics/309.md",
+          "translatedFrom": "Politics/309本里長帳簿.md",
+          "sourceCommitSha": "5a9cd9398",
+          "sourceContentHash": "sha256:9ce152768ea44921",
+          "sourceBodyHash": "sha256:60bb46f6e4722d51",
+          "translatedAt": "2026-09-30T10:28:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "bytes": 16033,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Politics/309.md",
