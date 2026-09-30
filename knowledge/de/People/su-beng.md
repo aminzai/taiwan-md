@@ -13,18 +13,21 @@ tags:
     'taiwanesischer Nationalismus',
     'Geschichte',
   ]
-subcategory: 'Politik und soziale Bewegungen'
+subcategory: '政治與社會運動'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-10
 lastHumanReview: false
+researchReport: 'reports/research/2026-07/史明-outline.md'
 readingTime: 13
 image: '/article-images/people/su-beng-100th-birthday-tsai-2017.webp'
-imageCredit: 'Präsidialamt / Wikimedia Commons'
+imageCredit: '總統府 / Wikimedia Commons'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:11.08_總統出席史明百歲生日會_(38226043862).jpg'
 translatedFrom: 'People/史明.md'
-sourceCommitSha: '09ffe560f'
+sourceCommitSha: 'a113ef0cb'
+sourceContentHash: 'sha256:1ae91ed26b56a7cf'
+sourceBodyHash: 'sha256:09b0e9d407cb3e56'
 translatedAt: '2026-09-29T12:00:00+08:00'
 ---
 
