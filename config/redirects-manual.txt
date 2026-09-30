@@ -204,3 +204,17 @@
 /hi/people/teng-yu-hsien /hi/people/deng-yu-xian-taiwanese-song-composer/ 301
 /vi/people/teng-yu-hsien /vi/people/deng-yu-xian-taiwanese-song-composer/ 301
 /vi/people/huang-chun-ming /vi/people/huang-chun-ming-taiwanese-literary-master/ 301
+
+# 2026-10-01 babel-nightly：「2026年分科爭議」的 ASCII 退路把檔名刪成 2026，十二語 08-09 起以 /society/2026 上線；改回可讀 slug
+/ar/society/2026 /ar/society/2026-advanced-subjects-test-controversy 301
+/de/society/2026 /de/society/2026-advanced-subjects-test-controversy 301
+/en/society/2026 /en/society/2026-advanced-subjects-test-controversy 301
+/es/society/2026 /es/society/2026-advanced-subjects-test-controversy 301
+/fr/society/2026 /fr/society/2026-advanced-subjects-test-controversy 301
+/hi/society/2026 /hi/society/2026-advanced-subjects-test-controversy 301
+/id/society/2026 /id/society/2026-advanced-subjects-test-controversy 301
+/ja/society/2026 /ja/society/2026-advanced-subjects-test-controversy 301
+/ko/society/2026 /ko/society/2026-advanced-subjects-test-controversy 301
+/pt/society/2026 /pt/society/2026-advanced-subjects-test-controversy 301
+/ru/society/2026 /ru/society/2026-advanced-subjects-test-controversy 301
+/vi/society/2026 /vi/society/2026-advanced-subjects-test-controversy 301
