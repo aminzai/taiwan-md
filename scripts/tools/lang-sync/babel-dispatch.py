@@ -76,6 +76,10 @@ GIT_LOCK = Path("/tmp/taiwan-md-git.lock")
 # 這份記憶透過 git 在所有產地之間流動。schema {"lang:zh_path": 失敗次數}，
 # 數值為 advisory（混合了不同模型的嘗試）；跨機衝突用逐鍵取 max 合併。
 FAIL_MEMO = REPO / "reports" / "babel" / "fail-memo.json"
+# 付費層對同一篇的失敗次數（本機狀態，不入版控）。必須跨 run 持久：keepalive 在
+# 佇列只剩一篇時每幾分鐘就重生一次，記在記憶體裡的上限每次重生歸零，等於沒有上限
+# （2026-10-01 實撞：上限 3 次，兩個 run 內 Haiku 已試 5 次）。
+RESTRICTED_FAILS_FILE = REPO / ".taiwanmd" / "babel-restricted-fails.json"
 # 失敗「原因」側錄（2026-07-31）。fail-memo 只記次數，而次數混了兩種根因：
 # 閘門誤判（可修，修完該重試）與本質太難（重試無用）——4,059 筆分層顯示
 # 重試失敗過的文章吃掉 70% worker 時間換 14% 產出，但照次數一刀切會讓剛修好
@@ -621,7 +625,12 @@ class RunState:
         self.tier7_cap: int = BABEL_TIER7_NIGHTLY_CAP       # 由 main() 依 --tier7-nightly-cap 覆寫
         self.exhausted_this_run: list = []                  # ["lang:zh", ...] 本 run 觸發 cascade_exhausted 的清單
         self.restricted_tiers: frozenset = frozenset()      # 本 run 實際有 worker 的 Tier 6/7（main() 設定）
-        self.restricted_fails: dict = defaultdict(int)      # "lang:zh" -> Tier 6/7 本 run 失敗次數
+        self.restricted_fails: dict = defaultdict(int)      # "lang:zh" -> Tier 6/7 累計失敗次數（跨 run，見 RESTRICTED_FAILS_FILE）
+        try:
+            if RESTRICTED_FAILS_FILE.exists():
+                self.restricted_fails.update(json.loads(RESTRICTED_FAILS_FILE.read_text(encoding="utf-8")))
+        except Exception:
+            pass
         # 輪中補貨（2026-09-21）：本輪已排進佇列的 (lang:zh)，補貨時不重排；補貨序號與鎖
         self.round_seen: set = set()
         self.topup_lock = threading.Lock()
@@ -1625,6 +1634,15 @@ def process_task(worker: Worker, lang: str, group_path: Path, zh_path: str,
             state.fail_counts[f"{lang}:{zh_path}"] += 1
             if worker.tier != "normal":
                 state.restricted_fails[f"{lang}:{zh_path}"] += 1
+                try:
+                    merged = dict(state.restricted_fails)
+                    if RESTRICTED_FAILS_FILE.exists():
+                        for k, v in json.loads(RESTRICTED_FAILS_FILE.read_text(encoding="utf-8")).items():
+                            merged[k] = max(v, merged.get(k, 0))
+                    RESTRICTED_FAILS_FILE.parent.mkdir(parents=True, exist_ok=True)
+                    RESTRICTED_FAILS_FILE.write_text(json.dumps(merged, ensure_ascii=False), encoding="utf-8")
+                except Exception:
+                    pass
             # cascade exhausted escalation（義務鐵律第 4 條，OBSERVER-QUEUE #18(c)，
             # 哲宇 2026-09-05 拍板）：edge-trigger 在累計失敗次數「剛好跨過」門檻的
             # 那一次記一筆，不是每次失敗都記（否則同一篇會洗版 report.jsonl）。
@@ -1806,7 +1824,7 @@ def make_task_filter(worker: Worker, state: RunState, report: JsonlWriter, log: 
         （309本里長帳簿）每輪被 0% 的本機 worker 先搶走，16 小時 310 次失敗，而
         合格名單裡的 Haiku（ru 先前 5 篇成功）一次都沒拿到。guard 防的是「整個語言
         沒人做」；付費層接得了的 P0 缺檔不算餓死。付費層在本 run 對同一篇失敗滿
-        RESTRICTED_GIVEBACK_FAILS 次、或兩層夜間額度都用完，就還給 normal worker，
+        RESTRICTED_GIVEBACK_FAILS 次（跨 run 累計）、或夜間額度用完，就還給 normal worker，
         不讓付費層對一篇難文章無上限重試。"""
         if not state.restricted_tiers:
             return False
