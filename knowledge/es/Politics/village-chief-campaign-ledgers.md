@@ -129,7 +129,7 @@ Los aspirantes a jefe de aldea en 2026 pueden empezar a recibir donaciones desde
 
 - [Sistema de jefes de aldea](/politics/村里長制度) — 7748 máximos responsables electos, cómo funciona la unidad política más básica de Taiwán
 - [Transparencia de la financiación política (政治獻金透明度)](/politics/政治獻金透明度) — Diseño del régimen de declaración y ese agujero del «préstamo a uno mismo»
-- [Elecciones "nueve en uno" 2026 (2026 九合一選舉)](/politics/2026 九合一選舉) — La próxima hornada de libros saldrá de estos comicios
+- [Elecciones "nueve en uno" 2026 (2026 九合一選舉)](/es/politics/2026-local-elections-taiwan) — La próxima hornada de libros saldrá de estos comicios
 
 ## Referencias
 

@@ -127,9 +127,9 @@ Calon kepala desa/dusun 2026 dapat mulai menerima keuangan politik mulai 20 Agus
 
 ## Bacaan Lanjutan
 
-- [Sistem Kepala Desa/Dusun](/politics/sistem-kepala-desa-dusun) — 7.748 pemimpin terpilih, bagaimana unit politik tingkat paling dasar Taiwan beroperasi
-- [Transparansi Keuangan Politik](/politics/transparansi-keuangan-politik) — Desain sistem pelaporan dan celah "meminjam dari diri sendiri"
-- [Pemilihan Sembilan Serentak 2026](/politics/pemilihan-sembilan-serentak-2026) — Batch buku laporan berikutnya akan dihasilkan dari pemilihan ini
+- [Sistem Kepala Desa/Dusun](/id/politics/village-chief-system) — 7.748 pemimpin terpilih, bagaimana unit politik tingkat paling dasar Taiwan beroperasi
+- [Transparansi Keuangan Politik](/id/politics/political-donation-transparency) — Desain sistem pelaporan dan celah "meminjam dari diri sendiri"
+- [Pemilihan Sembilan Serentak 2026](/id/politics/2026-local-elections-taiwan) — Batch buku laporan berikutnya akan dihasilkan dari pemilihan ini
 
 ## Referensi
 

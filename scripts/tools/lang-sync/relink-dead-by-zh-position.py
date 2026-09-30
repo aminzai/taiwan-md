@@ -32,6 +32,7 @@ slug 與已知譯文，看到這些編出來的 slug 一律判 no-translation �
 from __future__ import annotations
 
 import argparse
+import re
 import importlib.util
 import sys
 import urllib.parse
@@ -62,6 +63,25 @@ def internal_links(text: str) -> list[tuple[int, int, str]]:
     return out
 
 
+_LOOSE_LINK = re.compile(r"\]\((/[^)]*)\)")
+_WIKILINK = re.compile(r"\[\[[^\]]+\]\]")
+
+
+def uncounted_links(text: str, n_strict: int, is_zh: bool) -> int:
+    """嚴格 regex 看不到、但在另一側會變成站內連結的數量（2026-10-01 babel-nightly）。
+
+    兩種會讓配對錯開一格而數量碰巧相等：網址帶空白（`/politics/2026 九合一選舉`，
+    嚴格 regex 不收）、zh 的 [[wikilink]]（譯文會寫成一般 markdown 連結）。里長帳簿 pt
+    版兩種各一：pt 與 zh 各數到 3 條「相等」，實際 pt 4 條、zh 3+1 條，第二條死連結
+    被接到選舉條目，而分類段全是 politics，第二道保險擋不住。"""
+    loose = sum(1 for m in _LOOSE_LINK.finditer(text)
+                if not ILC.ASSET.match(m.group(1).split("#")[0].split("?")[0]))
+    extra = loose - n_strict
+    if is_zh:
+        extra += len(_WIKILINK.findall(text))
+    return extra
+
+
 def category(url: str) -> str | None:
     seg = [urllib.parse.unquote(s) for s in url.split("#")[0].split("?")[0].strip("/").split("/") if s]
     if seg and seg[0] in LANGS:
@@ -77,8 +97,15 @@ def plan_file(f: Path, idx, loc) -> tuple[list[tuple[str, str, str]], list[tuple
     src = ILC._zh_source(f)
     if not src or not src.exists():
         return [], [(u, "找不到 zh 來源") for u in sorted(dead)]
-    t_links = internal_links(f.read_text(encoding="utf-8"))
-    z_links = internal_links(src.read_text(encoding="utf-8"))
+    t_text = f.read_text(encoding="utf-8")
+    z_text = src.read_text(encoding="utf-8")
+    t_links = internal_links(t_text)
+    z_links = internal_links(z_text)
+    t_extra = uncounted_links(t_text, len(t_links), is_zh=False)
+    z_extra = uncounted_links(z_text, len(z_links), is_zh=True)
+    if t_extra or z_extra:
+        return [], [(u, f"有嚴格 regex 數不到的連結（譯文 +{t_extra}／zh +{z_extra}，空白網址或 wikilink），順序不可信，不配對")
+                    for u in sorted(dead)]
     if len(t_links) != len(z_links):
         return [], [(u, f"站內連結數不等（譯文 {len(t_links)}／zh {len(z_links)}），不配對") for u in sorted(dead)]
     z_dead = {u for u, _ in ILC.check_file(src, idx)}

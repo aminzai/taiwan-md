@@ -129,7 +129,7 @@ Ab 20. August 2026 dürfen Dorfvorsteher-Kandidaten der Wahl 2026 politische Spe
 
 - [Dorfvorsteher-System](/politics/村里長制度) — 7.748 direkt gewählte Ortsvorsteher: Wie Taiwans basale politische Zelle funktioniert
 - [Politische Spendentransparenz (政治獻金透明度)](/de/politics/political-donation-transparency/) — Das Design des Meldesystems und das Loch „Selbstkredit“
-- [Neun-in-eins-Wahl 2026](/politics/2026 九合一選舉) — Die nächste Buch-Generation entsteht aus dieser Wahl
+- [Neun-in-eins-Wahl 2026](/de/politics/2026-local-elections-taiwan) — Die nächste Buch-Generation entsteht aus dieser Wahl
 
 ## Quellen
 
