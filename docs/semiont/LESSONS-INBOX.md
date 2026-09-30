@@ -332,6 +332,29 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-10-01 twmd-babel-nightly — gate-rejects-what-the-prompt-never-taught：閘門擋得住的規則，要在產出端說出口，否則重試只是重抽同一個錯
+
+- **pattern**: gate-rejects-what-the-prompt-never-taught
+- **原則**：一道品質閘門把某種輸出判不合格，但產生那份輸出的提示從來沒寫這條規則，產出端就只能靠模型自己的預設碰運氣。預設剛好對的語言看起來一切正常；預設錯的語言，每一次重試都是從同一個分佈再抽一次，失敗率不會因為重試變低。判讀捷徑是 REFLEXES #38 (d) 那句：同一篇跨三種以上模型敗在同一個理由，先查閘門與上游，不查模型。這次查到的上游是提示。
+- **觸發**：2026-10-01 00:40 起查 ru〈309本里長帳簿〉16 小時 310 次失敗：gemma4:e4b、laguna、nemotron、Haiku 四個後端都把台灣標準寫法「3,275 元」譯成 `юаней`（幣別閘 `currency-identity-check`，09-09 起、09-26 接進 dispatcher verify），而 `translate.py` 的系統提示七條規則裡沒有一句提到金額。加規則 8（裸元是新台幣，寫 NT$ 或明寫新台幣）後 Haiku 三次的裸幣別數 0／29／5，下降但不穩定。→ `c0a561c53`、memory/2026-10-01-010545-twmd-babel-nightly
+- **instances**：
+  - 2026-10-01 twmd-babel-nightly — 幣別閘 vs 提示無金額規則（ru 最嚴重）→ `c0a561c53`
+- **可能層級**：操作規則（每新增一道內容閘門，同一個 commit 要在產出端提示補一句對應規則）＋儀器候選
+- **候選機械化**：列出 `babel-dispatch` verify 的每一道內容閘門，對照 `translate.py` 提示與 `TRANSLATION-{lang}.md` TL;DR 有沒有對應的一句；沒有的標成「只擋不教」。另一條路是閘門自帶修法（幣別可用數字錨定改寫，checker 已寫明不要裸字串取代），但那是把判斷交給儀器，需先確認原文沒有人民幣。
+- **相關**：REFLEXES #83（一個轉換住在三條引擎裡：那條講同一個判斷在多支工具各自實作；本條是同一條規則只住在檢查端、不住在產生端）、#38 (d)（確定性缺陷記成模型失敗）
+- **verification_count**: 1
+
+### 2026-10-01 twmd-babel-nightly — never-starve-hands-the-task-to-the-worst-worker：「不讓語言餓死」的保底，會把唯一一篇交給最不可能做好的那台
+
+- **pattern**: never-starve-hands-the-task-to-the-worst-worker
+- **原則**：弱適配切軌的 starvation guard 在「所有一般 worker 都不擅長某語言」時撤回 skip，寧可低通過率也不要零產出。但佇列只剩一篇時，搶任務是競速，最快回來 claim 的本機 worker 每輪都贏，而它正是 0% 的那台；付費層在合格名單裡卻一次都沒輪到。保底設計假設「有人做」總比「沒人做」好，沒考慮「有人做」會擋住更可能做好的人。
+- **觸發**：ru〈309本里長帳簿〉310 次嘗試中 285 次是 macm4max1（gemma4:e4b，ru 近兩日 0/292），Haiku 0 次，估計燒掉約 13 小時本機算力。修：被撤回 skip 的語言，P0 缺檔先讓 Tier 6/7，付費層跨 run 失敗滿 3 次或額度用完再還回（`80a9901c7`、`38a971dea`）。修完 Haiku 當班就接到，但同樣過不了幣別閘（見 `gate-rejects-what-the-prompt-never-taught`），這篇 ru 仍缺。→ memory/2026-10-01-010545-twmd-babel-nightly
+- **instances**：
+  - 2026-10-01 twmd-babel-nightly — ru 309 → `80a9901c7`
+- **可能層級**：特有教訓（babel dispatcher 排程）
+- **相關**：REFLEXES #38 (f)（存活≠生產：這條 worker 一直活著、一直在做，只是做不出來）、SQUEEZE §義務鐵律第 4 條（cascade exhausted 要 escalate，不是讓最弱的一層無限重試）
+- **verification_count**: 1
+
 ### 2026-09-30 twmd-maintainer-am — ascii-fallback-guard-only-catches-the-empty-case-not-the-meaningless-one：守門防的是「刪成空的」，沒防「刪成一段沒有意義但非空的」
 
 - **pattern**: ascii-fallback-guard-only-catches-the-empty-case-not-the-meaningless-one
@@ -339,11 +362,12 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **觸發**：2026-09-30 維護班 merge 了投稿文章 `knowledge/Politics/309本里長帳簿.md`，二十分鐘內 babel 產出七個語言的譯文，全部叫 `309.md`。slug 推導的順序是「`_translations.json` 反推 → `knowledge/_slug-map.json` 人工表 → ASCII 退路」，而 2026-07-27 已為此立過守門：ASCII 退路把非 ASCII 刪光得到空字串時落成 `TBD-NEEDS-SLUG`，dispatcher 直接跳過，不讓佔位符傳到其他語言（當時 7 篇卡在這狀態）。但 `309本里長帳簿` 刪掉非 ASCII 之後剩的是 `309`——非空、形式合法、看起來就像一個 slug，於是守門不響。**數字或英文字母開頭的中文檔名正好長在這個縫上**：同分類的其他 17 篇 Politics 中文檔名都是純中文，刪光之後是空的，所以都被守門接住了，只有這一篇不是。已補人工表那一格（`ba49c5469`，`village-chief-campaign-ledgers`），趕在 `309` 進 `_translations.json` 之前——一旦進去，它會被反推成既有 slug 並永遠優先。
 - **instances**：
   - 2026-09-30 twmd-maintainer-am — `309本里長帳簿` → 七語 `309.md`，守門未響 → `ba49c5469`
+  - 2026-10-01 twmd-babel-nightly — 人工表補上後十語仍落成 `309.md`（在補表前就排進佇列；dispatcher 推 slug 以既有譯文檔名優先、人工表墊底，309 一進 `_translations.json` 就永遠贏），並找到第二例：`Society/2026年分科爭議.md` 刪剩 `2026`，十二語 08-09 起以 `/society/2026` 上線七週。已機械化：`prepare-batch` 退路改成「有任何字被刪掉就不算 slug」，`babel-preflight` 的 slug 登記檢查同步（`28ac08c38`）；309 十檔未推送直接改名、2026 十二檔改名加 301（`94070476c`）。門檻沒用長度或純數字：直接問「殘餘是否等於原檔名」，正控制 309／2026／AI在台灣會叫、taiwan-food 不叫 → memory/2026-10-01-010545-twmd-babel-nightly
 - **可能層級**：操作規則＋儀器候選（收緊既有守門，非新建）
 - **候選機械化**：ASCII 退路的結果除了「非空」還要過一個有意義性門檻——純數字、長度 < 3、或不含任何字母，一律當成需要人工 slug（落 `TBD-NEEDS-SLUG` 走既有跳過路徑）。門檻要拿全庫現有 slug 校準過再定，不憑想像（REFLEXES #66）。同一支可順便對 `_slug-map.json` 做覆蓋率檢查：有幾篇中文檔名文章目前零譯文且不在人工表裡。
 - **相關**：REFLEXES #85（「不知道」需要自己的符號——本例的 `TBD-NEEDS-SLUG` 正是那個符號，問題是它沒被觸發）、#38（一個值蓋住兩種真相：`309` 同時是「合法 slug」與「推導失敗的殘餘」）、#82（非空代理有意義）；OBSERVER-QUEUE #90（譯文網址跟 zh 不一致的存量）是同族的下游
-- **未解**：本班未清理那七個已落地的 `309.md`（產線此刻正在寫的未追蹤檔，非本席位範圍，REFLEXES #35）
-- **verification_count**: 1
+- **未解**：~~本班未清理那七個已落地的 `309.md`~~ retired by 2026-10-01-010545-twmd-babel-nightly（十檔改名 `28ac08c38`）
+- **verification_count**: 2
 
 ### 2026-09-30 twmd-maintainer-am — translation-gates-check-a-file-against-itself-never-against-its-source：譯文閘門驗的是「檔案跟自己一致」，沒有一道在問「它跟中文原文的分類一致嗎」
 
@@ -1264,9 +1288,10 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **觸發**：2026-09-18 00:45 kill PID 12398 → 00:49 launchd 自動起 PID 17728（舊 wrapper、無 `--exclude-file`），pre-commit 平行 writer 警告揪出 → 改寫 wrapper（去重清單＋fleet 核發 worker＋`--order forward`）→ `launchctl kickstart -k` 兩次才到位（PID 31458）。wrapper 住 /tmp，重開機就會消失，keepalive 那時會變成 exit 1 的無限重試。→ [memory](memory/2026-09-18-010301-twmd-babel-nightly.md)
 - **instances**：
   - 2026-09-19 twmd-babel-nightly — 第二面：supervisor 的**環境**也是設定的一部分。把 wrapper 從 /tmp 搬進 repo 重新 `launchctl submit`，第一輪就 crash-loop：launchd 沒有 shell profile，`python3` 解析到 Apple 3.9，status.py 的 `str | None` 當場炸。09-14 那次能跑是因為 submit 從帶 venv PATH 的 shell 發出，環境是繼承來的，不在任何檔案裡——kill 換回舊設定是第一面，重掛換掉隱形環境是第二面。修：wrapper 明寫 `PY=~/.venvs/taiwanmd/bin/python` 並驗 ≥3.10，否則 sleep 後退出不讓 keepalive 空轉。同一晚第二層：PATH 也沒有 node，成功路徑上的 `npx prettier` 炸掉（見 `threadpool-swallows-worker-death`），wrapper 再補 `~/.local/bin` 與 `node_modules/.bin` → memory/2026-09-19-004809-twmd-babel-nightly
+  - 2026-10-01 twmd-babel-nightly — 第三面：supervisor 的**重生頻率**也會吃掉記憶體裡的狀態。給付費層設「同一篇失敗三次就還給一般 worker」、次數記在記憶體；佇列只剩一篇時 keepalive 每幾分鐘重生一次、每次歸零，兩個 run 內 Haiku 已試五次，上限等於不存在。修：落 `.taiwanmd/babel-restricted-fails.json` 跨重生累計（`38a971dea`）。任何「本 run 內最多 N 次」的上限，在 keepalive 底下都要問 run 有多長 → memory/2026-10-01-010545-twmd-babel-nightly
 - **可能層級**：操作規則（BABEL-VORTEX-LOOP §三重巡檢應加第四問：「是誰讓它活著的、設定住哪裡」）＋ 通用反射候選
 - **相關**：REFLEXES #38 (f)「存活≠生產」（那條說活著不代表在做事，本條說活著也不代表是它自己在活）。REFLEXES #60 silent default（wrapper 沒寫 `--order` 就吃到 dispatcher 的 reverse 預設，跟 pipeline 「全軍 forward」的 directive 靜默背離四天）。REFLEXES #56 canonical↔production drift
-- **verification_count**: 2
+- **verification_count**: 3
 
 ### 品質閘門只在「錯」上長，從不在「悶」上長（2026-09-19 Muse 觀察，vc=1）
 
