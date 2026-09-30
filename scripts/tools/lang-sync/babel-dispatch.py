@@ -109,6 +109,9 @@ CASCADE_EXHAUSTED_LOG = REPO / "reports" / "babel" / "cascade-exhausted.json"
 # 逐層 fallback，精確追蹤需要記錄「這篇被哪些 backend 試過」，成本高於本次
 # 任務範圍）。門檻本身是常數，之後若發現太早/太晚觸發，改這一行即可。
 CASCADE_EXHAUSTED_FAIL_COUNT = 8
+# 付費層（Tier 6/7）對「弱適配被撤回 skip」語言的 P0 缺檔優先權：本 run 對同一篇失敗
+# 滿這個次數就還給 normal worker（見 make_task_filter._leave_to_restricted）。
+RESTRICTED_GIVEBACK_FAILS = 3
 OBSERVER_QUEUE_MD = REPO / "docs" / "semiont" / "OBSERVER-QUEUE.md"
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -203,6 +206,7 @@ class Worker:
     frozen_until: Optional[float] = None  # time.monotonic() deadline
     tier: str = "normal"         # "normal" | "tier6" | "tier7" — restricted delegation (OBSERVER-QUEUE #18)
     skip_langs: frozenset = frozenset()  # 這個 worker 不接的語言（--worker-skip-langs；弱適配切軌，2026-09-19）
+    lifted_langs: frozenset = frozenset()  # 弱適配但被 starvation guard 撤回 skip 的語言（2026-10-01，見 make_task_filter）
 
 
 def parse_worker_arg(raw: str, tier: str = "normal") -> Worker:
@@ -616,6 +620,8 @@ class RunState:
         self.tier6_cap: int = BABEL_TIER6_NIGHTLY_CAP       # 由 main() 依 --tier6-nightly-cap 覆寫
         self.tier7_cap: int = BABEL_TIER7_NIGHTLY_CAP       # 由 main() 依 --tier7-nightly-cap 覆寫
         self.exhausted_this_run: list = []                  # ["lang:zh", ...] 本 run 觸發 cascade_exhausted 的清單
+        self.restricted_tiers: frozenset = frozenset()      # 本 run 實際有 worker 的 Tier 6/7（main() 設定）
+        self.restricted_fails: dict = defaultdict(int)      # "lang:zh" -> Tier 6/7 本 run 失敗次數
         # 輪中補貨（2026-09-21）：本輪已排進佇列的 (lang:zh)，補貨時不重排；補貨序號與鎖
         self.round_seen: set = set()
         self.topup_lock = threading.Lock()
@@ -1617,6 +1623,8 @@ def process_task(worker: Worker, lang: str, group_path: Path, zh_path: str,
         if not ok and not capacity_fail:
             state.quarantine_log[lang].add(zh_path)
             state.fail_counts[f"{lang}:{zh_path}"] += 1
+            if worker.tier != "normal":
+                state.restricted_fails[f"{lang}:{zh_path}"] += 1
             # cascade exhausted escalation（義務鐵律第 4 條，OBSERVER-QUEUE #18(c)，
             # 哲宇 2026-09-05 拍板）：edge-trigger 在累計失敗次數「剛好跨過」門檻的
             # 那一次記一筆，不是每次失敗都記（否則同一篇會洗版 report.jsonl）。
@@ -1785,12 +1793,36 @@ def make_task_filter(worker: Worker, state: RunState, report: JsonlWriter, log: 
     """
     tier_filter = make_restricted_task_filter(worker, state, report, log)
     skip = worker.skip_langs
+    lifted = worker.lifted_langs
     live_excl = excl_cache if (excl_cache is not None and excl_cache.path is not None) else None
-    if not skip and live_excl is None:
+    if not skip and not lifted and live_excl is None:
         return tier_filter
+
+    def _leave_to_restricted(lang: str, zh_path: str) -> bool:
+        """弱適配語言被 starvation guard 撤回 skip 後，P0 缺檔先讓給 Tier 6/7。
+
+        2026-10-01 babel-nightly 實撞：ru 對全部 normal worker 都是弱格（gemma4:e4b
+        0/292），guard 撤回 skip「不讓語言餓死」，結果佇列裡唯一一篇 ru 缺檔
+        （309本里長帳簿）每輪被 0% 的本機 worker 先搶走，16 小時 310 次失敗，而
+        合格名單裡的 Haiku（ru 先前 5 篇成功）一次都沒拿到。guard 防的是「整個語言
+        沒人做」；付費層接得了的 P0 缺檔不算餓死。付費層在本 run 對同一篇失敗滿
+        RESTRICTED_GIVEBACK_FAILS 次、或兩層夜間額度都用完，就還給 normal worker，
+        不讓付費層對一篇難文章無上限重試。"""
+        if not state.restricted_tiers:
+            return False
+        key = f"{lang}:{zh_path}"
+        with state.lock:
+            if (lang, zh_path) not in state.restricted_eligible:
+                return False
+            if state.restricted_fails[key] >= RESTRICTED_GIVEBACK_FAILS:
+                return False
+            caps = {"tier6": state.tier6_cap, "tier7": state.tier7_cap}
+            return any(state.tier_success_count[tier] < caps[tier] for tier in state.restricted_tiers)
 
     def _ok(lang: str, zh_path: str) -> bool:
         if skip and lang in skip:
+            return False
+        if lifted and lang in lifted and _leave_to_restricted(lang, zh_path):
             return False
         if live_excl is not None and live_excl.excluded(lang, zh_path):
             return False
@@ -2059,14 +2091,18 @@ def main() -> None:
         normal_labels = {w.label for w in workers if w.tier == "normal"}
         starved = [l for l in ALL_TRANSLATION_LANGS
                    if normal_labels and all(l in skip_map.get(lbl, set()) for lbl in normal_labels)]
+        lifted_map: dict = {}
         for l in starved:
             for lbl in normal_labels:
                 skip_map[lbl].discard(l)
+                lifted_map.setdefault(lbl, set()).add(l)
             print(f"⚠️ --worker-skip-langs: lang {l!r} would be skipped by every normal worker — "
-                  f"skip lifted for {l!r} (never starve a language)", file=sys.stderr)
+                  f"skip lifted for {l!r} (never starve a language; P0 缺檔先讓 Tier 6/7)", file=sys.stderr)
         for w in workers:
             if skip_map.get(w.label):
                 w.skip_langs = frozenset(skip_map[w.label])
+            if lifted_map.get(w.label):
+                w.lifted_langs = frozenset(lifted_map[w.label])
 
     if args.langs:
         langs_requested = [x.strip() for x in args.langs.split(",") if x.strip()]
@@ -2106,6 +2142,7 @@ def main() -> None:
 
     state = RunState()
     state.tier6_cap = args.tier6_nightly_cap
+    state.restricted_tiers = frozenset(w.tier for w in workers if w.tier != "normal")
     state.tier7_cap = args.tier7_nightly_cap
     seen_missing_slug: set = set()
     total_enqueued = 0
