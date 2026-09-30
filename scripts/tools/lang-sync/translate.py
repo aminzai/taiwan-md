@@ -703,6 +703,11 @@ Rules:
    optionally followed by ` | one-line summary`): copy the path part BEFORE the
    `|` byte-for-byte (it is a zh-TW file path — do NOT translate or transliterate
    it); translate only the summary text after the `|` if present.
+8. Money: in this source, a bare 元／萬元／億元 amount is New Taiwan dollars. Write it
+   as NT$ plus the number (NT$46,977; NT$3.3 million) or with an explicit "New
+   Taiwan dollar" noun in {lang_name}. NEVER write a bare yuan／юань／يوان／元 (readers
+   take it as Chinese renminbi) and never convert it into {lang_name}'s own national
+   currency. Only 人民幣 in the source means renminbi.
 
 Output format — EXACTLY these marked sections, in this order (===ALT=== only when
 an ALT line is given in the frontmatter fields; otherwise omit that section):
