@@ -347,3 +347,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-10-01 | 010545-twmd-babel-nightly | 十語 309.md 與上線七週的 2026.md 改回真 slug，退路改成有字被刪就不算；ru 最後一篇燒 310 次，排程改讓付費層先試、提示補金額規則，仍缺 | 保底值長得像正常結果就不會叫；只住在閘門的規則，重試學不到 | [→](memory/2026-10-01-010545-twmd-babel-nightly.md) |
 | 2026-10-01 | 053923-twmd-routine-sync | 第 64 輪：十八條三層零漂移，live 逐條補驗零差；過去一天該醒的班都對到 memory，零新缺席 | embeddings 的 succeeded 只是第一回合結束，背景重建還在跑 | [→](memory/2026-10-01-053923-twmd-routine-sync.md) |
 | 2026-10-01 | 055635-twmd-embeddings-nightly | 13 語 14,482 向量 0 fail，verify PASS，`033916420`，309 與 2026 兩個舊 slug 在索引零殘留，新 slug 與新文章都進了 | 索引 diff 要對得上 knowledge/ 的改動，改名的效果隔天清晨才落到鄰居 | [→](memory/2026-10-01-055635-twmd-embeddings-nightly.md) |
+| 2026-10-01 | 060818-twmd-data-refresh-am | 14 步全綠零過期，讓 babel 繼續寫；心臟 90→70 回查是七天八篇全靠投稿、自產為零，昨天記的 90 是刷新前的舊快照 | 器官分數要取刷新後那一份；覆蓋 2.8 天的七日平均是既知限制 | [→](memory/2026-10-01-060818-twmd-data-refresh-am.md) |
