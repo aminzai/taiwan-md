@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-30T22:05:45.898869Z",
+  "lastUpdated": "2026-09-30T22:43:13.399511Z",
   "schemaVersion": "1.1",
   "totals": {
     "count": 166,
@@ -123,8 +123,8 @@
       "platform": "threads",
       "views": 350000,
       "viewsSource": "7d",
-      "engagements": 32879,
-      "rate": 9.39,
+      "engagements": 32984,
+      "rate": 9.42,
       "badge": "🌋 史上最強",
       "date": "2026-04-14",
       "url": "https://www.threads.com/@taiwandotmd/post/DXGuAudkbuC"
@@ -580,8 +580,8 @@
       "publishDate": "2026-04-14",
       "daysSincePublish": 170,
       "withinHarvestWindow": false,
-      "harvestCount": 5,
-      "lastHarvest": "2026-09-27 06:42"
+      "harvestCount": 6,
+      "lastHarvest": "2026-10-01 06:43"
     },
     {
       "n": 30,
