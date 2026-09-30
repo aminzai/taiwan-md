@@ -1,6 +1,6 @@
 ---
 spores: '#29'
-harvest_date: '2026-10-01 06:46'
+harvest_date: '2026-10-01 06:42'
 harvest_window_day: 'D+170'
 batch_reason: 'daily audience flywheel — 窗口內沒有孢子（最新 #175／#176 已 D+39）；動態頁上 #29 李洋按讚聚合到「1.5 萬」，照 09-27 起交接寫死的零判斷條件打開 permalink 重抓數字'
 triggered_by: 'cron (twmd-spore-harvest-am)'

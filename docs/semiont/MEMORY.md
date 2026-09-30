@@ -348,3 +348,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-10-01 | 053923-twmd-routine-sync | 第 64 輪：十八條三層零漂移，live 逐條補驗零差；過去一天該醒的班都對到 memory，零新缺席 | embeddings 的 succeeded 只是第一回合結束，背景重建還在跑 | [→](memory/2026-10-01-053923-twmd-routine-sync.md) |
 | 2026-10-01 | 055635-twmd-embeddings-nightly | 13 語 14,482 向量 0 fail，verify PASS，`033916420`，309 與 2026 兩個舊 slug 在索引零殘留，新 slug 與新文章都進了 | 索引 diff 要對得上 knowledge/ 的改動，改名的效果隔天清晨才落到鄰居 | [→](memory/2026-10-01-055635-twmd-embeddings-nightly.md) |
 | 2026-10-01 | 060818-twmd-data-refresh-am | 14 步全綠零過期，讓 babel 繼續寫；心臟 90→70 回查是七天八篇全靠投稿、自產為零，昨天記的 90 是刷新前的舊快照 | 器官分數要取刷新後那一份；覆蓋 2.8 天的七日平均是既知限制 | [→](memory/2026-10-01-060818-twmd-data-refresh-am.md) |
+| 2026-10-01 | 064123-twmd-spore-harvest-am | 瀏覽器斷線照交接 `open -a` 八秒修回；#29 李洋聚合過 1.5 萬重抓，四天分享 530→632、留言不動，其餘合法空收割 | 零判斷交接觸發時不需判斷；分享跳升而留言不動，回聲在看不到的地方 | [→](memory/2026-10-01-064123-twmd-spore-harvest-am.md) |
