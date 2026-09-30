@@ -281,7 +281,9 @@ def check_slug_registration() -> dict:
         zh = f"{cat}/{p.name}"
         stem = p.stem.lower().replace(" ", "-")
         ascii_fallback = "".join(c for c in stem if c.isascii() and (c.isalnum() or c == "-"))
-        if zh not in has_slug and not ascii_fallback:
+        # 有字被刪掉就不算 slug（2026-10-01，與 prepare-batch 同步）：「309本里長帳簿」
+        # 刪剩 "309" 非空，舊判準當它合格，十語落成 309.md
+        if zh not in has_slug and ascii_fallback != stem:
             unslugged.append(zh)
     return {"available": True, "unslugged": unslugged}
 

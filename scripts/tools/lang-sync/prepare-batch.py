@@ -228,6 +228,13 @@ def main():
                 fallback = Path(zh_path).stem.lower().replace(" ", "-")
                 # strip non-ascii to mark as "needs review"
                 ascii_fallback = "".join(c for c in fallback if c.isascii() and (c.isalnum() or c == "-"))
+                # Lossy fallback is no slug at all (2026-10-01 babel-nightly): if any
+                # character had to be stripped, the residue no longer names the article.
+                # The 2026-07-27 guard only caught the empty case; 「309本里長帳簿」 → "309"
+                # and 「2026年分科爭議」 → "2026" were non-empty, passed, and landed in
+                # every language. Curated slug goes in knowledge/_slug-map.json instead.
+                if ascii_fallback != fallback:
+                    ascii_fallback = ""
                 slug = ascii_fallback or "TBD-NEEDS-SLUG"
                 missing_slugs.append((zh_path, slug))
             en_path = f"knowledge/{args.lang}/{category}/{slug}.md"
