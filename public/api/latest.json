@@ -1,8 +1,17 @@
 {
-  "_generated": "2026-09-29T22:06:22.851Z",
+  "_generated": "2026-09-30T22:06:23.785Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
+      {
+        "title": "309 本里長帳簿：花三萬和花十二萬的挑戰者，勝率都是三成",
+        "desc": "彰化市台鳳里一位剛畢業的素人，2022 年拿到 732 票，選完自己貼了 3,275 元。那一年全台 13,988 位村里長候選人裡，只有 309 人在監察院留下政治獻金帳本。把這 309 本帳跟開票結果放在一起算，沒有現任身分的挑戰者，花三萬元以下和花十二萬元以上的當選率都落在三成左右——錢量得出一個人在里裡經營了多久，卻很難把挑戰者變成里長。",
+        "category": "politics",
+        "href": "/politics/309%E6%9C%AC%E9%87%8C%E9%95%B7%E5%B8%B3%E7%B0%BF",
+        "date": "2026-09-28T13:27:27+08:00",
+        "readingTime": 9,
+        "image": ""
+      },
       {
         "title": "動物園與展演動物倫理",
         "desc": "從鐵籠裡的大象到 Xpark 的水母牆——台灣正在重新定義人與被展示動物的關係",
@@ -263,18 +272,27 @@
         "date": "2026-09-19T02:58:12+08:00",
         "readingTime": null,
         "image": ""
-      },
-      {
-        "title": "台灣氣候危機與淨零轉型：核三公投沒過那天，物理上限的選擇才剛開始",
-        "desc": "2025 年 8 月 23 日核三延役公投：434 萬同意票、74% 贊成，投票率 29.53% 沒到門檻。公投沒過，隔天賴清德開出三原則，七個月後台電在 2026 年 3 月 27 日把延役申請送進核安會。98% 能源靠進口、9 兆台幣淨零、地熱目標 200 MW 只蓋出 7.4 MW、離岸風電裝置量全球第七、Onkalo 終極處置場、TerraPower 第四代核電——這座島嶼的能源題從來不是政治題，是物理上限題。",
-        "category": "nature",
-        "href": "/nature/%E5%8F%B0%E7%81%A3%E6%B0%A3%E5%80%99%E5%8D%B1%E6%A9%9F%E8%88%87%E6%B7%A8%E9%9B%B6%E8%BD%89%E5%9E%8B",
-        "date": "2026-09-19T01:09:12+08:00",
-        "readingTime": 26,
-        "image": "/article-images/nature/maanshan-nuclear-plant-nan-wan-2014.webp"
       }
     ],
     "en": [
+      {
+        "title": "The 2026 Advanced Subjects Test Controversy: A Structural Crisis of Educational Integrity",
+        "desc": "In July 2026, the Advanced Subjects Test was delayed for the first time due to Super Typhoon Bavi; following the release of results, 149 exam appeals were filed, all of which were rejected by the CEEC. With identical options in Biology and histogram errors in Geography, official responses merely claimed \"no impact on performance.\" Legislators, parents, and a civic petition are demanding verifiable evidence rather than mere conclusions.",
+        "category": "society",
+        "href": "/en/society/2026-advanced-subjects-test-controversy",
+        "date": "2026-10-01T00:54:21+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "309 Village Head Books: Challengers Spending 30,000 or 120,000 See a 30% Win Rate",
+        "desc": "A novice from Taifeng Township, Changhua City, who received 732 votes in 2022 and paid 3,275 NTD for their own campaign. Out of the 13,988 village head candidates nationwide that year, only 309 submitted political donation books to the Control Yuan. When comparing these 309 books with election results, the success rate for challengers without incumbent status who spent under 30,000 NTD and those who spent over 120,000 NTD were both around 30%—the amount of money reveals how long someone has operated in the village, but it is difficult to turn a challenger into a village head.",
+        "category": "politics",
+        "href": "/en/politics/village-chief-campaign-ledgers",
+        "date": "2026-10-01T00:45:38+08:00",
+        "readingTime": 9,
+        "image": ""
+      },
       {
         "title": "Cognitive Warfare: The AI Industrialization Phase of Taiwan's Information Battlefield",
         "desc": "In December 2024, the 'China United Front Documentary' surpassed 2 million views. In Q4 2025, 1,076 CCP state media accounts on Douyin published 560,000 videos, using facial recognition to identify 57 Taiwanese individuals. In October 2025, Shen Pei-yang was formally investigated by the Chongqing Public Security Bureau for the 'crime of splitting the country.' Cognitive warfare has entered a new phase of AI industrialization and 'using Taiwan to criticize Taiwan,' but the term 'cognitive warfare' itself is also facing internal tensions regarding its potential for abuse in Taiwan.",
@@ -526,27 +544,27 @@
         "date": "2026-09-28T02:50:37+08:00",
         "readingTime": null,
         "image": ""
-      },
-      {
-        "title": "Mark Liu: The Berkeley PhD Who Succeeded Morris Chang — Six Years of Decision-Making in the US-China Chip Crossfire",
-        "desc": "In June 2018, Morris Chang retired, and Mark Liu and C.C. Wei jointly took the helm of TSMC. This UC Berkeley electrical engineering doctorate steered the world's most important chipmaker with an engineer's precision, announcing the Arizona fab, navigating geopolitical crosscurrents amid six years of US-China tech competition, and handing the reins to C.C. Wei upon his retirement in June 2024 — leaving behind a final line: 'Buy TSMC.'",
-        "category": "people",
-        "href": "/en/people/mark-liu",
-        "date": "2026-09-28T02:50:37+08:00",
-        "readingTime": 7,
-        "image": ""
-      },
-      {
-        "title": "Taiwan Railway History: The \"Lung Disease\" Railway, the \"Black-Headed Ones,\" and the Line That Lost Its Foreign Names",
-        "desc": "A road the Japanese called \"lung disease\" that became a high-speed artery carrying 200,000 people daily over a century. Engineer Becker was scrapped by the Japanese; Hasegawa’s trunk line was renamed post-war; every generation pushed the previous records to footnotes. Foreign names faded, leaving Taiwanese slang like \"black-headed ones\" and political slogans like \"Juguang\" and \"Ziqiang,\" until the Puyuma and Taroko era finally laid indigenous place names back onto the tracks.",
-        "category": "history",
-        "href": "/en/history/taiwan-railway-history",
-        "date": "2026-09-28T01:35:43+08:00",
-        "readingTime": 16,
-        "image": "/article-images/history/tra-taitung-line-fireman-1970s.webp"
       }
     ],
     "ja": [
+      {
+        "title": "2026年分科測驗不送分問題：教育の誠実性における構造的危機",
+        "desc": "2026年7月の分科測驗が強烈台風バビ（巴威）の影響で史上初の延期となり、成績発表後に149件の試験問題への異議申し立てが発生。大学入学考試中心（大考中心）は全件を原案維持とし、1問も救済措置を講じなかった。生物科で2つの選択肢が同一、地理科で問題文が折れ線グラフとしているのに選択肢が全て棒グラフであるなどの明らかな瑕疵に対し、公式回答は「解答に影響しない」の一点張り。立法委員、保護者、市民連署が求めているのは極めてシンプルだ：検証可能な根拠を示せ、結論だけの一言で済ませるな。",
+        "category": "society",
+        "href": "/ja/society/2026-advanced-subjects-test-controversy",
+        "date": "2026-10-01T00:54:21+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "309本の里長帳簿：3万円と12万を費やした挑戦者の勝率はいずれも三割",
+        "desc": "彰化市台鳳里で、卒業直後の素人が732票を獲得し自己負担3,275元で選挙を終えた事例を紹介。全台湾の村長候補者13,988名のうち、政治献金帳簿を監察院に提出したのはわずか309名であり、このデータから挑戦者の勝率が示されています。",
+        "category": "politics",
+        "href": "/ja/politics/village-chief-campaign-ledgers",
+        "date": "2026-10-01T00:45:38+08:00",
+        "readingTime": 9,
+        "image": ""
+      },
       {
         "title": "台湾前途決議文：二文字の「目前」が二十七年を支えた",
         "desc": "1999年、林濁水は「国号中華民国」の前に「目前」という二文字を加えた。扁系はこれを快く思わなかった。二文字は独立派と中間有権者を同時に安心させ、2000年の初の政権交代への道を開いた。二十七年後、台湾の若者にとって「台湾はもともと独立している」は常識となっているが、その常識が曖昧に満ちた一つの文書から生まれたことを知らない。",
@@ -798,27 +816,27 @@
         "date": "2026-09-28T00:33:52+08:00",
         "readingTime": 14,
         "image": ""
-      },
-      {
-        "title": "台湾5Gネットワーク建設とデジタルトランスフォーメーション",
-        "desc": "台湾が4Gの先行から5Gの展開へ、デジタルトランスフォーメーション国家戦略とスマートアプリケーションの発展過程を探る",
-        "category": "technology",
-        "href": "/ja/technology/taiwan-5g-digital-transformation",
-        "date": "2026-09-28T00:33:52+08:00",
-        "readingTime": 13,
-        "image": ""
-      },
-      {
-        "title": "ウィキペディアと台湾：デジタル主権、文化的実践、多民族の知識のモザイク",
-        "desc": "2007年の台北Wikimania開催から2021年の財団によるグローバルな対応まで、台湾のウィキコミュニティはクラウド上での系統的な浸透と戦うだけでなく、ウィキペディア愛古蹟（Wiki Loves Monuments）・GLAM連携・教育プロジェクトを通じて、台湾の文化遺産・学術的視点・先住民族語を国際社会へ発信し続けている。これは真の姿を守り、文化的レジリエンスを深める長い歩みだ。",
-        "category": "technology",
-        "href": "/ja/technology/wikipedia-in-taiwan",
-        "date": "2026-09-28T00:33:52+08:00",
-        "readingTime": 35,
-        "image": ""
       }
     ],
     "ko": [
+      {
+        "title": "2026년 분과측험(分科測驗) 미정답 처리 논란: 교육 신뢰성의 구조적 위기",
+        "desc": "2026년 7월, 강력한 태풍 바위(Bavi)의 영향으로 분과측험이 사상 처음으로 연기되었다. 성적 발표 후 149건의 문항 이의 제기가 발생했으나, 대입시험센터는 모든 안을 원안대로 유지하며 단 한 문제도 정답 처리하지 않았다. 생물 과목의 선택지 중복, 지리 과목의 도표 오류 등에 대해 당국은 \"답안 작성에 영향이 없다\"라고만 답했다. 국회의원과 학부모, 시민 연서명단이 요구하는 것은 단순하다. 결론뿐 아니라 검증 가능한 근거를 제시하라는 것이다.",
+        "category": "society",
+        "href": "/ko/society/2026-advanced-subjects-test-controversy",
+        "date": "2026-10-01T00:54:21+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "309건의 리장(里長) 장부: 3만 위안과 12만 위안을 쓴 도전자, 당선율은 모두 3할",
+        "desc": "창화시 타이펑리에서 졸업한 비전문가 한 명이 2022년에 732표를 얻고 3등에 머물렀다. 그가 신고한 정치기부금 장부는 수입 46,977위안, 지출 50,252위안, 자비 부담액 3,275위안을 기록했다. 이 309건의 장부와 선거 결과를 비교해보면, 현직이 아닌 도전자들 중 가장 적게 쓴 그룹과 가장 많이 쓴 그룹의 당선율이 거의 동일하다는 비직관적인 사실이 드러난다.",
+        "category": "politics",
+        "href": "/ko/politics/village-chief-campaign-ledgers",
+        "date": "2026-10-01T00:47:41+08:00",
+        "readingTime": 9,
+        "image": ""
+      },
       {
         "title": "타이완 국산 영화: 스크린 옆에서 말하던 사람, 그리고 죽고 다시 살아난 영화사",
         "desc": "1930년대 극장 안, 변사(辯士)는 무성 영화 옆에 서서 타이완어(대만어)로 즉흥적인 해설을 덧붙였다. 90년 후, <해각칠호>는 다섯 가지 언어를 동시에 스크린으로 불러들였다. 타이완어 영화는 한때 세계 3대 드라마 장르 생산국이었으나 말살되었고, 새로운 영화들이 베니스에서 황금사자상을 거머쥐던 시절 극장 내 국산 영화의 관객 점유율은 0.36%까지 추락했다. 국산 영화는 단순히 나쁜 것에서 좋은 것으로 변해온 직선이 아니라, 반복적으로 죽음이 선언되고 다시 살아난 역사의 기록이다.",
@@ -1070,27 +1088,27 @@
         "date": "2026-09-28T00:33:52+08:00",
         "readingTime": 13,
         "image": ""
-      },
-      {
-        "title": "레이(유튜버)",
-        "desc": "2005년생 대만 고등학생 쉬첸루이(레이)는 일본 수학 여행 중 \"내 이름은 레이, 저는 대만에서 왔습니다\"라는 한마디로 화제가 되었다. 현재 트위치 팔로워 270만 명, 유튜브 구독자 143만 명을 보유하고 있으며, 미국 GQ 인기 영상에서 대만 여권과牛肉면, 버블티를 소개하고 아디다스와 계약하여 개인 브랜드 RUEI를 출시했다. 이후 은퇴를 선언하고 애틀랜타 치과 클리닉에 투자하여 세계에 대만 젊은이들의 가능성을 보여주고 있다.",
-        "category": "people",
-        "href": "/ko/people/ray-youtuber",
-        "date": "2026-09-28T00:33:52+08:00",
-        "readingTime": 9,
-        "image": ""
-      },
-      {
-        "title": "동방그룹: 상하이 방직공장에서 대만 최다 각형 상업제국까지",
-        "desc": "87년 전 상하이의 작은 방직공장이 어떻게 10대 산업을 아우르고 자산 3조 원을 넘는 대만 상업제국으로 성장했는가? 동방그룹의 발전사는 대만 기업인의 영광에서 정치적 리스크에 이르는 궤적을 증명한다",
-        "category": "economy",
-        "href": "/ko/economy/taiwanese-companies-far-eastern-group",
-        "date": "2026-09-28T00:33:52+08:00",
-        "readingTime": 8,
-        "image": ""
       }
     ],
     "es": [
+      {
+        "title": "Controversia por la falta de asignación de puntos en el examen de especialización de 2026: una crisis estructural de integridad educativa",
+        "desc": "En julio de 2026, el examen de especialización se retrasó por el tifón Bavi; tras los resultados, surgieron 149 reclamaciones que el Centro de Exámenes desestimó íntegramente.",
+        "category": "society",
+        "href": "/es/society/2026-advanced-subjects-test-controversy",
+        "date": "2026-10-01T00:54:21+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "309 cuadernos de contabilidad de jefes de aldea: los retadores que gastan 30 000 y 120 000 tienen una tasa de victoria del 30 %",
+        "desc": "Un novato recién graduado en el barrio Taifeng de la ciudad de Changhua obtuvo 732 votos en 2022 y terminó pagando 3275 NTD de su bolsillo. Ese año, de 13 988 candidatos a jefe de aldea en toda Taiwán, solo 309 dejaron sus libros de contabilidad de financiación política en el Yuan de Control. Al cruzar esos 309 libros con los resultados electorales, surge un hallazgo contraintuitivo: entre los retadores sin cargo previo, tanto los que gastaron menos de 30 000 como los que gastaron más de 120 000 tienen una tasa de victoria en torno al 30 % — el dinero mide cuánto tiempo lleva un candidato arraigado en el barrio, pero cuesta convertir a un retador en jefe de aldea.",
+        "category": "politics",
+        "href": "/es/politics/village-chief-campaign-ledgers",
+        "date": "2026-10-01T00:47:41+08:00",
+        "readingTime": 9,
+        "image": ""
+      },
       {
         "title": "Condado de Chiayi: 490,000 personas prestan su rostro a Alishan y nadie recuerda la capital del condado en Taibao",
         "desc": "A las cinco de la mañana, los puestos de ostras de Dongshi aún están en el agua; la mitad de los ostiones del país provienen de estas aguas. A 100 kilómetros, el ferrocarril forestal de Alishan, inaugurado en 1912, tiene una longitud total de 66.6 kilómetros y abarca veinte mil pings. El Museo Nacional Palace (Sucursal Sur) cerca de la estación de tren de alta velocidad de Taibao tardó 15 años en abrir y recibió 760,000 visitantes en 2018. Cuando la capital del condado de Chiayi se trasladó de la ciudad de Chiayi a Taibao en 1991, todo el país consideraba que Chiayi era solo la ciudad de Chiayi. Treinta y cinco años después, este condado, con 490,000 habitantes rodeando los 270,000 residentes separados, tiene un índice de envejecimiento del 174%, el más alto de Taiwán.",
@@ -1342,27 +1360,27 @@
         "date": "2026-09-28T01:35:43+08:00",
         "readingTime": 10,
         "image": ""
-      },
-      {
-        "title": "Chinese Taipei: The Ticket That Lets Taiwan Enter, But Won't Print Its Own Name",
-        "desc": "In the 1960 Rome Olympics, the Taiwanese delegation marched into the opening ceremony holding a white banner reading 'UNDER PROTEST,' the only opening ceremony protest in Olympic history. From Chiang Ching-kuo rejecting the IOC's offer of 'Taiwan,' Hsü Hsiang winning the lawsuit against the IOC, and the Lausanne Agreement bringing the Plum Blossom flag and anthem, to the 2018 referendum where athletes themselves voted to reject renaming—this name has remained unchanged for forty years, but those who are stuck between advancing and retreating on the podium are always the athletes who need it to compete, not the politicians arguing over the name.",
-        "category": "society",
-        "href": "/es/society/chinese-taipei",
-        "date": "2026-09-28T00:55:28+08:00",
-        "readingTime": 12,
-        "image": "/article-images/society/under-protest-rome-1960.webp"
-      },
-      {
-        "title": "El arte de nuevos medios en Taiwán",
-        "desc": "Desde los pioneros del video en la década de 1980 hasta el premio de RV en Venecia, la trayectoria completa de 16 artistas clave y 40 años de revolución del arte digital. Cómo Taiwán escribe poesía con código y graba su nombre en el mapa artístico internacional.",
-        "category": "art",
-        "href": "/es/art/taiwan-new-media-art",
-        "date": "2026-09-28T00:33:52+08:00",
-        "readingTime": null,
-        "image": ""
       }
     ],
     "fr": [
+      {
+        "title": "Controverse sur l'absence de points attribués lors de l'examen de spécialisation 2026 : une crise structurelle de l'intégrité éducative",
+        "desc": "En juillet 2026, l'examen de spécialisation a été reporté pour la première fois en raison du typhon Bavi ; après la publication des résultats, 149 recours ont éclaté, mais le Centre d'examen a rejeté toutes les demandes. Entre doublons en biologie et erreurs de graphiques en géographie, les autorités affirment que cela « n'affecte pas la réponse ». Députés, parents et pétitionnaires exigent des preuves vérifiables plutôt que de simples conclusions.",
+        "category": "society",
+        "href": "/fr/society/2026-advanced-subjects-test-controversy",
+        "date": "2026-10-01T00:54:21+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "Les 309 cahiers de comptes des maires de quartier : un taux de victoire d'environ 30 %, qu'on dépense 30 000 ou 120 000 dollars",
+        "desc": "Un candidat novice, fraîchement diplômé d'une université à Changhua, a obtenu 732 voix en 2022 et a financé lui-même ses dépenses à hauteur de 3 275 dollars. Parmi les 13 988 candidats à des postes de maire de quartier dans toute l'île, seuls 309 ont tenu à déposer leurs comptes de financement auprès du Bureau des Enquêteurs (Control Yuan). En croisant ces 309 cahiers de comptes avec les résultats du scrutin, on constate une chose contre-intuitive : parmi les candidats sans mandat en cours, ceux qui dépensent le moins et ceux qui dépensent le plus remportent une victoire dans les mêmes proportions.",
+        "category": "politics",
+        "href": "/fr/politics/village-chief-campaign-ledgers",
+        "date": "2026-10-01T00:45:38+08:00",
+        "readingTime": 9,
+        "image": ""
+      },
       {
         "title": "Saliculture taïwanaise : 338 ans d'ensoleillement, comment l'industrialisation a transformé son existence",
         "desc": "En 1665, Chen Yonghua fit construire des bassins de saliculture à Saikou, à Tainan, faisant de la mer, des moussons et du soleil un système industriel. De 1952 à 1961, la consommation de sel pour l'agriculture et l'industrie passa de 35 000 à 245 000 tonnes ; les champs de sel, face à l'industrialisation et au commerce mondial, atteignirent leur point final. Après la dernière récolte mécanisée en 2002, Jingjiao et Zhou Nan ont restitué aux communautés le paysage de la cessation d'activité.",
@@ -1614,27 +1632,27 @@
         "date": "2026-09-27T20:35:37+08:00",
         "readingTime": 28,
         "image": ""
-      },
-      {
-        "title": "Kano : Comment une équipe vice-championne a ouvert la porte du Koshien à Taïwan",
-        "desc": "En août 1931, l'équipe de baseball de l'École agricole et forestière de Chiayi se rend au Koshien au Japon. Cette équipe, composée d'étudiants han, autochtones et japonais, atteint la finale pour remporter le titre de vice-champion. Son héritage dépasse le simple slogan « Tout Chiayi est Kano » ; il révèle comment une colonie a été vue sur le terrain de son colonisateur et comment elle a transformé ce terrain en sa propre mémoire.",
-        "category": "history",
-        "href": "/fr/history/kano-chiayi-agriculture-forestry",
-        "date": "2026-09-27T00:53:11+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "Le chemin de fer forestier d'Alishan : 71,6 km construits pour extraire le bois, préservés pour la culture",
-        "desc": "Inauguré en 1906 et ouvert au trafic en 1912, le chemin de fer forestier d'Alishan a autrefois acheminé le bois de cyprès vers Chiayi et a été interrompu pendant 15 ans après les typhons Morakot et Dujuan. En 2024, la ligne entière a repris son service, passant d'une infrastructure de transport forestier à un paysage culturel. Une fois le train remonté en montagne, la véritable question n'est pas comment dompter la forêt, mais comment continuer à fonctionner entre les catastrophes, le tourisme et la préservation.",
-        "category": "geography",
-        "href": "/fr/geography/alishan-forest-railway",
-        "date": "2026-09-27T00:53:11+08:00",
-        "readingTime": 8,
-        "image": ""
       }
     ],
     "vi": [
+      {
+        "title": "Tranh chấp không cấp điểm kỳ thi phân ngành 2026: Khủng hoảng tính toàn vẹn giáo dục",
+        "desc": "Năm 2026, kỳ thi phân ngành tháng 7 do siêu bão Bavi lần đầu tiên bị hoãn lại, sau khi công bố điểm xảy ra 149 khiếu nại về đề thi, Trung tâm Thi cử Quốc gia duy trì toàn bộ đáp án và không cấp điểm cho bất kỳ câu nào. Sinh vật học có hai lựa chọn giống hệt nhau, địa lý có biểu đồ sai, nhưng đáp lại Trung tâm là \"không ảnh hưởng đến trả lời\". Các nghị sĩ, phụ huynh và một bản kiến nghị công dân chỉ muốn một điều đơn giản: cung cấp bằng chứng có thể kiểm chứng được chứ không chỉ là một kết luận.",
+        "category": "society",
+        "href": "/vi/society/2026-advanced-subjects-test-controversy",
+        "date": "2026-10-01T00:54:21+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "309 cuốn sổ sách của trưởng thôn: Thách thức với chi phí ba vạn và mười hai vạn, tỷ lệ thắng đều là ba thành",
+        "desc": "Một người bình thường mới tốt nghiệp tại Đài Phượng Lý, Thành phố Chương Hóa, giành được 732 phiếu vào năm 2022 và tự đóng góp 3.275 tệ. Trong số 13.988 ứng viên trưởng thôn toàn đảo năm đó, chỉ có 309 người nộp sổ sách tài chính chính trị cho Viện Giám sát. Khi đối chiếu 309 cuốn sổ này với kết quả bầu cử, tỷ lệ đắc cử của các thách thức không phải là đương nhiệm, chi dưới ba vạn và trên mười hai vạn đều dao động quanh mức ba thành—số tiền thể hiện thời gian một người hoạt động trong thôn, nhưng rất khó biến một người thách thức thành trưởng thôn.",
+        "category": "politics",
+        "href": "/vi/politics/village-chief-campaign-ledgers",
+        "date": "2026-10-01T00:45:38+08:00",
+        "readingTime": 9,
+        "image": ""
+      },
       {
         "title": "Bảo tàng Nhân quyền Quốc gia: Những cái tên không được viết trên Bia Nước mắt",
         "desc": "Ngày 10 tháng 12 năm 1999, Lý Đăng Huy tự tay khai mạc \"Bia Nước mắt\" trên Lục Đảo, Bạch Dương viết 28 chữ tả hết đêm dài của mọi bà mẹ khóc, nhưng không viết tên một kẻ gây hại nào. Sáu năm chuẩn bị, năm 2018 khai mạc, năm 2025 ngân sách bị phong tỏa. Một bảo tàng quốc gia được xây để tưởng niệm những gì chính nó đã làm, nhưng 39 năm sau giải tuyên, không một kẻ gây hại nào bị xét xử.",
@@ -1886,27 +1904,27 @@
         "date": "2026-09-28T04:34:35+08:00",
         "readingTime": 8,
         "image": ""
-      },
-      {
-        "title": "Ga Tàu Đài Bắc: Thành phố ngầm đưa người đi, cũng níu chân người ở lại",
-        "desc": "Từ bến tàu gần sông Tam Thủy và Đại Đào Thành, đến cấu trúc ngầm thế hệ thứ tư được kích hoạt năm 1989. Ngày nay, Đường sắt Đài Loan (TRA), Cao tốc Đài Loan, Tàu điện ngầm Đài Bắc và Tàu điện ngầm Sân bay Đào Viên giao nhau tại đây; nơi này không chỉ là nơi người ta rời đi, mà còn là nơi họ tạo dựng sự dừng chân, tụ họp và ký ức đô thị giữa sảnh lớn, phố ngầm, sân ga và các hộp cơm trưa.",
-        "category": "history",
-        "href": "/vi/history/taipei-main-station",
-        "date": "2026-09-28T04:34:35+08:00",
-        "readingTime": 15,
-        "image": ""
-      },
-      {
-        "title": "Huyện Chương Hóa: Vùng nông nghiệp vĩ đại từng đánh bại DuPont, nhưng không giữ chân được người trẻ",
-        "desc": "Năm 1709, Thí Thế Bảng đào kênh Bạch Bổ để dẫn nước sông Trác Thủy tưới tiêu hơn 19.000 công mẫu, sớm hơn 211 năm so với Đại Trại Thủy của Gia Nam. Khởi điểm xây dựng Chương Hóa là từ năm 1723, khi tách ra từ huyện Chư La. Năm 1986, người dân Lộc Cảng trục xuất thương nhân Mỹ DuPont, khởi xướng phong trào bảo vệ môi trường đầu tiên tại Đài Loan. Tháng 4 năm 2026, dân số Chương Hóa là 1,206,458 người, dưới ngưỡng thành phố trực thuộc tỉnh.",
-        "category": "geography",
-        "href": "/vi/geography/changhua-county",
-        "date": "2026-09-28T04:34:35+08:00",
-        "readingTime": 16,
-        "image": ""
       }
     ],
     "id": [
+      {
+        "title": "Kontroversi Tidak Memberikan Poin Ujian Mata Pelajaran 2026: Krisis Struktural Integritas Pendidikan",
+        "desc": "Ujian mata pelajaran Juli 2026 ditunda untuk pertama kalinya karena tifun kuat Bavi, setelah pengumuman nilai meletus 149 pengaduan soal, Pusat Ujian Besar mempertahankan keputusan asli semuanya, tidak satu soal pun diberi poin. Pada mata pelajaran biologi dua pilihan jawaban identik, pada mata pelajaran geografi soal menyebutkan grafik garis tetapi pilihan jawabannya semuanya histogram, balasan resmi semuanya \"tidak memengaruhi menjawab\". Anggota legislatif, orang tua, dan sebuah petisi warga sebenarnya meminta hal yang sederhana: mengeluarkan bukti yang dapat diverifikasi, bukan hanya sebuah kesimpulan.",
+        "category": "society",
+        "href": "/id/society/2026-advanced-subjects-test-controversy",
+        "date": "2026-10-01T00:54:21+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "309 Buku Laporan Keuangan Kepala Desa: Penantang yang Mengeluarkan Rp 300 Ribu dan Rp 1,2 Juta Sama-Sama Punya Tingkat Kemenangan 30 Persen",
+        "desc": "Seorang fresh graduate di Desa Taifeng, Kota Changhua, menerima 732 suara pada 2022 dan mengeluarkan Rp 32.750 dari kantong sendiri. Dari 13.988 calon kepala desa/dusun se-Taiwan tahun itu, hanya 309 orang meninggalkan buku laporan keuangan politik di Komisi Pengawas. Ketika membandingkan 309 buku tersebut dengan hasil pemungutan suara, muncul fakta yang berlawanan dengan intuisi: di antara penantang tanpa status incumbent, tingkat kemenangan mereka yang mengeluarkan paling sedikit dan yang mengeluarkan paling banyak hampir sama.",
+        "category": "politics",
+        "href": "/id/politics/village-chief-campaign-ledgers",
+        "date": "2026-10-01T00:47:41+08:00",
+        "readingTime": 9,
+        "image": ""
+      },
       {
         "title": "Guo Bao: Simbol Michelin dari \"Harimau Menggigit Babi\" di Fuzhou hingga BAO London",
         "desc": "Dalam buku harian bangsawan Shizu dari Hsinchu pada tahun 1927, \"Harimau Menggigit Babi\" adalah kudapan untuk menghibur pekerja saat pesta akhir tahun. Seratus tahun kemudian, antrean di Lexington Street Soho, London, menunggu makanan yang sama; panduan Michelin mencantumkannya dalam rekomendasi Bib Gourmand. Kudapan lipat putih ini telah menyerap sejarah imigrasi Fuzhou selama empat ratus tahun di Taiwan, ritual perayaan akhir tahun oleh tuan tanah dan pekerja, serta bagaimana seorang seniman membawanya ke meja internasional dari Taipei ke London.",
@@ -2158,27 +2176,27 @@
         "date": "2026-09-27T00:47:26+08:00",
         "readingTime": 15,
         "image": ""
-      },
-      {
-        "title": "Sejarah Iklan Taiwan: Lupa Barang yang Dijual, Masih Ingat Lagu Iklannya",
-        "desc": "Lagu iklan panci listrik Datong pada tahun 1968 terdengar di televisi, dan setengah abad kemudian orang Taiwan masih bisa menyanyikan \"Datong Datong barang asli negara\" tetapi tidak ada yang ingat bahwa lagu itu awalnya milik Sanyo. Dari iklan cetak di *Taiwan Nichi Nichi Shinpo* era pemerintahan Jepang, hingga masa darurat militer ketika semua perhatian pulau terikat pada satu saluran dengan hanya tiga stasiun TV, dan kemudian nilai iklan digital melampaui televisi pada tahun 2016—iklan yang paling diingat di Taiwan sering kali membuat orang lupa produknya, tetapi meninggalkan suara dari seluruh era.",
-        "category": "culture",
-        "href": "/id/culture/taiwan-advertising-history",
-        "date": "2026-09-27T00:33:40+08:00",
-        "readingTime": 14,
-        "image": "/article-images/culture/tatung-cooker-100th-2019.webp"
-      },
-      {
-        "title": "Koe Chiteng: Tumbuh di seberang laut, hanya menyanyikan untuk mereka yang bersedia duduk",
-        "desc": "Pada tahun 2013, seorang mahasiswa terdaftar ke lomba menyanyi oleh teman-temannya sebagai leluasa, memainkan dua lagu Coldplay sendirian dan memenehatkannya. Namanya adalah Koe Chiteng, dengan suaranya yang sering digambarkan sebagai 'suara pakcik' yang dalam, dan gaya yang tidak terburu-buru, ia berhasil menempati posisi kecil namun dalam di dunia musik independen Taiwan. Ia tumbuh di seberang laut, menulis lagu di Mumbai dengan gitar yang rusak, dan menyanyikan di depan toko kelontong berusia seratus tahun di Taichung untuk penduduk yang menyeberang jalan mendengarkan. Chen Chien-hsiung menghabiskan sembilan tahun membuat tiga album untuknya, tanpa pernah memaksa sekali pun; pada tahun 2025, lagu 'Jawaban dari Tuhan' yang ia tulis dan nyanyikan untuk sebuah drama televisi Hakka memenangkan Penghargaan Golden Bell.",
-        "category": "people",
-        "href": "/id/people/ke-zhi-tang-musician",
-        "date": "2026-09-27T00:23:12+08:00",
-        "readingTime": 18,
-        "image": "/article-images/people/kowen-ko-portrait.webp"
       }
     ],
     "pt": [
+      {
+        "title": "Controvérsia sobre a não atribuição de pontos no Exame de Classificação por Áreas 2026: crise estrutural da integridade educacional",
+        "desc": "O Exame de Classificação por Áreas de julho de 2026 foi adiado pela primeira vez devido ao supertufão Bavi; após a divulgação das notas, eclodiram 149 recursos contra questões, e o Centro de Exames manteve todas as decisões originais sem conceder pontos a nenhuma questão. Na Biologia, duas alternativas eram idênticas; em Geografia, o enunciado pedia um gráfico de linhas, mas as opções eram todas histogramas; a resposta oficial foi sempre \"não afeta a resposta\". Deputados, pais e uma petição cidadã exigem algo simples: apresentar evidências verificáveis, não apenas uma conclusão.",
+        "category": "society",
+        "href": "/pt/society/2026-advanced-subjects-test-controversy",
+        "date": "2026-10-01T00:54:21+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "309 Livros de Contas de Chefes de Vila: Desafiantes que Gastaram Trinta Mil e Cem Mil, Todos com Taxa de Vitória de 30%",
+        "desc": "Um candidato amador recém-formado em Taipé Chinesa, na cidade de Changhua, obteve 732 votos em 2022 e gastou 3.275 yuans para si mesmo. Dos 13.988 candidatos registrados em Taiwan naquele ano, apenas 309 deixaram registros de doações políticas no Tribunal de Fiscalização Financeira (CGA). Ao comparar esses 309 livros com os resultados eleitorais, percebe-se que a taxa de sucesso entre desafiantes sem cargo atual, gastando menos de trinta mil ou mais de cem mil, fica em torno de 30% — o volume do dinheiro indica quanto tempo uma pessoa gerenciou na vila, mas é difícil transformar um desafiante em chefe de vila.",
+        "category": "politics",
+        "href": "/pt/politics/village-chief-campaign-ledgers",
+        "date": "2026-10-01T00:47:41+08:00",
+        "readingTime": 9,
+        "image": ""
+      },
       {
         "title": "Taipé: Três Tempos em Uma Cidade, o Templo Longshan de 1738 Observando o Taipei 101 de 2004",
         "desc": "A bacia de Taipé abriga três épocas lado a lado: o Templo Longshan (1738), o comércio de chá de Daodaochang (1860) e o Taipei 101 (2004). Uma análise da complexidade histórica da metrópole.",
@@ -2430,27 +2448,27 @@
         "date": "2026-09-27T20:35:37+08:00",
         "readingTime": null,
         "image": "/article-images/culture/shilin-night-market-soundscape-2015.webp"
-      },
-      {
-        "title": "Ao e Montanha (Our Shame): duas funcionárias de tecnologia usam sintetizadores para criar o que não podem dizer no escritório",
-        "desc": "Ao e Montanha (Our Shame) é um duo taiwanês de folktronica, formado por Hsiao Ao (voz, sintetizador, produção) e Isan (bateria, pad), que se conheceram no clube de música da escola secundária e, na universidade, venceram o Jin Shao Award (universitário) de 2015 na categoria composição com folk acústico. Após a formatura, ambas entraram para a indústria tecnológica como funcionárias de escritório. No inverno de 2018, renomearam o projeto — antes chamado «Wei Hsiao Ao» — para «Ao e Montanha»; Hsiao Ao comprou um sintetizador, Isan passou a tocar pad, e o som migrou para a folktronica. Em 2022, após a morte de uma amiga próxima, Hsiao Ao pediu demissão do emprego fixo e o duo lançou o álbum de estreia *Modern Problem*, indicado ao 13.º Golden Indie Music Awards nas categorias Melhor Álbum Pop Alternativo e Melhor Artista Revelação. A 4 de agosto de 2025 saiu o segundo álbum, *Hidden Album*, com equipa internacional: o britânico Jay Reynolds (mixagem, Grammy), o norte-americano Brian Elgin (masterização, Grammy, trabalhou com Dua Lipa e Lana Del Rey), a japonesa ASOBOiSM e o francês Odd People Club. O tema desloca-se da «ansiedade tecnológica» (*Modern Problem*) para as «sombras da humanidade encobertas pela tecnologia» — autoflagelação, amores tabu, golpes com criptomoedas, vivências do corpo feminino — e a faixa «Miffy» presta homenagem à ativista Chen Mei-hui.",
-        "category": "people",
-        "href": "/pt/people/ao-and-mountain-band",
-        "date": "2026-09-27T20:35:37+08:00",
-        "readingTime": 16,
-        "image": ""
-      },
-      {
-        "title": "Hsiao Ch'ing-yang: levando o design taiwanês ao palco mundial",
-        "desc": "Vencedor do Grammy de Melhor Embalagem de Álbum, sete vezes indicado, e finalmente coroado em colaboração com sua filha; figura representativa do design taiwanês no cenário internacional",
-        "category": "people",
-        "href": "/pt/people/xiao-qing-yang-grammy-designer",
-        "date": "2026-09-27T20:35:37+08:00",
-        "readingTime": null,
-        "image": ""
       }
     ],
     "hi": [
+      {
+        "title": "2026 वर्ष विषय-वार परीक्षा में अंक न देने का विवाद: शिक्षा की सत्यनिष्ठा का संरचनात्मक संकट",
+        "desc": "2026 वर्ष जुलाई में विषय-वार परीक्षा प्रचंड तूफान बावी के कारण पहली बार स्थगित हुई। परिणाम घोषित होने के बाद 149 प्रश्नों पर आपत्तियाँ दर्ज की गईं, लेकिन कॉलेज प्रवेश परीक्षा केंद्र ने सभी मूल निर्णय बरकरार रखे और एक भी प्रश्न पर अंक नहीं दिए। जीव विज्ञान में दो विकल्प बिल्कुल समान थे, भूगोल में प्रश्न में रेखा ग्राफ लिखा था लेकिन विकल्पों में सभी बार ग्राफ थे, आधिकारिक जवाब सभी यही थे कि 'इससे उत्तर देने पर कोई प्रभाव नहीं पड़ता'। विधायक, अभिभावक और एक नागरिक याचिका की माँग वास्तव में सरल है: सत्यापन योग्य आधार प्रस्तुत करें, न कि केवल एक निष्कर्ष।",
+        "category": "society",
+        "href": "/hi/society/2026-advanced-subjects-test-controversy",
+        "date": "2026-10-01T00:54:21+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "309 गाँव-मुहल्ले के खातों की किताबें: 30,000 रुपये और 1.2 लाख रुपये खर्च करने वाले दोनों चुनौती देने वालों की जीत की दर तीस प्रतिशत है",
+        "desc": "2022 में चांगहुआ शहर के ताइफेंग मुहल्ले में एक नए स्नातक ने 732 वोट पाए और 3,275 रुपये अपनी जेब से लगाए। उस साल पूरे ताइवान में 13,988 गाँव-मुहल्ले के उम्मीदवारों में से केवल 309 लोगों ने निरीक्षण आयोग के पास राजनीतिक दान के खाते दर्ज किए। इन 309 खातों और मतदान परिणामों को एक साथ देखने पर एक आश्चर्यजनक तथ्य सामने आता है: बिना मौजूदा पद के चुनौती देने वालों में, 30,000 रुपये से कम खर्च करने वालों और 1.2 लाख रुपये से अधिक खर्च करने वालों दोनों की जीत की दर लगभग तीस प्रतिशत है।",
+        "category": "politics",
+        "href": "/hi/politics/village-chief-campaign-ledgers",
+        "date": "2026-10-01T00:45:38+08:00",
+        "readingTime": 9,
+        "image": ""
+      },
       {
         "title": "ताइवान का शहरी विकास और शहर-ग्रामीण विभाजन",
         "desc": "70 साल में कृषि द्वीप से शहरी द्वीप में परिणति, छह महा-शहरों में 70% आबादी का केंद्रीयकरण: समृद्ध ताइचुंग बनाम लुप्त होता युनलिन का निर्मल विरोधाभास",
@@ -2702,27 +2720,27 @@
         "date": "2026-09-26T22:44:48+08:00",
         "readingTime": 8,
         "image": "/article-images/art/street-graffiti-hero-2021.webp"
-      },
-      {
-        "title": "डोमिडोरो: \"गलतियाँ पकड़ने\" को एक सार्वजनिक प्रदर्शन बना देना, हँसी के पीछे सवाल यह है कि किसके पास किसे सुधारने का अधिकार है",
-        "desc": "2024 में एक वीडियो जिसने आठ याओ और चा के जापानी पाठ को सुधारा, \"जापानी पुलिस\" को डोमिडोरो की सबसे पहचानने योग्य भूमिका बना दिया; 2026 में, वह हुआंग शान लियाओ के कार्यों की समीक्षा करने वाले वीडियो से और अधिक लोगों द्वारा देखा गया। टोक्यो के जापानी, मंगा और सामाजिक-सांस्कृतिक समीक्षा से, यौन उत्पीड़न विवाद की कानूनी लड़ाई तक, उसका रास्ता केवल विषैली जुबान नहीं है, बल्कि \"मैं बताऊँगा कि क्या गलत है\" को दर्शकों की सहभागिता वाला प्रदर्शन बना देना है।",
-        "category": "people",
-        "href": "/hi/people/domidoro",
-        "date": "2026-09-26T22:44:48+08:00",
-        "readingTime": 9,
-        "image": ""
-      },
-      {
-        "title": "हत्ता योइची: जल-संसाधन की किंवदंती से \"काटने वाली बड़ी नहर\" तक, एक तकनीकी नौकरशाह की औपनिवेशिक छाप",
-        "desc": "1920 के दशक में, जापानी इंजीनियर हत्ता योइची ने ताइवान के चियानन मैदान में वुशांतो जलाशय और चियानन नहर का निर्माण किया। इस विश्व-स्तरीय परियोजना ने कृषि समृद्धि लाने के साथ-साथ, अपने औपनिवेशिक शोषण की प्रकृति और किसानों पर भारी बोझ के कारण, कुछ किसानों द्वारा \"काटने वाली बड़ी नहर\" का नाम भी पाया। यह लेख हत्ता योइची के गुण-दोष, उनकी प्रबंधन फिलॉसफी की द्वैधता, और इस इतिहास की ताइवानी समाज पर छोड़ी गई जटिल छाप की गहराई से पड़ताल करता है।",
-        "category": "people",
-        "href": "/hi/people/hatta-yoichi",
-        "date": "2026-09-26T22:44:48+08:00",
-        "readingTime": 15,
-        "image": ""
       }
     ],
     "ar": [
+      {
+        "title": "جدل عدم احتساب الدرجات في اختبار المواد الدراسية 2026: أزمة هيكلية في نزاهة التعليم",
+        "desc": "تأجل اختبار المواد الدراسية في يوليو 2026 لأول مرة بسبب إعصار بافي القوي، وبعد إعلان النتائج اندلع جدل حول 149 اعتراضًا على أسئلة الامتحان، حيث أيد مركز الامتحانات الجامعية جميع القرارات الأصلية ورفض احتساب درجات لأي سؤال. في مادة الأحياء كان خياران متطابقين تمامًا، وفي مادة الجغرافيا طلب السرد مخططًا خطيًا بينما كانت جميع الخيارات مخططات أعمدة، والرد الرسمي في كلتا الحالتين كان \"لا يؤثر على الإجابة\". ما يطالب به النواب وأولياء الأمور وعريضة مدنية بسيط في الواقع: تقديم أدلة قابلة للتحقق، لا مجرد استنتاج.",
+        "category": "society",
+        "href": "/ar/society/2026-advanced-subjects-test-controversy",
+        "date": "2026-10-01T00:54:21+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "309 دفتر حسابات رؤساء القرى: المتنافسون الذين ينفقون 30 ألفاً و120 ألفاً، نسبة فوزهما 30%",
+        "desc": "مرشح مبتدئ حديث التخرج في قرية تاي فنغ بمدينة تشانغهوا حصل على 732 صوتاً في 2022، وتكفل من جيبه بـ 3,275 دولار تايواني. في تلك السنة، من بين 13,988 مرشحاً لرئاسة القرى في تايوان كلها، لم يودع 309 شخصاً سوى دفاتر حسابات التبرعات السياسية في مجلس الرقابة. عند مطابقة هذه الدفاتر الـ 309 مع نتائج الفرز، يتضح أمرٌ مخالف للحدس: بين المتنافسين غير الحاليين، نسبة فوز من ينفقون أقل من 30 ألفاً ومن ينفقون أكثر من 120 ألفاً تدور حول 30% — المال يقيس مدة عمل المرشح في قريته، لكنه يعجز عن تحويل المتنافس إلى رئيس قرية.",
+        "category": "politics",
+        "href": "/ar/politics/village-chief-campaign-ledgers",
+        "date": "2026-10-01T00:45:38+08:00",
+        "readingTime": 9,
+        "image": ""
+      },
       {
         "title": "الجزر النائية والثقافة البحرية: من كثافة المصائد الحجرية الأولى عالمياً إلى القانون البيئي لموسم السمك الطائر",
         "desc": "يقل عدد المصائد الحجرية في العالم أجمع عن 600، بينما تضم بنغسو وحدها 574 منها. حولت قومية جزرية متخصصة في صيد السمك الطائر \"الطابوهات\" إلى أدق نظام لإدارة الموارد البحرية.",
@@ -2974,27 +2992,18 @@
         "date": "2026-09-26T22:44:48+08:00",
         "readingTime": 8,
         "image": "/article-images/art/street-graffiti-hero-2021.webp"
-      },
-      {
-        "title": "تشن شو تشو: بائعة خضروات من تايتونغ، تبرعت بعشرات الملايين من أرباح خمسين عاماً في حياة خيرية",
-        "desc": "بائعة خضروات من تايتونغ، تبرعت بعشرات الملايين من أرباح خمسين عاماً، لكنها تقول عن نفسها: «أنا مجرد بائعة خضروات»",
-        "category": "people",
-        "href": "/ar/people/chen-shu-chu-vegetable-vendor-philanthropist",
-        "date": "2026-09-26T22:44:48+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "يويتشي هاتا: من أسطورة الري إلى \"القناة الناهشة\"، بصمة البيروقراطي التقني الاستعمارية",
-        "desc": "في عشرينيات القرن العشرين، أشرف المهندس الياباني يويتشي هاتا على بناء خزان ووشانتو وقناة تشيانان الكبرى في سهل تشيانان في تايوان. في حين جلب هذا المشروع العالمي حصادًا زراعيًا وفيرًا، فقد لُقب بـ \"القناة الناهشة\" من قبل بعض المزارعين بسبب طبيعته الاستغلالية الاستعمارية والأعباء الثقيلة التي فرضها على المزارعين. تتناول هذه المقالة بعمق إنجازات وإخفاقات هاتا، والوجهين لفلسفة إدارته، والبصمة المعقدة التي تركها هذا التاريخ في المجتمع التايواني.",
-        "category": "people",
-        "href": "/ar/people/hatta-yoichi",
-        "date": "2026-09-26T22:44:48+08:00",
-        "readingTime": 15,
-        "image": ""
       }
     ],
     "ru": [
+      {
+        "title": "2026 год: спор о недосдаче баллов по предметным тестам — структурный кризис академической честности",
+        "desc": "В июле 2026 года предметные тесты впервые были отложены из-за сильного тайфуна «Бавьи», после публикации результатов последовало 149 апелляций по тестовым заданиям, Центр вступительных экзаменов в университеты оставил все решения без изменений, не начислив ни по одному вопросу дополнительных баллов. В биологии два варианта ответа были идентичны, в географии в условии требовалось проанализировать «линейную диаграмму», а в вариантах ответа были только «столбчатые диаграммы», официальные ответы в обоих случаях — «не влияет на выполнение задания». Депутаты, родители и гражданская петиция требуют простого: предоставить проверяемые доказательства, а не просто заключение.",
+        "category": "society",
+        "href": "/ru/society/2026-advanced-subjects-test-controversy",
+        "date": "2026-10-01T00:54:21+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
       {
         "title": "Чэнь Сяньцзин: В год получения «Золотой мелодии» за «Лучшего новичка» ей уже было восемь лет в музыке",
         "desc": "«Цинцин» набрала более четырёх миллионов просмотров за семь лет до выхода альбома, а официальный Instagram Gucci заметил её за четыре года до дебютного релиза. Когда «Золотая мелодия-37» в 2026 году вручила ей награду «Лучший новичок», ей было 27 лет, и она занималась музыкой уже восьмой год — от микрофона сообщества «Хэйинь» Политехнического университета до «ответа» поэтессе Ся Ю в рэпе, и всё это без пластинковой компании. Поэтому крики «не понимаю» из зала в тот вечер касались не её дикции, а пути, который ещё не привыкли слышать. Новым был не она, а её путь.",
@@ -3255,18 +3264,36 @@
         "date": "2026-09-22T01:09:08+08:00",
         "readingTime": 12,
         "image": "/article-images/food/formosa-oolong-tea-jacksons.webp"
-      },
-      {
-        "title": "Культура ночных рынков Тайваня",
-        "desc": "164 зарегистрированных ночных рынка, в Тайнане в среднем 38 тысяч человек на один рынок: от храмовых площадей до международных туристических достопримечательностей",
-        "category": "food",
-        "href": "/ru/food/night-market-culture",
-        "date": "2026-09-22T01:09:08+08:00",
-        "readingTime": null,
-        "image": "/article-images/food/shilin-night-market-crowd-2015.webp"
       }
     ],
     "de": [
+      {
+        "title": "Streit um die Nicht-Korrigierung der Fachprüfungen 2026: Eine strukturelle Krise der Bildungsintegrität",
+        "desc": "Bei den Fachprüfungen von Juli 2026, die aufgrund des starken Taifuns Bavi erstmals verschoben wurden, gab es nach Bekanntgabe der Ergebnisse 149 Beschwerden über Fragen; das Prüfungskomitee behielt alle Entscheidungen bei und korrigierte keine einzige Frage. Bei Biologie waren zwei Optionen identisch, und in Geographie wurde ein Liniendiagramm anstelle eines Histogramms verwendet – die offizielle Antwort war stets „keine Beeinträchtigung der Beantwortung“. Abgeordnete, Eltern und eine Bürgerpetition forderten lediglich überprüfbare Grundlagen statt nur einer Schlussfolgerung.",
+        "category": "society",
+        "href": "/de/society/2026-advanced-subjects-test-controversy",
+        "date": "2026-10-01T00:54:21+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "309 Dorfvorsteher-Kassenbücher: Herausforderer mit 30.000 und 120.000 Ausgaben haben beide eine Gewinnrate von 30 %",
+        "desc": "Ein frisch graduierter Quereinsteiger im Dorf Taifeng in Changhua erhielt 2022 732 Stimmen und musste am Ende 3.275 NT$ selbst zuzahlen. Von 13.988 Dorfvorsteher-Kandidaten landesweit hinterließen nur 309 ihre politischen Spendenbücher bei der Kontrollbehörde. Wird man diese 309 Bücher mit den Wahlergebnissen abgleichen, zeigt sich: Bei Herausforderern ohne Amtsbonus liegt die Gewinnrate sowohl bei Ausgaben unter 30.000 als auch über 120.000 bei rund 30 % – Geld misst, wie lange jemand im Dorf verwurzelt ist, macht aber einen Herausforderer nur schwer zum Dorfvorsteher.",
+        "category": "politics",
+        "href": "/de/politics/village-chief-campaign-ledgers",
+        "date": "2026-10-01T00:47:41+08:00",
+        "readingTime": 9,
+        "image": ""
+      },
+      {
+        "title": "Su Beng: Mit einem Knödelladen vierzig Jahre lang die taiwanesische Revolution finanziert",
+        "desc": "Su Beng, mit bürgerlichem Namen Shi Chao-hui, arbeitete einst in China als Untergrundagent für die Kommunistische Partei, wandte sich jedoch nach eigenen Beobachtungen der Tötungen während der Bodenreform davon ab. Zurück in Taiwan plante er ein Attentat auf Chiang Kai-shek, floh nach dessen Scheitern 1952 nach Japan. In Tokios Stadtteil Ikebukuro eröffnete er das Nudelrestaurant „Shin Chin-mi“, verkaufte tagsüber Knödel und schrieb nachts taiwanesische Geschichte – mit dem Einkommen aus diesem Laden finanzierte er vierzig Jahre lang die taiwanesische Unabhängigkeitsbewegung und verfasste das das taiwanesische Nationalbewusstsein weckende Werk „Vierhundert Jahre Geschichte des taiwanesischen Volkes“.",
+        "category": "people",
+        "href": "/de/people/su-beng",
+        "date": "2026-09-29T10:43:05+08:00",
+        "readingTime": 13,
+        "image": "/article-images/people/su-beng-100th-birthday-tsai-2017.webp"
+      },
       {
         "title": "China Motor: Der Laster, der Taiwans Wirtschaft trägt",
         "desc": "Von der 1988 entwickelten „Varica“ bis zum 20-jährigen Marktführer „Veryca“: Wie China Motor die japanische Minicab lokalisiert und zur wirtschaftlichen Säule Taiwans machte",
@@ -3509,33 +3536,6 @@
         "date": "2026-09-28T00:33:52+08:00",
         "readingTime": 22,
         "image": "/article-images/society/leopard-cat-specimen-2026.webp"
-      },
-      {
-        "title": "Au und Shan: Zwei Tech-Angestellte erschaffen mit Synthesizer das, was sie im Büro nicht sagen dürfen",
-        "desc": "Au und Shan (Our Shame) ist ein Duo aus Taiwan; nach dem Tod einer engen Freundin veröffentlichten sie 2022 ihr Debütalbum „Modern Problem“ und 2025 das zweite Album „Hidden Album“, das Themen wie Selbstverletzung, Taburomanzen und weibliche Körpererfahrungen behandelt.",
-        "category": "people",
-        "href": "/de/people/ao-and-mountain-band",
-        "date": "2026-09-27T20:41:55+08:00",
-        "readingTime": 16,
-        "image": ""
-      },
-      {
-        "title": "Xiao Jing-teng: Von der „Kampf-Dämon“-Figur zum Golden Melody King – Eine taiwanesische Stimme, die Legenden schafft",
-        "desc": "Von einem Straßenmusiker zu einer Ikone des Popgenres: Die Geschichte von Xiao Jing-teng und dem Mythos vom „Regengott“",
-        "category": "people",
-        "href": "/de/people/jam-hsiao",
-        "date": "2026-09-27T20:41:55+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "Taiwan: 5G-Netzbau und digitale Transformation",
-        "desc": "Der Weg von der 4G-Führerschaft zur 5G-Infrastruktur in Taiwan – eine Untersuchung der nationalen Strategie und der Entwicklung intelligenter Anwendungen",
-        "category": "technology",
-        "href": "/de/technology/taiwan-5g-digital-transformation",
-        "date": "2026-09-27T16:26:03+08:00",
-        "readingTime": 13,
-        "image": ""
       }
     ]
   }

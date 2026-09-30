@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-29T22:06:05.243Z",
+  "lastUpdated": "2026-09-30T22:06:05.693Z",
   "languages": [
     "zh-TW",
     "en",
@@ -17,17 +17,17 @@
   ],
   "summary": {
     "zh-TW": {
-      "total": 1122,
+      "total": 1123,
       "percentage": 100,
-      "fresh": 1122,
+      "fresh": 1123,
       "stale": 0,
       "missing": 0,
       "deficit": 0
     },
     "en": {
-      "total": 1124,
+      "total": 1125,
       "percentage": 100,
-      "fresh": 1124,
+      "fresh": 1125,
       "metadataStale": 0,
       "stale": 0,
       "missing": 0,
@@ -37,9 +37,9 @@
       "bodyFreshPct": 100
     },
     "ja": {
-      "total": 1124,
+      "total": 1125,
       "percentage": 100,
-      "fresh": 1124,
+      "fresh": 1125,
       "metadataStale": 0,
       "stale": 0,
       "missing": 0,
@@ -49,9 +49,9 @@
       "bodyFreshPct": 100
     },
     "ko": {
-      "total": 1124,
+      "total": 1125,
       "percentage": 100,
-      "fresh": 1124,
+      "fresh": 1125,
       "metadataStale": 0,
       "stale": 0,
       "missing": 0,
@@ -61,9 +61,9 @@
       "bodyFreshPct": 100
     },
     "es": {
-      "total": 1124,
+      "total": 1125,
       "percentage": 100,
-      "fresh": 1124,
+      "fresh": 1125,
       "metadataStale": 0,
       "stale": 0,
       "missing": 0,
@@ -73,9 +73,9 @@
       "bodyFreshPct": 100
     },
     "fr": {
-      "total": 1124,
+      "total": 1125,
       "percentage": 100,
-      "fresh": 1124,
+      "fresh": 1125,
       "metadataStale": 0,
       "stale": 0,
       "missing": 0,
@@ -85,9 +85,9 @@
       "bodyFreshPct": 100
     },
     "vi": {
-      "total": 1124,
+      "total": 1125,
       "percentage": 100,
-      "fresh": 1124,
+      "fresh": 1125,
       "metadataStale": 0,
       "stale": 0,
       "missing": 0,
@@ -97,9 +97,9 @@
       "bodyFreshPct": 100
     },
     "id": {
-      "total": 1124,
+      "total": 1125,
       "percentage": 100,
-      "fresh": 1124,
+      "fresh": 1125,
       "metadataStale": 0,
       "stale": 0,
       "missing": 0,
@@ -109,9 +109,9 @@
       "bodyFreshPct": 100
     },
     "pt": {
-      "total": 1124,
+      "total": 1125,
       "percentage": 100,
-      "fresh": 1124,
+      "fresh": 1125,
       "metadataStale": 0,
       "stale": 0,
       "missing": 0,
@@ -121,9 +121,9 @@
       "bodyFreshPct": 100
     },
     "hi": {
-      "total": 1124,
+      "total": 1125,
       "percentage": 100,
-      "fresh": 1124,
+      "fresh": 1125,
       "metadataStale": 0,
       "stale": 0,
       "missing": 0,
@@ -133,9 +133,9 @@
       "bodyFreshPct": 100
     },
     "ar": {
-      "total": 1124,
+      "total": 1125,
       "percentage": 100,
-      "fresh": 1124,
+      "fresh": 1125,
       "metadataStale": 0,
       "stale": 0,
       "missing": 0,
@@ -145,9 +145,9 @@
       "bodyFreshPct": 100
     },
     "ru": {
-      "total": 1124,
+      "total": 1125,
       "percentage": 100,
-      "fresh": 1124,
+      "fresh": 1125,
       "metadataStale": 0,
       "stale": 0,
       "missing": 0,
@@ -157,9 +157,9 @@
       "bodyFreshPct": 100
     },
     "de": {
-      "total": 1124,
+      "total": 1125,
       "percentage": 100,
-      "fresh": 1124,
+      "fresh": 1125,
       "metadataStale": 0,
       "stale": 0,
       "missing": 0,
@@ -1128,87 +1128,87 @@
       }
     },
     "politics": {
-      "zh-TW": 16,
+      "zh-TW": 17,
       "en": {
-        "count": 16,
-        "fresh": 16,
+        "count": 17,
+        "fresh": 17,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "ja": {
-        "count": 16,
-        "fresh": 16,
+        "count": 17,
+        "fresh": 17,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "ko": {
-        "count": 16,
-        "fresh": 16,
+        "count": 17,
+        "fresh": 17,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "es": {
-        "count": 16,
-        "fresh": 16,
+        "count": 17,
+        "fresh": 17,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "fr": {
-        "count": 16,
-        "fresh": 16,
+        "count": 17,
+        "fresh": 17,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "vi": {
-        "count": 16,
-        "fresh": 16,
+        "count": 17,
+        "fresh": 17,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "id": {
-        "count": 16,
-        "fresh": 16,
+        "count": 17,
+        "fresh": 17,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "pt": {
-        "count": 16,
-        "fresh": 16,
+        "count": 17,
+        "fresh": 17,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "hi": {
-        "count": 16,
-        "fresh": 16,
+        "count": 17,
+        "fresh": 17,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "ar": {
-        "count": 16,
-        "fresh": 16,
+        "count": 17,
+        "fresh": 17,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "ru": {
-        "count": 16,
-        "fresh": 16,
+        "count": 17,
+        "fresh": 17,
         "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "de": {
-        "count": 16,
-        "fresh": 16,
+        "count": 17,
+        "fresh": 17,
         "stale": 0,
         "missing": 0,
         "deficit": 0

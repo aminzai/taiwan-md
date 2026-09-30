@@ -1,40 +1,40 @@
 {
-  "totalArticles": 14612,
+  "totalArticles": 14625,
   "totalCategories": 27,
-  "estimatedContributors": 76,
-  "totalTags": 9149,
+  "estimatedContributors": 77,
+  "totalTags": 9143,
   "categories": [
     {
       "name": "vi",
-      "count": 1124
+      "count": 1125
     },
     {
       "name": "es",
-      "count": 1124
+      "count": 1125
     },
     {
       "name": "ko",
-      "count": 1124
+      "count": 1125
     },
     {
       "name": "hi",
-      "count": 1124
+      "count": 1125
     },
     {
       "name": "fr",
-      "count": 1124
+      "count": 1125
     },
     {
       "name": "en",
-      "count": 1124
+      "count": 1125
     },
     {
       "name": "ja",
-      "count": 1124
+      "count": 1125
     },
     {
       "name": "ru",
-      "count": 1124
+      "count": 1125
     },
     {
       "name": "Technology",
@@ -46,19 +46,19 @@
     },
     {
       "name": "id",
-      "count": 1124
+      "count": 1125
     },
     {
       "name": "ar",
-      "count": 1124
+      "count": 1125
     },
     {
       "name": "pt",
-      "count": 1124
+      "count": 1125
     },
     {
       "name": "Politics",
-      "count": 16
+      "count": 17
     },
     {
       "name": "Society",
@@ -70,7 +70,7 @@
     },
     {
       "name": "de",
-      "count": 1124
+      "count": 1125
     },
     {
       "name": "Lifestyle",
@@ -196,28 +196,28 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 14612,
+    "zh-TW": 14625,
     "en": 0
   },
-  "lastUpdated": "2026-09-29T22:05:49.358Z",
-  "stars": 1191,
+  "lastUpdated": "2026-09-30T22:05:49.932Z",
+  "stars": 1192,
   "forks": 188,
-  "zhPages": 1122,
+  "zhPages": 1123,
   "languagePages": {
-    "zh-TW": 1122,
-    "en": 1124,
-    "ja": 1124,
-    "ko": 1124,
-    "es": 1124,
-    "fr": 1124,
-    "vi": 1124,
-    "id": 1124,
-    "pt": 1124,
-    "hi": 1124,
-    "ar": 1124,
-    "ru": 1124,
-    "de": 1124
+    "zh-TW": 1123,
+    "en": 1125,
+    "ja": 1125,
+    "ko": 1125,
+    "es": 1125,
+    "fr": 1125,
+    "vi": 1125,
+    "id": 1125,
+    "pt": 1125,
+    "hi": 1125,
+    "ar": 1125,
+    "ru": 1125,
+    "de": 1125
   },
-  "enPages": 1124,
-  "totalPages": 1122
+  "enPages": 1125,
+  "totalPages": 1123
 }

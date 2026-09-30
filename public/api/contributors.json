@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-09-29T22:05:49.288Z",
+  "lastUpdated": "2026-09-30T22:05:49.893Z",
   "totals": {
-    "contributors": 76,
+    "contributors": 77,
     "activeWindow": "last 30d"
   },
   "leaderboard": [
     {
       "login": "frank890417",
-      "commits": 9825,
+      "commits": 9828,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
@@ -35,7 +35,7 @@
     },
     {
       "login": "aminzai",
-      "commits": 102,
+      "commits": 103,
       "avatarUrl": "https://avatars.githubusercontent.com/u/71848?v=4",
       "profileUrl": "https://github.com/aminzai",
       "firstCommitAt": null,
@@ -49,16 +49,16 @@
     },
     {
       "login": "tboydar",
-      "commits": 89,
+      "commits": 90,
       "avatarUrl": "https://avatars.githubusercontent.com/u/169805?v=4",
       "profileUrl": "https://github.com/tboydar",
       "firstCommitAt": "2026-03-23 22:51:19 +0800",
-      "lastCommitAt": "2026-09-16 08:47:25 +0800",
+      "lastCommitAt": "2026-09-29 10:43:05 +0800",
       "primaryArea": "translation",
       "breakdown": {
         "content": 10,
         "system": 6,
-        "translation": 87
+        "translation": 88
       }
     },
     {
@@ -202,20 +202,6 @@
       }
     },
     {
-      "login": "bugnimusic",
-      "commits": 11,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/260387338?v=4",
-      "profileUrl": "https://github.com/bugnimusic",
-      "firstCommitAt": null,
-      "lastCommitAt": null,
-      "primaryArea": "other",
-      "breakdown": {
-        "content": 0,
-        "system": 0,
-        "translation": 0
-      }
-    },
-    {
       "login": "BrianHuang813",
       "commits": 11,
       "avatarUrl": "https://avatars.githubusercontent.com/u/66238110?v=4",
@@ -227,6 +213,20 @@
         "content": 0,
         "system": 11,
         "translation": 1
+      }
+    },
+    {
+      "login": "bugnimusic",
+      "commits": 11,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/260387338?v=4",
+      "profileUrl": "https://github.com/bugnimusic",
+      "firstCommitAt": null,
+      "lastCommitAt": null,
+      "primaryArea": "other",
+      "breakdown": {
+        "content": 0,
+        "system": 0,
+        "translation": 0
       }
     },
     {
@@ -386,18 +386,18 @@
       "types": ["💻", "🖋️", "🌍"]
     },
     {
-      "login": "bugnimusic",
-      "name": "Bugni",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/260387338?v=4",
-      "profileUrl": "https://github.com/bugnimusic",
-      "types": ["💻", "🖋️", "🌍", "🐛"]
-    },
-    {
       "login": "BrianHuang813",
       "name": "Brian Huang",
       "avatarUrl": "https://avatars.githubusercontent.com/u/66238110?v=4",
       "profileUrl": "https://github.com/BrianHuang813",
       "types": ["💻", "🤔", "🌍"]
+    },
+    {
+      "login": "bugnimusic",
+      "name": "Bugni",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/260387338?v=4",
+      "profileUrl": "https://github.com/bugnimusic",
+      "types": ["💻", "🖋️", "🌍", "🐛"]
     },
     {
       "login": "iigmir",
@@ -456,11 +456,11 @@
       "types": ["🌍"]
     },
     {
-      "login": "Ray0907",
-      "name": "Ray Tien",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/29456968?v=4",
-      "profileUrl": "https://github.com/Ray0907",
-      "types": ["💻", "🖋️"]
+      "login": "gn00295120",
+      "name": "Lucas Wang",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/30173341?v=4",
+      "profileUrl": "https://github.com/gn00295120",
+      "types": ["💻", "🌍"]
     },
     {
       "login": "r000tmnt",
@@ -470,11 +470,11 @@
       "types": ["💻", "🖋️"]
     },
     {
-      "login": "gn00295120",
-      "name": "Lucas Wang",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/30173341?v=4",
-      "profileUrl": "https://github.com/gn00295120",
-      "types": ["💻", "🌍"]
+      "login": "Ray0907",
+      "name": "Ray Tien",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/29456968?v=4",
+      "profileUrl": "https://github.com/Ray0907",
+      "types": ["💻", "🖋️"]
     },
     {
       "login": "wegoliao",
@@ -545,6 +545,13 @@
       "avatarUrl": "https://avatars.githubusercontent.com/u/118150842?v=4",
       "profileUrl": "https://github.com/Yo0GuitarIT",
       "types": ["💻"]
+    },
+    {
+      "login": "ycku",
+      "name": "ycku",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20721473?v=4",
+      "profileUrl": "https://github.com/ycku",
+      "types": ["🖋️"]
     },
     {
       "login": "expectingshadowland-maker",
@@ -645,11 +652,11 @@
       "types": ["💻", "🖋️"]
     },
     {
-      "login": "ycku",
-      "name": "ycku",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/20721473?v=4",
-      "profileUrl": "https://github.com/ycku",
-      "types": ["🖋️"]
+      "login": "bblawyer918",
+      "name": "bblawyer918",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/178762789?v=4",
+      "profileUrl": "https://github.com/bblawyer918",
+      "types": ["💻"]
     },
     {
       "login": "simanglam",
@@ -895,7 +902,7 @@
   "topSystem": [
     {
       "login": "frank890417",
-      "commits": 9825,
+      "commits": 9828,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
@@ -967,16 +974,16 @@
   "topTranslation": [
     {
       "login": "tboydar",
-      "commits": 89,
+      "commits": 90,
       "avatarUrl": "https://avatars.githubusercontent.com/u/169805?v=4",
       "profileUrl": "https://github.com/tboydar",
       "firstCommitAt": "2026-03-23 22:51:19 +0800",
-      "lastCommitAt": "2026-09-16 08:47:25 +0800",
+      "lastCommitAt": "2026-09-29 10:43:05 +0800",
       "primaryArea": "translation",
       "breakdown": {
         "content": 10,
         "system": 6,
-        "translation": 87
+        "translation": 88
       }
     },
     {
@@ -1036,7 +1043,7 @@
       }
     }
   ],
-  "weeklyActive": 1,
+  "weeklyActive": 2,
   "monthlyActive": 6,
   "recentlyJoined": []
 }
