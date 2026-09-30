@@ -332,6 +332,44 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-30 twmd-maintainer-am — translation-gates-check-a-file-against-itself-never-against-its-source：譯文閘門驗的是「檔案跟自己一致」，沒有一道在問「它跟中文原文的分類一致嗎」
+
+- **pattern**: translation-gates-check-a-file-against-itself-never-against-its-source
+- **原則**：譯文的身份有兩個座標——它自己的 frontmatter，以及它指向的那份中文原文。既有閘門（`frontmatter-gate`、`check-translation`、`category-check`）全都驗第一個座標：frontmatter 的 `category` 跟自己的路徑一不一致、欄位齊不齊、格式對不對。**沒有一道在驗第二個座標**：這個路徑跟 `translatedFrom` 指的那份 zh 檔的分類是同一個嗎。於是一份譯文可以放進錯的分類目錄、在該語言變成同一篇文章的第二個檔、而 CI 全綠——因為檔名沒撞（正確路徑上那份在別的目錄），也因為它的 frontmatter 跟它自己完全自洽。
+- **觸發**：2026-09-30 維護班收三個投稿 PR（aminzai #1782 de / #1783 hi / #1784 ar），三篇都重譯已有譯文的文章，三篇都把檔案放進跟 zh 來源不同的分類目錄：`Technology/台灣數位影像與動畫產業.md` → `de/Art/`、`Food/茶文化.md` → `hi/Culture/`、`Geography/台灣都市發展與城鄉差距.md` → `ar/Society/`。三篇的 frontmatter `category` **都寫對了**（Technology / Food / Geography），錯的是路徑；而三篇的 `frontmatter-gate` 與 `check-translation` 都是 pass。照原路徑合併，三個語言各會多出一篇分在錯分類的重複檔，分類頁分群與相關推薦各看到一半。發現它靠的不是任何閘門，是當班拿 `translatedFrom` 去 grep 該語言目錄有沒有同來源的譯文。
+- **instances**：
+  - 2026-09-30 twmd-maintainer-am — 三個 PR 同型，三篇 CI 全綠 → `088ab1387`（#1783 搬正路徑後 merge）、#1782／#1784 留 open
+- **可能層級**：操作規則＋儀器候選。跟 [REFLEXES #84](REFLEXES.md)（產物要對賬 ground truth）同族：這裡的 ground truth 是 zh 來源的分類，而驗證只在譯文自己身上跑完就結束了。
+- **候選機械化**：零判斷的一道閘——對任何帶 `translatedFrom` 的檔，斷言 `dirname(路徑的分類段) == dirname(translatedFrom)`，不一致即 hard。同一支還可以順便抓「同一個 `translatedFrom` 在同語言出現兩次」（既有的重複對問題，UNKNOWNS 🔴 那條的儀器化入口）。掛 pre-commit 與 `pr-frontmatter-gate` 兩處。
+- **相關**：REFLEXES #84、#38（一個狀態值蓋住兩種真相：`missing` 同時是「沒人做過」與「做在別的目錄」）；OBSERVER-QUEUE #51（subcategory 被翻掉）是同一個「譯文改了不該改的分類欄位」家族的另一面
+- **verification_count**: 1
+- **severity**: structural
+
+### 2026-09-30 twmd-maintainer-am — maintainer-seat-cannot-obtain-a-quiet-window-so-window-dependent-gates-never-run：修法需要一個沒有寫入者的空檔，而這個席位永遠跟產線同時在跑
+
+- **pattern**: maintainer-seat-cannot-obtain-a-quiet-window-so-window-dependent-gates-never-run
+- **原則**：有一類維護動作的前置條件不是「有沒有人想做」，是「此刻有沒有別的進程在寫」。維護班每天固定時間醒來，而 babel dispatcher 是常駐的——兩者在時間軸上幾乎總是重疊。於是這類項目在交接層看起來跟「還沒有人動手」一模一樣，再傳一百輪也不會被做掉，因為讀到它的席位結構上就取不到那個空檔。**這不是自律問題，是排程拓樸問題。**
+- **觸發**：2026-09-30 本班要跑品質閘門的斷鏈 audit，`verify_internal_links.py` 正確 fail-loud 回 `STALE — dist/ 已經 72.3 小時沒更新（上限 24h）。這不是通過`。要拿到真讀數就得 `npm run build`，而 `prebuild:status` 會跑 `status.py` 與 `sync-translations-json.py`——寫的正是 babel 此刻在寫的 `knowledge/_translation-status.json`（REFLEXES #40 共用檔寫入 race）。本班同時確認 babel 有三個 worker 在翻 ko/en、`babel-push-every.py --watch` 在 commit。所以本班**明確 skip 這道閘門並寫明理由**，沒有把 09-27 那天的 `gated ratio 0.16%` 抄進交接當「已驗過」。
+- **這條的第二例**：2026-09-28 同一席位對 `.git/gc.log` 的 unreachable loose objects 得到同一個結論——真正的修法 `git prune` 在別的 process 正在寫物件時不安全，所以「不是任何一班忘了做，是 maintainer-am 這個席位在結構上做不到」。兩件事載體不同（一個是 git 維護、一個是品質閘門），形狀一樣。
+- **instances**：
+  - 2026-09-28 twmd-maintainer-am — `.git/gc.log` prune 需要無寫入者的窗
+  - 2026-09-30 twmd-maintainer-am — 斷鏈 audit 需要 fresh dist，而 build 會撞 babel 的共用檔
+- **可能層級**：通用反射候選（vc=2）。修法方向是**排程**而非自律：(a) 把這類需要靜默窗的動作掛在 babel 收工那一刻（dispatcher 自己知道何時佇列空），(b) 或給它們一條獨立 routine，前置條件寫明「`check-parallel-actor` 回 IDLE 才跑，否則不是 skip 而是重排」，(c) 而不是繼續由每天固定時間醒來的席位嘗試。
+- **相關**：REFLEXES #97（交接面完整性——本例是「送對了人，那個人結構上做不到」）、#40（共用檔寫入 race）、#35（跨 session work 期間禁 destructive ops）、#70（routine fragility surface 分類）；LESSONS `suppressed-warning-recurs-because-its-fix-needs-a-window-no-routine-has`（09-28，本條的第一例，可一起 distill）
+- **verification_count**: 2
+- **distill_ready**: true
+
+### 2026-09-30 twmd-maintainer-am — ci-health-ruler-gave-two-different-ages-for-the-same-run-and-both-printed-green：同一支尺兩分鐘內對同一次執行報 22 天與 1 小時，而兩個讀數都印綠燈
+
+- **pattern**: ci-health-ruler-gave-two-different-ages-for-the-same-run-and-both-printed-green
+- **原則**：一支只印「狀態＋年齡」的健康尺，讀數錯了不會有任何跡象——因為它對的時候跟錯的時候印的是同一種格式、同一個顏色。年齡欄是唯一能揭露「我取到的是哪一次執行」的線索，而它沒有附上那次執行的識別碼，所以讀的人無法回頭核對。
+- **觸發**：2026-09-30 本班 Stage 1.5 第一次跑 `ci-main-health.sh`，`Deploy to GitHub Pages` 報 `GREEN 22.0d`——而 babel 每小時 commit、deploy 跟著跑，22 天顯然不對。手動重跑同一條 `gh api` 查詢拿到的是 `2026-09-29T23:24:25Z`（約 1 小時前），逐步重算年齡也是 `1h`。數分鐘後再跑兩次工具，兩次都印 `GREEN 1h`。**同一支指令、同一次目標執行、兩分鐘內兩個相差 22 天的讀數，而兩次都是綠燈**，所以如果第一次的讀數沒有剛好違反常識（22 天對一個每小時部署的站），它會被直接寫進交接。最可能的成因是 `actions/runs` endpoint 的最終一致性偶爾回舊頁，`sort_by(.created_at)|last` 於是選到舊執行；未能穩定重現，所以成因仍是未知。
+- **未解**：沒有重現路徑，無法確認是 API 回舊頁還是工具的取數有其他分支。
+- **可能層級**：操作規則（低成本止血）＋ REFLEXES #85（「不知道」要有自己的符號）的新載體。
+- **候選機械化**：(a) 每一列都印它取到的那次執行的 URL 或 sha，不只 RED 那列印——讓「年齡」可被回頭核對，成本是一欄寬度；(b) 對宣稱 `push` 會在 main 跑、且 repo 近 24hr 有 push 的 workflow，年齡超過某個倍數就自己標 ⚠️ 而不是照印綠燈（門檻要用真實產出校準，per REFLEXES #66）。
+- **相關**：REFLEXES #99（尺先驗再用——這支尺 09-27 首跑抽驗抓到自己兩個假陽性，本條是第三個，且是唯一一個不穩定而非系統性的）、#24（工具在說謊）、#85、#82
+- **verification_count**: 1
+
 ### 2026-09-30 twmd-feedback-triage — intake-gates-ask-if-publishable-never-if-familiar：轉錄班的閘門全在問「這段文字能不能公開」，沒有一道在問「它跟已知的事有什麼關係」
 
 - **pattern**: intake-gates-ask-if-publishable-never-if-familiar
