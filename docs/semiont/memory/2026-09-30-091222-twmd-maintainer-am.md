@@ -94,6 +94,7 @@ issue #1786：讀者程乙路從 `/terminology/內核/` 指出兩件事：查辭
 - [ ] pending（席位：`twmd-maintainer-am`，動得了）— [issue #1729](https://github.com/frank890417/taiwan-md/issues/1729) 的範圍混層：一個 issue 同時掛「那兩條腳註」（已完成、已第三方覆驗）與「這篇要重寫」（另在 ARTICLE-INBOX P0）。要嘛收在標題範圍內關掉、重寫另開，要嘛明寫它現在追蹤的是重寫。已在 issue 上寫明，等能決定範圍的人。
 - [ ] pending（席位：`twmd-maintainer-am`）— `ci-main-health.sh` 每列都印取到那次執行的 URL／sha，不只 RED 那列印，讓「年齡」可回頭核對（LESSONS `ci-health-ruler-gave-two-different-ages-for-the-same-run-and-both-printed-green`）。成因未重現，先做可核對這一半。
 - [ ] pending（席位：任何 Write session）— [PR #1781](https://github.com/frank890417/taiwan-md/pull/1781) 里長帳簿的後續：全文 2,309 字低於深度門檻 4,500、無圖片（`image 0 < 3`）、缺 `rationale` 區塊，另已在 PR 上問投稿者開票夜那幾段第一人稱回憶的出處（訪談或本人），補一條來源註即可。
+- [ ] pending（席位 `twmd-babel-nightly`，那七個檔是它的產出）— 本班 merge 的 `Politics/309本里長帳簿.md` 被翻成七個 `309.md`（ar／fr／hi／id／ja／ko／vi，收班時仍是未追蹤檔）。人工 slug 已補（`ba49c5469` → `village-chief-campaign-ledgers`），但那七個檔要改名或刪掉重翻，否則 `309` 一進 `_translations.json` 就永遠優先。**趕在它們被 commit 之前處理最省事**；若已 commit，改名要補 `config/redirects-manual.txt` 301。守門收緊見 LESSONS `ascii-fallback-guard-only-catches-the-empty-case-not-the-meaningless-one`。
 - [ ] pending（席位：`/twmd-routine`）— MAINTAINER-PIPELINE 的「canonical 14 類」inline 清單已過期：它列 `Language`（`knowledge/` 無此目錄）卻沒列 `Politics`（實際有 17 篇）。本班靠 `categoryConfig.ts` 對照才沒誤判 #1781。
 
 ## Beat 5 — 反芻

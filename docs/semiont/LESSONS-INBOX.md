@@ -332,6 +332,19 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-09-30 twmd-maintainer-am — ascii-fallback-guard-only-catches-the-empty-case-not-the-meaningless-one：守門防的是「刪成空的」，沒防「刪成一段沒有意義但非空的」
+
+- **pattern**: ascii-fallback-guard-only-catches-the-empty-case-not-the-meaningless-one
+- **原則**：一個從輸入「刪掉不合格字元」的退路，它的失敗有兩種長相——刪成空的，跟刪成一段短到沒有意義但形式上合法的殘餘。守門通常只認第一種，因為第一種有明確的哨兵值（空字串）。第二種沒有哨兵，它長得跟正常輸出一模一樣，所以會一路通到底。**檢查「結果是不是空的」不等於檢查「結果是不是有意義的」。**
+- **觸發**：2026-09-30 維護班 merge 了投稿文章 `knowledge/Politics/309本里長帳簿.md`，二十分鐘內 babel 產出七個語言的譯文，全部叫 `309.md`。slug 推導的順序是「`_translations.json` 反推 → `knowledge/_slug-map.json` 人工表 → ASCII 退路」，而 2026-07-27 已為此立過守門：ASCII 退路把非 ASCII 刪光得到空字串時落成 `TBD-NEEDS-SLUG`，dispatcher 直接跳過，不讓佔位符傳到其他語言（當時 7 篇卡在這狀態）。但 `309本里長帳簿` 刪掉非 ASCII 之後剩的是 `309`——非空、形式合法、看起來就像一個 slug，於是守門不響。**數字或英文字母開頭的中文檔名正好長在這個縫上**：同分類的其他 17 篇 Politics 中文檔名都是純中文，刪光之後是空的，所以都被守門接住了，只有這一篇不是。已補人工表那一格（`ba49c5469`，`village-chief-campaign-ledgers`），趕在 `309` 進 `_translations.json` 之前——一旦進去，它會被反推成既有 slug 並永遠優先。
+- **instances**：
+  - 2026-09-30 twmd-maintainer-am — `309本里長帳簿` → 七語 `309.md`，守門未響 → `ba49c5469`
+- **可能層級**：操作規則＋儀器候選（收緊既有守門，非新建）
+- **候選機械化**：ASCII 退路的結果除了「非空」還要過一個有意義性門檻——純數字、長度 < 3、或不含任何字母，一律當成需要人工 slug（落 `TBD-NEEDS-SLUG` 走既有跳過路徑）。門檻要拿全庫現有 slug 校準過再定，不憑想像（REFLEXES #66）。同一支可順便對 `_slug-map.json` 做覆蓋率檢查：有幾篇中文檔名文章目前零譯文且不在人工表裡。
+- **相關**：REFLEXES #85（「不知道」需要自己的符號——本例的 `TBD-NEEDS-SLUG` 正是那個符號，問題是它沒被觸發）、#38（一個值蓋住兩種真相：`309` 同時是「合法 slug」與「推導失敗的殘餘」）、#82（非空代理有意義）；OBSERVER-QUEUE #90（譯文網址跟 zh 不一致的存量）是同族的下游
+- **未解**：本班未清理那七個已落地的 `309.md`（產線此刻正在寫的未追蹤檔，非本席位範圍，REFLEXES #35）
+- **verification_count**: 1
+
 ### 2026-09-30 twmd-maintainer-am — translation-gates-check-a-file-against-itself-never-against-its-source：譯文閘門驗的是「檔案跟自己一致」，沒有一道在問「它跟中文原文的分類一致嗎」
 
 - **pattern**: translation-gates-check-a-file-against-itself-never-against-its-source
