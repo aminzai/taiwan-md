@@ -62,17 +62,19 @@ issue #1786：讀者程乙路從 `/terminology/內核/` 指出兩件事：查辭
 
 ## 收官 checklist
 
-| 檢查項                                       | 狀態                                                        |
-| -------------------------------------------- | ----------------------------------------------------------- |
-| 完整走完 MAINTAINER-PIPELINE                 | ✅ Stage 1-4 全跑                                           |
-| PR 分流按 §collect-and-merge                 | ✅ 5 個全走 B 路徑完整 hard gate                            |
-| routine PR backlog ≤ 3                       | ✅ 0（v2.1 main-direct，無 routine PR）                     |
-| broken-link gated ratio < 7%                 | ⏭️ **skip** — dist 齡 72.3h，build 會撞 babel 共用檔寫入    |
-| build green                                  | ✅ main 13 條 workflow RED 0（開場為 RED 1，本班修掉）      |
-| 本 cycle merge 的 PR 都過 hard gate          | ✅ 紅旗 0 命中／CI 綠／close-hard-gate 全跑／腳註抽驗 10/10 |
-| 有 fresh issue 的 cycle 至少修一件或寫明不修 | ✅ `e9be08c55` 修 #1786 根因面；#1729 覆驗並更正一處        |
-| Timestamp 精確                               | ✅ 取自 `git log %ai`                                       |
-| Handoff 三態已審視                           | ✅                                                          |
+| 檢查項                                       | 狀態                                                                              |
+| -------------------------------------------- | --------------------------------------------------------------------------------- |
+| 完整走完 MAINTAINER-PIPELINE                 | ✅ Stage 1-4 全跑                                                                 |
+| PR 分流按 §collect-and-merge                 | ✅ 5 個全走 B 路徑完整 hard gate                                                  |
+| routine PR backlog ≤ 3                       | ✅ 0（v2.1 main-direct，無 routine PR）                                           |
+| broken-link gated ratio < 7%                 | ⏭️ **skip** — dist 齡 72.3h，build 會撞 babel 共用檔寫入                          |
+| build green                                  | ✅ main 13 條 workflow RED 0（開場為 RED 1，本班修掉）                            |
+| 本 cycle merge 的 PR 都過 hard gate          | ✅ 紅旗 0 命中／CI 綠／close-hard-gate 全跑／腳註抽驗 10/10                       |
+| 有 fresh issue 的 cycle 至少修一件或寫明不修 | ✅ `e9be08c55` 修 #1786 根因面；#1729 覆驗並更正一處                              |
+| Timestamp 精確                               | ✅ 取自 `git log %ai`                                                             |
+| Handoff 三態已審視                           | ✅                                                                                |
+| diary                                        | ⏭️ skip — 反芻已落 Beat 5；洞察是 MANIFESTO §14「高儀器化」的具體展開，不是新框架 |
+| evolve                                       | ⏭️ skip — 本班三條 LESSONS 皆 vc=1 或 vc=2，未達 distill 門檻，留週日反思鏈       |
 
 連續空場 vc：**歸零**。前兩輪（09-27／09-28）是空場，本班命中 5 ready PR + 1 fresh issue，按 §空場 cycle 紀律 vc 重計。
 
