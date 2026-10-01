@@ -3,16 +3,24 @@ title: 'Taiwans Parks und der Alltag der Freizeit'
 description: 'Vom Tai-Chi im Morgengrauen bis zum abendlichen Spaziergang – eine kulturelle Beobachtung taiwanesischer Parks als generationenübergreifende soziale Räume'
 date: 2026-03-18
 category: 'Lifestyle'
-tags: ['Park', 'Freizeit', 'Soziale Kultur', 'Generationenübergreifend', 'Alltagsleben']
+tags:
+  [
+    'Park',
+    'Freizeit',
+    'Soziale Kultur',
+    'Generationenübergreifend',
+    'Alltagsleben',
+  ]
 subcategory: '休閒與娛樂'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Lifestyle/台灣公園與日常休閒.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:5117fffcc3ffcc33'
-translatedAt: '2026-09-22T21:13:15+00:00'
+sourceCommitSha: '1d2876d0d'
+sourceContentHash: 'sha256:5711dca50c2efd19'
+sourceBodyHash: 'sha256:62cca1f3ce3fb047'
+translatedAt: '2026-10-01T18:06:40.915593+00:00'
 ---
 
 # Taiwans Parks und der Alltag der Freizeit
@@ -64,20 +72,21 @@ Es gibt noch eine verborgenere Parkkultur: die Vogelbeobachter.
 Fotografinnen und Fotografen mit Fernglas und Teleobjektiv, die im Morgengrauen auftauchen, haben ihr eigenes Informationsnetz – auf welchem Baum ein Blauflügelpitta nistet, an welchem Teich ein Eisvogel aufgetaucht ist – solche Neuigkeiten verbreiten sich schneller als jede Nachrichtenmeldung.
 In Taiwans städtischen Parks ist Vogelbeobachtung kein Nischenhobby, sondern eine organisierte, halb im Verborgenen agierende Gemeinschaft.
 
-## Vom Beton-Spielplatz zum inklusiven Spielraum
+## Vom zementnen Spielplatz zum inklusiven Spielplatz
 
-Das Erscheinungsbild taiwanesischer Parks durchläuft eine stille Revolution.
+Taiwans Parks erleben eine stille Revolution.
 
-Früher glichen sich die Spielgeräte in taiwanesischen Parks fast wie ein Ei dem anderen: die immer gleiche Plastikrutsche von der Stange, Wipppferde, Wippen – die Farben verblasst, das Design fantasielos, die Sicherheit fragwürdig.
-Diese Geräte wurden spöttisch „Konserven-Spielgeräte" genannt – jeder Park war gleich, als hätte man alle aus demselben Katalog bestellt.
+Früher waren die Spielgeräte in Taiwans Parks fast identisch: fertige Kunststoffrutsche, Kletterpfer, Schaukeln, deren Farben ausgeblichen waren, deren Design kreativlos und deren Sicherheit fraglich war.
+Diese Geräte wurden spöttisch als „Fertiggeräte“ bezeichnet — jeder Park sah gleich aus, als wäre er aus einem einzigen Katalog bestellt.
 
-Um 2017 begann eine von Eltern und Designern angetriebene Bewegung für „Themenparks" (特色公園), diese Lage zu verändern.
-Im Taipeier Tianmu Dream Park, im Zhonghe Jinhe Park in Neu-Taipeh oder im Aofengshan Sportpark in Taichung entstanden Kletteranlagen mit landschaftlichen Themen, überlange Rollenrutschen, Sandkästen, Wasserläufe und Trampoline.
-Wichtiger noch: Das Konzept der „Inklusion" hielt Einzug – Drehscheiben, die mit dem Rollstuhl befahrbar sind, Sinnesgeräte, die auch sehbehinderte Kinder ertasten können, Geräte, die Menschen jeden Alters nutzen können.
+Ende 2015 begann eine Initiative von Eltern, den „Charakter-Park“-Bewegung, die diese Situation änderte.[^2]
+In den folgenden Jahren wurden Taipehs Tianmu Traumspielplatz, New Taipehs Jinhe-Sportspark und Taichungs Aofeng-Sportspark nacheinander umgestaltet.
+Klettergerüste im Landschaftsthemen, extrem lange Rutsche, Sandkästen, Wasserläufen und Springbetten folgten einander.
+Noch wichtiger war, dass das Konzept des „Inklusivspielplatzes“ Einzug fand — Drehplatten, die Rollstuhlfahrern zugänglich sind, sensorische Spielgeräte, die blinden Kindern berührt werden können, und Geräte, die alle Altersgruppen nutzen können.
 
-Hinter dieser Bewegung stand eine Gruppe von Eltern, die sich mit dem Status quo nicht zufriedengeben wollten.
-Sie gründeten die „Allianz für unsere Themenparks" (特公盟) und veränderten über Unterschriftensammlungen, Petitionen und die Teilnahme an öffentlichen Bauprüfungen Park für Park die Spielplatzgestaltung im ganzen Land.
-In den 2020er Jahren sind Themenparks vom seltenen Sonderfall zum Standard geworden – ein fester Bestandteil dessen, womit Kommunalverwaltungen ihre Regierungsleistung präsentieren.
+Hinter dieser Bewegung stand eine Gruppe Eltern, die mit dem bestehenden Zustand nicht zufrieden waren.
+Sie gründeten den „Bewegung für charakteristische Parks“ (Charakter-Park-Bündnis), und durch Unterschriften, Petitionen und die Teilnahme an den öffentlichen Baureview-Prozessen änderten sie nach und nach das Parkdesign in ganz Taiwan.
+In den 2020er Jahren war der Charakter-Park von selten zu alltäglich geworden und wurde zur Standardausstattung für lokale Regierungen, um ihre politischen Errungenschaften zu präsentieren.
 
 ## Das zweite Leben am Flussufer
 
@@ -93,20 +102,25 @@ Flussufer bieten etwas, das ein Park nicht hat: Bewegungsfreiheit.
 Man kann von einem Stadtteil zum nächsten radeln, von den Rändern der Stadt bis zur Flussmündung.
 Dieses lineare Freizeiterlebnis macht das Flussufer zum idealen Ort für „tägliche Mikroreisen" der Taiwanesinnen und Taiwanesen – kein Auto nötig, keine Planung nötig, einfach aufs Rad und losfahren.
 
-## Der Park bei Nacht: eine andere Welt
+## Der Park in der Nacht: Eine andere Welt
 
-Wenn die Sonne untergeht, schließen Taiwans Parks nicht.
+Als die Sonne untergeht, schließen Taiwans Parks nicht.
 
-Um acht, neun Uhr abends trifft man im Park auf eine andere Gruppe von Menschen.
-Angestellte, die mit ihrem Hund Auslauf verschaffen (Taiwans städtische Hundedichte ist hoch, und der Park ist einer der wenigen Orte, an denen man die Leine legal lösen darf), Studierende, die im Pavillon Gitarre üben, Menschen, die auf einer Bank am Handy sind, aber eigentlich nur einen Grund brauchten, das Haus zu verlassen.
+Gegen acht oder neun Uhr abends trifft man dort eine andere Menschengruppe.
 
-Besonders lebendig sind die Sommernächte.
-In manchen Parks bildet sich spontan eine „Abkühlungs"-Menge – Menschen bringen Strohmatten und Ventilatoren mit, um sich im Freien abzukühlen, weil der Wind draußen angenehmer ist als die Klimaanlage (und auch stromsparender).
-Kinder rennen über den Rasen und jagen Glühwürmchen (sofern der Park ökologisch gut genug ist), während Erwachsene daneben plaudern und Wassermelone essen.
+Menschen, die ihre Hunde spazierenlaufen lassen (in normalen Parks müssen Hunde an der Leine geführt werden; laut der Tierschutz-Ortsverordnung von Taipeh können Hundebesitzer, die ihre Tiere nicht anleinen, mit einer Geldstrafe zwischen 2.000 und 10.000 New Taiwan Dollar belegt werden, wer Hunde frei laufen lassen will, muss dafür auf speziell dafür vorgesehene Bereiche gehen)[^1], Studenten, die in der Pergola Gitarre spielen, und Menschen, die auf der Bank ihr Handy herunterscrollen, aber eigentlich nur einen Grund brauchen, das Haus zu verlassen.
 
-Diese Kultur der nächtlichen Parks hängt mit Taiwans Klima und Lebensrhythmus zusammen.
-In den subtropischen Sommern ist es tagsüber zu heiß, sodass sich Aktivitäten im Freien natürlicherweise in den Abend verschieben.
-Und weil die öffentliche Sicherheit in Taiwan vergleichsweise gut ist, braucht es keinen besonderen Mut, spät nachts im Park spazieren zu gehen.
+Besonders zauberhaft sind die heißen Sommernächte.
+
+Manchmal versammeln sich spontan „Kühl-Gruppen“ im Park — mit Matte und Ventilator, um draußen zu kühlen, weil die frische Luft angenehmer ist als die Klimaanlage (und sparsamer).
+
+Kinder laufen auf dem Rasen herum und jagen Feuerflügel (wenn der Park ökologisch genug ist), während die Erwachsenen nebenan plaudern und Wassermelon essen.
+
+Diese Nacht-Park-Kultur hängt mit Taiwans Klima und Lebensrhythmus zusammen.
+
+Ein tropisches Sommerwetter macht es tagsüber zu heiß, sodass sich alle Outdoor-Aktivitäten auf die Nacht verlagern.
+
+Außerdem ist die Kriminalitätslage in Taiwan relativ sicher, sodass ein Spaziergang im Park in der tiefen Nacht kein mutiges Unterfangen ist.
 
 ## Der Park als Übungsfeld der Demokratie
 
@@ -157,6 +171,9 @@ Diese kleinen Rhythmen heilen still die Distanz zwischen Mensch und Erde.
 ## Referenzen
 
 1. Taiwan Parks and Playgrounds for Children and by Children (PPFCC). https://ppfcc.org/en/
-2. Vocus（2025）。〈公園20分鐘效應：現代都市人的心靈解藥〉。https://vocus.cc/article/662e4735fd89780001333610
-3. Taipei Travel（台北旅遊網）。〈Indigenous People's Park〉。https://www.travel.taipei/en/attraction/details/2005
-4. 台北ナビ（2024）。〈公園で太極拳デビューしませんか？〉。https://www.taipeinavi.com/special/5001857
+2. Vocus (2025). „Der 20-Minuten-Effekt von Parks: Das emotionale A und O der modernen Stadtbewohner“. https://vocus.cc/article/662e4735fd89780001333610
+3. Taipeh Navigator (2024). „Möchten Sie jetzt mit Taijiquan im Park starten?“. https://www.taipeinavi.com/special/5001857
+
+[^1]: [„Fest die Leine halten – weil ich dich liebe!“ Taipeher Tierschutzamt ruft zur Verantwortung beim Ausgehen mit Haustieren auf](https://www.tcapo.gov.taipei/News_Content.aspx?n=67993BA7C146BC76&sms=72544237BBE4C5F6&s=01DA8EC9CE2086ED) — Pressemitteilung des Taipeher Tierschutzamts vom Dezember 2019: Laut der Taipepeler Verordnung zum Tierschutz müssen Hunde in öffentlichen Plätzen an der Leine geführt werden; Verstöße werden mit einer Geldstrafe von 2.000 bis 10.000 taiwanesischen Dollar geahndet.
+
+[^2]: [Bewegung für charakteristische Parks](https://zh.wikipedia.org/zh-tw/%E9%82%84%E6%88%91%E7%89%B9%E8%89%B2%E5%85%AC%E5%9C%92%E8%A1%8C%E5%8B%95%E8%81%AF%E7%9B%9F) — Wikipedia-Eintrag: Die Facebook-Gruppe wurde 2015 gegründet und am 28. November desselben Jahres vor dem Taipeher Rathaus eine Pressekonferenz abgehalten; 2018 wurde der Verein als rechtlich anerkannter Verein gegründet.
