@@ -5,8 +5,8 @@ type: 'cognitive-buffer'
 status: 'buffer'
 apoptosis: 'never'
 current_version: 'v3.7'
-last_updated: 2026-09-29
-last_session: '2026-09-26-100333-babel-vortex 收官：+1 新 entry（hourly-loop-outlives-its-finding-rate vc=1）'
+last_updated: 2026-10-01
+last_session: '2026-10-01-203722-semiont-heartbeat：+1 新 entry（homepage-citation-passes-format-and-reachability-gates vc=1）'
 sister_docs:
   - 'MEMORY.md'
   - 'DIARY.md'
@@ -331,6 +331,17 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 ---
 
 ## 未消化清單（📥 待 distill）
+
+### 2026-10-01 semiont-heartbeat — homepage-citation-passes-format-and-reachability-gates：腳註指向機構首頁，格式閘門與死鏈閘門都會放行，但它不支持任何一句話
+
+- **pattern**: homepage-citation-passes-format-and-reachability-gates
+- **原則**：腳註 URL 是一個網站的首頁時，它永遠回 200、永遠有標題可抄，`footnote-format` 與 `footnote-url` 都判它合格；可是首頁不支持正文的任何具體句子，讀者點下去找不到出處。這種腳註是「為了通過『參考資料要有可點的網址』而補上的網址」，形狀是引用，內容是空的。
+- **觸發**：2026-10-01 20:37 heartbeat 巡邏第 30–32 篇。〈教育制度與升學文化〉五條腳註全是機構首頁（教育部、國教院、統計處、OECD），〈早餐店阿姨與社區情報網〉的〈台灣早餐店的消失與轉型〉〈台灣早餐文化專題〉兩條掛在報導者、光華首頁，前者查無此篇、後者是通稱，正文也沒引用它們。兩篇的腳註區塊都是 05-16 同一個投稿批次（`f712b7242`，PR #1070，batch-200 P2 修補，73 篇）把文末參考資料轉成腳註時加上的；教育篇的文末參考資料更早，03-19 另一個批次（`18194a2d3`「add missing citation URLs」）為了滿足「參考資料要有可點網址」補了教育部首頁。兩次都是在補格式，沒有人回頭問那個網址支不支持哪一句。全站量測：zh 文章 17,168 條腳註裡 1,149 條（6.7%）的網址是純網域首頁，分布在 311 篇。量法是 regex 抓腳註網址、判斷路徑是否為空或 index／default／home，見 `memory/2026-10-01-203722-semiont-heartbeat.md`。
+- **instances**：
+- **可能層級**：操作規則（article-health 候選 WARN check＋巡邏抽樣加權）
+- **相關**：REFLEXES #69 (g)（形式閘門全過、意義精度靠外部人）／#82（可達性是「有出處」的替身）／FACTCHECK §月度巡邏抽樣母體（v2.1 已把「六條泛連結腳註」寫進誕生事件，但抽樣指令沒有用它當權重）。差異：#69/#82 是通則，這條是一個可以完全機械化判斷的具體形狀，判準只要看網址路徑。
+- **候選機械化**：(a) article-health 加一條 WARN（腳註網址是純首頁 → 「首頁腳註不支持具體句子」），不擋 commit；注意它會讓 311 篇多一條 warn，若免疫儀表板的 plugin_pass_rate 用 fail_on=warn 計，分數會動，這屬閾值鄰接面，上線前先量對分數的影響。(b) 巡邏抽樣指令把「首頁腳註數」當第二排序鍵，在同一天出生、同譯本數的初稿裡先抽首頁腳註多的。
+- **verification_count**: 1
 
 ### 2026-10-01 twmd-maintainer-am — freshness-guard-reads-a-half-built-artifact-as-maximally-fresh：擋得住舊產物的閘門擋不住正在長出來的產物，而後者的時間戳是「現在」
 
