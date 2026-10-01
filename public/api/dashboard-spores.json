@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-01T22:06:20.189347Z",
+  "lastUpdated": "2026-10-01T22:46:36.492762Z",
   "schemaVersion": "1.1",
   "totals": {
     "count": 166,
@@ -121,10 +121,10 @@
       "n": 29,
       "article": "🌋 李洋（v2，留言更正）",
       "platform": "threads",
-      "views": 350000,
+      "views": 360000,
       "viewsSource": "7d",
-      "engagements": 32984,
-      "rate": 9.42,
+      "engagements": 32886,
+      "rate": 9.13,
       "badge": "🌋 史上最強",
       "date": "2026-04-14",
       "url": "https://www.threads.com/@taiwandotmd/post/DXGuAudkbuC"
@@ -206,7 +206,7 @@
   "platformComparison": {
     "threads": {
       "count": 62,
-      "avgViews": 28988,
+      "avgViews": 29150,
       "maxViews": 430000,
       "avgRate": 5.67,
       "maxRate": 15.11
@@ -580,8 +580,8 @@
       "publishDate": "2026-04-14",
       "daysSincePublish": 171,
       "withinHarvestWindow": false,
-      "harvestCount": 6,
-      "lastHarvest": "2026-10-01 06:43"
+      "harvestCount": 7,
+      "lastHarvest": "2026-10-02 06:46"
     },
     {
       "n": 30,

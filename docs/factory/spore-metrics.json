@@ -409,7 +409,19 @@
       "likes": 31000,
       "reposts": 1125,
       "comments": 227,
-      "shares": 632,
+      "shares": null,
+      "source": "chrome_mcp_threads"
+    },
+    {
+      "spore": 29,
+      "dPlus": 171,
+      "at": "2026-10-02 06:46",
+      "batch": "batch-2026-10-02-1-spores",
+      "views": 360000,
+      "likes": 31000,
+      "reposts": 1125,
+      "comments": 229,
+      "shares": 532,
       "source": "chrome_mcp_threads"
     },
     {

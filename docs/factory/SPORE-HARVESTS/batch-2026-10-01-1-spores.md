@@ -43,3 +43,7 @@ reply_count: '0 unanswered — 回覆分頁沒有 09-07 之後的新列，#29 �
 ## 衍生層
 
 `spore-db.py add-metrics` 一筆 → `generate-spore-records.py` + `generate-dashboard-spores.py` 重生 → `validate-spore-data.py`。文章檔案不動。
+
+## 更正（2026-10-02 06:46，次日班）
+
+本檔的分享數 632 是讀錯。序列是 529（09-18）→ 530（09-27）→ 632 → 532（10-02），10-02 從同一個 permalink 讀到 532，所以 10-01 的實際值應在 530–532 之間。上方「四天分享 +102、有人在往外傳」的推論不成立。`spore-metrics.json` 的 10-01 事件已重寫為不帶 shares（真值不知道，不補猜測值），本段以上為原文保留。詳見 [batch-2026-10-02-1-spores](batch-2026-10-02-1-spores.md)。
