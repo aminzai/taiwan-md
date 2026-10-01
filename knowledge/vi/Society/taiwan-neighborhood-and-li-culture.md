@@ -1,15 +1,15 @@
 ---
-title: 'Xã hội và Văn hóa Làng Đài Loan'
-description: 'Từ thực hành dân chủ tầng lớp cơ bản đến sáng tạo xã hội của việc xã hội hóa'
+title: 'Văn hóa thôn xóm và cộng đồng tại Đài Loan'
+description: 'Từ thực tiễn dân chủ cơ sở đến đổi mới xã hội trong xây dựng cộng đồng'
 date: 2026-03-18
 category: 'Society'
 tags:
   [
-    'Hệ thống lân cận làng',
-    'Hóa sinh xã hội',
+    'Chế độ thôn/làng',
+    'Xây dựng cộng đồng',
     'Đại học cộng đồng',
     'Tham gia công dân',
-    'Tự quản địa phương',
+    'Tự trị địa phương',
   ]
 subcategory: '社會運動'
 author: 'Taiwan.md'
@@ -17,192 +17,114 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Society/台灣社區與里文化.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:cd7ff91fe48a2538'
-sourceBodyHash: 'sha256:04d1aee034c97e89'
-translatedAt: '2026-07-26T22:20:02+08:00'
+sourceCommitSha: '21c4e4caf'
+sourceContentHash: 'sha256:112429b6a4722893'
+sourceBodyHash: 'sha256:7ec3aa6a3ad15e3e'
+translatedAt: '2026-10-02T00:52:48+08:00'
 ---
 
-# Xã hội và Văn hóa Làng Đài Loan
+# Văn hóa cộng đồng và thôn xóm tại Đài Loan
 
-Mỗi khi hoàng hôn xuống, trung tâm hoạt động cộng đồng của một xã nào đó ở thành phố Đài Bắc vẫn sáng bức phố đèn.  
-Chủ làng đang gọi dân cư tham gia thảo luận về hoạt động dọn sạch tháng tới, các trưởng hàng xóm báo cáo tiến trình từng khu dân cư, trong khi giáo viên của đại học cộng đồng lại giảng bài về Thái Các Vô tại phòng giảng dịch sang.  
-Đêm vắng lặng này, dường như bình thường, thực ra phản ánh sâu sắc văn hóa cộng đồng Đài Loan — từ tổ chức hành chính tầng lớp cơ bản đến tham gia tự nguyện của xã hội dân sự, từ thực hành dân chủ hình thức đến đổi mới xã hội sáng tạo.
+Mỗi khi màn đêm buông xuống, trung tâm hoạt động cộng đồng của một thôn (里) nào đó ở Đài Bắc vẫn sáng đèn. Trưởng thôn đang triệu tập cư dân thảo luận về ngày dọn vệ sinh tháng tới; các trưởng khu phố (鄰長) lần lượt báo cáo tình hình từng khu vực; trong khi giảng viên của đại học cộng đồng dạy Thái Cực Quyền ở phòng bên cạnh. Bức cảnh tưởng chừng bình thường này thực chất thể hiện tinh hoa văn hóa cộng đồng Đài Loan—từ tổ chức hành chính cơ sở nhất đến sự tham gia tự chủ của xã hội dân sự, từ thực tiễn dân chủ mang tính hệ thống đến những đổi mới xã hội đầy sáng tạo.
 
-Trong đơn vị hành chính nhỏ gọn này được gọi là "xã", cư dân số trăm đến nghìn người cùng tạo thành tế bào nhỏ nhất của xã hội dân chủ Đài Loan.  
-Các tế bào này hoạt động như thế nào, tự tổ chức như thế nào, đáp ứng thách thức bằng cách nào, không chỉ ảnh hưởng đến chất lượng cuộc sống hàng ngày của cư dân mà còn hình thành sâu sắc văn hóa dân chủ và khả năng chịu đựng xã hội của Đài Loan.
+Trong đơn vị hành chính nhỏ được gọi là "thôn" (里), nơi sinh sống hàng trăm đến hàng nghìn cư dân, họ cùng nhau cấu thành tế bào nhỏ nhất của xã hội dân chủ Đài Loan. Cách các tế bào này vận hành, cách chúng tự tổ chức và phản ứng với thách thức không chỉ ảnh hưởng đến chất lượng cuộc sống hàng ngày của người dân mà còn định hình sâu sắc văn hóa dân chủ và khả năng phục hồi xã hội của Đài Loan.
 
-## Hệ thống lân cận làng: Tuyến đầu của dân chủ
+## Chế độ thôn/làng: Tuyến đầu của nền dân chủ
 
-Hệ thống làng Đài Loan có thể nói là một trong những thực hành dân chủ gần nhất với người dân nhất trên thế giới.  
-Theo quy định của luật hành chính địa phương, làng là đơn vị hành chính tầng lớp cơ bản, mỗi làng đều có một Chủ làng, do người dân trực tiếp bầu cử, nhiệm kỳ bốn năm, không có giới hạn kứ hạn.  
-Thiết kế hệ thống này đảm bảo tính rộng rãi và tiếp cận của việc tham gia dân chủ.
+Hệ thống làng xóm (thôn/里) của Đài Loan có thể được coi là một trong những thực tiễn dân chủ gần gũi với người dân nhất trên thế giới. Theo quy định của Luật Hệ thống địa phương, thôn là đơn vị hành chính cơ sở nhất; mỗi thôn có một Trưởng thôn (里長), do cư dân bầu trực tiếp, nhiệm kỳ bốn năm và được tái cử không giới hạn.[^1] Thiết kế hệ thống này đảm bảo tính phổ quát và khả năng tiếp cận của sự tham gia dân chủ.
 
-Vai trò của Chủ làng rất đa dạng, họ vừa là cầu nối giữa chính phủ và người dân, vừa là người điều phối công việc xã hội.  
-Theo quy định pháp luật, Chủ làng "dưới sự chỉ đạo và giám sát của Trưởng quận, thực hiện công việc hành chính làng và các vụn việc giao". Tuy nhiên, trong thực tế hoạt động, Chủ làng thường đóng vai trò phức tạp hơn.  
-Họ cần xử lý từ việc lập kế hoạch và xây dựng cộng đồng, đến giải quyết tranh chấp hàng xóm.  
-Từ hỗ trợ người dân khai thác các giấy tờ chứng nhận, đến tổ chức các hoạt động cộng đồng, từ đẩy mạnh vệ sinh môi trường đến phản ánh vấn đề an ninh trật tự, công việc của Chủ làng gần như bao phủ mọi khía cạnh của đời sống cư dân.
+Vai trò của Trưởng thôn vô cùng đa dạng; họ vừa là cầu nối giữa chính quyền và người dân, vừa là người điều phối các công việc cộng đồng. Theo quy định pháp luật, Trưởng thôn "chịu sự chỉ đạo và giám sát của trưởng xã (trấn, thị, khu), thực hiện công vụ và nhiệm vụ được giao của thôn (里)". Tuy nhiên, trong quá trình vận hành thực tế, Trưởng thôn thường đóng vai trò phức tạp hơn. Họ phải xử lý mọi vấn đề từ quy hoạch xây dựng cộng đồng lớn cho đến hòa giải tranh chấp láng giềng nhỏ nhặt. Từ việc hỗ trợ người dân xin các loại giấy tờ chứng nhận, tổ chức hoạt động cộng đồng, thúc đẩy vệ sinh môi trường cho đến phản ánh các vấn đề an ninh trật tự, nội dung công việc của Trưởng thôn gần như bao quát mọi khía cạnh đời sống của cư dân.
 
-Dưới làng, có tổ chức "hàng xóm" được tinh giản hơn.  
-Trưởng hàng xóm thường do Chủ làng phân công, sau đó được Sở phát triển địa phương (Quận) bảo đệm, là công việc không trả lương.  
-Dù không có văn phòng chính thức và hỗ trợ tài chính, nhưng các Trưởng hàng xóm đóng vai trò không thể thiếu trong hoạt động cộng đồng.  
-Họ là người tiếp xúc gần nhất với cư dân, chịu trách nhiệm truyền đạt thông tin chính sách, thu thập phản hồi ý kiến dân cư, hỗ trợ các công việc hành chính.  
-Khi bão lũ đến, các Trưởng hàng xóm sẽ lo âu an toàn cho người cao tuổi sống một mình;  
-Trong thời kỳ dịch bệnh, họ hỗ trợ phân phối vật tư phòng bệnh;  
-Trong đời sống thường ngày, họ là cầu nối quan trọng giữa cư dân và Chủ làng.
+Dưới cấp độ thôn còn có sự tổ chức chi tiết hơn là "khu phố" (鄰). Trưởng khu phố là vị trí không lương. Lấy Đài Bắc làm ví dụ, Trưởng khu phố được Trưởng thôn lựa chọn từ các cư dân trưởng thành trong khu vực đó và báo cáo để trưởng khu vực bổ nhiệm; họ không nhận lương, nhưng mỗi tháng có phụ cấp hỗ trợ công việc 2.500 NTD, cùng với bảo hiểm tai nạn và trợ cấp hoạt động tự cường.[^2] Số tiền không nhiều, nhưng Trưởng khu phố lại đóng vai trò không thể thiếu trong vận hành cộng đồng. Họ là người liên lạc gần gũi nhất với cư dân, chịu trách nhiệm truyền đạt thông điệp chính sách, thu thập ý kiến phản hồi và hỗ trợ các công việc hành chính khác nhau. Khi bão đến, Trưởng khu phố sẽ đi từng nhà quan tâm an toàn cho người già neo đơn; trong thời kỳ dịch bệnh, họ giúp phân phát vật tư phòng chống dịch; trong cuộc sống hàng ngày, họ là cầu nối quan trọng giữa cư dân và Trưởng thôn.
 
-Quá trình hoạt động của hệ thống này phản ánh một đặc sắc quan trọng của dân chủ Đài Loan: thực hành dân chủ sâu sắc.  
-Tỷ lệ biểu quyền trong các kỳ bầu cử Chủ làng thường rất cao, phản ánh sự quan tâm của người dân đối với công chức gần gũi cuộc sống này.  
-Sự tương tác thường xuyên giữa Chủ làng, Trưởng hàng xóm và cư dân cũng rèn luyện thói quen và khả năng tham gia công dân.
+Sự vận hành của hệ thống này thể hiện một đặc điểm quan trọng của nền dân chủ Đài Loan: thực tiễn sâu sắc về dân chủ tham gia. Sự tương tác thường xuyên giữa Trưởng thôn, Trưởng khu phố và cư dân cũng nuôi dưỡng thói quen và năng lực tham gia công dân.
 
-## Hóa sinh xã hội: Cuộc cách mạng thay đổi xã hội từ dưới lên
+## Xây dựng cộng đồng: Phong trào cải tạo xã hội từ dưới lên
 
-Vào thập niên 1990, một khái niệm gọi là "hóa sinh tổng thể xã hội" bắt đầu nảy hoa tại Đài Loan, không chỉ thay đổi diện mạt xã hội mà còn ảnh hưởng sâu sắc đến mô hình phát triển xã hội của Đài Loan.  
-Ý tưởng cốt lõi của cuộc cách mạng này là "từ dưới lên", nhấn mạnh sự tham gia tự nguyện của cư dân xã, qua ảnh hưởng văn hóa nghệ thuật, cải tạo môi trường, phát triển kinh tế, để thực hiện phát triển toàn diện xã hội.
+Vào những năm 1990, một khái niệm gọi là "Xây dựng tổng thể cộng đồng" (社區總體營造) bắt đầu nảy mầm ở Đài Loan; nó không chỉ thay đổi diện mạo của các khu dân cư mà còn ảnh hưởng sâu sắc đến mô hình phát triển xã hội của Đài Loan. Ý tưởng cốt lõi của phong trào này là "từ dưới lên", nhấn mạnh sự tham gia tự chủ của cư dân cộng đồng, nhằm thực hiện sự phát triển toàn diện của cộng đồng thông qua sự nuôi dưỡng của văn hóa nghệ thuật, cải tạo môi trường và thúc đẩy ngành nghề.
 
-Sự xuất hiện của cách mạng hóa sinh xã hội gắn liền với quá trình dân chủ hóa của Đài Loan.  
-Sau khi chấm dứt chế độ áp đảo, người dân bắt đầu có không gian và cơ hội thể hiện quan điểm, tham gia vào công việc công cộng.  
-Hóa sinh xã hội cung cấp một nền tảng cụ thể, để mọi người có thể bắt đầu từ môi trường sống hàng ngày của mình, thực hành ý tưởng tham gia dân chủ.
+Sự ra đời của phong trào xây dựng cộng đồng có mối liên hệ mật thiết với quá trình dân chủ hóa của Đài Loan. Sau khi chế độ độc tài được dỡ bỏ, người dân bắt đầu có nhiều không gian và cơ hội hơn để bày tỏ ý kiến và tham gia các công việc công cộng. Xây dựng cộng đồng đã cung cấp một nền tảng cụ thể để mọi người thực hiện lý tưởng về sự tham gia dân chủ ngay từ môi trường sống của chính mình.
 
-Bộ Văn hóa (trước đây là Viện xây dựng Quốc gia) từ năm 1994 đã thúc đẩy chính sách hóa sinh xã hội bằng cách tài trợ các chương trình khuyến khích cư dân xã tự đề xuất, cải tạo môi trường sống.  
-Các chương trình này bao phủ đa dạng lĩnh vực như văn hóa nghệ thuật, cảnh quan môi trường, phát triển kinh tế, dịch vụ xã hội.  
-Ví dụ, xã Bát Đầu ở Huyện Chia Nguyên, tỉnh Quảng Tây, thông qua việc truyền bá nghệ thuật gốm sứ địa phương, không chỉ bảo tồn nghề truyền thống mà còn thúc đẩy phát triển ngành du lịch;  
-Xã Nội Thành ở Huyện Nguyên Sơn, tỉnh Huyền An, kết hợp nông nghiệp hữu cơ và bảo tồn sinh thái, tạo ra mô hình sống "chậm rãi", thu hút nhiều người trẻ về làng.
+Bộ Văn hóa (Ban Kiến thiết) bắt đầu thúc đẩy chính sách xây dựng cộng đồng từ năm 1994, khuyến khích cư dân tự đề xuất và cải tạo môi trường sống thông qua các dự án tài trợ. Các dự án này bao gồm nhiều khía cạnh như văn hóa nghệ thuật, cảnh quan môi trường, phát triển công nghiệp và chăm sóc xã hội. Ví dụ, cộng đồng Bán Đầu (板頭) ở huyện Tân Cảng, thị xã Gia Nghĩa, đã bảo tồn nghề thủ công truyền thống thông qua việc quảng bá nghệ thuật gốm sứ trang trí (交趾剪黏), đồng thời thúc đẩy sự phát triển của ngành du lịch; còn cộng đồng Nội Thành (內城) ở thị xã Viên Sơn, huyện Nghi Lan, kết hợp canh tác hữu cơ, thân thiện với môi trường và bảo tồn sinh thái cũng thu hút một số thanh niên đến làm nông.
 
-Tinh thần hóa sinh xã hội dựa trên "tự giúp mình trong chính xã".  
-Nó khuyến khích cư dân không đợi chờ chính phủ hoặc lực lượng bên ngoài can thiệp, mà tự mình phát hiện vấn đề, tìm kiếm nguồn lực, đề xuất giải pháp.  
-Trong quá trình này, cư dân học hỏi cách tổ chức điều hành, hợp tác tài nguyên, thực hiện kế hoạch, đồng thời rèn luyện tinh thần gắn bó và trách nhiệm với xã.
+Tinh thần của xây dựng cộng đồng là "tự cứu lấy cộng đồng mình". Nó khuyến khích cư dân không chờ đợi sự can thiệp của chính phủ hay các thế lực bên ngoài, mà phải chủ động phát hiện vấn đề, tìm kiếm nguồn lực và đưa ra giải pháp. Trong quá trình này, người dân đã học được năng lực tổ chức, điều phối, tích hợp nguồn lực và thực hiện kế hoạch, đồng thời bồi dưỡng ý thức gắn bó và trách nhiệm đối với cộng đồng.
 
-## Đại học cộng đồng: Thí nghiệm xã hội học tập
+## Đại học cộng đồng: Thí nghiệm của xã hội học tập
 
-Năm 1998, Đại học cộng đồng đầu tiên tại Đài Loan được thành lập ở Quận Văn Minh, thành phố Đài Bắc, mở ra trang mới của giáo dục người trưởng thành.  
-Ý tưởng thành lập Đại học cộng đồng xuất phát từ sự phản tưng về hệ thống giáo dục truyền thống: Tại sao giáo dục chỉ nên kết thúc ở độ tuổi nhất định?  
-Tại sao học tập lại bị hạn chế ở những địa điểm nhất định?  
-Tại sao kiến thức không thể gần gũi hơn với cuộc sống?
+Năm 1998, đại học cộng đồng đầu tiên tại Đài Loan được thành lập ở quận Văn Sơn, Đài Bắc, mở ra một trang mới cho giáo dục người lớn. Ý tưởng thành lập đại học cộng đồng xuất phát từ sự phản tư về hệ thống giáo dục truyền thống: Tại sao giáo dục lại kết thúc ở một độ tuổi nhất định? Tại sao việc học bị giới hạn trong một địa điểm cụ thể? Tại sao tri thức không thể gần gũi với cuộc sống hơn?
 
-Thiết kế các khóa học của Đại học cộng đồng bao gồm ba phương diện: các khóa học học thuật cung cấp giáo dục cơ bản khoa học xã hội và nhân văn, các khóa học thực hành đời sống đáp ứng nhu cầu sở thích của cư dân, trong khi các hoạt động xã hội khuyến khích tham gia công dân.  
-Mô hình đa dạng này phản ánh sự hiểu biết rộng rãi của Đại học cộng đồng về "học tập" — học tập không chỉ là việc hấp thụ kiến thức mà còn là rèn luyện kỹ năng, mở rộng tầm nhìn, xây dựng mạng lưới quan hệ.
+Thiết kế khóa học của đại học cộng đồng có ba phương diện: các khóa học học thuật cung cấp nền tảng giáo dục nhân văn và khoa học xã hội; các khóa học nghệ thuật sinh hoạt đáp ứng nhu cầu sở thích của cư dân; còn các khóa học câu lạc bộ khuyến khích sự tham gia công dân. Thiết kế khóa học đa dạng này phản ánh sự hiểu biết rộng rãi của đại học cộng đồng về "việc học"—học không chỉ là tiếp thu kiến thức, mà còn là bồi dưỡng năng lực, mở rộng tầm nhìn và xây dựng mạng lưới quan hệ xã hội.
 
-Ví dụ với Đại học cộng đồng Bắc Đà, họ không chỉ cung cấp các khóa học mà còn thúc đẩy khái niệm "Bắc Đà học", khuyến khích học viên nghiên cứu về lịch sử văn hóa, môi trường sinh thái, vấn đề xã hội của địa phương.  
-Qua các phương pháp khảo sát thực địa, thu thập lịch sử miệng, vẽ bản đồ cộng đồng, các học viên trở thành nhà nghiên cứu và người ghi chép lịch sử của xã.  
-Sự thúc đẩy "học địa phương" này không chỉ sâu sắc hiểu biết về xã mà còn rèn luyện khả năng phản biện và nhận thức công dân.
+Lấy ví dụ Đại học cộng đồng Bắc Đầu (北投), họ không chỉ cung cấp các khóa học khác nhau mà còn thúc đẩy khái niệm "Học tập Bắc Đầu" (北投學), khuyến khích sinh viên nghiên cứu lịch sử văn hóa địa phương, môi trường sinh thái và các vấn đề xã hội. Thông qua điều tra thực địa, lịch sử truyền miệng và lập bản đồ cộng đồng, các học viên đã trở thành những nhà nghiên cứu và người ghi chép của cộng đồng. Sự thúc đẩy "khoa học địa phương" này không chỉ làm sâu sắc thêm sự hiểu biết về cộng đồng mà còn bồi dưỡng năng lực tư duy phản biện và ý thức công dân cho cư dân.
 
-Đại học cộng đồng cũng trở thành điểm đến quan trọng cho các phong trào xã hội.  
-Các vấn đề bảo vệ môi trường, giữ gìn văn hóa, quan tâm xã hội thường được thảo luận, tổ chức, thực hành tại đây.  
-Học viên thu được kiến thức và kỹ năng từ lớp học, sau đó đầu tư vào hành động xã hội thực tế.  
-Mô hình này "kết hợp học tập và hành động" phản ánh tinh thần "giải phóng kiến thức" của Đại học cộng đồng.
+Đại học cộng đồng cũng trở thành một điểm tựa quan trọng của các phong trào xã hội. Các vấn đề như bảo vệ môi trường, bảo tồn văn hóa, chăm sóc xã hội thường được thảo luận, tổ chức và thực hành tại các đại học cộng đồng. Học viên thu nhận kiến thức và kỹ năng từ lớp học, sau đó đầu tư những nguồn lực này vào các hoạt động xã hội thực tế. Mô hình "học tập gắn liền với hành động" này thể hiện lý tưởng "giải phóng tri thức" của đại học cộng đồng.
 
-## Tham gia công dân: Từ chấp nhận pasif đến can thiệp tích cực
+## Tham gia công dân: Từ tiếp nhận thụ động đến cải tạo chủ động
 
-Một đặc sắc quan trọng của văn hóa xã hội Đài Loan là sự nâng cao nhận thức tham gia công dân.  
-Biến đổi này có thể nhìn rõ ràng từ thái độ của cư dân xã đối với công việc công cộng.  
-Trước đây, nhiều người thường hành theo mô hình "chính phủ làm, người dân xem".  
-Kế hoạch và thực hiện các dự án công cộng thường thiếu sự tham gia của người dân.  
-Nhưng khi dân chủ hóa sâu rộng và nhận thức công dân nở rộ, cư dân bắt đầu yêu cầu nhiều cơ hội tham gia hơn, và sẵn sàng chịu trách nhiệm hơn.
+Một đặc điểm quan trọng của văn hóa cộng đồng Đài Loan là ý thức tham gia công dân dần được nâng cao. Sự chuyển đổi này có thể thấy rõ qua sự thay đổi thái độ của cư dân đối với các công việc công cộng. Trước đây, nhiều người quen với mô hình "chính phủ làm, người dân xem"; quy hoạch và thực hiện các dự án xây dựng công cộng thường thiếu sự tham gia của người dân. Nhưng cùng với sự phát triển của nền dân chủ và sự thức tỉnh ý thức công dân, cư dân bắt đầu yêu cầu nhiều cơ hội tham gia hơn và sẵn sàng gánh vác nhiều trách nhiệm hơn.
 
-Sự tham gia này không giới hạn ở bầu cử, mà mở rộng đến các khía cạnh đời sống hàng ngày.  
-Ví dụ, trong việc lên kế hoạch công viên cộng đồng, cư dân sẽ thành lập "nhóm bảo trợ công viên", tham gia thảo luận thiết kế, bảo dưỡng;  
-Trong việc cải thiện an toàn giao thông, các gia đình sẽ tổ chức "đội tình nguyện viên yêu thương", hỗ trợ an toàn cho trẻ em khi vào trường;  
-Trong đẩy mạnh bảo vệ môi trường, cộng đồng sẽ thành lập "đội tuần tra môi trường", giám sát các vấn đề ô nhiễm, thúc đẩy tái chế tài nguyên.
+Sự tham gia này không chỉ giới hạn trong bầu cử mà còn mở rộng ra mọi khía cạnh của cuộc sống hàng ngày. Ví dụ, trong quy hoạch công viên cộng đồng, cư dân sẽ thành lập "nhóm nhận nuôi công viên" để tham gia thảo luận thiết kế và quản lý; trong cải thiện an toàn giao thông, hội phụ huynh tổ chức "đội tình nguyện yêu thương" hỗ trợ sự an toàn của học sinh khi đi học; trong thúc đẩy bảo vệ môi trường, cộng đồng sẽ thành lập "đội tuần tra bảo vệ môi trường" để giám sát các vấn đề ô nhiễm và quảng bá tái chế.
 
-Ngân sách tham gia công dân là một dạng mới phát ra trong những năm gần đây.  
-Một số chính phủ địa phương mở phần ngân sách cho người dân quyết định cách sử dụng, qua quy trình đề xuất, thảo luận, bỏ phiếu, cho phép cư dân tham gia trực tiếp vào phân bố tài nguyên công cộng.  
-Cách làm này không chỉ nâng cao tính minh bạch của ngân sách mà còn tăng cường tinh thần chủ quyền của người dân.
+Ngân sách tham gia (participatory budgeting) là một hình thức mới nổi gần đây. Một số chính quyền địa phương mở một phần ngân sách cho người dân quyết định cách sử dụng, thông qua quá trình đề xuất, thảo luận và bỏ phiếu để cư dân trực tiếp tham gia phân bổ nguồn lực công cộng. Cách làm này không chỉ nâng cao tính minh bạch trong sử dụng ngân sách mà còn tăng cường ý thức chủ nhân của người dân.
 
-Sự phát triển của công nghệ số cũng mang lại các khả năng mới cho việc tham gia công dân.  
-Nhiều cộng đồng đã xây dựng nền tảng trực tuyến, cho phép cư dân thảo luận về công việc xã hội, phản ánh vấn đề, chia sẻ thông tin trực tuyến.  
-Một số công cụ sáng tạo như "Cổng điểm công dân thành phố Đài Bắc", "Xã hội mới tôi" (My New Taipei) khác nhau, giúp người dân tương tác với chính phủ một cách dễ dàng hơn.
+Sự phát triển của công nghệ số cũng mang lại những khả năng mới cho sự tham gia công dân. Nhiều cộng đồng đã thiết lập các nền tảng mạng để cư dân có thể thảo luận về các vấn đề cộng đồng, phản ánh các vấn đề và chia sẻ thông tin trực tuyến. Các thành phố và quận huyện cũng ra mắt ứng dụng của riêng mình; ví dụ, Đài Bắc đã tích hợp nhận dạng công dân và nhiều dịch vụ hành chính vào "TaipeiPass" (台北通), giúp người dân tương tác với chính quyền thuận tiện hơn.[^3]
 
-## Phát triển đa dạng của tổ chức xã hội
+## Sự phát triển đa dạng của các tổ chức cộng đồng
 
-Các tổ chức xã hội ở Đài Loan thể hiện mức độ đa dạng và sáng tạo cao.  
-Ngoài các tổ chức chính thức của làng, còn có nhiều kiểu dạng khác nhau của các tổ chức dân sziern hoạt động trong xã.  
-Hội phát triển xã hội là dạng tổ chức phổ biến nhất, thường với mục tiêu thúc đẩy phát triển xã hội, nâng cao lợi ích của cư dân, tổ chức các hoạt động và dịch vụ.
+Các tổ chức cộng đồng ở Đài Loan thể hiện tính đa dạng và sáng tạo cao. Ngoài các tổ chức thôn chính thức, còn có nhiều loại hình tổ chức tư nhân hoạt động tích cực trong cộng đồng. Hiệp hội phát triển cộng đồng là hình thức tổ chức phổ biến nhất; chúng thường lấy mục tiêu thúc đẩy phát triển cộng đồng và nâng cao phúc lợi cư dân làm nhiệm vụ, tổ chức nhiều loại hình hoạt động và dịch vụ.
 
-Các tổ chức tình nguyện là trụ cột quan trọng của hoạt động xã hội.  
-Từ các tình nguyện viên bảo vệ môi trường, tình nguyện viên giao thông, đến tình nguyện viên thư viện, hướng dẫn văn hóa, những người này đóng góp hơi ấm của con người vào xã hội.  
-Tinh thần tình nguyện phổ biến phản ánh giá trị truyền thống "hỗ trợ lẫn nhau" của xã hội Đài Loan, đồng thời thể hiện trách nhiệm xã hội của người dân hiện đại.
+Các tổ chức tình nguyện là trụ cột quan trọng của sự vận hành cộng đồng. Từ tình nguyện viên bảo vệ môi trường, giao thông đến tình nguyện viên thư viện, hướng dẫn văn hóa, những người phục vụ không lương này đã truyền hơi ấm nhân ái vào cộng đồng. Sự thịnh hành của tinh thần tình nguyện phản ánh giá trị truyền thống "tương trợ hợp tác" của xã hội Đài Loan và thể hiện trách nhiệm xã hội của công dân hiện đại.
 
-Kinh doanh xã hội là mô hình mới xuất hiện trong xã.  
-Chúng kết hợp mục tiêu xã hội và phương pháp kinh doanh, thông qua sản phẩm hoặc dịch vụ sáng tạo, giải quyết các vấn đề xã hội đồng thời tạo ra doanh thu kinh tế.  
-Ví dụ, một số xã thông qua việc phát triển nông nghiệp hữu cơ, hàng thủ công, du lịch địa phương, không chỉ cải thiện chất lượng môi trường mà còn tăng thu nhập của cư dân.
+Doanh nghiệp xã hội là mô hình mới nổi gần đây. Chúng kết hợp mục tiêu xã hội với phương thức kinh doanh, vừa giải quyết các vấn đề cộng đồng bằng sản phẩm hoặc dịch vụ sáng tạo, vừa tạo ra thu nhập kinh tế. Ví dụ, một số cộng đồng thông qua việc phát triển nông nghiệp hữu cơ, thủ công mỹ nghệ, du lịch địa phương không chỉ cải thiện chất lượng môi trường mà còn tăng thu nhập cho cư dân.
 
-Các tổ chức tôn giáo cũng đóng vai trò quan trọng trong xã hội Đài Loan.  
-Chùa chiền, nhà thờ, chùa Phật giáo... các địa điểm tôn giáo thường là trung tâm văn hóa xã, không chỉ cung cấp địa điểm tâm linh mà còn tổ chức các hoạt động dịch vụ xã hội.  
-Từ việc xuất quỹ, truyền thông giáo dục, đến bảo tồn văn hóa, bảo vệ môi trường, sự tham gia của các tổ chức tôn giáo cung cấp nguồn lực và năng lực thêm vào công việc xã hội.
+Các tổ chức tôn giáo cũng đóng vai trò quan trọng trong các cộng đồng Đài Loan. Các nơi thờ tự như đền chùa, nhà thờ, chùa Phật thường là trung tâm văn hóa của cộng đồng, không chỉ cung cấp sự an ủi tinh thần mà còn tổ chức nhiều hoạt động dịch vụ xã hội. Từ cứu trợ từ thiện, quảng bá giáo dục đến bảo tồn văn hóa và bảo vệ môi trường, sự tham gia của các tổ chức tôn giáo đã bổ sung thêm nguồn lực và năng lượng cho công việc cộng đồng.
 
 ## Thách thức và khó khăn
 
-Tuy nhiên, phát triển xã hội ở Đài Loan cũng đang gặp nhiều thách thức.  
-Tuổi già hóa dân số là một trong những vấn đề nghiêm trọng nhất.  
-Nhiều xã có người trẻ rời đi làng để sống và làm việc ở thành phố, để lại phần lớn là người cao tuổi, dẫn đến xã hội thiếu sinh lực, khó thực hiện các hoạt động.  
-Làm sao thu hút các thế hệ trẻ tham gia vào công việc xã hội, trở thành câu hỏi chung của nhiều xã.
+Tuy nhiên, sự phát triển cộng đồng ở Đài Loan cũng phải đối mặt với nhiều thách thức. Già hóa dân số là một trong những vấn đề nghiêm trọng nhất. Nhiều người trẻ rời bỏ các khu dân cư để làm việc ở thành thị, chỉ còn lại người già, dẫn đến thiếu sức sống của cộng đồng và khó khăn trong vận hành tổ chức. Làm thế nào để thu hút thế hệ trẻ tham gia công việc cộng đồng đã trở thành một thách thức chung mà nhiều cộng đồng phải đối mặt.
 
-thiếu tài nguyên là một vấn đề phổ biến khác.  
-Mặc dù chính phủ cung cấp nhiều chương trình hỗ trợ, nhưng cạnh tranh gay gắt và số tiền hỗ trợ hạn chế.  
-Nhiều dự án xã sáng tạo không thể triển khai do thiếu vốn.  
-Đồng thời, các tổ chức xã thường thiếu khả năng lập kế hoạch và quản lý chuyên môn, ảnh hưởng đến hiệu quả thực hiện dự án.
+Thiếu nguồn lực là một vấn đề phổ biến khác. Mặc dù chính phủ cung cấp nhiều kế hoạch trợ cấp, nhưng sự cạnh tranh gay gắt và số tiền hỗ trợ có hạn. Nhiều dự án sáng tạo của cộng đồng không thể thực hiện được do thiếu kinh phí. Đồng thời, các tổ chức cộng đồng thường thiếu năng lực quy hoạch và quản lý chuyên nghiệp, ảnh hưởng đến hiệu quả thực hiện dự án.
 
-Sự đô thị hóa mang lại tính ẩn dật cũng làm ảnh hưởng đến văn hóa xã hội.  
-Trong các khu dân cư lớn, người hàng xóm thiếu tương tác, tâm lý xã hội yếu.  
-Làm sao trong đời sống đô thị hiện đại xây dựng lại các mối liên kết xã hội, trở thành thách thức cần sự sáng tạo tư duy.
+Tính ẩn danh do đô thị hóa cũng gây ra tác động đến văn hóa cộng đồng. Trong các khu dân cư lớn, sự tương tác giữa hàng xóm yếu kém, ý thức cộng đồng lỏng lẻo. Làm thế nào để tái thiết lập mối liên kết cộng đồng trong cuộc sống đô thị hiện đại là một nhiệm vụ đòi hỏi tư duy sáng tạo.
 
-Vấn đề chính trị hóa cũng không được bỏ qua.  
-Một số công việc xã bị kéo vào tranh chấp chính trị giữa các phe phái, ảnh hưởng đến sự hòa hợp và phát triển của xã.  
-Làm sao vượt qua sự chia rẽ chính trị, tập trung vào lợi ích chung của cư dân, khiến người dẫn dắt xã phải thể hiện trí tuệ.
+Vấn đề chính trị hóa cũng không thể bỏ qua. Một số công việc cộng đồng bị cuốn vào tranh chấp đảng phái, ảnh hưởng đến sự hài hòa và phát triển của cộng đồng. Làm thế nào để vượt qua đối lập chính trị và tập trung vào lợi ích chung của cư dân là một bài kiểm tra trí tuệ của các nhà lãnh đạo cộng đồng.
 
-## Thực hành sáng tạo và tầm nhìn tương lai
+## Thực tiễn sáng tạo và triển vọng tương lai
 
-Đối mặt với các thách thức này, nhiều xã bắt đầu thử nghiệm các cách làm mới.  
-Hợp tác giữa các thế hệ là một xu hướng quan trọng trong số đó.  
-Một số xã thông qua các hoạt động "học cùng già và trẻ", "hội workshop thế hệ" khuyến khích giao lưu hợp tác giữa các độ tuổi.  
-Người già chia sẻ kinh nghiệm và trí tuệ, người trẻ đóng góp sáng tạo và năng lượng, tạo thành mối quan hệ bổ sung tốt đẹp.
+Đối mặt với những thách thức này, nhiều cộng đồng bắt đầu thử nghiệm các phương pháp đổi mới. Hợp tác liên thế hệ là một xu hướng quan trọng trong số đó. Một số cộng đồng thúc đẩy sự giao lưu hợp tác giữa các lứa tuổi thông qua các hình thức "cùng học ông bà và trẻ nhỏ" (老幼共學) hoặc "xưởng làm việc thế hệ" (世代工作坊). Người cao tuổi chia sẻ kinh nghiệm và trí tuệ, người trẻ đóng góp sự sáng tạo và sức sống, tạo thành mối quan hệ bổ sung lành mạnh.
 
-Việc ứng dụng công nghệ cũng mang lại khả năng mới cho phát triển xã hội.  
-Khái niệm xã thông minh dần được phổ biến, thông qua công nghệ internet vạn năng, dữ liệu lớn, trí tuệ nhân tạo... nâng cao hiệu quả và chất lượng quản lý xã hội.  
-Ví dụ, một số xã đã xây dựng hệ thống an ninh thông minh, thiết bị giám sát môi trường, nền tảng dịch vụ trực tuyến, giúp cư dân có môi trường sống tiện lợi và an toàn hơn.
+Ứng dụng công nghệ cũng mang lại những khả năng mới cho phát triển cộng đồng. Khái niệm "cộng đồng thông minh" (智慧社區) dần nổi lên, sử dụng các công nghệ như IoT, dữ liệu lớn và trí tuệ nhân tạo để nâng cao hiệu quả và chất lượng quản lý cộng đồng. Ví dụ, một số cộng đồng đã xây dựng hệ thống an ninh thông minh, thiết bị giám sát môi trường, nền tảng dịch vụ trực tuyến, giúp cư dân tận hưởng môi trường sống tiện nghi và an toàn hơn.
 
-Mô hình doanh nghiệp xã hội cũng được áp dụng trong xã.  
-Một số xã thông qua việc phát triển sản phẩm đặc sắn, cung cấp dịch vụ sáng tạo, vừa giải quyết các vấn đề xã hội, vừa tạo ra mô hình vận hành bền vững.  
-Tư duy này "sáng tạo xã hội" cung cấp không gian tưởng tượng mới cho phát triển xã hội.
+Mô hình doanh nghiệp xã hội cũng được áp dụng trong các cộng đồng. Một số cộng đồng thông qua việc phát triển ngành nghề đặc trưng, cung cấp dịch vụ sáng tạo, vừa giải quyết vấn đề xã hội, vừa tạo ra mô hình vận hành bền vững. Tư duy "đổi mới xã hội" này đã mang lại không gian tưởng tượng mới cho sự phát triển cộng đồng.
 
-Giao lưu quốc tế và học hỏi cũng trở thành xu hướng.  
-Nhiều tổ chức xã ở Đài Loan đã thiết lập quan hệ đối tác với các tổ chức xã nước ngoài, chia sẻ kinh nghiệm, trao đổi phương pháp.  
-Sự hợp tác quốc tế này không chỉ mở rộng tầm nhìn mà còn cung cấp các lời giải pháp mới cho các vấn đề chung đang đối mặt.
+Giao lưu và học tập quốc tế cũng là một xu hướng. Nhiều tổ chức cộng đồng Đài Loan thiết lập quan hệ đối tác với các cộng đồng nước ngoài, chia sẻ kinh nghiệm và trao đổi phương pháp. Sự hợp tác xuyên quốc gia này không chỉ mở rộng tầm nhìn mà còn cung cấp những ý tưởng mới để giải quyết các vấn đề chung.
 
-## Giá trị sâu xa của văn hóa xã hội
+## Giá trị sâu sắc của văn hóa cộng đồng
 
-Văn hóa xã hội Đài Loan có giá trị vượt xa việc tổ chức hoạt động và sự kiện.  
-Nó phản ánh một quan niệm xã hội quan trọng: dân chủ không chỉ là hệ thống chính trị, mà còn là một cách sống.  
-Trong xã, người ta học cách lắng nghe các tiếng nói khác nhau, tôn trọng các quan điểm đa dạng, tìm kiếm giải pháp chung.  
-Sự rèn luyện "năng lực dân chủ" này xây dựng nền tảng vững chắc cho sự phát triển dân chủ của toàn xã hội.
+Văn hóa cộng đồng Đài Loan có giá trị vượt xa sự vận hành bề mặt và việc tổ chức hoạt động. Nó thể hiện một lý tưởng xã hội quan trọng: dân chủ không chỉ là chế độ chính trị, mà còn là một lối sống. Trong cộng đồng, người dân học cách lắng nghe các tiếng nói khác nhau, tôn trọng các quan điểm đa dạng và tìm kiếm giải pháp chung. Việc bồi dưỡng "năng lực dân chủ" này đã đặt nền móng vững chắc cho sự phát triển dân chủ của toàn xã hội.
 
-Văn hóa xã hội cũng phản ánh sức mạnh của xã hội dân sự.  
-Ngoài chính phủ và thị trường, xã hội dân sự thông qua tự tổ chức, tự quản lý cách phản hồi nhiều nhu cầu xã hội.  
-Sự hoạt động của "bên thứ ba" này không chỉ bổ sung vào những thiếu sót của dịch vụ chính phủ mà còn thể hiện tính chủ quyền và khả năng hành động của người dân.
+Văn hóa cộng đồng cũng thể hiện sức mạnh của "xã hội dân sự". Bên cạnh chính phủ và thị trường, xã hội dân sự thông qua tự tổ chức và quản lý tự trị đã đáp ứng nhiều nhu cầu xã hội. Sự năng động của "khu vực thứ ba" này không chỉ bổ sung cho những thiếu sót của dịch vụ chính phủ mà còn thể hiện tính chủ thể và tính tích cực của công dân.
 
-Quan trọng hơn, văn hóa xã hội mang gánh nặng chức năng "khả năng chịu đựng xã hội".  
-Khi đối mặt với thiên tai, khó khăn, biến đổi kinh tế, xã hội, mạng lưới xã hội chặt chẽ thường là lực lượng hỗ trợ hiệu quả nhất.  
-Sự quan tâm lẫn nhau giữa hàng xóm, nhanh chóng tạo động lực bằng các tổ chức xã, điều chỉnh linh hoạt nguồn lực địa phương, đều là minh chứng cho khả năng tái cấu trúc xã hội từ dưới lên.
+Quan trọng hơn, văn hóa cộng đồng mang chức năng "khả năng phục hồi xã hội". Khi đối mặt với thiên tai, thảm họa, biến đổi kinh tế và cú sốc xã hội, mạng lưới cộng đồng chặt chẽ thường là lực lượng hỗ trợ hiệu quả nhất. Sự quan tâm lẫn nhau giữa hàng xóm, sự huy động nhanh chóng của các tổ chức cộng đồng, việc phân bổ linh hoạt các nguồn lực địa phương—tất cả những điều này đều thể hiện khả năng phục hồi xã hội từ dưới lên.
 
-Nhìn về tương lai, văn hóa xã hội Đài Loan sẽ tiếp tục biến đổi và phát triển.  
-Những thách thức mới sẽ cần những phản hồi mới, các thế hệ tương lai sẽ mang lại những tưởng tượng mới.  
-Dù có bất kỳ biến đổi nào, tinh thần "sống cùng nhau, quan tâm lẫn nhau, hành động tập thể" sẽ luôn là tài sản quý giá nhất của xã hội Đài Loan.
+Nhìn về tương lai, văn hóa cộng đồng Đài Loan sẽ tiếp tục tiến hóa và phát triển. Những thách thức mới đòi hỏi những phản ứng mới, thế hệ mới sẽ mang lại những tưởng tượng mới. Nhưng dù thay đổi thế nào, tinh thần cốt lõi của sự "sống chung, quan tâm lẫn nhau, hành động tập thể" vẫn luôn là tài sản quý giá nhất của xã hội Đài Loan.
 
-Trong một thời đại thay đổi nhanh chóng, xã hội nhắc nhở chúng ta về bản chất của cuộc sống: con người là sinh vật sống nhóm, hạnh phúc cần được chia sẻ, vấn đề cần được giải quyết bằng sự hợp tác.  
-Khi chúng ta thảo luận về ngày dọn sạch tháng tới tại trung tâm hoạt động xã, học tập kiến thức mới trong phòng giảng đại học cộng đồng, hay chào đón người hàng xóm vào đường làng vào buổi tối, chúng ta thực sự đang thực hành một ước mơ cổ xuống và hiện đại nhất — xây dựng một cộng đồng tốt đẹp hơn.
+Trong thời đại biến đổi nhanh chóng này, cộng đồng nhắc nhở chúng ta về bản chất của cuộc sống: con người là sinh vật sống theo bầy đàn, hạnh phúc cần được sẻ chia, vấn đề cần được giải quyết bằng sự hợp tác. Khi chúng ta thảo luận ngày dọn vệ sinh tháng tới tại trung tâm hoạt động cộng đồng, học kiến thức mới trong lớp đại học cộng đồng, hay nói lời chúc ngủ ngon với hàng xóm trên con ngõ nhỏ, thực chất chúng ta đang thực hành lý tưởng cổ xưa và hiện đại nhất của nhân loại—xây dựng một cộng đồng tốt đẹp hơn.
 
-## Kết luận: Nhìn thấy tương lai Đài Loan qua "làng"
+## Kết luận: Nhìn thấy tương lai Đài Loan trong "thôn" (里)
 
-Văn hóa xã hội Đài Loan là một thí nghiệm dân chủ đang diễn ra liên tục.  
-Nó biến quyền nghĩa dân chủ hóa thành sự quan tâm hàng xóm cụ thể, biến chính sách chính phủ lạnh lùng thành những phản hồi nhiệt huyết trong xã hội.  
-Trong một thời đại nhanh chóng và mất mát, chúng ta vẫn cần những con hẻm có thể chào hỏi người hôm qua, vẫn cần trung tâm hoạt động xã hội để thảo luận vì một cây cây cổ, một con kênh rửa.  
-Bởi vì ở đó, chúng ta không chỉ là người bầu cử mà còn là những người chứng kiến cuộc đời nhau.
+Văn hóa thôn (里) của Đài Loan là một thí nghiệm dân chủ đang diễn ra liên tục. Nó biến nghĩa vụ công dân trừu tượng thành sự quan tâm láng giềng cụ thể, biến các chính sách lạnh lùng của chính phủ được chuyển ngữ và thực hiện trong sự nhiệt tình của cộng đồng. Trong thời đại phân mảnh nhanh chóng này, chúng ta vẫn cần con ngõ nơi có thể chào hỏi nhau buổi sáng, vẫn cần trung tâm hoạt động nơi mọi người tụ tập để thảo luận về một cái cây cổ thụ hay một rãnh thoát nước. Bởi vì ở đó, chúng ta không chỉ là cử tri, mà còn là nhân chứng cho cuộc đời của lẫn nhau.
 
 ## Tài liệu tham khảo
 
-1. Viện Văn hóa Trung Hoa Dân Quốc (2022). "Kế hoạch phát triển văn hóa xã và làng (năm 2011-2016)". Truy cập tại:https://www.moc.gov.tw/cp.aspx?n=128
-2. Cổng thông tin xã hội (2021). "Không chỉ là lớp nghệ thuật, đại học cộng đồng và hành động xã hội". Truy cập tại:https://communitytaiwan.moc.gov.tw/Item/Detail/不只是才藝班，社區大學的社會行動
-3. Văn phòng Nhân sự thành phố Đài Bắc (2024). "Quyền lợi và nghĩa vụ của chủ làng". Truy cập tại:https://ca.gov.taipei/cp.aspx?n=3E43CD1A09FE5FA9
-4. Bộ Nội vụ (2023). "Luật hành chính địa phương và hệ thống làng". Truy cập tại:https://www.moi.gov.tw/
-5. Nhóm biên tập Wikipedia (2025). "Hóa sinh tổng thể xã hội". Wikipedia tiếng Việt. Truy cập tại:https://zh.wikipedia.org/zh-tw/社區總體營造
+1. Bộ Văn hóa Trung Hoa Dân Quốc (2022). _<Kế hoạch phát triển văn hóa và làng xã cộng đồng (năm 111-116)>_. Lấy từ: https://www.moc.gov.tw/cp.aspx?n=128
+2. Đài Loan Cộng Đồng Thông (2021). _<Không chỉ là lớp năng khiếu, hành động xã hội của đại học cộng đồng>_. Lấy từ: https://communitytaiwan.moc.gov.tw/Item/Detail/不只是才藝班, Hành động xã hội của đại học cộng đồng
+3. Cục Dân chính thành phố Đài Bắc (2024). _<Quyền và nghĩa vụ của Trưởng thôn>_. Lấy từ: https://ca.gov.taipei/cp.aspx?n=3E43CD1A09FE5FA9
+4. Cơ sở dữ liệu pháp luật quốc gia. Điều 59 Luật Hệ thống địa phương. Lấy từ: https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0040003&flno=59
+5. Nhóm biên tập Wikipedia (2025). _<Xây dựng tổng thể cộng đồng>_. _Wikipedia_. Lấy từ: https://zh.wikipedia.org/zh-tw/社區總體營造
+
+[^1]: [Điều 59 Luật Hệ thống địa phương](https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0040003&flno=59) — Cơ sở dữ liệu pháp luật quốc gia: Trưởng thôn chịu sự chỉ đạo và giám sát của trưởng xã (trấn, thị, khu), thực hiện công vụ và nhiệm vụ được giao của thôn (里); do cư dân bầu theo pháp luật, nhiệm kỳ bốn năm, có thể tái cử.
+
+[^2]: [Quyền và nghĩa vụ của Trưởng thôn](https://ca.gov.taipei/cp.aspx?n=3E43CD1A09FE5FA9) — Cục Dân chính thành phố Đài Bắc: Trưởng khu phố là vị trí không lương, do Trưởng thôn lựa chọn từ cư dân trưởng thành trong khu vực đó và báo cáo để trưởng khu vực bổ nhiệm; phụ cấp công việc là 2.500 NTD/người/tháng, ngoài ra còn có bảo hiểm tai nạn và trợ cấp hoạt động tự cường.
+
+[^3]: [TaipeiPass là gì](https://id.taipei/tpcd/about/what-is-taipeipass) — Chính quyền thành phố Đài Bắc: Tích hợp nhận dạng cá nhân và nhiều dịch vụ hành chính vào "TaipeiPass" (台北通), và tích hợp vào ứng dụng.

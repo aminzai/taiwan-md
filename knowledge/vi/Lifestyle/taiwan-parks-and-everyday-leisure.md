@@ -17,10 +17,10 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Lifestyle/台灣公園與日常休閒.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:5627d196edbadc46'
-sourceBodyHash: 'sha256:fb9597ed5d14a1d1'
-translatedAt: 2026-07-31T00:00:00Z
+sourceCommitSha: '1d2876d0d'
+sourceContentHash: 'sha256:5711dca50c2efd19'
+sourceBodyHash: 'sha256:62cca1f3ce3fb047'
+translatedAt: '2026-10-01T17:43:54.485158+00:00'
 ---
 
 # Công viên Đài Loan và sinh hoạt giải trí hàng ngày
@@ -72,20 +72,21 @@ Còn có một loại văn hóa công viên kín đáo hơn: những người y�
 Những người đam mê chụp chim lúc sáng sớm với kính viễn vọng và máy ảnh zoom dài, họ có mạng lưới thông tin riêng — cái cây nào có chim năm màu làm tổ, cái hồ nào có chim xanh — tốc độ lan truyền tin tức nhanh hơn cả báo chí.
 Ở công viên đô thị Đài Loan, quan sát chim không phải sở thích nhỏ lẻ, mà là một cộng đồng ngầm có tổ chức.
 
-## Từ sân chơi xi măng đến sân chơi hợp tác bao trùm
+## Từ sân chơi bê tông đến sân chơi hòa nhập
 
-Bộ mặt công viên Đài Loan đang trải qua một cuộc cách mạng yên tĩnh.
+Diện mạo các công viên ở Đài Loan đang trải qua một cuộc cách mạng thầm lặng.
 
-Trước đây, các thiết bị giải trí trong công viên Đài Loan gần như không có gì khác nhau: cầu trượt plastic kiểu hộp đóng, ngựa bập bênh, cầu cân, màu sắc lụi tàn phát trắng, thiết kế không có tưởng tượng, an toàn cũng đáng lo ngại.
-Những thiết bị này được ví như "đồ chơi hộp đóng" — mỗi công viên đều giống nhau, như được đặt từ cùng một danh mục.
+Trước đây, các thiết bị vui chơi trong công viên Đài Loan gần như đều giống hệt nhau: cầu trượt nhựa kiểu hộp thiếc, ngựa bập bênh, bàn đu quay, màu sắc bạc phếch, thiết kế thiếu sáng tạo và độ an toàn cũng đáng lo ngại.
+Những thiết bị này được người ta gọi đùa là "đồ chơi hộp thiếc" — mỗi công viên đều giống nhau, như thể được đặt hàng từ cùng một catalogue.
 
-Vào khoảng năm 2017, một cuộc vận động "công viên đặc biệt" được thúc đẩy bởi những cha mẹ và nhà thiết kế bắt đầu thay đổi tình hình này.
-Công viên Mơ Tưởng Thiên Mẫu Đài Bắc, công viên Tân Hòa Cân Bằng Tân Bắc, công viên thể thao Ác Phong Đài Trung, bắt đầu xuất hiện những khung tập leo theo chủ đề cảnh quan, cầu trượt lăn siêu dài, hộp cát, kênh nước, giường nẩy.
-Quan trọng hơn là khái niệm "hợp tác bao trùm" (inclusive) được đưa vào — diễn đàn xoay vòng để xe lăn có thể lên được, đồ chơi cảm giác cho trẻ mù có thể chạm được, cơ sở cho mọi lứa tuổi có thể sử dụng.
+Cuối năm 2015, phong trào "Công viên đặc sắc" do các bậc phụ huynh khởi xướng đã bắt đầu thay đổi cục diện này. [^2]
+Trong những năm tiếp theo, Công viên Mộng tưởng Thiên Mẫu ở Đài Bắc, Công viên Thể thao Cẩm Hòa ở Trung Hòa, Tân Bắc, và Công viên Thể thao Đỉnh Phượng ở Đài Trung lần lượt được cải tạo.
+Các cấu trúc leo trèo lấy cảnh quan làm chủ đề, cầu trượt lăn siêu dài, bãi cát, máng nước, sàn lò xo... xuất hiện nối tiếp nhau.
+Quan trọng hơn là khái niệm "hòa nhập" (inclusive) đã được đưa vào — các vòng quay xe lăn có thể lên được, các thiết bị cảm giác mà trẻ khiếm thị có thể chạm vào, và các khu vực phù hợp cho nhiều lứa tuổi khác nhau.
 
-Đằng sau cuộc vận động này là một nhóm cha mẹ không hài lòng với hiện trạng.
-Họ thành lập "Liên minh hành động trả lại công viên đặc biệt" (Liên minh công viên đặc biệt), thông qua ký tên, thỉnh cầu, tham gia xem xét công trình công cộng, từng công viên một đã thay đổi thiết kế công viên toàn Đài Loan.
-Đến những năm 2020, công viên đặc biệt đã trở thành bình thường từ hiếm hoi, trở thành trang bị tiêu chuẩn cho chính phủ địa phương để thể hiện thành tích chính sách.
+Đằng sau phong trào này là một nhóm phụ huynh không hài lòng với hiện trạng.
+Họ đã thành lập "Liên minh Hành động đòi lại Công viên đặc sắc" (Thục Công Liên), thông qua việc kiến nghị tập thể, khiếu nại và tham gia giám sát các dự án công cộng để thay đổi thiết kế công viên trên toàn đảo một cách từng bước.
+Đến những năm 2020, công viên đặc sắc đã trở thành điều bình thường chứ không còn là hiếm hoi, trở thành trang bị tiêu chuẩn mà chính quyền địa phương dùng để trưng bày thành quả quản lý.
 
 ## Sống thứ hai của bờ sông
 
@@ -101,20 +102,20 @@ Bờ sông có một cái gì mà công viên không có: cảm giác chuyển �
 Bạn có thể đạp từ khu này sang khu khác, từ cạnh thành phố tới cửa sông.
 Loại trải nghiệm giải trí tuyến tính này, khiến bờ sông trở thành nơi lý tưởng để "du hành một ngày nhỏ bé" của người dân Đài Loan — không cần lái xe, không cần lên kế hoạch, chỉ cần ngồi lên xe rồi đi.
 
-## Công viên buổi tối: Một thế giới khác
+## Công viên về đêm: Một thế giới khác
 
-Khi mặt trời lặn, công viên Đài Loan không đóng cửa.
+Khi mặt trời lặn, các công viên ở Đài Loan không đóng cửa.
 
-Vào 8, 9 giờ tối, bạn sẽ thấy một nhóm người khác ở công viên.
-Những người lao động dắt chó ra để tiêu hết năng lượng (mật độ nuôi chó đô thị Đài Loan rất cao, công viên là một trong số ít nơi có thể hợp pháp thả không dây), những sinh viên tập guitar trong lều che, người ngồi trên chiếc ghế dài lướt điện thoại nhưng thực ra chỉ cần một lý do để rời khỏi nhà.
+Vào khoảng tám, chín giờ tối, bạn sẽ thấy một nhóm người khác trong công viên.
+Những nhân viên văn phòng dắt chó đi dạo (tại các công viên thông thường, chó phải được xích dây; quy định của thành phố Đài Bắc về bảo vệ động vật có thể phạt chủ nuôi từ hai nghìn đến mười nghìn Đài tệ nếu không xích dây, và những khu vực dành riêng cho chó chạy tự do) [^1], sinh viên đại học tập guitar trong vọng lâu, hay những người ngồi trên ghế đá lướt điện thoại nhưng thực chất chỉ cần một lý do để rời khỏi nhà.
 
-Những đêm hè đặc biệt thú vị.
-Một số công viên sẽ tự phát xuất hiện những đám người "tránh nóng" — mang thảm mát và quạt điện đến công viên tránh nóng, vì gió ngoài trời thoải mái hơn điều hòa (và cũng tiết kiệm hơn).
-Những đứa trẻ chạy quanh bãi cỏ đuổi đom đóm (nếu sinh thái của công viên đó tốt), những người lớn bên cạnh trò chuyện ăn dưa hấu.
+Đêm hè đặc biệt thú vị.
+Một số công viên có sự xuất hiện tự phát của đám đông "giải nhiệt" — họ mang chiếu và quạt ra công viên để thư giãn, vì gió ngoài trời dễ chịu hơn (và tiết kiệm điện hơn) điều hòa.
+Trẻ em chạy nhảy trên bãi cỏ đuổi theo đom đóm (nếu hệ sinh thái của công viên đó đủ tốt), còn người lớn thì trò chuyện và ăn dưa bên cạnh.
 
-Loại văn hóa công viên buổi tối này liên quan tới khí hậu Đài Loan và nhịp độ sống.
-Mùa hè cận nhiệt đới ban ngày quá nóng, hoạt động ngoài trời tự nhiên dịch chuyển sang buổi tối.
-Cộng thêm an ninh Đài Loan tương đối tốt, dạo bộ sâu vào đêm trong công viên không phải thứ cần dũng cảm.
+Văn hóa công viên về đêm này có liên quan đến khí hậu và nhịp sống của Đài Loan.
+Mùa hè cận nhiệt đới quá nóng vào ban ngày, nên các hoạt động ngoài trời tự nhiên dịch chuyển sang buổi tối.
+Cộng thêm tình hình an ninh tương đối tốt của Đài Loan, việc đi dạo trong công viên vào đêm khuya không phải là điều gì cần sự can đảm.
 
 ## Công viên như một sân luyện tập cho dân chủ
 
@@ -165,6 +166,9 @@ Những nhịp độ nhỏ bé này, lặng lẽ sửa chữa khoảng cách gi�
 ## Tài liệu tham khảo
 
 1. Taiwan Parks and Playgrounds for Children and by Children (PPFCC). https://ppfcc.org/en/
-2. Vocus（2025）。〈公園20分鐘效應：現代都市人的心靈解藥〉。https://vocus.cc/article/662e4735fd89780001333610
-3. Taipei Travel（台北旅遊網）。〈Indigenous People's Park〉。https://www.travel.taipei/en/attraction/details/2005
-4. 台北ナビ（2024）。〈公園で太極拳デビューしませんか？〉。https://www.taipeinavi.com/special/5001857
+2. Vocus (2025). 〈Hiệu ứng 20 phút công viên: Liều thuốc tinh thần cho người dân thành thị hiện đại〉.https://vocus.cc/article/662e4735fd89780001333610
+3. Taipei Navi (2024). 〈Bạn có muốn bắt đầu tập Thái cực quyền trong công viên không?〉.https://www.taipeinavi.com/special/5001857
+
+[^1]: [「Nắm chặt dây xích, vì yêu bạn!」Sở Bảo vệ Động vật Đài Bắc kêu gọi chủ nuôi thú cưng thực hiện các biện pháp phòng ngừa thích hợp khi dắt chó đi chơi](https://www.tcapo.gov.taipei/News_Content.aspx?n=67993BA7C146BC76&sms=72544237BBE4C5F6&s=01DA8EC9CE2086ED) — Thông cáo báo chí của Sở Bảo vệ Động vật Thành phố Đài Bắc tháng 12 năm 2019: Theo Quy chế Tự trị về Bảo vệ Động vật của Thành phố Đài Bắc, tại các nơi công cộng, chó phải được xích dây; vi phạm sẽ bị phạt từ 2.000 đến 10.000 Đài tệ.
+
+[^2]: [Liên minh Hành động vì Công viên Đặc trưng](https://zh.wikipedia.org/zh-tw/%E9%82%84%E6%88%91%E7%89%B9%E8%89%B2%E5%85%AC%E5%9C%92%E8%A1%8C%E5%8B%95%E8%81%AF%E7%9B%9F) — Mục Wikipedia: Thành lập nhóm Facebook vào năm 2015, tổ chức họp báo kiến nghị trước Tòa thị chính Đài Bắc vào ngày 28 tháng 11 cùng năm, và thành lập pháp nhân vào năm 2018.

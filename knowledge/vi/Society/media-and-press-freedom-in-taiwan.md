@@ -1,160 +1,167 @@
 ---
-title: 'Truyền thông và tự do báo chí tại Đài Loan'
-description: 'Từ sự kiểm soát của đảng–nhà nước đến thời kỳ truyền thông cạnh tranh phân mảnh: tiến trình dân chủ hóa tự do báo chí và những thách thức chuyển đổi số tại Đài Loan'
-date: '2026-03-18'
-author: 'Taiwan.md'
+title: 'Đài Loan và tự do báo chí'
+description: 'Từ kiểm soát của đảng nhà nước đến thời kỳ chiến tranh truyền thông: Hành trình dân chủ hóa tự do báo chí của Đài Loan và thách thức chuyển đổi số'
+date: 2026-03-18
 category: 'Society'
-subcategory: '媒體與言論'
 tags:
   [
-    'truyền thông',
-    'tự do báo chí',
-    'dân chủ hóa',
-    'chuyển đổi số',
-    'hiểu biết truyền thông',
+    'Truyền thông',
+    'Tự do báo chí',
+    'Dân chủ hóa',
+    'Chuyển đổi số',
+    'Nhận thức truyền thông',
   ]
+subcategory: '媒體與言論'
+author: 'Taiwan.md'
+difficulty: 'intermediate'
 readingTime: 15
-lastVerified: '2026-03-19'
-lastHumanReview: false
 featured: false
+lastVerified: 2026-03-19
+lastHumanReview: false
 translatedFrom: 'Society/台灣媒體與新聞自由.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:2b07b58b99abcb36'
-sourceBodyHash: 'sha256:9e2facc3bed645dd'
-translatedAt: '2026-07-18T18:46:19+08:00'
+sourceCommitSha: '78ae80cba'
+sourceContentHash: 'sha256:582905028c9e4b0e'
+sourceBodyHash: 'sha256:cbd2decd38c4f756'
+translatedAt: '2026-10-02T00:52:48+08:00'
 ---
 
-# Truyền thông và tự do báo chí tại Đài Loan
+# Đài Loan và tự do báo chí
 
 ## Tổng quan trong 30 giây
 
-Truyền thông Đài Loan đã chuyển mình từ thế độc quyền của đảng–nhà nước trong thời kỳ thiết quân luật, qua quá trình “dỡ bỏ lệnh cấm báo chí” và “giải phóng truyền hình” sau khi thiết quân luật chấm dứt, để hình thành hệ sinh thái truyền thông đa dạng như hiện nay. Trong Chỉ số Tự do Báo chí Thế giới năm 2024 của Tổ chức Phóng viên Không Biên giới, Đài Loan đứng thứ 27 và thuộc nhóm dẫn đầu châu Á.[^1]
+Truyền thông Đài Loan phát triển từ sự độc quyền của nhà nước dưới thời kiêng cấm, sau giải kiêng thông qua "giải phóng cấm báo" và "giải phóng truyền hình", đến sinh thái đa phương tiện đa dạng ngày nay. Theo chỉ số tự do báo chí thế giới của Tổ chức Báo chí Không Biên Giới, Đài Loan xếp hạng thứ 28 trong tổng số 180 quốc gia và khu vực vào năm 2026, và thứ 24 vào năm 2025.[^1]
 
-Bức tranh truyền thông Đài Loan hiện gồm các tập đoàn báo chí lớn, 6 đài truyền hình quảng bá mặt đất, hơn một trăm đài truyền hình cáp, cùng các cơ quan truyền thông thuần số nổi lên từ thập niên 2010.
+Hiện trạng truyền thông Đài Loan bao gồm các tập đoàn báo lớn, 5 kênh truyền hình vô tuyến (Đài Bắc, Trung Bắc, Hoa Bắc, Dân Bắc, Công Bắc), nhiều kênh cáp và vệ tinh, cùng với các phương tiện truyền thông sinh ra từ thập niên 2010.
 
-Trước những thách thức như thông tin sai lệch, phân cực chính trị và doanh thu quảng cáo sụt giảm, áp lực chuyển đổi đối với truyền thông Đài Loan chưa bao giờ rõ rệt đến vậy.
+Đối mặt với thách thức như tin giả, phân cực chính trị, doanh thu quảng cáo suy giảm, áp lực chuyển đổi của truyền thông Đài Loan chưa từng rõ ràng đến thế này.
 
-**Từ khóa:** dỡ bỏ lệnh cấm báo chí, giải phóng truyền hình, Phóng viên Không Biên giới, hiểu biết truyền thông, chuyển đổi số, thông tin sai lệch
+**Từ khóa:** Giải phóng cấm báo, Giải phóng truyền hình, Tổ chức Báo chí Không Biên Giới, Nhận thức truyền thông, Chuyển đổi số, Tin giả
 
-## Vì sao vấn đề này quan trọng
+## Tại sao điều này quan trọng
 
-Tự do báo chí là nền tảng của thể chế dân chủ, còn lịch sử phát triển truyền thông Đài Loan phản ánh quỹ đạo của tiến trình dân chủ hóa. Từ công cụ tuyên truyền dưới chế độ chuyên chế trở thành quyền lực thứ tư giám sát chính phủ, quá trình này không chỉ tác động đến sự phát triển chính trị của Đài Loan mà còn cung cấp kinh nghiệm tham khảo cho các nền dân chủ mới nổi khác.
+Tự do báo chí là nền tảng của nền dân chủ, và lịch sử phát triển truyền thông Đài Loan phản ánh hành trình dân chủ hóa. Từ công cụ tuyên truyền dưới sự thống trị độc tài, chuyển thành lực lượng giám sát chính phủ là "quyền lực thứ tư", quá trình này không chỉ ảnh hưởng đến sự phát triển chính trị của Đài Loan mà còn cung cấp bài học cho các nước dân chủ mới nổi khác.
 
-Trong bối cảnh chiến tranh thông tin toàn cầu và mối đe dọa từ thông tin sai lệch, môi trường truyền thông Đài Loan đang đứng trước những thử thách nghiêm trọng. Làm thế nào để cân bằng giữa tự do ngôn luận và tính xác thực của thông tin là vấn đề cốt lõi mà quá trình củng cố dân chủ tại Đài Loan phải giải quyết. Sự trỗi dậy của truyền thông số vừa làm thay đổi hệ sinh thái truyền thông truyền thống, vừa tạo ra các mô hình tham gia công dân mới và những rủi ro thông tin mới.
+Trong bối cảnh chiến tranh thông tin toàn cầu và đe dọa từ tin giả, môi trường truyền thông Đài Loan phải đối mặt với thử thách nghiêm ngặt. Cách duy trì cân bằng giữa tự do ngôn luận và độ tin cậy thông tin là vấn đề cốt lõi mà dân chủ Đài Loan phải giải quyết. Sự khởi lên của truyền thông số đã thay đổi sinh thái truyền thông truyền thống, đồng thời tạo ra các mô hình tham gia công dân mới và rủi ro thông tin mới.
 
-Lịch sử truyền thông Đài Loan là một phiên bản cô đọng của lịch sử dân chủ hóa: trong 70 năm, Đài Loan đã trải qua nhiều chuyển đổi thể chế mà không ít quốc gia phải mất cả thế kỷ mới hoàn tất.
+Lịch sử truyền thông Đài Loan là một bản tóm tắt của lịch sử dân chủ hóa, trong vòng 70 năm đã trải qua nhiều thay đổi cơ cấu mà các nước khác cần hàng trăm năm để hoàn thành.
 
-## Thời kỳ thiết quân luật: hệ thống truyền thông đảng–nhà nước (1949–1987)
+## Thời kỳ kiêng cấm: Hệ thống truyền thông của đảng nhà nước (1949-1987)
 
 ### Cơ chế kiểm soát truyền thông
 
-Hoạt động kiểm soát truyền thông trong thời kỳ thiết quân luật lấy “lệnh cấm báo chí” làm trọng tâm. Từ năm 1951, chính quyền ngừng cấp giấy phép thành lập báo mới; các tờ báo hiện hữu gồm 《Nhật báo Trung ương》 — cơ quan ngôn luận của Quốc Dân Đảng — cùng 《Thời báo Trung Quốc》 và 《Liên hợp báo》 hình thành cục diện “ba tờ báo lớn”. Bộ Tư lệnh Cảnh bị sử dụng cơ chế kiểm duyệt trước khi xuất bản để kiểm soát nội dung tin tức. Trong lĩnh vực truyền hình, “ba đài cũ” giữ thế độc quyền: Đài Truyền hình Đài Loan (TTV, 1962; thuộc chính quyền cấp tỉnh), Đài Truyền hình Trung Quốc (CTV, 1969; thuộc Quốc Dân Đảng) và Đài Truyền hình Trung Hoa (CTS, 1971; thuộc quân đội). Mỗi đài đều chịu sự chi phối của một thế lực đảng, chính quyền hoặc quân đội; các bản tin khung giờ vàng lúc 21 giờ đồng loạt truyền tải chính sách của chính phủ. Trong lĩnh vực phát thanh, các đài chính thức như Chính Thanh, Đài Phát thanh Trung Quốc và Đài Phát thanh Quân đội giữ vị thế chủ đạo; cả việc phân bổ tần số lẫn nội dung đều bị kiểm soát nghiêm ngặt.
+Trong thời kỳ kiêng cấm, sự điều chỉnh của truyền thông dựa trên "cấm báo" là yếu tố cốt lõi: Từ năm 1951, ngừng cấp phép cho các tờ báo mới, những tờ hiện có như《Trung Ương Nhật Báo》(báo chính thức của Đảng Quốc Dân Đoàn), 《Trung Quốc Thời Báo》, 《Liên Hiệp Báo》 tạo thành cấu trúc "ba tờ lớn", trong khi Tổng Cục An Ninh thì áp dụng kiểm duyệt trước khi xuất bản để kiểm soát nội dung tin tức. Về truyền hình, ba kênh cũ (sau này trở thành ba kênh chính thức) chiếm độ: Đài Bắc (1962, chính quyền tỉnh), Trung Bắc (1969, Đảng Quốc Dân Đoàn), Hoa Bắc (1971, quân đội), mỗi kênh đều phản ánh lợi ích của các phe tranh chính trị-quân sự, và các chương trình tin tức buổi tối hàng đêm phỏng trình chính sách của chính phủ. Về phát thanh, các đài chính thức như Đài Chính Thanh, Đài Trung Thanh, Đài Quân Thanh chiếm ưu thế, và cả phân bổ tần số và nội dung đều chịu sự kiểm soát nghiêm ngặt.
 
-### Vai trò được quy định cho truyền thông
+### Vị trí chức năng của truyền thông
 
-Dưới hệ thống truyền thông đảng–nhà nước, chức năng của truyền thông được quy định rõ ràng: tuyên truyền tư tưởng chống cộng, phục quốc và quảng bá thành quả chính sách của chính phủ. Tuy nhiên, vai trò giải trí cũng không thể bị xem nhẹ. Sự phổ biến của ca kịch Đài Loan trên truyền hình và múa rối bao tay, sức hút của các phim tình cảm chuyển thể từ tác phẩm Quỳnh Dao, cùng khả năng gắn kết công chúng của các chương trình thể thao trực tiếp đã giúp xã hội Đài Loan duy trì sức sống văn hóa đại chúng ngay trong những khe hở của sự kiểm soát chuyên chế.
+Dưới hệ thống truyền thông của đảng nhà nước, chức năng của truyền thông được xác định rõ ràng: Tuyên truyền tư tưởng chống cộng hồi tái, phỏng thông tin về hiệu quả chính sách của chính phủ. Tuy nhiên, chức năng giải trí cũng không thể bỏ qua — sự phổ biến của ca nhạc truyền hình, múa rối, và các bộ phim tình cảm của Tương Dương, cùng với sức mạnh kết nối cộng đồng từ truyền phát thể thao, đều trong khoảng trống của sự kiểm soát độc tài, giữ gìn sức sống văn hóa phổ thông cho xã hội Đài Loan.
 
-Hệ thống kiểm soát này vận hành gần bốn thập niên trước khi thiết quân luật được dỡ bỏ vào năm 1987, qua đó định hình trải nghiệm tiếp cận truyền thông của nhiều thế hệ người Đài Loan.
+Hệ thống kiểm soát này hoạt động gần như bốn mươi năm trước khi giải kiêng vào năm 1987, định hình kinh nghiệm tiếp xúc truyền thông cho nhiều thế hệ người Đài Loan.
 
-## Giải phóng truyền thông sau khi thiết quân luật chấm dứt (1987–1996)
+## Sau giải kiêng: Giải phóng truyền thông (1987-1996)
 
-### Dỡ bỏ lệnh cấm báo chí (1988)
+### Giải phóng cấm báo (1988)
 
-Ngày 1 tháng 1 năm 1988, lệnh cấm báo chí chính thức được dỡ bỏ, mở ra thời kỳ cạnh tranh khốc liệt của ngành báo chí.[^2] Các tờ báo mới như 《Thời báo Tự do》 — tiền thân là 《Nhật báo Tự Cường》 — 《Nhật báo Dân chúng》 và 《Nhật báo Đài Loan》 lần lượt ra đời hoặc mở rộng hoạt động. Các báo sử dụng chiến thuật tặng báo miễn phí để tranh giành độc giả, trong khi cuộc đua về công nghệ in màu cũng thúc đẩy một cuộc cách mạng thị giác trong thiết kế trang báo. Lập trường chính trị của truyền thông nhanh chóng phân hóa trong giai đoạn này: 《Thời báo Tự do》 thiên về phe ủng hộ Đài Loan độc lập, còn 《Thời báo Trung Quốc》 và 《Liên hợp báo》 thiên về phe ủng hộ thống nhất. Sự phân hóa này phản ánh thực tế đa nguyên hóa chính trị tại Đài Loan sau khi thiết quân luật được dỡ bỏ.
+Vào ngày 1 tháng 1 năm 1988, cấm báo được chính thức giải phóng, mở ra thời kỳ chiến tranh truyền thông.[^2] Các tờ mới như《Thời Báo Tự Do》(tiền thân là《Nhật Báo Tự Cường》), 《Nhân Dân Nhật Báo》, 《Nhật Báo Đài Loan》 lần lượt thành lập hoặc mở rộng, mỗi nhà báo đều dùng chiến lược phát bản miễn phí để chiếm lĩnh độc giả, và cuộc thi công nghệ in màu cũng thúc đẩy cách mạng thiết kế bố cục. Quan điểm chính trị của truyền thông phân tách nhanh chóng trong giai đoạn này: 《Thời Báo Tự Do》 hưủng về phía độc lập, trong khi 《Trung Quốc Thời Báo》 và 《Liên Hiệp Báo》 hướng về phía trung lập, phản ánh thực tế đa dạng chính trị sau giải kiêng của Đài Loan.
 
 ### Giải phóng truyền hình và mở cửa truyền hình cáp
 
-Luật Truyền hình cáp được thông qua năm 1993, chấm dứt thế độc quyền của ba đài truyền hình cũ. Các đài phát thanh không phép được hợp pháp hóa tại chỗ, khiến số lượng kênh tăng bùng nổ. Năm 1997, Đài Truyền hình Dân Thị bắt đầu phát sóng và trở thành đài truyền hình quảng bá mặt đất tư nhân đầu tiên tại Đài Loan. Năm 1998, Đài Truyền hình Công cộng chính thức lên sóng, thiết lập một mô hình truyền thông khác không phụ thuộc vào doanh thu quảng cáo. Sự nổi lên của các đài truyền hình cáp như Đông Sâm, TVBS và Tam Lập tạo điều kiện để các chương trình bình luận chính trị phát triển mạnh, còn việc phát tin tức 24 giờ trở thành thông lệ.
+Năm 1993, Luật Truyền Hình Cáp được thông qua, chấm dứt sự độc quyền của ba kênh cũ, các đài phát thanh trái phép được pháp lý hóa, và số lượng kênh tăng vọt. Năm 1997, Dân Bắc chính thức phát sóng, trở thành kênh truyền hình vô tuyến đầu tiên do dân sự sở hữu tại Đài Loan; năm 1998, Đài Truyền Hình Công Cộng chính thức khai mạc, thiết lập một mô hình truyền thông khác không phụ thuộc vào doanh thu quảng cáo. Sự xuất hiện của Đông Sơn, TVBS, Tam Sư và các kênh truyền hình cáp khác đã thúc đẩy sự phát triển mạnh mẽ của các chương trình thảo luận chính trị, và việc phỏng thông tin 24 giờ trở thành xu hướng.
 
-Chỉ trong mười năm sau khi lệnh cấm báo chí được dỡ bỏ, Đài Loan đã chuyển từ một sa mạc truyền thông thành khu rừng truyền thông dư thừa kênh phát sóng. Tốc độ chuyển đổi này tương đối hiếm gặp trong các trường hợp dân chủ hóa trên thế giới.
+Trong vòng chỉ chưa đầy một thập kỷ sau khi cấm báo được giải phóng, Đài Loan đã chuyển từ "sa mạc truyền thông" sang "rừng rậm kênh truyền hình dư thừa", tốc độ biến đổi nhanh chóng đáng chú ý trong các trường hợp dân chủ hóa toàn cầu.
 
-## Thời kỳ truyền thông cạnh tranh phân mảnh (1996–2010)
+## Thời kỳ chiến tranh truyền thông (1996-2010)
 
-### Tái định hình ngành báo chí
+### Sự sắp xếp lại ngành báo
 
-Năm 2003, 《Nhật báo Apple》 của Tập đoàn Next Digital Hồng Kông tiến vào thị trường Đài Loan. Với trang nhất khai thác các chủ đề giật gân về bạo lực, tình dục và đời tư người nổi tiếng, cùng văn hóa săn ảnh, tờ báo này đã làm đảo lộn hệ sinh thái báo chí và nhanh chóng vươn lên dẫn đầu về lượng phát hành. Từ đó hình thành cục diện bốn tờ báo lớn: 《Nhật báo Apple》 có lượng phát hành cao nhất; 《Thời báo Tự do》 có ảnh hưởng chính trị mạnh và lập trường nghiêng về phe xanh; 《Thời báo Trung Quốc》 nghiêng về phe xanh dương; còn 《Liên hợp báo》 có lập trường trung dung nhưng thiên xanh dương. Cục diện này chỉ tan rã khi 《Nhật báo Apple》 đình bản vào năm 2021.
+Năm 2003, 《Báo Apple》của nhóm truyền thông One Media từ Hồng Kông xuất hiện tại Đài Loan, với những bìa đầy tính kích thích và văn hóa báo chí sống động, nhanh chóng lên đến đỉnh cao số lượng phát hành. Bốn nhà báo lớn hình thành: 《Báo Apple》có số lượng phát hành cao nhất, 《Thời Báo Tự Do》có ảnh hưởng chính trị mạnh mẽ từ phía xanh, 《Trung Quốc Thời Báo》từ phía đỏ, và 《Liên Hiệp Báo》hướng về phía trung lưu. Cấu trúc này kéo dài cho đến khi 《Báo Apple》ngừng phát hành vào năm 2021.
 
-### Cạnh tranh trong lĩnh vực truyền hình
+### Cạnh tranh truyền hình
 
-Số lượng kênh tin tức tăng nhanh; các đài Tam Lập, Đông Sâm, TVBS, Trung Thiên, Niên Đại và Dân Thị cạnh tranh thu hút khán giả bằng những chương trình bình luận chính trị. Các chương trình như 《2100 Toàn dân lên tiếng》 của TVBS, 《Tin tức Hacker》 của Tam Lập và 《Ông chủ lên tiếng》 của Dân Thị đã tạo nên “văn hóa bình luận viên nổi tiếng” đặc thù của Đài Loan. Những nhà bình luận có lập trường chính trị rõ rệt xuất hiện trên màn hình mỗi tối, tác động sâu sắc đến môi trường thảo luận chính trị của Đài Loan.
+Số lượng kênh tin tức tăng nhanh, Tam Sư, Đông Sơn, TVBS, Trung Thiên, Niên Đại, Dân Bắc đều cạnh tranh với các chương trình thảo luận chính trị để thu hút khán giả. Các chương trình như《2100 Toàn Dân Mở Lớp》(TVBS), 《Tin Tức Hacker》(Tam Sư), 《Chuyên Gia Đến Mở Lớp》(Dân Bắc) tạo ra văn hóa "nhân vật nổi tiếng" đặc trưng của Đài Loan, những nhận xét viên có quan điểm chính trị rõ rệt chiếm lĩnh màn hình hàng đêm, sâu sắc ảnh hưởng tới môi trường thảo luận chính trị của Đài Loan.
 
-### Những biểu hiện hỗn loạn của truyền thông
+### Vấn đề lộn xộn trong truyền thông
 
-Quảng cáo lồng ghép trở thành một vấn đề mang tính cơ cấu trong giai đoạn này. Ngân sách chính phủ được dùng để mua bài đưa tin trên truyền thông, làm mờ ranh giới giữa tin tức và quảng cáo, đồng thời khiến uy tín truyền thông suy giảm. Tình trạng truyền thông phe xanh và phe xanh dương phân tuyến rõ rệt, cùng hiện tượng đưa tin có chọn lọc, cũng đẩy nhanh quá trình hình thành đối đầu xã hội.
+Tiếp thị ngầm trở thành vấn đề cấu trúc của thời kỳ này: ngân sách chính phủ mua lại báo cáo truyền thông, ranh giới giữa tin tức và quảng cáo mờ nhạt, niềm tin truyền thông giảm xuống. Hiện tượng chia rẽ thông tin theo phương án xanh-đỏ và báo cáo chọn lọc cũng tăng tốc sự phản đối trong xã hội.
 
-## Thời đại truyền thông số (từ năm 2010 đến nay)
+## Thời đại truyền thông số (2010 đến nay)
 
-### Sự trỗi dậy của truyền thông trực tuyến
+### Sự khởi lên của truyền thông mạng
 
-Trong thập niên 2010, các cơ quan truyền thông thuần trực tuyến lần lượt xuất hiện, lấp đầy những khoảng trống đưa tin mà truyền thông truyền thống để lại. 《ETtoday News Cloud》 (2011) nhanh chóng nổi lên với mô hình định hướng theo lượt nhấp; 《The Storm Media》 (2014) theo đuổi báo chí chuyên sâu; 《The Reporter》 (2015) cung cấp các phóng sự điều tra độc lập theo mô hình phi lợi nhuận[^5]; còn 《Up Media》 (2016) tập trung vào chuyên môn tài chính, kinh tế và chính trị. Facebook và YouTube trở thành những kênh phổ biến tin tức chủ yếu. Ảnh hưởng của người nổi tiếng trên mạng và các thủ lĩnh dư luận chủ chốt (KOL) dần vượt qua những người làm truyền thông truyền thống, trong khi lượng phát hành báo in tiếp tục suy giảm.
+Trong những năm 2010, nhiều phương tiện truyền thông chỉ hoạt động trên mạng xuất hiện, lấp đầy khoảng trống trong báo cáo của truyền thông truyền thống. 《ETtoday Tin Đám Mây》(2011) nhanh chóng lên hục thông qua mô hình dựa trên lượt nhấp chuột; 《Phong Truyền》(2014) chọn con đường báo cáo sâu sắc; 《Báo Cáo》(2015) cung cấp báo cáo điều tra độc lập thông qua mô hình phi lợi nhuận[^5]; 《Shang Bao》(2016) tập trung vào báo cáo chuyên nghiệp về tài chính và chính trị. Facebook và YouTube trở thành kênh truyền bá tin tức chính, và ảnh hưởng của các influencer và KOL dần vượt qua các nhà báo truyền thống, trong khi lượng phát hành của các tờ báo giấy tiếp tục giảm.
 
-### Thông tin sai lệch và hiểu biết truyền thông
+### Tin giả và nhận thức truyền thông
 
-Trong thời gian diễn ra cuộc bầu cử năm 2018, thông tin sai lệch lan truyền với quy mô lớn trên LINE và Facebook; những cáo buộc liên quan đến chiến tranh thông tin từ Trung Quốc cũng theo đó nổi lên. Trung tâm Kiểm chứng Sự thật Đài Loan được thành lập năm 2018[^3], phối hợp với các nền tảng như MyGoPen và Cofacts để xây dựng cơ chế kiểm chứng. Cùng thời gian này, Bộ Giáo dục đưa nội dung hiểu biết truyền thông vào chương trình giáo dục, nhằm xây dựng năng lực phân biệt thông tin của công dân từ hệ thống giáo dục.
+Trong thời gian bầu cử năm 2018, tin giả lan truyền rộng rãi trên LINE và Facebook, và cáo buộc chiến tranh thông tin từ Trung Quốc đại lục cũng bắt đầu được đưa ra ánh sáng. Trung Tâm Kiểm Chứng Tin Tức Đài Loan được thành lập vào năm 2018[^3], cùng với các nền tảng như MyGoPen, Cofacts, v.v., để thiết lập cơ chế kiểm chứng. Năm 2019, chương trình giáo dục quốc gia 12 năm (108 chương trình) đưa "Kỹ năng số và nhận thức truyền thông" vào danh sách kỹ năng cốt lõi, nỗ lực xây dựng khả năng phân biệt thông tin của công dân từ góc độ giáo dục.
 
-### Sự kiện 《Nhật báo Apple》 đình bản (2021)
+### Sự kiện ngừng phát hành của 《Báo Apple》(2021)
 
-Tháng 5 năm 2021, Next Digital tại Hồng Kông ngừng hoạt động do các biện pháp chế tài theo Luật An ninh Quốc gia. Phiên bản Đài Loan đồng thời chịu áp lực kép từ doanh thu quảng cáo sụt giảm và tác động của đại dịch, nên tuyên bố đình bản trong cùng tháng. Từ đó, bốn tờ báo lớn giảm còn ba; thị trường tin tức giải trí được phân chia lại, còn văn hóa săn ảnh dần suy yếu. Sự kiện này cũng phơi bày tính dễ tổn thương của ngành báo chí truyền thống trong thời đại số, cũng như những rủi ro tiềm ẩn mà tình trạng tập trung quyền sở hữu truyền thông gây ra cho thị trường tin tức.
+Vào ngày 14 tháng 5 năm 2021, One Media công bố 《Báo Apple Đài Loan》phiên bản giấy sẽ ngừng phát hành sau số phát hành cuối cùng vào ngày 17 tháng 5, lý do là do hoạt động liên tục lỗ lãnh, mất quảng cáo do nền tảng số chiếm lĩnh, và tình hình chính trị ở Hồng Kông xấu đi.[^6] Vào ngày 24 tháng 6, chỉ một tháng sau đó, 《Báo Apple Hồng Kông》ngừng hoạt động dưới áp lực của Luật An Ninh Quốc gia. Bốn nhà báo lớn giờ đây thu hẹp thành ba nhà báo lớn, thị trường tin tức giải trí được phân phối lại, và văn hóa báo chí sống động dần suy giảm. Sự kiện này cũng phơi bày sự dễ vỡ của ngành báo truyền thống trong thời đại số, cùng với rủi ro tiềm tàng từ sự tập trung sở hữu truyền thông.
 
-## Đặc điểm của môi trường truyền thông hiện nay
+## Đặc điểm môi trường truyền thông hiện tại
 
-### Tình hình tự do báo chí
+### Biểu hiện của tự do báo chí
 
-Trong Chỉ số Tự do Báo chí Thế giới năm 2024 của Tổ chức Phóng viên Không Biên giới, Đài Loan xếp thứ 27; Freedom House đánh giá Đài Loan ở mức “Tự do”, với thành tích tương đối nổi bật tại châu Á. So với thời kỳ thiết quân luật, tình trạng chính phủ trực tiếp can thiệp vào nội dung tin tức đã giảm đáng kể; không gian để truyền thông phê phán chính sách của chính phủ và thực hiện phóng sự điều tra cũng được mở rộng rõ rệt. Tuy vậy, áp lực chính trị, hoạt động tẩy chay quảng cáo, tình trạng tập trung quyền sở hữu truyền thông và những mối đe dọa thỉnh thoảng xảy ra đối với an toàn thân thể của nhà báo vẫn là các nguy cơ không thể xem nhẹ.
+Theo chỉ số tự do báo chí thế giới của Tổ chức Báo chí Không Biên Giới, Đài Loan xếp hạng thứ 27 vào năm 2024, thứ 24 vào năm 2025, thứ 28 vào năm 2026; Tổ chức Tự Do Báo chí xếp hạng là "Tự Do". Trường hợp can thiệp trực tiếp của chính phủ vào nội dung tin tức đã giảm đáng kể so với thời kỳ kiêng cấm, và không gian cho phê bình chính sách của chính phủ cũng rộng mở ra. Tuy nhiên, áp lực chính trị và cản trở quảng cáo, sự tập trung sở hữu truyền thông, cũng như những mối đe dọa thỉnh thoảng đến an toàn cho nhà báo, vẫn là những rủi ro không thể bỏ qua.
 
-### Cơ cấu sở hữu truyền thông
+### Cấu trúc sở hữu truyền thông
 
-Các cơ quan truyền thông chính thống tại Đài Loan chủ yếu được vận hành theo mô hình tập đoàn hóa. Tập đoàn Truyền thông Want Want China Times của Thái Diễn Minh, hệ thống 《Liên hợp báo》 do gia tộc Vương Dịch Ngô sáng lập và 《Thời báo Tự do》 của gia tộc Lâm Vinh Tam lần lượt đại diện cho các khối truyền thông có lập trường chính trị khác nhau. 《Thời báo Tự do》, Dân Thị và Tam Lập nghiêng về phe xanh; 《Thời báo Trung Quốc》, 《Liên hợp báo》 và Trung Thiên nghiêng về phe xanh dương. Việc các chính trị gia đầu tư vào truyền thông cũng không phải là hiếm. Trong lĩnh vực truyền thông công cộng, Quỹ Truyền hình Công cộng, Đài Truyền hình Trung Hoa được chuyển đổi thành đơn vị truyền thông công cộng năm 2007, Đài Truyền hình Khách Gia và Đài Truyền hình Người bản địa cung cấp những tiếng nói khác bên ngoài hệ thống truyền thông thương mại.
+Truyền thông chính của Đài Loan chủ yếu được vận hành bở các tập đoàn tài chính. Tập Đoàn Truyền Thông Wanfang–Zhongshi (Trần Diễn Minh), Tập Đoàn Báo Liên Hiệp (gia đình Vương Tứ Ngư), và Thời Báo Tự Do (gia đình Lãn Vĩ Tư) đại diện cho các khối truyền thông với quan điểm chính trị khác nhau: Thời Báo Tự Do, Dân Bắc, Tam Sư hướng về phía xanh; Trung Quốc Thời Báo, Liên Hiệp Báo, Trung Thiên hướng về phía đỏ, và việc các nhân vật chính trị đầu tư vào truyền thông cũng không hiếm. Đặc biệt, Đài Trung Thiên bị 7 ủ viên của NCC quyết định đồng thuận từ chối gia hạn giấy phép vào tháng 11 năm 2020, rời khỏi truyền hình cáp vào ngày 12 tháng 12, chuyển sang hoạt động trên mạng, và năm 2023, Tòa Án Hành Chính Cao Cấp Thành Phố Đông Bắc đã hủy bỏ quyết định này, gửi lại cho NCC để xem xét lại.[^7] Về phía truyền thông công cộng, Quỹ Phát Thanh Truyền Hình Công Cộng, Hoa Bắc gia nhập Tập Đoàn Phát Thanh Truyền Hình Công Cộng vào năm 2006, cùng với Đài Phát Thanh Dân Tộc và Đài Phát Thanh Bản Đảo, cung cấp tiếng nói khác ngoài truyền thông thương mại.
 
-### Khó khăn về doanh thu truyền thông
+### Khủng hoải doanh thu truyền thông
 
-Doanh thu quảng cáo của truyền thông truyền thống đã giảm hơn 60%. Thị trường quảng cáo số bị Google và Facebook chiếm phần lớn, trong khi quảng cáo rao vặt cũng bị các nền tảng trực tuyến thay thế. Trước khó khăn mang tính cơ cấu này, các cơ quan truyền thông đã triển khai nhiều chiến lược như mô hình thuê bao, tổ chức sự kiện để tăng doanh thu, tìm kiếm trợ cấp từ các gói thầu của chính phủ và hợp tác cấp phép nội dung. Tuy nhiên, áp lực kinh doanh đối với toàn ngành truyền thông vẫn hết sức nặng nề.
+Doanh thu quảng cáo của truyền thông truyền thống giảm mạnh, thị phần quảng cáo số bị Google và Facebook chiếm lĩnh lớn, và quảng cáo phân loại cũng bị nền tảng mạng thay thế. Đối mặt với khủng hoải cấu trúc này, các nhà báo áp dụng mô hình đăng ký, tổ chức sự kiện để tăng doanh thu, tranh giành hỗ trợ ngân sách nhà nước, và hợp tác cấp phép nội dung, nhưng áp lực kinh doanh chung của truyền thông vẫn rất nặng nề.
 
-## Hệ thống pháp luật và chính sách
+## Luật pháp và chính sách
 
-### Pháp luật liên quan đến truyền thông
+### Luật pháp liên quan đến truyền thông
 
-Khung pháp lý điều tiết truyền thông Đài Loan từng bước được xây dựng từ các đạo luật như Luật Phát thanh và Truyền hình năm 1976, Luật Phát thanh và Truyền hình cáp năm 1993 và Luật Phát thanh và Truyền hình vệ tinh năm 1999. Ủy ban Truyền thông Quốc gia (NCC), được thành lập năm 2006,[^4] phụ trách phân bổ phổ tần, cấp giấy phép và quản lý nội dung. Cơ quan này được thiết kế theo mô hình độc lập nhằm tránh sự can thiệp chính trị. Năm 2022, NCC công bố dự thảo 《Luật Dịch vụ Trung gian Số》, yêu cầu các nhà vận hành nền tảng gỡ bỏ thông tin sai sự thật. Tuy nhiên, dự thảo bị tạm gác ngay trong năm đó do tranh cãi xã hội và đến nay vẫn chưa hoàn tất quá trình lập pháp.
+Khung pháp lý điều chỉnh truyền thông của Đài Loan được xây dựng dần thông qua các quy định như Luật Phát Thanh Truyền Hình (1976), Luật Truyền Hình Cáp (1993), Luật Truyền Hình Vệ Tinh (1999). Năm 2006, Ủy Ban Truyền Thông Quốc Gia (NCC)[^4] được thành lập, chịu trách nhiệm phân bổ băng tần, cấp phép và quản lý nội dung, được thiết kế như một cơ quan độc lập để tránh sự can thiệp của chính trị. Năm 2022, NCC đưa ra bản nháp Luật Dịch Vụ Truyền Thông Số, thiết kế để tòa án quyết định cấp "lệnh hạn chế thông tin" cho nội dung vi phạm, và nền tảng phải tuân thủ xử lý, nhưng câu hỏi về người nào xác định nội dung vi phạm và không chính xác đã gây tranh cãi trong xã hội, và cùng năm dự án bị trì hoãn, cho đến nay vẫn chưa hoàn thành quy trình lập pháp.
 
-### Bảo đảm tự do báo chí
+### Bảo vệ tự do báo chí
 
-Điều 11 Hiến pháp Trung Hoa Dân Quốc (Đài Loan) bảo đảm quyền tự do ngôn luận; Giải thích Hiến pháp số 613 của Đại Pháp quan tiếp tục xác lập địa vị hiến định của tự do báo chí. Các ủy ban tự quản báo chí do từng cơ quan truyền thông thành lập, Hiệp hội Thương mại Phát thanh và Truyền hình vệ tinh cùng Hội đồng Bình nghị Báo chí hợp thành cơ chế tự quản. Tuy nhiên, mức độ thực thi khác biệt rõ rệt giữa các tổ chức.
+Điều 11 của Hiến Pháp Cộng Hòa Trung Hoa Dân Quốc bảo vệ tự do ngôn luận, và pháp lệnh Tòa Án Hiến Pháp số 689 (2011) nêu rõ rằng hành vi điều tra báo chí "nên được bảo vệ trong phạm vi tự do báo chí."[^8] Các nhà báo thành lập hội đồng tự quy chuẩn, và các hiệp hội thương mại phát thanh truyền hình cùng với hội đồng báo chí tạo thành cơ chế tự quy chuẩn, nhưng mức độ thực thi khác nhau tùy theo tổ chức.
 
-### Ứng phó với thông tin sai lệch
+### Phản ứng trước tin giả
 
-Các biện pháp ứng phó với thông tin sai lệch hiện nay tại Đài Loan chủ yếu gồm thúc đẩy kiểm chứng sự thật, khuyến khích các nhà vận hành nền tảng tự quản lý và thiết lập cơ chế để công dân báo cáo vi phạm. Sau khi dự thảo 《Luật Dịch vụ Trung gian Số》 bị tạm hoãn vì lo ngại liên quan đến tự do ngôn luận, chính phủ đến nay vẫn chưa tìm được phương án pháp lý thay thế rõ ràng.
+Hiện pháp lệ về tin giả của Đài Loan dựa trên việc thúc đẩy kiểm chứng thực tế, quản lý tự nguyện của các nhà cung cấp dịch vụ và cơ chế báo cáo của công dân. Sau khi dự án Luật Dịch Vụ Truyền Thông Số bị trì hoãn do lo ngại về tự do ngôn luận, chính phủ hiện vẫn chưa tìm ra giải pháp pháp lý thay thế rõ ràng.
 
 ## Thách thức và cơ hội trong tương lai
 
-### Thách thức mang tính cơ cấu
+### Thách thức cấu trúc
 
-Truyền thông truyền thống Đài Loan đang đối mặt với ba cuộc khủng hoảng cơ cấu đồng thời. Google và Facebook chiếm phần lớn doanh thu quảng cáo, thói quen trả phí của độc giả chưa hình thành, trong khi chi phí sản xuất tiếp tục tăng. Các nhà báo kỳ cựu chuyển sang làm quan hệ công chúng cho doanh nghiệp, còn mức lương tương đối thấp của nhà báo trẻ dẫn đến tình trạng thất thoát nhân lực. Năng lực công nghệ và nguồn vốn cần thiết cho chuyển đổi số cũng khiến phần lớn cơ quan truyền thông vừa và nhỏ khó theo kịp.
+Truyền thông truyền thống của Đài Loan phải đối mặt với ba khủng hoải cấu trúc. Doanh thu quảng cáo bị Google và Facebook chiếm lĩnh lớn, thói quen trả phí của độc giả chưa được hình thành, trong khi chi phí sản xuất tiếp tục tăng; các nhà báo lão nghề chuyển sang làm PR cho doanh nghiệp, và mức lương thấp của các nhà báo trẻ dẫn đến mất nhân lực; khả năng kỹ thuật và nguồn tài chính cần thiết cho chuyển đổi số cũng khiến nhiều công ty nhỏ và vừa khó theo kịp.
 
-### Những cơ hội mới nổi
+### Cơ hội mới
 
-Ở chiều ngược lại, hệ sinh thái truyền thông Đài Loan cũng xuất hiện những khả năng mới. 《The Reporter》 được các giải thưởng quốc tế ghi nhận nhờ mô hình phi lợi nhuận, chứng minh báo chí chuyên sâu có thị trường tại Đài Loan. Sự nổi lên của nền tảng báo chí công dân PeoPo và các chương trình tin tức podcast đã mở ra những kênh thảo luận công cộng nằm ngoài truyền thông chính thống. Một số cơ quan truyền thông cũng bắt đầu thử nghiệm ứng dụng trí tuệ nhân tạo để hỗ trợ viết tin và trực quan hóa báo chí dữ liệu.
+Mặt khác, sinh thái truyền thông Đài Loan cũng xuất hiện những khả năng mới. 《Báo Cáo》được công nhận bởi giải thưởng quốc tế nhờ mô hình phi lợi nhuận, chứng minh rằng báo cáo sâu sắc có thị trường tại Đài Loan. Nền tảng tin tức công dân PeoPo và các chương trình tin tức Podcast cũng mở ra kênh khác ngoài truyền thông chính thống cho thảo luận công chúng. Công nghệ AI hỗ trợ viết báo và trực quan hóa dữ liệu tin tức cũng đang được một số nhà báo thử nghiệm.
 
-### Định hướng khuyến nghị chính sách
+### Đề xuất chính sách
 
-Những định hướng chính sách thường được giới truyền thông và học thuật đề xuất gồm ưu đãi thuế cho ngành báo chí, tăng ngân sách truyền thông công cộng, củng cố cơ chế kiểm chứng sự thật và hỗ trợ chuyển đổi số trong truyền thông. Tuy nhiên, cách phân bổ nguồn lực chính sách và nguy cơ ảnh hưởng đến tính độc lập của truyền thông vẫn là những điểm tranh luận cốt lõi.
+Các đề xuất chính sách từ ngành và học giả bao gồm: ưu đãi thuế cho ngành báo, tăng ngân sách cho truyền thông công cộng, củng cố cơ chế kiểm chứng thực tế, và hỗ trợ chuyển đổi số hóa truyền thông. Tuy nhiên, cách phân bổ nguồn lực chính sách và liệu có ảnh hưởng đến độc lập của truyền thông, vẫn là tranh cãi trong cuộc thảo luận.
 
-Truyền thông Đài Loan đã đi từ sự kiểm soát chuyên chế đến cạnh tranh tự do, rồi tiếp tục đối mặt với những thách thức của thời đại số. Tiến trình này phản ánh tính phức tạp của việc củng cố dân chủ. Làm thế nào vừa bảo vệ tự do báo chí, vừa bảo đảm chất lượng thông tin và khả năng phát triển bền vững của truyền thông vẫn là vấn đề quan trọng mà xã hội Đài Loan phải tiếp tục giải quyết.
+Từ sự kiểm soát độc tài đến sự cạnh tranh tự do, và hiện đối mặt với thách thức của thời đại số, hành trình của truyền thông Đài Loan phản ánh sự phức tạp của sự sâu hóa dân chủ. Làm thế nào để duy trì tự do báo chí đồng thời đảm bảo chất lượng thông tin và bền vững kinh doanh của truyền thông là vấn đề quan trọng mà xã hội Đài Loan cần tiếp tục giải quyết.
 
-[^1]: Tổ chức Phóng viên Không Biên giới (RSF), “Chỉ số Tự do Báo chí Thế giới năm 2024 — Đài Loan”, https://rsf.org/en/country/taiwan
+[^1]: Tổ chức Báo chí Không Biên Giới (RSF), trang quốc gia 〈Đài Loan〉（liệt kê thứ hạng thứ 24 năm 2025, thứ 28 năm 2026）, https://rsf.org/en/country/taiwan
 
-[^2]: Bộ Văn hóa, “Dỡ bỏ lệnh cấm báo chí và đa dạng hóa truyền thông”, https://nccwp.moc.gov.tw/home/zh-tw/white_paper
+[^2]: Wikipedia, mục 〈Giải phóng cấm báo〉, https://zh.wikipedia.org/zh-tw/%E5%A0%B1%E7%A6%81
 
-[^3]: Trung tâm Kiểm chứng Sự thật Đài Loan, https://tfc-taiwan.org.tw/
+[^3]: Trung Tâm Kiểm Chứng Tin Tức Đài Loan, https://tfc-taiwan.org.tw/
 
-[^4]: Ủy ban Truyền thông Quốc gia (NCC), https://www.ncc.gov.tw/
+[^4]: Ủy Ban Truyền Thông Quốc Gia (NCC), https://www.ncc.gov.tw/
 
-[^5]: The Reporter, https://www.twreporter.org/
+[^5]: Báo Cáo, https://www.twreporter.org/
+
+[^6]: Trung Ương Tư Vấn, 〈Đài Loan Báo Apple không thể chịu đựng lỗ lãnh, bắt đầu ngừng phát hành bản giấy, tập trung vào phiên bản số〉, 2021-05-14, https://www.cna.com.tw/news/firstnews/202105145016.aspx
+
+[^7]: Wikipedia, mục 〈Đài Trung Thiên〉, https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E%E5%8F%B0
+
+[^8]: Tòa Án Hiến Pháp, 〈Pháp lệ số 689〉, 2011-07-29, https://cons.judicial.gov.tw/docdata.aspx?fid=100&id=310870
 
 ## Tài liệu tham khảo
 
-- [Ủy ban Truyền thông Quốc gia](https://www.ncc.gov.tw/), 《[Báo cáo phát triển ngành truyền thông Đài Loan](https://commsurvey.ncc.gov.tw/)》, 2025
-- [Tổ chức Phóng viên Không Biên giới](https://rsf.org/en/country/taiwan), 《Chỉ số Tự do Báo chí Thế giới năm 2024》, 2024
-- Hội đồng Tự quản Truyền thông Báo chí Trung Hoa Dân Quốc (Đài Loan), 《Báo cáo tự quản truyền thông》, 2024
-- [Trung tâm Kiểm chứng Sự thật Đài Loan](https://tfc-taiwan.org.tw/), 《Báo cáo phân tích tình hình thông tin sai lệch》, 2025
-- [Khoa Báo chí, Đại học Chính trị Quốc lập](https://jschool.nccu.edu.tw/), 《Khảo sát môi trường truyền thông Đài Loan》, 2024
-- [Bộ Văn hóa](https://nccwp.moc.gov.tw/home/zh-tw/white_paper), 《Sách trắng chính sách ngành truyền thông》, 2023
+- [Ủy Ban Truyền Thông Quốc Gia](https://www.ncc.gov.tw/)，《[Báo cáo phát triển ngành công nghiệp truyền thông Đài Loan](https://commsurvey.ncc.gov.tw/)》，2025
+- [Tổ chức Báo chí Không Biên Giới](https://rsf.org/en/country/taiwan)，《Chỉ số tự do báo chí thế giới 2024》，2024
+- Hội Đồng Tự Quy Chuẩn Truyền Thông Cộng Hòa Trung Hoa Dân Quốc, 《Báo cáo tự quy chuẩn truyền thông》，2024
+- [Trung Tâm Kiểm Chứng Tin Tức Đài Loan](https://tfc-taiwan.org.tw/)，《Báo cáo phân tích tình hình tin giả》，2025
+- [Khoa Tin Học Trường Đại Học Chính Trị Đài Loan](https://jschool.nccu.edu.tw/)，《Khảo sát môi trường truyền thông Đài Loan》，2024
+- [Bộ Văn Hóa](https://nccwp.moc.gov.tw/home/zh-tw/white_paper)，《Sách trắng chính sách ngành công nghiệp truyền thông》，2023
