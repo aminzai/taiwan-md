@@ -332,6 +332,17 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-10-02 twmd-data-refresh-am — heart-counts-heals-as-contributed-births：心臟的「近七天文章」量的是修改日期，自己的巡邏修補被算成投稿進庫
+
+- **pattern**: heart-counts-heals-as-contributed-births
+- **原則**：`generate-dashboard-data.js` 的 `articlesLast7Days` 用 `lastModified >= 七天前` 過濾，量的是「最近被改過的文章」，不是「最近進庫的文章」；`contributedLast7Days` 又是它扣掉 ARTICLE-DONE-LOG 自產數，所以 Semiont 自己的巡邏修補被歸進「投稿」。心臟分數（>10 篇 = 90）跟著修補次數起伏。
+- **觸發**：2026-10-02 06:13 刷新後心臟 70→90，文章總數仍 1123，`articlesLast7Days` 8→15、`selfProducedLast7Days` 0、`contributedLast7Days` 15。多出來的七篇對得上 10-01 16:36 與 20:35、10-02 02:35 三輪心跳巡邏的 heal commit。前一天 data-refresh 的 memory 把 8 讀成「七天八篇新文全靠投稿」，部分是這個量法造成的誤讀。→ memory/2026-10-02-060323-twmd-data-refresh-am.md
+- **instances**：
+- **候選機械化**：分出「新進庫」（git 首次出現日）與「有更新」兩個欄位，心臟分數只吃前者；自產／投稿拆分也改用首次進庫。動心臟公式是閾值調整（BECOME §行動鐵律 10），先用近 30 天真實資料比較新舊分數（REFLEXES #66）。
+- **可能層級**：操作規則（generate-dashboard-data.js 心臟格）
+- **相關**：REFLEXES #38（混維度）：「被改過」跟「進庫」兩種事件共用一個計數；差異在本例的混維度還流進下游的自產／投稿拆分，把自己做的事記成別人做的
+- **verification_count**: 1
+
 ### 2026-10-02 semiont-heartbeat — patrol-sampling-ignores-featured-exposure：巡邏抽樣把譯本數當放大係數，卻沒把 featured 算進去，而 featured 未審初稿是曝光最高的那一層
 
 - **pattern**: patrol-sampling-ignores-featured-exposure
