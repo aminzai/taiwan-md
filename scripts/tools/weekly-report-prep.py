@@ -26,6 +26,13 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parents[2]
+
+# 語言清單吃 languages.mjs（經 lang-sync/langs.py 單一橋），不在這裡寫死。
+# 2026-10-01 前寫死五語：de/vi/id/pt/hi/ar/ru 的路徑被記成 zh-TW、分類欄變成語言碼。
+sys.path.insert(0, str(REPO_ROOT / "scripts" / "tools" / "lang-sync"))
+from langs import ALL_TRANSLATION_LANGS  # noqa: E402
+
+TRANSLATION_LANGS = set(ALL_TRANSLATION_LANGS)
 TZ_TPE = timezone(timedelta(hours=8))
 SITE = "https://taiwan.md"
 
@@ -278,7 +285,7 @@ def gather_articles_changed(since: str) -> dict:
         if len(parts) < 3:
             continue
         # knowledge/{lang-or-category}/...
-        lang = parts[1] if parts[1] in {"en", "ja", "ko", "es", "fr"} else "zh-TW"
+        lang = parts[1] if parts[1] in TRANSLATION_LANGS else "zh-TW"
         category = (
             parts[2] if lang != "zh-TW" else parts[1]
         )
@@ -698,7 +705,7 @@ def render(
     if lc:
         A("各語言文章數：")
         A("")
-        for lang in ["zh-TW", "en", "ja", "ko", "fr", "es"]:
+        for lang in ["zh-TW", *ALL_TRANSLATION_LANGS]:
             if lang in lc:
                 A(f"- {lang}：{lc[lang]}")
         A("")

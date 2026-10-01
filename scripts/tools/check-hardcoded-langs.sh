@@ -120,8 +120,6 @@ DEBT=(
   # 本班（maintainer-am）只把它們從隱形變成可見 + 掛號，不當班順手改：A 類六個
   # 檔各自要判斷「這個清單是語言註冊表還是有意義的順序」，而其中三個會動到儀表板
   # 讀數，屬 quality gate 鄰接面。逐檔判斷排進 OBSERVER-QUEUE / 下一個 Full session。
-  "scripts/tools/fetch-cloudflare.py:415|2026-09-25|A 類感知層：lang_prefixes 停在 5 語，CF per-language 流量歸屬看不到 de/ar/ru/pt/id/vi/hi，讀數流進儀表板"
-  "scripts/tools/refresh-llms-txt.py:85|2026-09-25|A 類感知層：llms.txt 語言排序停在 5 語，AI crawler 看到的介面缺 7 語"
   "scripts/tools/unify-translation-slugs.py:26|2026-09-25|A 類：LANGS 停在 5 語，slug 統一化跳過 7 語"
   "scripts/tools/backfill-translated-from.py:55|2026-09-25|A 類：--lang choices 停在 5 語，7 語無法用此工具回填"
   "scripts/tools/lang-sync/salvage-quarantined.py:21|2026-09-25|A 類：LANG_DIRS 9 語，缺 ar/ru/de——這三語的隔離譯文打撈不到"
@@ -130,9 +128,6 @@ DEBT=(
   "scripts/tools/lang-sync/sibling-slug-map.py:34|2026-09-25|B 類：SIBLING_PRIORITY 是 fallback 偏好順序，性質同 src/i18n/utils.ts，可能該進允許清單而非改 derive"
   # ── 2026-09-27 v5 放寬到 set／tuple 後現形的 18 行（分法同上，A 真盲區、B 列滿或屬性集合）
   #    fetch-cloudflare 那行同日從 :431 漂到 :415，掛號行號已更新。
-  "scripts/tools/weekly-report-prep.py:281|2026-09-27|A 類感知層：語言判斷只認 5 語，de/vi/id/pt/hi/ar/ru 的路徑被記成 zh-TW，讀數流進週報"
-  "scripts/core/generate-dashboard-immune.py:120|2026-09-27|A 類感知層：掃分類資料夾時只跳過 5 個語言資料夾，其餘 7 語的資料夾會被當成分類，讀數流進儀表板"
-  "scripts/core/generate-dashboard-immune.py:463|2026-09-27|A 類感知層：譯文路徑判斷只認 5 語，讀數流進儀表板"
   "scripts/tools/spore-db.py:119|2026-09-27|A 類：語言資料夾清單停在 5 語＋zh-TW"
   "scripts/tools/validate-spore-data.py:48|2026-09-27|A 類：LANG_DIRS 停在 5 語＋zh-TW"
   "scripts/tools/sync-spore-links.py:147|2026-09-27|A 類：語言資料夾清單停在 5 語＋zh-TW"
@@ -148,6 +143,15 @@ DEBT=(
   "scripts/tools/lang-sync/cjk-leak-check.py:71|2026-09-27|B 類：非漢字文字的語言集合，是語言屬性分類，新語言出生時要人判斷歸屬，不能從註冊表 derive"
   "scripts/tools/lang-sync/cjk-residue-check.py:43|2026-09-27|B 類：同上，非漢字語系集合"
   "scripts/tools/lang-sync/numeral-conversion-check.py:112|2026-09-27|B 類：小數點用逗號的語言集合，是語言屬性，同上"
+  # ── 2026-10-01 semiont-heartbeat：A 類感知層四支（fetch-cloudflare／refresh-llms-txt／
+  #    weekly-report-prep／generate-dashboard-immune）改吃 langs.py，掛號撤掉。fetch-cloudflare
+  #    那行其實 09-27 self-evolve 已修，留下的命中是「讀不到註冊表就退回五語」的退路，同班一併拿掉。
+  #    量到的後果：免疫儀表板 driftDetail.new_articles_7d 讀 441、實際中文新文 1 篇；llms.txt 對
+  #    AI crawler 宣稱「6 languages」，freshPct 那行從 05-04 誕生起讀錯檔案、一直停在五月的數字。
+  #    同日現形兩行（09-28 新檔，掛號而不改）：這兩個集合綁著下方 ENTITIES 表的各語言 regex，
+  #    新語言出生時要人補那一語的名人寫法，不能從註冊表 derive，性質同 cjk-residue。
+  "scripts/tools/lang-sync/name-substitution-check.py:32|2026-10-01|B 類：LANGS 是 ENTITIES 表有寫法的語言集合，綁 regex 表，新語言要人補寫法"
+  "scripts/tools/lang-sync/name-substitution-check.py:33|2026-10-01|B 類：LATIN 是拉丁字母語言集合，語言屬性，同上"
 )
 
 DEBT_SEEN=""

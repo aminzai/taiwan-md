@@ -38,6 +38,12 @@ OUTPUT_DIR = REPO_ROOT / "public" / "api"
 OUTPUT_FILE = OUTPUT_DIR / "dashboard-immune.json"
 ARTICLE_HEALTH = REPO_ROOT / "scripts" / "tools" / "article-health.py"
 EDITORIAL_FILE = REPO_ROOT / "docs" / "editorial" / "EDITORIAL.md"
+
+# 譯文語言碼吃 languages.mjs（經 lang-sync/langs.py 單一橋）。2026-10-01 前這裡寫死五語，
+# driftDetail.new_articles_7d 把 vi/id/pt/hi/ar/ru/de 七語的新譯文全算成中文新文章
+# （當天讀數 441，實際中文新文 1 篇）。
+sys.path.insert(0, str(REPO_ROOT / "scripts" / "tools" / "lang-sync"))
+from langs import ALL_TRANSLATION_LANGS  # noqa: E402
 PLUGINS_DIR = REPO_ROOT / "scripts" / "tools" / "lib" / "article_health" / "checks"
 
 # ── Tier classification ───────────────────────────────────────────────────────
@@ -117,7 +123,7 @@ def load_articles() -> list[dict]:
     """Load zh-TW knowledge articles (excludes /_*.md hub pages + non-zh dirs)."""
     articles = []
     for cat_dir in KNOWLEDGE_DIR.iterdir():
-        if not cat_dir.is_dir() or cat_dir.name in ("en", "ja", "ko", "es", "fr", "resources", "zh-TW"):
+        if not cat_dir.is_dir() or cat_dir.name in (*ALL_TRANSLATION_LANGS, "resources", "zh-TW"):
             continue
         for md in cat_dir.glob("*.md"):
             if md.name.startswith("_"):
@@ -460,7 +466,7 @@ def compute_drift_velocity(articles: list[dict]) -> tuple[float, dict]:
 
     new_zh_articles = sum(
         1 for path in added_files
-        if not any(f"/{lang}/" in path for lang in ("en", "ja", "ko", "es", "fr"))
+        if not any(f"/{lang}/" in path for lang in ALL_TRANSLATION_LANGS)
         and not Path(path).name.startswith("_")
     )
 

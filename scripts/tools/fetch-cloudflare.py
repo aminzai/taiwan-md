@@ -403,16 +403,16 @@ _NON_ARTICLE_PREFIXES = ("/api/", "/_astro/", "/assets/", "/article-images/", "/
 
 
 def _translation_langs():
-    """languages.mjs 的譯文語言碼（經 lang-sync/langs.py 單一橋）；讀不到時退回舊的五語並警告。"""
-    try:
-        sys.path.insert(0, str(Path(__file__).resolve().parent / "lang-sync"))
-        import langs  # noqa: E402
-        codes = list(langs.ALL_TRANSLATION_LANGS)
-        if codes:
-            return codes
-    except Exception as e:  # pragma: no cover — 環境壞掉時的保險
-        print(f"⚠️  langs.py 讀不到語言清單（{e}），per-lang 退回五語", file=sys.stderr)
-    return ["en", "ja", "ko", "es", "fr"]
+    """languages.mjs 的譯文語言碼（經 lang-sync/langs.py 單一橋）。
+
+    讀不到就讓例外往上拋，不退回寫死的清單：退回五語時，另外七語的 AI 讀取會被
+    靜默記進 zh-TW，數字看起來跟正常的一樣（REFLEXES #85）。呼叫端已用 try 包住
+    per-language 這一段，失敗時輸出裡就沒有 perLanguage，讀的人看得出來是沒量到。
+    """
+    sys.path.insert(0, str(Path(__file__).resolve().parent / "lang-sync"))
+    import langs  # noqa: E402
+
+    return list(langs.ALL_TRANSLATION_LANGS)
 
 
 def _article_path(path):
