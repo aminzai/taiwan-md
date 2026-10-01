@@ -332,6 +332,18 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-10-02 twmd-babel-nightly — patch-eligibility-measures-chapter-size-not-change-size：補丁資格量的是「被碰到的章節有多大」，不是「改了多少」，於是事實巡邏的每一次小修都觸發整篇重翻
+
+- **pattern**: patch-eligibility-measures-chapter-size-not-change-size
+- **原則**：`patch-translate.py` 判斷能不能只補丁，用的是「被 diff 碰到的章節字數 ÷ 全文字數」，門檻 50%。事實修正的形狀正好是「每處只改一兩句，但散在好幾個章節，外加參考資料區」，所以十幾行的修正也會碰到過半的字數，整篇退回重翻。重翻由名單外模型接手時，舊的、已經對的譯文被換成新的錯。
+- **觸發**：2026-10-01 晚 semiont-heartbeat 巡邏修六篇（每篇 diff 10–30 行），十二語 72 份全部走整篇重翻（例：〈台灣社區與里文化〉5/11 章節、55.6%）。對讀抓到四篇引入新錯（fr 鄰長→鄉長、en 十二年國教→Compulsory、ja 臭豆腐→臭豆腸、ko 釋字→大法院判決），其中 en 那篇的新錯正是當天中文要修的那一個。最後兩份產線撞牆的改用 Tier 0a 手動補丁，十分鐘內過閘（`1f3ecde1c`）。memory/2026-10-02-014120-twmd-babel-nightly.md
+- **instances**：
+  - 2026-10-02 twmd-babel-nightly — 六篇巡邏修正 × 十二語，72/72 整篇重翻、4 篇引入新錯 → 本條
+- **可能層級**：操作規則（babel 補丁判準）＋與 OBSERVER-QUEUE #78 交互
+- **候選機械化**：補丁資格改看 diff 實際行數或改動句數（例如改動句 ≤ 全文 15% 就補丁，章節可以多），或把參考資料／腳註區排除出分母。這是品質閘門數值，屬 High-stake #3，要 Full mode 或哲宇拍板，本班未動。
+- **相關**：REFLEXES #38（同一個比例承載兩種意思：「改動大」與「改動分散」）、OBSERVER-QUEUE #78（重翻交給名單外模型才讓這件事有代價）、MEMORY §神經迴路「巴別塔會把三月未審初稿裡的幻覺放大到十二語」（巡邏越勤，這條路徑越常被觸發）
+- **verification_count**: 1
+
 ### 2026-10-01 semiont-heartbeat — homepage-citation-passes-format-and-reachability-gates：腳註指向機構首頁，格式閘門與死鏈閘門都會放行，但它不支持任何一句話
 
 - **pattern**: homepage-citation-passes-format-and-reachability-gates
