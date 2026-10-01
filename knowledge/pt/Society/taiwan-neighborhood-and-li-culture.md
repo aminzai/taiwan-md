@@ -1,15 +1,15 @@
 ---
-title: 'Taiwan: Comunidade e Cultura de Vila'
+title: 'Cultura de Comunidade e o Sistema de Li em Taiwan'
 description: 'Da prática democrática mais básica à inovação social na construção comunitária'
 date: 2026-03-18
 category: 'Society'
 tags:
   [
-    'Sistema de vila e vizinhança',
-    'construção comunitária',
-    'universidade comunitária',
-    'participação cívica',
-    'autonomia local',
+    'Sistema de Li/Vizinhança',
+    'Construção Comunitária',
+    'Universidade Comunitária',
+    'Participação Cívica',
+    'Autogoverno Local',
   ]
 subcategory: '社會運動'
 author: 'Taiwan.md'
@@ -17,196 +17,119 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Society/台灣社區與里文化.md'
-sourceCommitSha: '21c4e4caf'
-sourceContentHash: 'sha256:112429b6a4722893'
+sourceCommitSha: '074dffac2'
+sourceContentHash: 'sha256:d3e50c45b46c2a95'
 sourceBodyHash: 'sha256:7ec3aa6a3ad15e3e'
-translatedAt: '2026-10-02T00:52:49+08:00'
+translatedAt: '2026-10-02T05:15:36+08:00'
 ---
 
-# Taiwan: Comunidade e Cultura de Vila
+# Cultura de Comunidade e o Sistema de Li em Taiwan
 
-Sempre que a noite cai, o centro de atividades comunitárias de certa vila em Taipé permanece com as luzes acesas.
-O chefe de vila está a reunir os moradores para discutir a atividade de limpeza do mês seguinte, os chefes de vizinhança reportam a situação de cada setor, enquanto o instrutor da universidade comunitária ministra aulas de tai chi chuan na sala ao lado.
-Esta noite aparentemente comum revela, na verdade, a essência da cultura comunitária de Taiwan — desde a organização administrativa mais básica até à participação autónoma da sociedade civil, desde a prática democrática institucional até à inovação social repleta de criatividade.
+Toda vez que a noite cai, os centros comunitários de um _li_ (bairro administrativo) na cidade de Taipé ainda estão acesos. O chefe do _li_ está reunindo moradores para discutir as atividades de limpeza do próximo mês; os chefes dos vizinhos relatam o status de cada área; e os professores da universidade comunitária lecionam Tai Chi no salão ao lado. Esta noite, aparentemente comum, reflete a essência da cultura comunitária de Taiwan — desde a organização administrativa mais básica até a participação autônoma da sociedade civil, da prática democrática institucionalizada à inovação social criativa.
 
-Nesta pequena unidade administrativa chamada "vila" (里), residem centenas a milhares de moradores, que em conjunto constituem a menor célula da sociedade democrática de Taiwan.
-Como estas células operam, como se auto-organizam, como respondem aos desafios — isso não só afeta a qualidade de vida quotidiana dos moradores, como também molda profundamente a cultura democrática e a resiliência social de Taiwan.
+Nesta pequena unidade administrativa chamada _li_, vivem centenas a milhares de residentes que formam o menor cérebro da sociedade democrática de Taiwan. A forma como essas células funcionam, se auto-organizam e respondem aos desafios não apenas influencia a qualidade de vida dos moradores, mas também molda profundamente a cultura democrática e a resiliência social de Taiwan.
 
-## Sistema de Vila e Vizinhança: a Linha da Frente da Democracia
+## Sistema de Li/Vizinhança: A Frente da Democracia
 
-O sistema de vilas de Taiwan pode ser considerado uma das práticas democráticas mais próximas do povo no mundo.
-Segundo a Lei do Sistema Local, a vila é a unidade administrativa mais básica; cada vila elege um chefe de vila diretamente pelos moradores, com mandato de quatro anos, permitindo reeleição sem limite de vezes. [^1]
-Este desenho institucional garante a amplitude e a acessibilidade da participação democrática.
+O sistema de aldeias e bairros (_li_) em Taiwan pode ser considerado uma das práticas democráticas mais próximas do povo no mundo. De acordo com a Lei do Sistema Local, o _li_ é a unidade administrativa mais básica; cada _li_ tem um chefe de _li_, eleito diretamente pelos residentes, com mandato de quatro anos e reeleição ilimitada[^1]. Este design assegura a amplitude e acessibilidade da participação democrática.
 
-O papel do chefe de vila é extremamente diversificado: são a ponte entre o governo e o povo, e também os coordenadores dos assuntos comunitários.
-Conforme a lei, o chefe de vila "sob as ordens e supervisão do chefe de distrito (município, cidade, distrito), trata dos assuntos públicos da vila e dos assuntos delegados", mas na prática real, o chefe de vila costuma desempenhar papéis bem mais complexos.
-Precisa lidar com assuntos que vão desde o planeamento de construções comunitárias até à mediação de disputas de vizinhança.
-Desde auxiliar moradores a obter vários documentos comprovativos, até organizar atividades comunitárias, desde promover a limpeza ambiental até refletir problemas de segurança, o trabalho do chefe de vila abrange praticamente todos os aspetos da vida dos moradores.
+O papel do chefe de _li_ é extremamente multifacetado: eles são pontes entre o governo e os cidadãos, e também coordenadores dos assuntos comunitários. De acordo com as regulamentações legais, o chefe de _li_ "recebe direção e supervisão do chefe da área (distrito, cidade ou município) para realizar os serviços públicos e tarefas delegadas do _li_", mas na prática, eles desempenham papéis muito mais complexos. Eles precisam lidar com uma variedade de assuntos, desde o planejamento de construção comunitária até a mediação de disputas entre vizinhos. Desde ajudar os cidadãos a solicitar vários documentos até organizar eventos comunitários, promover a limpeza ambiental e relatar problemas de segurança, as tarefas do chefe de _li_ abrangem praticamente todos os aspectos da vida dos residentes.
 
-Abaixo da vila, existe uma organização ainda mais detalhada: a "vizinhança" (鄰).
-O chefe de vizinhança é um cargo não remunerado. Tomando Taipé como exemplo, o chefe de vizinhança é selecionado pelo chefe de vila entre os moradores adultos daquela vizinhança e nomeado pelo chefe de distrito; não há salário, mas recebe uma ajuda de custo mensal de NT$2.500, além de subsídio de seguro de acidentes e para atividades de autoaperfeiçoamento. [^2]
-A quantia não é alta, mas o chefe de vizinhança desempenha papel indispensável no funcionamento da comunidade.
-São o contacto mais próximo dos moradores, responsáveis por transmitir informações políticas, recolher opiniões, auxiliar em vários assuntos administrativos.
-Quando chega um tufão, o chefe de vizinhança visita casa a casa para verificar a segurança dos idosos que vivem sozinhos;
-durante a pandemia, ajudaram a distribuir materiais de prevenção;
-no quotidiano, são a ponte importante entre moradores e chefe de vila.
+Abaixo do nível do _li_, existe a organização mais detalhada do "vizinho" (_lin_). O chefe do vizinho é um cargo não remunerado. Tomando Taipé como exemplo, o chefe do vizinho é selecionado pelos moradores adultos daquela área e nomeado pelo chefe do distrito; ele não recebe salário, mas recebe uma ajuda de custo mensal de NT$2.500, além de seguro contra acidentes e subsídios para atividades de autossuficiência[^2]. O dinheiro não é muito, mas o chefe do vizinho desempenha um papel indispensável na operação da comunidade. Eles são os contatos mais próximos dos residentes, responsáveis por transmitir informações políticas, coletar feedback público e ajudar em vários serviços administrativos. Quando um tufão chega, o chefe do vizinho visita casa por casa para verificar a segurança de idosos solitários; durante uma pandemia, eles ajudam a distribuir suprimentos de prevenção; no dia a dia, são uma ponte importante entre os residentes e o chefe do _li_.
 
-O funcionamento deste sistema demonstra uma característica importante da democracia de Taiwan: a prática profunda da democracia participativa.
-As interações frequentes entre chefes de vila, chefes de vizinhança e moradores cultivam também o hábito e a capacidade de participação cívica.
+O funcionamento deste sistema demonstra uma característica importante da democracia em Taiwan: a prática profunda da democracia participativa. A interação frequente entre chefes de _li_, chefes de vizinho e residentes também cultiva o hábito e a capacidade da participação cívica.
 
 ## Construção Comunitária: Movimento de Transformação Social de Baixo para Cima
 
-Na década de 1990, um conceito chamado "construção comunitária integral" começou a germinar em Taiwan; ele não só mudou a face das comunidades, como influenciou profundamente o modelo de desenvolvimento social de Taiwan.
-A ideia central deste movimento é "de baixo para cima", enfatizando a participação autónoma dos moradores comunitários, através da edificação cultural e artística, da transformação ambiental, da revitalização industrial, para alcançar o desenvolvimento integral da comunidade.
+Na década de 1990, um conceito chamado "Construção Integrada Comunitária" começou a brotar em Taiwan, mudando não apenas o rosto das comunidades, mas também influenciando profundamente o modelo de desenvolvimento social de Taiwan. O cerne desta campanha é "de baixo para cima", enfatizando a participação autônoma dos residentes da comunidade para alcançar o desenvolvimento integral através da influência cultural e artística, da reforma ambiental e do fomento industrial.
 
-O surgimento do movimento de construção comunitária está intimamente ligado ao processo de democratização de Taiwan.
-Após o fim do regime autoritário, as pessoas passaram a ter mais espaço e oportunidades para expressar opiniões e participar em assuntos públicos.
-A construção comunitária forneceu uma plataforma concreta, permitindo que as pessoas partissem do seu próprio ambiente de vida para praticar o ideal da participação democrática.
+O surgimento do movimento de construção comunitária está intimamente ligado ao processo de democratização de Taiwan. Após o fim do regime autoritário, as pessoas começaram a ter mais espaço e oportunidades para expressar opiniões e participar dos assuntos públicos. A construção comunitária forneceu uma plataforma concreta para que as pessoas pudessem praticar o ideal da participação democrática a partir do ambiente em que viviam.
 
-O Ministério da Cultura (antigo Conselho de Assuntos Culturais) começou a promover a política de construção comunitária em 1994, incentivando os moradores a proporem autonomamente projetos de transformação do ambiente de vida através de planos de subsídio.
-Estes planos abrangem cultura e arte, paisagem ambiental, desenvolvimento industrial, assistência social e outros aspetos.
-Por exemplo, a comunidade de Ban-tou no distrito de Xingang, condado de Chiayi, através da promoção da arte de recortes e colagens _jiao-zhi-jian_ (交趾剪黏), não só preservou o artesanato tradicional, como também impulsionou o desenvolvimento do turismo;
-a comunidade de Neicheng no distrito de Yuanshan, condado de Yilan, combinando agricultura orgânica e amiga do ambiente com conservação ecológica, atraiu alguns jovens para ali se dedicarem à agricultura.
+O Ministério da Cultura (originalmente _Jianhui_) começou a promover a política de construção comunitária em 1994, incentivando os residentes a propor e reformar seu ambiente de vida através de projetos subsidiados. Esses projetos cobrem diversos aspectos, como cultura e arte, paisagem ambiental, desenvolvimento industrial e cuidado social. Por exemplo, na comunidade Banto, no condado de Chiayi, a promoção da arte em cerâmica (_Jiaozi Jiannian_) não apenas preservou artesanato tradicional, mas também impulsionou o desenvolvimento da indústria do turismo; na comunidade Neicheng, no condado de Yilan, a combinação de agricultura orgânica e amigável com conservação ecológica atraiu jovens para trabalhar lá.
 
-O espírito da construção comunitária reside em "a própria comunidade salva-se a si mesma".
-Incentiva os moradores a não esperarem pela intervenção do governo ou de forças externas, mas a descobrir ativamente problemas, buscar recursos, propor soluções.
-Neste processo, os moradores aprendem capacidades de organização, coordenação, integração de recursos, execução de planos, cultivando também o sentido de identidade e responsabilidade para com a comunidade.
+O espírito da construção comunitária é "salvar sua própria comunidade". Ele incentiva os residentes a não esperar pela intervenção do governo ou de forças externas, mas sim a identificar problemas proativamente, procurar recursos e propor soluções. Nesse processo, os residentes aprendem habilidades como organização, coordenação, integração de recursos e execução de projetos, cultivando também um senso de identidade e responsabilidade comunitária.
 
-## Universidade Comunitária: Experimento da Sociedade Aprendente
+## Universidade Comunitária: O Experimento da Sociedade Aprendiz
 
-Em 1998, a primeira universidade comunitária de Taiwan foi criada no distrito de Wenshan, em Taipé, abrindo uma nova página na educação de adultos.
-O ideal de fundação da universidade comunitária nasceu da reflexão sobre o sistema educativo tradicional: por que a educação deve terminar numa idade específica?
-Por que a aprendizagem deve limitar-se a locais específicos?
-Por que o conhecimento não pode estar mais próximo da vida?
+Em 1998, a primeira universidade comunitária em Taiwan foi estabelecida no distrito de Wenshan, na cidade de Taipé, inaugurando uma nova página na educação de adultos. A ideia por trás da criação das universidades comunitárias deriva da reflexão sobre o sistema educacional tradicional: Por que a educação deve terminar em determinada idade? Por que o aprendizado está limitado a um local específico? Por que o conhecimento não pode ser mais próximo da vida?
 
-O desenho curricular da universidade comunitária tem três vertentes: cursos académicos fornecem educação básica em humanidades e ciências sociais, cursos de artes de vida satisfazem interesses dos moradores, e cursos de atividades de associações incentivam a participação cívica.
-Este desenho curricular diversificado reflete a compreensão ampla da universidade comunitária sobre "aprendizagem" — aprender não é apenas absorver conhecimento, mas também cultivar capacidades, alargar horizontes, construir redes interpessoais.
+O design curricular das universidades comunitárias possui três aspectos: os cursos acadêmicos fornecem uma educação básica em ciências humanas e sociais; os cursos de arte e vida satisfazem as necessidades de interesse dos residentes; e os cursos de atividades de grupo incentivam a participação cívica. Este design diversificado reflete a ampla compreensão da universidade comunitária sobre "aprender" — aprender não é apenas absorver conhecimento, mas também desenvolver habilidades, expandir horizontes e construir redes interpessoais.
 
-Tomando a Universidade Comunitária de Beitou como exemplo, eles não só oferecem vários cursos, como promovem o conceito de "Estudos de Beitou", incentivando os alunos a pesquisar a história, cultura, ambiente ecológico e problemas sociais locais.
-Através de investigação de terreno, história oral, elaboração de mapas comunitários, os alunos tornam-se investigadores e registadores da comunidade.
-Esta promoção dos "estudos locais" não só aprofunda a compreensão da comunidade, como cultiva a capacidade de pensamento crítico e a consciência cívica dos moradores.
+Tomando a Universidade Comunitária de Beitou como exemplo, eles não apenas oferecem vários cursos, mas também promovem o conceito de "Estudo de Beitou", incentivando os alunos a pesquisar a história local, o ambiente ecológico e os problemas sociais. Através de pesquisas de campo, história oral e mapeamento comunitário, os alunos tornam-se pesquisadores e registradores da comunidade. Esta promoção do "estudo local" não apenas aprofunda o conhecimento sobre a comunidade, mas também cultiva a capacidade de pensamento crítico e a consciência cívica dos residentes.
 
-A universidade comunitária tornou-se também base importante de movimentos sociais.
-Questões como proteção ambiental, preservação cultural, solidariedade social, são frequentemente discutidas, organizadas e praticadas na universidade comunitária.
-Os alunos adquirem conhecimento e habilidades na sala de aula, e depois investem estes recursos em ações sociais concretas.
-Este modelo de "união entre aprendizagem e ação" encarna o ideal da universidade comunitária de "libertação do conhecimento".
+As universidades comunitárias também se tornaram pontos importantes para movimentos sociais. Questões como proteção ambiental, preservação cultural e cuidado social são frequentemente discutidas, organizadas e praticadas nessas universidades. Os alunos adquirem conhecimento e habilidades em sala de aula e, em seguida, aplicam esses recursos em ações sociais reais. Este modelo de "aprendizado ligado à ação" exemplifica o ideal da "libertação do conhecimento" das universidades comunitárias.
 
-## Participação Cívica: da Aceitação Passiva à Transformação Ativa
+## Participação Cívica: Da Aceitação Passiva à Transformação Ativa
 
-Uma característica importante da cultura comunitária de Taiwan é a elevação gradual da consciência de participação cívica.
-Esta transformação pode ser claramente vista na mudança de atitude dos moradores perante assuntos públicos.
-No passado, muitos estavam habituados ao modelo "o governo faz, o povo vê"; o planeamento e execução de construções públicas careciam frequentemente de participação popular.
-Mas com o aprofundamento da democratização e o despertar da consciência cívica, os moradores começaram a exigir mais oportunidades de participação, e também se dispuseram a assumir mais responsabilidades.
+Uma característica importante da cultura comunitária de Taiwan é a elevação gradual da consciência de participação cívica. Essa mudança pode ser vista claramente na alteração da atitude dos residentes em relação aos assuntos públicos. No passado, muitas pessoas tinham o hábito do modelo "o governo faz, o povo assiste"; o planejamento e a execução de projetos públicos frequentemente careciam da participação popular. Mas com o aprofundamento da democratização e o despertar da consciência cívica, os residentes começaram a exigir mais oportunidades de participação e estão dispostos a assumir mais responsabilidades.
 
-Esta participação não se limita ao voto em eleições, mas estende-se a vários aspetos da vida quotidiana.
-Por exemplo, no planeamento de parques comunitários, os moradores formam "grupos de adoção de parques", participando nas discussões de desenho e na gestão de manutenção;
-na melhoria da segurança no trânsito, os pais organizam "equipas de voluntários amorosos", auxiliando a segurança dos alunos na ida e volta da escola;
-na promoção da proteção ambiental, a comunidade cria "patrulhas ambientais", fiscalizando problemas de poluição e promovendo a reciclagem de recursos.
+Essa participação não se limita ao voto eleitoral, mas se estende a todos os aspectos da vida cotidiana. Por exemplo, no planejamento de um parque comunitário, os residentes formam "grupos de adoção do parque" para participar do design e da manutenção; na melhoria da segurança do trânsito, as associações de pais organizam "equipes voluntárias caridosas" para ajudar na ida e volta dos estudantes; na promoção da proteção ambiental, a comunidade estabelece uma "patrulha ambiental" para monitorar problemas de poluição e promover a reciclagem.
 
-O orçamento participativo é uma nova forma surgida nos últimos anos.
-Alguns governos locais abrem parte do orçamento para que o povo decida como usar, através de processos de proposta, discussão, votação, permitindo que os moradores participem diretamente na alocação de recursos públicos.
-Esta prática não só eleva a transparência do uso do orçamento, como reforça o sentido de protagonismo dos cidadãos.
+O orçamento participativo é uma nova forma que surgiu nos últimos anos. Alguns governos locais abrem parte do orçamento para que o público decida como usá-lo, permitindo que os residentes participem diretamente da alocação de recursos públicos através de propostas, discussões e votações. Essa prática não apenas aumenta a transparência na utilização do orçamento, mas também fortalece o senso de propriedade dos cidadãos.
 
-O desenvolvimento da tecnologia digital também trouxe novas possibilidades para a participação cívica.
-Muitas comunidades criaram plataformas online, permitindo que moradores discutam assuntos comunitários, reportem problemas, partilhem informações.
-Os governos de condados e cidades também lançaram as suas próprias aplicações; por exemplo, Taipé integrou a identificação de identidade do cidadão e vários serviços municipais no "Taipei Pass", permitindo que o povo interaja mais convenientemente com o governo. [^3]
+O desenvolvimento da tecnologia digital também forneceu novas possibilidades para a participação cívica. Muitas comunidades estabeleceram plataformas online onde os residentes podem discutir assuntos comunitários, relatar problemas e compartilhar informações. Cidades e prefeituras também lançaram seus próprios aplicativos, como Taipé, que integrou a identificação civil e vários serviços municipais no "TaipeiPass", permitindo aos cidadãos interagir com o governo de forma mais conveniente[^3].
 
 ## Desenvolvimento Diversificado das Organizações Comunitárias
 
-As organizações comunitárias de Taiwan apresentam alta diversidade e inovação.
-Além das organizações formais de vila, existem vários tipos de organizações civis ativas nas comunidades.
-A associação de desenvolvimento comunitário é a forma organizativa mais comum; costumam ter como objetivo promover o desenvolvimento comunitário e aumentar o bem-estar dos moradores, realizando várias atividades e serviços.
+As organizações comunitárias em Taiwan apresentam um alto grau de diversidade e inovação. Além das organizações _li_ formais, vários tipos de organizações privadas estão ativas nas comunidades. A associação de desenvolvimento comunitário é a forma organizacional mais comum; elas geralmente têm como objetivo promover o desenvolvimento comunitário e melhorar o bem-estar dos residentes, realizando vários eventos e serviços.
 
-As organizações de voluntários são pilar importante do funcionamento comunitário.
-Desde voluntários ambientais, de trânsito, de biblioteca, a guias culturais, estes servidores não remunerados injetam calor humano nas comunidades.
-O florescimento do espírito voluntário reflete o valor tradicional de "ajuda mútua e cooperação" da sociedade de Taiwan, e encarna também o sentido de responsabilidade social do cidadão moderno.
+As organizações voluntárias são um pilar importante da operação comunitária. Desde voluntários ambientais e de trânsito até voluntários de bibliotecas e guias culturais, esses prestadores de serviço não remunerados injetam calor humano na comunidade. A proliferação do espírito voluntário reflete o valor tradicional de "ajuda mútua" da sociedade de Taiwan e também demonstra a responsabilidade social dos cidadãos modernos.
 
-A empresa comunitária é um novo modelo surgido nos últimos anos.
-Combinam objetivos sociais com métodos comerciais, através de produtos ou serviços inovadores, resolvendo problemas comunitários e criando rendimentos económicos.
-Por exemplo, algumas comunidades desenvolvem agricultura orgânica, artesanato, turismo local, não só melhorando a qualidade ambiental, como aumentando o rendimento dos moradores.
+As empresas sociais são um modelo novo que surgiu nos últimos anos. Elas combinam objetivos sociais com métodos comerciais, resolvendo problemas comunitários e gerando renda através de produtos ou serviços inovadores. Por exemplo, algumas comunidades melhoraram a qualidade ambiental e aumentaram a renda dos residentes ao desenvolver agricultura orgânica, artesanato local e turismo local.
 
-As organizações religiosas também desempenham papel importante nas comunidades de Taiwan.
-Templos, igrejas, mosteiros e outros locais religiosos são frequentemente centros culturais da comunidade, não só proporcionando apoio espiritual, como realizando várias atividades de serviço social.
-Desde assistência caritativa, promoção educativa, até transmissão cultural, proteção ambiental, a participação das organizações religiosas acrescenta mais recursos e energia aos assuntos comunitários.
+As organizações religiosas também desempenham um papel importante nas comunidades de Taiwan. Templos, igrejas e mosteiros são frequentemente centros culturais da comunidade, fornecendo não apenas refúgio espiritual, mas também realizando vários serviços sociais. Desde caridade e assistência até a promoção educacional e a preservação cultural, o envolvimento das organizações religiosas adiciona mais recursos e energia aos assuntos comunitários.
 
 ## Desafios e Dificuldades
 
-No entanto, o desenvolvimento comunitário de Taiwan enfrenta também inúmeros desafios.
-O envelhecimento populacional é um dos problemas mais graves.
-Muitos jovens das comunidades saem para trabalhar nas cidades, ficando sobretudo idosos, o que leva a falta de vitalidade comunitária e dificuldades no funcionamento organizacional.
-Como atrair a geração mais nova a participar nos assuntos comunitários tornou-se desafio comum de muitas comunidades.
+No entanto, o desenvolvimento comunitário em Taiwan enfrenta muitos desafios. O envelhecimento populacional é um dos problemas mais graves. Muitos jovens migram para as cidades para trabalhar, deixando principalmente idosos, o que resulta em falta de vitalidade comunitária e dificuldades operacionais. Como atrair a nova geração para os assuntos comunitários é uma questão comum enfrentada por muitas comunidades.
 
-A insuficiência de recursos é outro problema generalizado.
-Embora o governo forneça vários planos de subsídio, a competição é intensa e os montantes limitados.
-Muitos planos comunitários criativos não se concretizam por falta de verbas.
-Ao mesmo tempo, as organizações comunitárias carecem frequentemente de capacidade profissional de planeamento e gestão, afetando a eficácia da execução dos planos.
+A escassez de recursos é outro problema geral. Embora o governo forneça vários planos de subsídio, a concorrência é acirrada e os valores dos subsídios são limitados. Muitos projetos comunitários criativos não podem ser realizados por falta de financiamento. Ao mesmo tempo, as organizações comunitárias muitas vezes carecem de capacidade profissional de planejamento e gestão, o que afeta a eficácia da execução do projeto.
 
-O anonimato trazido pela urbanização também impacta a cultura comunitária.
-Em grandes complexos residenciais, os vizinhos carecem de interação e a consciência comunitária é fraca.
-Como reconstruir laços comunitários na vida urbana moderna é um desafio que requer pensamento inovador.
+O anonimato trazido pela urbanização também impacta a cultura comunitária. Em grandes complexos residenciais, há pouca interação entre vizinhos e um senso fraco de comunidade. Reconstruir os laços comunitários na vida urbana moderna é um desafio que requer pensamento inovador.
 
-O problema da politização não pode ser ignorado.
-Alguns assuntos comunitários são arrastados para disputas políticas partidárias, afetando a harmonia e o desenvolvimento da comunidade.
-Como transcender a oposição política, focando nos interesses comuns dos moradores, testa a sabedoria dos líderes comunitários.
+A questão da politização também não pode ser ignorada. Alguns assuntos comunitários são envolvidos em disputas partidárias, afetando a harmonia e o desenvolvimento da comunidade. Como transcender as oposições políticas e focar nos interesses comuns dos residentes testa a sabedoria dos líderes comunitários.
 
-## Práticas Inovadoras e Perspetivas Futuras
+## Práticas Inovadoras e Perspectivas Futuras
 
-Perante estes desafios, muitas comunidades começam a tentar abordagens inovadoras.
-A cooperação intergeracional é uma das tendências importantes.
-Algumas comunidades promovem intercâmbio e cooperação entre diferentes faixas etárias através de "aprendizagem entre velhos e jovens", "oficinas intergeracionais".
-Os mais velhos partilham experiência e sabedoria, os mais novos contribuem criatividade e vitalidade, formando relação complementar virtuosa.
+Diante desses desafios, muitas comunidades começam a tentar abordagens inovadoras. A cooperação intergeracional é uma tendência importante entre elas. Algumas comunidades promovem a troca e cooperação entre diferentes faixas etárias através de "aprendizagem conjunta idoso-jovem" ou "oficinas geracionais". Os mais velhos compartilham experiência e sabedoria, enquanto os jovens contribuem com criatividade e vitalidade, formando uma relação complementar benéfica.
 
-A aplicação da tecnologia traz também novas possibilidades para o desenvolvimento comunitário.
-O conceito de comunidade inteligente surge gradualmente; através de internet das coisas, big data, inteligência artificial e outras tecnologias, eleva-se a eficiência e qualidade da gestão comunitária.
-Por exemplo, algumas comunidades instalaram sistemas inteligentes de segurança, equipamentos de monitoramento ambiental, plataformas de serviços online, permitindo que os moradores desfrutem de ambiente de vida mais conveniente e seguro.
+A aplicação da tecnologia também traz novas possibilidades para o desenvolvimento comunitário. O conceito de comunidade inteligente está gradualmente surgindo, melhorando a eficiência e a qualidade da gestão comunitária através de tecnologias como IoT (Internet das Coisas), Big Data e Inteligência Artificial. Por exemplo, algumas comunidades construíram sistemas de segurança inteligentes, equipamentos de monitoramento ambiental e plataformas de serviços online, permitindo que os residentes desfrutem de um ambiente de vida mais conveniente e seguro.
 
-O modelo de empresa social também se aplica nas comunidades.
-Algumas comunidades, desenvolvendo indústrias características e fornecendo serviços inovadores, resolvem problemas sociais e criam modelos de operação sustentáveis.
-Este pensamento de "inovação social" proporciona novo espaço de imaginação para o desenvolvimento comunitário.
+O modelo de empresa social também está sendo aplicado nas comunidades. Algumas comunidades resolvem problemas sociais e criam modelos operacionais sustentáveis ao desenvolver indústrias especializadas ou oferecer serviços inovadores. Este pensamento de "inovação social" fornece novos espaços imaginativos para o desenvolvimento comunitário.
 
-O intercâmbio e aprendizagem internacionais tornam-se também tendência.
-Muitas organizações comunitárias de Taiwan estabelecem parcerias com comunidades no estrangeiro, partilhando experiências, trocando práticas.
-Esta cooperação transfronteiriça não só alarga horizontes, como fornece novas ideias para resolver problemas comuns.
+A troca e aprendizagem internacional também se tornaram tendências. Muitas organizações comunitárias de Taiwan estabelecem parcerias com comunidades estrangeiras, compartilhando experiências e trocando práticas. Esta cooperação transnacional não apenas expande a visão, mas também fornece novas ideias para resolver problemas comuns.
 
-## Valor Profundo da Cultura Comunitária
+## O Valor Profundo da Cultura Comunitária
 
-A cultura comunitária de Taiwan tem valor que vai muito além da operação organizacional e realização de atividades superficiais.
-Ela encarna uma importante ideia social: a democracia não é apenas sistema político, mas um modo de vida.
-Na comunidade, as pessoas aprendem a ouvir vozes diferentes, respeitar perspetivas diversas, buscar soluções comuns.
-O cultivo desta "literacia democrática" lança bases sólidas para o desenvolvimento democrático de toda a sociedade.
+O valor da cultura comunitária de Taiwan vai muito além da operação superficial das organizações e da realização de eventos. Ela reflete um importante ideal social: a democracia não é apenas um sistema político, mas um estilo de vida. Na comunidade, as pessoas aprendem a ouvir diferentes vozes, respeitar visões diversas e procurar soluções comuns. O cultivo dessa "competência democrática" estabelece uma base sólida para o desenvolvimento democrático da sociedade como um todo.
 
-A cultura comunitária demonstra também a força da "sociedade civil".
-Fora do governo e do mercado, a sociedade civil responde a muitas necessidades sociais através de auto-organização e auto-governo.
-A atividade deste "terceiro setor" não só complementa a insuficiência dos serviços governamentais, como encarna a subjetividade e a agência dos cidadãos.
+A cultura comunitária também demonstra o poder da "sociedade civil". Fora do governo e do mercado, a sociedade civil responde a muitas necessidades sociais através da auto-organização e autogoverno. A atividade deste "terceiro setor" não apenas complementa as deficiências dos serviços governamentais, mas também reflete a subjetividade e a proatividade dos cidadãos.
 
-Mais importante, a cultura comunitária carrega a função de "resiliência social".
-Face a catástrofes naturais, mudanças económicas, choques sociais, a rede comunitária apertada é frequentemente a força de apoio mais eficaz.
-O cuidado mútuo entre vizinhos, a mobilização rápida das organizações comunitárias, a alocação flexível de recursos locais — tudo isto encarna a capacidade de recuperação social de baixo para cima.
+Mais importante ainda, a cultura comunitária carrega a função de "resiliência social". Ao enfrentar desastres naturais e humanos, mudanças econômicas e choques sociais, as redes comunitárias estreitas são frequentemente a força de apoio mais eficaz. O cuidado mútuo entre vizinhos, o rápido mobilização das organizações comunitárias e a alocação flexível de recursos locais — tudo isso reflete a capacidade de recuperação social de baixo para cima.
 
-Olhando o futuro, a cultura comunitária de Taiwan continuará a evoluir e desenvolver-se.
-Novos desafios requerem novas respostas, novas gerações trarão novas imaginações.
-Mas independentemente das mudanças, o espírito nuclear de "viver juntos, cuidar uns dos outros, agir coletivamente" será sempre o ativo mais precioso da sociedade de Taiwan.
+Olhando para o futuro, a cultura comunitária de Taiwan continuará a evoluir. Novos desafios exigem novas respostas, e novas gerações trarão novas imaginações. Mas independentemente das mudanças, o espírito central de "viver em comunidade, cuidar mutuamente, agir coletivamente" será sempre o ativo mais precioso da sociedade de Taiwan.
 
-Nesta era de rápidas transformações, a comunidade lembra-nos a essência da vida: o ser humano é animal gregário, a felicidade precisa de partilha, os problemas precisam de cooperação para resolver.
-Quando discutimos a limpeza do mês seguinte no centro de atividades comunitário, quando aprendemos novo conhecimento na sala de aula da universidade comunitária, quando nos desejamos boa noite nos becos da vizinhança, estamos na verdade a praticar o ideal mais antigo e mais moderno da humanidade — construir uma comunidade melhor.
+Nesta era de rápida mudança, a comunidade nos lembra a essência da vida: os seres humanos são animais gregários; a felicidade requer compartilhamento e os problemas exigem solução cooperativa. Quando discutimos o dia de limpeza no centro comunitário, aprendemos novos conhecimentos na universidade comunitária e dizemos "boa noite" em becos vizinhos, estamos, na verdade, praticando o ideal mais antigo e moderno da humanidade — construir uma comunidade melhor.
 
-## Conclusão: Ver o Futuro de Taiwan "Dentro da Vila"
+## Conclusão: Vendo o Futuro de Taiwan no _Li_
 
-A cultura de vila de Taiwan é um experimento democrático em contínuo andamento.
-Ela transforma o abstrato dever cívico em concreto cuidado de vizinhança, faz com que as frias políticas governamentais sejam traduzidas e implementadas no calor da comunidade.
-Nesta era de rápida fragmentação, ainda precisamos daquele beco onde se pode dizer bom-dia mutuamente, ainda precisamos daquele centro de atividades onde nos reunimos para discutir por causa de uma árvore velha, de uma vala de drenagem.
-Porque ali não somos apenas eleitores, somos testemunhas da vida uns dos outros.
+A cultura do _li_ em Taiwan é um experimento democrático contínuo. Ela transforma os deveres cívicos abstratos em cuidados vizinhos concretos, traduzindo e implementando políticas governamentais frias no calor da comunidade. Nesta era rápida e fragmentada, ainda precisamos dos becos onde podemos dizer "bom dia", e ainda precisamos do centro comunitário onde nos reunimos para discutir uma árvore antiga ou um bueiro. Porque ali, não somos apenas eleitores; somos testemunhas da vida uns dos outros.
+
+## Leitura Complementar
+
+- [Sistema de Chefe de Li](/pt/politics/village-chief-system) — Como funcionou o cargo eletivo mais básico de 7.748 chefes de _li_ em todo Taiwan, desde a guarda japonesa até as eleições diretas de 1950
+- [309 Livros de Contas de Chefes de Li](/pt/politics/village-chief-campaign-ledgers) — Em 2022, dos 13.988 candidatos a chefe de _li_, apenas 309 deixaram livros de doações políticas na Procuradoria; colocando as contas e os resultados das eleições juntos para ver se o dinheiro compra um chefe de _li_
 
 ## Referências
 
-1. Ministério da Cultura da República da China (Taiwan) (2022). 〈Plano de Desenvolvimento de Construção Comunitária e Cultura de Vilas (2022-2027)〉. Disponível em: https://www.moc.gov.tw/cp.aspx?n=128
-2. Taiwan Community Net (2021). 〈Não são apenas aulas de talento, a ação social da universidade comunitária〉. Disponível em: https://communitytaiwan.moc.gov.tw/Item/Detail/不只是才藝班, ação social da universidade comunitária
-3. Departamento de Assuntos Civis do Governo de Taipé (2024). 〈Direitos e Deveres do Chefe de Vila〉. Disponível em: https://ca.gov.taipei/cp.aspx?n=3E43CD1A09FE5FA9
-4. Base de Dados Nacional de Leis. 《Lei do Sistema Local》 Artigo 59. Disponível em: https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0040003&flno=59
-5. Editores da Wikipédia (2025). 〈Construção Comunitária Integral〉. 《Wikipédia》. Disponível em: https://zh.wikipedia.org/zh-tw/社區總體營造
+1. Ministério da Cultura da República da China (2022). 〈Plano de Desenvolvimento Comunitário e Cultural de Aldeias (2022-2027)〉. Disponível em: https://www.moc.gov.tw/cp.aspx?n=128
+2. Taiwan Community Connect (2021). 〈Mais do que aulas de arte, a ação social da universidade comunitária〉. Disponível em: https://communitytaiwan.moc.gov.tw/Item/Detail/不只是才藝班, Ação Social da Universidade Comunitária
+3. Bureau de Assuntos Civis da Prefeitura de Taipé (2024). 〈Direitos e Deveres do Chefe de Li〉. Disponível em: https://ca.gov.taipei/cp.aspx?n=3E43CD1A09FE5FA9
+4. Banco Nacional de Dados Legais. Artigo 59 da Lei do Sistema Local. Disponível em: https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0040003&flno=59
+5. Grupo de Editores da Wikipédia (2025). 〈Construção Integrada Comunitária〉. Disponível em: https://zh.wikipedia.org/zh-tw/社區總體營造
 
-[^1]: [Lei do Sistema Local Artigo 59](https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0040003&flno=59) — Base de Dados Nacional de Leis: O chefe de vila (里) recebe as ordens e supervisão do chefe de distrito (município, cidade, distrito), trata dos assuntos públicos da vila e dos assuntos delegados, eleito pelos moradores da vila conforme a lei, mandato de quatro anos, permitindo reeleição sem limite.
+[^1]: [Artigo 59 da Lei do Sistema Local](https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0040003&flno=59) — Banco Nacional de Dados Legais: O chefe do _li_ recebe direção e supervisão do chefe da área (distrito, cidade ou município) para realizar os serviços públicos e tarefas delegadas do _li_, eleito legalmente pelos residentes do _li_, com mandato de quatro anos e reeleição.
 
-[^2]: [Direitos e Deveres do Chefe de Vila](https://ca.gov.taipei/cp.aspx?n=3E43CD1A09FE5FA9) — Departamento de Assuntos Civis do Governo de Taipé: O chefe de vizinhança é cargo não remunerado, selecionado pelo chefe de vila entre moradores adultos da vizinhança e nomeado pelo chefe de distrito; ajuda de custo de NT$2.500 por pessoa por mês, além de subsídio de seguro de acidentes e para atividades de autoaperfeiçoamento.
+[^2]: [Direitos e Deveres do Chefe de Li](https://ca.gov.taipei/cp.aspx?n=3E43CD1A09FE5FA9) — Bureau de Assuntos Civis da Prefeitura de Taipé: O chefe do vizinho é um cargo não remunerado, nomeado pelo chefe do distrito a partir dos moradores adultos daquela área; ajuda de custo de NT$2.500 por mês, além de seguro contra acidentes e subsídios para atividades de autossuficiência.
 
-[^3]: [O que é Taipei Pass](https://id.taipei/tpcd/about/what-is-taipeipass) — Governo de Taipé: Integra a identificação de identidade pessoal e vários serviços municipais no "Taipei Pass", integrando também na APP.
+[^3]: [O que é TaipeiPass](https://id.taipei/tpcd/about/what-is-taipeipass) — Prefeitura de Taipé: Integração da identificação pessoal e vários serviços municipais no "TaipeiPass", integrado ao aplicativo.
