@@ -35,8 +35,14 @@ import json
 import os
 import re
 import sys
+from pathlib import Path
 
-LANG_DIRS = {"en", "ja", "ko", "es", "fr"}
+# 語言清單吃 languages.mjs（經 lang-sync/langs.py 單一橋），不在這裡寫死。
+# 2026-10-02 前寫死五語，de/vi/id/pt/hi/ar/ru 七語的譯文被當成中文文章算進來。
+sys.path.insert(0, str(Path(__file__).resolve().parent / "lang-sync"))
+from langs import ALL_TRANSLATION_LANGS  # noqa: E402
+
+LANG_DIRS = set(ALL_TRANSLATION_LANGS)
 ROOT = "knowledge"
 
 

@@ -26,6 +26,13 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
+
+# 語言清單吃 languages.mjs（經 lang-sync/langs.py 單一橋），不在這裡寫死。
+# 2026-10-02 前寫死五語，de/vi/id/pt/hi/ar/ru 七語的譯文被當成中文文章算進來。
+sys.path.insert(0, str(ROOT / "scripts" / "tools" / "lang-sync"))
+from langs import ALL_TRANSLATION_LANGS  # noqa: E402
+
+NON_ZH_DIRS = {*ALL_TRANSLATION_LANGS, "all"}
 DASHBOARD = ROOT / 'public/api/dashboard-articles.json'
 RECENT_WINDOW_DAYS = 45  # 「近期基準」取 date 距今 45 天內的文章分佈
 
@@ -64,7 +71,7 @@ def first_authors():
             cur = ln[1:]
         elif ln.strip() and cur:
             p = ln.strip().split('/')
-            if len(p) == 3 and p[0] == 'knowledge' and p[1] not in ('en', 'ja', 'ko', 'es', 'fr', 'all') and ln.endswith('.md'):
+            if len(p) == 3 and p[0] == 'knowledge' and p[1] not in NON_ZH_DIRS and ln.endswith('.md'):
                 fa[p[2][:-3]] = cur
     return fa
 

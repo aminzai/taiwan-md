@@ -71,7 +71,12 @@ ROOT = Path(__file__).resolve().parents[2]
 INBOX = ROOT / "docs/semiont/ARTICLE-INBOX.md"
 DONELOG = ROOT / "docs/semiont/ARTICLE-DONE-LOG.md"
 KNOWLEDGE = ROOT / "knowledge"
-LANG_DIRS = {"en", "ja", "ko", "es", "fr"}
+# 語言清單吃 languages.mjs（經 lang-sync/langs.py 單一橋），不在這裡寫死。
+# 2026-10-02 前寫死五語，de/vi/id/pt/hi/ar/ru 七語的譯文被當成中文文章算進來。
+sys.path.insert(0, str(ROOT / "scripts" / "tools" / "lang-sync"))
+from langs import ALL_TRANSLATION_LANGS  # noqa: E402
+
+LANG_DIRS = set(ALL_TRANSLATION_LANGS)
 CATEGORIES = {
     "About", "Art", "Culture", "Economy", "Food", "Geography", "History",
     "Lifestyle", "Music", "Nature", "People", "Politics", "Society", "Technology",

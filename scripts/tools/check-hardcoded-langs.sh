@@ -129,12 +129,8 @@ DEBT=(
   # ── 2026-09-27 v5 放寬到 set／tuple 後現形的 18 行（分法同上，A 真盲區、B 列滿或屬性集合）
   #    fetch-cloudflare 那行同日從 :431 漂到 :415，掛號行號已更新。
   "scripts/tools/spore-db.py:119|2026-09-27|A 類：語言資料夾清單停在 5 語＋zh-TW"
-  "scripts/tools/validate-spore-data.py:48|2026-09-27|A 類：LANG_DIRS 停在 5 語＋zh-TW"
   "scripts/tools/sync-spore-links.py:147|2026-09-27|A 類：語言資料夾清單停在 5 語＋zh-TW"
   "scripts/tools/generate-spore-records.py:56|2026-09-27|A 類：LANG_DIRS 停在 5 語＋zh-TW"
-  "scripts/tools/attribution-risk-audit.py:39|2026-09-27|A 類：LANG_DIRS 停在 5 語"
-  "scripts/tools/inbox-audit.py:74|2026-09-27|A 類：LANG_DIRS 停在 5 語"
-  "scripts/tools/article-depth-audit.py:67|2026-09-27|A 類：語言資料夾排除清單停在 5 語"
   "scripts/tools/lang-sync/rescue-orphans.py:28|2026-09-27|A 類：LANGS 11 語，缺 de"
   "scripts/tools/sync-diary-links.py:79|2026-09-27|B 類：日記鏡像語言停在 5 語，跟 OBSERVER-QUEUE #77（日記巴別塔停在五語）的決定綁在一起，決定前不該先改"
   "scripts/tools/analyze-diary-article-links.py:89|2026-09-27|B 類：同上，日記鏡像語言，跟 #77 綁在一起"
