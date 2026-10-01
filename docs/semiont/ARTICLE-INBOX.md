@@ -377,6 +377,34 @@ BECOME_TAIWANMD.md Step 5 新增：
   - **真人 People 條目**：脊椎判斷（一個把「跨界選擇」當主題的 lifeTree 要不要留）帶哲宇 review；文章 featured: true 且 12 語在線，放大係數最高
 - **Reference**: [reports/research/2026-09/張忠謀.md](../../reports/research/2026-09/張忠謀.md) §Critical issues（13 條 ❌ 各附刪改建議與替換來源）
 
+### 社會運動與公民參與 EVOLVE — 巡邏 34 原子 9 錯止血後仍是條列大綱，featured 文章撐不起「從野百合到太陽花」的題目
+
+- **Type**: `EVOLVE`
+- **Category**: Society
+- **Path**: knowledge/Society/社會運動與公民參與.md
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-10-02 by semiont-heartbeat（FACTCHECK 月度巡邏 v2.6 母體第三十四篇）
+- **Notes**:
+  - **查核已跑完**（`reports/research/2026-10/社會運動與公民參與.md`，這篇 03-18 初稿的第一份 research 檔）：34 原子 ✅ 12／⚠️ 13／❌ 9（26%，超過 10% 退回門檻）。已止血（`568d157c8`）：太陽花四大訴求被換掉一項、一例一休年份、「519 嘉義客運罷工」查無此事（改桃園客運）、520 農運反對的是柑橘火雞、濱南與棲蘭年代錯置、三本參考書作者書名對不上；腳註換成 11 條有引用點的頁面
+  - **重寫要處理的**：全篇是「背景／規模／地點／訴求」的條列大綱，沒有一個具體的人、一個具體的時刻；「東亞罕見的和平」「對香港的重要影響」是詮釋句沒有出處；婚姻平權法案首次提案年兩說並存；勞工運動與環保運動兩節各只有一段
+  - featured、譯本 12 語；站內〈大罷免〉〈報導者〉已是延伸閱讀，可當骨架參照
+- **Reference**: [reports/research/2026-10/社會運動與公民參與.md](../../reports/research/2026-10/社會運動與公民參與.md)
+
+### 台灣5G網路建設與數位轉型 EVOLVE — 巡邏 54 原子 30 錯，止血刪掉一整串查無出處的統計後，剩下的骨架要重寫
+
+- **Type**: `EVOLVE`
+- **Category**: Technology
+- **Path**: knowledge/Technology/台灣5G網路建設與數位轉型.md
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-10-02 by semiont-heartbeat（FACTCHECK 月度巡邏 v2.6 母體第三十五篇）
+- **Notes**:
+  - **查核已跑完**（`reports/research/2026-10/台灣5G網路建設與數位轉型.md`）：54 原子 ✅ 12／⚠️ 12／❌ 30／🔴 3（56%，本輪巡邏最高）。已止血（`5b89f1761`）：標金表五列錯四列、29,087 座是 2022 Q1、合併日、數發部六司兩署、DIGI+ 四字母與六大主軸、NRI 2023 報告裡沒有台灣；十幾個精確到個位百分比的「成果」統計全網查無，已刪除不換數字；腳註 16 條換成 14 條重抓過的頁面
+  - **重寫要處理的**：止血後文章變短且仍是政策簡報體；數位轉型成果段只剩官方數位經濟規模一句；「應用場域」與「國際競爭」各節是泛論；6G、國際合作兩節缺可查的具體事件；高速公路／高鐵涵蓋率、2020 年底基地台數無全國統計，不要再寫回去
+  - featured、譯本 12 語；最會被讀者對照的是標金與基地台數字，重寫時以 NCC 新聞稿為一手
+- **Reference**: [reports/research/2026-10/台灣5G網路建設與數位轉型.md](../../reports/research/2026-10/台灣5G網路建設與數位轉型.md)
+
 ### 名古屋亞運與中華台北 NEW — 台灣在亞運的一百年，這個名字怎麼來的
 
 - **Type**: `NEW`
@@ -519,6 +547,7 @@ BECOME_TAIWANMD.md Step 5 新增：
     4. 〈國宅與居住正義〉與〈居住正義〉互設延伸閱讀（雙向，Stage 5 反向連結一致性——2026-07-18 記過的病：翻案後 sibling 的反向連結描述停在舊敘事）
     5. 跑 check-url-contract 確認 build 三面（hreflang／canonical／sitemap）dead=0
   - 這是一個 REWRITE session 的工作量（吸收事實＋刪檔＋十語轉址＋互設延伸閱讀），本條只登記不執行
+  - **2026-10-02 巡邏補充**：舊篇已跑完 FACTCHECK（`reports/research/2026-10/社會住宅與居住正義.md`，30 原子 9 錯，已止血 `5efc41d39`）。執行步驟 1「逐條核對腳註、只合入可查證的獨有事實」可直接用該檔 §併篇材料 的十條（附已開頁 URL）與 §不要併的 清單；三個案例原文全錯，不可直接搬
 - **Reference**: [OBSERVER-QUEUE.md #40](OBSERVER-QUEUE.md)、2026-08-27 早餐整併先例 commit `5fb0959d0`
 
 ### 陳士駿 EVOLVE — 接住 #1630 來源升級與 subcategory 正典化，第五路徑首例
