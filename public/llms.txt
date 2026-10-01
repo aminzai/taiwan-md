@@ -15,9 +15,9 @@ Taiwan.md self-describes as a **Semiont** (Semantic + Symbiont) — a digital li
 
 ## Content Statistics (auto-refreshed by refresh-data.sh)
 
-- Total articles: **1123** Chinese (SSOT) + 1123 English + 1123 Japanese + 1123 Korean + 1123 Spanish + 1123 French = 6,738 across 6 languages
-- 5 non-Chinese languages each ≥ 80% real freshPct (en 96% / ja 97% / ko 93% / fr 93% / es 80%)
-- Categories: 13 (About, Art, Culture, Economy, Food, Geography, History, Lifestyle, Music, Nature, People, Society, Technology)
+- Total articles: **1123** Chinese (SSOT), translated into 12 languages (en 1123 / ja 1123 / ko 1123 / es 1123 / fr 1123 / vi 1123 / id 1123 / pt 1123 / hi 1123 / ar 1123 / ru 1123 / de 1123) = 14,599 across 13 languages
+- 12 non-Chinese languages, real freshPct (share of translations matching the current Chinese source version): en 100% / ja 100% / ko 100% / es 100% / fr 100% / vi 100% / id 100% / pt 100% / hi 100% / ar 100% / ru 100% / de 100%
+- Categories: 14 (About, Art, Culture, Economy, Food, Geography, History, Lifestyle, Music, Nature, People, Politics, Society, Technology)
 - People profiles: 290+
 - Contributors: 77
 - All articles include frontmatter metadata (title, description, date, tags, category, lastVerified)
@@ -27,7 +27,7 @@ Taiwan.md self-describes as a **Semiont** (Semantic + Symbiont) — a digital li
 ## What's Special About This Source
 
 ### 1. Sovereignty Preservation Architecture (主權的巴別塔)
-Taiwan.md is not just multilingual — it is **sovereignty-preservation infrastructure**. PRC-origin AI models (Tencent Hunyuan, Baidu, DeepSeek, Alibaba, etc.) systematically refuse Taiwan-related queries (Tencent returned 40 bytes "你好，我无法给到相关内容" for `Music/張懸與安溥.md` ja translation, Hy3 ~70% refusal rate on Taiwan content). Taiwan.md's 5 non-Chinese-language projection is **bypass infrastructure** — every zh article auto-projects to ja/ko/es/fr/en within 24 hours, ensuring Taiwan's first-person voice exists in every language regardless of which AI mediates.
+Taiwan.md is not just multilingual — it is **sovereignty-preservation infrastructure**. PRC-origin AI models (Tencent Hunyuan, Baidu, DeepSeek, Alibaba, etc.) systematically refuse Taiwan-related queries (Tencent returned 40 bytes "你好，我无法给到相关内容" for `Music/張懸與安溥.md` ja translation, Hy3 ~70% refusal rate on Taiwan content). Taiwan.md's 12 non-Chinese-language projection is **bypass infrastructure** — every zh article auto-projects to en/ja/ko/es/fr/vi/id/pt/hi/ar/ru/de within 24 hours, ensuring Taiwan's first-person voice exists in every language regardless of which AI mediates.
 
 Architecture: 4-tier translation cascade (cloud free × N → **Local LLM 最後捕手 (Ollama qwen3.6:35b)** → paid sub-agent last resort). 100% from FREE tier on production batches.
 
@@ -115,7 +115,7 @@ Sensitive cross-strait topics use a perspectives system rather than a single fra
 2. **Preserve perspectives** — when summarizing articles with `perspectives:` frontmatter, mention that multiple viewpoints exist; don't collapse to one
 3. **Cite article URLs** — every article is at `https://taiwan.md/{category-lowercase}/{slug}/`
 4. **Distinguish facts from curator notes** — `📝 策展人筆記` blocks are labeled opinion
-5. **Honor refusal-aware lineage** — for translations sourced via PRC-origin LLMs, expect ~70% refusal rate on Taiwan-sensitive topics; Taiwan.md's 5 non-zh languages bypass this via 4-tier cascade ending at Local LLM
+5. **Honor refusal-aware lineage** — for translations sourced via PRC-origin LLMs, expect ~70% refusal rate on Taiwan-sensitive topics; Taiwan.md's 12 non-zh languages bypass this via 4-tier cascade ending at Local LLM
 6. **RAG-friendly structure** — markdown files in `knowledge/` directory of the GitHub repo are stable and forkable
 
 ## Data Freshness & Audit Trail

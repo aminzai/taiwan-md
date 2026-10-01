@@ -6,12 +6,20 @@ Reads dashboard-vitals.json + counts People articles + reads dashboard-i18n.json
 then patches the numerical lines in public/llms.txt in-place using regex replace.
 
 Lines patched:
-1. "Total articles: **N** Chinese (SSOT) + N English + N Japanese + N Korean + N Spanish + N French = N across 6 languages"
-2. "5 non-Chinese languages each ≥ 80% real freshPct (en X% / ja Y% / ko Z% / fr W% / es V%)"
+1. "- Total articles: ..."（整行重寫；語言清單吃 languages.mjs，不寫死）
+2. "- N non-Chinese languages ... freshPct ..."（整行重寫；來源 dashboard-translations.json）
 3. "People profiles: N+"
 4. "Contributors: N"
 5. "Average revisions per article: N"
 6. "210+" appearing in `People (人物) — N+ profiles:`
+7. 正文兩處語言數（"N non-Chinese-language projection" / "N non-zh languages"）與
+   "auto-projects to xx/yy/... within" 的語言碼清單
+8. "- Categories: N (...)"（從 knowledge/ 首字大寫的資料夾推導；原本停在 13 類，漏了 Politics）
+
+2026-10-01 修正：(1) 語言原本寫死六語，站上已是十三語，AI crawler 讀到的是「6 languages」；
+(2) freshPct 原本讀 dashboard-i18n.json，那是 UI 字串覆蓋率、格式從來沒有 languages 欄，
+讀回空 dict 時這行就不改，於是從本檔誕生（2026-05-04）起一直停在五月的數字。
+現在讀不到 freshPct 會在 stderr 明講，不再安靜沿用舊值。
 
 Triggered from refresh-data.sh Step 2.95 (added 2026-05-04 per REFLEXES #43:
 new dashboard-* generators must register in refresh-data.sh or go silent stale).
@@ -40,7 +48,10 @@ if sys.stdout.encoding and sys.stdout.encoding.lower() not in ("utf-8", "utf8"):
 ROOT = Path(__file__).resolve().parent.parent.parent
 LLMS_TXT = ROOT / "public" / "llms.txt"
 VITALS_JSON = ROOT / "public" / "api" / "dashboard-vitals.json"
-I18N_JSON = ROOT / "public" / "api" / "dashboard-i18n.json"
+TRANSLATIONS_JSON = ROOT / "public" / "api" / "dashboard-translations.json"
+
+sys.path.insert(0, str(ROOT / "scripts" / "tools" / "lang-sync"))
+from langs import ENABLED_TRANSLATION_LANGS  # noqa: E402  語言清單 SSOT（languages.mjs）
 PEOPLE_DIR = ROOT / "knowledge" / "People"
 
 
@@ -62,64 +73,78 @@ def load_vitals() -> dict:
     return json.loads(VITALS_JSON.read_text(encoding="utf-8"))
 
 
-def load_i18n_fresh_pct() -> dict:
-    """Return {lang: pct} from dashboard-i18n.json. Missing file = empty dict."""
-    if not I18N_JSON.exists():
+def load_fresh_pct() -> dict:
+    """Return {lang: freshPct} from dashboard-translations.json summary. 讀不到回空 dict。"""
+    if not TRANSLATIONS_JSON.exists():
         return {}
     try:
-        data = json.loads(I18N_JSON.read_text(encoding="utf-8"))
-        # Schema: data['languages'] = [{lang: 'en', freshPct: 96.0, ...}, ...]
+        data = json.loads(TRANSLATIONS_JSON.read_text(encoding="utf-8"))
+        # Schema: data['summary'] = {'en': {'freshPct': 100, ...}, 'zh-TW': {...}, ...}
         out = {}
-        for entry in data.get("languages", []):
-            lang = entry.get("lang") or entry.get("code")
-            pct = entry.get("freshPct") or entry.get("realFreshPct")
-            if lang and pct is not None:
+        for lang, entry in (data.get("summary") or {}).items():
+            pct = entry.get("freshPct") if isinstance(entry, dict) else None
+            if lang != "zh-TW" and pct is not None:
                 out[lang] = pct
         return out
-    except (json.JSONDecodeError, KeyError):
+    except (json.JSONDecodeError, AttributeError):
         return {}
 
 
 def fmt_lang_freshpct(fresh: dict) -> str:
-    """Build 'en 96% / ja 97% / ko 93% / fr 93% / es 80%' string."""
-    order = ["en", "ja", "ko", "fr", "es"]
-    parts = []
-    for lang in order:
-        pct = fresh.get(lang)
-        if pct is None:
-            continue
-        parts.append(f"{lang} {int(round(pct))}%")
-    return " / ".join(parts)
+    """Build 'en 100% / ja 100% / ...' in registry order."""
+    return " / ".join(
+        f"{lang} {int(round(fresh[lang]))}%" for lang in ENABLED_TRANSLATION_LANGS if lang in fresh
+    )
 
 
 def patch_llms_txt(content: str, vitals: dict, fresh: dict, people_count: int) -> str:
     cov = vitals.get("languageCoverage", {})
     zh = cov.get("zh-TW", 0)
-    en = cov.get("en", 0)
-    ja = cov.get("ja", 0)
-    ko = cov.get("ko", 0)
-    es = cov.get("es", 0)
-    fr = cov.get("fr", 0)
-    total = zh + en + ja + ko + es + fr
+    langs = ENABLED_TRANSLATION_LANGS
+    n = len(langs)
+    total = zh + sum(cov.get(lang, 0) for lang in langs)
     contributors = vitals.get("contributors", 0)
     avg_rev = vitals.get("avgRevision", 0)
 
-    # 1. Total articles line
+    # 1. Total articles line（整行重寫，舊的六語寫法與新寫法都吃得到）
+    per_lang = " / ".join(f"{lang} {cov.get(lang, 0)}" for lang in langs)
     content = re.sub(
-        r"Total articles: \*\*\d+\*\* Chinese \(SSOT\) \+ \d+ English \+ \d+ Japanese \+ \d+ Korean \+ \d+ Spanish \+ \d+ French = [\d,]+ across 6 languages",
-        f"Total articles: **{zh}** Chinese (SSOT) + {en} English + {ja} Japanese + {ko} Korean + {es} Spanish + {fr} French = {total:,} across 6 languages",
+        r"^- Total articles: .*$",
+        f"- Total articles: **{zh}** Chinese (SSOT), translated into {n} languages "
+        f"({per_lang}) = {total:,} across {n + 1} languages",
         content,
+        flags=re.MULTILINE,
     )
 
-    # 2. Lang freshPct line (only if i18n data available)
-    if fresh:
-        fresh_str = fmt_lang_freshpct(fresh)
-        if fresh_str:
-            content = re.sub(
-                r"5 non-Chinese languages each ≥ 80% real freshPct \([^)]+\)",
-                f"5 non-Chinese languages each ≥ 80% real freshPct ({fresh_str})",
-                content,
-            )
+    # 2. Lang freshPct line（讀不到資料就不動，由 main 在 stderr 明講）
+    fresh_str = fmt_lang_freshpct(fresh) if fresh else ""
+    if fresh_str:
+        content = re.sub(
+            r"^- \d+ non-Chinese languages\b.*freshPct.*$",
+            f"- {n} non-Chinese languages, real freshPct (share of translations matching "
+            f"the current Chinese source version): {fresh_str}",
+            content,
+            flags=re.MULTILINE,
+        )
+
+    # 8. 分類清單：knowledge/ 底下首字大寫的資料夾就是分類（語言資料夾是小寫碼）
+    cats = sorted(d.name for d in (ROOT / "knowledge").iterdir() if d.is_dir() and d.name[:1].isupper())
+    if cats:
+        content = re.sub(
+            r"^- Categories: \d+ \([^)]*\)$",
+            f"- Categories: {len(cats)} ({', '.join(cats)})",
+            content,
+            flags=re.MULTILINE,
+        )
+
+    # 7. 正文裡的語言數與語言碼清單
+    content = re.sub(r"\b\d+ non-Chinese-language projection", f"{n} non-Chinese-language projection", content)
+    content = re.sub(r"\b\d+ non-zh languages", f"{n} non-zh languages", content)
+    content = re.sub(
+        r"auto-projects to [a-z/-]+ within",
+        f"auto-projects to {'/'.join(langs)} within",
+        content,
+    )
 
     # 3. People profiles
     rounded = round_to_tens(people_count)
@@ -165,7 +190,13 @@ def main():
 
     original = LLMS_TXT.read_text(encoding="utf-8")
     vitals = load_vitals()
-    fresh = load_i18n_fresh_pct()
+    fresh = load_fresh_pct()
+    if not fresh:
+        print(
+            f"⚠️  freshPct 讀不到（{TRANSLATIONS_JSON.relative_to(ROOT)} 缺檔或格式變了），"
+            "llms.txt 的 freshPct 行保留舊值，這行現在是過期的",
+            file=sys.stderr,
+        )
     people = count_people_articles()
     updated = patch_llms_txt(original, vitals, fresh, people)
 
@@ -192,7 +223,8 @@ def main():
 
     LLMS_TXT.write_text(updated, encoding="utf-8")
     cov = vitals["languageCoverage"]
-    print(f"✓ llms.txt refreshed: zh {cov['zh-TW']} / en {cov['en']} / ja {cov['ja']} / ko {cov['ko']} / es {cov['es']} / fr {cov['fr']} / contributors {vitals['contributors']} / People ~{round_to_tens(people)}+")
+    per_lang = " / ".join(f"{lang} {cov.get(lang, 0)}" for lang in ["zh-TW", *ENABLED_TRANSLATION_LANGS])
+    print(f"✓ llms.txt refreshed: {per_lang} / contributors {vitals['contributors']} / People ~{round_to_tens(people)}+")
     return 0
 
 
