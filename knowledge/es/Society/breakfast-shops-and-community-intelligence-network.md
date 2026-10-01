@@ -1,232 +1,229 @@
 ---
-title: 'La señora del desayuno y la red de inteligencia comunitaria'
-description: 'En serio, yo pensaba que la señora solo le decía "guapo" a todo el mundo. Un artículo sobre cómo la dueña de una cafetería de desayunos se convierte en el centro de inteligencia de toda la comunidad.'
+title: 'La señora de la tienda de desayuno y la red de información comunitaria'
+description: 'La verdad es que yo pensaba que la señora solo diría cosas como "¿hoy igual, guapo?", así que escribí sobre cómo la señora de la tienda de desayuno se convierte en el centro de información de todo el barrio.'
 date: 2026-03-18
-author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: '社區與日常'
 tags:
   [
-    'cafetería de desayunos',
+    'tienda de desayuno',
     'cultura comunitaria',
     'calidez humana',
     'tienda de conveniencia',
     'vida cotidiana',
     'red comunitaria',
   ]
-readingTime: 8
+subcategory: '社區與日常'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: false
+readingTime: 8
 translatedFrom: 'Society/早餐店阿姨與社區情報網.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:8f83fb416bf59624'
-sourceBodyHash: 'sha256:0bb238f02b9daa64'
-translatedAt: '2026-05-20T05:08:32+08:00'
+sourceCommitSha: '7fb2d0339'
+sourceContentHash: 'sha256:832d6badc8369590'
+sourceBodyHash: 'sha256:1206ed6df571738a'
+translatedAt: '2026-10-02T00:52:48+08:00'
 ---
 
-# La señora del desayuno y la red de inteligencia comunitaria
+# La señora de la tienda de desayuno y la red de información comunitaria
 
-## Panorama en 30 segundos
+## 30 segundos de resumen
 
-Las tiendas de conveniencia son la infraestructura de servicio oficial de Taiwán, pero la señora de la cafetería de desayunos es la que realmente te conoce. No necesita un sistema de puntos de membresía: le bastan los tres minutos que pasas en su local cada mañana.
+Las tiendas de conveniencia son la infraestructura oficial de servicios de Taiwán, pero la señora de la tienda de desayuno es quien realmente te conoce. No necesita un sistema de puntos de fidelidad; confía en esos tres minutos en los que cada mañana entrás en la tienda.
 
-A través del contacto diario de alta frecuencia, la interacción sin presión y una memoria a largo plazo asombrosa, la dueña de una cafetería de desayunos tradicional se convierte silenciosamente en la base de datos no oficial de toda la comunidad, la encarnación perfecta de lo que el sociólogo Granovetter denominó "vínculos débiles".
+A través de un contacto frecuente, una interacción de baja presión y una memoria asombrosa, las tradicionales tiendas de desayuno de Taiwán se convierten silenciosamente en la base de datos no oficial del barrio, la mejor encarnación de lo que el sociólogo Granovetter llamó "enlaces débiles".
 
-¿Por qué este papel solo surge en Taiwán? ¿Cómo se desvanece gradualmente en la era del auge de las plataformas de entrega a domicilio? Este artículo intenta responder seriamente estas preguntas.
+¿Por qué este rol solo aparece en Taiwán? ¿Cómo se desvanece con la aparición de plataformas de entrega? Este artículo intenta responder seriamente a esa pregunta.
 
-**Palabras clave**: cultura de las cafeterías de desayunos, red de inteligencia comunitaria, calidez humana, comparación con tiendas de conveniencia, vida local
+**Palabras clave**: cultura de tiendas de desayuno, red de información comunitaria, calidez humana, contraste con tiendas de conveniencia, vida local
 
 ---
 
-## En profundidad en 5 minutos
+## 5 minutos para entender
 
-En serio, yo pensaba que la señora solo le decía "guapo" a todo el mundo. Un artículo sobre cómo la dueña de una cafetería de desayunos se convierte en el centro de inteligencia de toda la comunidad.
+La verdad es que yo pensaba que la señora solo diría cosas como "¿hoy igual, guapo?", así que escribí sobre cómo la señora de la tienda de desayuno se convierte en el centro de información de todo el barrio.
 
-Si has vivido en Taiwán el tiempo suficiente, te habrás dado cuenta de algo:
+Si has vivido en Taiwán lo suficiente, pronto descubrirás algo:
 
-La tienda de conveniencia es la versión oficial del "centro de servicios de la vida diaria",
-pero la señora de la cafetería de desayunos es la versión popular de la "estación de intercambio de información".
+La tienda de conveniencia es la versión oficial de "centro de servicios de vida",
+pero la señora de la tienda de desayuno, es la versión popular de "estación de intercambio de información".
 
-La primera puede cobrar tus recibos de agua y luz, imprimir documentos, comprar boletos de tren, y prácticamente gestionar todos los asuntos cotidianos;
-la segunda es más impresionante: ella controla directamente a las "personas".
+La primera puede pagar facturas de luz y agua, imprimir documentos, comprar boletos de tren, casi cubriendo todas las tareas cotidianas;
+la segunda es aún más poderosa: ella controla directamente a las "personas".
 
-### Lo que ella recuerda no es solo si quieres huevo extra
+### Ella recuerda más que si quieres huevo extra
 
-Crees que solo te pregunta: "¿Lo de siempre, guapo?"
+Piensas que ella solo pregunta: "¿Hoy igual, guapo?"
 
 Error.
 
-Lo que ella sabe es:
+Ella sabe:
 
-- A qué hora saliste de trabajar anoche (porque hoy pediste dos vasos de té con leche y tus ojeras están más hinchadas que la hamburguesa)
-- Que estás a dieta (porque cambiaste tu tortilla de tocino con huevo por camote, y suspiraste al pedir)
-- Que tienes novia (porque empezaste a llevar dos pedidos para llevar, y pides un sobre extra de salsa de tomate, algo que nunca antes hacías)
+- Hasta qué hora trabajaste ayer (porque hoy pediste dos tés y tienes bolsas bajo los ojos más grandes que una hamburguesa)
+- Que andas en dieta (porque cambiaste el huevo con tocino por boniato y suspiraste al pedir)
+- Que te salió una novia (porque empezaste a llevar dos porciones y pides salsa de tomate, algo que nunca hacías antes)
 
-Ni siquiera necesita preguntar; puede decirte antes de que abras la boca:
+Ni siquiera necesita preguntar para decirte antes de que abras la boca:
 
-"¿Cansado hoy, verdad? Ven, te pongo un poco más de té con leche."
+"¿Cansado hoy? Toma, te pongo un poco más de leche en el té."
 
-Este es el resultado de años de trabajo de campo, completamente distinto de la retórica estándar del sector servicios.
+Esto es el resultado de años de investigación de campo, completamente diferente de los guiones de servicio al cliente.
 
-### Ella controla la dinámica en tiempo real de toda la calle
+### Ella controla las noticias del momento de toda la calle
 
-Las tiendas de conveniencia son impresionantes, sin duda: tienen sistemas POS, datos de membresía, análisis de perfiles de consumidores.
+Las tiendas de conveniencia son muy buenas, no te lo negaré; tienen sistema POS, datos de miembros, análisis de perfil de consumo.
 
 Pero no saben:
 
-- Que la familia del tercer piso discutió anoche (porque la señora bajó a comprar el desayuno con los ojos enrojecidos)
-- Si los nuevos vecinos de enfrente son pareja o no ("No, son compañeros de cuarto, pero creo que eso no durará mucho")
-- Si el jefe de barrio se presentará a elecciones otra vez (porque de pronto empezó a comprar diez tortillas de huevo al día para invitar a los vecinos)
+- Que la familia del tercer piso discutió ayer (porque la esposa bajó a comprar el desayuno con los ojos rojos)
+- Si los nuevos vecinos de enfrente son pareja («No, son compañeros de cuarto, pero créeme, no durará mucho»)
+- Si el alcalde está otra vez en campaña (porque de repente empezó a comprar diez bollos de huevo para los vecinos)
 
-La tienda de conveniencia tiene macrodatos; la señora de la cafetería tiene **datos profundos**.
+Las tiendas de conveniencia tienen big data, pero la señora de la tienda de desayuno tiene **datos profundos**.
 
-Porque todas las personas pasan por allí cada mañana.
+Porque todos vienen a registrarse por la mañana.
 
-Oficinistas, estudiantes, repartidores, el señor de al lado,
-todos entran en un estado de semiconsciencia,
-y antes de ponerse la máscara social, ya han expuesto su estado real frente a ella.
+Los trabajadores, los estudiantes, los repartidores, el vecino de al lado,
+cada uno entra aún sin haber despertido del todo,
+y antes de poder ponerse su máscara social, ya ha revelado su estado real delante de ella.
 
 Y ella solo necesita hacer dos cosas:
 
 1. Escuchar
 2. Recordar
 
-No le dirías al empleado de una tienda de conveniencia "estoy muy agotado últimamente",
-pero sí se lo dices a la señora de la cafetería de desayunos.
-Y ni siquiera te das cuenta de que lo dijiste.
+No le dirás a un empleado de tienda de conveniencia "últimamente estoy molesto",
+pero sí se lo dirás a la señora de la tienda de desayuno.
+Y ni siquiera te darás cuenta de que lo dijiste.
 
 ### La información fluye
 
-Más crucial aún: ella no solo recibe, también "transmite selectivamente".
+Lo más importante es que ella no solo recibe, también "reproduce selectivamente".
 
-Lo que hace es una **distribución de información filtrada**, no un chisme indiscriminado:
+Ella realiza **una distribución filtrada de información**, no un rumor indiscriminado:
 
-- "Ahora hay obras por ahí, mejor ve en bici por el otro lado, es más rápido"
-- "Tu compañero de clase también vino ayer, dijo que el examen fue súper difícil, ¿no deberías prepararte?"
-- "Parece que esa empresa está despidiendo gente, ¿tu amigo no trabaja ahí?"
+- "Oye, hay obras cerca; si vas en bici, mejor toma otra ruta"
+- "Tu compañero de clase también vino ayer; dijo que el examen fue muy difícil, ¿quieres prepararte?"
+- "Esa empresa parece estar haciendo despidos; ¿no es tu amigo quien trabaja allí?"
 
-Ella funciona como un algoritmo de recomendación que no necesita internet,
-distribuyendo información con precisión a "quien más necesita saberla".
+Ella es como un algoritmo de recomendación sin necesidad de internet,
+que distribuye información con precisión a "quien más la necesita".
 
-La diferencia es que el algoritmo quiere que pases más tiempo en el teléfono; la señora genuinamente no quiere que te mojes con la lluvia.
+La diferencia es que: el algoritmo quiere que deslizes más la pantalla, pero ella solo se preocupa por que no te mojes bajo la lluvia.
 
 ---
 
-## Análisis completo en profundidad
+## Información completa
 
-### Ella es más precisa que un algoritmo y no te muestra anuncios
+### Ella es más precisa que el algoritmo, y ni te muestra publicidad
 
-Hoy todos creemos en los sistemas de recomendación: personalización con IA, perfiles de usuario, filtrado colaborativo.
+Hoy todos confían en los sistemas de recomendación: IA personalizada, perfiles de usuario, filtrado colaborativo.
 
-Pero el sistema de recomendación de la señora de la cafetería funciona así:
+Pero el sistema de recomendación de la señora de la tienda de desayuno funciona así:
 
-- "Hoy tienes cara de mal humor, come algo salido para animarte"
-- "Ha empezado a hacer frío, ponte la chaqueta; tu mamá no está aquí, así que te lo digo yo"
-- "No pidas ese nuevo, yo misma lo probé y no me convenció"
+- "Hoy te ves de mal humor, come algo salado para animarte"
+- "Hace frío últimamente, pon tu abrigo; si tu madre no está aquí, yo me lo digo por ella"
+- "No pidas lo nuevo, a mí ni me gusta"
 
-Spotify no te diría "en realidad esta canción no es tan buena",
-pero la señora sí.
+Spotify no te dirá "esta canción en realidad no suena tan bien",
+pero ella sí.
 
-Ella se basa en "tú como persona", y no necesita que aceptes ningún acuerdo de privacidad.
+Ella se basa en "quién eres tú", y no necesitas aceptar ningún acuerdo de privacidad.
 
-### ¿Por qué este papel solo aparece en Taiwán?
+### ¿Por qué este rol solo aparece en Taiwán?
 
-Porque la estructura de la vida en Taiwán tiene una cualidad muy particular.
+Porque la estructura de vida de Taiwán tiene una cualidad sutil.
 
-Por un lado, tenemos la mayor densidad de tiendas de conveniencia del mundo,
-una cada doscientos metros, con tantas funciones que parecen una estación de servicio civil enviada por el gobierno.
+Por un lado, nuestras tiendas de conveniencia son densas a nivel mundial,
+promedio de una cada 1,700 personas, solo superado por Corea del Sur, [^3] con tantas funciones como una oficina de servicios gubernamentales.
 
-Pero por otro lado, las relaciones entre personas aún no han sido completamente reemplazadas por sistemas.
+Pero por otro lado, las personas aún no han sido reemplazadas por sistemas.
 
-La cafetería de desayunos se encuentra justo en esa grieta.
+La tienda de desayuno, justo encaja en esta grieta.
 
-No es tan estandarizada como una cadena (no escucharás en McDonald's "¿por qué no viniste ayer"),
-ni tan formal como un restaurante (no necesitas ver el menú, la señora ya está preparando tu pedido).
+No es tan estandarizada como una cadena (no escucharás "¿por qué no viniste ayer?" en McDonald's),
+ni tan formal como un restaurante (no necesitas mirar el menú, ella ya está preparándolo).
 
-Se sitúa justo entre lo "cotidiano" y lo "humano",
-un espacio social al que puedes entrar en pantuflas, sin peinarte.
+Encaja justo entre "cotidiano" y "afecto humano",
+un lugar donde puedes entrar con sandalias puestas y sin pearte el cabello.
 
-La cultura taiwanesa del desayuno fuera de casa tiene raíces profundas. En la década de 1980, con el auge económico de Taiwán y el aumento masivo de hogares con doble ingreso, el desayuno fuera de casa se popularizó rápidamente, y las cafeterías de esquina se convirtieron gradualmente en ejes cotidianos de la comunidad. Según estadísticas del Ministerio de Economía, en la década de 2020 el número de cafeterías de desayunos en Taiwán superaba las diez mil, distribuidas por comunidades de todos los municipios y condados.[^2] A diferencia de las tiendas de conveniencia, la mayoría de estos establecimientos son pequeños negocios individuales no afiliados a cadenas; el dueño vive cerca y mantiene relaciones estables y duraderas con los clientes. Este modelo de "conocidos que se ven todos los días" es el terreno fértil donde se forma la red de inteligencia comunitaria.
+La cultura de comer fuera de desayuno en Taiwán es profunda. En la década de 1980, con el aumento de la tasa de empleo femenina y el crecimiento de familias duales, el desayuno dejó de ser hecho en casa para convertirse en algo comprado fuera. En 1981 abrió la primera tienda de desayuno estilo occidental, Mei Li Mei, y poco a poco las tiendas de esquina se convirtieron en el nudo central de los barrios. [^4] Según las estadísticas de registro comercial del Ministerio de Finanzas, hasta julio de 2023 había 18,919 tiendas de desayuno en toda Taiwán, más que las tiendas de conveniencia. [^2] A diferencia de las tiendas de conveniencia, la mayoría de estas son pequeños negocios personales no pertenecientes a cadenas, cuyos dueños viven cerca y mantienen relaciones de interacción duraderas con sus clientes. Este modelo de "conocidos que te ves todos los días" es el suelo fértil donde crece la red de información comunitaria.
 
 Algunos países tienen cultura de cafeterías, otros tienen cultura de bares,
-Taiwán tiene cultura de cafeterías de desayunos.
-Y nuestra versión no requiere gastar trescientos pesos en un un latte: un vaso grande de té con leche helado basta.
+Taiwán tiene cultura de tiendas de desayuno.
+Y la nuestra no cuesta 300 dólares por una taza de latte; con un vaso de leche fría lo resuelves.
 
-### Por eso se convierte en centro de inteligencia
+### Por eso ella se convierte en el centro de información
 
-Porque reúne tres elementos al mismo tiempo:
+Porque ella reúne tres condiciones:
 
-1. **Contacto de alta frecuencia**: te ve todos los días, más seguido que a tus compañeros de trabajo
-2. **Interacción sin presión**: no requiere protocolo social, se va directo al grano
-3. **Memoria a largo plazo**: te recuerda durante diez años, más confiable que la copia de seguridad de tu teléfono
+1. **Contacto frecuente**: te ves todos los días, más que con tus compañeros de trabajo
+2. **Interacción de baja presión**: sin necesidad de protocolos sociales, entra directamente en la situación
+3. **Memoria a largo plazo**: te recuerda por diez años, más confiable que la copia de seguridad de tu teléfono
 
-Estos tres elementos juntos generan un papel específico:
+Estas tres cosas unidas crean un rol:
 
-**La "base de datos no oficial" de la comunidad.**
+**La "base de datos no oficial" del barrio.**
 
-En lenguaje académico, los sociólogos llaman a esto "la fuerza de los vínculos débiles" (_the strength of weak ties_). El sociólogo estadounidense Mark Granovetter propuso este concepto en 1973: las personas suelen obtener información más diversa y útil de "aquellos con quienes no se tiene una relación cercana pero con quienes se coincide frecuentemente" que de sus amigos íntimos.[^1]
+Si quieres usar un término académico, los sociólogos lo llaman "la fuerza de los enlaces débiles" (the strength of weak ties). El sociólogo estadounidense Mark Granovetter lo propuso en 1973: la gente suele obtener más información variada y útil de "personas que no conoce muy bien" que de amigos íntimos. Entre los entrevistados que buscaban trabajo, quienes les ayudaron eran gente con la que apenas se cruzaban. [^1]
 
-La señora de la cafetería de desayunos es la encarnación perfecta de esta teoría. No tiene una relación profunda con nadie, pero mantiene un contacto cotidiano estable con toda la calle. Es el nodo con mayor centralidad de intermediación (_betweenness centrality_) de la comunidad.
+La señora de la tienda de desayuno es como una versión comunitaria de esta teoría, solo que con la frecuencia al máximo: ella no es íntima con nadie, pero mantiene contacto diario constante con toda la calle. Es el nodo con mayor centralidad intermediaria (betweenness centrality) del barrio.
 
-(Por supuesto, cuando Granovetter escribió su artículo probablemente no imaginó que el mejor ejemplo de su teoría sería una señora taiwanesa que, mientras volteas un huevo en la plancha, te pregunta "¿cómo te ha ido últimamente?".)
+(Por supuesto, cuando Granovetter escribió su artículo, probablemente no imaginó que su mejor caso de estudio sería una señora taiwanesa que, mientras le fríe un huevo, te pregunta "¿qué tal andas últimamente?".)
 
-### Significado contemporáneo: ¿qué estamos perdiendo?
+### Significado actual: ¿qué estamos perdiendo?
 
-Crees que ella solo dice:
+Piensas que ella solo dice:
 
-"¿Huevo extra, guapo?"
+"¿Hoy igual, guapo?"
 
-Pero en su cabeza probablemente está pensando:
+En realidad, su mente podría estar pensando:
 
-"Esta es la tercera vez esta semana que pides huevo extra, ¿estarás muy estresado? ¿Quieres hablar? Bueno, vas tarde al trabajo, te pongo el té con leche más grande sin cobrarte."
+"Esta es la tercera vez esta semana que pides huevo; debes estar bajo mucha presión. ¿Quieres hablar? Bueno, te vas a trabajar, te pongo más leche gratis."
 
-Y tú todavía crees que es solo la señora de la cafetería de desayunos.
+Y tú sigues creyendo que es solo la señora de la tienda de desayuno.
 
-Hoy, con la expansión continua de las plataformas de entrega a domicilio y la concentración en cadenas, esta red comunitaria centrada en las "personas" se está desvaneciendo gradualmente. Cuando el desayuno se puede pedir por app, preparar con robots y entregar a tu puerta con drones, lo que perdemos es toda una infraestructura humana de la comunidad, incluida la temperatura de esa tortilla de huevo.
+En una época de plataformas de entrega y cadenas en expansión, esta red comunitaria basada en "personas" se está desvaneciendo poco a poco. Cuando el desayuno pueda pedirse por app, freírse con robots y entregarse por drones en tu puerta, perderemos toda una infraestructura comunitaria de relaciones humanas, incluyendo la temperatura del bocado del bollo.
 
-Cuando estés de mal humor, el algoritmo solo te recomendará un "TOP 10 de comida reconfortante",
-pero nadie te pondrá una rebanada extra de queso y dirá:
+Entonces, cuando estés de mal humor, el algoritmo solo te recomendará "TOP 10 de comida reconfortante",
+pero nadie te pondrá un poco más de queso y dirá:
 
-"No te cobro, te hace falta."
+"No cuesta nada, mira, claramente lo necesitas."
 
 ---
 
-## Para reflexionar
+## Pensamientos adicionales
 
-### Preguntas de debate
+### Preguntas para debatir
 
-1. ¿La dueña de la cafetería de desayunos cerca de tu casa también desempeña un papel similar al de "centro de inteligencia comunitaria"? ¿Has escuchado noticias en una cafetería de desayunos antes que en los medios?
-2. Con la popularización de las plataformas de entrega a domicilio y las cafeterías de desayunos en cadena, ¿está desapareciendo la función comunitaria de las cafeterías tradicionales? ¿La próxima generación tendrá la experiencia de que "la señora recuerde tu pedido"?
-3. Las tiendas de conveniencia y las cafeterías de desayunos representan respectivamente el "servicio sistematizado" y el "servicio humanizado". Si solo pudieras conservar uno, ¿cuál elegirías? (Pista: esta pregunta no tiene respuesta correcta, pero quien elija la tienda de conveniencia probablemente nunca recibió un pastel de rábano extra de cortesía de la señora.)
+1. ¿El dueño de la tienda de desayuno de tu barrio también actúa como un "centro de información comunitario"? ¿Has escuchado noticias más rápido en la tienda de desayuno que en las noticias?
+2. Con la popularización de plataformas de entrega y cadenas de desayuno, ¿está desapareciendo la función comunitaria de las tiendas tradicionales? ¿Tendrá la próxima generación la experiencia de "que la señora se acuerde de lo que pediste"?
+3. Las tiendas de conveniencia y las tiendas de desayuno representan respectivamente "servicios sistematizados" y "servicios con calidez humana". Si tuvieras que elegir una, ¿cuál? (Pista: esta pregunta no tiene respuesta correcta, pero quienes eligen tiendas de conveniencia probablemente nunca han recibido un pastel de zanahoria gratis de la señora.)
 
 ### Temas relacionados
 
-- [Cultura de las tiendas de conveniencia](/es/lifestyle/convenience-store-culture)
-- [Cultura comunitaria y de barrio en Taiwán](/es/society/taiwan-neighborhood-and-li-culture)
+- [Cultura de tiendas de conveniencia](/es/lifestyle/convenience-store-culture)
+- [Comunidades y barrios en Taiwán](/es/society/taiwan-neighborhood-and-li-culture)
 - [Cultura del desayuno en Taiwán](/es/food/taiwan-breakfast-culture)
-- [Cultura de mercados y mercados tradicionales en Taiwán](/es/lifestyle/taiwan-traditional-markets-and-market-culture)
+- [Mercados tradicionales y cultura de mercado en Taiwán](/es/lifestyle/taiwan-traditional-markets-and-market-culture)
 
 ---
 
 [^1]: Mark Granovetter, "The Strength of Weak Ties", _American Journal of Sociology_, 1973, https://www.jstor.org/stable/2776392
 
-[^2]: Departamento de Estadísticas del Ministerio de Economía, "Encuesta sobre la situación operativa de los sectores mayorista, minorista y de restauración", https://www.moea.gov.tw/MNS/dos/home/Home.aspx
+[^2]: [¡Hay más tiendas de desayuno que de conveniencia! ¿Cómo pasó de "comida básica" a campo de batalla de marcas?](https://www.foodnext.net/column/columnist/paper/6091091727) — foodNEXT, por Wang Fu-ko, agosto de 2025: según estadísticas del Ministerio de Finanzas, hasta julio de 2023, había 18,919 tiendas de desayuno registradas en toda Taiwán, superando las 13,000 tiendas de conveniencia.
 
-[^3]: Centro de Información Fiscal del Ministerio de Hacienda, "Estadísticas del número de empresas con fines de lucro", https://www.fia.gov.tw/
+[^3]: [La densidad de tiendas de conveniencia en Taiwán es segunda solo en Corea del Sur; el año pasado el volumen de negocios superó los 40,000 millones de dólares](https://hakkanews.tw/2024/03/15/108630/) — Noticias de Clientes, 15 de marzo de 2024: más de 13,000 tiendas de conveniencia en toda Taiwán, una cada 1,703 personas, segundo lugar solo por debajo de Corea del Sur (una cada 897 personas).
 
-[^4]: The Reporter, "La desaparición y transformación de las cafeterías de desayunos en Taiwán", https://www.twreporter.org/
-
-[^5]: Taiwan Panorama, "Reportaje especial sobre la cultura del desayuno en Taiwán", https://www.taiwan-panorama.com/
+[^4]: [El feliz despertar de la mañana: ¿ya comiste el desayuno?](https://www.taiwan-panorama.com/Articles/Details?Guid=8b197fcd-5c15-41f6-bad2-113e790fd6a6&CatId=10) — Revista Taiwan Light, por Deng Hui-chun, julio de 2023: en la década de 1980, con el aumento de la tasa de empleo femenina y el crecimiento de familias duales, comer fuera de desayuno se convirtió en rutina; en 1981 se fundó la primera tienda de desayuno estilo occidental, Mei Li Mei.
 
 ## Referencias
 
-- [Departamento de Estadísticas del Ministerio de Economía — Encuesta sobre la situación operativa de los sectores mayorista, minorista y de restauración](https://www.moea.gov.tw/MNS/dos/home/Home.aspx) — Estadísticas sobre la estructura del sector de restauración y el número de cafeterías de desayunos en Taiwán
-- [The Strength of Weak Ties — Mark Granovetter, 1973](https://www.jstor.org/stable/2776392) — Artículo clásico de sociología, fuente original de la teoría de los vínculos débiles
-- [The Reporter — La desaparición y transformación de las cafeterías de desayunos en Taiwán](https://www.twreporter.org/) — Reportaje sobre los desafíos operativos que enfrentan las cafeterías de desayunos tradicionales
-- [Taiwan Panorama — Reportaje especial sobre la cultura del desayuno en Taiwán](https://www.taiwan-panorama.com/) — Contexto histórico de la cultura del desayuno fuera de casa en Taiwán
-- [Centro de Información Fiscal del Ministerio de Hacienda — Estadísticas del número de empresas con fines de lucro](https://www.fia.gov.tw/) — Número de establecimientos registrados en los distintos subsectores de restauración en Taiwán
+- [The Strength of Weak Ties — Mark Granovetter, 1973](https://www.jstor.org/stable/2776392) — artículo clásico de sociología, origen de la teoría de los enlaces débiles
+- [foodNEXT — ¡Hay más tiendas de desayuno que de conveniencia! ¿Cómo pasó de "comida básica" a campo de batalla de marcas?](https://www.foodnext.net/column/columnist/paper/6091091727) — número de tiendas de desayuno (registro comercial del Ministerio de Finanzas) y cadena de marcas
+- [Revista Taiwan Light — El feliz despertar de la mañana: ¿ya comiste el desayuno?](https://www.taiwan-panorama.com/Articles/Details?Guid=8b197fcd-5c15-41f6-bad2-113e790fd6a6&CatId=10) — contexto histórico de la cultura de comer fuera de desayuno en Taiwán
+- [Noticias de Clientes — La densidad de tiendas de conveniencia en Taiwán es segunda solo en Corea del Sur](https://hakkanews.tw/2024/03/15/108630/) — comparación internacional del número y densidad de tiendas de conveniencia
 
 ---
 
-_Este artículo utiliza un diseño de tres niveles de profundidad de lectura, adaptado a las necesidades de distintos tipos de lectores. ¡Se invita a contribuir con más contenido!_
+_Este artículo está diseñado con tres niveles de lectura profunda, adaptado a diferentes necesidades de los lectores. ¡Bienvenidas contribuciones de más contenido!_

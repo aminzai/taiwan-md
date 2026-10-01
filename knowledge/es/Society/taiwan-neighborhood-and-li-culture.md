@@ -1,117 +1,212 @@
 ---
-title: 'La cultura de los barrios y las comunidades de Taiwán'
-description: 'Desde la práctica democrática más básica hasta la innovación social del desarrollo comunitario'
+title: 'Cultura comunitaria y de barrios en Taiwán'
+description: 'Desde la práctica democrática más básica hasta la innovación social en la construcción comunitaria'
+date: 2026-03-18
+category: 'Society'
+tags:
+  [
+    'sistema de barrios y vecindarios',
+    'construcción comunitaria',
+    'universidad comunitaria',
+    'participación ciudadana',
+    'autonomía local',
+  ]
 subcategory: '社會運動'
-tags: ['里鄰制度', '社區營造', '社區大學', '公民參與', '地方自治']
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Society/台灣社區與里文化.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:cd7ff91fe48a2538'
-sourceBodyHash: 'sha256:04d1aee034c97e89'
-translatedAt: '2026-05-01T20:54:23+08:00'
-category: Society
-author: 'Taiwan.md'
-date: 2026-03-18
-featured: false
+sourceCommitSha: '21c4e4caf'
+sourceContentHash: 'sha256:112429b6a4722893'
+sourceBodyHash: 'sha256:7ec3aa6a3ad15e3e'
+translatedAt: '2026-10-02T00:52:48+08:00'
 ---
 
-# La cultura de los barrios y las comunidades de Taiwán
+# Cultura comunitaria y de barrios en Taiwán
 
-Cada vez que cae la noche, el centro de actividades comunitarias de un _li_ (barrio) en la ciudad de Taipéi sigue iluminado. El jefe del _li_ convoca a los residentes para discutir las actividades del próximo mes dedicadas a la limpieza, los jefes de _lin_ (subbarrios) informan sobre la situación de cada zona, y un instructor de la universidad comunitaria enseña tai chi en el aula contigua. Esta apacible velada refleja, en realidad, la esencia de la comunidad taiwanesa: desde la organización administrativa más básica hasta la participación autónoma de la sociedad civil, desde la práctica democrática institucional hasta la innovación social más creativa.
+Cada vez que cae la noche, el centro de actividades comunitarias de cierto barrio de Taipéi sigue iluminado.
+El jefe de barrio está convocando a los residentes para discutir la actividad de limpieza del mes próximo, los jefes de vecindario informan por separado sobre la situación de cada vecindario, mientras que en el aula de al lado un profesor de la universidad comunitaria imparte taichí.
+Esta noche aparentemente ordinaria presenta en realidad la esencia de la cultura comunitaria taiwanesa: desde la organización administrativa más básica hasta la participación autónoma de la sociedad civil, desde la práctica democrática institucional hasta la innovación social rebosante de creatividad.
 
-En esta pequeña unidad administrativa llamada _li_ conviven cientos o miles de residentes que, juntos, constituyen la célula más pequeña de la sociedad democrática de Taiwán. La forma en que estas células funcionan, se organizan y responden a los desafíos no solo afecta la calidad de vida cotidiana de los vecinos, sino que también moldea profundamente la cultura democrática y la resiliencia social de Taiwán.
+En esta pequeña unidad administrativa llamada «barrio» (里, _lǐ_), residen cientos o miles de habitantes que conjuntamente constituyen la célula más pequeña de la sociedad democrática de Taiwán.
+Cómo operan estas células, cómo se autoorganizan, cómo responden a los desafíos, no solo afecta la calidad de vida cotidiana de los residentes, sino que también moldea profundamente la cultura democrática y la resiliencia social de Taiwán.
 
-## El sistema _li-lin_: la primera línea de la democracia
+## Sistema de barrios y vecindarios: la primera línea de la democracia
 
-El sistema de _li_ (aldea/barrio) y _lin_ (subbarrio) de Taiwán es, posiblemente, una de las prácticas democráticas más cercanas al ciudadano en el mundo. De acuerdo con la Ley de Gobierno Local, el _li_ es la unidad administrativa de base más elemental. Cada _li_ cuenta con un jefe elegido directamente por los residentes, con un mandato de cuatro años y sin límite de reelección. Este diseño institucional garantiza la amplitud y accesibilidad de la participación democrática.
+El sistema de aldeas y barrios de Taiwán puede considerarse una de las prácticas democráticas más cercanas a la ciudadanía en el mundo.
+Según la Ley del Sistema Local, los barrios son la unidad administrativa más básica; cada barrio establece un jefe de barrio, elegido directamente por los residentes, con un mandato de cuatro años, reelección ilimitada. [^1]
+Este diseño institucional garantiza la amplitud y accesibilidad de la participación democrática.
 
-El rol del jefe de _li_ es sumamente diverso: actúa como puente entre el gobierno y la ciudadanía, y como coordinador de los asuntos comunitarios. Según la normativa, el jefe de _li_ "recibe la dirección y supervisión del jefe del distrito, y se encarga de los asuntos públicos del _li_ y de las tareas encomendadas". Sin embargo, en la práctica, su función es mucho más compleja. Debe gestionar desde la planificación de obras comunitarias hasta la mediación de disputas vecinales, desde la asistencia en la tramitación de documentos oficiales hasta la organización de actividades comunitarias, desde la promoción de la limpieza ambiental hasta la denuncia de problemas de seguridad. Su labor abarca prácticamente todos los aspectos de la vida de los residentes.
+El papel del jefe de barrio es extremadamente diverso: son a la vez el puente entre el gobierno y la ciudadanía, y los coordinadores de los asuntos comunitarios.
+Según la ley, el jefe de barrio «recibe el mando y supervisión del alcalde de municipio (ciudad, distrito), gestiona los asuntos públicos del barrio (aldea) y los asuntos encomendados», pero en la práctica suele desempeñar roles más complejos.
+Deben manejar desde la planificación de construcciones comunitarias hasta la mediación de disputas vecinales.
+Desde ayudar a la gente a tramitar diversos documentos, hasta organizar actividades comunitarias, impulsar la limpieza ambiental, reflejar problemas de seguridad, el trabajo del jefe de barrio abarca prácticamente todos los aspectos de la vida de los residentes.
 
-Por debajo del _li_ existe una organización aún más detallada: el _lin_. Los jefes de _lin_ suelen ser designados por el jefe del _li_ y ratificados por la oficina del distrito, y desempeñan su cargo de forma honoraria, sin remuneración. Aunque carecen de oficina formal ni subsidio económico, los jefes de _lin_ desempeñan un papel indispensable en el funcionamiento comunitario. Son el enlace más cercano con los residentes, encargados de transmitir información sobre políticas públicas, recoger opiniones ciudadanas y asistir en diversos trámites administrativos. Cuando se aproxima un tifón, los jefes de _lin_ visitan casa por casa para asegurarse de la seguridad de los ancianos que viven solos; durante la pandemia, ayudaron en la distribución de suministros sanitarios; en la vida diaria, son un puente fundamental entre los residentes y el jefe del _li_.
+Bajo el barrio existe una organización aún más fina: el «vecindario» (鄰, _lín_).
+El jefe de vecindario es un cargo honorario. Tomando Taipéi como ejemplo, el jefe de vecindario es seleccionado por el jefe de barrio entre los residentes adultos de ese vecindario y reportado al jefe de distrito para su nombramiento; no tiene salario, pero recibe 2.500 NT$ mensuales de ayuda para gastos, además de seguro de accidentes y subsidios para actividades de auto-mejora. [^2]
+La cantidad no es mucha, pero el jefe de vecindario desempeña un papel indispensable en el funcionamiento comunitario.
+Son el enlace más cercano a los residentes, responsables de transmitir mensajes de políticas, recoger opiniones, asistir en diversos trámites administrativos.
+Cuando llega un tifón, los jefes de vecindario visitan casa por casa para preocuparse por la seguridad de los ancianos que viven solos;
+durante la pandemia, ayudaron a distribuir materiales de prevención;
+en la vida diaria, son el puente importante entre residentes y jefe de barrio.
 
-El funcionamiento de este sistema pone de manifiesto una característica esencial de la democracia taiwanesa: la práctica profunda de la democracia participativa. La participación electoral en las elecciones de jefes de _li_ suele ser notablemente alta, lo que refleja la importancia que los ciudadanos otorgan a este cargo tan cercano a su vida cotidiana. La interacción frecuente entre jefes de _li_, jefes de _lin_ y residentes fomenta, además, hábitos y capacidades de participación ciudadana.
+El funcionamiento de este sistema muestra una característica importante de la democracia taiwanesa: la práctica profunda de la democracia participativa.
+Las frecuentes interacciones entre jefes de barrio, jefes de vecindario y residentes cultivan también el hábito y la capacidad de participación ciudadana.
 
-## El desarrollo comunitario: un movimiento de transformación social desde la base
+## Construcción comunitaria: un movimiento de transformación social desde abajo
 
-En la década de 1990, un concepto denominado "desarrollo integral de la comunidad" comenzó a germinar en Taiwán. No solo transformó la apariencia de los barrios, sino que también influyó profundamente en el modelo de desarrollo social de la isla. La idea central de este movimiento era "de abajo hacia arriba", enfatizando la participación autónoma de los residentes a través de la influencia de las artes y la cultura, la mejora del entorno y la revitalización económica, con el fin de lograr un desarrollo comunitario integral.
+En los años 90, un concepto llamado «construcción integral comunitaria» comenzó a germinar en Taiwán; no solo cambió el rostro de las comunidades, sino que influyó profundamente en el modelo de desarrollo social de Taiwán.
+La idea central de este movimiento es «desde abajo», enfatizando la participación autónoma de los residentes comunitarios, para lograr el desarrollo integral de la comunidad a través de la influencia de la cultura y las artes, la transformación del entorno, la revitalización de la industria.
 
-El surgimiento del movimiento de desarrollo comunitario está estrechamente vinculado al proceso de democratización de Taiwán. Tras el fin del régimen autoritario, los ciudadanos comenzaron a contar con más espacio y oportunidades para expresar sus opiniones y participar en los asuntos públicos. El desarrollo comunitario ofreció una plataforma concreta para que las personas pudieran poner en práctica, desde su propio entorno vital, el ideal de la participación democrática.
+El auge del movimiento de construcción comunitaria está estrechamente ligado al proceso de democratización de Taiwán.
+Tras el levantamiento del régimen autoritario, la ciudadanía comenzó a tener más espacios y oportunidades para expresar opiniones y participar en asuntos públicos.
+La construcción comunitaria proporcionó una plataforma concreta, permitiendo a la gente partir de su propio entorno de vida para poner en práctica los ideales de participación democrática.
 
-El Ministerio de Cultura (anteriormente Consejo de Construcción Cultural) comenzó a impulsar políticas de desarrollo comunitario en 1994, fomentando propuestas autónomas de los residentes mediante programas de subsidio para la transformación de sus entornos de vida. Estos programas abarcaban múltiples dimensiones: artes y cultura, paisaje ambiental, desarrollo industrial y atención social. Por ejemplo, la comunidad de Bantou, en el municipio de Xingang, condado de Chiayi, no solo preservó la tradición artesanal del _jiao-zhi_ (cerámica vidriada), sino que también impulsó el desarrollo turístico local. La comunidad de Neicheng, en el municipio de Yuanshan, condado de Yilan, combinó la agricultura ecológica con la conservación ambiental para crear un estilo de vida "slow living" que atrajo a numerosos jóvenes de vuelta al pueblo.
+El Ministerio de Cultura (antes Consejo de Planificación y Construcción Cultural) comenzó a impulsar políticas de construcción comunitaria en 1994, fomentando mediante planes de subsidio que los residentes propusieran y transformaran su entorno de vida de forma autónoma.
+Estos planes abarcaban cultura y artes, paisaje ambiental, desarrollo industrial, bienestar social y otros aspectos.
+Por ejemplo, la comunidad Ban-tou en el municipio de Xingang, condado de Chiayi, mediante la promoción del arte del recorte y pegado _jiaozhi_ (交趾剪黏), no solo preservó la artesanía tradicional, sino que también impulsó el desarrollo turístico;
+la comunidad Neicheng en el municipio de Yuanshan, condado de Yilan, combinando agricultura orgánica y amigable con conservación ecológica, atrajo a algunos jóvenes a dedicarse a la agricultura allí.
 
-El espíritu del desarrollo comunitario reside en la idea de que "cada comunidad debe salvarse a sí misma". Anima a los residentes a no esperar la intervención del gobierno o de fuerzas externas, sino a detectar activamente problemas, buscar recursos y proponer soluciones. En este proceso, los vecinos adquieren habilidades de organización, coordinación, integración de recursos y ejecución de proyectos, al tiempo que desarrollan un sentido de identidad y responsabilidad hacia su comunidad.
+El espíritu de la construcción comunitaria reside en «salvar nuestra propia comunidad».
+Anima a los residentes a no esperar la intervención del gobierno o fuerzas externas, sino a descubrir activamente problemas, buscar recursos, proponer soluciones.
+En este proceso, los residentes aprenden capacidades de organización, coordinación, integración de recursos, ejecución de planes, y cultivan sentido de identidad y responsabilidad hacia la comunidad.
 
-## Las universidades comunitarias: un experimento de la sociedad del aprendizaje
+## Universidad comunitaria: experimento de una sociedad aprendiz
 
-En 1998 se fundó la primera universidad comunitaria de Taiwán en el distrito de Wenshan, ciudad de Taipéi, inaugurando un nuevo capítulo en la educación de adultos. Su filosofía fundacional nació de una reflexión crítica sobre el sistema educativo tradicional: ¿por qué la educación debe terminar a una edad determinada? ¿por qué el aprendizaje debe limitarse a espacios específicos? ¿por qué el conocimiento no puede estar más cerca de la vida cotidiana?
+En 1998, la primera universidad comunitaria de Taiwán se estableció en el distrito de Wenshan, Taipéi, abriendo una nueva página en la educación de adultos.
+El ideal fundacional de la universidad comunitaria surge de la reflexión sobre el sistema educativo tradicional: ¿por qué la educación debe terminar a una edad determinada?
+¿Por qué el aprendizaje debe limitarse a lugares específicos?
+¿Por qué el conocimiento no puede estar más cerca de la vida?
 
-El diseño curricular de las universidades comunitarias se estructura en tres ejes: cursos académicos que ofrecen formación básica en ciencias humanas y sociales, cursos de habilidades prácticas que satisfacen los intereses de los residentes, y cursos de actividades asociativas que fomentan la participación ciudadana. Esta oferta diversificada refleja una concepción amplia del aprendizaje: aprender no es solo absorber conocimientos, sino también desarrollar capacidades, ampliar horizontes y construir redes interpersonales.
+El diseño curricular de la universidad comunitaria tiene tres vertientes: cursos académicos que proveen educación básica en humanidades y ciencias sociales, cursos de artes de la vida que satisfacen intereses de los residentes, y cursos de actividades de asociaciones que fomentan la participación ciudadana.
+Este diseño curricular diverso refleja la amplia comprensión de la universidad comunitaria sobre el «aprendizaje»: aprender no es solo absorber conocimiento, sino cultivar capacidades, ampliar horizontes, construir redes interpersonales.
 
-La universidad comunitaria de Beitou es un ejemplo destacado. Además de ofrecer una amplia variedad de cursos, promovió el concepto de "Estudios de Beitou", animando a los alumnos a investigar la historia, la cultura, el entorno ecológico y los problemas sociales de su localidad. A través de trabajo de campo, historia oral y elaboración de mapas comunitarios, los estudiantes se convirtieron en investigadores y cronistas de su propia comunidad. Este impulso de los "estudios locales" no solo profundizó el conocimiento del barrio, sino que también cultivó el pensamiento crítico y la conciencia cívica de los residentes.
+Tomando la Universidad Comunitaria de Beitou como ejemplo, no solo ofrecen diversos cursos, sino que impulsan el concepto de «estudios de Beitou», animando a los alumnos a investigar la historia cultural local, el entorno ecológico, los problemas sociales.
+Mediante investigación de campo, historia oral, elaboración de mapas comunitarios, los alumnos se convierten en investigadores y registradores de la comunidad.
+Este impulso de los «estudios locales» no solo profundiza la comprensión de la comunidad, sino que cultiva el pensamiento crítico y la conciencia cívica de los residentes.
 
-Las universidades comunitarias se han convertido también en espacios clave para los movimientos sociales. Temas como la protección del medio ambiente, la preservación cultural y la atención social se debaten, se organizan y se ponen en práctica frecuentemente en sus aulas. Los estudiantes adquieren conocimientos y habilidades en clase, y luego los aplican en acciones sociales concretas. Este modelo de "aprendizaje vinculado a la acción" encarna el ideal de "liberación del conocimiento" que persiguen las universidades comunitarias.
+La universidad comunitaria también se ha convertido en un importante bastión de movimientos sociales.
+Protección ambiental, preservación cultural, preocupación social y otros temas, a menudo se discuten, organizan y practican en la universidad comunitaria.
+Los alumnos obtienen conocimientos y habilidades en el aula, y luego invierten estos recursos en acciones sociales concretas.
+Este modelo de «unión de aprendizaje y acción» encarna el ideal de «liberación del conocimiento» de la universidad comunitaria.
 
-## Participación ciudadana: de la recepción pasiva a la transformación activa
+## Participación ciudadana: de la aceptación pasiva a la transformación activa
 
-Una característica fundamental de la comunidad taiwanesa es el progresivo aumento de la conciencia participativa. Este cambio se aprecia claramente en la evolución de la actitud de los residentes hacia los asuntos públicos. En el pasado, muchas personas estaban acostumbradas al modelo de "el gobierno actúa, los ciudadanos observan", y la planificación y ejecución de obras públicas solían carecer de participación ciudadana. Sin embargo, con la profundización de la democratización y el despertar de la conciencia cívica, los residentes comenzaron a exigir más oportunidades de participación y a asumir mayores responsabilidades.
+Una característica importante de la cultura comunitaria taiwanesa es la elevación gradual de la conciencia de participación ciudadana.
+Esta transformación se observa claramente en el cambio de actitud de los residentes comunitarios hacia los asuntos públicos.
+Antes, muchos estaban acostumbrados al modelo «el gobierno hace, la gente mira»; la planificación y ejecución de construcciones públicas a menudo carecía de participación ciudadana.
+Pero con el avance de la democratización y el despertar de la conciencia cívica, los residentes comenzaron a exigir más oportunidades de participación y a estar dispuestos a asumir más responsabilidades.
 
-Esta participación no se limita al voto en elecciones, sino que se extiende a múltiples facetas de la vida cotidiana. Por ejemplo, en la planificación de parques comunitarios, los residentes forman "grupos de apadrinamiento de parques" que participan en el diseño y el mantenimiento; en materia de seguridad vial, los padres organizan "brigadas de voluntarios solidarios" para escoltar a los niños en su trayecto al colegio; en la protección ambiental, las comunidades establecen "patrullas ecológicas" que supervisan problemas de contaminación y promueven el reciclaje.
+Esta participación no se limita a votar en elecciones, sino que se extiende a diversos aspectos de la vida diaria.
+Por ejemplo, en la planificación de parques comunitarios, los residentes forman «grupos de adopción de parques», participan en discusiones de diseño, mantenimiento y gestión;
+en la mejora de la seguridad vial, los padres organizan «equipos de voluntarios amorosos», asisten a la seguridad de los escolares al entrar y salir de la escuela;
+en el impulso de la protección ambiental, la comunidad crea «equipos de patrulla ambiental», supervisan problemas de contaminación, promueven el reciclaje de recursos.
 
-El presupuesto participativo es una forma novedosa surgida en los últimos años. Algunos gobiernos locales abren una parte de su presupuesto para que los ciudadanos decidan cómo utilizarlo, mediante un proceso de propuestas, deliberación y votación que permite a los residentes participar directamente en la asignación de recursos públicos. Esta práctica no solo mejora la transparencia en el uso del presupuesto, sino que también fortalece el sentido de pertenencia de los ciudadanos.
+El presupuesto participativo es una nueva forma surgida en años recientes.
+Algunos gobiernos locales abren parte del presupuesto a decisión ciudadana, mediante procesos de propuesta, discusión, votación, permitiendo a los residentes participar directamente en la asignación de recursos públicos.
+Esta práctica no solo eleva la transparencia del uso presupuestario, sino que refuerza el sentido de pertenencia de la ciudadanía.
 
-El desarrollo de la tecnología digital ha abierto nuevas posibilidades para la participación ciudadana. Muchas comunidades han creado plataformas en línea donde los residentes pueden debatir asuntos del barrio, reportar problemas e intercambiar información. Herramientas innovadoras como las aplicaciones "Taipei City e-Point" o "My New Taipei" permiten a los ciudadanos interactuar con el gobierno de manera más ágil y accesible.
+El desarrollo de la tecnología digital también brinda nuevas posibilidades para la participación ciudadana.
+Muchas comunidades han creado plataformas en línea para que los residentes discutan asuntos comunitarios, reflejen problemas, compartan información.
+Los gobiernos de condados y ciudades también han lanzado sus propias aplicaciones; por ejemplo, Taipéi integró la identificación ciudadana y múltiples servicios municipales en «Taipei Pass», permitiendo a la gente interactuar más convenientemente con el gobierno. [^3]
 
-## El desarrollo diverso de las organizaciones comunitarias
+## Desarrollo diverso de las organizaciones comunitarias
 
-Las organizaciones comunitarias de Taiwán presentan un alto grado de diversidad e innovación. Además de las estructuras formales de _li_ y _lin_, diversos tipos de organizaciones civiles despliegan una intensa actividad en los barrios. Las asociaciones de desarrollo comunitario son la forma organizativa más extendida, generalmente orientadas a promover el progreso del barrio y el bienestar de sus residentes mediante actividades y servicios.
+Las organizaciones comunitarias de Taiwán presentan alta diversidad e innovación.
+Además de las organizaciones formales de aldeas y barrios, existen diversos tipos de organizaciones civiles activas en las comunidades.
+La asociación de desarrollo comunitario es la forma organizativa más común; suelen tener como objetivo impulsar el desarrollo comunitario, mejorar el bienestar de los residentes, organizando diversas actividades y servicios.
 
-Las organizaciones de voluntariado constituyen un pilar fundamental del funcionamiento comunitario. Desde voluntarios ambientales y de tráfico hasta voluntarios de bibliotecas y guías culturales, estos servicios no remunerados aportan un cálido sentido de solidaridad humana a las comunidades. La prevalencia del espíritu voluntario refleja el valor tradicional taiwán de "ayuda mutua y cooperación", y encarna también la responsabilidad social del ciudadano contemporáneo.
+Las organizaciones de voluntarios son un pilar importante del funcionamiento comunitario.
+Desde voluntarios ambientales, de tráfico, de biblioteca, guías culturales, estos servidores honorarios inyectan calidez humana a la comunidad.
+El florecimiento del espíritu voluntario refleja el valor tradicional taiwanés de «ayuda mutua y cooperación», y encarna el sentido de responsabilidad social del ciudadano moderno.
 
-Las empresas comunitarias son un modelo emergente en los últimos años. Combinan objetivos sociales con métodos empresariales, y a través de productos o servicios innovadores resuelven problemas del barrio al tiempo que generan ingresos económicos. Por ejemplo, algunas comunidades han mejorado la calidad ambiental y aumentado los ingresos de sus residentes mediante el desarrollo de agricultura ecológica, artesanía local o turismo de proximidad.
+La empresa comunitaria es un nuevo modelo surgido en años recientes.
+Combinan objetivos sociales con métodos comerciales, mediante productos o servicios innovadores, resuelven problemas comunitarios y crean ingresos económicos.
+Por ejemplo, algunas comunidades mediante el desarrollo de agricultura orgánica, artesanías, turismo local, no solo mejoran la calidad ambiental, sino que aumentan los ingresos de los residentes.
 
-Las organizaciones religiosas también desempeñan un papel importante en las comunidades taiwanesas. Templos, iglesias y monasterios budistas suelen funcionar como centros culturales del barrio, ofreciendo no solo consuelo espiritual sino también servicios sociales. Desde la asistencia benéfica y la promoción educativa hasta la transmisión cultural y la protección del medio ambiente, la participación de las organizaciones religiosas aporta recursos y energía adicionales a los asuntos comunitarios.
+Las organizaciones religiosas en las comunidades taiwanas también desempeñan un papel importante.
+Templos, iglesias, monasterios budistas y otros lugares religiosos, a menudo son centros culturales comunitarios, no solo proveen apoyo espiritual, sino que organizan diversas actividades de servicio social.
+Desde ayuda caritativa, promoción educativa, hasta transmisión cultural, protección ambiental, la participación de organizaciones religiosas aporta más recursos y energía a los asuntos comunitarios.
 
 ## Desafíos y dificultades
 
-No obstante, el desarrollo comunitario en Taiwán enfrenta también numerosos desafíos. El envejecimiento demográfico es uno de los problemas más graves. En muchas comunidades, los jóvenes emigran a las ciudades en busca de trabajo, dejando atrás una población predominantemente anciana, lo que conlleva una pérdida de vitalidad y dificultades en la organización. Cómo atraer a las generaciones más jóvenes a la participación comunitaria se ha convertido en un reto compartido por numerosos barrios.
+Sin embargo, el desarrollo comunitario de Taiwán también enfrenta numerosos desafíos.
+El envejecimiento poblacional es uno de los problemas más severos.
+Muchas comunidades ven a sus jóvenes emigrar a las ciudades a trabajar, quedando principalmente personas mayores, lo que lleva a insuficiente vitalidad comunitaria y dificultades en la operación organizativa.
+Cómo atraer a las generaciones jóvenes a participar en asuntos comunitarios se ha convertido en un reto común para muchas comunidades.
 
-La escasez de recursos es otro problema generalizado. Aunque el gobierno ofrece diversos programas de subsidio, la competencia es intensa y las cantidades son limitadas. Muchos proyectos comunitarios creativos no pueden materializarse por falta de financiación. Al mismo tiempo, las organizaciones comunitarias suelen carecer de capacidades profesionales de planificación y gestión, lo que afecta la eficacia en la ejecución de los proyectos.
+La insuficiencia de recursos es otro problema generalizado.
+Aunque el gobierno ofrece diversos planes de subsidio, la competencia es intensa y los montos son limitados.
+Muchos planes comunitarios creativos no pueden realizarse por falta de fondos.
+Al mismo tiempo, las organizaciones comunitarias a menudo carecen de capacidad profesional de planificación y gestión, afectando la efectividad de la ejecución.
 
-El anonimato que acompaña a la urbanización también impacta la cultura comunitaria. En las grandes urbanizaciones residenciales, la interacción entre vecinos es escasa y el sentido de comunidad es débil. Reconstruir los vínculos comunitarios en la vida urbana contemporánea es un desafío que exige pensamiento innovador.
+El anonimato traído por la urbanización también impacta la cultura comunitaria.
+En grandes complejos residenciales, los vecinos carecen de interacción, la conciencia comunitaria es débil.
+Cómo reconstruir los lazos comunitarios en la vida urbana moderna es un desafío que requiere pensamiento innovador.
 
-La politización es otro aspecto que no debe ignorarse. Algunos asuntos comunitarios quedan atrapados en disputas partidistas, lo que afecta la armonía y el desarrollo del barrio. Trascender las divisiones políticas y centrarse en el interés común de los residentes pone a prueba la sabiduría de los líderes comunitarios.
+El problema de la politización tampoco puede ignorarse.
+Algunos asuntos comunitarios se ven envueltos en disputas políticas partidistas, afectando la armonía y el desarrollo comunitario.
+Cómo trascender la oposición política, enfocarse en los intereses comunes de los residentes, pone a prueba la sabiduría de los líderes comunitarios.
 
-## Prácticas innovadoras y perspectivas de futuro
+## Prácticas innovadoras y perspectivas futuras
 
-Ante estos desafíos, muchas comunidades han comenzado a experimentar enfoques innovadores. La cooperación intergeneracional es una tendencia destacada. Algunos barrios promueven el intercambio entre distintas generaciones mediante fórmulas como "aprendizaje compartido entre mayores y pequeños" o "talleres intergeneracionales". Los mayores comparten experiencia y sabiduría, mientras que los jóvenes aportan creatividad y energía, configurando una relación de complementariedad positiva.
+Ante estos desafíos, muchas comunidades comienzan a ensayar enfoques innovadores.
+La cooperación intergeneracional es una de las tendencias importantes.
+Algunas comunidades mediante «aprendizaje compartido entre mayores y jóvenes», «talleres intergeneracionales» y otras formas, promueven el intercambio y cooperación entre diferentes grupos etarios.
+Los mayores comparten experiencia y sabiduría, los jóvenes aportan creatividad y vitalidad, formando una relación complementaria virtuosa.
 
-La aplicación tecnológica abre también nuevas posibilidades para el desarrollo comunitario. El concepto de "comunidad inteligente" gana terreno progresivamente, utilizando tecnologías como el internet de las cosas, el análisis de macrodatos y la inteligencia artificial para mejorar la eficiencia y la calidad de la gestión comunitaria. Por ejemplo, algunas comunidades han implementado sistemas de seguridad inteligente, equipos de monitoreo ambiental y plataformas de servicios en línea, ofreciendo a los residentes un entorno de vida más cómodo y seguro.
+La aplicación tecnológica también brinda nuevas posibilidades al desarrollo comunitario.
+El concepto de comunidad inteligente surge gradualmente; mediante internet de las cosas, macrodatos, inteligencia artificial y otras tecnologías, se eleva la eficiencia y calidad de la gestión comunitaria.
+Por ejemplo, algunas comunidades han instalado sistemas inteligentes de seguridad, equipos de monitoreo ambiental, plataformas de servicios en línea, permitiendo a los residentes disfrutar de un entorno de vida más conveniente y seguro.
 
-El modelo de empresa social también se está aplicando en el ámbito comunitario. Algunas comunidades resuelven problemas sociales y, al mismo tiempo, generan modelos de operación sostenibles mediante el desarrollo de industrias locales o la prestación de servicios innovadores. Este enfoque de "innovación social" ofrece un nuevo horizonte de posibilidades para el desarrollo comunitario.
+El modelo de empresa social también se aplica en las comunidades.
+Algunas comunidades mediante el desarrollo de industrias características, provisión de servicios innovadores, resuelven problemas sociales y crean modelos operativos sostenibles.
+Este pensamiento de «innovación social» proporciona nuevo espacio de imaginación para el desarrollo comunitario.
 
-El intercambio y el aprendizaje internacionales se han convertido asimismo en una tendencia. Numerosas organizaciones comunitarias taiwanesas establecen relaciones de cooperación con comunidades de otros países, compartiendo experiencias y prácticas. Esta colaboración transnacional no solo amplía perspectivas, sino que también aporta nuevas ideas para abordar problemas comunes.
+El intercambio y aprendizaje internacional también se vuelven tendencia.
+Muchas organizaciones comunitarias taiwanas establecen relaciones de cooperación con comunidades extranjeras, comparten experiencias, intercambian prácticas.
+Esta cooperación transfronteriza no solo amplía horizontes, sino que brinda nuevas ideas para resolver problemas comunes.
 
-## El valor profundo de la cultura comunitaria
+## Valor profundo de la cultura comunitaria
 
-La cultura comunitaria de Taiwán posee un valor que trasciende con mucho el funcionamiento organizativo superficial y la celebración de actividades. Encarna una idea social fundamental: la democracia no es solo un sistema político, sino una forma de vida. En la comunidad, las personas aprenden a escuchar voces diferentes, a respetar perspectivas diversas y a buscar soluciones compartidas. Este cultivo de la "civiltà democrática" sienta bases sólidas para el desarrollo democrático de toda la sociedad.
+La cultura comunitaria de Taiwán tiene un valor que supera la operación organizativa y la realización de actividades en la superficie.
+Encarna una importante idea social: la democracia no es solo un sistema político, sino un modo de vida.
+En la comunidad, la gente aprende a escuchar voces diferentes, respetar perspectivas diversas, buscar soluciones comunes.
+El cultivo de esta «alfabetización democrática» sienta bases sólidas para el desarrollo democrático de toda la sociedad.
 
-La cultura comunitaria manifiesta también el poder de la "sociedad civil". Más allá del gobierno y del mercado, la sociedad civil responde a numerosas necesidades sociales mediante la autoorganización y la autogestión. La vitalidad de este "tercer sector" no solo complementa las carencias de los servicios gubernamentales, sino que también refleja la subjetividad y la capacidad de acción de los ciudadanos.
+La cultura comunitaria también muestra la fuerza de la «sociedad civil».
+Fuera del gobierno y el mercado, la sociedad civil mediante la autoorganización y autogobernanza, responde a muchas necesidades sociales.
+La actividad de este «tercer sector» no solo suple las carencias de los servicios gubernamentales, sino que encarna la subjetividad y capacidad de agencia de la ciudadanía.
 
-Más aún, la cultura comunitaria cumple una función de "resiliencia social". Ante desastres naturales, crisis económicas o conmociones sociales, las redes comunitarias estrechas suelen constituir el apoyo más eficaz. La atención mutua entre vecinos, la movilización rápida de las organizaciones comunitarias y la asignación flexible de recursos locales son expresiones de una capacidad de recuperación social construida desde la base.
+Lo más importante, la cultura comunitaria porta la función de «resiliencia social».
+Frente a desastres naturales y humanos, cambios económicos, choques sociales, las redes comunitarias estrechas suelen ser la fuerza de apoyo más efectiva.
+El cuidado mutuo entre vecinos, la movilización rápida de organizaciones comunitarias, la asignación flexible de recursos locales, todo esto encarna la capacidad de recuperación social desde abajo.
 
-De cara al futuro, la cultura comunitaria de Taiwán seguirá evolucionando. Nuevos desafíos exigirán nuevas respuestas, y nuevas generaciones traerán nuevas visiones. Pero, independientemente de los cambios, ese espíritu central de "vivir juntos, cuidarse mutuamente y actuar colectivamente" seguirá siendo el activo más preciado de la sociedad taiwanesa.
+Mirando al futuro, la cultura comunitaria de Taiwán continuará evolucionando.
+Nuevos desafíos requieren nuevas respuestas, nuevas generaciones traerán nuevas imaginaciones.
+Pero sin importar cómo cambie, ese espíritu central de «vivir juntos, cuidarse mutuamente, actuar colectivamente» será siempre el activo más preciado de la sociedad taiwanesa.
 
-En esta era de transformación acelerada, la comunidad nos recuerda la esencia de la vida: el ser humano es un animal social, la felicidad necesita ser compartida y los problemas requieren soluciones cooperativas. Cuando en el centro comunitario debatimos sobre la jornada de limpieza del próximo mes, cuando en el aula de la universidad comunitaria adquirimos nuevos conocimientos, cuando en las callejuelas del barrio nos despedimos con un "buenas noches", estamos en realidad realizando el ideal más antiguo y más moderno de la humanidad: construir una comunidad mejor.
+En esta era de rápido cambio, la comunidad nos recuerda la esencia de la vida: el ser humano es un animal social, la felicidad necesita compartirse, los problemas necesitan resolverse cooperando.
+Cuando discutimos la limpieza del mes próximo en el centro de actividades comunitario, aprendemos nuevos conocimientos en el aula de la universidad comunitaria, nos deseamos buenas noches en los callejones vecinales, en realidad estamos practicando el ideal más antiguo y a la vez más moderno de la humanidad: construir una comunidad común más hermosa.
 
-## Epílogo: ver el futuro de Taiwán desde el _li_
+## Conclusión: ver el futuro de Taiwán en el «barrio»
 
-La cultura del _li_ taiwán es un experimento democrático en curso. Transforma deberes cívicos abstractos en cuidados concretos entre vecinos, y permite que las frías políticas gubernamentales sean traducidas y llevadas a la práctica con el calor de la comunidad. En esta era de fragmentación acelerada, seguimos necesitando esa calle donde saludarnos por la mañana, ese centro comunitario donde reunirse para discutir sobre un árbol centenario o una cuneta de desagüe. Porque allí no somos solo votantes, sino testigos de la vida de los demás.
+La cultura de barrio de Taiwán es un experimento democrático en curso.
+Convierte el deber cívico abstracto en concreta preocupación vecinal, hace que las frías políticas gubernamentales se traduzcan e implementen en el entusiasmo comunitario.
+En esta era de rápida fragmentación, seguimos necesitando ese callejón donde podamos saludarnos con «buenos días», seguimos necesitando ese centro de actividades donde nos reunimos a discutir por un árbol viejo, una zanja de drenaje.
+Porque allí no somos solo electores, sino testigos de la vida del otro.
 
 ## Referencias
 
-1. Ministerio de Cultura de la República de China (2022). «Plan de desarrollo comunitario y cultural de aldeas (2022-2027)». Recuperado de: https://www.moc.gov.tw/cp.aspx?n=128
-2. Taiwan Community Network (2021). «No es solo una clase de pasatiempos: la acción social de las universidades comunitarias». Recuperado de: https://communitytaiwan.moc.gov.tw/Item/Detail/不只是才藝班，社區大學的社會行動
-3. Departamento de Asuntos Civiles del Gobierno de la Ciudad de Taipéi (2024). «Derechos y obligaciones del jefe del _li_». Recuperado de: https://ca.gov.taipei/cp.aspx?n=3E43CD1A09FE5FA9
-4. Ministerio del Interior (2023). «Ley de Gobierno Local y sistema de _li_». Recuperado de: https://www.moi.gov.tw/
-5. Comunidad de editores de Wikipedia (2025). «Desarrollo integral de la comunidad». _Wikipedia_. Recuperado de: https://zh.wikipedia.org/zh-tw/社區總體營造
+1. Ministerio de Cultura de la República de China (2022). «Plan de construcción comunitaria y desarrollo cultural de aldeas (2022-2027)». Disponible en: https://www.moc.gov.tw/cp.aspx?n=128
+2. Taiwan Community Network (2021). «No solo clases de talento, la acción social de la universidad comunitaria». Disponible en: https://communitytaiwan.moc.gov.tw/Item/Detail/不只是才藝班, la acción social de la universidad comunitaria
+3. Departamento de Asuntos Civiles del Gobierno de la Ciudad de Taipéi (2024). «Capítulo de derechos y obligaciones del jefe de barrio». Disponible en: https://ca.gov.taipei/cp.aspx?n=3E43CD1A09FE5FA9
+4. Base de Datos Nacional de Leyes y Regulaciones. «Ley del Sistema Local» Artículo 59. Disponible en: https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0040003&flno=59
+5. Editores de Wikipedia (2025). «Construcción integral comunitaria». _Wikipedia_. Disponible en: https://zh.wikipedia.org/zh-tw/社區總體營造
+
+[^1]: [Ley del Sistema Local Artículo 59](https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0040003&flno=59) — Base de Datos Nacional de Leyes y Regulaciones: El jefe de aldea (barrio) recibe el mando y supervisión del alcalde de municipio (ciudad, distrito), gestiona los asuntos públicos de la aldea (barrio) y los asuntos encomendados, es elegido por los aldeanos (vecinos) según la ley, mandato de cuatro años, reelección ilimitada.
+
+[^2]: [Capítulo de derechos y obligaciones del jefe de barrio](https://ca.gov.taipei/cp.aspx?n=3E43CD1A09FE5FA9) — Departamento de Asuntos Civiles del Gobierno de la Ciudad de Taipéi: El jefe de vecindario es honorario, seleccionado por el jefe de barrio entre los residentes adultos de ese vecindario y reportado al jefe de distrito para su nombramiento; ayuda para gastos de 2.500 NT$ por persona al mes, además de seguro de accidentes y subsidio para actividades de auto-mejora.
+
+[^3]: [Qué es Taipei Pass](https://id.taipei/tpcd/about/what-is-taipeipass) — Gobierno de la Ciudad de Taipéi: Integra la identificación personal y múltiples servicios municipales en «Taipei Pass», e intégralo en la APP.
