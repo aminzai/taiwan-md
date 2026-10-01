@@ -1,14 +1,14 @@
 ---
 title: 'Les aliments fermentés et la culture de conservation à Taïwan'
-description: 'De le tofu odorant au *doufuru*, exploration des traditions uniques de fermentation et de conservation à Taïwan'
+description: 'De la tofu stinky (chòu dòufu) au *dòufǔrǔ*, une exploration des traditions uniques de fermentation et de conservation à Taïwan'
 date: 2026-03-18
 category: 'Food'
 tags:
   [
     'aliments fermentés',
     'culture de conservation',
-    'tofu odorant',
-    'doufuru',
+    'chòu dòufu',
+    'dòufǔrǔ',
     'kimchi',
     'techniques traditionnelles',
     'microbiologie',
@@ -21,117 +21,87 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 image: '/article-images/food/xizhen-stinky-tofu-fermented-2019.webp'
-imageAlt: 'Tofu odorant de Xizhen'
+imageAlt: 'Chòu dòufu (tofu stinky) de Xizhen'
 imageCredit: 'Rochi / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E8%A5%BF%E9%95%87%E8%87%AD%E8%B1%86%E8%85%90.jpg'
 translatedFrom: 'Food/台灣發酵食品與醃製文化.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:5835dab8860b5f83'
-sourceBodyHash: 'sha256:e507de3f31c3d46a'
-translatedAt: '2026-09-23T22:11:52+08:00'
+sourceCommitSha: 'ef4290a8c'
+sourceContentHash: 'sha256:23e913cfb87f7989'
+sourceBodyHash: 'sha256:ce4cb8f9d8b227c1'
+translatedAt: '2026-10-02T00:52:48+08:00'
 ---
 
 # Les aliments fermentés et la culture de conservation à Taïwan
 
 ## Aperçu en 30 secondes
 
-La culture des aliments fermentés et conservés à Taïwan est un amalgame de techniques Minnan, Hakka, autochtones et japonaises, qui a développé un système aromatique unique. Du tofu odorant trouvé dans les ruelles aux _doufuru_ préparé à la maison, en passant par les condiments et le vin de fermentation, ces aliments apparemment simples cachent des principes scientifiques profonds et une transmission culturelle riche. L'industrie de la fermentation à Taïwan génère un chiffre d'affaires annuel dépassant 35 milliards de dollars [^3], constituant non seulement un pilier de l'industrie alimentaire, mais aussi un pont culturel reliant les mémoires ethniques au quotidien moderne.
+La culture des aliments fermentés et conservés à Taïwan est une fusion des techniques Minnan, Hakka, autochtones et japonaises, développant un système aromatique unique. Des _chòu dòufu_ (tofu stinky) trouvés dans les ruelles aux _dòufǔrǔ_ consommés au quotidien, en passant par les condiments et le vin de fermentation, ces aliments apparemment simples cachent des principes scientifiques profonds et une transmission culturelle riche. Les aliments fermentés sont à la fois un élément de l'industrie alimentaire et un pont culturel reliant la mémoire des communautés à la vie moderne.
 
-**Mots-clés** : tofu odorant, _doufuru_, condiments, techniques de fermentation, microbiologie, artisanat traditionnel
+**Mots-clés** : _chòu dòufu_, _dòufǔrǔ_, condiments, techniques de fermentation, microbiologie, artisanat traditionnel
 
 ## Pourquoi est-ce important ?
 
-La culture de la fermentation et de la conservation à Taïwan revêt une signification multiple. Elle préserve le savoir millénaire de l'application microbienne, agissant comme un fossile vivant des biotechnologies anciennes, et elle sert de support mémoriel aux modes de vie et aux philosophies alimentaires des différentes communautés. D'un point de vue industriel, le secteur de la fermentation soutient une chaîne de valeur complète, allant de la production artisanale à la fabrication moderne. Les aliments fermentés contiennent des probiotiques et de la vitamine B12, offrant une valeur claire pour la santé contemporaine. Le goût unique de Taïwan est également devenu l'un des symboles culturels internationaux reconnaissant Taïwan.
+La culture de la fermentation et de la conservation à Taïwan revêt une signification multiple. Elle préserve le savoir millénaire de l'application microbienne, agissant comme un fossile vivant des biotechnologies anciennes, et elle sert de support mémoriel aux modes de vie et aux philosophies alimentaires des communautés. D'un point de vue industriel, l'industrie de la fermentation soutient une chaîne de valeur complète, allant du travail artisanal domestique à la production modernisée. Les aliments fermentés contiennent des probiotiques et de la vitamine B12, ce qui représente une valeur claire pour la santé moderne. Le goût unique de Taïwan est également devenu l'un des symboles culturels reconnus internationalement de Taïwan.
 
-## Tofu odorant : le produit emblématique de la fermentation à Taïwan
+## Chòu dòufu : le chef-d'œuvre fermenté de Taïwan
 
 ### Origines historiques et adaptation locale
 
-Bien que le tofu odorant provienne de Chine, il a subi un processus d'adaptation local unique à Taïwan [^1] :
+Le _chòu dòufu_ (tofu stinky) provient de Chine[^4] et a subi un processus d'adaptation local unique à Taïwan :
 
 **Parcours d'introduction** :
 
-- Introduction avec les migrants Minnan aux XVIIe et XVIIIe siècles.
-- Développement d'un goût particulier dans le climat subtropical de Taïwan.
-- Devenu au cours du dernier demi-siècle un élément central de la culture des marchés nocturnes.
+- Autour de 1949, lors du déplacement du gouvernement sur l'île, les cuisines des différentes provinces se sont réunies, et le _chòu dòufu_ est arrivé avec eux[^1]
+- Il a développé un goût particulier dans le climat subtropical de Taïwan.
+- Par la suite, il s'est popularisé dans les marchés nocturnes et auprès des vendeurs de rue.
 
 **Caractéristiques taïwanaises** :
 
-- Un degré de fermentation modéré, odorant à l'extérieur et parfumé à l'intérieur.
-- Une texture relativement douce, adaptée à une large acceptation populaire.
-- Associé à des assaisonnements locaux pour développer une sauce d'accompagnement unique.
+- Un degré de fermentation modéré, avec une odeur forte à l'extérieur et un parfum en intérieur.
+- Une texture relativement douce, ce qui le rend acceptable pour le grand public.
+- Il est associé à des assaisonnements locaux, développant une sauce d'accompagnement unique.
 
 ### Procédé de fabrication et principes scientifiques
 
-**Fabrication traditionnelle avec le bouillon odorant (_choulu shui_)** :
-
-**Recette de base** :
-
-Le bouillon odorant est basé sur des légumes frais (chou, bambou, épinard, etc.), auquel on ajoute du résidu de tofu ou du lait de soja, de la farine de riz ou du saké, le tout assaisonné avec de l'eau salée pour permettre aux souches microbiennes présentes dans l'environnement naturel d'inoculer et de fermenter.
-
-**Processus de fermentation** :
-
-1. **Fermentation initiale (1-2 mois)** : Les légumes commencent à se décomposer, créant une flore bactérienne de base.
-2. **Fermentation approfondie (3-6 mois)** : Un microbiote complexe s'établit, produisant des saveurs spécifiques.
-3. **Phase de maturation (plus de 8 mois)** : Atteinte d'un équilibre gustatif optimal, prêt à être utilisé.
+**Fabrication traditionnelle du bouillon _chòu lǔshuǐ_** : L'ancienne méthode utilise plus de 30 légumes tels que les amarante sauvages, les pousses de bambou, le chou chinois, la courge, le gingembre et le poivre du Sichuan, qui sont salés pour permettre au jus de fermenter naturellement avec une odeur forte. Les détails des recettes varient d'une famille à l'autre. Le bouillon _chòu lǔshuǐ_ produit lors de la première fabrication doit reposer pendant plus de huit mois avant d'être utilisé[^1].
 
 **Science microbienne** :
 
 - **Décomposition des protéines** : Les bactéries décomposent les protéines en acides aminés.
-- **Formation de composés soufrés** : L'hydrogène sulfuré et l'ammoniac génèrent une odeur caractéristique.
-- **Composés aromatiques** : La formation d'esters et d'aldéhydes complexes crée des couches de saveurs.
-
-### Variations régionales et écoles
-
-**Goût du Nord** :
-
-- Le bouillon odorant est plus doux.
-- La texture tend vers la fraîcheur.
-- On trouve souvent des préparations sautées ou cuites à la vapeur.
-
-**Goût du Centre** :
-
-- L'arôme de fermentation est plus prononcé.
-- La consistance est plus ferme.
-- Servi avec une sauce sucrée et épicée après friture.
-
-**Goût du Sud** :
-
-- L'odeur est relativement douce.
-- On préfère les plats en bouillon.
-- Accompagné de kimchi ou d'oignons verts.
+- **Formation de composés soufrés** : Les micro-organismes décomposent ensuite les acides aminés soufrés issus de la protéine, produisant des gaz odorants comme l'hydrogène sulfuré et l'ammoniac[^2].
+- **Composés aromatiques** : La formation d'esters et d'aldéhydes complexes crée une couche de saveur.
 
 ### Développement industriel moderne
 
 **Production standardisée** :
 
-- Techniques d'isolation et de culture des souches microbiennes.
+- Techniques d'isolement et de culture de souches microbiennes.
 - Systèmes de contrôle des conditions de fermentation.
 - Établissement de normes de contrôle qualité.
 
 **Amélioration de la sécurité alimentaire** :
 
-- Introduction du système HACCP [^5].
+- Les processus sont réglementés par la Loi sur la gestion de la sécurité sanitaire des aliments[^3].
 - Techniques de test microbiologique.
 - Améliorations des techniques d'emballage et de conservation.
 
-## Doufuru : le classique de la fermentation domestique
+## Dòufǔrǔ : le classique de la fermentation domestique
 
-### Technologie de fabrication et caractéristiques
+### Technique de fabrication et caractéristiques
 
 **Méthode traditionnelle** :
 
-1. **Préparation du tofu** : Utilisation de vieux tofus, coupés en petits morceaux.
-2. **Inoculation** : Inoculation naturelle ou artificielle avec des moisissures.
-3. **Culture fongique** : Contrôle de la température et de l'humidité pour développer un mycélium blanc.
-4. **Salage et maturation** : Marinade par sel, alcool et épices.
+1. **Préparation du tofu** : Utilisation de vieux tofu, coupé en petits morceaux.
+2. **Inoculation de la fermentation** : Inoculation naturelle ou artificielle avec des moisissures.
+3. **Culture de moisissure** : Contrôle de l'humidité et de la température pour développer un mycélium blanc.
+4. **Salage et maturation** : Marinade avec du sel, de l'alcool et des épices.
 
 **Variations de saveur** :
 
-- **Tofu blanc (_bai fu ru_)** : Léger et doux, adapté à l'assaisonnement.
-- **Tofu rouge (_hong fu ru_)** : Enrichi en _huangqi_ (curcuma/miso), couleur vive.
-- **Tofu épicé au piment (_ma la fu ru_)** : Ajout de piments et de poivre du Sichuan, pour un goût relevé.
+- **_Bái fǔrǔ_** (blanc) : Léger et doux, adapté à l'assaisonnement.
+- **_Hóng fǔrǔ_** (rouge) : Ajout de _hóngqū_ (levure rouge), couleur vive.
+- **_Málà fǔrǔ_** (épicé/piquant) : Ajout de piment et de poivre du Sichuan, pour un goût stimulant.
 
 ### Valeur nutritionnelle et bénéfices pour la santé
 
@@ -144,105 +114,95 @@ Le bouillon odorant est basé sur des légumes frais (chou, bambou, épinard, et
 **Fonctions sanitaires** :
 
 - Favorise l'équilibre du microbiote intestinal.
-- Aide à réduire les niveaux de cholestérol.
-- Renforce la fonction immunitaire.
 
 ## Culture des condiments : la sagesse de la conservation domestique
 
 ### Types de condiments courants
 
-Le kimchi de chou est le condiment domestique le plus répandu à Taïwan. Après avoir été salé et déshydraté, il est assaisonné pour devenir croquant et légèrement acidulé, ce qui en fait un choix privilégié comme accompagnement léger pendant l'été. Les radis séchés sont séchés au soleil puis conservés avec du sel, donnant une saveur salée et sucrée, souvent utilisée dans les plats sautés. Les cornichons marinés sont assaisonnés de sucre et de vinaigre, offrant un goût croquant et doux, utilisé comme amuse-bouche ou en garniture de hamburger. Le _caipuo_ (radis séché) est obtenu par salage au soleil du radis blanc ; plus il vieillit, plus son arôme se développe, ce qui fait du _caipuo dan_ (omelette au radis séché) et des nouilles sautées un accompagnement indispensable.
+Les condiments typiques des foyers à Taïwan incluent les choux conservés, qui sont déshydratés et assaisonnés pour être croquants et légèrement acides, parfaits comme accompagnement léger en été. Les cornichons marinés avec du sucre et du vinaigre sont croquants et sucrés, utilisés à la fois comme amuse-bouche et comme garniture de hamburger. Le _càipú_ (radis séché), appelé _càipú_ à Taïwan, est le radis blanc salé puis séché au soleil ; il est salé, légèrement sucré, et devient plus aromatique en vieillissant, jouant un rôle indispensable dans les œufs de _càipú_ et les vermicelles sautés.
 
-### Principes de la technique de conservation
+### Principes techniques de conservation
 
-L'action osmotique du sel réduit l'activité de l'eau dans les ingrédients, inhibant ainsi la croissance des bactéries nuisibles, ce qui est le mécanisme central de la conservation. Le goût provient de multiples réactions chimiques : la décomposition protéique par les enzymes produit des acides aminés, la fermentation lactique apporte l'acidité, et la réaction de Maillard génère des arômes caractéristiques lors de la cuisson ou du vieillissement.
+L'action osmotique du sel réduit l'activité de l'eau des ingrédients, inhibant ainsi la croissance des bactéries nocives, ce qui est le mécanisme central de la conservation par salage. Le goût provient de multiples réactions chimiques : la décomposition protéique enzymatique produit des acides aminés, la fermentation lactique apporte l'acidité, et la réaction de Maillard génère les arômes caractéristiques lors de la cuisson ou du vieillissement.
 
 ## Culture de la fermentation alcoolisée
 
-### Alcools traditionnels à Taïwan
+### Les alcools traditionnels de Taïwan
 
-Le vin Shaoxing (紹興酒), produit par les brasseries de Puli, est le plus représentatif, utilisant l'eau de source naturelle de Puli pour un goût riche et complexe. Le _gaoliangjiu_ (金門高粱酒) de Kinmen utilise une fermentation solide traditionnelle, offrant un arôme intense et une forte teneur en alcool, ce qui en fait l'alcool le plus connu à Taïwan. Le saké produit par la Taiwan Liquor Company est léger et est l'alcool d'assaisonnement le plus couramment utilisé dans la cuisine taïwanaise.
+Le _shàoqīngjiǔ_ (vin Shaoxing) produit dans les brasseries de Puli est le plus représentatif, utilisant l'eau de source naturelle de Puli pour un goût riche et complexe. Le _gāoliangjiǔ_ (alcool de millet) de Kinmen utilise une fermentation solide traditionnelle, avec un parfum intense et une forte teneur en alcool, ce qui en fait l'une des boissons alcoolisées les plus connues de Taïwan. Le vin de riz produit par la Taiwan Liquor Company est léger et est le type d'alcool le plus couramment utilisé pour la cuisine taïwanaise.
 
-### Alcools traditionnels autochtones
+### Les alcools traditionnels autochtones
 
-Le _milletjiu_ (小米酒) possède une tradition de fabrication chez les différents peuples autochtones de Taïwan, avec une teneur en alcool d'environ 15 à 20 %, et est un incontournable des cérémonies et fêtes. Le saké de riz gluant (_nuomi jiu_) du peuple Amis a un goût doux et aromatique, jouant un rôle important dans les rituels culturels des membres de cette communauté.
+Le _mǐjiǔ_ (vin de millet) est une tradition de fabrication dans la plupart des peuples autochtones de Taïwan. La distillation pure traditionnelle a une faible teneur en alcool et est une boisson indispensable lors des cérémonies et fêtes. Le vin de riz gluant (_nuòmǐ jiǔ_) du peuple Amis, doux et aromatique, joue un rôle important dans les rituels culturels de la communauté.
 
 ## Culture de conservation Hakka
 
 ### Produits conservés caractéristiques
 
-Parmi les produits conservés Hakka, le _fucai_ (福菜) est issu de la fermentation prolongée du chou chinois (_jiécài_), avec un goût aigrelet unique ; le radis séché en conserve est également obtenu par dessiccation et salage, offrant une saveur riche et salée, élément essentiel du porc conservé au radis. Le porc salé-séché est préparé par salaison et séchage, ce qui lui confère une longue durée de conservation et un goût profond.
+Parmi les produits conservés des Hakka, le _fúcài_ est issu de la fermentation prolongée du chou chinois, avec une saveur aigre distinctive ; le chou séché au pruneau (_méi gān cài_) est un chou séché et salé, riche en saveur, qui est l'ingrédient essentiel des rôtis de _méi gān_. La viande de porc salée (_xián zhūròu_) est préparée par salage et séchage, ce qui lui confère une longue durée de conservation et un goût riche.
 
-### Caractéristiques techniques de la conservation Hakka
+### Caractéristiques techniques de la conservation
 
-La conservation Hakka se déroule généralement pendant les basses températures de l'hiver, en utilisant pleinement les récoltes agricoles. L'environnement à haute teneur en sel offre une action antibactérienne naturelle, éliminant le besoin de conservateurs chimiques, ce qui constitue la logique centrale de cette technique traditionnelle.
+La conservation Hakka a généralement lieu pendant les basses températures de l'hiver, exploitant pleinement les récoltes agricoles. L'environnement à haute teneur en sel offre une action antibactérienne naturelle, éliminant le besoin de conservateurs chimiques, ce qui est le principe fondamental de cette technique de préservation traditionnelle.
 
 ## Développement de l'industrie moderne de la fermentation
 
-### Échelle industrielle et caractéristiques
+### Échelle et caractéristiques industrielles
 
-L'industrie de la fermentation à Taïwan génère plus de 35 milliards de dollars par an, employant environ 20 000 personnes, avec des exportations en augmentation constante. Au niveau technologique, l'introduction de l'amélioration des souches microbiennes, des équipements de fermentation automatisés et des systèmes de contrôle qualité a permis une standardisation progressive des techniques traditionnelles. La gamme de produits s'est étendue des condiments traditionnels aux aliments fermentés fonctionnels et aux produits de santé, avec le développement d'emballages internationalisés pour pénétrer les marchés étrangers.
+Au niveau technologique, l'introduction de l'amélioration des souches microbiennes, des équipements de fermentation automatisés et des systèmes de contrôle qualité a progressivement standardisé les techniques traditionnelles. La gamme de produits s'est étendue des condiments traditionnels aux aliments fermentés fonctionnels et aux compléments alimentaires, avec le développement d'emballages internationalisés pour pénétrer les marchés étrangers.
 
 ### Contrôle de la sécurité alimentaire
 
-Les aliments fermentés sont réglementés par la Loi sur la gestion de la sécurité alimentaire et les normes sanitaires connexes ; les fabricants doivent se conformer aux normes de test microbiologique. Les techniques de test couvrent le dépistage rapide des pathogènes, l'analyse du contenu en métaux lourds et le contrôle des additifs, assurant une surveillance sanitaire de la production à la mise en rayon.
+Les aliments fermentés sont réglementés par la Loi sur la gestion de la sécurité sanitaire des aliments et les normes sanitaires connexes ; les entreprises doivent se conformer aux normes de test microbiologique. Les techniques de test couvrent le dépistage rapide des pathogènes, l'analyse du contenu en métaux lourds et le contrôle des additifs, assurant une surveillance de la sécurité alimentaire depuis la production jusqu'à la mise sur le marché.
 
-## Valeur santé et recherche scientifique
+## Valeur sanitaire et recherche scientifique
 
 ### Valeur nutritionnelle
 
-Les probiotiques des aliments fermentés aident à améliorer l'équilibre du microbiote intestinal, renforçant la digestion, l'absorption et la fonction immunitaire. Le processus de fermentation génère également naturellement de la vitamine B12 et augmente la biodisponibilité des vitamines du groupe B et de la vitamine K2. De plus, les polyphénols produits par la fermentation ont un effet antioxydant, aidant à ralentir le vieillissement cellulaire.
+Les probiotiques des aliments fermentés aident à améliorer l'équilibre du microbiote intestinal, renforçant la digestion, l'absorption et les fonctions immunitaires. Le processus de fermentation peut également produire naturellement de la vitamine B12 et augmenter la biodisponibilité des vitamines B et K2. De plus, les polyphénols produits par la fermentation ont un effet antioxydant, aidant à ralentir le vieillissement cellulaire.
 
 ### Recherche scientifique moderne
 
-Le milieu universitaire mène une analyse systématique des souches microbiennes traditionnelles de Taïwan pour étudier leurs caractéristiques fonctionnelles et tenter de développer de nouvelles applications microbiennes. La recherche en nutrition se concentre sur l'analyse des composants fonctionnels des aliments fermentés, évaluant les bénéfices pour la santé de manière empirique et fournissant une base scientifique à la culture alimentaire traditionnelle.
+Le milieu universitaire effectue une analyse systématique des souches microbiennes traditionnelles de Taïwan pour étudier leurs caractéristiques fonctionnelles et tenter de développer de nouvelles applications de souches. La recherche nutritionnelle se concentre sur l'analyse des composants fonctionnels des aliments fermentés, évaluant les bénéfices pour la santé de manière empirique, fournissant ainsi une base scientifique à la culture alimentaire traditionnelle.
 
 ## Transmission culturelle et innovation
 
 ### Préservation du savoir-faire traditionnel
 
-La transmission par le maître est la principale méthode de continuité des techniques de fermentation à Taïwan. Les générations plus âgées transmettent leur savoir par tradition orale et enseignement pratique aux jeunes. Ces dernières années, des travaux systématiques tels que l'enregistrement vidéo, la formalisation des recettes écrites et les enquêtes sur les techniques locales ont fourni un support plus solide au savoir immatériel.
+La transmission par le maître est la principale méthode de continuité des techniques de fermentation à Taïwan. Les générations plus âgées transmettent leur savoir par la tradition orale et l'enseignement pratique aux jeunes. Ces dernières années, des travaux systématiques tels que l'enregistrement vidéo, la formalisation des recettes écrites et les enquêtes sur les techniques locales ont fourni un support plus solide au savoir immatériel.
 
 ### Développement innovant moderne
 
-Les aliments fermentés modernes sont continuellement améliorés en termes de goût, d'emballage et de techniques de conservation pour répondre aux besoins différents des consommateurs. Sur le plan du marketing, on observe une triple approche : la combinaison avec les produits culturels, l'expérience dans les usines touristiques et la vente sur les plateformes e-commerce. En matière de promotion internationale, les entreprises participent à des foires alimentaires internationales, utilisant la technologie de fermentation taïwanaise et la diplomatie gastronomique comme points d'entrée pour développer les marchés étrangers.
+Les aliments fermentés modernes sont continuellement améliorés en termes de goût, d'emballage et de technologie de conservation pour répondre aux besoins différents des consommateurs. En matière de marketing, on combine les produits culturels, l'expérience dans les usines touristiques et la vente sur les plateformes e-commerce ; à l'échelle internationale, les entreprises participent à des foires alimentaires internationales, utilisant la technologie de fermentation taïwanaise et la diplomatie gastronomique comme points d'entrée pour développer les marchés étrangers.
 
 ## Défis rencontrés et perspectives d'avenir
 
-### Défis contemporains
+### Défis modernes
 
-Les réglementations sanitaires deviennent de plus en plus strictes, les coûts de test augmentent chaque année, et la conscience des consommateurs augmente, exerçant une pression considérable sur les petits producteurs traditionnels. La concurrence des produits importés et l'apparition de substituts réduisent davantage les marges bénéficiaires. En matière de transmission, le manque d'intérêt des jeunes pour les techniques de fermentation traditionnelles est notable, en particulier dans l'artisanat domestique où le vieillissement du personnel est un problème majeur.
+Les réglementations sanitaires deviennent de plus en plus strictes, les coûts de test augmentent chaque année, et la conscience des consommateurs augmente, exerçant une pression considérable sur les petits producteurs traditionnels. La concurrence des produits importés et l'apparition de substituts réduisent davantage les marges bénéficiaires. En matière de transmission, le manque d'intérêt des jeunes pour les techniques de fermentation traditionnelles est notable, et le vieillissement du personnel dans l'artisanat domestique pose un problème particulier.
 
-### Directions futures
+### Directions de développement futur
 
-L'amélioration technologique inclut l'introduction d'équipements de contrôle de fermentation de précision, de systèmes de gestion de production intelligents et de technologies de traçabilité qualité. L'expansion du marché se concentre sur le développement d'aliments fonctionnels et de produits à haute valeur ajoutée, tout en s'étendant aux marchés internationaux. La promotion culturelle passe par l'éducation alimentaire, les usines touristiques et les activités expérientielles pour attirer la prochaine génération à reconnaître la valeur de la culture de la fermentation.
+Les améliorations technologiques incluent l'introduction d'équipements de contrôle de fermentation de précision, de systèmes de gestion de production intelligents et de technologies de traçabilité qualité. L'expansion du marché se concentre sur le développement d'aliments fonctionnels et de produits à haute valeur ajoutée, tout en s'étendant aux marchés internationaux. La promotion culturelle passe par l'éducation alimentaire, les usines touristiques et les activités expérientielles pour attirer la jeune génération à reconnaître la valeur de la culture de la fermentation.
 
 ## Conclusion
 
-Les aliments fermentés et la culture de conservation à Taïwan sont une combinaison de sagesse ancestrale et de science moderne. Des bocaux de condiments préparés par des ménagères aux usines de fermentation modernes, du tofu odorant vendu par les vendeurs de rue aux produits de santé sur le marché international, ces aliments apparemment ordinaires renferment une mémoire culturelle profonde et une valeur scientifique.
+La culture des aliments fermentés et conservés à Taïwan est une combinaison de sagesse ancestrale et de science moderne. Des bocaux de _dòufǔrǔ_ tenus par les ménagères aux usines de fermentation modernisées, du _chòu dòufu_ vendu par les vendeurs de rue aux compléments alimentaires sur le marché international, ces aliments apparemment ordinaires renferment une profonde mémoire culturelle et une valeur scientifique.
 
-Dans la vague de la mondialisation, les aliments fermentés de Taïwan font face à des opportunités et des défis. Comment améliorer la qualité et la sécurité tout en préservant les caractéristiques traditionnelles est un défi majeur pour le développement de l'industrie. Parallèlement, comment transmettre ces trésors culturels aux générations futures, afin que davantage de personnes connaissent et apprécient la beauté de la culture de la fermentation, est une responsabilité collective.
+Dans la vague de la mondialisation, les aliments fermentés de Taïwan font face à des opportunités et des défis. Comment améliorer la qualité et la sécurité tout en préservant les caractéristiques traditionnelles est un défi majeur pour le développement industriel. Parallèlement, comment transmettre ces trésors culturels aux générations futures, afin que davantage de personnes reconnaissent et apprécient la beauté de la culture de la fermentation, est une responsabilité commune.
 
-De la douceur d'un _doufuru_ à l'intensité d'un tofu odorant, la culture de fermentation taïwanaise nous enseigne : le temps est le meilleur assaisonnement, et la transmission est le trésor le plus précieux.
+Du moelleux d'un _dòufǔrǔ_ à l'intensité d'un _chòu dòufu_, la culture fermentée taïwanaise nous enseigne : le temps est le meilleur assaisonnement, et la transmission est le trésor le plus précieux.
 
-## Sources des images
+## Source des images
 
-- Héros : Tofu odorant de Xizhen, photo par Rochi, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E8%A5%BF%E9%95%87%E8%87%AD%E8%B1%86%E8%85%90.jpg), CC BY-SA 4.0.
+- Héro : Chòu dòufu de Xizhen, photo par Rochi, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E8%A5%BF%E9%95%87%E8%87%AD%E8%B1%86%E8%85%90.jpg), CC BY-SA 4.0.
 
 ## Références
 
-[^1]: Taiwan Guanghua Magazine (1993), « Le parfum étrange de la Chine — le tofu odorant », https://www.taiwan-panorama.com/Articles/Details?Guid=beb7ff70-9a54-42a4-8a57-49f402159aab
+[^1]: Taiwan Guanghua Magazine (1993), « Le parfum étrange de la Chine — le _chòu dòufu_ », https://www.taiwan-panorama.com/Articles/Details?Guid=beb7ff70-9a54-42a4-8a57-49f402159aab
 
-[^2]: Site bilingue du Ministère des Affaires étrangères, « Être au summum de l'odeur c'est être parfumé : le code aromatique du tofu odorant », https://taiwanngo.tw/Post/86007
+[^2]: Site bilingue du Ministère des Affaires étrangères, « Être au paroxysme de l'odeur c'est être parfumé : le code aromatique du _chòu dòufu_ », https://taiwanngo.tw/Post/86007
 
-[^3]: Institut de recherche sur le développement de l'industrie alimentaire, _Rapport d'analyse de l'industrie alimentaire fermentée à Taïwan_ (2023), https://www.firdi.org.tw/
+[^3]: Base de données réglementaire nationale, Loi sur la gestion de la sécurité sanitaire des aliments, https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0040001
 
-[^4]: Commission des peuples autochtones, _Étude sur la culture traditionnelle de fabrication d'alcool des peuples autochtones_ (2022), https://www.cip.gov.tw/
-
-[^5]: Administration de la sécurité alimentaire et pharmaceutique du Ministère de la Santé, _Normes sanitaires pour les aliments fermentés_, https://www.fda.gov.tw/
-
-[^6]: Ministère de l'Agriculture, _Recherche sur les techniques alimentaires fermentées traditionnelles à Taïwan_ (2022), https://www.moa.gov.tw/
-
-[^7]: Commission Hakka, _Projet de préservation et de promotion de la culture de conservation Hakka_ (2023), https://www.hakka.gov.tw/
-
-[^8]: Wikipédia, article sur le tofu odorant, https://zh.wikipedia.org/zh-tw/%E8%87%AD%E8%B1%86%E8%85%90
+[^4]: Wikipédia, article sur _chòu dòufu_, https://zh.wikipedia.org/zh-tw/%E8%87%AD%E8%B1%86%E8%85%90

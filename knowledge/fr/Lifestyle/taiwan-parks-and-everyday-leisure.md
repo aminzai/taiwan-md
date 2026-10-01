@@ -2,6 +2,7 @@
 title: 'Les parcs de Taïwan et les loisirs du quotidien'
 description: "Du tai-chi à l'aube aux promenades nocturnes — les parcs de Taïwan comme espaces sociaux intergénérationnels"
 date: 2026-03-18
+category: 'Lifestyle'
 tags:
   [
     'parcs',
@@ -11,16 +12,15 @@ tags:
     'vie quotidienne',
   ]
 subcategory: 'Loisirs et divertissement'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-category: 'Lifestyle'
-author: 'Taiwan.md'
 translatedFrom: 'Lifestyle/台灣公園與日常休閒.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:5627d196edbadc46'
-sourceBodyHash: 'sha256:fb9597ed5d14a1d1'
-translatedAt: '2026-04-15T17:34:27+08:00'
-featured: false
+sourceCommitSha: '1d2876d0d'
+sourceContentHash: 'sha256:5711dca50c2efd19'
+sourceBodyHash: 'sha256:62cca1f3ce3fb047'
+translatedAt: '2026-10-01T17:40:54.680767+00:00'
 ---
 
 # Les parcs de Taïwan et les loisirs du quotidien
@@ -53,15 +53,21 @@ Certains recoins sont monopolisés par des associations précises. Les groupes d
 
 Il existe aussi une culture du parc plus discrète : les ornithologues amateurs. Ces passionnés de photographie aviaire qui apparaissent à l'aube avec leurs jumelles et leurs téléobjectifs disposent de leur propre réseau d'information — quel arbre abrite un nid de barbet à cinq couleurs, quel étang a accueilli un martin-pêcheur. La nouvelle circule plus vite que n'importe quel bulletin d'information. Dans les parcs urbains de Taïwan, l'observation des oiseaux n'est pas un passe-temps de niche, mais une communauté souterraine organisée.
 
-## Des jeux en plastique standardisés aux aires de jeux inclusives
+## Des aires de jeux en béton aux aires de jeux inclusives
 
-Le visage des parcs de Taïwan est en train de vivre une révolution silencieuse.
+Les parcs de Taïwan traversent une révolution tranquille.
 
-Autrefois, les équipements de jeux dans les parcs taïwanais se ressemblaient presque tous : toboggans en plastique, chevaux à bascule, balançoires en forme de bateau — des couleurs délavées, un design sans imagination, une sécurité douteuse. Ces installations étaient surnommées les "jeux boîte de conserve" — identiques d'un parc à l'autre, comme si elles provenaient toutes du même catalogue.
+Autrefois, les équipements de jeux dans les parcs de Taïwan étaient quasi uniformisés : des toboggans en plastique estampillés, des chevaux de bois, des balançoires, dont les couleurs s'étaient estompées, dont le design manquait d'imagination et dont la sécurité laissait à désirer.
+Ces équipements étaient surnommés les « structures de série » — chaque parc identique au suivant, comme s'ils avaient été commandés dans le même catalogue.
 
-Vers 2017, un mouvement lancé par des parents et des designers a commencé à changer la donne. À Tianmu à Taipei, à Jinhe à Xindian, au parc sportif de Aofengshan à Taichung, ont commencé à apparaître des structures d'escalade intégrées au paysage, de longs toboggans à rouleaux, des bacs à sable, des canaux d'eau et des trampolines. Plus important encore, le concept d'inclusion a fait son entrée : des plateformes tournantes accessibles en fauteuil roulant, des équipements sensoriels pour les enfants malvoyants, des installations utilisables par toutes les tranches d'âge.
+À la fin de l'année 2015, un mouvement de « parcs atypiques » lancé par des parents commença à changer la donne.[^2]
+Au cours des années suivantes, le parc Tianmu Dream Garden à Taipei, le parc sportif Jinhe à Zhonghe (Nouveau Taipei), et le parc sportif Aofengshan à Taichung furent progressivement transformés.
+Des structures de grimpe à thème paysager, des toboggans roulants ultra-longs, des zones de sable, des canaux d'eau, des trampolines apparurent, un après l'autre.
+Mais surtout, le concept d'« inclusion » a été introduit — des carrousels accessibles aux fauteuurs roulants, des équipements sensoriels que les enfants malvoyants peuvent toucher, et des installations utilisables par tous les groupes d'âge.
 
-Derrière ce mouvement, des parents insatisfaits du statu quo. Ils ont formé la "Coalition pour les parcs de jeux avec caractère" (特公盟), et ont changé, parc par parc, la conception des espaces de jeux à travers l'île, grâce à des pétitions, des audiences auprès des élus et une participation aux commissions d'examen des travaux publics. Dans les années 2020, les parcs thématiques sont passés de l'exception à la norme, devenant un outil standard de communication pour les collectivités locales.
+Derrière ce mouvement se trouve un groupe de parents insatisfaits de la situation.
+Ils ont formé l'« Alliance pour le retour des parcs atypiques » (Pacte pour les parcs atypiques), et ont agi par pétitions, pétitions officielles et participation aux examens des projets d'infrastructure publique, transformant les parcs de toute l'île, un par un.
+Dans les années 2020, les parcs atypiques sont passés d'une rareté exceptionnelle à une norme incontournable, devenant un élément standard pour les gouvernements locaux pour démontrer leurs réalisations.
 
 ## Les berges, une seconde vie
 
@@ -73,15 +79,19 @@ L'Aiguo à Kaohsiung, le Lvchuan et le Liuchuan à Taichung, le canal de Tainan 
 
 Les berges offrent quelque chose que le parc n'a pas : la mobilité. On peut pédaler d'un quartier à un autre, des marges de la ville jusqu'à l'embouchure des fleuves. Cette expérience de loisir linéaire fait des rives le terrain idéal du "mini-voyage du quotidien" à la taïwanaise — sans voiture, sans planification, juste enfourcher son vélo et partir.
 
-## Le parc la nuit : un autre monde
+## Les parcs nocturnes : un autre monde
 
-Le soleil couché, les parcs de Taïwan ne ferment pas pour autant.
+Lorsque le soleil se couche, les parcs de Taïwan ne ferment pas.
 
-Passé vingt-et-une heures, une nouvelle population fait son apparition. Des actifs qui promènent leur chien après le travail (la densité de chiens en ville est élevée à Taïwan, et le parc est l'un des rares endroits où l'on peut légalement lâcher la laisse), des étudiants qui grattent leur guitare dans un kiosque, des gens assis sur un banc à faire défiler leur téléphone — qui, au fond, ont surtout besoin d'une raison de quitter leur appartement.
+Vers vingt heures, vous croiserez une toute autre catégorie de promeneurs : des employés qui promènent leur chien (dans les parcs ordinaires, les chiens doivent être tenus en laisse — la législation taïwanaise sur la protection animale de Taïpeh prévoit une amende de deux mille à dix mille nouveaux dollars taïwanais pour les propriétaires qui ne respectent pas cette règle, d’où l’existence d’espaces spécialement dédiés où les chiens peuvent courir librement)[^1], des étudiants qui font de la guitare sous les abris, et des gens qui, assis sur des bancs, défilent sur leur téléphone — mais qui cherchent en réalité une excuse pour quitter les fourneaux de leur domicile.
 
-Les nuits d'été sont particulièrement vivantes. Certains parcs voient spontanément apparaître des gens venus "prendre la fraîche" — ils arrivent avec un tapis et un ventilateur pour profiter de la brise naturelle, plus agréable que la climatisation (et moins énergivore). Les enfants courent dans l'herbe à la chasse aux lucioles quand le parc est assez riche en biodiversité, tandis que les adultes bavardent et mangent de la pastèque à côté.
+Les soirées d’été sont particulièrement animées.
+Certains parcs connaissent même un phénomène spontané de « rafraîchissement collectif » : des gens y apportent leurs tapis et leurs ventilateurs pour profiter de l’air frais extérieur, qui est souvent plus agréable — et moins coûteux — qu’un climatiseur.
+Les enfants courent sur l’herbe à la recherche de lucioles (dans les parcs suffisamment naturels), tandis que les adultes discutent et dégustent de la melasse d’eau.
 
-Cette culture du parc nocturne est intimement liée au climat et aux rythmes de vie de Taïwan. Les journées d'été subtropicales sont trop chaudes pour les activités extérieures, qui se décalent naturellement vers le soir. La sécurité publique étant relativement bonne, se promener dans un parc en pleine nuit n'a rien de courageux.
+Cette culture des parcs nocturnes s’inscrit dans le climat et le rythme de vie de Taïwan.
+Les étés tropicaux sont trop bouillonnants en journée, naturellement contraints vers l’activité nocturne.
+Et comme la sécurité est relativement bonne, se promener dans un parc après la nuit n’est pas une entreprise exigeant du courage.
 
 ## Le parc comme terrain de démocratie
 
@@ -108,6 +118,9 @@ Au printemps, les pétales tombent comme une pluie légère. En été, les frond
 ## Références
 
 1. Taiwan Parks and Playgrounds for Children and by Children (PPFCC). https://ppfcc.org/en/
-2. Vocus（2025）。〈公園20分鐘效應：現代都市人的心靈解藥〉。https://vocus.cc/article/662e4735fd89780001333610
-3. Taipei Travel（台北旅遊網）。〈Indigenous People's Park〉。https://www.travel.taipei/en/attraction/details/2005
-4. 台北ナビ（2024）。〈公園で太極拳デビューしませんか？〉。https://www.taipeinavi.com/special/5001857
+2. Vocus (2025). « L'effet des 20 minutes de parc : le remède spirituel des citadins modernes ». https://vocus.cc/article/662e4735fd89780001333610
+3. Taipei Navi (2024). « Voulez-vous commencer le tai-chi dans un parc ? ». https://www.taipeinavi.com/special/5001857
+
+[^1]: [« Serrer la laisse, parce que je t'aime ! » : la bureau de protection animale de la ville de Taïpei exhorte à prendre des mesures de protection appropriées lors de la sortie des animaux »](https://www.tcapo.gov.taipei/News_Content.aspx?n=67993BA7C146BC76&sms=72544237BBE4C5F6&s=01DA8EC9CE2086ED) — Communiqué de presse du bureau de protection animale de la ville de Taïpei, décembre 2019 : conformément au « Règlement local de protection animale de la ville de Taïpei », les chiens doivent être attachés dans les lieux publics ; les contrevenants se voient infliger une amende allant de 2 000 à 10 000 nouveaux tchangs.
+
+[^2]: [Alliance pour le retour de nos parcs atypiques](https://zh.wikipedia.org/zh-tw/%E9%82%84%E6%88%91%E7%89%B9%E8%89%B2%E5%85%AC%E5%9C%92%E8%A1%8C%E5%8B%95%E8%81%AF%E7%9B%9F) — Article de Wikipédia : groupe Facebook créé en 2015 ; réunion de presse devant le siège de la mairie de Taïpei le 28 novembre de la même année ; association déclarée en 2018.
