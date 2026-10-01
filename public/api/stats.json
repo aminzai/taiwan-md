@@ -2,7 +2,7 @@
   "totalArticles": 14625,
   "totalCategories": 27,
   "estimatedContributors": 77,
-  "totalTags": 9143,
+  "totalTags": 9145,
   "categories": [
     {
       "name": "vi",
@@ -136,7 +136,7 @@
     },
     {
       "name": "民主化",
-      "count": 32
+      "count": 31
     },
     {
       "name": "原住民族",
@@ -199,8 +199,8 @@
     "zh-TW": 14625,
     "en": 0
   },
-  "lastUpdated": "2026-09-30T22:05:49.932Z",
-  "stars": 1192,
+  "lastUpdated": "2026-10-01T22:06:24.792Z",
+  "stars": 1194,
   "forks": 188,
   "zhPages": 1123,
   "languagePages": {

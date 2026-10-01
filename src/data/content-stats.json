@@ -1,7 +1,7 @@
 {
   "categories": {
     "About": 108,
-    "Art": 577,
+    "Art": 576,
     "Culture": 1368,
     "Economy": 936,
     "Food": 1068,
@@ -13,7 +13,7 @@
     "People": 3480,
     "Politics": 204,
     "Society": 1404,
-    "Technology": 815,
+    "Technology": 816,
     "resources": 24
   },
   "dailyGrowth": [
@@ -734,5 +734,5 @@
       "count": 1
     }
   ],
-  "updated": "2026-09-30"
+  "updated": "2026-10-01"
 }

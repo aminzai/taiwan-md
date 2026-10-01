@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-30T22:06:05.693Z",
+  "lastUpdated": "2026-10-01T22:06:41.233Z",
   "languages": [
     "zh-TW",
     "en",
@@ -27,146 +27,146 @@
     "en": {
       "total": 1125,
       "percentage": 100,
-      "fresh": 1125,
+      "fresh": 1124,
       "metadataStale": 0,
-      "stale": 0,
+      "stale": 1,
       "missing": 0,
       "orphan": 0,
       "deficit": 0,
-      "freshPct": 100,
-      "bodyFreshPct": 100
+      "freshPct": 99.9,
+      "bodyFreshPct": 99.9
     },
     "ja": {
       "total": 1125,
       "percentage": 100,
-      "fresh": 1125,
-      "metadataStale": 0,
+      "fresh": 1124,
+      "metadataStale": 1,
       "stale": 0,
       "missing": 0,
       "orphan": 0,
       "deficit": 0,
-      "freshPct": 100,
+      "freshPct": 99.9,
       "bodyFreshPct": 100
     },
     "ko": {
       "total": 1125,
       "percentage": 100,
-      "fresh": 1125,
+      "fresh": 1123,
       "metadataStale": 0,
-      "stale": 0,
+      "stale": 2,
       "missing": 0,
       "orphan": 0,
       "deficit": 0,
-      "freshPct": 100,
-      "bodyFreshPct": 100
+      "freshPct": 99.8,
+      "bodyFreshPct": 99.8
     },
     "es": {
       "total": 1125,
       "percentage": 100,
-      "fresh": 1125,
+      "fresh": 1124,
       "metadataStale": 0,
-      "stale": 0,
+      "stale": 1,
       "missing": 0,
       "orphan": 0,
       "deficit": 0,
-      "freshPct": 100,
-      "bodyFreshPct": 100
+      "freshPct": 99.9,
+      "bodyFreshPct": 99.9
     },
     "fr": {
       "total": 1125,
       "percentage": 100,
-      "fresh": 1125,
-      "metadataStale": 0,
+      "fresh": 1124,
+      "metadataStale": 1,
       "stale": 0,
       "missing": 0,
       "orphan": 0,
       "deficit": 0,
-      "freshPct": 100,
+      "freshPct": 99.9,
       "bodyFreshPct": 100
     },
     "vi": {
       "total": 1125,
       "percentage": 100,
-      "fresh": 1125,
-      "metadataStale": 0,
-      "stale": 0,
+      "fresh": 1121,
+      "metadataStale": 1,
+      "stale": 3,
       "missing": 0,
       "orphan": 0,
       "deficit": 0,
-      "freshPct": 100,
-      "bodyFreshPct": 100
+      "freshPct": 99.6,
+      "bodyFreshPct": 99.7
     },
     "id": {
       "total": 1125,
       "percentage": 100,
-      "fresh": 1125,
-      "metadataStale": 0,
-      "stale": 0,
+      "fresh": 1122,
+      "metadataStale": 1,
+      "stale": 2,
       "missing": 0,
       "orphan": 0,
       "deficit": 0,
-      "freshPct": 100,
-      "bodyFreshPct": 100
+      "freshPct": 99.7,
+      "bodyFreshPct": 99.8
     },
     "pt": {
       "total": 1125,
       "percentage": 100,
-      "fresh": 1125,
-      "metadataStale": 0,
+      "fresh": 1124,
+      "metadataStale": 1,
       "stale": 0,
       "missing": 0,
       "orphan": 0,
       "deficit": 0,
-      "freshPct": 100,
+      "freshPct": 99.9,
       "bodyFreshPct": 100
     },
     "hi": {
       "total": 1125,
       "percentage": 100,
-      "fresh": 1125,
-      "metadataStale": 0,
-      "stale": 0,
+      "fresh": 1093,
+      "metadataStale": 1,
+      "stale": 31,
       "missing": 0,
       "orphan": 0,
       "deficit": 0,
-      "freshPct": 100,
-      "bodyFreshPct": 100
+      "freshPct": 97.2,
+      "bodyFreshPct": 97.2
     },
     "ar": {
       "total": 1125,
       "percentage": 100,
-      "fresh": 1125,
-      "metadataStale": 0,
-      "stale": 0,
+      "fresh": 1123,
+      "metadataStale": 1,
+      "stale": 1,
       "missing": 0,
       "orphan": 0,
       "deficit": 0,
-      "freshPct": 100,
-      "bodyFreshPct": 100
+      "freshPct": 99.8,
+      "bodyFreshPct": 99.9
     },
     "ru": {
       "total": 1125,
       "percentage": 100,
-      "fresh": 1125,
-      "metadataStale": 0,
-      "stale": 0,
+      "fresh": 1123,
+      "metadataStale": 1,
+      "stale": 1,
       "missing": 0,
       "orphan": 0,
       "deficit": 0,
-      "freshPct": 100,
-      "bodyFreshPct": 100
+      "freshPct": 99.8,
+      "bodyFreshPct": 99.9
     },
     "de": {
       "total": 1125,
       "percentage": 100,
-      "fresh": 1125,
-      "metadataStale": 0,
-      "stale": 0,
+      "fresh": 1123,
+      "metadataStale": 1,
+      "stale": 1,
       "missing": 0,
       "orphan": 0,
       "deficit": 0,
-      "freshPct": 100,
-      "bodyFreshPct": 100
+      "freshPct": 99.8,
+      "bodyFreshPct": 99.9
     }
   },
   "matrix": {
@@ -317,8 +317,8 @@
       },
       "hi": {
         "count": 48,
-        "fresh": 48,
-        "stale": 0,
+        "fresh": 47,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
@@ -404,8 +404,8 @@
       },
       "hi": {
         "count": 114,
-        "fresh": 114,
-        "stale": 0,
+        "fresh": 113,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
@@ -491,15 +491,15 @@
       },
       "hi": {
         "count": 78,
-        "fresh": 78,
-        "stale": 0,
+        "fresh": 75,
+        "stale": 3,
         "missing": 0,
         "deficit": 0
       },
       "ar": {
         "count": 78,
-        "fresh": 78,
-        "stale": 0,
+        "fresh": 77,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
@@ -665,8 +665,8 @@
       },
       "hi": {
         "count": 82,
-        "fresh": 82,
-        "stale": 0,
+        "fresh": 81,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
@@ -752,8 +752,8 @@
       },
       "hi": {
         "count": 87,
-        "fresh": 87,
-        "stale": 0,
+        "fresh": 86,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
@@ -1013,8 +1013,8 @@
       },
       "hi": {
         "count": 41,
-        "fresh": 41,
-        "stale": 0,
+        "fresh": 36,
+        "stale": 5,
         "missing": 0,
         "deficit": 0
       },
@@ -1100,8 +1100,8 @@
       },
       "hi": {
         "count": 290,
-        "fresh": 290,
-        "stale": 0,
+        "fresh": 278,
+        "stale": 12,
         "missing": 0,
         "deficit": 0
       },
@@ -1218,22 +1218,22 @@
       "zh-TW": 117,
       "en": {
         "count": 117,
-        "fresh": 117,
-        "stale": 0,
+        "fresh": 116,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
       "ja": {
-        "count": 117,
-        "fresh": 117,
+        "count": 116,
+        "fresh": 116,
         "stale": 0,
         "missing": 0,
-        "deficit": 0
+        "deficit": 1
       },
       "ko": {
         "count": 117,
-        "fresh": 117,
-        "stale": 0,
+        "fresh": 115,
+        "stale": 2,
         "missing": 0,
         "deficit": 0
       },
@@ -1245,60 +1245,60 @@
         "deficit": 0
       },
       "fr": {
-        "count": 117,
-        "fresh": 117,
+        "count": 116,
+        "fresh": 116,
         "stale": 0,
         "missing": 0,
-        "deficit": 0
+        "deficit": 1
       },
       "vi": {
-        "count": 117,
-        "fresh": 117,
-        "stale": 0,
+        "count": 116,
+        "fresh": 114,
+        "stale": 2,
         "missing": 0,
-        "deficit": 0
+        "deficit": 1
       },
       "id": {
-        "count": 117,
-        "fresh": 117,
-        "stale": 0,
+        "count": 116,
+        "fresh": 115,
+        "stale": 1,
         "missing": 0,
-        "deficit": 0
+        "deficit": 1
       },
       "pt": {
-        "count": 117,
-        "fresh": 117,
+        "count": 116,
+        "fresh": 116,
         "stale": 0,
         "missing": 0,
-        "deficit": 0
+        "deficit": 1
       },
       "hi": {
-        "count": 117,
-        "fresh": 117,
-        "stale": 0,
+        "count": 116,
+        "fresh": 114,
+        "stale": 2,
         "missing": 0,
-        "deficit": 0
+        "deficit": 1
       },
       "ar": {
-        "count": 117,
-        "fresh": 117,
+        "count": 116,
+        "fresh": 116,
         "stale": 0,
         "missing": 0,
-        "deficit": 0
+        "deficit": 1
       },
       "ru": {
-        "count": 117,
-        "fresh": 117,
-        "stale": 0,
+        "count": 116,
+        "fresh": 115,
+        "stale": 1,
         "missing": 0,
-        "deficit": 0
+        "deficit": 1
       },
       "de": {
-        "count": 117,
-        "fresh": 117,
+        "count": 116,
+        "fresh": 116,
         "stale": 0,
         "missing": 0,
-        "deficit": 0
+        "deficit": 1
       }
     },
     "technology": {
@@ -1326,8 +1326,8 @@
       },
       "es": {
         "count": 68,
-        "fresh": 68,
-        "stale": 0,
+        "fresh": 67,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
@@ -1340,15 +1340,15 @@
       },
       "vi": {
         "count": 68,
-        "fresh": 68,
-        "stale": 0,
+        "fresh": 67,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
       "id": {
         "count": 68,
-        "fresh": 68,
-        "stale": 0,
+        "fresh": 67,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
@@ -1361,8 +1361,8 @@
       },
       "hi": {
         "count": 68,
-        "fresh": 68,
-        "stale": 0,
+        "fresh": 63,
+        "stale": 5,
         "missing": 0,
         "deficit": 0
       },
@@ -1382,8 +1382,8 @@
       },
       "de": {
         "count": 68,
-        "fresh": 68,
-        "stale": 0,
+        "fresh": 67,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       }

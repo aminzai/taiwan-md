@@ -1,8 +1,8 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-09-30T22:06:01Z",
+  "timestamp": "2026-10-01T22:06:36Z",
   "total": 1125,
-  "flagged": 712,
+  "flagged": 715,
   "files": [
     {
       "file": "music/台灣KTV文化.md",
@@ -465,6 +465,11 @@
       "reasons": "年份僅1個; 空洞詞7個; 連續bullet5行; 塑膠句4個; 後段清單堆砌45%; 稀薄段落×3; 無腳註"
     },
     {
+      "file": "technology/台灣5G網路建設與數位轉型.md",
+      "score": 4,
+      "reasons": "未人工審核; 後段清單堆砌44%; 稀薄段落×1"
+    },
+    {
       "file": "technology/台灣電動車產業鏈發展.md",
       "score": 5,
       "reasons": "未人工審核; 分號10個; 稀薄段落×3"
@@ -776,8 +781,8 @@
     },
     {
       "file": "lifestyle/台灣公園與日常休閒.md",
-      "score": 6,
-      "reasons": "年份3個; 未人工審核; 塑膠句3個; 破折號10個"
+      "score": 5,
+      "reasons": "未人工審核; 塑膠句3個; 破折號10個"
     },
     {
       "file": "lifestyle/台灣機車文化.md",
@@ -1060,6 +1065,11 @@
       "reasons": "空洞詞6個; 未人工審核; 分號8個; 英式短句開場5處"
     },
     {
+      "file": "society/社會住宅與居住正義.md",
+      "score": 5,
+      "reasons": "空洞詞10個; 未人工審核; 連續bullet4行; 稀薄段落×1"
+    },
+    {
       "file": "society/醫療法.md",
       "score": 8,
       "reasons": "空洞詞8個; 未人工審核; 連續bullet6行; 破折號8個; 分號8個; 英式短句開場10處"
@@ -1067,7 +1077,7 @@
     {
       "file": "society/教育制度與升學文化.md",
       "score": 4,
-      "reasons": "未人工審核; 分號6個; 稀薄段落×15"
+      "reasons": "未人工審核; 分號4個; 稀薄段落×15"
     },
     {
       "file": "society/台灣的年級生世代.md",
@@ -2628,6 +2638,11 @@
       "file": "food/台灣手路菜.md",
       "score": 4,
       "reasons": "破折號12個; 分號4個; 英式短句開場5處"
+    },
+    {
+      "file": "food/台灣發酵食品與醃製文化.md",
+      "score": 4,
+      "reasons": "年份2個; 未人工審核; 稀薄段落×11"
     },
     {
       "file": "food/金牛角.md",

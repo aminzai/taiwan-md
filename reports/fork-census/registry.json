@@ -2,12 +2,12 @@
   "_meta": {
     "created": "2026-06-25",
     "ga_id": "G-JGC5W00N7T",
-    "last_census": "2026-09-30",
+    "last_census": "2026-10-01",
     "note": "子代名冊 SSOT。GA-derived 欄位(ga/title_ga/last_seen/hostnames/title_brands)由 fork-census.py 每次跑自動更新;investigation-derived 欄位(github/credits/type/cognitive_layer/health/notes)sticky,只有人/agent 填,probe 永不覆寫。每個 entry 同時帶 hostnames + title_brands,讓 probe 下次跑能把同一 fork 的多個指紋 re-consolidate 而非 re-split。",
     "ga_window": "365daysAgo",
     "self_traffic": {
-      "views": 653883,
-      "users": 388550
+      "views": 658277,
+      "users": 392117
     },
     "dev_noise": {
       "views": 12250,
@@ -44,7 +44,7 @@
         "views": 0,
         "users": 0
       },
-      "last_seen": "2026-09",
+      "last_seen": "2026-10",
       "first_seen": "2026-08"
     },
     {
@@ -66,7 +66,7 @@
       "health": "semi-active",
       "last_push": "2026-06-04",
       "first_seen": "2026-04",
-      "last_seen": "2026-09",
+      "last_seen": "2026-10",
       "ga": {
         "window": "365daysAgo",
         "views": 623,
@@ -99,7 +99,7 @@
       "health": "dormant",
       "last_push": "2026-04-15",
       "first_seen": "2026-03",
-      "last_seen": "2026-09",
+      "last_seen": "2026-10",
       "ga": {
         "window": "365daysAgo",
         "views": 154,
@@ -132,7 +132,7 @@
       "health": "active",
       "last_push": "2026-06-13",
       "first_seen": "2026-03",
-      "last_seen": "2026-09",
+      "last_seen": "2026-10",
       "ga": {
         "window": "365daysAgo",
         "views": 123,
@@ -165,15 +165,15 @@
       "notes": "auto-detected via GA leak — needs investigation",
       "ga": {
         "window": "365daysAgo",
-        "views": 174,
-        "users": 125
+        "views": 175,
+        "users": 127
       },
       "title_ga": {
         "window": "365daysAgo",
         "views": 0,
         "users": 0
       },
-      "last_seen": "2026-09",
+      "last_seen": "2026-10",
       "first_seen": "2026-07"
     },
     {
@@ -200,10 +200,10 @@
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 171,
-        "users": 122
+        "views": 172,
+        "users": 124
       },
-      "last_seen": "2026-09",
+      "last_seen": "2026-10",
       "first_seen": "2026-07"
     },
     {
@@ -229,7 +229,7 @@
       "health": "unknown",
       "last_push": "unknown",
       "first_seen": "2026-03",
-      "last_seen": "2026-09",
+      "last_seen": "2026-10",
       "ga": {
         "window": "365daysAgo",
         "views": 72,
@@ -262,7 +262,7 @@
       "health": "unknown",
       "last_push": "unknown",
       "first_seen": "2026-06",
-      "last_seen": "2026-09",
+      "last_seen": "2026-10",
       "ga": {
         "window": "365daysAgo",
         "views": 0,
@@ -303,7 +303,7 @@
         "views": 74,
         "users": 1
       },
-      "last_seen": "2026-09",
+      "last_seen": "2026-10",
       "first_seen": "2026-08"
     },
     {
@@ -325,7 +325,7 @@
       "health": "active",
       "last_push": "2026-06-25",
       "first_seen": "2026-06",
-      "last_seen": "2026-09",
+      "last_seen": "2026-10",
       "ga": {
         "window": "365daysAgo",
         "views": 25,
@@ -358,7 +358,7 @@
       "health": "unknown",
       "last_push": "unknown",
       "first_seen": "2026-06",
-      "last_seen": "2026-09",
+      "last_seen": "2026-10",
       "ga": {
         "window": "365daysAgo",
         "views": 0,
@@ -399,7 +399,7 @@
         "views": 17,
         "users": 1
       },
-      "last_seen": "2026-09",
+      "last_seen": "2026-10",
       "first_seen": "2026-07"
     },
     {
@@ -421,7 +421,7 @@
       "health": "abandoned",
       "last_push": "2026-03-26",
       "first_seen": "2026-03",
-      "last_seen": "2026-09",
+      "last_seen": "2026-10",
       "ga": {
         "window": "365daysAgo",
         "views": 10,
@@ -462,7 +462,7 @@
         "views": 0,
         "users": 0
       },
-      "last_seen": "2026-09",
+      "last_seen": "2026-10",
       "first_seen": "2026-08"
     },
     {
@@ -492,7 +492,7 @@
         "views": 0,
         "users": 0
       },
-      "last_seen": "2026-09",
+      "last_seen": "2026-10",
       "first_seen": "2026-08"
     },
     {

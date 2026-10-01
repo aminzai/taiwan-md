@@ -797,17 +797,6 @@
     "path": "ko/History/animal-protection-in-taiwan.md"
   },
   {
-    "title": "「おばさんの朝食店と地域情報ネットワーク」",
-    "description": "「本当か嘘か、おばさんはただ「イケメン」って呼ぶだけだと思っていた。朝食店のおばさんがどうやって地域全体の情報センターになったのかを書いた」",
-    "category": "ja",
-    "tags": [],
-    "url": "https://taiwan.md/ja/society/breakfast-shops-and-community-intelligence-network",
-    "readingTime": 21,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "ja/Society/breakfast-shops-and-community-intelligence-network.md"
-  },
-  {
     "title": "「たくさん食べる」を台湾色に昇華：千千進食中（チン・チン・ジンシクヂョン）の軌跡",
     "description": "彼女はまず大食いという体型で注目を集めましたが、その後、その影響力を食べ物、視聴者、そして台湾の味覚に責任を持つコンテンツとブランドへと転換させました。",
     "category": "ja",
@@ -5397,17 +5386,6 @@
     "path": "ja/Society/taiwan-dashcam-society.md"
   },
   {
-    "title": "台湾5Gネットワーク建設とデジタルトランスフォーメーション",
-    "description": "台湾が4Gの先行から5Gの展開へ、デジタルトランスフォーメーション国家戦略とスマートアプリケーションの発展過程を探る",
-    "category": "ja",
-    "tags": [],
-    "url": "https://taiwan.md/ja/technology/taiwan-5g-digital-transformation",
-    "readingTime": 39,
-    "featured": true,
-    "date": "2026-03-18",
-    "path": "ja/Technology/taiwan-5g-digital-transformation.md"
-  },
-  {
     "title": "台湾人工知能学校：未完の電話と1万人のAIエンジニア",
     "description": "2020年3月27日、陳昇瑋は天下雑誌の編集長に慎重に電話をかけました。彼は無料の全民向けプログラミング講座を開きたいと考えていました。2日後、彼はインラインスケートで転倒し、13日後に亡くなりました。44歳でした。彼が亡くなった時、自ら2018年に創設した台湾人工知能学校（AIA）はすでに6,000人超を訓練していました。同時期、国家発展委員会の「AI小国大戦略」は5年で160億を掲げましたが、彼は台塑、奇美、英業達など6社から民間資金1.8億を集め、自ら学校を開きました。8年後、卒業生は1万人を超えました。AIAは台湾の産業高度化において、最も台湾らしくないピースです。",
     "category": "ja",
@@ -7339,6 +7317,17 @@
     "path": "ja/Society/taiwan-slash-generation-multi-job-economy.md"
   },
   {
+    "title": "台湾の5Gネットワーク構築とデジタルトランスフォーメーション",
+    "description": "台湾が4Gでリードから5Gへの展開を進める中で、デジタルトランスフォーメーション国家戦略とスマート応用の発展を探る",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/technology/taiwan-5g-digital-transformation",
+    "readingTime": 34,
+    "featured": true,
+    "date": "2026-03-18",
+    "path": "ja/Technology/taiwan-5g-digital-transformation.md"
+  },
+  {
     "title": "台湾の人工生殖：胚は国境を越えても、家庭は法を超えられない",
     "description": "2020年、レズビアンカップルがIVFのためにカンボジアへ渡航し4年間で約200万新台幣を費やしました。台湾には人工生殖法がありますが、法律が追いついていないのは生殖方法だけでなく、「誰が家庭として認められるか」という点です。",
     "category": "ja",
@@ -7505,17 +7494,17 @@
   },
   {
     "title": "台湾の公園と日常の余暇",
-    "description": "早朝の太極拳から夜間の散歩まで――台湾の公園が世代を超えた社交の場として機能する文化観察",
+    "description": "早朝の太極拳から夜の散歩まで 世代を超えた交流の場としての台湾の公園についての文化的考察",
     "category": "ja",
     "tags": [
       "公園",
-      "余暇",
+      "レジャー",
       "社交文化",
-      "世代を超えた",
+      "多世代",
       "日常生活"
     ],
     "url": "https://taiwan.md/ja/lifestyle/taiwan-parks-and-everyday-leisure",
-    "readingTime": 20,
+    "readingTime": 21,
     "featured": false,
     "date": "2026-03-18",
     "path": "ja/Lifestyle/taiwan-parks-and-everyday-leisure.md"
@@ -8095,12 +8084,12 @@
     "path": "ja/Culture/taiwan-independent-bookstores.md"
   },
   {
-    "title": "台湾の発酵食品と漬物文化",
-    "description": "臭豆腐から豆腐乳まで、台湾独自の発酵技術と漬物の伝統文化を探求します",
+    "title": "台湾の発酵食品と醃製文化",
+    "description": "から臭豆腐到豆腐乳まで、台湾独特の発酵技術と醃製文化の伝統を探る",
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/food/taiwan-fermented-and-pickled-foods",
-    "readingTime": 22,
+    "readingTime": 18,
     "featured": false,
     "date": "2026-03-18",
     "path": "ja/Food/taiwan-fermented-and-pickled-foods.md"
@@ -9225,12 +9214,18 @@
     "path": "ja/Society/taiwan-community-colleges.md"
   },
   {
-    "title": "台湾のコミュニティと里文化",
-    "description": "最も基層の民主的実践からコミュニティづくりの社会的イノベーションへ",
+    "title": "台湾のコミュニティと里（り）文化",
+    "description": "最も基層の民主的実践から、地域創生における社会的な革新まで",
     "category": "ja",
-    "tags": [],
+    "tags": [
+      "里鄰制度",
+      "コミュニティ創生",
+      "地域大学",
+      "市民参加",
+      "地方自治"
+    ],
     "url": "https://taiwan.md/ja/society/taiwan-neighborhood-and-li-culture",
-    "readingTime": 28,
+    "readingTime": 31,
     "featured": false,
     "date": "2026-03-18",
     "path": "ja/Society/taiwan-neighborhood-and-li-culture.md"
@@ -9579,7 +9574,7 @@
   },
   {
     "title": "台湾のメディアと報道の自由",
-    "description": "党国支配からメディア戦国時代へ：台湾の報道の自由の民主化の過程とデジタル変革の課題",
+    "description": "党国の統制からメディア戦国時代へ：台湾の報道の自由の民主化過程とデジタル変革の課題",
     "category": "ja",
     "tags": [
       "メディア",
@@ -9589,7 +9584,7 @@
       "メディアリテラシー"
     ],
     "url": "https://taiwan.md/ja/society/media-and-press-freedom-in-taiwan",
-    "readingTime": 24,
+    "readingTime": 25,
     "featured": false,
     "date": "2026-03-18",
     "path": "ja/Society/media-and-press-freedom-in-taiwan.md"
@@ -9910,7 +9905,7 @@
       "電信產業"
     ],
     "url": "https://taiwan.md/technology/%E5%8F%B0%E7%81%A35G%E7%B6%B2%E8%B7%AF%E5%BB%BA%E8%A8%AD%E8%88%87%E6%95%B8%E4%BD%8D%E8%BD%89%E5%9E%8B",
-    "readingTime": 28,
+    "readingTime": 25,
     "featured": true,
     "date": "2026-03-18",
     "path": "Technology/台灣5G網路建設與數位轉型.md"
@@ -10124,7 +10119,7 @@
       "日常生活"
     ],
     "url": "https://taiwan.md/lifestyle/%E5%8F%B0%E7%81%A3%E5%85%AC%E5%9C%92%E8%88%87%E6%97%A5%E5%B8%B8%E4%BC%91%E9%96%92",
-    "readingTime": 14,
+    "readingTime": 15,
     "featured": false,
     "date": "2026-03-18",
     "path": "Lifestyle/台灣公園與日常休閒.md"
@@ -11504,7 +11499,7 @@
       "地方自治"
     ],
     "url": "https://taiwan.md/society/%E5%8F%B0%E7%81%A3%E7%A4%BE%E5%8D%80%E8%88%87%E9%87%8C%E6%96%87%E5%8C%96",
-    "readingTime": 20,
+    "readingTime": 22,
     "featured": false,
     "date": "2026-03-18",
     "path": "Society/台灣社區與里文化.md"
@@ -12847,7 +12842,7 @@
       "媒體識讀"
     ],
     "url": "https://taiwan.md/society/%E5%8F%B0%E7%81%A3%E5%AA%92%E9%AB%94%E8%88%87%E6%96%B0%E8%81%9E%E8%87%AA%E7%94%B1",
-    "readingTime": 17,
+    "readingTime": 19,
     "featured": false,
     "date": "2026-03-18",
     "path": "Society/台灣媒體與新聞自由.md"
@@ -12962,7 +12957,7 @@
       "微生物"
     ],
     "url": "https://taiwan.md/food/%E5%8F%B0%E7%81%A3%E7%99%BC%E9%85%B5%E9%A3%9F%E5%93%81%E8%88%87%E9%86%83%E8%A3%BD%E6%96%87%E5%8C%96",
-    "readingTime": 16,
+    "readingTime": 14,
     "featured": false,
     "date": "2026-03-18",
     "path": "Food/台灣發酵食品與醃製文化.md"
@@ -15787,10 +15782,21 @@
       "社區網路"
     ],
     "url": "https://taiwan.md/society/%E6%97%A9%E9%A4%90%E5%BA%97%E9%98%BF%E5%A7%A8%E8%88%87%E7%A4%BE%E5%8D%80%E6%83%85%E5%A0%B1%E7%B6%B2",
-    "readingTime": 14,
+    "readingTime": 15,
     "featured": false,
     "date": "2026-03-18",
     "path": "Society/早餐店阿姨與社區情報網.md"
+  },
+  {
+    "title": "早餐店のお姨さんと地域情報網",
+    "description": "正説も半説も、お姨さんはただ帥哥のお客さんを呼ぶだけだと思っていました。そんなお姨さんがいかにして地域の情報の中心になるのかを書きました。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/society/breakfast-shops-and-community-intelligence-network",
+    "readingTime": 22,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "ja/Society/breakfast-shops-and-community-intelligence-network.md"
   },
   {
     "title": "有感筆電：「ダーク」から百万登録へ、Roblox世代を定義するデータキュレーター",
@@ -19414,29 +19420,29 @@
     "path": "Politics/直轄市山地原住民區長.md"
   },
   {
-    "title": "社会住宅と居住の正義",
-    "description": "台湾が社会住宅政策を通じて居住の正義をいかに実現し、すべての人が安心して暮らせる場所を確保するか",
+    "title": "社会住宅と居住正義",
+    "description": "台湾はいかにして社会住宅政策を通じて居住正義を実現し、誰もが安心して暮らせる場所を確保しているか",
     "category": "ja",
     "tags": [
       "社会住宅",
-      "居住の正義",
+      "居住正義",
       "住宅政策",
       "包租代管",
       "都市更新"
     ],
     "url": "https://taiwan.md/ja/society/social-housing-and-housing-justice",
-    "readingTime": 32,
+    "readingTime": 34,
     "featured": false,
     "date": "2026-03-18",
     "path": "ja/Society/social-housing-and-housing-justice.md"
   },
   {
     "title": "社会運動と市民参加",
-    "description": "野百合からひまわりまで、台湾がいかに社会運動を通じて民主主義を実践し社会進歩を推進してきたか",
+    "description": "野百合から太陽花まで：台湾が社会運動を通じて民主主義を実践し社会を進歩させた方法",
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/society/social-movements-and-civic-participation",
-    "readingTime": 27,
+    "readingTime": 31,
     "featured": true,
     "date": "2026-03-18",
     "path": "ja/Society/social-movements-and-civic-participation.md"
@@ -19471,7 +19477,7 @@
       "社會改革"
     ],
     "url": "https://taiwan.md/society/%E7%A4%BE%E6%9C%83%E9%81%8B%E5%8B%95%E8%88%87%E5%85%AC%E6%B0%91%E5%8F%83%E8%88%87",
-    "readingTime": 21,
+    "readingTime": 24,
     "featured": true,
     "date": "2026-03-18",
     "path": "Society/社會運動與公民參與.md"
@@ -23319,25 +23325,25 @@
       "競爭文化"
     ],
     "url": "https://taiwan.md/society/%E6%95%99%E8%82%B2%E5%88%B6%E5%BA%A6%E8%88%87%E5%8D%87%E5%AD%B8%E6%96%87%E5%8C%96",
-    "readingTime": 18,
+    "readingTime": 20,
     "featured": true,
     "date": "2026-03-18",
     "path": "Society/教育制度與升學文化.md"
   },
   {
     "title": "教育制度と進学文化",
-    "description": "統一入試制度から十二年国民基本教育まで、台湾の教育がいかに競争と多様性のあいだで均衡を模索してきたか",
+    "description": "聯考制度から十二年國民基本教育まで、台湾の教育が競争と多様性の間でどのようにバランスをとってきたか",
     "category": "ja",
     "tags": [
       "教育",
       "進学",
-      "十二年国民基本教育",
+      "十二年國民基本教育",
       "技職教育",
       "教育改革",
       "競争文化"
     ],
     "url": "https://taiwan.md/ja/society/education-system-and-admissions-culture",
-    "readingTime": 24,
+    "readingTime": 27,
     "featured": true,
     "date": "2026-03-18",
     "path": "ja/Society/education-system-and-admissions-culture.md"
@@ -32511,17 +32517,6 @@
     "path": "pt/History/taiwan-strait-crises-and-cross-strait-relations.md"
   },
   {
-    "title": "A cultura comunitária e de bairros de Taiwan",
-    "description": "Da prática democrática mais básica à inovação social na construção comunitária",
-    "category": "pt",
-    "tags": [],
-    "url": "https://taiwan.md/pt/society/taiwan-neighborhood-and-li-culture",
-    "readingTime": 77,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "pt/Society/taiwan-neighborhood-and-li-culture.md"
-  },
-  {
     "title": "A cultura das carrinhas de lixo de Taiwan: quando as grandes melodias do mundo se tornam um chamado coletivo da sociedade civil",
     "description": "Desde a “Für Elise” de Beethoven até a “A Maiden’s Prayer” de Bada, as melodias tocadas pelas carrinhas de lixo nas ruas de Taiwan não são apenas sinais de coleta — são um experimento social de meia século que moldou uma das taxas de reciclagem mais altas do mundo e uma singular coesão de bairro.",
     "category": "pt",
@@ -32531,6 +32526,17 @@
     "featured": false,
     "date": "2026-08-13",
     "path": "pt/Lifestyle/taiwan-garbage-truck-music.md"
+  },
+  {
+    "title": "A Cultura de Alimentos Fermentados e Conservados de Taiwan",
+    "description": "Do tofu fétido ao *dòufǔrǔ* (levedura de tofu), uma exploração das tradições únicas de fermentação e conservação de Taiwan",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/food/taiwan-fermented-and-pickled-foods",
+    "readingTime": 53,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "pt/Food/taiwan-fermented-and-pickled-foods.md"
   },
   {
     "title": "A cultura de comícios e a estética dos caminhões-palco em Taiwan: uma observação sociológica do \"dong suan\" ao carnaval democrático",
@@ -33160,6 +33166,17 @@
     "path": "pt/Society/lgbtq-in-taiwan.md"
   },
   {
+    "title": "A senhora do café da manhã e a rede de informações da comunidade",
+    "description": "Eu jurava que a senhora só ia chamar os caras bonitos, mas acabei escrevendo sobre como a senhora do café da manhã se tornou o centro de informações de toda a comunidade",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/society/breakfast-shops-and-community-intelligence-network",
+    "readingTime": 49,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "pt/Society/breakfast-shops-and-community-intelligence-network.md"
+  },
+  {
     "title": "A Shen: ¿Por qué hay nuevos videos después de \"suspender permanentemente\" durante once años?",
     "description": "En julio de 2026, el canal principal de A Shen mostraba en un lado \"Me retiro y hago videos porque me gusta\", mientras que al día siguiente se subía un video nuevo de Minecraft. ¿Por qué la \"pausa permanente\" de hace tres años no resultó ser una salida definitiva?",
     "category": "es",
@@ -33202,17 +33219,6 @@
     "featured": false,
     "date": "2026-07-15",
     "path": "vi/People/red-shin-minecraft-youtuber.md"
-  },
-  {
-    "title": "A Tia da Loja de Café da Manhã e a Rede de Informações da Comunidade",
-    "description": "Pensei que a tia só sabia chamar todo mundo de \"gato\", mas ela na verdade administra o centro de inteligência do bairro inteiro — como as donas de lojas de café da manhã tradicionais de Taiwan se tornam o banco de dados não oficial da comunidade.",
-    "category": "pt",
-    "tags": [],
-    "url": "https://taiwan.md/pt/society/breakfast-shops-and-community-intelligence-network",
-    "readingTime": 46,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "pt/Society/breakfast-shops-and-community-intelligence-network.md"
   },
   {
     "title": "A visão histórica da ilha de Taiwan: como uma ilha repetidamente governada inventou a sua própria subjetividade",
@@ -38145,12 +38151,12 @@
     "path": "vi/Economy/taiwan-beer.md"
   },
   {
-    "title": "Bibi Toko Sarapan dan Jaringan Informasi Komunitas",
-    "description": "Sebenarnya saya kira bibi hanya memanggil orang \"tampan\", tulisan tentang bagaimana bibi toko sarapan menjadi pusat informasi seluruh komunitas",
+    "title": "Bibi Kedai Sarapan dan Jaringan Intelijen Komunitas",
+    "description": "Apa yang kukira Bibi kedai sarapan hanya memanggil orang tampan, padahal ia telah menjadi pusat intelijen seluruh komunitas.",
     "category": "id",
     "tags": [],
     "url": "https://taiwan.md/id/society/breakfast-shops-and-community-intelligence-network",
-    "readingTime": 43,
+    "readingTime": 50,
     "featured": false,
     "date": "2026-03-18",
     "path": "id/Society/breakfast-shops-and-community-intelligence-network.md"
@@ -38211,8 +38217,8 @@
     "path": "id/Food/taiwan-mullet-roe-bottarga.md"
   },
   {
-    "title": "Bildungssystem und Hochschulbildungskultur in Taiwan",
-    "description": "Von der Prüfungszentralen zur zwölfjährigen Grundschulbildung: Wie sucht Taiwan das Gleichgewicht zwischen Wettbewerb und Vielfalt?",
+    "title": "Bildungssystem und Aufstiegsprüfungskultur",
+    "description": "Vom Joint-College-Entrance-Examination-System bis zur 12-jährigen Grundbildung: Wie Taiwans Bildung zwischen Wettbewerb und Vielfalt Balance sucht",
     "category": "de",
     "tags": [],
     "url": "https://taiwan.md/de/society/education-system-and-admissions-culture",
@@ -39190,17 +39196,6 @@
     "path": "id/Culture/taiwan-historic-streets-and-commercial-districts.md"
   },
   {
-    "title": "Budaya Desa Taiwan: Sebuah Eksperimen Demokrasi yang Berkelanjutan",
-    "description": "Artikel mendalam mengeksplorasi budaya desa (里文化) Taiwan sebagai eksperimen demokrasi partisipatif yang berkelanjutan, mencakup sistem pemerintahan desa, gerakan pembangunan komunitas, universitas komunitas, partisipasi warga, organisasi komunitas, tantangan, inovasi, dan nilai-nilai mendalam budaya komunitas Taiwan.",
-    "category": "id",
-    "tags": [],
-    "url": "https://taiwan.md/id/society/taiwan-neighborhood-and-li-culture",
-    "readingTime": 66,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "id/Society/taiwan-neighborhood-and-li-culture.md"
-  },
-  {
     "title": "Budaya Es Krim Taiwan",
     "description": "Dari es mangga Yuanli hingga revolusi es bunga salju, jelajahi budaya unik Taiwan di mana orang makan es bahkan di musim dingin",
     "category": "id",
@@ -39308,6 +39303,17 @@
     "featured": false,
     "date": "2026-03-20",
     "path": "id/Lifestyle/taiwan-arcade-culture-and-streetscapes.md"
+  },
+  {
+    "title": "Budaya Komunitas dan Sistem Lingkungan di Taiwan",
+    "description": "Inovasi sosial dalam pembangunan komunitas, dari praktik demokrasi paling dasar hingga partisipasi warga",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/society/taiwan-neighborhood-and-li-culture",
+    "readingTime": 78,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "id/Society/taiwan-neighborhood-and-li-culture.md"
   },
   {
     "title": "Budaya Kopi Taiwan: Pulau yang Menjual 600 Juta Cangkir Kopi di Convenience Store Setiap Tahun",
@@ -45941,11 +45947,11 @@
     "description": "From Taipei's international metropolis to Tainan's historic charm, how Taiwan's cities shape distinct local identities",
     "category": "en",
     "tags": [],
-    "url": "https://taiwan.md/en/culture/urban-character-and-regional-culture",
+    "url": "https://taiwan.md/en/geography/urban-character-and-regional-culture",
     "readingTime": 102,
     "featured": true,
     "date": "2026-03-18",
-    "path": "en/Culture/urban-character-and-regional-culture.md"
+    "path": "en/Geography/urban-character-and-regional-culture.md"
   },
   {
     "title": "Ciudad de Chiayi: nombrada Chiayi por un emperador, pero convertida en la ciudad provincial más fácil de pasar por alto",
@@ -46304,6 +46310,17 @@
     "featured": true,
     "date": "2026-06-13",
     "path": "en/Society/commonwealth-magazine.md"
+  },
+  {
+    "title": "Community and Li Culture in Taiwan",
+    "description": "From grassroots democratic practice to social innovation in community building",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/society/taiwan-neighborhood-and-li-culture",
+    "readingTime": 79,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "en/Society/taiwan-neighborhood-and-li-culture.md"
   },
   {
     "title": "Cómo leer el mapa de Taiwán: cuatrocientos años de la batata al satélite",
@@ -47087,7 +47104,7 @@
     "category": "vi",
     "tags": [],
     "url": "https://taiwan.md/vi/lifestyle/taiwan-parks-and-everyday-leisure",
-    "readingTime": 45,
+    "readingTime": 49,
     "featured": false,
     "date": "2026-03-18",
     "path": "vi/Lifestyle/taiwan-parks-and-everyday-leisure.md"
@@ -47203,12 +47220,12 @@
     "path": "en/People/constant-and-change-band.md"
   },
   {
-    "title": "Construção da rede 5G e transformação digital de Taiwan",
-    "description": "Da liderança em 4G à implantação do 5G, explora a estratégia nacional de transformação digital e o percurso de desenvolvimento de aplicações inteligentes de Taiwan",
+    "title": "Construção da Rede 5G e Transformação Digital em Taiwan",
+    "description": "A jornada de Taiwan, da liderança no 4G ao planejamento do 5G, explorando a estratégia nacional de transformação digital e o desenvolvimento de aplicações inteligentes",
     "category": "pt",
     "tags": [],
     "url": "https://taiwan.md/pt/technology/taiwan-5g-digital-transformation",
-    "readingTime": 97,
+    "readingTime": 89,
     "featured": true,
     "date": "2026-03-18",
     "path": "pt/Technology/taiwan-5g-digital-transformation.md"
@@ -47223,6 +47240,17 @@
     "featured": true,
     "date": "2026-03-18",
     "path": "es/Technology/taiwan-5g-digital-transformation.md"
+  },
+  {
+    "title": "Construction du réseau 5G et transformation numérique à Taïwan",
+    "description": "De la domination de la 4G au déploiement de la 5G : exploration du parcours stratégique national et des applications intelligentes de la transformation numérique à Taïwan.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/technology/taiwan-5g-digital-transformation",
+    "readingTime": 95,
+    "featured": true,
+    "date": "2026-03-18",
+    "path": "fr/Technology/taiwan-5g-digital-transformation.md"
   },
   {
     "title": "Contemporary Art in Taiwan",
@@ -47746,6 +47774,17 @@
     "path": "pt/Food/hakka-food-culture.md"
   },
   {
+    "title": "Cultura comunitaria y vecinal en Taiwán",
+    "description": "Desde la práctica democrática de base hasta la innovación social en la movilización comunitaria",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/society/taiwan-neighborhood-and-li-culture",
+    "readingTime": 86,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "es/Society/taiwan-neighborhood-and-li-culture.md"
+  },
+  {
     "title": "Cultura da Motocicleta em Taiwan",
     "description": "O país com a maior densidade de motocicletas do mundo não é assim por amor a andar de moto — é por falta de outra opção. Agora, tornou-se inesperadamente o laboratório global de duas rodas elétricas.",
     "category": "pt",
@@ -47812,15 +47851,15 @@
     "path": "es/Lifestyle/hot-spring-culture.md"
   },
   {
-    "title": "Cultura de Alimentos Fermentados e Conservas de Taiwan",
-    "description": "Do tofu fedido ao tofu fermentado, explore as técnicas únicas de fermentação e a tradição cultural de conservas de Taiwan",
-    "category": "pt",
+    "title": "Cultura de alimentos fermentados y curtidos de Taiwán",
+    "description": "Desde el tofu fermentado hasta el tofu ácido, explorando las técnicas de fermentación y tradiciones de curtido únicas de Taiwán",
+    "category": "es",
     "tags": [],
-    "url": "https://taiwan.md/pt/food/taiwan-fermented-and-pickled-foods",
-    "readingTime": 59,
+    "url": "https://taiwan.md/es/food/taiwan-fermented-and-pickled-foods",
+    "readingTime": 55,
     "featured": false,
     "date": "2026-03-18",
-    "path": "pt/Food/taiwan-fermented-and-pickled-foods.md"
+    "path": "es/Food/taiwan-fermented-and-pickled-foods.md"
   },
   {
     "title": "Cultura de anime e mangá em Taiwan",
@@ -49049,6 +49088,17 @@
     "featured": false,
     "date": "2026-03-18",
     "path": "vi/Economy/circular-economy-and-resource-recycling.md"
+  },
+  {
+    "title": "Đài Loan và tự do báo chí",
+    "description": "Từ kiểm soát của đảng nhà nước đến thời kỳ chiến tranh truyền thông: Hành trình dân chủ hóa tự do báo chí của Đài Loan và thách thức chuyển đổi số",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/society/media-and-press-freedom-in-taiwan",
+    "readingTime": 63,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "vi/Society/media-and-press-freedom-in-taiwan.md"
   },
   {
     "title": "Đài Loan và Vấn đề Bảo vệ môi trường công bằng",
@@ -50562,17 +50612,6 @@
     "path": "es/People/deng-yu-xian-taiwanese-song-composer.md"
   },
   {
-    "title": "Déploiement du réseau 5G et transformation numérique à Taïwan",
-    "description": "De la 4G pionnière à la stratégie 5G, exploration de la stratégie nationale de transformation numérique et du parcours de développement des applications intelligentes",
-    "category": "fr",
-    "tags": [],
-    "url": "https://taiwan.md/fr/technology/taiwan-5g-digital-transformation",
-    "readingTime": 111,
-    "featured": true,
-    "date": "2026-03-18",
-    "path": "fr/Technology/taiwan-5g-digital-transformation.md"
-  },
-  {
     "title": "Der „Ba-Sie“-Hochwasser (1959): Wie die Flut das Zuhause und die Nation in Taiwan neu schrieb",
     "description": "Das Hochwasser von August 1959 traf Süd- und Zentral-Taiwan schwer: 667 Tote, 408 Vermisste und über 300.000 Betroffene. Anhand der Regenfälle in Douliu, der zerstörten Brücken, Luftaufnahmen durch US-Hubschrauber, Nachberichten und den Erinnerungen einer Arbeiterin aus dem Norden wird das Ba-Sie-Hochwasser nicht nur als Naturkatastrophe, sondern auch als Wendepunkt in der nationalen Statistik, Rettung, Wiederherstellung und Neuordnung des lokalen Lebens betrachtet.",
     "category": "de",
@@ -51497,12 +51536,12 @@
     "path": "fr/Geography/taiwan-urban-development-and-rural-urban-divide.md"
   },
   {
-    "title": "Dì A ở quán ăn sáng và mạng lưới tình báo cộng đồng",
-    "description": "Tôi đã nghĩ dì ấy chỉ gọi người ta là \"trai đẹp\", bài viết này kể về cách một dì bán đồ ăn sáng trở thành trung tâm thông tin của cả khu phố.",
+    "title": "Dì bản tạp hóa và mạng lưới thông tin cộng đồng của cô bán đồ ăn sáng",
+    "description": "Thật hay giả, tôi cứ nghĩ các cô này chỉ gọi người ta là \"trai đẹp\", bài viết về cách những cô chủ tiệm bánh mì trở thành trung tâm thông tin của cả khu phố.",
     "category": "vi",
     "tags": [],
     "url": "https://taiwan.md/vi/society/breakfast-shops-and-community-intelligence-network",
-    "readingTime": 44,
+    "readingTime": 46,
     "featured": false,
     "date": "2026-03-18",
     "path": "vi/Society/breakfast-shops-and-community-intelligence-network.md"
@@ -51789,17 +51828,6 @@
     "path": "de/Culture/atayal-people.md"
   },
   {
-    "title": "Die Bäckerei-Tante und das Nachbarschaftsspionagenetzwerk",
-    "description": "Ob wahr oder falsch: Die Tante dachte, sie würde nur Männer schmeicheln; ein Bericht darüber, wie die Besitzerin eines Frühstücksladens zum Informationszentrum der gesamten Nachbarschaft wurde.",
-    "category": "de",
-    "tags": [],
-    "url": "https://taiwan.md/de/society/breakfast-shops-and-community-intelligence-network",
-    "readingTime": 47,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "de/Society/breakfast-shops-and-community-intelligence-network.md"
-  },
-  {
     "title": "Die Bannan-Linie: 26,5 Kilometer, die zwei Städte unter der Erde zusammennähen",
     "description": "Am 24. Dezember 1999 verband die Bannan-Linie zunächst Ximen, Longshan-Tempel und das Rathaus, später wurde sie bis Dingpu und zum Nangang-Ausstellungszentrum verlängert. Diese 23 Stationen und 26,5 Kilometer lange Untergrundstrecke veränderte Pendelzeiten, Geschäftsströme, Gehwege und Landvorstellungen zwischen Banqiao, Taipeh und Nangang – und hinterließ die Frage, wer den Menschenstrom aufnimmt, wer den Wandel trägt und wie die letzten 500 Meter zurückgelegt werden.",
     "category": "de",
@@ -51881,17 +51909,6 @@
     "featured": false,
     "date": "2026-04-25",
     "path": "de/Society/taiwan-teacher-discipline-dilemma.md"
-  },
-  {
-    "title": "Die Dorfgemeinschaften und die Kultur der „Li“ in Taiwan",
-    "description": "Von der grundlegendsten demokratischen Praxis bis zur sozialen Innovation im Gemeinschaftsaufbau",
-    "category": "de",
-    "tags": [],
-    "url": "https://taiwan.md/de/society/taiwan-neighborhood-and-li-culture",
-    "readingTime": 79,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "de/Society/taiwan-neighborhood-and-li-culture.md"
   },
   {
     "title": "Die Duftkultur und die „Xiangjiao“-Region in Taiwan",
@@ -52061,6 +52078,17 @@
     "featured": false,
     "date": "2026-03-29",
     "path": "de/Economy/taiwan-self-media-creator-economy.md"
+  },
+  {
+    "title": "Die Frühstücksgeschäftsfrau und das soziale Informationsnetzwerk",
+    "description": "Ob wahr oder falsch: Die Vorstellung, dass die Besitzerin nur Komplimente macht, wie sie zum Informationszentrum der gesamten Nachbarschaft wird.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/society/breakfast-shops-and-community-intelligence-network",
+    "readingTime": 50,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "de/Society/breakfast-shops-and-community-intelligence-network.md"
   },
   {
     "title": "Die Frühstückskultur Taiwans: Zehntausende Läden verkaufen dasselbe Frühstück, aber niemand besitzt es",
@@ -54882,12 +54910,12 @@
     "path": "fr/Society/taiwan-indigenous-education-and-language-revival.md"
   },
   {
-    "title": "Education System and College Entrance Culture",
-    "description": "From the joint college entrance examination to the twelve-year national education system, how Taiwan's education seeks balance between competition and diversity.",
+    "title": "Education System and Entrance Exam Culture",
+    "description": "From the joint entrance exam system to twelve-year basic education, how Taiwan's education seeks balance between competition and diversity",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/society/education-system-and-admissions-culture",
-    "readingTime": 70,
+    "readingTime": 78,
     "featured": true,
     "date": "2026-03-18",
     "path": "en/Society/education-system-and-admissions-culture.md"
@@ -58767,6 +58795,17 @@
     "path": "es/Society/national-holidays.md"
   },
   {
+    "title": "Fermentierte Lebensmittel und Konservierungskultur Taiwans",
+    "description": "Von Stinktofu bis Tofu-Jiu: Eine Erkundung der einzigartigen Fermentationstechniken und Traditionen von Taiwan",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/food/taiwan-fermented-and-pickled-foods",
+    "readingTime": 55,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "de/Food/taiwan-fermented-and-pickled-foods.md"
+  },
+  {
     "title": "Ferrocarril Forestal de Alishan: 71,6 kilómetros construidos para extraer madera y preservar la cultura",
     "description": "Iniciado en 1906 y inaugurado en 1912, el Ferrocarril Forestal de Alishan transportó cipreses rojos a Chiayi y permaneció inoperativo durante 15 años tras los tifones Morakot y Dujuan. En 2024 se restableció el servicio completo, transformándose de una línea de transporte maderero a un paisaje cultural. Tras el retorno del tren a la montaña, la verdadera cuestión no es cómo conquistar el bosque, sino cómo mantener su operatividad entre desastres, turismo y conservación.",
     "category": "es",
@@ -61701,11 +61740,11 @@
   },
   {
     "title": "Habitação Social e Justiça Habitacional",
-    "description": "Como Taiwan implementa a justiça habitacional por meio de políticas de habitação social, garantindo que todos tenham um lugar seguro para viver.",
+    "description": "Como Taiwan, através da política de habitação social, realiza a justiça habitacional, para que todos tenham um lugar para se estabelecer",
     "category": "pt",
     "tags": [],
     "url": "https://taiwan.md/pt/society/social-housing-and-housing-justice",
-    "readingTime": 101,
+    "readingTime": 94,
     "featured": false,
     "date": "2026-03-18",
     "path": "pt/Society/social-housing-and-housing-justice.md"
@@ -62231,11 +62270,11 @@
   },
   {
     "title": "Hệ thống giáo dục và văn hóa thi cử",
-    "description": "Từ kỳ thi đại học thống nhất đến giáo dục phổ thông 12 năm, cách giáo dục Đài Loan tìm kiếm sự cân bằng giữa cạnh tranh và đa dạng",
+    "description": "Từ chế độ liên khóa đến mười hai năm giáo dục phổ thông, giáo dục Đài Loan như thế nào tìm kiếm sự cân bằng giữa cạnh tranh và đa dạng",
     "category": "vi",
     "tags": [],
     "url": "https://taiwan.md/vi/society/education-system-and-admissions-culture",
-    "readingTime": 68,
+    "readingTime": 75,
     "featured": true,
     "date": "2026-03-18",
     "path": "vi/Society/education-system-and-admissions-culture.md"
@@ -73242,17 +73281,6 @@
     "path": "es/Food/taiwan-rice-cuisine-culture.md"
   },
   {
-    "title": "La cultura de alimentos fermentados y encurtidos de Taiwán",
-    "description": "Desde el tofu apestoso hasta el *douhua ru*, explorando las tradiciones únicas de fermentación y conservación de Taiwán",
-    "category": "es",
-    "tags": [],
-    "url": "https://taiwan.md/es/food/taiwan-fermented-and-pickled-foods",
-    "readingTime": 63,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "es/Food/taiwan-fermented-and-pickled-foods.md"
-  },
-  {
     "title": "La cultura de la impresión tipográfica en Taiwán: Cómo los caracteres móviles imprimieron el lenguaje público en el papel",
     "description": "Desde el Boletín de la Iglesia de Taiwán, los periódicos de la era japonesa, el clúster de impresión de Wanhua, las fuentes de Shanghái hasta la Fundición de Tipos Ri Xing, se rastrea cómo la impresión tipográfica taiwanesa permitió la reproducción estable del lenguaje vernáculo de la lengua taiwanesa, las noticias de periódicos, libros de texto, documentos gubernamentales e información comercial, y se comprende cómo los caracteres de plomo, las tipografías, el trabajo de los maestros y la digitalización constituyen juntos una tecnología de producción del lenguaje público, reflexionando sobre cómo, al preservar las antiguas máquinas, también debemos preservar el proceso y el conocimiento corporal de las personas.",
     "category": "es",
@@ -73322,23 +73350,6 @@
     "featured": true,
     "date": "2026-03-19",
     "path": "es/Lifestyle/convenience-store-culture.md"
-  },
-  {
-    "title": "La cultura de los barrios y las comunidades de Taiwán",
-    "description": "Desde la práctica democrática más básica hasta la innovación social del desarrollo comunitario",
-    "category": "es",
-    "tags": [
-      "里鄰制度",
-      "社區營造",
-      "社區大學",
-      "公民參與",
-      "地方自治"
-    ],
-    "url": "https://taiwan.md/es/society/taiwan-neighborhood-and-li-culture",
-    "readingTime": 80,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "es/Society/taiwan-neighborhood-and-li-culture.md"
   },
   {
     "title": "La cultura de los camiones de basura en Taiwán: cuando las melodías clásicas se convierten en una convocatoria colectiva de la sociedad civil",
@@ -73649,12 +73660,12 @@
     "path": "fr/Food/taiwan-pastry-culture.md"
   },
   {
-    "title": "La culture des quartiers et des li à Taïwan",
-    "description": "De la démocratie de proximité à l'innovation sociale portée par les habitants",
+    "title": "La culture des quartiers et des districts (lǐ) à Taïwan",
+    "description": "De la démocratie participative de base aux innovations sociales dans l’aménagement des quartiers",
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/society/taiwan-neighborhood-and-li-culture",
-    "readingTime": 77,
+    "readingTime": 88,
     "featured": false,
     "date": "2026-03-18",
     "path": "fr/Society/taiwan-neighborhood-and-li-culture.md"
@@ -74300,11 +74311,11 @@
     "description": "De ser el mayor reino de subcontratación de animación del mundo a una nueva potencia de contenido original: la transformación de medio siglo de la industria digital en Taiwán.",
     "category": "es",
     "tags": [],
-    "url": "https://taiwan.md/es/art/taiwan-digital-animation-industry",
+    "url": "https://taiwan.md/es/technology/taiwan-digital-animation-industry",
     "readingTime": 46,
     "featured": false,
     "date": "2026-03-20",
-    "path": "es/Art/taiwan-digital-animation-industry.md"
+    "path": "es/Technology/taiwan-digital-animation-industry.md"
   },
   {
     "title": "La industria de los dispositivos de visualización en Taiwán: De un panel TFT-LCD a la transformación hacia Micro LED",
@@ -75113,6 +75124,17 @@
     "path": "fr/Food/taiwan-soy-sauce.md"
   },
   {
+    "title": "La señora de la tienda de desayuno y la red de información comunitaria",
+    "description": "La verdad es que yo pensaba que la señora solo diría cosas como \"¿hoy igual, guapo?\", así que escribí sobre cómo la señora de la tienda de desayuno se convierte en el centro de información de todo el barrio.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/society/breakfast-shops-and-community-intelligence-network",
+    "readingTime": 50,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "es/Society/breakfast-shops-and-community-intelligence-network.md"
+  },
+  {
     "title": "La señora de las ciencias naturales: cuando la divulgación científica se convierte en tráfico, la profesionalidad se vuelve una responsabilidad pública",
     "description": "La señora de las ciencias naturales (Li Ke Tai Tai) ganó fama gracias a su formación en ingeniería biomédica y sus videos de ciencia cotidiana, para luego adentrarse en productos de salud, cursos en línea y la comercialización de los medios propios. Su historia no trata solo de un éxito viral, sino de por qué el público confía en alguien que parece científico y cómo esa confianza debe ser verificada, regulada y devuelta al debate público. Este artículo rastrea el origen del canal, la traducción del conocimiento, los incidentes de publicidad de dispositivos médicos y alimentos, y el cambio de contenido de pago a podcast gratuito, analizando cómo los creadores de contenido de conocimiento en Taiwán enfrentan la tensión entre el tráfico, la profesionalidad y la responsabilidad pública.",
     "category": "es",
@@ -75122,17 +75144,6 @@
     "featured": false,
     "date": "2026-08-20",
     "path": "es/People/li-ke-tai-tai.md"
-  },
-  {
-    "title": "La señora del desayuno y la red de inteligencia comunitaria",
-    "description": "En serio, yo pensaba que la señora solo le decía \"guapo\" a todo el mundo. Un artículo sobre cómo la dueña de una cafetería de desayunos se convierte en el centro de inteligencia de toda la comunidad.",
-    "category": "es",
-    "tags": [],
-    "url": "https://taiwan.md/es/society/breakfast-shops-and-community-intelligence-network",
-    "readingTime": 51,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "es/Society/breakfast-shops-and-community-intelligence-network.md"
   },
   {
     "title": "La sensibilité taïwanaise : faut-il un like coréen avant d’oser dire que nos vieilles maisons sont belles ?",
@@ -75227,17 +75238,6 @@
     "featured": false,
     "date": "2026-03-24",
     "path": "es/Economy/taiwan-creator-economy.md"
-  },
-  {
-    "title": "La tante du petit-déjeuner et le réseau de renseignements du quartier",
-    "description": "Vrai ou faux, je pensais que la tante savait juste appeler les gens « beau gars ». Voici comment la patronne d'un petit-déjeuner taïwanais devient le centre de renseignements de tout le quartier.",
-    "category": "fr",
-    "tags": [],
-    "url": "https://taiwan.md/fr/society/breakfast-shops-and-community-intelligence-network",
-    "readingTime": 51,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "fr/Society/breakfast-shops-and-community-intelligence-network.md"
   },
   {
     "title": "La teinture à l'indigo : deux cents ans plus tard, cultiver à nouveau la même plante de *Strobilanthes cusia*",
@@ -77453,6 +77453,17 @@
     "path": "fr/Geography/national-scenic-area-system.md"
   },
   {
+    "title": "Le système éducatif et la culture d'études à Taïwan",
+    "description": "Du système d'examen national aux douze années d'enseignement de base, comment Taïwan cherche l'équilibre entre compétitivité et diversité dans l'éducation",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/society/education-system-and-admissions-culture",
+    "readingTime": 87,
+    "featured": true,
+    "date": "2026-03-18",
+    "path": "fr/Society/education-system-and-admissions-culture.md"
+  },
+  {
     "title": "Le système éducatif taïwanais : de l'enfer du concours unique au labyrinthe du pluralisme",
     "description": "Taïwan a passé trente ans à vouloir démanteler son concours d'entrée à l'université — et la toute dernière réforme a fait doubler les inscriptions dans les classes de redoublement. Comment une île oscille-t-elle indéfiniment entre pression scolaire et équité éducative ?",
     "category": "fr",
@@ -78535,11 +78546,11 @@
   },
   {
     "title": "Les aliments fermentés et la culture de conservation à Taïwan",
-    "description": "De le tofu odorant au *doufuru*, exploration des traditions uniques de fermentation et de conservation à Taïwan",
+    "description": "De la tofu stinky (chòu dòufu) au *dòufǔrǔ*, une exploration des traditions uniques de fermentation et de conservation à Taïwan",
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/food/taiwan-fermented-and-pickled-foods",
-    "readingTime": 64,
+    "readingTime": 58,
     "featured": false,
     "date": "2026-03-18",
     "path": "fr/Food/taiwan-fermented-and-pickled-foods.md"
@@ -78959,6 +78970,17 @@
     "path": "fr/Lifestyle/mascot-culture-in-taiwan.md"
   },
   {
+    "title": "Les médias à Taïwan et la liberté de la presse",
+    "description": "De le contrôle par les partis au siècle médiatique des médias : le parcours démocratisation de la liberté de la presse à Taïwan et les défis de la transformation numérique",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/society/media-and-press-freedom-in-taiwan",
+    "readingTime": 73,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "fr/Society/media-and-press-freedom-in-taiwan.md"
+  },
+  {
     "title": "Les mèmes de Ma Ying-jeou : de la « poignée de mort » à la « méduse cérébrale de Ma », comment la culture internet a remodelé l'image d'un homme politique",
     "description": "À partir de 2012, les paroles et gestes de l'ancien président Ma Ying-jeou ont fermenté au sein des communautés en ligne taïwanaises. De la moquerie autour de la « poignée de mort » au lapsus sur le « bois de cerf », jusqu'à l'autodérision de la « méduse cérébrale de Ma », une série de mèmes a profondément influencé la perception publique de sa personne. Ces phénomènes en ligne ne reflètent pas seulement la culture politique propre à Taïwan, mais illustrent aussi comment, à l'ère numérique, les mèmes déconstruisent et remodèlent l'image publique et la mémoire collective des figures politiques.",
     "category": "fr",
@@ -79019,7 +79041,7 @@
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/lifestyle/taiwan-parks-and-everyday-leisure",
-    "readingTime": 51,
+    "readingTime": 56,
     "featured": false,
     "date": "2026-03-18",
     "path": "fr/Lifestyle/taiwan-parks-and-everyday-leisure.md"
@@ -79155,6 +79177,17 @@
     "featured": true,
     "date": "2026-03-18",
     "path": "fr/Culture/zhuyin-phonetic-symbols.md"
+  },
+  {
+    "title": "Les tantes des petits-déjeuners et le réseau d'information communautaire",
+    "description": "Ce que j'ai cru : les tantes ne font qu'appeler les hommes beaux, mais voici comment la tante du petit-déjeuner est devenue le centre d'information de tout le quartier.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/society/breakfast-shops-and-community-intelligence-network",
+    "readingTime": 54,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "fr/Society/breakfast-shops-and-community-intelligence-network.md"
   },
   {
     "title": "Les tensions provinciales à Taïwan",
@@ -82134,12 +82167,12 @@
     "path": "fr/Society/public-housing-justice.md"
   },
   {
-    "title": "Logement social et justice résidentielle",
-    "description": "Comment Taïwan met en œuvre la justice résidentielle par sa politique de logement social, afin que chacun puisse trouver un lieu de vie digne",
+    "title": "Logement social et justice habitationnelle",
+    "description": "Comment Taïwan parvient à la justice habitationnelle grâce aux politiques de logement social, garantissant à chacun un lieu d’hébergement digne",
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/society/social-housing-and-housing-justice",
-    "readingTime": 106,
+    "readingTime": 105,
     "featured": false,
     "date": "2026-03-18",
     "path": "fr/Society/social-housing-and-housing-justice.md"
@@ -83585,12 +83618,12 @@
     "path": "id/Food/school-lunch-reform.md"
   },
   {
-    "title": "Makanan Fermentasi dan Budaya Pengasinan Taiwan",
-    "description": "Dari tahu busuk hingga tahu fermentasi, jelajahi teknik fermentasi unik Taiwan dan tradisi pengasinan",
+    "title": "Makanan Fermentasi dan Budaya Pengawetan Taiwan",
+    "description": "Dari *chòu dòufu* (tahu bau) hingga *dòufǔrǔ* (tempe tahu), menjelajahi tradisi teknologi fermentasi dan pengawetan unik Taiwan",
     "category": "id",
     "tags": [],
     "url": "https://taiwan.md/id/food/taiwan-fermented-and-pickled-foods",
-    "readingTime": 57,
+    "readingTime": 49,
     "featured": false,
     "date": "2026-03-18",
     "path": "id/Food/taiwan-fermented-and-pickled-foods.md"
@@ -84419,43 +84452,15 @@
     "path": "pt/Economy/taiwan-fuel-pricing-and-cpc.md"
   },
   {
-    "title": "Media and Press Freedom in Taiwan",
-    "description": "From Party-State Control to the Media Warring States Era: Taiwan's Democratization of Press Freedom and the Challenges of Digital Transformation",
-    "category": "en",
-    "tags": [
-      "媒體",
-      "新聞自由",
-      "民主化",
-      "數位轉型",
-      "媒體識讀"
-    ],
-    "url": "https://taiwan.md/en/society/media-and-press-freedom-in-taiwan",
-    "readingTime": 57,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "en/Society/media-and-press-freedom-in-taiwan.md"
-  },
-  {
-    "title": "Media dan Kebebasan Pers di Taiwan",
-    "description": "Dari kontrol negara-partai hingga era persaingan media: perjalanan demokratisasi kebebasan pers Taiwan dan tantangan transformasi digital",
+    "title": "Media Taiwan dan Kebebasan Pers",
+    "description": "Dari kontrol partai-negara ke era perang media: perjalanan demokrasi kebebasan pers Taiwan dan tantangan transformasi digital",
     "category": "id",
     "tags": [],
     "url": "https://taiwan.md/id/society/media-and-press-freedom-in-taiwan",
-    "readingTime": 61,
+    "readingTime": 63,
     "featured": false,
     "date": "2026-03-18",
     "path": "id/Society/media-and-press-freedom-in-taiwan.md"
-  },
-  {
-    "title": "Médias taïwanais et liberté de la presse",
-    "description": "Du contrôle partisan-étatique à l'ère de la guerre des médias : le processus de démocratisation de la liberté de la presse à Taïwan et les défis de la transformation numérique",
-    "category": "fr",
-    "tags": [],
-    "url": "https://taiwan.md/fr/society/media-and-press-freedom-in-taiwan",
-    "readingTime": 69,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "fr/Society/media-and-press-freedom-in-taiwan.md"
   },
   {
     "title": "Medical Care Act: Forty Years of Institutional Regulation and Market Tug-of-War",
@@ -84481,11 +84486,11 @@
   },
   {
     "title": "Medios de comunicación y libertad de prensa en Taiwán",
-    "description": "Del control del Estado-partido a la era de los medios en guerra: el proceso de democratización de la libertad de prensa en Taiwán y los desafíos de la transformación digital",
+    "description": "Del control del partido-Estado a la era de los Estados combatientes mediáticos: la trayectoria democratizadora de la libertad de prensa en Taiwán y los desafíos de la transformación digital",
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/society/media-and-press-freedom-in-taiwan",
-    "readingTime": 68,
+    "readingTime": 69,
     "featured": false,
     "date": "2026-03-18",
     "path": "es/Society/media-and-press-freedom-in-taiwan.md"
@@ -85175,7 +85180,7 @@
   },
   {
     "title": "Mídia e liberdade de imprensa em Taiwan",
-    "description": "Do controle do partido-Estado à era de intensa competição midiática: a democratização da liberdade de imprensa em Taiwan e os desafios da transformação digital",
+    "description": "Do controle partidário durante o regime autoritário à era da guerra mediática: o percurso de democratização da liberdade de imprensa em Taiwan e os desafios da transformação digital",
     "category": "pt",
     "tags": [],
     "url": "https://taiwan.md/pt/society/media-and-press-freedom-in-taiwan",
@@ -86398,11 +86403,11 @@
   },
   {
     "title": "Mouvements sociaux et participation citoyenne",
-    "description": "Des Lys (Wild Lilies) au Mouvement Tournesol : comment Taïwan pratique la démocratie et favorise le progrès social par les mouvements sociaux",
+    "description": "Du Mouvement des lys sauvages au Mouvement des tournesols, comment Taïwan met en œuvre la démocratie et promeut le progrès social par les mouvements sociaux",
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/society/social-movements-and-civic-participation",
-    "readingTime": 87,
+    "readingTime": 99,
     "featured": true,
     "date": "2026-03-18",
     "path": "fr/Society/social-movements-and-civic-participation.md"
@@ -86474,12 +86479,12 @@
     "path": "pt/History/social-movements-during-japanese-rule.md"
   },
   {
-    "title": "Movimentos sociais e participação cívica",
-    "description": "De Yěhúbǎi a Sunflower, como Taiwan praticou a democracia e impulsionou o progresso social por meio de movimentos sociais",
+    "title": "Movimentos sociais e participação cidadã",
+    "description": "Desde o movimento estudantil de julho-negro até a flor de maio, como Taiwan realiza a democracia e promove o progresso social por meio de movimentos sociais",
     "category": "pt",
     "tags": [],
     "url": "https://taiwan.md/pt/society/social-movements-and-civic-participation",
-    "readingTime": 82,
+    "readingTime": 94,
     "featured": true,
     "date": "2026-03-18",
     "path": "pt/Society/social-movements-and-civic-participation.md"
@@ -86529,12 +86534,12 @@
     "path": "es/History/social-movements-during-japanese-rule.md"
   },
   {
-    "title": "Movimientos sociales y participación ciudadana",
-    "description": "Desde el movimiento Wild Lily hasta el movimiento Sunflower: cómo Taiwán practica la democracia y promueve el progreso social a través de los movimientos sociales",
+    "title": "Movimientos sociales y participación cívica",
+    "description": "Desde la primavera de los cerezos silvestres hasta la flor de los cerezos, cómo Taiwán ha implementado la democracia y promovido el progreso social a través de movimientos sociales",
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/society/social-movements-and-civic-participation",
-    "readingTime": 87,
+    "readingTime": 98,
     "featured": true,
     "date": "2026-03-18",
     "path": "es/Society/social-movements-and-civic-participation.md"
@@ -92267,7 +92272,7 @@
     "category": "pt",
     "tags": [],
     "url": "https://taiwan.md/pt/lifestyle/taiwan-parks-and-everyday-leisure",
-    "readingTime": 46,
+    "readingTime": 50,
     "featured": false,
     "date": "2026-03-18",
     "path": "pt/Lifestyle/taiwan-parks-and-everyday-leisure.md"
@@ -92278,7 +92283,7 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/lifestyle/taiwan-parks-and-everyday-leisure",
-    "readingTime": 52,
+    "readingTime": 55,
     "featured": false,
     "date": "2026-03-18",
     "path": "es/Lifestyle/taiwan-parks-and-everyday-leisure.md"
@@ -93632,17 +93637,6 @@
     "featured": false,
     "date": "2026-06-06",
     "path": "id/Society/public-housing-justice.md"
-  },
-  {
-    "title": "Perumahan Sosial dan Keadilan Perumahan",
-    "description": "Bagaimana Taiwan mewujudkan keadilan perumahan melalui kebijakan perumahan sosial, memastikan setiap orang memiliki tempat untuk hidup dengan bermartabat",
-    "category": "id",
-    "tags": [],
-    "url": "https://taiwan.md/id/society/social-housing-and-housing-justice",
-    "readingTime": 95,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "id/Society/social-housing-and-housing-justice.md"
   },
   {
     "title": "Perusahaan Taiwan: Acer — Mereka yang Menggambar Kurva Senyum, Paling Sulit Berdiri di Kedua Ujungnya",
@@ -98562,6 +98556,17 @@
     "path": "id/Society/taiwan-tin-shed-houses.md"
   },
   {
+    "title": "Rumah Sosial dan Keadilan Tempat Tinggal",
+    "description": "Bagaimana Taiwan mewujudkan keadilan tempat tinggal melalui kebijakan rumah sosial, sehingga setiap orang memiliki tempat yang layak untuk hidup dan berkembang",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/society/social-housing-and-housing-justice",
+    "readingTime": 83,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "id/Society/social-housing-and-housing-justice.md"
+  },
+  {
     "title": "Rượu ngô cứng Kinmen: Một chai hàng cấp tiến tuyến, làm sao trở thành ký ức chung của địa phương",
     "description": "Năm 1952, Hồ Quyền (Hú Quán) thiết lập nhà máy rượu tại Kinmen chiến trường, khiến ngô cứng chịu hạn hán thay thế cho gạo và rượu được vận chuyển; năm 1977, chính sách xuất khẩu mở thị trường; sau khi chiến trường quân sự kết thúc năm 1992, hàng cấp tiến trở thành nguồn thu của hầu đồng và cuộc sống hàng ngày của người dân Kinmen. Lịch sử của chai rượu này không chỉ nói về hương vị mà còn về cách một nơi biến các chế độ quân sự lại thành ký ức cuộc sống của chính mình.",
     "category": "vi",
@@ -100826,7 +100831,7 @@
     "category": "id",
     "tags": [],
     "url": "https://taiwan.md/id/society/education-system-and-admissions-culture",
-    "readingTime": 67,
+    "readingTime": 74,
     "featured": true,
     "date": "2026-03-18",
     "path": "id/Society/education-system-and-admissions-culture.md"
@@ -101004,11 +101009,11 @@
   },
   {
     "title": "Sistema Educacional e Cultura de Ingresso no Ensino Superior",
-    "description": "Do sistema de exames unificados ao ensino básico de doze anos, como a educação de Taiwan busca equilíbrio entre competição e diversidade",
+    "description": "Da era dos exames nacionais ao Ensino Básico Nacional de Doze Anos, como Taiwan busca o equilíbrio entre competição e diversidade educacional",
     "category": "pt",
     "tags": [],
     "url": "https://taiwan.md/pt/society/education-system-and-admissions-culture",
-    "readingTime": 77,
+    "readingTime": 82,
     "featured": true,
     "date": "2026-03-18",
     "path": "pt/Society/education-system-and-admissions-culture.md"
@@ -101026,11 +101031,11 @@
   },
   {
     "title": "Sistema educativo y cultura de acceso a la educación superior",
-    "description": "Desde el sistema de exámenes unificados hasta la educación básica de doce años, cómo la educación de Taiwán busca el equilibrio entre competencia y diversidad",
+    "description": "Del sistema de examen conjunto a la educación básica de doce años: cómo la educación en Taiwán busca el equilibrio entre competencia y diversidad",
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/society/education-system-and-admissions-culture",
-    "readingTime": 80,
+    "readingTime": 84,
     "featured": true,
     "date": "2026-03-18",
     "path": "es/Society/education-system-and-admissions-culture.md"
@@ -101270,12 +101275,12 @@
     "path": "en/Society/social-housing-and-housing-justice.md"
   },
   {
-    "title": "Social Movements and Civic Engagement",
-    "description": "From the White Lily to the Sunflower, how Taiwan has practiced democracy and driven social progress through social movements",
+    "title": "Social Movements and Civil Participation",
+    "description": "From Wild Lilies to Sunflower: How Taiwan has practiced democracy and promoted social progress through social movements",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/society/social-movements-and-civic-participation",
-    "readingTime": 76,
+    "readingTime": 87,
     "featured": true,
     "date": "2026-03-18",
     "path": "en/Society/social-movements-and-civic-participation.md"
@@ -101684,23 +101689,23 @@
     "path": "de/History/social-movements-during-japanese-rule.md"
   },
   {
-    "title": "Soziale Bewegungen und bürgerliche Teilhabe",
-    "description": "Von der Wildlilien-Bewegung zur Sonnenblumen-Bewegung: Wie Taiwan durch soziale Bewegungen Demokratie verwirklicht und sozialen Fortschritt vorantreibt",
+    "title": "Soziale Bewegungen und zivische Teilhabe",
+    "description": "Von den wilden Linden bis zur Sonnenblumenblüte: Wie Taiwan durch soziale Bewegungen Demokratie verwirklicht und gesellschaftlichen Fortschritt erreicht",
     "category": "de",
     "tags": [],
     "url": "https://taiwan.md/de/society/social-movements-and-civic-participation",
-    "readingTime": 80,
+    "readingTime": 92,
     "featured": true,
     "date": "2026-03-18",
     "path": "de/Society/social-movements-and-civic-participation.md"
   },
   {
-    "title": "Sozialer Wohnungsbau und Wohngerechtigkeit",
-    "description": "Wie Taiwan durch Sozialwohnungspolitik Wohngerechtigkeit verwirklicht und jedem Menschen einen sicheren Wohnsitz ermöglicht",
+    "title": "Sozialer Wohnbau und Wohnrechtsgerechtigkeit",
+    "description": "Wie Taiwan durch soziale Wohnbaupolitik Wohnrechtsgerechtigkeit verwirklicht, damit jeder einen Ort zum Leben hat",
     "category": "de",
     "tags": [],
     "url": "https://taiwan.md/de/society/social-housing-and-housing-justice",
-    "readingTime": 93,
+    "readingTime": 89,
     "featured": false,
     "date": "2026-03-18",
     "path": "de/Society/social-housing-and-housing-justice.md"
@@ -103369,17 +103374,6 @@
     "featured": false,
     "date": "2026-03-17",
     "path": "fr/Society/democratic-system.md"
-  },
-  {
-    "title": "Système éducatif et culture de la réussite scolaire",
-    "description": "De l'examen national à l'enseignement obligatoire de douze ans, comment l'éducation à Taïwan cherche l'équilibre entre compétition et diversité",
-    "category": "fr",
-    "tags": [],
-    "url": "https://taiwan.md/fr/society/education-system-and-admissions-culture",
-    "readingTime": 79,
-    "featured": true,
-    "date": "2026-03-18",
-    "path": "fr/Society/education-system-and-admissions-culture.md"
   },
   {
     "title": "Système fluvial et caractéristiques hydrologiques de Taïwan : géographie hydrique des cours d'eau rapides et du changement saisonnier",
@@ -105751,6 +105745,17 @@
     "path": "id/Lifestyle/taking-off-shoes-indoors-taiwan.md"
   },
   {
+    "title": "Taiwan Medien und Pressefreiheit",
+    "description": "Von der Parteiherrschaft zur Medienkriegsära: Der demokratische Wandel und die digitalen Herausforderungen der taiwanesischen Pressefreiheit",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/society/media-and-press-freedom-in-taiwan",
+    "readingTime": 70,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "de/Society/media-and-press-freedom-in-taiwan.md"
+  },
+  {
     "title": "Taiwan Memes: Thirty Years of Cultural Evolution from PTT Users to a Social Safety Valve",
     "description": "Taiwanese memes are more than just internet jokes; they are a collective creative experiment spanning thirty years, transforming social trauma and political anxiety into shared cultural symbols.",
     "category": "en",
@@ -105965,6 +105970,23 @@
     "featured": false,
     "date": "2026-04-21",
     "path": "en/Culture/taiwan-paper-umbrella.md"
+  },
+  {
+    "title": "Taiwan Parks and Daily Leisure",
+    "description": "A cultural observation of Taiwan's parks as cross-generational social spaces, from early morning Tai Chi to evening strolls.",
+    "category": "en",
+    "tags": [
+      "Parks",
+      "leisure",
+      "social culture",
+      "cross-generation",
+      "daily life"
+    ],
+    "url": "https://taiwan.md/en/lifestyle/taiwan-parks-and-everyday-leisure",
+    "readingTime": 47,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "en/Lifestyle/taiwan-parks-and-everyday-leisure.md"
   },
   {
     "title": "Taiwan Passport: How a Small Blue Book Carries the Nation and Its Identity",
@@ -107175,6 +107197,17 @@
     "path": "fr/History/taipei-first-girls-high-school.md"
   },
   {
+    "title": "Taiwan: Comunidade e Cultura de Vila",
+    "description": "Da prática democrática mais básica à inovação social na construção comunitária",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/society/taiwan-neighborhood-and-li-culture",
+    "readingTime": 80,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "pt/Society/taiwan-neighborhood-and-li-culture.md"
+  },
+  {
     "title": "Taiwán: Con hábitat legal, aún no tiene un mar seguro",
     "description": "En 2020, los delfines blancos de la costa oeste de Taiwán obtuvieron finalmente 763 km² de hábitat importante legalmente protegido, pero las artes de pesca, los puertos, la contaminación y el ruido submarino siguen compitiendo en las mismas aguas someras.",
     "category": "es",
@@ -107649,17 +107682,11 @@
   },
   {
     "title": "Taiwan's 5G Network Construction and Digital Transformation",
-    "description": "Taiwan's journey from 4G leadership to 5G deployment, exploring the national strategy for digital transformation and the development of smart applications",
+    "description": "Tracing Taiwan's journey from leading in 4G to deploying 5G, exploring the national strategy for digital transformation and smart application development.",
     "category": "en",
-    "tags": [
-      "5G",
-      "數位轉型",
-      "數位發展部",
-      "智慧城市",
-      "電信產業"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/en/technology/taiwan-5g-digital-transformation",
-    "readingTime": 91,
+    "readingTime": 82,
     "featured": true,
     "date": "2026-03-18",
     "path": "en/Technology/taiwan-5g-digital-transformation.md"
@@ -107965,11 +107992,11 @@
     "description": "From a global powerhouse of animation outsourcing to a new force in original content: the half-century transformation of Taiwan's digital imaging industry.",
     "category": "en",
     "tags": [],
-    "url": "https://taiwan.md/en/art/taiwan-digital-animation-industry",
+    "url": "https://taiwan.md/en/technology/taiwan-digital-animation-industry",
     "readingTime": 42,
     "featured": false,
     "date": "2026-03-20",
-    "path": "en/Art/taiwan-digital-animation-industry.md"
+    "path": "en/Technology/taiwan-digital-animation-industry.md"
   },
   {
     "title": "Taiwan's diplomatic allies and international diplomacy: 12 allies, 113 missions, 177 visa-free countries (2026)",
@@ -108050,11 +108077,11 @@
   },
   {
     "title": "Taiwan's Fermented Foods and Pickling Culture",
-    "description": "From stinky tofu to fermented soybean curds, exploring Taiwan's unique fermentation techniques and pickling cultural traditions",
+    "description": "From stinky tofu to fermented soybean curds, exploring Taiwan's unique fermentation techniques and pickling traditions",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/food/taiwan-fermented-and-pickled-foods",
-    "readingTime": 55,
+    "readingTime": 49,
     "featured": false,
     "date": "2026-03-18",
     "path": "en/Food/taiwan-fermented-and-pickled-foods.md"
@@ -108434,17 +108461,6 @@
     "path": "en/Music/taiwan-music-industry-and-the-streaming-era.md"
   },
   {
-    "title": "Taiwan’s Neighborhood and Li (里) Culture",
-    "description": "From the grassroots of democracy to community‑building movements, Taiwan’s li system shows how civic life is practiced on the street level.",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/society/taiwan-neighborhood-and-li-culture",
-    "readingTime": 34,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "en/Society/taiwan-neighborhood-and-li-culture.md"
-  },
-  {
     "title": "Taiwan's New Idol Generation",
     "description": "In 2020, someone bet NT$130 million on manufacturing idols in Taiwan. Four shows won four Golden Bell Awards, more than fifty people debuted — then the champion group's popularity plummeted. The hardest thing about Taiwan's idol industry has always been: what happens after you debut?",
     "category": "en",
@@ -108516,23 +108532,6 @@
     "featured": false,
     "date": "2026-08-17",
     "path": "en/Economy/taiwan-paper-industry.md"
-  },
-  {
-    "title": "Taiwan’s Parks and Everyday Leisure",
-    "description": "From dawn tai chi to late‑night strolls—parks as Taiwan’s intergenerational living rooms.",
-    "category": "en",
-    "tags": [
-      "Parks",
-      "Leisure",
-      "Social Life",
-      "Intergenerational",
-      "Daily Life"
-    ],
-    "url": "https://taiwan.md/en/lifestyle/taiwan-parks-and-everyday-leisure",
-    "readingTime": 28,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "en/Lifestyle/taiwan-parks-and-everyday-leisure.md"
   },
   {
     "title": "Taiwan's Pigeon Racing: Letting Young Birds Fly Into a Wind Without Referees, So Everyone Has a Chance",
@@ -108936,11 +108935,11 @@
     "description": "70 years transformed Taiwan from agricultural island to urban island: The light and shadow of six special municipalities concentrating 70% of the population",
     "category": "en",
     "tags": [],
-    "url": "https://taiwan.md/en/society/taiwan-urban-development-and-rural-urban-divide",
+    "url": "https://taiwan.md/en/geography/taiwan-urban-development-and-rural-urban-divide",
     "readingTime": 69,
     "featured": false,
     "date": "2026-03-21",
-    "path": "en/Society/taiwan-urban-development-and-rural-urban-divide.md"
+    "path": "en/Geography/taiwan-urban-development-and-rural-urban-divide.md"
   },
   {
     "title": "Taiwan's Vegetarian Culture",
@@ -109471,6 +109470,17 @@
     "path": "en/Lifestyle/taiwan-traditional-markets-and-market-culture.md"
   },
   {
+    "title": "Taiwanese Media and Press Freedom",
+    "description": "From Party-State Control to the Media Wild West: The Democratization Process and Digital Transformation Challenges of Taiwanese Journalism",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/society/media-and-press-freedom-in-taiwan",
+    "readingTime": 63,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "en/Society/media-and-press-freedom-in-taiwan.md"
+  },
+  {
     "title": "Taiwanese Military Dependent Village Cuisine",
     "description": "The 1949 Great Migration brought flavors from across China's provinces, from kitchens behind bamboo fences to the preserved tastes after village demolition",
     "category": "en",
@@ -109642,11 +109652,11 @@
     "description": "A small island excluded from international tea quotas, which nevertheless created a golden age for the tea industry, ultimately conquering the world with a milk tea containing \"small snacks.\"",
     "category": "en",
     "tags": [],
-    "url": "https://taiwan.md/en/culture/golden-age-echoes-taiwan-tea-culture",
+    "url": "https://taiwan.md/en/food/golden-age-echoes-taiwan-tea-culture",
     "readingTime": 39,
     "featured": false,
     "date": "2026-03-23",
-    "path": "en/Culture/golden-age-echoes-taiwan-tea-culture.md"
+    "path": "en/Food/golden-age-echoes-taiwan-tea-culture.md"
   },
   {
     "title": "Taiwanese Traditional Arts: A Miracle Counterattack from Local Theater to Cultural Empire",
@@ -109886,15 +109896,15 @@
     "path": "de/Society/taiwanese-overseas-and-diaspora.md"
   },
   {
-    "title": "Taiwanische fermentierte Lebensmittel und Konservierungskultur",
-    "description": "Von stinkendem Tofu bis zu Tofubrot: Eine Erkundung der einzigartigen Fermentations- und Konservierungstraditionen Taiwans",
+    "title": "Taiwanische Dorfgemeinschaften und die Kultur der „Li“ (Nachbarschaftseinheit)",
+    "description": "Von den grundlegendsten demokratischen Praktiken bis zur sozialen Innovation in der Gemeinschaftsbildung",
     "category": "de",
     "tags": [],
-    "url": "https://taiwan.md/de/food/taiwan-fermented-and-pickled-foods",
-    "readingTime": 60,
+    "url": "https://taiwan.md/de/society/taiwan-neighborhood-and-li-culture",
+    "readingTime": 82,
     "featured": false,
     "date": "2026-03-18",
-    "path": "de/Food/taiwan-fermented-and-pickled-foods.md"
+    "path": "de/Society/taiwan-neighborhood-and-li-culture.md"
   },
   {
     "title": "Taiwanische Frauenbewegung: Von einer Zeitschrift im Kriegsrecht bis zur Gesetzesreform von Familie und Schule",
@@ -110049,17 +110059,6 @@
     "featured": false,
     "date": "2026-09-13",
     "path": "de/Lifestyle/taiwan-traditional-markets-and-market-culture.md"
-  },
-  {
-    "title": "Taiwanische Medien und Pressefreiheit",
-    "description": "Vom Partei-Staat zur Medien-Wildwest-Ära: Die Demokratisierung der taiwanischen Pressefreiheit und die Herausforderungen der digitalen Transformation",
-    "category": "de",
-    "tags": [],
-    "url": "https://taiwan.md/de/society/media-and-press-freedom-in-taiwan",
-    "readingTime": 63,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "de/Society/media-and-press-freedom-in-taiwan.md"
   },
   {
     "title": "Taiwanische Medizin und das nationale Krankenversicherungssystem: Weltweit führend mit 99,6 % auf Basis von 12,61 %",
@@ -110773,15 +110772,9 @@
     "title": "Taiwans Parks und der Alltag der Freizeit",
     "description": "Vom Tai-Chi im Morgengrauen bis zum abendlichen Spaziergang – eine kulturelle Beobachtung taiwanesischer Parks als generationenübergreifende soziale Räume",
     "category": "de",
-    "tags": [
-      "Park",
-      "Freizeit",
-      "Soziale Kultur",
-      "Generationenübergreifend",
-      "Alltagsleben"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/de/lifestyle/taiwan-parks-and-everyday-leisure",
-    "readingTime": 49,
+    "readingTime": 53,
     "featured": false,
     "date": "2026-03-18",
     "path": "de/Lifestyle/taiwan-parks-and-everyday-leisure.md"
@@ -111154,7 +111147,7 @@
     "category": "id",
     "tags": [],
     "url": "https://taiwan.md/id/lifestyle/taiwan-parks-and-everyday-leisure",
-    "readingTime": 40,
+    "readingTime": 46,
     "featured": false,
     "date": "2026-03-18",
     "path": "id/Lifestyle/taiwan-parks-and-everyday-leisure.md"
@@ -113207,11 +113200,11 @@
   },
   {
     "title": "The Breakfast Shop Auntie and the Community Intelligence Network",
-    "description": "I seriously thought all aunties ever did was call everyone 'handsome.' This piece is about how breakfast shop aunties become the intelligence hub of their entire community.",
+    "description": "I thought the aunties at breakfast shops only called people handsome, but this article writes about how they became the intelligence center of the entire community.",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/society/breakfast-shops-and-community-intelligence-network",
-    "readingTime": 46,
+    "readingTime": 47,
     "featured": false,
     "date": "2026-03-18",
     "path": "en/Society/breakfast-shops-and-community-intelligence-network.md"
@@ -116845,17 +116838,6 @@
     "path": "vi/Music/indigenous-music-traditions.md"
   },
   {
-    "title": "Truyền thông và tự do báo chí tại Đài Loan",
-    "description": "Từ sự kiểm soát của đảng–nhà nước đến thời kỳ truyền thông cạnh tranh phân mảnh: tiến trình dân chủ hóa tự do báo chí và những thách thức chuyển đổi số tại Đài Loan",
-    "category": "vi",
-    "tags": [],
-    "url": "https://taiwan.md/vi/society/media-and-press-freedom-in-taiwan",
-    "readingTime": 65,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "vi/Society/media-and-press-freedom-in-taiwan.md"
-  },
-  {
     "title": "Truyền thuyết Wu Feng: Câu chuyện địa phương như thế nào trở thành giáo trình của đế quốc",
     "description": "Năm 1855, tác phẩm Hai âm thơ đã lưại bản ghi viết sớm nhất về Wu Feng, nhưng chưa phải là nhân vật lý tưởng trong giáo trình sau này. Thời kỳ thuộc địa Nhật, chính phủ điều hành đã biên soạn lại truyền thuyện miền núi, dựng đồng, đưa vào giáo trình, biến Wu Feng thành anh hùng đạo đức xuyên lãnh thổ; đồng thời cố định nhân dân Tày nguyên thành \"kẻ khác\" cần được giáo hóa.",
     "category": "vi",
@@ -118937,12 +118919,23 @@
     "path": "vi/Culture/taiwan-funeral-culture-and-death-views.md"
   },
   {
+    "title": "Văn hóa thôn xóm và cộng đồng tại Đài Loan",
+    "description": "Từ thực tiễn dân chủ cơ sở đến đổi mới xã hội trong xây dựng cộng đồng",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/society/taiwan-neighborhood-and-li-culture",
+    "readingTime": 74,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "vi/Society/taiwan-neighborhood-and-li-culture.md"
+  },
+  {
     "title": "Văn hóa thực phẩm lên men và đồ muối của Đài Loan",
-    "description": "Từ đậu phụ thối đến đậu tương sữa, khám phá truyền thống kỹ thuật lên men và văn hóa muối độc đáo của Đài Loan",
+    "description": "Từ đậu phụ thối đến sữa đậu nành, khám phá truyền thống kỹ thuật lên men và văn hóa bảo quản độc đáo của Đài Loan",
     "category": "vi",
     "tags": [],
     "url": "https://taiwan.md/vi/food/taiwan-fermented-and-pickled-foods",
-    "readingTime": 53,
+    "readingTime": 48,
     "featured": false,
     "date": "2026-03-18",
     "path": "vi/Food/taiwan-fermented-and-pickled-foods.md"
@@ -119641,11 +119634,11 @@
   },
   {
     "title": "Vivienda social y justicia habitacional",
-    "description": "Cómo Taiwán busca hacer realidad la justicia habitacional mediante políticas de vivienda social, para que cada persona tenga un lugar donde establecerse y construir su vida",
+    "description": "Cómo Taiwán logra la justicia habitacional a través de la política de vivienda social, para que todos tengan un lugar donde vivir con dignidad",
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/society/social-housing-and-housing-justice",
-    "readingTime": 109,
+    "readingTime": 97,
     "featured": false,
     "date": "2026-03-18",
     "path": "es/Society/social-housing-and-housing-justice.md"
@@ -122389,17 +122382,6 @@
     "featured": false,
     "date": "2026-08-18",
     "path": "vi/Society/taiwan-dashcam-society.md"
-  },
-  {
-    "title": "Xã hội và Văn hóa Làng Đài Loan",
-    "description": "Từ thực hành dân chủ tầng lớp cơ bản đến sáng tạo xã hội của việc xã hội hóa",
-    "category": "vi",
-    "tags": [],
-    "url": "https://taiwan.md/vi/society/taiwan-neighborhood-and-li-culture",
-    "readingTime": 67,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "vi/Society/taiwan-neighborhood-and-li-culture.md"
   },
   {
     "title": "Xây dựng mạng 5G và chuyển đổi số của Đài Loan",
@@ -125975,6 +125957,17 @@
     "featured": false,
     "date": "2026-05-03",
     "path": "ru/Lifestyle/taoyuan-airport.md"
+  },
+  {
+    "title": "Бабушки из закусовок и сеть общественной информации",
+    "description": "На самом деле, я думал, что бабушки из закусовок только называют парней красивыми; статья о том, как продавщица в местном кафе стала центром сбора разведывательной информации для всего района.",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/society/breakfast-shops-and-community-intelligence-network",
+    "readingTime": 46,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "ru/Society/breakfast-shops-and-community-intelligence-network.md"
   },
   {
     "title": "Бавань: от спасительного эликсира во время наводнения к ремеслу выживания, запечатлённому в следе трёх пальцев",
@@ -129939,6 +129932,17 @@
     "path": "ru/Economy/mega-financial-holding-global-banking-network.md"
   },
   {
+    "title": "Медиа Тайваня и свобода прессы",
+    "description": "От партийного контроля к медийному \"эпоху воинов\": процесс демократизации свободы прессы Тайваня и вызовы цифровой трансформации",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/society/media-and-press-freedom-in-taiwan",
+    "readingTime": 63,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "ru/Society/media-and-press-freedom-in-taiwan.md"
+  },
+  {
     "title": "Международная торговая политика Тайваня: поиск позиции в волне глобализации",
     "description": "Как торгово-ориентированная экономика, Тайвань продвигает диверсифицированные торговые стратегии, включая вступление в СТПТП и политику «Нового юга», стремясь к прорыву в международном экономическом пространстве при геополитических ограничениях.",
     "category": "ru",
@@ -130615,17 +130619,6 @@
     "path": "ru/Art/taiwanese-art-education-and-academic-development.md"
   },
   {
-    "title": "Образовательная система и культура поступления",
-    "description": "От системы совместных экзаменов до двенадцатилетнего базового образования: как тайваньское образование ищет баланс между конкуренцией и многообразием",
-    "category": "ru",
-    "tags": [],
-    "url": "https://taiwan.md/ru/society/education-system-and-admissions-culture",
-    "readingTime": 72,
-    "featured": true,
-    "date": "2026-03-18",
-    "path": "ru/Society/education-system-and-admissions-culture.md"
-  },
-  {
     "title": "Обратная косая черта внутри иероглифа «гун»: два слоя налога на умолчания, которые тайваньские инженеры платят каждый день",
     "description": "В Windows 11 с языковой настройкой zh-TW скрипт статуса перевода свалил все отсканированные 4500+ путей в root, Technology стал нулем, а в тот же неделю CI в Linux был зелёным. Скрипт резал категории прямой косой чертой, а диск использует обратную — не вырезает. Старейший слой зарыт в самом символе: второй байт «гун» в Big5 — это ASCII-обратная косая черта, разработчики называют это «сюгунгай». И как пишутся пути, и какие символы живут внутри иероглифов — умолчания не считают с этой машиной. Git'овский quotePath — отдельная линия, природа другая.",
     "category": "ru",
@@ -130922,7 +130915,7 @@
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/lifestyle/taiwan-parks-and-everyday-leisure",
-    "readingTime": 40,
+    "readingTime": 45,
     "featured": false,
     "date": "2026-03-18",
     "path": "ru/Lifestyle/taiwan-parks-and-everyday-leisure.md"
@@ -132021,6 +132014,17 @@
     "path": "ru/Geography/national-scenic-area-system.md"
   },
   {
+    "title": "Система образования и культура поступления в Тайване",
+    "description": "От обязательного экзаменационного отбора до 12-летнего национального образования: как Тайвань ищет баланс между конкуренцией и многообразием",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/society/education-system-and-admissions-culture",
+    "readingTime": 79,
+    "featured": true,
+    "date": "2026-03-18",
+    "path": "ru/Society/education-system-and-admissions-culture.md"
+  },
+  {
     "title": "Система образования Тайваня: от ада совместных экзаменов к лабиринту многообразия — островной эксперимент",
     "description": "Тайвань потратила 30 лет на попытки устранить систему совместных экзаменов, но результатом последних раздельных тестов стало удвоение набора в классы для пересдачи. Как остров повторно проводит социальные эксперименты между давлением поступления и справедливостью образования?",
     "category": "ru",
@@ -132276,11 +132280,11 @@
   },
   {
     "title": "Социальные движения и гражданское участие",
-    "description": "От «Дикой лилии» к «Подсолнуху»: как Тайвань через социальные движения реализует демократию и способствует социальному прогрессу",
+    "description": "От «ночного жасмина» до «солнечного цветка»: как Тайвань реализует демократию и продвигает общественные реформы через социальные движения",
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/society/social-movements-and-civic-participation",
-    "readingTime": 75,
+    "readingTime": 87,
     "featured": true,
     "date": "2026-03-18",
     "path": "ru/Society/social-movements-and-civic-participation.md"
@@ -132380,12 +132384,12 @@
     "path": "ru/Art/century-of-taiwanese-watercolor-painting.md"
   },
   {
-    "title": "Строительство 5G-сетей и цифровая трансформация Тайваня",
-    "description": "От лидерства в 4G к развёртыванию 5G: исследование национальной стратегии цифровой трансформации и истории развития умных приложений Тайваня",
+    "title": "Строительство сети 5G в Тайване и цифровая трансформация",
+    "description": "Тайвань переходит от лидерства в 4G к развёртыванию 5G: история стратегии национальной цифровой трансформации и развития умных приложений",
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/technology/taiwan-5g-digital-transformation",
-    "readingTime": 94,
+    "readingTime": 86,
     "featured": true,
     "date": "2026-03-18",
     "path": "ru/Technology/taiwan-5g-digital-transformation.md"
@@ -132950,6 +132954,17 @@
     "featured": false,
     "date": "2026-08-16",
     "path": "ru/Lifestyle/taking-off-shoes-indoors-taiwan.md"
+  },
+  {
+    "title": "Тайвань: сообщество и культура районов (ли)",
+    "description": "От повседневной демократии на уровне района до социальных инноваций в укреплении сообщества",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/society/taiwan-neighborhood-and-li-culture",
+    "readingTime": 79,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "ru/Society/taiwan-neighborhood-and-li-culture.md"
   },
   {
     "title": "Тайвань: судебная реформа и система превентивного заключения под стражей",
@@ -133906,17 +133921,6 @@
     "path": "ru/Culture/taiwanese-life-ceremony-traditions.md"
   },
   {
-    "title": "Тайваньские СМИ и свобода прессы",
-    "description": "От партийно-государственного контроля к эпохе «войны СМИ»: путь демократизации свободы прессы на Тайване и вызовы цифровой трансформации",
-    "category": "ru",
-    "tags": [],
-    "url": "https://taiwan.md/ru/society/media-and-press-freedom-in-taiwan",
-    "readingTime": 58,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "ru/Society/media-and-press-freedom-in-taiwan.md"
-  },
-  {
     "title": "Тайваньские странствия: книга «переведённая сестрой», прошедший путь от Чуньшань до лондонской трибуны Букера",
     "description": "19 июня 2015 года, в день смерти младшей сестры Ян Жоухэй, Ян Жоуцзы открыла оставленный ею бухгалтерский журнал и потратила три дня на расшифровку его засечек и кружков. Пять лет спустя Чуньшань издал «Тайваньские странствия» под указанием «Чиньшань Тidzуруко — автор, Ян Шуанцзы — переводчик» — в графе переводчика значилось имя уже ушедшей сестры. В 2024 году — Национальная книжная премия США в Нью-Йорке, в 2026 — Международный Букер в Лондоне: она перевела на английский несуществующую книгу от имени сестры.",
     "category": "ru",
@@ -134373,17 +134377,6 @@
     "path": "ru/Economy/taiwan-agriculture-and-rural-revitalization.md"
   },
   {
-    "title": "Тайваньское сообщество и культура ли",
-    "description": "От демократической практики на самом низовом уровне до социальных инноваций в строительстве сообществ",
-    "category": "ru",
-    "tags": [],
-    "url": "https://taiwan.md/ru/society/taiwan-neighborhood-and-li-culture",
-    "readingTime": 71,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "ru/Society/taiwan-neighborhood-and-li-culture.md"
-  },
-  {
     "title": "Тайваньское традиционное искусство",
     "description": "Самый большой культурный чудо 21 века: империя пуппеточного театра с доходом в миллиарды, как она превратила сельские богослужебные представления в культурную силу, завоевавшую мир?",
     "category": "ru",
@@ -134613,17 +134606,6 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "ru/People/terry-gou.md"
-  },
-  {
-    "title": "Тётя из лавки завтраков и общественная информационная сеть",
-    "description": "Правда или нет, я думал, тётя только умеет называть всех парнями-красавчиками — о том, как тётя из лавки завтраков становится информационным центром всего района",
-    "category": "ru",
-    "tags": [],
-    "url": "https://taiwan.md/ru/society/breakfast-shops-and-community-intelligence-network",
-    "readingTime": 45,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "ru/Society/breakfast-shops-and-community-intelligence-network.md"
   },
   {
     "title": "Тие шкварки Апо: от «Отель на причале» до самой стойкой коллективной памяти Таншуй",
@@ -135074,12 +135056,12 @@
     "path": "ru/Culture/mid-autumn-festival.md"
   },
   {
-    "title": "Ферментированные продукты и маринованная культура Тайваня",
-    "description": "От вонючего тофу к ферментированному тофу: исследование уникальных технологий ферментации и традиций маринования Тайваня",
+    "title": "Ферментированные продукты и культура засолки Тайваня",
+    "description": "От сточжоу до тофу-рю: исследование уникальных ферментационных технологий и традиций засолки Тайваня",
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/food/taiwan-fermented-and-pickled-foods",
-    "readingTime": 59,
+    "readingTime": 52,
     "featured": false,
     "date": "2026-03-18",
     "path": "ru/Food/taiwan-fermented-and-pickled-foods.md"
@@ -137941,17 +137923,6 @@
     "path": "ar/Food/taiwan-specialty-home-cooking.md"
   },
   {
-    "title": "أطعمة تايوان المخمرة وثقافة التخليل",
-    "description": "من التوفو الكريه الرائحة إلى التوفو المخمر، استكشاف تقنيات التخمير الفريدة في تايوان وتقاليد ثقافة التخليل",
-    "category": "ar",
-    "tags": [],
-    "url": "https://taiwan.md/ar/food/taiwan-fermented-and-pickled-foods",
-    "readingTime": 45,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "ar/Food/taiwan-fermented-and-pickled-foods.md"
-  },
-  {
     "title": "أعمدة الكهرباء وصناديق المحولات: تايوان تعلق الحياة العصرية على زوايا الشوارع، وترسم الذاكرة المحلية عليها",
     "description": "من الطاقة الكهرومائية عام 1905 إلى دفن الكابلات وصناديق المحولات الملونة اليوم، كيف أصبحت معدات الطاقة في آنٍ واحد أساسًا حضريًا، ومخاطر كوارث، وعلامات هوية محلية.",
     "category": "ar",
@@ -138219,6 +138190,17 @@
     "path": "ar/Society/taiwan-judicial-reform-and-preventive-detention.md"
   },
   {
+    "title": "إعلام تايوان وحرية الصحافة",
+    "description": "من السيطرة القومية إلى عصر الإعلام المتنافس: مسيرة تحول الديمقراطية في إعلام تايوان وتحديات التحول الرقمي",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/society/media-and-press-freedom-in-taiwan",
+    "readingTime": 54,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "ar/Society/media-and-press-freedom-in-taiwan.md"
+  },
+  {
     "title": "إليفانت جيم (大象體操): ثلاثي تايواني لا أحد يغني فيه لكن يمكن سماع الأغنية",
     "description": "من فرقة طلابية في نادي الموسيقى بمدرسة كاوهسيونغ الثانوية العادية التابعة للجامعة الوطنية ومدرسة كاوهسيونغ الثانوية للبنات، إلى مسرح فوجي روك الأحمر، وكامب فلوغ نا، وآركتانجنت، أمضت إليفانت جيم 13 عامًا لتجعل العالم يسمع صوتًا تايوانيًا بلا مغنٍ رئيسي. بعد فوزهم بجائزة لجنة التحكيم في جوائز الغولدن ميلودي 2024، أعلنوا دخولهم في فترة استراحة طويلة؛ وفيلمهم الوثائقي \"أكثر واقعية من الحلم\" الذي عُرض بالتزامن يكشف أنهم كانوا على حافة التفكك عشية جولتهم العالمية 2023.",
     "category": "ar",
@@ -138454,6 +138436,17 @@
     "path": "ar/Food/oil-rice.md"
   },
   {
+    "title": "الأطعمة المخمرة والمحافظة على الطعام في تايوان",
+    "description": "استكشاف تقنيات التخمير والتقاليد المحلية الفريدة لتايوان، من التوفو المتعفن إلى معجون التوفو (التوفو ريو)",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/food/taiwan-fermented-and-pickled-foods",
+    "readingTime": 43,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "ar/Food/taiwan-fermented-and-pickled-foods.md"
+  },
+  {
     "title": "الأميرة الغبية: من الموزاييك إلى المنتجة، الضحك ليس كل شيء",
     "description": "بدأت الأميرة الغبية (داي بينغ-يا) من واجب دبلجة في قسم الإذاعة والتلفزيون بجامعة تايوان للفنون، واختبأت أولاً خلف الموزاييك، ثم حولت كتابة السيناريو والتصوير والمونتاج إلى سير عمل فردي. لاحقاً أسست فريقاً وأنتجت برامج وافتتحت مقهى ودخلت عالم السينما، وبقيت تبحث عن موقعها بين \"بيع السخافة\" والحديث الجاد.",
     "category": "ar",
@@ -138485,6 +138478,17 @@
     "featured": false,
     "date": "2026-03-17",
     "path": "ar/Nature/endemic-species.md"
+  },
+  {
+    "title": "الإسكان الاجتماعي والعدالة السكنية",
+    "description": "كيف تحقق تايوان العدالة السكنية من خلال سياسات الإسكان الاجتماعي، لتوفير مكان آمن لكل فرد",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/society/social-housing-and-housing-justice",
+    "readingTime": 75,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "ar/Society/social-housing-and-housing-justice.md"
   },
   {
     "title": "الإسكان الوطني والعدالة السكنية: المصعد الرأسمالي الذي أنشأته الحكومة، لمن يخدم في النهاية؟",
@@ -139106,11 +139110,11 @@
   },
   {
     "title": "الحركات الاجتماعية والمشاركة المدنية",
-    "description": "من حركة الزنبق البري إلى حركة عباد الشمس، كيف مارست تايوان الديمقراطية وحققت التقدم الاجتماعي من خلال الحركات الاجتماعية",
+    "description": "من نبضة البرية إلى زهرة الشمس، كيف حققت تايوان الديمقراطية وسرعت التقدم الاجتماعي من خلال الحركات الاجتماعية",
     "category": "ar",
     "tags": [],
     "url": "https://taiwan.md/ar/society/social-movements-and-civic-participation",
-    "readingTime": 62,
+    "readingTime": 68,
     "featured": true,
     "date": "2026-03-18",
     "path": "ar/Society/social-movements-and-civic-participation.md"
@@ -139323,17 +139327,6 @@
     "featured": true,
     "date": "2026-04-05",
     "path": "ar/Food/zongzi-rice-dumpling.md"
-  },
-  {
-    "title": "السكن الاجتماعي والعدالة السكنية",
-    "description": "كيف تحقق تايوان العدالة السكنية من خلال سياسة السكن الاجتماعي، لتوفير مأوى مستقر لكل فرد",
-    "category": "ar",
-    "tags": [],
-    "url": "https://taiwan.md/ar/society/social-housing-and-housing-justice",
-    "readingTime": 71,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "ar/Society/social-housing-and-housing-justice.md"
   },
   {
     "title": "السمك الطائر: سمكة واحدة تحدد تقويم وطعام ومحرمات أهل لانويو",
@@ -140322,12 +140315,12 @@
     "path": "ar/Culture/plurk-taiwan-microblog.md"
   },
   {
-    "title": "بناء شبكة الجيل الخامس في تايوان والتحول الرقمي",
-    "description": "من الريادة في الجيل الرابع إلى تخطيط الجيل الخامس: استكشاف الاستراتيجية الوطنية للتحول الرقمي ومسار تطوير التطبيقات الذكية في تايوان",
+    "title": "بناء شبكات الجيل الخامس (5G) في تايوان والتحول الرقمي",
+    "description": "رحلة تايوان من الريادة في 4G إلى تخطيط 5G، واستكشاف استراتيجية الدولة للتحول الرقمي وتطور التطبيقات الذكية",
     "category": "ar",
     "tags": [],
     "url": "https://taiwan.md/ar/technology/taiwan-5g-digital-transformation",
-    "readingTime": 81,
+    "readingTime": 73,
     "featured": true,
     "date": "2026-03-18",
     "path": "ar/Technology/taiwan-5g-digital-transformation.md"
@@ -141154,17 +141147,6 @@
     "featured": false,
     "date": "2026-05-05",
     "path": "ar/Society/taiwan-lithuania.md"
-  },
-  {
-    "title": "تايوان: الإعلام وحرية الصحافة",
-    "description": "من سيطرة الحزب-الدولة إلى عصر \"الدول المتحاربة إعلامياً\": مسار ديمقراطة حرية الصحافة في تايوان وتحديات التحول الرقمي",
-    "category": "ar",
-    "tags": [],
-    "url": "https://taiwan.md/ar/society/media-and-press-freedom-in-taiwan",
-    "readingTime": 48,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "ar/Society/media-and-press-freedom-in-taiwan.md"
   },
   {
     "title": "تايوان: التجارة الإلكترونية والمدفوعات الرقمية — ثلاث حروب تجارية في جزيرة واحدة",
@@ -142468,6 +142450,17 @@
     "path": "ar/Culture/taiwan-kuaikuai-culture.md"
   },
   {
+    "title": "ثقافة \"لي\" والمجتمع في تايوان",
+    "description": "من الممارسات الديمقراطية الأساسية إلى الابتكار الاجتماعي في بناء المجتمع",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/society/taiwan-neighborhood-and-li-culture",
+    "readingTime": 62,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "ar/Society/taiwan-neighborhood-and-li-culture.md"
+  },
+  {
     "title": "ثقافة KTV في تايوان: من هولو دي وتشيان كوي إلى تطور عصر الصالات الاجتماعية",
     "description": "استكشاف مسار تطور ثقافة KTV في تايوان، من الكاريوكي المستورد من اليابان إلى ثقافة الصالات الخاصة المحلية، وعصر المنافسة بين هولو دي وتشيان كوي، وكيف أصبحت قوائم ترتيب الأغاني المطلوبة مؤشرًا للثقافة الشعبية، بالإضافة إلى تحديات تحول الصناعة بعد الجائحة",
     "category": "ar",
@@ -142696,17 +142689,6 @@
     "featured": false,
     "date": "2026-03-20",
     "path": "ar/Food/taiwan-seafood-culture.md"
-  },
-  {
-    "title": "ثقافة المجتمع والحي في تايوان",
-    "description": "من الممارسة الديمقراطية على المستوى الجذري إلى الابتكار الاجتماعي في بناء المجتمع",
-    "category": "ar",
-    "tags": [],
-    "url": "https://taiwan.md/ar/society/taiwan-neighborhood-and-li-culture",
-    "readingTime": 55,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "ar/Society/taiwan-neighborhood-and-li-culture.md"
   },
   {
     "title": "ثقافة المحرمات الصوتية في تايوان: لماذا يجعل الرقم «أربعة» المجتمع بأكمله يتخطى الطوابق؟",
@@ -143626,7 +143608,7 @@
       "حياة يومية"
     ],
     "url": "https://taiwan.md/ar/lifestyle/taiwan-parks-and-everyday-leisure",
-    "readingTime": 35,
+    "readingTime": 40,
     "featured": false,
     "date": "2026-03-18",
     "path": "ar/Lifestyle/taiwan-parks-and-everyday-leisure.md"
@@ -143926,6 +143908,17 @@
     "featured": false,
     "date": "2026-06-01",
     "path": "ar/Politics/taiwan-presidential-pets.md"
+  },
+  {
+    "title": "خالات محلات الإفطار وشبكة المعلومات المجتمعية",
+    "description": "ماذا لو كانت الخالة التي تطلب من الشباب أن يكونوا وسيمين فقط؟ مقال عن كيف أصبحت خالة محل الإفطار مركز معلومات للمجتمع بأكمله.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/society/breakfast-shops-and-community-intelligence-network",
+    "readingTime": 40,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "ar/Society/breakfast-shops-and-community-intelligence-network.md"
   },
   {
     "title": "خبز التفاح: في جزيرة بلا تفاح، إشباع وهم حداثة",
@@ -146048,17 +146041,6 @@
     "featured": false,
     "date": "2026-04-24",
     "path": "ar/Nature/the-ornithology-of-formosa.md"
-  },
-  {
-    "title": "عمة متجر الفطور وشبكة معلومات المجتمع",
-    "description": "كنت أظن أن العمة تنادي فقط بالشباب الوسيمين، أكتب عن كيف تصبح عمة متجر الفطور مركز معلومات المجتمع بأكمله",
-    "category": "ar",
-    "tags": [],
-    "url": "https://taiwan.md/ar/society/breakfast-shops-and-community-intelligence-network",
-    "readingTime": 36,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "ar/Society/breakfast-shops-and-community-intelligence-network.md"
   },
   {
     "title": "عملية الانتخابات: من صندوق الاقتراع الفارغ إلى فرز الأصوات ليلاً، طقس ديمقراطي يشارك فيه الشعب بأسره",
@@ -149218,12 +149200,12 @@
     "path": "ar/Lifestyle/taiwan-education-system.md"
   },
   {
-    "title": "نظام التعليم وثقافة القبول الجامعي",
-    "description": "من نظام الامتحان الموحد إلى التعليم الأساسي لمدة اثني عشر عاماً، كيف يسعى التعليم في تايوان لتحقيق التوازن بين المنافسة والتنوع",
+    "title": "نظام التعليم وثقافة القبول الجامعي في تايوان",
+    "description": "من نظام الامتحانات الموحدة إلى التعليم الوطني لمدة اثني عشر عامًا، كيف تسعى تايوان لتحقيق التوازن بين المنافسة والتنوع؟",
     "category": "ar",
     "tags": [],
     "url": "https://taiwan.md/ar/society/education-system-and-admissions-culture",
-    "readingTime": 56,
+    "readingTime": 65,
     "featured": true,
     "date": "2026-03-18",
     "path": "ar/Society/education-system-and-admissions-culture.md"
@@ -153820,12 +153802,12 @@
     "path": "hi/Society/taiwan-dashcam-society.md"
   },
   {
-    "title": "ताइवान का 5जी नेटवर्क निर्माण और डिजिटल परिवर्तन",
-    "description": "4जी में अग्रणी से 5जी लेआउट तक, ताइवान की डिजिटल परिवर्तन राष्ट्रीय रणनीति और स्मार्ट एप्लिकेशन विकास यात्रा की खोज",
+    "title": "ताइवान का 5G नेटवर्क निर्माण और डिजिटल रूपांतरण",
+    "description": "ताइवान ने 4G से 5G की ओर अग्रणी प्रगति की है, जहाँ डिजिटल रूपांतरण की राष्ट्रीय रणनीति और स्मार्ट एप्लीकेशन विकास की यात्रा का पता चलता है",
     "category": "hi",
     "tags": [],
     "url": "https://taiwan.md/hi/technology/taiwan-5g-digital-transformation",
-    "readingTime": 84,
+    "readingTime": 73,
     "featured": true,
     "date": "2026-03-18",
     "path": "hi/Technology/taiwan-5g-digital-transformation.md"
@@ -154393,17 +154375,6 @@
     "path": "hi/Nature/taiwanese-white-dolphin.md"
   },
   {
-    "title": "ताइवान का समुदाय और ली संस्कृति",
-    "description": "सबसे जमीनी स्तर के लोकतांत्रिक अभ्यास से लेकर समुदाय निर्माण के सामाजिक नवाचार तक",
-    "category": "hi",
-    "tags": [],
-    "url": "https://taiwan.md/hi/society/taiwan-neighborhood-and-li-culture",
-    "readingTime": 66,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "hi/Society/taiwan-neighborhood-and-li-culture.md"
-  },
-  {
     "title": "ताइवान का समुद्री पारिस्थितिकी तंत्र और प्रवाल भित्ति संरक्षण",
     "description": "ताइवान चारों ओर से समुद्र से घिरा हुआ है और समृद्ध समुद्री पारिस्थितिकी तंत्र रखता है, प्रवाल भित्ति विरंजन संकट से लेकर व्हेल-डॉल्फिन संरक्षण तक, समुद्री राष्ट्रीय उद्यानों की सुरक्षा प्रभावशीलता और भविष्य की चुनौतियों की खोज करता है",
     "category": "hi",
@@ -154474,17 +154445,6 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "hi/Music/taiwan-hakka-music-from-mountain-songs-to-rock.md"
-  },
-  {
-    "title": "ताइवान किण्वित खाद्य पदार्थ और अचार संस्कृति",
-    "description": "सुगंधित चीज़ से लेकर सेम पनीर तक, ताइवान की अद्वितीय किण्वन तकनीकों और अचार संस्कृति परंपराओं की खोज",
-    "category": "hi",
-    "tags": [],
-    "url": "https://taiwan.md/hi/food/taiwan-fermented-and-pickled-foods",
-    "readingTime": 49,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "hi/Food/taiwan-fermented-and-pickled-foods.md"
   },
   {
     "title": "ताइवान की 'स्किल्ड' पीढ़ी—एक व्यक्ति, कई भूमिकाएँ: अस्तित्व और विकल्प",
@@ -155947,7 +155907,7 @@
       "रोज़मर्रा का जीवन"
     ],
     "url": "https://taiwan.md/hi/lifestyle/taiwan-parks-and-everyday-leisure",
-    "readingTime": 41,
+    "readingTime": 44,
     "featured": false,
     "date": "2026-03-18",
     "path": "hi/Lifestyle/taiwan-parks-and-everyday-leisure.md"
@@ -155962,6 +155922,17 @@
     "featured": false,
     "date": "2026-04-28",
     "path": "hi/Society/taiwanese-overseas-and-diaspora.md"
+  },
+  {
+    "title": "ताइवान के फ़रमेंटेट खाद्य पदार्थ और मिरची वाले संस्कृति",
+    "description": "सड़े दाल से लेकर फ़रमेंटेट दाल के घी तक, ताइवान की विशिष्ट फ़रमेंटेशन तकनीकों और मिरची वाले संस्कृति परंपराओं की खोज",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/food/taiwan-fermented-and-pickled-foods",
+    "readingTime": 47,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "hi/Food/taiwan-fermented-and-pickled-foods.md"
   },
   {
     "title": "ताइवान के बच्चों के अंग्रेजी नाम: Mary, Kevin और पढ़ाई पढ़ाने वाली शिक्षकों का नामकरण अधिकार",
@@ -156171,6 +156142,17 @@
     "featured": false,
     "date": "2026-04-21",
     "path": "hi/Lifestyle/mascot-culture-in-taiwan.md"
+  },
+  {
+    "title": "ताइवान के समुदाय और 'ली' संस्कृति",
+    "description": "सबसे निचले स्तर के लोकतंत्रिक अभ्यास से लेकर सामुदायिक निर्माण तक, सामाजिक नवाचार की कहानी",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/society/taiwan-neighborhood-and-li-culture",
+    "readingTime": 74,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "hi/Society/taiwan-neighborhood-and-li-culture.md"
   },
   {
     "title": "ताइवान के सामुदायिक विश्वविद्यालय: कक्षाओं को सार्वजनिक चौपाल में बदलना",
@@ -156818,6 +156800,17 @@
     "path": "hi/Food/taiwan-michelin-fine-dining.md"
   },
   {
+    "title": "ताइवान मीडिया और प्रेस की स्वतंत्रता",
+    "description": "पार्टी-राज्य नियंत्रण से मीडिया के युद्ध युग तक: ताइवान में समाचार स्वतंत्रता का लोकतंत्रीकरण की प्रक्रिया और डिजिटल परिवर्तन की चुनौतियाँ",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/society/media-and-press-freedom-in-taiwan",
+    "readingTime": 61,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "hi/Society/media-and-press-freedom-in-taiwan.md"
+  },
+  {
     "title": "ताइवान मूल निवासी पारिस्थितिक ज्ञान और पर्यावरण संरक्षण",
     "description": "ताइवान के मूल निवासी लोगों द्वारा हज़ारों साल तक संचित पारंपरिक पारिस्थितिक ज्ञान, और आधुनिक पर्यावरण संरक्षण में उसके महत्वपूर्ण मूल्य और व्यावहारिक तरीकों की खोज",
     "category": "hi",
@@ -156992,17 +156985,6 @@
     "featured": false,
     "date": "2026-08-21",
     "path": "hi/History/taiwan-malaria-eradication.md"
-  },
-  {
-    "title": "ताइवान में मीडिया और प्रेस की स्वतंत्रता",
-    "description": "दलीय-राज्य नियंत्रण से तीव्र मीडिया प्रतिस्पर्धा तक: ताइवान में प्रेस की स्वतंत्रता की लोकतंत्रीकरण यात्रा और डिजिटल रूपांतरण की चुनौतियाँ",
-    "category": "hi",
-    "tags": [],
-    "url": "https://taiwan.md/hi/society/media-and-press-freedom-in-taiwan",
-    "readingTime": 58,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "hi/Society/media-and-press-freedom-in-taiwan.md"
   },
   {
     "title": "ताइवान में लोक गीत आंदोलन",
@@ -158205,6 +158187,17 @@
     "path": "hi/Geography/nantou-county.md"
   },
   {
+    "title": "नाश्ते की दुकान की आंटी और सामुदायिक सूचना नेटवर्क",
+    "description": "सच या झूठ, मुझे लगा था कि आंटी केवल किसी को हैंडसम कहती हैं; यह लेख बताता है कि कैसे नाश्ते की दुकान की आंटी पूरे समुदाय का सूचना केंद्र बन जाती हैं।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/society/breakfast-shops-and-community-intelligence-network",
+    "readingTime": 47,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "hi/Society/breakfast-shops-and-community-intelligence-network.md"
+  },
+  {
     "title": "निऊ चेंग्-त्सै",
     "description": "《मोंगा》निर्देशक, अभिनेता से निर्देशक में परिवर्तन, विवादास्पद पहलुओं के साथ चलचित्र निर्माता",
     "category": "hi",
@@ -159124,17 +159117,6 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "hi/People/brigitte-lin-legendary-actress.md"
-  },
-  {
-    "title": "ब्रेकफास्ट शॉप की आंटी और सामुदायिक सूचना जाल",
-    "description": "सच में, मुझे लगा था कि आंटी सिर्फ लोगों को 'सुंदर युवक' कहना जानती हैं, लेकिन यह लेख बताता है कि कैसे एक ब्रेकफास्ट शॉप की आंटी पूरे पड़ोस की सूचना केंद्र बन जाती है।",
-    "category": "hi",
-    "tags": [],
-    "url": "https://taiwan.md/hi/society/breakfast-shops-and-community-intelligence-network",
-    "readingTime": 43,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "hi/Society/breakfast-shops-and-community-intelligence-network.md"
   },
   {
     "title": "ब्लू कबूतर: सफेद कोट की दूरी को कैमरे के सामने लाना",
@@ -161719,11 +161701,11 @@
   },
   {
     "title": "शिक्षा प्रणाली और प्रवेश संस्कृति",
-    "description": "संयुक्त परीक्षा प्रणाली से बारह वर्षीय राष्ट्रीय शिक्षा तक: ताइवान प्रतिस्पर्धा और बहुलवाद के बीच संतुलन कैसे खोजता है",
+    "description": "संयुक्त प्रवेश परीक्षा प्रणाली से बारह वर्षीय राष्ट्रीय शिक्षा तक, ताइवान की शिक्षा प्रतिस्पर्धा और विविधता के बीच संतुलन कैसे खोजती है",
     "category": "hi",
     "tags": [],
     "url": "https://taiwan.md/hi/society/education-system-and-admissions-culture",
-    "readingTime": 66,
+    "readingTime": 69,
     "featured": true,
     "date": "2026-03-18",
     "path": "hi/Society/education-system-and-admissions-culture.md"
@@ -162206,22 +162188,22 @@
   },
   {
     "title": "सामाजिक आंदोलन और नागरिक भागीदारी",
-    "description": "वेल्वेट लिली से सनफ्लावर तक, ताइवान ने सामाजिक आंदोलनों के माध्यम से लोकतंत्र को कैसे साकार किया और सामाजिक प्रगति को कैसे बढ़ावा दिया",
+    "description": "'वाइल्ड रोज़' से 'सनफ्लॉवर मूवमेंट' तक: ताइवान ने सामाजिक आंदोलनों के माध्यम से लोकतंत्र का अभ्यास और सामाजिक प्रगति को बढ़ावा कैसे दिया",
     "category": "hi",
     "tags": [],
     "url": "https://taiwan.md/hi/society/social-movements-and-civic-participation",
-    "readingTime": 69,
+    "readingTime": 80,
     "featured": true,
     "date": "2026-03-18",
     "path": "hi/Society/social-movements-and-civic-participation.md"
   },
   {
-    "title": "सामाजिक आवास और आवासीय न्याय",
-    "description": "ताइवान ने सामाजिक आवास नीति के माध्यम से आवासीय न्याय को कैसे साकार किया, ताकि हर किसी के पास रहने की जगह हो",
+    "title": "सामाजिक आवास और आवास न्याय",
+    "description": "ताइवान कैसे सामाजिक आवास नीति के माध्यम से आवास न्याय को हासिल करता है, जिससे हर व्यक्ति के पास स्थिर रहने का स्थान मिलता है",
     "category": "hi",
     "tags": [],
     "url": "https://taiwan.md/hi/society/social-housing-and-housing-justice",
-    "readingTime": 80,
+    "readingTime": 81,
     "featured": false,
     "date": "2026-03-18",
     "path": "hi/Society/social-housing-and-housing-justice.md"
@@ -163573,19 +163555,19 @@
     "path": "ko/Technology/taiwan-teachers-and-ai-education.md"
   },
   {
-    "title": "교육 제도와 진학 문화",
-    "description": "연합고사 제도부터 12년 국교까지, 타이완 교육이 경쟁과 다양성 사이에서 어떻게 균형을 모색해 왔는가",
+    "title": "교육 제도와 입시 문화",
+    "description": "연합고시 제도부터 12년 의무 교육까지, 타이완 교육은 경쟁과 다양성 사이에서 어떻게 균형을 모색하는가",
     "category": "ko",
     "tags": [
       "교육",
-      "진학",
-      "12년 국교",
-      "직업 교육",
-      "교육 개혁",
-      "경쟁 문화"
+      "입시",
+      "12년국교",
+      "직업교육",
+      "교육개혁",
+      "경쟁문화"
     ],
     "url": "https://taiwan.md/ko/society/education-system-and-admissions-culture",
-    "readingTime": 30,
+    "readingTime": 32,
     "featured": true,
     "date": "2026-03-18",
     "path": "ko/Society/education-system-and-admissions-culture.md"
@@ -164516,23 +164498,6 @@
     "path": "ko/Economy/top-50-companies-taiwan.md"
   },
   {
-    "title": "대만 5G 네트워크 구축과 디지털 전환",
-    "description": "대만이 4G 선도에서 5G 전략까지, 디지털 전환 국가 전략과 스마트 응용 발전 과정을 탐구한다",
-    "category": "ko",
-    "tags": [
-      "5G",
-      "디지털 전환",
-      "디지털발전부",
-      "스마트시티",
-      "통신산업"
-    ],
-    "url": "https://taiwan.md/ko/technology/taiwan-5g-digital-transformation",
-    "readingTime": 40,
-    "featured": true,
-    "date": "2026-03-18",
-    "path": "ko/Technology/taiwan-5g-digital-transformation.md"
-  },
-  {
     "title": "대만 VR 10년: 왕슈에홍의 원년 선언에서 구글에 팀을 넘기기까지",
     "description": "2016년 HTC가 바르셀로나에서 Vive를 공개하며 왕슈에홍이 VR 원년을 선포했다. 9년 후인 2025년 HTC는 2억 5천만 달러에 XR 연구개발 팀을 구글에 매각했다. 그 사이에 일어난 일은, 하나의 섬이 \"다음 큰 것\"에 대해 집중적으로 베팅했다가 집중적으로 식어가는 과정이었다.",
     "category": "ko",
@@ -164663,7 +164628,7 @@
       "일상생활"
     ],
     "url": "https://taiwan.md/ko/lifestyle/taiwan-parks-and-everyday-leisure",
-    "readingTime": 22,
+    "readingTime": 24,
     "featured": false,
     "date": "2026-03-18",
     "path": "ko/Lifestyle/taiwan-parks-and-everyday-leisure.md"
@@ -165432,23 +165397,6 @@
     "featured": false,
     "date": "2026-03-24",
     "path": "ko/Economy/taiwan-creator-economy.md"
-  },
-  {
-    "title": "대만 언론과 언론 자유",
-    "description": "당국 통제에서 언론 전국시대로: 대만 언론 자유의 민주화 과정과 디지털 전환 도전",
-    "category": "ko",
-    "tags": [
-      "언론",
-      "언론 자유",
-      "민주화",
-      "디지털 전환",
-      "미디어 리터러시"
-    ],
-    "url": "https://taiwan.md/ko/society/media-and-press-freedom-in-taiwan",
-    "readingTime": 26,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "ko/Society/media-and-press-freedom-in-taiwan.md"
   },
   {
     "title": "대만 영상음악: 화면에 감정을 깔아 주는 일에서, 한 섬의 고유한 소리를 발굴하는 일로",
@@ -166635,23 +166583,6 @@
     "featured": false,
     "date": "2026-08-15",
     "path": "ko/Lifestyle/taiwan-queuing-culture.md"
-  },
-  {
-    "title": "대만의 지역 사회와 리(里) 문화",
-    "description": "가장 기층의 민주적 실천에서 지역 사회 조성의 사회 혁신까지",
-    "category": "ko",
-    "tags": [
-      "리린 제도",
-      "지역 사회 조성",
-      "사회 대학",
-      "시민 참여",
-      "지방 자치"
-    ],
-    "url": "https://taiwan.md/ko/society/taiwan-neighborhood-and-li-culture",
-    "readingTime": 30,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "ko/Society/taiwan-neighborhood-and-li-culture.md"
   },
   {
     "title": "대만의 지형과 지질",
@@ -170020,17 +169951,6 @@
     "path": "ko/People/red-shin-minecraft-youtuber.md"
   },
   {
-    "title": "아침 식당 아주머니와 지역사회 정보망",
-    "description": "정말인가, 나는 아주머니가 손님에게 잘생긴 사람이라고 부르는 줄만 알았는데, 아침 식당 아주머니가 어떻게 온 지역사회의 정보 중심이 되는지를 쓴 글",
-    "category": "ko",
-    "tags": [],
-    "url": "https://taiwan.md/ko/society/breakfast-shops-and-community-intelligence-network",
-    "readingTime": 24,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "ko/Society/breakfast-shops-and-community-intelligence-network.md"
-  },
-  {
     "title": "아포철단: 배를 젓는 곳 '해각대관'의 우연에서, 탄수이 가장 단단한 집단 기억까지",
     "description": "1983년, 《민생보》의 한 보도가 탄수이 '해각대관'의 검은 장조림 달걀을 하룻밤에 유명하게 만들었다. 바닷바람에 반복적으로 말리고 끓일수록 단단해진 이 '우연'의 음식은 탄수이 배를 젓는 곳의 흥망성쇠를 목격했을 뿐만 아니라, 창시자인 아포(阿哖婆)와 양벽운을 둘러싼 상표 분쟁 속에서 역사적 미스터리를 남겼다.",
     "category": "ko",
@@ -172355,6 +172275,24 @@
     "path": "ko/Art/mountain-makers-tsmc-documentary.md"
   },
   {
+    "title": "조식점 아줌마와 지역 정보망",
+    "description": "정말인지 가짜인지 몰라, 아줌마는 그냥 예쁜 사람에게만 부를 거라고 생각했는데, 조식점 아줌마가 어떻게 지역 전체의 정보 중심이 되는지 쓰는 글이었어요.",
+    "category": "ko",
+    "tags": [
+      "조식점",
+      "지역 문화",
+      "인간미",
+      "편의점",
+      "일상 생활",
+      "지역 네트워크"
+    ],
+    "url": "https://taiwan.md/ko/society/breakfast-shops-and-community-intelligence-network",
+    "readingTime": 24,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "ko/Society/breakfast-shops-and-community-intelligence-network.md"
+  },
+  {
     "title": "조자강: 난릉극방의 계몽에서 과할머니 앞치마 아래 항복하지 않는 영혼까지",
     "description": "1984년, 조자강은 「연간 무료」라는 광고를 보고 난릉극방에 입단하며 극장, 영화·TV, 아동 예술을 아우르는 전설적인 경력을 시작했다. 그는 「과할머니(水果奶奶)」라는 캐릭터로 수많은 아이들의 어린 시절을 따뜻하게 감싸주었지만, 현실에서는 「만약아동극단(如果兒童劇團)」을 설립하고 수천만 원의 부채를 지며, 팬데믹과 재정 위기 속에서도 「절대 항복하지 않는」 강인한 정신을 보여주었다. 이것은 한 공연자가 30년의 세월을 바쳐 대만 아이들의 꿈을 지켜낸 깊고도 진지한 실천이다.",
     "category": "ko",
@@ -173827,6 +173765,23 @@
     "path": "ko/Society/taiwan-dashcam-society.md"
   },
   {
+    "title": "타이완 5G 네트워크 구축과 디지털 전환",
+    "description": "타이완이 4G를 앞서며 5G를 레이아웃하는 과정, 디지털 전환 국가 전략과 지능형 응용 발전 과정을 탐색",
+    "category": "ko",
+    "tags": [
+      "5G",
+      "디지털 전환",
+      "디지털 발전부",
+      "지능형 도시",
+      "통신 산업"
+    ],
+    "url": "https://taiwan.md/ko/technology/taiwan-5g-digital-transformation",
+    "readingTime": 37,
+    "featured": true,
+    "date": "2026-03-18",
+    "path": "ko/Technology/taiwan-5g-digital-transformation.md"
+  },
+  {
     "title": "타이완 Game Jam 커뮤니티",
     "description": "Global Game Jam이 타이완에 상륙한 때부터 KUSO GAME JAM이 못난 작품을 철학으로 삼기까지—타이완 Game Jam 커뮤니티가 10년간 어떻게 인디 게임 생태계의 배양접이자 실험장이 되었는가",
     "category": "ko",
@@ -174472,6 +174427,23 @@
     "featured": false,
     "date": "2026-09-01",
     "path": "ko/Technology/taiwan-mobile-payment.md"
+  },
+  {
+    "title": "타이완 미디어와 언론 자유",
+    "description": "당국 통제에서 미디어 전성시대까지: 타이완 언론 자유의 민주화 과정과 디지털 전환 과제",
+    "category": "ko",
+    "tags": [
+      "미디어",
+      "언론자유",
+      "민주화",
+      "디지털전환",
+      "미디어리터러시"
+    ],
+    "url": "https://taiwan.md/ko/society/media-and-press-freedom-in-taiwan",
+    "readingTime": 29,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "ko/Society/media-and-press-freedom-in-taiwan.md"
   },
   {
     "title": "타이완 미슐랭: 별빛 아래의 대가와 재정의",
@@ -175137,6 +175109,23 @@
     "path": "ko/Economy/taiwan-smes-and-hidden-champions.md"
   },
   {
+    "title": "타이완 지역사회와 리문화",
+    "description": "최하층 민주 실천에서 지역 조성의 사회적 혁신까지",
+    "category": "ko",
+    "tags": [
+      "리제도",
+      "지역 조성",
+      "지역 대학",
+      "시민 참여",
+      "지방 자치"
+    ],
+    "url": "https://taiwan.md/ko/society/taiwan-neighborhood-and-li-culture",
+    "readingTime": 34,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "ko/Society/taiwan-neighborhood-and-li-culture.md"
+  },
+  {
     "title": "타이완 지하철 발전사：피와 돈으로 쓴 도시 진화론",
     "description": "209톤의 강빔이 하늘에서 떨어져 4명의 목숨을 앗았고, 16.4억 원의 배상금이 필요했다. 타이베이 지하철조차도 광고 수입에 의존해야 한다는 사실 — 전국 지하철 뒤에 숨은 진실한 가격",
     "category": "ko",
@@ -175741,7 +175730,7 @@
   },
   {
     "title": "타이완의 발효 식품과 절임 문화",
-    "description": "취두부부터 두부유까지, 타이완 특유의 발효 기술 및 절임 문화 전통 탐구",
+    "description": "취두부부터 두부유까지, 타이완 특유의 발효 기술 및 저장 문화 전통 탐구",
     "category": "ko",
     "tags": [
       "발효식품",
@@ -175753,7 +175742,7 @@
       "미생물"
     ],
     "url": "https://taiwan.md/ko/food/taiwan-fermented-and-pickled-foods",
-    "readingTime": 24,
+    "readingTime": 22,
     "featured": false,
     "date": "2026-03-18",
     "path": "ko/Food/taiwan-fermented-and-pickled-foods.md"
