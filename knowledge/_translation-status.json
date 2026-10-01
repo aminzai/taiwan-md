@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-02T07:13:25+08:00",
-    "zhCommitHead": "594bc9025",
+    "lastUpdated": "2026-10-02T07:22:55+08:00",
+    "zhCommitHead": "59411efd6",
     "totalZh": 1125,
     "activeLanguages": [
       "en",
@@ -84,8 +84,8 @@
       },
       "hi": {
         "total_zh": 1125,
-        "fresh": 1101,
-        "stale": 23,
+        "fresh": 1102,
+        "stale": 22,
         "metadata_stale": 1,
         "missing": 0,
         "orphan": 0
@@ -30610,8 +30610,8 @@
           "sourceContentHash": "sha256:8ae63a433505bef3",
           "sourceBodyHash": "sha256:07f01705cabacd50",
           "translatedAt": "2026-10-02T05:15:38+08:00",
-          "translationLastCommit": "afd7b07c",
-          "translationLastModified": "2026-07-26T14:48:27+08:00",
+          "translationLastCommit": "3dc7021e",
+          "translationLastModified": "2026-10-02T07:13:26+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "bytes": 40627,
@@ -64344,11 +64344,11 @@
           "sourceContentHash": "sha256:0989f07af63c2d2b",
           "sourceBodyHash": "sha256:911bf6acff0d4788",
           "translatedAt": "2026-10-02T05:15:38+08:00",
-          "translationLastCommit": "768dcf09",
-          "translationLastModified": "2026-07-31T07:47:27+08:00",
+          "translationLastCommit": "3dc7021e",
+          "translationLastModified": "2026-10-02T07:13:26+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "bytes": 45474,
+          "bytes": 45476,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -76666,8 +76666,8 @@
           "sourceContentHash": "sha256:24458700fa1db004",
           "sourceBodyHash": "sha256:34f23befdc556790",
           "translatedAt": "2026-10-02T05:15:38+08:00",
-          "translationLastCommit": "caea4fab",
-          "translationLastModified": "2026-07-29T02:34:42+08:00",
+          "translationLastCommit": "3dc7021e",
+          "translationLastModified": "2026-10-02T07:13:26+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "bytes": 42199,
@@ -86538,18 +86538,18 @@
         "hi": {
           "path": "hi/Nature/typhoons-in-taiwan.md",
           "translatedFrom": "Nature/颱風.md",
-          "sourceCommitSha": "",
+          "sourceCommitSha": "31a05c44b",
           "sourceContentHash": "sha256:b0a47a120aff0621",
           "sourceBodyHash": "sha256:b8ebcfc4e0a96ce7",
-          "translatedAt": "2026-07-29T17:42:48+08:00",
+          "translatedAt": "2026-10-01T23:04:34.221076+00:00",
           "translationLastCommit": "34bd26ad",
           "translationLastModified": "2026-10-02T02:45:45+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "bytes": 55441,
+          "bytes": 68344,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Nature/typhoons-in-taiwan.md",
