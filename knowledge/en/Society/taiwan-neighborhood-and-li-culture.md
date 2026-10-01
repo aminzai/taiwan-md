@@ -1,15 +1,15 @@
 ---
-title: "Taiwan's Village and Neighborhood Culture"
-description: 'From grassroots democratic practices to social innovation in community building'
+title: 'Community and Li Culture in Taiwan'
+description: 'From grassroots democratic practice to social innovation in community building'
 date: 2026-03-18
 category: 'Society'
 tags:
   [
-    'village-neighborhood system',
-    'community-building',
-    'community-university',
-    'citizen-participation',
-    'local-autonomy',
+    'li (neighborhood) system',
+    'community building',
+    'community university',
+    'civic participation',
+    'local autonomy',
   ]
 subcategory: '社會運動'
 author: 'Taiwan.md'
@@ -17,114 +17,203 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Society/台灣社區與里文化.md'
-sourceCommitSha: '21c4e4caf'
-sourceContentHash: 'sha256:112429b6a4722893'
+sourceCommitSha: '074dffac2'
+sourceContentHash: 'sha256:d3e50c45b46c2a95'
 sourceBodyHash: 'sha256:7ec3aa6a3ad15e3e'
-translatedAt: '2026-10-02T00:52:48+08:00'
+translatedAt: '2026-10-02T05:15:35+08:00'
 ---
 
-# Taiwan's Village and Neighborhood Culture
+# Community and Li Culture in Taiwan
 
-As night falls, the community activity center of a certain _li_ (village unit) in Taipei City remains brightly lit. The _lǐzhǎng_ (village head) is gathering residents to discuss next month's clean-up day activities; neighborhood heads are reporting on the status of their respective neighborhoods; and lecturers from the community university are teaching Tai Chi in an adjacent classroom. This seemingly ordinary night actually embodies the essence of Taiwanese community culture—from the most basic administrative organization to autonomous participation in civil society, from institutionalized democratic practice to creative social innovation.
+As night falls, the community activity center in a district of Taipei still glows with light.
+The district director (li zhang) is convening residents to discuss next month's cleanup day, while neighborhood heads (linzhang) report on conditions in their respective areas, and instructors from the community university teach tai chi in the adjacent classroom.
+This seemingly ordinary night actually embodies the essence of Taiwan's community culture — from the most basic administrative organizations to autonomous civic participation, from institutionalized democratic practice to creative social innovation.
 
-Within this small administrative unit called a _li_, hundreds or thousands of residents live, collectively forming the smallest cell of Taiwan's democratic society. How these cells operate, how they self-organize, and how they respond to challenges not only affect the daily quality of life for residents but also profoundly shape Taiwan's democratic culture and social resilience.
+Within this small administrative unit called a "li," several hundred to several thousand residents live together, collectively forming the smallest cell of Taiwan's democratic society.
+How these cells function, how they self-organize, and how they respond to challenges not only affects residents' daily quality of life but also profoundly shapes Taiwan's democratic culture and social resilience.
 
-## The Village and Neighborhood System: The Frontline of Democracy
+## The Li-Neighborhood System: The Frontline of Democracy
 
-Taiwan's village and neighborhood system can be described as one of the most citizen-centric forms of democracy in the world. According to local administrative regulations, the _li_ is the most basic administrative unit; each _li_ has a _lǐzhǎng_ who is directly elected by residents for a four-year term, with no limit on re-election. [^1] This system design ensures the breadth and accessibility of democratic participation.
+Taiwan's village-district (cunli) system can be said to be among the most people-close democratic practices in the world.
+According to the Local Government Act, villages and districtss are the most basic administrative units, each with a village-district director (cunli zhang) directly elected by residents for a four-year term, with no limit on consecutive re-elections. [^1]
+This institutional design ensures the breadth and accessibility of democratic participation.
 
-The role of the _lǐzhǎng_ is extremely diverse; they serve as both a bridge between the government and the public and a coordinator of community affairs. Although regulations state that the _lǐzhǎng_ "is under the command and supervision of the township (town, city, or district) head to handle village (li) public affairs and assigned tasks," in actual operation, the _lǐzhǎng_ often plays a more complex role. They must handle various matters ranging from community construction planning to mediating neighborhood disputes. From assisting residents in applying for various certificates to organizing community events, from promoting environmental clean-up to reporting public safety issues, the work of the _lǐzhǎng_ almost covers every aspect of residents' lives.
+The role of the district director is highly diverse; they serve as both a bridge between government and residents and a coordinator of community affairs.
+According to legal provisions, the district director "is under the command and supervision of the mayor (town, city, district) and handles village-district affairs and assigned matters," but in actual operation, the district director often plays a more complex role.
+They must handle matters ranging from community construction planning to minor neighborhood disputes.
+From assisting residents in applying for various certificates to organizing community activities, from promoting environmental cleanliness to reflecting on security issues, the district director's duties almost cover all aspects of residents' lives.
 
-Below the _li_, there is the more detailed organization of the "neighborhood" (_lín_). The neighborhood head is an unpaid position. Taking Taipei City as an example, neighborhood heads are selected by the _lǐzhǎng_ from adult residents within that neighborhood and nominated to be appointed by the district head. They receive no salary but receive a monthly assistance fee of NT$2,500, in addition to accident insurance and subsidies for self-improvement activities. [^2] Although the pay is not much, the neighborhood heads play an indispensable role in community operations. They are the closest contacts to residents, responsible for conveying policy information, collecting public opinion feedback, and assisting with various administrative tasks. During typhoons, neighborhood heads check on the safety of elderly people living alone house-to-house; during epidemics, they assist in distributing epidemic prevention supplies; and in daily life, they serve as an important bridge between residents and the _lǐzhǎng_.
+Under the district, there is a more detailed "neighborhood" organization.
+The neighborhood head is a non-paid position. Taking Taipei City as an example, the neighborhood head is selected and appointed by the district director from among the adult residents of that neighborhood, with no salary, but receives a monthly work assistance fee of NT$2,500, along with accidental insurance and subsidies for self-improvement activities. [^2]
+The pay is not much, but the neighborhood head plays an indispensable role in community operations.
+They are the closest contact point to residents, responsible for conveying policy information, collecting public opinions, and assisting with various administrative matters.
+When a typhoon approaches, the neighborhood head visits each household to check on the safety of elderly people living alone;
+During the epidemic, they assist in distributing epidemic prevention materials;
+In daily life, they are an important bridge between residents and the district director.
 
-The operation of this system demonstrates an important characteristic of Taiwan's democracy: the deep practice of participatory democracy. The frequent interaction among the _lǐzhǎng_, neighborhood heads, and residents also fosters habits and capabilities for citizen participation.
+The operation of this system demonstrates an important feature of Taiwan's democracy: the deep practice of participatory democracy.
+The frequent interactions between district directors, neighborhood heads, and residents also cultivate habits and capabilities for civic participation.
 
 ## Community Building: A Bottom-Up Social Transformation Movement
 
-In the 1990s, a concept called "Total Community Building" began to sprout in Taiwan. It not only changed the face of communities but also profoundly influenced the social development model of Taiwan. The core philosophy of this movement is "bottom-up," emphasizing the autonomous participation of community residents to achieve comprehensive community development through cultural and artistic enrichment, environmental renovation, and industrial revitalization.
+In the 1990s, a concept called "community-wide construction" began to take root in Taiwan, changing not only the appearance of communities but also profoundly influencing Taiwan's social development model.
+The core idea of this movement is "bottom-up," emphasizing the autonomous participation of community residents, achieving comprehensive community development through cultural arts, environmental improvement, and industrial revitalization.
 
-The rise of the community building movement is closely related to the process of democratization in Taiwan. After the lifting of authoritarian systems, the public began to have more space and opportunities to express opinions and participate in public affairs. Community building provided a concrete platform for people to practice the ideal of democratic participation starting from their own living environment.
+The rise of the community building movement is closely related to the course of Taiwan's democratization.
+After the authoritarian system was lifted, people began to have more opportunities to express their opinions and participate in public affairs.
+Community building provided a concrete platform for people to start from their own living environment and realize the ideals of democratic participation.
 
-The Ministry of Culture (then the National Construction Association) began promoting community building policies in 1994 by encouraging residents to propose and renovate their living environments through subsidy programs. These projects cover various aspects such as culture and art, environmental landscape, industrial development, and social welfare care. For example, in Ban Tou Community in Xinkang Township, Chiayi County, the promotion of _Jiao-chi_ (ceramic sculpture) art not only preserved traditional crafts but also boosted tourism industry development; in Nei Cheng Community in Yuan Township, Hualien County, combining organic and friendly farming with ecological conservation has also attracted some young people to farm there.
+The Ministry of Culture (formerly the Council for Cultural Affairs) began promoting community building policies in 1994, encouraging community residents to independently propose plans and improve their living environment through subsidy programs.
+These programs cover various aspects including cultural arts, environmental landscapes, industrial development, and social welfare.
+For example, the Ban Tou community in Xingang Township, Chiayi County, through the promotion of the JiZhu paste art, not only preserved traditional crafts but also drove the development of the tourism industry;
+The Neicheng community in Yuanshan Township, Yilan County, combined organic farming, friendly cultivation, and ecological conservation, also attracting some young people to farm there.
 
-The spirit of community building is "saving one's own community." It encourages residents not to wait for intervention from the government or external forces, but instead to actively discover problems, seek resources, and propose solutions. In this process, residents learn skills such as organization, coordination, resource integration, and project execution, while also cultivating a sense of belonging and responsibility toward their community.
+The spirit of community building lies in "our own community, our own salvation."
+It encourages residents not to wait for government or external intervention but to actively discover problems, find resources, and propose solutions.
+During this process, residents learn organizational coordination, resource integration, and plan execution skills, while cultivating a sense of identity and responsibility for their community.
 
-## Community University: An Experiment in a Learning Society
+## Community University: Experiments in a Learning Society
 
-In 1998, the first Community University in Taiwan was established in Wenshan District, Taipei City, opening a new chapter in adult education. The concept behind establishing community universities stems from a reflection on the traditional education system: Why must education end at a certain age? Why must learning be confined to specific places? Why can't knowledge be closer to life?
+In 1998, the first community university in Taiwan was established in Wenshan District, Taipei City, marking a new chapter in adult education.
+The founding philosophy of community universities stems from a reflection on the traditional education system: Why should education end at a certain age?
+Why should learning be limited to specific places?
+Why can't knowledge be closer to life?
 
-The curriculum design of community universities has three aspects: academic courses provide basic education in humanities and social sciences; life skills courses meet residents' interest needs; and club activities encourage citizen participation. This diverse curriculum reflects the broad understanding of "learning" held by community universities—learning is not just the absorption of knowledge, but also the cultivation of ability, expansion of perspective, and establishment of social networks.
+The curriculum design of community universities has three aspects: academic courses provide basic education in humanities and social sciences, life arts courses meet residents' interest needs, and club activity courses encourage civic participation.
+This diverse curriculum design reflects the community university's broad understanding of "learning" — learning is not only about absorbing knowledge but also about cultivating abilities, expanding horizons, and building interpersonal networks.
 
-Taking Beitou Community University as an example, they do not only offer various courses but also promote the concept of "Beitou Studies," encouraging students to research local history, culture, ecological environment, and social issues. Through field surveys, oral history, and community mapping, students become researchers and recorders of the community. This promotion of "local studies" deepens the understanding of the community and cultivates residents' critical thinking skills and civic consciousness.
+Taking the Beitou Community University as an example, they not only provide various courses but also promote the concept of "Beitou Learning," encouraging students to research the local history, culture, ecology, and social issues.
+Through field surveys, oral history, and community map drawing, the students become researchers and recorders of the community.
+This promotion of "local learning" not only deepens understanding of the community but also cultivates residents' critical thinking abilities and civic consciousness.
 
-Community universities have also become important hubs for social movements. Issues such as environmental protection, cultural preservation, and social care are often discussed, organized, and practiced within these universities. Students gain knowledge and skills in classrooms and then channel these resources into actual social action. This model of "learning combined with action" embodies the ideal of "knowledge liberation" held by community universities.
+Community universities have also become important bases for social movements.
+Environmental protection, cultural preservation, and social care issues are often discussed, organized, and implemented in community universities.
+Students gain knowledge and skills from the classroom and then invest these resources into practical social actions.
+This model of "learning combined with action" embodies the ideal of "knowledge liberation" of community universities.
 
-## Citizen Participation: From Passive Acceptance to Active Transformation
+## Civic Participation: From Passive Acceptance to Active Transformation
 
-An important characteristic of Taiwan's community culture is the gradual rise in civic participation consciousness. This transformation can be clearly seen in the changing attitudes of residents toward public affairs. In the past, many people were accustomed to a "government acts, citizens watch" model, where the planning and execution of public construction often lacked public involvement. However, with deepening democratization and the awakening of civic consciousness, residents have begun demanding more opportunities for participation and are willing to bear greater responsibility.
+An important feature of Taiwan's community culture is the gradual enhancement of civic participation awareness.
+This change can be clearly seen in the shift in residents' attitudes toward public affairs.
+In the past, many people were accustomed to the model of "government does, people watch," and the planning and implementation of public construction often lacked residents' participation.
+But with the deepening of democratization and the awakening of civic consciousness, residents began to demand more participation opportunities and were willing to take on more responsibilities.
 
-This participation is not limited to voting; it extends to all aspects of daily life. For example, in the planning of community parks, residents form "park adoption groups" to participate in design discussions and maintenance; in improving traffic safety, parent associations organize "caring volunteer teams" to ensure the safety of children commuting to and from school; and in promoting environmental protection, communities establish "environmental patrol teams" to monitor pollution issues and promote resource recycling.
+This participation is not limited to voting in elections but extends to all aspects of daily life.
+For example, in the planning of community parks, residents form a "park adoption group" to participate in design discussions and maintenance management;
+In improving traffic safety, parent committees organize a "kindness volunteer team" to assist students with going to and from school safely;
+In promoting environmental protection, communities establish an "environmental protection patrol team" to monitor pollution issues and promote resource recycling.
 
-Participatory budgeting is a new form that has emerged in recent years. Some local governments have opened up a portion of their budget for citizens to decide how it should be used, allowing residents to directly participate in the allocation of public resources through proposals, discussions, and voting. This practice not only increases the transparency of budget use but also enhances the sense of ownership among the public.
+Participatory budgeting has emerged as a new form in recent years.
+Some local governments open part of the budget to let people decide how to use it, allowing residents to directly participate in the allocation of public resources through proposals, discussions, and voting.
+This approach not only improves the transparency of budget use but also enhances residents' sense of being the masters of their own destiny.
 
-The development of digital technology has also provided new possibilities for civic participation. Many communities have established online platforms where residents can discuss community affairs, report problems, and share information online. County and municipal governments have also launched their own applications; for instance, Taipei City integrated citizen identification and various municipal services into "TaipeiPass," allowing citizens to interact with the government more conveniently. [^3]
+The development of digital technology has also provided new possibilities for civic participation.
+Many communities have established online platforms where residents can discuss community affairs, reflect on issues, and share information online.
+County and city governments have also launched their own applications, such as Taipei City integrating personal identity recognition and multiple municipal services into "Taipei PASS," allowing people to interact with the government more conveniently. [^3]
 
-## Diversified Development of Community Organizations
+## Diverse Development of Community Organizations
 
-Taiwan's community organizations exhibit a high degree of diversity and innovation. In addition to formal village organizations, various types of private organizations are active in communities. The community development association is the most common organizational form; they usually aim to promote community development and improve residents' welfare by hosting various activities and services.
+Taiwan's community organizations show a high degree of diversity and innovation.
+In addition to formal village-district organizations, various types of civil society organizations are active in communities.
+Community development associations are the most common organizational form, usually with the aim of promoting community development and enhancing residents' welfare, organizing various activities and services.
 
-Volunteer organizations are an important pillar of community operations. From environmental volunteers and traffic volunteers to library volunteers and cultural tour guides, these unpaid service providers inject warmth and human connection into the community. The prevalence of volunteerism reflects Taiwan's traditional value of "mutual assistance and cooperation" and also demonstrates the social responsibility of modern citizens.
+Volunteer organizations are an important pillar of community operations.
+From environmental protection volunteers, traffic volunteers, to library volunteers, cultural tour guides, these unpaid service providers inject warmth and human feelings into the community.
+The prevalence of volunteer spirit reflects the traditional value of "mutual aid and cooperation" in Taiwanese society and embodies the social responsibility of modern citizens.
 
-Community enterprises are a new model that has emerged in recent years. They combine social goals with business methods, solving community problems while creating economic benefits through innovative products or services. For example, some communities have improved environmental quality and increased residents' income by developing organic farming, handicrafts, and local tourism.
+Community enterprises are a new model that has emerged in recent years.
+They combine social goals with business methods, using innovative products or services to not only solve community problems but also create economic benefits.
+For example, some communities develop organic agriculture, handicrafts, and local tourism to not only improve environmental quality but also increase residents' income.
 
-Religious organizations also play an important role in Taiwanese communities. Places of worship such as temples, churches, and Buddhist monasteries are often cultural centers for the community, providing not only spiritual solace but also hosting various social service activities. From charitable relief to educational promotion, and from cultural inheritance to environmental protection, the involvement of religious organizations adds more resources and energy to community affairs.
+Religious organizations also play an important role in communities.
+Temples, churches, and Buddhist temples are often the cultural centers of the community, providing spiritual comfort and organizing various social service activities.
+From charitable relief, educational promotion, to cultural inheritance and environmental protection, the participation of religious organizations adds more resources and energy to community affairs.
 
-## Challenges and Difficulties
+## Challenges and Dilemmas
 
-However, Taiwan's community development also faces numerous challenges. Population aging is one of the most severe problems. Many communities experience an outflow of young people to work in cities, leaving behind mostly elderly residents, which leads to insufficient community vitality and difficulties in organizational operation. How to attract younger generations to participate in community affairs has become a common challenge for many communities.
+However, Taiwan's community development also faces many challenges.
+Population aging is one of the most severe issues.
+Many young people flow to cities for work, leaving behind mostly elderly residents, leading to insufficient community vitality and difficulties in organizational operation.
+How to attract young people to participate in community affairs has become a common issue faced by many communities.
 
-Resource scarcity is another widespread problem. Although the government provides various subsidy programs, competition is fierce, and the amount of subsidies is limited. Many creative community projects cannot be realized due to lack of funding. At the same time, community organizations often lack professional planning and management capabilities, affecting project execution effectiveness.
+Insufficient resources are another common problem.
+Although the government provides various subsidy programs, the competition is fierce, and the subsidy amounts are limited.
+Many creative community plans cannot be implemented due to lack of funding.
+At the same time, community organizations often lack professional planning and management capabilities, affecting the effectiveness of plan implementation.
 
-The anonymity brought by urbanization also impacts community culture. In large residential communities, there is a lack of interaction between neighbors, leading to weak community consciousness. Rebuilding community connections in modern urban life is a challenge that requires innovative thinking.
+The anonymity brought by urbanization also impacts community culture.
+In large residential communities, there is a lack of interaction between neighbors, and community consciousness is weak.
+How to rebuild community connections in modern urban life is an issue that requires innovative thinking.
 
-The issue of politicization cannot be ignored. Some community affairs are entangled in partisan political disputes, affecting community harmony and development. How to transcend political opposition and focus on the common interests of residents tests the wisdom of community leaders.
+The politicization of issues cannot be ignored.
+Some community affairs are involved in partisan political disputes, affecting the harmony and development of the community.
+How to transcend political divisions and focus on the common interests of residents tests the wisdom of community leaders.
 
-## Innovative Practices and Future Outlook
+## Innovative Practices and Future Prospects
 
-In facing these challenges, many communities have begun trying innovative approaches. Cross-generational cooperation is one important trend. Some communities promote exchange and cooperation among different age groups through methods like "elder-youth co-learning" or "intergenerational workshops." Older generations share experience and wisdom, while younger people contribute creativity and vitality, forming a positive complementary relationship.
+Faced with these challenges, many communities have begun to try innovative approaches.
+Intergenerational cooperation is one of the important trends.
+Some communities promote "intergenerational learning" and "generational workshops" to facilitate communication and cooperation between different age groups.
+The elderly share their experience and wisdom, while the young contribute creativity and energy, forming a virtuous cycle of mutual complementarity.
 
-The application of technology also brings new possibilities for community development. The concept of smart communities is gradually emerging, using technologies such as the Internet of Things (IoT), big data, and artificial intelligence to improve the efficiency and quality of community management. For example, some communities have built smart security systems, environmental monitoring equipment, and online service platforms, allowing residents to enjoy a more convenient and safe living environment.
+The application of technology has also brought new possibilities for community development.
+The concept of smart communities is gradually emerging, using technologies such as the Internet of Things, big data, and artificial intelligence to improve the efficiency and quality of community management.
+For example, some communities have built smart security systems, environmental monitoring equipment, and online service platforms, allowing residents to enjoy a more convenient and safe living environment.
 
-The model of social enterprises is also being applied in communities. Some communities solve social problems and create sustainable operating models by developing characteristic industries or providing innovative services. This mindset of "social innovation" provides new imaginative space for community development.
+The model of social enterprises is also being applied in communities.
+Some communities develop characteristic industries and provide innovative services to not only solve social problems but also create sustainable business models.
+This thinking of "social innovation" provides new imaginative space for community development.
 
-International exchange and learning have also become trends. Many Taiwanese community organizations establish partnerships with overseas communities to share experiences and exchange practices. This cross-national cooperation not only expands horizons but also offers new ideas for solving common problems.
+International exchanges and learning have also become a trend.
+Many community organizations in Taiwan have established partnerships with communities abroad, sharing experiences and exchanging practices.
+This cross-border cooperation not only broadens horizons but also provides new ideas for solving common problems.
 
-## The Deeper Value of Community Culture
+## The Deep Value of Community Culture
 
-The value of Taiwan's community culture far exceeds its surface operations and activities. It embodies an important social philosophy: democracy is not just a political system; it is a way of life. In the community, people learn to listen to different voices, respect diverse perspectives, and seek common solutions. This cultivation of "democratic literacy" lays a solid foundation for the democratic development of society as a whole.
+The value of Taiwan's community culture goes far beyond the surface-level organizational operations and event hosting.
+It embodies an important social philosophy: democracy is not only a political system but also a way of life.
+In communities, people learn to listen to different voices, respect diverse opinions, and seek common solutions.
+This cultivation of "democratic literacy" lays a solid foundation for the democratic development of the entire society.
 
-Community culture also demonstrates the power of "civil society." Outside of government and the market, civil society responds to many social needs through self-organization and autonomy. The vitality of this "third sector" not only supplements governmental services but also reflects the subjectivity and proactiveness of citizens.
+Community culture also demonstrates the power of "civil society."
+Outside of government and the market, civil society responds to many social needs through self-organization and self-governance.
+The active participation of this "third sector" not only makes up for the shortcomings of government services but also embodies the subjectivity and initiative of citizens.
 
-More importantly, community culture carries the function of "social resilience." When facing natural disasters, human calamities, economic changes, or social shocks, tight neighborhood networks are often the most effective support system. Mutual care among neighbors, rapid mobilization of community organizations, and flexible allocation of local resources—all these demonstrate bottom-up social recovery capabilities.
+More importantly, community culture carries the function of "social resilience."
+When facing natural disasters, economic changes, and social shocks, the closely-knit community network is often the most effective support.
+Mutual care between neighbors, rapid mobilization of community organizations, and flexible allocation of local resources all reflect the bottom-up social recovery capability.
 
-Looking ahead, Taiwan's community culture will continue to evolve. New challenges require new responses, and new generations bring new imaginings. But no matter how it changes, the core spirit of "living together, caring for one another, and collective action" will always be the most precious asset of Taiwanese society.
+Looking to the future, Taiwan's community culture will continue to evolve and develop.
+New challenges require new responses, and new generations will bring new imaginations.
+But no matter how things change, the core spirit of "living together, caring for each other, and acting collectively" will always remain the most precious asset of Taiwanese society.
 
-In this rapidly changing era, communities remind us of the essence of life: humans are social animals, happiness requires sharing, and problems require collaborative solutions. When we discuss next month's clean-up day at a community center, learn new knowledge in a community university classroom, or say goodnight to neighbors in a local alleyway, we are actually practicing humanity's oldest and most modern ideal—building a better community.
+In this rapidly changing era, communities remind us of the essence of life: humans are social animals, happiness needs to be shared, and problems need to be solved through cooperation.
+When we discuss the next month's cleanup day in the community activity center, learn new knowledge in the community university classroom, and greet each other in the alleys of the neighborhood, we are actually practicing humanity's oldest and most modern ideal — building a better commonwealth.
 
-## Conclusion: Seeing Taiwan's Future within the _Li_
+## Conclusion: Seeing Taiwan's Future Within the "Li"
 
-Taiwan's village culture is an ongoing democratic experiment. It transforms abstract civic duties into concrete neighborhood care; it translates and implements cold government policies with community warmth. In this rapidly fragmented era, we still need the alley where we can say good morning to each other; we still need the activity center where people gather to discuss a tree or a drainage ditch. Because there, we are not just voters; we are witnesses to each other's lives.
+Taiwan's li culture is an ongoing democratic experiment.
+It turns abstract civic obligations into concrete neighborhood care, and translates cold government policies into community enthusiasm and implementation.
+In this rapidly fragmented era, we still need the alleys where we can greet each other in the morning, and we still need the activity centers where we gather to discuss a old tree or a drainage ditch.
+Because there, we are not only voters but also witnesses to each other's lives.
+
+## Extended Reading
+
+- [Village-District Director System](/en/politics/village-chief-system) — From the Japanese colonial era's bō (township head) to direct election in 1950, how Taiwan's 7,748 grassroots elected officials operate
+- [309 District Director Account Books](/en/politics/village-chief-campaign-ledgers) — In 2022, among 13,988 village-district director candidates, only 309 left political donation account books at the Control Yuan; placing the accounts alongside the vote count results, seeing whether money can buy a district director
 
 ## References
 
-1. Ministry of Culture, ROC (2022). _Community Building and Village Culture Development Plan (2022-2027)_. From: https://www.moc.gov.tw/cp.aspx?n=128
-2. Taiwan Community Network (2021). _More Than Just Talent Classes: Social Action in Community Universities_. From: https://communitytaiwan.moc.gov.tw/Item/Detail/不只是才藝班, Social Action in Community Universities
-3. Civil Affairs Bureau, Taipei City Government (2024). _Rights and Duties of the Lǐzhǎng_. From: https://ca.gov.taipei/cp.aspx?n=3E43CD1A09FE5FA9
-4. National Legal Database. Article 59 of the Local Administration Act. From: https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0040003&flno=59
-5. Wikipedia Editors (2025). _Total Community Building_. From: https://zh.wikipedia.org/zh-tw/社區總體營造
+1. Ministry of Culture, Republic of China (2022). "Community Construction and Settlement Cultural Development Plan (Years 111-116)." Source: https://www.moc.gov.tw/cp.aspx?n=128
+2. Taiwan Community Network (2021). "Beyond Just an Arts Class: The Social Movement of Community Universities." Source: https://communitytaiwan.moc.gov.tw/Item/Detail/不只是才藝班, Social Movement of Community Universities
+3. Taipei City Government, Department of Civil Affairs (2024). "Rights and Duties of Village-District Directors." Source: https://ca.gov.taipei/cp.aspx?n=3E43CD1A09FE5FA9
+4. National Institute of Legal Resources. Local Government Act Article 59. Source: https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0040003&flno=59
+5. Wikipedia Editors (2025). "Community-Wide Construction." Wikipedia. Source: https://zh.wikipedia.org/zh-tw/社區總體營造
 
-[^1]: [Article 59 of the Local Administration Act](https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0040003&flno=59) — National Legal Database: The village head is under the command and supervision of the township head to handle village public affairs and assigned tasks, elected by villagers according to law, for a four-year term, with no limit on re-election.
+[^1]: [Local Government Act Article 59](https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0040003&flno=59) — National Institute of Legal Resources: Village-district directors are under the command and supervision of the mayor (town, city, district), handle village-district affairs and assigned matters, and are elected by villagers (residents) in accordance with the law, serving a four-year term with no limit on consecutive re-elections.
 
-[^2]: [Rights and Duties of the Lǐzhǎng](https://ca.gov.taipei/cp.aspx?n=3E43CD1A09FE5FA9) — Civil Affairs Bureau, Taipei City Government: Neighborhood heads are unpaid; they are nominated by the _lǐzhǎng_ from adult residents within the neighborhood to be appointed by the district head; they receive a monthly assistance fee of NT$2,500, in addition to accident insurance and self-improvement subsidies.
+[^2]: [Rights and Duties of Village-District Directors](https://ca.gov.taipei/cp.aspx?n=3E43CD1A09FE5FA9) — Taipei City Government, Department of Civil Affairs: Neighborhood heads are non-paid positions, selected and appointed by the district director from among the adult residents of that neighborhood; the work assistance fee is NT$2,500 per person per month, with additional accidental insurance fees and self-improvement activity subsidies.
 
-[^3]: [What is TaipeiPass](https://id.taipei/tpcd/about/what-is-taipeipass) — Taipei City Government: Integrated personal identification with multiple municipal services into "TaipeiPass," integrated into the APP.
+[^3]: [What is Taipei PASS](https://id.taipei/tpcd/about/what-is-taipeipass) — Taipei City Government: Integrates personal identity recognition with multiple municipal services into "Taipei PASS TaipeiPASS," and integrates into the APP.
+
+===BODY===
