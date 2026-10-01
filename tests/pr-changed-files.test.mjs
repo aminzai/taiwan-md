@@ -101,10 +101,10 @@ test('frontmatter validation scans lowercase legacy resource directories', () =>
     mkdirSync(dirname(join(cwd, file)), { recursive: true });
     writeFileSync(
       join(cwd, file),
-      '---\ntitle: Example\ndescription: A resource description\ndate: 2026-09-07\ntags: [resource]\ntranslatedFrom: Technology/source.md\n---\nBody\n',
+      '---\ntitle: Example\ndescription: A resource description\ndate: 2026-09-07\ntags: [resource]\ntranslatedFrom: resources/source.md\n---\nBody\n',
     );
-    mkdirSync(join(cwd, 'knowledge/Technology'), { recursive: true });
-    writeFileSync(join(cwd, 'knowledge/Technology/source.md'), 'source');
+    mkdirSync(join(cwd, 'knowledge/resources'), { recursive: true });
+    writeFileSync(join(cwd, 'knowledge/resources/source.md'), 'source');
     const manifest = join(cwd, 'files.json');
     writeFileSync(manifest, JSON.stringify([file]));
     const result = execFileSync(
@@ -121,6 +121,42 @@ test('frontmatter validation scans lowercase legacy resource directories', () =>
     );
     assert.match(result, /1 files scanned/);
     assert.match(result, /passed: 1\/1/);
+  } finally {
+    rmSync(cwd, { recursive: true, force: true });
+  }
+});
+
+test('frontmatter validation rejects a translation filed outside its source category', () => {
+  // 2026-09-30 三個投稿 PR：路徑錯、frontmatter category 對，舊閘門全綠。
+  const cwd = mkdtempSync(join(tmpdir(), 'fm-category-'));
+  try {
+    const file = 'knowledge/de/Art/taiwan-digital-animation-industry.md';
+    mkdirSync(dirname(join(cwd, file)), { recursive: true });
+    writeFileSync(
+      join(cwd, file),
+      "---\ntitle: Example\ndescription: An animation article\ndate: 2026-09-30\ncategory: 'Technology'\ntags: [animation]\ntranslatedFrom: 'Technology/台灣數位影像與動畫產業.md'\n---\nBody\n",
+    );
+    const manifest = join(cwd, 'files.json');
+    writeFileSync(manifest, JSON.stringify([file]));
+    let failure;
+    try {
+      execFileSync(
+        process.execPath,
+        [
+          new URL('../scripts/core/test-frontmatter.mjs', import.meta.url)
+            .pathname,
+        ],
+        {
+          cwd,
+          encoding: 'utf8',
+          env: { ...process.env, TWMD_VALIDATE_FILES_JSON: manifest },
+        },
+      );
+    } catch (error) {
+      failure = error;
+    }
+    assert.ok(failure, 'misfiled translation must fail validation');
+    assert.match(failure.stdout, /放在 Art\/，但中文原文/);
   } finally {
     rmSync(cwd, { recursive: true, force: true });
   }

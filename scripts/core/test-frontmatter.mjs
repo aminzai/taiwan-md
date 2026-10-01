@@ -263,6 +263,21 @@ for (const lang of LANGS) {
         );
       }
 
+      // 譯文的分類目錄要跟 translatedFrom 指的中文原文同一個（2026-10-01
+      // semiont-heartbeat 新增，LESSONS translation-gates-check-a-file-against-
+      // itself-never-against-its-source）。其他檢查都只驗譯文跟自己一致：三個
+      // 投稿 PR 把譯文放進錯的分類目錄、frontmatter category 卻寫對，CI 全綠；
+      // 照原路徑合併，該語言會多一篇分在錯分類的重複檔。存量 en×4／es×1 是
+      // 投稿者照抄的範本，同一個 commit 一起搬回原位。
+      if (lang && typeof fm.translatedFrom === 'string') {
+        const sourceCat = fm.translatedFrom.split('/')[0];
+        if (sourceCat && sourceCat.toLowerCase() !== cat.toLowerCase()) {
+          errors.push(
+            `${label}: 放在 ${cat}/，但中文原文 '${fm.translatedFrom}' 在 ${sourceCat}/——譯文要放進跟原文同一個分類目錄（knowledge/${lang}/${sourceCat}/${file}）`,
+          );
+        }
+      }
+
       // 3. Duplicate slug detection
       if (slugs.has(slug)) {
         errors.push(
