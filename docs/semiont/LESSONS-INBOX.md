@@ -332,6 +332,17 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-10-02 twmd-spore-harvest-am — threads-linkifier-swallows-cjk-before-url：回覆裡網址前面緊貼中文，Threads 會把整段中文吃進連結
+
+- **pattern**: threads-linkifier-swallows-cjk-before-url
+- **原則**：Threads 編輯器（Lexical）的連結偵測以空白為邊界往前找起點。回覆寫「⋯是 5 點半起床，⋯改過：taiwan.md/people/…」時，它從「5 」後的空白開始，把「點半起床⋯改過：taiwan.md/people/…」整段包成一個 `http://點半起床…` 的連結。URL encode 鐵律只管網址本身，管不到網址前面的中文被吃進去。同輪另一個坑：`execCommand('insertText')` 字串裡的 `\n` 會被吃掉，🧬 黏在網址尾巴。
+- **觸發**：2026-10-02 06:44 回覆 @eddie_pablo（#29），發佈前讀 `innerHTML` 才看到 `<a href="http://點半起床…">`；畫面上只是一大段藍字，容易當成選取反白。改成「五點半」並讓網址獨立一行（`shift+Enter` 鍵入換行）後連結只包住網址。→ memory/2026-10-02-064118-twmd-spore-harvest-am.md
+- **instances**：
+- **候選機械化**：SPORE-HARVEST-PIPELINE §Chrome MCP technical pattern 在 Step 7 與 Step 8 之間加一步發佈前檢查：讀編輯器 `innerHTML`，每個 `<a href>` 都要以 `http://taiwan.md/` 或預期網域開頭，否則不發；換行一律用 `shift+Enter` 鍵入，不放進 insertText 字串。reply 模板把網址放在單獨一行。
+- **可能層級**：操作規則（SPORE-HARVEST／SPORE-PUBLISH 的 Chrome MCP 發文段）
+- **相關**：SPORE-HARVEST-PIPELINE §URL Encoding 鐵律（同一層的另一半：那條防網址斷在中文，這條防中文黏進網址）、Pitfall 5 pre-ship verify（比對文字相等，但文字全對時連結範圍仍可能錯）
+- **verification_count**: 1
+
 ### 2026-10-02 twmd-data-refresh-am — heart-counts-heals-as-contributed-births：心臟的「近七天文章」量的是修改日期，自己的巡邏修補被算成投稿進庫
 
 - **pattern**: heart-counts-heals-as-contributed-births
@@ -726,10 +737,11 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **觸發**：2026-09-22 twmd-spore-harvest-am 寫 batch-2026-09-22-2-spores.md 末段時填了兩句：「用語保存已發到第三輪（#141／#160／#175）」、「08-28 那班說 X 端被大帳號轉推」。查 spore-log，category=terminology 只有 #175／#176；查 08-28 batch log，沒有那句。兩句都在寫完後回頭多看一眼才抓到，沒有工具參與。同一輪另撞到 09-11 那班寫的 #175 D+19 views 3,981（讀錯欄位），在資料裡躺十一天沒人對賬——數字層的錯不會叫，敘事層的錯更不會。→ memory/2026-09-22-064211-twmd-spore-harvest-am.md
 - **instances**：
   - 2026-09-22 twmd-spore-harvest-am 兩句填縫因果自抓 + 一筆 misread 對賬 → memory/2026-09-22-064211-twmd-spore-harvest-am.md
+  - 2026-10-02 twmd-spore-harvest-am 前一班把 #29 分享 532 讀成 632，並在 batch log 與 memory 寫出「四天 +102、有人在私訊或站外轉」的推論，還順手給一條低優先交接加了理由；隔天同一格讀到 532，序列 529→530→632→532 才現形。數字錯一格，敘事跟交接跟著長出來，validate 全綠。修補候選 (b) 鄰居差異警示若已上線，寫入當天就會亮 → memory/2026-10-02-064118-twmd-spore-harvest-am.md
 - **修補候選**：(a) SPORE-HARVEST-PIPELINE §Stage 5 batch log 加一行自檢：「這批說明什麼」段裡每個 #N、每句「某班說」都要能 grep 到（spore-log.json / 該 batch log），grep 不到就刪；(b) `spore-db.py show` 印時間軸時對同一 spore 相鄰事件的 views 落差 >50% 印 ⚠️，讓 3,981 這種值在寫入當天就被鄰居襯出來，不用等下一個里程碑。
 - **可能層級**：操作規則（harvest Stage 5 自檢一行 + spore-db 鄰居差異警示）；若 memory／report 層再出現同型，升 REFLEXES #98 子規則（真原子放錯槽位的內部敘事版）
 - **相關**：MANIFESTO §10 六型幻覺（文章層母體，本條是內部敘事層的同型）、MEMORY §神經迴路 2026-09-20「模型抄表準、串故事時填縫」（同一句話從文章移到 batch log）、REFLEXES #98（真原子放錯槽位）、#69 (g) form gate ≠ meaning gate（validate-spore-data 六項全綠管不到這段）、#82 proxy signal
-- **verification_count**: 1
+- **verification_count**: 2
 
 ### 2026-09-21 twmd-supporters-weekly — expected-cadence-missing-from-empty-intake-check：空佇列檢查只驗「有沒有漏抓」，沒驗「照歷史節奏該來幾筆」
 
