@@ -25,7 +25,12 @@ from datetime import datetime
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent.parent.parent
-LANGS = ("en", "ja", "ko", "es", "fr", "vi", "id", "pt", "hi", "ar", "ru")
+# 語言清單吃 languages.mjs（經同目錄 langs.py 單一橋）。2026-10-02 前寫死十一語，
+# de 的孤兒譯文不會被撿起來。
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from langs import ALL_TRANSLATION_LANGS  # noqa: E402
+
+LANGS = tuple(ALL_TRANSLATION_LANGS)
 
 
 def orphans(exclude: list[str]) -> list[str]:

@@ -18,7 +18,13 @@ import subprocess
 # symlink 的機器、或同機另開 worktree 跑，就會寫到別處或直接找不到。改從本檔
 # 位置推導，跑哪一份就寫哪一份。
 REPO = pathlib.Path(__file__).resolve().parents[3]
-LANG_DIRS = ["en", "ja", "ko", "es", "fr", "vi", "id", "pt", "hi"]
+# 語言清單吃 languages.mjs（經同目錄 langs.py 單一橋）。2026-10-02 前寫死九語，
+# ar/ru/de 三語被隔離的譯文打撈不到。
+import sys  # noqa: E402
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+from langs import ALL_TRANSLATION_LANGS  # noqa: E402
+
+LANG_DIRS = list(ALL_TRANSLATION_LANGS)
 
 
 def run(cmd, **kw):

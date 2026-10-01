@@ -122,7 +122,6 @@ DEBT=(
   # 讀數，屬 quality gate 鄰接面。逐檔判斷排進 OBSERVER-QUEUE / 下一個 Full session。
   "scripts/tools/unify-translation-slugs.py:26|2026-09-25|A 類：LANGS 停在 5 語，slug 統一化跳過 7 語"
   "scripts/tools/backfill-translated-from.py:55|2026-09-25|A 類：--lang choices 停在 5 語，7 語無法用此工具回填"
-  "scripts/tools/lang-sync/salvage-quarantined.py:21|2026-09-25|A 類：LANG_DIRS 9 語，缺 ar/ru/de——這三語的隔離譯文打撈不到"
   "scripts/tools/lang-sync/name-consistency-check.py:50|2026-09-25|B 類：已列滿 12 語但仍寫死，下一個語言出生時會漂"
   "scripts/tools/lang-sync/sovereignty-lexicon-check.py:79|2026-09-25|B 類：已列滿 12 語但仍寫死，同上"
   "scripts/tools/lang-sync/sibling-slug-map.py:34|2026-09-25|B 類：SIBLING_PRIORITY 是 fallback 偏好順序，性質同 src/i18n/utils.ts，可能該進允許清單而非改 derive"
@@ -131,7 +130,6 @@ DEBT=(
   "scripts/tools/spore-db.py:119|2026-09-27|A 類：語言資料夾清單停在 5 語＋zh-TW"
   "scripts/tools/sync-spore-links.py:147|2026-09-27|A 類：語言資料夾清單停在 5 語＋zh-TW"
   "scripts/tools/generate-spore-records.py:56|2026-09-27|A 類：LANG_DIRS 停在 5 語＋zh-TW"
-  "scripts/tools/lang-sync/rescue-orphans.py:28|2026-09-27|A 類：LANGS 11 語，缺 de"
   "scripts/tools/sync-diary-links.py:79|2026-09-27|B 類：日記鏡像語言停在 5 語，跟 OBSERVER-QUEUE #77（日記巴別塔停在五語）的決定綁在一起，決定前不該先改"
   "scripts/tools/analyze-diary-article-links.py:89|2026-09-27|B 類：同上，日記鏡像語言，跟 #77 綁在一起"
   "scripts/tools/contributor-pr-heal.py:78|2026-09-27|B 類：已列滿 12 語但仍寫死，下一個語言出生時會漂"
