@@ -1,154 +1,167 @@
 ---
-title: 'Media and Press Freedom in Taiwan'
-description: "From Party-State Control to the Media Warring States Era: Taiwan's Democratization of Press Freedom and the Challenges of Digital Transformation"
+title: 'Taiwanese Media and Press Freedom'
+description: 'From Party-State Control to the Media Wild West: The Democratization Process and Digital Transformation Challenges of Taiwanese Journalism'
 date: 2026-03-18
-author: 'Taiwan.md'
 category: 'Society'
+tags:
+  [
+    'media',
+    'press freedom',
+    'democratization',
+    'digital transformation',
+    'media literacy',
+  ]
 subcategory: '媒體與言論'
-tags: ['媒體', '新聞自由', '民主化', '數位轉型', '媒體識讀']
+author: 'Taiwan.md'
+difficulty: 'intermediate'
 readingTime: 15
+featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: false
 translatedFrom: 'Society/台灣媒體與新聞自由.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:2b07b58b99abcb36'
-sourceBodyHash: 'sha256:9e2facc3bed645dd'
-translatedAt: '2026-05-17T05:34:48+08:00'
-difficulty: 'intermediate'
+sourceCommitSha: '78ae80cba'
+sourceContentHash: 'sha256:582905028c9e4b0e'
+sourceBodyHash: 'sha256:cbd2decd38c4f756'
+translatedAt: '2026-10-02T00:52:48+08:00'
 ---
 
-# Media and Press Freedom in Taiwan
+# Taiwanese Media and Press Freedom
 
 ## 30-Second Overview
 
-Taiwan's media landscape evolved from party-state monopoly under martial law to the post-lift "press ban removal" and "television liberalization," developing into today's diverse media ecosystem. Reporters Without Borders (RSF) ranked Taiwan 27th in its 2024 World Press Freedom Index, leading in Asia.[^1]
+Taiwanese media evolved from the party-state monopoly during martial law to today's diverse media ecosystem following the lifting of censorship and the liberalization of television. In 2026, Taiwan ranked 28th out of 180 countries in the World Press Freedom Index by Reporters Without Borders (RSF), having been 24th in 2025.[^1]
 
-Taiwan's current media environment includes major newspaper groups, six terrestrial television stations, over a hundred cable TV channels, and digital-native media outlets that have risen since the 2010s.
+The current landscape includes major newspapers, five terrestrial television stations (TVS, CTS, CTV, MBS, CCTV), numerous cable and satellite channels, and digital-native media that emerged after the 2010s.
 
-Facing challenges such as disinformation, political polarization, and declining advertising revenue, the pressure on Taiwan's media to transform has never been more acute.
+Faced with challenges such as misinformation, political polarization, and declining advertising revenue, the pressure for transformation in Taiwanese media has never been more acute.
 
-**Keywords:** press ban removal, television liberalization, Reporters Without Borders, media literacy, digital transformation, disinformation
+**Keywords:** Lifting of censorship, liberalization of television, Reporters Without Borders, media literacy, digital transformation, misinformation
 
 ## Why It Matters
 
-Press freedom is the cornerstone of democratic governance, and the history of Taiwan's media development mirrors the trajectory of its democratization. The transformation from propaganda tools under authoritarian rule to a fourth estate holding government accountable has not only shaped Taiwan's political development but also offers lessons for other emerging democracies.
+Press freedom is a cornerstone of democratic systems, and the history of Taiwanese media reflects the trajectory of its democratization process. The transition from a propaganda tool under authoritarian rule to a watchdog—the fourth estate—has not only influenced Taiwan's political development but also serves as a case study for other emerging democracies.
 
-Amid global information warfare and disinformation threats, Taiwan's media environment faces a severe test. Striking a balance between freedom of expression and information integrity is a core issue that Taiwan's democratic deepening must confront. The rise of digital media has reshaped the traditional media ecosystem while simultaneously creating new modes of civic participation and new information risks.
+Under the threat of global information warfare and misinformation, Taiwan's media environment faces severe tests. Achieving a balance between freedom of speech and informational veracity is a core issue that Taiwan's deepening democracy must confront. The rise of digital media has changed the traditional media ecosystem while simultaneously creating new models of civic participation and new information risks.
 
-Taiwan's media history is a compressed version of democratization—a span of 70 years that accomplished institutional transitions many countries required a century to complete.
+The history of Taiwanese media is a compressed version of democratic history, undergoing institutional changes in 70 years that many nations take centuries to complete.
 
-## The Martial Law Period: The Party-State Media System (1949–1987)
+## Martial Law Period: Party-State Media System (1949–1987)
 
 ### Media Control Mechanisms
 
-Media control during martial law centered on the "press ban": starting in 1951, no new newspaper licenses were issued. The existing _Central Daily News_ (KMT party organ), _China Times_, and _United Daily News_ formed a "Big Three" newspaper landscape, while the Taiwan Garrison Command exercised pre-publication censorship over news content. Television was monopolized by the "Big Three" terrestrial stations—TTV (1962, provincial government), CTV (1969, KMT), and CTS (1971, military)—each dominated by its respective party, state, or military stakeholder, with the 9 PM news slot uniformly broadcasting government policy. On the radio side, official stations such as Cheng Sheng, BCC, and the military broadcaster dominated, with frequency allocation and content under strict control.
+Media regulation during the martial law era centered on "press censorship": starting in 1951, new newspaper licenses were suspended. The existing major papers—the KMT party organ _Central Daily News_, _China Times_, and _United Daily News_—formed a "Big Three" structure, while the Military Intelligence Bureau controlled news content through pre-publication review systems. In television, the "Old Three Stations" dominated: TVS (1962, provincial government), CTS (1969, KMT), and CTV (1971, military). These three stations were each backed by dominant political factions; prime-time news broadcasts uniformly promoted government policies. Radio was dominated by official stations such as _Zheng Sheng_, _China Radio_, and Military Radio, with frequency allocation and content strictly controlled.
 
-### The Role of Media
+### Media Function Positioning
 
-Under the party-state media system, the media's function was explicitly defined as promoting the ideology of anti-communism and national recovery, and publicizing government policy achievements. But the entertainment function was equally significant—the popularity of Taiwanese opera (_koa-á-hì_) and glove puppetry (_pò͘-tē-hì_) on television, the craze for Chiung Yao romance dramas, and the unifying power of sports broadcasts all allowed Taiwanese popular culture to retain its vitality in the cracks of authoritarian control.
+Under the party-state media system, media functions were clearly defined: to propagate anti-communist nationalistic ideology and promote the achievements of the government. However, the entertainment function cannot be overlooked—the popularity of television _gezaixi_ (opera), _budaixi_ (puppet opera), and romantic dramas by Qiong Yao, along with the unifying power of sports broadcasts, allowed Taiwanese society to retain a vitality of popular culture within the cracks of authoritarian control.
 
-This regulatory system operated for nearly four decades before the lifting of martial law in 1987, shaping the media experience of entire generations of Taiwanese people.
+This regulatory system operated for nearly four decades before the lifting of martial law in 1987, shaping the media consumption experience of several generations of Taiwanese people.
 
-## Post-Liberalization Media Deregulation (1987–1996)
+## Post-Martial Law Media Deregulation (1987–1996)
 
-### Press Ban Lifted (1988)
+### Lifting of Press Censorship (1988)
 
-On January 1, 1988, the press ban was officially lifted, ushering in a Warring States era for the newspaper industry.[^2] _Liberty Times_ (formerly _Tzu Chiang Daily News_), _Min Chung Daily News_, and _Taiwan Daily News_ were either newly founded or expanded. Papers competed for readers with free giveaway campaigns, and the race to adopt color printing technology drove a visual revolution in page design. Media political alignments rapidly diversified during this period: _Liberty Times_ leaned pro-independence, while _China Times_ and _United Daily News_ leaned pro-unification, reflecting the reality of Taiwan's post-liberalization political pluralism.
+On January 1, 1988, press censorship was officially lifted, ushering in the media "Wild West" era.[^2] New papers such as _Liberty Times_ (formerly _Zijiaozhong Daily_), _Minzu Daily_, and _Taiwan Daily_ were successively launched or expanded. Each paper competed to capture readers through free distribution tactics, and the competition in color printing technology drove a visual revolution in layouts. Media political stances rapidly diversified during this period: _Liberty Times_ leaned toward the pro-independence camp, while _China Times_ and _United Daily News_ favored the pro-unification camp, reflecting the reality of Taiwan's post-martial law political pluralism.
 
 ### Television Liberalization and Cable TV Opening
 
-The Cable Radio and Television Act passed in 1993, ending the Big Three terrestrial monopoly and legalizing underground radio stations, leading to an explosive growth in channel numbers. Formosa Television (FTV) launched in 1997 as Taiwan's first privately owned terrestrial TV station; the Public Television Service (PTS) formally began broadcasting in 1998, establishing an alternative media model not dependent on advertising revenue. The rise of cable stations such as EBC, TVBS, and SETTV fueled a boom in political talk shows, and 24-hour news broadcasting became the norm.
+The Cable Television Act was passed in 1993, ending the Old Three Stations' monopoly, which legalized underground broadcasting on the spot, leading to an explosive growth in channel numbers. MBS launched in 1997, becoming Taiwan's first private terrestrial television station; CCTV officially launched in 1998, establishing another media model not reliant on advertising revenue. The emergence of cable channels like ETtoday, TVBS, and Trinity led to the flourishing of political talk shows, making 24-hour news broadcasting the norm.
 
-Within just a decade of the press ban's removal, Taiwan went from a media desert to an overgrown media jungle—a transformation pace rare among global democratization cases.
+In just ten years after lifting censorship, Taiwan transformed from a media desert into a media jungle with channel oversupply—a pace of transformation rarely seen in global democratization cases.
 
-## The Media Warring States Era (1996–2010)
+## Media Wild West Era (1996–2010)
 
-### Newspaper Industry Reshuffling
+### Newspaper Industry Restructuring
 
-In 2003, Hong Kong's Next Media Group launched the _Apple Daily_ in Taiwan, upending the newspaper industry with sensationalist covers and paparazzi culture, rapidly climbing to the top of circulation rankings. A four-newspaper landscape took shape: the highest-circulation _Apple Daily_, the pro-green camp _Liberty Times_ with strong political influence, the pro-blue camp _China Times_, and the centrist-leaning-blue _United Daily News_. This structure held until 2021, when the _Apple Daily_ ceased publication.
+The launch of _Apple Daily_ by the Hong Kong media group in 2003 disrupted the newspaper ecosystem with its sensational covers and paparazzi culture, quickly rising to become a circulation leader. The "Big Four" structure was thus formed: _Apple Daily_, with the highest circulation; _Liberty Times_, with strong political influence from the green camp; _China Times_, aligned with the blue camp; and _United Daily News_, leaning toward the blue camp. This structure only collapsed when _Apple Daily_ ceased publication in 2021.
 
 ### Television Media Competition
 
-News channels proliferated rapidly, with SETTV, EBC, TVBS, CTi, Era News, and FTV each competing to attract viewers with political talk shows. Programs such as _2100 All People Speak Out_ (TVBS), _News Hacker_ (SETTV), and _Boss Come Talk_ (FTV) created Taiwan's distinctive "pundit culture," where politically outspoken commentators dominated screens every night, profoundly shaping Taiwan's political discourse ecosystem.
+News stations rapidly increased, with Trinity, ETtoday, TVBS, CTi, Yanda, and MBS competing to attract viewers with political talk shows. Programs like _2100 All Citizens Speak_ (TVBS), _News Hacker_ (Trinity), and _The Boss Speaks_ (MBS) created a unique "celebrity pundit culture" in Taiwan, where commentators with distinct political stances occupied screens every night, profoundly influencing the island's political discourse.
 
-### Media Maladies Emerge
+### Emergence of Media Anomalies
 
-Embedded marketing became a structural problem of this era: government budgets purchased media coverage, blurring the line between news and advertising and eroding media credibility. The phenomenon of starkly divided blue-green media camps engaging in selective reporting also accelerated societal polarization.
+Placing marketing became a structural problem during this period: governments purchased media coverage, blurring the lines between news and advertising, leading to declining media credibility. The phenomenon of clear blue-green media barriers and selective reporting also accelerated social polarization.
 
-## The Digital Media Era (2010–Present)
+## Digital Media Era (2010–Present)
 
-### The Rise of Online Media
+### Rise of Online Media
 
-In the 2010s, online-only media outlets emerged one after another, filling the reporting gaps left by traditional media. _ETtoday News Cloud_ (2011) rose rapidly with a click-rate-driven model; _Storm Media_ (2014) pursued an in-depth reporting approach; _The Reporter_ (2015) provided independent investigative journalism through a nonprofit model[^5]; _Up Media_ (2016) focused on finance and political expertise. Facebook and YouTube became primary channels for news dissemination, and the influence of internet celebrities and KOLs gradually surpassed that of traditional media figures, while traditional newspaper circulation continued to decline.
+In the 2010s, pure online media successively appeared, filling gaps left by traditional media. _ETtoday News Cloud_ rapidly rose based on click-through rates; _Wind Media_ pursued in-depth reporting; _Reporter_ offered independent investigative journalism through a non-profit model[^5]; and _Upatolia_ focused on finance and political professionalism (Note: Upatolia is translated as _Shangbao_ or _Upbao_ for context, but the original name should be maintained if possible. Using the provided translation context). Facebook and YouTube became major channels for news dissemination, and the influence of internet celebrities and KOLs gradually surpassed that of traditional media figures, while newspaper circulation continued to decline.
 
-### Disinformation and Media Literacy
+### Misinformation and Media Literacy
 
-During the 2018 election period, disinformation spread widely on LINE and Facebook, and accusations of Chinese information warfare surfaced. The Taiwan FactCheck Center was established in 2018[^3], working alongside platforms such as MyGoPen and Cofacts to build a verification mechanism. The Ministry of Education simultaneously incorporated media literacy into the curriculum, attempting to build citizens' information discernment capabilities from the education side.
+During the 2018 elections, misinformation spread widely on LINE and Facebook, and accusations of information warfare from mainland China also surfaced. The Taiwan Fact Check Center was established in 2018[^3], building a verification mechanism alongside platforms like MyGoPen (Măgēpiàn) and Cofacts (Zhēn de jiǎ de). In 2019, the twelfth National Curriculum Guidelines (108th curriculum) listed "Science and Information Technology and Media Literacy" as one of the core competencies, attempting to build citizens' information discernment capabilities from the educational sector.
 
-### The _Apple Daily_ Shutdown (2021)
+### The _Apple Daily_ Shutdown Incident (2021)
 
-In May 2021, Hong Kong's Next Media Group ceased operations under the pressure of the National Security Law. The Taiwan edition, hit by the double blow of declining advertising revenue and the pandemic, announced its closure in May of the same year. The four-newspaper landscape was thus reduced to three, the entertainment news market was redistributed, and paparazzi culture went into decline. The event also exposed the fragility of traditional newspapers in the digital age and the potential risks of concentrated media ownership to the news market.
+On May 14, 2021, the media group announced that the print edition of _Taiwan Apple Daily_ would cease after its final issue on May 17, citing continuous operating losses, loss of advertising due to digital platform monopolies, and the deteriorating political situation in Hong Kong.[^6] A month later, on June 24, _Apple Daily_ in Hong Kong ceased operations under pressure from the National Security Law. The "Big Four" were thus reduced to three; the entertainment news market reallocated, and the paparazzi culture began to wane. This incident also exposed the vulnerability of traditional newspapers in the digital age and the potential risks of media ownership concentration on the news market.
 
 ## Characteristics of the Current Media Environment
 
 ### Press Freedom Performance
 
-Reporters Without Borders ranked Taiwan 27th in its 2024 World Press Freedom Index; Freedom House rated Taiwan as "Free," a relatively outstanding performance in Asia. Direct government interference in news content has been greatly reduced compared to the martial law era, and the space for media to criticize government policy and pursue investigative reporting has clearly expanded. However, political pressure and advertising boycotts, concentrated media ownership, and occasional threats to journalists' personal safety remain concerns that cannot be overlooked.
+In 2024, Taiwan ranked 27th, 2025 ranked 24th, and 2026 ranked 28th in the RSF World Press Freedom Index; Freedom House rated it as "Free." Direct government interference with news content has significantly decreased compared to the martial law era, and the space for media to criticize government policies and conduct investigative reporting has clearly expanded. However, political pressure, advertising boycotts, concentrated media ownership, and occasional threats to journalists' personal safety remain undeniable hidden dangers.
 
 ### Media Ownership Structure
 
-Taiwan's mainstream media is predominantly operated by large conglomerates. The Want Want China Times Media Group (Tsai Eng-meng), the United Daily News Group (founded by the Wang Ti-wu family), and the Liberty Times (the Lin Rong-san family) represent distinct political blocs: _Liberty Times_, FTV, and SETTV lean green; _China Times_, _United Daily News_, and CTi lean blue. Politicians investing in media is not uncommon. On the public media side, the Public Television Foundation, CTS (which joined the public broadcasting group in 2007), Hakka TV, and Indigenous TV provide an alternative voice to commercial media.
+Taiwanese mainstream media is primarily characterized by corporate group operation. The Wangwang CTS Media Group (led by Tsai Yanming), the United Daily News lineage (founded by the Wang Tihu family), and the Liberty Times (the Lin Rongsan family) represent different media segments with distinct political leanings: _Liberty Times_, MBS, and Trinity lean green; _China Times_, _United Daily News_, and CTi lean blue. It is not uncommon for politicians to invest in media. For instance, CTi News Network was unanimously resolved by seven NCC commissioners in November 2020 not to renew its license, leading it to exit cable television and transition to online operations starting December 12; the Taipei High Administrative Court overturned this decision in a first instance review, sending it back to the NCC for reconsideration.[^7] In terms of public media, the Taiwan Public Media Foundation, CTV (which joined the Public Broadcasting Group in 2006), and Hakka TV and Indigenous Television provide voices outside commercial media.
 
-### Revenue Crisis in Media
+### Media Revenue Dilemma
 
-Traditional media advertising revenue has declined by over 60%, the digital advertising market has been largely captured by Google and Facebook, and classified advertising has been replaced by online platforms. Faced with this structural predicament, media outlets have adopted strategies such as subscription models, event-based revenue generation, government contract subsidies, and content licensing partnerships, but overall operating pressure remains severe.
+The advertising revenue of traditional media has significantly shrunk; the digital advertising market is largely divided by Google and Facebook, and classified advertising has been replaced by online platforms. Facing this structural dilemma, various media adopt strategies such as subscription models, hosting events for increased income, seeking government project subsidies, and engaging in content licensing collaborations, but overall media operations remain under considerable pressure.
 
-## Legal Framework and Policy
+## Regulations and Policies
 
-### Media-Related Legislation
+### Media-Related Laws
 
-Taiwan's media regulatory legal framework was built incrementally through the Radio and Television Act (1976), the Cable Radio and Television Act (1993), and the Satellite Broadcasting Act (1999), among others. The National Communications Commission (NCC), established in 2006[^4], is responsible for spectrum allocation, licensing, and content management, designed as an independent agency to avoid political interference. In 2022, NCC introduced the _Digital Intermediary Services Act_ draft, requiring platform operators to remove false information, but it was shelved the same year due to public controversy and has yet to be enacted.
+The legal framework for Taiwanese media regulation has been gradually built through regulations such as the Radio and Television Law (1976), the Cable Broadcasting and Television Law (1993), and the Satellite Broadcasting and Television Law (1999). The National Communications Commission (NCC), established in 2006[^4], is responsible for spectrum allocation, license issuance, and content management, designed as an independent agency to prevent political interference. In 2022, the NCC proposed the Draft Digital Intermediary Services Act, which intended for courts to issue "information restriction orders" against illegal content that platforms must comply with; however, the social controversy over who determines what is illegal or false caused it to be shelved in the same year and remains unlegislated.
 
-### Press Freedom Protections
+### Guarantee of Press Freedom
 
-Article 11 of the Republic of China Constitution guarantees freedom of speech, and Judicial Yuan Interpretation No. 613 further established the constitutional status of press freedom. Individual media outlets have established self-regulatory committees, and the Satellite Broadcasting Commercial Association and the Press Council constitute self-regulatory mechanisms, though enforcement varies significantly across institutions.
+Article 11 of the Constitution of the Republic of China guarantees freedom of speech, and Judicial Interpretation No. 689 (2011) stipulated that journalistic activities "should be within the scope protected by press freedom."[^8] Various media have established self-regulatory committees, and industry associations such as the Media Industry Association and News Council form self-regulatory mechanisms, but their effectiveness varies significantly depending on the organization.
 
-### Disinformation Response
+### Response to Misinformation
 
-Taiwan's current approach to disinformation relies primarily on fact-checking promotion, voluntary platform self-management, and citizen reporting mechanisms. After the _Digital Intermediary Services Act_ draft was sheltered over freedom of expression concerns, the government has yet to identify a clear legislative alternative.
+Taiwan's current response to misinformation is mainly based on promoting fact-checking, voluntary management by platform operators, and citizen reporting mechanisms. After the Draft Digital Intermediary Services Act was postponed due to concerns over freedom of speech, the government has not yet found a clear legislative alternative.
 
 ## Future Challenges and Opportunities
 
 ### Structural Challenges
 
-Taiwan's traditional media faces a triple structural crisis. Advertising revenue has been largely captured by Google and Facebook, reader willingness to pay has not yet been established, and production costs continue to rise; senior journalists are leaving for corporate PR, and low salaries for young journalists are driving talent attrition; the technical capabilities and funding required for digital transformation are beyond the reach of most small and mid-sized media outlets.
+Taiwan's traditional media faces a triple structural crisis. Advertising revenue is largely captured by Google and Facebook; reader payment habits have not been established; and production costs continue to rise. The migration of veteran journalists to corporate public relations, coupled with low salaries for young reporters leading to talent drain, means that most small and medium-sized media struggle to keep up with the technological capabilities and funding required for digital transformation.
 
 ### Emerging Opportunities
 
-On the other hand, new possibilities are emerging in Taiwan's media ecosystem. _The Reporter_'s nonprofit model has earned international awards, proving that in-depth reporting has a market in Taiwan. The rise of the PeoPo citizen journalism platform and podcast news programs has opened channels for public discourse outside mainstream media. AI-assisted news writing and data journalism visualization are also being piloted at some outlets.
+On the other hand, Taiwanese media has also shown new possibilities. _Reporter_, which operates on a non-profit model, has received international awards, proving there is a market for in-depth reporting in Taiwan. The emergence of citizen news platforms like PeoPo and podcast news programs has opened channels for public discussion outside mainstream media. AI assistance in news writing and data journalism visualization are also being implemented by some media outlets.
 
-### Policy Recommendations
+### Policy Recommendation Directions
 
-Common policy directions proposed by industry and academia include tax incentives for the news industry, increased public media budgets, strengthened fact-checking mechanisms, and support for media digital transformation. However, how policy resources are allocated and whether they would affect media independence remain central points of ongoing debate.
+Policy suggestions commonly put forward by the industry and academia include: tax incentives for the press, increasing public media budgets, strengthening fact-checking mechanisms, and supporting media digitalization transformation. However, how policy resources are allocated and whether this affects media independence remains a core point of discussion.
 
-Taiwan's media journey—from authoritarian control to free competition, and now confronting the challenges of the digital age—reflects the complexity of democratic deepening. How to safeguard press freedom while ensuring information quality and the sustainability of media operations is an important ongoing question for Taiwanese society.
+The journey of Taiwanese media—from authoritarian control to free competition, and now facing digital challenges—reflects the complexity of democratic deepening. How to ensure information quality and media sustainability while maintaining press freedom is an ongoing critical task for Taiwanese society.
 
-[^1]: Reporters Without Borders (RSF), "2024 World Press Freedom Index—Taiwan," https://rsf.org/en/country/taiwan
+[^1]: Reporters Without Borders (RSF), _Taiwan_ Country Page (ranked 24th in 2025, 28th in 2026), https://rsf.org/en/country/taiwan
 
-[^2]: Ministry of Culture, "Press Ban Removal and Media Diversification," https://nccwp.moc.gov.tw/home/zh-tw/white_paper
+[^2]: Wikipedia, _Censorship_ article, https://zh.wikipedia.org/zh-tw/%E5%A0%B1%E7%A6%81
 
-[^3]: Taiwan FactCheck Center, https://tfc-taiwan.org.tw/
+[^3]: Taiwan Fact Check Center, https://tfc-taiwan.org.tw/
 
 [^4]: National Communications Commission (NCC), https://www.ncc.gov.tw/
 
-[^5]: The Reporter, https://www.twreporter.org/
+[^5]: Reporter, https://www.twreporter.org/
+
+[^6]: Central News Agency, "Taiwan Apple Daily Suffers Losses, Ceases Print Edition from the 18th and Focuses on Digital," May 14, 2021, https://www.cna.com.tw/news/firstnews/202105145016.aspx
+
+[^7]: Wikipedia, _CTi News Network_ article, https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E%E5%8F%B0
+
+[^8]: Constitutional Court, "Interpretation No. 689," July 29, 2011, https://cons.judicial.gov.tw/docdata.aspx?fid=100&id=310870
 
 ## References
 
-- [National Communications Commission](https://www.ncc.gov.tw/), _[Taiwan Media Industry Development Report](https://commsurvey.ncc.gov.tw/)_, 2025
-- [Reporters Without Borders](https://rsf.org/en/country/taiwan), _2024 World Press Freedom Index_, 2024
-- ROC News Media Self-Regulatory Committee, _Media Self-Regulation Report_, 2024
-- [Taiwan FactCheck Center](https://tfc-taiwan.org.tw/), _Disinformation Situation Analysis Report_, 2025
-- [National Chengchi University Department of Journalism](https://jschool.nccu.edu.tw/), _Taiwan Media Environment Survey_, 2024
-- [Ministry of Culture](https://nccwp.moc.gov.tw/home/zh-tw/white_paper), _Media Industry Policy White Paper_, 2023
+- [National Communications Commission](https://www.ncc.gov.tw/), _[Taiwan Media Industry Development Report]_ (https://commsurvey.ncc.gov.tw/), 2025
+- [Reporters Without Borders](https://rsf.org/en/country/taiwan), _World Press Freedom Index 2024_, 2024
+- National Media Self-Regulation Committee of the Republic of China, _Media Self-Regulation Report_, 2024
+- [Taiwan Fact Check Center](https://tfc-taiwan.org.tw/), _Misinformation Status Analysis Report_, 2025
+- Department of Journalism, National Taiwan University (https://jschool.nccu.edu.tw/), _Survey of Taiwanese Media Environment_, 2024
+- Ministry of Culture (https://nccwp.moc.gov.tw/home/zh-tw/white_paper), _Media Industry Policy White Paper_, 2023
