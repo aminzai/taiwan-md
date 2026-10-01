@@ -28,7 +28,7 @@ sporeLinks:
     "{'id': 54, 'platform': 'x', 'date': '2026-04-30', 'url': 'https://x.com/taiwandotmd/status/2049854898108522575'}",
   ]
 translatedFrom: 'Nature/黑冠麻鷺.md'
-sourceCommitSha: '2da8b92f2'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:74ac37cae326eaa1'
 sourceBodyHash: 'sha256:9c1e23df6047812e'
 translatedAt: '2026-08-04T18:28:33.211638+00:00'

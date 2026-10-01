@@ -35,7 +35,7 @@ sporeLinks:
     "{'id': 69, 'platform': 'x', 'date': '2026-05-09', 'url': 'https://x.com/taiwandotmd/status/2053100425730269544'}",
   ]
 translatedFrom: 'Economy/台灣企業：台積電.md'
-sourceCommitSha: '6ffd92f94'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:e8afc225ea9e0107'
 sourceBodyHash: 'sha256:6bdb1c40d1477a30'
 translatedAt: '2026-08-03T21:46:31+08:00'

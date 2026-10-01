@@ -11,7 +11,7 @@ lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
 translatedFrom: 'People/劉德音.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:5e90feeafc19360c'
 sourceBodyHash: 'sha256:81e4bcfc4e50e127'
 translatedAt: '2026-08-04T06:18:10+08:00'

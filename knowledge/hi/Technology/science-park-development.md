@@ -31,7 +31,7 @@ sporeLinks:
     "{'id': 110, 'platform': 'x', 'date': '2026-05-29', 'url': 'https://x.com/taiwandotmd/status/2060247955467325544'}",
   ]
 translatedFrom: 'Technology/科技園區發展.md'
-sourceCommitSha: 'bc725e8c5'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:19e7a45a0852260f'
 sourceBodyHash: 'sha256:a1d16e29348fc28f'
 translatedAt: '2026-07-28T03:07:46+08:00'

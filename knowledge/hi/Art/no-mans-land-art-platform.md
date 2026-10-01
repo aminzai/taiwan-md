@@ -27,7 +27,7 @@ imageCredit: "數位荒原 No Man's Land 試刊號封面（2011-11）"
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://www.heath.tw/nml-issue/trial-issue-of-no-mans-land/'
 translatedFrom: 'Art/數位荒原.md'
-sourceCommitSha: 'a74c440b3'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:f8ec8d5fb97942ca'
 sourceBodyHash: 'sha256:7bfa784449cb0cb6'
 translatedAt: '2026-09-13T15:49:27+08:00'

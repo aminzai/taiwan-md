@@ -14,7 +14,7 @@ researchReport: 'reports/research/2026-08/台灣造紙.md'
 readingTime: 10
 curation: 'incubating'
 translatedFrom: 'Economy/造紙.md'
-sourceCommitSha: '73c4abdde'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:3a34e0a0c6a0aba4'
 sourceBodyHash: 'sha256:118ca7651c90b0fe'
 translatedAt: '2026-09-11T05:40:18+08:00'

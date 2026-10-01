@@ -20,7 +20,7 @@ lastHumanReview: false
 readingTime: 12
 curation: 'incubating'
 translatedFrom: 'People/蔡同榮.md'
-sourceCommitSha: '242950a64'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:d7673a354fbbc5eb'
 sourceBodyHash: 'sha256:d10467cfa27626e7'
 translatedAt: '2026-09-12T02:30:19+08:00'

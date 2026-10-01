@@ -30,7 +30,7 @@ sporeLinks:
     "{'id': 94, 'platform': 'x', 'date': '2026-05-26', 'url': 'https://x.com/taiwandotmd/status/2059239795231281223'}",
   ]
 translatedFrom: 'Technology/大宇雙劍.md'
-sourceCommitSha: '31a05c44b'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:99d1ed1be7085b4c'
 sourceBodyHash: 'sha256:6aa8eb64a1458368'
 translatedAt: '2026-07-29T18:45:50+08:00'

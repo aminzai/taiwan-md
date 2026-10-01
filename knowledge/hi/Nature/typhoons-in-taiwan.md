@@ -35,7 +35,7 @@ sporeLinks:
     "{'id': 116, 'platform': 'x', 'date': '2026-06-03', 'url': 'https://x.com/taiwandotmd/status/2062065024613679469'}",
   ]
 translatedFrom: 'Nature/颱風.md'
-sourceCommitSha: '31a05c44b'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:b0a47a120aff0621'
 sourceBodyHash: 'sha256:b8ebcfc4e0a96ce7'
 translatedAt: '2026-07-29T17:42:48+08:00'

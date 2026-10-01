@@ -20,7 +20,7 @@ lastVerified: 2026-08-13
 lastHumanReview: false
 curation: 'incubating'
 translatedFrom: 'Culture/噶瑪蘭族.md'
-sourceCommitSha: '4a95859b1'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:f55a726b94593a52'
 sourceBodyHash: 'sha256:af42a6da82295d4c'
 translatedAt: '2026-09-12T19:57:18+08:00'

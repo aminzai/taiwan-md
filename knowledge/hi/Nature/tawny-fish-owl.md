@@ -32,7 +32,7 @@ sporeLinks:
     "{'id': 60, 'platform': 'x', 'date': '2026-05-04', 'url': 'https://x.com/taiwandotmd/status/2051235570995839479'}",
   ]
 translatedFrom: 'Nature/黃魚鴞.md'
-sourceCommitSha: '21298a7a'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:7f5ae90c4eafcd0e'
 sourceBodyHash: 'sha256:2a057438270935d7'
 translatedAt: '2026-07-29T03:36:24+08:00'

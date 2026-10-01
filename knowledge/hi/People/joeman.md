@@ -22,7 +22,7 @@ lastHumanReview: false
 readingTime: 10
 curation: 'incubating'
 translatedFrom: 'People/Joeman.md'
-sourceCommitSha: '36aaa72e1'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:19eba63c27c61c88'
 sourceBodyHash: 'sha256:18e7518b3acc71b4'
 translatedAt: '2026-09-11T17:03:18+08:00'

@@ -46,7 +46,7 @@ sporeLinks:
     "{'id': 32, 'platform': 'x', 'date': '2026-04-18', 'url': 'https://x.com/taiwandotmd/status/2045363785347612934'}",
   ]
 translatedFrom: 'People/Cicada.md'
-sourceCommitSha: '21298a7ae'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:3d1c97835c5d9ea3'
 sourceBodyHash: 'sha256:5091127dea208f82'
 translatedAt: '2026-07-31T22:46:20+08:00'

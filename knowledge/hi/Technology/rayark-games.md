@@ -38,7 +38,7 @@ sporeLinks:
     "{'id': 90, 'platform': 'x', 'date': '2026-05-25', 'url': 'https://x.com/taiwandotmd/status/2058811390337622339'}",
   ]
 translatedFrom: 'Technology/雷亞遊戲.md'
-sourceCommitSha: '31a05c44b'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:efb74dfc78d9c93c'
 sourceBodyHash: 'sha256:28ef520886f893e3'
 translatedAt: '2026-07-29T12:59:28+08:00'

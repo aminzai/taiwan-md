@@ -35,7 +35,7 @@ sporeLinks:
     "{'id': 62, 'platform': 'x', 'date': '2026-05-05', 'url': 'https://x.com/taiwandotmd/status/2051577099341967464'}",
   ]
 translatedFrom: 'Society/台灣與史瓦帝尼.md'
-sourceCommitSha: '31a05c44b'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:fe1941c4ac5aac8a'
 sourceBodyHash: 'sha256:8dca2bcfa6293bb2'
 translatedAt: '2026-07-29T18:45:50+08:00'

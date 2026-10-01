@@ -28,7 +28,7 @@ rationale:
   whos_pushing_back: '偶像轉型不等於離開團體，文章保留 Ozone 成員關係與團體創作脈絡。'
 curation: 'incubating'
 translatedFrom: 'People/林佳辰.md'
-sourceCommitSha: '2187c1c9c'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:11fc2d2ddbeac051'
 sourceBodyHash: 'sha256:ecc6d9a502536bda'
 translatedAt: '2026-09-14T06:58:46+08:00'
