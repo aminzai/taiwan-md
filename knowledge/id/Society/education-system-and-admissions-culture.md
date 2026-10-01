@@ -20,17 +20,17 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Society/教育制度與升學文化.md'
-sourceCommitSha: '9d6716713'
-sourceContentHash: 'sha256:b3fec964553963ea'
-sourceBodyHash: 'sha256:605626e47ccc1b01'
-translatedAt: '2026-07-29T01:32:43+08:00'
+sourceCommitSha: '0f71fb1c5'
+sourceContentHash: 'sha256:ede91c7ee7539592'
+sourceBodyHash: 'sha256:24778da06af3ffc5'
+translatedAt: '2026-10-02T02:55:33+08:00'
 ---
 
 # Sistem Pendidikan dan Budaya Masuk Perguruan Tinggi
 
 ## Ringkasan 30 Detik
 
-Sistem pendidikan Taiwan dikenal dengan budaya masuk perguruan tinggi yang sangat kompetitif, mulai dari sembilan tahun pendidikan wajib hingga pendidikan 12 tahun, membentuk arsitektur sistem 6-3-3-4. Sistem pendidikan terbagi menjadi jalur pendidikan umum dan pendidikan teknis vokasional, namun nilai-nilai sosial tetap condong pada prestasi akademik, menciptakan persaingan masuk perguruan tinggi yang sengit. Baru-baru ini reformasi pendidikan menekankan pengembangan beragam dan pengembangan bakat yang sesuai, namun bagaimana mencapai keseimbangan antara kompetisi dan keberagaman, elit dan universalitas, tetap menjadi tantangan inti yang dihadapi pendidikan Taiwan.
+Sistem pendidikan Taiwan dikenal dengan budaya masuk perguruan tinggi yang sangat kompetitif, dari sembilan tahun pendidikan wajib nasional diperluas menjadi dua belas tahun pendidikan dasar nasional (tiga tahun terakhir bebas biaya sekolah dan bersifat sukarela), membentuk arsitektur sistem 6-3-3-4. Sistem pendidikan terbagi menjadi jalur pendidikan umum dan pendidikan teknis vokasional, namun nilai-nilai sosial tetap condong pada prestasi akademik, menciptakan persaingan masuk perguruan tinggi yang sengit. Baru-baru ini reformasi pendidikan menekankan pengembangan beragam dan pengembangan bakat yang sesuai, namun bagaimana mencapai keseimbangan antara kompetisi dan keberagaman, elit dan universalitas, tetap menjadi tantangan inti yang dihadapi pendidikan Taiwan.
 
 **Ciri Kunci:** Pendidikan wajib universal, persaingan masuk perguruan tinggi yang sengit, menekankan prestasi akademik, sistem ganda pendidikan teknis vokasional, penyesuaian berkelanjutan reformasi pendidikan
 
@@ -66,7 +66,7 @@ Pendidikan 12 tahun adalah kebijakan besar dalam sejarah pendidikan Taiwan, mula
 
 ### Reformasi Sistem Penerimaan Siswa Baru
 
-Pendidikan 12 tahun memperkenalkan tiga saluran penerimaan: penerimaan tanpa ujian mendistribusikan siswa ke sekolah terdekat berdasarkan tempat tinggal, mengurangi tekanan ujian; penerimaan khas mengizinkan sebagian sekolah menerima siswa dengan bakat khusus; ujian nasional SMP diposisikan sebagai penilaian kemampuan belajar, bukan alat seleksi masuk perguruan tinggi.
+Penerimaan dalam pendidikan 12 tahun terutama melalui penerimaan tanpa ujian: lebih dari 75% lulusan SMP tidak perlu mengikuti ujian masuk, cukup mengisi pilihan sekolah dan mendaftar di dalam zona penerimaan tanpa ujian masing-masing (seluruh negeri ada 15 zona). Bila jumlah pendaftar melebihi kuota, barulah dilakukan pemeringkatan berdasarkan urutan pilihan, kinerja belajar yang beragam, dan nilai Ujian Pendidikan SMP (會考).[^2][^6] Sebagian kecil kuota lainnya disisihkan untuk penerimaan khas, melalui ujian mata pelajaran atau seleksi tes keterampilan.[^2]
 
 ### Reformasi Kurikulum
 
@@ -96,7 +96,7 @@ Baru-baru ini pemerintah mendorong reformasi ke empat arah: kerja sama industri-
 
 ### Tahap Reformasi Penting
 
-Reformasi pendidikan Taiwan terbagi tiga gelombang. 1990-an berfokus luas membangun SMA/universitas, penerimaan beragam, kurikulum sembilan tahun terpadu, bertujuan memecah monopoli ujian gabungan, memperluas kesempatan pendidikan. 2000-an memperkenalkan ujian dasar SMP menggantikan ujian gabungan SMA, meluncurkan Program Bintang untuk siswa daerah terpencil, penerimaan universitas menuju jalur beragam rekomendasi seleksi dan distribusi ujian beriringan. 2010-an memperluas pendidikan wajib ke 12 tahun, 2019 merekonstruksi filsafat kurikulum lewat Kurikulum 108, serta meluncurkan kebijakan negara bilingual 2030.
+Reformasi pendidikan Taiwan terbagi tiga gelombang. 1990-an berfokus luas membangun SMA/universitas, penerimaan beragam, kurikulum sembilan tahun terpadu, bertujuan memecah monopoli ujian gabungan, memperluas kesempatan pendidikan. 2000-an memperkenalkan ujian dasar SMP menggantikan ujian gabungan SMA, meluncurkan Program Bintang untuk siswa daerah terpencil, penerimaan universitas menuju jalur beragam rekomendasi seleksi dan distribusi ujian beriringan. 2010-an memperluas pendidikan dasar nasional menjadi 12 tahun (pendidikan wajib tetap sembilan tahun pertama, tiga tahun terakhir bersifat sukarela dan bebas biaya sekolah), dan 2019 merekonstruksi filsafat kurikulum lewat Kurikulum 108.[^2]
 
 ### Hasil dan Tantangan Reformasi
 
@@ -120,19 +120,19 @@ Taiwan membangun sistem pendidikan khusus lengkap mencakup pendidikan disabilita
 
 ### Pendidikan Multikultural
 
-Seiring bertambahnya jumlah anak keturunan warga baru Asia Tenggara, sistem pendukung pendidikan terkait dibangun bertahap sejak 2000-an. Kebijakan pendidikan suku asli menekankan pelestarian budaya dan bahasa, mata pelajaran bahasa berbagai suku sudah masuk ke kurikulum sebagian sekolah. Selain itu, Taiwan juga memiliki sekolah internasional melayani anak warga asing, serta kelas internasional yang didirikan sekolah lokal.
+Seiring bertambahnya jumlah anak keturunan warga baru Asia Tenggara, sistem pendukung pendidikan terkait dibangun bertahap sejak 2000-an. Kebijakan pendidikan masyarakat adat menekankan pelestarian budaya dan bahasa. Menurut kurikulum yang berlaku, siswa SD kelas 1–6 serta SMP kelas 1–2 wajib memilih satu dari bahasa Minnan, bahasa Mindong, bahasa Hakka, atau bahasa masyarakat adat (di SMP diterapkan bertahap mulai tahun ajaran 111), dan kelas 3 SMP juga wajib membuka kelas bahasa adat bagi siswa masyarakat adat.[^7] Selain itu, Taiwan juga memiliki sekolah internasional melayani anak warga asing, serta kelas internasional yang didirikan sekolah lokal.
 
 ## Internasionalisasi dan Pendidikan Bilingual
 
 ### Dorongan Pendidikan Bahasa Inggris
 
-Pemerintah 2018 mengumtuaskan target negara bilingual 2030, mendorong sebagian mata pelajaran diajarkan dalam bahasa Inggris, serta memperluas kesempatan pertukaran internasional siswa. Taiwan juga memperkenalkan program Diploma Internasional (IB), memungkinkan siswa lokal menyentuh standar belajar global.
+Pemerintah 2018 mencanangkan target negara bilingual 2030, mendorong sebagian mata pelajaran diajarkan dalam bahasa Inggris, serta memperluas kesempatan pertukaran internasional siswa. Taiwan juga memperkenalkan program Diploma Internasional (IB), memungkinkan siswa lokal menyentuh standar belajar global.
 
 ## Pendidikan Teknologi dan Inovasi
 
 ### Pendidikan Digital dan Inovasi
 
-Taiwan 2019 memasukkan pemrograman ke mata pelajaran wajib SMP, dan terus memperluas kurikulum terkait AI. Pendidikan maker dan kurikulum terpadu STEAM (Sains, Teknologi, Rekayasa, Seni, Matematika) mendorong praktik langsung, pendidikan kewirausahaan berusaha membuka jalur nilai lain di tengah sistem yang didominasi orientasi masuk perguruan tinggi.
+Sejak Kurikulum 108, SMP menjadikan "Teknologi Informasi" mata pelajaran wajib, dengan pemrograman sebagai salah satu materinya, dan kurikulum terkait AI juga terus diperluas. Pendidikan maker dan kurikulum terpadu STEAM (Sains, Teknologi, Rekayasa, Seni, Matematika) mendorong praktik langsung, pendidikan kewirausahaan berusaha membuka jalur nilai lain di tengah sistem yang didominasi orientasi masuk perguruan tinggi.
 
 ## Dampak Sosial Budaya Pendidikan
 
@@ -196,13 +196,17 @@ Bagaimana sambil mempertahankan kualitas dan daya saing pendidikan, menciptakan 
 
 [^1]: Bagian Statistik Kementerian Pendidikan, 〈Statistik Masuk Perguruan Tinggi〉, https://stats.moe.gov.tw/
 
-[^2]: Kementerian Pendidikan, 〈Penjelasan Kebijakan Pendidikan Dasar Nasional 12 Tahun〉, https://www.moe.gov.tw/
+[^2]: [Urusan Terkait Pendidikan Dasar Nasional Dua Belas Tahun](https://www.edu.tw/News_Content.aspx?n=D33B55D537402BAA&s=37E2FF8B7ACFC28B) — Kementerian Pendidikan: sembilan tahun pertama wajib dan bersifat paksaan; tiga tahun terakhir sukarela, tidak dipaksakan, bebas biaya sekolah, dan sebagian besar tanpa ujian; lebih dari 75% lulusan SMP melanjutkan sekolah tanpa ujian masuk, dan sebagian kecil kuota disisihkan untuk penerimaan khas.
 
 [^3]: Kementerian Pendidikan, 〈Garis Besar Umum Kurikulum 108〉, https://www.naer.edu.tw/
 
 [^4]: OECD, 〈Hasil PISA 2022〉, https://www.oecd.org/pisa/
 
 [^5]: Bagian Statistik Kementerian Pendidikan, 〈Jaringan Kueri Statistik Pendidikan〉, https://stats.moe.gov.tw/
+
+[^6]: [Penerimaan Tanpa Ujian | Jaringan Informasi Pendidikan Dasar Nasional 12 Tahun Kota Taipei](https://12basic.tp.edu.tw/category/faq/faq_01/) — Jaringan informasi pendidikan 12 tahun Kota Taipei: penerimaan tanpa ujian berarti lulusan SMP tidak perlu mengikuti ujian masuk dan mendaftar ke sekolah di zona penerimaan tanpa ujian masing-masing; seluruh negeri ada 15 zona, dan bila melebihi kuota diperingkat berdasarkan urutan pilihan, kinerja belajar yang beragam, dan Ujian Pendidikan SMP.
+
+[^7]: [Hal-hal yang Perlu Diperhatikan dalam Membuka Mata Pelajaran Bahasa Lokal di SD dan SMP](https://edu.law.moe.gov.tw/LawContent.aspx?id=FL039252) — Peraturan Kementerian Pendidikan butir ketiga: siswa SD kelas 1–6 dan SMP kelas 1–2 wajib memilih satu dari bahasa Minnan, Mindong, Hakka, atau bahasa masyarakat adat; kelas 3 SMP wajib membuka kelas bahasa adat untuk dipilih siswa masyarakat adat.
 
 ## Referensi
 
