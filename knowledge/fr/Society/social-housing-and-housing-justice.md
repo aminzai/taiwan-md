@@ -1,322 +1,290 @@
 ---
-title: 'Logement social et justice résidentielle'
-description: 'Comment Taïwan met en œuvre la justice résidentielle par sa politique de logement social, afin que chacun puisse trouver un lieu de vie digne'
+title: 'Logement social et justice habitationnelle'
+description: 'Comment Taïwan parvient à la justice habitationnelle grâce aux politiques de logement social, garantissant à chacun un lieu d’hébergement digne'
 date: 2026-03-18
-author: 'Taiwan.md'
 category: 'Society'
-subcategory: '人權與平等'
 tags:
   [
     'logement social',
-    'justice résidentielle',
+    'justice habitationnelle',
     'politique du logement',
-    'gestion locative subventionnée',
+    'location publique',
     'rénovation urbaine',
   ]
+subcategory: '人權與平等'
+author: 'Taiwan.md'
 readingTime: 13
+featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: false
 translatedFrom: 'Society/社會住宅與居住正義.md'
-sourceCommitSha: 'b19194bea'
-sourceContentHash: 'sha256:21ee8c77270d6c3e'
-sourceBodyHash: 'sha256:bafb3fe2db142763'
-translatedAt: '2026-06-07T00:37:31+08:00'
+sourceCommitSha: '5efc41d39'
+sourceContentHash: 'sha256:0989f07af63c2d2b'
+sourceBodyHash: 'sha256:911bf6acff0d4788'
+translatedAt: '2026-10-02T05:15:36+08:00'
 ---
 
-# Logement social et justice résidentielle
+# Logement social et justice habitationnelle
 
-## Vue d'ensemble en 30 secondes
+## Aperçu en 30 secondes
 
-Se loger est un besoin fondamental des citoyens et une responsabilité essentielle de l'État. Depuis 2016, Taïwan a lancé le plan « 200 000 logements sociaux en 8 ans », combinant construction directe et gestion locative subventionnée pour œuvrer à la « justice résidentielle ». Cette politique tente de redéfinir la nature même du logement, pour qu'il cesse d'être un simple redevable de marché et redevienne une garantie du droit au logement.
+L’hébergement est un besoin fondamental du peuple et une responsabilité importante de l’État. Depuis 2016, Taïwan a lancé la politique « 8 ans, 200 000 unités de logement social », poursuivie par la construction directe et la location publique, dans un doublement parallèle, pour réaliser la « justice habitationnelle ». Cette politique cherche à reconstruire l’essence du logement, le ramenant d’un simple bien marchand à la garantie du droit au logement.
 
-Fin 2024, environ 213 000 logements avaient été réalisés, dépassant l'objectif fixé, mais la flambée des prix immobiliers et les difficultés du marché locatif n'ont pas disparu pour autant. Le rôle et les limites du logement social restent au cœur du débat politique taïwanais.
+À la fin de 2023, le gouvernement estimait que d’ici la fin de 2024, la construction directe atteindrait 120 000 unités, auxquelles s’ajouteraient environ 94 000 unités d’effets de location publique validés, pour un total d’environ 214 000 unités, avec un taux d’atteinte de 107 %. Cependant, les prix immobiliers élevés et les difficultés de location persistent, et le rôle et les limites du logement social restent des enjeux centraux du débat politique taïwanais.
 
-Mots-clés : logement social, justice résidentielle, gestion locative subventionnée, Loi sur le logement, logement des jeunes, logement des personnes vulnérables
+Mots-clés : logement social, justice habitationnelle, location publique, loi sur le logement, logement des jeunes, logement des classes vulnérables
 
-## Pourquoi c'est important
+## Pourquoi c’est important
 
-Le logement est la base sur laquelle les individus s'établissent, fondent une famille et poursuivent leurs projets. Lorsque le rapport prix du logement/revenu atteint 15 à 20, de nombreux jeunes se retrouvent piégés dans une situation où ils ne peuvent ni acheter ni se loger décemment. Le logement social devient alors un outil politique central pour répondre à l'exigence de justice résidentielle.
+Le logement est la base sur laquelle les gens s’établissent, forment une famille et poursuivent leurs rêves. Lorsque le ratio prix/logement à Taïpe dépasse 16 fois le revenu médian, de nombreux jeunes se retrouvent prisonniers d’un dilemme « ne peut pas acheter, ne peut pas louer correctement », et le logement social devient un outil politique clé pour répondre à la justice habitationnelle.
 
-La portée de cette politique ne se limite pas à la construction de bâtiments. Elle incarne un choix de société : permettre aux personnes économiquement vulnérables d'accéder à un logement décent, offrir aux jeunes la possibilité de se stabiliser, et utiliser la rénovation urbaine pour améliorer les quartiers anciens.
+La signification de la politique de logement social ne se limite pas à la construction de bâtiments. Elle représente un choix : permettre aux classes économiquement vulnérables de bénéficier d’un environnement de vie convenable, offrir aux jeunes un lieu où s’établir, et améliorer les quartiers anciens à travers la rénovation urbaine.
 
-Dans une perspective de comparaison internationale, la part du logement social à Taïwan reste modeste, mais l'expansion rapide depuis 2016 a fait passer cette question de la marge au centre de l'agenda politique.
+D’un point de vue international, la proportion de logements sociaux à Taïwan reste relativement basse, mais l’expansion rapide depuis 2016 a fait passer cette question d’enjeu marginal à thème central des politiques publiques.
 
-- **Équité sociale** : garantir un logement décent aux personnes en situation de vulnérabilité économique
-- **Justice intergénérationnelle** : offrir aux jeunes la possibilité de se loger sans s'endetter lourdement
-- **Développement urbain** : orienter la régénération des villes et améliorer les quartiers anciens
-- **Cohésion sociale** : réduire les fractures sociales liées aux problèmes de logement
+- **Égalité sociale** : permettre aux classes vulnérables de bénéficier d’un environnement de vie convenable
+- **Justice intergénérationnelle** : offrir aux jeunes un lieu où s’établir, sans fardeau de prêt immobilier lourd
+- **Développement urbain** : favoriser la régénération urbaine, améliorer l’environnement des quartiers anciens
+- **Harmonie sociale** : réduire les tensions sociales liées aux problèmes de logement
 
-## L'état de la question du logement à Taïwan
+## Situation actuelle du logement à Taïwan
 
-### Les difficultés résidentielles à l'époque de la flambée immobilière
+### Difficultés d’accès au logement à l’ère des prix élevés
 
-Le rapport prix du logement/revenu à Taipei est d'environ 15 à 16 (données 2024), d'environ 12 à 13 dans la ville de Nouveau Taipei et d'environ 9 à 10 à Taoyuan, bien au-delà de la fourchette raisonnable de 5 à 6 reconnue internationalement.[^4] Une famille moyenne devrait se priver pendant 10 à 15 ans pour acheter un logement, et de nombreux jeunes sont contraints de se tourner vers le marché locatif.
+Selon les statistiques du ministère de l’Intérieur pour le 4e trimestre 2024, le ratio prix/logement à Taïpe est de 16,43, à Nouvelle-Ville de 14,08, à Taoyuan de 9,22, et à l’échelle nationale de 10,76[^4]. En d’autres termes, une famille moyenne à Taïpe devrait renoncer à manger et boire pendant plus de seize ans pour pouvoir acheter un logement. De nombreux jeunes sont contraints de se tourner vers le marché de la location.
 
-Mais ce marché est lui aussi miné par de nombreux problèmes : proportion élevée de marché noir, propriétaires déclarant rarement leurs revenus locatifs, opacité des loyers, contrats de courte durée généralisés, protection insuffisante des droits des locataires. La superposition de ces deux difficultés fait du logement l'un des enjeux politiques les plus urgents de la société taïwanaise.
+Cependant, le marché de la location présente lui aussi de nombreux problèmes : l’absence de contrats officiels est répandue, les propriétaires locataires évitent souvent de déclarer leurs revenus, les prix de location manquent de transparence, les contrats à court terme sont fréquents, et les droits des locataires manquent de protection efficace. Ces deux difficultés s’entrecroisent, faisant du problème du logement l’un des enjeux politiques les plus urgents de la société taïwanaise.
 
-**Besoins spécifiques de certaines populations**
+**Besoins spécifiques en matière de logement**
 
-- **Les jeunes** : des salaires qui ne suivent pas la hausse des prix, l'accession à la propriété hors de portée
-- **Les familles monoparentales** : charges économiques lourdes, choix locatifs limités
-- **Les personnes âgées** : revenus fixes en baisse, risque résidentiel accru
-- **Les personnes en situation de handicap** : besoin d'environnements accessibles, choix encore plus restreints
+- **Jeunes générations** : les salaires ne suivent pas l’évolution des prix, l’accès à l’achat reste un rêve lointain
+- **Familles monoparentales** : charge financière lourde, choix limité en matière de location
+- **Personnes âgées** : revenus fixes diminués, exposées au risque de perte de logement
+- **Personnes en situation de handicap** : nécessitent un environnement accessible, options encore rares
 
-### Contexte d'évolution des politiques
+### Contexte historique des politiques du logement
 
-**Les premières politiques du logement (1950-2010)**
+**Politiques du logement initiales (1950-2010)**
+Les premières politiques du logement à Taïwan visaient principalement à encourager l’achat de logements :
 
-Les premières politiques du logement à Taïwan reposaient principalement sur l'« encouragement à l'achat » :
+- Politique des logements publics : construction de logements populaires vendus à prix réduit
+- Prêts hypothécaires avantageux : soutien par des politiques financières
+- Réduction d’impôt sur la revente, avantages pour les premiers acheteurs : incitations fiscales pour stimuler l’achat
+- Problème : les principaux bénéficiaires étaient les classes moyennes, les classes vulnérables tiraient peu partie de ces mesures
 
-- Politique du logement national (_guózhái_) : construction de logements nationaux vendus à prix préférentiel
-- Prêts à taux préférentiel pour l'achat : soutien à l'accession par des instruments financiers
-- Déduction fiscale pour revente, avantages à la première acquisition : incitations fiscales à l'achat
-- Problème : les bénéficiaires principaux étaient les classes moyennes, les populations vulnérables en profitaient peu
+**Adoption de la loi sur le logement (2011-2016)**
+En 2011, la loi sur le logement a été adoptée, marquant une nouvelle orientation politique :[^3]
 
-**L'adoption de la Loi sur le logement (2011-2016)**
+- Objectif législatif : garantir à tous les citoyens un logement convenable et un environnement de vie digne
+- Base juridique pour le logement social
+- Mise en place d’un système de subvention de loyer
+- Cependant, la mise en œuvre manquait d’efficacité, et la construction de logements sociaux progresse lentement
 
-La Loi sur le logement, adoptée en 2011, a défini de nouvelles orientations pour la politique du logement :[^3]
+## Contenu des politiques de logement social
 
-- Inscription du « droit au logement » parmi les droits fondamentaux
-- Établissement d'une base juridique pour le logement social
-- Mise en place d'un système d'allocations loyers
-- Mais la mise en œuvre est restée insuffisante, et la construction de logements sociaux a progressé lentement
+### Plan des 200 000 unités sur 8 ans
 
-## Contenu de la politique de logement social
+Après l’arrivée au pouvoir en 2016, le nouveau gouvernement a présenté la politique « 8 ans, 200 000 unités de logement social » :[^2]
 
-### Le plan « 200 000 logements en 8 ans »
+**Objectifs politiques**
 
-À l'arrivée au pouvoir du nouveau gouvernement en 2016, le plan « 200 000 logements sociaux en 8 ans » a été lancé :[^2]
+- Construction de 200 000 unités de logement social entre 2017 et 2024
+- Construction directe : 120 000 unités
+- Location publique : 80 000 unités
 
-**Objectifs de la politique**
+**Stratégies d’exécution**
 
-- Construction de 200 000 logements sociaux entre 2017 et 2024
-- Construction directe : 120 000 logements
-- Gestion locative subventionnée : 80 000 logements
-- Investissement total estimé à environ 440 milliards de dollars taïwanais
+1. **Collaboration entre l’État central et les collectivités locales** : le Centre national du logement et de la rénovation urbaine (National Housing and Urban Regeneration Center) coordonne la planification
+2. **Sources de terrain diversifiées** : terrains publics, lots de rénovation urbaine, dons, etc.
+3. **Mécanismes financiers innovants** : fonds logement, budget spécial pour les infrastructures de base
+4. **Équipes professionnelles dédiées** : création d’institutions spécialisées pour améliorer l’efficacité opérationnelle
 
-**Stratégie de mise en œuvre**
+### Modèle à double voie parallèle
 
-1. **Coopération entre le niveau central et les collectivités locales** : le Centre national du logement et de la rénovation urbaine (_Guójiā Zhùdōu Zhōngxīn_) assure la coordination et la planification
-2. **Sources foncières diversifiées** : terrains publics, terrains récupérés via la rénovation urbaine, dons, etc.
-3. **Mécanismes de financement innovants** : Fonds du logement, budget spécial des travaux d'avenir
-4. **Exécution par des équipes professionnelles** : création d'institutions dédiées pour améliorer l'efficacité opérationnelle
+**Voie 1 : Construction directe**
+Le gouvernement construit, possède et gère directement les logements sociaux :
 
-### Le modèle à deux volets
+- Objectif de construction : 120 000 unités
+- Sources de financement : fonds logement, budget spécial
+- Mode de gestion : gestion directe par l’État ou délégation à des acteurs privés
+- Caractéristique : meilleure maîtrise de la qualité, possibilité de planifier des fonctions communautaires complètes
 
-**Volet 1 : Construction directe**
+**Voie 2 : Location publique**
+Le gouvernement collabore avec des propriétaires privés pour placer des locataires vulnérables :
 
-L'État construit, détient et gère directement les logements sociaux :
+- Objectif de logements : 80 000 unités
+- Mode de fonctionnement :
+  - **Location publique** : le gouvernement loue des logements privés, puis les sous-loue aux classes vulnérables
+  - **Gestion déléguée** : faciliter la location entre propriétaires et locataires, fournir des services de gestion
+- Avantage : réactiver les logements vacants, augmenter rapidement l’offre de logements sociaux
 
-- Objectif de construction : 120 000 logements
-- Sources de financement : Fonds du logement, budgets spéciaux
-- Mode de gestion : gestion directe par l'État ou sous-traitance à des opérateurs privés
-- Caractéristique : meilleur contrôle de la qualité, possibilité de planifier des équipements communautaires complets
+### Statistiques des résultats d’exécution
 
-**Volet 2 : Gestion locative subventionnée**
+**Indicateurs statistiques politiques**
 
-L'État collabore avec des propriétaires privés pour mettre en relation des locataires vulnérables :
+- Selon les estimations du gouvernement en décembre 2023, d’ici la fin de 2024, la construction directe atteindrait 120 000 unités, les contrats de location publique validés atteindraient 93 980 unités, pour un total de 213 980 unités, avec un taux d’atteinte de 107 %[^1]
+- Le terme « atteinte » fait référence aux indicateurs statistiques politiques. La partie construction directe inclut les projets en cours et les projets adjudiqués en attente de démarrage. Selon les statistiques du ministère de l’Intérieur, à la fin août 2026, parmi les logements construits directement, 47 111 unités sont achevées, 65 202 unités sont en cours de construction, et 15 380 unités sont adjudiquées mais en attente de démarrage[^5]. Les logements achevés font référence aux logements neufs obtenus après obtention du permis d’usage
 
-- Objectif : 80 000 logements
-- Modalités de fonctionnement :
-  - **Location subventionnée** (_bāozū_) : l'État loue des logements privés puis les sous-loue à des personnes vulnérables
-  - **Gestion pour compte de tiers** (_dàiguǎn_) : aide à la mise en location pour les propriétaires, fourniture de services de gestion
-- Avantage : mobilisation des logements vacants, augmentation rapide de l'offre de logements sociaux
+## Principes de conception des logements sociaux
 
-### Statistiques des résultats
+La philosophie de conception des logements sociaux à Taïwan s’appuie sur le principe de « logement mixte », évitant délibérément la concentration des pauvres comme dans les logements publics de Hong Kong ou les logements sociaux aux États-Unis, permettant ainsi à des habitants de milieux divers de coexister.
 
-**Bilan à fin 2024**
+### Principe de logement mixte
 
-- Fin 2024, environ 213 000 logements avaient été réalisés, dépassant l'objectif de 200 000, soit un taux d'accomplissement de 107 %[^1]
+Selon l’article 4 de la loi sur le logement en vigueur, les logements sociaux doivent attribuer au moins 40 % de leurs unités aux classes économiques ou sociales vulnérables, et au moins 20 % aux familles mariées de moins de deux ans ou aux familles avec enfants mineurs[^3]. Les classes vulnérables comprennent un large éventail de groupes : ménages à faible revenu, familles en situation particulière, familles avec deux enfants mineurs ou plus, personnes âgées, victimes de violences familiales, personnes en situation de handicap, Autochtones, victimes de catastrophes, etc.
 
-**Répartition géographique**
+**Étendue des classes vulnérables**
+Selon la définition de la loi sur le logement :
 
-- Les six municipalités spéciales représentent environ 75 %, principalement Taipei, Nouveau Taipei, Taoyuan et Taichung
-- Ville de Nouveau Taipei : 32 000 logements (le plus grand nombre)
-- Ville de Taipei : 28 000 logements
-- Ville de Taoyuan : 21 000 logements
-- Ville de Taichung : 19 000 logements
-
-## Philosophie de conception du logement social
-
-La philosophie de conception du logement social taïwanais part du principe de la « mixité sociale », cherchant délibérément à éviter la concentration de la pauvreté qui caractérise les logements publics de Hong Kong ou des États-Unis, pour permettre à des ménages d'origines diverses de cohabiter.
-
-### Le principe de mixité sociale
-
-Les ménages vulnérables bénéficient d'un taux d'attribution garanti de 30 %, tandis que les ménages généraux (jeunes, jeunes couples, familles avec enfants prioritaires) représentent 70 %, la sélection par tirage au sort régulier assurant l'équité. Les populations vulnérables définies par la Loi sur le logement couvrent un large éventail : ménages à faible revenu, familles en situation particulière, familles élevant trois enfants mineurs ou plus, personnes âgées, victimes de violences domestiques, personnes en situation de handicap, peuples autochtones, sinistrés, etc.
-
-**Périmètre des populations vulnérables**
-
-Selon la définition de la Loi sur le logement, sont incluses :
-
-- Les ménages à faible revenu et à revenu intermédiaire
-- Les familles en situation particulière
-- Les familles élevant trois enfants mineurs ou plus
-- Les personnes sortant d'institutions de placement ou de familles d'accueil et ne pouvant pas regagner leur foyer
-- Les personnes de soixante-cinq ans et plus
-- Les victimes de violences domestiques ou sexuelles et leurs enfants
-- Les personnes en situation de handicap
-- Les personnes infectées par le VIH ou atteintes du sida
-- Les peuples autochtones
-- Les sinistrés
-- Les personnes sans domicile fixe
-- Toute autre personne reconnue par les autorités compétentes
+- Ménages à faible revenu et ménages à revenu moyen inférieur
+- Familles en situation particulière
+- Familles avec deux enfants mineurs ou plus
+- Personnes ayant été placées dans des établissements d’accueil ou des familles d’accueil, sans pouvoir retourner chez elles, âgées de moins de 25 ans
+- Personnes âgées de 65 ans ou plus
+- Victimes de violences familiales ou d’agressions sexuelles et leurs enfants
+- Personnes en situation de handicap
+- Personnes infectées par le VIH ou atteintes du sida
+- Autochtones
+- Victimes de désastres
+- SDF
+- Personnes mineures en difficulté en raison de la grossesse ou de l’accouchement
+- Autres cas approuvés par les autorités compétentes
 
 ### Planification des équipements communautaires
 
-**Équipements indispensables**
+**Équipements essentiels**
 
-- Environnement accessible : rampes d'accès, ascenseurs, conception des logements adaptée
-- Jardins d'enfants : priorité à la création de jardins d'enfants à but non lucratif
-- Structures pour personnes âgées : centres de jour, points de proximité
-- Espaces communautaires : salles de réunion, salles de lecture
-- Équipements commerciaux : supérettes, laveries automatiques et autres services de proximité
+- Environnement accessible : rampes d’accès, ascenseurs, conception adaptée aux personnes à mobilité réduite
+- Crèches : priorité à l’installation de crèches non lucratives
+- Services de soins aux personnes âgées : centres de journée, points de suivi
+- Espaces d’activités communautaires : salles communautaires, salles de lecture
+- Services commerciaux : supermarchés de proximité, services de blanchisserie, etc.
 
 **Conceptions innovantes**
 
-Ces dernières années, les logements sociaux ont intégré des équipements innovants. Des espaces de coworking pour jeunes entrepreneurs favorisent l'innovation, des cuisines partagées encouragent les échanges entre résidents. Des jardins sur les toits allient agriculture urbaine et éducation environnementale, des centres de tri des déchets promeuvent l'économie circulaire, et certains projets récents intègrent des dispositifs IoT pour créer des plateformes de gestion communautaire intelligentes.
+Ces dernières années, les logements sociaux ont continué à expérimenter de nouveaux équipements. Les espaces de création pour les jeunes offrent des ateliers de travail pour les entrepreneurs, les cuisines partagées favorisent les interactions entre résidents. Les serres sur le toit combinent l’agriculture urbaine et l’éducation à l’environnement, les centres de recyclage promeuvent l’économie circulaire, et certains nouveaux projets intègrent des équipements IoT pour créer des plateformes de gestion communautaire intelligentes.
 
-### Principes de fixation des loyers
+### Principe de charge locative abordable
 
-**Le principe du rabais de 15 % par rapport au marché**
+Les loyers des logements sociaux ne doivent pas dépasser les prix du marché, et doivent être fixés selon le revenu et le statut du locataire. Le principe de tarification du ministère de l’Intérieur est que le loyer de base est compris entre 30 % et 80 % du loyer de marché, avec une réduction supplémentaire dans certaines zones de la région métropolitaine de Taipei en raison de la concurrence élevée. Les collectivités locales peuvent appliquer des tarifs différenciés selon le revenu ou le statut, mais ne doivent pas dépasser les normes fixées par l’État central[^6].
 
-- Les loyers sont fixés à 85 % du prix du marché environnant
-- Éviter que des subventions excessives ne distordent le marché
-- Assurer l'accessibilité financière pour les ménages ordinaires
+## Études de cas des logements sociaux importants
 
-**Le système de subvention progressive**
+Les projets de logements sociaux à Taïwan illustrent diverses expérimentations, allant de la conception philosophique à la création de l’environnement communautaire. Plusieurs projets récents intègrent des crèches, des services de soins aux personnes âgées, des espaces d’innovation pour les jeunes et autres équipements publics, formant des pôles de vie communautaires complexes. Cette approche de « logement social = quartier » influence progressivement la direction de conception des projets futurs.
 
-- Niveau 1 (revenu très faible) : loyer à 30 % du marché
-- Niveau 2 (ménage à faible revenu) : loyer à 50 % du marché
-- Niveau 3 (ménage à revenu intermédiaire) : loyer à 70 % du marché
-- Niveau 4 (ménage ordinaire) : 85 % du marché
+### Logements sociaux de la santé à Taipei
 
-## Cas emblématiques de logements sociaux
+Les logements sociaux de la santé à Taipei sont situés sur la rue Jiankang, dans le district de Songshan, avec un total de 507 unités. Les étages inférieurs abritent un centre de services aux personnes âgées, un centre de soins de journée pour personnes âgées et une crèche[^7].
 
-Plusieurs projets de logements sociaux à Taïwan illustrent différentes approches, de la conception architecturale à la vie communautaire. Trois projets représentatifs sont devenus des références pour la politique nationale : le logement social de Jiankang à Taipei (livré en 2017), le logement social pour jeunes de Zhonghe à Nouveau Taipei (2019) et le logement social de Bade à Taoyuan (2020).
+## Politique de location publique
 
-Le point commun de ces trois projets réside dans le dépassement de la seule fonction résidentielle : jardins d'enfants, structures pour personnes âgées, espaces d'entrepreneuriat pour jeunes et autres équipements publics sont intégrés au sein des logements sociaux, formant des quartiers de vie polyvalents. Cette approche de planification, où « le logement social est un quartier », influence progressivement la conception des projets ultérieurs.
+La location publique est la seconde voie de la politique de logement social à Taïwan. En intervenant dans le marché privé de la location, le gouvernement peut rapidement augmenter l’offre de logements sociaux et réactiver les logements vacants. En août 2023, le Conseil des ministres estimait que le nombre de contrats de location publique validés à la fin d’année atteindrait environ 68 000 unités[^8].
 
-### Le logement social de Jiankang à Taipei
+### Modes de fonctionnement
 
-Situé dans l'arrondissement de Zhongshan, le logement social de Jiankang a été livré en 2017 et compte 1 400 logements. C'est le premier grand ensemble de logements sociaux de la ville de Taipei. Sa façade intègre un mur végétal pour atténuer l'effet d'îlot de chaleur urbain. Il comprend un jardin d'enfants à but non lucratif, un centre de jour pour personnes âgées et un espace d'entrepreneuriat pour jeunes, la « Base créative Jiankang pour une vie active ». Un système de stationnement intelligent et une application communautaire ont également été déployés.
+**Mode de location publique**
+Le gouvernement loue des logements privés via des entreprises professionnelles, puis les sous-loue aux familles vulnérables :
 
-L'importance sociale majeure de ce projet réside dans le changement du stéréotype selon lequel le logement social équivaut à un « ghetto ». Il a également dynamisé le quartier commercial environnant et est devenu une référence pour la planification des logements sociaux dans d'autres municipalités.
+- Durée du bail : les entreprises signent un bail de trois ans avec les propriétaires, puis agissent en tant que sous-locationnaires pour signer un bail d’au moins un an avec les locataires
+- Prix du bail : le prix du bail signé ne doit pas dépasser 80 % du prix de marché, et le loyer facturé aux locataires ne doit pas dépasser le prix du bail, les locataires pouvant demander une subvention de loyer selon leur statut[^9]
 
-### Le logement social pour jeunes de Zhonghe à Nouveau Taipei
+**Mode de gestion déléguée**
+Le gouvernement met en relation les propriétaires et les locataires, les entreprises professionnelles gèrent la sélection des locataires, la perception des loyers et les réparations, le prix du bail signé par les propriétaires et les locataires ne doit pas dépasser 90 % du prix de marché[^9]。 Le gouvernement fournit des subventions pour les réparations (jusqu’à 10 000 NT$ par unité par an, pendant au plus long 3 ans), des réductions d’impôt foncière et de taxe foncière, une assurance de sécurité à domicile, ainsi que des services de médiation des conflits et de consultation juridique, afin de réduire les risques pour les propriétaires locataires.
 
-Livré en 2019, le logement social pour jeunes de Zhonghe compte 522 logements. Sa caractéristique principale est la combinaison de rénovation urbaine et de logement social. Le même bâtiment intègre des logements sociaux, des commerces et des espaces de bureaux. Il comprend une structure de soins de proximité, un jardin sur le toit et un système de récupération des eaux de pluie, et a obtenu la certification de construction écologique de niveau diamant. Sur le plan de la gouvernance communautaire, les résidents ont formé un « groupe de participation des jeunes » qui organise régulièrement des événements festifs. Les enquêtes de satisfaction des résidents atteignent plus de 85 %, faisant de ce projet l'une des réussites de la vie communautaire dans le logement social taïwanais.
+### Mécanismes d’exécution et résultats
 
-### Le logement social de Bade à Taoyuan
+Les principaux défis comprennent : certains propriétaires hésitent à participer en raison de préoccupations sur la qualité des locataires, les sources de logements sont concentrées dans les zones urbaines, les familles extrêmement vulnérables trouvent encore le loyer actuel trop élevé, et la qualité des services varie considérablement entre les entreprises.
 
-Livré en 2020, le logement social de Bade compte 1 003 logements. C'est le plus grand projet de logement social en un seul site de tout Taïwan. Le terrain est adjacent à une ligne de train léger et dispose de 300 places de stationnement pour motos et de 50 places pour voitures. Les équipements commerciaux accueillent des enseignes reconnues comme PX Mart et Starbucks. Les équipements communautaires comprennent un jardin d'enfants, un centre de soins pour personnes âgées et un centre d'activités. Sur le plan de la gestion, le projet utilise un système de contrôle d'accès par reconnaissance faciale et une application communautaire intégrant divers services. Un système de bénévolat communautaire a également été mis en place. C'est l'un des projets de logement social les plus avancés en matière d'intelligence numérique à Taïwan.
+## Effets politiques et impacts sociaux
 
-## La politique de gestion locative subventionnée
+### Analyse quantitative des effets
 
-La gestion locative subventionnée constitue le second volet de la politique de logement social taïwanaise. Par l'intervention de l'État sur le marché locatif privé, elle permet d'augmenter rapidement l'offre de logements sociaux tout en mobilisant les logements vacants. Fin 2024, environ 68 000 logements avaient été mis en relation, bénéficiant à environ 27 000 ménages vulnérables.
+Les effets quantitatifs de la politique de logement social manquent actuellement d’évaluations officielles globales vérifiables. Ce qui est certain, c’est que la construction directe et la location publique ont augmenté l’offre de logements abordables, et ont également amené plus de logements privés dans le circuit des contrats officiels.
 
-### Modalités de fonctionnement
+### Évaluation des impacts sociaux
 
-**Le modèle de location subventionnée**
+**Réalisation de la justice habitationnelle**
+La qualité spatiale des logements sociaux récemment construits est généralement supérieure à celle des locations ordinaires, les équipements communautaires sont bien planifiés, et les loyers sont plus abordables par rapport au marché, offrant également une sécurité de séjour plus longue. Pour les groupes socialement vulnérables qui ont longtemps été marginalisés sur le marché de la location, cela représente une amélioration concrète.
 
-L'État loue des logements privés par l'intermédiaire d'opérateurs professionnels, puis les sous-loue à des ménages vulnérables :
+**Intégration sociale et développement urbain**
+La conception de logement mixte permet aux classes vulnérables et aux familles ordinaires de coexister, évitant la concentration de pauvreté. Certains projets de logements sociaux ont également stimulé le développement commercial environnant, devenant des catalyseurs de régénération urbaine dans les quartiers anciens, améliorant ainsi la qualité globale de l’environnement communautaire.
 
-- Durée du bail : 3 ans, prolongeable jusqu'à 6 ans
-- Prix de location par l'État : 80 à 90 % du prix du marché
-- Prix de sous-location : 60 à 70 % du prix du marché
-- L'État assume le risque de vacance locative
+## Comparaison internationale des expériences
 
-**Le modèle de gestion pour compte de tiers**
+### Système des logements HDB à Singapour
 
-L'État met en relation propriétaires et locataires, les opérateurs professionnels assurant la sélection des locataires, la perception des loyers et la coordination des réparations. L'État accorde des subventions à la rénovation (jusqu'à 10 000 à 30 000 dollars taïwanais par logement), des réductions d'impôts fonciers, la souscription d'assurances habitation pour le compte des propriétaires, ainsi que des services de médiation en cas de litige et de consultation juridique, afin de réduire les risques pour les propriétaires.
+Singapour est connue pour son modèle de logements publics construits à grande échelle sous la direction de l’État. Environ 76 % des résidents de Singapour (citoyens et résidents permanents) vivent dans des logements HDB[^10]. Le système de quota ethnique favorise l’intégration des groupes ethniques, et sa combinaison avec le système de retraite encourage l’achat et la possession de logements. Taïwan peut s’inspirer de la stabilité politique à long terme et de la planification complète des espaces communautaires de Singapour, bien que Taïwan insiste davantage sur la location plutôt que sur l’achat, avec une orientation globale différente.
 
-### Mécanismes de mise en œuvre et résultats
+### Logements sociaux aux Pays-Bas
 
-Environ 200 entreprises participent au dispositif, couvrant les services résidentiels, l'agence immobilière et la gestion de copropriétés. Fin 2024, la gestion locative subventionnée avait permis de mettre en relation environ 68 000 logements, avec la participation d'environ 55 000 propriétaires, bénéficiant à environ 27 000 ménages vulnérables, et mobilisant environ 120 milliards de dollars taïwanais d'investissements immobiliers privés.
+Les coopératives immobilières aux Pays-Bas possèdent environ 2,3 millions de logements, soit environ 28 % du total national (début 2024, selon l’Office national de la statistique des Pays-Bas)[^11], construits et gérés par des coopératives à but non lucratif, avec un système de tarification basé sur le revenu pour garantir une répartition équitable. L’attention des Pays-Bas à la qualité du design architectural et à l’environnement durable offre une référence précieuse pour Taïwan en termes de qualité.
 
-Les principaux défis incluent : la réticence de certains propriétaires craignant un profil de locataires peu fiable, la concentration des offres en zone urbaine, le poids encore trop lourd des loyers pour les ménages les plus vulnérables, ainsi que des écarts de qualité de service entre les différents opérateurs.
+### Logements publics à Hong Kong
 
-## Effets de la politique et impact social
+Environ 45 % de la population de Hong Kong vit dans des logements publics, divisés en deux catégories : logements à loyer modique et logements à acheter. Taïwan a délibérément fait le choix de s’éloigner du modèle de Hong Kong : insister davantage sur le logement mixte, éviter le développement à grande échelle et concentrée, et veiller à une planification complète des équipements communautaires, afin d’éviter la « concentration de pauvreté ».
 
-### Analyse des effets quantitatifs
-
-Du côté de l'offre, la politique de logement social a augmenté l'offre sur le marché locatif d'environ 200 000 logements, le rythme de hausse des loyers s'est ralenti, et la transparence du marché locatif s'est améliorée grâce au dispositif de gestion locative subventionnée. Du côté de la demande, la politique a permis de résoudre les problèmes de logement d'environ 400 000 à 500 000 personnes, la stabilité résidentielle des populations vulnérables s'est accrue, et la proportion de jeunes parvenant à se stabiliser a également progressé. Les retombées sur le plan sectoriel sont également significatives : émergence d'une industrie des services résidentiels, dynamisation des secteurs de la construction et de la rénovation, création d'environ 30 000 à 40 000 emplois.
-
-### Évaluation de l'impact social
-
-**Réalisation de la justice résidentielle**
-
-La qualité spatiale des nouveaux logements sociaux est généralement supérieure à celle du parc locatif ordinaire, les équipements communautaires sont bien planifiés, les niveaux de loyer sont plus abordables par rapport au marché, et une garantie résidentielle de plus longue durée est offerte. Pour les populations longtemps en position de faiblesse sur le marché locatif, il s'agit d'une amélioration concrète et tangible.
-
-**Mixité sociale et développement urbain**
-
-La conception en mixité permet aux ménages vulnérables et aux ménages ordinaires de cohabiter, évitant la concentration spatiale de la pauvreté. Certains projets de logements sociaux ont également dynamisé le développement commercial environnant, servant de catalyseurs de régénération urbaine pour les quartiers anciens et améliorant la qualité globale de l'environnement communautaire.
-
-## Comparaison avec l'expérience internationale
-
-### Le système des _HDB_ de Singapour
-
-Singapour est connue pour ses logements sociaux (_HDB_) construits à grande échelle sous la direction de l'État, où environ 85 % de la population réside. Un système de quotas ethniques favorise l'intégration des communautés, et l'articulation avec le système d'épargne retraite encourage l'accession à la propriété. Taïwan peut s'inspirer de la stabilité à long terme de sa mise en œuvre et de la qualité de sa planification communautaire, mais Taïwan met davantage l'accent sur la location plutôt que sur l'achat, ce qui distingue les deux approches.
-
-### Le logement social aux Pays-Bas
-
-Le logement social aux Pays-Bas représente environ 34 % du parc national (statistiques 2023). Il est construit et géré par des associations de logement à but non lucratif, et un système de classification par revenu assure une répartition équitable. L'importance accordée par les Pays-Bas à la qualité architecturale et à l'environnement durable offre à Taïwan une référence en matière d'exigence de qualité.
-
-### Les logements publics à Hong Kong
-
-Environ 45 % de la population de Hong Kong vit dans des logements publics, répartis entre logements sociaux en location et logements abordables en accession. Taïwan a délibérément pris ses distances avec le modèle hongkongais : accent mis sur la mixité sociale, évitement des grands ensembles concentrés, importance accordée aux équipements communautaires complets, afin de prévenir la « concentration de la pauvreté ».
-
-## Défis et perspectives d'avenir
+## Défis futurs et perspectives de développement
 
 ### Principaux défis
 
-La politique de logement social fait face à quatre défis structurels majeurs. L'acquisition du foncier constitue le premier obstacle : rareté et cherté des terrains urbains, faible volonté de coopération des propriétaires fonciers, complexité des procédures de modification des plans d'urbanisme, et résistance des riverains face à la construction de logements sociaux à proximité (syndrome NIMBY) rendent le choix des sites particulièrement difficile. Sur le plan financier, la hausse des coûts de construction, les charges d'exploitation à long terme et la pression sur le Fonds du logement exercent un effet d'éviction sur le budget de l'État.
+Les politiques de logement social font face à quatre défis structurels majeurs. L’accès aux terrains est le premier obstacle : les terrains urbains sont rares et coûteux, les propriétaires de terrains sont peu enclins à coopérer, les procédures de modification de l’urbanisme sont complexes, et l’opposition locale envers le « logement social construit à côté » complique encore le choix des sites. Sur le plan financier, la hausse des coûts de construction, les dépenses de fonctionnement à long terme et la pression sur le fonds logement constituent également un défi pour le budget de l’État.
 
-Certains citoyens conservent le stéréotype du logement social comme « ghetto », craignant une incidence sur la valeur immobilière du voisinage ; l'intégration communautaire nécessite du temps et un dialogue continu. Sur le plan de la gestion, la cohabitation de résidents aux besoins variés, le coût d'entretien des équipements communautaires et un taux de rotation élevé des résidents exigent des compétences professionnelles de haut niveau de la part des équipes de gestion.
+Certaines populations persistent à voir les logements sociaux comme des « bidonvilles », craignant un impact sur les prix des logements environnants, et la cohésion communautaire nécessite du temps et une communication continue. Sur le plan de la gestion, la coexistence de résidents aux besoins variés, les coûts de maintenance des équipements communautaires et le taux de rotation des résidents élevé imposent des exigences élevées en termes de compétences professionnelles des gestionnaires.
 
-### Perspectives d'évolution
+### Perspectives de développement futures
 
-Les recommandations formulées par les professionnels du secteur couvrent plusieurs axes : la révision de la Loi sur le logement et le renforcement de la base juridique constituent une priorité institutionnelle, de même que l'adoption d'une loi spécifique au logement social. En matière d'innovation financière, l'introduction de capitaux privés, le développement de fonds immobiliers (REITs) dédiés au logement social et la mise en place de dispositifs de fiducie foncière permettraient d'élargir les sources de financement. La gestion intelligente (systèmes IoT, intégration via applications communautaires) et la promotion des certifications de construction écologique constituent des leviers d'amélioration de la qualité. L'équilibre régional mérite également attention : les logements sociaux sont aujourd'hui fortement concentrés dans les six municipalités spéciales, tandis que les besoins résidentiels des zones non urbaines appellent une attention politique accrue.
+Les suggestions politiques proposées par le secteur concernent plusieurs domaines : réviser la loi sur le logement, renforcer la base juridique, promouvoir une loi spéciale sur les logements sociaux, qui constituent les priorités du renforcement institutionnel. En matière de financement innovant, l’introduction de capitaux privés, le développement de REITs pour les logements sociaux et la création d’un système de fiducie foncière peuvent aider à élargir les sources de financement. La gestion intelligente (systèmes IoT, intégration d’applications communautaires) et la promotion de la certification environnementale verte sont des pistes pour améliorer la qualité. Le développement équilibré entre les régions mérite également toute l’attention : actuellement, les logements sociaux sont fortement concentrés dans les six grandes villes, et les besoins en matière de logement dans les zones non urbaines restent insuffisamment couverts par les politiques.
 
-## Conclusion : vers la justice résidentielle
+## Conclusion : Vers la justice habitationnelle
 
-Le logement social incarne la mise en œuvre de valeurs sociales, et non une simple politique immobilière. Depuis le lancement du plan de 200 000 logements en 8 ans en 2016, Taïwan a non seulement atteint ses objectifs en termes de quantité, mais a aussi établi, sur le plan qualitatif, un « modèle taïwanais » :
+Les logements sociaux incarnent la mise en pratique des valeurs sociales, et ne se limitent pas à une simple politique du logement. Depuis 2016, Taïwan a lancé le plan de 200 000 unités sur 8 ans, non seulement en termes de quantité, mais aussi en qualité, en établissant un « modèle taïwanais » :
 
-Les caractéristiques du logement social taïwanais reposent sur plusieurs choix fondamentaux : la conception en mixité pour éviter la concentration de la pauvreté, la complémentarité des deux volets de construction directe et de gestion locative subventionnée, l'importance accordée à l'esthétique architecturale et aux fonctionnalités communautaires, et l'adaptation aux conditions climatiques et culturelles de Taïwan. Ce « modèle taïwanais », encore en cours d'ajustement, a déjà tracé une trajectoire politique identifiable.
+Les caractéristiques des logements sociaux taïwanais reposent sur plusieurs choix fondamentaux : adopter un design de logement mixte pour éviter la concentration de pauvreté, compléter la construction directe et la location publique, accorder une attention particulière à l’esthétique du design et aux fonctions communautaires, et intégrer les spécificités climatiques et culturelles de Taïwan. Bien que ce « modèle taïwanais » soit encore en cours d’ajustement, il a déjà formé une trajectoire politique identifiable.
 
-**La vision pour l'avenir**
+**Vision d’avenir**
+Permettre à chacun qui vit à Taïwan, quel que soit son niveau économique, de bénéficier d’un environnement de vie convenable, stable et digne. Atteindre cet objectif permettra à Taïwan de construire une société plus juste et plus inclusive.
 
-Permettre à chaque personne vivant à Taïwan, quelle que soit sa situation économique, de bénéficier d'un logement décent, stable et digne. Ce n'est qu'à cette condition que Taïwan pourra construire une société plus juste et plus inclusive.
+La réalisation de la justice habitationnelle exige les efforts de toute la société. L’État fournit le cadre politique et les ressources, les professionnels apportent leur expertise et leur créativité, et les citoyens offrent leur compréhension et leur soutien, afin que les logements sociaux puissent réellement jouer leur rôle et faire progresser la société taïwanaise.
 
-La réalisation de la justice résidentielle requiert les efforts conjugués de l'ensemble de la société. L'État fournit le cadre politique et les ressources, les professionnels apportent leur expertise technique et leur créativité, et les citoyens offrent leur compréhension et leur soutien, pour que le logement social puisse véritablement remplir son rôle et faire progresser la société taïwanaise.
+**Lecture complémentaire** :
 
-**Pour aller plus loin** :
+- [Logements publics et justice habitationnelle](/fr/society/public-housing-justice) — La voie abandonnée avant 2016 de « construire et vendre » : des dispositions législatives sur les logements publics de 1975 à leur abrogation en 2015, comment les logements publics sont devenus un escalier pour l’escalade immobilière, et le débat contemporain sur la reprise de la vente dans les logements abordables de Taoyuan 2026 (pièce jumelle de cet article)
+- [Toits en tôle](/fr/society/taiwan-tin-shed-houses) — Le dilemme de la gestion des 716 000 constructions illégales, les toits en tôle et les problèmes de construction illégale sont l’un des fondements structurels des enjeux de justice habitationnelle
+- [Justice environnementale et conflits de siting à Taïwan](/fr/society/taiwan-environmental-justice-nimby-conflicts) — L’extension des questions d’utilisation des terres dans le contexte du logement : répartition inégale des risques environnementaux et conflits communautaires autour des installations de siting
 
-- [Logements nationaux et justice résidentielle](/fr/society/public-housing-justice) — La voie « construire pour vendre » abandonnée avant le plan de 2016 : de la loi de 1975 sur les logements nationaux à son abrogation en 2015, comment les logements nationaux sont devenus un tremplin patrimonial, et le débat contemporain autour du logement abordable à Taoyuan en 2026 qui réintroduit la dimension de la vente (article complémentaire à celui-ci)
-- [Constructions en tôle ondulée](/fr/society/taiwan-tin-shed-houses) — Le défi de la gouvernance de 716 000 constructions illégales à travers Taïwan : les surélévations de toits en tôle et les constructions non autorisées constituent l'une des structures profondes de la question de la justice résidentielle
-- [Justice environnementale et conflits de type NIMBY à Taïwan](/fr/society/taiwan-environmental-justice-nimby-conflicts) — Le prolongement foncier des questions de logement : la répartition inégale des risques environnementaux et les conflits communautaires liés aux installations de type NIMBY
+[^1]: [Tous les projets de rénovation urbaine passent (2023-12-21) : les volumes de construction directe et de location publique atteignent un nouveau record](https://urbanrenewal.wealth.com.tw/news-detail/1102) — « D’ici la fin de 2024, non seulement nous atteindrons l’objectif, mais la construction directe des logements sociaux atteindra 120 000 unités, les contrats de location publique validés atteindront 93 980 unités, pour un total de 213 980 unités, avec un taux d’atteinte de 107 % »
 
-[^1]: Administration de l'aménagement territorial du ministère de l'Intérieur, « Rapport sur les résultats de la promotion du logement social », décembre 2024, https://pip.moi.gov.tw/v3/b/SCRB0501.aspx?mode=7
+[^2]: [Conseil des ministres, « Plan d’organisation des logements sociaux », version approuvée en mars 2017](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/7345b2c6-1314-4fda-8e21-18b012466827) — Document officiel approuvant la politique de 200 000 unités sur 8 ans
 
-[^2]: Yuan exécutif, « Plan de développement du logement social », version approuvée de mars 2017, https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/7345b2c6-1314-4fda-8e21-18b012466827
+[^3]: [Base de données juridique nationale : article 4 de la loi sur le logement](https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070195&flno=4) — Texte en vigueur : au moins 40 % loué aux classes économiques ou sociales vulnérables, au moins 20 % loué aux familles, ainsi que treize catégories de personnes vulnérables
 
-[^3]: Base de données des réglementations nationales, « Loi sur le logement (version révisée de 2017) », https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070195
+[^4]: [Plateforme d’information immobilière du ministère de l’Intérieur : contenu de publication sur la capacité d’emprunt au 4e trimestre 2024](<https://pip.moi.gov.tw/Upload/CustomFile/Doc/113%E5%B9%B4%E6%88%BF%E5%83%B9%E8%B2%A0%E6%93%94%E8%83%BD%E5%8A%9B%E7%AC%AC4%E5%AD%A3%E7%99%BC%E5%B8%83%E5%85%A7%E5%AE%B9(%E5%B9%B3%E5%8F%B0).pdf>) — Ratio prix/logement national : 10,76, Taipei : 16,43, Nouvelle-Ville : 14,08, Taoyuan : 9,22
 
-[^4]: Fondation Tsai Ma Ma, « Rapport d'enquête sur l'état actuel du marché locatif », 2024, https://www.tmm.org.tw/
+[^5]: [Plateforme d’information immobilière du ministère de l’Intérieur : résultats de la promotion des logements sociaux](https://pip.moi.gov.tw/v3/b/SCRB0501.aspx?mode=7) — Tableau statistique en temps réel, catégorisant la construction directe en trois colonnes : achevée, en cours, adjudiquée mais en attente de démarrage, les chiffres étant ceux atteints à la fin août 2026
 
-[^5]: Centre national du logement et de la rénovation urbaine, « Résultats de la mise en œuvre du plan de développement du logement social », 2024, https://www.hurc.org.tw/
+[^6]: [Journal du commerce (2024-03-26) : tarification des logements sociaux par le ministère de l’Intérieur](https://www.ctee.com.tw/news/20240326701660-430104) — « La structure de base du loyer des logements sociaux est comprise entre 30 % et 80 % du loyer de marché », les collectivités locales peuvent appliquer des tarifs différenciés selon le revenu ou le statut
 
-## Références
+[^7]: [Site de location des logements sociaux de Taipei : logements sociaux de la santé](https://rent.thurc.org.taipei/Rental/Site/jiankang) — Adresse : 285 à 323, rue Jiankang, district de Songshan, Taipei, total 507 unités
 
-1. [Administration de l'aménagement territorial du ministère de l'Intérieur](https://pip.moi.gov.tw/v3/b/SCRB0501.aspx?mode=7), « Rapport sur les résultats de la promotion du logement social », décembre 2024
-2. [Centre national du logement et de la rénovation urbaine](https://www.hurc.org.tw/), « Résultats de la mise en œuvre du plan de développement du logement social », 2024
-3. [Yuan exécutif, « Plan de développement du logement social », version approuvée de mars 2017](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/7345b2c6-1314-4fda-8e21-18b012466827)
-4. [Loi sur le logement (version révisée de 2017), Base de données des réglementations nationales](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070195)
-5. [Fondation pour la recherche et le développement de la rénovation urbaine](https://www.ur.org.tw/), « Statistiques des résultats de la promotion de la rénovation urbaine », 2024
-6. [Wikipédia, article « Logement social à Taïwan »](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E7%A4%BE%E6%9C%83%E4%BD%8F%E5%AE%85), version de mars 2024
-7. [Urban Renewal Info, reportage « La construction directe et la gestion locative subventionnée atteignent de nouveaux records »](https://urbanrenewal.wealth.com.tw/news-detail/1102), 2024
-8. [Bureau du développement urbain de Taipei](https://udd.gov.taipei/), « Livre blanc sur la politique de logement social », 2023
-9. [Bureau du développement urbain et rural de Nouveau Taipei](https://www.planning.ntpc.gov.tw/home.jsp?id=68301de1098d53bb), « Plan de développement du logement social de Nouveau Taipei », 2024
-10. [Département du développement du logement de Taoyuan](https://ohd.tycg.gov.tw/), « Résultats de la promotion du logement social à Taoyuan », 2024
-11. [Fondation Tsai Ma Ma](https://www.tmm.org.tw/), « Rapport d'enquête sur l'état actuel du marché locatif », 2024
-12. [Alliance pour la promotion du logement social](https://socialhousingtw.blogspot.com/), « Recommandations pour la politique de logement social », 2023
+[^8]: [Conseil des ministres (2023-08-02) : résultats de la politique de logement social](https://www.ey.gov.tw/Page/9277F759E41CCD91/621fac0b-df30-450f-b60c-c4bd52c8b038) — « Les contrats de location publique validés à la fin de l’année atteindront environ 68 000 unités »
+
+[^9]: [Bureau de gestion foncière du ministère de l’Intérieur : 4e plan de location publique des logements sociaux](https://www.nlma.gov.tw/uploads/files/d275a081739171fa541ae4cba76f0e11.pdf) — Le loyer signé de location publique ne doit pas dépasser 80 % du loyer de marché, la gestion déléguée ne doit pas dépasser 90 % ; bail de 3 ans, bail de sous-location d’au moins 1 an ; subvention de réparation maximale de 10 000 NT$ par unité par an, pendant au plus long 3 ans
+
+[^10]: [Autorité de construction et de développement de Singapour : Statistiques clés HDB 2024/2025](https://www.hdb.gov.sg/-/media/hdb-pulse/reports/annual-reports-and-financial-statements/HDB_Key-Statistics-2025.pdf) — Pourcentage de la population résidente vivant dans des logements HDB : 76,0 %
+
+[^11]: [Office national de la statistique des Pays-Bas CBS (2024-12)](https://www.cbs.nl/nl-nl/nieuws/2024/49/in-2023-meer-wisseling-van-huur-naar-koopwoningen) — « Les coopératives immobilières possèdent 2,3 millions de logements (28 %) », au 1er janvier 2024
+
+## Sources
+
+1. [Bureau de gestion foncière du ministère de l’Intérieur](https://pip.moi.gov.tw/v3/b/SCRB0501.aspx?mode=7)，《Rapport sur les résultats de la promotion des logements sociaux》，décembre 2024
+2. [Centre national du logement et de la rénovation urbaine](https://www.hurc.org.tw/)，《Résultats d’exécution du plan d’organisation des logements sociaux》，2024
+3. [Conseil des ministres, « Plan d’organisation des logements sociaux », version approuvée en mars 2017](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/7345b2c6-1314-4fda-8e21-18b012466827)
+4. [Loi sur le logement (version révisée en 2017)，Base de données juridique nationale](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070195)
+5. [Fondation de recherche et de développement de la rénovation urbaine](https://www.ur.org.tw/)，《Statistiques sur les résultats de la rénovation urbaine》，2024
+6. [Wikipédia, article « Logements sociaux à Taïwan »](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E7%A4%BE%E6%9C%83%E4%BD%8F%E5%AE%85)，version de mars 2024
+7. [Tous les projets de rénovation urbaine passent，article « Les volumes de construction directe et de location publique atteignent un nouveau record »](https://urbanrenewal.wealth.com.tw/news-detail/1102)，2024
+8. [Bureau du développement urbain de Taipei](https://udd.gov.taipei/)，《Livre blanc sur la politique de logement social》，2023
+9. [Bureau du développement rural et urbain de Nouvelle-Ville](https://www.planning.ntpc.gov.tw/home.jsp?id=68301de1098d53bb)，《Plan de développement des logements sociaux de Nouvelle-Ville》，2024
+10. [Bureau du développement du logement de Taoyuan](https://ohd.tycg.gov.tw/)，《Résultats de la promotion des logements sociaux de Taoyuan》，2024
+11. [Fondation Cui Mama](https://www.tmm.org.tw/)，《Enquête sur la situation du marché de la location》，2024
+12. [Coalition pour la promotion des logements sociaux](https://socialhousingtw.blogspot.com/)，《Propositions politiques sur les logements sociaux》，2023
