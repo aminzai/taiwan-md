@@ -1,13 +1,13 @@
 ---
-title: 'Sozialer Wohnungsbau und Wohngerechtigkeit'
-description: 'Wie Taiwan durch Sozialwohnungspolitik Wohngerechtigkeit verwirklicht und jedem Menschen einen sicheren Wohnsitz ermöglicht'
+title: 'Sozialer Wohnbau und Wohnrechtsgerechtigkeit'
+description: 'Wie Taiwan durch soziale Wohnbaupolitik Wohnrechtsgerechtigkeit verwirklicht, damit jeder einen Ort zum Leben hat'
 date: 2026-03-18
 category: 'Society'
 tags:
   [
-    'Sozialer Wohnungsbau',
-    'Wohngerechtigkeit',
-    'Wohnungspolitik',
+    'Sozialer Wohnbau',
+    'Wohnrechtsgerechtigkeit',
+    'Wohnbaupolitik',
     'Mietverwaltung',
     'Stadterneuerung',
   ]
@@ -18,298 +18,276 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Society/社會住宅與居住正義.md'
-sourceCommitSha: 'b19194bea'
-sourceContentHash: 'sha256:21ee8c77270d6c3e'
-sourceBodyHash: 'sha256:bafb3fe2db142763'
-translatedAt: '2026-09-17T06:43:49+08:00'
+sourceCommitSha: '5efc41d39'
+sourceContentHash: 'sha256:0989f07af63c2d2b'
+sourceBodyHash: 'sha256:911bf6acff0d4788'
+translatedAt: '2026-10-02T05:15:38+08:00'
 ---
 
-# Sozialer Wohnungsbau und Wohngerechtigkeit
+# Sozialer Wohnbau und Wohnrechtsgerechtigkeit
 
 ## 30-Sekunden-Überblick
 
-Wohnen ist ein grundlegender Bedarf der Menschen und eine wichtige Verantwortung der Regierung. Taiwan hat seit 2016 die Politik „8 Jahre, 200.000 soziale Wohneinheiten“ verfolgt und setzt auf zwei parallele Strategien – direkte Bauvorhaben und Mietverwaltung – mit dem Ziel, „Wohngerechtigkeit“ zu verwirklichen. Diese Politik versucht, die Essenz des Wohnens neu zu definieren und es von einer reinen Ware zurück zu einem Grundrecht auf Wohnen.
+Wohnen ist ein Grundbedürfnis der Bevölkerung und eine wichtige Verantwortung der Regierung. Seit 2016 verfolgt Taiwan die Politik „8 Jahre, 200.000 Einheiten sozialen Wohnbaus“, die über direkten Neubau und Mietverwaltung auf zwei Schienen vorangetrieben wird, um „Wohnrechtsgerechtigkeit“ zu verwirklichen. Dieser Politikversuch zielt darauf ab, das Wesen des Wohnens neu zu strukturieren, damit es von einer reinen Ware zurück zu einer Garantie des Wohnrechts wird.
 
-Ende 2024 wurden etwa 213.000 Wohneinheiten realisiert, was das Ziel von 200.000 sogar übertroffen hat. Dennoch blieben die hohen Mietpreise und die Wohnungsnot ungelöst, und die Rolle des sozialen Wohnungsbaus sowie seine Grenzen bleiben ein zentrales Thema der politischen Debatten in Taiwan.
+Die Regierung schätzte Ende 2023, dass bis Ende 2024 120.000 Einheiten direkt gebaut sowie rund 94.000 gültige Verträge in der Mietverwaltung vorliegen würden, insgesamt also etwa 214.000 Einheiten bei einer Zielerreichungsquote von 107 %. Doch die hohen Immobilienpreise und die Mietnot haben sich dadurch nicht aufgelöst; die Rolle und die Grenzen des sozialen Wohnbaus bleiben ein Kernthema der taiwanischen Politikdebatte.
 
-Schlüsselwörter: Sozialer Wohnungsbau, Wohngerechtigkeit, Mietverwaltung, Wohnungsgesetz, Jugendwohnen, soziale Wohnsituation
+Schlüsselwörter: Sozialer Wohnbau, Wohnrechtsgerechtigkeit, Mietverwaltung, Wohnbaugesetz, Jugendwohnförderung, Wohnen benachteiligter Gruppen
 
-## Warum das wichtig ist
+## Warum es wichtig ist
 
-Wohnen ist die Grundlage für Menschen, um sich ein Zuhause zu schaffen, eine Familie zu gründen und ihre Träume zu verfolgen. Wenn das Verhältnis von Mietpreis zu Einkommen bei 15–20 liegt, geraten viele junge Menschen in eine „Kann-sich-nicht-leisten-und-kann-nicht-mieten“-Falle, und sozialer Wohnungsbau wird zu einem wichtigen Instrument der Regierung, um Wohngerechtigkeit zu fördern.
+Wohnen ist die Grundlage, damit Menschen sich niederlassen, Familien gründen und Träume verfolgen können. Wenn das Preis-Einkommens-Verhältnis in Taipeh 16-fach übersteigt, geraten viele junge Menschen in die Zwickmühle „kaufen unmöglich, mieten unzureichend“ – der soziale Wohnbau wird zum zentralen politischen Instrument der Regierung, um auf die Wohnrechtsgerechtigkeit zu antworten.
 
-Die Bedeutung sozialer Wohnungspolitik geht weit über das bloße Bauen hinaus. Sie steht für eine Wahl: Menschen mit geringem Einkommen sollen ebenfalls Zugang zu geeigneten Wohnbedingungen haben, junge Menschen eine Stelle zum Wohnen erhalten und durch Stadterneuerung ehemals veraltete Stadtviertel verbessert werden.
+Die Bedeutung der sozialen Wohnbaupolitik geht über das bloße Bauen von Häusern hinaus. Sie verkörpert eine Entscheidung: Auch wirtschaftlich Benachteiligten angemessene Wohnqualität zu ermöglichen, jungen Menschen eine Chance auf sicheres Wohnen zu geben, ohne sie mit schweren Hypotheken zu belasten, und durch Stadterneuerung die Verbesserung alter Stadtviertel anzustoßen.
 
-Vom internationalen Vergleich lässt sich ableiten, dass Taiwans Anteil an sozialen Wohnungen immer noch relativ gering ist. Doch die rasche Expansion seit 2016 hat dieses Themenfeld von der Peripherie in den Mittelpunkt der Politik gerückt.
+Im internationalen Vergleich ist der Anteil des sozialen Wohnbaus in Taiwan nach wie vor gering, doch die rasche Expansion seit 2016 hat dieses Thema vom Rand in die politische Mitte gerückt.
 
-- **Soziale Gerechtigkeit**: Menschen mit geringem Einkommen erhalten Zugang zu geeigneten Wohnbedingungen
-- **Generationengerechtigkeit**: Junge Menschen erhalten eine Stelle zum Wohnen, ohne sich mit schweren Krediten zu verschulden
-- **Städtische Entwicklung**: Förderung der Stadterneuerung und Verbesserung veralteter Stadtviertel
-- **Sozialer Frieden**: Verringert soziale Spannungen, die durch Wohnungsprobleme entstehen
+- **Soziale Gerechtigkeit**: Wirtschaftlich Benachteiligten angemessene Wohnqualität ermöglichen
+- **Generationengerechtigkeit**: Jungen Menschen eine Chance auf sicheres Wohnen geben, ohne schwere Hypothekenlast
+- **Stadtentwicklung**: Stadterneuerung lenken, Umfeld alter Stadtviertel verbessern
+- **Sozialer Frieden**: Konflikte reduzieren, die aus Wohnproblemen entstehen
 
-## Aktuelle Wohnsituation in Taiwan
+## Aktuelle Lage der Wohnprobleme in Taiwan
 
-### Wohnungsnot in Zeiten steigender Mietpreise
+### Wohnnot im Zeitalter hoher Immobilienpreise
 
-Das Verhältnis von Mietpreis zu Einkommen in Taipeh beträgt etwa 15–16 (2024-Daten), in New Taipei City etwa 12–13, in Taoyuan etwa 9–10 – weit über dem internationalen Standard von 5–6. [^4] Eine durchschnittliche Familie braucht 10–15 Jahre, um sich ein Haus zu leisten, und viele junge Menschen sind gezwungen, in den Mietmarkt auszublicken.
+Laut Statistik des Innenministeriums für das 4. Quartal 2024 beträgt das Preis-Einkommens-Verhältnis in Taipeh 16,43, in Neu-Taipeh 14,08, in Taoyuan 9,22, landesweit 10,76[^4]. Anders ausgedrückt: Ein durchschnittlicher Haushalt in Taipeh müsste sechzehn Jahre lang weder essen noch trinken, um sich eine Wohnung leisten zu können; viele junge Menschen werden in den Mietmarkt gedrängt.
 
-Doch der Mietmarkt ist ebenfalls von Problemen geprägt: Schwarzer Markt für Mietverhältnisse ist weit verbreitet, viele Vermieter zahlen keine Steuern, die Mietpreise sind undurchsichtig, Kurzzeitmietverträge sind üblich, und die Rechte der Mieter werden kaum geschützt. Diese zwei Probleme verstärken sich gegenseitig und machen Wohnen zu einem der dringendsten politischen Themen Taiwans.
+Doch auch der Mietmarkt ist problembehaftet: Hoher Anteil an Schwarzvermietung, Vermieter melden Steuern generell nicht an, Mieten sind intransparent, Kurzzeitverträge dominieren, Mieterrechte fehlen effektiver Schutz. Diese beiden Notlagen überlagern sich und machen das Wohnproblem zu einem der drängendsten politischen Themen Taiwans.
 
-**Besondere Wohnbefürwortungen verschiedener Gruppen**
+**Besondere Wohnbedürfnisse bestimmter Gruppen**
 
-- **Jugendgruppe**: Gehalt hinkt den Mietpreisen hinterher, Eigenheimbesitz ist unerreichbar
-- **Alleinstehende Familien**: Finanzielle Belastung ist groß, Wohnungsmöglichkeiten sind begrenzt
-- **Ältere Menschen**: Festes Einkommen sinkt, Wohnsicherheit ist gefährdet
-- **Menschen mit Behinderung**: Bedarf an barrierefreiem Wohnen, Auswahl ist begrenzt
+- **Jugendliche**: Löhne hinken Immobilienpreisen hinterher, Kauf unerreichbar
+- **Alleinerziehende Familien**: Hohe wirtschaftliche Belastung, begrenzte Mietoptionen
+- **Ältere Menschen**: Sinkende Fix-Einkommen, Wohnrisiken
+- **Menschen mit Behinderungen**: Bedarf an barrierefreiem Umfeld, Auswahl noch knapper
 
 ### Hintergrund der Politikentwicklung
 
-**Frühere Wohnungspolitik (1950–2010)**
-Taiwans frühere Wohnungspolitik konzentrierte sich auf „Wohnkäufe zu fördern“:
+**Frühe Wohnbaupolitik (1950–2010)**
+Taiwans frühe Wohnbaupolitik zielte primär auf „Kaufanreize“:
 
-- Staatswohnungsbau: Errichtung von Volkswohnungen zur günstigen Verkauf
-- Kreditkonditionen für Wohnkäufe: Unterstützung durch Finanzpolitik
-- Steuerliche Vorteile beim Wiederkauf und beim Erstkauf: Steuerliche Anreize zum Kauf
-- Problem: Hauptsächlich wohltätige Mittelschicht profitierte, sozial Schwächere erhielten wenig Unterstützung
+- Nationale-Wohnungen-Politik: Bau von Nationalwohnungen, Verkauf zu Vorzugspreisen
+- Kauf-Förderkredite: Finanzpolitische Unterstützung des Erwerbs
+- Rückerstattung bei Zweitkauf, Erstkauf-Vergünstigungen: Steuerliche Anreize zum Hauskauf
+- Problem: Hauptbegünstigte waren der Mittelstand, benachteiligte Gruppen profitierten kaum
 
-**Erlass des Wohnungsgesetzes (2011–2016)**
-2011 wurde das „Wohnungsgesetz“ erlassen und legte eine neue Richtung für die Wohnungspolitik fest. [^3]
+**Erlass des Wohnbaugesetzes (2011–2016)**
+2011 wurde das _Wohnbaugesetz_ erlassen, das eine neue Richtung der Wohnbaupolitik festlegte[^3]:
 
-- Wohnen als Grundrecht anerkennen
-- Rechtliche Grundlage für sozialen Wohnungsbau schaffen
-- Förderung von Mietzuschüssen
-- Aber: Durchsetzung war zu schwach, sozialer Wohnungsbau verlief langsam
+- Gesetzeszweck: Allen Staatsangehörigen Wohnen in angemessenen Wohnungen und würdiger Wohnumgebung ermöglichen
+- Rechtliche Basis für sozialen Wohnbau schaffen
+- Mietzuschuss-System vorantreiben
+- Doch Durchsetzungskraft blieb unzureichend, sozialer Wohnbau schritt nur langsam voran
 
-## Inhalt der sozialen Wohnungspolitik
+## Inhalt der sozialen Wohnbaupolitik
 
-### 8-Jahre-200.000-Wohneinheiten-Plan
+### 8-Jahre-200.000-Einheiten-Plan
 
-Nach der Amtsübernahme der neuen Regierung 2016 wurde der Plan „8 Jahre, 200.000 soziale Wohneinheiten“ vorgestellt. [^2]
+2016 legte die neue Regierung den „8-Jahre-200.000-Einheiten-sozialer-Wohnbau“-Plan vor[^2]:
 
 **Politische Ziele**
 
-- Zwischen 2017 und 2024: 200.000 soziale Wohneinheiten schaffen
-- Direkter Bau: 120.000 Wohneinheiten
-- Mietverwaltung: 80.000 Wohneinheiten
-- Gesamte Investition: etwa 44 Milliarden Taiwan-Dollar
+- 2017–2024: 200.000 Einheiten sozialen Wohnbaus realisieren
+- Davon 120.000 Einheiten direkter Neubau
+- 80.000 Einheiten über Mietverwaltung
 
-**Durchführungsstrategie**
+**Umsetzungsstrategien**
 
-1. **Zusammenarbeit zwischen Zentral- und Lokalregierung**: Das Nationale Wohnungs- und Stadterneuerungszentrum koordiniert die Planung
-2. **Vielfältige Grundstücksquellen**: Staatsgrundstücke, Stadterneuerungsflächen, Spenden usw.
-3. **Innovative Finanzierungsmechanismen**: Wohnungsfonds, Spezialbudget für Grundinfrastruktur
-4. **Fachpersonal**: Gründung spezialisierter Institutionen zur Steigerung der Durchsetzungseffizienz
+1. **Zentral-lokale Kooperation**: Nationale Wohnungs- und Stadterneuerungszentrum (Nationale Wohn- und Stadtentwicklungszentrum) übernimmt Gesamtplanung
+2. **Vielfältige Bodenquellen**: Staatsboden, Rückführungen aus Stadterneuerung, Schenkungen u. a.
+3. **Innovative Finanzierungsmechanismen**: Wohnbaufonds, Sonderbudget für vorausschauende Infrastruktur
+4. **Professionelle Umsetzungsteams**: Eigene Behörden gründen, Ausführungseffizienz steigern
 
-### Zwei parallele Strategien
+### Zwei-Schienen-Modell
 
-**Strategie eins: Direkter Bau**
-Die Regierung baut, besitzt und verwaltet soziale Wohnungen direkt:
+**Schiene eins: Direkter Neubau**
+Regierung baut, hält und verwaltet sozialen Wohnbau direkt:
 
-- Bauziel: 120.000 Wohneinheiten
-- Finanzierung: Wohnungsfonds, Sonderbudget
-- Verwaltungsweise: Regierungsbetrieb oder Auftrag an private Verwaltung
-- Besonderheit: Bessere Qualitätskontrolle, kann vollständige Gemeinschaftseinrichtungen planen
+- Bauziel: 120.000 Einheiten
+- Finanzquellen: Wohnbaufonds, Sonderbudget
+- Verwaltungsmodus: Direkte staatliche Bewirtschaftung oder Auslagerung an private Verwalter
+- Merkmal: Bessere Qualitätskontrolle, ganzheitliche Planung von Gemeinschaftseinrichtungen möglich
 
-**Strategie zwei: Mietverwaltung**
-Die Regierung arbeitet mit privaten Vermietern zusammen und vermittelt sozial Schwachen Mietwohnungen:
+**Schiene zwei: Mietverwaltung**
+Regierung kooperiert mit privaten Vermietern, vermittelt an benachteiligte Mieter:
 
-- Ziel: 80.000 Wohneinheiten
-- Funktionsmodell:
-  - **Mietverwaltung**: Regierung mietet private Wohnungen und vermietet sie an sozial Schwache
-  - **Verwaltung**: Unterstützt Vermieter bei der Vermietung und bietet Verwaltungsdienste
-- Vorteil: Aktiviert ungenutzte Wohnungen, erhöht schnell die Versorgung mit sozialen Wohnungen
+- Zielgröße: 80.000 Einheiten
+- Betriebsmodi:
+  - **Anmietung**: Regierung mietet private Wohnungen an, vermietet weiter an Bedürftige
+  - **Verwaltung**: Unterstützung der Vermieter bei Vermietung, Bereitstellung von Verwaltungsdiensten
+- Vorteil: Leerstehende Wohnungen aktivieren, Angebot an sozialem Wohnbau schnell erhöhen
 
-### Statistik der Durchsetzungsergebnisse
+### Ausführungsstatistiken
 
-**Statistik bis Ende 2024**
+**Statistische Erfassungsdefinitionen der Politik**
 
-- Bis Ende 2024 wurden etwa 213.000 Wohneinheiten realisiert, übertreffen das Ziel von 200.000 um 7% (107%). [^1]
+- Die Regierung schätzte im Dezember 2023, dass bis Ende 2024 120.000 Einheiten direkt gebaut und 93.980 gültige Mietverwaltungsverträge vorlägen, insgesamt 213.980 Einheiten, Zielerreichung 107 %[^1]
+- „Erreicht“ ist eine politische Statistikgröße; der direkte Neubau umfasst auch im Bau befindliche und bereits vergebenen, aber noch nicht begonnene Projekte. Nach Innenministeriumsstatistik waren bis Ende August 2026 unter den direkt gebauten Einheiten 47.111 fertiggestellt, 65.202 im Bau, 15.380 vergeben aber noch nicht begonnen[^5]; „fertiggestellt“ bedeutet Erhalt der Nutzungslizenz für Neubauten des sozialen Wohnbaus
 
-**Regionale Verteilung**
+## Designphilosophie des sozialen Wohnbaus
 
-- Sechs Großstädte machen etwa 75% aus, Schwerpunkte sind Taipeh, New Taipei City und Taichung
-- New Taipei City: 32.000 Wohneinheiten (meistens)
-- Taipeh: 28.000 Wohneinheiten
-- Taoyuan: 21.000 Wohneinheiten
-- Taichung: 19.000 Wohneinheiten
+Taiwans soziale Wohnbau-Designphilosophie geht von „sozialer Durchmischung“ aus und vermeidet bewusst die Armutskonzentration, wie sie bei Hongkongs öffentlichem Wohnbau oder US-Sozialwohnungen auftrat, damit Bewohner unterschiedlicher Hintergründe zusammenleben.
 
-## Designphilosophie sozialer Wohnungen
+### Prinzip der sozialen Durchmischung
 
-Taiwans soziale Wohnungsdesign beginnt mit dem Konzept des „sozialen Zusammenlebens“ und vermeidet bewusst die Konzentrationsprobleme von Hongkong oder den USA, wo soziale Wohnungen oft als Arme-Wohnungs-Viertel wahrgenommen werden. Menschen verschiedener Hintergründe sollen gemeinsam leben.
+Das geltende _Wohnbaugesetz_ Art. 4 schreibt vor, dass mindestens 40 % des sozialen Wohnbaus an wirtschaftlich oder sozial Benachteiligte vermietet werden, mindestens 20 % an Ehepaare innerhalb der ersten zwei Ehejahre oder kinderreiche Familien[^3]. Der Kreis der Benachteiligten ist weit gefasst und umfasst Geringverdienerhaushalte, Haushalte in besonderen Lebenslagen, Familien mit zwei oder mehr minderjährigen Kindern, Ältere, Opfer häuslicher Gewalt, Menschen mit Behinderungen, indigene Völker, Katastrophenopfer u. a.
 
-### Prinzip sozialer Mischung
+**Kreis der benachteiligten Gruppen**
+Nach Definition des _Wohnbaugesetzes_ gehören dazu:
 
-Sozial Schwache erhalten 30% der Wohneinheiten, reguläre Familien (insbesondere junge Menschen, frisch Verheiratete, Eltern mit Kindern) erhalten 70%, und die Zuweisung erfolgt durch regelmäßige Zufallsziehungen, um Fairness zu gewährleisten. Das Wohnungsgesetz definiert sozial Schwache weit gefächert und schließt niedrige Einkommensgruppen, Familien mit besonderen Umständen, Familien mit drei oder mehr minderjährigen Kindern, ältere Menschen, Opfer häuslicher Gewalt, Menschen mit Behinderung, indigene Völker, Katastropungsopfer und andere Gruppen ein.
-
-**Definition sozial Schwacher Gruppen**
-Gemäß dem Wohnungsgesetz umfassen sie:
-
-- Niedrige und niedrige bis mittlerer Einkommensgruppen
-- Familien mit besonderen Umständen
-- Familien mit drei oder mehr minderjährigen Kindern
-- Personen, die nach Abschluss einer Unterbringung in Pflegefamilien oder Heimen nicht mehr in ihre ursprüngliche Familie zurückkehren können
-- Personen ab 65 Jahren
-- Opfer häuslicher Gewalt oder sexueller Nötigung sowie deren Kinder
-- Menschen mit Behinderung
-- Menschen, die an HIV erkrankt sind oder an einer seltenen Krankheit leiden
+- Geringverdiener- und niedrigere Mittelverdienerhaushalte
+- Haushalte in besonderen Lebenslagen
+- Familien mit zwei oder mehr minderjährigen Kindern
+- Personen unter 25 Jahren, die nach Ende der Unterbringung in Erziehungs- oder Pflegeeinrichtungen nicht nach Hause zurückkehren können
+- Personen über 65 Jahre
+- Opfer häuslicher oder sexualisierter Gewalt und deren Kinder
+- Menschen mit Behinderungen
+- HIV-Infizierte oder AIDS-Erkrankte
 - Indigene Völker
-- Katastrophensopfer
+- Katastrophenopfer
 - Obdachlose
-- Andere, die von der zuständigen Behörde anerkannt werden
+- Minderjährige, die durch Schwangerschaft oder Geburt in Not geraten sind
+- Andere, von der zuständigen Behörde anerkannte Personen
 
 ### Planung von Gemeinschaftseinrichtungen
 
-**Erforderliche Einrichtungen**
+**Notwendige Einrichtungen**
 
-- Barrierefreier Zugang: Rampen, Aufzüge, Wohnungsentwürfe
-- Kindergarten: Prioritär nicht-kommerzielle Kindergärten
-- Pflegeeinrichtungen: Tagespflegezentren, Betreuungseinrichtungen
-- Gemeinschaftsflächen: Gemeindezentren, Lesesäle
-- Gewerbe: Supermärkte, Waschsalons und andere Alltagsdienstleistungen
+- Barrierefreies Umfeld: Rampen, Aufzüge, Wohnungstypen
+- Kindergärten: Bevorzugte Einrichtung gemeinnütziger Kindergärten
+- Langzeitpflege-Stützpunkte: Tageszentren, Betreuungsstützpunkte
+- Gemeinschaftsräume: Versammlungshäuser, Leseräume
+- Gewerbliche Einrichtungen: Convenience-Stores, Waschsalons u. a. Services
 
-**Innovative Gestaltung**
+**Innovative Designs**
 
-In den letzten Jahren wird in sozialen Wohnanlagen kontinuierlich innovativ gestaltet. Jugendgründungsräume bieten jungen Menschen Arbeitsstätten für Start-ups, gemeinschaftliche Küchen fördern den Austausch zwischen den Bewohnern. Dachgärten verbinden städtische Landwirtschaft mit Umweltbildung, Ressourcenzentren fördern Kreislaufwirtschaft, und einige Neubauten integrieren IoT-Geräte zur Schaffung intelligenter Gemeinschaftsmanagement-Plattformen.
+In jüngeren Projekten wird kontinuierlich an innovativen Einrichtungen experimentiert. Jugendgründungsräume bieten Arbeitsplätze für junge Unternehmer, Gemeinschaftsküchen fördern Austausch und Interaktion der Bewohner. Dachgärten verbinden Urban Farming mit Umweltbildung, Recycling-Zentren treiben Kreislaufwirtschaft voran, manche Neubauten führen IoT-Geräte ein, um smarte Community-Management-Plattformen aufzubauen.
 
-### Mietpreislastprinzip
+### Mietbelastungsprinzip
 
-**Prinzip 85% des Marktpreises**
+Die Miete des sozialen Wohnbaus darf den Marktpreis nicht übersteigen und wird nach Einkommen und Status der Mieter gestaffelt. Das Innenministerium sieht eine Grundstruktur von 30 % bis 80 % des Marktmietpreises vor; in Teilen von Taipeh und Neu-Taipeh wird der Satz wegen höherer Marktpreise weiter gesenkt. Lokalregierungen können nach Einkommen oder Status differenzieren, dürfen aber den zentralen Höchststandard nicht überschreiten[^6].
 
-- Mietpreis wird auf 85% des Marktpreises festgelegt
-- Vermeidet übermäßige Subventionen, die den Markt verfälschen könnten
-- Stellt sicher, dass reguläre Familien die Last tragen können
+## Wichtige Fallbeispiele sozialen Wohnbaus
 
-**Subventionsstufen**
+Taiwans Fallbeispiele zeigen verschiedene Versuche von der Designphilosophie bis zur Gemeinschaftsbildung. Viele Neubauten integrieren Kindergärten, Langzeitpflege-Stützpunkte, Jugendgründungsräume u. a. öffentliche Einrichtungen in den sozialen Wohnbau und bilden so komplexe Gemeinschaftslebenskreise. Dieser Gedanke „sozialer Wohnbau als Gemeinschaft“ beeinflusst zunehmend das Design nachfolgender Projekte.
 
-- Stufe eins (sehr niedriges Einkommen): 30% des Mietpreises
-- Stufe zwei (niedrige Einkommensgruppe): 50% des Mietpreises
-- Stufe drei (niedrig bis mittleres Einkommen): 70% des Mietpreises
-- Stufe vier (reguläre Gruppe): 85% des Marktpreises
+### Taipeh „Gesundheits-Sozialwohnbau“
 
-## Wichtige soziale Wohnungsprojekte
+Der Taipeher Gesundheits-Sozialwohnbau liegt an der Jiankang-Straße im Bezirk Songshan, umfasst 507 Einheiten; in den unteren Geschossen sind ein Senioren-Servicezentrum, eine Tagespflege für Senioren und eine Kinderkrippe untergebracht[^7].
 
-Taiwans soziale Wohnungsprojekte zeigen verschiedene Versuche – von Designphilosophie bis Gemeinschaftsgestaltung. Mehrere repräsentative Projekte sind zu nationalen Leitlinien geworden. Das Projekt „Taipeh Health Housing“ (2017), „New Taipei City Zhonghe Youth Social Housing“ (2019) und „Taoyuan Bade Social Housing“ (2020) stehen jeweils für unterschiedliche Größen und Designansätze.
+## Mietverwaltungs-Politik
 
-Gemeinsam haben diese drei Projekte, dass sie über die reine Wohnfunktion hinausgehen und Kindergärten, Pflegeeinrichtungen, Räume für junge Gründer und andere öffentliche Einrichtungen in die sozialen Wohnanlagen integrieren. Dieses Konzept von „soziale Wohnanlage als Gemeinschaft“ beeinflusst nach und nach die Gestaltung neuer Projekte.
+Die Mietverwaltung ist die zweite Schiene von Taiwans sozialer Wohnbaupolitik. Durch staatliches Eingreifen in den privaten Mietmarkt wird das Angebot an sozialem Wohnbau schnell erhöht, gleichzeitig werden leerstehende Wohnressourcen aktiviert. Das Exekutiv-Yuan schätzte im August 2023, dass Ende desselben Jahres rund 68.000 gültige Mietverwaltungsverträge tatsächlich bestünden[^8].
 
-### Taipeh Health Housing
+### Betriebsmodi
 
-Das Taipeh Health Housing befindet sich im Bezirk Zhongshan und wurde 2017 fertiggestellt. Mit 1.400 Wohneinheiten ist es das erste große soziale Wohnungsprojekt der Stadt. Die Außenwand der Gebäude ist mit vertikalen Grünwänden gestaltet, um den Stadtklimaeffekt zu mildern. Im Inneren befinden sich ein nicht-kommerzieller Kindergarten, ein Pflegezentrum für Senioren und ein Raum für junge Gründer namens „Health Living Creative Base“. Es wurden intelligente Parkplatzsysteme und eine Gemeinschaft-App zur Verwaltung integriert.
+**Anmietungsmodell**
+Die Regierung mietet über professionelle Dienstleister private Wohnungen an und vermietet sie weiter an benachteiligte Familien:
 
-Die soziale Bedeutung dieses Projekts liegt vor allem darin, dass es das vorherrschende Vorurteil ändert, wonach soziale Wohnungen automatisch als „Arme-Viertel“ wahrgenommen werden. Gleichzeitig hat es das nahergelegene Geschäftsviertel belebt und dient als Leitlinie für andere Regionen.
-
-### New Taipei City Zhonghe Youth Social Housing
-
-Das New Taipei City Zhonghe Youth Social Housing wurde 2019 fertiggestellt und bietet 522 Wohneinheiten. Sein größtes Merkmal ist die Kombination von Stadterneuerung und sozialem Wohnungsbau. In einem Gebäude werden soziale Wohnungen, ein Einkaufszentrum und Büroräume untergebracht. Es gibt eine langzeitbetreuende Pflegeeinrichtung, ein Dachgartenprojekt und ein Regenwasserrückgewinnungssystem. Das Projekt erhielt das Diamant-Zertifikat für grünes Bauen. Im Hinblick auf die Gemeinschaftsverwaltung gründeten die Bewohner eine „Jugendbeteiligungsgruppe“, die regelmäßig soziale Aktivitäten organisiert. Die Befriedigungsrate der Bewohner liegt über 85%.
-
-### Taoyuan Bade Social Housing
-
-Das Taoyuan Bade Social Housing wurde 2020 fertiggestellt und bietet 1.003 Wohneinheiten – das größte soziale Wohnungsprojekt Taiwans. Die Lage liegt in unmittelbarer Nähe einer Straßenbahnverbindung. Es gibt 300 Motorradabstellplätze und 50 Autoabstellplätze. Geschäftseinrichtungen wie „Alltron“ und „Starbucks“ ziehen ein. Gemeinschaftseinrichtungen umfassen einen Kindergarten, ein Pflegezentrum und ein Aktivitätszentrum. Die Verwaltung nutzt ein KI-Gesichtserkennungssystem für die Türöffnung und eine Gemeinschaft-App zur Integration verschiedener Dienste. Ein ehrenamtliches System wurde etabliert.
-
-## Politik der Mietverwaltung
-
-Die Mietverwaltung ist die zweite Säule der sozialen Wohnungspolitik Taiwans. Durch staatliche Intervention auf dem privaten Mietmarkt wird die Versorgung mit sozialen Wohnungen schnell erhöht und ungenutzte Wohnungen aktiviert. Bis Ende 2024 wurden 68.000 Wohneinheiten vermittelt, und 27.000 sozial Schwache Familien profitierten.
-
-### Funktionsmodell
-
-**Mietmodell**
-Die Regierung mietet über professionelle Unternehmen private Wohnungen und vermietet sie an sozial Schwache Familien:
-
-- Mietdauer: 3 Jahre, verlängerbar bis zu 6 Jahre
-- Regierungsmietpreis: 80–90% des Marktpreises
-- Weitervermietungspreis: 60–70% des Marktpreises
-- Regierung trägt das Risiko von leerstehenden Wohnungen
+- Laufzeit: Dienstleister schließt mit Vermieter 3-Jahres-Anmietvertrag, tritt als Untervermieter auf und schließt mit Mietern mindestens 1-Jahres-Untermietverträge
+- Miete: Anmietpreis darf 80 % des Marktmietpreises nicht überschreiten, Untermiete an Mieter darf Anmietpreis nicht übersteigen; Mieter können zusätzlich je nach Status Mietzuschuss beantragen[^9]
 
 **Verwaltungsmodell**
 
-Die Regierung vermittelt Vermieter und Mieter, professionelle Unternehmen übernehmen die Auswahl der Mieter, das Einnehmen der Miete und die Wartung. Die Regierung bietet Wartungszuschüsse (bis zu 10.000–30.000 TWD pro Einheit), reduzierte Grundsteuer und Grundbesitzsteuer, übernimmt die Absicherung gegen Haftpflicht und bietet Streitbeilegungs- und Rechtsberatungsdienste, um das Risiko für Vermieter beim Vermieten zu verringern.
+Die Regierung vermittelt zwischen Vermietern und Mietern; professionelle Dienstleister übernehmen Mieterauswahl, Mieteinzug und Reparaturkoordination. Der Vertragsmietzins zwischen Vermieter und Mieter darf 90 % des Marktmietpreises nicht überschreiten[^9]. Die Regierung gewährt Reparaturkostenzuschüsse (max. 10.000 NT$ pro Einheit und Jahr, längstens 3 Jahre), Ermäßigungen bei Haus- und Grundsteuer, übernimmt die Hausratversicherung und bietet Streitbeilegung und Rechtsberatung, um das Vermietungsrisiko für Vermieter zu senken.
 
-### Durchführungsmechanismus und Ergebnisse
+### Umsetzungsmechanismen und Ergebnisse
 
-Derzeit nehmen etwa 200 Unternehmen teil und decken Wohnungsdienstleistungen, Immobilienmakler und Immobilienverwaltung ab. Bis Ende 2024 wurden 68.000 Wohneinheiten vermittelt, 55.000 Vermieter beteiligt, 27.000 sozial Schwache Familien profitierten, und private Wohninvestitionen von 12 Milliarden TWD wurden angeregt.
+Hauptprobleme sind: Manche Vermieter scheuen Teilnahme aus Sorge um Mieterqualität; Wohnungsangebot konzentriert sich auf Metropolregionen; für extrem benachteiligte Haushalte bleibt die Miete belastend; Servicequalität der verschiedenen Dienstleister schwankt stark.
 
-Hauptherausforderungen sind: Einige Vermieter weigern sich aus Sorgen um die Qualität der Mieter, Wohnungen sind konzentriert in städtischen Gebieten, extrem sozial Schwache Familien können die aktuellen Mietpreise nicht mehr tragen, und die Dienstqualität verschiedener Unternehmen unterscheidet sich stark.
+## Politische Wirkung und gesellschaftliche Auswirkungen
 
-## Politikwirkung und gesellschaftlicher Einfluss
+### Quantitative Wirkungsanalyse
 
-### Quantitative Analyse der Wirkung
+Eine gesamtpolitische, verifizierbare offizielle Evaluierung der quantitativen Wirkung des sozialen Wohnbaus fehlt bislang. Fest steht, dass direkter Neubau und Mietverwaltung das Angebot an leistbarem Mietwohnraum erhöht und mehr private Mietwohnungen in vertraglich geregelte Kanäle gebracht haben.
 
-In Bezug auf das Angebot hat die soziale Wohnungspolitik die Versorgung mit Mietwohnungen um etwa 200.000 Wohneinheiten erhöht, die Mietpreissteigerung hat sich gebremst, und die Transparenz des Mietmarktes hat sich mit der Einführung der Mietverwaltung verbessert. In Bezug auf die Nachfrage schätzt die Politik, dass sie etwa 400.000–500.000 Menschen bei Wohnproblemen unterstützt hat, sozial Schwache Familien haben stabilerer untergebracht, und die Wohnsituation junger Menschen hat sich verbessert. Die Industrie hat ebenfalls von der Politik profitiert: Der Wohnungsdienstleistungssektor wurde angeregt, Bau- und Renovierungstätigkeiten wurden gefördert, und es wurden 30.000–40.000 Arbeitsplätze geschaffen.
+### Gesellschaftliche Auswirkungsbewertung
 
-### Bewertung der gesellschaftlichen Auswirkungen
+**Verwirklichung der Wohnrechtsgerechtigkeit**
 
-**Verwirklichung sozialer Gerechtigkeit**
+Neubauten des sozialen Wohnbaus weisen generell höhere Raumqualität als der allgemeine Mietmarkt auf, Gemeinschaftseinrichtungen sind ganzheitlich geplant, Mietniveau ist im Marktvergleich leistbarer, und es besteht längerfristige Wohnsicherheit. Für Gruppen, die lange in schwacher Position auf dem Mietmarkt standen, ist dies eine konkret spürbare Verbesserung.
 
-Die Qualität der neuen sozialen Wohnungen ist im Allgemeinen besser als die regulären Mietwohnungen. Gemeinschaftseinrichtungen sind vollständig geplant, und die Mietpreise sind im Vergleich zum Markt für die Bewohner tragbarer. Für langfristig sozial Schwache Gruppen im Mietmarkt ist dies eine konkrete Verbesserung.
+**Soziale Integration und Stadtentwicklung**
 
-**Soziale Integration und städtische Entwicklung**
+Das Durchmischungsdesign lässt benachteiligte und normale Haushalte zusammenleben und verhindert räumliche Armutskonzentration. Manche Projekte belebten auch das umliegende Geschäftsleben, wirkten als Katalysator der Stadterneuerung alter Viertel und hoben die Gesamtumfeldqualität der Gemeinschaft.
 
-Das Konzept des sozialen Zusammenlebens bringt sozial Schwache und reguläre Familien zusammen und vermeidet die Konzentration von Armut in bestimmten Vierteln. Einige soziale Wohnungsprojekte haben das nahergelegene Geschäftsviertel angeregt und dienen als Katalysatoren für die Stadterneuerung alter Stadtviertel, was die Qualität der Umgebung insgesamt verbessert hat.
+## Internationaler Erfahrungsvergleich
 
-## Internationaler Vergleich
+### Singapurs HDB-System
 
-### Singapurs HDB-Wohnbauten
+Singapur ist für staatlich geführten, großflächigen Bau von HDB-Wohnungen (Housing & Development Board) bekannt; etwa 76 % der singapurischen Einwohner (Bürger und Permanent Residents) leben in HDB-Wohnungen[^10]. Ein Ethnien-Quoten-System fördert die Integration der Volksgruppen, die Verknüpfung mit dem Vorsorgesystem (CPF) incentiviert Wohneigentum. Taiwan kann von der langfristig stabilen Umsetzungskraft und der ganzheitlichen Gemeinschaftsplanung lernen, doch Taiwan betont stärker Miete statt Eigentum, die Gesamtausrichtung unterscheidet sich.
 
-Singapur ist bekannt für staatlich geleitete, groß angelegte HDB-Wohnbauten, in denen etwa 85% der Bevölkerung leben. Das Ethnienquote-System fördert ethnische Integration, und die Verbindung mit dem Rentensystem ermutigt zum Wohneigentum. Taiwan kann von Singapurs stabiler politischer Durchsetzung und vollständiger Gemeinschaftsplanung lernen, aber Taiwans Schwerpunkt liegt stärker auf Mietverhältnissen statt Eigentum, was die Richtung unterscheidet.
+### Niederländischer sozialer Wohnbau
 
-### Niederländischer sozialer Wohnungsbau
+Niederländische Wohnungsbaugesellschaften halten ca. 2,3 Mio. Einheiten, rund 28 % des landesweiten Wohnbestands (Stand Anfang 2024, CBS)[^11]; sie werden von gemeinnützigen Wohnungsbaugesellschaften gebaut und verwaltet, ein einkommensgestaffeltes System sichert faire Verteilung. Der niederländische Fokus auf architektonische Designqualität und nachhaltige Umwelt bietet Taiwan Referenzen für qualitätsorientierte Entwicklung.
 
-Der niederländische soziale Wohnungsbau macht etwa 34% aller Wohnungen aus (2023-Daten) und wird von gemeinnützigen Wohnungsgenossenschaften errichtet und verwaltet. Das Einkommensstufensystem stellt eine gerechte Verteilung sicher. Die Niederlande legen großen Wert auf Baukonstruktionsqualität und nachhaltige Umwelt, was Taiwan in Bezug auf Qualitätsausrichtung inspirieren kann.
+### Hongkongs öffentlicher Wohnbau
 
-### Hongkongs öffentliche Wohneinheiten
-
-In Hongkong wohnen etwa 45% der Bevölkerung in öffentlichen Wohneinheiten, die in zwei Kategorien unterteilt sind: gemietete Wohneinheiten und Wohneigentum. Taiwan hat bewusst vom Hongkong-Modell abgewichen: Stärkerer Fokus auf soziale Mischung, vermeidet groß angelegte Konzentrationsentwicklungen, und legt Wert auf vollständige Gemeinschaftseinrichtungen, um Armutskonzentration zu verhindern.
+Rund 45 % der Hongkonger Bevölkerung leben in öffentlichem Wohnbau, unterteilt in Mietwohnungen (Public Rental Housing) und Home Ownership Scheme. Taiwan grenzt sich bewusst vom Hongkonger Modell ab: Stärkere Betonung sozialer Durchmischung, Vermeidung großflächiger Konzentration, gleichzeitig Wert auf vollständige Gemeinschaftseinrichtungen, um „Armutskonzentration“ zu verhindern.
 
 ## Zukünftige Herausforderungen und Entwicklung
 
-### Hauptherausforderungen
+### Hauptforderungen
 
-Sozialer Wohnungsbau steht vor vier wesentlichen strukturellen Herausforderungen. Die Beschaffung von Grundstücken ist die erste Hürde: Städtische Grundstücke sind knapp und teuer, Grundstückseigentiger sind wenig kooperativ, die Verfahren zur Änderung städtebaulicher Pläne sind komplex, und die Bevölkerung hat ein Vorurteil gegen soziale Wohnanlagen in der Nachbarschaft, was die Standortwahl erschwert. Finanziell steigen die Baukosten, langfristige Betriebskosten und der Druck auf den Wohnungsfonds belasten das Staatbudget.
+Die soziale Wohnbaupolitik steht vor vier strukturellen Hauptforderungen. Bodenerwerb ist die erste Hürde: Städtisches Land ist knapp und teuer, Grundeigentümer kooperationsunwillig, Umwidmungsverfahren komplex, dazu NIMBY-Haltung („nicht in meinem Hinterhof“) gegen „Sozialwohnbau nebenan“, was die Standortsuche extrem erschwert. Finanzseitig drücken steigende Baukosten, langfristige Betriebskosten und der Druck auf den Wohnbaufonds auf den Staatshaushalt.
 
-Einige Menschen halten soziale Wohnanlagen immer noch für „Arme-Viertel“, fürchten negative Auswirkungen auf die Nachbarimmobilien, und die Integration in die Gemeinschaft braucht Zeit und kontinuierliche Kommunikation. In der Verwaltung stellt die gemeinsame Wohnsituation verschiedener Gruppen, die Wartungskosten von Gemeinschaftseinrichtungen und die hohe Bewohnerwechselrate hohe Anforderungen an die Fähigkeiten der Verwaltungsteams.
+Teile der Bevölkerung hegen nach wie vor das Klischee „Slum“ gegenüber sozialem Wohnbau, fürchten Wertminderung der Nachbarschaft; Gemeinschaftsintegration braucht Zeit und kontinuierlichen Dialog. Managementseitig stellen die gemeinsame Bewohnung unterschiedlicher Bedarfsgruppen, Instandhaltungskosten der Gemeinschaftseinrichtungen, hohe Mieterfluktuation hohe Anforderungen an die professionelle Kapazität der Verwaltungsteams.
 
 ### Zukünftige Entwicklungsrichtungen
 
-Branchenexperten schlagen folgende politische Vorschläge vor: Überarbeitung des Wohnungsgesetzes, Stärkung der rechtlichen Grundlagen, Einführung eines spezifischen sozialen Wohnungsgesetzes – dies sind Prioritäten auf der institutionellen Ebene. Finanzinnovationen wie die Einbindung privater Kapital, Entwicklung sozialer Wohnungs-REITs und Grundstücksvertrauen können helfen, Ressourcen zu erweitern. Intelligente Verwaltung (IoT-Systeme, Integration von Gemeinschafts-Apps) und Förderung grünen Bauens sind Wege zur Qualitätsverbesserung. Eine ausgewogene regionale Entwicklung ist ebenfalls wichtig: Derzeit sind soziale Wohnanlagen stark konzentriert in den sechs Großstädten, und das Wohnumfeld in nicht-urbanen Gebieten braucht mehr politische Aufmerksamkeit.
+Branchenvorschläge decken mehrere Richtungen ab: Novellierung des _Wohnbaugesetzes_, Stärkung der Rechtsgrundlage, Vorantreiben eines Spezialgesetzes für sozialen Wohnbau sind systemische Prioritäten. Finanzinnovation: Einbindung privaten Kapitals, Entwicklung von Social-Housing-REITs und Landtreuhand-Modellen, um Ressourcenquellen zu erweitern. Smart Management (IoT-Systeme, Community-App-Integration) und Förderung von Grünbau-Zertifizierungen sind Pfade der Qualitätssteigerung. Regionale Ausgewogenheit verdient Aufmerksamkeit: Derzeit ist sozialer Wohnbau stark auf die sechs Sondergemeinden konzentriert, der Wohnbedarf in nicht-städtischen Regionen wartet auf stärkere politische Beachtung.
 
-## Schlusswort: Auf dem Weg zur Wohngerechtigkeit
+## Schlusswort: Auf dem Weg zur Wohnrechtsgerechtigkeit
 
-Sozialer Wohnungsbau verkörpert soziale Werte und ist mehr als nur eine Wohnungspolitik. Taiwan hat 2016 mit dem 8-Jahre-200.000-Wohneinheiten-Plan begonnen, nicht nur die quantitativen Ziele nahezu zu erreichen, sondern auch auf der qualitativen Ebene eine „taiwanische Methode“ zu entwickeln:
+Sozialer Wohnbau verkörpert die Umsetzung gesellschaftlicher Werte, nicht bloß Wohnungspolitik. Taiwan startete 2016 den 8-Jahre-200.000-Einheiten-Plan, der nicht nur quantitativ nahe an das Ziel heranreicht, sondern auch qualitativ ein „Taiwan-Modell“ etabliert hat:
 
-Die Besonderheiten taiwans sozialer Wohnanlagen liegen in einigen zentralen Entscheidungen: Durch Mischungsgestaltung vermeidet man Armutskonzentration, durch direkte Bauvorhaben und Mietverwaltung ergänzen sich beide Strategien, man legt Wert auf Designästhetik und Gemeinschaftsfunktionen, und man berücksichtigt das Klima und die kulturellen Gegebenheiten Taiwans. Dieses „taiwanische Modell“ ist noch in Entwicklung, aber es hat bereits eine erkennbare politische Richtung geformt.
+Die Besonderheit des taiwanischen sozialen Wohnbaus liegt in mehreren Kernentscheidungen: Durchmischungsdesign gegen Armutskonzentration, direkter Neubau und Mietverwaltung als sich ergänzende zwei Schienen, Betonung von Designästhetik und Gemeinschaftsfunktionen, Verankerung in Taiwans Klima und Kultur. Dieses „Taiwan-Modell“ befindet sich zwar noch in Korrektur, hat aber bereits einen erkennbaren Politikpfad gebildet.
 
-**Zukünftige Vision**
-Jeder Mensch, der in Taiwan lebt, unabhängig von seinem finanziellen Einkommen, sollte Zugang zu geeigneten, stabilen und würdevollen Wohnbedingungen haben. Taiwan kann nur eine gerechtere und inklusivere Gesellschaft aufbauen, wenn dieses Ziel erreicht ist.
+**Zukunftsvision**
+Jedem in Taiwan lebenden Menschen, unabhängig von wirtschaftlicher Leistungsfähigkeit, angemessenes, stabiles, würdiges Wohnen zu ermöglichen. Erst wenn dieses Ziel erreicht ist, kann Taiwan eine gerechtere, inklusivere Gesellschaft aufbauen.
 
-Die Verwirklichung sozialer Gerechtigkeit erfordert die gemeinsame Anstrengung der Gesellschaft. Die Regierung stellt den politischen Rahmen und Ressourcen bereit, Fachleute tragen Technik und Kreativität bei, und die Bevölkerung gibt Verständnis und Unterstützung. Nur so kann sozialer Wohnungsbau wirklich wirksam sein und Taiwan auf dem Weg zu einer gerechteren Gesellschaft unterstützen.
+Die Verwirklichung von Wohnrechtsgerechtigkeit bedarf gemeinsamer Anstrengung der ganzen Gesellschaft. Die Regierung stellt Politikrahmen und Ressourcen, Fachleute bringen Technik und Kreativität ein, die Bevölkerung gibt Verständnis und Unterstützung – nur so kann sozialer Wohnbau seine Wirkung entfalten und Taiwan voranbringen.
 
 **Weiterführende Literatur**:
 
-- [Staatswohnungen und Wohngerechtigkeit](/society/國宅與居住正義) — Die 2016er soziale Wohnungspolitik vorher: Der verworfene „Regierung-baut-und-verkauft“-Ansatz: Von der Staatswohnungsverordnung 1975 bis zur Abschaffung 2015, wie Staatswohnungen zur Immobilienkarawane wurden, und die Debatte um das 2026er erschwingliche Wohnungsprojekt in Taoyuan, das „Verkaufen“ wiederbelebt (Schwesterartikel dieses Aufsatzes)
-- [Ziegelstube](/society/鐵皮屋) — Die Herausforderung von 716.000 illegalen Bauwerken: Ziegeldächer und illegale Bauten sind eine strukturelle Komponente des Wohngerechtigkeitsthemas
-- [Umweltgerechtigkeit und Nachbarschaftsproteste in Taiwan](/society/台灣環境正義與鄰避爭議) — Die Ausweitung der Wohnungsfrage auf die Nutzung von Grund und Boden: Ungleiche Umweltrisiken und Nachbarschaftskonflikte um belastete Einrichtungen
+- [Nationaler Wohnbau und Wohnrechtsgerechtigkeit](/de/society/public-housing-justice) — Vor dem sozialen Wohnbau 2016 die abgeschaffte „Regierung baut zum Verkauf“-Route: Vom Nationalen-Wohnbau-Gesetz 1975 bis zur Aufhebung 2015, wie der nationale Wohnbau zur Vermögensleiter wurde, und der Streit 2026 um Taoyuans „leistbaren Wohnbau“, der das „Verkaufen“ zurückholt (Schwesterartikel dieses Textes)
+- [Blechdachhütten](/de/society/taiwan-tin-shed-houses) — Das Governance-Dilemma von 716.000 illegalen Bauten landesweit; Blechdachaufbauten und illegale Bauwerke sind eine der tiefen strukturellen Schichten des Wohnrechtsgerechtigkeitsthemas
+- [Taiwans Umweltgerechtigkeit und NIMBY-Konflikte](/de/society/taiwan-environmental-justice-nimby-conflicts) — Die landesplanerische Erweiterung des Wohnproblems: Ungleiche Verteilung von Umweltrisiken und Gemeinschaftskonflikte um NIMBY-Einrichtungen
 
-[^1]: Innenministerium, Landesverwaltungsamt, „Bericht über die Durchsetzung sozialer Wohnanlagen“, Dezember 2024, https://pip.moi.gov.tw/v3/b/SCRB0501.aspx?mode=7
+[^1]: [Stadterneuerung All-Access (2023-12-21): Direkter Neubau und Mietverwaltungszahlen erreichen neue Höchststände](https://urbanrenewal.wealth.com.tw/news-detail/1102) — „Ende 2024 nicht nur Ziel erreicht, sondern direkter Neubau 120.000 Einheiten, gültige Mietverwaltungsverträge 93.980 Einheiten, insgesamt 213.980 Einheiten, Zielerreichung 107 %“
 
-[^2]: Regierungspräsidium, „Plan zur Errichtung sozialer Wohnanlagen“, März 2017, https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/7345b2c6-1314-4fda-8e21-18b012466827
+[^2]: [Exekutiv-Yuan, „Sozialer-Wohnbau-Förderplan“, März 2017 genehmigte Fassung](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/7345b2c6-1314-4fda-8e21-18b012466827) — Genehmigungsdokument der 8-Jahre-200.000-Einheiten-Politik
 
-[^3]: Nationales Gesetzdatenbank, „Wohnungsgesetz (2017 überarbeitete Fassung)“, https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070195
+[^3]: [Nationale Rechtsdatenbank: Wohnbaugesetz Art. 4](https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070195&flno=4) — Geltender Text: Mindestens 40 % Vermietung an wirtschaftlich oder sozial Benachteiligte, mindestens 20 % an kinderreiche Ehepaare, sowie 13 Kategorien benachteiligter Status
 
-[^4]: Stiftung Tsui Mama, „Untersuchung des Mietmarktes“, 2024, https://www.tmm.org.tw/
+[^4]: [Innenministerium Immobilien-Informationsplattform: Veröffentlichung der Wohnkostenbelastung 4. Quartal 113. Jahr](<https://pip.moi.gov.tw/Upload/CustomFile/Doc/113%E5%B9%B4%E6%88%BF%E5%83%B9%E8%B2%A0%E6%93%94%E8%83%BD%E5%8A%9B%E7%AC%AC4%E5%AD%A3%E7%99%BC%E5%B8%83%E5%85%A7%E5%AE%B9(%E5%B9%B3%E5%8F%B0).pdf>) — Landesweites Preis-Einkommens-Verhältnis 10,76, Taipeh 16,43, Neu-Taipeh 14,08, Taoyuan 9,22
 
-[^5]: Nationales Wohnungs- und Stadterneuerungszentrum, „Durchsetzungsbericht des Plans zur Errichtung sozialer Wohnanlagen“, 2024, https://www.hurc.org.tw/
+[^5]: [Innenministerium Immobilien-Informationsplattform: Förderergebnisse des sozialen Wohnbaus](https://pip.moi.gov.tw/v3/b/SCRB0501.aspx?mode=7) — Echtzeit-Statistiktabelle, direkter Neubau aufgeschlüsselt in fertiggestellt, im Bau, vergeben aber nicht begonnen, Zahlen per 31. August 2026
+
+[^6]: [Commercial Times (2024-03-26): Innenministeriums Staffelung der Sozialwohnbau-Mieten](https://www.ctee.com.tw/news/20240326701660-430104) — „Grundstruktur der Sozialwohnbau-Miete 30 % bis 80 %“, Lokalregierungen können nach Einkommen oder Status differenzieren
+
+[^7]: [Taipeher Sozialwohnbau-Vermietungsnetz: Gesundheits-Sozialwohnbau](https://rent.thurc.org.taipei/Rental/Site/jiankang) — Taipeh, Songshan, Jiankang-Straße Nr. 285–323, insgesamt 507 Einheiten
+
+[^8]: [Exekutiv-Yuan (2023-08-02): Politische Ergebnisse des sozialen Wohnbaus](https://www.ey.gov.tw/Page/9277F759E41CCD91/621fac0b-df30-450f-b60c-c4bd52c8b038) — „Mietverwaltung: Ende dieses Jahres voraussichtlich ca. 68.000 gültige Vertragseinheiten“
+
+[^9]: [Innenministerium Landesverwaltungsamt: 4. Phase Mietverwaltungsplan sozialen Wohnbaus](https://www.nlma.gov.tw/uploads/files/d275a081739171fa541ae4cba76f0e11.pdf) — Anmietpreis max. 80 % Marktmiete, Verwaltung max. 90 %; 3-Jahres-Anmietvertrag, mind. 1-Jahres-Untermietvertrag; Reparaturkosten max. 10.000 NT$/Einheit/Jahr, max. 3 Jahre
+
+[^10]: [Singapur HDB: HDB Key Statistics 2024/2025](https://www.hdb.gov.sg/-/media/hdb-pulse/reports/annual-reports-and-financial-statements/HDB_Key-Statistics-2025.pdf) — Anteil der singapurischen Einwohnerbevölkerung in HDB-Wohnungen: 76,0 %
+
+[^11]: [Niederländisches Statistikamt CBS (2024-12)](https://www.cbs.nl/nl-nl/nieuws/2024/49/in-2023-meer-wisseling-van-huur-naar-koopwoningen) — „Woningcorporaties bezitten 2,3 miljoen woningen (28 procent)“, Stand 1. Januar 2024
 
 ## Referenzen
 
-1. [Innenministerium, Landesverwaltungsamt](https://pip.moi.gov.tw/v3/b/SCRB0501.aspx?mode=7), „Bericht über die Durchsetzung sozialer Wohnanlagen“, Dezember 2024
-2. [Nationales Wohnungs- und Stadterneuerungszentrum](https://www.hurc.org.tw/), „Durchsetzungsbericht des Plans zur Errichtung sozialer Wohnanlagen“, 2024
-3. [Regierungspräsidium, „Plan zur Errichtung sozialer Wohnanlagen“, März 2017](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/7345b2c6-1314-4fda-8e21-18b012466827)
-4. [Wohnungsgesetz (2017 überarbeitete Fassung), Nationales Gesetzdatenbank](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070195)
-5. [Stiftung für städtische Erneuerung](https://www.ur.org.tw/), „Statistik der städtischen Erneuerung“, 2024
-6. [Wikipedia, „Sozialer Wohnungsbau in Taiwan“](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E7%A4%BE%E6%9C%83%E4%BD%8F%E5%AE%85), März 2024
-7. [Urban Renewal Gateway, „Direkter Bau und Mietverwaltung erreichen neue Rekorde“](https://urbanrenewal.wealth.com.tw/news-detail/1102), 2024
-8. [Taipeh Stadt, Amt für städtische Entwicklung](https://udd.gov.taipei/), „Weißbuch zur Politik sozialer Wohnanlagen“, 2023
-9. [New Taipei City, Amt für ländliche und städtische Entwicklung](https://www.planning.ntpc.gov.tw/home.jsp?id=68301de1098d53bb), „Entwicklungsplan für soziale Wohnanlagen in New Taipei City“, 2024
-10. [Taoyuan Stadt, Amt für Wohnungsentwicklung](https://ohd.tycg.gov.tw/), „Durchsetzung der Politik sozialer Wohnanlagen in Taoyuan“, 2024
-11. [Stiftung Tsui Mama](https://www.tmm.org.tw/), „Untersuchung des Mietmarktes“, 2024
-12. [Allianz für soziale Wohnanlagen](https://socialhousingtw.blogspot.com/), „Vorschlag für soziale Wohnungspolitik“, 2023
+1. [Innenministerium Landesverwaltungsamt](https://pip.moi.gov.tw/v3/b/SCRB0501.aspx?mode=7), _Förderbericht sozialer Wohnbau_, Dezember 2024
+2. [Nationale Wohnungs- und Stadterneuerungszentrum](https://www.hurc.org.tw/), _Ausführungsergebnisse Sozialer-Wohnbau-Förderplan_, 2024
+3. [Exekutiv-Yuan, _Sozialer-Wohnbau-Förderplan_, März 2017 genehmigte Fassung](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/7345b2c6-1314-4fda-8e21-18b012466827)
+4. [Wohnbaugesetz (2017 novelliert), Nationale Rechtsdatenbank](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070195)
+5. [Stiftung für Stadtplanungsforschung und -entwicklung](https://www.ur.org.tw/), _Statistik der Stadterneuerungsförderung_, 2024
+6. [Wikipedia, Artikel „Taiwans sozialer Wohnbau“](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E7%A4%BE%E6%9C%83%E4%BD%8F%E5%AE%85), März-2024-Version
+7. [Stadterneuerung All-Access, Bericht „Direkter Neubau und Mietverwaltungszahlen erreichen neue Höchststände“](https://urbanrenewal.wealth.com.tw/news-detail/1102), 2024
+8. [Taipeher Stadtentwicklungsamt](https://udd.gov.taipei/), _Weißbuch zur Sozialwohnbaupolitik_, 2023
+9. [Neu-Taipeher Stadt- und Landentwicklungsamt](https://www.planning.ntpc.gov.tw/home.jsp?id=68301de1098d53bb), _Neu-Taipeher Sozialwohnbau-Entwicklungsplan_, 2024
+10. [Taoyuaner Wohnbauentwicklungsamt](https://ohd.tycg.gov.tw/), _Förderergebnisse des sozialen Wohnbaus Taoyuan_, 2024
+11. [Cui-Mama-Stiftung](https://www.tmm.org.tw/), _Untersuchungsbericht zur aktuellen Lage des Mietmarkts_, 2024
+12. [Allianz zur Förderung sozialen Wohnbaus](https://socialhousingtw.blogspot.com/), _Politikempfehlungen zum sozialen Wohnbau_, 2023
