@@ -332,6 +332,17 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-10-02 semiont-heartbeat — patrol-sampling-ignores-featured-exposure：巡邏抽樣把譯本數當放大係數，卻沒把 featured 算進去，而 featured 未審初稿是曝光最高的那一層
+
+- **pattern**: patrol-sampling-ignores-featured-exposure
+- **原則**：月度巡邏的抽樣母體用「出生最早 × 譯本最多」排序，理由是譯本數放大錯誤的曝光。`featured: true` 是同一種放大係數（站上精選位、分類頁前排），但抽樣指令完全不看它。三月初稿幾乎全是 12 語譯本，譯本數在這一層全部打平，真正分得開曝光的是 featured，排序卻落到路徑字串的順序。
+- **觸發**：2026-10-02 02:43 semiont-heartbeat 巡邏第三十三到三十五篇，三篇都是 03-18、12 語，其中兩篇 featured（〈社會運動與公民參與〉26%、〈台灣5G網路建設與數位轉型〉56%，後者是本輪錯誤率最高的一篇，十幾個精確到個位百分比的「成果」統計全網查無）。量母體：558 篇未審未走產線，featured 65 篇；04-01 前出生 174 篇裡 featured 42 篇。更早的巡邏也一再撞到 featured 初稿（ARTICLE-INBOX〈城市特色與區域文化〉「featured 的城市總覽」、〈台灣海洋保育與挑戰〉「featured 的海洋保育文」）。→ memory/2026-10-02-024346-semiont-heartbeat.md
+- **instances**：
+- **候選機械化**：FACTCHECK §月度巡邏抽樣指令的排序鍵從 `(date, -譯本數, 檔名)` 改成 `(date, -譯本數, -featured, 檔名)`；改之前先用真實輸出看前十名換成誰（REFLEXES #66）。`attribution-risk-audit.py` 已把 featured 當 +12 分的放大項，兩支工具對「曝光」的定義應對齊（#83 兩把尺）。
+- **可能層級**：操作規則（FACTCHECK-PIPELINE §月度巡邏抽樣母體）
+- **相關**：MEMORY §神經迴路「巴別塔會把三月未審初稿裡的幻覺放大到十二語」（同一個放大論證，本條補上譯本數之外的第二個係數）；10-01 `homepage-citation-passes-format-and-reachability-gates` 也提了抽樣第二排序鍵，兩條該一起決定
+- **verification_count**: 1
+
 ### 2026-10-02 twmd-babel-nightly — patch-eligibility-measures-chapter-size-not-change-size：補丁資格量的是「被碰到的章節有多大」，不是「改了多少」，於是事實巡邏的每一次小修都觸發整篇重翻
 
 - **pattern**: patch-eligibility-measures-chapter-size-not-change-size
