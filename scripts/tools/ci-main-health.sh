@@ -136,7 +136,7 @@ while IFS=$'\t' read -r wid wname wpath; do
     --jq '[.workflow_runs[]
            | select(.event != "pull_request" and .event != "pull_request_target")]
           | sort_by(.created_at) | last
-          | "\(.conclusion // .status)\t\(.created_at)\t\(.html_url)"' 2>/dev/null)
+          | "\(.conclusion // .status)\t\(.created_at)\t\(.html_url)\t\(.id)\t\(.head_sha)"' 2>/dev/null)
 
   if [ -z "$run" ] || [ "${run%%$'\t'*}" = "null" ]; then
     if [ "$(main_eligible "$wpath")" = "yes" ]; then
@@ -149,10 +149,7 @@ while IFS=$'\t' read -r wid wname wpath; do
     continue
   fi
 
-  concl="${run%%$'\t'*}"
-  rest="${run#*$'\t'}"
-  created="${rest%%$'\t'*}"
-  url="${rest#*$'\t'}"
+  IFS=$'\t' read -r concl created url runid headsha <<<"$run"
 
   age=$(python3 -c "
 import datetime,sys
@@ -184,7 +181,15 @@ print(f'{h:.0f}h' if h < 48 else f'{h/24:.1f}d')
   esac
 
   printf '  %s %-9s %-26s %s\n' "$state" "$age" "$wname" "$wpath"
-  [ "$state" = "RED            " ] && printf '      ↳ %s (%s)\n' "$url" "$concl"
+  # 每一列都印它的讀數是從哪一筆執行算出來的（2026-10-01 twmd-maintainer-am）。
+  # 原本只有 RED 那列印 URL，於是 GREEN 的「齡」沒有任何可回頭核對的錨：09-30
+  # 那班同一支指令在兩分鐘內對同一次 deploy 執行報 22.0d 與 1h，兩次都印綠燈，
+  # 而當時無法判斷它們是不是同一筆（LESSONS `ci-health-ruler-gave-two-different-
+  # ages-for-the-same-run-and-both-printed-green`）。齡是推導值，created_at 與
+  # run id 是原始資料——印出原始資料，下一個人才驗得動這個數字（REFLEXES #69
+  # 外部尺／#85「不知道」要有自己的符號：這裡是「這個數字從哪來」要留得住）。
+  printf '      ↳ run %s  created %s  sha %s\n' "$runid" "$created" "${headsha:0:9}"
+  [ "$state" = "RED            " ] && printf '        %s (%s)\n' "$url" "$concl"
 done < <(gh api "repos/$REPO/actions/workflows?per_page=100" \
   --jq '.workflows[] | select(.state=="active") | select(.path | startswith(".github/")) | "\(.id)\t\(.name)\t\(.path)"' 2>/dev/null)
 

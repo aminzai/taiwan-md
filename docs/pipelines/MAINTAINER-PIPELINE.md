@@ -3,9 +3,9 @@ title: 'MAINTAINER-PIPELINE'
 description: '日常維護者主流程 canonical — 4 stage 線性 / Step N.M 編號 / Default-action principle / Issue 要修不是要分類 / Git merge 優先 (merge-first-then-heal，P1 push-to-branch 是格式債 default) / Draft PR 處置 / §collect-and-merge / §collect-and-merge / §Close 前 hard gate / §雙向校正 / §[Content] issue digest sub-flow'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v2.14'
-last_updated: 2026-09-27
-last_session: '2026-09-27-083000-twmd-maintainer-am（Step 1.5 從可貼指令改成 ci-main-health.sh 儀器，八小時窗的盲點）'
+current_version: 'v2.15'
+last_updated: 2026-10-01
+last_session: '2026-10-01-twmd-maintainer-am（Step 4.1 斷鏈 audit 改走 npm run sync:build 繞開 prebuild 的共用檔競用；canonical 14 類清單更正）'
 sister_docs:
   - 'CONTRIBUTOR-SYSTEM-PIPELINE.md'
   - 'EVOLVE-PIPELINE.md'
@@ -952,23 +952,23 @@ gh pr merge N --squash --delete-branch
 
 #### Quick fix 清單（看到這些不 close、改 polish）
 
-| Pattern                                                               | 工具 / 修法                                                                                                                                                                               |
-| --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `author: 'Manus AI' / 'ChatGPT' / 'Claude' / 'Semiont' / 'Taiwan.md'` | 1 行改 `'Taiwan.md Contributors'`                                                                                                                                                         |
-| `featured: true` 在 `lastHumanReview: false`                          | 1 行改 false                                                                                                                                                                              |
-| `readingTime` 誇大                                                    | 1 行修正                                                                                                                                                                                  |
-| Footnote 多源格式（APA / 中文〈〉/ 缺 desc / angle-bracket）          | `python3 scripts/tools/footnote-format-fix.py --apply`                                                                                                                                    |
-| vague non-citation（「可參考相關文獻」）                              | 補一個維基或泛科學 source                                                                                                                                                                 |
-| §11 對位句型 / 破折號超標                                             | `python3 scripts/tools/article-health.py <file> --profile=ci-deploy`（**不可省 profile**：破折號 >15／全形分號 >12 的硬門檻只掛在 ci-deploy，`--check=prose-health` 單跑會漏報成 hard=0） |
-| 缺 `## 參考資料` / `## 延伸閱讀`                                      | append                                                                                                                                                                                    |
-| Path 錯位（檔案在 root 不在分類資料夾）                               | `git mv`                                                                                                                                                                                  |
-| frontmatter category vs path mismatch                                 | `git mv` 或改 frontmatter（canonical 14 類，per [SUBCATEGORY.md](../taxonomy/SUBCATEGORY.md)）                                                                                            |
-| 「參考來源」/「參考」非 canonical                                     | 改「參考資料」                                                                                                                                                                            |
-| Broken `[[wikilink]]` 目標不存在                                      | 純文字（per neural circuit「目標 article 無 → 轉純文字」）                                                                                                                                |
-| 列表中 `- [[X]] — desc`（Astro 不渲染）                               | `- [X](/category/slug) — desc` 或純文字                                                                                                                                                   |
-| frontmatter 重複 `---`                                                | 刪多餘那行                                                                                                                                                                                |
-| tags 未 quote 純數字 `[2025, ...]`                                    | `['2025', ...]`                                                                                                                                                                           |
-| 阿翰式 placeholder「（此位置放...）」「TODO: 補...」                  | 根據 body 寫一段補上                                                                                                                                                                      |
+| Pattern                                                               | 工具 / 修法                                                                                                                                                                                             |
+| --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `author: 'Manus AI' / 'ChatGPT' / 'Claude' / 'Semiont' / 'Taiwan.md'` | 1 行改 `'Taiwan.md Contributors'`                                                                                                                                                                       |
+| `featured: true` 在 `lastHumanReview: false`                          | 1 行改 false                                                                                                                                                                                            |
+| `readingTime` 誇大                                                    | 1 行修正                                                                                                                                                                                                |
+| Footnote 多源格式（APA / 中文〈〉/ 缺 desc / angle-bracket）          | `python3 scripts/tools/footnote-format-fix.py --apply`                                                                                                                                                  |
+| vague non-citation（「可參考相關文獻」）                              | 補一個維基或泛科學 source                                                                                                                                                                               |
+| §11 對位句型 / 破折號超標                                             | `python3 scripts/tools/article-health.py <file> --profile=ci-deploy`（**不可省 profile**：破折號 >15／全形分號 >12 的硬門檻只掛在 ci-deploy，`--check=prose-health` 單跑會漏報成 hard=0）               |
+| 缺 `## 參考資料` / `## 延伸閱讀`                                      | append                                                                                                                                                                                                  |
+| Path 錯位（檔案在 root 不在分類資料夾）                               | `git mv`                                                                                                                                                                                                |
+| frontmatter category vs path mismatch                                 | `git mv` 或改 frontmatter（canonical 14 類以 [`categoryConfig.ts`](../../src/utils/categoryConfig.ts) 的 key 為準，見 Step 3.4 紅旗 8；sub-category 才看 [SUBCATEGORY.md](../taxonomy/SUBCATEGORY.md)） |
+| 「參考來源」/「參考」非 canonical                                     | 改「參考資料」                                                                                                                                                                                          |
+| Broken `[[wikilink]]` 目標不存在                                      | 純文字（per neural circuit「目標 article 無 → 轉純文字」）                                                                                                                                              |
+| 列表中 `- [[X]] — desc`（Astro 不渲染）                               | `- [X](/category/slug) — desc` 或純文字                                                                                                                                                                 |
+| frontmatter 重複 `---`                                                | 刪多餘那行                                                                                                                                                                                              |
+| tags 未 quote 純數字 `[2025, ...]`                                    | `['2025', ...]`                                                                                                                                                                                         |
+| 阿翰式 placeholder「（此位置放...）」「TODO: 補...」                  | 根據 body 寫一段補上                                                                                                                                                                                    |
 
 **Heal commit budget 校準**（per LESSONS-INBOX 2026-05-03 magical-feynman）：batch heal 階段成本被系統性低估（β-r3 反鏡像）。實測 idlccp1984 9 PR batch heal 階段佔總時長 ~50%（25/50 min）。**Batch discount 0.5x 不適用 heal 階段** — 預留 ≥ 30 min budget 跑 hook 多輪 retry。footnote-format-fix.py 吸收 80%，剩 wikilink + frontmatter + URL 邊界 case 仍需人工。
 
@@ -1069,7 +1069,7 @@ WebFetch URL → 驗證該 URL 是否真的提到 footnote 旁邊的 claim。若
 5. `author: 'Manus AI' / 'ChatGPT' / 'Claude'` → 1 行改 `'Taiwan.md Contributors'`
 6. `featured: true` 設在 `lastHumanReview: false` 文章 → 1 行改 false
 7. `author` 偽造 `'Taiwan.md' / 'Taiwan.md Contributors' / 'Semiont'` → 改 `'Taiwan.md Contributors'`
-8. frontmatter `category` ≠ 檔案路徑分類 → `git mv` 對齊 path 或改 frontmatter（canonical 14 類：About / Art / Culture / Economy / Food / Geography / History / Language / Lifestyle / Music / Nature / People / Society / Technology）
+8. frontmatter `category` ≠ 檔案路徑分類 → `git mv` 對齊 path 或改 frontmatter。**canonical 14 類**（2026-10-01 對 `knowledge/` 目錄與 [`src/utils/categoryConfig.ts`](../../src/utils/categoryConfig.ts) 兩邊核對過）：About / Art / Culture / Economy / Food / Geography / History / Lifestyle / Music / Nature / People / **Politics** / Society / Technology。⚠️ 這份清單在此之前寫了 `Language`（`knowledge/` 從來沒有這個目錄）而漏掉 `Politics`（實際 18 篇），09-30 那班靠 `categoryConfig.ts` 對照才沒誤判 #1781 的分類。要查分類時以 `categoryConfig.ts` 的 key 為準，它是版面實際讀的那一份；[SUBCATEGORY.md](../taxonomy/SUBCATEGORY.md) 管的是 sub-category，它的對照表只涵蓋 12 個主題（不含 About 與 Politics），不是 category 清單的 SSOT
 
 紅旗 9-13（**內容/來源層**，2026-06-01 idlccp1984 8-PR batch 系統化；對照 2026-04-28 κ Manus 5-PR 為 frontmatter 層前次 instance）。這層 frontmatter 全乾淨但內文事實/來源有問題，**逐篇 FACTCHECK 才抓得到**：
 
@@ -1411,6 +1411,21 @@ git push origin main
 >
 > 「明確判斷不修」是合法的通過條件，但理由要寫進 memory；**沉默地沒修不算**。
 
+#### 斷鏈 audit 要 fresh dist：用 `npm run sync:build`，不要用 `npm run build`（v2.15，2026-10-01）
+
+`verify_internal_links.py` 量的是**跑完的 `dist/`**，dist 超過 24 小時它會 fail-loud 回 `STALE … 這不是通過`（正確行為，不要用 `BROKEN_LINK_MAX_DIST_AGE_HOURS` 蓋過去）。而這個席位每天醒來時 babel dispatcher 通常是常駐的，所以 09-28〜09-30 連三輪把這道閘門 skip 掉，理由寫成「build 會撞 babel 的共用檔」。
+
+**那個理由只對 `npm run build` 成立。** 競用來自 npm 的 `prebuild` 生命週期（`prebuild:status` → `status.py` + `sync-translations-json.py`，寫的正是 babel 在寫的 `knowledge/_translation-status.json`，REFLEXES #40 共用檔 race）。`astro build` 本身不碰那個檔。
+
+```bash
+npm run sync:build    # = sync.sh && astro build，不觸發任何 pre/post hook
+python3 scripts/tools/verify_internal_links.py
+```
+
+`sync.sh` 只寫 `src/content/{lang}`（gitignored 的投影層），`dist/` 也是 gitignored，所以這條路跟 babel 零碰撞，**不需要等一個沒有寫入者的空檔**。2026-10-01 在三個 worker 與 `babel-push-every --watch` 都在跑的情況下實測過。代價是這條路不會重算 `public/api/*` 與 `src/data/*`（那些由 `twmd-data-refresh-am` 每天 06:00 產出，斷鏈比對不需要它們是本班現算的）。
+
+⚠️ **build 還在跑的時候不要讀那支尺**：半成品 dist 的 mtime 是「現在」，24 小時的 staleness guard 會放行，而 total 會崩到個位數——10-01 本班在 build 開始一分鐘後讀到 `total: 1 broken: 1 ratio: 100.00% FAILED`，救下它的只是 100% 違反常識。先確認 `pgrep -f 'astro build'` 沒有東西，再讀。LESSONS `freshness-guard-reads-a-half-built-artifact-as-maximally-fresh`。
+
 ### Step 4.2: LESSONS-INBOX append（if new pattern）
 
 當 cycle 出現以下訊號 → append [LESSONS-INBOX.md §未消化清單](../semiont/LESSONS-INBOX.md)：
@@ -1578,6 +1593,7 @@ _v2.0 | 2026-05-11 twmd-maintainer-pm-211549-v2-spine — Stage spine restoratio
 
 _最近 milestone（完整 changelog → `git log docs/pipelines/MAINTAINER-PIPELINE.md`）_：
 
+- **v2.15**（2026-10-01 twmd-maintainer-am）— Step 4.1 補〈斷鏈 audit 要 fresh dist〉：連三輪 skip 的理由「build 會撞 babel 共用檔」只對 `npm run build` 成立，競用來自 `prebuild:status`，改走 `npm run sync:build`（無 pre/post hook）在 babel 滿載時實測零碰撞；同時補「build 還在跑時別讀那支尺」（半成品 dist 的 mtime 是現在，staleness guard 放行而分母崩成 1）。另更正 Step 3.4 紅旗 8 的 canonical 14 類清單：原列 `Language`（無此目錄）、漏 `Politics`（18 篇），改以 `categoryConfig.ts` 的 key 為準
 - **v2.14**（2026-09-27 twmd-maintainer-am）— Step 1.5 從可貼指令改成 [`ci-main-health.sh`](../../scripts/tools/ci-main-health.sh) 儀器：09-03 的 group-by 全表只涵蓋最近 100 筆 run，實測 8.3 小時，冷門 workflow 紅完就滑出窗；改成逐條問 workflow 自己的 runs endpoint。新尺首跑抽驗抓到自己兩個假陽性（fork PR 的 head branch 叫 main／`push: tags` 不是分支觸發），修完再過正控制
 - **v2.13**（2026-09-27 twmd-distill-weekly）— Step 3.5 補「commit 跑的是 pre-commit 那把 profile」，heal 完兩把都跑（LESSONS `prescribed-profile-is-not-the-gate-profile` → REFLEXES #100）
 - **v2.12**（2026-09-19 分岔合併）— Step 1.1b 分岔當班修（策略 B 12 步 + `merge-divergence.py`），「撞 conflict → abort」廢止

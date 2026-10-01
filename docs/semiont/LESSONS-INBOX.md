@@ -332,6 +332,17 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-10-01 twmd-maintainer-am — freshness-guard-reads-a-half-built-artifact-as-maximally-fresh：擋得住舊產物的閘門擋不住正在長出來的產物，而後者的時間戳是「現在」
+
+- **pattern**: freshness-guard-reads-a-half-built-artifact-as-maximally-fresh
+- **原則**：對產物設年齡上限的閘門回答的是「這份東西有多舊」，同時**無聲地把「它完整嗎」一律回答成是**。而兩種不可信的產物在這把尺底下站在相反的極端：過期的那份會被擋下，**正在被寫的那份是最新鮮的**。更糟的是比率型指標在分母崩掉時不會沉默——它會用同一種格式印出一個很有信心的結論。
+- **觸發**：2026-10-01 本班為了拿斷鏈 audit 的真讀數，在背景起 `npm run sync:build`，約一分鐘後跑 `verify_internal_links.py`。dist 的 mtime 是當下，24 小時的 staleness guard 因此放行，而輸出是 `zh-TW total: 1 broken: 1 ratio: 100.00%` 與 `FAILED — gated broken ratio 100.00% >= 7.0%`。當時 dist 只有 29 個 HTML（完整 build 是 13,000+），唯一那條「死連結」是 `/people/吳哲宇/`，一個在完整 build 裡存在的頁面。**救下它的只是 100% 違反常識**；如果那個分母剛好是幾百、ratio 剛好落在 7% 附近，這個讀數會被直接寫進收官表。前一輪（09-30）同一道閘門正確地因為 `STALE 72.3h` 擋下，所以這把尺不是壞的——它只量了兩種失效模式的其中一種。
+- **我自己的那一半**：這同時是 REFLEXES #99「尺先驗再用」的一次自體命中——我在輸入還沒就緒時就讀了儀器，而且是我自己剛剛啟動那個輸入的。工具沒有義務知道我手上有一個還在跑的 build，我有。
+- **候選機械化**：(a) 算比率之前先對 dist 的完整性斷言，用可推導的 ground truth 而不是憑感覺的數字——sitemap 的條目數、或 `knowledge/` 文章數 × enabled 語言數，對不上就印 INDETERMINATE 不印 FAILED；(b) 偵測到 `astro build` 正在跑（process 或 dist 內的 build 標記）就照 staleness 那條分支一樣 abort，這條不需要任何新門檻，最便宜；(c) 分母低於下限時拒絕跟門檻比較——這是在品質閘門上設一個新數字，屬 BECOME High-stake #3，要 Full mode 或哲宇，本班刻意不自己設。
+- **相關**：REFLEXES #38（混維度——「夠新」同時承載「建好了」與「正在建」；#38 (g) 零維度變體在這裡的形狀是分母 1 的比率）、#99（尺先驗再用）、#24（工具在說謊）、#82（proxy signal：mtime 是完整性的替身）
+- **verification_count**: 1
+- **structural**: true
+
 ### 2026-10-01 twmd-babel-nightly — gate-rejects-what-the-prompt-never-taught：閘門擋得住的規則，要在產出端說出口，否則重試只是重抽同一個錯
 
 - **pattern**: gate-rejects-what-the-prompt-never-taught
@@ -392,6 +403,8 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
   - 2026-09-28 twmd-maintainer-am — `.git/gc.log` prune 需要無寫入者的窗
   - 2026-09-30 twmd-maintainer-am — 斷鏈 audit 需要 fresh dist，而 build 會撞 babel 的共用檔
 - **可能層級**：通用反射候選（vc=2）。修法方向是**排程**而非自律：(a) 把這類需要靜默窗的動作掛在 babel 收工那一刻（dispatcher 自己知道何時佇列空），(b) 或給它們一條獨立 routine，前置條件寫明「`check-parallel-actor` 回 IDLE 才跑，否則不是 skip 而是重排」，(c) 而不是繼續由每天固定時間醒來的席位嘗試。
+- **⚠️ 2026-10-01 本條前提被部分推翻（斷鏈 audit 那一半）**：這條把「取不到空檔」寫成席位的結構屬性，而斷鏈 audit 其實有一條不需要空檔的路——**競用來自 `prebuild` 那串步驟，不是來自 `astro build`**。`npm run build` 會觸發 npm 的 `prebuild` 生命週期（內含 `prebuild:status` → `status.py` + `sync-translations-json.py`，寫的正是 babel 在寫的 `knowledge/_translation-status.json`），但 `npm run sync:build`（= `sync.sh && astro build`）**不掛任何 pre/post hook**，而 `sync.sh` 只寫 `src/content/{lang}`（gitignored 的投影層）、`dist/` 也是 gitignored。10-01 本班在 babel dispatcher 常駐、`babel-push-every --watch` 在跑的情況下照跑，拿到真讀數，兩邊零碰撞。**所以那兩個 instance 的性質不同**：`.git/gc.log`／`git prune` 那一半仍然成立（物件寫入期間 prune 本質不安全），斷鏈 audit 那一半不是拓樸問題，是**沒有人問過這條路是不是只有一種走法**。distill 時應該把這條拆成兩條，不要讓成立的那一半替不成立的那一半背書。
+- **這一半的真正所屬**：LESSONS `declared-unmeasurable-without-inventorying-the-tools`（2026-09-03，「宣告量不到之前先盤點這台機器上還有沒有別的尺」）——本例是它在**指令路徑**這一層的變體：不是盤點工具，是盤點同一個工具的不同入口。已在那條 bump vc=2。
 - **相關**：REFLEXES #97（交接面完整性——本例是「送對了人，那個人結構上做不到」）、#40（共用檔寫入 race）、#35（跨 session work 期間禁 destructive ops）、#70（routine fragility surface 分類）；LESSONS `suppressed-warning-recurs-because-its-fix-needs-a-window-no-routine-has`（09-28，本條的第一例，可一起 distill）
 - **verification_count**: 2
 - **distill_ready**: true
@@ -403,7 +416,7 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **觸發**：2026-09-30 本班 Stage 1.5 第一次跑 `ci-main-health.sh`，`Deploy to GitHub Pages` 報 `GREEN 22.0d`——而 babel 每小時 commit、deploy 跟著跑，22 天顯然不對。手動重跑同一條 `gh api` 查詢拿到的是 `2026-09-29T23:24:25Z`（約 1 小時前），逐步重算年齡也是 `1h`。數分鐘後再跑兩次工具，兩次都印 `GREEN 1h`。**同一支指令、同一次目標執行、兩分鐘內兩個相差 22 天的讀數，而兩次都是綠燈**，所以如果第一次的讀數沒有剛好違反常識（22 天對一個每小時部署的站），它會被直接寫進交接。最可能的成因是 `actions/runs` endpoint 的最終一致性偶爾回舊頁，`sort_by(.created_at)|last` 於是選到舊執行；未能穩定重現，所以成因仍是未知。
 - **未解**：沒有重現路徑，無法確認是 API 回舊頁還是工具的取數有其他分支。
 - **可能層級**：操作規則（低成本止血）＋ REFLEXES #85（「不知道」要有自己的符號）的新載體。
-- **候選機械化**：(a) 每一列都印它取到的那次執行的 URL 或 sha，不只 RED 那列印——讓「年齡」可被回頭核對，成本是一欄寬度；(b) 對宣稱 `push` 會在 main 跑、且 repo 近 24hr 有 push 的 workflow，年齡超過某個倍數就自己標 ⚠️ 而不是照印綠燈（門檻要用真實產出校準，per REFLEXES #66）。
+- **候選機械化**：(a) ~~每一列都印它取到的那次執行的 URL 或 sha，不只 RED 那列印~~ → **已落地 2026-10-01 twmd-maintainer-am**：`ci-main-health.sh` 每一列現在都跟一行 `↳ run <id>  created <ISO>  sha <9>`，印的是原始 `created_at` 與 run id（年齡是推導值，原始資料才驗得動）；RED 仍額外印 URL 與 conclusion。成因（API 回舊頁）仍未重現，所以這是「可回頭核對」那一半，不是根治；(b) 對宣稱 `push` 會在 main 跑、且 repo 近 24hr 有 push 的 workflow，年齡超過某個倍數就自己標 ⚠️ 而不是照印綠燈（門檻要用真實產出校準，per REFLEXES #66）。
 - **相關**：REFLEXES #99（尺先驗再用——這支尺 09-27 首跑抽驗抓到自己兩個假陽性，本條是第三個，且是唯一一個不穩定而非系統性的）、#24（工具在說謊）、#85、#82
 - **verification_count**: 1
 
@@ -823,7 +836,12 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - (b) ANATOMY §資源地圖 新增一格「驗證引擎」：playwright chromium（真實引擎，支援完整 CSS 與捲動）／Browser pane（內嵌，已知不實作 `0fr→1fr`、無法捲動）／iOS Simulator，各自能做什麼、什麼時候該用哪個。
 - (c) MAINTAINER §Step 3.6「修完必驗證」旁補一句：UI 驗證優先用 playwright 對本機 build 跑，Browser pane 用於需要人眼看的場合。
 
-**verification_count**: 1
+**verification_count**: 2
+
+**instances**：
+
+- 2026-09-03 twmd-maintainer-am — 宣告「要真手機」而同一台機器的 devDependencies 早有 playwright
+- 2026-10-01 twmd-maintainer-am — 宣告「這個席位取不到靜默窗」（LESSONS `maintainer-seat-cannot-obtain-a-quiet-window-so-window-dependent-gates-never-run`），而同一份 build 有一個不觸發 `prebuild` 的入口（`npm run sync:build`），競用的共用檔從頭到尾不在 `astro build` 的路徑上。**第一例盤點的是工具，第二例盤點的是同一個工具的不同入口**——「量不到」的宣告在兩層都需要先盤點
 
 **對應**：[REFLEXES #73](REFLEXES.md)（查證反射 < 建造反射，本條是工具庫層）／[REFLEXES #16](REFLEXES.md)（環境代表性）／[REFLEXES #24](REFLEXES.md)（工具在說謊）／LESSONS `verification-tool-lacks-the-feature-it-must-verify`（2026-09-02，本條是它的更正）。
 
