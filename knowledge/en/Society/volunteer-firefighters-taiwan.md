@@ -165,7 +165,7 @@ Taiwan's fire safety is therefore not just a story of a national agency, but als
 
 - [921 Jiji Earthquake](/history/九二一集集地震) — How the disaster changed Taiwan's disaster prevention system and collective memory.
 - [Social Movements and Civic Participation](/en/society/social-movements-and-civic-participation) — Understanding Taiwan's public participation through volunteer service.
-- [Taiwan Urban Development and Urban-Rural Gap](/en/society/taiwan-urban-development-and-rural-urban-divide) — How local resource disparities affect disaster response.
+- [Taiwan Urban Development and Urban-Rural Gap](/en/geography/taiwan-urban-development-and-rural-urban-divide) — How local resource disparities affect disaster response.
 
 ## Image Sources
 

@@ -128,7 +128,7 @@ Of course, that moment did not know what it was doing. Great accidents are never
 
 - [Taiwan Food Overview](/en/food/taiwan-food-overview) — A panoramic map from indigenous people to Michelin: the place of bubble tea in four centuries of mixed palates
 - [Taiwan Handcrafted Drink Culture](/en/food/hand-shaken-drink-culture) — The expansion history of brands like 50 Lan, Gong Cha, and CoCo into over 40 countries
-- [Tea Culture](/en/culture/golden-age-echoes-taiwan-tea-culture) — From Todd's Oolong Tea in 1865 to today's high mountain teas, the legend of Taiwanese tea quality
+- [Tea Culture](/en/food/golden-age-echoes-taiwan-tea-culture) — From Todd's Oolong Tea in 1865 to today's high mountain teas, the legend of Taiwanese tea quality
 
 ## Image Sources
 

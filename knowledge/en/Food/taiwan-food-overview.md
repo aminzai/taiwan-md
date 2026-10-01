@@ -266,7 +266,7 @@ No dish is purely Taiwanese. Every dish is Taiwanese to the core.
 
 - [Bubble Tea](/en/food/bubble-tea) — One afternoon at Chun Shui Tang in 1986 changed the world’s beverage map
 - [Taiwanese Hand-Shaken Drink Culture](/en/food/hand-shaken-drink-culture) — 50 Lan, Gong Cha, and CoCo expanding to more than 40 countries
-- [Tea Culture](/en/culture/golden-age-echoes-taiwan-tea-culture) — From John Dodd’s oolong tea in 1865 to today’s Alishan high-mountain tea
+- [Tea Culture](/en/food/golden-age-echoes-taiwan-tea-culture) — From John Dodd’s oolong tea in 1865 to today’s Alishan high-mountain tea
 
 **Ritual and Refinement**:
 

@@ -118,7 +118,7 @@ Feng Da Coffee's wooden door is still open. Push it open and you drink not just 
 
 - [Taiwan Convenience Store Culture](/en/lifestyle/convenience-store-culture) — why City Café succeeded is inseparable from convenience stores as Taiwan's life infrastructure
 - [Taiwan Hand-Shaken Drink Culture](/en/food/hand-shaken-drink-culture) — coffee's counterpart: Taiwan invented bubble tea and conquered the world with hand-shaken drinks
-- [Taiwan Tea Culture](/en/culture/golden-age-echoes-taiwan-tea-culture) — before coffee, Taiwanese people drank tea for four hundred years
+- [Taiwan Tea Culture](/en/food/golden-age-echoes-taiwan-tea-culture) — before coffee, Taiwanese people drank tea for four hundred years
 
 ## References
 

@@ -135,7 +135,7 @@ Through tasting Hakka food, we can not only enjoy the satisfaction of taste, but
 ## Extended Reading
 
 - [Taiwan Fermented Foods and Pickling Culture](/en/food/taiwan-fermented-and-pickled-foods): The science and culture of Taiwan's pickled foods
-- [Tea Culture](/en/culture/golden-age-echoes-taiwan-tea-culture): The development context of Taiwan's tea culture
+- [Tea Culture](/en/food/golden-age-echoes-taiwan-tea-culture): The development context of Taiwan's tea culture
 - [Taiwan Snacks](/en/food/taiwanese-street-food): Taiwan's diverse snack culture
 
 ## Image Source

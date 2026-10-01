@@ -218,3 +218,10 @@
 /pt/society/2026 /pt/society/2026-advanced-subjects-test-controversy 301
 /ru/society/2026 /ru/society/2026-advanced-subjects-test-controversy 301
 /vi/society/2026 /vi/society/2026-advanced-subjects-test-controversy 301
+
+# 2026-10-01 semiont-heartbeat：五篇譯文放在跟中文原文不同的分類目錄，搬回原位（frontmatter category 本來就對，錯的是路徑）
+/en/art/taiwan-digital-animation-industry /en/technology/taiwan-digital-animation-industry 301
+/es/art/taiwan-digital-animation-industry /es/technology/taiwan-digital-animation-industry 301
+/en/culture/golden-age-echoes-taiwan-tea-culture /en/food/golden-age-echoes-taiwan-tea-culture 301
+/en/culture/urban-character-and-regional-culture /en/geography/urban-character-and-regional-culture 301
+/en/society/taiwan-urban-development-and-rural-urban-divide /en/geography/taiwan-urban-development-and-rural-urban-divide 301

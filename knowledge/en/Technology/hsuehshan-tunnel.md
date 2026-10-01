@@ -122,7 +122,7 @@ When passing through the Snow Tunnel, please slow down and respect traffic rules
 ## Further Reading
 
 - [Taiwan Transportation System](/en/lifestyle/transportation-system) — Understand the transportation significance of the Snow Tunnel from highways, railways, and public transport networks.
-- [Taiwan Urban Development and Urban-Rural Gap](/en/society/taiwan-urban-development-and-rural-urban-divide) — Further reading on how transportation infrastructure changes local development and population flow.
+- [Taiwan Urban Development and Urban-Rural Gap](/en/geography/taiwan-urban-development-and-rural-urban-divide) — Further reading on how transportation infrastructure changes local development and population flow.
 - [Expressways](/en/lifestyle/national-highway-system) — The Snow Mountain Tunnel is just a segment of Taiwan's 50-year national highway history; this article calculates the cost behind every "a little faster" from the Mai-Shen Highway to National Highway No. 7.
 
 ## References

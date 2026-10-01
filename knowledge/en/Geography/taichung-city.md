@@ -250,7 +250,7 @@ Next time you pass through Taichung, don't just hit the sun-cake shops and Fengj
 
 - [Taiwan Administrative Divisions](/en/geography/administrative-divisions-of-taiwan) — Complete institutional evolution: 1887 Taiwan Prefecture established in Taichung, 1920 Taichung Prefecture established, 1945 county-city separation, 2010 county-city merger and upgrade to special municipality
 
-- [Urban Characteristics and Regional Culture](/en/culture/urban-character-and-regional-culture) — Taichung as central Taiwan living circle hub: cross-county comparative context
+- [Urban Characteristics and Regional Culture](/en/geography/urban-character-and-regional-culture) — Taichung as central Taiwan living circle hub: cross-county comparative context
 
 ## Image Sources
 

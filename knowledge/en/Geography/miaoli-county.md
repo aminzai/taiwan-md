@@ -214,7 +214,7 @@ Stubbornness is this: you do not leave the land. Even if suffocating things have
 - [Keelung City](/en/geography/keelung-city) — A sibling in the same batch of the 22 counties and cities series, another county-level city left behind by historical turns
 - [Hsinchu County](/en/geography/hsinchu-county) — Batch 2 of the 22 counties and cities series; the county with the highest Hakka share, 67.8%, placed alongside Miaoli’s “Hakka character” as another Hakka experience: TSMC’s Baoshan Phase II beside yimin faith
 - [Taiwan’s Administrative Divisions](/en/geography/administrative-divisions-of-taiwan) — Administrative history from Miaoli’s establishment as a county in 1889, postwar reorganization in 1950, and Toufen’s upgrade in 2015
-- [Taiwan’s Urban Development and Urban-Rural Divide](/en/society/taiwan-urban-development-and-rural-urban-divide) — A larger-scale view of Miaoli’s position in Taiwan’s urban-rural structure as an inland Hakka county with population outflow
+- [Taiwan’s Urban Development and Urban-Rural Divide](/en/geography/taiwan-urban-development-and-rural-urban-divide) — A larger-scale view of Miaoli’s position in Taiwan’s urban-rural structure as an inland Hakka county with population outflow
 
 ## Image Sources
 

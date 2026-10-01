@@ -190,9 +190,9 @@ Next time you go to Keelung, don't just visit Miaokou. Try leaving Taipei at 3:3
 
 ## Further Reading
 
-- [Taiwan Urban Development and Urban-Rural Disparities](/en/society/taiwan-urban-development-and-rural-urban-divide) — Keelung's position as a "declining port city" within Taiwan's broader urban structure
+- [Taiwan Urban Development and Urban-Rural Disparities](/en/geography/taiwan-urban-development-and-rural-urban-divide) — Keelung's position as a "declining port city" within Taiwan's broader urban structure
 - [Taiwan Administrative Divisions](/en/geography/administrative-divisions-of-taiwan) — The administrative evolution: Shen Baozhen's renaming in 1875, upgrade to city status in 1924, reclassification as a provincial city in 1945
-- [Urban Characteristics and Regional Culture](/en/culture/urban-character-and-regional-culture) — Keelung in comparative context with other counties and cities
+- [Urban Characteristics and Regional Culture](/en/geography/urban-character-and-regional-culture) — Keelung in comparative context with other counties and cities
 - [Jinguashi](/en/geography/jinguashi) — Keelung Port's largest hinterland industry: in 1932, the Shuiandong tramway carried gold to Zhengbin Fishing Port for shipment to Japan
 - [Yehliu](/en/geography/yehliu-geopark) — Part of the same North Coast geological landscape belt
 - [Taiwan Coastal Terrain and Marine Landscapes](/en/geography/taiwan-coastal-landforms-and-seascapes) — The formation of Keelung Islet and the Keelung Volcanic Group

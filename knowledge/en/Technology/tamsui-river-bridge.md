@@ -87,7 +87,7 @@ The completion of the Tamsui River Bridge marks an important milestone in Taiwan
 ## Further Reading
 
 - [Taiwan Transportation System](/en/lifestyle/transportation-system) — Placing the bridge back into the broader context of Taiwan's highways, bridges, and public transit.
-- [Taiwan Urban Development and the Urban-Rural Divide](/en/society/taiwan-urban-development-and-rural-urban-divide) — Understanding how major infrastructure projects reshape regional demographics and housing markets.
+- [Taiwan Urban Development and the Urban-Rural Divide](/en/geography/taiwan-urban-development-and-rural-urban-divide) — Understanding how major infrastructure projects reshape regional demographics and housing markets.
 
 ## References
 
