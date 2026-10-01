@@ -1,15 +1,15 @@
 ---
-title: 'Perumahan Sosial dan Keadilan Perumahan'
-description: 'Bagaimana Taiwan mewujudkan keadilan perumahan melalui kebijakan perumahan sosial, memastikan setiap orang memiliki tempat untuk hidup dengan bermartabat'
+title: 'Rumah Sosial dan Keadilan Tempat Tinggal'
+description: 'Bagaimana Taiwan mewujudkan keadilan tempat tinggal melalui kebijakan rumah sosial, sehingga setiap orang memiliki tempat yang layak untuk hidup dan berkembang'
 date: 2026-03-18
 category: 'Society'
 tags:
   [
-    'perumahan sosial',
-    'keadilan perumahan',
+    'rumah sosial',
+    'keadilan tempat tinggal',
     'kebijakan perumahan',
-    'pengurusan sewa-pemeliharaan',
-    'revitalisasi perkotaan',
+    'sewa kelola',
+    'perbaikan perkotaan',
   ]
 subcategory: '人權與平等'
 author: 'Taiwan.md'
@@ -18,305 +18,276 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Society/社會住宅與居住正義.md'
-sourceCommitSha: 'b19194bea'
-sourceContentHash: 'sha256:21ee8c77270d6c3e'
-sourceBodyHash: 'sha256:bafb3fe2db142763'
-translatedAt: '2026-09-09T15:32:33+08:00'
+sourceCommitSha: '5efc41d39'
+sourceContentHash: 'sha256:0989f07af63c2d2b'
+sourceBodyHash: 'sha256:911bf6acff0d4788'
+translatedAt: '2026-10-02T05:15:36+08:00'
 ---
 
-# Perumahan Sosial dan Keadilan Perumahan
+# Rumah Sosial dan Keadilan Tempat Tinggal
 
-Perumahan adalah kebutuhan dasar rakyat dan tanggung jawab penting pemerintah. Sejak 2016, Taiwan meluncurkan kebijakan "8 Tahun 200.000 Unit Perumahan Sosial", melalui jalur ganda konstruksi langsung dan pengurusan sewa-pemeliharaan (包租代管), berupaya mewujudkan "keadilan perumahan". Kebijakan ini mencoba merekonstruksi sifat perumahan, mengubahnya dari sekadar komoditas menjadi perlindungan hak hunian.
+## Ringkasan 30 Detik
 
-Pada akhir 2024, kebijakan telah menyelesaikan sekitar 213.000 unit, melampaui target 200.000 unit, namun harga rumah yang tinggi dan krisis penyewaan belum terselesaikan. Peran dan keterbatasan perumahan sosial tetap menjadi isu inti dalam debat kebijakan Taiwan.
+Tempat tinggal adalah kebutuhan dasar rakyat, serta tanggung jawab penting pemerintah. Sejak 2016, Taiwan mendorong kebijakan "8 Tahun 200.000 Rumah Sosial", melalui pembangunan langsung dan skema sewa kelola (_baozu daiguan_) berjalan beriringan, berupaya mewujudkan "keadilan tempat tinggal". Kebijakan ini mencoba merekonstruksi esensi perumahan, mengembangkannya dari sekadar komoditas menjadi jaminan hak tempat tinggal.
 
-Kata kunci: perumahan sosial, keadilan perumahan, pengurusan sewa-pemeliharaan, undang-undang perumahan, keamanan hunian pemuda, perumahan kelompok rentan
+Pemerintah pada akhir 2023 memperkirakan, pada akhir 2024 pembangunan langsung 120.000 unit ditambah kontrak sewa kelola efektif sekitar 94.000 unit, total sekitar 214.000 unit, tingkat pencapaian 107%. Namun harga rumah tinggi dan kesulitan menyewa tidak lenyap begitu saja, peran dan keterbatasan rumah sosial tetap menjadi isu inti dalam perdebatan kebijakan Taiwan.
 
-## Tinjauan 30 Detik
-
-Hunian merupakan kebutuhan mendasar masyarakat sekaligus tanggung jawab pemerintah yang penting. Taiwan sejak 2016 meluncurkan kebijakan "8 Tahun 200.000 Unit Perumahan Sosial", melalui konstruksi langsung dan pengurusan sewa-pemeliharaan yang berjalan beriringan, berusaha mewujudkan "keadilan perumahan". Kebijakan ini memiliki tujuan untuk membangun kembali esensi perumahan, mengubahnya dari sekadar barang dagangan menjadi jaminan hak hunian.
-
-Pada akhir 2024, kebijakan telah merealisasikan sekitar 213.000 unit, melampaui target 200.000 unit dengan tingkat pencapaian 107%[^1], namun harga rumah yang tinggi dan kesulitan menyewa belum hilang. Peran dan batasan perumahan sosial tetap menjadi isu pokok dalam perdebatan kebijakan Taiwan.
-
-Kata kunci utama: perumahan sosial, keadilan perumahan, pengurusan sewa-pemeliharaan, undang-undang perumahan, stabilitas hunian pemuda, hunian kelompok rentan
+Kata kunci: rumah sosial, keadilan tempat tinggal, sewa kelola, undang-undang perumahan, pemukiman muda, tempat tinggal rapuh
 
 ## Mengapa Ini Penting
 
-Perumahan adalah fondasi bagi rakyat untuk membangun kehidupan, keluarga, dan mengejar impian. Ketika rasio harga-pendapatan rumah mencapai 15-20 kali lipat, banyak pemuda terjebak dalam dilema "tidak mampu membeli, menyewa tidak ideal", membuat perumahan sosial menjadi alat kebijakan penting bagi pemerintah dalam merespons keadilan perumahan.
+Rumah adalah fondasi rakyat untuk bermukim, membangun keluarga, dan mengejar mimpi. Ketika rasio harga rumah terhadap pendapatan Taipei melebihi 16 kali, banyak orang muda terjebak dalam dilema "tidak mampu beli, tidak layak sewa", rumah sosial menjadi alat kebijakan kunci pemerintah menjawab keadilan tempat tinggal.
 
-Makna kebijakan perumahan sosial tidak hanya sekadar membangun rumah. Ini mewakili sebuah pilihan: memungkinkan kelompok ekonomi lemah juga menikmati kualitas hunian yang layak, memberikan kesempatan stabilitas hunian bagi pemuda, dan membawa pembaruan perkotaan untuk meningkatkan komunitas tua.
+Makna kebijakan rumah sosial bukan sekadar membangun rumah. Ia mewakili sebuah pilihan: agar golongan ekonomi lemah juga menikmati kualitas tempat tinggal yang layak, memberi kesempatan bermukim bagi orang muda, serta mendorong perbaikan perkotaan untuk memperbaiki lingkungan komunitas tua.
 
-Dari perspektif perbandingan internasional, proporsi perumahan sosial Taiwan masih tergolong rendah, namun ekspansi cepat sejak 2016 telah membawa isu ini dari pinggiran menuju arus utama kebijakan.
+Dari perspektif banding internasional, proporsi rumah sosial Taiwan masih relatif rendah, namun ekspansi cepat sejak 2016 telah membawa isu ini dari pinggiran ke aliran utama kebijakan.
 
-- **Kesetaraan sosial**: memungkinkan kelompok ekonomi lemah menikmati kualitas hunian yang layak
-- **Keadilan generasi**: memberikan kesempatan stabilitas hunian bagi pemuda tanpa beban cicilan rumah yang berat
-- **Pengembangan perkotaan**: memandu regenerasi urban, meningkatkan lingkungan komunitas lama
-- **Harmoni sosial**: mengurangi konflik sosial yang diakibatkan oleh masalah perumahan
+- **Keadilan sosial**: golongan ekonomi lemah juga menikmati kualitas tempat tinggal yang layak
+- **Keadilan generasi**: memberi kesempatan bermukim bagi orang muda, tanpa dibebani cicilan rumah berat
+- **Pengembangan kota**: mengarahkan regenerasi perkotaan, memperbaiki lingkungan komunitas tua
+- **Harmoni sosial**: mengurangi konflik sosial yang timbul dari masalah tempat tinggal
 
-## Status Masalah Perumahan Taiwan
+## Kondisi Masalah Perumahan Taiwan
 
-### Kesulitan Hunian di Era Harga Rumah Tinggi
+### Kesulitan Tempat Tinggal di Era Harga Rumah Tinggi
 
-Rasio harga-pendapatan rumah di Taipei sekitar 15-16 kali (data 2024), New Taipei sekitar 12-13 kali, Taoyuan sekitar 9-10 kali, jauh melampaui standar internasional yang wajar yaitu 5-6 kali.[^4] Keluarga biasa memerlukan 10-15 tahun tanpa makan untuk membeli rumah, memaksa banyak pemuda beralih ke pasar penyewaan.
+Berdasarkan statistik Kementerian Dalam Negeri kuartal IV 2024, rasio harga rumah terhadap pendapatan Taipei 16,43 kali, New Taipei 14,08 kali, Taoyuan 9,22 kali, nasional 10,76 kali[^4]. Artinya, keluarga umum Taipei harus tidak makan tidak minum lebih dari enam belas tahun baru mampu beli rumah, banyak orang muda terpaksa beralih ke pasar sewa.
 
-Namun pasar penyewaan juga penuh masalah: proporsi pasar gelap penyewaan tinggi, pemilik rumah secara umum tidak melaporkan pajak, harga sewa tidak transparan, kontrak jangka pendek lazim, hak penyewa kurang terlindungi dengan baik. Dua kesulitan berlapis ini membuat perumahan menjadi salah satu isu kebijakan paling mendesak di masyarakat Taiwan.
+Namun pasar sewa sama-sama penuh masalah: proporsi sewa gelap tinggi, pemilik rumah umumnya tidak membayar pajak, sewa tidak transparan, kontrak jangka pendek lazim, hak penyewa kekurangan perlindungan efektif. Dua lapisan kesulitan ini tumpang tindih, menjadikan masalah tempat tinggal salah satu isu kebijakan paling mendesak di masyarakat Taiwan.
 
-**Kebutuhan Hunian Kelompok Khusus**
+**Kebutuhan tempat tinggal kelompok khusus**
 
-- **Pemuda**: Gaji tidak seiring dengan harga rumah, membeli rumah sangat jauh dari jangkauan
-- **Keluarga orang tua tunggal**: Beban ekonomi berat, pilihan penyewaan terbatas
-- **Lansia**: Pendapatan tetap berkurang, menghadapi risiko hunian
-- **Penyandang disabilitas**: Memerlukan lingkungan tanpa rintangan, pilihan lebih terbatas lagi
+- **Kelompok muda**: gaji tidak mengejar harga rumah, beli rumah mustahil
+- **Keluarga tunggal orang tua**: beban ekonomi berat, pilihan sewa terbatas
+- **Lansia**: penghasilan tetap menurun, menghadapi risiko tempat tinggal
+- **Disabilitas**: butuh lingkungan bebas hambatan, pilihan lebih langka
 
 ### Latar Belakang Evolusi Kebijakan
 
-**Kebijakan Perumahan Awal (1950-2010)**
-Kebijakan perumahan Taiwan awal berfokus pada "mendorong pembelian rumah":
+**Kebijakan perumahan awal (1950-2010)**
+Kebijakan perumahan Taiwan awalnya berlandaskan "mendorong beli rumah":
 
-- Kebijakan perumahan nasional: Membangun Perumahan Rakyat (國民住宅), dijual dengan harga istimewa
-- Kredit pembelian rumah bersubsidi: Mendukung pembelian rumah melalui kebijakan keuangan
-- Pengurangan pajak pembelian ulang, insentif pembelian pertama: Insentif pajak mendorong pembelian rumah
-- Masalah: Penerima manfaat utama adalah kelas menengah, kelompok rentan mendapat manfaat terbatas
+- Kebijakan Rumah Negara (_Guozhai_): membangun rumah negara, dijual dengan harga subsidi
+- Pinjaman beli rumah subsidi: mendukung beli rumah lewat kebijakan keuangan
+- Pajak kembali beli ulang, insentif beli pertama: insentif pajak mendorong beli rumah
+- Masalah: penerima manfaat utamanya kelas menengah, golongan lemah menerima manfaat terbatas
 
-**Penetapan Undang-Undang Perumahan (2011-2016)**
-Pada 2011, Taiwan menetapkan Undang-Undang Perumahan, menetapkan arah kebijakan perumahan baru:[^3]
+**Pembentukan Undang-Undang Perumahan (2011-2016)**
+2011 menetapkan _Undang-Undang Perumahan_, menetapkan arah baru kebijakan perumahan: [^3]
 
-- Mencantumkan "hak hunian" sebagai hak asasi manusia fundamental
-- Membangun dasar hukum perumahan sosial
+- Tujuan legislasi: seluruh warga negara tinggal di perumahan layak, menikmati lingkungan tempat tinggal bermartabat
+- Membangun landasan hukum rumah sosial
 - Mendorong sistem subsidi sewa
-- Namun kekuatan pelaksanaan tidak cukup, pembangunan perumahan sosial lambat
+- Namun daya eksekusi lemah, pembangunan rumah sosial lambat
 
-## Konten Kebijakan Perumahan Sosial
+## Isi Kebijakan Rumah Sosial
 
 ### Rencana 8 Tahun 200.000 Unit
 
-Setelah pemerintah baru berkuasa pada 2016, mengajukan kebijakan "8 Tahun 200.000 Unit Perumahan Sosial":[^2]
+2016 pemerintah baru menjabat, mengusung kebijakan "8 Tahun 200.000 Rumah Sosial": [^2]
 
-**Target Kebijakan**
+**Tujuan kebijakan**
 
-- 2017-2024 membangun 200.000 unit perumahan sosial
-- Konstruksi langsung 120.000 unit
-- Pengurusan sewa-pemeliharaan 80.000 unit
-- Total investasi sekitar 440 miliar Dollar Baru Taiwan (TWD)
+- 2017-2024 menggarap 200.000 unit rumah sosial
+- Pembangunan langsung 120.000 unit
+- Sewa kelola 80.000 unit
 
-**Strategi Pelaksanaan**
+**Strategi eksekusi**
 
-1. **Kolaborasi pusat-daerah**: Pusat Perumahan dan Pembaruan Perkotaan Nasional (國家住宅及都市更新中心) mengoordinasikan perencanaan
-2. **Sumber tanah yang beragam**: Tanah negara, tanah dari pembaruan urban, donasi, dll.
-3. **Mekanisme pembiayaan inovatif**: Dana perumahan, anggaran khusus infrastruktur prospektif
-4. **Tim profesional melaksanakan**: Mendirikan institusi khusus, meningkatkan efisiensi pelaksanaan
+1. **Kerja sama pusat-daerah**: Pusat Rumah Negara dan Perbaikan Perkotaan Nasional (_Guojuzhong_) merencanakan secara terpadu
+2. **Sumber lahan beragam**: tanah negara, pembagian kembali perbaikan perkotaan, sumbangan, dll.
+3. **Mekanisme pembiayaan inovatif**: dana perumahan, anggaran khusus infrastruktur _qianzhan_
+4. **Tim profesional eksekusi**: mendirikan lembaga khusus, meningkatkan efisiensi eksekusi
 
-### Model Jalur Ganda
+### Model Dua Jalur Beriringan
 
-**Jalur Pertama: Konstruksi Langsung**
-Pemerintah secara langsung membangun, memiliki, dan mengelola perumahan sosial:
+**Jalur satu: Pembangunan langsung**
+Pemerintah langsung membangun, memegang, mengelola rumah sosial:
 
 - Target pembangunan: 120.000 unit
-- Sumber dana: Dana perumahan, anggaran khusus
-- Cara pengelolaan: Manajemen pemerintah langsung atau diserahkan ke pihak swasta
-- Ciri khas: Kontrol kualitas lebih baik, dapat merencanakan fungsi komunitas lengkap
+- Sumber dana: dana perumahan, anggaran khusus
+- Cara kelola: pemerintah kelola sendiri atau serahkan ke swasta
+- Ciri: kontrol kualitas lebih baik, bisa merencanakan fungsi komunitas utuh
 
-**Jalur Kedua: Pengurusan Sewa-Pemeliharaan**
-Pemerintah berkolaborasi dengan pemilik rumah swasta, memfasilitasi penyewaan kepada kelompok rentan:
+**Jalur dua: Sewa kelola**
+Pemerintah bekerja sama dengan pemilik swasta, memadukan penyewa golongan lemah:
 
 - Target unit: 80.000 unit
-- Model operasi:
-  - **Pengurusan sewa**: Pemerintah menyewa rumah swasta, kemudian menyewa kembali kepada kelompok rentan
-  - **Manajemen penyewaan**: Membantu pemilik rumah menyewa, menyediakan layanan manajemen
-- Keunggulan: Mengaktifkan rumah kosong, dengan cepat menambah pasokan perumahan sosial
+- Mode operasi:
+  - **Sewa penuh (_baozu_)**: pemerintah menyewa rumah swasta, lalu menyewakan kembali ke golongan lemah
+  - **Kelola (_daiguan_)**: membantu pemilik menyewakan, menyediakan layanan manajemen
+- Keuntungan: mengaktifkan rumah kosong, cepat menambah pasokan rumah sosial
 
-### Statistik Hasil Pelaksanaan
+### Statistik Hasil Eksekusi
 
-**Pencatatan hingga akhir 2024**
+**Cakupan statistik kebijakan**
 
-- Telah menyelesaikan sekitar 213.000 unit pada akhir 2024, melampaui target 200.000 unit dengan tingkat pencapaian 107%[^1]
+- Pemerintah pada Desember 2023 memperkirakan, akhir 2024 pembangunan langsung 120.000 unit, kontrak sewa kelola efektif 93.980 unit, total 213.980 unit, tingkat pencapaian 107%[^1]
+- "Pencapaian" adalah cakupan statistik kebijakan, bagian pembangunan langsung mencakup yang sedang dibangun dan sudah menangkan tender menunggu mulai bangun. Mengacu statistik Kementerian Dalam Negeri, hingga akhir Agustus 2026, pencapaian pembangunan langsung di antaranya sudah selesai 47.111 unit, sedang dibangun 65.202 unit, sudah menangkan tender menunggu mulai bangun 15.380 unit[^5], "sudah selesai" merujuk rumah sosial baru bangunan memperoleh izin pakai
 
-**Distribusi Regional**
+## Filosofi Desain Rumah Sosial
 
-- Enam kota metropolitan menguasai sekitar 75%, dengan Taipei ganda, Taoyuan, Taichung sebagai prioritas
-- New Taipei: 32.000 unit (paling banyak)
-- Taipei: 28.000 unit
-- Taoyuan: 21.000 unit
-- Taichung: 19.000 unit
+Filosofi desain rumah sosial Taiwan bermula dari "campuran sosial", sengaja menghindari replikasi masalah konsentrasi kemiskinan seperti rumah negara Hong Kong atau rumah sosial AS, sehingga penghuni latar belakang berbeda hidup bersama.
 
-## Filosofi Desain Perumahan Sosial
+### Prinsip Campuran Sosial
 
-Filosofi desain perumahan sosial Taiwan berasal dari "hunian komunitas bercampur", secara sengaja menghindari mengulangi masalah konsentrasi kemiskinan di public housing Hong Kong atau perumahan sosial Amerika, membiarkan penghuni dari latar belakang berbeda hidup bersama.
+_Undang-Undang Perumahan_ pasal 4 berlaku menetapkan, rumah sosial minimal 40% disewakan ke golongan ekonomi atau sosial lemah, minimal 20% disewakan ke pasangan menikah dalam dua tahun atau keluarga menikah beranak di bawah umur[^3]. Cakupan golongan lemah luas, meliputi rumah miskin, keluarga kondisi khusus, keluarga beranak dua orang di bawah umur, lansia, korban kekerasan rumah tangga, disabilitas, orang asli, korban bencana, dll.
 
-### Prinsip Hunian Komunitas Bercampur
+**Cakupan golongan lemah**
+Menurut definisi _Undang-Undang Perumahan_ meliputi:
 
-Keluarga kelompok rentan dijamin proporsi penghuni 30%, keluarga umum (pemuda, pasangan baru, keluarga dengan anak prioritas) menempati 70%, melalui undian berkala memastikan keadilan. Undang-Undang Perumahan mendefinisikan kelompok rentan secara luas, mencakup rumah tangga berpenghasilan rendah, keluarga dalam kondisi khusus, keluarga dengan tiga atau lebih anak bawah umur, lansia, korban kekerasan dalam rumah tangga, penyandang disabilitas, masyarakat adat, korban bencana, dan sebagainya.
-
-**Jangkauan Kelompok Rentan**
-Menurut definisi Undang-Undang Perumahan mencakup:
-
-- Rumah tangga berpenghasilan rendah dan menengah rendah
-- Keluarga dalam kondisi khusus (khususnya)
-- Keluarga dengan tiga atau lebih anak bawah umur
-- Mereka yang keluar dari lembaga pengasuhan atau keluarga asuh tanpa bisa kembali ke rumah
-- Lansia berusia enam puluh lima tahun ke atas
-- Korban kekerasan dalam rumah tangga atau pelecehan seksual dan anak-anak mereka
-- Penyandang disabilitas
-- Orang yang terinfeksi virus imunodefisiensi manusia atau menderita sindrom imunodefisiensi yang didapat
-- Masyarakat adat
+- Rumah miskin dan rumah pendapatan menengah-bawah
+- Keluarga kondisi khusus
+- Keluarga beranak di bawah umur dua orang atau lebih
+- Yang berakhir penempatan di lembaga asuhan atau keluarga asuhan, tidak bisa pulang rumah, di bawah 25 tahun
+- Di atas 65 tahun
+- Korban kekerasan rumah tangga atau kekerasan seksual beserta anaknya
+- Disabilitas
+- Terinfeksi HIV atau AIDS
+- Orang asli
 - Korban bencana
-- Tunawisma
-- Kelompok lain yang ditentukan oleh otoritas berwenang
+- Gelandangan
+- Anak di bawah umur yang mengalami kesulitan karena hamil atau melahirkan
+- Lainnya yang ditetapkan otoritas utama
 
 ### Perencanaan Fasilitas Komunitas
 
-**Fasilitas Wajib**
+**Fasilitas wajib**
 
-- Lingkungan tanpa rintangan: Jalur landai tanpa rintangan, lift, desain tipe ruangan
-- Taman kanak-kanak: Prioritas mendirikan taman kanak-kanak nirlaba
-- Tempat perawatan jangka panjang: Pusat hari, tempat kepedulian
-- Ruang aktivitas komunitas: Aula pertemuan, ruang bacaan
-- Fasilitas komersial: Toko serba ada, laundry dan layanan kenyamanan lainnya
+- Lingkungan bebas hambatan: tangga roda gigi, lift, desain tipe rumah
+- Taman kanak-kanak: prioritas mendirikan taman kanak-kanak non-profit
+- Titik perawatan jangka panjang: pusat harian, titik peduli
+- Ruang aktivitas komunitas: balai pertemuan, ruang baca
+- Fasilitas komersial: minimarket, laundry, dll. layanan kemudahan
 
-**Desain Inovatif**
+**Desain inovatif**
 
-Dalam tahun-tahun terakhir, perumahan sosial terus bereksperimen dengan fasilitas inovatif. Ruang kreativitas pemuda menyediakan studio kerja startup pemuda, dapur bersama mendorong interaksi dan pertukaran penghuni. Taman atap menggabungkan pertanian urban dengan pendidikan lingkungan, pusat daur ulang sumber daya mempromosikan konsep ekonomi sirkular, beberapa proyek baru bahkan mengintegrasikan perangkat IoT untuk membangun platform manajemen komunitas pintar.
+Tahun-tahun terbaru rumah sosial terus mencoba fasilitas inovatif. Ruang kreatif muda menyediakan studio usaha muda, dapur bersama mempromosikan interaksi penghuni. Kebun atap mengkombinasikan pertanian perkotaan dan pendidikan lingkungan, pusat daur ulang mendorong konsep ekonomi sirkular, sebagian proyek baru bahkan menerapkan perangkat IoT membangun platform manajemen komunitas cerdas.
 
 ### Prinsip Beban Sewa
 
-**Prinsip 85% dari Harga Pasar**
+Sewa rumah sosial tidak boleh melebihi harga pasar, lalu berdasarkan pendapatan dan identitas penyewa berlapis tingkatan. Prinsip lapisan Kementerian Dalam Negeri adalah struktur dasar sewa 3 hingga 8 kali sepuluh harga pasar, bagian Taipei-New Taipei karena harga pasar lebih tinggi menurunkan kali sepuluhnya. Pemerintah daerah boleh menerapkan tarif berdasarkan pendapatan atau identitas, tapi tidak boleh melebihi standar pusat[^6].
 
-- Harga sewa ditetapkan 85% dari harga pasar sekitar
-- Hindari subsidi berlebihan yang merusak pasar
-- Memastikan kemampuan pembayaran keluarga umum
+## Kasus Rumah Sosial Penting
 
-**Sistem Subsidi Bertingkat**
+Kasus rumah sosial Taiwan menunjukkan berbagai percobaan dari filosofi desain ke pembangunan komunitas, tidak sedikit proyek baru mengintegrasikan taman kanak-kanak, titik perawatan jangka panjang, ruang usaha muda, dll. fasilitas publik ke dalam rumah sosial, membentuk lingkungan hidup komunitas tipe campuran. Pemikiran perencanaan "rumah sosial adalah komunitas" ini juga berangsur mempengaruhi arah desain proyek-proyek berikutnya.
 
-- Tingkat pertama (penghasilan ekstrem rendah): Sewa diskon 30%
-- Tingkat kedua (rumah tangga berpenghasilan rendah): Sewa diskon 50%
-- Tingkat ketiga (rumah tangga berpenghasilan menengah rendah): Sewa diskon 70%
-- Tingkat keempat (penghuni umum): 85% harga pasar
+### Rumah Negara Sehat Taipei
 
-## Kasus Perumahan Sosial Penting
+Rumah Negara Sehat Taipei berlokasi di Jalan Jiankang, Distrik Songshan, total 507 unit, lantai bawah menyediakan pusat layanan lansia, pusat perawatan harian lansia, dan pusat asuh bayi[^7].
 
-Kasus perumahan sosial Taiwan menunjukkan berbagai upaya dari konsep desain hingga pembangunan komunitas, beberapa proyek perwakilan telah menjadi standar referensi kebijakan nasional. Taipei Public Housing Kesehatan (selesai 2017), New Taipei Zhonghe Youth Social Housing (2019), Taoyuan Bade Social Housing (2020) tiga kasus mewakili skala berbeda dan orientasi desain.
+## Kebijakan Sewa Kelola
 
-Kesamaan ketiga kasus terletak pada melampaui fungsi perumahan murni, mengintegrasikan taman kanak-kanak, pusat perawatan lansia, ruang kreativitas startup pemuda dan fasilitas publik lain ke dalam perumahan sosial, membentuk lingkar kehidupan komunitas kompleks. Pemikiran perencanaan "perumahan sosial adalah komunitas" ini juga secara bertahap memengaruhi arah desain proyek berikutnya.
+Sewa kelola adalah jalur kedua kebijakan rumah sosial Taiwan, lewat intervensi pemerintah ke pasar sewa swasta, cepat menambah pasokan rumah sosial, sekaligus mengaktifkan sumber daya rumah kosong. Administrasi Eksekutif pada Agustus 2023 memperkirakan, akhir tahun tersebut kontrak sewa kelola efektif aktual sekitar 68.000 unit[^8].
 
-### Taipei Public Housing Kesehatan
+### Mode Operasi
 
-Taipei Public Housing Kesehatan berlokasi di Distrik Zhongshan, diselesaikan 2017, terdiri dari 1.400 unit, adalah perumahan sosial berskala besar pertama di Taipei. Dinding eksterior bangunan mengadopsi desain penghijauan vertikal untuk meningkatkan efek pulau panas urban, dilengkapi dengan taman kanak-kanak nirlaba, pusat hari lansia, serta ruang kreativitas startup pemuda "Kesehatan Living Creative Base", serta mengintegrasikan sistem parkir pintar dan aplikasi komunitas manajemen.
+**Mode sewa penuh**
+Pemerintah lewat vendor profesional menyewa rumah swasta, lalu menyewakan kembali ke keluarga lemah:
 
-Signifikansi sosial terpenting dari kasus ini adalah mengubah persepsi banyak masyarakat bahwa perumahan sosial setara dengan "slum", juga mendorong vitalitas bisnis sekitar, menjadi standar referensi perencanaan perumahan sosial kota lain.
+- Jangka sewa: vendor dengan pemilik tandatangan kontrak sewa penuh 3 tahun, lagi sebagai pemilik kedua dengan penyewa tandatangan kontrak sewa ulang minimal 1 tahun
+- Sewa: harga kontrak sewa penuh tidak boleh melebihi 8 kali sepuluh harga pasar, sewa ulang ke penyewa tidak boleh lebih tinggi dari sewa penuh, penyewa bisa lagi berdasarkan identitas mengajukan subsidi sewa[^9]
 
-### New Taipei Zhonghe Youth Social Housing
+**Mode kelola**
 
-New Taipei Zhonghe Youth Social Housing selesai 2019, terdiri dari 522 unit, dengan fitur terbesar mengintegrasikan pembaruan urban dan perumahan sosial. Satu bangunan menggabungkan perumahan sosial, pusat perbelanjaan dan ruang kantor, dilengkapi dengan institusi perawatan komunitas, taman atap dan sistem panen air hujan, menerima sertifikasi bangunan hijau tingkat berlian. Dalam tata kelola komunitas, penghuni secara mandiri membentuk "Kelompok Partisipasi Pemuda", secara berkala mengadakan kegiatan festival komunitas, survei kepuasan penghuni mencapai di atas 85%, adalah salah satu kasus sukses pengembangan komunitas perumahan sosial Taiwan.
+Pemerintah memadukan pemilik dan penyewa, vendor profesional bertanggung jawab menyaring penyewa, tagih sewa, dan koordinasi perbaikan, harga kontrak pemilik dan penyewa tidak boleh melebihi 9 kali sepuluh harga pasar[^9]. Pemerintah menyediakan subsidi biaya perbaikan (masing-masing unit per tahun maksimal NT$10.000, paling lama 3 tahun), pengurangan pajak rumah dan pajak tanah, asuransi keamanan rumah, serta menyediakan mediasi sengketa dan konsultasi hukum, guna menurunkan risiko pemilik menyewakan.
 
-### Taoyuan Bade Social Housing
+### Mekanisme Eksekusi dan Hasil
 
-Taoyuan Bade Social Housing selesai 2020, terdiri dari 1.003 unit, adalah proyek perumahan sosial tunggal terbesar di Taiwan. Lahan berdampingan dengan pembangunan transportasi ringan, dilengkapi dengan 300 tempat parkir sepeda motor dan 50 tempat parkir mobil, fasilitas komersial menghadirkan merek terkenal seperti PX Mart, Starbucks, paket komunitas mencakup taman kanak-kanak, pusat perawatan jangka panjang dan pusat aktivitas. Dalam aspek manajemen menggunakan sistem keamanan pintu pengenalan wajah AI dan integrasi aplikasi komunitas berbagai layanan, membangun sistem sukarelawan komunitas, adalah salah satu kasus dengan tingkat otomasi tertinggi di perumahan sosial Taiwan.
-
-## Kebijakan Pengurusan Sewa-Pemeliharaan
-
-Pengurusan sewa-pemeliharaan adalah jalur kedua kebijakan perumahan sosial Taiwan, melalui intervensi pemerintah ke pasar penyewaan swasta, dengan cepat meningkatkan pasokan perumahan sosial, sekaligus mengaktifkan sumber daya rumah kosong. Hingga akhir 2024, telah memfasilitasi sekitar 68.000 unit, memberikan manfaat kepada sekitar 27.000 keluarga kelompok rentan.
-
-### Model Operasi
-
-**Model Pengurusan Sewa**
-Pemerintah melalui operator profesional menyewa rumah swasta, kemudian menyewa kembali kepada keluarga kelompok rentan:
-
-- Durasi sewa: 3 tahun, dapat diperpanjang hingga 6 tahun
-- Harga sewa pemerintah: Harga pasar 80-90%
-- Harga sewa ulang: Harga pasar 60-70%
-- Pemerintah menanggung risiko kekosongan sewa
-
-**Model Pengelolaan Penyewaan**
-
-Pemerintah memfasilitasi pemilik rumah dan penyewa, operator profesional bertanggung jawab menyaring penyewa, mengumpulkan sewa dan koordinasi perbaikan. Pemerintah menyediakan subsidi perbaikan (maksimal 10.000-30.000 TWD per unit), pengurangan pajak properti dan pajak nilai lahan, asuransi keselamatan rumah tangga, serta menyediakan layanan arbitrase sengketa dan konsultasi hukum, untuk mengurangi risiko pemilik rumah dalam menyewa.
-
-### Mekanisme Pelaksanaan dan Hasil
-
-Saat ini sekitar 200 operator berpartisipasi, mencakup perusahaan layanan perumahan, perusahaan pialang real estat dan perusahaan manajemen properti. Hingga akhir 2024, pengurusan sewa-pemeliharaan telah memfasilitasi sekitar 68.000 unit, pemilik rumah berpartisipasi sekitar 55.000 orang, memberikan manfaat kepada sekitar 27.000 keluarga kelompok rentan, mendorong investasi rumah swasta sekitar 120 miliar TWD.
-
-Tantangan utama termasuk: beberapa pemilik rumah khawatir tentang kualitas penyewa dan tidak bersedia berpartisipasi, sumber rumah terkonsentrasi di area metropolitan, keluarga sangat rentan masih memiliki beban pembayaran sewa, dan kualitas layanan operator berbeda-beda.
+Tantangan utama meliputi: sebagian pemilik khawatir kualitas penyewa tidak mau ikut, sumber rumah terkonsentrasi di wilayah metropolitan, keluarga super lemah tetap merasa beban sewa aktual, serta perbedaan kualitas layanan antar vendor cukup besar, dll. masalah.
 
 ## Efek Kebijakan dan Dampak Sosial
 
 ### Analisis Efek Kuantitatif
 
-Di sisi pasokan, kebijakan perumahan sosial menambah pasokan pasar penyewaan sekitar 200.000 unit, laju inflasi sewa pasar berkurang, transparansi pasar penyewaan juga meningkat bersamaan dengan pendorong sistem pengurusan sewa-pemeliharaan. Di sisi permintaan, kebijakan diperkirakan mengatasi masalah hunian sekitar 400.000-500.000 orang, stabilitas hunian kelompok rentan meningkat, proporsi pemuda dengan stabilitas hunian juga meningkat. Efek manfaat industri secara keseluruhan juga signifikan: menciptakan industri layanan perumahan, mendorong perkembangan industri konstruksi dan renovasi, menciptakan peluang pekerjaan sekitar 30.000-40.000.
+Efek kuantitatif kebijakan rumah sosial, saat ini kekurangan evaluasi menyeluruh resmi yang bisa diverifikasi. Yang pasti, pembangunan langsung dan sewa kelola menambah pasokan rumah sewa terjangkau, juga membuat lebih banyak rumah sewa swasta masuk ke saluran berkontrak.
 
-### Penilaian Dampak Sosial
+### Evaluasi Dampak Sosial
 
-**Mewujudkan Keadilan Perumahan**
+**Pewujudan keadilan tempat tinggal**
 
-Kualitas ruang perumahan sosial baru secara umum superior dibanding penyewaan biasa, perencanaan fasilitas komunitas lengkap, level sewa relatif pasar lebih terjangkau, juga menyediakan jaminan hunian yang lebih panjang. Bagi kelompok yang secara jangka panjang berada dalam posisi lemah di pasar penyewaan, ini adalah perbaikan yang konkret dan dapat dirasakan.
+Kualitas ruang rumah sosial baru umumnya unggul dibanding sewa biasa, perencanaan fasilitas komunitas utuh, tingkat sewa relatif lebih terjangkau, juga menyediakan jaminan tempat tinggal jangka panjang relatif. Bagi golongan yang lama berada di posisi lemah di pasar sewa, ini adalah perbaikan nyata terasa.
 
-**Integrasi Sosial dan Pengembangan Urban**
+**Fusi sosial dan pengembangan perkotaan**
 
-Desain hunian komunitas bercampur memungkinkan keluarga kelompok rentan dan keluarga umum hidup bersama, menghindari konsentrasi area kemiskinan. Beberapa kasus perumahan sosial juga mendorong pengembangan bisnis sekitar, menjadi katalis regenerasi urban untuk komunitas lama, meningkatkan kualitas lingkungan komunitas secara keseluruhan.
+Desain campuran membuat golongan lemah dan keluarga umum hidup bersama, menghindari konsentrasi wilayah kemiskinan. Sebagian kasus rumah sosial juga mendorong perkembangan kawasan komersial sekitar, menjadi katalis regenerasi perkotaan komunitas tua, meningkatkan kualitas lingkungan komunitas secara keseluruhan.
 
 ## Perbandingan Pengalaman Internasional
 
-### Sistem HDB (Housing and Development Board) Singapura
+### Sistem HDB Singapura
 
-Singapura terkenal dengan kepemimpinan pemerintah, pembangunan skala besar HDB, sekitar 85% penduduk tinggal di HDB. Sistem kuota etnis mempromosikan integrasi etnis, terhubung dengan sistem pensiun mendorong pembelian properti. Taiwan dapat belajar dari kekuatan pelaksanaan kebijakan jangka panjang yang stabil dan konsep perencanaan komunitas lengkapnya, namun Taiwan lebih menekankan penyewaan daripada pembelian, arah keseluruhan berbeda.
+Singapura dengan pemerintah memimpin, membangun massal HDB (_Housing & Development Board_) terkenal, sekitar 76% penduduk Singapura (warga negara dan PR) tinggal di HDB[^10]. Sistem kuota ras mempromosikan fusi etnis, dikombinasikan dengan sistem dana pensiun mendorong beli rumah properti. Taiwan bisa merujuk daya eksekusi kebijakan jangka panjang stabil dan filosofi perencanaan komunitas utuhnya, tapi Taiwan lebih menekan sewa bukan beli, arah keseluruhan berbeda.
 
-### Perumahan Sosial Belanda
+### Rumah Sosial Belanda
 
-Perumahan sosial Belanda sekitar 34% dari total perumahan nasional (statistik 2023), dibangun dan dikelola oleh asosiasi perumahan nirlaba, dan menggunakan sistem penyaringan berdasarkan pendapatan untuk memastikan distribusi adil. Penekanan Belanda pada kualitas desain bangunan dan lingkungan berkelanjutan menyediakan referensi bagi Taiwan dalam orientasi kualitas.
+Koperasi perumahan Belanda memegang sekitar 2,3 juta unit rumah, sekitar 28% total rumah nasional (awal 2024, Biro Statistik Belanda)[^11], dibangun dikelola oleh koperasi perumahan non-profit, dengan sistem lapisan pendapatan memastikan alokasi adil. Penekanan Belanda pada kualitas desain arsitektur dan lingkungan berkelanjutan, memberi referensi bagi Taiwan pada jalur orientasi kualitas.
 
 ### Perumahan Publik Hong Kong
 
-Sekitar 45% penduduk Hong Kong tinggal di perumahan publik, terbagi menjadi dua jenis: perumahan sewaan publik dan unit kepemilikan (居屋). Taiwan secara sadar membedakan diri dari model Hong Kong: lebih menekankan hunian komunitas bercampur, menghindari pengembangan konsentrasi skala besar, sekaligus fokus pada paket fasilitas komunitas lengkap, untuk mencegah "konsentrasi kemiskinan".
+Hong Kong sekitar 45% penduduk mendiami perumahan publik, terbagi dua tipe: rumah sewa publik dan _Home Ownership Scheme_. Taiwan sadar membedakan diri dari model Hong Kong: lebih menekan campuran sosial, menghindari pembangunan konsentrasi skala besar, serta memperhatikan kelengkapan fasilitas komunitas, guna mencegah "konsentrasi kemiskinan".
 
-## Tantangan Masa Depan dan Pengembangan
+## Tantangan Masa Depan dan Arah Perkembangan
 
 ### Tantangan Utama
 
-Kebijakan perumahan sosial menghadapi empat tantangan struktural utama. Akuisisi lahan adalah hambatan pertama: tanah urban langka dan mahal, kesediaan pemilik tanah rendah, prosedur perubahan rencana tata kota kompleks, ditambah psikologi NIMBY masyarakat terhadap "perumahan sosial di dekat sini", membuat pemilihan lokasi sangat sulit. Di sisi finansial, biaya konstruksi meningkat, biaya operasional jangka panjang dan tekanan dana perumahan, juga membentuk persaingan terhadap anggaran pemerintah.
+Kebijakan rumah sosial menghadapi empat tantangan struktural utama. Perolehan lahan adalah gerbang pertama: lahan perkotaan langka dan mahal, kemauan kerja sama pemilik tanah rendah, prosedur perubahan rencana kota kompleks, ditambah sikap "hindar fasilitas tidak diinginkan" (_NIMBY_) masyarakat terhadap "rumah sosial dibangun di sebelah", membuat pemilihan lokasi sulit sekali. Sisi keuangan, biaya bangun naik, biaya operasi jangka panjang dan tekanan dana perumahan, juga menimbulkan pengusiran pada anggaran pemerintah.
 
-Sebagian masyarakat masih memiliki stereotip terhadap perumahan sosial sebagai "slum", khawatir mempengaruhi harga properti sekitar, integrasi komunitas membutuhkan waktu dan komunikasi berkelanjutan. Di sisi manajemen, penghuni dengan kebutuhan berbeda tinggal bersama, biaya pemeliharaan fasilitas komunitas, tingkat pergantian penghuni yang relatif tinggi, semua membuat permintaan tinggi terhadap kemampuan profesional tim manajemen.
+Sebagian masyarakat tetap memiliki stereotip "kumuh" terhadap rumah sosial, khawatir mempengaruhi harga rumah sekitar, fusi komunitas butuh waktu dan komunikasi berkelanjutan. Sisi manajemen, penghuni kebutuhan beragam tinggal bersama, biaya pemeliharaan fasilitas komunitas, tingkat perpindahan penghuni cenderung tinggi, dll. masalah, menuntut kemampuan profesional tinggi dari tim manajemen.
 
-### Arah Pengembangan Masa Depan
+### Arah Perkembangan Masa Depan
 
-Saran kebijakan yang diajukan industri mencakup beberapa arah: merevisi Undang-Undang Perumahan, memperkuat dasar hukum, mendorong peraturan khusus perumahan sosial, adalah pekerjaan prioritas di tingkat institusional. Di sisi inovasi pembiayaan, memasukkan dana swasta, mengembangkan REITs perumahan sosial dan sistem kepercayaan lahan, membantu memperluas sumber daya. Promosi manajemen cerdas (sistem IoT, integrasi aplikasi komunitas) dan sertifikasi bangunan hijau, adalah jalur peningkatan kualitas. Pengembangan keseimbangan regional juga patut diperhatikan: saat ini perumahan sosial sangat terkonsentrasi di enam kota metropolitan, kebutuhan hunian di area non-urban masih menunggu perhatian kebijakan lebih banyak.
+Usulan kebijakan industri mencakup beberapa arah: merevisi _Undang-Undang Perumahan_, memperkuat landasan hukum, mendorong undang-undang khusus rumah sosial, adalah prioritas sisi sistem. Inovasi pembiayaan, menarik dana swasta, mengembangkan REITs rumah sosial dan sistem trust tanah, membantu memperluas sumber daya. Manajemen cerdas (sistem IoT, integrasi App komunitas) dan promosi sertifikasi bangunan hijau, adalah jalur peningkatan kualitas. Perkembangan keseimbangan wilayah juga patut diperhatikan: saat ini rumah sosial terkonsentrasi tinggi di enam kota besar, kebutuhan tempat tinggal non-perkotaan masih menunggu lebih banyak perhatian kebijakan.
 
-## Kesimpulan: Menuju Keadilan Perumahan
+## Penutup: Menuju Keadilan Tempat Tinggal
 
-Perumahan sosial mewujudkan nilai-nilai sosial, bukan sekadar kebijakan perumahan. Taiwan sejak 2016 meluncurkan rencana 8 tahun 200.000 unit, bukan hanya mendekatkan target dari segi kuantitas, namun juga membangun "model Taiwan" dari segi kualitas:
+Rumah sosial mewujudkan praktik nilai sosial, bukan sekadar kebijakan rumah. Taiwan sejak 2016 mendorong rencana 8 tahun 200.000 unit, tidak hanya di sisi kuantitas mendekati standar, lebih di sisi kualitas membangun "model Taiwan":
 
-Karakteristik perumahan sosial Taiwan terletak pada beberapa pilihan inti: menggunakan desain hunian komunitas bercampur untuk menghindari konsentrasi kemiskinan, konstruksi langsung dan pengurusan sewa-pemeliharaan saling melengkapi, menekankan estetika desain dan fungsi komunitas, serta mengintegrasikan karakteristik iklim dan budaya Taiwan untuk implementasi lokal. "Model Taiwan" ini meskipun masih dalam tahap penyempurnaan, namun telah membentuk jalur kebijakan yang dapat dikenali.
+Ciri rumah sosial Taiwan terletak pada beberapa pilihan inti: desain campuran menghindari konsentrasi kemiskinan, pembangunan langsung dan sewa kelola dua jalur saling melengkapi, menekan estetika desain dan fungsi komunitas, serta mengintegrasikan iklim dan budaya Taiwan untuk implementasi. "Model Taiwan" ini meski masih dalam perbaikan, tapi sudah membentuk jalur kebijakan yang bisa diidentifikasi.
 
-**Visi Masa Depan**
+**Visi masa depan**
+Agar setiap orang yang hidup di Taiwan, apa pun kemampuan ekonominya, bisa menikmati lingkungan tempat tinggal yang layak, stabil, bermartabat. Mencapai tujuan ini, Taiwan baru bisa membangun masyarakat yang lebih adil, lebih inklusif.
 
-Agar setiap orang yang tinggal di Taiwan, terlepas dari kemampuan ekonomi, dapat menikmati lingkungan hunian yang layak, stabil, dan bermartabat. Untuk mencapai target ini, Taiwan dapat membangun masyarakat yang lebih adil dan inklusif.
+Pewujudan keadilan tempat tinggal butuh usaha bersama seluruh masyarakat. Pemerintah menyediakan kerangka kebijakan dan sumber daya, profesional menyumbangkan teknologi dan kreativitas, masyarakat memberi pemahaman dan dukungan, baru rumah sosial benar-benar berfungsi, mendorong masyarakat Taiwan maju ke depan.
 
-Mewujudkan keadilan perumahan memerlukan upaya bersama seluruh masyarakat. Pemerintah menyediakan kerangka kebijakan dan sumber daya, profesional berkontribusi teknik dan kreativitas, masyarakat memberikan pemahaman dan dukungan, barulah perumahan sosial dapat benar-benar berfungsi, mendorong masyarakat Taiwan maju ke depan.
+**Baca Lanjutan**:
 
-**Bacaan Lanjutan**:
+- [Rumah Negara dan Keadilan Tempat Tinggal](/id/society/public-housing-justice) — Sebelum rumah sosial 2016, jalur "pemerintah bangun untuk dijual" yang dicabut: dari Undang-Undang Rumah Negara 1975 ke pembatalan 2015, bagaimana rumah negara jadi tangga aset, serta kontemporer 2026 Rumah Terjangkau Taoyuan menjemput "jual" kembali (artikel saudara ini)
+- [Rumah Atap Seng](/id/society/taiwan-tin-shed-houses) — Dilema tata kelola 716.000 bangunan ilegal se-Indonesia, atap seng tambahan dan bangunan ilegal adalah salah satu struktur dasar isu keadilan tempat tinggal
+- [Keadilan Lingkungan Taiwan dan Konflik NIMBY](/id/society/taiwan-environmental-justice-nimby-conflicts) — Ekstensi penggunaan lahan masalah tempat tinggal: alokasi risiko lingkungan tidak adil dan konflik komunitas fasilitas NIMBY
 
-- [Perumahan Nasional dan Keadilan Perumahan](/id/society/public-housing-justice) — jalur "pemerintah membangun untuk dijual" sebelum 2016 sosial: dari Undang-Undang Perumahan Nasional 1975 hingga pencabutan 2015, bagaimana perumahan nasional menjadi tangga aset, dan perselisihan kontemporer 2026 Taoyuan perumahan terjangkau menemukan kembali "penjualan" (artikel saudara dari artikel ini)
-- [Rumah Besi](/id/society/taiwan-tin-shed-houses) — kesulitan pengelolaan 716.000 bangunan ilegal di seluruh Taiwan, atap besi dan masalah konstruksi ilegal adalah salah satu struktur dasar masalah keadilan perumahan
-- [Taiwan Keadilan Lingkungan dan Kontroversi NIMBY](/society/台灣環境正義與鄰避爭議) — perpanjangan penggunaan lahan masalah perumahan: distribusi risiko lingkungan yang tidak setara dan konflik komunitas fasilitas NIMBY
+[^1]: [Semua Perbaikan Perkotaan Terhubung (2023-12-21): Jumlah Pembangunan Langsung dan Sewa Kelola Rekor Baru](https://urbanrenewal.wealth.com.tw/news-detail/1102) — "Akhir 2024 tidak hanya akan mencapai standar, melainkan pembangunan langsung rumah sosial 120.000 unit, kontrak sewa kelola efektif 93.980 unit, total 213.980 unit, tingkat pencapaian 107%"
 
-[^1]: Kementerian Dalam Negeri Biro Pengelolaan Tanah Nasional, "Laporan Hasil Pelaksanaan Perumahan Sosial", Desember 2024, https://pip.moi.gov.tw/v3/b/SCRB0501.aspx?mode=7
+[^2]: [Administrasi Eksekutif, 〈Rencana Penggarapan Rumah Sosial〉, versi disetujui Maret 2017](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/7345b2c6-1314-4fda-8e21-18b012466827) — Dokumen penetapan kebijakan 8 tahun 200.000 unit
 
-[^2]: Yuan Eksekutif, "Rencana Pembangunan Perumahan Sosial", versi yang disahkan Maret 2017, https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/7345b2c6-1314-4fda-8e21-18b012466827
+[^3]: [Basis Data Hukum Nasional: Undang-Undang Perumahan Pasal 4](https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070195&flno=4) — Pasal berlaku: minimal 40% disewakan ke golongan ekonomi atau sosial lemah, minimal 20% disewakan ke keluarga menikah beranak, serta 13 kategori identitas lemah
 
-[^3]: Pangkalan Data Regulasi Nasional, "Undang-Undang Perumahan (Versi Revisi 2017)", https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070195
+[^4]: [Platform Informasi Properti Kementerian Dalam Negeri: Pengumuman Kemampuan Beban Harga Rumah Kuartal IV 113](<https://pip.moi.gov.tw/Upload/CustomFile/Doc/113%E5%B9%B4%E6%88%BF%E5%83%B9%E8%B2%A0%E6%93%94%E8%83%BD%E5%8A%9B%E7%AC%AC4%E5%AD%A3%E7%99%BC%E5%B8%83%E5%85%A7%E5%AE%B9(%E5%B9%B3%E5%8F%B0).pdf>) — Rasio harga rumah terhadap pendapatan nasional 10,76 kali, Taipei 16,43, New Taipei 14,08, Taoyuan 9,22 kali
 
-[^4]: Yayasan Cui Mama, "Laporan Survei Status Pasar Penyewaan Saat Ini", 2024, https://www.tmm.org.tw/
+[^5]: [Platform Informasi Properti Kementerian Dalam Negeri: Hasil Promosi Rumah Sosial](https://pip.moi.gov.tw/v3/b/SCRB0501.aspx?mode=7) — Tabel statistik real-time, pembangunan langsung terbagi tiga kolom sudah selesai, sedang dibangun, sudah menangkan tender menunggu mulai bangun, angka per 31 Agustus 2026
 
-[^5]: Pusat Perumahan dan Pembaruan Perkotaan Nasional, "Hasil Pelaksanaan Rencana Pembangunan Perumahan Sosial", 2024, https://www.hurc.org.tw/
+[^6]: [Koran Dagang Industri (2024-03-26): Lapisan Sewa Rumah Sosial Kementerian Dalam Negeri](https://www.ctee.com.tw/news/20240326701660-430104) — "Struktur dasar sewa rumah sosial 3 hingga 8 kali sepuluh", pemerintah daerah boleh pakai lapisan pendapatan atau identitas
 
-## Daftar Referensi
+[^7]: [Jaringan Sewa Rumah Sosial Taipei: Rumah Sosial Sehat](https://rent.thurc.org.taipei/Rental/Site/jiankang) — Taipei Distrik Songshan Jalan Jiankang 285-323, total 507 unit
 
-1. [Kementerian Dalam Negeri Biro Pengelolaan Tanah Nasional](https://pip.moi.gov.tw/v3/b/SCRB0501.aspx?mode=7), "Laporan Hasil Pelaksanaan Perumahan Sosial", Desember 2024
-2. [Pusat Perumahan dan Pembaruan Perkotaan Nasional](https://www.hurc.org.tw/), "Hasil Pelaksanaan Rencana Pembangunan Perumahan Sosial", 2024
-3. [Yuan Eksekutif, "Rencana Pembangunan Perumahan Sosial", versi yang disahkan Maret 2017](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/7345b2c6-1314-4fda-8e21-18b012466827)
-4. [Undang-Undang Perumahan (Versi Revisi 2017), Pangkalan Data Regulasi Nasional](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070195)
-5. [Yayasan Penelitian dan Pengembangan Pembaruan Perkotaan](https://www.ur.org.tw/), "Statistik Hasil Pelaksanaan Pembaruan Perkotaan", 2024
-6. [Wikipedia, entri "Perumahan Sosial Taiwan"](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E7%A4%BE%E6%9C%83%E4%BD%8F%E5%AE%85), edisi Maret 2024
-7. [Urban Renewal For All, laporan "Konstruksi Langsung dan Pengurusan Sewa-Pemeliharaan Mencapai Rekor Tertinggi"](https://urbanrenewal.wealth.com.tw/news-detail/1102), 2024
-8. [Biro Pengembangan Kota Taipei](https://udd.gov.taipei/), "Buku Putih Kebijakan Perumahan Sosial", 2023
-9. [Biro Pengembangan Perkotaan dan Pedesaan New Taipei](https://www.planning.ntpc.gov.tw/home.jsp?id=68301de1098d53bb), "Rencana Pengembangan Perumahan Sosial New Taipei", 2024
-10. [Kantor Pengembangan Perumahan Taoyuan](https://ohd.tycg.gov.tw/), "Hasil Pelaksanaan Perumahan Sosial Taoyuan", 2024
-11. [Yayasan Cui Mama](https://www.tmm.org.tw/), "Laporan Survei Status Pasar Penyewaan Saat Ini", 2024
-12. [Aliansi Pelaksanaan Perumahan Sosial](https://socialhousingtw.blogspot.com/), "Rekomendasi Kebijakan Perumahan Sosial", 2023
+[^8]: [Administrasi Eksekutif (2023-08-02): Hasil Kebijakan Rumah Sosial](https://www.ey.gov.tw/Page/9277F759E41CCD91/621fac0b-df30-450f-b60c-c4bd52c8b038) — "Sewa kelola diperkirakan akhir tahun ini kontrak efektif aktual sekitar 68 ribu unit"
+
+[^9]: [Biro Pengelolaan Tanah Nasional Kementerian Dalam Negeri: Rencana Ke-4 Sewa Kelola Rumah Sosial](https://www.nlma.gov.tw/uploads/files/d275a081739171fa541ae4cba76f0e11.pdf) — Harga kontrak sewa penuh tidak boleh melebihi 8 kali sepuluh harga pasar, kelola tidak boleh melebihi 9 kali sepuluh; kontrak sewa penuh 3 tahun, minimal 1 tahun sewa ulang; biaya perbaikan masing-masing unit per tahun maksimal NT$10.000, paling lama 3 tahun
+
+[^10]: [Biro Pembangunan Perumahan Singapura: Statistik Utama HDB 2024/2025](https://www.hdb.gov.sg/-/media/hdb-pulse/reports/annual-reports-and-financial-statements/HDB_Key-Statistics-2025.pdf) — Persentase penduduk Singapura tinggal di HDB: 76,0%
+
+[^11]: [Biro Statistik Belanda CBS (2024-12)](https://www.cbs.nl/nl-nl/nieuws/2024/49/in-2023-meer-wisseling-van-huur-naar-koopwoningen) — "Koperasi perumahan memegang 2,3 juta rumah (28 persen)", 1 Januari 2024
+
+## Referensi
+
+1. [Biro Pengelolaan Tanah Nasional Kementerian Dalam Negeri](https://pip.moi.gov.tw/v3/b/SCRB0501.aspx?mode=7), 《Laporan Hasil Promosi Rumah Sosial》, Desember 2024
+2. [Pusat Rumah Negara dan Perbaikan Perkotaan Nasional](https://www.hurc.org.tw/), 《Hasil Eksekusi Rencana Penggarapan Rumah Sosial》, 2024
+3. [Administrasi Eksekutif, 《Rencana Penggarapan Rumah Sosial》, versi disetujui Maret 2017](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/7345b2c6-1314-4fda-8e21-18b012466827)
+4. [Undang-Undang Perumahan (versi revisi 2017), Basis Data Hukum Nasional](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070195)
+5. [Yayasan Penelitian Pengembangan Perbaikan Perkotaan](https://www.ur.org.tw/), 《Statistik Hasil Promosi Perbaikan Perkotaan》, 2024
+6. [Wikipedia, entri 《Rumah Sosial Taiwan》](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E7%A4%BE%E6%9C%83%E4%BD%8F%E5%AE%85), versi Maret 2024
+7. [Semua Perbaikan Perkotaan Terhubung, laporan 《Jumlah Pembangunan Langsung dan Sewa Kelola Rekor Baru》](https://urbanrenewal.wealth.com.tw/news-detail/1102), 2024
+8. [Biro Pengembangan Perkotaan Kota Taipei](https://udd.gov.taipei/), 《Buku Putih Kebijakan Rumah Sosial》, 2023
+9. [Biro Pengembangan Kota dan Desa New Taipei](https://www.planning.ntpc.gov.tw/home.jsp?id=68301de1098d53bb), 《Rencana Perkembangan Rumah Sosial New Taipei》, 2024
+10. [Biro Perkembangan Perumahan Kota Taoyuan](https://ohd.tycg.gov.tw/), 《Hasil Promosi Rumah Sosial Taoyuan》, 2024
+11. [Yayasan Ibu Cui](https://www.tmm.org.tw/), 《Laporan Survei Kondisi Pasar Sewa》, 2024
+12. [Aliansi Promosi Rumah Sosial](https://socialhousingtw.blogspot.com/), 《Usulan Kebijakan Rumah Sosial》, 2023
