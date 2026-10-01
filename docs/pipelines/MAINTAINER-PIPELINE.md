@@ -1424,7 +1424,7 @@ python3 scripts/tools/verify_internal_links.py
 
 `sync.sh` 只寫 `src/content/{lang}`（gitignored 的投影層），`dist/` 也是 gitignored，所以這條路跟 babel 零碰撞，**不需要等一個沒有寫入者的空檔**。2026-10-01 在三個 worker 與 `babel-push-every --watch` 都在跑的情況下實測過。代價是這條路不會重算 `public/api/*` 與 `src/data/*`（那些由 `twmd-data-refresh-am` 每天 06:00 產出，斷鏈比對不需要它們是本班現算的）。
 
-⚠️ **build 還在跑的時候不要讀那支尺**：半成品 dist 的 mtime 是「現在」，24 小時的 staleness guard 會放行，而 total 會崩到個位數——10-01 本班在 build 開始一分鐘後讀到 `total: 1 broken: 1 ratio: 100.00% FAILED`，救下它的只是 100% 違反常識。先確認 `pgrep -f 'astro build'` 沒有東西，再讀。LESSONS `freshness-guard-reads-a-half-built-artifact-as-maximally-fresh`。
+⚠️ **build 還在跑的時候不要讀那支尺**：半成品 dist 的 mtime 是「現在」，24 小時的 staleness guard 會放行，而 total 會崩到個位數——10-01 本班在 build 開始一分鐘後讀到 `total: 1 broken: 1 ratio: 100.00% FAILED`，救下它的只是 100% 違反常識。先確認 `pgrep -f 'astro build'` 沒有東西，再讀。LESSONS `freshness-guard-reads-a-half-built-artifact-as-maximally-fresh`。**2026-10-01 heartbeat 起這件事改由尺自己檢查**：掃描前後各看一次有沒有 astro build 在跑（自己的祖先程序不算），有就回 `BUILDING`（exit 4），跟 STALE 一樣是「沒量到」。不必再靠當班記得先 `pgrep`。
 
 ### Step 4.2: LESSONS-INBOX append（if new pattern）
 

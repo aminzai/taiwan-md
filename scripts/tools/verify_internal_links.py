@@ -12,6 +12,7 @@ import posixpath
 import re
 import random
 import time
+import subprocess
 import html.parser
 import multiprocessing as mp
 from urllib.parse import unquote, urlparse
@@ -302,10 +303,52 @@ def _scan_chunk(args):
     return all_links, broken_links
 
 
+# ── Build-in-progress guard ──────────────────────────────────────
+#
+# 年齡上限擋得住舊的 dist，擋不住正在被寫的 dist：寫到一半的產物 mtime 是
+# 「現在」，在年齡尺底下是全庫最新鮮的一份。2026-10-01 maintainer-am 在背景
+# 起 sync:build 一分鐘後跑本檔，dist 只有 29 頁（完整 13,000+），印出
+# `zh-TW total: 1 broken: 1 ratio: 100.00%` 與 FAILED；救下那次的只是 100%
+# 違反常識，分母若是幾百、ratio 落在 7% 附近就會直接進收官表
+# （LESSONS freshness-guard-reads-a-half-built-artifact-as-maximally-fresh，
+# REFLEXES #38 / #82 / #99）。這道檢查不設任何新門檻：有 astro build 在跑
+# 就不給讀數，跟 STALE 一樣是「沒量到」而不是「通過」或「失敗」。
+
+BUILD_CMD = re.compile(r"(^|[\s/])astro(\.m?js)?\s+build\b")
+
+
+def running_astro_builds():
+    """回傳正在跑的 astro build 程序 [(pid, args)]；ps 叫不動時回 None（未知不是沒有）。"""
+    if os.environ.get("BROKEN_LINK_IGNORE_RUNNING_BUILD") == "1":
+        return []
+    try:
+        out = subprocess.run(
+            ["ps", "-A", "-o", "pid=,ppid=,args="],
+            capture_output=True, text=True, timeout=10, check=True,
+        ).stdout
+    except (OSError, subprocess.SubprocessError):
+        return None
+    procs = {}
+    for line in out.splitlines():
+        parts = line.split(None, 2)
+        if len(parts) >= 2 and parts[0].isdigit() and parts[1].isdigit():
+            procs[int(parts[0])] = (int(parts[1]), parts[2] if len(parts) > 2 else "")
+    # 自己與祖先不算：祖先的命令列提到 astro build（`astro build && python3
+    # verify_internal_links.py`），代表 build 已經跑完才輪到本檔，不是同時在寫。
+    # 2026-10-01 負控制就是被自己的父 shell 命中（命令列裡有那幾個字）。
+    lineage, pid = set(), os.getpid()
+    while pid in procs and pid not in lineage:
+        lineage.add(pid)
+        pid = procs[pid][0]
+    return [(p, args.strip()[:160]) for p, (_, args) in procs.items()
+            if p not in lineage and BUILD_CMD.search(args)]
+
+
 # ── Main scan ────────────────────────────────────────────────────
 
 def main():
     dist_dir = DIST_DIR
+    builds_at_start = running_astro_builds()
 
     # Collect all HTML files
     html_files = []
@@ -444,7 +487,16 @@ def main():
             f"{time.strftime('%Y-%m-%d %H:%M', time.localtime(newest_html_mtime))}"
             f"（齡 {dist_age_hours:.1f}h，上限 {MAX_DIST_AGE_HOURS:.0f}h）"
         )
-    if total_pages == 0 or total_internal == 0:
+    # 掃描前後各問一次：開始時在跑，或掃到一半才開始，dist 都不是一份完整的站。
+    builds_at_end = running_astro_builds()
+    builds_seen = (builds_at_start or []) + (builds_at_end or [])
+    if builds_seen:
+        print(f"  astro build 進行中              : {builds_seen[0][0]}  {builds_seen[0][1]}")
+    elif builds_at_start is None or builds_at_end is None:
+        print("  astro build 進行中              : 未知（ps 叫不動，沒能確認 dist 不是正在被寫）")
+    if builds_seen:
+        result = "BUILDING"
+    elif total_pages == 0 or total_internal == 0:
         result = "NOT-MEASURED"
     elif dist_age_hours is not None and dist_age_hours > MAX_DIST_AGE_HOURS:
         result = "STALE"
@@ -548,7 +600,13 @@ def main():
 
     # ── Final verdict ────────────────────────────────────────────
     print(sep)
-    if result == "NOT-MEASURED":
+    if result == "BUILDING":
+        print(f"  BUILDING — 掃描期間有 astro build 在寫 dist/（pid {builds_seen[0][0]}），"
+              f"這份 dist 只有 {total_pages} 頁，不是一份完整的站。")
+        print(f"  這不是通過也不是失敗。gated ratio {gated_ratio:.2f}% 的分母來自寫到一半的產物。")
+        print("  等 build 結束再跑本檔；若偵測到的是別的專案的 build，"
+              "顯式 BROKEN_LINK_IGNORE_RUNNING_BUILD=1。")
+    elif result == "NOT-MEASURED":
         print(f"  NOT-MEASURED — 掃到 {total_pages} 頁 / {total_internal} 條連結，沒有東西可量。")
         print(f"  這不是通過。{dist_dir}/ 是 build 產物，先跑 npm run build 再跑本檔；")
         print("  若是在 worktree 裡跑，該 worktree 沒有自己的 dist/。")
@@ -563,10 +621,10 @@ def main():
         print(f"  FAILED — gated broken ratio {gated_ratio:.2f}% >= {THRESHOLD_PERCENT}% (all-langs {broken_ratio:.2f}%)")
     print(sep)
 
-    # 四種結局各有自己的 exit code：呼叫端要能區分「壞了」「沒量到」「量的是舊的」。
-    # 0 PASS / 1 FAIL / 2 NOT-MEASURED / 3 STALE
+    # 五種結局各有自己的 exit code：呼叫端要能區分「壞了」「沒量到」「量的是舊的」「正在建」。
+    # 0 PASS / 1 FAIL / 2 NOT-MEASURED / 3 STALE / 4 BUILDING
     sys.exit(
-        {"PASS": 0, "FAIL": 1, "NOT-MEASURED": 2, "STALE": 3}[result]
+        {"PASS": 0, "FAIL": 1, "NOT-MEASURED": 2, "STALE": 3, "BUILDING": 4}[result]
     )
 
 

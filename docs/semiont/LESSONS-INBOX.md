@@ -338,6 +338,7 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **原則**：對產物設年齡上限的閘門回答的是「這份東西有多舊」，同時**無聲地把「它完整嗎」一律回答成是**。而兩種不可信的產物在這把尺底下站在相反的極端：過期的那份會被擋下，**正在被寫的那份是最新鮮的**。更糟的是比率型指標在分母崩掉時不會沉默——它會用同一種格式印出一個很有信心的結論。
 - **觸發**：2026-10-01 本班為了拿斷鏈 audit 的真讀數，在背景起 `npm run sync:build`，約一分鐘後跑 `verify_internal_links.py`。dist 的 mtime 是當下，24 小時的 staleness guard 因此放行，而輸出是 `zh-TW total: 1 broken: 1 ratio: 100.00%` 與 `FAILED — gated broken ratio 100.00% >= 7.0%`。當時 dist 只有 29 個 HTML（完整 build 是 13,000+），唯一那條「死連結」是 `/people/吳哲宇/`，一個在完整 build 裡存在的頁面。**救下它的只是 100% 違反常識**；如果那個分母剛好是幾百、ratio 剛好落在 7% 附近，這個讀數會被直接寫進收官表。前一輪（09-30）同一道閘門正確地因為 `STALE 72.3h` 擋下，所以這把尺不是壞的——它只量了兩種失效模式的其中一種。
 - **我自己的那一半**：這同時是 REFLEXES #99「尺先驗再用」的一次自體命中——我在輸入還沒就緒時就讀了儀器，而且是我自己剛剛啟動那個輸入的。工具沒有義務知道我手上有一個還在跑的 build，我有。
+- **已機械化（2026-10-01 semiont-heartbeat）**：候選 (b) 落地——`verify_internal_links.py` 掃描前後各問一次 `ps`，有 astro build 在跑（自己的祖先程序除外）就回 `BUILDING`、exit 4。正控制（背景假 build）回 4、負控制回原本的 STALE、祖先命令列提到 astro build 不算，三態驗過。(a) 完整性斷言與 (c) 分母下限仍開著，(c) 屬新門檻留給哲宇。
 - **候選機械化**：(a) 算比率之前先對 dist 的完整性斷言，用可推導的 ground truth 而不是憑感覺的數字——sitemap 的條目數、或 `knowledge/` 文章數 × enabled 語言數，對不上就印 INDETERMINATE 不印 FAILED；(b) 偵測到 `astro build` 正在跑（process 或 dist 內的 build 標記）就照 staleness 那條分支一樣 abort，這條不需要任何新門檻，最便宜；(c) 分母低於下限時拒絕跟門檻比較——這是在品質閘門上設一個新數字，屬 BECOME High-stake #3，要 Full mode 或哲宇，本班刻意不自己設。
 - **相關**：REFLEXES #38（混維度——「夠新」同時承載「建好了」與「正在建」；#38 (g) 零維度變體在這裡的形狀是分母 1 的比率）、#99（尺先驗再用）、#24（工具在說謊）、#82（proxy signal：mtime 是完整性的替身）
 - **verification_count**: 1
@@ -388,6 +389,7 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **instances**：
   - 2026-09-30 twmd-maintainer-am — 三個 PR 同型，三篇 CI 全綠 → `088ab1387`（#1783 搬正路徑後 merge）、#1782／#1784 留 open
 - **可能層級**：操作規則＋儀器候選。跟 [REFLEXES #84](REFLEXES.md)（產物要對賬 ground truth）同族：這裡的 ground truth 是 zh 來源的分類，而驗證只在譯文自己身上跑完就結束了。
+- **已機械化（2026-10-01 semiont-heartbeat）**：`test-frontmatter.mjs` 對帶 `translatedFrom` 的檔斷言路徑分類段 == 原文分類段，pre-commit、`pr-frontmatter-gate`、部署三處同支生效。全庫首跑抓到存量 5 篇（en×4、es×1，正是投稿者照抄的英文範本），同輪搬回原位加 301。「同一個 `translatedFrom` 在同語言出現兩次」那半沒做：全庫現量 0 組，staged 模式也看不到跨檔。
 - **候選機械化**：零判斷的一道閘——對任何帶 `translatedFrom` 的檔，斷言 `dirname(路徑的分類段) == dirname(translatedFrom)`，不一致即 hard。同一支還可以順便抓「同一個 `translatedFrom` 在同語言出現兩次」（既有的重複對問題，UNKNOWNS 🔴 那條的儀器化入口）。掛 pre-commit 與 `pr-frontmatter-gate` 兩處。
 - **相關**：REFLEXES #84、#38（一個狀態值蓋住兩種真相：`missing` 同時是「沒人做過」與「做在別的目錄」）；OBSERVER-QUEUE #51（subcategory 被翻掉）是同一個「譯文改了不該改的分類欄位」家族的另一面
 - **verification_count**: 1

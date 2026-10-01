@@ -12,7 +12,7 @@
 #   bash scripts/tools/verify-internal-links.sh          # full scan
 #   bash scripts/tools/verify-internal-links.sh --sample 50  # smoke test
 #
-# Exit codes（四種結局各有自己的號碼，呼叫端要能分辨）:
+# Exit codes（五種結局各有自己的號碼，呼叫端要能分辨）:
 #   0  PASS         gated broken ratio < threshold
 #   1  FAIL         ratio >= threshold
 #   2  NOT-MEASURED dist/ 不存在，或掃到 0 頁 / 0 連結——沒量到，不是通過
@@ -20,6 +20,8 @@
 #                   一個號碼，呼叫端分不出是站壞了還是根本沒量。REFLEXES #85 鏡像變體）
 #   3  STALE        量到了，但 dist/ 比 BROKEN_LINK_MAX_DIST_AGE_HOURS 還舊，
 #                   讀數描述的是舊產物那天的站，不是現在的站
+#   4  BUILDING     掃描期間有 astro build 在寫 dist/：寫到一半的產物 mtime 是「現在」，
+#                   年齡上限放得過它，但它不是一份完整的站（2026-10-01 heartbeat）
 #
 # Env:
 #   BROKEN_LINK_THRESHOLD=N             顯式覆寫 gate（必須在 routine memory 記一筆）
