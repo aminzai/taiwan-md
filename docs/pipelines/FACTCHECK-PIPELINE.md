@@ -3,9 +3,9 @@ title: 'FACTCHECK-PIPELINE'
 description: '事實查核方法論 SSOT — Phase 1-6 / 8 atom 類 / 4 維度 source authority / Quick + Full mode (v2.0)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v2.6'
-last_updated: 2026-09-21
-last_session: '2026-09-21-023814-semiont-heartbeat（§月度巡邏抽樣補條件 5：lastVerified 晚於出生 30 天以上者用它排序，投稿者重寫過的不再排前面）'
+current_version: 'v2.7'
+last_updated: 2026-10-02
+last_session: '2026-10-02-143724-semiont-heartbeat（§Phase 4 補否定式判定要用原文 grep 證明，先查文章自己的腳註頁）'
 sister_docs:
   - 'REWRITE-PIPELINE.md'
   - 'PEER-INGESTION-PIPELINE.md'
@@ -340,6 +340,8 @@ grep -nE '@[a-zA-Z0-9_]+|[a-zA-Z][a-zA-Z0-9_]+ Co\. Ltd|[A-Z]+@[a-z0-9]+\.[a-z]+
 
 > **命中不等於支持（REFLEXES #98，2026-09-20）**：原子 Ctrl-F 命中之後必再問一句「它在來源裡是這件事嗎」——屬於哪一年、哪一場、哪一個角色。人名對角色錯（馬英九 `[^3]` 的錢復真在中央社那篇裡，講的是勸解嚴）、數字對年份錯（外貿篇 4,750 億是財政部 2024 年真數字而文章寫 2023）、事件對場次錯（周蕙「售罄加開」是 2020 年那場）都會在來源頁 Ctrl-F 命中，判 **HARD-FIX** 不判 PASS。這一句寫進 verifier prompt，不寫成 regex：槽位是語意。
 
+> **查無也要用原文證明（v2.7，2026-10-02）**：否定式判定（🔴「查無出處」、❌「來源沒有這件事」、「不在此頁」）的舉證標準要比肯定式高，因為搜不到不會自己叫。兩條規則：(1) 先對**文章自己的每一條腳註頁**（含正文沒引用的孤兒腳註）做原文搜尋，再往外搜；(2) 判定依據必須是 `curl` 取回原文後 grep 的結果，WebFetch 回的「不在此頁」是摘要小模型的判斷，只算線索。病例：〈數位身分證與數位政府〉巡邏，子代對四個原子判「查無出處」，curl＋grep 全在文章自己的 [^1][^3][^9] 裡；照建議改會把「逾 2,000 位」換成較早報導的「超過百位」。LESSONS `i-concluded-not-found-from-one-failed-search` 第二例。
+
 **特別嚴格 atom 類**（一律必驗 verbatim）：
 
 1. **所有引號 `「⋯⋯」` 內的文字** — 引號 = 承諾「這是原話」
@@ -472,6 +474,7 @@ REWRITE Stage 3.5 既有 6 種；本 pipeline 新增 5 種（從 2026-04-28 沈�
 5. 輸出位置（append 到哪個檔的哪個 section）
 6. **「不修改既有 sections，只 append」**鐵律
 7. 自評項目（self-judge 末段）
+8. **否定式判定的舉證**：判「查無出處／不在此頁」前，先 curl 文章自己全部腳註頁 grep 原文，並在查核檔寫出 grep 過哪些頁（v2.7）
 
 **Spawn prompt 範例**：見本檔 §「附錄：spawn prompt template」（待補）。
 
@@ -733,3 +736,4 @@ _v2.5 | 2026-09-20 semiont-heartbeat 晚間 — §月度巡邏抽樣母體補「
 _v2.4 | 2026-09-20 twmd-distill-weekly — Phase 4 判定矩陣下加「命中不等於支持」但書：原子 Ctrl-F 命中後必問「它在來源裡是這件事嗎」（年份／場次／角色），原子對槽位錯判 HARD-FIX。源 REFLEXES #98（vc=3：馬英九錢復角色錯、外貿篇 2024 數字標 2023、周蕙加開場次錯）。v2.3（2026-09-19 C 級巡邏也落 research 檔）當時只更新 frontmatter 未寫 footer，此行一併補登。_
 _v2.2 | 2026-09-18 semiont-heartbeat 晚間 — 抽樣母體補第四條件「沒走過 REWRITE」（rationale／DONE-LOG／research 檔三訊號任一命中即排除）：v2.1 指令排出的前五篇有兩篇（李安、蔡英文）是已走完產線的 A 級，抽樣指令自己沒拿真實輸出校準（REFLEXES #66）。另寫明巡邏對 A 級 research 檔硬門檻的處理：audit 報告即建成該篇第一份 research 檔。_
 _v2.6 | 2026-09-21 semiont-heartbeat 凌晨 — §月度巡邏抽樣指令補條件 5「出生後又被人動過的往後排」：台灣黑熊 08-22 被投稿者整篇重寫仍以 03-18 出生日排進前五，巡完零錯；`lastVerified` 晚於 `date` 30 天以上即改用它排序，首跑 25 篇後移。_
+_v2.7 | 2026-10-02 semiont-heartbeat — §Phase 4 補「查無也要用原文證明」：否定式判定先 grep 文章自己的全部腳註頁、依據必須是 curl 原文而非 WebFetch 摘要；§Spawn prompt 必含元素加第 8 條。觸發：〈數位身分證與數位政府〉巡邏子代四處「查無出處」全在文章自己的腳註裡。_
