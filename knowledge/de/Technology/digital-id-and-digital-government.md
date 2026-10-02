@@ -1,19 +1,19 @@
 ---
-title: 'Digitale ID und digitale Regierung'
-description: 'Eine noch nicht ausgestellte Chipkarte führte zu einer Entschädigung von 280 Millionen – die Geschichte der digitalen Regierung in Taiwan beweist, dass Vertrauen schwieriger aufzubauen ist als Technologie.'
+title: 'Digitale Identität und digitale Regierung'
+description: '2021 ausgesetzte Chip-Identitätskarte, drei Jahre später für etwa 280 Millionen NT$ beigelegt; ein Jahr zuvor baute die Bürger-Hacker-Community innerhalb weniger Tage die Maskenkarte. Die Geschichte der digitalen Regierung Taiwans beweist: Vertrauen ist schwieriger aufzubauen als Technik.'
 date: 2026-03-18
 category: 'Technology'
 tags:
   [
-    'digitale Regierung',
+    'Digitale Regierung',
     'digitale Identität',
-    'E-Government',
+    'elektronische Regierung',
     'Ministerium für digitale Entwicklung',
     'g0v',
     'Cybersicherheit',
     'Datenschutz',
   ]
-subcategory: '開源社群'
+subcategory: '數位與網路'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-24
@@ -21,153 +21,161 @@ lastHumanReview: false
 difficulty: 'intermediate'
 readingTime: 12
 translatedFrom: 'Technology/數位身分證與數位政府.md'
-sourceCommitSha: '24efd20f3'
-sourceContentHash: 'sha256:06fbc10ed01b5aa5'
-sourceBodyHash: 'sha256:f5b7d5b360840e4c'
-translatedAt: '2026-09-11T16:37:41+08:00'
+sourceCommitSha: '6615ea1e6'
+sourceContentHash: 'sha256:b266b1831a82667c'
+sourceBodyHash: 'sha256:557151344a289bcc'
+translatedAt: '2026-10-03T03:14:54+08:00'
 ---
 
 # Digitale Identität und digitale Regierung
 
-> **30-Sekunden-Zusammenfassung:** Im Januar 2021 führte eine noch nicht ausgestellte Chip-ID zu Entschädigungszahlungen von etwa 280 Millionen Taiwan-Dollar. Das Projekt, das als New eID bekannt ist und eigentlich 23 Millionen Menschen ermöglichen sollte, „alle Angelegenheiten mit einer Karte zu erledigen“, wurde nach Unterschriften von über 2.000 Akademikern zwangsweise ausgesetzt. Ironischerweise entwickelte die zivilgesellschaftliche Hackerszene Taiwans im selben Jahr eine Maskenkarte – einen digitalen Regierungsdienst, den niemand gezwungen nutzen musste, aber alle enthusiastisch nutzten. Die wahre Geschichte der digitalen Governance in Taiwan ist nicht, wie fortschrittlich die Technologie ist, sondern wie Vertrauen aufgebaut wird.
+> **30-Sekunden-Überblick:** Im Januar 2021 stoppte die taiwanesische Regierung eine Chip-Identitätskarte, die noch nie ausgegeben worden war; drei Jahre später wurde mit etwa 280 Millionen NT$ (ca. 8,6 Millionen Euro) mit den Lieferanten eine Einigung erzielt. Das Projekt namens New eID sollte die gesamte Bevölkerung mit neuen Chip-Identitätskarten versorgen, wurde jedoch nach mehr als 2.000 Unterzeichnern von Wissenschaftlern, Universitätsprofessoren und IT-Sicherheitsexperten zurückgezogen. Ironischerweise entstand im Vorjahr, im Februar 2020, innerhalb weniger Tage die Maskenkarte – ein digitales Regierungsangebot, das niemand erzwang, aber alle nutzten wollten. Die wahre Geschichte der digitalen Governance Taiwans dreht sich nicht darum, ob die Technik fortgeschritten genug ist, sondern wie Vertrauen aufgebaut wird.
 
 ---
 
-## Eine durch eine Karte ausgelöste Vertrauenskrise
+## Eine Karte löst eine Vertrauenskrise aus
 
-Im Juni 2019 veröffentlichte der damalige Premierminister Su Tseng-chang auf Facebook ein Werbevideo für die künftige Einführung der digitalen Identität. Er sagte: „Früher wusste man alles über die Welt, ohne das Haus zu verlassen; in Zukunft wird man alles erledigen können, ohne das Haus zu verlassen.“ Der Chefsekretär des Premierministeramtes, Li Meng-yan, fügte hinzu: „128 Länder weltweit nutzen digitale Chip-Identitäten; Taiwan muss schnell aufholen und dem globalen Trend folgen.“ (Bericht von Reporter 2021)
+Im Juni 2019 veröffentlichte der Regierungschef der Exekutive (Premierminister) Su Zhenchang (Su Ts'eng-ch'iang) ein Werbevideo auf Facebook, in dem er die baldige Einführung digitaler Identitätskarten bewarb. Er sagte: „Früher hieß es: ‚Ein Gelehrter braucht nicht auszugehen, um die Welt zu verstehen‘; künftig heißt es: ‚Ein Gelehrter braucht nicht auszugehen, um die Welt zu verwalten‘.“ Der Stabschef der Exekutive, Li Meng-yen (Li Meng-hsuan), ergänzte: „128 Länder weltweit nutzen bereits Chip-basierte digitale Identitätskarten, Taiwan muss schnell nachlegen und den globalen Trend mitgehen.“ (Zitiert aus einem Bericht von Reporterer, 2021)
 
-Was der Premierminister nicht erwartet hatte, waren keine Applausrufe, sondern Wellen des Widerstands.
+Doch was die Regierung erwartete, war kein Applaus, sondern Wellen von Widerstand.
 
-Die Menschenrechtsförderungsorganisation Taiwans und die Open Culture Foundation starteten Unterschriftenaktionen, während eine zivilgesellschaftliche Rechtsreformstiftung Klagen gegen die Regierung einreichte; nach einer zweitägigen Konferenz des Academia Sinica (Asiatisches Amt für Wissenschaften) wurde ein politischer Weißbuchvorschlag vorgelegt, der eine Aussetzung empfahl. Im November 2020 fror das Legislativorgan direkt das Budget von 400 Millionen Taiwan-Dollar für die Erneuerung der Identität aus. Am 21. Januar 2021 entschied der Premierminister Su Tseng-chang, dass das Projekt zur Erneuerung der digitalen Identität mit einem Gesamtbudget von über 4,8 Milliarden Taiwan-Dollar (einschließlich der Auftragsvergabe für die Kartenherstellung in Höhe von 3,29 Milliarden Dollar und mehrerer anderer Beschaffungsprojekte; die Budgetdefinition ist uneinheitlich [^1]) ausgesetzt werden müsse.
+Taiwaner Menschenrechtsvereinigung und Open Culture Foundation starteten eine Unterschriftenkampagne; die Zivilgesellschaft für Justizreform reichte eine Klage gegen die Regierung ein; die Academica Sinica hielt eine zweitägige Konferenz und veröffentlichte ein Weißbuch, das eine Verschiebung der Pläne vorschlug. Im November 2020 setzte das Parlament die Finanzmittel für die Kartenumschreibung um 400 Millionen NT$ (ca. 12 Millionen Euro) auf Eis. Am 21. Januar 2021 entschied Premierminister Su Zhenchang, das Projekt mit einem Budget von über 480 Millionen NT$ (ca. 14,4 Millionen Euro) – einschließlich des Kartenherstellungsvertrags in Höhe von 329 Millionen NT$ (ca. 9,9 Millionen Euro) und weiterer Beschaffungen – vorübergehend auszusetzen.
 
-> 📝 **Kuratorische Anmerkung**
-> Ein Projekt, das von einer demokratischen Regierung mit einem Aufwand von 4,8 Milliarden investiert wurde, wurde durch seine eigene Zivilgesellschaft gestoppt – ein seltenes Ereignis weltweit. Die digitale Identität vieler Länder wird „von der Regierung entschieden und vom Volk akzeptiert“; Indiens Aadhaar-System registrierte 1,2 Milliarden Menschen und ist bis heute umstritten, aber die Karten wurden ausgestellt. Taiwans New eID steht immer noch auf der Warteliste.
-
----
-
-## Die Expertenmeinung erst nach Fertigstellung der Karten
-
-Das Scheitern dieser Karte war kein technisches Problem, sondern ein programmatisches Problem.
-
-Das Projekt zur digitalen Identität bestand aus vier Beschaffungsaufträgen: Das Planungsbüro wurde von Gexun Management Consulting gewonnen; die Auftragsvergabe für die Kartenherstellung (3,29 Milliarden Dollar) ging an AU Optronics; das Systemprojekt wurde nach mehreren Ausschreibungsversuchen von Chunghwa Telecom gewonnen; und der Verifizierungsauftrag ging an Diti Information. Das Problem war: Anfang 2020 wurden die Details noch nicht veröffentlicht, aber die letzten drei Aufträge waren bereits vergeben worden.
-
-Ein Mitglied des Arbeitskreises des Innenministeriums sagte gegenüber _Reporter_: „Die Ausschreibungen für die Karten waren abgeschlossen, und erst dann fragten sie uns nach Meinungen zu den Spezifikationen? Nachdem das zentrale Druckwerk fertig war, haben wir die Gesamtplanung geprüft.“ Er fügte hinzu: „Viele Leute halten den Arbeitskreis für eine reine Stempelmaschine.“ (Bericht von Reporter 2021)
-
-Einige Mitglieder lehnten später öffentlich ab, andere weigerten sich schlicht, an nachfolgenden Treffen teilzunehmen.
-
-Dies war nicht das erste Mal in Taiwan, dass es bei der Chip-Identität gescheitert ist. Bereits 1998 hatte die Regierung der Kuomintang („KMT“) eine „Nationalkarte“ eingeführt, die geplant war, Identitätsdaten, Krankenversicherungsdaten und Fingerabdrücke auf einer einzigen Chipkarte zu speichern. Dieser Versuch scheiterte unter dem Protest von Akademikern und zivilgesellschaftlichen Gruppen. 20 Jahre später änderte sich das Gesicht des Problems, aber der Kernkonflikt blieb derselbe.
+> 📝 **Redaktionsnotiz**
+> Ein demokratischer Staat, der 480 Millionen NT$ (ca. 14,4 Millionen Euro) in ein Projekt investiert, wird von seiner eigenen Zivilgesellschaft gestoppt. Das ist weltweit nicht üblich. In den meisten Ländern folgt der Ansatz: „Regierung entscheidet, Bevölkerung akzeptiert.“ Indiens digitale Identitätsnummer Aadhaar registriert mehr als eine Milliarde Menschen – trotz anhaltender Kontroversen – und das System läuft weiter. Taiwans New eID liegt bis heute auf der Aussetzungsliste.
 
 ---
 
-## „Die digitale Identität kann die Grundlage einer intelligenten Regierung oder eine Infrastruktur eines autoritären Regimes sein“
+## Die Karten waren bereits gedruckt – erst dann fragte man die Experten
 
-Chiu Wen-tsung (邱文聰), ein Forscher am Institut für Rechtswissenschaften der Academia Sinica, ist eine der wichtigsten akademischen Stimmen zum Thema digitale Identität in Taiwan. In einem Interview mit der Academia Sinica erklärte er das Grundproblem:
+Der Fehler dieser Karte lag nicht in der Technik, sondern im Verfahren.
 
-„Der größte Grund ist die Frage des digitalen Fußabdrucks. Papier lässt sich nach einer einmaligen Ansicht nicht speichern, es sei denn, man transkribiert den Inhalt separat. Aber wenn sie in einer digitalen Umgebung verwendet wird, gibt es immer einen Nutzungsnachweis. Wenn dieser digitale Fußabdruck durch unsere ständige Nutzung der Identität im Alltag akkumuliert, ist das schlimmste Szenario die Entstehung eines Überwachungssystems wie dem Sozialkredit-System auf der gegenüberliegenden Seite.“ (Interview mit Institut für Rechtswissenschaften)
+Das Projekt der digitalen Identitätskarte bestand aus vier Beschaffungsverfahren: Der Planungsvertrag wurde an das IT-Beratungsunternehmen Ditai (Ditai Group) vergeben; der Kartenherstellungsvertrag über 329 Millionen NT$ (ca. 9,9 Millionen Euro) ging an das Unternehmen Eastern Express (Dongyuan Dianji); der Systemvertrag wurde nach wiederholten erfolglosen Ausschreibungen an Chunghwa Telecom vergeben; der Vertrag für die Authentifizierung ging an das Unternehmen Ditri Information (Ditri Info) zu. Das Problem: Bereits Anfang 2020, bevor die detaillierten Pläne veröffentlicht worden waren, begann die Regierung mit den letzten drei Ausschreibungen. Erst zwei Monate vor der Testphase, als die Karten bereits in der Endphase der Produktion waren, wurden die relevanten Dokumente veröffentlicht.
 
-Der Anwalt Lin Yu-teng (林煜騰), der bei den Klagen der zivilgesellschaftlichen Rechtsreformhilfe assistierte, äußerte es noch direkter: „Die digitale Identität kann die Grundlage einer intelligenten Regierung oder eine Infrastruktur eines autoritären Regimes sein. Die Unterscheidung zwischen Gut und Böse liegt in der Bedeutung des Rechenschaftssystems.“ (Bericht von Reporter 2021)
+Ein Mitglied der Arbeitsgruppe des Innenministeriums sagte gegenüber Reporterer: „Die Kartenverträge waren bereits vergeben, als man uns fragte, ob die Spezifikationen Änderungen benötigen? Erst nachdem die Karten vom zentralen Druckereiunternehmen hergestellt worden waren, prüften wir die Gesamtplanung.“ Er führte hinzu: „Viele Menschen glauben, die Arbeitsgruppe sei nur eine Formalität.“ (Zitiert aus einem Bericht von Reporterer, 2021)
 
-> 📝 **Kuratorische Anmerkung**
-> Dieser Abschnitt ist der Kern des gesamten Streits. Taiwan hat erst seit 40 Jahren den Übergang vom autoritären zum demokratischen System hinter sich, und die Sensibilität für das Thema „die Nation weiß alles über deine Bewegungen“ ist höher als in vielen anderen Ländern. Dies ist keine Paranoia: Anfang 2020 wurden über 20 Millionen Haushaltsdaten im Darknet zum Verkauf angeboten; die Antwort des Innenministeriums war, ob sie wussten, woher die Daten stammten. Qiu Wen-tsung merkte an: „Ein Merkmal der Demokratie ist der Wechsel der Macht. Selbst wenn die heutige Regierung keine staatliche Überwachung durchführt, kann man nicht garantieren, dass in Zukunft Politiker aufsteigen werden, die eine solche Überwachung fordern.“
+Einige Mitglieder äußerten später öffentlich ihre Ablehnung; andere nahmen an den Folgetreffen nicht mehr teil.
+
+Dies war nicht das erste Mal, dass Taiwans Chip-Identitätskarte scheiterte. 1998 startete die regierungsfreie Partei (Kuomintang) ein Projekt namens „Nation Card“, bei dem Identitätskarte, Gesundheitskarte und Fingerabdrücke auf einer einzigen Chipkarte untergebracht werden sollten. Das Projekt wurde nach Protesten von Wissenschaftlern und Bürgergruppen eingestellt. Zwanzig Jahre später war es ein anderes Gesicht, aber die Kernprobleme blieben gleich.
 
 ---
 
-## Estland hat es geschafft, aber Taiwan lernte am falschen Ort
+## „Digitale Identität kann Grundlage für eine intelligente Regierung sein – oder für eine autoritäre Regierung“
 
-Das Innenministerium nannte bei der Förderung von New eID am häufigsten das Erfolgsbeispiel Estland. Dieses kleine baltische Land mit nur 1,32 Millionen Einwohnern baute ein System auf, das die Weltbank als „weltweit erfolgreichstes digitales Identitätssystem“ bezeichnete. 99 % der Regierungsdienste konnten online erledigt werden. Sie führten sogar eine externe Sicherung der „Regierungsdaten“ durch; falls das Land angegriffen würde, könnte die Regierung weiterhin in der Cloud funktionieren.
+Chiu Wen-tsung (Qiu Wencong), Forschungsmitarbeiter am Institut für Rechtswissenschaft der Academica Sinica, ist eine der wichtigsten Stimmen in Taiwans Debatte um digitale Identität. In einem Interview erklärte er das zentrale Problem:
 
-> **🔢 Zahlen sprechen Bände**
+„Die größte Herausforderung ist die Frage der digitalen Spuren. Physische Dokumente hinterlassen keine Spuren, es sei denn, jemand kopiert die Inhalte manuell. Im digitalen Raum hinterlässt jede Nutzung jedoch eine Nutzungsprotokollierung. Wenn diese digitalen Spuren durch die ständige Verwendung der Identitätskarte im Alltag akkumulieren, entsteht im schlimmsten Fall ein Überwachungssystem ähnlich dem sozialen Credit-Score-System auf dem chinesischen Festland.“ (Interview mit dem Institut für Rechtswissenschaft der Academica Sinica)
+
+Der Anwalt Lin Yuteng (Lin Yuteng), der die Zivilgesellschaft für Justizreform in der Klage unterstützte, formulierte es direkt: „Digitale Identität kann die Grundlage einer intelligenten Regierung sein – oder die Infrastruktur einer autoritären Regierung. Der Unterschied zwischen gut und böse liegt in der Rechenschaftspflicht.“ (Zitiert aus einem Bericht von Reporterer, 2021)
+
+> 📝 **Redaktionsnotiz**
+> Dieser Satz trifft den Kern der Debatte. Taiwan hat nur 40 Jahre Erfahrung mit der Übergang von autoritären zu demokratischen Strukturen. Die Sensibilität gegenüber dem Gedanken, dass „der Staat uns alle kennen kann“, ist in Taiwan höher als in den meisten anderen Ländern. Das ist keine Paranoia: Im Jahr 2021 wurden mehr als 20 Millionen Einträge der Bevölkerungsregistrierung im dunklen Web entdeckt, und das Innenministerium leugnete zunächst, dass die Daten aus staatlichen Quellen stammten. Chiu betonte: „Ein Merkmal einer demokratischen Gesellschaft ist der Wechsel der Regierungen. Selbst wenn die aktuelle Regierung keine staatliche Überwachung betreiben will, können wir nicht sicherstellen, dass zukünftige Politiker, die eine staatliche Überwachung wünschen, nicht an die Macht kommen.“
+
+---
+
+## Estland hat es geschafft – Taiwan hat sich falsch orientiert
+
+Als das Innenministerium New eID vorantrieb, zog es Estland als Vorbild heran. Dieses baltische Kleinstaat mit 1,32 Millionen Einwohnern hat laut der Weltbank das erfolgreichste digitale Identitätssystem der Welt aufgebaut. 99 % aller Regelungen können online erledigt werden. Sie sichern sogar die Regierungsdaten selbst durch lokale Spiegelung – falls das Land angegriffen wird, kann die Regierung weiterhin im Cloud-Bereich arbeiten.
+
+> **🔢 Zahlen sagen mehr**
 >
-> - Estland: Digitale Identitätsdurchdringung **97 %**, digitale Bürgerbeteiligung **weltweit führend** (UN-Bewertung)
-> - Taiwan Naturpersonenzertifikat (ausgestellt 2003): Die tatsächliche Nutzungsrate war bis zur Aussetzung durchweg gering, die Hauptnutzung konzentrierte sich auf die Steuerperiode
+> - Estland: Die digitale Beteiligung der Bürger ist **weltweit führend** (Bewertung der Vereinten Nationen, 2020)
+> - Taiwans Natural-Person Certificate (seit 2003): Vor der Aussetzung blieb die tatsächliche Nutzungsrate niedrig, hauptsächlich während der Steuererklärung
 
-Aber Qiu Wen-tsung merkte an, dass Taiwan nur die technische Haut von Estland kopiert und nicht das zugrundeliegende System verstanden hat. Estland verfügt über spezielle Gesetze, die den Verwendungszweck der Identität streng regeln; noch wichtiger ist, dass jeder Bürger jederzeit nachsehen kann: „Wer, wann und zu welchem Zweck seine Daten eingesehen hat“, und bei Anomalien sofort Anzeige erstatten kann. Als 2007 in Estland eine große Datenpanne stattfand, gab die Regierung dies unverzüglich zu und stellte neue nationale Identifikationsnummern aus.
+Doch Chiu Wen-tsung weist darauf hin, dass Taiwan nur die äußere Erscheinung von Estlands Technologie kopierte, nicht jedoch die dahinterstehenden institutionellen Mechanismen. Estland hat klare gesetzliche Regelungen, die den Einszweck der Identitätskarte bestimmen. Noch wichtiger ist: Jeder Bürger kann jederzeit einsehen, **wer, wann und zu welchem Zweck** seine Daten eingesehen hat, und bei Verdachtsfällen unverzüglich klagen. Als 2017 ein Sicherheitsloch in Estlands eID-Chips entdeckt wurde, veröffentlichte die Regierung unverzüglich eine Erklärung an die gesamte Bevölkerung, gab regelmäßige Fortschrittsberichte und zog Millionen von fehlerhaften Chips zurück – alle noch bevor Schäden entstanden.
 
-Im Jahr 2019 schrieb das Innenministerium nach einem Besuch in Estland in seinem Bericht: „Die Regierung hat mit größter Sorgfalt und Ernsthaftigkeit vorgegangen; bei Auftreten von Fehlern sollte die Regierung mutig Fehler eingestehen.“ Dann kehrte es nach Taiwan zurück und tat fast das genaue Gegenteil.
-
----
-
-## Maskenkarte: Ein anderer Weg der digitalen Regierung
-
-Obwohl die digitale Identität ins Stocken geriet, war Taiwans digitale Governance kein Wüstengebiet. Tatsächlich repräsentierte nicht New eID von oben nach unten den Geist der digitalen Regierung in Taiwan, sondern das g0v-System (Zero-Hour Government) von unten nach oben.
-
-Anfang Februar 2020, als die COVID-19-Pandemie ausbrach, führte Taiwan eine Namensregistrierung für Masken ein, aber die Bürger wussten nicht, welcher Drogerie noch Masken hatte. Wu Zhanwei (吳展瑋), Gründer von Tainan Haoxiang Studio, entwickelte zuerst einen Prototyp einer Supermarktmaskenkarte. Die damalige politische Beraterin Tang Feng (唐鳳) sah dies und kontaktierte sofort Wu Zhanwei und koordinierte innerhalb weniger Tage die Freigabe der Echtzeit-Maskenlagerbestände durch eine öffentliche API.
-
-> „Tang Feng hatte Entscheidungsbefugnis und konnte selbst Code ändern, also mussten wir keinen Chef in Taipei informieren; die Entwickler konnten sich auf die Entwicklung konzentrieren.“ – Wu Zhanwei (Bericht von Technews 2020)
-
-Tausende zivilgesellschaftliche Hacker nahmen an einem Online-Hackathon teil. Laut einem Bericht von NPR [^6] konnte jeder Mensch in ganz Taiwan innerhalb der sechs Tage nach Veröffentlichung der ersten Version der Karte den Maskenbestand jedes Geschäfts in Echtzeit einsehen. Entwickler aus Korea und Japan folgten später dem taiwanesischen Modell, aber die allgemeine Schlussfolgerung war: Die Erfahrung Taiwans ist schwer zu replizieren.
-
-Die Lektion dieser Geschichte ist nicht nur technischer Natur. Der Vergleich zwischen der digitalen Identität und der Maskenkarte enthüllt das zentrale Paradoxon der digitalen Regierung: **Der erfolgreichste digitale Dienst einer Regierung wird oft nicht von ihr selbst entworfen.**
+Im Jahr 2019 schrieb das Innenministerium in seinem Bericht über den Besuch in Estland: „Die Regierung sollte mit größtmöglicher Sorgfalt und gründlicher Analyse voranschreiten und bei Fehlern unverzüglich ehrlich zugeben.“ Doch zurück in Taiwan tat man fast das Gegenteil.
 
 ---
 
-## Von politischem Berater bis zum Ministerium für digitale Entwicklung
+## Die Maskenkarte: Ein anderer Weg der digitalen Regierung
 
-Tang Feng spielte bei der Maskenkarte die Rolle einer Vermittlerin, nicht einer Kommandantin; diese Position erstreckte sich später auf ihre neue Stelle. Am 27. August 2022 wurde das Ministerium für digitale Entwicklung (moda) in Taiwan offiziell gegründet, und Tang Feng trat als erste Ministerin an (amtierend von 2022 bis Mai 2024 [^4]; nach ihrem Rücktritt im Mai 2024 übernahm Huang Yan-nan). Bei der Eröffnung sagte sie, dass die Aussprache von moda wie „Motor“ klingen solle und das Land als Motor für seine digitale Entwicklung sehen wolle.
+Während das Projekt der digitalen Identitätskarte scheiterte, war Taiwans digitale Governance kein leeres Feld. Tatsächlich verkörpert die spirituelle Essenz von Taiwans digitaler Regierung nicht das von oben gesteuerte New eID, sondern die von unten kommende g0v („GovZero“) – die Bürger-Hacker-Community.
 
-Die Gründung des Ministeriums für digitale Entwicklung war selbst ein Produkt des Scheiterns der digitalen Identität. Als die digitale Identität ausgesetzt wurde, gab der damalige Innenminister Hsu Kuo-yong zugeben: „Wer wird die zuständige Behörde für die digitale Identität sein und ob wir eine neue spezialisierte Behörde benötigen – da gibt es derzeit keine Antwort.“ Zwei Jahre später wurde die Antwort gegeben: Das Ministerium für digitale Entwicklung übernahm dieses Puzzleteil.
+Im Februar 2020, in den ersten Tagen der COVID-19-Pandemie, führte Taiwan eine Masken-Reservierung mit Namensnennung ein, doch die Menschen wussten nicht, welche Apotheken noch Masken hatten. Wu Zhanwei (Wu Chuan-wei), Gründer des Studios „Nanti Hsien-she“ (Tainan Ideas Studio), entwickelte zuerst einen Prototypen der Maskenkarte für Supermärkte. Audrey Tang (Tang Feng), damals politische Beraterin, lud Wu ein, die offizielle Apotheken-Maskenkarte zu entwickeln, und koordinierte innerhalb weniger Tage die Veröffentlichung einer offenen API für die aktuellen Maskenbestände.
 
-Die Herausforderungen bleiben jedoch enorm. Ein White-Hat-Hacker namens Howard (Pseudonym) wies in einem Interview strukturelle Probleme hin: „Das eigentliche Problem der Regierung ist, dass die zuständigen Mitarbeiter keine Technik verstehen und das Cybersicherheitsmanagement nicht durchgesetzt werden kann. Egal ob bei der Ausschreibung oder beim Abnehmen, man kann nicht überprüfen, ob Sicherheitsrisiken vorhanden sind.“ Die Cybersicherheitsprüfung des Premierministeramtes für 10 Regierungsstellen im Jahr 2019 ergab einen Durchschnitt von nur 69,3 Punkten, wobei sechs Stellen die technische Prüfung nicht bestanden. Es gab einen Mangel an Fachkräften in der Verwaltung, die sich mit Cybersicherheit befassten – ein Defizit von bis zu sechzig Prozent und über tausend Mitarbeiter. (Bericht von Reporter 2021)
+> „Audrey Tang hat die Entscheidungsbefugnis und kann gleichzeitig selbst Code schreiben, daher müssen wir nicht nach oben kommen und bei einem leitenden Beamten Bericht erstatten – die Entwickler können sich einfach auf die Entwicklung konzentrieren.“ — Wu Zhanwei (Zitiert aus einem Bericht von TechNews, 2020)
 
-> **🔢 Zahlen sprechen Bände**
+Tausende Bürger-Hacker nahmen an einem Online-Hackathon teil. Laut einem Bericht von NPR[^6] konnten innerhalb von sechs Tagen nach Veröffentlichung der ersten Karte alle Menschen in Taiwan in Echtzeit die Maskenbestände jeder Apotheke einsehen. Wu öffnete später den Quellcode der Supermarkt-Maskenkarte für Entwickler in Malaysia; Entwickler von Code for Japan fragten ebenfalls nach, wie sie die Karte an Japan anpassen könnten – doch alle kamen zum gleichen Schluss: Taiwans Erfahrung ist schwer zu kopieren[^8]。
+
+Diese Geschichte lehrt nicht nur etwas über Technik. Der Kontrast zwischen digitaler Identität und Maskenkarte enthüllt den zentralen Widerspruch der digitalen Regierung: **Die erfolgreichsten digitalen Dienste einer Regierung entstehen oft nicht durch Regierungsdesign, sondern durch bottom-up-Initiativen.**
+
+---
+
+## Von der politischen Beraterin zum Ministerium für digitale Entwicklung
+
+In der Maskenkarte spielte Audrey Tang (Tang Feng) die Rolle einer Vermittlerin statt einer Kommandantin – eine Position, die sie später auch in ihrer neuen Position übernahm. Am 27. August 2022 wurde das Ministerium für digitale Entwicklung (MODA) offiziell gegründet, und Audrey Tang wurde zur ersten Ministerpräsidentin ernannt (Amtzeit: August 2022 bis Mai 2024[^4]; nach ihrer Abreitung im Mai 2024 übernahm Huang Yen-nan das Amt, und in diesem Text wird Audrey Tang stets als erste Ministerin genannt). Bei der Gründungszeremonie sagte sie, MODA klingt wie „Motor“, und wünschte sich, dass es zum Antrieb Taiwans digitaler Entwicklung werde.
+
+Als das Projekt der digitalen Identitätskarte ausgesetzt wurde, räumte der Innenminister Xu Guoyong (Xu Guoyong) gerecht: „Wir wissen noch nicht, wer die zuständige Behörde sein wird, ob ein neues spezialisiertes Ministerium erforderlich ist.“ Etwas mehr als ein Jahr später, als MODA gegründet wurde, hatte Taiwan eine spezialisierte Behörde für digitale Governance.
+
+Doch die Herausforderungen blieben groß. Ein weißer Hacker namens Howard (Pseudonym) sagte in einem exklusiven Interview mit Reporterer: „Das grundlegende Problem ist, dass die zuständigen Beamten im Ministerium keine technischen Kenntnisse haben und die Cybersicherheit nicht wirksam umsetzen können. Wenn die zuständigen Personen nicht verstehen, was sie tun, dann kann selbst bei einwandfreiem Ablauf der Beschaffungsverfahren und Abnahmen niemand sicherstellen, ob Sicherheitslücken vorhanden sind.“ Eine Cybersicherheitsaudits des Exekutiven Rates im Jahr 2019 ergaben, dass der durchschnittliche Score aller 10 untersuchten Behörden nur 69,3 Punkte erreichte, wobei sechs Behörden die technischen Tests nicht bestanden. In der Regierung gab es einen Mangel an spezialisiertem Cybersicherheitspersonal von bis zu 60 %, d.h. mehr als tausend fehlende Stellen. (Zitiert aus einem Bericht von Reporterer, 2021)
+
+> **🔢 Zahlen sagen mehr**
 >
-> - Die Untersuchungsbehörde suchte nach Cybersicherheitsanalysten, die einen Doktortitel und 9 Fachkenntnisse erforderten; das Gehalt: **58.000 Yuan**
-> - Im Jahr 2019 wurden **590.000** persönliche Daten von Beamten durch die Personalverwaltung gestohlen
-> - Anfang 2021 tauchten über **20 Millionen** Haushaltsdaten Taiwans im Darknet auf
+> - Das Statistikamt hatte eine Stelle für Cybersicherheitsanalysten ausgeschrieben, mit Anforderung eines Doktortitels und neun Fachkenntnissen, monatliches Gehalt: **58.000 NT$** (ca. 1.700 Euro)
+> - 2019 offenbarte das Personalrat (Civil Service Employment) ein Datenleck mit **590.000** Einträgen sensibler Daten von Regierungsangestellten
+> - Im Jahr 2021 tauchten im dunklen Web mehr als **20 Millionen** taiwanesischer Bevölkerungsregistrierungsdaten auf
 
 ---
 
-## vTaiwan und das Experiment der offenen Regierung
+## vTaiwan und Experimente mit offener Regierung
 
-Während der Weg der digitalen Identität blockiert war, ging Taiwan auf einem anderen Pfad der „digitalen Demokratie“ weiter als die meisten Länder.
+Während die digitale Identität auf Hindernissen stand, ging Taiwans digitaler Weg in Richtung „digitale Demokratie“ viel weiter als in den meisten anderen Ländern.
 
-Die Plattform vTaiwan, die 2015 online ging, nutzte ein KI-Tool namens Pol.is für die Bürgerbeteiligung an der Politikgestaltung. Der bekannteste Fall ist die Diskussion über die Regulierung von Uber im Jahr 2015, bei der die Regierung den Verhandlungstisch öffnete und Uber-Fahrer, Taxifahrer und Passagiere direkt auf der Plattform debattierten. Der daraus resultierende Konsens diente als Grundlage für die Gesetzgebung. Laut Statistiken von CrowdLaw wurden seit dem Start von vTaiwan über 80 % der Diskussionen in konkrete Regierungsmaßnahmen umgesetzt (basierend auf den eigenen Angaben von vTaiwan, Case Study von CrowdLaw [^2]).
+Im Dezember 2014 gründete die ehemalige Regierungsberaterin Tsai Yuyu (Tsai Yuyu) zusammen mit g0v die Plattform vTaiwan. Mit dem Tool Pol.is ermöglichte sie es den Bürgern, an der Gesetzgebung mitzuwirken. Der bekannteste Fall war die Debatte über die Regulierung von Uber im Jahr 2015: Die Regierung trat zurück, und Fahrer, Taxi-Fahrer und Passagiere diskutierten direkt auf der Plattform. Die daraus entstandene Konsens wurde später in die Gesetzgebung einbezogen. Laut CrowdLaw wurden mehr als 80 % der Themen auf vTaiwan in konkrete Regierungsmaßnahmen umgesetzt (angegeben von vTaiwan selbst, laut CrowdLaw-Fallstudie[^2]).
 
-Tang Fengs Einstellung zu vTaiwan war klar: „Das ist keine Lösung für die Demokratie, sondern ein Prozess des Konsensschaffens. Der grobe Konsens auf vTaiwan kann nur als Referenz für die Politikgestaltung dienen; echte Veränderung erfordert die Kraft der Bürgerbeteiligung.“ (Spezialbericht von Reporter über offene Regierung)
+Audrey Tang betrachtet vTaiwan klar: Sie sah sie als Konsensbildungsprozess und Form der Meinungswahrnehmung, nicht als Lösung für Demokratie. Sie sagte: „Die grobe Übereinstimmung auf der Plattform kann nur als Referenz für die Gesetzgebung dienen; echte Veränderung erfordert weiterhin die Kraft der Bürgerbeteiligung.“ (Zitiert aus einem Bericht von Reporterer, 2021)
 
-Dies spiegelt die Lektion der digitalen Identität wider: Die Technologie selbst ist keine Lösung. Eine Technologie ohne Vertrauen ist gefährlich; eine Technologie mit Vertrauen, aber grob ausgeführt, kann sogar weiter kommen.
-
----
-
-## Die Lehre aus 480 Millionen
-
-Nach dem Aussetzen des Projekts zur digitalen Identität forderten die beteiligten Unternehmen ursprünglich über 1 Milliarde Taiwan-Dollar Schadensersatz. Im Januar 2024 wurde durch eine Mediation der Kommission für öffentliche Bauprojekte ein Endbetrag von unter etwa 280 Millionen Dollar erreicht [^3]. Der Innenminister Lin You-chang gab zu: „Über 200 Millionen sind das beste Ergebnis.“
-
-Die 280 Millionen, zusammen mit den bereits verbrauchten Geräten und den Kosten für die Räumlichkeiten, ergaben eine noch nicht ausgestellte Chipkarte. Aber vielleicht hat sie Taiwan Gesellschaft einen Unterricht in der digitalen Governance vermittelt:
-
-**Man kann die sicherste Chipkarte der Welt bauen, aber wenn das Volk dir nicht vertraut, bleibt die Karte immer nur ein Stück Plastik.**
-
-Estland baute durch 30 Jahre Transparenz eine digitale Bürgerbeteiligung von 97 % auf. Die Zivilgesellschaft Taiwans bewies, dass sie in drei Tagen eine Maskenkarte erstellen und ein Regierungsprojekt im Wert von 4,8 Milliarden stoppen konnte. Beide sind Muskeln der digitalen Demokratie.
-
-Am Ende des Interviews mit der Academia Sinica sagte Qiu Wen-tsung etwas, das vielleicht die präziseste Anmerkung zu dieser ganzen Geschichte ist: „Man darf nicht nur betonen, wie toll andere Länder digitalisiert sind und wir schnell nachmachen sollten, aber dabei die rechtliche Grundlage ignorieren, die andere mühsam aufgebaut haben.“ (Interview mit Institut für Rechtswissenschaften)
-
-Heute im Jahr 2026 hat Taiwan immer noch keinen Zeitplan für seine digitale Identität. Aber während der jährlichen Steuerperiode nutzen Millionen von Taiwanesern weiterhin das Naturpersonenzertifikat aus dem Jahr 2003, um ihre häufigste digitale Interaktion mit der Regierung mithilfe eines Kartenlesers abzuschließen. Diese alte Karte wurde nicht durch eine Vertrauenskrise getroffen, weil sie nie zu viel versprochen hat.
+Dies ist der Spiegelbild der Lehren aus der digitalen Identität: Technik allein ist keine Lösung. Ohne Vertrauen ist Technik gefährlich; mit Vertrauen, aber unvollkommener Technik, kann man noch weiter kommen.
 
 ---
 
-## Referenzen
+## Die Lehren für 480 Millionen NT$
 
-[^1]: [Reporter (2021). „Die Distanz Taiwans zur ‚digitalen Nation‘ aus der Geschichte der digitalen Identität“](https://www.twreporter.org/a/e-id-in-taiwan-2021-failed) — Erstbericht; bestätigt, dass AU Optronics den Auftrag für die Kartenherstellung mit 3,29 Milliarden Dollar erhielt; das Gesamtbudget umfasst vier Aufträge (Planung/Herstellung/System/Verifizierung), insgesamt über 4,8 Milliarden.
+Nach der Aussetzung des digitalen Identifikationsprojekts stellten die Lieferanten den Regierung mehr als 100 Millionen NT$ (ca. 3 Millionen Euro) Schadensersatzforderung. Im Januar 2024 wurde der Streit durch das öffentliche Ingenieurkomitee (Public Construction Commission) mit einem Vergleag in Höhe von etwa 280 Millionen NT$ (ca. 8,4 Millionen Euro) beigelegt[^3]。 Innenminister Lin Yousheng (Lin You-sheng) sagte dazu: „Ich denke nicht, dass es sich um eine Entschädigung handelt; eher um einen Schadenbegrenzungsbetrag. Dieser Betrag von etwa 200 Millionen NT$ (ca. 6 Millionen Euro) ist bereits das beste Ergebnis.“ (Zitiert aus einem Bericht von PTS News Net, 2024)[^13]
 
-[^2]: [CrowdLaw – vTaiwan Fallstudie](https://congress.crowd.law/case-vtaiwan.html) — Die Angabe von über 80 % der Diskussionen, die zu Regierungsmaßnahmen führten, ist eine Selbstangabe von vTaiwan; Zusammenfassung der CrowdLaw-Fallstudien.
+Die 280 Millionen NT$ (ca. 8,4 Millionen Euro) kauften eine Karte, die nie versandt worden war. Doch was sie wirklich kauften, war eine Lektion für die taiwanesische Gesellschaft im Umgang mit digitaler Governance:
 
-[^3]: [BNext (2024). „Digitale Identität fordert 280 Millionen Dollar vom Volk“](https://www.bnext.com.tw/article/62504/eid-information-security) — Die Forderung der Unternehmen über 1 Milliarde; die Mediation der Kommission für öffentliche Bauprojekte im Januar 2024 endete bei unter etwa 280 Millionen Dollar.
+**Man kann die sicherste Karte der Welt herstellen – wenn das Volk einem nicht vertraut, bleibt die Karte nur ein Stück Plastik.**
 
-[^4]: [Offizielle Website des Ministeriums für digitale Entwicklung (moda)](https://moda.gov.tw/) — Tang Feng trat als erste Ministerin an (August 2022 bis Mai 2024); im Mai 2024 trat sie zurück, und Huang Yan-nan ist die aktuelle Ministerin.
+Estland baute in 30 Jahren durch Transparenz die führende digitale Beteiligung der Bevölkerung laut den Vereinten Nationen auf. Taiwans Bürgergesellschaft bewies, dass sie in der Lage ist, innerhalb einer Woche eine Maskenkarte zu bauen – und ebenso in der Lage ist, ein staatliches Projekt mit 480 Millionen NT$ (ca. 14,4 Millionen Euro) zu stoppen. Beides sind Muskeln der digitalen Demokratie.
 
-[^5]: [Institut für Rechtswissenschaften der Academia Sinica (2020). „Digitale Identität – Wie cool ist das? – Interview mit Forscher Qiu Wen-tsung“](https://www.iias.sinica.edu.tw/blog_post/1118?class=96) — Qiu Wen-tsungs Diskussion über die rechtliche Grundlage der digitalen Governance; stellt das Problem des Mangels an eID-Regularien dar.
+Chiu Wen-tsung sagte am Ende seines Interviews mit der Academica Sinica vielleicht am treffendsten: „Man darf nicht nur betonen, wie gut andere Länder digitalisiert sind und wie schnell wir nachmachen müssen – man darf nicht vergessen, wie viel harter Kampf hinter der digitalen Transformation anderer Länder steckt.“ (Interview mit dem Institut für Rechtswissenschaft der Academica Sinica)
 
-[^6]: [NPR (2020). „Audrey Tang bringt Civic Tech in Taiwans Coronavirus-Pandemiebekämpfung“](https://www.npr.org/transcripts/949764249) — Die Maskenkarte war innerhalb von sechs Tagen in ganz Taiwan verbreitet; taiwanesische Civic Tech im Umgang mit COVID-19.
+Im Jahr 2026 gibt es immer noch keinen konkreten Zeitplan für Taiwans digitale Identität. Doch jedenfalls während der Steuererklärung stecken Millionen Taiwanesen immer noch ihre Natural-Person Certificates aus dem Jahr 2003 in einen Kartenleser und erledigen ihre digitalen Interaktionen mit der Regierung. Diese alte Karte wurde nicht von der Vertrauenskrise getroffen, weil sie nie zu viel versprochen hat.
 
-[^7]: [BBC (2020). „How map hacks and buttocks helped Taiwan fight Covid-19“](https://www.bbc.com/news/technology-52883838) — Englischer Bericht über die taiwanesische Maskenkarte und die zivilgesellschaftliche Reaktion auf die Pandemie.
+---
 
-[^8]: [Technews (2020). „Die Team hinter der Maskenkarte enthüllt: ‚Landrettung durch Tastatur‘“](https://technews.tw/2020/02/23/expose-the-team-behind-mask-map/) — Der Entwicklungsprozess der Maskenkarte; Wu Zhanwei und die g0v zivilgesellschaftliche Hackerszene.
+**Weiterführende Literatur:**
 
-[^9]: [Reporter (2021). „Selbst Estland hat gesichert! Wie Estland die weltweit erfolgreichste digitale Gesellschaft aufgebaut hat“](https://www.twreporter.org/a/e-id-in-estonia) — Die Erfahrung des digitalen Staatsaufbaus in Estland; Vergleich der digitalen Governance-Pfade Taiwans.
+- [Open-Source-Gemeinschaft und g0v](/technology/開源社群與g0v) — Die Bürger-Hacker hinter der Maskenkarte, von „GovZero“ bis vTaiwan
+- [Maskenstaatsteam](/economy/口罩國家隊) — Die andere Seite dieser Krise: Maschinenbau, Textilindustrie, Militär und Regierung verbinden sich zu einer Produktionskette
+- [Taiwans Cybersicherheitsindustrie](/technology/台灣資安產業發展) — Wenn Regierungsbeamte keine Technik verstehen und 60 % der Cybersicherheitskräfte fehlen: Wie die Industrie diese Lücke schließt
 
-[^10]: [Reporter – Spezialbericht über offene Regierung. „Offene Regierung, ernsthaft?“](https://www.twreporter.org/a/open-government) — Tang Fengs Diskussionen zu vTaiwan; Fallbeispiele der offenen Regierungsexperimente.
+## Quellen
 
-[^11]: [Menschenrechtsförderungsorganisation Taiwans – Seite zur Chip-Identität](https://www.tahr.org.tw/issues/privacy/eid) — Menschenrechtliche Position und Unterschriften gegen das New eID Projekt.
+[^1]: [Reporterer (2021). „Von der gescheiterten digitalen Identität: Wie weit ist Taiwan von einem ‚digitalen Staat‘ entfernt?“](https://www.twreporter.org/a/e-id-in-taiwan-2021-failed) — Ersterhebliche Untersuchung; bestätigt, dass der Kartenherstellungsvertrag über 329 Millionen NT$ (ca. 9,9 Millionen Euro) an Dongyuan Dianji vergeben wurde; das Gesamtbudget umfasst Planung, Herstellung, System und Authentifizierung mit insgesamt mehr als 480 Millionen NT$ (ca. 14,4 Millionen Euro)
 
-[^12]: [Open Culture Foundation – Unterschrift: Gesetzgebung und Offenlegung von EID-Informationen](https://ocf.tw/p/eid/) — Die zivilgesellschaftliche Bewegung zur Offenlegung von EID-Informationen und Gesetzesreform.
+[^2]: [CrowdLaw – vTaiwan Case Study](https://congress.crowd.law/case-vtaiwan.html) — Mehr als 80 % der Themen wurden in Regierungsmaßnahmen umgesetzt, laut Angaben von vTaiwan und der CrowdLaw-Fallstudie
+
+[^3]: [Digitale Ära (2024). „Digitale Identität ausgesetzt – 280 Millionen NT$ (ca. 8,4 Millionen Euro) von Steuerzahlern gezahlt“](https://www.bnext.com.tw/article/62504/eid-information-security) — Lieferanten forderten 526 Millionen NT$ (ca. 15,8 Millionen Euro) als Schadensersatz; zusätzlich 524 Millionen NT$ (ca. 15,7 Millionen Euro) für bereits beschaffene Geräte und Räume; letztendlich wurde ein Vergleag in Höhe von 280 Millionen NT$ (ca. 8,4 Millionen Euro) erzielt; mehr als 2.000 Wissenschaftler und IT-Experten unterschrieben gegen die Umstellung
+
+[^4]: [Offizielle Website des Ministeriums für digitale Entwicklung (MODA)](https://moda.gov.tw/) — Audrey Tang war Ministerin vom August 2022 bis Mai 2024; im Mai 2024 übergab sie das Amt an Huang Yen-nan
+
+[^5]: [Institut für Rechtswissenschaft der Academica Sinica (2020). „Ist digitale Identität wirklich so cool? – Interview mit Forsher Chiu Wen-tsung“](https://www.iias.sinica.edu.tw/blog_post/1118?class=96) — Chiu Wen-tsung über die rechtlichen Grundlagen der digitalen Governance; identifizierte Probleme mit eID-Vorschriften
+
+[^6]: [NPR (2020). „Audrey Tang brings civic tech to Taiwan's coronavirus pandemic response“](https://www.npr.org/transcripts/949764249) — Innerhalb von sechs Tagen nach Veröffentlichung der Karte konnte die gesamte Bevölkerung Taiwans in Echtzeit die Maskenbestände einsehen; taiwanesische Bürger-Technik im Umgang mit COVID-19
+
+[^7]: [BBC (2020). „How map hacks and buttocks helped Taiwan fight Covid-19“](https://www.bbc.com/news/technology-52883838) — Englischsprachige Berichterstattung über die Maskenkarte und taiwanesische Bürger-Hacker im Umgang mit der Pandemie
+
+[^8]: [TechNews (2020). „Die Mannschaft hinter der Maskenkarte enthüllt: Die Helden des ‚Tastaturen retten das Land‘-Projekts“](https://technews.tw/2020/02/23/expose-the-team-behind-mask-map/) — Entwicklungsprozess der Maskenkarte; Wu Zhanwei und die g0v-Bürger-Hacker-Community
+
+[^9]: [Reporterer (2021). „Selbst die Regierung hat ein Backup! Wie Estland das erfolgreichste digitale Land der Welt baute?“](https://www.twreporter.org/a/e-id-in-estonia) — Erfahrungen aus Estland im Aufbau eines digitalen Staates; Vergleich der digitalen Governance-Pfade Taiwans
+
+[^10]: [Reporterer – Spezialthema offene Regierung. „Ist offene Regierung wirklich ernst gemeint?“](https://www.twreporter.org/a/open-government) — Audrey Tangs Äußerungen zu vTaiwan; Fallstudien zu Experimenten mit offener Regierung
+
+[^11]: [Taiwaner Menschenrechtsvereinigung – Themenseite zur digitalen Identität](https://www.tahr.org.tw/issues/privacy/eid) — Menschenrechtliche Positionen und Unterschriften gegen das New-eID-Projekt
+
+[^12]: [Open Culture Foundation – Unterschriften: Gesetzesentwurf und Offenlegung von eID-Informationen](https://ocf.tw/p/eid/) — Bürgerinitiativen für Transparenz und gesetzliche Regelungen im Zusammenhang mit eID
+
+[^13]: [PTS News Net (2024). „Digitale Identität ausgesetzt – 280 Millionen NT$ (ca. 8,4 Millionen Euro) an Steuerzahlern gezahlt; Lin Yousheng: ‚Das ist ein Schadenbegrenzungsbetrag‘“](https://news.pts.org.tw/article/683842) — Lieferanten forderten mehr als 100 Millionen NT$ (ca. 3 Millionen Euro) als Schadensersatz; im Januar 2024 wurde ein Vergleag in Höhe von 280 Millionen NT$ (ca. 8,4 Millionen Euro) erzielt; Lin Yousheng: „Das ist keine Entschädigung… sondern ein Schadenbegrenzungsbetrag“

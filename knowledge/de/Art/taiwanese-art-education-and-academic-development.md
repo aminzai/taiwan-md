@@ -1,15 +1,15 @@
 ---
-title: 'Kunstbildung und Hochschulentwicklung in Taiwan'
-description: 'Von der Lehramtsausbildung zu den Kunstuniversitäten: Systemische Veränderungen und Talentförderung in der taiwanesischen Kunstbildung'
+title: 'Taiwanische Kunstbildung und Hochschulentwicklung'
+description: 'Die staatliche Kunstschule von 1955, die staatliche Kunstakademie von 1982 und die staatliche Taiwanese Kunstakademie von 1996 – drei sich eigenständig entwickelte Schultage – zusätzlich zu den von der Normaluniversität ausgebildeten Grundschul-Kunstlehrerinnen und -lehrern bilden das Doppelsystem der taiwanesischen Kunstbildung. Vom kolonialen Normalunterricht bis zu drei Kunstuniversitäten: Wie ein System Schritt für Schritt heranwächst.'
 date: 2026-03-19
 category: 'Art'
 tags:
   [
     'Kunstbildung',
-    'Kunstakademie',
+    'Kunstfach',
     'Kunstuniversität',
     'Lehrerausbildung',
-    'Hochschulentwicklung',
+    'Akademieentwicklung',
   ]
 subcategory: '策展與教育'
 author: 'Taiwan.md'
@@ -19,483 +19,489 @@ lastHumanReview: false
 difficulty: 'intermediate'
 readingTime: 11
 translatedFrom: 'Art/台灣藝術教育與學院發展.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:352ce3febb583c17'
-sourceBodyHash: 'sha256:aaeb81e5f1416586'
-translatedAt: '2026-09-11T20:42:42+08:00'
+sourceCommitSha: '93810378e'
+sourceContentHash: 'sha256:16f5e80078ec8c03'
+sourceBodyHash: 'sha256:d51a922d651f3747'
+translatedAt: '2026-10-03T03:14:54+08:00'
 ---
 
-# Kunstbildung und Hochschulentwicklung in Taiwan
+# Taiwanische Kunstbildung und Hochschulentwicklung
 
-## Kurzübersicht
+## 30-Sekunden-Überblick
 
-Die Kunstbildung in Taiwan entwickelte sich von den Anfängen der Lehramtsausbildung während der japanischen Kolonialzeit hin zu einem dualen System, das sowohl Lehramtseinrichtungen als auch spezialisierte Kunsthochschulen umfasst. Von der Gründung der Nationalen Kunstschule im Jahr 1955 bis zum heutigen Dreiklang der großen Kunstuniversitäten hat Taiwan eine gestaffelte Bildungsstruktur aufgebaut und unzählige Künstler hervorgebracht[^1].
+Die taiwanesische Kunstbildung hat sich vom kolonialen Normalunterricht entwickelt und heute ein Doppelsystem aus Normaluniversitäts-Kunstfächern und professionellen Kunstakademien etabliert. Die 1955 gegründete staatliche Kunstschule ist der Vorfährer der heutigen taiwanesischen Kunstakademie (NTUA) [^3], die 1982 separat gegründete staatliche Kunstakademie ist der Vorfährer der heutigen taiwanesischen Kunstakademie (NTUA) [^1], und die 1996 gegründete staatliche taiwanese Kunstakademie eröffnete im Süden [^2]. Drei Schultage entwickelten sich eigenständig und bilden das heutige Dreigestirn der Kunstuniversitäten.
 
-Das Merkmal dieses Systems ist die Berücksichtigung zweier Pfade: die Ausbildung von Lehrkräften (Lehramtssystem) und die Förderung professioneller kreativer Talente (Nationales Kunstuniversität, Südliche Kunstuniversität, Taiwanesische Kunstuniversität), wobei die Studienrichtungen an den jeweiligen 시대anforderungen angepasst wurden.
+Das Besondere dieses Systems ist, dass es sowohl die Ausbildung von Kunstlehrerinnen und -lehrern (Normaluniversitäts-System) als auch die Förderung professioneller Künstlerinnen und Künstler (NTUA, NCKU, NTUA) vereint und sich den Anforderungen der Zeit anpasst.
 
-Die Lektüre dieses Artikels dauert etwa 11 Minuten.
+Lesezeit: ca. 11 Minuten.
 
-**Schlüsselbegriffe**: Kunstbildung, Lehramtsuniversität, Kunstakademie, Nationale Kunstuniversität, Südliche Kunstuniversität, Taiwanesische Kunstuniversität
+**Schlüsselbegriffe**: Kunstbildung, Normaluniversität, Kunstakademien, NTUA, NCKU, NTUA
 
-## Warum ist das wichtig?
+## Warum das wichtig ist
 
-Die Entwicklung des taiwanesischen Bildungssystems spiegelt den Wandel der kulturellen Politik und die Transformation der künstlerischen Ansichten in Taiwan wider. Von der frühen Lehramtsbildung mit Schwerpunkt auf die Ausbildung von Künstlern hin zur Förderung professioneller kreativer Talente beeinflusste dieser Wandel nicht nur den Stil und die Richtung der taiwanesischen Kunstschöpfung, sondern bestimmte auch die internationale Wettbewerbsfähigkeit der zeitgenössischen Kunst in Taiwan.
+Die Entwicklung des taiwanesischen Kunstbildungssystems spiegelt die Veränderung der kulturellen Politik Taiwans und die Transformation künstlerischer Konzepte wider. Von der anfänglichen Fokussierung auf die Ausbildung von Kunstlehrerinnen und -lehrern in der Normalausbildung bis hin zur Förderung professioneller Künstlerinnen und Künstler – dieser Wandel hat nicht nur den Stil und die Richtung der taiwanesischen Kunstgestaltung beeinflusst, sondern auch die internationale Wettbewerbsfähigkeit der taiwanesischen Gegenwartskunst bestimmt.
 
-### Basis für kulturelle Weitergabe und Innovation
+### Kulturerbe und Innovation
 
-Die Kunstakademien sind wichtige Zentren für die Bewahrung und Innovation der taiwanesischen Kultur; sie verbinden traditionelles Handwerk mit zeitgenössischer Schöpfung und fördern Künstler mit internationalem Blickwinkel.
+Kunstakademien sind wichtige Zentren für kulturelles Erbe und Innovation in Taiwan, verbinden traditionelle Handwerkskunst mit zeitgenössischer Gestaltung und fördern Künstlerinnen und Künstler mit globaler Perspektive.
 
-### Treiber der ästhetischen Bildung in der Gesellschaft
+### Förderer der ästhetischen Bildung in der Gesellschaft
 
-Durch die Lehrerausbildung beeinflusst das Kunstbildungssystem die Qualität der ästhetischen Erziehung in ganz Taiwan und erhöht den allgemeinen künstlerischen Horizont der Gesellschaft.
+Durch die Ausbildung von Lehrkräften beeinflusst das Kunstbildungssystem die ästhetische Bildung im ganzen Taiwan und hebt das kulturelle Niveau der Gesellschaft.
 
-### Talentversorgungskette für die Kulturindustrie
+### Humanressourcen für die Kulturindustrie
 
-Das moderne Bildungssystem liefert professionelle Fachkräfte für verschiedene Bereiche wie Design, Schöpfung und Kuratierung für die kulturelle Kreativwirtschaft Taiwans.
+Das moderne Kunstbildungssystem versorgt Taiwans kreative Kulturindustrie mit fachkundigen Personen in Design, Gestaltung, Kuratorium und anderen Bereichen.
 
-## Fünf Phasen der Kunstbildung in Taiwan
+## Fünf Entwicklungsstufen der taiwanesischen Kunstbildung
 
-### Phase 1: Die Grundlage während der japanischen Kolonialzeit (1895–1945)
+### Erste Phase: Grundlagen der Kolonialzeit (1895–1945)
 
-**Bildungsgeschichte**
-Die Kunstbildung in Taiwan während der japanischen Herrschaft erfolgte hauptsächlich durch das Lehramtsbildungssystem. Die im Jahr 1899 gegründete National School of Japanese Language (Vorläufer der Taiwanesischen Lehramtsuniversität) bot einen „Zeichnungs-Handwerk“-Kurs, um Künstler für die Grundschulbildung auszubilden.
+**Bildungshintergrund**
+Während der kolonialen Herrschaft Japans wurde die taiwanesische Kunstbildung hauptsächlich durch das Normalunterrichtssystem vermittelt. Die 1896 gegründete „Staatliche Sprachschule der Provinz Taiwans“ (heute Vorgänger von Taipeh Normaluniversität und Taipeh Stadtsuniversität) war für die Ausbildung von Grundschul-Lehrkräften verantwortlich, wobei Bildnerische Gestaltung ein Teil des Curriculums war.
 
 **Wichtige Merkmale**
 
-- Dominanz der angewandten Kunst
-- Betonung des technischen Trainings und der Realitätstreue
-- Einführung japanischer künstlerischer Bildungsideen
-- Ausbildung einflussreicher Künstler wie Ishikawa Kinichiro
+- Praktische Kunst im Vordergrund
+- Betonung technischer Training und realistischer Fähigkeiten
+- Einführung japanischer Kunstpädagogik
+- Der japanische Maler Ishikawa Kin'ichiro kam 1907 nach Taiwan, war Lehrer für Malerei an der Sprachschule, und seine Schülerinnen und Schüler umfassten spätere bedeutende Maler wie Ni Chao-Huai, Chen Chen-Po und Li Ze-Fan
 
-**Grundsteinlegung**
-Diese Periode legte das erste System der Kunstbildung in Taiwan fest. Obwohl es auf einer kolonialen Grundlage beruhte, schuf sie die Basis für die moderne Kunstbildung in Taiwan.
+**Grundlagenlegung**
+In dieser Ära wurde das erste taiwanesische Kunstbildungssystem geschaffen. Obwohl es im Kontext kolonialer Bildung entstand, legte es den Grundstein für die moderne taiwanesische Kunstpädagogik.
 
-### Phase 2: Der Wiederaufbau des Lehramtssystems (1945–1960)
+### Zweite Phase: Wiederaufbau der Normalausbildung (1945–1960)
 
-**Nachkriegsrekonstruktion**
-Im Jahr 1946 wurde an der Provincial Normal College of Taiwan (Vorläufer der Lehramtsuniversität) eine Kunstabteilung gegründet, was die erste offizielle Einrichtung für künstlerische Bildung in Nachkriegs-Taiwan darstellte.
+**Nach dem Krieg**
+1946 wurde die Provinziale Normalakademie (heute Vorgänger der Normaluniversität) gegründet, 1947 die Fachrichtung für Bildende Arbeiten, 1948 die Kunstfakultät [^4], und wurde zur wichtigsten Institution für die Ausbildung von Kunstlehrerinnen und -lehrern nach dem Krieg.
 
-**Bildungsphilosophie**
+**Bildungsprinzipien**
 
-- Hauptziel war die Ausbildung von Künstlern für Mittelschulen
-- Übernahme traditioneller chinesischer künstlerischer Bildungskonzepte
-- Kombination westlicher moderner Techniken
-- Betonung der Gleichwertigkeit von Kunstbildung und moralischem Charakter
+- Hauptziel: Ausbildung von Kunstlehrerinnen und -lehrern für höhere Schulen
+- Fortführung der traditionellen chinesischen Kunstpädagogik
+- Kombination mit westlichen modernen Maltechniken
+- Betonung der Verbindung von Kunstbildung und Moral
 
-**Vertreter**
+**Wichtige Persönlichkeiten**
 
-- **Fu Xinyu**: Meistermaler, Leiter der Kunstabteilung
-- **Liao Chi-chun**: wichtiger Förderer der modernen Malerei in Taiwan
-- **Li Zefan**: Aquarellkünstler mit tiefgreifendem Einfluss auf die Nachkriegskunstbildung
+- **Huang Chun-Pi**: Gouache-Malerei, seit 1949 Leiterin der Kunstfakultät
+- **Pu Hsin-Chi**: Meister der chinesischen Malerei, war Dozent an der Kunstfakultät
+- **Liao Chi-Chun**: Wichtiger Gestalter der modernen taiwanesischen Malerei, seit 1947 Dozent an der Normalakademie
+- **Li Ze-Fan**: Aquarellmaler, war Lehrer an der Hsinchu Normalakademie und lehrte an der Normaluniversität und der Provincial Kunstakademie
 
-### Phase 3: Die Spezialisierungsphase (1955–1980)
+### Dritte Phase: Fachliche Spezialisierung (1955–1980)
 
-**Gründung der Nationalen Kunstschule**
-Am 31. Oktober 1955, am Geburtstag von Präsident Chiang Kai-shek, wurde die „National School of Arts“ gegründet und etablierte zunächst Abteilungen für Film, Theater und künstlerischen Druck, was sie zur ersten spezialisierten Kunstschule in Taiwan machte.
+**Gründung der Kunstschule**
+Am 31. Oktober 1955 wurde die „Staatliche Kunstschule“ gegründet, zunächst mit den Fächern Filmtheater, Volksoper und Kunstdruck, und wurde 1960 zur „Staatlichen Taiwanesischen Kunstakademie“ umgewandelt – der Vorgänger der heutigen NTUA [^3].
 
-**Beginn der Spezialisierung**
+**Fachliche Spezialisierung beginnt**
 
-- **Lehramtssystem**: Hauptfokus auf die Ausbildung von Lehrkräften (Lehramtsuniversitäten, Fachschulen)
-- **Spezialisierte Kunstsysteme**: Hauptfokus auf die Förderung professioneller kreativer Talente (Nationale Kunstschule)
-- **Handwerkssystem**: Hauptfokus auf die Ausbildung von Design-Kräften für angewandte Künste
+- **Normaluniversitäten-System**: Fokus auf Ausbildung von Kunstlehrerinnen und -lehrern (Normaluniversität, verschiedene Normalakademien)
+- **Professionelles Kunstsystem**: Fokus auf kreative Künstlerinnen und Künstler (Staatliche Kunstschule)
+- **Berufliche Bildung**: Fokus auf praktische Design-Fähigkeiten
 
-**Curriculumsmerkmale**
-Die frühen Kurse der National School of Arts umfassten:
+**Lehrplanmerkmale**
+Der anfängliche Lehrplan der Kunstschule umfasste:
 
-- Abteilung für künstlerischen Druck: Werbedesign, Drucktechniken
-- Abteilung für Film/Theater: Bühnenbild, Theatertechnik
-- Abteilung für traditionelles Theater: Traditionelle darstellende Künste
+- Fach für Kunstdruck: Werbung, Druckgewerbe
+- Fach für Filmtheater: Bühnenbild, Theater-Technik
+- Fach für Volksoper: Traditionelle Oper
 
-### Phase 4: Die Expansion zur Hochschule (1980–2000)
+### Vierte Phase: Expansion auf Hochschulniveau (1980–2000)
 
-**Welle der Hochschulaufwertung**
-In dieser Zeit wurden die Bildungseinrichtungen in Taiwan zunehmend zu Universitäten aufgewertet:
+**Universitätsboom**
+In dieser Ära wurden viele Kunstbildungseinrichtungen in Taiwan zu Universitäten umgewandelt:
 
-**1982 – Gründung der Nationalen Kunstuniversität**
+**1982 – Gründung der Kunstakademie**
 
-- Aufgewertet von der National School of Arts
-- Die erste Kunstuniversität Taiwans
-- Etablierung von vier Fakultäten: Musik, Kunst, Theater und Tanz
+- 1980 gegründetes Vorbereitungsamt, separat von der Provincial Kunstakademie, und Vorgänger der heutigen NTUA [^1]
+- Zunächst Fächer Musik, Bildende Kunst, Theater, 1983 hinzugefügt: Tanz
 
-**1991 – Gründung der Nationalen Kunstuniversität in Tainan**
+**1996 – Gründung der taiwanesischen Kunstakademie im Süden**
 
-- Standort im Süden Taiwans, zur regionalen Entwicklung beitragend
-- Betonung der Verbindung zwischen traditionellem Handwerk und moderner Kunst
-- Erste Einrichtung des „Instituts für Kunstgeschichte und Kunstkritik“
+- 1989 genehmigt zur Ausgleichung von Nord- und Südtaiwan, erster Rektor Han Bao-Te [^2]
+- Fokus auf kompakte Graduiertenausbildung
+- Gründung der Institute für Audiovisuelle Dokumentation, Museumswesen, Bildende Kunst, Kunstgeschichte und Kunstkritik
 
-**Entwicklung der Kunstabteilung an Lehramtsuniversitäten**
+**Entwicklung der Kunstfakultät der Normaluniversität**
 
-- Die Kunstabteilung der Lehramtsuniversität teilte sich in die Bereiche Malerei, westliche Malerei und Design.
-- Verschiedene Lehramtsuniversitäten gründeten nacheinander verwandte Abteilungen.
-- Ausbildung zahlreicher Künstler für Mittelschulen.
+- Die Kunstfakultät der Normaluniversität unterteilt in traditionelle Malerei, westliche Malerei und Design
+- Verschiedene Normaluniversitäten in der Region gründen Kunstfächer
+- Ausbildung vieler Kunstlehrerinnen und -lehrern für Grund- und Sekundarschulen
 
-### Phase 5: Die Diversifizierungsphase (2000 bis heute)
+### Fünfte Phase: Vielfältige Integration (2000–heute)
 
-**Vollendung der Universitätsstufe**
+**Abschluss der Universitätsentwicklung**
 
-- Im Jahr 2001 wurde die Nationale Kunstuniversität zur „Nationalen Kunstuniversität in Taipeh“ aufgewertet.
-- Im Jahr 2004 wurde die Nationale Kunstuniversität in Tainan zur „Nationalen Kunstuniversität in Tainan“ aufgewertet.
-- Die Nationale Fachschule für Kunst in Taiwan wurde zur „Nationalen Kunstuniversität in Taiwan“ aufgewertet.
+- 2001: Kunstakademie wird „Staatliche Taiwanese Kunstakademie“
+- 2004: taiwanesische Kunstakademie im Süden wird „Staatliche taiwanese Kunstakademie“
+- 2001: Staatliche taiwanese Kunstakademie (seit 1994 von der Staatlichen taiwanesischen Kunstakademie) in „Staatliche taiwanese Kunstuniversität“ umbenannt
 
-**Wandel der Bildungsphilosophie**
+**Transformation der Bildungsphilosophie**
 
-- Verschiebung vom technischen Training hin zum konzeptionellen Schaffen
-- Betonung der interdisziplinären Integration
-- Wertschätzung des internationalen Austauschs und der Zusammenarbeit
-- Integration zeitgenössischer künstlerischer Strömungen
+- Von technischer Ausbildung zu konzeptioneller Gestaltung
+- Betonung interdisziplinärer Integration
+- Wichtigkeit internationaler Austausch und Zusammenarbeit
+- Einbindung zeitgenössischer künstlerischer Strömungen
 
-## Merkmale der drei großen Kunstuniversitäten
+## Charakteristika der drei Kunstuniversitäten
 
-Die Nationale Kunstuniversität in Taipeh, die Nationale Kunstuniversität in Tainan und die Nationale Kunstuniversität in Taiwan haben jeweils eigene Schwerpunkte: Die Nationale Kunstuniversität in Taipeh ist bekannt für ihre Experimentierfreudigkeit und Avantgarde; die Nationale Kunstuniversität in Tainan betont die Verbindung von traditionellem Handwerk und moderner Schöpfung; die Nationale Kunstuniversität in Taiwan legt Wert auf praktische Fähigkeiten und industrielle Anbindung[^3].
+Die Staatliche taiwanese Kunstakademie, die Staatliche taiwanese Kunstakademie und die Staatliche taiwanese Kunstuniversität haben jeweils ihre eigenen Schwerpunkte: Die taiwanese Kunstakademie ist bekannt für ihre experimentelle und avantgardistische Ausrichtung, die taiwanese Kunstakademie legt Wert auf Graduiertenausbildung und Kulturerbe, während die taiwanese Kunstuniversität praktische Fähigkeiten und Brücken zu Industrie betont.
 
-Die Studienpläne der drei Universitäten spiegeln unterschiedliche künstlerische Bildungsphilosophien wider, ergänzen sich gegenseitig und bilden den Hauptrahmen der professionellen Kunstbildung in Taiwan.
+Die Lehrpläne dieser drei Universitäten spiegeln unterschiedliche Philosophien der Kunstbildung wider, ergänzen einander und bilden das Hauptgerüst der professionellen Kunstbildung in Taiwan.
 
-### Nationale Kunstuniversität in Taipeh (Nationale Kunstuniversität in Taipeh)
+### Staatliche taiwanese Kunstakademie (NTUA)
 
-**Entwicklungsschwerpunkt**
+**Entwicklungsziel**
 
-- Die experimentellste und avantgardistischste Hochschule in Taiwan
-- Betonung zeitgenössischer künstlerischer Schöpfung und interdisziplinärer Zusammenarbeit
-- Höchster Grad an Internationalisierung
+- Taiwans experimentellste und avantgardistischste Kunstakademie
+- Betonung zeitgenössischer künstlerischer Gestaltung und interdisziplinärer Zusammenarbeit
+- Höchstes Maß an Internationalisierung
 
-**Universitätsstruktur**
+**Fakultätsstruktur**
 
 - Musikfakultät
-- Kunstfakultät (Abteilung für bildende Kunst, Institut für kunstübergreifende Studien)
+- Bildende Kunstfakultät (Kunstfach, Institut für interdisziplinäre Kunst)
 - Theaterfakultät
 - Tanzfakultät
-- Film- und Medienfakultät
+- Film- und neue Medienfakultät
 - Kulturressourcenfakultät
+- Humanwissenschaftliches Institut (2019 von der Kommission für Allgemeinbildung und Gemeinschaftsbildung neu organisiert)
 
-**Bildungsschwerpunkte**
+**Bildungsmerkmale**
 
-- Elitebildung in Kleingruppen
-- Betonung des kreativen Prozesses und der konzeptionellen Entwicklung
-- Gleichgewicht zwischen Theorie und Praxis
-- Reiche internationale Austauschprogramme
+- Kleinklassiger Eliteunterricht
+- Betonung kreativer Prozesse und Konzeptentwicklung
+- Theorie und Praxis in Gleichgewicht
+- Vielfältige internationale Austauschprogramme
 
-**Bekannte Alumni**
+**Bekannte Absolventen**
 
-- Mehrere Mitglieder von Ang Lee's Produktionsteam
-- Zahlreiche zeitgenössische Künstler wie Wu Jixun, Chen Jie-ren usw.
-- Hou Hsiao-hsien wurde als Gastprofessor eingeladen
+- Gegenwärtige Künstlerin Wu Ji-Cong und andere
 
-### Nationale Kunstuniversität in Tainan (Nationale Kunstuniversität in Tainan)
+### Staatliche taiwanese Kunstakademie (NCKU)
 
-**Entwicklungsschwerpunkt**
+**Entwicklungsziel**
 
-- Betonung der Verbindung von traditionellem Handwerk und moderner Schöpfung
-- Wertschätzung des lokalen kulturellen Erbes Taiwans
-- Kleine, raffinierte Lernumgebung
+- Ausgangspunkt in der Graduiertenausbildung, Schwerpunkt Kunstgeschichte, Museumswesen und Kulturerbe-Erhalt
+- Betonung der taiwanesischen Volkskultur
+- Kompakte Lernumgebung
 
-**Universitätsstruktur**
+**Fakultätsstruktur**
 
-- Kunstfakultät (Bildende Kunst, Angewandte Kunst, Architekturkunst)
-- Geisteswissenschaftliche Fakultät (Kunstgeschichte, Museologie, Audiovisuelle Dokumentation)
 - Musikfakultät
+- Visuelle Kunstfakultät (bildende Kunst, angewandte Kunst, architektonische Kunst usw.)
+- Audiovisuelle Kunstfakultät
+- Museumswissenschaftliche Fakultät
+- Interdisziplinäres kreatives Institut
 
-**Bildungsschwerpunkte**
+**Bildungsmerkmale**
 
-- Betonung der Weitergabe traditioneller Handwerkstechniken
-- Kleine und raffinierte Lehre
-- Verknüpfung von Theorie und Praxis
-- Betonung des Kulturerhalts und der Innovation
+- Betonung traditioneller Handwerkskunst
+- Kleinformatiger, kompakter Unterricht
+- Theorie und Praxis verbinden
+- Kulturerhalt und Innovation
 
-**Einzigartige Kurse**
+**Einzigartige Lehrpläne**
 
-- Institut für die Konservierung antiker Artefakte
-- Institut für Museologie und Konservierung
-- Institut für Volksmusikwissenschaft
+- Institut für Museumswesen und Denkmalpflege (aus dem Institut für Museumswesen und das Institut für Denkmalpflege zusammengeführt)
+- Institut für Volksmusik
 
-### Nationale Kunstuniversität in Taiwan (Nationale Kunstuniversität in Taiwan)
+### Staatliche taiwanese Kunstuniversität (NTUA)
 
-**Entwicklungsschwerpunkt**
+**Entwicklungsziel**
 
-- Eine der ältesten spezialisierten Kunsthochschulen in Taiwan (Vorläufer gegründet 1955)
-- Betonung praktischer Fähigkeiten und industrieller Anbindung
-- Förderung von Talenten für die kulturelle Kreativwirtschaft
+- Eine der ältesten professionellen Kunstakademien Taiwans (Vorgänger: Staatliche Kunstschule, gegründet 1955)
+- Betonung praktischer Fähigkeiten und Verbindung zu Industrie
+- Ausbildung von Fachkräften für kreative Kulturindustrie
 
-**Universitätsstruktur**
+**Fakultätsstruktur**
 
-- Kunstfakultät
+- Bildende Kunstfakultät
 - Designfakultät
 - Kommunikationsfakultät
 - Darstellende Kunstfakultät
-- Geisteswissenschaftliche Fakultät
+- Humanwissenschaftliche Fakultät
 
-**Bildungsschwerpunkte**
+**Bildungsmerkmale**
 
-- Tiefe historische Tradition
-- Betonung des technischen Trainings und der industriellen Praxis
-- Ein starkes Alumni-Netzwerk in der Kunstwelt
-- Enge Verbindung zur Kulturindustrie
+- Reiche Tradition
+- Betonung technischer Training und industrieller Praxis
+- Alumni-Netzwerk in der Kunstszene breit gestreut
+- Enge Verbindung zur kreativen Industrie
 
-**Industrieller Einfluss**
-Die Nationale Kunstuniversität in Taiwan wird als Wiege für visuelles Designtalent in Taiwan bezeichnet; viele bekannte Designer und Werbekreative stammen von dieser Hochschule.
+**Branchenauswirkungen**
+Die Film-, Theater- und Design-Fächer der taiwanese Kunstuniversität haben über Jahrzehnte Fachkräfte für die Film- und Designindustrie ausgebildet. Regisseur Hou Hsiao-Hsien ist Absolvent der staatlichen Kunstakademie (heute Filmfach der taiwanesischen Kunstuniversität).
 
-## Das Lehramtsbildungssystem in der Kunst
+## Kunstbildungssystem der Normaluniversität
 
-Das Lehramtsbildungssystem ist eine weitere Hauptlinie der künstlerischen Bildung in Taiwan. Die Kunstabteilung der Taiwanesischen Lehramtsuniversität wurde 1946 gegründet und war die früheste offizielle Einrichtung für künstlerische Bildung in Nachkriegs-Taiwan[^4]. Die hier ausgebildeten Lehrkräfte verbreiteten sich durch das Mittelschulwesen in ganz Taiwan und beeinflussten die ästhetische Erziehung der gesamten Gesellschaft weit über den Einfluss spezialisierter Kunstakademien hinaus.
+Das System der Normaluniversitäten bildet die zweite Hauptlinie der taiwanesischen Kunstbildung. Die Kunstfakultät der taiwanesischen Normaluniversität geht zurück auf die 1947 gegründete Fachrichtung für Bildende Arbeiten, 1948 erweitert um die Kunstfakultät [^4]. Die von ihr ausgebildeten Lehrkräfte verbreiteten sich durch die sekundäre Bildung im ganzen Taiwan und hatten einen größeren Einfluss auf die ästhetische Bildung der Gesellschaft als die professionellen Kunstakademien.
 
-Die Kunstabteilungen der regionalen Lehramtsuniversitäten (z.B. Kaohsiung Normal University, Changhua Normal University) waren für die regionale Versorgung mit Lehrkräften zuständig und bildeten ein Netzwerk von künstlerischen Lehrkräften, das ganz Taiwan abdeckte.
+Die Kunstfakultäten verschiedener regionaler Normaluniversitäten (z.B. Kunsan Normaluniversität, Changhua Normaluniversität) sind für die regionale Versorgung mit Kunstlehrerinnen und -lehrern verantwortlich und bilden ein Netzwerk für die Ausbildung von Lehrkräften im ganzen Taiwan.
 
-### Die Kunstabteilung der Taiwanesischen Lehramtsuniversität
+### Kunstfakultät der Staatlichen taiwanesischen Normaluniversität
 
 **Historische Bedeutung**
 
-- Die früheste Einrichtung moderner künstlerischer Bildung in Taiwan
-- Ein wichtiger Kern bei der Ausbildung von Künstlern für Taiwan
-- Eine Fakultät mit dem tiefgreifendsten Einfluss auf die Entwicklung der taiwanesischen Kunst
+- Wichtige Institution für die Ausbildung von Kunstlehrerinnen und -lehrern nach dem Krieg
+- Zentrum für die Ausbildung taiwanesischer Kunstlehrerinnen und -lehrern
+- Tiefgreifender Einfluss auf die Entwicklung der taiwanesischen Kunst
 
 **Bildungsphilosophie**
 
-- Gleichgewicht zwischen Lehrerausbildung und professioneller Schöpfung
-- Integration östlicher und westlicher künstlerischer Theorien
-- Betonung von ästhetischer Theorie und kreativer Praxis
+- Lehrerausbildung und professionelle Gestaltung in Gleichgewicht
+- Verbindung westlicher und östlicher Kunsttheorie
+- Betonung ästhetischer Theorie und praktischer Gestaltung
 
-**Strukturmerkmale**
+**Lehrplanbereiche**
 
-- **Kreativgruppe**: Traditionelle Malerei, Ölmalerei, Tuschemalerei, Druckgrafik, Skulptur
-- **Theoriegruppe**: Kunstgeschichte, Kunsttheorie, Kunstkritik
-- **Designgruppe**: Visuelles Kommunikationsdesign, Medien-Design
+- **Gestaltung**: Traditionelle Malerei, Ölmalerei, Aquarellmalerei, Druckgrafik, Skulptur
+- **Theorie**: Kunstgeschichte, Kunsttheorie, Kunstkritik
+- Designausbildung wird heute von der separaten Designfakultät der Normaluniversität getragen
 
-**Lehrkräfte-Tradition**
-Von Meistern wie Fu Xinyu, Huang Junbi und Liao Chi-chun bis zu den zeitgenössischen Yuan Jinta und Li Junyi besteht eine tiefe Tradition der Mentorenschaft.
+**Lehrererbe**
+Von Pu Hsin-Chi, Huang Chun-Pi, Liao Chi-Chun und anderen Meistern der Vorfahren bis zu Zeitgenossen wie Yuan Chin-Tsai, Li Chun-Yi und anderen, entsteht ein tiefes pädagogisches Erbe.
 
-### Die Kunstabteilungen der regionalen Lehramtsuniversitäten
+### Kunstfakultäten regionaler Normaluniversitäten
 
-**Kunstabteilung der Kaohsiung Normal University**
+**Kunstfakultät der Kunsan Normaluniversität**
 
-- Dient dem Bedarf an Künstlern im südlichen Taiwan
-- Betont die lokalen kulturellen Besonderheiten
-- Enge Zusammenarbeit mit Institutionen wie dem National Museum of Art, Taiwan
+- Versorgung der Kunstlehrerbedürfnisse im Süden Taiwans
+- Betonung lokaler kultureller Charakteristika
+- Enge Zusammenarbeit mit Institutionen wie dem Kunsan Museum
 
-**Kunstabteilung der Changhua Normal University**
+**Kunstfakultät der Changhua Normaluniversität**
 
-- Ein wichtiger Kern der künstlerischen Bildung in Zentral-Taiwan
-- Betonung von Praxis und Theorie gleichermaßen
+- Zentrum der taiwanesischen Kunstbildung in der Mitte Taiwans
+- Betonung praktischer und theoretischer Aspekte
 
-**Andere Lehramtsuniversitäten**
-Die Fachschulen in den verschiedenen Städten gründeten nacheinander Kunstbildungsabteilungen und schufen ein Netzwerk zur Ausbildung von Lehrkräften, das ganz Taiwan abdeckte.
+**Weitere Normalakademien**
+Verschiedene Normalakademien in Städten und Regionen gründen Kunstbildungsfächer und bilden ein Netzwerk für die Ausbildung von Lehrkräften im ganzen Taiwan.
 
-## Die Entwicklung der Kurse in der Kunstbildung
+## Entwicklung der Kunstcurricula
 
-Die Studienpläne der taiwanesischen Kunstakademien durchliefen vom technikorientierten Training der 1950er Jahre drei deutliche Transformationspunkte: die Einführung moderner künstlerischer Ideen in den 1980er Jahren, die Transformation hin zu verschiedenen Medien und Digitalisierung nach 2000, sowie die zeitgenössische Ausrichtung mit Schwerpunkt auf gesellschaftliches Engagement und interdisziplinäre Integration in jüngster Zeit.
+Die Curricula der taiwanesischen Kunstakademien haben seit den 1950er Jahren drei klare Transformationspunkte durchlitten: Die Einführung moderner künstlerischer Konzepte in den 1980er Jahren, die Transformation zu interdisziplinären und digitalen Medien nach 2000 sowie die jüngste Betonung sozialer Teilnahme und interdisziplinärer Integration.
 
-Diese drei Wandlungen sind keine lineare Ersetzung, sondern eine Überlagerung – traditionelles technisches Training spielt an einigen Hochschulen immer noch einen erheblichen Teil, während neue Studienrichtungen expandieren.
+Diese drei Transformationen sind nicht lineare Ersetzungen, sondern überschneiden sich – traditionelle technische Ausbildung behält in einigen Akademien weiterhin bedeutende Gewichtung, während gleichzeitig neue Curricula ausgebaut werden.
 
-Es ist erwähnenswert, dass die Geschwindigkeit und Richtung der Kurse zwischen den taiwanesischen Institutionen signifikant variiert: Die Nationale Kunstuniversität in Taipeh entwickelte sich schneller im Bereich konzeptioneller Schöpfung, während die Nationale Kunstuniversität in Taiwan erst später moderne künstlerische Ideen einführte. Dieser Unterschied beeinflusst bis heute die Lehrkultur der einzelnen Hochschulen.
+Besonders bemerkenswert ist, dass die Geschwindigkeit und Richtung der Curricula-Entwicklung in verschiedenen Akademien Taiwans deutlich variiert: Die taiwanese Kunstakademie war in konzeptioneller Gestaltung weit voraus, während die taiwanese Kunstuniversität später moderne künstlerische Konzepte einführte – diese Unterschiede beeinflussen bis heute die Lehrkultur der einzelnen Akademien.
 
-### Von traditionellem Handwerk zur zeitgenössischen Schöpfung
+### Von traditioneller Technik zu zeitgenössischer Gestaltung
 
-**Frühe Kurse (1950–1980)**
+**Frühe Curricula (1950–1980)**
 
-- Fokus auf technisches Training: Zeichnen, Aquarell, Ölmalerei, Tuschemalerei
-- Betonung der Realitätstreue und grundlegender Fähigkeiten
-- Relativ konservative und traditionelle Kurse
+- Technische Ausbildung im Vordergrund: Skizzen, Aquarell, Ölmalerei, traditionelle Malerei
+- Betonung realistischer Fähigkeiten und Grundlagen
+- Relativ konservative und traditionelle Curricula
 
-**Übergangskurse (1980–2000)**
+**Übergangsphase (1980–2000)**
 
-- Einführung moderner künstlerischer Ideen
-- Zunahme von Kursen in Kunstgeschichte und Ästhetiktheorie
-- Beginn der Wertschätzung des individuellen kreativen Stils
+- Einführung moderner künstlerischer Konzepte
+- Erweiterung um Kunstgeschichte, ästhetische Theorie
+- Beginn der Betonung individueller kreativer Stilistik
 
-**Zeitgenössische Kurse (ab 2000)**
+**Zeitgenössische Curricula (2000–heute)**
 
-- Intermediale Schöpfung
-- Installationskunst, Videokunst, digitale Kunst
-- Kuratierungspraxis, künstlerisches Management
-- Kunst mit gesellschaftlichem Engagement
-- Internationale Austausch- und Gastprojekte
+- Interdisziplinäre Gestaltung
+- Installationskunst, Videoschnitt, digitale Kunst
+- Kuratorische Praxis, Kunstverwaltung
+- Soziale Teilhabe in der Kunst
+- Internationale Austauschprogramme
 
-### Theorie und Praxis gleichermaßen
+### Theorie und Praxis in Gleichgewicht
 
-**Kunstgeschichtliche Bildung**
+**Kunstgeschichte-Ausbildung**
 
-- Westliche Kunstgeschichte
+- Abendländische Kunstgeschichte
 - Chinesische Kunstgeschichte
-- Kunstgeschichte Taiwans
-- Theorie der zeitgenössischen Kunst
+- taiwanese Kunstgeschichte
+- Zeitgenössische Kunsttheorie
 
-**Methodik der Schöpfung**
+**Gestaltungsmethodik**
 
 - Medienexperimente und technische Innovation
 - Konzeptentwicklung und Ausdrucksformen
-- Aufbau des individuellen Stils
-- Interpretation und wissenschaftliche Auseinandersetzung mit Werken
+- Entwicklung individueller Stilistik
+- Fähigkeit zur Werkinterpretation und Diskussion
 
-## Interaktion von Kunstbildung und Gesellschaft
+## Wechselwirkung zwischen Kunstbildung und Gesellschaft
 
-### Verbreitung der ästhetischen Bildung
+### Förderung der ästhetischen Bildung
 
-**Kunstbildung in Mittelschulen**
-Die Kunstakademien beeinflussen die ästhetische Erziehung in ganz Taiwan:
+**Kunstbildung an Grund- und Sekundarschulen**
+Durch die Ausbildung von Lehrkräften beeinflusst das Kunstbildungssystem die ästhetische Bildung im ganzen Taiwan:
 
-- Innovation bei Kursgestaltung und Lehrmethoden
-- Weiterbildung von Künstlern im Dienstleistungsbereich
-- Förderung der künstlerischen Bildungsphilosophie
+- Innovation in Lehrplan- und Unterrichtsmethodik
+- Fortbildung von Kunstlehrerinnen und -lehrern
+- Verbreitung künstlerischer Bildungskonzepte
 
-**Gesellschaftliche Kunstbildung**
+**Soziale Kunstbildung**
 
-- Museumsbildung
-- Künstlerische Kurse für die Gemeinschaft
-- Lebenslanges Lernen in der Kunst
+- Museumspädagogik
+- Gemeinschaftliche Kunstkurse
+- Lebenslange Lernumgebung in der Kunst
 
-### Unterstützung durch Kulturpolitik
+### Angleichung an kulturelle Politik
 
 **Nationale Kulturpolitik**
 Die Kunstbildung passt sich der nationalen Kulturpolitik an:
 
-- Förderung lokalisierter Bildung
-- Darstellung vielfältiger kultureller Werte
-- Balance zwischen Internationalisierung und Lokalisierung
+- Förderung lokaler Bildung
+- Vielfalt kultureller Werte
+- Ausgleich zwischen Internationalisierung und Lokalisierung
 
-**Bedarf der Industrie**
-Reaktion auf die Anforderungen der kulturellen Kreativwirtschaft:
+**Bedarf an Fachkräften für die Industrie**
+Reaktion auf die Entwicklung der kreativen Kulturindustrie:
 
-- Ausbildung von Designkräften
-- Kurse für Kultur und Kreativität
-- Kooperationsprojekte zwischen Industrie und Wissenschaft
+- Ausbildung von Designern
+- Curricula für kreative Kulturindustrie
+- Kooperationsprogramme mit Unternehmen
 
-## Balance zwischen Internationalisierung und Lokalisierung
+## Gleichgewicht zwischen Internationalisierung und Lokalisierung
 
-Die Internationalisierung der taiwanesischen Kunstakademien erfolgt einerseits durch internationale Partnerschaften und Austauschprogramme, andererseits entwickelt sie ein hybrides Modell, das sich von europäischer oder japanischer künstlerischer Bildung unterscheidet, aufgrund des geografischen Standorts Taiwans.
+Die Internationalisierung der taiwanesischen Kunstakademien erfolgt einerseits durch Partnerschaften mit renommierten internationalen Kunstakademien und Austauschprogramme, andererseits auch durch die Entwicklung eines Modells, das von der geografischen Lage Taiwans und von der Unterschiede zu europäischen, amerikanischen oder japanischen Kunstbildungssystemen geprägt ist.
 
-Die Frage, wie man lokale Inhalte (einschließlich indigener Kunst, Min- und Hakka-Traditionen, Nachkriegsgeschichte usw.) beibehält, während internationale künstlerische Rahmenwerke übernommen werden, ist eine wiederkehrende Herausforderung für die Hochschulen (das Bildungsministerium hat diese historischen Materialien systematisch zusammengestellt; die Studienpläne der einzelnen Universitäten können auf den offiziellen Websites eingesehen werden).
+Wie in der Internationalisierung internationaler künstlerischer Konzepte gleichzeitig taiwanesische Volkskultur (einschließlich indigener Kunst, Min-Chau-Tradition, Nachkriegskunstgeschichte usw.) in den Unterricht einbeziehen, ist eine Herausforderung, die jede Akademie kontinuierlich zu lösen versucht (das Bildungsministerium hat diese historischen Materialien systematisch zusammengestellt, und die Curricula einzelner Akademien können den offiziellen Webseiten der Akademien entnommen werden).
 
-### Internationaler Austausch und Zusammenarbeit
+### Internationale Zusammenarbeit und Austausch
 
-**Partnernetzwerk**
-Die taiwanesischen Kunstakademien pflegen Kooperationen mit international renommierten Hochschulen:
+**Partnerschaftsnetzwerke**
+Taiwans Kunstakademien haben Partnerschaften mit renommierten internationalen Kunstakademien geschlossen:
 
 - Studentenaustauschprogramme
-- Gastvorlesungen von Lehrenden
-- Gemeinsame Ausstellungs- und Schöpfungsprojekte
+- Gegenseitiger Besuch von Dozierenden
+- Kooperative Ausstellungen und kreative Projekte
 
-**Einführung internationaler Kurse**
+**Internationale Curricula**
 
-- Einladung internationaler Künstler als Gastdozenten
-- Übernahme internationaler künstlerischer Bildungsideen
-- Förderung des zweisprachigen Unterrichts
+- Einladung internationaler Künstler zur Lehrposition
+- Einführung internationaler künstlerischer Konzepte
+- Förderung zweisprachigen Unterrichts
 
-### Erhalt der taiwanesischen kulturellen Besonderheiten
+### Bewahrung taiwanesischer kultureller Eigenheiten
 
-**Bewahrung lokaler Kunst**
+**Traditionelle kulturelle Erbe**
 
-- Erhaltung traditioneller Handwerkstechniken
-- Forschung zur Kunstgeschichte Taiwans
-- Themen aus lokaler Kulturkreation
+- Bewahrung traditioneller Handwerkskunst
+- Forschung zur taiwanesischen Kunstgeschichte
+- Lokale kreative Themen in der Gestaltung
 
-**Vielfältige kulturelle Verschmelzung**
+**Integration multikultureller Vielfalt**
 
-- Bildung der indigenen Künste
-- Kunst der neuen Einwanderer
-- Weitergabe der Hakka-Kulturkunst
+- Bildung für indigene Kunst
+- Kulturelle Vielfalt neuer Einwanderer
+- Erhalt der Min-Chau-Kultur
 
 ## Neue Herausforderungen im digitalen Zeitalter
 
-Die Verbreitung von KI-generierten Tools stellt die Kunstbildung vor eine doppelte Herausforderung: Einerseits bieten sie neue Werkzeuge und Kursmaterialien; andererseits stellen sie die pädagogische Logik des traditionellen technischen Trainings in Frage – wie soll der Bildungswert handwerklicher Fertigkeiten neu definiert werden, wenn KI schnell visuelle Werke erzeugen kann?
+Die Verbreitung von KI-generierten Werkzeugen stellt die Kunstbildung vor neue Herausforderungen: Einerseits bieten sie neue kreative Werkzeuge und Unterrichtsmaterialien, andererseits stellen sie die traditionelle technische Ausbildung vor Herausforderungen – wenn KI schnell visuelle Werke erstellen kann, wie findet die Bildung für handwerkliche Fähigkeiten neue Bedeutung?
 
-Diese Frage wird derzeit von den taiwanesischen Kunstakademien noch erprobt und ist nicht abschließend geklärt, beeinflusst aber bereits die Studienplanung.
+Dieses Problem wird derzeit in den taiwanesischen Kunstakademien noch erforscht, ohne endgültige Antworten, aber es beginnt, die Richtung der Curricula zu beeinflussen.
 
-Die Verbreitung digitaler Werkzeuge bringt auch eine andere Dimension mit sich: Fernunterricht und Online-Ressourcen senken die geografische Hürde der künstlerischen Bildung und ergänzen somit die Zugänglichkeit der Kunstbildung in ländlichen Gebieten.
+Die Verbreitung digitaler Werkzeuge bringt auch einen weiteren Aspekt: Fernunterricht und Online-Ressourcen verringern geografische Barrieren und bieten eine gewisse Ergänzung für den Zugang zu Kunstbildung in abgelegenen Regionen.
 
 ### Integration von Technologie und Kunst
 
-**Bildung in den Medienkünsten**
+**Bildung für neue Medien**
 
-- Digitale Bildschöpfung
-- Interaktive Installationen
-- Virtuelle und Augmented-Reality-Kunst
-- KI und künstlerische Schöpfung
+- Digitale Bildgestaltung
+- Interaktive Installationskunst
+- Virtuelle und erweiterte Realität in der Kunst
+- KI und kreative Gestaltung
 
 **Interdisziplinäre Bildung**
 
-- Integration von Kunst und Technologie
-- Verknüpfung von Kunst und Industriedesign
-- Verbindung von Kunst und gesellschaftlichen Themen
+- Verbindung von Kunst und Technologie
+- Verbindung von Kunst und kommerzieller Gestaltung
+- Verknüpfung von Kunst mit gesellschaftlichen Themen
 
-### Innovation der Lehrmethoden
+### Innovation in der Unterrichtsmethodik
 
-**Online-Lernplattformen**
+**Online-Bildungsplattformen**
 
-- Fernunterrichtstechniken
+- Technologie für Fernunterricht
 - Digitale Lernressourcen
-- Virtuelle Ausstellungen und Präsentationen
+- Virtuelle Ausstellungen und Werkpräsentationen
 
-**Anbindung an die Industrie**
+**Verbindung zur Industrie**
 
-- Stärkung des Praktikumssystems
-- Kooperatives Lehren mit Fachleuten der Industrie
-- Unterstützung bei der Unternehmensgründung
+- Verstärkung des Praktikumssystems
+- Mitunterricht durch Industriepraktiker
+- Unterstützung für Gründungen
 
-## Zeitgenössische Herausforderungen und Zukunftsaussichten
+## Gegenwärtige Herausforderungen und Zukunftsperspektiven
 
-Die strukturellen Herausforderungen, denen sich die taiwanesische Kunstbildung stellen muss, umfassen: den Druck durch sinkende Geburtenraten, den Mangel an Lehrkräften, einen begrenzten Arbeitsmarkt für reine Künste sowie ungleiche Verteilung der Ressourcen in städtischen und ländlichen Gebieten.
+Strukturelle Herausforderungen der taiwanesischen Kunstbildung umfassen: Druck durch sinkende Geburtenraten, reduzierte Stellen für Lehrkräfte, begrenzter Arbeitsmarkt für reine Künstlerinnen und Künstler sowie ungleiche Verteilung von Ressourcen für Kunstbildung zwischen Stadt und Land.
 
-Diese Herausforderungen zwingen die Hochschulen dazu, ihre Ausrichtung neu zu überdenken – die Stärkung der industriellen Anbindung, die Erweiterung interdisziplinärer Kurse und die Förderung internationaler Studierender sind die wichtigsten beobachteten Reaktionen[^7].
+Diese Herausforderungen zwingen die Akademien, ihre Position neu zu überdenken – Stärkung der Verbindung zu Industrie, Erweiterung interdisziplinärer Curricula, Förderung internationaler Studentenrekrutierung – aktuell beobachtete Hauptreaktionen [^7].
 
-Der Druck durch sinkende Geburtenraten ist besonders groß für kleinere Hochschulen; wie sie den Zulassungsdruck bewältigen können, während die Bildungsqualität aufrechterhalten wird, ist eine reale Herausforderung, der sich alle Kunstuniversitäten stellen müssen.
+Der Druck durch sinkende Geburtenraten betrifft besonders kleinere Akademien: Wie man in der Aufnahmeprüfung Druck gleichzeitig mit Erhalt der Bildungsqualität umgeht, ist eine reale Herausforderung für alle taiwanesischen Kunstuniversitäten.
 
-### Verteilung der Bildungsmittel
+### Verteilung von Bildungsressourcen
 
-**Stadt-Land-Gefälle**
+**Ungleichgewicht zwischen Stadt und Land**
 
-- Ungleiche Verteilung der Ressourcen in der künstlerischen Bildung
-- Verbesserung der Qualität der künstlerischen Bildung in ländlichen Gebieten
-- Digitale Plattformen reduzieren Bildungsunterschiede
+- Ungleichmäßige Verteilung von Ressourcen für Kunstbildung
+- Verbesserung der Qualität der Kunstbildung in abgelegenen Regionen
+- Digitale Plattformen zur Verringerung des Bildungsgefälles
 
-**Internationaler Wettbewerb**
+**Internationale Konkurrenz**
 
-- Wettbewerb mit den Kunstbildungssystemen verschiedener asiatischer Länder
-- Steigerung des internationalen Ansehens der taiwanesischen Kunstbildung
-- Anziehung internationaler Studierender nach Taiwan
+- Konkurrenz mit Kunstbildung in anderen asiatischen Ländern
+- Steigerung des internationalen Rufs der taiwanesischen Kunstbildung
+- Anwerbung internationaler Studenten
 
-### Arbeitsmarkt und industrielle Anforderungen
+### Arbeitsmarkt und Branchenbedarf
 
-**Traditionelle Karrierewege**
+**Traditionelle Berufswege**
 
-- Rückgang von Lehrstellen
-- Begrenzter Markt für reine künstlerische Schöpfungen
-- Notwendigkeit, vielfältige Beschäftigungsmöglichkeiten zu erschließen
+- Reduzierte Stellenangebote für Lehrkräfte
+- Begrenzter Markt für reine kreative Arbeit
+- Notwendigkeit, vielfältige Berufswege zu erkunden
 
-**Neue Berufschancen**
+**Neue Berufsmöglichkeiten**
 
 - Designer in der Kulturindustrie
-- Digitalinhalte-Kreatoren
-- Kuratorinnen und Künstlerisches Management
-- Kunsttherapeuten
+- Digitale Inhaltsersteller
+- Kuratorinnen und Kunstverwaltung
+- Kunsttherapeutinnen
 
 ### Kontinuierliche Aktualisierung der Bildungsphilosophie
 
-**Innovative Lehrmethoden**
+**Innovative Unterrichtsmethoden**
 
 - Projektorientiertes Lernen
-- Problemorientierte Bildung
-- Interdisziplinäres Kooperationslernen
+- Problemlösungsorientierter Unterricht
+- Interdisziplinäre kooperative Lernmethoden
 
-**Sozialverantwortung in der Bildung**
+**Bildung für soziale Verantwortung**
 
-- Kunstintervention in gesellschaftliche Themen
-- Öffentliche Kunst und Gemeinschaftsbildung
-- Die soziale Wirkung der Kunst
+- Kunst als Mittel zur Auseinandersetzung mit gesellschaftlichen Themen
+- Öffentliche Kunst und Gemeinschaftsgestaltung
+- gesellschaftlicher Einfluss der Kunst
 
-## Fazit
+## Schlussfolgerung
 
-Die taiwanesische Kunstbildung, von den Anfängen während der japanischen Kolonialzeit bis zur heutigen Vielfalt, spiegelt den Wandel und die Entwicklung der taiwanesischen Kulturgesellschaft wider. Von der Ausbildung von Künstlern im Lehramtswesen bis zur Förderung kreativer Talente in spezialisierten Kunstakademien hat Taiwan ein vollständiges und vielfältiges System der künstlerischen Bildung aufgebaut.
+Von der Keimzelle der kolonialen Bildung bis zu ihrer heutigen Vielfalt hat sich die taiwanese Kunstbildung entwickelt und spiegelt damit die kulturelle Transformation Taiwans wider. Vom Training von Kunstlehrerinnen in der Normalausbildung bis hin zur Förderung professioneller Künstlerinnen und Künstler in Kunstakademien – Taiwan hat ein vollständiges und vielfältiges Kunstbildungssystem aufgebaut.
 
-Angesichts der Herausforderungen des digitalen Zeitalters transformiert sich die taiwanesische Kunstbildung, wobei der Schwerpunkt auf interdisziplinärer Integration, internationalem Blickwinkel und lokaler Besonderheit liegt. Die zukünftige Kunstbildung wird den Fokus verstärkt auf innovatives Denken, gesellschaftliches Engagement und kulturelle Weitergabe legen, um Künstler zu fördern, die weltweit wettbewerbsfähig sind.
+Angesichts der Herausforderungen des digitalen Zeitalters transformiert sich die taiwanese Kunstbildung weiter und legt Wert auf interdisziplinäre Integration, internationale Perspektive und lokale Eigenheiten. Zukünftige Kunstbildung wird noch stärker auf Innovation, soziale Teilhabe und kulturellen Erhalt achten und Fachkräfte mit globaler Wettbewerbsfähigkeit fördern.
 
-Die Ergebnisse der taiwanesischen Kunstbildung – einschließlich der Ausbildung zahlreicher ausgezeichneter Künstler und Designer – haben durch das System der Lehrerausbildung auch die Qualität der ästhetischen Erziehung in der gesamten Gesellschaft beeinflusst; diese beiden Pfade stützen gemeinsam die Entwicklung der kulturellen Soft Power Taiwans (siehe Kurse und Bildungserfolge auf den offiziellen Websites).
+Die Errungenschaften der taiwanesischen Kunstbildung – darunter die Ausbildung vieler herausragender Künstlerinnen und Künstler sowie die Verbesserung der ästhetischen Bildung durch das Lehrernetzwerk – werden durch diese zwei Wege getragen (siehe die offiziellen Webseiten der Akademien für Lehrpläne und organisatorische Ergebnisse).
+
+**Weiterführende Literatur**:
+
+- [Ein Jahrhundert der taiwanesischen Aquarellmalerei](/de/art/century-of-taiwanese-watercolor-painting) – Ishikawa Kin'ichiro kam 1907 nach Taiwan, und aus seiner Klasse hervorgingen eine ganze Generation taiwanesischer Aquarellmaler
+- [Taiwans neue Medienkunst](/de/art/taiwan-new-media-art) – Wie die interdisziplinären Curricula der Kunstakademien vierzig Jahre lang bis zur internationalen Bühne der Videos und digitalen Kunst führten
+- [Taiwanese Kuratorinnen und kultureller Aufbau](/de/art/taiwanese-curators-and-artistic-cultural-construction) – Wie sich kuratorische Praxis und Verwaltung von Lehrplanbezeichnungen zu einer Branche entwickelten
 
 ## Referenzen
 
-[^1]: [Nationale Kunstuniversität in Taipeh](https://w3.tnua.edu.tw/) — Offizielle Website und Hochschulgeschichte
+[^1]: [Wikipedia: Staatliche taiwanese Kunstakademie](https://zh.wikipedia.org/zh-tw/%E5%9C%8B%E7%AB%8B%E8%87%BA%E5%8C%97%E8%97%9D%E8%A1%93%E5%A4%A7%E5%AD%B8) — – 1980 gegründetes Vorbereitungsamt, 1982 mit Fächern Musik, Bildende Kunst, Theater, 1983 hinzugefügt: Tanz; 2019: Kommission für Allgemeinbildung und Gemeinschaftsbildung neu organisiert zur Humanwissenschaftlichen Fakultät
 
-[^2]: [Nationale Kunstuniversität in Tainan](https://www.tnnua.edu.tw/) — Hochschulgeschichtliche Dokumente und Entwicklungshistorie
+[^2]: [Staatliche taiwanese Kunstakademie: Überblick über NCKU](https://www.tnnua.edu.tw/p/412-1000-92.php?Lang=zh-tw) — – 78. Jahr der Genehmigung für Vorbereitung, 85. Jahr der offiziellen Gründung als staatliche taiwanese Kunstakademie, erster Rektor Han Bao-Te, vier Institute bei Gründung, 93. Jahr der Umwandlung in Universität
 
-[^3]: [Nationale Kunstuniversität in Taiwan](https://www.ntua.edu.tw/) — Historische Entwicklung und Universitätsvorstellung
+[^3]: [Wikipedia: Staatliche taiwanese Kunstuniversität](https://zh.wikipedia.org/zh-tw/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E8%97%9D%E8%A1%93%E5%A4%A7%E5%AD%B8) — – Frühere Namen: Staatliche Kunstschule (1955–1960), Staatliche taiwanese Kunstakademie (1960–1994), Staatliche taiwanese Kunstakademie (1994–2001), Staatliche taiwanese Kunstuniversität (ab 2001)
 
-[^4]: [Kunstabteilung der Taiwanesischen Lehramtsuniversität](https://www.art.ntnu.edu.tw/) — Entwicklungsgeschichte der Fakultät und Kursinformationen
+[^4]: [Staatliche taiwanese Normaluniversität: Geschichte der Kunstfakultät](https://www.art.ntnu.edu.tw/index.php/about/history/) — – 1946 gegründete Provinziale Normalakademie, 1947. Monat: Fachrichtung für Bildende Arbeiten, 1948. August: Kunstfakultät hinzugefügt, Rektoren: Mo Da-Yuan, Huang Chun-Pi, Dozenten: Liao Chi-Chun, Pu Hsin-Chi
 
-[^7]: [Museum für Kunstbildung in Taiwan](https://www.arte.gov.tw/) — Forschungsdaten zur Kunstbildungspolitik
+[^7]: [Museum für Kunstbildung](https://www.arte.gov.tw/) — – Forschungsmaterialien zur Kunstbildungspolitik
