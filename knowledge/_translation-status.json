@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-03T04:48:20+08:00",
-    "zhCommitHead": "13baea701",
+    "lastUpdated": "2026-10-03T05:14:17+08:00",
+    "zhCommitHead": "81da97f8a",
     "totalZh": 1125,
     "activeLanguages": [
       "en",
@@ -92,8 +92,8 @@
       },
       "ar": {
         "total_zh": 1125,
-        "fresh": 1124,
-        "stale": 1,
+        "fresh": 1125,
+        "stale": 0,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -82440,8 +82440,8 @@
           "sourceContentHash": "sha256:6b8c18165d43ed48",
           "sourceBodyHash": "sha256:90c0aa43021fbb5f",
           "translatedAt": "2026-10-03T04:46:08+08:00",
-          "translationLastCommit": "740ab7c1",
-          "translationLastModified": "2026-08-09T12:26:50+08:00",
+          "translationLastCommit": "6dbc188e",
+          "translationLastModified": "2026-10-03T04:48:20+08:00",
           "inferred": false,
           "footnoteDefs": 4,
           "bytes": 17875,
@@ -82500,20 +82500,18 @@
         "ar": {
           "path": "ar/Nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes.md",
           "translatedFrom": "Nature/台灣國家公園.md",
-          "sourceCommitSha": "18157ab5d",
-          "sourceContentHash": "sha256:c51eb1a165d6a2f5",
-          "sourceBodyHash": "sha256:99620fa1348fdcfe",
-          "translatedAt": "2026-07-26T12:49:19+08:00",
+          "sourceCommitSha": "7f5cc659d",
+          "sourceContentHash": "sha256:6b8c18165d43ed48",
+          "sourceBodyHash": "sha256:90c0aa43021fbb5f",
+          "translatedAt": "2026-10-03T05:11:53+08:00",
           "translationLastCommit": "ffaa11ae",
           "translationLastModified": "2026-07-26T14:53:46+08:00",
           "inferred": false,
-          "footnoteDefs": 6,
-          "bytes": 21263,
+          "footnoteDefs": 4,
+          "bytes": 20635,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+25 -27"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes.md",
