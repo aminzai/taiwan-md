@@ -1,317 +1,328 @@
 ---
-title: 'Vận động xã hội và tham gia công dân'
-description: 'Từ Phong trào Dân chủ Hoa백 (野百合) đến Phong trào Hoa hướng dương (太陽花), cách Đài Loan thực hành dân chủ và thúc đẩy tiến bộ xã hội thông qua các phong trào xã hội'
+title: 'Phong trào xã hội và tham gia công dân'
+description: 'Từ học sinh Bạch Dương đến Hoa hướng, cách Đài Loan thực hiện dân chủ và thúc đẩy tiến bộ xã hội thông qua các phong trào xã hội'
 date: 2026-03-18
-author: 'Taiwan.md'
 category: 'Society'
-subcategory: '民主與政治'
 tags:
   [
-    'Vận động xã hội',
+    'Phong trào xã hội',
     'Tham gia công dân',
     'Dân chủ',
-    'Phong trào Dân chủ Hoa백 (野百合)',
-    'Phong trào Hoa hướng dương (太陽花)',
+    'Phong trào học sinh Bạch Dương',
+    'Phong trào Hoa hướng',
     'Cải cách xã hội',
   ]
+subcategory: '民主與政治'
+author: 'Taiwan.md'
+difficulty: 'intermediate'
 readingTime: 12
+featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: true
 translatedFrom: 'Society/社會運動與公民參與.md'
-sourceCommitSha: 'dbaf28954'
-sourceContentHash: 'sha256:31022a8379acbf4e'
-sourceBodyHash: 'sha256:13d4a3545c8fc998'
-translatedAt: '2026-07-18T18:59:52+08:00'
+sourceCommitSha: '568d157c8'
+sourceContentHash: 'sha256:24458700fa1db004'
+sourceBodyHash: 'sha256:34f23befdc556790'
+translatedAt: '2026-10-02T07:53:56+08:00'
 ---
 
-# Vận động xã hội và tham gia công dân
+# Phong trào xã hội và tham gia công dân
 
-## Tóm tắt trong 30 giây
+## 30 giây tổng quan
 
-Đài Loan là một xã hội có nền vận động xã hội sôi động. Từ phong trào giải nghiêm những năm 1980, Phong trào Dân chủ Hoa Bách Hợp (野百合) năm 1990, Phong trào Hoa hướng dương (太陽花) năm 2014 cho đến việc hợp pháp hóa hôn nhân đồng giới năm 2019, các phong trào xã hội luôn là lực lượng then chốt thúc đẩy quá trình dân chủ hóa và tiến bộ xã hội của Đài Loan. Các phong trào xã hội tại Đài Loan mang đặc điểm hòa bình, lý tính, kế thừa giữa các thế hệ và đa dạng về chủ đề, thể hiện sự trưởng thành và sức sống của xã hội dân sự.
+Đài Loan là một xã hội sôi động về các phong trào xã hội, từ các phong trào chống hiến pháp ở những năm 1980, phong trào học sinh Bạch Dương năm 1990, phong trào Hoa hướng năm 2014 cho đến sự pháp chính hoá của hôn nhân đồng tính năm 2019, các phong trào xã hội luôn là lực lượng then chốt thúc đẩy quá trình dân chủ hóa và tiến bộ xã hội của Đài Loan. Các phong trào xã hội của Đài Loan mang lại đặc trưng là bình đẳng lý trí, kế thừa thế hệ và phạm vi đề tài rộng lớn, thể hiện sự chín chắn và sức sống của xã hội dân sự.
 
-Những phong trào này vượt qua các lĩnh vực chính trị, môi trường, lao động, giới tính... xuất hiện dưới những hình thức khác nhau qua các thời đại, nhưng đều để lại những dấu ấn thể chế cụ thể trong tiến trình dân chủ của Đài Loan.
+Những phong trào này vượt qua các lĩnh vực khác nhau như chính trị, môi trường, công nhân và giới tính, xuất hiện ở những thời đại khác nhau dưới những hình thức khác nhau, nhưng đều để lại những dấu ấn cụ thể trong quá trình dân chủ hóa của Đài Loan.
 
-Các phong trào xã hội tại Đài Loan thường được tiến hành theo cách hòa bình, ít khi xảy ra xung đột bạo lực. Đặc tính này khá hiếm trong lịch sử các phong trào dân chủ hóa ở Đông Á.
+Hầu hết các phong trào xã hội lớn của Đài Loan diễn ra theo cách bình đẳng, nhưng cũng có ngoại lệ: Phong trào nông dân 520 năm 1988 kết thúc bằng những xung đột căng thẳng giữa cảnh sát và người dân, hơn 130 người bị bắt giữ[^7]。
 
-**Các phong trào then chốt:** Phong trào Dân chủ Hoa Bách Hợp (野百合) (1990), Phong trào Hoa hướng dương (太陽花) (2014), Phong trào bình quyền hôn nhân, Phong trào môi trường, Phong trào lao động
+**Các phong trào chính:** Phong trào học sinh Bạch Dương (1990), Phong trào Hoa hướng (2014), Phong trào quyền hôn nhân, Phong trào môi trường, Phong trào công nhân
 
 ## Tại sao điều này quan trọng
 
-Kinh nghiệm về các phong trào xã hội của Đài Loan thể hiện các con đường khác nhau mà công dân tham gia vào chính trị trong một xã hội dân chủ. Khác với các quốc gia dân chủ phương Tây đã trưởng thành, các phong trào xã hội của Đài Loan phát triển dần dần trong quá trình dân chủ hóa; chúng vừa là sản phẩm của quá trình dân chủ hóa, vừa là động lực thúc đẩy sự sâu sắc hóa dân chủ.
+Kinh nghiệm các phong trào xã hội của Đài Loan cho thấy các con đường khác nhau mà công dân tham gia vào chính trị trong một xã hội dân chủ. Khác biệt với các quốc gia dân chủ phương Tây đã phát triển, các phong trào xã hội của Đài Loan phát triển dần dần trong quá trình dân chủ hóa, vừa là kết quả của sự dân chủ hóa, vừa là động lực thúc đẩy sự sâu rộng của dân chủ.
 
-Đối với cộng đồng quốc tế, kinh nghiệm về các phong trào xã hội của Đài Loan cung cấp một ví dụ cụ thể về "cách thức hiện thực hóa chuyển đổi dân chủ trong bối cảnh Đông Á". Đặc biệt là làm thế nào để thúc đẩy cải cách chính trị trong khi vẫn duy trì ổn định xã hội, và làm thế nào để giám sát chính phủ thông qua sự tham gia của công dân. Vấn đề này không có câu trả lời trong sách giáo khoa, và chính quá trình khám phá của Đài Loan đã trở thành một case study.
+Đối với cộng đồng quốc tế, kinh nghiệm các phong trào xã hội của Đài Loan cung cấp một trường hợp cụ thể về "cách thức thực hiện cách mạng dân chủ trong bối cảnh Đông Á". Đặc biệt là cách thúc đẩy cải cách chính trị trong khi duy trì sự ổn định xã hội, cách thông qua sự tham gia của công dân để giám sát chính phủ. Vấn đề này không có câu trả lời sẵn trong sách giáo khoa, chính quá trình khám phá của Đài Loan cũng là một trường hợp.
 
-Trong làn sóng toàn cầu đe dọa bởi tin giả và sự thoái lui dân chủ, sự kiên cường của xã hội dân sự Đài Loan cũng thu hút sự chú ý của các nhà nghiên cứu quốc tế.
+Trong bối cảnh truyền thông giả mạo đe dọa và dòng chảy dân chủ thụt lùi toàn cầu, sức bền của xã hội dân sự ở Đài Loan cũng đã được các nhà nghiên cứu quốc tế chú ý.
 
-## Bối cảnh lịch sử và các giai đoạn phát triển
+## Bối cảnh lịch sử và giai đoạn phát triển
 
-### Phong trào phản đối trong thời kỳ chuyên chế (1949-1987)
+### Các phong trào phản kháng trong thời kỳ áp đặt (1949-1987)
 
-Trong thời kỳ thiết quân luật, mặc dù không gian chính trị bị hạn chế, nhưng vẫn có những hoạt động phản ứng lẻ tẻ:
+Trong thời kỳ lệnh cấm, mặc dù không gian chính trị bị hạn chế ở Đài Loan, nhưng vẫn có một số hoạt động phản đối rời khỏi:
 
-**Các cuộc đấu tranh sớm:**
+**Các cuộc biểu tình sớm:**
 
-- **Sự kiện Trung Lịch (中壢事件) (1977):** Khủng hoảng quần chúng do gian lận bầu cử
-- **Sự kiện Mỹ Lệ Đảo (美麗島事件) (1979):** Ngày 10 tháng 12 năm 1979, các nhân sĩ phi đảng phái tổ chức cuộc họp chính trị tại Cao Hùng, bị cảnh sát quân đội đàn áp, nhiều nhà hoạt động dân chủ sau đó bị bắt giữ
-- **Phong trào dân chủ hóa trong trường học:** Sinh viên đại học đấu tranh cho quyền tự trị và tự do ngôn luận
+- **Sự kiện Trung Lượng (1977):** Biểu tình đông đảo vì gian lận bầu cử
+- **Sự kiện Đẹp Vườn (1979):** Ngày 10 tháng 12 năm 1979, những người không thuộc đảng đảng tổ chức một cuộc họp chính trị ở Gaoxiong, bị quân đội và cảnh sát đàn áp, nhiều nhà hoạt động dân chủ sau đó bị bắt giữ
+- **Phong trào dân chủ trên đại học:** Sinh viên đấu tranh vì tự quyết và tự do ngôn luận
 
-Những phong trào này đã tích lũy kinh nghiệm tổ chức và năng lượng xã hội cho quá trình dân chủ hóa sau này.
+Những phong trào này đã tích lũy kinh nghiệm tổ chức và nguồn lực xã hội cho cuộc cách mạng dân chủ sau này.
 
-### Bùng nổ phong trào xã hội sau khi giải nghiêm (1987-1990)
+### Sự bùng nổ của các phong trào xã hội sau khi giải phóng (1986-1990)
 
-Sau khi giải nghiêm, năng lượng xã hội bị kìm nén bùng nổ ngay lập tức, các phong trào đấu tranh về nhiều chủ đề lần lượt xuất hiện:
+Trước và sau khi giải phóng, nguồn lực xã hội bị áp đặt đã bùng nổ, và các phong trào phản đối trên nhiều vấn đề khác nhau liên tiếp xuất hiện:
 
 **Phong trào môi trường:**
 
-- **Phong trào phản đối Dupont (反杜邦運動) (1986):** Cư dân Lư Cảng, Chương Hóa phản đối việc Dupont xây nhà máy[^4]
-- **Phong trào phản đối hạt nhân:** Yêu cầu dừng xây dựng nhà máy điện hạt nhân số 4
-- **Bảo vệ vùng đất ngập nước:** Phản đối việc phát triển Khu công nghiệp Binan
+- **Phong trào chống DuPont (1986-1987):** Cư dân ở Lục Sơn, Trùng Khánh phản đối việc công ty DuPont Mỹ thi lập nhà máy, DuPont đã công bố hủy bỏ kế hoạch vào tháng 3 năm 1987[^4]
+- **Phong trào chống hạt nhân:** Yêu cầu dừng xây dựng nhà máy điện hạt nhân thứ tư
 
-**Phong trào lao động:**
+**Phong trào công nhân:**
 
-- **Sự kiện 519 (519事件) (1988):** Công nhân xe buýt Chiayi (嘉義) đình công
-- **Quyền lợi lao động:** Đấu tranh cho ba quyền lao động và bảo đảm việc làm
+- **Công cuộc đình công của xe khách Taoyuan (1988):** Vào tháng 2, công cuộc đình công của liên đoàn công nhân xe khách Taoyuan đã thu hút sự tham gia của công nhân xe khách ở khắp nơi và làn sóng đình công[^6]
+- **Quyền lợi công nhân:** Đấu tranh vì ba quyền lợi công nhân và bảo vệ công việc
 
 **Phong trào nông dân:**
 
-- **Phong trào nông dân 520 (520農民運動) (1988):** Đấu tranh cho các chính sách bảo hộ nông nghiệp
-- **Phản đối nhập khẩu thịt bò Mỹ:** Bảo vệ nông nghiệp bản địa
+- **Phong trào nông dân 520 (1988):** Hơn 5,000 nông dân từ khắp nơi lên đường bộ ở Bắc Kinh, hơn 130 người bị bắt giữ[^7]
+- **Phản đối mở cửa nhập khẩu nông sản Mỹ:** Vào thời điểm đó, Mỹ yêu cầu mở cửa nhập khẩu quất và gà tây[^7]
 
-## Các trường hợp phong trào xã hội tiêu biểu
+## Các trường hợp nghiên cứu quan trọng của phong trào xã hội
 
-### Phong trào Dân chủ Hoa Bách Hợp (野百合) (Tháng 3 năm 1990)
+### Phong trào học sinh Bạch Dương (tháng 3 năm 1990)
 
-**Bối cảnh:** Cải cách hệ thống chính trị và cuộc bầu chọn đại quy mô Quốc hội
-**Quy mô:** Khoảng 5.000-6.000 sinh viên tham gia (ở đỉnh điểm)
-**Địa điểm:** Quảng trường Tự do, Nhà tưởng niệm Trung Chánh
+**Bối cảnh:** Sự thay đổi lớn của quốc hội và cải cách thể chế chính trị
+**Quy mô:** Khoảng 5,000-6,000 sinh viên tham gia (cao điểm)
+**Địa điểm:** Quảng trường Đài Chung (ngày nay là Quảng trường Tự Do)
 
-Phong trào Dân chủ Hoa Bách Hợp là phong trào sinh viên quy mô lớn đầu tiên tại Đài Loan, có ảnh hưởng quan trọng đối với việc thúc đẩy dân chủ hóa chính trị.[^1]
+Phong trào học sinh Bạch Dương là cuộc biểu tình sinh viên lớn nhất kể từ khi chính phủ chuyển đến Đài Loan, có tác động lớn đến sự dân chủ hóa chính trị. [^1]
 
 **Bốn yêu cầu chính:**
 
-1. Giải tán Đại hội Quốc dân
+1. Giải thể Hội đồng Quốc gia
 2. Hủy bỏ các điều khoản tạm thời
-3. Triệu tập Hội nghị Quốc sự
-4. Khung thời gian cho cải cách dân chủ hóa hệ thống chính trị
+3. Tổ chức hội nghị quốc gia
+4. Lộ trình cải cách thể chế chính trị dân chủ
 
-**Đặc điểm của phong trào:**
+**Đặc trưng của phong trào:**
 
-- **Hòa bình và lý tính:** Nhấn mạnh đấu tranh bất bạo động, duy trì trật tự tại hiện trường
-- **Chiến lược truyền thông:** Tận dụng tốt truyền thông để truyền tải yêu cầu
+- **Bình đẳng lý trí:** Nhấn mạnh phản kháng bạo lực, duy trì trật tự tại chỗ
+- **Chiến lược truyền thông:** Sử dụng hiệu quả truyền thông để lan truyền thông điệp
 - **Liên minh liên trường:** Hành động thống nhất của sinh viên toàn quốc
-- **Sự tham gia của trí thức:** Giáo sư và học giả công khai ủng hộ
+- **Sự tham gia của trí tuệ:** Giáo sư và nhà nghiên cứu công khai ủng hộ
 
 **Ý nghĩa lịch sử:**
-Phong trào Dân chủ Hoa Bách Hợp đã trực tiếp thúc đẩy cải cách hệ thống chính trị, đẩy nhanh tiến trình dân chủ hóa của Đài Loan. Sau khi phong trào kết thúc, chính phủ cam kết thúc đẩy cải cách, Quốc hội tiến hành bầu chọn đại quy mô, các thể chế dân chủ như bầu chọn tổng thống trực tiếp cũng lần lượt được xác lập.
+Phong trào học sinh Bạch Dương trực tiếp thúc đẩy cải cách thể chế chính trị, tăng tốc quá trình dân chủ hóa của Đài Loan. Sau khi phong trào kết thúc, chính phủ cam kết thúc đẩy cải cách, quốc hội tiến hành sự sáp nhập lớn, và các cơ chế dân chủ như bầu cử trực tiếp của tổng thống cũng được thiết lập lần lượt.
 
-### Phong trào Hoa hướng dương (太陽花) (Tháng 3 năm 2014)
+### Phong trào Hoa hướng (tháng 3 năm 2014)
 
-**Bối cảnh:** Phản đối quy trình "hộp đen" của Hiệp nghị Hợp tác Khung Dịch vụ (ECFA)
-**Quy mô:** Ban tổ chức ước tính đỉnh điểm có khoảng 500.000 người tham gia
-**Địa điểm:** Hội trường Lập pháp viện, Hành chính viện, Quảng trường Tự do
+**Bối cảnh:** Phản đối việc xử lý thỏa thuận thương mại dịch vụ một cách bí mật
+**Quy mô:** Ngày 30 tháng 3, cuộc họp trên phố chính, các nhà tổ chức ước tính khoảng 500,000 người tham dự, cảnh sát ước tính khoảng 116,000 người[^2]
+**Địa điểm:** Nghị viện, Vă phòng hành chính, Quảng trường Tự Do
 
-Phong trào Hoa hướng dương là phong trào xã hội quy mô lớn nhất sau khi Đài Loan dân chủ hóa, thể hiện sự quan tâm của thế hệ mới đối với chất lượng dân chủ và bản sắc Đài Loan.[^2]
+Phong trào Hoa hướng cho thấy sự quan tâm của thế hệ trẻ đối với chất lượng dân chủ và bản sắc của Đài Loan.
 
-**Các yêu cầu cốt lõi:**
+**Yêu cầu cốt lõi:**
 
-1. Trả lại Hiệp nghị Hợp tác Khung Dịch vụ
-2. Xây dựng cơ chế giám sát hiệp nghị hai bờ eo biển
-3. Triệu tập Hội nghị Hiến pháp công dân
-4. Công bằng thủ tục và quản trị minh bạch
+1. Trả lại thỏa thuận thương mại dịch vụ
+2. Lập luật kiểm soát hai bờ eo biển
+3. Trước khi xem xét, phải có luật
+4. Tổ chức hội nghị dân sự lập hiến[^8]
 
-**Đặc điểm của phong trào:**
+**Đặc trưng của phong trào:**
 
-- **Chiếm đóng Lập pháp viện:** Hành động chiếm đóng nghị viện lần đầu tiên
-- **Vận động trên mạng:** Tận dụng tối đa mạng xã hội và phát trực tiếp
-- **Sự tham gia của các thế hệ:** Chủ yếu là sinh viên, được các thế hệ khác ủng hộ
-- **Sự chú ý quốc tế:** Được truyền thông quốc tế đưa tin rộng rãi
+- **Chiếm lĩnh Nghị viện:** Hành động chiếm lĩnh nghị viện lần đầu tiên
+- **Động viên mạng:** Sử dụng hiệu quả mạng xã hội và truyền phát trực tuyến
+- **Tham gia thế hệ:** Chủ yếu là sinh viên, được hỗ trợ bởi nhiều thế hệ
+- **Chú ý quốc tế:** Nhận được báo cáo rộng rãi từ truyền thông quốc tế
 
-**Ảnh hưởng xã hội:**
+**Tác động xã hội:**
 
-- **Ảnh hưởng chính trị:** Ảnh hưởng đến cuộc bầu chọn địa phương năm 2014 và cuộc bầu chọn tổng thống năm 2016
-- **Ý thức công dân:** Nâng cao sự tham gia chính trị của thế hệ trẻ
-- **Sâu sắc hóa dân chủ:** Thúc đẩy minh bạch thông tin chính phủ và thể chế tham gia công dân
+- **Tác động chính trị:** Ảnh hưởng đến cuộc bầu cử địa phương năm 2014 và cuộc bầu cử tổng thống năm 2016
+- **Nhận thức công dân:** Nâng cao nhận thức chính trị của thế hệ trẻ
+- **Sâu rộng dân chủ:** Thúc đẩy sự minh bạch thông tin của chính phủ và sự tham gia của công dân
 
-### Phong trào bình quyền hôn nhân (2013-2019)
+### Phong trào quyền hôn nhân (2013-2019)
 
-**Chủ đề:** Đấu tranh cho việc pháp lý hóa hôn nhân đồng giới
-**Sự kiện then chốt:** Giải thích Hiến pháp của Đại pháp viện, trưng cầu dân ý, lập pháp
+**Vấn đề:** Tranh giành sự pháp chính hoá của hôn nhân đồng tính
+**Sự kiện then chốt:** Quyết định của Tòa án Tối cao, bỏ phiếu công cộng, lập pháp
 
-Phong trào bình quyền hôn nhân của Đài Loan đã trải qua nhiều năm nỗ lực, cuối cùng trở thành khu vực đầu tiên tại châu Á hợp pháp hóa hôn nhân đồng giới vào năm 2019.
+Phong trào quyền hôn nhân của Đài Loan trải qua nhiều năm nỗ lực, cuối cùng trở thành khu vực đầu tiên ở châu Á pháp chính hoá hôn nhân đồng tính vào năm 2019.
 
-**Tiến trình phong trào:**
+**Quá trình phong trào:**
 
-Năm 2013, các đại biểu lập pháp đề xuất dự luật bình quyền hôn nhân, năm 2016 hàng chục nghìn người lên đường tại Đại Đạo (凯道) ủng hộ hôn nhân đồng giới, đưa chủ đề này lên tiêu điểm toàn quốc. Năm 2017, Giải thích số 748 của Đại pháp viện tuyên bố luật hiện hành vi hiến[^5], tạo nền tảng hiến pháp cho việc lập pháp.
+Năm 2013, các nghị sĩ đưa ra dự luật về quyền hôn nhân, tháng 12 năm 2016, các nhà tổ chức ước tính từ 200,000 đến 250,000 người lên phố chính để ủng hộ hôn nhân đồng tính[^9], đưa vấn đề lên trên tầm quan trọng quốc gia. Năm 2017, Tòa án Tối cao ra quyết định số 748 cho rằng luật hiện hành vi phản hiến[^5], tạo nền tảng pháp lý cho sửa đổi luật.
 
-- **Năm 2018:** Mất lợi thế trong cuộc trưng cầu dân ý
-- **Năm 2019:** "Luật thực thi Giải thích số 748 của Đại pháp viện" được thông qua
+- **Năm 2018:** Các phe tranh cử trong cuộc bỏ phiếu công cộng không thành công
+- **Năm 2019:** Đạo luật thực thi quyết định số 748 của Tòa án Tối cao được thông qua
 
 **Chiến lược phong trào:**
 
-- **Con đường pháp lý:** Thông qua lập pháp và cứu trợ tư pháp
-- **Giáo dục xã hội:** Giao tiếp và giáo dục xã hội lâu dài
+- **Đường pháp pháp lý:** Thông qua lập pháp và biện pháp pháp lý
+- **Giáo dục xã hội:** Truyền thông dài hạn và giáo dục xã hội
 - **Kết nối quốc tế:** Hợp tác với các tổ chức nhân quyền quốc tế
-- **Tiếng nói đa dạng:** Kết hợp những người ủng hộ từ các bối cảnh khác nhau
+- **Tiếng nói đa dạng:** Kết hợp người ủng hộ từ nền tảng khác nhau
 
 **Ý nghĩa lịch sử:**
-Đài Loan trở thành khu vực đầu tiên tại châu Á hợp pháp hóa hôn nhân đồng giới, thể hiện các giá trị tiến bộ và bảo đảm nhân quyền của xã hội Đài Loan.[^3]
+Đài Loan trở thành khu vực đầu tiên ở châu Á pháp chính hoá hôn nhân đồng tính, thể hiện giá trị tiến bộ và bảo vệ nhân quyền của xã hội Đài Loan.[^3]
 
-## Sự phát triển của phong trào môi trường
+## Phát triển của phong trào môi trường
 
-Phong trào môi trường Đài Loan bắt đầu từ các cuộc đấu tranh phản đối ô nhiễm những năm 1980, nhanh chóng mở rộng sau khi giải nghiêm thành lực lượng công dân bao gồm bảo tồn, phản đối hạt nhân và các vấn đề khí hậu.
+Phong trào môi trường của Đài Loan bắt đầu từ những cuộc biểu tình chống bạo loạn vào những năm 1980, sau khi giải phóng nhanh chóng mở rộng thành một lực lượng công dân bao phủ bảo vệ môi trường, phản hạt nhân và khí hậu.
 
-### Phong trào môi trường giai đoạn đầu (những năm 1980-1990)
+### Các phong trào môi trường sớm (1980-1990)
 
-Sau khi giải nghiêm những năm 1980, các vấn đề môi trường trở thành một trong những lĩnh vực đấu tranh đầu tiên bùng nổ của xã hội dân sự Đài Loan. Năm 1986, cư dân Lư Cảng, Chương Hóa đã thành công ngăn chặn việc xây dựng nhà máy của Dupont (Mỹ), đây là phong trào phản đối ô nhiễm đầu tiên tại Đài Loan giành chiến thắng dựa trên lý do môi trường, thiết lập sự đồng thuận xã hội rằng công dân có quyền phản đối các ngành công nghiệp có hại. Phong trào phản đối hạt nhân và các hành động bảo tồn như cứu rừng thông mẫu tử Lan (栖蘭檜木林) cũng tiếp tục được thúc đẩy trong cùng giai đoạn.
+Từ giữa những năm 1980, vấn đề môi trường trở thành một trong những lĩnh vực đầu tiên bùng nổ mạnh mẽ của xã hội dân sự ở Đài Loan. Năm 1986, cư dân ở Lục Sơn, Trùng Khánh khởi xướng phong trào chống DuPont, công ty DuPont công bố hủy bỏ kế hoạch thi lập nhà máy ở Lục Sơn vào tháng 3 năm 1987, trở thành sự kiện đầu tiên ở Đài Loan mà cuộc biểu tình môi trường dẫn đến việc công ty nước ngoài hủy bỏ kế hoạch đầu tư[^4]。Phong trào chống hạt nhân cũng tiếp tục được thúc đẩy trong cùng khoảng thời gian. Cuối những năm 1990, phong trào bảo vệ rừng thông Quý Lan, lần đầu tiên tổ chức cuộc biểu tình vào ngày 27 tháng 12 năm 1998, mang vấn đề bảo vệ rừng lên phố[^10]。
 
-### Phong trào môi trường hiện đại
+### Các phong trào môi trường hiện đại
 
-Trọng tâm của phong trào môi trường đương đại đã chuyển từ phản đối ô nhiễm sang biến đổi khí hậu, chuyển đổi năng lượng và công bằng môi trường. Các cuộc thảo luận về năng lượng tái tạo và tranh luận chính sách điện năm 2025 cũng mang dấu vết tham gia của phong trào công dân.
+Trọng tâm của các phong trào môi trường hiện đại đã chuyển từ phản kháng sang biến đổi khí hậu, chuyển đổi năng lượng và công bằng môi trường. Những thảo luận về năng lượng tái tạo và tranh cãi về chính sách điện năng năm 2025 cũng mang lại dấu hiệu tham gia của phong trào công dân.
 
-## Phong trào lao động và quyền lợi xã hội
+## Phong trào công nhân và quyền xã hội
 
-Vấn đề lao động là một trong những lĩnh vực đầu tiên xã hội dân sự Đài Loan huy động sau khi giải nghiêm, với các yêu cầu từ quyền tổ chức cơ bản đến bảo đảm giờ làm việc, lương tối thiểu, bao phủ nhu cầu của các thế hệ lao động khác nhau.
+Vấn đề công nhân là một trong những lĩnh vực đầu tiên mà xã hội dân sự đã động viên sau khi giải phóng, từ yêu cầu cơ bản về quyền tổ chức cho đến quyền lợi về thời gian làm việc, lương tối thiểu, bao phủ nhu cầu của công nhân ở nhiều thế hệ khác nhau.
 
-Việc thực thi thực chất quyền tổ chức công đoàn và quyền đình công chỉ nhận được sự hỗ trợ pháp lý lần lượt sau làn sóng đấu tranh những năm 1980-1990.
+Sự thực thi thực sự của việc tổ chức công đoàn và quyền đình công chỉ được hỗ trợ bởi pháp lý sau những con sóng biểu tình trong những năm 1980-1990.
 
-### Phong trào quyền lợi lao động
+### Phong trào quyền lợi công nhân
 
-Phong trào lao động Đài Loan bắt đầu từ việc đấu tranh cho quyền tổ chức cơ bản nhất, tích lũy năng lượng từ cuối những năm 1980. Cuộc đấu tranh của công nhân dệt may Hualong, công nhân nhà máy đóng cửa đấu tranh cho tiền sa thải và lương hưu, và đình công của tiếp viên hàng không ngành hàng không sau năm 2016, đều là những case study quan trọng để lại ảnh hưởng cụ thể của phong trào lao động. Cuộc đấu tranh lâu dài về cải cách giờ làm việc cuối cùng dẫn đến việc thực thi chế độ "một ngày một nghỉ" (一例一休) năm 2018.
+Phong trào công nhân của Đài Loan bắt đầu từ việc đấu tranh cho những quyền lợi cơ bản nhất, từ cuối những năm 1980 bắt đầu tích lũy sức mạnh, công cuộc đình công của xe khách Taoyuan vào năm 1988 đã thu hút sự tham gia của công nhân xe khách ở khắp nơi trong việc thành lập công đoàn[^6]。Công nhân mất việc tìm cách bồi thường và lương hưu, công đoàn dệt may Hua Lung đình công trong 101 ngày vào năm 2012 vì công ty nợ lương trong nhiều năm[^6], cũng như cuộc đình công của tiếp viên hàng không sau năm 2016, đều là những trường hợp quan trọng để lại ảnh hưởng cụ thể cho phong trào công nhân. Cải cách thời gian làm việc là một cuộc chiến kéo dài: vào ngày 6 tháng 12 năm 2016, luật lao động được sửa đổi ba lần, một ngày nghỉ mỗi tuần được áp dụng, vào ngày 10 tháng 1 năm 2018, sửa đổi lần nữa, cho phép giới hạn giờ làm thêm trong tháng lên 54 tiếng và thời gian nghỉ giữa các ca làm việc có thể rút ngắn xuống 8 tiếng[^11]。
 
-### Các phong trào lao động quan trọng
+### Các phong trào công nhân quan trọng
 
-- **Sự kiện Hualong:** Đấu tranh của công nhân dệt may
-- **Phong trào công nhân nhà máy đóng cửa:** Đấu tranh cho tiền sa thải và lương hưu
-- **Đình công tiếp viên hàng không:** Đấu tranh cho cải thiện điều kiện lao động
+- **Công cuộc đình công của Hua Lung (2012):** Công nhân dệt may đình công trong 101 ngày vì công ty nợ lương
+- **Phong trào công nhân mất việc:** Tìm cách bồi thường và lương hưu
+- **Công cuộc đình công của tiếp viên hàng không:** Đấu tranh vì cải thiện điều kiện làm việc
 
-## Đặc điểm và mô hình của phong trào xã hội
+## Đặc trưng và mô hình của phong trào xã hội
 
-### Đặc điểm của phong trào xã hội Đài Loan
+### Đặc trưng của phong trào xã hội ở Đài Loan
 
-**1. Hòa bình và lý tính**
-Các phong trào xã hội tại Đài Loan chủ yếu áp dụng hình thức phản đối hòa bình, ít khi xảy ra xung đột bạo lực gay gắt. Người tham gia coi trọng "luận lý lý tính" và "biểu đạt hòa bình", văn hóa này giúp duy trì ổn định xã hội.
+**1. Bình đẳng lý trí**
+Hầu hết các phong trào xã hội ở Đài Loan đều sử dụng cách biểu tình bình đẳng, hiếm khi xuất hiện những xung đột bạo lực mạnh mẽ. Người tham gia coi trọng "lập luận lý trí" và "bày tỏ bình đẳng", nền văn hóa này góp phần duy trì sự ổn định xã hội.
 
-**2. Kế thừa giữa các thế hệ**
-Từ thế hệ Hoa Bách Hợp đến thế hệ Hoa hướng dương, phong trào xã hội Đài Loan thể hiện đặc điểm kế thừa giữa các thế hệ rõ rệt. Kinh nghiệm và lý tưởng của thế hệ vận động viên cũ được truyền lại cho thế hệ trẻ, hình thành sự kế thừa văn hóa phong trào.
+**2. Kế thừa thế hệ**
+Từ thế hệ Bạch Dương đến thế hệ Hoa hướng, các phong trào xã hội ở Đài Loan thể hiện rõ đặc trưng kế thừa thế hệ. Kinh nghiệm và tư tưởng của những người hoạt động trước đó sẽ được truyền lại cho thế hệ trẻ, tạo nên sự kéo dài của văn hóa phong trào.
 
-**3. Đa dạng hóa chủ đề**
-Phong trào xã hội Đài Loan bao phủ các chủ đề như chính trị, môi trường, lao động, giới tính, nhân quyền..., phản ánh nhu cầu và sự quan tâm đa dạng của xã hội dân sự.
+**3. Đa dạng vấn đề**
+Các phong trào xã hội ở Đài Loan bao phủ chính trị, môi trường, công nhân, giới tính, nhân quyền và nhiều vấn đề khác, phản ánh nhu cầu và quan tâm đa dạng của xã hội dân sự.
 
-**4. Đặc điểm thời đại mạng**
-Phong trào xã hội thế hệ mới tận dụng tối đa mạng và mạng xã hội để vận động, giao tiếp và luận lý, thể hiện đặc điểm phong trào trong thời đại kỹ thuật số.
+**4. Đặc trưng trong thời đại số**
+Các phong trào xã hội của thế hệ trẻ tận dụng hiệu quả internet và mạng xã hội để động viên, giao tiếp và tranh luận, thể hiện đặc trưng của thời đại số.
 
-### Mô hình tổ chức và chiến lược vận động
+### Mô hình tổ chức và chiến lược động viên
 
-**Vai trò của NGO:** Các tổ chức phi chính phủ hỗ trợ năng lượng chủ đề thông qua vận động chuyên nghiệp và quản lý lâu dài
-**Tổ chức sinh viên:** Các câu lạc bộ sinh viên đại học là nền tảng quan trọng của nhiều phong trào xã hội
-**Liên minh liên ngành:** Các nhóm khác nhau hình thành liên minh dựa trên chủ đề cụ thể
-**Chiến lược truyền thông:** Tận dụng tốt truyền thống và truyền thông mới để truyền tải thông tin
+**Vai trò của NGO:** Tổ chức phi chính phủ hỗ trợ bởi sự khuyên nhủ chuyên nghiệp và quản lý lâu dài
+**Tổ chức sinh viên:** Các câu lạc bộ sinh viên là nền tảng quan trọng của nhiều phong trào xã hội
+**Liên minh liên lĩnh vực:** Các tổ chức khác nhau hình thành liên minh cho các vấn đề cụ thể
+**Chiến lược truyền thông:** Sử dụng hiệu quả truyền thông truyền thống và mới để lan truyền thông tin
 
 ## Mối quan hệ giữa phong trào xã hội và chính trị
 
-Tồn tại mối quan hệ cộng sinh tinh tế giữa phong trào xã hội và chính trị bầu chọn tại Đài Loan: phong trào tạo ra áp lực chủ đề, các đảng phái hấp thụ phiếu bầu, thể chế điều chỉnh theo.
+Tồn tại mối quan hệ hài hòa phức tạp giữa phong trào xã hội và chính trị bầu cử ở Đài Loan: phong trào tạo ra áp lực về vấn đề, đảng chính trị thu hút phiếu bầu, và hệ thống sẽ điều chỉnh.
 
-### Ảnh hưởng đến chính trị
+### Tác động tới chính trị
 
-Ảnh hưởng của phong trào xã hội đối với chính trị Đài Loan không phải là tiếng ồn đường phố tạm thời, mà là sự chuyển hóa lặp lại thành kết quả cụ thể của lập pháp và bầu chọn. Cuộc bầu chọn địa phương năm 2014 sau Phong trào Hoa hướng dương, sự vận động ủng hộ và phản đối trong cuộc trưng cầu dân ý về bình quyền hôn nhân đều rõ ràng hiển thị cách phong trào xã hội tác động đến chiến lược đảng phái và cấu trúc phiếu bầu.
+Tác động của phong trào xã hội tới chính trị ở Đài Loan không chỉ là tiếng ồn đường phố ngắn ngủi, mà là những kết quả cụ thể được chuyển đổi thành luật và bầu cử. Sau phong trào Hoa hướng, cuộc bầu cử địa phương năm 2014 và sự vận động tích cực và tiêu cực trong cuộc bỏ phiếu công cộng về quyền hôn nhân, tất cả đều rõ ràng cho thấy cách phong trào xã hội thúc đẩy chiến lược của đảng chính trị và cấu trúc phiếu bầu.
 
-### Sự tham gia thể chế hóa
+### Tham gia đã được lập pháp hoá
 
-Sự tham gia công dân đã dần dần thể chế hóa. Chính phủ tổ chức các cuộc họp công khai trước khi ra quyết định chính sách quan trọng, thể chế trưng cầu dân ý cũng cho phép công dân biểu quyết trực tiếp về các chủ đề cụ thể. Những cơ chế này dù không hoàn hảo, nhưng đã cung cấp kênh chính thức để phong trào đường phố đi vào thể chế.
+Sự tham gia của công dân đã dần được lập pháp hoá. Chính phủ tổ chức hội thảo trước khi đưa ra các quyết định chính sách quan trọng, và hệ thống bỏ phiếu công cộng cũng cho phép công dân biểu quyết trực tiếp trên các vấn đề cụ thể. Mặc dù những cơ chế này chưa hoàn hảo, nhưng chúng cung cấp kênh chính thức để các phong trào đường phố tham gia vào hệ thống.
 
-## Sự trưởng thành của xã hội dân sự
+## Sự chín chắn của xã hội dân sự
 
-### Phát triển NGO
+### Phát triển của NGO
 
-Đài Loan sở hữu mạng lưới các tổ chức phi chính phủ sôi động, bao phủ các lĩnh vực chủ đề như nhân quyền, môi trường, giới tính, lao động... Hội thúc đẩy nhân quyền Đài Loan, Quỹ cải cách tư pháp dân gian, Liên minh hành động công dân màu xanh, Quỹ tri thức mới về phụ nữ, Đường dây tư vấn đồng giới Đài Loan và Mặt trận lao động Đài Loan... là các tổ chức đã xây dựng năng lượng vận động lâu dài trong các lĩnh vực cụ thể, là nền tảng tổ chức để phong trào xã hội được duy trì.
+Đài Loan có mạng lưỢi mật vụ NGO hoạt động sôi động, bao phủ các lĩnh vực như nhân quyền, môi trường, giới tính, công nhân và nhiều lĩnh vực khác. Hội đồng Nhân quyền Đài Loan, Quỹ Cải cách Tòa án Dân sự, Liên minh Hành động Công dân Xanh, Quỹ Nữ quyền mới, Đường dây tư vấn cộng đồng đồng tính và Dòng phong trào công nhân Đài Loan là những tổ chức thiết lập nguồn lực lâu dài cho sự khuyên nhủ trong các lĩnh vực cụ thể, là nền tảng tổ chức để duy trữ các phong trào xã hội.
 
-### Văn hóa tham gia công dân
+### Văn hóa tham gia của công dân
 
-Hình thức tham gia công dân của Đài Loan đã vượt ra ngoài phản đối đường phố. Văn hóa tình nguyện, doanh nghiệp xã hội, gây quỹ cộng đồng và nền tảng thảo luận chính sách trực tuyến (như vTaiwan) cùng cấu thành hệ sinh thái tham gia công dân thời đại kỹ thuật số, cho phép nhiều người hơn tìm thấy vị trí hành động trong và ngoài thể chế.
+Cách thức tham gia của công dân ở Đài Loan đã vượt qua sự biểu tình đường phố. Văn hóa tình nguyện, doanh nghiệp xã hội, gọi vốn qua cộng đồng và nền tảng thảo luận chính sách trực tuyến (như vTaiwan) cùng tạo nên sinh thái tham gia của công dân trong thời đại số, cho phép nhiều người tìm thấy cách hành động trong và ngoài hệ thống.
 
 ## Thách thức và suy ngẫm
 
-Sức sống của xã hội dân sự Đài Loan là điều ai cũng thấy, nhưng cũng đối mặt với một số khó khăn cấu trúc đáng được nghiêm túc đối xử.
+Sức sống của xã hội dân sự ở Đài Loan rõ rệt, nhưng cũng phải đối mặt với một số bất mãn cấu trúc cần được coi trọng.
 
 ### Thách thức hiện tại
 
-Tin giả tràn lan và hiệu ứng bong bóng lọc làm cho thảo luận chủ đề có xu hướng cực đoan hóa, các thế hệ khác nhau có sự phân biệt rõ rệt về "cách tham gia đúng đắn là gì", và bức tường chính trị Lam-Đỏ cũng khiến một số phong trào xã hội buộc phải đứng về phe, khó duy trì lập trường siêu đảng phái. Làm thế nào để duy trì tính độc lập của phong trào công dân trong kẽ hở của chính trị đảng phái, là thách thức mà xã hội dân sự Đài Loan liên tục đối mặt.
+Sự lan truyền của tin giả và hiệu ứng cùng nhiệt đới khiến thảo luận về vấn đề trở nên cực đoan hơn, các thế hệ khác nhau có sự chênh lệch rõ rệt về "cách thức tham gia đúng đắn là gì", và các bức tường chính trị xanh-lục cũng khiến một số phong trào xã hội phải chọn phe, khó duy trì quan điểm vượt đảng. Làm sao để duy trì sự độc lập của phong trào công dân trong lòng nhiễu của chính trị đảng, là thách thức mà xã hội dân sự ở Đài Loan liên tục phải đối mặt.
 
-### Phát triển tương lai
+### Phát triển trong tương lai
 
-Nền tảng tham gia kỹ thuật số, liên minh chiến lược liên chủ đề, và kết nối với xã hội dân sự quốc tế đều là những hướng phát triển có thể của phong trào xã hội Đài Loan. Làm thế nào để đạt được cân bằng giữa đổi mới thể chế và vận động đường phố vẫn đang trong quá trình khám phá.
+Nền tảng tham gia số, liên minh chiến lược liên vấn đề, cũng như kết nối với xã hội dân sự quốc tế, đều là những hướng phát triển tiềm năng của phong trào xã hội ở Đài Loan. Cách cân bằng giữa đổi mới hệ thống và động viên đường phố, vẫn đang được khám phá.
 
-## So sánh quốc tế và đặc sắc
+## So sánh quốc tế và đặc trưng
 
 ### Bối cảnh Đông Á
 
-So với phong trào xã hội hướng nội của Nhật Bản hoặc đấu tranh cực đoan hóa của Hàn Quốc, phong trào xã hội Đài Loan thể hiện đặc điểm lý tính, ôn hòa nhưng hiệu quả có thể thấy rõ.
+So với các phong trào xã hội tĩnh tại ở Nhật Bản hay các cuộc biểu tình cực đoan ở Hàn Quốc, phong trào xã hội ở Đài Loan thể hiện đặc trưng là bình đẳng lý trí nhưng hiệu quả.
 
 ### Kinh nghiệm dân chủ hóa
 
-Kinh nghiệm phong trào xã hội của Đài Loan cung cấp case study quan trọng về "chuyển đổi dân chủ từng bước", thể hiện cách thức hiện thực hóa cải cách chính trị trong điều kiện duy trì ổn định xã hội.
+Kinh nghiệm các phong trào xã hội ở Đài Loan cung cấp một trường hợp quan trọng về "cách mạng dân chủ tăng dần", thể hiện cách thực hiện cải cách chính trị trong điều kiện duy trì sự ổn định xã hội.
 
-### Ảnh hưởng đối với Hồng Kông
+### ảnh hưởng tới Hồng Kông
 
-Kinh nghiệm phong trào xã hội của Đài Loan đã tạo ra ảnh hưởng quan trọng đối với Phong trào Trung Hoàn (佔領中環), Phong trào Ô dù (雨傘運動) tại Hồng Kông, thể hiện khả năng thực hành dân chủ trong xã hội Hoa ngữ.
+Kinh nghiệm các phong trào xã hội ở Đài Loan đã tác động lớn tới các phong trào chiếm lĩnh trung tâm ở Hồng Kông, phong trào ô cử ở Hồng Kông, v.v., thể hiện khả năng thực hiện dân chủ trong cộng đồng người Hoa.
 
 ## Ý nghĩa văn hóa của phong trào xã hội
 
-### Nuôi dưỡng ý thức công dân
+### Nuôi dưỡng nhận thức công dân
 
-Phong trào xã hội là con đường quan trọng của giáo dục công dân, thông qua tham gia phong trào, công dân học được giá trị dân chủ, tham gia công cộng và trách nhiệm xã hội.
+Phong trào xã hội là một con đường quan trọng để giáo dục công dân, thông qua việc tham gia vào phong trào, công dân học hỏi các giá trị dân chủ, tham gia công cộng và trách nhiệm xã hội.
 
 ### Tranh luận về giá trị xã hội
 
-Phong trào xã hội thúc đẩy thảo luận và suy ngẫm của xã hội về các giá trị quan khác nhau, thúc đẩy cập nhật và tiến bộ giá trị xã hội.
+Phong trào xã hội thúc đẩy sự thảo luận và suy ngẫm về các giá trị khác nhau trong xã hội, thúc đẩy cập nhật và tiến bộ các giá trị xã hội.
 
-### Sâu sắc hóa văn hóa dân chủ
+### Sâu rộng văn hóa dân chủ
 
-Thông qua phong trào xã hội, xã hội Đài Loan định hình văn hóa dân chủ "tôn trọng đa dạng", "tranh luận lý tính", "biểu đạt hòa bình".
+Thông qua các phong trào xã hội, xã hội Đài Loan đã hình thành nền văn hóa dân chủ của "tôn trọng đa dạng", "tranh luận lý trí" và "bày tỏ bình đẳng".
 
-## Lời khuyên cho người quan sát nước ngoài
+## Bài học cho người nước ngoài quan sát
 
-### Sự đa dạng của thực hành dân chủ
+### Sự đa dạng trong thực hành dân chủ
 
-Kinh nghiệm của Đài Loan cho thấy, thực hành dân chủ có thể có các hình thức và con đường khác nhau, không cần hoàn toàn mô phỏng mô hình phương Tây.
+Kinh nghiệm của Đài Loan cho thấy, thực hành dân chủ có thể có những hình thức và con đường khác nhau, không cần phải sao chép hoàn toàn mô hình phương Tây.
 
 ### Chức năng tích cực của phong trào xã hội
 
-Trong xã hội dân chủ trưởng thành, phong trào xã hội là hình thức tham gia chính trị lành mạnh, cho phép thể chế dân chủ tự sửa chữa và sâu sắc hóa.
+Trong một xã hội dân chủ đã phát triển, phong trào xã hội là một cách tham gia chính trị lành mạnh, cho phép hệ thống dân chủ tự điều chỉnh và sâu rộng.
 
 ### Tầm quan trọng của xã hội dân sự
 
-Xã hội dân sự mạnh mẽ là nền tảng quan trọng cho việc củng cố dân chủ, cần sự nuôi dưỡng văn hóa lâu dài và hỗ trợ thể chế.
+Một xã hội dân sự mạnh mẽ là nền tảng quan trọng để củng cố dân chủ, cần sự nuôi dưỡng văn hóa lâu dài và hỗ trợ hệ thống.
 
-## Suy ngẫm mở rộng
+## Suy ngẫn mở rộng
 
-Kinh nghiệm phong trào xã hội của Đài Loan thể hiện cách một xã hội thực hiện cải cách và tiến bộ tự thân thông qua sự tham gia công dân. Kinh nghiệm này có ý nghĩa tham khảo sâu sắc đối với việc hiểu cơ chế vận hành của xã hội dân chủ hiện đại, và làm thế nào để tìm kiếm sự đồng thuận trong xã hội đa nguyên.
+Kinh nghiệm các phong trào xã hội ở Đài Loan cho thấy cách một xã hội thực hiện tự cải cách và tiến bộ thông qua sự tham gia của công dân. Kinh nghiệm này có giá trị tham khảo sâu sắc cho việc hiểu cách hoạt động của xã hội dân chủ hiện đại, cũng như cách tìm kiếm sự đồng thuận trong một xã hội đa dạng.
 
-Trong tương lai, phong trào xã hội Đài Loan đối mặt với các thách thức mới như thời đại kỹ thuật số, toàn cầu hóa, cực đoan hóa chính trị, làm thế nào để duy trì sức thuyết phục và tính chính đáng của phong trào trong môi trường biến đổi là điều đáng quan sát lâu dài.
+Trong tương lai, các phong trào xã hội ở Đài Loan sẽ đối mặt với những thách thức mới trong thời đại số, toàn cầu hóa và phân cực chính trị, cách duy trì sức thuyết và tính hợp lệ của phong trào trong môi trường thay đổi, là điều đáng quan sát lâu dài.
 
-**Đọc thêm**:
+**Đọc thêm:**
 
-- [The Reporter: Mười năm cứu điều tra báo chí từ mục tiêu kinh doanh thành tài sản công](/society/報導者) — Từ năm 2015, xã hội dân sự Đài Loan đã sử dụng phương thức khấu trừ hàng tháng từ người lạ để cứu điều tra báo chí từ mục tiêu kinh doanh của truyền thông thương mại thành tài sản công
-- [justfont và sự phát triển phông chữ Đài Loan: Tiểu sử phông chữ từ 25 năm của Hualong đến 76 phút của Jinxuan](/technology/justfont與台灣字體發展) — Case study khác về việc gây quỹ cộng đồng viết lại nhận thức văn hóa trong cùng năm, mở rộng câu chuyện xã hội dân sự từ góc độ cơ sở hạ tầng phông chữ
-- [Cáp ngầm dưới đáy biển: Khiên silic có thể thấy từ trên cao, mạng sống không thể thấy từ dưới đáy](/technology/海底電纜) — Lập pháp luật Cáp ngầm bảy điều, nền tảng phòng thủ liên huyện Pingtung, case study tư pháp đầu tiên của Hongtai 58 hiển thị trục lập pháp cơ sở hạ tầng an ninh quốc gia do áp lực xã hội dân sự thúc đẩy
-- [Đại bãi miễn](/vi/history/great-recall-movement-2024) — Từ chim xanh đến nhóm bãi miễn, hình ảnh vận động thế hệ và dịch chuyển thể chế hóa năng lượng đường phố của đợt sóng bãi miễn lớn nhất lịch sử năm 2025
+- [Báo cáo: Cứu cánh điều tra báo cáo từ hoạt động kinh doanh sang hàng công cộng trong một thập kỷ](/vi/society/the-reporter-investigative-journalism) — Cách xã hội dân sự ở Đài Loan từ năm 2015 sử dụng cách thuê bằng tiền hàng tháng để cứu các báo cáo điều tra từ hoạt động kinh doanh sang hàng công cộng
+- [justfont và phát triển phông chữ ở Đài Loan: Từ nền tảng 25 năm của HuaKang đến 76 phút của Kim Tân](/vi/technology/justfont-and-taiwan-typography) — Một trường hợp khác năm đó sửa đổi nhận thức văn hóa thông qua gọi vốn cộng đồng, mở rộng câu chuyện xã hội dân sự từ góc độ hạ tầng phông chữ
+- [Cáp dưới biển: Nhìn thấy được ở trên tấm kính bảo vệ, nhưng không thấy được ở dưới mặt nước](/vi/technology/submarine-cables-taiwan-lifeline) — Luật ba điều cho cáp dưới biển, nền tảng phòng thủ ở Bình Đông, trường hợp áp dụng pháp lý đầu tiên của Hong Tai 58 cho thấy trục thúc đẩy cơ sở hạ tầng an ninh thông qua áp lực của xã hội dân sự
+- [Đại pháp bỏ](/vi/history/great-recall-movement-2024) — Từ chim xanh đến nhóm pháp bỏ, hình ảnh động viên thế hệ lớn nhất trong lịch sử năm 2025 và cách chuyển đổi năng lượng đường phố thành hệ thống
 
-[^1]: Hà Minh Tu, "Tài liệu lịch sử Phong trào Dân chủ Hoa Bách Hợp", trong 《Thế hệ vận động: Từ Hoa Bách Hợp đến Hoa hướng dương》, https://www.books.com.tw/products/0010642379
+[^1]: [Wikipedia: Phong trào học sinh Bạch Dương](https://zh.wikipedia.org/zh-tw/%E9%87%8E%E7%99%BE%E5%90%88%E5%AD%B8%E9%81%8B) — Từ ngày 16 tháng 3 đến ngày 22 tháng 3 năm 1990, gần 6,000 sinh viên ngồi im tại Quảng trường Đài Chung (ngày nay là Quảng trường Tự Do), cuộc biểu tình sinh viên lớn nhất kể từ khi chính phủ chuyển đến Đài Loan
 
-[^2]: Tiêu Tân Hoàng (biên), 《Phong trào xã hội mới của Đài Loan》, Cổ Lưu Thư Quán, https://www.books.com.tw/products/0010479654
+[^2]: [Wikipedia: Cuộc biểu tình 330 chống thương mại dịch vụ](https://zh.wikipedia.org/zh-tw/330%E5%8F%8D%E6%9C%8D%E8%B2%BF%E9%81%8A%E8%A1%8C) — Ngày 30 tháng 3 năm 2014, cuộc họp trên phố chính, các nhà tổ chức ước tính 500,000 người tham dự, Bộ Nội Vụ An Ninh ước tính 116,000 người
 
-[^3]: Đại pháp viện, 《Luật thực thi Giải thích số 748》, https://cons.judicial.gov.tw/
+[^3]: [Đạo luật thực thi quyết định số 748 của Tòa án Tối cao](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=B0000008) — Trang văn bản của luật quốc gia
 
-[^4]: Hiệp hội thông tin môi trường Đài Loan, "Diễn biến sự kiện phản đối Dupont", https://e-info.org.tw/
+[^4]: [Wikipedia: Sự kiện cư dân Lục Sơn chống DuPont](https://zh.wikipedia.org/zh-tw/%E9%B9%BF%E6%B8%AF%E5%B1%85%E6%B0%91%E5%8F%8D%E6%9D%9C%E9%82%A6%E8%A8%AD%E5%BB%A0%E4%BA%8B%E4%BB%B6) — Công ty DuPont công bố hủy bỏ kế hoạch thi lập nhà máy ở Lục Sơn vào ngày 12 tháng 3 năm 1987, trở thành sự kiện đầu tiên ở Đài Loan mà cuộc biểu tình môi trường dẫn đến việc công ty nước ngoài hủy bỏ kế hoạch đầu tư
 
-[^5]: Đại pháp viện, 《Giải thích số 748 của Đại pháp viện》, https://cons.judicial.gov.tw/
+[^5]: [Quyết định số 748 của Tòa án Tối cao](https://cons.judicial.gov.tw/docdata.aspx?fid=5297&id=168051) — Trang văn bản đầy đủ của Tòa án Hiến pháp, công bố vào ngày 24 tháng 5 năm 2017 (năm 106)
+
+[^6]: [Wikipedia: Phong trào công nhân ở Đài Loan](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E5%8B%9E%E5%B7%A5%E9%81%8B%E5%8B%95) — Công cuộc đình công của xe khách Taoyuan vào ngày 14 tháng 2 năm 1988, thu hút sự tham gia của công nhân xe khách ở khắp nơi và làn sóng đình công; công đoàn dệt may Hua Lung đình công trong 101 ngày vào tháng 6 năm 2012 vì công ty nợ lương trong nhiều năm
+
+[^7]: [Thông cáo của Thượng tầng Trung tâm: Ba mươi năm của phong trào nông dân 520](https://www.cna.com.tw/news/firstnews/201805180033.aspx) — Báo cáo năm 2018: Mỹ yêu cầu mở cửa nhập khẩu quất và gà tây, hơn 5,000 nông dân từ khắp nơi lên đường bộ ở Bắc Kinh, hơn 130 người bị bắt giữ
+
+[^8]: [Nhật báo Liên hợp: Một năm rồi, phong trào học sinh Hoa hướng đã thay đổi điều gì](https://udn.com/upf/newmedia/2015_data/20150318_sunflower_08/) — Bốn yêu cầu của phong trào học sinh Hoa hướng: trả lại thỏa thuận thương mại dịch vụ, lập luật kiểm soát hai bờ eo biển, trước khi xem xét phải có luật, tổ chức hội nghị dân sự lập hiến
+
+[^9]: [Đầu mới: 250,000 người lên phố chính để ủng hộ hôn nhân đồng tính](https://newtalk.tw/news/view/2016-12-10/79948) — Ngày 10 tháng 12 năm 2016, buổi nhạc hội thảo về quyền hôn nhân, các nhà tổ chức ước tính từ 200,000 đến 250,000 người tham dự
+
+[^10]: [Phát thanh công cộng của chúng ta: Bảo vệ rừng thông Quý Lan qua thế kỷ](https://ourisland.pts.org.tw/content/4004) — Ngày 27 tháng 12 năm 1998, phong trào bảo vệ rừng thông Quý Lan lần đầu tiên tổ chức cuộc biểu tình, tiếp tục biểu tình vào tháng 12 năm 1999 và tháng 12 năm 2000
+
+[^11]: [Wikipedia: Một ngày nghỉ mỗi tuần](https://zh.wikipedia.org/zh-tw/%E4%B8%80%E4%BE%8B%E4%B8%80%E4%BC%91) — Ngày 6 tháng 12 năm 2016, luật lao động được sửa đổi ba lần; ngày 10 tháng 1 năm 2018, sửa đổi lần nữa, thay đổi giới hạn giờ làm thêm trong tháng thành 54 tiếng và thời gian nghỉ giữa các ca làm việc có thể rút ngắn xuống 8 tiếng
 
 ## Tài liệu tham khảo
 
-- Hà Minh Tu 《[Giới thiệu về phong trào xã hội](https://www.books.com.tw/products/0010294565)》
-- Tiêu Tân Hoàng 《[Phong trào xã hội mới của Đài Loan](https://www.books.com.tw/products/0010479654)》
-- Lâm Giai Long, Trịnh Vĩnh Niên biên 《[Chuyển đổi và củng cố dân chủ](https://www.books.com.tw/products/0010008479)》
-- 《[Thế hệ vận động: Từ Hoa Bách Hợp đến Hoa hướng dương](https://www.books.com.tw/products/0010642379)》
-- Trang web chính thức của các nhóm vận động xã hội và các phim tài liệu liên quan
+- Hề Minh Sửu, [Giới thiệu về phong trào xã hội](https://www.books.com.tw/products/0010294565)
+- Tẩm Tâm Hiên, Cố Gỗ Trùng biên soạn [Lại khởi động phong trào xã hội ở Đài Loan](https://www.books.com.tw/products/0010479654), Trường Gió, 2010
+- Hề Văn Thọ, [Thế hệ sinh viên: Từ Bạch Dương đến Hoa hướng](https://www.books.com.tw/products/0010642379) (phiên bản mới hoàn toàn), Nhà xuất bản Thời gian, 2014
+- Trang web của các tổ chức phong trào và các bộ phim tài liệu liên quan

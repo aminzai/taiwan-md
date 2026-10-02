@@ -1,6 +1,6 @@
 ---
 title: 'Nhà ở xã hội và công lý nhà ở'
-description: 'Đài Loan thực hiện công lý nhà ở như thế nào thông qua chính sách nhà ở xã hội, để mỗi người đều có chỗ yên cư'
+description: 'Taiwan hiện thực hóa công lý nhà ở như thế nào nhờ chính sách nhà ở xã hội, giúp mỗi người đều có nơi an thân lập nghiệp'
 date: 2026-03-18
 category: 'Society'
 tags:
@@ -8,8 +8,8 @@ tags:
     'Nhà ở xã hội',
     'Công lý nhà ở',
     'Chính sách nhà ở',
-    'Gói cho thuê và quản lý',
-    'Cải tạo đô thị',
+    'Bao thuê quản lý',
+    'Đô thị cập nhật',
   ]
 subcategory: '人權與平等'
 author: 'Taiwan.md'
@@ -18,305 +18,279 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Society/社會住宅與居住正義.md'
-sourceCommitSha: 'b19194bea'
-sourceContentHash: 'sha256:21ee8c77270d6c3e'
-sourceBodyHash: 'sha256:bafb3fe2db142763'
-translatedAt: '2026-08-09T11:16:34+08:00'
+sourceCommitSha: '5efc41d39'
+sourceContentHash: 'sha256:0989f07af63c2d2b'
+sourceBodyHash: 'sha256:911bf6acff0d4788'
+translatedAt: '2026-10-01T23:59:56.696233+00:00'
 ---
 
-# Nhà ở xã hội và công lý nhà ở
+# Nhà ở xã hội và công bằng về nhà ở
 
-Sinh kế là nhu cầu cơ bản của con người, và cũng là trách nhiệm quan trọng của chính phủ. Kể từ năm 2016, Đài Loan triển khai chính sách "8 năm xây dựng 200.000 căn nhà ở xã hội", thông qua hai hướng song hành là xây dựng trực tiếp và gói cho thuê-quản lý, nỗ lực thực hiện "công lý nhà ở". Chính sách này cố gắng tái cấu trúc bản chất của nhà ở, để nó từ một sản phẩm hàng hóa thuần tuý trở thành bảo vệ quyền sinh kế.
+## Tóm tắt 30 giây
 
-## 30 giây nhìn tổng quát
+Nhà ở là nhu cầu cơ bản của nhân dân, cũng là trách nhiệm quan trọng của chính phủ. Đài Loan từ năm 2016 thúc đẩy chính sách "8 năm 200.000 hộ nhà ở xã hội", thông qua hai phương án song hành là trực tiếp xây dựng và thuê bao quản lý, nỗ lực thực hiện công bằng về nhà ở. Cuộc chính sách này cố gắng tái cấu trúc bản chất của nhà ở, khiến nó từ thuần túy là hàng hóa trở lại thành sự bảo障 quyền cư trú.
 
-Đến cuối năm 2024, chính sách đã hoàn thành khoảng 213.000 căn, vượt mục tiêu 200.000 căn với mức đạt được 107%, nhưng giá nhà cao và khó khăn thuê nhà vẫn không được giải quyết hoàn toàn. Vai trò và giới hạn của nhà ở xã hội vẫn là chủ đề cốt lõi của các cuộc tranh luận chính sách ở Đài Loan.
+Chính phủ vào cuối năm 2023 ước tính, đến cuối năm 2024 sẽ trực tiếp xây dựng 120.000 hộ cộng với hợp đồng thuê bao quản lý hiệu lực khoảng 94.000 hộ, tổng cộng khoảng 214.000 hộ, tỷ lệ đạt 107%. Tuy nhiên, giá nhà cao và khó khăn thuê nhà vẫn chưa được giải quyết, vai trò và hạn chế của nhà ở xã hội vẫn là chủ đề cốt lõi trong tranh luận chính sách của Đài Loan.
 
-Từ khóa: nhà ở xã hội, công lý nhà ở, gói cho thuê-quản lý, luật nhà ở, an cư thanh niên, sinh kế cho người yếu thế
+Từ khóa: nhà ở xã hội, công bằng về nhà ở, thuê bao quản lý, luật nhà ở, an cư cho thanh niên, nhà ở cho người yếu thế
 
 ## Tại sao điều này quan trọng
 
-Nhà ở là nền tảng để con người an cư lạc nghiệp, thành lập gia đình, theo đuổi ước mơ. Khi tỷ lệ giá nhà so với thu nhập cao tới 15-20 lần, nhiều thanh niên rơi vào tình trạng "mua không được, thuê không tốt", nhà ở xã hội trở thành công cụ chính sách then chốt để chính phủ ứng phó với công lý nhà ở.
+Nhà ở là nền tảng để người dân an thân lập nghiệp, xây dựng gia đình và theo đuổi ước mơ. Khi tỷ lệ giá nhà trên thu nhập tại Đài Bắc vượt quá 16 lần, nhiều người trẻ rơi vào khủng hoảng "mua không nổi, thuê không tốt", nhà ở xã hội trở thành công cụ chính sách then chốt của chính phủ để đáp ứng công lý nhà ở.
 
-Ý nghĩa của chính sách nhà ở xã hội không chỉ là xây nhà. Nó thể hiện một lựa chọn: để những người kinh tế yếu thế cũng có thể tận hưởng chất lượng sinh kế phù hợp, cung cấp cơ hội an cư cho thanh niên, và thông qua cải tạo đô thị giúp cộng đồng lao-cũ được cải thiện.
+Ý nghĩa của chính sách nhà ở xã hội không chỉ dừng lại ở việc xây dựng nhà cửa. Nó đại diện cho một lựa chọn: cho phép người yếu thế kinh tế cũng được tận hưởng chất lượng nhà ở phù hợp, tạo cơ hội an cư cho người trẻ, và thông qua tái thiết đô thị kéo theo việc cải thiện các khu dân cư cũ kỹ.
 
-Từ góc độ so sánh quốc tế, tỷ lệ nhà ở xã hội của Đài Loan vẫn còn khá thấp, nhưng sự mở rộng nhanh chóng từ năm 2016 trở đi đã giúp chủ đề này từ vị trí biên ngoài bước vào dòng chính sách chủ yếu.
+Từ góc độ so sánh quốc tế, tỷ lệ nhà ở xã hội của Đài Loan vẫn còn thấp, nhưng sự mở rộng nhanh chóng kể từ năm 2016 đã đưa vấn đề này từ rìa biên tiến vào chủ lưu chính sách.
 
-- **Công bằng xã hội**: để những người kinh tế yếu thế cũng tận hưởng chất lượng sinh kế phù hợp
-- **Công lý thế hệ**: cung cấp cơ hội an cư cho thanh niên, không cần gánh nặng nợ mua nhà
-- **Phát triển đô thị**: dẫn dắt tái sinh đô thị, cải thiện môi trường cộng đồng lao-cũ
-- **Hòa hợp xã hội**: giảm thiểu xung đột xã hội từ những vấn đề sinh kế
+- **Công bằng xã hội**: Cho phép người yếu thế kinh tế cũng được tận hưởng chất lượng nhà ở phù hợp
+- **Công lý thế hệ**: Tạo cơ hội an cư cho người trẻ, không phải gánh vác nợ vay mua nhà nặng nề
+- **Phát triển đô thị**: Dẫn dắt tái sinh đô thị, cải thiện môi trường khu dân cư cũ kỹ
+- **Hòa hợp xã hội**: Giảm thiểu đối đầu xã hội do vấn đề nhà ở gây ra
 
-## Tình hình vấn đề nhà ở ở Đài Loan
+## Thực trạng vấn đề nhà ở tại Đài Loan
 
-### Khó khăn sinh kế trong thời đại giá nhà cao
+### Khó khăn về nhà ở trong thời đại giá nhà cao
 
-Tỷ lệ giá nhà so với thu nhập tại thành phố Đài Bắc khoảng 15-16 lần (dữ liệu năm 2024), Tân Bắc khoảng 12-13 lần, Đào Viên khoảng 9-10 lần, vượt xa mức chuẩn hợp lý theo quốc tế là 5-6 lần.[^4] Một gia đình bình thường cần 10-15 năm không ăn không uống mới có thể mua được nhà, nhiều thanh niên bị buộc phải chuyển sang thị trường thuê nhà.
+Theo thống kê Quý 4 năm 2024 của Bộ Nội vụ, tỷ lệ giá nhà trên thu nhập tại Đài Bắc là 16,43 lần, Tân Bắc 14,08 lần, Đào Viên 9,22 lần, toàn quốc 10,76 lần[^4]. Nói cách khác, một gia đình bình thường tại Đài Bắc phải không ăn không uống hơn mười sáu năm mới mua được nhà, nhiều người trẻ bị ép buộc chuyển sang thị trường thuê nhà.
 
-Nhưng thị trường thuê nhà cũng gặp phải nhiều vấn đề: tỷ lệ thị trường ngầm cao, chủ nhà phổ biến không khai báo thuế, giá thuê không minh bạch, hợp đồng ngắn hạn phổ biến, quyền lợi của người thuê thiếu bảo vệ hiệu quả. Hai khó khăn này chồng chập làm cho vấn đề sinh kế trở thành một trong những chủ đề chính sách cấp bách nhất của xã hội Đài Loan.
+Nhưng thị trường thuê nhà cũng đầy rẫy vấn đề: tỷ lệ thuê nhà "đen" cao, chủ nhà phổ biến không khai thuế, giá thuê không minh bạch, hợp đồng thuê ngắn hạn phổ biến, quyền lợi người thuê thiếu bảo vệ hiệu quả. Hai khổ cảnh này chồng chéo lên nhau, khiến vấn đề nhà ở trở thành một trong những đề tài chính sách cấp bách nhất của xã hội Đài Loan.
 
-**Nhu cầu sinh kế của các nhóm đặc thù**
+**Nhu cầu nhà ở của các nhóm đối tượng đặc biệt**
 
-- **Thanh niên**: lương không bắt kịp giá nhà, mua nhà là điều không tưởng
-- **Gia đình một bác cha mẹ**: gánh nặng kinh tế lớn, lựa chọn thuê nhà hạn chế
-- **Người cao tuổi**: thu nhập cố định giảm, đối mặt với rủi ro sinh kế
-- **Người khuyết tật**: cần môi trường vô chướng ngại, lựa chọn lại càng ít
+- **Nhóm thanh niên**: Lương không kịp giá nhà, mua nhà xa vời
+- **Gia đình đơn thân**: Gánh nặng kinh tế lớn, lựa chọn thuê nhà hạn chế
+- **Người cao tuổi**: Thu nhập cố định giảm, đối mặt rủi ro nhà ở
+- **Người khuyết tật**: Cần môi trường vô chướng ngại, lựa chọn càng thêm hiếm hoi
 
-### Bối cảnh tiến hóa chính sách
+### Bối cảnh diễn biến chính sách
 
-**Chính sách nhà ở giai đoạn sớm (1950-2010)**
+**Chính sách nhà ở giai đoạn đầu (1950-2010)**
 
-Chính sách nhà ở giai đoạn sớm của Đài Loan chủ yếu tập trung vào "khuyến khích mua nhà":
+Chính sách nhà ở giai đoạn đầu của Đài Loan lấy "khuyến khích mua nhà" làm chủ đạo:
 
-- Chính sách nhà ở công dân: xây dựng nhà ở công dân, bán với giá ưu đãi
-- Vay mua nhà ưu đãi: hỗ trợ mua nhà thông qua chính sách tài chính
-- Miễn thuế mua lại, ưu đãi lần đầu: khuyến khích mua nhà bằng ưu đãi thuế
-- Vấn đề: người hưởng lợi chủ yếu là giai cấp trung lưu, những người yếu thế có lợi ích hạn chế
+- Chính sách nhà ở quốc gia: Xây dựng nhà ở quốc dân, bán với giá ưu đãi
+- Vay ưu đãi mua nhà: Hỗ trợ mua nhà qua chính sách tài chính
+- Hoàn thuế mua lại, ưu đãi mua đầu: Ưu đãi thuế khuyến khích mua nhà
+- Vấn đề: Đối tượng thụ hưởng chính là tầng lớp trung lưu, nhóm yếu thế thụ hưởng hạn chế
 
-**Soạn thảo Luật nhà ở (2011-2016)**
+**Việc ban hành Luật Nhà ở (2011-2016)**
 
-Năm 2011 soạn thảo Luật nhà ở, thiết lập hướng chính sách nhà ở mới:[^3]
+Năm 2011 ban hành «Luật Nhà ở», xác lập hướng mới cho chính sách nhà ở:[^3]
 
-- Liệt kê "quyền nhà ở" như một quyền con người cơ bản
-- Thiết lập cơ sở pháp lý cho nhà ở xã hội
-- Thúc đẩy chế độ bổ trợ tiền thuê nhà
-- Nhưng nỗ lực thực thi không đủ, xây dựng nhà ở xã hội chậm
+- Nhằm mục đích lập pháp là để toàn thể quốc dân được ở trong nhà ở thích hợp, hưởng môi trường nhà ở có phẩm giá
+- Xây dựng cơ sở pháp lý cho nhà ở xã hội
+- Thúc đẩy chế độ trợ cấp tiền thuê
+- Nhưng lực độ thi hành không đủ, xây dựng nhà ở xã hội chậm chạp
 
 ## Nội dung chính sách nhà ở xã hội
 
-### Kế hoạch "8 năm, 200.000 căn"
+### Kế hoạch 8 năm 200.000 hộ
 
-Sau khi chính quyền mới lên nắm quyền năm 2016, đưa ra chính sách "8 năm xây dựng 200.000 căn nhà ở xã hội":[^2]
+Sau khi chính phủ mới nhậm chức năm 2016, đã đề xuất chính sách 「8 năm 200.000 hộ nhà ở xã hội」：[^2]
 
 **Mục tiêu chính sách**
 
-- Giai đoạn 2017-2024 xây dựng 200.000 căn nhà ở xã hội
-- Xây dựng trực tiếp 1.200.000 căn
-- Gói cho thuê-quản lý 800.000 căn
-- Tổng vốn đầu tư khoảng 4.400 tỷ Đài tệ mới
+- Xây dựng 200.000 hộ nhà ở xã hội trong giai đoạn 2017-2024
+- Trực tiếp xây dựng 120.000 hộ
+- Thuê bao và quản lý hộ 80.000 hộ
 
 **Chiến lược thực hiện**
 
-1. **Hợp tác trung ương-địa phương**: Trung tâm Quốc gia về nhà ở và cải tạo đô thị phối hợp lập kế hoạch
-2. **Nguồn đất đa dạng**: đất công, phân chia từ cải tạo đô thị, tặng cho v.v.
-3. **Cơ chế tài chính sáng tạo**: quỹ nhà ở, ngân sách đặc biệt từ dự án cơ sở hạ tầng phía trước
-4. **Thực hiện bởi đội ngũ chuyên nghiệp**: thành lập các cơ quan chuyên trách, nâng cao hiệu suất thực hiện
+1. **Hợp tác trung ương - địa phương**: Trung tâm Nhà ở Quốc gia và Cập nhật Đô thị (Trung tâm Quốc gia Nhà ở - Đô thị) thống nhất quy hoạch
+2. **Nguồn đất đa dạng**: Đất nhà nước, phân hồi từ cập nhật đô thị, quyên góp, v.v.
+3. **Cơ chế tài chính đổi mới**: Quỹ nhà ở, ngân sách đặc biệt xây dựng cơ sở hạ tầng tiền phong
+4. **Đội ngũ chuyên nghiệp thực hiện**: Thành lập cơ quan chuyên trách, nâng cao hiệu quả thực hiện
 
-### Mô hình hai hướng song hành
+### Mô hình song song hai lộ trình
 
-**Hướng một: Xây dựng trực tiếp**
+**Lộ trình một: Trực tiếp xây dựng**
+Chính phủ trực tiếp xây dựng, nắm giữ, quản lý nhà ở xã hội：
 
-Chính phủ trực tiếp xây dựng, sở hữu, quản lý nhà ở xã hội:
+- Mục tiêu xây dựng: 120.000 hộ
+- Nguồn vốn: Quỹ nhà ở, ngân sách đặc biệt
+- Cách quản lý: Chính phủ tự vận hành hoặc ủy thác quản lý dân sự
+- Đặc điểm: Kiểm soát chất lượng tốt hơn, có thể quy hoạch đầy đủ chức năng cộng đồng
 
-- Mục tiêu xây dựng: 1.200.000 căn
-- Nguồn tài chính: quỹ nhà ở, ngân sách đặc biệt
-- Cách quản lý: do chính phủ vận hành trực tiếp hoặc giao cho bộ phận tư nhân quản lý
-- Đặc trưng: kiểm soát chất lượng tốt hơn, có thể lập kế hoạch các chức năng cộng đồng hoàn chỉnh
+**Lộ trình hai: Thuê bao và quản lý hộ**
+Chính phủ hợp tác với chủ nhà dân sự, trung gian cho người thuê yếu thế：
 
-**Hướng hai: Gói cho thuê-quản lý**
-
-Chính phủ hợp tác với chủ nhà tư nhân, kết nối những người yếu thế muốn thuê:
-
-- Mục tiêu số căn: 800.000 căn
-- Cách vận hành:
-  - **Cho thuê**: chính phủ thuê nhà từ chủ nhà tư nhân, sau đó cho thuê lại cho người yếu thế
-  - **Quản lý**: hỗ trợ chủ nhà cho thuê, cung cấp dịch vụ quản lý
-- Ưu điểm: kích hoạt nhà bị bỏ không, nhanh chóng tăng cung cấp nhà ở xã hội
+- Mục tiêu số hộ: 80.000 hộ
+- Mô hình vận hành：
+  - **Thuê bao**: Chính phủ thuê nhà dân sự, lại chuyển thuê cho người yếu thế
+  - **Quản lý hộ**: Hỗ trợ chủ nhà cho thuê, cung cấp dịch vụ quản lý
+- Ưu điểm: Khơi động nhà ở閒置, nhanh chóng tăng cung cấp nhà ở xã hội
 
 ### Thống kê kết quả thực hiện
 
-**Thống kê tính đến cuối năm 2024**
+**Tiêu chí thống kê chính sách**
 
-- Đến năm 2024 đã hoàn thành khoảng 213.000 căn, vượt mục tiêu 200.000 căn, mức đạt được 107%[^1]
-
-**Phân bố địa bàn**
-
-- Sáu thành phố trực thuộc trung ương chiếm khoảng 75%, chủ yếu ở song Bắc, Đào Viên, Đài Trung
-- Tân Bắc: 32.000 căn (nhiều nhất)
-- Đài Bắc: 28.000 căn
-- Đào Viên: 21.000 căn
-- Đài Trung: 19.000 căn
+- Chính phủ dự tính vào tháng 12 năm 2023 rằng đến cuối năm 2024 sẽ trực tiếp xây dựng 120.000 hộ, thuê bao quản lý hợp đồng hiệu lực 93.980 hộ, tổng cộng 213.980 hộ, tỷ lệ đạt 107%[^1]
+- 「Đạt mục tiêu」 là tiêu chí thống kê chính sách, phần trực tiếp xây dựng bao gồm đang xây dựng và đã trúng thầu chờ khai công. Theo thống kê Bộ Nội vụ, tính đến cuối tháng 8 năm 2026, trong số đạt mục tiêu trực tiếp xây dựng có đã hoàn công 47.111 hộ, đang xây dựng 65.202 hộ, đã trúng thầu chờ khai công 15.380 hộ[^5], đã hoàn công nghĩa là nhà ở xã hội mới xây đã cấp giấy phép sử dụng
 
 ## Triết lý thiết kế nhà ở xã hội
 
-Triết lý thiết kế nhà ở xã hội Đài Loan xuất phát từ "sinh kế hỗn hợp", cố tình tránh lặp lại vấn đề tập trung nghèo đó từng thấy ở các nhà ở công cộng Hồng Kông hoặc nhà ở xã hội Mỹ, để cho những người từ nền tảng khác nhau sống chung.
+Triết lý thiết kế nhà ở xã hội của Đài Loan xuất phát từ nguyên tắc "xã hội hòa nhập", cố ý tránh lặp lại vấn đề tập trung nghèo đói của công trình công cộng Hong Kong hoặc nhà ở xã hội Mỹ, để người thuê từ các bối cảnh khác nhau cùng sống chung.
 
-### Nguyên tắc sinh kế hỗn hợp
+### Nguyên tắc xã hội hòa nhập
 
-Gia đình yếu thế được bảo đảm chiếm 30% tỷ lệ cư trú, gia đình bình thường (thanh niên, vừa cưới, nuôi con ưu tiên) chiếm 70%, thông qua xổ số định kỳ để bảo đảm công bằng. Luật nhà ở định nghĩa phạm vi nhóm yếu thế rộng, bao phủ hộ gia đình thu nhập thấp, gia đình gặp khó khăn đặc biệt, gia đình nuôi ba con chưa thành niên trở lên, người cao tuổi, nạn nhân bạo lực gia đình, người khuyết tật, dân tộc bản địa, người bị thảm họa v.v.
+Theo quy định Điều 4 Luật Nhà ở hiện hành, nhà ở xã hội phải cho thuê ít nhất 40% cho đối tượng yếu thế về kinh tế hoặc xã hội, ít nhất 20% cho gia đình vừa kết hôn trong vòng hai năm hoặc có con chưa thành niên[^3]. Phạm vi đối tượng yếu thế rất rộng, bao gồm hộ nghèo, gia đình hoàn cảnh đặc biệt, gia đình nuôi hai con chưa thành niên trở lên, người cao tuổi, nạn nhân bạo lực gia đình, người khuyết tật, người bản địa, nạn nhân thiên tai và các nhóm khác.
 
 **Phạm vi nhóm yếu thế**
 
-Theo Luật nhà ở định nghĩa bao gồm:
+Theo định nghĩa của Luật Nhà ở bao gồm:
 
-- Hộ gia đình thu nhập thấp và hộ gia đình thu nhập thấp trung bình
-- Gia đình gặp khó khăn đặc biệt
-- Gia đình nuôi ba con chưa thành niên trở lên
-- Những người kết thúc trong cơ sở nuôi dạy hoặc gia đình nuôi và không thể quay về nhà
-- Người cao tuổi sáu mươi lăm tuổi trở lên
-- Nạn nhân của bạo lực gia đình hoặc xâm hại tình dục và con em của họ
-- Người khuyết tật
-- Người nhiễm HIV hoặc bị hội chứng suy miễn dịch mắc phải
-- Dân tộc bản địa
-- Nạn nhân thảm họa
-- Người vô gia cư
-- Những trường hợp khác được cơ quan quản lý công nhận
+- Hộ thu nhập thấp và hộ thu nhập trung bình khá thấp
+- Gia đình hoàn cảnh đặc biệt
+- Gia đình nuôi từ hai con chưa thành niên trở lên
+- Người dưới 25 tuổi kết thúc an đặt tại cơ sở dưỡng dục hoặc gia đình nuôi dưỡng mà không thể về nhà
+- Người cao tuổi 65 tuổi trở lên
+- Nạn nhân bạo lực gia đình hoặc xâm hại tình dục và con cái của họ
+- Người khuyết tật thể chất và tinh thần
+- Người nhiễm virus HIV hoặc mắc hội chứng AIDS
+- Người bản địa
+- Nạn nhân thiên tai
+- Người lang thang
+- Người chưa thành niên gặp khó khăn do mang thai hoặc sinh con
+- Người khác được cơ quan chủ quản xác định
 
-### Lập kế hoạch cơ sở vật chất cộng đồng
+### Kế hoạch thiết bị cộng đồng
 
-**Cơ sở vật chất cần thiết**
+**Thiết bị bắt buộc**
 
-- Môi trường vô chướng ngại: dốc vô chướng ngại, thang máy, thiết kế kiểu phòng
-- Nhà trẻ: ưu tiên xây dựng nhà trẻ hoạt động không vì lợi nhuận
-- Tư vấn chăm sóc người cao tuổi: trung tâm chăm sóc ban ngày, điểm quan tâm
-- Không gian hoạt động cộng đồng: tòa nhà hội họp, phòng đọc
-- Cơ sở hàng hoá: cửa tiện lợi, giặt là v.v.
+- Môi trường vô chướng ngại: dốc vô chướng ngại, thang máy, thiết kế mẫu nhà
+- Mầm non: ưu tiên thiết lập mầm non phi lợi nhuận
+- Điểm dịch vụ chăm sóc dài hạn: trung tâm ban ngày, điểm chăm sóc
+- Không gian hoạt động cộng đồng: nhà hội, phòng đọc
+- Thiết bị thương mại: tiện lợi store, tiệm giặt ủi và các dịch vụ tiện dân
 
-**Thiết kế sáng tạo**
+**Thiết kế đổi mới**
 
-Trong những năm gần đây, nhà ở xã hội Đài Loan tiếp tục thử nghiệm các cơ sở vật chất sáng tạo. Không gian khởi nghiệp thanh niên cung cấp phòng làm việc khởi nghiệp cho thanh niên, bếp chia sẻ thúc đẩy giao lưu cư dân. Vườn mái nhà kết hợp nông nghiệp đô thị và giáo dục môi trường, trung tâm tái chế rác thải thúc đẩy ý tưởng kinh tế tuần hoàn, một số dự án mới hơn còn triển khai thiết bị IoT để xây dựng nền tảng quản lý cộng đồng thông minh.
+Gần năm, nhà ở xã hội liên tục thử nghiệm các thiết bị đổi mới. Không gian khởi nghiệp thanh niên cung cấp studio khởi nghiệp cho giới trẻ, nhà bếp chung thúc đẩy giao lưu tương tác giữa cư dân. Vườn trên mái nhà kết hợp nông nghiệp đô thị với giáo dục môi trường, trung tâm tái chế tài nguyên thúc đẩy lý niệm kinh tế tuần hoàn, một số dự án mới hơn còn dẫn nhập thiết bị IoT xây dựng nền tảng quản lý cộng đồng thông minh.
 
-### Nguyên tắc gánh nặng tiền thuê nhà
+### Nguyên tắc gánh vác tiền thuê
 
-**Nguyên tắc 85% giá thị trường**
+Tiền thuê nhà ở xã hội không được cao hơn giá thị trường, sau đó thu theo cấp độ dựa trên thu nhập và thân phận của người thuê. Nguyên tắc phân cấp của Bộ Nội vụ là cấu trúc cơ bản tiền thuê từ 3 đến 8 phần mười giá thuê thị trường, một số khu vực tại Song Bắc do giá cao hơn nên điều giảm thêm tỷ lệ. Chính quyền địa phương có thể áp dụng thu theo thu nhập hoặc theo thân phận, nhưng không được cao hơn tiêu chuẩn do trung ương quy định[^6].
 
-- Đặt giá thuê ở mức 85% so với giá thị trường xung quanh
-- Tránh bổ trợ quá mức gây méo giá thị trường
-- Bảo đảm khả năng gánh nặng của gia đình bình thường
+## Các dự án nhà ở xã hội tiêu biểu
 
-**Chế độ bổ trợ phân cấp**
+Các dự án nhà ở xã hội của Đài Loan thể hiện những thử nghiệm khác nhau từ triết lý thiết kế đến xây dựng cộng đồng, không ít dự án mới tích hợp mầm non, điểm chăm sóc dài hạn, không gian khởi nghiệp thanh niên và các công cộng thiết bị khác vào nhà ở xã hội, hình thành圈 sống cộng đồng đa chức năng. Tư duy quy hoạch "nhà ở xã hội tức là cộng đồng" này cũng dần ảnh hưởng hướng thiết kế của các dự án mới sau này.
 
-- Cấp một (thu nhập cực thấp): tiền thuê giảm 30%
-- Cấp hai (hộ gia đình thu nhập thấp): tiền thuê giảm 50%
-- Cấp ba (hộ gia đình thu nhập thấp trung bình): tiền thuê giảm 70%
-- Cấp bốn (hộ gia đình bình thường): giá thị trường 85%
+### Nhà ở công cộng Sức khỏe Đài Bắc
 
-## Những trường hợp nhà ở xã hội quan trọng
+Nhà ở công cộng Sức khỏe Đài Bắc tọa lạc tại đường Sức khỏe, quận Song Sơn, tổng cộng 507 hộ, tầng thấp thiết lập trung tâm dịch vụ người cao tuổi, trung tâm chăm sóc ban ngày người cao tuổi và nhà trẻ[^7].
 
-Các trường hợp nhà ở xã hội Đài Loan thể hiện những cố gắng khác nhau từ ý tưởng thiết kế đến tổ chức xây dựng cộng đồng, một số dự án tiêu biểu đã trở thành tiêu chuẩn tham khảo của chính sách toàn quốc. Nhà ở công lập Sức khỏe Đài Bắc (hoàn thành năm 2017), nhà ở xã hội thanh niên Trung Hoà Tân Bắc (năm 2019), nhà ở xã hội Bát Đức Đào Viên (năm 2020) ba trường hợp này lần lượt đại diện cho quy mô và định hướng thiết kế khác nhau.
+## Chính sách bao thuê đại quản
 
-Điểm chung của ba trường hợp, là vượt ra ngoài chức năng nhà ở thuần tuý, tích hợp nhà trẻ, tư vấn chăm sóc người cao tuổi, không gian khởi nghiệp thanh niên v.v. các cơ sở vật chất công cộng vào nhà ở xã hội, hình thành vòng tròn cuộc sống cộng đồng kiểu phức tạp. Tư duy lập kế hoạch kiểu "nhà ở xã hội chính là cộng đồng" này, cũng dần ảnh hưởng đến định hướng thiết kế những dự án mới sau đó.
+Bao thuê đại quản là 궤 đạo thứ hai của chính sách nhà ở xã hội Đài Loan, thông qua sự can thiệp của chính phủ vào thị trường cho thuê nhà dân间, nhanh chóng tăng cung cấp nhà ở xã hội, đồng thời kích hoạt nguồn nhà ở閒置. Hành chính viện vào tháng 8 năm 2023 ước tính, cuối năm đó các hợp đồng bao thuê đại quản thực tế có hiệu lực khoảng 68.000 hộ[^8].
 
-### Nhà ở công lập Sức khỏe thành phố Đài Bắc
+### Mô hình vận hành
 
-Nhà ở công lập Sức khỏe thành phố Đài Bắc nằm ở quận Trung Sơn, hoàn thành năm 2017, tổng cộng 14.000 căn, là nhà ở xã hội kiểu lớn đầu tiên của thành phố Đài Bắc. Vỏ tòa nhà sử dụng thiết kế xanh thẳng đứng để cải thiện hiệu ứng đảo nhiệt đô thị, bên trong có nhà trẻ hoạt động không vì lợi nhuận, trung tâm chăm sóc ban ngày cho người cao tuổi, cũng như không gian khởi nghiệp thanh niên "Cơ sở sáng tạo an lạc và sức khỏe", và triển khai hệ thống đỗ xe thông minh với ứng dụng cộng đồng quản lý.
+**Mô hình bao thuê**
+Chính phủ thông qua các đơn vị chuyên nghiệp thuê nhà dân间, rồi chuyển thuê lại cho các gia đình yếu thế:
 
-Ý nghĩa xã hội quan trọng nhất của trường hợp này, là thay đổi quan niệm của nhiều người dân rằng nhà ở xã hội tương đương với "ổ chuột", cũng kích hoạt sự sôi động thương mại xung quanh, trở thành tiêu chuẩn tham khảo lập kế hoạch nhà ở xã hội của các tỉnh thành khác.
+- Thời hạn thuê: Doanh nghiệp ký hợp đồng bao thuê 3 năm với chủ nhà, sau đó với tư cách chủ nhà thứ hai ký hợp đồng chuyển thuê tối thiểu 1 năm với người thuê
+- Tiền thuê: Tiền thuê ký kết bao thuê không được vượt quá 80% tiền thuê thị trường, tiền thuê chuyển thuê cho người thuê không được cao hơn tiền thuê bao thuê, người thuê có thể thêm theo thân phận xin trợ cấp tiền thuê[^9]
 
-### Nhà ở xã hội thanh niên Trung Hoà thành phố Tân Bắc
+**Mô hình đại quản**
 
-Nhà ở xã hội thanh niên Trung Hoà thành phố Tân Bắc hoàn thành năm 2019, tổng cộng 522 căn, đặc trưng lớn nhất là kết hợp cải tạo đô thị với nhà ở xã hội. Trong một tòa nhà gộp chứa nhà ở xã hội, trung tâm thương mại và không gian văn phòng, có tổ chức chăm sóc người cao tuổi kiểu cộng đồng, vườn mái nhà và hệ thống tái chế nước mưa, đạt được chứng chỉ xanh kiểu kim cương. Trên mặt quản lý cộng đồng, cư dân tự tổ chức "nhóm tham gia thanh niên", thường xuyên tổ chức các hoạt động lễ hội cộng đồng, khảo sát mức độ hài lòng của cư dân đạt trên 85%, là một trong những trường hợp thành công của lập kế hoạch tổ chức xây dựng cộng đồng nhà ở xã hội Đài Loan.
+Chính phủ phối hợp chủ nhà và người thuê, đơn vị chuyên nghiệp chịu trách nhiệm lọc người thuê, thu tiền thuê và liên hệ sửa chữa, tiền thuê ký kết giữa chủ nhà và người thuê không được vượt quá 90% tiền thuê thị trường[^9]. Chính phủ cung cấp trợ cấp chi phí sửa chữa (tối đa 10.000 NTD mỗi hộ mỗi năm, dài nhất 3 năm), giảm thuế nhà và thuế đất, thay mặt mua bảo hiểm an toàn gia đình, và cung cấp điều giải tranh chấp cùng tư vấn pháp lý, để giảm rủi ro cho thuê của chủ nhà.
 
-### Nhà ở xã hội Bát Đức Đào Viên
+### Cơ chế thực thi và thành quả
 
-Nhà ở xã hội Bát Đức Đào Viên hoàn thành năm 2020, tổng cộng 10.030 căn, là dự án nhà ở xã hội kích thước lớn nhất khu vực toàn Đài. Vị trí đất liền kề xây dựng giao thông đường nhẹ, có 300 chỗ đỗ xe máy và 50 chỗ đỗ xe hơi, cơ sở hàng hoá đưa các thương hiệu nổi tiếng như liên hệ toàn cầu, sao bắc v.v., cơ sở vật chất cộng đồng gồm nhà trẻ, trung tâm chăm sóc người cao tuổi và trung tâm hoạt động. Trên mặt quản lý sử dụng hệ thống cửa ra vào nhận dạng khuôn mặt AI và tích hợp ứng dụng cộng đồng các dịch vụ khác nhau, cũng xây dựng chế độ tình nguyện viên cộng đồng, là một trong những trường hợp có mức độ thông minh hoá cao nhất trong nhà ở xã hội Đài Loan.
-
-## Chính sách gói cho thuê-quản lý
-
-Gói cho thuê-quản lý là con đường thứ hai của chính sách nhà ở xã hội Đài Loan, thông qua sự can thiệp của chính phủ vào thị trường thuê nhà dân sự, nhanh chóng tăng cung cấp nhà ở xã hội, đồng thời kích hoạt nguồn lực nhà bị bỏ không. Tính đến cuối năm 2024, đã kết nối khoảng 68.000 căn, gia đình yếu thế được hưởng lợi khoảng 27.000 hộ.
-
-### Cách vận hành
-
-**Cách vận hành cho thuê**
-
-Chính phủ thông qua các nhà cung cấp dịch vụ chuyên nghiệp thuê nhà từ chủ nhà dân sự, sau đó cho thuê lại cho gia đình yếu thế:
-
-- Kỳ hạn: 3 năm, tối đa có thể kéo dài tới 6 năm
-- Giá chính phủ thuê: giá thị trường 80-90%
-- Giá cho thuê lại: giá thị trường 60-70%
-- Chính phủ gánh chịu rủi ro trống không
-
-**Cách vận hành quản lý**
-
-Chính phủ kết nối chủ nhà với người thuê, nhà cung cấp dịch vụ chuyên nghiệp chịu trách nhiệm sàng lọc người thuê, thu thuê và liên lạc sửa chữa. Chính phủ cung cấp bổ trợ sửa chữa (tối đa 1-3 vạn đồng một căn), miễn thuế bất động sản và tiền đất, đại diện mua bảo hiểm an toàn nhà ở, cũng như cung cấp giải quyết tranh chấp và tư vấn pháp lý, để giảm thiểu rủi ro cho chủ nhà.
-
-### Cơ chế thực hiện và kết quả
-
-Hiện tại khoảng 200 đơn vị doanh nghiệp tham gia, bao trùm doanh nghiệp dịch vụ nhà ở, doanh nghiệp trung gian bất động sản và doanh nghiệp quản lý bất động sản. Tính đến cuối năm 2024, gói cho thuê-quản lý đã kết nối khoảng 68.000 căn, chủ nhà tham gia khoảng 55.000 người, gia đình yếu thế được hưởng lợi khoảng 27.000 hộ, thúc đẩy vốn đầu tư nhà ở dân sự khoảng 1.200 tỷ Đài tệ mới.
-
-Thách thức chính bao gồm: một số chủ nhà do lo sợ chất lượng người thuê mà không sẵn sàng tham gia, nguồn nhà tập trung ở khu vực đô thị, gia đình cực yếu thế vẫn còn gánh nặng tiền thuê hiện tại, cũng như khác biệt chất lượng dịch vụ giữa các nhà cung cấp khác nhau v.v. những vấn đề.
+Các thách thức chính bao gồm: một số chủ nhà do lo ngại chất lượng người thuê mà không muốn tham gia, nguồn nhà tập trung ở khu vực đô thị, các gia đình cực kỳ yếu thế vẫn gánh nặng trước mức tiền thuê hiện hành, cũng như sự chênh lệch lớn về chất lượng dịch vụ giữa các đơn vị khác nhau.
 
 ## Hiệu quả chính sách và tác động xã hội
 
 ### Phân tích hiệu quả định lượng
 
-Trên mặt cung cấp, chính sách nhà ở xã hội tăng cung cấp thị trường thuê nhà khoảng 200.000 căn, mức độ tăng tiền thuê thị trường có xu hướng yên ổn, độ minh bạch thị trường thuê nhà cũng tăng lên theo thúc đẩy của chế độ gói cho thuê-quản lý. Trên mặt nhu cầu, chính sách ước tính giải quyết vấn đề sinh kế khoảng 400.000-500.000 người, tính ổn định sinh kế nhóm yếu thế tăng lên, tỷ lệ an cư thanh niên cũng có cải thiện nào đó. Mặt công nghiệp hiệu quả liên động cũng rõ ràng: sinh ra ngành dịch vụ nhà ở, thúc đẩy phát triển công nghiệp xây dựng và sửa chữa, tạo ra cơ hội việc làm khoảng 30.000-40.000 chỗ.
+Hiệu quả định lượng của chính sách nhà ở xã hội, hiện thiếu đánh giá tổng thể chính thức có thể kiểm chứng. Có thể khẳng định là, trực tiếp xây dựng và bao thuê đại quản đã tăng cung cấp nhà cho thuê có thể gánh vân được, cũng khiến nhiều nhà cho thuê dân间 hơn vào được các kênh có hợp đồng.
 
 ### Đánh giá tác động xã hội
 
-**Thực hiện công lý nhà ở**
+**Thực hiện công lý về nhà ở**
 
-Chất lượng không gian nhà ở xã hội mới xây phổ biến tốt hơn thị trường thuê nhà bình thường, lập kế hoạch cơ sở vật chất cộng đồng hoàn chỉnh, mức giá thuê nhà tương đối hợp lý với thị trường, cũng cung cấp bảo đảm sinh kế lâu dài hơn. Đối với các nhóm từng ở vị trí yếu thế lâu dài trong thị trường thuê nhà, đây là sự cải thiện cụ thể có thể cảm nhận.
+Chất lượng không gian nhà ở xã hội mới xây phổ biến優於 nhà cho thuê thông thường, quy hoạch thiết bị cộng đồng hoàn chỉnh, mức tiền thuê so với thị trường dễ gánh vân hơn, cũng cung cấp bảo障居住 lâu dài hơn. Đối với các nhóm dân cư lâu dài ở thế yếu trong thị trường cho thuê nhà, đây là sự cải thiện cụ thể và cảm nhận được.
 
-**Hòa hợp xã hội và phát triển đô thị**
+**Hòa nhập xã hội và phát triển đô thị**
 
-Thiết kế sinh kế hỗn hợp để người yếu thế và gia đình bình thường sống chung, tránh tập trung hoá vùng nghèo. Một số trường hợp nhà ở xã hội cũng thúc đẩy sự sôi động thương mại xung quanh, trở thành xúc tác tái sinh đô thị của các cộng đồng lao-cũ, cải thiện chất lượng môi trường cộng đồng tổng thể.
+Thiết kế chung cư hỗn hợp cho phép yếu thế và gia đình bình thường sống cùng nhau, tránh tập trung khu vực nghèo. Một số dự án nhà ở xã hội cũng kéo động phát triển khu thương mại xung quanh, trở thành chất xúc tác tái sinh đô thị cho cộng đồng cũ kỹ, cải thiện chất lượng môi trường cộng đồng tổng thể.
 
 ## So sánh kinh nghiệm quốc tế
 
-### Chế độ tập hợp nhân khẩu Tân Gia Ba
+### Chế độ nhà ở công cộng (HDB) của Singapore
 
-Tân Gia Ba nổi tiếng với chế độ nhà ở tập hợp nhân khẩu do chính phủ dẫn dắt, xây dựng quy mô lớn, khoảng 85% dân số sống trong nhà ở tập hợp nhân khẩu. Chế độ hạn ngạch chủng tộc thúc đẩy hòa hợp dân tộc, kết hợp với chế độ tiền lương khuyến khích mua nhà để sinh sản. Đài Loan có thể học hỏi từ nỗ lực thực hiện chính sách ổn định lâu dài và ý tưởng lập kế hoạch cộng đồng hoàn chỉnh của nó, nhưng Đài Loan nhấn mạnh cho thuê hơn là mua, chiều hướng tổng thể có khác biệt nào đó.
+Singapore nổi tiếng với việc chính phủ chủ đạo, xây dựng quy mô lớn nhà ở công cộng, khoảng 76% cư dân Singapore (công dân và thường trú vĩnh viễn) sống trong nhà ở công cộng[^10]. Chế độ định suất theo chủng tộc thúc đẩy hòa nhập các nhóm dân tộc, kết hợp với chế độ hưu trí khuyến khích mua nhà đặt sản. Đài Loan có thể tham khảo lực thực thi chính sách ổn định lâu dài và tư duy quy hoạch cộng đồng hoàn chỉnh của họ, nhưng Đài Loan nhấn mạnh hơn vào thuê nhà chứ không phải mua nhà, hướng đi tổng thể có sự khác biệt.
 
-### Nhà ở xã hội Hà Lan
+### Nhà ở xã hội của Hà Lan
 
-Nhà ở xã hội Hà Lan chiếm khoảng 34% tổng nhà ở toàn quốc (thống kê năm 2023), do các hội thảo nhà ở hoạt động không vì lợi nhuận xây dựng quản lý, cũng áp dụng chế độ phân cấp theo thu nhập để bảo đảm phân phối công bằng. Sự chú trọng của Hà Lan tới chất lượng thiết kế kiến trúc và môi trường bền vững, cung cấp tham khảo cho Đài Loan trong định hướng chất lượng.
+Các hiệp hội nhà ở của Hà Lan nắm giữ khoảng 2,3 triệu hộ nhà ở, chiếm khoảng 28% tổng số nhà ở cả nước (đầu năm 2024, Cục Thống kê Hà Lan)[^11], do các hiệp hội nhà ở phi lợi nhuận xây dựng quản lý, và thông qua chế độ phân cấp thu nhập đảm bảo phân bổ công bằng. Sự chú trọng của Hà Lan vào chất lượng thiết kế kiến trúc và môi trường bền vững, cung cấp tham khảo cho Đài Loan về định hướng chất lượng.
 
-### Nhà ở công cộng Hồng Kông
+### Nhà ở công cộng của Hồng Kông
 
-Khoảng 45% dân số Hồng Kông sống trong nhà ở công cộng, chia thành hai kiểu là nhà ở công cộng cho thuê và nhà ở để bán. Đài Loan có ý thức tách biệt với mô hình Hồng Kông: nhấn mạnh hơn sinh kế hỗn hợp, tránh phát triển lớn tập trung, đồng thời chú trọng lập kế hoạch cơ sở vật chất cộng đồng hoàn chỉnh, để ngăn chặn "tập trung hoá vùng nghèo".
+Khoảng 45% dân số Hồng Kông sinh sống trong nhà ở công cộng, chia thành hai loại: nhà cho thuê công cộng (公屋) và nhà ở tự chọn (居屋). Đài Loan có ý thức phân biệt với mô hình Hồng Kông: nhấn mạnh hơn vào xã hội hòa nhập, tránh phát triển tập trung quy mô lớn, đồng thời chú trọng cơ sở thiết施 cộng đồng hoàn chỉnh, để ngăn chặn "tập trung hóa nghèo đói".
 
-## Thách thức và hướng phát triển tương lai
+## Thách thức và phát triển trong tương lai
 
 ### Thách thức chính
 
-Chính sách nhà ở xã hội đối mặt với bốn thách thức cấu trúc chính. Lấy đất là chướng ngại vật thứ nhất: đất đô thị hiếm và đắt, mức độ hợp tác của chủ đất thấp, quy trình thay đổi qui hoạch thành phố phức tạp, cộng với tâm lý "không muốn nhà ở xã hội ở bên cạnh" của dân chúng, khiến việc chọn địa điểm khó khăn lắm. Trên mặt tài chính, chi phí xây dựng tăng lên, chi phí vận hành lâu dài và áp lực quỹ nhà ở, cũng tạo ra tác động loại trừ đối với ngân sách chính phủ.
+Chính sách nhà ở xã hội đối mặt với bốn thách thức cấu trúc chính. Huy động đất là rào cản đầu tiên: đất đô thị khan hiếm và đắt đỏ, chủ đất ít phối hợp, thủ tục thay đổi quy hoạch đô thị phức tạp, cộng với tâm lý NIMBY («không muốn nhà ở xã hội建在旁邊») của người dân, khiến việc chọn địa điểm gặp nhiều khó khăn. Về mặt tài chính, chi phí xây dựng tăng cao, chi phí vận hành dài hạn và áp lực từ quỹ nhà ở cũng tạo ra hiệu ứng đẩy lùi lên ngân sách chính phủ.
 
-Một số người dân vẫn còn quan niệm "ổ chuột" về nhà ở xã hội, lo sợ ảnh hưởng tới giá nhà xung quanh, hòa hợp cộng đồng cần thời gian và giao tiếp liên tục. Trên mặt quản lý, cư dân với nhu cầu khác nhau sống chung, chi phí bảo trì cơ sở vật chất cộng đồng, tỷ lệ lưu chuyển cư dân cao v.v. vấn đề, đặt ra yêu cầu cao tới khả năng chuyên nghiệp của đội ngũ quản lý.
+Một phần người dân vẫn giữ định kiến «khu ổ chuột» đối với nhà ở xã hội, lo ngại ảnh hưởng đến giá nhà xung quanh, việc hòa nhập cộng đồng cần thời gian và giao tiếp liên tục. Về mặt quản lý, các vấn đề như các hộ gia đình có nhu cầu khác nhau cùng sinh sống, chi phí bảo trì cơ sở hạ tầng cộng đồng, tỷ lệ lưu động hộ gia đình cao, đặt ra yêu cầu cao về năng lực chuyên môn của đội ngũ quản lý.
 
-### Hướng phát triển tương lai
+### Hướng phát triển trong tương lai
 
-Các gợi ý chính sách từ giới chuyên nghiệp bao trùm một số hướng: sửa đổi Luật nhà ở, tăng cường cơ sở pháp lý, thúc đẩy luật chuyên biệt về nhà ở xã hội, là công việc ưu tiên trên mặt thể chế. Trên mặt sáng tạo tài chính, đưa vốn dân sự vào, phát triển nhà ở xã hội REIT và chế độ tín thác đất, có thể giúp mở rộng nguồn lực. Thúc đẩy quản lý thông minh hoá (hệ thống IoT, tích hợp ứng dụng cộng đồng) và chứng chỉ kiến trúc xanh, là con đường nâng cao chất lượng. Phát triển cân bằng vùng cũng đáng chú ý: hiện tại nhà ở xã hội tập trung cao ở sáu thành phố trực thuộc, nhu cầu sinh kế của những vùng không phải thành phố trực thuộc vẫn đang chờ sự chú ý chính sách hơn nữa.
+Các đề xuất chính sách từ giới chuyên môn bao gồm một số hướng: sửa đổi «Luật Nhà ở», tăng cường cơ sở pháp lý, thúc đẩy luật chuyên biệt về nhà ở xã hội, là công việc ưu tiên về mặt thể chế. Về đổi mới tài chính, thu hút vốn tư nhân, phát triển REITs nhà ở xã hội và chế độ ủy thác đất (land trust), giúp mở rộng nguồn lực. Quản lý thông minh (hệ thống IoT, tích hợp ứng dụng cộng đồng) và phổ biến chứng nhận xây dựng xanh, là con đường nâng cao chất lượng. Phát triển cân bằng khu vực cũng đáng chú ý: hiện tại nhà ở xã hội tập trung cao tại sáu thành phố trực thuộc trung ương, nhu cầu nhà ở ở khu vực phi đô thị vẫn chờ đợi thêm sự quan tâm từ chính sách.
 
-## Kết luận: Hướng tới công lý nhà ở
+## Kết luận: Vươn tới công lý nhà ở
 
-Nhà ở xã hội thể hiện thực hành giá trị xã hội, chứ không phải chính sách nhà ở thuần tuý. Đài Loan bắt đầu từ năm 2016 thúc đẩy kế hoạch 8 năm 200.000 căn, không chỉ gần như đạt mục tiêu trên phương diện lượng, mà còn lập dựng "mô hình Đài Loan" trên phương diện chất:
+Nhà ở xã hội thể hiện sự thực tiễn của các giá trị xã hội, chứ không đơn thuần là chính sách nhà ở. Đài Loan từ năm 2016 bắt đầu triển khai kế hoạch 8 năm 200.000 hộ, không chỉ về mặt số lượng gần như đạt chuẩn, mà còn về mặt chất lượng đã xây dựng nên «mô hình Đài Loan»:
 
-Đặc thù của nhà ở xã hội Đài Loan nằm ở một số lựa chọn cốt lõi: sử dụng thiết kế sinh kế hỗn hợp tránh tập trung hoá vùng nghèo, xây dựng trực tiếp và gói cho thuê-quản lý hai hướng bổ trợ lẫn nhau, chú trọng thẩm mỹ thiết kế và chức năng cộng đồng, kết hợp khí hậu và đặc thù văn hoá của Đài Loan triển khai. Bộ "mô hình Đài Loan" dù vẫn còn trong quá trình sửa đổi, nhưng đã hình thành một con đường chính sách có thể nhận dạng được.
+Đặc trưng của nhà ở xã hội Đài Loan nằm ở một số lựa chọn cốt lõi: dùng thiết kế hòa nhập để tránh tập trung nghèo đói, xây dựng trực tiếp và thuê bao quản lý hai 궤 song song bổ trợ nhau, chú trọng thẩm mỹ thiết kế và chức năng cộng đồng, đồng thời kết hợp đặc thù khí hậu và văn hóa Đài Loan để hiện thực hóa. Bộ «mô hình Đài Loan» này dù vẫn đang trong quá trình điều chỉnh, nhưng đã hình thành một lộ trình chính sách có thể nhận diện được.
 
-**Tầm nhìn tương lai**
+**Triển vọng tương lai**
+Để mỗi người sống tại Đài Loan, bất kể năng lực kinh tế như thế nào, đều được hưởng môi trường nhà ở phù hợp, ổn định, có phẩm giá. Chỉ khi đạt được mục tiêu này, Đài Loan mới có thể xây dựng một xã hội công bằng hơn,包容 hơn.
 
-Để mỗi người sống tại Đài Loan, không kể khả năng kinh tế như thế nào, đều có thể tận hưởng môi trường sinh kế phù hợp, ổn định, tôn trọng nhân phẩm. Để đạt tới mục tiêu này, Đài Loan mới có thể xây dựng một xã hội công bằng, bao trùm hơn.
+Việc thực hiện công lý nhà ở cần nỗ lực chung của toàn xã hội. Chính phủ cung cấp khung chính sách và nguồn lực, chuyên gia đóng góp kỹ thuật và sáng tạo, người dân给予 sự thấu hiểu và ủng hộ, mới có thể让 nhà ở xã hội thực sự phát huy tác dụng,推動 xã hội Đài Loan tiến về phía trước.
 
-Thực hiện công lý nhà ở cần sự nỗ lực chung của toàn xã hội. Chính phủ cung cấp khung chính sách và nguồn lực, chuyên gia đóng góp kỹ năng và sáng tạo, dân chúng cung cấp hiểu biết và hỗ trợ, mới có thể để nhà ở xã hội thực sự phát huy tác dụng, thúc đẩy xã hội Đài Loan tiến lên phía trước.
+**Mở rộng đọc**:
 
-**Mở rộng đọc thêm**:
+- [Quốc宅与居住正義](/vi/society/public-housing-justice) — Trước nhà ở xã hội 2016, con đường «chính phủ xây để bán» đã bị bãi bỏ: từ Luật Quốc宅 1975 đến bãi bỏ năm 2015, Quốc宅 어떻게 biến thành thang máy tài sản, cũng như tranh luận đương đại năm 2026 về nhà ở khả dụng tại 桃園把 «bán» tìm回来 (bài anh em của bài này)
+- [Nhà sắt lợp](/vi/society/taiwan-tin-shed-houses) — Khó khăn trị lý 71,6 vạn vi phạm xây dựng trên toàn Đài Loan, mái sắt lợp thêm và xây dựng trái phép là một trong những cấu trúc sâu của vấn đề công lý nhà ở
+- [Công lý môi trường Đài Loan与鄰避爭議](/vi/society/taiwan-environmental-justice-nimby-conflicts) — Phần mở rộng sử dụng đất của vấn đề nhà ở: phân bổ rủi ro môi trường bất bình等 và xung đột cộng đồng về thiết施鄰避
 
-- Nhà ở công dân và công lý nhà ở — Con đường "chính phủ xây để bán" bị bỏ trước 2016 xây dựng nhà ở xã hội: từ sắc lệnh xây dựng nhà ở năm 1975 tới bãi bỏ năm 2015, nhà ở công dân trở thành chiếc thang tài sản như thế nào, cũng như cuộc tranh luận đương thời năm 2026 Đào Viên nhà ở giá phải chăng tìm lại "bán" (bài viết chị em của bài này)
-- Nhà ở tôn giáo — Khó khăn quản lý 716.000 công trình xây dựng trái phép toàn Đài, nhà ở tôn giáo và vấn đề xây dựng trái phép là một trong những cấu trúc dưới cùng của chủ đề công lý nhà ở
-- Công lý môi trường Đài Loan và tranh cãi tâm lý NIMBY — Phần mở rộng sử dụng đất của vấn đề sinh kế: phân bổ rủi ro môi trường bất công và xung đột cộng đồng của các cơ sở gây phiền toái
+## Tài liệu tham khảo
 
-## Tham khảo tài liệu
+1. [Cục Quản lý Lãnh thổ Bộ Nội vụ](https://pip.moi.gov.tw/v3/b/SCRB0501.aspx?mode=7), 《Báo cáo kết quả thúc đẩy Nhà ở xã hội》, tháng 12 năm 2024
+2. [Trung tâm Nhà ở Quốc gia và Đô thị Cập nhật](https://www.hurc.org.tw/), 《Kết quả thực hiện kế hoạch triển khai Nhà ở xã hội》, năm 2024
+3. [Hành chính viện, 《Kế hoạch triển khai Nhà ở xã hội》, bản phê duyệt tháng 3 năm 2017](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/7345b2c6-1314-4fda-8e21-18b012466827)
+4. [Luật Nhà ở (bản sửa đổi 2017), Cơ sở dữ liệu pháp quy toàn quốc](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070195)
+5. [Quỹ Nghiên cứu và Phát triển Đô thị Cập nhật](https://www.ur.org.tw/), 《Thống kê kết quả thúc đẩy Đô thị Cập nhật》, năm 2024
+6. [Wikipedia, điều 《Nhà ở xã hội Đài Loan》](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E7%A4%BE%E6%9C%83%E4%BD%8F%E5%AE%85), phiên bản tháng 3 năm 2024
+7. [Đô cập Toàn thông, báo cáo 《Số lượng xây dựng trực tiếp và thuê bao quản lý đạt mức kỷ lục mới》](https://urbanrenewal.wealth.com.tw/news-detail/1102), năm 2024
+8. [Cục Phát triển Đô thị Thành phố Đài Bắc](https://udd.gov.taipei/), 《Sách trắng chính sách Nhà ở xã hội》, năm 2023
+9. [Cục Phát triển Đô thị và Nông thôn Thành phố Tân Bắc](https://www.planning.ntpc.gov.tw/home.jsp?id=68301de1098d53bb), 《Kế hoạch phát triển Nhà ở xã hội Thành phố Tân Bắc》, năm 2024
+10. [Cục Phát triển Nhà ở Thành phố Đào Viên](https://ohd.tycg.gov.tw/), 《Kết quả thúc đẩy Nhà ở xã hội Thành phố Đào Viên》, năm 2024
+11. [Quỹ Cụm Mẹ](https://www.tmm.org.tw/), 《Báo cáo điều tra hiện trạng thị trường thuê nhà》, năm 2024
+12. [Liên minh Thúc đẩy Nhà ở xã hội](https://socialhousingtw.blogspot.com/), 《Đề xuất chính sách Nhà ở xã hội》, năm 2023
 
-1. [Bộ Nội vụ, Cơ quan Quản lý Đất đai Toàn quốc](https://pip.moi.gov.tw/v3/b/SCRB0501.aspx?mode=7)，《Báo cáo kết quả thúc đẩy nhà ở xã hội》，Tháng 12 năm 2024
-2. [Trung tâm Quốc gia về Nhà ở và Cải tạo Đô thị](https://www.hurc.org.tw/)，《Kết quả thực hiện kế hoạch xây dựng nhà ở xã hội》，Năm 2024
-3. [Viện Hành pháp，《Kế hoạch xây dựng nhà ở xã hội》，Phiên bản phê duyệt tháng 3 năm 2017](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/7345b2c6-1314-4fda-8e21-18b012466827)
-4. [Luật Nhà ở (Phiên bản sửa đổi năm 2017)，Cơ sở dữ liệu Pháp luật Quốc gia](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070195)
-5. [Quỹ Phát triển Nghiên cứu Tái thiết Đô thị](https://www.ur.org.tw/)，《Thống kê kết quả thúc đẩy tái thiết đô thị》，Năm 2024
-6. [Wikipedia tiếng Việt，《Nhà ở xã hội Đài Loan》条目](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E7%A4%BE%E6%9C%83%E4%BD%8F%E5%AE%85)，Phiên bản tháng 3 năm 2024
-7. [Đất đai và Nhà ở Toàn diện，《Xây dựng trực tiếp và gói cho thuê-quản lý số lượng tạo kỷ lục mới》》Báo cáo](https://urbanrenewal.wealth.com.tw/news-detail/1102)，Năm 2024
-8. [Cục Phát triển Đô thị thành phố Đài Bắc](https://udd.gov.taipei/)，《Sách trắng chính sách nhà ở xã hội》，Năm 2023
-9. [Cục Xây dựng và Phát triển Nông thôn Thành phố Tân Bắc](https://www.planning.ntpc.gov.tw/home.jsp?id=68301de1098d53bb)，《Kế hoạch phát triển nhà ở xã hội Thành phố Tân Bắc》，Năm 2024
-10. [Sở Phát triển Nhà ở Thành phố Đào Viên](https://ohd.tycg.gov.tw/)，《Kết quả thúc đẩy nhà ở xã hội Thành phố Đào Viên》，Năm 2024
-11. [Quỹ Mẹ Thỏi](https://www.tmm.org.tw/)，《Báo cáo khảo sát tình hình thị trường thuê nhà》，Năm 2024
-12. [Liên minh Thúc đẩy Nhà ở Xã hội](https://socialhousingtw.blogspot.com/)，《Sách đề xuất chính sách nhà ở xã hội》，Năm 2023
+[^1]: [Đô Cập Toàn Thông (21-12-2023): Số lượng xây dựng trực tiếp và thuê bao quản lý đạt mức kỷ lục mới](https://urbanrenewal.wealth.com.tw/news-detail/1102) — 「Cuối năm 2024 không chỉ đạt chuẩn, mà còn xây dựng trực tiếp 120.000 hộ nhà ở xã hội, thuê bao quản lý 93.980 hợp đồng hiệu lực, tổng cộng 213.980 hộ, tỷ lệ đạt 107%」
 
-[^1]: Bộ Nội vụ, Cơ quan Quản lý Đất đai Toàn quốc，〈Báo cáo kết quả thúc đẩy nhà ở xã hội〉，Tháng 12 năm 2024，https://pip.moi.gov.tw/v3/b/SCRB0501.aspx?mode=7
+[^2]: [Hành chính viện, «Kế hoạch xây dựng nhà ở xã hội», bản phê duyệt tháng 3 năm 2017](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/7345b2c6-1314-4fda-8e21-18b012466827) — Văn bản phê duyệt chính sách 8 năm 200.000 hộ
 
-[^2]: Viện Hành pháp，〈Kế hoạch xây dựng nhà ở xã hội〉，Phiên bản phê duyệt tháng 3 năm 2017，https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/7345b2c6-1314-4fda-8e21-18b012466827
+[^3]: [Cơ sở dữ liệu pháp quy toàn quốc: Luật Nhà ở Điều 4](https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070195&flno=4) — Điều khoản hiện hành: Ít nhất 40% cho thuê đối tượng yếu thế kinh tế hoặc xã hội, ít nhất 20% cho thuê gia đình kết hôn sinh con, và 13 loại đối tượng yếu thế
 
-[^3]: Cơ sở dữ liệu Pháp luật Quốc gia，〈Luật Nhà ở (Phiên bản sửa đổi năm 2017)〉，https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070195
+[^4]: [Nền tảng thông tin bất động sản Bộ Nội vụ: Nội dung công bố khả năng gánh vác giá nhà quý 4 năm 113](<https://pip.moi.gov.tw/Upload/CustomFile/Doc/113%E5%B9%B4%E6%88%BF%E5%83%B9%E8%B2%A0%E6%93%94%E8%83%BD%E5%8A%9B%E7%AC%AC4%E5%AD%A3%E7%99%BC%E5%B8%83%E5%85%A7%E5%AE%B9(%E5%B9%B3%E5%8F%B0).pdf>) — Tỷ lệ giá nhà/thu nhập toàn quốc 10,76 lần, Đài Bắc 16,43, Tân Bắc 14,08, Đào Viên 9,22 lần
 
-[^4]: Quỹ Mẹ Thỏi，〈Báo cáo khảo sát tình hình thị trường thuê nhà〉，Năm 2024，https://www.tmm.org.tw/
+[^5]: [Nền tảng thông tin bất động sản Bộ Nội vụ: Kết quả triển khai nhà ở xã hội](https://pip.moi.gov.tw/v3/b/SCRB0501.aspx?mode=7) — Bảng thống kê thời gian thực, xây dựng trực tiếp chia 3 cột: đã hoàn công, đang xây dựng, đã trúng thầu chờ khai công, số liệu là số đạt được tính đến 31 tháng 8 năm 2026
 
-[^5]: Trung tâm Quốc gia về Nhà ở và Cải tạo Đô thị，〈Kết quả thực hiện kế hoạch xây dựng nhà ở xã hội〉，Năm 2024，https://www.hurc.org.tw/
+[^6]: [Kinh doanh Thời báo (26-03-2024): Phân cấp tiền thuê nhà ở xã hội của Bộ Nội vụ](https://www.ctee.com.tw/news/20240326701660-430104) — 「Cấu trúc cơ bản tiền thuê nhà ở xã hội từ 3 đến 8 phần mười», chính quyền địa phương có thể thu theo thu nhập hoặc theo đối tượng
+
+[^7]: [Mạng tuyển thầu nhà ở xã hội Đài Bắc: Nhà ở xã hội Kháng Khang](https://rent.thurc.org.taipei/Rental/Site/jiankang) — Số 285 đến 323 đường Kháng Khang, quận Sông Sơn, thành phố Đài Bắc, tổng cộng 507 hộ
+
+[^8]: [Hành chính viện (02-08-2023): Kết quả chính sách nhà ở xã hội](https://www.ey.gov.tw/Page/9277F759E41CCD91/621fac0b-df30-450f-b60c-c4bd52c8b038) — 「Dự kiến cuối năm nay thực tế có khoảng 68.000 hộ hợp đồng thuê bao quản lý hiệu lực」
+
+[^9]: [Cục Quản lý Lãnh thổ Bộ Nội vụ: Kế hoạch thuê bao quản lý nhà ở xã hội kỳ 4](https://www.nlma.gov.tw/uploads/files/d275a081739171fa541ae4cba76f0e11.pdf) — Tiền thuê ký kết thuê bao không được vượt quá 8 phần mười giá thuê thị trường, quản lý không được vượt quá 9 phần mười; hợp đồng thuê bao 3 năm, hợp đồng chuyển thuê ít nhất 1 năm; chi phí sửa chữa tối đa 10.000 nguyên/hộ/năm, tối đa 3 năm
+
+[^10]: [Cục Phát triển Xây dựng Nhà ở Singapore (HDB): Thống kê chủ chốt 2024/2025](https://www.hdb.gov.sg/-/media/hdb-pulse/reports/annual-reports-and-financial-statements/HDB_Key-Statistics-2025.pdf) — Tỷ lệ dân cư Singapore sinh sống trong căn hộ HDB: 76,0%
+
+[^11]: [Cục Thống kê Hà Lan CBS (12-2024)](https://www.cbs.nl/nl-nl/nieuws/2024/49/in-2023-meer-wisseling-van-huur-naar-koopwoningen) — 「Các công ty nhà ở xã hội sở hữu 2,3 triệu căn nhà (28%)», ngày 1 tháng 1 năm 2024

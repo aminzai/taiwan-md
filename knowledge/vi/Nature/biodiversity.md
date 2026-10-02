@@ -20,9 +20,10 @@ difficulty: 'intermediate'
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'Nature/生態多樣性.md'
-sourceCommitSha: 'd8646a2a9'
-sourceContentHash: 'sha256:fb956c7691d488a0'
-translatedAt: '2026-09-07T23:55:25.707955+00:00'
+sourceCommitSha: '825528805'
+sourceContentHash: 'sha256:af5bd3cc5a11c549'
+sourceBodyHash: 'sha256:7b55c8bf8318f623'
+translatedAt: '2026-10-02T01:02:12.394474+00:00'
 ---
 
 # Đa dạng sinh học
@@ -69,21 +70,21 @@ Tỷ lệ che phủ rừng giữa các huyện/thành phố chênh lệch rất 
 
 Những khu rừng không chỉ là cảnh đẹp, mà là lõi của đa dạng sinh học Đài Loan. Khoảng 86% diện tích rừng được pháp luật bảo vệ, trong đó rừng tự nhiên chiếm 73%, rừng trồng 27%.
 
-## Lũy thước cuối cùng của các loài nguy cấp
+## Pháo đài cuối cùng của các loài nguy cấp
 
-### Cáo mèo: Loài chỉ báo của hệ sinh thái đồi thấp
+### Hổ sơn: Loài chỉ thị của hệ sinh thái núi thấp
 
-Đài Loan hiện chỉ còn một loài mèo hoang bản địa là cáo mèo, ước tính chỉ còn lại khoảng 500 cá thể, phân bố chủ yếu ở các vùng đồi thấp của Miêu Lịch, Đài Trung, Nam Đầu.
+Hổ sơn, loài mèo bản địa duy nhất còn tồn tại ở Đài Loan, hiện được ước tính chỉ còn khoảng 500 cá thể, chủ yếu phân bố tại các khu vực miền núi thấp thuộc Miêu Lật, Thái Trung và Nam Đầu.
 
-**Tử vong do giao thông là mối đe dọa trực tiếp nhất đối với cáo mèo**. Theo thống kê của Đội ngũ A-Hu, năm 2021 có 25 cá thể cáo mèo bị xe cán chết, trong đó Miêu Lịch 15 vụ, Nam Đầu 6 vụ, Đài Trung và Chương Hoá mỗi nơi 2 vụ. Các địa điểm tử vong tập trung nhiều ở hai bên dòng sông Hậu Long Khê, Trọc Thủy Khê, Mèo La Khê, cho thấy tình trạng破碎化 (mảnh vỡ) môi trường sống ở mức độ nghiêm trọng. Bên cạnh tai nạn giao thông, tấn công của bầy chó hoang và các bệnh truyền nhiễm giữa chó mèo là nhóm mối đe dọa mới nổi lên trong những năm gần đây, thảo luận đầy đủ xem tại [Bảo tồn cáo mèo Đài Loan](/vi/nature/taiwanese-leopard-cat-conservation).
+**Tai nạn giao thông là mối đe dọa trực tiếp nhất đối với hổ sơn**. Theo thống kê của nhóm nghiên cứu về hổ (A-Hu), năm 2021 đã có 25 con hổ sơn chết do tai nạn, trong đó Miêu Lật ghi nhận 15 trường hợp, Nam Đầu 6 trường hợp và Chương Hòa (Thái Trung) mỗi nơi 2 trường hợp. Các điểm tử vong phần lớn nằm hai bên các dòng suối như Hậu Long Khê, Trác Thủy Khê, Miêu La Khê, cho thấy mức độ nghiêm trọng của sự phân mảnh môi trường sống. Ngoài tai nạn giao thông, chó hoang tấn công và bệnh truyền nhiễm giữa chó mèo là một nhóm mối đe dọa khác nổi lên trong những năm gần đây: ghi nhận các vụ cắn giết và sự chồng lấn môi trường sống có thể xem tại [Bảo tồn hổ sơn Đài Loan](/vi/nature/taiwanese-leopard-cat-conservation), còn cách chó mèo hoang mang virus Parvovirus vào núi thấp, gây nhiễm bệnh rồi lại đẩy nguy cơ tai nạn giao thông lên cao như thế nào thì được đề cập trong [Văn hóa động vật lang thang Đài Loan](/vi/society/stray-animal-culture).
 
-### Báo mây Đài Loan: Vua chúa đã biến mất
+### Báo tuyết Đài Loan: Vị vua đã biến mất
 
-Năm 2014, các học giả chính thức tuyên bố báo mây Đài Loan tuyệt chủng, bản ghi nhận quan sát cuối cùng là năm 1983. Sự biến mất của loài亞种 đặc hữu này của Đài Loan đã trở thành bước ngoặt quan trọng trong sự thức tỉnh bảo tồn sinh vật tại Đài Loan, thúc đẩy xã hội quan tâm hơn đến công tác bảo tồn các loài nguy cấp còn tồn tại.
+Năm 2014, các học giả chính thức tuyên bố báo tuyết Đài Loan đã tuyệt chủng, với lần quan sát cuối cùng được ghi nhận vào năm 1983. Sự biến mất của phân loài đặc hữu này đã trở thành một bước ngoặt quan trọng trong sự thức tỉnh bảo tồn sinh vật ở Đài Loan, thúc đẩy xã hội chú trọng hơn đến việc bảo vệ các loài nguy cấp còn lại.
 
-### Gấu đen Đài Loan: Vua chúa trong rừng già
+### Gấu đen Đài Loan: Vị vua trong rừng núi
 
-Là loài động vật có vú sống trên cạn lớn nhất Đài Loan, hiện ước tính có 500-700 cá thể. Dù được pháp luật bảo vệ, nhưng vẫn đối mặt với mối đe dọa từ破碎化 (mảnh vỡ) môi trường sống và xung đột người-gấu. Gần năm nay, chính phủ và dân間 (dân gian) tích cực đẩy mạnh các kế hoạch bảo tồn, bao gồm thiết lập lưới điện, xây dựng hệ thống giám sát, v.v.
+Đây là loài động vật có vú trên cạn lớn nhất của Đài Loan, hiện được ước tính khoảng 500-700 cá thể. Mặc dù đã được pháp luật bảo vệ, chúng vẫn phải đối mặt với các mối đe dọa như phân mảnh môi trường sống và xung đột giữa người và gấu. Trong những năm gần đây, chính phủ và các tổ chức dân sự đã tích cực thúc đẩy các kế hoạch bảo tồn, bao gồm việc lắp đặt lưới điện và thiết lập hệ thống giám sát.
 
 ## Kho báu phong phú của hệ sinh thái biển
 
@@ -136,14 +137,15 @@ Từ bảo tồn hổ đá đến phục hồi cò đen mặt đen, từ bảo v
 - [Ký Lộ Đài Loan - Tỷ lệ che phủ rừng Đài Loan 60,71% xếp thứ 33 thế giới](https://tbotaiwan.com/forest-coverage/)
 - [Trung tâm Thông tin Môi trường - Báo cáo tai nạn đường bộ quy mô lớn tại huyện Mỹ Lịch](https://e-info.org.tw/node/220323)
 
-## Mở rộng đọc
+## Đọc thêm
 
-Bài viết này là bản toàn cảnh, từng loài và hệ sinh thái trên trang đều có điều mục chuyên sâu riêng:
+Bài viết này là cái nhìn tổng quan, mỗi loài và hệ sinh thái đều có các mục chuyên sâu trên trang:
 
-- [Bảo tồn báo hoa mai Đài Loan](/vi/nature/taiwanese-leopard-cat-conservation) — Quần thể 500 cá thể, tai nạn giao thông, chó giết và破碎化 môi trường sống cùng đè bẹp xuống
-- [Gấu đen Đài Loan](/vi/nature/taiwanese-black-bear) — Loài thú nuôi cỡ lớn nhất trên đảo và hiện trường xung đột người-gấu
-- [Cò thìa mặt đen](/vi/nature/black-faced-spoonbill) — Từ 288 con lên hơn 6 000 con, bảo tồn xuyên quốc gia đã kéo một loài trở về như thế nào
-- [Các loài đặc hữu](/nature/特有種) — Tỷ lệ đặc hữu cao như vậy hình thành ra sao trên hòn đảo này
-- [Hệ sinh thái rừng Đài Loan](/vi/nature/taiwan-forest-ecosystems) — Cấu trúc thực tế dưới tỷ lệ che phủ rừng 60,71 %
-- [Hệ sinh thái cao núi Đài Loan và các loài sót lại kỷ băng hà](/vi/nature/taiwan-alpine-ecosystems-glacial-relicts) — Các loài cao núi không còn đường lui và bằng chứng sống của kỷ băng hà
-- [Sinh thái biển Đài Loan và bảo tồn rạn san hô](/vi/nature/taiwan-marine-ecology-and-coral-conservation) — Tình hình vùng biển chứa ba phần mười loài san hô trên thế giới
+- [Bảo tồn báo hoa tuyết Đài Loan](/vi/nature/taiwanese-leopard-cat-conservation) — Quần thể 500 cá thể bị đe dọa bởi giết hại trên đường, chó săn và sự phân mảnh môi trường sống
+- [Văn hóa động vật lang thang Đài Loan](/vi/society/stray-animal-culture) — Sau chiến dịch triệt sản, bài toán chưa có lời giải giữa chó mèo vô chủ và các loài hoang dã vùng núi thấp
+- [Gấu đen Đài Loan](/vi/nature/taiwanese-black-bear) — Động vật có vú trên cạn lớn nhất đảo và xung đột người-gấu
+- [Sếu hồng mặt đen](/vi/nature/black-faced-spoonbill) — Từ 288 cá thể lên hơn sáu nghìn, bảo tồn xuyên quốc gia đã cứu một loài như thế nào
+- [Các loài đặc hữu](/vi/nature/endemic-species) — Tỷ lệ cao các loài đặc hữu đã hình thành trên hòn đảo này ra sao
+- [Hệ sinh thái rừng Đài Loan](/vi/nature/taiwan-forest-ecosystems) — Cấu trúc thực tế dưới mức độ che phủ rừng 60,71%
+- [Hệ sinh thái núi cao và di trú băng hà của Đài Loan](/vi/nature/taiwan-alpine-ecosystems-glacial-relicts) — Các loài trên núi không có đường lui và bằng chứng sống về kỷ băng hà
+- [Sinh thái biển và bảo tồn rạn san hô Đài Loan](/vi/nature/taiwan-marine-ecology-and-coral-conservation) — Tình hình các vùng biển với một phần ba số loại san hô thế giới

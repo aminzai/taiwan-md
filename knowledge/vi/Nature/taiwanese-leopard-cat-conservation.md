@@ -20,10 +20,10 @@ featured: false
 lastVerified: 2026-03-30
 lastHumanReview: true
 translatedFrom: 'Nature/台灣石虎保育.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:bbca77501c197a81'
-sourceBodyHash: 'sha256:76487fd0d26564e6'
-translatedAt: '2026-08-09T12:06:28+08:00'
+sourceCommitSha: '825528805'
+sourceContentHash: 'sha256:53a697c302d622a3'
+sourceBodyHash: 'sha256:7ed841e26f0abf1f'
+translatedAt: '2026-10-02T00:58:59.884771+00:00'
 ---
 
 # Bảo vệ mèo đốm Đài Loan
@@ -70,45 +70,47 @@ Mèo đốm không sống ở những công viên quốc gia trên cao. Nó số
 
 Đặc điểm của những nơi này là: **rất gần con người**. Những con đường nông thôn ở Thông Tiêu, Hậu Long, Tây Hồ, Đồng La ở Miêu Lật; ở Trung Liêu, Tập Tập ở Nam Đầu; ở Tân Xã, Hoà Bình ở Đài Trung — những cạnh vườn trái cây, hành lang suối, chính là nơi sống của mèo đốm, nhưng cũng là nơi phát triển đường bộ, mở rộng đất nông nghiệp, xây dựng nhà máy sặc sỡ nhất.
 
-## Bốn cách chết
+## Bốn kiểu cái chết
 
-### Một, tai nạn đường bộ: cuộc tàn sát im lặng nhất
+### I. Giết trên đường: Sự tàn sát thầm lặng nhất
 
-Trong giới bảo vệ động vật ở Đài Loan, có một từ nghe xong là lạnh người: **tai nạn đường bộ**. Mèo đốm là động vật hoạt động về đêm, nó băng qua đường vào ban đêm để kiếm ăn, tìm bạn tình, bài tuần thế địa, còn những con đường nông thôn ở Miêu Lật và Nam Đầu không có hành lang động vật, không có cơ sở giảm tốc độ, chẳng có bất kỳ thiết kế nào dành cho động vật hoang dã.
+Trong giới bảo tồn ở Đài Loan, có một từ nghe ra đã thấy rợn người: **giết trên đường** (路殺). Hổ gấm là loài vật hoạt động về đêm; chúng băng qua đường vào ban đêm để kiếm ăn, tìm bạn tình hoặc tuần tra lãnh thổ. Tuyến đường nông thôn ở Miêu Lật và Nam Đầu không có hành lang động vật, không có cơ sở giảm tốc, cũng như không có thiết kế nào dành cho động vật hoang dã.
 
-Đèn xe sáng lên, mắt mèo đốm phản quang, rồi —
+Khi đèn xe bật sáng, mắt hổ gấm phản chiếu ánh đèn, rồi—
 
-Tờ báo Tuo Tuo dùng một tiêu đề khiến lòng tan nát: "Pop! Và rồi tôi trở thành thịt cơm". [^2]
+Chuyên đề về giết trên đường của WoWo đã sử dụng một tiêu đề khiến người ta đau lòng: "Bụp! Và tôi trở thành thịt khô."
 
-Từ 2017 đến 2023, có ghi chép được các trường hợp mèo đốm chết vì tai nạn đường bộ hơn 130 con. Những cái chết chưa được phát hiện, chẳng ai biết có bao nhiêu.
+Trong giai đoạn từ năm 2017 đến 2023, có hơn 130 con hổ gấm được ghi nhận chết do tai nạn giao thông. [^2] Những con không được tìm thấy thì không ai biết là bao nhiêu.
 
-Nhà nghiên cứu mèo đốm Lâm Dục Tú từng theo dõi một con mèo tên là "Cỏ Nhỏ". Nó bị xe tông **hai lần**, hai lần đều sống sót. Lâm Dục Tú nói: "Cỏ Nhỏ đã tự cứu mình qua hai cú va chạm ô tô, nếu chúng ta vẫn không làm gì cho mèo đốm, thế là chúng ta đã lãng phí nỗ lực tự cứu của nó."
+Nhà nghiên cứu về hổ gấm Lâm Dục Tú đã theo dõi một cá thể tên là "Tiểu Thảo". Nó đã bị xe đâm **hai lần**, và cả hai lần đều sống sót. Lâm Dục Tú nói: "Tiểu Thảo đã tự cứu mình qua hai vụ tai nạn giao thông, nếu chúng ta không làm gì cho hổ gấm thì đó thực sự là hy sinh khả năng tự cứu của nó."
 
-### Hai, mất sinh cảnh: nhà bị phá dỡ
+### II. Mất môi trường sống: Nhà bị phá hủy
 
-Miêu Lật là tỉnh có mật độ quần thể mèo đốm cao nhất, có tính liên tục sinh cảnh tốt nhất. Nhưng Miêu Lật cũng là một trong những tỉnh có nhiều tranh chấp phát triển nhất ở Đài Loan.
+Miêu Lật là huyện có mật độ quần thể hổ gấm cao nhất và tính liên tục của môi trường sống tốt nhất. Nhưng Miêu Lật cũng là một trong những nơi tranh chấp phát triển thường xuyên nhất ở các thành phố và huyện của Đài Loan.
 
-Năm 2019, chính phủ tỉnh Miêu Lật đề xuất "Quy chế tự quản bảo vệ mèo đốm" tại hội đồng tỉnh và **bị từ chối hai lần**. Lý do là "ảnh hưởng đến phát triển địa phương". Một tỉnh tự gọi mình là "xứ sở mèo đốm" lại không thể thông qua một luật để bảo vệ mèo đốm.
+Năm 2019, "Quy chế tự quản bảo tồn hổ gấm" do chính quyền huyện Miêu Lật đề xuất đã bị hội đồng huyện **bỏ phiếu hai lần**. Lý do là "ảnh hưởng đến sự phát triển địa phương". Một huyện được mệnh danh là "thủ phủ hổ gấm" lại không thông qua nổi một quy định bảo vệ loài này.
 
-Đây chính là trường hợp vô lý của công tác bảo vệ ở Đài Loan: bạn dùng tên mèo đốm để quảng bá du lịch, in trên biểu tượng, vẽ trên xe buýt — nhưng khi bảo vệ mèo đốm thực sự yêu cầu giới hạn phát triển, mèo đốm lại không quan trọng nữa.
+Đây chính là vở kịch phi lý của công tác bảo tồn ở Đài Loan: bạn dùng tên hổ gấm để quảng bá du lịch, in lên linh vật, vẽ trên xe buýt—nhưng khi việc bảo vệ hổ gấm thực sự hạn chế phát triển, thì hổ gấm lại trở nên không quan trọng.
 
-### Ba, chó cắn: mối đe dọa bị đánh giá thấp nhất
+### III. Giết bởi chó: Mối đe dọa bị đánh giá thấp nhất
 
-Đây là điều xấu hổ nhất mà giới bảo vệ động vật ở Đài Loan không muốn đối mặt: **chó hoang sẽ cắn chết mèo đốm**.
+Đây là điều mà giới động vật học Đài Loan không muốn đối mặt: **chó hoang sẽ cắn chết hổ gấm**.
 
-Những hình ảnh chụp từ camera tự động ngày càng nhiều: những bầy chó lang thang xuất hiện ở sinh cảnh của mèo đốm, đuổi bắt, tấn công, cắn giết. Tờ báo Tuo Tuo làm cả một chuyên đề về "chó cắn mèo đốm", dữ liệu cho thấy chó cắn là nguyên nhân gây chết thứ hai có ghi chép rõ ràng cho mèo đốm, sau tai nạn đường bộ.
+Ngày càng có nhiều hình ảnh được máy ảnh tự động ghi lại: bầy chó lang thang xuất hiện trong môi trường sống của hổ gấm, chúng rượt đuổi, tấn công và giết hại. WoWo đã thực hiện một chuyên đề hoàn chỉnh về "Giết hổ gấm bởi chó", dữ liệu cho thấy việc bị chó cắn là nguồn gây chết thứ hai được ghi nhận rõ ràng sau tai nạn giao thông.
 
-Điều này đặt những tổ chức bảo vệ động vật và những nhà nghiên cứu sinh thái ở Đài Loan vào một tình huống vô cùng xấu hổ. Những người bảo vệ chó hoang nói "không thể tiêu diệt"; những người bảo vệ mèo đốm nói "nếu không quản lý bầy chó lang thang, mèo đốm thực sự sẽ tuyệt chủng".
+Cắn xé chỉ là một nửa của mối đe dọa này. Chó và mèo hoang đồng thời mang bệnh truyền nhiễm từ động vật sang khu vực núi thấp, và những con hổ đã bị nhiễm bệnh có cơ hội sống sót trên đường cũng giảm đi, do đó hai nguyên nhân cái chết là chó cắn và tai nạn giao thông không hoàn toàn tách biệt về mặt số liệu. Chuỗi nhân quả này, dữ liệu sàng lọc virus của Đại học Bình Khoa, cùng với tranh cãi xung quanh chính sách tiêu diệt chó (零撲殺), đã được thảo luận đầy đủ trong [Văn hóa động vật hoang dã Đài Loan](/vi/society/stray-animal-culture).
 
-Cả hai bên đều đang bảo vệ động vật, nhưng động vật của họ lại đang giết lẫn nhau.
+Điều này khiến các tổ chức bảo vệ động vật và các nhà khoa học bảo tồn sinh thái ở Đài Loan rơi vào một tình thế vô cùng khó xử. Những người ủng hộ việc cứu chó nói "không thể tiêu diệt"; những người bảo vệ hổ gấm lại nói "nếu không quan tâm đến chó hoang, hổ gấm sẽ thực sự tuyệt chủng".
 
-Cuộc tranh luận này cho đến nay vẫn chưa có lời giải, nhưng nó buộc xã hội Đài Loan phải đối mặt với một sự thật: **"yêu động vật" không phải một lập trường đơn giản, nó tràn đầy mâu thuẫn và sự lựa chọn.**
+Cả hai bên đều đang cố gắng bảo vệ động vật, nhưng những con vật ở cả hai phía lại đang giết lẫn nhau.
 
-### Bốn, chết vì độc và bẫy
+Cuộc tranh luận này cho đến nay vẫn chưa có câu trả lời, nhưng nó buộc xã hội Đài Loan phải đối mặt với một sự thật: **"Yêu động vật" không phải là một lập trường đơn giản, mà nó chứa đầy mâu thuẫn và sự lựa chọn.**
 
-Mèo đốm ăn gà. Đối với nông dân ở vùng lăng kính thấp, chuồng gà bị mèo đốm xâm nhập là một tổn thất kinh tế thực tế. Một số nông dân có cách ứng phó rất trực tiếp: đặt chất độc.
+### IV. Đầu độc và bẫy thú
 
-Ngoài ra, những cái bẫy trong rừng, mặc dù đã bị cấm một cách rõ ràng năm 2020, vẫn còn tồn tại lén lút. Sau khi mèo đốm vô tình mắc bẫy, nó nhẹ thì mất ngón chân, nặng thì vì không còn có khả năng kiếm ăn mà chết đói.
+Hổ gấm ăn gà. Đối với nông dân ở vùng núi thấp, việc chuồng gà bị hổ gấm đột nhập là tổn thất kinh tế thực sự. Một số cách ứng phó của nông dân rất trực tiếp: dùng chất độc.
+
+Ngoài ra, các bẫy thú trong vùng núi, mặc dù đã bị cấm rõ ràng từ năm 2020, vẫn tồn tại lén lút. Hổ gấm vô tình chạm vào bẫy, nhẹ thì bị đứt chân, nặng thì chết đói vì không tìm được thức ăn.
 
 ## Ánh sáng của bảo vệ: có người đang canh chừng
 
@@ -166,20 +168,20 @@ Những người bảo vệ mèo đốm thường nói một câu: "Nếu thế 
 
 Người Đài Loan thích nói "có bái có bảo hộ". Nhưng mèo đốm không bái bai. Nó chỉ tiếp tục trong ban đêm để băng qua những con đường không có hành lang động vật, rồi nhìn vào vận may.
 
-## Tài liệu tham khảo
-
-[^1]: [Quy chế tự quản bảo vệ mèo đốm Miêu Lật - Trung tâm Thông tin Môi trường](https://e-info.org.tw/node/221882) — Xác nhận quy chế tự quản bảo vệ mèo đốm tỉnh Miêu Lật đã được thông qua trong lần thứ ba vào ngày 10 tháng 12 năm 2019.
-
-[^2]: [Tuo Tuo: Pop! Và rồi tôi trở thành thịt cơm — chuyên đề tai nạn đường bộ](https://wuo-wuo.com/topics/widlife/94-road-killing-topic) — Thống kê ghi chép tai nạn đường bộ mèo đốm 2017-2023.
-
-[^3]: [Bộ Nông nghiệp - Chương trình trợ cấp sinh thái cho mèo đốm](https://www.moa.gov.tw/) — Giải thích kế hoạch trợ cấp trồng trọt thân thiện với mèo đốm.
-
-[^4]: [Viện Nghiên cứu Đa dạng sinh học Bộ Nông nghiệp (Viện Đa sinh)](https://www.tbri.gov.tw/) — Chương trình nhân giống nhân tạo mèo đốm và nghiên cứu bảo vệ.
-
-[^5]: [Tuo Tuo: Trước khi tuyệt chủng — chuyên đề mèo đốm Đài Loan](https://wuo-wuo.com/topics/widlife/taiwan-leopard-cat) — Báo cáo hoàn chỉnh tình hình bảo vệ mèo đốm ở Đài Loan.
+## TÀI LIỆU THAM KHẢO
 
 Đọc thêm:
 
-- [Tuo Tuo: Mối đe dọa bị đánh giá thấp — chó cắn mèo đốm](https://wuo-wuo.com/topics/widlife/dogkill) — Ghi chép những trường hợp chó cắn mèo đốm.
-- [Bộ Nông nghiệp - Cục Lâm nghiệp và Bảo vệ Thiên nhiên](https://www.forest.gov.tw/) — Chính sách bảo vệ sinh cảnh mèo đốm.
-- [Đại sứ bảo vệ mèo đốm — Gia đình Hổ Nhỏ](https://www.facebook.com/LeopardCatTaiwan/) — Tình hình gần đây của chương trình nhân giống nhân tạo mèo đốm tại Viện Đa sinh.
+- [Wo Wo: Mối đe dọa bị đánh giá thấp. Chó giết báo hoa mai](https://wuo-wuo.com/topics/widlife/dogkill) — Hồ sơ các trường hợp chó giết báo hoa mai.
+- [Cục Lâm nghiệp và Bảo tồn Thiên nhiên, Bộ Nông nghiệp](https://www.forest.gov.tw/) — Chính sách bảo tồn môi trường sống của báo hoa mai.
+- [Đại sứ bảo tồn báo hoa mai – Gia đình A Hổ](https://www.facebook.com/LeopardCatTaiwan/) — Tình hình nhân giống báo hoa mai tại Viện Sinh đa.
+
+[^1]: [Quy chế tự quản bảo tồn báo hoa mai Miêu Lật - Trung tâm thông tin môi trường](https://e-info.org.tw/node/221882) — Xác nhận Quy chế tự quản bảo tồn báo hoa mai của huyện Miêu Lật được thông qua ở kỳ họp thứ ba vào ngày 10 tháng 12 năm 2019.
+
+[^2]: [Wo Wo: Bốp! Và tôi trở thành thịt khô – Chuyên đề xe cộ giết thú](https://wuo-wuo.com/topics/widlife/94-road-killing-topic) — Thống kê các trường hợp báo hoa mai bị xe cộ giết từ năm 2017 đến 2023.
+
+[^3]: [Chương trình chi trả sinh thái cho báo hoa mai của Bộ Nông nghiệp](https://www.moa.gov.tw/) — Giải thích về kế hoạch canh tác thân thiện với báo hoa mai.
+
+[^4]: [Viện Nghiên cứu Đa dạng Sinh học, Bộ Nông nghiệp (Sinh đa)](https://www.tbri.gov.tw/) — Kế hoạch nhân giống và nghiên cứu bảo tồn báo hoa mai.
+
+[^5]: [Wo Wo: Trước khi tuyệt chủng – Chuyên đề báo hoa mai Đài Loan](https://wuo-wuo.com/topics/widlife/taiwan-leopard-cat) — Báo cáo toàn diện về tình hình bảo tồn báo hoa mai tại Đài Loan.
