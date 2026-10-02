@@ -20,10 +20,10 @@ difficulty: 'intermediate'
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'Nature/生態多樣性.md'
-sourceCommitSha: 'd8646a2a9'
-sourceContentHash: 'sha256:768855c64ea407af'
-sourceBodyHash: 'sha256:2f867df28cee4278'
-translatedAt: '2026-09-08T00:42:59+08:00'
+sourceCommitSha: '825528805'
+sourceContentHash: 'sha256:af5bd3cc5a11c549'
+sourceBodyHash: 'sha256:7b55c8bf8318f623'
+translatedAt: '2026-10-02T02:40:23.581183+00:00'
 ---
 
 # Biodiversität
@@ -70,21 +70,21 @@ Die Walddecke variiert stark zwischen den Regionen:
 
 Diese Wälder sind nicht nur landschaftlich reizvoll, sondern bilden auch das Rückgrat Taiwans Biodiversität. Etwa 86 % der Wälder stehen unter rechtlichem Schutz, wovon 73 % Naturwälder und 27 % künstliche Wälder sind.
 
-## Letzte Festungen für gefährdete Arten
+## Die letzten Bastionen gefährdeter Arten
 
-### Steinpantherkatze: Indikatorart der Mittelgebirge
+### Leopardus pardalis: Indikatorart der Bergwälder
 
-Die taiwanesische Steinpantherkatze (auch bekannt als Formosa-Fellschwein), die einzige einheimische Katzenart Taiwans, wird geschätzt mit etwa 500 Individuen, hauptsächlich in den Mittelgebirgen von Miao-Li, Taichung und Nantou verbreitet.
+Der einzige noch heimische Katzenarten-Leopard (_Leopardus pardalis_) auf Taiwan wird derzeit auf etwa 500 Exemplare geschätzt und kommt hauptsächlich in den Mittelgebirgsregionen von Miaoli, Taichung und Nantou vor.
 
-**Verkehrsunfälle stellen die unmittelbar größte Bedrohung für die Steinpantherkatze dar**. Laut den Statistiken des "Big Cat"-Teams wurden 2021 insgesamt 25 Steinpantherkatzen durch Verkehrsunfälle getötet, wobei 15 Fälle in Miao-Li, 6 in Nantou und jeweils 2 in Taichung und Changhua stattfanden. Die Unfallorte konzentrieren sich häufig entlang der Flüsse Houshou, Zhuoshui und Maoluo, was auf die Fragmentierung ihrer Lebensräume hinweist. Neben den Verkehrsunfällen stellen wandernde Hundegruppen und Krankheiten, die von Haustieren übertragen werden, zusätzliche Bedrohungen dar. Eine detaillierte Diskussion findet sich unter [Schutz der taiwanesischen Steinpantherkatze](/nature/台灣石虎保育)。
+**Wildunfälle sind die direkteste Bedrohung für diese Leoparden.** Laut Statistiken des Tiger-Teams wurden im Jahr 2021 insgesamt 25 Leoparden durch Verkehr getötet, davon 15 in Miaoli, 6 in Nantou und je 2 in Taichung und Changhua. Die Todesorte lagen oft an den Ufern von Flüssen wie dem Houtongxi, Ts'uogsuixi oder Maoluxi, was die Schwere der Lebensraumfragmentierung verdeutlicht. Neben Wildunfällen stellen streunende Hunde und Katzenseuchen eine weitere Bedrohung dar: Auf die Bissverletzungen und die Überlappung von Lebensräumen kann in [Taiwan Leopardenschutz](/de/nature/taiwanese-leopard-cat-conservation) eingesehen werden, während die Art und Weise, wie streunende Hunde und Katzen Parvovirus in die Bergwälder bringen und nach der Infektion das Risiko von Wildunfällen erhöhen, in [Taiwan Streunerkatzenkultur](/de/society/stray-animal-culture) beschrieben wird.
 
-### taiwanesischer Wolfsbauch: Der verschwundene König
+### Panthera taiwanesis: Der verschwundene König
 
-2014 wurde offiziell bestätigt, dass die taiwanesische Wolfsbauchpopulation ausgestorben ist. Die letzte gesicherte Beobachtung stammt aus dem Jahr 1983. Der Verlust dieser endemischen Unterart markierte einen Meilenstein in Taiwans Naturschutzbewusstsein und führte zu einer verstärkten Aufmerksamkeit für den Schutz existierender gefährdeter Arten.
+Im Jahr 2014 wurde der Taiwanesische Leopard (_Panthera taiwanesis_) offiziell als ausgestorben erklärt; die letzte bestätigte Sichtung erfolgte im Jahr 1983. Das Verschwinden dieser endemischen Unterart ist ein wichtiger Wendepunkt im Umweltbewusstsein Taiwans und hat die Gesellschaft dazu angeregt, sich stärker um den Schutz der noch existierenden gefährdeten Arten zu bemühen.
 
-### taiwanesischer Schwarzbär: Der Herr der Wälder
+### Ursus thibetanus: Der König des Waldes
 
-Der größte terrestrische Säuger auf der Insel, geschätzt mit 500–700 Individuen. Obwohl gesetzlich geschützt, ist er weiterhin Bedrohung durch Lebensraumfragmentierung und Konflikte mit Menschen. In den letzten Jahren setzen Regierung und Zivilgesellschaft aktiv Schutzmaßnahmen um, darunter elektrische Zäune und Überwachungssysteme.
+Der größte terrestrische Säugetier auf Taiwan wird derzeit auf etwa 500 bis 700 Exemplare geschätzt. Obwohl sie gesetzlich geschützt sind, sind sie dennoch Bedrohungen wie Lebensraumfragmentierung und Mensch-Bär-Konflikte ausgesetzt. In den letzten Jahren haben sowohl die Regierung als auch zivilgesellschaftliche Gruppen Schutzprojekte vorangetrieben, darunter der Bau von Elektrozäunen und die Einrichtung von Überwachungssystemen.
 
 ## Reichtum der Meeresökologie
 
@@ -137,18 +137,15 @@ Von Schutzmaßnahmen für die Steinpantherkatze bis zur Wiederherstellung der Ri
 - [Klimaforschung Taiwan – Taiwans Walddecke von 60,71 % auf Platz 33 der Welt](https://tbotaiwan.com/forest-coverage/)
 - [Umweltinformationszentrum – Bericht über groß angelegte Verkehrsunfälle in Miao-Li County](https://e-info.org.tw/node/220323)
 
-## Weiterführende Literatur
+## Weiterführende Lektüre
 
-Dieser Artikel bietet einen Überblick. Jede Art und jedes Ökosystem hat auf unserer Plattform detaillierte Einträge:
+Dieser Artikel ist ein Überblick; jedes Lebewesen und Ökosystem hat auf dieser Seite eigene, detaillierte Einträge:
 
-- [Schutz der taiwanesischen Steinpantherkatze](/nature/台灣石虎保育) — Wie man eine Population von 500 Tieren gleichzeitig vor Verkehrsunfällen, Hundeattacken und Lebensraumfragmentierung schützt
-- [taiwanesischer Schwarzbär](/nature/台灣黑熊) — Der größte terrestrische Säuger der Insel und der Konflikt mit Menschen
-- [Riese der feuchten Vogelbeobachtung](/nature/黑面琵鷺) — Von 288 auf über 6.000 Exemplare: Wie internationaler Schutz eine Art rettete
-- [Endemische Arten](/nature/特有種) — Wie diese hohe Endemitätsrate auf dieser Insel entstand
-- [Taiwans Waldböden](/nature/台灣森林生態系) — Die Realität hinter der 60,71 % Walddecke
-- [Taiwans Hochlagenökologie und Gletscherreste](/nature/台灣高山生態系與冰河孑遺) — Hochlagenarten ohne Ausweg und Beweise aus der Eiszeit
-- [Taiwans marine Ökologie und Korallenriff-Schutz](/nature/台灣海洋生態與珊瑚礁保育) — Die aktuelle Situation der Korallenarten, die ein Drittel aller weltweiten Arten ausmachen
-
-```
-
-```
+- [Schutz des malaiischen Leoparden in Taiwan](/de/nature/taiwanese-leopard-cat-conservation) — Eine Population von fünfhundert Tieren unter dem Druck von Straßenwilderei, Hundetötung und Lebensraumzerstörung
+- [Die Kultur der streunenden Tiere in Taiwan](/de/society/stray-animal-culture) — Die ungelöste Frage zwischen freilaufenden Hunden und Katzen und den Wildtieren in Bergregionen nach der Abschaffung der Massentötung
+- [Der Schwarzbär in Taiwan](/de/nature/taiwanese-black-bear) — Das größte terrestrische Säugetier auf der Insel und die Konflikte mit dem Menschen
+- [Die asiatische Reiherente](/de/nature/black-faced-spoonbill) — Wie internationaler Naturschutz eine Art von 288 auf über sechshundert Tieren rettete
+- [Endemische Arten](/de/nature/endemic-species) — Wie ein hoher Anteil an endemischen Arten auf dieser Insel entstanden ist
+- [Das Waldökosystem Taiwans](/de/nature/taiwan-forest-ecosystems) — Die tatsächliche Struktur unter einer Waldbedeckung von 60,71 %
+- [Das Hochgebirgsökosystem und die Eiszeitrelikte in Taiwan](/de/nature/taiwan-alpine-ecosystems-glacial-relicts) — Hochgebirgsspezies mit keinem Rückzugsort und lebende Beweise aus der Eiszeit
+- [Die Meeresökologie und der Korallenschutz Taiwans](/de/nature/taiwan-marine-ecology-and-coral-conservation) — Der aktuelle Zustand eines Gebiets, das ein Drittel der weltweiten Korallenarten beherbergt
