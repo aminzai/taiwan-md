@@ -1,104 +1,128 @@
 ---
-title: 'Nhạc điện tử và văn hóa tiệc tùng Đài Loan: từ rave ngầm đến sân khấu quốc tế'
-description: 'Từ văn hóa rave thập niên 1990 đến Road to Ultra, nhạc điện tử Đài Loan đã đi từ thế giới ngầm vào dòng chính, đồng thời nuôi dưỡng những DJ và nghệ sĩ thể nghiệm được quốc tế chú ý.'
+title: 'Âm nhạc điện tử và văn hóa tiệc tại Đài Loan: Từ rave đường phố đến sân khấu quốc tế'
+description: 'Từ văn hóa tiệc rave của những năm 1990 đến các buổi lễ âm nhạc điện tử Road to Ultra, âm nhạc điện tử tại Đài Loan đã chuyển đổi từ phong trào underground sang thị trường chính thống, nuôi dưỡng các DJ quốc tế và các thương hiệu điện tử độc lập'
 date: 2026-03-19
 category: 'Music'
 tags:
   [
-    'nhạc điện tử',
+    'âm nhạc điện tử',
     'rave',
-    'văn hóa tiệc tùng',
+    'văn hóa tiệc',
     'DJ',
-    'lễ hội nhạc điện tử',
-    'âm nhạc ngầm',
+    'lễ hội âm nhạc điện tử',
+    'âm nhạc underground',
   ]
-subcategory: 'Điện tử và thể nghiệm'
+subcategory: '電子與實驗'
 author: 'Taiwan.md Contributors'
 featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Music/台灣電子音樂與派對文化.md'
-sourceCommitSha: '37638e173'
-sourceContentHash: 'sha256:0beb5fc8433a2c70'
-sourceBodyHash: 'sha256:b7a689926177f96c'
-translatedAt: '2026-09-01T22:32:31+08:00'
+sourceCommitSha: 'afcfabc33'
+sourceContentHash: 'sha256:f8d93a4a9320d691'
+sourceBodyHash: 'sha256:2195da25b78144be'
+translatedAt: '2026-10-03T04:11:36+08:00'
 ---
 
-# Nhạc điện tử và văn hóa tiệc tùng Đài Loan: từ rave ngầm đến sân khấu quốc tế
+# Âm nhạc điện tử và văn hóa tiệc tại Đài Loan: Từ rave đường phố đến sân khấu quốc tế
 
-> **Tóm tắt 30 giây:** Nhạc điện tử Đài Loan bắt đầu từ những bữa tiệc rave ngầm vào thập niên 1990. Sau hơn hai mươi năm, những cuộc vui trong nhà kho đã tiến vào dòng chính qua các lễ hội điện tử quy mô lớn. Sonia Calico, RayRay và nhiều nghệ sĩ khác đưa nhạc điện tử Đài Loan ra quốc tế, trong khi Meuko! Meuko! được chú ý trong giới nhạc điện tử thể nghiệm toàn cầu.
+> **30 giây tóm tắt:** Âm nhạc điện tử tại Đài Loan bắt đầu từ những buổi rave ngoài trời và quán nhảy EDM ở trung tâm Đài Bắc vào giữa những năm 1990. Trong ba mươi năm, nó đã phát triển từ các bữa tiệc bên sông lớn đến các lễ hội âm nhạc điện tử quy mô lớn. Các DJ như Sonia Calico, RayRay đã biểu diễn và thi đấu ở nước ngoài, trong khi các nghệ sĩ như Meuko! Meuko! đã được chú ý ở cộng đồng điện tử thử nghiệm quốc tế.
 
-Văn hóa nhạc điện tử Đài Loan phản ánh cách văn hóa thanh niên được bản địa hóa trong thời đại toàn cầu hóa. Từ chỗ tiếp nhận rave phương Tây, cộng đồng địa phương đã diễn giải lại nó bằng góc nhìn của mình và tạo dựng danh tiếng tại châu Á. Quá trình này để lại những cột mốc cụ thể, có thể lần theo trong lịch sử âm nhạc Đài Loan.
+Văn hóa âm nhạc điện tử tại Đài Loan phản ánh quá trình địa phương hóa của văn hóa giới trẻ trong thời đại toàn cầu hóa: từ việc tiếp thu văn hóa rave phương Tây, đến việc tái hiểu và đưa ra góc nhìn địa phương, thiết lập danh tiếng ở châu Á. Sự phát triển của cảnh quan này có những dấu mốc rõ rệt trong lịch sử âm nhạc của Đài Loan.
 
-## Khởi nguồn dưới lòng đất (1990–2000): thế hệ raver đầu tiên
+## Nguồn gốc underground (1990-2000): Những người raver đầu tiên
 
-### Cuộc vui trong nhà kho
+### Buổi rave đầu tiên trên kênh chảy Erhching
 
-Đầu thập niên 1990, nhạc điện tử Đài Loan lặng lẽ nảy mầm trong những không gian ngầm ở Đài Bắc. Chịu ảnh hưởng của acid house Anh và Detroit techno, thế hệ raver đầu tiên tổ chức các bữa tiệc trong nhà kho bỏ hoang và xưởng cũ. Cuộc vui thường kéo dài đến sáng, với nhịp độ 130–150 BPM tạo thành một cộng đồng văn hóa nhỏ.[^1]
+Vào ngày 29 tháng 7 năm 1995, DJ @llen và bạn bè dùng xe tải để mang dàn âm thanh đến kênh chảy Erhching, tổ chức buổi rave ngoài trời đầu tiên tại Đài Loan. Năm sau đó, @llen cùng EDGE tổ chức "Taipei Tribal Massive" ở hồ Meihua trong Tân Tân, đây là buổi rave ngoài trời quy mô lớn đầu tiên tại Đài Loan, bị dừng lại bởi cảnh sát vì chưa được cấp phép hoạt động. [^1]
 
-Thông tin được truyền qua máy fax, ấn phẩm ngầm hoặc lời rỉ tai. Vé vào cửa thường chỉ vài trăm Đài tệ, thiết bị cũng thua xa các câu lạc bộ chuyên nghiệp. Tinh thần cốt lõi đến từ PLUR của Anh — Peace, Love, Unity, Respect, tức hòa bình, tình yêu, đoàn kết và tôn trọng — rồi được diễn giải theo cách riêng tại Đài Loan.
+Về phần quán nhảy, DJ Victor Cheng nhớ lại rằng quán nhảy chuyên về âm nhạc điện tử đầu tiên tại Đài Loan là Twilight Zone ở gần khu mua sắm Guanghua trên đường Songjiang, sau đó mở rộng và đổi tên thành Underground. [^2] Năm 1997, tạp chí văn hóa âm nhạc điện tử duy nhất tại Đài Loan PLUR ra mắt. [^1] Tên tạp chí lấy cảm hứng từ triết lý cốt lõi của cộng đồng rave ở Mỹ: PLUR (Peace, Love, Unity, Respect). [^3]
 
-### Những địa điểm tiên phong và sự trỗi dậy của DJ
+### Các quán nhảy tiêu biểu và sự nổi lên của DJ
 
-Giữa thập niên 1990, một loạt địa điểm đã định hình bản đồ nhạc điện tử Đài Bắc. **ROXY 99** ở khu vực đường Trung Hiếu Đông là sàn nhảy đầu tiên của nhiều người. Các câu lạc bộ như **TeXound** và **Spark** mang đến không gian biểu diễn với hệ thống âm thanh tốt hơn; **@LIVE** và **Plush** thu hút cộng đồng nòng cốt bằng lịch diễn và cách chọn nhạc thiên về underground. Thông qua đĩa vinyl nhập khẩu, các DJ địa phương đưa những xu hướng mới nhất của nhạc điện tử quốc tế vào Đài Loan, đồng thời thử kết hợp chất liệu bản địa để tìm kiếm một âm thanh có căn cước riêng.
+Năm 1998, DJ Tiger và Chin thành lập **TeXound**, một quán nhảy biểu tượng trong lịch sử âm nhạp điện tử tại Đài Loan. [^4] Loạt quán bar Roxy do Ling Wei khai trương là nơi nhiều người đầu tiên trải nghiệm nhảy. **ROXY 99** dài năm hoạt động ở tầng hầm trên đường Nanjin South, cho đến khi chuyển về đường Xingya South vào năm 2013. [^5]
 
-### Lâm Cường: chiếc cầu then chốt của nhạc điện tử bản địa
+### Lin Qiang: Cây cầu nối quan trọng của âm nhạc điện tử địa phương
 
-Năm 1990, **Lâm Cường (Lim Giong)** gây chấn động làng nhạc với album rock tiếng Đài _Tiến lên phía trước_. Sau đó, ông dần chuyển sang nhạc điện tử và hợp tác cùng các đạo diễn như Hầu Hiếu Hiền, viết nhạc cho nhiều bộ phim Đài Loan bằng cách hòa trộn âm thanh truyền thống với chất liệu điện tử. Con đường đi từ rock đại chúng đến thể nghiệm điện tử rồi nhạc phim của Lâm Cường là một trong những điểm nối sớm nhất, có sức ảnh hưởng rộng nhất giữa nhạc điện tử với bản địa Đài Loan. Ông cũng là một trong số ít nghệ sĩ giúp giới âm nhạc quốc tế hiểu nhạc điện tử qua chính bối cảnh Đài Loan.[^6]
+Năm 1990, **Lin Qiang** (Lim Giong) với album nhạc rock bằng tiếng Tâm âm "Hướng Tới Phía Trước" đã gây sốt nhịp nhạc. Từ năm 1993, công tác của ông dần chuyển hướng về âm nhạc điện tử, đồng thời còn sáng tác nhạc nền cho các bộ phim của đạo diễn như Hou Hsiao-hsien. [^6] Hành trình của ông từ rock pop bằng tiếng Tâm âm đến thử nghiệm điện tử, rồi cuối cùng là sáng tác nhạc nền phim.
 
-## Những bước đầu thương mại hóa (2000–2010): từ ngầm lên mặt đất
+## Sự nảy mầm thương mại (2000-2010): Từ underground lên thị trường chính thống
 
-### Văn hóa hộp đêm trỗi dậy và những đợt truy quét
+### Sự bùng nổ và trấn áp của văn hóa quán nhảy
 
-Đầu những năm 2000, đời sống về đêm tại Đài Loan mở rộng. Nhạc điện tử rời các nhà kho ngầm để đi vào những hộp đêm hợp pháp và tiếp cận đông đảo công chúng hơn. Khu Tín Nghĩa và khu Đông ở Đài Bắc trở thành các cứ điểm mới; house, trance, drum & bass và breakbeat đều tìm được người nghe riêng, còn nghề DJ dần chuyển từ thú vui nghiệp dư thành một con đường chuyên nghiệp.
+Đầu những năm 2000, quy mô văn hóa đời sống đêm ở Đài Loan mở rộng, âm nhạc điện tử chuyển từ các bữa tiệc ngoài trời và quán nhỏ lên các quán nhảy lớn hơn, tiếp cận khán giả rộng hơn. Các quán nhảy chính thức ở khu Xinyi ở Đài Bắc và các quán underground phát triển độc lập, các thể loại như House, Trance, Drum & Bass, Breakbeat tìm được khán giả riêng. Văn hóa DJ cũng chuyển từ sở thích cá nhân sang nghề nghiệp.
 
-Tuy nhiên, **các đợt truy quét thuốc lắc MDMA giai đoạn 2003–2005** là bước ngoặt quan trọng. Cảnh sát đồng loạt kiểm tra những hộp đêm và không gian tiệc tùng quy mô lớn, khiến một số địa điểm phải đóng cửa và các bữa tiệc ngầm thu hẹp đáng kể. Cộng đồng buộc phải hoạt động phân tán và kín đáo hơn. Sự kiểm soát này đẩy nhanh quá trình phân hóa của nhạc điện tử Đài Loan: khoảng cách giữa các hộp đêm thương mại quy mô lớn và thế giới underground chuyên sâu từ đó ngày càng rộng.
+Tuy nhiên, **từ năm 2003, cảnh sát bắt đầu kiểm tra thường xuyên các quán nhảy điện tử** là một dấu mốc quan trọng trong sự phát triển của cảnh quan. Cảnh sát mỗi cuối tuần đến kiểm tra các con hướng chất cấm, và sau buổi tiệc tạm biệt vào tháng 1 năm 2004, TeXound đã đóng cửa. [^7] Các quán nhảy thương mại lớn và cộng đồng underground từ đó chia hướng đi khác nhau.
 
-Cùng thời kỳ, **các bữa tiệc queer LGBT** cũng âm thầm phát triển. Lấy khu vực quảng trường Nhà Đỏ Ximending ở Đài Bắc làm trung tâm, những bữa tiệc này kết nối năng lượng của nhạc điện tử với giải phóng giới và tính dục. Chúng trở thành một trong những nhánh sôi động, gắn kết cộng đồng mạnh nhất của nhạc điện tử Đài Loan, với ảnh hưởng kéo dài đến bản đồ sự kiện ngày nay.
+**Bữa tiệc cộng đồng LGBT queer** gần như sinh ra cùng thời gian với âm nhạc điện tử tại Đài Loan. Từ năm 1995, Victor Cheng tổ chức bữa tiệc Paradise tại Underground, được coi là loạt bữa tiệc đồng tính thường xuyên đầu tiên tại Đài Loan. [^2] Vào cuối những năm 1990, khu vực quanh tòa nhà đỏ ở Tây Gate cũng trở thành nơi ưa thích của cộng đồng đồng tính nhờ môi trường kín đáo. [^8]
 
-### Trao đổi quốc tế sâu rộng hơn
+### Sâu rộng hơn trong hợp tác quốc tế
 
-Internet phổ biến cùng sự tiến bộ của phần mềm sản xuất âm nhạc đã mở thêm cơ hội để nghệ sĩ điện tử Đài Loan kết nối với thế giới. Một số DJ bắt đầu được mời biểu diễn ở nước ngoài; đồng thời, ngày càng nhiều DJ quốc tế đến Đài Loan, làm tăng mật độ trao đổi trong cộng đồng địa phương.
+Sự phổ biến của internet và sự phát triển của phần mềm sản xuất âm nhạc đã tạo cơ hội cho các nhà sáng tạo âm nhạc điện tử tại Đài Loan tiếp cận với cộng đồng quốc tế. Một số DJ bắt đầu được mời biểu diễn ở nước ngoài, đồng thời nhiều DJ quốc tế đến Đài Loan, tăng cường mứ độ giao lưu trong cảnh quan địa phương.
 
-## Thời đại quốc tế hóa (2010 đến nay): dấu chân toàn cầu của nhạc điện tử Đài Loan
+## Thời đại quốc tế hóa (2010 - nay): Dấu ấn toàn cầu của âm nhạc điện tử Đài Loan
 
-### Cột mốc Road to Ultra
+### Cột mốc lịch sử của Road to Ultra
 
-Trên trục lễ hội, **Spring Scream** được tổ chức hằng năm tại Kenting từ năm 1995. Dù lấy rock làm chủ đạo, sự kiện vẫn dành sân khấu cho nhạc dance điện tử và là một trong những nơi đầu tiên ở Đài Loan đưa dòng nhạc này vào bối cảnh lễ hội quy mô lớn. Năm 2013, Ultra Music Festival lần đầu tổ chức “Road to Ultra Taiwan”, đánh dấu lúc nhạc điện tử Đài Loan bước vào tầm nhìn của dòng chính quốc tế. Sau đó, các lễ hội lớn do Đài Loan tổ chức như Looptopia lần lượt xuất hiện, thu hút người yêu nhạc điện tử từ khắp châu Á. Nhờ vậy, Đài Bắc xác lập vị trí trên bản đồ nhạc điện tử khu vực, còn nghệ sĩ trong nước có thêm cơ hội đứng chung sân khấu với DJ quốc tế.[^2]
+Trong bức tranh các lễ hội âm nhạc lớn, **Spring Scream** từ năm 1995 đến 2019 được tổ chức hàng năm tại Kenting, chủ yếu là nhạc rock. Năm 2014, Ultra Music Festival lần đầu đến Đài Loan với Road to Ultra, và năm 2018, nó được nâng cấp thành Ultra Taiwan. [^9] Năm 2017, lễ hội âm nhạc điện tử đa ngày đa sân khấu địa phương đầu tiên tại Đài Loan Looptopia ra mắt, thu hút 32.000 người trong lần đầu. [^10] Những sân khấu này cũng cơ hội cho các nghệ sĩ điện tử địa phương trình diễn cùng DJ quốc tế.
 
-### DJ Đài Loan vươn ra quốc tế
+### Sự bứt phá quốc tế của DJ Đài Loan
 
-Hai DJ tiêu biểu của Đài Loan bước lên sân khấu quốc tế trong giai đoạn này. **Sonia Calico** được cộng đồng nữ DJ quốc tế công nhận nhờ gu âm nhạc tinh tế và kỹ thuật chuyên nghiệp. **RayRay** thường xuyên được mời tới các lễ hội quốc tế nhờ phong cách biểu diễn sáng tạo. Cả hai đều nhận được sự chú ý của những kênh truyền thông nhạc điện tử như Resident Advisor, trở thành các gương mặt Đài Loan có độ nhận diện cao ở nước ngoài và là điểm tham chiếu cụ thể cho thế hệ nghệ sĩ mới.[^3]
+Hai DJ từ Đài Bắc đã bước vào trường quốc tế trong giai đoạn này: **Sonia Calico** lớn lên ở Đài Bắc, vẫn dựa trên Đài Bắc như trung tâm hoạt động, tự thành lập nhãn hàng UnderU, hợp tác với các nhà sản xuất ở Đài Bắc, Bắc Kinh và Tokyo. [^11] **RayRay** từng tham gia các cuộc thi DJ ở châu Á và Canada, và năm 2013 giành chiến thắng tại Red Bull Thre3style tại Đài Loan. [^12]
 
-### Tinh thần thể nghiệm của nghệ sĩ điện tử độc lập
+### Tinh thần thử nghiệm của các nhãn hàng điện tử độc lập
 
-Song song với sự phát triển của các lễ hội dòng chính, Đài Loan cũng có những nghệ sĩ độc lập nổi tiếng vì tinh thần thể nghiệm. **Meuko! Meuko!** là dự án cá nhân được giới nhạc điện tử thể nghiệm quốc tế chú ý nhờ các thử nghiệm âm thanh tiên phong và hợp tác liên ngành. Tác phẩm của cô pha trộn noise, ambient và chất liệu âm nhạc truyền thống phương Đông, đồng thời được phát hành cùng nhiều nhãn đĩa quốc tế.[^4] Trong cộng đồng địa phương, những cửa hàng đĩa như Vacation Records cũng đóng vai trò điểm nối, liên kết văn hóa sưu tầm vinyl với giới sáng tác nhạc điện tử.
+Ngoài các lễ hộu lớn chính thống, Đài Loan cũng có những nghệ sĩ đi theo hướng thử nghiệm. **Meuko! Meuko!** là dự án cá nhân của nghệ sĩ Đài Bắc Pon, kết hợp tiếng ồn, âm thanh trường và âm thanh truyền thống, ra mắt trên nhãn hàng Danse Noire vào năm 2018, được chú ý trong cộng đồng điện tử thử nghiệm quốc tế. [^13] Cô cũng là một trong năm nghệ sĩ Đài Loan được tích hợp vào tuyển tập của nhãn hàng Sea Cucumber "FINAL Taipei Compilation". [^14]
 
-## Phát triển và thách thức đương đại
+## Phát triển hiện tại và thách thức
 
-### Chuyển đổi trực tuyến trong đại dịch
+### Sự chuyển giao của các câu lạc bộ trước và sau đại dịch
 
-Sau khi đại dịch bùng phát năm 2020, các bữa tiệc và lễ hội âm nhạc truyền thống chịu ảnh hưởng nặng nề. Cộng đồng nhạc điện tử Đài Loan phát triển những hình thức mới như phát trực tiếp DJ set và lễ hội ảo để duy trì sự gắn kết.[^5]
+Năm 2020, đại dịch khiến hầu hết các bữa tiệc và lễ hội âm nhạc tạm ngưng. Vào tháng 11 cùng năm, Road to Ultra: Taiwan trở thành buổi lễ hội lớn đầu tiên của Ultra sau khi đại dịch bùng phát. [^15]
 
-Sau COVID-19, nhiều địa điểm lâu năm đi vào lịch sử. **Korner**, nằm dưới tầng hầm ở quận Đại An, từng là điểm trung tâm của techno và house underground Đài Bắc trong thập niên 2010. Nơi đây nổi tiếng với tiêu chuẩn chọn nhạc khắt khe và những bữa tiệc marathon kéo dài từ đêm khuya đến sáng, được đánh giá cao trong cộng đồng nhạc điện tử châu Á, nhưng đã đóng cửa sau đại dịch. Cùng thời, **Pawnshop** và **Pipe** góp phần dựng nên hệ sinh thái underground Đài Bắc bằng những định hướng âm nhạc riêng; **Final** thiên về biểu diễn trực tiếp và tạo sân khấu cho nhạc điện tử thể nghiệm. Khi lớp địa điểm này lần lượt khép lại, những không gian thế hệ mới và các bữa tiệc pop-up không định kỳ tiếp quản vai trò cộng đồng của họ.
+Điểm xuất phát của âm nhạc điện tử underground hiện đại tại Đài Bắc là **Korner**, một câu lạc bộ tầng hầm trên phố Roosevelt, là không gian chuyên dụng cho âm nhạc điện tử độc lập đầu tiên tại Đài Bắc. [^16] Nó đóng cửa vào năm 2019, trước cả sự bùng phát của đại dịch. Sau đó, một loạt câu lạc bộ tiếp nối: cùng một nhóm người trong tháng 12 năm 2019 mở **Pawnshop**, [^17] **Final** khai trương vào năm 2018, [^14] cùng với Grey Area, Studio 9, ngoại trừ một nơi, tất cả đều vượt qua được hạn chế của đại dịch nhờ bán vé trước cho khách hàng thân thương. [^18]
 
-Nhạc điện tử Đài Loan cũng đang tìm kiếm một phong cách địa phương rõ nét hơn. Một số nghệ sĩ phối lại ca khúc tiếng Đài và tiếng Khách Gia hoặc đưa mẫu âm thanh của nhạc cụ truyền thống vào sản phẩm điện tử, nhằm xây dựng một ngôn ngữ “nhạc điện tử kiểu Đài Loan” có gốc rễ tại chỗ.
+Âm nhạc điện tử tại Đài Loan cũng đang khám phá những phong cách địa phương mạnh mẽ hơn: một số nghệ sĩ remix các bài hát bằng tiếng Tâm âm hoặc khai thác âm thanh của nhạc cụ truyền thống, nỗ lực xây dựng ngôn ngữ âm nhạc điện tử mang tính địa phương.
 
 ## Tài liệu tham khảo
 
-[^1]: [Resident Advisor — Taiwan](https://ra.co/promoters/tw) — cơ sở dữ liệu sự kiện nhạc điện tử Đài Loan của RA, gồm tư liệu về lịch sử tiệc ngầm và các địa điểm.
+[^1]: [Soundtraces — dòng thời gian rave](https://soundtraces.tw/en/tag/rave-en/) — Buổi rave đầu tiên trên kênh chảy Erhching năm 1995, Taipei Tribal Massive ở hồ Meihua năm 1996, ra mắt tạp chí PLUR năm 1997.
 
-[^2]: [Trang chính thức của Looptopia Festival](https://looptopia.com.tw/) — thông tin về lễ hội nhạc điện tử Đài Loan và danh sách nghệ sĩ qua các năm.
+[^2]: [Victor Cheng interview — Electric Soul／New Bloom](https://nomanisanis.land/victor-cheng-interview/) — Bữa tiệc Paradise từ năm 1995, loạt bữa tiệc đồng tính thường xuyên đầu tiên tại Đài Loan; Twilight Zone nằm gần khu mua sắm Guanghua trên đường Songjiang.
 
-[^3]: [Sonia Calico — hồ sơ trên Resident Advisor](https://ra.co/dj/soniacalico) — giới thiệu và lịch sử biểu diễn của DJ Sonia Calico trên truyền thông nhạc điện tử quốc tế.
+[^3]: [PLUR — Wikipedia](https://en.wikipedia.org/wiki/PLUR) — PLUR là nguyên tắc của văn hóa rave, xuất phát từ Mỹ, lan truyền vào đầu những năm 1990.
 
-[^4]: [Meuko! Meuko! — Bandcamp](https://meukomeukomusicclub.bandcamp.com/) — các tác phẩm và thông tin hợp tác với hãng đĩa của Meuko! Meuko!.
+[^4]: [TeXound — Soundtraces](https://soundtraces.tw/?p=100523) — TeXound được thành lập năm 1998 bởi DJ Tiger và Chin.
 
-[^5]: [Thông tin chính thức Road to Ultra Taiwan](https://ultrataiwan.com/) — lịch sử các kỳ Ultra Music Festival tại Đài Loan.
+[^5]: [Roxy 99 chuyển đi — Taipei Times，2013-09-20](https://taipeitimes.com/News/feat/archives/2013/09/20/2003572559) — ROXY 99 rời khỏi tầng hầm trên đường Nanjin South, chuyển về đường Xingya South.
 
-[^6]: [Lâm Cường — hồ sơ Giải Kim Khúc](https://www.gca.gov.tw/) — thành tích nhạc phim và các tác phẩm giao thoa điện tử của Lâm Cường.
+[^6]: [Lim Giong — Wikipedia](https://en.wikipedia.org/wiki/Lim_Giong) — Năm 1990 "Hướng Tới Phía Trước", từ năm 1993 chuyển hướng về điện tử, sáng tác nhạc nền cho các đạo diễn như Hou Hsiao-hsien.
+
+[^7]: [TeXound chịu áp lực từ cảnh sát — Taipei Times，2004-01-09](https://taipeitimes.com/News/feat/archives/2004/01/09/2003086984) — Cảnh sát kiểm tra thường xuyên mỗi cuối tuần, TeXound đóng cửa.
+
+[^8]: [Tòa nhà đỏ ở Tây Gate — United Daily News](https://udn.com/news/story/120910/7754853) — Khu vực quanh tòa nhà đỏ vào cuối những năm 1990 trở thành nơi ưa thích của cộng đồng đồng tính nhờ môi trường kín đáo.
+
+[^9]: [Ultra Taiwan trở lại sau 5 năm — Taiwan English News](https://www.taiwannews.com.tw/zh/news/4857911) — Năm 2014 với Road To Ultra lần đầu đến Đài Loan, năm 2018 nâng cấp thành Ultra Taiwan.
+
+[^10]: [LOOPTOPIA ra mắt thành công — Mixmag Asia，2017-04-18](https://mixmag.asia/read/looptopia-triumphantly-debuted-to-a-crowd-of-32-000-in-taiwan-features) — Lễ hội âm nhạc điện tử đa ngày đa sân khấu địa phương đầu tiên tại Đài Loan, lần đầu thu hút 32.000 người.
+
+[^11]: [Sonia Calico interview — The FADER，2017-02-02](https://www.thefader.com/2017/02/02/sonia-calico-interview) — Lớn lên ở Đài Bắc, dựa trên Đài Bắc, tự thành lập nhãn hàng UnderU.
+
+[^12]: [RayRay — infomag，2017-05](https://infomag.es/2017/05/rayray-omni-club-tw-tifon-creativo/) — Từng tham gia các cuộc thi DJ ở châu Á và Canada, năm 2013 giành chiến thắng tại Red Bull Thre3style tại Đài Loan.
+
+[^13]: [Meuko! Meuko! — Gray Area](https://grayarea.org/?p=44971) — Dự án cá nhân của nghệ sĩ Đài Bắc Pon, ra mắt trên nhãn hàng Danse Noire năm 2018.
+
+[^14]: [FINAL Taipei Compilation — Taiwan English News](https://www.taiwannews.com.tw/news/4845857) — Tuyển tập của nhãn hàng Sea Cucumber tích hợp Meuko! Meuko! và bốn nghệ sĩ Đài Loan khác, câu lạc bộ FINAL thành lập năm 2018.
+
+[^15]: [Ultra Music Festival — Wikipedia](https://en.wikipedia.org/wiki/Ultra_Music_Festival) — Năm 2020 tháng 11, Road to Ultra: Taiwan là buổi lễ hội lớn đầu tiên của Ultra sau đại dịch.
+
+[^16]: [Venue Spotlight: Korner — Mixmag Asia](https://mixmag.asia/read/venue-spotlight-korner-venue-spotlight) — Không gian chuyên dụng cho âm nhạc điện tử độc lập đầu tiên tại Đài Bắc.
+
+[^17]: [Pawnshop mở cửa tại Đài Bắc — Mixmag Asia，2019-12-03](https://mixmag.asia/read/pawnshop-opens-in-taipei-as-a-3-room-venue-dedicated-to-underground-music-1-local) — Câu lạc bộ ba phòng của nhóm người từ Korner.
+
+[^18]: [Techno tìm chỗ đứng trong cảnh quan nghệ thuật tại Đài Bắc — AmCham Taiwan，2023-03](https://topics.amcham.com.tw/2023/03/techno-finds-its-place-in-taipeis-art-scene/) — Korner đóng cửa năm 2019, các câu lạc bộ mở ra sau đó ngoại trừ một nơi đều vượt qua được hạn chế của đại dịch.
 
 ## Đọc thêm
 
-- [Resident Advisor — Taiwan](https://ra.co/promoters/tw) — cơ sở dữ liệu Đài Loan của truyền thông nhạc điện tử quốc tế
-- [Looptopia Festival](https://looptopia.com.tw/) — trang chính thức của lễ hội nhạc điện tử Đài Loan
+- [Soundtraces](https://soundtraces.tw/) — Cơ sở dữ liệu âm thanh sau chiến tranh thương nhất của Đài Loan, bao gồm dòng thời gian của âm nhạc điện tử và rave
+- [Resident Advisor — Taiwan](https://ra.co/promoters/tw) — Cơ sở dữ liệu của truyền thông âm nhạc điện tử quốc tế về Đài Loan
