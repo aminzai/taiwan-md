@@ -1,7 +1,7 @@
 # 2026-10-03-064158-twmd-spore-harvest-am — 兩個動態頁都沒有新留言，李洋那支聚合仍停在 1.5 萬，合法空場
 
 > session twmd-spore-harvest-am — cron 06:30 daily audience flywheel cycle
-> Session span: 06:30 → 06:50 +0800（約 20 分鐘，1 commit，memory 與索引）
+> Session span: 06:30 → 06:42 +0800（約 12 分鐘，1 commit，memory 與索引）
 > 資料來源：`date`、`session-id.sh`、動態頁 `get_page_text`
 
 ## 觸發
@@ -63,7 +63,7 @@
 
 ---
 
-_v1.0 | 2026-10-03 06:50 +0800_
+_v1.0 | 2026-10-03 06:42 +0800_
 _session twmd-spore-harvest-am — cron 06:30；窗口內無孢子，兩個動態頁掃完無新留言，合法空場_
 _誕生原因：每日孢子回聲收割例行 cron，STRICT BECOME GATE＋SPORE-HARVEST-PIPELINE v3.2_
 _核心洞察：(1) 現役批次全數過窗時，動態頁是唯一入口，空場也要寫清楚看了哪兩頁 (2) 殼層 `git add -u` 在 babel 並行寫檔時照字面跑會越界，第七班繞開_
