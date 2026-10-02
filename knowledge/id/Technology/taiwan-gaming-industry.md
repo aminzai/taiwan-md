@@ -1,155 +1,154 @@
 ---
-title: 'Industri Permainan Taiwan dan Hiburan Digital'
-description: 'Dari agen awal hingga pengembang orisinal, bagaimana Taiwan menemukan suaranya di pasar permainan global'
+title: 'Industri Permainan dan Hiburan Digital Taiwan'
+description: 'Dari agen awal hingga pengembang asli, bagaimana Taiwan menemukan suaranya di pasar permainan global'
 date: 2026-03-18
 category: 'Technology'
 tags:
   [
-    'industri game',
+    'industri permainan',
     'hiburan digital',
-    'budaya kreatif',
-    'teknologi',
-    'game independen',
+    'kreatif budaya',
+    'industri teknologi',
+    'permainan independen',
   ]
-subcategory: '半導體與硬體'
+subcategory: '數位娛樂'
 readingTime: 11
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Technology/台灣遊戲產業與數位娛樂.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:431ea1bf9d43ad2f'
-sourceBodyHash: 'sha256:3075ecd0a9c35ac1'
-translatedAt: '2026-10-02T09:16:45+08:00'
+sourceCommitSha: '38b58ab04'
+sourceContentHash: 'sha256:d2d08f4f883aa3cc'
+sourceBodyHash: 'sha256:6159201bd426eed7'
+translatedAt: '2026-10-03T02:34:19+08:00'
 ---
 
-# Industri Permainan Taiwan dan Hiburan Digital
+# Industri Permainan dan Hiburan Digital Taiwan
 
-## Tinjauan Singkat (30 Detik)
+## Ringkasan 30 Detik
 
-Industri permainan Taiwan, yang dimulai dari kegiatan agensi pada tahun 1980-an, telah berkembang menjadi basis hiburan digital yang penting. Pada tahun 2024, nilai industri permainan dan esports di Taiwan mencapai NT$126 miliar, dengan tingkat pertumbuhan majemuk tahunan sebesar 4,8%. Dari penerbit mapan seperti Soft-World International (智冠) dan Game Orange (遊戲橘子), hingga pengembang orisinal seperti Rayark Games (赤燭遊戲) dan Rayark Games (雷亞遊戲), industri permainan Taiwan bergerak menuju jalur ganda: "orisinalitas budaya" dan "penetrasi global".
+Industri permainan Taiwan bermula dari bisnis agen pada 1980-an, berkembang hingga menjadi basis hiburan digital penting. PwC memperkirakan nilai industri permainan video dan e-sports Taiwan tahun 2024 sekitar 1.260 miliar dolar Taiwan baru, dengan tingkat pertumbuhan tahunan majemuk 4,8% pada periode 2022–2027. Dari penerbit lama seperti Softstar dan Gamania, hingga pengembang asli seperti Red Candle Games dan Rayark, industri permainan Taiwan kini bergerak pada dua jalur sekaligus: "asli budaya" dan "penyebaran global".
 
-**Kata Kunci:** Rayark Games, Rayark Games, Soft-World International, Game Orange, IP Budaya Taiwan, game independen
+**Kata kunci:** Red Candle Games, Rayark Games, Softstar, Gamania, IP budaya Taiwan, permainan independen
 
 ## Mengapa Ini Penting
 
-Kebangkitan industri permainan Taiwan melambangkan transisi dari "pola pikir manufaktur" menuju "ekonomi kreatif". Ketika industri semikonduktor unggul dalam perangkat keras, industri permainan maju dengan kekuatan lunak—menggabungkan warisan budaya, selera estetika, dan kemampuan teknis Taiwan untuk menciptakan konten digital yang unik.
+Kebangkitan industri permainan Taiwan melambangkan transformasi dari "pemikiran OEM" ke "ekonomi kreatif". Saat industri manufaktur semikonduktor unggul di perangkat keras, industri permainan menyerbu dengan kekuatan lunak — menggabungkan warisan budaya, selera estetika, dan kemampuan teknis Taiwan menciptakan konten digital unik.
 
-_School Days_ (返校) menunjukkan sejarah masa darurat militer Taiwan kepada dunia, sementara _Cytus_ menaklukkan pemain global melalui game musik. Karya-karya ini memiliki nilai hiburan sekaligus kekuatan transmisi budaya, memungkinkan Taiwan bercerita ke dunia menggunakan bahasa permainan. Di era AI dan metaverse, industri permainan semakin menjadi laboratorium eksperimental penting untuk mengeksplorasi integrasi fisik dan virtual.
+_Detention_ (_返校_) memperlihatkan sejarah hukum darurat Taiwan ke dunia, _Cytus_ menaklukkan pemain global lewat permainan musik; karya-karya ini memiliki nilai hiburan sekaligus daya serang budaya, memungkinkan Taiwan bercerita ke internasional lewat bahasa permainan. Di era AI dan metaverse, industri permainan justru menjadi laboratorium penting mengeksplorasi integrasi virtual-fisik dan pengalaman imersif.
 
-## Gambaran Umum Industri dan Skala
+## Gambaran Umum dan Skala Industri
 
 ### Data Pasar
 
-Menurut laporan PwC _Global Entertainment & Media Outlook 2024_ [^1], nilai industri permainan dan esports di Taiwan pada tahun 2024 mencapai USD 3,886 miliar (sekitar NT$126 miliar). Tingkat pembayaran pemain Taiwan tinggi; meskipun pasar lokal kecil, ia menarik perhatian perusahaan game internasional untuk mencoba peruntungan karena kecenderungan mengadopsi produk baru sejak dini.
+Berdasarkan laporan PwC terbit Juli 2024[^1][^5], nilai industri permainan video dan e-sports Taiwan 2024 diperkirakan mencapai 3,886 miliar dolar AS (sekitar 1.260 miliar dolar Taiwan baru), cakupan perhitungan meliputi permainan sosial & santai, video game tradisional, permainan PC, iklan video game, dan e-sports.
 
-Tingkat pertumbuhan tahunan yang diproyeksikan untuk pasar permainan Taiwan dari 2022–2027 adalah 4,8%, dengan nilai diperkirakan mencapai USD 4,464 miliar pada tahun 2027 (Laporan PwC 2024 [^1]). Dibandingkan dengan pasar game global yang bernilai sekitar USD 184,3 miliar pada tahun 2024 (Laporan Newzoo 2024 [^2]), Taiwan menyumbang lebih dari 2% nilai pasar dengan populasi kurang dari 0,4% dari dunia.
+Tingkat pertumbuhan tahunan majemuk pasar permainan Taiwan 2022–2027 diperkirakan 4,8%, diproyeksikan 2027 nilai mencapai 4,464 miliar dolar AS (laporan PwC 2024[^1]). Dibandingkan estimasi Newzoo pasar game global 2024 sekitar 187,7 miliar dolar AS[^2], kedua laporan memiliki cakupan perhitungan tidak sepenuhnya sama, namun dari segi kuantitas, Taiwan dengan populasi kurang 0,4% dunia, menguasai sekitar 2% pangsa pasar.
 
 ### Struktur Industri
 
-Industri permainan Taiwan dapat dibagi menjadi tiga jenis utama:
+Industri permainan Taiwan terbagi tiga kategori besar:
 
-**Penerbit Besar:** Soft-World International (智冠), yang didirikan pada tahun 1983 [^6], Game Orange (遊戲橘子), dan Gaisang Electronics (鈊象電子), terutama terlibat dalam distribusi agen game dan operasi platform.
+**Penerbit besar:** Softstar (didirikan 1983[^6]), Gamania (didirikan 1995, berganti nama 1999), utamanya bergerak di agen penerbitan permainan dan operasi platform.
 
-**Pengembang Orisinal:** Rayark Games (雷亞遊戲), Rayark Games (赤燭遊戲), dan Jia Shanlin Entertainment (甲山林娛樂), yang berfokus pada penelitian dan pengembangan mandiri serta penciptaan IP.
+**Pengembang asli:** Softstar Entertainment (didirikan 1989, karya ternama seri _The Legend of Three Kingdoms_), Rayark Games, Red Candle Games, XPEC Entertainment, difokuskan pada R&D mandiri dan penciptaan IP.
 
-**Studio Independen:** Ratusan tim kecil yang merilis karya orisinal di platform Steam dan seluler, membentuk ekosistem game independen yang aktif.
+**Studio independen:** Ratusan tim kecil, menerbitkan karya asli di Steam dan platform mobile, membentuk ekosistem permainan independen yang aktif.
 
-## Evolusi Industri dari Agensi ke Orisinalitas
+## Evolusi Industri: Dari Agen ke Asli
 
-### Era Agensi dan Orisinalitas (1980-2000-an)
+### Era Asli dan Agen (1980–2000-an)
 
-Industri permainan Taiwan berawal dari bisnis agensi. Guangju Jincheng United Co., Ltd. (光聚晶電聯合股份有限公司), yang didirikan pada tahun 1988, merilis game peran berbahasa Mandarin pertama, _Sword of Heaven_ (軒轅劍), pada tahun 1990. Kemudian, mereka meluncurkan _Tales of Immortal_ (仙劍奇俠傳) pada tahun 1995, membangun reputasi "pedang ganda" Guangju. Pada periode yang sama, Soft-World International (智冠), setelah didirikan pada tahun 1983, menjadi saluran perangkat lunak game terbesar di Taiwan dan pernah mengagen _World of Warcraft_ selama 10 tahun. Mereka kemudian mulai membuat game sendiri. Game Orange (遊戲橘子) memulai dari agensi game online Korea, memperkenalkan karya klasik seperti _The Heaven_ (天堂) dan _MapleStory_ (楓之谷) ke pasar Taiwan.
+Industri permainan Taiwan bermula dari bisnis agen. Softstar Technology (kini berganti nama United Microelectronics Corporation) didirikan 1988[^8], 1990 menerbitkan RPG _Xuan-Yuan Sword_. 1995 lagi menerbitkan _The Legend of Sword and Fairy_ menegaskan merek "Dua Pedang Softstar". Serentak Softstar didirikan 1983, menjadi distributor utama perangkat lunak game Taiwan, kemudian lewat anak perusahaan Softstar Digital mengelola operasi _World of Warcraft_ Taiwan-Hong Kong-Makau hampir sepuluh tahun (2005–2015). Kemudian mulai ada game buatan sendiri. Gamania bermula dari agen game online Korea, memperkenalkan _Lineage_, _MapleStory_ dan klasik lain ke pasar Taiwan.
 
-Fase ini membangun infrastruktur industri permainan Taiwan: saluran distribusi, komunitas pemain, dan teknologi operasional, tetapi energi kreatif sebagian besar berasal dari luar negeri.
+Tahap ini membangun infrastruktur dasar industri game Taiwan: saluran penerbitan, komunitas pemain, teknologi operasi, namun energi kreatif utamanya datang dari luar negeri.
 
-### Periode Transisi (2000-an–2010-an)
+### Masa Transisi (2000–2010-an)
 
-Dengan munculnya game online, perusahaan Taiwan mulai mencoba pengembangan mandiri. Gaisang Electronics (鈊象電子) membangun keunggulan di bidang game taruhan, dan Soft-World (yang kemudian diakuisisi oleh Soft-World International [智冠]) merilis banyak game online lokal.
-Genre juga mulai menampilkan karya selain wuxia, seperti seri _Wind Color Fantasy_ (風色幻想) dari Hongyu Technology (弘煜科技), yang mengikuti jalur berbeda dengan gaya Jepang dan latar fantasi.
-Namun, karya orisinal pada periode ini sebagian besar meniru model sukses luar negeri, kekurangan identitas budaya yang unik. Terobosan sejati baru terjadi di generasi berikutnya.
+Seiring bangkitnya game online, pelaku industri Taiwan mulai mencoba pengembangan mandiri. Bidang tema pun muncul karya di luar武俠 (wuxia), misalnya _Empire of Angels_ karya UserJoy Technology dengan gaya Jepang ditambah setting fantasi membuka jalur berbeda.
+Namun karya asli masa itu banyak meniru model sukses luar negeri, kekurangan identitas budaya khas. Terobosan nyata harus menunggu generasi berikutnya.
 
-### Kebangkitan Orisinalitas (2010-an hingga Sekarang)
+### Kebangkitan Asli (2010-an hingga kini)
 
-Sejak tahun 2010-an, Taiwan mulai menampilkan karya permainan yang benar-benar orisinal dan memiliki ciri khas budaya:
+2010-an mulai muncul karya game Taiwan yang benar-benar memiliki kreativitas dan ciri budaya:
 
-**Rayark Games (雷亞遊戲)** didirikan pada tahun 2011, merilis game ritme musik seperti _Cytus_ dan _Deemo_, menaklukkan pemain global dengan desain visual yang halus dan musik yang indah. Karya mereka mengandung latar belakang artistik yang kental dan plot orisinal, menunjukkan selera unik Taiwan dalam estetika digital.
+**Rayark Games** didirikan 2011, meluncurkan _Cytus_, _Deemo_ dan game ritme musik lain, menaklukkan pemain global lewat desain visual halus dan musik indah. Karyanya mengandung kedalaman seni dan alur cerita asli, menampilkan selera estetika digital khas Taiwan.
 
-**Rayark Games (赤燭遊戲)** didirikan pada tahun 2015, terkenal dengan game petualangan horor seperti _School Days_ (返校) dan _The Wish_ (還願). Karya-karya ini menggali secara mendalam sejarah dan budaya Taiwan, mengubah memori kolektif dari periode darurat militer dan kepercayaan rakyat Taiwan menjadi pengalaman bermain game, memungkinkan pemain asing mengenal Taiwan melalui hiburan interaktif. _School Days_ terjual lebih dari satu juta eksemplar secara global dan diadaptasi menjadi film dengan judul yang sama pada tahun 2019.
+**Red Candle Games** didirikan 2015, terkenal lewat _Detention_ (_返校_), _Devotion_ (_還願_) game petualangan horor. Karya-karya ini menggali mendalam sejarah budaya Taiwan, mengubah kenangan kolektif masa hukum darurat dan kepercayaan rakyat Taiwan menjadi pengalaman game, memungkinkan pemain asing mengenal Taiwan lewat hiburan interaktif. _Detention_ 2019 diadaptasi jadi film berjudul sama.
 
-## Karakteristik Budaya Permainan Taiwan
+## Ciri Budaya Permainan Taiwan
 
-### Digitalisasi Memori Sejarah
+### Digitalisasi Kenangan Sejarah
 
-_School Days_ (返校) berlatar pada Teror Putih tahun 1960-an, menampilkan penindasan di bawah pemerintahan otoriter melalui suasana horor sekolah. Sementara _The Wish_ (還願) menggambarkan keluarga Taiwan di tahun 1980-an, membungkus kecemasan kota modern dengan elemen agama rakyat. Karya-karya ini mengubah pengalaman sejarah khas Taiwan menjadi konten digital yang dapat dialami.
+_Detention_ berlatar 1960-an White Terror, menampilkan tekanan di bawah pemerintahan otoriter lewat suasana horor sekolah. _Devotion_ menggambarkan keluarga Taiwan 1980-an, membungkus kecemasan modern perkotaan dengan elemen agama rakyat. Karya-karya ini mengubah pengalaman sejarah khas Taiwan menjadi konten digital yang bisa dirasakan.
 
 ### Estetika Musik dan Visual
 
-Kesuksesan Rayark Games menunjukkan keunggulan Taiwan dalam bidang game musik. Seri _Cytus_ adalah album musik elektronik interaktif, di mana pemain tidak hanya menekan titik ketukan tetapi juga membuka narasi per bagian. Desain visualnya memadukan fiksi ilmiah dan estetika Timur, membentuk gaya "Zen Digital" yang unik.
+Sukses Rayark Games menunjukkan keunggulan Taiwan di bidang game musik. Seri _Cytus_ seperti album musik elektronik interaktif, pemain sambil mengetuk node juga bisa membuka narasi bertahap. Desain visualnya memadukan sci-fi dan estetika Timur, membentuk gaya "Zen digital" yang unik.
 
-### Kecanggihan Skala Kecil (Small but Beautiful)
+### Kecil Tapi Indah, Halus dan Tepat
 
-Dibandingkan dengan produksi kelas AAA dari perusahaan besar Eropa/Amerika atau produksi massal komersial dari Jepang/Korea, permainan Taiwan cenderung mengadopsi jalur "kecil namun indah". Anggaran terbatas mendorong pengembang untuk fokus pada kreativitas dan estetika, yang justru menciptakan nilai artistik yang unik.
+Berbanding produksi AAA Barat atau produksi massal komersial Jepang-Korea, game Taiwan banyak mengambil jalur "kecil tapi indah". Anggaran terbatas mendorong pengembang fokus pada kreativitas dan estetika, justru menciptakan nilai seni yang unik.
 
-## Inovasi Teknologi dan Kolaborasi Lintas Batas
+## Inovasi Teknologi dan Kolaborasi Lintas Bidang
 
-### Pengembangan IP Multi-media
+### Pengembangan IP Lintas Media
 
-_School Days_ (返校) berhasil diadaptasi menjadi film dan serial TV, membuka nilai multi-media dari IP permainan Taiwan. Model "satu ikan banyak dimakan" ini memaksimalkan nilai komersial konten orisinal, membuktikan bahwa game dapat menjadi pendorong utama industri budaya.
+_Detention_ berhasil diadaptasi jadi film dan serial, membuka nilai IP lintas media game Taiwan. Model "satu ikan banyak dimakan" ini memaksimalkan nilai komersial konten asli, juga membuktikan game bisa jadi penggerak inti industri budaya.
 
 ### Aplikasi Teknologi VR/AR
 
-Perusahaan Taiwan terus mengembangkan aplikasi teknologi baru; Yujun Autin (宇峻奧汀) memasuki pengembangan game VR, dan Digital Kingdom bekerja sama dengan HTC Vive untuk membuat konten VR, memperluas keunggulan manufaktur perangkat keras ke sisi perangkat lunak.
+Pelaku industri Taiwan terus memperluas aplikasi teknologi baru, UVT (宇峻奧汀) masuk pengembangan game VR.
 
-### Pengembangan Berbantuan AI
+### Pengembangan Berbantu AI
 
-Dengan munculnya AI generatif, perusahaan permainan Taiwan mulai mengintegrasikan alat AI ke dalam alur kerja, digunakan untuk desain karakter, pembuatan plot, dan _debugging_ kode, meningkatkan efisiensi pengembangan.
+Seiring bangkitnya AI generatif, pelaku game Taiwan mulai mengintegrasikan alat AI ke alur pengembangan, digunakan untuk desain karakter, generasi narasi, debugging kode, meningkatkan efisiensi pengembangan.
 
 ## Tantangan dan Peluang
 
-### Talenta dan Pendanaan
+### Bakat dan Dana
 
-Industri permainan Taiwan menghadapi tantangan ganda: eksodus talenta dan kekurangan dana. Banyak pengembang berbakat direkrut dengan gaji tinggi oleh Tiongkok atau Singapura, sementara lingkungan investasi lokal terbatas untuk industri berisiko tinggi dan jangka panjang seperti game.
+Industri game Taiwan menghadapi tantangan ganda: aliran bakat keluar dan kekurangan dana. Banyak pengembang unggul digaji tinggi oleh perusahaan di Tiongkok, Singapura, sedangkan lingkungan investasi domestik dukungan terbatas pada industri game berisiko tinggi, siklus panjang.
 
-### Persaingan Pasar Internasional
+### Kompetisi Pasar Internasional
 
-Persaingan pasar game global sangat ketat; perusahaan Taiwan harus menemukan posisi mereka di antara keunggulan teknologi Amerika, kekuatan IP Jepang, dan skala produksi Korea. Diferensiasi budaya dan kreativitas menjadi daya saing utama.
+Kompetisi pasar game global sangat ketat, pelaku Taiwan harus menemukan posisi di antara keunggulan teknis AS, kekuatan IP Jepang, skala produksi Korea. Ciri budaya dan diferensiasi kreatif jadi daya saing kunci.
 
 ### Dukungan Kebijakan
 
-Departemen Pengembangan Digital (數位發展部) memasukkan industri permainan dalam lingkup konsultasi konten digital, menyediakan subsidi R&D dan dukungan pemasaran internasional. Taiwan Creative Content Agency (TAICCA) [^4] juga mendorong program inkubasi IP orisinal, membantu perusahaan mengembangkan konten bernilai budaya.
+Kementerian Pengembangan Digital (數位發展部)[^3] memasukkan industri game ke cakupan pembinaan industri konten digital, memberikan subsidi R&D, dukungan pemasaran internasional. Lembaga Pengembangan Konten Budaya (TAICCA)[^4] juga mendorong program inkubasi IP asli, membantu pelaku mengembangkan konten bernilai budaya.
 
-## Prospek Masa Depan
+## Pandangan Masa Depan
 
-### Metaverse dan Integrasi Fisik-Virtual
+### Metaverse dan Integrasi Virtual-Fisik
 
-Dengan munculnya konsep metaverse, perusahaan permainan Taiwan mulai mengeksplorasi model bisnis integrasi fisik-virtual. Dengan menggabungkan keunggulan ganda dalam manufaktur perangkat keras dan pengembangan perangkat lunak Taiwan, ada peluang untuk membangun daya saing di bidang pengalaman imersif.
+Seiring bangkitnya konsep metaverse, pelaku game Taiwan mulai mengeksplorasi model bisnis integrasi virtual-fisik. Menggabungkan keunggulan ganda Taiwan di manufaktur perangkat keras dan pengembangan perangkat lunak, berpeluang membangun daya saing di bidang pengalaman imersif.
 
-### Media Digital Ekspor Budaya
+### Pembawa Digital Ekspor Budaya
 
-Permainan Taiwan menjadi media ekspor budaya yang penting. Melalui bahasa hiburan global seperti permainan, Taiwan dapat menceritakan kisahnya sendiri dan menyebarkan nilai-nilainya kepada dunia.
+Game Taiwan sedang menjadi pembawa digital penting ekspor budaya. Melalui game — bahasa hiburan universal global — Taiwan bisa menceritakan kisah sendiri, menyebarkan nilai sendiri ke dunia.
 
 ### Penyempurnaan Ekosistem Industri
 
-Infrastruktur industri permainan Taiwan—mulai dari alat pengembangan, platform distribusi hingga turnamen esports—sedang terbentuk. Ketika ekosistem semakin lengkap, hal ini akan menarik lebih banyak talenta kreatif untuk terlibat dalam bidang ini.
+Dari alat pengembangan, platform penerbitan, hingga acara e-sports, infrastruktur industri game Taiwan sedang terbentuk. Ketika ekosistem lebih lengkap, akan mampu menarik lebih banyak bakat kreatif masuk bidang ini.
 
-Meskipun industri permainan Taiwan memulai terlambat dan skalanya kecil, dengan perspektif budaya yang unik dan kualitas produk yang halus, mereka telah mengukuhkan posisi mereka di pasar global. Dari pulau manufaktur menjadi basis kreatif, Taiwan mendefinisikan ulang perannya di dunia melalui hiburan digital.
+Industri game Taiwan meski mulai terlambat, skala relatif kecil, tapi berbekal perspektif budaya unik dan kualitas produksi halus, telah menegaskan posisinya di pasar global. Dari pulau OEM ke basis kreatif, Taiwan kini mendefinisikan ulang perannya di dunia lewat hiburan digital.
 
 ## Referensi
 
-[^1]: [PwC — Global Entertainment & Media Outlook 2024-2028](https://www.pwc.com/gx/en/industries/tmt/media/outlook.html) — Nilai industri permainan dan esports Taiwan pada tahun 2024 adalah USD 3,886 miliar (sekitar NT$126 miliar); perkiraan untuk tahun 2027 adalah USD 4,464 miliar.
+[^1]: [Kompas Bisnis — Laporan PwC Industri Video Game & E-sports Taiwan Nilai 2024 Diperkirakan 1.260 Miliar](https://www.ctee.com.tw/news/20240701700150-439901) — Liputan 2024-07-01 Laporan PwC: Nilai 2024 diperkirakan 3,886 miliar dolar AS (sekitar NT$1.260 miliar), CAGR 2022–2027 sebesar 4,8%, 2027 diproyeksi 4,464 miliar dolar AS
 
-[^2]: [Newzoo — Global Games Market Report 2024](https://newzoo.com/resources/rankings/top-10-largest-games-markets-in-the-world/) — Pasar game global pada tahun 2024 bernilai sekitar USD 184,3 miliar; sedikit disesuaikan dari perkiraan tahun 2023.
+[^2]: [Newzoo — Laporan Pasar Game Global 2024 (Versi Gratis)](https://best-of-gaming.be/wp-content/uploads/2024/09/2024_Newzoo_Global_Games_Market_Report.pdf) — "Pada 2024, pasar game global akan menghasilkan $187,7 miliar", pertumbuhan tahunan 2,1%
 
-[^3]: [Agensi Industri Digital Departemen Pengembangan Digital (數位發展部數位產業署)](https://moda.gov.tw/) — Data konsultasi industri permainan dan konten digital Taiwan.
+[^3]: [Direktorat Jenderal Industri Digital Kementerian Pengembangan Digital](https://moda.gov.tw/) — Statistik pembinaan industri game dan konten digital Taiwan
 
-[^4]: [Taiwan Creative Content Agency (TAICCA)](https://taicca.tw/) — Program inkubasi IP orisinal, laporan penelitian industri game.
+[^4]: [Lembaga Pengembangan Konten Budaya (TAICCA)](https://taicca.tw/) — Program inkubasi IP asli, laporan riset industri game
 
-[^5]: [LnData — Laporan Analisis Industri Permainan dan Esports 2024](https://www.lndata.com/explore/trending/article/2024-game-industry-analysis) — Analisis skala pasar permainan dan esports Taiwan.
+[^5]: [LnData — _Laporan Analisis Data Industri Game & E-sports 2024_](https://www.lndata.com/explore/trending/article/2024-game-industry-analysis) — Analisis skala pasar game dan e-sports Taiwan
 
-[^6]: [Soft-World International (智冠)—Situs Resmi](https://www.soft-world.com/) — Didirikan pada tahun 1983, saluran perangkat lunak game penting awal di Taiwan (Catatan: Wikipedia berbahasa Inggris mencatat pendirian TWSE pada tahun 2001; tidak ada sumber yang mengonfirmasi klaim "perusahaan tercatat pertama").
+[^6]: [Softstar Technology — Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%99%BA%E5%86%A0%E7%A7%91%E6%8A%80) — Didirikan 15 Juli 1983, nama Inggris Soft-World International Corporation
 
-[^7]: [Rayark Games—Situs Resmi](https://rayark.com/zh/) — Karya permainan musik orisinal seperti _Cytus_ dan _Deemo_.
+[^7]: [Rayark Games — Situs Resmi](https://rayark.com/zh/) — Karya game musik asli _Cytus_, _Deemo_, dll.
 
-[^8]: [Guangju Jincheng United (光聚晶電聯合)—Wikipedia](https://zh.wikipedia.org/w/index.php?title=%E5%85%89%E8%81%9A%E6%99%B6%E9%9B%BB%E8%81%AF%E5%90%88&oldformat=true) — Didirikan pada tahun 1988, pengembang orisinal _Sword of Heaven_ dan _Tales of Immortal_.
+[^8]: [United Microelectronics (dahulu Softstar Technology) — Wikipedia](https://zh.wikipedia.org/w/index.php?title=%E5%85%89%E8%81%9A%E6%99%B6%E9%9B%BB%E8%81%AF%E5%90%88&oldformat=true) — Didirikan 1988, pengembang asli _Xuan-Yuan Sword_, _The Legend of Sword and Fairy_
