@@ -1,17 +1,17 @@
 ---
-title: 'Política de comercio internacional de Taiwán: encontrar su posición en la ola de la globalización'
-description: 'Taiwán, como economía orientada al comercio, impulsa estrategias comerciales diversificadas como el ingreso al CPTPP y la Nueva Política hacia el Sur, buscando ampliar su espacio económico y comercial internacional bajo restricciones geopolíticas.'
+title: 'Política comercial internacional de Taiwán: encontrar su posición en la ola de la globalización'
+description: 'En 2024, la proporción de exportaciones a China continental y Hong Kong cayó al 31,7 %, mientras que Estados Unidos ascendió al segundo mercado. Solo quedan acuerdos de libre comercio formales con Panamá y Guatemala; la solicitud para el CPTPP está estancada; los avances se concentran en la Iniciativa Comercial del Siglo XXI entre Taiwán y EE. UU., el Acuerdo de Asociación Comercial Reforzada entre Taiwán y el Reino Unido, y el Acuerdo Comercial Recíproco de 2026. Este artículo resume cómo Taiwán, con su espacio diplomático limitado, utiliza acuerdos bilaterales para abrir salidas a su economía exportadora.'
 date: 2026-03-19
 category: 'Economy'
 tags:
   [
-    'economía',
-    'política comercial',
+    'Economía',
+    'Política comercial',
     'CPTPP',
-    'Nueva Política hacia el Sur',
+    'Nueva Política Hacia el Sur',
     'ECFA',
     'TLC',
-    'economía y comercio internacionales',
+    'Comercio internacional',
   ]
 subcategory: '貿易與全球化'
 author: 'Taiwan.md'
@@ -21,27 +21,27 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Economy/台灣國際貿易政策.md'
-sourceCommitSha: '4a4d66620'
-sourceContentHash: 'sha256:d585af78b77ed183'
-sourceBodyHash: 'sha256:57ec5065ff0c2c3f'
-translatedAt: '2026-08-04T04:47:39.639904+00:00'
+sourceCommitSha: '1f266e533'
+sourceContentHash: 'sha256:e2e52ce67066146d'
+sourceBodyHash: 'sha256:956a2e50c55badba'
+translatedAt: '2026-10-03T00:56:56+08:00'
 ---
 
-# Política de comercio internacional de Taiwán: encontrar su posición en la ola de la globalización
+# Política comercial internacional de Taiwán: encontrar su posición en la ola de la globalización
 
-## Panorama en 30 segundos
+## Resumen en 30 segundos
 
-Taiwán, como economía insular altamente dependiente del comercio internacional, enfrenta el doble desafío de la “realidad política” y las “necesidades económicas”. Mediante la búsqueda de ingreso al CPTPP, el impulso de la Nueva Política hacia el Sur y el mantenimiento de sus relaciones comerciales con Estados Unidos, Taiwán procura construir relaciones comerciales diversificadas dentro de un espacio internacional limitado. Al mismo tiempo, necesita equilibrar la dependencia económica y comercial a través del Estrecho con la seguridad económica, a fin de encontrar una trayectoria de desarrollo sostenible para la economía taiwanesa.
+Taiwán, como economía insular altamente dependiente del comercio internacional, enfrenta el doble desafío de la «realidad política» y las «necesidades económicas». A través de la búsqueda de ingreso al CPTPP, el impulso de la Nueva Política Hacia el Sur y el mantenimiento de las relaciones comerciales con Estados Unidos, Taiwán se esfuerza por construir relaciones comerciales diversificadas en su limitado espacio internacional. Al mismo tiempo, debe equilibrar la dependencia económica transfronteriza con la seguridad económica, buscando una ruta de desarrollo sostenible para la economía taiwanesa.
 
-**Palabras clave:** CPTPP, Nueva Política hacia el Sur, ECFA, tratados de libre comercio, diversificación económica y comercial, reconfiguración de cadenas de suministro
+**Palabras clave:** CPTPP, Nueva Política Hacia el Sur, ECFA, Tratado de Libre Comercio, Diversificación económico-comercial, Reorganización de cadenas de suministro
 
 ---
 
-## Por qué importa
+## Por qué es importante
 
-Taiwán es una economía insular carente de recursos naturales. El valor total de sus importaciones y exportaciones supera el 100% del PIB; manufacturas como productos electrónicos y maquinaria constituyen los pilares económicos, y Taiwán es también un nodo clave en las cadenas mundiales de suministro de productos tecnológicos. Esta estructura implica que la política comercial es, en la práctica, una política de supervivencia nacional: sin exportaciones no hay divisas; sin divisas no hay importación de energía ni de materias primas.
+Taiwán es una economía insular carente de recursos naturales, con un comercio exterior que supera el 100 % del PIB. La industria manufacturera —productos electrónicos, maquinaria y equipos— es el pilar económico, y Taiwán constituye un nodo clave en la cadena de suministro global de productos tecnológicos. Esta estructura significa que la política comercial es política de supervivencia nacional: sin exportaciones no hay divisas, y sin divisas no hay importaciones de energía y materias primas.
 
-En un contexto de espacio diplomático restringido, la cooperación económica y comercial se ha convertido en el principal canal de Taiwán para participar en la comunidad internacional: mantener capacidad de voz mediante organizaciones internacionales como la OMC, elevar su imagen internacional en ámbitos diplomáticos sustantivos a través de sus logros económicos y, al mismo tiempo, enfrentar la presión geopolítica derivada del ascenso económico de China, buscando un punto de equilibrio entre la diversificación de riesgos y el mantenimiento de intercambios necesarios.
+En un contexto de espacio diplomático restringido, la cooperación económico-comercial se convierte en el principal canal de participación de Taiwán en la comunidad internacional: mediante la OMC y otras organizaciones internacionales mantiene su derecho a voz, aprovecha sus logros económicos para mejorar su imagen internacional en ocasiones diplomáticas sustantivas, y frente a la presión geopolítica derivada del ascenso económico de China, debe hallar un punto de equilibrio entre la dispersión de riesgos y el mantenimiento de intercambios necesarios.
 
 ---
 
@@ -49,63 +49,63 @@ En un contexto de espacio diplomático restringido, la cooperación económica y
 
 ### Principales socios comerciales
 
-Según estadísticas del Ministerio de Finanzas, en 2023 China, incluida Hong Kong, representó alrededor del 31,7% de las exportaciones de Taiwán y fue su mayor mercado de exportación[^1]; le siguieron Estados Unidos, Japón, la ASEAN y la Unión Europea. Aunque la concentración hacia China ha disminuido desde su pico en la década de 2010, sigue siendo el foco central de la política de diversificación comercial. Corea del Sur y Taiwán mantienen relaciones simultáneas de competencia y cooperación en ámbitos como semiconductores y paneles, lo que constituye otra relación comercial digna de atención.
+Según estadísticas del Ministerio de Finanzas, en 2024 China continental y Hong Kong representaron el 31,7 % de las exportaciones taiwanesas, seguiendo como mayor mercado de destino, pero marcando el nivel más bajo en 23 años, 12,2 puntos porcentuales por debajo del pico de 2020 (43,9 %) [^1]. Estados Unidos, con el 23,4 %, ascendió al segundo puesto; la ASEAN, con el 18,5 %, ocupó el tercero; seguidos por Europa (8,1 %) y Japón (5,4 %). Aunque la concentración en el mercado chino continúa descendiendo, sigue siendo el foco central de la política de diversificación comercial. Corea del Sur y Taiwán mantienen una relación de competencia y cooperación en semiconductores, paneles y otros ámbitos, constituyendo otra relación comercial digna de atención.
 
 ### Estructura de productos de exportación
 
-Las exportaciones de Taiwán están altamente concentradas en productos de alta tecnología. Según estadísticas del Ministerio de Finanzas para 2022-2023, los productos electrónicos, incluidos semiconductores, computadoras y equipos de comunicación, representaron más del 60% de las exportaciones[^1]. Les siguieron la maquinaria de precisión y las máquinas herramienta, los productos petroquímicos y plásticos, así como el acero y los metales no ferrosos. Esta concentración hace que Taiwán sea especialmente sensible al ciclo del mercado de semiconductores: cuando se desacelera la demanda de chips, las cifras generales de exportación reaccionan con rapidez.
+Las exportaciones taiwanesas están altamente concentradas en productos de alta tecnología. Según el Ministerio de Finanzas, los componentes electrónicos (37,3 %) y los productos de tecnología de la información, comunicación y audiovisuales (27,9 %) sumaron conjuntamente el 65 % del total exportado en 2024 [^1]; les siguen metales básicos, maquinaria, productos de plástico y caucho, y productos químicos, cada uno con entre el 3 % y el 6 %. Esta concentración hace que Taiwán sea especialmente sensible a los ciclos del mercado de semiconductores: cuando la demanda de chips se desacelera, las cifras globales de exportación reaccionan rápidamente.
 
-### Rubros dependientes de importaciones
+### Ítems de dependencia en importaciones
 
-La dependencia importadora de Taiwán en materia energética es su mayor riesgo estructural: petróleo, gas natural y carbón dependen casi por completo de las importaciones. Los minerales metálicos y materias primas químicas, los alimentos y productos pecuarios, el equipamiento para semiconductores y los instrumentos científicos son otras cuatro grandes categorías de demanda importadora. La vulnerabilidad geopolítica de las importaciones energéticas es uno de los componentes más difíciles de eludir en la política de seguridad de suministro de Taiwán.
+La dependencia de importaciones energéticas es el mayor riesgo estructural de Taiwán: petróleo, gas natural y carbón dependen casi totalmente de la importación. Minerales metálicos y materias primas químicas, alimentos y productos ganaderos, equipos para semiconductores e instrumentos científicos constituyen las otras cuatro grandes categorías de necesidades de importación. La vulnerabilidad geopolítica de las importaciones energéticas es el eslabón más difícil de eludir en la política de seguridad de suministro de Taiwán.
 
 ---
 
 ## Marco central de la política comercial
 
-### Participación en el sistema de la OMC
+### Participación en el régimen de la OMC
 
-Taiwán opera como miembro de la OMC bajo el nombre de “Territorio Aduanero Distinto de Taiwán, Penghu, Kinmen y Matsu” desde 2002 hasta la actualidad. Su ingreso formal comenzó en 2002, y dentro del sistema multilateral de comercio cumple normas y participa en negociaciones multilaterales. Sin embargo, este diseño identitario ha generado fricciones políticas de largo plazo: la interferencia de China en el derecho de Taiwán a expresarse en ámbitos de la OMC, junto con la complejidad de su estatus en organizaciones internacionales, reduce la eficacia de la participación taiwanesa en negociaciones multilaterales de la OMC. Aun así, la membresía en la OMC sigue siendo una base jurídica importante para que Taiwán mantenga protección en el comercio multilateral.
+Taiwán opera como miembro de la OMC bajo el nombre de «Territorio aduanero separado de Taiwán, Penghu, Kinmen y Matsu» (2002-presente), ingresando formalmente en 2002, acatando normas y participando en negociaciones multilaterales dentro del sistema comercial multilateral. Sin embargo, esta designación conlleva fricciones políticas de largo plazo: la interferencia de China en el derecho a voz de Taiwán en foros de la OMC y la complejidad de su identidad en organizaciones internacionales comprimen la efectividad de la participación taiwanesa en negociaciones multilaterales. No obstante, la condición de miembro de la OMC sigue siendo la base legal fundamental para que Taiwán mantenga la protección comercial multilateral.
 
-### Tratados bilaterales de libre comercio (TLC)
+### Tratados de Libre Comercio (TLC) bilaterales
 
-Los TLC formales firmados actualmente por Taiwán son extremadamente limitados, y sus principales contrapartes son países aliados de Centroamérica: Panamá, Guatemala, Nicaragua, El Salvador y Honduras. Taiwán también firmó acuerdos de cooperación económica (ECA) con Nueva Zelanda y Singapur, respectivamente, dentro de marcos no tradicionales de TLC[^2]. Entre los asuntos en negociación se incluyen Estados Unidos, con la Iniciativa Comercial Taiwán-Estados Unidos del Siglo XXI, cuya primera parte sobre facilitación del comercio fue firmada en 2023[^3]; India, con un acuerdo bilateral de inversión; y el Reino Unido, con diálogos de inversión. La causa fundamental de la limitada expansión de los TLC reside en la realidad política: muchos países, debido a la presión de Pekín, no están dispuestos a suscribir acuerdos formales con Taiwán, por lo que es necesario avanzar mediante marcos alternativos.
-
----
-
-## Principales iniciativas de política
-
-### Estrategia de ingreso al CPTPP
-
-Taiwán solicitó formalmente ingresar al CPTPP en septiembre de 2021, estableció un grupo de trabajo interministerial e inició diálogos de política con los países miembros. La evaluación de beneficios del ingreso abarca el acceso a los mercados de 11 países miembros, la eliminación gradual de aranceles para la mayoría de los productos, el aumento de la transparencia del entorno de inversión y nuevas oportunidades en sectores de servicios como finanzas y telecomunicaciones.
-
-Sin embargo, el camino hacia el ingreso enfrenta obstáculos internos y externos. En el plano interno, existe una fuerte presión por la protección agrícola, controversias sobre la extensión de patentes farmacéuticas y ajustes de la política sobre trabajadores extranjeros que involucran intereses sensibles. En el plano externo, la obstrucción política de China es la variable más difícil de superar. Hasta 2026, la solicitud de Taiwán al CPTPP aún no muestra avances sustantivos; la sensibilidad política de los países miembros ante el tratamiento simultáneo de las solicitudes de Taiwán y China ha dejado las negociaciones de ingreso en un punto muerto[^4].
-
-Como estrategia de respuesta, el gobierno continúa realizando evaluaciones y acompañamiento sobre impactos industriales, ajustes regulatorios y reformas institucionales, comunicación con el Parlamento y diálogo social, además de profundizar las relaciones bilaterales con cada país miembro, con el fin de preservar espacio para avanzar en la agenda cuando madure el momento de ingreso.
-
-### Nueva Política hacia el Sur (2016-presente)
-
-La Nueva Política hacia el Sur se inició en 2016 con el objetivo de diversificar la dependencia del mercado chino, profundizar las relaciones económicas y comerciales con la ASEAN y Asia del Sur, e impulsar la cooperación en cadenas industriales regionales y el intercambio de talento. La política abarca 18 países objetivo: los 10 países de la ASEAN, 6 países de Asia del Sur, Nueva Zelanda y Australia. Se impulsa sobre cuatro ejes principales: cooperación económica y comercial, intercambio de talento, compartición de recursos y conexión regional.
-
-Los resultados concretos incluyen el crecimiento de la inversión en países de la Nueva Política hacia el Sur, el aumento del comercio bilateral, casos de cooperación en parques industriales y exportación de educación técnica y profesional. Los desafíos reales de la política residen en diferencias lingüísticas y culturales, desconocimiento de los entornos regulatorios locales, riesgos políticos y brechas de infraestructura. Estos obstáculos muestran que la expansión hacia el sur requiere un horizonte temporal más largo que una simple ruta de reexportación comercial.
-
-### Iniciativa Comercial Taiwán-Estados Unidos del Siglo XXI
-
-La Iniciativa Comercial Taiwán-Estados Unidos del Siglo XXI, cuya primera parte sobre facilitación del comercio fue firmada en 2023, abarca ocho áreas: facilitación del comercio, buenas prácticas regulatorias, cooperación agrícola, anticorrupción, comercio de pequeñas y medianas empresas, comercio digital, asuntos laborales y asuntos ambientales. Su significado estratégico consiste en profundizar la relación económica y comercial entre Taiwán y Estados Unidos, sentar bases para acuerdos más amplios en el futuro, mostrar la capacidad reformadora de Taiwán y fortalecer la confianza mutua entre Taiwán y Estados Unidos dentro de la arquitectura de cooperación del Indo-Pacífico.
+Los TLC formales vigentes de Taiwán son extremadamente limitados; en Centroamérica solo quedan Panamá y Guatemala [^2]: el acuerdo con Panamá se mantuvo tras la ruptura diplomática de 2017, mientras que los TLC firmados con Nicaragua, El Salvador y Honduras se terminaron sucesivamente tras sus rupturas diplomáticas. Taiwán suscribió además el Acuerdo de Cooperación Económica entre Taiwán y Nueva Zelanda (ANZTEC) y el Acuerdo de Asociación Económica entre Taiwán y Singapur (ASTEP) [^2]. Los avances recientes se concentran en arreglos bilaterales: 2018, Acuerdo Bilateral de Inversión con la India [^9]; 2023, primera tanda de acuerdos de la Iniciativa Comercial del Siglo XXI entre Taiwán y EE. UU. [^3] y Acuerdo de Asociación Comercial Reforzada (ETP) con el Reino Unido [^8]; febrero de 2026, Acuerdo Comercial Recíproco con EE. UU. [^7]. La limitación en la expansión de TLC tiene su causa fundamental en la realidad política: muchos países, bajo presión de Pekín, evitan firmar acuerdos formales con Taiwán, lo que obliga a impulsar marcos alternativos.
 
 ---
 
-## Relaciones económicas y comerciales a través del Estrecho
+## Iniciativas políticas destacadas
+
+### Estrategia de adhesión al CPTPP
+
+Taiwán presentó formalmente su solicitud de ingreso al CPTPP el 22 de septiembre de 2021, creando un grupo de trabajo interministerial y entablando diálogos de política con los países miembros. La evaluación de beneficios cubre acceso a mercados de los miembros (11 países al momento de la solicitud, 12 tras la adhesión del Reino Unido en 2024), eliminación gradual de aranceles en la mayoría de productos, mejora de la transparencia del entorno de inversión y nuevas oportunidades en servicios financieros, telecomunicaciones y otros sectores.
+
+No obstante, el camino de adhesión enfrenta obstáculos internos y externos. Internamente, fuertes presiones proteccionistas en agricultura, controversias sobre la extensión de patentes farmacéuticas y ajustes en la política de trabajadores extranjeros que tocan intereses sensibles; externamente, el bloqueo político de China es la variable más difícil de superar. En la reunión del Comité Ejecutivo Ministerial del CPTPP de noviembre de 2025, aún no se aprobó la creación de un grupo de trabajo para la adhesión de Taiwán, mientras que en la misma reunión se decidió iniciar primero el procedimiento de adhesión de Uruguay [^4]. La sensibilidad política de los miembros ante el tratamiento simultáneo de las solicitudes de Taiwán y China mantiene el proceso de adhesión taiwanés estancado en la puerta.
+
+Como estrategia de respuesta, el gobierno continúa realizando evaluaciones de impacto industrial y asistencia, adecuación normativa y reformas institucionales, comunicación con el Congreso y diálogo social, y profundización de relaciones bilaterales con cada miembro, preservando espacio para impulsar los temas cuando maduren las condiciones de ingreso.
+
+### Nueva Política Hacia el Sur (2016-presente)
+
+La Nueva Política Hacia el Sur se lanzó en 2016 con el objetivo de diversificar la dependencia del mercado chino, profundizar las relaciones económico-comerciales con la ASEAN y el Sur de Asia, impulsar la cooperación en cadenas industriales regionales y el intercambio de talento. La política abarca 18 países objetivo: 10 de la ASEAN, 6 del Sur de Asia, más Nueva Zelanda y Australia, impulsada en cuatro ejes: cooperación económico-comercial, intercambio de talento, compartición de recursos y vinculación regional.
+
+Entre los resultados concretos destacan el crecimiento de la inversión en países de la Nueva Política Hacia el Sur, el aumento del comercio bilateral, casos de cooperación en parques industriales y la exportación de educación técnico-vocacional. Los desafíos reales radican en las diferencias idiomáticas y culturales, el desconocimiento del entorno legal local, los riesgos políticos y las brechas de infraestructura —obstáculos que muestran que la expansión hacia el sur requiere un horizonte temporal más largo que el simple desvío de rutas comerciales.
+
+### Iniciativa Comercial del Siglo XXI entre Taiwán y EE. UU. y Acuerdo Comercial Recíproco
+
+El 1 de junio de 2023, Taiwán y EE. UU. firmaron la primera tanda de acuerdos de la Iniciativa Comercial del Siglo XXI. Esta primera tanda abarca cinco temas: administración aduanera y facilitación comercial, prácticas regulatorias de buena gobernanza, regulaciones nacionales del sector servicios, anticorrupción y PYMES. Trabajo, medio ambiente, agricultura, comercio digital, normas, empresas estatales, y políticas y prácticas no de mercado —siete temas— quedaron para negociaciones posteriores [^3]. El 12 de febrero de 2026 (hora del Este de EE. UU.), ambas partes firmaron el «Acuerdo Comercial Recíproco entre Taiwán y EE. UU.» (ART), estableciendo un arancel recíproco del 15 % sin acumulación, y eximiendo de dicho arancel a 2.072 productos taiwaneses exportados a EE. UU. [^7]. Su significado estratégico radica en profundizar la relación económico-comercial taiwano-estadounidense, sentar bases para futuros acuerdos más amplios, demostrar la capacidad de reforma de Taiwán y fortalecer la base de confianza mutua en la arquitectura de cooperación regional del Indo-Pacífico.
+
+---
+
+## Relaciones económico-comerciales transfronterizas
 
 ### Firma e impacto del ECFA
 
-Taiwán impulsó el marco del ECFA durante el período 2010-2012. En 2010 firmó el Acuerdo Marco de Cooperación Económica a través del Estrecho (ECFA), que redujo aranceles para algunos productos mediante una lista de cosecha temprana y estableció mecanismos de negociación posteriores. El acuerdo promovió el crecimiento del comercio bilateral, facilitó la inversión de empresarios taiwaneses en China, aumentó el turismo de visitantes chinos a Taiwán y amplió los intercambios en servicios financieros. Las críticas, en cambio, sostienen que el acuerdo profundizó la dependencia económica, aceleró la relocalización industrial, empeoró la distribución del ingreso e implicó riesgos de seguridad nacional.
+Taiwán firmó en 2010 el Acuerdo Marco de Cooperación Económica Transfronteriza (ECFA), reduciendo aranceles de parte de los bienes mediante listas de cosecha temprana y estableciendo un mecanismo de negociaciones posteriores. El acuerdo impulsó el crecimiento del comercio bilateral, facilitó la inversión de empresas taiwanesas en China y amplió los intercambios de servicios financieros. Las críticas señalan que el acuerdo profundizó la dependencia económica, aceleró la salida de industrias, empeoró la distribución del ingreso y conllevaba riesgos de seguridad nacional.
 
-**Situación reciente del ECFA (2023-2024):** a fines de 2023, China canceló reducciones arancelarias para 539 productos de la lista de cosecha temprana; en mayo de 2024 volvió a cancelar reducciones para 134 productos petroquímicos, lo que erosionó gravemente en la práctica la estructura del ECFA[^5]. Las industrias exportadoras taiwanesas relacionadas enfrentan presiones por el retorno de aranceles más altos, y los beneficios existentes del ECFA se han reducido de manera sustancial.
+**Situación reciente del ECFA (2023-2024)**: El 21 de diciembre de 2023, el Comité de Aranceles Aduaneros del Consejo de Estado de China anunció que, a partir del 1 de enero de 2024, suspendía las reducciones arancelarias del ECFA para 12 partidas, incluyendo propileno y paraxileno [^10]. El 31 de mayo de 2024 anunció nuevamente que, a partir del 15 de junio, suspendía las tasas convencionales del acuerdo para 134 productos, entre ellos aceites base para lubricantes, bicicletas de competición y ciertos textiles [^5]. Las industrias exportadoras taiwanesas afectadas enfrentan presión por el alza arancelaria, y los beneficios de la lista de cosecha temprana siguen menguando.
 
-### Desafíos actuales en las relaciones económicas y comerciales a través del Estrecho
+### Desafíos actuales en las relaciones económico-comerciales transfronterizas
 
-Los problemas estructurales principales son cuatro: una dependencia comercial taiwanesa relativamente alta respecto de China, un aumento de la superposición en competitividad industrial, un mayor riesgo de fuga tecnológica y consideraciones de seguridad de cadenas de suministro. La orientación de ajuste de política consiste en fortalecer los controles sobre tecnologías clave, promover la diversificación de cadenas de suministro y establecer mecanismos de seguridad económica, al mismo tiempo que se mantienen los intercambios económicos y comerciales necesarios. Este último punto se vuelve cada vez más difícil de calibrar con precisión a medida que aumentan las tensiones políticas a través del Estrecho.
+Los problemas estructurales son principalmente cuatro: excesiva dependencia comercial de Taiwán respecto a China, creciente solapamiento de competitividad industrial, aumento del riesgo de fuga tecnológica y consideraciones de seguridad de la cadena de suministro. La dirección del ajuste político es fortalecer el control de tecnologías clave, impulsar la diversificación de la cadena de suministro, establecer mecanismos de seguridad económica, y mantener al mismo tiempo los intercambios económico-comerciales necesarios —lo cual se vuelve cada vez más difícil de calibrar con precisión cuando se intensifica la tensión política transfronteriza.
 
 ---
 
@@ -113,52 +113,66 @@ Los problemas estructurales principales son cuatro: una dependencia comercial ta
 
 ### Industria de semiconductores
 
-La industria taiwanesa de semiconductores ocupa una posición clave en la cadena global de suministro. Sus ventajas competitivas centrales provienen del liderazgo en tecnologías de procesos avanzados, un ecosistema industrial completo y recursos humanos de alta calidad. La orientación de la política comercial es participar en la alianza de chips de Estados Unidos, establecer cadenas de suministro confiables y fortalecer los mecanismos de control de exportaciones. Los planes de TSMC para instalar fábricas en Estados Unidos y Japón son una práctica típica de gestión activa del riesgo diplomático por parte de Taiwán bajo la tendencia de politización de la cadena de suministro de chips.
+La industria de semiconductores de Taiwán ocupa una posición clave en la cadena de suministro global; su ventaja competitiva central proviene del liderazgo en tecnología de procesos avanzados, un ecosistema industrial completo y recursos humanos de alta calidad. La dirección de la política comercial es participar en la Alianza de Chips de EE. UU., establecer cadenas de suministro confiables, fortalecer los mecanismos de control de exportaciones. Los planes de construcción de fábricas de TSMC en EE. UU. y Japón son el ejemplo típico de la gestión proactiva de riesgos diplomáticos por parte de Taiwán ante la politización de la cadena de suministro de chips.
 
 ### Sector agrícola
 
-La agricultura desempeña el papel de una carta de negociación sensible en las negociaciones comerciales. Costos de producción relativamente altos, insuficiencia de economías de escala y fuerte competencia internacional constituyen tres obstáculos para la apertura del comercio agrícola. La estrategia de respuesta es desarrollar agricultura de alto valor, fortalecer la trazabilidad de los productos agrícolas e impulsar la tecnificación agrícola, reemplazando la competencia de bajos precios por diferenciación.
+La agricultura actúa como ficha sensible de negociación en las conversaciones comerciales. Costos de producción relativamente altos, economías de escala insuficientes y feroz competencia internacional constituyen tres barreras para la apertura comercial agrícola. La estrategia de respuesta es desarrollar agricultura de precisión, fortalecer la trazabilidad de productos agrícolas, impulsar la tecnificación agrícola, sustituyendo la competencia por precio bajo con diferenciación.
 
-### Servicios
+### Sector servicios
 
-Los servicios financieros, los servicios de información y comunicaciones, la salud médica y las industrias culturales y creativas son áreas de ventaja para la internacionalización del sector servicios de Taiwán. La orientación de apertura consiste en relajar gradualmente las restricciones a la inversión extranjera, mejorar la calidad de los servicios y construir marcas internacionales. La baja proporción de los servicios dentro de las exportaciones representa un espacio de crecimiento claramente por desarrollar para Taiwán en comparación con la manufactura.
+Servicios financieros, servicios de tecnología de la información y comunicación, salud médica e industrias culturales y creativas son los ámbitos de ventaja para la internacionalización del sector servicios de Taiwán. La dirección de la política de apertura es flexibilizar gradualmente las restricciones a la inversión extranjera, elevar la calidad de servicios y crear marcas internacionales. La baja participación de los servicios en las exportaciones es un espacio de crecimiento claramente por desarrollar frente a la manufactura.
 
 ---
 
 ## Comercio digital y nueva economía
 
-En respuesta al desarrollo de la economía digital, Taiwán enfrenta presión institucional para construir reglas de comercio digital relativas a la circulación transfronteriza de datos, estándares de protección de datos personales, normas de comercio electrónico y coordinación de impuestos digitales. Los asuntos emergentes abarcan la gobernanza de la inteligencia artificial, la regulación de criptomonedas, las normas de la economía de plataformas y la protección de la propiedad intelectual. Taiwán necesita encontrar un equilibrio entre participar en la formulación de estándares internacionales y proteger su propia soberanía digital.
+Ante el desarrollo de la economía digital, Taiwán enfrenta presiones de construcción institucional en normas de flujo transfronterizo de datos, estándares de protección de datos personales, regulaciones de comercio electrónico y coordinación de fiscalidad digital. Los temas emergentes abarcan gobernanza de inteligencia artificial, supervisión de criptoactivos, regulación de la economía de plataformas y protección de propiedad intelectual; Taiwán necesita hallar equilibrio entre participar en la formulación de estándares internacionales y proteger su propia soberanía digital.
 
-En consonancia con los objetivos globales de emisiones netas cero de carbono, la evaluación del impacto del Mecanismo de Ajuste en Frontera por Carbono de la Unión Europea (CBAM) sobre los exportadores taiwaneses no admite demora. Las líneas de respuesta de Taiwán incluyen la certificación de huella de carbono industrial y la construcción de cadenas de suministro verdes, así como el desarrollo de oportunidades comerciales de economía circular, como valorización de residuos, comercio de materias primas recicladas y exportación de tecnologías ambientales.
+En línea con las metas globales de cero emisiones netas, el Mecanismo de Ajuste en Frontera por Carbono (CBAM) de la UE requiere una evaluación de impacto urgente para los exportadores taiwaneses. Las direcciones de respuesta de Taiwán incluyen la certificación de huella de carbono industrial y la construcción de cadenas de suministro verdes, así como el desarrollo de oportunidades comerciales de economía circular: valorización de residuos, comercio de materias primas regeneradas y exportación de tecnologías ambientales.
 
 ---
 
 ## Mecanismo de formulación de la política comercial
 
-La política comercial de Taiwán es impulsada mediante una división de trabajo entre varios organismos. La Administración de Comercio Internacional del Ministerio de Economía se encarga de la planificación y ejecución de la política comercial, la coordinación de negociaciones bilaterales y multilaterales, y la gestión de obstáculos al comercio. La Oficina de Negociaciones Comerciales del Yuan Ejecutivo coordina negociaciones económicas y comerciales importantes, la coordinación interministerial de políticas y la planificación de la política económica y comercial internacional. El Ministerio de Relaciones Exteriores colabora según la política diplomática, el Ministerio de Agricultura se ocupa principalmente de las negociaciones agrícolas, y el Ministerio de Asuntos Digitales es responsable de las normas de comercio digital, conformando una estructura de formulación de políticas basada en la cooperación entre múltiples ministerios.
+La política comercial de Taiwán es impulsada por varios departamentos con división de trabajo. La Oficina de Comercio Internacional del Ministerio de Economía planifica y ejecuta la política comercial, coordina negociaciones bilaterales y multilaterales, y gestiona obstáculos comerciales; la Oficina de Negociaciones Comerciales de la Yuan Ejecutivo coordina negociaciones económico-comerciales importantes, la coordinación interministerial de políticas y la planificación de políticas económico-comerciales internacionales. El Ministerio de Relaciones Exteriores colabora con la política exterior, el Ministerio de Agricultura lidera las negociaciones agrícolas, y el Ministerio de Desarrollo Digital (數發部) gestiona las normas de comercio digital, formando una estructura de formulación política multi-ministerial.
 
-La participación civil se realiza mediante dos canales. Las asociaciones industriales proporcionan recomendaciones sobre posiciones negociadoras y apoyo en evaluaciones de impacto a través de comités consultivos de política. El Yuan Legislativo realiza revisión de acuerdos importantes, supervisión mediante interpelaciones de política y examen presupuestario. La intensidad de la supervisión civil varía notablemente según la sensibilidad del tema: la controversia social de gran escala provocada por el ECFA en 2010 sigue siendo hasta hoy un punto de referencia para los debates sobre transparencia en las negociaciones de grandes acuerdos comerciales.
+La participación civil se canaliza por dos vías: las asociaciones industriales aportan posiciones de negociación y asistencia en evaluación de impacto a través de comités consultivos de política; el Yuan Legislativo revisa acuerdos importantes, ejerce supervisión mediante interpelaciones y revisa presupuestos. La intensidad de la supervisión civil varía significativamente según la sensibilidad del tema —la gran controversia social suscitada por el ECFA en 2010 sigue siendo el referente en materia de transparencia en la negociación de grandes acuerdos comerciales.
 
 ---
 
 ## Desafíos y oportunidades futuras
 
-La reconfiguración de cadenas de suministro trae oportunidades concretas: la tendencia al friendshoring, es decir, la relocalización hacia países socios o aliados, la demanda de construir cadenas de suministro resilientes y la posición de Taiwán como socio confiable le otorgan más capacidad de negociación dentro de nuevos mecanismos de integración regional como el Marco Económico del Indo-Pacífico (IPEF). Por ello, la vía para profundizar la cooperación bilateral también se vuelve más clara.
+La reorganización de cadenas de suministro trae oportunidades concretas: tendencia al _friend-shoring_, demanda de construcción de cadenas de suministro resilientes y estatus de socio confiable. Aunque Taiwán no fue invitado a sumarse al Marco Económico del Indo-Pacífico (IPEF) lanzado en 2022, a través de la Iniciativa Comercial del Siglo XXI y el Acuerdo Comercial Recíproco ha obtenido más fichas de negociación en la cooperación bilateral. La ruta de profundización de la cooperación bilateral se vuelve así más clara.
 
-Sin embargo, las limitaciones son igualmente evidentes. La realidad política restringe el espacio de expansión de TLC formales; el derecho de voz en organizaciones internacionales sigue sometido a limitaciones estructurales; y la diversidad de contrapartes negociadoras es menor que la de economías orientadas al comercio de escala similar. Los ajustes internos incluyen elevar la competitividad industrial, ampliar el mercado interno, fortalecer la capacidad de innovación y perfeccionar la normativa comercial y las capacidades de negociación. Que la estrategia de diversificación de Taiwán logre o no un avance dependerá, en última instancia, de la velocidad de evolución del panorama geopolítico y de la capacidad de Taiwán para posicionarse primero en la próxima ventana de negociación de acuerdos.
+Sin embargo, las limitaciones son igualmente nítidas. La realidad política restringe el espacio de expansión de TLC formales; el derecho a voz en organizaciones internacionales sigue sujeto a limitaciones estructurales; la diversidad de contrapartes de negociación es inferior a la de economías comerciales de escala similar. En el plano interno, los ejes de ajuste incluyen elevar la competitividad industrial, ampliar el mercado interno, fortalecer la capacidad de innovación y perfeccionar la legislación y capacidad negociadora comercial. Que la estrategia de diversificación de Taiwán logre avances depende, en última instancia, de la velocidad de evolución del panorama geopolítico y de la capacidad de Taiwán para tomar la iniciativa en la próxima ventana de negociación de acuerdos.
 
 ---
 
+**Lecturas complementarias**:
+
+- [Despacho de aduanas y EZ WAY en Taiwán](/es/lifestyle/ezway) — Cómo la política comercial llega al paquete de tu compra en línea: el forcejeo del umbral de 2.000 elementos libres de impuestos y el sistema de mandato de despacho aduanero
+- [Industria de semiconductores](/es/technology/taiwan-semiconductor-industry) — De dónde vienen los componentes electrónicos que superan un tercio de las exportaciones, y cómo los chips se convirtieron en la mayor ficha comercial de Taiwán
+- [Zona de Procesamiento de Exportación de Kaohsiung](/es/history/kaohsiung-export-processing-zone) — La zona franca de 1966 y la ventanilla única, el punto de partida de la economía orientada a la exportación de Taiwán
+
 ## Referencias
 
-[^1]: [Departamento de Estadística del Ministerio de Finanzas — Panorama del comercio de importación y exportación de Taiwán en 2023](https://www.mof.gov.tw/htmlList/103) — Estructura de las exportaciones de Taiwán y proporción de los principales socios comerciales en 2023
+[^1]: [Oficina de Estadísticas del Ministerio de Finanzas — Panorama del comercio exterior de Taiwán en 2024](https://service.mof.gov.tw/public/Data/statistic/bulletin/114/113%E5%B9%B4%E6%88%91%E5%9C%8B%E5%87%BA%E9%80%B2%E5%8F%A3%E8%B2%BF%E6%98%93%E6%A6%82%E6%B3%81.pdf) — Proporción de exportaciones a China continental y Hong Kong en 2024: 31,7 % (mínimo en 23 años, pico de 2020: 43,9 %); EE. UU. 23,4 %, ASEAN 18,5 %, Europa 8,1 %, Japón 5,4 %; componentes electrónicos y productos TIC/audiovisuales suman el 65 % de las exportaciones
 
-[^2]: [Portal principal de ECA/FTA de Taiwán — Acuerdos de cooperación económica entre Taiwán y Nueva Zelanda, y Taiwán y Singapur](https://fta.trade.gov.tw/) — Descripción del contenido de los acuerdos ECA entre Taiwán con Nueva Zelanda y Singapur
+[^2]: [Portal integral de ECA/TLC de Taiwán](https://fta.trade.gov.tw/) — Resultados de negociaciones vigentes: 2 TLC en Centroamérica (Panamá, Guatemala), ECFA, ANZTEC, ASTEP, entre otros
 
-[^3]: [Oficina de Negociación Económica y Comercial del Yuan Ejecutivo — Iniciativa Comercial del Siglo XXI entre Taiwán y EE. UU.](https://www.ey.gov.tw/otn/) — Contexto y contenido de la firma del Capítulo 1 (Facilitación del Comercio) en 2023
+[^3]: [Yuan Ejecutivo — Firma hoy de la primera tanda de acuerdos comerciales Taiwán-EE. UU. (2023-06-01)](https://www.ey.gov.tw/Page/9277F759E41CCD91/070b69ff-9f30-4076-b5c7-5af3a58e108d) — 5 temas en la primera tanda y 7 temas para negociaciones posteriores
 
-[^4]: [Dirección de Comercio Internacional del Ministerio de Economía — Progreso de la solicitud al CPTPP](https://www.trade.gov.tw/) — Explicación del progreso de la solicitud de Taiwán para unirse al CPTPP en 2021
+[^4]: [Ministerio de Relaciones Exteriores — Profundo pesar porque el CPTPP este año no aprobó la creación de grupo de trabajo para nuestra adhesión (2025-11-21)](https://www.mofa.gov.tw/News_Content.aspx?n=95&s=121153) — Solicitud de adhesión el 22 de septiembre de 2021; la 9.ª reunión ministerial decidió iniciar primero el procedimiento de adhesión de Uruguay
 
-[^5]: [CNA 31/05/2024 — China elimina las reducciones arancelarias de 134 productos petroquímicos bajo el ECFA](https://www.cna.com.tw/) — En mayo de 2024, China eliminó nuevamente las reducciones arancelarias anticipadas del ECFA para 134 productos petroquímicos
+[^5]: [Agencia Central de Noticias 2024/5/31 — China cancela nuevamente reducciones arancelarias parciales del ECFA: 134 productos afectados, incluyendo aceites base para lubricantes](https://www.cna.com.tw/news/acn/202405310037.aspx) — A partir del 15 de junio de 2024 se suspenden las tasas convencionales del ECFA para aceites base para lubricantes, bicicletas de competición, ciertos textiles y otros 134 productos
 
-[^6]: [OMC — Informe de examen de las políticas comerciales en áreas arancelarias específicas de Taiwán, Penghu, Kinmen y Matsu](https://wto.trade.gov.tw/cwto/Pages/Detail.aspx?nodeID=4613&pid=743047) — Informe de la OMC sobre la revisión de las políticas comerciales de Taiwán
+[^6]: [OMC — Informe de examen de política comercial del Territorio Aduanero Separado de Taiwán, Penghu, Kinmen y Matsu](https://wto.trade.gov.tw/cwto/Pages/Detail.aspx?nodeID=4613&pid=743047) — Informe de examen de política comercial de la OMC sobre Taiwán
+
+[^7]: [Yuan Ejecutivo — Taiwán y EE. UU. firman el «Acuerdo Comercial Recíproco» estableciendo arancel recíproco del 15 % sin acumulación (2026-02-13)](https://www.ey.gov.tw/Page/9277F759E41CCD91/472c4eba-b7c3-4a7d-8b39-e482e5a1548d) — Firmado el 12 de febrero (hora del Este) el Acuerdo Comercial Recíproco (ART); 2.072 productos taiwaneses exportados a EE. UU. exentos del arancel recíproco
+
+[^8]: [Yuan Ejecutivo — Taiwán y el Reino Unido firman Acuerdo de Asociación Comercial Reforzada (2023-11-08)](https://www.ey.gov.tw/Page/9277F759E41CCD91/92b567c0-ea7e-4e84-a9ea-7d7a9001d041) — Firma formal del Acuerdo de Asociación Comercial Reforzada (ETP)
+
+[^9]: [Ministerio de Relaciones Exteriores — Taiwán e India firman «Acuerdo Bilateral de Inversión» y «Acuerdo de Reconocimiento Mutuo de Empresas Calificadas» (2018-12-18)](https://www.mofa.gov.tw/News_Content.aspx?n=95&sms=73&s=68013) — Firma del Acuerdo Bilateral de Inversión Taiwán-India
+
+[^10]: [Commercial Times 2023/12/21 — China anuncia suspensión de reducciones arancelarias parciales del ECFA](https://www.ctee.com.tw/news/20231221700749-430802) — A partir del 1 de enero de 2024, suspensión de tasas convencionales del ECFA para 12 partidas, incluyendo propileno y paraxileno
