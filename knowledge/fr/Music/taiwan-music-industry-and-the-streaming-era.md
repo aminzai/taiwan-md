@@ -1,247 +1,237 @@
 ---
-title: "L'industrie musicale taïwanaise à l'ère du streaming : de la boutique de disques aux plateformes numériques"
-description: "Analyse de la manière dont l'industrie musicale taïwanaise est passée de l'âge d'or des boutiques de disques à la crise du piratage, avant de développer avec KKBOX la première plateforme légale de streaming au monde, jusqu'à l'écosystème actuel où coexistent Spotify, Apple Music et d'autres services numériques"
+title: "L'industrie musicale taïwanaise et l'ère de la diffusion en streaming : de la boutique de disques à la plateforme numérique"
+description: "Analyse de la transformation de l'industrie musicale taïwanaise, passant de l'âge d'or des disquaires à la crise de la contrefaçon, puis à la naissance de la plateforme de streaming payante KKBOX en 2005, pour aboutir à l'écosystème numérique actuel où KKBOX coexiste avec Spotify et Apple Music."
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'Music'
-subcategory: '獨立與搖滾'
 tags:
   [
     'industrie musicale',
     'musique en streaming',
     'KKBOX',
     'musique numérique',
-    'boutiques de disques',
+    'disquaires',
     'musique indépendante',
   ]
-readingTime: 15
+subcategory: '獨立與搖滾'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: true
+readingTime: 15
 translatedFrom: 'Music/台灣音樂產業與串流時代.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:f71f072559f005b7'
-sourceBodyHash: 'sha256:39fa5a6a860830cc'
-translatedAt: '2026-05-20T05:08:34+08:00'
+sourceCommitSha: '10c444b35'
+sourceContentHash: 'sha256:f83026c30713b729'
+sourceBodyHash: 'sha256:15454291ed0f5b85'
+translatedAt: '2026-10-03T04:11:35+08:00'
 ---
 
-# L'industrie musicale taïwanaise à l'ère du streaming : de la boutique de disques aux plateformes numériques
+# L'industrie musicale taïwanaise et l'ère de la diffusion en streaming : de la boutique de disques à la plateforme numérique
 
 ## Aperçu en 30 secondes
 
-L'industrie musicale taïwanaise a traversé l'âge d'or des boutiques de disques dans les années 1990, puis le choc de la crise du piratage, avant que KKBOX ne devienne en 2005 le premier service légal de musique en streaming au monde, et que des plateformes internationales comme Spotify et Apple Music s'implantent ensuite sur le marché. Cette transformation a modifié les habitudes de consommation des auditeurs et redessiné l'écologie créative des musiciens, passée d'une dépendance aux ventes de disques à une économie fondée sur les données d'écoute en streaming et les revenus des concerts.
+L'industrie musicale taïwanaise a traversé l'âge d'or des disquaires (années 1990), la crise de la contrefaçon, puis la mise en ligne de KKBOX en 2005 avec un modèle de streaming payant, pour finalement accueillir des plateformes internationales comme Spotify et Apple Music. Ce processus de transformation a modifié les habitudes de consommation des auditeurs et redéfini l'économie créative des musiciens, passant des ventes de disques aux données de streaming et aux revenus des concerts.
 
-Cette expérience taïwanaise constitue une référence utile pour comprendre les trajectoires similaires de transformation numérique observées ailleurs en Asie. L'article part de l'apogée du disque dans les années 1990 et suit l'évolution jusqu'à l'écosystème actuel du streaming.
+L'expérience taïwanaise est un cas d'étude pertinent dans le contexte des transformations numériques similaires se produisant dans d'autres parties de l'Asie. Cet article retrace l'histoire, de l'apogée des disquaires dans les années 1990 jusqu'à l'écosystème de streaming actuel.
 
-La lecture de cet article prend environ 15 minutes. Il s'adresse aux lectrices et lecteurs intéressés par l'histoire de l'industrie musicale, la transformation numérique ou le développement de KKBOX.
+La lecture de cet article prend environ 15 minutes et convient aux lecteurs intéressés par l'histoire de l'industrie musicale, la transformation numérique ou le développement de KKBOX.
 
-**Mots-clés :** boutiques de disques, piratage, KKBOX, musique en streaming, musique indépendante, transformation numérique
+**Mots-clés :** disquaires, contrefaçon, KKBOX, musique en streaming, musique indépendante, transformation numérique
 
 ## Pourquoi c'est important
 
-L'expérience de transformation numérique de l'industrie musicale taïwanaise a été relativement précoce dans l'ensemble du monde sinophone. De l'innovation de KKBOX aux stratégies de distribution numérique des musiciens indépendants, l'expérience taïwanaise a influencé la trajectoire de développement de tout le marché musical asiatique.
+L'expérience de la transformation numérique de l'industrie musicale taïwanaise est relativement en avance dans la région chinoise. Des innovations comme KKBOX aux stratégies de publication numérique des artistes indépendants, l'expérience taïwanaise a influencé la trajectoire du marché musical asiatique dans son ensemble.
 
-L'intérêt de ce cas de transformation tient au fait qu'il montre comment une industrie culturelle, après le choc du piratage, a trouvé puis rapidement déployé un modèle commercial légal. Pour celles et ceux qui étudient la transformation numérique, Taïwan constitue un cas digne d'observation.
+La signification de cette étude de cas réside dans le fait qu'elle montre comment une industrie culturelle peut retrouver un modèle commercial légal après avoir été secouée par la contrefaçon. Pour ceux qui étudient la transformation numérique, Taïwan est un cas à observer.
 
-## Les souvenirs de l'âge d'or (1990-2002)
+## Souvenirs de l'âge d'or (1990-2002)
 
-### Les années fastes des boutiques de disques
+### Les années fastes des disquaires
 
-Les années 1990 furent l'âge d'or de l'industrie du disque à Taïwan. Le pays comptait alors plus de 3 000 boutiques de disques, des chaînes comme Rose Records et Tachung Records ou Chia Chia jusqu'aux petits disquaires de quartier, formant un réseau dense de consommation musicale. Chaque vendredi était le « jour de sortie des nouvelles chansons » : les fans se rendaient spécialement en boutique pour acheter les derniers albums, et les vendeurs connaissaient toujours les particularités de chaque disque.
+Les années 1990 ont été l'âge d'or de l'industrie du disque taïwanaise. Des chaînes comme Rose Public (Méi lóng) aux petits magasins de rue, un réseau dense de consommation musicale s'est développé, où les fans se déplaçaient spéciausement dans les disquaires pour acheter les derniers albums.
 
-À cette époque, il était courant qu'un album se vende à plusieurs centaines de milliers d'exemplaires. Le premier album de [Jay Chou](/fr/people/jay-chou/), _Jay_, sorti en 2000, s'est écoulé à plus de 300 000 exemplaires à Taïwan ; _People Life, Ocean Wild_ (2001) de [Mayday](/fr/music/mayday-band/) a même atteint un record de 500 000 exemplaires vendus.[^1] Les boutiques de disques n'étaient pas seulement des lieux d'achat de musique, mais aussi des espaces de sociabilité pour les amateurs de musique.
+À l'époque, il n'était pas rare pour un album de vendre plusieurs centaines de milliers d'exemplaires. L'album _Renshēn Hǎihǎi_ (« La vie est vaste ») de [五月天](/fr/music/mayday-band/), publié en juillet 2001, a vendu 350 000 exemplaires en un mois et demi.[^1] Les disquaires servaient également de lieux de rencontre pour les passionnés de musique.
 
-### Un écosystème industriel complet
+### Une écologie industrielle complète
 
-Taïwan disposait alors d'une chaîne industrielle musicale bien structurée. De grandes maisons de disques comme Rock Records, UFO, Forward Music et EMI dominaient la production, tandis que des circuits de distribution comme Five Music, Rose Records, Tachung Records et Chia Chia acheminaient les albums physiques dans tout le pays.
+À l'époque, Taïwan disposait d'une chaîne de valeur musicale bien établie. Les grands labels comme Rock Records, Flying Star, Fullon, and Cite Music dominaient la production, distribuant les albums physiques via les disquaires à travers toute l'île.
 
-- **Promotion médiatique** : émissions musicales télévisées, stations de radio, magazines musicaux
-- **Industries connexes** : production de clips vidéo, organisation de concerts
+- **Publicité médiatique** : émissions musicales à la télévision, radios, magazines musicaux
+- **Industries connexes** : production de vidéoclips musicaux, organisation de concerts
 
-Cet écosystème a fait de Taïwan un centre de production de la musique sinophone, attirant de nombreux artistes de Hong Kong et de Singapour venus y enregistrer leurs albums.
+Cette écologie a fait de Taïwan le centre de production de la musique chinoise, de nombreux artistes hongkongais et singapouriens venant s'enregistrer en Taïwan pour produire leurs albums.
 
-## Choc du piratage et crise industrielle (2000-2005)
+## L'impact de la contrefaçon et la crise industrielle (2000-2005)
 
 ### L'impact dévastateur du piratage numérique
 
-Au début des années 2000, la généralisation d'Internet et les progrès de la gravure de CD ont entraîné un grave problème de piratage. Des logiciels P2P comme Napster et Kazaa permettaient de télécharger gratuitement de la musique, portant un coup sévère aux ventes de disques physiques. Les ventes de disques à Taïwan ont chuté brutalement après leur pic de 1999, et de nombreuses boutiques ont fermé les unes après les autres.
+Au début des années 2000, la généralisation d'Internet et l'amélioration des technologies de gravure ont entraîné des problèmes sérieux de contrefaçon. Les logiciels P2P comme Napster et Kazaa ont permis le téléchargement gratuit de musique, affectant sévèrement les ventes d'albums physiques. Les ventes de disques taïwanaises ont chuté rapidement depuis le pic de 1997, et de nombreux disquaires ont fermé.
 
-Les statistiques indiquent que la taille du marché musical taïwanais est passée de 15 milliards de dollars taïwanais en 1999 à moins de 5 milliards en 2005. De nombreuses maisons de disques ont été contraintes de licencier ou de fermer, et les budgets de production musicale ont été fortement réduits.
+La valeur annuelle de l'industrie musicale nationale est passée de 1,23 milliard de dollars taïwanais (NT$) en 1997 à seulement 450 millions de NT$ en 2003, une baisse de deux tiers.[^2] De nombreuses maisons de disque ont dû licencier du personnel ou fermer, et les budgets de production musicale ont été fortement réduits.
 
-### Les tâtonnements et tentatives du secteur
+### Lutte et tentatives de l'industrie
 
-Face à la crise, l'industrie du disque a essayé diverses réponses :
+Face à cette crise, l'industrie du disque a essayé diverses solutions :
 
-- **CD protégés contre la copie** : ajout de technologies anticopie, avec des effets limités
-- **Stratégies de baisse des prix** : lancement d'albums à bas prix dans l'espoir de concurrencer les copies pirates
-- **Gestion numérique des droits** : coopération avec des opérateurs télécoms pour proposer des téléchargements payants
+- **Disques anti-copie** : ajout de technologies anti-copie, mais avec des effets limités
+- **Stratégie de réduction de prix** : lancement d'albums à prix réduit pour concurrencer les contrefaçons
+- **Gestion numérique des droits** : collaboration avec les opérateurs télécom pour proposer des téléchargements payants
 
-Aucune de ces mesures n'a toutefois réussi à endiguer le flot du piratage. L'industrie traditionnelle du disque avait un besoin urgent d'un nouveau modèle commercial.
+Cependant, aucune de ces mesures n'a pu arrêter l'avalanche de contrefaçon. L'industrie traditionnelle des disques avait besoin d'un nouveau modèle économique.
 
-## L'innovation taïwanaise du streaming musical (2005-2010)
+## L'innovation taïwanaise dans le streaming (2005-2010)
 
-### KKBOX : le premier service légal de streaming au monde
+### KKBOX : le streaming payant taïwanais
 
-En 2005, Chris Lin, fondateur de Skysoft, a lancé **KKBOX**, qui est devenu le premier service légal de musique en streaming payant au monde. Cette innovation majeure a précédé de trois ans le lancement officiel de Spotify.
+En octobre 2005, **KKBOX**, fondé par Jian Min-yi, Lin Guan-qun, et Xu Ande, a lancé sa plateforme de streaming musical payante à Taïwan, avant d'étendre ses services à Hong Kong, Macao, Singapour, Malaisie, et Japon.[^3] Bien que le premier service de streaming à la demande mondial ait été Rhapsody (décembre 2001),[^4] KKBOX l'a devancé de quatre ans, et Spotify de trois ans.
 
-Le concept central de KKBOX était d'« écouter de la musique partout et à tout moment ». Pour 149 dollars taïwanais par mois, les utilisateurs pouvaient écouter des millions de chansons. Cette stratégie tarifaire trouvait un équilibre habile entre commodité et coût raisonnable : l'abonnement mensuel représentait environ la moitié du prix d'un CD.
+Le concept central de KKBOX est « écouter de la musique n'importe où, n'importe quand » : en payant un abonnement mensuel fixe, les utilisateurs peuvent écouter à la demande.
 
-### Une innovation de modèle commercial
+### Innovation dans le modèle économique
 
-KKBOX n'était pas seulement une innovation technique, mais aussi une révolution du modèle commercial :
+KKBOX a également changé la manière dont la musique est facturée :
 
-- **Revenus par abonnement** : des recettes mensuelles stables remplaçaient les ventes incertaines de titres à l'unité
-- **Analyse de données** : compréhension des habitudes d'écoute des utilisateurs et recommandations personnalisées
-- **Partage des droits** : établissement de nouveaux modèles de répartition des revenus avec les maisons de disques
-- **Intégration multi-appareils** : continuité fluide entre téléphone, ordinateur et interface web
+- **Revenus d'abonnement** : des revenus mensuels stables remplaçant les ventes aléatoires de singles
+- **Analyse de données** : comprendre les habitudes d'écoute des utilisateurs pour offrir des recommandations personnalisées
+- **Répartition des droits** : établir un nouveau modèle de partage des revenus avec les maisons de disque
+- **Intégration multi-appareils** : téléphones, ordinateurs, et sites web interconnectés de manière fluide
 
-### Difficultés initiales et percées
+### Défis et percées initiales
 
-À ses débuts, KKBOX a rencontré de nombreuses difficultés. Plusieurs maisons de disques doutaient de ce nouveau modèle et craignaient qu'il n'affecte les ventes physiques. Les limites de la bande passante Internet pesaient aussi sur la qualité sonore. L'équipe de Chris Lin a néanmoins persévéré, convainquant une à une les principales maisons de disques de rejoindre la plateforme.
+KKBOX a fait face à de nombreuses difficultés au début. Plusieurs maisons de disque dosaient sur le nouveau modèle, craignant qu'il n'affecte les ventes physiques. Les limitations de bande passante Internet ont également impacté la qualité audio. Mais l'équipe de KKBOX a tenu bon, convaincant un à un les principaux labels de rejoindre la plateforme.
 
-En 2008, KKBOX comptait déjà plus d'un million d'utilisateurs, prouvant la viabilité de la musique en streaming sur le marché asiatique.
-
-## Arrivée des plateformes internationales et concurrence (2010-2020)
+## L'arrivée des plateformes internationales et la concurrence (2010-2020)
 
 ### L'offensive de Spotify
 
-En 2013, Spotify est officiellement entré sur le marché taïwanais, fort de son statut de plus grande plateforme mondiale de streaming et d'un système de recommandation algorithmique plus performant. Spotify proposait une version gratuite avec publicité et une version payante, attirant un grand nombre de jeunes utilisateurs.
+En 2013, Spotify a officiellement pénétré le marché taïwanais, apportant avec lui l'avantage de la plus grande plateforme de streaming au monde et un système d'algorithme de recommandation plus performant. Spotify offre une version gratuite (avec publicités) et une version payante, attirant ainsi un grand nombre de jeunes utilisateurs.
 
-Les avantages de Spotify comprenaient :
+Les avantages de Spotify comprennent :
 
-- **Des algorithmes de recommandation plus précis** : des fonctionnalités comme « Découvertes de la semaine » ont été très appréciées des utilisateurs
-- **Fonctions sociales** : partage de playlists et possibilité de voir ce qu'écoutent ses amis
-- **Contenus internationaux** : riches catalogues de musiques européennes et américaines
-- **Intégration des podcasts** : une plateforme non seulement musicale, mais plus largement dédiée au divertissement audio
+- **Algorithmes de recommandation plus précis** : des fonctions comme « Rapport d'exploration » sont très populaires auprès des utilisateurs
+- **Fonctionnalités sociales** : possibilité de partager des listes de lecture et de voir ce que les amis écoutent
+- **Contenu international** : une vaste gamme de ressources musicales occidentales
+- **Intégration de podcasts** : au-delà de la musique, la plateforme propose également des podcasts, devenant une plateforme de divertissement audio
 
-### L'arrivée d'Apple Music et de YouTube Music
+### L'arrivée d'Apple Music et YouTube Music
 
-En 2015, Apple Music s'est implanté à Taïwan et a rapidement gagné des parts de marché grâce à son intégration profonde avec l'iPhone. YouTube Music, de son côté, s'est appuyé sur l'immense réservoir audiovisuel de YouTube pour proposer une expérience centrée aussi sur le visionnage de clips.
+En février 2016, Apple Music a lancé ses services à Taïwan,[^5] gagnant rapidement des parts de marché grâce à son intégration profonde avec les iPhone. YouTube Music a utilisé la vaste ressource vidéo de YouTube pour offrir une expérience d'écoute accompagnée de clips musicaux.
 
-La concurrence de ces plateformes internationales a rendu le marché taïwanais du streaming musical plus mature et donné aux utilisateurs davantage de choix.
+La concurrence entre ces plateformes internationales a rendu le marché du streaming musical taïwanais plus mature, offrant ainsi aux utilisateurs davantage de choix.
 
-### Les avantages locaux de KKBOX
+### Les avantages localisés de KKBOX
 
-Face à la concurrence internationale, KKBOX a mis en avant ses atouts locaux :
+Face à la concurrence internationale, KKBOX a mis en valeur ses avantages localisés :
 
-- **Approfondissement de la musique sinophone** : relations plus étroites avec les artistes sinophones
-- **Événements locaux** : cérémonies comme les KKBOX Music Awards
-- **Coopérations intersectorielles** : offres groupées avec des opérateurs télécoms et des acteurs financiers
-- **Qualité Hi-Res** : lancement précoce d'un service de musique haute résolution
+- **Profondeur de la musique chinoise** : établir des relations plus étroites avec les artistes chinois
+- **Activités locales** : des cérémonies de remise de prix comme le « KKBOX Music Awards »
+- **Partenariats transversaux** : des offres combinées avec les télécoms et les institutions financières
+- **Qualité audio sans perte** : en juillet 2020, KKBOX a été le premier à lancer une qualité audio sans perte à Taïwan, puis en 2021, elle a passé à Hi-Res.[^3]
 
-## Les opportunités numériques pour les musiciens indépendants (2015-aujourd'hui)
+## Les opportunités numériques pour les artistes indépendants (2015-présent)
 
-Le streaming numérique a affaibli le rôle de gardien des maisons de disques, permettant aux musiciens indépendants d'atteindre directement leurs auditeurs. Cette transformation structurelle a modifié le visage de l'écosystème de la musique indépendante à Taïwan.
+La révolution du streaming a brisé le rôle de gardien des clés des maisons de disque, offrant aux artistes indépendants la possibilité d'atteindre directement leurs auditeurs. Ce changement structurel a transformé l'écosystème de la musique indépendante taïwanaise.
 
-### Une forte baisse du seuil de distribution
+### La baisse significative des seuils de publication
 
-Le plus grand changement de l'ère du streaming a été l'abaissement du seuil de distribution musicale. Autrefois, les musiciens devaient signer avec une maison de disques pour sortir un album ; aujourd'hui, grâce à des plateformes de distribution numérique comme DistroKid, TuneCore ou StreetVoice, les artistes indépendants peuvent mettre directement leurs œuvres en ligne sur les grandes plateformes de streaming.
+Le plus grand changement de l'ère du streaming est la baisse des seuils de publication musicale. Autrefois, les musiciens devaient signer avec une maison de disque pour publier un album. Aujourd'hui, grâce à des plateformes de publication numérique comme DistroKid, TuneCore, et Street Voice, les artistes indépendants peuvent directement mettre leurs œuvres sur toutes les plateformes de streaming.
 
-### Cas de réussite : No Party For Cao Dong
+### Étude de cas : Caochang Meiyoudaidao
 
-**No Party For Cao Dong** est un exemple de réussite de la musique indépendante taïwanaise à l'ère du streaming. Leur album _The Servile_, sorti en 2016 sans le soutien d'une grande maison de disques, est pourtant devenu un phénomène sur les réseaux sociaux et les plateformes de streaming. La chanson « Simon Says » a dépassé les 50 millions de vues sur YouTube, montrant la capacité d'explosion d'une création de qualité à l'ère numérique.
+**Caochang Meiyoudaidao** (« Il n'y a pas de fête à Caochang ») est un exemple de réussite de la musique indépendante taïwanaise à l'ère du streaming. Leur album _Chǒunǚ'ér_ (« Laide »), publié en 2016 sans le soutien d'une grande maison de disque, a connu un énorme succès sur les réseaux sociaux et les plateformes de streaming. La vidéo officielle de _Dàfēngchuī_ (« Le vent fort ») a accumulé environ 16 millions de vues sur YouTube.[^6] Cela démontre la puissance de la création de qualité dans l'ère numérique.
 
 ### De nouveaux modèles de revenus
 
-Les revenus des musiciens indépendants ne dépendent plus d'un seul canal. Les redevances de streaming restent faibles pour chaque titre, mais leur accumulation peut devenir substantielle ; les concerts, dans les live houses et les festivals, offrent une autre source importante de revenus,
+Les revenus des artistes indépendants ne dépendent plus d'un seul canal. Bien que les droits d'auteur par écoute soient faibles, ils deviennent significatifs cumulativement. Les concerts en live (Live House, festivals musicaux) offrent un autre revenu important,
 
-- **Produits dérivés** : T-shirts, vinyles et autres produits physiques
-- **Coopérations sponsorisées** : ambassadeur de marque, collaborations publicitaires
+- **Produits dérivés** : vêtements, vinyles, etc.
+- **Partenariats sponsorisés** : collaborations avec des marques, publicités
 - **Services d'enseignement** : cours de musique en ligne, ateliers
 
-## Une industrie musicale guidée par les données
+## Une industrie guidée par les données
 
 ### L'importance des données d'écoute
 
-L'ère du streaming a rendu l'industrie musicale davantage orientée par les données. Le nombre d'écoutes, le taux d'écoute complète ou la proportion d'ajouts à des playlists sont autant d'indicateurs concrets pour évaluer la performance d'une chanson.
-
-« Blue and White Porcelain » de [Jay Chou](/fr/people/jay-chou/) a dépassé les 100 millions d'écoutes sur Spotify à Taïwan, tandis que « Stubborn » de [Mayday](/fr/music/mayday-band/) a atteint 80 millions d'écoutes. Ces données reflètent la vitalité durable des chansons classiques à l'ère numérique.
+L'ère du streaming a rendu l'industrie musicale plus orientée données. Le nombre d'écoutes, le taux d'écoute complet, et le pourcentage ajouté aux listes de lecture sont des indicateurs concrets pour évaluer la performance d'une chanson. Même les classiques intemporels peuvent prouver leur popularité actuelle grâce à ces données.
 
 ### L'influence des recommandations personnalisées
 
-Les recommandations algorithmiques des plateformes de streaming influencent profondément la découverte musicale des auditeurs. Des fonctionnalités comme « Daily Mix » de Spotify ou « Recommandé pour vous » de KKBOX facilitent l'accès à des genres musicaux plus diversifiés.
+Les algorithmes de recommandation des plateformes de streaming ont profondément influencé la découverte musicale des auditeurs. Des listes de lecture personnalisées comme « Daily Mix » de Spotify ont rendu plus facile pour les auditeurs de découvrir des genres musicaux variés.
 
-### La transformation de la culture des classements
+### Le changement dans la culture des classements
 
-Les classements traditionnels fondés sur les ventes de disques ont été remplacés par des classements de streaming. Les classements KKBOX, les charts viraux de Spotify et d'autres indicateurs sont devenus de nouveaux repères musicaux, reflétant les préférences immédiates des auditeurs.
+Les anciens classements de vente de disques ont été remplacés par les classements de streaming. Les classements de streaming comme le « KKBOX Chart », lancé en 2006, sont devenus de nouveaux repères musicaux, reflétant les préférences instantanées des auditeurs.[^3]
 
-## Les transformations accélérées par la pandémie (2020-aujourd'hui)
+## L'accélération de la transformation industrielle due à la pandémie (2020-présent)
 
-### L'effet catalyseur du COVID-19
+### L'effet catalyseur de la COVID-19
 
-En 2020, la pandémie de COVID-19 a durement frappé l'industrie de la musique live, mais elle a fortement accru l'usage du streaming musical. Selon les statistiques, le nombre d'auditeurs de musique en streaming à Taïwan a augmenté de plus de 30 % en 2020, et de nombreux auditeurs d'âge moyen ou avancé ont commencé à utiliser ces services.
+La pandémie de COVID-19 a eu un impact majeur sur l'industrie musicale en live. Les auditeurs passant plus de temps à la maison, les concerts en présentiel ont dû être déplacés en ligne.
 
-### L'essor des concerts en ligne
+### L'émergence des concerts en ligne
 
-Pendant la pandémie, de nombreux chanteurs ont commencé à expérimenter les concerts en ligne. Le concert en ligne organisé par [Mayday](/fr/music/mayday-band/) en 2020 a attiré plus de 30 millions de spectateurs simultanés, établissant un record pour la diffusion en direct de musique sinophone.
+Pendant la pandémie, de nombreux artistes ont commencé à essayer des concerts en ligne. Le [五月天](/fr/music/mayday-band/) a organisé un concert en ligne sans public le 31 mai 2020, intitulé « Je veux vraiment te voir », diffusé sur plus de dix plateformes comme LINE, Facebook, et YouTube, atteignant environ 42,44 millions de vues en une journée.[^7]
 
-### La montée des podcasts
+### L'essor du podcast
 
-Les contenus audio ne se limitent pas à la musique : les podcasts se sont développés rapidement à Taïwan. Spotify et KKBOX ont tous deux renforcé leurs investissements dans les contenus de podcast, et des musiciens ont aussi commencé à produire leurs propres émissions.
+Le contenu audio ne se limite pas à la musique. Le podcast connaît un développement rapide à Taïwan. Spotify et KKBOX ont renforcé leurs investissements dans le contenu de podcast, et les musiciens commencent également à créer leurs propres émissions de podcast.
 
 ## Défis actuels et perspectives d'avenir
 
-### Controverses sur la répartition des droits
+### Controverses sur la répartition des droits d'auteur
 
-La répartition des droits sur les plateformes de streaming reste controversée. Les musiciens estiment généralement que la part reversée par écoute est trop faible et qu'il faut plusieurs millions d'écoutes pour obtenir un revenu raisonnable. Cela pousse de nombreux artistes à accorder davantage d'importance aux concerts et à la vente de produits dérivés.
+La répartition des frais de droits d'auteur sur les plateformes de streaming a longtemps été un sujet de débat. Les musiciens estiment généralement que la rémunération par écoute est trop faible, nécessitant des millions d'écoutes pour obtenir un revenu raisonnable. Cela pousse de nombreux musiciens à se concentrer davantage sur les concerts en live et la vente de produits dérivés.
 
-### Le défi de la diversité musicale
+### Défis liés à la diversité musicale
 
-Les recommandations algorithmiques sont pratiques, mais elles peuvent aussi produire un « effet de chambre d'écho », enfermant les auditeurs dans des genres musicaux similaires. Trouver l'équilibre entre recommandation personnalisée et diversité musicale constitue un défi pour les plateformes.
+Bien que les recommandations d'algorithmes soient pratiques, elles peuvent aussi créer un « effet de salle d'écho », enfermant les auditeurs dans des genres musicaux similaires. Comment équilibrer les recommandations personnalisées et la diversité musicale reste un défi pour les plateformes.
 
-### Le développement de l'audio Hi-Res
+### Développement de l'audio Hi-Res
 
-Avec l'amélioration de la bande passante Internet, la musique haute résolution est devenue une nouvelle tendance. KKBOX a lancé tôt un service Hi-Res à Taïwan, et Apple Music a également suivi avec une qualité audio sans perte afin de répondre aux attentes des audiophiles.
+Avec l'amélioration de la bande passante Internet, la musique haute résolution devient une nouvelle tendance. En 2020, KKBOX a lancé une qualité audio sans perte à Taïwan, puis en 2021, elle a passé à Hi-Res.[^3] Apple Music a également lancé une qualité audio sans perte, répondant aux besoins des audiophiles.
 
-### Web3 et musique NFT
+### Musique Web3 et NFT
 
-La technologie blockchain ouvre de nouvelles possibilités pour l'industrie musicale. Les NFT musicaux permettent aux fans de posséder des actifs musicaux numériques uniques, tandis que les contrats intelligents peuvent répartir automatiquement les redevances entre les créateurs concernés. Le domaine en est encore à ses débuts, mais ses évolutions futures méritent l'attention.
+Les technologies blockchain apportent de nouvelles possibilités à l'industrie musicale. Les NFT musicaux permettent aux fans de posséder des actifs musicaux numériques uniques, et les contrats intelligents peuvent automatiquement distribuer les droits d'auteur aux créateurs concernés. Bien que cette technologie soit encore à un stade précoce, elle mérite d'être suivie de près.
 
-## Impacts culturels et sociaux
+## Impact culturel et social
 
-### La transformation des habitudes d'écoute
+### Le changement des habitudes d'écoute
 
-L'ère du streaming a changé les habitudes d'écoute :
+L'ère du streaming a changé la manière dont les gens écoutent de la musique :
 
-- **De l'album au single** : les auditeurs tendent davantage à écouter des chansons individuelles plutôt que des albums complets
-- **Culture de la playlist** : les playlists personnalisées sont devenues une nouvelle forme de curation musicale
-- **Partout et à tout moment** : la consommation musicale n'est plus limitée par le temps ni par le lieu
-- **Écoute multilingue** : il est plus facile d'accéder à des musiques dans différentes langues
+- **Des albums aux singles** : les auditeurs préfèrent écouter des chansons individuelles plutôt que des albums complets
+- **Culture des listes de lecture** : les listes de lecture personnalisées deviennent une nouvelle forme de programmation musicale
+- **Écouter n'importe où, n'importe quand** : la consommation musicale n'est plus limitée par le temps et l'endroit
+- **Écoute interlinguistique** : il est plus facile d'accéder à de la musique dans différentes langues
 
 ### La démocratisation de l'industrie musicale
 
-Les plateformes de streaming ont abaissé les seuils de création et de distribution musicale, donnant à davantage de musiciens indépendants la possibilité d'être entendus. Cette démocratisation rend l'industrie musicale plus ouverte et offre aux auditeurs un choix plus vaste.
+Les plateformes de streaming ont abaissé les seuils de création et de publication musicale, permettant à plus d'artistes indépendants d'être entendus. Cette démocratisation rend l'industrie musicale plus ouverte et offre aux auditeurs plus de choix.
 
 ### La réduction des écarts générationnels
 
-Les algorithmes de recommandation des plateformes de streaming permettent à des auditeurs de différentes générations d'accéder à la musique de toutes les époques. Les jeunes commencent à écouter des classiques des années 1980 et 1990, tandis que les auditeurs d'âge moyen découvrent aussi de nouveaux musiciens grâce aux plateformes.
+Les algorithmes de recommandation des plateformes de streaming permettent aux auditeurs de générations différentes d'accéder à la musique de toutes les époques. Les jeunes générations commencent à écouter les classiques des années 1980 et 1990, tandis que les auditeurs plus âgés découvrent à travers la plateforme les nouveaux artistes.
 
-## Conclusion : de la révolution au quotidien
+## Conclusion : De la révolution au quotidien
 
-Le parcours de transformation numérique de l'industrie musicale taïwanaise a été marqué par les défis et l'innovation. Du lancement mondialement pionnier de KKBOX à l'écosystème actuel où coexistent plusieurs plateformes, ce processus a changé les modes de consommation de la musique et ébranlé la logique commerciale qui s'était construite autour du disque physique.
+Le parcours de transformation numérique de l'industrie musicale taïwanaise a été parsemé de défis et d'innovations. De la mise en ligne de KKBOX à l'écosystème multi-plateformes actuel, ce processus a changé la manière dont la musique est consommée et a bouleversé la logique commerciale basée sur les disques physiques.
 
-Pour les musiciens, l'ère du streaming est à la fois un défi et une opportunité. Les redevances par titre sont faibles, mais la couverture potentielle des auditeurs est plus large ; la concurrence est intense, mais le seuil d'entrée a aussi baissé. L'association de la technologie et de la créativité a déjà produit, au cours de la dernière décennie, une série de musiques qui n'auraient pas pu émerger auparavant.
+Pour les musiciens, l'ère du streaming représente à la fois des défis et des opportunités. Les droits d'auteur par écoute sont faibles, mais la portée potentielle des auditeurs est plus large. La concurrence est intense, mais les seuils d'entrée ont également baissé. La combinaison de la technologie et de la créativité a permis, au cours des dix dernières années, de produire une série de musiques qui n'auraient pas pu exister auparavant.
 
-Pour les auditeurs, l'offre musicale est plus abondante qu'à toute autre époque, mais cette profusion dilue aussi l'attention. Savoir trouver activement de la bonne musique au-delà de la bulle des recommandations algorithmiques est devenu un nouvel enjeu d'écoute.
+Pour les auditeurs, le choix musical est plus vaste que jamais, mais cette abondance dilue également l'attention. Apprendre à trouver activement de la bonne musique au milieu des recommandations algorithmiques devient un nouveau défi d'écoute.
 
-## Références
+## Sources
 
-[^1]: L'album de Mayday sorti en 2001 est _People Life, Ocean Wild_ ; _Second Round_ est sorti en 2011. Voir l'[article Wikipédia sur Mayday](https://zh.wikipedia.org/wiki/%E4%BA%94%E6%9C%88%E5%A4%A9)
+[^1]: [五月天 — Wikipédia](https://zh.wikipedia.org/zh-tw/%E4%BA%94%E6%9C%88%E5%A4%A9) — _Renshēn Hǎihǎi_ a été publié le 6 juillet 2001, avec un total de 350 000 exemplaires vendus en un mois et demi.
 
-[^2]: [Site officiel de KKBOX](https://www.kkbox.com/) — Historique du développement de KKBOX et présentation du service
+[^2]: [Far Eastern Magazine — L'impact de la contrefaçon sur l'industrie du disque](https://www.gvm.com.tw/article/9602) — La valeur annuelle de l'industrie musicale nationale est passée de 1,23 milliard de NT$ en 1997 à 450 millions de NT$ en 2003.
 
-[^3]: [_Histoire du développement de l'industrie musicale taïwanaise_, Bureau du développement de l'audiovisuel, de la musique et des industries de la culture populaire, ministère de la Culture](https://www.bamid.gov.tw/) — Données statistiques officielles du secteur
+[^3]: [KKBOX — Wikipédia](https://zh.wikipedia.org/zh-tw/KKBOX) — Lancement en octobre 2005 à Taïwan, fondé par Jian Min-yi, Lin Guan-qun, et Xu Ande ; lancement du « KKBOX Chart » en 2006 ; lancement de la qualité audio sans perte en juillet 2020, puis passage à Hi-Res en 2021.
 
-[^4]: [_Le streaming musical transforme l'écosystème musical taïwanais_, INSIDE, 2020](https://www.inside.com.tw/article/21245-streaming-music-taiwan) — Analyse du marché du streaming musical
+[^4]: [Rhapsody (online music service) — Wikipedia](<https://en.wikipedia.org/wiki/Rhapsody_(online_music_service)>) — Lancement le 3 décembre 2001, le premier service de streaming musical offrant un abonnement illimité à la demande.
 
-[^5]: [_Chris Lin, fondateur de KKBOX_, Business Weekly, 2018](https://www.businessweekly.com.tw/focus/blog/3007895) — Entretien avec le fondateur de KKBOX
+[^5]: [Apple Music officially lands in Taïwan — TechNews, 2016-02-05](https://technews.tw/2016/02/05/apple-music-finally-launches-in-taiwan/) — Apple Music a lancé ses services à Taïwan en février 2016.
 
-[^6]: [_Analyse de la stratégie d'entrée de Spotify sur le marché taïwanais_, Brain Magazine, 2014](https://www.brain.com.tw/news/articlecontent?ID=19234) — Analyse de la concurrence des plateformes internationales
+[^6]: [Caochang Meiyoudaidao - _Dàfēngchuī_ Official MV — YouTube](https://www.youtube.com/watch?v=HqmpIQ9l-uA) — Téléchargé en février 2018, avec environ 15,97 millions de vues en octobre 2026.
 
-[^7]: [_No Party For Cao Dong : la réussite numérique de la musique indépendante_, The News Lens, 2017](https://www.thenewslens.com/article/68492) — Analyse d'un cas de musique indépendante
-
-[^8]: [_Rapport d'enquête sur le marché taïwanais du streaming musical_, MIC, Institute for Information Industry, 2021](https://mic.iii.org.tw/aisp/reports.aspx?id=CDOC20210324001) — Statistiques de marché
-
-[^9]: [_L'impact du COVID-19 sur l'industrie musicale taïwanaise_, ministère de la Culture, 2021](https://www.moc.gov.tw/information_250_137321.html) — Analyse des effets de la pandémie
-
-[^10]: [_Droits de la musique numérique et mécanismes de répartition des revenus_, Music Copyright Society of Chinese Taipei](http://www.must.org.tw/) — Explication des mécanismes de répartition des droits
+[^7]: [Five Man Army Online Concert — TechNews, 2020-07-04](https://technews.tw/2020/07/04/online-concert-by-mayday/) — Le 31 mai, « Je veux vraiment te voir », diffusé sur plus de dix plateformes, a atteint environ 42,44 millions de vues en une journée.
