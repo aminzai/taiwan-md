@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-01T22:06:47.088Z",
+  "lastUpdated": "2026-10-02T22:06:16.256Z",
   "generator": "scripts/core/generate-dashboard-alerts.mjs",
   "note": "derived 警報層 — CONSCIOUSNESS §警報 的機械接管 (audit 2026-06-10 A-3)",
   "count": 2,
@@ -13,12 +13,12 @@
       "firstSeen": "2026-07-05"
     },
     {
-      "id": "memory-index-rows",
+      "id": "observer-absent",
       "severity": "yellow",
-      "message": "MEMORY.md 索引 inline 85 rows > 80 — 跑 memory-index-rollup.py --apply（2026-07-05 起已實作，owner=distill-weekly）",
-      "source": "MEMORY.md",
-      "owner": "twmd-distill-weekly",
-      "firstSeen": "2026-10-01"
+      "message": "觀察者缺席 7 天 — 缺席協議生效（到期預設必執行／🔒閾值類可代理）",
+      "source": "observer-presence.py",
+      "owner": "twmd-weekly-report-sun",
+      "firstSeen": "2026-10-02"
     }
   ]
 }

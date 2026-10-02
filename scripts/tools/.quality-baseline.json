@@ -1,8 +1,8 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-10-01T22:06:36Z",
+  "timestamp": "2026-10-02T22:06:06Z",
   "total": 1125,
-  "flagged": 715,
+  "flagged": 717,
   "files": [
     {
       "file": "music/台灣KTV文化.md",
@@ -262,7 +262,7 @@
     {
       "file": "economy/台灣國際貿易政策.md",
       "score": 4,
-      "reasons": "未人工審核; 分號5個; 稀薄段落×7"
+      "reasons": "空洞詞6個; 未人工審核; 稀薄段落×7"
     },
     {
       "file": "economy/中壢.md",
@@ -471,8 +471,8 @@
     },
     {
       "file": "technology/台灣電動車產業鏈發展.md",
-      "score": 5,
-      "reasons": "未人工審核; 分號10個; 稀薄段落×3"
+      "score": 4,
+      "reasons": "未人工審核; 分號5個; 稀薄段落×3"
     },
     {
       "file": "technology/AI發展.md",
@@ -698,6 +698,11 @@
       "file": "art/當代台灣文學.md",
       "score": 4,
       "reasons": "未人工審核; 破折號10個; 英式短句開場3處"
+    },
+    {
+      "file": "art/台灣藝術教育與學院發展.md",
+      "score": 4,
+      "reasons": "未人工審核; 連續bullet4行; 後段清單堆砌54%"
     },
     {
       "file": "art/植劇場.md",
@@ -1470,14 +1475,19 @@
       "reasons": "未人工審核; 塑膠句1個; 分號4個; 英式短句開場4處"
     },
     {
+      "file": "nature/台灣石虎保育.md",
+      "score": 4,
+      "reasons": "塑膠句1個; 破折號9個; 英式短句開場3處"
+    },
+    {
       "file": "nature/台灣鳥類窗殺議題.md",
       "score": 7,
       "reasons": "空洞詞5個; 未人工審核; 連續bullet4行; 後段清單堆砌46%; 稀薄段落×4"
     },
     {
       "file": "nature/生態多樣性.md",
-      "score": 9,
-      "reasons": "年份僅0個; 空洞詞9個; 連續bullet4行; 塑膠句1個; 稀薄段落×7"
+      "score": 10,
+      "reasons": "年份僅0個; 空洞詞8個; 連續bullet4行; 塑膠句1個; 後段清單堆砌31%; 稀薄段落×7"
     },
     {
       "file": "nature/櫻花鉤吻鮭.md",
@@ -2486,8 +2496,8 @@
     },
     {
       "file": "food/台灣手搖飲文化.md",
-      "score": 5,
-      "reasons": "未人工審核; 連續bullet4行; 分號9個; 稀薄段落×1"
+      "score": 6,
+      "reasons": "空洞詞5個; 未人工審核; 連續bullet4行; 分號9個; 稀薄段落×1"
     },
     {
       "file": "food/牛肉湯.md",
