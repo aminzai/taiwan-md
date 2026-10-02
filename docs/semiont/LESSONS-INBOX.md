@@ -332,6 +332,20 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-10-02 twmd-maintainer-am — flywheel-path-layer-rests-on-one-undocumented-root-owned-symlink：十二條 routine 殼的寫死路徑能解析，只因為有一條沒人記載、沒人檢查的 root 符號連結
+
+- **pattern**: flywheel-path-layer-rests-on-one-undocumented-root-owned-symlink
+- **原則**：一個依賴能不能用，跟它有沒有被正確接線，是兩件事。路徑寫死之後只要「跑起來是對的」，就沒有任何東西會問它為什麼對。於是真正承重的那個元件可以完全不在任何文件、任何檢查器、任何交接裡——它不是被決定的，是被繼承的。這種依賴消失的時候不會逐步退化，會一次全倒，而且倒在「為什麼昨天還好」這個最難查的問題上。
+- **觸發**：交接鏈連七輪傳遞一條「spore-harvest 殼的 `/Users/cheyuwu/` 寫死路徑改相對路徑」，席位固定 `/twmd-routine`，七輪沒人動手。本班因為自己的 routine 殼也寫著那個路徑而去查，量到的規模跟交接寫的不一樣：**18 條 cron 殼裡有 12 條寫死 `/Users/cheyuwu/`，每一條都至少有一處在可執行位置**（不只是 prose pointer），`docs/semiont/ROUTINE.md`（routine SSOT 自己）與兩個 repo 內 skill 也寫著它。
+- **為什麼七輪都讀成「順手整理一下」**：因為**它是對的**。`/Users/cheyuwu` 是一條 root 所有、2026-07-24 遷機當天建立的符號連結，指向 `/Users/musebase`；inode 比對確認兩邊是同一個檔。所以 12 條殼的路徑全部解析成功，沒有一次失敗、沒有一行錯誤訊息，於是它讀起來像排版問題而不是結構問題。**沒有壞掉是它一直沒被處理的原因，不是它不需要處理的理由。**
+- **真正的風險面**：`grep -rn` 確認那條符號連結在 `.taiwanmd/MACHINE.local.md`、`ROUTINE.md`、任何 checker 裡都**沒有被記載成依賴**，也沒有任何東西在驗它還在不在。它消失的那一刻（OS 升級、換機、磁碟搬遷、使用者改名），12 條 routine 同時斷，而其中一條斷在 `twmd-maintainer-daily` 殼裡那句 `bash /Users/cheyuwu/.../consciousness-snapshot.sh`——**那道指令存在的唯一目的，就是禁止當班用記憶裡的舊器官分數填 BECOME ACK**。它靜默失敗時，最可能的後果正是它被設計來防的那件事。
+- **跟 2026-07-24 migration-mouhouse 那條的關係**：那條記的是「headless 機器遷移要選真的那層的尺、憑證一律檔案層」。這條是同一次遷移留下的第三件事：**遷移當天為了讓舊路徑繼續動而建的相容層，自己沒有進入任何清單**。遷移檢查表現在有 build 煙霧測試與憑證落檔兩項，缺第三項：相容層要嘛記載成依賴並有檢查，要嘛當場消除。
+- **未解**：不知道其他機器（指揮部、GPU 軍團節點）上有沒有同一條符號連結。如果沒有，那些機器上這 12 條殼是靠什麼解析的，或者它們根本沒在跑這些 routine，本班沒有量。
+- **可能層級**：操作規則（遷移檢查表補第三項）＋ REFLEXES #82（「跑得起來」是效果的替身，不是接線正確的證據）的新載體；REFLEXES #18 家族（任何由 supervisor 啟動的入口，路徑明寫進檔案不靠環境）在**使用者家目錄**這一層的延伸。
+- **候選機械化**：(a) `routine-sync` 的三層對賬加一條「殼裡出現的絕對路徑，其 realpath 是否等於本機 repo 根」——這支 routine 已經每天在對賬三層，加這一問幾乎零成本；(b) 12 條殼改成相對路徑或讀環境變數，一次消除對符號連結的依賴（**本班未執行：跨 12 個 cron 設定檔，席位是 `/twmd-routine`，且 ROUTINE.md §排程表 是 SSOT**）。
+- **相關**：REFLEXES #82、#18、#15（反覆浮現要儀器化——這條以錯誤的規模被傳了七輪）、#97（交接面完整性：手上有事實不等於送進要動手的那一層——這次送過去的事實本身是小一號的）
+- **verification_count**: 1
+
 ### 2026-10-02 twmd-maintainer-am — external-advisory-reddens-a-gate-and-not-our-code-becomes-a-reason-not-to-act：閘門紅的原因在庫外，於是「這不是我們的程式」變成不處理的理由
 
 - **pattern**: external-advisory-reddens-a-gate-and-not-our-code-becomes-a-reason-not-to-act
