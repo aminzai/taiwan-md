@@ -1,139 +1,132 @@
 ---
-title: 'O Pico entre Mar e Montanha da Ilha: Ecologia e Paisagens dos Parques Nacionais de Taiwan'
-description: 'Explore os ecossistemas únicos e valores de conservação dos nove parques nacionais de Taiwan, das costas subtropicais à linha de neve alpina, uma paisagem completa'
+title: 'Cumes da ilha: ecologia e paisagens dos parques nacionais de Taiwan'
+description: 'Explore os ecossistemas únicos e valores de conservação dos nove parques nacionais de Taiwan, da costa subtropical às montanhas nevadas'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'Nature'
-subcategory: '國家公園與步道'
 tags:
   [
-    'Parques Nacionais',
-    'Conservação Ecológica',
-    'Paisagens Naturais',
-    'Biodiversidade',
-    'Proteção Ambiental',
+    'parques nacionais',
+    'conservação ecológica',
+    'paisagens naturais',
+    'biodiversidade',
+    'proteção ambiental',
   ]
+subcategory: '國家公園與步道'
+author: 'Taiwan.md'
+difficulty: 'intermediate'
 readingTime: 12
+featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: true
 translatedFrom: 'Nature/台灣國家公園.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:c51eb1a165d6a2f5'
-sourceBodyHash: 'sha256:99620fa1348fdcfe'
-translatedAt: '2026-07-26T02:07:21+08:00'
-difficulty: 'intermediate'
+sourceCommitSha: '7f5cc659d'
+sourceContentHash: 'sha256:6b8c18165d43ed48'
+sourceBodyHash: 'sha256:90c0aa43021fbb5f'
+translatedAt: '2026-10-03T04:11:36+08:00'
 ---
 
-# O Pico entre Mar e Montanha da Ilha: Ecologia e Paisagens dos Parques Nacionais de Taiwan
+# Cumes da ilha: ecologia e paisagens dos parques nacionais de Taiwan
 
 ## Visão geral em 30 segundos
 
-Taiwan possui 9 parques nacionais + 1 parque natural nacional, abrangendo ecossistemas completos do nível do mar aos 3.952 metros do pico principal de Yushan. Esses parques nacionais protegem os ativos naturais e culturais mais preciosos de Taiwan, incluindo espécies endêmicas, sítios de patrimônio cultural indígena e paisagens geológicas de classe mundial. Desde o estabelecimento da Administração do Parque Nacional de Kenting em **1/1/1984** (plano anunciado em 1982), passando pela abertura do **Parque Natural Nacional de Shoushan em 6/12/2011** (o primeiro parque natural nacional de Taiwan), até o **estabelecimento formal da Direção dos Parques Nacionais do Ministério do Interior em 20/9/2023**, o sistema de parques nacionais de Taiwan tornou-se uma importante rede de proteção da biodiversidade na Ásia. O **terremoto de Taroko em 3/4/2024** causou impacto devastador no Parque Nacional de Taroko, sendo o maior desafio de conservação atual.[^1]
+Taiwan conta com 9 parques nacionais + 1 parque natural nacional, abrangendo ecossistemas completos desde o nível do mar até o pico mais alto do Monte Yushan, a 3.952 metros. Esses parques protegem os tesouros naturais e culturais mais preciosos de Taiwan, incluindo espécies endêmicas, sítios culturais indígenas e paisagens geológicas de classe mundial. Desde a criação do escritório de gestão de Kenting em 1984/1/1 (plano anunciado em 1982), passando pela abertura do Parque Natural Nacional Shoushan em **2011/12/6** (primeiro parque natural nacional de Taiwan), até o **2023/9/20** com a formalização da Administração de Parques Nacionais do Ministério do Interior, o sistema de parques nacionais de Taiwan tornou-se uma importante rede de proteção à biodiversidade na Ásia.[^1] O **terremoto de Hualien em 3 de abril de 2024** provocou deslizamentos em várias trilhas do Parque Nacional Taroko e o fechamento de principais atrações.[^2]
 
-**Palavras-chave**: Parques Nacionais, Conservação Ecológica, Espécies Endêmicas, Diversidade de Paisagens, Educação Ambiental
+**Palavras-chave**: parques nacionais, conservação ecológica, espécies endêmicas, diversidade paisagística, educação ambiental
 
 ## Por que é importante
 
-Em uma ilha de apenas 36.000 km², nove parques nacionais conectam um gradiente ecológico completo das costas tropicais à linha de neve alpina, protegendo mais de 30% da área terrestre de Taiwan. Essa densidade é extremamente rara em sistemas globais de parques nacionais, protegendo não apenas mais de 2.500 espécies endêmicas, mas também servindo como preciosos refúgios biológicos na era das mudanças climáticas.[^5]
+A soma das áreas terrestres dos nove parques nacionais e do Parque Natural Nacional Shoushan cobre cerca de 3.110 km², representando 8,7% do território nacional. Incluindo as áreas marítimas, a área total é de aproximadamente 7.500 km² (estatísticas de final de 2020).[^1] Desde as costas tropicais até as linhas de neve nas montanhas, eles formam um gradiente ecológico completo e também abrigos de refúgio para a biodiversidade em tempos de mudanças climáticas.
 
-O estabelecimento dos parques nacionais permitiu que Taiwan resgatasse das ondas de industrialização as últimas paisagens primordiais. O Parque Nacional de Yushan protege um dos picos mais altos do Leste Asiático, o Parque Nacional de Shei-Pa guarda o salmão-cerejeira de Taiwan, e os parques nacionais marinhos mantêm ecossistemas de recifes de coral. Essas áreas protegidas são tesouros da biodiversidade de Taiwan e também locais onde gerações futuras conhecem a natureza e aprendem a coexistir com o ambiente.
+O estabelecimento dos parques nacionais permitiu que Taiwan preservasse as últimas paisagens remanescentes da onda industrial. O Parque Nacional Yushan protege o pico mais alto de Taiwan, o Parque Nacional Xuebaishan abriga o salmão-palhaço de Taiwan, e o Parque Nacional Marinho mantém os ecossistemas de recifes de coral. Essas áreas protegidas são tesouros de biodiversidade e também locais onde as futuras gerações podem conhecer a natureza, aprender e conviver com o meio ambiente.
 
-## As Joias Ecológicas dos Nove Parques Nacionais
+## Tesouros ecológicos dos nove parques nacionais
 
-### Parques Nacionais Terrestres: Proteção Completa da Montanha ao Mar
+### Parques nacionais terrestres: proteção completa do monte à costa
 
-**Parque Nacional de Kenting (plano anunciado em 1982, Administração estabelecida em 1/1/1984)**
-Localizado na Península de Hengchun, no extremo sul de Taiwan, é o primeiro parque nacional de Taiwan. Aqui se protege a única floresta costeira tropical de Taiwan, com mais de 1.200 espécies de plantas, das quais espécies endêmicas chegam a um quarto. O vento de queda anual de outubro a março do ano seguinte moldou geomorfologias costeiras de recife de coral e ecossistemas de pradaria únicos. Na estação de migração de aves, a passagem de águias-de-cara-cinza no distrito de Manzhou é aclamada como uma "festa natural de aves nacionais".
+**Parque Nacional Kenting (plano anunciado em 1982, escritório de gestão criado em 1984/1/1)**
+Localizado na ponta sul da península de Hengchun, é o primeiro parque nacional de Taiwan. Protege as raras florestas costeiras tropicais, com cerca de 1.700 espécies de plantas registradas.[^1] Entre outubro e março do ano seguinte sopram os ventos alísios. Durante a migração de aves, as águias de asa cinza passam em grupo em torno do Dia da República, conhecidas como "ave da República".
 
-**Parque Nacional de Yushan (estabelecido em 1985)**
-Abrange o pico principal de Yushan (3.952 metros) e os maciços circundantes, sendo o maior parque nacional de Taiwan em área. Da floresta latifoliada subtropical à pradaria alpina, preserva integralmente os cinturões verticais de vegetação de Taiwan. Cipreste-de-Yushan, abeto-de-Taiwan e outras plantas alpinas formam aqui um ecossistema alpino único no Leste Asiático. Os sítios de patrimônio cultural do povo Bunun no interior do parque testemunham a sabedoria milenar de coexistência entre indígenas e o ambiente de alta montanha.
+**Parque Nacional Yushan (estabelecido em 1985)**
+Abriga o pico mais alto de Taiwan, o Monte Yushan (3.952 m), e as montanhas circundantes, sendo o maior parque nacional terrestre de Taiwan.[^1] Desde as florestas temperadas de folhas caducas até as praias de montanha, preserva completamente as faixas de vegetação vertical de Taiwan. O abeto-circular de Yushan e o pinheiro frio de Taiwan formam ecossistemas de montanha únicos no leste asiático. Os sítios culturais da tribo Bunun dentro do parque testemunham a coexistência milenar entre os povos indígenas e o ambiente de montanha.
 
-**Parque Nacional de Yangmingshan (estabelecido em 1985)**
-Reserva de paisagem vulcânica adjacente à área metropolitana de Taipé, protege as paisagens de atividade pós-vulcânica do sistema montanhoso de Datun. As fumarolas de fontes termais do Vale do Enxofre, os cristais de enxofre de Xiaoyoukeng, exibem a natureza geológica ativa de Taiwan. As cerejeiras na primavera, a capim-prateado no outono, somados aos ricos recursos termais, fazem de Yangmingshan o parque nacional mais acessível de Taiwan.
+**Parque Nacional Mingshan (estabelecido em 1985)**
+Área de proteção de paisagens vulcânicas adjacente ao centro metropolitano de Taipei, protegendo as atividades vulcânicas recentes da cordilheira Datun. Os orifícios de fumaça em Youyicheng exibem a atividade geológica dinâmica de Taiwan. As flores de cerejeira no outono e as flores de canola no outono, combinadas com os abundantes recursos termais, tornam Mingshan o parque nacional mais amigável de Taiwan.
 
-**Parque Nacional de Taroko (estabelecido em 1986)**
-Famoso mundialmente pela geomorfologia de cânion formada pelo Rio Liwu cortando rocha calcária, é aclamado como "paisagem de classe mundial de cânion de mármore". A Garganta das Andorinhas, a Caverna dos Nove Curvas são resultados geológicos de milhões de anos de movimento tectônico e erosão do Rio Liwu. A cultura do povo Truku no interior do parque forma, com a paisagem do cânion, uma paisagem única de natureza e humanidades.
+**Parque Nacional Taroko (estabelecido em 1986)**
+Conhecido pelo desfiladeiro formado pelo rio Liwu cortando o granito, é considerado uma "paisagem de desfiladeiro de granito de classe mundial". Os desfiladeiros de granito em Yanzijhou e Jiuxinqu, resultado de movimentos da crosta terrestre e erosão do rio Liwu por milhões de anos. A cultura do povo Taroko dentro do parque forma uma paisagem única de natureza e humanidade com os desfiladeiros.
 
-**Parque Nacional de Shei-Pa (estabelecido em 1992)**
-Protege a área central da Cordilheira de Xueshan, com o pico principal de Xueshan e o Monte Dabajian como núcleo. Aqui está o último habitat do salmão-cerejeira de Taiwan; o ambiente de água fria do Rio Qijiawan sustenta a sobrevivência dessa espécie relíquia do período glacial. O grupo de ciprestes gigantes da região de Guanwu testemunha a história milenar das florestas de Taiwan.
+**Parque Nacional Xuebaishan (estabelecido em 1992)**
+Protege a região central da cordilheira Xueshan, com o Monte Xueshan e o Monte Baiyun como núcleo. É o último habitat do salmão-palhaço de Taiwan, cujo ambiente frio no rio Qilai mantém a sobrevivência dessa espécie remanescente da era glacial. A floresta de árvores gigantes em Guanmushan testemunha a história milenar da floresta de Taiwan.
 
-**Parque Nacional de Kinmen (estabelecido em 1995)**
-Protege a paisagem cultural única de campo de batalha de Kinmen e habitats de aves migratórias. Aldeias tradicionais, instalações militares e ecologia natural se entrelaçam, formando uma paisagem cultural militar rara no mundo. Cormorões, marrequinhas-de-asa-pintada e outras aves migratórias invernam aqui; o Lago Cihu e o Lago Lingshui são os principais ecossistemas de zonas úmidas de Kinmen.
+**Parque Nacional Jinmen (estabelecido em 1995)**
+Protege as paisagens culturais militares e habitats de aves migratórias únicas na ilha de Jinmen. As casas tradicionais, instalações militares e ecossistemas naturais se entrelaçam, formando uma paisagem cultural militar rara no mundo. A partir de outubro, dezenas de milhares de avestruzes-voadores chegam a Jinmen para passar o inverno, principalmente nos lagos Cihai, Mingde e Lingshui.[^3]
 
-**Parque Nacional de Taijiang (estabelecido em 2009)**
-O oitavo parque nacional de Taiwan, protege as lagoas, zonas úmidas e paisagens de viveiros de peixe da costa de Tainan. A zona úmida na foz do Rio Zengwen é importante habitat de invernada do colhereiro-de-face-preta, atraindo anualmente cerca de um terço da população global da espécie para invernar aqui. O equilíbrio entre cultura pesqueira tradicional e conservação moderna demonstra a possibilidade de uso sustentável.
+**Parque Nacional Jiulongjiang (estabelecido em 2009)**
+Oitavo parque nacional de Taiwan, protegendo os pântanos costeiros, áreas úmidas e paisagens de cultivo de pescado na costa de Tainan. Os pântanos no delta do rio Zhenwen são habitats importantes para a ave noturna preta durante o inverno. Em 2026, a contagem global registrou 7.746 aves noturnas pretas, sendo 4.719 em Taiwan, cerca de 60%, com Tainan registrando mais de 2.000 aves por seis anos consecutivos.[^4] O equilíbrio entre a cultura tradicional de pesca e a conservação moderna demonstra a possibilidade de uso sustentável.
 
-**Parque Nacional das Quatro Ilhas do Sul de Penghu (estabelecido em 2014)**
-O nono parque nacional de Taiwan, protege os ecossistemas marinhos das Quatro Ilhas do Sul de Penghu (Dongyupingyu, Xiyupingyu, Dongjiyu, Xijiyu). Geomorfologias de erosão marinha de basalto, ecologia de recifes de coral e áreas de reprodução de aves marinhas constituem uma rede ecológica insular estreitamente conectada.
+### Parque natural nacional: proteção do pulmão urbano
 
-### Parque Natural Nacional: Proteção do Pulmão Verde Urbano
+**Parque Natural Nacional Shoushan (inaugurado em 2011/12/6)**
+Primeiro parque natural nacional de Taiwan, protegendo as formações de recife de coral de pedra calcária e a biodiversidade urbana na área de Shoushan, Kaohsiung. Os macacos-prego-de-Taiwan convivem em harmonia com a cidade, demonstrando um novo modelo de conservação urbana.
 
-**Parque Natural Nacional de Shoushan (aberto em 6/12/2011)**
-O primeiro parque natural nacional de Taiwan (não 2024), protege a geomorfologia de rocha calcária de recife de coral da região de Shoushan em Kaohsiung e a biodiversidade da área metropolitana. Grupos de macacos-de-Taiwan coexistem harmoniosamente com a urbe, exibindo um novo modelo de conservação ecológica em área metropolitana.
+## Parque nacional marinho: guardião da terra azul
 
-## Parques Nacionais Marinhos: Guardiões do Território Azul
+**Parque Nacional Marinho Dongsha Atoll (estabelecido em 2007)**
+Sétimo parque nacional de Taiwan e primeiro parque nacional marinho, protegendo os ecossistemas do Atol Dongsha no Mar da China Meridional. O atoll completo com diâmetro de cerca de 25 km é a maior área de proteção de Taiwan (incluindo áreas marítimas).[^1]
 
-**Parque Nacional do Atol de Dongsha (estabelecido em 2007)**
-O sétimo parque nacional de Taiwan, também o primeiro parque nacional marinho, protege o ecossistema do atol de Dongsha no Mar do Sul da China. O atol de cerca de 25 km de diâmetro se preserva integralmente, com alta taxa de cobertura de recifes de coral, sendo habitat central de tartarugas marinhas, golfinhos e outros organismos marinhos.
+**Parque Nacional Marinho Nangan Simian (estabelecido em 2014)**
+Nono parque nacional de Taiwan, protegendo os ecossistemas marinhos das ilhas Nangan e Simian no arquipélago de Penghu (Dongyu, Xinyu, Dongjiyu, Xiji). As formações de erosão marinha de basalto vulcânico, ecossistemas de recifes de coral e áreas de reprodução de aves marinhas formam uma rede ecológica de ilhas marítimas interligada.
 
-**Área Marinha do Parque Nacional de Taijiang**
-Além das zonas úmidas terrestres, o Parque Nacional de Taijiang protege simultaneamente as lagoas costeiras e ecossistemas estuarinos de Tainan, sendo uma área de proteção marinha no sudoeste de Taiwan.
+## Desafios de conservação e perspectivas futuras
 
-## Desafios de Conservação e Perspectivas Futuras
+### Formalização da Administração de Parques Nacionais em 2023/9/20
 
-### Estabelecimento da Direção dos Parques Nacionais em 20/9/2023
+Em 20 de setembro de 2023, o Ministério do Interior estabeleceu oficialmente a **Administração de Parques Nacionais** (anteriormente a Seção de Parques Nacionais da Administração de Construção do Ministério do Interior), uma mudança organizacional significativa no sistema de gestão de parques nacionais de Taiwan. A Administração de Parques Nacionais coordena a formulação de políticas e a gestão de todos os 9 parques nacionais e 1 parque natural nacional em toda a ilha, aumentando a profissionalidade e independência do trabalho de conservação.
 
-Em 20 de setembro de 2023, o Ministério do Interior estabeleceu formalmente a **Direção dos Parques Nacionais** (antecessora: Divisão de Parques Nacionais da Agência de Construção do Ministério do Interior), uma grande reforma organizacional no sistema de gestão de parques nacionais de Taiwan. A Direção coordena a formulação de políticas e gestão dos 9 parques nacionais e 1 parque natural nacional de todo Taiwan, elevando o profissionalismo e a independência do trabalho de conservação.
+### Terremoto de Hualien em 3 de abril de 2024: Taroko fechado
 
-### Terremoto de Taroko em 3/4/2024: Maior Desafio de Conservação
+**Às 7h58 da manhã de 3 de abril de 2024**, um forte tremor ocorreu no mar de Hualien (segundo o Serviço Meteorológico Central, escala de Richter inicial de 7,2, profundidade de 15,5 km, intensidade máxima de 6 graus em Hualien, escala de momento da USGS de 7,4).[^2] Dentro da área do Parque Nacional Taroko, várias trilhas como a trilha de Shakadang, a trilha de Baiyang, Jiuxinqu e Yanzijhou sofreram deslizamentos e desprendimentos de rocha, com vários visitantes morrendo na trilha de Shakadang. As principais atrações foram imediatamente fechadas.
 
-**Às 7h58min de 3 de abril de 2024**, ocorreu um forte terremoto no mar ao largo de Hualien (Administração Meteorológica Central M_L 7.2 / USGS M_w 7.4, profundidade hipocentral 15,5 km), com intensidade sísmica de 6 forte. O Parque Nacional de Taroko foi a área mais afetada — a Trilha de Shakadang, a Trilha de Baiyang, a Caverna dos Nove Curvas, a Garganta das Andorinhas e outros pontos conhecidos foram totalmente fechados, com múltiplos trechos de colapso e queda de paredes rochosas. O terremoto causou múltiplas fatalidades, incluindo visitantes na Trilha de Shakadang, e o Parque Nacional de Taroko fechou por tempo indeterminado seus principais pontos turísticos.[^4]
+O fechamento de Taroko também afetou profundamente o turismo de Hualien.
 
-Este terremoto foi o maior impacto geológico desde o estabelecimento do Parque Nacional de Taroko em 1986; os trabalhos de reconstrução devem levar anos ou até mais de uma década. O fechamento de Taroko também afeta o turismo de Hualien, com perdas estimadas da indústria relacionada em dezenas de bilhões de dólares taiwaneses.
+### Impactos das mudanças climáticas
 
-### Impacto das Mudanças Climáticas
+Com o aquecimento global, os ecossistemas de montanha de Taiwan enfrentam pressões de "migração ascendente". As florestas de pinheiros de montanha em Yushan e Xuebaishan podem encolher, e as espécies adaptadas a climas frios enfrentam desafios de sobrevivência. Os parques nacionais marinhos enfrentam ameaças de aumento de temperatura do mar, acidificação marinha e branqueamento de corais.
 
-Com o aquecimento global, os ecossistemas alpinos de Taiwan enfrentam pressão de "migração para cima". Os cinturões de coníferas subalpinos de Yushan, Shei-Pa e outros parques nacionais alpinos estão encolhendo; espécies originalmente adaptadas ao clima frio enfrentam desafios de sobrevivência. Os parques nacionais marinhos enfrentam elevação da temperatura do mar, acidificação oceânica e outros problemas; a área de branqueamento de corais tem se expandido continuamente na última década.
+### Gestão das pressões humanas
 
-### Gestão de Pressões Antropogênicas
+Com a alta densidade populacional de Taiwan, os parques nacionais frequentemente enfrentam pressões de desenvolvimento. As pressões urbanas no Parque Nacional Mingshan, os impactos turísticos no Parque Nacional Taroko, precisam encontrar um equilíbrio entre conservação e utilização.
 
-Taiwan tem alta densidade populacional; os arredores dos parques nacionais frequentemente enfrentam pressões de desenvolvimento. A pressão de urbanização do Parque Nacional de Yangmingshan, o impacto turístico do Parque Nacional de Taroko, todos precisam buscar pontos de equilíbrio entre conservação e uso.
+### Direitos indígenas e conservação
 
-### Direitos dos Povos Indígenas e Conservação
+Muitos parques nacionais estão localizados nas terras tradicionais dos povos indígenas, e como encontrar um equilíbrio entre os objetivos de conservação e os direitos culturais indígenas é um tema importante na gestão de parques nacionais de Taiwan. Nos últimos anos, a implementação de "mecanismos de gestão compartilhada" permitiu que os povos indígenas participassem da gestão de conservação, demonstrando um novo modelo de coexistência harmônica entre cultura e natureza.
 
-Muitos parques nacionais situam-se em territórios tradicionais de povos indígenas; como encontrar equilíbrio entre objetivos de conservação e direitos culturais indígenas é uma questão importante na gestão de parques nacionais de Taiwan. Nos últimos anos, o promovido "mecanismo de cogestão" permite a participação indígena na gestão de conservação, exibindo um novo modelo de coexistência harmoniosa entre cultura e natureza.
+## Educação ambiental e turismo sustentável
 
-## Educação Ecológica e Turismo Sustentável
+Os parques nacionais de Taiwan promovem educação ambiental, desde explicações geológicas em Taroko, educação ecológica de montanha em Yushan, até experiências de conservação de pântanos em Jiulongjiang, atraindo os moradores urbanos mais próximos dos ecossistemas selvagens.
 
-Os parques nacionais de Taiwan promovem educação ambiental, da interpretação geológica de Taroko, educação ecológica alpina de Yushan, às experiências de conservação de zonas úmidas de Taijiang, atraindo anualmente milhões de participantes. Essas atividades aproximam concretamente residentes urbanos dos ecossistemas selvagens.
+O desenvolvimento do turismo sustentável tornou os parques nacionais modelos de ecoturismo. As atividades de observação de flores em Xuebaishan, a época de migração de aves em Kenting, as festividades florais em Mingshan, todos combinaram com sucesso conservação e turismo, criando vitórias duplas para economia e ecologia.
 
-A promoção do turismo sustentável faz dos parques nacionais modelos de ecoturismo. As atividades de observação de cerejeiras do Parque Nacional de Shei-Pa, a estação de aves migratórias de Kenting, a estação de flores de Yangmingshan, todas combinam com sucesso conservação e turismo, criando ganha-ganha econômico e ecológico.
+## Cooperação internacional e pesquisa
 
-## Cooperação Internacional e Pesquisa
+Monitoramentos de recifes de coral no Parque Nacional Marinho Dongsha Atoll, pesquisas ecológicas de montanha no Parque Nacional Yushan, continuamente acumulam dados de longo prazo sobre ecossistemas de Taiwan.
 
-Os parques nacionais de Taiwan participam de redes internacionais de conservação, estabelecendo cooperação em pesquisa com Japão, Coreia, EUA e outros países. O monitoramento de recifes de coral do Parque Nacional do Atol de Dongsha, a pesquisa ecológica alpina do Parque Nacional de Yushan, os dados científicos produzidos têm sido citados pela IUCN e outras organizações internacionais.[^6]
-
-A densidade de tipos de ecossistemas de Taiwan está entre as primeiras globalmente; da biologia molecular à gestão de ecossistemas, os parques nacionais são laboratórios naturais de pesquisa científica transescalar.
+Taiwan possui uma densidade de tipos de ecossistemas entre as mais altas do mundo, desde biologia molecular até gestão de ecossistemas, os parques nacionais são campos experimentais naturais para pesquisas em múltiplas escalas.
 
 ---
 
-Os 9 parques nacionais + 1 parque natural nacional de Taiwan preservam o patrimônio natural e cultural mais precioso da ilha. Em terra limitada, eles guardam ecossistemas completos das costas subtropicais à linha de neve alpina, testemunhando o profundo reconhecimento de Taiwan, no processo de transformação de sociedade agrícola em nação moderna, dos valores de proteção ambiental.
+Os 9 parques nacionais + 1 parque natural nacional de Taiwan preservam os tesouros naturais e culturais mais preciosos da ilha. Em terras limitadas, eles protegem ecossistemas completos desde as costas subtropicais até as linhas de neve nas montanhas, testemunhando a profunda compreensão de Taiwan sobre valores de proteção ambiental durante o processo de transformação de uma sociedade agrária para uma nação moderna.
 
-Face aos desafios das mudanças climáticas e pressões antropogênicas, esses parques nacionais estão evoluindo para redes de áreas protegidas mais resilientes. Através de pesquisa científica, educação ambiental e gestão sustentável, eles protegem os recursos naturais contemporâneos, preservando para as futuras gerações a possibilidade de coexistência com a natureza.
+Diante dos desafios das mudanças climáticas e pressões humanas, esses parques estão evoluindo para redes de proteção mais resilientes. Através de pesquisas científicas, educação ambiental e gestão sustentável, eles protegem os recursos naturais atuais e reservam para as gerações futuras a possibilidade de conviver com a natureza.
 
-O sistema de parques nacionais de Taiwan é o resultado de colaboração de longo prazo entre conservação ecológica e políticas públicas, e também o mecanismo que permite a preservação conjunta de sítios de patrimônio cultural indígena e paisagens naturais.
+O sistema de parques nacionais de Taiwan é o resultado de longa cooperação entre conservação ecológica e políticas públicas, também sendo um mecanismo que permite que sítios culturais indígenas e paisagens naturais sejam preservados juntos.
 
 ## Referências
 
-[^1]: [Direção dos Parques Nacionais do Ministério do Interior — Introdução aos Parques Nacionais](https://www.nps.gov.tw/) — Dados oficiais dos vários parques nacionais de Taiwan, incluindo anos de estabelecimento, área, informações ecológicas.
+[^1]: [Gestão operacional de parques nacionais e parques naturais nacionais (manual estatístico)— Administração de Parques Nacionais do Ministério do Interior](https://www.nlma.gov.tw/uploads/files/54b03c58b60f1e53823a6835a02bc10d.pdf) — Estatísticas de final de 1999: datas de anúncio e implementação de cada parque, área terrestre total de 319.759,2 hectares representando 8,7% do país, área total de 750.000 hectares, Dongsha Atoll é o maior incluindo áreas marítimas seguido por Yushan, Kenting possui 1.688 espécies de plantas.
 
-[^2]: [Parque Cultural Hidráulico de Chianan — Jardim Memorial de Hatta Yoichi](https://www.tainan.gov.tw/) — Contexto da construção da Barragem de Wushantou e do Canal de Chianan, registros de engenharia de Hatta Yoichi.
+[^2]: [Terremoto de Hualien de magnitude 7,2 — Agência de Notícias Centrals, 2024-04-03](https://www.cna.com.tw/news/ahel/202404030091.aspx) — Serviço Meteorológico Central: às 7h58, magnitude de Richter 7,2, profundidade de 15,5 km, intensidade máxima de 6 graus em Hualien.
 
-[^3]: [Agência de Silvicultura e Conservação da Natureza do Ministério da Agricultura — Estatísticas de Biodiversidade](https://www.forest.gov.tw/biodiversity) — Estatísticas de quantidade de espécies endêmicas de Taiwan, taxa de cobertura florestal e área de proteção de parques nacionais.
+[^3]: [Aves noturnas preta em Jinmen — Agência de Notícias Centrals, 2019-01-12](https://www.cna.com.tw/news/aloc/201901120200.aspx) — Parque Nacional Jinmen: as aves noturnas preta chegam em outubro, pico em janeiro com mais de 10.000 aves, principalmente nos lagos Cihai, Mingde e Lingshui.
 
-[^4]: [Governo do Condado de Hualien — Registros do Desastre do Terremoto de 3/4/2024](https://www.hl.gov.tw/) — Situação de danos do Parque Nacional de Taroko no terremoto, fechamento de pontos turísticos e planos de reconstrução.
-
-[^5]: [Academia Sinica — Catálogo de Espécies de Taiwan TaiCoL](https://taicol.tw/) — Banco de dados de biodiversidade de Taiwan, estatísticas de classificação de espécies endêmicas e invasoras.
-
-[^6]: [Instituto de Informação de Biodiversidade de Taiwan TaiBIF](https://portal.taibif.tw/) — Plataforma de dados de distribuição biológica de Taiwan, registros de observação de espécies.
+[^4]: [Contagem global de aves noturnas pretas atinge 60,9% em Taiwan — United Daily News, 2026-04-04](https://udn.com/news/story/7470/9421830) — Contagem global de 2026: 7.746 aves, Taiwan registra 4.719 aves representando 60,9%, Tainan consecutivamente por seis anos com mais de 2.000 aves.
