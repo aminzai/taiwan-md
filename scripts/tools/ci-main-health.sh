@@ -120,6 +120,7 @@ red=0
 never=0
 blocked=0
 unknown=0
+stalepage=0
 total=0
 
 while IFS=$'\t' read -r wid wname wpath; do
@@ -132,11 +133,41 @@ while IFS=$'\t' read -r wid wname wpath; do
   # 報成「Translation PR Check 在 main 紅了 178 天」（2026-09-27 首跑抽驗時抓到，
   # REFLEXES #99 尺先驗再用／#24 工具在說謊）。掃描深度 50 筆，夠深到冷門
   # workflow 也撈得到，又不會退回 repo-wide 那種跟 commit 量綁在一起的窗。
-  run=$(gh api "repos/$REPO/actions/workflows/$wid/runs?branch=$BRANCH&per_page=50" \
+  #
+  # ⚠️⚠️ 但帶 `?branch=` 的那個索引**會間歇回舊頁**（2026-10-02 twmd-maintainer-am
+  # 定錨）：同一支 deploy.yml，不帶 branch 問回 2026-10-01T23:15Z 的 success，
+  # 帶 branch 問回 2026-09-08T01:13:47Z 的 success——兩者都自稱是最新一筆。本班第一次
+  # 跑就讀到舊頁，於是 deploy 被印成「GREEN 24.0d」，而它其實一小時前才剛綠。
+  # 這正是 09-30 那班記下的 LESSONS `ci-health-ruler-gave-two-different-ages-for-
+  # the-same-run-and-both-printed-green`（兩分鐘內對同一次 deploy 報 22.0d 與 1h，
+  # 兩次都綠）的根因：不是齡算錯，是取數口回了不同的頁。
+  #
+  # **不能用 total_count 當偵測器**：抓到的舊頁有一次回 `total_count: 0` 卻同時給
+  # 50 筆 row（自相矛盾），但另一次回 `total_count: 2500` 配一樣的舊資料——count 欄
+  # 自己也會跟著舊。所以這裡不自驗，改用第二個取數口當外部尺（REFLEXES #69）：
+  # 不帶 branch 問一次（這個索引在實測裡始終是新的）、客戶端自己濾 head_branch，
+  # 兩邊取**聯集**再挑最新。聯集的性質是只要有一邊新就不會舊；而保留帶 branch 的
+  # 那口，是因為「PR 跑很多、main 跑很少」的 workflow 需要它才撈得到 main 的那筆
+  # （不帶 branch 的 100 筆可能全是 PR run）。兩邊不一致時印一行 ⚠️ 把這件事攤開，
+  # 不默默補好——間歇性故障被補掉又不出聲，下一個人就量不到它還在發生。
+  filt_json=$(gh api "repos/$REPO/actions/workflows/$wid/runs?branch=$BRANCH&per_page=50" \
     --jq '[.workflow_runs[]
-           | select(.event != "pull_request" and .event != "pull_request_target")]
-          | sort_by(.created_at) | last
-          | "\(.conclusion // .status)\t\(.created_at)\t\(.html_url)\t\(.id)\t\(.head_sha)"' 2>/dev/null)
+           | select(.event != "pull_request" and .event != "pull_request_target")]' 2>/dev/null)
+  unfilt_json=$(gh api "repos/$REPO/actions/workflows/$wid/runs?per_page=100" \
+    --jq "[.workflow_runs[]
+           | select(.head_branch == \"$BRANCH\")
+           | select(.event != \"pull_request\" and .event != \"pull_request_target\")]" 2>/dev/null)
+
+  run=$(printf '%s\n%s\n' "${filt_json:-[]}" "${unfilt_json:-[]}" | jq -rs '
+      (add // []) | unique_by(.id)
+      | if length == 0 then "" else
+          (max_by(.created_at)
+           | "\(.conclusion // .status)\t\(.created_at)\t\(.html_url)\t\(.id)\t\(.head_sha)")
+        end' 2>/dev/null)
+
+  # 帶 branch 那口自己看到的最新，用來跟聯集對賬
+  filt_newest=$(printf '%s' "${filt_json:-[]}" \
+    | jq -r 'if length == 0 then "" else (max_by(.created_at).created_at) end' 2>/dev/null)
 
   if [ -z "$run" ] || [ "${run%%$'\t'*}" = "null" ]; then
     if [ "$(main_eligible "$wpath")" = "yes" ]; then
@@ -189,6 +220,13 @@ print(f'{h:.0f}h' if h < 48 else f'{h/24:.1f}d')
   # run id 是原始資料——印出原始資料，下一個人才驗得動這個數字（REFLEXES #69
   # 外部尺／#85「不知道」要有自己的符號：這裡是「這個數字從哪來」要留得住）。
   printf '      ↳ run %s  created %s  sha %s\n' "$runid" "$created" "${headsha:0:9}"
+  # 兩個取數口不一致 → 帶 branch 的那口回了舊頁，讀數由不帶 branch 的那口救回來。
+  # 印出來，讓這個間歇性故障留下可累計的痕跡（補好但不出聲 = 下一個人量不到它）。
+  if [ -n "$filt_newest" ] && [ "$filt_newest" != "$created" ]; then
+    printf '        ⚠️ 取數口不一致：?branch=%s 那口的最新只到 %s，讀數取自聯集\n' \
+      "$BRANCH" "$filt_newest"
+    stalepage=$((stalepage + 1))
+  fi
   [ "$state" = "RED            " ] && printf '        %s (%s)\n' "$url" "$concl"
 done < <(gh api "repos/$REPO/actions/workflows?per_page=100" \
   --jq '.workflows[] | select(.state=="active") | select(.path | startswith(".github/")) | "\(.id)\t\(.name)\t\(.path)"' 2>/dev/null)
@@ -196,6 +234,9 @@ done < <(gh api "repos/$REPO/actions/workflows?per_page=100" \
 echo "────────────────────────────────────────────────────────"
 printf '  %s 條 active workflow：RED %s / BLOCKED %s / UNKNOWN %s / NEVER-ON-MAIN %s\n' \
   "$total" "$red" "$blocked" "$unknown" "$never"
+if [ "$stalepage" -gt 0 ]; then
+  printf '  ⚠️ %s 條的 ?branch= 取數口回了舊頁（讀數已由不帶 branch 那口救回）。GitHub 端間歇性，不是本機問題。\n' "$stalepage"
+fi
 if [ "$red" -gt 0 ]; then
   echo "  ⚠️ main 上有東西紅著。紅在 main 不會自己叫，它會等下一個路過的投稿 PR 替它背黑鍋"
   echo "     （2026-09-03 #1662 就是這樣中的）→ 本班 Stage 3.5 第一個 polish item。"
