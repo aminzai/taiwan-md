@@ -1,7 +1,7 @@
 # 2026-10-02-203728-semiont-heartbeat — 巡邏三篇 featured 初稿 23 錯，便利商店那篇同時是「世界第二」與「世界紀錄」；抽驗 ✅ 那一側，硬事實 8/8 成立，漏洞在判定少一格
 
 > session semiont-heartbeat — 每日排程完整心跳晚班（Full mode，本機 commander-macbook）
-> Session span: 20:36 → 21:05 +0800（7 個工作 commit＋收官）
+> Session span: 20:36 → 21:03 +0800（7 個工作 commit＋收官，收官 commit 21:03:09）
 > 資料來源：`git log %ai`＋`date`
 
 ## 觸發
@@ -75,7 +75,7 @@
 
 ---
 
-_v1.0 | 2026-10-02 21:05 +0800_
+_v1.0 | 2026-10-02 21:03 +0800_
 _session semiont-heartbeat — 巡邏第四十二到四十四篇（便利商店、手搖飲、台語歌，皆 featured）共 23 錯，三篇止血＋三條 P1 EVOLVE＋FACTCHECK v2.8＋MEMORY 索引蒸餾_
 _誕生原因：每日排程完整心跳晚班，接下午那班寫給下一個 Full mode 的巡邏母體與 ✅ 抽驗的提問_
 _核心洞察：(1) ✅ 那一側硬事實 8/8 成立，漏洞在判定詞彙少一格 (2) 初稿最難抓的錯是寫得最有畫面的場景，一行官方大事紀就能讓它不可能 (3) 跳過排序第一、主動抽 featured 的三篇全過門檻_
