@@ -12,7 +12,7 @@ lastVerified: 2026-06-05
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/李宗盛.md'
-sourceCommitSha: 'db263367'
+sourceCommitSha: '31a05c44b'
 sourceContentHash: 'sha256:7e1d920b41b8d459'
 sourceBodyHash: 'sha256:ab5e69cc7c8739be'
 translatedAt: '2026-06-16T17:05:51Z'

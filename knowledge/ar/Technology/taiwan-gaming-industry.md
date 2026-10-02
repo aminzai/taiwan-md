@@ -18,7 +18,7 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Technology/台灣遊戲產業與數位娛樂.md'
-sourceCommitSha: '38b58ab04'
+sourceCommitSha: 'f712b7242'
 sourceContentHash: 'sha256:431ea1bf9d43ad2f'
 sourceBodyHash: 'sha256:3075ecd0a9c35ac1'
 translatedAt: '2026-10-02T09:54:54+08:00'
