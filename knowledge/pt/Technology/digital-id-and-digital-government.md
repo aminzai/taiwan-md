@@ -130,7 +130,7 @@ Isso é um espelho das lições da identidade digital: a tecnologia por si só n
 
 ---
 
-## Lições Aprendidas com NT$480 milhões
+## Lições Aprendidas com NT$4,8 bilhões
 
 Após a suspensão do projeto de identidade digital, as empresas relacionadas reivindicaram mais de NT$1 bilhão do governo. Em janeiro de 2024, o mediador da Comissão de Engenharia Pública resolveu em cerca de NT$280 milhões[^3]. O Ministro da Justiça Lin You-chang (林右昌) disse que este dinheiro "na verdade não é uma compensação, mas sim um valor para parar a perda", e "este valor de mais de 200 milhões já é o melhor resultado possível"[^13].
 

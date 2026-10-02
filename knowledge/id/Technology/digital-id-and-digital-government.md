@@ -1,6 +1,6 @@
 ---
 title: 'Kartu Identitas Digital dan Pemerintahan Digital'
-description: 'Kartu identitas berbasis chip yang dihentikan pada 2021 lalu diselesaikan dengan dana sekitar NT$28 juta tiga tahun kemudian; setahun sebelumnya, para hacker warga membuat peta masker dalam kurang dari seminggu. Cerita pemerintahan digital Taiwan adalah bukti bahwa kepercayaan jauh lebih sulit dibangun dibandingkan teknologi.'
+description: 'Kartu identitas berbasis chip yang dihentikan pada 2021 lalu diselesaikan dengan dana sekitar NT$280 juta tiga tahun kemudian; setahun sebelumnya, para hacker warga membuat peta masker dalam kurang dari seminggu. Cerita pemerintahan digital Taiwan adalah bukti bahwa kepercayaan jauh lebih sulit dibangun dibandingkan teknologi.'
 date: 2026-03-18
 category: 'Technology'
 tags:
@@ -29,7 +29,7 @@ translatedAt: '2026-10-03T00:56:56+08:00'
 
 # Kartu Identitas Digital dan Pemerintahan Digital
 
-> **Ringkasan 30 detik:** Pada Januari 2021, pemerintah Taiwan menghentikan kartu identitas berbasis chip yang belum pernah dikeluarkan; tiga tahun kemudian, dengan dana sekitar NT$28 juta, perundingan diselesaikan. Proyek yang disebut New eID ini awalnya bertujuan mengganti seluruh kartu identitas chip nasional, namun ditarik kembali setelah lebih dari 2.000 akademisi, profesor universitas, dan profesional keaman siber menandatangani protes. Ironisnya, pada Februari 2020 tahun sebelumnya, komunitas hacker warga Taiwan berhasil membuat peta masker dalam kurang dari seminggu — sebuah layanan pemerintahan digital yang tidak pernah dipaksakan namun sangat diminati. Cerita sebenarnya dari tata kelola digital Taiwan bukanlah tentang seberapa canggih teknologinya, tetapi bagaimana kepercayaan dibangun.
+> **Ringkasan 30 detik:** Pada Januari 2021, pemerintah Taiwan menghentikan kartu identitas berbasis chip yang belum pernah dikeluarkan; tiga tahun kemudian, dengan dana sekitar NT$280 juta, perundingan diselesaikan. Proyek yang disebut New eID ini awalnya bertujuan mengganti seluruh kartu identitas chip nasional, namun ditarik kembali setelah lebih dari 2.000 akademisi, profesor universitas, dan profesional keaman siber menandatangani protes. Ironisnya, pada Februari 2020 tahun sebelumnya, komunitas hacker warga Taiwan berhasil membuat peta masker dalam kurang dari seminggu — sebuah layanan pemerintahan digital yang tidak pernah dipaksakan namun sangat diminati. Cerita sebenarnya dari tata kelola digital Taiwan bukanlah tentang seberapa canggih teknologinya, tetapi bagaimana kepercayaan dibangun.
 
 ---
 
@@ -39,10 +39,10 @@ Pada Juni 2019, Kepala Kabinet Susan Shih (Shih) (Shih) mengunggah video promosi
 
 Namun yang dihadapi oleh Kabinet bukanlah tepuk tangan, melainkan gelombang protes yang berulang.
 
-Taiwan Association for Human Rights dan Open Culture Foundation menginisiasi kampanye tanda tangani; organisasi hukum sipil mengajukan gugatan administratif terhadap pemerintah; Akademi Sains Taiwan mengadakan lokakarya dua hari kemudian menyusun buletin kebijakan yang menganjurkan penangguhan. Pada November 2020, DPR langsung membekukan anggaran 40 juta untuk program penggantian kartu identitas. Pada 21 Januari 2021, Kepala Kabinet Susan Shih (Shih) mengambil keputusan untuk menangguhkan seluruh program penggantian kartu identitas digital yang melibatkan lebih dari 480 juta (termasuk belanja pembuatan kartu senilai 329 juta dan berbagai proyek pengadaan lainnya, dengan total anggaran yang bervariasi[^1]).
+Taiwan Association for Human Rights dan Open Culture Foundation menginisiasi kampanye tanda tangani; organisasi hukum sipil mengajukan gugatan administratif terhadap pemerintah; Akademi Sains Taiwan mengadakan lokakarya dua hari kemudian menyusun buletin kebijakan yang menganjurkan penangguhan. Pada November 2020, DPR langsung membekukan anggaran NT$400 juta untuk program penggantian kartu identitas. Pada 21 Januari 2021, Kepala Kabinet Susan Shih (Shih) mengambil keputusan untuk menangguhkan seluruh program penggantian kartu identitas digital yang melibatkan lebih dari NT$4,8 miliar (termasuk belanja pembuatan kartu senilai NT$3,29 miliar dan berbagai proyek pengadaan lainnya, dengan total anggaran yang bervariasi[^1]).
 
 > 📝 **Catatan kurator**
-> Sebuah pemerintah demokratis yang menghabiskan 480 juta untuk sebuah proyek, ditolak oleh masyarakat sipilnya sendiri. Ini tidak umum di seluruh dunia. Di sebagian besar negara, kartu identitas digital dianggap sebagai "keputusan pemerintah, diterima oleh rakyat"; misalnya, nomor identitas digital Aadhaar India telah mendaftarkan lebih dari satu miliar orang, dan meskipun masih banyak kontroversi, sistemnya tetap berjalan. New eID Taiwan hingga kini masih tercatat sebagai "ditangguhkan."
+> Sebuah pemerintah demokratis yang menghabiskan NT$4,8 miliar untuk sebuah proyek, ditolak oleh masyarakat sipilnya sendiri. Ini tidak umum di seluruh dunia. Di sebagian besar negara, kartu identitas digital dianggap sebagai "keputusan pemerintah, diterima oleh rakyat"; misalnya, nomor identitas digital Aadhaar India telah mendaftarkan lebih dari satu miliar orang, dan meskipun masih banyak kontroversi, sistemnya tetap berjalan. New eID Taiwan hingga kini masih tercatat sebagai "ditangguhkan."
 
 ---
 
@@ -50,7 +50,7 @@ Taiwan Association for Human Rights dan Open Culture Foundation menginisiasi kam
 
 Kegagalan kartu ini bukan karena masalah teknologi, tetapi karena masalah prosedur.
 
-Proyek kartu identitas digital terdiri dari empat paket pengadaan: paket perencanaan yang dimenangkan oleh konsultan dari perusahaan teknologi besar; paket pembuatan kartu senilai 329 juta yang dimenangkan oleh Dongyuan Electric; paket sistem yang setelah beberapa kali gagal diklarifikasi akhirnya dimenangkan oleh Chunghwa Telecom; dan paket verifikasi yang dimenangkan oleh Ditty Information. Masalahnya terletak pada kenyataan bahwa pada awal 2020, ketika detail perencanaan belum pernah dipublikasikan, pemerintah sudah memulai pelelangan untuk tiga paket berikutnya. Dokumen terkait baru diungkapkan dua minggu sebelum uji coba, ketika kartu sudah hampir selesai.
+Proyek kartu identitas digital terdiri dari empat paket pengadaan: paket perencanaan yang dimenangkan oleh konsultan dari perusahaan teknologi besar; paket pembuatan kartu senilai NT$3,29 miliar yang dimenangkan oleh Dongyuan Electric; paket sistem yang setelah beberapa kali gagal diklarifikasi akhirnya dimenangkan oleh Chunghwa Telecom; dan paket verifikasi yang dimenangkan oleh Ditty Information. Masalahnya terletak pada kenyataan bahwa pada awal 2020, ketika detail perencanaan belum pernah dipublikasikan, pemerintah sudah memulai pelelangan untuk tiga paket berikutnya. Dokumen terkait baru diungkapkan dua minggu sebelum uji coba, ketika kartu sudah hampir selesai.
 
 Seorang anggota tim kerja Kementerian Dalam Negeri memberitahu Reporter: "Kami baru ditanya tentang spesifikasi setelah semua paket kartu sudah selesai diberikan. Kami baru bisa meninjau rencana keseluruhan setelah pabrik pemerintah pusat sudah menyelesaikan produksinya." Ia menambahkan: "Banyak orang menganggap tim promosi hanyalah stempel karet." (Kutipan dari laporan Reporter 2021)
 
@@ -122,23 +122,20 @@ Namun tantangan masih besar. Seorang hacker etis yang menggunakan nama samaran H
 
 Sementara jalan kartu identitas digital terhalang, Taiwan berjalan jauh di jalur "demokrasi digital" dibandingkan kebanyakan negara.
 
-vTaiwan, yang didirikan pada Desember 2014 oleh mantan Komisioner Politik Cai Yuling (Cai) (蔡玉玲) dan g0v (Pemerintaran Sementara), menggunakan alat visualisasi opini yang disebut Pol.is untuk melibatkan warga dalam pembuatan kebijakan. Kasus paling terkenal adalah diskusi pengaturan Uber pada 2015; pemerintah mengundurkan diri, dan pengemudi Uber, pengemudi taksi, dan penumpang berdebat langsung di platform. Konsensus yang tercapai kemudian menjadi referensi untuk pembuatan undang-undang. Menurut CrowdLaw, sejak diluncurkan, lebih dari 80% diskusi di vTaiwan berakhir dengan tindakan konkret dari pemerintah (menurut statistik vTaiwan sendiri, studi kasus CrowdLaw[^2])。
-
-Audrey Tang (Tang) (唐鳳) memiliki pendapat yang jelas tentang vTaiwan. Dalam laporan khusus pemerintahan terbuka dari Reporter, ditulis bahwa Tang melihat vTaiwan sebagai proses untuk mencapai konsensus, sebagai bentuk mendengarkan suara rakyat, dan tidak memandangnya sebagai solusi bagi demokrasi. Ia berkata bahwa konsensus kasar di platform hanya bisa menjadi referensi untuk membuat kebijakan; untuk menciptakan perubahan, masih membutuhkan kekuatan partisipasi warga[^10]。
-
+vTaiwan, yang didirikan pada Desember 2014 oleh mantan Komisioner Politik Cai Yuling (Cai) (蔡玉玲) dan g0v (Pemerintaran Sementara), menggunakan alat visualisasi opini yang disebut Pol.is untuk melibatkan warga dalam pembuatan kebijakan. Kasus paling terkenal adalah diskusi pengaturan Uber pada 2015; pemerintah mengundurkan diri, dan pengemudi Uber, pengemudi taksi, dan penumpang berdebat langsung di platform. Konsensus yang tercapai kemudian menjadi referensi untuk pembuatan undang-undang. Menurut CrowdLaw, sejak diluncurkan, lebih dari 80% diskusi di vTaiwan berakhir dengan tindakan konkret dari pemerintah (menurut statistik vTaiwan sendiri, studi kasus CrowdLaw[^2]).
+Audrey Tang (Tang) (唐鳳) memiliki pendapat yang jelas tentang vTaiwan. Dalam laporan khusus pemerintahan terbuka dari Reporter, ditulis bahwa Tang melihat vTaiwan sebagai proses untuk mencapai konsensus, sebagai bentuk mendengarkan suara rakyat, dan tidak memandangnya sebagai solusi bagi demokrasi. Ia berkata bahwa konsensus kasar di platform hanya bisa menjadi referensi untuk membuat kebijakan; untuk menciptakan perubahan, masih membutuhkan kekuatan partisipasi warga[^10].
 Ini adalah cerminan dari pelajaran kartu identitas digital: teknologi itu sendiri bukanlah solusi. Teknologi tanpa kepercayaan berbahaya; teknologi yang kasar tetapi didukung oleh kepercayaan, justru bisa pergi lebih jauh.
 
 ---
 
 ## Pelajaran yang Dibeli dengan NT$480 Juta
 
-Setelah proyek kartu identitas digital ditangguhkan, para pemasok terkait mengajukan ganti rugi sebesar lebih dari 100 juta kepada pemerintah. Pada Januari 2024, melalui Dewan Teknik Umum, jumlahnya disepakati sekitar NT$28 juta[^3]。 Menterer Dalam Negeri Lin You-chang (Lin) (林右昌) berkata: "Sebenarnya, saya pikir ini bukanlah ganti rugi, justru ini adalah sejumlah uang untuk menghentikan kerugian." "Jumlah lebih dari 200 juta ini, saya pikir sudah menjadi hasil terbaik yang bisa dicapai"[^13]。
-
-Dengan dana sekitar NT$28 juta, yang diterima adalah kartu chip yang belum pernah dikeluarkan. Namun mungkin yang benar-benar ditukar adalah pelajaran bagi masyarakat Taiwan tentang tata kelola digital:
+Setelah proyek kartu identitas digital ditangguhkan, para pemasok terkait mengajukan ganti rugi sebesar lebih dari NT$1 miliar kepada pemerintah. Pada Januari 2024, melalui Dewan Teknik Umum, jumlahnya disepakati sekitar NT$280 juta[^3]. Menterer Dalam Negeri Lin You-chang (Lin) (林右昌) berkata: "Sebenarnya, saya pikir ini bukanlah ganti rugi, justru ini adalah sejumlah uang untuk menghentikan kerugian." "Jumlah lebih dari 200 juta ini, saya pikir sudah menjadi hasil terbaik yang bisa dicapai"[^13].
+Dengan dana sekitar NT$280 juta, yang diterima adalah kartu chip yang belum pernah dikeluarkan. Namun mungkin yang benar-benar ditukar adalah pelajaran bagi masyarakat Taiwan tentang tata kelola digital:
 
 **Anda bisa membuat chip yang paling aman di dunia, tetapi jika rakyat tidak mempercayai Anda, kartu itu akan selalu hanya berupa sepotong plastik.**
 
-Estland menggunakan 30 tahun transparansi untuk mencapai tingkat partisipasi digital warga tertinggi di dunia menurut Perserikatan Bangsa-Bersatu. Masyarakat sipil Taiwan membuktikan bahwa mereka mampu membuat peta masker dalam seminggu, dan juga mampu menghentikan sebuah proyek pemerintah senilai 480 juta. Keduanya adalah otot demokrasi digital.
+Estland menggunakan 30 tahun transparansi untuk mencapai tingkat partisipasi digital warga tertinggi di dunia menurut Perserikatan Bangsa-Bersatu. Masyarakat sipil Taiwan membuktikan bahwa mereka mampu membuat peta masker dalam seminggu, dan juga mampu menghentikan sebuah proyek pemerintah senilai NT$4,8 miliar. Keduanya adalah otot demokrasi digital.
 
 Chiu menutup wawancaranya di Akademi Sains dengan sebuah pernyataan yang mungkin merupakan catatan paling akurat untuk seluruh cerita ini: "Anda tidak bisa hanya menekankan betapa bagusnya negara lain sudah digitalisasi dan sebaiknya kita segera belajar, sementara mengabaikan fondasi hukum yang telah dibangun dengan susah payah oleh negara lain demi digitalisasi." (Kutipan dari wawancara Institut Hukum Akademi Sains)
 
@@ -154,7 +151,7 @@ Pada tahun 2026, kartu identitas digital Taiwan masih belum memiliki jadwal. Nam
 
 ## Referensi
 
-[^1]: [Reporter (2021). "Dari Kebijakan Kartu Identitas Digital yang Dipaksa Dihentikan, Melihat Jarak Taiwan dengan 'Negara Digital'"](https://www.twreporter.org/a/e-id-in-taiwan-2021-failed) — Laporan investigasi pertama; memastikan paket pembuatan kartu senilai 329 juta dimenangkan oleh Dongyuan Electric; total anggaran paket mencakup perencanaan/pembuatan/sistem/verifikasi, melebihi 480 juta
+[^1]: [Reporter (2021). "Dari Kebijakan Kartu Identitas Digital yang Dipaksa Dihentikan, Melihat Jarak Taiwan dengan 'Negara Digital'"](https://www.twreporter.org/a/e-id-in-taiwan-2021-failed) — Laporan investigasi pertama; memastikan paket pembuatan kartu senilai NT$3,29 miliar dimenangkan oleh Dongyuan Electric; total anggaran paket mencakup perencanaan/pembuatan/sistem/verifikasi, melebihi NT$4,8 miliar
 
 [^2]: [CrowdLaw — Studi Kasus vTaiwan](https://congress.crowd.law/case-vtaiwan.html) — 80% kasus yang berakhir dengan tindakan pemerintah adalah statistik dari vTaiwan sendiri, kompilasi studi kasus CrowdLaw
 
@@ -178,4 +175,4 @@ Pada tahun 2026, kartu identitas digital Taiwan masih belum memiliki jadwal. Nam
 
 [^12]: [Open Culture Foundation — Kampanye: Perbaiki Undang-Undang dan Rilis Informasi eID](https://ocf.tw/p/eid/) — Gerakan tanda tangani dari masyarakat sipil untuk mendorong pengungkapan informasi eID dan perbaikan undang-undang
 
-[^13]: [TVBS News Network (2024). "Kartu Identitas Digital Ditangguhkan, Ganti Rugi NT$28 Juta; Lin You-chang: Ini adalah Jumlah untuk Menghentikan Kerugian"](https://news.pts.org.tw/article/683842) — Pengajuan ganti rugi pemasok melebihi 100 juta; pada Januari 2024, perundingan disepakati sebesar sekitar NT$280 juta; Lin You-chang (Lin) (林右昌) berkata: "Ini bukanlah ganti rugi... ini adalah jumlah untuk menghentikan kerugian"
+[^13]: [TVBS News Network (2024). "Kartu Identitas Digital Ditangguhkan, Ganti Rugi NT$28 Juta; Lin You-chang: Ini adalah Jumlah untuk Menghentikan Kerugian"](https://news.pts.org.tw/article/683842) — Pengajuan ganti rugi pemasok melebihi NT$1 miliar; pada Januari 2024, perundingan disepakati sebesar sekitar NT$280 juta; Lin You-chang (Lin) (林右昌) berkata: "Ini bukanlah ganti rugi... ini adalah jumlah untuk menghentikan kerugian"
