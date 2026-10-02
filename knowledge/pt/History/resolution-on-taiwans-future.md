@@ -202,6 +202,6 @@ Os jovens taiwaneses de vinte anos consideram «que Taiwan já é independente»
 ## Leituras Complementares
 
 - [Transição Democrática de Taiwan](/pt/history/taiwan-democratization) — Da lei marcial à democratização, o contexto maior do nascimento da Resolução sobre o Futuro de Taiwan
-- [Eleições e Política Partidária em Taiwan](/History/台灣選舉與政黨政治) — Como a transformação da rota do PDP afetou a política eleitoral em Taiwan
+- [Eleições e Política Partidária em Taiwan](/history/台灣選舉與政黨政治) — Como a transformação da rota do PDP afetou a política eleitoral em Taiwan
 - [Incidente da Ilha Formosa](/pt/history/kaohsiung-incident-formosa-incident) — O ponto de partida dos vinte e cinco anos de prisão política de Shi Ming-de, compreendendo o contexto histórico do movimento extra-partidário
 - [Crise do Estreito de Taiwan e Desenvolvimento das Relações entre os Dois Lados do Estreito](/pt/history/taiwan-strait-crises-and-cross-strait-relations) — Como a Crise do Estreito de Taiwan de 1996 acelerou a pragmática do PDP

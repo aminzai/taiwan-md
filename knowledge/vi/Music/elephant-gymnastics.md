@@ -242,11 +242,11 @@ Tựa phim tài liệu gọi là "_Thực tế hơn cả giấc mơ_". Ba ngư�
 
 ## Đọc thêm
 
-- [Xin Lỗi Anh Chàng Trẻ](/Music/拍謝少年) — Cũng là ban nhạc xuất phát từ miền Nam, sử dụng ngôn ngữ để định vị mình, nhưng họ chọn tiếng Đài Loan, chọn giọng hát
-- [Huỷ Minh Yêu](/Music/滅火器樂團) — Bạn Cao Hùng, năm 2022 Fuji Rock cùng kỳ lên sân khấu của ban nhạc Cao Hùng khác
-- [Chiếc Xe Ngỏ Xung Quanh Mặt Trời](/Music/落日飛車) — Thế hệ cùng đại diện indie Đài Loan lên quốc tế, đi city pop chất lượng mềm mại, hát tiếng Anh, tạo thành hai con đường tương phản với kỹ thuật instrumental của Elephant Gym
-- [Lịch Sử Phát Triển Nhạc Rock Đài Loan](/Music/台灣搖滾樂發展史) — Từ các ngôn ngữ Bảo Đức, năm tháng ngày đến thế hệ sau ngày nay sau Chiếc Xe ngỏ xung quanh mặt trời phát triển bối cảnh
-- [Âm Nhạc Độc Lập Đài Loan](/Music/台灣獨立音樂) — Cảnh indie Đài Loan và hệ sinh thái nhãn hiệu
+- [Xin Lỗi Anh Chàng Trẻ](/music/拍謝少年) — Cũng là ban nhạc xuất phát từ miền Nam, sử dụng ngôn ngữ để định vị mình, nhưng họ chọn tiếng Đài Loan, chọn giọng hát
+- [Huỷ Minh Yêu](/music/滅火器樂團) — Bạn Cao Hùng, năm 2022 Fuji Rock cùng kỳ lên sân khấu của ban nhạc Cao Hùng khác
+- [Chiếc Xe Ngỏ Xung Quanh Mặt Trời](/music/落日飛車) — Thế hệ cùng đại diện indie Đài Loan lên quốc tế, đi city pop chất lượng mềm mại, hát tiếng Anh, tạo thành hai con đường tương phản với kỹ thuật instrumental của Elephant Gym
+- [Lịch Sử Phát Triển Nhạc Rock Đài Loan](/music/台灣搖滾樂發展史) — Từ các ngôn ngữ Bảo Đức, năm tháng ngày đến thế hệ sau ngày nay sau Chiếc Xe ngỏ xung quanh mặt trời phát triển bối cảnh
+- [Âm Nhạc Độc Lập Đài Loan](/music/台灣獨立音樂) — Cảnh indie Đài Loan và hệ sinh thái nhãn hiệu
 
 ---
 

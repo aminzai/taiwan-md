@@ -147,7 +147,7 @@ Daquela porta fechada do "Taiwan" em Montreal 1976, até Paris 2024 o mundo inte
 
 - [Tai Tzu-ying](/pt/people/tai-tzu-ying): de rapariga de Zuoying em Kaohsiung a três vezes número um mundial
 - [Kuo Hsing-chun](/pt/people/kuo-hsing-chun-olympic-weightlifting-champion): o caminho do halterofilismo com medalha em três Jogos Olímpicos consecutivos
-- [Li Yang](/People/李洋): a dupla Lin-Yang escreve a primeira defesa de título em pares masculinos da história olímpica
+- [Li Yang](/people/李洋): a dupla Lin-Yang escreve a primeira defesa de título em pares masculinos da história olímpica
 - [Yang Yung-wei](/pt/people/yang-yung-wei-judo-olympic-silver): o sistema de treino por trás da prata no judo de Tóquio 2020
 - [Chuang Chih-yuan](/pt/people/chuang-chih-yuan-table-tennis-legend): o rei solitário do ténis de mesa com quatro títulos asiáticos consecutivos
 - [Cultura do beisebol em Taiwan](/pt/culture/taiwan-baseball-culture): cem anos de história do beisebol, da Kano à CPBL

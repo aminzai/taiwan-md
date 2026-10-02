@@ -265,10 +265,10 @@ _Offizieller NVIDIA-Kanal: Vollständige Hauptrede von Jensen Huang bei COMPUTEX
 **Weiterführende Lesestoffe**:
 
 - [Halbleiterindustrie](/de/technology/taiwan-semiconductor-industry) — Diese Kette, die die Hauptbühne von COMPUTEX stützt, hat ihren Ursprung in Hsinchu, Taichung und Tainan mit Waferfabriken.
-- [Entwicklung und zukünftige Strategie der KI in Taiwan](/Technology/台灣人工智慧發展與未來策略) — Von Servermontage zu physischer KI: Die taiwanesische KI-Industrie durchläuft eine zweite Transformation.
-- [Roboterindustrie in Taiwan](/Technology/台灣機器人產業) — Der erste Auftritt von AUO bei COMPUTEX war ein Schlüsselabschnitt dieser Lieferkette.
+- [Entwicklung und zukünftige Strategie der KI in Taiwan](/technology/台灣人工智慧發展與未來策略) — Von Servermontage zu physischer KI: Die taiwanesische KI-Industrie durchläuft eine zweite Transformation.
+- [Roboterindustrie in Taiwan](/technology/台灣機器人產業) — Der erste Auftritt von AUO bei COMPUTEX war ein Schlüsselabschnitt dieser Lieferkette.
 - [Entwicklung der E-Mobilitätsbranche in Taiwan](/de/technology/taiwan-electric-vehicle-industry-chain) — Eine weitere Fertigungsachse, die neben den KI-Servern steht.
-- [NVIDIA in Taiwan](/Technology/NVIDIA在台灣) — Von der Kindheit von Jensen Huang in Tainan bis zur Heimatbasis GTC Taipei.
+- [NVIDIA in Taiwan](/technology/NVIDIA在台灣) — Von der Kindheit von Jensen Huang in Tainan bis zur Heimatbasis GTC Taipei.
 
 ## Bildquellen
 

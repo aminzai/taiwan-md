@@ -221,7 +221,7 @@ Wie wird die nächste Version aussehen? Braucht Taiwans Vereinigungs-Unabhängig
 - [Resolution über Taiwans Zukunft](/de/history/resolution-on-taiwans-future) — 1999 Hua-Du-Diskurs entscheidender akademischer Anker, Lin Cho-shuis «derzeit» zwei Wörter Ausgangspunkt
 - [Tsai Ing-wen](/de/people/tsai-ing-wen) — «Republik China Taiwan» Working Concept Vorschlägerin, Hua-Du ROC-Taiwan Sub-Spektrum Repräsentantin
 - [Lai Ching-te](/de/people/lai-ching-te) — «Cross-Strait nicht untergeordnet» zeitgenössischer Hua-Du-Diskurs Ausführer, 20.5. drei Namen Rede Protagonist
-- [Taiwan-Wahlen und Parteipolitik](/History/台灣選舉與政黨政治) — Wie sich Vereinigungs-Unabhängigkeits-Spektrum mit Wahlen Blau-Grün-Routen neu formt, grösserer Kontext
+- [Taiwan-Wahlen und Parteipolitik](/history/台灣選舉與政黨政治) — Wie sich Vereinigungs-Unabhängigkeits-Spektrum mit Wahlen Blau-Grün-Routen neu formt, grösserer Kontext
 - [Taiwans demokratischer Übergang](/de/history/taiwan-democratization) — Historischer Hintergrund der Geburt des Vereinigungs-Unabhängigkeits-Spektrums: von Einparteienherrschaft zu Wettbewerbswahlen
 - [Taiwanstraßen-Krise und Cross-Strait-Entwicklung](/de/history/taiwan-strait-crises-and-cross-strait-relations) — Langzeit-Trajektorie, unter der das Vereinigungs-Unabhängigkeits-Spektrum externem Druck ausgesetzt ist
 - [Unsichtbares Land](/de/art/invisible-nation) — In dieser Dokumentation sagt Tsai Ing-wen «Taiwan ist von Natur aus ein unabhängiges Land» – Kontext

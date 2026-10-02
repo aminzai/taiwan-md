@@ -266,10 +266,10 @@ _Saluran Resmi NVIDIA: Jensen Huang 2024 COMPUTEX Keynote Penuh, konsep "AI Fact
 **Bacaan Lanjutan**:
 
 - [Industri Semikonduktor](/id/technology/taiwan-semiconductor-industry) — Rantai yang menopang panggung utama COMPUTEX, sumber di pabrik wafer Hsinchu, Taichung, Tainan
-- [Pengembangan AI Taiwan dan Strategi Masa Depan](/Technology/台灣人工智慧發展與未來策略) — Dari assembly server ke Physical AI, industri AI Taiwan sedang tulang punggung kedua
+- [Pengembangan AI Taiwan dan Strategi Masa Depan](/technology/台灣人工智慧發展與未來策略) — Dari assembly server ke Physical AI, industri AI Taiwan sedang tulang punggung kedua
 - [Industri Robot Taiwan](/id/technology/taiwan-robotics-industry) — HIWIN pertama kali COMPUTEX adalah potongan kunci rantai pasokan ini terbentuk
-- [Pengembangan Rantai Pasokan EV Taiwan](/Technology/台灣電動車產業鏈發展) — Bersebelahan server AI, tulang punggung manufaktur lain
-- [NVIDIA di Taiwan](/Technology/NVIDIA在台灣) — Dari masa kecil Huang di Tainan ke home ground GTC Taipei
+- [Pengembangan Rantai Pasokan EV Taiwan](/technology/台灣電動車產業鏈發展) — Bersebelahan server AI, tulang punggung manufaktur lain
+- [NVIDIA di Taiwan](/technology/NVIDIA在台灣) — Dari masa kecil Huang di Tainan ke home ground GTC Taipei
 
 ## Sumber Gambar
 

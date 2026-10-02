@@ -82,7 +82,7 @@ Telur Besi bukan sekadar camilan; ia membawa sejarah transformasi Tamsui dari pe
 - [Budaya Pasar Malam](/id/food/night-market-culture) — Analisis mendalam pasar malam sebagai ruang sosial
 - [Camilan Kaki Lima Taiwan](/id/food/taiwanese-street-food) — Keberanian akar rumput kuliner rakyat Taiwan
 - [Nasi Slur Taiwan](/id/food/braised-pork-rice) — Kenangan etnis di sebakul nasi slur
-- [Budaya Kuliner Hakka](/Food/客家飲食文化) — Kebijaksanaan kuliner kelompok Hakka
+- [Budaya Kuliner Hakka](/food/客家飲食文化) — Kebijaksanaan kuliner kelompok Hakka
 
 [^1]: [Lin Ming-yu 'Makan dengan Lahap' (Penerbit Lianjing, 1984)](https://search.worldcat.org/zh-cn/title/903232266) — Halaman 21-25 memuat laporan asli 〈Telur Besi Tamsui Benar-benar Enak〉, 'Minsheng Daily' 24 Juli 1983 halaman 12 (ISBN 9789570813722, juga dapat dicek [FindBook](https://findbook.com.tw/amp/9789570813722))
 

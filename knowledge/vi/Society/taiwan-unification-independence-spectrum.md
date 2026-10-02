@@ -216,10 +216,10 @@ Phiên bản kế tiếp sẽ dài ra như thế nào? Tranh chấp thống đ�
 
 ## Đọc mở rộng
 
-- [Giáo trình Tương lai Đài Loan (Tuyên Ngôn Tương lai Đài Loan) (中文原名)](/History/臺灣前途決議文) — Học thuật neo 1999 của lập luận độc lập Hoa, điểm xuất phát của chữ "hiện tại" của Lâm Trọc Thủy
-- [Thái Anh Văn](/People/蔡英文) — Người đưa ra khái niệm công việc "Trung Hoa Dân Quốc Đài Loan", đại diện quang phổ con ROC Đài Loan của phe độc lập Hoa
-- [Lại Thanh Đức](/People/賴清德) — Người thực hiện lập luận độc lập Hoa "hai bờ eo biển không lệ thuộc lẫn nhau" đương đại, nhân vật chính của phát biểu ba tên gọi ngày 5/20
-- [Bầu cử và chính trị đảng Đài Loan](/History/台灣選舉與政黨政治) — Bối cảnh lớn hơn về cách quang phổ thống độc được định hình lại theo cuộc bầu cử để sắp xếp lại đường lối xanh đỏ
-- [Chuyển đổi dân chủ Đài Loan](/History/台灣民主轉型) — Bối cảnh lịch sử phát sinh quang phổ thống độc: từ chuyên chế một đảng đến bầu cử cạnh tranh
-- [Phát triển khủng hoảng eo biển Đài Loan và quan hệ hai bờ](/History/台海危機與兩岸關係發展) — Quĩ đạo dài hạn bị áp lực của quang phổ thống độc bởi lực lượng bên ngoài
+- [Giáo trình Tương lai Đài Loan (Tuyên Ngôn Tương lai Đài Loan) (中文原名)](/history/臺灣前途決議文) — Học thuật neo 1999 của lập luận độc lập Hoa, điểm xuất phát của chữ "hiện tại" của Lâm Trọc Thủy
+- [Thái Anh Văn](/people/蔡英文) — Người đưa ra khái niệm công việc "Trung Hoa Dân Quốc Đài Loan", đại diện quang phổ con ROC Đài Loan của phe độc lập Hoa
+- [Lại Thanh Đức](/people/賴清德) — Người thực hiện lập luận độc lập Hoa "hai bờ eo biển không lệ thuộc lẫn nhau" đương đại, nhân vật chính của phát biểu ba tên gọi ngày 5/20
+- [Bầu cử và chính trị đảng Đài Loan](/history/台灣選舉與政黨政治) — Bối cảnh lớn hơn về cách quang phổ thống độc được định hình lại theo cuộc bầu cử để sắp xếp lại đường lối xanh đỏ
+- [Chuyển đổi dân chủ Đài Loan](/history/台灣民主轉型) — Bối cảnh lịch sử phát sinh quang phổ thống độc: từ chuyên chế một đảng đến bầu cử cạnh tranh
+- [Phát triển khủng hoảng eo biển Đài Loan và quan hệ hai bờ](/history/台海危機與兩岸關係發展) — Quĩ đạo dài hạn bị áp lực của quang phổ thống độc bởi lực lượng bên ngoài
 - [Quốc gia không nhìn thấy](/art/看不見的國家) — Bối cảnh trong phim tài liệu này nơi Thái Anh Văn nói "Đài Loan lúc nào cũng là một quốc gia độc lập"

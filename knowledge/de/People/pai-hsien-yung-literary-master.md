@@ -84,7 +84,7 @@ Die 20-Jahre-Tournee 2024 führte über mehrere Städte wie Taipeh, Hongkong und
 
 Von Guilin, Guangxi, bis zum Neuen Park in Taipeh, von „Moderne Literatur“ bis zur Suzhou-Kunqu-Bühne: Pais sechzigjährige Spur ist die Probe eines Menschen, der an der Sache „Erinnerung“ nie losließ.
 
-**Weiterführende Lektüre:** [Pai Hsien-yung – Wikipedia](https://zh.wikipedia.org/wiki/白先勇) ｜ [National Art Award: Pais Auszeichnungsrekord](https://www.ncafroc.org.tw/artsaward/winnerDetail@1229) ｜ [Nationalmuseum für taiwanesische Literatur](https://www.nmtl.gov.tw/) ｜ [Sanmao](/People/三毛): Pai Hsien-yung empfahl ihr Debüt „Verwirrung“ zur Veröffentlichung in „Moderne Literatur“
+**Weiterführende Lektüre:** [Pai Hsien-yung – Wikipedia](https://zh.wikipedia.org/wiki/白先勇) ｜ [National Art Award: Pais Auszeichnungsrekord](https://www.ncafroc.org.tw/artsaward/winnerDetail@1229) ｜ [Nationalmuseum für taiwanesische Literatur](https://www.nmtl.gov.tw/) ｜ [Sanmao](/people/三毛): Pai Hsien-yung empfahl ihr Debüt „Verwirrung“ zur Veröffentlichung in „Moderne Literatur“
 
 ## Referenzen
 

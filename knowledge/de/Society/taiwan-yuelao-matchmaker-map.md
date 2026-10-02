@@ -176,5 +176,5 @@ Diese rote Schnur, die von der Tang-Dynastie bis zu 21. Jahrhundert gebunden ist
 
 ## Weiterführende Lektüre
 
-- [Taiwans gleichgeschlechtliche Ehe und Geschlechterparität](/Society/台灣同婚與性別平權) — Der breitere gesellschaftliche Kontext des Tuner-Gotts der Weiming-Halle als spezialisierter LGBTQ-Tempel
-- [Taiwans Freiwilligenkultur und Wohltätigkeit](/Society/台灣志工文化與公益參與) — Die Verflechtung von Volksglaube und sozialer Kultur
+- [Taiwans gleichgeschlechtliche Ehe und Geschlechterparität](/society/台灣同婚與性別平權) — Der breitere gesellschaftliche Kontext des Tuner-Gotts der Weiming-Halle als spezialisierter LGBTQ-Tempel
+- [Taiwans Freiwilligenkultur und Wohltätigkeit](/society/台灣志工文化與公益參與) — Die Verflechtung von Volksglaube und sozialer Kultur

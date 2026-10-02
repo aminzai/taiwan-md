@@ -203,7 +203,7 @@ Tuổi hai mươi của những thanh niên Đài Loan cảm thấy "Đài Loan 
 
 ## Đọc thêm
 
-- [Quá trình chuyển đổi dân chủ Đài Loan](/History/台灣民主轉型) — Từ thiết quân luật tới dân chủ hoá, bối cảnh lớn hơn của việc sinh ra Nghị quyết về tương lai Đài Loan
-- [Bầu cử Đài Loan và Chính trị Đảng](/History/台灣選舉與政黨政治) — Cách thay đổi đường lối của Đảng Dân chủ Tiến bộ ảnh hưởng đến chính trị bầu cử của Đài Loan
-- [Sự kiện Đảo Đẹp](/History/美麗島事件) — Điểm khởi đầu của bô quản chính trị hai mươi lăm năm của Thi Minh Đức, hiểu rõ bối cảnh lịch sử của phong trào ngoài hiến pháp
-- [Cuộc Khủng hoảng Eo biển Đài Loan và Phát triển Quan hệ Hai bờ eo biển](/History/台海危機與兩岸關係發展) — Làm thế nào Cuộc Khủng hoảng Eo biển năm 1996 thúc đẩy Đảng Dân chủ Tiến bộ thực tế hoá
+- [Quá trình chuyển đổi dân chủ Đài Loan](/history/台灣民主轉型) — Từ thiết quân luật tới dân chủ hoá, bối cảnh lớn hơn của việc sinh ra Nghị quyết về tương lai Đài Loan
+- [Bầu cử Đài Loan và Chính trị Đảng](/history/台灣選舉與政黨政治) — Cách thay đổi đường lối của Đảng Dân chủ Tiến bộ ảnh hưởng đến chính trị bầu cử của Đài Loan
+- [Sự kiện Đảo Đẹp](/history/美麗島事件) — Điểm khởi đầu của bô quản chính trị hai mươi lăm năm của Thi Minh Đức, hiểu rõ bối cảnh lịch sử của phong trào ngoài hiến pháp
+- [Cuộc Khủng hoảng Eo biển Đài Loan và Phát triển Quan hệ Hai bờ eo biển](/history/台海危機與兩岸關係發展) — Làm thế nào Cuộc Khủng hoảng Eo biển năm 1996 thúc đẩy Đảng Dân chủ Tiến bộ thực tế hoá

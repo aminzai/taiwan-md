@@ -191,8 +191,8 @@ This is why Building 506 has no signage.
 ## Further Reading
 
 - [The Reporter: Saving Investigative Journalism from a Business Item to a Public Good for Ten Years](/society/The-Reporter) — Another case focusing on Taiwan's civil society and infrastructure credibility post-2015, similar to this article
-- [Taiwan New Media Art](/ko/art/Taiwan-New-Media-Art) — Digital cultural infrastructure also supported by the internet under the undersea cables
-- [Social Movements and Civic Participation](/ko/society/Social-Movements-and-Civic-Participation) — The larger context related to the legislative pressure of the Seven Cable Laws and local emergency platforms
+- [Taiwan New Media Art](/ko/art/taiwan-new-media-art) — Digital cultural infrastructure also supported by the internet under the undersea cables
+- [Social Movements and Civic Participation](/ko/society/social-movements-and-civic-participation) — The larger context related to the legislative pressure of the Seven Cable Laws and local emergency platforms
 - [justfont and the Development of Taiwan Fonts](/technology/justfont-and-Taiwan-Font-Development) — Another axis demonstrating the "cultural infrastructure" dimension
 
 ## References

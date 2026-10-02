@@ -180,7 +180,7 @@ Nhưng tính toán này bỏ sót một vấn đề cấu trúc. Khảo sát c�
 >
 > Câu chuyện về ngày bão và "Núi Thiêng Bảo Vệ Nước" thực ra là hai phiên bản của cùng một câu chuyện. Núi biến gió thành nước, rơi xuống nhà ai? Thông báo dừng làm việc đưa ngày lễ cho ai, bỏ sót ai? Trong cùng một cơn bão, lượng mưa trên bản đồ là đều đặn, nhưng những người chịu đựng hậu quả không bao giờ là đều đặn.
 
-Toàn bộ phân phối cấp bậc ngày bão, điểm mù phía sau tính toán 3,15 tỷ, và tình cảnh của công nhân di cư — đây là những câu chuyện độc lập khác, được viết ở [Ngày bão](/Society/颱風假).
+Toàn bộ phân phối cấp bậc ngày bão, điểm mù phía sau tính toán 3,15 tỷ, và tình cảnh của công nhân di cư — đây là những câu chuyện độc lập khác, được viết ở [Ngày bão](/society/颱風假).
 
 ## Trạm khí tượng của bộ lạc: Trí tuệ hàng ngàn năm là lưới an toàn cuối cùng
 
@@ -232,11 +232,11 @@ Chúng ta có thể dự báo gió mưa, nhưng dự báo không nổi số ph�
 
 ## Tài liệu Mở Rộng Đọc
 
-- [Ngày bão](/Society/颱風假) — Cùng một cơn bão, nhân viên bộ phận công cộng ở nhà, công nhân bán lẻ đi ra ngoài. Những vết nứt giai cấp bị bỏ sót trong tính toán 3,15 tỷ
-- [Khủng hoảng khí hậu Đài Loan và chuyển đổi bê tông không khí của nước](/Nature/台灣氣候危機與淨零轉型) — Phía sau tăng 40% cường độ mưa bão, là chuyển đổi năng lượng toàn cầu nóng lên và Đài Loan lớn hơn
-- [Hệ thống sinh thái Cao Nguyên Đài Loan và vật sống lạnh lẻo Kỳ Hà](/Nature/台灣高山生態系與冰河孑遺) — Dãy núi Trung ương không chỉ thay đổi đường đi bão, còn là nhà của hệ thống sinh thái độ cao Toàn cầu cao nhất
-- [Mưa Lũ](/Nature/梅雨) — Ngoài bão, mưa Lũ là một trong những nguồn mưa mùa lớn khác của Đài Loan, cũng chịu tác động biến đổi khí hậu
-- [Đảo Hoang Và Văn Hóa Biển](/Geography/離島與海洋文化) — Kiến trúc truyền thống của người Đạt Hoạn ở Lan Tự và kiến thức địa danh, có giá trị phòng chống thảm họa độc đáo trong thời đại bão
+- [Ngày bão](/society/颱風假) — Cùng một cơn bão, nhân viên bộ phận công cộng ở nhà, công nhân bán lẻ đi ra ngoài. Những vết nứt giai cấp bị bỏ sót trong tính toán 3,15 tỷ
+- [Khủng hoảng khí hậu Đài Loan và chuyển đổi bê tông không khí của nước](/nature/台灣氣候危機與淨零轉型) — Phía sau tăng 40% cường độ mưa bão, là chuyển đổi năng lượng toàn cầu nóng lên và Đài Loan lớn hơn
+- [Hệ thống sinh thái Cao Nguyên Đài Loan và vật sống lạnh lẻo Kỳ Hà](/nature/台灣高山生態系與冰河孑遺) — Dãy núi Trung ương không chỉ thay đổi đường đi bão, còn là nhà của hệ thống sinh thái độ cao Toàn cầu cao nhất
+- [Mưa Lũ](/nature/梅雨) — Ngoài bão, mưa Lũ là một trong những nguồn mưa mùa lớn khác của Đài Loan, cũng chịu tác động biến đổi khí hậu
+- [Đảo Hoang Và Văn Hóa Biển](/geography/離島與海洋文化) — Kiến trúc truyền thống của người Đạt Hoạn ở Lan Tự và kiến thức địa danh, có giá trị phòng chống thảm họa độc đáo trong thời đại bão
 
 ## Nguồn Gốc Hình Ảnh
 

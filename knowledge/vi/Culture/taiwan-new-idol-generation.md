@@ -53,7 +53,7 @@ Mười ba tập, mỗi tập hai tiếng. Đêm chung kết diễn ra vào ngà
 
 Trái tim lửa 57.9 điểm, Lốc xoáy Đen 55.4 điểm. Chênh lệch 2.5 điểm[^3].
 
-Nhóm vô địch Trái tim lửa ra mắt với tên "G.O.F" (Girls On Fire). Nhóm á quân Lốc xoáy Đen sáu thành viên được ký hợp đồng bởi nhà sản xuất Felipe.Z, thành lập AOA Entertainment Lab Xing Lian Ai Ou A, ra mắt với tên "[HUR+](/people/hur-plus)"[^4]. Nhóm Hoa hồng hồng ra mắt cùng lúc dưới tên "PINK FUN"[^3].
+Nhóm vô địch Trái tim lửa ra mắt với tên "G.O.F" (Girls On Fire). Nhóm á quân Lốc xoáy Đen sáu thành viên được ký hợp đồng bởi nhà sản xuất Felipe.Z, thành lập AOA Entertainment Lab Xing Lian Ai Ou A, ra mắt với tên "[HUR+](/people/HUR-plus)"[^4]. Nhóm Hoa hồng hồng ra mắt cùng lúc dưới tên "PINK FUN"[^3].
 
 DD52 giành được **Giải thưởng Chương trình Giải trí tại Lễ trao giải Chuông vàng lần thứ 56**[^3].
 
@@ -68,7 +68,7 @@ Nhưng câu chuyện thực sự bắt đầu sau đêm chung kết.
 
 G.O.F ra mắt, tiếng nói của nhóm nhanh chóng sụt giảm. PINK FUN gặp phải những biến cố khi thành viên rời đội. Trong ba nhóm ra mắt, ngược lại là **á quân HUR** sống lâu nhất[^5].
 
-Dữ liệu so sánh tiếng nói mạng xã hội rất tàn nhẫn: G.O.F 517 bài, PINK FUN 621 bài, HUR 604 bài[^5]. Con số của vô địch là thấp nhất. Và sáu năm sau vào năm 2026, trong ba nhóm chỉ có HUR (bây giờ gọi là [HUR+](/people/hur-plus)) vẫn đang phát hành album, vẫn tổ chức buổi hòa nhạc, vẫn gây quỹ để đi Hàn Quốc phát hành bài hát[^4].
+Dữ liệu so sánh tiếng nói mạng xã hội rất tàn nhẫn: G.O.F 517 bài, PINK FUN 621 bài, HUR 604 bài[^5]. Con số của vô địch là thấp nhất. Và sáu năm sau vào năm 2026, trong ba nhóm chỉ có HUR (bây giờ gọi là [HUR+](/people/HUR-plus)) vẫn đang phát hành album, vẫn tổ chức buổi hòa nhạc, vẫn gây quỹ để đi Hàn Quốc phát hành bài hát[^4].
 
 Sự đảo ngược này không phải là ngẫu nhiên. Nhà sản xuất Felipe.Z của HUR+ đã đi một con đường hoàn toàn khác với vô địch: anh ta không sao chép Hàn Quốc.
 
@@ -107,7 +107,7 @@ Nguyên tử thiếu niên giành được **Giải thưởng Đạo diễn tạ
 
 Tháng 7 năm 2023, định dạng của chương trình tuyển chọn phát triển thêm. _《Cô gái tương lai NEXT GIRLZ》_ không chọn những người chưa biết đến, mà chọn **những nhóm nữ đã ra mắt**[^8].
 
-Sáu nhóm đối đầu: Cam ánh nắng, Lạc tinh bạc hà, Yêu tinh đen mã não, Ánh trăng tím, Ảo ảnh đỏ sẫm ([HUR+](/people/hur-plus) anh chị em giới hạn chín người), Gấu nhỏ xanh lam, cộng với một đội bí ẩn được mở khóa bởi bình chọn của khán giả Tinh thể ma (幽靈水晶)[^8].
+Sáu nhóm đối đầu: Cam ánh nắng, Lạc tinh bạc hà, Yêu tinh đen mã não, Ánh trăng tím, Ảo ảnh đỏ sẫm ([HUR+](/people/HUR-plus) anh chị em giới hạn chín người), Gấu nhỏ xanh lam, cộng với một đội bí ẩn được mở khóa bởi bình chọn của khán giả Tinh thể ma (幽靈水晶)[^8].
 
 Vô địch Gấu nhỏ xanh lam (GenBlue) giành chiến thắng trong chín vòng thi, với sáu lần vô địch, nhận giải thưởng xe hơi triệu đô, sau đó vào ngày 2 tháng 9 năm 2024 ra mắt ở Hàn Quốc với đơn ca 〈COCOCO〉, trở thành trường hợp đầu tiên của hệ thống chọn thần tượng Đài Loan thành công xuất khẩu sang thị trường Hàn Quốc[^8].
 
@@ -201,7 +201,7 @@ DD52 ra mắt ba nhóm, Nguyên tử thiếu niên ra mắt bảy nhóm, Nguyên
 
 Nhưng dưới đại kiến "ra mắt dễ, duy trì khó", có những trường hợp cá biệt đang đi một con đường khác.
 
-Nhà sản xuất Felipe.Z của [HUR+](/people/hur-plus) sử dụng chiến lược "không giống nhóm Hàn" để giữ cho nhóm tồn tại sáu năm, ba album, gây quỹ để đi Hàn Quốc phát hành bài hát, quốc tịch thành viên trải rộng giữa Mông Cổ, Anh, Indonesia và máu Việt Nam, mỗi thành viên mới gia nhập đều tương ứng với một thị trường mục tiêu[^4].
+Nhà sản xuất Felipe.Z của [HUR+](/people/HUR-plus) sử dụng chiến lược "không giống nhóm Hàn" để giữ cho nhóm tồn tại sáu năm, ba album, gây quỹ để đi Hàn Quốc phát hành bài hát, quốc tịch thành viên trải rộng giữa Mông Cổ, Anh, Indonesia và máu Việt Nam, mỗi thành viên mới gia nhập đều tương ứng với một thị trường mục tiêu[^4].
 
 [Liên Vinh](/people/liên-vinh) (vũ công chính của HUR+) bắt đầu từ nhóm đi solo, năm 2025 phát hành EP cá nhân 《EZ》, chọn con đường hip hop và R&B. Những người hâm mộ của cô ấy tổ chức sân khấu ứng viên sinh nhật tại Đại Đào Thành (大稻埕), quảng cáo ứng viên phát trực tiếp đồng thời tại ba nơi: Đài Loan, Nhật Bản và Thái Lan[^13]. Văn hóa ứng viên kiểu K-pop đang được địa phương hóa bởi cộng đồng người hâm mộ các thần tượng Đài Loan.
 
@@ -223,7 +223,7 @@ Câu trả lời vẫn chưa xuất hiện. Nhưng những người vẫn còn �
 
 ## Đọc thêm
 
-- [HUR+](/people/hur-plus) — Á quân DD52, nhóm duy nhất vẫn phát hành album sáu năm sau. "Không giống nhóm Hàn, mới có cơ hội không thua nhóm Hàn"
+- [HUR+](/people/HUR-plus) — Á quân DD52, nhóm duy nhất vẫn phát hành album sáu năm sau. "Không giống nhóm Hàn, mới có cơ hội không thua nhóm Hàn"
 - [Liên Vinh](/people/liên-vinh) — Vũ công chính HUR+, trường hợp thử nghiệm của thành viên nhóm nữ Đài Loan đi solo
 - [Dương Trinh Lân](/people/dương-trinh-lân) — Huấn luyện viên chính của DD52, cô ấy tự lịch sử hai mươi lăm năm bước ra khỏi hệ thống thần tượng với tự chủ
 - [Thái Y Lâm](/people/thái-y-lâm) — Nữ hoàng tài năng "Đài Loan", [Liên Vinh](/people/liên-vinh) công khai gọi cô ấy là "vị thần của tôi"

@@ -207,5 +207,5 @@ Taiwan yang berusia dua puluh tahun menganggap "Taiwan memang sudah merdeka" ada
 
 - [Transformasi Demokrasi Taiwan](/id/history/taiwan-democratization) — Dari darurat militer hingga demokratisasi, latar belakang lebih besar kelahiran Resolusi Masa Depan Taiwan
 - [Pemilihan Taiwan dan Politik Partai](/id/history/taiwan-elections-and-party-politics) — Bagaimana transformasi jalur Partai Progresif Demokratik mempengaruhi politik pemilihan Taiwan
-- [Peristiwa Pulau Cantik](/History/美麗島事件) — Titik awal dua puluh lima tahun penjara politik Shi Mingde, pahami latar belakang sejarah gerakan di luar partai
+- [Peristiwa Pulau Cantik](/history/美麗島事件) — Titik awal dua puluh lima tahun penjara politik Shi Mingde, pahami latar belakang sejarah gerakan di luar partai
 - [Krisis Selat Taiwan dan Perkembangan Hubungan Lintas Selat](/id/history/taiwan-strait-crises-and-cross-strait-relations) — Bagaimana krisis Selat Taiwan 1996 mempercepat pragmatisasi Partai Progresif Demokratik

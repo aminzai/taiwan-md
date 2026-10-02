@@ -89,4 +89,4 @@ Im Unterschied zur feinen Eleganz von Pai Hsien-yung und zur vernunftgeleiteten 
 
 - [Nationalmuseum für taiwanesische Literatur](https://www.nmtl.gov.tw/) – von der Taiwan-Literatur-Bibliothek bewahrte Werke und Erinnerungsstücke Xi Murongs
 - [Pai Hsien-yung](/people/白先勇) – zeitgenössischer Meister der taiwanesischen Literatur, berühmt für „Menschen aus Taipeh“
-- [Sanmao](/People/三毛) – Schriftstellerin der gleichen Generation, die die Fremde in die Herzen der Taiwaner schrieb
+- [Sanmao](/people/三毛) – Schriftstellerin der gleichen Generation, die die Fremde in die Herzen der Taiwaner schrieb

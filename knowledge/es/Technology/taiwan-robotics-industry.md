@@ -140,7 +140,7 @@ La diferencia entre esas dos respuestas es la verdadera calificación de la indu
 
 **Lecturas complementarias**:
 
-- [Industria de inteligencia artificial](/technology/ai人工智慧產業) — Panorama general de los cinco artículos sobre IA en Taiwán; los robots son IA encarnada, pero la "inteligencia" y el "cuerpo" son dos líneas paralelas en la industria taiwanesa
+- [Industria de inteligencia artificial](/technology/AI人工智慧產業) — Panorama general de los cinco artículos sobre IA en Taiwán; los robots son IA encarnada, pero la "inteligencia" y el "cuerpo" son dos líneas paralelas en la industria taiwanesa
 - [Industria de semiconductores](/es/technology/taiwan-semiconductor-industry) — La base de todos los chips para robots, y por qué "chips fuertes no equivalen a robots fuertes" en lógica industrial
 - [Industria de drones de Taiwán](/es/technology/taiwan-drone-industry) — Otro caso de "componentes fuertes, máquinas completas débiles", que puede leerse en paralelo con la industria robótica
 - [Crisis de baja natalidad en Taiwán](/es/society/taiwan-low-birth-rate-crisis) — ¿Por qué el NCAIR puso el "cuidado a domicilio de personas mayores" en primer lugar? La respuesta está en la estructura demográfica

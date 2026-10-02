@@ -168,7 +168,7 @@ Tapi aritmatika ini lolos satu masalah struktural. yes123 situs lowongan survei 
 >
 > Cerita libur typhoon sama「Gunung Pelindung Negara」 sebenarnya dua versi cerita sama. Gunung ubah angin jadi air, tuang ke rumah siapa? Pengumuman hentian kasih libur ke siapa, lupakan siapa? Sama typhoon, hujan di peta merata, tapi orang tanggung biaya dari tidak pernah merata.
 
-Distribusi kelas libur typhoon lengkap, titik buta di balik aritmatika 315 miliar, serta nasib pekerja migran — ini cerita mandiri lain, tertulis di [Libur Typhoon](/Society/颱風假).
+Distribusi kelas libur typhoon lengkap, titik buta di balik aritmatika 315 miliar, serta nasib pekerja migran — ini cerita mandiri lain, tertulis di [Libur Typhoon](/society/颱風假).
 
 ## Stasiun Cuaca Kampung: Kearifan Seribu Tahun Adalah Safety Net Terakhir
 
@@ -220,8 +220,8 @@ Kita dapat memprediksi angin hujan, tidak dapat memprediksi takdir.
 
 ## Bacaan Lanjutan
 
-- [Libur Typhoon](/Society/颱風假) — Sama typhoon, PNS white-collar di rumah, buruh grosir eceran keluar. Retakan kelas yang lolos aritmatika 315 miliar
-- [Krisis Iklim Taiwan & Transisi Net Zero](/Nature/台灣氣候危機與淨零轉型) — Di balik intensitas hujan typhoon naik 40%, pemanasan global & transisi energi Taiwan konteks lebih besar
+- [Libur Typhoon](/society/颱風假) — Sama typhoon, PNS white-collar di rumah, buruh grosir eceran keluar. Retakan kelas yang lolos aritmatika 315 miliar
+- [Krisis Iklim Taiwan & Transisi Net Zero](/nature/台灣氣候危機與淨零轉型) — Di balik intensitas hujan typhoon naik 40%, pemanasan global & transisi energi Taiwan konteks lebih besar
 - [Ekosistem Pegunungan Tinggi Taiwan & Relik Es](/id/nature/taiwan-alpine-ecosystems-glacial-relicts) — Pegunungan Tengah tidak cuma ubah jalur typhoon, juga rumah ekosistem ketinggian tertinggi global
 - [Musim Hujan Mei](/id/nature/meiyu-stagnant-front) — Di luar typhoon, musim hujan Mei sumber hujan besar lain Taiwan, sama terpengaruh perubahan iklim
 - [Pulau Terpencil & Budaya Laut](/id/geography/offshore-islands-and-maritime-culture) — Arsitektur tradisional & pengetahuan nama tempat Yami Lanyu, di era typhoon nilai mitigasi unik

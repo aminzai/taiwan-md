@@ -140,7 +140,7 @@ The difference between those two answers is Taiwan's robotics industry's real re
 
 **Further Reading**:
 
-- [AI Artificial Intelligence Industry](/technology/ai人工智慧產業) — An overview of Taiwan's five AI articles; robotics is physical AI, but "intelligence" and "body" remain two parallel tracks in Taiwan's industry
+- [AI Artificial Intelligence Industry](/technology/AI人工智慧產業) — An overview of Taiwan's five AI articles; robotics is physical AI, but "intelligence" and "body" remain two parallel tracks in Taiwan's industry
 - [Semiconductor Industry](/en/technology/taiwan-semiconductor-industry) — The entire chip foundation for robotics, and why "strong chips does not equal strong robots"
 - [Taiwan's Drone Industry](/en/technology/taiwan-drone-industry) — Another case of "strong components, weak complete machines" that can be compared with the robotics industry
 - [Taiwan's Declining Birthrate Crisis](/en/society/taiwan-low-birth-rate-crisis) — Why NCAIR places "home eldercare" in the top priority? The answer is in demographic structure

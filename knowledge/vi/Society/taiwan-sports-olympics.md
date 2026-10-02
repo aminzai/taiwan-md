@@ -146,11 +146,11 @@ Từ cánh cửa "Taiwan" bị đóng tại Montreal 1976, đến khi thế gi�
 ## Đọc thêm
 
 - [Tsai Wen-yi (Thái Vân Nhi)](/vi/people/tai-tzu-ying): Cô gái từ Kaohsiung đến thế giới, trở thành vô địch ba lần
-- [Guo Ji-zhong (Khanh Tinh Trường)](/People/郭婞淳): Con đường vận động viên ba lần giành chiến thắng Olympic
-- [Li Yang (Lín Dương)](/People/李洋): Lín Dương Dương viết lịch sử với chiến thắng đôi nam đầu tiên
+- [Guo Ji-zhong (Khanh Tinh Trường)](/people/郭婞淳): Con đường vận động viên ba lần giành chiến thắng Olympic
+- [Li Yang (Lín Dương)](/people/李洋): Lín Dương Dương viết lịch sử với chiến thắng đôi nam đầu tiên
 - [Yang Yong-wei (Dương Vong Thị)](/vi/people/yang-yung-wei-judo-olympic-silver): Hệ thống huấn luyện cho chiến thắng bạc Tokyo 2020
-- [Zhu Jia-huan (Đông Gia Hồng)](/People/莊智淵): Vua độc đáo bốn chiến thắng liên tiếp ở châu Á bóng chày đôi
-- [Văn hóa bóng chày Đài Loan](/Culture/台灣棒球文化): Từ Kaohsiung đến CPBL, lịch sử bóng chày một trăm năm
+- [Zhu Jia-huan (Đông Gia Hồng)](/people/莊智淵): Vua độc đáo bốn chiến thắng liên tiếp ở châu Á bóng chày đôi
+- [Văn hóa bóng chày Đài Loan](/culture/台灣棒球文化): Từ Kaohsiung đến CPBL, lịch sử bóng chày một trăm năm
 
 ## Nguồn ảnh
 

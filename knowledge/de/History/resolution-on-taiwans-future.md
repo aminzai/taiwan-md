@@ -201,7 +201,7 @@ Zwanzig Jahre alte Taiwanese halten es für selbstverständlich, dass „Taiwan 
 
 ## Weiterführende Literatur
 
-- [Taiwan-Demokratie](/History/台灣民主轉型) — Von der Notstandsverordnung zur Demokratisierung: Der größere Kontext, in dem die Taiwan-Vision-Resolution entstand
-- [Taiwan-Wahlen und Parteienpolitik](/History/台灣選舉與政黨政治) — Wie die DPP-Parteilinie die Wahlen in Taiwan beeinflusste
-- [Beautiful Island-Ereignis](/History/美麗島事件) — Der Anfang von Shih Ming-tehs 25 Jahren politischer Haft: Verständnis der Geschichte der Parteibewegung
-- [Taiwan-Krise und Entwicklung der taiwanesisch-chinesischen Beziehungen](/History/台海危機與兩岸關係發展) — Wie die Taiwan-Krise 1996 die DPP zur Realpolitik zwang
+- [Taiwan-Demokratie](/history/台灣民主轉型) — Von der Notstandsverordnung zur Demokratisierung: Der größere Kontext, in dem die Taiwan-Vision-Resolution entstand
+- [Taiwan-Wahlen und Parteienpolitik](/history/台灣選舉與政黨政治) — Wie die DPP-Parteilinie die Wahlen in Taiwan beeinflusste
+- [Beautiful Island-Ereignis](/history/美麗島事件) — Der Anfang von Shih Ming-tehs 25 Jahren politischer Haft: Verständnis der Geschichte der Parteibewegung
+- [Taiwan-Krise und Entwicklung der taiwanesisch-chinesischen Beziehungen](/history/台海危機與兩岸關係發展) — Wie die Taiwan-Krise 1996 die DPP zur Realpolitik zwang

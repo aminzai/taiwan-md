@@ -160,7 +160,7 @@ Và đường tàu A Lý Sơn đó, trong ca khúc của họ vẫn còn chạy.
 
 - [Không có Tiệc](/people/cỏ-đông-không-có-tiệc) — ban nhạc độc lập nổi lên cùng năm 2016, viết về sự tức giận của người vừa ra trường; KST viết về dạt trôi 10 năm sau — hai giai đoạn của cùng một thế hệ
 - [Vũ Nhược Tuyên](/people/vũ-nhược-tuyên) — cùng thuộc hệ sinh thái âm nhạc độc lập 2010, đi con đường giọng ca chứ không phải post-rock nữ ca sĩ
-- [Cicada](/people/cicada) — đi post-rock thuần khiết không giọng ca, tạo nên đối lập với "post-rock + giọng ca" của KST
+- [Cicada](/people/Cicada) — đi post-rock thuần khiết không giọng ca, tạo nên đối lập với "post-rock + giọng ca" của KST
 - [Lư Quảng Trung](/people/lư-quảng-trung) — con đường khác biệt âm nhạc độc lập: ca sĩ loại tác phẩm vượt biên ba giải thưởng âm nhạc
 - [Giải thưởng Âm nhạc Chính phủ Đài Loan](/music/giải-thưởng-âm-nhạc-chính-phủ-đài-loan) — sân khấu toạ độ KST được đề cử Giải thưởng Âm nhạc Chính phủ Đài Loan lần thứ 32 Ban nhạc Xuất sắc
 - [Âm nhạc độc lập Đài Loan](/music/âm-nhạc-độc-lập-đài-loan) — từ tự nhiên cong tới KST, Không có Tiệc, nói với năm người phổ hệ thống độc lập âm nhạc thế hệ

@@ -156,7 +156,7 @@ Lần tiếp theo ai đó hỏi bạn "tại sao phải sao lưu ảnh" "tại s
 
 - [Vô danh Nhỏ Trạm — Thanh xuân được đặt trên máy chủ của người khác có thể tắt](/culture/vô-danh-nhỏ-trạm)
 - [PTT Tỷ Đạo Đạo — Thành quốc được sinh ra từ mạng lưới học tập](/technology/ptt-tỷ-đạo-đạo)
-- [Facebook ở Đài Loan](/technology/facebook)
+- [Facebook ở Đài Loan](/technology/Facebook)
 - [Threads ở Đài Loan — Threads và 11 phút 31 giây](/technology/threads-ở-đài-loan)
 - [Instagram ở Đài Loan](/technology/instagram)
 - [Miin Mê Âm — 2026 năm "đã đi rồi, chúng ta đi Miin" nơi trú ẩn](/technology/miin-mê-âm)

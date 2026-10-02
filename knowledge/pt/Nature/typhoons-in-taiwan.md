@@ -168,7 +168,7 @@ Mas nesta aritmética falta um problema estrutural. O site de empregos yes123 in
 >
 > A história da folga por tufão e a da «montanha protetora da pátria» são, na verdade, duas versões da mesma história. A montanha transforma vento em água, despejando-a sobre a casa de quem? O anúncio de suspensão dá folga a quem e deixa de fora quem? No mesmo tufão, a precipitação no mapa é uniforme, mas quem arca com o custo nunca é uniforme.
 
-A distribuição completa de classes na folga por tufão, os pontos cegos por trás da aritmética dos 315 mil milhões, e a situação dos trabalhadores migrantes — estes são outra história independente, contada em [Folga por tufão](/Society/颱風假).
+A distribuição completa de classes na folga por tufão, os pontos cegos por trás da aritmética dos 315 mil milhões, e a situação dos trabalhadores migrantes — estes são outra história independente, contada em [Folga por tufão](/society/颱風假).
 
 ## A estação meteorológica da tribo: a sabedoria milenar é a última rede de segurança
 
@@ -220,8 +220,8 @@ Conseguimos prever o vento e a chuva, mas não o destino.
 
 ## Leitura complementar
 
-- [Folga por tufão](/Society/颱風假) — No mesmo tufão, funcionários públicos em casa, trabalhadores do comércio na rua. A fissura de classe que a aritmética dos 315 mil milhões deixa de fora
-- [Crise climática e transição para zero líquido em Taiwan](/Nature/台灣氣候危機與淨零轉型) — Por trás do aumento de 40% na intensidade da precipitação dos tufões, o aquecimento global e a transição energética de Taiwan num contexto maior
+- [Folga por tufão](/society/颱風假) — No mesmo tufão, funcionários públicos em casa, trabalhadores do comércio na rua. A fissura de classe que a aritmética dos 315 mil milhões deixa de fora
+- [Crise climática e transição para zero líquido em Taiwan](/nature/台灣氣候危機與淨零轉型) — Por trás do aumento de 40% na intensidade da precipitação dos tufões, o aquecimento global e a transição energética de Taiwan num contexto maior
 - [Ecossistemas de alta montanha e relíquias glaciares de Taiwan](/pt/nature/taiwan-alpine-ecosystems-glacial-relicts) — A Cordilheira Central não só altera a trajetória dos tufões, como abriga ecossistemas de altitude entre os mais altos do mundo
 - [Meiyu (estação das chuvas)](/pt/nature/meiyu-stagnant-front) — Além dos tufões, o meiyu é outra grande fonte de chuva em Taiwan, igualmente afetado pela mudança climática
 - [Ilhas e cultura oceânica](/pt/geography/offshore-islands-and-maritime-culture) — A arquitetura tradicional e o conhecimento toponímico dos Tao de Lanyu têm valor único de prevenção de desastres na era dos tufões

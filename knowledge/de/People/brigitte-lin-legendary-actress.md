@@ -131,7 +131,7 @@ Die jüngere Generation lernt ihren Reiz über die alten Klassiker kennen – ei
 
 ## Weiterführende Lektüre
 
-- [Sanmao](/People/三毛): Drehbuchautorin von „Rotes Staubmeer“ (滾滾紅塵), die Brigitte Lin den Golden Horse Award als beste Hauptdarstellerin einbrachte
+- [Sanmao](/people/三毛): Drehbuchautorin von „Rotes Staubmeer“ (滾滾紅塵), die Brigitte Lin den Golden Horse Award als beste Hauptdarstellerin einbrachte
 
 ## Referenzen
 

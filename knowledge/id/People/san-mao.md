@@ -136,11 +136,11 @@ Seseorang yang menghabiskan hidupnya untuk melarikan diri, akhirnya menjadi jala
 
 ## Bacaan Lanjutan
 
-- [Bai Sianyong](/People/白先勇): Orang yang mendorong karya pertama San Mao ke _Modern Literature_
-- [Lin Qingxia](/People/林青霞): _Rolling Red Dust_ menjadikannya ratu, juga membuatnya kehilangan seorang teman
-- [Gerakan Lagu Rakyat Taiwan](/Music/台灣民歌運動): Tanah tempat lahirnya _The Olive Tree_
-- [Prosa Taiwan](/Art/台灣散文): Genre yang didominasi oleh San Mao
-- [Xi Murong](/People/席慕蓉): Penulis wanita sezaman lainnya yang menuliskan negeri asing ke dalam hati orang Taiwan
+- [Bai Sianyong](/people/白先勇): Orang yang mendorong karya pertama San Mao ke _Modern Literature_
+- [Lin Qingxia](/people/林青霞): _Rolling Red Dust_ menjadikannya ratu, juga membuatnya kehilangan seorang teman
+- [Gerakan Lagu Rakyat Taiwan](/music/台灣民歌運動): Tanah tempat lahirnya _The Olive Tree_
+- [Prosa Taiwan](/art/台灣散文): Genre yang didominasi oleh San Mao
+- [Xi Murong](/people/席慕蓉): Penulis wanita sezaman lainnya yang menuliskan negeri asing ke dalam hati orang Taiwan
 
 ## Referensi
 

@@ -136,11 +136,11 @@ Một người cả đời đang trốn chạy, cuối cùng trở thành tuyế
 
 ## Đọc thêm
 
-- [Bạch Tiên Dũng](/People/白先勇): Người đưa tác phẩm đầu tay của Tam Mao lên _Hiện Đại Văn Học_
-- [Lâm Thanh Hà](/People/林青霞): _Red Dust Cuồn Cuốn_ giúp bà phong hậu, cũng khiến bà mất đi một người bạn
-- [Vận động dân ca Đài Loan](/Music/台灣民歌運動): Đất mẹ sinh ra _Cây oliu_
-- [Tản văn Đài Loan](/Art/台灣散文): Lãnh đồ văn loại mà Tam Mao chiếm giữ
-- [Tế Mu Dung](/People/席慕蓉): Nhà văn nữ khác cùng thời đại đưa xứ lạ vào lòng người Đài Loan
+- [Bạch Tiên Dũng](/people/白先勇): Người đưa tác phẩm đầu tay của Tam Mao lên _Hiện Đại Văn Học_
+- [Lâm Thanh Hà](/people/林青霞): _Red Dust Cuồn Cuốn_ giúp bà phong hậu, cũng khiến bà mất đi một người bạn
+- [Vận động dân ca Đài Loan](/music/台灣民歌運動): Đất mẹ sinh ra _Cây oliu_
+- [Tản văn Đài Loan](/art/台灣散文): Lãnh đồ văn loại mà Tam Mao chiếm giữ
+- [Tế Mu Dung](/people/席慕蓉): Nhà văn nữ khác cùng thời đại đưa xứ lạ vào lòng người Đài Loan
 
 ## Tài liệu tham khảo
 

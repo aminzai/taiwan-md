@@ -163,10 +163,10 @@ Von der verschlossenen „Taiwan“-Tür in Montreal 1976 bis zur ganzen Welt, d
 
 - [Dai Zi-ying](/de/people/tai-tzu-ying): Das Mädchen aus Zuoying, Kaohsiung, wird dreifache Weltmeisterin
 - [Kuo Kuo-chun](/de/people/kuo-hsing-chun-olympic-weightlifting-champion): Der Weg zur Medaille bei drei Olympiaden im Gewichtheben
-- [Li Yang](/People/李洋): Lin und Yang schreiben die Geschichte der ersten Männerdoppel-Olympiasieger
+- [Li Yang](/people/李洋): Lin und Yang schreiben die Geschichte der ersten Männerdoppel-Olympiasieger
 - [Yang Yongwei](/de/people/yang-yung-wei-judo-olympic-silver): Das Trainingssystem hinter der Silbermedaille in Judo bei den Olympischen Spielen 2020 in Tokio
 - [Chuang Chiyuan](/de/people/chuang-chih-yuan-table-tennis-legend): Der einsame König des Tischtennis mit vier aufeinanderfolgenden Asienmeisterschaften
-- [Taiwanisches Baseballkultur](/Culture/台灣棒球文化): Die hundertjährige Geschichte des Baseballs von Jianong bis zur CPBL
+- [Taiwanisches Baseballkultur](/culture/台灣棒球文化): Die hundertjährige Geschichte des Baseballs von Jianong bis zur CPBL
 
 ## Bildquellen
 

@@ -168,7 +168,7 @@ Doch in dieser Rechnung fehlt ein strukturelles Problem. Eine Umfrage von yes123
 >
 > Die Geschichte des Taifun-Urlaubs ist im Prinzip die gleiche Geschichte wie der ‚Beschützer der Nation‘. Der Regen wird von den Bergen in Wasser verwandelt und fällt auf wenige Häuser? Die Urlaubsbestätigung wird an wen verteilt und wer wird ausgeschlossen? In derselben Taifun ist die Regenverteilung auf der Karte gleichmäßig, aber die Last tragen die Menschen niemals gleichmäßig.
 
-Die vollständige Verteilung der Taifun-Urlaubs-Klassen, die Lücken in der 31,5-Milliarden-Rechnung und die Situation der ausländischen Arbeiter — das ist eine andere eigenständige Geschichte, die in [Taifun-Urlaub](/Society/颱風假) geschrieben steht.
+Die vollständige Verteilung der Taifun-Urlaubs-Klassen, die Lücken in der 31,5-Milliarden-Rechnung und die Situation der ausländischen Arbeiter — das ist eine andere eigenständige Geschichte, die in [Taifun-Urlaub](/society/颱風假) geschrieben steht.
 
 ## Das Wetterstation der Dorfgemeinschaft: Jahrtausende alte Weisheit ist das letzte Netz
 
@@ -220,11 +220,11 @@ Wir können Regen und Sturm vorhersagen, aber nicht das Schicksal.
 
 ## Weiterführende Literatur
 
-- [Taifun-Urlaub](/Society/颱風假) — Dieselbe Taifun, aber im öffentlichen Sektor bleiben die Angestellten zu Hause, während die Arbeiter im Einzelhandel zur Arbeit gehen. Die Klassenunterschiede in der 31,5-Milliarden-Rechnung
-- [Taiwan und die Klimakrise: Der Weg zur Klimaneutralität](/Nature/台灣氣候危機與淨零轉型) — Die 40 % höhere Regenintensität des Taifuns im Hintergrund der globalen Erwärmung und Taiwans Energiewende
-- [Taiwans Hochlandökosystem und die verbliebenen Gletscherspalten](/Nature/台灣高山生態系與冰河孑遺) — Die Zentralkette verändert nicht nur die Route des Taifuns, sondern ist auch ein wertvolles Hochlandökosystem
-- [Monsun](/Nature/梅雨) — Neben dem Taifun ist der Monsun eine weitere wichtige Regenzeit in Taiwan, die ebenfalls vom Klimawandel betroffen ist
-- [Insel und Meereskultur](/Geography/離島與海洋文化) — Die traditionelle Architektur und die geografischen Namen der Lanyu-Dawu, die im Zeitalter der Taifun einen einzigartigen Schutzwert haben
+- [Taifun-Urlaub](/society/颱風假) — Dieselbe Taifun, aber im öffentlichen Sektor bleiben die Angestellten zu Hause, während die Arbeiter im Einzelhandel zur Arbeit gehen. Die Klassenunterschiede in der 31,5-Milliarden-Rechnung
+- [Taiwan und die Klimakrise: Der Weg zur Klimaneutralität](/nature/台灣氣候危機與淨零轉型) — Die 40 % höhere Regenintensität des Taifuns im Hintergrund der globalen Erwärmung und Taiwans Energiewende
+- [Taiwans Hochlandökosystem und die verbliebenen Gletscherspalten](/nature/台灣高山生態系與冰河孑遺) — Die Zentralkette verändert nicht nur die Route des Taifuns, sondern ist auch ein wertvolles Hochlandökosystem
+- [Monsun](/nature/梅雨) — Neben dem Taifun ist der Monsun eine weitere wichtige Regenzeit in Taiwan, die ebenfalls vom Klimawandel betroffen ist
+- [Insel und Meereskultur](/geography/離島與海洋文化) — Die traditionelle Architektur und die geografischen Namen der Lanyu-Dawu, die im Zeitalter der Taifun einen einzigartigen Schutzwert haben
 
 ## Bildnachweise
 
