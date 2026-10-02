@@ -20,10 +20,10 @@ difficulty: 'intermediate'
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'Nature/生態多樣性.md'
-sourceCommitSha: 'd8646a2a9'
-sourceContentHash: 'sha256:768855c64ea407af'
-sourceBodyHash: 'sha256:2f867df28cee4278'
-translatedAt: '2026-09-08T00:42:49+08:00'
+sourceCommitSha: '825528805'
+sourceContentHash: 'sha256:af5bd3cc5a11c549'
+sourceBodyHash: 'sha256:7b55c8bf8318f623'
+translatedAt: '2026-10-02T03:36:43.746685+00:00'
 ---
 
 # Biodiversidad
@@ -70,21 +70,21 @@ Existe una gran diferencia en la cobertura forestal entre los distintos condados
 
 Estos bosques no son solo paisajes hermosos; son el núcleo de la biodiversidad de Taiwán. Aproximadamente el 86% de los bosques están protegidos legalmente, con un 73% siendo bosque natural y un 27% siendo plantación.
 
-## Última fortaleza contra especies en peligro
+## Último bastión de las especies en peligro
 
-### El leopardo de montaña: Especie indicadora del ecosistema de colinas bajas
+### El gato leopardo: especie indicadora del ecosistema de colinas bajas
 
-El único felino nativo restante en Taiwán, el leopardo de montaña (_Shihu_), se estima que solo quedan alrededor de 500 individuos, y se distribuyen principalmente en las zonas montañosas bajas de Miaoli (苗栗), Taichung (台中) y Nantou (南投).
+El gato leopardo, el único felino nativo que queda en Taiwán, se estima que solo quedan unos 500 individuos, distribuidos principalmente en las zonas de colinas bajas de Miaoli, Taichung y Nantou.
 
-**La muerte por atropello es la amenaza más directa para el leopardo de montaña**. Según estadísticas del equipo _Ahu_ (阿虎), en 2021 murieron 25 leopardos de montaña por atropello, con 15 casos en Miaoli, 6 en Nantou y 2 cada uno en Taichung y Changhua. Los lugares de muerte se encuentran a lo largo de ríos como Holongxi (後龍溪), Zhuoshuixi (濁水溪) y Maoluxi (貓羅溪), lo que demuestra la gravedad de la fragmentación del hábitat. Además de los atropellos, los ataques de perros vagabundos y las enfermedades zoonóticas son otras amenazas recientes, un tema discutido en detalle en [Conservación del leopardo de montaña de Taiwán](/es/nature/taiwanese-leopard-cat-conservation).
+**El atropello en carretera es la amenaza más directa que enfrenta el gato leopardo**. Según las estadísticas del Equipo Ahu, en 2021 un total de 25 gatos leopardo murieron atropellados, de los cuales 15 casos en Miaoli, 6 en Nantou y 2 cada uno en Taichung y Changhua. Los lugares de muerte se concentran a ambos lados de arroyos como el Houlong, el Zhuoshui y el Maoluo, lo que muestra la gravedad de la fragmentación del hábitat. Además de los atropellos, los ataques de manadas de perros vagabundos y las enfermedades transmisibles entre perros y gatos son otro conjunto de amenazas que han surgido en los últimos años: para ver cómo los registros de depredación se superponen con el hábitat, consulta [Conservación del gato leopardo de Taiwán](/es/nature/taiwanese-leopard-cat-conservation); para saber cómo los perros y gatos vagabundos llevan el parvovirus canino a las colinas bajas y cómo la infección a su vez aumenta el riesgo de atropello, consulta [Cultura de animales callejeros en Taiwán](/es/society/stray-animal-culture).
 
-### El leopardo de nube de Taiwán: Rey desaparecido
+### El leopardo nebuloso de Taiwán: el rey desaparecido
 
-En 2014, los académicos declararon oficialmente la extinción del leopardo de nube de Taiwán, con el último avistamiento confirmado en 1983. La desaparición de esta subespecie endémica de Taiwán fue un punto de inflexión crucial en la concienciación sobre la conservación biológica de Taiwán, impulsando a la sociedad a prestar más atención a la protección de las especies en peligro existentes.
+En 2014, los académicos declararon oficialmente extinto al leopardo nebuloso de Taiwán, con el último avistamiento confirmado en 1983. La desaparición de esta subespecie endémica de Taiwán se convirtió en un importante punto de inflexión para el despertar de la conservación biológica en Taiwán, impulsando a la sociedad a prestar más atención a la conservación de las especies en peligro que aún existen.
 
-### El oso negro de Taiwán: Rey del bosque
+### El oso negro de Taiwán: el rey de los bosques
 
-El mamífero terrestre más grande de Taiwán se estima que cuenta con entre 500 y 700 individuos. Aunque está protegido por ley, aún enfrenta amenazas como la fragmentación del hábitat y los conflictos entre humanos y osos. En los últimos años, el gobierno y organizaciones privadas han promovido activamente planes de conservación, incluyendo la instalación de cercas eléctricas y la creación de sistemas de monitoreo.
+El mayor mamífero terrestre de Taiwán, se estima actualmente en 500-700 individuos. Aunque está protegido por la ley, aún enfrenta amenazas como la fragmentación del hábitat y los conflictos entre humanos y osos. En los últimos años, el gobierno y la sociedad civil han promovido activamente planes de conservación, incluyendo la instalación de cercas eléctricas y el establecimiento de sistemas de monitoreo.
 
 ## Tesoro rico del ecosistema marino
 
@@ -137,14 +137,15 @@ Desde la conservación del leopardo de montaña hasta la reintroducción del ibi
 - [Kiro Taiwan - La cobertura forestal de Taiwán es del 60.71%, clasificada en el puesto 33 mundial](https://tbotaiwan.com/forest-coverage/)
 - [Centro de Información Ambiental - Informe a gran escala sobre muertes por atropello en Miaoli (苗栗縣)](https://e-info.org.tw/node/220323)
 
-## Lectura extendida
+## Lecturas adicionales
 
-Este artículo es una visión general; cada especie y ecosistema tiene su propio tema detallado en el sitio:
+Este artículo es una visión panorámica; cada especie y ecosistema cuenta con su propia entrada en profundidad en el sitio:
 
-- [Conservación del leopardo de montaña de Taiwán](/es/nature/taiwanese-leopard-cat-conservation) — La población de quinientos individuos, cómo la muerte por atropello, los ataques de perros y la fragmentación del hábitat lo presionan simultáneamente.
-- [Oso negro de Taiwán](/es/nature/taiwanese-black-bear) — El mamífero terrestre más grande de la isla y el conflicto entre humanos y osos en acción.
-- [Ibis facial negro](/es/nature/black-faced-spoonbill) — De 288 a más de seis mil, cómo la conservación transnacional salvó una especie.
-- [Especies endémicas](/es/nature/endemic-species) — ¿Cómo surgieron estas altas proporciones de especies endémicas en esta isla?
-- [Ecosistema forestal de Taiwán](/es/nature/taiwan-forest-ecosystems) — La estructura real bajo el 60.71% de cobertura forestal.
-- [Ecosistemas alpinos y remanentes glaciares de Taiwán](/es/nature/taiwan-alpine-ecosystems-glacial-relicts) — Especies de montaña sin escapatoria y evidencia viva del Pleistoceno.
-- [Ecosistema marino de Taiwán y conservación de arrecifes](/es/nature/taiwan-marine-ecology-and-coral-conservation) — El estado actual de las aguas con un tercio de los tipos de coral mundiales.
+- [Conservación del gato leopardo de Taiwán](/es/nature/taiwanese-leopard-cat-conservation) — Una población de quinientos individuos; atropellos, ataques de perros y fragmentación del hábitat presionando a la vez
+- [Cultura de animales callejeros en Taiwán](/es/society/stray-animal-culture) — Tras la política de cero sacrificio, la cuestión aún sin resolver entre perros y gatos vagabundos y la fauna silvestre de las estribaciones
+- [Oso negro de Taiwán](/es/nature/taiwanese-black-bear) — El mayor mamífero terrestre de la isla y el escenario del conflicto humano-oso
+- [Espátula de cara negra](/es/nature/black-faced-spoonbill) — De 288 a más de seis mil individuos: cómo la conservación transfronteriza salvó a una especie
+- [Especies endémicas](/es/nature/endemic-species) — Cómo surgió en esta isla una proporción tan alta de especies endémicas
+- [Ecosistema forestal de Taiwán](/es/nature/taiwan-forest-ecosystems) — La estructura real bajo una cobertura forestal del 60,71 %
+- [Ecosistema alpino de Taiwán y reliquias glaciares](/es/nature/taiwan-alpine-ecosystems-glacial-relicts) — Especies alpinas sin escapatoria y evidencia viva de la era glacial
+- [Ecología marina y conservación de arrecifes de coral en Taiwán](/es/nature/taiwan-marine-ecology-and-coral-conservation) — La situación actual de unos mares que albergan un tercio de las especies de coral del mundo

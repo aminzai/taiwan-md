@@ -2,6 +2,7 @@
 title: 'Conservación del leopardo de Formosa'
 description: 'El fantasma felino de menos de quinientos ejemplares en toda la isla: cuando el último felino nativo se acerca al borde de la desaparición'
 date: 2026-03-18
+category: 'Nature'
 tags:
   [
     'leopardo de Formosa',
@@ -19,11 +20,10 @@ featured: false
 lastVerified: 2026-03-30
 lastHumanReview: true
 translatedFrom: 'Nature/台灣石虎保育.md'
-sourceCommitSha: 'd6e87d07'
-sourceContentHash: 'sha256:bbca77501c197a81'
-sourceBodyHash: 'sha256:76487fd0d26564e6'
-translatedAt: '2026-05-17T05:33:00Z'
-category: Nature
+sourceCommitSha: '825528805'
+sourceContentHash: 'sha256:53a697c302d622a3'
+sourceBodyHash: 'sha256:7ed841e26f0abf1f'
+translatedAt: '2026-10-02T02:56:48.052788+00:00'
 ---
 
 # Conservación del leopardo de Formosa
@@ -78,45 +78,45 @@ La característica de estos lugares es que **están muy cerca de los seres human
 
 ## Cuatro formas de morir
 
-### 1. Atropellos: la masacre más silenciosa
+### Uno, atropello: la masacre más silenciosa
 
-En los círculos de conservación de Taiwán, existe una palabra que hiela la sangre: **atropello en carretera** (_roadkill_). El leopardo de Formosa es un animal nocturno que cruza las carreteras por la noche para buscar alimento, buscar pareja o patrullar su territorio, mientras que las carreteras rurales de Miaoli y Nantou carecen de pasos de fauna, de señalización de reducción de velocidad y de cualquier diseño pensado para la vida silvestre.
+En los círculos de conservación de Taiwán, hay un término que hiela la sangre: **atropello**. El leopardo de Formosa es un animal nocturno; cruza las carreteras de noche para alimentarse, buscar pareja y patrullar su territorio, pero las carreteras rurales de Miaoli y Nantou no tienen pasos de fauna, ni medidas de reducción de velocidad, ni ningún diseño pensado para la vida silvestre.
 
-Cuando los faros se encienden, los ojos del leopardo de Formosa reflejan la luz, y entonces—
+Los faros se encienden, los ojos del leopardo de Formosa reflejan la luz, y luego—
 
-La serie especializada de Wuo Wuo utilizó un título desgarrador: "¡Plum! Y luego me convertí en carne seca".
+El reportaje sobre atropellos de Wuo Wuo usó un título desgarrador: «¡Plum! Y luego me convertí en carne seca».
 
-Entre 2017 y 2023, se registraron más de 130 atropellos de leopardos de Formosa.[^2] Cuántos no fueron descubiertos, nadie lo sabe.
+Entre 2017 y 2023, se registraron más de 130 leopardos de Formosa atropellados.[^2] Los que no se descubrieron, nadie sabe cuántos son.
 
-La investigadora de leopardos de Formosa Lin Yuxiu rastreó a uno llamado "Xiaocao". Este ejemplar fue atropellado **dos veces** y sobrevivió en ambas ocasiones. Lin Yuxiu dijo: "Xiaocao logró salvarse solo tras dos accidentes de tráfico. Si todavía no hacemos nada por el leopardo de Formosa, realmente estaríamos sacrificando su capacidad de autosalvamento."
+La investigadora de leopardos de Formosa Lin Yu-hsiu rastreó a uno llamado «Xiao Cao» (Hierbita). Fue atropellado **dos veces** y sobrevivió ambas. Lin Yu-hsiu dijo: «Xiao Cao logró salvarse por sí mismo tras dos atropellos; si nosotros aún no hacemos nada por el leopardo de Formosa, entonces su esfuerzo por sobrevivir habrá sido en vano».
 
-### 2. Pérdida de hábitat: le demolieron la casa
+### Dos, pérdida de hábitat: la casa derribada
 
-Miaoli es el condado con la mayor densidad poblacional de leopardos de Formosa y la mejor continuidad de hábitat. Pero Miaoli es también uno de los condados de Taiwán con las controversias de desarrollo más frecuentes.
+Miaoli es el condado con la mayor densidad de población de leopardo de Formosa y la mejor continuidad de hábitat. Pero Miaoli también es uno de los lugares con más controversias por desarrollo entre todos los condados y ciudades de Taiwán.
 
-En 2019, el "Reglamento de Autonomía para la Conservación del Leopardo de Formosa" propuesto por el gobierno del condado de Miaoli fue **rechazado dos veces** en el consejo del condado. La razón: "afectaría el desarrollo local". Un condado que se autoproclama "capital del leopardo de Formosa" no pudo aprobar ni una sola normativa para protegerlo.
+En 2019, el «Reglamento autonómico de conservación del leopardo de Formosa» propuesto por el gobierno del condado de Miaoli fue **rechazado dos veces** en el consejo del condado. La razón: «afecta el desarrollo local». Un condado que se autodenomina «capital del leopardo de Formosa» no puede ni aprobar una sola normativa para protegerlo.
 
-Este es el teatro absurdo de la conservación en Taiwán: usas la imagen del leopardo de Formosa para marketing turístico, lo imprimes en mascotas, lo pintas en los autobuses, pero cuando proteger al leopardo de Formosa implica realmente restringir el desarrollo, el leopardo deja de importar.
+Este es el teatro del absurdo de la conservación en Taiwán: usas el nombre del leopardo de Formosa para marketing turístico, lo pones en mascotas, lo pintas en autobuses — pero cuando proteger al leopardo de Formosa realmente implica limitar el desarrollo, el leopardo de Formosa deja de importar.
 
-### 3. Ataques de perros: la amenaza más subestimada
+### Tres, muerte por perros: la amenaza más subestimada
 
-Esta es la situación más incómoda que el movimiento de protección animal en Taiwán no quiere enfrentar: **los perros callejeros matan a los leopardos de Formosa**.
+Este es el momento más incómodo que el mundo de la protección animal en Taiwán no quiere enfrentar: **los perros callejeros matan a mordiscos al leopardo de Formosa**.
 
-Las imágenes captadas por cámaras trampa muestran cada vez más: jaurías de perros vagabundos aparecen en el hábitat del leopardo de Formosa, persiguiéndolo, atacándolo y matándolo. Wuo Wuo dedicó una serie completa al tema "Ataques de perros al leopardo de Formosa", cuyos datos revelan que los ataques caninos son la segunda causa de mortalidad confirmada para la especie, solo por detrás de los atropellos.
+Las cámaras trampa capturan cada vez más escenas: manadas de perros vagabundos aparecen en el hábitat del leopardo de Formosa, persiguiendo, atacando, matando a mordiscos. Wuo Wuo hizo un reportaje completo sobre «perros matando leopardos de Formosa»; los datos muestran que la muerte por perros es la segunda causa de muerte confirmada del leopardo de Formosa, después del atropello.
 
-Esto coloca a los grupos de protección animal y a los ecólogos de Taiwán en una posición extremadamente incómoda. Quienes protegen a los perros callejeros dicen "no se pueden sacrificar"; quienes protegen al leopardo de Formosa dicen "si no se controlan los perros vagabundos, el leopardo de Formosa se extinguirá de verdad".
+La depredación es solo la mitad de esta amenaza. Los perros y gatos vagabundos llevan además enfermedades de perros y gatos a las colinas bajas, y los leopardos de Formosa infectados tienen menos probabilidades de sobrevivir en las carreteras, de modo que la muerte por perros y el atropello no son independientes en las cifras. Esta cadena causal, los datos de cribado viral de la Universidad Nacional de Ciencia y Tecnología de Pingtung, y la controversia de la política de «cero sacrificio» que arrastra, se discuten en profundidad en [cultura de animales callejeros de Taiwán](/es/society/stray-animal-culture).
 
-Ambos lados protegen animales, pero esos animales se matan entre sí.
+Esto coloca a las organizaciones de protección animal y a los académicos de conservación ecológica de Taiwán en una posición sumamente incómoda. Quienes protegen a los perros callejeros dicen «no se puede sacrificar»; quienes protegen al leopardo de Formosa dicen «si no se controla a los perros vagabundos, el leopardo de Formosa se extinguirá de verdad».
 
-Este debate aún no tiene respuesta, pero obliga a la sociedad taiwanesa a enfrentar un hecho: **"amar a los animales" no es una postura simple, está llena de contradicciones y dilemas**.
+Ambos bandos protegen animales, pero los animales de cada bando se matan entre sí.
 
-### 4. Envenenamiento y trampas
+Este debate no tiene respuesta aún, pero obliga a la sociedad taiwanesa a enfrentar un hecho: **«amar a los animales» no es una postura simple, está llena de contradicciones y elecciones difíciles.**
 
-El leopardo de Formosa come pollos. Para los agricultores de las zonas de colinas bajas, que un leopardo entre en el gallinero supone una pérdida económica real. La respuesta de algunos agricultores es directa: envenenar.
+### Cuatro, envenenamiento y trampas para animales
 
-Además, las trampas para animales en las zonas montañosas, aunque oficialmente prohibidas desde 2020, siguen existiendo de forma clandestina. Cuando un leopardo de Formosa cae en una trampa, en el mejor de los casos pierde un dedo; en el peor, muere de hambre al no poder cazar.
+El leopardo de Formosa come pollos. Para los agricultores de las zonas de colinas bajas, la intrusión del leopardo de Formosa en los gallineros es una pérdida económica real. La respuesta de algunos agricultores es directa: echar veneno.
 
----
+Además, las trampas para animales en la montaña, aunque prohibidas explícitamente desde 2020, siguen existiendo a escondidas. Si un leopardo de Formosa pisa una trampa, en el mejor de los casos pierde dedos; en el peor, muere de hambre al no poder cazar.
 
 ## La luz de la conservación: hay quien protege
 
@@ -184,18 +184,18 @@ A los taiwaneses les gusta decir "si rezas, se te protege". Pero el leopardo de 
 
 ## Referencias
 
-[^1]: [Reglamento autonómico de conservación del leopardo de Formosa en Miaoli - Environmental Information Center](https://e-info.org.tw/node/221882) — Confirma que la Asamblea del Condado de Miaoli aprobó en tercera lectura el reglamento autonómico de conservación del leopardo de Formosa el 10 de diciembre de 2019.
+Lectura adicional:
 
-[^2]: [Wuo Wuo: ¡Plum! Y luego me convertí en carne seca — Reportaje sobre atropellos](https://wuo-wuo.com/topics/widlife/94-road-killing-topic) — Estadísticas de atropellos de leopardos de Formosa entre 2017 y 2023.
+- [Wuo-wuo: La amenaza subestimada. Perros matan leopardos gato](https://wuo-wuo.com/topics/widlife/dogkill) — Registro de casos de perros matando leopardos gato.
+- [Agencia de Silvicultura y Conservación de la Naturaleza del Ministerio de Agricultura](https://www.forest.gov.tw/) — Políticas de conservación del hábitat del leopardo gato.
+- [Embajadores de la conservación del leopardo gato — La familia Ahu](https://www.facebook.com/LeopardCatTaiwan/) — Situación actual de la cría en cautiverio del leopardo gato en el Instituto de Investigación de Biodiversidad.
 
-[^3]: [Programa de Pagos por Servicios Ecosistémicos del Leopardo de Formosa del Ministerio de Agricultura](https://www.moa.gov.tw/) — Descripción del programa de subsidios a la agricultura amigable con el leopardo de Formosa.
+[^1]: [Ordenanza de autonomía para la conservación del leopardo gato en Miaoli - Centro de Información Ambiental](https://e-info.org.tw/node/221882) — Se confirma que la ordenanza de autonomía para la conservación del leopardo gato en el condado de Miaoli fue aprobada en tercera lectura el 10 de diciembre de 2019.
 
-[^4]: [Instituto de Investigación de Biodiversidad (TBRI) del Ministerio de Agricultura](https://www.tbri.gov.tw/) — Programa de reproducción en cautividad del leopardo de Formosa e investigación de conservación.
+[^2]: [Wuo-wuo: ¡Plaf! Y me convertí en carne seca — Reportaje sobre atropellos](https://wuo-wuo.com/topics/widlife/94-road-killing-topic) — Estadísticas de registros de atropellos de leopardo gato de 2017 a 2023.
 
-[^5]: [Wuo Wuo: Antes de la extinción — Reportaje especial sobre el leopardo de Formosa en Taiwán](https://wuo-wuo.com/topics/widlife/taiwan-leopard-cat) — Reportaje completo sobre el estado actual de la conservación del leopardo de Formosa en Taiwán.
+[^3]: [Plan de pagos ecológicos para el leopardo gato del Ministerio de Agricultura](https://www.moa.gov.tw/) — Explicación del plan de pagos para la agricultura amigable con el leopardo gato.
 
-Lecturas complementarias:
+[^4]: [Instituto de Investigación de Biodiversidad del Ministerio de Agricultura (Instituto de Biodiversidad)](https://www.tbri.gov.tw/) — Plan de cría en cautiverio del leopardo gato e investigación de conservación.
 
-- [Wuo Wuo: Una amenaza subestimada — Ataques de perros al leopardo de Formosa](https://wuo-wuo.com/topics/widlife/dogkill) — Registro de casos de ataques caninos al leopardo de Formosa.
-- [Agencia Forestal y de Conservación Natural del Ministerio de Agricultura](https://www.forest.gov.tw/) — Política de conservación del hábitat del leopardo de Formosa.
-- [Embajadores de la conservación del leopardo de Formosa — Familia Ahú](https://www.facebook.com/LeopardCatTaiwan/) — Actualización del programa de reproducción en cautividad del TBRI.
+[^5]: [Wuo-wuo: Antes de la extinción — Reportaje especial sobre el leopardo gato de Taiwán](https://wuo-wuo.com/topics/widlife/taiwan-leopard-cat) — Reportaje completo sobre la situación actual de la conservación del leopardo gato en Taiwán.
