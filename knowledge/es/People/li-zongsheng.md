@@ -2,9 +2,7 @@
 title: 'Jonathan Lee: escribió en lenguaje llano las vidas íntimas de otros, y solo en 《La colina》 por fin habló de sí mismo'
 description: 'Jonathan Lee, nacido en 1958 en una tienda de gas de Beitou, escribió canciones durante toda una vida porque temía volver a repartir cilindros de gas. Con un lenguaje popular y directo, escribió para toda una generación de cantantes como Chen Shu-hua, Winnie Hsin y Sandy Lam las heridas del amor y de la vida, y fue llamado un Bai Juyi capaz de «asomarse al corazón ajeno». Pero este hombre que mejor entendía las vidas íntimas de otros solo habló de frente sobre su propia mediana edad y sobre su padre a los 55 años, en 《La colina》, y a los 60, en 《Una vieja canción recién escrita》; al mismo tiempo, mientras «vivía de las canciones de mujeres», sus decisiones sentimentales reales también le cargaron la fama de «hombre tóxico».'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '音樂'
 tags:
   [
     'Música',
@@ -14,15 +12,22 @@ tags:
     'baladas',
     'filosofía de vida',
   ]
-readingTime: 12
+subcategory: '音樂'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-06-05
 lastHumanReview: false
-featured: false
+readingTime: 12
+rationale:
+  why_this_hook: '結尾先行——瓦斯行少年怕回去送瓦斯而寫歌，替別人窺了一輩子人心，最後在《山丘》回頭發現無人等候。送瓦斯（起點）與山丘（終點）首尾閉環。'
+  whats_excluded: '坊間誤算到李宗盛頭上的歌（滾滾紅塵=羅大佑／愛上一個不回家的人=飛碟／味道=姚謙／花心=喜納昌吉／Music Factory=羅大佑廠牌）全部移到「那些其實不是他寫的歌」段澄清，不列為他的作品；New Balance 商業化 critique 無來源不寫；金曲特別貢獻獎從未得不寫。'
+  where_it_hedges: '朱衛茵婚年中文維基 1987／英文 1988 分歧，採 1987；2013 中年自述部分簡體重導來源，引用前已核繁體語境；長春瓦斯行原始名稱含「煤氣」，依台灣用語改「瓦斯」。'
+  whos_pushing_back: '認為他過譽、唱功被詬病的樂評；罵他「拋家棄子」渣男的網路輿論；認為大白話不如林夕造境的詞評派——三種聲音都在「靠女人吃飯/渣男」與「窺人心白居易」兩段並陳。'
 translatedFrom: 'People/李宗盛.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:7e1d920b41b8d459'
-sourceBodyHash: 'sha256:ab5e69cc7c8739be'
-translatedAt: '2026-06-16T17:05:07Z'
+sourceCommitSha: 'db2633671'
+sourceContentHash: 'sha256:1c035df4dee1c3d3'
+sourceBodyHash: 'sha256:e6fee31313863c50'
+translatedAt: '2026-10-02T18:36:37.729632+00:00'
 ---
 
 # Jonathan Lee: escribió en lenguaje llano las vidas íntimas de otros, y solo en 《La colina》 por fin habló de sí mismo
@@ -126,29 +131,29 @@ En 1987 se casó con su primera esposa, Chu Wei-yin, y tuvieron dos hijas, Lee C
 
 La academia ha reparado en esta tensión. En la Universidad Nacional Chung Hsing existe una tesis de maestría titulada 《Urbano, popular, Jonathan Lee: narrativas de género y discursos amorosos en las canciones de amor de estilo Lee》, dedicada a estudiar cómo él, en tanto hombre, escribió el amor en nombre de mujeres y qué mirada de género incorporó en esa escritura.[^39] Que un hijo de una tienda de gas terminara convertido en el fenómeno de las “canciones de amor de estilo Lee” analizado en tesis académicas probablemente fue algo que ni él mismo imaginó.
 
-## Una guitarra hecha con sus propias manos
+## Una guitarra hecha a mano
 
-En 2002, Jonathan Lee hizo algo bastante distinto de producir discos y escribir canciones: fundó Lee Guitars y empezó a construir guitarras acústicas con sus propias manos.[^40] Dijo que en la historia del pop en mandarín casi no había luthiers propios. Al año siguiente trasladó el taller al distrito artístico 798 de Pekín, y más tarde el centro de su vida también se fue desplazando gradualmente hacia Pekín.[^40]
+En 2002, Lee Hsien-tse hizo algo distinto tanto del proceso de producción como de la composición: fundó «Lee Guitars» (Lee Guitars), una marca de guitarras de madera hechas a mano.[^40] Dijo que en la historia de la música popular china había casi ningún fabricante de instrumentos que fuera suyo. Al año siguiente trasladó su estudio a Beijing 798, y posteriormente su vida también se centró cada vez más en Beijing.[^40]
 
-![Primer plano de una guitarra acústica de Lee Guitars, con la veta de la madera y la boca claramente visibles](/article-images/people/jonathan-lee-guitar.webp)
-_Una guitarra de Lee Guitars. De las manos que cargaban cilindros de gas a las manos que cepillan madera para construir guitarras. Photo: KaurJmeb. [CC BY 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jonathan_Lees_guitar.jpg)._
+![Detalle de una guitarra de madera de Lee Guitars (Lee Guitars), con la veta de la madera y la cavidad del instrumento claramente visibles](/article-images/people/jonathan-lee-guitar.webp)
+_Una guitarra «Lee Guitars» (Lee Guitars). De las manos que cargaban botellas de gas a las manos que tallan madera para hacer guitarras. Foto: KaurJmeb. [CC BY 2.0 vía Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jonathan_Lees_guitar.jpg)._
 
-De las manos que cargaban cilindros de gas a las que tocaban la guitarra, escribían canciones y pulían cantantes; luego, a las que cepillaban madera para hacer guitarras. Esas manos cambiaron muchas veces de oficio. Pero, si se mira con atención, lo que hicieron fue siempre lo mismo: tomar algo que una persona común quería decir pero no lograba expresar con claridad, y convertirlo lentamente en una obra que otros pudieran recibir.
+De las manos que cargaban botellas de gas a las manos que tocan la guitarra, escriben canciones y pulen talento de músicos, hasta las manos que tallan madera para hacer guitarras, estas manos han tenido muchas ocupaciones. Pero si te detienes a mirar con atención, descubrirás que en realidad están haciendo lo mismo: tomar algo que una persona común quiere decir pero no sabe cómo expresarlo, y lentamente convertirlo en una obra que otros puedan recibir.
 
-Desde 2019 emprendió la gira de conciertos “Aquellos años con canciones”, con primera parada en Suzhou.[^41] En Taiwán cantó en el Kaohsiung Arena, en enero de 2020, y en el Taipei Arena, en diciembre de 2021, su cuarta vez en ese recinto.[^42] Sobre el escenario de Taipéi dijo una frase muy propia: “El pequeño Lee solo escribe canciones; nunca he sentido que sea mejor que ellos. Poder colaborar con ellos: ellos fueron quienes me hicieron”.[^43]
+A partir de 2019, emprendió su gira «Años de canciones», cuyo primer concierto fue en Suzhou.[^41] En Taiwán tocó en el Kaohsiung Dome (enero de 2020) y el Taipei Dome (diciembre de 2021, su cuarto concierto en una arena de ese tipo).[^42] En el escenario de Taipei, dijo algo que parece muy él: «Lee pequeño simplemente escribe canciones; nunca he sentido que soy mejor que ellos. Es gracias a ellos que he podido colaborar con ellos.»[^43]
 
-Después de escribir durante treinta años las mejores canciones para otros, al final siguió devolviendo el mérito a quienes cantaron sus canciones. La frase de 〈La colina〉, “tras cruzar la colina, descubrí que nadie esperaba”, canta una melancolía; pero, parado en el escenario del Taipei Arena, Lee sabía bien una cosa: al otro lado de la colina estaban Chen Shu-hua, Winnie Hsin, Sandy Lam, Sylvia Chang, Chao Chuan y Karen Mok, toda una generación de voces que él escribió dentro de sus canciones y que, a la vez, lo cantaron hasta convertirlo en padrino. Aquel muchacho que temía volver a repartir gas al final no volvió a repartir gas: llevó cilindros enteros de vidas íntimas a los hogares de todo el mundo en lengua china.
+Después de escribar las mejores canciones para otros durante treinta años, al final también devolvió el crédito a quienes cantan sus canciones. La frase en «Cima de la colina» que dice «Después de superar la colina, descubrí que nadie me esperaba» suena a resignación, pero parado en el escenario del Taipei Dome, él sabía muy bien la realidad: en la otra orilla de esa colina, estaban Chen Shu-hua, Hsin Hsiao-yi, Lin Yi-lian, Chang Ai-chia, Zhao Chuan y Mo Wen-wei, una generación que él había incluido en sus canciones y que lo habían convertido en el maestro de ellos. El joven que temía regresar a repartir gas, finalmente no regresó a repartir gas; en cambio, llevó cubo tras cubo de emociones a casa de toda la comunidad china.
 
 ---
 
-**Lecturas complementarias**:
+**Lecturas relacionadas**:
 
-- [Lo Ta-yu](/es/people/luo-dayou) — Otro padrino de la música en mandarín; el “observa el mundo” que conviene leer junto al “se asoma al corazón” de Jonathan Lee
-- [Sylvia Chang](/es/people/sylvia-chang) — 《Ocupada y ciega》, el primer proyecto de producción de Lee al entrar en Rock Records, punto de partida de la línea de “mujeres urbanas”
-- [A-mei](/es/people/a-mei) — Voz de diva de la misma edad dorada de Rock Records, otra ruta de la voz femenina popular de Taiwán
-- [Movimiento de la canción folk de Taiwán](/es/music/taiwan-campus-folk-song-movement) — El tren al que Lee se subió en los años setenta: el grupo Mu Chi Ta y el suelo de los Premios Chin Yun
-- [La evolución del mandarín taiwanés](/es/culture/taiwan-mandarin-evolution) — La razón por la que el “lenguaje llano convertido en canción” conmueve está ligada a cómo el mandarín taiwanés se volvió habla cotidiana
-- [Huang Ta-wei](/es/people/david-wong) — Cantautor y músico integral de la misma generación, que con una voz ronca creó un estilo propio; junto a Jonathan Lee, dos maneras distintas de abrir camino a la balada en mandarín
+- [Lo Hsien-tse](/es/people/luo-dayou) — Otro maestro de la música china, cuyo «Observar al mundo» contrasta con el «Mirar al corazón de la gente» de Lee Hsien-tse; personas que deberían leerse juntas
+- [Chang Ai-chia](/es/people/sylvia-chang) — El primer proyecto de producción de Lee Hsien-tse con la banda de roca, el punto de partida de la línea de «mujeres urbanas»
+- [Chang Hui-mei](/es/people/a-mei) — Reina de la era dorada de la discográfica, otra ruta diferente de la música popular taiwanesa
+- [Movimiento de cantautor taiwanés](/es/music/taiwan-campus-folk-song-movement) — El tren en el que subió Lee Hsien-tse en la década de 1970, el terreno fértil de las bandas de guitarra y los premios Gold Bell
+- [Evolución del chino taiwanés](/es/culture/taiwan-mandarin-evolution) — Por qué «el lenguaje popular de Taiwan se convirtió en canción» está relacionado con cómo el chino taiwanés se convirtió en lenguaje cotidiano
+- [Huang Da-wei](/es/people/david-wong) — Un artista creador de su generación y un artista musical multifacético, que con su voz ronca ha encontrado su propio estilo; Lee Hsien-tse y él representan dos formas de buscar el camino de las canciones de amor en chino
 
 ## Fuentes de imagen
 

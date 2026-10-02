@@ -1,354 +1,315 @@
 ---
-title: 'Desarrollo de la industria del software en Taiwán'
-description: 'De la mentalidad de fabricación por encargo a la innovación en software, cómo Taiwán encuentra su nuevo posicionamiento en la era post-semiconductores'
+title: 'Desarrollo de la industria de software en Taiwán'
+description: 'Del pensamiento de fabricación a la innovación en software, cómo Taiwán encuentra una nueva posición en la era post-semiconductor'
 date: 2026-03-18
 category: 'Technology'
 tags:
   [
-    'industria del software',
+    'industria de software',
     'servicios de información',
     'transformación digital',
-    'startups',
+    'emprendimiento',
   ]
-subcategory: '人工智慧'
+subcategory: '數位與網路'
 author: 'Taiwan.md'
 readingTime: 12
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Technology/台灣軟體產業發展.md'
-sourceCommitSha: '24efd20f3'
-sourceContentHash: 'sha256:e6d1dafa422fe928'
-sourceBodyHash: 'sha256:1d51e9aba96f7253'
-translatedAt: '2026-10-02T09:54:53+08:00'
+sourceCommitSha: '3e08bf82b'
+sourceContentHash: 'sha256:ef6914cecff85dfb'
+sourceBodyHash: 'sha256:6cc55941dd179c34'
+translatedAt: '2026-10-03T02:34:18+08:00'
 ---
 
-# Desarrollo de la industria del software en Taiwán
+# Desarrollo de la industria de software en Taiwán
 
 ## Resumen en 30 segundos
 
-Taiwán es conocido mundialmente desde hace tiempo por la fabricación de hardware, pero en los últimos años su industria del software ha surgido rápidamente. Desde la integración de sistemas y el desarrollo de videojuegos hasta las aplicaciones de IA, la industria del software taiwanesa, con el apoyo de políticas gubernamentales, ha pasado de una «mentalidad de fabricación por encargo de hardware» a un «modelo de innovación en software», encontrando su segundo carril en la era de la economía digital.
+Taiwán ha sido conocido mundialmente por su fabricación de hardware, pero en los últimos años la industria de software está creciendo rápidamente. Desde integración de sistemas, desarrollo de videojuegos hasta aplicaciones de IA, la industria de software taiwanesa, con el apoyo de las políticas gubernamentales, ha pasado de un "pensamiento de fabricación de hardware" a un "modelo de innovación en software", encontrando su segundo trayecto en la era de la economía digital.
 
-En 2023, los ingresos de la industria de servicios de información de Taiwán alcanzaron aproximadamente 680.000 millones de NT$, con una tasa de crecimiento anual promedio del 8-10%, muy superior a la de la manufactura en general.
+Según las estadísticas del Ministerio de Economía, en 2023 el volumen de negocios anual de la industria de computadoras y servicios de información fue de aproximadamente 570,000 millones de NTD, con un crecimiento del 8.9% interanual, alcanzando un récord histórico[^3]。
 
-Palabras clave: transformación digital, servicios de software, aplicaciones de IA, industria del videojuego, integración de sistemas
+Palabras clave：transformación digital、servicios de software、aplicaciones de IA、industria de videojuegos、integración de sistemas
 
 ## Por qué es importante
 
-En la era de la economía digital global, el valor añadido de la manufactura pura de hardware ha sido comprimido, y el software y los servicios se han convertido en los verdaderos creadores de valor. Para que Taiwán pase de ser una «potencia manufacturera» a una «potencia innovadora», la industria del software es precisamente el campo de batalla clave de esta transformación.
+En la era global de la economía digital, el valor añadido de la mera fabricación de hardware se está viendo presionado, y el software y los servicios se han convertido en los verdaderos creadores de valor. Taiwán necesita transformarse de un "país manufacturer" a un "país innovador", y la industria de software es precisamente el campo de batalla clave de esta transformación.
 
-La industria del software posee ventajas estructurales que la industria del hardware difícilmente puede igualar: margen bruto promedio del 30-50% (frente al 5-15% del hardware), costo marginal que tiende a cero, y modelos de negocio que pueden replicarse rápidamente en mercados internacionales.
+La industria de software tiene ventajas estructurales que el hardware no puede igualar: el costo marginal tiende a cero, y los modelos de negocio pueden replicarse rápidamente en mercados internacionales.
 
-Para Taiwán, la industria del software representa:
+Para Taiwán, la industria de software representa：
 
-- **Actualización industrial**: pasar de la fabricación por encargo a la marca y la innovación
-- **Valor del talento**: la excelente cultura de ingenieros de Taiwán brilla en el ámbito del software
-- **Competitividad global**: en IA, videojuegos, fintech y otros campos, a la par con la competencia internacional
+- **Actualización industrial**：de la fabricación a la marca e innovación
+- **Valor del talento**：la excelente cultura de ingenieros taiwanesa brilla en el campo del software
+- **Competitividad global**：en sincronía con el mundo en campos como IA、videojuegos、fintech
 
-## Situación actual y escala de la industria
+## Situación actual y tamaño de la industria
 
-### Panorama general del desarrollo
+### Visión general del desarrollo
 
-Según estadísticas del Instituto para la Información de la Industria (III), la industria de servicios de información de Taiwán ha mantenido un crecimiento estable en los últimos años:
+Según las estadísticas del Ministerio de Economía, la industria de computadoras y servicios de información de Taiwán ha mantenido un crecimiento estable en los últimos años：
 
-- **Escala de la industria**: en 2023, los ingresos de la industria de servicios de información de Taiwán alcanzaron aproximadamente 680.000 millones de NT$[^3]
-- **Personal empleado**: más de 450.000 personas trabajan en la industria de servicios de información en toda Taiwán
-- **Tendencia de crecimiento**: tasa de crecimiento anual promedio de aproximadamente 8-10%, muy superior a la manufactura en general
+- **Tamaño de la industria**：en 2023, el volumen de negocios anual fue de aproximadamente 570,000 millones de NTD, alcanzando un récord histórico[^3]
+- **Tendencia de crecimiento**：en 2023, creció un 8.9%[^3]
 
-Comparada con la industria de hardware tradicional, la industria del software presenta:
+En comparación con la tradicional industria de hardware, la industria de software tiene：
 
-- Márgenes brutos más altos (promedio 30-50% vs hardware 5-15%)
-- Mayor escalabilidad (costo marginal tiende a cero)
-- Modelos de negocio más flexibles (suscripción, servicios en la nube)
+- Mayor margen de beneficio
+- Mayor capacidad de expansión（costo marginal tendiendo a cero）
+- Modelos de negocio más flexibles（suscripción、servicios en la nube）
 
 ### Análisis de la estructura industrial
 
-La industria del software de Taiwán se divide principalmente en cuatro grandes áreas:
+La industria de software de Taiwán se divide principalmente en cuatro áreas：
 
-**1. Servicios de integración de sistemas (SI)**
+**1. Servicios de integración de sistemas（SI）**
 
-- Representados por Systex, E-Formula, Top Information Technologies, entre otros
-- Sirven la transformación digital de industrias tradicionales como finanzas, manufactura y gobierno
-- Representan aproximadamente el 40% de los ingresos totales de la industria de servicios de información
+- Representados por empresas como Systex、NEC Taiwan、ASUS Cloud
+- Servicios para la transformación digital de industrias tradicionales como finanzas、manufactura、gobierno
 
 **2. Desarrollo de videojuegos**
 
-- Empresas consolidadas como Softstar, Rayark, UserJoy
-- Estudios emergentes de juegos móviles como Rayark Games, Red Candle Games
-- Valor de producción anual: según el informe _Global Entertainment & Media Outlook 2024_ de PwC, la industria de videojuegos y esports de Taiwán alcanzó un valor de producción de 126.000 millones de NT$ en 2024[^1] (la cifra de 50.000 millones mencionada en el texto es una estimación más antigua), la mayoría proveniente de mercados extranjeros
+- Empresas veteranas como Seed、Levy、Jade
+- Nuevos estudios de juegos móviles como Rayark Games、Red Candle Games
+- Valor anual：PwC estima que en 2024 el valor de la industria de videojuegos y eSports de Taiwán será de aproximadamente 126,000 millones de NTD[^1]
 
 **3. Soluciones de software empresarial**
 
-- ERP, CRM, HRM y otro software de gestión empresarial
-- Empresas locales como Digiwin, Top Information Technologies
-- En los últimos años, desarrollo activo de soluciones en la nube e impulsadas por IA
+- Software de gestión empresarial como ERP、CRM、HRM
+- Empresas locales como DataExpress、Dingxin Computer
+- En los últimos años, han estado desarrollando activamente soluciones basadas en la nube y con IA
 
-**4. Aplicaciones de tecnologías emergentes**
+**4. Aplicaciones de nuevas tecnologías**
 
-- Aplicaciones de IA/ML, blockchain, IoT y otras nuevas tecnologías
-- Startups e instituciones de investigación colaboran en desarrollo
-- Áreas prioritarias del plan gubernamental «AI Taiwan»
+- Aplicaciones de IA/ML、blockchain、IoT
+- Cooperación entre empresas emergentes e instituciones de investigación
+- Áreas clave del programa gubernamental "AI Taiwan"
 
-## Trayectoria de transformación: de la fabricación por encargo a la innovación
+## Proceso de transformación de la fabricación a la innovación
 
-### Desarrollo temprano (1980-2000)
+### Etapa inicial（1980-2000）
 
-La industria del software de Taiwán comenzó en la década de 1980, con modelos principales:
+La industria de software de Taiwán comenzó en la década de 1980, con un modelo principal de：
 
-- **Fabricación por encargo de software**: desarrollo de software para fabricantes extranjeros, similar al modelo OEM de hardware
-- **Servicios de localización al chino tradicional**: adaptación al mercado local de software extranjero, como la versión en chino tradicional de Microsoft Windows
-- **Integración de sistemas**: combinación de hardware y software para proveer sistemas de información a empresas
+- **Software de fabricación**：desarrollar software para empresas extranjeras, similar al modelo OEM de hardware
+- **Servicios de localización**：localizar software extranjero al chino, como la versión en chino de Windows de Microsoft
+- **Integración de sistemas**：combinar hardware y software para proporcionar sistemas de información a empresas
 
-Esta etapa se caracterizó por ser «orientada a la tecnología», valorando la capacidad de implementación de ingeniería, pero careciendo de pensamiento de marca e innovación.
+La característica de esta etapa era "orientada a la tecnología", valorando la capacidad práctica de ingeniería, pero carecía de marca e innovación.
 
-### Era de internet (2000-2010)
+### Era de internet（2000-2010）
 
-Tras la burbuja de internet, la industria del software taiwanesa comenzó a buscar nuevas direcciones:
+Después del burbujeo de internet, la industria de software de Taiwán comenzó a buscar nuevas direcciones de desarrollo：
 
-- **Auge de la industria del videojuego**: los juegos en línea se convirtieron en el primer caso de éxito de la industria del software taiwanesa
-- **Desarrollo del comercio electrónico**: surgimiento de plataformas como Yahoo! Subastas y PChome
-- **Impulso gubernamental**: la política «Dos billones, dos estrellas» incluyó el contenido digital como industria clave
+- **Auge de la industria de videojuegos**：los juegos en línea se convirtieron en el primer caso de éxito de la industria de software de Taiwán
+- **Desarrollo del comercio electrónico**：plataformas como Yahoo Auctions、PChome emergieron
+- **Impulso gubernamental**：la política "Dos Trillion Stars" puso la industria de contenidos digitales como un foco clave
 
-### Era móvil y en la nube (2010-2020)
+### Era móvil y nube（2010-2020）
 
-La popularización de los smartphones trajo nuevas oportunidades:
+La popularización de smartphones trajo nuevas oportunidades：
 
-- **Juegos móviles**: las empresas de videojuegos entraron al mercado de juegos móviles, como _Rock Zombie_ de UserJoy y _Cytus_ de Rayark
-- **Transformación a la nube**: los proveedores de software tradicionales comenzaron a desarrollar servicios SaaS
-- **Ecosistema de startups**: aceleradoras como AppWorks, TMI cultivaron equipos emprendedores
+- **Juegos móviles**：las empresas de juegos comenzaron a entrar en el mercado móvil, como el juego "Rock Band" de Levy Network y "Cytus" de Rayark Games
+- **Transformación a la nube**：las empresas tradicionales de software comenzaron a desarrollar servicios SaaS
+- **Ecosistema de startups**：aceleradoras como AppWorks fomentaron nuevos equipos emprendedores
 
-### Era de IA y transformación digital (2020-presente)
+### Era de IA y transformación digital（2020-actualidad）
 
-La pandemia aceleró la transformación digital, el gobierno lanzó la política «Nación digital · Economía innovadora»:
+La pandemia aceleró la transformación digital, y en 2021 el gobierno elevó el "Plan de Desarrollo de la Nación Digital e Innovación Económica" a "Plan de la Nación Inteligente"：
 
-- **Aplicaciones de IA**: desde mantenimiento predictivo en manufactura hasta análisis de imágenes médicas
-- **Servicios 5G**: aplicaciones innovadoras que combinan 5G y computación de borde
-- **Software ESG**: soluciones de software para ayudar a las empresas a implementar la gestión sostenible
+- **Aplicaciones de IA**：desde mantenimiento predictivo en la industria manufacturera hasta análisis de imágenes médicas
+- **Servicios 5G**：aplicaciones innovadoras que combinan 5G y computación en el borde
+- **Software ESG**：soluciones de software que ayudan a las empresas a implementar prácticas sostenibles
 
 ## Empresas importantes y casos de éxito
 
-La competitividad de la industria del software de Taiwán se manifiesta en tres dimensiones: la transformación digital de los grandes integradores de sistemas tradicionales, el avance internacional de IP de la industria del videojuego, y los logros en el mercado de capitales de las startups de IA.
+La competitividad de la industria de software de Taiwán se refleja en tres dimensiones：la transformación digital de grandes empresas tradicionales de integración de sistemas, el avance internacional de IP en la industria de videojuegos, y los logros de capital de mercado de startups de IA.
 
-Estas tres dimensiones ilustran conjuntamente una realidad: la industria del software taiwanesa ha superado el ámbito del servicio al mercado local, demostrando capacidad real para establecer posicionamiento global en nichos específicos.
+Estas tres dimensiones demuestran un hecho común：la industria de software de Taiwán ha superado el alcance de servicios al mercado local, mostrando su capacidad real de construir una posición global en áreas de nicho específicas.
 
-Los siguientes casos representativos muestran los resultados concretos de diferentes rutas.
+A continuación, se presentan varios casos representativos que muestran los resultados prácticos de diferentes caminos.
 
-### Transformación de grandes empresas tradicionales
+### Transformación de empresas tradicionales
 
-**Systex (精誠資訊)**
+**Systex Corporation**
 
-- Fundada en 1997[^2], originada en integración de sistemas
-- En los últimos años se transformó en «socio de transformación digital»
-- Desarrolló la «plataforma integral de servicios FinTech», asistiendo a bancos en su transformación digital
-- Ingresos en 2023 de aproximadamente 10.000 millones de NT$
+- Fundada en 1997[^2]，comenzó con integración de sistemas
+- En los últimos años, se ha transformado en un "socio de transformación digital"
+- Desarrolló una "plataforma de servicios FinTech integral" para ayudar a los bancos a transformarse digitalmente
 
-**Digiwin (資通電腦)**
+**DataExpress**
 
-- Cuota de mercado número 1 en Taiwán en software HRM
-- Transformó el software HRM a la nube, lanzó la plataforma «STAYFLEX»
-- Exportó con éxito a mercados del sudeste asiático, China y otros
+- Líder en cuota de mercado de software HRM en Taiwán
+- Exportación exitosa a mercados como el sureste asiático y China
 
-### Estrellas de la industria del videojuego
+### Estrellas de la industria de videojuegos
 
-**Rayark (雷亞遊戲)**
+**Rayark Games**
 
-- Conocida internacionalmente por la serie de juegos musicales _Cytus_
-- Insiste en IP original, no hace juegos «reskin»
-- Obras galardonadas con premios internacionales de videojuegos, jugadores en todo el mundo
+- Conocida internacionalmente por su serie de juegos musicales "Cytus"
+- Se mantiene firme en IP original, sin hacer juegos de piel
+- Sus obras han sido reconocidas por premios internacionales de videojuegos, con jugadores en todo el mundo
 
-**Red Candle Games (赤燭遊戲)**
+**Red Candle Games**
 
-- Estudio de juegos independiente, especializado en terror
-- _Devotion_ muestra características culturales taiwanesas, recibió alta valoración internacional
-- Representa la influencia de los juegos independientes taiwaneses en el extranjero
+- Estudio independiente de videojuegos, especializado en juegos de terror
+- "Detour" muestra las características culturales de Taiwán, obteniendo una alta valoración internacional
+- Representa la influencia internacional de los juegos independientes de Taiwán
 
 ### Representantes de startups de IA
 
-**Appier (沛星互動科技)**
+**Appier (Paixun Interactive Technology)**
 
-- Fundada en 2012, especializada en tecnología de marketing con IA
-- Cotizó en la Bolsa de Tokio en 2021, convirtiéndose en el unicornio de IA de Taiwán[^11]
-- Sirve a más de 1.000 marcas, incluyendo Toyota, L'Oréal y otras empresas internacionales
+- Fundada en 2012, dedicada a la tecnología de marketing basada en IA
+- En 2021, cotizó en la Bolsa de Valores de Tokio, convirtiéndose en un unicornio de IA de Taiwán[^11]
 
-**Taiwan AI Labs (台灣人工智慧實驗室)**
+**Taiwan AI Labs**
 
-- Fundada por Ethan Tu (杜奕瑾), enfocada en aplicaciones médicas de IA
-- Desarrolló herramientas prácticas de IA como «Yating Transcript»
-- Colabora con el Hospital de la Universidad Nacional de Taiwán en el desarrollo de sistemas de IA para imágenes médicas
+- Fundada por Du Yujin, dedicada a aplicaciones de IA médica
+- Desarrolló herramientas útiles de IA como "Ya Ting Transcript"
+- En colaboración con el Hospital Universitario de Taína, desarrolló un sistema de IA para imágenes médicas
 
-## Políticas y apoyo gubernamental
+## Políticas gubernamentales y apoyo
 
-### Plan de desarrollo «Nación digital · Economía innovadora»
+### Del plan DIGI+ al plan de nación inteligente
 
-El Yuan Ejecutivo lanzó en 2017 el «Plan de desarrollo Nación digital · Economía innovadora (DIGI+ 2025)»[^5], con énfasis en:
+El Consejo Ejecutivo Taiwánés lanzó en 2016 el "Plan de Desarrollo de la Nación Digital e Innovación Económica (2017-2025)" (plan DIGI+), que desde 2021 se renombró y elevó a "Plan de Nación Inteligente (2021-2025)", centrado en cuatro ejes principales[^5]：
 
-1. **Construcción de infraestructura digital**: 5G, IA, blockchain y otras infraestructuras de tecnologías emergentes
-2. **Innovación digital**: apoyo a startups de software, cultivo de talento digital
-3. **Gobernanza digital**: transformación digital del gobierno, mejora de la eficiencia de servicios públicos
-4. **Inclusión digital**: reducción de la brecha digital urbano-rural
+1. **Infraestructura digital**
+2. **Innovación digital**
+3. **Gobernanza digital**
+4. **Inclusión digital**
 
-### Plan de impulso «Asia · Silicon Valley»
+### Plan de promoción de "Valle de la Seda Asiático"
 
-Con «Internet de las cosas» y «innovación y emprendimiento» como núcleo:
+Con "Internet de las cosas" y "innovación y emprendimiento" como núcleo：
 
-- **Regulación innovadora**: sandbox financiero, pruebas de vehículos autónomos, etc.
-- **Inyección de capital**: Fondo de Desarrollo Nacional invierte en startups, establece programa de inversión ángel
-- **Vinculación internacional**: establece cooperación con Silicon Valley, Israel y otros clústeres de innovación
+- **Regulación innovadora**：sandbox regulatorio financiero, pruebas de vehículos autónomos
+- **Financiación**：fondos nacionales invertidos en startups, establecimiento de planes de inversión ángel
+- **Conexiones internacionales**：establecimiento de relaciones de cooperación con centros de innovación como el Valle de la Seda
 
-### Plan AI Taiwan
+### Plan de acción de IA de Taiwán
 
-Lanzado en 2021, el plan «AI Taiwan»[^8]:
+El Consejo Ejecutivo Taiwánés impulsó desde enero de 2018 un plan de cuatro años "Plan de Acción de IA de Taiwán" (2018-2021)[^8]：
 
-- **Cultivo de talento**: plan cuatrienal de cultivo de talento en IA, meta de formar 10.000 profesionales especializados
-- **Aplicación industrial**: impulso a la adopción de aplicaciones de IA en industrias tradicionales
-- **Capacidad de I+D**: establecimiento de centros de I+D en IA, cooperación con instituciones internacionales de primer nivel
+- **Formación de talento**：en colaboración con el sector privado, se formó a más de 10,000 profesionales de tecnología e IA
+- **Aplicación industrial**：promover la introducción de IA en industrias tradicionales
+- **Capacidad de investigación y desarrollo**：en las universidades Nacional de Taína、Nacional de Chenggong、Nacional de Qinghua y Nacional de Chiao Tung, se estableció un centro de innovación de IA
 
 ## Desafíos y oportunidades
 
-Los desafíos que enfrenta la industria del software taiwanesa se concentran principalmente en tres dimensiones: talento, escala de mercado y financiamiento, y existe una relación de restricción mutua entre ellas: la falta de financiamiento dificulta atraer talento, un mercado demasiado pequeño hace que los inversores carezcan de confianza.
+Los desafíos que enfrenta la industria de software de Taiwán se concentran principalmente en tres aspectos：talento、tamaño del mercado y financiación, y estos tres están interrelacionados mutuamente: sin financiación es difícil atraer talento, y un mercado demasiado pequeño desanima a los inversores.
 
-La clave para romper el cerco está en la internacionalización: Taiwán gradúa aproximadamente 20.000 estudiantes al año en carreras relacionadas con informática, pero la demanda industrial es de 30.000-40.000. Cerrar la brecha requiere caminar con dos piernas: mejorar la competitividad salarial y crear más productos de software exportables.
+La clave para superar estos desafíos es la internacionalización: para reducir la brecha de talento, se deben seguir dos caminos simultáneamente, mejorando la competitividad salarial y creando más productos de software exportables.
 
-Sin embargo, la transformación digital, las aplicaciones de IA, el software ESG y otras demandas también están abriendo rápidamente nuevas ventanas de oportunidad.
+Sin embargo, también se están abriendo nuevas oportunidades rápidamente con la demanda de transformación digital、aplicaciones de IA y software ESG.
 
 ### Principales desafíos
 
 **Escasez de talento**
 
-- Taiwán gradúa aproximadamente 20.000 estudiantes al año en carreras relacionadas con informática
-- Pero la demanda industrial es de aproximadamente 30.000-40.000, existe una brecha de talento evidente
-- El nivel salarial aún tiene distancia con EE. UU., Singapur y otros lugares, pérdida de talento excelente hacia el extranjero
+- Los salarios aún están por debajo de Estados Unidos、Singapur, etc., lo que lleva a la emigración de talento
 
-**Limitación de la escala del mercado**
+**Limitaciones del tamaño del mercado**
 
-- El mercado interno taiwanés es relativamente pequeño
-- Las empresas de software deben tener capacidad de internacionalización para crecer y fortalecerse
-- Barreras de internacionalización: idioma, cultura, regulaciones
+- El mercado interno de Taiwán es relativamente pequeño
+- Las empresas de software deben tener capacidad de internacionalización para crecer
+- Obstáculos de internacionalización como idioma、cultura、regulaciones
 
-**Dificultad para obtener financiamiento**
+**Dificultades para obtener financiación**
 
-- Comparado con la manufactura de hardware, la industria del software tiene más dificultad para obtener préstamos bancarios
-- Aunque el capital de riesgo ha aumentado, su escala aún no alcanza a la de países avanzados
-- Falta de casos de fusiones y adquisiciones grandes en software, mecanismo de salida insuficientemente maduro
+- En comparación con la industria de fabricación de hardware, es más difícil obtener préstamos bancarios para el software
+- Aunque los fondos de capital riesgo han aumentado, su tamaño aún no alcanza al de los países desarrollados
+- Falta de casos de adquisición de software a gran escala, y el mecanismo de salida no es suficientemente completo
 
 ### Oportunidades futuras
 
 **Ola de transformación digital**
 
-- La demanda de transformación digital empresarial se disparó tras la pandemia
-- La industria del software taiwanesa posee profunda experiencia práctica en digitalización de manufactura
-- Puede exportar la experiencia taiwanesa a otros países en desarrollo
+- La demanda de transformación digital de empresas ha aumentado tras la pandemia
+- La industria de software de Taiwán posee experiencia profunda en la digitalización de la industria manufacturera
+- Puede exportar la experiencia de Taiwán a otros países en desarrollo
 
-**IA y tecnologías emergentes**
+**IA y nuevas tecnologías**
 
-- Las ventajas de Taiwán en semiconductores y manufactura de precisión pueden combinarse con IA
-- Computación de borde, AIoT y otras áreas podrían convertirse en mercados de nicho de Taiwán
-- El gobierno impulsa activamente aplicaciones de IA, proporcionando buen entorno de prueba
+- La ventaja de Taiwán en semiconductores y fabricación de precisión puede combinarse con IA
+- Áreas como computación en el borde y AIoT tienen el potencial de convertirse en mercados de nicho de Taiwán
+- El gobierno impulsa activamente aplicaciones de IA, proporcionando un buen entorno de prueba
 
-**Demandas de desarrollo sostenible**
+**Demanda de desarrollo sostenible**
 
-- Temas ESG, neutralidad de carbono y otros traen nuevas demandas de software
-- Taiwán puede desarrollar soluciones de gestión sostenible, seguimiento de huella de carbono
-- Combinando experiencia manufacturera, desarrollar software de fábricas inteligentes, cadenas de suministro verdes
+- Temas como ESG y carbono neutral traen nuevas demandas de software
+- Taiwán puede desarrollar soluciones de gestión sostenible y seguimiento de huella de carbono
+- Combinando la experiencia de la industria manufacturera, desarrollar software de fábricas inteligentes y cadenas de suministro verdes
 
-## Comparación y posicionamiento internacional
+## Comparación internacional y posicionamiento
 
-En el mapa de la industria del software de Asia-Pacífico, el posicionamiento de Taiwán es el de un «mercado profesional mediano de integración hardware-software», no una base de externalización a gran escala (India) ni un dominador de ecosistemas de plataformas (Corea del Sur).
+En el mapa de software de Asia Pacífico, el posicionamiento de Taiwán es "un mercado profesional de tamaño medio con integración hardware-software", no una base de externalización a gran escala (India) ni un dominador de ecosistemas de plataformas (Corea del Sur).
 
-Este posicionamiento tiene sus limitaciones innatas, pero también ventajas diferenciadas difíciles de replicar: en IoT, manufactura inteligente y otras áreas que requieren integración hardware-software, Taiwán posee experiencia práctica que otras regiones difícilmente pueden copiar rápidamente.
+Esta posición tiene limitaciones inherentes, pero también tiene ventajas diferenciadas difíciles de replicar: Taiwán posee experiencia práctica en IoT、fabricación inteligente y otras áreas que requieren integración de hardware y software, que otras regiones no pueden replicar rápidamente.
 
-La siguiente comparación con países vecinos ayuda a clarificar la posición relativa de Taiwán.
+A continuación, una comparación con países vecinos que ayuda a aclarar la posición relativa de Taiwán.
 
 ### Comparación con países vecinos
 
 **vs Corea del Sur**
 
-- Corea del Sur lidera en industria del videojuego (NCSOFT, Nexon, etc.)
-- Taiwán tiene oportunidades de alcance en software B2B, aplicaciones de IA
-- Ambos países enfrentan presión competitiva de China, pueden considerar cooperación
+- Corea del Sur lidera en la industria de videojuegos (como NCSOFT、Nexon)
+- Taiwán tiene oportunidades de seguimiento en software B2B y aplicaciones de IA
+- Ambos países enfrentan presión de competencia de China, y pueden considerar cooperación
 
 **vs Singapur**
 
-- Singapur lidera en fintech, Taiwán es más fuerte en software de manufactura
-- El gobierno de Singapur invierte con gran fuerza, Taiwán necesita fortalecer apoyo político
-- Puede considerar a Singapur como trampolín hacia el sudeste asiático
+- Singapur lidera en fintech, Taiwán es más fuerte en software de la industria manufacturera
+- El gobierno de Singapur invierte más, Taiwán necesita fortalecer el apoyo de políticas
+- Se puede considerar usar Singapur como puente al sureste asiático
 
 **vs India**
 
 - India es conocida por externalización de software, Taiwán se enfoca en aplicaciones de alto valor añadido
-- La capacidad de integración hardware de Taiwán es ventaja diferenciadora
-- Pueden formar relación de cooperación complementaria
+- La capacidad de integración de hardware de Taiwán es una ventaja diferenciada
+- Puede establecerse una relación de complementariedad con India
 
 ### Posicionamiento diferenciado de Taiwán
 
 **Ventaja de integración hardware-software**
 
-- Taiwán posee tanto capacidad de manufactura de hardware como de desarrollo de software
-- En IoT, manufactura inteligente y otras áreas que requieren integración hardware-software, tiene ventajas
-- Puede desarrollar soluciones integrales de «Fabricación en Taiwán + Software de Taiwán»
+- Taiwán posee tanto capacidad de fabricación de hardware como de desarrollo de software
+- En áreas como IoT、fabricación inteligente que requieren integración de hardware y software, Taiwán tiene ventaja
+- Puede desarrollar soluciones integrales de "fabricación taiwanesa + software taiwanés"
 
-**Mercado de cultura sinófona**
+**Mercado cultural china**
 
-- El software taiwanés tiene fuerte adaptabilidad a la localización en chino tradicional y mercados asiáticos
-- Puede servir de trampolín para que empresas de software internacionales entren al mercado asiático
-- Sirve a mercados sinófonos a ambos lados del estrecho, Hong Kong, Macao y sudeste asiático
+- El software taiwanés tiene alta adaptabilidad a cultura china y mercados asiáticos
+- Puede servir como puente para que empresas de software internacionales entren al mercado asiático
+- Servicios para el estrecho de Taiwán、Hong Kong、Macao y mercados de habla china en el sureste asiático
 
 **Cultura de innovación refinada**
 
-- La industria del software taiwanesa valora la experiencia de usuario, los detalles del producto
-- En videojuegos, software creativo y otras áreas muestra estética única
-- Coincide con la tendencia futura de la industria del software de valorar diseño y experiencia
+- La industria de software de Taiwán valora la experiencia del usuario y los detalles del producto
+- En áreas como videojuegos y software creativo, muestra una estética única
+- Se alinea con la tendencia futura de la industria de software que valora diseño y experiencia
 
 ## Perspectivas y desarrollo futuro
 
-La industria del software de Taiwán se encuentra en un período clave de transformación. Bajo la tendencia global de economía digital, Taiwán tiene la oportunidad de actualizarse de «reino del hardware» a «potencia de innovación digital».
+La industria de software de Taiwán se encuentra en un momento clave de transformación. En la tendencia global de la economía digital, Taiwán tiene la oportunidad de evolucionar de un "país de hardware" a una "nación de innovación digital".
 
-La contradicción central de esta transformación radica en: el pensamiento de hardware de Taiwán es profundo, pero el software requiere una lógica comercial radicalmente diferente. Los ingresos de la industria de servicios de información en 2023 fueron de aproximadamente 680.000 millones de NT$, la meta es superar 1 billón para 2028, requiriendo un crecimiento anual promedio de aproximadamente 5-7%, lo cual no es imposible sobre la base existente.
+La contradicción central de esta transformación es：Taiwán tiene una mentalidad profunda de hardware, pero el software necesita lógicas comerciales completamente diferentes.
 
-**Metas a corto plazo (2026-2028)**
-
-- Valor de producción de la industria de servicios de información supera 1 billón de NT$
-- Cultivar 50 empresas candidatas a unicornios de software
-- Establecer sistema sistemático de cultivo de talento en software
-
-**Metas a mediano plazo (2028-2030)**
-
-- Convertirse en centro importante de innovación en software de Asia-Pacífico
-- Establecer ventajas competitivas internacionales en IA, IoT, tecnología verde y otras áreas
-- Exportaciones de software alcanzan 15% del total de exportaciones
-
-**Visión a largo plazo (post-2030)**
-
-- Establecer imagen de marca reconocible de «Taiwan Software»
-- Obtener cierta cuota y derecho a voz en el mercado internacional de software
-- Peso de las exportaciones de software en el PIB aumenta significativamente desde el nivel actual relativamente bajo
-
-El futuro de la industria del software de Taiwán depende de si puede, manteniendo sus ventajas existentes, atreverse a innovar y romper barreras. Aprender de la experiencia de éxito de la fabricación por encargo de hardware, pero sin quedar atado al pensamiento del pasado, la industria del software taiwanesa encontrará sin duda su propio posicionamiento en la era digital.
+El futuro de la industria de software de Taiwán depende de si puede innovar valientemente sin perder sus ventajas existentes. Aprendiendo de la experiencia exitosa de la fabricación de hardware, pero sin dejarse limitar por el pensamiento del pasado, la industria de software de Taiwán seguramente encontrará su propio posicionamiento en la era digital.
 
 ## Referencias
 
-[^1]: [PwC — Global Entertainment & Media Outlook 2024-2028](https://www.pwc.com/gx/en/industries/tmt/media/outlook.html) — Valor de producción de la industria de videojuegos y esports de Taiwán en 2024: 126.000 millones de NT$; la cifra de 50.000 millones en el texto es una estimación más antigua
+[^1]: [Industrial Times — Informe de PwC: la industria de videojuegos y eSports de Taiwán alcanzará 126,000 millones de NTD en 2024](https://www.ctee.com.tw/news/20240701700150-439901) — Informe del 1 de julio de 2024: PwC estima que en 2024 el valor de la industria de videojuegos y eSports de Taiwán será de 3,886 millones de dólares estadounidenses (aproximadamente 126,000 millones de NTD)
 
-[^2]: [Systex Corporation 精誠資訊 — Company Profile](https://tw.systex.com/en/company-profile/) — Systex fundada en 1997, confirmado en sitio web oficial
+[^2]: [Systex Corporation — Perfil de la empresa](https://tw.systex.com/en/company-profile/) — Confirmado en el sitio web oficial: Systex fue fundada en 1997
 
-[^3]: [Instituto para la Información de la Industria (MIC) — 《Anuario 2024 de la industria de servicios de información de Taiwán》](https://mic.iii.org.tw/) — Ingresos de la industria de servicios de información de Taiwán en 2023: aproximadamente 680.000 millones de NT$
+[^3]: [Libertad Diario — Récord histórico: el volumen de negocios de la industria de computadoras alcanzó 570,000 millones de NTD](https://tw.news.yahoo.com/%E5%89%B5%E6%96%B0%E9%AB%98-%E9%9B%BB%E8%85%A6%E6%A5%AD%E5%8E%BB%E5%B9%B4%E7%87%9F%E6%94%B65700%E5%84%84%E5%85%83-110327216.html) — Reportaje del 16 de febrero de 2024: según las estadísticas del Ministerio de Economía del trimestre 4 del año 112, en 2023 el volumen de negocios anual de la industria de computadoras y servicios de información fue de 570,000 millones de NTD, con un crecimiento del 8.9% interanual, alcanzando un récord histórico
 
-[^4]: [Buró Industrial del Ministerio de Economía (actual Administración de Desarrollo Industrial) — 《Estrategia de desarrollo de la industria del software》](https://www.moea.gov.tw/) — Dirección de política y puntos clave de impulso de la industria del software de Taiwán en 2024
+[^5]: [Consejo Ejecutivo Taiwánés — Versión aprobada del "Plan de Nación Inteligente (2021-2025)"](https://digi.nstc.gov.tw/File/E8BE929F910C30CA) — El Consejo Ejecutivo Taiwánés lanzó el plan DIGI+ en 2016 (2017-2025), que desde 2021 se renombró y elevó a "Plan de Nación Inteligente", con cuatro ejes principales: infraestructura digital、innovación digital、gobernanza digital、inclusión digital
 
-[^5]: [Consejo de Desarrollo Nacional — 《Plan de desarrollo Nación digital · Economía innovadora (2021-2025)》](https://www.ey.gov.tw/Goals/5EF730EBAFCFFDF2) — Versión actualizada 2021 del plan DIGI+, abarca cinco ejes principales incluyendo innovación digital, gobierno digital
+[^8]: [Consejo Ejecutivo Taiwánés — Plan de acción de IA de Taiwán: aprovechar la oportunidad, lanzar masivamente la transformación industrial con IA](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/a8ec407c-6154-4c14-8f1e-d494ec2dbf23) — Plan de cuatro años desde el 18 de enero del año 107 (2018-2021); en colaboración con el sector privado, se formó a más de 10,000 profesionales de tecnología e IA; en las universidades Nacional de Taína、Nacional de Chenggong、Nacional de Qinghua y Nacional de Chiao Tung, se estableció un centro de innovación de IA
 
-[^6]: [Asociación de la Industria del Software de Taiwán — 《Libro blanco 2024 de la industria del software》](https://www.tsia.org.tw/) — Situación general y perspectivas de la industria del software de Taiwán
-
-[^7]: [DIGITIMES Research — 《Informe de desarrollo de la industria TIC de Taiwán》 2024](https://www.digitimes.com/) — Análisis de tendencias de la industria TIC de Taiwán
-
-[^8]: [Yuan Ejecutivo — 《Plan de acción AI Taiwan》 versión revisada 2023](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/a8ec407c-6154-4c14-8f1e-d494ec2dbf23) — Metas de cultivo de talento en IA y promoción de aplicaciones industriales
-
-[^9]: [ITRI — 《Informe de análisis de tendencias de la industria del software de Taiwán 2024》](https://ieknet.iek.org.tw/) — Situación de desarrollo y evaluación de competitividad de la industria del software de Taiwán
-
-[^10]: [PwC Taiwán — 《Informe de encuesta a líderes empresariales de Taiwán 2025》](https://www.pwc.tw/) — Voluntad e tendencias de inversión en transformación digital de empresas taiwanesas
-
-[^11]: [Appier Group informe anual y materiales IR](https://www.appier.com/en/press-media) — Informe anual 2023 de la Bolsa de Tokio; información relacionada con la cotización de Appier en la Bolsa de Tokio en 2021
-
-[^12]: [Rayark (雷亞遊戲) — Sitio web oficial](https://rayark.com/zh/) — Historia de desarrollo de la empresa e introducción de obras, incluyendo la serie _Cytus_
-
-[^13]: [UserJoy (雷爵網路) — Sitio web oficial](https://www.gamania.com/) — Crónica histórica del desarrollo de la industria del videojuego taiwanesa e introducción de obras
+[^11]: [Información de informes anuales e IR de Appier Group](https://www.appier.com/en/press-media) — Informe anual de la Bolsa de Valores de Tokio de 2023; información relacionada con la cotización de Appier en 2021 en la Bolsa de Valores de Tokio
