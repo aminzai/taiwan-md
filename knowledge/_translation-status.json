@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-02T13:29:56+08:00",
-    "zhCommitHead": "c15f48b46",
+    "lastUpdated": "2026-10-02T14:45:10+08:00",
+    "zhCommitHead": "c1440ea09",
     "totalZh": 1125,
     "activeLanguages": [
       "en",
@@ -84,8 +84,8 @@
       },
       "hi": {
         "total_zh": 1125,
-        "fresh": 1112,
-        "stale": 13,
+        "fresh": 1115,
+        "stale": 10,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -22086,18 +22086,18 @@
         "hi": {
           "path": "hi/Economy/tsmc.md",
           "translatedFrom": "Economy/台灣企業：台積電.md",
-          "sourceCommitSha": "",
+          "sourceCommitSha": "6ffd92f94",
           "sourceContentHash": "sha256:e8afc225ea9e0107",
           "sourceBodyHash": "sha256:6bdb1c40d1477a30",
-          "translatedAt": "2026-08-03T21:46:31+08:00",
+          "translatedAt": "2026-10-02T06:26:11.318948+00:00",
           "translationLastCommit": "34bd26ad",
           "translationLastModified": "2026-10-02T02:45:45+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "bytes": 65743,
+          "bytes": 86473,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Economy/tsmc.md",
@@ -31198,8 +31198,8 @@
           "sourceContentHash": "sha256:85f80872ad09b54c",
           "sourceBodyHash": "sha256:3683724639161321",
           "translatedAt": "2026-10-02T11:51:25+08:00",
-          "translationLastCommit": "cecaf2bc",
-          "translationLastModified": "2026-07-26T17:16:44+08:00",
+          "translationLastCommit": "c1440ea0",
+          "translationLastModified": "2026-10-02T13:29:56+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "bytes": 45336,
@@ -36632,18 +36632,18 @@
         "hi": {
           "path": "hi/Technology/rayark-games.md",
           "translatedFrom": "Technology/雷亞遊戲.md",
-          "sourceCommitSha": "",
+          "sourceCommitSha": "31a05c44b",
           "sourceContentHash": "sha256:efb74dfc78d9c93c",
           "sourceBodyHash": "sha256:28ef520886f893e3",
-          "translatedAt": "2026-07-29T12:59:28+08:00",
+          "translatedAt": "2026-10-02T05:38:36.359666+00:00",
           "translationLastCommit": "34bd26ad",
           "translationLastModified": "2026-10-02T02:45:45+08:00",
           "inferred": false,
           "footnoteDefs": 53,
-          "bytes": 94342,
+          "bytes": 111454,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Technology/rayark-games.md",
@@ -66124,18 +66124,18 @@
         "hi": {
           "path": "hi/Society/kuma-academy-civil-defense-school.md",
           "translatedFrom": "Society/黑熊學院.md",
-          "sourceCommitSha": "",
+          "sourceCommitSha": "cdc7cc719",
           "sourceContentHash": "sha256:f79e860b49a16b41",
           "sourceBodyHash": "sha256:dd6e524ad9f23527",
-          "translatedAt": "2026-07-27T18:30:14+08:00",
+          "translatedAt": "2026-10-02T05:38:42.611881+00:00",
           "translationLastCommit": "34bd26ad",
           "translationLastModified": "2026-10-02T02:45:45+08:00",
           "inferred": false,
           "footnoteDefs": 34,
-          "bytes": 108132,
+          "bytes": 124593,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Society/kuma-academy-civil-defense-school.md",
