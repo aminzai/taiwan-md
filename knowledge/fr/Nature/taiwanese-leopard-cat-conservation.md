@@ -2,6 +2,7 @@
 title: 'Conservation du chat-léopard de Taïwan'
 description: "Le chat fantôme dont il reste moins de cinq cents individus — quand le dernier félin indigène de l'île s'approche du bord de l'extinction"
 date: 2026-03-18
+category: 'Nature'
 tags:
   [
     'chat-léopard',
@@ -13,17 +14,16 @@ tags:
     'écologie',
   ]
 subcategory: 'Faune sauvage'
-category: 'Nature'
 author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: false
 lastVerified: 2026-03-30
-translatedFrom: 'Nature/台灣石虎保育.md'
-sourceCommitSha: 'd6e87d07'
-sourceContentHash: 'sha256:bbca77501c197a81'
-sourceBodyHash: 'sha256:76487fd0d26564e6'
-translatedAt: '2026-05-17T05:33:00Z'
 lastHumanReview: true
+translatedFrom: 'Nature/台灣石虎保育.md'
+sourceCommitSha: '825528805'
+sourceContentHash: 'sha256:53a697c302d622a3'
+sourceBodyHash: 'sha256:7ed841e26f0abf1f'
+translatedAt: '2026-10-02T00:58:13.477975+00:00'
 ---
 
 # Conservation du chat-léopard de Taïwan
@@ -76,47 +76,47 @@ Ces zones ont une caractéristique commune : **elles sont proches des humains**.
 
 ---
 
-## Quatre façons de mourir
+## Les quatre modes de mort
 
-### I. La collision routière : le massacre silencieux
+### I. Mort routière : le massacre le plus silencieux
 
-Dans les cercles de la conservation à Taïwan, il existe une expression qui fait froid dans le dos : **la mort sur route** (路殺, _lùshā_). Animal nocturne, le chat-léopard traverse les routes la nuit pour chasser, trouver un partenaire ou patrouiller son territoire — et les routes de campagne de Miaoli et de Nantou ne disposent ni de passages à faune, ni de ralentisseurs, ni du moindre aménagement pensé pour les animaux sauvages.
+Dans les cercles de conservation à Taïwan, il existe un terme qui donne froid au cœur : **la mort routière** (路殺). Le chat-léopard est une espèce nocturne ; la nuit, il traverse les routes pour se nourrir, trouver des partenaires ou patrouiller son territoire. Les routes rurales de Miaoli et Nantou ne disposent ni de passages fauniques, ni d'installations de ralentissement, ni de conception pensée pour la faune sauvage.
 
-Les phares s'allument, les yeux du chat reflètent la lumière, et puis —
+Quand les phares s'allument, les yeux du chat-léopard réfléchissent, puis...
 
-Le média _Wuo Wuo_, spécialisé dans le bien-être animal, a titré un de ses dossiers sur la mort routière avec une formule déchirante : « _Scroutch !_ Et je suis devenu du jerky. »
+Le dossier spécial "Mort routière" de Wuo Wuo a utilisé un titre déchirant : « Clac ! Et je deviens une viande séchée ».
 
-Entre 2017 et 2023, plus de 130 chats-léopards ont été tués sur les routes de manière documentée.[^2] Combien d'autres ne l'ont jamais été ? On ne sait pas.
+Entre 2017 et 2023, plus de 130 chats-léopards ont été enregistrés comme morts sur la route. [^2] Ceux qui n'ont pas été trouvés sont inconnus.
 
-La chercheuse Lin Yu-hsiu, qui a suivi un chat-léopard baptisé « Xiao Cao », raconte que cet individu a été percuté par un véhicule **deux fois**, et a survécu chaque fois. Elle confie : « Xiao Cao a réussi à s'en tirer après deux accidents. Si nous ne faisons rien pour le chat-léopard, alors son courage n'aura servi à rien. »
+Le chercheur en chat-léopard Lin Yu-hsiu a suivi un spécimen nommé « Xiao Cao ». Il a été heurté **deux fois** par des véhicules, mais il est survivant les deux fois. Lin Yu-hsiu déclare : « Xiao Cao s'est sauvé grâce à deux accidents de voiture ; si nous ne faisons rien pour le chat-léopard, c'est vraiment un sacrifice de sa capacité d'autodéfense ».
 
-### II. La destruction de l'habitat : la maison rasée
+### II. Disparition de l'habitat : la maison est démolie
 
-Miaoli est le comté où la densité de population de chats-léopards est la plus élevée et où la continuité de l'habitat est la meilleure. Mais Miaoli est aussi l'un des comtés taïwanais où les controverses autour du développement sont les plus fréquentes.
+Miaoli est le comté avec la plus forte densité de populations de chats-léopards et la meilleure continuité des habitats. Mais Miaoli est aussi l'un des endroits où les controverses liées au développement sont les plus fréquentes parmi tous les comtés de Taïwan.
 
-En 2019, le gouvernement du comté de Miaoli a soumis un projet de « règlement autonome pour la conservation du chat-léopard » au conseil du comté. Il a été **rejeté deux fois de suite** au motif qu'il « entraverait le développement local ». Un comté qui se revendique « capitale du chat-léopard » n'a pas réussi à faire passer une seule loi pour le protéger.
+En 2019, le « Règlement autonome pour la conservation du chat-léopard » proposé par le gouvernement du comté de Miaoli a été **rejeté deux fois** par l'assemblée locale. La raison invoquée était « l'impact sur le développement local ». Un comté réputé "capitale du chat-léopard" n'a même pas réussi à faire adopter une réglementation pour protéger cette espèce.
 
-C'est le théâtre de l'absurde de la conservation à Taïwan : on utilise l'image du chat-léopard pour le marketing touristique, on l'imprime sur les mascottes, on le peint sur les bus — mais dès que le protéger implique des contraintes sur le développement, il cesse soudainement d'avoir de l'importance.
+Ceci est le théâtre de l'absurdité de la conservation à Taïwan : on utilise le nom du chat-léopard pour le marketing touristique, on l'imprime sur des mascottes, on le dessine sur des bus — mais lorsque la protection du chat-léopard menace de restreindre le développement, le chat-léopard n'est plus important.
 
-### III. L'attaque par les chiens : la menace sous-estimée
+### III. Mort par chien : la menace la moins reconnue
 
-Voici l'inconfort que le monde de la protection animale à Taïwan préfère éviter : **les chiens errants tuent des chats-léopards**.
+C'est le malaise que le monde animalier de Taïwan ne veut pas affronter : **les chiens errants tuent les chats-léopards**.
 
-Les images capturées par des pièges photographiques sont de plus en plus nombreuses : des meutes de chiens divagants s'aventurent dans l'habitat du chat-léopard, le pourchassent, l'attaquent et le tuent. Le média _Wuo Wuo_ a consacré un dossier entier à cette problématique, et les données montrent que l'attaque par les chiens est, après la collision routière, la deuxième cause de mortalité documentée chez le chat-léopard.
+Les images capturées par des caméras automatiques sont de plus en plus nombreuses : des meutes de chiens vagabonds apparaissent dans les habitats des chats-léopards, les poursuivant, les attaquant et les tuant. Wuo Wuo a réalisé un dossier complet sur la "Mort du chat-léopard par chien", dont les données indiquent que le cannibalisme canin est la deuxième cause de mortalité documentée pour le chat-léopard, après la mort routière.
 
-Cela plonge les associations de protection animale et les chercheurs en écologie dans une position profondément inconfortable. Les défenseurs des chiens errants disent : « On ne peut pas les euthanasier. » Les défenseurs du chat-léopard répondent : « Si on ne gère pas les chiens divagants, le chat-léopard sera bel et bien éteint. »
+Les morsures ne représentent qu'une partie de cette menace. Les chiens et chats errants introduisent des maladies zoonotiques dans les collines basses, et les chats-léopards infectés ont également moins de chances de survivre sur la route ; par conséquent, les causes de mortalité liées aux chiens et à la route ne sont pas indépendantes en termes de chiffres. Cette chaîne de causalité, les données de dépistage viral du Pingtung University et le débat qu'elle soulève sur la politique d'élimination des animaux, sont discutés dans leur intégralité dans [La culture animale errante à Taïwan](/fr/society/stray-animal-culture).
 
-Les deux camps cherchent à protéger des animaux, mais leurs animaux s'entre-tuent.
+Ceci place les groupes animaliers et les chercheurs en écologie de Taïwan dans une situation extrêmement délicate. Ceux qui défendent les chiens errants disent qu'on ne peut pas les euthanasier ; ceux qui protègent le chat-léopard disent que si l'on n'agit pas contre ces chiens, le chat-léopard disparaîtra réellement.
 
-Ce débat n'est toujours pas résolu, mais il force la société taïwanaise à reconnaître une vérité gênante : **« aimer les animaux » n'est pas une position simple — c'est une position pleine de contradictions et de compromis.**
+Les deux camps cherchent à protéger des animaux, mais les animaux de chaque côté se tuent mutuellement.
+
+Ce débat n'a pas encore de réponse, mais il force la société taïwanaise à faire face à un fait : **"aimer les animaux" n'est pas une position simple ; elle est pleine de contradictions et de compromis.**
 
 ### IV. Empoisonnement et pièges
 
-Le chat-léopard s'en prend aux poules. Pour un agriculteur des basses collines, un poulailler attaqué représente une perte économique réelle. Certains agriculteurs ont une réponse directe : le poison.
+Le chat-léopard mange des poulets. Pour les agriculteurs des zones de collines basses, l'intrusion du chat-léopard dans le poulailler représente une perte économique réelle. Certains agriculteurs ont réagi de manière directe : en empoisonnant.
 
-Par ailleurs, les pièges en acier — officiellement interdits depuis 2020 — subsistent clandestinement dans les zones rurales. Un chat-léopard qui se prend dans un piège peut y perdre des doigts, ou mourir de faim s'il ne parvient plus à chasser.
-
----
+De plus, bien que les pièges utilisés en montagne soient interdits depuis 2020, ils existent toujours secrètement. Après avoir été pris au piège par un chat-léopard, celui-ci peut subir une amputation légère ou mourir de faim s'il ne parvient pas à se nourrir.
 
 ## Les lueurs d'espoir
 
@@ -198,18 +198,18 @@ Les Taïwanais aiment dire : « Qui prie, sera exaucé. » Mais le chat-léopard
 
 ## Références
 
-[^1]: [Règlement autonome de conservation du chat-léopard de Miaoli - Environmental Information Center](https://e-info.org.tw/node/221882) — Confirme l'adoption en troisième lecture du règlement autonome de conservation du chat-léopard du comté de Miaoli, le 10 décembre 2019.
+Lectures complémentaires :
 
-[^2]: [Wuo Wuo : _Scroutch !_ — dossier sur les collisions routières](https://wuo-wuo.com/topics/widlife/94-road-killing-topic) — Statistiques des collisions routières mortelles pour le chat-léopard, 2017-2023.
+- [Wowa : La menace sous-estimée. Chiens tuant des léopards](https://wuo-wuo.com/topics/widlife/dogkill) — Dossier de cas sur les chiens tueurs de léopards.
+- [Agence forestière et de conservation de la nature du ministère de l'Agriculture](https://www.forest.gov.tw/) — Politique de conservation des habitats des léopards.
+- [Ambassadeur pour la conservation du léopard – Famille Ahu](https://www.facebook.com/LeopardCatTaiwan/) — État actuel de l'élevage en captivité des léopards par le BioCenter.
 
-[^3]: [Programme de paiement écologique du ministère de l'Agriculture](https://www.moa.gov.tw/) — Présentation du programme de paiement pour l'agriculture respectueuse du chat-léopard.
+[^1]: [Ordonnance locale sur la conservation des léopards de Miaoli - Centre d'information environnementale](https://e-info.org.tw/node/221882) — Confirmation du passage en troisième lecture de l'ordonnance locale sur la conservation des léopards du comté de Miaoli le 10 décembre 2019.
 
-[^4]: [Institut de recherche sur la biodiversité (TBRI), ministère de l'Agriculture](https://www.tbri.gov.tw/) — Programme de reproduction en captivité et recherche sur la conservation du chat-léopard.
+[^2]: [Wowa : Crac ! Et puis je deviens une viande séchée – Dossier sur les collisions routières](https://wuo-wuo.com/topics/widlife/94-road-killing-topic) — Statistiques des collisions routières impliquant des léopards de 2017 à 2023.
 
-[^5]: [Wuo Wuo : Avant l'extinction — dossier chat-léopard de Taïwan](https://wuo-wuo.com/topics/widlife/taiwan-leopard-cat) — Panorama complet de la conservation du chat-léopard à Taïwan.
+[^3]: [Programme d'indemnisation écologique pour le léopard du ministère de l'Agriculture](https://www.moa.gov.tw/) — Explication du programme d'agriculture amicale au léopard.
 
-Pour aller plus loin :
+[^4]: [Institut de la biodiversité du ministère de l'Agriculture (BioCenter)](https://www.tbri.gov.tw/) — Projet d'élevage en captivité et recherche sur la conservation des léopards.
 
-- [Wuo Wuo : La menace sous-estimée — les chiens qui tuent les chats-léopards](https://wuo-wuo.com/topics/widlife/dogkill) — Documentation des cas d'attaques par les chiens.
-- [Agence forestière et de la conservation de la nature, ministère de l'Agriculture](https://www.forest.gov.tw/) — Politique de conservation des habitats du chat-léopard.
-- [Ambassadeurs de la conservation — la famille Ahu](https://www.facebook.com/LeopardCatTaiwan/) — Actualités du programme de reproduction du TBRI.
+[^5]: [Wowa : Avant l'extinction – Dossier sur les léopards de Taïwan](https://wuo-wuo.com/topics/widlife/taiwan-leopard-cat) — Rapport complet sur la situation de la conservation des léopards à Taïwan.

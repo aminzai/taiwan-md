@@ -1,15 +1,15 @@
 ---
-title: 'La culture des quartiers et des districts (lǐ) à Taïwan'
-description: 'De la démocratie participative de base aux innovations sociales dans l’aménagement des quartiers'
+title: 'La culture des quartiers (Li) à Taïwan'
+description: "De la mise en œuvre démocratique au niveau le plus élémentaire à l'innovation sociale de la construction communautaire"
 date: 2026-03-18
 category: 'Society'
 tags:
   [
-    'système des districts (lǐ) et des voisinages',
-    'aménagement des quartiers',
-    'universités communautaires',
-    'participation civique',
-    'autonomie locale',
+    'Système Li/Voisin',
+    'Construction communautaire',
+    'Université communautaire',
+    'Participation citoyenne',
+    'Autonomie locale',
   ]
 subcategory: '社會運動'
 author: 'Taiwan.md'
@@ -17,196 +17,119 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Society/台灣社區與里文化.md'
-sourceCommitSha: '21c4e4caf'
-sourceContentHash: 'sha256:112429b6a4722893'
+sourceCommitSha: '074dffac2'
+sourceContentHash: 'sha256:d3e50c45b46c2a95'
 sourceBodyHash: 'sha256:7ec3aa6a3ad15e3e'
-translatedAt: '2026-10-02T00:52:48+08:00'
+translatedAt: '2026-10-02T07:53:56+08:00'
 ---
 
-# La culture des quartiers et des districts (lǐ) à Taïwan
+# La culture des quartiers (Li) à Taïwan
 
-Chaque soir, lorsque la nuit tombe, le centre d’activités communautaires d’un district (lǐ) à Taïpei reste encore éclairé.
-Le chef de _li_ (lǐ zhǎng) réunit les résidents pour discuter de la prochaine journée de nettoyage, tandis que les chefs de voisinage (lín zhǎng) rapportent l’état de leurs secteurs, et l’intervenant de l’université communautaire donne un cours de taiji dans la salle adjacente.
-Cette soirée apparemment ordinaire révèle pourtant l’essence de la culture communautaire taïwanaise — du plus bas niveau administratif à la participation autonome de la société civile, des pratiques démocratiques institutionnelles aux innovations sociales créatives.
+Chaque soir, dans un centre d'activités de quartier (li) de Taipei, les lumières restent allumées. Le chef de quartier convoque les résidents pour discuter de la journée de nettoyage du mois prochain, les chefs de voisinage rendent compte de l'état de leurs zones respectives, tandis que le professeur de l'université communautaire enseigne le Tai Chi dans une salle voisine. Cette soirée apparemment ordinaire présente en réalité l'essence de la culture communautaire taïwanaise : de l'organisation administrative au niveau le plus bas à l'autonomie de la société civile, de la mise en œuvre démocratique institutionnelle à l'innovation sociale créative.
 
-Dans cette petite unité administrative appelée « district (lǐ) », vivent quelques centaines à plusieurs milliers de résidents, qui constituent ensemble les cellules les plus petites de la société démocratique taïwanaise.
-Leur fonctionnement, leur organisation autonome et leur réponse aux défis influencent non seulement la qualité de vie quotidienne des résidents, mais façonnent aussi profondément la culture démocratique et la résilience sociale de Taïwan.
+Dans cette petite unité administrative appelée _li_, vivent plusieurs centaines, voire des milliers de résidents qui forment le cellule minimale de la société démocratique taïwanaise. La manière dont ces cellules fonctionnent, s'organisent par elles-mêmes et répondent aux défis influence non seulement la qualité de vie quotidienne des résidents, mais façonne également profondément la culture démocratique et la résilience sociale de Taïwan.
 
-## Le système des districts (lǐ) et des voisinages : la première ligne de la démocratie
+## Le système Li/Voisin : le front de la démocratie
 
-Le système des villages et districts (lǐ) de Taïwan peut être considéré comme l’un des exemples les plus proches du peuple de la pratique démocratique.
-Selon les dispositions de la Loi sur les affaires locales, le _li_ (village ou quartier) constitue l’unité administrative la plus basse. Chaque _li_ élit un chef (lǐ zhǎng), directement par les résidents, pour un mandat de quatre ans, rééligible sans limite de mandats.[^1]
-Une telle conception garantit une participation démocratique large et accessible.
+Le système villageois (_li_) de Taïwan peut être considéré comme l'une des mises en œuvre démocratiques les plus proches du peuple au monde. Selon la Loi sur le système local, le _li_ est l'unité administrative de base ; chaque _li_ a un chef de quartier (_lǐzhǎng_) élu directement par les résidents, avec un mandat de quatre ans, renouvelable sans limite. [^1] Cette conception du système garantit l'étendue et l'accessibilité de la participation démocratique.
 
-Le rôle du chef de _li_ (lǐ zhǎng) est extrêmement varié : il sert à la fois d’intermédiaire entre l’État et les citoyens, et de coordinateur des affaires communautaires.
-Selon la loi, le chef de _li_ (lǐ zhǎng) est « placé sous la direction et la supervision du chef de canton, de ville ou d'arrondissement, chargé des affaires du _li_ et des tâches confiées », mais dans la pratique, il joue souvent un rôle bien plus complexe.
-Il doit gérer des dossiers allant de la planification urbaine communautaire aux médiations de conflits entre voisins.
-De l’assistance aux démarches administratives des citoyens à l’organisation d’activités communautaires, de la promotion du nettoyage de l’environnement aux signalements de problèmes de sécurité, les responsabilités du chef de _li_ (lǐ zhǎng) couvrent presque tous les aspects de la vie des résidents.
+Le rôle du chef de quartier est extrêmement diversifié ; il est à la fois le pont entre le gouvernement et les citoyens, et le coordinateur des affaires communautaires. Conformément aux réglementations, le chef de quartier « est sous la direction et la supervision du chef de canton (zhen, shi, qu) pour gérer les affaires publiques et les tâches déléguées au _li_ ». Cependant, dans la pratique, le chef de quartier joue un rôle plus complexe. Il doit traiter toutes sortes de questions, allant de la planification de la construction communautaire à la médiation des conflits de voisinage. De l'aide aux résidents pour demander divers certificats à l'organisation d'activités communautaires au signalement de problèmes de sécurité, les tâches du chef de quartier couvrent presque tous les aspects de la vie des résidents.
 
-Sous le _li_ existe une structure plus fine : le _lin_, ou voisinage.
-Les chefs de voisinage (lín zhǎng) sont des postes non rémunérés. À Taïpei par exemple, les chefs de voisinage sont sélectionnés parmi les résidents majeurs du voisinage par le chef de _li_ (lǐ zhǎng), puis nommés par le maire du district, sans salaire, mais avec une indemnité mensuelle de 2 500 NT$ pour les frais de travail, ainsi qu’une assurance maladie accidentelle et des subventions pour les activités de développement personnel.[^2]
-Bien que l’indemnité ne soit pas élevée, les chefs de voisinage jouent un rôle essentiel dans le fonctionnement communautaire.
-Ils sont les contacts les plus proches des résidents, chargés de transmettre les informations politiques, recueillir les opinions des citoyens et aider aux démarches administratives.
-Lors des tempêtes, les chefs de voisinage s’assurent de la sécurité des personnes âgées vivant seules ;
-Pendant les épidémies, ils distribuent les fournitures de protection ;
-Dans la vie quotidienne, ils constituent un lien crucial entre les résidents et le chef de _li_ (lǐ zhǎng).
+Sous le _li_, il existe une organisation encore plus détaillée : celle du voisinage (_lín_). Le chef de voisinage est un poste bénévole. Prenons l'exemple de Taipei ; les chefs de voisinage sont sélectionnés par le chef de quartier parmi les résidents adultes de ce voisinage et nommés par le chef de district, sans salaire, mais avec une indemnité d'assistance de 2 500 NT$ par mois, ainsi que des assurances accidents et des subventions pour les activités. [^2] Bien que l'argent ne soit pas beaucoup, les chefs de voisinage jouent un rôle indispensable dans le fonctionnement communautaire. Ils sont les contacts les plus proches des résidents, chargés de transmettre les messages politiques, de recueillir les préoccupations des citoyens et d'aider avec diverses tâches administratives. En cas de typhon, ils s'enquèrent de la sécurité des personnes âgées vivant seules porte-à-porte ; pendant une épidémie, ils aident à distribuer du matériel préventif ; au quotidien, ils sont un pont important entre les résidents et le chef de quartier.
 
-Le fonctionnement de ce système illustre une caractéristique importante de la démocratie taïwanaise : la mise en œuvre approfondie de la démocratie participative.
-Les interactions fréquentes entre chefs de _li_ (lǐ zhǎng), chefs de voisinage (lín zhǎng) et résidents ont également cultivé l’habitude et la capacité de la participation civique.
+Le fonctionnement de ce système démontre une caractéristique importante de la démocratie taïwanaise : la mise en œuvre approfondie de la démocratie participative. Les interactions fréquentes entre les chefs de quartier, les chefs de voisinage et les résidents cultivent également l'habitude et la capacité de participation citoyenne.
 
-## L’aménagement des quartiers : un mouvement de transformation sociale par le bas
+## Construction communautaire : un mouvement de transformation sociale du bas vers le haut
 
-Dans les années 1990, une idée nouvelle appelée « aménagement global des quartiers » a commencé à émerger en Taïwan, modifiant non seulement l’apparence des quartiers, mais influençant profondément le modèle de développement social de Taïwan.
-L’idée centrale de ce mouvement est « par le bas », mettant l’accent sur la participation autonome des résidents, à travers la sensibilisation culturelle et artistique, la transformation de l’environnement et le dynamisme économique, pour réaliser un développement global du quartier.
+Dans les années 1990, un concept appelé « construction communautaire globale » a commencé à germer à Taïwan. Il n'a pas seulement changé l'apparence des communautés, mais a également influencé profondément le modèle de développement social de Taïwan. Le concept central de ce mouvement est « du bas vers le haut », mettant l'accent sur la participation autonome des résidents pour réaliser un développement communautaire complet par l'influence de la culture et de l'art, la rénovation environnementale et la revitalisation industrielle.
 
-L’essor du mouvement d’aménagement des quartiers est étroitement lié au processus de démocratisation de Taïwan.
-Après la fin de la gouvernance autoritaire, les citoyens ont gagné plus d’espace et d’opportunités pour exprimer leurs opinions et participer aux affaires publiques.
-L’aménagement des quartiers a fourni une plateforme concrète permettant aux gens de commencer par leur environnement immédiat pour réaliser les idéaux de participation démocratique.
+L'émergence du mouvement de construction communautaire est étroitement liée au processus de démocratisation de Taïwan. Après le démantèlement du régime autoritaire, les citoyens ont commencé à avoir plus d'espace et d'opportunités pour exprimer leurs opinions et participer aux affaires publiques. La construction communautaire a fourni une plateforme concrète permettant aux gens de mettre en pratique l'idéal de participation démocratique en partant de leur propre environnement de vie.
 
-Le Conseil des affaires culturelles (anciennement le Conseil des affaires culturelles) a lancé des politiques d’aménagement des quartiers dès 1994, encourageant les résidents à proposer eux-mêmes leurs projets et à transformer leur environnement de vie.
-Ces projets couvrent divers domaines tels que les arts culturels, le paysage environnemental, le développement économique et les services sociaux.
-Par exemple, dans la communauté Ban Tou à Xin’gang, dans le comté de Chiayi, la promotion de l’art du collage a non seulement préservé les techniques traditionnelles, mais a également stimulé le tourisme ;
-Dans la communauté Neicheng à Yuan’shan, dans le comté de Ilan, combinant l’agriculture biologique, l’agriculture amicale à l’environnement et la conservation écologique, a attiré des jeunes à s’installer comme agriculteurs.
+Le Ministère de la Culture (anciennement le Conseil national de construction) a promu la politique de construction communautaire à partir de 1994, encourageant les résidents à proposer des projets et à rénover leur environnement de vie grâce à des subventions. Ces projets couvrent divers domaines tels que la culture artistique, l'aménagement du paysage, le développement industriel et le soutien social. Par exemple, dans la communauté de Bantou (Ban Tou) du comté de Chiayi, la promotion de l'art en céramique (_jiǎnzhi_) a non seulement préservé l'artisanat traditionnel, mais a également stimulé le développement de l'industrie touristique ; dans la communauté de Neicheng (Nei Cheng) du comté d'Yilan, qui combine une agriculture biologique et respectueuse avec la conservation écologique, a attiré des jeunes pour travailler la terre.
 
-L’esprit de l’aménagement des quartiers repose sur le principe « à nous la communauté, à nous la solution ».
-Il encourage les résidents à ne pas attendre l’intervention de l’État ou de forces extérieures, mais à identifier activement les problèmes, à chercher des ressources et à formuler des solutions.
-Au cours de ce processus, les résidents apprennent à s’organiser, à intégrer des ressources et à exécuter des plans, tout en développant un sentiment d’appartenance et de responsabilité envers leur communauté.
+L'esprit de la construction communautaire réside dans « sauver sa propre communauté ». Il encourage les résidents à ne pas attendre l'intervention du gouvernement ou des forces extérieures, mais plutôt à identifier eux-mêmes les problèmes, à rechercher des ressources et à proposer des solutions. Au cours de ce processus, les résidents apprennent l'organisation, la coordination, l'intégration des ressources et la mise en œuvre de projets, développant ainsi un sentiment d'appartenance et un sens des responsabilités envers leur communauté.
 
-## Les universités communautaires : laboratoires d’une société apprenante
+## L'université communautaire : une expérience de société apprenante
 
-En 1998, la première université communautaire a été fondée à Taipei dans le district de Wenshan, marquant un tournant dans l’éducation des adultes.
-La philosophie derrière la création des universités communautaires découle d’une réflexion critique sur le système éducatif traditionnel : pourquoi l’éducation doit-elle se terminer à un certain âge ?
-Pourquoi l’apprentissage doit-il se limiter à un lieu spécifique ?
-Pourquoi les connaissances ne peuvent-elles pas être plus proches de la vie réelle ?
+En 1998, la première université communautaire de Taïwan a été établie dans le district de Wenshan à Taipei, ouvrant une nouvelle page pour l'éducation des adultes. Le concept de création d'universités communautaires provient d'une réflexion sur le système éducatif traditionnel : pourquoi l'éducation doit-elle se terminer à un certain âge ? Pourquoi l'apprentissage est-il limité à certains lieux ? Pourquoi la connaissance ne peut-elle pas être plus proche de la vie ?
 
-La conception des cours des universités communautaires comporte trois dimensions : les cours académiques offrent une éducation de base en sciences humaines et sociales ; les cours de compétences de vie répondent aux besoins d’intérêt des résidents ; les activités de clubs encouragent la participation civique.
-Cette approche pédagogique multidimensionnelle reflète une compréhension large du concept d’« apprentissage » — l’apprentissage ne se limite pas à l’absorption de connaissances, il s’agit aussi de développer des compétences, d’élargir les perspectives et de créer des réseaux sociaux.
+La conception des cours de l'université communautaire comporte trois aspects : les cours académiques fournissent une éducation de base en sciences humaines et sociales, les cours d'art de vie répondent aux besoins d'intérêt des résidents, et les cours d'activités associatives encouragent la participation citoyenne. Cette conception de cours diversifiée reflète la compréhension large que l'université communautaire a du « savoir » – apprendre n'est pas seulement absorber des connaissances, mais aussi développer des compétences, élargir son horizon et établir un réseau social.
 
-Prenons l’exemple de l’université communautaire de Beitou : elle ne se contente pas d’offrir divers cours, elle promeut également le concept de « Beitou Learning », encourageant les étudiants à étudier l’histoire culturelle, l’environnement écologique et les problèmes sociaux locaux.
-À travers des enquêtes de terrain, des récits oraux et la création de cartes communautaires, les étudiants deviennent des chercheurs et des témoins de leur communauté.
-Cette approche de l’« apprentissage local » non seulement approfondit la compréhension de la communauté, mais cultive également chez les résidents un esprit critique et une conscience civique.
+Prenons l'exemple de l'Université communautaire de Beitou ; elle ne propose pas seulement divers cours, mais promeut également le concept de « Savoir de Beitou » (_Beitou Xue_), encourageant les étudiants à étudier l'histoire culturelle locale, l'environnement écologique et les problèmes sociaux. Grâce aux enquêtes de terrain, à l'histoire orale et à la cartographie communautaire, les étudiants deviennent des chercheurs et des documentaristes de leur communauté. Cette promotion de « savoir local » approfondit non seulement la compréhension de la communauté, mais développe également la capacité de pensée critique et la conscience citoyenne des résidents.
 
-Les universités communautaires sont également devenues des pôles importants des mouvements sociaux.
-Des questions comme la protection de l’environnement, la préservation de la culture et l’engagement social sont souvent discutées, organisées et mises en pratique dans ces institutions.
-Les étudiants acquièrent des connaissances et des compétences en classe, puis les appliquent à des actions sociales concrètes.
-Ce modèle de « combinaison d’apprentissage et d’action » incarne l’idéal d’une « libération du savoir » propre aux universités communautaires.
+L'université communautaire est également devenue un point d'appui important pour les mouvements sociaux. Les questions telles que la protection de l'environnement, la préservation culturelle et le soin social sont souvent discutées, organisées et mises en œuvre au sein de ces universités. Les étudiants acquièrent des connaissances et des compétences en classe, puis investissent ces ressources dans des actions sociales concrètes. Ce modèle d'« apprentissage lié à l'action » incarne l'idéal de « libération du savoir » de l'université communautaire.
 
-## La participation civique : du passif à l’action
+## Participation citoyenne : du réceptif au transformateur actif
 
-Une caractéristique importante de la culture communautaire taïwanaise est l’évolution progressive de la conscience de la participation civique.
-Ce changement peut être observé dans l’évolution de l’attitude des résidents envers les affaires publiques.
-Autrefois, beaucoup de gens adoptaient un modèle de « l’État agit, les citoyens observent », où la planification et la mise en œuvre des projets publics manquaient souvent de participation citoyenne.
-Mais avec l’approfondissement de la démocratie et l’éveil de la conscience civique, les résidents exigent davantage d’opportunités de participation et sont prêts à assumer davantage de responsabilités.
+Une caractéristique importante de la culture communautaire taïwanaise est l'amélioration progressive de la conscience de participation citoyenne. Ce changement peut être clairement observé dans l'évolution de l'attitude des résidents face aux affaires publiques. Par le passé, beaucoup avaient l'habitude du modèle « le gouvernement agit, les citoyens regardent », et la planification et la mise en œuvre des projets publics manquaient souvent de la participation citoyenne. Mais avec l'approfondissement de la démocratie et le réveil de la conscience citoyenne, les résidents ont commencé à exiger plus d'opportunités de participation et sont prêts à assumer davantage de responsabilités.
 
-Cette participation ne se limite pas aux élections, elle s’étend à tous les aspects de la vie quotidienne.
-Par exemple, dans la planification des parcs communautaires, les résidents forment des groupes d’adoption pour participer à la conception, à la discussion et à la gestion ;
-Dans l’amélioration de la sécurité routière, les associations de parents créent des équipes bénévoles pour accompagner les enfants à l’école ;
-Dans la promotion de l’environnement, les communautés créent des équipes de surveillance écologique pour contrôler la pollution et promouvoir le recyclage.
+Cette participation n'est pas limitée au vote électoral ; elle s'étend à tous les aspects de la vie quotidienne. Par exemple, dans la planification des parcs communautaires, les résidents forment des « groupes d'adoption de parc » pour participer aux discussions de conception et à l'entretien ; en ce qui concerne l'amélioration de la sécurité routière, les associations de parents organisent des « équipes de bénévoles bienveillantes » pour assurer la sécurité des enfants pendant leur trajet école-maison ; dans la promotion de la protection de l'environnement, les communautés créent des « patrouilles environnementales » pour surveiller la pollution et promouvoir le recyclage.
 
-Le budget participatif est une nouvelle forme qui a émergé ces dernières années.
-Certaines autorités locales ouvrent une partie de leur budget aux décisions des citoyens, qui, à travers des propositions, des débats et des votes, participent directement à l’allocation des ressources publiques.
-Cette pratique non seulement améliore la transparence de l’utilisation des fonds publics, mais renforce également le sentiment d’appartenance des citoyens.
+Le budget participatif est une nouvelle forme apparue ces dernières années. Certains gouvernements locaux ouvrent une partie du budget à la décision des citoyens sur son utilisation, permettant aux résidents de participer directement à l'allocation des ressources publiques par le biais de propositions, de discussions et de votes. Cette approche améliore non seulement la transparence de l'utilisation du budget, mais renforce également le sentiment d'appartenance des citoyens.
 
-Le développement des technologies numériques offre également de nouvelles possibilités pour la participation civique.
-De nombreuses communautés ont créé des plateformes en ligne permettant aux résidents de discuter des affaires communautaires, de signaler des problèmes et de partager des informations.
-Les autorités municipales et départementales ont également lancé leurs propres applications, comme TaipeiPASS à Taïpei, qui intègre l’identité numérique des citoyens et de nombreux services municipaux, facilitant ainsi l’interaction entre les citoyens et l’État.[^3]
+Le développement de la technologie numérique offre également de nouvelles possibilités pour la participation citoyenne. De nombreuses communautés ont créé des plateformes en ligne permettant aux résidents de discuter des affaires communautaires, de signaler des problèmes et de partager des informations. Les gouvernements du comté et de la ville lancent également leurs propres applications, par exemple, Taipei a intégré l'identification civile et plusieurs services municipaux dans « TaipeiPass » (_Taipei Tong_), permettant aux citoyens d'interagir plus facilement avec le gouvernement. [^3]
 
-## La diversité des organisations communautaires
+## Le développement diversifié des organisations communautaires
 
-Les organisations communautaires taïwanaises présentent une grande diversité et originalité.
-En plus des organisations formelles des villages et districts (lǐ), de nombreuses organisations civiles interviennent activement dans les communautés.
-Les associations de développement communautaire sont les formes d’organisation les plus répandues, généralement axées sur la promotion du développement communautaire et l’amélioration du bien-être des résidents, organisant diverses activités et services.
+Les organisations communautaires à Taïwan présentent un haut degré de diversité et d'innovation. En plus des structures officielles du _li_, tous les types d'organisations privées sont actives dans la communauté. Les associations de développement communautaire sont la forme d'organisation la plus courante ; elles ont généralement pour objectif de promouvoir le développement communautaire et d'améliorer le bien-être des résidents, en organisant divers événements et services.
 
-Les organisations bénévoles constituent un pilier essentiel du fonctionnement communautaire.
-Que ce soit pour la protection de l’environnement, la sécurité routière, les bibliothèques ou les guides culturels, ces travailleurs bénévoles sans rémunération apportent chaleur humaine à la communauté.
-La popularité du bénévolat reflète les valeurs traditionnelles de coopération mutuelle en Taïwan, tout en incarnant la responsabilité sociale des citoyens modernes.
+Les organisations de bénévoles sont un pilier important du fonctionnement communautaire. Des bénévoles environnementaux, des bénévoles de transport, des bénévoles de bibliothèques, des guides culturels ; ces serviteurs bénévoles injectent une chaleur humaine dans la communauté. La prévalence de l'esprit bénévole reflète la valeur traditionnelle d'« aide mutuelle » de la société taïwanaise et incarne le sens des responsabilités sociales du citoyen moderne.
 
-Les entreprises communautaires sont un modèle nouveau qui a émergé ces dernières années.
-Ils combinent des objectifs sociaux et des méthodes commerciales, résolvant les problèmes communautaires tout en générant des bénéfices économiques par le biais de produits ou services innovants.
-Par exemple, certaines communautés développent l’agriculture biologique, l’artisanat ou le tourisme local, améliorant ainsi la qualité environnementale tout en augmentant les revenus des résidents.
+Les entreprises sociales sont un nouveau modèle apparu ces dernières années. Elles combinent objectifs sociaux et méthodes commerciales, résolvant les problèmes communautaires tout en générant des revenus grâce à des produits ou services innovants. Par exemple, certaines communautés améliorent non seulement la qualité de l'environnement en développant l'agriculture biologique, l'artisanat local ou le tourisme local, mais augmentent également le revenu des résidents.
 
-Les organisations religieuses jouent également un rôle important dans les communautés taïwanaises.
-Les temples, les églises et les monastères religieux sont souvent les centres culturels de la communauté, offrant non seulement un soutien spirituel, mais organisant également divers services sociaux.
-De l’assistance caritative à la promotion éducative, de la préservation culturelle à la protection de l’environnement, la participation des organisations religieuses apporte davantage de ressources et d’énergie aux affaires communautaires.
+Les organisations religieuses jouent également un rôle important dans les communautés taïwanaises. Les lieux religieux tels que les temples, les églises et les pagodes sont souvent des centres culturels de la communauté, offrant non seulement un refuge spirituel, mais organisant également divers services sociaux. De l'aide caritative à la promotion de l'éducation, en passant par la transmission culturelle et la protection de l'environnement, la participation des organisations religieuses ajoute plus de ressources et d'énergie aux affaires communautaires.
 
 ## Défis et difficultés
 
-Cependant, le développement communautaire taïwanais fait face à de nombreux défis.
-Le vieillissement de la population est l’un des problèmes les plus urgents.
-Beaucoup de jeunes résidents quittent les communautés pour chercher des emplois dans les villes, laissant derrière eux principalement des personnes âgées, ce qui rend les communautés moins dynamiques et plus difficiles à gérer.
-Attirer les générations plus jeunes à participer aux affaires communautaires est devenu un défi commun à de nombreuses communautés.
+Cependant, le développement communautaire taïwanais fait face à de nombreux défis. Le vieillissement démographique est l'un des problèmes les plus graves. De nombreux jeunes quittent leur communauté pour travailler en ville, ne laissant que des personnes âgées, ce qui entraîne un manque de vitalité communautaire et des difficultés opérationnelles. Comment attirer la jeune génération dans les affaires communautaires est un défi commun auquel sont confrontées de nombreuses communautés.
 
-Le manque de ressources est un autre problème généralisé.
-Bien que l’État offre divers programmes de subvention, la concurrence est intense et les montants des subventions sont limités.
-De nombreux projets communautaires innovants ne peuvent être réalisés faute de financement.
-Par ailleurs, les organisations communautaires manquent souvent de capacités professionnelles en matière de planification et de gestion, affectant l’efficacité de la mise en œuvre des projets.
+Le manque de ressources est un autre problème généralisé. Bien que le gouvernement propose divers programmes de subvention, la concurrence est féroce et les montants alloués sont limités. De nombreux projets communautaires créatifs ne peuvent pas être réalisés par manque de fonds. En même temps, les organisations communautaires manquent souvent de capacités de planification et de gestion professionnelles, ce qui affecte l'efficacité des projets.
 
-L’anonymat provoqué par l’urbanisation a également un impact sur la culture communautaire.
-Dans les grands ensembles résidentiels, les interactions entre voisins sont rares et la conscience communautaire est faible.
-Comment reconstruire des liens communautaires dans la vie urbaine moderne est un défi nécessitant une réflexion innovante.
+L'anonymat apporté par l'urbanisation a également un impact sur la culture communautaire. Dans les grands complexes résidentiels, il y a peu d'interactions entre voisins, et le sentiment communautaire est faible. Reconstruire les liens communautaires dans la vie urbaine moderne est un défi qui nécessite une pensée innovante.
 
-Les problèmes politiques ne doivent pas être ignorés.
-Certaines affaires communautaires se retrouvent impliquées dans les conflits politiques partisans, affectant la harmonie et le développement de la communauté.
-Comment dépasser les divisions politiques et se concentrer sur les intérêts communs des résidents est un test pour les leaders communautaires.
+Le problème de politisation ne doit pas être négligé. Certaines affaires communautaires sont impliquées dans des conflits politiques partisans, ce qui affecte l'harmonie et le développement de la communauté. Comment dépasser les oppositions politiques pour se concentrer sur les intérêts communs des résidents met à l'épreuve la sagesse des dirigeants communautaires.
 
-## Pratiques innovantes et perspectives d’avenir
+## Pratiques innovantes et perspectives d'avenir
 
-Face à ces défis, de nombreuses communautés commencent à expérimenter de nouvelles approches.
-La coopération intergénérationnelle est l’une des tendances importantes.
-Certaines communautés favorisent la collaboration entre générations à travers des programmes comme « apprentissage intergénérationnel » et des ateliers intergénérationnels.
-Les personnes âgées partagent leur expérience et leur sagesse, tandis que les jeunes apportent leur créativité et leur énergie, formant ainsi une relation complémentaire bénéfique.
+Face à ces défis, de nombreuses communautés commencent à essayer des pratiques innovantes. La coopération intergénérationnelle est une tendance importante parmi elles. Certaines communautés favorisent les échanges entre différentes tranches d'âge par le biais de « cours communs anciens-jeunes » ou d'« ateliers générationnels ». Les personnes âgées partagent leur expérience et leur sagesse, tandis que les jeunes contribuent avec de la créativité et de l'énergie, formant une relation complémentaire positive.
 
-L’application des technologies apporte également de nouvelles possibilités au développement communautaire.
-Le concept de « quartier intelligent » émerge progressivement, utilisant des technologies comme l’internet des objets, l’analyse de données massives et l’intelligence artificielle pour améliorer l’efficacité et la qualité de la gestion communautaire.
-Par exemple, certaines communautés ont installé des systèmes de sécurité intelligente, des équipements de surveillance environnementale et des plateformes de services en ligne, offrant ainsi aux résidents un environnement de vie plus pratique et plus sûr.
+L'application de la technologie apporte également de nouvelles possibilités au développement communautaire. Le concept de communauté intelligente commence à émerger, améliorant l'efficacité et la qualité de la gestion communautaire grâce à des technologies telles que l'Internet des Objets (IoT), le Big Data et l'intelligence artificielle. Par exemple, certaines communautés ont construit des systèmes de sécurité intelligents, des équipements de surveillance environnementale et des plateformes de services en ligne, permettant aux résidents de jouir d'un environnement de vie plus pratique et sûr.
 
-Le modèle des entreprises sociales est également appliqué dans les communautés.
-Certain·e·s communautés développent des industries caractéristiques et offrent des services innovants, résolvant ainsi des problèmes sociaux tout en créant des modèles opérationnels durables.
-Cette approche de l’« innovation sociale » ouvre de nouveaux espaces de réflexion pour le développement communautaire.
+Le modèle d'entreprise sociale est également appliqué dans les communautés. Certaines communautés résolvent les problèmes sociaux tout en créant un modèle opérationnel durable grâce au développement d'industries spécialisées ou à la fourniture de services innovants. Cette pensée de « l'innovation sociale » offre de nouveaux espaces d'imagination pour le développement communautaire.
 
-Les échanges internationaux et l’apprentissage deviennent également des tendances.
-De nombreuses organisations communautaires taïwanaises établissent des partenariats avec des communautés à l’étranger, partageant des expériences et des pratiques.
-Cette coopération transnationale non seulement élargit les perspectives, mais fournit également de nouvelles idées pour résoudre les problèmes communs.
+Les échanges et apprentissages internationaux sont également une tendance. De nombreuses organisations communautaires taïwanaises établissent des partenariats avec des communautés étrangères, partageant des expériences et échangeant des pratiques. Cette coopération internationale élargit non seulement les horizons, mais offre également de nouvelles idées pour résoudre les problèmes communs.
 
 ## La valeur profonde de la culture communautaire
 
-La culture communautaire taïwanaise va bien au-delà du simple fonctionnement organisationnel et des activités organisées.
-Elle incarne une idée sociale importante : la démocratie n’est pas seulement un système politique, mais aussi un mode de vie.
-Dans les communautés, les gens apprennent à écouter différentes voix, à respecter des opinions diverses et à chercher des solutions communes.
-Cette éducation à la démocratie établit une base solide pour le développement démocratique de toute la société.
+La valeur de la culture communautaire taïwanaise dépasse largement le fonctionnement superficiel des organisations et l'organisation d'activités. Elle incarne un concept social important : la démocratie n'est pas seulement un système politique, mais aussi une façon de vivre. Dans la communauté, les gens apprennent à écouter différentes voix, à respecter les perspectives multiples et à trouver des solutions communes. Ce développement de « compétence démocratique » pose des bases solides pour le développement démocratique de toute la société.
 
-La culture communautaire démontre également la force de la « société civile ».
-En dehors des institutions étatiques et du marché, la société civile répond à de nombreux besoins sociaux par l’autogestion et l’autonomie.
-L’activité de ce « troisième secteur » non seulement comble les lacunes des services publics, mais exprime aussi l’initiative et l’activité des citoyens.
+La culture communautaire démontre également la force de la « société civile ». Au-delà du gouvernement et du marché, la société civile répond à de nombreux besoins sociaux par l'auto-organisation et l'autonomie. Cette activité du « troisième secteur » ne fait pas qu'apporter un complément aux services gouvernementaux ; elle incarne aussi la subjectivité et la proactivité des citoyens.
 
-Plus important encore, la culture communautaire porte la fonction de la « résilience sociale ».
-Face aux catastrophes naturelles, aux crises économiques et aux chocs sociaux, les réseaux communautaires serrés constituent souvent le soutien le plus efficace.
-Le soin mutuel entre voisins, la mobilisation rapide des organisations communautaires et l’allocation flexible des ressources locales reflètent la capacité de résilience ascendante de la société.
+Plus important encore, la culture communautaire porte la fonction de la « résilience sociale ». Face aux catastrophes naturelles, aux calamités humaines, aux changements économiques ou aux chocs sociaux, le réseau communautaire étroit est souvent la force de soutien la plus efficace. L'entraide entre voisins, la mobilisation rapide des organisations communautaires et l'allocation flexible des ressources locales sont toutes des manifestations de la capacité de récupération sociale du bas vers le haut.
 
-En regardant vers l’avenir, la culture communautaire taïwanaise continuera d’évoluer.
-De nouveaux défis exigeront de nouvelles réponses, et de nouvelles générations apporteront de nouvelles idées.
-Mais quoi qu’il arrive, l’esprit fondamental de « cohabiter, se préoccuper mutuellement et agir collectivement » restera le trésor le plus précieux de la société taïwanaise.
+En regardant l'avenir, la culture communautaire taïwanaise continuera d'évoluer. Les nouveaux défis nécessiteront de nouvelles réponses, et les nouvelles générations apporteront de nouvelles imaginations. Mais quoi qu'il arrive, l'esprit fondamental de « vivre ensemble, se soucier mutuellement, agir collectivement » restera le trésor le plus précieux de la société taïwanaise.
 
-À l’ère de la transformation rapide, les communautés nous rappellent l’essence de la vie : les humains sont des êtres sociaux, le bonheur doit être partagé et les problèmes doivent être résolus collectivement.
-Lorsque nous discutons de la prochaine journée de nettoyage dans le centre d’activités communautaires, lorsque nous apprenons de nouvelles connaissances dans les salles des universités communautaires, lorsque nous nous saluons poliment dans les ruelles entre voisins, nous mettons en pratique l’idéal le plus ancien et le plus moderne de l’humanité — construire une communauté plus belle.
+À cette époque en rapide mutation, la communauté nous rappelle la nature essentielle de la vie : l'être humain est un animal social, le bonheur nécessite du partage, et les problèmes nécessitent une résolution collaborative. Lorsque nous discutons de la journée de nettoyage dans le centre communautaire, que nous apprenons de nouvelles connaissances dans la salle d'université communautaire, ou que nous nous souhaitons bonne nuit dans la ruelle de nos voisins, nous mettons en pratique l'idéal le plus ancien et le plus moderne de l'humanité : construire une communauté meilleure.
 
-## Conclusion : voir l’avenir de Taïwan dans le « district (lǐ) »
+## Conclusion : voir l'avenir de Taïwan au sein du _li_
 
-La culture des districts (lǐ) à Taïwan est une expérience démocratique en cours.
-Elle transforme les devoirs civiques abstraits en soins concrets entre voisins, et fait jaillir la chaleur des politiques publiques dans la passion communautaire.
-À l’ère de la fragmentation rapide, nous avons toujours besoin des ruelles où l’on peut se dire bonjour, et des centres d’activités communautaires où l’on se rassemble pour discuter d’un arbre ou d’un égout.
-Car dans ces lieux, nous ne sommes pas seulement des électeurs, mais aussi les témoins mutuels de nos vies.
+La culture du _li_ à Taïwan est une expérience démocratique en cours. Elle transforme les devoirs civiques abstraits en soins de voisinage concrets, et elle traduit et met en œuvre des politiques gouvernementales froides dans la chaleur de la communauté. À cette époque fragmentée, nous avons toujours besoin de ces ruelles où l'on peut se souhaiter bonjour, et nous avons toujours besoin de ce centre d'activités où l'on se réunit pour discuter d'un vieil arbre ou d'une gouttière. Parce qu'à cet endroit, nous ne sommes pas seulement des électeurs, mais les témoins de la vie les uns des autres.
+
+## Lectures complémentaires
+
+- [Système du chef de quartier (_lǐzhǎng_)](/fr/politics/village-chief-system) — Comment fonctionne le poste élu au niveau le plus bas, avec 7 748 chefs de quartier dans tout le pays, depuis l'ère japonaise jusqu'aux élections directes en 1950.
+- [Les registres des 309 chefs de quartier](/fr/politics/village-chief-campaign-ledgers) — En 2022, parmi les 13 988 candidats au poste de chef de quartier, seulement 309 ont laissé un registre de dons politiques à la Commission d'inspection ; en mettant côte à côte le compte et les résultats des élections, on voit si l'argent achète un chef de quartier.
 
 ## Références
 
-1. Ministère de la Culture de la République de Chine (Taïwan) (2022). « Plan d’aménagement des quartiers et de développement culturel des villages (années 111-116) ». Disponible sur : https://www.moc.gov.tw/cp.aspx?n=128
-2. Taïwan Communautés Connectées (2021). « Au-delà d’un simple atelier d’art, l’action sociale des universités communautaires ». Disponible sur : https://communitytaiwan.moc.gov.tw/Item/Detail/不只是才藝班, l’action sociale des universités communautaires
-3. Bureau des affaires civiles de la ville de Taïpei (2024). « Les droits et devoirs des chefs de _li_ (lǐ zhǎng) ». Disponible sur : https://ca.gov.taipei/cp.aspx?n=3E43CD1A09FE5FA9
-4. Base nationale des lois et règlements. « Loi sur les affaires locales », article 59. Disponible sur : https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0040003&flno=59
-5. Wikipédia (2025). « Aménagement global des quartiers ». Disponible sur : https://zh.wikipedia.org/zh-tw/社區總體營造
+1. Ministère de la Culture de la République de Chine (2022). _Plan de développement communautaire et culturel du village (Années 111-116)_. Consulté sur : https://www.moc.gov.tw/cp.aspx?n=128
+2. Taiwan Community Network (2021). _Plus qu'un cours d'art, l'action sociale de l'université communautaire_. Consulté sur : https://communitytaiwan.moc.gov.tw/Item/Detail/不只是才藝班, Action sociale de l'université communautaire
+3. Bureau des Affaires civiles du gouvernement de Taipei (2024). _Le droit et le devoir du chef de quartier_. Consulté sur : https://ca.gov.taipei/cp.aspx?n=3E43CD1A09FE5FA9
+4. Base de données législative nationale. Article 59 de la Loi sur le système local. Consulté sur : https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0040003&flno=59
+5. Groupe d'éditeurs Wikipédia (2025). _Construction communautaire globale_. Consulté sur : https://zh.wikipedia.org/zh-tw/社區總體營造
 
-[^1]: [Loi sur les affaires locales, article 59](https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0040003&flno=59) — Base nationale des lois et règlements : Le chef de village (_li_) est placé sous la direction et la supervision du chef de canton, de ville ou d'arrondissement, chargé des affaires du village (_li_) et des tâches confiées, élu par les résidents conformément à la loi, pour un mandat de quatre ans, rééligible sans limite de mandats.
+[^1]: [Article 59 de la Loi sur le système local](https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=A0040003&flno=59) — Base de données législative nationale : Le chef du village (_lǐzhǎng_) est sous la direction et la supervision du chef de canton (zhen, shi, qu) pour gérer les affaires publiques et les tâches déléguées au _li_, élu par les résidents conformément à la loi, avec un mandat de quatre ans, renouvelable.
 
-[^2]: [Les droits et devoirs des chefs de _li_ (lǐ zhǎng)](https://ca.gov.taipei/cp.aspx?n=3E43CD1A09FE5FA9) — Bureau des affaires civiles de la ville de Taïpei : Les chefs de voisinage (lín zhǎng) sont des postes non rémunérés, sélectionnés parmi les résidents majeurs du voisinage par le chef de _li_ (lǐ zhǎng), puis nommés par le maire du district ; l’indemnité mensuelle est de 2 500 NT$ par personne, avec une assurance maladie accidentelle et des subventions pour les activités de développement personnel.
+[^2]: [Le droit et le devoir du chef de quartier](https://ca.gov.taipei/cp.aspx?n=3E43CD1A09FE5FA9) — Bureau des Affaires civiles du gouvernement de Taipei : Le chef de voisinage est bénévole, nommé par le chef de district sur proposition du chef de quartier parmi les résidents adultes du voisinage ; l'indemnité d'assistance est de 2 500 NT$ par mois, avec une prime d'assurance accidents et des subventions pour les activités.
 
-[^3]: [Qu’est-ce que TaipeiPASS ?](https://id.taipei/tpcd/about/what-is-taipeipass) — Ville de Taïpei : Intègre l’identité numérique des citoyens et de nombreux services municipaux dans « TaipeiPASS », accessible via une application.
+[^3]: [Qu'est-ce que TaipeiPass](https://id.taipei/tpcd/about/what-is-taipeipass) — Gouvernement de Taipei : Intégration de l'identification personnelle et de plusieurs services municipaux dans « TaipeiPass » (_Taipei Tong_), intégré dans une application.

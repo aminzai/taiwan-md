@@ -20,10 +20,10 @@ difficulty: 'intermediate'
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'Nature/生態多樣性.md'
-sourceCommitSha: 'd8646a2a9'
-sourceContentHash: 'sha256:768855c64ea407af'
-sourceBodyHash: 'sha256:2f867df28cee4278'
-translatedAt: '2026-09-08T00:42:50+08:00'
+sourceCommitSha: '825528805'
+sourceContentHash: 'sha256:af5bd3cc5a11c549'
+sourceBodyHash: 'sha256:7b55c8bf8318f623'
+translatedAt: '2026-10-02T01:02:03.817771+00:00'
 ---
 
 # Biodiversité
@@ -70,21 +70,21 @@ Les disparités entre les comtés sont importantes :
 
 Ces forêts ne sont pas seulement des paysages magnifiques : elles constituent le cœur de la biodiversité de Taïwan. Environ 86 % des forêts bénéficient d’une protection légale, dont 73 % sont des forêts naturelles et 27 % des plantations.
 
-## Derniers remparts pour les espèces menacées
+## Les bastions de la faune menacée
 
-### Le tigre de pierre : espèce indicatrice des écosystèmes de montagne
+### Le léopard des montagnes : espèce indicatrice de l'écosystème de moyenne montagne
 
-Le tigre de pierre, le seul félin endémique de Taïwan, est aujourd’hui estimé à environ 500 individus, principalement répartis dans les zones de Miao-Li, Taichung et Nantou.
+Le léopard des montagnes, le seul félin indigène restant à Taïwan, est estimé aujourd'hui à environ 500 individus, principalement répartis dans les zones de moyenne montagne de Miaoli, Taichung et Nantou.
 
-**Les accidents routiers constituent la menace la plus immédiate pour le tigre de pierre**. Selon les statistiques de l’équipe "A Hu", 25 tigres de pierre ont été tués par des véhicules en 2021, dont 15 à Miao-Li, 6 à Nantou, et 2 à Taichung et Changhua. Les lieux d’accident se situent principalement le long des rivières Houlong, Zhuoshui et Maling, témoignant de la fragmentation des habitats. Outre les accidents, les attaques par des chiens errants et les maladies transmissibles entre chiens et chats représentent de nouvelles menaces, comme discuté en détail dans [Conservation du tigre de Taïwan](/fr/nature/taiwanese-leopard-cat-conservation).
+**L'accident routier représente la menace la plus directe pour cette espèce**. Selon les statistiques de l'équipe du léopard, 25 léopards ont été tués par des véhicules en 2021 : 15 dans le comté de Miaoli, 6 dans celui de Nantou et 2 chacun à Taichung et Changhua. Les lieux de mortalité se trouvent souvent sur les rives de cours d'eau tels que le Xi Houling, le Chuoshuiling ou le Naoluo, ce qui témoigne de la gravité de la fragmentation des habitats. Outre les accidents routiers, les attaques par des chiens errants et les maladies transmissibles entre chiens et chats sont devenues une autre menace ces dernières années : les enregistrements d'attaques et la superposition des habitats peuvent être consultés dans [la conservation du léopard des montagnes à Taïwan](/fr/nature/taiwanese-leopard-cat-conservation), tandis que la manière dont les chiens errants introduisent le parvovirus en moyenne montagne, l'infectent puis augmentent le risque d'accidents routiers est abordée dans [la culture animale errante à Taïwan](/fr/society/stray-animal-culture).
 
-### L’ours noir de Taïwan : le disparu majestueux
+### Le léopard de montagne de Taïwan : un roi disparu
 
-En 2014, les chercheurs ont officiellement déclaré l’extinction de l’ours noir de Taïwan, le dernier exemplaire ayant été vu en 1983. La disparition de cette sous-espèce endémique a marqué un tournant décisif dans la conscience écologique de Taïwan, poussant la société à accroître les efforts de conservation pour les espèces encore en vie.
+En 2014, les chercheurs ont officiellement déclaré le léopard de montagne de Taïwan éteint, la dernière observation confirmée datant de 1983. La disparition de cette sous-espèce endémique de Taïwan a marqué un tournant important dans la prise de conscience de la conservation à Taïwan, incitant la société à accorder plus d'attention à la protection des espèces menacées restantes.
 
-### L’ours noir de Taïwan : le roi des forêts
+### L'ours noir de Taïwan : le roi des forêts
 
-Le plus grand mammifère terrestre de Taïwan, l’ours noir est aujourd’hui estimé à environ 500 à 700 individus. Bien protégé par la loi, il reste menacé par la fragmentation des habitats et les conflits avec les humains. Ces dernières années, le gouvernement et les organisations civiles ont lancé des initiatives de conservation, notamment l’installation de clôtures électriques et la mise en place de systèmes de surveillance.
+C'est le mammifère terrestre le plus grand de Taïwan, avec une estimation actuelle oscillant entre 500 et 700 individus. Bien qu'il soit protégé par la loi, il est toujours menacé par la fragmentation des habitats et les conflits homme-ours. Ces dernières années, le gouvernement et des organisations privées ont activement promu des programmes de conservation, notamment en installant des clôtures électriques et en établissant des systèmes de surveillance.
 
 ## Trésors marins : la richesse des écosystèmes marins
 
@@ -139,12 +139,13 @@ Que ce soit dans la conservation du tigre de pierre ou la reprise du héron à t
 
 ## Lectures complémentaires
 
-Cet article fournit un aperçu général. Chaque espèce et écosystème possède une entrée détaillée sur le site :
+Cet article est un aperçu général ; chaque espèce et écosystème dispose d'un article détaillé sur le site :
 
-- [Conservation du tigre de Taïwan](/fr/nature/taiwanese-leopard-cat-conservation) — Comment gérer simultanément la fragmentation des habitats, les accidents routiers et les attaques canines pour une population de 500 individus
-- [Ours noir de Taïwan](/fr/nature/taiwanese-black-bear) — Le plus grand mammifère terrestre de l’île et les conflits actuels avec les humains
-- [Héron à tête noire](/fr/nature/black-faced-spoonbill) — De 288 individus à plus de 6 000, comment la coopération internationale a sauvé une espèce
-- [Espèces endémiques](/fr/nature/endemic-species) — Comment un taux si élevé d’espèces endémiques s’est développé sur cette île
-- [Écosystèmes forestiers de Taïwan](/fr/nature/taiwan-forest-ecosystems) — La structure réelle derrière le taux de 60,71 % de couvert forestier
-- [Écosystèmes de montagne et vestiges glaciaires de Taïwan](/fr/nature/taiwan-alpine-ecosystems-glacial-relicts) — Les espèces de montagne sans issue et les preuves des périodes glaciaires
-- [Écosystèmes marins et conservation des récifs coralliens de Taïwan](/fr/nature/taiwan-marine-ecology-and-coral-conservation) — L’état actuel des trois quarts des espèces de coraux mondiales
+- [Conservation du tigre de Taïwan](/fr/nature/taiwanese-leopard-cat-conservation) — Une population de cinq cents individus, comment les tués par la route, les chiens et la fragmentation de l'habitat exercent une pression simultanée
+- [Culture des animaux errants à Taïwan](/fr/society/stray-animal-culture) — Après le programme d'éradication, quel est le problème non résolu entre les chiens et chats errants et la faune montagneuse ?
+- [Loup noir de Taïwan](/fr/nature/taiwanese-black-bear) — Le plus grand mammifère terrestre de l'île face aux conflits homme-ours
+- [Bécasse des marges rouges](/fr/nature/black-faced-spoonbill) — De 288 à plus de six mille, comment la conservation transfrontalière a sauvé une espèce
+- [Espèces endémiques](/fr/nature/endemic-species) — Comment un taux élevé d'endémisme est apparu sur cette île
+- [Écosystème forestier de Taïwan](/fr/nature/taiwan-forest-ecosystems) — La structure réelle sous une couverture forestière de 60,71 %
+- [Écosystème montagneux et reliques glaciaires de Taïwan](/fr/nature/taiwan-alpine-ecosystems-glacial-relicts) — Les espèces de haute montagne sans retour possible et les preuves vivantes de l'ère glaciaire
+- [Écosystème marin et conservation des récifs coralliens de Taïwan](/fr/nature/taiwan-marine-ecology-and-coral-conservation) — L'état actuel des eaux abritant un tiers des espèces de corail mondiales

@@ -1,261 +1,261 @@
 ---
-title: 'Développement de la chaîne industrielle du véhicule électrique à Taïwan'
-description: "De la technologie des batteries à l'infrastructure de recharge, explorer l'écosystème complet de l'industrie taïwanaise du véhicule électrique et sa stratégie de transition vers le zéro émission nette à l'horizon 2030"
+title: 'Développement de la chaîne industrielle des véhicules électriques à Taïwan'
+description: "De la technologie des batteries aux infrastructures de recharge, exploration de l'écosystème complet du véhicule électrique taïwanais et de la stratégie de transition vers le zéro émission d'ici 2030"
 date: 2026-03-18
-author: 'Taiwan.md'
 category: 'Technology'
-subcategory: '半導體與硬體'
 tags:
   [
-    'véhicules électriques',
-    'technologie des batteries',
+    'véhicule électrique',
+    'technologie de batterie',
     'infrastructure de recharge',
-    'transition vers le zéro émission nette',
-    'transports verts',
+    'transition zéro émission',
+    'transport vert',
   ]
+subcategory: '半導體與硬體'
+author: 'Taiwan.md'
+difficulty: 'intermediate'
 readingTime: 14
+featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: true
 translatedFrom: 'Technology/台灣電動車產業鏈發展.md'
-sourceCommitSha: '24efd20f3'
+sourceCommitSha: '4fbca8305'
 sourceContentHash: 'sha256:85f80872ad09b54c'
 sourceBodyHash: 'sha256:3683724639161321'
-translatedAt: '2026-05-15T14:23:14+08:00'
-difficulty: 'intermediate'
+translatedAt: '2026-10-02T09:16:45+08:00'
 ---
 
-# Développement de la chaîne industrielle du véhicule électrique à Taïwan
+# Développement de la chaîne industrielle des véhicules électriques à Taïwan
 
 ## Aperçu en 30 secondes
 
-La chaîne industrielle taïwanaise du véhicule électrique couvre un écosystème complet allant des matériaux de batteries et des composants à l’intégration de systèmes. Sous l’impulsion de la politique gouvernementale de transition vers le zéro émission nette en 2050, Taïwan a fixé des objectifs d’électrification des véhicules de transport de passagers à l’horizon 2030, avec une priorité donnée aux transports publics. Dans le domaine des scooters électriques, Taïwan a déjà établi un réseau complet de recharge et d’échange de batteries ; la spécification de recharge rapide pour scooters électriques a même été intégrée par l’IEC aux normes internationales. Les atouts industriels se concentrent dans les semi-conducteurs, les matériaux de batteries et les systèmes de commande de moteurs, mais la fabrication de véhicules complets et la technologie des cellules de batterie doivent encore franchir des seuils importants ; leur développement s’accélère grâce à la coopération internationale et au transfert de technologies.
+La chaîne industrielle des véhicules électriques (VE) à Taïwan englobe un écosystème complet allant des matériaux de batterie aux composants et à l'intégration de systèmes. Sous l'impulsion de la politique de transition vers le zéro émission d'ici 2050 par le gouvernement, un objectif d'électrification du transport public est fixé pour 2030, avec une priorité donnée au transport collectif. Taïwan a déjà établi un réseau complet de recharge et de changement de batteries pour les scooters électriques, dont les normes de charge rapide sont intégrées dans les standards internationaux de l'IEC. Les avantages industriels se concentrent sur les semi-conducteurs, les matériaux de batterie et les systèmes de contrôle moteur, mais la fabrication de véhicules complets et la technologie des cellules de batterie nécessitent encore des percées, lesquelles sont accélérées par la coopération internationale et le transfert de technologie.
 
-**Mots-clés** : chaîne industrielle du véhicule électrique, technologie des batteries, infrastructure de recharge, transition vers le zéro émission nette, électrification des moyens de transport
+**Mots-clés** : chaîne industrielle VE, technologie de batterie, infrastructure de recharge, transition zéro émission, électrification du transport
 
-## Pourquoi c’est important
+## Pourquoi est-ce important ?
 
-Le développement de l’industrie du véhicule électrique revêt pour Taïwan une importance stratégique multiple. Le secteur des transports représente 14 % des émissions de gaz à effet de serre de Taïwan ; l’électrification constitue la principale trajectoire de réduction carbone et un élément clé de l’objectif zéro émission nette en 2050. Pour l’industrie, le basculement vers la chaîne d’approvisionnement du véhicule électrique signifie passer de la sous-traitance de pièces automobiles traditionnelles à l’intégration de systèmes électroniques à forte valeur ajoutée, tout en réduisant la dépendance au pétrole importé.
+Le développement de l'industrie des véhicules électriques revêt une signification stratégique multiple pour Taïwan. Le secteur des transports représente 14 % des émissions de gaz à effet de serre de Taïwan ; l'électrification est la voie principale pour réduire ces émissions et un élément clé de l'objectif zéro émission d'ici 2050. Pour l'industrie, se tourner vers la chaîne d'approvisionnement des VE signifie passer du sous-traitant traditionnel de pièces automobiles à l'intégration de systèmes électroniques à haute valeur ajoutée, tout en réduisant la dépendance au pétrole importé.
 
-- **Amélioration de la qualité de l’air** : les caractéristiques zéro émission des véhicules électriques contribuent à améliorer la qualité de l’air urbain
-- **Compétitivité internationale** : saisir les opportunités du marché mondial du véhicule électrique et préserver les avantages manufacturiers
-- **Emploi** : les industries liées au véhicule électrique devraient créer 200 000 emplois
+- **Amélioration de la qualité de l'air** : Les caractéristiques zéro émission des VE contribuent à améliorer la qualité de l'air urbain.
+- **Compétitivité internationale** : Saisir les opportunités du marché mondial des VE et maintenir l'avantage manufacturier.
+- **Opportunités d'emploi** : L'industrie liée aux véhicules électriques est estimée créer 200 000 emplois.
 
-## Tendances du marché mondial du véhicule électrique
+## Tendances du marché mondial des véhicules électriques
 
 ### Croissance rapide du marché
 
-Le marché mondial du véhicule électrique est passé de 3,1 millions de ventes en 2020 à 14,2 millions en 2023, soit une croissance de près de cinq fois en trois ans et un taux de croissance annuel composé de 35 %. La Chine domine le marché mondial avec 60 % de part de marché, suivie par l’Union européenne et les États-Unis aux deuxième et troisième rangs.
+Le marché mondial des VE est passé de 3,1 millions d'unités vendues en 2020 à 14,2 millions en 2023, soit une croissance de près de cinq fois en trois ans, avec un taux de croissance annuel composé atteignant 35 %. La Chine domine le marché mondial avec 60 % des parts de marché, tandis que l'Union européenne et les États-Unis occupent les deuxièmes et troisièmes places.
 
-**Répartition des principaux marchés (2023)** :
+**Répartition principale du marché (2023)** :
 
-La Chine représente 60 % du marché mondial du véhicule électrique avec 8,5 millions de véhicules, suivie par l’Union européenne avec 3,1 millions de véhicules (22 % de part de marché) et les États-Unis avec 1,5 million de véhicules (11 %) ; les autres régions, dont le Japon, la Corée du Sud et l’Inde, totalisent environ 1 million de véhicules.
+La Chine représente 60 % du marché mondial des VE avec 8,5 millions d'unités ; l'UE est deuxième avec 3,1 millions d'unités (22 % de part de marché) ; les États-Unis sont troisièmes avec 1,5 million d'unités (11 %) ; les autres régions comme le Japon, la Corée et l'Inde totalisent environ 1 million d'unités.
 
 ### Tendances technologiques
 
-L’évolution des technologies du véhicule électrique couvre trois dimensions : la chimie des batteries, la conduite autonome et les modèles commerciaux, qui convergent en s’accélérant mutuellement.
+L'évolution des technologies des VE couvre trois dimensions : la chimie des batteries, la conduite autonome et les modèles commerciaux, qui convergent de plus en plus rapidement.
 
-**Percées dans la technologie des batteries** :
+**Avancées technologiques des batteries** :
 
-Le coût des batteries lithium-fer-phosphate (LFP) a diminué de 70 %, tandis que le calendrier de commercialisation des batteries solides s’accélère également ; les technologies de recharge rapide sont passées de 30 minutes à 15 minutes, et la densité des batteries atteint 300 Wh/kg.
+Le coût des batteries au lithium fer phosphate (LFP) a diminué de 70 %, le calendrier de commercialisation des batteries à l'état solide s'accélère ; la technologie de charge rapide est passée de 30 minutes à 15 minutes, avec une densité de batterie atteignant 300 Wh/kg.
 
 **Intégration de la conduite autonome** :
 
-La conduite autonome de niveau L3 entre en phase de commercialisation ; les véhicules électriques et les systèmes de conduite intelligente s’intègrent en profondeur, tandis que les technologies de communication véhicule-environnement (V2X) arrivent à maturité.
+La conduite autonome de niveau L3 entre en phase commerciale, intégrant profondément les VE aux systèmes de conduite intelligente ; la technologie V2X (Vehicle-to-Everything) devient mature.
 
 **Innovation des modèles commerciaux** :
 
-Trois nouveaux modèles commerciaux, la location de batteries, la recharge en tant que service (CaaS) et la mobilité en tant que service (MaaS), se déploient sur plusieurs marchés et transforment les habitudes traditionnelles d’achat et d’usage automobile.
+Trois nouveaux modèles commerciaux – location de batteries, service de recharge comme service (CaaS) et mobilité comme service (MaaS) – sont mis en œuvre sur plusieurs marchés, changeant les habitudes d'achat et d'utilisation des véhicules.
 
-## Organisation de la chaîne industrielle taïwanaise du véhicule électrique
+## L'implantation industrielle des VE à Taïwan
 
-### Un écosystème industriel complet
+### Écosystème industriel complet
 
-À partir de ses fondations dans la fabrication de semi-conducteurs, Taïwan a construit une chaîne industrielle complète du véhicule électrique couvrant les matériaux clés en amont, les composants et systèmes en milieu de chaîne, et la fabrication de véhicules complets en aval.
+À partir de la base de la fabrication de semi-conducteurs, Taïwan a construit une chaîne industrielle complète pour les VE, couvrant les matériaux clés en amont, les systèmes de composants en aval et la fabrication de véhicules finis.
 
-#### Amont : matériaux clés
+#### Amont : Matériaux clés
 
-**Matériaux de batteries** :
+**Matériaux de batterie** :
 
-Les matériaux de cathode sont fournis par Kangpu (ProLogium) et Aleees-KY, tandis que les matériaux d’anode proviennent de Formosa Plastics et Eternal Materials ; les électrolytes sont fournis par Swancor et Chi Mei Corporation, et les séparateurs par BenQ Materials et Wah Hong Industrial.
+Les matériaux cathodiques sont fournis par ProLogium et Li-Kaishang ; les matériaux anodiques proviennent de Formosa Plastics (Taipsu) et Changxing Materials ; l'électrolyte est fourni par Shangwei et Chemico, tandis que les membranes de séparation sont gérées par Mingji Materials et Huaxia Haiwan.
 
-**Terres rares** :
+**Matériaux de terres rares** :
 
-Taïwan dispose d’avantages dans le traitement des terres rares. Taiwan Magnetic Technology est le principal fournisseur local de matériaux magnétiques permanents et a établi des partenariats de chaîne d’approvisionnement avec le Japon et l’Australie afin de diversifier les risques liés aux matières premières.
+Taïwan possède un avantage dans le traitement des terres rares. Taiwan Magnetic Technology est un fournisseur majeur de matériaux aimantés locaux et a établi des partenariats d'approvisionnement avec le Japon et l'Australie pour diversifier les risques de matières premières.
 
-#### Milieu de chaîne : composants et systèmes
+#### Aval : Composants et systèmes
 
 **Systèmes de batteries** :
 
-Les cellules de batterie sont principalement développées par ProLogium, qui est en tête dans la technologie des batteries solides ; les systèmes de gestion de batterie (BMS) sont assurés par Simplo et Dynapack, tandis que l’emballage des batteries et l’intégration système sont réalisés par Delta Electronics et Phihong Technology.
+Les cellules sont principalement développées par ProLogium (leader en technologie de batterie à l'état solide) ; les systèmes de gestion de batterie (BMS) sont gérés par Xinpu et Sunda ; le packagage des batteries est intégré par Taidai Electric et Feihong Technology.
 
-**Moteurs et systèmes de commande** :
+**Moteurs et systèmes de contrôle** :
 
-Les moteurs sont fournis par Delta Electronics, TECO Electric & Machinery et Tatung ; les variateurs sont assurés par Delta Electronics et Shihlin Electric, tandis que les contrôleurs sont fournis par Lite-On Technology et Wistron.
+Les moteurs sont fournis par Taidai Electric, Delta Electronics et Datong ; les variateurs sont assurés par Taidai Electric et Shilin Electric; les contrôleurs sont fournis par Guangbao Technology et Wistron.
 
 **Électronique de puissance** :
 
-Les semi-conducteurs de puissance sont fournis par TSMC, UMC et Vanguard International Semiconductor ; les puces de recharge sont développées par MediaTek et Realtek ; les circuits intégrés de gestion de l’alimentation sont principalement fournis par Richtek et Anpec.
+Les semi-conducteurs de puissance sont livrés par TSMC, United Microelectronics Corporation (UMC) et World Advanced; les puces de charge sont développées par MediaTek et Richtek; les IC de gestion d'alimentation sont principalement fournis par Richtek et Modral.
 
-#### Aval : fabrication de véhicules complets
+#### Aval : Fabrication de véhicules finis
 
 **Scooters électriques** :
 
-Gogoro domine le marché avec un système d’échange de batteries leader au niveau mondial ; Kymco rivalise avec sa plateforme électrique Ionex ; Sanyang coopère avec Delta Electronics pour le développement ; China Motor a lancé la série eMOVING.
+Gogoro domine le marché avec son système de changement de batterie leader mondial ; KYMCO rivalise avec la plateforme de VE Ionex ; Sanyang et Taidai Electric collaborent au développement, tandis que Chery (Chunghua Motors) lance la série eMOVING.
 
-**Automobiles électriques et bus électriques** :
+**Voitures électriques et bus électriques** :
 
-Pour les voitures particulières, Yulon Group développe son positionnement via la marque électrique Luxgen ; Foxconn a présenté trois modèles, Model C (berline), Model E (SUV) et Model T (bus) ; China Motor propose également des véhicules utilitaires e-moving. Les bus électriques nationaux sont fournis par RAC Electric Vehicles et Tangeng Advanced Vehicles, tandis que Master Transportation Bus Manufacturing coopère avec BMW pour introduire des technologies.
+Dans le segment des voitures particulières, le groupe Yulon déploie la marque électrique Najiye; Foxconn (Hon Hai) lance trois modèles : Model C (berline), Model E (SUV) et Model T (bus); Chery propose également des véhicules utilitaires e-moving. Les bus électriques sont fournis par Huade Dongneng et Tangrong Vehicles, tandis que Kaishang Green Energy collabore avec BMW pour importer des technologies.
 
-### Déploiement de Foxconn Technology Group dans le véhicule électrique
+### L'implantation des VE du groupe Foxconn (Hon Hai)
 
-Le déploiement complet de Foxconn dans le véhicule électrique couvre trois niveaux : plateforme, produits et intégration verticale. Il s’articule autour de la plateforme ouverte MIH, qui attire un écosystème de fournisseurs.
+L'implantation complète de Foxconn dans le domaine des VE couvre trois niveaux : plateforme, produit et intégration verticale, en prenant la plateforme ouverte MIH comme cœur, attirant l'écosystème des fournisseurs.
 
-La plateforme ouverte MIH pour véhicules électriques a été créée en 2020 ; plus de 2 000 entreprises ont rejoint l’alliance[^9]. En abaissant les barrières au développement de véhicules électriques grâce à une plateforme ouverte matérielle et logicielle, elle constitue l’outil central par lequel Foxconn construit son écosystème.
+La plateforme ouverte MIH pour les VE a été créée en 2020, avec plus de 2 000 entreprises membres[^9], servant d'outil central pour Foxconn dans le développement d'un écosystème en abaissant la barrière à l'entrée du développement de VE grâce à une plateforme logicielle et matérielle ouverte.
 
-Parmi les trois modèles produits en série, le Model C est une berline de luxe (autonomie de 700 kilomètres), le Model E est un SUV de luxe (production en série en 2024) et le Model T est un bus électrique (déjà entré en essais opérationnels).
+Parmi les trois modèles produits, Model C est une berline de luxe (autonomie de 700 km), Model E est un SUV de luxe (production en 2024), et Model T est un bus électrique (en phase d'essai opérationnel).
 
-**Stratégie d’intégration verticale** :
+**Stratégie d'intégration verticale** :
 
-Foxconn intègre verticalement trois niveaux clés de la chaîne d’approvisionnement : batteries (coopération avec CATL pour établir une usine de batteries à Taïwan), semi-conducteurs (puces automobiles fournies par TSMC) et logiciels (développement de systèmes d’exploitation embarqués et de technologies de conduite autonome). Sur le plan international, le groupe a respectivement créé une coentreprise avec Stellantis, coopéré avec le gouvernement indonésien pour une base de production et engagé des discussions sur une coopération dans le véhicule électrique avec l’Arabie saoudite.
+Foxconn intègre verticalement la batterie (avec une usine de batteries à Taïwan établie en partenariat avec CATL), les semi-conducteurs (via TSMC pour les puces automobiles) et le logiciel (développement de systèmes d'exploitation automobiles et de technologies de conduite autonome) sur trois niveaux clés de la chaîne d'approvisionnement. En matière de coopération internationale, l'entreprise a établi des usines en joint venture avec Stellantis, collabore avec le gouvernement indonésien pour une base de production, et négocie des partenariats VE avec l'Arabie saoudite.
 
-## Politique d’électrification des moyens de transport à l’horizon 2030[^3]
+## Politique d'électrification du transport pour 2030[^3]
 
-### Stratégie de transition vers le zéro émission nette
+### Stratégie de transition zéro émission
 
-La trajectoire taïwanaise de transition vers le zéro émission nette en 2050 fait de l’électrification des moyens de transport une stratégie centrale, avancée en trois étapes : 35 % d’électrification du transport de passagers en 2030, 100 % de voitures neuves vendues électriques en 2040 et zéro émission nette dans le secteur des transports en 2050.
+La trajectoire zéro émission de Taïwan pour 2050 considère l'électrification du transport comme une stratégie centrale, en trois phases : 35 % d'électrification du transport public d'ici 2030, 100 % des nouvelles ventes de voitures électriques d'ici 2040, et zéro émission pour le secteur des transports en 2050.
 
 **Objectifs politiques** :
 
-Les objectifs par étapes sont les suivants : 35 % d’électrification des véhicules de transport de passagers et 100 % d’électrification des bus nouvellement acquis en 2030 ; 100 % d’électrification des voitures neuves vendues en 2040 ; zéro émission nette dans le secteur des transports en 2050.
+Les objectifs par étapes sont : 35 % d'électrification du transport public en 2030, 100 % de véhicules utilitaires publics neufs électriques ; 100 % des nouvelles ventes de voitures électriques en 2040 ; zéro émission pour le secteur des transports en 2050.
 
-La stratégie de mise en œuvre donne la priorité aux transports publics comme démonstrateurs, en coordination avec un déploiement préalable des infrastructures, la localisation des technologies clés de la chaîne industrielle et l’amélioration de l’environnement juridique associé.
+La stratégie de promotion privilégie le transport public comme modèle d'exemple, complété par la priorisation des infrastructures, la nationalisation des technologies clés de la chaîne industrielle et l'amélioration du cadre juridique pertinent.
 
-### Plan 2030 d’électrification des véhicules de transport de passagers
+### Plan d'électrification du transport pour 2030
 
-Le gouvernement a élaboré des plans distincts pour les bus interurbains et urbains, les taxis et le fret, combinant subventions et objectifs quantifiés de remplacement obligatoire :
+Le gouvernement a élaboré des plans spécifiques pour le transport public, les taxis et le transport de marchandises, en utilisant des subventions couplées à des objectifs de renouvellement obligatoire :
 
-Pour les bus électriques, l’objectif est d’atteindre 8 000 véhicules en 2030, avec une subvention de remplacement pouvant atteindre 10 millions de nouveaux dollars taïwanais par véhicule, ainsi que des subventions aux coûts d’exploitation sur cinq ans et 1 000 stations de recharge dédiées en soutien. Pour les taxis électriques, l’objectif est d’atteindre 20 000 véhicules en 2030, avec des subventions à l’achat de 1 à 1,5 million de nouveaux dollars taïwanais par véhicule, ainsi que des tarifs préférentiels dans les stations de recharge publiques et un soutien à la coopération avec les plateformes. L’électrification du fret donne la priorité aux véhicules utilitaires légers, avec un objectif d’électrification de 30 % en 2030, des projets démonstrateurs en coopération avec les acteurs logistiques et une entrée prioritaire par la livraison du dernier kilomètre en zone métropolitaine.
+Concernant les bus électriques, l'objectif est d'atteindre 8 000 unités d'ici 2030, avec une subvention maximale de 10 millions NT$ par unité remplacée, ainsi que des subventions pour les coûts opérationnels sur cinq ans et un support dédié pour 1 000 bornes de recharge. L'objectif pour les taxis électriques est d'atteindre 20 000 unités en 2030, avec une subvention à l'achat de 1 à 1,5 million NT$ par véhicule, et un soutien via des tarifs préférentiels sur les bornes publiques et la coopération de plateformes. L'électrification du transport de marchandises se concentre d'abord sur les camions légers, avec un objectif de 30 % en 2030, impliquant des projets pilotes avec l'industrie logistique, ciblant prioritairement la livraison du dernier kilomètre dans les zones urbaines.
 
-### Construction de l’infrastructure de recharge
+### Construction de l'infrastructure de recharge
 
-La densité et la commodité de l’infrastructure de recharge influencent directement l’intention d’achat des consommateurs. Les stations de recharge publiques restent actuellement insuffisantes à Taïwan et devront être fortement développées entre 2025 et 2030 :
+La densité et la commodité des infrastructures de recharge ont un impact direct sur la volonté d'achat des consommateurs. Actuellement, Taïwan manque encore de bornes publiques ; une expansion massive est nécessaire entre 2025 et 2030 :
 
-Les objectifs de déploiement sont de 7 200 stations de recharge publiques en 2025 et 25 000 en 2030 ; les stations de recharge rapide devront couvrir les autoroutes à raison d’une station tous les 20 kilomètres, et la densité en zone métropolitaine devra atteindre 2 à 3 stations par kilomètre carré.
+L'objectif de construction est d'atteindre 7 200 bornes publiques en 2025 et 25 000 en 2030. Les bornes de charge rapide doivent couvrir une autoroute tous les 20 km, avec une densité urbaine de 2 à 3 bornes par kilomètre carré.
 
-Les stations de recharge sont réparties selon les usages : les stations de recharge rapide DC sont installées sur les autoroutes, aux échangeurs et dans les zones commerciales ; les stations de recharge lente AC couvrent les résidences collectives, immeubles de bureaux et parkings ; la recharge ultrarapide est déployée sur les axes principaux et les nœuds de transport ; la recharge sans fil est d’abord expérimentée dans des zones démonstratrices et sur certains tronçons spécifiques.
+Les stations sont réparties selon le scénario : les bornes rapides DC sont situées sur les autoroutes, les échangeurs et dans les zones commerciales ; les bornes lentes AC couvrent les communautés résidentielles, les immeubles de bureaux et les parkings ; la recharge ultra-rapide est déployée sur les artères principales et les nœuds de transport ; la recharge sans fil est testée en amont dans des zones pilotes et sur certains tronçons.
 
-**Modèle d’exploitation des services de recharge** :
+**Modèles d'exploitation des services de recharge** :
 
-Taiwan Power Company pilote la construction du réseau de recharge de base ; les opérateurs privés sont encouragés à investir et exploiter ces services. Les services combinés, associant par exemple supérettes et stations-service, améliorent la commodité d’usage, tandis que les systèmes de gestion intelligents fournissent information en temps réel, réservation et tarification dynamique.
+Taipower (TEP) dirige le développement du réseau de base, tandis que les entreprises privées sont encouragées à investir et à exploiter ces réseaux. La commodité est améliorée par des services composites (combinant dépanneurs et stations-service), et un système de gestion intelligent fournit des informations en temps réel, des services de réservation et une tarification dynamique.
 
-## Développement des technologies de batteries
+## Développement technologique des batteries
 
-### Trajectoires technologiques des batteries
+### Orientations technologiques des batteries
 
-Le développement taïwanais des technologies de batteries couvre plusieurs trajectoires :
+Le développement de la technologie des batteries à Taïwan couvre plusieurs voies :
 
-#### Batteries lithium-fer-phosphate (LFP)
-
-**Caractéristiques techniques** :
-
-- Sécurité élevée et longue durée de vie en cycles
-- Coût plus faible, adapté aux véhicules de grande taille
-- Bonne résistance aux températures élevées
-
-**Entreprises taïwanaises** :
-
-- Aleees-KY : fournisseur de matériaux de cathode
-- Coremax Materials : fabrication de cellules de batterie
-- Delta Electronics : intégration de systèmes de batteries
-
-#### Batteries lithium ternaires (NCM/NCA)
+#### Batteries Lithium Fer Phosphate (LFP)
 
 **Caractéristiques techniques** :
 
-- Densité énergétique élevée et poids réduit
-- Adaptées aux applications de voitures particulières
-- Excellentes performances de recharge rapide
+- Haute sécurité, longue durée de vie cyclique.
+- Coût relativement faible, adapté aux gros véhicules.
+- Bonne résistance aux hautes températures.
 
-**Défis de développement** :
+**Fabricants taïwanais** :
 
-- Nécessitent du cobalt, avec un coût plus élevé
-- Le risque d’emballement thermique doit être maîtrisé
-- Durée de vie en cycles relativement plus courte
+- Li-Kaishang : fournisseur de matériaux cathodiques.
+- ProLogium : fabrication de cellules.
+- Taidai Electric : intégration des systèmes de batteries.
 
-#### Batteries solides
+#### Batteries Lithium Tri-métal (NCM/NCA)
+
+**Caractéristiques techniques** :
+
+- Haute densité énergétique, faible poids.
+- Adapté aux applications automobiles légères.
+- Excellentes performances en charge rapide.
+
+**Défis du développement** :
+
+- Nécessite du cobalt, ce qui est coûteux.
+- Le risque d'emballement thermique doit être contrôlé.
+- La durée de vie cyclique est relativement courte.
+
+#### Batteries à l'état solide
 
 **Avantages technologiques** :
 
-- Densité énergétique pouvant atteindre 400 Wh/kg
-- Sécurité fortement améliorée
-- Prise en charge de la recharge rapide
+- Densité énergétique jusqu'à 400 Wh/kg.
+- Sécurité considérablement améliorée.
+- Supporte la charge rapide.
 
-**Technologie taïwanaise de premier plan** :
+**Technologies taïwanaises de pointe** :
 
-ProLogium Technology est un leader mondial de la technologie des batteries solides. Son usine de Dunkirk, en France, devrait entrer en production de masse en 2028[^1] (et non en 2026) et sa construction est actuellement en cours ; l’entreprise a signé en 2022 un accord de coopération avec Mercedes-Benz et a reçu des investissements de Formosa Plastics et de China Development Financial.
+ProLogium est un leader mondial de la technologie des batteries à l'état solide, avec une usine prévue à Dunkerque, en France, pour 2028[^1] (et non 2026), actuellement en cours de construction. En 2022, ProLogium a signé un accord de coopération avec Mercedes-Benz et a reçu des investissements de Formosa Plastics et Chunghwa Development.
 
 ### Défis de la chaîne industrielle des batteries
 
-**Défis technologiques** :
+**Défis techniques** :
 
-La technologie de fabrication des cellules de batterie constitue l’écart le plus manifeste entre Taïwan et les grands fabricants chinois, japonais et coréens ; les économies d’échelle en matière de capacité de production restent également à établir.
+La technologie de fabrication des cellules est le fossé le plus évident entre Taïwan et les grands acteurs chinois, japonais et coréens ; l'économie d'échelle en termes de capacité n'est pas encore établie.
 
-**Risques de chaîne d’approvisionnement** :
+**Risques de la chaîne d'approvisionnement** :
 
-Les matières premières clés telles que le lithium, le cobalt et le nickel dépendent fortement des importations. Les fluctuations de prix, combinées aux risques géopolitiques, créent des incertitudes sur la stabilité d’approvisionnement. Les pistes de réponse incluent le renforcement de la coopération technologique internationale, la constitution de réserves stratégiques de matières premières et le développement de technologies de recyclage des batteries afin de réduire la dépendance aux intrants.
+Les matières premières clés comme le lithium, le cobalt et le nickel dépendent fortement des importations. La volatilité des prix, combinée aux risques géopolitiques, crée une préoccupation quant à la stabilité de l'approvisionnement. Les solutions incluent le renforcement de la coopération technologique internationale, l'établissement de réserves stratégiques de matières premières et le développement de technologies de recyclage des batteries pour réduire la dépendance aux matières premières.
 
-## Modèle de réussite des scooters électriques
+## Modèle de succès du scooter électrique
 
 ### Écosystème Gogoro
 
-Les scooters électriques taïwanais occupent une position avancée sur les marchés mondiaux comparables. Le modèle d’échange de batteries de Gogoro est particulièrement singulier : il remplace la « vente de batteries » par l’« énergie en tant que service », évitant aux usagers d’assumer le risque de dépréciation des batteries.
+Le marché mondial des scooters électriques a une place de leader à Taïwan, avec un modèle unique chez Gogoro : remplacer la "vente de batterie" par le "service d'énergie", permettant aux utilisateurs de ne pas supporter l'amortissement de la batterie.
 
 **Modèle commercial innovant** :
 
-Gogoro remplace la vente traditionnelle de batteries par l’« énergie en tant que service » : les usagers paient un abonnement mensuel et récupèrent des batteries chargées dans les stations d’échange GoStation, sans supporter le risque de dépréciation des batteries. Gogoro adopte aussi une stratégie de plateforme ouverte en coopérant avec des fabricants de scooters tels que Kymco et Sanyang, et partage l’infrastructure d’échange de batteries.
+Gogoro remplace la vente traditionnelle de batteries par le « service d'énergie » : les utilisateurs paient un abonnement mensuel et utilisent des ensembles complets de batteries via les stations Gogoro, sans assumer le risque d'amortissement de la batterie. Gogoro collabore également avec des fabricants de scooters comme KYMCO et Sanyang grâce à une stratégie de plateforme ouverte pour partager l'infrastructure de changement de batteries.
 
-**Résultats de marché** :
+**Résultats du marché** :
 
-Gogoro détient plus de 90 % du marché taïwanais des scooters électriques ; son réseau d’échange de batteries compte plus de 2 500 emplacements (2024)[^2], plus de 400 000 échanges de batteries sont réalisés chaque jour, et le nombre de conducteurs Gogoro est d’environ 650 000 (2024)[^2].
+Gogoro détient plus de 90 % de la part de marché des scooters électriques à Taïwan, avec plus de 2 500 points de réseau d'échange (en 2024)[^2], effectuant plus de 400 000 échanges quotidiens, et environ 650 000 conducteurs Gogoro (en 2024)[^2].
 
-**Normalisation technologique** :
+**Standardisation technologique** :
 
-La spécification de recharge rapide de Gogoro a obtenu la certification de norme internationale IEC[^5]. Les spécifications de batteries sont ouvertes à d’autres fabricants, poussant les normes de l’industrie taïwanaise du scooter électrique à s’aligner sur l’international.
+La norme de charge rapide de Gogoro est certifiée par l'IEC[^5], et les spécifications des batteries sont ouvertes à d'autres fabricants, poussant la norme de l'industrie des scooters électriques taïwanais vers l'alignement international.
 
 **Expansion internationale** :
 
-Gogoro est déjà entré sur les marchés indien, chinois et israélien. L’entreprise exporte son système d’échange de batteries sous forme de licences technologiques et coopère avec les gouvernements locaux pour établir des réseaux d’échange sur place.
+Gogoro a pénétré les marchés indien, chinois et israélien en exportant le système d'échange par licence technologique, et collabore avec les gouvernements locaux pour établir des réseaux d'échange sur place.
 
 ### Complétude de la chaîne industrielle
 
-La maturité de la chaîne industrielle taïwanaise du scooter électrique se situe parmi les plus avancées d’Asie ; véhicules complets, composants et systèmes de recharge et d’échange de batteries sont tous couverts par des entreprises locales.
+Le niveau de maturité de la chaîne industrielle des scooters électriques à Taïwan est considéré comme avancé dans le marché asiatique, avec une couverture locale du véhicule complet, des composants et du système de recharge/échange.
 
-La chaîne d’approvisionnement taïwanaise du scooter électrique est très complète : les véhicules complets sont principalement produits par Gogoro, Kymco, Sanyang et Yamaha, avec une capacité annuelle dépassant 500 000 unités, dont une partie est exportée vers l’Europe et les États-Unis. Pour les composants clés, les moteurs sont fournis par TECO et Tatung, les contrôleurs par Delta Electronics et Lite-On, et les batteries par Simplo et Dynapack. L’écosystème de recharge et d’échange est soutenu par les équipements de recharge de Delta Electronics et Phihong, la plateforme d’exploitation Gogoro Network et un réseau de services de maintenance présent dans toute l’île.
+La chaîne d'approvisionnement des scooters électriques taïwanais est complète : les véhicules sont principalement constitués par Gogoro, KYMCO, Sanyang et Yanmai ; la production annuelle dépasse 500 000 unités, dont une partie est exportée vers l'Europe et l'Amérique. En ce qui concerne les composants clés, Delta Electronics et Datong fournissent des moteurs, tandis que Taidai Electric et Guangbao sont responsables des contrôleurs; les batteries proviennent de Xinpu et Sunda. L'écosystème de recharge est soutenu par le matériel de charge fourni par Taidai Electric et Feihong, la plateforme d'exploitation Gogoro Network, ainsi qu'un réseau de services de réparation couvrant tout Taïwan.
 
 ## Politiques industrielles et mesures de soutien
 
-La politique taïwanaise du véhicule électrique couvre trois dimensions : réglementation, finances publiques et industrie. Les subventions et projets démonstrateurs stimulent la demande de marché, tandis que la chaîne d’approvisionnement locale est soutenue pour établir des capacités de production de masse. L’électrification des transports publics sert d’abord de démonstration, entraînant la validation technologique et les effets d’échelle.
+La politique des véhicules électriques du gouvernement taïwanais couvre les domaines réglementaires, financiers et industriels. Elle stimule la demande par le biais de subventions et de projets pilotes, tout en soutenant la chaîne d'approvisionnement locale pour atteindre la capacité de production de masse. L'électrification du transport public a été lancée comme un modèle pour valider la technologie et obtenir des économies d'échelle.
 
-### Stratégies gouvernementales
+### Stratégie gouvernementale
 
-La préparation de l’environnement réglementaire inclut l’élaboration d’une loi sur le développement du véhicule électrique, des normes d’installation des infrastructures de recharge, un système de gestion du recyclage des batteries et des règles de certification de sécurité des véhicules. Du côté des incitations financières, les subventions à l’achat atteignent jusqu’à 90 000 nouveaux dollars taïwanais pour les voitures particulières et 7 200 nouveaux dollars taïwanais pour les scooters, assorties d’une exonération de taxe d’immatriculation pendant cinq ans, d’une exemption de taxe sur les carburants et de tarifs préférentiels dans les parkings publics. Le soutien industriel combine un programme de développement de l’industrie du véhicule électrique, des subventions à la R&D sur les technologies clés, la création de pôles industriels et des plans de formation des talents.
+Le cadre réglementaire comprend l'adoption du "Règlement sur le développement des véhicules électriques", les normes d'installation de recharge, le système de gestion du recyclage des batteries et les normes de sécurité des véhicules. En matière d'incitation financière, les subventions à l'achat de voitures particulières sont jusqu'à 90 000 NT$, pour les scooters 7 200 NT$, avec une exonération de taxe sur les plaques d'immatriculation pendant cinq ans, une exemption de taxe sur le carburant et des tarifs préférentiels dans les parkings publics. Le soutien industriel est multi-facettes, incluant le plan de développement de l'industrie des VE, les subventions à la R&D des technologies clés, la création de clusters industriels et les programmes de formation de talents.
 
-### Soutien à la R&D et à l’innovation
+### Soutien à l'innovation en R&D
 
-Le système de soutien à la R&D couvre deux niveaux : les projets technologiques publics, dont le programme véhicule électrique du Department of Industrial Technology du ministère des Affaires économiques, la R&D sur les technologies avancées du ministère de la Science et de la Technologie, le transfert civil des technologies de défense du National Chung-Shan Institute of Science and Technology et le transfert technologique de l’ITRI ; et la coopération industrie-université, comprenant les cursus universitaires sur le véhicule électrique, les stages en entreprise, les échanges technologiques internationaux et la stratégie de brevets. Côté validation, l’Automotive Research & Testing Center (ARTC) fournit des essais de batteries, des contrôles d’infrastructures de recharge et des terrains d’essai pour la conduite intelligente, comblant le manque de certification entre R&D et production de masse.
+Le système de soutien à la R&D se situe à deux niveaux : le projet technologique gouvernemental (Projet VE du Ministère de l'économie, R&D prospective du Ministère de la science et de la technologie, transfert civil des technologies de défense du CAS, transfert technologique du ITE) et la coopération industrie-université (programmes d'études sur les VE dans les universités, stages en entreprise, échanges technologiques internationaux, stratégie de brevets). Le côté validation est assuré par le Centre de recherche et de test des véhicules (ARTC), qui fournit des tests de batteries, des inspections d'installations de recharge et des terrains d'essai pour la conduite intelligente, comblant ainsi l'écart entre la R&D et la production de masse.
 
-## Coopération internationale et investissement
+## Coopération internationale et investissements
 
 ### Investissements étrangers à Taïwan
 
-**Grands cas d’investissement** :
+**Cas d'investissement majeurs** :
 
-Les entreprises taïwanaises sont profondément intégrées dans la chaîne d’approvisionnement de Tesla : Hota Industrial fournit des arbres de transmission, Delta Electronics des équipements de bornes de recharge, Quanta des ordinateurs de conduite autonome, et TSMC assure la fonderie de puces automobiles. Du côté des constructeurs européens, BMW coopère avec Master Transportation Bus Manufacturing sur les bus électriques, Mercedes-Benz a signé un accord de coopération sur les batteries solides avec ProLogium, et Stellantis produit en coentreprise avec Foxconn. Les constructeurs japonais se déploient également activement : Toyota avance dans la coopération sur les véhicules électriques via Hotai Motor, Honda coopère technologiquement avec Sanyang, et Nissan a établi un centre de test de batteries à Taïwan.
+Les usines taïwanaises sont profondément intégrées dans la chaîne d'approvisionnement de Tesla : Waseda Industrial fournit les arbres de transmission, Taidai Electric fournit les équipements de bornes de recharge, Quanta Computer est responsable des ordinateurs de conduite autonome, et TSMC prend en charge le sous-traitance de puces automobiles. En ce qui concerne les constructeurs européens, BMW collabore avec Kaishang Green Energy sur les bus électriques ; Mercedes-Benz a signé un accord de coopération sur les batteries à l'état solide avec ProLogium ; Stellantis s'associe à Foxconn pour la production. Les constructeurs japonais sont également actifs : Toyota promeut la coopération VE via Wasei Motors, Honda collabore avec Sanyang, et Nissan a établi un centre de test de batteries à Taïwan.
 
-### Investissements taïwanais à l’étranger
+### Investissements des usines taïwanaises à l'étranger
 
-Le déploiement étranger des entreprises taïwanaises se concentre sur deux axes : l’Asie du Sud-Est et les États-Unis. En Asie du Sud-Est, Foxconn établit une base de production de véhicules électriques en Indonésie, Gogoro entre sur le marché indien et Delta Electronics installe une usine d’équipements de recharge en Thaïlande. Aux États-Unis, trois lignes avancent en parallèle : Delta Electronics construit un réseau de recharge, Quanta établit un centre de R&D sur les véhicules autonomes, et Hota implante une usine de pièces pour véhicules électriques.
+L'implantation internationale des usines taïwanaises se concentre sur deux axes : le Sud-Est asiatique et les États-Unis. En Asie du Sud-Est, Foxconn a établi une base de production de VE en Indonésie, Gogoro est entré sur le marché indien, et Taidai Electric a établi une usine d'équipement de recharge en Thaïlande. Le marché américain est couvert par trois lignes : Taidai Electric construit un réseau de recharge, Quanta Computer établit un centre de R&D pour la conduite autonome, et Waseda établit une usine de pièces VE.
 
 ## Innovation technologique et R&D
 
@@ -263,102 +263,102 @@ Le déploiement étranger des entreprises taïwanaises se concentre sur deux axe
 
 **Semi-conducteurs automobiles** :
 
-Taïwan possède des avantages mondiaux de premier plan dans les puces automobiles : TSMC fournit des procédés avancés pour puces automobiles, MediaTek est chargé des puces d’infodivertissement embarqué, Realtek se spécialise dans les puces Ethernet automobile, et Richtek fournit les puces de gestion de l’alimentation.
+Taïwan possède un avantage mondial dans les puces automobiles : TSMC fournit des procédés avancés pour les puces automobiles ; MediaTek est responsable des puces d'infodivertissement embarquées ; Richtek se spécialise dans les puces Ethernet automobiles ; et Richtek fournit les puces de gestion de l'alimentation.
 
 **Technologies de conduite intelligente** :
 
-L’ITRI pilote la R&D sur les systèmes de conduite autonome, l’Institute for Information Industry est chargé des technologies de communication véhicule-environnement, Foxconn a lancé une plateforme ouverte pour véhicules autonomes, et Quanta fournit une plateforme de calcul IA. Ces quatre institutions complètent ensemble l’ensemble de la pile technologique.
+Le ITE dirige la R&D des systèmes de conduite autonome, le CSC est responsable des technologies de communication V2X, Foxconn lance une plateforme ouverte pour la conduite autonome, et Quanta Computer fournit une plateforme de calcul IA ; ces quatre organismes complètent l'ensemble technologique.
 
-**Matériaux d’allègement** :
+**Matériaux légers** :
 
-Formosa Plastics fournit des matériaux composites en fibre de carbone, China Steel fournit des aciers à haute résistance, tandis que Formosa Chemicals & Fibre et Nan Ya Plastics sont respectivement responsables des plastiques techniques et des matériaux composites, soutenant ensemble les besoins d’allègement des véhicules électriques.
+Formosa Plastics (Taipsu) fournit les matériaux composites en fibre de carbone, United Steel (Chunggang) fournit des aciers à haute résistance, tandis que Taihua et Nanya sont responsables respectivement des plastiques techniques et des matériaux composites, soutenant collectivement le besoin d'allègement des VE.
 
-### Modèles d’application innovants
+### Modèles d'application innovants
 
-**Intégration véhicule-réseau** :
+**Intégration V2X** :
 
-La recharge bidirectionnelle V2G transforme les véhicules électriques en nœuds de stockage d’énergie du réseau. Les communications V2X, l’intégration aux systèmes de transport intelligents et les technologies de diagnostic à distance font ensuite évoluer le véhicule électrique d’un simple moyen de déplacement vers une plateforme de mobilité intelligente.
+La charge bidirectionnelle V2G fait des VE un nœud de stockage d'énergie pour le réseau ; la communication V2X, l'intégration des systèmes de transport intelligents et les technologies de diagnostic à distance font passer les VE du simple moyen de transport à une plateforme de mobilité intelligente.
 
-**Combinaison avec l’économie du partage** :
+**Combinaison avec l'économie du partage** :
 
-Les services de partage de véhicules électriques, les réseaux de partage de batteries et les plateformes de partage de bornes de recharge font l’objet d’expérimentations d’intégration dans les zones métropolitaines. L’objectif est de réduire la dépendance à la voiture individuelle sous forme de mobilité en tant que service (MaaS).
+Les services de partage de VE, les réseaux de partage de batteries et les plateformes de partage de bornes sont testés en intégration dans les zones urbaines, visant à réduire la dépendance aux voitures privées sous forme de Mobilité comme Service (MaaS).
 
 ## Défis et solutions
 
-### Principaux défis de développement
+### Principaux défis du développement
 
-Les défis auxquels fait face l’industrie taïwanaise du véhicule électrique couvrent trois dimensions, technologique, commerciale et chaîne d’approvisionnement, qui sont étroitement liées. Du côté technologique, l’écart dans les cellules de batterie et l’insuffisance d’expérience dans la conception de véhicules complets relèvent le seuil d’entrée sur le marché des voitures particulières ; du côté du marché, la limite de taille du marché intérieur rend difficile l’établissement rapide d’économies d’échelle, ce qui affecte ensuite la compétitivité-coût.
+Les défis auxquels est confrontée l'industrie des VE taïwanaise se situent sur trois niveaux – technique, marché et chaîne d'approvisionnement – qui sont interconnectés. Le fossé technologique dans la fabrication de cellules et le manque d'expérience en conception de véhicules complets augmentent les barrières à l'entrée sur le marché automobile ; les limites du marché limitent également l'établissement rapide des économies d'échelle, affectant ainsi la compétitivité des coûts.
 
-Les défis technologiques se concentrent principalement sur quatre aspects : les cellules de batterie, où l’écart avec les grands acteurs internationaux demeure ; la conception de véhicules complets, faute d’expérience complète dans le développement de modèles ; la conduite autonome, où les algorithmes d’IA et les capteurs doivent être renforcés ; et les percées dans les technologies de recharge rapide et de recharge sans fil.
+Les défis techniques se concentrent principalement sur quatre domaines : les cellules (encore en retard par rapport aux grands acteurs internationaux), la conception de véhicules complets (manque d'expérience dans le développement de modèles complets), la conduite autonome (nécessite un renforcement des algorithmes IA et des technologies de capteurs) et les percées en charge rapide/recharge sans fil.
 
-Les défis de marché incluent la petite taille de la demande intérieure taïwanaise, les avantages technologiques et de coût des fabricants chinois, européens et américains, l’insuffisante densité du réseau de recharge, ainsi que les coûts d’achat et les habitudes d’usage qui freinent la transition des consommateurs.
+Les défis du marché comprennent la taille limitée de la demande intérieure à Taïwan, l'avantage technologique et coût des entreprises chinoises et européennes/américaines, le manque de densité du réseau de recharge, ainsi que les barrières liées au coût d'achat et au changement d'habitudes des consommateurs.
 
-Pour la chaîne d’approvisionnement, les matières premières clés comme le lithium, le cobalt et le nickel dépendent des importations ; l’expérience de production à grande échelle fait défaut ; les seuils de certification de niveau automobile sont élevés ; les économies d’échelle ne sont pas encore établies ; et la pression sur le contrôle des coûts demeure.
+En ce qui concerne la chaîne d'approvisionnement, la dépendance aux importations de matières premières clés comme le lithium, le cobalt et le nickel, le manque d'expérience de production à grande échelle, les normes de certification de qualité automobile élevées et la pression constante sur le contrôle des coûts sont des problèmes persistants.
 
 ### Stratégies de résolution
 
 **Stratégie de percée technologique** :
 
-Le renforcement de la coopération technologique internationale et des licences, ainsi que la création d’un centre de conception de puces automobiles, constituent des priorités de court terme ; l’investissement dans les technologies de prochaine génération telles que les batteries solides et le développement d’avantages propres à Taïwan relèvent d’une orientation de moyen et long terme.
+Le renforcement de la coopération technologique internationale et du transfert de technologie, ainsi que l'établissement d'un centre de conception de puces automobiles, sont les priorités à court terme. L'investissement dans des technologies de nouvelle génération comme les batteries à l'état solide et le développement des avantages spécifiques à Taïwan constituent une orientation à moyen et long terme.
 
-**Stratégie d’expansion des marchés** :
+**Stratégie de pénétration du marché** :
 
-L’Asie du Sud-Est doit être le principal marché étranger ciblé, en parallèle de partenariats de chaîne d’approvisionnement avec les constructeurs internationaux. Les marchés de niche comme les scooters électriques et les bus électriques sont les points d’entrée où Taïwan dispose des plus grands avantages et peut construire une reconnaissance de marque.
+Le Sud-Est asiatique est ciblé comme marché d'exportation principal, en établissant des partenariats de chaîne d'approvisionnement avec des constructeurs internationaux. Les marchés de niche tels que les scooters électriques et les bus électriques sont des points d'entrée où Taïwan a un avantage significatif, permettant ainsi de construire une notoriété de marque.
 
-**Construction de l’écosystème industriel** :
+**Construction de l'écosystème industriel** :
 
-La création de pôles industriels du véhicule électrique, l’expansion de l’infrastructure de recharge, l’amélioration du système de recyclage et réutilisation des batteries, ainsi que la formation de talents spécialisés sont tous indispensables. Ensemble, ils déterminent la compétitivité de long terme de l’écosystème taïwanais du véhicule électrique.
+La création de clusters industriels pour les VE, l'expansion de l'infrastructure de recharge, l'amélioration du système de recyclage des batteries et la formation de talents spécialisés sont tous essentiels ; ils déterminent collectivement la compétitivité à long terme de l'écosystème des VE taïwanais.
 
-## Perspectives futures
+## Perspectives d'avenir
 
 ### Vision industrielle pour 2030
 
-Les objectifs de taille industrielle à l’horizon 2030 sont fixés à 3 000 milliards de nouveaux dollars taïwanais de valeur de production, 200 000 emplois et un taux de pénétration des véhicules électriques de 30 %. Les jalons technologiques incluent la commercialisation des batteries solides, la maturité de la conduite autonome L3, la réduction du temps de recharge à 10 minutes et une autonomie atteignant 600 kilomètres. Sur le plan du positionnement international, l’objectif est de devenir une base importante d’approvisionnement en composants pour véhicules électriques en Asie-Pacifique et d’établir une marque technologique taïwanaise grâce à l’exportation de technologies de scooters électriques et à la participation à l’élaboration des normes internationales.
+L'objectif de taille industrielle pour 2030 est fixé à 3 trillions NT$ en valeur, 200 000 emplois et une pénétration des VE de 30 %. Les jalons technologiques incluent la commercialisation des batteries à l'état solide, la maturité du L3 autonome, la réduction du temps de charge à 10 minutes et une autonomie de 600 km. Sur le plan international, l'objectif est de devenir une base importante de composants VE dans la région Asie-Pacifique, en établissant une marque technologique taïwanaise par l'exportation des technologies de scooters électriques et la participation à l'établissement de normes internationales.
 
 ### Tendances technologiques émergentes
 
-**Commercialisation des batteries solides** :
+**Commercialisation des batteries à l'état solide** :
 
-Après leur production de masse, les batteries solides devraient pouvoir dépasser une densité énergétique de 400 Wh/kg, réduire le temps de recharge à 15 minutes et offrir une sécurité nettement supérieure aux solutions traditionnelles à électrolyte liquide. Les progrès de l’usine française de ProLogium constituent un indicateur clé pour observer le calendrier de commercialisation des batteries solides taïwanaises.
+Les batteries à l'état solide devraient dépasser 400 Wh/kg après leur production de masse, avec un temps de charge réduit à 15 minutes et une sécurité nettement supérieure aux solutions traditionnelles à électrolyte liquide. Les progrès de l'usine ProLogium en France sont un indicateur clé pour observer le calendrier de commercialisation des batteries à l'état solide à Taïwan.
 
 **Piles à combustible à hydrogène et recharge intelligente** :
 
-Les piles à combustible à hydrogène visent principalement les véhicules commerciaux et le transport longue distance, comme solution complémentaire aux véhicules purement électriques, et nécessitent la mise en place d’une chaîne d’approvisionnement en hydrogène. Pour la recharge intelligente, la commercialisation de la recharge sans fil, les routes à recharge dynamique, les stations de recharge solaire et l’intégration aux réseaux électriques intelligents sont testées dans des sites démonstrateurs et pourraient entrer progressivement sur le marché dominant après 2030.
+Les piles à combustible sont principalement destinées au marché des véhicules commerciaux et du transport longue distance, servant de complément aux VE purs ; cela nécessite la construction d'une chaîne d'approvisionnement en hydrogène. En ce qui concerne la charge intelligente, la commercialisation de la recharge sans fil, les routes de charge dynamique, les stations solaires et l'intégration au réseau intelligent sont testées dans des zones pilotes et devraient progressivement entrer sur le marché principal après 2030.
 
-### Évolution des politiques
+### Évolution politique
 
-L’évolution des politiques couvre deux dimensions : le perfectionnement réglementaire, incluant les règles sur la conduite autonome, les obligations de recyclage des batteries, l’unification des normes de recharge et la protection de la confidentialité des données ; et l’approfondissement de la coopération internationale, comprenant la participation à des alliances internationales du véhicule électrique, la création de partenariats technologiques avec des pays alliés, l’internationalisation des normes technologiques et la mise en place de mécanismes de sécurité de la chaîne d’approvisionnement. Ces éléments fournissent un soutien institutionnel au développement industriel de long terme.
+L'évolution politique couvre deux domaines : l'amélioration réglementaire (réglementation de la conduite autonome, normes obligatoires de recyclage des batteries, uniformisation des standards de recharge, protection de la vie privée des données) et l'approfondissement de la coopération internationale (participation aux alliances internationales des VE, établissement de partenariats technologiques avec les pays amis, promotion de l'internationalisation des normes technologiques, création d'un mécanisme de sécurité de la chaîne d'approvisionnement), offrant un soutien institutionnel au développement à long terme de l'industrie.
 
 ## Conclusion
 
-L’industrie taïwanaise du véhicule électrique se trouve à un tournant décisif. Grâce aux atouts existants dans les semi-conducteurs, la mécanique de précision et les technologies de l’information et de la communication, Taïwan a l’occasion d’occuper une place importante dans la chaîne d’approvisionnement mondiale du véhicule électrique. Toutefois, face à une concurrence internationale intense, Taïwan doit accélérer l’innovation technologique, élargir la taille du marché, améliorer les infrastructures et approfondir la coopération internationale.
+L'industrie des véhicules électriques taïwanaise se trouve à un point de basculement crucial. Grâce aux avantages existants dans les semi-conducteurs, la machinerie de précision et les TIC, Taïwan a l'opportunité de jouer un rôle important dans la chaîne d'approvisionnement mondiale des VE. Cependant, face à une concurrence internationale féroce, Taïwan doit accélérer l'innovation technologique, élargir le marché, améliorer les infrastructures et approfondir la coopération internationale.
 
-La politique gouvernementale d’électrification des moyens de transport à l’horizon 2030 a établi des objectifs par étapes, tandis que les entreprises privées investissent également dans la R&D et la construction d’usines correspondantes. De l’exportation à l’étranger du modèle d’échange de batteries des scooters électriques Gogoro à la plateforme MIH de Foxconn attirant plus de 2 000 entreprises membres, Taïwan tente de transformer ses capacités manufacturières existantes en avantage concurrentiel à l’ère du véhicule électrique.
+La politique d'électrification du transport pour 2030 établie par le gouvernement a fixé des objectifs progressifs, et les entreprises privées investissent en conséquence dans la R&D et la construction d'usines. De l'exportation du modèle de changement de batteries de Gogoro aux plus de 2 000 entreprises rejoignant la plateforme MIH de Foxconn, Taïwan tente de transformer ses capacités manufacturières existantes en un avantage concurrentiel pour l'ère des VE.
 
-Au cours de la prochaine décennie, la capacité de l’industrie taïwanaise du véhicule électrique à consolider sa position de hub de chaîne d’approvisionnement en Asie-Pacifique dépendra principalement de la production de masse des batteries solides, des capacités de conception de puces automobiles et de la vitesse de déploiement de l’infrastructure de recharge.
+Dans les dix prochaines années, la capacité de l'industrie des VE taïwanaise à se maintenir comme un pivot de la chaîne d'approvisionnement Asie-Pacifique dépendra du lancement de masse des batteries à l'état solide, de la conception des puces automobiles et de la vitesse de progression de l'infrastructure de recharge.
 
 ## Références
 
-[^1]: [ProLogium Technology（輝能科技）— 官方新聞](https://www.prologium.com/) — L’usine de Dunkirk, en France, devrait entrer en production de masse en 2028 (2026 est une information ancienne) ; l’accord de coopération sur les batteries solides avec Mercedes-Benz (2022) a été publiquement confirmé ; aucune annonce publique n’a été trouvée concernant une coopération avec BMW
+[^1]: [ProLogium Technology (輝能科技) — Nouvelles officielles](https://www.prologium.com/) — L'usine de Dunkerque en France est prévue pour 2028 (l'information de 2026 est ancienne) ; l'accord de coopération sur les batteries à l'état solide avec Mercedes-Benz (en 2022) a été publiquement confirmé ; aucune annonce publique concernant la collaboration avec BMW.
 
-[^2]: [Gogoro Inc. — 官方網站](https://www.gogoro.com/) — En 2024, le réseau d’échange de batteries comptait plus de 2 500 emplacements ; le nombre de conducteurs Gogoro était d’environ 650 000 personnes (données officielles 2024)
+[^2]: [Gogoro Inc. — Site officiel](https://www.gogoro.com/) — Plus de 2 500 points de réseau d'échange en 2024 ; environ 650 000 conducteurs Gogoro (données officielles de 2024).
 
-[^3]: [行政院（2024）。「2030年客運車輛電動化推動計畫」](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/fbaa04ca-a430-48e7-8ba1-0b35d1dc4879) — Objectifs d’électrification des véhicules de transport de passagers en 2030 et stratégies de mise en œuvre
+[^3]: [Executive Yuan (2024). "Plan de promotion de l'électrification du transport public pour 2030"](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/fbaa04ca-a430-48e7-8ba1-0b35d1dc4879) — Objectifs et stratégies d'électrification du transport public pour 2030.
 
-[^4]: [交通部（2023）。《臺灣2050淨零轉型「運具電動化及無碳化」關鍵戰略行動計畫》](https://www.ey.gov.tw/File/D2A731DDD7EC55EC?A=C) — Trajectoire de transition vers le zéro émission nette en 2050 et objectifs par étapes d’électrification des moyens de transport
+[^4]: [Ministry of Transportation (2023). "Plan stratégique clé pour la transition zéro émission 'électrification et décarbonation des transports' de Taïwan 2050"](https://www.ey.gov.tw/File/D2A731DDD7EC55EC?A=C) — Trajectoire zéro émission 2050, objectifs par étapes pour l'électrification du transport.
 
-[^5]: [台灣證券交易所（2024）。「電動車產業分析」](https://ic.tpex.org.tw/introduce.php?ic=A300) — Analyse de la chaîne industrielle taïwanaise du véhicule électrique ; explications relatives à la norme IEC pour la recharge rapide des scooters électriques taïwanais
+[^5]: [Taiwan Stock Exchange (2024). "Analyse de l'industrie des véhicules électriques"](https://ic.tpex.org.tw/introduce.php?ic=A300) — Analyse de la chaîne industrielle des VE taïwanais ; informations sur les normes IEC de charge rapide des scooters électriques taïwanais.
 
-[^6]: [綠色貿易資訊網（2024）。「電動車產業地圖」](https://www.greentrade.org.tw/electric_vehicle) — Répartition des entreprises de la chaîne d’approvisionnement taïwanaise du véhicule électrique
+[^6]: [Green Trade Information Network (2024). "Carte de l'industrie des véhicules électriques"](https://www.greentrade.org.tw/electric_vehicle) — Répartition des entreprises de la chaîne d'approvisionnement des VE taïwanais.
 
-[^7]: [財報狗（2024）。「電動車產業介紹、台股電動車類股」](https://statementdog.com/taiex/20-electric-vehicle-industry) — Analyse de la structure amont-aval de l’industrie taïwanaise du véhicule électrique
+[^7]: [Financial Report Dog (2024). "Introduction à l'industrie des véhicules électriques, actions VE cotées à Taïwan"](https://statementdog.com/taiex/20-electric-vehicle-industry) — Analyse de la structure industrielle amont/aval des VE taïwanais.
 
-[^8]: [經濟部產業發展署（原工業局，2023年9月改制）（2023）。《台灣電動車產業白皮書》](https://www.moea.gov.tw/) — Rapport sur les politiques industrielles et le développement technologique du véhicule électrique à Taïwan
+[^8]: [Industrial Development Agency (formerly Industrial Bureau, revised in September 2023) (2023). "Livre blanc sur l'industrie des véhicules électriques à Taïwan"](https://www.moea.gov.tw/) — Rapport politique et développement technologique de l'industrie des VE taïwanaise.
 
-[^9]: [鴻海科技集團（2024）。《MIH電動車生態系發展報告》](https://www.foxconn.com/zh-tw/) — Plus de 2 000 entreprises dans l’alliance de la plateforme MIH et écosystème ouvert de développement de véhicules électriques
+[^9]: [Foxconn Group (2024). "Rapport sur le développement de l'écosystème MIH pour les VE"](https://www.foxconn.com/zh-tw/) — L'écosystème de la plateforme MIH compte plus de 2 000 entreprises membres, un écosystème ouvert pour le développement des VE.
 
-[^10]: [工研院產科國際所（2024）。《全球電動車市場趨勢分析》](https://ieknet.iek.org.tw/) — Tendances de croissance du marché mondial du véhicule électrique et positionnement de Taïwan
+[^10]: [Institute of Industrial Research (2024). "Analyse des tendances du marché mondial des véhicules électriques"](https://ieknet.iek.org.tw/) — Tendances de croissance du marché mondial des VE et positionnement de Taïwan.
 
-[^11]: [車輛研發測試中心（ARTC）（2023）。《台灣電動車技術發展報告》](https://www.artc.org.tw/) — État actuel des technologies taïwanaises du véhicule électrique et essais de validation
+[^11]: [Automotive R&D Test Center (ARTC) (2023). "Rapport sur le développement technologique des véhicules électriques à Taïwan"](https://www.artc.org.tw/) — État actuel et validation technologique des VE taïwanais.
 
-[^12]: [台達電子（2023）。《電動車充電基礎設施發展報告》](https://www.deltaww.com/zh-TW/) — Équipements de recharge pour véhicules électriques et construction d’infrastructures de recharge
+[^12]: [Taidai Electric (2023). "Rapport sur le développement de l'infrastructure de recharge pour les VE"](https://www.deltaww.com/zh-TW/) — Équipements de recharge et construction d'infrastructures pour les VE.
