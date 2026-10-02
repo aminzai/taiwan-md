@@ -1,189 +1,181 @@
 ---
-title: "Evolución de las canciones en taiwanes: de la 'música de los abuelos' a la nueva favorita de los jóvenes bohemios"
-description: 'Rastrea la evolución de las canciones en taiwanes desde la era del nakashi, Hong Yifeng y Jody Chiang hasta las nuevas generaciones de bandas como Eggplant Egg Band y Sorry Youth Band, explorando cómo la música en taiwanes ha recuperado la aceptación de las generaciones jóvenes.'
+title: 'La evolución de la canción en taiwanés de Taiwán: de las «canciones de tíos» a la nueva favorita de los hipsters, una inversión de identidad'
+description: 'Rastrea la evolución de la canción en taiwanés de Taiwán desde la era del nakashi, Hong Yi-feng y Jody Chiang hasta las nuevas generaciones de bandas como EggPlantEgg y Sorry Youth, explorando cómo la música en taiwanés ha recuperado el reconocimiento de las generaciones jóvenes.'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'Music'
-subcategory: '流行音樂'
 tags:
   [
-    'canciones en taiwanes',
+    'canción en taiwanés',
     'nakashi',
-    'Hong Yifeng',
+    'Hong Yi-feng',
     'Jody Chiang',
-    'Eggplant Egg Band',
-    'Sorry Youth Band',
-    'Collage',
+    'EggPlantEgg',
+    'Sorry Youth',
+    'Cola Kai',
     'Premios Golden Melody',
   ]
-readingTime: 14
+subcategory: '流行音樂'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: true
-translatedFrom: Music/台灣台語歌曲演進.md
-sourceCommitSha: f712b7242
-sourceContentHash: sha256:f008ac775b92e042
-sourceBodyHash: sha256:14cffd9d61fb7eb9
-translatedAt: 2026-05-17T05:34:54+08:00
+readingTime: 14
+translatedFrom: 'Music/台灣台語歌曲演進.md'
+sourceCommitSha: '5dcc54256'
+sourceContentHash: 'sha256:d424949afdcc0ad2'
+sourceBodyHash: 'sha256:f3b6a62bd1b3e3fe'
+translatedAt: '2026-10-03T04:11:35+08:00'
 ---
 
-# Evolución de las canciones en taiwanes: de la "música de los abuelos" a la nueva favorita de los jóvenes bohemios
+# La evolución de la canción en taiwanés de Taiwán: de las «canciones de tíos» a la nueva favorita de los hipsters, una inversión de identidad
 
-## Panorama en 30 segundos
+## Resumen en 30 segundos
 
-Las canciones en taiwanes de Taiwán han atravesado una evolución desde la cultura nakashi de la posguerra, la era de los reyes del canto como Hong Yifeng y Wen Xia, los años dorados dominados por [Jody Chiang](/es/people/jody-chiang/), hasta las innovadoras interpretaciones de las nuevas generaciones de bandas como [Eggplant Egg Band](/es/music/eggplant-egg-band/), [Sorry Youth Band](/es/music/sorry-youth-band/) y Collage. Las canciones en taiwanes han pasado del estereotipo de "música de los abuelos" a convertirse en la nueva favorita de los jóvenes bohemios, y la creación de la categoría de álbum en taiwanes en los Premios Golden Melody ha proporcionado un apoyo institucional a esta evolución.
+La canción en taiwanés de Taiwán ha experimentado una transformación que va desde la cultura nakashi de la posguerra y la era de reyes del canto como Hong Yi-feng y Wen Hsia, hasta los años gloriosos dominados por [Jody Chiang](/es/people/jody-chiang/), para llegar a la innovadora reinterpretación de bandas de nueva generación como [EggPlantEgg](/es/music/eggplant-egg-band/), [Sorry Youth](/es/music/sorry-youth-band/) y Cola Kai (珂拉琪) en los últimos años. La canción en taiwanés ha logrado revertir el estereotipo de «canciones de tíos» para convertirse en la nueva favorita de los hipsters y la juventud, mientras que la creación de la categoría de álbum en taiwanés en los Premios Golden Melody ha brindado apoyo institucional a esta evolución.
 
-**Palabras clave:** música pop en taiwanes, herencia generacional, innovación musical, identidad cultural, revitalización de la lengua materna
+**Palabras clave:** música popular en taiwanés, transmisión generacional, innovación musical, identidad cultural, renacimiento de la lengua materna
 
-## Por qué importa
+## Por qué es importante
 
-La historia de la evolución de las canciones en taiwanes refleja los cambios políticos de la sociedad taiwanesa, la transformación de la identidad cultural y la influencia de las políticas lingüísticas. Desde su marginación hasta su nuevo reconocimiento, el resurgimiento de las canciones en taiwanes refleja la reconstrucción de la confianza cultural local de Taiwán. El auge de la música en taiwanes de la nueva generación demuestra que la cultura en lengua materna aún puede encontrar su propio público en la era de la globalización.
+La historia de la evolución de la canción en taiwanés refleja los cambios políticos de la sociedad taiwanesa, la transformación de la identidad cultural y la influencia de las políticas lingüísticas. Desde su marginalización hasta su revalorización, el renacimiento de la canción en taiwanés refleja la reconstrucción de la confianza cultural local de Taiwán. El auge de la nueva música en taiwanés demuestra que la cultura en lengua materna puede encontrar su propio público en la era de la globalización.
 
-## Orígenes populares: el nakashi y la cultura itinerante (1945-1970)
+## Orígenes populares: el nakashi y la cultura de los cantantes ambulantes (1945-1970)
 
 ### La música popular de la posguerra
 
-En los primeros años de la posguerra en Taiwán, la economía era difícil y la sociedad estaba convulsa, pero la música seguía siendo un consuelo inseparable de la vida de las personas. El término "nakashi" (那卡西), derivado del japonés, se refiere a músicos itinerantes que llevaban instrumentos sencillos y cantaban para el público en bares, casas de té y callejones.
+En la Taiwán de la posguerra inmediata, la economía estaba deprimida y la sociedad convulsionada, pero la música seguía siendo un consuelo indispensable en la vida de la gente. El término «nakashi» (那卡西), proveniente del japonés, designa a los intérpretes itinerantes que, portando instrumentos sencillos, cantaban para el público en casas de té, establecimientos de bebidas y esquinas callejeras.
 
-La característica de la cultura nakashi radica en su improvisación e interacción. Los cantantes debían ajustar su repertorio según el ambiente del momento y las necesidades del público, desde versiones en taiwanes de canciones japonesas hasta baladas de creación local, formando un repertorio diverso. Aunque esta forma de actuación era considerada "vulgar" por la sociedad dominante, fue el caldo de cultivo más crucial para las canciones en taiwanes.
+La cultura nakashi se caracteriza por su improvisación e interactividad. Los intérpretes debían ajustar el repertorio según el ambiente del momento y las peticiones del público, abarcando desde versiones en taiwanés de canciones japonesas hasta canciones populares de creación local, conformando así un repertorio diverso. Aunque la sociedad principal consideraba esta forma de expresión como «vulgar», fue el caldo de cultivo más crucial para la canción en taiwanés.
 
-### Los años amargos de los artistas itinerantes
+### Los años difíciles de los artistas ambulantes
 
-La vida de los artistas itinerantes estaba llena de desafíos; debían poseer una aguda observación y una profunda experiencia de vida para resonar con el público en cualquier ocasión. Muchos cantantes de taiwanes que luego alcanzaron la fama, como Hong Yifeng y Ye Qitian, tuvieron experiencias como artistas itinerantes, y estas vivencias llenaron sus voces de autenticidad vital.
+La vida de los artistas ambulantes estaba llena de desafíos: necesitaban una aguda capacidad de observación y una profunda experiencia vital para lograr la resonancia del público en los más variados escenarios. Muchos cantantes en taiwanés que luego alcanzaron la fama, como Hong Yi-feng y Yeh Chi-tien (葉啟田), tuvieron experiencia como artistas ambulantes, y esas vivencias dotaron a sus voces de un realismo vital.
 
-La cultura itinerante también cultivó el estilo vocal característico de las canciones en taiwanes: emocionalmente intenso, técnicamente sencillo y cercano a la vida cotidiana. Este estilo se convirtió posteriormente en la característica central que distingue las canciones en taiwanes de las canciones pop en mandarín.
+La cultura de los cantantes ambulantes también cultivó el estilo interpretativo propio de la canción en taiwanés: emoción intensa, técnica sencilla, cercanía a la vida cotidiana. Este estilo se convirtió después en la característica nuclear que distingue a la canción en taiwanés de la canción popular en mandarín.
 
-## La era de los reyes del canto: los años dorados de Hong Yifeng y Wen Xia (1960-1980)
+## La era de los reyes del canto: la edad de oro de Hong Yi-feng y Wen Hsia (1960-1980)
 
-### Hong Yifeng: el ascenso del rey del canto en taiwanes
+### Hong Yi-feng: el ascenso del rey de la canción en taiwanés
 
-Hong Yifeng es honrado como el "rey del canto en taiwanes", y su aparición marcó la transición de las canciones en taiwanes de las calles a la industria musical formal. "La persona que añoro" (思慕的人), lanzada en 1957, se convirtió en una obra clásica en la historia de las canciones en taiwanes, con su melodía elegante y sus letras profundas, demostrando la altura artística de las canciones en taiwanes.
+La aparición de Hong Yi-feng marcó el paso de la canción en taiwanés de la calle a la industria musical formal. En 1957 conoció al letrista Yeh Chun-lin (葉俊麟), y entre 1957 y 1959 ambos coescribieron canciones originales en taiwanés como «Viejo afecto inagotable» (舊情綿綿), «Crepúsculo en Tamsui» (淡水暮色) y «La persona que anhelo» (思慕的人). En aquel momento, las compañías discográficas no veían con buenos ojos la creación en taiwanés; no fue hasta 1960 que Asia Records (亞洲唱片) publicó el álbum _La persona que anhelo_, y la voz de Hong Yi-feng se difundió por la radio, ganándose desde entonces el título de «reyes de la isla del tesoro» junto a Wen Hsia [^6]. «La persona que anhelo», de melodía hermosa y letra profunda, sigue siendo un clásico en la historia de la canción en taiwanés.
 
-El éxito de Hong Yifeng no radica únicamente en su excepcional técnica vocal, sino en su capacidad para captar con precisión las emociones colectivas del pueblo taiwanés. Sus canciones a menudo describen las alegrías y tristezas de la gente común, expresando las emociones más profundas en el lenguaje más sencillo, generando una fuerte resonancia en el público.
+El éxito de Hong Yi-feng no residió solo en su sobresaliente técnica vocal, sino en su capacidad para captar con precisión las emociones colectivas de los taiwaneses. Sus canciones solían describir las alegrías y penas de la gente común, expresando con el lenguaje más llano los sentimientos más profundos, generando una fuerte resonancia en los oyentes.
 
-### Wen Xia: pionero del cantautor
+### Wen Hsia: pionero del cantautor
 
-Wen Xia es otro rey del canto que dejó su huella en el panorama musical taiwanés, siendo tanto un excelente intérprete como un prolífico compositor. Obras representativas como "Mamá, por favor, cuídate también" (媽媽請你也保重) y "La tierra natal al atardecer" (黃昏的故鄉) siguen siendo ampliamente cantadas hasta hoy.[^2]
+Wen Hsia fue otro rey del canto que dejó huella en el panorama musical en taiwanés, destacando tanto como intérprete como como prolífico creador. Canciones representativas como «Mamá, cuídate tú también» (媽媽請你也保重) y «La patria al caer la tarde» (黃昏的故鄉) siguen cantándose ampliamente hoy en día [^2].
 
-El estilo compositivo de Wen Xia fusiona elementos de las baladas tradicionales taiwanesas con la música pop moderna, manteniendo las características locales de las canciones en taiwanes a la vez que posee un sentido de modernidad. Su éxito demostró que las canciones en taiwanes también podían alcanzar un alto nivel artístico, estableciendo un modelo para los músicos de taiwanes posteriores.
+El estilo creativo de Wen Hsia fusionaba elementos del folclore tradicional taiwanés con la música popular moderna, manteniendo el sabor local de la canción en taiwanés pero dotándola de sentido de la época. Su éxito demostró que la canción en taiwanés podía alcanzar también un alto nivel artístico, estableciendo un modelo para los músicos en taiwanés posteriores.
 
 ### El desarrollo de la industria discográfica
 
-Durante este período, las canciones en taiwanes comenzaron a integrarse en el sistema formal de la industria discográfica. Empresas como Haishan Records y Sihai Records se especializaron en la publicación de discos en taiwanes, estableciendo sistemas de producción, distribución y promoción. Aunque la escala era limitada, estas empresas proporcionaron la base industrial clave para el desarrollo de las canciones en taiwanes.
+En este período, la canción en taiwanés comenzó a integrarse en el sistema formal de la industria discográfica, pero al principio las compañías no veían con buenos ojos las creaciones originales en taiwanés; _La persona que anhelo_ hubo de esperar hasta 1960 para ser publicada por Asia Records [^6]. El mercado de la canción en mandarín era mayor: Haishan Records (海山唱片), fundada en 1962, se hizo fuerte con la canción popular en mandarín y las bandas sonoras de películas de ópera Huangmei; en 1967 llegó a adaptar la vieja canción en taiwanés «Copa de vino de amor triste» (悲戀的酒杯) reescribiendo la letra en mandarín como «Copa de vino amargo llena» (苦酒滿杯), causando sensación en toda la isla [^7]. Las compañías discográficas en taiwanés eran de escala modesta, pero proporcionaron una base industrial clave para el desarrollo de la canción en taiwanés.
 
 ## Opresión política y desarrollo subterráneo (1970-1990)
 
-### El impacto de las políticas lingüísticas
+### El impacto de la política lingüística
 
-A partir de la década de 1970, el gobierno del Kuomintang promovió el "movimiento por la lengua nacional" (國語運動), restringiendo el uso de dialectos en los medios. Las canciones en taiwanes en programas de televisión y radio se redujeron drásticamente, y el espacio de desarrollo para los cantantes en taiwanes se vio gravemente comprimido. Esta política tuvo un impacto profundo en el desarrollo de las canciones en taiwanes, y muchos creadores talentosos se vieron obligados a orientarse hacia la composición de canciones en mandarín.
+El Gobierno nacionalista impulsó el movimiento de la lengua nacional desde 1946, y en la década de 1970 las restricciones a los dialectos en los medios se endurecieron progresivamente. En 1972, los programas en taiwanés de las tres cadenas de televisión no podían superar una hora diaria por cadena, y las canciones en taiwanés emitidas cada día no podían exceder de dos; la _Ley de Radiodifusión y Televisión_ promulgada en 1976 establecía que la lengua de emisión debía ser principalmente el mandarín y que los dialectos debían reducirse año a año [^8]. El espacio de desarrollo de los cantantes en taiwanés quedó severamente comprimido, y esta política causó un impacto profundo en la evolución de la canción en taiwanés.
 
-### La resiliencia de las actividades subterráneas
+### La resiliencia de la actividad subterránea
 
-Sin embargo, las canciones en taiwanes no desaparecieron debido a la opresión política. En ocasiones populares como bodas, funerales, celebraciones y reuniones privadas, las canciones en taiwanes seguían siendo la banda sonora fija del momento. Esta actividad "subterránea" mantuvo la cadena de transmisión de las canciones en taiwanes y prolongó la vida de la música en taiwanes.
+Sin embargo, la canción en taiwanés no desapareció a causa de la opresión política. En bodas y funerales populares, festivales de templos, reuniones privadas y otros ámbitos, la canción en taiwanés seguía siendo la banda sonora obligada. Esta actividad «subterránea» mantuvo la cadena de transmisión de la canción en taiwanés, prolongando su vida.
 
-Muchos cantantes en taiwanes se orientaron durante este hacia formatos de actuación no formales como los "carros electrónicos de flores" (電子花車) y el canto itinerante. Aunque su estatus social no era elevado, mantuvieron la vitalidad de las canciones en taiwanes. Estos artistas solían tener un gran carisma en vivo y capacidad de improvisación, preservando una valiosa tradición interpretativa para las canciones en taiwanes.
+Muchos cantantes en taiwanés se volcarón en este período hacia formas de actuación no formales como los «camiones florales electrónicos» (電子花車) y el «canto ambulante» (走唱); aunque su estatus social no era alto, sostuvieron la vitalidad de la canción en taiwanés. Estos intérpretes solían poseer un gran carisma escénico y capacidad de improvisación, preservando una valiosa tradición performática para la canción en taiwanés.
 
-## La era de Jody Chiang: la gloria de la reina del canto en taiwanes (1980-2015)
+## La era de Jody Chiang: el esplendor de la reina de la canción en taiwanés (desde los años 80)
 
-### El ascenso de Jody Chiang, la "Segunda Hermana"
+### El ascenso de la «Segunda Hermana» Jody Chiang
 
-A finales de la década de 1980, la aparición de [Jody Chiang](/es/people/jody-chiang/) trajo un nuevo apogeo a las canciones en taiwanes. Su voz única, su exquisita técnica vocal y su profunda interpretación emocional de las canciones hicieron que las canciones en taiwanes recuperaran una amplia atención y aceptación.
+[Jody Chiang](/es/people/jody-chiang/) debutó oficialmente como cantante en 1983, y su álbum _Costa de la despedida_ (惜別的海岸) de 1984 la dio a conocer por primera vez [^3]. Su timbre único, su técnica vocal consumada y su profunda interpretación emocional permitieron que la canción en taiwanés recuperara una amplia atención y reconocimiento.
 
-El éxito de Jody Chiang no se debe únicamente a su talento personal, sino que también refleja los cambios en el entorno político de la sociedad taiwanesa. Con la levantamiento de la ley marcial y el auge de la conciencia local, la cultura en taiwanes comenzó a recibir mayor reconocimiento y apoyo. Jody Chiang supo aprovechar esta oportunidad convirtiéndose en la voz más representativa del resurgimiento de las canciones en taiwanes tras la democratización.[^3]
+Cuando empezó a despuntar, Taiwán aún estaba bajo la ley marcial; la canción en taiwanés circulaba principalmente por los mercados nocturnos, y «la canción era famosa pero la persona no» [^3]. Tras el levantamiento de la ley marcial en 1987, la conciencia local emergió y se abrió el espacio para la cultura en taiwanés; en la 1.ª edición de los Premios Golden Melody (1990), Jody Chiang obtuvo el galardón a la mejor intérprete femenina [^3], convirtiéndose en la voz más representativa de la canción en taiwanés en la posley marcial.
 
 ### Influencia transgeneracional
 
-La influencia de Jody Chiang trasciende las barreras generacionales. Sus canciones no solo son apreciadas por el público de mediana edad y mayores, sino que también atraen a muchos oyentes jóvenes. Esta atracción transgeneracional demuestra que las canciones en taiwanes de calidad poseen un valor emocional universal y no pierden su encanto por las barreras lingüísticas.
+La influencia de Jody Chiang traspasó las fronteras generacionales. Sus canciones no solo gustaban al público de mediana y avanzada edad, sino que atrajeron también a muchos oyentes jóvenes. Esta atracción transgeneracional demuestra que la canción en taiwanés de calidad posee un valor emocional universal, que no pierde encanto por la barrera del idioma.
 
-Los conciertos de Jody Chiang suelen agotar las entradas, lo que demuestra la posición importante de las canciones en taiwanes en el mercado musical taiwanés. Su éxito también ha animado a más músicos a dedicarse a la composición e interpretación de canciones en taiwanes.
+Los conciertos de Jody Chiang solían agotar las entradas, prueba del lugar importante que ocupa la canción en taiwanés en el mercado musical taiwanés. Su éxito animó a más músicos a dedicarse a la creación e interpretación en taiwanés. Ella anunció su retirada en 2015, reapareció en la gala del Día Nacional de 2024 y en 2025 emprendió una nueva gira de conciertos [^3].
 
-## El surgimiento de la nueva generación: de la "música de los abuelos" a la nueva favorita de los jóvenes bohemios (2010-presente)
+## El auge de la nueva generación: de «canciones de tíos» a favorita de los hipsters (2010-presente)
 
-### Eggplant Egg Band: la interpretación en taiwanes del espíritu rock
+### EggPlantEgg: interpretación en taiwanés del espíritu rock
 
-La aparición de [Eggplant Egg Band](/es/music/eggplant-egg-band/) marcó la entrada de las canciones en taiwanes en una era completamente nueva. Esta banda combina arreglos de rock con letras en taiwanes, creando un estilo musical único. Su obra representativa "El vagabundo regresa" (浪子回頭) se hizo viral en internet, haciendo que muchos jóvenes redescubrieran el encanto de las canciones en taiwanes.
+La aparición de [EggPlantEgg](/es/music/eggplant-egg-band/) marcó la entrada de la canción en taiwanés en una era totalmente nueva. La banda combina arreglos de rock con letras en taiwanés, creando un estilo musical único. Su tema representativo «El hijo pródigo regresa» (浪子回頭) se volvió viral en internet, permitiendo a muchos jóvenes redescubrir el encanto de la canción en taiwanés.
 
-El éxito de Eggplant Egg Band radica en su capacidad de interpretar canciones en taiwanes en un lenguaje musical familiar para los jóvenes, eliminando la barrera lingüística. Sus letras suelen estar llenas de expresiones cotidianas, combinadas con arreglos sólidos, otorgando a las canciones en taiwanes una modernidad sin precedentes.
+El éxito de EggPlantEgg radica en que utilizan un lenguaje musical familiar a los jóvenes para interpretar la canción en taiwanés, eliminando la barrera idiomática. Sus letras suelen estar llenas de expresiones cotidianas, respaldadas por arreglos sólidos, dotando a la canción en taiwanés de una modernidad sin precedentes.
 
-### Sorry Youth Band: la práctica del taiwanes con estética bohemia
+### Sorry Youth: práctica en taiwanés de la estética hipster
 
-La banda [Sorry Youth Band](/es/music/sorry-youth-band/), con su refinado gusto musical y su estética bohemia, ha aportado una dimensión completamente nueva a las canciones en taiwanes. Su música fusiona elementos de rock independiente, folk y electrónica, con letras llenas de poesía, mostrando la dimensión literaria de las canciones en taiwanes.
+La banda [Sorry Youth](/es/music/sorry-youth-band/) ha aportado una nueva faceta a la canción en taiwanés con su refinado gusto musical y su estética hipster. Su música fusiona rock independiente, folk, electrónica y otros elementos, y sus letras rebosan poesía, evidenciando la literariedad de la canción en taiwanés.
 
-El público de Sorry Youth Band son principalmente jóvenes con educación superior, y su aceptación de las canciones en taiwanes demuestra el resurgimiento de la música en lengua materna en las capas intelectuales. Este fenómeno se conoce como la "bohemización" de las canciones en taiwanes, representando una elevación del estatus social de la música en taiwanes.
+El público de Sorry Youth está compuesto principalmente por jóvenes con educación superior; su aceptación de la canción en taiwanés prueba el resurgimiento de la música en lengua materna en los estratos intelectuales. Este fenómeno se ha denominado la «hipsterización» de la canción en taiwanés, y representa la elevación del estatus social de la música en taiwanés.
 
-### Collage: creación en taiwanes desde una perspectiva femenina
+### Cola Kai: el taiwanés en el collage multilingüe
 
-Collage, con su perspectiva femenina única y su estilo musical experimental, ha ampliado los límites creativos de las canciones en taiwanes. Sus composiciones no se limitan al marco tradicional de las canciones en taiwanes, experimentando audazmente con diversos elementos musicales, demostrando la flexibilidad creativa de las canciones en taiwanes.[^4]
+Cola Kai (珂拉琪) es un dúo formado por la vocalista Ciwasah Lariyus (夏子·拉里又斯) y el guitarrista Wang Chia-chuan (王家權); el nombre del grupo proviene del inglés _Collage_. Su obra incorpora electrónica y rock, y las letras mezclan lengua indígena, taiwanés, japonés e inglés. Llamaron la atención con «Lamento de la madre compasiva entre miríadas de estambres» (萬千花蕊慈母悲哀) y en 2022 obtuvieron el premio al mejor artista novel en los Premios Golden Melody [^4].
 
-Las canciones de Collage a menudo abordan experiencias femeninas y temas sociales, expresando en taiwanes los pensamientos y sentimientos de las mujeres modernas. Esta dirección creativa ha abierto nuevos campos temáticos para las canciones en taiwanes, atrayendo también a jóvenes oyentes interesados en temas sociales.
+Cola Kai sitúa el taiwanés dentro de un collage multilingüe, expandiendo un paso más las fronteras creativas de la canción en taiwanés, y atrayendo también a jóvenes oyentes sensibles a las cuestiones de lengua e historia.
 
-## El álbum en taiwanes en los Premios Golden Melody: un hito institucional
+## Álbum en taiwanés en los Golden Melody: hito de la institucionalización
 
-### La importancia del reconocimiento oficial
+### El importante significado del reconocimiento oficial
 
-En 2005 (16.ª edición), los Premios Golden Melody establecieron el "Mejor Álbum en Taiwanes", lo cual constituyó un hito institucional en la historia del desarrollo de las canciones en taiwanes.[^1] La creación de este premio indicó que las canciones en taiwanes recibieron un reconocimiento oficial formal, proporcionando también una plataforma de publicación y un escenario competitivo para los músicos de taiwanes.
+En la 16.ª edición de los Premios Golden Melody (2005) se estableció el premio a la «Mejor interpretación vocal de álbum pop en taiwanés», cuya primera estatuilla recayó en _Amor_ (愛著啊) de Jody Chiang [^1]. Antes de eso, los Golden Melody ya habían creado premios para intérpretes en taiwanés; en la 15.ª edición aún se separaban mejor intérprete masculino y femenino en taiwanés [^5]; el premio de álbum equiparó las obras en taiwanés a los álbumes en mandarín, proveyendo a los músicos en taiwanés una plataforma de publicación y un escenario de competencia.
 
-Los criterios de selección del premio al mejor álbum en taiwanes de los Premios Golden Melody enfatizan la calidad musical y la innovación, animando a los músicos a mantener las características del taiwanes mientras se atreven a experimentar con nuevos lenguajes musicales. Esta orientación de la selección ha tenido un efecto impulsor sustancial en el desarrollo de las canciones en taiwanes.
+### Tendencia de desarrollo diversificado
 
-### Tendencias de desarrollo diversificado
-
-Los ganadores del premio al mejor álbum en taiwanes a lo largo de los años han mostrado un desarrollo diversificado de las canciones en taiwanes. Desde el estilo tradicional de enka hasta el rock moderno, el folk y la música electrónica, los géneros musicales de las canciones en taiwanes se han enriquecido cada vez más. Este desarrollo diversificado demuestra la rica capacidad expresiva del taiwanes como lengua musical.
+Los ganadores históricos del premio a álbum en taiwanés en los Golden Melody muestran la diversificación de la canción en taiwanés. Desde el estilo balada tradicional hasta el rock, folk y electrónica modernos, los géneros de la canción en taiwanés son cada vez más ricos. Esta diversificación demuestra la capacidad expresiva del taiwanés como lengua musical.
 
 ## Significado cultural e impacto social
 
-### La reconstrucción de la identidad lingüística
+### Reconstrucción de la identidad lingüística
 
-El surgimiento de las canciones en taiwanes de la nueva generación es un fenómeno musical, pero también una manifestación de la reconstrucción de la identidad lingüística. Bajo el impacto de la globalización, muchos jóvenes habían desarrollado un distanciamiento hacia su lengua materna, pero las excelentes obras musicales en taiwanes les han permitido redescubrir el poder expresivo del taiwanes.
+El auge de la nueva canción en taiwanés es un fenómeno musical, pero también una manifestación de la reconstrucción de la identidad lingüística. Bajo el impacto de la globalización, muchos jóvenes llegaron a sentir extrañeza hacia su lengua materna, pero las obras destacadas en taiwanés les han hecho redescubrir el poder expresivo del taiwanés.
 
-### Un puente de comunicación intergeneracional
+### Puente de comunicación intergeneracional
 
-Las canciones en taiwanes se han convertido en un puente de comunicación entre diferentes generaciones. Los músicos jóvenes interpretan canciones en taiwanes con un lenguaje musical moderno, haciendo que los oyentes mayores sientan la nueva vitalidad de la cultura tradicional; al mismo tiempo, las excelentes canciones en taiwanes también permiten a los oyentes jóvenes comprender y apreciar el valor de la cultura tradicional.
+La canción en taiwanés se ha convertido en un puente de comunicación entre generaciones. Los jóvenes músicos interpretan la canción en taiwanés con un lenguaje musical moderno, permitiendo al público mayor sentir la nueva vitalidad de la cultura tradicional; al mismo tiempo, las canciones excelentes en taiwanés permiten a los jóvenes comprender y apreciar el valor de la cultura tradicional.
 
-### El fortalecimiento de la confianza cultural
+### Mejora de la confianza cultural
 
-El paso de las canciones en taiwanes de ser "música de los abuelos" a convertirse en la "nueva favorita de los jóvenes bohemios" refleja el fortalecimiento de la confianza cultural de la sociedad taiwanesa. La gente ya no considera el uso de la lengua materna como una manifestación de "atraso", sino como un recurso importante para la identidad cultural y la expresión creativa.
+El paso de la canción en taiwanés de «canciones de tíos» a «nueva favorita de los hipsters» refleja la mejora de la confianza cultural de la sociedad taiwanesa. La gente ya no ve el uso de la lengua materna como signo de «retraso», sino como un recurso importante para la identidad cultural y la expresión creativa.
 
 ## Desafíos actuales y perspectivas futuras
 
-### La presión de la competencia de mercado
+### Presión de la competencia del mercado
 
-Aunque las canciones en taiwanes han recibido más atención, en la feroz competencia del mercado musical, las canciones en taiwanes aún enfrentan desafíos. Cómo ampliar la base de oyentes manteniendo sus características es una pregunta importante que los músicos de taiwanes deben considerar.
+Aunque la canción en taiwanés ha ganado más atención, en la feroz competencia del mercado musical sigue enfrentando retos. Cómo ampliar el público manteniendo la especificidad es una cuestión clave que los músicos en taiwanés deben reflexionar.
 
-### El equilibrio entre innovación y tradición
+### Equilibrio entre innovación y tradición
 
-Los músicos de taiwanes de la nueva generación enfrentan el problema del equilibrio entre innovación y tradición. Una innovación excesiva podría hacer perder las características de las canciones en taiwanes, pero un conservadurismo excesivo podría hacer que esta forma musical pierda vitalidad. Los músicos de taiwanes exitosos suelen encontrar un equilibrio ingenioso entre ambos.
+Los músicos de nueva generación en taiwanés enfrentan el problema del equilibrio entre innovación y tradición. Una innovación excesiva puede hacer perder la especificidad de la canción en taiwanés, pero un conservadurismo excesivo puede hacer perder vitalidad a esta forma musical. Los músicos en taiwanés exitosos suelen hallar un equilibrio ingenioso entre ambos polos.
 
-### La posibilidad de internacionalización
+### Posibilidad de internacionalización
 
-Con el fortalecimiento del poder blando de Taiwán y la creciente atención internacional a la diversidad cultural, las canciones en taiwanes también tienen la posibilidad de llegar al ámbito internacional. Algunas canciones en taiwanes ya han recibido atención en las comunidades de la diáspora taiwanesa en el extranjero, y se espera que en el futuro puedan expandirse a un mercado internacional más amplio.
+Con el ascenso del poder blando de Taiwán y la valoración internacional de la diversidad cultural, la canción en taiwanés tiene también la posibilidad de salir al exterior. Algunas canciones en taiwanés ya han captado atención en comunidades de taiwaneses en el extranjero, y se espera que en el futuro puedan expandirse a mercados internacionales más amplios.
 
-### Retribalización en la era del streaming
+### Re-tribilización en la era del _streaming_
 
-Las plataformas de streaming como Spotify y KKBOX han permitido que las canciones en taiwanes superen las limitaciones geográficas de la radiodifusión tradicional y las tiendas de discos. La lógica de las listas de reproducción algorítmicas ha permitido inesperadamente que los oyentes en el extranjero que entienden taiwanes encuentren fácilmente a Eggplant Egg Band o Wang Fu, y que los jóvenes en la isla de Taiwán "redescubran" a Lin Qiang o Hong Yifeng en las listas de recomendación.
-
-Los datos de streaming también han permitido cuantificar por primera vez el perfil de la audiencia de las canciones en taiwanes: qué canción tiene cuántas reproducciones en qué grupo de edad, convirtiéndose en una referencia para las discográficas al planificar nuevas direcciones creativas. A partir de la década de 2020, algunas discográficas han comenzado a decidir si lanzar versiones en taiwanes o bilingües basándose en la respuesta del streaming; la producción de versiones en taiwanes ya no es solo un gesto cultural, sino una decisión de mercado respaldada por datos.
+Plataformas como Spotify y KKBOX han permitido a la canción en taiwanés superar las limitaciones geográficas de la radio tradicional y las tiendas de discos. La lógica de listas de reproducción algorítmicas ha permitido, inesperadamente, que los oyentes de habla taiwanesa en el extranjero encuentren fácilmente a EggPlantEgg o Wonfu (旺福), y que los jóvenes de la isla redescubran a Lin Chiang (林強) o Hong Yi-feng en sus recomendaciones.
 
 ## Referencias
 
-- Jian Shangren: _Leyendas de las canciones populares taiwanesas_, Taipéi: Sociedad Agrícola
-- Zhuang Yongming: _Sentimiento rural en las canciones populares taiwanesas_, Taipéi: Editorial China Times
-- Lista de ganadores y registros de jurado del premio al mejor álbum en taiwanes de los Premios Golden Melody: https://gma.tavis.tw/
-- Base de datos de la Asociación Cultural Musical de Hong Yifeng
-- Registros oficiales de actuaciones de Jody Chiang y compilación de cobertura mediática
-- Sitio web oficial de Eggplant Egg Band: https://eggnoodleband.com/
-- Sorry Youth Band: https://sorryyouth.bandcamp.com/
-- Datos de la plataforma musical oficial de Collage
-- Colección de ponencias de la Sociedad de Investigación Cultural de la Música en Taiwanes
-- _Historia del desarrollo de las canciones en taiwanes_, publicado por el Museo Nacional de Literatura de Taiwán
-- Base de datos de programas de música en taiwanes de la cadena Hakka TV
-- Investigación temática sobre música en taiwanes de la Asociación de Intercambio de Músicos de China
+- Chuang Yung-ming, Sun Te-ming: _Taiwan ballads, local feelings_ (台灣歌謠鄉土情)
+- Sorry Youth: https://sorryyouth.bandcamp.com/
 
-[^1]: Entrada de Wikipedia "Mejor álbum en taiwanes de los Premios Golden Melody": el premio al mejor álbum en taiwanes se estableció a partir de la 16.ª edición (2005). https://zh.wikipedia.org/wiki/金曲獎最佳台語專輯
+[^1]: [Premios Golden Melody — Lista de ganadores de la 16.ª edición](https://tavis.tw/gma/35th/GMA/history_16.htm) — Mejor álbum pop en taiwanés: Jody Chiang _Amor_
 
-[^2]: Entrada de Wikipedia "Wen Xia": biografía de Wen Xia, registros de obras representativas como "Mamá, por favor, cuídate también" y "La tierra natal al atardecer". https://zh.wikipedia.org/wiki/文夏
+[^2]: [Wikipedia — Wen Hsia](https://zh.wikipedia.org/zh-tw/%E6%96%87%E5%A4%8F) — Biografía de Wen Hsia, obras representativas «Mamá, cuídate tú también», «La patria al caer la tarde», etc.
 
-[^3]: Entrada de Wikipedia "Jody Chiang": biografía de Jody Chiang y trayectoria artística, contexto del resurgimiento del mercado de canciones en taiwanes tras la levantamiento de la ley marcial. https://zh.wikipedia.org/wiki/江蕙
+[^3]: [Wikipedia — Jody Chiang](https://zh.wikipedia.org/zh-tw/%E6%B1%9F%E8%95%99) — Debut oficial el 18 de abril de 1983, primer éxito en enero de 1984 con _Costa de la despedida_ (entonces aún en ley marcial, la canción en taiwanés circulaba por mercados nocturnos); 1.ª edición de los Golden Melody (1990) mejor intérprete femenina; anunció retirada en 2015, reapareció en gala del Día Nacional el 5 de octubre de 2024, gira _Inexistente / Existente_ (無．有) en 2025
 
-[^4]: Canal musical oficial de Collage e introducción a sus creaciones. [StreetVoice](https://streetvoice.com/collage7275/) ｜ [YouTube](https://www.youtube.com/@collage7275)
+[^4]: [Agencia Central de Noticias — Cola Kai gana mejor artista novel en la 33.ª edición de los Golden Melody (2022-07-02)](https://www.cna.com.tw/news/amov/202207020191.aspx) — Dúo, vocalista Ciwasah Lariyus, guitarrista Wang Chia-chuan; lenguas: indígena, taiwanés, japonés, inglés; llamaron la atención con «Lamento de la madre compasiva entre miríadas de estambres»
 
-[^5]: Sitio web oficial de los Premios Golden Melody: registros históricos de ganadores del mejor álbum en taiwanes. https://gma.tavis.tw/
+[^5]: [Premios Golden Melody — Lista de ganadores de la 15.ª edición](https://tavis.tw/gma/35th/GMA/history_15.htm) — 15.ª edición con premios separados a mejor intérprete masculino y femenino en taiwanés, aún sin premio de álbum en taiwanés
+
+[^6]: [Taiwan Panorama — El eco que queda en el paraíso: el rey de la isla del tesoro Hong Yi-feng](https://www.taiwan-panorama.com/Articles/Details?Guid=0fc445be-4afa-4f2f-bacf-074ef1158647&CatId=7) — 1957 conoce a Yeh Chun-lin, 1957-1959 coescriben «La persona que anhelo» y otras; 1960 Asia Records publica álbum _La persona que anhelo_, junto a Wen Hsia llamados «reyes de la isla del tesoro»
+
+[^7]: [Wikipedia — Haishan Records](https://zh.wikipedia.org/zh-tw/%E6%B5%B7%E5%B1%B1%E5%94%B1%E7%89%87) — 1962 fundación de Haishan Records, impulso con bandas sonoras de ópera Huangmei; 1967 adapta canción en taiwanés «Copa de vino de amor triste» a mandarín como «Copa de vino amargo llena»
+
+[^8]: [Wikipedia — Política de la lengua nacional](https://zh.wikipedia.org/zh-tw/%E5%9C%8B%E8%AA%9E%E6%94%BF%E7%AD%96) — Desde 1946 impulso del mandarín; 1972 programas en taiwanés en TV no más de una hora diaria por cadena, canciones en taiwanés no más de dos al día; 1976 _Ley de Radiodifusión y Televisión_ establece que los dialectos deben reducirse año a año
