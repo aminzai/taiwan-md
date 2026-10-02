@@ -20,10 +20,10 @@ difficulty: 'intermediate'
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'Nature/生態多樣性.md'
-sourceCommitSha: 'd8646a2a9'
-sourceContentHash: 'sha256:768855c64ea407af'
-sourceBodyHash: 'sha256:2f867df28cee4278'
-translatedAt: '2026-09-08T00:42:54+08:00'
+sourceCommitSha: '825528805'
+sourceContentHash: 'sha256:af5bd3cc5a11c549'
+sourceBodyHash: 'sha256:7b55c8bf8318f623'
+translatedAt: '2026-10-02T02:28:54.597781+00:00'
 ---
 
 # Biodiversidade
@@ -72,19 +72,19 @@ Estas florestas não são apenas paisagens bonitas, mas o núcleo da biodiversid
 
 ## Último reduto das espécies ameaçadas
 
-### Gato-tigre: espécie indicadora do ecossistema de montanha baixa
+### Pedra-tigre: espécie indicadora dos ecossistemas de montanhas baixas
 
-O único felino nativo de Taiwan, o gato-tigre, tem estimativas de apenas cerca de 500 indivíduos restantes, principalmente distribuídos nas áreas de montanha baixa de Miao-Li, Taichung e Nantou.
+O Pedra-tigre (Felis cuon) é o único felino nativo existente em Taiwan, com uma população estimada em cerca de 500 indivíduos, distribuídos principalmente nas áreas de montanhas baixas de Miaoli, Taichung e Nantou.
 
-**Atropelamentos são a maior ameaça direta ao gato-tigre**. Segundo os dados da equipe "Ah Hu", em 2021, 25 gatos-tigre foram atropelados, com 15 casos em Miao-Li, 6 em Nantou e 2 em Taichung e Changhua. Os locais de acidentes estão principalmente ao longo dos rios Hou-Long, Zhu-Shui e Mao-Lo, evidenciando a gravidade da fragmentação do habitat. Além dos atropelamentos, ataques por cães vagabundos e doenças transmitidas entre cães e gatos são novas ameaças recentemente identificadas, com discussões completas em [Conservação do Gato-tigre de Taiwan](/pt/nature/taiwanese-leopard-cat-conservation).
+**Atropelamentos são a ameaça mais direta ao Pedra-tigre**. Segundo dados da equipe A-Tu, em 2021 foram registrados 25 casos de atropelamentos, com 15 em Miaoli, 6 em Nantou e 2 em Taichung e Changhua. Os locais de acidentes estão frequentemente próximos a rios como Houlongxi, Zhuoshuixi e Maoluxi, evidenciando a gravidade da fragmentação do habitat. Além dos atropelamentos, ataques por cães vagabundos e doenças transmitidas por cães e gatos têm se tornado ameaças crescente: registros de mordidas e a sobreposição de habitats mostram como [Conservação do Pedra-tigre de Taiwan](/pt/nature/taiwanese-leopard-cat-conservation), enquanto os cães vagabundos levam o vírus do cão para as montanhas baixas, infectando os felinos e aumentando o risco de atropelamentos, conforme detalhado em [Cultura dos animais vagabundos em Taiwan](/pt/society/stray-animal-culture).
 
-### Onça-pintada de Taiwan: o desaparecimento do rei
+### Leão-nublado de Taiwan: o rei desaparecido
 
-Em 2014, pesquisadores oficialmente anunciaram a extinção da onça-pintada de Taiwan, com o último registro confirmado de avistamento em 1983. A desaparição desta subespécie endêmica tornou-se um ponto de virada importante para a consciência da conservação da vida selvagem em Taiwan, fazendo com que a sociedade valorizasse mais as espécies ameaçadas existentes.
+Em 2014, pesquisadores declararam oficialmente a extinção do leão-nublado de Taiwan (Neofelis nebulosa taiwanensis), com o último registro confirmado em 1983. A desaparição desse subespécie endêmica marcou um ponto de virada na consciência ecológica de Taiwan, impulsionando a sociedade a priorizar a conservação das espécies ameaçadas restantes.
 
-### Urso preto de Taiwan: rei das montanhas
+### Urso-negro de Taiwan: o rei da floresta
 
-O maior mamífero terrestre de Taiwan, com estimativas atuais de 500 a 700 indivíduos. Embora protegido por lei, ainda enfrenta ameaças como fragmentação do habitat e conflitos entre humanos e ursos. Nos últimos anos, o governo e organizações civis têm promovido ativamente programas de conservação, incluindo instalação de cerca elétrica e sistemas de monitoramento.
+O urso-negro de Taiwan (Ursus thibetanus taiwanensis) é o maior mamífero terrestre da ilha, com uma população estimada entre 500 e 700 indivíduos. Apesar da proteção legal, ainda enfrenta ameaças como fragmentação do habitat e conflitos com humanos. Nos últimos anos, governos e organizações civis têm promovido programas de conservação, incluindo a instalação de cerca elétrica e a criação de sistemas de monitoramento.
 
 ## Tesouro da vida marinha
 
@@ -137,14 +137,15 @@ Desde a conservação do gato-tigre até a recuperação da garça-pintada, desd
 - [Caminhando por Taiwan - A taxa de cobertura florestal de Taiwan de 60,71% ocupa a 33ª posição global](https://tbotaiwan.com/forest-coverage/)
 - [Centro de Informações Ambientais - Relatório de atropelamentos em escala em Miao-Li](https://e-info.org.tw/node/220323)
 
-## Leituras recomendadas
+## Leitura adicional
 
-Este artigo é um resumo geral, cada espécie e ecossistema tem seu próprio artigo detalhado no site:
+Este artigo é uma visão geral; cada espécie e ecossistema tem sua própria entrada aprofundada no site:
 
-- [Conservação do Gato-tigre de Taiwan](/pt/nature/taiwanese-leopard-cat-conservation) — Como uma população de 500 indivíduos enfrenta atropelamentos, ataques por cães e fragmentação do habitat
-- [Urso preto de Taiwan](/pt/nature/taiwanese-black-bear) — O maior mamífero terrestre da ilha e os conflitos entre humanos e ursos
-- [Garça-pintada](/pt/nature/black-faced-spoonbill) — De 288 para mais de 6.000 indivíduos, como a cooperação internacional salvou uma espécie
-- [Espécies endêmicas](/pt/nature/endemic-species) — Como espécies endêmicas com proporções tão altas surgiram nesta ilha
+- [Conservação do tigre de pedra de Taiwan](/pt/nature/taiwanese-leopard-cat-conservation) — Como uma população de 500 indivíduos sofre com atropelamentos, mortes por cães e fragmentação de habitat ao mesmo tempo
+- [Cultura dos animais vagabundos em Taiwan](/pt/society/stray-animal-culture) — Depois de atingir zero mortalidades, a questão ainda sem resposta entre cães e gatos errantes e a vida selvagem nas montanhas
+- [Urso de formiga de Taiwan](/pt/nature/taiwanese-black-bear) — O maior mamífero terrestre da ilha e os confrontos entre humanos e ursos
+- [Garça-cinzenta](/pt/nature/black-faced-spoonbill) — De 288 indivíduos a mais de seis mil: como a conservação transnacional resgatou uma espécie
+- [Espécies endêmicas](/pt/nature/endemic-species) — Como uma proporção tão alta de espécies endêmicas se desenvolveu nesta ilha
 - [Ecossistema florestal de Taiwan](/pt/nature/taiwan-forest-ecosystems) — A estrutura real por trás da cobertura florestal de 60,71%
-- [Ecossistemas de montanha e glaciares de Taiwan](/pt/nature/taiwan-alpine-ecosystems-glacial-relicts) — Espécies sem para onde ir e evidências vivas do período glacial
-- [Ecossistemas marinhos e conservação de recifes de corais de Taiwan](/pt/nature/taiwan-marine-ecology-and-coral-conservation) — Situação atual dos recifes de corais que abrigam um terço das espécies do mundo
+- [Ecossistemas de montanha e restos de glaciares em Taiwan](/pt/nature/taiwan-alpine-ecosystems-glacial-relicts) — Espécies de montanha sem saída e evidências vivas do período glacial
+- [Ecossistema marinho de Taiwan e conservação de recifes de coral](/pt/nature/taiwan-marine-ecology-and-coral-conservation) — O estado atual das águas que abrigam um terço de todas as espécies de coral do mundo

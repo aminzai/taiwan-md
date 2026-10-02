@@ -1,14 +1,14 @@
 ---
-title: 'Indústria de jogos e entretenimento digital de Taiwan'
-description: 'De distribuidoras iniciais a desenvolvedoras originais, como Taiwan encontrou sua voz no mercado global de jogos'
+title: 'A Indústria de Jogos e Entretenimento Digital de Taiwan'
+description: 'De agentes iniciais a desenvolvedores originais, como Taiwan encontrou sua voz no mercado global de jogos'
 date: 2026-03-18
 category: 'Technology'
 tags:
   [
-    'Indústria de jogos',
+    'indústria de jogos',
     'entretenimento digital',
     'criatividade cultural',
-    'indústria tecnológica',
+    'tecnologia',
     'jogos independentes',
   ]
 subcategory: '半導體與硬體'
@@ -18,138 +18,138 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Technology/台灣遊戲產業與數位娛樂.md'
-sourceCommitSha: 'f712b7242'
+sourceCommitSha: '38b58ab04'
 sourceContentHash: 'sha256:431ea1bf9d43ad2f'
 sourceBodyHash: 'sha256:3075ecd0a9c35ac1'
-translatedAt: '2026-07-26T10:36:36+08:00'
+translatedAt: '2026-10-02T09:54:53+08:00'
 ---
 
-# Indústria de jogos e entretenimento digital de Taiwan
+# A Indústria de Jogos e Entretenimento Digital de Taiwan
 
-## Visão geral em 30 segundos
+## Visão Geral em 30 Segundos
 
-A indústria de jogos de Taiwan partiu da distribuição na década de 1980 e desenvolveu-se até tornar-se uma base importante de entretenimento digital. Em 2024, o valor da indústria de jogos eletrônicos e e-sports atingiu 126 bilhões de novos dólares taiwaneses (NT$), com taxa composta de crescimento anual de 4,8%. Das veteranas distribuidoras Soft-World e Gamania às desenvolvedoras originais Rayark e Red Candle Games, a indústria de jogos de Taiwan avança agora em duas frentes paralelas: «criação cultural original» e «expansão global».
+A indústria de jogos de Taiwan, que começou com a distribuição na década de 1980, evoluiu até se tornar um importante centro de entretenimento digital. Em 2024, o valor da indústria de videogames e eSports atingiu NT$ 126 bilhões (aproximadamente), com uma taxa de crescimento anual composta de 4,8%. Daos grandes distribuidores estabelecidos como Soft-World International (智冠) e Game Orange (遊戲橘子) aos desenvolvedores originais como Rayark (雷亞遊戲) e Red Velvet Games (赤燭遊戲), a indústria de jogos de Taiwan está avançando em duas frentes: "originalidade cultural" e "presença global".
 
-**Palavras-chave:** Red Candle Games, Rayark Games, Soft-World, Gamania, IP cultural de Taiwan, jogos independentes
+**Palavras-chave:** Jogos da Red Velvet Games, Jogos da Rayark, Soft-World International (智冠), Game Orange (遊戲橘子), IP Cultural de Taiwan, Jogos Independentes
 
-## Por que importa
+## Por Que É Importante
 
-A ascensão da indústria de jogos de Taiwan simboliza a transformação da «mentalidade de fabricação por encomenda» para a «economia criativa». Enquanto a indústria de semicondutores se destaca pelo hardware, a indústria de jogos projeta-se pelo soft power — combinando o patrimônio cultural, o gosto estético e a capacidade técnica de Taiwan para criar conteúdos digitais únicos.
+A ascensão da indústria de jogos de Taiwan simboliza a transição do "mindset de manufatura" para a "economia criativa". Enquanto a fabricação de semicondutores se destaca pelo hardware, a indústria de jogos avança com poder soft — combinando o substrato cultural, o gosto estético e a capacidade técnica de Taiwan para criar conteúdo digital único.
 
-_Detention_ (返校) fez o mundo conhecer a história da lei marcial de Taiwan; _Cytus_ conquistou jogadores globais com seu jogo de ritmo musical. Essas obras possuem simultaneamente valor de entretenimento e poder de difusão cultural, permitindo que Taiwan conte suas histórias ao mundo através da linguagem dos jogos. Na era da IA e do metaverso, a indústria de jogos torna-se também um importante campo de experimentação para a integração real-virtual e experiências imersivas.
+Jogos como _Back to School_ (返校) mostraram ao mundo a história da repressão em Taiwan, enquanto _Cytus_ conquistou jogadores globais com um jogo musical. Essas obras possuem valor de entretenimento e poder de disseminação cultural, permitindo que Taiwan conte sua história para o mundo através da linguagem dos jogos. Na era da IA e do metaverso, a indústria de jogos tornou-se um importante campo experimental para explorar a integração entre o virtual e o real.
 
-## Panorama e escala da indústria
+## Panorama e Escala da Indústria
 
-### Dados de mercado
+### Dados de Mercado
 
-Segundo o _PwC Global Entertainment & Media Outlook 2024-2028_ [^1], a indústria taiwanesa de jogos eletrônicos e e-sports atingiu US$ 3,886 bilhões (aproximadamente NT$ 126 bilhões) em 2024. Os jogadores taiwaneses têm alta taxa de pagamento; embora o mercado local seja pequeno, a tendência de adoção precoce de novidades atrai desenvolvedoras internacionais a testarem suas águas em Taiwan.
+De acordo com o relatório _Global Entertainment & Media Outlook 2024_ da PwC [^1], o valor da indústria de videogames e eSports de Taiwan em 2024 foi de US$ 3,886 bilhões (aproximadamente NT$ 126 bilhões). Os jogadores de Taiwan têm uma alta taxa de pagamento; embora o mercado local seja pequeno, ele atrai empresas de jogos internacionais para testes devido à tendência precoce de adoção de novidades.
 
-A taxa composta de crescimento anual do mercado de jogos de Taiwan para 2022-2027 estima-se em 4,8%, projetando um valor de aproximadamente US$ 4,464 bilhões em 2027 (relatório PwC 2024 [^1]). Comparado ao mercado global de jogos de aproximadamente US$ 184,3 bilhões em 2024 (relatório Newzoo 2024 [^2]), Taiwan, com menos de 0,4% da população mundial, contribui com mais de 2% do valor de mercado global.
+A taxa de crescimento anual composta do mercado de jogos de Taiwan entre 2022 e 2027 é estimada em 4,8%, com um valor previsto de US$ 4,464 bilhões em 2027 (relatório PwC 2024 [^1]). Em comparação com o mercado global de jogos de cerca de US$ 184,3 bilhões em 2024 (relatório Newzoo 2024 [^2]), Taiwan contribui com mais de 2% do valor de mercado com menos de 0,4% da população mundial.
 
-### Estrutura da indústria
+### Estrutura da Indústria
 
-A indústria de jogos de Taiwan divide-se em três grandes tipos:
+A indústria de jogos de Taiwan pode ser dividida em três tipos:
 
-**Grandes distribuidoras:** Soft-World (fundada em 1983 [^6]), Gamania (fundada em 1999), International Games System (IGS) etc., dedicam-se principalmente à distribuição, publicação e operação de plataformas de jogos.
+**Grandes Distribuidores:** Soft-World International (智冠) (fundada em 1983 [^6]), Game Orange (遊戲橘子) (fundada em 1999), e Esonics (鈊象電子), que se concentram na distribuição de jogos e operação de plataformas.
 
-**Desenvolvedoras originais:** Rayark Games, Red Candle Games, Coconut Island Games etc., focam em P&D próprio e criação de IP.
+**Desenvolvedores Originais:** Rayark (雷亞遊戲), Red Velvet Games (赤燭遊戲), e Jia Shanlin Entertainment (甲山林娛樂), focados em P&D autônomo e criação de IP.
 
-**Estúdios independentes:** Centenas de pequenas equipes publicam obras originais no Steam e em plataformas móveis, formando um ecossistema ativo de jogos independentes.
+**Estúdios Independentes:** Centenas de pequenas equipes que lançam obras originais em plataformas como Steam e móveis, formando um ecossistema vibrante de jogos independentes.
 
-## Da distribuição à originalidade: evolução da indústria
+## Evolução da Indústria: Da Distribuição à Originalidade
 
-### Era da originalidade e distribuição (1980-2000s)
+### Era da Distribuição e Originalidade (Anos 80-2000)
 
-A indústria de jogos de Taiwan originou-se no negócio de distribuição. A Softstar Entertainment (atualmente renomeada para Optodisc Technology) foi fundada em 1988 e lançou em 1990 o primeiro RPG em ambiente chinês, _The Legend of Sword and Fairy_ (軒轅劍). Em 1995 lançou _Chinese Paladin_ (仙劍奇俠傳), estabelecendo a marca das «duas espadas» da Softstar. A Soft-World, fundada em 1983, tornou-se o maior canal de software de jogos de Taiwan, tendo distribuído _World of Warcraft_ por 10 anos, passando depois a desenvolver jogos próprios. A Gamania começou distribuindo jogos online coreanos, trazendo ao mercado taiwanês clássicos como _Lineage_ e _MapleStory_.
+A indústria de jogos de Taiwan começou com o serviço de distribuição. Dayu Information (大宇資訊), renomeada posteriormente como Guangju Crystal Electronics Co., Ltd. (光聚晶電聯合股份有限公司), foi fundada em 1988 e lançou a primeira série de RPGs ambientados em chinês, _Xuanyuan Sword_ (軒轅劍), em 1990. Em seguida, lançaram _Tales of the Immortal_ (仙劍奇俠傳) em 1995, estabelecendo o selo Dayu para espadas. Na mesma época, Soft-World International (智冠), após sua fundação em 1983, tornou-se a maior distribuidora de software de jogos em Taiwan e distribuiu _World of Warcraft_ por dez anos. Posteriormente, começaram a desenvolver jogos próprios. Game Orange (遊戲橘子) começou com a distribuição de MMORPGs coreanos, introduzindo clássicos como _Lineage_ (天堂) e _MapleStory_ (楓之谷) no mercado taiwanês.
 
-Esta fase construiu a infraestrutura da indústria de jogos de Taiwan: canais de distribuição, comunidades de jogadores, tecnologia de operação, mas a energia criativa vinha principalmente do exterior.
+Esta fase estabeleceu a infraestrutura da indústria de jogos de Taiwan: canais de distribuição, comunidades de jogadores e tecnologia operacional, mas a energia criativa vinha principalmente do exterior.
 
-### Período de transição (2000-2010s)
+### Período de Transição (Anos 2000-2010)
 
-Com o surgimento dos jogos online, as empresas taiwanesas começaram a tentar desenvolvimento próprio. A IGS estabeleceu vantagem na área de jogos de apostas; a Softstar Technology (posteriormente adquirida pela Soft-World) lançou vários jogos online locais.
-Quanto a temáticas, surgiram obras além do wuxia, como a série _Growlanser_ (風色幻想) da HongYu Technology, que trilhou caminho próprio com estilo japonês e ambientação fantástica.
-Contudo, as obras originais desta época imitavam sobretudo modelos de sucesso estrangeiros, carecendo de identificação cultural única. O verdadeiro avanço aguardaria a próxima geração.
+Com o surgimento dos jogos online, as empresas taiwanesas começaram a tentar o desenvolvimento autônomo. Esonics (鈊象電子) estabeleceu uma vantagem no campo de jogos de azar, e Soft World (後被智冠收購) lançou vários jogos online locais.
+Temas além do Wuxia também começaram a aparecer, como a série _Wind Color Fantasy_ (風色幻想) da Hongyu Technology (弘煜科技), que seguiu uma rota diferente com um estilo japonês e ambientações de fantasia.
+No entanto, as obras originais deste período muitas vezes imitavam modelos de sucesso estrangeiros, carecendo de identidade cultural única. O verdadeiro avanço viria na próxima geração.
 
-### Ascensão da originalidade (2010s até hoje)
+### Ascensão da Originalidade (Anos 2010 até hoje)
 
-A partir dos anos 2010, Taiwan viu surgir obras verdadeiramente originais e com características culturais:
+A partir da década de 2010, surgiram trabalhos de jogos em Taiwan que possuíam verdadeira originalidade e características culturais:
 
-**Rayark Games**, fundada em 2011, lançou _Cytus_, _Deemo_ e outros jogos de ritmo musical, conquistando jogadores globais com design visual refinado e música elegante. Suas obras contêm profunda base artística e enredo original, exibindo o gosto único de Taiwan na estética digital.
+**Rayark (雷亞遊戲)** foi fundada em 2011 e lançou jogos rítmicos como _Cytus_ (Cytus) e _Deemo_, conquistando jogadores globais com seu design visual refinado e música elegante. Seus trabalhos contêm um rico substrato artístico e narrativas originais, demonstrando o gosto único de Taiwan na estética digital.
 
-**Red Candle Games**, fundada em 2015, ficou conhecida pelos jogos de terror e aventura _Detention_ e _Devotion_. Estas obras exploram profundamente a história e cultura taiwanesas, transformando a memória coletiva do período da lei marcial e as crenças folclóricas taiwanesas em experiência de jogo, permitindo que jogadores estrangeiros conheçam Taiwan através do entretenimento interativo. _Detention_ acumula vendas globais superiores a um milhão de cópias e foi adaptado para filme homônimo em 2019.
+**Red Velvet Games (赤燭遊戲)** foi fundada em 2015 e ficou famosa por jogos de terror como _Back to School_ (返校) e _Reunion_ (還願). Essas obras exploram profundamente a história e cultura de Taiwan, transformando a memória coletiva do período da repressão e as crenças folclóricas taiwanesas em experiências de jogo, permitindo que jogadores estrangeiros conheçam Taiwan através do entretenimento interativo. _Back to School_ vendeu mais de um milhão de cópias globalmente e foi adaptado para um filme com o mesmo nome em 2019.
 
-## Características culturais dos jogos de Taiwan
+## Características Culturais dos Jogos Taiwaneses
 
-### Digitalização da memória histórica
+### Digitalização da Memória Histórica
 
-_Detention_ tem como pano de fundo o Terror Branco dos anos 1960, apresentando através de atmosfera de terror escolar a opressão sob o regime autoritário. _Devotion_ retrata uma família taiwanesa dos anos 1980, usando elementos de religião popular para envolver a ansiedade da metrópole moderna. Estas obras convertem a experiência histórica única de Taiwan em conteúdo digital experienciável.
+_Back to School_, ambientado no Terror Branco da década de 1960, apresenta a repressão sob o domínio autoritário através da atmosfera de terror escolar. _Reunion_ (還願) retrata as famílias taiwanesas dos anos 80, embalando a ansiedade da vida urbana moderna com elementos religiosos folclóricos. Essas obras transformam experiências históricas exclusivas de Taiwan em conteúdo digital experienciável.
 
-### Estética musical e visual
+### Estética Musical e Visual
 
-O sucesso da Rayark Games demonstra a vantagem de Taiwan na área de jogos musicais. A série _Cytus_ é um álbum de música eletrônica interativo; enquanto batível: o jogador, ao golpear os nós rítmicos, desbloqueia progressivamente a narrativa. Seu design visual funde ficção científica e estética oriental, formando um estilo único de «zen digital».
+O sucesso da Rayark (雷亞遊戲) demonstra a vantagem de Taiwan no campo dos jogos musicais. A série _Cytus_ é um álbum de música eletrônica interativo, onde os jogadores podem desbloquear narrativas seção por seção enquanto batem nos pontos rítmicos. Seu design visual funde ficção científica e estética oriental, formando um estilo único de "zen digital".
 
-### Pequeno e belo: o refinamento artesanal
+### Refinamento do Pequeno e Belo (Xiao Er Mei)
 
-Diferente das superproduções 3A euro-americanas ou da produção em massa comercializada do Japão e Coreia, os jogos de Taiwan adotam majoritariamente a via «pequena e bela». Orçamentos limitados forçam os desenvolvedores a concentrar-se em criatividade e estética, criando paradoxalmente valor artístico único.
+Em comparação com as produções AAA das grandes empresas ocidentais ou a produção em massa comercial da Coreia/Japão, os jogos taiwaneses tendem ao caminho do "pequeno e belo". O orçamento limitado força os desenvolvedores a se concentrarem na criatividade e estética, o que, por sua vez, cria um valor artístico único.
 
-## Inovação tecnológica e colaboração intersetorial
+## Inovação Tecnológica e Cooperação Interdisciplinar
 
-### Desenvolvimento de IP transmídia
+### Desenvolvimento de IP Multimídia
 
-_Detention_ foi adaptado com sucesso para filme e série, abrindo o valor transmídia de IP de jogos taiwaneses. Este modelo de «um peixe, vários pratos» maximiza o valor comercial do conteúdo original e prova que jogos podem tornar-se força motriz central da indústria cultural.
+_Back to School_, ao ser adaptado com sucesso para filmes e séries, abriu o valor multimídia do IP de jogos de Taiwan. Este modelo de "um peixe, muitos pratos" maximiza o valor comercial do conteúdo original e prova que os jogos podem ser um motor central da indústria cultural.
 
-### Aplicação de tecnologia VR/AR
+### Aplicação de Tecnologias VR/AR
 
-Empresas taiwanesas continuam expandindo aplicações de tecnologias emergentes: a UVT entrou no desenvolvimento de jogos VR; a Digital Kingdom colabora com HTC Vive na produção de conteúdo VR, estendendo a vantagem na fabricação de hardware para o lado do software.
+As empresas taiwanesas continuam a expandir as aplicações de novas tecnologias; Yujun Autin (宇峻奧汀) entrou no desenvolvimento de jogos VR, e Digital Kingdom cooperou com HTC Vive para produzir conteúdo VR, estendendo a vantagem da fabricação de hardware para o lado do software.
 
-### Desenvolvimento assistido por IA
+### Desenvolvimento Auxiliado por IA
 
-Com o surgimento da IA generativa, desenvolvedoras taiwanesas começam a integrar ferramentas de IA ao fluxo de desenvolvimento, empregando-as em design de personagens, geração de roteiro, depuração de código etc., elevando a eficiência de desenvolvimento.
+Com o surgimento da IA generativa, as empresas de jogos taiwanesas começaram a integrar ferramentas de IA em seus processos de desenvolvimento, usadas em áreas como design de personagens, geração de enredo e depuração de código, aumentando a eficiência do desenvolvimento.
 
-## Desafios e oportunidades
+## Desafios e Oportunidades
 
-### Talentos e capital
+### Talentos e Financiamento
 
-A indústria de jogos de Taiwan enfrenta o duplo desafio de fuga de talentos e insuficiência de capital. Muitos excelentes desenvolvedores são atraídos por altos salários na China, Singapura e outros lugares, enquanto o ambiente de investimento local oferece suporte limitado a esta indústria de alto risco e longo ciclo.
+A indústria de jogos de Taiwan enfrenta o duplo desafio da fuga de cérebros e da insuficiência de financiamento. Muitos desenvolvedores talentosos são recrutados com salários altos por empresas na China ou Singapura, enquanto o ambiente de investimento local oferece suporte limitado para uma indústria de alto risco e longo prazo como os jogos.
 
-### Competição no mercado internacional
+### Competição no Mercado Internacional
 
-A competição no mercado global de jogos é intensa; as empresas taiwanesas devem encontrar seu posicionamento entre a vantagem tecnológica dos EUA, a força de IP do Japão e a escala de produção da Coreia. Características culturais e diferenciação criativa tornam-se a competitividade-chave.
+O mercado global de jogos é altamente competitivo; as empresas taiwanesas devem encontrar seu próprio lugar entre a vantagem tecnológica dos EUA, a força do IP japonês e a escala de produção coreana. A diferenciação cultural e criativa se tornou uma vantagem competitiva chave.
 
-### Apoio político
+### Apoio Governamental
 
-O Ministério do Desenvolvimento Digital [^3] incluiu a indústria de jogos no escopo de fomento da indústria de conteúdo digital, oferecendo subsídios para P&D tecnológico e apoio à promoção internacional. O Instituto de Estratégia de Conteúdo Cultural de Taiwan (TAICCA) [^4] também impulsiona planos de incubação de IP original, auxiliando empresas no desenvolvimento de conteúdos com valor cultural.
+O Departamento de Desenvolvimento Digital [^3] incluiu a indústria de jogos no escopo de consultoria de conteúdo digital, fornecendo subsídios para P&D e apoio ao marketing internacional. O Taiwan Creative Content Agency (TAICCA) [^4] também promove planos de incubação de IP original, ajudando as empresas a desenvolverem conteúdos com valor cultural.
 
-## Perspectivas futuras
+## Perspectivas Futuras
 
-### Metaverso e integração real-virtual
+### Metaverso e Integração Realidade-Realidade
 
-Com o surgimento do conceito de metaverso, desenvolvedoras taiwanesas começam a explorar modelos de negócio de integração real-virtual. Combinando a dupla vantagem de Taiwan na fabricação de hardware e desenvolvimento de software, há oportunidade de estabelecer competitividade no campo de experiências imersivas.
+Com o surgimento do conceito de metaverso, as empresas de jogos taiwanesas começaram a explorar modelos de negócios de integração realidade-realidade. Combinando a dupla vantagem de Taiwan na fabricação de hardware e desenvolvimento de software, há potencial para construir competitividade no campo da experiência imersiva.
 
-### Veículo digital de exportação cultural
+### Veículo Digital de Exportação Cultural
 
-Jogos de Taiwan estão se tornando importante veículo de exportação cultural. Através dos jogos — essa linguagem de entretenimento globalmente compreensível — Taiwan pode contar suas próprias histórias e difundir seus próprios valores ao mundo.
+Os jogos de Taiwan estão se tornando um importante veículo de exportação cultural. Através dos jogos — uma linguagem de entretenimento globalmente compreendida —, Taiwan pode contar sua história e disseminar seus valores ao mundo.
 
-### Aperfeiçoamento do ecossistema industrial
+### Aperfeiçoamento do Ecossistema Industrial
 
-De ferramentas de desenvolvimento, plataformas de distribuição a eventos de e-sports, a infraestrutura da indústria de jogos de Taiwan está tomando forma. Quando o ecossistema estiver mais completo, poderá atrair mais talentos criativos para este campo.
+A infraestrutura da indústria de jogos de Taiwan, desde ferramentas de desenvolvimento até plataformas de distribuição e eventos de eSports, está se formando. Quando o ecossistema estiver mais completo, poderá atrair mais talentos criativos para a área.
 
-Embora a indústria de jogos de Taiwan tenha começado tarde e seja de escala menor, graças a sua perspectiva cultural única e qualidade de produção refinada, já firmou sua posição no mercado global. De ilha de fabricação por encomenda a base criativa, Taiwan está se redefinindo no mundo através do entretenimento digital.
+Embora a indústria de jogos de Taiwan tenha começado tardiamente e seja pequena em escala, ela estabeleceu seu lugar no mercado global com sua perspectiva cultural única e qualidade de produção refinada. De uma ilha manufatureira a um centro criativo, Taiwan está redefinindo seu papel no mundo através do entretenimento digital.
 
 ## Referências
 
-[^1]: [PwC — Global Entertainment & Media Outlook 2024-2028](https://www.pwc.com/gx/en/industries/tmt/media/outlook.html) — Valor da indústria taiwanesa de jogos eletrônicos e e-sports em 2024: US$ 3,886 bilhões (aprox. NT$ 126 bilhões); previsão para 2027: US$ 4,464 bilhões
+[^1]: [PwC — Global Entertainment & Media Outlook 2024-2028](https://www.pwc.com/gx/en/industries/tmt/media/outlook.html) — Valor da indústria de videogames e eSports de Taiwan em 2024: US$ 3,886 bilhões (aproximadamente NT$ 126 bilhões); valor previsto para 2027: US$ 4,464 bilhões
 
-[^2]: [Newzoo — Global Games Market Report 2024](https://newzoo.com/resources/rankings/top-10-largest-games-markets-in-the-world/) — Mercado global de jogos em 2024: aproximadamente US$ 184,3 bilhões; leve ajuste em relação à previsão de 2023
+[^2]: [Newzoo — Global Games Market Report 2024](https://newzoo.com/resources/rankings/top-10-largest-games-markets-in-the-world/) — Valor do mercado global de jogos em 2024: cerca de US$ 184,3 bilhões; pequeno ajuste em relação à previsão de 2023
 
-[^3]: [Agência de Indústria Digital do Ministério do Desenvolvimento Digital](https://moda.gov.tw/) — Dados estatísticos de fomento às indústrias de jogos e conteúdo digital de Taiwan
+[^3]: [Agência de Indústria Digital do Departamento de Desenvolvimento Digital](https://moda.gov.tw/) — Dados estatísticos sobre a indústria de jogos e conteúdo digital de Taiwan
 
-[^4]: [Instituto de Estratégia de Conteúdo Cultural de Taiwan (TAICCA)](https://taicca.tw/) — Planos de incubação de IP original, relatórios de pesquisa da indústria de jogos
+[^4]: [Taiwan Creative Content Agency (TAICCA)](https://taicca.tw/) — Planos de incubação de IP original, relatórios de pesquisa da indústria de jogos
 
-[^5]: [LnData — _Relatório de Análise de Dados da Indústria de Jogos e E-sports 2024_](https://www.lndata.com/explore/trending/article/2024-game-industry-analysis) — Análise do tamanho do mercado de jogos e e-sports de Taiwan
+[^5]: [LnData — Relatório de Análise do Mercado de Jogos e eSports 2024](https://www.lndata.com/explore/trending/article/2024-game-industry-analysis) — Análise da escala do mercado de jogos e eSports de Taiwan
 
-[^6]: [Soft-World International — Site oficial](https://www.soft-world.com/) — Fundada em 1983, importante canal de software de jogos nos primórdios de Taiwan (nota: _Wikipédia em inglês_ regista listagem na TWSE em 2001; a alegação de «primeira empresa de jogos a abrir capital» carece de fonte confirmada)
+[^6]: [Soft-World International (智冠科技) - Website Oficial](https://www.soft-world.com/) — Fundada em 1983, importante distribuidora de software de jogos inicial de Taiwan (Nota: A Wikipédia em inglês menciona o IPO TWSE em 2001; a afirmação de ser a "primeira empresa listada de jogos" não tem fonte confirmada)
 
-[^7]: [Rayark Games — Site oficial](https://rayark.com/zh/) — Obras originais de jogos musicais como _Cytus_, _Deemo_
+[^7]: [Rayark (雷亞遊戲) - Website Oficial](https://rayark.com/zh/) — Obras originais de jogos musicais como _Cytus_ e _Deemo_
 
-[^8]: [Optodisc Technology (ex-Softstar Entertainment) — Wikipédia](https://zh.wikipedia.org/w/index.php?title=%E5%85%89%E8%81%9A%E6%99%B6%E9%9B%BB%E8%81%AF%E5%90%88&oldformat=true) — Fundada em 1988, desenvolvedora original de _The Legend of Sword and Fairy_, _Chinese Paladin_
+[^8]: [Guangju Crystal Electronics Co., Ltd. (光聚晶電聯合) - Wikipédia](https://zh.wikipedia.org/w/index.php?title=%E5%85%89%E8%81%9A%E6%99%B6%E9%9B%BB%E8%81%AF%E5%90%88&oldformat=true) — Fundada em 1988, desenvolvedora original de _Xuanyuan Sword_ e _Tales of the Immortal_
