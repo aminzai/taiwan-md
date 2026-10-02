@@ -124,7 +124,7 @@ En la misma cadena de suministro, al subir hacia el extremo del consumidor, el g
 | ----------------------------------- | ----------------------- | ----------------------- | ------------------------ |
 | Hon Hai (ensamblaje de iPhone)      | 8,1 billones de TWD     | 189.400 millones de TWD | 2,3%                     |
 | Apple (venta de iPhone)             | 416.200 millones de USD | 1.120 millones de USD   | 26,9%                    |
-| TSMC (fabricación de chips)         | 122.400 millones de USD | 551 millones de USD     | 45,0%                    |
+| TSMC (fabricación de chips)         | 122.400 millones de USD | 55.100 millones de USD  | 45,0%                    |
 | NVIDIA (contar historias)           | 215.900 millones de USD | 1.201 millones de USD   | 55,6%                    |
 
 _Datos: Hon Hai y Apple para el ejercicio fiscal 2025; NVIDIA para FY2026 (hasta enero de 2026); TSMC para 2025, extraídos de los informes financieros de cada empresa (cruzados con las tablas de informes de Wikipedia)[^5][^6][^11]._
