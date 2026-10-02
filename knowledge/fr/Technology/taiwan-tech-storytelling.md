@@ -38,9 +38,9 @@ rationale:
 sporeLinks: []
 curation: 'incubating'
 translatedFrom: 'Technology/台灣科技說故事.md'
-sourceCommitSha: '6d762f5ac'
-sourceContentHash: 'sha256:7e79f4d7834c55c1'
-sourceBodyHash: 'sha256:e24305e511c42507'
+sourceCommitSha: '18585807'
+sourceContentHash: 'sha256:056a94a81916a22b'
+sourceBodyHash: 'sha256:805b10284be61867'
 translatedAt: '2026-09-12T05:28:17+08:00'
 ---
 
@@ -104,13 +104,13 @@ _HTC Dream (T-Mobile G1), 2008. Photo : Marcus Sümnick, CC BY 3.0. [Licence via
 
 Le drame de HTC n'est pas un cas isolé, il a des preuves graphiques.
 
-En 1992, Shih Ming-deh a tracé la « Courbe en souriante » dans _Rebuilding Acer_ : la R&D et la marque sont aux deux extrémités, où la valeur est la plus élevée ; la fabrication est au milieu, où la valeur est la plus faible[^4]. Les Taïwanais ont tracé cette carte eux-mêmes, puis, pendant les trente années suivantes, le gros des forces technologiques taïwanaises est resté coincé au point le plus bas de la courbe : Foxconn assemble les iPhones pour Apple, avec une marge brute qui n'a été que sur un chiffre pendant des années. Apple s'approprie la majeure partie des profits de toute l'industrie du smartphone ; les sommets des études de marché estiment qu'ils dépassent 80 %[^11].
+En 1992, Stan Shih a tracé la « Courbe en souriante » dans _Rebuilding Acer_ : la R&D et la marque sont aux deux extrémités, où la valeur est la plus élevée ; la fabrication est au milieu, où la valeur est la plus faible[^4]. Les Taïwanais ont tracé cette carte eux-mêmes, puis, pendant les trente années suivantes, le gros des forces technologiques taïwanaises est resté coincé au point le plus bas de la courbe : Foxconn assemble les iPhones pour Apple, avec une marge brute qui n'a été que sur un chiffre pendant des années. Apple s'approprie la majeure partie des profits de toute l'industrie du smartphone ; les sommets des études de marché estiment qu'ils dépassent 80 %[^11].
 
 [TSMC](/fr/economy/tsmc/) est l'exception. En suivant la règle de « ne pas concevoir ses propres produits », il a transformé la sous-traitance en une affaire qui tient les deux extrémités : les clients ne peuvent pas se passer de lui, et il n'a pas besoin de rivaliser avec les clients pour la崇拜 des consommateurs. Mais cette affaire est fondée sur la confiance B2B, sans besoin de raconter des histoires au grand public. La discrétion de TSMC est une stratégie commerciale ; la contrepartie est que l'endroit où Taïwan fabrique le mieux les puces est précisément celui qui a le moins besoin de s'entraîner à raconter des histoires.
 
 Il y a eu des tentatives pour atteindre l'extrémité droite. ASUS a créé la marque secondaire ROG (Republic of Gamers) en 2006, transformant les joueurs d'e-sport en une communauté reconnaissant le logo ; l'« Œil du vainqueur » est l'un des logos les plus reconnaissables dans le matériel d'e-sport mondial[^15]. Mais ROG est une minorité : la plupart des logos des entreprises taïwanaises n'osent même pas être agrandis sur la face avant du produit.
 
-Sur l'extrémité droite de la courbe, Taïwan y est déjà monté. Acer a été l'un des trois plus grands marques de PC au monde, les cinq lettres « Acer » étant collées sur les portes d'embarquement des aéroports du monde entier. Mais les marges des PC sont trop fines, au point que le prime de marque ne peut pas supporter le poids de l'extrémité droite. ROG prouve que l'on peut tenir debout à l'extrémité droite, il suffit de choisir le bon champ de bataille.
+Sur l'extrémité droite de la courbe, Taïwan y est déjà monté. Acer a été l'un des trois plus grands marques de PC au monde, les quatre lettres « Acer » étant collées sur les portes d'embarquement des aéroports du monde entier. Mais les marges des PC sont trop fines, au point que le prime de marque ne peut pas supporter le poids de l'extrémité droite. ROG prouve que l'on peut tenir debout à l'extrémité droite, il suffit de choisir le bon champ de bataille.
 
 La chose la plus cruelle de la courbe en souriante est qu'il s'agit d'un choix non révisé depuis trente ans. Il y a trente ans, Taïwan a choisi de se placer au milieu, car c'était la réponse la plus raisonnable à l'époque : pas de fonds, pas de marque, pas de marché, la sous-traitance était la seule voie de survie. Le véritable danger est de continuer à considérer la réponse raisonnable d'il y a trente ans comme la réponse d'aujourd'hui.
 
@@ -155,7 +155,7 @@ Le problème n'a donc jamais été le talent. Le problème est que la structure 
 ![Image vidéo de Morris Chang en tant que représentant des chefs d'État à la réunion des chefs d'État économiques APEC 2021, photo officielle du Bureau présidentiel](/article-images/technology/morris-chang-apec-2021.webp)
 _Morris Chang à la réunion des chefs d'État économiques APEC 2021. Photo : Wang Yu Ching / Bureau présidentiel, CC BY 2.0. [Licence via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2021-11-12_Morris_Chang_represented_Taiwan_on_APEC_Economic_Leaders%27_Meeting.jpg)._
 
-Shih Ming-deh a tracé la courbe en souriante en vendant aussi un concept : un concept a fait en sorte que sa philosophie de gestion d'entreprise soit citée dans toutes les écoles de commerce du monde.
+Stan Shih a tracé la courbe en souriante en vendant aussi un concept : un concept a fait en sorte que sa philosophie de gestion d'entreprise soit citée dans toutes les écoles de commerce du monde.
 
 Jensen Huang est né à Tainan, parti aux États-Unis à l'âge de neuf ans[^13]. Lisa Su est née à Tainan, partie aux États-Unis avec sa famille à l'âge de trois ans[^14]. Les deux personnes qui racontent le mieux les histoires des semi-conducteurs au monde sont des graines de Taïwan, cultivées dans le sol américain.
 
@@ -232,7 +232,7 @@ Cet article utilise 5 images sous licence CC, mises en cache dans `public/articl
 
 [^3]: [Wikipedia — HTC Dream](https://en.wikipedia.org/wiki/HTC_Dream) — Premier smartphone Android au monde en 2008
 
-[^4]: [Wikipedia — Courbe en souriante](https://zh.wikipedia.org/wiki/%E5%BE%AE%E7%AC%91%E6%9B%B2%E7%B7%9A) — Proposée par Shih Ming-deh en 1992 dans _Rebuilding Acer_
+[^4]: [Wikipedia — Courbe en souriante](https://zh.wikipedia.org/wiki/%E5%BE%AE%E7%AC%91%E6%9B%B2%E7%B7%9A) — Proposée par Stan Shih en 1992 dans _Rebuilding Acer_
 
 [^4b]: [Wikipedia — MediaTek](https://zh.wikipedia.org/wiki/%E8%81%AF%E7%99%BC%E7%A7%91%E6%8A%80) — L'un des plus grands fournisseurs mondiaux de SoC pour smartphones en termes de volume d'expéditions ; parts de marché d'environ 70 % dans les puces pour téléviseurs
 

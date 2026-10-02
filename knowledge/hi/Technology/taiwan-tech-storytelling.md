@@ -38,9 +38,9 @@ rationale:
 sporeLinks: []
 curation: 'incubating'
 translatedFrom: 'Technology/台灣科技說故事.md'
-sourceCommitSha: '6d762f5ac'
-sourceContentHash: 'sha256:7e79f4d7834c55c1'
-sourceBodyHash: 'sha256:e24305e511c42507'
+sourceCommitSha: '18585807'
+sourceContentHash: 'sha256:056a94a81916a22b'
+sourceBodyHash: 'sha256:805b10284be61867'
 translatedAt: '2026-10-03T00:49:25+08:00'
 ---
 

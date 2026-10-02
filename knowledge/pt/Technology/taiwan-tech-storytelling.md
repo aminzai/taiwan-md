@@ -38,9 +38,9 @@ rationale:
 sporeLinks: []
 curation: 'incubating'
 translatedFrom: 'Technology/台灣科技說故事.md'
-sourceCommitSha: '6d762f5ac'
-sourceContentHash: 'sha256:7e79f4d7834c55c1'
-sourceBodyHash: 'sha256:e24305e511c42507'
+sourceCommitSha: '18585807'
+sourceContentHash: 'sha256:056a94a81916a22b'
+sourceBodyHash: 'sha256:805b10284be61867'
 translatedAt: '2026-09-12T19:57:16+08:00'
 ---
 
@@ -110,7 +110,7 @@ A [TSMC](/pt/economy/tsmc/) é a exceção. Apoiada na regra de "não desenhar o
 
 Também não é ninguém que virou para a ponta direita. A ASUS em 2006 cria a sub-marca ROG (Republic of Gamers), cultiva jogadores de _esports_ numa comunidade que reconhece a marca, o "olho da perdição" é uma das marcas mais reconhecidas globalmente em _hardware_ gaming[^15]. Mas ROG é minoria: a maioria das empresas taiwanesas nem na frente do produto ousa ampliar a própria marca.
 
-A ponta direita da curva, Taiwan de facto já lá esteve. A Acer já foi top 3 global de marcas PC, as cinco letras Acer colaram-se nas portas de embarque de aeroportos pelo mundo inteiro. Mas a margem do PC era demasiado fina, fina a ponto de o _brand premium_ não aguentar o peso da ponta direita. A ROG prova que a ponta direita se alcança, basta escolher o campo de batalha certo.
+A ponta direita da curva, Taiwan de facto já lá esteve. A Acer já foi top 3 global de marcas PC, as quatro letras Acer colaram-se nas portas de embarque de aeroportos pelo mundo inteiro. Mas a margem do PC era demasiado fina, fina a ponto de o _brand premium_ não aguentar o peso da ponta direita. A ROG prova que a ponta direita se alcança, basta escolher o campo de batalha certo.
 
 O mais cruel da Curva do Sorriso é ser uma questão de escolha que ninguém refez há trinta anos. Trinta anos atrás Taiwan escolheu ficar no meio, porque era a resposta mais razoável na altura: sem capital, sem marca, sem mercado, _foundry_ era a única saída. O verdadeiramente perigoso é continuar a tratar a resposta razoável de trinta anos atrás como a resposta de hoje.
 

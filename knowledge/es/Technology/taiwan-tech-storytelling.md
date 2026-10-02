@@ -38,9 +38,9 @@ rationale:
 sporeLinks: []
 curation: 'incubating'
 translatedFrom: 'Technology/台灣科技說故事.md'
-sourceCommitSha: '6d762f5ac'
-sourceContentHash: 'sha256:7e79f4d7834c55c1'
-sourceBodyHash: 'sha256:e24305e511c42507'
+sourceCommitSha: '18585807'
+sourceContentHash: 'sha256:056a94a81916a22b'
+sourceBodyHash: 'sha256:805b10284be61867'
 translatedAt: '2026-09-14T22:35:21+08:00'
 ---
 
@@ -110,7 +110,7 @@ En 1992, Stan Shih dibujó en _Reinventar Acer_ la «Curva de Sonrisa»: la I+D 
 
 Tampoco faltaron quienes llegaron al extremo derecho. ASUS creó la marca secundaria ROG (Republic of Gamers) en 2006, convirtiendo a los jugadores de videojuegos en una comunidad que reconoce la marca; el «Ojo de la Oca» (败家之眼) es uno de los logotipos de hardware de juegos más reconocibles del mundo[^15]. Pero ROG es una minoría: la mayoría de las marcas taiwanesas ni siquiera se atreven a ampliar su logotipo en la parte frontal del producto.
 
-En el extremo derecho de la curva, Taiwán también se ha parado. Acer fue una de las tres mayores marcas de PC del mundo; las cinco letras de Acer estuvieron pegadas en las puertas de embarque de aeropuertos de todo el mundo. Pero los márgenes de las PC son demasiado delgados; la prima de marca no puede sostener el peso del extremo derecho. ROG demuestra que se puede llegar al extremo derecho, solo que hay que elegir el campo de batalla correcto.
+En el extremo derecho de la curva, Taiwán también se ha parado. Acer fue una de las tres mayores marcas de PC del mundo; las cuatro letras de Acer estuvieron pegadas en las puertas de embarque de aeropuertos de todo el mundo. Pero los márgenes de las PC son demasiado delgados; la prima de marca no puede sostener el peso del extremo derecho. ROG demuestra que se puede llegar al extremo derecho, solo que hay que elegir el campo de batalla correcto.
 
 Lo más cruel de la Curva de Sonrisa es que es una pregunta de opción múltiple que nadie ha vuelto a responder en treinta años. Hace treinta años, Taiwán eligió quedarse en el medio porque era la respuesta más razonable en ese momento: sin capital, sin marca, sin mercado, el outsourcing era la única vía de supervivencia. Lo verdaderamente peligroso es seguir considerando la respuesta razonable de hace treinta años como la respuesta de hoy.
 
