@@ -1,6 +1,6 @@
 ---
-title: 'Pembangunan Jaringan 5G Taiwan dan Transformasi Digital'
-description: 'Taiwan dari 4G unggul ke 5G, menjelajahi strategi nasional transformasi digital dan proses pengembangan aplikasi cerdas'
+title: 'Pembangunan Jaringan 5G dan Transformasi Digital di Taiwan'
+description: 'Perjalanan strategis negara dalam transformasi digital, dari kepemimpinan 4G menuju tata letak 5G dan pengembangan aplikasi cerdas'
 date: 2026-03-18
 category: 'Technology'
 tags:
@@ -8,7 +8,7 @@ tags:
     '5G',
     'transformasi digital',
     'Kementerian Pengembangan Digital',
-    'kota cerdas',
+    'kota pintar',
     'industri telekomunikasi',
   ]
 subcategory: '數位與網路'
@@ -19,489 +19,378 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Technology/台灣5G網路建設與數位轉型.md'
-sourceCommitSha: '24efd20f3'
-sourceContentHash: 'sha256:1e757976bc4f33e4'
-sourceBodyHash: 'sha256:122e66655dc1f0bf'
-translatedAt: '2026-09-10T18:19:14+08:00'
+sourceCommitSha: '5b89f1761'
+sourceContentHash: 'sha256:8ae63a433505bef3'
+sourceBodyHash: 'sha256:07f01705cabacd50'
+translatedAt: '2026-10-02T07:53:56+08:00'
 ---
 
-# Pembangunan Jaringan 5G Taiwan dan Transformasi Digital
+# Pembangunan Jaringan 5G dan Transformasi Digital di Taiwan
 
-## 30 Detik Gambaran
+## Ikhtisar 30 Detik
 
-Taiwan memulai layanan komersial 5G pada Juni 2020, menjadi pelopor pengembangan 5G di Asia. Pada September 2023, lebih dari 29.000 stasiun 5G telah dibangun di seluruh negeri, dengan tingkat cakupan penduduk mencapai 94,36%, unggul secara global dalam infrastruktur. Pemerintah mendorong transformasi digital secara keseluruhan melalui "Rencana Pengembangan Negara Digital & Inovasi Ekonomi (DIGI+)", dan pada 2022, Kementerian Pengembangan Digital didirikan untuk mengatur kebijakan terkait.
+Taiwan meluncurkan layanan komersial 5G pada 30 Juni 2020. Pembangunan stasiun pangkalan berjalan cepat: pada kuartal pertama tahun 2022, terdapat 29.087 stasiun pangkalan 5G di seluruh Taiwan dengan cakupan populasi gelombang sebesar 94,36%[^5], dan melebihi 35.000 pada Desember tahun yang sama[^12]. Pemerintah mendorong transformasi digital secara keseluruhan melalui "Rencana Pembangunan Ekonomi Inovatif Negara Digital (DIGI+)", dan Kementerian Pengembangan Digital dibentuk pada tahun 2022 untuk mengoordinasikan kebijakan terkait.
 
-Namun, tingkat penetrasi pengguna 5G hanya mencapai 25%, dan layanan aplikasi masih perlu ditingkatkan, menunjukkan bahwa masih ada tantangan dari infrastruktur hingga adopsi komersial yang meluas. Perbedaan ini adalah isu inti kebijakan 5G Taiwan pada masa kini.
+Namun, hingga akhir tahun 2022, penetrasi pengguna 5G baru melampaui 25%[^8], dan layanan aplikasi masih perlu ditingkatkan, menunjukkan bahwa tantangan tetap ada dari infrastruktur dasar hingga adopsi komersial. Kesenjangan ini adalah isu paling inti dalam kebijakan 5G Taiwan saat ini.
 
-Model pengembangan 5G Taiwan menawarkan kasus khusus: ketika pembangunan infrastruktur yang cepat dipimpin pemerintah tidak sejalan dengan kecepatan adopsi aplikasi yang digerakkan pasar, kebijakan harus mengisi peran pengganti?
+Model pengembangan 5G di Taiwan memberikan studi kasus khusus: bagaimana kebijakan mengisi kekosongan ketika pembangunan yang dipimpin pemerintah dan kecepatan adopsi aplikasi yang didorong pasar tidak sinkron?
 
-**Kata kunci**: 5G jaringan, transformasi digital, rencana DIGI+, Kementerian Pengembangan Digital, kota cerdas, IoT
+**Kata kunci**: Jaringan 5G, transformasi digital, Rencana DIGI+, Kementerian Pengembangan Digital, kota pintar, IoT
 
-## Mengapa Penting
+## Mengapa Ini Penting
 
-Pembangunan jaringan 5G dan transformasi digital adalah strategi kunci Taiwan untuk mempertahankan daya saing teknologi.
+Pembangunan jaringan 5G dan transformasi digital adalah strategi kunci bagi Taiwan untuk mempertahankan daya saing teknologi.
 
-5G menyediakan jaringan berkecepatan tinggi dan latency rendah untuk kecerdasan buatan, IoT, dan manufaktur cerdas. Ekonomi digital diperkirakan akan mendorong pertumbuhan GDP sebesar 1,2 triliun dolar (hingga 2025). Dari persaingan internasional, infrastruktur digital membantu mempertahankan posisi kunci Taiwan dalam rantai pasok global teknologi.
+5G menyediakan dasar jaringan berlatensi rendah dan kecepatan tinggi untuk kecerdasan buatan (AI), Internet of Things (IoT), dan manufaktur cerdas. Dalam konteks persaingan internasional, pembangunan digital membantu menjaga posisi penting Taiwan dalam rantai pasokan teknologi global.
 
-Dari sudut pandang sosial, transformasi digital melibatkan dua dimensi: keamanan nasional (membangun infrastruktur yang mandiri dan terkontrol) dan inklusi digital (memastikan bahwa daerah terpencil dan kelompok lansia juga bisa berpartisipasi), dan kehilangan salah satu dari keduanya akan melemahkan efek strategis secara keseluruhan.
+Pada tingkat sosial, transformasi digital menyangkut dua aspek sekaligus: keamanan nasional (membangun infrastruktur yang mandiri dan terkontrol) dan inklusi digital (memungkinkan daerah pedesaan dan kelompok lanjut usia untuk berpartisipasi); kekurangan salah satu akan melemahkan efek strategis secara keseluruhan.
 
 ## Sejarah Pengembangan 5G Taiwan
 
-### Spektrum Lisensi dan Peluncuran Komersial
+### Alokasi Spektrum dan Peluncuran Komersial
 
-Pengembangan 5G Taiwan dimulai dari perencanaan spektrum, pemerintah menggunakan pelepasan cepat dan subsidi pembangunan sebagai alat utama:
+Pengembangan 5G di Taiwan dimulai dari perencanaan spektrum, dengan pemerintah menggunakan pelepasan izin yang cepat dan subsidi pembangunan sebagai alat utama:
 
-**Milestone Penting**:
+**Tonggak Penting**:
 
-Desember 2019, lelang spektrum 5G dimulai, dengan total harga terjual mencapai 14,21 miliar dolar; Februari 2020, lima operator telekomunikasi besar mendapatkan lisensi.
+Lelang spektrum 5G dimulai pada Desember 2019 dan berakhir pada Februari 2020. Total nilai lelang untuk dua pita frekuensi, 3.5GHz dan 28GHz, adalah NT$142,191 juta[^2]. Lisensi eksklusif dikeluarkan secara bertahap kepada lima operator pada bulan Juni hingga Juli tahun yang sama; Taiwan Star dan Far EasTone mendapatkan dua lisensi terakhir pada tanggal 29 Juli[^3].
 
-- **30 Juni 2020**: Chunghwa Telecom (Telekom Taiwan) pertama, Taiwan memasuki era 5G
-- **Juli-Agustus 2020**: Far EasTone, Taiwan Mobile, Taiwan Star, dan Asia Pacific Telecom secara bertahap meluncurkan layanan (Taiwan Star telah bergabung dengan Taiwan Mobile pada 2023[^4])
+- **30 Juni 2020**: Chunghwa Telecom menjadi yang pertama meluncurkan di Taiwan, menandai masuknya Taiwan ke era 5G.
+- **Juli–Agustus 2020**: Far EasTone, Taiwan Mobile, dan Taiwan Star beroperasi secara berturut-turut.
+- **22 Oktober 2020**: Far EasTone meluncurkan melalui pembagian frekuensi bersama dengan Far EasTone, sehingga kelima operator semuanya beroperasi[^6].
 
 **Hasil Alokasi Spektrum**:
-| Operator Telekomunikasi | Frekuensi | Lebar Spektrum | Harga (juta dolar) |
-|----------|------|------|--------------|
-| Chunghwa Telecom | 3.5GHz | 90MHz | 506 |
-| Far EasTone | 3.5GHz | 80MHz | 449 |
-| Taiwan Mobile | 3.5GHz + 28GHz | 60MHz + 200MHz | 305 |
-| Taiwan Star | 3.5GHz + 28GHz | 40MHz + 200MHz | 115 |
-| Asia Pacific Telecom | 3.5GHz + 28GHz | 40MHz + 190MHz | 47 |
 
-> ※ Taiwan Star telah menyelesaikan penggabungan dengan Taiwan Mobile pada Mei 2023, kini sepenuhnya menjadi bagian dari Taiwan Mobile[^4]。
+| Operator Telekomunikasi       | Lebar Pita 3.5GHz                           | Nilai Lelang (Juta NT$) |
+| :---------------------------- | :------------------------------------------ | :---------------------- |
+| Chunghwa Telecom              | 90MHz                                       | 483.73                  |
+| Far EasTone Telecommunication | 80MHz                                       | 430.42                  |
+| Taiwan Mobile                 | 60MHz                                       | 306.56                  |
+| Taiwan Star                   | 40MHz                                       | 197.08                  |
+| Far EasTone                   | Tidak diperoleh (hanya lelang 28GHz 400MHz) | Sekitar 4.12            |
 
-### Penerapan Infrastruktur yang Cepat
+> _Nilai lelang empat perusahaan pertama disajikan oleh Liberty Times[^2]; jumlah Far EasTone dihitung dengan mengurangi total nilai lelang dari keempat perusahaan lainnya. Pada Desember 2023, Taiwan Star bergabung dengan Taiwan Mobile (1 Desember), dan Far EasTone bergabung dengan Far EasTone (15 Desember); kelima operator menyatu menjadi tiga[^4]._
 
-Kecepatan pembangunan stasiun 5G Taiwan unggul secara global, pemerintah subsidi mempercepat jadwal pembangunan:
+### Pengerahan Infrastruktur Cepat
 
-**Statistik Progres Pembangunan**:
+Subsidi pemerintah mempercepat jadwal pembangunan:
 
-Dari sekitar 4.000 stasiun pada akhir 2020 hingga lebih dari 29.087 stasiun pada Maret 2023[^5], dalam tiga tahun jumlah stasiun meningkat lebih dari tujuh kali lipat, target 2025 adalah 39.000 stasiun.
+**Statistik Kemajuan Konstruksi**:
 
-- **Akhir 2021**: sekitar 15.000 stasiun
-- **Akhir 2022**: sekitar 25.000 stasiun
-
-**Pencapaian Cakupan**:
-
-- Cakupan populasi: 94,36% (2023)
-- Cakupan kawasan komersial penting: hampir 100%
-- Cakupan jalan tol: lebih dari 85%
-- Cakupan rel kereta api tinggi: lebih dari 90%
+- **Agustus 2021**: Terdapat 20.369 stasiun pangkalan 5G di seluruh Taiwan, dengan cakupan populasi 85% pada akhir September[^10].
+- **Kuartal Pertama 2022**: 29.087 stasiun pangkalan, cakupan populasi gelombang sebesar 94,36%[^5].
+- **Desember 2022**: Lebih dari 35.000 stasiun pangkalan, dengan cakupan populasi gelombang melebihi 94%[^12].
 
 ### Dukungan Kebijakan Pemerintah
 
-Pemerintah mempercepat pembangunan 5G melalui berbagai kebijakan:
+Pemerintah mempercepat pembangunan 5G melalui berbagai alat kebijakan:
 
-**Langkah Kebijakan Kunci**:
+**Tindakan Kebijakan Kunci**:
 
-2021, meluluskan Undang-Undang Investasi Percepatan, mengalokasikan subsidi sebesar 1,55 miliar dolar[^9], memungkinkan target pembangunan stasiun yang seharusnya memakan waktu lima tahun diselesaikan lebih awal kurang lebih 2,5 tahun.
+Pada Maret 2021, NCC mengesahkan poin-poin operasi konstruksi jaringan 5G dengan subsidi, menggunakan anggaran fase ketiga Rencana Pembangunan Infrastruktur Dasar Eksekutif, menyumbang hampir NT$15,5 miliar selama dua tahun (masing-masing sekitar NT$9,9 miliar dan NT$5,5 miliar)[^9].
 
-- **Persyaratan Lokalisasi**: syarat subsidi memerlukan agen lokal merepresentasikan 40% peralatan
-- **Pelepasan Regulasi**: menyederhanakan prosedur perizinan pemasangan stasiun
+- **Peralatan Domestik**: Mendorong operator untuk menggunakan merek domestik dalam konstruksi peralatan baru, dengan target 40%[^9].
+- **Pelonggaran Regulasi**: Menyederhanakan prosedur perizinan pemasangan stasiun pangkalan.
 
-## Rencana DIGI+: Blueprint Negara Digital
+## Rencana DIGI+: Peta Jalan Negara Digital
 
-### Latar Belakang dan Tujuan
+### Latar Belakang dan Tujuan Rencana
 
-"Rencana Pengembangan Negara Digital & Inovasi Ekonomi (2017-2025)" adalah strategi keseluruhan transformasi digital Taiwan, disingkat sebagai Rencana DIGI+.
+"Rencana Pembangunan Ekonomi Inovatif Negara Digital (2017–2025)" adalah strategi keseluruhan transformasi digital Taiwan, disingkat Rencana DIGI+.
 
-**Makna Lima Kata DIGI+**:
+**Empat Huruf DIGI+**:
 
-"DIGI+" terdiri dari lima dimensi: Development (membangun fondasi), Innovation ( bereksperimen dengan inovasi), Growth (mengembangkan industri baru), Inclusion (inklusi digital), Plus (penambahan lintas domain).
+Menurut halaman rencana Eksekutif, D adalah Development (membangun fondasi yang kuat), I adalah Innovation (ekonomi digital inovatif), G adalah Governance (mengatur negara cerdas), dan I terakhir adalah Inclusion (melibatkan masyarakat sipil)[^7].
 
-- **D** - Development（Pengembangan）：Membangun fondasi yang kokoh
-- **I** - Innovation（Inovasi）：Mereka bereksperimen dengan inovasi yang beragam
+**Visi Pengembangan**: Dengan "Negara Digital, Pulau Cerdas" sebagai garis besar kebijakan utama, visi pengembangannya adalah "membangun masyarakat jaringan yang aktif, memajukan ekonomi inovatif bernilai tinggi, dan mengembangkan tanah air digital yang makmur"[^7].
 
-**Tujuan Inti**:
+### Enam Rencana Tindakan Utama
 
-1. **Inovasi Digital**: menciptakan lingkungan yang mendukung inovasi digital
-2. **Ekonomi Digital**: mengembangkan ekonomi digital yang bersaing secara global
-3. **Pemerintah Digital**: membangun pemerintah digital yang proaktif, transparan, dan ramah warga
-4. **Tanah Digital**: membangun tanah digital yang aman dan tangguh
-5. **Inklusi Digital**: menciptakan masyarakat digital yang inklusif dan adil
+Rencana DIGI+ didorong oleh enam rencana tindakan utama[^7]:
 
-### Tujuh Rencana Aksi Utama
+1. Rencana Aksi Lingkungan Dasar Inovasi Digital
+2. Rencana Aksi Lompatan Ekonomi Digital
+3. Rencana Aksi Pemerintahan Digital Masyarakat Jaringan
+4. Rencana Aksi Inovasi Regional Kota dan Pedesaan Cerdas
+5. Rencana Aksi Pengembangan Talenta Digital Lintas Domain
+6. Rencana Aksi Penelitian Teknologi Digital Maju
 
-Rencana DIGI+ mencakup tujuh fokus utama, meluas dari infrastruktur hingga layanan aplikasi:
+## Pembentukan Kementerian Pengembangan Digital
 
-#### 1. Lingkungan Inovasi Digital Dasar
+### Integrasi Organisasi dan Misi
 
-- Infrastruktur jaringan super lebar（fiber optik, 5G）
-- Platform layanan cloud
-- Lingkungan uji coba IoT
-- Pengelolaan data dan pembukaan data
+Pada 27 Agustus 2022, Kementerian Pengembangan Digital secara resmi dibentuk, yang merupakan tonggak penting dalam tata kelola digital Taiwan[^11].
 
-#### 2. Peningkatan Ekonomi Digital
+**Latar Belakang Penggabungan Departemen**:
+Kementerian Pengembangan Digital menggabungkan tugas-tugas terkait digital yang sebelumnya tersebar di berbagai kementerian:
 
-- Pendampingan transformasi digital industri
-- Inkubasi startup
-- Pengembangan e-commerce lintas batas
-- Layanan keuangan digital
+Kementerian Pengembangan Digital dibentuk dari tugas telekomunikasi dan pendampingan industri dari Komisi Komunikasi Nasional, bagian pos dan telegraf dari Kementerian Transportasi, sebagian tugas dari Biro Industri Kementerian Ekonomi, dan bagian manajemen informasi dari Komite Pembangunan Nasional, serta Kantor Keamanan Siber Eksekutif[^11].
 
-#### 3. Layanan Pemerintah Digital
+**Tiga Misi Inti**:
 
-- Integrasi layanan pemerintah digital dalam satu pintu
-- Mekanisme identitas digital
-- Pembukaan data pemerintah
-- Platform partisipasi publik
-
-#### 4. Perlindungan Hak Digital
-
-- Kerangka hukum perlindungan data pribadi
-- Perlindungan keamanan informasi
-- Peningkatan literasi digital
-- Mengurangi kesenjangan digital
-
-#### 5. Perlindungan Tanah Digital
-
-- Perlindungan infrastruktur kritis
-- Sistem pertahanan keamanan siber terintegrasi
-- Tata kelola keamanan nasional
-- Konstruksi ketahanan digital
-
-#### 6. Pengembangan SDM Digital
-
-- Pelatihan keterampilan digital
-- Program kolaborasi industri-akademi
-- Pertukaran bakat internasional
-- Sistem pembelajaran sepanjang hayat
-
-#### 7. Aplikasi Kota dan Desa Cerdas
-
-- Sistem transportasi cerdas
-- Layanan kesehatan cerdas
-- Aplikasi pertanian cerdas
-- Pengembangan pariwisata cerdas
-
-## Pendirian Kementerian Pengembangan Digital
-
-### Integrasi Organisasi dan Tugas
-
-Pada 27 Agustus 2022, Kementerian Pengembangan Digital secara resmi didirikan, menandai momen penting penting dalam tata kelola digital Taiwan[^11]。
-
-**Latar Belakang Integrasi Organisasi**:
-Kementerian Pengembangan Digital menggabungkan urusan digital yang tersebar di berbagai kementerian:
-
-Kementerian Pengembangan Digital menggabungkan Kantor Manajemen Informasi Dewan Pengembangan Nasional, Bisnis Telekomunikasi Kementerian Transportasi, sebagian urusan NCC, dan juga menerima urusan digital yang relevan dari Kementerian Ekonomi dan Kementerian Sains dan Teknologi.
-
-**Tiga Tugas Inti**:
-
-1. **Pemerintah Digital**: membantu transformasi digital sektor publik
-2. **Ekonomi Digital**: mendorong pengembangan industri digital
-3. **Infrastruktur Digital**: mendorong infrastruktur informasi nasional
+1. **Pemerintahan Digital**: Membantu transformasi digital sektor publik.
+2. **Ekonomi Digital**: Mendorong pengembangan industri digital.
+3. **Infrastruktur Dasar Digital**: Mendorong infrastruktur informasi nasional.
 
 **Struktur Organisasi**:
 
-Di bawah Kementerian Pengembangan Digital terdapat tiga unit kerja inti: Kantor Pemerintah Digital, Kantor Industri Digital, dan Kantor Informasi dan Keamanan. Selain itu, terdapat Kantor Jaringan Demokratis dan Kantor Perencanaan Terpadu.
+Kementerian Pengembangan Digital memiliki enam unit bisnis di bawahnya: Direktorat Strategi Digital, Direktorat Pembangunan Ketahanan, Direktorat Manajemen Sumber Daya, Direktorat Pemerintahan Digital, Direktorat Internasional Digital, dan Direktorat Inovasi Data, serta dua lembaga tingkat bawah: Badan Keamanan Siber dan Badan Industri Digital[^13].
 
 ### Kebijakan dan Rencana Penting
 
-Setelah didirikan, Kementerian Pengembangan Digital mendorong berbagai kebijakan penting:
+Setelah pembentukan Kementerian Pengembangan Digital, berbagai kebijakan penting telah didorong:
 
-**Transformasi Pemerintah Digital**:
+**Transformasi Pemerintahan Digital**:
 
-- Situs web pemerintah terpadu gov.tw
-- Pengembangan kartu identitas digital（eID）
+- Situs web gerbang pemerintah gov.tw
 - Integrasi layanan cloud pemerintah
-- Platform berbagi data antar kementerian
+- Platform berbagi data lintas kementerian
 
 **Pengembangan Industri Digital**:
 
-- Pendorong aplikasi jaringan khusus 5G
-- Pendampingan industri konten digital
+- Mendorong aplikasi jaringan khusus 5G
+- Membina industri konten digital
 - Pengembangan industri e-sports
-- Mekanisme sandbox keuangan digital
+- Mekanisme inkubator keuangan digital (sandbox)
 
 **Perlindungan Keamanan Informasi**:
 
-- Penyempurnaan undang-undang keamanan nasional
+- Penyempurnaan undang-undang keamanan siber nasional
 - Rencana pengembangan industri keamanan siber
-- Mekanisme pertahanan keamanan siber pemerintah
-- Pendampingan keamanan siber bagi perusahaan swasta
+- Mekanisme pertahanan bersama keamanan siber pemerintah
+- Pendampingan keamanan siber perusahaan swasta
 
-## Pengembangan Aplikasi 5G
+## Pengembangan Area Aplikasi 5G
 
-### Aplikasi di Berbagai Sektor Vertikal
+### Aplikasi Domain Vertikal
 
-Taiwan mendorong aplikasi 5G di berbagai sektor vertikal, menggunakan laboratorium lapangan untuk memverifikasi model bisnis:
+Taiwan mendorong penerapan 5G di berbagai domain vertikal, dan memverifikasi model bisnis melalui eksperimen lapangan:
 
-Manufaktur cerdas adalah bidang yang paling jelas berkembang, kasus Foxconn di Tonglu dan TSMC semuanya menunjukkan jalur yang dapat diandalkan dari uji coba hingga skala produksi.
+Manufaktur cerdas adalah area aplikasi jaringan khusus yang paling sering dibicarakan.
 
 #### Manufaktur Cerdas
 
-Foxconn Tonglu menggabungkan jaringan khusus 5G dengan deteksi kualitas AI, TSMC membangun sistem mobilitas otonom 5G AGV, kedua kasus ini telah memasuki tahap aplikasi produksi massal.
-
-- **China Steel**: kontrol jarak jauh 5G dan perbaikan AR
-- **Manfaat yang Diharapkan**: peningkatan efisiensi produksi 20-30%
+Pabrik menggunakan jaringan khusus 5G untuk mengintegrasikan inspeksi kualitas gambar AI, kendaraan pemindah otomatis, dan pemeliharaan jarak jauh, menjadikannya skenario utama bagi perusahaan dalam mengevaluasi jaringan khusus 5G.
 
 #### Kesehatan Cerdas
 
-Telemedicine 5G memungkinkan sumber daya kesehatan di daerah terpencil terhubung, pengajaran langsung melalui streaming video ultra-definisi 4K/8K mewujudkan pengajaran antar rumah sakit secara langsung.
+Telemedisin 5G memungkinkan sumber daya medis di daerah pedesaan terhubung; pengajaran siaran bedah dilakukan secara _real-time_ antar rumah sakit melalui transmisi kualitas ultra tinggi 4K/8K.
 
-- **Diagnosis AI**: analisis gambar secara real-time dan saran
-- **Kesehatan Gawat Darurat**: koneksi langsung antara mobil ambulans dan rumah sakit
+- **Diagnosis Berbantuan AI**: Analisis dan saran gambar _real-time_.
+- **Medis Darurat**: Koneksi instan antara ambulans dan rumah sakit.
 
 #### Transportasi Cerdas
 
-Lapangan uji pengemudi otonom terbesar saat ini berada di Tainan Shalun, sistem lampu lalu lintas cerdas menggunakan data lalu lintas real-time untuk mengoptimalkan pengelolaan persimpangan.
+Lokasi Shalu, Tainan, adalah lokasi pengujian kendaraan otonom terbesar saat ini, sementara sistem sinyal cerdas mengoptimalkan manajemen persimpangan dengan data lalu lintas _real-time_.
 
-- **Aplikasi V2X**: pengembangan komunikasi teknologi kendaratan
-- **Pengiriman Drone**: solusi terakhir logistik di daerah terpencil
+- **Aplikasi V2X**: Pengembangan teknologi komunikasi V2X.
+- **Pengiriman Drone**: Mil terakhir logistik di daerah pedesaan.
 
 #### Pertanian Cerdas
 
-Pertanian presisi menggabungkan sensor IoT dan transmisi data 5G, drone dapat memantau lahan pertanian yang luas secara real-time, mengurangi biaya tenaga kerja.
+Pertanian presisi menggabungkan sensor IoT dan transmisi data 5G; drone dapat melakukan pemantauan _real-time_ pada lahan pertanian yang luas, mengurangi biaya tenaga kerja.
 
-- **Kelautan Cerdas**: pemantauan lingkungan budidaya di laut
-- **Rantai Pasokan Produk Pertanian**: pelacakan dengan blockchain dan 5G
+- **Akuakultur Cerdas**: Pemantauan lingkungan budidaya laut.
+- **Ketertelusuran Produk Pertanian**: Pelacakan menggunakan blockchain digabungkan dengan 5G.
 
 ### Pembangunan Jaringan Khusus dan Model Bisnis
 
-Jaringan khusus 5G（Private Network） memungkinkan perusahaan membangun lingkungan jaringan yang dikelola mandiri, menjadi fondasi transformasi digital untuk otomatisasi pabrik, konektivitas rumah sakit, digitalisasi pelabuhan, dan lain-lain dengan keandalan tinggi.
+Jaringan khusus (Private Network) memungkinkan perusahaan membangun lingkungan jaringan yang dikelola secara mandiri, menjadi dasar penting untuk transformasi digital di area yang membutuhkan keandalan tinggi seperti otomatisasi pabrik, koneksi rumah sakit, dan cerdas pelabuhan.
 
 **Model Pembangunan Jaringan Khusus**:
 
-1. **Pembangunan Mandiri Perusahaan**: perusahaan besar berinvestasi sendiri
-2. **Pembangunan oleh Operator Telekomunikasi**: menggunakan jasa operator telekomunikasi
-3. **Kolaborasi dengan Produsen Peralatan**: bekerja sama dengan produsen peralatan jaringan
-4. **Subsidi Pemerintah**: mengajukan subsidi transformasi digital yang relevan
+1. **Pembangunan Mandiri Perusahaan**: Investasi pembangunan oleh perusahaan besar.
+2. **Konstruksi oleh Telekomunikasi**: Penugasan kepada operator telekomunikasi untuk konstruksi dan operasi.
+3. **Kerja Sama Produsen Peralatan**: Bekerja sama dengan produsen peralatan jaringan.
+4. **Subsidi Pemerintah**: Mengajukan subsidi terkait transformasi digital.
 
 **Inovasi Model Bisnis**:
 
-MaaS（Mobilitas Sebagai Layanan）menggabungkan berbagai opsi transportasi, platform HealthTech memungkinkan layanan telemedicine menjadi bisnis yang menguntungkan.
+MaaS (Mobility as a Service) mengintegrasikan berbagai pilihan perjalanan, dan platform HealthTech mengkomersialkan layanan telemedisin.
 
-- **AgriTech**: layanan data pertanian
-- **EdTech**: aplikasi teknologi pendidikan
+- **AgriTech**: Layanan data pertanian.
+- **EdTech**: Aplikasi teknologi pendidikan.
 
-## Tantangan dan Masalah
+## Tantangan dan Hambatan
 
-### Penetrasi Pengguna Rendah
+### Rendahnya Penetrasi Pengguna
 
-Infrastruktur 5G Taiwan telah mencapai posisi terdepan secara global, namun penetrasi pengguna 5G hanya sekitar 25%, jauh di bawah Korea Selatan 45% dan Amerika Serikat 35%, menunjukkan adanya kesenjangan yang jelas antara infrastruktur dan adopsi aplikasi.
+Meskipun stasiun pangkalan 5G Taiwan dibangun dengan cepat, penetrasi pengguna 5G baru melampaui 25% pada akhir tahun 2022[^8], menunjukkan kesenjangan yang jelas antara infrastruktur dasar dan adopsi aplikasi.
 
-**Status Penetrasi（kira-kira 2023, sesuai dengan otoritas telekomunikasi dan lembaga riset masing-masing negara[^3]）**：
+**Alasan Rendahnya Penetrasi**:
 
-- Penetrasi pengguna 5G：25%[^8]
-- Korea Selatan pada periode yang sama：45%
-- Amerika Serikat pada periode yang sama：35%
-- Tiongkok pada periode yang sama：30%
+1. **Kurangnya Layanan Aplikasi**: Belum ada aplikasi "killer".
+2. **Biaya Komunikasi Tinggi**: Biaya layanan 5G lebih tinggi daripada 4G.
+3. **Perbedaan Pengalaman Pengguna yang Terbatas**: Perbedaan dari penggunaan sehari-hari dengan 4G tidak terlalu besar.
+4. **Biaya Peralatan Ujung**: Harga ponsel 5G masih relatif mahal.
 
-**Alasan Penetrasi Rendah**:
+### Lambatnya Pengembangan Aplikasi Komersial
 
-1. **Kurangnya Layanan Aplikasi**: aplikasi "killer" belum muncul
-2. **Biaya Tinggi**: biaya 5G lebih tinggi 30-50% dibanding 4G
-3. **Pengalaman Pengguna Terbatas**: perbedaan dengan penggunaan 4G tidak signifikan dalam kehidupan sehari-hari
-4. **Biaya Perangkat Akhir**: harga smartphone 5G masih relatif tinggi
-
-### Pengembangan Aplikasi Bisnis Lambat
-
-Aplikasi tingkat B2B menghadapi berbagai tantangan: biaya pembangunan jaringan khusus tinggi, integrasi sistem yang ada rumit, ROI tidak jelas, sehingga membuat perusahaan lebih cenderung menunggu.
+Aplikasi tingkat perusahaan B2B menghadapi berbagai tantangan: biaya pembangunan jaringan khusus 5G yang tinggi, kompleksitas integrasi sistem yang ada, dan ketidakjelasan _return on investment_ (ROI), membuat perusahaan lebih banyak menunggu daripada bertindak.
 
 **Tantangan Teknis**:
 
-- Biaya pembangunan jaringan khusus tinggi
-- Integrasi sistem yang ada rumit
-- Kurangnya tenaga ahli teknis
-- ROI tidak jelas
+- Biaya pembangunan jaringan khusus 5G yang mahal.
+- Kompleksitas integrasi sistem yang sudah ada.
+- Kurangnya talenta teknis.
+- Ketidakjelasan ROI.
 
-**Tantangan Bisnis**:
+**Tantangan Komersial**:
 
-- Model bisnis belum matang
-- Kolaborasi antar industri sulit
-- Masalah adaptasi regulasi
-- Kecurigaan keamanan siber
+- Model bisnis belum matang.
+- Kesulitan kerja sama lintas industri.
+- Masalah adaptabilitas regulasi.
+- Kekhawatiran keamanan siber.
 
 ### Tekanan Persaingan Internasional
 
-Pengembangan 5G Taiwan menghadapi persaingan internasional yang ketat, terutama dari dua dimensi: ketergantungan teknologi dan geopolitik.
+Pengembangan 5G Taiwan menghadapi persaingan internasional yang ketat, terutama dari dua arah: ketergantungan teknologi dan geopolitik.
 
 **Ketergantungan Teknologi**:
 
-- Teknologi inti masih bergantung pada pemasok asing
-- Kemampuan desain chip 5G terbatas
-- Pengaruh dalam pembuatan standar tidak cukup
+- Teknologi inti masih bergantung pada pemasok asing.
+- Kemampuan desain chip 5G terbatas.
+- Kekuatan pembicaraan dalam penetapan standar kurang memadai.
 
-**Pengaruh Geopolitik**:
+**Dampak Geopolitik**:
 
-- Perang teknologi AS-Tiongkok mempengaruhi rantai pasok
-- Pilihan pemasok terbatas
-- Pertimbangan keamanan nasional semakin kompleks
+- Perang teknologi AS-Tiongkok mempengaruhi rantai pasokan.
+- Pilihan pemasok dibatasi.
+- Meningkatnya pertimbangan keamanan nasional.
 
 ## Hasil dan Dampak Transformasi Digital
 
 ### Manfaat Ekonomi
 
-Sejak implementasi rencana DIGI+, skala ekonomi digital tumbuh dari 12 triliun dolar pada 2017 menjadi 17 triliun dolar pada 2023[^7], investasi startup tumbuh 20% setahun, dan jumlah pekerjaan terkait digital meningkat 150.000 orang.
-
-**Hasil Terukur**:
-
-- Skala ekonomi digital：dari 12 triliun dolar pada 2017 menjadi 17 triliun dolar pada 2023[^7]
-- Kontribusi GDP：menurut rencana DIGI+ Kementerian Dalam Negeri, skala ekonomi digital Taiwan terus tumbuh（angka spesifiknya menunggu konfirmasi versi resmi）
-- Investasi startup：pertumbuhan 20% setahun, kumulatif melebihi 8 miliar dolar
-- Penciptaan lapangan kerja：jumlah pekerja digital meningkat 150.000 orang
-
-**Hasil Transformasi Industri**:
-
-- Tingkat digitalisasi industri manufaktur naik 45%
-- Tingkat adopsi cloud oleh UMKM mencapai 60%
-- Volume transaksi e-commerce tumbuh 25% setahun
-- Tingkat cakupan layanan keuangan digital mencapai 85%
+Menurut indikator DIGI+ yang disusun oleh Legislatif, skala ekonomi digital Taiwan adalah NT$3,8 triliun pada akhir 2017 dan NT$5,7 triliun pada akhir 2021; target agregat yang ditetapkan untuk tahun 2025 adalah NT$6,5 triliun[^14].
 
 ### Dampak Sosial
 
-Transformasi digital telah mengubah cara kerja masyarakat Taiwan secara signifikan: layanan pendaftaran online mencapai 95%, penggunaan faktur elektronik mencapai 90%, dan penggunaan pembayaran mobile mencapai 80%.
-
-**Digitalisasi Layanan Pemerintah**:
-
-- Layanan pendaftaran online mencapai 95%
-- Berbagi data antar lembaga menghemat waktu warga untuk datang ke kantor
-- Penggunaan otentikasi digital mencapai 70%
-- Penggunaan faktur elektronik mencapai 90%
-
-**Penyebaran Kehidupan Digital**:
-
-- Penggunaan pembayaran mobile mencapai 80%
-- Sistem kerja jarak jauh terbentuk
-- Platform pendidikan online sempurna
-- Layanan kota cerdas semakin tersebar
+Transformasi digital telah mengubah cara beroperasi masyarakat Taiwan di tingkat sehari-hari: berbagi data lintas lembaga mengurangi perjalanan bolak-balik warga, dan faktur elektronik, pembayaran seluler, kerja jarak jauh, serta platform pendidikan daring telah tersebar luas dalam beberapa tahun terakhir.
 
 ### Peningkatan Status Internasional
 
-Peringkat kompetitivitas digital Taiwan secara global telah meningkat secara signifikan:
-
-**Hasil Evaluasi Internasional**:
-
-- IMD Digital Competitiveness Ranking：peringkat ke-9（2023）[^1]
-- Network Readiness Index（NRI）：peringkat ke-12（2023）[^2]
-- Digital Government Development Index：peringkat ke-9
-- 5G Overall Development Index：peringkat ke-4
+Taiwan menempati peringkat ke-9 dalam Indeks Daya Saing Digital Dunia IMD pada tahun 2023, meningkat 2 peringkat dari tahun 2022[^1].
 
 ## Arah Pengembangan Masa Depan
 
-### Implementasi 6G yang Inovatif
+### Penempatan Prospektif 6G
 
-Taiwan telah memulai riset awal 6G, mulai riset teknis pada 2024, target untuk berpartisipasi dalam pembuatan standar internasional pada 2027, verifikasi teknis pada 2029, dan diperkirakan akan siap untuk layanan komersial pada 2030.
+Taiwan telah memulai penelitian prospektif 6G, dengan fokus pada arah teknologi berikut.
 
-**Fokus Teknis**:
+**Fokus Teknologi**:
 
-- Komunikasi frekuensi terahertz
-- Integrasi jaringan satelit dan daratan
-- Jaringan asli kecerdasan buatan
-- Teknologi komunikasi holografis
+- Komunikasi pita terahertz
+- Jaringan integrasi satelit-bumi
+- Jaringan _native_ AI
+- Teknologi komunikasi holografik
 
 ### Penguatan Ketahanan Digital
 
-Menghadapi ketidakpastian global, Taiwan mengedepankan diversifikasi rantai pasok dan otonomisasi teknologi kritis untuk memperkuat ketahanan digital secara keseluruhan.
+Menghadapi ketidakpastian global, Taiwan memperkuat ketahanan digital secara keseluruhan dengan diversifikasi rantai pasokan dan kemandirian teknologi kunci.
 
-**Langkah Kunci**:
+**Tindakan Kunci**:
 
-- Diversifikasi rantai pasok
-- Otonomisasi teknologi kritis
-- Peningkatan kemampuan keamanan siber
-- Mendalamkan kerja sama internasional
+- Diversifikasi rantai pasokan.
+- Kemandirian teknologi kunci.
+- Peningkatan kemampuan perlindungan keamanan siber.
+- Pendalaman kerja sama internasional.
 
-**Bidang Fokus**:
+**Area Fokus**:
 
-- Keamanan rantai pasok industri semikonduktor
-- Kedaulatan layanan cloud
-- Pengaturan aliran data lintas batas
-- Perlindungan hak digital
+- Keamanan rantai pasokan semikonduktor.
+- Kedaulatan layanan cloud.
+- Tata kelola aliran data lintas batas.
+- Perlindungan hak asasi digital.
 
-### Transformasi Digital Berkelanjutan
+### Transformasi Digital Nol Emisi (Net Zero)
 
-Tujuan emisi nol dan transformasi digital sedang bertemu: efisiensi energi pusat data, pasokan listrik surya untuk stasiun 5G, jaringan listrik cerdas semuanya membutuhkan infrastruktur digital dan transformasi hijau yang berjalan paralel.
+Target emisi nol dan transformasi digital bertemu: pusat data hemat energi, penyediaan daya surya untuk stasiun pangkalan, dan jaringan pintar semuanya memerlukan infrastruktur digital dan transisi hijau yang berjalan secara simultan.
 
-**Rencana Hijau Digital**:
+**Rencana Digital Hijau**:
 
-- Teknologi hemat energi pusat data
-- Pembangunan stasiun 5G dengan panel surya
-- Konstruksi jaringan listrik cerdas
-- Pelacakan jejak karbon secara digital
+- Teknologi penghematan energi pusat data.
+- Penyediaan daya surya untuk stasiun pangkalan 5G.
+- Pembangunan jaringan pintar.
+- Pelacakan jejak karbon digital.
 
 **Aplikasi Ekonomi Sirkular**:
 
-- Digitalisasi daur ulang limbah elektronik
-- Pengembangan platform ekonomi berbagi
-- Manajemen energi kota cerdas
-- Manajemen rantai pasok berkelanjutan
+- Digitalisasi daur ulang limbah elektronik.
+- Pengembangan platform ekonomi berbagi.
+- Manajemen energi kota cerdas.
+- Manajemen rantai pasokan berkelanjutan.
 
-## Status Global dan Dampaknya
+## Status dan Pengaruh Global
 
-### Peran di Kawasan Asia Pasifik
+### Peran Regional Asia Pasifik
 
-Posisi Taiwan dalam pengembangan digital Asia Pasifik didasarkan pada dua fondasi yang saling memperkuat: output teknologi dari sisi produksi（chip semikonduktor, peralatan jaringan）dan partisipasi dalam pembuatan standar dari sisi standar（3GPP, IEEE 802.11）。Layout ganda ini "produksi + standar" memastikan posisi Taiwan dalam rantai pasok digital global sulit digantikan.
+Peran Taiwan dalam pengembangan digital di Asia Pasifik dibangun di atas dua dasar yang saling menguatkan: ekspor teknologi sisi manufaktur (chip semikonduktor, peralatan jaringan) dan partisipasi standar sisi spesifikasi (3GPP, IEEE 802.11). Tata letak "manufaktur + standar" ini membuat posisi Taiwan dalam rantai pasokan digital global semakin sulit digantikan.
 
-Peringkat Taiwan dalam IMD Digital Competitiveness Ranking（ke-9）dan 5G Overall Development Index（ke-4）mencerminkan kemampuan integrasi antara koordinasi kebijakan, kecepatan pembangunan, dan aplikasi industri, bukan sekadar performa tunggal dari satu indikator.
+**Ekspor Teknologi**:
 
-**Output Teknologi**:
+- Teknologi chip semikonduktor.
+- Manufaktur peralatan jaringan.
+- Solusi perangkat lunak.
+- Layanan integrasi sistem.
 
-- Teknologi chip semikonduktor
-- Produksi peralatan jaringan
-- Solusi perangkat lunak
-- Layanan integrasi sistem
+**Partisipasi Penetapan Standar**:
 
-**Partisipasi dalam Pembuatan Standar**:
+- Kontribusi standar 5G 3GPP.
+- Penetapan standar IEEE 802.11.
+- Partisipasi rekomendasi ITU-T.
+- Mendorong arsitektur jaringan terbuka.
 
-- Kontribusi standar 5G 3GPP
-- Pembuatan standar IEEE 802.11
-- Partisipasi dalam rekomendasi ITU-T
-- Promosi arsitektur jaringan terbuka
+### Kemitraan Internasional
 
-### Hubungan Mitra Internasional
+Taiwan telah membangun hubungan kerja sama digital internasional dalam beberapa lapisan, seperti Perjanjian Kerja Sama Sains dan Teknologi Taiwan-AS yang ditandatangani pada Desember 2020, dan dialog ekonomi digital Taiwan-Uni Eropa yang diadakan oleh Komite Eksekutif Uni Eropa sejak tahun 2019.
 
-Taiwan telah membangun berbagai kerja sama digital internasional, protokol kerja sama teknologi Taiwan-Amerika dan dialog kerja sama digital Taiwan-Jepang adalah dua sumbu utama yang paling konkret.
+**Kerangka Kerja Kerjasama Penting**:
 
-**Kerangka Kerja Kolaborasi Penting**:
-
-- Protokol kerja sama teknologi Taiwan-Amerika
-- Dialog kerja sama digital Taiwan-Jepang
-- Kemitraan digital Taiwan-Eropa Union
-- Perjanjian mitra ekonomi digital Asia Pasifik
+- Perjanjian Kerja Sama Sains dan Teknologi Taiwan-AS.
+- Dialog Ekonomi Digital Taiwan-UE.
 
 **Pertukaran Teknologi**:
 
-- Program kolaborasi pelatihan bakat
-- Proyek riset bersama antar lembaga
-- Berbagi laboratorium inovasi
-- Mekanisme koordinasi pembuatan standar
+- Program kerja sama pengembangan talenta.
+- Proyek bersama lembaga penelitian dan pengembangan.
+- Berbagi lapangan eksperimen inovasi.
+- Mekanisme koordinasi penetapan standar.
 
 ## Kesimpulan
 
-Taiwan menunjukkan kecerdasan strategi "negara kecil dengan ambisi besar" dalam pembangunan jaringan 5G dan transformasi digital, dari kecepatan implementasi infrastruktur hingga inovasi perencanaan kebijakan, semuanya mencerminkan keunggulan dan tekad Taiwan dalam pengembangan teknologi. Namun, mengubah keunggulan infrastruktur menjadi adopsi aplikasi yang meluas, mengimplementasikan perencanaan kebijakan menjadi kesuksesan bisnis, masih membutuhkan upaya berkelanjutan dari pemerintah, industri, dan masyarakat.
+Taiwan menunjukkan kecerdasan strategi negara kecil dalam pembangunan jaringan 5G dan transformasi digital, mulai dari pengerahan infrastruktur yang cepat hingga perencanaan kebijakan yang prospektif, semuanya mencerminkan keunggulan dan tekad pengembangan teknologi Taiwan. Namun, mengubah keunggulan infrastruktur dasar menjadi adopsi layanan aplikasi, dan menerjemahkan perencanaan kebijakan menjadi kesuksesan komersial, masih memerlukan upaya berkelanjutan dari pemerintah, industri, dan masyarakat.
 
-Menghadapi persaingan digital global yang semakin ketat dan kompleksitas geopolitik, Taiwan harus menemukan keseimbangan antara kemandirian teknologi, kerja sama internasional, dan inklusi sosial agar benar-benar dapat mewujudkan visi negara digital, sehingga setiap warga negara dapat menikmati hasil transformasi digital.
+Menghadapi meningkatnya persaingan digital global dan kompleksitas geopolitik, Taiwan harus menemukan keseimbangan antara kemandirian teknologi, kerja sama internasional, dan inklusi sosial untuk benar-benar mewujudkan visi negara digital, sehingga setiap warga negara dapat menikmati hasil transformasi digital.
 
-Dampak dari 5G dan transformasi digital telah melampaui cakupan peningkatan teknologi, menyentuh transformasi model bisnis, layanan publik, dan cara partisipasi sosial secara bersamaan. Pengalaman Taiwan menunjukkan bahwa kebijakan pemerintah, partisipasi industri, dan keterlibatan masyarakat saling melengkapi, dan kombinasi ini sendiri adalah pengetahuan yang dapat diekspor.
+Dampak yang dibawa oleh 5G dan transformasi digital telah melampaui peningkatan teknologi; hal itu menyentuh restrukturisasi bersama model bisnis, layanan publik, dan cara partisipasi sosial. Pengalaman Taiwan menunjukkan bahwa pemerintah, investasi industri, dan partisipasi masyarakat tidak dapat dipisahkan; kombinasi ini sendiri adalah pengetahuan yang dapat diekspor.
 
 ## Referensi
 
-[^1]: [IMD World Digital Competitiveness Ranking 2023](https://www.imd.org/centers/wcc/world-competitiveness-center/rankings/world-digital-competitiveness-ranking/) — IMD 2023 Digital Competitiveness Ranking, Taiwan peringkat ke-9（naik dari peringkat ke-11 pada 2022）；konfirmasi peringkat ini dalam siaran resmi Kementerian Pengembangan Digital
+[^1]: [Peringkat Daya Saing Digital Dunia IMD 2023](https://www.imd.org/centers/wcc/world-competitiveness-center/rankings/world-digital-competitiveness-ranking/) — Peringkat daya saing digital IMD tahun 2023, Taiwan peringkat ke-9 (meningkat 2 peringkat dari tahun 2022); konfirmasi berita Kementerian Pengembangan Digital mengenai peringkat ini.
 
-[^2]: [Portulans Institute — Network Readiness Index 2023](https://networkreadinessindex.org/) — Laporan Network Readiness Index（NRI）2023, Taiwan peringkat ke-12
+[^2]: [Liberty Times (2020): Nilai Lelang Spektrum 5G Setiap Perusahaan](https://www.ctee.com.tw/news/20200222700075-430502) — Chunghwa Telecom NT$48,373 juta, Far EasTone NT$43,042 juta, Taiwan Mobile NT$30,656 juta, Taiwan Star NT$19,708 juta, total dua tahap NT$142,191 juta.
 
-[^3]: [GSMA — Mobile Economy Asia Pacific 2023](https://www.gsma.com/mobileeconomy/asiapacific/) — Tingkat penetrasi pengguna 5G di berbagai negara；angka Korea, Amerika Serikat, Tiongkok dll. diperkirakan oleh otoritas telekomunikasi dan lembaga riset masing-masing negara pada 2023, metodologi masing-masing lembaga sedikit berbeda
+[^3]: [CNA (2020-07-29): NCC Menerbitkan Lisensi 5G untuk Taiwan Star dan Far EasTone](https://www.cna.com.tw/news/firstnews/202007290153.aspx) — Kelima operator telah mendapatkan lisensi; Chunghwa Telecom, Far EasTone, dan Taiwan Mobile telah memperoleh lisensi dan mulai beroperasi secara berturut-turut pada bulan Juli.
 
-[^4]: [NCC — Penggabungan Taiwan Mobile dan Taiwan Star Disetujui（2023）](https://www.ncc.gov.tw/) — Taiwan Star telah menyelesaikan prosedur penggabungan dengan Taiwan Mobile pada Mei 2023, kini sepenuhnya menjadi bagian dari Taiwan Mobile
+[^4]: [Liberty Times Finance (2023): Tanggal Penggabungan Taiwan Mobile dan Taiwan Star 1 Desember](https://ec.ltn.com.tw/article/breakingnews/4483635) — Tanggal penggabungan antara Taiwan Mobile dan Taiwan Star adalah 1 Desember, dan Far EasTone bergabung dengan Far EasTone pada 15 Desember.
 
-[^5]: [Komite Komunikasi Nasional（2023）。《Laporan Statistik Pembangunan Stasiun 5G》](https://www.ncc.gov.tw/) — Pada Maret 2023, lebih dari 29.087 stasiun 5G telah dibangun di seluruh negeri, cakupan populasi mencapai 94,36%
+[^5]: [Adat dari Computer King Ada Transmisi Berita NCC (2022-05)](https://www.kocpc.com.tw/archives/440835) — "Hingga kuartal pertama tahun 111 [2022], jumlah stasiun pangkalan 5G telah mencapai 29.087, dan cakupan populasi gelombang 5G telah mencapai 94,36%."
 
-[^6]: [Kementerian Pengembangan Digital（2024）。《Buku Putih Transformasi Digital Taiwan》](https://www.moda.gov.tw/) — Gambaran kebijakan transformasi digital Taiwan, termasuk pemerintah digital, ekonomi digital, perlindungan keamanan informasi, dll.
+[^6]: [TechNews (2020-10-22): Peluncuran 5G Far EasTone](https://technews.tw/2020/10/22/3-5ghz-28ghz-mmwave/) — Far EasTone memperoleh jaringan 3.5GHz melalui pembagian frekuensi bersama dengan Far EasTone dan meluncurkan layanan gelombang milimeter 28GHz.
 
-[^7]: [Kementerian Dalam Negeri（2023）。《Laporan Hasil Implementasi Rencana DIGI+》](https://www.ey.gov.tw/Goals/5EF730EBAFCFFDF2) — Hasil implementasi rencana DIGI+ 2017-2025, skala ekonomi digital tumbuh dari 12 triliun pada 2017 menjadi 17 triliun pada 2023
+[^7]: [Eksekutif: Rencana Pembangunan Ekonomi Inovatif Negara Digital (DIGI+)](https://www.ey.gov.tw/Goals/5EF730EBAFCFFDF2) — Halaman resmi rencana: makna empat huruf D-I-G-I, visi pengembangan, dan enam rencana tindakan utama.
 
-[^8]: [Economic Daily News（2023）。「Stasiun sudah hampir penuh, namun penetrasi konsumen hanya 25% — Evaluasi Keseluruhan 3 Tahun Peluncuran 5G Taiwan」](https://money.udn.com/money/story/123317/6948773) — Tingkat penetrasi pengguna 5G Taiwan 25% dan data perbandingan internasional
+[^8]: [Economic Daily (2023-02-16): Tinjauan Keseluruhan Tiga Tahun Peluncuran 5G Taiwan](https://money.udn.com/money/story/123317/6948773) — "Hingga akhir tahun 2022, penetrasi pengguna baru melampaui 25%."
 
-[^9]: [Ruang Informasi Industri Sains dan Teknologi（2021）。「NCC Mengalokasikan 1,55 Miliar Dolar Selama Dua Tahun untuk Mempercepat Infrastruktur 5G Nasional」](https://iknow.stpi.niar.org.tw/post/Read.aspx?PostID=17448) — Penjelasan rencana subsidi 1,55 miliar dolar dari Undang-Undang Investasi Percepatan
+[^9]: [CNA (2021-03-03): Subsidi NCC untuk Pembangunan Jaringan 5G](https://www.cna.com.tw/news/afe/202103030263.aspx) — Menggunakan anggaran fase ketiga pembangunan dasar prospektif, subsidi selama dua tahun mencapai hampir NT$15,5 miliar; mendorong operator menggunakan merek domestik dengan target 40%.
 
-[^10]: [KPMG Taiwan（2020）。「Tiga Tahap dan Tiga Kemampuan Kunci dalam Implementasi 5G」](https://kpmg.com/tw/zh/home/insights/2020/10/tw-5g-three-stages-and-key-ability.html) — Analisis strategi implementasi 5G
+[^10]: [CNA (2021-10-14): Statistik Stasiun Pangkalan 5G di Seluruh Taiwan](https://www.cna.com.tw/news/afe/202110140046.aspx) — Hingga Agustus 2021, 20.369 stasiun pangkalan 5G telah dibangun di seluruh Taiwan, dengan cakupan populasi 85% pada akhir September.
 
-[^11]: [Wikipedia（2026）。「Kementerian Pengembangan Digital Republik Tiongkok (Taiwan)」](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E6%95%B8%E4%BD%8D%E7%99%BC%E5%B1%95%E9%83%A8) — Waktu pendirian Kementerian Pengembangan Digital（27 Agustus 2022）dan struktur organisasinya
+[^11]: [Wikipedia: Kementerian Pengembangan Digital Republik Tiongkok (Taiwan)](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E6%95%B8%E4%BD%8D%E7%99%BC%E5%B1%95%E9%83%A8) — Dibentuk pada 27 Agustus 2022, melalui penggabungan tugas terkait dari NCC, bagian pos dan telegraf Kementerian Transportasi, Biro Industri Kementerian Ekonomi, Kantor Manajemen Informasi Komite Pembangunan Nasional, dan Kantor Keamanan Siber Eksekutif.
 
-[^12]: [Dewan Nasional Ilmu Pengetahuan dan Teknologi（2017）。《Rencana Pengembangan Negara Digital & Inovasi Ekonomi（2017-2025）》](https://digi.nstc.gov.tw/File/19DE94E9424E9457) — Dokumen perencanaan asli rencana DIGI+, mencakup enam fokus utama dan tujuan inti
+[^12]: [CNA (2022-12-13): Stasiun Pangkalan 5G dan Cakupan](https://www.cna.com.tw/news/afe/202212130237.aspx) — "Saat ini jumlah stasiun pangkalan melebihi 35.000, dan cakupan populasi gelombang telah melampaui 94%."
 
-[^13]: [Kementerian Dalam Negeri（2024）。「Rencana Pengembangan Negara Digital & Inovasi Ekonomi」](https://www.ey.gov.tw/Goals/5EF730EBAFCFFDF2) — Halaman resmi rencana DIGI+ Kementerian Dalam Negeri
+[^13]: [Kementerian Pengembangan Digital: Struktur Organisasi](https://moda.gov.tw/aboutus/organization/620) — Enam unit bisnis (Strategi Digital, Pembangunan Ketahanan, Manajemen Sumber Daya, Pemerintahan Digital, Internasional Digital, Inovasi Data), dan dua lembaga tingkat bawah Badan Keamanan Siber dan Badan Industri Digital.
 
-[^14]: [Platform Subsidi Inovasi Digital DIGITAL+](https://digiplus.adi.gov.tw/) — Informasi pengajuan subsidi transformasi digital Kementerian Pengembangan Digital
-
-[^15]: [Institute for Information Industry, IDES（2023）。《Laporan Analisis Pengembangan Industri 5G Taiwan》](https://mic.iii.org.tw/) — Analisis situasi terkini dan prospek pengembangan industri 5G Taiwan
-
-[^16]: [Chunghwa Telecom（2024）。《Laporan Hasil Pembangunan Jaringan 5G》](https://www.cht.com.tw/) — Progres pembangunan infrastruktur dan hasil cakupan jaringan 5G Chunghwa Telecom
+[^14]: [Legislatif: Indikator Rencana DIGI+](https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=45618&pid=220256) — Skala ekonomi digital NT$3,8 triliun pada akhir 2017, NT$5,7 triliun pada akhir 2021, target agregat tahun 2025 adalah NT$6,5 triliun.

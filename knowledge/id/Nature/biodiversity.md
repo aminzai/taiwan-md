@@ -20,10 +20,10 @@ difficulty: 'intermediate'
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'Nature/生態多樣性.md'
-sourceCommitSha: 'd8646a2a9'
-sourceContentHash: 'sha256:768855c64ea407af'
-sourceBodyHash: 'sha256:2f867df28cee4278'
-translatedAt: '2026-09-08T00:42:53+08:00'
+sourceCommitSha: '825528805'
+sourceContentHash: 'sha256:af5bd3cc5a11c549'
+sourceBodyHash: 'sha256:7b55c8bf8318f623'
+translatedAt: '2026-10-02T01:02:52.684343+00:00'
 ---
 
 # Keanekaragaman Hayati
@@ -72,19 +72,19 @@ Hutan ini bukan sekadar pemandangan indah, melainkan inti dari keanekaragaman ha
 
 ## Benteng Terakhir Spesies Terancam Punah
 
-### Macan Tutul Batu (Stone Cat): Indikator Ekosistem Dataran Rendah
+### Macan Tutul Asia (Asian Leopard Cat): Indikator Ekosistem Dataran Rendah
 
-Macan tutul asli yang tersisa di Taiwan, Macan Tutul Batu (_Shihu_), diperkirakan hanya tersisa sekitar 500 ekor, dan sebagian besar tersebar di daerah pegunungan rendah di Miaoli, Taichung, dan Nantou.
+Macan tutul Asia, satu-satunya mamalia karnivora asli yang tersisa di Taiwan, diperkirakan hanya tersisa sekitar 500 ekor dan terutama tersebar di daerah dataran rendah seperti Miaoli, Taichung, dan Nantou.
 
-**Kematian akibat kendaraan adalah ancaman paling langsung bagi Macan Tutul Batu**. Menurut statistik tim _Ahu_, pada tahun 2021 tercatat 25 ekor Macan Tutul Batu mati karena ditabrak mobil, dengan 15 kasus di Miaoli, 6 kasus di Nantou, dan masing-masing 2 kasus di Taichung dan Changhua. Lokasi kematian sering berada di sepanjang sungai seperti Xi Houlong, Chu Shui, dan Mao Luo, menunjukkan parahnya fragmentasi habitat. Selain tabrakan kendaraan, serangan kelompok anjing liar dan penyakit menular anjing/kucing adalah ancaman lain yang muncul belakangan ini, pembahasan lengkapnya dapat dilihat di [Konservasi Macan Tutul Batu Taiwan](/id/nature/taiwanese-leopard-cat-conservation).
+**Kematian akibat tabrakan kendaraan adalah ancaman paling langsung bagi macan tutul Asia**. Menurut statistik tim Macan Tutul, pada tahun 2021 tercatat 25 macan tutul tewas karena tabrakan; di antaranya 15 kasus di Miaoli, 6 kasus di Nantou, dan masing-masing 2 kasus di Taichung dan Changhua. Lokasi kematian sering berada di kedua sisi sungai seperti Xi Houlong, Chuoshui, dan Mao Luo, yang menunjukkan tingkat fragmentasi habitat yang parah. Selain tabrakan kendaraan, serangan oleh anjing liar dan penyakit menular antara anjing dan kucing adalah ancaman lain yang muncul dalam beberapa tahun terakhir: catatan gigitan dan tumpang tindih habitat dapat dilihat di [Konservasi Macan Tutul Taiwan](/id/nature/taiwanese-leopard-cat-conservation), sementara bagaimana anjing dan kucing liar membawa virus distemper ke dataran rendah, menginfeksi, lalu meningkatkan risiko tabrakan kendaraan dapat dibaca di [Budaya Hewan Jalanan Taiwan](/id/society/stray-animal-culture).
 
-### Leopard Kabut Taiwan: Raja yang Menghilang
+### Snow Leopard Taiwan: Raja yang Menghilang
 
-Pada tahun 2014, para ilmuwan secara resmi menyatakan kepunahan Leopard Kabut Taiwan. Rekaman pengamatan terakhir dikonfirmasi pada tahun 1983. Hilangnya subspesies endemik Taiwan ini menjadi titik balik penting dalam kesadaran konservasi hayati di Taiwan, mendorong masyarakat untuk lebih memperhatikan perlindungan spesies yang terancam punah saat ini.
+Pada tahun 2014, para ilmuwan secara resmi menyatakan kepunahan macan tutul salju Taiwan, dengan catatan pengamatan terakhir pada tahun 1983. Hilangnya subspesies endemik Taiwan ini menjadi titik balik penting dalam kesadaran konservasi hayati di Taiwan, mendorong masyarakat untuk lebih memperhatikan konservasi spesies yang terancam punah saat ini.
 
 ### Beruang Hitam Taiwan: Raja di Hutan
 
-Mamalia darat terbesar di Taiwan, diperkirakan tersisa sekitar 500–700 ekor. Meskipun dilindungi oleh hukum, mereka masih menghadapi ancaman seperti fragmentasi habitat dan konflik manusia-beruang. Dalam beberapa tahun terakhir, pemerintah dan masyarakat sipil secara aktif mendorong program konservasi, termasuk pemasangan pagar listrik dan pembangunan sistem pemantauan.
+Sebagai mamalia darat terbesar di Taiwan, diperkirakan masih tersisa sekitar 500–700 ekor. Meskipun dilindungi oleh hukum, mereka masih menghadapi ancaman seperti fragmentasi habitat dan konflik manusia-beruang. Dalam beberapa tahun terakhir, pemerintah dan sektor swasta secara aktif mendorong program konservasi, termasuk pemasangan pagar listrik dan pembangunan sistem pemantauan.
 
 ## Harta Karun Ekosistem Laut
 
@@ -139,12 +139,13 @@ Dari konservasi Macan Tutul Batu hingga pemulihan Bangau Ekor Hitam, dari perlin
 
 ## Bacaan Lebih Lanjut
 
-Artikel ini adalah tinjauan umum; setiap spesies dan ekosistem memiliki entri mendalam tersendiri di situs:
+Artikel ini adalah tinjauan umum; setiap spesies dan ekosistem memiliki entri mendalam di situs ini:
 
-- [Konservasi Macan Tutul Batu Taiwan](/id/nature/taiwanese-leopard-cat-conservation) — Populasi 500 Ekor, Bagaimana Tabrakan Kendaraan, Pembunuhan Anjing, dan Fragmentasi Habitat Menekan Bersamaan
-- [Beruang Hitam Taiwan](/nature/台灣黑熊) — Mamalia Darat Terbesar di Pulau dan Konflik Manusia-Beruang di Lapangan
-- [Bangau Ekor Hitam](/id/nature/black-faced-spoonbill) — Dari 288 ke Lebih dari Enam Ribu, Bagaimana Konservasi Lintas Negara Menyelamatkan Satu Spesies
-- [Spesies Endemik](/id/nature/endemic-species) — Bagaimana Proporsi Tinggi Spesies Endemik Tumbuh di Pulau Ini
-- [Ekosistem Hutan Taiwan](/id/nature/taiwan-forest-ecosystems) — Struktur Aktual di Bawah Tutupan Hutan 60,71%
-- [Ekosistem Pegunungan dan Relik Glasial Taiwan](/id/nature/taiwan-alpine-ecosystems-glacial-relicts) — Spesies Gunung yang Tidak Bisa Mundur dan Bukti Hidup dari Zaman Es
-- [Ekosistem Laut Taiwan dan Konservasi Terumbu Karang](/id/nature/taiwan-marine-ecology-and-coral-conservation) — Kondisi Perairan dengan Sepertiga Jenis Karang Dunia
+- [Konservasi Macan Tutul Taiwan](/id/nature/taiwanese-leopard-cat-conservation) — Populasi lima ratus individu, bagaimana pembunuhan jalanan, pembunuhan anjing, dan fragmentasi habitat menekan mereka secara bersamaan
+- [Budaya Hewan Liar di Taiwan](/id/society/stray-animal-culture) — Setelah program pemusnahan nol (zero culling), masih ada soal yang belum terjawab antara anjing dan kucing liar dengan satwa liar pegunungan rendah
+- [Beruang Hitam Taiwan](/id/nature/taiwanese-black-bear) — Mamalia darat terbesar di pulau ini dan konflik manusia-beruang secara langsung
+- [Batu Burung Walet Kepala Hitam](/id/nature/black-faced-spoonbill) — Dari 288 menjadi lebih dari enam ribu, bagaimana konservasi lintas negara menyelamatkan satu spesies
+- [Spesies Endemik](/id/nature/endemic-species) — Bagaimana tingginya proporsi spesies endemik muncul di pulau ini
+- [Ekosistem Hutan Taiwan](/id/nature/taiwan-forest-ecosystems) — Struktur aktual di bawah tutupan hutan 60,71%
+- [Ekosistem Pegunungan dan Relik Glasial Taiwan](/id/nature/taiwan-alpine-ecosystems-glacial-relicts) — Spesies pegunungan yang tidak punya jalan kembali dan bukti hidup dari zaman glasial
+- [Ekosistem Laut dan Konservasi Terumbu Karang Taiwan](/id/nature/taiwan-marine-ecology-and-coral-conservation) — Kondisi perairan habitat bagi sepertiga jenis karang dunia

@@ -20,10 +20,10 @@ featured: false
 lastVerified: 2026-03-30
 lastHumanReview: true
 translatedFrom: 'Nature/台灣石虎保育.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:bbca77501c197a81'
-sourceBodyHash: 'sha256:76487fd0d26564e6'
-translatedAt: '2026-08-09T08:01:31+08:00'
+sourceCommitSha: '825528805'
+sourceContentHash: 'sha256:53a697c302d622a3'
+sourceBodyHash: 'sha256:7ed841e26f0abf1f'
+translatedAt: '2026-10-02T00:59:43.852557+00:00'
 ---
 
 # Konservasi Kucing Batu Taiwan
@@ -76,47 +76,47 @@ Ciri tempat ini: **dekat dengan manusia**. Tongxiao, Houlong, Xihu, Tongluo di M
 
 ---
 
-## Empat Cara Mati
+## Empat Jenis Kematian
 
-### Satu, Tewas Tertabrak: Pembantaian Paling Diam
+### I. Kematian di Jalan: Pembantaian Paling Sunyi
 
-Di lingkaran konservasi Taiwan, ada istilah yang mendengarnya merinding: **tewas tertabrak**. Kucing batu adalah hewan malam, ia melintasi jalan di malam hari untuk mencari makan, mencari pasangan, memeriksa wilayahnya, sedangkan jalan raya pedesaan di Miaoli dan Nantou tidak memiliki lintas satwa, tidak memiliki fasilitas perlambatan, tidak memiliki desain apa pun yang mempertimbangkan satwa liar.
+Di kawasan konservasi Taiwan, ada istilah yang membuat orang merinding: **kematian di jalan**. Macan tutul adalah hewan nokturnal; ia melintasi jalan pada malam hari untuk mencari makan, mencari pasangan, atau berpatroli wilayah. Namun, jalan pedesaan di Miaoli dan Nantou tidak memiliki jalur satwa, fasilitas perlambatan, atau desain apa pun yang dirancang untuk satwa liar.
 
-Lampu mobil menyala, mata kucing batu memantulkan cahaya, lalu ——
+Ketika lampu mobil menyala, mata macan tutul memantulkan cahaya, lalu—
 
-Media _Wowo_ menggunakan judul yang menghancurkan hati untuk reportase tewas tertabraknya: "Blast! Lalu Aku Jadi Daging Dendeng".
+Seri khusus "Kematian di Jalan" dari Wowo menggunakan judul yang menghancurkan hati: "Prak! Lalu Aku Menjadi Keripik Daging."
 
-Antara 2017 hingga 2023, kucing batu tewas tertabrak yang tercatat lebih dari 130 ekor.[^2] Yang tidak ditemukan, tidak ada yang tahu berapa banyaknya.
+Antara tahun 2017 dan 2023, tercatat lebih dari 130 macan tutul mati karena kecelakaan lalu lintas. [^2] Yang tidak terdeteksi, tidak ada yang tahu berapa banyak.
 
-Peneliti kucing batu Lin Yu-xiu pernah melacak seekor kucing batu bernama "Xiao Cao". Ia tertabrak mobil **dua kali**, dan dua kali ia selamat. Lin Yu-xiu berkata: "Xiao Cao dua kali lolos dari kecelakaan mobil dengan tenaga sendiri, jika kita masih tidak berbuat apa-apa untuk kucing batu, itu benar-benar mengorbankan usaha menyelamatkan dirinya sendiri."
+Peneliti macan tutul, Lin Yu-hsiu, telah melacak seekor macan tutul bernama "Xiao Cao." Ia tertabrak **dua kali**, dan berhasil selamat kedua kalinya. Lin Yu-hsiu mengatakan, "Xiao Cao berhasil menyelamatkan dirinya dari dua kecelakaan mobil; jika kita tidak melakukan sesuatu untuk macan tutul, itu benar-benar mengorbankan upaya penyelamatan diri mereka."
 
-### Dua, Habitat Hilang: Rumah Dirobohkan
+### II. Hilangnya Habitat: Rumahnya Dibongkar
 
-Miaoli adalah kabupaten dengan kepadatan populasi kucing batu tertinggi dan kontinuitas habitat terbaik. Tetapi Miaoli juga salah satu kabupaten/kota di Taiwan dengan sengketa pembangunan paling sering.
+Miaoli adalah kabupaten dengan kepadatan populasi macan tutul tertinggi dan kontinuitas habitat terbaik. Namun, Miaoli juga merupakan salah satu tempat di seluruh kabupaten dan kota Taiwan yang paling sering mengalami sengketa pembangunan.
 
-2019, Pemerintah Kabupaten Miaoli mengusulkan "Peraturan Otonomi Konservasi Kucing Batu" tetapi **dua kali ditolak** di Dewan Perwakilan Rakyat Daerah (DPRD) Kabupaten. Alasannya "mengaruhi pembangunan daerah". Sebuah kabupaten yang mengaku "Kota Kucing Batu", bahkan satu peraturan melindungi kucing batu saja tidak bisa lolos.
+Pada tahun 2019, "Peraturan Otonomi Konservasi Macan Tutul" yang diajukan oleh pemerintah Kabupaten Miaoli **dua kali ditolak** oleh dewan kabupaten. Alasannya adalah "mempengaruhi pembangunan lokal." Sebuah kabupaten yang disebut sebagai "Kota Macan Tutul" bahkan tidak bisa meloloskan peraturan untuk melindungi macan tutul.
 
-Inilah teater absurd konservasi Taiwan: Anda menggunakan nama kucing batu untuk promosi pariwisata, mencetaknya di maskot, melukisnya di bus — tapi saat melindungi kucing batu benar-benar membatasi pembangunan, kucing batu jadi tidak penting.
+Inilah drama absurd konservasi di Taiwan: Anda menggunakan nama macan tutul untuk pemasaran pariwisata, mencetaknya pada maskot, atau menggambarkannya pada bus—tetapi ketika perlindungan terhadap macan tutul benar-benar membatasi pembangunan, macan tutul menjadi tidak penting.
 
-### Tiga, Dibunuh Anjing: Ancaman Paling Diremehkan
+### III. Kematian oleh Anjing: Ancaman yang Paling Diremehkan
 
-Ini adalah kemaluan paling tidak ingin dihadapi komunitas perlindungan hewan Taiwan: **anjing liar menggigit kucing batu sampai mati**.
+Inilah situasi canggung yang paling tidak ingin dihadapi oleh komunitas pecinta hewan di Taiwan: **anjing liar membunuh macan tutul**.
 
-Kamera otomatis semakin banyak merekam: kawanan anjing liar muncul di habitat kucing batu, mengejar, menyerang, menggigit sampai mati. _Wowo_ pernah membuat reportase khusus "Anjing Membunuh Kucing Batu", data menunjukkan pembunuhan anjing adalah sumber kematian kedua kucing batu setelah tewas tertabrak yang memiliki catatan pasti.
+Semakin banyak rekaman dari kamera otomatis menunjukkan kawanan anjing berkeliaran di habitat macan tutul, mengejar, menyerang, dan membunuh. Wowo membuat seri khusus "Anjing Membunuh Macan Tutul," dan data menunjukkan bahwa pembunuhan oleh anjing adalah sumber kematian terbesar kedua bagi macan tutul selain kecelakaan jalan.
 
-Hal ini membuat organisasi perlindungan hewan dan para sarjana ekologi konservasi Taiwan terjebak dalam posisi sangat canggung. Orang yang melindungi anjing liar bilang "tidak boleh dibunuh"; orang yang melindungi kucing batu bilang "jika anjing liar tidak diurus, kucing batu benar-benar punah".
+Gigitan hanyalah setengah dari ancaman ini. Anjing dan kucing liar juga membawa penyakit menular kepada satwa di daerah perbukitan, dan peluang hidup macan tutul yang terinfeksi di jalan semakin menurun, sehingga penyebab kematian oleh anjing dan kecelakaan jalan tidak sepenuhnya independen secara angka. Rantai sebab-akibat ini, data skrining virus dari Universitas Pingke, dan kontroversi kebijakan pembasmiannya dibahas secara lengkap dalam [Budaya Hewan Liar Taiwan](/id/society/stray-animal-culture).
 
-Dua belah pihak sama-sama melindungi hewan, tapi hewan mereka saling membunuh.
+Hal ini menempatkan kelompok pecinta hewan dan akademisi konservasi ekologi di Taiwan pada posisi yang sangat canggung. Mereka yang melindungi anjing liar mengatakan "tidak boleh membasmi"; mereka yang melindungi macan tutul mengatakan "jika kita tidak mengurus anjing liar, macan tutul akan benar-benar punah."
 
-Debat ini hingga kini belum memiliki jawaban, tapi ia memaksa masyarakat Taiwan menghadapi satu fakta: **"Mencintai hewan" bukanlah sikap sederhana, ia penuh kontradiksi dan pilihan sulit.**
+Kedua belah pihak sama-sama melindungi hewan, tetapi hewan di kedua sisi saling membunuh.
 
-### Empat, Dirahasiakan dan Jerat Hewan
+Debat ini belum memiliki jawaban, tetapi ia memaksa masyarakat Taiwan untuk menghadapi sebuah kenyataan: **"mencintai hewan" bukanlah posisi yang sederhana; itu penuh dengan kontradiksi dan pilihan.**
 
-Kucing batu makan ayam. Bagi petani di pegunungan rendah, kandang ayam diserbu kucing batu adalah kerugian ekonomi nyata. Beberapa petani menanggulanginya sangat langsung: memasang racun.
+### IV. Racun dan Perangkap Hewan
 
-Selain itu, jerat hewan di pegunungan, meskipun sudah dilarang keras sejak 2020, masih diam-diam ada. Kucing batu tersandung jerat, ringannya putus jari, beratnya tidak bisa mencari makan dan mati kelaparan.
+Macan tutul memakan ayam. Bagi petani di daerah perbukitan, serangan macan tutul ke kandang ayam adalah kerugian ekonomi yang nyata. Beberapa cara petani merespons sangat langsung: menggunakan racun.
 
----
+Selain itu, perangkap hewan di daerah pegunungan, meskipun telah dilarang secara resmi pada tahun 2020, masih beredar diam-diam. Macan tutul yang tersangkut perangkap dapat mengalami amputasi ringan atau mati kelaparan karena tidak bisa mencari makan.
 
 ## Cahaya Konservasi: Ada Orang yang Menjaga
 
@@ -184,18 +184,18 @@ Orang Taiwan suka bilang "ada sembah ada lindung". Tapi kucing batu tidak sembah
 
 ## Referensi
 
-[^1]: [Peraturan Otonomi Konservasi Kucing Batu Miaoli - Pusat Informasi Lingkungan](https://e-info.org.tw/node/221882) — Konfirmasi Peraturan Otonomi Konservasi Kucing Batu Kabupaten Miaoli disetujui bacaan ketiga pada 10 Desember 2019.
+Bacaan lebih lanjut:
 
-[^2]: [Wowo: Blast! Lalu Aku Jadi Daging Dendeng — Reportase Tewas Tertabrak](https://wuo-wuo.com/topics/widlife/94-road-killing-topic) — Statistik catatan kucing batu tewas tertabrak 2017-2023.
+- [Wowo: Ancaman yang Diremehkan. Anjing Membunuh Macan Tutul](https://wuo-wuo.com/topics/widlife/dogkill) — Catatan kasus anjing membunuh macan tutul.
+- [Badan Kehutanan dan Konservasi Alam Kementerian Pertanian](https://www.forest.gov.tw/) — Kebijakan konservasi habitat macan tutul.
+- [Duta Konservasi Macan Tutul—Keluarga Ahu](https://www.facebook.com/LeopardCatTaiwan/) — Perkembangan pembiakan buatan macan tutul oleh BioDiversity Center.
 
-[^3]: [Skema Insentif Ekologis Kucing Batu Kementerian Pertanian](https://www.moa.gov.tw/) — Penjelasan skema insentif pertanian ramah kucing batu.
+[^1]: [Peraturan Mandiri Konservasi Macan Tutul Miaoli - Pusat Informasi Lingkungan](https://e-info.org.tw/node/221882) — Konfirmasi persetujuan Peraturan Mandiri Konservasi Macan Tutul Kabupaten Miaoli pada 10 Desember 2019 setelah pembacaan ketiga.
 
-[^4]: [Lembaga Penelitian Keanekaragaman Hayati (Lembaga Keanekaragaman) Kementerian Pertanian](https://www.tbri.gov.tw/) — Program pembiakan buatan kucing batu dan penelitian konservasi.
+[^2]: [Wowo: Plak! Lalu Saya Menjadi Daging Kering—Studi Kasus Tabrakan Jalan](https://wuo-wuo.com/topics/widlife/94-road-killing-topic) — Statistik catatan macan tutul yang tertabrak jalan dari tahun 2017 hingga 2023.
 
-[^5]: [Wowo: Sebelum Punah — Reportase Khusus Kucing Batu Taiwan](https://wuo-wuo.com/topics/widlife/taiwan-leopard-cat) — Reportase lengkap kondisi konservasi kucing batu Taiwan.
+[^3]: [Skema Insentif Ekologi Macan Tutul Kementerian Pertanian](https://www.moa.gov.tw/) — Penjelasan program pertanian ramah macan tutul.
 
-Baca Lebih Lanjut:
+[^4]: [Institut Keanekaragaman Hayati Kementerian Pertanian (Biodiversity Center)](https://www.tbri.gov.tw/) — Rencana pembiakan buatan dan penelitian konservasi macan tutul.
 
-- [Wowo: Ancaman Diremehkan · Anjing Membunuh Kucing Batu](https://wuo-wuo.com/topics/widlife/dogkill) — Catatan kasus anjing membunuh kucing batu.
-- [Direktorat Jenderal Kehutanan dan Konservasi Alam Kementerian Pertanian](https://www.forest.gov.tw/) — Kebijakan konservasi habitat kucing batu.
-- [Duta Konservasi Kucing Batu — Keluarga A Hu](https://www.facebook.com/LeopardCatTaiwan/) — Perkembangan terbaru pembiakan buatan kucing batu Lembaga Keanekaragaman.
+[^5]: [Wowo: Sebelum Kepunahan—Studi Kasus Macan Tutul Taiwan](https://wuo-wuo.com/topics/widlife/taiwan-leopard-cat) — Laporan lengkap tentang kondisi konservasi macan tutul di Taiwan.
