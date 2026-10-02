@@ -5,8 +5,8 @@ type: 'cognitive-buffer'
 status: 'buffer'
 apoptosis: 'never'
 current_version: 'v3.7'
-last_updated: 2026-10-01
-last_session: '2026-10-01-203722-semiont-heartbeat：+1 新 entry（homepage-citation-passes-format-and-reachability-gates vc=1）'
+last_updated: 2026-10-03
+last_session: '2026-10-03-004249-twmd-babel-nightly：+1 新 entry（provenance-stamp-mixes-git-sha-with-worktree-hash）＋2 條 instance（gate-rejects-what-the-prompt-never-taught vc=2、patch-eligibility-measures-chapter-size-not-change-size vc=2）'
 sister_docs:
   - 'MEMORY.md'
   - 'DIARY.md'
@@ -332,6 +332,19 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-10-03 twmd-babel-nightly — provenance-stamp-mixes-git-sha-with-worktree-hash：狀態表從 git 拿版本、從工作樹拿雜湊，工作樹一過期，舊內容就被蓋上新版本的章，而且之後永遠顯示最新
+
+- **pattern**: provenance-stamp-mixes-git-sha-with-worktree-hash
+- **原則**：`status.py` 的 zh `lastCommit` 來自 git log，`contentHash`／`bodyHash` 來自工作樹上的檔案。兩者平常一致；工作樹落在 HEAD 後面時，真的內容改動會被判成「只有 metadata 變」（body 雜湊沒變，因為讀的是舊檔），Tier 0b 照判斷只 bump 版本號，把**修正後的 commit 蓋在修正前內容的譯文上**。接著 Case E（`behind == 0` → `same-commit` → fresh）只看版本號不看雜湊，這批譯文從此在每一份報表上都是最新，沒有任何路徑會再去重翻它們。
+- **觸發**：2026-10-03 00:42 甦醒時工作樹落後 origin 14 個 commit，另外有三篇中文（軟體、遊戲、電動車，10-02 08:55 巡邏修正）在磁碟上停在修正前、mtime 是 07-24，HEAD 卻已經包含修正 commit——不是落後，是 HEAD 移動了而檔案沒跟著動（成因未查明）。10-02 09:16 與 09:54 兩個時間點各有一批譯文在一秒內被蓋上新版本號（translatedAt 相同到秒），軟體篇十二語至今都還寫著巡邏刪掉的「資服業營收 6,800 億」，status 判 fresh。用「譯文記錄的雜湊等於 zh 哪一個舊版本」逐篇比對 git 歷史，找出 34 份確定是舊內容（軟體 12、電動車 12、遊戲 7、李宗盛 3），sourceCommitSha 改回真正的舊 commit 讓它們重新排隊（`c18e47390`）。同一份比對另有 1,072 份 same-commit 但雜湊對不上任何近 12 版，成因不明（可能是雜湊算法或格式差異），沒有動。→ memory/2026-10-03-004249-twmd-babel-nightly
+- **instances**：
+  - 2026-10-03 twmd-babel-nightly — 34 份譯文被蓋上修正後的版本號、內容停在修正前 → 本條
+- **可能層級**：操作規則（status.py 的取數來源）＋通用反射候選（同一個判斷的兩個輸入來自兩個可能不同步的來源）
+- **候選機械化**：(a) status.py 的 zh 雜湊改從 `git show <lastCommit>:<path>` 算，跟版本號同源；工作樹跟 HEAD 不同時另報「zh 工作樹未提交」而不是拿它分類；(b) Case E 加雜湊比對：版本號相同而雜湊不同時，若雜湊等於某個舊版本就判 stale（今晚的比對法，只在對不上時才付 git show 的成本）。兩者都改了狀態判準，屬 High-stake #3，要 Full mode 或哲宇拍板；1,072 份的成因要先查清楚才能決定 (b) 會不會誤翻。另外「HEAD 動了檔案沒動」的成因本身要查：這台機器上有誰會只改 ref 不 checkout。
+- **相關**：REFLEXES #67 子規則「工作樹本身可以是過期快照」（那條是讀到過期，本條是過期的工作樹被寫進每份譯文的出處欄、而且之後不會再被任何讀取揭穿）、#38（一個 status 值承載兩種來源）、#100（驗證對象要等於落地對象）
+- **verification_count**: 1
+- **structural**: true
+
 ### 2026-10-02 twmd-maintainer-am — flywheel-path-layer-rests-on-one-undocumented-root-owned-symlink：十二條 routine 殼的寫死路徑能解析，只因為有一條沒人記載、沒人檢查的 root 符號連結
 
 - **pattern**: flywheel-path-layer-rests-on-one-undocumented-root-owned-symlink
@@ -410,10 +423,11 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **觸發**：2026-10-01 晚 semiont-heartbeat 巡邏修六篇（每篇 diff 10–30 行），十二語 72 份全部走整篇重翻（例：〈台灣社區與里文化〉5/11 章節、55.6%）。對讀抓到四篇引入新錯（fr 鄰長→鄉長、en 十二年國教→Compulsory、ja 臭豆腐→臭豆腸、ko 釋字→大法院判決），其中 en 那篇的新錯正是當天中文要修的那一個。最後兩份產線撞牆的改用 Tier 0a 手動補丁，十分鐘內過閘（`1f3ecde1c`）。memory/2026-10-02-014120-twmd-babel-nightly.md
 - **instances**：
   - 2026-10-02 twmd-babel-nightly — 六篇巡邏修正 × 十二語，72/72 整篇重翻、4 篇引入新錯 → 本條
+  - 2026-10-03 twmd-babel-nightly — 新工具 `retranslation-drift-check.py`（只比中文沒改的章）回頭掃 10-02 那 72 份，又找到日文〈台灣社區與里文化〉「社區」98 處寫成「社協」，標題也換了；改回舊譯文只補改過的句子（`8d37abdf9`）。今晚再 77 份整篇重翻，日文〈台灣藝術教育與學院發展〉「芸術院校」11 處在 commit 前改回。工具把對讀從「挑十幾份讀」變成「先讀 ⚠️ 那幾份」
 - **可能層級**：操作規則（babel 補丁判準）＋與 OBSERVER-QUEUE #78 交互
 - **候選機械化**：補丁資格改看 diff 實際行數或改動句數（例如改動句 ≤ 全文 15% 就補丁，章節可以多），或把參考資料／腳註區排除出分母。這是品質閘門數值，屬 High-stake #3，要 Full mode 或哲宇拍板，本班未動。
 - **相關**：REFLEXES #38（同一個比例承載兩種意思：「改動大」與「改動分散」）、OBSERVER-QUEUE #78（重翻交給名單外模型才讓這件事有代價）、MEMORY §神經迴路「巴別塔會把三月未審初稿裡的幻覺放大到十二語」（巡邏越勤，這條路徑越常被觸發）
-- **verification_count**: 1
+- **verification_count**: 2
 
 ### 2026-10-01 semiont-heartbeat — homepage-citation-passes-format-and-reachability-gates：腳註指向機構首頁，格式閘門與死鏈閘門都會放行，但它不支持任何一句話
 
@@ -447,10 +461,12 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **觸發**：2026-10-01 00:40 起查 ru〈309本里長帳簿〉16 小時 310 次失敗：gemma4:e4b、laguna、nemotron、Haiku 四個後端都把台灣標準寫法「3,275 元」譯成 `юаней`（幣別閘 `currency-identity-check`，09-09 起、09-26 接進 dispatcher verify），而 `translate.py` 的系統提示七條規則裡沒有一句提到金額。加規則 8（裸元是新台幣，寫 NT$ 或明寫新台幣）後 Haiku 三次的裸幣別數 0／29／5，下降但不穩定。→ `c0a561c53`、memory/2026-10-01-010545-twmd-babel-nightly
 - **instances**：
   - 2026-10-01 twmd-babel-nightly — 幣別閘 vs 提示無金額規則（ru 最嚴重）→ `c0a561c53`
+  - 2026-10-03 twmd-babel-nightly（三夜觀察窗第三夜）— 規則 8 只寫進了整篇引擎，分段引擎與章節補丁的提示都沒有；hi〈台灣石虎保育〉走補丁路徑，laguna 與 gemma4 都把「兩萬元」寫成 युआन。規則改住 `structured-translate.money_rule()` 三處共用，測試鎖住（`b5d71034a`）。判讀：整篇引擎那條路上規則有效，殘留來自同一條規則沒接到其他產出端——候選機械化那句「每道閘門對照提示」要對照**每一條**送正文給模型的路
+  - 2026-10-03 twmd-babel-nightly（同夜後段）— 規則接到三條引擎之後，hi〈台灣石虎保育〉03:40／03:55 兩次嘗試（gemma4）仍寫「20,000 युआन」。教了也不一定學得會：對某些模型×語言組合，提示裡的規則壓不過模型自己的預設，只剩換模型（改派 Sonnet，`0c70f7761`）。候選：幣別閘門連續擋同一篇 ≥3 次且跨兩種模型，就從免費產線撤出直接進委派層
 - **可能層級**：操作規則（每新增一道內容閘門，同一個 commit 要在產出端提示補一句對應規則）＋儀器候選
 - **候選機械化**：列出 `babel-dispatch` verify 的每一道內容閘門，對照 `translate.py` 提示與 `TRANSLATION-{lang}.md` TL;DR 有沒有對應的一句；沒有的標成「只擋不教」。另一條路是閘門自帶修法（幣別可用數字錨定改寫，checker 已寫明不要裸字串取代），但那是把判斷交給儀器，需先確認原文沒有人民幣。
 - **相關**：REFLEXES #83（一個轉換住在三條引擎裡：那條講同一個判斷在多支工具各自實作；本條是同一條規則只住在檢查端、不住在產生端）、#38 (d)（確定性缺陷記成模型失敗）
-- **verification_count**: 1
+- **verification_count**: 2
 
 ### 2026-10-01 twmd-babel-nightly — never-starve-hands-the-task-to-the-worst-worker：「不讓語言餓死」的保底，會把唯一一篇交給最不可能做好的那台
 
