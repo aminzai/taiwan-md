@@ -1,155 +1,154 @@
 ---
 title: "L'industrie du jeu vidéo et du divertissement numérique à Taïwan"
-description: 'Des premiers distributeurs aux développeurs originaux, comment Taïwan a trouvé sa voix sur le marché mondial du jeu vidéo'
+description: 'Du passage des distributeurs aux développeurs originaux, comment Taïwan a trouvé sa voix dans le marché mondial du jeu vidéo'
 date: 2026-03-18
-author: 'Taiwan.md'
 category: 'Technology'
-subcategory: '半導體與硬體'
 tags:
   [
-    'Industrie du jeu vidéo',
-    'Divertissement numérique',
-    'Création culturelle',
-    'Secteur technologique',
-    'Jeux indépendants',
+    'industrie du jeu vidéo',
+    'divertissement numérique',
+    'création culturelle',
+    'technologie',
+    'jeux indépendants',
   ]
+subcategory: '數位娛樂'
 readingTime: 11
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: true
 translatedFrom: 'Technology/台灣遊戲產業與數位娛樂.md'
-sourceCommitSha: 'd6e87d07'
-sourceContentHash: 'sha256:431ea1bf9d43ad2f'
-sourceBodyHash: 'sha256:3075ecd0a9c35ac1'
-translatedAt: 2026-05-16T22:27:56Z
+sourceCommitSha: '38b58ab04'
+sourceContentHash: 'sha256:d2d08f4f883aa3cc'
+sourceBodyHash: 'sha256:6159201bd426eed7'
+translatedAt: '2026-10-03T03:14:53+08:00'
 ---
 
 # L'industrie du jeu vidéo et du divertissement numérique à Taïwan
 
 ## Aperçu en 30 secondes
 
-L'industrie du jeu vidéo taïwanaise, née de l'activité de distribution dans les années 1980, est devenue aujourd'hui une plateforme majeure de divertissement numérique. En 2024, la valeur de production combinée des secteurs du jeu vidéo et de l'e-sport a atteint 126 milliards de dollars taïwanais (NTD), avec un taux de croissance annuel composé de 4,8 %. Des éditeurs historiques comme Soft-World (智冠) et Gamania (遊戲橘子) aux développeurs originaux comme Red Candle Games (赤燭) et Rayark (雷亞), l'industrie du jeu vidéo taïwanaise avance sur deux voies parallèles : la « création culturelle originale » et le « déploiement mondial ».
+L'industrie du jeu vidéo à Taïwan a démarré dans les années 1980 par la distribution et s'est développée pour devenir un important pôle de divertissement numérique. PwC estime que la valeur du marché des jeux vidéo et de l'eSport en 2024 s'élève à environ 12,6 milliards de dollars de Taïwan (NT$126 billion), avec un taux de croissance composé annuel de 4,8 % entre 2022 et 2027. Des éditeurs historiques comme Soft-World et Game Factory, aux développeurs originaux comme Red Candle Games et LeYu, l'industrie taïwanaise se tourne désormais vers la « création culturelle » et l'« expansion internationale ».
 
-**Mots-clés :** Red Candle Games, Rayark, Soft-World, Gamania, propriété intellectuelle culturelle taïwanaise, jeux indépendants
+**Mots-clés :** Red Candle Games, LeYu, Soft-World, Game Factory, IP culturelle taïwanaise, jeux indépendants
 
 ## Pourquoi c'est important
 
-L'essor de l'industrie du jeu vidéo taïwanaise symbolise la transition d'une « économie de sous-traitance » vers une « économie créative ». Alors que l'industrie des semi-conducteurs excelle dans le matériel, l'industrie du jeu vidéo part à la conquête internationale par la puissance douce — en combinant l'héritage culturel, le sens esthétique et les compétences techniques de Taïwan pour créer des contenus numériques uniques.
+L'émergence de l'industrie du jeu vidéo à Taïwan symbolise la transition d'une « mentalité de sous-traitance » à une « économie créative ». Alors que l'industrie de la fabrication de semi-conducteurs excellait dans le matériel, l'industrie du jeu vidéo s'engageait avec la force tranquille — combinant le patrimoine culturel, le goût esthétique et les capacités techniques de Taïwan pour créer un contenu numérique unique.
 
-_Detention_ (_返校_) a fait découvrir au monde l'histoire de la loi martiale à Taïwan, _Cytus_ a conquis les joueurs du monde entier grâce au jeu musical. Ces œuvres possèdent à la fois une valeur ludique et un pouvoir de diffusion culturelle, permettant à Taïwan de raconter son histoire au monde dans le langage du jeu vidéo. À l'ère de l'IA et du métavers, l'industrie du jeu vidéo devient également un laboratoire d'exploration essentiel pour l'intégration virtuel-réel et les expériences immersives.
+_Back to School_ a permis au monde de découvrir l'histoire de la dictature à Taïwan, _Cytus_ a conquis les joueurs mondiaux grâce à la musique, ces œuvres possèdent à la fois une valeur de divertissement et une force de transmission culturelle, permettant à Taïwan de raconter son histoire à travers le langage des jeux. Dans l'ère de l'IA et du métavers, l'industrie du jeu vidéo devient également un terrain d'expérimentation crucial pour l'intégration entre le virtuel et le réel, ainsi que pour les expériences immersives.
 
-## Panorama et taille de l'industrie
+## Aperçu et échelle de l'industrie
 
-### Données de marché
+### Données du marché
 
-Selon le rapport _Global Entertainment & Media Outlook 2024-2028_ de PwC[^1], la valeur de production des secteurs du jeu vidéo et de l'e-sport à Taïwan a atteint 3,886 milliards de dollars américains (environ 126 milliards de NTD) en 2024. Le taux de paiement des joueurs taïwanais est élevé ; bien que le marché local soit de taille modeste, sa propension à adopter rapidement les nouveaux produits attire les éditeurs internationaux qui y testent leurs offres.
+Selon un rapport publié en juillet 2024 par PwC[^1][^5], la valeur du marché taïwanais des jeux vidéo et de l'eSport en 2024 est estimée à 38,86 millions de dollars (environ 12,6 milliards de NT$), couvrant les jeux communautaires et de loisirs, les jeux d'arcade traditionnels, les jeux PC, la publicité ludique et l'eSport.
 
-Le taux de croissance annuel composé du marché taïwanais du jeu vidéo est estimé à 4,8 % pour la période 2022-2027, avec une valeur de production prévue d'environ 4,464 milliards de dollars américains en 2027 (rapport PwC 2024[^1]). Comparativement au marché mondial du jeu vidéo, évalué à environ 184,3 milliards de dollars américains en 2024 (rapport Newzoo 2024[^2]), Taïwan, avec moins de 0,4 % de la population mondiale, contribue à plus de 2 % de la valeur du marché.
+Le taux de croissance composé annuel du marché taïwanais du jeu vidéo entre 2022 et 2027 est estimé à 4,8 %, avec une valeur prévue d'environ 44,64 millions de dollars en 2027 (rapport PwC 2024[^1])。En comparaison, le marché mondial des jeux vidéo en 2024 est estimé à environ 187,7 milliards de dollars selon Newzoo[^2]。Bien que les portées des deux rapports ne soient pas identiques, en termes d'échelle, Taïwan, avec moins de 0,4 % de la population mondiale, représente environ 2 % du marché.
 
 ### Structure de l'industrie
 
-L'industrie du jeu vidéo taïwanaise peut être divisée en trois grandes catégories :
+L'industrie taïwanaise du jeu vidéo peut être divisée en trois catégories principales :
 
-**Grands éditeurs :** Soft-World (fondé en 1983[^6]), Gamania (fondé en 1999), International Games System (鈊象電子), principalement actifs dans la distribution de jeux et l'exploitation de plateformes.
+**Éditeurs majeurs :** Soft-World (fondé en 1983[^6])、Game Factory (fondé en 1995, adopté son nom actuel en 1999)、 principalement chargés de la distribution et de l'exploitation de plateformes de jeux.
 
-**Développeurs originaux :** Rayark, Red Candle Games, Jaywalk Interactive Entertainment (甲山林娛樂), spécialisés dans la recherche et développement interne et la création de propriétés intellectuelles.
+**Développeurs originaux :** Broccoli (fondé en 1989, série emblématique _Romance of the Three Kingdoms_)、LeYu、Red Candle Games、Jiasanlin Entertainment等、 spécialisés dans le développement autonome et la création d'IP.
 
-**Studios indépendants :** Des centaines de petites équipes qui publient des œuvres originales sur Steam et les plateformes mobiles, formant un écosystème dynamique de jeux indépendants.
+**Studios indépendants :** Des centaines de petites équipes publient leurs œuvres originales sur Steam et les plateformes mobiles, formant un écosystème dynamique de jeux indépendants.
 
-## L'évolution de l'industrie : de la distribution à la création originale
+## De la distribution à la création : l'évolution de l'industrie
 
-### L'ère de la distribution et des premières créations (années 1980-2000)
+### L'ère de la création et de la distribution (années 1980-2000)
 
-L'industrie du jeu vidéo taïwanaise trouve son origine dans l'activité de distribution. Softstar Entertainment (大宇資訊, désormais renommée 光聚晶電聯合股份有限公司) a été fondée en 1988 et a publié en 1990 le premier jeu de rôle en environnement chinois, _Xuan-Yuan Sword_ (_軒轅劍_). En 1995, la société a lancé _Chinese Paladin_ (_仙劍奇俠傳_), consolidant la réputation des « deux épées » de Softstar. Soft-World, fondée en 1983, est devenue le plus grand distributeur de logiciels de jeux à Taïwan et a assuré la distribution de _World of Warcraft_ pendant dix ans avant de se lancer dans le développement interne. Gamania, quant à elle, a commencé par distribuer des jeux en ligne coréens, introduisant sur le marché taïwan des titres emblématiques comme _Lineage_ (_天堂_) et _MapleStory_ (_楓之谷_).
+L'industrie taïwanaise du jeu vidéo trouve ses racines dans la distribution. Broccoli (aujourd'hui rebaptisé comme Light Peak Crystal United Co., Ltd.) a été fondée en 1988[^8]、 et a lancé le jeu de rôle _The Sword of Xuanyuan_ en 1990. Ensuite, en 1995, elle a lancé _The Legend of the Sword and Fairy_ pour établir la réputation de la double épée de Broccoli. À la même époque, Soft-World, fondée en 1983, est devenue le principal distributeur de logiciels de jeu à Taïwan, puis a exploité _World of Warcraft_ à Taïwan, Hong Kong et Macao pendant près de dix ans (2005–2015) via sa filiale Soft-World Technology. Plus tard, elle a commencé à produire ses propres jeux. Game Factory, quant à elle, a démarré par la distribution de jeux en ligne coréens, introduisant des œuvres classiques comme _Lineage_ et _MapleStory_ sur le marché taïwanais.
 
-Cette phase a permis de construire l'infrastructure de l'industrie du jeu vidéo taïwan : réseaux de distribution, communautés de joueurs, technologies d'exploitation, mais l'énergie créative provenait principalement de l'étranger.
+Cette phase a établi les infrastructures de base de l'industrie taïwanaise du jeu vidéo : canaux de distribution, communautés de joueurs, technologies d'exploitation, mais la créativité artistique dépendait principalement de l'étranger.
 
-### La période de transition (années 2000-2010)
+### Période de transition (années 2000-2010)
 
-Avec l'essor des jeux en ligne, les entreprises taïwanaises ont commencé à tenter le développement interne. International Games System s'est imposée dans le domaine des jeux de hasard et d'argent, tandis que Software World (ultérieurement rachetée par Soft-World) a lancé plusieurs jeux en ligne locaux.
-Sur le plan des thèmes, des œuvres sortant du cadre du _wuxia_ ont commencé à apparaître, comme la série _Wind Fantasy_ (_風色幻想_) de FunYours Technology (弘煜科技), qui a tracé une voie différente en mêlant un style japonais et un univers fantastique.
-Cependant, les créations originales de cette période imitaient souvent les modèles à succès étrangers et manquaient d'identité culturelle propre. La véritable percée devait attendre la génération suivante.
+Avec l'essor des jeux en ligne, les acteurs taïwanais ont commencé à tenter le développement autonome. Les thèmes ont également commencé à sortir du wuxia traditionnel, par exemple, la série _Wind and Color Fantasy_ de Hongyu Technology a suivi un style japonais avec des éléments fantastiques pour tracer une voie différente.
+Cependant, les œuvres originales de cette période imitaient largement les modèles étrangers à succès, manquant de caractéristiques culturelles distinctives. Le véritable sursaut devra attendre la prochaine génération.
 
 ### L'essor de la création originale (années 2010 à aujourd'hui)
 
-À partir des années 2010, Taïwan a vu émerger des œuvres véritablement originales et culturellement distinctives :
+À partir des années 2010, Taïwan a vu apparaître des œuvres de jeux véritablement originales et culturellement distinctives :
 
-**Rayark** a été fondée en 2011 et a lancé des jeux de rythme musical comme _Cytus_ et _Deemo_, conquérant les joueurs du monde entier grâce à un design visuel raffiné et une musique exquise. Ses œuvres sont imprégnées d'une riche profondeur artistique et de scénarios originaux, illustrant le goût unique de Taïwan pour l'esthétique numérique.
+**LeYu** a été fondée en 2011, lançant des jeux musicaux rythmés comme _Cytus_ et _Deemo_, conquis les joueurs mondiaux grâce à un design visuel raffiné et une musique mélodieuse. Ses œuvres regorgent d'une forte esthétique artistique et d'histoires originales, montrant le goût esthétique numérique unique de Taïwan.
 
-**Red Candle Games**, fondée en 2015, s'est fait connaître avec des jeux d'aventure horrifiques comme _Detention_ (_返校_) et _Devotion_ (_還願_). Ces œuvres explorent en profondeur l'histoire et la culture taïwanaises, transformant la mémoire collective de la période de la loi martiale et les croyances folkloriques taïwanaises en expériences ludiques, permettant aux joueurs étrangers de découvrir Taïwan à travers le divertissement interactif. _Detention_ a dépassé le million d'exemplaires vendus dans le monde et a été adapté en 2019 en un film éponyme.
+**Red Candle Games** a été fondée en 2015, devenue connue pour ses jeux d'horreur d'aventure comme _Back to School_ et _Wishful Thinking_. Ces œuvres explorent en profondeur l'histoire et la culture taïwanaise, transformant le souvenir collectif de l'ère martiale et les croyances populaires taïwanaises en expériences ludiques, permettant aux joueurs étrangers de découvrir Taïwan à travers le divertissement interactif. _Back to School_ a été adapté en film homonyme en 2019.
 
-## Les caractéristiques culturelles du jeu vidéo taïwanais
+## Caractéristiques culturelles des jeux taïwanais
 
-### La numérisation de la mémoire historique
+### Numérisation de la mémoire historique
 
-_Detention_ se déroule dans le contexte de la Terreur blanche des années 1960, traduisant l'oppression du régime autoritaire à travers une atmosphère horrifique scolaire. _Devotion_ dépeint une famille taïwanaise des années 1980, utilisant des éléments religieux folkloriques pour habiller l'anxiété de la vie urbaine moderne. Ces œuvres transforment l'expérience historique propre à Taïwan en contenu numérique expérientiel.
+_Back to School_ se déroule dans les années 1960 pendant la période de la terreur blanche, présentant une atmosphère d'horreur scolaire pour illustrer la répression sous le régime autoritaire. _Wishful Thinking_ décrit la famille taïwanaise des années 1980, emballant l'anxiété de la vie urbaine moderne avec des éléments de religion populaire. Ces œuvres transforment l'expérience historique unique de Taïwan en contenu numérique expérimentable.
 
-### L'esthétique musicale et visuelle
+### Musique et esthétique visuelle
 
-Le succès de Rayark démontre l'avantage de Taïwan dans le domaine des jeux musicaux. La série _Cytus_ est un album de musique électronique interactif : en frappant les notes, les joueurs débloquent progressivement une narration. Son design visuel fusionne science-fiction et esthétique orientale, formant un style unique de « zen numérique ».
+Le succès de LeYu démontre l'avantage de Taïwan dans le domaine des jeux musicaux. La série _Cytus_ est un album de musique électronique interactive, où les joueurs débloquent progressivement l'histoire tout en frappant les notes. Son design visuel combine la science-fiction et l'esthétique orientale pour créer un style unique de « zen numérique ».
 
-### La voie du « petit et du raffiné »
+### Petit mais précieux : la finesse
 
-Comparées aux productions AAA des grands studios occidentaux ou à la production commerciale de masse du Japon et de la Corée du Sud, les jeux taïwanais adoptent majoritairement une approche « petite mais raffinée ». Des budgets limités poussent les développeurs à se concentrer sur la créativité et l'esthétique, créant ainsi une valeur artistique singulière.
+Contrairement aux productions AAA des grands groupes occidentaux ou aux productions commerciales de masse du Japon et de la Corée, les jeux taïwanais adoptent souvent une approche « petite mais précieuse ». Les budgets limités poussent les développeurs à se concentrer sur la créativité et l'esthétique, créant ainsi une valeur artistique unique.
 
-## Innovation technologique et collaborations transversales
+## Innovation technologique et collaboration intersectorielle
 
-### Développement de propriétés intellectuelles transmédia
+### Développement transmédiatique des IP
 
-_Detention_ a été adapté avec succès en film et en série télévisée, inaugurant la valeur transmédia des propriétés intellectuelles de jeux taïwanais. Ce modèle de valorisation multiple maximise la valeur commerciale du contenu original et prouve que le jeu vidéo peut devenir un moteur central de l'industrie culturelle.
+Le succès de _Back to School_ en adaptation au cinéma et à la télévision a ouvert la voie à la valeur transmédiatique des IP taïwanaises. Ce modèle « tirer le maximum de valeur d'une seule œuvre » maximise la valeur commerciale du contenu original, prouvant que les jeux peuvent devenir la force motrice centrale de l'industrie culturelle.
 
-### Applications technologiques VR/AR
+### Application des technologies VR/AR
 
-Les entreprises taïwanaises continuent d'explorer les applications des technologies émergentes. UserJoy Technology (宇峻奧汀) s'est lancée dans le développement de jeux en réalité virtuelle, tandis que Digital Domain et HTC Vive ont collaboré pour produire des contenu VR, étendant ainsi l'avantage manufacturier matériel vers le logiciel.
+Les acteurs taïwanais continuent d'étendre l'application des nouvelles technologies, comme l'entrée de l'entreprise IntoVR dans le développement de jeux VR.
 
-### Développement assisté par l'IA
+### Développement assisté par IA
 
-Avec l'essor de l'IA générative, les développeurs taïwanais ont commencé à intégrer des outils d'IA dans leurs processus de développement, notamment pour la conception de personnages, la génération de scénarios et le débogage de code, améliorant ainsi l'efficacité du développement.
+Avec l'essor de l'IA générative, les acteurs de l'industrie taïwanaise du jeu vidéo commencent à intégrer des outils d'IA dans leurs processus de développement, utilisés pour la conception de personnages, la génération d'histoires, le débogage de code, etc., améliorant ainsi l'efficacité du développement.
 
 ## Défis et opportunités
 
-### Talents et financement
+### Ressources humaines et financement
 
-L'industrie du jeu vidéo taïwanaise fait face à un double défi : la fuite des cerveaux et le manque de financement. De nombreux développeurs talentueux sont recrutés par des entreprises en Chine, à Singapour et ailleurs, attirés par des salaires élevés, tandis que l'environnement d'investissement local offre un soutien limité à une industrie à haut risque et à cycle long.
+L'industrie taïwanaise du jeu vidéo fait face à deux défis majeurs : la fuite des cerveaux et le manque de financement. De nombreux développeurs talentueux sont recrutés par des salaires élevés en Chine continentale, à Singapour, etc., tandis que l'environnement d'investissement local offre peu de soutien à un secteur à haut risque et à long cycle de retour sur investissement.
 
-### Compétition sur le marché international
+### Concurrence sur les marchés internationaux
 
-La concurrence sur le marché mondial du jeu vidéo est féroce. Les entreprises taïwanaises doivent trouver leur propre positionnement face à l'avantage technologique des États-Unis, à la puissance des propriétés intellectuelles japonaises et à l'échelle de production coréenne. La spécificité culturelle et la différenciation créative deviennent des avantages compétitifs essentiels.
+Le marché mondial des jeux vidéo est très compétitif, les acteurs taïwanais doivent se positionner parmi les avantages technologiques des États-Unis, la force des IP du Japon et l'échelle de production de la Corée. La particularité culturelle et la différenciation créative deviennent des forces compétitives clés.
 
 ### Soutien politique
 
-Le ministère du Développement numérique (數位發展部)[^3] a inclus l'industrie du jeu vidéo dans son programme de soutien à l'industrie du contenu numérique, offrant des subventions pour la recherche et le développement technologique ainsi qu'un soutien au marketing international. L'agence TAICCA (文化內容策進院)[^4] promeut également des programmes d'incubation de propriétés intellectuelles originales, aidant les entreprises à développer des contenus à valeur culturelle.
+Le ministère du Développement numérique[^3] inclut l'industrie du jeu vidéo dans le cadre d'assistance de l'industrie du contenu numérique, offrant des subventions de recherche et de développement technologique, ainsi que un soutien au marketing international. Le Conseil de la promotion du contenu culturel (TAICCA)[^4] promeut également des programmes d'incubation d'IP originales, aidant les acteurs à développer des contenus à forte valeur culturelle.
 
 ## Perspectives d'avenir
 
-### Métavers et intégration virtuel-réel
+### Métavers et intégration du virtuel et du réel
 
-Avec l'émergence du concept de métavers, les entreprises de jeux taïwanaises commencent à explorer des modèles d'affaires intégrant virtuel et réel. En combinant le double avantage de Taïwan dans la fabrication de matériel et le développement de logiciels, il est possible de bâtir une compétitivité dans le domaine des expériences immersives.
+Avec l'émergence du concept de métavers, les acteurs taïwanais du jeu vidéo commencent à explorer des modèles commerciaux d'intégration entre le virtuel et le réel. En combinant les avantages de Taïwan dans la fabrication de matériels et le développement de logiciels, il y a des opportunités de se développer dans le domaine des expériences immersives.
 
-### Le jeu comme vecteur numérique de rayonnement culturel
+### Support de diffusion culturelle numérique
 
-Les jeux vidéo taïwanais deviennent un vecteur important de rayonnement culturel. Grâce au langage universel du divertissement interactif, Taïwan peut raconter ses propres histoires et diffuser ses propres valeurs au monde.
+Les jeux taïwanais deviennent un support important de diffusion culturelle. À travers le langage de divertissement universellement compris que sont les jeux, Taïwan peut raconter son histoire au monde et diffuser ses valeurs.
 
 ### Perfectionnement de l'écosystème industriel
 
-Des outils de développement aux plateformes de distribution en passant par les compétitions d'e-sport, l'infrastructure de l'industrie du jeu vidéo taïwan est en train de se structurer. Lorsque l'écosystème sera plus complet, il pourra attirer davantage de talents créatifs dans ce domaine.
+Des outils de développement, des plateformes de publication, jusqu'aux compétitions d'eSport, l'infrastructure de l'industrie taïwanaise du jeu vidéo se met en place progressivement. Une fois que l'écosystème sera plus complet, il pourra attirer davantage de talents créatifs vers ce domaine.
 
-Bien que l'industrie du jeu vidéo taïwanaise ait démarré tardivement et à une échelle modeste, elle s'est déjà forgé une place propre sur le marché mondial grâce à une perspective culturelle unique et à une qualité de production raffinée. De l'île de la sous-traitance à la base créative, Taïwan redéfinit son rôle dans le monde à travers le divertissement numérique.
+Bien que l'industrie taïwanaise du jeu vidéo ait démarré tardivement et soit de petite taille, grâce à sa perspective culturelle unique et à la qualité de production raffinée, elle a déjà trouvé sa place sur le marché mondial. De l'île de la sous-traitance au pôle créatif, Taïwan redéfinit son rôle dans le monde à travers le divertissement numérique.
 
 ## Références
 
-[^1]: [PwC — Global Entertainment & Media Outlook 2024-2028](https://www.pwc.com/gx/en/industries/tmt/media/outlook.html) — Valeur de production des secteurs du jeu vidéo et de l'e-sport à Taïwan en 2024 : 3,886 milliards USD (environ 126 milliards NTD) ; prévision 2027 : 4,464 milliards USD
+[^1]: [Industrial Times — Rapport PwC : La valeur du marché taïwanais des jeux et de l'eSport en 2024 devrait atteindre 12,6 milliards](https://www.ctee.com.tw/news/20240701700150-439901) — Le 1er juillet 2024, le rapport de PwC indique que la valeur du marché en 2024 devrait atteindre 38,86 millions de dollars (environ 12,6 milliards de NT$), avec un taux de croissance composé annuel de 4,8 % entre 2022 et 2027, pouvant atteindre 44,64 millions de dollars en 2027.
 
-[^2]: [Newzoo — Global Games Market Report 2024](https://newzoo.com/resources/rankings/top-10-largest-games-markets-in-the-world/) — Marché mondial du jeu vidéo en 2024 : environ 184,3 milliards USD ; légère révision par rapport aux prévisions 2023
+[^2]: [Newzoo — Global Games Market Report 2024 (version gratuite)](https://best-of-gaming.be/wp-content/uploads/2024/09/2024_Newzoo_Global_Games_Market_Report.pdf) — « En 2024, le marché mondial des jeux générera 187,7 milliards de dollars », avec une croissance annuelle de 2,1 %.
 
-[^3]: [Ministère du Développement numérique — Agence de l'industrie numérique](https://moda.gov.tw/) — Statistiques de soutien à l'industrie du jeu vidéo et du contenu numérique à Taïwan
+[^3]: [Bureau de l'industrie numérique du ministère du Développement numérique](https://moda.gov.tw/) — Statistiques sur l'assistance apportée à l'industrie taïwanaise des jeux et du contenu numérique.
 
-[^4]: [TAICCA — Taiwan Creative Content Agency](https://taicca.tw/) — Programme d'incubation de propriétés intellectuelles originales, rapports de recherche sur l'industrie du jeu vidéo
+[^4]: [Conseil de la promotion du contenu culturel (TAICCA)](https://taicca.tw/) — Programmes d'incubation d'IP originales, rapports de recherche sur l'industrie du jeu vidéo.
 
-[^5]: [LnData — Rapport d'analyse des données de l'industrie du jeu vidéo et de l'e-sport 2024](https://www.lndata.com/explore/trending/article/2024-game-industry-analysis) — Analyse de la taille du marché taïwanais du jeu vidéo et de l'e-sport
+[^5]: [LnData — Rapport d'analyse des données sur les jeux et l'industrie de l'eSport 2024](https://www.lndata.com/explore/trending/article/2024-game-industry-analysis) — Analyse de l'échelle du marché taïwanais des jeux et de l'eSport.
 
-[^6]: [Soft-World International (智冠科技) — Site officiel](https://www.soft-world.com/) — Fondée en 1983, l'un des premiers distributeurs de logiciels de jeux à Taïwan (note : la version anglaise de Wikipédia indique une introduction au TWSE en 2001 ; l'affirmation selon laquelle il s'agirait de la « première société de jeux cotée en bourse » n'a pas pu être vérifiée)
+[^6]: [Soft-World Technology — Wikipédia](https://zh.wikipedia.org/zh-tw/%E6%99%BA%E5%86%A0%E7%A7%91%E6%8A%80) — Fondée le 15 juillet 1983, nom anglais : Soft-World International Corporation.
 
-[^7]: [Rayark (雷亞遊戲) — Site officiel](https://rayark.com/zh/) — Œuvres originales de jeux musicaux : _Cytus_, _Deemo_, etc.
+[^7]: [LeYu (Rayark) — Site officiel](https://rayark.com/zh/) — Jeux musicaux originaux tels que _Cytus_ et _Deemo_.
 
-[^8]: [光聚晶電聯合 (anciennement Softstar Entertainment) — Wikipédia](https://zh.wikipedia.org/w/index.php?title=%E5%85%89%E8%81%9A%E6%99%B6%E9%9B%BB%E8%81%AF%E5%90%88&oldformat=true) — Fondée en 1988, développeur original de _Xuan-Yuan Sword_ et _Chinese Paladin_
+[^8]: [Light Peak Crystal United (anciennement Broccoli)](https://zh.wikipedia.org/w/index.php?title=%E5%85%89%E8%81%9A%E6%99%B6%E9%9B%BB%E8%81%AF%E5%90%88&oldformat=true) — Fondée en 1988, développeuse originale de _The Sword of Xuanyuan_ et _The Legend of the Sword and Fairy_.
