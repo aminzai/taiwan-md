@@ -98,3 +98,53 @@ def test_extract_urls_ignores_italic_underscore_closer():
     tr = "_그림 페이지: https://commons.wikimedia.org/wiki/File:Port_of_Kaohsiung_map.svg._"
     assert VERIFY.extract_urls(zh) == VERIFY.extract_urls(tr)
     assert VERIFY.extract_urls(tr) == ["https://commons.wikimedia.org/wiki/File:Port_of_Kaohsiung_map.svg"]
+
+
+# ── sourceCommitSha 對得上中文檔歷史（OBSERVER-QUEUE #65 (a)，2026-10-03）──
+
+import subprocess
+
+import pytest
+
+ZH = "Food/台灣手搖飲文化.md"
+
+
+def _git(*args):
+    return subprocess.run(["git", *args], cwd=ROOT, capture_output=True, text=True).stdout.strip()
+
+
+needs_full_history = pytest.mark.skipif(
+    _git("rev-parse", "--is-shallow-repository") != "false",
+    reason="淺 clone 沒有歷史可驗",
+)
+
+
+@needs_full_history
+def test_source_sha_commit_that_touched_zh_passes():
+    born = _git("log", "--diff-filter=A", "--format=%h", "--", f"knowledge/{ZH}").split()[-1]
+    level, _ = VERIFY.source_sha_history_check(ZH, born)
+    assert level == "PASS"
+
+
+@needs_full_history
+def test_source_sha_unresolvable_fails():
+    level, detail = VERIFY.source_sha_history_check(ZH, "0000000")
+    assert level == "FAIL"
+    assert "recover-source-sha" in detail
+
+
+@needs_full_history
+def test_source_sha_commit_that_never_touched_zh_warns():
+    last = _git("log", "-1", "--format=%H", "--", f"knowledge/{ZH}")
+    head = _git("rev-parse", "HEAD")
+    if head == last:
+        pytest.skip("HEAD 剛好改過這篇，換不出沒碰過它的 commit")
+    level, _ = VERIFY.source_sha_history_check(ZH, head[:9])
+    assert level == "WARN"
+
+
+@needs_full_history
+def test_source_sha_commit_before_zh_existed_fails():
+    root = _git("rev-list", "--max-parents=0", "HEAD").split()[0]
+    level, _ = VERIFY.source_sha_history_check(ZH, root[:9])
+    assert level == "FAIL"

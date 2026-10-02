@@ -3,9 +3,9 @@ title: 'FACTCHECK-PIPELINE'
 description: '事實查核方法論 SSOT — Phase 1-6 / 8 atom 類 / 4 維度 source authority / Quick + Full mode (v2.0)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v2.8'
-last_updated: 2026-10-02
-last_session: '2026-10-02-203728-semiont-heartbeat（§Phase 4 判定矩陣補 💬 評價句，✅ 只給開過原文且原文支持的原子）'
+current_version: 'v2.9'
+last_updated: 2026-10-03
+last_session: '2026-10-03-023846-semiont-heartbeat（§月度巡邏：引用當班 commit 的佇列條目要等 push 之後再寫）'
 sister_docs:
   - 'REWRITE-PIPELINE.md'
   - 'PEER-INGESTION-PIPELINE.md'
@@ -640,7 +640,7 @@ REWRITE Stage 2 寫完 prose 後、進 Stage 4 之前必跑。設計思路是「
 3. 譯本數最多優先（`knowledge/_translations.json` 或 `grep -l "translatedFrom: '{Category}/{檔名}'" knowledge/*/`）
 4. **沒走過 REWRITE**（v2.2，2026-09-18 晚間心跳補）：`lastHumanReview: false` 擋不住走過產線的文章——REWRITE 是 AI 跑的，不會把人工審核欄翻成 true，所以 v2.1 那條指令排出的前五篇裡，李安（06-01 深度 EVOLVE）與蔡英文（07-12 重寫，Stage 3.5／3.6 audit 都落檔了）都在，正好是「最不需要巡邏的那批」。排除訊號三選一命中即排除：frontmatter 有 `rationale:`（REWRITE v7 起必寫）／ARTICLE-DONE-LOG 登記過 `/{slug}.md`／`reports/research/*/{slug}.md` 存在。REFLEXES #66：抽樣指令自己也要拿真實輸出校準，v2.1 寫完沒對前五篇的 git log 看一眼。
 
-**A 級 research 檔硬門檻在巡邏時怎麼過**：巡邏對象定義上是沒走過產線的初稿，所以一定沒有 Stage 1 研究檔。巡邏的 audit 報告就建成 `reports/research/YYYY-MM/{slug}.md`（frontmatter `type: 'research'` / `status: 'audit'`），成為那篇文章的第一份 research 檔；之後若走 REWRITE，Stage 1 在同一檔往上疊。**C 級也一樣落檔**（2026-09-19 凌晨心跳補）：抽樣指令的排除條件之一就是這個檔存不存在，C 級只寫進 commit 訊息的話（09-18 晚間緣起故事就是），下一輪它會再被抽到第一名——巡過的痕跡要留在抽樣指令看得到的地方。查核檔開頭那個「audit 前 HEAD」寫**文章自己的最後一個 commit**（`git log -1 --format=%h -- <article>`），不要寫當班的 HEAD：當班 HEAD 若還沒 push，收官 rebase 會改寫它，09-19 凌晨與早上兩輪各多了一個只為改 hash 的 heal commit。
+**A 級 research 檔硬門檻在巡邏時怎麼過**：巡邏對象定義上是沒走過產線的初稿，所以一定沒有 Stage 1 研究檔。巡邏的 audit 報告就建成 `reports/research/YYYY-MM/{slug}.md`（frontmatter `type: 'research'` / `status: 'audit'`），成為那篇文章的第一份 research 檔；之後若走 REWRITE，Stage 1 在同一檔往上疊。**C 級也一樣落檔**（2026-09-19 凌晨心跳補）：抽樣指令的排除條件之一就是這個檔存不存在，C 級只寫進 commit 訊息的話（09-18 晚間緣起故事就是），下一輪它會再被抽到第一名——巡過的痕跡要留在抽樣指令看得到的地方。查核檔開頭那個「audit 前 HEAD」寫**文章自己的最後一個 commit**（`git log -1 --format=%h -- <article>`），不要寫當班的 HEAD：當班 HEAD 若還沒 push，收官 rebase 會改寫它，09-19 凌晨與早上兩輪各多了一個只為改 hash 的 heal commit。同一個坑也長在止血之後寫的佇列條目：ARTICLE-INBOX 的「已止血（`hash`）」與 OBSERVER-QUEUE §已決引用的都是當班自己的 commit，2026-10-03 凌晨班 babel 夜班同時在推，收官 rebase 把七個 commit 全部改寫，兩份佇列引用的編號一起作廢，又多一個只為改 hash 的 commit。**順序**：止血與工具的 commit 先 push，拿到 origin 上的 hash 之後，再寫引用它們的佇列條目。
 
 一句話的抽樣指令（取前 5）：
 
@@ -742,3 +742,4 @@ _v2.2 | 2026-09-18 semiont-heartbeat 晚間 — 抽樣母體補第四條件「�
 _v2.6 | 2026-09-21 semiont-heartbeat 凌晨 — §月度巡邏抽樣指令補條件 5「出生後又被人動過的往後排」：台灣黑熊 08-22 被投稿者整篇重寫仍以 03-18 出生日排進前五，巡完零錯；`lastVerified` 晚於 `date` 30 天以上即改用它排序，首跑 25 篇後移。_
 _v2.7 | 2026-10-02 semiont-heartbeat — §Phase 4 補「查無也要用原文證明」：否定式判定先 grep 文章自己的全部腳註頁、依據必須是 curl 原文而非 WebFetch 摘要；§Spawn prompt 必含元素加第 8 條。觸發：〈數位身分證與數位政府〉巡邏子代四處「查無出處」全在文章自己的腳註裡。_
 _v2.8 | 2026-10-02 semiont-heartbeat 晚間 — §Phase 4 判定矩陣補 💬 OPINION，並寫明 ✅ 只給開過原文且原文支持的原子；§Spawn prompt 必含元素加第 9 條。觸發：前一班反芻提出「✅ 那一邊沒人看」，本班抽驗三份查核檔，44 個 ✅ 裡 5 個是「未見反證的評價」或「只看搜尋摘要」，9 個隨機重驗中硬事實 8/8 成立。_
+_v2.9 | 2026-10-03 semiont-heartbeat 凌晨 — §月度巡邏「audit 前 HEAD」那段補第二個位置：ARTICLE-INBOX「已止血」與 OBSERVER-QUEUE §已決引用的當班 commit，同樣會被收官 rebase 改寫；順序改成先 push 再寫引用。觸發：babel 夜班同時在推，七個 commit 全部改寫，兩份佇列的引用作廢。_

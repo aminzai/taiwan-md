@@ -19,7 +19,10 @@ Checks (each 1-line PASS/FAIL):
   1. translation file exists at expected path
   2. zh source still exists
   3. frontmatter has translatedFrom pointing to zh
-  4. frontmatter has sourceCommitSha (≥ 7 hex / or "pre-toolkit")
+  4. frontmatter has sourceCommitSha (≥ 7 hex / or "pre-toolkit"), and the
+     value is a real commit that has this zh file (FAIL if not; WARN if the
+     commit exists but never touched the zh file — e.g. a repo HEAD or merge
+     recorded instead of the file's own commit). Skipped on shallow clones.
   5. frontmatter has sourceContentHash (sha256: prefix + 16 hex)
   6. frontmatter has translatedAt (ISO 8601)
   7. zh + translation frontmatter passthrough fields match (author, date, featured,
@@ -209,6 +212,72 @@ def detect_lang(trans_path: str) -> str:
     return m.group(1) if m else "en"
 
 
+def _git(*args: str):
+    """CompletedProcess, or None when git is missing or times out."""
+    try:
+        return subprocess.run(["git", *args], cwd=REPO, capture_output=True,
+                              text=True, timeout=20)
+    except (OSError, subprocess.SubprocessError):
+        return None
+
+
+def source_sha_history_check(zh_rel: str, sha: str) -> tuple[str, str]:
+    """sourceCommitSha 的值要對得上中文檔的歷史，不只長得像 sha。
+
+    2026-10-03 OBSERVER-QUEUE #65 (a) 缺席預設代理執行。這一項原本只驗格式
+    （7-12 個 hex），`Culture/原住民織布.md` 的 id 譯本寫了多一碼的
+    `7c99cd4b7d`、ru 譯本寫了當時的 repo HEAD，四篇全部綠燈。全庫量測
+    （13,565 篇有 sha 的譯文）：13,148 篇是改過該中文檔的 commit；413 篇是
+    沒改過它的 commit（203 個 merge、210 個當時的 HEAD），但中文檔在那個
+    commit 都存在，`git show sha:path` 取得到當時的中文，diff-patch 照樣能
+    用；4 篇的 sha 根本解析不到任何 commit。所以分兩級：
+
+    - 解析不到 commit，或那個 commit 裡沒有這個中文檔（改名鏈上也沒有）
+      → FAIL：這個值指不到任何一版中文，patch-translate 只能整篇重翻，
+      status.py 也無從判斷譯文對應哪一版。修法是 `recover-source-sha.py`
+      （依譯文記的雜湊回中文歷史找那一版）；`bump-source-sha.py` 會把 sha
+      升到中文最新版，等於宣稱照今天的中文翻的，對這種情形是另一種錯。
+    - 解析得到、中文檔在那裡，但這個 commit 沒改過它 → WARN：語意模糊
+      （記到的是 repo HEAD 或 merge），功能上仍可用，存量 413 篇不該因此
+      被擋在各支修補工具外面。
+
+    淺 clone 或沒有 git 時不驗，回 PASS 並註明（CI 預設 depth 1）。
+    """
+    r = _git("rev-parse", "--is-shallow-repository")
+    if r is None or r.returncode != 0:
+        return "PASS", f"{sha}（無 git，未驗歷史）"
+    if r.stdout.strip() == "true":
+        return "PASS", f"{sha}（淺 clone，未驗歷史）"
+
+    r = _git("rev-parse", "--verify", "--quiet", f"{sha}^{{commit}}")
+    if r is None:
+        return "PASS", f"{sha}（git 逾時，未驗歷史）"
+    if r.returncode != 0:
+        amb = _git("rev-parse", "--verify", f"{sha}^{{commit}}")
+        if amb is not None and "ambiguous" in (amb.stderr or ""):
+            return "WARN", f"{sha} 短 sha 對到不只一個物件，請改寫成較長的 sha"
+        return "FAIL", (f"{sha} 解析不到任何 commit——這個值指不到任何一版中文。"
+                        "跑 `recover-source-sha.py` 依譯文記的雜湊找回真正翻譯的那一版"
+                        "（不要用 bump-source-sha.py，它會升到中文最新版）")
+    full = r.stdout.strip()
+    zh_git = f"knowledge/{zh_rel}"
+
+    exists = _git("cat-file", "-e", f"{full}:{zh_git}")
+    if exists is not None and exists.returncode == 0:
+        last = _git("log", "-1", "--format=%H", full, "--", zh_git)
+        if last is not None and last.stdout.strip() == full:
+            return "PASS", sha
+        prev = last.stdout.strip()[:9] if last is not None and last.stdout.strip() else "?"
+        return "WARN", (f"{sha} 沒有改動這個中文檔（該時點最後一次改動是 {prev}），"
+                        "多半記成了當時的 repo HEAD 或 merge commit；git show 仍取得到當時的中文")
+
+    follow = _git("log", "--follow", "--format=%H", "--", zh_git)
+    if follow is not None and full in follow.stdout.split():
+        return "PASS", f"{sha}（中文檔之後改過名）"
+    return "FAIL", (f"{sha} 這個 commit 裡沒有 {zh_git}，改名鏈上也找不到——"
+                    "這個值指不到這篇中文的任何一版。跑 `recover-source-sha.py` 找回真正翻譯的那一版")
+
+
 URL_PATTERN = (
     r"https?://[^\s<>\)\"\]`"
     r"，。；：！？、（）〔〕【】《》「」『』…"      # 中日韓全形
@@ -342,8 +411,10 @@ def main():
         add("sourceCommitSha", "WARN", "pre-toolkit fallback (acceptable for legacy)")
     elif not re.match(r"^[a-f0-9]{7,12}$", sha):
         add("sourceCommitSha", "FAIL", f"invalid format: '{sha}'")
+    elif not zh_full.exists():
+        add("sourceCommitSha", "PASS", f"{sha}（中文檔不存在，歷史由第 2 項處理）")
     else:
-        add("sourceCommitSha", "PASS", sha)
+        add("sourceCommitSha", *source_sha_history_check(zh_path, sha))
 
     # 5. sourceContentHash
     h = en_fm.get("sourceContentHash", "")

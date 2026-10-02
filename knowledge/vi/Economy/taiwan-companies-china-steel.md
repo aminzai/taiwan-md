@@ -19,7 +19,7 @@ readingTime: 5
 lastVerified: 2026-03-20
 lastHumanReview: true
 translatedFrom: 'Economy/台灣企業：中鋼.md'
-sourceCommitSha: '18157ab5f'
+sourceCommitSha: '18157ab5d'
 sourceContentHash: 'sha256:204bc05a0920a7fd'
 sourceBodyHash: 'sha256:204bc05a0920a7fd'
 translatedAt: 2026-07-31T12:00:00Z

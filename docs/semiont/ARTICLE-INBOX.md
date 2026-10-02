@@ -530,6 +530,34 @@ BECOME_TAIWANMD.md Step 5 新增：
   - featured、譯本 12 語
 - **Reference**: [reports/research/2026-10/台灣台語歌曲演進.md](../../reports/research/2026-10/台灣台語歌曲演進.md)
 
+### 台灣電子音樂與派對文化 EVOLVE — 巡邏 58 原子 9 錯，1990 年代場館清單跨了十年，Korner 被寫成疫情後才關
+
+- **Type**: `EVOLVE`
+- **Category**: Music
+- **Path**: knowledge/Music/台灣電子音樂與派對文化.md
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-10-03 by semiont-heartbeat（FACTCHECK 月度巡邏 v2.8 母體，featured 優先抽）
+- **Notes**:
+  - **查核已跑完**（`reports/research/2026-10/台灣電子音樂與派對文化.md`）：58 原子 ✅ 12／⚠️ 12／❌ 9／🔴 14／💬 11（❌ 15.5%）。已止血（`afcfabc33`）：1990 年代段換成聲軌時間線（1995 二重疏洪道、1996 梅花湖、1997《PLUR》），TeXound 1998、ROXY 99 金山南路；Ultra 2014／2018；Korner 2019 熄燈、Pawnshop 2019-12 接棒；刪 Vacation Records 與「受 RA 關注」；腳註 6 條全換為 18 條
+  - **重寫要處理的**：止血後只剩 1,331 字，骨架仍是「地下→商業化→國際化」三段年表加泛論（L18 導言、「國際交流的加深」整段、「台式電音」趨勢句都沒有出處）。聲軌 Soundtraces 的 rave 時間線與 Victor Cheng 訪談是現成的一手材料，可以從 1995 年 7 月那台載著音響開到二重疏洪道的卡車切入，寫一群人怎麼在警察、颱風與搖頭丸臨檢之間把舞池撐了三十年；同志派對 Paradise 與 Twilight Zone／Underground 那條線值得獨立一節
+  - featured、譯本 12 語
+- **Reference**: [reports/research/2026-10/台灣電子音樂與派對文化.md](../../reports/research/2026-10/台灣電子音樂與派對文化.md)
+
+### 台灣音樂產業與串流時代 EVOLVE — 巡邏 53 原子 7 錯，KKBOX 被寫成全球第一個串流，九條參考資料沒有一條撐得住正文
+
+- **Type**: `EVOLVE`
+- **Category**: Music
+- **Path**: knowledge/Music/台灣音樂產業與串流時代.md
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-10-03 by semiont-heartbeat（FACTCHECK 月度巡邏 v2.8 母體，featured 優先抽）
+- **Notes**:
+  - **查核已跑完**（`reports/research/2026-10/台灣音樂產業與串流時代.md`）：53 原子 ✅ 20／⚠️ 8／❌ 7／🔴 11／💬 7（❌ 15.2%）。已止血（`10c444b35`）：四處「全球首創」改成 2005 年 10 月在台灣上線並寫明 Rhapsody 2001；創辦人補齊簡民一、林冠羣、許安德；產值改 1997 年 123 億→2003 年 45 億；《人生海海》35 萬、Apple Music 2016、〈大風吹〉約 1,600 萬、五月天線上演唱會 4,244 萬人次；三條捏造書目（INSIDE、商周、動腦）與 404 拿掉，腳註重編為 7 條
+  - **重寫要處理的**：全篇是條列加泛論的產業簡報（「商業模式的創新」「Spotify 的優勢」「新的收益模式」都是清單），沒有一個具體的人。可以從 2005 年 KKBOX 一家家去說服唱片公司授權的那段切入，或從 1997 年產值頂點到 2003 年剩三分之一的崩落寫起；「Web3 與 NFT 音樂」一節是 2022 年的時興話題，跟台灣沒有具體連結，重寫時可以拿掉
+  - featured、譯本 12 語
+- **Reference**: [reports/research/2026-10/台灣音樂產業與串流時代.md](../../reports/research/2026-10/台灣音樂產業與串流時代.md)
+
 ### 名古屋亞運與中華台北 NEW — 台灣在亞運的一百年，這個名字怎麼來的
 
 - **Type**: `NEW`
