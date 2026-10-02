@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-02T10:36:19+08:00",
-    "zhCommitHead": "6b7ba7880",
+    "lastUpdated": "2026-10-02T11:06:16+08:00",
+    "zhCommitHead": "dd0363043",
     "totalZh": 1125,
     "activeLanguages": [
       "en",
@@ -44,9 +44,9 @@
       },
       "es": {
         "total_zh": 1125,
-        "fresh": 1121,
-        "stale": 2,
-        "metadata_stale": 2,
+        "fresh": 1124,
+        "stale": 1,
+        "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
@@ -84,16 +84,16 @@
       },
       "hi": {
         "total_zh": 1125,
-        "fresh": 1109,
-        "stale": 16,
+        "fresh": 1110,
+        "stale": 15,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1125,
-        "fresh": 1122,
-        "stale": 2,
+        "fresh": 1124,
+        "stale": 0,
         "metadata_stale": 1,
         "missing": 0,
         "orphan": 0
@@ -108,8 +108,8 @@
       },
       "de": {
         "total_zh": 1125,
-        "fresh": 1123,
-        "stale": 2,
+        "fresh": 1125,
+        "stale": 0,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -25722,18 +25722,18 @@
         "hi": {
           "path": "hi/Technology/science-park-development.md",
           "translatedFrom": "Technology/科技園區發展.md",
-          "sourceCommitSha": "",
+          "sourceCommitSha": "bc725e8c5",
           "sourceContentHash": "sha256:19e7a45a0852260f",
           "sourceBodyHash": "sha256:a1d16e29348fc28f",
-          "translatedAt": "2026-07-28T03:07:46+08:00",
+          "translatedAt": "2026-10-02T09:54:54+08:00",
           "translationLastCommit": "34bd26ad",
           "translationLastModified": "2026-10-02T02:45:45+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "bytes": 91073,
+          "bytes": 87122,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Technology/science-park-development.md",
@@ -28972,20 +28972,18 @@
         "ar": {
           "path": "ar/Technology/taiwan-gaming-industry.md",
           "translatedFrom": "Technology/台灣遊戲產業與數位娛樂.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:98c440e7598c876a",
-          "sourceBodyHash": "",
-          "translatedAt": "2026-08-03T06:58:26.751294+00:00",
+          "sourceCommitSha": "38b58ab04",
+          "sourceContentHash": "sha256:431ea1bf9d43ad2f",
+          "sourceBodyHash": "sha256:3075ecd0a9c35ac1",
+          "translatedAt": "2026-10-02T09:54:54+08:00",
           "translationLastCommit": "389c3815",
           "translationLastModified": "2026-08-03T21:46:21+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "bytes": 19234,
+          "bytes": 18799,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "zh-moved-forward",
-          "commitsBehind": 1,
-          "diffSummary": "+20 -14"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Technology/taiwan-gaming-industry.md",
@@ -31102,20 +31100,18 @@
         "es": {
           "path": "es/Technology/taiwan-electric-vehicle-industry-chain.md",
           "translatedFrom": "Technology/台灣電動車產業鏈發展.md",
-          "sourceCommitSha": "24efd20f3",
+          "sourceCommitSha": "4fbca8305",
           "sourceContentHash": "sha256:85f80872ad09b54c",
           "sourceBodyHash": "sha256:3683724639161321",
-          "translatedAt": "2026-05-15T14:23:13+08:00",
+          "translatedAt": "2026-10-02T09:54:53+08:00",
           "translationLastCommit": "4a07538f",
           "translationLastModified": "2026-07-25T10:29:52+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "bytes": 34873,
+          "bytes": 32693,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+35 -36"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Technology/taiwan-electric-vehicle-industry-chain.md",
@@ -33504,8 +33500,8 @@
           "sourceContentHash": "sha256:e6d1dafa422fe928",
           "sourceBodyHash": "sha256:1d51e9aba96f7253",
           "translatedAt": "2026-10-02T09:16:44+08:00",
-          "translationLastCommit": "fd678fd2",
-          "translationLastModified": "2026-07-25T10:32:02+08:00",
+          "translationLastCommit": "dd036304",
+          "translationLastModified": "2026-10-02T10:36:20+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "bytes": 23941,
@@ -33532,20 +33528,18 @@
         "es": {
           "path": "es/Technology/taiwan-software-industry-development.md",
           "translatedFrom": "Technology/台灣軟體產業發展.md",
-          "sourceCommitSha": "24efd20f3",
+          "sourceCommitSha": "3e08bf82b",
           "sourceContentHash": "sha256:e6d1dafa422fe928",
           "sourceBodyHash": "sha256:1d51e9aba96f7253",
-          "translatedAt": "2026-05-15T14:23:13+08:00",
+          "translatedAt": "2026-10-02T09:54:53+08:00",
           "translationLastCommit": "ae469c85",
           "translationLastModified": "2026-05-15T15:38:57+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "bytes": 22999,
+          "bytes": 22079,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+31 -58"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Technology/taiwan-software-industry-development.md",
@@ -88684,18 +88678,18 @@
         "es": {
           "path": "es/Nature/taiwanese-leopard-cat-conservation.md",
           "translatedFrom": "Nature/台灣石虎保育.md",
-          "sourceCommitSha": "d6e87d07",
-          "sourceContentHash": "sha256:bbca77501c197a81",
-          "sourceBodyHash": "sha256:76487fd0d26564e6",
-          "translatedAt": "2026-05-17T05:33:00Z",
+          "sourceCommitSha": "825528805",
+          "sourceContentHash": "sha256:53a697c302d622a3",
+          "sourceBodyHash": "sha256:7ed841e26f0abf1f",
+          "translatedAt": "2026-10-02T02:56:48.052788+00:00",
           "translationLastCommit": "8bb92b00",
           "translationLastModified": "2026-09-28T00:33:52+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 17693,
+          "bytes": 18309,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Nature/taiwanese-leopard-cat-conservation.md",
@@ -88816,20 +88810,18 @@
         "de": {
           "path": "de/Nature/taiwanese-leopard-cat-conservation.md",
           "translatedFrom": "Nature/台灣石虎保育.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:bbca77501c197a81",
-          "sourceBodyHash": "sha256:76487fd0d26564e6",
-          "translatedAt": "2026-09-11T20:42:42+08:00",
+          "sourceCommitSha": "825528805",
+          "sourceContentHash": "sha256:53a697c302d622a3",
+          "sourceBodyHash": "sha256:7ed841e26f0abf1f",
+          "translatedAt": "2026-10-02T09:54:54+08:00",
           "translationLastCommit": "2845c783",
           "translationLastModified": "2026-09-11T23:27:50+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 16552,
+          "bytes": 17378,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+6 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -89268,8 +89260,8 @@
           "sourceContentHash": "sha256:af5bd3cc5a11c549",
           "sourceBodyHash": "sha256:7b55c8bf8318f623",
           "translatedAt": "2026-10-02T01:04:14.605391+00:00",
-          "translationLastCommit": "fdef1731",
-          "translationLastModified": "2026-09-11T05:38:49+08:00",
+          "translationLastCommit": "dd036304",
+          "translationLastModified": "2026-10-02T10:36:20+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 12531,
@@ -89394,20 +89386,18 @@
         "ar": {
           "path": "ar/Nature/biodiversity.md",
           "translatedFrom": "Nature/生態多樣性.md",
-          "sourceCommitSha": "d8646a2a9",
-          "sourceContentHash": "sha256:768855c64ea407af",
-          "sourceBodyHash": "sha256:2f867df28cee4278",
-          "translatedAt": "2026-09-08T00:42:57+08:00",
+          "sourceCommitSha": "825528805",
+          "sourceContentHash": "sha256:af5bd3cc5a11c549",
+          "sourceBodyHash": "sha256:7b55c8bf8318f623",
+          "translatedAt": "2026-10-02T02:41:01.553985+00:00",
           "translationLastCommit": "e44e6301",
           "translationLastModified": "2026-09-08T07:50:01+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 16348,
+          "bytes": 17563,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Nature/biodiversity.md",
@@ -89430,20 +89420,18 @@
         "de": {
           "path": "de/Nature/biodiversity.md",
           "translatedFrom": "Nature/生態多樣性.md",
-          "sourceCommitSha": "d8646a2a9",
-          "sourceContentHash": "sha256:768855c64ea407af",
-          "sourceBodyHash": "sha256:2f867df28cee4278",
-          "translatedAt": "2026-09-08T00:42:59+08:00",
+          "sourceCommitSha": "825528805",
+          "sourceContentHash": "sha256:af5bd3cc5a11c549",
+          "sourceBodyHash": "sha256:7b55c8bf8318f623",
+          "translatedAt": "2026-10-02T02:40:23.581183+00:00",
           "translationLastCommit": "9ccf6092",
           "translationLastModified": "2026-09-08T08:44:45+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 12038,
+          "bytes": 12670,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
