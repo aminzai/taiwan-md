@@ -1,14 +1,14 @@
 ---
-title: 'Der Gipfel der Insel: Ökologie und Landschaft der Nationalparks in Taiwan'
-description: 'Eine Erkundung der einzigartigen Ökosysteme und des Schutzwerts von Taiwans neun Nationalparks, von tropischer Küste bis zu den Schneegrenzen der Hochgebirge.'
+title: 'Zwischen Berg und Meer: Die Ökologie und Landschaften der Nationalparks Taiwans'
+description: 'Entdecken Sie die einzigartigen Ökosysteme und Schutzwerte der neun taiwanesischen Nationalparks – von der tropischen Küste bis zur Hochlagen-Schneegrenze'
 date: 2026-03-19
 category: 'Nature'
 tags:
   [
     'Nationalpark',
-    'Naturschutz',
-    'Naturlandschaft',
-    'Biodiversität',
+    'Ökologie-Schutz',
+    'natürliche Landschaft',
+    'biologische Vielfalt',
     'Umweltschutz',
   ]
 subcategory: '國家公園與步道'
@@ -19,121 +19,114 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Nature/台灣國家公園.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:c51eb1a165d6a2f5'
-sourceBodyHash: 'sha256:99620fa1348fdcfe'
-translatedAt: '2026-09-11T16:37:41+08:00'
+sourceCommitSha: '7f5cc659d'
+sourceContentHash: 'sha256:6b8c18165d43ed48'
+sourceBodyHash: 'sha256:90c0aa43021fbb5f'
+translatedAt: '2026-10-03T04:11:36+08:00'
 ---
 
-# Der Gipfel der Insel: Ökologie und Landschaft der Nationalparks in Taiwan
+# Zwischen Berg und Meer: Die Ökologie und Landschaften der Nationalparks Taiwans
 
-## Kurzübersicht
+## 30-Sekunden-Überblick
 
-Taiwan verfügt über 9 Nationalparks und 1 Nationalnaturpark, die ein vollständiges Ökosystem von Meereshöhe bis zum Hauptgipfel des Yushan (3.952 Meter) abdecken. Diese Schutzgebiete bewahren Taiwans wertvollste natürliche und kulturelle Ressourcen, darunter endemische Arten, indigene Kulturerbestätten und Weltklasse-Geobildungen. Von der Gründung des Kenting Nationalparks am 1./1./1984 (Planung 1982) bis zur Eröffnung des Shoushan Nationalnaturparks am 6./12./2011 (der erste Nationalnaturpark Taiwans) und der offiziellen Einrichtung durch die Ministerie für Innere Angelegenheiten am 20./9./2023, ist das Nationalparksystem Taiwans zu einem wichtigen Netz zum Schutz der Biodiversität in Asien geworden. Das Erdbeben von Taroko am 3./4./2024 verursachte einen verheerenden Schock für den Taroko Nationalpark und stellt die größte aktuelle Herausforderung dar.[^1]
+Taiwan verfügt über neun Nationalparks und einen Nationalnaturpark, die ein ganzes Ökosystem vom Meeresspiegel bis zum höchsten Gipfel des Jade-Mountains (3.952 Meter) schützen. Diese Parks bewahren Taiwans wertvollste natürliche und kulturelle Denkmäler – von endemischen Arten über indigene Kulturstätten bis hin zu weltberühmten geologischen Formationen. Von der Eröffnung des Nationalparkamtes in Kenting am 1. Januar 1984 (Programm 1982 bereits angekündigt) bis zur Eröffnung des Nationalnaturparks Shoushan am 6. Dezember 2011 (Taiwans erster Nationalnaturpark) und schließlich zur offiziellen Gründung der Nationalpark-Agentur am 20. September 2023, ist Taiwans Nationalpark-System zu einem wichtigen Schutznetz für biologische Vielfalt in Asien geworden.[^1] Das Erdbeben am 3. April 2024 in Hualien führte zu Einstürzen mehrerer Wanderwege im Nationalpark Taroko und Schließungen der wichtigsten Sehenswürdigkeiten.[^2]
 
-**Schlüsselwörter**: Nationalparks, Naturschutz, Endemische Arten, Geodiversität, Umweltbildung
+**Schlüsselwörter**: Nationalpark, Ökologie-Schutz, endemische Arten, landschaftliche Vielfalt, Umweltbildung
 
-## Warum ist es wichtig?
+## Warum es wichtig ist
 
-Auf der Insel Taiwan mit einer Fläche von nur 36.000 Quadratkilometern verbinden neun Nationalparks einen vollständigen ökologischen Gradienten von tropischer Küste bis zur Schneegrenze und schützen mehr als 30 % der Landfläche Taiwans. Diese Dichte ist weltweit selten und schützt nicht nur über 2.500 endemische Arten, sondern dient auch als wertvoller Lebensraum für die Anpassung an den Klimawandel.[^5]
+Die neun Nationalparks und der Nationalnaturpark Shoushan umfassen zusammen eine Landfläche von etwa 3.110 Quadratkilometern – rund 8,7 % des gesamten Staatsgebiets Taiwans. Einschließlich der Meeresflächen beträgt die geschützte Fläche etwa 7.500 Quadratkilometer (Stand Ende 2020).[^1] Vom Tropen-Küstengebiet bis zur Hochlagen-Schneegrenze bilden sie eine kontinuierliche ökologische Gradientenzone und dienen als Klimaschutzreservat für Artenmigration.
 
-Die Einrichtung der Nationalparks hat es Taiwan ermöglicht, letzte ursprüngliche Landschaften aus dem industriellen Wandel zu retten. Der Yushan Nationalpark schützt einen der höchsten Gipfel Ostasiens, während der Xueba Nationalpark den „Taiwan-Koi“ (Sakura-Kogai) bewahrt und der Meeresnationalpark das Riffökosystem pflegt. Diese Schutzgebiete sind Schatzkammern der taiwanesischen Biodiversität und Orte, an denen Generationen die Natur kennenlernen, lernen und mit ihr koexistieren.
+Der Schutz durch die Nationalparks hat Taiwan einige der letzten natürlichen Landschaften vor der industriellen Entwicklung bewahrt. Der Nationalpark Jade-Mountain schützt Taiwans höchsten Gipfel, der Nationalpark Xueshan bewahrt die taiwanesische Süßwasserräucher (Cherry Salmon), und der Marine-Nationalpark erhält Korallenriffe. Diese Schutzgebiete sind Schätze der biologischen Vielfalt Taiwans und Orte, an denen kommende Generationen die Natur kennenlernen und lernen können, wie man mit der Umwelt zusammenlebt.
 
-## Die ökologischen Schätze der neun Nationalparks
+## Die neun Nationalparks als ökologische Schätze
 
-### Landparks: Vom Hochgebirge bis zum Meer ein vollständiger Schutz
+### Landbasierte Nationalparks: Vom Hochland zum Meer
 
-**Kenting Nationalpark (Planung 1982, Verwaltung eingerichtet am 1./1./1984)**
-Dieser Park liegt auf der Halbinsel Hengchun im äußersten Süden Taiwans und ist der erste Nationalpark Taiwans. Er schützt den einzigen tropischen Küstenwald Taiwans und beherbergt über 1.200 Pflanzenarten, von denen ein Viertel endemisch ist. Der Windfall von Oktober bis März jedes Jahr schafft die einzigartige Riffküsten- und Graslandökologie. Während der Zugvogelwanderung wird das Überqueren durch den Grauhalskauz in Manzhou als natürliches Fest namens „Nationaltagsvogeln“ gefeiert.
+**Nationalpark Kenting (1982 angekündigt, 1984/1/1 Verwaltung eröffnet)**
+Am südlichsten Punkt Taiwans, auf der Halbinsel Hengchun, ist der erste Nationalpark Taiwans. Er bewahrt seltene tropische Küstenwälder und dokumentierte rund 1.700 Pflanzenarten.[^1] Jedes Jahr von Oktober bis März weht der nordöstliche Winterwind. Zwischen Oktober und März ziehen zahlreiche Zugvögel wie der Graue Schwalbenschwanz (Eagle) durch die Region – daher auch als „Nationalfeiertagsvogel“ bekannt.
 
-**Yushan Nationalpark (gegründet 1985)**
-Dieser Park umfasst den höchsten Gipfel Taiwans, den Yushan (3.952 Meter), und die umliegenden Gebirgszüge und ist der größte Nationalpark Taiwans. Von subtropischen Laubwäldern bis zu Hochgebirgswiesen wird hier die vertikale Vegetation von Taiwan vollständig erhalten. Hochalpine Pflanzen wie der Yushandachser Tannenbaum (Yushan Round Cedar) und die taiwanesische Fichte bilden ein einzigartiges Hochgebirgssystem Ostasiens. Die kulturellen Stätten des Bunun-Volkes im Park zeugen vom Jahrtausendealten Zusammenleben zwischen indigenen Völkern und der Hochgebirgsumgebung.
+**Nationalpark Jade-Mountain (1985 gegründet)**
+Umfasst den höchsten Gipfel Taiwans, den Jade-Mountain Hauptgipfel (3.952 Meter), sowie die umliegenden Gebirge – der größte Landflächendeckung aller Nationalparks. [^1] Von subtropischem Laubwald bis zur Hochlagen-Prärie ist Taiwans vertikale Vegetationszone vollständig erhalten. Hochlagen-Pflanzen wie der Jade-Mountain-Zirbelkiefer und die taiwanesische Kiefer sind Teil eines einzigartigen ökologischen Systems Ostasiens. Innerhalb des Parks befinden sich kulturelle Stätten der Bunon-Bevölkerung, die die jahrtausendelange Koexistenz der indigenen Völker mit der Hochlagen-Umgebung bezeugen.
 
-**Yangmingshan Nationalpark (gegründet 1985)**
-Dieses Schutzgebiet mit vulkanischer Landschaft liegt nahe dem Ballungsraum Taipeh und schützt die postvulkanischen Landschaften des Datun-Gebirges. Die Thermalquellen in der Schwefelgrotte und die Schwefelkristalle im Xiao-You-Kessel zeigen die aktive Geologie Taiwans. Die Kirschblüten im Frühling, die Gräser im Herbst und die reichen Thermalressourcen machen Yangmingshan zu einem der zugänglichsten Nationalparks Taiwans.
+**Nationalpark Yangmingshan (1985 gegründet)**
+Ein vulkanisches Landschaftsschutzgebiet nahe der Metropole Taipeh, das post-vulkanische Aktivitäten des Datun-Gebirges bewahrt. Die Dampfquellen in Xiaoyouxi zeigen lebendig Taiwans geologische Dynamik. Im Frühling blühen die Kirschbäume, im Herbst die Chrysanthemen, und mit den reichen Thermalquellen macht Yangmingshan Taiwans einladendsten Nationalpark.
 
-**Taroko Nationalpark (gegründet 1986)**
-Er ist berühmt für seine Schluchtlandschaft, die durch den Litu-Fluss in Kalkstein geschnitten wurde und wird als „Weltklasse-Landschaft der Kalksteinschluchten“ bezeichnet. Die Kalksteinschluchten von Yanzi Kou und Jiuqudong sind das Ergebnis geologischer Bewegungen und Millionen Jahre Erosion durch den Litu-Fluss. Die Kultur des Taroko-Volkes im Park bildet eine einzigartige Mensch-Natur-Landschaft mit der Schluchtlandschaft.
+**Nationalpark Taroko (1986 gegründet)**
+Berühmt für die von dem Lixiu-Fluss geschnittenen Klippen aus Gipsgestein, wird er oft als „Weltwunder der Gipskluft“ bezeichnet. Die Schluchten Shianfeng und Jiutian Cave sind das Ergebnis von Hunderten Millionen Jahren geologischer Prozesse. Innerhalb des Parks lebt die Taroko-Bevölkerung, deren Kultur mit der Landschaft verbunden ist.
 
-**Xueba Nationalpark (gegründet 1992)**
-Dieser Park schützt das Kerngebiet des Xueshan-Gebirges, mit dem Hauptgipfel Xueshan und dem Daba-Jian als Zentrum. Er ist der letzte Lebensraum für den „Taiwan-Koi“ (Sakura-Kogai) in Taiwan; die Kaltwasserumgebung des Qijiawan-Baches sichert das Überleben dieser Eiszeit-Relikte. Die riesigen Zedernwälder im Guanyu-Gebiet zeugen von der Jahrtausendealten Geschichte der Wälder Taiwans.
+**Nationalpark Xueshan (1992 gegründet)**
+Schützt das Herzstück des Xueshan-Gebirges mit dem Hauptgipfel Xueshan und dem Gipfel Dabashan. Hier lebt die taiwanesische Süßwasserräucher (Cherry Salmon) in ihrem letzten natürlichen Lebensraum – die kalten Wasserbedingungen des Qilai-Flusses erhalten diese arktische Reliktart. Der Huxi-Bereich mit seinen riesigen Kiefern bestätigt die jahrtausendjährige Geschichte des taiwanesischen Waldes.
 
-**Kinmen Nationalpark (gegründet 1995)**
-Dieser Park schützt die einzigartige Kriegslandschaft und die Zugvogellebensräume auf der Insel Kinmen. Die Mischung aus alten Siedlungen, Kriegsanlagen und natürlicher Ökologie bildet eine weltweit seltene Militärkulturlandschaft. Watvögel und andere Zugvögel überwintern hier; Taci-See und Lingshui-See sind die wichtigsten Feuchtgebietsökosysteme von Kinmen.
+**Nationalpark Jinmen (1995 gegründet)**
+Bewahrt die einzigartige militärische Kulturlandschaft und Zugvogelhabitate der Insel Jinmen. Traditionelle Häuser, militärische Anlagen und natürliche Ökologie verschmelzen zu einem seltenen militärischen Kulturlandschaftstyp. Jedes Jahr im Oktober ziehen zehntausende Storch nach Jinmen, wo sie in den Lagunen Cihu, Yangming und Lingshui überwintern.[^3]
 
-**Taijiang Nationalpark (gegründet 2009)**
-Der achte Nationalpark Taiwans schützt die Lagunen, Feuchtgebiete und Fischereigebiete entlang der Küste von Tainan. Die Feuchtgebiete am Mündung des Wen-Xi-Flusses sind ein wichtiger Überwinterungsort für den Schwarzflankenreiher, der jedes Jahr etwa ein Drittel der globalen Population dieser Vögel hier überwintert. Das Gleichgewicht zwischen traditioneller Fischerei und modernem Naturschutz demonstriert das Potenzial der nachhaltigen Nutzung.
+**Nationalpark Jiulongjiang (2009 gegründet)**
+Der achte Nationalpark Taiwans, der die Küstenlagunen, Feuchtgebiete und traditionellen Fischzuchtflächen von Tainan bewahrt. Die Feuchtgebiete am Flussmündungsdelta des Zhongshan-Flusses sind wichtige Überwinterungsstätten für den Schwarzwangen-Reiher. Laut den globalen Zählungen 2026 wurden insgesamt 7.746 Schwarzwangen-Reiher gezählt, davon 4.719 in Taiwan – etwa 60 % der Weltpopulation – und Tainan verzeichnete sechs Jahre in Folge mehr als 2.000 Tiere.[^4] Das Gleichgewicht zwischen traditioneller Fischwirtschaft und modernem Naturschutz demonstriert nachhaltige Nutzung.
 
-**Pescadores-Inseln Nationalpark (gegründet 2014)**
-Der neunte Nationalpark Taiwans schützt die Meeresökosysteme der vier Inseln im Süden von Pescadores (Dongyu, Xiyu, Dongji und Xiji). Die vulkanischen Küstenerosionen, das Riffökosystem und die Brutgebiete für Seevögel bilden ein eng miteinander verbundenes Insel-Ökosystemnetzwerk.
+### Nationalnaturpark: Stadtwälder als Lebensraum
 
-### Naturparks: Schutz der grünen Lungen in der Stadt
+**Nationalnaturpark Shoushan (2011/12/6 eröffnet)**
+Taiwans erster Nationalnaturpark, der die Korallenkalksteinlandschaft und die biologische Vielfalt des Stadtgebiets Kaohsiung bewahrt. Die Population der taiwanesischen Makaken befindet sich hier in Harmonie mit der Stadt – ein neues Modell für städtische Naturschutzgebiete.
 
-**Shoushan Nationalnaturpark (geöffnet am 6./12./2011)**
-Der erste Nationalnaturpark Taiwans (nicht im Jahr 2024) schützt die Korallenkalksteinlandschaft und die städtische Biodiversität im Gebiet von Shoushan, Kaohsiung. Die Taiwan-Makaken leben hier harmonisch mit der Stadt und demonstrieren ein neues Modell des städtischen Naturschutzes.
+## Marine-Nationalpark: Schutz des blauen Territoriums
 
-## Meeresnationalpark: Bewahrung des blauen Territoriums
+**Nationalpark Dongsha Atoll (2007 gegründet)**
+Der siebte Nationalpark Taiwans und zugleich der erste marine Nationalpark, der das Ökosystem des Dongsha-Atolls im Südchinesischen Meer bewahrt. Mit einem Durchmesser von etwa 25 Kilometern ist der Atoll ein vollständiges natürliches System und der größte Nationalpark Taiwans einschließlich Meeresflächen.[^1]
 
-**Dongsha Atoll Nationalpark (gegründet 2007)**
-Der siebte Nationalpark Taiwans und der erste Meeresnationalpark schützt das Ökosystem des Dongsha-Atolls im Südchinesischen Meer. Das etwa 25 Kilometer große Atoll ist vollständig erhalten, weist eine hohe Korallenbedeckung auf und dient als Kernlebensraum für Meeresschildkröten und Cetaceen.
+**Nationalpark Penghu Nanjijiao (2014 gegründet)**
+Der neunte Nationalpark Taiwans, der die marine Ökologie der vier Inseln Nanjijiao (Dongyu, Xiyu, Dongji, Xiji) im Golf von Taiwan bewahrt. Basaltische Meereserosionsformen, Korallenriffe und Vogelbrutstätten bilden ein eng miteinander verbundenes Inselökosystem.
 
-**Meeresgebiet des Taijiang Nationalparks**
-Neben den Landfeuchtgebieten schützt der Taijiang Nationalpark auch die Lagunen- und Mündungsökosysteme entlang der Küste von Tainan und ist ein Meeresschutzgebiet an der Südwestküste Taiwans.
+## Schutzherausforderungen und Zukunftsaussichten
 
-## Naturschutzherausforderungen und Zukunftsausblick
+### Gründung der Nationalpark-Agentur am 20. September 2023
 
-### Gründung des Nationalparkamtes am 20./9./2023
+Am 20. September 2023 wurde die Ministerium des Inneren offiziell die Agentur für Nationalparks (vormals Abteilung für Nationalparks im Ministerium des Inneren für Bauangelegenheiten) gegründet – eine bedeutende organisatorische Umstrukturierung des taiwanesischen Nationalparksystems. Die Agentur koordiniert die Politik und Verwaltung aller neun Nationalparks und des Nationalnaturparks Shoushan, steigert die Professionalität und Unabhängigkeit des Naturschutzes.
 
-Am 20. September 2023 wurde das **Nationalparkamt** vom Ministerium für Innere Angelegenheiten offiziell eingerichtet (Nachfolger der Nationalparkabteilung des Bauamts). Dies stellt eine bedeutende organisatorische Veränderung im Management-System der Nationalparks Taiwans dar. Das Nationalparkamt koordiniert die Politik und Verwaltung aller 9 Nationalparks und 1 Naturpark in ganz Taiwan und erhöht die Professionalität und Unabhängigkeit der Naturschutzarbeit.
+### Erdbeben in Hualien am 3. April 2024: Schließung von Taroko
 
-### Erdbeben von Taroko am 3./4./2024: Die größte Herausforderung des Schutzes
+**Am 3. April 2024, 7:58 Uhr morgens**, erschütterte ein starkes Erdbeben das Meer vor Hualien (nach Angaben des Zentralen Wetterdienstes: initialer Mw-Bericht 7,2, Tiefe 15,5 Kilometer, maximale Stärke in Hualien County 6°, USGS-Mw 7,4).[^2] Innerhalb des Nationalparks Taroko stürzten mehrere Wanderwege ein – darunter der Sandiaolü-Weg, der Weg zum weißen Bambus, die Jiutian Cave und Shianfeng – und Steine lösten sich von den Klippen. Das Erdbeben forderte mehrere Besucher des Sandiaolü-Weges mit, und die wichtigsten Sehenswürdigkeiten wurden unverzüglich geschlossen.
 
-**Am Morgen des 3. April 2024 um 7:58 Uhr** ereignete sich ein starkes Erdbeben im Außengewässer von Hualien (Zentralmeteorologische Agentur M_L 7,2 / USGS M_w 7,4, Epizentrumstiefe 15,5 Kilometer) mit einer Intensität von Stärke 6. Der Taroko Nationalpark war die am stärksten betroffene Region – bekannte Sehenswürdigkeiten wie der Shakashan-Wanderweg, der Baiyang-Wanderweg, Jiuqudong und Yanzi Kou wurden vollständig gesperrt; viele Abschnitte erlitten Erdrutschschäden oder Felsstürze. Das Erdbeben führte zum Tod mehrerer Menschen, darunter Wanderer auf dem Shakashan-Wanderweg. Der Taroko Nationalpark musste seine Hauptattraktionen sofort unbegrenzt schließen.[^4]
+Die Schließung von Taroko traf auch hart auf die Tourismuswirtschaft von Hualien.
 
-Dieses Erdbeben war der größte geologische Schock seit der Gründung des Taroko Nationalparks im Jahr 1986. Die Wiederherstellungsarbeiten werden voraussichtlich mehrere Jahre oder sogar mehr als zehn Jahre in Anspruch nehmen. Die Schließung von Taroko beeinträchtigt auch den Tourismus in Hualien, wobei geschätzte Verluste für die betroffenen Industrien Zehn Milliarden Dollar übersteigen.
+### Auswirkungen des Klimawandels
 
-### Der Einfluss des Klimawandels
+Mit der globalen Erwärmung stehen die Hochlagen-Ökosysteme Taiwans unter Druck, da Arten nach oben wandern müssen. Die subalpinen Kiefernbänder in den Nationalparks Jade-Mountain und Xueshan könnten schrumpfen, und Arten, die an kaltes Klima angepasst sind, kämpfen ums Überleben. Der Marine-Nationalpark steht zudem vor der Bedrohung durch steigende Meerestemperaturen, Ozeansäuerung und Korallenbleiche.
 
-Mit der globalen Erwärmung steht das Hochgebirgssystem Taiwans unter dem Druck der „vertikalen Migration“. Die subalpinen Nadelwälder in Nationalparks wie Yushan und Xueba schrumpfen, und Arten, die an kältere Klimazonen angepasst sind, stehen vor existenziellen Herausforderungen. Meeresnationalparks hingegen kämpfen mit Problemen wie steigender Wassertemperatur und Ozeanversauerung; die Fläche des Korallenbleichens nimmt in den letzten zehn Jahren kontinuierlich zu.
+### Management anthropogener Druckfaktoren
 
-### Das Management menschlicher Einflüsse
+Taiwan hat eine hohe Bevölkerungsdichte, und die Nationalparks stehen häufig unter Entwicklungsdruck. Die urbanen Auswirkungen auf den Nationalpark Yangmingshan und der Tourismusdruck auf den Nationalpark Taroko erfordern ein Gleichgewicht zwischen Schutz und Nutzung.
 
-Mit einer hohen Bevölkerungsdichte steht Taiwan ständig unter Entwicklungsdruck rund um die Nationalparks. Die städtischen Belastungen von Yangmingshan und der touristische Druck auf Taroko müssen ein Gleichgewicht zwischen Schutz und Nutzung finden.
+### Indigene Rechte und Naturschutz
 
-### Rechte indigener Völker und Naturschutz
-
-Viele Nationalparks liegen in traditionellen Gebieten indigener Völker, und das Finden eines Gleichgewichts zwischen den Zielen des Naturschutzes und den kulturellen Rechten der indigenen Völker ist eine wichtige Aufgabe im Management der Nationalparks Taiwans. Die jüngst geförderte „Gemeinsamverwaltungsmechanik“ ermöglicht es indigenen Völkern, am Naturschutzmanagement teilzunehmen und demonstriert ein neues Modell des harmonischen Zusammenlebens von Kultur und Natur.
+Viele Nationalparks liegen innerhalb traditioneller indigener Territorien. Wie man ein Gleichgewicht zwischen Schutzzielen und kulturellen Rechten der indigenen Völker findet, ist eine wichtige Aufgabe der Nationalparkverwaltung. In den letzten Jahren wurde das Konzept der gemeinsamen Verwaltung (Co-Management) vorangetrieben, bei dem indigene Gemeinschaften in den Naturschutz einbezogen werden – ein neues Modell für die Harmonie von Kultur und Natur.
 
 ## Umweltbildung und nachhaltiger Tourismus
 
-Die Nationalparks Taiwans fördern die Umweltbildung: Von der geologischen Erklärung in Taroko über die Hochgebirgspädagogik in Yushan bis hin zu den Feuchtgebietserlebnissen in Taijiang ziehen jährlich Millionen von Menschen teil. Diese Aktivitäten rücken die städtische Bevölkerung näher an das wilde Ökosystem heran.
+Die Nationalparks Taiwans fördern Umweltbildung – von geologischen Erklärungen in Taroko, Hochlagen-Ökologie in Jade-Mountain, bis hin zu Feuchtgebietsschutz in Jiulongjiang. Diese Aktivitäten bringen Stadtbewohner näher an die natürlichen Ökosysteme.
 
-Die Förderung des nachhaltigen Tourismus macht die Nationalparks zu Vorbildern des Ökotourismus. Die Kirschblüten-Aktivitäten im Xueba Nationalpark, die Zugvogelsaison in Kenting und die Blütezeit in Yangmingshan verbinden erfolgreich Naturschutz und Tourismus und schaffen einen doppelten Gewinn für Wirtschaft und Ökologie.
+Der nachhaltige Tourismus hat die Nationalparks zu Vorbildern für ökologischen Tourismus gemacht. Die Kirschblütenbeobachtung im Nationalpark Xueshan, die Zugvogelmigration in Kenting und die Blütenbeobachtung in Yangmingshan verbinden erfolgreich Naturschutz mit Tourismus und schaffen Win-Win-Situationen für Wirtschaft und Ökologie.
 
 ## Internationale Zusammenarbeit und Forschung
 
-Die Nationalparks Taiwans sind Teil internationaler Schutznetzwerke und pflegen Forschungszusammenarbeiten mit Ländern wie Japan, Südkorea und den USA. Die wissenschaftlichen Daten, die aus der Korallenüberwachung im Dongsha Atoll oder der Hochgebirgsforschung in Yushan stammen, werden von internationalen Organisationen wie der IUCN zitiert.[^6]
+Die Korallenrifermonitoring-Programme im Nationalpark Dongsha und die Hochlagen-Forschung im Nationalpark Jade-Mountain tragen kontinuierlich zu Taiwans langfristigen ökologischen Datenbanken bei.
 
-Die Dichte der Ökosystemtypen Taiwans ist weltweit führend; die Nationalparks dienen als natürliche Experimentierfelder für forschungsspezifische Studien, von der Molekularbiologie bis zum Ökosystemmanagement.
+Taiwan verfügt über eine der dichteren Ökotype-Vielfalt weltweit. Von der Molekularbiologie bis zur Ökosystemverwaltung dienen die Nationalparks als natürliche Experimentalfelder für interdisziplinäre Wissenschaft.
 
 ---
 
-Die 9 Nationalparks und 1 Naturpark Taiwans bewahren das wertvollste natürliche und kulturelle Erbe der Insel. Auf begrenztem Land schützen sie ein vollständiges Ökosystem von tropischer Küste bis zur Schneegrenze und zeugen vom tiefen Bewusstsein für den Umweltschutz während des Übergangs Taiwans von einer agrarischen zu einer modernen Nation.
+Taiwans neun Nationalparks und der Nationalnaturpark bewahren die wertvollsten natürlichen und kulturellen Schätze der Insel. Auf begrenztem Raum schützen sie ein ganzes Ökosystem vom subtropischen Küstengebiet bis zur Hochlagen-Schneegrenze und stehen für Taiwans tiefes Verständnis für Umweltschutz während des Übergangs von einer agrarischen Gesellschaft zu einem modernen Staat.
 
-Angesichts der Herausforderungen durch den Klimawandel und menschlichen Einflüsse entwickeln sich diese Nationalparks zu resilienteren Schutznetzwerken. Durch wissenschaftliche Forschung, Umweltbildung und nachhaltiges Management bewahren sie die natürlichen Ressourcen der Gegenwart und erhalten die Möglichkeit des Zusammenlebens mit der Natur für künftige Generationen.
+Angesichts der Herausforderungen durch Klimawandel und menschlichen Druck entwickeln sich diese Nationalparks zu robusteren Schutzgebieten. Durch Wissenschaft, Umweltbildung und nachhaltiges Management bewahren sie die natürlichen Ressourcen der Gegenwart und sichern für zukünftige Generationen die Möglichkeit, mit der Natur zu koexistieren.
 
-Das System der Nationalparks Taiwans ist das Ergebnis einer langfristigen Zusammenarbeit zwischen Naturschutz und öffentlicher Politik und ein Mechanismus zur Erhaltung der kulturellen Stätten indigener Völker und der Naturlandschaften.
+Das taiwanesische Nationalparksystem ist das Ergebnis langjähriger Zusammenarbeit zwischen Wissenschaft und öffentlicher Politik und ein Mechanismus, der kulturelle Stätten der indigenen Völker und natürliche Landschaften gemeinsam bewahrt.
 
 ## Referenzen
 
-[^1]: [Nationalparkamt Ministerium für Innere Angelegenheiten — Einführung in die Nationalparks](https://www.nps.gov.tw/) — – Offizielle Daten zu den Nationalparks Taiwans, einschließlich Gründungsjahr, Fläche und ökologischer Informationen
+[^1]: [Nationalpark- und Nationalnaturpark-Verwaltung (Statistisches Jahrbuch)—Agentur für Nationalparks, Ministerium des Inneren](https://www.nlma.gov.tw/uploads/files/54b03c58b60f1e53823a6835a02bc10d.pdf) — Statistik vom Ende des Jahr 109 (2020): Gründungsdaten und Eröffnungstage der Verwaltungen, Landfläche 319.759,2 Quadratmeter (8,7 % des Staatsgebiets), Gesamtfläche 750.000 Hektar, Dongsha-Atoll mit Meeresfläche am größten, gefolgt von Jade-Mountain, Pflanzen in Kenting 1.688 Arten.
 
-[^2]: [Jianan-Bewässerungskulturpark — Ba Tian Yi Yi Gedenkstätte](https://www.tainan.gov.tw/) — – Hintergrund der Wasserspeicherung des Wushan-Beckens und des Jianan-Bewässerungsprojekts; Aufzeichnungen über das Ba Tian Yi Yi Projekt
+[^2]: [Erdbeben in Hualien der Stärke 7,2 — Zhonghua Zeitung, 2024-04-03](https://www.cna.com.tw/news/ahel/202404030091.aspx) — Zentraler Wetterdienst: 7:58 Uhr morgens, Mw 7,2, Tiefe 15,5 Kilometer, maximale Stärke in Hualien County 6°.
 
-[^3]: [Landwirtschaftsministerium, Forst- und Naturschutzbehörde — Biodiversitätsstatistiken](https://www.forest.gov.tw/biodiversity) — – Statistiken zu endemischen Arten, Waldabdeckung und Schutzflächen der Nationalparks Taiwans
+[^3]: [Storch in Jinmen — Zhonghua Zeitung, 2019-01-12](https://www.cna.com.tw/news/aloc/201901120200.aspx) — Nationalpark Jinmen: Storch ziehen jedes Jahr im Oktober ein, mit Hochsaison im Januar mit mehr als zehntausend Tieren, hauptsächlich in den Lagunen Cihu, Yangming und Lingshui.
 
-[^4]: [Regierung des Prefektur Hualien — Erdbebenbericht vom 3./4./2024](https://www.hl.gov.tw/) — – Schäden durch das Erdbeben im Taroko Nationalpark, Sperrung von Sehenswürdigkeiten und Wiederaufbauplan
-
-[^5]: [Academia Sinica — Taiwan Species List TaiCoL](https://taicol.tw/) — – Datenbank zur Biodiversität Taiwans; Klassifizierung endemischer und invasiver Arten
-
-[^6]: [Taiwan Biodiversity Information Facility TaiBIF](https://portal.taibif.tw/) — – Plattform für die Verteilung von Lebensformen in Taiwan, Beobachtungsaufzeichnungen von Arten
+[^4]: [Schwarzwangen-Reiher mit 60 % der Weltpopulation — United Daily News, 2026-04-04](https://udn.com/news/story/7470/9421830) — Globale Zählung 2026: insgesamt 7.746 Tiere, 4.719 in Taiwan (60,9 %), Tainan verzeichnete sechs Jahre in Folge mehr als 2.000 Tiere.
