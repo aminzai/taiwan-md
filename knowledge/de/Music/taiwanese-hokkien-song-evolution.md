@@ -1,18 +1,18 @@
 ---
-title: 'Die Entwicklung der Taiwan-Sprachlieder: Von "Onkelgesängen" zum neuen Kult für Intellektuelle'
-description: 'Eine Rückverfolgung der Evolution von Taiwan-Sprachliedern, von den Ären Nakashi, Hong Yi-feng und Jody Chiang bis zu neueren Generationen wie Eggplant Egg Band und Sorry Youth Band, um zu untersuchen, wie die Musik in jüngeren Kreisen wieder Anklang findet.'
+title: 'Die Entwicklung der taiwanesischen Hokkien-Lieder: Vom "Alte-Männer-Song" zum Trendthema der Hipster'
+description: 'Nachverfolgung der Entwicklung der taiwanesischen Hokkien-Lieder von der Ära von Naka-Si, Hong Yih-Feng und Jody Chiang bis zu den innovativen Interpretationen der neuen Generationen wie Eggplant Egg und Sorry Youth, und Erkundung, wie Hokkien-Musik die junge Generation wieder erlangt hat'
 date: 2026-03-19
 category: 'Music'
 tags:
   [
-    'Taiwan-Sprache',
-    'Nakashi',
-    'Hong Yi-feng',
+    'Hokkien-Lieder',
+    'Naka-Si',
+    'Hong Yih-Feng',
     'Jody Chiang',
-    'Eggplant Egg Band',
-    'Sorry Youth Band',
+    'Eggplant Egg',
+    'Sorry Youth',
     'Collage',
-    'Golden Melody Awards',
+    'Goldene Melodie-Preise',
   ]
 subcategory: '流行音樂'
 author: 'Taiwan.md'
@@ -21,169 +21,161 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 readingTime: 14
 translatedFrom: 'Music/台灣台語歌曲演進.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:f008ac775b92e042'
-sourceBodyHash: 'sha256:14cffd9d61fb7eb9'
-translatedAt: '2026-09-25T15:12:52+08:00'
+sourceCommitSha: '5dcc54256'
+sourceContentHash: 'sha256:d424949afdcc0ad2'
+sourceBodyHash: 'sha256:f3b6a62bd1b3e3fe'
+translatedAt: '2026-10-03T00:56:57+08:00'
 ---
 
-# Die Entwicklung der Taiwan-Sprachlieder: Von "Onkelgesängen" zum neuen Kult für Intellektuelle
+# Die Entwicklung der taiwanesischen Hokkien-Lieder: Vom "Alte-Männer-Song" zum Trendthema der Hipster
 
-## Kurzübersicht
+## 30-Sekunden-Überblick
 
-Die Taiwan-Sprachmusik durchlief eine glorreiche Ära, die von der Nachkriegskultur von Nakashi, Hong Yi-feng und Wen Xia geprägt war, bis zu den Zeiten, in denen [Jody Chiang](/de/people/jody-chiang/) dominierte. In jüngster Zeit sehen wir jedoch innovative Interpretationen durch neue Generationen wie [Eggplant Egg Band](/de/music/eggplant-egg-band/), [Sorry Youth Band](/de/music/sorry-youth-band/) und Collage. Die Taiwan-Sprache hat sich erfolgreich von dem Stereotyp des "Onkelgesangs" zu einem neuen Liebling der gebildeten Jugend gewandelt, was durch die Einrichtung der Kategorie „Taiwan-Sprachalbum“ bei den Golden Melody Awards zusätzlich unterstützt wird.
+Die taiwanesischen Hokkien-Lieder haben sich von der Nachkriegs-Nakashi-Kultur, Hong Yih-Feng und Wen Hsia, den "Liedkönigen", bis zu den innovativen Interpretationen der neuen Generationen wie Eggplant Egg, Sorry Youth und Collage entwickelt. Die Hokkien-Lieder haben erfolgreich ihren Imagewandel vom "Alte-Männer-Song" zur neuen Lieblingsmusik der Hipster und jungen Generation vollzogen, und die Schaffung der Hokkien-Album-Kategorie beim Goldenen Melodie-Preis hat diese Entwicklung institutionell unterstützt.
 
-**Schlüsselwörter:** Popmusik in Taiwan-Sprache, Generationenübergang, musikalische Innovation, kulturelle Identität, Muttersprachliche Wiederbelebung
+**Schlüsselwörter:** Hokkien-Pop-Musik, Generationenübertragung, Musikinnovation, kulturelle Identität, Muttersprachserneuerung
 
-## Warum ist das wichtig?
+## Warum ist das wichtig
 
-Die Geschichte der Taiwan-Sprachlieder spiegelt die politischen Veränderungen und den Wandel der kulturellen Identität in Taiwan wider, sowie die Auswirkungen der Sprachpolitik. Die Wiederbelebung dieser Musik, von einer marginalisierten zu einer wiederbeachteten Form, zeugt vom Wiederaufbau des kulturellen Selbstbewusstseins Taiwans. Der Aufstieg der neuen Generationen in der Taiwan-Sprache zeigt, dass die Muttersprachliche Kultur im Zeitalter der Globalisierung weiterhin ein eigenes Publikum finden kann.
+Die Entwicklungsgeschichte der Hokkien-Lieder spiegelt die politischen Veränderungen Taiwans, die kulturelle Identitätswandel und die Auswirkungen der Sprikpolitik wider. Von der Marginalisierung bis zur Wiederbelebung, die Renaissance der Hokkien-Lieder widerspiegelt den wachsenden Selbstvertrauen der taiwanesischen Volkskultur. Der Aufstieg der Musik der neuen Generation zeigt, dass die Muttersprachkultur auch in der Ära der Globalisierung ihre eigene Zuhörerbasis finden kann.
 
-## Die Wurzeln: Nakashi und das Wanderkünstlerwesen (1945–1970)
+## Graswurzeln: Nakashi und die Wandermusik (1945-1970)
 
-### Volksmusik nach dem Krieg
+### Die Volksmusik der Nachkriegszeit
 
-In den frühen Nachkriegsjahren war Taiwan wirtschaftlich angeschlagen und gesellschaftlich instabil, doch die Musik blieb ein unverzichtbarer Trostspender im Leben der Menschen. Der Begriff „Nakashi“, der aus dem Japanischen stammt, bezeichnete reisende Künstler, die mit einfachen Instrumenten in Tavernen, Teehäusern und auf den Straßen für die Öffentlichkeit sangen.
+In den frühen Nachkriegszeiten Taiwans, wo die Wirtschaft schwach und die Gesellschaft unruhig war, blieb die Musik eine unverzichtbare Tröstung im Leben der Menschen. Der Begriff "Nakashi" (Nakashi), der vom Japanischen stammt, bezeichnet die wandernden Musiker, die mit einfachen Instrumenten in Restaurants, Teehäusern und Straßenecken für die Menschen spielten.
 
-Die Besonderheit der Nakashi-Kultur lag in ihrer Improvisation und Interaktivität. Die Künstler mussten ihre Stücke an die Stimmung vor Ort und die Bedürfnisse des Publikums anpassen; von Taiwan-Sprache-Adaptionen japanischer Lieder bis hin zu lokalen Kreationen bildeten sie ein vielfältiges Repertoire ab. Obwohl diese Darstellungsform von der Mainstream-Gesellschaft als „niedrig“ angesehen wurde, war sie der wichtigste Brutplatz für die Musik in der Taiwan-Sprache.
+Die Besonderheit der Nakashi-Kultur liegt in ihrer Improvisation und Interaktivität. Die Musiker mussten sich an die Stimmung vor Ort und die Bedürfnisse des Publikums anpassen, von den japanischen Liedern in Hokkien bis zu den lokal komponierten Volksliedern, was eine vielfältige Bibliothek von Liedern bildete. Obwohl diese Form der Auftrittskunst von der Mainstream-Gesellschaft als "gekünstelt" angesehen wurde, war sie dennoch der wichtigste Nährboden für die Entstehung der Hokkien-Lieder.
 
-### Die harten Jahre der Wanderkünstler
+### Die harten Lebensbedingungen der Wandermusiker
 
-Das Leben der wandernden Künstler war voller Herausforderungen; sie mussten ein scharfes Gespür und tiefe Lebenserfahrung mitbringen, um bei verschiedenen Anlässen Resonanz zu finden. Viele später berühmte Sänger in der Taiwan-Sprache, wie Hong Yi-feng und Ye Chi-tien, hatten Wandererfahrungen, die ihren Gesang mit einer echten Lebensnähe füllten.
+Das Leben der Wandermusiker war von Herausforderungen geprägt. Sie mussten scharfe Beobachtungsgabe und tiefes Lebenserfahrung haben, um in verschiedenen Situationen die Aufmerksamkeit des Publikums zu erlangen. Viele später berühmte Hokkien-Sänger wie Hong Yih-Feng und Yeh Ch'i-t'ien hatten einst Erfahrung als Wandermusiker, und diese Erfahrung machte ihre Stimmen voller Lebenswahrhaftigkeit.
 
-Die Wanderkultur entwickelte auch einen charakteristischen Gesangsstil für die Musik in der Taiwan-Sprache: emotional intensiv, technisch schlicht und lebensnah. Dieser Stil wurde später zum Kernmerkmal, das die Musik in der Taiwan-Sprache von den Mandarin-Popliedern unterscheidet.
+Die Wandermusikkultur hat auch den typischen Gesangstil der Hokkien-Lieder geprägt: emotional intensiv, technisch schlicht und nah am Leben. Dieser Stil wurde später zur Kernidentität der Hokkien-Lieder, die sie von den Mandarin-Pop-Liedern unterschied.
 
-## Die Goldene Ära der Songkönige: Hong Yi-feng und Wen Xia (1960–1980)
+## Die Ära der Liedkönige: Hong Yih-Feng und Wen Hsia (1960-1980)
 
-### Der Aufstieg des Songkönigs Hong Yi-feng
+### Der Aufstieg von Hong Yih-Feng, dem König der Hokkien-Lieder
 
-Hong Yi-feng wurde als „Songkönig der Taiwan-Sprache“ bezeichnet, und sein Auftritt markierte den Übergang der Musik in der Taiwan-Sprache von der Straße in die reguläre Musikindustrie. Sein Lied _„Der Sehnsüchtige“_ (思慕的人), veröffentlicht 1957, ist ein Klassiker in der Geschichte der Musik in der Taiwan-Sprache; seine Melodie und sein tiefgründiger Text zeigten das künstlerische Niveau dieser Sprache.
+Der Auftritt von Hong Yih-Feng markierte den Übergang der Hokkien-Lieder von der Straße in die formelle Musikindustrie. Er lernte 1957 den Texter Yeh Ch'un-lin kennen, und zwischen 1957 und 1959 schrieb er mit ihm die Hokkien-Kompositionslieder wie "Alte Liebe", "Mondscheinen in Tamsui" und "Verlangt nach Menschen". Obwohl die Plattenfirmen die Hokkien-Kompositionslieder nicht schätzten, wurde erst 1960 von Asia Records veröffentlicht, und Hong Yih-Feng's Stimme wurde durch den Rundfunk bekannt, wodurch er sich neben Wen Hsia als "König der Insel" etablierte[^6]。Die Melodie von "Verlangt nach Menschen" ist elegant und die Texte sind emotional tiefgründig, und sie bleibt bis heute ein Klassiker in der Geschichte der Hokkien-Lieder.
 
-Hong Yi-fongs Erfolg beruhte nicht nur auf seinem herausragenden Gesangstalent, sondern auch darauf, dass er die kollektiven Emotionen der Menschen in Taiwan präzise erfassen konnte. Seine Lieder beschrieben oft das Glück und Unglück kleiner Leute und drückten tiefgründige Gefühle mit den einfachsten Worten aus, was beim Publikum starke Resonanz hervorrief.
+Der Erfolg von Hong Yih-Feng lag nicht nur in seiner hervorragenden Gesangstechnik, sondern auch in seiner Fähigkeit, die kollektive Emotion der taiwanesischen Menschen genau zu treffen. Seine Lieder beschreiben oft die Glück und Leid der einfachen Menschen und drücken die tiefsten Gefühle mit den einfachsten Worten aus, was das Publikum stark berührt.
 
-### Wen Xia: Pionierin des Songschreibers
+### Wen Hsia: der Vorbote des Komponisten
 
-Wen Xia war eine weitere berühmte Künstlerin in der Musikszene der Taiwan-Sprache; sie war sowohl eine hervorragende Sängerin als auch eine produktive Schöpferin. Ihre Werke wie _„Mama, pass auf dich auf“_ (媽媽請你也保重) und _„Heimat bei Sonnenuntergang“_ (黃昏的故鄉) werden bis heute gesungen.[^2]
+Wen Hsia war eine weitere Persönlichkeit, die sich einen Namen in der Hokkien-Musikwelt gemacht hat, sowohl als hervorragende Sängerin als auch als productive Komponistin. Seine bekannten Werke wie "Mutter, bitte nimm dir auch gut care" und "Heimat am Abend" werden noch heute oft gesungen[^2]。
 
-Wen Xas Schaffensstil verschmolz Elemente der traditionellen Volksmusik Taiwans mit moderner Popmusik. Sie bewahrte die lokale Eigenart der Musik in der Taiwan-Sprache und wirkte gleichzeitig zeitgemäß. Ihr Erfolg bewies, dass auch die Musik in der Taiwan-Sprache ein hohes künstlerisches Niveau erreichen konnte und setzte einen Maßstab für nachfolgende Künstler dieser Sprache.
+Der Kompositionsstil von Wen Hsia verbindet traditionelle taiwanesische Volkslieder mit Elementen der modernen Popmusik, was sowohl die lokale Besonderheit der Hokkien-Lieder bewahrt als auch zeitgemäß ist. Sein Erfolg bewies, dass die Hokkien-Lieder ebenso hochwertige Kunstwerke schaffen können und legte den Maßstab für die kommenden Hokkien-Musiker.
 
-### Die Entwicklung der Plattenindustrie
+### Die Entwicklung der Schallplattenindustrie
 
-In dieser Zeit begann die Musik in der Taiwan-Sprache, in das reguläre System der Plattenindustrie einzutreten. Firmen wie Hai Shan Records und Si Hai Records veröffentlichten spezielle Alben in der Taiwan-Sprache und etablierten ein Produktions-, Vertriebs- und Werbesystem. Obwohl diese Unternehmen klein waren, bildeten sie eine entscheidende industrielle Grundlage für die Entwicklung dieser Musik.
+In dieser Ära begannen die Hokkien-Lieder, in das formelle Schallplattenindustriegeschäft einzutreten, aber die Hokkien-Kompositionslieder wurden zunächst von den Plattenfirmen nicht geschätzt, und "Verlangt nach Menschen" musste erst 1960 von Asia Records veröffentlicht werden[^6]。Der Markt für Mandarin-Pop-Lieder war größer, und 1962 gegründetes Hai-Shan Records begann mit Mandarin-Pop-Liedern und den Soundtracks der Huang-Mei-Filme, und 1967 wurde die Hokkien-Volkslieder "Liebeskelch" in Mandarin-Pop-Lieder "Voll mit bitterem Wein" umgeschrieben und löste damit eine Welle aus[^7]。Die Hokkien-Plattenfirmen waren klein, aber sie boten dennoch die wichtige industrielle Grundlage für die Entwicklung der Hokkien-Lieder.
 
-## Politische Unterdrückung und Underground-Aktivitäten (1970–1990)
+## Politische Unterdrückung und Untergrundentwicklung (1970-1990)
 
-### Der Einfluss der Sprachpolitik
+### Die Auswirkungen der Sprikpolitik
 
-Ab den 1970er Jahren führte die Regierung „Sprachbewegung Mandarin“ ein, welche die Verwendung von Dialekten in den Medien einschränkte. Die Musik in der Taiwan-Sprache wurde in Fernseh- und Radiosendungen stark reduziert, was den Entwicklungsraum für Sänger in dieser Sprache erheblich einschränkte. Diese Politik hatte tiefgreifende Auswirkungen auf die Entwicklung der Musik in der Taiwan-Sprache; viele talentierte Schöpfer wurden gezwungen, sich dem Mandarin-Songwriting zuzuwenden.
+Die Republik China setzte 1946 mit der Mandarin-Bewegung ein, und in den 1970er Jahren wurden die Einschränkungen für die Dialekte in den Medien immer stärker. 1972 wurden die taiwanesischen Fernsehsendungen auf Hokkien auf eine Stunde pro Tag begrenzt, und die tägliche Anzahl der Hokkien-Lieder wurde auf zwei Lieder begrenzt; die 1976 veröffentlichte "Gesetz über Radio- und Fernsehen" verlangte, dass die Sendungssprache hauptsächlich Mandarin sein und die Dialekte schrittweise reduziert werden sollten[^8]。Der Entwicklungsraum für Hokkien-Sänger wurde stark eingeschränkt, und diese Politik hatte tiefgreifende Auswirkungen auf die Entwicklung der Hokkien-Lieder.
 
-### Die Widerstandsfähigkeit des Undergrounds
+### Die Robustheit der Untergrundaktivitäten
 
-Die Musik in der Taiwan-Sprache verschwand jedoch nicht durch politische Unterdrückung. Bei privaten Hochzeiten, Festen und Treffen blieb die Musik in der Taiwan-Sprache ein fester Bestandteil. Diese „unterirdischen“ Aktivitäten bewahrten die Tradition der Musik in der Taiwan-Sprache und verlängerten das Leben dieser Musikform.
+Dennoch verschwanden die Hokkien-Lieder nicht unter der politischen Unterdrückung. In privaten Feiern wie Hochzeiten, Trauern, Tempelfesten und privaten Partys blieben die Hokkien-Lieder dennoch die Standardmusik. Diese "Untergrundaktivitäten" bewahrten die Überlieferung der Hokkien-Lieder und erhielten das Lebensgefühl der Hokkien-Musik am Laufen.
 
-Viele Sänger in der Taiwan-Sprache wechselten in dieser Zeit zu nicht-regulären Darstellungsformen wie „elektrische Wagen“ oder Wanderkünstler, was zwar keinen hohen sozialen Status brachte, aber die Vitalität der Musik in der Taiwan-Sprache aufrechterhielt. Diese Künstler besaßen oft eine starke Bühnenpräsenz und Improvisationsfähigkeiten und bewahrten so ein wertvolles Darbietungserbe.
+Viele Hokkien-Sänger wandten sich in dieser Zeit an "elektronische Blumensträuße" und "Wandermusik" usw., nicht formelle Auftrittsformen, obwohl sie gesellschaftlich nicht besonders angesehen wurden, aber sie erhielten das Lebensgefühl der Hokkien-Lieder. Diese Auftrittsformen hatten oft starke Ausstrahlung und Improvisationstalent und bewahrten die wertvollen traditionellen Gesangsmethoden der Hokkien-Lieder.
 
-## Die Ära Jody Chiang: Der Glanz der Königin (1980–2015)
+## Die Jody Chiang-Ära: Der Glanz der Hokkien-Sängerin (ab 1980er Jahren)
 
-### Der Aufstieg von „Zweite Schwester“ Jody Chiang
+### Der Aufstieg der Ältesten Jody Chiang
 
-Ende der 1980er Jahre brachte [Jody Chiang](/de/people/jody-chiang/) einen neuen Höhepunkt für die Musik in der Taiwan-Sprache. Ihre einzigartige Stimme, ihr meisterhafter Gesangsstil und ihre tiefgründige Interpretation der Emotionen gaben der Musik in der Taiwan-Sprache wieder große Aufmerksamkeit und Anerkennung.
+[Jody Chiang](/de/people/jody-chiang/) trat offiziell 1983 als Sängerin an, und ihr Album "Abschiedsküste" im Jahr 1984 brachte sie zum ersten Mal in die Öffentlichkeit[^3]。Ihre einzigartige Stimme, ihre hervorragende Gesangstechnik und ihre tiefgründige Interpretation der Emotionen in den Liedern brachten den Hokkien-Liedern erneut breite Aufmerksamkeit und Anerkennung ein.
 
-Jody Chians Erfolg spiegelte nicht nur ihr persönliches Talent wider, sondern auch die Veränderungen im politischen und sozialen Umfeld Taiwans. Mit der Lockerung der Repression und dem Aufkommen des lokalen Bewusstseins gewann die Kultur der Taiwan-Sprache an Anerkennung und Unterstützung. Jody Chiang nutzte diese historische Chance und wurde zur repräsentativsten Stimme für das Wiederauftauchen der Musik in der Taiwan-Sprache nach der Lockerung der Repression.[^3]
+Als sie gerade erst berühmt wurde, war Taiwan noch unter der Martialrecht, und die Hokkien-Lieder wurden hauptsächlich in den Nächsten Märkten verbreitet, und die Sängerin wurde berühmt, aber die Musik noch nicht[^3]。Nach der Aufhebung der Martialrecht im Jahr 1987 stieg das Bewusstsein für die lokale Kultur, und der Raum für die Hokkien-Kultur wurde geöffnet, und beim ersten Goldenen Melodie-Preis im Jahr 1990 gewann Jody Chiang den Preis für den besten weiblichen Sänger[^3]，und wurde die repräsentativste Stimme der Hokkien-Lieder nach der Aufhebung der Martialrecht.
 
-### Einfluss über Generationen hinweg
+### Die Einflusskraft über Generationen hinweg
 
-Jody Chians Einfluss überschritt Altersgrenzen. Ihre Lieder waren nicht nur bei älteren Zuhörern beliebt, sondern zogen auch viele junge Hörer an. Diese generationenübergreifende Anziehungskraft bewies, dass gute Musik in der Taiwan-Sprache universellen emotionalen Wert besitzt und durch Sprachbeschränkungen nicht an Attraktivität verliert.
+Der Einfluss von Jody Chiang reichte über die Generationen hinweg. Ihre Lieder wurden nicht nur von älteren Zuhörern geliebt, sondern zogen auch viele junge Zuhörer an. Diese Fähigkeit, verschiedene Generationen anzuziehen, bewies, dass hervorragende Hokkien-Lieder universelle emotionale Werte haben und nicht durch die Sprachgrenze ihren Reiz verlieren.
 
-Jody Chians Konzerte waren oft schwer zu bekommen und zeigten die wichtige Stellung der Musik in der Taiwan-Musikszene. Ihr Erfolg ermutigte auch viele Musiker, sich dem Songwriting und Gesang in der Taiwan-Sprache zu widmen.
+Die Konzerte von Jody Chiang waren oft ausgebucht und bewiesen die Bedeutung der Hokkien-Lieder im taiwanesischen Musikmarkt. Ihr Erfolg ermutigte auch viele weitere Musiker, sich der Hokkien-Lieder zu widmen. Sie gab 2015 bekannt, dass sie sich zurückziehen würde, und trat 2024 während des Nationalfeiertabends zurück, und 2025 begann sie eine Tournee[^3]。
 
-## Der Aufstieg der neuen Generation: Vom "Onkelgesang" zum Kult für Intellektuelle (2010 bis heute)
+## Der Aufstieg der neuen Generation: Vom Alte-Männer-Song zum Trendthema der Hipster (2010-heute)
 
-### Eggplant Egg Band: Die Rock-Interpretation der Taiwan-Sprache
+### Eggplant Egg: Der Aufschrei des Rockgeistes in Hokkien
 
-Der Auftritt von [Eggplant Egg Band](/de/music/eggplant-egg-band/) markierte den Beginn einer völlig neuen Ära für die Musik in der Taiwan-Sprache. Diese Band schuf einen einzigartigen Stil, indem sie Rockarrangements mit Texten in der Taiwan-Sprache kombinierte. Ihr Hit _„Wanderer kehrt zurück“_ (浪子回頭) wurde online populär und führte dazu, dass viele junge Menschen die Anziehungskraft der Musik in der Taiwan-Sprache neu entdeckten.
+[Eggplant Egg](/de/music/eggplant-egg-band/) markierte den Beginn einer neuen Ära für die Hokkien-Lieder. Diese Band kombinierte Rock-Arrangements mit Hokkien-Texten und schuf so einen einzigartigen Musikstil. Ihr bekannter Song "Reisender kehrt zurück" wurde im Internet viral und brachte viele junge Menschen dazu, die Hokkien-Lieder neu zu entdecken.
 
-Der Erfolg von Eggplant Egg Band lag darin, dass sie die Musik in der Taiwan-Sprache mit einer Sprache darstellten, die jungen Leuten vertraut war, wodurch Sprachbarrieren beseitigt wurden. Ihre Texte waren oft lebensnah und kombiniert mit soliden Arrangements präsentierte die Musik in der Taiwan-Sprache einen beispiellosen modernen Charakter.
+Der Erfolg von Eggplant Egg bestand darin, dass sie die Hokkien-Lieder mit der Musiksprache der jungen Menschen interpretierten und die Sprachbarriere überwanden. Ihre Texte waren voller Alltagsausdrücke und wurden mit solider Arrangement unterstützt, was den Hokkien-Liedern ein nie zuvor dagewesenes Modernitätsgefühl verlieh.
 
-### Sorry Youth Band: Die literarische Praxis der Taiwan-Sprache
+### Sorry Youth: Die Praxis der Hipster-Ästhetik in Hokkien
 
-Die Band [Sorry Youth Band](/de/music/sorry-youth-band/) brachte eine völlig neue Dimension zur Musik in der Taiwan-Sprache, indem sie ihren raffinierten musikalischen Geschmack und ihre Ästhetik der gebildeten Jugend einbrachte. Ihre Musik verschmolz Elemente aus Indie-Rock, Folk und Elektronik; die Texte waren poetisch und zeigten die literarische Qualität der Musik in der Taiwan-Sprache.
+[Sorry Youth](/de/music/sorry-youth-band/) brachte mit ihrer feinen Musikalität und Hipster-Ästhetik eine neue Dimension in die Hokkien-Lieder. Ihre Musik vereinte unabhängigen Rock, Volksmusik und Elektronik und andere Stile, und die Texte waren voller Poesie und zeigten die literarische Seite der Hokkien-Lieder.
 
-Das Publikum von Sorry Youth Band bestand hauptsächlich aus jungen, hochgebildeten Menschen, deren Akzeptanz der Musik in der Taiwan-Sprache den Aufstieg dieser Muttersprachlichen Kultur in akademischen Kreisen bewies. Dieses Phänomen wird als die „Intellektualisierung“ der Musik in der Taiwan-Sprache bezeichnet und steht für einen Anstieg des sozialen Status dieser Musikform.
+Die Zielgruppe von Sorry Youth bestand hauptsächlich aus gebildeten jungen Menschen, und ihre Akzeptanz der Hokkien-Lieder bewies, dass die Musik der Muttersprache in der Wissenschaftsgesellschaft erneut aufstieg. Dieses Phänomen wurde als die "Hipsterisierung" der Hokkien-Lieder bezeichnet und symbolisierte den Aufstieg des sozialen Status der Hokkien-Musik.
 
-### Collage: Die Schöpfung aus weiblicher Perspektive
+### Collage: Hokkien in der mehrsprachigen Mischung
 
-Collage erweiterte die Grenzen der kreativen Arbeit in der Taiwan-Sprache durch ihre einzigartige weibliche Perspektive und ihren experimentellen Stil. Ihre Kreationen waren nicht an traditionelle Rahmen der Musik in der Taiwan-Sprache gebunden; sie wagten es, verschiedene musikalische Elemente zu nutzen und zeigten die kreative Flexibilität dieser Sprache.[^4]
+Collage ist ein Duo bestehend aus der Sängerin Hsia Tzu-Lari-Ssu und dem Gitarristen Wang Chia-chuan, und der Name der Band stammt vom englischen "Collage". Ihre Werke vereinigen Elektronik und Rock, und die Texte mischen indigene Sprachen, Hokkien, Japanisch und Englisch. Sie erhielten Aufmerksamkeit durch "Mutter der tausend Blüten", und 2022 gewannen sie den Preis für den besten Neuzug bei den Goldenen Melodie-Preisen[^4]。
 
-Die Lieder von Collage thematisieren oft weibliche Erfahrungen und gesellschaftliche Themen und drücken durch die Taiwan-Sprache das Denken und Fühlen moderner Frauen aus. Diese Richtung der Schöpfung eröffnete neue thematische Bereiche für die Musik in der Taiwan-Sprache und zog junge Zuhörer an, die sich mit sozialen Fragen auseinandersetzen.
+Collage setzte die Hokkien-Lieder in eine mehrsprachige Mischung und erweiterte die kreative Grenze der Hokkien-Lieder noch einmal und zog junge Zuhörer an, die sich für Sprache und Geschichte interessieren.
 
-## Die Golden Melody Awards: Ein institutioneller Meilenstein
+## Die Hokkien-Album-Kategorie beim Goldenen Melodie-Preis: Ein Meilenstein der Institutionalisierung
 
 ### Die Bedeutung der offiziellen Anerkennung
 
-Bei den Golden Melody Awards (16. Ausgabe) im Jahr 2005 wurde die Kategorie „Bestes Taiwan-Sprachalbum“ eingeführt, was einen institutionellen Meilenstein in der Geschichte dieser Musik darstellt.[^1] Die Einrichtung dieses Preises zeigte an, dass die Musik in der Taiwan-Sprache eine offizielle Anerkennung erhielt und den Künstlern eine Plattform für Präsentation und Wettbewerb bot.
+Im Jahr 2005, beim 16. Goldenen Melodie-Preis, wurde die Kategorie "Bester Hokkien-Pop-Album" ins Leben gerufen, und der erste Preis ging an Jody Chiang mit "Liebe mich"[^1]。Bevor dies geschah, hatten die Goldenen Melodie-Preise bereits eine Kategorie für Hokkien-Sänger geschaffen, und beim 15. Preis wurden getrennte Kategorien für den besten Hokkien-Männer- und Frauen-Sänger verliehen[^5]；die Album-Kategorie gab den Hokkien-Werken eine gleiche Plattform mit den Mandarin-Albums und bot den Hokkien-Musikern eine Bühne und Wettbewerb.
 
-Die Kriterien der Golden Melody Awards legen Wert auf musikalische Qualität und Innovation und ermutigen Künstler, neue musikalische Sprachen zu erproben, während sie gleichzeitig die Eigenart der Musik in der Taiwan-Sprache bewahren. Diese Ausrichtung hat einen substanziellen Antrieb für die Entwicklung dieser Musik geboten.
+### Die Tendenz zur Vielfalt
 
-### Diversifizierte Entwicklungsrichtungen
-
-Die Gewinner des Preises „Bestes Taiwan-Sprachalbum“ zeigen die vielfältige Entwicklung der Musik in der Taiwan-Sprache. Von traditionellen Schlagerstilen bis hin zu moderner Rock-, Folk- und elektronischer Musik werden die musikalischen Genres immer reicher. Diese Diversifizierung beweist die reichhaltige Ausdruckskraft der Taiwan-Sprache als musikalisches Medium.
+Die Gewinner der Hokkien-Album-Kategorie beim Goldenen Melodie-Preis über die Jahre zeigten die vielfältige Entwicklung der Hokkien-Lieder. Von traditionellen Gesangsstilen bis zu modernem Rock, Volksmusik und Elektronik, die Musikgenres der Hokkien-Lieder wurden immer reicher. Diese Vielfalt bewies die reiche Ausdruckskraft der Hokkien-Sprache als Musiksprache.
 
 ## Kulturelle Bedeutung und gesellschaftlicher Einfluss
 
-### Der Wiederaufbau der sprachlichen Identität
+### Der Wiederaufbau der Sprachidentität
 
-Der Aufstieg der neuen Generationen in der Taiwan-Sprache ist nicht nur ein Musikphänomen, sondern auch ein Ausdruck des Wiederaufbaus der sprachlichen Identität. Unter dem Druck der Globalisierung fühlten sich viele junge Menschen einst von ihrer Muttersprache entfremdet, aber die herausragenden Werke in der Taiwan-Sprache ließen sie die expressive Kraft dieser Sprache neu entdecken.
+Der Aufstieg der Hokkien-Lieder der neuen Generation ist nicht nur ein Musikphänomen, sondern auch ein Ausdruck des Wiederaufbaus der Sprachidentität. Unter dem Druck der Globalisierung hatten viele junge Menschen ein Gefühl der Distanz zu ihrer Muttersprache, aber hervorragende Hokkien-Musikwerke halfen ihnen, die Ausdruckskraft der Muttersprache neu zu entdecken.
 
 ### Eine Brücke zwischen den Generationen
 
-Die Musik in der Taiwan-Sprache wurde zu einer Brücke für den Dialog zwischen verschiedenen Altersgruppen. Junge Musiker interpretieren die Musik in der Taiwan-Sprache mit moderner Sprache, was älteren Zuhörern neue Vitalität vermittelt; gleichzeitig helfen gute Werke jungen Zuhörern, den Wert der traditionellen Kultur zu verstehen und wertzuschätzen.
+Die Hokkien-Lieder wurden zu einer Brücke zwischen verschiedenen Generationen. Junge Musiker interpretierten die Hokkien-Lieder mit moderner Musik und brachten traditionelle Kultur zum Leben; gleichzeitig halfen hervorragende Hokkien-Lieder den jungen Zuhörern, die Bedeutung und den Wert der traditionellen Kultur zu verstehen.
 
-### Steigendes kulturelles Selbstbewusstsein
+### Der Aufstieg des kulturellen Selbstvertrauens
 
-Der Wandel von „Onkelgesang“ zu „Kult für Intellektuelle“ spiegelt einen Anstieg des kulturellen Selbstbewusstseins in Taiwan wider. Die Menschen sehen die Verwendung ihrer Muttersprache nicht mehr als etwas „veraltet“, sondern als eine wichtige Ressource für kulturelle Identität und kreativen Ausdruck.
+Die Hokkien-Lieder entwickelten sich von "Alte-Männer-Songs" zu "Trendthemen der Hipster", und dieser Imagewandel spiegelt den Aufstieg des kulturellen Selbstvertrauens Taiwans wider. Die Menschen betrachten die Verwendung der Muttersprache nicht mehr als "Rückständigkeit", sondern als wichtige Ressource für kulturelle Identität und kreative Ausdruckskraft.
 
-## Aktuelle Herausforderungen und Zukunftsaussichten
+## Gegenwärtige Herausforderungen und Zukunftsperspektiven
 
 ### Der Druck des Marktwettbewerbs
 
-Obwohl die Musik in der Taiwan-Sprache mehr Aufmerksamkeit erhält, steht sie im hart umkämpften Musikmarkt weiterhin vor Herausforderungen. Wie man das Publikum erweitert, ohne die Eigenart zu verlieren, ist eine wichtige Frage für die Musiker dieser Sprache.
+Obwohl die Hokkien-Lieder mehr Aufmerksamkeit erhalten haben, stehen sie weiterhin vor Herausforderungen im harten Wettbewerb auf dem Musikmarkt. Wie kann man bei der Beibehaltung der Besonderheiten die Zuhörerschaft erweitern? Dies ist eine wichtige Frage, die die Hokkien-Musiker bedenken müssen.
 
-### Das Gleichgewicht zwischen Innovation und Tradition
+### Das Gleichgewicht zwischen Innovation und Überlieferung
 
-Die neuen Künstler in der Taiwan-Sprache stehen vor dem Dilemma des Gleichgewichts zwischen Innovation und Bewahrung. Übermäßige Innovation kann die Eigenart der Musik in der Taiwan-Sprache zerstören, aber übermäßige Konservativität kann sie ohne Vitalität lassen. Erfolgreiche Musiker finden oft eine geschickte Balance zwischen diesen beiden Polen.
+Die jungen Hokkien-Musiker stehen vor dem Problem des Gleichgewichts zwischen Innovation und Überlieferung. Zu viel Innovation könnte die Besonderheit der Hokkien-Lieder verlieren, aber zu viel Konservierung würde diese Musikform lebendig werden. Die erfolgreichsten Hokkien-Musiker finden in der Regel eine geschickte Balance zwischen diesen beiden Aspekten.
 
 ### Die Möglichkeit der Internationalisierung
 
-Mit dem Anstieg der weichen Macht Taiwans und der Betonung der Vielfalt durch die internationale Gemeinschaft hat auch die Musik in der Taiwan-Sprache das Potenzial, international zu werden. Einige Werke haben bereits bei taiwanesischen Gemeinschaften im Ausland Aufmerksamkeit erregt und könnten zukünftig größere internationale Märkte erschließen.
+Mit dem Aufstieg der weichen Macht Taiwans und der internationalen Aufmerksamkeit für multikulturelle Vielfalt, haben die Hokkien-Lieder auch die Möglichkeit, international bekannt zu werden. Einige Hokkien-Lieder haben bereits in den taiwanesischen Gemeinschaften im Ausland Aufmerksamkeit erregt, und in Zukunft könnten sie einen noch größeren internationalen Markt erschließen.
 
-### Re-lokalisierung im Streaming-Zeitalter
+### Die Neuverdichtung im Streaming-Zeitalter
 
-Streaming-Plattformen wie Spotify und KKBOX haben der Musik in der Taiwan-Sprache die geografische Beschränkung von traditionellem Radio und Plattenläden genommen. Die Logik der Algorithmen hat zufällig dazu geführt, dass internationale Zuhörer, die die Taiwan-Sprache verstehen, leicht Eggplant Egg Band oder Wang Fu finden konnten, und auch junge Menschen auf der Insel Taiwan „neu entdeckten“ Lin Qiang oder Hong Yi-feng in den Empfehlungslisten.
-
-Die Streaming-Daten ermöglichten erstmals eine Quantifizierung des Publikums der Musik in der Taiwan-Sprache: Wie viele Hörer eines bestimmten Alters hören welchen Song? Dies wurde zu einer Grundlage für die Planungen neuer Werke durch Plattenfirmen. Ab den 2020er Jahren begannen einige Labels, Entscheidungen über die Veröffentlichung von Taiwan-Sprachversionen oder zweisprachigen Versionen auf der Grundlage der Streaming-Reaktionen zu treffen; die Produktion in dieser Sprache ist somit nicht mehr nur eine kulturelle Geste, sondern eine datengestützte Geschäftsentscheidung.
+Plattformen wie Spotify und KKBOX haben die Hokkien-Lieder den traditionellen Radio- und Schallplattenläden hinweg überschritten. Die Algorithmen der Wiedergabelisten haben es überraschend ermöglicht, dass Zuhörer, die Hokkien sprechen, Eggplant Egg oder Wang Fu leicht finden können, und die jungen Menschen auf der Insel Taiwans hören erneut die Lieder von Lin Chiang oder Hong Yih-Feng in den empfohlenen Listen.
 
 ## Referenzen
 
-- Jian Shangren: _„Legenden der Taiwan-Volkslieder“_, Taipei: Nongxue She
-- Zhuang Yongming: _„Lokale Geschichten der Taiwan-Sprache“_, Taipei: Shih Bao Culture
-- Golden Melody Awards, Liste der Gewinner und Juryprotokolle: https://gma.tavis.tw/
-- Datenbank des Hong Yi-feng Musikverbandes
-- Offizielle Auftrittsaufzeichnungen und Medienberichte von Jody Chiang
-- Offizielle Website der Eggplant Egg Band: https://eggnoodleband.com/
-- Sorry Youth Band: https://sorryyouth.bandcamp.com/
-- Daten der offiziellen Musikplattform von Collage
-- Sammelband wissenschaftlicher Arbeiten zur Kultur der Taiwan-Sprache
-- _„Geschichte der Entwicklung der Musik in der Taiwan-Sprache“_, veröffentlicht vom Nationalen Taiwanesischen Literaturmuseum
-- Datenbank des Volksmusikprogramms der Hakka Television
-- Sonderstudie zur Musik in der Taiwan-Sprache durch den Chinesischen Musiker Austauschverband
+- Chuang Yung-ming, Sun Te-ming: "Heimatgefühle der taiwanesischen Volkslieder"
+- Sorry Youth: https://sorryyouth.bandcamp.com/
 
-[^1]: Wikipedia, Artikel „Golden Melody Awards Bestes Taiwan-Sprachalbum“: Die Kategorie wurde ab der 16. Ausgabe (2005) eingeführt.[https://zh.wikipedia.org/wiki/金曲獎最佳台語專輯]
+[^1]: [Goldene Melodie-Preise — Gewinnerliste der 16. Preise](https://tavis.tw/gma/35th/GMA/history_16.htm) — Bester Hokkien-Pop-Album: Jody Chiang "Liebe mich"
 
-[^2]: Wikipedia, Artikel über Wen Xia: Dokumentation ihres Lebens und ihrer Werke wie _„Mama, pass auf dich auf“_ und _„Heimat bei Sonnenuntergang“_.[https://zh.wikipedia.org/wiki/文夏]
+[^2]: [Wikipedia — Wen Hsia](https://zh.wikipedia.org/zh-tw/%E6%96%87%E5%A4%8F) — Lebenslauf von Wen Hsia, berühmte Werke wie "Mutter, bitte nimm dir auch gut care" und "Heimat am Abend"
 
-[^3]: Wikipedia, Artikel über Jody Chiang: Biografie und Karriere von Jody Chiang im Kontext der Wiederbelebung des Marktes in der Taiwan-Sprache nach der Lockerung der Repression.[https://zh.wikipedia.org/wiki/江蕙]
+[^3]: [Wikipedia — Jody Chiang](https://zh.wikipedia.org/zh-tw/%E6%B1%9F%E8%95%99) — offizielles Debüt am 18. April 1983, erste Bekanntheit im Januar 1984 mit "Abschiedsküste" (noch unter der Martialrecht, die Hokkien-Lieder wurden in den Nächsten Märkten verbreitet); Gewinnerin des besten weiblichen Sängerpreises beim ersten Goldenen Melodie-Preis 1990; 2015 bekannt, dass sie sich zurückziehen würde, 2024 am 5. Oktober während des Nationalfeiertabends zurück, 2025 begann die Tournee "Existenz"
 
-[^4]: Offizielle Musikkanäle und Schöpfungsbeschreibungen von Collage. [StreetVoice](https://streetvoice.com/collage7275/) ｜ [YouTube](https://www.youtube.com/@collage7275)
+[^4]: [Zentrales Nachrichtenbüro — Gewinner des besten Neuzuges beim 33. Goldenen Melodie-Preis Collage (2022-07-02)](https://www.cna.com.tw/news/amov/202207020191.aspx) — Duo, Sängerin Hsia Tzu-Lari-Ssu, Gitarrist Wang Chia-chuan; Sprachen umfassen indigene Sprachen, Hokkien, Japanisch und Englisch; mit "Mutter der tausend Blüten" bekannt
 
-[^5]: Offizielle Website der Golden Melody Awards: Gewinnerlisten der Kategorie „Bestes Taiwan-Sprachalbum“.[https://gma.tavis.tw/]
+[^5]: [Goldene Melodie-Preise — Gewinnerliste der 15. Preise](https://tavis.tw/gma/35th/GMA/history_15.htm) — beim 15. Preis wurden getrennte Kategorien für den besten Hokkien-Männer- und Frauen-Sänger verliehen, es gab noch keine Hokkien-Album-Kategorie
+
+[^6]: [Taiwan Panorama — Die verbliebenen Töne umzingeln den Himmel: Der Hokkien-König Hong Yih-Feng](https://www.taiwan-panorama.com/Articles/Details?Guid=0fc445be-4afa-4f2f-bacf-074ef1158647&CatId=7) — 1957 traf er Yeh Ch'un-lin, und zwischen 1957 und 1959 schrieb er "Verlangt nach Menschen" und andere Lieder; 1960 veröffentlichte Asia Records das Album "Verlangt nach Menschen", und er wurde neben Wen Hsia als "König der Insel" bekannt
+
+[^7]: [Wikipedia — Hai-Shan Records](https://zh.wikipedia.org/zh-tw/%E6%B5%B7%E5%B1%B1%E5%94%B1%E7%89%87) — 1962 wurde das Hai-Shan-Schallplattenhaus gegründet und begann mit den Soundtracks der Huang-Mei-Filme; 1967 wurde das Hokkien-Volkslied "Bemoaning Kelch" in ein Mandarin-Pop-Lied "Voll mit bitterem Wein" umgeschrieben
+
+[^8]: [Wikipedia — Mandarin-Politik](https://zh.wikipedia.org/zh-tw/%E5%9C%8B%E8%AA%9E%E6%94%BF%E7%AD%96) — ab 1946 wurde Mandarin eingeführt; 1972 wurden die taiwanesischen Fernsehsendungen auf Hokkien auf eine Stunde pro Tag begrenzt, und die tägliche Anzahl der Hokkien-Lieder wurde auf zwei Lieder begrenzt; 1976 veröffentlichte das "Gesetz über Radio- und Fernsehen" die Vorgabe, die Dialekte schrittweise zu reduzieren

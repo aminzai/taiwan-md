@@ -1,6 +1,6 @@
 ---
 title: 'Die Entwicklung der Softwareindustrie in Taiwan'
-description: 'Vom Auftragsfertigungsdenken zur Softwareinnovation: Wie Taiwan sich im Halbleiterzeitalter neu positioniert hat'
+description: 'Vom Fertigungsdenken zur Softwareinnovation: Wie Taiwan sich im Halbleiterzeitalter neu positioniert hat'
 date: 2026-03-18
 category: 'Technology'
 tags:
@@ -10,82 +10,80 @@ tags:
     'digitale Transformation',
     'Start-ups',
   ]
-subcategory: '人工智慧'
+subcategory: '數位與網路'
 author: 'Taiwan.md'
 readingTime: 12
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Technology/台灣軟體產業發展.md'
-sourceCommitSha: '24efd20f3'
-sourceContentHash: 'sha256:e6d1dafa422fe928'
-sourceBodyHash: 'sha256:1d51e9aba96f7253'
-translatedAt: '2026-10-02T09:54:54+08:00'
+sourceCommitSha: '3e08bf82b'
+sourceContentHash: 'sha256:ef6914cecff85dfb'
+sourceBodyHash: 'sha256:6cc55941dd179c34'
+translatedAt: '2026-10-03T02:34:19+08:00'
 ---
 
 # Die Entwicklung der Softwareindustrie in Taiwan
 
 ## Kurzübersicht
 
-Taiwan war lange Zeit weltweit für die Hardwarefertigung bekannt, doch in den letzten Jahren ist die Softwareindustrie rasant gewachsen. Von Systemintegration über Spieleentwicklung bis hin zu AI-Anwendungen hat sich die taiwanesische Softwarebranche unter staatlicher Unterstützung von einem „Hardware-OEM-Denken“ zu einem „Innovationsmodell der Software“ entwickelt und einen zweiten Karriereweg im digitalen Zeitalter gefunden.
+Taiwan war lange Zeit weltweit für die Hardwarefertigung bekannt, doch in den letzten Jahren ist die Softwareindustrie rasant gewachsen. Von Systemintegration über Spieleentwicklung bis hin zu KI-Anwendungen hat sich die taiwanesische Softwarebranche unter staatlicher Förderung von einem „Hardware-OEM-Denken“ hin zu einem „Softwareinnovationsmodell“ entwickelt und einen zweiten Karriereweg im Zeitalter der digitalen Wirtschaft gefunden.
 
-Im Jahr 2023 belief sich der Umsatz des Informationstechnologiedienstleistungssektors in Taiwan auf etwa NT$680 Milliarden, mit einer durchschnittlichen jährlichen Wachstumsrate von etwa 8–10 %, was deutlich über dem gesamten verarbeitenden Gewerbe liegt.
+Laut dem Statistikamt des Ministeriums für Ökonomie belief sich der gesamte Umsatz der Computer- und Informationsdienstleistungsindustrie 2023 auf etwa NT$570 Milliarden, was einem Anstieg von 8,9 % gegenüber dem Vorjahr entspricht und einen neuen Höchststand darstellt[^3].
 
-Schlüsselwörter: Digitale Transformation, Softweredienste, AI-Anwendungen, Spieleindustrie, Systemintegration
+Schlüsselwörter: Digitale Transformation, Softweredienste, KI-Anwendungen, Spieleindustrie, Systemintegration
 
 ## Warum ist das wichtig?
 
-Mit dem Eintritt der Welt in die digitale Wirtschaft wurde der Mehrwert reiner Hardware zunehmend unter Druck gesetzt; Software und Dienstleistungen sind zu den wahren Wertschöpfern geworden. Die Softwareindustrie ist der entscheidende Schlachtfeld für Taiwans Wandel vom „Herstellerland“ zum „Innovationsland“.
+Mit dem Eintritt der Welt in die digitale Wirtschaft wurde der Mehrwert reiner Hardware zunehmend unter Druck gesetzt; Software und Dienstleistungen sind zu den wahren Wertschöpfern geworden. Die Softwareindustrie ist der entscheidende Schlachtfeld für Taiwan, um sich von einer „Fertigungsnation“ zu einer „Innovationsnation“ zu entwickeln.
 
-Die Softwarebranche besitzt strukturelle Vorteile, die die Hardwareindustrie kaum erreichen kann: eine durchschnittliche Bruttomarge von 30–50 % (im Vergleich zu 5–15 % bei der Hardware), Grenzkosten nahe Null und ein Geschäftsmodell, das schnell auf internationale Märkte repliziert werden kann.
+Die Softwarebranche verfügt über strukturelle Vorteile, die die Hardwareindustrie kaum erreichen kann: Grenzkosten nähern sich Null und Geschäftsmodelle können schnell auf internationale Märkte repliziert werden.
 
 Für Taiwan repräsentiert die Softwareindustrie:
 
 - **Industrieaufwertung**: Wandel vom Auftragsfertiger zum Markenhersteller und Innovator
-- **Talentwert**: Die hervorragende Ingenieurkultur Taiwans glänzt im Softwaresektor
-- **Globale Wettbewerbsfähigkeit**: Gleichschaltung mit der internationalen Szene in Bereichen wie AI, Gaming und FinTech
+- **Talentwert**: Die exzellente Ingenieurkultur Taiwans glänzt im Softwarebereich
+- **Globale Wettbewerbsfähigkeit**: Gleichschaltung mit internationalen Akteuren in Bereichen wie KI, Gaming und FinTech
 
 ## Aktueller Stand und Größe der Industrie
 
-### Gesamtentwicklung
+### Gesamtwachstum
 
-Laut Statistiken des Industrial Research Institute of Taiwan (MIC) wächst die taiwanesische Informationstechnologiedienstleistungsbranche seit Jahren stabil:
+Laut dem Statistikamt des Ministeriums für Ökonomie wächst die taiwanesische Computer- und Informationsdienstleistungsindustrie seit Jahren stabil:
 
-- **Industrieumfang**: Der Umsatz im IT-Dienstleistungssektor in Taiwan betrug 2023 etwa NT$680 Milliarden[^3]
-- **Beschäftigte**: Über 450.000 Menschen sind in der taiwanesischen Informationstechnologiedienstleistungsbranche tätig
-- **Wachstumstrend**: Durchschnittliche jährliche Wachstumsrate von ca. 8–10 %, weit über dem gesamten verarbeitenden Gewerbe
+- **Industriegröße**: Der gesamte Umsatz im Jahr 2023 belief sich auf etwa NT$570 Milliarden, ein neuer Höchststand[^3]
+- **Wachstumstrend**: Ein Anstieg von 8,9 % im Jahr 2023[^3]
 
 Im Vergleich zur traditionellen Hardwareindustrie weist die Softwarebranche folgende Vorteile auf:
 
-- Höhere Gewinnmargen (durchschnittlich 30–50 % gegenüber 5–15 % bei der Hardware)
+- Höhere Bruttomargen
 - Stärkere Skalierbarkeit (Grenzkosten nahe Null)
-- Flexiblere Geschäftsmodelle (Abonnements, Cloud-Dienste)
+- Flexiblere Geschäftsmodelle (Abonnementdienste, Cloud-Dienste)
 
 ### Strukturanalyse der Industrie
 
 Die taiwanesische Softwareindustrie lässt sich hauptsächlich in vier Bereiche unterteilen:
 
-**1. Systemintegrationsdienste (SI)**
+**1. Systemintegrationsdienstleistungen (SI)**
 
-- Vertreter sind Unternehmen wie Jingcheng, Eiyang und Zitohongyu
-- Sie unterstützen die digitale Transformation traditioneller Industrien wie Finanzen, Fertigung und Regierung
-- Machen etwa 40 % des gesamten Umsatzes im IT-Dienstleistungssektor aus
+- Vertreten durch Unternehmen wie Jingcheng, Eiyang und Zito Hongyu
+- Unterstützen die digitale Transformation traditioneller Industrien wie Finanzen, Fertigung und Regierung
 
 **2. Spieleentwicklung**
 
-- Alte etablierte Spielunternehmen wie Treasure, Raylux und Yujian
-- Neue mobile Studio wie Rayark Games oder Chuhuai Games
-- Jährlicher Wert: Laut dem PwC Global Entertainment & Media Outlook 2024 erreichte die taiwanesische Gaming- und E-Sports-Industrie im Jahr 2024 einen Wert von NT$126 Milliarden[^1] (der in der Mitte genannte Betrag ist ein älterer Wert); der Großteil stammt aus dem Ausland.
+- Traditionsunternehmen wie Softmax (Zhi Guan), Raylux (Lei Jue) und Yujian (Yu Quan)
+- Neue Studios wie Reia Games und Choku Games
+- Geschätzter Wert: PwC schätzt den Wert der taiwanesischen Spiele- und E-Sportindustrie für 2024 auf etwa NT$126 Milliarden[^1]
 
 **3. Unternehmenssoftwarelösungen**
 
 - Unternehmensverwaltungssoftware wie ERP, CRM, HRM
-- Lokale Anbieter wie Zitoong Computer oder Dingxin Computer
-- In jüngster Zeit aktive Entwicklung von Cloud- und AI-Lösungen
+- Lokale Anbieter wie Zito Computer (Zi Tong) und Dingxin Computer
+- In jüngster Zeit aktive Entwicklung von Cloud- und KI-Lösungen
 
 **4. Neue Technologieanwendungen**
 
-- Neue Technologien wie AI/ML, Blockchain, IoT
+- Anwendungen neuer Technologien wie KI/ML, Blockchain, IoT
 - Kooperationen zwischen Start-ups und Forschungseinrichtungen
 - Schwerpunktbereiche des staatlichen „AI Taiwan“-Programms
 
@@ -96,166 +94,161 @@ Die taiwanesische Softwareindustrie lässt sich hauptsächlich in vier Bereiche 
 Die taiwanesische Softwareindustrie begann in den 1980er Jahren mit einem Hauptmodell:
 
 - **Software-Auftragsfertigung**: Entwicklung von Software für ausländische Unternehmen, ähnlich dem Hardware-OEM-Modell
-- **Lokalisierungsdienste**: Anpassung ausländischer Software an lokale Gegebenheiten, wie die chinesische Version von Microsoft Windows
+- **Lokalisierungsdienste**: Anpassung ausländischer Software an lokale Bedürfnisse, wie die chinesische Version von Microsoft Windows
 - **Systemintegration**: Kombination von Hardware und Software zur Bereitstellung von Informationssystemen für Unternehmen
 
-Das Merkmal dieser Phase war die „technologieorientierte“ Ausrichtung; der Schwerpunkt lag auf praktischer Ingenieursleistung, aber es fehlte an Markenbewusstsein und Innovationsgedanken.
+Das Merkmal dieser Phase war die „technologieorientierte“ Ausrichtung, wobei der Schwerpunkt auf praktischen Ingenieursfähigkeiten lag, aber es fehlte an Markenbewusstsein und Innovationsgeist.
 
-### Die Internetära (2000–2010)
+### Die Ära des Internets (2000–2010)
 
 Nach der Dotcom-Blase begann die taiwanesische Softwareindustrie, neue Entwicklungsrichtungen zu suchen:
 
 - **Aufstieg der Spieleindustrie**: Online-Spiele wurden zum ersten erfolgreichen Fall in der taiwanesischen Softwarebranche
-- **Entwicklung des E-Commerce**: Plattformen wie Yahoo Auctions und PChome entstanden
-- **Staatliche Förderung**: Die „Zwei-Millionen-Sterne“-Politik listete digitale Inhalte als Schlüsselindustrie auf.
+- **Entwicklung des E-Commerce**: Plattformen wie Yahoo Auction und PChome entstanden
+- **Staatliche Förderung**: Die „Zwei-Millionen-Stern“-Politik listete digitale Inhalte als Schlüsselindustrie auf
 
-### Mobile und Cloud-Ära (2010–2020)
+### Die mobile und Cloud-Ära (2010–2020)
 
 Die Verbreitung von Smartphones brachte neue Chancen:
 
-- **Handyspiele**: Spielefirmen stiegen in den mobilen Markt ein, wie z.B. „Rock Zombie“ von Raylux Network oder „Cytus“ von Rayark Games
-- **Cloud-Transformation**: Traditionelle Softwareunternehmen begannen, SaaS-Dienste zu entwickeln
-- **Startup-Ökosystem**: Accelerator-Programme wie AppWorks und TMI förderten neue Start-up-Teams.
+- **Handyspiele**: Spielefirmen drangen in den Handymarkt vor, wie „Resident Evil“ von Raylux Network oder „Cytus“ von Reia Games
+- **Cloud-Transformation**: Traditionelle Softwareanbieter begannen mit der Entwicklung von SaaS-Diensten
+- **Start-up-Ökosystem**: Accelerator-Programme wie AppWorks förderten neue Start-up-Teams
 
-### AI- und Digitale Transformationsära (ab 2020)
+### Die Ära von KI und digitaler Transformation (2020 bis heute)
 
-Die Pandemie beschleunigte die digitale Transformation; der Staat führte das Programm „Digitale Nation – Innovationsökonomie“ ein:
+Die Pandemie beschleunigte die digitale Transformation; 2021 wurde das staatliche „Digitales Land – Innovationsökonomische Entwicklungsplan“ zum „Smart Nation Plan“ aufgewertet:
 
-- **AI-Anwendungen**: Von prädiktiver Wartung in der Fertigung bis zur Analyse medizinischer Bilder
+- **KI-Anwendungen**: Von der vorausschauenden Wartung in der Fertigung bis zur medizinischen Bildanalyse
 - **5G-Dienste**: Innovative Anwendungen, die 5G und Edge Computing kombinieren
-- **ESG-Software**: Softwarelösungen, die Unternehmen bei der Umsetzung nachhaltiger Geschäftspraktiken unterstützen.
+- **ESG-Software**: Softwarelösungen, die Unternehmen bei der Umsetzung nachhaltiger Geschäftspraktiken unterstützen
 
 ## Wichtige Unternehmen und Erfolgsbeispiele
 
-Die Wettbewerbsfähigkeit der taiwanesischen Softwareindustrie zeigt sich in drei Dimensionen: die digitale Transformation großer traditioneller Systemintegratoren, der internationale Durchbruch der Spieleindustrie durch IP und die Kapitalmarkterfolge von AI-Start-ups.
+Die Wettbewerbsfähigkeit der taiwanesischen Softwareindustrie zeigt sich in drei Dimensionen: die digitale Transformation großer traditioneller Systemintegratoren, der internationale Durchbruch der Spieleindustrie durch IP und die Kapitalmarkterfolge von KI-Start-ups.
 
 Diese drei Bereiche zeigen gemeinsam, dass die taiwanesische Softwarebranche über den lokalen Markt hinausgewachsen ist und echte Fähigkeiten zur Etablierung einer globalen Stellung in bestimmten Nischenbereichen demonstriert hat.
 
-Die folgenden repräsentativen Fälle zeigen die tatsächlichen Ergebnisse unterschiedlicher Wege.
+Die folgenden repräsentativen Beispiele zeigen reale Ergebnisse verschiedener Wege.
 
 ### Transformation der traditionellen Großunternehmen
 
-**Systex Corporation (Jingcheng)**
+**Jingcheng Information (精誠資訊)**
 
-- Gegründet 1997[^2], begann mit Systemintegration
-- Hat sich in den letzten Jahren zu einem „Digital Transformation Partner“ entwickelt
-- Entwickelt eine „FinTech One-Stop-Service-Plattform“, um Banken bei der digitalen Transformation zu unterstützen
-- Umsatz im Jahr 2023 betrug etwa NT$10 Milliarden
+- Gegründet 1997[^2], startete mit Systemintegration
+- Hat sich in jüngster Zeit zu einem „Digitalisierungs-Partner“ entwickelt
+- Entwickelt die „FinTech One-Stop Service Platform“, um Banken bei der digitalen Transformation zu unterstützen
 
-**Zitoong Computer**
+**Zito Computer (資通電腦)**
 
-- Marktführer in Taiwan für HRM-Software
-- Hat die HRM-Software in die Cloud überführt und die Plattform „STAYFLEX“ eingeführt
-- Erfolgreiche Exporte nach Südostasien, China und anderen Märkten.
+- Führender Marktanteil im HRM-Softwarebereich in Taiwan
+- Erfolgreiche Exporte nach Südostasien und China
 
 ### Stars der Spieleindustrie
 
-**Rayark Games**
+**Reia Games (雷亞遊戲)**
 
-- Bekannt international durch die Musikspielreihe „Cytus“
-- Setzt auf eigene IPs und produziert keine "Skin-Swapper" (Nachbauspiele)
-- Die Werke wurden mit internationalen Spielepreisen ausgezeichnet; Spieler sind weltweit vertreten.
+- Bekannt für die Musikspielreihe „Cytus“ international
+- Setzt auf eigene IPs und lehnt Skinning ab
+- Die Werke wurden mit internationalen Spielepreisen ausgezeichnet, die Spieler sind weltweit vertreten
 
-**Chuhuai Games**
+**Choku Games (赤燭遊戲)**
 
-- Ein unabhängiges Studio, das für Horror-Spiele bekannt ist
-- „Huan Yuan“ zeigt taiwanesische kulturelle Besonderheiten und wurde international hoch bewertet
-- Repräsentiert den Einfluss der taiwanesischen Indie-Szene auf internationaler Ebene.
+- Ein unabhängiges Studio, bekannt für Horror-Spiele
+- „Huan Yuan“ zeigt kulturelle Besonderheiten Taiwans und wurde international hoch bewertet
+- Repräsentiert den Einfluss taiwanesischer Indie-Games auf der internationalen Bühne
 
-### AI-Start-up-Vertreter
+### KI-Start-up-Vertreter
 
-**Appier (Pei Xing Interactive)**
+**Appier (沛星互動科技)**
 
-- Gegründet 2012, spezialisiert auf AI-Marketingtechnologie
-- Wurde 2021 an der japanischen TSE börsennotiert und ist ein taiwanesisches AI-Einhorn[^11]
-- Bedient über 1.000 Marken, darunter internationale Unternehmen wie Toyota und L'Oréal.
+- Gegründet 2012, spezialisiert auf AI-Marketing-Technologie
+- Börsennotierung an der Tokyo Stock Exchange im Jahr 2021; ein taiwanesisches KI-Einhorn[^11]
 
-**Taiwan AI Labs (Taipei Artificial Intelligence Laboratory)**
+**Taiwan AI Labs (台灣人工智慧實驗室)**
 
-- Gegründet von Du Yijin, spezialisiert auf medizinische KI-Anwendungen
-- Entwickelt praktische KI-Tools wie „Yateng Transkript“
-- Kooperiert mit dem Taihoku Medical University Hospital bei der Entwicklung von medizinischen Bild-KI-Systemen.
+- Gegründet von Du Yijin (杜奕瑾), spezialisiert auf medizinische KI-Anwendungen
+- Entwickelt praktische KI-Tools wie „Yateng Transcription“ (雅婷逐字稿)
+- Entwickelt KI-Systeme für medizinische Bildgebung in Zusammenarbeit mit der National Taiwan University Hospital
 
 ## Staatliche Politik und Unterstützung
 
-### Das Programm „Digitale Nation – Innovationsökonomie“
+### Von DIGI+ zum Smart Nation Plan
 
-Die Executive Yuan führte 2017 das „Programm Digitale Nation – Innovationsökonomie (DIGI+ 2025)“ ein[^5], wobei der Schwerpunkt auf folgenden Punkten liegt:
+Die Executive Yuan startete 2016 den „Digitales Land – Innovationsökonomisches Entwicklungsplan (2017–2025)“ (DIGI+-Plan), der 2021 zum „Smart Nation Plan (2021–2025)“ umbenannt und aufgewertet wurde, wobei vier Hauptachsen fokussiert wurden[^5]:
 
-1. **Aufbau digitaler Infrastruktur**: Neue Technologien wie 5G, AI und Blockchain
-2. **Digitale Innovation**: Unterstützung von Software-Start-ups und Förderung digitaler Talente
-3. **Digitale Governance**: Digitale Transformation der Regierung zur Steigerung der Effizienz öffentlicher Dienste
-4. **Digitale Inklusion**: Reduzierung der digitalen Kluft zwischen Stadt und Land
+1. **Digitale Infrastruktur**
+2. **Digitale Innovation**
+3. **Digitale Governance**
+4. **Digitale Inklusion**
 
-### Das Programm „Asien – Silicon Valley“
+### Asia-Silicon Valley Promotion Plan
 
-Mit Fokus auf „IoT“ und „Innovation und Gründung“:
+Mit „IoT“ und „Innovation und Gründung“ als Kern:
 
-- **Innovative Regularien**: Sandbox für Finanzaufsicht, Experimente mit autonomen Fahrzeugen
-- **Kapitalzufuhr**: Investitionen des National Development Fund in Start-ups; Einrichtung eines Angel-Investing-Programms
-- **Internationale Vernetzung**: Aufbau von Kooperationen mit Innovationszentren wie Silicon Valley und Israel.
+- **Innovative Regulierung**: Finanzaufsichts-Sandkästen, Unbemannte Fahrzeugtests usw.
+- **Finanzielle Unterstützung**: Investitionen des National Development Fund in Start-ups; Einrichtung eines Angel-Investment-Programms für Gründer
+- **Internationale Vernetzung**: Aufbau von Kooperationen mit Innovationszentren wie dem Silicon Valley
 
-### Das AI Taiwan Programm
+### Taiwan AI Action Plan
 
-Das 2021 gestartete „AI Taiwan“-Programm[^8]:
+Die Executive Yuan führte seit Januar 2018 den vierjährigen „Taiwan AI Action Plan (2018–2021)“[^8]:
 
-- **Talentförderung**: Ein vijähriges Programm zur Ausbildung von KI-Fachkräften, das die Ausbildung von 10.000 Fachleuten anstrebt
-- **Industrieanwendung**: Förderung der Einführung von AI in traditionellen Industrien
-- **F&E-Kapazität**: Gründung eines AI-Forschungszentrums und Zusammenarbeit mit internationalen Spitzeninstitutionen.
+- **Talentförderung**: Staat und Privatsektor trainierten über zehntausend KI-Fachkräfte und Anwender
+- **Industrielle Anwendung**: Förderung der Einführung von KI in traditionellen Industrien
+- **Forschungsleistung**: Einrichtung eines AI Innovation Research Center an NTU, NCU, Tsinghua University (清大), National Chiao Tung University (交大)
 
 ## Herausforderungen und Chancen
 
-Die Herausforderungen, denen die taiwanesische Softwareindustrie gegenübersteht, konzentrieren sich hauptsächlich auf drei Bereiche: Talent, Marktgröße und Kapital, wobei diese voneinander abhängig sind: Ohne Kapital ist es schwierig, Talente anzuziehen; ein zu kleiner Markt lässt Investoren unsicher zurück.
+Die Herausforderungen der taiwanesischen Softwareindustrie konzentrieren sich hauptsächlich auf drei Bereiche: Talente, Marktgröße und Kapital, wobei diese voneinander abhängen. Ein Mangel an Kapital erschwert die Anwerbung von Talenten; ein zu kleiner Markt lässt Investoren unsicher werden.
 
-Der Durchbruch liegt in der Internationalisierung: Jährlich absolvieren etwa 20.000 Absolventen aus IT-Fächern in Taiwan, doch die Branche benötigt etwa 30.000 bis 40.000 Fachkräfte. Die Schließung dieser Lücke erfordert eine zweigleisige Strategie: Steigerung der Gehaltswettbewerbsfähigkeit und Schaffung mehr exportierbarer Softwareprodukte.
+Der Durchbruch liegt in der Internationalisierung: Um den Fachkräftemangel zu reduzieren, muss man zwei Wege gehen – die Lohntreibende Wettbewerbsfähigkeit steigern und gleichzeitig mehr exportierbare Softwareprodukte schaffen.
 
-Dennoch eröffnen Nachfragen wie digitale Transformation, AI-Anwendungen und ESG-Software schnell neue Chancen.
+Allerdings eröffnen auch Anforderungen wie digitale Transformation, KI-Anwendungen und ESG-Software neue Chancen.
 
-### Hauptherausforderungen
+### Hauptprobleme
 
 **Fachkräftemangel**
 
-- Etwa 20.000 Absolventen aus IT-Fächern pro Jahr in Taiwan
-- Der Bedarf der Industrie liegt bei etwa 30.000 bis 40.000, was einen deutlichen Mangel darstellt
-- Die Gehaltsniveaus hinken denen von USA und Singapur hinterher, was zum Abwandern gut qualifizierter Fachkräfte führt.
+- Die Lohnniveaus hinken noch denen der USA oder Singapurs hinterher; gute Talente wandern ins Ausland ab
 
 **Marktgröße als Einschränkung**
 
-- Der Binnenmarkt in Taiwan ist relativ klein
+- Der Binnennachfrage-Markt ist relativ klein
 - Softwareunternehmen müssen internationale Fähigkeiten besitzen, um groß zu werden
 - Internationale Hürden wie Sprache, Kultur und Regulierung
 
 **Schwierigkeiten beim Kapitalerwerb**
 
-- Im Vergleich zur Hardwarefertigung ist es schwieriger für die Softwarebranche, Bankkredite zu erhalten
-- Obwohl das Risikokapital zugenommen hat, ist der Umfang noch nicht auf dem Niveau fortschrittlicher Länder
-- Es fehlen große Akquisitionsfälle von Softwareunternehmen; der Ausstiegsmechanismus ist noch nicht ausgereift.
+- Im Vergleich zur Hardwarefertigung ist es schwieriger, Bankkredite für die Softwarebranche zu erhalten
+- Obwohl das Risikokapital zugenommen hat, ist seine Größe immer noch geringer als in Industrieländern
+- Es mangelt an großen Software-Übernahmebeispielen; der Exit-Mechanismus ist nicht ausreichend ausgereift
 
 ### Zukünftige Chancen
 
-**Die Welle der digitalen Transformation**
+**Welle der digitalen Transformation**
 
-- Nach der Pandemie stieg die Nachfrage nach digitaler Transformation in Unternehmen stark an
+- Nach der Pandemie stieg die Nachfrage nach digitaler Transformation bei Unternehmen stark an
 - Die taiwanesische Softwareindustrie verfügt über tiefgreifende praktische Erfahrungen in der Digitalisierung der Fertigung
-- Diese Erfahrung kann exportiert werden, um Entwicklungsländer zu unterstützen.
+- Die taiwanesische Erfahrung kann an andere Entwicklungsländer exportiert werden
 
-**AI und neue Technologien**
+**KI und neue Technologien**
 
-- Taiwans Vorteile in Halbleitertechnik und Präzisionsfertigung können mit AI kombiniert werden
+- Der Vorteil Taiwans in Halbleitern und Präzisionsfertigung kann mit KI kombiniert werden
 - Bereiche wie Edge Computing und AIoT könnten Nischenmärkte für Taiwan darstellen
-- Die Regierung fördert aktiv AI-Anwendungen und bietet gute Testumgebungen.
+- Die Regierung fördert aktiv KI-Anwendungen und bietet gute Testumgebungen
 
 **Nachhaltigkeitsanforderungen**
 
 - Themen wie ESG und Kohlenstoffneutralität schaffen neue Softwarebedürfnisse
-- Taiwan kann Lösungen zur nachhaltigen Unternehmensführung und CO2-Bilanzierung entwickeln
-- Kombiniert mit der Fertigungserfahrung können Smart Factory und grüne Lieferkettensoftware entwickelt werden.
+- Taiwan kann Lösungen zur nachhaltigen Betriebsführung und zur CO2-Bilanzverfolgung entwickeln
+- Kombination mit Fertigungserfahrung: Entwicklung von Smart Factories und grünen Lieferketten-Software
 
 ## Internationaler Vergleich und Positionierung
 
-Auf der asiatisch-pazifischen Softwarekarte ist Taiwans Position die eines „mittleren Spezialmarktes für Hard- und Softwareintegration“, nicht die eines großen Outsourcing-Standortes (Indien) oder eines Plattform-Ökosystemführers (Südkorea).
+Auf der asiatisch-pazifischen Softwarekarte ist Taiwans Position die eines „mittleren Spezialmarktes für Hardware-Software-Integration“, nicht die eines Massen-Outsourcing-Standortes (Indien) oder eines Plattform-Ökosystemführers (Südkorea).
 
-Diese Position hat inhärente Einschränkungen, aber auch schwer replizierbare Differenzierungsvorteile: In Bereichen wie IoT und Smart Manufacturing, die eine Hard- und Softwareintegration erfordern, verfügt Taiwan über praktische Erfahrungen, die andere Regionen nicht schnell nachbilden können.
+Diese Position hat inhärente Einschränkungen, aber auch schwer replizierbare Differenzierungsvorteile: In Bereichen wie IoT und Smart Manufacturing, die eine Hardware-Software-Integration erfordern, verfügt Taiwan über praktische Erfahrungen, die andere Regionen nicht schnell replizieren können.
 
 Der folgende Vergleich mit Nachbarländern hilft, Taiwans relative Position zu klären.
 
@@ -263,92 +256,60 @@ Der folgende Vergleich mit Nachbarländern hilft, Taiwans relative Position zu k
 
 **vs Südkorea**
 
-- Südkorea ist in der Spieleindustrie (z.B. NCSOFT, Nexon) führend vor Taiwan
-- Taiwan hat Aufholpotenzial bei B2B-Software und AI-Anwendungen
-- Beide Länder stehen unter dem Wettbewerbsdruck Chinas; eine Zusammenarbeit kann erwogen werden.
+- Südkorea führt in der Spieleindustrie (z. B. NCSOFT, Nexon) Taiwan an
+- Taiwan hat Aufholpotenzial bei B2B-Software und KI-Anwendungen
+- Beide Länder stehen unter dem Wettbewerbsdruck Chinas; eine Zusammenarbeit ist denkbar
 
 **vs Singapur**
 
-- Singapur ist in FinTech führend; Taiwan ist stärker in der Fertigungssoftware
-- Die staatlichen Investitionen in Singapur sind groß, weshalb Taiwan die politische Unterstützung stärken muss
-- Singapur kann als Sprungbrett für Südostasien dienen.
+- Singapur führt im FinTech, Taiwan ist stärker in der Fertigungssoftware
+- Die staatlichen Investitionen in Singapur sind groß; Taiwan muss die politische Unterstützung verstärken
+- Singapur kann als Sprungbrett für Südostasien dienen
 
 **vs Indien**
 
 - Indien ist bekannt für Software-Outsourcing; Taiwan konzentriert sich auf Anwendungen mit hohem Mehrwert
 - Taiwans Fähigkeit zur Hardwareintegration ist ein Differenzierungsvorteil
-- Eine komplementäre Zusammenarbeit zwischen den beiden Ländern ist möglich.
+- Eine komplementäre Zusammenarbeit zwischen beiden ist möglich
 
 ### Die differenzierte Positionierung Taiwans
 
-**Vorteile der Hard-/Softwareintegration**
+**Vorteile der Hardware-Software-Integration**
 
 - Taiwan vereint die Fähigkeiten der Hardwarefertigung und Softwareentwicklung
-- Hat Vorteile in Bereichen, die eine Integration von Hardware und Software erfordern (z.B. IoT, Smart Manufacturing)
-- Kann ganzheitliche Lösungen entwickeln: „Taiwan-Made + Taiwan-Software“
+- Hat Vorteile in Bereichen, die eine Integration von Hardware und Software erfordern, wie IoT und Smart Manufacturing
+- Kann ganzheitliche Lösungen entwickeln: „Taiwanese Fertigung + Taiwanese Software“
 
-**Chinesische Kulturmarkt**
+**Chinesische Kulturmärkte**
 
-- Taiwanesische Software ist stark anpassungsfähig für Lokalisierung und den asiatischen Markt
-- Kann als Sprungbrett für internationale Softwareunternehmen dienen, die in den asiatischen Markt eintreten wollen
-- Bedient Märkte mit chinesischer Bevölkerung entlang der Taiwanstraße, in Hongkong, Macau und Südostasien.
+- Taiwanesische Software ist stark anpassungsfähig für Lokalisierung und asiatische Märkte
+- Kann als Sprungbrett für internationale Softwareunternehmen in den asiatischen Markt dienen
+- Bedient die chinesischen Märkte der Taiwanstraße, Hongkong und Südostasien
 
 **Feine Innovationskultur**
 
 - Die taiwanesische Softwareindustrie legt Wert auf Benutzererfahrung und Produktdetails
-- Zeigt eine einzigartige Ästhetik in Bereichen wie Spiele und Kreativsoftware
-- Entspricht dem Trend der zukünftigen Softwarebranche, die Design und Erfahrung betont.
+- Zeigt eine einzigartige Ästhetik in Bereichen wie Spielen und kreativer Software
+- Entspricht dem Trend der zukünftigen Softwarebranche, die Design und Erlebnis betont
 
 ## Ausblick und zukünftige Entwicklung
 
-Die taiwanesische Softwareindustrie befindet sich in einer kritischen Transformationsphase. Im globalen Kontext der digitalen Wirtschaft hat Taiwan die Chance, vom „Hardwarereich“ zu einem „digitalen Innovationsland“ aufzusteigen.
+Die taiwanesische Softwareindustrie befindet sich in einer kritischen Transformationsphase. Unter dem globalen Trend der digitalen Wirtschaft hat Taiwan die Chance, von einem „Hardwarereich“ zu einer „digitalen Innovationsmacht“ aufzusteigen.
 
-Der Kernkonflikt dieser Transformation ist: Taiwans tief verwurzelte Hardware-Denkweise benötigt eine völlig andere Geschäftslogik für die Software. Der Umsatz im IT-Dienstleistungssektor betrug 2023 etwa NT$680 Milliarden, und das Ziel ist es, bis 2028 NT$1 Billion zu überschreiten, was bei einer durchschnittlichen jährlichen Wachstumsrate von ca. 5–7 % auf der bestehenden Basis nicht unmöglich ist.
+Der Kernkonflikt dieser Transformation besteht darin: Taiwans tief verwurzelte Hardware-Denkweise erfordert eine völlig andere Geschäftslogik für die Software.
 
-**Kurzfristige Ziele (2026–2028)**
-
-- Umsatz des IT-Dienstleistungssektors über NT$1 Billion
-- Förderung von 50 potenziellen Software-Einhornen
-- Aufbau eines systematischen Ausbildungssystems für Softwarespezialisten
-
-**Mittelfristige Ziele (2028–2030)**
-
-- Etablierung als wichtiges Innovationszentrum in Asien und Pazifik
-- Erschließung internationaler Wettbewerbsvorteile in Bereichen wie AI, IoT und grüne Technologien
-- Softwareexporte erreichen 15 % des Gesamtexports.
-
-**Langfristige Vision (ab 2030)**
-
-- Aufbau einer erkennbaren Markenidentität „Taiwan Software“
-- Erlangung eines gewissen Marktanteils und Einflusses auf dem internationalen Softwaremarkt
-- Deutliche Steigerung des Anteils von Softwareexporten am BIP.
-
-Die Zukunft der taiwanesischen Softwareindustrie hängt davon ab, ob sie in der Lage ist, aus den bestehenden Vorteilen zu innovieren und neue Wege zu beschreiten. Sie lernt aus dem Erfolg der Auftragsfertigung, wird aber nicht von alten Denkweisen gebunden sein; die taiwanesische Softwarebranche wird sich im digitalen Zeitalter ihre eigene Position finden.
+Die Zukunft der taiwanesischen Softwareindustrie hängt davon ab, ob sie in der Lage ist, mutig zu innovieren und Durchbrüche zu erzielen, während sie ihre bestehenden Vorteile beibehält. Die taiwanesische Softwarebranche wird im digitalen Zeitalter eine eigene Position finden, indem sie aus den Erfolgen des Auftragsfertigers lernt, aber nicht von alten Denkweisen gebunden ist.
 
 ## Referenzen
 
-[^1]: [PwC — Global Entertainment & Media Outlook 2024-2028](https://www.pwc.com/gx/en/industries/tmt/media/outlook.html) — – Der Wert der taiwanesischen Gaming- und E-Sports-Industrie betrug 2024 NT$126 Milliarden; die in der Mitte genannte Zahl ist eine ältere Schätzung
+[^1]: [Kommersielle Zeitung — PwC-Bericht: Geschätzter Wert der taiwanesischen Spiele- und E-Sportindustrie 2024 erreicht NT$126 Milliarden](https://www.ctee.com.tw/news/20240701700150-439901) — – Bericht vom 2024-07-01 über den PwC-Bericht: Der geschätzte Wert der taiwanesischen Spiele- und E-Sportindustrie für 2024 beträgt 3,886 Milliarden US-Dollar (ca. NT$126 Milliarden)
 
-[^2]: [Systex Corporation (Jingcheng) — Unternehmensprofil](https://tw.systex.com/en/company-profile/) — – Jingcheng wurde 1997 gegründet, wie auf der offiziellen Website bestätigt
+[^2]: [Systex Corporation Jingcheng Information – Unternehmensprofil](https://tw.systex.com/en/company-profile/) — – Bestätigt auf der offiziellen Website, dass Jingcheng Information 1997 gegründet wurde
 
-[^3]: [Industrial Research Institute of Taiwan (MIC) – „Taiwan IT Services Annual Report 2024“](https://mic.iii.org.tw/) — – Der Umsatz des taiwanesischen IT-Dienstleistungssektors betrug 2023 etwa NT$680 Milliarden
+[^3]: [Self-Reliance Evening News – Rekordumsatz im Computergeschäft: Umsatz von NT$570 Milliarden im letzten Jahr](https://tw.news.yahoo.com/%E5%89%B5%E6%96%B0%E9%AB%98-%E9%9B%BB%E8%85%A6%E6%A5%AD%E5%8E%BB%E5%B9%B4%E7%87%9F%E6%94%B65700%E5%84%84%E5%85%83-110327216.html) — – Bericht vom 2024-02-16 über die Statistik des Ministeriums für Ökonomie: Der gesamte Umsatz der Computer- und Informationsdienstleistungsindustrie im vierten Quartal 2023 betrug NT$570 Milliarden, ein Anstieg von 8,9 % gegenüber dem Vorjahr und ein neuer Höchststand
 
-[^4]: [Ministerium für Wirtschaft und Industrie (heute Industrial Development Bureau) „Strategie zur Entwicklung der Softwareindustrie“](https://www.moea.gov.tw/) — – Richtungen und Schwerpunkte der taiwanesischen Softwareindustriepolitik im Jahr 2024
+[^5]: [Executive Yuan – „Smart Nation Plan (2021–2025)“ genehmigte Fassung](https://digi.nstc.gov.tw/File/E8BE929F910C30CA) — – Die Executive Yuan startete den DIGI+-Plan (2017-2025) im Jahr 2016 und benannte ihn 2021 in Smart Nation Plan um, mit vier Hauptachsen: Digitale Infrastruktur, Digitale Innovation, Digitale Governance, Digitale Inklusion
 
-[^5]: [National Development Council – „Programm Digitale Nation – Innovationsökonomie (2021–2025)“](https://www.ey.gov.tw/Goals/5EF730EBAFCFFDF2) — – Die aktualisierte DIGI+-Strategie von 2021, die fünf Hauptachsen wie digitale Innovation und digitale Regierung umfasst
+[^8]: [Executive Yuan – Taiwan AI Action Plan: Chancen ergreifen und die Industrialisierung von KI vollständig starten](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/a8ec407c-6154-4c14-8f1e-d494ec2dbf23) — – Vierjähriger Plan, der am 18. Januar 2018 initiiert wurde (Jahrgang 107 bis Jahrgang 110); Staat und Privatsektor schulten über zehntausend Praktiker für KI-Technologie und -Anwendung; NTU, NCU, Tsinghua University (清大) und National Chiao Tung University (交大) haben jeweils ein AI Innovation Research Center eingerichtet
 
-[^6]: [Taiwan Software Industry Association – „White Paper zur taiwanesischen Softwareindustrie 2024“](https://www.tsia.org.tw/) — – Aktuelle Lage und Ausblick der gesamten taiwanesischen Softwareindustrie
-
-[^7]: [DIGITIMES Research „Bericht zur Entwicklung der ICT-Industrie in Taiwan 2024“](https://www.digitimes.com/) — – Analyse der Trends in der taiwanesischen Informationstechnologiebranche
-
-[^8]: [Executive Yuan „AI Taiwan Action Plan“ (Überarbeitete Version 2023)](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/a8ec407c-6154-4c14-8f1e-d494ec2dbf23) — – Ziele zur Talentförderung und Förderung von Industrieanwendungen für AI
-
-[^9]: [Industrial Research Institute of Taiwan – „Analyse der Trends in der taiwanesischen Softwareindustrie 2024“](https://ieknet.iek.org.tw/) — – Aktueller Stand und Wettbewerbsbewertung der taiwanesischen Softwarebranche
-
-[^10]: [PwC Taiwan – „Taiwan Corporate Leader Survey 2025“](https://www.pwc.tw/) — – Bereitschaft zur digitalen Transformation und Investitionstrends in taiwanischen Unternehmen
-
-[^11]: [Jahresbericht und IR-Materialien der Appier Group](https://www.appier.com/en/press-media) — – Jahresbericht der Tokyo Stock Exchange; Informationen über den Börsengang von Appier im Jahr 2021 an der TSE
-
-[^12]: [Rayark Games (Official Website)](https://rayark.com/zh/) — – Unternehmensgeschichte und Vorstellung der Werke, einschließlich der „Cytus“-Reihe
-
-[^13]: [Raylux Network (Official Website)](https://www.gamania.com/) — – Chronik der Entwicklung der taiwanesischen Spieleindustrie und Vorstellung von Werken
+[^11]: [Jahresbericht und IR-Material von Appier Group](https://www.appier.com/en/press-media) — – Informationen zur Börsennotierung von Appier an der Tokyo Stock Exchange im Jahr 2023
