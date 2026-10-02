@@ -27,7 +27,7 @@ image: '/article-images/technology/tainan-science-park-tsmc-fab18-fields-2025.we
 imageCredit: '4300streetcar / Wikimedia Commons'
 imageLicense: 'CC BY 4.0'
 translatedFrom: 'Technology/半導體用水與台灣水資源.md'
-sourceCommitSha: 'a8fade725'
+sourceCommitSha: '2d46f0882'
 sourceContentHash: 'sha256:e3dbfa5f81690467'
 translatedAt: '2026-07-12T00:02:05+08:00'
 ---
