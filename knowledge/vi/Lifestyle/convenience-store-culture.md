@@ -1,278 +1,265 @@
 ---
 title: 'Văn hóa cửa hàng tiện lợi Đài Loan'
-description: 'Vương quốc cửa hàng tiện lợi có mật độ thuộc hàng đầu thế giới, nơi những đổi mới bản địa hóa của 7-Eleven và FamilyMart tái định nghĩa lối sống hiện đại'
-date: '2026-03-19'
-author: 'Taiwan.md'
+description: 'Vương quốc các cửa hàng tiện lợi với mật độ dẫn đầu toàn cầu; sự đổi mới bản địa của 7-11 và FamilyMart định nghĩa lại lối sống hiện đại'
+date: 2026-03-19
 category: 'Lifestyle'
-subcategory: '城市生活'
 tags:
   [
-    'đời sống',
-    'cửa hàng tiện lợi',
+    'Đời sống',
+    'Cửa hàng tiện lợi',
     '7-11',
     'FamilyMart',
-    'thực phẩm tươi chế biến',
-    'văn hóa cửa hàng tiện lợi',
-    'đời sống hiện đại',
+    'Thực phẩm tươi sống',
+    'Văn hóa siêu thị',
+    'Đời sống hiện đại',
   ]
-readingTime: 7
-lastVerified: '2026-03-19'
-lastHumanReview: false
+subcategory: '城市生活'
+author: 'Taiwan.md'
 featured: true
+lastVerified: 2026-03-19
+lastHumanReview: false
+readingTime: 7
 translatedFrom: 'Lifestyle/台灣便利商店文化.md'
-sourceCommitSha: 'd520299ba'
-sourceContentHash: 'sha256:15b1d886569defdd'
-sourceBodyHash: 'sha256:5c3b9cff7c172cb0'
-translatedAt: '2026-07-18T18:59:51+08:00'
+sourceCommitSha: '42580d097'
+sourceContentHash: 'sha256:33d2f6cba1a3b0f2'
+sourceBodyHash: 'sha256:9a55ab468883045f'
+translatedAt: '2026-10-03T00:56:56+08:00'
 ---
 
 # Văn hóa cửa hàng tiện lợi Đài Loan
 
-Trên đường phố Đài Loan, trung bình cứ 2.000 người lại có một cửa hàng tiện lợi, đưa mật độ loại hình này vào nhóm cao nhất thế giới — khoảng thứ hai, chỉ sau Hàn Quốc[^2]. Từ cà phê và bánh mì kẹp buổi sáng đến mì ăn liền và bia lúc đêm khuya, từ thanh toán hóa đơn, nhận hàng đến photocopy và gửi bưu kiện, cửa hàng tiện lợi không còn đơn thuần là một “cửa hàng”, mà đã trở thành “trung tâm đời sống” không thể thiếu của người Đài Loan.
+Khi đi dạo trên đường phố Đài Loan, trung bình cứ 1.659 người lại có một cửa hàng tiện lợi[^5], mật độ này chỉ đứng sau Hàn Quốc trên toàn cầu[^2][^3]. Từ cà phê và bánh mì kẹp vào buổi sáng, đến mì gói và bia khuya, từ thanh toán hóa đơn nhận hàng đến in ấn gửi thư, cửa hàng tiện lợi không chỉ là một "cửa hàng" mà đã trở thành "trung tâm sinh hoạt" không thể thiếu trong cuộc sống của người dân Đài Loan.
 
-Những cửa hàng tiện lợi hoạt động 24 giờ thắp sáng mọi đêm trên khắp Đài Loan. Dù là nhân viên văn phòng vội bắt chuyến xe sớm, kỹ sư làm thêm đến khuya hay sinh viên đói bụng giữa đêm, cửa hàng tiện lợi luôn để ngỏ một cánh cửa sáng đèn. Đây không chỉ là thành công của một mô hình kinh doanh, mà còn phản ánh sự theo đuổi đến tận cùng tính “tiện lợi” của người Đài Loan và là bức chân dung tiêu biểu của đời sống đô thị hiện đại.
+Các cửa hàng tiện lợi mở cửa 24 giờ đã thắp sáng mọi đêm ở Đài Loan. Dù là nhân viên văn phòng vội đi làm, kỹ sư làm thêm đến khuya, hay sinh viên đói bụng giữa đêm, cửa hàng tiện lợi luôn mở một cánh cửa sáng sủa cho bạn. Đây không chỉ là thành công của mô hình kinh doanh, mà còn là sự theo đuổi tuyệt đối "sự tiện lợi" của người dân Đài Loan và là bức tranh hoàn hảo về cuộc sống đô thị hiện đại.
 
 ## Sự du nhập và bản địa hóa của cửa hàng tiện lợi
 
-### Từ mô hình du nhập của Nhật Bản đến đổi mới tại Đài Loan
+### Từ sản phẩm nhập khẩu Nhật Bản đến đổi mới tại Đài Loan
 
-Văn hóa cửa hàng tiện lợi Đài Loan bắt nguồn từ mô hình được du nhập từ Nhật Bản vào thập niên 1970:
+Các cửa hàng tiện lợi ở Đài Loan bắt đầu từ cuối những năm 1970, với hai thương hiệu lớn—một đến từ Mỹ và một đến từ Nhật Bản:
 
-**7-Eleven đặt chân vào Đài Loan:**
+**Sự đổ bộ của 7-Eleven:**
+Vào năm 1978, Tập đoàn Đồng nhất (Uni-President) đã thành lập "Siêu thị Đồng nhất" bằng vốn huy động; vào tháng 10 năm sau, họ ký hợp đồng với công ty mẹ tại Mỹ là Southern Company để du nhập công nghệ kinh doanh; và cửa hàng 7-ELEVEN đầu tiên mang tên "Trường An Môn Thị" (Chang'an Store) khai trương vào tháng 2 năm 1980. Ban đầu chưa hoạt động 24 giờ, phải đến năm 1983 mới mở cửa cả ngày[^1].
 
-Năm 1978, Tập đoàn Uni-President giành quyền kinh doanh 7-Eleven tại Đài Loan; ngày 9 tháng 2 năm 1980, cửa hàng đầu tiên khai trương trên đường Trường An Đông, thành phố Đài Bắc[^1]. Khi ấy, khái niệm “hoạt động 24 giờ” vẫn còn xa lạ với người tiêu dùng Đài Loan. Nhiều người tò mò đứng nhìn qua cửa kính cửa hàng “không bao giờ đóng cửa” này.
+**Thách thức ban đầu:**
 
-**Những thách thức ban đầu:**
-
-- Thói quen tiêu dùng ban đêm chưa hình thành
-- Lựa chọn hàng hóa còn tương đối hạn chế
-- Chi phí vận hành là một phép thử lớn
+- Thói quen tiêu dùng ban đêm chưa được hình thành.
+- Lựa chọn sản phẩm tương đối hạn chế.
+- Bị thua lỗ trong thời gian dài; bộ phận siêu thị từng bị Tập đoàn Đồng nhất mua lại vào năm 1982, và chỉ tự chủ trở lại vào năm 1987[^1].
 
 **Bước ngoặt:**
+Kinh tế Đài Loan bùng nổ trong những năm 1980, quá trình đô thị hóa phát triển nhanh chóng, số lượng các gia đình hai vợ chồng đều đi làm tăng lên, nhu cầu về sự tiện lợi được nâng cao đáng kể. Cửa hàng tiện lợi đã đáp ứng đúng nhu cầu sinh hoạt của người hiện đại bận rộn.
 
-Trong thập niên 1980, kinh tế Đài Loan cất cánh, đô thị hóa diễn ra nhanh chóng và số gia đình có cả vợ lẫn chồng cùng đi làm gia tăng, khiến nhu cầu về sự tiện lợi tăng mạnh. Cửa hàng tiện lợi đáp ứng đúng nhu cầu sinh hoạt của con người hiện đại bận rộn.
+### Sự theo sát của FamilyMart (全家)
 
-### FamilyMart nối bước
-
-Năm 1988, chuỗi cửa hàng tiện lợi FamilyMart gia nhập thị trường Đài Loan, tạo nên thế cạnh tranh song mã với 7-Eleven:
+Năm 1988, một doanh nghiệp Đài Loan hợp tác với FamilyMart của Nhật Bản để thành lập chuỗi cửa hàng tiện lợi FamilyMart (全家); và cửa hàng đầu tiên đã khai trương tại trước phố Thái Bắc Quán Tiền (Taipei Guanqian Road) vào cuối năm đó[^9], tạo ra cục diện hai ông lớn đối đầu:
 
 **Chiến lược khác biệt hóa:**
 
-- **7-Eleven**: nhấn mạnh sự tiện lợi và phạm vi dịch vụ rộng
-- **FamilyMart**: định vị là “người hàng xóm tốt của bạn”, xây dựng hình ảnh ấm áp, gần gũi
+- **7-Eleven**: Nhấn mạnh sự tiện lợi và dịch vụ rộng khắp.
+- **FamilyMart (全家)**: Xây dựng hình ảnh thân thiện, gần gũi với cộng đồng.
 
 **Cạnh tranh thúc đẩy đổi mới:**
+Sự cạnh tranh lành mạnh giữa hai thương hiệu đã thúc đẩy sự phát triển nhanh chóng của toàn ngành, từ chủng loại sản phẩm, hạng mục dịch vụ đến thiết kế cửa hàng đều có những bước nhảy vọt lớn.
 
-Sự cạnh tranh lành mạnh giữa hai thương hiệu lớn đã thúc đẩy toàn ngành phát triển nhanh chóng, với những bước tiến vượt bậc từ chủng loại hàng hóa, hạng mục dịch vụ đến thiết kế cửa hàng.
-
-## Mật độ cửa hàng tiện lợi hàng đầu thế giới
+## Mật độ cửa hàng tiện lợi chỉ đứng sau Hàn Quốc
 
 ### Những con số đáng kinh ngạc
 
-Tính đến năm 2026, mật độ cửa hàng tiện lợi tại Đài Loan đã đạt mức thuộc hàng cao nhất thế giới:
+Theo dữ liệu năm 2025 của Cục Thống kê Kinh tế[^5]:
 
 **Số liệu thống kê:**
 
-- **Tổng số cửa hàng**: hơn 13.000
-- **Mật độ theo dân số**: trung bình một cửa hàng trên 2.000 người
-- **Mật độ địa lý**: trung bình 3,3 cửa hàng trên mỗi kilômét vuông
+- **Tổng số cửa hàng**: 14.236 (tháng 8 năm 2025).
+- **Mật độ dân số**: Trung bình cứ 1.659 người có một cửa hàng (tháng 7 năm 2025).
+- **Mật độ địa lý**: Trung bình khoảng 0.4 cửa hàng trên mỗi km vuông, tức là 1 cửa hàng trên 2.57 km vuông.
 
 **So sánh quốc tế:**
+Hàn Quốc có mật độ cao nhất, cuối năm 2023 ước tính khoảng 1 cửa hàng cho 950 người[^2]; Đài Loan khoảng 1 cửa hàng cho 1.659 người, Nhật Bản khoảng 1 cửa hàng cho 2.180 người[^5]. Các cửa hàng tiện lợi ở Mỹ thực tế cũng không ít, năm 2025 có khoảng 152.255 cửa hàng, tức là 1 cửa hàng cho 2.233 người, tương đương với Nhật Bản[^6].
 
-Theo số liệu năm 2022, Hàn Quốc có mật độ cao nhất, với khoảng một cửa hàng trên 900 người; Đài Loan đứng kế tiếp với một cửa hàng trên 2.000 người; Nhật Bản là một cửa hàng trên 2.200 người. Hồng Kông tuy có một cửa hàng trên 1.000 người nhưng diện tích nhỏ hơn, còn Hoa Kỳ là một cửa hàng trên 8.000 người. Những con số này cho thấy nhu cầu đối với cửa hàng tiện lợi tại thị trường Đông Á cao hơn đáng kể so với châu Âu và Hoa Kỳ.
-
-**Đặc trưng Đài Loan:**
-
-Đài Loan không chỉ có mật độ cửa hàng cao mà thời gian hoạt động cũng dài hơn — phần lớn mở cửa 24 giờ — cùng danh mục dịch vụ đa dạng hơn.
+**Đặc điểm của Đài Loan:**
+Đài Loan không chỉ có mật độ cao mà thời gian hoạt động còn dài hơn (đa số là 24 giờ), và các hạng mục dịch vụ cũng đa dạng hơn.
 
 ### Đặc điểm phân bố mật độ
 
-**Tập trung tại đô thị:**
+**Tập trung ở đô thị:**
 
-- **Thành phố Đài Bắc**: mật độ cao nhất, khoảng một cửa hàng trên 1.000 người
-- **Thành phố Tân Bắc**: bám sát phía sau
-- **Thành phố Cao Hùng**: trung tâm lớn của miền nam
+- **Thành phố Đài Bắc**: Mật độ cao nhất, khoảng 6.27 cửa hàng trên mỗi km vuông vào năm 2019[^3].
+- **Thành phố Tân Bắc (New Taipei)**: Bám sát phía sau.
+- **Thành phố Cao Hùng**: Trung tâm lớn ở phía Nam.
 
-**Phổ cập tới các thị trấn và làng xã:**
+**Phổ biến ở nông thôn:**
+Ngay cả ở các thị trấn có dân số ít, cửa hàng tiện lợi vẫn đóng vai trò là dịch vụ cộng đồng quan trọng, đôi khi là cửa hàng 24 giờ duy nhất của địa phương.
 
-Ngay cả tại những thị trấn, làng xã ít dân, cửa hàng tiện lợi vẫn giữ vai trò quan trọng trong việc cung cấp dịch vụ cộng đồng; đôi khi đây là cửa hàng duy nhất tại địa phương hoạt động 24 giờ.
+**Bố trí theo điểm giao thông:**
 
-**Bố trí tại các đầu mối giao thông:**
+- Xung quanh các ga tàu điện ngầm (MRT).
+- Bên cạnh các trạm xe buýt.
+- Gần trường học và bệnh viện.
+- Tầng trệt của các tòa nhà văn phòng.
 
-- Quanh các ga tàu điện đô thị
-- Bên cạnh trạm xe buýt
-- Gần trường học và bệnh viện
-- Tầng trệt các tòa nhà văn phòng
+## Cạnh tranh và đổi mới giữa 7-11 và FamilyMart
 
-## Cạnh tranh và đổi mới giữa 7-Eleven và FamilyMart
-
-### Khác biệt trong định vị thương hiệu
+### Sự khác biệt trong định vị thương hiệu
 
 **7-Eleven:**
+7-ELEVEN đã sử dụng các khẩu hiệu quảng cáo như "Hàng xóm tốt bụng vì sự tiện lợi của bạn", "Có 7-Eleven thật tuyệt", "Luôn mở cửa"[^4]; trạm dịch vụ đa phương tiện ibon là điểm khác biệt cốt lõi, còn City Café và Sileo Ice nhắm đến dân văn phòng và sinh viên thành thị.
 
-7-Eleven lấy khẩu hiệu “7-ELEVEn always here for you” làm triết lý thương hiệu. Hệ sinh thái dịch vụ Big7 và trạm dịch vụ đa phương tiện ibon là những điểm khác biệt cốt lõi, trong khi cà phê City Café và đồ uống đá xay Slurpee hướng đến nhân viên văn phòng đô thị và sinh viên.
+**FamilyMart (全家):**
+FamilyMart xây dựng hình ảnh thân thiện với khẩu hiệu "FamilyMart chính là nhà của bạn"; FamiPort và Let's Café là các dịch vụ cốt lõi, kem và khoai lang nướng thu hút người tiêu dùng gia đình và cư dân địa phương.
 
-**FamilyMart:**
+### Cuộc đua dịch vụ đổi mới
 
-FamilyMart xây dựng hình ảnh gần gũi với khẩu hiệu “FamilyMart chính là nhà bạn”. FamiPort và Let's Café là hạt nhân dịch vụ, còn kem tươi và khoai lang nướng thu hút các gia đình và cư dân trong cộng đồng.
+**Dịch vụ kỹ thuật số:**
 
-### Cuộc đua đổi mới dịch vụ
-
-**Dịch vụ số:**
-
-- **Thanh toán di động**: EasyCard, iPASS, Apple Pay
-- **Tích hợp ứng dụng**: tích điểm, gửi thông báo ưu đãi, dịch vụ đặt trước
-- **Thử nghiệm cửa hàng không nhân viên**: X-Store và cửa hàng ý tưởng công nghệ
+- **Thanh toán di động**: Thẻ EasyCard (悠遊卡), OneCard (一卡通), Apple Pay.
+- **Tích hợp ứng dụng**: Tích lũy điểm, đẩy khuyến mãi, dịch vụ đặt hàng trước.
+- **Thử nghiệm cửa hàng không người**: X-Store, các cửa hàng mang tính công nghệ cao.
 
 **Dịch vụ logistics:**
 
-- **Gửi hàng từ cửa hàng đến cửa hàng**: cửa hàng tiện lợi trở thành điểm trung chuyển logistics
-- **Vận chuyển chuỗi lạnh**: giao tận nhà các mặt hàng tươi sống
-- **Chặng cuối**: giải quyết bài toán giao hàng của thương mại điện tử
+- **Từ cửa hàng đến cửa hàng**: Cửa hàng tiện lợi trở thành trạm trung chuyển logistics.
+- **Vận chuyển chuỗi lạnh**: Giao hàng thực phẩm tươi sống.
+- **Chặng cuối (Last Mile)**: Giải quyết vấn đề giao hàng thương mại điện tử.
 
 **Dịch vụ tài chính:**
 
-- **Thu hộ và chi hộ**: tiền điện, tiền nước, cước điện thoại, phí bảo hiểm
-- **Dịch vụ ATM**: rút tiền và chuyển khoản 24 giờ
-- **Bán vé**: vé hòa nhạc và vé giao thông
+- **Thu hộ và thanh toán hộ**: Tiền điện, nước, tiền điện thoại, phí bảo hiểm.
+- **Dịch vụ ATM**: Rút tiền và chuyển khoản 24 giờ.
+- **Bán vé**: Vé hòa nhạc, vé giao thông.
 
-## Cuộc cách mạng thực phẩm tươi chế biến và nâng cao chất lượng
+## Cuộc cách mạng thực phẩm tươi sống và nâng cao chất lượng
 
 ### Từ đồ ăn vặt đến bữa chính
 
-Đổi mới lớn nhất của các cửa hàng tiện lợi Đài Loan là nâng chất lượng thực phẩm tươi chế biến lên mức có thể thay thế một bữa ăn chính:
+Đổi mới lớn nhất của các cửa hàng tiện lợi Đài Loan là việc nâng tầm thực phẩm tươi sống lên mức có thể thay thế bữa ăn chính:
 
-**Văn hóa oden:**
+**Văn hóa Oden (關東煮):**
+Năm 1997, khi số lượng cửa hàng 7-ELEVEN vượt qua mốc 1.500, họ bắt đầu bán Onigiri (御飯糰) và Oden[^7]. Sau này, Oden trở thành món ăn dân dã sưởi ấm mùa đông với mức giá phải chăng.
 
-Năm 1988, 7-Eleven đưa món oden — món hầm kiểu Nhật — vào Đài Loan và bản địa hóa hương vị bằng những nguyên liệu quen thuộc với người Đài Loan như củ cải trắng, váng đậu và thịt viên. Món ăn này trở thành lựa chọn bình dân giúp làm ấm bụng vào mùa đông, vừa có giá phải chăng vừa cân bằng dinh dưỡng.
+**Cuộc cách mạng cơm hộp (便當):**
+Cơm hộp của cửa hàng tiện lợi đã phát triển từ mô hình Nhật Bản sang hương vị Đài Loan; bếp trung tâm sản xuất đồng bộ, kết hợp vận chuyển chuỗi lạnh để đảm bảo độ tươi ngon, và việc hâm nóng bằng lò vi sóng cho phép người bận rộn có thể thưởng thức bữa ăn nóng bất cứ lúc nào.
 
-**Cuộc cách mạng cơm hộp:**
-
-Cơm hộp tại cửa hàng tiện lợi phát triển từ mô hình Nhật Bản sang khẩu vị Đài Loan. Các bếp trung tâm đảm nhiệm sản xuất đồng bộ, kết hợp vận chuyển chuỗi lạnh để bảo đảm độ tươi; việc hâm nóng bằng lò vi sóng giúp nhân viên văn phòng bận rộn có thể mua một bữa nóng bất cứ lúc nào.
-
-**Bánh mì và món tráng miệng:**
-
-Chiến lược cung cấp bánh mì nướng tại chỗ và sản phẩm giới hạn theo mùa thu hút lượng lớn khách hàng quay lại. Các món tráng miệng hợp tác với những thương hiệu nổi tiếng còn thúc đẩy sự hình thành văn hóa thưởng trà chiều tại cửa hàng tiện lợi.
+**Bánh mì và đồ ngọt:**
+Chiến lược bánh mì nướng hiện tại và các sản phẩm giới hạn theo mùa đã thu hút lượng lớn khách hàng quay lại; các món tráng miệng hợp tác với thương hiệu nổi tiếng càng thúc đẩy sự ra đời của văn hóa trà chiều siêu thị.
 
 ### Hệ thống kiểm soát chất lượng
 
-Bếp trung tâm thống nhất thu mua nguyên liệu và áp dụng quy trình sản xuất tiêu chuẩn hóa để bảo đảm chất lượng đồng đều tại mọi cửa hàng. Hệ thống logistics chuỗi lạnh sử dụng đội xe kiểm soát nhiệt độ để giao hàng theo lịch, kết hợp quản lý nghiêm ngặt vòng quay tồn kho và cơ chế xử lý sản phẩm cận hạn. Công tác bảo đảm an toàn thực phẩm bao gồm kiểm tra nhà cung cấp, hệ thống truy xuất nguồn gốc hàng hóa, lấy mẫu kiểm nghiệm định kỳ và xử lý khiếu nại của người tiêu dùng, qua đó hình thành một hệ thống kiểm soát an toàn thực phẩm hoàn chỉnh.
+Bếp trung tâm mua nguyên liệu tập trung, sử dụng quy trình sản xuất tiêu chuẩn để đảm bảo tính nhất quán về chất lượng tại mỗi cửa hàng. Logistics chuỗi lạnh được thực hiện bởi đội xe có kiểm soát nhiệt độ theo lịch trình, kết hợp với cơ chế quản lý vòng quay tồn kho nghiêm ngặt và xử lý hàng hóa đúng hạn. Việc giám sát an toàn thực phẩm bao gồm kiểm toán nhà cung cấp, hệ thống truy xuất nguồn gốc sản phẩm, kiểm tra định kỳ và xử lý khiếu nại của người tiêu dùng, tạo thành một hệ thống kiểm soát an toàn thực phẩm hoàn chỉnh.
 
-## Nền tảng tích hợp dịch vụ đời sống
+## Nền tảng tích hợp dịch vụ sinh hoạt
 
 ### Trung tâm thanh toán hóa đơn
 
-Cửa hàng tiện lợi đã thay đổi hoàn toàn thói quen thanh toán hóa đơn của người Đài Loan:
+Cửa hàng tiện lợi đã thay đổi triệt để thói quen thanh toán của người dân Đài Loan:
 
-**Các khoản thu hộ:**
+**Các hạng mục thu hộ:**
+Phạm vi bao gồm các dịch vụ công ích (điện, nước, gas), phí truyền thông (tiền điện thoại di động, internet, truyền hình cáp), các loại bảo hiểm khác nhau, và thuế như thuế đất, thuế nhà.
 
-Phạm vi thu hộ bao gồm dịch vụ công ích như tiền điện, tiền nước và tiền khí đốt; chi phí viễn thông như cước điện thoại di động, internet và truyền hình cáp; các loại phí bảo hiểm; cùng những khoản thuế như thuế đất và thuế nhà.
+**Ưu điểm về sự tiện lợi:**
+Lợi thế của việc thanh toán tại siêu thị là không bị giới hạn bởi giờ làm việc ngân hàng 24 giờ; địa điểm dày đặc giúp dễ dàng thanh toán mọi lúc, giao diện vận hành phù hợp với mọi lứa tuổi, và có thể in hóa đơn ngay lập tức.
 
-**Lợi thế về sự tiện lợi:**
+### Trạm nhận/gửi hàng logistics
 
-Ưu thế của việc thanh toán tại cửa hàng tiện lợi nằm ở khả năng phục vụ 24 giờ, không bị giới hạn bởi giờ làm việc của ngân hàng; mạng lưới dày đặc cho phép thanh toán ở khắp nơi; giao diện thao tác phù hợp với mọi lứa tuổi; đồng thời có thể in biên lai ngay lập tức.
+**Hỗ trợ thương mại điện tử:**
+Các nền tảng thương mại điện tử chính đều tích hợp sâu với siêu thị: PChome 24h cung cấp dịch vụ từ cửa hàng đến cửa hàng; momo Shopping Network và Shopee hỗ trợ thanh toán khi nhận hàng tại siêu thị; mua hộ Taobao cũng thông qua siêu thị để xử lý chặng cuối của giao hàng xuyên biên giới.
 
-### Điểm nhận hàng logistics
+**Ưu điểm logistics:**
+Việc nhận hàng tại siêu thị đã giải quyết được vấn đề bất tiện khi nhận hàng, thời gian nhận hàng linh hoạt, giảm chi phí logistics và tăng tỷ lệ thành công trong giao hàng, mang lại lợi ích cho cả nền tảng thương mại điện tử và người tiêu dùng.
 
-**Hợp tác với thương mại điện tử:**
+### Dịch vụ sinh hoạt kỹ thuật số
 
-Các nền tảng thương mại điện tử lớn đều tích hợp sâu với cửa hàng tiện lợi: PChome 24h cung cấp dịch vụ gửi hàng từ cửa hàng đến cửa hàng; momo và Shopee hỗ trợ nhận hàng, thanh toán tại cửa hàng; dịch vụ mua hộ Taobao cũng sử dụng cửa hàng tiện lợi để xử lý chặng giao cuối của thương mại điện tử xuyên biên giới.
+Bán vé bao gồm vé hòa nhạc, vé xem phim, vé giao thông cao tốc (High Speed Rail) và đường sắt Đài Loan, phí đỗ xe và thanh toán phạt, gần như trở thành kênh bán vé tiện lợi nhất ở Đài Loan. Dịch vụ in ấn tài liệu cung cấp dịch vụ photocopy đen trắng/màu, quét tài liệu, fax và chụp ảnh thẻ. Về dịch vụ tài chính, việc rút tiền và chuyển khoản ATM, thanh toán phí thẻ tín dụng và thu hộ phí bảo hiểm đã giúp siêu thị có chức năng như một ngân hàng mini.
 
-**Lợi thế logistics:**
+## Văn hóa sinh hoạt 24 giờ
 
-Nhận hàng tại cửa hàng tiện lợi giải quyết khó khăn khi người nhận không tiện ở nhà, mang lại thời gian nhận hàng linh hoạt, giảm chi phí logistics và nâng tỷ lệ giao hàng thành công, qua đó có lợi cho cả nền tảng thương mại điện tử lẫn người tiêu dùng.
+### Cứu cánh cho người thức khuya (Night Owls)
 
-### Dịch vụ đời sống số
+Việc mở cửa 24 giờ của các cửa hàng tiện lợi Đài Loan đã tạo ra một nền văn hóa ban đêm độc đáo:
 
-Hoạt động bán vé bao phủ từ hòa nhạc, phim ảnh, vé đường sắt cao tốc và đường sắt Đài Loan đến vé công viên giải trí; cùng với thanh toán phí đỗ xe và tiền phạt, cửa hàng tiện lợi gần như đã trở thành kênh bán vé thuận tiện nhất tại Đài Loan. Dịch vụ sao chụp và văn phòng cung cấp photocopy đen trắng hoặc màu, quét và fax tài liệu, chụp ảnh thẻ; thủ tục hộ chiếu và thị thực cũng được đưa vào phạm vi phục vụ. Về tài chính, các dịch vụ rút tiền và chuyển khoản qua ATM, thanh toán dư nợ thẻ tín dụng, bán sản phẩm bảo hiểm và đổi ngoại tệ giúp cửa hàng tiện lợi đồng thời đảm nhiệm chức năng của một ngân hàng thu nhỏ.
+**Khách hàng buổi đêm:**
+Khách đến vào đêm chủ yếu là những người làm ca đêm (y tá, bảo vệ, tài xế taxi), kỹ sư làm thêm và nhân viên truyền thông, sinh viên ôn thi, cùng với những người thức khuya không ngủ được, tạo nên một hệ sinh thái khách hàng độc đáo trong khoảng thời gian đêm của siêu thị.
 
-## Văn hóa đời sống 24 giờ
-
-### Nơi trú chân của những người thức khuya
-
-Việc hoạt động 24 giờ của các cửa hàng tiện lợi Đài Loan đã tạo nên một nền văn hóa ban đêm đặc trưng:
-
-**Nhóm khách hàng lúc đêm khuya:**
-
-Khách đến vào đêm khuya chủ yếu gồm người làm ca đêm như y tá, nhân viên bảo vệ và tài xế taxi; kỹ sư và nhân viên truyền thông làm thêm giờ; học sinh, sinh viên ôn thi; cùng những người mất ngủ đi dạo ban đêm. Họ tạo nên hệ sinh thái khách hàng riêng biệt của cửa hàng tiện lợi trong khung giờ khuya.
-
-**Hàng hóa ban đêm:**
-
-Mì ăn liền và thực phẩm hâm nóng bằng lò vi sóng là những mặt hàng chủ lực vào đêm khuya; cà phê và nước tăng lực giúp duy trì sự tỉnh táo; đồ ăn vặt và bia là lựa chọn phổ biến khi ở một mình trong đêm. Nhu cầu mua khẩn cấp các đồ dùng thiết yếu cũng là lý do quan trọng khiến khách tìm đến vào giờ muộn.
+**Sản phẩm buổi đêm:**
+Các sản phẩm ban đêm chủ yếu là mì gói, thực phẩm vi sóng để bổ sung năng lượng; đồ ăn vặt và bia là lựa chọn phổ biến khi ở một mình vào ban đêm; mua sắm khẩn cấp các vật dụng sinh hoạt cũng là nhu cầu quan trọng của khách đến khuya.
 
 ### Hiệu ứng ngọn hải đăng đô thị
 
-**Mang lại cảm giác an toàn:**
+**Cung cấp cảm giác an toàn:**
+Ánh đèn sáng của cửa hàng tiện lợi giống như ngọn hải đăng trong màn đêm, mang lại cảm giác an toàn và ấm áp cho những người đi đêm.
 
-Ánh sáng rực rỡ của cửa hàng tiện lợi giữa đêm tối tựa như ngọn hải đăng, mang lại cảm giác an toàn và ấm áp cho người đi đường ban đêm.
+**Không gian xã hội:**
 
-**Không gian giao tiếp xã hội:**
+- Khu vực chỗ ngồi trong cửa hàng trở thành không gian nghỉ ngơi tạm thời.
+- Nơi tụ tập ban đêm của giới trẻ.
+- Bến đỗ tạm thời để chờ xe hoặc đợi ai đó.
+- Sự thay thế xã hội cho người sống một mình.
 
-- Khu vực chỗ ngồi trong cửa hàng trở thành nơi nghỉ chân tạm thời
-- Điểm tụ tập ban đêm của giới trẻ
-- Nơi trú chân trong lúc chờ xe hoặc chờ người
-- Không gian giao tiếp thay thế cho người sống một mình
+**Điều chỉnh nhịp điệu đô thị:**
+Trong cuộc sống đô thị với nhịp độ nhanh, cửa hàng tiện lợi cung cấp một không gian tạm dừng, cho phép mọi người nghỉ ngơi một chút trong thời gian mua sắm ngắn ngủi.
 
-**Điều hòa nhịp sống đô thị:**
+## Ảnh hưởng văn hóa xã hội
 
-Giữa nhịp sống đô thị hối hả, cửa hàng tiện lợi cung cấp một không gian tạm dừng, nơi mọi người có thể nghỉ ngơi đôi chút trong khoảng thời gian mua sắm ngắn ngủi.
+### Thay đổi mô hình sinh hoạt
 
-## Ảnh hưởng xã hội và văn hóa
+Thói quen mua sắm đã chuyển từ mua số lượng lớn sang mua nhiều lần với số lượng ít; nhu cầu tức thời được đáp ứng ngay lập tức, lòng trung thành thương hiệu nhường chỗ cho sự tiện lợi. Về chế độ ăn uống, thói quen ăn một mình tăng lên, mức độ chấp nhận thực phẩm vi sóng cao hơn, và giờ ăn trở nên linh hoạt hơn. Ở khía cạnh xã hội, cửa hàng tiện lợi đã trở thành nơi hẹn hò thoải mái; các thương hiệu cà phê như City Café đã giúp văn hóa cà phê nảy mầm tại siêu thị, và sự tương tác nhỏ trong cộng đồng giữa nhân viên và khách quen cũng được hình thành.
 
-### Thay đổi lối sống
+### Hiệu ứng kinh tế xã hội
 
-Thói quen mua sắm chuyển từ mua số lượng lớn sang mua ít nhưng nhiều lần; nhu cầu tức thời được đáp ứng ngay lập tức và lòng trung thành với thương hiệu nhường chỗ cho sự tiện lợi. Trong ăn uống, thói quen dùng bữa một mình gia tăng, thực phẩm hâm nóng bằng lò vi sóng được chấp nhận rộng rãi hơn và thời gian dùng bữa chính trở nên linh hoạt. Về giao tiếp xã hội, cửa hàng tiện lợi trở thành địa điểm nhẹ nhàng cho các cuộc hẹn và gặp gỡ; những thương hiệu cà phê như City Café giúp văn hóa cà phê nảy nở trong cửa hàng tiện lợi; giữa nhân viên và khách quen cũng hình thành những tương tác cộng đồng vi mô đặc trưng.
+Cửa hàng tiện lợi cung cấp nhiều cơ hội việc làm linh hoạt, và cũng là con đường để người trung niên tái việc làm. Về dịch vụ cộng đồng, các siêu thị ở vùng nông thôn thường là trung tâm hỗ trợ sinh hoạt 24 giờ duy nhất của địa phương; chúng cũng đóng vai trò quan trọng trong việc sơ tán khi có thiên tai như bão, với dịch vụ thân thiện với người cao tuổi. Ở cấp độ phát triển đô thị, mật độ cửa hàng tiện lợi đã trở thành một trong những chỉ số cho thấy tính đầy đủ của chức năng cộng đồng và mang lại sức sống ban đêm cho đô thị.
 
-### Tác động kinh tế và xã hội
+### Biểu tượng nhận diện văn hóa
 
-Các cửa hàng tiện lợi Đài Loan trực tiếp tạo việc làm cho hơn 150.000 người, cung cấp cơ hội làm việc với giờ giấc linh hoạt và trở thành một kênh tái gia nhập thị trường lao động cho người trung niên, cao tuổi. Về phục vụ cộng đồng, cửa hàng tiện lợi tại vùng nông thôn hẻo lánh thường là trung tâm hỗ trợ đời sống 24 giờ duy nhất ở địa phương, đồng thời giữ vai trò quan trọng trong các dịch vụ thân thiện với người cao tuổi và làm nơi trú ẩn khi xảy ra thiên tai như bão. Xét trên phương diện phát triển đô thị, mật độ cửa hàng tiện lợi đã trở thành một trong những chỉ dấu đánh giá mức độ hoàn chỉnh của chức năng cộng đồng, đồng thời mang lại sức sống về đêm cho thành phố.
-
-### Biểu tượng bản sắc văn hóa
-
-**Đặc trưng Đài Loan:**
-
-Mật độ và chất lượng dịch vụ của cửa hàng tiện lợi đã trở thành một nét văn hóa bản địa đặc trưng của Đài Loan, cũng là trải nghiệm đời sống mà du khách nước ngoài thường tìm kiếm khi đến đây.
+**Đặc điểm Đài Loan:**
+Mật độ và chất lượng dịch vụ của các cửa hàng tiện lợi đã trở thành nét văn hóa bản địa độc đáo của Đài Loan, là trải nghiệm sinh hoạt mà du khách nước ngoài nhất định phải trải qua khi đến đây.
 
 **Ảnh hưởng quốc tế:**
+Mô hình cửa hàng tiện lợi Đài Loan đã được nhiều quốc gia học hỏi và tham khảo, trở thành một trường hợp thành công trong việc xuất khẩu sức mạnh mềm.
 
-Mô hình cửa hàng tiện lợi Đài Loan được nhiều quốc gia học hỏi và tham khảo, trở thành một trường hợp thành công trong việc phổ biến sức mạnh mềm.
-
-## Chuyển đổi số và phát triển trong tương lai
+## Chuyển đổi số và xu hướng phát triển tương lai
 
 ### Đổi mới ứng dụng công nghệ
 
-Trong lĩnh vực cửa hàng không nhân viên, cửa hàng ý tưởng 7-Eleven X-Store đã đưa vào công nghệ RFID và nhận diện khuôn mặt; hệ thống tự thanh toán nhanh chóng trở nên phổ biến; tính năng đề xuất sản phẩm bằng trí tuệ nhân tạo cũng bắt đầu được triển khai. Ở khâu logistics, xe giao hàng không người lái và hệ thống robot quản lý kho đang được thử nghiệm, trong khi dữ liệu lớn đã được sử dụng tại một số cửa hàng để tối ưu hóa tuyến giao hàng và dự báo nhu cầu bổ sung hàng hóa. Về tích hợp di động, dịch vụ một cửa trên ứng dụng, sự phổ biến của thanh toán di động và đề xuất cá nhân hóa giúp trải nghiệm cửa hàng số kết hợp sâu với dịch vụ tại điểm bán thực tế.
+Về cửa hàng không người, X-STORE mà 7-ELEVEN bắt đầu thử nghiệm từ năm 2018 kết hợp nhận dạng khuôn mặt, nhãn điện tử và thanh toán tự động[^8]; hệ thống thanh toán tự động nhanh chóng phổ biến, và đề xuất sản phẩm bằng AI cũng đã được triển khai. Về phía logistics, xe giao hàng không người và quản lý kho robot đang trong quá trình thử nghiệm; việc tối ưu hóa tuyến đường và bổ sung dự đoán dựa trên dữ liệu lớn đã được áp dụng tại một số cửa hàng. Về tích hợp di động, dịch vụ trọn gói của ứng dụng, thanh toán di động phổ biến và đề xuất cá nhân hóa giúp trải nghiệm cửa hàng kỹ thuật số hòa quyện sâu sắc với dịch vụ vật lý.
 
-### Thách thức của phát triển bền vững
+### Thách thức phát triển bền vững
 
-Về môi trường, các nhiệm vụ chính gồm giảm sử dụng túi nhựa, xử lý lãng phí thực phẩm, nâng cao hiệu quả năng lượng và chuyển sang vật liệu bao bì thân thiện với môi trường. Trong vấn đề lao động, áp lực tuân thủ quy định về giờ làm việc và cải thiện tiền lương, phúc lợi gia tăng khi thị trường lao động thắt chặt; hoạt động đào tạo và phát triển nhân viên cũng được chú trọng. Trên phương diện trách nhiệm xã hội, thiết kế thân thiện với người cao tuổi, xây dựng môi trường không rào cản và tham gia các hoạt động công ích cộng đồng đều là những hạng mục doanh nghiệp không thể xem nhẹ trong cuộc cạnh tranh hình ảnh thương hiệu.
+Về môi trường, giảm túi nhựa, xử lý lãng phí thực phẩm, nâng cao hiệu quả năng lượng và thân thiện với bao bì là những nhiệm vụ chính. Về vấn đề lao động, áp lực tuân thủ quy định về giờ làm việc và cải thiện phúc lợi lương bổng đến từ sự thu hẹp của thị trường lao động; việc đào tạo và phát triển nhân viên cũng được chú trọng. Ở cấp độ trách nhiệm xã hội, thiết kế thân thiện với người cao tuổi, xây dựng môi trường không rào cản và tham gia các hoạt động công ích cộng đồng là những hạng mục mà các nhà kinh doanh không thể bỏ qua trong cuộc cạnh tranh về hình ảnh thương hiệu.
 
 ### Xu hướng phát triển tương lai
 
-Hướng phát triển chuyên sâu của dịch vụ bao gồm tích hợp quản lý sức khỏe, mở rộng các sản phẩm tài chính và bảo hiểm, cũng như chuyển đổi cửa hàng tiện lợi thành địa điểm tổ chức hoạt động văn hóa cộng đồng. Việc tích hợp kênh phân phối nhấn mạnh sự kết hợp giữa không gian thực và môi trường số; nền tảng dịch vụ một cửa dựa trên khái niệm hệ sinh thái sinh hoạt địa phương là mục tiêu tiếp theo. Về mở rộng quốc tế, mô hình dịch vụ cửa hàng tiện lợi của Đài Loan đã được nhiều thị trường châu Á tham khảo; hệ thống công nghệ và tri thức quản lý thương hiệu cũng là những lĩnh vực có tiềm năng xuất khẩu.
+Các hướng đi sâu hơn về dịch vụ bao gồm tích hợp quản lý sức khỏe, mở rộng sản phẩm tài chính và bảo hiểm, cũng như chuyển đổi siêu thị thành địa điểm tổ chức các hoạt động văn hóa cộng đồng. Việc tích hợp kênh bán hàng nhấn mạnh sự kết hợp giữa vật lý và ảo; nền tảng dịch vụ một cửa trong khái niệm vòng đời sinh hoạt là mục tiêu tiếp theo. Về mở rộng quốc tế, mô hình dịch vụ của Đài Loan đã được nhiều thị trường châu Á tham khảo, và kiến thức về hệ thống công nghệ cùng quản lý thương hiệu cũng là các hạng mục xuất khẩu tiềm năng.
 
 ## Ý nghĩa văn hóa của cửa hàng tiện lợi
 
-Thành công của văn hóa cửa hàng tiện lợi Đài Loan phản ánh sự theo đuổi đến tận cùng tính “tiện lợi” của xã hội này, cũng như khả năng thích ứng với đời sống hiện đại. Loại hình này không chỉ đáp ứng nhu cầu thực tế của cư dân đô thị mà còn tạo nên một mỹ học đời sống riêng biệt.
+Sự thành công của văn hóa cửa hàng tiện lợi Đài Loan phản ánh sự theo đuổi tuyệt đối "sự tiện lợi" của xã hội này và khả năng thích ứng với cuộc sống hiện đại. Nó không chỉ đáp ứng nhu cầu thực tế của người dân đô thị mà còn tạo ra một thẩm mỹ sinh hoạt độc đáo.
 
-Từ tách cà phê đầu tiên vào buổi sáng đến bát mì ăn liền cuối cùng lúc đêm khuya, cửa hàng tiện lợi chứng kiến hành trình sinh hoạt trong một ngày của người Đài Loan. Đây là hình ảnh thu nhỏ của xã hội Đài Loan hiện đại, thể hiện nét văn hóa nơi hiệu quả và tình người cùng tồn tại.
+Từ ly cà phê đầu tiên buổi sáng đến bát mì gói cuối cùng ban đêm, cửa hàng tiện lợi đã chứng kiến quỹ đạo cuộc sống của người dân Đài Loan. Nó là hình ảnh thu nhỏ của xã hội Đài Loan hiện đại, thể hiện đặc tính văn hóa dung hòa giữa hiệu quả và sự nhân ái.
 
-Trong làn sóng toàn cầu hóa, văn hóa cửa hàng tiện lợi Đài Loan đã trở thành một trường hợp bản địa hóa thành công. Điều này chứng minh rằng văn hóa ngoại lai có thể bén rễ và phát triển trên vùng đất mới thông qua đổi mới và thích nghi, thậm chí còn tác động ngược trở lại thế giới. Tính đến năm 2026, Đài Loan vẫn là một trong những nơi có mật độ cửa hàng tiện lợi cao nhất toàn cầu; đằng sau con số ấy là kỳ vọng của cả một thế hệ về cuộc sống “tiện lợi mọi lúc”.
+Trong làn sóng toàn cầu hóa, văn hóa cửa hàng tiện lợi Đài Loan đã trở thành một trường hợp bản địa hóa thành công. Nó chứng minh rằng văn hóa ngoại lai có thể bén rễ và phát triển trên mảnh đất mới thông qua đổi mới và thích ứng, thậm chí còn ảnh hưởng ngược lại thế giới. Tính đến năm 2026, Đài Loan vẫn là một trong những khu vực có mật độ cửa hàng tiện lợi cao nhất toàn cầu; đằng sau con số này là kỳ vọng về cuộc sống "luôn sẵn sàng" của cả một thế hệ.
 
 **Đọc thêm**:
 
-- [Cảm thức Đài Loan: Phải chăng chúng ta cần người Hàn Quốc nhấn thích trước rồi mới dám nói những ngôi nhà cũ của mình rất đẹp?](/vi/culture/taiwanese-sensibility) — Những cửa hàng tiện lợi sáng đèn lúc đêm khuya cũng là một trong những cảnh tượng thường nhật mà người Đài Loan đã quá quen thuộc nên hiếm khi quan sát kỹ
-- [Hóa đơn: Tờ giấy năm 1951 đã biến toàn dân thành thanh tra thuế](/economy/發票) — Cửa hàng tiện lợi là nơi phương tiện lưu trữ hóa đơn điện tử được sử dụng thường xuyên nhất; mỗi lần thanh toán cũng là chặng cuối của hoạt động huy động người dân tham gia quản lý thuế hằng ngày
-- [Doanh nghiệp Đài Loan: Tập đoàn Uni-President](/economy/台灣企業：統一企業) — Tập đoàn Uni-President đứng sau 7-ELEVEN đã phát triển từ một gói mì Uni-President thành đế chế bán lẻ bao trọn một ngày trong đời sống người Đài Loan
+- [Cảm xúc Đài Loan: Chúng ta có cần người Hàn Quốc nhấn thích trước khi dám nói ngôi nhà cũ của mình đẹp không?](/vi/culture/taiwanese-sensibility) — Cửa hàng tiện lợi sáng đèn ban đêm cũng là một cảnh tượng thường thấy, nhưng ít được chú ý kỹ lưỡng trong cuộc sống của người dân Đài Loan.
+- [Hóa đơn: Tờ giấy năm 1951 biến toàn dân thành nhân viên kiểm tra thuế](/vi/economy/taiwan-uniform-invoice) — Trường hợp sử dụng phổ biến nhất của phương tiện hóa đơn đám mây là cửa hàng tiện lợi; mỗi lần thanh toán cũng là chặng cuối của hoạt động huy động thuế thường ngày.
+- [Doanh nghiệp Đài Loan: Tập đoàn Đồng nhất (Uni-President)](/vi/economy/taiwan-enterprise-uni-president) — Tập đoàn Đồng nhất đứng sau 7-ELEVEN, từ một gói mì Đồng nhất đã trở thành đế chế bán lẻ phục vụ cả ngày của người dân Đài Loan.
 
 ## Tài liệu tham khảo
 
-[^1]: Trang web chính thức của President Chain Store Corporation, https://www.7-eleven.com.tw/
+[^1]: [Siêu thị Đồng nhất — Giới thiệu công ty và lịch sử](https://www.7-11.com.tw/Company/esg/aboutus.aspx) — Thành lập Siêu thị Đồng nhất vào 04/1978; ký hợp đồng với Southern Company của Mỹ vào 10/1979; khai trương cửa hàng 7-ELEVEN Trường An Môn Thị đầu tiên vào 02/1980; tái mua lại bộ phận siêu thị của công ty mẹ vào 11/1982; bắt đầu hoạt động 24 giờ từ năm 1983; tự chủ trở lại vào tháng 7/1987.
 
-[^2]: Public Television Service, “Hàn Quốc đứng đầu thế giới về mật độ cửa hàng tiện lợi”, https://news.pts.org.tw/article/706230
+[^2]: [Trang tin tức CCTV — Số lượng cửa hàng vượt qua số lượng chi nhánh McDonald's trên toàn cầu, mật độ siêu thị Hàn Quốc vượt Đài Loan và Nhật Bản lên vị trí số 1 thế giới](https://news.pts.org.tw/article/706230) — Dẫn CNN và Hiệp hội ngành hàng tiện lợi Hàn Quốc: Cuối năm 2023, Hàn Quốc có hơn 55.200 cửa hàng với trung bình 950 người/cửa hàng.
 
-[^3]: Liberty Times Net Finance, “Mật độ cửa hàng tiện lợi Đài Loan đứng thứ hai thế giới”, https://ec.ltn.com.tw/article/breakingnews/2385333
+[^3]: [Tài chính Tự do — Mật độ cửa hàng tiện lợi Đài Loan đứng thứ 2 thế giới; Thành phố Đài Bắc có 6.27 cửa hàng trên mỗi km vuông (07/08/2020)](https://ec.ltn.com.tw/article/breakingnews/3252852) — Điều tra của Công bằng Hội: Mật độ Đài Loan chỉ đứng sau Hàn Quốc, trung bình 0.33 cửa hàng/km vuông; Thành phố Đài Bắc cao nhất với 6.27 cửa hàng/km vuông.
 
-[^4]: Trang web chính thức của FamilyMart Đài Loan, https://www.family.com.tw/
+[^4]: [Wikipedia — Siêu thị Đồng nhất](https://zh.wikipedia.org/zh-tw/%E7%B5%B1%E4%B8%80%E8%B6%85%E5%95%86) — Các khẩu hiệu quảng cáo bao gồm "Hàng xóm tốt bụng vì sự tiện lợi của bạn", "Có 7-Eleven thật tuyệt" (ngừng sử dụng đến tháng 12 năm 2020), và "Always Open, 7-Eleven" (từ năm 2007).
 
-[^5]: Cục Thống kê, Bộ Kinh tế Đài Loan, số liệu thống kê ngành bán lẻ, https://www.moea.gov.tw/
+[^5]: [Bộ Kinh tế — Thông cáo báo chí cửa hàng tiện lợi (2025)](https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=1&menu_id=40&news_id=120778) — Số lượng cửa hàng tiện lợi là 14.236 vào tháng 8 năm 2025; trung bình 1.659 người/cửa hàng, 2.57 km vuông/cửa hàng vào tháng 7 năm 2025; Nhật Bản 2.180 người/cửa hàng, 6.68 km vuông/cửa hàng.
+
+[^6]: [NACS — Số lượng cửa hàng tiện lợi Hoa Kỳ đạt 152.255 (31/01/2025)](https://www.convenience.org/Media/Press-Releases/2025-Press-Releases/U-S-Convenience-Store-Count-Stands-at-152,255) — Mỹ có 152.255 cửa hàng tiện lợi, trung bình 2.233 người/cửa hàng.
+
+[^7]: [Phong Truyền Đài Loan trích dẫn tạp chí Thời thượng — Từ Trọng Nhân nói về phát triển sản phẩm của 7-ELEVEN](https://www.storm.mg/lifestyle/4861642) — Năm 1997, khi số lượng cửa hàng vượt mốc 1.500 và cổ phiếu Siêu thị Đồng nhất được niêm yết, họ đã bổ sung Onigiri và Oden.
+
+[^8]: [iThome — Thử nghiệm nội bộ X-STORE của Siêu thị Đồng nhất (29/01/2018)](https://www.ithome.com.tw/news/120987) — Kết hợp thành viên OPENPOINT, iCash, nhận dạng khuôn mặt, nhãn điện tử và POS thanh toán tự động.
+
+[^9]: [Wikipedia — Cửa hàng tiện lợi FamilyMart (全家)](https://zh.wikipedia.org/zh-tw/%E5%85%A8%E5%AE%B6%E4%BE%BF%E5%88%A9%E5%95%86%E5%BA%97) — Được thành lập vào ngày 18/08/1988 bởi doanh nghiệp Đài Loan và công ty mẹ Nhật Bản FamilyMart; cửa hàng đầu tiên "Quán Tiền" khai trương vào ngày 02/12 cùng năm; khẩu hiệu "FamilyMart chính là nhà của bạn".

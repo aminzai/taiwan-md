@@ -1,17 +1,17 @@
 ---
-title: 'Giáo dục Nghệ thuật Đài Loan và Phát triển Học viện'
-description: 'Từ hệ thống sư phạm tới các đại học nghệ thuật chuyên nghiệp, những biến đổi thể chế trong giáo dục nghệ thuật Đài Loan và đào tạo nhân tài'
+title: 'Giáo dục Nghệ thuật và Phát triển Trường Đại học ở Đài Loan'
+description: 'Ba dòng tiểu sử trường học lên đại học — Trường Quốc gia Nghệ thuật năm 1955, Trường Quốc gia Nghệ thuật năm 1982, Trường Quốc gia Đài Nam Nghệ thuật năm 1996 — cùng hệ thống giáo viên nghệ thuật từ Trường Đại học Thầy mằi, tạo nên hai trụ cột của giáo dục nghệ thuật Đài Loan. Từ giáo dục thầy mằi thời Nhật đến ba trường đại học nghệ thuật, chúng ta nhìn thấy cách một hệ thống được dần xây dựng.'
 date: 2026-03-19
 category: 'Art'
 tags:
   [
-    'giáo dục nghệ thuật',
-    'khoa mỹ thuật',
-    'đại học nghệ thuật',
-    'đào tạo sư phạm',
-    'phát triển học viện',
+    'Giáo dục Nghệ thuật',
+    'Khoa Mỹ thạch',
+    'Đại học Nghệ thuật',
+    'Đào tạo Giáo viên',
+    'Phát triển Trường học',
   ]
-subcategory: 'Triển lãm và Giáo dục'
+subcategory: '策展與教育'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-19
@@ -19,496 +19,489 @@ lastHumanReview: false
 difficulty: 'intermediate'
 readingTime: 11
 translatedFrom: 'Art/台灣藝術教育與學院發展.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:352ce3febb583c17'
-sourceBodyHash: 'sha256:aaeb81e5f1416586'
-translatedAt: '2026-07-31T00:00:00Z'
+sourceCommitSha: '93810378e'
+sourceContentHash: 'sha256:16f5e80078ec8c03'
+sourceBodyHash: 'sha256:d51a922d651f3747'
+translatedAt: '2026-10-03T00:56:56+08:00'
 ---
 
-# Giáo dục Nghệ thuật Đài Loan và Phát triển Học viện
+# Giáo dục Nghệ thuật và Phát triển Trường Đại học ở Đài Loan
 
-## Tổng quan 30 giây
+## 30 giây tóm tắt
 
-Giáo dục nghệ thuật Đài Loan nảy sinh từ giáo dục sư phạm thời kỳ Nhật trị, phát triển thành một hệ thống kép với các đại học sư phạm có khoa mỹ thuật và các trường nghệ thuật chuyên nghiệp hiện đại. Từ khi Trường Quốc lập Nghệ thuật thành lập năm 1955 tới ngày nay với ba đại học nghệ thuật lớn, Đài Loan đã xây dựng một tháp giáo dục nghệ thuật rõ ràng, đào tạo ra vô số nhân tài[^1].
+Giáo dục nghệ thuật Đài Loan phát triển từ những hạt giống của giáo dục thầy mằi thời Nhật, sau chiến tranh phát triển thành hệ thống song song giữa khoa mỹ thạch của Đại học Thầy mằi và các trường nghệ thuật chuyên nghiệp. Trường Quốc gia Nghệ thuật được thành lập năm 1955 là tiền thân của ngày nay là Đại học Đài Loan (台藝大)[^3]，trường Quốc gia Nghệ thuật được thành lập năm 1982 là tiền thân của Đại học Bắc Đài Loan (北藝大)[^1]，trường Quốc gia Đài Nam Nghệ thuật được thành lập năm 1996 mở cửa ở miền Nam[^2]，ba dòng tiểu sử trường học lên đại học độc lập, tạo nên bức tranh ba trường đại học nghệ thuật hiện nay.
 
-Đặc điểm của hệ thống này là vừa chăm sóc đào tạo sư phạm (hệ thống sư phạm) vừa nuôi dưỡng nhân tài sáng tạo chuyên nghiệp (Bắc Nghệ, Nam Nghệ, Đài Nghệ), vừa điều chỉnh hướng đi của khóa học theo nhu cầu thời đại.
+Đặc trưng của hệ thống này là kết hợp cả đào tạo giáo viên (hệ thống Đại học Thầy mằi) và đào tạo nghệ sĩ chuyên nghiệp (Đại học Bắc Đài Loan, Đại học Nam Đài Loan, Đại học Đài Loan), điều chỉnh hướng chương trình theo nhu cầu thời đại.
 
-Bài viết này mất khoảng 11 phút để đọc.
+Thời gian đọc xong bài viết: khoảng 11 phút.
 
-**Từ khóa chính**: giáo dục nghệ thuật, đại học sư phạm, trường nghệ thuật, Bắc Nghệ, Nam Nghệ, Đài Nghệ
+**Từ khóa**: Giáo dục Nghệ thuật, Đại học Thầy mằi, Các trường nghệ thuật, Đại học Bắc Đài Loan, Đại học Nam Đài Loan, Đại học Đài Loan
 
-## Tại sao điều này lại quan trọng
+## Tại sao điều này quan trọng
 
-Sự phát triển của hệ thống giáo dục nghệ thuật Đài Loan phản ánh những biến đổi trong chính sách văn hoá của Đài Loan và sự chuyển đổi trong quan niệm về nghệ thuật. Từ quá trình giáo dục sư phạm ban đầu tập trung vào đào tạo giáo viên mỹ thuật, tới việc đào tạo nhân tài sáng tạo chuyên nghiệp, quá trình tiến hóa này không chỉ ảnh hưởng tới phong cách và hướng đi của sáng tạo nghệ thuật Đài Loan, mà còn quyết định sức cạnh tranh quốc tế của nghệ thuật đương đại Đài Loan.
+Sự phát triển của hệ thống giáo dục nghệ thuật Đài Loan phản ánh sự thay đổi của chính sách văn hóa và quan niệm nghệ thuật của Đài Loan. Từ giai đoạn ban đầu tập trung vào đào tạo giáo viên mỹ thạch thông qua giáo dục thầy mằi, đến đào tạo nghệ sĩ sáng tạo chuyên nghiệp, quá trình chuyển đổi không chỉ ảnh hưởng đến phong cách và hướng đi của nghệ thuật sáng tạo Đài Loan, mà còn quyết định sức cạnh tranh quốc tế của nghệ thuật Đài Loan hiện đại.
 
-### Nền tảng truyền lại văn hóa và đổi mới
+### Nền tảng cho sự kế thừa và đổi mới văn hóa
 
-Các học viện nghệ thuật là nơi quan trọng để Đài Loan truyền lại và đổi mới văn hóa nghệ thuật, kết nối kỹ thuật truyền thống với sáng tạo đương đại, đào tạo nhân tài nghệ thuật có tầm nhìn quốc tế.
+Các trường nghệ thuật là nền tảng quan trọng cho sự kế thừa và đổi mới văn hóa nghệ thuật Đài Loan, nối kết kỹ năng truyền thống với sáng tạo đương đại, đào tạo ra những nhà nghệ sĩ có tầm nhìn toàn cầu.
 
-### Người đẩy đưa giáo dục thẩm mỹ xã hội
+### Người thúc đẩy giáo dục nghệ thuật xã hội
 
-Thông qua đào tạo sư phạm, hệ thống giáo dục nghệ thuật ảnh hưởng tới chất lượng giáo dục thẩm mỹ toàn Đài Loan, nâng cao tổng thể tố chất nghệ thuật của xã hội.
+Thông qua đào tạo giáo viên, hệ thống giáo dục nghệ thuật ảnh hưởng đến chất lượng giáo dục nghệ thuật trên toàn đảo, nâng cao trình độ nghệ thuật chung của xã hội.
 
-### Chuỗi cung cấp nhân tài cho ngành công nghiệp sáng tạo
+### Chuỗi cung ứng nhân lực ngành công nghiệp văn hóa
 
-Hệ thống giáo dục nghệ thuật hiện đại cung cấp nhân tài chuyên nghiệp cho ngành công nghiệp sáng tạo văn hóa Đài Loan trong các lĩnh vực thiết kế, sáng tạo và triển lãm.
+Hệ thống giáo dục nghệ thuật hiện đại cung cấp nhân lực chuyên môn trong các lĩnh vực thiết kế, sáng tạo và biên tập cho ngành công nghiệp văn hóa sáng tạo của Đài Loan.
 
-## Năm giai đoạn phát triển giáo dục nghệ thuật Đài Loan
+## Năm giai đoạn phát triển của giáo dục nghệ thuật Đài Loan
 
-### Giai đoạn thứ nhất: Thời kỳ nền tảng Nhật trị (1895-1945)
+### Giai đoạn 1: Thời kỳ nền tảng thời Nhật (1895-1945)
 
 **Bối cảnh giáo dục**
+Trong thời kỳ thuộc địa Nhật, giáo dục nghệ thuật ở Đài Loan chủ yếu thông qua hệ thống giáo dục thầy mằi. Năm 1896, Trường Quốc ngữ Trường Độ (hôm nay là tiền thân của Đại học Bắc Đài và Đại học Thành phố Đài Bắc) được thành lập để đào tạo giáo viên giáo dục phổ thông, môn vẽ tranh là một phần của chương trình thầy mằi.
 
-Giáo dục nghệ thuật ở Đài Loan thời kỳ Nhật trị chủ yếu tiến hành thông qua hệ thống giáo dục sư phạm. Trường Quốc ngữ Tổng đốc Đài Loan (tiền thân của Đại học Sư phạm Quốc lập Đài Loan) thành lập năm 1899 có một khoa "Họa họa và Công nghệ", đào tạo giáo viên mỹ thuật cho giáo dục tiểu học.
+**Đặc trưng nổi bật**
 
-**Đặc trưng quan trọng**
+- Chủ yếu dựa trên nghệ thuật thực tế ứng dụng
+- Nhấn mạnh kỹ thuật vẽ và khả năng vẽ chân thực
+- Áp dụng quan niệm giáo dục nghệ thuật của Nhật Bản
+- Nghệ sĩ Nhật Bản Khoa Shinnen (石川欽一郎) đến Đài Loan năm 1907, giảng dạy vẽ tranh tại Trường Quốc ngữ, học sinh bao gồm Ni Chiang Hua (倪蔣懷)、Chen Zhenbo (陳澄波)、Li Zefan (李澤藩) sau này trở thành những họa sĩ quan trọng
 
-- Mỹ thuật ứng dụng là hướng dẫn chính
-- Nhấn mạnh luyện tập kỹ năng và khả năng tạo hình chân thực
-- Tiếp nhận khái niệm giáo dục mỹ thuật của Nhật Bản
-- Đào tạo những giáo viên mỹ thuật có ảnh hưởng sâu rộng như Shikawa Kinichiro (石川欽一郎)
+**Xây dựng nền tảng**
+Trong thời kỳ này, hệ thống giáo dục mỹ thạch Đài Loan đã được thiết lập, mặc dù dưới bối cảnh giáo dục thuộc địa, nhưng đã đặt nền tảng cho giáo dục nghệ thuật hiện đại của Đài Loan.
 
-**Đặt nền tảng**
-
-Giai đoạn này đã thiết lập hệ thống giáo dục mỹ thuật ban đầu cho Đài Loan, dù có bối cảnh giáo dục thuộc địa, nhưng đã đặt nền tảng cho giáo dục mỹ thuật hiện đại ở Đài Loan.
-
-### Giai đoạn thứ hai: Thời kỳ tái thiết sư phạm (1945-1960)
+### Giai đoạn 2: Thời kỳ tái cấu trúc thầy mằi (1945-1960)
 
 **Tái thiết sau chiến tranh**
+Năm 1946, Trường Thầy mẫi Quốc gia Đài Loan (tiền thân của Đại học Thầy mằi) được thành lập, năm 1947 thành lập khoa chuyên ngành vẽ tranh và công việc nghệ thuật, năm 1948 thành lập khoa nghệ thuật[^4]，trở thành đơn vị chính trách trách nhiệm đào tạo giáo viên mỹ thạch sau chiến tranh.
 
-Năm 1946, Học viện Sư phạm Tỉnh Đài Loan (tiền thân của Đại học Sư phạm) thành lập khoa Nghệ thuật, trở thành cơ quan giáo dục mỹ thuật chính thức đầu tiên sau chiến tranh ở Đài Loan.
+**Chính sách giáo dục**
 
-**Nguyên tắc giáo dục**
+- Mục tiêu chính là đào tạo giáo viên mỹ thạch cho trường trung học
+- Kế thừa quan niệm giáo dục nghệ thuật truyền thống của Trung Quốc
+- Kết hợp kỹ thuật nghệ thuật hiện đại phương Tây
+- Nhấn mạnh sự song hành giữa giáo dục nghệ thuật và đức độ nhân cách
 
-- Mục tiêu chính là đào tạo giáo viên mỹ thuật cho các trường cấp hai
-- Kế thừa khái niệm giáo dục nghệ thuật truyền thống Trung Hoa
-- Kết hợp kỹ thuật mỹ thuật hiện đại phương Tây
-- Nhấn mạnh giáo dục nghệ thuật và đạo đức tính cách cân bằng nhau
+**Nhân vật tiêu biểu**
 
-**Những nhân vật tiêu biểu**
+- **Hoàng Quân Tú (黃君璧)**: Họa sĩ vẽ tranh truyền thống, từ năm 1949 chịu trách nhiệm quản lý khoa nghệ thuật
+- **Phạt Tâm Thượng (溥心畬)**: Đại thầy vẽ tranh truyền thống, giảng dạy tại khoa nghệ thuật
+- **Liễu Kỷ Thuyên (廖繼春)**: Người thúc đẩy sơ đồ vẽ hiện đại của Đài Loan, từ năm 1947 giảng dạy tại Trường Thầy mằi
+- **Li Zefan (李澤藩)**: Họa sĩ vẽ tranh nước, giảng dạy tại Trường Thầy mằi Hsinchu, đồng thời giảng dạy tại Đại học Thầy mằi và Trường Nghệ thuật Quốc gia
 
-- **Phó Tâm Tư** (溥心畬): Bậc thầy hội họa Trung Quốc, làm Chủ nhiệm khoa Nghệ thuật
-- **Liêu Kế Xuân** (廖繼春): Người tiên phong quan trọng trong hội họa hiện đại Đài Loan
-- **Lý Trạch Phàm**: Họa sĩ nước, ảnh hưởng sâu rộng tới giáo dục mỹ thuật sau chiến tranh
+### Giai đoạn 3: Thời kỳ phân chia chuyên ngành (1955-1980)
 
-### Giai đoạn thứ ba: Thời kỳ phân hóa chuyên nghiệp (1955-1980)
+**Thành lập Trường Quốc gia Nghệ thuật**
+Ngày 31 tháng 10 năm 1955, "Trường Quốc gia Nghệ thuật" được thành lập, ban đầu có ba khoa: Nghệ thuật điện ảnh, Nghệ thuật kịch truyền thống, và Mỹ thạch in ấn, năm 1960 chuyển đổi thành Trường Nghệ thuật Chuyên khoa Đài Loan, là tiền thân của ngày nay là Đại học Đài Loan (台藝大)[^3]。
 
-**Trường Quốc lập Nghệ thuật thành lập**
+**Bắt đầu phân công chuyên môn**
 
-Ngày 31 tháng 10 năm 1955, "Trường Quốc lập Nghệ thuật" được thành lập vào ngày sinh nhật cố Tổng thống Tưởng Trung Chính, ban đầu thiết lập ba khoa là Kịch tiểu, Kịch cổ truyền, và Mỹ thuật In ấn, trở thành trường nghệ thuật chuyên nghiệp đầu tiên ở Đài Loan.
+- **Hệ thống thầy mằi**: Chủ yếu đào tạo giáo viên mỹ thạch (Đại học Thầy mằi, các trường thầy mằi địa phương)
+- **Hệ thống nghệ thuật chuyên nghiệp**: Chủ yếu đào tạo nghệ sĩ sáng tạo chuyên nghiệp (Trường Quốc gia Nghệ thuật)
+- **Hệ thống kỹ thuật**: Chủ yếu đào tạo nhà thiết kế nghệ thuật thực tế
 
-**Phân công chuyên nghiệp bắt đầu**
+**Đặc điểm chương trình**
+Chương trình ban đầu của Trường Quốc gia Nghệ thuật bao gồm:
 
-- **Hệ thống sư phạm**: tập trung chủ yếu vào đào tạo sư phạm mỹ thuật (Đại học Sư phạm, các trường cao đẳng sư phạm)
-- **Hệ thống nghệ thuật chuyên nghiệp**: tập trung chủ yếu vào đào tạo nhân tài sáng tạo chuyên nghiệp (Trường Quốc lập Nghệ thuật)
-- **Hệ thống kỹ thuật**: tập trung chủ yếu vào đào tạo nhân tài mỹ thuật ứng dụng
+- Khoa Mỹ thạch In ấn: Thiết kế quảng cáo, kỹ thuật in ấn
+- Khoa Điện ảnh: Nghệ thuật sân khấu, kỹ thuật kịch
+- Khoa Nghệ thuật Kịch truyền thống: Nghệ thuật kịch cổ truyền
 
-**Đặc trưng khóa học**
+### Giai đoạn 4: Thời kỳ mở rộng đại học (1980-2000)
 
-Khóa học ban đầu của Trường Quốc lập Nghệ thuật bao gồm:
+**Sóng lên cấp đại học**
+Trong giai đoạn này, các cơ sở giáo dục nghệ thuật ở Đài Loan liên tiếp lên cấp thành đại học:
 
-- Khoa Mỹ thuật In ấn: Thiết kế quảng cáo, công nghệ in ấn
-- Khoa Kịch tiểu: Mỹ thuật sân khấu, kỹ thuật kịch
-- Khoa Kịch cổ truyền: Nghệ thuật kịch cổ truyền
+**Năm 1982 - Thành lập Trường Quốc gia Nghệ thuật**
 
-### Giai đoạn thứ tư: Thời kỳ mở rộng đại học hoá (1980-2000)
+- Năm 1980 thành lập bộ phận chuẩn bị, với Trường Nghệ thuật Chuyên khoa Quốc gia là một dòng tiểu sử riêng biệt, là tiền thân của ngày nay là Đại học Bắc Đài Loan (北藝大)[^1]
+- Ban đầu có ba khoa: Nhạc học, Mỹ thạch, Kịch, năm 1983 thêm khoa Mỹ thuật
 
-**Xu thế nâng cấp lên đại học**
+**Năm 1996 - Thành lập Trường Quốc gia Đài Nam Nghệ thuật**
 
-Giai đoạn này, các cơ sở giáo dục nghệ thuật ở Đài Loan lần lượt được nâng cấp lên cấp đại học:
+- Năm 1989, để cân bằng phát triển bắc-nam của giáo dục nghệ thuật Đài Loan, được phép lập bộ phận chuẩn bị, hiệu trưởng đầu tiên là Han Bao De (漢寶德)[^2]
+- Tập trung vào giáo dục sau đại học với quy mô nhỏ nhưng chất lượng cao
+- Thành lập bốn khoa nghiên cứu: Kỷ thự âm thanh hình ảnh, Viện Bảo tàng học, Nghệ thuật hình tượng, và Lịch sử và phê bình nghệ thuật
 
-**1982 - Thành lập Học viện Nghệ thuật Quốc lập**
+**Phát triển của khoa mỹ thạch Đại học Thầy mằi**
 
-- Nâng cấp từ Trường Quốc lập Nghệ thuật
-- Học viện Nghệ thuật đầu tiên ở Đài Loan
-- Thiết lập bốn khoa: Âm nhạc, Mỹ thuật, Kịch, và Múa
+- Khoa mỹ thạch của Đại học Thầy mằi chia thành các nhóm: Tranh truyền thống, Tranh Tây phương, và Thiết kế
+- Các trường thầy mằi địa phương dần thành lập các khoa liên quan đến nghệ thuật
+- Đào tạo hàng loạt giáo viên mỹ thạch cho trường trung học
 
-**1991 - Thành lập Học viện Nghệ thuật Quốc lập Đài Nam**
+### Giai đoạn 5: Thời kỳ đa dạng hóa kết hợp (2000 - nay)
 
-- Nằm ở Nam Đài Loan, cân bằng phát triển khu vực
-- Nhấn mạnh kết hợp kỹ thuật truyền thống với nghệ thuật hiện đại
-- Lần đầu tiên lập ra "Viện Nghiên cứu Lịch sử Nghệ thuật và Phê bình"
+**Hoàn thiện đại học hóa**
 
-**Phát triển của các đại học sư phạm**
+- Năm 2001, Trường Quốc gia Nghệ thuật được lên cấp thành "Đại học Bắc Đài Nghệ thuật"
+- Năm 2004, Trường Quốc gia Đài Nam Nghệ thuật được lên cấp thành "Đại học Đài Nam Nghệ thuật"
+- Năm 2001, Trường Quốc gia Đài Loan Nghệ thuật (năm 1994 được lên cấp từ Trường Nghệ thuật Chuyên khoa Đài Loan) đổi tên thành "Đại học Đài Loan Nghệ thuật"
 
-- Khoa Mỹ thuật Đại học Sư phạm chia thành các nhóm Hội họa Đông phương, Hội họa Tây phương, Thiết kế
-- Các trường cao đẳng sư phạm trong các khu vực lần lượt thành lập các khoa học liên quan tới mỹ thuật
-- Đào tạo một lượng lớn giáo viên mỹ thuật cho các trường tiểu học và trung học
+**Chuyển đổi tư tưởng giáo dục**
 
-### Giai đoạn thứ năm: Thời kỳ tích hợp đa dạng (2000-nay)
-
-**Hoàn thành đại học hoá**
-
-- 2001 Học viện Nghệ thuật Quốc lập nâng cấp lên "Đại học Nghệ thuật Bắc Đài Loan"
-- 2004 Học viện Nghệ thuật Quốc lập Đài Nam nâng cấp lên "Đại học Nghệ thuật Đài Nam"
-- Trường Cao đẳng Quốc lập Đài Loan nâng cấp lên "Đại học Quốc lập Đài Loan"
-
-**Chuyển đổi khái niệm giáo dục**
-
-- Từ luyện tập kỹ năng chuyển tới sáng tạo khái niệm
+- Từ đào tạo kỹ thuật chuyển sang sáng tạo khái niệm
 - Nhấn mạnh tích hợp liên ngành
-- Coi trọng giao lưu quốc tế và hợp tác
-- Hòa nhập các xu hướng nghệ thuật đương đại
+- Quan tâm tới trao đổi và hợp tác quốc tế
+- Kết hợp các triển lĩnh vực nghệ thuật đương đại
 
-## Đặc trưng của ba đại học nghệ thuật lớn
+## Đặc trưng của hệ thống ba trường đại học nghệ thuật
 
-Đại học Nghệ thuật Bắc Đài Loan, Đại học Nghệ thuật Đài Nam, và Đại học Quốc lập Đài Loan ba trường lựa chọn vị trí riêng: Bắc Nghệ nổi bật về tính thử nghiệm và tiên phong, Nam Nghệ nhấn mạnh kết hợp kỹ thuật truyền thống với sáng tạo đương đại, Đài Nghệ coi trọng kỹ năng thực hành và kết nối với ngành công nghiệp[^3].
+Đại học Bắc Đài Nghệ thuật, Đại học Đài Nam Nghệ thuật, và Đại học Đài Loan Nghệ thuật mỗi trường đều có vị thế riêng: Đại học Bắc Đài Nghệ thuật nổi tiếng với tính thử nghiệm và tiến bộ, Đại học Đài Nam Nghệ thuật mạnh về các khoa nghiên cứu và di sản văn hóa, trong khi Đại học Đài Loan Nghệ thuật tập trung vào kỹ năng thực hành và kết nối ngành công nghiệp.
 
-Ba trường có thiết kế khóa học phản ánh các triết lý giáo dục mỹ thuật khác nhau, bổ sung cho nhau, cùng xây dựng khung chính của giáo dục nghệ thuật chuyên nghiệp ở Đài Loan.
+Chương trình giảng dạy của ba trường phản ánh triết lý giáo dục nghệ thuật khác nhau, bổ sung cho nhau, cùng nhau tạo nên khung chính cho giáo dục nghệ thuật chuyên nghiệp ở Đài Loan.
 
-### Đại học Nghệ thuật Bắc Đài Loan (Bắc Nghệ)
+### Đại học Bắc Đài Nghệ thuật (北藝大)
 
-**Vị trí phát triển**
+**Vị thế phát triển**
 
-- Trường đại học nghệ thuật có tính thử nghiệm và tiên phong nhất ở Đài Loan
+- Trường nghệ thuật thử nghiệm và tiến bộ nhất ở Đài Loan
 - Nhấn mạnh sáng tạo nghệ thuật đương đại và hợp tác liên ngành
 - Mức độ quốc tế hóa cao nhất
 
-**Cấu trúc học viện**
+**Cấu trúc trường**
 
-- Học viện Âm nhạc
-- Học viện Mỹ thuật (Khoa Mỹ thuật, Viện Nghiên cứu Các lĩnh vực Nghệ thuật)
-- Học viện Kịch
-- Học viện Múa
-- Học viện Điện ảnh và Phương tiện Mới
-- Học viện Tài nguyên Văn hóa
+- Viện Nhạc học
+- Viện Mỹ thạch (Khoa Mỹ thạch, Viện Nghiên cứu Liên ngành Nghệ thuật)
+- Viện Kịch
+- Viện Mỹ thuật
+- Viện Điện ảnh và Truyền thông mới
+- Viện Tài nguyên Văn hóa
+- Viện Nhân văn (năm 2019 được tái cấu trúc từ Ủy ban Giáo dục Chung và Chung hợp)
 
-**Đặc trưng giáo dục**
+**Đặc điểm giáo dục**
 
-- Giáo dục tinh hoa với lớp nhỏ
-- Coi trọng quy trình sáng tạo và phát triển khái niệm
-- Nhấn mạnh lý thuyết và thực hành cân bằng
-- Chương trình giao lưu quốc tế phong phú
+- Giáo dục đẳng cấp với lớp học nhỏ
+- Nhấn mạnh quá trình sáng tạo và phát triển khái niệm
+- Nhấn mạnh sự song hành giữa lý thuyết và thực hành
+- Các chương trình trao đổi quốc tế phong phú
 
 **Cựu sinh tiêu biểu**
 
-- Nhiều thành viên trong đội sản xuất của Lý An (李安, Ang Lee)
-- Nhiều nghệ sĩ đương đại như Ngô Quý Vật (吳季璁), Trần Giới Nhân (陳界仁)
-- Hầu Hiếu Hiền (侯孝賢) từng được mời làm giáo sư khách
+- Nghệ sĩ đương đại Wu Ji Tsung (吳季璁) và cộng sự
 
-### Đại học Nghệ thuật Đài Nam (Nam Nghệ)
+### Đại học Đài Nam Nghệ thuật (南藝大)
 
-**Vị trí phát triển**
+**Vị thế phát triển**
 
-- Nhấn mạnh kết hợp kỹ thuật truyền thống với sáng tạo đương đại
-- Coi trọng truyền lại văn hóa Đài Loan bản địa
-- Môi trường giảng dạy nhỏ gọn và tinh tế
+- Bắt đầu từ giáo dục sau đại học, tập trung vào lịch sử nghệ thuật, viện bảo tàng học và bảo quản di sản văn hóa
+- Nhấn mạnh sự kế thừa văn hóa bản địa của Đài Loan
+- Môi trường giảng dạy nhỏ và chất lượng cao
 
-**Cấu trúc học viện**
+**Cấu trúc trường**
 
-- Học viện Nghệ thuật (Nghệ thuật Tạo hình, Nghệ thuật Ứng dụng, Nghệ thuật Kiến trúc)
-- Học viện Nhân văn (Học Lịch sử Nghệ thuật, Bảo tàng, Ghi âm Hình ảnh)
-- Học viện Âm nhạc
+- Viện Nhạc học
+- Viện Nghệ thuật Hình ảnh (Nghệ thuật hình tượng, Nghệ thuật ứng dụng, Nghệ thuật kiến trúc và các khoa liên quan)
+- Viện Nghệ thuật Âm thanh
+- Viện Văn hóa Học
+- Viện Sáng tạo Liên ngành
 
-**Đặc trưng giáo dục**
+**Đặc điểm giáo dục**
 
-- Coi trọng truyền lại kỹ thuật kỹ nghệ truyền thống
-- Giảng dạy tinh tế với quy mô nhỏ
+- Nhấn mạnh sự kế thừa kỹ thuật thủ công truyền thống
+- Giáo dạy quy mô nhỏ và chất lượng cao
 - Kết hợp lý thuyết và thực hành
-- Nhấn mạnh bảo tồn văn hóa và đổi mới
+- Nhấn mạnh bảo quản và đổi mới văn hóa
 
-**Khóa học độc đáo**
+**Chương trình đặc biệt**
 
-- Viện Nghiên cứu Bảo tồn Các vật cổ
-- Viện Nghiên cứu Học Bảo tàng và Bảo tồn Các vật cổ
-- Viện Nghiên cứu Âm nhạc Dân tộc
+- Viện Bảo tàng học và Nghiên cứu Bảo quản Hiện vật (hợp nhất từ Viện Bảo tàng học và Viện Bảo quản Hiện vật)
+- Viện Nhạc học Dân tộc
 
-### Đại học Quốc lập Đài Loan (Đài Nghệ)
+### Đại học Đài Loan Nghệ thuật (台藝大)
 
-**Vị trí phát triển**
+**Vị thế phát triển**
 
-- Một trong những trường nghệ thuật chuyên nghiệp lâu đời nhất ở Đài Loan hiện nay (tiền thân Trường Quốc lập Nghệ thuật thành lập năm 1955)
-- Coi trọng kỹ năng thực hành và kết nối với ngành công nghiệp
-- Đào tạo nhân tài cho ngành công nghiệp sáng tạo văn hóa
+- Là một trong những trường nghệ thuật chuyên nghiệp lâu đời nhất ở Đài Loan (tiền thân là Trường Quốc gia Nghệ thuật thành lập năm 1955)
+- Nhấn mạnh kỹ năng thực hành và kết nối ngành công nghiệp
+- Đào tạo nhân lực cho ngành công nghiệp văn hóa sáng tạo
 
-**Cấu trúc học viện**
+**Cấu trúc trường**
 
-- Học viện Mỹ thuật
-- Học viện Thiết kế
-- Học viện Truyền thông
-- Học viện Nghệ thuật Biểu diễn
-- Học viện Nhân văn
+- Viện Mỹ thạch
+- Viện Thiết kế
+- Viện Truyền thông
+- Viện Biểu diễn Nghệ thuật
+- Viện Nhân văn
 
-**Đặc trưng giáo dục**
+**Đặc điểm giáo dục**
 
-- Truyền thống lịch sử sâu sắc
-- Coi trọng luyện tập kỹ thuật và thực hành ngành công nghiệp
-- Mạng lưới cựu sinh trải rộng khắp thế giới nghệ thuật
-- Kết nối chặt chẽ với ngành công nghiệp sáng tạo
+- Di sản lịch sử phong phú
+- Nhấn mạnh đào tạo kỹ thuật và thực hành công nghiệp
+- Mạng lưới cựu sinh rộng khắp trong ngành nghệ thuật
+- Kết nối chặt chẽ với ngành công nghiệp văn hóa sáng tạo
 
-**Ảnh hưởng ngành công nghiệp**
+**Tác động ngành công nghiệp**
+Các khoa điện ảnh, phim và thiết kế của Đại học Đài Loan Nghệ thuật lâu dài cung cấp nhân lựi cho ngành công nghiệp điện ảnh và thiết kế, đạo diễn Hou Hsiao-hsien (侯孝賢) chính là cựu sinh của khoa phim Trường Nghệ thuật Chuyên khoa Quốc gia (nay là khoa phim của Đại học Đài Loan Nghệ thuật).
 
-Đại học Quốc lập Đài Loan được xem như là nôi nàng của nhân tài thiết kế hình ảnh ở Đài Loan, nhiều nhà thiết kế nổi tiếng, nhân tài sáng tạo quảng cáo đều tốt nghiệp từ trường này.
+## Hệ thống giáo dục nghệ thuật của Đại học Thầy mằi
 
-## Hệ thống giáo dục mỹ thuật sư phạm
+Hệ thống Đại học Thầy mằi là một trụ cột khác của giáo dục mỹ thạch ở Đài Loan. Tiền thân của khoa mỹ thạch của Đại học Thầy mằi Đài Loan là khoa vẽ tranh và công việc nghệ thuật được thành lập năm 1947[^4]。Những giáo viên mà họ đào tạo đã lan tỏa khắp cả nước thông qua giáo dục trung học, tác động đến chất lượng giáo dục nghệ thuật xã hội rộng hơn bất kỳ trường nghệ thuật chuyên nghiệp nào.
 
-Hệ thống sư phạm là một tuyến chính của giáo dục mỹ thuật ở Đài Loan. Khoa Mỹ thuật Đại học Sư phạm Quốc lập Đài Loan thành lập năm 1946, là cơ sở giáo dục mỹ thuật hiện đại sớm nhất sau chiến tranh ở Đài Loan[^4]. Nhân tài sư phạm được đào tạo bởi khoa này được lan tỏa thông qua giáo dục cấp hai trên toàn Đài Loan, phạm vi ảnh hưởng tới giáo dục thẩm mỹ toàn xã hội vượt xa các trường nghệ thuật chuyên nghiệp.
+Các khoa mỹ thạch của các Đại học Thầy mằi địa phương (Đại học Thầy mằi Cao Hùng, Đại học Thầy mằi Chương Đào) chịu trách nhiệm cung cấp giáo viên khu vực, tạo nên mạng lưới giáo viên mỹ thạch bao phủ toàn đảo.
 
-Các đại học sư phạm ở các khu vực khác (Sư phạm Cao Hùng, Sư phạm Chương Hóa, v.v.) chịu trách nhiệm cung cấp nhân tài sư phạm mỹ thuật ở các khu vực, hình thành một mạng lưới cung cấp sư phạm mỹ thuật phủ khắp Đài Loan.
+### Khoa Mỹ thạch Đại học Thầy mằi Đài Loan
 
-### Khoa Mỹ thuật Đại học Sư phạm Quốc lập Đài Loan
+**Vị thế lịch sử**
 
-**Vị trí lịch sử**
+- Đơn vị quan trọng trong việc đào tạo giáo viên mỹ thạch sau chiến tranh
+- Trung tâm đào tạo giáo viên mỹ thạch Đài Loan
+- Khoa có ảnh hưởng sâu rộng nhất đến sự phát triển của nghệ thuật Đài Loan
 
-- Cơ sở giáo dục mỹ thuật hiện đại sớm nhất ở Đài Loan
-- Lâu đài cung cấp nhân tài sư phạm mỹ thuật ở Đài Loan
-- Trường có ảnh hưởng sâu sắc nhất tới phát triển mỹ thuật ở Đài Loan
+**Triết lý giáo dục**
 
-**Khái niệm giáo dục**
+- Song hành giữa đào tạo giáo viên và sáng tạo chuyên nghiệp
+- Kết hợp lý thuyết nghệ thuật Đông Tây
+- Nhấn mạnh lý thuyết thẩm mỹ và thực hành sáng tạo
 
-- Giáo dục sư phạm và sáng tạo chuyên nghiệp song hành
-- Hòa nhập lý thuyết nghệ thuật Đông phương và Tây phương
-- Coi trọng lý thuyết thẩm mỹ và thực hành sáng tạo
+**Lĩnh vực chương trình**
 
-**Đặc trưng phân nhóm**
+- **Sáng tạo**: Tranh truyền thống, Tranh Tây phương, Tranh mực, Tranh đánh bản, Đúc tượng
+- **Lý thuyết**: Lịch sử nghệ thuật, Lý thuyết nghệ thuật, Phê bình nghệ thuật
+- Giáo dục thiết kế ngày nay được chịu trách nhiệm riêng bởi Khoa Thiết kế độc lập của Đại học Thầy mằi
 
-- **Nhóm sáng tạo**: Hội họa Đông phương, Hội họa Tây phương, Khắc họa, Điêu khắc, Mỹ thuật đen trắng
-- **Nhóm lý thuyết**: Lịch sử Mỹ thuật, Lý thuyết Mỹ thuật, Phê bình Nghệ thuật
-- **Nhóm thiết kế**: Thiết kế Truyền thông Hình ảnh, Thiết kế Phương tiện Số
+**Dòng chảy giáo dức**
+Từ các thế hệ thầy lão như Phạt Tâm Thượng, Hoàng Quân Tú, Liễu Kỷ Thuyên, cho đến thế hệ hiện đại như Yuan Chin Tatta (袁金塔)、Li Junyi (李君毅)、... tạo nên dòng chảy giáo dức sâu sắc.
 
-**Truyền lại Giáo viên**
+### Các khoa mỹ thạch của các Đại học Thầy mằi địa phương
 
-Từ những bậc thầy tiền bối như Phó Tâm Tư, Hoàng Quân Bích, Liêu Kế Xuân, tới những giáo sư đương đại như Viên Kim Tháp, Lý Quân Dạ, hình thành một맥 lạc truyền thừa sâu sắc.
+**Khoa Mỹ thạch Đại học Thầy mằi Cao Hùng**
 
-### Khoa Mỹ thuật các Đại học Sư phạm Khu vực
+- Phục vụ nhu cầu giáo viên mỹ thạch ở miền Nam Đài Loan
+- Nhấn mạnh đặc trưng văn hóa địa phương
+- Hợp tác chặt chẽ với các tổ chức như Bảo tàng Cao Hùng
 
-**Khoa Mỹ thuật Đại học Sư phạm Cao Hùng**
+**Khoa Mỹ thạch Đại học Thầy mằi Chương Đào**
 
-- Phục vụ nhu cầu nhân tài sư phạm mỹ thuật ở Nam Đài Loan
-- Coi trọng đặc điểm văn hóa bản địa
-- Hợp tác chặt chẽ với các cơ sở như Bảo tàng Mỹ thuật Cao Hùng
+- Trung tâm giáo dục nghệ thuật miền trung Đài Loan
+- Nhấn mạnh sự song hành giữa thực hành và lý thuyết
 
-**Khoa Mỹ thuật Đại học Sư phạm Chương Hóa**
+**Các trường thầy mằi khác**
+Các trường thầy mằi ở các tỉnh thành dần thành lập các khoa giáo dục nghệ thuật, tạo nên mạng lưới đào tạo giáo viên bao phủ toàn đảo.
 
-- Lâu đài giáo dục mỹ thuật ở Trung Đài Loan
-- Nhấn mạnh thực hành và lý thuyết song hành
+## Sự tiến triển của chương trình giảng dạy trong giáo dục nghệ thuật
 
-**Các cơ sở sư phạm khác**
+Chương trình giảng dạy của các trường nghệ thuật ở Đài Loan từ những năm 1950 dựa trên đào tạo kỹ thuật, trải qua ba giai đoạn chuyển đổi rõ rệt: những năm 1980 giới thiệu các khái niệm nghệ thuật hiện đại, sau năm 2000 chuyển đổi sang đa phương tiện và số hóa, và gần đây nhấn mạnh sự tham gia xã hội và tích hợp liên ngành.
 
-Các trường cao đẳng sư phạm ở các huyện thị lần lượt thành lập các khoa về giáo dục mỹ thuật, hình thành một mạng lưới cung cấp nhân tài sư phạm phủ khắp Đài Loan.
+Ba lần chuyển đổi này không phải là sự thay thế tuyến tính, mà là sự tích lũy chồng lên nhau — đào tạo kỹ thuật truyền thống vẫn chiếm tỷ lệ đáng kể ở một số trường, đồng thời các hướng chương trình mới cũng đang được mở rộng.
 
-## Sự tiến hóa khóa học trong giáo dục nghệ thuật
+Đáng chú ý, tốc độ và hướng đi của sự tiến triển chương trình giảng dạy ở các trường ở Đài Loan khác nhau rất lớn: Đại học Bắc Đài Nghệ thuật đi trước ở lĩnh vực sáng tạo khái niệm, trong khi Đại học Đài Loan Nghệ thuật nhập khẩu các khái niệm nghệ thuật đương đại muộn hơn, sự khác biệt này vẫn đang ảnh hưởng đến văn hóa giảng dạy của từng trường.
 
-Khóa học của các trường nghệ thuật ở Đài Loan từ định hướng luyện tập kỹ năng những năm 1950, trải qua ba điểm chuyển đổi rõ rệt: giới thiệu khái niệm nghệ thuật hiện đại vào những năm 1980, sự chuyển đổi tới phương tiện đa dạng và số hoá sau năm 2000, cùng với xu hướng đương đại gần đây nhấn mạnh sự tham gia xã hội và tích hợp liên ngành.
+### Từ kỹ thuật truyền thống đến sáng tạo đương đại
 
-Ba lần chuyển đổi này không phải thay thế tuyến tính, mà là tồn tại chồng chéo — luyện tập kỹ thuật truyền thống vẫn chiếm tỷ lệ đáng kể tại một số trường, trong khi những hướng đi khóa học mới cũng đang mở rộng.
+**Chương trình sớm (1950-1980)**
 
-Điều đáng chú ý là tốc độ và hướng tiến hóa khóa học giữa các trường này khác biệt rõ rệt: Bắc Nghệ đi nhanh hơn về sáng tạo khái niệm, Đài Nghệ thì muộn hơn trong việc tiếp nhận khái niệm nghệ thuật đương đại, sự khác biệt này tới nay vẫn ảnh hưởng tới văn hóa giảng dạy của mỗi trường.
+- Dựa trên đào tạo kỹ thuật: Vẽ phác thảo, Vẽ tranh nước, Vẽ tranh dầu, Tranh truyền thống
+- Nhấn mạnh khả năng vẽ chân thực và kỹ năng cơ bản
+- Chương trình tương đối bảo thủ và truyền thống
 
-### Từ kỹ thuật truyền thống tới sáng tạo đương đại
+**Chương trình chuyển đổi (1980-2000)**
 
-**Khóa học thời kỳ đầu (1950-1980)**
+- Giới thiệu các khái niệm nghệ thuật hiện đại
+- Tăng cường các môn học về lịch sử nghệ thuật và lý thuyết thẩm mỹ
+- Bắt đầu quan tâm tới phong cách sáng tạo cá nhân
 
-- Chủ yếu luyện tập kỹ thuật: Phác thảo, Tranh nước, Tranh dầu, Hội họa Đông phương
-- Nhấn mạnh khả năng tạo hình chân thực và kỹ năng cơ bản
-- Khóa học tương đối bảo thủ và truyền thống
+**Chương trình hiện đại (2000 - nay)**
 
-**Khóa học thời kỳ chuyển đổi (1980-2000)**
+- Sáng tạo đa phương tiện
+- Nghệ thuật lắp đặt, Nghệ thuật video, Nghệ thuật số
+- Thực hành biên tập, Quản lý nghệ thuật
+- Nghệ thuật tham gia xã hội
+- Trao đổi và cư trú quốc tế
 
-- Giới thiệu khái niệm nghệ thuật hiện đại
-- Tăng thêm khóa học về Lịch sử Nghệ thuật, Thẩm mỹ học, Lý thuyết
-- Bắt đầu coi trọng phong cách sáng tạo cá nhân
+### Song hành giữa lý thuyết và thực hành
 
-**Khóa học đương đại (2000-nay)**
+**Giáo dục lịch sử nghệ thuật**
 
-- Sáng tạo với nhiều phương tiện
-- Nghệ thuật Cài đặt, Nghệ thuật Video, Nghệ thuật Số
-- Triển lãm Thực hành, Quản lý Nghệ thuật
-- Nghệ thuật Tham gia Xã hội
-- Chương trình Giao lưu Quốc tế và Cư trú Sáng tạo
+- Lịch sử nghệ thuật phương Tây
+- Lịch sử nghệ thuật Trung Quốc
+- Lịch sử nghệ thuật Đài Loan
+- Lý thuyết nghệ thuật đương đại
 
-### Lý thuyết và Thực hành song hành
+**Phương pháp sáng tạo**
 
-**Giáo dục Lịch sử Nghệ thuật**
+- Thí nghiệm phương tiện và đổi mới kỹ thuật
+- Phát triển khái niệm và hình thức biểu đạt
+- Xây dựng phong cách cá nhân
+- Khả năng giải thích và luận bàn về tác phẩm
 
-- Lịch sử Mỹ thuật Tây phương
-- Lịch sử Mỹ thuật Trung Quốc
-- Lịch sử Mỹ thuật Đài Loan
-- Lý thuyết Nghệ thuật Đương đại
+## Tương tác giữa giáo dục nghệ thuật và xã hội
 
-**Phương pháp luận Sáng tạo**
+### Lan tỏa giáo dục nghệ thuật
 
-- Thử nghiệm Phương tiện và Đổi mới Kỹ thuật
-- Phát triển Khái niệm và Hình thức Biểu đạt
-- Xây dựng Phong cách Cá nhân
-- Khả năng Diễn giải Tác phẩm và Luận thuật
+**Giáo dục nghệ thuật tiểu học và trung học**
+Thông qua đào tạo giáo viên, các trường nghệ thuật ảnh hưởng đến giáo dục nghệ thuật trên toàn đảo:
 
-## Sự Tương tác của Giáo dục Nghệ thuật với Xã hội
+- Đổi mới thiết kế và phương pháp giảng dạy
+- Bồi dưỡng giáo viên mỹ thạch nghề nghiệp
+- Lan tỏa tư tưởng giáo dục nghệ thuật
 
-### Truyền bá Giáo dục Thẩm mỹ
+**Giáo dục nghệ thuật xã hội**
 
-**Giáo dục Mỹ thuật Tiểu học và Trung học**
+- Giáo dục tại bảo tàng
+- Chương trình nghệ thuật cộng đồng
+- Giáo dục nghệ thuật suốt đời
 
-Thông qua đào tạo sư phạm, các trường nghệ thuật ảnh hưởng tới giáo dục thẩm mỹ trên toàn Đài Loan:
+### Phối hợp với chính sách văn hóa quốc gia
 
-- Đổi mới Thiết kế Khóa học và Phương pháp Giảng dạy
-- Nâng cao Kỹ năng Trong việc Giáo dục Mỹ thuật
-- Truyền bá Khái niệm Giáo dục Nghệ thuật
+**Chính sách nghệ thuật và văn hóa quốc gia**
+Giáo dục nghệ thuật phối hợp phát triển theo chính sách văn hóa quốc gia:
 
-**Giáo dục Mỹ thuật Xã hội**
+- Thúc đẩy giáo dục bản địa hóa
+- Thể hiện giá trị đa dạng văn hóa
+- Cân bằng giữa quốc tế hóa và địa phương hóa
 
-- Truyền bá Giáo dục ở Bảo tàng Mỹ thuật
-- Khóa học Nghệ thuật Cộng đồng
-- Giáo dục Nghệ thuật Học suốt đời
+**Nhu cầu nhân lực ngành công nghiệp**
+Đáp ứng nhu cầu phát triển của ngành công nghiệp văn hóa sáng tạo:
 
-### Phối hợp Chính sách Văn hóa
+- Đào tạo nhân lựai thiết kế
+- Chương trình công nghiệp văn hóa sáng tạo
+- Dự án hợp tác giữa trường và doanh nghiệp
 
-**Chính sách Văn hóa Quốc gia về Nghệ thuật**
+## Cân bằng giữa quốc tế hóa và địa phương hóa
 
-Giáo dục Nghệ thuật phối hợp với phát triển chính sách văn hóa quốc gia:
+Sự quốc tế hóa của các trường nghệ thuật ở Đài Loan, một phía thông qua mạng lưới trường sĩ và chương trình đổi sinh sinh viên để giới thiệu quan điểm bên ngoài, một phía cũng phát triển thành một mô hình kết hợp đặc biệt khác biệt so với giáo dục nghệ thuật ở châu Âu, Bắc Mỹ hoặc Nhật Bản do vị trí địa lý của Đài Loan.
 
-- Thúc đẩy Giáo dục Địa phương hoá
-- Thực hiện Giá trị Văn hóa Đa dạng
-- Cân bằng Quốc tế hoá và Địa phương hoá
+Làm thế nào để trong khi giới thiệu khung giáo dục nghệ thuật quốc tế, vẫn giữ được nội dung giảng dạy đặc trưng của Đài Loan (bao gồm cả nghệ thuật bản đồ và nghệ thuật người dân gốc, truyền thống Minh Kỵ và lịch sử nghệ thuật sau chiến tranh) là một thách thức mà các trường liên tục phải đối mặt (Bộ Giáo dục từng hệ thống hóa các liệu lịch sử liên quan, các kế hoạch chương trình của từng trường cũng có thể tham khảo từ trang web chính thức của từng trường).
 
-**Nhu cầu Nhân tài Ngành công nghiệp**
+### Hợp tác và trao đổi quốc tế
 
-Ứng phó với nhu cầu phát triển ngành công nghiệp sáng tạo văn hóa:
+**Mạng lưới trường sĩ**
+Các trường nghệ thuật ở Đài Loan thiết lập mối quan hệ hợp tác với các trường nghệ thuật nổi tiếng thế giới:
 
-- Đào tạo Nhân tài Thiết kế
-- Khóa học Ngành công nghiệp Sáng tạo Văn hóa
-- Kế hoạch Hợp tác Sản học
+- Chương trình đổi sinh sinh viên
+- Tham quan giáo viên lẫn nhau
+- Các dự án triển lãm và sáng tạo hợp tác
 
-## Cân bằng Quốc tế hoá và Địa phương hoá
+**Giới thiệu chương trình quốc tế**
 
-Quốc tế hoá của các trường nghệ thuật ở Đài Loan, một mặt thông qua mạng lưới trường chị em và chương trình trao đổi sinh viên, đưa vào tầm nhìn bên ngoài, mặt khác cũng vì vị trí địa lý của Đài Loan phát triển thành một mô hình hỗn hợp khác biệt với giáo dục nghệ thuật Âu Mỹ hoặc Nhật Bản.
+- Mời các nghệ sĩ quốc tế đến trường
+- Nhập khẩu các khái niệm giáo dục nghệ thuật quốc tế
+- Thúc đẩy giảng dạy song ngữ
 
-Làm thế nào để trong khi đưa vào khung giáo dục nghệ thuật quốc tế, vẫn giữ lại nội dung giảng dạy Đài Loan bản địa (bao gồm Nghệ thuật Bản địa Đảo Nam, Truyền thống Mân Nam và Khách Gia, Lịch sử Mỹ thuật Hậu-chiến, v.v.), là một vấn đề mà các trường phải đối mặt liên tục (Bộ Giáo dục từng tổng hợp hệ thống các tài liệu liên quan, các kế hoạch khóa học của từng trường cũng có thể tham khảo trên trang web chính thức của các trường).
+### Giữ gìn đặc trưng văn hóa Đài Loan
 
-### Giao lưu Quốc tế và Hợp tác
+**Kế thừa nghệ thuật bản địa**
 
-**Mạng lưới Trường Chị em**
+- Bảo quản kỹ thuật thủ công truyền thống
+- Nghiên cứu lịch sử nghệ thuật Đài Loan
+- Chủ đề sáng tạo văn hóa địa phương
 
-Các trường nghệ thuật ở Đài Loan thiết lập quan hệ hợp tác với các trường nghệ thuật danh tiếng quốc tế:
+**Kết hợp đa dạng văn hóa**
 
-- Chương trình Trao đổi Sinh viên
-- Zin thăm Giáo viên
-- Triển lãm Hợp tác và Kế hoạch Sáng tạo Chung
+- Giáo dục nghệ thuật người dân gốc
+- Nghệ thuật văn hóa của người nhập cư mới
+- Kế thừa văn hóa Minh Kỵ
 
-**Giới thiệu Khóa học Quốc tế**
+## Thách thức mới trong thời đại số
 
-- Mời Nghệ sĩ Quốc tế Cư trú tại Trường
-- Giới thiệu Khái niệm Giáo dục Nghệ thuật Quốc tế
-- Thúc đẩy Giảng dạy song ngôn
+Sự lan rộng của công cụ AI tạo ra, tạo ra tác động kép đối với giáo dục nghệ thuật: một phía, nó cung cấp công cụ sáng tạo và liệu môi thực hành mới; một phía khác, nó cũng thách thức logic giáo dục kỹ thuật truyền thống — khi AI có thể nhanh chóng tạo ra sản phẩm hình ảnh, giáo dục nghệ thuật thủ công cần được định vị lại vai trò của mình như thế nào?
 
-### Giữ gìn Đặc điểm Văn hóa Đài Loan
+Vấn đề này hiện đang được các trường nghệ thuật ở Đài Loan khám phá, chưa có kết luận cuối cùng, nhưng đã bắt đầu ảnh hưởng đến hướng đi của kế hoạch chương trình.
 
-**Truyền lại Nghệ thuật Bản địa**
+Sự lan rộng của công cụ số cũng mang lại một góc độ khác: giảng dạy từ xa và tài nguyên trực tuyến giúp giảm ngưỡng địa lý cho giáo dục nghệ thuật, có tác dụng bổ sung nhất định cho khả năng tiếp cận giáo dục nghệ thuật ở vùng sâu, vùng xa.
 
-- Bảo tồn Kỹ thuật Kỹ nghệ Truyền thống
-- Nghiên cứu Lịch sử Mỹ thuật Đài Loan
-- Chủ đề Sáng tạo Văn hóa Bản địa
+### Kết hợp giữa công nghệ và nghệ thuật
 
-**Hòa nhập Văn hóa Đa dạng**
+**Giáo dục nghệ thuật đa phương tiện**
 
-- Giáo dục Nghệ thuật Bản địa Đảo Nam
-- Nghệ thuật Văn hóa Di cư Mới
-- Truyền lại Nghệ thuật Văn hóa Khách Gia
+- Sáng tạo hình ảnh số
+- Nghệ thuật lắp đặt tương tác
+- Nghệ thuật thực tế ảo và tăng cường thực tế
+- AI và sáng tạo nghệ thuật
 
-## Những Thách thức Mới của Thời đại Số
+**Giáo dục liên ngành**
 
-Sự phổ biến của các công cụ tạo sinh bằng AI, tạo ra tác động kép tới giáo dục nghệ thuật: một mặt, nó cung cấp những công cụ sáng tạo mới và chất liệu khóa học; mặt khác, nó cũng đặt ra thách thức tới logic giáo dục của luyện tập kỹ thuật truyền thống — khi AI có thể nhanh chóng tạo ra tác phẩm hình ảnh, ý nghĩa giáo dục của kỹ thuật thủ công như thế nào được định vị lại?
+- Kết hợp giữa nghệ thuật và công nghệ
+- Kết hợp giữa nghệ thuật và thiết kế thương mại
+- Kết nối giữa nghệ thuật và các vấn đề xã hội
 
-Vấn đề này hiện đang được các trường nghệ thuật ở Đài Loan tìm tòi, chưa có kết luận xác định, nhưng đã bắt đầu ảnh hưởng tới hướng quy hoạch khóa học.
+### Đổi mới phương pháp giảng dạy
 
-Sự phổ biến của công cụ số cũng mang lại một khía cạnh khác: giảng dạy từ xa và tài nguyên trực tuyến làm giảm rào cản địa lý của giáo dục nghệ thuật, mang đến một mức độ bổ sung nhất định cho giáo dục nghệ thuật ở vùng nông thôn.
+**Nền tảng giáo dục trực tuyến**
 
-### Tích hợp Khoa học Công nghệ và Nghệ thuật
+- Công nghệ giảng dạy từ xa
+- Tài nguyên học tập số
+- Triển lãm ảo và trình bày tác phẩm
 
-**Giáo dục Nghệ thuật Phương tiện Mới**
+**Kết nối với ngành công nghiệp**
 
-- Sáng tạo Hình ảnh Số
-- Nghệ thuật Cài đặt Tương tác
-- Nghệ thuật Thực tế Ảo và Thực tế Tăng cường
-- AI và Sáng tạo Nghệ thuật
+- Củng cố chương trình thực tập
+- Giáo viên cộng tác từ doanh nghiệp
+- Cơ chế hỗ trợ khởi nghiệp
 
-**Giáo dục Liên ngành**
+## Thách thức hiện đại và triển vọng tương lai
 
-- Tích hợp Nghệ thuật và Công nghệ
-- Kết hợp Nghệ thuật và Thiết kế Thương mại
-- Kết nối Nghệ thuật và Vấn đề Xã hội
+Những thách thức cấu trúc mà giáo dục nghệ thuật ở Đài Loan đang phải đối mặt bao gồm: áp lực tuyển sinh do dân số trẻ giảm, giảm số lượng giáo viên, thị trường việc làm cho nghệ sĩ sáng tạo đơn thuần hẹp hói, và bất bình đẳng nguồn lực giáo dục nghệ thuật giữa đô thị và nông thôn.
 
-### Đổi mới Phương pháp Giảng dạy
+Những thách thức này thúc đẩy các trường cần suy ngẫm lại vị thế của mình — củng cố kết nối ngành công nghiệp, mở rộng chương trình liên ngành, thúc đẩy tuyển sinh quốc tế, là những hướng ứng biến chính được quan sát thấy hiện nay[^7]。
 
-**Nền tảng Giáo dục Trực tuyến**
+Áp lực từ dân số trẻ giảm đặặc biệt lớn đối với các trường quy mô nhỏ, cách để đối phó với áp lực tuyển sinh trong khi duy trì chất lượng giáo dục là một vấn đề thực tế mà tất cả các trường đại học nghệ thuật đang cùng chung tay giải quyết.
 
-- Kỹ thuật Giảng dạy Từ xa
-- Tài nguyên Học tập Số
-- Triển lãm Ảo và Trình bày Tác phẩm
+### Phân bổ nguồn lực giáo dục
 
-**Kết nối Ngành công nghiệp**
+**Khoảng cách đô thị - nông thôn**
 
-- Tăng cường Chế độ Thực tập
-- Giảng dạy Hợp tác Giáo viên Ngành
-- Cơ chế Hướng dẫn Khởi nghiệp
+- Bất bình đẳng nguồn lực giáo dục nghệ thuật
+- Nâng cao chất lượng giáo dục nghệ thuật ở vùng sâu
+- Nền tảng số làm thu hẹp khoảng cách giáo dục
 
-## Những Thách thức Đương đại và Triển vọng Tương lai
+**Cạnh tranh quốc tế**
 
-Giáo dục Nghệ thuật ở Đài Loan đối mặt với những thách thức về cấu trúc bao gồm: Áp lực Tuyển sinh do Giảm tỷ lệ Sinh, Giảm Chức vụ Giáo viên, Thị trường Công việc Sáng tạo Thuần túy Hạn chế, cùng với Sự không cân bằng Phân bổ Tài nguyên Giáo dục Giữa Thành thị và Nông thôn.
+- Đối mặt với sự cạnh tranh từ giáo dục nghệ thuật các nước châu Á
+- Nâng cao uy tín quốc tế của giáo dục nghệ thuật Đài Loan
+- Thu hút sinh viên quốc tế đến Đài Loan học tập
 
-Những thách thức này thúc đẩy các trường tái suy ngẫm về vị trí — Tăng cường Kết nối Ngành, Mở rộng Khóa học Liên ngành, Thúc đẩy Tuyển sinh Quốc tế, là những hướng đối ứng chính được quan sát hiện nay[^7].
+### Thị trường việc làm và nhu cầu ngành công nghiệp
 
-Tác động của Giảm tỷ lệ Sinh lên các trường có quy mô nhỏ hơn là áp lực đặc biệt, làm thế nào để trong khi duy trì Chất lượng Giáo dục, ứng phó với Áp lực Tuyển sinh, là một vấn đề hiện thực mà các đại học nghệ thuật phải đối mặt chung.
+**Con đường việc làm truyền thống**
 
-### Phân bổ Tài nguyên Giáo dục
+- Số lượng vị trí giáo viên giảm
+- Thị trường sáng tạo nghệ thuật đơn thuần hẹp hói
+- Cần mở rộng kênh việc làm đa dạng
 
-**Khoảng cách Thành thị-Nông thôn**
+**Cơ hội nghề nghiệp mới**
 
-- Phân bổ Tài nguyên Giáo dục Nghệ thuật không cân bằng
-- Nâng cao Chất lượng Giáo dục Mỹ thuật Vùng Nông thôn
-- Nền tảng Số giảm Khoảng cách Giáo dục
+- Nhà thiết kế ngành công nghiệp văn hóa sáng tạo
+- Nhà sáng tạo nội dung số
+- Nhà biên tập và quản lý nghệ thuật
+- Nhà trị liệu nghệ thuật
 
-**Cạnh tranh Quốc tế**
+### Cập nhật triết lý giáo dục liên tục
 
-- Đối mặt Cạnh tranh Giáo dục Nghệ thuật từ các Nước Á châu khác
-- Nâng cao Danh tiếng Quốc tế của Giáo dục Nghệ thuật Đài Loan
-- Thu hút Sinh viên Quốc tế tới Đài Loan Học tập
+**Phương pháp giảng dạy đổi mới**
 
-### Thị trường Việc làm và Nhu cầu Ngành công nghiệp
+- Học tập hướng dự án
+- Giáo dục hướng giải quyết vấn đề
+- Học tập hợp tác liên ngành
 
-**Hướng Công việc Truyền thống**
+**Giáo dục trách nhiệm xã hội**
 
-- Giảm Chức vụ Giáo viên
-- Thị trường Sáng tạo Thuần túy Hạn chế
-- Cần mở rộng Kênh Việc làm Đa dạng
-
-**Cơ hội Công việc Mới**
-
-- Nhà thiết kế Ngành công nghiệp Sáng tạo
-- Người sáng tạo Nội dung Số
-- Curators và Quản lý Nghệ thuật
-- Trị liệu gia Nghệ thuật
-
-### Nâng cấp Liên tục Khái niệm Giáo dục
-
-**Phương pháp Giảng dạy Đổi mới**
-
-- Học tập Định hướng Dự án
-- Giáo dục Định hướng Giải quyết Vấn đề
-- Học tập Hợp tác Liên ngành
-
-**Giáo dục Trách nhiệm Xã hội**
-
-- Nghệ thuật Tham gia vào Vấn đề Xã hội
-- Nghệ thuật Công cộng và Xây dựng Cộng đồng
-- Ảnh hưởng Xã hội của Nghệ thuật
+- Nghệ thuật can thiệp vào các vấn đề xã hội
+- Nghệ thuật công cộng và thiết kế cộng đồng
+- ảnh hưởng xã hội của nghệ thuật
 
 ## Kết luận
 
-Giáo dục Nghệ thuật ở Đài Loan từ nảy sinh trong thời kỳ Nhật trị tới phát triển đa dạng ngày nay, phản ánh sự thay đổi và tiến bộ của văn hóa xã hội Đài Loan. Từ Giáo dục Sư phạm tập trung vào đào tạo Giáo viên Mỹ thuật, tới Trường Nghệ thuật Chuyên nghiệp nuôi dưỡng Nhân tài Sáng tạo, Đài Loan xây dựng một hệ thống Giáo dục Nghệ thuật Hoàn chỉnh và Đa dạng.
+Từ những hạt giống ban đầu trong thời kỳ thuộc địa Nhật cho đến sự phát triển đa dạng ngày nay, giáo dục nghệ thuật Đài Loan phản ánh sự thay đổi của xã hội và văn hóa của Đài Loan. Từ việc đào tạo giáo viên mỹ thạch thông qua giáo dục thầy mằi, đến đào tạo nghệ sĩ sáng tạo tại các trường nghệ thuật chuyên nghiệp, Đài Loan đã xây dựng một hệ thống giáo dục nghệ thuật hoàn chỉnh và đa dạng.
 
-Đối mặt với những Thách thức của Thời đại Số, Giáo dục Nghệ thuật ở Đài Loan đang chuyển đổi, nhấn mạnh Tích hợp Liên ngành, Tầm nhìn Quốc tế và Sự kết hợp Đặc trưng Bản địa. Giáo dục Nghệ thuật Tương lai sẽ càng coi trọng Tư duy Đổi mới, Sự tham gia Xã hội và Truyền lại Văn hóa, Đào tạo Nhân tài Nghệ thuật có Sức cạnh tranh Toàn cầu.
+Đối mặt với thách thức trong thời đại số, giáo dục nghệ thuật Đài Loan đang chuyển đổi, nhấn mạnh sự kết hợp liên ngành, tầm nhìn toàn cầu và đặc trưng địa phương. Trong tương lai, giáo dục nghệ thuật sẽ càng quan tâm hơn đến tư duy sáng tạo, tham gia xã hội và kế thừa văn hóa, đào tạo ra những nhà nghệ sĩ có năng lực cạnh tranh toàn cầu.
 
-Thành quả của Giáo dục Nghệ thuật ở Đài Loan, bao gồm Đào tạo ra Vô số Nghệ sĩ và Nhà thiết kế Xuất sắc, cũng như thông qua Hệ thống Đào tạo Sư phạm ảnh hưởng tới Chất lượng Giáo dục Thẩm mỹ Toàn xã hội, hai Tuyến đường này cùng Hỗ trợ cho Phát triển Sức mạnh Văn hóa Mềm của Đài Loan (Xem chi tiết trang web Chính thức của các Trường, Kế hoạch Khóa học và Tóm lược Thành quả Quản lý).
+Thành tựu của giáo dục nghệ thuật Đài Loan bao gồm việc đào tạo hàng loạt nghệ sĩ và nhà thiết kế xuất sắc, đồng thời thông qua hệ thống đào tạo giáo viên, ảnh hưởng đến chất lượng giáo dục nghệ thuật xã hội rộng hơn, hai con đường này cùng nhau tạo nền tảng cho sức mạnh mềm văn hóa của Đài Loan (chi tiết xem tại trang web chính thức của từng trường về chương trình và kết quả hoạt động).
 
-## Tài liệu Tham khảo
+**Tài liệu tham khảo mở rộng**:
 
-[^1]: [Đại học Nghệ thuật Bắc Đài Loan](https://w3.tnua.edu.tw/) — Trang web Chính thức và Tài liệu Lịch sử Trường
+- [Sự biến động trong bống lái mỹ thạch của Đài Loan](/vi/art/century-of-taiwanese-watercolor-painting) — Năm 1907, Khoa Shinnen đến Đài Loan dạy học, từ lớp học Trường Quốc ngữ trồng lên thế hệ các họa sĩ vẽ tranh nước Đài Loan
+- [Nghệ thuật đa phương tiện của Đài Loan](/vi/art/taiwan-new-media-art) — Ngoài các chương trình liên ngành của các trường nghệ thuật, cách 40 năm của nghệ thuật video và số học cách đây lên sân khấu quốc tế
+- [Nhà biên tập và sự xây dựng văn hóa nghệ thuật của Đài Loan](/vi/art/taiwanese-curators-and-artistic-cultural-construction) — Quá trình biên tập từ tên gọi chương trình học đến một ngành nghề
 
-[^2]: [Đại học Nghệ thuật Đài Nam](https://www.tnnua.edu.tw/) — Tài liệu Lịch sử Trường và Tiến trình Quản lý
+## Tài liệu tham khảo
 
-[^3]: [Đại học Quốc lập Đài Loan](https://www.ntua.edu.tw/) — Lịch sử Phát triển và Giới thiệu Các Học viện
+[^1]: [Wikipedia 〈Đại học Bắc Đài Nghệ thuật〉](https://zh.wikipedia.org/zh-tw/%E5%9C%8B%E7%AB%8B%E8%87%BA%E5%8C%97%E8%97%9D%E8%A1%93%E5%A4%A7%E5%AD%B8) — Năm 1980 thành lập bộ phận chuẩn bị, năm 1982 thành lập với ba khoa ban đầu: Nhạc học, Mỹ thạch, Kịch, năm sau thêm khoa Mỹ thuật; năm 2019, Ủy ban Giáo dục Chung và Chung hợp được tái cấu trúc thành Viện Nhân văn
 
-[^4]: [Khoa Mỹ thuật Đại học Sư phạm Quốc lập Đài Loan](https://www.art.ntnu.edu.tw/) — Lịch sử Phát triển Khoa và Thông tin Khóa học
+[^2]: [Đại học Đài Nam Nghệ thuật 〈Giới thiệu về Nam Nghệ〉](https://www.tnnua.edu.tw/p/412-1000-92.php?Lang=zh-tw) — Năm 1989 được phép lập bộ phận chuẩn bị, năm 1985 thành lập chính thức với tư cách là Trường Quốc gia Đài Nam Nghệ thuật, hiệu trưởng đầu tiên là Han Bao De, thành lập bốn khoa nghiên cứu ban đầu, năm 1993 lên cấp thành đại học
 
-[^7]: [Bảo tàng Giáo dục Nghệ thuật Đài Loan](https://www.arte.gov.tw/) — Tài liệu Nghiên cứu Chính sách Giáo dục Nghệ thuật
+[^3]: [Wikipedia 〈Đại học Đài Loan Nghệ thuật〉](https://zh.wikipedia.org/zh-tw/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E8%97%9D%E8%A1%93%E5%A4%A7%E5%AD%B8) — Tên cũ: Trường Quốc gia Nghệ thuật (1955–1960)、Trường Nghệ thuật Chuyên khoa Đài Loan (1960–1994)、Trường Đại học Nghệ thuật Đài Loan (1994–2001)、Đại học Đài Loan Nghệ thuật (từ năm 2001)
+
+[^4]: [Khoa Mỹ thạch Đại học Thầy mằi Đài Loan 〈Lịch sử khoa〉](https://www.art.ntnu.edu.tw/index.php/about/history/) — Năm 1946 thành lập Trường Thầy mằi Quốc gia Đài Loan, tháng 9 năm 1947 thành lập khoa vẽ tranh và công việc nghệ thuật, tháng 8 năm 1948 thành lập khoa nghệ thuật, các hiệu trưởng lịch sử bao gồm Mo Da Yuan (莫大元)、Hoàng Quân Tú (黃君璧)、giảng viên nổi tiếng bao gồm Liễu Kỷ Thuyên (廖繼春)、Phạt Tâm Thượng (溥心畬)
+
+[^7]: [Bảo tàng Giáo dục Nghệ thuật Đài Loan](https://www.arte.gov.tw/) — Nghiên cứu dữ liệu về chính sách giáo dục nghệ thuật
