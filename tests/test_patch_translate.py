@@ -51,3 +51,23 @@ def test_frontmatter_debt_flags_tags_collapsed_into_one_string():
     assert MODULE.frontmatter_debt(zh, fine) == []
     # zh 本來就只有一個標籤：譯文一個標籤是正常的
     assert MODULE.frontmatter_debt({"tags": ["泰雅族"]}, {"tags": ["タイヤル族"]}) == []
+
+
+def test_chapter_prompt_carries_bare_yuan_money_rule(tmp_path):
+    """2026-10-03：「裸的元＝新台幣」只寫進整篇引擎，patch 章節提示沒有；hi〈台灣
+    石虎保育〉走 patch，兩個互不相干的模型都把「兩萬元」寫成 युआन。規則住在
+    st.money_rule()，每條送正文給模型的路都要帶到。"""
+    systems = []
+
+    class Backend:
+        name = "stub"
+
+        def translate(self, system, user, **_kwargs):
+            systems.append(system)
+            return re.sub(r"[一-鿿，。]+", "translated prose ", user)
+
+    zh_chapter = "## 補助\n\n每公頃最高兩萬元的補助，拍到石虎再加一萬元，長度要夠過比值下限。" * 3
+    MODULE.translate_regular_chapter(zh_chapter, "hi", Backend(), [], None, None, {}, tmp_path)
+
+    assert systems and "New Taiwan dollars" in systems[0]
+    assert "युआन" in systems[0]

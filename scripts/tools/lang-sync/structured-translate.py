@@ -72,6 +72,25 @@ _or = _import_module("openrouter-translate")
 load_lang_guide_sections = _or.load_lang_guide_sections
 LANG_NAMES = _or.LANG_NAMES
 
+
+def money_rule(lang_name: str) -> str:
+    """裸的「元」是新台幣——三條引擎共用的一句提示。
+
+    2026-10-01 這條規則只寫進了 translate.py（整篇引擎），分段引擎 Phase B 與
+    patch-translate 的章節提示都沒有。10-03 夜班量到：hi〈台灣石虎保育〉走 patch
+    路徑，laguna 與 gemma4 兩個互不相干的模型都把「每公頃最高兩萬元」寫成
+    `20,000 युआन`，幣別閘門正確擋下、重試結果一樣。閘門會擋不會教，教的那句要
+    出現在每一條會送正文給模型的路上——所以住在這裡，三處 import，不各抄一份。
+    """
+    return (
+        "Money: in this source, a bare 元／萬元／億元 amount is New Taiwan dollars. "
+        "Write it as NT$ plus the number (NT$46,977; NT$3.3 million) or with an "
+        f"explicit \"New Taiwan dollar\" noun in {lang_name}. NEVER write a bare "
+        "yuan／юань／يوان／युआन／元 (readers take it as Chinese renminbi) and never "
+        f"convert it into {lang_name}'s own national currency. Only 人民幣 in the "
+        "source means renminbi."
+    )
+
 _verify = _import_module("verify-translation")
 PASSTHROUGH = _verify.PASSTHROUGH  # 同源 SSOT — author/date/featured/readingTime/
 # lastVerified/lastHumanReview/category/image/imageCredit/difficulty
@@ -554,6 +573,7 @@ def translate_frontmatter(zh_fm: dict, zh_content: str, zh_path: str, lang: str,
         "- 'tags': translate each tag value; the array length MUST stay identical.\n"
         "- 'imageAlt' (if present): translate the image alt text as a plain "
         "sentence — no markdown, no quotes added.\n"
+        f"- {money_rule(lang_name)}\n"
     )
     user = json.dumps(payload, ensure_ascii=False)
 
@@ -1268,7 +1288,8 @@ def translate_body_chunks(chunks: list[str], lang: str, backend, fn_glossary: di
         "failure, not a preserved title.\n"
         "5. Output ONLY the translated markdown. No commentary, no code fence, no "
         "explanation, no reasoning/chain-of-thought before or after the translation "
-        "— just the translated markdown body, nothing else.\n\n"
+        "— just the translated markdown body, nothing else.\n"
+        f"6. {money_rule(lang_name)}\n\n"
         f"Target-language rules (extracted from docs/editorial/per-language/"
         f"TRANSLATION-{lang}.md):\n{guide}\n\n{glossary_text}"
     )

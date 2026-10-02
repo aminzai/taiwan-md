@@ -703,3 +703,20 @@ def test_frontmatter_provenance_uses_status_py_hashes():
                                          collections.defaultdict(int))
     assert f"sourceContentHash: '{MODULE._status.body_hash(zh_content)}'" in block
     assert f"sourceBodyHash: '{MODULE._status.body_hash_pure(zh_content)}'" in block
+
+
+def test_body_prompt_carries_bare_yuan_money_rule():
+    """分段引擎 Phase B 的正文提示也要帶「裸的元＝新台幣」（2026-10-03，同 patch）。"""
+    systems = []
+
+    class Backend:
+        name = "stub"
+
+        def translate(self, system, user, **_kwargs):
+            systems.append(system)
+            return re.sub(r"[一-鿿，。]+", "translated prose ", user)
+
+    zh_chunk = "## 補助\n\n每公頃最高兩萬元的補助，拍到石虎再加一萬元，長度要夠過比值下限。" * 3
+    MODULE.translate_body_chunks([zh_chunk], "hi", Backend(), {}, {})
+
+    assert systems and "New Taiwan dollars" in systems[0]
