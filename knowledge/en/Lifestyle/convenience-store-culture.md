@@ -1,17 +1,17 @@
 ---
 title: "Taiwan's Convenience Store Culture"
-description: "A convenience-store kingdom with one of the world's highest densities, where 7-Eleven and FamilyMart's localized innovations have redefined modern lifestyles"
+description: "A kingdom of convenience stores at the forefront of global density, where 7-Eleven and FamilyMart's localization innovations redefine modern lifestyles"
 date: 2026-03-19
 category: 'Lifestyle'
 tags:
   [
-    'Life',
-    'Convenience Stores',
+    'lifestyle',
+    'convenience stores',
     '7-Eleven',
     'FamilyMart',
-    'Fresh Food',
-    'Convenience Store Culture',
-    'Modern Life',
+    'fresh food',
+    'convenience store culture',
+    'modern life',
   ]
 subcategory: '城市生活'
 author: 'Taiwan.md'
@@ -20,164 +20,258 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 readingTime: 7
 translatedFrom: 'Lifestyle/台灣便利商店文化.md'
-sourceCommitSha: 'd520299ba'
-sourceContentHash: 'sha256:15b1d886569defdd'
-sourceBodyHash: 'sha256:5c3b9cff7c172cb0'
-translatedAt: '2026-07-28T19:58:03.041679+00:00'
+sourceCommitSha: '42580d097'
+sourceContentHash: 'sha256:33d2f6cba1a3b0f2'
+sourceBodyHash: 'sha256:9a55ab468883045f'
+translatedAt: '2026-10-03T03:14:53+08:00'
 ---
 
 # Taiwan's Convenience Store Culture
 
-On almost any street corner in Taiwan, you are never more than a few minutes away from a convenience store. With roughly one store for every 2,000 residents, Taiwan boasts one of the highest store densities in the world, trailing only South Korea[^2]. From morning coffee and grab-and-go breakfast sandwiches to late-night ramen and craft beer, from paying utility bills and picking up e-commerce parcels to printing documents and mailing packages, convenience stores have long evolved beyond simple retail outlets. They serve as the indispensable civic nervous system and everyday life hubs of modern Taiwan.
+Walking the streets of Taiwan, there is one convenience store for every 1,659 people[^5], a density second only to South Korea[^2][^3]. From morning coffee and sandwiches to late-night noodles and beer, from bill payments and pickup services to photocopying and mailing, convenience stores have become far more than just "stores"—they are indispensable "life centers" in the lives of Taiwanese people.
 
-Illuminated around the clock, these 24-hour storefronts anchor the nocturnal rhythm of Taiwanese cities. Whether welcoming early commuters catching the first morning bus, tech engineers trudging home after midnight shifts, or students craving a late-night bite, the convenience store always keeps its brightly lit doors open. More than a triumph of retail logistics, it reflects Taiwanese society's relentless pursuit of friction-free living—and stands as a defining hallmark of contemporary urban culture.
+Convenience stores open 24 hours a day illuminate every night in Taiwan. Whether it's office workers rushing to catch the early bus, engineers working overtime late into the night, or students hungry at midnight, convenience stores always have their doors open for you. This is not only a success of business models but also a perfect reflection of the Taiwanese pursuit of ultimate convenience and modern urban life.
 
-## The Introduction and Localization of Convenience Stores
+## Introduction and Localization of Convenience Stores
 
-### From Japanese Import to Taiwanese Innovation
+### From Japan's Import to Taiwan's Innovation
 
-Taiwan's convenience store landscape took root in the late 1970s, drawing initial inspiration from Japanese retail models before embarking on its own trajectory of hyper-local innovation.
+Taiwan's convenience stores started in the late 1970s, with two major brands—one from the United States and one from Japan:
 
-**The Arrival of 7-Eleven:**
-In 1978, Uni-President Enterprises acquired the franchising license for 7-Eleven in Taiwan, opening its inaugural branch on Taipei's Chang'an East Road on February 9, 1980[^1]. To Taiwanese consumers at the time, the concept of round-the-clock retail was entirely alien; intrigued passersby would peer through storefront windows just to marvel at a shop that "never locked its doors."
+**7-Eleven's Entry:**
+In April 1978, Uni-President Enterprises raised capital to establish "Uni Supermarket," and in October of the following year, signed a contract with the parent company of 7-Eleven, Southland Corporation, to introduce management techniques. In February 1980, the first 7-ELEVEN "Changan Store" opened. Initially, there was no 24-hour operation, which only began in 1983[^1].
 
-**Early Hurdles:**
+**Initial Challenges:**
 
-- A nascent market with no established habit of nocturnal shopping
-- Limited inventory and unfamiliar product offerings
-- Staggering operational overhead in maintaining 24/7 staffing
+- Nighttime consumption habits had not yet been established
+- Limited product selection
+- Long-term losses led to a merger back into Uni-President's supermarket department in 1982, and re-independence in 1987[^1]
 
-**The Tipping Point:**
-Throughout the 1980s, Taiwan's economic boom spurred rapid urbanization and a surge in dual-income households. As modern schedules tightened, convenience transitioned from a novelty into an essential utility, laying fertile ground for the store's rapid expansion.
+**Turning Point:**
+In the 1980s, Taiwan's economy took off, urbanization developed rapidly, and dual-income families increased, significantly raising the demand for convenience. Convenience stores perfectly met the needs of busy modern people.
 
-### FamilyMart's Entry & The Duopoly Dynamic
+### FamilyMart's Follow-up
 
-In 1988, FamilyMart entered the Taiwanese market, sparking a spirited duopoly with 7-Eleven:
+In 1988, a Taiwanese company partnered with Japan's FamilyMart to establish FamilyMart Convenience Stores. The first store opened in December on Guangfu South Road in Taipei[^9], forming a duopoly confrontation with 7-Eleven:
 
-- **7-Eleven**: Positioned itself as an all-encompassing service nexus under the banner *"Always Open, 7-Eleven."*
-- **FamilyMart**: Cultivated an approachable, community-oriented warmth with its signature tagline *"FamilyMart is your home"* (全家就是你家).
+**Differentiation Strategy:**
 
-This fierce yet constructive rivalry drove relentless experimentation, continually raising industry standards across food quality, digital services, and spatial layout.
+- **7-Eleven**: Emphasizing convenience and extensive services
+- **FamilyMart**: Warm and community-oriented image
 
-## World-Leading Convenience Store Density
+**Competition Driving Innovation:**
+The healthy competition between the two major brands has driven the rapid evolution of the entire industry, with significant improvements in product categories, service items, and store design.
 
-### Record-Breaking Density
+## Second Only to South Korea in Convenience Store Density
 
-By 2026, Taiwan solidified its reputation as one of the world's most densely saturated convenience store markets:
+### Amazing Numbers
+
+According to the Ministry of Economic Affairs' statistics in 2025[^5]:
 
 **Statistics:**
 
-- **Total Store Count**: Exceeding 13,000 locations nationwide
-- **Per Capita Ratio**: One store for approximately every 2,000 citizens
-- **Spatial Concentration**: An average of 3.3 stores per square kilometer
+- **Total Number of Stores**: 14,236 (August 2025)
+- **Population Density**: One store for every 1,659 people (July 2025)
+- **Geographic Density**: One store every 2.57 square kilometers, approximately 0.4 stores per square kilometer
 
-**Global Perspective:**
-Comparative retail data highlights an intense East Asian affinity for convenience retail compared to Western counterparts: while South Korea leads globally with roughly one store per 900 people, Taiwan follows closely at 1:2,000, and Japan at 1:2,200 (in contrast to the United States at roughly 1:8,000). Taiwan further distinguishes itself with universal 24-hour schedules, extensive seated dining areas, and a breadth of civic services unmatched elsewhere.
+**International Comparison:**
 
-### Patterns of Density Distribution
+South Korea has the highest density, with about one store for every 950 people at the end of 2023[^2]; Taiwan has about one store for every 1,659 people, and Japan has about one store for every 2,180 people[^5]. The United States also has many convenience stores, with approximately 152,000 stores in 2025, one store for every 2,233 people, comparable to Japan[^6].
 
-- **Metropolitan Density**: In urban cores like Taipei and New Taipei City, densities peak at nearly one store per 1,000 residents, often placing competing brands across the same street intersection.
-- **Rural Lifelines**: In remote agricultural or mountain hamlets, a single convenience store frequently acts as the sole 24-hour outpost for food, banking, and emergency supplies.
-- **Transit Hub Anchors**: Seamlessly embedded into MRT stations, bus interchanges, hospital lobbies, and office concourses.
+**Taiwan's Characteristics:**
+Taiwan not only has high density but also longer business hours (mostly 24 hours) and more diversified services.
+
+### Distribution Characteristics of Density
+
+**Urban Concentration:**
+
+- **Taipei City**: Highest density, approximately 6.27 stores per square kilometer in 2019[^3]
+- **New Taipei City**: Close behind
+- **Kaohsiung City**: Major southern city
+
+**Rural Penetration:**
+Even in towns with lower populations, convenience stores play an important role as community service centers, sometimes being the only 24-hour store in the area.
+
+**Traffic Location Layout:**
+
+- Around MRT stations
+- Next to bus stops
+- Near schools and hospitals
+- First floor of office buildings
 
 ## Competition and Innovation Between 7-Eleven and FamilyMart
 
-### Differences in Brand Positioning
+### Brand Positioning Differences
 
 **7-Eleven:**
-Under the ethos *"7-ELEVEn Always Here for You,"* the chain builds its identity around large-format experiential flagships (such as the multi-brand "Big7" stores) and its ubiquitous **ibon** interactive kiosks. Beverage pillars like **City Café** and the nostalgic **Slurpee** (思樂冰) specifically target bustling urban commuters and students.
+
+7-Eleven has used slogans such as "Your Good Neighbor," "It's Good to Have 7-Eleven," and "Always Open"[^4]. The ibon multimedia service station is a core differentiator, while City Café coffee and Slurpee target urban office workers and students.
 
 **FamilyMart:**
-FamilyMart cultivates a warm, neighborly persona through its iconic slogan *"FamilyMart is your home"* (全家就是你家). Its ecosystem revolves around **FamiPort** kiosks and **Let's Café**, alongside culinary cult favorites like rotating seasonal soft-serve ice cream (Fami!ce 霜淇淋) and steaming roasted sweet potatoes, which draw families and neighborhood regulars alike.
 
-### Pioneering Service Ecosystems
+FamilyMart has created a warm image with the slogan "FamilyMart Is Your Home." FamiPort and Let's Café are the core services, with ice cream and roasted sweet potatoes attracting family consumers and community residents.
 
-- **Digital & Contactless Payments**: Widespread acceptance of contactless transit smartcards (**EasyCard** / **iPASS**), mobile wallets, and Apple Pay paved the way for retail digitization long before smartphone apps became universal.
-- **App Ecosystems**: Gamified loyalty programs, digital stamp collection, cross-store coffee redemptions, and group-buying pre-orders transform smartphone apps into daily habit-forming tools.
-- **Autonomous Retail Laboratories**: Experimental concepts like 7-Eleven's **X-Store** test RFID inventory scanning, facial-recognition entry, and automated self-checkout.
+### Innovation Service Competition
 
-## The Fresh-Food Revolution and Quality Upgrading
+**Digital Services:**
 
-### Elevating Convenience Food to Full Meals
+- **Mobile Payment**: EasyCard, iPASS, Apple Pay
+- **App Integration**: Point accumulation, discount push, pre-order services
+- **Unmanned Store Experiments**: X-Store, tech concept stores
 
-Perhaps the most transformative innovation of Taiwanese convenience stores was redefining "ready-to-eat" food from emergency snacks into legitimate, satisfying alternatives to restaurant dining:
+**Logistics Services:**
 
-- **The Localization of Oden (關東煮)**: Introduced by 7-Eleven in 1988, Japanese simmered oden was quickly adapted to local palates with Taiwanese staples like white daikon radish, fried tofu pouches, blood cakes, and pork meatballs, turning simmering metal broth vats into winter comfort staples.
-- **The Bento Revolution (超商便當)**: Transitioning from rigid Japanese lunchboxes to hearty Taiwanese flavor profiles (such as braised pork chops and railway-style chicken leg bentos). Backed by central kitchens and strict cold-chain logistics, microwave stations ensure office workers can enjoy piping-hot meals in under two minutes at any hour.
-- **Artisanal Baking & Co-Branded Desserts**: In-store fresh bakeries and high-profile collaborations with celebrity chefs, boutique cafes, and Michelin-starred restaurants have sparked an accessible afternoon tea culture directly within neighborhood aisles.
+- **Store-to-Store**: Convenience stores become logistics transfer stations
+- **Cold Chain Delivery**: Fresh food home delivery
+- **Last Mile**: Solving the problem of e-commerce delivery
 
-### Rigorous Quality Control
+**Financial Services:**
 
-Consistency across thousands of franchise outlets relies on centralized ingredient procurement, standardized preparation protocols, and precision temperature-controlled logistics fleets. Comprehensive supplier audits, digital batch-traceability systems, and systematic clearance of near-expiration items (pioneered by automated time-based discount tags) maintain food safety across millions of daily meals.
+- **Bill Collection and Payment**: Utility bills, phone bills, insurance fees
+- **ATM Services**: 24-hour withdrawal and transfer
+- **Ticket Sales**: Concert tickets, transportation tickets
 
-## An Integrated Platform for Everyday Services
+## Fresh Food Revolution and Quality Improvement
 
-### The Ultimate Bill-Payment Hub (代收代付)
+### From Snacks to Meals
 
-Convenience stores fundamentally transformed civic bill-paying habits in Taiwan:
+The biggest innovation of Taiwan's convenience stores is elevating fresh food to a level that can replace meals:
 
-- **Comprehensive Coverage**: Over-the-counter and kiosk payment support for municipal utilities (water, electricity, gas), telecom bills, health and life insurance premiums, traffic fines, property taxes, and even tuition fees.
-- **Unrivaled Frictionless Access**: Eliminating banking-hour constraints, offering instant barcode-scanned receipts, and making financial compliance accessible across generations within walking distance.
+**Hot Pot Culture:**
 
-### E-Commerce Logistics & Store-to-Store Delivery (店到店)
+In 1997, when the number of stores exceeded 1,500, 7-ELEVEN began selling rice balls and hot pot[^7]. Hot pot later became a popular comfort food in winter, with affordable prices.
 
-- **Deep E-Commerce Integration**: Major e-commerce platforms (PChome 24h, momo, Shopee, and cross-border platforms like Taobao) integrate convenience store pickups as their core fulfillment backbone.
-- **Last-Mile Efficiency**: "Store-to-store" (店到店) pickup and cash-on-delivery (COD) solve the pain points of unattended home delivery and daytime parcel misses, dramatically lowering logistics failure rates for merchants and shoppers alike.
+**Bento Revolution:**
 
-### Micro-Civic & Digital Services
+Convenience store bento evolved from the Japanese model to Taiwanese flavors. Centralized kitchens uniformly produce and cold chain distribution ensures freshness, allowing busy office workers to get a hot meal anytime through microwave heating.
 
-Kiosks like ibon and FamiPort double as civic terminals—handling high-speed rail and intercity bus ticketing, concert admissions, high-res cloud printing, document scanning and faxing, ID photo printing, and government administrative form pickups, turning the corner store into a localized municipal sub-station. In addition, 24-hour ATMs, foreign currency exchanges, and point-of-sale banking support give every branch the functionality of a neighborhood micro-bank.
+**Bread and Pastries:**
 
-## A 24-Hour Lifestyle Culture
+Freshly baked bread and seasonal limited-time products attract a large number of repeat customers. Desserts co-branded with well-known brands have driven the rise of the convenience store afternoon tea culture.
 
-### Nocturnal Sanctuaries for Night Owls
+### Quality Control System
 
-Universal 24-hour operation has fostered a unique nocturnal ecology across Taiwan:
+Centralized kitchens uniformly purchase ingredients and use standardized production processes to ensure quality consistency across all stores. Cold chain logistics are delivered by temperature-controlled vehicles on schedule, combined with strict inventory turnover management and expiration product handling mechanisms. Food safety control covers supplier audits, product traceability systems, regular sampling tests, and consumer complaint handling, forming a complete food safety control system.
 
-- **Diverse Late-Night Foot Traffic**: Night-shift professionals (nurses, security guards, taxi drivers), overtime tech engineers, cramming students, and late-night strollers all gravitate toward the familiar glow.
-- **After-Hours Staples**: Hot instant noodles, microwavable dumplings, energy drinks, snacks, and craft beer cater to solitary midnight unwindings or emergency household runs.
+## Integrated Platform for Life Services
 
-### The Urban Lighthouse Effect
+### Payment Service Center
 
-- **Civic Reassurance & Safety**: Like lighthouses in the dark, brightly lit storefronts provide psychological security and physical safety for pedestrians navigating quiet streets at night.
-- **Third Spaces for Community**: Generous in-store seating areas serve as casual meeting points, temporary shelters while waiting for morning transit, study nooks, and low-pressure social spaces for solo city dwellers.
+Convenience stores have completely changed the payment habits of Taiwanese people:
+
+**Collection Items:**
+
+The collection scope covers utilities (electricity, water, gas), communication fees (mobile phones, internet, cable TV), various insurance fees, as well as real estate tax and property tax payments.
+
+**Convenience Advantages:**
+
+The advantage of paying at convenience stores is that it is not limited by bank business hours, with dense locations and easy payment, user-friendly interfaces suitable for all ages, and immediate receipt printing.
+
+### Logistics Pickup Point
+
+**E-commerce Cooperation:**
+
+Major e-commerce platforms are deeply integrated with convenience stores: PChome 24h provides store-to-store services, momo shopping network, and Shopee support convenience store cash on delivery, and Taobao purchases also handle the last mile of cross-border e-commerce delivery through convenience stores.
+
+**Logistics Advantages:**
+
+Convenience store pickup solves the inconvenience of receiving goods, with flexible pickup times, reducing logistics costs, and improving delivery success rates, benefiting both e-commerce platforms and consumers.
+
+### Digital Life Services
+
+Ticket sales cover concerts, movies, high-speed rail and train transportation tickets, amusement park tickets, as well as parking fee payments and fine payments, almost becoming the most convenient ticket outlet in Taiwan. Copy and print services provide black and white color copying, document scanning and faxing, and ID photo shooting. In terms of financial services, ATM withdrawals and transfers, credit card bill payments, and insurance fee collections make convenience stores function like mini-banks.
+
+## 24-Hour Life Culture
+
+### Night Owl Shelter
+
+The 24-hour operation of Taiwan's convenience stores has created a unique nighttime culture:
+
+**Late Night Customer Groups:**
+
+Late-night customers are mainly night shift workers (nurses, security guards, taxi drivers), engineers working overtime, media workers, exam students, and night owls who cannot sleep, forming a unique customer ecology during the late-night period of convenience stores.
+
+**Late Night Products:**
+
+Late-night products are mainly instant noodles and microwave foods, with coffee and stimulants supplementing energy, snacks and beer being common choices for late-night solitude, and emergency purchases of daily necessities are also important needs of late-night customers.
+
+### Urban Lighthouse Effect
+
+**Safety Provision:**
+The bright lights of convenience stores in the dark night serve as lighthouses, providing a sense of security and warmth for people on the road at night.
+
+**Social Spaces:**
+
+- In-store seating areas serve as temporary rest spaces
+- Gathering places for young people at night
+- Temporary shelters for waiting for cars or people
+- Alternative social spaces for solitary individuals
+
+**Urban Rhythm Adjustment:**
+In the fast-paced urban life, convenience stores provide a space for pause, allowing people to take a short break while shopping.
 
 ## Social and Cultural Impact
 
-### Shifts in Daily Living
+### Changes in Lifestyle
 
-Convenience stores have fundamentally reshaped Taiwanese consumer habits—replacing weekly bulk shopping with frequent, micro-purchases tailored to immediate needs. Solo dining has normalized, meal schedules have loosened, and affordable fresh-ground coffee (via brands like City Café) democratized café culture across all demographics.
+Shopping habits have shifted from bulk purchases to small and frequent purchases, with immediate needs met immediately, and brand loyalty giving way to convenience. In terms of eating patterns, single-person meals have increased, the acceptance of microwave food has improved, and meal times have become more flexible. In the social aspect, convenience stores have become relaxed places for dating and gatherings, and coffee brands like City Café have sparked coffee culture in convenience stores, with store clerks and regular customers forming unique micro-community interactions.
 
-### Civic Lifelines and Economic Footprint
+### Economic and Social Effects
 
-- **Employment Engine**: Directly employing over 150,000 workers nationwide, offering flexible hours for students and second-career avenues for older workers.
-- **Disaster Resilience & Community Support**: In typhoon seasons or remote mountain areas, the local convenience store serves as an emergency rationing hub, communication station, and age-friendly community touchpoint.
+Convenience stores provide a large number of flexible working hours job opportunities and have become a channel for middle-aged and elderly people to re-employ. In terms of community services, convenience stores in remote areas are often the only 24-hour life support center, and they also play an important role in elderly-friendly services and as shelters during typhoons and other disasters. In terms of urban development, the density of convenience stores has become one of the indicators of whether a community's functions are complete, and it has brought nighttime vitality to the city.
 
-## Digital Transformation and Future Horizons
+### Cultural Identity Symbol
 
-- **Tech Frontiers**: Rollouts of RFID inventory systems, AI-driven predictive replenishment, automated self-checkout, and unmanned concept stores (such as 7-Eleven's X-Store).
-- **Sustainability Imperatives**: Phasing out single-use plastics, optimizing cold-chain energy efficiency, introducing dynamic time-based markdown systems to combat food waste, and expanding barrier-free universal store design.
+**Taiwan's Characteristics:**
+The density and service quality of convenience stores have become a unique local culture in Taiwan, and a life experience that foreign tourists must try when visiting Taiwan.
 
-## The Cultural Essence of Taiwanese Convenience Stores
+**International Influence:**
+Taiwan's convenience store model has been learned and borrowed by other countries, becoming a successful case of soft power export.
 
-The extraordinary success of Taiwan's convenience store culture reflects a society's relentless pursuit of functional efficiency interwoven with genuine human warmth. It stands as a textbook triumph of localization: adapting foreign retail models to local habits, transforming a simple convenience store into the beating civic heart of modern Taiwanese life.
+## Digital Transformation and Future Development
 
-Behind Taiwan's world-leading store density lies an entire generation's lived experience—where convenience is not just a commercial service, but a shared cultural aesthetic.
+### Technological Application Innovation
 
-**Further Reading**:
+In terms of unmanned stores, 7-ELEVEN began testing X-STORE in 2018, which combines facial recognition, electronic labels, and self-checkout[^8]. Self-checkout systems have quickly become popular, and AI product recommendations have also started to go online. On the logistics side, unmanned delivery vehicles and robot warehouse management are being tested, and big data optimization of delivery routes and predictive restocking have been implemented in some stores. In terms of mobile integration, one-stop APP services, mobile payment popularity, and personalized recommendations allow digital store experiences to be deeply integrated with physical services.
 
-- [Taiwanese Sensibility: Taiwanese Aesthetics Through Korean Eyes](/en/culture/taiwanese-sensibility) — Convenience stores glowing into the late night are quintessential scenes of "대만감성" (Taiwanese sensibility) through international lenses.
-- [Uniform Invoices: The 1951 Paper That Turned Everyone into a Tax Auditor](/en/economy/taiwan-uniform-invoice) — Convenience store checkouts represent the ultimate daily frontier for Taiwan's national cloud invoice lottery system.
-- [Taiwan Enterprise: Uni-President Enterprises](/en/economy/taiwan-enterprise-uni-president) — The retail and food conglomerate behind 7-Eleven, evolving from instant noodles into a ubiquitous retail empire.
+### Sustainable Operation Challenges
+
+In terms of environmental protection, reducing plastic bag usage, handling food waste, improving energy efficiency, and greening packaging materials are the main issues. Labor issues are under pressure from labor market tightening to comply with labor regulations and improve salary and benefits. On the social responsibility front, elderly-friendly design, barrier-free environment construction, and community public welfare participation are all items that operators cannot ignore in brand image competition.
+
+### Future Development Trends
+
+The direction of service deepening includes health management integration, expansion of financial insurance products, and transforming convenience stores into venues for community cultural activities. Channel integration emphasizes the integration of physical and virtual, and the goal of a one-stop service platform under the concept of the living circle is the next step. In terms of international expansion, Taiwan's convenience store service model has been referenced by many Asian markets, and technical systems and brand management knowledge are also potential export items.
+
+## Cultural Implications of Convenience Store Culture
+
+The success of Taiwan's convenience store culture reflects this society's pursuit of ultimate convenience and adaptability to modern life. It not only meets the practical needs of urban residents but also creates a unique lifestyle aesthetic.
+
+From the first cup of coffee in the morning to the last bowl of noodles at night, convenience stores witness the trajectory of a Taiwanese person's daily life. It is a microcosm of modern Taiwanese society, embodying the cultural characteristics of efficiency and warmth coexisting.
+
+In the tide of globalization, Taiwan's convenience store culture has become a successful case of localization. It proves that foreign cultures can take root and grow in new soil through innovation and adaptation, and even influence the world in return. As of 2026, Taiwan remains one of the regions with the highest convenience store density in the world, and behind this number is a generation's expectation of "convenience at any time" in life.
+
+**Extended Reading**:
+
+- [Taiwanese Sentiment: Do We Need to Like Our Old Houses First Before Saying They're Beautiful?](/en/culture/taiwanese-sensibility) — The brightly lit convenience stores at night are also one of the daily scenes that Taiwanese people take for granted and rarely pay attention to
+- [Receipts: The Paper That Turned Everyone into Tax Inspectors in 1951](/en/economy/taiwan-uniform-invoice) — The most common scenario for using e-receipt carriers is convenience stores, where every checkout is the last mile of daily tax mobilization
+- [Taiwanese Enterprises: Uni-President Enterprise](/en/economy/taiwan-enterprise-uni-president) — The Uni-President Group behind 7-ELEVEN, growing from a pack of Uni Noodles into a retail empire that contains a day in the life of Taiwanese people
 
 ## References
 
-[^1]: President Chain Store Corporation official website, https://www.7-eleven.com.tw/
+[^1]: [Uni-President Convenience Store — Company Introduction and Historical Timeline](https://www.7-11.com.tw/Company/esg/aboutus.aspx) — April 1978: Established Uni Supermarket; October 1979: Signed contract with Southland Corporation; February 1980: First 7-ELEVEN Changan Store opened; November 1982: Merged back into parent company's supermarket department; 1983: Started 24-hour operation; July 1987: Re-independent
 
-[^2]: Public Television Service News, "South Korea's Convenience Store Density Ranks First in the World," https://news.pts.org.tw/article/706230
+[^2]: [PTS News Network — Number of Stores Surpasses McDonald's Global Branches; South Korea's Convenience Store Density Surpasses Taiwan and Japan, Ranking First in the World](https://news.pts.org.tw/article/706230) — Citing CNN and the Korean Convenience Store Industry Association: At the end of 2023, South Korea had over 55,200 stores, with one store for every 950 people
 
-[^3]: Liberty Times Finance, "Taiwan's Convenience Store Density Ranks Second in the World," https://ec.ltn.com.tw/article/breakingnews/2385333
+[^3]: [Liberty Times — Taiwan's Convenience Store Density Ranks Second in the World; Taipei City Has 6.27 Stores per Square Kilometer (2020-08-07)](https://ec.ltn.com.tw/article/breakingnews/3252852) — Fair Trade Commission Investigation: Taiwan's density is second only to South Korea, with an average of 0.33 stores per square kilometer, and Taipei City has the highest at 6.27 stores per square kilometer
 
-[^4]: FamilyMart official website, https://www.family.com.tw/
+[^4]: [Wikipedia — Uni-President Convenience Store](https://zh.wikipedia.org/zh-tw/%E7%B5%B1%E4%B8%80%E8%B6%85%E5%95%86) — Advertising slogans include "Your Good Neighbor," "It's Good to Have 7-Eleven" (discontinued in December 2020), "Always Open, 7-Eleven" (since 2007)
 
-[^5]: Department of Statistics, Ministry of Economic Affairs, retail industry statistics, https://www.moea.gov.tw/
+[^5]: [Ministry of Economic Affairs — Convenience Store Press Release (2025)](https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=1&menu_id=40&news_id=120778) — August 2025: 14,236 convenience stores; July 2025: One store for every 1,659 people, one store every 2.57 square kilometers; Japan: One store for every 2,180 people, one store every 6.68 square kilometers
+
+[^6]: [NACS — U.S. Convenience Store Count Stands at 152,255 (2025-01-31)](https://www.convenience.org/Media/Press-Releases/2025-Press-Releases/U-S-Convenience-Store-Count-Stands-at-152,255) — United States: 152,255 convenience stores, one store for every 2,233 people
+
+[^7]: [Common Health Magazine Reprinted from China Times — Xu Zhongren on 7-ELEVEN Product Development](https://www.storm.mg/lifestyle/4861642) — In 1997, when the number of stores exceeded 1,500 and Uni-President was listed on the stock exchange, new products rice balls and hot pot were added
+
+[^8]: [iThome — Uni-President Convenience Store Unmanned Store X-STORE Internal Testing (2018-01-29)](https://www.ithome.com.tw/news/120987) — Combining OPENPOINT membership, iCash, facial recognition, electronic labels, and self-checkout POS
+
+[^9]: [Wikipedia — FamilyMart Convenience Store](https://zh.wikipedia.org/zh-tw/%E5%85%A8%E5%AE%B6%E4%BE%BF%E5%88%A9%E5%95%86%E5%BA%97) — August 18, 1988: Established by a Taiwanese company and Japan's FamilyMart headquarters; December 2, 1988: First store "Guangfu Store" opened; slogan "FamilyMart Is Your Home"
