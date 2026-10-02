@@ -298,7 +298,10 @@ def build(lang: str) -> dict:
                 "整張表的資訊歸零；同篇的 ar 版寫 `豆، 趙` 就是對的。"
                 "還在報告裡寫「漢姓保留漢字」——實際全篇只剩 11 個漢字。"
             ),
-            "passthrough": "sporeLinks / researchReport / image / imageCredit / imageLicense / imageSource / relatedDiary / date / readingTime / featured / lastVerified / lastHumanReview 原樣保留，不要靜默丟掉",
+            # rationale 2026-10-03 補進來：它是 zh 編輯室的寫作理由（why_this_hook 等四鍵），
+            # 全庫 1,464 份譯文原樣保留中文、128 份被翻掉——這張清單沒列它，verify-translation
+            # 也不查，同晚兩隻 agent（en、hi〈台灣科技說故事〉）都把它翻了，閘門全綠。
+            "passthrough": "sporeLinks / researchReport / rationale（整塊中文原樣照抄，不要翻）/ image / imageCredit / imageLicense / imageSource / relatedDiary / date / readingTime / featured / lastVerified / lastHumanReview 原樣保留，不要靜默丟掉",
             "translatedFrom": "逐字照抄 frontmatter_placeholder 的值，byte-equal，繁體字不可換成任何異體字",
         },
         "body_rules": {
