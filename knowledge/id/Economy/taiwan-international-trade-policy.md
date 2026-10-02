@@ -1,6 +1,6 @@
 ---
-title: 'Kebijakan Perdagangan Internasional Taiwan: Mencari Posisi di Tengah Arus Globalisasi'
-description: 'Sebagai ekonomi berorientasi perdagangan, Taiwan mendorong strategi perdagangan beragam seperti keanggotaan CPTPP dan Kebijakan Baru Menuju Selatan, mencari terobosan ruang ekonomi internasional di bawah batasan geopolitik.'
+title: 'Kebijakan Perdagangan Internasional Taiwan: Mencari Posisi di Tengah Gelombang Globalisasi'
+description: 'Pada 2024, ekspor ke Tiongkok daratan dan Hong Kong turun menjadi 31,7%, sementara Amerika Serikat menjadi pasar kedua terbesar. Hanya Panama dan Guatemala tersisa sebagai mitra FTA resmi; aplikasi CPTPP terjebak di gerbang, dan peluang utama terletak pada Inisiatif Perdagangan Abad ke-21 Taiwan-Amerika, ETP Taiwan-Inggris, dan Perjanjian Perdagangan Setara 2026. Artikel ini meninjau bagaimana serangkaian perjanjian bilateral menjadi jalan keluar bagi ekonomi eksport-dependent Taiwan di tengah keterbatasan diplomasi.'
 date: 2026-03-19
 category: 'Economy'
 tags:
@@ -8,10 +8,10 @@ tags:
     'Ekonomi',
     'Kebijakan Perdagangan',
     'CPTPP',
-    'Baru Menuju Selatan',
+    'Serangan Selatan Baru',
     'ECFA',
     'FTA',
-    'Ekonomi Internasional',
+    'Dagang Internasional',
   ]
 subcategory: '貿易與全球化'
 author: 'Taiwan.md'
@@ -21,27 +21,27 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Economy/台灣國際貿易政策.md'
-sourceCommitSha: '4a4d66620'
-sourceContentHash: 'sha256:d585af78b77ed183'
-sourceBodyHash: 'sha256:57ec5065ff0c2c3f'
-translatedAt: '2026-08-05T16:59:03+08:00'
+sourceCommitSha: '1f266e533'
+sourceContentHash: 'sha256:e2e52ce67066146d'
+sourceBodyHash: 'sha256:956a2e50c55badba'
+translatedAt: '2026-10-03T00:56:56+08:00'
 ---
 
-# Kebijakan Perdagangan Internasional Taiwan: Mencari Posisi di Tengah Arus Globalisasi
+# Kebijakan Perdagangan Internasional Taiwan: Mencari Posisi di Tengah Gelombang Globalisasi
 
-## Ringkasan 30 Detik
+## 30 Detik Gambaran
 
-Taiwan sebagai ekonomi pulau yang sangat bergantung pada perdagangan internasional, menghadapi tantangan ganda "realitas politik" dan "kebutuhan ekonomi". Melalui upaya bergabung CPTPP, mendorong Kebijakan Baru Menuju Selatan, mempertahankan hubungan perdagangan dengan Amerika Serikat, Taiwan dalam ruang internasional yang terbatas, berkomitmen membangun hubungan mitra perdagangan yang beragam. Di saat yang sama, perlu mencari keseimbangan antara ketergantungan ekonomi lintas selat dan keamanan ekonomi, untuk menemukan jalur pembangunan berkelanjutan bagi ekonomi Taiwan.
+Taiwan sebagai ekonomi pulau yang sangat bergantung pada perdagangan internasional menghadapi tantangan ganda antara "realitas politik" dan "kebutuhan ekonomi". Melalui upaya aplikasi keanggotaan CPTPP, pelaksanaan kebijakan Serangan Selatan Baru, dan pemeliharaan hubungan perdagangan dengan Amerika Serikat, Taiwan berusaha membangun jaringan mitra perdagangan yang beragam di ruang internasional yang terbatas. Sekaligus, perlu menyeimbangkan ketergantungan ekonomi dengan Tiongkok dan keamanan ekonomi, mencari jalur berkelanjutan bagi perekonomian Taiwan.
 
-**Kata kunci:** CPTPP、Kebijakan Baru Menuju Selatan、ECFA、Perjanjian Perdagangan Bebas、Diversifikasi Ekonomi Perdagangan、Restrukturisasi Rantai Pasokan
+**Kata kunci:** CPTPP, Kebijakan Serangan Selatan Baru, ECFA, Perjanjian Bebas Perdagangan, Diversifikasi Perdagangan, Penggabungan Rantai Pasok
 
 ---
 
-## Mengapa Ini Penting
+## Mengapa Penting
 
-Taiwan adalah ekonomi pulau yang kekurangan sumber daya alami, total impor-ekspor melebihi 100% PDB, produk elektronik, peralatan mesin dan manufaktur lainnya menjadi tulang punggung ekonomi, Taiwan juga merupakan simpul kunci rantai pasokan produk teknologi global. Struktur ini berarti kebijakan perdagangan adalah kebijakan kelangsungan hidup negara, tanpa ekspor tidak ada devisa, tanpa devisa tidak ada impor energi dan bahan baku.
+Taiwan adalah pulau ekonomi yang kekurangan sumber daya alam, dengan total impor dan ekspor melebihi 100% dari PDB. Industri manufaktur seperti elektronik dan mesin-mesin adalah pilar ekonomi, dan Taiwan juga merupakan node kunci dalam rantai pasok global produk teknologi. Struktur ini berarti kebijakan perdagangan adalah kebijakan kelangsungan hidup negara — tanpa ekspor tidak ada devisa asing, tanpa devisa asing tidak ada impor energi dan bahan baku.
 
-Dalam kondisi ruang diplomatik terbatas, kerja sama ekonomi perdagangan menjadi saluran utama Taiwan berpartisipasi dalam masyarakat internasional: melalui WTO dan organisasi internasional lain mempertahankan hak bicara, dengan pencapaian ekonomi meningkatkan citra internasional di kesempatan diplomatik nyata, serta menghadapi tekanan geopolitik dari bangkitnya ekonomi Tiongkok, perlu menemukan titik keseimbangan antara diversifikasi risiko dan mempertahankan pertemuan yang diperlukan.
+Di tengah keterbatasan ruang diplomasi, kolaborasi ekonomi menjadi saluran utama Taiwan untuk berpartisipasi dalam komunitas internasional: melalui organisasi seperti WTO untuk mempertahankan suara, menggunakan pencapaian ekonomi untuk meningkatkan citra internasional, dan menghadapi tekanan geopolitik dari munculnya ekonomi Tiongkok, perlu menemukan titik keseimbangan antara diversifikasi risiko dan mempertahankan hubungan yang diperlukan.
 
 ---
 
@@ -49,120 +49,130 @@ Dalam kondisi ruang diplomatik terbatas, kerja sama ekonomi perdagangan menjadi 
 
 ### Mitra Perdagangan Utama
 
-Berdasarkan statistik Kementerian Keuangan, 2023 Tiongkok (termasuk Hong Kong) sekitar 31,7% porsi ekspor Taiwan, merupakan pasar ekspor terbesar Taiwan[^1]; Amerika Serikat, Jepang, ASEAN, Uni Eropa mengikuti. Meskipun tingkat konsentrasi terhadap Tiongkok menurun dari puncak 2010-an, tetap menjadi fokus utama kebijakan diversifikasi perdagangan. Korea Selatan dan Taiwan dalam bidang semikonduktor, panel dan lain-lain memiliki hubungan saingan sekaligus mitra, merupakan hubungan perdagangan lain yang layak diperhatikan.
+Menurut statistik Kementerian Keuangan, pada 2024 Tiongkok daratan dan Hong Kong menyumbang 31,7% dari total ekspor Taiwan, tetap menjadi pasar ekspor terbesar, namun sudah mencapai titik terendah dalam hampir 23 tahun, turun 12,2 poin persentase dari puncak 43,9% pada 2020[^1]。Amerika Serikat dengan 23,4% naik menjadi pasar ekspor kedua terbesar, ASEAN 18,5% di peringkat ketiga, Eropa 8,1%, Jepang 5,4% mengikutinya. Meskipun ketergantungan pada Tiongkok terus menurun, hal ini tetap menjadi fokus utama kebijakan diversifikasi perdagangan. Hubungan antara Korea Selatan dan Taiwan bersifat kompetitif dan kolaboratif di bidang semikonduktor dan panel, merupakan salah satu hubungan perdagangan yang perlu diperhatikan.
 
 ### Struktur Produk Ekspor
 
-Ekspor Taiwan sangat terkonsentrasi pada produk high-tech. Berdasarkan statistik Kementerian Keuangan 2022-2023, produk elektronik (semikonduktor, komputer, peralatan komunikasi) menduduki 60% lebih ekspor[^1], diikuti mesin presisi dan mesin perkakas, produk petrokimia dan plastik, serta baja dan logam non-ferro. Konsentrasi ini membuat Taiwan sangat sensitif terhadap siklus pasar semikonduktor, saat permintaan chip melambat angka ekspor keseluruhan akan bereaksi cepat.
+Ekspor Taiwan sangat terkonsentrasi pada produk teknologi tinggi. Menurut statistik Kementerian Keuangan, komponen elektronik (37,3%) dan produk komunikasi dan audio-visual (27,9%) sebagai dua kategori utama, pada 2024 menyumbang 65% dari total ekspor[^1]。Setelahnya adalah logam dasar, mesin, produk plastik dan karet, serta kimia, masing-masing menyumbang antara 3% hingga 6%。Konsentrasi ini membuat Taiwan sangat sensitif terhadap siklus pasar semikonduktor; ketika permintaan chip melemah, angka ekspor secara keseluruhan akan dengan cepat merespons.
 
-### Ketergantungan Impor
+### Barang Impor yang Ditergantung
 
-Ketergantungan impor energi Taiwan adalah risiko struktural terbesar: minyak bumi, gas alam, batubara hampir sepenuhnya bergantung impor. Bijih logam dan bahan kimia mentah, pangan dan produk ternak, peralatan semikonduktor dan instrumen ilmiah, adalah empat kategori kebutuhan impor lainnya. Kerentanan geopolitik impor energi, adalah bagian paling sulit dihindari dalam kebijakan keamanan pasokan Taiwan.
+Ketergantungan Taiwan pada impor energi adalah risiko struktural terbesar: minyak, gas alam, dan batu bara hampir seluruhnya diimpor. Logam mineral dan bahan baku kimia, pangan dan produk ternak, peralatan semikonduktor dan instrumen ilmia, adalah empat kategori impor lainnya. Kerentanan geopolitik dari impor energi adalah aspek yang paling sulit dihindari dalam kebijakan keamanan pasok Taiwan.
 
 ---
 
 ## Kerangka Kebijakan Perdagangan Inti
 
-### Partisipasi di Bawah Rezim WTO
+### Partisipasi di bawah Kerangka WTO
 
-Taiwan beroperasi sebagai anggota WTO atas nama "Wilayah Pabean Terpisah Taiwan, Penghu, Kinmen, Matsu" (2002-sekarang), titik awal bergabung resmi adalah 2002, di sistem perdagangan multilateral mematuhi aturan, berpartisipasi dalam negosiasi multilateral. Namun desain identitas ini menimbulkan gesekan politik jangka panjang: gangguan Tiongkok terhadap hak bicara Taiwan di kesempatan WTO, serta kompleksitas identitas di organisasi internasional, membuat efektivitas partisipasi Taiwan dalam negosiasi multilateral WTO terkena tekanan. Meskipun demikian, keanggotaan WTO tetap menjadi landasan hukum penting Taiwan mempertahankan perlindungan perdagangan multilateral.
+Taiwan beroperasi sebagai anggota WTO dengan nama "Wilayah Tarif Taiwan, Penghu, Kinmen, dan Matsu" (2002 hingga kini), mematuhi aturan dalam sistem perdagangan multilateral dan berpartisipasi dalam perundingan multilateral. Namun, desain identitas ini menimbulkan gesekan politik jangka panjang: gangguan Tiongkok terhadap hak bicara Taiwan dalam forum WTO, serta kompleksitas identitas dalam organisasi internasional, membuat partisipasi Taiwan dalam perundingan multilateral WTO kurang efektif. Meskipun demikian, keanggotaan WTO tetap menjadi dasar hukum penting bagi Taiwan untuk mempertahankan perlindungan perdagangan multilateral.
 
-### Perjanjian Perdagangan Bebas Bilateral (FTA)
+### Perjanjian Bebas Perdagangan (FTA) Bilateral
 
-FTA formal yang ditandatangani Taiwan saat ini sangat terbatas, utama sasaran negara sahabat Amerika Tengah (Panama, Guatemala, Nikaragua, El Salvador, Honduras). Taiwan dengan Selandia Baru, Singapura masing-masing menandatangani Perjanjian Kerja Sama Ekonomi (ECA), termasuk kerangka non-FTA tradisional[^2]. Proyek dalam negosiasi meliputi: Amerika Serikat (2023 sudah menandatangani bab pertama perdagangan kemudahan Inisiatif Perdagangan Abad 21 Taiwan-AS[^3]), India (Perjanjian Investasi Bilateral), Inggris (Dialog Investasi). Keterbatasan ekspansi FTA akarnya pada realitas politik: banyak negara terhambat tekanan Beijing, tidak mau mengikat perjanjian formal dengan Taiwan, perlu mendorong dengan kerangka alternatif.
-
----
-
-## Inisiatif Kebijakan Utama
-
-### Strategi Bergabung CPTPP
-
-Taiwan September 2021 resmi mengajukan bergabung CPTPP, mendirikan kelompok kerja lintas kementerian, dengan negara anggota melakukan dialog kebijakan. Evaluasi manfaat keanggotaan mencakup masuk pasar 11 negara anggota, tarif sebagian besar produk berangsur nol, meningkatkan transparansi lingkungan investasi, serta peluang baru bidang jasa keuangan, telekomunikasi.
-
-Namun jalan keanggotaan menghadapi hambatan ganda internal eksternal. Internal, suara perlindungan pertanian kuat, masa panjang paten obat kontroversial, penyesuaian kebijakan TKI menyentuh kepentingan sensitif; eksternal, penghalang politik Tiongkok adalah variabel paling sulit ditembus. Hingga 2026, permohonan CPTPP Taiwan belum ada kemajuan nyata, kepekaan politik negara anggota terhadap penanganan serentak permohonan Taiwan dan Tiongkok, membuat negosiasi keanggotaan macet[^4].
-
-Strategi penanganan, pemerintah terus melakukan evaluasi dampak industri dan pendampingan, penyesuaian regulasi dan reformasi sistem, komunikasi parlemen dan dialog masyarakat, serta memperdalam hubungan bilateral dengan tiap negara anggota, untuk saat timing keanggotaan matang menyimpan ruang mendorong isu.
-
-### Kebijakan Baru Menuju Selatan (2016-sekarang)
-
-Kebijakan Baru Menuju Selatan diluncurkan 2016, tujuan mendiversifikasi ketergantungan pasar terhadap Tiongkok, memperdalam hubungan ekonomi perdagangan dengan ASEAN, Asia Selatan, mendorong kerja sama rantai industri wilayah dan pertukaran bakat. Kebijakan mencakup 10 negara ASEAN, 6 negara Asia Selatan, Selandia Baru, Australia total 18 negara sasaran, dengan kerja sama ekonomi perdagangan, pertukaran bakat, berbagi sumber daya, koneksi wilayah empat sumbu utama mendorong.
-
-Hasil konkret meliputi pertumbuhan investasi ke negara Baru Menuju Selatan, peningkatan volume perdagangan bilateral, kasus kerja sama kawasan industri, serta ekspor pendidikan kejuruan. Tantangan realitas kebijakan terletak pada perbedaan bahasa budaya, ketidakakrabatan lingkungan regulasi lokal, risiko politik dan kesenjangan infrastruktur——hambatan ini menjelaskan ekspansi ke selatan memerlukan sumbu waktu lebih lama dibanding mengalihkan rute perdagangan.
-
-### Inisiatif Perdagangan Abad 21 Taiwan-AS
-
-2023 sudah menandatangani bab pertama perdagangan kemudahan Inisiatif Perdagangan Abad 21 Taiwan-AS, mencakup perdagangan kemudahan, praktik peraturan, kerja sama pertanian, anti-korupsi, perdagangan UKM, perdagangan digital, isu buruh, isu lingkungan delapan bidang. Makna strategis terletak pada memperdalam hubungan ekonomi perdagangan Taiwan-AS, meletakkan fondasi untuk perjanjian lebih luas di masa depan, sekaligus menunjukkan kemampuan reformasi Taiwan, memperkuat dasar kepercayaan timbal balik Taiwan-AS dalam arsitektur kerja sama wilayah Indo-Pasifik.
+Taiwan saat ini hanya memiliki sangat sedikit FTA resmi yang masih berlaku, hanya tersisa dua negara di Amerika Tengah: Panama dan Guatemala[^2]。Setelah Panama memutus hubungan diplomatik pada 2017, perjanjian tersebut tetap berlaku; sementara perjanjian yang disepakati dengan Nikaragua, El Salvador, Honduras, dan Guatemala semuanya dicabut setelah pemutusan hubungan. Taiwan juga menandatangani Perjanjian Kerja Sama Ekonomi Taiwan-New Zealand (ANZTEC) dan Perjanjian Mitra Ekonomi Taiwan-Singapura (ASTEP)[^2]。Progres terbaru terpusat pada perjanjian bilateral: pada 2018 menandatangani Perjanjian Investasi Bilateral dengan India[^9]；pada 2023 menandatangani Inisiatif Perdagangan Abad ke-21 Taiwan-Amerika Serikat[^3] dan Perjanjian Peningkatan Hubungan Mitra Perdagangan dengan Inggris[^8]；pada Februari 2026 kembali menandatangani Perjanjian Perdagangan Setara[^7]。 Akar utama pembatasan dalam perluasan FTA adalah realitas politik: banyak negara enggan menandatangani perjanjian formal dengan Taiwan karena tekanan Tiongkok, sehingga perlu menggunakan kerangka alternatif untuk berkembang.
 
 ---
 
-## Hubungan Ekonomi Perdagangan Lintas Selat
+## Inisiatif Kebijakan Kunci
 
-### Penandatanganan ECFA dan Dampaknya
+### Strategi Aplikasi CPTPP
 
-Taiwan periode (2010-2012) mendorong kerangka ECFA, 2010 menandatangani Kerangka Kerja Sama Ekonomi Lintas Selat (ECFA), dengan daftar panen awal menurunkan tarif sebagian barang, dan mendirikan mekanisme negosiasi lanjutan. Kesepakatan mendorong pertumbuhan perdagangan bilateral, investasi pengusaha Taiwan ke Tiongkok lebih mudah, peningkatan wisatawan daratan ke Taiwan, serta perluasan urusan jasa keuangan. Suara kritik menilai: kesepakatan memperdalam derajat ketergantungan ekonomi, mempercepat pengeluaran industri, memperburuk distribusi pendapatan, serta mengandung risiko keamanan nasional.
+Pada 22 September 2021, Taiwan secara resmi mengajukan aplikasi keanggotaan CPTPP, membentuk tim kerja lintehekstrasektoral, dan memulai dialog kebijakan dengan negara-negara anggota. Evaluasi manfaat keanggotaan mencakup akses ke pasar anggota (pada saat aplikasi terdiri dari 11 negara, Inggris bergabung pada 2024 sehingga menjadi 12), penghapusan tarif sebagian besar produk secara bertahap, peningkatan transparansi lingkungan investasi, serta peluang baru di sektor jasa keuangan dan telekomunikasi.
 
-**Kondisi ECFA Terkini (2023-2024)**: Akhir 2023, Tiongkok membatalkan pengurangan tarif 539 item barang daftar panen awal; Mei 2024 kembali membatalkan pengurangan 134 item barang petrokimia, arsitektur ECFA nyata mengalami erosi serius[^5]. Industri ekspor terkait Taiwan menghadapi tekanan tarif naik kembali, manfaat ECFA yang tersisa sudah menyusut drastis.
+Namun, jalan menuju keanggotaan menghadapi rintangan internal dan eksternal. Secara internal, ada tekanan kuat dari sektor pertanian, paten obat yang diperpanjang mengundang kontroversi, dan penyesuaian kebijakan tenaga kerja asing melibatkan kepentingan sensitif; secara eksternal, penghalang politik dari Tiongkok adalah variabel yang paling sulit diatasi. Pada November 2025, sidang eksekutif tingkat menteri CPTPP tidak berhasil membentuk tim kerja keanggotaan Taiwan, sementara sidang yang sama memutuskan untuk memulai prosedur keanggotaan Uruguay[^4]。Karena sensitivitas politik anggota dalam menangani aplikasi Taiwan dan Tiongkok secara bersamaan, proses keanggotaan Taiwan terjebak di gerbang.
 
-### Tantangan Ekonomi Perdagangan Lintas Selat Saat Ini
+Sebagai respons, pemerintah terus melakukan evaluasi dampak industri, bantuan regulasi, komunikasi dengan parlemen dan dialog sosial, serta memperdalam hubungan bilateral dengan setiap negara anggota, untuk menyimpan ruang bagi isu-isu yang dapat dipromosikan ketika kondisi keanggotaan sudah matang.
 
-Masalah struktural utama ada empat: derajat ketergantungan perdagangan Taiwan terhadap Tiongkok terlalu tinggi, tumpang tindih daya saing industri meningkat, risiko kebocoran teknologi naik, serta pertimbangan keamanan rantai pasokan. Arah penyesuaian kebijakan adalah memperkuat pengendalian teknologi kunci, mendorong diversifikasi rantai pasokan, mendirikan mekanisme keamanan ekonomi, serta mempertahankan pertemuan ekonomi perdagangan yang diperlukan——yang terakhir saat ketegangan politik lintas selat naik semakin sulit diukur dengan tepat.
+### Kebijakan Serangan Selatan Baru (2016 hingga kini)
+
+Kebijakan Serangan Selatan Baru diusulkan pada 2016, bertujuan mengurangi ketergantungan pada pasar Tiongkok, memperdalam hubungan ekonomi dengan ASEAN dan Asia Selatan, mendorong kolaborasi rantai industri regional dan pertukaran tenaga kerja. Kebijakan ini mencakup 18 negara target: 10 negara ASEAN, 6 negara Asia Selatan, Selandia Baru Zealand, dan Australia, didukung oleh empat pilar utama: kolaborasi ekonomi, pertukaran tenaga kerja, berbagi sumber daya, dan jaringan regional.
+
+Hasil konkretnya termasuk pertumbuhan investasi ke negara-negara Serangan Selatan Baru, peningkatan volume perdagangan bilateral, kasus kolaborasi kawasan industri, dan ekspor pendidikan vokasi. Tantangan nyata kebijakan ini adalah perbedaan bahasa dan budaya, ketidakakraban dengan regulasi setempat, risiko politik, dan kesenjangan infrastruktur — yang menunjukkan bahwa ekspansi ke arah selatan membutuhkan lebih banyak waktu dibandingkan dengan lini perdagangan tradisional.
+
+### Inisiatif Perdagangan Abad ke-21 Taiwan-Amerika dan Perjanjian Perdagangan Setara
+
+Pada 1 Juni 2023, Taiwan dan Amerika Serikat menandatangani Inisiatif Perdagangan Abad ke-21. Lima isu dalam paket pertama meliputi administrasi kepabean dan fasilitas perdagangan, operasi hukum yang baik, regulasi domestik sektor jasa, pencegahan korupsi, dan usaha kecil dan menengah. Tujuh isu lainnya — termasuk tenaga kerja, lingkungan, pertanian, perdagangan digital, standar, badan negara, dan kebijakan dan praktik tidak pasar — ditunda untuk perundingan selanjutnya[^3]。Pada 12 Februari 2026 (waktu timur Amerika), kedua belah pihak kembali menandatangani "Perjanjian Perdagangan Setara" (ART), yang menetapkan tarif ad valorem sebesar 15% dan tidak menumpuk, dengan 2.072 produk ekspor Taiwan ke Amerika Serikat dikecualikan dari tarif setara[^7]。Makna strategisnya terletak pada penguatan hubungan ekonomi Taiwan-Amerika, menjadi fondasi bagi perjanjian yang lebih luas di masa depan, sekaligus menunjukkan kemampuan reformasi Taiwan, memperkuat dasar kepercayaan dalam kerja sama kawasan Pasifik.
 
 ---
 
-## Kebijakan Perdagangan per Industri
+## Hubungan Ekonomi Silang Selat
+
+### Penandatanganan dan Dampak ECFA
+
+Taiwan menandatangani Kerangka Kerja Ekonomi dan Perdagangan Silat Taiwan-Tiongkok (ECFA) pada 2010, mengurangi tarif sebagian barang melalui daftar pencapaian awal, dan membentuk mekanisme perundingan lanjutan. Perjanjian ini mendorong pertumbuhan perdagangan silat, memudahkan investasi pengusaha Taiwan di Tiongkok, dan memperluas transaksi keuangan. Kritik mengarah pada: memperdalam ketergantungan ekonomi, mempercepat penempatan industri ke luar negeri, memburuk distribusi pendapatan, dan menimbulkan risiko keamanan nasional.
+
+**Situasi Terkini ECFA (2023-2024)**: Pada 21 Desember 2023, Komite Tarif Kementerian Negara Tiongkok mengumumkan mulai 1 Januari 2024, menghentikan tarif ECFA untuk 12 komoditas termasuk akrilik dan dimerist rati[^10]。Pada 31 Mei 2024, mengumumkan mulai 15 Juni, menghentikan tarif ECFA untuk 134 produk termasuk minyak dasar pelumasan, sepeda kompetisi, dan sebagian pakaian[^5]。Industri ekspor Taiwan menghadapi tekanan kenaikan tarif, dan manfaat dari daftar pencapaian awal terus berkurang.
+
+### Tantangan Ekonomi Silat Saat Ini
+
+Masalah struktural utama meliputi: ketergantungan Taiwan pada perdagangan dengan Tiongkok yang tinggi, peningkatan persaingan kekuatan industri, risiko kebocoran teknologi, dan pertimbangan keamanan rantai pasok. Penyesuaian kebijakan dilakukan dengan memperkuat kontrol teknologi kunci, mendorong diversifikasi rantai pasok, membangun mekanisme keamanan ekonomi, sambil mempertahankan hubungan perdagangan yang diperlukan — yang semakin sulit ditentukan secara tepat ketika ketegangan politik silat meningkat.
+
+---
+
+## Kebijakan Perdagangan Berdasarkan Industri
 
 ### Industri Semikonduktor
 
-Semikonduktor Taiwan menempati posisi kunci dalam rantai pasokan global, keunggulan kompetitif inti berasal dari teknologi proses mutakhir terdepan, ekosistem industri lengkap dan sumber daya manusia berkualitas. Arah kebijakan perdagangan adalah berpartisipasi dalam Aliansi Chip AS, mendirikan rantai pasokan terpercaya, memperkuat mekanisme pengendalian ekspor. Rencana pembangunan pabrik TSMC di AS, Jepang, adalah praktik khas Taiwan proaktif mengelola risiko diplomatik di bawah tren politisasi rantai pasokan chip.
+Semikonduktor Taiwan berperan penting dalam rantai pasok global, dengan keunggulan kompetitif utama pada teknologi proses canggih, ekosistem industri lengkap, dan sumber daya manusia berkualitas tinggi. Arah kebijakan perdagangan meliputi partisipasi dalam Konsorsium Chip AS, pembangunan rantai pasok yang dapat dipercaya, dan penguatan mekanisme kontrol ekspor. Rencana fabrikasi TSMC di Amerika Serikat dan Jepang adalah contoh typische dari upaya Taiwan dalam mengelola risiko diplomasi di tengah politisasi rantai pasok chip.
 
 ### Sektor Pertanian
 
-Pertanian dalam negosiasi perdagangan memainkan peran sebagai kartu tawar sensitif. Biaya produksi relatif tinggi, kekurangan ekonomi skala, persaingan internasional sengit, membentuk tiga hambatan pembukaan perdagangan pertanian. Strategi penanganan adalah mengembangkan pertanian presisi, memperkuat rintisan produk pertanian, mendorong pertanian teknologi, dengan diferensiasi menggantikan persaingan harga rendah.
+Pertanian berperan sebagai kartu negosiasi sensitif dalam perundingan perdagangan. Biaya produksi yang relatif tinggi, economi skala yang tidak cukup, dan persaingan internasional yang ketat membentuk tiga hambatan bagi pembukaan perdagangan pertanian. Strategi responsif meliputi pengembangan pertanian bernilai tambah, penguatan jejak asal bahan pangan, dan promosi pertanian berbasis teknologi, mengganti kompetisi harga murah dengan diferensiasi.
 
-### Industri Jasa
+### Sektor Jasa
 
-Jasa keuangan, jasa teknologi informasi komunikasi, kesehatan medis, industri budaya kreatif adalah bidang keunggulan internasionalisasi industri jasa Taiwan. Arah kebijakan pembukaan adalah bertahap melonggarkan batasan investasi asing, meningkatkan kualitas jasa, mendirikan brand internasional. Porsi industri jasa dalam ekspor rendah, adalah ruang pertumbuhan yang jelas menunggu dibuka dibanding industri manufaktur.
+Jasa keuangan, komunikasi informatif, kesehatan medis, dan industri kreatif adalah bidang unggulan Taiwan dalam internasionalisasi jasa. Arah kebijakan pembukaan meliputi pencabutan pembatasan asing secara bertahap, peningkatan kualitas layanan, dan pembangunan merek internasional. Partisipasi jasa dalam ekspor relatif rendah, menunjukkan ruang pertumbuhan yang jelas bagi Taiwan dibandingkan dengan industri manufaktur.
 
 ---
 
 ## Perdagangan Digital dan Ekonomi Baru
 
-Menghadapi perkembangan ekonomi digital, Taiwan menghadapi tekanan pembangunan sistem aturan perdagangan digital seperti regulasi aliran data lintas batas, standar perlindungan data pribadi, regulasi e-commerce, koordinasi pajak digital. Isu baru mencakup tata kelola kecerdasan buatan, pengawasan kripto, regulasi ekonomi platform dan perlindungan kekayaan intelektual, Taiwan perlu mencari keseimbangan antara berpartisipasi pembentukan standar internasional dan melindungi kedaulatan digital sendiri.
+Di tengah perkembangan ekonomi digital, Taiwan menghadapi tekanan dalam pembuatan aturan mengenai aliran data lintas batas, standar perlindungan data pribadi, norma perdagangan elektronik, dan koordinasi pajak digital. Isu-isu baru meliputi tata kelola kecerdasan buatan, pengawasan mata uang kripto, regulasi ekonomi platform, dan perlindungan hak kekayaan intelektual; Taiwan perlu menemukan keseimbangan antara berpartisipasi dalam pembuatan standar internasional dan melindungi kedaulatan digital sendiri.
 
-Menyelaraskan dengan target net-zero karbon global, Mekanisme Penyesuaian Batas Karbon Uni Eropa (CBAM) terhadap pengusaha ekspor Taiwan evaluasi dampaknya mendesak. Arah penanganan Taiwan meliputi pembangunan sertifikasi jejak karbon industri dan rantai pasokan hijau, serta pengembangan peluang perdagangan ekonomi sirkular seperti pemanfaatan limbah sebagai sumber daya, perdagangan bahan baku daur ulang, ekspor teknologi lingkungan.
-
----
-
-## Mekanisme Penyusunan Kebijakan Perdagangan
-
-Kebijakan perdagangan Taiwan didorong oleh beberapa departemen berbagi tugas. Direktorat Jenderal Perdagangan Internasional Kementerian Ekonomi bertanggung jawab perencanaan eksekusi kebijakan perdagangan, koordinasi negosiasi bilateral multilateral dan penanganan hambatan perdagangan; Kantor Negoisasi Ekonomi Perdagangan Sekretariat Kabinet mengoordinasikan negosiasi ekonomi perdagangan penting, koordinasi kebijakan lintas kementerian dan perencanaan kebijakan ekonomi perdagangan internasional. Kementerian Luar Negeri mengoordinasikan kebijakan diplomatik, Kementerian Pertanian bertanggung jawab negosiasi pertanian, Kementerian Digital bertanggung jawab regulasi perdagangan digital, membentuk struktur penyusunan kebijakan multi-kementerian kolaboratif.
-
-Partisipasi masyarakat sipil terealisasi melalui dua saluran: perkumpulan industri melalui komite konsultatif kebijakan menyediakan saran posisi negosiasi dan bantuan evaluasi dampak; Legislatif meninjau kesepakatan penting, pengawasan interpelasi kebijakan dan tinjauan anggaran. Intensitas pengawasan masyarakat sipil bervariasi signifikan tergantung sensitivitas isu——kontroversi sosial besar yang dipicu ECFA 2010, hingga kini tetap menjadi titik acuan isu transparansi negosiasi kesepakatan perdagangan besar.
+Sejalan dengan tujuan global net-zero karbon, penilaian dampak Mekanisme Penyesuaian Perbatasan Karbon (CBAM) Eropa terhadap pedagang Taiwan tidak boleh ditunda. Langkah respons Taiwan meliputi sertifikasi jejak karbon industri dan pembangunan rantai pasok hijau, serta eksplorasi peluang perdagangan ekonomi sirkular meliputi material limbah, bahan baku terbarukan, dan ekspor teknologi lingkungan.
 
 ---
 
-## Tantangan dan Peluang Masa Depan
+## Mekanisme Pembuatan Kebijakan Perdagangan
 
-Restrukturisasi rantai pasokan membawa peluang konkret: tren _friend-shoring_, kebutuhan pembangunan rantai pasokan tangguh, serta status mitra terpercaya, membuat Taiwan dalam kerangka ekonomi Indo-Pasifik (IPEF) dan mekanisme integrasi wilayah baru lainnya memperoleh lebih banyak kartu tawar negosiasi. Jalur memperdalam kerja sama bilateral juga因此 lebih jelas.
+Kebijakan perdagangan Taiwan dikelola oleh beberapa departemen. Kantor Dagang Internasional Kementerian Ekonomi bertanggung jawab atas perencanaan dan pelaksanaan kebijakan perdagangan, koordinasi perundingan bilateral dan multilateral, dan penanganan hambatan perdagangan; Kantor Perundingan Ekonomi dan Dagang Kabinet (Executive Yuan) mengkoordinasikan perundingan ekonomi-dagang penting, koordinasi kebijakan lintehekstrasektoral, dan perencanaan kebijakan internasional; Kementerian Luar Negeri mendukung kebijakan diplomasi, Kementerian Pertanian bertanggung jawab atas perundingan pertanian, dan Kementerian Digital dan Teknologi Informasi bertanggung jawab atas norma perdagangan digital, membentuk struktur kebijakan kolaboratif multi-departemen.
 
-Namun batasan juga sama jelasnya. Realitas politik membatasi ruang ekspansi FTA formal, hak bicara di organisasi internasional tetap menerima batasan struktural, keberagaman lawan negosiasi lebih rendah dari ekonomi berorientasi perdagangan skala serupa. Penyesuaian internal meliputi peningkatan daya saing industri, perluasan pasar dalam negeri, penguatan kemampuan inovasi, serta penyempurnaan regulasi perdagangan dan kemampuan negosiasi. Strategi diversifikasi Taiwan mampu mencapai terobosan atau tidak, pada akhirnya bergantung pada kecepatan evolusi format geopolitik, serta Taiwan mampu merebut posisi di jendela negosiasi kesepakatan putaran berikutnya.
+Partisipasi masyarakat sipil dilakukan melalui dua saluran: asosiasi industri memberikan saran posisi perundingan dan bantuan evaluasi dampak melalui komite konsultasi kebijakan; DPR memantau perundingan perjanjian penting, mengawasi kebijakan melalui pertanyaan, dan meninjau anggaran. Tingkat pengawasan masyarakat sipil bervariasi secara signifikan tergantung sensitivitas isu — kontroversi sosial luas yang ditimbulkan oleh ECFA pada 2010 masih menjadi acuan penting mengenai transparansi perundingan perjanjian dagang skala besar.
 
 ---
 
-**Bacaan Lanjutan**:
+## Tantangan dan Peluang di Masa Depan
 
-- [Laporan Bea Cukai Taiwan dan EZ WAY](/lifestyle/台灣海關報關制度與EZWAY) — Kebijakan perdagangan turun ke paket belanja online pribadi: pertarungan ambang bebas pajak 2.000 Yuan dan sistem mandatong pengurusan bea cukai
+Penggabungan rantai pasok membawa peluang nyata: tren outsourcing ke negara teman, kebutuhan akan rantai pasok yang tangguh, dan status mitra yang dapat dipercaya. Meskipun Taiwan tidak diundang bergabung dalam Inisiatif Ekonomi Pasifik (IPEF) yang diluncurkan pada 2022, melalui Inisiatif Perdagangan Abad ke-21 dan Perjanjian Perdagangan Setara Taiwan-Amerika, Taiwan memperoleh lebih banyak posisi perundingan dalam kolaborasi bilateral. Jalur penguatan kolaborasi bilateral pun menjadi jelas.
+
+Namun, keterbatasan yang sama jelas. Realitas politik membatasi ruang bagi perluasan FTA resmi, hak bicara dalam organisasi internasional masih terbatas secara struktural, dan keragaman mitra perundingan lebih rendah dibandingkan dengan ekonomi eksport-oriented lain dengan skala serupa. Penyesuaian internal meliputi peningkatan kompetitivitas industri, perluasan pasar domestik, penguatan kemampuan inovasi, dan perbaikan regulasi dan kemampuan perundingan perdagangan. Keberhasilan strategi diversifikasi Taiwan pada akhirnya bergantung pada kecepatan evolusi geopolitik, dan kemampuan Taiwan untuk merebut posisi di jendela perundingan perjanjian berikutnya.
+
+---
+
+**Bacaan Lanjutan**：
+
+- [Bea Cukai Taiwan dan EZ WAY](/id/lifestyle/ezway) — Bagaimana kebijakan perdagangan Taiwan diterapkan pada paket belanja online pribadi: pertarungan ambang bebas pajak 2.000 dolar dan sistem pendaftaran keberadaan bea cukai
+- [Industri Semikonduktor](/id/technology/taiwan-semiconductor-industry) — Asalnya komponen elektronik yang menyumbang lebih dari seper-tiga dari ekspor, bagaimana chip menjadi kartu perdagangan terbesar Taiwan
+- [Kawasan Ekspor dan Olahan Kaosiung](/id/history/kaohsiung-export-processing-zone) — Zona bebas pajak dan jendela tunggal pada 1966, titik awal ekonomi eksport-oriented Taiwan
 
 ## Referensi
 
-[^1]: [Direktorat Statistik Kementerian Keuangan — Gambaran Umum Perdagangan Ekspor-Impor Negara Kita Tahun 112](https://www.mof.gov.tw/htmlList/103) — Struktur ekspor Taiwan 2023 dan porsi mitra perdagangan utama
+[^1]: [Statistik Kementerian Keuangan — Ikhtisar Perdagangan Impor dan Ekspor Tahun 113](https://service.mof.gov.tw/public/Data/statistic/bulletin/114/113%E5%B9%B4%E6%88%91%E5%9C%8B%E5%87%BA%E9%80%B2%E5%8F%A3%E8%B2%BF%E6%98%93%E6%A6%82%E6%B3%81.pdf) — Pada 2024, ekspor ke Tiongkok daratan dan Hong Kong mencapai 31,7% (terendah dalam hampir 23 tahun, puncak 43,9% pada 2020), Amerika Serikat 23,4%, ASEAN 18,5%, Eropa 8,1%, Jepang 5,4%; komponen elektronik dan produk komunikasi serta audio-visual secara gabungan menyumbang 65% dari ekspor
 
-[^2]: [Portal ECA/FTA Taiwan — Perjanjian Kerja Sama Ekonomi Taiwan-Selandia Baru, Taiwan-Singapura](https://fta.trade.gov.tw/) — Penjelasan isi perjanjian ECA Taiwan dengan Selandia Baru, Singapura
+[^2]: [Portal FTA/ECA Taiwan](https://fta.trade.gov.tw/) — Hasil perjanjian yang telah disepakati: 2 negara FTA Amerika Tengah (Panama, Guatemala), ECFA, Perjanjian Kerja Sama Ekonomi Taiwan-New Zealand (ANZTEC), Perjanjian Mitra Ekonomi Taiwan-Singapura (ASTEP), dll.
 
-[^3]: [Kantor Negoisasi Ekonomi Perdagangan Sekretariat Kabinet — Inisiatif Perdagangan Abad 21 Taiwan-AS](https://www.ey.gov.tw/otn/) — Latar belakang dan isi penandatanganan bab pertama (perdagangan kemudahan) 2023
+[^3]: [Kabinet — Catatan Resmi Penandatanganan Perjanjian Pertama Inisiatif Perdagangan Abad ke-21 Taiwan-Amerika (2023-06-01)](https://www.ey.gov.tw/Page/9277F759E41CCD91/070b69ff-9f30-4076-b5c7-5af3a58e108d) — Isi perjanjian pertama 5 isu dan 7 isu lanjutan
 
-[^4]: [Direktorat Jenderal Perdagangan Internasional Kementerian Ekonomi — Kemajuan Permohonan CPTPP](https://www.trade.gov.tw/) — Penjelasan perkembangan permohonan bergabung CPTPP Taiwan 2021
+[^4]: [Kementerian Luar Negeri — Menyatakan kekecewaan atas kegagalan pembentukan tim kerja keanggotaan Taiwan dalam CPTPP pada tahun ini (2025-11-21)](https://www.mofa.gov.tw/News_Content.aspx?n=95&s=121153) — Mengajukan keanggotaan pada 22 September 2021; keputusan ke-9 dari sidang menteri menentukan untuk memulai prosedur keanggotaan Uruguay terlebih dahulu
 
-[^5]: [CNA 2024/5/31 — Tiongkok Membatalkan Pengurangan 134 Item Barang Petrokimia ECFA](https://www.cna.com.tw/) — Mei 2024 Tiongkok kembali membatalkan pengurangan 134 item barang petrokimia panen awal ECFA
+[^5]: [Sumber Berita Pusat 2024/5/31 — Tiongkok Mencabut Kembali Bagian dari Tarif ECFA, 134 Produk Terdampak](https://www.cna.com.tw/news/acn/202405310037.aspx) — Mulai 15 Juni 2024, menghentikan tarif ECFA untuk minyak dasar pelumasan, sepeda kompetisi, dan sebagian pakaian
 
-[^6]: [WTO — Laporan Tinjauan Kebijakan Perdagangan Wilayah Pabean Terpisah Taiwan, Penghu, Kinmen, Matsu](https://wto.trade.gov.tw/cwto/Pages/Detail.aspx?nodeID=4613&pid=743047) — Laporan tinjauan kebijakan perdagangan Taiwan WTO
+[^6]: [WTO — Laporan Tinjukan Kebijakan Dagang Wilayah Tarif Taiwan, Penghu, Kinmen, dan Matsu](https://wto.trade.gov.tw/cwto/Pages/Detail.aspx?nodeID=4613&pid=743047) — Laporan tinjukan kebijakan dagang WTO terhadap Taiwan
+
+[^7]: [Kabinet — Taiwan dan Amerika Serikat Menandatangani "Perjanjian Perdagangan Setara" yang Menetapkan Tarif Setara Ad Valorem 15% dan Tidak Menumpuk (2026-02-13)](https://www.ey.gov.tw/Page/9277F759E41CCD91/472c4eba-b7c3-4a7d-8b39-e482e5a1548d) — Pada 12 Februari 2026 (waktu timur Amerika), menandatangani Perjanjian Perdagangan Setara (ART), 2.072 produk ekspor Taiwan ke Amerika Serikat dikecualikan dari tarif setara
+
+[^8]: [Kabinet — Taiwan dan Inggris Menandatangani Perjanjian Peningkatan Hubungan Mitra Perdagangan (2023-11-08)](https://www.ey.gov.tw/Page/9277F759E41CCD91/92b567c0-ea7e-4e84-a9ea-7d7a9001d041) — Perjanjian Peningkatan Hubungan Mitra Perdagangan (ETP) secara resmi ditandatangani
+
+[^9]: [Kementerian Luar Negeri — Negara Kita dan India Menandatangani "Perjanjian Investasi Bilateral" dan "Perjanjian Pengakuan Mutually Pengakuan Perusahaan Berkualitas" (2018-12-18)](https://www.mofa.gov.tw/News_Content.aspx?n=95&sms=73&s=68013) — Penandatanganan Perjanjian Investasi Bilateral Taiwan-India
+
+[^10]: [Waktu Bisnis 2023/12/21 — Tiongkok Mengumumkan Penghentian Bagian dari Tarif ECFA](https://www.ctee.com.tw/news/20231221700749-430802) — Mulai 1 Januari 2024, menghentikan tarif ECFA untuk 12 komoditas termasuk akrilic dan dimerist rati
