@@ -1,19 +1,19 @@
 ---
-title: 'Chính sách thương mại quốc tế của Đài Loan: Tìm kiếm vị trí trong làn sóng toàn cầu hóa'
-description: 'Đài Loan, một nền kinh tế định hướng thương mại, đang thúc đẩy chiến lược thương mại đa dạng như nộp đơn tham gia CPTPP, chính sách hướng Nam mới, để tìm kiếm đột phá về không gian kinh tế quốc tế trong bối cảnh giới hạn địa chính trị.'
+title: 'Chính sách thương mại quốc tế của Đài Loan: Tìm vị thế trong làn sóng toàn cục hóa'
+description: 'Năm 2024, tỷ lệ xuất khẩu sang Trung Quốc đại lục và Hồng Kông giảm xuống 31.7%, Mỹ trở thành thị trường thứ hai. Số lượng FTA chính thức chỉ còại lại Panama và Guatemala; đơn đăng ký CPTPP bế tắc ở cửa ngõ; đột phá tập trung vào Đối thoại thương mại thiên niên kỷ Đài-Mỹ, ETP Đài-Vương và thỏa thuận thương mại bình đẳng năm 2026. Bài viết phân tích cách Đài Loan dùng từng thỏa thuận song phương để tìm lối thoát cho nền kinh tế xuất khẩu trong không gian ngoại giao hẹp hòi.'
 date: 2026-03-19
 category: 'Economy'
 tags:
   [
-    'kinh tế',
-    'chính sách thương mại',
+    'Kinh tế',
+    'Chính sách thương mại',
     'CPTPP',
-    'chính sách hướng Nam mới',
+    'Hướng Nam mới',
     'ECFA',
     'FTA',
-    'thương mại quốc tế',
+    'Thương mại quốc tế',
   ]
-subcategory: 'Thương mại và toàn cầu hóa'
+subcategory: '貿易與全球化'
 author: 'Taiwan.md'
 difficulty: 'intermediate'
 readingTime: 16
@@ -21,148 +21,158 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Economy/台灣國際貿易政策.md'
-sourceCommitSha: '4a4d66620'
-sourceContentHash: 'sha256:d585af78b77ed183'
-sourceBodyHash: 'sha256:57ec5065ff0c2c3f'
-translatedAt: '2026-08-09T08:07:25+08:00'
+sourceCommitSha: '1f266e533'
+sourceContentHash: 'sha256:e2e52ce67066146d'
+sourceBodyHash: 'sha256:956a2e50c55badba'
+translatedAt: '2026-10-03T03:14:53+08:00'
 ---
 
-# Chính sách thương mại quốc tế của Đài Loan: Tìm kiếm vị trí trong làn sóng toàn cầu hóa
+# Chính sách thương mại quốc tế của Đài Loan: Tìm vị thế trong làn sóng toàn cục hóa
 
-## 30 Giây Tổng Quan
+## 30 giây tổng quan
 
-Đài Loan, là một nền kinh tế đảo quốc phụ thuộc cao vào thương mại quốc tế, đang phải đối mặt với thách thức kép giữa "hiện thực chính trị" và "nhu cầu kinh tế". Thông qua việc tranh thủ tham gia CPTPP, thúc đẩy chính sách hướng Nam mới, duy trì quan hệ thương mại với Hoa Kỳ, Đài Loan đang cố gắng xây dựng quan hệ đối tác thương mại đa dạng trong không gian quốc tế hạn chế. Đồng thời cần đạt được cân bằng giữa sự phụ thuộc vào thương mại hai bờ eo biển và an ninh kinh tế, để tìm kiếm con đường phát triển bền vững cho nền kinh tế Đài Loan.
+Đài Loan, với nền kinh tế hòn đảo cao trượt vào phụ thuộc thương mại quốc tế, phải đối mặt với thách thức kép giữa "hiện thực chính trị" và "nhu cầu kinh tế". Thông qua việc nỗ lực tham gia CPTPP, thúc đẩy chính sách Hướng Nam mới, và duy trì mối quan hệ thương mại với Hoa Kỳ, Đài Loan đang xây dựng mối quan hệ đối tác thương mại đa dạng trong không gian quốc tế hạn chế. Đồng thời, cần cân bằng giữa sự phụ thuộc kinh tế hai bờ eo biển và an ninh kinh tế, tìm kiếm con đường phát triển bền vững cho nền kinh tế Đài Loan.
 
-**Từ khóa:** CPTPP, chính sách hướng Nam mới, ECFA, thỏa thuận thương mại tự do, đa dạng hóa thương mại, tái cấu trúc chuỗi cung ứng
-
----
-
-## Tại Sao Điều Này Quan Trọng
-
-Đài Loan là một nền kinh tế đảo quốc thiếu tài nguyên thiên nhiên, tổng giá trị xuất nhập khẩu chiếm tỷ trọng hơn 100% GDP, sản phẩm điện tử, thiết bị máy móc sản xuất là trụ cột kinh tế, Đài Loan cũng là một nút thắt cắt quan trọng trong chuỗi cung ứng sản phẩm công nghệ toàn cầu. Cấu trúc này có nghĩa là chính sách thương mại chính là chính sách sinh tồn của quốc gia, không có xuất khẩu thì không có ngoại tệ, không có ngoại tệ thì không thể nhập khẩu năng lượng và nguyên liệu thô.
-
-Trong bối cảnh không gian ngoại giao bị hạn chế, hợp tác kinh tế-thương mại trở thành kênh chính để Đài Loan tham gia xã hội quốc tế: thông qua các tổ chức quốc tế như WTO duy trì quyền phát ngôn, sử dụng thành tựu kinh tế để nâng cao hình ảnh quốc tế tại các diễn đàn ngoại giao thực chất, đồng thời đối diện với áp lực địa chính trị từ sự trỗi dậy kinh tế của Trung Quốc, cần tìm được điểm cân bằng giữa phân tán rủi ro và duy trì những giao dịch cần thiết.
+**Từ khóa:** CPTPP, Chính sách Hướng Nam mới, ECFA, Thỏa thuận thương mại tự do, Đa dạng hóa thương mại, Tái cấu trúc chuỗi cung ứng
 
 ---
 
-## Phân Tích Cấu Trúc Thương Mại Đài Loan
+## Tại sao điều này quan trọng
 
-### Các Đối Tác Thương Mại Chính
+Đài Loan là một nền kinh tế hòn đảo thiếu hụt tài nguyên tự nhiên, với tổng giá trị xuất nhập khẩu vượt quá 100% GDP. Các ngành công nghiệp sản xuất như thiết bị điện tử, máy móc cơ khí là nền tảng của nền kinh tế, đồng thời Đài Loan cũng là một nút then chính trong chuỗi cung ứng toàn cầu của các sản phẩm công nghệ. Cấu trúc này đồng nghĩa với việc chính sách thương mại chính là chính sách sống còn của đất nước — không có xuất khẩu thì không có ngoại tệ, không có ngoại tệ thì không thể nhập khẩu năng lượng và nguyên liệu thô.
 
-Theo thống kê của Bộ Tài Chính, năm 2023 Trung Quốc (bao gồm Hồng Kông) chiếm khoảng 31,7% tỷ trọng xuất khẩu của Đài Loan, là thị trường xuất khẩu lớn nhất[^1]; Hoa Kỳ, Nhật Bản, Hiệp hội các quốc gia Đông Nam Á (ASEAN), Liên minh Châu Âu theo thứ tự tiếp theo. Mặc dù mức độ tập trung vào Trung Quốc đã giảm so với đỉnh cao từ thập niên 2010, nhưng vẫn là trọng tâm chính của chính sách đa dạng hóa thương mại. Hàn Quốc và Đài Loan trong lĩnh vực bán dẫn, màn hình nước ngoài có quan hệ cạnh tranh hợp tác song song, là một mối quan hệ thương mại khác đáng chú ý.
-
-### Cấu Trúc Sản Phẩm Xuất Khẩu
-
-Xuất khẩu của Đài Loan tập trung cao độ vào sản phẩm công nghệ cao. Theo thống kê của Bộ Tài Chính năm 2022-2023, sản phẩm điện tử (bán dẫn, máy tính, thiết bị thông tin liên lạc) chiếm 60% trở lên xuất khẩu[^1], tiếp đó là máy móc chính xác và máy công cụ, sản phẩm hóa học - dầu khí và chất dẻo, cũng như thép và kim loại có màu. Mức độ tập trung này làm cho Đài Loan đặc biệt nhạy cảm với chu kỳ thị trường bán dẫn, khi nhu cầu chip giảm, các con số xuất khẩu tổng thể sẽ phản ứng nhanh.
-
-### Các Mặt Hàng Phụ Thuộc Nhập Khẩu
-
-Sự phụ thuộc vào nhập khẩu năng lượng của Đài Loan là rủi ro cấu trúc lớn nhất: dầu mỏ, khí đốt tự nhiên, than đá hầu như toàn bộ phụ thuộc nhập khẩu. Quặng kim loại và nguyên liệu hóa học, thực phẩm và sản phẩm chăn nuôi, thiết bị bán dẫn và dụng cụ khoa học, là bốn loại nhu cầu nhập khẩu chính khác. Tính dễ tổn thương địa chính trị của nhập khẩu năng lượng là một khía cạnh khó tránh nhất trong chính sách an ninh chuỗi cung ứng của Đài Loan.
+Trong bối cảnh không gian ngoại giao bị hạn chế, hợp tác kinh tế trở thành kênh chính để Đài Loan tham gia vào cộng đồng quốc tế: duy trì quyền lực thông qua các tổ chức quốc tế như WTO, nâng cao hình ảnh quốc tế thông qua thành tích kinh tế trong các hoạt động ngoại giao thực chất, đồng thời đối mặt với áp lực địa chính trị từ sự phát triển kinh tế của Trung Quốc, cần tìm ra điểm cân bằng giữa việc phân tán rủi ro và duy trì mối quan hệ cần thiết.
 
 ---
 
-## Khuôn Khổ Chính Sách Thương Mại Cơ Bản
+## Phân tích cấu trúc thương mại của Đài Loan
 
-### Sự Tham Gia Dưới Khung Thể Chế WTO
+### Các đối tác thương mại chính
 
-Đài Loan hoạt động dưới danh xưng "Vùng Lệ Phí Độc Lập Đài, Bành, Kim, Mã" (2002-cho đến nay) với tư cách thành viên WTO, điểm khởi đầu chính thức của việc gia nhập là năm 2002, tuân thủ quy chuẩn trong hệ thống thương mại đa phương, tham gia các cuộc đàm phán đa phương. Tuy nhiên, thiết kế danh xưng này mang lại sự ma sát chính trị lâu dài: Trung Quốc tại các diễn đàn WTO can thiệp vào quyền phát ngôn của Đài Loan, và sự phức tạp về danh tính trong các tổ chức quốc tế, làm cho hiệu quả tham gia của Đài Loan trong các cuộc đàm phán đa phương WTO bị nén lại. Bất chấp điều này, tư cách thành viên WTO vẫn là cơ sở pháp lý quan trọng để Đài Loan duy trì bảo vệ thương mại đa phương.
+Theo thống kê Bộ Tài chính, năm 2024, Trung Quốc đại lục và Hồng Kông chiếm 31.7% tỷ lệ xuất khẩu của Đài Loan, vẫn là thị trường xuất khẩu lớn nhất nhưng đã đạt mức thấp nhất trong vòng gần 23 năm, thấp hơn 12.2 điểm phần trCent so với mức đỉnh 43.9% vào năm 2020[^1]。Hoa Kỳ với 23.4% trở thành thị trường xuất khẩu thứ hai, ASEAN chiếm 18.5% xếp ở vị trí thứ ba, Châu Âu 8.1%, Nhật Bản 5.4% tiếp theo. Mặc dù mức độ phụ thuộc vào Trung Quốc vẫn tiếp tục giảm nhưng vẫn là trọng tâm chính của chính sách đa dạng hóa thương mại. Hàn Quốc và Đài Loan có mối quan hệ cạnh tranh và hợp tác trong lĩnh vực bán dẫn và màn hình, là một mối quan hệ thương mại đáng chú ý khác.
 
-### Thỏa Thuận Thương Mại Tự Do Hai Bên (FTA)
+### Cấu trúc sản phẩm xuất khẩu
 
-Số lượng FTA chính thức được Đài Loan ký kết hiện nay cực kỳ hạn chế, các đối tượng chính là các nước giao kèo Trung Mỹ (Panama, Guadeloupe, Nicaragua, El Salvador, Honduras). Đài Loan lần lượt ký kết Thỏa Thuận Hợp Tác Kinh Tế (ECA) với Tân Tây Lan và Singapore, thuộc khung FTA phi truyền thống[^2]. Các mục đang trong cuộc đàm phán bao gồm: Hoa Kỳ (năm 2023 đã ký Chương 1 thuận tiện thương mại của Sáng kiến Thương mại Thế kỷ 21 Đài-Mỹ[^3]), Ấn Độ (thỏa thuận đầu tư song phương), Anh (đối thoại đầu tư). Sự mở rộng FTA bị hạn chế là do nguyên nhân cơ bản chính trị: nhiều quốc gia do áp lực từ Bắc Kinh không sẵn lòng ký kết thỏa thuận chính thức với Đài Loan, cần thúc đẩy tiến độ thông qua các khung thay thế.
+Xuất khẩu của Đài Loan tập trung mạnh vào các sản phẩm công nghệ cao. Theo thống kê Bộ Tài chính, hai nhóm hàng chính là linh kiện điện tử (37.3%) và thiết bị viễn thông và âm thanh hình ảnh (27.9%), năm 2024 chiếm tổng cộng 65% tỷ lệ xuất khẩu[^1]，sau đó lần lượt là kim loại cơ bản, máy móc, sản phẩm nhựa và cao su, và hoá chất, mỗi nhóm chiếm từ 3% đến 6%. Mức độ tập trung này khiến Đài Loan đặc biệt nhạy cảm với chu kỳ thị trường bán dẫn — khi nhu cầu sản phẩm chỉ bán dẫn giảm, con số xuất khẩu tổng thể sẽ phản ứng nhanh chóng.
 
----
+### Các mặt hàng nhập khẩu phụ thuộc
 
-## Các Sáng Kiến Chính Sách Nổi Bật
-
-### Chiến Lược Tham Gia CPTPP
-
-Đài Loan chính thức nộp đơn tham gia CPTPP vào tháng 9 năm 2021, thành lập nhóm làm việc liên bộ, triển khai đối thoại chính sách với các nước thành viên. Đánh giá lợi ích gia nhập bao gồm tiếp cận thị trường của 11 nước thành viên, hầu hết các sản phẩm từng bước giảm về không thuế, nâng cao tính minh bạch của môi trường đầu tư, cũng như các cơ hội mới trong dịch vụ tài chính, viễn thông và các lĩnh vực dịch vụ khác.
-
-Tuy nhiên, con đường gia nhập phải đối mặt với trở ngại kép từ ngoài và trong nước. Phía trong, tiếng nói bảo vệ nông nghiệp mạnh mẽ, kỳ hạn bằng sáng chế cho dược phẩm gây tranh cãi, điều chỉnh chính sách lao động nước ngoài liên quan đến lợi ích nhạy cảm; phía ngoài, sự cản trở chính trị của Trung Quốc là biến số khó vượt qua nhất. Cho đến năm 2026, đơn tham gia CPTPP của Đài Loan vẫn chưa có tiến triển thực chất, các nước thành viên đối với tính chất nhạy cảm chính trị của việc xử lý song song đơn tham gia của Đài Loan và Trung Quốc, khiến các cuộc đàm phán gia nhập rơi vào tình trạng tê liệt[^4].
-
-Từ phía chiến lược ứng phó, chính phủ tiếp tục tiến hành đánh giá tác động với các ngành công nghiệp và hỗ trợ, thích ứng luật pháp và cải cách chế độ, giao tiếp với Quốc hội và đối thoại xã hội, cũng như sâu đẩy quan hệ song phương với các nước thành viên, để dành sẵn không gian thúc đẩy các vấn đề khi thời cơ gia nhập trưởng thành.
-
-### Chính Sách Hướng Nam Mới (2016-cho đến nay)
-
-Chính sách hướng Nam mới được khởi động năm 2016, mục tiêu là phân tán sự phụ thuộc thị trường vào Trung Quốc, sâu đẩy quan hệ kinh tế-thương mại với Đông Nam Á, Nam Á, thúc đẩy hợp tác chuỗi sản xuất khu vực và trao đổi nhân tài. Chính sách bao phủ 10 nước ASEAN, 6 nước Nam Á, Tân Tây Lan, Úc tổng cộng 18 quốc gia mục tiêu, thúc đẩy dựa trên bốn trục chính: hợp tác kinh tế-thương mại, trao đổi nhân tài, chia sẻ tài nguyên, kết nối khu vực.
-
-Kết quả cụ thể bao gồm tăng trưởng đầu tư vào các nước hướng Nam, tăng giá trị thương mại song phương, các trường hợp hợp tác khu vực công nghiệp, cũng như xuất khẩu giáo dục kỹ nghệ. Thách thức thực tế của chính sách nằm ở sự khác biệt ngôn ngữ văn hóa, sự bất quen với môi trường pháp lý địa phương, rủi ro chính trị và khoảng cách cơ sở hạ tầng — những trở ngại này giải thích rằng sự mở rộng hướng Nam cần trục thời gian dài hơn so với chuyển tuyến thương mại.
-
-### Sáng Kiến Thương Mại Thế Kỷ 21 Đài-Mỹ
-
-Năm 2023 đã ký Chương 1 (Thuận tiện Thương mại) của Sáng kiến Thương mại Thế kỷ 21 Đài-Mỹ, bao gồm thuận tiện thương mại, thực hành soạn thảo luật pháp, hợp tác nông nghiệp, chống tham nhũng, thương mại doanh nghiệp vừa và nhỏ, thương mại kỹ thuật số, vấn đề lao động, vấn đề môi trường tám lĩnh vực. Ý nghĩa chiến lược nằm ở việc sâu đẩy quan hệ kinh tế-thương mại Đài-Mỹ, định hình nền tảng cho các thỏa thuận rộng hơn trong tương lai, đồng thời thể hiện năng lực cải cách của Đài Loan, tăng cường cơ sở tin tưởng Đài-Mỹ trong khuôn khổ hợp tác khu vực Ấn Độ-Thái Bình Dương.
+Sự phụ thuộc nhập khẩu năng lượng của Đài Loan là rủi ro cấu trúc lớn nhất: dầu mỏ, khí tự nhiên, than hầu như phải nhập khẩu hoàn toàn. Các mặt hàng khác như khoáng sản kim loại và liệu pháp hoá học, nông sản và thú sản, thiết bị bán dẫn và dụng cụ khoa học, là bốn nhóm nhu cầu nhập khẩu khác. Sự nhạy cảm địa chính trị của nhập khẩu năng lượng là một yếu tố khó tránh khỏi trong chính sách an ninh cung ứng của Đài Loan.
 
 ---
 
-## Quan Hệ Kinh Tế Thương Mại Hai Bờ Eo Biển
+## Khung chính sách thương mại cốt lõi
 
-### Ký Kết Và Tác Động Của ECFA
+### Tham gia trong khuôn khổ WTO
 
-Đài Loan trong giai đoạn (2010-2012) thúc đẩy khuôn khổ ECFA, năm 2010 ký Thỏa thuận Hợp Tác Kinh Tế Hai Bờ Eo Biển (ECFA), thông qua phương thức danh sách thu hoạch sớm hạ thấp thuế quan cho một số hàng hóa, đồng thời thiết lập cơ chế đàm phán tiếp theo. Thỏa thuận thúc đẩy tăng trưởng thương mại song phương, làm cho đầu tư công ty Đài Loan ở Trung Quốc thuận tiện hơn, tăng khách du lịch Trung Quốc đến Đài Loan cũng như mở rộng giao dịch tài chính. Tiếng nói phê phán chỉ ra: thỏa thuận làm sâu đẩy mức độ phụ thuộc kinh tế, tăng tốc độ chuyển dịch ngành công nghiệp, làm xấu hóa phân phối thu nhập, đồng thời ẩn chứa rủi ro an ninh quốc gia.
+Đài Loan hoạt động dưới danh nghĩa "khu vực thuế quan riêng lẻ của Đài Loan, Đảo Phú Lộc và Bắc Khu" (2002–nay) như một thành viên của WTO, chính thức bắt đầu từ năm 2002, tuân thủ quy định và tham gia đàm phán đa phương trong hệ thống thương mại đa phương. Tuy nhiên, thiết kế danh tính này mang lại căng thằng chính trị kéo dài: sự can thiệp của Trung Quốc trong việc Đài Loan phát biểu tại các hội nghị WTO, cũng như sự phức tạp của danh tính trong các tổ chức quốc tế, khiến hiệu quả tham gia của Đài Loan trong các vòng đàm phán đa phương của WTO bị thu hẹp. Dù vậy, thành viên của WTO vẫn là nền tảng pháp lý quan trọng để Đài Loan duy trì bảo vệ thương mại đa phương.
 
-**Tình Hình ECFA Gần Đây (2023-2024)**: Cuối năm 2023, Trung Quốc hủy bỏ ưu đãi thuế quan giảm cho 539 mặt hàng danh sách thu hoạch sớm; tháng 5 năm 2024 lại hủy bỏ 134 mặt hàng hóa học dầu khí ưu đãi giảm, khuôn khổ ECFA bị xói mòn nghiêm trọng thực chất[^5]. Các ngành xuất khẩu liên quan của Đài Loan phải đối mặt với áp lực tăng thuế quan, lợi ích hiện tại của ECFA đã giảm đáng kể.
+### Các thỏa thuận thương mại tự do song phương (FTA)
 
-### Thách Thức Kinh Tế Thương Mại Hai Bờ Eo Biển Hiện Tại
-
-Vấn đề cấu trúc chính có bốn mặt: mức độ phụ thuộc thương mại của Đài Loan vào Trung Quốc quá cao, sự trùng lắp cạnh tranh ngành công nghiệp tăng lên, rủi ro rò rỉ công nghệ tăng cao, cũng như xem xét an ninh chuỗi cung ứng. Hướng điều chỉnh chính sách là tăng cường kiểm soát công nghệ quan trọng, thúc đẩy đa dạng hóa chuỗi cung ứng, thiết lập cơ chế an ninh kinh tế, đồng thời duy trì các giao dịch thương mại cần thiết — phần sau trở nên ngày càng khó nắm bắt chính xác khi bối cảnh chính trị hai bờ eo biển căng thẳng leo thang.
+Hiện nay, số lượng FTA chính thức mà Đài Loan đang thực thi còn rất hạn chế, chỉ còại lại hai quốc gia trong khu vực Trung Mỹ là Panama và Guatemala[^2]：Panama duy trì hiệu lực thỏa thuận ngay cả sau khi cắt đứt năm 2017, trong khi Nicaragua, El Salvador, Honduras và Guatemala đã ký FTA nhưng sau khi cắt đứt thì chúng lần lượt chấm dứt. Ngoài ra, Đài Loan cũng ký kết Thỏa thuận hợp tác kinh tế Đài-Nova Zeland (ANZTEC) và Thỏa thuận đối tác kinh tế Đài-Tây Sơn (ASTEP) với Singapore[^2]。Trong những năm gần đây, tiến trình chủ yếu tập trung vào các cú pháp song phương: năm 2018 ký kết Thỏa thuận đầu tư song phương với Ấn Độ[^9]，năm 2023 ký kết gói thỏa thuận đầu tiên của Đối thoại thương mại thiên niên kỷ Đài-Mỹ[^3]，kèm theo Thỏa thuận nâng cấp mối quan hệ đối tác thương mại với Vương quốc Anh (ETP)[^8]，và năm 2026 ký kết Thỏa thuận thương mại bình đẳng[^7]。Nguyên nhân cơ bản khiến việc mở rộng FTA bị hạn chế chính là hiện thực chính trị: nhiều quốc gia do áp lực từ Bắc Kinh không dám ký kết thỏa thuận chính thức với Đài Loan, cần phải sử dụng khung thay thế để thúc đẩy.
 
 ---
 
-## Chính Sách Thương Mại Theo Từng Ngành
+## Các đề xuất chính sách chính trọng
 
-### Ngành Bán Dẫn
+### Chiến lược tham gia CPTPP
 
-Bán dẫn Đài Loan chiếm vị trí chủ chốt trong chuỗi cung ứng toàn cầu, lợi thế cạnh tranh lõi xuất phát từ công nghệ quy trình tiên tiến hàng đầu, hệ sinh thái ngành công nghiệp hoàn chỉnh và nguồn nhân lực chất lượng cao. Hướng chính sách thương mại là tham gia liên minh chip Hoa Kỳ, thiết lập chuỗi cung ứng đáng tin cậy, tăng cường cơ chế kiểm soát xuất khẩu. Kế hoạch đặt nhà máy của TSMC ở Hoa Kỳ, Nhật Bản là cách thức điển hình mà Đài Loan chủ động quản lý rủi ro ngoại giao trong bối cảnh xu hướng chính trị hoá chuỗi cung ứng chip.
+Đài Loan đã nộp đơn tham gia CPTPP vào ngày 22 tháng 9 năm 2021, thành lập nhóm làm việc liên bộ, và tiến hành đối thoại chính sách với các quốc gia thành viên. Đánh giá lợi ích của việc gia nhập bao gồm tiếp cận thị trường thành viên (lúc nộp đơn là 11 quốc gia, sau khi Anh gia nhập năm 2024 là 12 quốc gia), hầu hết các mặt hàng thuế quan được giảm dần về 0, nâng cao minh bạch môi trường đầu tư, cũng như cơ hội mới trong lĩnh vực dịch vụ tài chính và viễn thông.
 
-### Ngành Nông Nghiệp
+Tuy nhiên, con đường gia nhập đang gặp rào cản từ cả bên trong và bên ngoài. Về phía trong, tiếng ồn bảo vệ nông nghiệp mạnh mẽ, thời gian bảo hộ bằng sáng chế thuốc mở rộng gây tranh cãi, và điều chỉnh chính sách lao động nước ngoài liên quan tới lợi ích nhạy cảm; về phía ngoài, sự cản trở chính trị từ Trung Quốc là yếu tố khó vượt nhất. Tại hội nghị Bộ trưởng thứ 9 của CPTPP vào tháng 11 năm 2025, vẫn chưa thông qua việc thành lập nhóm làm việc gia nhập của Đài Loan, trong khi cùng một hội nghị quyết định khởi động thủ tục gia nhập của Uruguay[^4]。sự nhạy cảm chính trị của các quốc gia thành viên khi phải xử lý đồng thời đơn đăng ký của Đài Loan và Trung Quốc, khiến tiến trình gia nhập của Đài Loan bế tắc ở cửa ngõ.
 
-Nông nghiệp đóng vai trò là quân bài đàm phán nhạy cảm trong các cuộc đàm phán thương mại. Chi phí sản xuất tương đối cao, quy mô nền kinh tế sản xuất không đủ, cạnh tranh quốc tế quyết liệt, hình thành ba trở ngại ba lớp cho mở cửa thương mại nông sản. Chiến lược ứng phó là phát triển nông nghiệp tinh tế, tăng cường truy vết sản phẩm nông sản, thúc đẩy nông nghiệp công nghệ hóa, dùng phân biệt để thay thế cạnh tranh giá thấp.
+Đối phó chiến lược, chính phủ tiếp tục thực hiện đánh giá tác động ngành, hỗ trợ điều chỉnh pháp lệ và cải cách thể chế, truyền thống với quốc hội và đối thoại xã hội, cũng như sâu hơn các mối quan hệ song phương với từng quốc gia thành viên, để dự trữ không gian thúc đẩy khi thời điểm chín muồi.
 
-### Ngành Dịch Vụ
+### Chính sách Hướng Nam mới (2016–nay)
 
-Dịch vụ tài chính, dịch vụ công nghệ thông tin, sức khỏe y tế, ngành công nghiệp sáng tạo văn hóa là lĩnh vực lợi thế quốc tế hóa ngành dịch vụ Đài Loan. Hướng chính sách mở cửa là từng bước nới lỏng giới hạn vốn nước ngoài, nâng cao chất lượng dịch vụ, thiết lập thương hiệu quốc tế. Dịch vụ trong tỷ trọng xuất khẩu quá thấp, là không gian tăng trưởng được phát triển rõ rệt so với ngành sản xuất đối với Đài Loan.
+Chính sách Hướng Nam mới được đưa ra vào năm 2016, mục tiêu là phân tán sự phụ thuộc vào thị trường Trung Quốc, sâu hơn hợp tác kinh tế với ASEAN và Nam Á, thúc đẩy hợp tác chuỗi công nghiệp khu vực và trao đổi nhân lực. Chính sách bao phủ 18 quốc gia mục tiêu bao gồm 10 quốc gia ASEAN, 6 quốc gia Nam Á, cùng với New Zealand và Úc, dựa trên bốn trụ cột chính là hợp tác kinh tế, trao đổi nhân lực, chia sẻ nguồn lực và kết nối khu vực.
 
----
+Kết quả cụ thể bao gồm tăng trưởng đầu tư vào các quốc gia Hướng Nam, tăng trưởng kim ngạch thương mại hai bên, trường hợp hợp tác khu công nghiệp, cũng như xuất khẩu giáo dục nghề. Thách thức thực tế của chính sách nằm ở sự chênh lệch ngôn ngữ và văn hóa, sự lạ lẫm với môi trường pháp lý địa phương, rủi ro chính trị và khoảng cách hạ tầng — những rào cản này cho thấy sự mở rộng Hướng Nam cần thời gian dài hơn so với việc chuyển đổi tuyến đường thương mại.
 
-## Thương Mại Kỹ Thuật Số Và Kinh Tế Mới
+### Đối thoại thương mại thiên niên kỷ Đài-Mỹ và Thỏa thuận thương mại bình đẳng
 
-Để ứng phó với sự phát triển kinh tế kỹ thuật số, Đài Loan phải đối mặt với áp lực xây dựng chế độ trong các quy chuẩn quy tắc thương mại kỹ thuật số như quy chuẩn lưu lượng dữ liệu xuyên biên giới, tiêu chuẩn bảo vệ dữ liệu cá nhân, quy chuẩn thương mại điện tử, phối hợp thuế kỹ thuật số. Các chủ đề mới nổi bao gồm quản trị trí tuệ nhân tạo, giám sát tiền mã hóa, quy chuẩn nền tảng kinh tế, bảo vệ quyền sở hữu trí tuệ, Đài Loan cần tìm được cân bằng giữa tham gia xây dựng tiêu chuẩn quốc tế và bảo vệ chủ quyền kỹ thuật số riêng.
-
-Phối hợp với mục tiêu không khí thải carbon trung hòa toàn cầu, cơ chế điều chỉnh biên giới carbon của Liên minh Châu Âu (CBAM) đối với tác động của các xuất khẩu từ Đài Loan cần phải được đánh giá ngay. Hướng ứng phó của Đài Loan bao gồm chứng nhận lâm chứn carbon của ngành công nghiệp và thiết lập chuỗi cung ứng xanh, cũng như tái chế chất thải tài nguyên, thương mại nguyên liệu tái tạo, xuất khẩu công nghệ môi trường v.v. của cơ hội thương mại nền tảng kinh tế tuần hoàn.
+Ngày 1 tháng 6 năm 2023, Đài Loan và Hoa Kỳ ký kết gói thỏa thuận đầu tiên của Đối thoại thương mại thiên niên kỷ. Gói đầu tiên bao phủ 5 vấn đề: hành quản hải quan và thuận tiện thương mại, hoạt động pháp lý tốt, quy định nội địa trong dịch vụ, chống tham nhũng, doanh nghiệp nhỏ và vừa. 7 vấn đề còn lại bao gồm lao động, môi trường, nông nghiệp, thương mại số, chuẩn mực, doanh nghiệp nhà nước và chính sách phi thị trường sẽ được đàm phán sau[^3]。Vào ngày 12 tháng 2 (giờ Đông), hai bên ký kết Thỏa thuận thương mại bình đẳng (ART), thiết lập mức thuế bình đẳng 15% không áp dụng thêm, cho phép 2.072 mặt hàng của Đài Loan nhập khẩu vào Hoa Kỳ miễn thuế bình đẳng[^7]。Ý nghĩa chiến lược nằm ở việc sâu hơn mối quan hệ kinh tế thương mại Đài-Mỹ, đặt nền tảng cho các thỏa thuận rộng hơn trong tương lai, đồng thời thể hiện năng lực cải cách của Đài Loan, củng cố nền tảng tin cậy trong khuôn khổ hợp tác khu vực Ấn Độ – Thái Lan.
 
 ---
 
-## Cơ Chế Soạn Thảo Chính Sách Thương Mại
+## Quan hệ kinh tế thương mại hai bờ eo biển
 
-Chính sách thương mại Đài Loan được thúc đẩy bởi nhiều bộ phận phân công. Bộ Kinh tế, Cục Thương mại Quốc tế chịu trách nhiệm quy hoạch thực hiện chính sách thương mại, phối hợp đàm phán song phương và đa phương, xử lý rào cản thương mại; Văn phòng Đàm phán Kinh tế-Thương mại của Viện Hành pháp thống nhất các cuộc đàm phán kinh tế-thương mại quan trọng, phối hợp chính sách liên bộ và quy hoạch chính sách kinh tế-thương mại quốc tế. Bộ Ngoại giao phối hợp chính sách ngoại giao, Bộ Nông nghiệp chịu trách nhiệm đàm phán nông nghiệp, Bộ Phát triển Kỹ thuật Số chịu trách nhiệm quy chuẩn thương mại kỹ thuật số, hình thành cơ cấu soạn thảo chính sách phối hợp liên bộ.
+### Ký kết và tác động của ECFA
 
-Sự tham gia của khu vực tư nhân thông qua hai kênh được thực hiện: các hiệp hội ngành công nghiệp thông qua ủy ban tư vấn chính sách cung cấp gợi ý vị thế đàm phán và hỗ trợ đánh giá tác động; Viện Lập pháp tiến hành tranh luận các thỏa thuận quan trọng, giám sát chính sách thông qua câu hỏi, thẩm tính ngân sách. Cường độ giám sát dân gian có sự khác biệt đáng kể tùy theo độ nhạy cảm của vấn đề — ECFA kích phát các tranh cãi xã hội quy mô lớn năm 2010, cho tới nay vẫn là điểm tham chiếu quan trọng trong các vấn đề minh bạch thỏa thuận thương mại quan trọng.
+Đài Loan ký kết Thỏa thuận cấu trúc hợp tác kinh tế hai bờ eo biển (ECFA) vào năm 2010, giảm thuế quan một số mặt hàng thông qua danh sách thu nhập sớm, đồng thời thiết lập cơ chế đàm phán tiếp theo. Thỏa thuận thúc đẩy tăng trưởng thương mại hai bên, đưa các doanh nghiệp Đài Loan đầu tư vào Trung Quốc dễ dàng hơn và mở rộng hoạt động tài chính. Tiếng ồn chỉ trích cho rằng: thỏa thuận làm sâu sự phụ thuộc kinh tế, tăng tốc chuyển dịch công nghiệp, làm xấu phân phối thu nhập và tiềm ẩn rủi ro an ninh quốc gia.
 
----
+**Tình hình ECFA (2023–2024)**: Vào ngày 21 tháng 12 năm 2023, Ủy ban thuế quan của Chính phủ Trung Quốc tuyên bố từ ngày 1 tháng 1 năm 2024, đình chỉ 12 mục thuế trong danh sách ECFA bao gồm acrylic, xylene phụ[10]。Vào ngày 31 tháng 5 năm 2024, tuyên bố thêm từ ngày 15 tháng 6, đình chỉ 134 mặt hàng bao gồm dầu bôi trơn cơ bản, xe đạp cạnh tranh, một số sản phẩm dệt may trong thỏa thuận thuế[5]。các ngành công nghiệp xuất khẩu của Đài Loan phải đối mặt với áp lực tăng thuế, lợi ích của danh sách thu nhập sớm liên tục suy giảm.
 
-## Thách Thức Và Cơ Hội Tương Lai
+### Thách thức kinh tế thương mại hai bờ eo biển hiện tại
 
-Tái cấu trúc chuỗi cung ứng mang lại các cơ hội cụ thể: xu hướng ngoài nguồn bạn tốt, nhu cầu xây dựng chuỗi cung ứng có khả năng phục hồi, cũng như vị thế đối tác đáng tin cậy, làm cho Đài Loan được trao thêm quân bài đàm phán trong các cơ chế tích hợp khu vực mới như Khuôn khổ Kinh tế Ấn Độ-Thái Bình Dương (IPEF). Con đường sâu đẩy hợp tác song phương cũng vì vậy rõ ràng hơn.
-
-Tuy nhiên, những hạn chế cũng rõ ràng như vậy. Hiện thực chính trị hạn chế không gian mở rộng FTA chính thức, quyền phát ngôn trong các tổ chức quốc tế vẫn bị hạn chế về cấu trúc, tính đa dạng của đối tượng đàm phán thấp hơn các nền kinh tế định hướng thương mại có quy mô tương đương. Các khía cạnh điều chỉnh nội bộ bao gồm nâng cao sức cạnh tranh ngành công nghiệp, mở rộng thị trường nội địa, tăng cường năng lực đổi mới, cũng như hoàn thiện luật pháp thương mại và năng lực đàm phán. Liệu chiến lược đa dạng hóa của Đài Loan có thể đạt được đột phá hay không, cuối cùng còn phụ thuộc vào tốc độ diễn biến bối cảnh địa chính trị, cũng như Đài Loan có thể tranh thủ vị trí hàng đầu trong cửa sổ thỏa thuận đàm phán lần tiếp theo hay không.
+Các vấn đề cơ cấu chính bao gồm bốn điểm: mức độ phụ thuộc thương mại của Đài Loan vào Trung Quốc quá cao, sự chồng lấn cạnh tranh công nghiệp ngày càng tăng, rủi ro rò rỉ công nghệ tăng lên, và cân nhắc an ninh chuỗi cung ứng. Hướng điều chỉnh chính sách là củng cố kiểm soát công nghệ then chốt, thúc đẩy đa dạng hóa chuỗi cung ứng, xây dựng cơ chế an ninh kinh tế, đồng thời duy trì mối quan hệ thương mại cần thiết — yếu tố này ngày càng khó điều chỉnh chính xác khi căng thằng chính trị hai bờ eo biển le lói.
 
 ---
 
-**Đọc Thêm**:
+## Chính sách thương mại theo ngành
 
-- Hệ Thống Hải Quan Đài Loan Và EZ WAY (台灣海關報關制度與EZWAY) — Cách mà chính sách thương mại rơi vào trên một cá nhân gói mua sắm trực tuyến: trận chiến miễn thuế 2.000 đồng và chế độ uỷ thác thông quan hải quan
+### Ngành bán dẫn
 
-## Tài Liệu Tham Khảo
+Bán dẫn của Đài Loan chiếm vị trí then chốt trong chuỗi cung ứng toàn cầu, lợi thế cạnh tranh cốt lõi đến từ sự tiên phong trong công nghệ tiến trình tiên tiến, hệ sinh thái ngành hoàn chỉnh và nguồn nhân lực chất lượng cao. Hướng đi chính sách thương mại là tham gia vào Liên minh Chip của Hoa Kỳ, xây dựng chuỗi cung ứng đáng tin cậy, và củng cố cơ chế kiểm soát xuất khẩu. Kế hoạch đặt nhà máy của TSMC ở Hoa Kỳ và Nhật Bản là một ví dụ điển hình cho cách Đài Loan chủ động quản lý rủi ro ngoại giao trong xu hướng chính trị hóa hóa chuỗi cung ứng chip.
 
-[^1]: [Cục Thống Kê Bộ Tài Chính — Tổng Quan Thương Mại Xuất-Nhập Khẩu Của Nước Ta Năm 112](https://www.mof.gov.tw/htmlList/103) — Cấu trúc xuất khẩu Đài Loan năm 2023 và tỷ trọng các đối tác thương mại chính
+### Ngành nông nghiệp
 
-[^2]: [Cổng Thông Tin Vào Của Đài Loan ECA/FTA — Thỏa Thuận Hợp Tác Kinh Tế Đài-Tân Tây Lan, Đài-Singapore](https://fta.trade.gov.tw/) — Giải thích nội dung thỏa thuận ECA Đài Loan với Tân Tây Lan, Singapore
+Nông nghiệp đóng vai trò nhạy cảm trong các vòng đàm phán thương mại. Chi phí sản xuất tương đối cao, quy mô kinh tế chưa đủ lớn, cạnh tranh quốc tế khốc liệt, tạo thành ba rào cản cho việc mở cửa thương mại nông nghiệp. Chiến lược ứng phó là phát triển nông nghiệp cao chất lượng, củng cố nguồn gốc nông sản, và thúc đẩy nông nghiệp công nghệ hóa, thay thế cạnh tranh giá rẻ bằng sự khác biệt hóa.
 
-[^3]: [Văn Phòng Đàm Phán Kinh Tế-Thương Mại Viện Hành Pháp — Sáng Kiến Thương Mại Thế Kỷ 21 Đài-Mỹ](https://www.ey.gov.tw/otn/) — Bối Cảnh Và Nội Dung Ký Kết Chương Đầu Tiên (Thuận Tiện Thương Mại) Năm 2023
+### Dịch vụ
 
-[^4]: [Cục Thương Mại Quốc Tế Bộ Kinh Tế — Tiến Độ Đơn Tham Gia CPTPP](https://www.trade.gov.tw/) — Giải Thích Tiến Triển Đơn Tham Gia CPTPP Của Đài Loan Kể Từ Năm 2021
+Dịch vụ tài chính, viễn thông thông tin, y tế sức khỏe và công nghiệp sáng tạo là những lĩnh vực mạnh của sự quốc tế hóa dịch vụ của Đài Loan. Hướng đi mở cửa là dần dần giảm hạn chế đầu tư nước ngoài, nâng cao chất lượng dịch vụ, và xây dựng thương hiệu quốc tế. Dịch vụ chiếm tỷ lệ nhỏ trong xuất khẩu, là khoảng trống tăng trưởng rõ rệt so với sản xuất công nghiệp.
 
-[^5]: [Thông Tấn Xã Trung Ương 2024/5/31 — Trung Quốc Hủy Bỏ 134 Mặt Hàng Hóa Học Dầu Khí ECFA Giảm](https://www.cna.com.tw/) — Trung Quốc Tiếp Tục Hủy Bỏ 134 Mặt Hàng ECFA Giảm Hóa Chất Dầu Khí Tháng 5 Năm 2024
+---
 
-[^6]: [WTO — Báo Cáo Tranh Luận Chính Sách Thương Mại Vùng Lệ Phí Độc Lập Đài-Bành-Kim-Mã](https://wto.trade.gov.tw/cwto/Pages/Detail.aspx?nodeID=4613&pid=743047) — Báo Cáo Tranh Luận Chính Sách Thương Mại Của Đài Loan Bởi WTO
+## Thương mại số và nền kinh tế mới
+
+Đối phó với sự phát triển của nền kinh tế số, Đài Loan phải đối mặt với áp lực xây dựng cơ chế cho luật chuẩn dòng dữ liệu biên giới, chuẩn mực bảo vệ dữ liệu cá nhân, quy định thương mại điện tử, và điều phối thuế số. Các vấn đề mới bao gồm quản lý trí tuệ nhân tạo, quy định tiền mã hóa, quy định nền tảng kinh tế và bảo vệ sở hữu trí tuệ, Đài Loan cần cân bằng giữa tham gia vào việc đưa ra tiêu chuẩn quốc tế và bảo vệ chủ quyền số của chính mình.
+
+Phối hợp với mục tiêu thế giới giảm phát thải carbon đạt tới 0, đánh giá tác động của Cơ chế Điều chỉnh Biên giới carbon của EU (CBAM) đối với doanh nghiệp xuất khẩu của Đài Loan là điều không thể trì hoãn. Các hướng ứng phó của Đài Loan bao gồm chứng nhận dấu chân carbon ngành, xây dựng chuễng cung ứng xanh, và khai thác cơ hội thương mại trong nền kinh tế tuần hoàn thông qua thương mại chất thải tái chế, nguyên liệu tái tạo và xuất khẩu công nghệ bảo vệ môi trường.
+
+---
+
+## Cơ chế lập chính sách thương mại
+
+Chính sách thương mại của Đài Loan được thúc đẩy bởi nhiều bộ ngành. Bộ Thương mại Quốc tế của Bộ Kinh tế chịu trách nhiệm lập kế hoạch và thực hiện chính sách thương mại, điều phối đàm phán đa phương và song phương, và xử lý rào cản thương mại; Văn phòng Đàm phán Kinh tế Thương mại của Hành pháp viện chịu trách nhiệm tổng hợp các vòng đàm phán kinh tế thương mại quan trọng, điều phối chính sách liên bộ và lập kế hoạch chính sách thương mại quốc tế; Bộ Ngoại giao phối hợp với chính sách ngoại giao, Bộ Nông nghiệp chịu trách nhiệm đàm phán nông nghiệp, và Bộ Truyền thông và Công nghệ số chịu trách nhiệm cho các quy định thương mại số, tạo thành cấu trúc pháp lý đa bộ ngành.
+
+Tham gia của người dân thông qua hai kênh: Hiệp hội ngành công nghiệp cung cấp lời khuyên về quan điểm đàm phán và hỗ trợ đánh giá tác động thông qua Hội đồng tư vấn chính sách; Quốc hội xem xét các thỏa thuận quan trọng, giám sát thông qua câu hỏi chính sách và thanh toán ngân sách. Mức độ giám sát của người dân khác nhau tùy thuộc vào độ nhạy cảm của vấn đề — sự tranh cãi xã hội rộng lớn do ECFA vào năm 2010 vẫn là tham chiếu cho minh bạch trong các vòng đàm phán thỏa thuận thương mại quan trọng.
+
+---
+
+## Thách thức và cơ hội trong tương lai
+
+Chuỗi cung ứng tái cấu trúc mang lại cơ hội cụ thể: xu hướng giao việc cho đối tác an toàn, nhu cầu xây dựng chuỗi cung ứng vững chắc, và vai trò đối tác đáng tin cậy. Dù chưa được mời tham gia Khuôn khổ Kinh tế Ấn Độ – Thái Lan (IPEF) được khởi động vào năm 2022, Đài Loan thông qua Đối thoại thương mại thiên niên kỷ Đài-Mỹ và Thỏa thuận thương mại bình đẳng đã đạt được nhiều cơ hội đàm phán hơn trong hợp tác song phương. Con đường sâu hơn trong hợp tác song phương cũng trở nên rõ ràng hơn.
+
+Tuy nhiên, những hạn chế vẫn rõ rệt. Hiện thực chính trị giới hạn không gian mở rộng FTA, quyền phát biểu trong các tổ chức quốc tế vẫn bị hạn chế cấu trúc, và đối tượng đàm phán ít đa dạng hơn so với các nền kinh tế hướng tới thương mại cùng quy mô. Các điều chỉnh nội bộ bao gồm nâng cao năng lực cạnh tranh ngành, mở rộng thị trường nội địa, củng cố năng lực đổi mới, và hoàn thiện pháp lệ thương mại và năng lực đàm phán. Liệu chiến lược đa dạng hóa của Đài Loan có thành công, cuối cùng phụ thuộc vào tốc độ biến động của bản đồ địa chính trị, và liệu Đài Loan có thể chiếm lĩnh vị trí trong cửa sổ đàm phán kế tiếp.
+
+---
+
+**Tài liệu tham khảo mở rộng**:
+
+- [Hải quan Đài Loan và EZ WAY](/vi/lifestyle/ezway) — Chính sách thương mại rơi xuống gói hàng mua sắm cá nhân: tranh cãi ngưỡng miễn thuế 2.000 NDT và hệ thống hải quan ủy quyền
+- [Ngành bán dẫn](/vi/technology/taiwan-semiconductor-industry) — Nguồn gốc của hơn một phần ba linh kiện điện tử, cách chip trở thành mỏ thương mại lớn nhất của Đài Loan
+- [Khu công nghiệp Kaohsiung](/vi/history/kaohsiung-export-processing-zone) — Khu vực miễn thuế năm 1966 và cửa sổ đơn, điểm khởi đầu của nền kinh tế hướng tới xuất khẩu của Đài Loan
+
+## Tài liệu tham khảo
+
+[^1]: [Bộ Tài chính — Tổng quan thương mại xuất nhập khẩu năm 113](https://service.mof.gov.tw/public/Data/statistic/bulletin/114/113%E5%B9%B4%E6%88%91%E5%9C%8B%E5%87%BA%E9%80%B2%E5%8F%A3%E8%B2%BF%E6%98%93%E6%A6%82%E6%B3%81.pdf) — Tỷ lệ xuất khẩu sang Trung Quốc đại lục và Hồng Kông 31.7% (thấp nhất trong 23 năm, mức cao 43.9% vào năm 2020), Hoa Kỳ 23.4%, ASEAN 18.5%, Châu Âu 8.1%, Nhật Bản 5.4%; tổng cộng linh kiện điện tử và thiết bị viễn thông chiếm 65% tỷ lệ xuất khẩu
+
+[^2]: [Trang web tổng hợp ECA/FTA của Đài Loan](https://fta.trade.gov.tw/) — Kết quả đã ký kết hiện tại: 2 quốc gia Trung Mỹ FTA (Panama, Guatemala), ECFA, Thỏa thuận hợp tác kinh tế Đài-Nova Zeland (ANZTEC), Thỏa thuận đối tác kinh tế Đài-Tây Sơn (ASTEP) v.v.
+
+[^3]: [Hành pháp viện — Gói thỏa thuận thương mại thiên niên kỷ Đài-Mỹ ký ngày (2023-06-01)](https://www.ey.gov.tw/Page/9277F759E41CCD91/070b69ff-9f30-4076-b5c7-5af3a58e108d) — 5 vấn đề trong gói đầu tiên và 7 vấn đề đàm phán sau
+
+[^4]: [Bộ Ngoại giao — Thông cảm thông cho việc không thành lập nhóm làm việc gia nhập CPTPP của chúng tôi vào năm nay (2025-11-21)](https://www.mofa.gov.tw/News_Content.aspx?n=95&s=121153) — Nộp đơn vào ngày 22 tháng 9 năm 2021; hội nghị Bộ trưởng thứ 9 quyết định khởi động thủ tục gia nhập của Uruguay
+
+[^5]: [Central News Agency 2024/5/31 — Trung Quốc hủy bỏ một phần giảm thuế ECFA, 134 mặt hàng bị ảnh hưởng](https://www.cna.com.tw/news/acn/202405310037.aspx) — Từ ngày 15 tháng 6 năm 2024, đình chỉ mức thuế thỏa thuận ECFA cho dầu bôi trơn cơ bản, xe đạp cạnh tranh, một số sản phẩm dệt may
+
+[^6]: [WTO — Báo cáo xem xét chính sách thương mại của Đài Loan trong khu vực thuế quan riêng lẻ của Đài Loan, Đảo Phú Lộc và Bắc Khu](https://wto.trade.gov.tw/cwto/Pages/Detail.aspx?nodeID=4613&pid=743047) — Báo cáo xem xét chính sách thương mại của WTO đối với Đài Loan
+
+[^7]: [Hành pháp viện — Đài Loan và Hoa Kỳ ký kết Thỏa thuận thương mại bình đẳng, thiết lập mức thuế bình đẳng 15% không áp dụng thêm (2026-02-13)](https://www.ey.gov.tw/Page/9277F759E41CCD91/472c4eba-b7c3-4a7d-8b39-e482e5a1548d) — Vào ngày 12 tháng 2 (giờ Đông), ký kết Thỏa thuận thương mại bình đẳng (ART), 2.072 mặt hàng của Đài Loan nhập khẩu vào Hoa Kỳ được miễn thuế bình đẳng
+
+[^8]: [Hành pháp viện — Đài Loan và Vương quốc Anh ký kết Thỏa thuận nâng cấp mối quan hệ đối tác thương mại (2023-11-08)](https://www.ey.gov.tw/Page/9277F759E41CCD91/92b567c0-ea7e-4e84-a9ea-7d7a9001d041) — Thỏa thuận nâng cấp mối quan hệ đối tác thương mại (ETP) chính thức được ký kết
+
+[^9]: [Bộ Ngoại giao — Đài Loan và Ấn Độ ký kết Thỏa thuận đầu tư song phương và Thỏa thuận công nhận doanh nghiệp chất lượng (2018-12-18)](https://www.mofa.gov.tw/News_Content.aspx?n=95&sms=73&s=68013) — Ký kết Thỏa thuận đầu tư song phương Đài-Ấn Độ
+
+[^10]: [Giới thương mại 2023/12/21 — Trung Quốc công bố đình chỉ một phần giảm thuế ECFA](https://www.ctee.com.tw/news/20231221700749-430802) — Từ ngày 1 tháng 1 năm 2024, đình chỉ mức thuế thỏa thuận ECFA cho 12 mục bao gồm acrylic, xylene phụ
