@@ -1,354 +1,354 @@
 ---
-title: "Développement de l'industrie logicielle taïwanaise"
-description: "De la pensée de sous-traitance à l'innovation logicielle : comment Taïwan se repositionne à l'ère post-semi-conducteurs"
+title: "Le développement de l'industrie logicielle à Taïwan"
+description: "De la mentalité de sous-traitance au logiciel innovant : comment Taïwan trouve une nouvelle position dans l'ère des semi-conducteurs"
 date: 2026-03-18
-author: 'Taiwan.md'
 category: 'Technology'
-subcategory: '人工智慧'
 tags:
   [
     'Industrie logicielle',
-    'Services informatiques',
-    'Transformation numérique',
-    'Startups',
+    'services informatiques',
+    'transformation numérique',
+    'startups',
   ]
+subcategory: '人工智慧'
+author: 'Taiwan.md'
 readingTime: 12
+featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: false
 translatedFrom: 'Technology/台灣軟體產業發展.md'
-sourceCommitSha: '24efd20f3'
+sourceCommitSha: '3e08bf82b'
 sourceContentHash: 'sha256:e6d1dafa422fe928'
 sourceBodyHash: 'sha256:1d51e9aba96f7253'
-translatedAt: '2026-05-15T14:23:14+08:00'
+translatedAt: '2026-10-02T09:16:45+08:00'
 ---
 
-# Développement de l'industrie logicielle taïwanaise
+# Développement de l'industrie logicielle à Taïwan
 
-## Vue d'ensemble en 30 secondes
+## Aperçu en 30 secondes
 
-Taïwan est depuis longtemps reconnu mondialement pour sa fabrication de matériel, mais ces dernières années, l'industrie logicielle connaît une ascension rapide. De l'intégration de systèmes au développement de jeux vidéo en passant par les applications d'IA, l'industrie logicielle taïwanaise, soutenue par les politiques gouvernementales, est passée d'une « logique de sous-traitance matérielle » à un « modèle d'innovation logicielle », trouvant ainsi sa propre trajectoire dans l'économie numérique.
+Taïwan est mondialement réputé pour sa fabrication matérielle, mais son industrie logicielle connaît une croissance rapide ces dernières années. De l'intégration de systèmes au développement de jeux et aux applications d'IA, l'industrie du logiciel taïwanaise est passée d'une « mentalité de sous-traitance matérielle » à un « modèle d'innovation logicielle », trouvant ainsi sa deuxième voie dans l'ère économique numérique.
 
-En 2023, le chiffre d'affaires des services informatiques à Taïwan s'élevait à environ 680 milliards de dollars taïwanais, avec un taux de croissance annuel moyen de 8 à 10 %, bien supérieur à celui de l'industrie manufacturière dans son ensemble.
+En 2023, le chiffre d'affaires des services informatiques à Taïwan était d'environ NT$680 milliards, avec un taux de croissance annuel moyen d'environ 8 à 10 %, ce qui est bien supérieur à celui de la fabrication globale.
 
-Mots-clés : transformation numérique, services logiciels, applications d'IA, industrie du jeu vidéo, intégration de systèmes
+Mots-clés : transformation numérique, services logiciels, applications IA, industrie du jeu, intégration de systèmes
 
 ## Pourquoi c'est important
 
-À l'heure où le monde entre dans l'ère de l'économie numérique, la valeur ajoutée de la fabrication purement matérielle est sous pression, tandis que les logiciels et services sont devenus les véritables créateurs de valeur. Pour que Taïwan passe du statut de « grande nation manufacturière » à celui de « grande nation innovante », l'industrie logicielle constitue le champ de bataille essentiel de cette transition.
+À mesure que le monde entre dans l'ère économique numérique, la valeur ajoutée de la seule fabrication matérielle est sous pression ; les logiciels et les services sont devenus les véritables créateurs de valeur. Pour passer d'une « grande puissance manufacturière » à une « grande puissance innovante », l'industrie logicielle est le champ de bataille clé de cette transition.
 
-L'industrie logicielle possède des avantages structurels difficiles à égaler pour l'industrie matérielle : une marge brute moyenne de 30 à 50 % (contre 5 à 15 % pour le matériel), des coûts marginaux tendant vers zéro, et des modèles économiques rapidement reproductibles sur les marchés internationaux.
+L'industrie du logiciel possède un avantage structurel que la fabrication matérielle peine à égaler : une marge brute moyenne de 30 à 50 % (contre 5 à 15 % pour le matériel), des coûts marginaux proches de zéro, et un modèle commercial qui peut être rapidement répliqué sur les marchés internationaux.
 
 Pour Taïwan, l'industrie logicielle représente :
 
-- **La modernisation industrielle** : passer de la sous-traitance à la marque et à l'innovation
-- **La valeur du talent** : l'excellente culture d'ingénierie taïwanaise s'épanouit pleinement dans le domaine logiciel
-- **La compétitivité mondiale** : être au niveau international dans des domaines tels que l'IA, le jeu vidéo et la fintech
+- **L'amélioration industrielle** : passer de la sous-traitance à la marque et à l'innovation
+- **La valeur des talents** : la culture d'ingénierie talentueuse de Taïwan brille dans le domaine du logiciel
+- **La compétitivité mondiale** : être au même niveau que les autres pays dans des domaines comme l'IA, le jeu et la fintech
 
-## État actuel et taille de l'industrie
+## État et échelle de l'industrie
 
-### Vue d'ensemble du développement
+### Aperçu général
 
-Selon les statistiques de l'Institut pour l'Industrie de l'Information (MIC), l'industrie des services informatiques à Taïwan a connu une croissance stable ces dernières années :
+Selon les statistiques de MIC (Taiwan Information and Communications Industry Association), l'industrie des services informatiques à Taïwan a connu une croissance stable ces dernières années :
 
-- **Taille de l'industrie** : en 2023, le chiffre d'affaires des services informatiques à Taïwan s'élevait à environ 680 milliards de dollars taïwanais[^3]
-- **Effectifs** : plus de 450 000 personnes travaillent dans les services informatiques à travers le pays
-- **Tendance de croissance** : le taux de croissance annuel moyen est d'environ 8 à 10 %, bien supérieur à celui de l'industrie manufacturière dans son ensemble
+- **Taille de l'industrie** : Le chiffre d'affaires du secteur des services informatiques à Taïwan était d'environ NT$680 milliards en 2023[^3]
+- **Effectifs** : Plus de 450 000 personnes travaillent dans les services informatiques à Taïwan.
+- **Tendance de croissance** : Un taux de croissance annuel moyen d'environ 8 à 10 %, bien supérieur à celui de la fabrication globale.
 
 Comparée à l'industrie matérielle traditionnelle, l'industrie logicielle présente :
 
-- Des marges brutes plus élevées (moyenne de 30 à 50 % contre 5 à 15 % pour le matériel)
-- Une plus grande extensibilité (coûts marginaux tendant vers zéro)
-- Des modèles économiques plus flexibles (abonnements, services cloud)
+- Une marge brute plus élevée (en moyenne 30-50 % contre 5-15 % pour le matériel)
+- Une meilleure extensibilité (coûts marginaux proches de zéro)
+- Un modèle commercial plus flexible (abonnement, services cloud)
 
-### Analyse de la structure industrielle
+### Analyse structurelle de l'industrie
 
 L'industrie logicielle taïwanaise se divise principalement en quatre domaines :
 
 **1. Services d'intégration de systèmes (SI)**
 
-- Représentés par des entreprises comme Systex, Ruling et Systex Data Services
-- Ils accompagnent la transformation numérique des secteurs traditionnels : finance, industrie manufacturière, administration publique
-- Ils représentent environ 40 % du chiffre d'affaires total des services informatiques
+- Représentés par des entreprises telles que Jingcheng, Eiyang et Citakongyu
+- Ils accompagnent la transformation numérique des industries traditionnelles comme la finance, la fabrication et le gouvernement.
+- Ils représentent environ 40 % du chiffre d'affaires total des services informatiques.
 
-**2. Développement de jeux vidéo**
+**2. Développement de jeux**
 
-- Des entreprises historiques comme Gamania, Rayark et XPEC Entertainment
-- De nouveaux studios de jeux mobiles comme Rayark Games et Red Candle Games
-- Valeur de production annuelle : selon le rapport PwC Global Entertainment & Media Outlook 2024, la valeur de production de l'industrie taïwanaise du jeu vidéo et de l'e-sport a atteint 126 milliards de dollars taïwanais en 2024[^1] (le chiffre de 50 milliards mentionné dans le texte original correspond à une estimation plus ancienne), provenant majoritairement des marchés d'outre-mer
+- Les entreprises historiques telles que CIGAM (Zhi Guan), Rayark et Yujian.
+- Les studios de jeux mobiles émergents récents comme Rayark Game et Choku Game.
+- Valeur ajoutée annuelle : Selon le rapport "Global Entertainment & Media Outlook 2024" de PwC, la valeur du jeu vidéo et de l'e-sport à Taïwan a atteint NT$126 milliards en 2024[^1] (le chiffre de 50 milliards est une donnée plus ancienne), la majorité provenant des marchés étrangers.
 
 **3. Solutions logicielles d'entreprise**
 
-- Logiciels de gestion d'entreprise : ERP, CRM, HRM
-- Acteurs locaux comme Systex et Data Systems Consulting
-- Développement actif de solutions cloudifiées et intégrant l'IA ces dernières années
+- Logiciels de gestion d'entreprise tels que ERP, CRM, HRM.
+- Des entreprises locales comme Citong Computer et Dingxin Computer.
+- Ces entreprises développent activement des solutions basées sur le cloud et l'IA ces dernières années.
 
-**4. Applications de technologies émergentes**
+**4. Applications technologiques émergentes**
 
-- Nouvelles applications technologiques : IA/ML, blockchain, IoT
-- Développement conjoint entre startups et instituts de recherche
-- Domaine prioritaire du gouvernement dans le cadre du programme « AI Taiwan »
+- Nouvelles applications telles que IA/ML, blockchain, IoT.
+- Développement en collaboration avec des startups et des institutions de recherche.
+- Domaines clés soutenus par le programme "AI Taiwan" du gouvernement.
 
-## De la sous-traitance à l'innovation : parcours de transition
+## Le parcours de la transition : de la sous-traitance à l'innovation
 
-### Développement initial (1980-2000)
+### Les débuts (1980-2000)
 
-L'industrie logicielle taïwanaise a émergé dans les années 1980, principalement selon les modèles suivants :
+L'industrie logicielle taïwanaise a commencé dans les années 1980, avec un modèle principal :
 
-- **Sous-traitance logicielle** : développement de logiciels pour des entreprises étrangères, similaire au modèle OEM du matériel
-- **Services de localisation** : adaptation de logiciels étrangers au marché local, comme la version chinoise de Microsoft Windows
-- **Intégration de systèmes** : combinaison de matériel et de logiciels pour fournir des systèmes d'information aux entreprises
+- **Sous-traitance logicielle** : développer des logiciels pour des entreprises étrangères, similaire au modèle OEM matériel.
+- **Services de localisation** : adapter des logiciels étrangers localement, comme la version chinoise de Microsoft Windows.
+- **Intégration de systèmes** : combiner le matériel et le logiciel pour fournir des systèmes d'information aux entreprises.
 
-Cette phase se caractérisait par une « orientation technique », mettant l'accent sur les compétences en ingénierie, mais manquant de pensée de marque et d'innovation.
+La caractéristique de cette période était l'« orientation technique », mettant l'accent sur les capacités de mise en œuvre d'ingénierie, mais manquant de vision de marque et d'innovation.
 
-### L'ère Internet (2000-2010)
+### L'ère du Web (2000-2010)
 
 Après la bulle Internet, l'industrie logicielle taïwanaise a commencé à chercher de nouvelles orientations :
 
-- **Montée de l'industrie du jeu vidéo** : les jeux en ligne sont devenus le premier succès de l'industrie logicielle taïwanaise
-- **Développement du commerce électronique** : émergence de plateformes comme Yahoo Auction et PChome
-- **Impulsion gouvernementale** : la politique « Deux milliards, deux étoiles » a désigné le contenu numérique comme industrie prioritaire
+- **L'essor du jeu** : les jeux en ligne sont devenus le premier succès de l'industrie logicielle taïwanaise.
+- **Développement du e-commerce** : l'émergence de plateformes comme Yahoo Auction et PChome.
+- **Promotion gouvernementale** : la politique "Deux Trillions, Deux Étoiles" a désigné le contenu numérique comme une industrie clé.
 
 ### L'ère mobile et cloud (2010-2020)
 
-La popularisation des smartphones a ouvert de nouvelles opportunités :
+La généralisation des smartphones a apporté de nouvelles opportunités :
 
-- **Jeux mobiles** : les entreprises de jeux ont pénétré le marché du jeu mobile, comme _Zombie Rock_ de Gamania et _Cytus_ de Rayark Games
-- **Transition vers le cloud** : les éditeurs de logiciels traditionnels ont commencé à développer des services SaaS
-- **Écosystème startup** : des accélérateurs comme AppWorks et TMI ont accompagné les jeunes pousses
+- **Jeux mobiles** : les entreprises de jeux ont commencé à pénétrer le marché des jeux mobiles, comme _Zombie Rock_ de Rayark Network ou _Cytus_ de Rayark Game.
+- **Transition vers le cloud** : les éditeurs de logiciels traditionnels commencent à développer des services SaaS.
+- **Écosystème startup** : des accélérateurs comme AppWorks et TMI cultivent de nouvelles équipes de startups.
 
-### L'ère de l'IA et de la transformation numérique (2020-à présent)
+### L'ère de l'IA et de la transformation numérique (2020 à aujourd'hui)
 
-La pandémie a accéléré la transformation numérique, et le gouvernement a lancé la politique « Nation numérique, économie innovante » :
+La pandémie a accéléré la transformation numérique, poussant le gouvernement à lancer la politique "Nation Numérique - Économie Innovante" :
 
-- **Applications d'IA** : de la maintenance prédictive dans l'industrie manufacturière à l'analyse d'images médicales
-- **Services 5G** : applications innovantes combinant 5G et edge computing
-- **Logiciels ESG** : solutions logicielles aidant les entreprises à mettre en œuvre le développement durable
+- **Applications IA** : allant de la maintenance prédictive dans la fabrication à l'analyse d'images médicales.
+- **Services 5G** : applications innovantes combinant 5G et calcul en périphérie (edge computing).
+- **Logiciels ESG** : solutions logicielles aidant les entreprises à mettre en œuvre une gestion durable.
 
-## Entreprises clés et cas de succès
+## Grandes entreprises et cas de succès
 
-La compétitivité de l'industrie logicielle taïwanaise se manifeste à travers trois dimensions : la transformation numérique des grands acteurs traditionnels de l'intégration de systèmes, la percée internationale de l'industrie du jeu vidéo avec des propriétés intellectuelles originales, et les succès boursiers des startups spécialisées en IA.
+La compétitivité de l'industrie logicielle taïwanaise se manifeste sur trois dimensions : la transformation numérique des grands intégrateurs traditionnels, la percée internationale des IP du jeu, et les réalisations du capitalisme des startups IA.
 
-Ces trois dimensions illustrent un même constat : l'industrie logicielle taïwanaise a dépassé le cadre du service au marché local et démontre une capacité réelle à s'imposer à l'échelle mondiale dans des niches spécifiques.
+Ces trois dimensions démontrent une chose : l'industrie logicielle taïwanaise a dépassé le cadre du service local pour montrer une capacité réelle à établir une position mondiale dans des niches spécifiques.
 
-Les cas représentatifs suivants illustrent les résultats concrets de ces différentes trajectoires.
+Les exemples suivants illustrent les résultats concrets de différentes voies.
 
 ### Transformation des grands acteurs traditionnels
 
-**Systex Corporation (精誠資訊)**
+**Systex Corporation (Jingcheng)**
 
-- Fondée en 1997[^2], elle a débuté dans l'intégration de systèmes
-- S'est récemment repositionnée en « partenaire de transformation numérique »
-- A développé une « plateforme de services FinTech tout-en-un » pour accompagner la transformation numérique des banques
-- Chiffre d'affaires 2023 : environ 10 milliards de dollars taïwanais
+- Fondée en 1997[^2], elle a commencé par l'intégration de systèmes.
+- Elle s'est transformée en « partenaire de transformation numérique ».
+- Elle développe la « plateforme de services FinTech tout-en-un », aidant les banques à se transformer numériquement.
+- Son chiffre d'affaires était d'environ NT$10 milliards en 2023.
 
-**Data Systems Consulting (資通電腦)**
+**Citong Computer (Zitong Diannao)**
 
-- Leader taïwanais en part de marché des logiciels de gestion des ressources humaines (HRM)
-- A cloudifié ses logiciels HRM avec la plateforme « STAYFLEX »
-- Exporte avec succès vers l'Asie du Sud-Est, la Chine et d'autres marchés
+- Leader du marché des logiciels HRM à Taïwan.
+- Il a mis le logiciel HRM sur le cloud, lançant la plateforme "STAYFLEX".
+- Il a réussi à exporter vers l'Asie du Sud-Est et la Chine.
 
-### Stars de l'industrie du jeu vidéo
+### Stars de l'industrie du jeu
 
-**Rayark Games (雷亞遊戲)**
+**Rayark Game (Leia Yixiu)**
 
-- Célèbre à l'international pour sa série de jeux musicaux _Cytus_
-- Mise sur la propriété intellectuelle originale, refusant les jeux à licence superficielle
-- Ses œuvres ont été récompensées par des prix internationaux du jeu vidéo, avec des joueurs dans le monde entier
+- Célèbre pour sa série de jeux musicaux _Cytus_.
+- Elle maintient une fidélité aux IP originales, ne faisant pas de jeux "relookés".
+- Ses œuvres ont reçu des récompenses internationales et ses joueurs sont répartis dans le monde entier.
 
-**Red Candle Games (赤燭遊戲)**
+**Choku Game (Chi Zhu Yixiu)**
 
-- Studio de jeux indépendants, spécialisé dans les jeux d'horreur
-- _Detention_ (_還願_) met en valeur la culture taïwanaise et a reçu un accueil enthousiaste à l'international
-- Incarne l'influence du jeu vidéo indépendant taïwanais sur la scène mondiale
+- Un studio indépendant connu pour ses jeux d'horreur.
+- _Huan Yuan_ a montré les caractéristiques culturelles de Taïwan, recevant une haute évaluation à l'international.
+- Il représente l'influence des jeux indépendants taïwanais sur la scène internationale.
 
 ### Représentants des startups IA
 
-**Appier Group (沛星互動科技)**
+**Appier Group (Pei Xing Hudu Dongqi)**
 
-- Fondée en 2012, spécialisée dans les technologies marketing basées sur l'IA
-- Cotée au Tokyo Stock Exchange en 2021, devenue la licorne IA de Taïwan[^11]
-- dessert plus de 1 000 marques, dont des entreprises internationales comme Toyota et L'Oréal
+- Fondée en 2012, elle se concentre sur les technologies de marketing par IA.
+- Elle a été cotée à la bourse de Tokyo en 2021, devenant une licorne taïwanaise de l'IA[^11].
+- Elle sert plus de 1 000 marques, y compris des entreprises internationales comme Toyota et L'Oréal.
 
-**Taiwan AI Labs (台灣人工智慧實驗室)**
+**Taiwan AI Labs (Taïwan Renkou Zhi Xue Shiyan Shiyuan)**
 
-- Fondée par Du Yi-jin, spécialisée dans les applications médicales de l'IA
-- A développé des outils d'IA pratiques comme « Yazhu Transcription » (雅婷逐字稿)
-- A collaboré avec l'hôpital universitaire de Taïwan pour développer des systèmes d'IA d'imagerie médicale
+- Fondé par Du Yijin, il se concentre sur les applications médicales de l'IA.
+- Il développe des outils IA pratiques tels que "Yateng Transcription".
+- Il collabore avec le Taipei Medical University Hospital pour développer des systèmes d'IA d'imagerie médicale.
 
-## Politiques gouvernementales et soutien
+## Politiques et soutien gouvernementaux
 
-### Programme « Nation numérique, économie innovante »
+### Plan de développement "Nation Numérique - Économie Innovante"
 
-Le Yuan exécutif a lancé en 2017 le « Programme pour une nation numérique et une économie innovante » (DIGI+ 2025)[^5], dont les axes principaux sont :
+Le Bureau du Conseil exécutif a lancé le « Plan de développement Nation Numérique - Économie Innovante » (DIGI+ 2025) en 2017[^5], avec les points clés suivants :
 
-1. **Infrastructures numériques** : infrastructures pour les technologies émergentes telles que la 5G, l'IA et la blockchain
-2. **Innovation numérique** : soutien aux startups logicielles et formation de talents numériques
-3. **Gouvernance numérique** : transformation numérique de l'administration et amélioration de l'efficacité des services publics
-4. **Inclusion numérique** : réduction de la fracture numérique entre zones urbaines et rurales
+1. **Construction des fondations numériques** : infrastructures pour les nouvelles technologies comme la 5G, l'IA et la blockchain.
+2. **Innovation numérique** : soutien aux startups logicielles et formation de talents numériques.
+3. **Gouvernance numérique** : transformation numérique du gouvernement pour améliorer l'efficacité des services publics.
+4. **Inclusion numérique** : réduire le fossé numérique entre les zones urbaines et rurales.
 
-### Programme « Asia Silicon Valley »
+### Plan "Asie - Silicon Valley"
 
-Axé sur l'« Internet des objets » et l'« innovation entrepreneuriale » :
+Centré sur l'"IoT" et l'"entrepreneuriat innovant" :
 
-- **Cadre réglementaire innovant** : bac à sable réglementaire financier, expérimentation de véhicules autonomes, etc.
-- **Injection de fonds** : le Fonds national de développement investit dans les startups, mise en place d'un programme d'investissement pour les business angels
-- **Connexions internationales** : établissement de partenariats avec des pôles d'innovation comme la Silicon Valley et Israël
+- **Réglementation innovante** : bacs à sable réglementaires financiers, expérimentations de véhicules autonomes.
+- **Injection de fonds** : le Fonds national investit dans les startups, créant un programme d'investissement providentiel pour les entrepreneurs.
+- **Liens internationaux** : établir des partenariats avec des pôles d'innovation comme la Silicon Valley et Israël.
 
-### Programme « AI Taiwan »
+### Plan AI Taiwan
 
-Le programme « AI Taiwan », lancé en 2021[^8] :
+Le plan "AI Taiwan" lancé en 2021[^8] :
 
-- **Formation de talents** : programme quadriennal de formation en IA, avec pour objectif de former 10 000 professionnels de l'IA
-- **Applications industrielles** : promotion de l'intégration de l'IA dans les industries traditionnelles
-- **Capacité de R&D** : création de centres de R&D en IA, en collaboration avec des institutions internationales de premier plan
+- **Formation de talents** : un programme de formation de l'IA sur 4 ans, visant à former 10 000 professionnels de l'IA.
+- **Applications industrielles** : promouvoir l'adoption de l'IA dans les industries traditionnelles.
+- **Capacité R&D** : créer des centres de recherche en IA et collaborer avec des institutions de pointe internationales.
 
 ## Défis et opportunités
 
-Les défis auxquels fait face l'industrie logicielle taïwanaise se concentrent principalement sur trois axes : les talents, la taille du marché et le financement, les trois étant interdépendants : le manque de financement rend difficile l'attraction des talents, et un marché trop petit décourage les investisseurs.
+Les défis auxquels est confrontée l'industrie logicielle taïwanaise se concentrent principalement sur trois aspects : le talent, la taille du marché et le financement, qui sont tous interconnectés. Le manque de fonds rend difficile l'attraction de talents ; un marché trop petit démotive les investisseurs.
 
-La clé réside dans l'internationalisation : Taïwan compte environ 20 000 diplômés par an dans des filières liées à l'informatique, mais les besoins de l'industrie se situent entre 30 000 et 40 000. Combler cet écart nécessite une double approche : renforcer la compétitivité salariale et créer davantage de produits logiciels exportables.
+La percée réside dans l'internationalisation : environ 20 000 diplômés par an des départements informatiques à Taïwan correspondent à un besoin d'environ 30 000 à 40 000 personnes. Réduire ce déficit nécessite une double approche : améliorer la compétitivité salariale et créer davantage de produits logiciels exportables.
 
-Cependant, la transformation numérique, les applications d'IA et les logiciels ESG ouvrent également rapidement de nouvelles fenêtres d'opportunité.
+Cependant, les demandes liées à la transformation numérique, aux applications IA et aux logiciels ESG ouvrent également de nouvelles fenêtres d'opportunités.
 
-### Principaux défis
+### Défis majeurs
 
 **Pénurie de talents**
 
-- Taïwan compte environ 20 000 diplômés par an dans des filières liées à l'informatique
-- Mais les besoins de l'industrie se situent entre 30 000 et 40 000, créant un déficit de talents significatif
-- Les niveaux de salaires restent inférieurs à ceux des États-Unis, de Singapour et d'autres pays, entraînant une fuite des meilleurs talents à l'étranger
+- Environ 20 000 diplômés par an des départements informatiques à Taïwan.
+- Mais le besoin est d'environ 30 000 à 40 000 personnes, ce qui représente un déficit notable.
+- Le niveau de salaire reste en retrait par rapport aux États-Unis et Singapour, entraînant une fuite des talents vers l'étranger.
 
-**Limites de la taille du marché**
+**Limites du marché**
 
-- Le marché intérieur taïwanais est relativement restreint
-- Les éditeurs de logiciels doivent disposer de capacités d'internationalisation pour se développer
-- Barrières à l'internationalisation : langue, culture, réglementation, etc.
+- Le marché intérieur taïwanais est relativement petit.
+- Les entreprises logicielles doivent avoir des capacités internationales pour grandir.
+- Des obstacles internationaux tels que la langue, la culture et la réglementation existent.
 
-**Difficultés d'accès au financement**
+**Difficultés d'obtention de fonds**
 
-- Comparée à l'industrie manufacturière matérielle, l'industrie logicielle a plus difficilement accès au financement bancaire
-- Le capital-risque augmente, mais son volume reste inférieur à celui des pays avancés
-- Le manque de fusions-acquisitions de grande envergure dans le secteur logiciel limite les mécanismes de sortie
+- Comparé à la fabrication matérielle, il est plus difficile pour l'industrie logicielle d'obtenir des prêts bancaires.
+- Bien que le capital-risque augmente, son échelle reste inférieure à celle des pays développés.
+- Le manque de cas de fusions et acquisitions logicielles importantes signifie un mécanisme de sortie insuffisant.
 
 ### Opportunités futures
 
-**Vague de transformation numérique**
+**La vague de transformation numérique**
 
-- La demande de transformation numérique des entreprises a explosé après la pandémie
-- L'industrie logicielle taïwanaise possède une solide expérience pratique de la digitalisation de l'industrie manufacturière
-- L'expérience taïwanaise peut être exportée vers d'autres pays en développement
+- La demande des entreprises pour la transformation numérique a explosé après la pandémie.
+- L'industrie logicielle taïwanaise possède une riche expérience pratique dans la numérisation manufacturière.
+- Cette expérience peut être exportée vers d'autres pays en développement.
 
 **IA et technologies émergentes**
 
-- Les avantages de Taïwan dans les semi-conducteurs et la fabrication de précision peuvent être combinés avec l'IA
-- Des domaines comme l'edge computing et l'AIoT pourraient devenir des marchés de niche pour Taïwan
-- Le gouvernement promeut activement les applications d'IA, offrant un environnement de test favorable
+- Les avantages de Taïwan dans les semi-conducteurs et la fabrication de précision peuvent être combinés avec l'IA.
+- Des domaines comme le calcul en périphérie (edge computing) et l'AIoT sont susceptibles de devenir des niches pour Taïwan.
+- Le gouvernement promeut activement les applications IA, offrant un environnement de test favorable.
 
 **Demande de développement durable**
 
-- Les enjeux ESG et de neutralité carbone génèrent de nouveaux besoins logiciels
-- Taïwan peut développer des solutions de gestion durable et de suivi de l'empreinte carbone
-- En combinant l'expérience manufacturière, il est possible de développer des logiciels d'usine intelligente et de chaîne d'approvisionnement verte
+- Les questions ESG et la neutralité carbone créent de nouveaux besoins logiciels.
+- Taïwan peut développer des solutions telles que la gestion durable et le suivi de l'empreinte carbone.
+- En combinant l'expérience manufacturière, il est possible de développer des logiciels d'usines intelligentes et de chaînes d'approvisionnement vertes.
 
 ## Comparaison internationale et positionnement
 
-Dans le paysage logiciel de l'Asie-Pacifique, le positionnement de Taïwan est celui d'un « marché professionnel de taille moyenne intégrant matériel et logiciel », plutôt qu'une base de sous-traitance à grande échelle (Inde) ou un écosystème dominé par des plateformes (Corée du Sud).
+Dans le paysage logiciel de l'Asie-Pacifique, la position de Taïwan est celle d'un « marché spécialisé intégrant matériel et logiciel », plutôt qu'une base de sous-traitance à grande échelle (comme l'Inde) ou un maître de l'écosystème de plateforme (comme la Corée).
 
-Ce positionnement présente des limites inhérentes, mais aussi des avantages différenciants difficiles à reproduire : dans des domaines nécessitant une intégration matériel-logiciel comme l'IoT et la fabrication intelligente, Taïwan possède une expérience pratique que d'autres régions ne peuvent pas facilement dupliquer.
+Ce positionnement a ses limites inhérentes, mais aussi des avantages différenciés difficiles à répliquer : Taïwan possède une expérience pratique dans les domaines nécessitant une intégration matériel-logiciel, comme l'IoT et la fabrication intelligente, que d'autres régions peinent à reproduire rapidement.
 
-La comparaison avec les pays voisins ci-dessous aide à clarifier la position relative de Taïwan.
+La comparaison avec les pays voisins aide à clarifier le positionnement relatif de Taïwan.
 
 ### Comparaison avec les pays voisins
 
-**vs Corée du Sud**
+**vs Corée**
 
-- La Corée du Sud devance Taïwan dans l'industrie du jeu vidéo (NCSOFT, Nexon, etc.)
-- Taïwan a des chances de rattraper son retard dans les logiciels B2B et les applications d'IA
-- Les deux pays font face à la concurrence chinoise et pourraient envisager une coopération
+- La Corée est en avance sur Taïwan dans l'industrie du jeu (comme NCSOFT, Nexon).
+- Taïwan a des opportunités pour rattraper son retard dans les logiciels B2B et les applications IA.
+- Les deux pays font face à la pression concurrentielle de la Chine et pourraient envisager une coopération.
 
 **vs Singapour**
 
-- Singapour est en tête dans la fintech, tandis que Taïwan est plus forte dans les logiciels manufacturiers
-- Singapour investit massivement via ses politiques publiques ; Taïwan doit renforcer son soutien politique
-- Singapour pourrait servir de tremplin vers l'Asie du Sud-Est
+- Singapour est en avance sur la fintech, tandis que Taïwan est plus fort dans le logiciel manufacturier.
+- Le gouvernement singapourien investit massivement ; Taïwan doit renforcer son soutien politique.
+- On peut considérer Singapour comme un tremplin vers l'Asie du Sud-Est.
 
 **vs Inde**
 
-- L'Inde est réputée pour la sous-traitance logicielle, tandis que Taïwan se concentre à forte valeur ajoutée
-- La capacité d'intégration matérielle de Taïwan constitue un avantage différenciant
-- Une relation de complémentarité et de coopération peut être envisagée avec l'Inde
+- L'Inde est réputée pour la sous-traitance logicielle, tandis que Taïwan se concentre sur les applications à haute valeur ajoutée.
+- La capacité d'intégration matérielle de Taïwan est un avantage différenciateur.
+- Une coopération complémentaire avec l'Inde est possible.
 
-### Le positionnement différenciant de Taïwan
+### Le positionnement différencié de Taïwan
 
 **Avantage de l'intégration matériel-logiciel**
 
-- Taïwan combine à la fois des capacités de fabrication matérielle et de développement logiciel
-- Avantageux dans les domaines nécessitant une intégration matériel-logiciel comme l'IoT et la fabrication intelligente
-- Peut développer des solutions intégrées « fabriqué à Taïwan + logiciel taïwanais »
+- Taïwan possède à la fois des capacités de fabrication matérielle et de développement logiciel.
+- Il a un avantage dans les domaines nécessitant une intégration matériel-logiciel, comme l'IoT et la fabrication intelligente.
+- Il peut développer des solutions globales "Fabrication Taïwanaise + Logiciel Taïwanais".
 
-**Marché de la culture chinoise**
+**Marché culturel chinois**
 
-- Les logiciels taïwanais sont bien adaptés à la sinisation et aux marchés asiatiques
-- Peut servir de tremplin pour les éditeurs de logiciels internationaux souhaitant pénétrer le marché asiatique
-- Dessert les marchés de la Chine continentale, de Hong Kong, de Macao et des communautés chinoises d'Asie du Sud-Est
+- Les logiciels taïwanais sont bien adaptés à la culture chinoise et au marché asiatique.
+- Ils peuvent servir de tremplin pour les entreprises logicielles internationales entrant sur le marché asiatique.
+- Ils servent le marché des Chinois des deux rives du détroit, de Hong Kong, Macao et de l'Asie du Sud-Est.
 
-**Culture d'innovation de qualité**
+**Culture de l'innovation raffinée**
 
-- L'industrie logicielle taïwanaise met l'accent sur l'expérience utilisateur et les détails du produit
-- Démontre une esthétique unique dans les jeux vidéo et les logiciels créatifs
-- S'inscrit dans la tendance de l'industrie logicielle à accorder une importance croissante au design et à l'expérience
+- L'industrie logicielle taïwanaise met l'accent sur l'expérience utilisateur et les détails du produit.
+- Elle présente une esthétique unique dans des domaines comme le jeu et les logiciels créatifs.
+- Cela correspond à la tendance actuelle qui valorise la conception et l'expérience dans l'industrie logicielle.
 
 ## Perspectives et développement futur
 
-L'industrie logicielle taïwanaise se trouve à une période de transition cruciale. Dans le contexte de la tendance mondiale à l'économie numérique, Taïwan a l'opportunité de passer du statut de « royaume du matériel » à celui de « puissance de l'innovation numérique ».
+L'industrie logicielle taïwanaise est en pleine période de transition critique. Dans la tendance mondiale de l'économie numérique, Taïwan a l'opportunité de passer d'un « royaume du matériel » à une « superpuissance de l'innovation numérique ».
 
-La contradiction centrale de cette réside dans le fait que Taïwan possède une forte culture matérielle, mais que le logiciel requiert une logique commerciale fondamentalement différente. Le chiffre d'affaires des services informatiques s'élevait à environ 680 milliards de dollars taïwanais en 2023, avec pour objectif de dépasser 1 000 milliards d'ici 2028, ce qui nécessiterait une croissance annuelle moyenne d'environ 5 à 7 % — un objectif réalisable sur la base existante.
+Le paradoxe central de cette transition réside dans le fait que si la mentalité matérielle de Taïwan est profonde, le logiciel nécessite une logique commerciale totalement différente. Le chiffre d'affaires des services informatiques en 2023 était d'environ NT$680 milliards, avec un objectif de dépasser NT$1 trillion d'ici 2028, ce qui nécessiterait une croissance annuelle d'environ 5 à 7 %, ce qui n'est pas impossible sur la base des acquis.
 
 **Objectifs à court terme (2026-2028)**
 
-- Le chiffre d'affaires de l'industrie des services informatiques dépasse 1 000 milliards de dollars taïwanais
-- Développer 50 entreprises candidates au statut de licorne logicielle
-- Mettre en place un système structuré de formation de talents logiciels
+- Le chiffre d'affaires du secteur des services informatiques dépasse NT$1 trillion.
+- Former 50 entreprises candidates à devenir licornes logicielles.
+- Établir un système de formation de talents logiciels systématisé.
 
 **Objectifs à moyen terme (2028-2030)**
 
-- Devenir un centre important d'innovation logicielle dans la région Asie-Pacifique
-- Établir un avantage concurrentiel international dans des domaines tels que l'IA, l'IoT et les technologies vertes
-- Les exportations de logiciels représentent 15 % des exportations totales
+- Devenir un centre d'innovation logicielle majeur en Asie-Pacifique.
+- Acquérir une compétitivité internationale dans les domaines de l'IA, de l'IoT et des technologies vertes.
+- Les exportations logicielles représentent 15 % du total des exportations.
 
 **Vision à long terme (après 2030)**
 
-- Établir une identité de marque reconnaissable « Taiwan Software »
-- Obtenir une part de marché et une influence significatives sur le marché logiciel international
-- La part des exportations de logiciels dans le PIB augmente sensiblement par rapport au niveau actuel, encore modeste
+- Établir une image de marque reconnaissable pour "Taiwan Software".
+- Obtenir une part significative et une voix dans le marché logiciel international.
+- Le poids des exportations logicielles par rapport au PIB augmente nettement par rapport aux niveaux actuels.
 
-L'avenir de l'industrie logicielle taïwanaise dépend de sa capacité à innover et à se réinventer tout en conservant ses acquis. En tirant les leçons du succès de la sous-traitance matérielle sans se laisser enfermer par la pensée du passé, l'industrie logicielle taïwanaise trouvera assurément sa place à l'ère numérique.
+L'avenir de l'industrie logicielle taïwanaise dépendra de sa capacité à innover tout en conservant ses avantages existants. En apprenant de l'expérience réussie de la sous-traitance matérielle, mais sans être entravé par les pensées passées, l'industrie logicielle taïwanaise trouvera inévitablement sa place dans l'ère numérique.
 
 ## Références
 
-[^1]: [PwC — Global Entertainment & Media Outlook 2024-2028](https://www.pwc.com/gx/en/industries/tmt/media/outlook.html) — Valeur de production de l'industrie taïwanaise du jeu vidéo et de l'e-sport en 2024 : 126 milliards de dollars taïwanais ; le chiffre de 50 milliards dans le texte original correspond à une estimation plus ancienne
+[^1]: [PwC — Global Entertainment & Media Outlook 2024-2028](https://www.pwc.com/gx/en/industries/tmt/media/outlook.html) — Valeur du jeu vidéo et de l'e-sport à Taïwan en 2024 : NT$126 milliards ; le chiffre de 50 milliards est une estimation plus ancienne.
 
-[^2]: [Systex Corporation 精誠資訊 — Company Profile](https://tw.systex.com/en/company-profile/) — Systex fondée en 1997, confirmé par le site officiel
+[^2]: [Systex Corporation (Jingcheng) — Profil de l'entreprise](https://tw.systex.com/en/company-profile/) — Jingcheng a été fondée en 1997, confirmé par leur site officiel.
 
-[^3]: [Institut pour l'Industrie de l'Information (MIC) — « Annuaire 2024 de l'industrie des services informatiques à Taïwan »](https://mic.iii.org.tw/) — Chiffre d'affaires des services informatiques à Taïwan en 2023 : environ 680 milliards de dollars taïwanais
+[^3]: [Taiwan Information and Communications Industry Association (MIC) — Annuaire des services informatiques taïwanais 2024](https://mic.iii.org.tw/) — Le chiffre d'affaires du secteur des services informatiques à Taïwan était d'environ NT$680 milliards en 2023.
 
-[^4]: [Bureau de l'Industrie du Ministère des Affaires économiques (aujourd'hui Agence de développement industriel) — « Stratégie de développement de l'industrie logicielle »](https://www.moea.gov.tw/) — Orientation et priorités de la politique taïwanaise de l'industrie logicielle en 2024
+[^4]: [Bureau de l'industrie (actuel Département du développement industriel) - Ministère de l'économie, "Stratégie de développement de l'industrie logicielle"](https://www.moea.gov.tw/) — Orientation et points clés de la politique industrielle logicielle taïwanaise en 2024.
 
-[^5]: [Commission nationale du développement — « Programme pour une nation numérique et une économie innovante (2021-2025) »](https://www.ey.gov.tw/Goals/5EF730EBAFCFFDF2) — Version actualisée 2021 du programme DIGI+, couvrant cinq axes principaux : innovation numérique, gouvernement numérique, etc.
+[^5]: [Conseil national pour le développement (NDPCA) — "Plan de développement Nation Numérique - Économie Innovante (2021-2025)"](https://www.ey.gov.tw/Goals/5EF730EBAFCFFDF2) — Version mise à jour du plan DIGI+ en 2021, couvrant les cinq axes majeurs tels que l'innovation numérique et le gouvernement numérique.
 
-[^6]: [Association de l'industrie logicielle de Taïwan — « Livre blanc 2024 de l'industrie logicielle »](https://www.tsia.org.tw/) — État des lieux et perspectives de l'industrie logicielle taïwanaise
+[^6]: [Taiwan Software Industry Association - "Livre blanc de l'industrie logicielle taïwanaise 2024"](https://www.tsia.org.tw/) — État général et perspectives de l'industrie logicielle taïwanaise.
 
-[^7]: [DIGITIMES Research — « Rapport sur le développement de l'industrie ICT à Taïwan » 2024](https://www.digitimes.com/) — Analyse des tendances de l'industrie de l'information et des communications à Taïwan
+[^7]: [DIGITIMES Research, "Rapport sur le développement de l'industrie ICT à Taïwan 2024"](https://www.digitimes.com/) — Analyse des tendances de l'industrie des TIC à Taïwan.
 
-[^8]: [Yuan exécutif — « Plan d'action AI Taiwan », version révisée 2023](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/a8ec407c-6154-4c14-8f1e-d494ec2dbf23) — Objectifs de formation en IA et promotion des applications industrielles
+[^8]: [Bureau du Conseil exécutif, "Plan d'action AI Taiwan révisé en 2023"](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/a8ec407c-6154-4c14-8f1e-d494ec2dbf23) — Objectifs de formation des talents IA et promotion des applications industrielles.
 
-[^9]: [Institut de recherche industrielle (ITRI) — « Rapport d'analyse des tendances de l'industrie logicielle taïwanaise 2024 »](https://ieknet.iek.org.tw/) — État actuel du développement et évaluation de la compétitivité de l'industrie logicielle taïwanaise
+[^9]: [Academia Sinica - "Rapport d'analyse des tendances de l'industrie logicielle taïwanaise 2024"](https://ieknet.iek.org.tw/) — Évaluation de l'état et de la compétitivité de l'industrie logicielle taïwanaise.
 
-[^10]: [PwC Taiwan — « Rapport d'enquête 2025 auprès des dirigeants d'entreprises taïwanaises »](https://www.pwc.tw/) — Intention de transformation numérique et tendances d'investissement des entreprises taïwanaises
+[^10]: [PwC Taiwan, "Étude sur les leaders d'entreprise taïwanais 2025"](https://www.pwc.tw/) — Volonté de transformation numérique et tendances d'investissement des entreprises taïwanaises.
 
-[^11]: [Rapport annuel et documents IR d'Appier Group](https://www.appier.com/en/press-media) — Rapport annuel 2023 de la Bourse de Tokyo ; informations relatives à l'introduction en bourse d'Appier au TSE en 2021
+[^11]: [Rapport annuel et documents IR du Groupe Appier](https://www.appier.com/en/press-media) — Rapport annuel de la Bourse de Tokyo en 2023 ; informations sur l'introduction en bourse d'Appier à la TSE en 2021.
 
-[^12]: [Rayark Games (雷亞遊戲) — Site officiel](https://rayark.com/zh/) — Historique de l'entreprise et présentation des œuvres, dont la série _Cytus_
+[^12]: [Rayark Game (Leia Yixiu) - Site officiel](https://rayark.com/zh/) — Parcours de développement et présentation des œuvres, y compris la série _Cytus_.
 
-[^13]: [Gamania (雷爵網路) — Site officiel](https://www.gamania.com/) — Chronique du développement de l'industrie du jeu vidéo à Taïwan et présentation des œuvres
+[^13]: [Rayark Network (Lei Jue) - Site officiel](https://www.gamania.com/) — Articles historiques sur le développement du jeu taïwanais et brèves présentations d'œuvres.
