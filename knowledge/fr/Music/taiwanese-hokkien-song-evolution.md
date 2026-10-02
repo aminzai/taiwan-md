@@ -1,189 +1,181 @@
 ---
-title: "L'évolution de la musique taïwanaise en langue taïwanaise : du « chant des anciens » à la coqueluche des jeunes intellectuels"
-description: "Retraçant l'évolution de la musique taïwanaise en langue taïwanaise, de l'ère du nakashi, de Hong Yi-feng et de [[Jody Chiang]] aux interprétations innovantes de nouvelles générations de groupes tels qu'[[Eggplant Egg Band]] et [[Sorry Youth Band]], cet article explore comment la musique en langue taïwanaise a regagné l'adhésion des jeunes générations."
+title: 'L''évolution de la musique chanteée en taïwanais : du "chansons d''ouvriers" à la mode des "bourgeois branchés"'
+description: "Suivre l'évolution de la musique chanteée en taïwanais, des années Nakashi, Hong Yifeng, Jody Chiang, jusqu'aux groupes Eggplant Egg, Sorry Youth, et d'autres nouvelles générations, explorant comment la musique en taïwanais a retrouvé l'identité des jeunes générations"
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'Music'
-subcategory: '流行音樂'
 tags:
   [
-    'chanson taïwanaise',
-    'nakashi',
-    'Hong Yi-feng',
+    'musique chanteée en taïwanais',
+    'Nakashi',
+    'Hong Yifeng',
     'Jody Chiang',
-    'Eggplant Egg Band',
-    'Sorry Youth Band',
+    'Eggplant Egg',
+    'Sorry Youth',
     'Collage',
-    'Golden Melody Awards',
+    'prix du disque national',
   ]
-readingTime: 14
+subcategory: '流行音樂'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: true
+readingTime: 14
 translatedFrom: 'Music/台灣台語歌曲演進.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:f008ac775b92e042'
-sourceBodyHash: 'sha256:14cffd9d61fb7eb9'
-translatedAt: '2026-05-17T05:34:56+08:00'
+sourceCommitSha: '5dcc54256'
+sourceContentHash: 'sha256:d424949afdcc0ad2'
+sourceBodyHash: 'sha256:f3b6a62bd1b3e3fe'
+translatedAt: '2026-10-03T00:56:56+08:00'
 ---
 
-# L'évolution de la musique taïwanaise en langue taïwanaise : du « chant des anciens » à la coqueluche des jeunes intellectuels
+# L'évolution de la musique chanteée en taïwanais : du "chansons d'ouvriers" à la mode des "bourgeois branchés"
 
-## Vue d'ensemble en 30 secondes
+## 30 secondes d'aperçu
 
-La musique taïwanaise en langue taïwanaise a traversé plusieurs grandes phases : la culture du nakashi de l'après-guerre, l'ère des rois de la chanson comme Hong Yi-feng et Wen Xia, l'âge d'or dominé par [[Jody Chiang]], jusqu'aux interprétations innovantes de nouvelles générations de groupes tels qu'[[Eggplant Egg Band]], [[Sorry Youth Band]] et Collage. Les chansons en langue taïwanaise, autrefois cantonnées au stéréotype du « chant des anciens », se sont transformées en une coqueluche des jeunes intellectuels et des nouvelles générations. La création de la catégorie « meilleur album en langue taïwanaise » aux Golden Melody Awards a fourni un soutien institutionnel à cette évolution.
+La musique chanteée en taïwanais a traversé plusieurs époques, de la culture Nakashi post-guerre, Hong Yifeng, Wen Xia, aux années faste de Jody Chiang, puis récemment aux innovations des nouvelles générations comme Eggplant Egg, Sorry Youth, Collage, etc. La musique en taïwanais a réussi à transformer son image d'"chansons d'ouvriers" en un phénomène populaire auprès des "bourgeois branchés" et des jeunes générations. La création d'une catégorie de meilleur album en taïwanais aux prix du disque national a également soutenu cette évolution.
 
-**Mots-clés :** musique pop taïwanaise, transmission intergénérationnelle, innovation musicale, identité culturelle, renaissance linguistique
+**Mots-clés :** musique populaire en taïwanais, transmission intergénérationnelle, innovation musicale, identité culturelle, renaissance linguistique
 
 ## Pourquoi c'est important
 
-L'histoire de l'évolution de la musique en langue taïwanaise reflète les changements politiques de la société taïwanaise, la transformation de l'identité culturelle et l'impact des politiques linguistiques. De la marginalisation à la revalorisation, la renaissance de la musique taïwanaise témoigne de la reconstruction de la confiance culturelle locale à Taïwan. L'essor de la musique taïwanaise de nouvelle génération montre que les cultures en langue maternelle peuvent encore trouver leur public à l'ère de la mondialisation.
+L'histoire de la musique chanteée en taïwanais reflète les changements politiques de la société taïwanaise, la transformation de l'identité culturelle, et l'impact des politiques linguistiques. Du marginalisation à la reconnaissance, la renaissance de la musique en taïwanais reflète la reconstruction de la confiance en soi de la culture locale. L'émergence de la musique en taïwanais des nouvelles générations montre que la culture linguistique peut toujours trouver son public dans l'ère de la mondialisation.
 
-## Origines populaires : le nakashi et la culture des chanteurs ambulants (1945-1970)
+## Origines populaires : Nakashi et la culture de la musique de rue (1945-1970)
 
-### La musique populaire de l'après-guerre
+### La musique populaire dans un Taïwan d'après-guerre
 
-Au début de l'après-guerre à Taïwan, l'économie était en difficulté et la société instable, mais la musique restait un réconfort indispensable dans la vie des gens. Le terme « nakashi » (那卡西), emprunté au japonais, désigne des musiciens itinérants qui, munis d'instruments simples, chantaient pour le public dans les bars, les salons de thé et les rues.
+Dans les premières années après la guerre, Taïwan était traversé par la pauvreté économique et les troubles sociaux, mais la musique restait un réconfort incontournable dans la vie quotidienne. Le terme "Nakashi", d'origine japonaise, désigne les artistes itinérants qui, avec des instruments simples, se produisaient dans les cafés, les salons de thé, les rues et les ruelles pour divertir le public.
 
-La culture du nakashi se caractérisait par son improvisation et son interactivité. Les chanteurs devaient adapter leur répertoire en fonction de l'ambiance du moment et des demandes du public, passant d'adaptations en langue taïwanaise de chansons japonaises à des compositions folkloriques locales, constituant ainsi un répertoire varié. Bien que cette forme de spectacle fût considérée par la société dominante comme « vulgaire », elle constituait le terreau le plus fertile pour la musique en langue taïwanaise.
+La culture Nakashi se distingue par son improvisation et son interaction. Les artistes devaient ajuster leurs répertoires en fonction de l'ambiance du lieu et des demandes du public, passant des adaptations en taïwanais de chansons japonaises à des créations locales, formant ainsi une diversité de répertoires. Bien que ce genre de représentation fût considéré comme "populaire" par la société dominante, il est néanmoins le berceau le plus crucial de la musique en taïwanais.
 
-### Les années de labeur des chanteurs ambulants
+### Les années difficiles des artistes itinérants
 
-La vie des chanteurs ambulants était pleine de défis. Ils devaient posséder un sens aigu de l'observation et une riche expérience de la vie pour susciter l'empathie du public en toute circonstance. De nombreux chanteurs taïwanais devenus célèbres par la suite, comme Hong Yi-feng et Ye Qi-tian, avaient connu cette expérience de chanteur ambulant, ce qui conférait à leurs voix un réalisme tiré du vécu.
+La vie des artistes itinérants était remplie de défis. Ils devaient posséder une observation fine et une expérience de vie profonde pour toucher le public dans divers contextes. Beaucoup de chanteurs en taïwanais célèbres comme Hong Yifeng, Ye Qitian, ont connu des expériences de musique de rue, ces expériences ont rendu leur voix empreinte de la réalité de la vie.
 
-La culture des chanteurs ambulants a également forgé le style vocal caractéristique de la musique taïwanaise : une intensité émotionnelle, une technique sans artifice et une proximité avec le quotidien. Ce style est devenu par la suite la caractéristique fondamentale distinguant la musique taïwanaise de la musique pop en mandarin.
+La culture de la musique de rue a également façonné un style vocal particulier à la musique en taïwanais : émotion intense, technique simple et proche de la vie. Ce style est devenu un caractère distinctif de la musique en taïwanais par rapport à la musique populaire en mandarin.
 
-## L'ère des rois de la chanson : l'âge d'or de Hong Yi-feng et Wen Xia (1960-1980)
+## L'ère des rois de la chanson : Les années d'or de Hong Yifeng et Wen Xia (1960-1980)
 
-### Hong Yi-feng : l'ascension du roi de la chanson taïwanaise
+### L'ascension de Hong Yifeng, le roi de la chanson en taïwanais
 
-Hong Yi-feng est salué comme le « roi de la chanson taïwanaise ». Son apparition a marqué le passage de la musique taïwanaise de la rue à l'industrie musicale formelle. _« La personne que j'aime en silence »_ (思慕的人), sorti en 1957, est devenu un classique de l'histoire de la musique taïwanaise, sa mélodie gracieuse et ses paroles émouvantes illustrant la hauteur artistique de cette musique.
+L'apparition de Hong Yifeng marque le passage de la musique en taïwanais des rues à l'industrie musicale officielle. En 1957, il rencontre le poète lyricien Ye Junlin, ensemble ils écrivent entre 1957 et 1959 des chansons comme "Souvenirs du passé", "Crépuscule à Tanli", "Celui qui pense à toi", etc. À l'époque, les maisons de disque ne croyaient pas au potentiel des chansons créatives en taïwanais, jusqu'en 1960, quand l'Asian Records publie l'album "Celui qui pense à toi", la voix de Hong Yifeng se propage à travers les ondes radio, et il devient célèbre aux côtés de Wen Xia sous le titre de "Rois de l'île de Formose"[^6]。La mélodie de "Celui qui pense à toi" est douce et émouvante, les paroles sont profondément sentimentales, et elle reste un classique de l'histoire de la musique en taïwanais.
 
-Le succès de Hong Yi-feng ne tenait pas seulement à ses remarquables talents vocaux, mais aussi à sa capacité à saisir avec justesse les émotions collectives des Taïwanais. Ses chansons décrivaient souvent les joies et les peines des petites gens, exprimant les émotions les plus profondes dans le langage le plus simple, suscitant une forte résonance chez les auditeurs.
+Le succès de Hong Yifeng ne réside pas seulement dans sa technique vocale exceptionnelle, mais aussi dans sa capacité à saisir précisément les émotions collectives des Taïwanais. Ses chansons décrivent souvent les joies et les peines des personnages ordinaires, exprimant des émotions profondes avec un langage simple, ce qui crée une forte résonance chez le public.
 
-### Wen Xia : pionnier du chanteur-auteur-compositeur
+### Wen Xia : Le pionnier des chansons créatives
 
-Wen Xia est un autre roi de la chanson ayant marqué la scène musicale taïwanaise, à la fois excellent interprète et compositeur prolifique. Ses œuvres représentatives, telles que _« Maman, prends aussi soin de toi »_ (媽媽請你也保重) et _« Le village natal au crépuscule »_ (黃昏的故鄉), sont encore largement chantées aujourd'hui.[^2]
+Wen Xia est une autre figure emblématique dans le monde de la musique en taïwanais, à la fois chanteur talentueux et créateur prolifique. Ses chansons emblématiques comme "Maman, prends soin de toi aussi", "Le pays de l'crépuscule", etc., sont toujours très populaires[^2]。
 
-Le style créatif de Wen Xia fusionnait des éléments du folklore traditionnel taïwanais et de la musique pop moderne, préservant à la fois le caractère local de la musique taïwanaise tout en lui conférant une dimension contemporaine. Son succès a prouvé que la musique en langue taïwanaise pouvait atteindre un très haut niveau artistique, établissant un modèle pour les musiciens taïwanais ultérieurs.
+Le style créatif de Wen Xia mélange les éléments traditionnels des chansons taïwanaises et la musique populaire moderne, conservant ainsi le caractère local de la musique en taïwanais tout en gardant un sens contemporain. Son succès prouve que la musique en taïwanais peut atteindre un niveau artistique élevé, établissant ainsi un modèle pour les musiciens taïwanais ultérieurs.
 
-### Le développement de l'industrie du disque
+### Le développement de l'industrie discographique
 
-Durant cette période, la musique taïwanaise a commencé à intégrer le système formel de l'industrie du disque. Des entreprises comme Haishan Records et Sihai Records se sont spécialisées dans la publication de disques en langue taïwanaise, mettant en place des systèmes de production, de distribution et de promotion. Bien que de taille modeste, ces entreprises ont fourni une base industrielle essentielle au développement de la musique taïwanaise.
+À cette époque, la musique en taïwanais commence à entrer dans le système industriel des maisons de disque, mais les chansons créatives en taïwanais ne sont pas immédiatement appréciées par les maisons de disque, l'album "Celui qui pense à toi" n'est publié qu'en 1960 par Asian Records[^6]。Le marché de la musique en mandarin est plus grand, la maison de disque Hai Shan fondée en 1962 se spécialise dans la musique populaire en mandarin et les bandes sonores de films en style huangmei, en 1967, elle adapte la chanson taïwanaise "Verre de vin triste" en chanson en mandarin "Verre de vin amer", ce qui fait un énorme succès à travers toute l'île[^7]。Les maisons de disque en taïwanais sont de petite taille, mais elles fournissent néanmoins une base industrielle essentielle pour le développement de la musique en taïwanais.
 
-## Répression politique et développement souterrain (1970-1990)
+## Répression politique et développement clandestin (1970-1990)
 
 ### L'impact des politiques linguistiques
 
-À partir des années 1970, le gouvernement nationaliste a lancé le « mouvement pour la langue nationale » (國語運動), restreignant l'usage des dialectes dans les médias. Les chansons en langue taïwanaise ont été considérablement réduites dans les programmes de télévision et de radio, limitant gravement l'espace de développement des chanteurs taïwanais. Cette politique a eu un impact profond sur le développement de la musique taïwanaise, obligeant de nombreux créateurs talentueux à se tourner vers la composition en mandarin.
+Le gouvernement nationaliste a promis la promotion de la langue mandarine dès 1946, et dans les années 1970, les restrictions sur les dialectes dans les médias deviennent de plus en plus strictes. En 1972, les trois chaînes de télévision ne peuvent pas dépassé une heure de programmes en taïwanais par chaîne, et ne peuvent pas dépassé deux chansons en taïwanais par jour ; la loi sur la radio et la télévision publiée en 1976 stipule que la langue de diffusion doit être principalement en mandarin, et les dialectes doivent être progressivement réduits[^8]。L'espace de développement des chanteurs en taïwanais est fortement limité, cette politique a profondément affecté le développement de la musique en taïwanais.
 
-### La résilience des activités souterraines
+### La résilience des activités clandestines
 
-Cependant, la musique taïwanaise n'a pas disparu en raison de la répression politique. Lors de cérémonies populaires (mariages, funérailles, fêtes), d'événements de temple et de rassemblements privés, les chansons en langue taïwanaise restaient une bande-son omniprésente. Ces activités « souterraines » ont maintenu la chaîne de transmission de la musique taïwanaise et perpétué la vitalité de cette tradition musicale.
+Cependant, la musique en taïwanais n'a pas disparu malgré la répression politique. Dans les cérémonies privées, les mariages, les cérémonies de temples, les réunions privées, la musique en taïwanais reste toujours présente comme musique d'ambiance. Ces activités "clandestines" maintiennent la chaîne de transmission de la musique en taïwanais, perpétuant ainsi la vie de la musique taïwanaise.
 
-De nombreux chanteurs taïwanais se sont tournés durant cette vers des formes de spectacle non conventionnelles, telles que les « camions électroniques décorés » (電子花車) et le chant ambulant. Bien que leur statut social fût modeste, ils ont maintenu la vitalité de la musique taïwanaise. Ces artistes possédaient souvent un charisme scénique puissant et une grande capacité d'improvisation, préservant ainsi une tradition performative précieuse pour la musique taïwanaise.
+Beaucoup de chanteurs en taïwanais ont migré vers des formes de présentation non officielles comme les "chars de Noël électroniques", les concerts de rue, etc., bien qu'ils ne soient pas très reconnus socialement, ils maintiennent néanmoins la vitalité de la musique en taïwanais. Ces artistes possèdent souvent une grande énergie scénique et une capacité d'improvisation, préservant ainsi les traditions de performance précieuses de la musique en taïwanais.
 
-## L'ère de Jody Chiang : la gloire de la reine de la chanson taïwanaise (1980-2015)
+## L'ère de Jody Chiang : L'apogée de la reine de la chanson en taïwanais (à partir des années 1980)
 
-### L'ascension de Jody Chiang, la « grande sœur »
+### L'ascension de la sœur aînée Jody Chiang
 
-À la fin des années 1980, l'apparition de [[Jody Chiang]] a porté la musique taïwanaise à de nouveaux sommets. Sa voix unique, sa technique vocale remarquable et son interprétation profondément émotionnelle des chansons ont permis à la musique taïwanaise de retrouver une large attention et reconnaissance.
+[Jody Chiang](/fr/people/jody-chiang/) a officiellement débuté sa carrière en tant que chanteuse en 1983, et son album "Adieu à la côte" en 1984 lui a valu sa première notoriété[^3]。Sa voix unique, sa technique vocale exceptionnelle, et son interprétation émotionnelle approfondie ont redonné à la musique en taïwanais une attention et une reconnaissance généralisées.
 
-Le succès de Jody Chiang ne tenait pas seulement à son talent personnel, mais reflétait aussi l'évolution de l'environnement politique de la société taïwanaise. Avec la levée de la loi martiale et la montée de la conscience locale, la culture taïwanaise a commencé à obtenir davantage de reconnaissance et de soutien. Jody Chiang a su saisir cette opportunité historique pour devenir la voix la plus représentative de la réémergence de la musique taïwanaise après la levée de la loi martiale.[^3]
+À l'époque de sa montée en popularité, Taïwan était encore sous la censure, la musique en taïwanais était principalement vendue dans les marchés nocturnes, la chanteuse était célèbre mais pas encore reconnue[^3]。Après la levée de la censure en 1987, la conscience locale s'accroît, l'espace de la culture taïwanaise s'ouvre, en 1990, lors de la première cérémonie des prix du disque national, Jody Chiang remporte le prix de la meilleure interprète féminine[^3]，devenant la voix la plus représentative de la musique en taïwanais après la levée de la censure.
 
-### Une influence intergénérationnelle
+### L'influence intergénérationnelle
 
-L'influence de Jody Chiang a transcendé les frontières générationnelles. Ses chansons ont non seulement été appréciées par les auditeurs d'âge moyen et les aînés, mais ont aussi attiré de nombreux jeunes auditeurs. Cette attractivité intergénérationnelle prouve que d'excellentes chansons en langue taïwanaise possèdent une valeur émotionnelle universelle et ne perdent pas leur charme en raison de la barrière linguistique.
+L'influence de Jody Chiang transcende les frontières générationnelles. Ses chansons sont non seulement aimées par les auditeurs d'âge moyen et avancé, mais attirent également de nombreux jeunes auditeurs. Cette attraction intergénérationnelle prouve que les excellentes chansons en taïwanais possèdent une valeur émotionnelle universelle, et ne perdront pas leur charme à cause des barrières linguistiques.
 
-Les concerts de Jody Chiang étaient souvent complets, démontrant la place importante de la musique taïwanaise sur le marché musical taïwanais. Son succès a également encouragé davantage de musiciens à se consacrer à la composition et à l'interprétation de chansons en langue taïwanaise.
+Les concerts de Jody Chiang sont souvent complets, prouvant ainsi l'importance de la musique en taïwanais dans le marché musical taïwanais. Son succès a également encouragé davantage de musiciens à se consacrer à la création et à l'interprétation de la musique en taïwanais. Elle a annoncé sa retraite en 2015, a fait son retour lors du gala de la fête nationale en 2024, et a organisé un concert de tournée en 2025[^3]。
 
-## L'essor de la nouvelle génération : du « chant des anciens » à la coqueluche des jeunes intellectuels (2010-présent)
+## L'émergence des nouvelles générations : De la musique populaire aux "bourgeois branchés" (2010-aujourd'hui)
 
-### Eggplant Egg Band : une interprétation taïwanaise de l'esprit rock
+### Eggplant Egg : L'interprétation rock de la musique en taïwanais
 
-L'apparition d'[[Eggplant Egg Band]] a marqué l'entrée de la musique taïwanaise dans une toute nouvelle ère. Ce groupe a créé un style musical unique en associant des arrangements rock à des paroles en langue taïwanaise. Leur titre représentatif _« Le retour du vagabond »_ (浪子回頭) est devenu viral sur Internet, permettant à de nombreux jeunes de redécouvrir le charme de la musique en langue taïwanaise.
+[L'arrivée d'Eggplant Egg](/fr/music/eggplant-egg-band/) marque l'entrée de la musique en taïwanais dans une nouvelle ère. Ce groupe utilise des arrangements rock avec des paroles en taïwanais, créant ainsi un style musical unique. Leur chanson emblématique "Retour du vagabond" est devenue virale sur Internet, laissant de nombreux jeunes redécouvrir le charme de la musique en taïwanais.
 
-Le succès d'Eggplant Egg Band réside dans leur capacité à interpréter des chansons taïwanaises dans un langage musical familier aux jeunes, éliminant ainsi la barrière linguistique. Leurs paroles, souvent empreintes d'expressions tirées du quotidien, associées à des arrangements solides, confèrent à la musique taïwanaise une modernité sans précédent.
+Le succès d'Eggplant Egg réside dans leur capacité à utiliser un langage musical familier aux jeunes pour interpréter la musique en taïwanais, éliminant ainsi les barrières linguistiques. Leurs paroles sont souvent pleines d'expressions de la vie quotidienne, accompagnées d'arrangements solides, montrant ainsi la musique en taïwanaise d'une modernité inédite.
 
-### Sorry Youth Band : une pratique taïwanaise de l'esthétique intellectuelle
+### Sorry Youth : La pratique esthétique des "bourgeois branchés"
 
-Le groupe [[Sorry Youth Band]] a apporté une dimension entièrement nouvelle à la musique taïwanaise grâce à son goût musical raffiné et son esthétique intellectuelle. Leur musique fusionne des éléments de rock indépendant, de folk et d'électronique, avec des paroles empreintes de poésie, illustrant la dimension littéraire de la musique taïwanaise.
+Le groupe [Sorry Youth](/fr/music/sorry-youth-band/) apporte une nouvelle dimension à la musique en taïwanais grâce à leur goût musical raffiné et leur esthétique "bourgeois branchés". Leur musique mélange le rock indépendant, la musique folk, l'électronique, etc., les paroles sont poétiques, montrant ainsi la littérarité de la musique en taïwanais.
 
-Le public de Sorry Youth Band est principalement composé de jeunes diplômés de l'enseignement supérieur. Leur acceptation de la musique taïwanaise prouve la renaissance de la musique en langue maternelle parmi les élites intellectuelles. Ce phénomène est qualifié d'« intellectualisation » (文青化) de la musique taïwanaise et témoigne de l'élévation du statut social de cette musique.
+Le public de Sorry Youth est principalement composé de jeunes diplômés, leur acceptation de la musique en taïwanais prouve la résurgence de la musique linguistique parmi les élites. Ce phénomène est appelé "bourgeoisisation" de la musique en taïwanais, symbolisant l'élévation du statut social de la musique taïwanaise.
 
-### Collage : une création taïwanaise au féminin
+### Collage : La musique en taïwanais dans le collage multilingue
 
-Collage a élargi les frontières créatives de la musique taïwanaise grâce à sa perspective féminine unique et son style musical expérimental. Sa création ne se limite pas au cadre traditionnel de la musique taïwanaise et ose explorer divers éléments musicaux, démontrant la flexibilité créative de cette musique.[^4]
+Collage est un duo composé de la chanteuse Xia Zi Lalis et du guitariste Wang Jiaquan, leur nom de groupe provient de l'anglicisme "collage", leurs œuvres combinent l'électronique et le rock, les paroles mêlent les langues autochtones, le taïwanais, le japonais et l'anglicis. Ils ont attiré l'attention grâce à leur chanson "Douleur de la mère de toutes les fleurs", et ont remporté le prix du meilleur nouveau venu aux prix du disque national en 2022[^4]。
 
-Les chansons de Collage abordent souvent l'expérience féminine et les questions sociales, exprimant en langue taïwanaise les pensées et les sentiments des femmes modernes. Cette direction créative a ouvert de nouveaux champs thématiques à la musique taïwanaise et a attiré un jeune public sensible aux enjeux sociaux.
+Collage place la musique en taïwanais dans un collage multilingue, poussant encore plus loin les frontières de la création en taïwanais, et attirant également les jeunes auditeurs intéressés par les questions linguistiques et historiques.
 
-## Le meilleur album en langue taïwanaise aux Golden Melody Awards : une étape institutionnelle
+## Les prix du disque national et les albums en taïwanais : Une étape décisive de la reconnaissance institutionnelle
 
-### La signification d'une reconnaissance officielle
+### L'importance de la reconnaissance officielle
 
-En 2005 (16e édition), les Golden Melody Awards ont créé le « prix du meilleur album en langue taïwanaise », marquant une étape institutionnelle dans l'histoire du développement de la musique taïwanaise.[^1] La création de ce prix a signifié que la musique en langue taïwanaise obtenait une reconnaissance officielle formelle, tout en offrant aux musiciens taïwanais une plateforme de diffusion et une scène de compétition.
+En 2005, la 16e cérémonie des prix du disque national institue la catégorie "Meilleur album de musique populaire en taïwanais", le premier prix étant décerné à Jody Chiang pour son album "Aime-moi"[^1]。Avant cela, les prix du disque national avaient déjà institué une catégorie pour les chanteurs en taïwanais, la 15e cérémonie a encore séparé les catégories de "meilleur chanteur masculin en taïwanais" et "meilleure chanteuse féminine en taïwanais"[^5]；la catégorie d'album permet aux œuvres en taïwanais d'occuper une place à côté des albums en mandarin, et offre également une plateforme et une scène de compétition pour les musiciens en taïwanais.
 
-Les critères de sélection du prix du meilleur album en langue taïwanaise aux Golden Melody Awards mettent l'accent sur la qualité musicale et l'innovation, encourageant les musiciens à préserver le caractère distinctif de la langue taïwanaise tout en osant explorer de nouveaux langages musicaux. Cette orientation a eu un impact moteur concret sur le développement de la musique taïwanaise.
+### Les tendances de développement diversifiées
 
-### Une tendance à la diversification
+Les gagnants des prix du disque national dans la catégorie des albums en taïwanais au fil des années montrent la diversification du développement de la musique en taïwanais. Des styles traditionnels aux chansons émues, au rock moderne, à la musique folk, à la musique électronique, les genres musicaux de la musique en taïwanais deviennent de plus en plus riches. Cette diversification prouve la richesse expressive de la musique en taïwanais en tant que langue musicale.
 
-Les lauréats du prix du meilleur album en langue taïwanaise au fil des ans ont illustré le développement diversifié de la musique taïwanaise. Du style traditionnel de l'enka au rock, à la folk et à la musique électronique modernes, la variété des genres musicaux taïwanais ne cesse de s'enrichir. Cette diversification prouve la richesse expressive de la langue taïwanaise en tant que vecteur musical.
-
-## Signification culturelle et impact social
+## Signification culturelle et influence sociale
 
 ### La reconstruction de l'identité linguistique
 
-L'essor de la musique taïwanaise de nouvelle génération est un phénomène musical, mais aussi une manifestation de la reconstruction de l'identité linguistique. Face aux effets de la mondialisation, de nombreux jeunes avaient développé un sentiment de détachement vis-à-vis de leur langue maternelle, mais d'excellentes œuvres musicales taïwanaises leur ont permis de redécouvrir la force expressive du taïwanais.
+L'émergence de la musique en taïwanais des nouvelles générations est non seulement un phénomène musical, mais aussi une manifestation de la reconstruction de l'identité linguistique. Dans le contexte de la mondialisation, de nombreux jeunes ont parfois été éloignés de leur langue maternelle, mais des œuvres musicales en taïwanais de qualité les ont amenés à redécouvrir la puissance expressive du taïwanais.
 
-### Un pont de communication intergénérationnelle
+### Un pont entre les générations
 
-La musique taïwanaise est devenue un pont de communication entre les différentes générations. Les jeunes musiciens interprètent des chansons taïwanaises dans un langage musical moderne, permettant aux auditeurs plus âgés de percevoir la vitalité nouvelle de la culture traditionnelle ; parallèlement, d'excellentes chansons taïwanaises permettent aux jeunes auditeurs de comprendre et d'apprécier la valeur de la culture traditionnelle.
+La musique en taïwanais devient un pont entre les générations. Les jeunes musiciens utilisent un langage musical moderne pour interpréter la musique en taïwanais, permettant aux auditeurs plus âgés de ressentir la vitalité nouvelle des cultures traditionnelles ; à la fois, de bonnes chansons en taïwanais permettent aux jeunes auditeurs de comprendre et d'apprécier la valeur des cultures traditionnelles.
 
-### Le renforcement de la confiance culturelle
+### L'élévation de la confiance en soi culturelle
 
-La transformation de la musique taïwanaise, passant du statut de « chant des anciens » à celui de « coqueluche des jeunes intellectuels », reflète l'élévation de la confiance culturelle de la société taïwanaise. Les gens ne considèrent plus l'usage de leur langue maternelle comme un signe de « ringardise », mais comme une ressource importante d'identité culturelle et d'expression créative.
+La musique en taïwanais est passée de "chansons d'ouvriers" à "bourgeois branchés", ce changement d'image reflète l'élévation de la confiance en soi culturelle de la société taïwanaise. Les gens ne considèrent plus l'utilisation de la langue maternelle comme un signe de "retard", mais la voient comme une ressource importante pour l'identité culturelle et l'expression créative.
 
 ## Défis contemporains et perspectives d'avenir
 
 ### La pression de la concurrence sur le marché
 
-Bien que la musique taïwanaise ait gagné en visibilité, elle fait encore face à des défis dans la concurrence féroce du marché musical. Comment élargir le public tout en préservant son caractère distinctif est une question essentielle que les musiciens taïwanais doivent se poser.
+Bien que la musique en taïwanais ait reçu plus d'attention, elle fait toujours face à des défis dans un marché musical concurrentiel. Comment élargir le public tout en conservant ses caractéristiques, c'est une question importante à laquelle les musiciens en taïwanais doivent réfléchir.
 
-### L'équilibre entre innovation et transmission
+### L'équilibre entre innovation et tradition
 
-Les musiciens taïwanais de nouvelle génération sont confrontés à la question de l'équilibre entre innovation et transmission. Une innovation excessive pourrait faire perdre le caractère distinctif de la musique taïwanaise, mais un conservatisme excessif risquerait de priver cette forme musicale de sa vitalité. Les musiciens taïwanais qui réussissent trouvent souvent un équilibre subtil entre ces deux exigences.
+Les musiciens de la nouvelle génération en taïwanais font face au défi de l'équilibre entre innovation et tradition. Une innovation excessive peut perdre le caractère de la musique en taïwanais, mais un conservatisme excessif peut rendre cette forme musicale sans vie. Les musiciens en taïwanais réussis parviennent souvent à trouver un équilibre subtil entre ces deux aspects.
 
-### La possibilité d'une internationalisation
+### Les possibilités d'internationalisation
 
-Avec le renforcement du soft power taïwanais et l'attention croissante portée à la diversité culturelle à l'échelle internationale, la musique taïwanaise a désormais la possibilité de s'internationaliser. Certaines chansons taïwanaises ont déjà trouvé un public au sein des communautés de la diaspora taïwanaise à l'étranger et pourraient à l'avenir conquérir un marché international plus large.
+Avec l'amélioration du soft power de Taïwan et l'attention croissante des pays au monde entier pour les cultures diverses, la musique en taïwanais a également des possibilités d'internationalisation. Certaines chansons en taïwanais ont déjà attiré l'attention dans les communautés taïwanaises à l'étranger, et ont des perspectives d'expansion vers des marchés internationaux plus vastes.
 
-### La re-tribalisation à l'ère du streaming
+### La balkanisation dans l'ère du streaming
 
-Les plateformes de streaming comme Spotify et KKBOX ont permis à la musique taïwanaise de dépasser les limites géographiques de la radio traditionnelle et des disquaires. La logique des playlists algorithmiques a permis, de manière inattendue, aux auditoins d'outre-mer parlant le taïwanais de trouver facilement Eggplant Egg Band ou Wang Fu, tout en permettant aux jeunes de l'île de Taïwan de « redécouvrir » Lin Qiang ou Hong Yi-feng via les listes de recommandation.
-
-Les données de streaming ont également permis de quantifier pour la première fois le profil du public de la musique taïwanaise : combien de lectures tel titre a généré dans telle tranche d'âge est devenu une référence pour les labels musicaux dans la planification de nouvelles productions. Depuis les années 2020, certains labels ont commencé à décider, sur la base des réponses du streaming, de publier une version en langue taïwanaise ou une version bilingue. La production d'une version taïwanaise n'est plus seulement un geste culturel, mais une décision commerciale étayée par des données.
+Les plateformes de streaming comme Spotify, KKBOX, etc., ont permis à la musique en taïwanais de dépasser les limites géographiques des radios traditionnelles et des magasins de disques. La logique des listes de lecture algorithmiques a permis aux auditeurs à l'étranger qui parlent taïwanais de facilement trouver Eggplant Egg ou Wanfu, et a également permis aux jeunes Taïwanais de retrouver Lin Qiang ou Hong Yifeng dans les listes de recommandations.
 
 ## Références
 
-- Jian Shang-ren : _Légendes de la chanson taïwanaise_, Taipei : Nongxueshe
-- Zhuang Yongming : _Sentiments locaux dans la chanson taïwanaise_, Taipei : China Times Publishing
-- Liste des lauréats et rapports du jury du meilleur album en langue taïwanaise aux Golden Melody Awards : https://gma.tavis.tw/
-- Base de données de l'Association culturelle musicale de Hong Yi-feng
-- Compilation des archives de concerts officiels et des reportages médiatiques de Jody Chiang
-- Site officiel du groupe Eggplant Egg Band : https://eggnoodleband.com/
-- Groupe Sorry Youth Band : https://sorryyouth.bandcamp.com/
-- Données officielles des plateformes musicales de Collage
-- Actes de conférence de la Société de recherche sur la culture musicale taïwanaise
-- _Histoire du développement de la chanson taïwanaise_, publié par le Musée national de littérature taïwanaise
-- Base de données des programmes musicaux en langue taïwanaise de la chaîne Hakka TV
-- Études thématiques sur la musique taïwanaise de l'Association d'échange des musiciens chinois
+- Zhuang Yongming, Sun Daming : "Sentimentations locales des chansons taïwanaises"
+- Sorry Youth : https://sorryyouth.bandcamp.com/
 
-[^1]: Wikipédia, article « Meilleur album en langue taïwanaise aux Golden Melody Awards » : le prix du meilleur album en langue taïwanaise a été créé à partir de la 16e édition (2005). https://zh.wikipedia.org/wiki/金曲獎最佳台語專輯
+[^1]: [Prix du disque national — Liste des gagnants de la 16e cérémonie](https://tavis.tw/gma/35th/GMA/history_16.htm) — Meilleur album de musique populaire en taïwanais : Jody Chiang "Aime-moi"
 
-[^2]: Wikipédia, article « Wen Xia » : biographie de Wen Xia, œuvres représentatives telles que _« Maman, prends aussi soin de toi »_ et _« Le village natal au crépuscule »_. https://zh.wikipedia.org/wiki/文夏
+[^2]: [Wikipédia — Wen Xia](https://zh.wikipedia.org/zh-tw/%E6%96%87%E5%A4%8F) — Biographie de Wen Xia, chansons emblématiques "Maman, prends soin de toi aussi", "Le pays de l'crépuscule", etc.
 
-[^3]: Wikipédia, article « Jody Chiang » : biographie et parcours artistique de Jody Chiang, contexte de la reprise du marché de la musique taïwanaise après la levée de la loi martiale. https://zh.wikipedia.org/wiki/江蕙
+[^3]: [Wikipédia — Jody Chiang](https://zh.wikipedia.org/zh-tw/%E6%B1%9F%E8%95%99) — Début officiel le 18 avril 1983, première notoriété en janvier 1984 avec "Adieu à la côte" (à l'époque, la censure était toujours en vigueur, la musique en taïwanais était vendue dans les marchés nocturnes) ; Meilleure interprète féminine aux 1ers prix du disque national ; retraite annoncée en 2015, retour lors du gala de la fête nationale le 5 octobre 2024, concert "Existence" en 2025
 
-[^4]: Chaîne musicale officielle et présentations créatives de Collage. [StreetVoice](https://streetvoice.com/collage7275/) ｜ [YouTube](https://www.youtube.com/@collage7275)
+[^4]: [Agence centrale de presse — Jody Chiang remporte le prix du meilleur nouveau venu aux 33e prix du disque national (2 juillet 2022)](https://www.cna.com.tw/news/amov/202207020191.aspx) — Duo, chanteuse Xia Zi Lalis, guitariste Wang Jiaquan ; langues incluant les langues autochtones, le taïwanais, le japonais, l'anglicis ; a attiré l'attention grâce à "Douleur de la mère de toutes les fleurs"
 
-[^5]: Site officiel des Golden Melody Awards : palmarès du meilleur album en langue taïwanaise. https://gma.tavis.tw/
+[^5]: [Prix du disque national — Liste des gagnants de la 15e cérémonie](https://tavis.tw/gma/35th/GMA/history_15.htm) — La 15e cérémonie a institué les catégories de "meilleur chanteur masculin en taïwanais" et "meilleure chanteuse féminine en taïwanais", mais pas encore de catégorie d'album en taïwanais
+
+[^6]: [Taiwan Panorama — La voix restante qui tourne autour du mont Penglai : Le roi de l'île de Formose Hong Yifeng](https://www.taiwan-panorama.com/Articles/Details?Guid=0fc445be-4afa-4f2f-bacf-074ef1158647&CatId=7) — En 1957, il rencontre Ye Junlin, entre 1957 et 1959, ils écrivent ensemble des chansons comme "Celui qui pense à toi", etc. ; en 1960, Asian Records publie l'album "Celui qui pense à toi", avec Wen Xia, ils sont connus sous le titre de "Rois de l'île de Formose"
+
+[^7]: [Wikipédia — Maison de disque Hai Shan](https://zh.wikipedia.org/zh-tw/%E6%B5%B7%E5%B1%B1%E5%94%B1%E7%89%87) — La maison de disque Hai Shan a été fondée en 1962, et a rapidement émergé grâce aux bandes sonores de films en style huangmei ; en 1967, elle a adapté la chanson taïwanaise "Verre de vin triste" en chanson en mandarin "Verre de vin amer"
+
+[^8]: [Wikipédia — Politique linguistique](https://zh.wikipedia.org/zh-tw/%E5%9C%8B%E8%AA%9E%E6%94%BF%E7%AD%96) — Depuis 1946, la promotion de la langue mandarine ; en 1972, les programmes télévisés en taïwanais ne peuvent pas dépassé une heure par chaîne, les chansons en taïwanais ne peuvent pas dépassé deux par jour ; la loi sur la radio et la télévision publiée en 1976 stipule que les dialectes doivent être progressivement réduits

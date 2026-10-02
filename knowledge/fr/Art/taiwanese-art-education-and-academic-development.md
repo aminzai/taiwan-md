@@ -1,501 +1,507 @@
 ---
-title: 'Éducation artistique et développement académique à Taïwan'
-description: 'Du système des écoles normales aux universités d’art spécialisées, les transformations institutionnelles et la formation des talents dans l’éducation artistique taïwanaise'
+title: "L'art éducatif et le développement des écoles d'art à Taïwan"
+description: "Les trois trajectoires de l'art éducatif taïwanais — l'école nationale des beaux-arts de 1955, l'institut national des beaux-arts de 1982, et l'institut national des beaux-arts de Taïwan du sud de 1996 — s'ajoutent à la formation continue des enseignants d'art dans les écoles normales, formant un double système d'art éducatif. De la pédagogie coloniale japonaise aux universités d'art, suivez l'évolution de l'institution."
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'Art'
-subcategory: '策展與教育'
 tags:
   [
     'éducation artistique',
-    'départements des beaux-arts',
-    'universités d’art',
+    'département des beaux-arts',
+    "universités d'art",
     'formation des enseignants',
-    'développement académique',
+    'développement des écoles',
   ]
-readingTime: 11
+subcategory: '策展與教育'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: true
-translatedFrom: 'Art/台灣藝術教育與學院發展.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:352ce3febb583c17'
-sourceBodyHash: 'sha256:aaeb81e5f1416586'
-translatedAt: '2026-05-17T05:34:56+08:00'
 difficulty: 'intermediate'
+readingTime: 11
+translatedFrom: 'Art/台灣藝術教育與學院發展.md'
+sourceCommitSha: '93810378e'
+sourceContentHash: 'sha256:16f5e80078ec8c03'
+sourceBodyHash: 'sha256:d51a922d651f3747'
+translatedAt: '2026-10-03T00:56:56+08:00'
 ---
 
-# Éducation artistique et développement académique à Taïwan
+# L'art éducatif et le développement des écoles d'art à Taïwan
 
 ## Aperçu en 30 secondes
 
-L’éducation artistique taïwanaise a émergé sous la période coloniale japonaise à partir de l’enseignement normal, puis a développé après-guerre un système à deux voies où coexistent les départements des beaux-arts des universités normales et les établissements artistiques spécialisés. De la fondation de l’École nationale des arts en 1955 jusqu’au système actuel des trois grandes universités d’art, Taïwan a construit une échelle d’éducation artistique clairement hiérarchisée, qui a formé d’innombrables talents artistiques[^1].
+L'art éducatif taïwanais a germé à partir de la pédagogie coloniale japonaise, puis a développé un système double : les écoles normales et les écoles d'art spécialisées coexistent. L'école nationale des beaux-arts fondée en 1955 est l'ancêtre de l'université des beaux-arts de Taïwan (aujourd'hui Taïwan Academy of Fine Arts)[^3]，l'institut national des beaux-arts fondé en 1982 est l'ancêtre de l'université des beaux-arts de Taipei (aujourd'hui Beaux-arts de Taipei)[^1]，et l'institut national des beaux-arts de Taïwan du sud fondé en 1996 a ouvert ses portes dans le sud du pays[^2]。Les trois institutions ont évolué indépendamment, formant aujourd'hui un paysage de trois universités d'art.
 
-La particularité de ce système réside dans la coexistence de deux parcours : la formation des enseignants, portée par le système des universités normales, et la formation des créateurs professionnels, portée par la Taipei National University of the Arts, la Tainan National University of the Arts et la National Taiwan University of Arts. Les orientations curriculaires ont en outre été ajustées en fonction des besoins de chaque époque.
+La particularité de ce système réside dans sa double voie : la formation des enseignants (système des écoles normales) et la formation des artistes professionnels (Beaux-arts de Taipei, Beaux-arts de Taïwan du sud, Beaux-arts de Taïwan)，et l'adaptation continue des programmes en fonction des besoins de l'époque.
 
-La lecture de cet article prend environ 11 minutes.
+Lecture suggérée : environ 11 minutes.
 
-**Mots-clés** : éducation artistique, universités normales, établissements artistiques, Taipei National University of the Arts, Tainan National University of the Arts, National Taiwan University of Arts
+**Mots-clés** : éducation artistique, écoles normales, écoles d'art, Beaux-arts de Taipei, Beaux-arts de Taïwan du sud, Beaux-arts de Taïwan
 
-## Pourquoi c’est important
+## Pourquoi c'est important
 
-Le développement du système taïwanais d’éducation artistique reflète les transformations de la politique culturelle de Taïwan et l’évolution de ses conceptions de l’art. Du premier modèle centré sur la formation d’enseignants en beaux-arts dans les écoles normales à la formation de créateurs artistiques professionnels, ce processus d’évolution a non seulement influencé les styles et les orientations de la création artistique taïwanaise, mais il a aussi déterminé la compétitivité internationale de l’art contemporain taïwanais.
+Le développement du système d'art éducatif taïwanais reflète les changements des politiques culturelles et la transformation des idées artistiques à Taïwan. De la formation initiale des enseignants d'art dans les écoles normales à la formation d'artistes professionnels, ce processus a non seulement influencé le style et la direction de la création artistique taïwanaise, mais a également déterminé la compétitivité internationale de l'art contemporain taïwanais.
 
-### Un foyer de transmission culturelle et d’innovation
+### Un pôle d'héritage culturel et d'innovation
 
-Les établissements artistiques constituent d’importants foyers de transmission et d’innovation pour la culture artistique taïwanaise. Ils relient les savoir-faire traditionnels à la création contemporaine et forment des artistes dotés d’une perspective internationale.
+Les écoles d'art sont des pôles essentiels pour l'héritage culturel et l'innovation artistique à Taïwan, reliant les techniques traditionnelles et la création contemporaine, formant des artistes dotés d'une vision internationale.
 
-### Un moteur de l’éducation esthétique dans la société
+### Des promoteurs de l'éducation esthétique sociale
 
-Par la formation des enseignants, le système d’éducation artistique influe sur la qualité de l’éducation esthétique dans l’ensemble de Taïwan et élève le niveau de culture artistique de la société.
+À travers la formation des enseignants, le système d'art éducatif influence la qualité globale de l'enseignement esthétique à Taïwan, élevant le niveau artistique de la société dans son ensemble.
 
-### Une chaîne d’approvisionnement en talents pour les industries culturelles
+### Une chaîne d'approvisionnement en talents pour l'industrie culturelle
 
-Le système moderne d’éducation artistique fournit aux industries culturelles et créatives taïwanaises des professionnels dans des domaines tels que le design, la création et le commissariat d’exposition.
+Le système moderne d'art éducatif fournit des professionnels dans divers domaines tels que le design, la création et la curatelle pour l'industrie culturelle créative taïwanaise.
 
-## Les cinq étapes du développement de l’éducation artistique à Taïwan
+## Cinq étapes dans le développement de l'art éducatif à Taïwan
 
-### Première étape : la période fondatrice sous domination japonaise (1895-1945)
+### Première étape : Période de base sous domination japonaise (1895-1945)
 
 **Contexte éducatif**
-Sous la domination japonaise, l’éducation artistique à Taïwan passait principalement par le système de l’enseignement normal. L’École de langue nationale du gouvernement général de Taïwan, fondée en 1899 et prédécesseure de la National Taiwan Normal University, disposait d’une section « dessin et travaux manuels » destinée à former les enseignants d’arts visuels de l’enseignement primaire.
+Pendant la période coloniale japonaise, l'art éducatif à Taïwan était principalement dispensé à travers le système des écoles normales. L'école nationale fondée en 1896 (aujourd'hui l'ancêtre de l'université pédagogique de Taipei et de l'université municipale de Taipei) était chargée de former les enseignants pour l'enseignement élémentaire, et la peinture faisait partie intégrante du programme.
 
-**Caractéristiques principales**
+**Caractéristiques marquantes**
 
-- Prédominance des arts appliqués
-- Accent mis sur l’entraînement technique et la capacité de représentation réaliste
-- Introduction des conceptions japonaises de l’éducation artistique
-- Formation d’enseignants d’art à l’influence durable, tels qu’Ishikawa Kinichiro
+- Dominé par l'art pratique
+- Accent sur l'entraînement technique et la capacité de dessin réaliste
+- Introduction des concepts japonais d'art éducatif
+- Le peintre japonais Ishikawa Kinichiro a enseigné à l'école nationale en 1907, formant des élèves tels que Ni Jianghuai, Chen Chengbao et Li Zefan, qui deviendront des artistes importants
 
-**Fondations établies**
-Cette période a mis en place le premier système d’éducation aux beaux-arts de Taïwan. Bien qu’inscrit dans un contexte d’éducation coloniale, il a jeté les bases de l’éducation artistique moderne taïwanaise.
+**Fondations posées**
+Cette période a établi le premier système d'art éducatif à Taïwan. Bien qu'il s'agisse d'une éducation coloniale, il a jeté les bases de l'art éducatif moderne à Taïwan.
 
-### Deuxième étape : la reconstruction du système normalien (1945-1960)
+### Deuxième étape : Période de reconstruction des écoles normales (1945-1960)
 
-**Reconstruction d’après-guerre**
-En 1946, le Taiwan Provincial Teachers College, prédécesseur de l’université normale, fonde un département des arts, devenant le premier établissement officiel d’éducation aux beaux-arts de Taïwan après la guerre.
+**Reconstruction après la guerre**
+En 1946, l'institut normal provincial de Taïwan (ancêtre de l'université normale) a été fondé, et en 1947, un département de peinture et de travail a été créé, puis en 1948, un département des arts a été ajouté[^4]，devenant l'unité principale chargée de former les enseignants d'art après la guerre.
 
-**Orientations pédagogiques**
+**Principes pédagogiques**
 
-- Objectif principal : former des enseignants d’arts visuels pour les établissements secondaires
-- Héritage des conceptions chinoises traditionnelles de l’éducation artistique
-- Association avec les techniques de l’art moderne occidental
-- Importance conjointe accordée à l’éducation artistique et à la formation morale
+- Objectif principal : former les enseignants d'art pour les écoles secondaires
+- Héritage des concepts chinois traditionnels d'art éducatif
+- Combinaison des techniques occidentales modernes et de l'art chinois
+- Accent sur l'art éducatif et la formation morale
 
-**Figures représentatives**
+**Personnages marquants**
 
-- **Pu Xinyu** : maître de la peinture chinoise, directeur du département des arts
-- **Liao Chi-chun** : acteur majeur du développement de la peinture moderne taïwanaise
-- **Li Tse-fan** : aquarelliste, dont l’influence sur l’éducation artistique d’après-guerre fut considérable
+- **Huang Junbi** : peintre de paysages chinois, a dirigé le département des arts à partir de 1949
+- **Fu Sinian** : maître de la peinture chinoise, a enseigné au département des arts
+- **Liao Jichun** : figure clé de la peinture moderne taïwanaise, a enseigné à l'institut normal à partir de 1947
+- **Li Zefan** : peintre d'aquarelles, a enseigné à l'école normale de Hsinchu et a également donné des cours à l'université normale et à l'institut national des beaux-arts
 
-### Troisième étape : la spécialisation professionnelle (1955-1980)
+### Troisième étape : Période de spécialisation (1955-1980)
 
-**Fondation de l’École nationale des arts**
-Le 31 octobre 1955, jour anniversaire du président Chiang Kai-shek, l’« École nationale des arts » est fondée. Elle ouvre d’abord trois sections, consacrées au cinéma et au théâtre, à l’opéra chinois et à l’impression artistique, devenant la première école d’art spécialisée de Taïwan.
+**Création de l'école nationale des beaux-arts**
+Le 31 octobre 1955, l'« école nationale des beaux-arts » a été fondée, avec trois départements initiaux : le théâtre et le cinéma, le théâtre classique chinois et la gravure sur papier, puis en 1960, elle a été réorganisée en école nationale des beaux-arts de Taïwan, qui est aujourd'hui l'ancêtre de l'université des beaux-arts de Taïwan[^3]。
 
-**Début de la division professionnelle**
+**Début de la spécialisation**
 
-- **Système normalien** : principalement consacré à la formation des enseignants en beaux-arts (universités normales, écoles normales spécialisées)
-- **Système artistique professionnel** : principalement consacré à la formation de créateurs artistiques professionnels (École nationale des arts)
-- **Système technique et professionnel** : principalement consacré à la formation de talents en design et arts appliqués
+- **Système des écoles normales** : principalement chargé de former les enseignants d'art (université normale, écoles normales locales)
+- **Système des beaux-arts professionnels** : principalement chargé de former les artistes professionnels (école nationale des beaux-arts)
+- **Système technique** : principalement chargé de former les designers d'art pratique
 
 **Caractéristiques des programmes**
-Les premiers programmes de l’École nationale des arts comprenaient :
+Les programmes initiaux de l'école nationale des beaux-arts comprenaient :
 
-- Section d’impression artistique : design publicitaire, techniques d’impression
-- Section cinéma et théâtre : scénographie, techniques théâtrales
-- Section opéra chinois : arts traditionnels de l’opéra
+- Département de la gravure sur papier : design publicitaire, techniques d'impression
+- Département du théâtre et du cinéma : décoration de scène, techniques du théâtre
+- Département du théâtre classique chinois : arts du théâtre traditionnel chinois
 
-### Quatrième étape : l’expansion vers l’enseignement supérieur (1980-2000)
+### Quatrième étape : Période d'expansion et d'accession au rang d'université (1980-2000)
 
-**Vague de transformation en universités**
-Durant cette période, les établissements d’éducation artistique taïwanais sont progressivement élevés au niveau universitaire :
+**Vagues d'accession au rang d'université**
+À cette époque, les institutions d'art éducatif à Taïwan se sont massivement transformées en universités :
 
-**1982 - Fondation de la National Institute of the Arts**
+**1982 - Création de l'institut national des beaux-arts**
 
-- Issue de l’élévation de l’École nationale des arts
-- Premier institut d’art de Taïwan
-- Création de quatre départements : musique, beaux-arts, théâtre et danse
+- En 1980, un comité de préparation a été établi, distinct de l'institut national des beaux-arts, qui est aujourd'hui l'ancêtre de l'université des beaux-arts de Taipei[^1]
+- Trois départements initiaux : musique, beaux-arts, théâtre, puis un département de danse a été ajouté en 1983
 
-**1991 - Fondation de la Tainan National College of the Arts**
+**1996 - Création de l'institut national des beaux-arts de Taïwan du sud**
 
-- Située dans le sud de Taïwan, afin d’équilibrer le développement régional
-- Accent mis sur l’association entre artisanat traditionnel et art moderne
-- Création pionnière du « Graduate Institute of Art History and Art Criticism »
+- En 1989, la création a été approuvée pour équilibrer le développement nord-sud de l'art éducatif à Taïwan, avec Han Bote comme premier recteur[^2]
+- Axé sur l'enseignement en master, petit mais dense
+- À la création, quatre départements de recherche : enregistrement audio-visuel, muséologie, arts plastiques, histoire de l'art et critique artistique
 
-**Développement des départements des beaux-arts des universités normales**
+**Développement du département des beaux-arts de l'université normale**
 
-- Le département des beaux-arts de la National Taiwan Normal University se divise en groupes de peinture chinoise, peinture occidentale et design
-- Des établissements normaliens de différentes régions créent successivement des départements liés aux beaux-arts
-- Formation d’un grand nombre d’enseignants d’arts visuels pour les écoles primaires et secondaires
+- Le département des beaux-arts de l'université normale s'est divisé en groupes de peinture chinoise, peinture occidentale et design
+- Les écoles normales locales ont progressivement créé des départements liés aux beaux-arts
+- Formation d'un grand nombre d'enseignants d'art pour les écoles primaires et secondaires
 
-### Cinquième étape : pluralisation et intégration (2000 à aujourd’hui)
+### Cinquième étape : Période d'intégration multidimensionnelle (2000-aujourd'hui)
 
-**Achèvement de l’universitarisation**
+**Achèvement de la transformation en université**
 
-- En 2001, la National Institute of the Arts devient la « Taipei National University of the Arts »
-- En 2004, la Tainan National College of the Arts devient la « Tainan National University of the Arts »
-- La National Taiwan Academy of Arts est élevée au rang de « National Taiwan University of Arts »
+- En 2001, l'institut national des beaux-arts a été élevé au rang d'« université nationale des beaux-arts de Taipei »
+- En 2004, l'institut national des beaux-arts de Taïwan du sud a été élevé au rang d'« université nationale des beaux-arts de Taïwan du sud »
+- En 2001, l'institut national des beaux-arts de Taïwan (élevé au rang d'institut en 1994 à partir de l'ancienne école nationale des beaux-arts de Taïwan) a été renommé « université nationale des beaux-arts de Taïwan »
 
-**Transformation des conceptions éducatives**
+**Transformation des concepts pédagogiques**
 
-- Passage de l’entraînement technique à la création conceptuelle
-- Accent mis sur l’intégration interdisciplinaire
-- Importance accordée aux échanges et à la coopération internationaux
-- Intégration des courants de pensée de l’art contemporain
+- Passage de l'entraînement technique à la création conceptuelle
+- Accent sur l'intégration interdisciplinaire
+- Importance accrue des échanges internationaux et de la coopération
+- Intégration des tendances contemporaines de l'art
 
-## Caractéristiques des trois grands systèmes universitaires d’art
+## Caractéristiques des trois systèmes universitaires d'art
 
-La Taipei National University of the Arts, la Tainan National University of the Arts et la National Taiwan University of Arts occupent chacune une position distincte : la première est réputée pour son caractère expérimental et avant-gardiste, la deuxième met l’accent sur l’association entre artisanat traditionnel et création contemporaine, tandis que la troisième privilégie les compétences pratiques et les liens avec les industries[^3].
+L'université nationale des beaux-arts de Taipei, l'université nationale des beaux-arts de Taïwan du sud et l'université nationale des beaux-arts de Taïwan ont chacune leur propre position : l'université de Taipei est réputée pour son expérimentalité et son avant-gardisme, l'université du sud est connue pour ses masters et sa muséologie, tandis que l'université de Taïwan met l'accent sur les compétences pratiques et les liens avec l'industrie.
 
-La conception des programmes de ces trois établissements reflète différentes philosophies de l’éducation artistique. Complémentaires les uns des autres, ils constituent ensemble le cadre principal de l’éducation artistique professionnelle à Taïwan.
+Les programmes des trois universités reflètent des philosophies pédagogiques différentes, se complétant mutuellement et formant ensemble le cadre principal de l'art éducatif professionnel à Taïwan.
 
-### Taipei National University of the Arts
+### Université nationale des beaux-arts de Taipei (Beaux-arts de Taipei)
 
-**Positionnement du développement**
+**Positionnement stratégique**
 
-- Établissement artistique le plus expérimental et avant-gardiste de Taïwan
-- Accent mis sur la création artistique contemporaine et la coopération interdisciplinaire
-- Degré d’internationalisation le plus élevé
+- La plus expérimentale et avant-gardiste des universités d'art à Taïwan
+- Accent sur la création artistique contemporaine et la coopération interdisciplinaire
+- Le plus haut niveau d'internationalisation
 
-**Structure des facultés**
+**Structure des départements**
 
 - Faculté de musique
-- Faculté des beaux-arts (département des beaux-arts, institut d’études transdisciplinaires en art)
-- Faculté de théâtre
-- Faculté de danse
-- Faculté de cinéma et des nouveaux médias
+- Faculté des beaux-arts (département des beaux-arts, institut de recherche interdisciplinaire des arts)
+- Faculté du théâtre
+- Faculté de la danse
+- Faculté du cinéma et des nouveaux médias
 - Faculté des ressources culturelles
+- Faculté des humanités (réorganisée en 2019 à partir de la commission des enseignements généraux et communs)
 
 **Caractéristiques pédagogiques**
 
-- Éducation d’élite en petits groupes
-- Importance accordée au processus créatif et au développement conceptuel
-- Accent mis à la fois sur la théorie et la pratique
-- Nombreux programmes d’échanges internationaux
+- Enseignement élitiste en petits groupes
+- Accent sur le processus de création et le développement conceptuel
+- Théorie et pratique étroitement liées
+- Programmes d'échange internationaux riches
 
-**Anciens élèves représentatifs**
+**Diplômés notables**
 
-- Plusieurs membres des équipes de production d’Ang Lee
-- De nombreux artistes contemporains, tels que Wu Chi-tsung et Chen Chieh-jen
-- Hou Hsiao-hsien a été invité comme professeur invité
+- Artistes contemporains tels que Wu Jiecong, etc.
 
-### Tainan National University of the Arts
+### Université nationale des beaux-arts de Taïwan du sud (Beaux-arts de Taïwan du sud)
 
-**Positionnement du développement**
+**Positionnement stratégique**
 
-- Accent mis sur l’association entre artisanat traditionnel et création contemporaine
-- Importance accordée à la transmission de la culture locale taïwanaise
-- Environnement d’enseignement de petite taille et raffiné
+- Commencé par l'enseignement en master, axé sur l'histoire de l'art, la muséologie et la conservation du patrimoine culturel
+- Accent sur l'héritage culturel local de Taïwan
+- Environnement pédagogique petit mais dense
 
-**Structure des facultés**
+**Structure des départements**
 
-- Faculté des arts (arts plastiques, arts appliqués, art architectural)
-- Faculté des humanités (histoire de l’art, patrimoine culturel et muséologie, documentaire audiovisuel)
 - Faculté de musique
+- Faculté des arts visuels (arts plastiques, arts appliqués, arts de l'architecture, etc.)
+- Faculté des arts audiovisuels
+- Faculté des musées et du patrimoine
+- Faculté de l'innovation interdisciplinaire
 
 **Caractéristiques pédagogiques**
 
-- Importance accordée à la transmission des techniques de l’artisanat traditionnel
-- Enseignement de petite échelle et très qualitatif
-- Association de la théorie et de la pratique
-- Accent mis sur la conservation culturelle et l’innovation
+- Conservation des techniques traditionnelles artisanales
+- Enseignement à petite échelle, dense et qualitatif
+- Théorie et pratique combinées
+- Conservation culturelle et innovation
 
-**Programmes distinctifs**
+**Programmes uniques**
 
-- Graduate Institute of Conservation of Cultural Relics
-- Graduate Institute of Museum Studies and Conservation of Cultural Relics
-- Graduate Institute of Ethnomusicology
+- Institut d'études muséales et de conservation des antiquités (fusion de l'institut d'études muséales et de l'institut de conservation des antiquités)
+- Institut de musique folklorique
 
-### National Taiwan University of Arts
+### Université nationale des beaux-arts de Taïwan (Beaux-arts de Taïwan)
 
-**Positionnement du développement**
+**Positionnement stratégique**
 
-- L’un des plus anciens établissements artistiques professionnels encore existants à Taïwan, dont le prédécesseur, l’École nationale des arts, a été fondé en 1955
-- Importance accordée aux compétences pratiques et aux liens avec les industries
-- Formation de talents pour les industries culturelles et créatives
+- L'une des institutions d'art professionnelle les plus anciennes de Taïwan (l'ancêtre, l'école nationale des beaux-arts, a été fondée en 1955)
+- Accent sur les compétences pratiques et les liens avec l'industrie
+- Formation de talents pour l'industrie culturelle créative
 
-**Structure des facultés**
+**Structure des départements**
 
 - Faculté des beaux-arts
-- Faculté de design
-- Faculté de communication
+- Faculté du design
+- Faculté des médias de communication
 - Faculté des arts du spectacle
 - Faculté des humanités
 
 **Caractéristiques pédagogiques**
 
 - Héritage historique profond
-- Importance accordée à l’entraînement technique et aux pratiques professionnelles
-- Réseau d’anciens élèves étendu dans les milieux artistiques
-- Liens étroits avec les industries culturelles et créatives
+- Accent sur l'entraînement technique et la pratique industrielle
+- Réseau d'anciens élèves réparti dans le monde artistique
+- Liens étroits avec l'industrie culturelle créative
 
 **Influence industrielle**
-La National Taiwan University of Arts est considérée comme un berceau des talents taïwanais du design visuel. De nombreux designers renommés et créatifs publicitaires sont issus de cet établissement.
+Les départements de cinéma, de théâtre et de design de Beaux-arts de Taïwan ont longtemps formé des professionnels pour l'industrie du cinéma et du design, et le réalisateur Hou Hsiao-hsien est diplômé du département de cinéma de l'institut national des beaux-arts (aujourd'hui le département de cinéma de Beaux-arts de Taïwan).
 
-## Le système d’éducation aux beaux-arts des universités normales
+## Système d'art éducatif des écoles normales
 
-Le système des universités normales constitue l’autre axe majeur de l’éducation aux beaux-arts à Taïwan. Le département des beaux-arts de la National Taiwan Normal University, fondé en 1946, est le plus ancien établissement officiel d’éducation aux beaux-arts de Taïwan après la guerre[^4]. Les enseignants qu’il a formés se sont diffusés dans tout le territoire par l’enseignement secondaire, donnant à ce système une influence sur l’éducation esthétique de l’ensemble de la société bien supérieure à celle des seuls établissements artistiques professionnels.
+Le système des écoles normales est une autre voie majeure de l'art éducatif à Taïwan. Le département des beaux-arts de l'université normale de Taïwan a pour ancêtre le département de peinture et de travail créé en 1947, puis le département des arts ajouté en 1948[^4]。Les enseignants formés par ce système sont ensuite répartis dans les écoles secondaires à travers le pays, ce qui a un impact bien plus large sur l'art éducatif social que les écoles d'art spécialisées.
 
-Les départements des beaux-arts des universités normales régionales, telles que la National Kaohsiung Normal University et la National Changhua University of Education, assurent quant à eux l’approvisionnement régional en enseignants, formant un réseau de formation des enseignants en beaux-arts couvrant tout Taïwan.
+Les départements des beaux-arts des écoles normales locales (comme l'université normale de Kaohsiung, l'université normale de Changhua, etc.) sont chargés de la formation régionale des enseignants, formant un réseau couvrant l'ensemble du pays.
 
-### Département des beaux-arts de la National Taiwan Normal University
+### Département des beaux-arts de l'université normale de Taïwan
 
 **Position historique**
 
-- Plus ancien établissement d’éducation artistique moderne de Taïwan
-- Centre majeur de formation des enseignants en beaux-arts de Taïwan
-- Département ayant exercé l’influence la plus profonde sur le développement des beaux-arts taïwanais
+- Unité importante chargée de former les enseignants d'art après la guerre
+- Pôle majeur de la formation des enseignants d'art à Taïwan
+- L'école ayant le plus influencé le développement de l'art à Taïwan
 
-**Conceptions pédagogiques**
+**Philosophie pédagogique**
 
-- Importance conjointe accordée à la formation des enseignants et à la création professionnelle
-- Fusion des théories artistiques orientales et occidentales
-- Importance accordée à la théorie esthétique et à la pratique créative
+- Formation des enseignants et création artistique professionnelle
+- Fusion des théories artistiques chinoises et occidentales
+- Théorie esthétique et pratique de création
 
-**Caractéristiques des groupes**
+**Domaines d'enseignement**
 
-- **Groupe création** : peinture chinoise, peinture à l’huile, peinture à l’encre, estampe, sculpture
-- **Groupe théorie** : histoire de l’art, théorie de l’art, critique d’art
-- **Groupe design** : design de communication visuelle, design des médias numériques
+- **Création** : peinture chinoise, peinture à l'huile, aquarelle, gravure, sculpture
+- **Théorie** : histoire de l'art, théorie artistique, critique artistique
+- L'enseignement du design est aujourd'hui confié à un département de design indépendant de l'université normale
 
 **Transmission pédagogique**
-Des maîtres des générations précédentes comme Pu Xinyu, Huang Chun-pi et Liao Chi-chun jusqu’aux artistes contemporains tels que Yuan Chin-ta et Lee Chun-yi, un réseau dense de filiation pédagogique s’est constitué.
+Des maîtres expérimentés tels que Fu Sinian, Huang Junbi et Liao Jichun, jusqu'aux artistes contemporains tels que Yuan Jintai et Li Junyi, ont formé un riche héritage pédagogique.
 
-### Départements des beaux-arts des universités normales régionales
+### Départements des beaux-arts des écoles normales locales
 
-**Département des beaux-arts de la National Kaohsiung Normal University**
+**Département des beaux-arts de l'université normale de Kaohsiung**
 
-- Répondre aux besoins en enseignants d’arts visuels du sud de Taïwan
-- Importance accordée aux caractéristiques de la culture locale
-- Coopération étroite avec des institutions telles que le Kaohsiung Museum of Fine Arts
+- Répond aux besoins locaux en matière de formation des enseignants d'art dans le sud de Taïwan
+- Accent sur les caractéristiques culturelles locales
+- Collaboration étroite avec des institutions telles que le musée des beaux-arts de Kaohsiung
 
-**Département des beaux-arts de la National Changhua University of Education**
+**Département des beaux-arts de l'université normale de Changhua**
 
-- Centre majeur de l’éducation aux beaux-arts dans le centre de Taïwan
-- Accent mis à la fois sur la pratique et la théorie
+- Pôle central de l'art éducatif dans la région centrale de Taïwan
+- Accent sur la pratique et la théorie
 
-**Autres établissements normaliens**
-Les écoles normales des différents comtés et municipalités ont progressivement créé des départements d’éducation aux beaux-arts, formant un réseau de formation des enseignants couvrant l’ensemble de Taïwan.
+**Autres écoles normales**
+Les écoles normales des comtés et des villes ont progressivement créé des départements d'art éducatif, formant un réseau couvrant l'ensemble du pays.
 
-## L’évolution des programmes d’éducation artistique
+## Évolution des programmes d'art éducatif
 
-Les programmes des établissements artistiques taïwanais sont passés d’une orientation centrée sur l’entraînement technique dans les années 1950 à trois moments nets de transformation : l’introduction des conceptions de l’art moderne dans les années 1980, la transition vers l’intermédialité et le numérique après 2000, puis l’orientation contemporaine récente mettant l’accent sur la participation sociale et l’intégration interdisciplinaire.
+Les programmes des écoles d'art à Taïwan ont connu trois tournants majeurs depuis les années 1950 : l'introduction des concepts d'art moderne dans les années 1980, la transformation inter-médias et numérique après 2000, et l'orientation actuelle vers l'art engagé et l'intégration interdisciplinaire.
 
-Ces trois transformations n’ont pas constitué des remplacements linéaires, mais des couches qui coexistent. Dans certains établissements, l’entraînement technique traditionnel conserve encore un poids considérable, tandis que de nouvelles orientations curriculaires continuent de s’étendre.
+Ces trois transformations ne sont pas des remplacements linéaires, mais plutôt des superpositions — l'entraînement technique traditionnel conserve encore une part importante dans certaines écoles, tandis que les nouvelles orientations se développent également.
 
-Il convient de noter que la vitesse et la direction de l’évolution curriculaire diffèrent fortement selon les établissements taïwanais : la Taipei National University of the Arts a avancé plus tôt dans la création conceptuelle, tandis que la National Taiwan University of Arts a introduit plus tardivement les conceptions de l’art contemporain. Ces différences continuent aujourd’hui d’influencer les cultures pédagogiques de chaque université.
+Il convient de noter que la vitesse et la direction de l'évolution des programmes diffèrent sensiblement d'une école à l'autre : Beaux-arts de Taipei est en avance dans la création conceptuelle, tandis que Beaux-arts de Taïwan a introduit les concepts d'art contemporain plus tard, une différence qui influence encore aujourd'hui la culture pédagogique de chaque école.
 
-### Des techniques traditionnelles à la création contemporaine
+### De la technique traditionnelle à la création contemporaine
 
-**Premiers programmes (1950-1980)**
+**Programmes initiaux (1950-1980)**
 
-- Accent principal sur l’entraînement technique : dessin, aquarelle, peinture à l’huile, peinture chinoise
-- Importance accordée à la capacité de représentation réaliste et aux fondamentaux
+- Accent sur l'entraînement technique : dessin, aquarelle, peinture à l'huile, peinture chinoise
+- Accent sur la capacité de dessin réaliste et les bases fondamentales
 - Programmes relativement conservateurs et traditionnels
 
 **Programmes de transition (1980-2000)**
 
-- Introduction des conceptions de l’art moderne
-- Augmentation des cours d’histoire de l’art et de théorie esthétique
-- Début d’une attention portée au style créatif personnel
+- Introduction des concepts d'art moderne
+- Augmentation des cours d'histoire de l'art et de théorie esthétique
+- Commencement de l'accent sur le style personnel de création
 
-**Programmes contemporains (2000 à aujourd’hui)**
+**Programmes contemporains (2000-aujourd'hui)**
 
-- Création intermédia
-- Installation, art vidéo, art numérique
-- Pratiques curatoriales, administration des arts
-- Art participatif à dimension sociale
-- Échanges internationaux et programmes de résidence
+- Création inter-médias
+- Installation, vidéo, art numérique
+- Pratique de la curatelle, administration artistique
+- Art engagé socialement
+- Échanges internationaux et résidences d'artistes
 
-### Importance conjointe de la théorie et de la pratique
+### Théorie et pratique combinées
 
-**Enseignement de l’histoire de l’art**
+**Enseignement de l'histoire de l'art**
 
-- Histoire de l’art occidental
-- Histoire de l’art chinois
-- Histoire de l’art taïwanais
-- Théories de l’art contemporain
+- Histoire de l'art occidentale
+- Histoire de l'art chinoise
+- Histoire de l'art taïwanaise
+- Théorie de l'art contemporain
 
-**Méthodologies de création**
+**Méthodologie de la création**
 
-- Expérimentation des médiums et innovation technique
-- Développement conceptuel et formes d’expression
-- Construction d’un style personnel
-- Capacité d’interprétation et de discours sur les œuvres
+- Expérimentation de supports et innovation technique
+- Développement conceptuel et formes d'expression
+- Établissement du style personnel
+- Capacité d'interprétation et de discours sur les œuvres
 
-## Les interactions entre éducation artistique et société
+## Interaction entre l'art éducatif et la société
 
-### Promotion de l’éducation esthétique
+### Promotion de l'éducation esthétique
 
-**Éducation aux beaux-arts dans le primaire et le secondaire**
-Par la formation des enseignants, les établissements artistiques influencent l’éducation esthétique dans l’ensemble de Taïwan :
+**Éducation esthétique dans les écoles primaires et secondaires**
+À travers la formation des enseignants, les écoles d'art influencent l'éducation esthétique à travers le pays :
 
-- Innovation dans la conception des programmes et les méthodes d’enseignement
-- Formation continue des enseignants d’arts visuels
-- Diffusion des conceptions de l’éducation artistique
+- Innovation dans la conception des programmes et les méthodes pédagogiques
+- Formation continue des enseignants d'art
+- Promotion des concepts d'art éducatif
 
-**Éducation artistique dans la société**
+**Éducation esthétique sociale**
 
-- Programmes éducatifs des musées des beaux-arts
-- Cours d’art communautaires
+- Éducation muséale
+- Programmes communautaires d'art
 - Éducation artistique tout au long de la vie
 
-### Articulation avec les politiques culturelles
+### Coordination avec les politiques culturelles
 
-**Politiques nationales en matière d’arts et de culture**
-L’éducation artistique accompagne le développement des politiques culturelles nationales :
+**Politiques nationales et artistiques**
+L'art éducatif suit le développement des politiques culturelles nationales :
 
-- Promotion d’une éducation ancrée dans le local
-- Expression de valeurs multiculturelles
+- Promotion de l'art localisé
+- Valeurs culturelles multiculturelles
 - Équilibre entre internationalisation et localisation
 
-**Besoins en talents des industries**
-Réponse aux besoins du développement des industries culturelles et créatives :
+**Besoins en personnel de l'industrie**
+Répondre aux besoins du développement de l'industrie culturelle créative :
 
 - Formation de talents en design
-- Programmes consacrés aux industries culturelles et créatives
-- Projets de coopération entre universités et industries
+- Programmes d'industrie culturelle créative
+- Projets de coopération entre l'industrie et l'académie
 
-## L’équilibre entre internationalisation et localisation
+## Équilibre entre internationalisation et localisation
 
-L’internationalisation des établissements artistiques taïwanais introduit des perspectives extérieures grâce aux réseaux d’universités partenaires et aux programmes d’échange étudiant. En même temps, la position géographique de Taïwan a conduit au développement d’un modèle hybride distinct des éducations artistiques européenne, américaine ou japonaise.
+L'internationalisation des écoles d'art à Taïwan se fait d'une part par le biais des réseaux d'écoles sœurs et des programmes d'échange, et d'autre part par le développement d'un modèle hybride différent de celui de l'Europe de l'Ouest ou du Japon, en raison de la position géographique de Taïwan.
 
-La question de savoir comment introduire des cadres internationaux d’éducation artistique tout en conservant des contenus pédagogiques propres à Taïwan, y compris l’art autochtone, les traditions minnan et hakka, ainsi que l’histoire des beaux-arts d’après-guerre, est un enjeu auquel les établissements sont confrontés de manière récurrente. Le ministère de l’Éducation a déjà organisé systématiquement des matériaux historiques pertinents, et les plans curriculaires des différents établissements peuvent également être consultés sur leurs sites officiels.
+Il s'agit pour chaque école de concilier l'introduction des cadres internationaux d'art éducatif et la préservation du contenu pédagogique taïwanais (y compris l'art des Autochtones, les traditions minnan et hakka, l'histoire artistique post-guerre, etc.), un défi auquel elles doivent constamment faire face (le ministère de l'Éducation a compilé un ensemble de documents historiques pertinents, et les programmes de chaque école peuvent être consultés sur leurs sites officiels).
 
 ### Échanges et coopérations internationaux
 
-**Réseaux d’universités partenaires**
-Les établissements artistiques taïwanais établissent des relations de coopération avec des écoles d’art internationalement reconnues :
+**Réseaux d'écoles sœurs**
+Les écoles d'art à Taïwan ont établi des relations de coopération avec des écoles internationales renommées :
 
-- Programmes d’échange étudiant
-- Visites réciproques d’enseignants
-- Expositions et projets de création en coopération
+- Programmes d'échange étudiante
+- Visites mutuelles des enseignants
+- Expositions et projets de création collaboratifs
 
 **Introduction de programmes internationaux**
 
-- Invitation d’artistes internationaux en résidence dans les établissements
-- Introduction de conceptions internationales de l’éducation artistique
-- Promotion de l’enseignement bilingue
+- Invitation d'artistes internationaux résidents
+- Introduction des concepts internationaux d'art éducatif
+- Promotion de l'enseignement bilingue
 
-### Maintien des caractéristiques culturelles taïwanaises
+### Préservation des caractéristiques culturelles taïwanaises
 
-**Transmission des arts locaux**
+**Héritage artistique local**
 
-- Préservation des techniques de l’artisanat traditionnel
-- Recherche sur l’histoire de l’art taïwanais
-- Sujets de création issus des cultures locales
+- Conservation des techniques traditionnelles artisanales
+- Recherche en histoire de l'art taïwanaise
+- Thèmes de création culturelle locale
 
-**Fusion multiculturelle**
+**Fusion culturelle multiculturelle**
 
-- Éducation aux arts autochtones
-- Arts et cultures des nouveaux immigrants
-- Transmission des arts et de la culture hakka
+- Éducation artistique des Autochtones
+- Art culturel des nouveaux immigrants
+- Transmission de la culture Hakka
 
-## Les nouveaux défis de l’ère numérique
+## Nouveaux défis dans l'ère numérique
 
-La diffusion des outils d’IA générative produit un double choc pour l’éducation artistique. D’un côté, elle fournit de nouveaux outils de création et de nouveaux matériaux pédagogiques ; de l’autre, elle remet en question la logique éducative de l’entraînement technique traditionnel : lorsque l’IA peut produire rapidement des images, comment redéfinir le sens éducatif des savoir-faire manuels ?
+L'expansion généralisée des outils générés par IA constitue un double défi pour l'art éducatif : d'une part, elle offre de nouveaux outils de création et des ressources pédagogiques ; d'autre part, elle remet en question la logique pédagogique de l'entraînement technique traditionnel — quand l'IA peut produire rapidement des œuvres visuelles, comment repositionner l'enseignement des techniques manuelles ?
 
-Cette question reste actuellement en phase d’exploration dans les différents établissements artistiques taïwanais. Aucun consensus n’a encore émergé, mais elle commence déjà à influer sur l’orientation de la planification curriculaire.
+Cette question est actuellement en cours d'exploration dans les écoles d'art à Taïwan, sans conclusion définitive pour le moment, mais elle commence à influencer la direction de la planification des programmes.
 
-La diffusion des outils numériques apporte également une autre dimension : l’enseignement à distance et les ressources en ligne abaissent les barrières géographiques de l’éducation artistique et complètent, dans une certaine mesure, l’accès à l’éducation artistique dans les régions rurales ou éloignées.
+La généralisation des outils numériques a également un autre aspect : l'enseignement à distance et les ressources en ligne ont réduit les barrières géographiques pour l'art éducatif, ce qui constitue un complément utile à l'éducation artistique dans les zones rurales.
 
-### Intégration de la technologie et de l’art
+### Intégration de la technologie et de l'art
 
-**Éducation aux arts des nouveaux médias**
+**Éducation aux nouveaux médias**
 
-- Création d’images numériques
-- Installations artistiques interactives
-- Art en réalité virtuelle et en réalité augmentée
+- Création d'images numériques
+- Installation interactive
+- Art en réalité virtuelle et réalité augmentée
 - IA et création artistique
 
 **Éducation interdisciplinaire**
 
-- Intégration de l’art et de la technologie
-- Association de l’art et du design commercial
-- Connexion de l’art aux questions sociales
+- Intégration de l'art et des technologies
+- Combinaison de l'art et du design commercial
+- Connexion entre l'art et les enjeux sociaux
 
-### Innovation des méthodes d’enseignement
+### Innovation pédagogique
 
-**Plateformes d’enseignement en ligne**
+**Plateformes d'enseignement en ligne**
 
-- Technologies d’enseignement à distance
-- Ressources d’apprentissage numériques
-- Expositions virtuelles et présentation des œuvres
+- Technologies d'enseignement à distance
+- Ressources numériques d'apprentissage
+- Expositions virtuelles et présentation d'œuvres
 
-**Connexion avec les industries**
+**Rapprochement avec l'industrie**
 
-- Renforcement des dispositifs de stage
-- Enseignement conjoint avec des professionnels du secteur
-- Mécanismes d’accompagnement à l’entrepreneuriat
+- Renforcement des stages
+- Enseignement collaboratif avec des professionnels
+- Mécanismes d'accompagnement de la création d'entreprise
 
-## Défis contemporains et perspectives d’avenir
+## Défis contemporains et perspectives d'avenir
 
-Les défis structurels auxquels l’éducation artistique taïwanaise est confrontée comprennent la pression sur le recrutement liée à la baisse de la natalité, la diminution des postes d’enseignants, la taille limitée du marché de l’emploi dans les beaux-arts purs, ainsi que la répartition inégale des ressources d’éducation artistique entre villes et campagnes.
+Les défis structurels auxquels l'art éducatif à Taïwan est confronté incluent la baisse de la natalité entraînant une pression sur les recrutements, la réduction des postes d'enseignants, la rareté des marchés d'emploi pour les artistes purement créatifs, et les inégalités de ressources entre les zones urbaines et rurales en matière d'art éducatif.
 
-Ces défis amènent les différents établissements à repenser leur positionnement : renforcer les liens avec les industries, développer des programmes interdisciplinaires et promouvoir le recrutement international sont actuellement les principales réponses observables[^7].
+Ces défis poussent les écoles à repenser leur position stratégique — renforcer les liens avec l'industrie, élargir les programmes interdisciplinaires, promouvoir le recrutement international, ce qui constitue la principale orientation actuelle observée[^7]。
 
-L’impact de la baisse de la natalité pèse particulièrement sur les établissements de plus petite taille. La manière de répondre à la pression du recrutement tout en maintenant la qualité de l’enseignement constitue une réalité commune à toutes les universités d’art.
+L'impact de la baisse de la natalité est particulièrement marqué pour les écoles de petite taille, et il s'agit pour toutes les universités d'art de Taïwan de faire face à la réalité d'une pression croissante sur les recrutements tout en maintenant la qualité pédagogique.
 
 ### Répartition des ressources éducatives
 
-**Écarts entre villes et campagnes**
+**Inégalités entre zones urbaines et rurales**
 
-- Répartition inégale des ressources d’éducation artistique
-- Amélioration de la qualité de l’éducation aux beaux-arts dans les régions rurales ou éloignées
-- Réduction des écarts éducatifs grâce aux plateformes numériques
+- Inégalités de ressources en art éducatif
+- Amélioration de la qualité de l'art éducatif dans les zones rurales
+- Réduction des écarts éducatifs par les plateformes numériques
 
-**Concurrence internationale**
+**Compétitivité internationale**
 
-- Faire face à la concurrence des systèmes d’éducation artistique des autres pays d’Asie
-- Renforcer la réputation internationale de l’éducation artistique taïwanaise
-- Attirer des étudiants internationaux à Taïwan
+- Concurrence avec les systèmes d'art éducatif d'autres pays asiatiques
+- Amélioration de la réputation internationale de l'art éducatif taïwanais
+- Attractivité internationale pour attirer des étudiants étrangers
 
-### Marché de l’emploi et besoins des industries
+### Marché du travail et besoins industriels
 
 **Débouchés traditionnels**
 
-- Diminution des postes d’enseignants
-- Marché limité pour la création en beaux-arts purs
-- Nécessité d’ouvrir des voies d’emploi diversifiées
+- Réduction des postes d'enseignants
+- Marché limité pour les artistes purement créatifs
+- Nécessité d'élargir les canaux d'emploi
 
-**Nouvelles possibilités professionnelles**
+**Nouvelles opportunités professionnelles**
 
-- Designers dans les industries culturelles et créatives
+- Designers pour l'industrie culturelle créative
 - Créateurs de contenus numériques
-- Commissaires d’exposition et administrateurs des arts
-- Art-thérapeutes
+- Curateurs et administrateurs artistiques
+- Thérapeutes artistiques
 
-### Renouvellement continu des conceptions éducatives
+### Mise à jour continue des concepts pédagogiques
 
-**Pédagogies innovantes**
+**Méthodes pédagogiques innovantes**
 
-- Apprentissage par projet
+- Apprentissage par projets
 - Éducation orientée vers la résolution de problèmes
-- Apprentissage par coopération interdisciplinaire
+- Apprentissage collaboratif interdisciplinaire
 
 **Éducation à la responsabilité sociale**
 
-- Intervention de l’art dans les questions sociales
-- Art public et développement communautaire
-- Influence sociale de l’art
+- Intervention artistique dans les enjeux sociaux
+- Art public et aménagement communautaire
+- Influence sociale de l'art
 
 ## Conclusion
 
-Depuis ses débuts sous la période coloniale japonaise jusqu’à son développement pluraliste actuel, l’éducation artistique taïwanaise reflète les transformations et les progrès socioculturels de Taïwan. De la formation d’enseignants en beaux-arts dans l’enseignement normal à la formation de créateurs dans les établissements artistiques spécialisés, Taïwan a construit un système d’éducation artistique complet et diversifié.
+De la pierre angulaire de l'art éducatif colonial japonais à la diversité actuelle, le parcours de l'art éducatif à Taïwan reflète les transformations sociales et culturelles du pays. De la formation des enseignants d'art dans les écoles normales à la formation des artistes professionnels dans les écoles d'art, Taïwan a construit un système complet et diversifié d'art éducatif.
 
-Face aux défis de l’ère numérique, l’éducation artistique taïwanaise est en transformation. Elle met l’accent sur l’intégration interdisciplinaire, sur l’articulation entre perspective internationale et caractéristiques locales. L’éducation artistique de demain accordera une importance accrue à la pensée innovante, à la participation sociale et à la transmission culturelle, afin de former des talents artistiques dotés d’une compétitivité mondiale.
+Face aux défis de l'ère numérique, l'art éducatif à Taïwan est en pleine transformation, en mettant l'accent sur l'intégration interdisciplinaire, la vision internationale et la préservation des caractéristiques locales. À l'avenir, l'art éducatif mettra davantage l'accent sur la pensée innovante, la participation sociale et le patrimoine culturel, formant des artistes capables de rivaliser à l'échelle mondiale.
 
-Les résultats de l’éducation artistique taïwanaise comprennent la formation de nombreux artistes et designers remarquables, mais aussi l’amélioration de la qualité de l’éducation esthétique de l’ensemble de la société par le système de formation des enseignants. Ces deux voies soutiennent conjointement le développement de la puissance culturelle douce de Taïwan. Pour plus de détails, voir les présentations des programmes et des résultats institutionnels sur les sites officiels des établissements.
+Les réalisations de l'art éducatif à Taïwan incluent non seulement la formation de nombreux artistes et designers de premier plan, mais aussi l'influence sur la qualité globale de l'éducation esthétique sociale à travers le système de formation des enseignants. Ces deux voies soutiennent ensemble le développement de la puissance douce culturelle de Taïwan (voir les présentations des programmes et des résultats pédagogiques sur les sites officiels de chaque école).
+
+**Lecture complémentaire** :
+
+- [L'évolution du mouvement de l'aquarelle à Taïwan](/fr/art/century-of-taiwanese-watercolor-painting) — Ishikawa Kinichiro a enseigné à l'école nationale en 1907, formant une génération d'artistes aquarellistes à Taïwan
+- [L'art des nouveaux médias à Taïwan](/fr/art/taiwan-new-media-art) — Au-delà des programmes interdisciplinaires des écoles d'art, comment l'art vidéo et numérique a atteint la scène internationale en quarante ans
+- [Les curateurs taïwanais et la construction de la culture artistique](/fr/art/taiwanese-curators-and-artistic-cultural-construction) — Du nom de programme à l'industrie : le processus par lequel l'administration artistique et la curatelle sont devenues des professions
 
 ## Références
 
-[^1]: [國立台北藝術大學](https://w3.tnua.edu.tw/) — Site officiel et documents sur l’histoire de l’université
+[^1]: [Wikipédia〈Université nationale des beaux-arts de Taipei〉](https://zh.wikipedia.org/zh-tw/%E5%9C%8B%E7%AB%8B%E8%87%BA%E5%8C%97%E8%97%9D%E8%A1%93%E5%A4%A7%E5%AD%B8) — Le comité de préparation de l'institut national des beaux-arts a été établi en 1980, et à la création en 1982, trois départements initiaux ont été installés : musique, beaux-arts et théâtre, puis un département de danse a été ajouté l'année suivante ; en 2019, la commission des enseignements généraux et communs a été réorganisée en faculté des humanités
 
-[^2]: [國立台南藝術大學](https://www.tnnua.edu.tw/) — Documents historiques de l’université et évolution institutionnelle
+[^2]: [Université nationale des beaux-arts de Taïwan du sud〈Connaître Beaux-arts de Taïwan du sud〉](https://www.tnnua.edu.tw/p/412-1000-92.php?Lang=zh-tw) — Approuv pour la préparation en 1989, l'institut national des beaux-arts de Taïwan du sud a été officiellement fondé en 1985, le premier recteur étant Han Bote, avec quatre départements de recherche à la création, puis élevé au rang d'université en 1993
 
-[^3]: [國立台灣藝術大學](https://www.ntua.edu.tw/) — Historique et présentation des facultés
+[^3]: [Wikipédia〈Université nationale des beaux-arts de Taïwan〉](https://zh.wikipedia.org/zh-tw/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E8%97%9D%E8%A1%93%E5%A4%A7%E5%AD%B8) — Anciennement appelée : école nationale des beaux-arts (1955–1960), école nationale des beaux-arts de Taïwan (1960–1994), institut national des beaux-arts de Taïwan (1994–2001), université nationale des beaux-arts de Taïwan (à partir de 2001)
 
-[^4]: [國立台灣師範大學美術學系](https://www.art.ntnu.edu.tw/) — Histoire du développement du département et informations sur les programmes
+[^4]: [Département des beaux-arts de l'université normale de Taïwan〈Histoire du département〉](https://www.art.ntnu.edu.tw/index.php/about/history/) — L'institut normal provincial a été fondé en 1946, le département de peinture et de travail en septembre 1947, le département des arts en août 1948, les directeurs successifs étant Mo Dazhi et Huang Junbi, avec des maîtres tels que Liao Jichun et Fu Sinian
 
-[^7]: [台灣藝術教育館](https://www.arte.gov.tw/) — Données de recherche sur les politiques d’éducation artistique
+[^7]: [Musée de l'art éducatif de Taïwan](https://www.arte.gov.tw/) — Documents de recherche sur les politiques d'art éducatif

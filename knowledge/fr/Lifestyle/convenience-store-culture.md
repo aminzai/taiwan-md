@@ -1,17 +1,17 @@
 ---
-title: 'La culture des magasins de proximité à Taïwan'
-description: "Un royaume de commerces de proximité avec l'une des densités les plus élevées au monde : l'innovation locale de 7-Eleven et FamilyMart redéfinissant le mode de vie moderne."
+title: 'La culture des supérettes à Taïwan'
+description: 'Un royaume de supérettes parmi les plus denses au monde, où les innovations locales de 7-Eleven et FamilyMart redéfinissent le mode de vie moderne'
 date: 2026-03-19
 category: 'Lifestyle'
 tags:
   [
-    'Vie quotidienne',
-    'Magasins de proximité',
+    'vie quotidienne',
+    'supérettes',
     '7-Eleven',
     'FamilyMart',
-    'Produits frais',
-    'Culture des supérettes',
-    'Vie moderne',
+    'plats frais',
+    'culture des supermarchés de proximité',
+    'vie moderne',
   ]
 subcategory: '城市生活'
 author: 'Taiwan.md'
@@ -20,241 +20,258 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 readingTime: 7
 translatedFrom: 'Lifestyle/台灣便利商店文化.md'
-sourceCommitSha: 'd520299ba'
-sourceContentHash: 'sha256:15b1d886569defdd'
-sourceBodyHash: 'sha256:5c3b9cff7c172cb0'
-translatedAt: '2026-08-03T14:19:22+08:00'
+sourceCommitSha: '42580d097'
+sourceContentHash: 'sha256:33d2f6cba1a3b0f2'
+sourceBodyHash: 'sha256:9a55ab468883045f'
+translatedAt: '2026-10-03T00:56:56+08:00'
 ---
 
-# La culture des magasins de proximité à Taï<0xC2><0xA0>wan
+# La culture des supérettes à Taïwan
 
-En parcourant les rues de Taïwan, on trouve en moyenne un magasin de proximité pour 2000 habitants, une densité parmi les plus élevées au monde (environ la deuxième mondiale, après la Corée du Sud)[^2]. Du café et du sandwich du matin aux nouilles instantanées et à la bière tard dans la nuit, du paiement de factures au retrait de colis, en passant par la photocopie ou l'envoi de colis, le magasin de proximité n'est plus seulement un « magasin », mais un véritable « centre de vie » indispensable au quotidien des Taïwanais.
+En arpentant les rues de Taïwan, on trouve en moyenne une supérette pour 1 659 habitants[^5], une densité qui place l'île au deuxième rang mondial, juste derrière la Corée du Sud[^2][^3]. Du café et des sandwiches du matin aux nouilles instantanées et bières de la nuit, du paiement de factures à l'envoi de colis en passant par les photocopies, les supérettes ne sont plus de simples « commerces » : elles sont devenues des « centres de vie » indispensables au quotidien des Taïwanais.
 
-Ouverts 24 heures sur 24, ces magasins illuminent chaque nuit de Taïwan. Que ce soit pour les travailleurs prenant le premier transport du matin, les ingénieurs faisant des heures supplémentaires tard dans la nuit ou les étudiants ayant une fringale nocturne, le magasin de proximité vous ouvre toujours une porte lumineuse. Ce n'est pas seulement le succès d'un modèle commercial, c'est aussi la quête ultime de la « commodité » par les Taïwanais et le reflet parfait de la vie urbaine moderne.
+Ouvertes 24 heures sur 24, les supérettes illuminent chaque nuit taïwanaise. Qu'il s'agisse du salarié qui court attraper le premier train, de l'ingénieur qui termine sa journée tardivement ou de l'étudiant affamé en pleine nuit, la supérette laisse toujours sa porte grande ouverte. Ce n'est pas seulement la réussite d'un modèle commercial, c'est aussi la quête ultime de « commodité » par les Taïwanais, et le reflet parfait de la vie urbaine moderne.
 
-## Introduction et localisation des magasins de proximité
+## L'introduction et la localisation des supérettes
 
 ### De l'importation japonaise à l'innovation taïwanaise
 
-La culture des magasins de proximité à Taïwan provient d'une introduction en provenance du Japon dans les années 1970 :
+Les supérettes taïwanaises ont démarré à la fin des années 1970, portées par deux grandes marques, l'une d'origine américaine, l'autre japonaise :
 
 **L'arrivée de 7-Eleven :**
-En 1978, le groupe Uni-President a obtenu les droits d'exploitation de <em>7-Eleven</em> à Taïwan, et le 9 février 1980, le premier magasin a ouvert ses portes sur Chang'an East Road à Taipei[^1]. À l'époque, le concept de « service 24h/24 » était très étranger aux consommateurs taïwanais ; beaucoup observaient avec curiosité, à travers la vitrine, ce « magasin qui ne ferme jamais ».
+En 1978, le groupe Uni-President crée « Uni-President Chain Store Corp. » ; en octobre 1979, il signe un accord avec la Southland Corporation, maison mère américaine de 7-Eleven, pour importer le savoir-faire opérationnel ; en février 1980, le premier 7-ELEVEN, le « magasin Chang'an », ouvre ses portes. Au début, l'enseigne n'est pas ouverte 24 h/24 ; il faut attendre 1983 pour que le service continu soit généralisé[^1].
 
 **Défis initiaux :**
 
-- Absence d'habitudes de consommation nocturne.
-- Choix de produits relativement limités.
-- Défis liés aux coûts opérationnels.
+- Les habitudes de consommation nocturne ne sont pas encore ancrées
+- L'assortiment de produits reste limité
+- Déficits chroniques ; en 1982, l'entité est un moment réintégrée au département supérettes de Uni-President, avant de redevenir indépendante en 1987[^1]
 
-**Le tournant :**
-Dans les années 1980, l'économie taïwanaise a connu un essor fulgurant, accompagné d'une urbanisation rapide et d'une augmentation des ménages à deux revenus, ce qui a considérablement accru la demande de commodité. Les magasins de proximité ont parfaitement répondu aux besoins de vie des citadins actifs.
+**Point de bascule :**
+Dans les années 1980, l'économie taïwanaise décolle, l'urbanisation s'accélère, les foyers à double revenu se multiplient, et la demande de commodité explose. Les supérettes répondent pile aux besoins des citadins pressés.
 
-### L'arrivée de FamilyMart
+### Le suivi de FamilyMart
 
-En 1988, FamilyMart est entré sur le marché taïwanais, créant une situation de duel entre deux géants :
+En 1988, des entreprises taïwanaises s'associent au japonais FamilyMart pour créer FamilyMart Convenience Store ; la première succursale, le « magasin Guanqian », ouvre fin décembre sur la route Guanqian à Taipei[^9], instaurant une confrontation à deux avec 7-Eleven :
 
 **Stratégies de différenciation :**
 
-- **7-Eleven** : Met l'accent sur la commodité et l'étendue des services.
-- **FamilyMart** : Se positionne comme « votre bon voisin », avec une image chaleureuse et accueillante.
+- **7-Eleven** : mise sur la commodité et l'étendue des services
+- **FamilyMart** : image chaleureuse et de proximité
 
-**La concurrence comme moteur d'innovation :**
-La saine compétition entre ces deux marques a poussé l'ensemble du secteur à une évolution rapide, améliorant considérablement la variété des produits, les services proposés et le design des points de vente.
+**La concurrence stimule l'innovation :**
+La saine émulation entre les deux géants propulse l'ensemble du secteur : gamme de produits, services, design des points de vente, tout fait un bond en avant.
 
-## La première densité mondiale de magasins de proximité
+## Une densité de supérettes juste derrière la Corée du Sud
 
-### Des chiffres impressionnants
+### Des chiffres saisissants
 
-En 2026, la densité des magasins de proximité à Taïwan atteint un record mondial :
+Selon les statistiques du ministère de l'Économie (août 2025)[^5] :
 
 **Données statistiques :**
 
-- **Nombre total de magasins** : Plus de 13 000.
-- **Densité de population** : En moyenne un magasin pour 2000 habitants.
-- **Densité géographique** : En moyenne 3,3 magasins par kilomètre carré.
+- **Nombre total de magasins** : 14 236 (août 2025)
+- **Densité par habitant** : une supérette pour 1 659 habitants en moyenne (juillet 2025)
+- **Densité géographique** : une supérette tous les 2,57 km² en moyenne, soit environ 0,4 par km²
 
 **Comparaison internationale :**
-Selon les données de 2022, la Corée du Sud présente la densité la plus élevée (environ un magasin pour 900 habitants), suivie de Taïwan (un pour 2000), puis le Japon (un pour 2200). Bien que Hong Kong affiche un ratio d'un magasin pour 1000 habitants, sa superficie est bien moindre. Les États-Unis affichent un ratio d'un magasin pour 8000 habitants, ce qui montre que la demande pour les magasins de proximité est bien plus élevée sur le marché est-asiatique qu'en Europe ou en Amérique.
 
-**Spécificités de Taïwan :**
-Taïwan présente non seulement une densité élevée, mais aussi des horaires d'ouverture plus longs (la plupart sont ouverts 24h/24) et des services plus diversifiés.
+La Corée du Sud affiche la densité la plus élevée, avec environ une supérette pour 950 habitants fin 2023[^2] ; Taïwan en compte une pour 1 659 habitants, le Japon une pour 2 180[^5]. Les États-Unis ne sont pas en reste : environ 152 000 supérettes en 2025, soit une pour 2 233 habitants, un ratio comparable à celui du Japon[^6].
 
-### Caractéristiques de la répartition géographique
+**Spécificité taïwanaise :**
+Taïwan ne se distingue pas seulement par sa densité ; les horaires d'ouverture sont plus longs (majoritairement 24 h/24) et la palette de services, plus diversifiée.
+
+### Particularités de la répartition
 
 **Concentration urbaine :**
 
-- **Taipei** : Densité la plus élevée, environ un magasin pour 1000 habitants.
-- **Nouveau Taipei** : Suit de près.
-- **Kaohsiung** : Pôle majeur du sud.
+- **Taipei** : densité maximale, environ 6,27 supérettes par km² en 2019[^3]
+- **Nouveau Taipei** : juste derrière
+- **Kaohsiung** : pôle majeur du sud
 
-**Présence dans les zones rurales :**
-Même dans les bourgs moins peuplés, le magasin de proximité joue un rôle de service communautaire essentiel, servant parfois d'unique commerce ouvert 24h/24 dans la localité.
+**Maillage des bourgs et villages :**
+Même dans les localités moins peuplées, les supérettes jouent un rôle crucial de service communautaire, étant parfois le seul commerce ouvert 24 h/24 sur place.
 
-**Implantation stratégique :**
+**Implantation aux nœuds de transport :**
 
-- À proximité des stations de métro (MRT).
-- Près des arrêts de bus.
-- Aux abords des écoles et des hôpitaux.
-- Au rez-de-chaussée des immeubles de bureaux.
+- Abords des stations de métro
+- Arrêts de bus
+- Proximité des écoles et hôpitaux
+- Rez-de-chaussée des immeubles de bureaux
 
-## Compétition et innovation entre 7-Eleven et FamilyMart
+## Concurrence et innovation entre 7-Eleven et FamilyMart
 
-### Différences de positionnement de marque
+### Positionnement de marque distinct
 
 **7-Eleven :**
 
-7-Eleven utilise le concept « 7-ELEVEn always here for<0xC2><0xA0>you ». Ses piliers sont les services Big7 et la borne multimédia _ibon_, tandis que le café _City Café_ et les glaces _Slurpee_ ciblent les travailleurs urbains et les étudiants.
+7-ELEVEN a utilisé des slogans tels que « Votre bon voisin pratique », « C'est bien d'avoir un 7-ELEVEN », « Always Open »[^4] ; la borne multimédia ibon constitue son cœur de différenciation, tandis que le café City Café et les Slurpee (思樂冰) ciblent les actifs et étudiants urbains.
 
 **FamilyMart :**
 
-FamilyMart cultive une image amicale avec le slogan « FamilyMart, c'est chez vous ». Ses services centraux sont _FamiPort_ et _Let's Café_, tandis que ses glaces à l'italienne et ses patates douces grillées attirent les familles et les résidents locaux.
+FamilyMart cultive une image accueillante avec « FamilyMart, c'est votre maison » ; FamiPort et Let's Café sont ses piliers de service ; les glaces à l'italienne (霜淇淋) et les patates douces grillées (烤地瓜) attirent familles et riverains.
 
-### La course aux services innovants
+### Course aux services innovants
 
 **Services numériques :**
 
-- **Paiement mobile** : EasyCard, iPASS, Apple Pay.
-- **Intégration d'applications** : Accumulation de points, notifications de promotions, services de précommande.
-- **Expérimentations de magasins sans personnel** : _X-Store_, magasins conceptuels technologiques.
+- **Paiement mobile** : EasyCard (悠遊卡), iPass (一卡通), Apple Pay
+- **Intégration App** : accumulation de points, notifications d'offres, précommande
+- **Expérimentation de magasins sans personnel** : X-Store, concept stores technologiques
 
 **Services logistiques :**
 
-- **Livraison en magasin (Store-to-Store)** : Le magasin devient un centre de transit logistique.
-- **Chaîne du froid** : Livraison à domicile de produits frais.
-- **Le dernier kilomètre** : Résolution des défis de livraison du e-commerce.
+- **Magasin-à-magasin** : les supérettes deviennent des hubs logistiques
+- **Livraison en chaîne du froid** : expédition de produits frais
+- **Dernier kilomètre** : solution aux difficultés de livraison du e-commerce
 
 **Services financiers :**
 
-- **Paiement de factures** : Électricité, eau, téléphone.
-- **Services ATM** : Retraits et virements 24h/24.
-- **Vente de titres** : Billets de concert, billets de transport.
+- **Encaissement/déboursement** : factures d'électricité, d'eau, de gaz, frais de téléphone, primes d'assurance
+- **Services ATM** : retraits et virements 24 h/24
+- **Vente de billets** : concerts, titres de transport
 
-## La révolution des produits frais et l'amélioration de la qualité
+## Révolution des plats frais et montée en qualité
 
-### Des snacks aux repas complets
+### De l'en-cas au repas complet
 
-L'innovation majeure des magasins de proximité à Taïwan est d'avoir élevé les produits frais à un niveau capable de remplacer un repas traditionnel :
+La plus grande innovation des supérettes taïwanaises est d'avoir hissé les plats frais (鮮食) au niveau de vrais substituts de repas :
 
-**La culture du _Oden_ (Kanto-ni) :**
-En 1988, 7-Eleven a introduit l'_oden_. Les saveurs ont été adaptées localement avec des ingrédients familiers aux Taïwanais comme le radis blanc, le tofu frit (_aburaage_) ou les boulettes de viande (_gongwan_), devenant un plat populaire réconfortant en hiver, abordable et équilibré.
+**La culture de l'oden (關東煮) :**
 
-**La révolution du _Bento_ :**
-Le _bento_ de proximité est passé d'un modèle japonais à des saveurs taïwanaises. Des cuisines centrales préparent uniformément les plats, couplées à une logistique en chaîne du froid pour garantir la fraîcheur. Le réchauffage au micro-ondes permet aux travailleurs pressés de consommer un repas chaud à tout moment.
+En 1997, année où le réseau dépasse 1 500 points de vente, 7-ELEVEN lance les boulettes de riz (御飯糰) et l'oden[^7]. Ce dernier devient un plat populaire réchauffant l'hiver, à prix abordable.
+
+**La révolution du bentō (便當) :**
+
+Les boîtes-repas des supérettes, parties du modèle japonais, ont évolué vers des saveurs taïwanaises ; des cuisines centrales assurent une production standardisée, couplée à une logistique en chaîne du froid garantissant la fraîcheur ; le réchauffage micro-ondes permet aux actifs pressés de disposer à tout moment d'un repas chaud.
 
 **Pains et pâtisseries :**
-La stratégie de pains fraîchement cuits et de produits saisonniers limite favorise le réachat, tandis que les collaborations avec des marques célèbres ont fait émerger une véritable culture du « goûter » en magasin.
 
-### Système de contrôle de la qualité
+Le pain cuit sur place et la stratégie de produits saisonniers en édition limitée fidélisent la clientèle ; les collaborations avec des marques réputées ont fait naître la culture du « goûter en supérette ».
 
-Les cuisines centrales assurent un approvisionnement uniforme et des processus de fabrication standardisés pour garantir la constance de la qualité dans chaque point de vente. La logistique de la chaîne du froid repose sur des flottes de camions à température contrôlée, avec une gestion rigoureuse des stocks et des produits proches de la date d'expiration. La sécurité alimentaire est assurée par l'audit des fournisseurs, un système de traçabilité, des tests réguliers et une gestion des réclamations clients, formant un système complet de contrôle sanitaire.
+### Système de contrôle qualité
 
-## Une plateforme intégrée de services de vie
+Les cuisines centrales achètent les ingrédients de façon groupée ; des processus de fabrication standardisés assurent une qualité identique dans chaque point de vente. La logistique en chaîne du froid, opérée par des flottes à température contrôlée selon des tournées régulières, s'appuie sur une gestion rigoureuse des stocks (rotation, traitement des produits à date courte). La sécurité alimentaire couvre l'audit des fournisseurs, la traçabilité des produits, des tests réguliers en laboratoire et le traitement des réclamations clients, formant un dispositif complet de maîtrise sanitaire.
 
-### Centre de paiement de factures
+## Plateforme intégrée de services de vie
 
-Les magasins de proximité ont radicalement changé les habitudes de paiement à Taïwan :
+### Centre de paiement des factures
 
-**Étendue des paiements :**
-Le service couvre les services publics (électricité, eau, gaz), les télécommunications (mobile, internet, télévision par câble), diverses assurances, ainsi que les taxes fonci'ères et d'habitation.
+Les supérettes ont bouleversé les habitudes de paiement des Taïwanais :
 
-**Avantages en termes de commodité :**
-L'avantage réside dans la disponibilité 24h/24 sans contrainte des horaires bancaires, une densité de points de vente permettant de payer partout, une interface accessible à tous les âges, et l'impression immédiate de reçus.
+**Postes encaissés :**
 
-### Station de retrait logistique
+Sont couverts les services publics (électricité, eau, gaz), les télécommunications (mobile, internet, câble), les primes d'assurance diverses, ainsi que les impôts fonciers et sur les maisons.
 
-**Complémentarité avec l'e-commerce :**
-Les principales plateformes de commerce électronique sont profondément intégrées aux magasins : PChome 24h propose la livraison en magasin, Momo et Shopee permettent le paiement à la collecte, et même les achats via Taobao utilisent ces points pour gérer le « dernier kilomètre » des livraisons transfrontalières.
+**Avantages en commodité :**
 
-**Avantages logistiques :**
-Le retrait en magasin résout le problème de l'indisponibilité lors de la livraison, offre une flexibilité horaire, réduit les coûts logistiques et augmente le taux de réussite de la livraison, bénéficiant ainsi aux plateformes et aux consommateurs.
+Le paiement en supérette est accessible 24 h/24, sans contrainte d'horaires bancaires ; le maillage dense permet de payer n'importe où ; l'interface est intuitive pour tous les âges ; un reçu est imprimé instantanément.
+
+### Points de retrait logistique
+
+**Intégration au e-commerce :**
+
+Les grandes plateformes sont toutes profondément connectées aux supérettes : PChome 24h propose le service magasin-à-magasin ; momo Shopping et Shopee prennent en charge le retrait et le paiement en supérette ; les achats transfrontaliers via Taobao passent aussi par les supérettes pour le dernier kilomètre.
+
+**Atouts logistiques :**
+
+Le retrait en supérette résout le problème de l'absence au domicile, offre une grande flexibilité horaire, réduit les coûts logistiques et augmente le taux de livraison réussie, au bénéfice des plateformes comme des consommateurs.
 
 ### Services de vie numérique
 
-La vente de billets couvre les concerts, le cinéma, les transports (HSR, TRA), les parcs d'attractions, ainsi que le paiement de stationnement ou d'amendes, devenant l'un des canaux de billetterie les plus pratiques à Taïwan. Les services de reprographie incluent photocopies, numérisation et impression, ainsi que la prise de photos d'identité. Sur le plan financier, les services ATM (retraits/virements), le paiement de cartes de crédit, la vente d'assurances et le change de devises transforment le magasin en une mini-banque.
+La billetterie couvre concerts, cinéma, billets THSR (高鐵) et TRA (台鐵), parcs d'attractions, devenant le canal de vente le plus pratique de Taïwan. Les services documentaires incluent photocopies noir/blanc et couleur, numérisation, fax et photos d'identité. Côté financier : retraits/virements ATM, paiement de cartes de crédit, encaissement de primes d'assurance, conférant aux supérettes des fonctions de mini-banque.
 
-## Une culture de vie 24h/24
+## Culture de vie 24 h/24
 
-### Un refuge pour les « oiseaux de nuit »
+### Refuge des noctambules
 
-L'ouverture 24h/24 crée une culture nocturne unique :
+L'ouverture continue des supérettes taïwanaises a engendré une culture nocturne unique :
 
-**Clientèle nocturne :**
-Les clients de nuit sont principalement des travailleurs de nuit (infirmiers, agents de sécurité, chauffeurs de taxi), des ingénieurs et journalistes en heures supplémentaires, des étudiants préparant des examens, ou des noctambules, formant un écosystème client unique durant la nuit.
+**Clientèle de nuit :**
+
+On y trouve principalement les travailleurs de nuit (infirmiers, agents de sécurité, chauffeurs de taxi), les ingénieurs et journalistes en heures supplémentaires, les étudiants en révision, ainsi que les insomniaques, composant l'écosystème clientèle propre aux heures tardives.
 
 **Produits de nuit :**
-Les produits phares sont les nouilles instantanées et les plats microondables ; le café et les boissons énergisantes permettent de rester éveillé ; les snacks et la bière sont des choix courants pour la solitude nocturne, sans oublier l'achat d'urgence de produits de première nécessité.
 
-### L'effet « phare urbain »
+Les nouilles instantanées et plats micro-ondables dominent ; cafés et boissons énergisantes rechargent les batteries ; snacks et bières accompagnent la solitude nocturne ; les articles du quotidien en dépannage complètent la demande.
+
+### Effet phare urbain
 
 **Sentiment de sécurité :**
-La lumière vive des magasins de proximité agit comme un phare dans la nuit, offrant sécurité et chaleur aux passants.
+Les lumières vives des supérettes agissent comme des phares dans la nuit, offrant sécurité et chaleur aux passants.
 
 **Espace social :**
 
-- Les zones assises deviennent des espaces de repos temporaires.
-  lag
-- Des points de rencontre pour les jeunes tard le soir.
-- Un refuge temporaire en attendant un bus ou une personne.
-- Une alternative sociale pour les personnes vivant seules.
+- Les zones assises deviennent des lieux de repos temporaires
+- Points de ralliement nocturnes pour les jeunes
+- Abri provisoire en attendant un véhicule ou une personne
+- Substitut de lien social pour les personnes vivant seules
 
 **Régulateur du rythme urbain :**
-Dans la vie urbaine effrénée, le magasin de proximité offre une parenthèse, permettant aux gens de faire une courte pause durant leurs courses.
+Dans une vie citadine effrénée, la supérette ménage une pause, un espace-temps bref où l'on peut souffler le temps d'un achat.
 
 ## Impact socioculturel
 
-### Changement des modes de vie
+### Transformation des modes de vie
 
-Les habitudes d'achat sont passées de l'achat en gros à l'achat fréquent de petites quantités ; les besoins immédiats sont satisfaits instantanément, et la fidélité à la marque s'efface devant la commodité. Côté alimentation, les repas individuels augmentent, l'acceptation des plats microondables progresse et les horaires de repas deviennent plus flexibles. Socialement, le magasin devient un lieu de rencontre décontracté ; des marques comme _City Café_ ont permis l'éclosion d'une culture du café en magasin, créant même une micro-interaction communautaire entre employés et clients réguliers.
+Les habitudes d'achat passent de l'approvisionnement massif à des achats fréquents de petites quantités ; la satisfaction immédiate des besoins ponctuels prime sur la fidélité à la marque. Côté alimentation : les repas en solo se multiplient, l'acceptation des plats micro-ondables progresse, les horaires de repas deviennent plus souples. Sur le plan social : les supérettes servent de lieux de rendez-vous décontractés ; les marques café comme City Café font germer la culture du café en supérette ; une micro-communauté se tisse entre employés et clients réguliers.
 
-### Effets socio-économiques
+### Effets socioéconomiques
 
-Le secteur emploie directement plus de 150 000 personnes à Taïwan, offrant des horaires flexibles et des opportunités de réinsertion professionnelle pour les seniors. Au niveau communautaire, dans les zones rurales, le magasin est souvent le seul centre de soutien vital ouvert 24h/24, jouant un rôle crucial pour les populations âgées ou lors de catastrophes comme les typhons. Pour le développement urbain, la densité des magasins est devenue un indicateur de la complétude des services d'un quartier et apporte une vitalité nocturne à la ville.
+Les supérettes offrent d'abondants emplois à horaires flexibles, et constituent une voie de réinsertion pour les seniors. En service communautaire, les supérettes des zones reculées sont souvent le seul centre de vie ouvert 24 h/24 sur place ; elles jouent un rôle clé dans les services adaptés aux aînés et comme points de refuge lors de typhons ou catastrophes. Côté développement urbain, la densité de supérettes est devenue un indicateur de la complétude des équipements de quartier, tout en insufflant de la vitalité nocturne à la ville.
 
 ### Symbole d'identité culturelle
 
 **Spécificité taïwanaise :**
-La densité et la qualité de service des magasins de proximité sont devenées une culture locale unique, une expérience incontournable pour les touristes étrangers.
+La densité et la qualité de service des supérettes sont devenues une culture locale distinctive, une expérience de vie incontournable pour les visiteurs étrangers.
 
-**Influence internationale :**
-Le modèle taïwanais est étudié par d'autres pays, constituant un exemple réussi d'exportation de _soft power_.
+**Rayonnement international :**
+Le modèle taïwanais de supérette est étudié et emprunté par d'autres pays, constituant un cas réussi d'exportation de soft power.
 
-## Transformation numérique et développement futur
+## Transformation numérique et perspectives d'avenir
 
 ### Innovations technologiques
 
-Concernant les magasins sans personnel, le concept _X-Store_ de 7-Eleven introduit la technologie RFID et la reconnaissance faciale ; le paiement automatique se généralise et les recommandations par IA commencent à apparaître. Côté logistique, les robots de livraison et la gestion automatisée des entrepôts sont en test, tandis que le Big Data optimise les itinéraires de livraison et la gestion prédictive des stocks dans certains points de vente. L'intégration mobile (applications tout-en-un, paiement mobile et recommandations personnalisées) fusionne profondément l'expérience numérique et le service physique.
+Côté magasins sans personnel, 7-ELEVEN teste dès 2018 le X-STORE, combinant reconnaissance faciale, étiquettes électroniques et caisses en libre-service[^8] ; les caisses automatiques se généralisent rapidement, et la recommandation de produits par IA commence à être déployée. En logistique, véhicules de livraison sans chauffeur et gestion d'entrepôt robotisée sont en phase de test ; l'optimisation des tournées par big data et le réapprovisionnement prédictif sont déjà mis en œuvre dans certains points de vente. Côté intégration mobile : application tout-en-un, généralisation du paiement mobile, recommandations personnalisées, fusionnent l'expérience du magasin numérique et le service physique.
 
-### Défis de la durabilité
+### Défis du développement durable
 
-Sur le plan environnemental, la réduction du plastique, la gestion du gaspillage alimentaire, l'efficacité énergétique et l'utilisation d'emballages écologiques sont les enjeux majeurs. Sur le plan social, le respect des réglementations sur le temps de travail et l'amélioration des salaires sont des pressions liées au marché du travail ; la formation des employés est également primordiale. Enfin, la responsabilité sociale (conception adaptée aux seniors, accessibilité, engagement communautaire) est un élément crucial de la compétition d'image de marque.
+Sur le plan environnemental : réduction des sacs plastiques, traitement du gaspillage alimentaire, efficacité énergétique, emballages écoresponsables. Sur le plan social : respect de la législation du travail, pression pour l'amélioration des salaires et avantages dans un marché du travail tendu, importance accrue de la formation des employés. En responsabilité sociétale : conception adaptée aux aînés, accessibilité universelle, engagement communautaire, tous devenus incontournables dans la compétition d'image de marque.
 
 ### Tendances futures
 
-Les services s'approfondiront vers la gestion de la santé, l'extension des produits financiers/assurances et la transformation des magasins en lieux d'activités culturelles communautaires. L'intégration des canaux visera une fusion physique-virtuelle (phygital), avec pour objectif une plateforme de service « tout-en-un » au sein du cercle de vie quotidien. En termes d'expansion internationale, le modèle taïwanais sert de référence à plusieurs marchés asiatiques, faisant des systèmes technologiques et de la gestion de marque des produits d'exportation potentiels.
+L'approfondissement des services vise l'intégration de la gestion de santé, l'élargissement des produits financiers et d'assurance, et la transformation des supérettes en lieux d'activités culturelles communautaires. L'intégration omnicanal met l'accent sur la fusion physique-virtuel, avec pour objectif une plateforme tout-en-un à l'échelle du quartier de vie. À l'international, le modèle de service taïwanais inspire déjà plusieurs marchés asiatiques ; les systèmes technologiques et le savoir-faire en gestion de marque constituent des gisements d'exportation potentiels.
 
-## Signification culturelle des magasins de proximité
+## Signification culturelle des supérettes
 
-Le succès de la culture des magasins de proximité à Taïwan reflète la quête extrême de « commodité » de cette société et sa capacité d'adaptation à la vie moderne. Il ne répond pas seulement aux besoins pratiques des citadins, il crée aussi une esthétique de vie unique.
+La réussite de la culture des supérettes à Taïwan reflète la poursuite extrême de la « commodité » par cette société, ainsi que sa capacité d'adaptation à la vie moderne. Elle ne se contente pas de répondre aux besoins pratiques des citadins ; elle a créé une esthétique de vie unique.
 
-Du premier café du matin au dernier bol de nouilles de la nuit, le magasin de proximité est le témoin de la trajectoire quotidienne des Taïwanais. C'est un microcosme de la société taïwanaise moderne, incarnant une culture où l'efficacité et la chaleur humaine coexistent.
+Du premier café du matin au dernier bol de nouilles instantanées de la nuit, les supérettes accompagnent le fil de la journée des Taïwanais. Elles sont le miroir de la société taïwanaise contemporaine, incarnant cette particularité culturelle où efficacité et humanité coexistent.
 
-Dans la vague de la mondialisation, la culture des magasins de proximité de Taïwan est devenue un cas d'école de localisation réussie. Elle prouve qu'une culture étrangère peut, par l'innovation et l'adaptation, prendre racine dans un nouveau sol et même influencer le monde. En 2026, Taïwan demeure l'une des régions ayant la plus forte densité de magasins de proximité au monde, un chiffre qui cache l'aspiration d'une génération entière à une vie « disponible à tout moment ».
+Dans la vague de la mondialisation, la culture des supérettes taïwanaises est devenue un cas d'école de localisation réussie. Elle prouve qu'une culture importée peut, par l'innovation et l'adaptation, s'enraciner dans un nouveau terreau, et même influencer le monde en retour. En 2026, Taïwan reste l'un des territoires à la plus forte densité de supérettes au monde ; derrière ce chiffre se profile l'attente d'une génération entière pour une vie « toujours commode ».
 
-**Lectures complémentaires :**
+**Lectures complémentaires** :
 
-- [Émotion à Taïwan : Devons-nous attendre que les Coréens « likent » pour oser dire que nos vieilles maisons sont belles ?](/fr/culture/taiwanese-sensibility) — Le magasin de proximité éclairé tard dans la nuit est l'un des paysages quotidiables de Taïwan, bien que rarement observé en détail.
-- [Facture : Ce papier de 1951 qui a transformé chaque citoyen en inspecteur fiscal](/fr/economy/taiwan-uniform-invoice) — Le scénario le plus courant pour l'utilisation des portefeuilles de factures cloud est le magasin de proximité ; chaque paiement est la dernière étape d'une mobilisation fiscale quotidienne.
-- [Entreprise taïwanaise : Uni-President](/fr/economy/taiwan-enterprise-uni-president) — Le groupe Uni-President, derrière 7-ELEVEN, a grandi d'un simple paquet de nouilles pour devenir un empire de la vente au détail qui accompagne le quotidien des Taïwanais.
+- [Taïwan sensible : faut-il que les Coréens likent d'abord pour que nous osions dire que nos vieilles maisons sont belles ?](/fr/culture/taiwanese-sensibility) — Les supérettes éclairées la nuit font aussi partie de ces paysages quotidiens que les Taïwanais tiennent pour acquis et regardent rarement de près
+- [La facture : ce papier de 1951 qui a fait de chaque citoyen un inspecteur des impôts](/fr/economy/taiwan-uniform-invoice) — Le support de facture dématérialisée trouve son usage le plus fréquent en supérette ; chaque passage en caisse est le dernier kilomètre de la mobilisation fiscale quotidienne
+- [Entreprises taïwanaises : Uni-President](/fr/economy/taiwan-enterprise-uni-president) — Derrière 7-ELEVEN, le groupe Uni-President, parti d'un paquet de nouilles instantanées, a bâti l'empire de la distribution qui contient une journée de vie des Taïwanais
 
 ## Références
 
-[^1]: Site officiel de 7-Eleven Taiwan, https://www.7-eleven.com.tw/
+[^1]: [Uni-President Chain Store — Présentation de l'entreprise et jalons historiques](https://www.7-11.com.tw/Company/esg/aboutus.aspx) — 04/1978 création de Uni-President Chain Store ; 10/1979 accord avec Southland Corporation ; 02/1980 ouverture du premier 7-ELEVEN « Chang'an » ; 11/1982 réintégration au département supérettes de la maison mère ; 1983 début du service 24 h ; 07/1987 nouvelle indépendance
 
-[^2]: PTS News, 〈La densité des magasins de proximité en Corée du Sud devient la 1ère mondiale〉, https://news.pts.org.tw/article/706230
+[^2]: [PTS News — Le nombre de points de vente dépasse les McDonald's mondiaux, la densité des supérettes coréennes dépasse Taïwan et Japon pour devenir n°1 mondial](https://news.pts.org.tw/article/706230) — Citant CNN et l'Association coréenne de l'industrie des supérettes : fin 2023, plus de 55 200 supérettes en Corée du Sud, une pour 950 habitants en moyenne
 
-[^3]: Liberty Times Finance, 〈La densité des magasins de proximité à Taïwan est la 2ème mondiale〉, https://ec.ltn.com.tw/article/breakingnews/2385333
+[^3]: [Liberty Times Finance — La densité des supérettes taïwanaises 2e mondiale, Taipei 6,27 magasins/km² (2020-08-07)](https://ec.ltn.com.tw/article/breakingnews/3252852) — Enquête de la Commission de la concurrence : Taïwan juste derrière la Corée, 0,33 magasin/km² en moyenne, Taipei 6,27/km², maximum national
 
-[^4]: Site officiel de FamilyMart Taiwan, https://www.family.com.tw/
+[^4]: [Wikipédia — Uni-President Chain Store](https://zh.wikipedia.org/zh-tw/%E7%B5%B1%E4%B8%80%E8%B6%85%E5%95%86) — Liste des slogans publicitaires : « Votre bon voisin pratique », « C'est bien d'avoir un 7-Eleven » (arrêté déc. 2020), « Always Open, 7-Eleven » (depuis 2007), etc.
 
-[^5]: Bureau des statistiques du Ministère de l'Économie, Statistiques du commerce de détail, https://www.moea.gov.tw/
+[^5]: [Ministère de l'Économie — Communiqué sur les supérettes (2025)](https://www.moea.gov.tw/MNS/populace/news/News.aspx?kind=1&menu_id=40&news_id=120778) — Août 2025 : 14 236 supérettes ; juillet 2025 : une pour 1 659 habitants, une pour 2,57 km² ; Japon : une pour 2 180 habitants, une pour 6,68 km²
+
+[^6]: [NACS — U.S. Convenience Store Count Stands at 152,255 (2025-01-31)](https://www.convenience.org/Media/Press-Releases/2025-Press-Releases/U-S-Convenience-Store-Count-Stands-at-152,255) — 152 255 supérettes aux États-Unis, une pour 2 233 habitants
+
+[^7]: [Storm Media reprenant CommonWealth Magazine — Xu Zhongren sur le développement produits de 7-ELEVEN](https://www.storm.mg/lifestyle/4861642) — 1997, année où le réseau franchit 1 500 magasins et où Uni-President Chain Store entre en Bourse : lancement des boulettes de riz et de l'oden
+
+[^8]: [iThome — Test interne du magasin sans personnel X-STORE d'Uni-President (2018-01-29)](https://www.ithome.com.tw/news/120987) — Combine membres OPENPOINT, iCash, reconnaissance faciale, étiquettes électroniques, caisse automatique POS
+
+[^9]: [Wikipédia — FamilyMart Convenience Store](https://zh.wikipedia.org/zh-tw/%E5%85%A8%E5%AE%B6%E4%BE%BF%E5%88%A9%E5%95%86%E5%BA%97) — 18/08/1988 création par coentreprise entre entreprises taïwanaises et FamilyMart Japon ; 02/12/1988 ouverture du premier magasin « Guanqian » ; slogan « FamilyMart, c'est votre maison »

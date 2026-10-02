@@ -1,17 +1,17 @@
 ---
-title: 'Politique commerciale internationale de Taïwan : trouver sa place dans la vague de la mondialisation'
-description: "Taïwan, économie orientée vers le commerce, déploie des stratégies commerciales diversifiées, dont la candidature au CPTPP et la Nouvelle politique en direction du Sud, afin de chercher des percées dans l'espace économique et commercial international malgré les contraintes géopolitiques."
+title: "Politique commerciale internationale de Taïwan : s'ancrer dans le courant de la mondialisation"
+description: "En 2024, les exportations vers la Chine continentale et Hong Kong ont baissé à 31,7 %, les États-Unis devenant le deuxième plus grand marché. Seuls le Panama et le Guatemala disposent d'un accord commercial formel ; la candidature au CPTPP est bloquée à la porte, et les avancées se concentrent sur l'initiative commerciale sino-taïwanaise du XXIe siècle, l'ETP avec le Royaume-Uni et l'accord commercial équitable de 2026. Cet article montre comment Taïwan, contrainte par l'espace diplomatique limité, utilise une série d'accords bilatéraux pour dénicher des issues à son économie dépendante des exportations."
 date: 2026-03-19
 category: 'Economy'
 tags:
   [
-    'économie',
-    'politique commerciale',
+    'Économie',
+    'Politique commerciale',
     'CPTPP',
-    'Nouvelle politique en direction du Sud',
+    'Nouvelle orientation vers le Sud',
     'ECFA',
-    'ALE',
-    'économie et commerce internationaux',
+    'Accord commercial',
+    'Commerce international',
   ]
 subcategory: '貿易與全球化'
 author: 'Taiwan.md'
@@ -21,27 +21,27 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Economy/台灣國際貿易政策.md'
-sourceCommitSha: '4a4d66620'
-sourceContentHash: 'sha256:d585af78b77ed183'
-sourceBodyHash: 'sha256:57ec5065ff0c2c3f'
-translatedAt: '2026-08-04T04:49:35.649839+00:00'
+sourceCommitSha: '1f266e533'
+sourceContentHash: 'sha256:e2e52ce67066146d'
+sourceBodyHash: 'sha256:956a2e50c55badba'
+translatedAt: '2026-10-03T00:56:56+08:00'
 ---
 
-# Politique commerciale internationale de Taïwan : trouver sa place dans la vague de la mondialisation
+# Politique commerciale internationale de Taïwan : s'ancrer dans le courant de la mondialisation
 
 ## Aperçu en 30 secondes
 
-Taïwan, économie insulaire fortement dépendante du commerce international, fait face au double défi de la « réalité politique » et des « besoins économiques ». En cherchant à rejoindre le CPTPP, en promouvant la Nouvelle politique en direction du Sud et en maintenant ses relations commerciales avec les États-Unis, Taïwan s’efforce, dans un espace international limité, de construire des partenariats commerciaux diversifiés. Le pays doit en même temps trouver un équilibre entre sa dépendance économique et commerciale à l’égard de la Chine et sa sécurité économique, afin de tracer une voie de développement durable pour son économie.
+En tant qu'économie insulaire fortement dépendante du commerce international, Taïwan fait face à un double défi : la « réalité politique » et les « besoins économiques ». En poursuivant l'adhésion au CPTPP, en promouvant la politique de nouvelle orientation vers le Sud et en maintenant ses relations commerciales avec les États-Unis, Taïwan s'efforce, dans un espace international restreint, de construire des partenariats commerciaux diversifiés. Parallèlement, il doit équilibrer la dépendance économique transdéniense avec la sécurité économique, afin de tracer une voie durable pour l'économie taïwanaise.
 
-**Mots-clés :** CPTPP, Nouvelle politique en direction du Sud, ECFA, accord de libre-échange, diversification économique et commerciale, reconfiguration des chaînes d’approvisionnement
+**Mots-clés :** CPTPP, politique de nouvelle orientation vers le Sud, ECFA, accords commerciaux libéraux, diversification commerciale, recomposition des chaînes d'approvisionnement
 
 ---
 
-## Pourquoi c’est important
+## Pourquoi c'est important
 
-Taïwan est une économie insulaire dépourvue de ressources naturelles. La valeur totale de ses importations et exportations dépasse 100 % de son PIB ; les industries manufacturières, notamment les produits électroniques et les équipements mécaniques, constituent les piliers de son économie, et Taïwan est aussi un nœud essentiel des chaînes mondiales d’approvisionnement en produits technologiques. Cette structure signifie que la politique commerciale est une politique de survie nationale : sans exportations, pas de devises ; sans devises, pas d’importations d’énergie ni de matières premières.
+Taïwan est une économie insulaire dépourvue de ressources naturelles, dont le volume d'exportations et d'importations dépasse 100 % du PIB. Les industries de fabrication, notamment les produits électroniques et les équipements mécaniques, constituent le pilier économique, et Taïwan est également un maillon essentiel de la chaîne d'approvisionnement mondiale des produits technologiques. Cette structure signifie que la politique commerciale est une question de survie nationale : sans exportations, pas de devis étrangères ; sans devis étrangères, pas d'importations d'énergie et de matières premières.
 
-Dans un contexte d’espace diplomatique restreint, la coopération économique et commerciale devient pour Taïwan le principal canal de participation à la communauté internationale : maintenir une capacité d’expression au sein d’organisations internationales comme l’OMC, renforcer son image internationale dans les enceintes de diplomatie substantielle grâce à ses performances économiques, et, face à la pression géopolitique suscitée par l’essor économique de la Chine, trouver un point d’équilibre entre la dispersion des risques et le maintien des échanges nécessaires.
+Dans un contexte où l'espace diplomatique est limité, les partenariats commerciaux deviennent le principal canal pour Taïwan pour participer à la scène internationale : en utilisant des organisations internationales comme l'OMC pour préserver sa voix, en améliorant son image internationale grâce à ses réalisations économiques, et en faisant face aux pressions géopolitiques liées à l'essor économique de la Chine continentale, il doit trouver un équilibre entre la diversification des risques et le maintien des échanges nécessaires.
 
 ---
 
@@ -49,116 +49,130 @@ Dans un contexte d’espace diplomatique restreint, la coopération économique 
 
 ### Principaux partenaires commerciaux
 
-Selon les statistiques du ministère des Finances, la Chine, Hong Kong compris, représentait en 2023 environ 31,7 % des exportations taïwanaises, ce qui en faisait le premier marché d’exportation de Taïwan[^1] ; venaient ensuite les États-Unis, le Japon, l’ASEAN et l’Union européenne. Bien que la concentration vers la Chine ait diminué depuis son pic des années 2010, elle demeure le cœur des politiques de diversification commerciale. La Corée du Sud et Taïwan entretiennent par ailleurs des relations à la fois concurrentielles et coopératives dans les semi-conducteurs, les écrans et d’autres secteurs, ce qui en fait une autre relation commerciale digne d’attention.
+Selon les statistiques du ministère des Finances, en 2024, la Chine continentale et Hong Kong représentaient 31,7 % des exportations de Taïwan, restant le plus grand marché d'exportation, mais atteignant le niveau le plus bas depuis 23 ans, soit 12,2 points de pourcentage de moins par rapport au pic de 43,9 % en 2020[^1]。Les États-Unis, avec 23,4 %, sont devenus le deuxième plus grand marché d'exportation, suivi par l'ASEAN avec 18,5 %, l'Europe avec 8,1 %, et le Japon avec 5,4 %。Bien que la concentration commerciale envers la Chine continue de diminuer, elle reste le point central de la politique de diversification commerciale. La Corée du Sud, quant à elle, entretient des relations commerciales à la fois compétitives et collaboratives dans les secteurs des semi-conducteurs et des panneaux, ce qui mérite également toute l'attention.
 
-### Structure des produits exportés
+### Structure des produits d'exportation
 
-Les exportations taïwanaises sont fortement concentrées dans les produits de haute technologie. D’après les statistiques 2022-2023 du ministère des Finances, les produits électroniques, dont les semi-conducteurs, ordinateurs et équipements de communication, représentent plus de 60 % des exportations[^1]. Viennent ensuite les machines de précision et machines-outils, les produits pétrochimiques et plastiques, ainsi que l’acier et les métaux non ferreux. Cette concentration rend Taïwan particulièrement sensible aux cycles du marché des semi-conducteurs : lorsque la demande de puces ralentit, les chiffres globaux des exportations réagissent rapidement.
+Les exportations de Taïwan sont fortement concentrées sur les produits technologiques de pointe. Selon les statistiques du ministère des Finances, les composants électroniques (37,3 %) et les produits d'informatique et de télécommunication (27,9 %) représentent ensemble 65 % des exportations totales en 2024[^1]， suivis par les métaux de base, les machines, les produits en caoutchouc et les produits chimiques, chacun représentant entre 3 % et 6 %。Cette concentration rend Taïwan particulièrement sensible aux cycles du marché des semi-conducteurs : lorsque la demande en puces ralentit, les chiffres globaux d'exportations réagissent rapidement.
 
-### Dépendances à l’importation
+### Dépendance aux importations
 
-La dépendance de Taïwan aux importations d’énergie est son principal risque structurel : pétrole, gaz naturel et charbon sont presque entièrement importés. Les minerais métalliques et matières premières chimiques, les denrées alimentaires et produits d’élevage, les équipements pour semi-conducteurs et les instruments scientifiques constituent quatre autres grandes catégories de besoins d’importation. La vulnérabilité géopolitique des importations énergétiques est l’un des aspects les plus difficiles à contourner dans la politique taïwanaise de sécurité des approvisionnements.
-
----
-
-## Cadre central de la politique commerciale
-
-### Participation au système de l’OMC
-
-Taïwan fonctionne comme membre de l’OMC sous le nom de « Territoire douanier distinct de Taïwan, Penghu, Kinmen et Matsu » depuis son adhésion formelle en 2002. Dans le système commercial multilatéral, il respecte les règles et participe aux négociations multilatérales. Cette désignation entraîne toutefois des frictions politiques durables : les interventions de la Chine contre le droit de parole de Taïwan dans les enceintes de l’OMC, ainsi que la complexité de son statut dans les organisations internationales, réduisent l’efficacité de sa participation aux négociations multilatérales de l’OMC. Malgré cela, le statut de membre de l’OMC demeure pour Taïwan une base juridique essentielle afin de maintenir des protections commerciales multilatérales.
-
-### Accords bilatéraux de libre-échange (ALE)
-
-Les ALE formels actuellement signés par Taïwan sont très limités et concernent principalement des alliés diplomatiques d’Amérique centrale : Panama, Guatemala, Nicaragua, Salvador et Honduras. Taïwan a également signé des accords de coopération économique (ECA) avec la Nouvelle-Zélande et Singapour, dans un cadre non traditionnel d’ALE[^2]. Parmi les dossiers en négociation figurent les États-Unis, avec la signature en 2023 du premier chapitre de l’Initiative Taïwan-États-Unis sur le commerce du XXIe siècle relatif à la facilitation des échanges[^3], l’Inde avec un accord bilatéral d’investissement, et le Royaume-Uni avec un dialogue sur l’investissement. La cause fondamentale des limites à l’expansion des ALE tient à la réalité politique : sous la pression de Pékin, de nombreux pays ne souhaitent pas conclure d’accords formels avec Taïwan, ce qui impose d’avancer au moyen de cadres alternatifs.
+La dépendance de Taïwan aux importations énergétiques représente le risque structurel le plus important : le pétrole, le gaz naturel et le charbon sont presque entièrement importés. Les minerais métalliques et les matières premières chimiques, les produits agricoles et les produits d'élevage, ainsi que les équipements pour semi-conducteurs et les instruments scientifiques, forment les quatre autres catégories majeures d'importation. La vulnérabilité géopolitique liée aux importations énergétiques est l'un des aspects les plus difficiles à éviter dans la politique de sécurité alimentaire de Taïwan.
 
 ---
 
-## Principales initiatives politiques
+## Cadre politique commercial clé
 
-### Stratégie d’adhésion au CPTPP
+### Participation dans le cadre de l'OMC
 
-Taïwan a officiellement demandé à rejoindre le CPTPP en septembre 2021, mis en place un groupe de travail interministériel et engagé des dialogues politiques avec les pays membres. L’évaluation des bénéfices de l’adhésion couvre l’accès aux marchés de 11 pays membres, la réduction progressive à zéro des droits de douane pour la plupart des produits, l’amélioration de la transparence de l’environnement d’investissement, ainsi que de nouvelles opportunités dans les services financiers, les télécommunications et d’autres secteurs.
+Taïwan opère sous le nom de « Taïwan, Pékin, Macao, Hong Kong » (depuis 2002 et toujours en vigueur) en tant que membre de l'OMC, en respectant les normes et en participant aux négociations multilatérales. Cependant, cette identité crée des frictions politiques persistantes : les interférences de la Chine continentale sur les droits de parole de Taïwan lors des séances de l'OMC, ainsi que la complexité de son identité dans les organisations internationales, limitent l'efficacité de Taïwan dans les négociations multilatérales de l'OMC. Malgré cela, l'appartenance à l'OMC reste la base juridique essentielle pour Taïwan afin de préserver la protection commerciale multilatérale.
 
-La voie vers l’adhésion se heurte cependant à un double obstacle, interne et externe. Sur le plan intérieur, les appels à la protection de l’agriculture sont forts, l’extension de la durée des brevets pharmaceutiques est controversée, et l’ajustement des politiques relatives aux travailleurs étrangers touche des intérêts sensibles. Sur le plan extérieur, l’obstruction politique de la Chine est la variable la plus difficile à surmonter. En 2026, la candidature taïwanaise au CPTPP n’avait toujours pas connu de progrès substantiel ; la sensibilité politique que représente, pour les pays membres, le traitement simultané des demandes de Taïwan et de la Chine a enlisé les négociations d’adhésion[^4].
+### Accords commerciaux bilatéraux (FTA)
 
-En réponse, le gouvernement continue de mener des évaluations d’impact sectoriel et des mesures d’accompagnement, des adaptations réglementaires et réformes institutionnelles, une communication avec le Parlement et un dialogue social, tout en approfondissant les relations bilatérales avec chaque pays membre afin de préserver une marge d’avancée lorsque le moment de l’adhésion sera mûr.
-
-### Nouvelle politique en direction du Sud (2016 à aujourd’hui)
-
-La Nouvelle politique en direction du Sud a été lancée en 2016. Elle vise à réduire la dépendance des marchés envers la Chine, à approfondir les relations économiques et commerciales avec l’ASEAN et l’Asie du Sud, et à promouvoir la coopération régionale dans les chaînes industrielles ainsi que les échanges de talents. La politique couvre 18 pays cibles : les 10 pays de l’ASEAN, 6 pays d’Asie du Sud, la Nouvelle-Zélande et l’Australie. Elle s’articule autour de quatre axes : coopération économique et commerciale, échanges de talents, partage des ressources et liens régionaux.
-
-Les résultats concrets incluent la croissance des investissements dans les pays de la Nouvelle politique en direction du Sud, l’augmentation du commerce bilatéral, des cas de coopération dans des parcs industriels et l’exportation de l’enseignement technique et professionnel. Les défis réels de cette politique résident dans les différences linguistiques et culturelles, la méconnaissance des environnements réglementaires locaux, les risques politiques et les écarts d’infrastructures. Ces obstacles montrent que l’expansion vers le Sud exige un horizon plus long qu’une simple redirection des flux commerciaux.
-
-### Initiative Taïwan-États-Unis sur le commerce du XXIe siècle
-
-Le premier chapitre de l’Initiative Taïwan-États-Unis sur le commerce du XXIe siècle, consacré à la facilitation des échanges, a été signé en 2023. L’initiative couvre huit domaines : facilitation des échanges, bonnes pratiques réglementaires, coopération agricole, lutte contre la corruption, commerce des petites et moyennes entreprises, commerce numérique, questions liées au travail et questions environnementales. Son importance stratégique réside dans l’approfondissement des relations économiques et commerciales entre Taïwan et les États-Unis, dans la préparation d’accords plus larges à l’avenir, ainsi que dans la démonstration de la capacité de réforme de Taïwan, renforçant la base de confiance mutuelle entre Taïwan et les États-Unis dans l’architecture de coopération indo-pacifique.
+Les accords commerciaux formels (FTA) actuellement en vigueur à Taïwan sont extrêmement limités. Dans les Amériques centrales et méridionales, il ne reste que le Panama et le Guatemala[^2] : le Panama a rompu les relations diplomatiques en 2017, mais l'accord est toujours en vigueur ; quant aux accords conclus avec le Nicaragou, le Salvador, le Honduras et le Guatemala, ils ont été résiliés après la rupture des relations diplomatiques. Taïwan a également conclu des accords de coopération économique avec la Nouvelle-Zélande (ANZTEC) et Singapour (ASTEP)[^2]。Les avancées récentes se concentrent sur des arrangements bilatéraux : en 2018, un accord d'investissement bilatéral a été signé avec l'Inde[^9]； en 2023, le premier accord de l'initiative commerciale sino-taïwanaise du XXIe siècle a été signé avec les États-Unis[^3]； un accord d'échange de partenaires commerciaux (ETP) avec le Royaume-Uni[^8]； et en février 2026, un accord commercial équitable avec les États-Unis[^7]。La raison fondamentale pour laquelle l'expansion des FTA est limitée réside dans la réalité politique : de nombreux pays, contraints par la pression de Pékin, hésitent à conclure des accords formels avec Taïwan, nécessitant l'utilisation de cadres alternatifs pour progresser.
 
 ---
 
-## Relations économiques et commerciales entre les deux rives du détroit
+## Initiatives politiques clés
 
-### Signature et effets de l’ECFA
+### Stratégie d'adhésion au CPTPP
 
-Entre 2010 et 2012, Taïwan a fait avancer le cadre de l’ECFA. L’Accord-cadre de coopération économique entre les deux rives du détroit (ECFA) a été signé en 2010 afin de réduire les droits de douane sur certains produits au moyen d’une liste de récolte précoce et d’établir des mécanismes de négociation ultérieurs. L’accord a stimulé la croissance du commerce bilatéral, facilité les investissements des entreprises taïwanaises en Chine, augmenté le tourisme chinois à Taïwan et élargi les échanges dans les services financiers. Les critiques soulignent quant à elles que l’accord a approfondi la dépendance économique, accéléré la délocalisation industrielle, aggravé la répartition des revenus et comporté des risques implicites pour la sécurité nationale.
+Le 22 septembre 2021, Taïwan a officiellement déposé sa candidature pour adhérer au CPTPP, créant un groupe de travail interministériel et engagé des dialogues politiques avec les États membres. L'évaluation des bénéfices d'adhésion couvre l'accès au marché des États membres (11 pays à l'époque de la candidature, 12 après l'adhésion du Royaume-Uni en 2024), la réduction progressive des droits de douane sur la plupart des produits, l'amélioration de la transparence de l'environnement d'investissement, ainsi que de nouvelles opportunités dans les secteurs financiers et des télécommunications.
 
-**Situation récente de l’ECFA (2023-2024)** : fin 2023, la Chine a annulé les concessions tarifaires accordées à 539 produits de la liste de récolte précoce ; en mai 2024, elle a de nouveau annulé les concessions portant sur 134 produits pétrochimiques, ce qui a gravement érodé en substance le cadre de l’ECFA[^5]. Les secteurs d’exportation taïwanais concernés font face à une pression de remontée des droits de douane, et les avantages restants de l’ECFA se sont considérablement réduits.
+Cependant, le chemin vers l'adhésion est parsemé d'obstacles internes et externes. En interne, les pressions pour protéger l'agriculture sont fortes, la prolongation des brevets pharmaceutiques est controversée, et l'ajustement des politiques en matière de main-d'œuvre implique des intérêts sensibles. En externe, l'opposition politique de la Chine continentale est la variable la plus difficile à surmonter. Lors de la réunion du comité ministériel du CPTPP en novembre 2025, aucun accord n'a été trouvé pour créer un groupe de travail d'adhésion pour Taïwan, tandis que la même réunion a décidé d'engager le processus d'adhésion de l'Uruguay[^4]。La sensibilité politique des États membres face à la gestion simultanée des candidatures de Taïwan et de la Chine continentale a bloqué le processus d'adhésion de Taïwan à la porte.
 
-### Défis actuels des relations économiques et commerciales entre les deux rives
+En réponse, le gouvernement poursuit continuellement des évaluations d'impact sectoriel, des ajustements réglementaires et des réformes institutionnelles, des communications avec le parlement et des dialogues sociaux, ainsi qu'un approfondissement des relations bilatérales avec chaque État membre, afin de conserver de l'espace pour faire avancer les questions lorsque les conditions seront réunies.
 
-Les problèmes structurels sont principalement au nombre de quatre : une dépendance commerciale relativement élevée de Taïwan envers la Chine, un chevauchement croissant des compétitivités industrielles, une hausse du risque de fuite technologique et des considérations de sécurité des chaînes d’approvisionnement. L’orientation des ajustements politiques consiste à renforcer le contrôle des technologies clés, promouvoir la diversification des chaînes d’approvisionnement, établir des mécanismes de sécurité économique, tout en maintenant les échanges économiques et commerciaux nécessaires. Ce dernier objectif devient de plus en plus difficile à calibrer avec précision à mesure que les tensions politiques entre les deux rives s’intensifient.
+### Politique de nouvelle orientation vers le Sud (2016-2024)
+
+La politique de nouvelle orientation vers le Sud a été lancée en 2016, visant à diversifier la dépendance au marché chinois, à approfondir les relations économiques et commerciales avec l'ASEAN et l'Asie du Sud, à promouvoir la coopération régionale des chaînes industrielles et les échanges de personnel. Cette politique couvre 18 pays cibles : les 10 pays de l'ASEAN, les 6 pays d'Asie du Sud, la Nouvelle-Zélande et l'Australie, et s'appuie sur quatre axes principaux : la coopération économique, les échanges de personnel, le partage de ressources et les liens régionaux.
+
+Parmi les résultats concrets, on compte la croissance des investissements dans les pays de la nouvelle orientation, l'augmentation du volume commercial bilatéral, des cas de coopération industrielle dans les zones industrielles, ainsi que l'exportation de l'enseignement technique. Les défis réels de cette politique résident dans les différences linguistiques et culturelles, l'inconnaissance des environnements juridiques locaux, les risques politiques et les disparités en matière d'infrastructures — ces obstacles montrent que l'expansion vers le Sud nécessite un horizon temporel plus long que le simple redressement du commerce.
+
+### Initiative commerciale sino-taïwanaise du XXIe siècle et accord commercial équitable
+
+Le 1er juin 2023, Taïwan et les États-Unis ont signé le premier accord de l'initiative commerciale sino-taïwanaise du XXIe siècle. Le premier lot couvre cinq domaines : l'administration douanière et la facilitation commerciale, l'exploitation d'une bonne gouvernance, les réglementations nationales dans le secteur des services, la lutte contre la corruption, et les entreprises de taille moyure. Les sept domaines restants — le travail, l'environnement, l'agriculture, le commerce numérique, les normes, les entreprises publiques, et les politiques et pratiques non marchandes — seront négociés ultérieurement[^3]。Le 12 février 2026 (heure de l'Est des États-Unis), les deux parties ont signé un « accord commercial équitable » (ART), établissant un taux de droits de douane équivalent de 15 % sans cumul, et exemptant 2 072 produits taïwanais des droits de douane équivalents[^7]。La portée stratégique réside dans le renforcement des relations commerciales sino-taïwanaises, la mise en place d'une base de confiance pour des accords plus étendus à l'avenir, ainsi que la démonstration de la capacité de Taïwan à s'adapter, renforçant la confiance mutuelle dans le cadre de la coopération dans la région indo-Pacifique.
 
 ---
 
-## Politique commerciale par secteur
+## Relations commerciales transdéniennes
 
-### Industrie des semi-conducteurs
+### Signature et impact de l'ECFA
 
-Les semi-conducteurs taïwanais occupent une place centrale dans les chaînes mondiales d’approvisionnement. Leurs principaux avantages concurrentiels proviennent de l’avance dans les technologies de procédés avancés, d’un écosystème industriel complet et de ressources humaines de grande qualité. L’orientation de la politique commerciale consiste à participer aux alliances américaines autour des puces, à établir des chaînes d’approvisionnement fiables et à renforcer les mécanismes de contrôle des exportations. Les projets d’implantation d’usines de TSMC aux États-Unis et au Japon constituent un exemple typique de gestion proactive, par Taïwan, des risques diplomatiques dans un contexte de politisation des chaînes d’approvisionnement en puces.
+Taïwan a signé l'Accord-cadre de coopération économique entre la Chine continentale et Taïwan (ECFA) en 2010, réduisant certains droits de douane sur des produits sélectionnés via une liste d'avantages initiale, et établissant un mécanisme de négociation ultérieure. Cet accord a stimulé le commerce bilatéral, facilité l'investissement des entreprises taïwanaises en Chine continentale, et élargi les activités financières transfrontalières. Les critiques soulignent cependant que l'accord a accru la dépendance économique, accéléré le déplacement des industries, aggravé les inégalités de revenu, et comporte des risques pour la sécurité nationale.
+
+**État actuel de l'ECFA (2023-2024)** : Le 21 décembre 2023, la Commission du tarif douanier du Conseil d'État chinois a annoncé qu'à compter du 1er janvier 2024, les réductions de droits de douane prévues par l'ECFA seraient suspendues pour 12 catégories de produits, notamment l'acrylonitrile et le xylène ortho-diméthylisocyanate[^10]。Le 31 mai 2024, une nouvelle annonce a suspendu, à compter du 15 juin, les tarifs conventionnels de l'ECFA pour 134 produits, notamment les huiles de lubrification de base, les bicyclettes de compétition et certains textiles[^5]。Les industries taïwanaises concernées par ces exportations font face à une pression accrue due à la remontée des droits de douane, et les bénéfices de la liste d'avantages initiale se réduisent continuellement.
+
+### Défis commerciaux transdéniens actuels
+
+Les problèmes structurels principaux sont les suivants : la forte dépendance de Taïwan aux échanges avec la Chine continentale, l'augmentation de la compétitivité industrielle qui se chevauche, la montée des risques de fuite technologique, et les considérations de sécurité des chaînes d'approvisionnement. Les ajustements de politique visent à renforcer le contrôle sur les technologies clés, à promouvoir la diversification des chaînes d'approvisionnement, à établir des mécanismes de sécurité économique, tout en maintenant les échanges commerciaux nécessaires — ce dernier aspect devenant de plus en plus délicat à gérer lorsque les tensions politiques transdéniennes s'intensifient.
+
+---
+
+## Politiques commerciales par secteur
+
+### Secteur des semi-conducteurs
+
+Les semi-conducteurs taïwanais occupent une position clé dans la chaîne d'approvisionnement mondiale, grâce à leur avance en technologie de processus avancée, leur écosystème industriel complet et leurs ressources humaines de qualité. La politique commerciale vise à participer à l'alliance américaine en matière de puces, à établir des chaînes d'approvisionnement fiables, et à renforcer les mécanismes de contrôle des exportations. Le projet d'installation de TSMC aux États-Unis et au Japon est un exemple typique de la gestion proactive des risques diplomatiques dans un contexte de marchandisation de la chaîne d'approvisionnement en puces.
 
 ### Secteur agricole
 
-L’agriculture joue un rôle sensible de monnaie d’échange dans les négociations commerciales. Des coûts de production relativement élevés, des économies d’échelle insuffisantes et une concurrence internationale intense constituent les trois principaux obstacles à l’ouverture commerciale du secteur agricole. La stratégie de réponse consiste à développer une agriculture de haute valeur, à renforcer la traçabilité des produits agricoles et à promouvoir la technologisation de l’agriculture, afin de substituer la différenciation à la concurrence par les bas prix.
+L'agriculture joue un rôle sensible dans les négociations commerciales. Les coûts de production relativement élevés, l'absence d'économies d'échelle, et la forte concurrence internationale constituent trois obstacles majeurs à l'ouverture commerciale agricole. La stratégie de réponse consiste à développer une agriculture hautement spécialisée, à renforcer la traçabilité des produits agricoles, et à promouvoir l'agriculture technologique, remplaçant la compétitivité basée sur les prix par la différenciation.
 
-### Services
+### Secteur des services
 
-Les services financiers, les services d’information et de communication, la santé médicale et les industries culturelles et créatives sont les domaines d’avantage de Taïwan pour l’internationalisation des services. L’orientation des politiques d’ouverture consiste à assouplir progressivement les restrictions imposées aux capitaux étrangers, à améliorer la qualité des services et à établir des marques internationales. La part des services dans les exportations reste faible, ce qui en fait, par comparaison avec l’industrie manufacturière, un espace de croissance encore nettement à développer pour Taïwan.
+Les services financiers, les télécommunications informatiques, la santé médicale et l'industrie culturelle sont les domaines où Taïwan possède un avantage dans la mondialisation des services. La stratégie d'ouverture consiste à relâcher progressivement les restrictions sur les investissements étrangers, à améliorer la qualité des services, et à construire une marque internationale. Le faible taux de pénétration des services dans les exportations montre que le secteur des services représente un espace de croissance nettement plus important que celui du secteur manufacturier.
 
 ---
 
 ## Commerce numérique et nouvelle économie
 
-Face au développement de l’économie numérique, Taïwan subit une pression institutionnelle pour construire des règles de commerce numérique relatives aux flux transfrontaliers de données, aux normes de protection des données personnelles, aux règles du commerce électronique et à la coordination de la fiscalité numérique. Les enjeux émergents couvrent la gouvernance de l’intelligence artificielle, la régulation des cryptomonnaies, les règles applicables à l’économie de plateforme et la protection de la propriété intellectuelle. Taïwan doit trouver un équilibre entre participation à l’élaboration des normes internationales et protection de sa propre souveraineté numérique.
+Face au développement de l'économie numérique, Taïwan est confrontée à des pressions pour établir des règles concernant le flux transfrontalier de données, les normes de protection des données personnelles, les réglementations du commerce électronique, et la coordination fiscale numérique. Les enjeux émergents comprennent la gouvernance de l'intelligence artificielle, la réglementation des crypto-monnaies, les normes de l'économie de plateforme, et la protection de la propriété intellectuelle, nécessitant à Taïwan de trouver un équilibre entre la participation aux normes internationales et la préservation de sa souveraineté numérique.
 
-En lien avec les objectifs mondiaux de neutralité carbone, l’évaluation de l’impact du mécanisme d’ajustement carbone aux frontières de l’Union européenne (CBAM) sur les exportateurs taïwanais est urgente. Les réponses envisagées par Taïwan incluent la certification de l’empreinte carbone industrielle et la mise en place de chaînes d’approvisionnement vertes, ainsi que le développement d’opportunités commerciales dans l’économie circulaire, notamment la valorisation des déchets, le commerce de matières premières recyclées et l’exportation de technologies environnementales.
-
----
-
-## Mécanismes d’élaboration de la politique commerciale
-
-La politique commerciale taïwanaise est mise en œuvre par plusieurs administrations selon une répartition des tâches. L’Administration du commerce international du ministère des Affaires économiques est chargée de la planification et de l’exécution de la politique commerciale, de la coordination des négociations bilatérales et multilatérales, ainsi que du traitement des obstacles au commerce. Le Bureau des négociations économiques et commerciales du Yuan exécutif coordonne les grandes négociations économiques et commerciales, les politiques interministérielles et la planification des politiques internationales en matière d’économie et de commerce. Le ministère des Affaires étrangères agit en appui de la politique diplomatique, le ministère de l’Agriculture est principalement responsable des négociations agricoles, et le ministère des Affaires numériques est chargé des règles relatives au commerce numérique, formant ainsi une structure d’élaboration des politiques fondée sur la coopération interministérielle.
-
-La participation de la société civile s’effectue par deux canaux. Les associations industrielles fournissent, par l’intermédiaire de comités consultatifs sur les politiques publiques, des recommandations sur les positions de négociation et une aide à l’évaluation des impacts. Le Yuan législatif procède à l’examen des accords importants, au contrôle par questions sur les politiques et à l’examen budgétaire. L’intensité du contrôle civil varie fortement selon la sensibilité des enjeux : les vastes controverses sociales suscitées par l’ECFA en 2010 restent aujourd’hui encore un point de référence pour les questions de transparence dans les négociations des grands accords commerciaux.
+En réponse aux objectifs mondiaux de réduction des émissions de carbone, l'évaluation de l'impact du mécanisme européen d'ajustement carbone (CBAM) sur les exportateurs taïwanais est urgente. Les orientations de Taïwan incluent la certification de l'empreinte carbone industrielle, la création de chaînes d'approvisionnement vertes, ainsi que le développement des opportunités commerciales liées à l'économie circulaire, telles que la valorisation des déchets, le commerce de matières premières renouvelables, et l'exportation de technologies environnementales.
 
 ---
 
-## Défis et opportunités à venir
+## Mécanismes de formulation de la politique commerciale
 
-La reconfiguration des chaînes d’approvisionnement apporte des opportunités concrètes : la tendance à l’externalisation vers des pays amis, la demande de chaînes d’approvisionnement résilientes et le statut de partenaire fiable offrent à Taïwan davantage de leviers de négociation dans de nouveaux mécanismes d’intégration régionale tels que le Cadre économique indo-pacifique (IPEF). La voie d’un approfondissement de la coopération bilatérale en devient également plus claire.
+La politique commerciale de Taïwan est pilotée par plusieurs ministères. Le Bureau du commerce international (MOEA) est chargé de la planification et de la mise en œuvre des politiques commerciales, de la coordination des négociations bilatérales et multilatérales, ainsi que du traitement des obstacles commerciaux. Le Bureau des négociations commerciales (OFCA) du Conseil des ministres supervise les négociations commerciales importantes, la coordination interministérielle des politiques, et la planification des politiques commerciales internationales. Le ministère des Affaires étrangères soutient la politique diplomatique, le ministère de l'Agriculture est chargé des négociations agricoles, et le ministère de l'Innovation numérique est responsable des normes commerciales numériques, formant une structure de formulation de politique basée sur la collaboration interministérielle.
 
-Les limites sont toutefois tout aussi nettes. La réalité politique restreint l’espace d’expansion des ALE formels ; le droit de parole dans les organisations internationales reste soumis à des contraintes structurelles ; la diversité des partenaires de négociation est inférieure à celle d’économies orientées vers le commerce et de taille comparable. Les ajustements internes incluent l’amélioration de la compétitivité industrielle, l’élargissement du marché intérieur, le renforcement de la capacité d’innovation, ainsi que le perfectionnement des réglementations commerciales et des capacités de négociation. La capacité de la stratégie de diversification de Taïwan à réaliser une percée dépendra en fin de compte de la vitesse d’évolution de l’environnement géopolitique et de l’aptitude de Taïwan à se positionner en avance lors de la prochaine fenêtre de négociation d’accords.
+La participation civile se fait à travers deux canaux : les chambres professionnelles fournissent des recommandations sur les positions de négociation et des évaluations d'impact via des comités consultatifs politiques ; le parlement examine les accords importants, supervise les politiques par des questions orales, et contrôle les budgets. Le niveau de surveillance civile varie considérablement selon la sensibilité des sujets — les controverses sociales massives suscitées par l'ECFA en 2010 restent un point de référence pour la transparence des négociations d'accords commerciaux majeurs.
 
 ---
 
-## Références
+## Défis et opportunités futurs
 
-[^1]: [Ministère des Finances, Département des Statistiques — Aperçu du commerce des importations et exportations de Taïwan en 2023](https://www.mof.gov.tw/htmlList/103) — Structure des exportations de Taïwan et part des principaux partenaires commerciaux en 2023
+La recomposition des chaînes d'approvisionnement offre des opportunités concrètes : la tendance à externaliser vers des pays amis, la nécessité de construire des chaînes d'approvisionnement résilientes, et le statut de partenaire fiable. Bien que Taïwan n'ait pas été invitée à rejoindre l'Initiative de l'Indo-Pacifique (IPEF) lancée en 2022, elle a obtenu davantage de marge de négociation dans la coopération bilatérale grâce à l'initiative commerciale sino-taïwanaise du XXIe siècle et à l'accord commercial équitable. La voie d'approfondissement de la coopération bilatérale est donc désormais plus claire.
 
-[^2]: [Portail principal ECA/FTA de Taïwan — Accords de coopération économique entre Taïwan et la Nouvelle-Zélande, et Taïwan et Singapour](https://fta.trade.gov.tw/) — Description du contenu des accords ECA entre Taïwan, la Nouvelle-Zélande et Singapour
+Cependant, les contraintes sont tout aussi évidentes. La réalité politique limite l'espace pour l'expansion des accords commerciaux formels, les droits de parole dans les organisations internationales restent structurellement limités, et la diversité des partenaires de négociation est inférieure à celle des économies de taille similaire orientées vers le commerce. Les ajustements internes comprennent l'amélioration de la compétitivité industrielle, l'expansion du marché intérieur, le renforcement des capacités d'innovation, et l'optimisation des lois et règlements commerciaux ainsi que des capacités de négociation. La réussite de la stratégie de diversification de Taïwan dépendra finalement de la vitesse d'évolution du paysage géopolitique, et de la capacité de Taïwan à occuper une position avant les fenêtres de négociation des prochains accords.
 
-[^3]: [Bureau des négociations économiques et commerciales de l'Exécutif — Initiative commerciale du XXIe siècle entre Taïwan et les États-Unis](https://www.ey.gov.tw/otn/) — Contexte de la signature et contenu du chapitre 1 (Facilitation des échanges) en 2023
+---
 
-[^4]: [Direction du commerce international du Ministère de l'Économie — État d'avancement de la candidature au CPTPP](https://www.trade.gov.tw/) — Explication de l'avancement de la candidature de Taïwan à l'adhésion au CPTPP en 2021
+**Lecture complémentaire :**
 
-[^5]: [CNA 31/05/2024 — La Chine annule les réductions tarifaires ECFA sur 134 produits pétrochimiques](https://www.cna.com.tw/) — En mai 2024, la Chine a supprimé les réductions tarifaires anticipées de l'ECFA pour 134 produits pétrochimiques
+- [Déclaration en douane et EZ WAY](/fr/lifestyle/ezway) — Ce à quoi ressemble la politique commerciale appliquée aux colis personnels : les seuils de détaxation de 2 000 NT$ et les systèmes de dédouanement
+- [Industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — D'où proviennent les composants électroniques qui représentent plus d'un tiers des exportations, et comment les puces sont devenues la plus grande carte commerciale de Taïwan
+- [Zone de exportation et de transformation de Kaohsiung](/fr/history/kaohsiung-export-processing-zone) — La zone franche de 1966 et le guichet unique, le point de départ de l'économie taïwanaise orientée vers l'exportation
 
-[^6]: [OMC — Rapport sur l'examen des politiques commerciales dans les domaines tarifaires spécifiques pour Taïwan, Penghu, Kinmen et Matsu](https://wto.trade.gov.tw/cwto/Pages/Detail.aspx?nodeID=4613&pid=743047) — Rapport de l'OMC sur l'examen des politiques commerciales de Taïwan
+## Sources
+
+[^1]: [Bureau de la statistique des finances — Aperçu du commerce extérieur de Taïwan en 2024](https://service.mof.gov.tw/public/Data/statistic/bulletin/114/113%E5%B9%B4%E6%88%91%E5%9C%8B%E5%87%BA%E9%80%B2%E5%8F%A3%E8%B2%BF%E6%98%93%E6%A6%82%E6%B3%81.pdf) — En 2024, les exportations vers la Chine continentale et Hong Kong représentent 31,7 % (le plus bas depuis 23 ans, le pic étant de 43,9 % en 2020), les États-Unis 23,4 %, l'ASEAN 18,5 %, l'Europe 8,1 %, le Japon 5,4 % ; les composants électroniques et les produits d'informatique et de télécommunication représentent ensemble 65 % des exportations
+
+[^2]: [Portail national des accords commerciaux et de coopération économique de Taïwan](https://fta.trade.gov.tw/) — Résultats des accords conclus à ce jour : 2 accords commerciaux avec les pays des Amériques centrales et méridionales (Panama, Guatemala), ECFA, Accord de coopération économique taïwanaise néo-zélandaise (ANZTEC), Accord de partenariat économique taïwanaise-singapourien (ASTEP), etc.
+
+[^3]: [Conseil des ministres — Le premier accord de l'initiative commerciale sino-taïwanaise du XXIe siècle a été signé aujourd'hui (2023-06-01)](https://www.ey.gov.tw/Page/9277F759E41CCD91/070b69ff-9f30-4076-b5c7-5af3a58e108d) — Cinq domaines couverts par le premier lot et sept domaines à négocier ultérieurement
+
+[^4]: [Ministère des Affaires étrangères — Profondément regretter que la candidature de Taïwan à l'adhésion au CPTPP n'ait pas abouti à la création d'un groupe de travail lors de la réunion de cette année (2025-11-21)](https://www.mofa.gov.tw/News_Content.aspx?n=95&s=121153) — Candidature déposée le 22 septembre 2021 ; lors de la 9e réunion ministérielle du comité exécutif, il a été décidé de lancer le processus d'adhésion de l'Uruguay
+
+[^5]: [Agence centrale de presse 2024/5/31 — La Chine continentale annule à nouveau certaines réductions de droits de douane de l'ECFA, affectant 134 produits](https://www.cna.com.tw/news/acn/202405310037.aspx) — À compter du 15 juin 2024, les tarifs conventionnels de l'ECFA sont suspendus pour 134 produits, notamment les huiles de lubrification de base, les bicyclettes de compétition et certains textiles
+
+[^6]: [OMC — Rapport d'examen des politiques commerciales de Taïwan, Pékin, Macao, Hong Kong](https://wto.trade.gov.tw/cwto/Pages/Detail.aspx?nodeID=4613&pid=743047) — Rapport d'examen des politiques commerciales de Taïwan par l'OMC
+
+[^7]: [Conseil des ministres — Signature de l'« accord commercial équitable » établissant un taux de droits de douane équivalent de 15 % sans cumul (2026-02-13)](https://www.ey.gov.tw/Page/9277F759E41CCD91/472c4eba-b7c3-4a7d-8b39-e482e5a1548d) — Le 12 février 2026 (heure de l'Est des États-Unis), l'accord commercial équitable (ART) a été signé, exemptant 2 072 produits taïwanais des droits de douane équivalents
+
+[^8]: [Conseil des ministres — Taïwan et le Royaume-Uni signent l'accord d'échange de partenaires commerciaux (2023-11-08)](https://www.ey.gov.tw/Page/9277F759E41CCD91/92b567c0-ea7e-4e84-a9ea-7d7a9001d041) — Signature officielle de l'accord d'échange de partenaires commerciaux (ETP)
+
+[^9]: [Ministère des Affaires étrangères — Signature de l'« accord d'investissement bilatéral » et de l'« accord de reconnaissance mutuelle des entreprises de qualité » entre Taïwan et l'Inde (2018-12-18)](https://www.mofa.gov.tw/News_Content.aspx?n=95&sms=73&s=68013) — Signature de l'accord d'investissement bilatéral entre Taïwan et l'Inde
+
+[^10]: [Journal du commerce 2023/12/21 — La Chine continentale annonce la suspension de certaines réductions de droits de douane de l'ECFA](https://www.ctee.com.tw/news/20231221700749-430802) — À compter du 1er janvier 2024, les tarifs conventionnels de l'ECFA sont suspendus pour 12 catégories de produits, notamment l'acrylonitrile et le xylène ortho-diméthylisocyanate
