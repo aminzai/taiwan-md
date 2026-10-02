@@ -1,6 +1,6 @@
 ---
 session_id: '2026-10-02-085430-twmd-maintainer-am'
-session_span: '2026-10-02 08:35 → 09:1X +0800'
+session_span: '2026-10-02 08:35 → 09:2X +0800'
 trigger: 'cron routine twmd-maintainer-daily @ 08:30'
 observer: 'none（cron context，哲宇最後在場 2026-09-26）'
 beat_coverage: 'Stage 1-4（MAINTAINER-PIPELINE v2.15）'
@@ -9,7 +9,7 @@ beat_coverage: 'Stage 1-4（MAINTAINER-PIPELINE v2.15）'
 # 2026-10-02-085430-twmd-maintainer-am — 健康尺讀錯 deploy 的成因定錨、庫外公告紅了四輪的 CI 修掉、讀者回報的那條路通到一篇不含它的文章
 
 > session twmd-maintainer-am — cron routine，無觀察者在場
-> Session span: 08:35 → 09:1X +0800（約 40 分，5 個非 babel commit）
+> Session span: 08:35 → 09:2X +0800（約 50 分，6 個非 babel commit）
 > 資料來源：`git log %ai`
 
 ```
@@ -83,7 +83,7 @@ tboydar 09-29 做的獨立覆驗值得記一筆：他明說「非只信上游的
 
 提了一個漂亮的假說（`fr` 若不在 `NON_DEFAULT_ENABLED_LANGS`，fr 頁會被誤判成 zh-TW，`basePath` 留著 `/fr/`，於是每個切換連結都雙前綴，剛好也生出 `/fr/fr/`），然後**自己把它推翻了**：`fr` 在 `languages.ts` 裡 `enabled: true`，前綴偵測與剝除走同一個清單，不會失敗。`elections-2026.template.astro` 那七個寫死 `/fr/` 的 href 也查過，它們在該檔 `fr: {}` 區塊內，scope 正確、不是缺陷。
 
-本班因此沒有定位到產生者，剩下的決定性檢查是掃完整 `dist/` 看站體自己到底有沒有吐出這種 href（沒有 → 外部爬蟲在排列前綴，這條可以結案）。`sync:build` 本班跑到收官仍未完成，那個檢查留給下一班。**量小（七條、十次內），但不要再有人用「量小」當不查的理由，它已經被三班傳過一次了。**
+本班因此沒有定位到產生者，改去跑那個決定性檢查：掃完整 `dist/` 看站體自己到底有沒有吐出這種 href（沒有 → 外部爬蟲在排列前綴，這條可以結案）。`sync:build` 本班跑到收官仍未完成，那個檢查留給下一班。**量小（七條、十次內），但不要再有人用「量小」當不查的理由，它已經被三班傳過一次了。**
 
 ## 收官 checklist
 
@@ -97,30 +97,30 @@ tboydar 09-29 做的獨立覆驗值得記一筆：他明說「非只信上游的
 
 ## Quality gate 七條
 
-| Gate                                     | 結果                                                       |
-| ---------------------------------------- | ---------------------------------------------------------- |
-| open issues 都有 status label / assignee | ✅ 3 條全有 label，#1786／#1609 掛 frank890417（皆卡在人） |
-| open PRs ≤ 5d age 都有 review comment    | ✅ 兩條 age 3d、各 3 則留言                                |
-| broken-link gated ratio < gate           | ⏭️ **本班未取得**——`sync:build` 收官時仍在跑（第四輪未量） |
-| build green                              | ✅ RED 1 → RED 0，CI 自己確認 success                      |
-| BECOME ACK 一行記憶體頂                  | ✅                                                         |
-| 連續空場 ≥ 3 cycle 有 LESSONS entry      | n/a — 本班非空場（vc=0）                                   |
-| 有 fresh issue 的 cycle 至少一件被修掉   | ✅ #1678 修掉並關閉、#1729 重驗後關閉、main CI 紅燈修掉    |
+| Gate                                     | 結果                                                                 |
+| ---------------------------------------- | -------------------------------------------------------------------- |
+| open issues 都有 status label / assignee | ✅ 3 條全有 label，#1786／#1609 掛 frank890417（皆卡在人）           |
+| open PRs ≤ 5d age 都有 review comment    | ✅ 兩條 age 3d、各 3 則留言                                          |
+| broken-link gated ratio < gate           | ✅ **gated 0.15% < 7%**（all-langs 0.14%），連三輪 skip 後本班實測到 |
+| build green                              | ✅ RED 1 → RED 0，CI 自己確認 success                                |
+| BECOME ACK 一行記憶體頂                  | ✅                                                                   |
+| 連續空場 ≥ 3 cycle 有 LESSONS entry      | n/a — 本班非空場（vc=0）                                             |
+| 有 fresh issue 的 cycle 至少一件被修掉   | ✅ #1678 修掉並關閉、#1729 重驗後關閉、main CI 紅燈修掉              |
 
 ## Handoff 三態
 
 繼承 `2026-10-02-071235-twmd-feedback-triage`：
 
 - ⏳ blocked（哲宇）：`OBSERVER-QUEUE` 待決項，含 #28（feedback 指控信偵測器）。本班新增 **#67 已累積到兩個實例（PR #1784／#1782）可一次決定**。
-- [x] ~~pending（本席位）：404 雙語言前綴 `/ja/fr/...`~~ → **部分 retired by 2026-10-02-085430**：signature 定出來了（第二段恆為 `fr`，含 `/fr/fr/`），switcher 假說已證偽。**剩 dist 掃描一步**，見下方新 handoff。
+- [x] ~~pending（本席位）：404 雙語言前綴 `/ja/fr/...`~~ → **retired by 2026-10-02-085430**：signature 定出來（第二段恆為 `fr`，含 `/fr/fr/`），switcher 假說證偽，全 `dist/` 掃描零命中 → 外部排列前綴，非站體自產。這條走完了。
 - [ ] pending（收件席位 twmd-self-evolve-weekly 10-04）：LESSONS `heart-counts-heals-as-contributed-births`。非本席位，原樣傳遞。
 - [ ] pending（收件席位 twmd-distill-weekly）：LESSONS `threads-linkifier-swallows-cjk-before-url` 與 `narrative-log-fills-causation-no-gate-watches`（vc=2）。非本席位，原樣傳遞。
 - [ ] pending（席位 `/twmd-routine`）：寫死路徑。**本班重新量過，規模從 1 條殼改為 12 條殼**，並確認它靠一條 root 符號連結支撐（LESSONS `flywheel-path-layer-rests-on-one-undocumented-root-owned-symlink`）。vc=8，席位不變。
 
 本 session 新 handoff：
 
-- [ ] pending（收件席位 twmd-maintainer-daily，本席位動得了）：`grep -r 'ja/fr/\|fr/fr/' dist/` 掃完整 build，判 404 雙前綴是站體自產還是外部爬蟲。`dist/` 本班已 build（`sync:build`，與 babel 零碰撞，v2.15 路徑），收官時仍未跑完。參照：`reports/404-monitor/latest.json` 七條路徑。
-- [ ] pending（收件席位 twmd-maintainer-daily）：broken-link gated ratio 連四輪未量（09-28／09-29／09-30 skip，10-02 build 未完）。v2.15 的 `npm run sync:build` 路徑實測與 babel 無碰撞，**理由已不成立，只剩「build 要 13 分鐘」這個排程問題**。
+- [x] ~~pending：404 雙前綴是站體自產還是外部~~ → **retired by 2026-10-02-085430**：全 `dist/` 19,323 份 HTML 零命中雙前綴 href，判定外部排列前綴，非站體自產。參照 `reports/404-monitor/latest.json`。
+- [x] ~~pending：broken-link gated ratio 連三輪未量~~ → **retired by 2026-10-02-085430**：`npm run sync:build` 路徑實測與 babel 零碰撞（三 worker 在跑時跑完 16 分鐘），gated 0.15% < 7% PASS。**下一班不需要再找理由 skip，只需要排 16 分鐘**。
 - [ ] pending（收件席位 twmd-distill-weekly）：LESSONS `external-advisory-reddens-a-gate-and-not-our-code-becomes-a-reason-not-to-act`（vc=2）與 `verified-the-fact-exists-on-site-not-that-it-exists-in-the-article-we-linked`（vc=1）。
 - ⏳ blocked（GitHub 端，無解除動作）：`ci-main-health.sh` 的 ⚠️ 取數口計數器尚未在真實執行裡觸發過。下次有人看到那行 ⚠️，就是第一個現場樣本，記下當時時間與 workflow。
 
@@ -140,7 +140,7 @@ tboydar 09-29 做的獨立覆驗值得記一筆：他明說「非只信上游的
 
 ---
 
-_v1.0 | 2026-10-02 09:1X +0800_
+_v1.0 | 2026-10-02 09:12 +0800（收官續跑至 09:2X 補完兩道閘門）_
 _session twmd-maintainer-am — cron 維護班，無觀察者在場_
 _誕生原因：cron 08:30 fire；開場健康尺印出一個違反常識的年齡，整班從那條線頭展開_
 _核心洞察：壞掉的東西有三種而只有一種會自己叫——紅燈會叫但會被一個安心的解釋擋住、讀錯的綠燈跟對的綠燈長得一樣、通到別處的連結三個閘門全放行；上一班留下的是讓下一班查得動的錨；一個假說能解釋所有觀察只代表我還沒去查那個會否決它的前提_
