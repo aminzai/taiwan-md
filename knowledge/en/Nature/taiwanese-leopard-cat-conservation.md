@@ -2,6 +2,7 @@
 title: 'Taiwanese Leopard Cat Conservation'
 description: "The phantom feline with fewer than 500 individuals left—when Taiwan's last native cat species walks to the edge of extinction"
 date: 2026-03-18
+category: 'Nature'
 tags:
   [
     'Leopard Cat',
@@ -12,17 +13,17 @@ tags:
     'Endangered Species',
     'Ecology',
   ]
+subcategory: '野生動物'
 author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: false
 lastVerified: 2026-03-30
 lastHumanReview: true
 translatedFrom: 'Nature/台灣石虎保育.md'
-sourceCommitSha: 'd6e87d07'
-sourceContentHash: 'sha256:bbca77501c197a81'
-sourceBodyHash: 'sha256:76487fd0d26564e6'
-translatedAt: '2026-05-17T05:51:00Z'
-category: Nature
+sourceCommitSha: '825528805'
+sourceContentHash: 'sha256:53a697c302d622a3'
+sourceBodyHash: 'sha256:7ed841e26f0abf1f'
+translatedAt: '2026-10-02T00:56:04.311377+00:00'
 ---
 
 # Taiwanese Leopard Cat Conservation
@@ -83,47 +84,45 @@ They're also where road development, agricultural expansion, and factory constru
 
 ## Four Ways to Die
 
-### 1. Roadkill: The Quietest Slaughter
+### I. Roadkill: The Quiet Slaughter
 
-In Taiwan's conservation circles, there's a word that sends chills down spines: **roadkill**.
+In Taiwan's conservation circles, there is a chilling term: **roadkill**. Leopard cats are nocturnal animals that cross roads at night to forage, find mates, or patrol their territory, and the rural roads in Miaoli and Nantou lack wildlife crossings, speed bumps, or any design intended for wild animals.
 
-Leopard cats are nocturnal. They cross roads at night to hunt, find mates, and patrol their territories. But the country roads of Miaoli and Nantou have no wildlife crossings, no speed reduction facilities, no design considerations for wildlife.
+When headlights shine, the leopard cat's eyes reflect, and then—
 
-Headlights shine, leopard cat eyes reflect, and then—
+Wuo Wuo's special report on roadkill used a heartbreaking title: "Splat! And Then I Became Jerky."
 
-WUO WUO's roadkill special report used a heartbreaking title: "Splat! And Then I Became Jerky."
+Between 2017 and 2023, over 130 leopard cats were recorded as victims of vehicular collisions.[^2] Those that went undiscovered remain unknown.
 
-From 2017 to 2023, recorded leopard cat roadkills exceeded 130 individuals.[^2] Nobody knows how many went undiscovered.
+Leopard cat researcher Lin Yi-hsu tracked a leopard named "Xiao Cao." She was hit by cars **twice**, but survived both times. Lin Yi-hsu said, "Xiao Cao managed to save herself from two car accidents; if we don't do something for the leopards, it is truly sacrificing her chances of self-rescue."
 
-Leopard cat researcher Lin Yu-hsiu tracked a cat named "Little Grass"—it was hit by cars **twice** and survived both times. Lin said: "Little Grass managed to save itself twice through car accidents. If we still don't do something for leopard cats, we're really wasting its self-rescue efforts."
+### II. Habitat Loss: Homes Demolished
 
-### 2. Habitat Loss: Home Demolished
+Miaoli is the county with the highest leopard cat density and best habitat connectivity. However, Miaoli is also one of the areas in Taiwan where development disputes are most frequent.
 
-Miaoli is the most important leopard cat habitat. But Miaoli is also one of Taiwan's counties with the most frequent development disputes.
+In 2019, the "Leopard Cat Conservation Autonomy Ordinance" proposed by the Miaoli County Government was **rejected twice** by the county council. The reason cited was "impact on local development." A county hailed as a "leopard cat capital" could not even pass a regulation to protect leopards.
 
-In 2019, Miaoli County Government's proposed "Leopard Cat Conservation Autonomy Ordinance" was **rejected twice** by the county council. The reason: "affecting local development." A county calling itself "Leopard Cat Capital" couldn't even pass legislation protecting leopard cats.
+This is the absurdity of conservation in Taiwan: you use the leopard's name for tourism marketing, print it on mascots, and draw it on buses—but when protecting leopards truly restricts development, the leopards cease to matter.
 
-This is Taiwan conservation's theater of the absurd: you use leopard cats in tourism marketing, print them on mascots, paint them on buses—but when protecting leopard cats actually requires limiting development, leopard cats don't matter anymore.
+### III. Dog Attacks: The Most Underestimated Threat
 
-### 3. Dog Attacks: The Most Underestimated Threat
+This is the awkward reality that the animal welfare community in Taiwan least wants to face: **stray dogs kill leopard cats**.
 
-This is the most awkward reality Taiwan's animal welfare community doesn't want to face: **stray dogs kill leopard cats**.
+More and more footage from trail cameras shows packs of stray dogs in leopard cat habitats, chasing, attacking, and killing them. Wuo Wuo conducted an entire special report on "Dog Attacks on Leopards," data from which indicates that dog attacks are the second major cause of death for leopards after roadkill.
 
-Camera trap footage increasingly shows this—packs of feral dogs appearing in leopard cat habitat, chasing, attacking, and killing them. WUO WUO produced an entire "Dogs Killing Leopard Cats" special report showing dog attacks are one of the most important causes of leopard cat death besides roadkill.
+Bites are only half of this threat. Stray dogs and cats also introduce animal diseases into the foothills, and leopard cats infected with these diseases have a lower chance of survival on roads, meaning the numbers for dog attacks and roadkill are not independent. The causal chain, viral screening data from Pingke University, and the controversy surrounding the culling policy it raises are fully discussed in [Taiwan Stray Animal Culture](/en/society/stray-animal-culture).
 
-This puts Taiwan's animal welfare groups and conservation scholars in extremely awkward positions. Those protecting stray dogs say "euthanasia isn't allowed"; those protecting leopard cats say "if we don't manage feral dogs, leopard cats will truly go extinct."
+This places Taiwanese animal welfare groups and ecological researchers in an extremely awkward position. Those who advocate for stray dogs say "no culling"; those who protect leopards say "if you don't deal with the strays, the leopards will truly go extinct."
 
-Both sides are protecting animals. But their animals are killing each other.
+Both sides are trying to protect animals, yet the animals on both sides are killing each other.
 
-This debate remains unresolved, but it forces Taiwanese society to face a fact: **"loving animals" isn't a simple stance—it's full of contradictions and trade-offs.**
+This debate has no answer yet, but it forces Taiwanese society to face a fact: **"loving animals" is not a simple stance; it is full of contradictions and compromises.**
 
-### 4. Poisoning and Snare Traps
+### IV. Poisoning and Live Traps
 
-Leopard cats eat chickens. For foothill farmers, leopard cat raids on chicken coops represent real economic losses. Some farmers' response is direct: poison.
+Leopard cats eat chickens. For farmers in the foothills, leopards breaking into chicken coops is a real economic loss. Some farmers respond directly: by poisoning them.
 
-Additionally, mountain snare traps—though completely banned in 2020—still secretly exist. After leopard cats accidentally trigger snares, they suffer torn digits at minimum or starvation at worst due to inability to hunt.
-
----
+Furthermore, live traps in mountainous areas, although officially banned in 2020, still exist secretly. Leopard cats that accidentally trigger these traps may suffer limb amputation or starve to death because they cannot forage.
 
 ## Rays of Conservation Hope: Someone's Standing Guard
 
@@ -204,14 +203,18 @@ Taiwanese people like to say "prayers bring protection." But leopard cats don't 
 
 ## References
 
-[^1]: [Miaoli Leopard Cat Conservation Autonomy Ordinance - Environmental Information Center](https://e-info.org.tw/node/221882) — Confirms Miaoli County's leopard cat conservation autonomy ordinance passed third reading on December 10, 2019.
-[^2]: [WUO WUO: Splat! And Then I Became Jerky—Roadkill Special Report](https://wuo-wuo.com/topics/widlife/94-road-killing-topic) — 2017–2023 leopard cat roadkill records and statistics.
-[^3]: [Ministry of Agriculture Leopard Cat Ecological Payment Program](https://www.moa.gov.tw/) — Description of the leopard-cat-friendly farming subsidy program.
-[^4]: [Ministry of Agriculture Taiwan Biodiversity Research Institute (TBRI)](https://www.tbri.gov.tw/) — Leopard cat artificial breeding program and conservation research.
-[^5]: [WUO WUO: Before Extinction—Taiwan Leopard Cat Special Report](https://wuo-wuo.com/topics/widlife/taiwan-leopard-cat) — Comprehensive report on the current state of leopard cat conservation in Taiwan.
+Further Reading:
 
-Further reading:
+- [Wuo Wuo: The Underrated Threat. Dog Killing Leopards](https://wuo-wuo.com/topics/widlife/dogkill) — Case records of dogs killing leopards.
+- [Forestry and Natural Conservation Agency, Ministry of Agriculture](https://www.forest.gov.tw/) — Leopard habitat conservation policies.
+- [Leopard Ambassador - Ah Hu Family](https://www.facebook.com/LeopardCatTaiwan/) — Updates on captive breeding of leopards by the Biodiversity Research Institute.
 
-- [WUO WUO: The Underestimated Threat—Dogs Killing Leopard Cats](https://wuo-wuo.com/topics/widlife/dogkill) — Record of dog attack cases on leopard cats.
-- [Ministry of Agriculture Forestry and Nature Conservation Agency](https://www.forest.gov.tw/) — Leopard cat habitat conservation policy.
-- [Leopard Cat Conservation Ambassador—Ahu Family](https://www.facebook.com/LeopardCatTaiwan/) — TBRI leopard cat artificial breeding updates.
+[^1]: [Miaoli Leopard Conservation Local Ordinance - Environmental Information Center](https://e-info.org.tw/node/221882) — Confirms that the Miaoli County Leopard Conservation Local Ordinance passed its third reading on December 10, 2019.
+
+[^2]: [Wuo Wuo: Snap! And Then I Became Dried Meat—Road Killing Special](https://wuo-wuo.com/topics/widlife/94-road-killing-topic) — Statistics of leopard roadkill from 2017 to 2023.
+
+[^3]: [Ministry of Agriculture Leopard Ecological Payment Program](https://www.moa.gov.tw/) — Explanation of the leopard-friendly farming subsidy plan.
+
+[^4]: [Biodiversity Research Institute, Ministry of Agriculture (BRI)](https://www.tbri.gov.tw/) — Leopard captive breeding programs and conservation research.
+
+[^5]: [Wuo Wuo: Before Extinction—Taiwan Leopard Special](https://wuo-wuo.com/topics/widlife/taiwan-leopard-cat) — A complete report on the current status of leopard conservation in Taiwan.

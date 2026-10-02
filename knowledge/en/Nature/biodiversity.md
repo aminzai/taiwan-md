@@ -20,10 +20,10 @@ difficulty: 'intermediate'
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'Nature/生態多樣性.md'
-sourceCommitSha: 'd8646a2a9'
-sourceContentHash: 'sha256:768855c64ea407af'
-sourceBodyHash: 'sha256:2f867df28cee4278'
-translatedAt: '2026-09-08T15:54:33+08:00'
+sourceCommitSha: '825528805'
+sourceContentHash: 'sha256:af5bd3cc5a11c549'
+sourceBodyHash: 'sha256:7b55c8bf8318f623'
+translatedAt: '2026-10-02T01:00:48.128984+00:00'
 ---
 
 # Biodiversity
@@ -70,21 +70,21 @@ There are significant differences in forest cover rates among counties:
 
 These forests are not just beautiful scenery; they are the core of Taiwan's biodiversity. Approximately 86% of the forests are legally protected, with 73% being natural forests and 27% being planted forests.
 
-## The Last Fortress for Endangered Species
+## The Last Bastions of Endangered Species
 
-### Formosan Black Bear (石虎): An Indicator Species of Lowland Ecosystems
+### Leopard Cat: An Indicator Species of Foothill Ecosystems
 
-The only native feline species remaining in Taiwan, the Formosan black bear, is estimated to number only about 500 individuals, primarily distributed in the low-mountain areas of Miaoli, Taichung, and Nantou.
+The leopard cat, the only native feline species remaining in Taiwan, is currently estimated to number around 500, primarily inhabiting the foothill areas of Miaoli, Taichung, and Nantou.
 
-**Roadkill is the most direct threat facing the formosan black bear**. According to data from the A-Hu team, 25 bears were killed by vehicles in 2021, with 15 incidents in Miaoli, 6 in Nantou, and 2 each in Taichung and Changhua. The locations of death are often along rivers such as Houtong Creek, Zhuoshui Creek, and Maoluo Creek, indicating the severity of habitat fragmentation. Besides roadkill, attacks by stray dogs and canine/feline diseases are other threats that have recently emerged; a complete discussion can be found in [Formosan Black Bear Conservation](/en/nature/taiwanese-leopard-cat-conservation).
+**Roadkill is the most direct threat facing the leopard cat.** According to statistics from the Leopard Cat Team, 25 leopards were killed by vehicles in 2021, with 15 incidents in Miaoli, 6 in Nantou, and 2 each in Taichung and Changhua. Many death sites are located along rivers such as the Houlong Creek, Zhuoshui Creek, and Maoluo Creek, indicating severe habitat fragmentation. Besides roadkill, attacks by stray dog packs and canine-feline diseases have emerged as another set of threats in recent years: see [Taiwan Leopard Cat Conservation](/en/nature/taiwanese-leopard-cat-conservation) for records of killings, and [Stray Animal Culture in Taiwan](/en/society/stray-animal-culture) regarding how strays introduce canine distemper into foothill areas, cause infections, and subsequently increase the risk of roadkill.
 
-### Taiwan Clouded Leopard: The Vanished King
+### Clouded Leopard of Taiwan: The Vanished King
 
-In 2014, scholars officially declared the extinction of the Taiwanese subspecies of clouded leopard, with the last confirmed sighting recorded in 1983. The disappearance of this endemic Taiwanese subspecies became a significant turning point in Taiwan's wildlife conservation awakening, prompting greater societal attention to the protection of endangered species.
+In 2014, scholars officially declared the clouded leopard of Taiwan extinct, with the last confirmed sighting occurring in 1983. The disappearance of this endemic subspecies became a significant turning point in Taiwan's ecological awareness, prompting society to place greater emphasis on conserving existing endangered species.
 
-### Formosan Black Bear (台灣黑熊): King of the Mountains
+### Asiatic Black Bear: King of the Mountains
 
-The largest terrestrial mammal in Taiwan, with an estimated population of 500–700 individuals. Although protected by law, it still faces threats such as habitat fragmentation and human-bear conflict. In recent years, the government and civil society have actively promoted conservation plans, including setting up electric fences and establishing monitoring systems.
+As the largest terrestrial mammal in Taiwan, there are currently an estimated 500 to 700 individuals. Although protected by law, it still faces threats such as habitat fragmentation and human-bear conflict. In recent years, both the government and civil society have actively promoted conservation plans, including setting up electric fences and establishing monitoring systems.
 
 ## The Rich Treasure of Marine Ecosystems
 
@@ -139,12 +139,13 @@ From the conservation of the formosan black bear to the rehabilitation of the Bl
 
 ## Further Reading
 
-This article provides a panoramic overview; each species and ecosystem has its own in-depth entry on the site:
+This article provides an overview; each species and ecosystem has its own in-depth entry on the site:
 
-- [Formosan Black Bear Conservation](/en/nature/taiwanese-leopard-cat-conservation) — The population of 500, how are roadkill, dog kills, and habitat fragmentation simultaneously pressing down?
-- [Formosan Black Bear (台灣黑熊)](/en/nature/taiwanese-black-bear) — The largest terrestrial mammal on the island and the reality of human-bear conflict.
-- [Black-faced Spoonbill](/en/nature/black-faced-spoonbill) — From 288 to over six thousand, how did international conservation save a species?
-- [Endemic Species](/en/nature/endemic-species) — How did such a high proportion of endemic species come to be on this island?
-- [Taiwan Forest Ecosystem](/en/nature/taiwan-forest-ecosystems) — The actual structure beneath the 60.71% forest cover rate.
-- [Taiwan Alpine Ecosystem and Ice Age Relicts](/en/nature/taiwan-alpine-ecosystems-glacial-relicts) — High-altitude species with nowhere to retreat and living evidence from the Ice Age.
-- [Taiwan Marine Ecology and Coral Reef Conservation](/en/nature/taiwan-marine-ecology-and-coral-conservation) — The current state of waters containing one-third of the world's coral species.
+- [Taiwan Leopard Conservation](/en/nature/taiwanese-leopard-cat-conservation) — A population of five hundred, facing pressure from roadkill, dog killings, and habitat fragmentation simultaneously.
+- [Taiwan Stray Animal Culture](/en/society/stray-animal-culture) — After zero-culling, the unresolved issue between roaming dogs/cats and mountain wildlife.
+- [Taiwan Black Bear](/en/nature/taiwanese-black-bear) — The largest terrestrial mammal on the island and the reality of human-bear conflict.
+- [Blackfaced Spoonbill](/en/nature/black-faced-spoonbill) — From 288 to over six thousand, how international conservation saved a species.
+- [Endemic Species](/en/nature/endemic-species) — How a high proportion of endemic species came to be on this island.
+- [Taiwan Forest Ecosystem](/en/nature/taiwan-forest-ecosystems) — The actual structure beneath the 60.71% forest cover.
+- [Taiwan Mountain Ecosystem and Ice Age Relicts](/en/nature/taiwan-alpine-ecosystems-glacial-relicts) — High-mountain species with no retreat and living evidence of the Ice Age.
+- [Taiwan Marine Ecosystem and Coral Reef Conservation](/en/nature/taiwan-marine-ecology-and-coral-conservation) — The current state of waters hosting one-third of the world's coral species.
