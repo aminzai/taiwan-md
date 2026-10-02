@@ -1,15 +1,15 @@
 ---
-title: 'Educação Artística e Desenvolvimento das Academias em Taiwan'
-description: 'Do sistema normalista às universidades profissionais de arte, a transformação institucional e a formação de talentos na educação artística de Taiwan'
+title: 'Educação Artística e Desenvolvimento Acadêmico em Taiwan'
+description: 'A história de três instituições de arte que foram elevadas ao status universitário — a Escola Nacional de Arte (1955), a Academia Nacional de Arte (1982) e a Universidade Nacional de Arte de Tainan (1996) —, juntamente com os professores de artes formados pela Faculdade Normal, compõem as duas trilhas da educação artística em Taiwan. Veja como o sistema evoluiu do ensino normal japonês para três universidades de arte.'
 date: 2026-03-19
 category: 'Art'
 tags:
   [
-    'Educação artística',
-    'Departamento de belas artes',
-    'Universidade de arte',
-    'Formação de professores',
-    'Desenvolvimento acadêmico',
+    'educação artística',
+    'faculdade de artes',
+    'universidade de arte',
+    'formação docente',
+    'desenvolvimento acadêmico',
   ]
 subcategory: '策展與教育'
 author: 'Taiwan.md'
@@ -19,483 +19,489 @@ lastHumanReview: false
 difficulty: 'intermediate'
 readingTime: 11
 translatedFrom: 'Art/台灣藝術教育與學院發展.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:352ce3febb583c17'
-sourceBodyHash: 'sha256:aaeb81e5f1416586'
-translatedAt: '2026-07-26T08:50:55+08:00'
+sourceCommitSha: '93810378e'
+sourceContentHash: 'sha256:16f5e80078ec8c03'
+sourceBodyHash: 'sha256:d51a922d651f3747'
+translatedAt: '2026-10-03T00:56:57+08:00'
 ---
 
-# Educação Artística e Desenvolvimento das Academias em Taiwan
+# Educação Artística e Desenvolvimento Acadêmico em Taiwan
 
-## Visão geral em 30 segundos
+## Visão Geral Rápida
 
-A educação artística em Taiwan brotou da educação normalista do período colonial japonês e, no pós-guerra, desenvolveu um sistema de dupla via que convive entre departamentos de belas artes em universidades normais e academias profissionais de arte. Desde a fundação da Escola Nacional de Artes em 1955 até o atual sistema de três grandes universidades de arte, Taiwan construiu uma escada educacional em níveis bem definidos, formando incontáveis talentos artísticos[^1].
+A educação artística em Taiwan desenvolveu um sistema duplo após o período colonial japonês, coexistindo entre os departamentos de arte das faculdades normais e as instituições artísticas profissionais. A Escola Nacional de Arte, fundada em 1955, é a precursora da Universidade Nacional de Arte de Taipé[^3]; a Academia Nacional de Arte, estabelecida separadamente em 1982, é a precursora da Universidade Nacional de Arte do Norte[^1]; e a Universidade Nacional de Arte de Tainan abriu suas portas no sul em 1996[^2]. Essas três histórias institucionais foram elevadas individualmente, resultando na coexistência das três universidades artísticas atuais.
 
-A característica deste sistema reside em conciliar duas rotas: a formação de docentes (sistema das universidades normais) e a formação de criadores profissionais (Universidade Nacional de Artes de Taipé, Universidade Nacional de Artes de Tainan, Universidade Nacional de Artes de Taiwan), ajustando as direções curriculares conforme as demandas da época.
+A característica deste sistema é conciliar duas vias: a formação de professores (o sistema da Faculdade Normal) e o desenvolvimento de talentos criativos profissionais (a Universidade Nacional de Arte do Norte, a Universidade Nacional de Arte do Sul e a Universidade Nacional de Arte de Taipé), ajustando os focos curriculares conforme as necessidades da época.
 
-Tempo estimado de leitura: 11 minutos.
+A leitura deste artigo leva cerca de 11 minutos.
 
-**Palavras-chave**: Educação artística, Universidade normal, Academia de arte, Universidade Nacional de Artes de Taipé, Universidade Nacional de Artes de Tainan, Universidade Nacional de Artes de Taiwan
+**Palavras-chave**: educação artística, faculdade normal, instituição artística, Universidade Nacional de Arte do Norte, Universidade Nacional de Arte do Sul, Universidade Nacional de Arte de Taipé
 
-## Por que é importante
+## Por Que É Importante
 
-O desenvolvimento do sistema de educação artística em Taiwan reflete as transformações da política cultural e a transição dos conceitos artísticos. Da educação normalista inicial, focada na formação de professores de arte, até a formação de talentos para a criação artística profissional, este processo evolutivo não apenas influenciou os estilos e direções da criação artística em Taiwan, como também determinou a competitividade internacional da arte contemporânea taiwanesa.
+O desenvolvimento do sistema educacional artístico em Taiwan reflete as mudanças na política cultural e a transformação da concepção artística em Taiwan. A evolução, passando do ensino normal focado na formação de professores para o cultivo de talentos criativos profissionais, não apenas influenciou o estilo e a direção da criação artística em Taiwan, mas também determinou a competitividade internacional da arte contemporânea taiwanesa.
 
-### Base de transmissão e inovação cultural
+### Base de Transmissão Cultural e Inovação
 
-As academias de arte são bases importantes para a transmissão e inovação da cultura artística em Taiwan, ligando técnicas tradicionais à criação contemporânea e formando talentos artísticos com visão internacional.
+As instituições artísticas são bases importantes para a transmissão cultural e inovação artística em Taiwan, conectando técnicas tradicionais com criações contemporâneas, e formando talentos artísticos com visão internacional.
 
-### Impulsionadoras da educação estética social
+### Promotor da Educação Estética Social
 
-Através da formação docente, o sistema de educação artística influencia a qualidade da educação estética em todo Taiwan, elevando a literacia artística da sociedade como um todo.
+Através da formação de professores, o sistema educacional artístico influencia a qualidade da educação estética em todo o país, elevando o nível cultural geral da sociedade.
 
-### Cadeia de fornecimento de talentos para a indústria cultural
+### Cadeia de Suprimentos de Talentos para a Indústria Cultural
 
-O sistema moderno de educação artística fornece à indústria cultural e criativa de Taiwan profissionais nas áreas de design, criação, curadoria e outros campos.
+O moderno sistema de educação artística fornece profissionais especializados em diversas áreas — design, criação e curadoria — para a indústria criativa cultural de Taiwan.
 
-## Cinco fases do desenvolvimento da educação artística em Taiwan
+## Cinco Fases do Desenvolvimento da Educação Artística em Taiwan
 
-### Primeira fase: Período fundamental colonial japonês (1895-1945)
+### Primeira Fase: Período Fundacional Japonês (1895-1945)
 
-**Contexto educacional**
-Durante o período colonial japonês, a educação artística em Taiwan dava-se principalmente através do sistema normalista. Em 1899, a Escola Nacional de Língua do Governo-Geral de Taiwan (antecessora da Universidade Normal de Taiwan) criou o "Departamento de Desenho e Trabalhos Manuais", formando professores de arte para a educação primária.
+**Contexto Educacional**
+Durante o período colonial japonês, a educação artística em Taiwan era conduzida principalmente através do sistema de ensino normal. A Escola Nacional de Língua Chinesa da Presidência Geral Japonesa de Taiwan, estabelecida em 1896 (precursora da Universidade Nacional de Educação de Taipé e da Universidade Municipal de Taipé), era responsável por formar professores primários, e o desenho fazia parte do currículo normal.
 
-**Características principais**
+**Características Importantes**
 
-- Liderada pela arte prática/utilitária
-- Ênfase no treino técnico e na capacidade realista
-- Introdução de conceitos japoneses de educação artística
-- Formação de professores de arte influentes como Ishikawa Kinichiro
+- Foco na arte prática
+- Ênfase no treinamento técnico e capacidade realista
+- Introdução das ideias educacionais artísticas japonesas
+- O pintor japonês Ishikawa Kinichiro veio a Taiwan em 1907, atuando como professor de desenho na Escola Nacional de Língua Chinesa. Seus alunos incluíam os importantes pintores Ni Jianghuai, Chen Chengbo e Li Zefan.
 
-**Fundação das bases**
-Este período estabeleceu o primeiro sistema de educação artística em Taiwan; embora enquadrado na educação colonial, lançou as bases da educação artística moderna taiwanesa.
+**Estabelecimento das Bases**
+Este período estabeleceu o primeiro sistema educacional artístico em Taiwan. Embora sob o pano de fundo da educação colonial, ele lançou as bases para a educação artística moderna taiwanesa.
 
-### Segunda fase: Período de reconstrução normalista (1945-1960)
+### Segunda Fase: Reconstrução Normal (1945-1960)
 
-**Reconstrução pós-guerra**
-Em 1946, a Faculdade Normal Provincial de Taiwan (antecessora da Universidade Normal de Taiwan) fundou o Departamento de Arte, tornando-se a primeira instituição formal de educação artística no Taiwan pós-guerra.
+**Reconstrução Pós-Guerra**
+A Faculdade Normal Provincial de Taiwan (precursora da faculdade normal) foi estabelecida em 1946, o Departamento de Especialização em Trabalho Gráfico em 1947 e o Departamento de Arte foi adicionado em 1948[^4], tornando-se a principal unidade na formação de professores artísticos após a guerra.
 
-**Diretrizes educacionais**
+**Diretrizes Educacionais**
 
-- Objetivo principal: formar professores de arte para o ensino médio
-- Herança dos conceitos chineses tradicionais de educação artística
-- Combinação com técnicas da arte moderna ocidental
-- Ênfase na paridade entre educação artística e formação de caráter moral
+- O objetivo principal era formar professores para escolas secundárias
+- Herdava as ideias da educação artística tradicional chinesa
+- Combinava técnicas modernas ocidentais
+- Enfatizava o equilíbrio entre educação artística e caráter moral
 
-**Figuras representativas**
+**Figuras Representativas**
 
-- **P'u Hsin-she (溥心畬)**: Mestre da pintura nacional (guohua), chefiou o Departamento de Arte
-- **Liao Chi-chun (廖繼春)**: Importante impulsionador da pintura moderna em Taiwan
-- **Li Tse-fan (李澤藩)**: Pintor em aquarela, influência profunda na educação artística pós-guerra
+- **Huang Junbi**: pintor de paisagem, diretor do Departamento de Arte a partir de 1949.
+- **Fu Xinyu**: mestre pintor de paisagem, lecionou no Departamento de Arte.
+- **Liao Jichun**: um importante impulsionador da pintura moderna taiwanesa, lecionou na Faculdade Normal a partir de 1947.
+- **Li Zefan**: pintor em aquarela, lecionava na Escola Normal de Hsinchu e também lecionava na faculdade normal e em outras escolas especializadas.
 
-### Terceira fase: Período de diferenciação profissional (1955-1980)
+### Terceira Fase: Diferenciação Profissional (1955-1980)
 
-**Fundação da Escola Nacional de Artes**
-Em 31 de outubro de 1955, no aniversário natalício do Presidente Chiang Kai-shek, a "Escola Nacional de Artes" foi fundada, inicialmente com três departamentos: Cinema e Teatro, Ópera Nacional, Belas Artes e Impressão, tornando-se a primeira escola profissional de arte de Taiwan.
+**Fundação da Escola Nacional de Arte**
+Em 31 de outubro de 1955, a "Escola Nacional de Arte" foi fundada, inicialmente com três departamentos: teatro de sombras, ópera nacional e impressão artística. Em 1960, ela foi reformulada como a Escola Normal Especializada de Taiwan, precursora da Universidade Nacional de Arte de Taipé[^3].
 
-**Início da divisão profissional**
+**Início da Divisão Profissional**
 
-- **Sistema normalista**: Focado na formação de professores de arte (Universidade Normal, várias faculdades normais)
-- **Sistema profissional de arte**: Focado na formação de talentos para criação artística profissional (Escola Nacional de Artes)
-- **Sistema técnico-vocacional**: Focado na formação de talentos em design de arte prática
+- **Sistema Normal**: Focado na formação de professores artísticos (Faculdade Normal, outras escolas especializadas).
+- **Sistema Artístico Profissional**: Focado no desenvolvimento de talentos criativos profissionais (Escola Nacional de Arte).
+- **Sistema Técnico/Profissional**: Focado na formação de talentos em design artístico prático.
 
-**Características curriculares**
-Os cursos iniciais da Escola Nacional de Artes incluíam:
+**Características Curriculares**
+Os cursos iniciais da Escola Nacional de Arte incluíam:
 
-- Departamento de Belas Artes e Impressão: Design publicitário, artes gráficas
-- Departamento de Cinema e Teatro: Cenografia, técnica teatral
-- Departamento de Ópera Nacional: Arte da ópera tradicional
+- Departamento de Impressão Artística: Design publicitário, técnicas de impressão.
+- Departamento de Teatro de Sombras: Artes cênicas, técnicas teatrais.
+- Departamento de Ópera Nacional: Artes do teatro tradicional.
 
-### Quarta fase: Período de expansão e elevação ao nível superior (1980-2000)
+### Quarta Fase: Expansão Superior (1980-2000)
 
-**Onda de elevação a universidade**
-Neste período, as instituições de educação artística de Taiwan foram sucessivamente elevadas à categoria universitária:
+**A Onda da Elevação para Nível Universitário**
+Neste período, as instituições educacionais artísticas em Taiwan foram gradualmente elevadas ao nível universitário:
 
-**1982 - Fundação da Academia Nacional de Artes**
+**Em 1982 — Fundação da Academia Nacional de Arte**
 
-- Elevada a partir da Escola Nacional de Artes
-- Primeira academia de arte de Taiwan
-- Criação de quatro departamentos: Música, Belas Artes, Teatro, Dança
+- O escritório de preparação foi estabelecido em 1980, e ela tinha uma história distinta da Escola Normal Especializada[^1].
+- Inicialmente oferecia três departamentos: música, arte e teatro. Em 1983, o departamento de dança foi adicionado.
 
-**1991 - Fundação da Academia Nacional de Artes de Tainan**
+**Em 1996 — Fundação da Universidade Nacional de Arte de Tainan**
 
-- Localizada no sul de Taiwan, equilibrando o desenvolvimento regional
-- Ênfase na combinação de artesanato tradicional com arte moderna
-- Pioneira na criação do "Instituto de Graduação em História da Arte e Crítica de Arte"
+- Foi aprovada em 1989 para equilibrar a educação artística norte-sul em Taiwan, com Han Baode como primeiro reitor[^2].
+- Focou principalmente na educação de pós-graduação, sendo pequena e refinada.
+- Fundou quatro programas de pós-graduação: gravação de áudio/vídeo, museologia, artes visuais, história da arte e crítica de arte.
 
-**Desenvolvimento dos departamentos de belas artes nas universidades normais**
+**Desenvolvimento do Departamento de Arte da Faculdade Normal**
 
-- Departamento de Belas Artes da Universidade Normal dividido em grupos: Pintura Nacional, Pintura Ocidental, Design
-- Faculdades normais regionais criaram sucessivamente departamentos relacionados a belas artes
-- Formação de grande quantidade de professores de arte para o ensino fundamental e médio
+- O departamento de arte da faculdade normal dividiu-se em grupos de pintura tradicional chinesa, pintura ocidental e design.
+- Várias escolas normais locais estabeleceram departamentos relacionados à arte.
+- Formou um grande número de professores artísticos para o ensino fundamental e secundário.
 
-### Quinta fase: Período de integração diversificada (2000-presente)
+### Quinta Fase: Integração Diversificada (2000 - Presente)
 
-**Conclusão da universitarização**
+**Conclusão da Universidade**
 
-- 2001: Academia Nacional de Artes elevada a "Universidade Nacional de Artes de Taipé"
-- 2004: Academia Nacional de Artes de Tainan elevada a "Universidade Nacional de Artes de Tainan"
-- Escola Profissional Nacional de Artes de Taiwan elevada a "Universidade Nacional de Artes de Taiwan"
+- Em 2001, a Academia Nacional de Arte foi elevada para "Universidade Nacional de Arte de Taipé".
+- Em 2004, a Universidade Nacional de Arte de Tainan foi elevada para "Universidade Nacional de Arte de Tainan".
+- Em 2001, a Escola Nacional de Arte de Taiwan (elevada em 1994) mudou o nome para "Universidade Nacional de Arte de Taiwan".
 
-**Transformação da filosofia educacional**
+**Transformação da Ideologia Educacional**
 
-- Do treino técnico para a criação conceitual
-- Ênfase na integração interdisciplinar
-- Valorização de intercâmbio e cooperação internacionais
-- Incorporação de correntes da arte contemporânea
+- Mudança do treinamento técnico para a criação conceitual.
+- Ênfase na integração interdisciplinar.
+- Valorização da troca e cooperação internacional.
+- Incorporação das correntes artísticas contemporâneas.
 
-## Características do sistema das três grandes universidades de arte
+## Características dos Três Sistemas Universitários de Arte
 
-A Universidade Nacional de Artes de Taipé, a Universidade Nacional de Artes de Tainan e a Universidade Nacional de Artes de Taiwan têm cada uma seu posicionamento: a Universidade de Taipé destaca-se pelo experimentalismo e vanguardismo; a de Tainan enfatiza a combinação de artesanato tradicional com criação contemporânea; a de Taiwan valoriza competências práticas e ligação com a indústria[^3].
+A Universidade Nacional de Arte de Taipé, a Universidade Nacional de Arte de Tainan e a Universidade Nacional de Arte de Taiwan cada uma têm sua posição: a Universidade Nacional de Arte de Taipé é conhecida pela experimentalidade e vanguarda; a Universidade Nacional de Arte de Tainan se destaca por pós-graduação e patrimônio cultural; e a Universidade Nacional de Arte de Taiwan valoriza habilidades práticas e conexão com a indústria.
 
-O desenho curricular das três reflete diferentes filosofias de educação artística, complementando-se mutuamente e constituindo conjuntamente o arcabouço principal da educação artística profissional em Taiwan.
+O design curricular das três universidades reflete diferentes filosofias educacionais, complementando-se para formar o quadro principal da educação artística profissional em Taiwan.
 
-### Universidade Nacional de Artes de Taipé (北藝大)
+### Universidade Nacional de Arte de Taipé (UNAT)
 
-**Posicionamento de desenvolvimento**
+**Posicionamento de Desenvolvimento**
 
-- Academia de arte mais experimental e vanguardista de Taiwan
-- Ênfase na criação artística contemporânea e cooperação interdisciplinar
-- Maior grau de internacionalização
+- A instituição artística mais experimental e vanguardista em Taiwan.
+- Enfatiza a criação artística contemporânea e a cooperação interdisciplinar.
+- O nível de internacionalização é o mais alto.
 
-**Estrutura acadêmica**
+**Estrutura da Faculdade**
 
 - Faculdade de Música
-- Faculdade de Belas Artes (Departamento de Belas Artes, Instituto de Pesquisa Interdisciplinar em Arte)
+- Faculdade de Artes Visuais (Departamento de Arte, Pós-graduação Interdisciplinar em Arte)
 - Faculdade de Teatro
 - Faculdade de Dança
-- Faculdade de Cinema e Novas Mídias
+- Faculdade de Cinema e Mídia Digital
 - Faculdade de Recursos Culturais
+- Faculdade de Humanidades (reestruturada pelo Comitê de Educação Geral em 2019).
 
-**Características educacionais**
+**Características Educacionais**
 
-- Educação de elite em turmas pequenas
-- Valorização do processo criativo e desenvolvimento conceitual
-- Ênfase na paridade entre teoria e prática
-- Ricos programas de intercâmbio internacional
+- Educação elitizada em turmas pequenas.
+- Valoriza o processo criativo e o desenvolvimento conceitual.
+- Enfatiza a teoria e a prática em equilíbrio.
+- Ricos programas de intercâmbio internacional.
 
-**Egressos notáveis**
+**Ex-alunos Representativos**
 
-- Diversos membros da equipe de produção de Ang Lee
-- Numerosos artistas contemporâneos como Wu Chi-ts'ung (吳季璁), Chen Chieh-jen (陳界仁)
-- Hou Hsiao-hsien (侯孝賢) já foi professor visitante convidado
+- Artistas contemporâneos como Wu Jicong (吳季璁).
 
-### Universidade Nacional de Artes de Tainan (南藝大)
+### Universidade Nacional de Arte de Tainan (UNATai)
 
-**Posicionamento de desenvolvimento**
+**Posicionamento de Desenvolvimento**
 
-- Ênfase na combinação de artesanato tradicional com criação contemporânea
-- Valorização da transmissão da cultura local taiwanesa
-- Ambiente de ensino pequeno e refinado
+- Começou com a educação de pós-graduação, focando em história da arte, museologia e preservação do patrimônio cultural.
+- Valoriza a transmissão da cultura local taiwanesa.
+- Ambiente de ensino pequeno e refinado.
 
-**Estrutura acadêmica**
+**Estrutura da Faculdade**
 
-- Faculdade de Arte (Artes Plásticas, Artes Aplicadas, Artes Arquitetônicas)
-- Faculdade de Humanidades (História da Arte, Museologia, Registo Audiovisual)
 - Faculdade de Música
+- Faculdade de Artes Visuais (Pós-graduação em artes visuais, artes aplicadas, arte arquitetônica, etc.)
+- Faculdade de Arte Audiovisual
+- Faculdade de Cultura e Museologia
+- Faculdade de Criação Interdisciplinar.
 
-**Características educacionais**
+**Características Educacionais**
 
-- Valorização da transmissão de técnicas de artesanato tradicional
-- Ensino refinado em pequena escala
-- Combinação de teoria e prática
-- Ênfase na preservação e inovação cultural
+- Valoriza a transmissão das técnicas artísticas tradicionais.
+- Ensino refinado em pequena escala.
+- Conecta teoria e prática.
+- Enfatiza a preservação e inovação cultural.
 
-**Cursos únicos**
+**Cursos Únicos**
 
-- Instituto de Graduação em Conservação de Antiguidades
-- Instituto de Graduação em Museologia e Conservação de Antiguidades
-- Instituto de Graduação em Etnomusicologia
+- Pós-graduação em Museologia e Conservação de Antiguidades (unificada dos programas de museologia e conservação).
+- Pós-graduação em Etnomusicologia.
 
-### Universidade Nacional de Artes de Taiwan (台藝大)
+### Universidade Nacional de Arte de Taiwan (UNATai)
 
-**Posicionamento de desenvolvimento**
+**Posicionamento de Desenvolvimento**
 
-- Uma das mais antigas academias profissionais de arte ainda existentes (antecessora Escola Nacional de Artes fundada em 1955)
-- Valorização de competências práticas e ligação com a indústria
-- Formação de talentos para a indústria cultural e criativa
+- Uma das instituições artísticas profissionais mais antigas existentes em Taiwan (a precursora foi fundada em 1955).
+- Valoriza habilidades práticas e conexão com a indústria.
+- Forma talentos para a indústria criativa cultural.
 
-**Estrutura acadêmica**
+**Estrutura da Faculdade**
 
-- Faculdade de Belas Artes
+- Faculdade de Artes Visuais
 - Faculdade de Design
 - Faculdade de Comunicação
 - Faculdade de Artes Cênicas
-- Faculdade de Humanidades
+- Faculdade de Humanidades.
 
-**Características educacionais**
+**Características Educacionais**
 
-- Profunda herança histórica
-- Valorização do treino técnico e prática industrial
-- Rede de egressos espalhada pelo meio artístico
-- Estreita ligação com a indústria cultural e criativa
+- Profunda herança histórica.
+- Valoriza o treinamento técnico e a prática industrial.
+- A rede de ex-alunos está disseminada na comunidade artística.
+- Conexão próxima com a indústria cultural criativa.
 
-**Impacto industrial**
-A Universidade de Taiwan é conhecida como o berço de talentos em design visual de Taiwan; numerosos designers renomados e criativos publicitários são egressos desta escola.
+**Impacto Industrial**
+Os departamentos de teatro, cinema e design da UNATai têm treinado talentos para as indústrias audiovisual e de design por muito tempo. O diretor Hou Hsiao-hsien (侯孝賢) é um graduado do Departamento de Cinema da Escola Normal Especializada Nacional (hoje o departamento de cinema da UNATai).
 
-## Sistema de educação em belas artes das universidades normais
+## Sistema Educacional Artístico da Faculdade Normal
 
-O sistema das universidades normais é a outra linha principal da educação em belas artes em Taiwan. O Departamento de Belas Artes da Universidade Normal de Taiwan, fundado em 1946, é a mais antiga instituição formal de educação em belas artes do Taiwan pós-guerra[^4]. Os professores por ele formados, disseminados pelo ensino médio em toda a ilha, exercem influência na educação estética social muito além do alcance das academias profissionais de arte.
+O sistema da faculdade normal representa outra linha principal na educação artística em Taiwan. A precursora do Departamento de Arte da Universidade Nacional de Taiwan foi o Departamento de Especialização em Trabalho Gráfico, estabelecido em 1947, e o Departamento de Arte foi adicionado em 1948[^4]. Os professores formados por este sistema são distribuídos pelo ensino secundário em todo o país, com um alcance muito maior na educação estética social do que as instituições artísticas profissionais.
 
-Os departamentos de belas artes das universidades normais regionais (Universidade Normal de Kaohsiung, Universidade Normal de Changhua, etc.) encarregam-se do fornecimento docente regional, formando uma rede de formação de professores de arte que cobre todo Taiwan.
+Os departamentos de arte das faculdades normais regionais (como Kaohsiung Normal University e Changhua Normal University) são responsáveis pelo fornecimento de professores para a região, formando uma rede de professores artísticos que cobre todo o país.
 
-### Departamento de Belas Artes da Universidade Normal Nacional de Taiwan
+### Departamento de Arte da Universidade Nacional de Taiwan
 
-**Posição histórica**
+**Status Histórico**
 
-- Mais antiga instituição de educação em belas artes moderna de Taiwan
-- Bastião na formação de professores de arte em Taiwan
-- Departamento de maior influência no desenvolvimento das belas artes em Taiwan
+- Uma unidade importante na formação de professores artísticos pós-guerra.
+- Um centro fundamental na formação de professores artísticos taiwaneses.
+- Um departamento com a influência mais profunda no desenvolvimento artístico taiwanês.
 
-**Filosofia educacional**
+**Ideologia Educacional**
 
-- Paridade entre formação docente e criação profissional
-- Fusão de teorias artísticas orientais e ocidentais
-- Valorização da teoria estética e prática criativa
+- Equilíbrio entre formação docente e criação profissional.
+- Fusão da teoria artística oriental e ocidental.
+- Valoriza a teoria estética e a prática criativa.
 
-**Características dos grupos**
+**Áreas Curriculares**
 
-- **Grupo de Criação**: Pintura nacional, pintura a óleo, tinta, gravura, escultura
-- **Grupo de Teoria**: História da arte, teoria da arte, crítica de arte
-- **Grupo de Design**: Design de comunicação visual, design de mídia digital
+- **Criação**: Pintura tradicional chinesa, pintura a óleo, tinta, gravura, escultura.
+- **Teoria**: História da arte, teoria da arte, crítica de arte.
+- A educação em design é hoje assumida pelo departamento de design independente da faculdade normal.
 
-**Transmissão docente**
-De mestres da geração anterior como P'u Hsin-she, Huang Chun-pi (黃君璧), Liao Chi-chun, até contemporâneos como Yuan Chin-ta (袁金塔), Li Chun-yi (李君毅), formou-se uma profunda linhagem de transmissão mestre-discípulo.
+**Transmissão de Professores**
+A formação estabeleceu uma profunda cadeia de mestres, desde os antecessores como Fu Xinyu, Huang Junbi e Liao Jichun até contemporâneos como Yuan Jinta e Li Junyi.
 
-### Departamentos de belas artes das universidades normais regionais
+### Departamentos de Arte das Faculdades Normais Regionais
 
-**Departamento de Belas Artes da Universidade Normal de Kaohsiung**
+**Departamento de Arte da Faculdade Normal de Kaohsiung**
 
-- Atende à demanda por professores de arte no sul de Taiwan
-- Valorização de características culturais locais
-- Estreita colaboração com instituições como o Museu de Belas Artes de Kaohsiung
+- Atende às necessidades dos professores artísticos do sul de Taiwan.
+- Valoriza as características culturais locais.
+- Colabora intimamente com instituições como o Museu Municipal de Kaohsiung (Kaomei Museum).
 
-**Departamento de Belas Artes da Universidade Normal de Changhua**
+**Departamento de Arte da Faculdade Normal de Changhua**
 
-- Bastião da educação artística no centro de Taiwan
-- Ênfase na paridade entre prática e teoria
+- Um centro importante para a educação artística no centro de Taiwan.
+- Enfatiza o equilíbrio entre prática e teoria.
 
-**Outras faculdades normais**
-Faculdades normais de condados e cidades criaram sucessivamente departamentos de educação artística, formando uma rede de formação docente que cobre toda a ilha.
+**Outras Escolas Normais**
+As faculdades normais de cada município estabeleceram departamentos educacionais artísticos, formando uma rede de formação de professores que cobre todo o país.
 
-## Evolução curricular da educação artística
+## Evolução Curricular da Educação Artística
 
-Os currículos das academias de arte de Taiwan evoluíram desde a orientação para treino técnico dos anos 1950, passando por três nós de transformação evidentes: a introdução de conceitos de arte moderna nos anos 1980, a transformação interdisciplinar e digital pós-2000, e a orientação contemporânea recente que enfatiza participação social e integração interdisciplinar.
+Os currículos das instituições artísticas em Taiwan passaram de um foco no treinamento técnico na década de 1950 para três pontos de transformação distintos: a introdução das ideias artísticas modernas na década de 1980, a transição multimeios e digital após os anos 2000, e a orientação contemporânea que enfatiza o engajamento social e a integração interdisciplinar nos últimos anos.
 
-Estas três transformações não são substituições lineares, mas coexistência em camadas — o treino técnico tradicional ainda ocupa peso considerável em certas academias, enquanto novas direções curriculares também se expandem.
+Essas três transformações não foram substituições lineares, mas sim coexistências em camadas — o treinamento técnico tradicional ainda ocupa uma proporção significativa em algumas instituições, ao mesmo tempo em que novas direções curriculares estão se expandindo.
 
-Vale notar que a velocidade e direção da evolução curricular variam significativamente entre as academias: a Universidade de Taipé avançou mais rápido na criação conceitual, enquanto a Universidade de Taiwan introduziu conceitos de arte contemporânea mais tardiamente; essa diferença ainda hoje influencia a cultura de ensino de cada escola.
+É notável que a velocidade e a direção da evolução curricular das várias instituições em Taiwan são significativamente diferentes: a UNAT avançou mais rapidamente na criação conceitual, enquanto a UNATai introduziu as ideias artísticas contemporâneas mais tarde; essa diferença ainda influencia a cultura de ensino de cada escola.
 
-### Do treino técnico à criação contemporânea
+### Da Técnica Tradicional à Criação Contemporânea
 
-**Currículos iniciais (1950-1980)**
+**Cursos Iniciais (1950-1980)**
 
-- Foco no treino técnico: desenho, aquarela, pintura a óleo, pintura nacional
-- Ênfase na capacidade realista e fundamentos básicos
-- Currículos relativamente conservadores e tradicionais
+- Foco no treinamento técnico: desenho, aquarela, pintura a óleo, pintura tradicional chinesa.
+- Ênfase na capacidade realista e nas habilidades básicas.
+- Currículo relativamente conservador e tradicional.
 
-**Currículos de transição (1980-2000)**
+**Cursos de Transição (1980-2000)**
 
-- Introdução de conceitos de arte moderna
-- Aumento de cursos de história da arte, teoria estética
-- Início da valorização do estilo criativo pessoal
+- Introdução das ideias artísticas modernas.
+- Aumento dos cursos de história da arte e teoria estética.
+- Início da valorização do estilo criativo individual.
 
-**Currículos contemporâneos (2000-presente)**
+**Cursos Contemporâneos (2000 - Presente)**
 
-- Criação interdisciplinar de mídias
-- Arte de instalação, videoarte, arte digital
-- Prática curatorial, administração artística
-- Arte de participação social
-- Intercâmbio internacional e programas de residência
+- Criação multimeios.
+- Arte instalativa, arte de vídeo, arte digital.
+- Prática curatorial, administração artística.
+- Arte participativa social.
+- Intercâmbio internacional e programas de residência.
 
-### Paridade entre teoria e prática
+### Equilíbrio entre Teoria e Prática
 
-**Educação em história da arte**
+**Educação em História da Arte**
 
-- História da arte ocidental
-- História da arte chinesa
-- História da arte de Taiwan
-- Teoria da arte contemporânea
+- História da arte ocidental.
+- História da arte chinesa.
+- História da arte taiwanesa.
+- Teoria da arte contemporânea.
 
-**Metodologia da criação**
+**Metodologia Criativa**
 
-- Experimentação de materiais e inovação técnica
-- Desenvolvimento conceitual e formas de expressão
-- Construção de estilo pessoal
-- Capacidade de interpretação e argumentação sobre a obra
+- Experimentação de meios e inovação técnica.
+- Desenvolvimento conceitual e formas de expressão.
+- Estabelecimento do estilo pessoal.
+- Capacidade de interpretação e argumentação das obras.
 
-## Interação entre educação artística e sociedade
+## Interação entre Educação Artística e Sociedade
 
-### Promoção da educação estética
+### Promoção da Educação Estética
 
-**Educação artística no ensino fundamental e médio**
-Através da formação docente, as academias de arte influenciam a educação estética em todo Taiwan:
+**Educação Artística Escolar (Fundamental/Secundário)**
+Através da formação de professores, as instituições artísticas influenciam a educação estética em todo o país:
 
-- Inovação no desenho curricular e métodos de ensino
-- Formação continuada de professores de arte
-- Promoção de conceitos de educação artística
+- Inovação no design curricular e métodos de ensino.
+- Formação continuada dos professores de arte.
+- Promoção das ideias educacionais artísticas.
 
-**Educação artística social**
+**Educação Artística Social**
 
-- Promoção educativa em museus de arte
-- Cursos de arte comunitários
-- Educação artística para aprendizagem ao longo da vida
+- Divulgação da educação museológica.
+- Cursos de arte comunitária.
+- Educação artística para o aprendizado ao longo da vida.
 
-### Articulação com políticas culturais
+### Alinhamento com a Política Cultural
 
-**Política nacional de literatura e artes**
+**Política Nacional de Artes**
 A educação artística acompanha o desenvolvimento da política cultural nacional:
 
-- Promoção da educação localizada/nativista
-- Incorporação de valores multiculturais
-- Equilíbrio entre internacionalização e localização
+- Promoção da educação localizada (local).
+- Manifestação do valor cultural diversificado.
+- Equilíbrio entre internacionalização e localização.
 
-**Demanda por talentos da indústria**
-Resposta às necessidades de desenvolvimento da indústria cultural e criativa:
+**Demanda de Talentos Industriais**
+Resposta às necessidades da indústria criativa cultural:
 
-- Formação de talentos em design
-- Cursos para indústria cultural e criativa
-- Planos de cooperação indústria-academia
+- Formação de talentos em design.
+- Cursos para a indústria criativa cultural.
+- Projetos de cooperação academia-indústria.
 
-## Equilíbrio entre internacionalização e localização
+## Equilíbrio entre Internacionalização e Localização
 
-A internacionalização das academias de arte de Taiwan, por um lado, introduz visões externas através de redes de escolas-irmã e programas de intercâmbio; por outro, devido à posição geopolítica de Taiwan, desenvolveu um modelo híbrido distinto da educação artística euro-americana ou japonesa.
+A internacionalização das instituições artísticas em Taiwan, por um lado, introduz perspectivas externas através de redes de parcerias e programas de intercâmbio; por outro, desenvolveu um modelo misto diferente da educação artística na Europa ou nos EUA devido à localização geográfica de Taiwan.
 
-Como preservar o conteúdo pedagógico local de Taiwan (incluindo arte indígena, tradições minnan/hakka, história da arte pós-guerra, etc.) ao introduzir quadros internacionais de educação artística, é um desafio que as academias enfrentam repetidamente (o Ministério da Educação já sistematizou materiais históricos relevantes; o planejamento curricular de cada academia também pode ser consultado nos sites oficiais).
+O desafio constante enfrentado pelas universidades é como reter o conteúdo local (incluindo arte indígena, tradições Min e Hakka, história da arte pós-guerra) ao mesmo tempo em que introduzem estruturas educacionais internacionais (o Ministério da Educação compilou sistematicamente materiais históricos relacionados; os planejamentos curriculares de cada universidade também podem ser vistos nos sites oficiais).
 
-### Intercâmbio e cooperação internacionais
+### Intercâmbio e Cooperação Internacional
 
-**Rede de escolas-irmã**
-As academias de arte de Taiwan estabeleceram relações de cooperação com escolas de arte internacionais renomadas:
+**Rede de Parcerias**
+As várias instituições artísticas em Taiwan estabelecem relações cooperativas com escolas artísticas internacionais renomadas:
 
-- Programas de intercâmbio estudantil
-- Intercâmbio docente
-- Planos de exposição e criação cooperativos
+- Programas de intercâmbio estudantil.
+- Visitas mútuas de professores.
+- Projetos colaborativos de exposições e criação.
 
-**Introdução de currículos internacionais**
+**Introdução de Cursos Internacionais**
 
-- Convite a artistas internacionais para residência
-- Introdução de conceitos internacionais de educação artística
-- Promoção do ensino bilíngue
+- Convite a artistas internacionais para residência na escola.
+- Introdução de ideias educacionais artísticas internacionais.
+- Promoção do ensino bilíngue.
 
-### Preservação das características culturais de Taiwan
+### Manutenção das Características Culturais Taiwanesas
 
-**Transmissão da arte local**
+**Transmissão da Arte Local**
 
-- Preservação de técnicas de artesanato tradicional
-- Pesquisa em história da arte de Taiwan
-- Temas de criação cultural local
+- Preservação das técnicas artesanais tradicionais.
+- Pesquisa sobre a história da arte taiwanesa.
+- Temas de criação cultural local.
 
-**Fusão multicultural**
+**Fusão Cultural Diversificada**
 
-- Educação em arte indígena
-- Arte cultural de novos imigrantes
-- Transmissão de arte cultural hakka
+- Educação artística indígena.
+- Artes culturais de novos imigrantes.
+- Transmissão da cultura Hakka.
 
-## Novos desafios da era digital
+## Novos Desafios na Era Digital
 
-A difusão de ferramentas gerativas de IA causou duplo impacto na educação artística: por um lado, oferece novas ferramentas criativas e materiais didáticos; por outro, desafia a lógica educacional do treino técnico tradicional — quando a IA pode produzir rapidamente obras visuais, como reposicionar o sentido educacional da técnica artesanal?
+A popularização das ferramentas geradas por IA impôs um duplo impacto à educação artística: por um lado, forneceu novas ferramentas criativas e materiais curriculares; por outro, desafiou a lógica educacional do treinamento técnico tradicional — quando a IA pode gerar rapidamente obras visuais, como o significado da arte manual deve ser reposicionado?
 
-Esta questão ainda está sendo explorada nas academias de arte de Taiwan, sem conclusão definida, mas já começa a influenciar direções de planejamento curricular.
+Esta questão ainda está sendo investigada pelas instituições artísticas em Taiwan, sem uma conclusão definitiva, mas já começou a influenciar as direções curriculares.
 
-A difusão de ferramentas digitais trouxe outra face: o ensino remoto e recursos online baixaram a barreira geográfica da educação artística, desempenhando certo papel complementar na acessibilidade à educação artística em áreas remotas.
+A disseminação de ferramentas digitais também trouxe outra dimensão: o ensino remoto e os recursos online diminuíram a barreira geográfica da educação artística, fornecendo um complemento à acessibilidade da educação artística em áreas rurais.
 
-### Integração de tecnologia e arte
+### Integração de Tecnologia e Arte
 
-**Educação em arte de novas mídias**
+**Educação em Artes de Mídia Digital**
 
-- Criação de imagem digital
-- Arte de instalação interativa
-- Arte em realidade virtual e realidade aumentada
-- IA e criação artística
+- Criação de imagens digitais.
+- Arte instalativa interativa.
+- Arte de realidade virtual e aumentada.
+- IA e criação artística.
 
-**Educação interdisciplinar**
+**Educação Interdisciplinar**
 
-- Integração arte-tecnologia
-- Combinação arte-design comercial
-- Ligação arte-questões sociais
+- Integração entre arte e tecnologia.
+- Combinação de arte e design comercial.
+- Conexão da arte com questões sociais.
 
-### Inovação nos métodos de ensino
+### Inovação em Métodos de Ensino
 
-**Plataformas de educação online**
+**Plataformas de Educação Online**
 
-- Tecnologia de ensino remoto
-- Recursos de aprendizagem digital
-- Exposições virtuais e apresentação de obras
+- Técnicas de ensino remoto.
+- Recursos de aprendizado digital.
+- Exposições virtuais e apresentação de obras.
 
-**Articulação com a indústria**
+**Conexão com a Indústria**
 
-- Fortalecimento do sistema de estágios
-- Ensino colaborativo com profissionais da indústria
-- Mecanismos de assessoria ao empreendedorismo
+- Fortalecimento do sistema de estágio.
+- Ensino colaborativo entre profissionais e mestres.
+- Mecanismos de orientação para empreendedorismo.
 
-## Desafios contemporâneos e perspectivas futuras
+## Desafios Contemporâneos e Perspectivas Futuras
 
-Os desafios estruturais enfrentados pela educação artística em Taiwan incluem: pressão de matrículas causada pela baixa natalidade, redução de vagas docentes, mercado de trabalho limitado para arte pura, e distribuição desigual de recursos de educação artística entre cidade e campo.
+Os desafios estruturais enfrentados pela educação artística em Taiwan incluem: a pressão do recrutamento devido à baixa taxa de natalidade, a redução de vagas docentes, o mercado limitado para artes puras e a distribuição desigual dos recursos educacionais entre áreas urbanas e rurais.
 
-Esses desafios forçam as academias a repensar seu posicionamento — fortalecer ligações industriais, expandir currículos interdisciplinares, promover matrículas internacionais, são as principais direções de resposta observadas atualmente[^7].
+Esses desafios forçaram as instituições a repensar seu posicionamento — fortalecer a conexão com a indústria, expandir os cursos interdisciplinares e promover o recrutamento internacional são as principais abordagens observadas[^7].
 
-O impacto da baixa natalidade pressiona especialmente academias de menor escala; como manter a qualidade educacional enquanto se enfrenta a pressão de matrículas, é um problema real comum a todas as universidades de arte.
+O impacto da baixa taxa de natalidade é particularmente grande para as instituições menores; como lidar com a pressão do recrutamento enquanto se mantém a qualidade educacional é um problema real enfrentado por todas as universidades artísticas.
 
-### Distribuição de recursos educacionais
+### Distribuição de Recursos Educacionais
 
-**Diferença urbano-rural**
+**Disparidade Urbano-Rural**
 
-- Distribuição desigual de recursos de educação artística
-- Elevação da qualidade da educação artística em áreas remotas
-- Plataformas digitais encurtam a lacuna educacional
+- Distribuição desigual dos recursos educacionais em arte.
+- Melhoria da qualidade da educação artística em áreas rurais.
+- Plataformas digitais encurtam a lacuna educacional.
 
-**Competição internacional**
+**Competição Internacional**
 
-- Enfrentamento da competição da educação artística de países asiáticos
-- Elevação da reputação internacional da educação artística de Taiwan
-- Atração de estudantes internacionais para estudar em Taiwan
+- Competição com a educação artística de vários países asiáticos.
+- Elevar a reputação internacional da educação artística taiwanesa.
+- Atrair estudantes internacionais para estudar em Taiwan.
 
-### Mercado de trabalho e demanda industrial
+### Mercado de Trabalho e Demanda Industrial
 
-**Saídas profissionais tradicionais**
+**Caminhos Tradicionais de Emprego**
 
-- Redução de vagas docentes
-- Mercado limitado para criação em arte pura
-- Necessidade de abrir canais de emprego diversificados
+- Redução de vagas docentes.
+- Mercado limitado para criação de artes puras.
+- Necessidade de desenvolver múltiplos caminhos de emprego.
 
-**Oportunidades profissionais emergentes**
+**Oportunidades Profissionais Emergentes**
 
-- Designers para indústria cultural e criativa
-- Criadores de conteúdo digital
-- Curadores e administradores artísticos
-- Terapeutas pela arte
+- Designers da indústria criativa cultural.
+- Criadores de conteúdo digital.
+- Curadores e administradores artísticos.
+- Terapeutas de arte.
 
-### Atualização contínua da filosofia educacional
+### Atualização Contínua da Ideologia Educacional
 
-**Métodos pedagógicos inovadores**
+**Métodos de Ensino Inovadores**
 
-- Aprendizagem baseada em projetos
-- Educação orientada para resolução de problemas
-- Aprendizagem cooperativa interdisciplinar
+- Aprendizagem orientada por projetos.
+- Educação orientada à resolução de problemas.
+- Aprendizagem colaborativa interdisciplinar.
 
-**Educação para responsabilidade social**
+**Educação com Responsabilidade Social**
 
-- Intervenção artística em questões sociais
-- Arte pública e construção comunitária
-- Impacto social da arte
+- Intervenção artística em questões sociais.
+- Arte pública e construção comunitária.
+- Influência social da arte.
 
 ## Conclusão
 
-Da germinação no período colonial japonês ao desenvolvimento diversificado de hoje, a educação artística em Taiwan reflete as transformações e o progresso da sociedade e cultura taiwanesas. Da formação de professores de arte pela educação normalista à formação de talentos criativos pelas academias profissionais, Taiwan construiu um sistema de educação artística completo e diversificado.
+A educação artística em Taiwan, desde os seus primórdios no período colonial japonês até o seu desenvolvimento diversificado atual, reflete a mudança e o progresso da cultura social taiwanesa. A construção de um sistema educacional artístico completo e diversificado se deu através da formação de professores do ensino normal e do cultivo de talentos criativos das instituições artísticas profissionais.
 
-Face aos desafios da era digital, a educação artística em Taiwan está em transformação, enfatizando integração interdisciplinar, visão internacional e combinação com características locais. A futura educação artística valorizará mais o pensamento inovador, a participação social e a transmissão cultural, formando talentos artísticos com competitividade global.
+Diante dos desafios da era digital, a educação artística em Taiwan está em transformação, enfatizando a integração interdisciplinar, a visão internacional e as características locais. A educação artística futura dará maior atenção ao pensamento inovador, ao engajamento social e à transmissão cultural, formando talentos com competitividade global.
 
-Os frutos da educação artística em Taiwan incluem a formação de numerosos artistas e designers excelentes, bem como a influência na qualidade da educação estética social através do sistema de formação docente; estas duas rotas sustentam conjuntamente o desenvolvimento do soft power cultural de Taiwan (ver introduções aos currículos e resultados escolares nos sites oficiais de cada academia).
+Os resultados da educação artística em Taiwan, incluindo a formação de muitos artistas e designers excelentes, e o impacto na qualidade da educação estética geral através do sistema de formação de professores, sustentam conjuntamente o desenvolvimento do poder cultural suave de Taiwan (consulte os sites oficiais das universidades para detalhes sobre cursos e realizações).
+
+**Leitura Complementar**:
+
+- [A Evolução Centenária da Aquarela em Taiwan](/pt/art/century-of-taiwanese-watercolor-painting) — Ishikawa Kinichiro veio lecionar em 1907, gerando uma geração de pintores em aquarela taiwaneses a partir das aulas na Escola Nacional de Língua Chinesa.
+- [Arte de Mídia Digital em Taiwan](/pt/art/taiwan-new-media-art) — Além dos cursos interdisciplinares da faculdade de arte, como o vídeo e a arte digital chegaram ao palco internacional em quarenta anos?
+- [Curadores e Construção Cultural em Taiwan](/pt/art/taiwanese-curators-and-artistic-cultural-construction) — O processo de administração artística e curadoria se tornar uma profissão.
 
 ## Referências
 
-[^1]: [Universidade Nacional de Artes de Taipé](https://w3.tnua.edu.tw/) — Site oficial e materiais de história escolar
+[^1]: [Wikipedia sobre Universidade Nacional de Arte de Taipé](https://zh.wikipedia.org/zh-tw/%E5%9C%8B%E7%AB%8B%E8%87%BA%E5%8C%97%E8%97%9D%E8%A1%93%E5%A4%A7%E5%AD%B8) — O escritório de preparação da Academia Nacional de Arte foi estabelecido em 1980, e quando fundada em 1982, oferecia três departamentos: música, arte e teatro; o departamento de dança foi adicionado no ano seguinte; a Faculdade de Humanidades foi reestruturada pelo Comitê de Educação Geral em 2019.
 
-[^2]: [Universidade Nacional de Artes de Tainan](https://www.tnnua.edu.tw/) — Documentos de história escolar e evolução administrativa
+[^2]: [Universidade Nacional de Arte de Tainan - Conhecendo UNATai](https://www.tnnua.edu.tw/p/412-1000-92.php?Lang=zh-tw) — Foi aprovada para fundação em 78 (Ano da República), estabelecida oficialmente como Universidade Nacional de Arte de Tainan em 85, com Han Baode como primeiro reitor; quatro programas de pós-graduação foram fundados na criação; elevada ao status universitário em 93.
 
-[^3]: [Universidade Nacional de Artes de Taiwan](https://www.ntua.edu.tw/) — Evolução histórica e introdução às faculdades
+[^3]: [Wikipedia sobre Universidade Nacional de Arte de Taiwan](https://zh.wikipedia.org/zh-tw/%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E8%97%9D%E8%A1%93%E5%A4%A7%E5%AD%B8) — Nomes antigos: Escola Nacional de Arte (1955–1960), Escola Normal Especializada de Taiwan (1960–1994), Academia Nacional de Arte de Taiwan (1994–2001), Universidade Nacional de Arte de Taiwan (a partir de 2001).
 
-[^4]: [Departamento de Belas Artes da Universidade Normal Nacional de Taiwan](https://www.art.ntnu.edu.tw/) — História do departamento e informações curriculares
+[^4]: [Departamento de Arte da Universidade Nacional de Taiwan - História do Departamento](https://www.art.ntnu.edu.tw/index.php/about/history/) — A Faculdade Normal Provincial foi estabelecida em 1946, o Departamento de Especialização em Trabalho Gráfico em setembro de 1947 e o Departamento de Arte em agosto de 1948; diretores sucessivos incluíram Mo Dayuan e Huang Junbi; mestres lecionadores incluem Liao Jichun e Fu Xinyu.
 
-[^7]: [Museu da Educação Artística de Taiwan](https://www.arte.gov.tw/) — Materiais de pesquisa em políticas de educação artística
+[^7]: [Museu da Educação Artística de Taiwan](https://www.arte.gov.tw/) — Dados de pesquisa sobre política educacional artística.

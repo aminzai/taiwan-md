@@ -1,19 +1,19 @@
 ---
 title: 'Identidade Digital e Governo Digital'
-description: 'Um cartão de chip ainda não emitido custou 280 milhões em indenizações — a história do governo digital de Taiwan prova que a confiança é mais difícil de construir do que a tecnologia.'
+description: 'A identidade digital que foi suspensa em 2021, com um acordo de cerca de NT$280 milhões três anos depois; no ano anterior, hackers cidadãos criaram um mapa de máscaras em menos de uma semana. A história do governo digital de Taiwan, do New eID à Estônia e ao vTaiwan, é a prova de que a confiança é mais difícil de construir do que a tecnologia.'
 date: 2026-03-18
 category: 'Technology'
 tags:
   [
-    'governo digital',
-    'identidade digital',
-    'governo eletrônico',
+    'Governo Digital',
+    'Identidade Digital',
+    'Governo Eletrônico',
     'Ministério do Desenvolvimento Digital',
     'g0v',
-    'segurança cibernética',
-    'proteção de dados pessoais',
+    'Cibersegurança',
+    'Proteção de Dados Pessoais',
   ]
-subcategory: '開源社群'
+subcategory: '數位與網路'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-24
@@ -21,139 +21,161 @@ lastHumanReview: false
 difficulty: 'intermediate'
 readingTime: 12
 translatedFrom: 'Technology/數位身分證與數位政府.md'
-sourceCommitSha: '24efd20f3'
-sourceContentHash: 'sha256:06fbc10ed01b5aa5'
-sourceBodyHash: 'sha256:f5b7d5b360840e4c'
-translatedAt: '2026-07-26T07:02:07+08:00'
+sourceCommitSha: '6615ea1e6'
+sourceContentHash: 'sha256:b266b1831a82667c'
+sourceBodyHash: 'sha256:557151344a289bcc'
+translatedAt: '2026-10-03T00:56:57+08:00'
 ---
 
 # Identidade Digital e Governo Digital
 
-> **Visão geral em 30 segundos:** Em janeiro de 2021, um cartão de identidade com chip ainda não emitido fez o governo de Taiwan pagar cerca de 280 milhões em indenizações. O projeto chamado New eID pretendia permitir que 23 milhões de pessoas resolvessem tudo com um único cartão, mas foi forçado a ser suspenso após mais de 2.000 acadêmicos assinarem uma petição contra ele. O ironicamente, no mesmo ano em que o cartão de identidade digital ficou parado, a comunidade de hackers cívicos de Taiwan criou, em poucos dias, um mapa de máscaras, um serviço de governo digital que ninguém foi obrigado a usar, mas todos queriam. A verdadeira história da governança digital de Taiwan não é sobre a tecnologia ser avançada, mas sobre como construir confiança.
+> **Resumo em 30 segundos:** Em janeiro de 2021, o governo de Taiwan suspendeu um cartão de identidade digital com chip que ainda não havia sido emitido; três anos depois, foi resolvido por meio de um acordo com as empresas, no valor de cerca de NT$280 milhões. Este projeto chamado New eID pretendia substituir os cartões de identidade em todo o país, mas foi forçado a ser suspenso após assinaturas de mais de 2.000 acadêmicos, professores universitários e profissionais de cibersegurança. Irônico é que, no ano anterior, em fevereiro de 2020, a comunidade de hackers cidadãos de Taiwan criou um mapa de máscaras em menos de uma semana, um serviço do governo digital que ninguém foi forçado a usar, mas todos correram para utilizar. A verdadeira história da governança digital de Taiwan não é o quão avançada é a tecnologia, mas como se constrói a confiança.
 
-## Um cartão que desencadeou uma crise de confiança
+---
 
-Em junho de 2019, o presidente do Conselho de Ministros, Su Zhenchang, publicou um vídeo promocional no Facebook, anunciando a substituição em massa da identidade digital. Ele disse: “Antes, o erudito não precisava sair de casa para conhecer o mundo; no futuro, o erudito não precisará sair de casa para fazer as coisas.” O secretário-geral do Conselho, Li Mengyan, acrescentou: “O mundo já tem 128 países usando cartões de identidade digital com chip; Taiwan precisa acelerar para acompanhar a tendência mundial.” (Fonte: Reporter, relatório de investigação de 2021)
+## Uma Crise de Confiança Desencadeada por um Cartão
 
-O Conselho não esperava que, em vez de aplausos, surgisse uma onda de protestos.
+Em junho de 2019, o Ministro do Executivo, Su Chung-chang (蘇貞昌), publicou um vídeo no Facebook promovendo a identidade digital que seria totalmente substituída. Ele disse: "Antigamente era 'o erudito não sai de casa e sabe os assuntos do mundo'; no futuro será 'o erudito não sai de casa e pode resolver os assuntos do mundo'." O secretário executivo, Li Meng-yan (李孟諺), acrescentou: "128 países do mundo já usam identidade digital com chip; Taiwan precisa correr para acompanhar a tendência mundial." (Relato da investigação jornalística em 2021)
 
-A campanha de assinatura da Taiwan Human Rights Promotion Association e da Open Culture Foundation, uma ação judicial do Civil Justice Reform Foundation contra o governo, e um relatório de política de duas dias do Academia de Ciências de Taiwan que recomendou a suspensão, resultaram em... Em novembro de 2020, o Legislativo congelou o orçamento de 400 milhões de NTD para o plano de substituição de identidade. Em 21 de janeiro de 2021, o presidente do Conselho, Su Zhenchang, aprovou a suspensão do plano de substituição de identidade digital, que custaria mais de 4,8 bilhões de NTD (incluindo a licitação de fabricação de cartões de 3,29 bilhões de NTD e outras compras; o orçamento total varia de acordo com a fonte[^1]).
+O Executivo não esperava aplausos, mas sim ondas de oposição.
 
-> 📝 **Observação do curador**  
-> Um plano de 4,8 bilhões de NTD impulsionado por um governo democrático foi bloqueado pela própria sociedade civil. Isso não é comum no mundo. Em muitos países, o cartão de identidade digital é “decidido pelo governo, aceito pelo povo”; no sistema Aadhaar da Índia, 1,2 bilhão de pessoas foram registradas, e embora haja controvérsias, os cartões continuam sendo emitidos. O New eID de Taiwan ainda permanece na lista de suspensão.
+A Associação de Promoção dos Direitos Humanos de Taiwan e a Fundação Cultura Aberta iniciaram petições, enquanto a Fundação Privada para Reforma Judicial processou o governo judicialmente. Após um seminário de dois dias realizado pelo Academia Sinica (中研院), foi elaborado um relatório político recomendando a suspensão. Em novembro de 2020, o Legislativo congelou diretamente os NT$400 milhões destinados à substituição do cartão de identidade. Em 21 de janeiro de 2021, o Ministro do Executivo Su Chung-chang decidiu pela suspensão do projeto de substituição da identidade digital, que envolvia mais de NT$4,8 bilhões (incluindo vários projetos de aquisição, como o caso do cartão, no valor de NT$3,29 bilhões; a base orçamentária geral é inconsistente[^1]).
 
-## Os cartões já foram impressos, então consultamos especialistas
+> 📝 **Nota do Curador**
+> Um projeto promovido por um governo democrático com um custo de NT$4,8 bilhões foi barrado pela própria sociedade civil. Isso não é comum globalmente. A identidade digital na maioria dos países é "decidida pelo governo e aceita pelo povo"; o número de identificação Aadhaar da Índia registrou mais de um bilhão de pessoas e a controvérsia continua até hoje, com o sistema sendo implementado normalmente. O New eID de Taiwan ainda está na lista de suspensão.
 
-O fracasso deste cartão não foi de tecnologia, mas de software.
+---
 
-O projeto de identidade digital foi dividido em quatro contratos: o plano foi adjudicado à National Giant Management Consultants; a fabricação de cartões, de 3,29 bilhões de NTD, foi adjudicada à Tung Yuan Electric; o sistema, após várias falhas de licitação, foi adjudicado à Chunghwa Telecom; a verificação, à Dite Information. O problema é que, no início de 2020, os detalhes ainda não foram divulgados, mas os três últimos contratos já haviam sido concedidos.
+## Os Cartões Estavam Impressos, Só Aí Perguntaram aos Especialistas
 
-Um membro da equipe de trabalho do Ministério do Interior contou ao Reporter: “Os contratos de cartões já haviam sido concluídos, então nos perguntaram se tínhamos alguma opinião sobre o documento de especificação? Depois que a fábrica central de impressão terminou, revisamos o plano geral.” Ele disse: “Muitos acham que o comitê de implementação é apenas carimbo de borracha.” (Fonte: Reporter, relatório de investigação de 2021)
+A falha deste cartão não foi um problema técnico, mas sim um problema processual.
 
-Alguns membros depois se opuseram publicamente, outros recusaram participar de reuniões subsequentes.
+O projeto da identidade digital foi dividido em quatro projetos de aquisição: o plano foi adjudicado à Consultoria GlobalFoundries (國巨管理顧問); o caso do cartão foi adjudicado à AUO Technology (東元電機) por NT$3,29 bilhões; o sistema foi adjudicado à Chunghwa Telecom (中華電信) após várias licitações fracassadas; e a verificação foi adjudicada à Diti Information (迪悌資訊). O problema é que, no início de 2020, antes que os detalhes do planejamento fossem divulgados, o governo já havia iniciado as licitações para os três projetos seguintes. Só em meados de novembro, dois meses antes do teste piloto, os cartões estavam quase prontos e os documentos relacionados foram liberados.
 
-Isso não é a primeira vez que Taiwan falha com cartões de identidade com chip. Em 1998, o governo do Partido Nacionalista lançou o “National Card”, que pretendia colocar o documento de identidade, o cartão de seguro de saúde e os dados de impressão digital em um único cartão de chip. O projeto acabou sem sucesso sob protestos de acadêmicos e grupos civis. Vinte anos depois, o problema mudou de rosto, mas a contradição central permaneceu.
+Um membro do grupo de trabalho do Ministério da Justiça disse ao _Reporter_ (報導者): "Os contratos dos cartões já haviam sido adjudicados, e só então nos perguntaram se tínhamos alguma opinião sobre as especificações? Depois que a fábrica central terminou, nós revisamos o planejamento geral." Ele acrescentou: "Muitas pessoas acham que o grupo de promoção é apenas um carimbo de borracha." (Relato da investigação jornalística em 2021)
 
-## “A identidade digital pode ser a base de um governo inteligente ou a infraestrutura de um governo autoritário”
+Alguns membros se opuseram publicamente mais tarde, e outros recusaram-se a comparecer às reuniões subsequentes.
 
-O pesquisador Qu Chien-chung do Departamento de Direito da Academia de Ciências de Taiwan é uma das vozes acadêmicas mais importantes sobre identidade digital em Taiwan. Em sua entrevista na Academia, ele explicou a raiz do problema:
+Esta não foi a primeira vez que Taiwan tropeçou na identidade com chip. Em 1998, o governo do Kuomintang (國民黨) promoveu o "Cartão Nacional", um projeto para colocar o cartão de identidade, o cartão de seguro saúde e os dados biométricos em um único cartão com chip. Naquela época, o projeto fracassou diante da oposição de acadêmicos e grupos civis. Vinte anos depois, a face do problema mudou, mas o conflito central permaneceu o mesmo.
 
-> “O maior problema é a pegada digital. Quando se trata de documentos em papel, depois de visualizados, a menos que sejam copiados novamente, não há nenhum registro. Mas quando usado em um ambiente digital, há sempre um registro de uso. Quando a pegada digital se acumula à medida que usamos a identidade em nossas vidas diárias, o pior cenário é a criação de um mecanismo de vigilância semelhante ao sistema de pontuação de crédito social do outro lado da fronteira.” (Fonte: entrevista do Departamento de Direito da Academia de Ciências de Taiwan)
+---
 
-O advogado Lin Yu-teng, que apoiou a ação judicial do Civil Justice Reform Foundation, disse de forma mais direta: “A identidade digital pode ser a base de um governo inteligente ou a infraestrutura de um governo autoritário. A diferença entre bem e mal está na importância do sistema de responsabilização.” (Fonte: Reporter, relatório de investigação de 2021)
+## "A Identidade Digital Pode Ser a Base de um Governo Inteligente ou uma Infraestrutura para um Governo Autoritário"
 
-> 📝 **Observação do curador**  
-> Esta fala é o cerne da controvérsia. Taiwan passou de autoritarismo a democracia em apenas 40 anos, e a sensibilidade sobre “o Estado saber todas as suas movimentações” é maior do que em muitos países. Isso não é paranoia: no início de 2020, mais de 20 milhões de registros de cadastro civil foram encontrados à venda na dark web, e a resposta do Ministério do Interior negou que os dados provinham do governo. Qu Chien-chung observou: “A característica de uma sociedade democrática é a alternância de poder; mesmo que o governo atual não realize vigilância estatal, não se pode garantir que no futuro não haja políticos que defendam a necessidade de vigilância estatal.”
+Qiu Wen-tsung (邱文聰), pesquisador do Instituto de Estudos Jurídicos da Academia Sinica, é uma das vozes acadêmicas mais importantes sobre a questão da identidade digital em Taiwan. Em uma entrevista na Academia Sinica, ele explicou o cerne do problema:
 
-## Estonia conseguiu, mas Taiwan aprendeu a coisa errada
+"A maior razão é a questão do rastro digital. Algo físico, como papel, não deixa nenhum dado registrado após ser visto, a menos que seja transcrito separadamente. Mas quando usado em um ambiente digital, sempre haverá um registro de uso. Quando o rastro digital se acumula continuamente através do uso da identidade no nosso dia a dia, o pior cenário é a criação de um mecanismo de vigilância semelhante ao sistema de crédito social na margem [referência à China continental]." (Relato da entrevista com o Instituto de Estudos Jurídicos da Academia Sinica)
 
-Ao promover o New eID, o Ministério do Interior frequentemente citava o caso de sucesso da Estônia. Este pequeno país do Mar Báltico tem apenas 1,32 milhão de habitantes, mas construiu o que o Banco Mundial descreve como “o sistema de identidade digital mais bem-sucedido do mundo”. 99% dos serviços governamentais podem ser concluídos online. Eles até fizeram backup remoto dos próprios dados governamentais, de modo que, se o país for invadido, o governo pode continuar operando na nuvem.
+O advogado Lin Yu-teng (林煜騰), que auxiliou o processo do Conselho Privado para Reforma Judicial, foi ainda mais direto: "A identidade digital pode ser a base de um governo inteligente ou uma infraestrutura para um governo autoritário. A diferença entre o bom e o mau é a importância do sistema de responsabilização." (Relato da investigação jornalística em 2021)
 
-> **🔢 Números falam**
+> 📝 **Nota do Curador**
+> Este trecho é o cerne de toda a controvérsia. Taiwan, tendo passado da autoridade para a democracia em apenas 40 anos, tem uma sensibilidade maior do que a maioria dos países sobre o tema "o Estado sabe todos os seus movimentos". Isso não é paranoia: no início de 2021, mais de 20 milhões de registros civis foram encontrados à venda na dark web, e o Ministério da Justiça respondeu dizendo que não sabia se os dados vinham do governo. Qiu Wen-tsung apontou: "Uma característica da sociedade democrática é a alternância de poder; mesmo que o governo atual não faça vigilância estatal, você não pode garantir que um político que defenda a vigilância estatal não assumirá no futuro."
+
+---
+
+## A Estônia Conseguiu, Mas Taiwan Aprendeu Errado
+
+O caso de sucesso mais frequentemente citado pelo Ministério da Justiça ao promover o New eID é a Estônia. Este pequeno país báltico tem apenas 1,32 milhão de habitantes, mas construiu um sistema de identidade digital que o Banco Mundial chama de "o sistema de identidade digital mais bem-sucedido do mundo". 99% dos serviços governamentais podem ser concluídos online. Eles até fizeram backup dos próprios "dados governamentais", para que, em caso de invasão nacional, o governo pudesse continuar operando na nuvem.
+
+> **🔢 Os Números Falam**
 >
-> - Estônia: taxa de adoção de identidade digital **97%**, participação digital dos cidadãos **primeira no mundo** (classificação da ONU)
-> - Certificado de Pessoa Natural de Taiwan (lançado em 2003): até a suspensão, a taxa de uso real permaneceu baixa, sendo principalmente usado na temporada de impostos
+> - Estônia: Nível de participação digital cidadã **primeiro do mundo** (Avaliação da ONU em 2020)
+> - Certificado natural de Taiwan (emitido em 2003): A taxa de uso real foi consistentemente baixa até a suspensão, com o uso concentrado principalmente na temporada de declaração de impostos.
 
-Mas Qu Chien-chung apontou que Taiwan aprendeu apenas a superfície tecnológica da Estônia, sem aprender a estrutura institucional subjacente. A Estônia tem legislação específica que regula estritamente o uso da identidade, e mais importante, cada cidadão pode consultar a qualquer momento “quem, quando e por que motivo acessou seus dados”; ao detectar anomalias, pode processar imediatamente. Em 2007, quando a Estônia sofreu uma grande violação de dados governamentais, o governo reconheceu publicamente e reemitiu os números de identidade em todo o país.
+Mas Qiu Wen-tsung apontou que Taiwan apenas copiou a superfície tecnológica da Estônia, sem aprender a estrutura sistêmica por baixo. A Estônia tem leis específicas que regulam rigorosamente o uso da identidade; e, crucialmente, cada cidadão pode consultar a qualquer momento "quem, quando e para qual propósito visualizou seus dados", e denunciar anomalias imediatamente. Em 2017, foi descoberto um漏洞 (vulnerabilidade) no chip de ID estoniano, e o governo informou publicamente a todos, relatando regularmente o progresso, e recolheu em grande escala os chips problemáticos, resolvendo o problema antes que ocorresse dano.
 
-Em 2019, após visitar a Estônia, o Ministério do Interior escreveu em seu relatório: “O governo deve promover com o máximo cuidado, atenção e rigor; quando ocorrer um erro em meio a muitas precauções, o governo deve admitir o erro.” Em seguida, voltou a Taiwan e fez quase o oposto.
+Em 2019, após uma visita à Estônia, o Ministério da Justiça escreveu em seu relatório: "O governo deve promover com atitude cuidadosa, rigorosa e metódica; mas quando ocorre um erro de detalhe, o governo deve ter coragem para admitir o erro." E então voltou a Taiwan e fez quase o oposto.
 
-## Mapa de Máscaras: outro caminho da governança digital
+---
 
-O cartão de identidade digital ficou parado, mas a governança digital de Taiwan não é um terreno vazio. Na verdade, o espírito do governo digital de Taiwan é melhor representado não pelo New eID de cima para baixo, mas pelo g0v, um governo de hora zero de baixo para cima.
+## Mapa de Máscaras: Outro Caminho do Governo Digital
 
-Em fevereiro de 2020, no início da pandemia de COVID-19, Taiwan implementou um registro de máscaras, mas o público não sabia quais farmácias ainda tinham máscaras. O fundador da Tainan Hoxiang Studio, Wu Zhan-wei, foi o primeiro a criar um protótipo de mapa de máscaras de conveniência. O então comissário de assuntos administrativos, Audrey Tang (唐鳳), viu e imediatamente entrou em contato com Wu Zhan-wei, e em poucos dias coordenou a liberação de uma API aberta de estoque de máscaras em tempo real.
+A identidade digital ficou estagnada, mas a governança digital de Taiwan não é um deserto. Na verdade, o que melhor representa o espírito do governo digital de Taiwan não é o New eID de cima para baixo, mas sim o g0v zero-hour (零時政府) de baixo para cima.
 
-> “Audrey Tang tem autoridade de decisão e pode alterar o código sozinha, então não precisamos reportar a nenhum superior; os desenvolvedores podem se concentrar no desenvolvimento.” — Wu Zhan-wei (fonte: Tech New Report, 2020)
+No início da pandemia de COVID-19 em fevereiro de 2020, Taiwan implementou um sistema de registro de máscaras com nome, mas os cidadãos não sabiam qual farmácia ainda tinha máscaras. Wu Zhan-wei (吳展瑋), fundador do Tainan Haoxiang Studio (台南好想工作室), criou pioneiramente um protótipo de mapa de máscaras de conveniência. Tang Feng (唐鳳) (/pt/people/audrey-tang/), então comissária política, convidou Wu Zhan-wei para ajudar a desenvolver o mapa de máscaras de farmácias e coordenou em poucos dias a liberação da API aberta do estoque de máscaras em tempo real pelo governo.
 
-Milhares de hackers civis se juntaram ao hackathon online. Segundo o NPR[^6], em seis dias após a primeira versão do mapa de Wu Zhan-wei, todo o povo de Taiwan pôde verificar em tempo real o estoque de máscaras de cada farmácia. Desenvolvedores da Coreia do Sul e do Japão seguiram o modelo taiwanês, mas a maioria concluiu que a experiência de Taiwan é difícil de replicar.
+> "Tang Feng tinha poder de decisão e podia mudar o código sozinha, então nós não precisávamos relatar nada ao chefe em Taipei; os desenvolvedores podiam focar no desenvolvimento." — Wu Zhan-wei (Relato da _Tech News_ em 2020)
 
-A lição desta história vai além da tecnologia. A comparação entre a identidade digital e o mapa de máscaras revela a ironia central da governança digital: **os serviços digitais mais bem-sucedidos do governo geralmente não são projetados pelo próprio governo.**
+Milhares de hackers cidadãos participaram de hackathons online. De acordo com o NPR[^6], em seis dias após a primeira versão do mapa ser lançada por Wu Zhan-wei, todos em Taiwan puderam verificar instantaneamente o estoque de máscaras de cada farmácia. Mais tarde, Wu Zhan-wei abriu o código-fonte do mapa de máscaras de conveniência para desenvolvedores da Malásia, e desenvolvedores do Code for Japan também vieram perguntar como adaptá-lo ao Japão, mas a conclusão geral foi: a experiência de Taiwan é difícil de replicar[^8].
 
-## De comissário de assuntos administrativos ao Ministério do Desenvolvimento Digital
+A lição desta história não é apenas técnica. A comparação entre a identidade digital e o mapa de máscaras revela a antinomia central do governo digital: **os serviços digitais mais bem-sucedidos do governo são, muitas vezes, aqueles que não foram projetados pelo próprio governo.**
 
-Audrey Tang desempenhou o papel de ponte, não de comandante, no mapa de máscaras, e essa posição se estendeu ao seu novo cargo. Em 27 de agosto de 2022, o Ministério do Desenvolvimento Digital (moda) de Taiwan foi oficialmente estabelecido, com Audrey Tang como primeira ministra (período 2022 a maio de 2024[^4]; em maio de 2024 deixou o cargo, e quando o texto menciona Tang, refere-se sempre à sua posição de primeira ministra). Ela disse na inauguração que a pronúncia de moda soa como “máda”, e espera que se torne o motor do desenvolvimento digital de Taiwan.
+---
 
-A criação do Ministério do Desenvolvimento Digital foi, em si, um dos frutos do fracasso do New eID. Quando o cartão de identidade digital foi suspenso, o ministro do Interior, Hsu Kuo-yung, admitiu que a futura autoridade responsável pelo eID seria quem, se seria necessário criar uma nova agência...
+## De Comissária Política ao Ministério do Desenvolvimento Digital
 
-Dois anos depois, a resposta foi revelada: o Ministério do Desenvolvimento Digital assumiu todo o quebra-cabeça.
+Tang Feng desempenhou um papel de mediadora, e não de comandante, no mapa de máscaras; essa posição também se estendeu ao seu novo cargo. Em 27 de agosto de 2022, o Ministério do Desenvolvimento Digital (moda) de Taiwan foi oficialmente estabelecido, e Tang Feng foi nomeada a primeira diretora (no mandato de 2022 a maio de 2024[^4], sendo sucedida por Huang Yan-nan em maio de 2024; quando se refere a Tang Feng, é sempre como sua primeira diretora). Ao inaugurar o ministério, ela disse que a pronúncia de moda soa como "motor", e espera que ele seja o motor do desenvolvimento digital de Taiwan.
 
-Mas o desafio permanece enorme. Um hacker de chapéu branco, Howard (pseudônimo), em entrevista ao Reporter, apontou um problema estrutural: “A raiz do problema do governo é que os responsáveis não entendem tecnologia, e a gestão de segurança cibernética não pode ser implementada. Sejam os contratos de terceirização ou a aceitação, você não pode verificar se há problemas de segurança.” Em 2019, o Conselho de Ministros auditou a segurança cibernética de 10 órgãos públicos, obtendo uma média geral de apenas 69,3 pontos, com 6 órgãos falhando nos testes técnicos. A escassez de pessoal especializado em segurança cibernética nas agências governamentais é de 60%, ultrapassando mil pessoas. (Fonte: Reporter, relatório de investigação de 2021)
+Quando a identidade digital foi suspensa, o Ministro da Justiça Xu Guo-yong (徐國勇) admitiu: "Quem será o 'órgão responsável' pela identidade digital no futuro, ou se precisaremos criar um novo órgão especializado, não temos resposta." Mais de um ano depois, o Ministério do Desenvolvimento Digital foi estabelecido, e a governança digital de Taiwan ganhou um departamento dedicado.
 
-> **🔢 Números falam**
+Mas os desafios ainda são enormes. Um hacker _white hat_ chamado Howard (nome fictício) apontou problemas estruturais em uma entrevista: "Eu acho que a causa fundamental é que o pessoal responsável no governo não entende de tecnologia, e a gestão de cibersegurança não pode ser implementada. Porque quando o pessoal responsável não entende disso, seja na especificação terceirizada ou na aceitação, (mesmo que) você complete o processo normal de terceirização, você ainda não consegue verificar se há problemas de segurança." A auditoria de segurança do Executivo em 2019 para 10 agências governamentais resultou em uma média geral de apenas 69.3 pontos, e 6 agências falharam no teste técnico. Há um déficit de pessoal especializado em cibersegurança dentro da administração pública, chegando a 60% ou mais de mil pessoas. (Relato da investigação jornalística em 2021)
+
+> **🔢 Os Números Falam**
 >
-> - O Departamento de Investigação abriu vaga para analista de segurança cibernética, exigindo doutorado + 9 competências profissionais, salário mensal: **58.000 NTD**
-> - Em 2019, o Departamento de Seleção foi revelado com a violação de **590.000** registros de dados pessoais de funcionários públicos
-> - Em 2021, mais de **20 milhões** de registros de cadastro civil de Taiwan apareceram na dark web
+> - A agência investigativa abriu vagas para analistas de segurança exigindo doutorado + 9 habilidades profissionais, com salário mensal: **NT$58.000**
+> - Em 2019, o Ministério da Carreira foi exposto por vazar os dados pessoais de **590 mil** funcionários públicos.
+> - Em 2021, mais de **20 milhões** de registros civis de Taiwan apareceram na dark web.
 
-## vTaiwan e o experimento de governo aberto
+---
 
-Enquanto o caminho da identidade digital estava bloqueado, Taiwan avançou mais longe que a maioria dos países no caminho da “democracia digital”.
+## vTaiwan e Experimentos de Governo Aberto
 
-A plataforma vTaiwan, lançada em 2015, usou uma ferramenta de IA chamada Pol.is para permitir que os cidadãos participassem da formulação de políticas. O caso mais conhecido foi a discussão regulatória de Uber em 2015; o governo abriu a mesa de negociação, permitindo que motoristas de Uber, motoristas de táxi e passageiros debateram diretamente na plataforma. O consenso final tornou-se referência legislativa. De acordo com estatísticas da CrowdLaw, desde o lançamento do vTaiwan, mais de 80% dos casos de discussão foram convertidos em ações governamentais concretas (conforme a própria vTaiwan, estudo de caso da CrowdLaw[^2]).
+Enquanto a rota da identidade digital estava bloqueada, Taiwan avançou em outro caminho: o "democracia digital".
 
-Audrey Tang tem uma visão clara sobre o vTaiwan: “Isso não é a solução da democracia, mas um processo de consolidação de consenso. O consenso preliminar no vTaiwan pode servir apenas como referência para a formulação de políticas; para provocar mudança, ainda é necessário o poder da participação cidadã.” (Fonte: Reporter, tema de governo aberto)
+Em dezembro de 2014, a plataforma vTaiwan, criada em colaboração com a g0v zero-hour pelo ex-comissário político Tsai Yu-ling (蔡玉玲), usou uma ferramenta de visualização de opiniões chamada Pol.is para envolver os cidadãos na formulação de políticas. O caso mais conhecido foi o debate sobre a regulamentação do Uber em 2015, onde o governo abriu a mesa de negociação e permitiu que motoristas de Uber, taxistas e passageiros debatassem diretamente na plataforma. O consenso alcançado serviu como referência legislativa. De acordo com estatísticas da CrowdLaw, mais de 80% dos tópicos discutidos no vTaiwan foram transformados em ações governamentais concretas (segundo relatórios do próprio vTaiwan, estudo de caso CrowdLaw[^2]).
 
-Isso reflete o mesmo ensinamento da identidade digital: a tecnologia por si só não resolve; sem confiança, a tecnologia é perigosa; tecnologia com confiança, mas grosseira, pode avançar mais longe.
+Tang Feng tem uma visão clara sobre o vTaiwan. A matéria de governo aberto do _Reporter_ descreve que Tang Feng vê o vTaiwan como um processo de consolidação de consenso, uma forma de ouvir a opinião pública, e não como uma solução para a democracia. Ela afirmou que o consenso superficial na plataforma pode servir apenas como referência para a formulação de políticas; a mudança ainda depende do poder da participação cidadã[^10].
 
-## Lições da compra de 4,8 bilhões
+Isso é um espelho das lições da identidade digital: a tecnologia por si só não é a solução. A tecnologia sem confiança é perigosa; com confiança, mas sendo grosseira, pode avançar mais longe.
 
-Após a suspensão do projeto de identidade digital, os fornecedores exigiram originalmente mais de 1 bilhão de NTD. Em janeiro de 2024, após mediação pelo Comitê de Obras Públicas, o valor final ficou em menos de 280 milhões de NTD[^3]. O ministro do Interior, Lin You-chang, admitiu: “Mais de 200 milhões de NTD já é o melhor resultado.”
+---
 
-280 milhões, mais os equipamentos e custos de instalação já gastos, trouxeram um cartão de chip ainda não emitido. Mas talvez o que ele realmente trouxe seja uma lição sobre governança digital para a sociedade de Taiwan:
+## Lições Aprendidas com NT$480 milhões
 
-**Você pode criar o chip mais seguro do mundo, mas se o povo não confiar em você, o cartão será apenas plástico.**
+Após a suspensão do projeto de identidade digital, as empresas relacionadas reivindicaram mais de NT$1 bilhão do governo. Em janeiro de 2024, o mediador da Comissão de Engenharia Pública resolveu em cerca de NT$280 milhões[^3]. O Ministro da Justiça Lin You-chang (林右昌) disse que este dinheiro "na verdade não é uma compensação, mas sim um valor para parar a perda", e "este valor de mais de 200 milhões já é o melhor resultado possível"[^13].
 
-Estônia acumulou 97% de participação digital dos cidadãos em 30 anos de transparência. A sociedade civil de Taiwan provou que pode criar um mapa de máscaras em três dias e também pode impedir um plano governamental de 4,8 bilhões. Ambos são músculos da democracia digital.
+Os NT$280 milhões em indenização (incluindo as reivindicações das empresas e os custos de equipamentos e locais adquiridos) resultaram no cartão com chip que nunca foi emitido. Mas, talvez, o que ele realmente trouxe foi uma lição para a sociedade de Taiwan sobre governança digital:
 
-Qu Chien-chung concluiu sua entrevista na Academia de Ciências com uma frase que talvez seja a nota mais precisa de toda a história.
+**Você pode criar o chip mais seguro do mundo, mas se o povo não confia em você, o cartão será apenas um pedaço de plástico.**
 
-> “Você não pode apenas enfatizar que os estrangeiros têm digitalização em abundância; devemos aprender rapidamente, mas ignoramos a base legal que os outros construíram com esforço para a digitalização.” (Fonte: entrevista do Departamento de Direito da Academia de Ciências de Taiwan)
+A Estônia acumulou uma taxa de participação digital cidadã classificada como número um pela ONU através de 30 anos de transparência. A sociedade civil de Taiwan provou que tem a capacidade de criar um mapa de máscaras em uma semana e também a capacidade de barrar um projeto governamental de NT$4,8 bilhões. Ambos são músculos da democracia digital.
 
-Em 2026, a identidade digital de Taiwan ainda não tem cronograma. Mas a cada temporada de impostos, milhões de taiwaneses continuam obedientemente usando o Certificado de Pessoa Natural de 2003, com um leitor de cartão, para completar a interação digital mais frequente com o governo. Esse cartão antigo não foi atingido pela crise de confiança, porque nunca prometeu muito.
+No final da entrevista na Academia Sinica, Qiu Wen-tsung disse algo que pode ser o comentário mais preciso sobre toda essa história: "Você não pode apenas enfatizar como os outros países têm muita coisa legal com a digitalização e que devemos apressar para aprender, mas ignorar a base do sistema legal construída arduamente pelos outros." (Relato da entrevista com o Instituto de Estudos Jurídicos da Academia Sinica)
+
+Em 2026, a identidade digital de Taiwan ainda não tem um cronograma. Mas a cada temporada de declaração de impostos, milhões de taiuaneses ainda usam religiosamente o certificado natural emitido em 2003, usando um leitor de cartões para realizar sua interação digital mais frequente com o governo. Esse cartão antigo não foi atingido pela crise de confiança porque ele nunca prometeu muito.
+
+---
+
+**Leituras Relacionadas**:
+
+- [Comunidade Open Source e g0v](/pt/technology/open-source-and-g0v) — A comunidade de hackers cidadãos por trás do mapa de máscaras, da "governança zero-hour" ao vTaiwan
+- [Força Nacional das Máscaras](/pt/economy/mask-national-team) — Outra metade da crise das máscaras: máquinas ferramentas, têxteis, militares e governo formando uma linha de produção
+- [Desenvolvimento da Indústria de Cibersegurança em Taiwan](/pt/technology/taiwan-cybersecurity-industry-development) — Além do pessoal governamental não entender de tecnologia e o déficit de pessoal de cibersegurança, como a indústria preenche essa parede
 
 ## Referências
 
-[^1]: [Reporter (2021). “From the forced card shout of the digital identity card policy, looking at Taiwan and the distance to the ‘Digital Nation’”](https://www.twreporter.org/a/e-id-in-taiwan-2021-failed) — investigative report; confirms that the card manufacturing contract of 3.29 billion NTD was won by Tung Yuan Electric; the overall project budget includes four parts: planning, manufacturing, system, verification, totaling over 4.8 billion.
+[^1]: _Reporter_ (2021). "A distância entre Taiwan e o 'Estado Digital', olhando para a política da identidade digital forçada" https://www.twreporter.org/a/e-id-in-taiwan-2021-failed — Relato investigativo primário; confirma que AUO Technology ganhou o caso do cartão por NT$3,29 bilhões; a base orçamentária geral inclui os quatro casos de planejamento/cartão/sistema/verificação, totalizando mais de NT$4,8 bilhões.
 
-[^2]: [CrowdLaw — vTaiwan Case Study](https://congress.crowd.law/case-vtaiwan.html) — 80% of discussion cases converted into government action according to vTaiwan's own statistics; CrowdLaw case study compilation.
+[^2]: _CrowdLaw — vTaiwan Case Study_ https://congress.crowd.law/case-vtaiwan.html — Relatório do próprio vTaiwan sobre 80% dos tópicos se transformarem em ações governamentais; compilação de estudos de caso CrowdLaw.
 
-[^3]: [Digital Era (2024). “Digital identity card shout, 280 million NTD paid by the people”](https://www.bnext.com.tw/article/62504/eid-information-security) — suppliers demanded over 1 billion NTD; in January 2024, the Public Works Committee mediation settled for less than 280 million NTD.
+[^3]: _Digital Era_ (2024). "Identidade Digital Suspensa, NT$280 milhões pagos por todos" https://www.bnext.com.tw/article/62504/eid-information-security — Reivindicação das empresas de NT$526 milhões, mais os custos de equipamentos e locais adquiridos de NT$524 milhões, o valor final do acordo foi cerca de NT$280 milhões; mais de 2.000 acadêmicos da Academia Sinica, professores universitários e profissionais de cibersegurança assinaram a oposição à substituição.
 
-[^4]: [Ministry of Digital Development (moda) official website](https://moda.gov.tw/) — Audrey Tang served as first minister (August 2022 to May 2024); stepped down in May 2024, succeeded by Minister Huang Yannan.
+[^4]: _Site Oficial do Ministério do Desenvolvimento Digital (moda)_ https://moda.gov.tw/ — Tang Feng foi nomeada primeira diretora (agosto de 2022 a maio de 2024), sucedida por Huang Yan-nan em maio de 2024.
 
-[^5]: [Academia de Ciências, Departamento de Direito (2020). “Digital identity card, cool? — Interview with researcher Qu Chien-chung”](https://www.iias.sinica.edu.tw/blog_post/1118?class=96) — Qu discusses the legal foundation of digital governance; points out insufficiency of eID regulations.
+[^5]: _Instituto de Estudos Jurídicos da Academia Sinica_ (2020). "Identidade Digital, é legal? — Entrevista com o pesquisador Qiu Wen-tsung" https://www.iias.sinica.edu.tw/blog_post/1118?class=96 — Qiu Wen-tsung discute a base legal da governança digital; levanta o problema da insuficiência regulatória do eID.
 
-[^6]: [NPR (2020). “Audrey Tang brings civic tech to Taiwan's coronavirus pandemic response”](https://www.npr.org/transcripts/949764249) — Map of masks became nationwide within six days; Taiwan's civic tech response to COVID-19.
+[^6]: _NPR_ (2020). "Audrey Tang brings civic tech to Taiwan's coronavirus pandemic response" https://www.npr.org/transcripts/949764249 — Mapa de máscaras disseminado em todo Taiwan em seis dias; tecnologia cívica de Taiwan respondendo à COVID-19.
 
-[^7]: [BBC (2020). “How map hacks and buttocks helped Taiwan fight Covid-19”](https://www.bbc.com/news/technology-52883838) — English report on Taiwan's mask map and civic hacker response to the pandemic.
+[^7]: _BBC_ (2020). "How map hacks and buttocks helped Taiwan fight Covid-19" https://www.bbc.com/news/technology-52883838 — Relato em inglês sobre o mapa de máscaras de Taiwan e a resposta cidadã à pandemia.
 
-[^8]: [Tech New Report (2020). “Building the mask map from scratch, revealing the behind-the-scenes team of ‘keyboard saving the country’”](https://technews.tw/2020/02/23/expose-the-team-behind-mask-map/) — Development process of mask map; Wu Zhan-wei and g0v civic hacker community.
+[^8]: _Tech News_ (2020). "Construindo o mapa de máscaras do zero, revelando a equipe por trás da 'salvação nacional pelo teclado'" https://technews.tw/2020/02/23/expose-the-team-behind-mask-map/ — Processo de desenvolvimento do mapa de máscaras; Wu Zhan-wei e a comunidade de hackers cidadãos g0v.
 
-[^9]: [Reporter (2021). “Even the government has backups! How Estonia built the world’s most successful digital society?”](https://www.twreporter.org/a/e-id-in-estonia) — Estonia's digital nation-building experience; comparison of Taiwan's digital governance path.
+[^9]: _Reporter_ (2021). "Até o 'Governo' fez backup! Como a Estônia construiu o sistema social digital mais bem-sucedido do mundo?" https://www.twreporter.org/a/e-id-in-estonia — Experiência da construção nacional digital estoniana; comparação das rotas de governança digital de Taiwan.
 
-[^10]: [Reporter — Open Government feature. “Open government, is it real?”](https://www.twreporter.org/a/open-government) — Audrey Tang's vTaiwan related discussion; open government experiment case.
+[^10]: _Reporter — Especial Reportagem sobre Governo Aberto_. "Governo Aberto, é sério?" https://www.twreporter.org/a/open-government — Discussões relacionadas a Tang Feng e vTaiwan; casos de experimento de governo aberto.
 
-[^11]: [Taiwan Human Rights Promotion Association — Chip identity card issue page](https://www.tahr.org.tw/issues/privacy/eid) — Human rights stance and petition against the New eID plan.
+[^11]: _Associação de Promoção dos Direitos Humanos de Taiwan_ — Página do tema da identidade com chip https://www.tahr.org.tw/issues/privacy/eid — Posição de direitos humanos contra o projeto New eID e petição.
 
-[^12]: [Open Culture Foundation — Petition: Amend laws and disclose eID information](https://ocf.tw/p/eid/) — Civil movement to publicize eID information and amend regulations.
+[^12]: _Fundação Cultura Aberta_ — Petição: Divulgação de informações de eID e revisão legal https://ocf.tw/p/eid/ — Movimento de petição da sociedade civil para a divulgação de informações de eID e reforma regulatória.
+
+[^13]: _CCTV News Network_ (2024). "Identidade Digital Suspensa, NT$280 milhões Reivindicados; Lin You-chang: É um valor para parar a perda" https://news.pts.org.tw/article/683842 — Reivindicação das empresas por mais de NT$1 bilhão; acordo em janeiro de 2024 por cerca de NT$280 milhões; Lin You-chang diz "não é compensação... mas sim um valor para parar a perda".
