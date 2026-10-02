@@ -1,96 +1,128 @@
 ---
-title: 'Taiwan Electronic Music and Party Culture: From Underground Rave to the International Stage'
-description: 'From 1990s rave party culture to the Road to Ultra music festival, how Taiwan electronic music moved from underground to mainstream, nurturing world-class DJs and independent electronic labels'
+title: "Taiwan's Electronic Music and Party Culture: From Underground Rave to International Stage"
+description: 'From 1990s rave culture to Road to Ultra electronic music festivals, how Taiwanese electronic music moved from the underground to the mainstream, nurturing international DJs and independent electronic labels.'
 date: 2026-03-19
-author: 'Taiwan.md Contributors'
 category: 'Music'
+tags:
+  [
+    'Electronic Music',
+    'Rave',
+    'Party Culture',
+    'DJ',
+    'EDM Festival',
+    'Underground Music',
+  ]
 subcategory: '電子與實驗'
-tags: ['電子音樂', 'Rave', '派對文化', 'DJ', '電音節', '地下音樂']
+author: 'Taiwan.md Contributors'
+featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: true
 translatedFrom: 'Music/台灣電子音樂與派對文化.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:0beb5fc8433a2c70'
-sourceBodyHash: 'sha256:b7a689926177f96c'
-translatedAt: '2026-05-15T14:23:13+08:00'
+sourceCommitSha: 'afcfabc33'
+sourceContentHash: 'sha256:f8d93a4a9320d691'
+sourceBodyHash: 'sha256:2195da25b78144be'
+translatedAt: '2026-10-03T04:11:35+08:00'
 ---
 
-# Taiwan Electronic Music and Party Culture: From Underground Rave to the International Stage
+# Taiwan's Electronic Music and Party Culture: From Underground Rave to International Stage
 
-> **30-second overview:** Taiwan electronic music began with underground rave parties in the 1990s and, after more than two decades of development, has moved from warehouse revelry to the mainstreaming of large-scale EDM festivals. Artists such as Sonia Calico and RayRay have pushed Taiwan electronic music onto the international stage, while musicians like Meuko! Meuko! have garnered attention in international circles with experimental electronic music.
+> **30-Second Overview:** Taiwanese electronic music started with outdoor raves and dance clubs in Taipei during the mid-1990s, evolving from riverside parties to large-scale EDM festivals over three decades. DJs like Sonia Calico and RayRay performed and competed overseas, while musicians such as Meuko! Meuko! gained international attention with experimental electronics.
 
-Taiwan electronic music culture reflects the localization of youth culture in the era of globalization: from receiving Western rave culture to reinterpreting it through a local lens and building a reputation in Asia, the evolution of this scene has concrete, traceable milestones in the history of music in Taiwan.
+Taiwan's electronic music culture reflects the localization process of youth culture in a globalized era: from receiving Western Rave culture to reinterpreting it from a local perspective and establishing fame in Asia, the evolution of this scene has specific traceable nodes in Taiwanese music history.
 
-## Underground Origins (1990–2000): The First Generation of Ravers
+## Underground Origins (1990-2000): The First Ravers
 
-### Revelry in the Warehouse
+### The First Rave at Ershou Floodway
 
-In the early 1990s, Taiwan electronic music quietly took root in underground spaces in Taipei. Influenced by British Acid House and Detroit Techno, the first generation of Taiwanese ravers began hosting underground parties in abandoned warehouses and factory spaces, often lasting until dawn, forming subcultural communities around beats at 130–150 BPM.[^1]
+On July 29, 1995, DJ @llen and friends brought speakers to the Ershou Floodway for Taiwan's first outdoor rave. The following year, @llen and EDGE co-hosted "Taipei Tribal Massive" at Meihuahu Lake in Xindian, which was Taiwan's first large-scale outdoor rave, shut down by police after 10 PM due to an unpermitted event.[^1]
 
-Information spread through fax machines, underground publications, or word of mouth. Entry fees were often only a few hundred New Taiwan dollars, and the venue equipment fell far short of proper clubs. The core ethos drew from the British PLUR (Peace, Love, Unity, Respect) spirit, which took on its own local interpretation in Taiwan.
+In the club scene, DJ Victor Cheng recalled that Twilight Zone, near Guanghua Plaza on Songjiang Road, was the first nightclub in Taiwan dedicated to electronic music, which later expanded and renamed itself Underground.[^2] In 1997, _PLUR_, Taiwan's only electronic music magazine, was launched.[^1] The name was derived from PLUR (Peace, Love, Unity, Respect), a core concept in the American rave scene.[^3]
 
-### Pioneer Venues and the Rise of DJs
+### Rise of Pioneer Venues and DJs
 
-In the mid-1990s, a wave of venues established the physical map of Taipei electronic music scene. **ROXY 99** (along Zhongxiao East Road) was many people first dance floor; clubs like **TeXound** and **Spark** introduced electronic music performance spaces with more sophisticated sound systems; **@LIVE** and **Plush** attracted core audiences with more underground programming and track selection strategies. Local DJs imported vinyl records, bringing the latest international electronic music trends into Taiwan and attempting to incorporate local elements, searching for a distinctive sound for Taiwan electronic music.
+In 1998, DJ Tiger and Chin founded **TeXound**, which became a landmark club in Taiwanese electronic music history.[^4] The Roxy series bars run by Ling Wei were where many people danced for the first time; **ROXY 99** was located in a basement on Jinshan South Road for many years before moving to Fuxing South Road in 2013.[^5]
 
-### Lim Giong: A Key Bridge for Local Electronic Music
+### Lim Giong: A Key Bridge of Local Electronics
 
-In the 1990s, **Lim Giong** (林強) shook the music world with his Taiwanese-language rock album _Marching Forward_ (向前走); he subsequently shifted toward electronic music, collaborating with directors such as Hou Hsiao-hsien to produce film scores for several Taiwan films that blended traditional sounds with electronic textures. Lim Giong crossover path—from pop rock to experimental electronic music to film scoring—represents the earliest and most widely influential local coordinate in Taiwan electronic music. He is also one of the few figures who introduced the international music community to electronic music through a distinctly Taiwan context.[^6]
+In 1990, **Lim Giong** (林強) shook the music scene with his Tâi-gí (Taiwanese Hokkien) rock album _Go Forward_. Starting in 1993, his work gradually shifted toward electronic music, and he also scored films by directors such as Hou Hsiao-hsien, including _Farewell South China_ and _Millennium Mambo_.[^6] His path moved from Tâi-gí pop rock to electronic experimentation, and then into film scoring.
 
-## The Seeds of Commercialization (2000–2010): From Underground to Above Ground
+## Budding Commercialization (2000-2010): From Underground to Above Ground
 
-### The Rise and Crackdown of Nightlife Culture
+### The Rise and Crackdown of Nightclub Culture
 
-In the early 2000s, the scale of Taiwan nightlife culture expanded, and electronic music moved from underground warehouses to proper nightclub spaces, reaching a broader audience. Nightclubs in Xinyi District and the Eastern District of Taipei became new hubs for electronic music. Styles such as House, Trance, Drum & Bass, and Breakbeat each found their own audiences, and DJ culture shifted from amateur hobby to professional career path.
+In the early 2000s, the scale of Taiwan's nightlife expanded; electronic music moved from outdoor parties and small clubs into larger venues, reaching a broader audience. Mainstream nightclubs and underground venues in Xinyi District, Taipei, developed separately, with styles like House, Trance, Drum & Bass, and Breakbeat each finding their audience, and DJ culture evolving from an amateur hobby to a professional path.
 
-However, the **MDMA (ecstasy) crackdown of 2003–2005** was a pivotal moment in the scene evolution. Police launched concentrated raids on established nightclubs and party spaces, forcing some venues to close and causing the scale of underground parties to shrink dramatically. This also pushed the scene toward more decentralized and covert modes of operation. This wave of enforcement accelerated the structural divergence within the Taiwan electronic music scene: the gap between large-scale commercial nightclubs and deep underground circles widened from this point onward.
+However, **the intensive police inspections of electronic dance clubs starting in 2003** were a crucial turning point for the scene's evolution. Police would raid every weekend looking for ecstasy pills, leading TeXound to close after its farewell party in January 2004.[^7] The scaled-up commercial nightclubs and underground circles subsequently took different paths.
 
-The **LGBT queer party scene** quietly flourished during the same period. Centered around the Red House (紅樓) area in Taipei, queer parties connected the dual energies of electronic music culture and gender liberation, becoming one of the most vibrant and community-driven branches of the Taiwan electronic music scene—an influence that continues to shape the Taipei electronic music event landscape to this day.
+The **LGBT queer party** emerged almost simultaneously with Taiwanese electronic music. Starting in 1995, Victor Cheng held Paradise parties at Underground, which are considered the first regular series of gay parties in Taiwan.[^2] In the late 1990s, the area around Ximen Honglou also became a favored gathering place for the LGBTQ community due to its secluded environment.[^8]
 
 ### Deepening International Exchange
 
-The spread of the internet and the evolution of music production software gave Taiwan electronic music creators more opportunities to connect with the international community. Some DJs began receiving invitations to perform overseas, while more international DJs came to Taiwan, raising the density of exchange within the local scene.
+The popularization of the internet and the evolution of music production software provided Taiwanese electronic music creators with more opportunities to connect internationally. Some DJs began being invited to perform overseas, while many international DJs came to Taiwan, increasing the density of local scene exchanges.
 
-## The Era of Internationalization (2010–Present): Taiwan Electronic Music on the Global Stage
+## The International Era (2010-Present): Taiwan's Global Footprint in EDM
 
-### The Road to Ultra Milestone
+### Milestones of Road to Ultra
 
-On the festival axis, **Spring Scream (春吶)** has been held annually in Kenting since 1995, centered on rock music while incorporating an electronic dance music stage, making it one of the earliest platforms in Taiwan to place electronic music within the context of a large-scale music festival. In 2013, Ultra Music Festival held "Road to Ultra Taiwan" for the first time, bringing Taiwan electronic music into the international mainstream spotlight. Subsequently, local large-scale EDM festivals such as Looptopia were also held, attracting electronic music enthusiasts from across Asia and establishing Taipei position on the Asian electronic music map. These events also provided opportunities for local Taiwan electronic artists to share the stage with international DJs.[^2]
+In the lineage of large music festivals, **Spring Scream** was held annually in Kenting from 1995 to 2019, primarily featuring rock music. In 2014, Ultra Music Festival first appeared as Road to Ultra, and it upgraded to Ultra Taiwan in 2018.[^9] In 2017, Looptopia, the first local multi-day, multi-stage electronic music festival in Taiwan, opened, attracting 32,000 people for its first edition.[^10] These stages also provided opportunities for local electronic musicians to share a stage with international DJs.
 
-### The International Rise of Taiwan DJs
+### The International Rise of Taiwanese DJs
 
-Two representative Taiwan DJs rose to the international stage during this period: **Sonia Calico** earned recognition within the international community of female DJs through her refined musical taste and professional DJ skills; **RayRay**, with an innovative performance style, was frequently invited to perform at international music festivals. Both have received coverage from international electronic music media such as Resident Advisor, representing the highest level of overseas visibility for Taiwan electronic music and providing concrete role models for the next generation of musicians.[^3]
+Two Taipei DJs rose internationally during this period: **Sonia Calico**, who grew up in Taipei and remains based there, founding the label UnderU and collaborating with producers from Taipei, Beijing, and Tokyo.[^11] **RayRay** participated in DJ competitions in Asia and Canada, winning the Red Bull Thre3style Taiwan championship in 2013.[^12]
 
 ### The Experimental Spirit of Independent Electronic Labels
 
-Alongside the flourishing of mainstream EDM festivals, Taiwan is also home to independent musicians known for their experimental spirit. **Meuko! Meuko!** is a solo project by a musician who has gained attention in the international experimental electronic music scene through avant-garde sound experiments and cross-disciplinary collaborations. The work fuses noise, ambient, and elements of traditional Eastern music, and has been released through collaborations with several international labels.[^4] The local scene also includes record shops such as Vacation Records, which serve as community hubs connecting vinyl collector culture with the community of electronic music creators.
+Beyond mainstream EDM festivals, there are musicians in Taiwan who follow an experimental path. **Meuko! Meuko!** is a personal project by Taipei artist Pon, whose work mixes noise, field recordings, and traditional sounds, gaining attention in the international experimental electronic scene after being released on Danse Noire in 2018.[^13] She is also one of five Taiwanese musicians featured in the Sea Cucumber label release _FINAL Taipei Compilation_.[^14]
 
 ## Contemporary Developments and Challenges
 
-### Online Transformation During the Pandemic
+### Club Succession Before and After the Pandemic
 
-After the outbreak of the pandemic in 2020, traditional parties and music festivals were severely impacted. The Taiwan electronic music scene developed new formats such as live-streamed DJ sets and virtual music festivals to maintain community cohesion.[^5]
+The pandemic halted most parties and festivals in 2020. In November of that year, Road to Ultra: Taiwan became the first large-scale event hosted by Ultra after the outbreak.[^15]
 
-In the post-COVID era, several long-standing venues closed their doors. **Korner** (located in the basement level of Taipei Daan District) was a core node of the Taipei techno/house underground scene in the 2010s, known for its strict curatorial taste and marathon parties running from late night into the early morning. It enjoyed a strong reputation across the Asian electronic music community but closed after the COVID pandemic. Other venues active during the same period—**Pawnshop**, **Pipe**, and others—each contributed their own curatorial direction to the underground electronic music ecosystem of Taipei; **Final** focused primarily on live performances, providing a space for experimental electronic music. After this wave of closures, a new generation of venues and irregular pop-up parties have taken over their community functions.
+The starting point for contemporary underground electronic music in Taipei was **Korner**, a basement club on Roosevelt Road, which was the first space dedicated exclusively to independent electronic music in Taipei.[^16] It closed in 2019, before the pandemic. A subsequent group of clubs took over: the same group opened **Pawnshop** in December 2019,[^17] and **Final** opened in 2018,[^14] along with Grey Area and Studio 9; most of these venues survived the pandemic restrictions, relying on advance ticket sales from regular patrons.[^18]
 
-Taiwan electronic music is also exploring a more distinct local style: some musicians are remixing Taiwanese-language and Hakka-language songs, or sampling traditional instrument sounds and incorporating them into electronic production, attempting to establish a locally rooted "Taiwan-style electronic music" vocabulary.
+Taiwanese electronic music is also exploring clearer local styles: some musicians remix Tâi-gí (Taiwanese Hokkien) or Hakka songs, or sample traditional instrument sounds in electronic productions, attempting to establish a vocabulary of "Taiwanese EDM" with local roots.
 
 ## References
 
-[^1]: [Resident Advisor — Taiwan](https://ra.co/promoters/tw) — RA Taiwan electronic music event database, including historical records of underground parties and venue information.
+[^1]: [Soundtraces — rave timeline](https://soundtraces.tw/en/tag/rave-en/) — The first outdoor rave at Ershou Floodway in 1995, Taipei Tribal Massive at Meihuahu Lake in 1996, and the launch of _PLUR_ magazine in 1997.
 
-[^2]: [Looptopia Festival Official Website](https://looptopia.com.tw/) — Information on Taiwan local EDM festival and past lineups.
+[^2]: [Victor Cheng interview — Electric Soul/New Bloom](https://nomanisanis.land/victor-cheng-interview/) — Paradise parties starting in 1995, the first regular series of gay parties in Taiwan; Twilight Zone was located near Guanghua Plaza on Songjiang Road.
 
-[^3]: [Sonia Calico — Resident Advisor Profile](https://ra.co/dj/soniacalico) — International electronic music media coverage and performance records for Taiwan DJ Sonia Calico.
+[^3]: [PLUR — Wikipedia](https://en.wikipedia.org/wiki/PLUR) — PLUR is a principle of rave culture originating from the United States and gaining traction in the early 1990s.
 
-[^4]: [Meuko! Meuko! — Bandcamp](https://meukomeukomusicclub.bandcamp.com/) — Meuko! Meuko! music releases and label collaboration information.
+[^4]: [TeXound — Soundtraces](https://soundtraces.tw/?p=100523) — TeXound was founded by DJ Tiger and Chin in 1998.
 
-[^5]: [Road to Ultra Taiwan Official Information](https://ultrataiwan.com/) — Ultra Music Festival Taiwan edition past performance records.
+[^5]: [Roxy 99 moves — Taipei Times, 2013-09-20](https://taipeitimes.com/News/feat/archives/2013/09/20/2003572559) — ROXY 99 moved from the basement on Jinshan South Road to Fuxing South Road.
 
-[^6]: [Lim Giong — Golden Melody Awards Record](https://www.gca.gov.tw/) — Records of Lim Giong film scores and electronic crossover works.
+[^6]: [Lim Giong — Wikipedia](https://en.wikipedia.org/wiki/Lim_Giong) — _Go Forward_ in 1990, shift to electronics starting in 1993, and scoring for directors such as Hou Hsiao-hsien.
+
+[^7]: [TeXound bows to police pressure — Taipei Times, 2004-01-09](https://taipeitimes.com/News/feat/archives/2004/01/09/2003086984) — Police inspections every weekend led to TeXound closing.
+
+[^8]: [Ximen Honglou — United News Agency](https://udn.com/news/story/120910/7754853) — The area around Ximen Honglou was favored by the LGBTQ community in the late 1990s due to its seclusion.
+
+[^9]: [Ultra Taiwan returns after 5 years hiatus — Taiwan English News](https://www.taiwannews.com.tw/zh/news/4857911) — First appearance as Road to Ultra in 2014, upgraded to Ultra Taiwan in 2018.
+
+[^10]: [LOOPTOPIA made a triumphant debut — Mixmag Asia, 2017-04-18](https://mixmag.asia/read/looptopia-triumphantly-debuted-to-a-crowd-of-32-000-in-taiwan-features) — The first local multi-day, multi-stage electronic music festival in Taiwan, with 32,000 attendees for its first edition.
+
+[^11]: [Sonia Calico interview — The FADER, 2017-02-02](https://www.thefader.com/2017/02/02/sonia-calico-interview) — Grew up in Taipei and is based there, founding the label UnderU.
+
+[^12]: [RayRay — infomag, 2017-05](https://infomag.es/2017/05/rayray-omni-club-tw-tifon-creativo/) — Participated in DJ competitions in Asia and Canada, winning Red Bull Thre3style Taiwan champion in 2013.
+
+[^13]: [Meuko! Meuko! — Gray Area](https://grayarea.org/?p=44971) — A personal project by Taipei artist Pon, released on Danse Noire in 2018.
+
+[^14]: [FINAL Taipei Compilation — Taiwan English News](https://www.taiwannews.com.tw/news/4845857) — The Sea Cucumber compilation featured five Taiwanese musicians, and the FINAL club was established in 2018.
+
+[^15]: [Ultra Music Festival — Wikipedia](https://en.wikipedia.org/wiki/Ultra_Music_Festival) — Road to Ultra: Taiwan in November 2020 was the first large-scale event by Ultra after the pandemic.
+
+[^16]: [Venue Spotlight: Korner — Mixmag Asia](https://mixmag.asia/read/venue-spotlight-korner-venue-spotlight) — The first space dedicated exclusively to independent electronic music in Taipei.
+
+[^17]: [Pawnshop opens in Taipei — Mixmag Asia, 2019-12-03](https://mixmag.asia/read/pawnshop-opens-in-taipei-as-a-3-room-venue-dedicated-to-underground-music-1-local) — A three-room club opened by the original team from Korner.
+
+[^18]: [Techno finds its place in Taipei's art scene — AmCham Taiwan, 2023-03](https://topics.amcham.com.tw/2023/03/techno-finds-its-place-in-taipeis-art-scene/) — Korner closed in 2019; most of the subsequent clubs survived pandemic restrictions.
 
 ## Further Reading
 
-- [Resident Advisor — Taiwan](https://ra.co/promoters/tw) — International electronic music media Taiwan database
-- [Looptopia Festival](https://looptopia.com.tw/) — Taiwan local EDM festival official website
+- [Soundtraces](https://soundtraces.tw/) — A database of post-war sound culture in Taiwan, containing a timeline of dance music and rave.
+- [Resident Advisor — Taiwan](https://ra.co/promoters/tw) — Database for international electronic music media in Taiwan.
