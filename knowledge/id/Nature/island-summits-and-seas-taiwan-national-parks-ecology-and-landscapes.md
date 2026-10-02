@@ -1,15 +1,15 @@
 ---
-title: 'Puncak Gunung dan Laut Pulau: Ekologi dan Lanskap Geologi Taman Nasional Taiwan'
-description: 'Menjelajahi ekosistem unik dan nilai konservasi sembilan taman nasional Taiwan, lanskap lengkap dari pantai subtropis hingga garis salju pegunungan tinggi'
+title: 'Puncak Pegunungan dan Lautan Pulau: Ekosistem dan Landskap Taman Nasional Taiwan'
+description: 'Jelajahi ekosistem unik dan nilai konservasi dari sembilan Taman Nasional Taiwan, dari pesisir subtropis hingga garis salju pegunungan tinggi'
 date: 2026-03-19
 category: 'Nature'
 tags:
   [
-    'Taman Nasional',
-    'Konservasi Ekologi',
-    'Lanskap Alam',
-    'Keanekaragaman Hayati',
-    'Perlindungan Lingkungan',
+    'taman nasional',
+    'konservasi ekologi',
+    'lanskap alam',
+    'keanekaran hayati',
+    'perlindungan lingkungan',
   ]
 subcategory: '國家公園與步道'
 author: 'Taiwan.md'
@@ -19,121 +19,114 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Nature/台灣國家公園.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:c51eb1a165d6a2f5'
-sourceBodyHash: 'sha256:99620fa1348fdcfe'
-translatedAt: '2026-09-13T05:56:48+08:00'
+sourceCommitSha: '7f5cc659d'
+sourceContentHash: 'sha256:6b8c18165d43ed48'
+sourceBodyHash: 'sha256:90c0aa43021fbb5f'
+translatedAt: '2026-10-03T04:11:36+08:00'
 ---
 
-# Puncak Gunung dan Laut Pulau: Ekologi dan Lanskap Geologi Taman Nasional Taiwan
+# Puncak Pegunungan dan Lautan Pulau: Ekosistem dan Landskap Taman Nasional Taiwan
 
-## 30 Detik Ringkasan
+## 30 Detik Gambaran
 
-Taiwan memiliki 9 Taman Nasional + 1 Taman Nasional Alam, mencakup ekosistem lengkap dari permukaan laut hingga puncak Yushan utama 3.952 meter. Taman-taman nasional ini melindungi aset alam dan budaya paling berharga Taiwan, termasuk spesies endemik, situs warisan budaya masyarakat adat, serta lanskap geologi kelas dunia. Mulai dari pembentukan Balai Pengelola Taman Nasional Kenting pada **1984/1/1** (rencana diumumkan 1982), hingga **2011/12/6** pembukaan Taman Nasional Alam Shoushan (Taman Nasional Alam pertama Taiwan), sampai **2023/9/20** resmi terbentuknya **Direktorat Jenderal Taman Nasional Kementerian Dalam Negeri**, sistem taman nasional Taiwan telah menjadi jaringan perlindungan keanekaragaman hayati penting di Asia. **Gempa Taroko 2024/4/3** menimpa Taman Nasional Taroko dengan dampak menghancurkan, menjadi tantangan konservasi terbesar saat ini.[^1]
+Taiwan memiliki 9 Taman Nasional + 1 Taman Alam Nasional, yang mencakup ekosistem lengkap dari permukaan laut hingga puncak Gunung Yu (3.952 meter). Taman-taman nasional ini melindungi kekayaan alam dan budaya paling berharga di Taiwan, termasuk spesies endemik, situs budaya suku asli, serta pemandangan geologi berkelas dunia. Sejak pendirian kantor pengelola Taman Nasional Kenting pada 1 Januari 1984 (rencana diumumkan 1982), hingga 6 Desember 2011 Taman Alam Nasional Shoushan dibuka (Taman Alam Nasional pertama di Taiwan), hingga 20 September 2023 Kantor Taman Nasional Taiwan secara resmi didirikan, sistem Taman Nasional Taiwan telah menjadi jaringan penting perlindungan keanekaran hayati di Asia.[^1] Gempa bumi di Hualien pada 3 April 2024 menyebabkan jalur-jalur terbuka di Taman Nasional Taroko mengalami runtuh dan tempat-tempat utama ditutup.[^2]
 
-**Kata kunci**: Taman Nasional, konservasi ekologi, spesies endemik, keanekaragaman lanskap, pendidikan lingkungan
+**Kata kunci**: taman nasional, konservasi ekologi, spesies endemik, keanekaragaman lanskap, pendidikan lingkungan
 
-## Mengapa Penting
+## Mengapa Ini Penting
 
-Di pulau Taiwan seluas 36.000 km², sembilan taman nasional menghubungkan gradien ekologis lengkap dari pantai tropis hingga garis salju pegunungan tinggi, melindungi lebih dari 30% wilayah daratan Taiwan. Kepadatan ini langka dalam sistem taman nasional global, tidak hanya melindungi 2.500+ spesies endemik, tetapi juga menjadi tempat perlindungan biologis yang berharga di era perubahan iklim.[^5]
+Total area darat dari sembilan Taman Nasional dan Taman Alam Nasional Shoushan adalah sekitar 3.110 km², yang menyusuri 8,7% dari total luas negara. Termasuk kawasan laut, total luasnya sekitar 7.500 km² (perkiraan akhir 2020).[^1] Dari pesisah tropis hingga garis salju pegunungan tinggi, mereka membentuk satu rangkaian ekosistem ekologi lengkap, juga menjadi tempat persembunyian bagi spesies-spesies yang terancam akibat perubahan iklim.
 
-Pendirian taman nasional menyelamatkan lanskap primer terakhir Taiwan dari gelombang industrialisasi. Taman Nasional Yushan melindungi salah satu puncak tertinggi Asia Timur, Taman Nasional Shei-Pa menjaga salmon cherry Taiwan, Taman Nasional Laut menjaga ekosistem terumbu karang. Kawasan perlindungan ini adalah gudang keanekaragaman hayati Taiwan, sekaligus tempat generasi mendatang mengenal alam, belajar, dan hidup berdampingan dengan lingkungan.
+Pendirian Taman Nasional memungkinkan Taiwan menyelamatkan pemandangan alam terakhir dari gelombang industrialisasi. Taman Nasional Yu Shan melindungi puncak tertinggi di Taiwan, Gunung Yu; Taman Nasional Xueshan melindungi ikan salmon bunga Tionghoa Taiwan; Taman Nasional Lautan melindungi ekosistem terumbu karang. Zona perlindungan ini adalah gudang keanekarans hayati Taiwan, juga merupakan tempat bagi generasi mendatang untuk memahami alam dan belajar hidup berdampingan dengan lingkungan.
 
-## Harta Karun Ekologis Sembilan Taman Nasional
+## Khasiat Ekologi dari Sembilan Taman Nasional
 
-### Taman Nasional Daratan: Perlindungan Lengkap dari Pegunungan Tinggi ke Lautan
+### Taman Nasional Darat: Perlindungan Lengkap dari Pegunungan hingga Laut
 
-**Taman Nasional Kenting (rencana diumumkan 1982, Balai Pengelola dibentuk 1984/1/1)**
-Berada di ujung selatan Pulau Hengchun, ini adalah Taman Nasional pertama Taiwan. Di sini dilindungi hutan pantai tropis satu-satunya Taiwan, dengan 1.200+ spesies tumbuhan, di mana proporsi spesies endemik mencapai seperempat. Angin turun gunung (angin katabatik) Oktober hingga Maret tahun berikutnya menciptakan lanskap pantai terumbu karang dan ekosistem padang rumput unik. Musim migrasi burung, pemandangan elang kelabu melintas di Xiangshan, dinamakan "pertemuan alami Burung Hari Kemerdekaan".
+**Taman Nasional Kenting (rencana diumumkan 1982, kantor pengelola didirikan 1 Januari 1984)**
+Terletak di ujung selatan pulau Taiwan, Semenanjung Hengchun, ini adalah Taman Nasional pertama di Taiwan. Di sini dilindungi hutan pesisah tropis yang langka di Taiwan, dengan sekitar 1.700 spesies tumbuhan tercatat.[^1] Setiap tahun dari Oktober hingga Maret tahun berikutnya terjadi angin monsun. Pada musim migrasi burung, banyak elang hiruk pulau yang lewat, sehingga disebut "burung nasional".
 
-**Taman Nasional Yushan (didirikan 1985)**
-Mencakup Puncak Utama Yushan (3.952 meter) dan gunung-gunung sekitarnya, merupakan Taman Nasional terluas Taiwan. Dari hutan latifolia subtropis hingga padang rumput pegunungan tinggi, lengkap menyimpan zona vegetasi vertikal Taiwan. Beringin Yushan, cemara Taiwan, dan tumbuhan pegunungan tinggi lainnya membentuk ekosistem pegunungan tinggi khas Asia Timur di sini. Situs warisan budaya suku Bunun di kawasan taman menyaksikan kebijaksanaan ribuan tahun koeksistensi masyarakat adat dengan lingkungan pegunungan tinggi.
+**Taman Nasional Yu Shan (didirikan 1985)**
+Mencakup puncak Gunung Yu (3.952 meter) dan kawasan pegunungan di sekitarnya, ini adalah Taman Nasional dengan luas area darat terbesar di Taiwan.[^1] Dari hutan daun lebar subtropis hingga padang rumput pegunungan tinggi, ekosistem vegetasi vertikal Taiwan tersimpan dengan utuh. Pohon kelapa Yu Shan, pinus Taiwan, dll., membentuk sistem ekologi pegunungan unik di Asia Timur. Situs budaya suku Bunun di dalam kawasan ini menyaksikan kebijaksanaan hidup berdampingan antara suku asli dan lingkungan pegunungan selama ribuan tahun.
 
 **Taman Nasional Yangmingshan (didirikan 1985)**
-Kawasan perlindungan lanskap geologi gunung api berdekatan dengan metropolitan Taipei, melindungi lanskap aktivitas pasca-gunung api sistem Gunung Datun. Lubang uap belerang, kristal belerang Xiaoyoukeng, menampilkan keaktifan geologi Taiwan. Bunga cherry musim semi, bunga rumput musim gugur, serta sumber air panas kaya, menjadikan Yangmingshan Taman Nasional paling ramah Taiwan.
+Terletak di dekat kawasan Metropolitan Taipei, ini adalah zona perlindungan lanskap vulkanik pasca-letusan Gunung Datun. Ventilasi kecil di Small Oil Pitmenunjukkan aktivitas geologi yang dinamis di Taiwan. Pada musim semi, bunga kirai mekar; pada musim gugur, bunga kemboja, ditambah sumber daya air panas yang kaya, menjadikan Yangmingshan sebagai Taman Nasional paling ramah bagi pengunjung.
 
 **Taman Nasional Taroko (didirikan 1986)**
-Dikenal dunia karena lanskap kanyon batuan marmer yang terbentuk oleh Sungai Liwu, dipuji sebagai "lanskap kanyon marmer kelas dunia". Kanyon marmer Yanzi Kou dan Jiouqu Dong, adalah hasil gerakan tektonik dan erosi Sungai Liwu selama jutaan tahun. Budaya suku Tarako di kawasan taman, bersama lanskap kanyon membentuk pemandangan alam dan budaya yang unik.
+Terkenal karena formasi gorge yang terbelah oleh Sung Paku, terutama lautan batu marmer. Disebut "pemandangan alam kelas dunia formasi marmer". Lembah marmer di Yanzi Kong dan Jiuqu Dong adalah hasil dari gerakan kulit bumi dan erosi Sung Paku selama jutaan tahun. Budaya suku Taroko di dalam kawasan ini, bersama formasi gorge, menciptakan pemandangan alam dan budaya yang unik.
 
-**Taman Nasional Shei-Pa (didirikan 1992)**
-Melindungi inti Pegunungan Xueshan, dengan Puncak Utama Xueshan dan Dabajian Shan sebagai inti. Di sini adalah habitat terakhir salmon cherry Taiwan, lingkungan air dingin Sungai Qijiawan menopang kelangsungan hidup spesies sisa era es ini. Kelompok pohon hinoki raksasa di Guanwu, menyaksikan ribuan tahun sejarah hutan Taiwan.
+**Taman Nasional Xueshan (didirikan 1992)**
+Melindungi inti Pegunungan Xueshan, dengan fokus pada Gunung Xueshan dan Gunung Dabashan. Ini adalah tempat terakhir bagi ikan salmon bunga Tionghoa Taiwan bertahan hidup, aliran dingin di Sung Qijia menjaga kelangsungan hidupnya. Kawasan Qingmu baga-baga pohon jati raksasa menyaksikan sejarah ribuan tahun hutan Taiwan.
 
-**Taman Nasional Kinmen (didirikan 1995)**
-Melindungi lanskap budaya medan perang unik Pulau Kinmen dan habitat burung migran. Permukiman rumah tua, fasilitas medan perang, dan ekologi alam saling bergabung, membentuk lanskap budaya militer langka di dunia. Kormoran, itik bersayap bercak, dan burung migran lain menginap di sini, Danau Ci dan Danau Lingshui adalah sistem ekologi lahan basah utama Kinmen.
+**Taman Nasional Jinmen (didirikan 1995)**
+Melindungi lanskap budaya militer unik di Pulau Jinmen dan habitat burung migratory. Perkampungan rumah tua, fasilitas militer, dan ekologi alam berbaur menjadi pemandangan budaya militer yang langka di dunia. Setiap tahun sejak Oktober, puluhan ribu burung cungur datang ke Jinmen untuk musim dingin, terutama di Danau Ci, Danau Yangming, Danau Lingshui.[^3]
 
-**Taman Nasional Taijiang (didirikan 2009)**
-Taman Nasional kedelapan Taiwan, melindungi lanskap laguna, lahan basah, dan tambak ikan pesisir Tainan. Lahan basah muara Sungai Zengwen adalah tempat menginap musim dingin penting bagi ibis muka hitam, setiap tahun menarik sekitar sepertiga populasi global ibis muka hitam ke sini. Keseimbangan budaya perikanan tradisional dan konservasi modern, menunjukkan kemungkinan pemanfaatan berkelanjutan.
+**Taman Nasional Taiwanjiang (didirikan 2009)**
+Taman Nasional ke-8 di Taiwan, melindungi laguna, rawa-rawa, dan lahan pertambangan di pesisah Selatan Taiwan. Rawa di muara Sung Zhenwen adalah tempat penting bagi burung bekantan hitam untuk bertahan hidup. Pada tahun 2026, sensus global mencatat 7.746 ekor bekantan hitam, dengan 4.719 ekor di Taiwan, sekitar 60%, dan Tainan berhasil mencatat lebih dari 2.000 ekor selama 6 tahun berturut-turut.[^4] Keseimbangan antara budaya tradisional nelayan dan konservasi modern menunjukkan kemungkinan penggunaan berkelanjutan.
 
-**Taman Nasional Empat Pulau Selatan Penghu (didirikan 2014)**
-Taman Nasional kesembilan Taiwan, melindungi ekosistem laut Empat Pulau Selatan Penghu (Dongyupingyu, Xiyupingyu, Dongjiyu, Xijiyu). Lanskap erosi laut batuan basalt, ekosistem terumbu karang, dan tempat berkembang biak burung laut, membentuk jaringan ekologi pulau yang erat kaitannya.
+### Taman Alam Nasional: Perlindungan Hijau Kota
 
-### Taman Nasional Alam: Perlindungan Paru-Paru Hijau Perkotaan
+**Taman Alam Nasional Shoushan (dibuka 6 Desember 2011)**
+Taman Alam Nasional pertama di Taiwan, melindungi formasi batu kapur karang di Pulau Haishen dan keanekaragaman hayati di kawasan metropolitan. Kelompok monyet Taiwan bertahan di sini bersama kota, menunjukkan model baru konservasi ekologi metropolitan.
 
-**Taman Nasional Alam Shoushan (dibuka 2011/12/6)**
-Taman Nasional Alam pertama Taiwan (bukan 2024), melindungi lanskap batuan kapur terumbu karang di kawasan Shoushan Kaohsiung dan keanekaragaman hayati wilayah perkotaan. Kelompok monyet Taiwan hidup berdampingan harmonis dengan perkotaan di sini, menampilkan model baru konservasi ekologi wilayah perkotaan.
+## Taman Nasional Laut: Penjaga Laut Biru
 
-## Taman Nasional Laut: Penjaga Wilayah Biru
+**Taman Nasional Pulau Dongsha (didirikan 2007)**
+Taman Nasional ke-7 di Taiwan, juga Taman Nasional Laut pertama, melindungi ekosistem terumbu karang Laut Selatan di Pulau Dongsha. Terumbu karang dengan diameter sekitar 25 km tersimpan utuh, merupakan Taman Nasional dengan luas terbesar di Taiwan (termasuk laut).[^1]
 
-**Taman Nasional Atol Dongsha (didirikan 2007)**
-Taman Nasional ketujuh Taiwan, juga Taman Nasional Laut pertama, melindungi ekosistem atol Dongsha di Laut China Selatan. Atol berdiameter ~25 km terjaga utuh, tutupan terumbu karang tinggi, menjadi habitat inti penyu laut, paus dan lumba-lumba, serta biota laut lainnya.
-
-**Wilayah Laut Taman Nasional Taijiang**
-Selain lahan basah daratan, Taman Nasional Taijiang juga melindungi ekosistem laguna dan muara sungai pesisir Tainan, merupakan kawasan perlindungan laut di pesisir barat daya Taiwan.
+**Taman Nasional Pulau Nansha Selatan (didirikan 2014)**
+Taman Nasional ke-9 di Taiwan, melindungi ekosistem laut Pulau Nansha Selatan (Pulau Dongping, Pulau Xiping, Pulau Dongji, Pulau Xiji). Formasi abrasi bazalt, terumbu karang, dan habitat burung dapat bertahan, membentuk jaringan ekologi pulau yang saling terhubung.
 
 ## Tantangan Konservasi dan Prospek Masa Depan
 
-### 2023/9/20 Pembentukan Direktorat Jenderal Taman Nasional
+### Pendirian Kantor Taman Nasional pada 20 September 2023
 
-20 September 2023, Kementerian Dalam Negeri resmi mendirikan **Direktorat Jenderal Taman Nasional** (dahulu Bagian Taman Nasional Direktorat Jenderal Konstruksi Kementerian Dalam Negeri), merupakan reformasi organisasi besar sistem manajemen taman nasional Taiwan. Direktorat Jenderal Taman Nasional mengoordinasikan kebijakan dan manajemen 9 Taman Nasional dan 1 Taman Nasional Alam se-Taiwan, meningkatkan profesionalisme dan independensi pekerjaan konservasi.
+Pada 20 September 2023, Kementerian Dalam Negeri secara resmi mendirikan **Kantor Taman Nasional Taiwan** (sebelumnya bagian Taman Nasional di Kantor Konstruksi Kementerian Dalam Negeri), sebagai perubahan organisasi penting dalam sistem pengelolaan Taman Nasional Taiwan. Kantor Taman Nasional Taiwan mengatur kebijakan dan koordinasi pengelolaan untuk 9 Taman Nasional dan 1 Taman Alam Nasional di seluruh negeri, meningkatkan profesionalisme dan kemandirian kerja konservasi.
 
-### Gempa Taroko 2024/4/3: Tantangan Konservasi Terbesar
+### Gempa Bumi Hualien pada 3 April 2024: Taroko Ditutup
 
-**3 April 2024 pukul 07:58 WIB**, lepas pantai Hualien terjadi gempa kuat (CWB M_L 7.2 / USGS M_w 7.4, kedalaman hiposentrum 15,5 km), intensitas gempa mencapai 6 Kuat. Taman Nasional Taroko adalah kawasan terdampak terparah — Jalan kaki Sandikao, Jalan kaki Baiyang, Jiouqu Dong, Yanzi Kou, dan tempat terkenal lain ditutup sepenuhnya, banyak segmen jalan roboh, dinding batu longsor. Gempa menewaskan beberapa orang termasuk wisatawan di Jalan kaki Sandikao, Taman Nasional Taroko segera menutup tempat-tempat utama tanpa batas waktu.[^4]
+Pada pukul 07.58, 3 April 2024, terjadi gempa bumi kuat di perairan Hualien (Badan Meteorologi awal melaporkan magnitudo 7.2 SR, kedalaman 15.5 km, getaran maksimum di Hualien 6.0 skala Jepang, USGS magnitudo 7.4).[^2] Di dalam kawasan Taman Nasional Taroko, banyak jalur seperti Shakaluo, Yulan, Jiuqu Dong, Yanzi Kong mengalami runtuh dan lepas, banyak orang tewas termasuk pengunjung di Shakaluo, dan tempat-tempat utama pun segera ditutup.
 
-Gempa ini adalah guncangan geologi terbesar sejak Taman Nasional Taroko didirikan 1986, pekerjaan rekonstruksi diperkirakan butuh beberapa tahun bahkan lebih dari sepuluh tahun. Penutupan Taroko juga memengaruhi pariwisata Hualien, kerugian industri terkait diperkirakan melebihi puluhan miliar.
+Penutupan Taroko juga memberdampak parau pada industri pariwisata Hualien.
 
 ### Dampak Perubahan Iklim
 
-Seiring pemanasan global, ekosistem pegunungan tinggi Taiwan menghadapi tekanan "migrasi ke atas". Zona hutan jarum subtropis di Taman Nasional Yushan, Shei-Pa, dan pegunungan tinggi lain menyusut, spesies yang beradaptasi dengan iklim kutub menghadapi tantangan kelangsungan hidup. Taman Nasional Laut menghadapi kenaikan suhu laut, asidifikasi lautan, luas pembelahan warna terumbu karang terus memperluas dalam sepuluh tahun terakhir.
+Seiring pemanasan global, ekosistem pegunungan tinggi Taiwan menghadapi tekanan "migrasi ke atas". Hutan pinus sub-pegunungan di Yu Shan dan Xueshan mungkin semakin mengecut, spesies yang beradaptasi dengan iklim dingin menghadapi tantangan bertahan hidup. Taman Nasional Laut menghadapi ancaman kenaikan suhu laut, asamifikasi laut, dan pembelahan karang.
 
-### Manajemen Tekanan Antropogenik
+### Pengelolaan Tekanan Manusiawi
 
-Kepadatan penduduk Taiwan tinggi, kawasan sekitar taman nasional sering menghadapi tekanan pengembangan. Tekanan urbanisasi Taman Nasional Yangmingshan, dampak pariwisata Taman Nasional Taroko, semuanya perlu mencari titik keseimbangan antara konservasi dan pemanfaatan.
+Taiwan memiliki kepadatan penduduk tinggi, sehingga Taman Nasional sering menghadapi tekanan pembangunan. Tekanan urbanisasi di Taman Nasional Yangmingshan, dampak pariwisata di Taman Nasional Taroko, semuanya perlu menemukan keseimbangan antara konservasi dan penggunaan.
 
-### Hak Masyarakat Adat dan Konservasi
+### Hak Asli Suku dan Konservasi
 
-Banyak taman nasional berada di wilayah tradisional masyarakat adat, bagaimana mencari keseimbangan antara tujuan konservasi dan hak budaya masyarakat adat, adalah isu penting manajemen taman nasional Taiwan. "Mekanisme pengelolaan bersama" yang didorong tahun-tahun terakhir, melibatkan masyarakat adat berpartisipasi dalam manajemen konservasi, menampilkan model baru koeksistensi harmonis budaya dan alam.
+Banyak Taman Nasional terletak di wilayah tradisional suku asli, bagaimana menemukan keseimbangan antara tujuan konservasi dan hak budaya suku asli adalah masalah penting dalam pengelolaan Taman Nasional Taiwan. Mekanisme "kerja sama bersama" yang dikembangkan baru-baru ini memungkinkan suku asli berpartisipasi dalam pengelolaan konservasi, menunjukkan model baru harmoni antara budaya dan alam.
 
 ## Pendidikan Ekologi dan Pariwisata Berkelanjutan
 
-Taman Nasional Taiwan mendorong pendidikan lingkungan, dari interpretasi geologi Taroko, pendidikan ekologi pegunungan tinggi Yushan, hingga pengalaman konservasi lahan basah Taijiang, setiap tahun menarik jutaan warga berpartisipasi. Kegiatan ini secara konkret mendekatkan jarak penduduk perkotaan dengan ekosistem liar.
+Taman Nasional Taiwan mempromosikan pendidikan lingkungan, dari penjelasan geologi di Taroko, pendidikan ekologi pegunungan di Yu Shan, hingga pengalaman konservasi rawa di Taiwanjiang, semua kegiatan ini mendekatkan jarak antara warga kota dan ekosistem alam.
 
-Pendorongan pariwisata berkelanjutan, menjadikan taman nasional teladan pariwisata ekologi. Kegiatan menikmati bunga cherry Taman Nasional Shei-Pa, musim burung migran Kenting, musim bunga Yangmingshan, semuanya berhasil menggabungkan konservasi dan pariwisata, menciptakan kemenangan ganda ekonomi dan ekologi.
+Pariwisata berkelanjutan yang dikembangkan membuat Taman Nasional menjadi contoh pariwisata ekologi. Aktivitas pengamatan bunga di Xueshan, musim burung migratory di Kenting, musim bunga di Yangmingshan, semuanya berhasil menggabungkan konservasi dan pariwisata, menciptakan kemenangan ganda antara ekonomi dan ekologi.
 
 ## Kerja Sama Internasional dan Penelitian
 
-Taman Nasional Taiwan berpartisipasi dalam jaringan konservasi internasional, membangun kerja sama penelitian dengan Jepang, Korea Selatan, Amerika Serikat, dan negara lain. Pemantauan terumbu karang Taman Nasional Atol Dongsha, penelitian ekologi pegunungan tinggi Taman Nasional Yushan, data ilmiah yang dihasilkan telah dikutip oleh IUCN dan organisasi internasional lain.[^6]
+Pemantauan terumbu karang di Pulau Dongsha, penelitian ekologi pegunungan di Yu Shan, secara berkelanjutan mengumpulkan data ekologi jangka panjang di Taiwan.
 
-Kepadatan tipe ekosistem Taiwan berada di peringkat teratas global, dari biologi molekuler hingga manajemen ekosistem, taman nasional adalah laboratorium alami penelitian ilmiah lintas skala.
+Taiwan memiliki kepadatan tipe ekosistem yang tinggi di dunia, dari biologi molekuler hingga manajemen ekosistem, Taman Nasional adalah laboratorium alam semula jadi untuk penelitian ilmiah multi-ukuran.
 
 ---
 
-9 Taman Nasional + 1 Taman Nasional Alam Taiwan, menyimpan warisan alam dan budaya paling berharga pulau ini. Di atas lahan terbatas, mereka menjaga ekosistem lengkap dari pantai subtropis hingga garis salju pegunungan tinggi, menyaksikan proses transformasi Taiwan dari masyarakat pertanian menuju negara modern, di mana nilai perlindungan lingkungan mendapat pengakuan mendalam.
+9 Taman Nasional + 1 Taman Alam Nasional di Taiwan melindungi warisan alam dan budaya paling berharga di pulau ini. Di tanah yang terbatas, mereka menjaga ekosistem lengkap dari pesisah subtropis hingga garis salju pegunungan tinggi, menyaksikan pemahaman mendalam Taiwan tentang perlindungan lingkungan sejak transformasi dari masyarakat pertanian ke negara modern.
 
-Menghadapi tantangan perubahan iklim dan tekanan antropogenik, taman nasional ini berevolusi menjadi jaringan kawasan perlindungan lebih tangguh. Melalui penelitian ilmiah, pendidikan lingkungan, dan manajemen berkelanjutan, mereka melindungi sumber daya alam kontemporer, menyisakan kemungkinan koeksistensi dengan alam bagi generasi mendatang.
+Menghadapi tantangan perubahan iklim dan tekanan manusiawi, Taman Nasional ini sedang berkembang menjadi jaringan perlindungan yang lebih tangguh. Melalui penelitian ilmiah, pendidikan lingkungan, dan pengelolaan berkelanjutan, mereka melindungi sumber daya alam saat ini, menyimpan kemungkinan bagi generasi mendatang untuk hidup berdampingan dengan alam.
 
-Sistem taman nasional Taiwan adalah hasil kolaborasi jangka panjang antara konservasi ekologi dan kebijakan publik, juga mekanisme yang memungkinkan situs warisan budaya masyarakat adat dan lanskap geologi alam tersimpan bersama.
+Sistem Taman Nasional Taiwan adalah hasil kolaborasi jangka panjang antara konservasi ekologi dan kebijakan publik, juga merupakan mekanisme yang memungkinkan warisan budaya suku asli dan lanskap alam tetap terjaga bersama.
 
 ## Referensi
 
-[^1]: [Direktorat Jenderal Taman Nasional Kementerian Dalam Negeri — Pengantar Taman Nasional](https://www.nps.gov.tw/) — Data resmi taman nasional Taiwan, termasuk tahun didirikan, luas, informasi ekologi.
+[^1]: [Pengelolaan dan Operasional Taman Nasional dan Taman Alam Nasional (Statistik Khusus)—Kantor Taman Nasional Taiwan](https://www.nlma.gov.tw/uploads/files/54b03c58b60f1e53823a6835a02bc10d.pdf) — Statistik akhir tahun 2020: tanggal pelaksanaan dan pendirian kantor pengelola masing-masing taman, total area darat 319.759,2 hektar (8,7% dari total negeri), total luas 750.000 hektar, Pulau Dongsha terluas termasuk laut, diikuti Yu Shan, tanaman di Kenting 1.688 spesies.
 
-[^2]: [Taman Budaya Air Chianan — Taman Peringatan Yoichi Hatta](https://www.tainan.gov.tw/) — Latar belakang konstruksi Wushantou dan Chianan, catatan rekayasa Yoichi Hatta.
+[^2]: [Gempa Bumi Hualien Magnitudo 7.2 — Central News Agency, 2024-04-03](https://www.cna.com.tw/news/ahel/202404030091.aspx) — Badan Meteorologi awal melaporkan: pukul 07.58, magnitudo SR 7.2, kedalaman 15.5 km, getaran maksimum di Hualien 6.0 skala Jepang.
 
-[^3]: [Direktorat Jenderal Kehutanan dan Konservasi Alam Kementerian Pertanian — Statistik Keanekaragaman Hayati](https://www.forest.gov.tw/biodiversity) — Statistik jumlah spesies endemik Taiwan, tutupan hutan, dan luas perlindungan taman nasional.
+[^3]: [Burung Cungur di Jinmen—Central News Agency, 2019-01-12](https://www.cna.com.tw/news/aloc/201901120200.aspx) — Taman Nasional Jinmen: burung cungur mulai tiba setiap Oktober, puncak pada Januari melebihi 10.000 ekor, terutama di Danau Ci, Danau Yangming, Danau Lingshui.
 
-[^4]: [Pemerintah Kabupaten Hualien — Catatan Bencana Gempa 2024/4/3](https://www.hl.gov.tw/) — Situasi kerusakan gempa Taman Nasional Taroko, penutupan tempat wisata, dan rencana rekonstruksi.
-
-[^5]: [Akademi Sinica — Daftar Spesies Taiwan TaiCoL](https://taicol.tw/) — Basis data keanekaragaman hayati Taiwan, statistik klasifikasi spesies endemik dan invasif.
-
-[^6]: [Lembaga Informasi Keanekaragaman Hayati Taiwan TaiBIF](https://portal.taibif.tw/) — Platform data distribusi biota Taiwan, catatan observasi spesies.
+[^4]: [Jumlah Bekantan Hitam Mencapai 60% dari Total Global—United Daily News, 2026-04-04](https://udn.com/news/story/7470/9421830) — Sensus global 2026 mencatat 7.746 ekor, Taiwan memiliki 4.719 ekor (60,9%), Tainan berhasil mencatat lebih dari 2.000 ekor selama 6 tahun berturut-turut.
