@@ -320,3 +320,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-10-03 | 053909-twmd-routine-sync | 第 66 輪：十八條三層零漂移，live 逐條補驗零差；過去一天該醒的班都對到 memory | 手動補驗第十次，該交給儀器的那段等週日 self-evolve | [→](memory/2026-10-03-053909-twmd-routine-sync.md) |
 | 2026-10-03 | 055622-twmd-embeddings-nightly | 13 語 14,482 向量 0 fail，verify PASS，`3eb33efd6`；鄰居變動對得上十五篇 zh 巡邏修正與十二語重譯，鍵零增減 | zh 替換少、譯文替換多，是小修變整篇重譯在索引層的痕跡 | [→](memory/2026-10-03-055622-twmd-embeddings-nightly.md) |
 | 2026-10-03 | 060753-twmd-data-refresh-am | 14 步全綠零過期，讓 babel 繼續寫；近七天投稿 15→30 而總數不變，全是巡邏修補 | 封頂的分數會把量錯的讀數藏起來 | [→](memory/2026-10-03-060753-twmd-data-refresh-am.md) |
+| 2026-10-03 | 064158-twmd-spore-harvest-am | 窗口內無孢子，兩個動態頁掃完只有按讚與一筆追蹤，#29 聚合仍 1.5 萬未達重抓條件，合法空場不寫 batch log | 現役批次全過窗時，空場也要寫清楚看了哪兩頁 | [→](memory/2026-10-03-064158-twmd-spore-harvest-am.md) |
