@@ -1,41 +1,41 @@
 ---
-title: 'Akademi Kecerdasan Buatan Taiwan: Telepon yang Tak Sempat Dituntaskan dan Sepuluh Ribu Insinyur AI'
-description: 'Pada 27 Maret 2020, Chen Sheng-wei menelepon pemimpin redaksi CommonWealth Magazine dengan sungguh-sungguh: ia ingin membuka kursus pemrograman gratis untuk seluruh masyarakat. Dua hari kemudian ia terjatuh saat bermain sepatu roda, dan meninggal 13 hari sesudahnya pada usia 44 tahun. Ketika ia meninggal, Akademi Kecerdasan Buatan Taiwan (AIA) yang didirikannya pada 2018 telah melatih lebih dari 6.000 orang. Pada periode yang sama, Dewan Pembangunan Nasional mengumumkan “Strategi Besar AI untuk Negara Kecil” senilai NT$16 miliar selama lima tahun; sementara itu, ia mendirikan akademinya sendiri dengan menghimpun pendanaan swasta NT$180 juta dari enam perusahaan, termasuk Formosa Plastics, Chimei, dan Inventec. Delapan tahun kemudian, jumlah alumninya melampaui sepuluh ribu. Dalam upaya peningkatan industri Taiwan, AIA adalah kepingan teka-teki yang paling tidak menyerupai kelaziman Taiwan.'
-date: '2026-05-18'
-author: 'Taiwan.md'
+title: 'Sekolah Kecerdasan Buatan Taiwan: Telepon yang Tak Selesai Ditelponi, dan Sepuluh Ribu Insinyur AI'
+description: 'Pada 27 Maret 2020, Chen Sheng-wei dengan hati-hati menelpon editor majalah CommonWealth: ia ingin membuka kelas pemrograman gratis untuk semua orang. Dua hari kemudian ia jatuh dari sepeda roda satu, 13 hari kemudian meninggal dunia, berusia 44 tahun. Saat ia meninggal, Sekolah Kecerdasan Buatan Taiwan (AIA) yang ia dirikan pada 2018 telah melatih lebih dari 6.000 orang. Pada periode yang sama, Kementerian Sains dan Teknologi "Strategi Besar Negara Kecil AI" menargetkan 5 tahun NT$16 miliar, namun ia mengandalkan dana swasta sebesar NT$180 juta dari enam perusahaan seperti Formosa Plastics, Chimei, Inventec, dan sebagainya untuk mendirikan sekolahnya sendiri. Delapan tahun kemudian alumni melebihi 10.000 orang. AIA adalah sepotong puzzle yang paling tidak khas Taiwan dalam pengupgradean industri Taiwan.'
+date: 2026-05-18
 category: 'Technology'
-subcategory: '人工智慧'
 tags:
   [
-    'kecerdasan buatan',
-    'pendidikan',
+    'Kecerdasan Buatan',
+    'Pendidikan',
     'Chen Sheng-wei',
     'AIA',
-    'industri teknologi Taiwan',
-    'Academia Sinica',
-    'kebijakan AI',
+    'Industri Teknologi Taiwan',
+    'Akademi Sinica',
+    'Kebijakan AI',
   ]
-readingTime: 18
-lastVerified: '2026-05-18'
-lastHumanReview: true
+subcategory: '人工智慧'
+author: 'Taiwan.md'
 featured: true
+lastVerified: 2026-05-18
+lastHumanReview: true
+readingTime: 18
 image: '/article-images/technology/taiwan-ai-academy-chen-shengwei-portrait-2018.webp'
 imageCredit: '台灣人工智慧學校官方'
 imageLicense: 'Fair use editorial commentary on AIA founder portrait'
 imageSource: 'https://aiacademy.tw/swc/'
 translatedFrom: 'Technology/台灣人工智慧學校.md'
-sourceCommitSha: 'c8e5ac9ea'
-sourceContentHash: 'sha256:aeb22f9372adc2ef'
-sourceBodyHash: 'sha256:6ec984b54802baea'
-translatedAt: '2026-07-18T23:11:50+08:00'
+sourceCommitSha: 'e291b98c6'
+sourceContentHash: 'sha256:f80d5de0dc1467d4'
+sourceBodyHash: 'sha256:5ac3c1dc79dee79a'
+translatedAt: '2026-10-03T22:28:51.391805+00:00'
 ---
 
-# Akademi Kecerdasan Buatan Taiwan: Telepon yang Tak Sempat Dituntaskan dan Sepuluh Ribu Insinyur AI
+# Akademi Kecerdasan Buatan Taiwan: Telepon Tak Selesai Itu, dan Sepuluh Ribu Insinyur AI
 
-> **Ikhtisar 30 detik**: Pada 27 Maret 2020, peneliti Academia Sinica berusia 44 tahun, Chen Sheng-wei, menelepon pemimpin redaksi CommonWealth Magazine dan dengan sungguh-sungguh mengatakan bahwa ia “ingin melakukan sesuatu”: membuka kursus pemrograman gratis untuk seluruh masyarakat. Dua hari kemudian ia terjatuh dan mengalami koma, lalu meninggal 13 hari sesudahnya. Ketika ia meninggal, Akademi Kecerdasan Buatan Taiwan (AIA) yang didirikannya pada 2018 telah melatih lebih dari enam ribu orang. Pada periode yang sama, Dewan Pembangunan Nasional mengumumkan “Strategi Besar AI untuk Negara Kecil” senilai NT$16 miliar selama lima tahun; sementara itu, ia mendirikan akademinya sendiri dengan menghimpun dana swasta sebesar NT$180 juta—masing-masing NT$30 juta dari enam perusahaan, termasuk Formosa Plastics, Chimei, dan Inventec. Delapan tahun kemudian, jumlah alumninya melampaui sepuluh ribu. Dalam upaya peningkatan industri Taiwan, AIA adalah kepingan teka-teki yang paling tidak menyerupai kelaziman Taiwan.
+> **Ringkasan 30 Detik**: Pada 27 Maret 2020, peneliti Academia Sinica berusia 44 tahun, Chen Sheng-wei, menelpon pemimpin redaksi CommonWealth Magazine dengan sungguh-sungguh, menyatakan ingin "melakukan sesuatu": membuka kelas pemrograman gratis untuk umum. Dua hari kemudian ia jatuh dan pingsan, 13 hari kemudian meninggal dunia. Saat ia meninggal, Akademi Kecerdasan Buatan Taiwan (AIA) yang ia dirikan pada 2018 telah melatih lebih dari 6.000 orang. Pada periode yang sama, "Strategi Besar AI untuk Negara Kecil" Kementerian Sains dan Teknologi menargetkan NT$16 miliar selama 5 tahun, namun ia mengumpulkan dana swasta sebesar NT$180 juta total dari enam perusahaan — Formosa Plastics, Chi Mei, Inventec, dan tiga lainnya — masing-masing NT$30 juta, dan mendirikan sekolah sendiri. Delapan tahun kemudian, alumni melebihi 10.000 orang. AIA adalah sepotong puzzle paling tidak seperti Taiwan dalam pengupgradean industri Taiwan.
 
-![Potret resmi Chen Sheng-wei saat menyampaikan ceramah publik di Akademi Kecerdasan Buatan Taiwan, 2018](/article-images/technology/taiwan-ai-academy-chen-shengwei-portrait-2018.webp)
-_Chen Sheng-wei (1976–2020), pendiri dan direktur eksekutif Akademi Kecerdasan Buatan Taiwan. Foto: dokumentasi resmi Akademi Kecerdasan Buatan Taiwan. [via aiacademy.tw](https://aiacademy.tw/swc/)._
+![Foto resmi Chen Sheng-wei saat berpidato di Akademi Kecerdasan Buatan Taiwan, 2018](/article-images/technology/taiwan-ai-academy-chen-shengwei-portrait-2018.webp)
+_Chen Sheng-wei (1976-2020), pendiri dan Direktur Eksekutif Akademi Kecerdasan Buatan Taiwan. Foto: Akademi Kecerdasan Buatan Taiwan resmi. [via aiacademy.tw](https://aiacademy.tw/swc/)._
 
 ---
 

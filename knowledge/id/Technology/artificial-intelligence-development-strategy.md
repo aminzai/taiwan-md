@@ -25,9 +25,10 @@ imageCredit: 'BQUB25-UPoch (own work, AlphaFold + PyMOL)'
 imageLicense: 'CC BY 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Estructura_tridimensional_de_la_prote%C3%AFna_CBLN1_per_AlphaFold_amb_codificaci%C3%B3_rainbow.png'
 translatedFrom: 'Technology/台灣人工智慧發展與未來策略.md'
-sourceCommitSha: 'b67b190fb'
-sourceContentHash: 'sha256:151b93f3268baa1f'
-translatedAt: '2026-09-23T06:37:24.818723+00:00'
+sourceCommitSha: 'b70d6d8c4'
+sourceContentHash: 'sha256:36a555145d356c00'
+sourceBodyHash: 'sha256:9929570d1f524d80'
+translatedAt: '2026-10-03T21:19:42.524283+00:00'
 ---
 
 # Pengembangan Kecerdasan Buatan Taiwan dan Strategi Masa Depan: Tiket Masuk Hardware Sudah Didapat, Pertarungan Berikutnya di Mana
@@ -211,19 +212,17 @@ Kasus ini mengilustrasikan satu hal: keunggulan AI Taiwan tidak hanya berasal da
 
 ---
 
-## Kebijakan: Dari "Tahun Pertama AI" ke Kementerian Pengembangan Digital
+## Kebijakan: Dari "Tahun AI" ke Kementerian Pengembangan Digital
 
-Perkembangan kebijakan AI Taiwan dapat dipahami melalui tiga tahap kunci.
+Pengembangan kebijakan AI Taiwan dapat dipahami melalui tiga titik penting.
 
-2017 hingga 2018 adalah tahap awal. Kabinet menetapkan 2017 sebagai "Tahun Pertama AI", mengusung konsep "Strategi Besar Negara Kecil AI", mengakui pasar Taiwan kecil, namun menekankan tiga aset: manufaktur semikonduktor, rantai pasokan ICT, dan talenta sains dan teknik. Pada 2018, diluncurkan "Rencana Aksi AI Taiwan" periode pertama, dengan investasi lebih dari 40 miliar dolar Taiwan baru dalam empat tahun, fokus pada pembangunan infrastruktur komputasi AI "Taiwan AI Cloud" (TWCC)[^20].
+2017 hingga 2018 adalah tahap awal. Menteri Sains dan Teknologi Chen Liangji mengumumkan bahwa 2017 adalah "Tahun AI" dan mengusulkan "Strategi Negara Kecil untuk AI"[^21], mengakui bahwa pasar Taiwan kecil, namun menekankan tiga kekuatan utama: manufaktur semikonduktor, rantai pasok ICT, dan tenaga ahli STEM. Pada 2018, diluncurkan "Renstra AI Taiwan" fase pertama, dengan investasi lebih dari NT$40 miliar selama empat tahun, yang berfokus pada pembangunan infrastruktur komputasi AI "Awan AI Taiwan" (TWCC)[^20].
 
-2022 menuju institutionalisasi. Kementerian Pengembangan Digital (moda) didirikan, mengintegrasikan urusan digital yang sebelumnya tersebar di Kementerian Sains dan Teknologi, Kementerian Ekonomi, dan Kementerian Perhubungan. Langkah ini bermakna: kebijakan AI naik pangkat dari "proyek Kementerian Sains dan Teknologi" menjadi "strategi nasional lintas kementerian". Tahun yang sama, pemerintah menerbitkan "Pedoman Penelitian dan Pengembangan Kecerdasan Buatan", menekankan prinsip berorientasi manusia, transparan dan dapat dijelaskan, serta adil dan non-diskriminatif.
+Pada 2022, kebijakan mengarah ke institusionalisasi. Kementerian Pengembangan Digital (moda) didirikan, menggabungkan urusan digital yang sebelumnya tersebar di Kementerian Sains dan Teknologi, Kementerian Ekonomi, dan Kementerian Transportasi. Makna langkah ini adalah: kebijakan AI naik kelas dari "proyek Kementerian Sains dan Teknologi" menjadi "strategi nasional lintas kementerian". Pada tahun yang sama, pemerintah menerbitkan "Pedoman Pengembangan Riset dan Inovasi AI", yang menekankan prinsip human-centered, transparansi dan keterjelasan, serta keadilan dan anti-diskriminasi.
 
-2023 hingga kini adalah pergeseran menuju AI generatif. Guncangan ChatGPT memaksa kebijakan berbelok tajam. Proyek TAIDE diluncurkan, draf UU Dasar AI didorong, adopsi AI di sektor publik dipercepat. Strategi Taiwan sangat pragmatis: tidak bersaing dengan AS dan Tiongkok dalam jumlah publikasi penelitian dasar, melainkan menyambungkan AI dengan keunggulan manufaktur yang sudah ada. Manufaktur cerdas, pencitraan medis, prediksi yield semikonduktor — ini semua bidang di mana Taiwan memiliki data, skenario, dan daya saing.
+Sejak 2023 hingga kini, fokus beralih ke AI generatif. Dampak ChatGPT membuat kebijakan berubah cepat. Proyek TAIDE diluncurkan, rancangan undang-undang dasar AI digulirkan, dan adopsi AI di sektor publik dipercepat. Strategi Taiwan sangat pragmatis: tidak bersaing dengan AS dan Tiongkok dalam jumlah publikasi riset dasar, melainkan menggabungkan AI dengan keunggulan industri manufaktur yang sudah ada. Manufaktur pintar, citra medis, dan prediksi yield semikonduktor adalah bidang-bidang di mana Taiwan memiliki data, skenario, dan keunggulan kompetitif.
 
-Masalahnya, daftar pemenang Nobel pada dua hari Oktober 2024, tidak ada satu pun yang berasal dari jalur "manufaktur cerdas" ini.
-
----
+Namun, pada Oktober 2024, saat pengumuman pemenang Nobel, tidak ada satupun yang berasal dari jalur "manufaktur pintar".
 
 ## Kecemasan: Kesenjangan Perangkat Lunak di Imperium Perangkat Keras
 
@@ -276,49 +275,51 @@ Artikel ini menggunakan 4 gambar domain publik / berlisensi CC, semuanya di-cach
 
 ## Referensi
 
-[^1]: [Tom's Hardware: Legenda Semikonductor Berjalan-jalan di Pasar Malam Taiwan](https://www.tomshardware.com/tech-industry/semiconductor-legends-take-a-stroll-in-a-taiwanese-night-market-nvidia-tsmc-mediatek-and-quanta-heads-seen-eating-dinner) — Liputan suasana Pasar Malam Ningxia tanggal 29 Mei 2024, merekam momen Jensen Huang, Morris Chang, Rick Tsai, dan C.C. Wei makan bersama di satu meja.
+[^1]: [Tom's Hardware: Semiconductor legends take a stroll in a Taiwanese night market](https://www.tomshardware.com/tech-industry/semiconductor-legends-take-a-stroll-in-a-taiwanese-night-market-nvidia-tsmc-mediatek-and-quanta-heads-seen-eating-dinner) — Laporan akhbar pasar malam Ningxia pada 29 Mei 2024, mencatat adegan makan bersama Huang Jianxiang, Zhang Zhongmu, Lin Bai Li, dan Cai Lixing.
 
-[^2]: [Taiwan News: CEO Nvidia Sebut Taiwan 'Salah Satu Negara Terpenting di Dunia'](https://www.taiwannews.com.tw/news/5880054) — Pernyataan publik Jensen Huang saat kunjungan ke Taiwan pada 30 Mei 2024.
+[^2]: [Taiwan News: Nvidia CEO calls Taiwan 'one of the most important countries in the world'](https://www.taiwannews.com.tw/news/5880054) — Pernyataan terbuka Huang Jianxiang saat kunjungan ke Taiwan pada 30 Mei 2024.
 
-[^3]: [Wikipedia: Jensen Huang](https://en.wikipedia.org/wiki/Jensen_Huang) — Data biografi Jensen Huang: lahir di Taipei 1963, masa kecil di Tainan, bermigrasi ke AS pada usia 9 tahun.
+[^3]: [Wikipedia: Jensen Huang](https://en.wikipedia.org/wiki/Jensen_Huang) — Data biografi Huang Jianxiang, lahir di Taipei tahun 1963, kanak-kanak di Tainan, berpindah ke Amerika Serikat pada usia 9 tahun.
 
 [^4]: [Klover.ai: TSMC AI Fabricating Dominance](https://www.klover.ai/tsmc-ai-fabricating-dominance-chip-manufacturing-leadership-ai-era/) — Semua GPU canggih NVIDIA (A100, H100, seri Blackwell) diproduksi oleh TSMC. Lihat
 
-[^5]: [SQ Magazine: Statistik Chip AI 2025](https://sqmagazine.co.uk/ai-chip-statistics/) — Sumber data pangsa pasar pendapatan foundry wafer TSMC 72% pada 2025; lihat juga liporan Motley Fool periode yang sama.
+[^5]: [SQ Magazine: AI Chip Statistics 2025](https://sqmagazine.co.uk/ai-chip-statistics/) — Data dari laporan CloudInsight tentang pasar modal pelatihan AI global pada 2025, mencatat pertumbuhan sebesar 26,5%.
 
-[^6]: [PatentPC: Ledakan Pasar Chip AI](https://patentpc.com/blog/the-ai-chip-market-explosion-key-stats-on-nvidia-amd-and-intels-ai-dominance) — Sumber data pangsa pasar GPU AI NVIDIA sebesar 86%.
+[^6]: [PatentPC: The AI Chip Market Explosion](https://patentpc.com/blog/the-ai-chip-market-explosion-key-stats-on-nvidia-amd-and-intels-ai-dominance) — Sumber data pasar AI GPU NVIDIA sebesar 86%.
 
-[^7]: [Tech-Now: Taiwan Pimpin Pergeseran Server AI Global, Melampaui iPhone pada 2025](https://tech-now.io/en/blogs/taiwans-ai-server-revolution-how-foxconn-and-odms-redefined-global-tech-leadership-in-2025) — Data pengiriman server AI global Foxconn, Quanta, dan Wistron sebesar 90%.
+[^7]: [Tech-Now: Taiwan Leads Global AI Server Shift, Surpassing iPhones in 2025](https://tech-now.io/en/blogs/taiwans-ai-server-revolution-how-foxconn-and-odms-redefined-global-tech-leadership-in-2025) — Data pengiriman server AI global 90% oleh Foxconn, Wistron, dan Quanta.
 
-[^8]: [DigiTimes: Foxconn, Wistron, Quanta Pertahankan Pendapatan Triliunan Dolar dari Server AI pada 2026](https://www.digitimes.com/news/a20260109PD249/revenue-ai-server-foxconn-wistron-quanta.html) — Laporan data: tiga ODM mencapai pendapatan tahunan triliunan dolar, server AI melampaui elektronik konsumen.
+[^8]: [DigiTimes: Foxconn, Wistron, Quanta to sustain trillion-dollar revenue on AI server in 2026](https://www.digitimes.com/news/a20260109PD249/revenue-ai-server-foxconn-wistron-quanta.html) — Laporan data tentang tiga perusahaan ODM yang masing-masing mencapai triliun dolar dalam pendapatan tahunan, dengan server AI melebihi elektronik konsumen.
 
-[^9]: [36Kr: Siapa yang Akan Membagi Kapasitas Produksi CoWoS pada 2026?](https://eu.36kr.com/en/p/3580962946874242) — Data kebutuhan wafer CoWoS NVIDIA sebesar 595.000 lembar, mencakup 60% kebutuhan global.
+[^9]: [36Kr: Who Will Divide Up the CoWoS Production Capacity in 2026?](https://eu.36kr.com/en/p/3580962946874242) — Data permintaan NVIDIA untuk wafer CoWoS sebesar 595.000 lembar, mewakili 60% pasar global.
 
-[^10]: [NVIDIA Newsroom: Foxconn Bangun Pabrik AI dalam Kemitraan dengan Taiwan dan NVIDIA](https://nvidianews.nvidia.com/news/foxconn-builds-ai-factory-in-partnership-with-taiwan-and-nvidia) — Kasus kerja sama pabrik AI 100MW di Kaohsiung; lihat juga liputan CNBC soal kapasitas listrik 100MW.
+[^10]: [NVIDIA Newsroom: Foxconn Builds AI Factory in Partnership With Taiwan and NVIDIA](https://nvidianews.nvidia.com/news/foxconn-builds-ai-factory-in-partnership-with-taiwan-and-nvidia) — Proyek pabrik AI 100MW di Kaohsiung; lihat juga laporan CNBC tentang kapasitas listrik 100MW.
 
-[^11]: [Situs Resmi Taiwan AI Labs: Tentang Kami](https://ailabs.tw/zh/關於我們/) — Profil resmi: Ethan Tu mendirikan PTT di Universitas Taiwan 1995, kembali ke Taiwan April 2017 mendirikan Taiwan AI Labs.
+[^11]: [Taiwan AI Labs - Tentang Kami](https://ailabs.tw/zh/關於我們/) — Profil resmi Du Yujin, yang mendirikan PTT di Universitas Nasional Taiwan pada 1995, dan kembali ke Taiwan pada April 2017 untuk mendirikan Taiwan AI Labs.
 
-[^12]: [TechNews: Bakat AI di Taiwan, Pergi atau Tetap? Wawancara Eksklusif Pendiri Taiwan AI Labs Ethan Tu](https://finance.technews.tw/2025/08/18/taiwan-ai-labs-ethan/) — Perkenalan proyek inti seperti transkrip Yating, AI medis pembelajaran federasi, dll.
+[^12]: [TechNews: Bakti Teknologi: Bakti AI di Taiwan — Wawancara dengan Pendiri Taiwan AI Labs, Du Yujin](https://finance.technews.tw/2025/08/18/taiwan-ai-labs-ethan/) — Naskah kata-kata bakti, proyek inti seperti pembelajaran federasi untuk AI medis.
 
-[^13]: [Yuan Administratif: Menyempurnakan Infrastruktur AI Taiwan — Membangun Mesin Percakapan AI Terpercaya TAIDE](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/582206fe-26fc-4184-b911-aa6e4569ff3e) — Penjelasan resmi peluncuran proyek TAIDE April 2023.
+[^13]: [Kabinet Negara: Meningkatkan Infrastruktur AI Taiwan — Membangun Mesin Percakapan AI yang Dapat Dipercaya TAIDE](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/582206fe-26fc-4184-b911-aa6e4569ff3e) — Penjelasan resmi peluncuran proyek TAIDE pada April 2023.
 
-[^14]: [Majalah CommonWealth: 'Mencegah Invasi Budaya AI China' — Apa yang Bisa Dilakukan TAIDE, Model Bahasa Besar Pertama Taiwan Berhuruf Tradisional?](https://www.cw.com.tw/article/5129076) — Liputan khusus TAIDE, sumber wacana subjek budaya LLM berhuruf Tradisional.
+[^14]: [Majalah Tianxia: 'Mencegah Penjajahan Budaya AI Tiongkok' — Model Bahasa Besar TAIDE pertama di Taiwan dengan bahasa Cina tradisional, apa kemampuannya?](https://www.cw.com.tw/article/5129076) — Laporan topik TAIDE, sumber wacana subjektivitas budaya untuk model bahasa besar berbahasa Cina tradisional.
 
-[^15]: [Rilis Pers Dewan Sains Nasional: TAIDE Berhasil dalam Setahun, Kolaborasi Publik-Swasta Dorong Model Bahasa Besar Berkhusus Taiwan](https://www.nstc.gov.tw/folksonomy/detail/dd2d9d72-8f7b-44dd-976c-438d5ce683af?l=ch) — Rilis versi komersial TAIDE-LX-7B dan versi penelitian 13B pada April 2024.
+[^15]: [Notadinamik Sumber Daya Nasional: TAIDE Berkembang dalam Setahun — Kolaborasi Pemerintah dan Swasta Mendorong Model Bahasa Besar dengan Karakteristik Taiwan](https://www.nstc.gov.tw/folksonomy/detail/dd2d9d72-8f7b-44dd-976c-438d5ce683af?l=ch) — Rilis versi komersial TAIDE-LX-7B dan versi akademik 13B pada April 2024.
 
-[^16]: [CloudInsight: Status Pengembangan LLM Taiwan 2026](https://cloudinsight.cc/en/blog/taiwan-llm) — Inventaris lengkap ekosistem LLM Taiwan seperti TAIDE 2.0, Breeze-8B, dll.
+[^16]: [CloudInsight: Status Pengembangan LLM Taiwan 2026](https://cloudinsight.cc/en/blog/taiwan-llm) — Ringkasan lengkap ekosistem LLM Taiwan termasuk TAIDE 2.0 dan Breeze-8B.
 
-[^17]: Laporan CloudInsight yang sama. Studi kasus aplikasi seperti "Shennong TAIDE" Universitas Chung Hsing, robot percakapan Taiwan-Inggris Universitas Tainan, model TAIDE dialek Hakka Taiwan Universitas Yang Ming Chiao Tung, dll., dijelaskan secara rinci.
+[^17]: Laporan CloudInsight di atas. Deskripsi rinci kasus penggunaan seperti 'Shennong TAIDE' dari Universitas Nasional Chung Hsing, robot dialog Taiwan-Inggris dari Universitas Taiwan Selatan, dan model TAIDE dialek Taiwan dari Universitas Yang Ming dan Chiao Tung.
 
-[^18]: [CIO Taiwan: Tur Industri Keamanan Siber Taiwan — O-Yi Smart Technology](https://www.cio.com.tw/taiwanese-ahn-an-smart-technology/) — Rincian O-Yi Smart Technology tujuh kali masuk daftar Gartner dan tiga kali lulus evaluasi MITRE ATT&CK.
+[^18]: [CIO Taiwan: Pameran Pengembang Keamanan Siber Taiwan — Aoyo Smart](https://www.cio.com.tw/taiwanese-ahn-an-smart-technology/) — Deskripsi rinci tentang Aoyo Smart yang masuk ke dalam daftar Gartner tujuh kali dan lolos uji coba MITRE ATT&CK tiga kali.
 
-[^19]: [Situs Resmi O-Yi Smart Technology: Perdana Inovasi AI Keamanan Siber! O-Yi Cyber Hari Ini Terdaftar](https://www.cycraft.com/news/taiwans-first-ai-cybersecurity-stock-20260205) — Surat kabar pendaftaran di bursa inovasi tanggal 5 Februari 2026.
+[^19]: [Situs Web Aoyo Smart: Inovasi Papan Pencatatan Pertama — Juara Keamanan AI! Aoyo Cyber Hari Ini Terdaftar](https://www.cycraft.com/news/taiwans-first-ai-cybersecurity-stock-20260205) — Rilis berita tentang pencatatan inovasi pada 5 Februari 2026.
 
-[^20]: [Dewan Sains dan Teknologi Nasional (NSTC): Strategi Penelitian AI](https://www.nstc.gov.tw/folksonomy/detail/dbf8da09-22be-4ef1-8294-8832fc6e8a26?l=ch) — Kerangka kebijakan seperti Rencana Aksi AI Taiwan Periode Pertama dengan anggaran 400 miliar, pembangunan TWCC, dll.
+[^20]: [Sumber Daya Nasional: Strategi Riset AI](https://www.nstc.gov.tw/folksonomy/detail/dbf8da09-22be-4ef1-8294-8832fc6e8a26?l=ch) — Struktur kebijakan termasuk anggaran 40 miliar untuk Program Aksi AI Taiwan fase pertama dan konstruksi TWCC.
 
-[^N1]: [Siaran Pers Hadiah Nobel Fisika 2024](https://www.nobelprize.org/prizes/physics/2024/press-release/) — Pengumuman resmi Akademi Ilmu Pengetahuan Kerajaan Swedia tanggal 8 Oktober 2024. Teks asli: "The Royal Swedish Academy of Sciences has decided to award the Nobel Prize in Physics 2024 to John J. Hopfield and Geoffrey Hinton 'for foundational discoveries and inventions that enable machine learning with artificial neural networks.'" Hadiah 11 juta krona Swedia, dibagi dua.
+[^21]: [Kompetisi Semi Konduktor dan Teknologi Besar: Chen Liangji: 16 Miliar untuk AI Taiwan — Majalah Far East, 2017](https://www.gvm.com.tw/article/39819) — Menteri Teknologi, Chen Liangji, menyatakan bahwa 2017 adalah tahun AI, dan pada pertengahan Agustus mengusulkan strategi AI untuk negara kecil.
 
-[^N2]: [Siaran Pers Hadiah Nobel Kimia 2024](https://www.nobelprize.org/prizes/chemistry/2024/press-release/) — Pengumuman tanggal 9 Oktober 2024. Hadiah 11 juta krona Swedia, David Baker mendapat separuh "for computational protein design", Demis Hassabis dan John Jumper berbagi separuh lainnya "for protein structure prediction".
+[^N1]: [The Nobel Prize in Physics 2024 press release](https://www.nobelprize.org/prizes/physics/2024/press-release/) — Pada 8 Oktober 2024, Akademi Ilmuwan Swedia secara resmi mengumumkan. Teks aslinya: "The Royal Swedish Academy of Sciences has decided to award the Nobel Prize in Physics 2024 to John J. Hopfield and Geoffrey Hinton 'for foundational discoveries and inventions that enable machine learning with artificial neural networks.'" Hadiahnya adalah 11 juta krona Swedia, dibagi rata-rata antara keduanya.
+
+[^N2]: [The Nobel Prize in Chemistry 2024 press release](https://www.nobelprize.org/prizes/chemistry/2024/press-release/) — Diumumkan pada 9 Oktober 2024. Hadiahnya adalah 11 juta krona Swedia, dengan David Baker mendapatkan setengahnya 'for computational protein design', dan Demis Hassabis serta John Jumper berbagi setengah lainnya 'for protein structure prediction'.
 
 [^N3]: [PNAS, 79(8), 2554-2558](https://www.pnas.org/doi/10.1073/pnas.79.8.2554) — Hopfield, J. J. (1982). "Neural networks and physical systems with emergent collective computational abilities."
 
@@ -326,32 +327,32 @@ Artikel ini menggunakan 4 gambar domain publik / berlisensi CC, semuanya di-cach
 
 [^N5]: [NeurIPS 2012 / NIPS Proceedings](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html) — Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). "ImageNet Classification with Deep Convolutional Neural Networks."
 
-[^N6]: [PanSci 泛科學：2024 Nobel Fisika — Hopfield dan Hinton Membuka Era Pembelajaran Mesin Jaringan Saraf Buatan](https://pansci.asia/archives/378242) — Mitra Kurasi Konten per MOU 2026-05-05. Mencakup latar belakang pengajuan Hopfield Network, analogi spin glass, akumulasi sitasi kertas, dan koneksi matematika dengan pembelajaran mendalam kontemporer.
+[^N6]: [PanSci: 2024 Nobel Fisika — Hopfield dan Hinton Membuka Era Pembelajaran Mesin dengan Jaringan Saraf Buatan](https://pansci.asia/archives/378242) — Mitra Kurasi Konten sesuai MOU 2026-05-05. Mencakup latar belakang proposal Jaringan Hopfield, analogi kaca spin, akumulasi sitasi makalah, dan koneksi matematis dengan pembelajaran mendalam modern.
 
-[^N7]: [The Guardian: Pemenang Hadiah Nobel Fisika 2024 John Hopfield Memperingatkan Bahaya AI](https://www.theguardian.com/science/2024/oct/08/nobel-prize-physics-2024-john-hopfield-geoffrey-hinton-ai-machine-learning) — Laporan wawancara telepon Hadiah Nobel Fisika 8 Oktober 2024, Hopfield dan Hinton pada hari yang sama mengeluarkan peringatan risiko AI.
+[^N7]: [The Guardian: Pemenang Nobel Fisika 2024 John Hopfield Memperingatkan tentang Bahaya AI](https://www.theguardian.com/science/2024/oct/08/nobel-prize-physics-2024-john-hopfield-geoffrey-hinton-ai-machine-learning) — Laporan wawancara telepon Nobel Fisika 2024 pada 8 Oktober 2024, Hopfield dan Hinton memberikan peringatan tentang risiko AI pada hari yang sama.
 
-[^N8]: [Wikipedia: Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton) — Hinton lahir 6 Desember 1947 di Wimbledon, London, bergabung dengan Google pada Maret 2013 setelah Google mengakuisisi DNNresearch seharga 44 juta dolar AS.
+[^N8]: [Wikipedia: Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton) — Hinton lahir pada 6 Desember 1947 di London, Windsor. Pada Maret 2013, Google mengakuisisi DNNresearch dengan harga 44 juta dolar AS, setelah itu Hinton bergabung dengan Google.
 
-[^N9]: [BBC News: 'Bapak' AI Geoffrey Hinton memperingatkan bahaya saat meninggalkan Google](https://www.bbc.com/news/world-us-canada-65452940) — 2023-05-01 Hinton mengungkapkan kekhawatiran risiko AI kepada BBC setelah meninggalkan Google. Kutipan asli: "I left so that I could talk about the dangers of AI without considering how this impacts Google", "a part of me now regrets my life's work". Detail wawancara NYT pada periode yang sama juga dikutip dalam laporan ini.
+[^N9]: [BBC News: 'Bapak AI' Geoffrey Hinton Memperingatkan tentang Bahaya saat Mengundurkan Diri dari Google](https://www.bbc.com/news/world-us-canada-65452940) — Pada 1 Mei 2023, Hinton menyampaikan kekhawatiran tentang risiko AI kepada BBC setelah mengundurkan diri. Kutipan aslinya: "Saya pergi agar bisa berbicara tentang bahaya AI tanpa mempertimbangkan dampaknya pada Google" dan "sebagian dari diriku sekarang menyesal dengan pekerjaanku seumur hidup". Detail wawancara NYT pada masa yang sama juga dikutip dalam laporan ini.
 
-[^N10]: [Nature: Ilmuwan AI Geoffrey Hinton memenangkan Nobel fisika](https://www.nature.com/articles/d41586-024-03213-8) — Nature mendeskripsikan detail tempat penganugerahan Nobel Fisika 2024 serta wawancara telepon Hinton.
+[^N10]: [Nature: Ilmuwan AI Geoffrey Hinton Menang Hadiah Nobel Fisika](https://www.nature.com/articles/d41586-024-03213-8) — Deskripsi rinci dari acara penghargaan Nobel Fisika 2024 dan wawancara telepon dengan Hinton oleh Nature.
 
-[^N11]: [Wikipedia: Sejarah ekonomi Taiwan](https://en.wikipedia.org/wiki/Economic_history_of_Taiwan) — Data GDP Taiwan tahun 1986; Taman Sains Hsinchu didirikan pada Desember 1980.
+[^N11]: [Wikipedia: Sejarah Ekonomi Taiwan](https://en.wikipedia.org/wiki/Economic_history_of_Taiwan) — Data PDB Taiwan pada 1986; Kawasan Ilmu Pengetahuan Hsinchu didirikan pada Desember 1980.
 
 [^N12]: [Science, 181(4096), 223-230](https://www.science.org/doi/10.1126/science.181.4096.223) — Anfinsen, C. B. (1973). "Principles that govern the folding of protein chains."
 
-[^N13]: [Nature: 'Ini akan mengubah segalanya': AI DeepMind melompat besar dalam memecahkan struktur protein](https://www.nature.com/articles/d41586-020-03348-4) — Laporan pengumuman hasil CASP14 pada 30 November 2020, AlphaFold 2 median GDT 92,4, penyelenggara CASP John Moult mengomentari "in some sense the problem is solved".
+[^N13]: [Nature: 'Ini akan mengubah segalanya': AI DeepMind Membuat Loncatan Besar dalam Memecahkan Struktur Protein](https://www.nature.com/articles/d41586-020-03348-4) — Laporan hasil CASP14 yang diumumkan pada 30 November 2020, AlphaFold 2 mencapai GDT median sebesar 92.4, komentar John Moult, penyelenggara CASP, "dalam beberapa hal masalah ini terpecahkan".
 
-[^N14]: [DeepMind: AlphaFold mengungkap struktur alam semesta protein](https://www.deepmind.com/blog/alphafold-reveals-the-structure-of-the-protein-universe) — Pengumuman pada 28 Juli 2022 bahwa AlphaFold Protein Structure Database mencakup 1 juta spesies, sekitar 200 juta struktur protein.
+[^N14]: [DeepMind: AlphaFold Mengungkapkan Struktur Alam Protein](https://www.deepmind.com/blog/alphafold-reveals-the-structure-of-the-protein-universe) — Pada 28 Juli 2022, pengembangan database struktur protein AlphaFold mencakup 100 juta spesies, sekitar 200 juta struktur protein.
 
-[^N15]: [Abramson, J., Adler, J., Dunger, J. et al. (2024). Accurate structure prediction of biomolecular interactions with AlphaFold 3. Nature 630, 493-500](https://www.nature.com/articles/s41586-024-07487-w) — Publikasi AlphaFold 3 pada 8 Mei 2024, memperluas prediksi ke kompleks protein dengan DNA / RNA / ligand / ion.
+[^N15]: [Abramson, J., Adler, J., Dunger, J. et al. (2024). Prediksi struktur akurat interaksi biomolekuler dengan AlphaFold 3. Nature 630, 493-500](https://www.nature.com/articles/s41586-024-07487-w) — AlphaFold 3 dirilis pada 8 Mei 2024, memperluas prediksi ke kompleks protein-DNA/RNA/ligand/ion.
 
-[^N16]: [Wikipedia: Demis Hassabis](https://en.wikipedia.org/wiki/Demis_Hassabis) — Hassabis mulai bermain catur usia 4 tahun, usia 17 tahun (1994) mengembangkan 'Theme Park' bersama Peter Molyneux, mendirikan DeepMind di London tahun 2010, diakuisisi Google sekitar 400 juta pound sterling tahun 2014.
+[^N16]: [Wikipedia: Demis Hassabis](https://en.wikipedia.org/wiki/Demis_Hassabis) — Hassabis mulai bermain catur pada usia 4 tahun, pada usia 17 tahun (1994) bekerja sama dengan Peter Molyneux untuk mengembangkan "Theme Park", pada 2010 mendirikan DeepMind di London, dan pada 2014 Google mengakuisisi perusahaan tersebut dengan harga sekitar 400 juta poundsterling.
 
-[^N17]: [Pusat Penelitian Genomik Akademia Sinica](https://www.genomics.sinica.edu.tw/) — Pusat penelitian struktur protein glikoprotein yang didirikan selama masa jabatan Direktur Weng Chi-huey (2006-2016).
+[^N17]: [Pusat Penelitian Genomik Akademi Ilmu Pengetahuan Taiwan](https://www.genomics.sinica.edu.tw/) — Pusat Studi Struktur Gula dan Protein yang didirikan oleh Direktur Wen Qihui selama masa kepemimpinannya (2006-2016).
 
-[^N18]: [PanSci: Nobel Kimia 2024—— David Baker, Demis Hassabis, John Jumper memecahkan teka-teki lipatan protein](https://pansci.asia/archives/378388) — Mitra Kurasi Konten per MOU 2026-05-05. Mencakup kontroversi Nobel Kimia AlphaFold, diskusi batas disiplin biologi struktural vs kimia komputasional.
+[^N18]: [PanSci: 2024 Nobel Kimia — David Baker, Demis Hassabis, John Jumper Memecahkan Masalah Penggulungan Protein](https://pansci.asia/archives/378388) — Mitra Kurasi Konten sesuai MOU 2026-05-05. Mencakup kontroversi Nobel Kimia AlphaFold, diskusi batas disiplin ilmu antara biologi struktural dan kimia komputasional.
 
-[^N19]: [PanSci: AlphaFold 3 memprediksi interaksi protein dengan molekul lain, pengembangan obat naik level](https://pansci.asia/archives/377917) — Mitra Kurasi Konten per MOU 2026-05-05. Analisis dampak hilir AlphaFold 3 terhadap pengembangan obat dan rekayasa enzim.
+[^N19]: [PanSci: AlphaFold 3 Memprediksi Interaksi Protein dan Molekul Lain, Pengembangan Obat Semakin Canggih](https://pansci.asia/archives/377917) — Mitra Kurasi Konten sesuai MOU 2026-05-05. Analisis dampak AlphaFold 3 terhadap pengembangan obat dan rekayasa enzim.
 
-[^N20]: [PanSci: 'Otak buatan' OI menantang AI—— apakah jaringan otak di cawan petri bisa menggantikan chip silikon?](https://pansci.asia/archives/366027) — Mitra Kurasi Konten per MOU 2026-05-05. Penelitian otak buatan tim Thomas Hartung Johns Hopkins, sebagai arah komputasi alternatif di luar jalur AI.
+[^N20]: [PanSci: 'Otak Buatan' OI Menantang AI — Organisme Otak di dalam Petri Dish Bisa Menggantikan Chip Silikon?](https://pansci.asia/archives/366027) — Mitra Kurasi Konten sesuai MOU 2026-05-05. Penelitian otak buatan oleh Thomas Hartung dan timnya di Johns Hopkins, sebagai arah komputasi alternatif di luar AI.
