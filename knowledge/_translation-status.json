@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-04T06:09:06+08:00",
-    "zhCommitHead": "081cfc2b5",
+    "lastUpdated": "2026-10-04T06:15:45+08:00",
+    "zhCommitHead": "ebc142507",
     "totalZh": 1125,
     "activeLanguages": [
       "en",
@@ -60,8 +60,8 @@
       },
       "vi": {
         "total_zh": 1125,
-        "fresh": 1118,
-        "stale": 7,
+        "fresh": 1120,
+        "stale": 5,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -92,8 +92,8 @@
       },
       "ar": {
         "total_zh": 1125,
-        "fresh": 1123,
-        "stale": 2,
+        "fresh": 1124,
+        "stale": 1,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -26970,8 +26970,8 @@
           "sourceContentHash": "sha256:36a555145d356c00",
           "sourceBodyHash": "sha256:9929570d1f524d80",
           "translatedAt": "2026-10-03T20:22:02.831503+00:00",
-          "translationLastCommit": "3a6d9d82",
-          "translationLastModified": "2026-09-25T05:54:40+08:00",
+          "translationLastCommit": "ebc14250",
+          "translationLastModified": "2026-10-04T06:09:06+08:00",
           "inferred": false,
           "footnoteDefs": 41,
           "bytes": 82976,
@@ -69924,20 +69924,18 @@
         "vi": {
           "path": "vi/Society/taiwan-eswatini-relations.md",
           "translatedFrom": "Society/台灣與史瓦帝尼.md",
-          "sourceCommitSha": "31a05c44b",
-          "sourceContentHash": "sha256:fe1941c4ac5aac8a",
-          "sourceBodyHash": "sha256:8dca2bcfa6293bb2",
-          "translatedAt": "2026-08-09T10:41:15+08:00",
+          "sourceCommitSha": "da67ec6fe",
+          "sourceContentHash": "sha256:c62b916ed21bb09b",
+          "sourceBodyHash": "sha256:f87da2052ad611fa",
+          "translatedAt": "2026-10-03T22:09:24.406343+00:00",
           "translationLastCommit": "1c89db9a",
           "translationLastModified": "2026-09-22T01:05:58+08:00",
           "inferred": false,
           "footnoteDefs": 26,
-          "bytes": 47021,
+          "bytes": 47046,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Society/taiwan-eswatini-relations.md",
@@ -187492,18 +187490,18 @@
         "vi": {
           "path": "vi/History/taiwan-military-dependents-villages-history.md",
           "translatedFrom": "History/台灣眷村歷史.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:e26ca70cc051b743",
-          "sourceBodyHash": "sha256:6ea24f40d826e7d7",
-          "translatedAt": "2026-07-25T07:55:51+08:00",
+          "sourceCommitSha": "e1247815f",
+          "sourceContentHash": "sha256:a769f300a4a6b10d",
+          "sourceBodyHash": "sha256:62a8c3544391f28d",
+          "translatedAt": "2026-10-04T05:18:00+08:00",
           "translationLastCommit": "845f041c",
           "translationLastModified": "2026-07-25T09:20:25+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 20981,
+          "footnoteDefs": 15,
+          "bytes": 32534,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (15→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/History/taiwan-military-dependents-villages-history.md",
@@ -196040,18 +196038,18 @@
         "ar": {
           "path": "ar/Geography/offshore-islands-and-maritime-culture.md",
           "translatedFrom": "Geography/離島與海洋文化.md",
-          "sourceCommitSha": "217edf31a",
-          "sourceContentHash": "sha256:61916e4f91798262",
-          "sourceBodyHash": "sha256:b069d77bfe98ff54",
-          "translatedAt": "2026-08-06T06:55:36.863908+00:00",
+          "sourceCommitSha": "7ad70728d",
+          "sourceContentHash": "sha256:3c540cfd32577b2a",
+          "sourceBodyHash": "sha256:6adfa5c6ea8f6a2d",
+          "translatedAt": "2026-10-04T05:18:01+08:00",
           "translationLastCommit": "f0ba60da",
           "translationLastModified": "2026-09-28T11:33:48+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 28073,
+          "footnoteDefs": 17,
+          "bytes": 40451,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (17→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Geography/offshore-islands-and-maritime-culture.md",
