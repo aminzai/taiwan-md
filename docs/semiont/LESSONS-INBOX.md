@@ -332,6 +332,19 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-10-03 twmd-maintainer-am — retired-item-resurrects-through-a-parallel-handoff-chain：交接鏈是按 routine 家族各自傳的，所以一條已經收掉的工作會從沒看過那次退役的另一條鏈走回來
+
+- **pattern**: retired-item-resurrects-through-a-parallel-handoff-chain
+- **原則**：每條 routine 的 §Handoff 是從**自己家族的上一班**抄下來的，不是從當前狀態重算的。於是「退役」這個事件只存在於它發生的那一條鏈上：A 鏈把某項收掉並附證據，B 鏈從自己昨天的清單繼續抄同一項，照樣標 `[ ] pending` 並照樣指名收件席位。被指名的那一班甦醒時讀到的是一份看起來完全權威的待辦——它指名了我的席位、格式正確、沒有任何矛盾標記——而那件事昨天已經做完且結論是「不必再查」。**代價不對稱**：重複做會浪費一班，而不做又違反交接；唯一能分辨的方法是去讀別條鏈的 memory，而沒有任何東西提示當班需要這麼做。
+- **觸發**：2026-10-03 08:33 maintainer-am 甦醒，`wake-context` 的 `handoff` 段（來源 10-03 07:10 feedback-triage）寫「`[ ] pending（收件席位 twmd-maintainer-daily）`：404 雙語言前綴」。逐鏈對過時序：10-02 06:41 spore-harvest 與 07:12 feedback-triage 標 pending（當時正確）→ **10-02 08:54 maintainer-am 以證據退役兩次**（signature 定為第二段恆為 `fr`、全 `dist/` 19,323 份 HTML 零命中雙前綴 href，判定外部排列前綴，非站體自產）→ 10-03 06:41 spore-harvest 與 07:10 feedback-triage **又各標一次 pending**，距退役 22 小時。退役寫在 maintainer 鏈，那兩條鏈從來沒讀過它。**另一半更安靜**：這一項在 10-02→10-03 的傳抄中掉了識別細節（`404 雙語言前綴 /ja/fr/...` → `404 雙語言前綴`），所以收件人更難認出它就是昨天那條已結案的。若本班照字面執行，會重查 7 條昨天已經查到底的 URL。→ memory/2026-10-03-083304-twmd-maintainer-am
+- **instances**：
+  - 2026-10-03 twmd-maintainer-am — 404 雙語言前綴退役 22 小時後經兩條平行鏈復活，且傳抄中掉了識別細節 → 本條
+- **可能層級**：操作規則（MEMORY-PIPELINE §Handoff 的傳抄紀律）＋通用反射候選（狀態靠複製傳遞時，「狀態已改變」這個事件不會跟著複製）
+- **候選機械化**：(a) 續傳非本席位項目前，先 `grep -l "<該項關鍵字>" docs/semiont/memory/*.md | tail -3` 看有沒有別條鏈把它 retire 了——成本一行，但要寫進 MEMORY-PIPELINE 才會被跑（memory 是自律、canonical 才是閘門，#15）；(b) 給交接項一個穩定參照（#15 第 13 次驗證已立「交接項要帶穩定參照」規則，本例恰好是沒帶參照的那種，只有一句自然語言描述，所以機械比對接不上）；(c) 儀器化：收官時掃全庫 memory，若某項在近 7 天內曾被標 `retired` 又在更晚的檔案裡出現 `pending`，印一行警告。(c) 是唯一不依賴每班記得的那個。
+- **相關**：REFLEXES #74（同 SPOF 在 N 條 routine handoff 重複＝信號通膨——那條管「重複」，本條管「重複的那份已經是過期狀態」）、#97（交接面完整性：手上有事實 ≠ 送進要動手的那一層；本條是反向——送進來的那一層拿到的是已經失效的事實）、#15 第 13 次（handoff 傳遞了資訊、沒有傳遞急迫性；本條是傳遞了資訊、沒有傳遞「已經不需要了」）、#67 子規則（過期快照，這次過期的是交接清單本身）
+- **verification_count**: 1
+- **structural**: true
+
 ### 2026-10-03 twmd-maintainer-am — wait-loop-polls-for-a-pattern-its-own-command-line-contains：等待迴圈要等的那個字串就寫在它自己的命令列裡，於是它永遠等得到自己
 
 - **pattern**: wait-loop-polls-for-a-pattern-its-own-command-line-contains
