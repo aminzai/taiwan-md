@@ -4,9 +4,9 @@ description: '跨 session 程序記憶 catalog — 101 條 #N 反射（last #101
 type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v5.38'
-last_updated: 2026-10-01
-last_session: '2026-10-01-203722-semiont-heartbeat：#85 補變體 2 驗證（llms.txt 新鮮度讀錯檔讀回空，沿用五月舊值五個月）'
+current_version: 'v5.39'
+last_updated: 2026-10-03
+last_session: '2026-10-03-083716-semiont-heartbeat：#101 補內容層第一例（巡邏改掉的錯誤說法，三份同錯在兄弟篇）'
 sister_docs:
   - 'DNA.md'
   - 'LESSONS-INBOX.md'
@@ -1208,7 +1208,7 @@ codex → openrouter:owl-alpha → openrouter:openai/gpt-oss-120b:free → gemin
 
 **#101 修補範圍照根因的類別畫，不照症狀現形的位置畫（fix-scope-follows-symptom-not-root-class）**（2026-09-27 twmd-distill-weekly 升 canonical，同型五次＋一次同檔版，severity=structural；源 LESSONS `fix-scope-follows-symptom-not-root-class`（底層鏈 08-08／08-13／08-14／08-16／09-05），subsume `silent-abort-in-the-path-that-only-runs-when-it-matters`（08-27，家族第 5 次））— 追到真根因、也真的修好了，隔幾天同一道閘門又擋下同一批人，因為修補的範圍照著那天症狀現形的位置長，沒有照著根因所屬的類別長。根因是「某一類規則沒有對應的文件或閘門」時，只修現形的那一條，其餘同類留在原地等下一次現形。每次都是真修，每次都不夠寬；而真修會帶來「這件事處理過了」的感覺，讓人不再往旁邊看。
 
-- **五個 instance**：(1) 08-08 husky 修好的檢查沒帶到 CI，修補註解裡寫下了這句話本身；(2)(3)(4) 08-13、08-14、08-16 同一道 `frontmatter-gate` 連三天擋下同一位貢獻者：先修「說明送不到 fork PR」、再修「CONTRIBUTING 沒寫 subcategory」，兩次都有效，第三天當家的換成全形分號超標與外部圖片熱連結，同樣是貢獻者讀得到的文件裡不存在的門檻；(5) 09-05 `/semiont` 只有 zh-TW 版，06-10 修 Header 時新增了 `resolveStaticHref`，範圍畫在「nav 與 dropdown」，三個月後首頁 `OrganismPreview.astro` 還走舊路，每個非 zh 首頁一條死連結（`f96e52b47`）。同檔版：08-27 `.husky/pre-push` 推 fork 分支那一段在 `sh -e` 下賦值失敗無聲收工，而同一支檔案第 129 行就寫著這個風險與 `|| true` 修法（`897c362f2`；機制本身見 #24 形式 11）。
+- **五個 instance**：(1) 08-08 husky 修好的檢查沒帶到 CI，修補註解裡寫下了這句話本身；(2)(3)(4) 08-13、08-14、08-16 同一道 `frontmatter-gate` 連三天擋下同一位貢獻者：先修「說明送不到 fork PR」、再修「CONTRIBUTING 沒寫 subcategory」，兩次都有效，第三天當家的換成全形分號超標與外部圖片熱連結，同樣是貢獻者讀得到的文件裡不存在的門檻；(5) 09-05 `/semiont` 只有 zh-TW 版，06-10 修 Header 時新增了 `resolveStaticHref`，範圍畫在「nav 與 dropdown」，三個月後首頁 `OrganismPreview.astro` 還走舊路，每個非 zh 首頁一條死連結（`f96e52b47`）。同檔版：08-27 `.husky/pre-push` 推 fork 分支那一段在 `sh -e` 下賦值失敗無聲收工，而同一支檔案第 129 行就寫著這個風險與 `|| true` 修法（`897c362f2`；機制本身見 #24 形式 11）。內容層第一例（2026-10-03 semiont-heartbeat）：巡邏三篇初稿改掉九個錯誤說法後，拿被改掉的短語 grep 全庫中文，三份同錯躺在兄弟篇的 30 秒概覽與 description 裡（史瓦帝尼「上任後首訪」、兩篇 AI 文把小國大戰略歸給國發會與行政院），其中一篇是已人工審核的文章。巡邏的單位是文章、錯的單位是說法，修補範圍要照說法畫；FACTCHECK v2.10 §月度巡邏 已把這一步寫進 SOP。
 - **規則**：(a) 修完問一句「這個根因的類別裡還有哪些成員，它們現在有沒有同一個保護」，找的是同胞，而這個 bug 本身會不會再犯是另一個問題；(b) 修補寫成對賬時，範圍從設定來源讀（08-16 的對賬從 `article-health.config.toml` 讀門檻去比 CONTRIBUTING，不綁單一條門檻）；(c) 把教訓寫進註解的那一刻，順手 grep 同檔、同目錄的同類語法，不留給下一輪。
 - **跟鄰居的差別**：#15 講重複三次要做成儀器，本條講做成儀器時範圍照類別畫；#24 形式 4 講單例警報不代表集群（量測端），本條是修補端的同一個錯；#96 講知道會壞不減少壞的機率，本條的同檔版就是 #96 的一個 instance；#73 (f) 講條文列了 N 種對象只跑一種，本條講修補只修了現形的那一種。
 - **仍擋不住的一層**：新增門檻卻沒進對賬清單時沒有東西會叫；也還沒有 lint 在查「誰還在對只有部分語言存在的靜態頁用 `useTranslatedPath`」。
@@ -1216,6 +1216,7 @@ codex → openrouter:owl-alpha → openrouter:openai/gpt-oss-120b:free → gemin
 
 ---
 
+_v5.39 | 2026-10-03 semiont-heartbeat — 零新編號：#101 補內容層第一例，巡邏三篇改掉九個錯誤說法後 grep 全庫，三份同錯在兄弟篇的概覽與 description；同 commit FACTCHECK v2.10 §月度巡邏 把這一步寫進 SOP。_
 _v5.38 | 2026-09-27 twmd-self-evolve-weekly — 零新編號：#15 第 15 次驗證（ARTICLE-INBOX 切角期限儀器化，DIARY「里程碑≠兌現」vc=3）；#100 兩件未落地項落地（prettier-url-stability plugin＋verify-commit-scope 索引殘影清理），並補第五載體「prettier 斜體不冪等，只量一趟會放過下一次」。_
 _v5.37 | 2026-09-27 twmd-distill-weekly — 加 #100 驗證對象要等於落地對象（四條同族 entry 合併：measured-copy vc=3＋formatter-vs-generator vc=4＋italic-span vc=2＋prescribed-profile vc=1）+ #101 修補範圍照根因的類別畫（fix-scope 同型五次＋silent-abort 同檔版）；零新編號 fold 十一處：#38 (d) 第三種根因＋metadata-stale 蓋住兩種處置 / #56 v10 守門工具掃描範圍第四次落後＋v11 快照續行漏修正 / #65 v12 正例跟規則同作者 / #67 全站閘門量腳下那棵樹 / #68 穩態稅＋commit 階段鏡像 / #82 動作謂詞閘門＋provenance 對得上就永遠 fresh / #83 一個轉換住在三條引擎裡 / #91 刪除與登記 / #92 文件描述的世界與檔案系統＋兩條歸檔 / #97 收件席位動不了手＋狀態標籤反向 / #99 (f) 修復器負對照。源 LESSONS 30 條。_
 _v5.36 | 2026-09-20 twmd-self-evolve-weekly — #15 第 14 次驗證：handoff 交接延遲儀器化（`handoff-latency.py` 兩層追蹤＋MEMORY-PIPELINE 穩定參照＋weekly dossier §八之二）；#91 第六次：免疫 `external_rulers` 來源登記沒跟上 FACTCHECK v2 落檔位置，最被外部量的一週印出歷史最低（14→29 篇、1.2→2.6）；#99 加變體 (e)「報告裡的悖論句是尺壞掉的訊號」。零新編號。_
