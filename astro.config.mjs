@@ -151,11 +151,11 @@ export default defineConfig({
       // claim "modified today" on every build, the exact anti-pattern Google
       // names (→ distrusts our lastmod site-wide). lastmod is now set per-URL in
       // serialize() from content-dates.json. See SEO plan report §1.1.
-      // Customize priority and changefreq for different pages
-      customPages: [
-        'https://taiwan.md/?changefreq=daily&priority=1.0',
-        'https://taiwan.md/en?changefreq=daily&priority=1.0',
-      ],
+      // 2026-10-03: customPages 移除。原本兩行想用 `?changefreq=daily&priority=1.0`
+      // 替首頁設權重，但 customPages 只收網址、不解析參數，於是 sitemap 從 03-17
+      // 起照字面公告了 `https://taiwan.md/?changefreq=…` 與 `https://taiwan.md/en?changefreq=…`
+      // 兩條假網址（後者少斜線，爬蟲還要多吃一次 301）。首頁與 /en/ 本來就由頁面
+      // 掃描收進 sitemap；Google 也明說不讀 priority 與 changefreq。
       i18n: {
         defaultLocale: DEFAULT_LANGUAGE.code,
         locales: sitemapLocales,
