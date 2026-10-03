@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-04T05:58:25+08:00",
-    "zhCommitHead": "61999e6d7",
+    "lastUpdated": "2026-10-04T06:02:33+08:00",
+    "zhCommitHead": "e1b68aee6",
     "totalZh": 1125,
     "activeLanguages": [
       "en",
@@ -28,8 +28,8 @@
       },
       "ja": {
         "total_zh": 1125,
-        "fresh": 1120,
-        "stale": 5,
+        "fresh": 1121,
+        "stale": 4,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -60,8 +60,8 @@
       },
       "vi": {
         "total_zh": 1125,
-        "fresh": 1116,
-        "stale": 9,
+        "fresh": 1117,
+        "stale": 8,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -84,8 +84,8 @@
       },
       "hi": {
         "total_zh": 1125,
-        "fresh": 1122,
-        "stale": 3,
+        "fresh": 1123,
+        "stale": 2,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -108,8 +108,8 @@
       },
       "de": {
         "total_zh": 1125,
-        "fresh": 1122,
-        "stale": 3,
+        "fresh": 1123,
+        "stale": 2,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -15106,18 +15106,18 @@
         "ja": {
           "path": "ja/Economy/delta-electronics-taiwan-power-giant.md",
           "translatedFrom": "Economy/台灣企業：台達電子.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:731abae76b18888c",
-          "sourceBodyHash": "sha256:5afb6209c3e31868",
-          "translatedAt": "2026-09-23T09:26:55+08:00",
+          "sourceCommitSha": "bf0ce371e",
+          "sourceContentHash": "sha256:0c0aec93dc48d894",
+          "sourceBodyHash": "sha256:85c567c76ec730ad",
+          "translatedAt": "2026-10-04T05:18:00+08:00",
           "translationLastCommit": "5fe984c3",
           "translationLastModified": "2026-09-23T11:49:16+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 18231,
+          "footnoteDefs": 20,
+          "bytes": 21109,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (20→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Economy/delta-electronics-taiwan-power-giant.md",
@@ -26874,8 +26874,8 @@
           "sourceContentHash": "sha256:36a555145d356c00",
           "sourceBodyHash": "sha256:9929570d1f524d80",
           "translatedAt": "2026-10-03T20:01:08.901179+00:00",
-          "translationLastCommit": "2a69d371",
-          "translationLastModified": "2026-09-25T05:20:02+08:00",
+          "translationLastCommit": "e1b68aee",
+          "translationLastModified": "2026-10-04T05:58:26+08:00",
           "inferred": false,
           "footnoteDefs": 41,
           "bytes": 55553,
@@ -27482,8 +27482,8 @@
           "sourceContentHash": "sha256:f80d5de0dc1467d4",
           "sourceBodyHash": "sha256:5ac3c1dc79dee79a",
           "translatedAt": "2026-10-03T20:44:08.714718+00:00",
-          "translationLastCommit": "c911db92",
-          "translationLastModified": "2026-07-27T20:11:07+08:00",
+          "translationLastCommit": "e1b68aee",
+          "translationLastModified": "2026-10-04T05:58:26+08:00",
           "inferred": false,
           "footnoteDefs": 38,
           "bytes": 48405,
@@ -118504,18 +118504,18 @@
         "de": {
           "path": "de/People/tsai-ming-liang.md",
           "translatedFrom": "People/蔡明亮.md",
-          "sourceCommitSha": "97e35f050",
-          "sourceContentHash": "sha256:762a1102ba17f314",
-          "sourceBodyHash": "",
-          "translatedAt": "2026-08-19T03:50:18+08:00",
+          "sourceCommitSha": "112856faf",
+          "sourceContentHash": "sha256:9ed1f7923fa72bf2",
+          "sourceBodyHash": "sha256:0c0888dfd516b33c",
+          "translatedAt": "2026-10-04T05:18:01+08:00",
           "translationLastCommit": "06b42b82",
           "translationLastModified": "2026-08-19T03:57:22+08:00",
           "inferred": false,
-          "footnoteDefs": 7,
-          "bytes": 10759,
+          "footnoteDefs": 8,
+          "bytes": 11358,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (8→7)"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -163454,18 +163454,18 @@
         "vi": {
           "path": "vi/Food/taiwanese-new-immigrant-culinary-fusion.md",
           "translatedFrom": "Food/台灣新住民美食融合.md",
-          "sourceCommitSha": "9094012f4",
-          "sourceContentHash": "sha256:77ab88a911a474f4",
-          "sourceBodyHash": "sha256:0ecfd7b1fa40d486",
-          "translatedAt": "2026-09-23T05:53:44+08:00",
+          "sourceCommitSha": "10b5f473e",
+          "sourceContentHash": "sha256:ec43c04dc374e045",
+          "sourceBodyHash": "sha256:c3bafaeb7fb89ca0",
+          "translatedAt": "2026-10-03T21:52:58.602367+00:00",
           "translationLastCommit": "e314cdbe",
           "translationLastModified": "2026-09-23T07:02:13+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 27233,
+          "footnoteDefs": 8,
+          "bytes": 30113,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (8→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Food/taiwanese-new-immigrant-culinary-fusion.md",
@@ -187540,18 +187540,18 @@
         "hi": {
           "path": "hi/History/taiwan-military-dependents-villages-history.md",
           "translatedFrom": "History/台灣眷村歷史.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:e26ca70cc051b743",
-          "sourceBodyHash": "sha256:6ea24f40d826e7d7",
-          "translatedAt": "2026-07-25T05:00:12+08:00",
+          "sourceCommitSha": "e1247815f",
+          "sourceContentHash": "sha256:a769f300a4a6b10d",
+          "sourceBodyHash": "sha256:62a8c3544391f28d",
+          "translatedAt": "2026-10-04T05:18:01+08:00",
           "translationLastCommit": "9e8d6b47",
           "translationLastModified": "2026-07-25T06:33:04+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 41413,
+          "footnoteDefs": 15,
+          "bytes": 54221,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (15→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/History/taiwan-military-dependents-villages-history.md",
