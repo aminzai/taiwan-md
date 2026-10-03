@@ -1,15 +1,15 @@
 ---
-title: 'Die Geschichte der taiwanesischen Militärstätten (Jīndiàn)'
-description: 'Von der einzelnen Einheit in Burma zum Bamboo-Village-Reich: Wie 1,2 Millionen Menschen eine große Migration und die Neudeﬁnition von ‚Zuhause‘'
+title: 'Die Geschichte der Wohnsiedlungen für Soldaten (Juan-Cun) in Taiwan'
+description: 'Von den isolierten Truppen aus Myanmar bis zum "Zaunreich": Wie die große Umsiedlung das Konzept des "Heims" neu definierte'
 date: 2026-03-22
 category: 'History'
 tags:
   [
-    'Militärstätten',
-    'ausländische Einwanderer',
-    'Krieg der Kuomintang',
-    'kulturelle Bewahrung',
-    'Stadterneuerung',
+    'Wohnsiedlung',
+    'Einwanderer aus dem Ausland',
+    'Bürgerkrieg zwischen Nationalisten und Kommunisten',
+    'Kulturerbeerhaltung',
+    'Stadtentwicklung',
   ]
 subcategory: '社會與日常史'
 author: 'Taiwan.md Contributors'
@@ -19,186 +19,212 @@ lastHumanReview: false
 difficulty: 'intermediate'
 readingTime: 12
 translatedFrom: 'History/台灣眷村歷史.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:e26ca70cc051b743'
-sourceBodyHash: 'sha256:6ea24f40d826e7d7'
-translatedAt: '2026-09-10T18:19:25+08:00'
+sourceCommitSha: 'e1247815f'
+sourceContentHash: 'sha256:a769f300a4a6b10d'
+sourceBodyHash: 'sha256:62a8c3544391f28d'
+translatedAt: '2026-10-04T00:52:00+08:00'
 ---
 
-# Die Geschichte der taiwanesischen Militärstätten (Jīndiàn)
+# Die Geschichte der Wohnsiedlungen für Soldaten (Juan-Cun) in Taiwan
 
-> **30-Sekunden-Überblick:** Die erste Militärstätte Taiwans wurde nicht für reguläre Soldaten gebaut, sondern für die ‚Einzelkämpfer‘, die fünf Jahre durch den burmesischen Dschungel zogen, bevor sie nach Taiwan kamen. Diese von General Li Mi angeführte Yunnan-Anti-Communist-Rescue-Army erlebte ein Schicksal, das noch dramatischer war als das der anderen ausländischen Einwanderer. Ab 1954 wurden in ganz Taiwan mehr als 300 Militärstätten errichtet, die die Erinnerung an die Migration von 1,2 Millionen Menschen tragen und letztendlich zur Vielfalt der taiwanesischen Kultur beitrugen.
+> **30-Sekunden-Überblick:** Ende der 1940er Jahre errichtete die Regierung der Republik China (ROC) Wohnsiedlungen für die Angehörigen von Truppen, die mit den Streitkräften nach Taiwan kamen. Bis 1984 gab es 888 solche Siedlungen, und laut einer Statistik von 1982 lebten dort etwa 470.000 Menschen. Zhongzhen Xin-cun in Taoyuan ist ein Beispiel dafür; sie wurde im Herbst 1954 für die Angehörigen der anti-kommunistischen Volksarmee aus Nordmyanmarem gebaut, die fast vier Jahre lang Guerillakrieg an der Grenze zwischen China und Myanmar führten, bevor sie nach Taiwan kamen. Von einem Zaunreich zu staatlichen Wohnanlagen entwickelte sich die Wohnsiedlung schließlich zu einem wichtigen genetischen Bestandteil der multikulturellen Identität Taiwans.
 
-Im Herbst 1954, an der Grenze zwischen Taoyuan Pingzhen und Zhongli, wurden 530 einfache Häuser innerhalb kurzer Zeit fertiggestellt. Diese aus Bambuszäunen, Lehm und Ziegeln gebauten Häuser waren durchschnittlich kleiner als 10 Ping groß, doch sie trugen das Schicksal einer besonderen Gruppe von Bewohnern: Sie waren nicht die Soldaten, die direkt mit der Regierung nach Taiwan kamen, sondern die ‚Einzelkämpfer‘ von der Festlandküste nach Burma und dann nach Taiwan.
+Im Herbst 1954 wurde in Longgang, an der Grenze zwischen Pingzhen und Zhongli in Taoyuan, etwa 530 einfache Häuser vom Verteidigungsministerium errichtet (Wikipedia nennt 534 oder 503). Diese Häuser, gebaut aus Bambuszäunen, gelbem Lehm und Wellblech, waren pro Familie weniger als 10 Pings groß, beherbergten aber das Schicksal einer besonderen Bevölkerungsgruppe – sie waren keine Soldatenfamilien, die direkt mit der Regierung nach Taiwan kamen, sondern Angehörige der "isolierten Truppen", die von China über Myanmar nach Taiwan gelangt waren.
 
-**Die Geburt des Zhongzhen-Xīncūn (Neues Zhongzhen-Dorf) als erste Militärstätte Taiwans, bedeutete, dass die Kultur der Militärstätten von Natur aus komplex ist: Nicht nur ein Dialog zwischen der Festlandküste und dem Festland, sondern auch eine Dialektik von Exil und Ansiedlung, von Vorübergehung und Permanenz, von Heimat und Fremdland.**
+**Die Entstehung von Zhongzhen Xin-cun verdeutlicht den komplexen Charakter der Wohnsiedlungskultur: Es ist nicht nur ein Dialog zwischen Einwanderern aus dem Ausland und Einheimischen, sondern auch eine Dialektik von Exil und Ansiedlung, von Vorübergehendem und Permanentem, vom Heimatland und dem Fremden.**
 
-## Der komplexe Spektrum der großen Migration
+## Das komplexe Spektrum der großen Umsiedlung
 
-### 1,2 Millionen Menschen, mehrere Wege
+### 1,2 Millionen Menschen, multiple Wege
 
-Die Standardformel ‚1,2 Millionen Soldaten und Zivilisten folgten der Regierung nach Taiwan‘ ist zu einfach. Laut historischer Forschung, deckt diese Zahl mehrere Wellen der Migration zwischen 1945 und 1953 ab:
+Die Behauptung, "1,2 Millionen Soldaten und Zivilisten seien mit der Regierung nach Taiwan gekommen", ist verbreitet, aber die Realität ist weitaus komplizierter. Die ankommenden Personen erreichten Taiwan in mehreren Wellen zwischen 1945 und 1954:
 
-- **1945–1949**: Etwa 600.000 Soldaten kamen direkt nach Taiwan, zusätzlich etwa 500.000 Beamte und Zivilisten
-- **1950**: 70.000 Soldaten zogen sich aus den Schweizer Inseln zurück, zusätzlich etwa 120.000 Zivilisten
-- **1953**: 26.028 Soldaten von Huang Jie auf der Insel Fuguo in Vietnam
-- **1954**: Etwa 14.000 koreanische Kriegsgefangene, zusätzlich 3.000 Resteure von Li Mi in Burma
+- **Um 1949:** Etwa 600.000 Soldaten der Regierung zogen nach Taiwan, zusammen mit Beamten und Zivilisten [^2].
+- **1950:** Die Evakuierung von Zhoushan führte dazu, dass über 120.000 Truppen und etwa 20.000 lokale Einwohner innerhalb von drei Tagen nach Taiwan gelangten [^3].
+- **1953:** Die Huang-Truppe aus Fukou auf Vietnam wurde nach Taiwan gebracht; etwa 30.000 Menschen erreichten Taiwan [^4].
+- **Ende 1953 bis 1954:** Die anti-kommunistischen Volksarmeen aus Nordmyanmarem zogen in drei Gruppen nach Taiwan: die erste Gruppe bestand aus 6.986 Personen [^5]; über 14.000 chinesische Freiwilligenkriegsgefangene vom Koreakrieg wählten, nach Taiwan zu kommen; die erste Gruppe erreichte Keelung am 23. Januar 1954 [^6].
 
-**Dies war kein einfacher Rückzug, sondern ein 8-jähriger, unregelmäßiger Exilprozess.** Jede Welle der Migration war von verschiedenen Formen von Verzweiflung und Hoffnung geprägt. Während die direkt nach Taiwan kommenden Soldaten staatliche Unterstützung erhielten, erlebten die Einzelkämpfer einen doppelten Exil: Zuerst verloren sie ihre Heimat, dann mussten sie am Grenzgebiet überleben.
+**Dies war keine einzelne Evakuierung, sondern ein fast zehnjähriges, unterbrochenes Exil.** Hinter jeder Welle stand eine andere Mischung aus Verzweiflung und Hoffnung. Viele Soldatenfamilien, die direkt nach Taiwan kamen, erhielten staatliche Unterstützung; die Angehörigen der isolierten Truppen erlebten jedoch ein doppeltes Exil – zuerst den Verlust der Heimat, dann das Überleben an der Grenze.
 
-### Das besondere Schicksal der Einzelkämpfer
+### Das besondere Schicksal der isolierten Truppen
 
-Die 193. Armee von General Li Mi, die Yunnan-Anti-Communist-Rescue-Army, war unter allen Migranten diejenige mit dem kompliziertesten Weg. Nach der Niederlage der Kuomintang-Armee in Yunnan im Jahr 1949, zog sich diese Einheit nicht direkt nach Taiwan zurück, sondern zog in den nördlichen burmesischen Dschungel, wo sie fünf Jahre lang guerrillaähnlich kämpfte.
+Die anti-kommunistischen Volksarmeen unter dem Kommando von Li Mi waren eine der am schwierigsten geführten Gruppen unter allen nach Taiwan gekommenen Personen. Nach der Niederlage in Yunnan Ende 1949 zogen diese Truppen nicht direkt nach Taiwan, sondern drangen in Nordmyanmarem ein und führten fast vier Jahre lang Guerillakrieg an der Grenze zwischen China und Myanmar.
 
-> **📝 Anmerkungen des Kuratoriums**  
-> Der ‚Einzel‘ in ‚Einzelkämpfer‘ bezieht sich nicht nur auf die geografische Isolation, sondern auch auf die politische Aporie. Sie wurden weder von der burmesischen Regierung anerkannt noch von der internationalen Gemeinschaft akzeptiert, und ihre ‚Freund‘-Identität war vage.
+> **📝 Notiz des Kurators**
+> Die "Isolation" der isolierten Truppen war nicht nur geografisch, sondern auch politisch. Sie wurden weder von der Regierung Myanmars anerkannt noch von der internationalen Gemeinschaft akzeptiert; selbst ihr Status als "freundliche Streitkräfte" war vage.
 
-Im Frühjahr 1954, unter internationalem Druck, erhielt Li Mis Einzelkämpfer schließlich die Genehmigung, nach Taiwan zu ziehen. Als diese Männer, Frauen und Kinder am Flughafen in Taipeh-Songshan ankamen, erwartete sie kein heroisches Willkommen, sondern die Realität, dass sie in Lagerhäuser in Jiayi aufgeteilt wurden. Die Mangel an Ressourcen waren sogar schlimmer als während des Exils in Burma, was zur Entscheidung des Regiments führte, in Taoyuan die Zhongzhen-Xīncūn (Neues Zhongzhen-Dorf) eilig zu errichten.
+Nachdem die Republik China (ROC) wegen des Landraubes durch das Militär in Myanmar beim UN klagt hatte, verhandelten die ROC mit den USA, Thailand und Myanmar über einen Rückzug der Truppen aus Myanmar. Ab Ende 1953 zogen Li Mi mit der 193. Division und ihren Angehörigen in mehreren Gruppen nach Taiwan [^1]. Diese Menschen wurden nicht mit heldenhaftem Empfang begrüßt, sondern fanden sich in den Lagerhäusern von Zuckerfabriken in Xiuzhou, Dalin und Wufeng wieder, wo sie untergebracht waren, wobei der Mangel an Vorräten „selbst schlimmer war als während des Guerillakriegs in Nordmyanmarem“ [^7]. Dies führte zur Entscheidung des Verteidigungsministeriums, im Herbst 1954 Zhongzhen Xin-cun in Taoyuan zu errichten.
 
-**Die erste Militärstätte Taiwans wurde für die letzten Ankömmlinge gebaut.** Diese zeitliche Ironie, deutete die Vielfalt der Kultur der Militärstätten bereits an.
+Zhongzhen Xin-cun wird oft fälschlicherweise als "die erste Wohnsiedlung der ROC nach der Ankunft in Taiwan" bezeichnet [^7], was nicht haltbar ist. Shiqinan-cun in Sanzhangli, Taipei, wurde bereits 1948 errichtet [^8]; Huangpu Xin-cun in Fengshan wurde 1949 von den Truppen Sun Liren besetzt [^9]; Qiaoai Xin-cun in Daxi, Taoyuan, war ebenfalls eine der ersten Wohnsiedlungen. **Zhongzhen Xin-cun ist eine der Wohnsiedlungen, die das Verteidigungsministerium für die später eintreffenden isolierten Truppen errichtete.** Ihr Besonderes liegt nicht im Zeitpunkt, sondern in der Herkunft ihrer Bewohner: Die Akzente und Essgewohnheiten aus Yunnan, Thailand und Myanmar unterschieden sich von denen anderer Wohnsiedlungen.
 
-## Der Bau des Bamboo-Village-Reichs
+## Der Aufbau des Zaunreichs
 
-### Militärische Geografie
+### Militärgeographie
 
-Die räumliche Verteilung der Militärstätten spiegelt die militärische Struktur wider. Die Bewohner jeder Militärstätte stammen fast alle aus derselben militärischen Einheit, sogar aus derselben Truppe:
+Die räumliche Verteilung der Wohnsiedlungen spiegelt die militärische Zugehörigkeit wider. Viele Wohnsiedlungen wurden nach Truppentyp und -einheit organisiert; in derselben Siedlung waren fast alle Männer aus demselben Truppentyp, manchmal sogar derselben Einheit [^7]:
 
-- **Kaohsiung Zuoying**: Marine-Militärstätte, überwiegend aus Shandong
-- **Taichung Qingquan Gong**: Luftwaffen-Militärstätte
-- **Taoyuan Zhongzhen-Xīncūn**: Yunnan-Guerrilla-Einheit, mit starker Bai-Kultur
-- **Tainan Erkong**: Luftwaffe, überwiegend aus Sichuan und Hunan
+- **Kaohsiung Zuoying:** Marinewohnsiedlung, viele Bewohner aus Shandong, der Markt war hauptsächlich auf Nudeln ausgerichtet [^11].
+- **Taichung Qingquan Gang:** Luftwaffe Wohnsiedlung.
+- **Zhongzhen Xin-cun in Taoyuan:** Yunnan-Myanmar Guerillatruppen, starke Kultur von Yunnan und Burma.
+- **Ren De Er Kong in Tainan:** Luftwaffe, hauptsächlich Bewohner aus Sichuan und Hunan [^11].
 
-> **💡 Wussten Sie schon?**  
-> Laut Statistiken der Provinzherkunft der Soldaten, die nach Taiwan kamen, war Shandong am häufigsten vertreten (72.600), gefolgt von Guangdong (66.600) und Jiangsu (54.900). Diese Zahlen bestimmen direkt die ‚Dialektkarte‘ der Militärstätten.
+> **💡 Wussten Sie?**
+> Nach der heutigen administrativen Gliederung Chinas waren die Soldaten, die nach Taiwan kamen, am häufigsten aus der Provinz Shandong (72.604 Personen), gefolgt von Guangdong (66.613 Personen) und Jiangsu (54.950 Personen) [^2]. Diese Zahlen bestimmten direkt die "Dialektikarte" der Wohnsiedlungen.
 
-Dieses Muster der militärischen Konzentration war sowohl eine Notwendigkeit der Regierungsverwaltung als auch eine natürliche Erweiterung der Soldatenkultur. Die Beziehungen unter Kameraden, die auf dem Schlachtfeld Blut und Schwäche teilten, wurden in Taiwan zu Nachbarschaftsbeziehungen. **Die Militärstätten waren nicht nur Wohngegenden, sondern auch eine zivile Erweiterung der militärischen Kultur.**
+Dieses Muster der Truppensiedlung war sowohl eine Notwendigkeit für die staatliche Verwaltung als auch eine natürliche Erweiterung der Militärkultur. Die Kameradschaft an der Front war ein Leben und Tod, was sich in Taiwan zu einer Nachbarschaftshilfe entwickelte. **Die Wohnsiedlung war nicht nur ein Wohngebiet, sondern eine zivile Erweiterung der Militärkultur.**
 
-### Materielle Not, geistige Reichtum
+### Materieller Mangel, geistiger Reichtum
 
-Die materiellen Bedingungen in den frühen Militärstätten waren äußerst schlecht. Die Häuser in Zhongzhen-Xīncūn waren ‚durchschnittlich kleiner als 10 Ping groß, und der bewohnbare Raum betrug nur etwa 4,5 Ping‘, wobei das Wohnzimmer auch als Schlafzimmer diente und die Küche nur Platz für einen Herd hatte. Bambuszäune, Lehmverfüllung und Ziegeldächer, und Regen und Donner konnten zu einem elektrischen Schlag führen.
+Die materiellen Bedingungen der frühen Wohnsiedlungen waren extrem einfach. Die Häuser in Zhongzhen Xin-cun waren "durchschnittlich weniger als 10 Pings groß, und die bewohnbare Fläche betrug nur etwa 4,5 bis 5 Pings" [^7]; das Wohnzimmer diente auch als Schlafzimmer, und die Küche beherbergte nur einen Herd. Die Bambuszäune, der Lehmputz und das Wellblechdach konnten bei Regen und Donner noch zu Stromschlägen führen.
 
-Doch inmitten der materiellen Knappheit entwickelten die Bewohner der Militärstätten erstaunliche Kreativität:
+Doch inmitten des materiellen Mangels entwickelten die Bewohner erstaunliche Kreativität:
 
-- Benzinkanister als Brunnen
-- Alte Holzplatten als Raumtrennwände
-- Defekte Regenschirme als Sonnenschirme
-- Mehlbeutel als Bettwäsche und Kleidung
+- Flugzeugbenzinbehälter dienten als Brunnen
+- alte Holzplatten wurden zur Raumteilung verwendet
+- zerbrochene Regenschirme dienten als Sonnenschutz
+- Mülltüten wurden zu Bettlaken und Kleidung umfunktioniert
 
-**Die Philosophie der Knappheit ist keine Wahl, sondern eine Überlebensfähigkeit.** Und gerade diese gemeinsame Erfahrung der Schwierigkeiten, stärkte das Gemeinschaftsgefühl in den Militärstätten.
+**Die "Philosophie des Überlebens" war keine Wahl, sondern eine Überlebensfertigkeit.** Doch gerade diese gemeinsame Not erzeugte die einzigartige Gemeinschaftskohäsion der Wohnsiedlungen.
 
-## Rekonstruktion des Essensgedächtnisses
+## Die Neukonstruktion der Essensgedächtnisse
 
-### Die föderale Fusion der acht kulinarischen Traditionen
+### Die zivile Verschmelzung von acht Küchenstilen
 
-Das konkreteste Kulturerbe der Militärstätten ist die Küche. Mutter aus allen Teilen Chinas, die in den begrenzten Zutaten und schwachen Küchen der Militärstätten, versuchten, die acht kulinarischen Traditionen Chinas nachzubauen – doch dieser Nachbau war in Wirklichkeit ein Prozess der Innovation.
+Das konkretste kulturelle Erbe der Wohnsiedlungen ist das Essen. Die Mütter aus den verschiedenen Regionen, die mit begrenzten Zutaten und in improvisierten Küchen kochten, rekonstruierten die acht großen Küchenstile Chinas – doch dieser Rekonstruktionsprozess war eigentlich ein Innovationsprozess.
 
-> **⚠️ Kontroverse Sichtweise**  
-> Der Schriftsteller Chiao Tung sagte einmal: ‚Es gibt kein Sichuan-Beef-Noodles in Sichuan, kein mongolisches Barbecue in der Mongolei, und keine Fuzhou-Nudeln in Fuzhou.‘ Sind die Gerichte der Militärstätten ‚Originalgeschmack‘ oder ‚taiwanesischer Geschmack‘? Die Antwort könnte beides sein, oder weder das eine noch das andere.
+> **⚠️ Kontroverse Ansicht**
+> Der Autor Jiao Tong sagte: "Sichuan hat keine Sichuan-Rindernudeln, Mongolei hat kein mongolisches Grillfleisch, Fuzhou hat keine Fuzhou-Nudeln" [^11]. Sind die Wohnsiedlungsgerichte "Originalgeschmack" oder "Taiwan-Geschmack"? Die Antwort ist wahrscheinlich beides und keines.
 
-**Die drei Hauptmerkmale der Militärstadtküche:**
+**Drei Besonderheiten der Wohnsiedlungsküche:**
 
-1. **Lokalisierung durch Nutzung lokaler Zutaten**: Taiwanische Gemüse wurden verwendet, um Gerichte aus der Heimat zuzubereiten, und die Gewürze wurden an den Geschmack der taiwanesischen Bevölkerung angepasst
-2. **Pragmatismus, um Geld zu sparen**: Ein Topf mit Brühe, der die ganze Familie satt macht, und ein Stück Tofu, das in zehn verschiedene Gerichte verwandelt werden kann
-3. **Austausch von Kochtechniken zwischen Provinzen**: Mutter aus Shandong lernten die Schärfe von Sichuan kennen, und Mutter aus Jiangzhe verwendeten die Kochtechnik der kantonesischen Küche
+1. **Lokalisierung durch lokale Zutaten:** Heimatgerichte wurden mit taiwanesischen Gemüse zubereitet, die Gewürze passten zum Geschmack Taiwans.
+2. **Pragmatismus des Sparens und Sattmachens:** Ein Eintopf ernährte die ganze Familie; ein Stück Tofu wurde zu zehn verschiedenen Gerichten gemacht.
+3. **Interregionale Technikaustausch:** Mütter aus Shandong lernten die Schärfe von Sichuan, während Frauen aus Jiangsu und Zhejiang die Wok-Technik der Guangdonger anwendeten.
 
-Die Nudeln mit Rindfleisch sind ein gutes Beispiel. Die Sichuan-Rindfleischnudeln wurden in Kaohsiung angebaut, und die Straße Yongkang in Taipeh entwickelte eine klare Brühe-Variante, während der Süden und Südosten traditionelle chinesische Medizin als Ersatz für fermentierte Bohnensaucen verwendeten. **Die ‚Rindfleischnudeln‘ wurden zu einem typischen taiwanesisches Snack, obwohl es in Sichuan keine solche Speise gibt.**
+Die Rindernudeln sind das beste Beispiel. Nach der Ankunft in Taiwan wurden Sichuan-Rindernudeln in Kaohsiung populär; später tauchten sie auch in Yongkang Street und Xinyi Road in Taipei auf, während im Süden und Mittleren Osten die roten Gerichte mit chinesischen Heilkräutern anstelle von Doebang (fermentierte Bohnenpaste) zubereitet wurden [^11]. **"Rindernudeln" sind ein repräsentatives taiwanesisches Gericht, aber Sichuan hat keine "Sichuan-Rindernudeln".**
 
-### Der Markt als Kulturkreuz
+### Der Markt als kultureller Knotenpunkt
 
-Die Märkte der Militärstätten waren die erste Schnittstelle für den kulturellen Austausch zwischen der Festlandküste und dem Festland. In Bezug auf den Markt in Zhongzhen, begannen die Marktforschung, die in den Militärstätten lebten, indem sie von den Bauernwagen aus der Nähe kamen und die Mutter der Militärstätten als feste Kunden wurden, und schufen schließlich einen Markt.
+Der Wohnsiedlungsmarkt war die erste Front des kulturellen Austauschs zwischen Einwanderern aus dem Ausland und Einheimischen. Nehmen wir den Zhongzhen-Markt: Ursprünglich verkauften Gemüsebauern aus Xiaoli ihre Waren entlang der Straßen in die Wohnsiedlungen [^7], und die Mütter der Wohnsiedlung wurden zu Stammkunden, was zur Entstehung eines Marktes führte.
 
-**Dieses scheinbar einfache Kaufverkaufsverhältnis war in Wirklichkeit der erste tiefe Kontakt zwischen zwei Gemeinschaften.** Die Menschen von der Festlandküste lernten den Geschmack der ausländischen Einwanderer kennen, und die ausländischen Einwanderer wurden mit den Zutaten in Taiwan vertraut. Die süßen Brezeln und das Öl, die Sojasoße und der alte rote Tee, begannen, in demselben Markt nebeneinander zu existieren.
+**Diese scheinbar einfache Handelsbeziehung war tatsächlich der erste tiefe Kontakt zwischen zwei Gemeinschaften.** Die Einheimischen lernten die Geschmäcker der Einwanderer kennen; die Einwanderer gewöhnten sich an die taiwanesischen Zutaten. Gebackenes und Fleischgerichte, Sojamilch und traditioneller Schwarztee begannen, auf demselben Markt zu existieren.
 
-## Die drei Generationen der Identitätsentwicklung
+## Drei Generationen des Identitätswandels
 
-### Die erste Generation: Ewiges Heimweh
+### Erste Generation: Ewige Heimweh
 
-Die erste Generation der Militärstätten bewahrte stets ihre Verbundenheit mit der Heimat. Für sie war ‚China‘ keine politische Realität, sondern die Erinnerung an die großen Mantou aus Shandong, das rote Braten aus Sichuan und die gewürzten Würste aus Hunan.
+Die erste Generation der Wohnsiedlungen pflegte stets eine Sehnsucht nach ihrer Heimat. Ihr "China" war kein politischer Staat, sondern das Shandong-Brot, das Sichuan-Rindfleisch oder die Hunan-Wurst in der Erinnerung.
 
-Die Regierung erwartete ursprünglich, dass die ‚Rückkehr zum Festland‘ schnell und problemlos vonstattwegen, daher waren die Militärstätten alle vorübergehend konzipiert. Die einfachen Häuser und unzureichende Infrastruktur, spiegelten die optimistische Erwartung wider, dass sie bald zurückkehren könnten. **Doch aus drei Jahren wurden dreißig Jahre, aus vorübergehend wurden dauerhaft, und die Militärstätten wurden zu einer unvermeidlichen ‚kleinen Heimat‘.**
+Die Regierung hatte ursprünglich erwartet, dass der "Gegenangriff auf den Kontinent" schnell erfolgreich wäre, daher waren die Wohnsiedlungen temporär konzipiert. Die einfachen Häuser und unzureichende Infrastruktur spiegelten die optimistische Erwartung wider, "bald nach Hause zurückzukehren". **Doch drei Jahre wurden zu dreißig Jahren, das Temporäre wurde Permanent, und die Wohnsiedlung wurde zur hilflosen "kleinen Heimat".**
 
-Die Sprickpolitik spiegelte auch diese Einstellung wider. Die Militärstätten setzten stark auf die Förderung der Mandarin-Sprache, doch diese Mandarin-Sprache, trug nicht nur die Funktion der Kommunikation, sondern auch die kulturelle Identität. Die Kinder der Militärstätten konnten die Namen der Flüsse des Yangtze-Tals auswendig lernen, aber nicht die Namen der benachbarten Bäche.
+Auch die Sprachpolitik spiegelt diese Mentalität wider. Die Wohnsiedlungen förderten intensiv die Mandarin-Bildung, aber dieses "Mandarin" trug nicht nur eine Kommunikationsfunktion, sondern auch eine kulturelle Identität. Die Kinder der Wohnsiedlungen konnten Ortsnamen im Jangtsekiang-Einzugsgebiet aufsagen, wussten aber nichts über den Bach nebenan.
 
-### Die zweite Generation: Die Zerrissenheit der Identität
+### Zweite Generation: Identitätszerrissenheit
 
-Die zweite Generation der Militärstätten stand einem nie dagewesenen Identitätsproblem gegenüber. Sie wuchsen in den Militärstätten auf und wurden mit chinesischer Kultur erzogen, doch das Land, in dem sie lebten, war Taiwan. Nach der Lockerung der Zensur im Jahr 1987 und der Öffnung für Familienbesuche, wurde diese Spaltung noch stärker.
+Die zweite Generation der Wohnsiedlungen stand vor einem beispiellosen Identitätsdilemma. Sie wuchsen in den Wohnsiedlungen auf und wurden mit chinesischer Kultur erzogen, lebten aber auf Taiwan. Nach der Lockerung der Repression im Jahr 1987 und der Öffnung für Besuche wurde diese Spaltung noch dramatischer.
 
-**Interessanterweise ist:** Als die Soldaten der ersten Generation endlich nach Hause zurückkehren konnten, entdeckten viele von ihnen, dass sie sich nicht mehr angepasst hatten. Die 40 Jahre der Trennung, hätten ‚Heimat‘ zu einem fremden Ort gemacht. Im Gegenteil, obwohl Taiwan ursprünglich ein ‚vorübergehender Aufenthalt‘ war, war es bereits eine echte ‚Heimat‘.
+**Der interessante Widerspruch ist:** Als die alten Soldaten der ersten Generation endlich ihre Heimat besuchen konnten, stellten viele fest, dass sie sich "nicht mehr angepasst" hatten. Vier Jahrzehnte Trennung machten die "Heimat" zu einem fremden Ort. Im Gegensatz dazu war Taiwan zwar einst ein "vorübergehender Aufenthaltsort", aber es war bereits das wahre "Zuhause".
 
-Die politische Einstellung der zweiten Generation war daher gespalten: Einige unterstützten die Vereinigung, andere unterstützten die Unabhängigkeit, und die Mehrheit unterstützte den Status quo. **‚Ich bin ein Kind der Militärstätte, und ich bin auch Taiwanese‘ – dies ist kein Widerspruch, sondern eine Realität.**
+Auch die politische Haltung der zweiten Generation spaltete sich: Einige unterstützten die Vereinigung, einige die Unabhängigkeit, und viele bevorzugten den Status quo. **"Ich bin ein Kind der Wohnsiedlung, ich bin auch Taiwaneser" – das ist keine Widersprüchlichkeit, sondern Realität.**
 
-### Die dritte Generation: Kulturelle Suche nach Wurzeln
+### Dritte Generation: Kulturelle Wurzeln suchen
 
-Die dritte Generation der Militärstätten wuchs meistens nicht in den Militärstätten auf, und ihre Erinnerung an die Militärstätten stammt hauptsächlich aus den Geschichten ihrer Eltern. Doch ironischerweise, begann gerade diese Generation mit der ‚Rettung‘ der Kultur der Militärstätten.
+Die dritte Generation wuchs meist nicht in den Wohnsiedlungen auf; ihr Wissen über die Wohnsiedlungen stammte hauptsächlich aus Erzählungen ihrer Eltern. Paradoxerweise begann gerade diese Generation die "Rettungsbewegung" der Wohnsiedlungskultur.
 
-Durch Feldforschung, mündliche Geschichte und digitale Archivierung, erkannte die dritte Generation die Militärstätten neu. Diese ‚kulturelle Suche nach Wurzeln‘ spiegelt die Sehnsucht nach kulturellen Wurzeln in einer globalisierten Welt wider. **Sie suchten nicht nach politischer Identität, sondern nach der Vielfalt der kulturellen Identität.**
+Durch Feldstudien, mündliche Geschichte und digitale Archivierung lernten die dritten Generationen die Wohnsiedlungen neu kennen. Diese "Suche nach kulturellen Wurzeln" spiegelt das menschliche Streben nach kultureller Herkunft in einer globalisierten Ära wider. **Sie suchten nicht nach politischer Identität, sondern nach der Bereicherung ihrer kulturellen Identität.**
 
-## Der Kampf zwischen Abriss und Erhalt
+## Der Kampf zwischen Abriss und Erhaltung
 
-### 1996: Das zweischneidige Schwert der Umbauregeln
+### 1996: Das zweischneidige Schwert des Umbaugesetzes
 
-Die Durchsetzung der ‚Umbauregeln für die alten Militärstätten der Nationale Befreiungsarmee‘ im Jahr 1996, markierte den Beginn des massiven Verschwindens der Militärstätten. Das Ziel der Politik war klar und praktisch: Verbessern der Wohngbedingungen in den Militärstätten, Freisetzen von Grundstücken in zentralen Gegenden und Lösen der Anforderungen an die städtische Entwicklung.
+Mit der Veröffentlichung und Inkraftsetzung des "Gesetzes zur Sanierung alter Militärwohnsiedlungen" im Februar 1996 begann die großflächige Verschwinden der Wohnsiedlungen [^12]. Das Ziel dieser Politik war sehr praktisch: Verbesserung der Lebensqualität in den Wohnsiedlungen, Freigabe wertvoller Grundstücke und Lösung von städtischen Entwicklungsbedürfnissen.
 
-> **📊 Datenquelle**  
-> Laut Statistik des Verteidigungsministeriums, gab es vor der Umsetzung der Umbauregeln im Jahr 1996, etwa 300 Militärstätten in ganz Taiwan. Bis in die 2020er Jahre, wurden etwa 90% der Militärstätten umgebaut, und nur etwa 30 Militärstätten erhielten den Status des Kulturerbes.
+> **📊 Datenquelle**
+> Im Jahr 1984 gab es 888 staatlich registrierte Wohnsiedlungen mit 109.786 Haushalten; nach Inkrafttreten des Gesetzes schrumpften sie jährlich, und im Jahr 2001 meldete das Verteidigungsministerium noch 530 öffentliche Siedlungen [^10]. Im Jahr 2018 sagte Chen Ju, die Sekretärin des Präsidentenamtes, bei der Eröffnung des Kulturparks der Wohnsiedlung in Kaohsiung: "Es gibt 886 Wohnsiedlungen auf der ganzen Insel" [^13].
 
-Nach der Umgestaltung, wurden die Militärstätten zu modernen staatlichen Wohneinheiten, was tatsächlich das Wohlergehen der Bewohner verbesserte. Doch das ursprüngliche Siedlungsmodell verschwand, und die Nachbarschaftsbeziehungen wurden ebenfalls gelockert. **Die Bewohner der Militärstätten, die in die neuen Apartments einzogen, genossen die Annehmlichkeiten des modernen Lebens, aber verloren das ‚Gefühl der Gemeinschaft, in dem jede Familie ein großes Grillfest miteinander teilte‘.**
+Die umgebauten Wohnsiedlungen wurden zu modernen staatlichen Wohnanlagen und lösten tatsächlich das Problem der Lebensqualität. Aber die ursprüngliche Siedlungsstruktur verschwand, und die Nachbarschaftsbeziehungen wurden distanziert. **Die Bewohner, die in neue Wohnungen zogen, genossen den Komfort des modernen Lebens, verloren aber das Gemeinschaftsgefühl von früher, dem "Gemeinsamem Grillen für alle".**
 
-Der Umschlagungsprozess verlief nicht reibungslos. Die Streitigkeiten über die Zuordnung, die Entschädigung für den Umzug und das emotionale Verlust, lösten viele Proteste aus. Ein tieferes Problem war: **Wenn die Militärstätten zu staatlichen Wohneinheiten wurden, konnte die ‚Kultur der Militärstätten‘ weitergeführt werden?**
+Der Umbau verlief nicht reibungslos. Streitigkeiten bei der Zuteilung, Umsiedlungsentschädigungen und emotionale Verluste führten zu vielen Protesten. Ein tieferes Problem war jedoch: **Kann die "Wohnsiedlungskultur" existieren, wenn sie zu staatlichem Wohnraum wird?**
 
-### Das Bewusstsein des Schutzes: Von illegalen Bauten zu Kulturerbe
+### Erwachen des Bewusstseins: Von illegalem Bauen zum Kulturerbe
 
-Das Baozangyan ist ein entscheidender Fall für die Bewegung zum Schutz der Militärstätten. Dieses Siedlungsgebiet auf einem Hügel nahe der Universität in Taipeh, wurde ursprünglich als ‚illegaler Bau‘ angesehen und sollte vollständig abgerissen werden. Unter dem Druck der lokalen Bürger, wurde es 2004 als ‚historisches Gebäude‘ klassifiziert.
+Baotangyan ist ein Schlüsselbeispiel für die Bewegung zur Erhaltung der Wohnsiedlungen. Diese Hanglage in der Nähe von Gongguan, Taipei, wurde ursprünglich als "illegale Bebauung" eingestuft und stand vor dem Abriss. Doch dank des Einsatzes lokaler Akteure wurde sie 2004 zum "historischen Bauwerk" und 2011 zur "Siedlungsarchitekturgruppe" [^14].
 
-Der Regenbogen-Village ist ein anderes Modell des Schutzes. Als die sechste Siedlung in der Kaserne in Taichung abgerissen werden sollte, begann Huang Yongfu, ein 90-jähriger Bewohner, mit der Malerei an den Wänden. Was ursprünglich ein ‚Protestakt‘ war, wurde 2010 durch die Verbreitung im Internet berühmt, und schließlich entschied die Regierung, den Regenbogen-Village als ‚Regenbogen-Kunstpark‘ zu erhalten.
+Caihong Xin-cun ist ein anderes Erhaltungsmodell. Es liegt in Nantun, Taichung, nahe der Gan Cheng Liu Cun, gehört aber nicht zu den staatlich registrierten Wohnsiedlungen; es wurde von einigen alten Soldaten selbst gebaut. Huang Yongfu kaufte 1979 eines dieser Häuser, und die Gegend stand vor Abriss aufgrund einer Umstrukturierung. Im August 2008 begann er, Wände zu bemalen, um Langeweile zu vertreiben und eine Erinnerung vor dem Abriss zu hinterlassen. Im September 2010 wurde nach der Rettung von Caihong Xin-cun durch Studenten aus Lingdong und Hongguang University die Stadtverwaltung von Taichung beschlossen, es als "Caihong Kunstpark" zu erhalten [^15].
 
-> **💡 Wussten Sie schon?**  
-> Huang Yongfu begann im Jahr 2008 mit der Malerei, als er fast 90 Jahre alt war, und verstand nichts von der Internet-Technologie. Er verließ sich auf Freiwillige, die ihm halfen, eine Website zu erstellen und kreative Produkte zu verkaufen, um die Kosten für die Malerei und die Instandhaltung des Gebäudes zu decken. Die Pinsel eines alten Mannes, wurden unerwartet zu einem neuen Modell für den Schutz der Militärstätten.
+> **💡 Wussten Sie?**
+> Huang Yongfu wurde 1924 geboren; als er 2008 mit dem Bemalen begann, war er 84 Jahre alt. Nachdem Caihong Xin-cun online berühmt geworden war, beauftragte die Kulturbehörde von Taichung externe Webseiten und Freiwillige, da er sich nicht gut mit dem Internet auskannte, um Kosten für Malerei und Gebäudewartung durch den Verkauf von Kunsthandwerk zu decken [^15]. Der Pinsel eines alten Mannes wurde zufällig zu einem neuen Modell der Erhaltung der Wohnsiedlungen.
 
-**Diese beiden Fälle zeigen die Vielfalt der Wege zum Schutz der Militärstätten: akademische Diskussion, Gemeinschaftsbewegung, Internet-Verbreitung und politische Wandel – alle sind unerlässlich.**
+**Diese beiden Fälle zeigen die vielfältigen Wege der Erhaltung der Wohnsiedlungen: Wissenschaftliche Abhandlung, gemeinschaftliches Engagement, Online-Verbreitung und politische Wende sind alle notwendig.**
 
-## Die Transformation der ‚Spirit der Militärstätten‘ in der Gegenwart
+## Die zeitgenössische Transformation des Wohnsiedlungsgeistes
 
-### Von Raum zu Erinnerung
+### Von Raum zu Gedächtnis
 
-Die meisten physischen Militärstätten sind verschwunden, doch die ‚Spirit der Militärstätten‘ hat im digitalen Zeitalter neue Träger gefunden:
+Die physischen Wohnsiedlungen sind größtenteils verschwunden, aber der "Geist der Wohnsiedlung" hat in der digitalen Ära neue Träger gefunden:
 
-- **Facebook-Gruppen**: ‚XX-Militärstadtschülervereinigung‘ baut ein virtuelles Gemeinschaftsgefühl auf
-- **Mündliche Geschichte-Projekte**: Mit Filmrecordings, um die Geschichten der älteren Generationen der Militärstätten zu bewahren
-- **3D-Digitalrekonstruktion**: Verschwundene Militärstätten werden in virtuellen Räumen wiederbelebt
-- **Kulturelle Produkte**: Elemente der Militärstätten werden zu beliebten Themen für nostalgische Produkte
+- **Facebook-Gruppen:** "XX Wohnsiedlungsalumni"-Vereinigungen rekonstruieren virtuelle Gemeinschaften.
+- **Mündliche Geschichtsprojekte:** Bilder werden verwendet, um die Geschichten der älteren Bewohner zu bewahren.
+- **3D-Rekonstruktionen:** Verschwundene Wohnsiedlungen werden in virtuellen Räumen wiedergeboren.
+- **Kreativindustrie:** Elemente der Wohnsiedlung sind beliebte Themen für nostalgische Produkte.
 
-**Das virtuelle Gemeinschaftsgefühl der Militärstätten, rekonstruiert das Gemeinschaftsgefühl der physischen Militärstätten in gewissem Maße.** Doch ob diese ‚Erinnerungs-Militärstätten‘ immer noch ‚echte Militärstätten‘ sind, hängt von jeder Person unterschiedlich ab.
+**Die virtuelle Gemeinschaft der Wohnsiedlung reproduziert in gewisser Weise das Gemeinschaftsgefühl der physischen Siedlung.** Aber ist dieses "gedächtnisbasierte Wohnsiedlungsleben" noch die "echte Wohnsiedlung"? Die Antwort ist subjektiv.
 
-### Das taiwanesische Modell der multikulturellen Identität
+### Das taiwanesische Modell der vielfältigen Identität
 
-Im Rückblick auf die 70-jährige Geschichte der Militärstätten, ist die wichtigste Erkenntnis möglicherweise: **Kulturelle Identität muss kein Nullsummenspiel sein.** Eine Person kann gleichzeitig ein Kind der Militärstätte, Taiwanese, Chinese und Weltbürger sein, ohne dass diese Identitäten einander ausschließen.
+Wenn man die siebzigjährige Geschichte der Wohnsiedlungen betrachtet, ist die größte Erkenntnis: **Kulturelle Identität muss kein Nullsummenspiel sein.** Eine Person kann gleichzeitig Kind einer Wohnsiedlung, Taiwaneser, chinesischer Abstammung und Weltbürger sein; diese Identitäten schließen sich nicht aus.
 
-Die Erfahrung der Militärstätten stellt auch das Bild einer einheitlichen Kultur in Frage. Kulturen aus allen Teilen Chinas, die in Taiwan neu kombiniert wurden, erzeugten eine Kultur, die sowohl vertraut als auch fremd war. Die Rindfleischnudeln, die Snacks und die Militärstadtküche, waren nicht einfach nur eine reine Wiederholung einer einzigen Tradition, sondern Innovationen der ‚kulturellen Mischung‘.
+Die Erfahrung der Wohnsiedlungen stellt auch das Bild einer einzigen Kultur in Frage. Die Kulturen aus verschiedenen Regionen wurden in Taiwan neu zusammengesetzt und erzeugten eine neue Kultur, die sowohl vertraut als auch fremd war. Rindernudeln, geröstete Fleischgerichte und Wohnsiedlungsküche sind keine reine Reproduktion eines einzelnen Erbes, sondern ein innovatives Ergebnis der "kulturellen Mischung".
 
-**Im 21. Jahrhundert, in einer globalisierten Welt, könnte das multikulturelle Experiment der Militärstätten, genau das wertvolle Erbe sein, das Taiwan der Welt bieten kann.**
+**In der globalisierten 21. Jahrhunderts ist das multikulturelle Experiment der Wohnsiedlungen möglicherweise eine wichtige Erfahrung, die Taiwan der Welt bietet.**
 
-## Nicht nur eine Heimat hinter dem Bambuszaun
+## Was der Bambuszaun umschließt, ist nicht nur Heimat
 
-> **✦** ‚Ein Bambuszaun, der 1,2 Millionen Menschen in eine neue Heimat einschließt, umschließt nicht nur eine neue Heimat, sondern auch das komplexeste und reichste DNA der taiwanesischen Kultur.’
+> **✦** Ein Bambuszaun umschloss nicht nur ein neues Zuhause für fast 500.000 Menschen, sondern auch den komplexesten und reichsten DNA-Abschnitt des taiwanesischen Kulturerbes.
 
-Die Militärstätten mögen verschwunden sein, doch was sie hinterließen, war nicht nur Nostalgie, sondern eine Fähigkeit, sich an Veränderungen anzupassen: Im schwierigsten Umfeld Leben aufbauen, in einem fremden Land Kultur pflanzen und in einer ungewissen Zukunft Hoffnung bewahren.
+Die Wohnsiedlungen mögen verschwunden sein, aber sie hinterließen mehr als Nostalgie; sie hinterließen eine Fähigkeit, mit Wandel umzugehen: das Leben unter den schwierigsten Bedingungen neu aufzubauen, Kultur auf fremdem Boden zu säen und Hoffnung in einer unsicheren Zukunft zu bewahren.
 
-**Die Philosophie der Knappheit und der Gegenseitigkeit, der Anpassung und der Beharrlichkeit, der Exil und der Ansiedlung – diese scheinbar widersprüchlichen Eigenschaften, bilden das Herz der Spirit der Militärstätten.** Sie erinnert uns daran, dass Kultur nicht eine statische Ausstellung in einem Museum ist, sondern das Leben in jedem Kochtopf, in jedem Dialekt und in jeder erzählten Geschichte.
+**Der Geist der Wohnsiedlung – gekennzeichnet durch Überleben und gegenseitige Hilfe, Anpassung und Beharrlichkeit, Exil und Ansiedlung – bildet den Kern.** Er erinnert uns daran, dass Kultur keine statische Ausstellung in einem Museum ist, sondern eine Lebenskraft, die in jedem Kochvorgang, jeder Dialektphrase und jeder überlieferten Geschichte lebt.
 
-Wenn wir heute in der multikulturellen taiwanesischen Gesellschaft durch die Gegend ziehen – in Hakka-Dörfer essen wir Tee, in Ureinwohner-Dörfern hören wir alte Melodien und in Militärstadts Märkten kaufen wir Pfefferbrezeln – dann erfahren wir tatsächlich die Erfahrung, die vor 70 Jahren in den Militärstätten begann: **Wie man aus Unterschieden Reichtum schafft, aus Exil eine Heimat macht und aus einem fremden Land eine neue Heimat.**
+Wenn wir heute durch die vielfältige Kultur Taiwans navigieren – bei der Hakka-Gemeinschaft Reitea trinken, in indigenen Dörfern alte Tänze hören oder auf dem Wohnsiedlungsmarkt Pfefferbrötchen kaufen – erleben wir eigentlich das Experiment, das vor über siebzig Jahren begann: **Wie man Unterschiede zu einer Bereicherung und das Exil zu einer Zugehörigkeit macht, die Heimat zur Heimat.**
 
-Das ist das wertvollste Erbe der Militärstätten, das sie Taiwan hinterließen: eine Optimierung, ‚Kultur kann von vorne beginnen‘, und eine Weisheit, ‚sich selbst in der Veränderung zu bewahren‘.
+Dies ist das wertvollste Erbe, das die Wohnsiedlungen Taiwan hinterlassen haben: eine Optimismus, der glaubt, dass "Kultur neu beginnen kann", und eine Weisheit, die "in der Veränderung selbst Bestand hat".
 
 ---
 
 ## Referenzen
 
-- [Die erste Militärstätte, die von der Regierung nach Taiwan gebaut wurde, wissen Sie, wo sie ist?](https://www.thenewslens.com/article/12591)
-- [1949 in Taiwan – tiefergehende Berichterstattung von ETtoday](https://events.ettoday.net/depth-report/veteran/index.htm)
-- [Ist die Militärstadtküche wirklich Heimweh oder einfach nur Essen?](https://bankofculture.com/archives/3871)
-- [Militärstätte – Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%9C%B7%E6%9D%91)
-- [Regenbogen-Militärstätte – Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%BD%A9%E8%99%B9%E7%9C%B7%E6%9D%91)
-- [Baozangyan-Gemeinschaft: Schutz und Erneuerung](https://www.ta-mag.net/ta/News.php?id=2185)
-- [Gesetz zur Umgestaltung alter Militärstätten der Nationale Befreiungsarmee](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0140013)
-- [Ministerium für Verkehr und Tourismus – Regenbogendorf](https://www.taiwan.net.tw/m1.aspx?sNo=0001016&id=A12-00236)
+[^1]: [Zhongzhen Xin-cun - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%BF%A0%E8%B2%9E%E6%96%B0%E6%9D%91) — Errichtet vom Verteidigungsministerium im Herbst 1954 in Longgang, Taoyuan; 534 Haushalte (oder 503); eine der Wohnsiedlungen für die anti-kommunistischen Volksarmeen aus Myanmar.
+
+[^2]: [Wanderung nach Taiwan 1949 - ETtoday News Cloud](https://events.ettoday.net/depth-report/veteran/index.htm) — "Im Jahr 1949 zogen 600.000 Soldaten der Regierung nach Taiwan"; Die meisten Soldaten kamen aus Shandong (72.604 Personen), gefolgt von Guangdong (66.613 Personen) und Jiangsu (54.950 Personen).
+
+[^3]: [Zhoushan-Evakuierung - Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%88%9F%E5%B1%B1%E6%92%A4%E9%80%80) — Innerhalb von drei Tagen im Jahr 1950 wurden über 120.000 Truppen und etwa 20.000 lokale Einwohner nach Taiwan evakuiert.
+
+[^4]: [Fu Tai Bu De - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%AF%8C%E8%87%BA%E9%83%A8%E9%9A%8A) — Die Truppe wurde 1953 nach Taiwan gebracht; die Anzahl der Ankommenden betrug 30.087 Personen.
+
+[^5]: [Thai-Myanmar Isolierte Truppen - Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%B3%B0%E7%B7%AC%E5%AD%A4%E8%BB%8D) — Die erste Evakuierung fand in drei Gruppen statt (vom 07. November 1953 bis zum 09. Mai 1954), insgesamt 6.986 Personen.
+
+[^6]: [Anti-Kommunistische Freiwilligen - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%8F%8D%E5%85%B1%E7%BE%A9%E5%A3%AB) — Über 14.000 Freiwillige vom Koreakrieg wählten, nach Taiwan zu kommen; die erste Gruppe erreichte Keelung am 23. Januar 1954.
+
+[^7]: [Die erste Wohnsiedlung der ROC nach der Ankunft in Taiwan, wissen Sie wo sie ist? - Schlüsselkritik-Netzwerk](https://www.thenewslens.com/article/12591) — Kolumne von Chang Zhe Sheng im Jahr 2015; die isolierten Truppen lebten temporär in Lagerhäusern von Zuckerfabriken in Xiuzhou, Dalin und Wufeng; der Mangel an Vorräten war schlimmer als während des Guerillakriegs in Nordmyanmarem; Zhongzhen Xin-cun hatte weniger als 10 Pings pro Haushalt; die Gemüsebauern aus Xiaoli gründeten den Zhongzhen Markt. Die Behauptung der "ersten" ist im Widerspruch zu Aufzeichnungen wie Shiqinan-cun, siehe Haupttext.
+
+[^8]: [Shiqinan-cun - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%9B%9B%E5%9B%9B%E5%8D%97%E6%9D%91) — Laut Untersuchung des Shiqinan-cun National Heritage Promotion Alliance wurde sie 1948 errichtet und gilt als die erste Wohnsiedlung der ROC in Taiwan.
+
+[^9]: [Huangpu Xin-cun (Taiwan) - Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%BB%83%E5%9F%94%E6%96%B0%E6%9D%91_%28%E8%87%BA%E7%81%A3%29) — Die Truppen von Sun Liren besetzten das japanische Militärlager in Fengshan im Jahr 1949 und bildeten die erste Wohnsiedlung in Taiwan.
+
+[^10]: [Wohnsiedlungen - Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%9C%B7%E6%9D%91) — Im Jahr 1984 gab es 888 staatlich registrierte Wohnsiedlungen mit 109.786 Haushalten; die Frauenliga statistisierte im Jahr 1982 879 Dörfer und etwa 467.316 Menschen; Qiaoai Xin-cun in Taoyuan war eine der ersten errichteten; im Jahr 2001 gab es noch 530 registrierte öffentliche Wohnsiedlungen.
+
+[^11]: [Wohnsiedlungsküche, was isst man, Heimweh oder Essen? - Kulturbank](https://bankofculture.com/archives/3871) — Jiao Tong sagte: "Sichuan hat keine Sichuan-Rindernudeln"; Viele aus Shandong lebten in Kaohsiung Zuoying; Bewohner aus Sichuan und Hunan lebten in Ren De Er Kong in Tainan; Sichuan-Rindernudeln wurden in Kaohsiung populär, während Rindernudelstände in Yongkang Street und Xinyi Road in Taipei auftauchten.
+
+[^12]: [Gesetz zur Sanierung alter Militärwohnsiedlungen - Nationale Gesetzdatenbank](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0140013) — Die vollständige Fassung wurde am 5. Februar 1996 durch ein Präsidentendekret festgelegt und veröffentlicht.
+
+[^13]: [Eröffnung des Kulturparks der Wohnsiedlung in Kaohsiung - ETtoday News Cloud](https://www.ettoday.net/news/20180729/1222872.htm) — Im Jahr 2018 hieß die Sekretärin des Präsidentenamtes, Chen Ju: "Es gibt 886 Wohnsiedlungen auf der ganzen Insel".
+
+[^14]: [Baotangyan Siedlung - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%AF%B6%E8%97%8F%E5%B7%96%E8%81%9A%E8%90%BD) — Am 14. Mai 2004 als historisches Bauwerk registriert; am 27. Mai 2011 als Siedlungsarchitekturgruppe registriert.
+
+[^15]: [Caihong Xin-cun - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%BD%A9%E8%99%B9%E7%9C%B7%E6%9D%91) — Huang Yongfu (1924–2024); Caihong Xin-cun liegt nahe Gan Cheng Liu Cun, ist aber kein staatlich registriertes Wohnsiedlungsgebiet; er begann 2008, aus Langeweile und als Erinnerung zu malen; nach der Rettung im September 2010 wurde es zum Caihong Kunstpark; die Kulturbehörde beauftragte externe Webseiten und Freiwillige.
+
+### Erweiterte Referenzen
+
+- [Baotangyan Gemeinschaftserhaltung und Wiederbelebung - Taiwan Architecture](https://www.ta-mag.net/ta/News.php?id=2185)
+- [Taiwan Tourism Bureau - Caihong Village](https://www.taiwan.net.tw/m1.aspx?sNo=0001016&id=A12-00236)
