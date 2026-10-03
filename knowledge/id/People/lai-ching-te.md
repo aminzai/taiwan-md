@@ -1,15 +1,15 @@
 ---
-title: 'Lai Ching-te: Dari Keluarga Tambang ke Istana Presiden sebagai Dokter Kesehatan Masyarakat'
-description: 'Presiden ke-16 Taiwan, tokoh politik pertama dalam sejarah konstitusi Republik Tiongkok (Taiwan) yang mencalonkan diri sebagai wakil presiden dan berhasil terpilih'
+title: 'Lai Ching-te: Dokter Kesehatan Masyarakat dari Keluarga Tukang Kutai ke Istana Presiden'
+description: 'Presiden ke-16 Republik Tiongkok (Taiwan), figur politik pertama dalam sejarah konstitusi yang mencalonkan diri dan terpilih sukses sebagai wakil presiden'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Presiden',
-    'Dokter',
-    'Tokoh Politik',
+    'presiden',
+    'dokter',
+    'tokoh politik',
     'Partai Demokrasi Progresif',
-    'Kesehatan Masyarakat',
+    'kesehatan masyarakat',
     'Tainan',
   ]
 subcategory: '政治與民主'
@@ -19,177 +19,184 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 readingTime: 12
 translatedFrom: 'People/賴清德.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:e9ba487782481314'
-sourceBodyHash: 'sha256:7455a72c92fc69c9'
-translatedAt: '2026-08-07T05:44:46+08:00'
+sourceCommitSha: '43e9e1c7e'
+sourceContentHash: 'sha256:5933733fa0ffe284'
+sourceBodyHash: 'sha256:759fc6aa29cdf9f0'
+translatedAt: '2026-10-04T00:51:58+08:00'
 ---
 
-# Lai Ching-te: Dari Keluarga Tambang ke Istana Presiden sebagai Dokter Kesehatan Masyarakat
+# Lai Ching-te: Dokter Kesehatan Masyarakat dari Keluarga Tukang Kutai ke Istana Presiden
 
-## Ringkasan 30 Detik
+## 30 Detik Ringkasan
 
-Lai Ching-te, Presiden ke-16 Republik Tiongkok (Taiwan), lahir 1959 di keluarga tambang Wanli, New Taipei. Memulai dari kedokteran rehabilitasi, melalui pelatihan kesehatan masyarakat di Harvard, 1996 meninggalkan profesi dokter untuk politik. Pernah menjabat Anggota Majelis Nasional, Anggota Legislatif, Wali Kota Tainan, Kepala Eksekutif (Premier), Wakil Presiden, dan 2024 terpilih Presiden. Ia adalah tokoh politik pertama dalam sejarah konstitusi yang mencalonkan diri sebagai wakil presiden dan berhasil terpilih menjadi presiden, serta tokoh politik kedua setelah Lien Chan yang pernah menjabat Kepala Eksekutif, Wakil Presiden, dan Presiden.
+Lai Ching-te, presiden ke-16 Republik Tiongkok (Taiwan), lahir pada 6 Oktober 1959 di keluarga tukang kutai di Distrik Wanli, Kota Baru Selatan. Mulai dari kedokteran rehabilitasi, melalui pelatihan di Harvard School of Public Health, pada 1996 ia meninggalkan kedokteran untuk masuk ke politik. Pernah menjabat sebagai anggota dewan nasional, anggota parlemen, gubernur Tainan, perdana menteri, dan wakil presiden, Lai terpilih sebagai presiden pada 2024. Ia adalah tokoh politik pertama dalam sejarah konstitusi yang mencalonkan diri dan terpilih sukses sebagai wakil presiden, serta tokoh kedua setelah Lin Chuan-yu yang pernah menjabat sebagai perdana menteri, wakil presiden, dan presiden. [^1]
 
-**Kata kunci**: dokter masuk politik, wali kota Tainan, preseden konstitusi, anak tambang, kesehatan masyarakat
+**Kata kunci**: dokter beralih ke politik, gubernur Tainan, kasus pertama konstitusional, putra anak tukang kutai, kesehatan masyarakat
 
-## Hati Dokter: Latar Belak Tiga Keahlian Medis Unik
+## Kasih Sayang Dokter: Latar Belakang Medis yang Unik
 
-### Dari Wanli ke Taiwan University: Jalan Pendidikan yang Mengubah Takdir
+### Dari Wanli ke Taipei: Jalan Pendidikan yang Mengubah Nasib
 
-6 Oktober 1959, Lai Ching-te lahir di keluarga tambang di Distrik Wanli, Kota New Taipei[^2]. Ayahnya meninggal akibat kecelakaan tambang saat ia berusia dua tahun, ibunya menjahit dan bekerja paruh waktu sendirian membesarkan enam anak. Masa kecil sulit ini melatih sensitivitasnya terhadap aspirasi rakyat kecil, dan membentuk gaya politik "akar rumput"nya di kemudian hari.
+Pada 6 Oktober 1959, Lai Ching-te lahir di keluarga tukang kutai di Distrik Wanli, Kota Baru Selatan. Pada Januari 1960, saat ia masih berusia 95 hari, ayahnya meninggal akibat keracunan karbon monoksida di tambang batu bara Wanli. Ibu tunggalnya harus merawat enam anaknya sendiri. [^2] Pengalaman masa kecil yang sulit ini melatih sensitivitasnya terhadap suara rakyat biasa, yang kemudian membentuk gaya politiknya yang "dari bawah".
 
-Lai Ching-te berturut-turut lulus dari Jurusan Kedokteran Rehabilitasi Universitas Taiwan, Program Pascasarjana Kedokteran Universitas Cheng Kung, dan memperoleh gelar Magister dari Fakultas Kesehatan Masyarakat Universitas Harvard. Hal ini menjadikannya dokter langka di Taiwan yang memiliki keahlian **kedokteran ketiga (rehabilitasi), kedokteran kedua (klinik), dan kedokteran pertama (kesehatan masyarakat)** sekaligus. Pelatihan medis menyeluruh ini tidak hanya memengaruhi cara berpikirnya, tetapi juga menjadi fondasi gaya kebijakan "logika berbasis bukti"nya.
+Lai Ching-te pernah kuliah di Departemen Rehabilitasi Medis Universitas Nasional Taiwan dan Program Kedokteran Pasca Sarjana Universitas Kekinian, serta memperoleh gelar sarjana dari Fakultas Kesehatan Masyarakat Universitas Harvard. Hal ini membuatnya menjadi salah satu dokter di Taiwan yang jarang memiliki ketigaa bidang keahlian medis: **kedokteran ketiga (rehabilitasi), kedokteran kedua (klinis), dan kedokteran pertama (kesehatan masyarakat)**. [^1] Pelatihan medis yang komprehensif ini tidak hanya memengaruhi cara berpikirnya, tetapi menjadi fondasi gaya pemerintahannya yang "berbasis bukti".
 
-### Masa Harvard: Pembentukan Wawasan Kebijakan Publik
+### Masa-Masa di Harvard: Membentuk Pandangan Kebijakan Publik
 
-Mulai 2000, Lai Ching-te memanfaatkan tiga musim panas untuk belajar di Fakultas Kesehatan Masyarakat Harvard, jurusan Kebijakan & Manajemen Kesehatan, dan memperoleh gelar Magister 2003[^7]. Di Harvard, ia terpapar konsep kebijakan publik mutakhir dan metode penelitian berbasis bukti. Pengalaman ini mengubahnya dari pengobatan pasien individual ke pemikiran manajemen kesehatan masyarakat secara keseluruhan. Gaya "kebijakan presisi" dan "keputusan berbasis data" yang ia tunjukkan di karir politiknya, sangat dipengaruhi oleh pelatihan kesehatan masyarakat ini.
+Saat menjabat sebagai anggota parlemen, Lai Ching-te memanfaatkan tiga libur musim panas untuk mengikuti kuliah di Fakultas Kesehatan Masyarakat Universitas Harvard dan memperoleh gelar sarjana. [^3] Di Harvard, ia terpapar dengan gagasan kebijakan publik maju dan metodologi riset empiris. Pengalaman ini mengubah cara pandangnya dari fokus pada pengobatan pasien individu ke pengelolaan kesehatan masyarakat secara keseluruhan. Gaya pemerintahannya yang "presisi" dan "berbasis data" di kemudian hari sangat dipengaruhi oleh pelatihan kesehatan masyarakat ini.
 
-1994, Lai Ching-te menjabat Direktur Medis Rumah Sakit Cheng Kung, tahun yang sama ikut serta dalam kegiatan dukungan dokter untuk pemilihan Gubernur Chen Ding-nan, memulai perjalanan keterlibatannya dalam urusan publik.
+Pada 1994, Lai Ching-te dilantik sebagai direktur medis di Rumah Sakit Universitas Kekinian, dan pada tahun yang sama secara sukarela terlibat dalam kegiatan dukungan dokter untuk kampanye gubernur Chen Ding-nan. Inilah awal dari pengalamannya dalam urusan publik. [^1]
 
-## Meninggalkan Profesi Dokter untuk Politik: Titik Balik Sejarah di Krisis Selat Taiwan
+## Meninggalkan Kedokteran untuk Politik: Perubahan Sejarah di Tengah Krisis Laut Taiwan
 
-### Inspirasi Chen Ding-nan: Masuk ke Urusan Publik
+### Inspirasi dari Chen Ding-nan: Masuk ke Urusan Publik
 
-1994, Taiwan mengadakan pemilihan Gubernur pertama kali. Lai Ching-te proaktif menjabat "Ketua Pendukung Dokter Tainan" untuk calon Partai Demokrasi Progresif Chen Ding-nan, ini titik awal keterlibatannya dalam urusan publik. Citra bersih dan ide reformasi Chen Ding-nan sangat memengaruhi nilai-nilai politik Lai Ching-te.
+Pada 1994, Taiwan mengadakan pemilihan gubernur pertama yang demokratis. Lai Ching-te sukarela menjadi ketua Komite Dukungan Dokter Chen Ding-nan dari DPP, inilah titik awalnya dalam urusan publik. Citra integritas dan semangat reformasi Chen Ding-nan sangat memengaruhi nilai politik Lai Ching-te.
 
-### Krisis Proyektil Selat Taiwan 1996: Keputusan Kunci
+### Krisis Rudal Laut 1996: Keputusan Penting
 
-1996, Tiongkok melakukan latihan proyektil menarget Taiwan, situasi Selat Taiwan mendesak. Menghadapi krisis ini, Lai Ching-te mengambil keputusan hidup besar: resmi meninggalkan profesi dokter untuk politik. Menurut pemberitaan, ia percaya demokrasi dan kebebasan Taiwan butuh lebih banyak orang yang melindungi, rasa tanggung jawab ini mendorongnya berganti jalur.
+Pada 1996, Tiongkok melakukan latihan rudal di sekitar Taiwan, menimbulkan ketegangan yang hampir memicu konflik. Di tengah krisis ini, Lai Ching-te membuat keputusan hidupnya: secara resmi meninggalkan kedokteran untuk masuk ke politik. Dilaporkan, ia merasa bahwa demokrasi dan kebebasan Taiwan membutuhkan lebih banyak orang yang rela mempertaruhkan diri untuk menjaganya. Rasa tanggung jawab ini mendorongnya untuk beralih karier.
 
-Tahun itu, ia terpilih sebagai Anggota Majelis Nasional dengan suara tertinggi di Kota Tainan, ironisnya tugas politik pertamanya justru adalah "membubarkan Anggota Majelis Nasional". Ini makna simbolis yang dalam: karir politiknya dimulai dari pembubaran sistem lama, dan sepanjang jalan selalu menyertai pendalaman dan reformasi demokrasi Taiwan.
+Pada tahun yang sama, ia terpilih sebagai perwakilah Rakyat dengan suara terbanyak di Tainan, dan mengambil tanggung jawab untuk menghapus peran perwakilah Rakyat. [^1] Simbolisme ini mendalam: dari penghapusan sistem lama, karier politiknya sejalan dengan perkembangan demokrasi Taiwan.
 
-## Perjalanan Politik: Tiga Puluh Tahun dari Parlemen ke Istana Presiden
+## Karier Politik: Tiga Puluh Tahun dari Parlemen ke Istana Presiden
 
-### Masa Anggota Legislatif (1998-2010): Membangun Reputasi melalui Interpelasi Profesional
+### Masa Jabatan Anggota Parlemen (1998-2010): Membangun Kredibilitas melalui Pengawasan
 
-1998-2010, Lai Ching-te terpilih empat kali berturut-turut sebagai Anggota Legislatif, dikenal dengan interpelasi profesional dan citra bersih. Ia memanfaatkan latar belakang medis, berperan profesional dalam reformasi Jaminan Kesehatan Nasional, kebijakan kesehatan masyarakat, dan isu-isu lain. Periode ini ia membentuk gaya interpelasi "persiapan matang, data lengkap", di DPR dikenal sebagai "Lai Shen" (Dewa Lai).
+Dari 1998 hingga 2010, Lai Ching-te terpilih ulang empat kali sebagai anggota parlemen, dikenal karena gaya pengawasannya yang profesional dan integritasnya. Ia memanfaatkan latar belakang medisnya untuk memberikan pengaruh profesional di berbagai isu seperti reformasi asuransi kesehatan dan kebijakan kesehatan masyarakat. Pada masa ini, ia membangun gaya pengawasannya yang "siap dengan baik dan data lengkap".
 
-### Masa Wali Kota Tainan (2010-2017): Teladan Sukses Tata Kelola Kota
+### Masa Jabatan Gubernur Tainan (2010-2017): Contoh Sukses Pengelolaan Kota
 
-2010 setelah penggabungan kabupaten-kota dan peningkatan status, Lai Ching-te terpilih Wali Kota Tainan pertama, 2014 berhasil terpilih kembali. Delapan tahun jabatan, ia membangun Tainan menjadi "Ibu Kota Budaya" dan "Kota Karbon Rendah".
+Setelah reformasi administrasi kota dan kabupaten pada 2010, Lai Ching-te terpilih sebagai gubernur pertama Tainan, dan pada 2014 berhasil terpilih kembali dengan persentase suara 72,90%, tertinggi di antara enam kota besar. Di saat ini lahirlah julukan "Lai Shen". [^4] Masa jabatannya sebagai gubernur berlangsung dari Desember 2010 hingga September 2017, hampir tujuh tahun. [^2]
 
-Bidang tata kelola budaya: mendorong merek "Tainan 400", restorasi sistematis cagar budaya dan mendukung industri kreatif; infrastruktur digital: membangun jaringan 4G, mendorong kerangka tata kelola digital. Bidang energi dan kesejahteraan sosial:
+Di bidang digital, pada 2015 pemerintah kota bekerja sama dengan Far EasTone untuk meluncurkan "Program Kota Pintar 4G Tainan". [^5]
 
-- **Perintis lingkungan**: mendorong tenaga surya fotovoltaik, menjadi kota demonstrasi energi hijau seluruh Taiwan
-- **Kesejahteraan sosial**: memperluas subsidi Jaminan Kesehatan untuk lansia, mendorong TPA (taman penitipan anak) publik
+Pengalaman Lai di Tainan membuktikan transformasinya yang sukses dari "mengobati individu" ke "mengelola kota".
 
-Pengalaman Tainan Lai Ching-te, membuktikan transisi suksesnya dari "mengobati individu" ke "mengelola kota".
+### Masa Jabatan Perdana Menteri (2017-2019): Mendorong Kebijakan dan Menghadapi Tantangan
 
-### Masa Kepala Eksekutif (2017-2019): Pendanaan Kebijakan dan Tantangan
+Pada September 2017, Lai Ching-te dilantik sebagai perdana menteri. Reformasi sistem pensiun, undang-undang khusus untuk infrastruktur strategis, dan perubahan undang-undang jasa perawatan lansia semuanya selesai dalam fase pembahasan akhir pada semester pertama 2017, sebelum dilantiknya Lai. [^6][^7] Isu yang paling kontroversial selama masa jabatannya adalah revisi "libur satu hari" dari Undang-Undang Ketenagakerjaan yang melegakan batas hari kerja berturut-turut dan batas jam kerja ekstra. [^2]
 
-2017, Lai Ching-te menjabat Kepala Eksekutif. Menghadapi tantangan kebijakan besar seperti reformasi pensiun, transisi energi, pembangunan infrastruktur masa depan, ia menunjukkan kemampuan "komunikasi koordinasi" dan "eksekusi kebijakan". Meskipun periode ini menghadapi kontroversi tidak sedikit, Kebijakan Perawatan Jangka Panjang 2.0 dan Kebijakan Negara Digital yang ia dorong selesai legislasi dan memasuki tahap eksekusi dalam jabatannya.
+### Masa Jabatan Wakil Presiden (2020-2024): Pelopor Diplomasi Internasional
 
-### Masa Wakil Presiden (2020-2024): Pembuka Diplomasi Internasional
+Saat menjabat sebagai wakil presiden, Lai Ching-te sering mewakili Taiwan dalam perjalanan resmi, termasuk pada Agustus 2023 sebagai utusan khusus presiden untuk menghadiri upacara pelantikan presiden baru Paraguay, dan melewati New York dan San Francisco dalam perjalanan pulangnya. [^8] Latar belakang medis dan kemampuan bahasa Inglisnya memberikan kontribusi penting dalam konteks internasional.
 
-Masa jabatan Wakil Presiden, Lai Ching-te berkali-kali mewakili Taiwan kunjungan ke luar negeri, terutama 2023 "Perjalanan Kemakmuran Bersama Mitra Demokrasi", transit Amerika Serikat dan bertemu tokoh politik penting, menunjukkan visibilitas internasional Taiwan. Latar belakang medis dan kemampuan bahasa Inggrisnya berperan penting di forum internasional.
+Pasangan politiknya, Hsiao Bi-khim, yang pernah bertugas sebagai duta khusus Taiwan di Washington, selama ini menjadi garis depan diplomasi informal dalam hubungan sensitif AS-Taiwan dengan strategi yang fleksibel untuk menjaga komunikasi kedua belah pihak. Pengawasan politik pasangan ini — Lai menguasai urusan domestik dan narasi kebijakan, sementara Hsiao mengurus hubungan eksternal dan jalur AS-Taiwan — dianggap sebagai kombinasi kepemimpinan yang komplemen.
 
-Suasana Hsiao Bi-khim sebagai Perwakilan Taiwan di AS lama menjaga garis depan diplomasi informal, dengan strategi fleksibel mempertahankan komunikasi bilateral di hubungan AS-Taiwan yang sensitif. Pembagian peran politik keduanya——Lai Ching-te memimpin urusan dalam negeri dan narasi kebijakan, Hsiao Bi-khim mengurus hubungan luar dan koneksi AS-Taiwan——dipandang pengamat sebagai kombinasi kepemimpinan tipe komplementer.
+## Pemilihan Presiden 2024: Kemenangan yang Membuat Sejarah Konstitusional
 
-## Pemilihan Presiden 2024: Kemenangan Menciptakan Preseden Konstitusi
+### Hasil Pemilihan yang Historis
 
-### Hasil Pemilu Bersejarah
+Pada 13 Januari 2024, Lai Ching-te dengan Hsiao Bi-khim sebagai wakilnya, memenangkan pemilihan dengan persentase suara 40,05%. [^2] Pencapaian ini mencatat beberapa rekor konstitusional:
 
-13 Januari 2024, Lai Ching-te dengan pasangan calon wakil presiden Hsiao Bi-khim, memperoleh 40,05% suara terpilih Presiden[^5]. Ini menciptakan banyak rekor konstitusi:
+1. **Tokoh politik pertama yang mencalonkan diri dan terpilih sukses sebagai wakil presiden**
+2. **Presiden pertama yang dilatari medis sejak pemilihan presiden langsung dimulai pada 1996** [^1]
+3. **Penggerak agar DPP bertahan tiga kali berturut-turut di pemerintahan**
+4. **Tokoh politik kedua yang pernah menjabat sebagai perdana menteri, wakil presiden, dan presiden**
 
-1. **Tokoh politik pertama yang mencalonkan diri sebagai wakil presiden dan berhasil terpilih presiden**
-2. **Presiden pertama dengan latar belakang profesi dokter**
-3. **Pendorong Partai Demokrasi Progresif berkuasa tiga periode berturut-turut**
-4. **Tokoh politik kedua yang pernah menjabat Kepala Eksekutif, Wakil Presiden, Presiden**
+### Karakteristik Kampanye: Pengelolaan Profesional vs Kompetisi Politik
 
-### Ciri Pilkada: Tata Kelola Profesional vs Kompetisi Politik
+Sumbu kampanyenya adalah "mengelola negara secara profesional" dan "diplomasi pragmatis". Ia mengusulkan:
 
-Inti kampanye Lai Ching-te adalah "negara profesional" dan "diplomasi pragmatis". Ia mengusung:
+- Penguatan demokrasi dan reformasi institusional
+- Penguatan pertahanan nasional dan kerja sama internasional
+- Mendorong transformasi energi hijau dan ekonomi digital
+- Meningkatkan jaringan keamanan sosial
 
-- Pendalaman demokrasi dan reformasi sistem
-- Penguatan pertahanan dan kerja sama internasional
-- Mendorong transisi energi hijau dan ekonomi digital
-- Menyempurnakan jaring pengaman sosial
+## Masa Jabatan Presiden (2024- )
 
-## Masa Jabatan Presiden (2024-)
-
-Lai Ching-te yang baru dilantik menghadapi format legislatif "kecil mayoritas, besar oposisi", ruang kebijakan terbatas. Ia menjadikan latar belakang medis sebagai landasan narasi kebijakan, menekankan logika tata kelola "berbasis bukti" dan "pencegahan", berusaha mendorong reformasi di tiga bidang utama: pertahanan, energi, kesejahteraan sosial.
+Setelah dilantik, Lai Ching-te menghadapi dinamika Dewan Parlemen yang tersebar, sehingga ruang gerak kebijakannya terbatas. Dengan latar belakang medis sebagai landasan narasinya, ia menekankan logika pengelolaan berbasis "bukti" dan "pencegahan", berupaya mendorong reformasi di tiga bidang utama: pertahanan, energi, dan kesejahteraan sosial.
 
 ### Arah Kebijakan
 
-Arah kebijakan utama meliputi:
+Arah kebijakan utamanya meliputi:
 
-- Penguatan pertahanan dan kerja sama internasional
-- Mendorong transisi energi hijau dan ekonomi digital
-- Menyempurnakan jaring pengaman sosial dan sistem perawatan jangka panjang
+- Penguatan pertahanan nasional dan kerja sama internasional
+- Mendorong transformasi energi hijau dan ekonomi digital
+- Meningkatkan jaringan keamanan sosial dan sistem perawatan lansia
 
 ### Hubungan Internasional
 
-Melanjutkan jalur "pro-AS, ramah-Jepang" masa lalu, Lai Ching-te di kerja sama kesehatan internasional, perubahan iklim, dan isu lain mencari ruang partisipasi Taiwan. Namun, posisinya sendiri sebagai "pekerja kemerdekaan Taiwan" membuat Beijing sikap lebih keras, hubungan lintas selat menjadi tantangan diplomatik terbesar masa jabatannya.
+Meneruskan pendekatan "pro-AS dan persahabatan" dari pihak sebelumnya, Lai Ching-te mencari ruang partisipasi Taiwan dalam kerja sama kesehatan global dan isu perubahan iklim. Namun, penentuannya sebagai "pekerja kemerdekaan Taiwan" membuat Beijing mengambil sikap lebih keras, sehingga hubungan pulau selat menjadi tantangan diplomasi terbesar dalam masa jabatannya.
 
-## Fenomena Lai Ching-te: Beragam Sudut Pandang
+## Fenomena Lai Ching-te: Berbagai Perspektif
 
-Evaluasi terhadap Lai Ching-te berbedabeda, memantulkan ekspektasi berbeda masyarakat Taiwan terhadap jalur "negara profesional". Pendukung menekankan latar belakang akar rumput dan pelatihan medis membawa gaya keputusan rasional, dilihat sebagai manifestasi mobilitas lapisan politik Taiwan. Pengkritik percaya latar medis tidak ekuivalen dengan profesionalisme politik, narasi "dokter memerintah" diduga kemasan berlebihan, dan format pemerintah minoritas membatasi ruang pendorongan kebijakan.
+Penilaian terhadap Lai Ching-te masih terpecah, mencerminkan harapan yang berbeda dalam masyarakat Taiwan mengenai pendekatan "mengelola negara secara profesional". Pendukanya menekankan latar belakang keluarganya yang sederhana dan latar belakang medisnya yang membawa gaya pengambilan keputusan yang rasional, melihatnya sebagai manifestasi mobilitas sosial di kalangan politisi Taiwan. Kritikusnya berpendapat bahwa latar belakang medis tidak otomatis berarti kompetensi politik, dan narasi "dokter mengelola negara" terlalu dihiasi, sementara kontrol minoritas pemerintah membatasi ruang kebijakan.
 
-### Sudut Pandang Pendukung
+### Perspektif Pendukung
 
-Pendukung memandang Lai Ching-te sebagai realisasi konkret ekspektasi "tata kelola profesional" politik Taiwan: anak tambang Wanli berjalan ke Istana Presiden, sendiri bukti hidup mobilitas lapisan masyarakat; gaya keputusan rasional dari pelatihan medis, dipandang berbeda dari politisi tradisional.
+Pendukung melihat Lai Ching-te sebagai manifestasi konkrit dari harapan "pengelolaan negara yang profesional": putra anak tukang kutai yang mencapai Istana Presiden adalah saksi langsung mobilitas kelas sosial; latar belakang medisnya yang membawa gaya pengambilan keputusan yang rasional dianggap sebagai pembeda dari para politisi tradisional.
 
-### Sudut Pandang Pengkritik
+### Perspektif Kritikus
 
-Pengkritik menilai, format pemerintah minoritas membuat ruang komunikasi antara pihak pemerintah dan oposisi sangat terbatas, tingkat penepatan janji politik dan kebijakan lintas selat kurang fleksibel, adalah keraguan paling sering diajukan pengamat.
+Kritikus menegaskan bahwa kontrol minoritas pemerintah membuat ruang komunikasi antarparlemen sempit, dan partisipasi kebijakan serta fleksibilitas kebijakan laut Taiwan kurang, yang merupakan kekhawatiran yang paling sering diangkat oleh pengamat.
 
 ## Kontroversi dan Tantangan
 
-Karir politik Lai Ching-te selalu disertai kontroversi dan kritik:
+Karier politik Lai Ching-te selalu disertai kontroversi dan kritik:
 
 ### Kontroversi Posisi Politik
 
-2017 menjabat Kepala Eksekutif, Lai Ching-te terbuka menyebut diri "pekerja kemerdekaan Taiwan yang pragmatis", memicu ketegangan lintas selat, Beijing menanggapi keras. Pendukung memandangnya "tokoh politik yang berkata jujur", pengkritik percaya ekspresi ini meningkatkan risiko konfrontasi. Kubu oposisi terus menanyakan kebijakan lintas selatnya kurang fleksibel, berpotensi memperparah situasi Selat Taiwan.
+Pada September 2017, saat baru dilantik sebagai perdana menteri, Lai Ching-te menyatakan dalam sidang parlemen: "Saya adalah pekerja politik yang mendukung kemerdekaan Taiwan, tidak akan mengubah sikap ini terlepas dari jabatan apa pun yang saya pegang." Tim opisisi Partai Nasional segera mengkritiknya karena menganggap pernyataannya akan membawa Taiwan ke ambang perang. [^9] Pendukungnya melihatnya sebagai "tokoh yang berkata jujur", sementara kritikusnya berpendapat bahwa pernyataan ini meningkatkan risiko konfrontasi. Fraksi oposisi terus mencurigai ketidak fleksibilitas kebijakan laut Taiwan, khawatir hal ini dapat memperparah ketegangan pulau selat.
 
-### Kesenjangan Janji dan Eksekusi Kebijakan
+### Kesenjangan Janji Kebijakan dan Pelaksanaan
 
-"Rasio perawat-pasien tiga shift" masuk undang-undang adalah janji kampanye paling bermakna simbolis, Persatuan Perawat sejak 2024 sudah aktif advokasi, hingga 2026 kemajuan pendorongan masih dikritik lambat, suara perawat menuntut penepatan tidak pernah berhenti. Pengakuan gelar kedokteran gigi luar negeri (populer disebut kontroversi dokter gigi bobo) adalah isu lain yang terus berkembang, presiden berlatarkan dokter diharapkan mengeluarkan solusi, namun hingga kini belum ada kebijakan jelas. Stabilitas pasokan listrik di bawah jalur "negara bebas nuklir", menjadi kelemahan yang berulang diserang oposisi.
+"Rasio perawat tiga kelas" adalah janji kebijakan yang paling simbolis selama kampanye. Pada 8 Mei 2026, Dewan Parlemen menyetujui ralanya "Rasio perawat tiga kelas" dalam Undang-Undang Kedokteran; ia kemudian mengumumkan akan menerapkannya secara bertahap tahun depan, sementara anggota parlemen oposisi mencurigai skala penerapannya. [^10][^11] Kontroversi mengenai kredensial dokter gigi asing (dikenal sebagai "gigi bintang") adalah isu yang masih ramai dibicarakan, pada November 2024 ia menyatakan akan menelaah kredensial dengan ketat dan tidak meningkatkan kuota magang dokter gigi. [^12] Stabilitas pasokan listrik di bawah kebijakan "pembangkit nuklir non-aktif" menjadi titik lemah yang di serang berulang kali oleh oposisi.
 
-### Konfrontasi Politik Masa Jabatan
+### Konflik Politik Selama Masa Pemerintahan
 
-Partai Demokrasi Progresif di Legislatif tidak melebihi separuh, membentuk kesulitan pemerintah minoritas, membuat ruang kebijakan Lai Ching-te terbatas secara struktural. Oposisi menuduh banyak kasus yudisial bermuatan penargetan politik, konfrontasi antara pemerintah dan oposisi setelah berkuasa lebih tinggi dari periode kedua Tsai Ing-wen. Ketegangan ini di anggaran pembelian senjata, reformasi yudisial, dan isu lain berulang meletus.
+Partai Demokrasi Progresif tidak mendominasi Dewan Parlemen, menciptakan situasi pemerintah minoritas yang membatasi ruang kebijakan Lai Ching-te secara struktural. Oposisi mengkritik banyak kasus keadilan sebagai politisasi, dan tingkat ketegangan antarpartai lebih tinggi dibandingkan masa jabatan kedua Tsai Ing-wen. Ketegangan ini berulang muncul dalam isu anggaran pembelian senjata dan reformasi keadilan.
 
-- **Hubungan Istana-Pemerintah-Partai dengan Oposisi**: konfrontasi antara pemerintah dan oposisi memuncak, ruang kerja sama lintas partai terbatas
-- **Masa Kepala Eksekutif**: revisi ulang UU Ketenagakerjaan "satu minggu satu libur" pernah memicu protes keras serikat buruh
+- **Hubungan pemerintah dan oposisi**: ketegangan antarpartai membesar, ruang kolaborasi antarpartai terbatas
+- **Masa jabatan perdana menteri**: revisi "libur satu hari" UU Ketenagakerjaan pernah memicu protes keras dari serikat pekerja
 
-### Kritik Gaya Kepemimpinan
+### Kritik terhadap Gaya Pemerintahan
 
-Sebagian opini percaya, bingkai narasi "dokter masuk politik" terlalu diromantisasi, mempertanyakan apakah logika "diagnosis→pengobatan→follow-up" benar-benar terealisasi dalam administrasi negara nyata. Pengkritik menilai, latar belakang medis tidak mutlak ekuivalen dengan kemampuan keputusan politik yang baik.
+Beberapa opini publik merasa narasi "dokter beralih ke politik" berlebihan, mencurigai apakah logika "diagnosis → pengobatan → pemantauan" benar-benar diterapkan dalam politik nasional. Kritikus menegaskan bahwa latar belakang medis tidak otomatis berarti kemampuan pengambilan keputusan politik yang baik.
 
-## Posisi Sejarah
+## Penempatan Sejarah
 
-Lai Ching-te menciptakan banyak rekor konstitusi (wakil presiden pertama calon presiden sukses, presiden pertama dokter), karir politiknya memperlihatkan kemungkinan mobilitas lapisan masyarakat Taiwan——dari anak tambang Wanli ke Istana Presiden.
+Lai Ching-te mencatat beberapa rekor konstitusional (pertama sebagai wakil presiden yang terpilih sukses, presiden pertama yang dilatari medis sejak pemilu langsung), dan karier politiknya mencerminkan kemungkinan mobilitas kelas sosial di masyarakat Taiwan — dari putra anak tukang kutai hingga Istana Presiden.
 
-Namun, sebagai presiden Amtsinhaber, posisinya sejarah masih dalam penulisan. Pendukung memandangnya teladan baru "negara profesional", pengkritik percaya ada kesenjangan antara efektivitas kebijakan dan janji pilkada. Evaluasi akhir masyarakat Taiwan terhadapnya, akan bergantung pada tingkat penepatan kebijakan dan arah hubungan lintas selat di masa jabatan mendatang.
+Namun, sebagai presiden saat ini, penempatan sejarahnya mas masih sedang ditulis. Pendukungnya melihatnya sebagai model baru "pengelolaan negara yang profesional", sementara kritikusnya berpendapat ada kesenjangan antara hasil pemerintahannya dan janjimu pilkada. Penilaian akhir masyarakat Taiwan terhadapnya akan bergantung pada sejauh mana kebijakannya terwujud dan arah hubungan pulau selat di masa depan.
 
-Pertahankan hubungan diplomatik setelah dilantik juga sangat diperhatikan. Mei 2026 kunjungan ke Eswatini, Raja Mswati III mengirimkan Airbus A340 kerajaan ke Taipei menjemput, melambangkan negara sahabat satu-satunya di Afrika mengakui kontinuitas hubungan diplomatik dengan Taiwan, juga menjadi peristiwa representatif pemerintah Lai Ching-te di bidang pertahankan hubungan diplomatik.
+Setelah dilantik, hubungan diplomatik juga menjadi sorotan. Kunjungan Lai Ching-te ke Swaziland pada Mei 2026, di mana Raja Mswati III mengirimkan Airbus A340 ke Bandara Taipei untuk menjemputnya, menjadi simbol dari kesepakatan diplomasi yang berkelanjutan dengan satu-satunya negara sekutu Afrika, dan menjadi peristiwa representatif dalam pemeliharaan hubungan diplomatik di bawah pemerintah Lai.
 
-**Bacaan Lanjutan**：
+**Bacaan Lanjutan**:
 
-- [2026 Pertemuan Xi-Zheng: Sepuluh Menit Pertemuan Kembali Pemimpin KMT-KPC Sepuluh Tahun Kemudian](/id/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — Pemain utama lain drama ini, orang yang sengaja dibiarkan di luar bingkai
-- [Hsiao Bi-khim](/id/people/hsiao-bi-khim) — Pasangan Wakil Presiden Lai Ching-te, dari Perwakilan di Washington ke Wakil Presiden "Kucing Pertarungan"
-- [Pertahanan dan Modernisasi Militer Taiwan](/id/society/taiwan-defense-modernization) — Kebijakan paling representatif masa jabatan Lai Ching-te: Anggaran Khusus 1,25 Triliun dan Pembentukan Batalyon Tank M1A2T
-- [Transisi Demokrasi Taiwan](/id/history/taiwan-democratization) — Anak tambang Wanli bisa jadi presiden, sendiri produk transisi demokrasi
-- [Li Yang](/people/李洋) — Anggota Kabinet termuda dalam sejarah yang dilantik langsung Lai Ching-te, Menteri Olahraga pertama
-- [Shen Bo-yang](/people/沈伯洋) — Anggota Legislatif non-daerah DPD yang masuk daftar "pekerja keras kemerdekaan Taiwan" sama Partai Demokrasi Progresif, 2025 jadi tokoh politik Taiwan pertama yang dikasuskan Tiongkok dengan tuduhan memecah belah negara
-- [Cho Jung-tai](/people/卓榮泰) — Kepala Eksekutif pertama masa jabatan Lai Ching-te 2024, 38 tahun penengah, Des 2025 jadi preseden konstitusi pertama Kepala Eksekutif menolak menandatangani UU Perimbangan Keuangan
-- [Hsu Chiao-hsin](/id/people/hsu-chiao-hsin) — Anggota Legislatif KMT yang berulang bertemu Lai Ching-te di interpelasi, pengusung utama versi 800 Triliun kontroversi pembelian senjata 2026
-- [Taiwan dan Eswatini](/id/society/taiwan-eswatini-relations) — Kunjungan pertama ke negara sahabat setelah Lai Ching-te menjabat, 2026-05 Raja Eswatini pinjam A340 khusus menjemput dari Taipei momen sejarah
-- [Forum Pikir](/id/society/thinking-taiwan-forum) — Tsai Ing-wen Okt 2025 reluncurkan Forum Pikir, United Daily News "Komentar Berat" judul "Lai Ching-te Masih di Jalan?" kontras implisit, membingkai aksi reluncurkan platform sebagai peringatan terhadap garis kebijakan pemerintahan Lai
+- [Pertemuan 2026 antara Zheng dan Xi: Sepuluh menit pertarungan antara pemimpin partai nasional dan komunis setelah sepuluh tahun](/id/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — aktor lain dalam drama ini, yang disengaja disisihkan dari frame
+- [Hsiao Bi-khim](/id/people/hsiao-bi-khim) — pasangan wakil presiden Lai Ching-te, dari duta khusus di Washington hingga "kucing bertenaga" wakil presiden
+- [Pertahanan Nasional dan Modernisasi Militer Taiwan](/id/society/taiwan-defense-modernization) — kebijakan paling mencermakan masa jabatan Lai Ching-te: anggaran khusus 1,25 triliun dolar dan pelatihan brigade tanki M1A2T
+- [Transformasi Demokrasi Taiwan](/id/history/taiwan-democratization) — seorang putra anak tukang kutai yang bisa menjadi presiden adalah hasil dari transformasi demokrasi
+- [Li Yang](/id/people/lee-yang-badminton) — anggota kabinet termuda dalam sejarah yang dilantik langsung oleh Lai Ching-te, menteri pertama Kementerian Olahraga
+- [Shen Bozhi](/id/people/puma-shen) — anggota parlemen non-urut DPP yang masuk dalam daftar "penganut kemerdekaan Taiwan", menjadi tokoh politik terpilih pertama yang dituntut pidana pembelian negara oleh Tiongkok pada 2025
+- [Zhu Rongtai](/id/people/cho-jung-tai) — perdana menteri pertama Lai Ching-te dalam masa jabatan 2024, koordinator selama 38 tahun, pada Desember 2025 menjadi kasus pertama konstitusional yang tidak menandatangani undang-undang anggaran negara
+- [Xu Qixia](/id/people/hsu-chiao-hsin) — anggota parlemen Partai Nasional yang berulang kali bertemu Lai Ching-te dalam sidang, pendukung versi 800 miliar dolar dalam kontroversi pembelian senjata 2026
+- [Hubungan antara Taiwan dan Swaziland](/id/society/taiwan-eswatini-relations) — kunjungan Lai Ching-te ke Swaziland pada Mei 2026, momen sejarah ketika Raja meminjamkan A340 untuk menjemput di Bandara Taipei
+- [Forum Pikir](/id/society/thinking-taiwan-forum) — saat Tsai Ing-wen mengubah dan memulihkan Forum Pikir pada Oktober 2025, judul "Komentar Khusus" dari Lianhe Zaobao menyiratkan kontras tersirat "Lai Ching-te masih di jalan?", memposisikan aksi pembaruan platform sebagai pengingat terhadap arah kebijakan Lai
 
 ## Referensi
 
-[^1]: Situs Resmi Istana Presiden Republik Tiongkok, Profil Presiden, https://www.president.gov.tw/Page/694
+[^1]: [Presiden Lai Ching-te — Istana Presiden Republik Tiongkok (Taiwan)](https://www.president.gov.tw/Page/694) — biografi resmi Istana Presiden: latar belakang pendidikan, tiga bidang keahlian medis, direktur medis Rumah Sakit Universitas Kekinian dan Komite Dukungan Dokter Chen Ding-nan di Tainan, terpilih sukses sebagai perwakilah Rakyat dengan suara terbanyak pada 1996, presiden pertama yang dilatari medis sejak pemilu langsung.
 
-[^2]: Entri Wikipedia "Lai Ching-te", https://zh.wikipedia.org/zh-tw/%E8%B3%B4%E6%B8%85%E5%BE%B7
+[^2]: [Lai Ching-te — Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%B3%B4%E6%B8%85%E5%BE%B7) — ayahnya meninggal akibat keracunan karbon monoksida di tambang pada Januari 1960, masa jabatan gubernur Tainan (2010-12-25 hingga 2017-09-07), tokoh kedua setelah Lin Chuan-yu yang pernah menjabat sebagai perdana menteri, wakil presiden, dan presiden, persentase suara 40,05% pada 2024, revisi "libur satu hari".
 
-[^3]: Laporan Wawalan Khusus Majalah Tian Xia Tahun-tahun Terakhir, https://www.cw.com.tw/article/5128853
+[^3]: [Lai Ching-te menjadi penggemar Red Sox saat kuliah di Harvard, kemudian mendukung Yankees untuk Wang Chien-ming — Zhengzhi Wenzhi, 2023-06-15](https://www.cna.com.tw/news/acul/202306150388.aspx) — selama masa jabatannya sebagai anggota parlemen, memanfaatkan tiga libur musim panas untuk mengambil gelar sarjana di bidang kesehatan masyarakat di Harvard.
 
-[^4]: Data Pendidikan Fakultas Kedokteran Universitas Cheng Kung, https://www.ncku.edu.tw/
+[^4]: [Profil tokoh: Putra anak yang kehilangan ayahnya lebih awal, Lai Ching-te menyatakan kasih sayangnya kepada ibunya lewat "bawang" — Xinwen Xinjie, 2017-09-05](https://newtalk.tw/news/view/2017-09-05/96954) — pada 2014 berhasil terpilih kembali dengan persentase suara 72,90%, tertinggi di antara enam kota besar, disebut sebagai "Lai Shen".
 
-[^5]: Buletin Pemilu Presiden 2024 Komisi Pemilihan Pusat, https://bulletin.cec.gov.tw/
+[^5]: [Pemerintah kota Tainan dan Far EasTone meluncurkan inisiatif kota pintar, 20 aplikasi akan diluncurkan dalam tiga tahun — Era Digital, 2015-08-12](https://www.bnext.com.tw/article/37018/BN-2015-08-12-132525-117) — Program Kota Pintar 4G Tainan.
 
-[^6]: Laporan Kebijakan Tahunan Pemerintah Kota Tainan, https://www.tainan.gov.tw/News.aspx?n=4975&sms=13709
+[^6]: [UU "Beberapa Ketentuan Pengawasan Jasa Perawatan Lansia" disetujui secara keseluruhan — Kementerian Kesehatan dan Kesejahteraan, 2017-01](https://mohw.gov.tw/cp-2704-7167-1.html) — revisi UU Jasa Perawatan Lansia disetujui secara keseluruhan pada Januari 2017.
 
-[^7]: Entri Wikipedia "Lai Ching-te", Catatan Pelatihan Fakultas Kesehatan Masyarakat Harvard (2000–2003), https://zh.wikipedia.org/zh-tw/%E8%B3%B4%E6%B8%85%E5%BE%B7
+[^7]: [Revisi sistem pensiun disetujui secara keseluruhan, wakil presiden: pentingnya reformasi sistem pensiun nasional — Zhengzhi Wenzhi, 2017-06-27](https://www.cna.com.tw/news/aipl/201706270376.aspx) — reformasi sistem pensiun untuk militer dan pegawai negeri disetujui secara keseluruhan pada Juni 2017.
+
+[^8]: [Lai Ching-te sebagai utusan khusus mengunjungi Paraguay! Mengunjungi New York dan San Francisco dalam perjalanan, presiden menyerahkan dua tugas — TVBS Berita, 2023-08](https://news.tvbs.com.tw/politics/2206603) — pada Agustus 2023 sebagai utusan khusus menghadiri upacara pelantikan presiden baru Paraguay, melewati New York dan San Francisco.
+
+[^9]: [Lai menyatakan dukungannya terhadap kemerdekaan Taiwan, Tim Oposisi Partai Nasional marah: akan membawa Taiwan ke ambang perang — Liberasi, 2017-09-27](https://news.ltn.com.tw/amp/news/politics/breakingnews/2205850) — kutipan langsung Lai Ching-te dalam sidang parlemen pada September 2017 dan respons Tim Oposisi Partai Nasional.
+
+[^10]: [Rasio perawat tiga kelas resmi menjadi UU! Pelanggaran maksimal denda 2 juta dolar — TVBS Kesehatan 2.0, 2026-05-08](https://health.tvbs.com.tw/medical/362880) — Dewan Parlemen menyetujui secara keseluruhan revisi UU Kedokteran, menjadikan rasio perawat tiga kelas menjadi UU.
+
+[^11]: [Lai mengumumkan rasio perawat tiga kelas akan diterapkan secara bertahap tahun depan, tim oposisi mengkritik: apakah 1% juga termasuk? — Xinwen Xinjie, 2026-05-12](https://newtalk.tw/news/view/2026-05-12/1034739) — pengumuman penerapan bertahap dan kritik dari anggota parlemen oposisi.
+
+[^12]: [Kontroversi gigi bintang: Lai Ching-te berjanji akan menelaah kredensial dengan ketat — TVBS Berita, 2024-11-13](https://news.tvbs.com.tw/politics/2684692) — pernyataan untuk menelaah kredensial dokter gigi asing dan tidak meningkatkan kuota magang dokter gigi.

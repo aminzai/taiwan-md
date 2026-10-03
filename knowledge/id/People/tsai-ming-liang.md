@@ -1,13 +1,13 @@
 ---
-title: 'Tsai Ming-liang (蔡明亮)'
-description: 'Pemenang Gold Lion Festival Film Venesia, orang Tionghoa Malaysia, maestro estetika "slow cinema"'
+title: 'Tsai Ming-liang: Penyair Sinema Lambat'
+description: 'Pemenang Golden Lion Venice, orang Tionghoa Malaysia, maestro estetika sinema lambat'
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Sutradara',
     'Tsai Ming-liang',
-    'slow cinema',
+    'sinema lambat',
     'Festival Film Venesia',
     'orang Tionghoa Malaysia',
   ]
@@ -17,92 +17,89 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'People/蔡明亮.md'
-sourceCommitSha: '97e35f050'
-sourceContentHash: 'sha256:f497de40f2ba1810'
-sourceBodyHash: 'sha256:c1d14969738eeca7'
-translatedAt: '2026-07-28T08:53:28+08:00'
+sourceCommitSha: '112856faf'
+sourceContentHash: 'sha256:9ed1f7923fa72bf2'
+sourceBodyHash: 'sha256:0c0888dfd516b33c'
+translatedAt: '2026-10-04T00:51:58+08:00'
 ---
 
-# Tsai Ming-liang: Penyair "Slow Cinema"
+# Tsai Ming-liang: Penyair Sinema Lambat
 
-> **Ringkasan 30 detik:** Tsai Ming-liang adalah salah satu sutradara film berbahasa Tionghoa kontemporer yang paling memiliki gaya pribadi, dikenal internasional lewat estetika "slow cinema" yang khas. Tahun 1994 ia meraih Gold Lion Festival Film Venesia lewat _Vive L'Amour_ (《愛情萬歲》), menjadi sutradara keturunan Tionghoa pertama yang memperoleh penghargaan tertinggi tersebut. Sebagai orang Tionghoa Malaysia, ia secara konsisten mengeksplorasi kesepian dan pengasingan manusia perkotaan, menciptakan bahasa film yang völlig baru.
+> **Ringkasan 30 Detik:** Tsai Ming-liang adalah salah satu sutradara dengan gaya paling personal dalam sinema berbahasa Mandarin kontemporer, yang terkenal secara internasional karena estetika "sinema lambat" (slow cinema) yang unik. Pada tahun 1994, ia memenangkan Golden Lion di Festival Film Venesia bersama film _Love Forever_ dan _Before the Rain_, menjadikannya sutradara orang Tionghoa ketiga yang meraih penghargaan tersebut setelah Hou Hsiao-hsien dan Zhang Yimou. Sebagai orang Tionghoa Malaysia, ia secara konsisten mengamati kesendirian dan keterasingan kaum urban, menciptakan bahasa sinema yang benar-benar baru.
 
-## Masa Kecakapan di Malaysia
+## Masa Pertumbuhan di Malaysia
 
-Tsai Ming-liang lahir pada 27 Oktober 1957 di Kuching, Sarawak, Malaysia, dengan asal leluhur dari Nan'an, Fujian. Ayahnya, Tsai Tien-song (蔡天送), mengelola toko kelontong, sedangkan ibunya adalah ibu rumah tangga. Tumbuh di lingkungan multi-etnis Malaysia, Tsai Ming-liang sejak kecil telah mengalami kompleksitas identitas budaya.
+Tsai Ming-liang lahir pada 27 Oktober 1957 di Kuching, Sarawak, Malaysia. Ia berasal dari Jieyang, Guangdong, dan merupakan anak ketiga dari tujuh bersaudara. Keluarganya mengelola warung mie, dan saat kecil ia diasuh oleh kakek dan neneknya secara bergantian; kedua orang tua itu sering membawanya ke bioskop, terkadang menonton dua film dalam sehari.[^1] Tumbuh di lingkungan Malaysia yang multietnis, Tsai Ming-liang sejak kecil telah merasakan kompleksitas identitas budaya.
 
-Pada masa SMA, ia belajar di Kuching Chung Hua Middle School No. 1 (古晉中華第一中學), di mana minatnya pada teater mulai tumbuh melalui kegiatan klub drama sekolah. Lulus SMA, ia memilih melanjutkan studi ke Taiwan — keputusan yang mengubah jalannya hidup.
+Ia bersekolah di Chinese High School Kuching selama masa sekolah menengah. Setelah lulus pada tahun 1977, ia pindah ke Taiwan, awalnya belajar bahasa Mandarin di Pusat Bahasa Universitas National Taiwan, dan pada tahun berikutnya diterima di Departemen Drama, Fakultas Budaya Tiongkok.[^1] Suasana akademik yang bebas di Taiwan membuatnya terpapar pada bentuk-bentuk ekspresi seni yang lebih beragam, dan ia mulai merenungkan masalah identitas budayanya sendiri.
 
-Tahun 1977, Tsai Ming-liang tiba di Taiwan dan masuk jurusan Drama Universitas Chinese Culture (中國文化大學). Iklim akademik bebas di Taiwan membukakan akses ke berbagai bentuk ekspresi seni, sekaligus memicu refleksinya tentang identitas budaya diri sendiri.
+## Pengalaman Teater dan Televisi
 
-## Pencerahan Teater dan Pengalaman Televisi
+Selama masa kuliah, dosennya, Wang Xiao-di (王小棣), memperkenalkan konsep "teater kehidupan" kepadanya. Pada tahun 1982, ia bersama teman-temannya mendirikan "Teater Xiaowu," dan menyelesaikan drama panggung pertamanya, _Instant Vinegar Noodles_.[^1] Setelah lulus, ia terlebih dahulu menulis naskah film sebelum beralih ke dunia televisi pada tahun 1989. Di TVBS (華視), ia menyutradarai serial pendek _Seaside Horizon_, dan dengan episode 〈Li Xiang's Emotional Line〉 serta 〈Give Me a Home〉 dari seri _Sky of the Little Citizens_ pada tahun 1991 dan 1992, ia menerima penghargaan Penata Produksi Golden Bell. [^1]
 
-Selama kuliah, Tsai Ming-liang terpengaruh gerakan teater avant-garde, ikut serta dalam pertunjukan Lanling Theatre (蘭陵劇坊). Di bawah bimbingan senior teater seperti Chin Shih-chieh (金士傑) dan Cho Ming (卓明), ia belajar akting dan sutradara, mengasah kepekaan terhadap performa tubuh dan penggunaan ruang.
+Pada tahun 1991 saat memproduksi serial pendek _The Child_, ia bertemu Li Kang-sheng (李康生) di sebuah tempat hiburan elektronik yang sering dikunjungi remaja di Ximen, dan memulai kolaborasi jangka panjang mereka hingga hari ini.[^1] Selama masa televisi, Tsai Ming-liang telah menunjukkan kecenderungan gaya untuk menggunakan pengambilan gambar panjang dan komposisi statis, lebih fokus pada dunia batin karakter daripada plot eksternal.
 
-1982 lulus kuliah, Tsai Ming-liang masuk dunia televisi, bergantian bekerja di CTS (華視) dan CTV (中視) sebagai penulis naskah dan sutradara. Karya televisi yang disutradarainya, _The Child_ (《小孩》, 1991), meraih Golden Bell Award; justru saat persiapan pembuatan film ini, ia bertemu Lee Kang-sheng (李康生) — pelaku non-profesional — di jalanan Ximending (西門町), Taipei, memulai kolaborasi jangka panjang yang berlanjut hingga kini. Pada era televisi, gaya Tsai Ming-liang yang menggemari _long take_ dan komposisi statis sudah terlihat, dengan fokus ke dunia batin tokoh melebihi alur cerita eksternal.
+## Karya Perdana Film: _Nezha Remaja_
 
-## Karya Perdana Film: _Rebels of the Neon God_ (《青少年哪吒》)
+Pada tahun 1992, Tsai Ming-liang merilis karya film perdananya, _Nezha Remaja_ (青少年哪吒), yang menetapkan gaya pribadinya. Film ini menggambarkan fragmen kehidupan beberapa anak muda di kota Taipei melalui struktur naratif non-linear, menampilkan kebingungan dan keterasingan kaum muda modern.
 
-1992, Tsai Ming-liang meluncurkan film perdananya _Rebels of the Neon God_ (《青少年哪吒》), menegaskan gaya personalnya. Film mengisahkan potongan hidup beberapa muda-mudi di perkotaan Taipei, lewat struktur narasi non-linear mempresentasikan kebingungan dan pengasingan remaja modern.
+Li Kang-sheng telah menjadi kolaborator tetap Tsai Ming-liang sejak _The Child_ pada tahun 1991. Aura uniknya dengan sempurna memerankan citra hantu urban dalam film Tsai Ming-liang. _Nezha Remaja_ memenangkan Medali Bunga Sakura Perunggu di Festival Film Tokyo, Penghargaan Karya Perdana Terbaik di Festival Film Nantes, dan Penghargaan Film Terbaik di Festival Film Doering pada tahun 1993; ritme lambat dan gaya minimalis film ini sangat khas di kancah sinema Taiwan saat itu.[^2]
 
-Sejak _The Child_ (1991), Lee Kang-sheng menjadi kolaborator tetap Tsai Ming-liang. Aura khasnya mengeksekusi sempurna imej "hantu kota" dalam film-film Tsai. _Rebels of the Neon God_ meraih Best Film Asia-Pacific Film Festival; tempo lambat dan gaya minimalisnya pada saat itu menonjol unik di tengah lanskap film Taiwan. [^1]
+## Mahkota Venesia: _Love Forever_
 
-## Raja Venesia: _Vive L'Amour_ (《愛情萬歲》)
+_Love Forever_ (愛情萬歲) pada tahun 1994 adalah salah satu karya Tsai Ming-liang yang paling representatif. Film ini menggambarkan kehidupan soliter tiga orang urban Taipei, dan adegan Li Kang-sheng menangis dalam waktu lama di Taman Dan Forest di akhir film menjadi pemandangan ikonik dalam sejarah sinema Taiwan.
 
-_Vive L'Amour_ (《愛情萬歲》, 1994) adalah salah satu karya paling representatif Tsai Ming-liang. Film menggambarkan kesepian tiga orang Taipei, dengan adegan menangis berdurasi enam menit di penutup menjadi adegan ikonik dalam sejarah film Taiwan.
+_Love Forever_ memenangkan Golden Lion bersama film Makedonia _Before the Rain_ pada Festival Film Internasional Venesia ke-51.[^3] Sebelum ia, Hou Hsiao-hsien telah meraih Golden Lion dengan _A City of Sadness_ (悲情城市) pada tahun 1989, dan Zhang Yimou (張藝謀) memenangkannya dengan _Inferno_ (秋菊打官司) pada tahun 1992. Tsai Ming-liang adalah sutradara orang Tionghoa ketiga yang menerima penghargaan ini.[^4]
 
-Di Festival Film Venesia ke-51, _Vive L'Amour_ berbagi Gold Lion dengan film Makedonia _Before the Rain_, menjadikan Tsai Ming-liang sutradara keturunan Tionghoa pertama yang meraih kehormatan tertinggi Venesia. [^2] Penghargaan ini mendorong film berbahasa Tionghoa ke puncak panggung film seni internasional.
+## _River_, _Hole_, dan _What Time Is It Over There?_
 
-## Trilogi Air
+Antara tahun 1997 hingga 2001, Tsai Ming-liang secara berurutan membuat _River_ (河流) pada tahun 1997, _Hole_ (洞) pada tahun 1998, dan _What Time Is It Over There?_ (你那邊幾點?) pada tahun 2001. Imej air muncul berulang kali dalam film-film ini. _River_, dengan ritme yang sangat lambat, menampilkan perasaan keterasingan di antara anggota keluarga dan memenangkan Silver Bear Grand Prix di Festival Film Berlin; _Hole_ mengeksplorasi kesendirian dan kerinduan kaum urban modern melalui interaksi penghuni apartemen di Taipei, dengan suasana apokaliptik tersebut sebagai latar fiksi, bukan merujuk pada peristiwa nyata, dan memenangkan Penghargaan Kritikus Internasional di Festival Film Cannes. [^1] _What Time Is It Over There?_ difilmkan di Taipei dan Paris secara bersamaan, mengeksplorasi jarak dan kerinduan melalui konsep perbedaan waktu, dan terpilih dalam kompetisi resmi Festival Film Cannes 2001; perekam suara Tu Tsz-chi (杜篤之) memenangkan penghargaan teknis tingkat tinggi untuk film ini bersama _Millennium Mambo_.[^5]
 
-1997–2001, Tsai Ming-liang menciptakan trilogi bertema "air": _The River_ (《河流》, 1997), _The Hole_ (《洞》, 1998), _What Time Is It There?_ (《你那邊幾點？》, 2001). _The River_ dengan tempo sangat lambat menampilkan rasa asing antar anggota keluarga; _The Hole_ lewat interaksi penghuni atas-bawah apartemen Taipei mengeksplorasi kesepian dan keinginan modern — nuansa kiamat di dalamnya adalah fiksi, bukan rujukan peristiwa nyata; _What Time Is It There?_ mengambil latar Taipei dan Paris secara bersamaan, lewat konsep selisih waktu mengkaji jarak dan kerinduan, meraih Prix Un Certain Regard Cannes. [^3]
+## Bahasa Sinema Minimalis
 
-## Bahasa Film Minimalis
+Tsai Ming-liang mengembangkan bahasa "sinema lambat" yang unik: pengambilan gambar yang sangat panjang, dialog yang jarang, plot yang ringkas, dan ritme yang lambat. Filmnya menggunakan banyak bidikan statis dan efek suara alami untuk membuat penonton merasakan berjalannya waktu.
 
-Tsai Ming-liang mengembangkan bahasa "slow cinema" yang khas: _shot_ extra panjang, dialog minim, alur ringkas, tempo pelan. Filmnya penuh _static shot_ dan _sound design_ alami, menuntun penonton merasakan aliran waktu.
+Di bawah lensa Tsai Ming-liang, detail sepele kehidupan sehari-hari—makan, tidur, mandi—ditinjau kembali dengan mata artistik. Ia mahir dalam menggunakan ruang untuk menciptakan suasana; baik apartemen sempit, jalanan kosong, maupun bangunan terbengkalai, semuanya menjadi proyeksi eksternal dari dunia batin karakter.
 
-Di lensa Tsai, detail sepele kehidupan sehari-hari — makan, tidur, mandi — ditinjau ulang dengan mata seni. Ia mahir memanfaatkan ruang membangun suasana: entah apartemen sempit, jalanan sunyi, atau bangunan terbengkalai, semuanya menjadi proyeksi eksternal dunia batin tokoh.
+## Era Museum dan Seri _Wanderer_ (行者)
 
-## Era Museum dan Seri "Walker"
+Pada tahun 2012, Tsai Ming-liang meluncurkan film pendek pertamanya dalam seri "Wanderer" (行者): Li Kang-sheng berjalan melewati jalanan dan bangunan di berbagai kota dengan kecepatan yang sangat lambat sambil mengenakan jubah merah. Seri ini mencakup _Journey to the West_ (西遊) pada tahun 2014, _Where_ (何處) yang difilmkan untuk pameran di Centre Pompidou Paris pada tahun 2022, hingga _Nowhere to Live_ (無所住) yang tayang perdana di Festival Film Berlin pada tahun 2024, menjadikannya karya kesepuluh.[^6] Li Kang-sheng telah berkembang dari remaja canggung menjadi pria paruh baya; tubuhnya menampung semua ide kreatif Tsai Ming-liang dan merupakan wadah inti dari seluruh seri karya tersebut.
 
-Akhir 2000-an, fokus kreasi Tsai Ming-liang bergeser ke ruang museum dan galeri. Ia menganggap lingkungan museum lebih cocok menampung estetika minimalisnya; _No No Sleep_ (《無無眠》, 2015), _Your Face_ (《家在蘭若寺》, 2017) mendorong eksperimen "slow cinema" lebih jauh.
+Pada tahun 2013, _Excursion_ (郊遊) memenangkan Grand Prix Juri di Festival Film Venesia ke-70.[^7] Saat diwawancarai di Venesia, ia mengatakan bahwa _Excursion_ mungkin adalah film panjang terakhirnya, dan selanjutnya ia akan membuat karya yang "lebih seperti seni"; ia juga tidak mengakui sistem teater Taiwan; _Excursion_ tidak tayang di bioskop komersial, melainkan dipamerkan secara khusus di Museum Seni National Taiwan.[^1] Film pendek berikutnya sebagian besar dirilis di museum dan festival film, seperti _Sleepless_ (無無眠) yang difilmkan di Jepang pada tahun 2015, dan _Home in Lanruo Temple_ (家在蘭若寺) yang merupakan percobaan pertama pengambilan gambar VR pada tahun 2017.[^1]
 
-Bermula dari imej "Walker" (行者) dalam _Stray Dogs_ (《郊遊》, 2013), Tsai Ming-liang mengembangkan seri pendek Lee Kang-sheng berjalan perlahan, termasuk _Journey to the West_ (《西遊》, 2014) dan lain-lain. Lee Kang-sheng dari remaja pemuda tumbuh jadi pria paruh baya; tubuhnya mengangkut seluruh ide kreasi Tsai, menjadi inti pembawa seluruh seri karya. [^4]
+## Setelah Film Panjang
 
-## Pengakuan Internasional Pasc-_Stray Dogs_
+_Days_ (日子) pada tahun 2020 melanjutkan eksplorasinya terhadap tubuh dan waktu, memenangkan Penghargaan Juri Beruang Teddy di Festival Film Berlin.[^8] _Where_ (何處) pada tahun 2022 dan _Nowhere to Live_ (無所住) pada tahun 2024 muncul secara berurutan, menunjukkan bahwa Tsai Ming-liang terus mendorong batas kreativitasnya hingga usia mendekati tujuh puluh tahun.[^6]
 
-2013, _Stray Dogs_ meraih Jury Grand Prize Festival Film Venesia ke-70, menegaskan kembali posisi Tsai Ming-liang di panggung film seni internasional. Tahun yang sama, ia menerima National Award for Arts ke-18, penghargaan tertinggi seni budaya Taiwan. [^5]
+## Identitas Budaya dan Tema Kreatif
 
-_Days_ (《日子》, 2020) melanjutkan eksplorasi tubuh dan waktu. _Where_ (《何處》, 2022) dan _Abiding Nowhere_ (《無所住》, 2024) berturut hadir, menampilkan Tsai Ming-liang yang menjelang usia tujuh puluhan terus mendorong batas kreasi. [^6]
+Sebagai orang Tionghoa Malaysia, film Tsai Ming-liang selalu membawa perspektif kaum marjinal budaya. Ia memperhatikan kelompok marginal di perkotaan: pekerja asing, pekerja seks, lansia, pasien, dll., menyajikan kebutuhan fisiologis manusia dengan sikap yang terbuka, menantang pandangan moral tradisional.
 
-## Identitas Budaya dan Tema Kreasi
+Film Tsai Ming-liang jarang membahas isu politik; ia berfokus pada kondisi eksistensial dasar manusia, yang membuatnya mendapatkan apresiasi tinggi di kancah film seni Eropa.
 
-Sebagai orang Tionghoa Malaysia, film Tsai Ming-liang senantiasa memperspektifkan pandangan orang pinggiran budaya. Ia memperhatikan kelompok marginal di kota: pekerja migran, pekerja seks, lansia, penderita penyakit, dengan sikap tenang mempresentasikan kebutuhan fisiologis manusia, menantang konsep moral tradisional.
+## Pengaruh Internasional dan Aliran Sinema Lambat
 
-Film Tsai jarang menyentuh isu politik, justru fokus pada kondisi eksistensial dasar manusia. Ia percaya seni harus melampaui politik dan ideologi, menyentuh pengalaman emosional bersama umat manusia. Sikap ini membuat karyanya dihadapkan sensor di beberapa wilayah Asia, justru dinilai tinggi di kalangan film seni Eropa.
-
-## Pengaruh Internasional dan Aliran "Slow Cinema"
-
-Tsai Ming-liang termasuk anggota aliran "slow cinema" internasional. Lav Diaz (Filipina) dan ia pada era yang berdekatan masing-masing mengembangkan estetika _long take_, keduanya sering dibahas beriringan; Béla Tarr (Hungaria) sejak 1980-an telah menegaskan narasi waktu khasnya, keduanya sebaik dipandang sebagai hasil evolusi paralel di konteks budaya masing-masing, bukan warisan linear. Majalah _Cahiers du Cinéma_ (Prancis) dan _Sight & Sound_ (Inggris) memberi apresiasi sangat tinggi, karyanya dikoleksi banyak museum dan institusi seni. [^7]
+Tsai Ming-liang adalah anggota dari aliran "sinema lambat" internasional. Ralph Diaz dari Filipina mengembangkan estetika tatapan panjang dalam rentang waktu yang serupa, dan keduanya sering dibahas bersama; Bela Tarr dari Hungaria telah menetapkan narasi waktunya sejak tahun 1980-an. Kedua pihak harus dilihat sebagai hasil evolusi paralel di konteks budaya masing-masing generasi, bukan warisan linier. _Face_ (臉) pada tahun 2009 adalah film pertama yang dikoleksi oleh Louvre.[^1]
 
 ## Referensi
 
-[^1]: [Tsai Ming-liang — Taiwan Cinema](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12456) — Data film resmi, termasuk latar premiere _Rebels of the Neon God_.
+[^1]: [Tsai Ming-liang — Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%94%A1%E6%98%8E%E4%BA%AE) — Biografi, Teater Xiaowu, periode TVBS dan dua penghargaan Penata Produksi Golden Bell, pemenang _River_ dan _Hole_, pemutaran museum setelah _Excursion_, dan kronologi film pendek.
 
-[^2]: [51st Venice Film Festival — La Biennale di Venezia](https://www.labiennale.org/en/history/51st-festival-1994) — Catatan _Vive L'Amour_ berbagi Gold Lion dengan _Before the Rain_.
+[^2]: [Nezha Remaja — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%9D%92%E5%B0%91%E5%B9%B4%E5%93%AA%E5%90%92) — Medali Bunga Sakura Perunggu di Festival Film Tokyo, Penghargaan Karya Perdana Terbaik di Festival Film Nantes, dan Penghargaan Film Terbaik di Festival Film Doering pada tahun 1993.
 
-[^3]: [National Taiwan Film and Audiovisual Institute TFAI](https://www.tfai.org.tw/) — Kronologi karya Tsai Ming-liang dan catatan Cannes.
+[^3]: [Festival Film Internasional Venesia ke-51 — Wikipedia](https://en.wikipedia.org/wiki/51st_Venice_International_Film_Festival) — _Love Forever_ berbagi Golden Lion dengan _Before the Rain_.
 
-[^4]: [Taipei Fine Arts Museum Tsai Ming-liang Exhibition](https://www.tfam.museum/) — Latar seri Walker dan argumen film museum.
+[^4]: [Golden Lion — Wikipedia](https://en.wikipedia.org/wiki/Golden_Lion) — Pemenang Golden Lion sepanjang masa, termasuk _A City of Sadness_ (1989) dan _Inferno_ (1992).
 
-[^5]: [National Award for Arts — National Culture and Arts Foundation](https://www.ncafroc.org.tw/) — Catatan pemenang ke-18 (2014).
+[^5]: [Festival Film Cannes 2001 — Wikipedia](https://en.wikipedia.org/wiki/2001_Cannes_Film_Festival) — _What Time Is It Over There?_ terpilih dalam kompetisi utama, dan Tu Tsz-chi memenangkan penghargaan teknis tingkat tinggi untuk film ini bersama _Millennium Mambo_.
 
-[^6]: [70th Venice Film Festival — La Biennale di Venezia](https://www.labiennale.org/) — _Stray Dogs_ Jury Grand Prize; kronologi karya terbaru _Where_, _Abiding Nowhere_ lihat database TFAI.
+[^6]: [Premiere London karya "Wanderer" Tsai Ming-liang, _Nowhere to Live_ — CNA](https://www.cna.com.tw/news/amov/202410100017.aspx) — Karya pertama seri "Wanderer" dirilis pada tahun 2012; _Nowhere to Live_ adalah yang ke-10, tayang perdana dunia di Festival Film Berlin pada Februari 2024; _Where_ terlihat di [Laporan Pameran Pompidou CNA 2022-11](https://www.cna.com.tw/news/acul/202211260017.aspx).
 
-[^7]: [Cannes Film Festival Official — Festival de Cannes](https://www.festival-cannes.com/en/) — Catatan penayangan _What Time Is It There?_, _Goodbye, Dragon Inn_ (《不散》) di Cannes berbagai edisi.
+[^7]: [Festival Film Internasional Venesia ke-70 — Wikipedia](https://en.wikipedia.org/wiki/70th_Venice_International_Film_Festival) — _Excursion_ memenangkan Grand Prix Juri.
+
+[^8]: [Festival Film Internasional Berlin ke-70 — Wikipedia](https://en.wikipedia.org/wiki/70th_Berlin_International_Film_Festival) — _Days_ terpilih dalam kompetisi utama dan memenangkan Penghargaan Juri Beruang Teddy.
 
 ## Bacaan Lanjutan
 
-- [Taiwan Cinema](https://taiwancinema.bamid.gov.tw/) — Database resmi pemerintah film dan filmaker Taiwan
-- [Lee Kang-sheng](/people/李康生) — Protagonis pria tunggal Tsai Ming-liang 30 tahun, dari remaja Ximending jadi Walker
-- [Edward Yang](/people/楊德昌) — Pasangan mata lain Taiwan New Cinema mengurai kesepian urban dengan ketenangan insinyur
+- [Situs Web Sinema Taiwan](https://taiwancinema.bamid.gov.tw/) — Basis data film resmi pemerintah
+- [Edward Yang](/id/people/yang-dechang) — Mata kedua yang menganalisis Taipei, kesendirian kaum urban difilmkan dengan ketenangan seorang insinyur
