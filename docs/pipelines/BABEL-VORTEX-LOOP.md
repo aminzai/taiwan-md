@@ -3,8 +3,8 @@ title: 'BABEL-VORTEX-LOOP'
 description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.55)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.93'
-last_updated: 2026-09-30
+current_version: 'v1.94'
+last_updated: 2026-10-04
 last_session: '2026-09-26-100333-babel-vortex（翻譯率 100% 模式：推送常駐、付費 Haiku、閘門家族、委派 worktree 路徑陷阱與核准視窗、腳註修復器的語言盲）'
 sister_docs:
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
@@ -54,6 +54,9 @@ gap=0 不成立**。孤兒先跑全套現行閘門，過了照一般落地；不
 確認暫存內容只是格式差（或確定沒人要）後，在共用鎖底下 `git restore --staged`；只對已追蹤檔這樣做，
 新檔退暫存會變成孤兒。路徑式 commit 自己造成的那一種（v1.67）由 `.husky/post-commit` 自動對齊，
 讀數還不是 0 就是別的來源，照上面處理。
+
+閒置不等於沒事（v1.94）：master.log 是 `💤 本 run 零派工` 時，對一下它印的
+`Translation status @ <sha>` 是不是 origin 的 HEAD，落後就是在量過去的工作樹。
 
 死掉的產線看 log 尾：`🛑 空轉自動收工` → 直接重啟；崩潰 → 查根因再重啟。
 重啟指令在各 `/tmp/babel-*.log` 開頭；產線編組現況與原則見
@@ -310,6 +313,15 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 證據（重試觸發次數），不是相關性。
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
+
+- v1.94（2026-10-04 babel 夜班）：**v1.93 那句「新 stale 最慢十分鐘內被接住」只對這台機器自己產生的 stale 成立**。
+  合併 origin 的動作只住在 push-every 裡，而它只在有譯文要推時才合併；產線一閒置就沒有人合併，wrapper 的
+  `git fetch` 只更新 ref，status.py 讀的是工作樹。10-03 三班巡邏在別處修了十三篇中文推上 origin，這台的
+  dispatcher 從約 09:05 到 00:43 每十分鐘拿舊樹算一次 stale=0 又睡回去，master.log 每一輪都是正常閒置的
+  長相（`💤 本 run 零派工`）。夜班甦醒時 wake-context 報「落後 24」才現形，pull 之後立刻是十二語各 13 篇。
+  處置（`5239e7e49`）：push-every 加 `--sync`（同一個 merge_origin、同一把鎖、衝突 abort、不推），wrapper
+  每次起跑前呼叫。巡檢判讀補一條：**閒置輪詢的 status 行要看它印的 commit 是不是 origin 的 HEAD**，
+  `Translation status @ <sha>` 落後 origin 時，那個 stale=0 量的是過去。
 
 - v1.93（2026-09-30 babel 夜班）：**v1.64 的空轉重生收掉了，靠的是睡在 dispatcher 裡**。v1.64 記下後連三晚
   都寫「待哲宇決定」，但這件事沒進 OBSERVER-QUEUE，所以沒有人會被問到。量到的規模：09-27 12:00 到 09-30
