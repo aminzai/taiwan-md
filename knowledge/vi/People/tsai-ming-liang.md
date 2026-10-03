@@ -1,15 +1,15 @@
 ---
-title: 'Thái Minh Hững: Nhà thơ của phim chậm'
-description: 'Giải Ngọc Sư Tử Venice, người Hoa Ma Lai, nhà văn học phim chậm'
+title: 'Thái Minh Lượng: Nhà thơ của điện ảnh chậm'
+description: 'Người đoạt giải Sư tử Vàng Venice, người Hoa kiều Malaysia, bậc thầy thẩm mỹ điện ảnh chậm'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'nhà đạo diễn',
-    'Thái Minh Hững',
-    'phim chậm',
-    'Hội Chợ Phim Venice',
-    'người Hoa Ma Lai',
+    'Đạo diễn',
+    'Thái Minh Lượng',
+    'Điện ảnh chậm',
+    'Liên hoan phim Venice',
+    'Người Hoa kiều Malaysia',
   ]
 subcategory: '電影與戲劇'
 author: 'Taiwan.md Contributors'
@@ -17,96 +17,89 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'People/蔡明亮.md'
-sourceCommitSha: '97e35f050'
-sourceContentHash: 'sha256:f497de40f2ba1810'
-sourceBodyHash: 'sha256:c1d14969738eeca7'
-translatedAt: '2026-07-28T08:51:46+08:00'
+sourceCommitSha: '112856faf'
+sourceContentHash: 'sha256:9ed1f7923fa72bf2'
+sourceBodyHash: 'sha256:0c0888dfd516b33c'
+translatedAt: '2026-10-04T00:51:58+08:00'
 ---
 
-# Thái Minh Hững: Nhà thơ của phim chậm
+# Thái Minh Lượng: Nhà thơ của điện ảnh chậm
 
-> **30 giây tóm tắt:** Thái Minh Hững là một trong những nhà đạo diễn có phong cách cá nhân độc đáo nhất trong điện ảnh Hoa ngữ hiện đại, nổi tiếng với nghệ thuật "phim chậm" trên trường quốc tế. Năm 1994, ông thắng Giải Ngọc Sư Tử Venice với _Long Live Love_, là đầu tiên đứng đầu danh sách đạo diễn người Hoa nhận giải thưởng này. Là người Hoa Ma Lai, ông dành trọn cuộc đời mình cho việc khám phá cô đơn và cô lập của tầng lớp đô thị, tạo ra một ngôn ngữ điện ảnh hoàn toàn mới.
+> **Tóm tắt 30 giây:** Thái Minh Lượng là một trong những đạo diễn có phong cách cá nhân độc đáo nhất trong điện ảnh ngữ hệ Hán đương đại, nổi tiếng quốc tế với thẩm mỹ "điện ảnh chậm" đặc trưng. Với hai tác phẩm _Vạn Tuế Tình Yêu_ và _Trước Cơn Mưa_ cùng đoạt giải Sư tử Vàng tại Liên hoan phim Venice năm 1994, ông là đạo diễn người Hoa thứ ba đạt giải này sau Hầu Hiếu Hiền và Trương Nghệ Mưu. Là một người Hoa kiều Malaysia, ông luôn quan tâm đến sự cô đơn và xa cách của người thành thị, tạo ra một ngôn ngữ điện ảnh hoàn toàn mới.
 
-## Gia đình và tuổi thơ ở Ma Lai
+## Những năm tháng trưởng thành tại Malaysia
 
-Thái Minh Hững sinh ngày 27 tháng 10 năm 1957 tại thành phố Kota Kinabalu, bang Sabah, Malaysia, có nguyên quán tỉnh Fujian, Trung Quốc. Bố làm chủ cửa hàng tiện lợi, mẹ là người nội trợ. Trong môi trường đa dạng bản sắc dân tộc của Malaysia, ông từ sớm trải qua trải nghiệm phức tạp về bản sắc văn hóa.
+Thái Minh Lượng sinh ngày 27 tháng 10 năm 1957 tại Cổ Tấn, bang Sarawak, Malaysia; quê quán là Giáp Dương, Quảng Đông. Ông là người con thứ ba trong bảy anh chị em. Gia đình làm nghề bán mì, khi còn nhỏ ông được gửi về sống cùng ông bà ngoại, hai cụ thay phiên đưa ông đi xem rạp chiếu phim, thường một ngày xem hai bộ phim[^1]. Lớn lên trong môi trường đa sắc tộc của Malaysia, Thái Minh Lượng đã trải nghiệm sự phức tạp của bản sắc văn hóa từ khi còn nhỏ.
 
-Ở trường trung học, ông học tập tại Trường Trung học Đại học Kota Kinabalu, ban đầu bị cuốn hút bởi nghệ thuật kịch. Tham gia hoạt động kịch trường trường, ông khám phá được niềm đam mê với hình ảnh và không gian.
+Thời trung học ông theo học tại Trường Trung học Hoa Cổ Tấn. Sau khi tốt nghiệp cấp ba vào năm 1977, ông đến Đài Loan, trước tiên học tiếng Trung tại Trung tâm Ngôn ngữ Đại học Sư phạm, và năm sau thi đỗ Khoa Kịch nghệ, Nhóm Điện ảnh của Đại học Văn hóa Trung Quốc[^1]. Bầu không khí học thuật tự do ở Đài Loan đã giúp ông tiếp xúc với nhiều hình thức biểu đạt nghệ thuật đa dạng hơn, và bắt đầu suy ngẫm về vấn đề bản sắc văn hóa của chính mình.
 
-Sau tốt nghiệp THPT, ông quyết định học tập tại Đài Loan, một quyết định thay đổi hoàn toàn con đường đời sống.
+## Khởi đầu sân khấu và kinh nghiệm truyền hình
 
-## Nền tảng học thuật và trải nghiệm đi ảnh
+Trong thời đại học, thầy Vương Tiểu Đệ đã mang đến cho ông khái niệm "sân khấu đời sống". Năm 1982, ông cùng bạn bè thành lập "Nhà hát Tiểu Oa", hoàn thành vở kịch sân khấu đầu tiên _Mì Giấm Ăn Nhanh_[^1]. Sau khi tốt nghiệp, ông viết kịch bản phim trước, và vào năm 1989 chuyển sang giới truyền hình, đạo diễn bộ phim truyền hình _Bờ Biển Xa Xôi_ trên Đài Hoa Thị. Ông đã nhận giải thưởng Đạo diễn Kim Chung (Kim Jong) lần thứ nhất và thứ hai vào các năm 1991 và 1992 với các tập _Cảm xúc của Lệ Hương_ và _Cho Tôi Một Ngôi Nhà_ trong loạt phim _Bầu Trời Của Người Dân Thường_[^1].
 
-Năm 1977, Thái Minh Hững đến Đài Loan để học tập tại Đại học Văn hóa Trung Quốc, ngành Kịch. Nơi đây mang lại môi trường học thuật tự do, giúp ông tiếp xúc với nhiều hình thức nghệ thuật đa dạng, đồng thời bắt đầu đặt câu hỏi về bản sắc văn hóa cá nhân.
+Năm 1991, khi quay bộ phim truyền hình _Đứa Trẻ_, ông đã phát hiện ra Lý Khang Sinh, một người chưa từng được đào tạo diễn xuất, tại một khu trò chơi điện tử nơi thanh thiếu niên tụ tập ở Tây Môn Trẫm, mở đầu cho sự hợp tác lâu dài của hai người kéo dài đến tận ngày nay[^1]. Trong giai đoạn truyền hình, Thái Minh Lượng đã thể hiện xu hướng ưa chuộng các cảnh quay dài và bố cục tĩnh, chú trọng vào thế giới nội tâm nhân vật hơn là cốt truyện bên ngoài.
 
-Trong giai đoạn học sinh đại học, ông sâu ảnh hưởng bởi Nhà kịch tiên tiến, tham gia các phát triển sản phẩm của Ban hội họa Lan Ling. Dưới sự dẫn dắt của các nhà sáng lập như Jigsaw và Zho Ming, ông học hỏi kỹ năng diễn xuất và đạo diễn, từ đó nắm bắt được cảm quan về biểu đạt cơ thể và không gian.
+## Tác phẩm điện ảnh đầu tay: _Na Tra Thanh Thiếu_
 
-Sau khi tốt nghiệp vào năm 1982, ông bước vào lĩnh vực truyền hình, làm việc tại Hãng phát thanh và truyền hình Quốc gia (CNS) và Hãng phát thanh và truyền hình Trung tâm (CTS). Ông đồng thời viết kịch bản và đạo diễn các tác phẩm truyền hình. Một trong những công việc nổi bật là _Trẻ em_ (1991), đạt giải Thưởng Kim Chung.
+Năm 1992, Thái Minh Lượng ra mắt tác phẩm điện ảnh đầu tay _Na Tra Thanh Thiếu_, thiết lập phong cách cá nhân của ông. Bộ phim mô tả các lát cắt cuộc sống của một vài thanh niên trong thành phố Đài Bắc, thể hiện sự bối rối và xa cách của giới trẻ hiện đại thông qua cấu trúc tự sự phi tuyến tính.
 
-Trong quá trình sản xuất _Trẻ em_, ông gặp người diễn viên không chuyên nghiệp Lý Khâu Sinh trên phố Tây, Kinh Đô, và bắt đầu xây dựng mối quan hệ hợp tác lâu dài với người này. Giai đoạn truyền hình của ông đã khẳng định xu hướng thích hợp với những góc khoảnh dài và bố cục tĩnh, tập trung vào thế giới nội tâm hơn là cốt truyện bên ngoài.
+Lý Khang Sinh là người hợp tác cố định của Thái Minh Lượng từ _Đứa Trẻ_ năm 1991. Khí chất độc đáo của anh đã hoàn hảo hóa hình tượng linh hồn thành thị trong các bộ phim của Thái Minh Lượng. _Na Tra Thanh Thiếu_ giành giải Hoa Anh Đồng tại Liên hoan phim Tokyo, giải Tác phẩm đầu tay xuất sắc nhất tại Liên hoan phim Nantes và giải Phim xuất sắc nhất tại Liên hoan phim Toulon vào năm 1993; nhịp độ chậm rãi và phong cách tối giản của bộ phim là độc đáo trong điện ảnh Đài Loan thời bấy giờ[^2].
 
-## Tác phẩm đầu tiên của điện ảnh: _Teenage Ngọc Sư_
+## Vua được tôn vinh tại Venice: _Vạn Tuế Tình Yêu_
 
-Vào năm 1992, Thái Minh Hững ra mắt bằng bộ phim đầu tiên _Teenage Ngọc Sư_. Bộ phim mô tả những đoạn đời sống của những người trẻ trong đô thị Hà Nội, dùng cấu trúc kể chuyện phi tuyến tính để phản ánh sự bối rối và cô lập của thế hệ trẻ hiện đại.
+_Vạn Tuế Tình Yêu_ năm 1994 là một trong những tác phẩm tiêu biểu nhất của Thái Minh Lượng. Bộ phim mô tả cuộc sống cô đơn của ba người thành thị Đài Bắc, và cảnh Dương Quý Mị khóc lâu tại Công viên Lâm Viên Đại An ở cuối phim đã trở thành một khung hình mang tính biểu tượng trong lịch sử điện ảnh Đài Loan.
 
-Lý Khâu Sinh đã hợp tác với ông từ năm 1991 với _Trẻ em_ và tiếp tục đóng vai chính trong _Teenage Ngọc Sư_. Phong cách diễn xuất đặc sắc của người này hoàn hảo trình bày hình ảnh người lạc lối trong thế giới đương đại của Thái Minh Hững. _Teenage Ngọc Sư_ giành giải Phim tốt nhất tại Hội Chợ Phim châu Á, phong cách chậm và thẩm mỹ tối giản là một điều độc đáo trong điện ảnh Đài Loan thời bấy giờ.[^1]
+_Vạn Tuế Tình Yêu_ cùng với bộ phim _Trước Cơn Mưa_ của Macedonia đoạt giải Sư tử Vàng tại Liên hoan phim Venice lần thứ 51[^3]. Trước ông, Hầu Hiếu Hiền đã giành giải Sư tử Vàng với _Thành Phố Bi Kịch_ (1989), và Trương Nghệ Mưu đã giành giải với _Vụ Kiện Của Quỳ Cúc_ (1992); Thái Minh Lượng là đạo diễn người Hoa thứ ba nhận được giải thưởng này[^4].
 
-## Chiếu hoa kiểm: _Long Live Love_
+## _Sông_, _Hang Động_, _Mấy Giờ Rồi Ở Bên Bạn?_
 
-_Long Live Love_ (1994) là một trong những công trình đại diện nhất của Thái Minh Hững. Bộ phim kể về cuộc sống cô đơn của ba người trong đô thị Hà Nội, kết thúc bằng cảnh khóc kéo dài 6 phút trở thành biểu tượng tiêu chuẩn của điện ảnh Đài Loan.
+Từ năm 1997 đến năm 2001, Thái Minh Lượng liên tiếp thực hiện _Sông_ (1997), _Hang Động_ (1998) và _Mấy Giờ Rồi Ở Bên Bạn?_ (2001), trong đó hình tượng nước xuất hiện lặp đi lặp lại. _Sông_, với nhịp độ cực kỳ chậm rãi, thể hiện sự xa cách giữa các thành viên trong gia đình và giành giải Bạc gấu tại Liên hoan phim Berlin; _Hang Động_ thông qua tương tác của cư dân sống ở các tầng khác nhau trong một chung cư Đài Bắc, khám phá sự cô đơn và khao khát của người thành thị hiện đại, bầu không khí tận thế là hư cấu chứ không ám chỉ sự kiện thực tế, giành giải Nhà phê bình quốc tế tại Liên hoan phim Cannes. _Mấy Giờ Rồi Ở Bên Bạn?_ được quay ở cả Đài Bắc và Paris, khám phá khoảng cách và nỗi nhớ thông qua khái niệm chênh lệch múi giờ, đã tham gia cuộc thi chính thức tại Liên hoan phim Cannes năm 2001; nhà ghi âm Đỗ Độc Chi đã giành giải thưởng kỹ thuật cao cấp với bộ phim này và _Dancing Millennium_[^5].
 
-_Long Live Love_ chia sẻ giải Ngọc Sư Tử đồng hạng với phim _Before the Rain_ của Bồ Đào Nha tại Lễ hội Quốc tế Hội Chợ Phim Venice lần thứ 51. Thái Minh Hững trở thành đạo diễn người Hoa đầu tiên nhận giải thưởng cao nhất trong lịch sử Hội Chợ Phim Venice.[^2] Sự thành công này đưa điện ảnh Hoa ngữ lên bệ đỡ của điện ảnh hội họa quốc tế.
+## Ngôn ngữ điện ảnh tối giản
 
-## Ba cuộc hành trình của nước
+Thái Minh Lượng đã phát triển một ngôn ngữ "điện ảnh chậm" độc đáo: các cảnh quay cực dài, lời thoại ít ỏi, cốt truyện cô đọng, nhịp độ chậm rãi. Các bộ phim của ông sử dụng rất nhiều cảnh tĩnh và âm thanh tự nhiên để khán giả cảm nhận sự trôi qua của thời gian.
 
-Từ 1997 đến 2001, Thái Minh Hững sáng tác ba tác phẩm mang chủ đề "nước": _Sông_ (1997), _Hố_ (1998), _Bạn ở đâu lúc nào?_ (2001). _Sông_ sử dụng nhịp độ cực chậm để phản ánh sự cô lập gia đình; _Hố_ khai thác tương tác giữa các cư dân trên và dưới tầng nhà ở Hà Nội, khám phá cô đơn và khao khát của con người trong đô thị hiện đại — khung cảnh hồi hội cuối cùng là sự thiết kế hư cấu, không chỉ rơi vào sự kiện thực tế. _Bạn ở đâu lúc nào?_ đồng quay tại Hà Nội và Paris, dùng khái niệm chênh lệch giờ để khám phá khoảng cách và tình nhớ, giành giải Thưởng đặc biệt tại Lễ hội Phim Cannes.[^3]
+Dưới ống kính của Thái Minh Lượng, những chi tiết vụn vặt của cuộc sống thường ngày—ăn uống, đi ngủ, vệ sinh cá nhân—đều được xem xét lại bằng con mắt nghệ thuật. Ông giỏi sử dụng không gian để tạo ra cảm xúc; dù là căn hộ chật hẹp, con phố trống trải hay tòa nhà bỏ hoang, tất cả đều trở thành sự phản chiếu bên ngoài thế giới nội tâm của các nhân vật.
 
-## Ngôn ngữ điện ảnh của sự tối giản
+## Thời kỳ bảo tàng và loạt phim "Người Lữ Hành"
 
-Thái Minh Hững phát triển một ngôn ngữ "phim chậm" riêng: kỳ quan dài, hội thoại ít ỏi, cốt truyện đơn giản, nhịp độ chậm. Phim của ông dùng nhiều cảnh tĩnh và âm thanh tự nhiên, để khách hàng cảm nhận được sự trôi qua của thời gian.
+Năm 2012, Thái Minh Lượng ra mắt bộ phim ngắn đầu tiên trong loạt phim "Người Lữ Hành": Lý Khang Sinh mặc áo choàng đỏ, đi qua các con phố và kiến trúc của các thành phố khác với tốc độ cực chậm. Loạt phim này bao gồm _Tây Du_ (2014), _Ở Đâu?_ (quay cho triển lãm tại Trung tâm Pompidou Paris năm 2022) và _Không Cư Trú_ (ra mắt lần đầu tại Liên hoan phim Berlin năm 2024), đã là phần thứ mười[^6]. Lý Khang Sinh đã trưởng thành từ một thiếu niên non nớt thành một người đàn ông trung niên; cơ thể anh mang trong mình toàn bộ ý niệm sáng tạo của Thái Minh Lượng, là vật chứa cốt lõi của toàn bộ loạt tác phẩm.
 
-Trong kỳ quan của ông, những chi tiết nhỏ trong đời sống hàng ngày — ăn uống, ngủ, tắm rửa — đều được xem lại qua lăng kính nghệ thuật. Ông thành thạo sử dụng không gian để tạo cảm xúc, dù là căn hộ nhỏ nhất, con phố tĩnh lặng hay công trình bỏ hoang, đều trở thành phản ánh bên ngoài của thế giới nội tâm của người nhân.
+Năm 2013, _Dã Ngoạn_ giành giải thưởng lớn của Ban giám khảo tại Liên hoan phim Venice lần thứ 70[^7]. Khi được phỏng vấn ở Venice, ông nói rằng _Dã Ngoạn_ có thể là bộ phim truyện cuối cùng của mình, và sau này sẽ làm những tác phẩm "giống nghệ thuật hơn"; ông cũng không đồng tình với hệ thống rạp chiếu phim Đài Loan; _Dã Ngoạn_ đã không được chiếu trên màn ảnh rộng mà thay vào đó được trình chiếu đặc biệt tại Bảo tàng Bắc Sư. Các phim ngắn sau này chủ yếu được công bố tại các bảo tàng và liên hoan phim, ví dụ như _Không Ngủ_ (quay tại Nhật Bản năm 2015) và _Nhà Ở chùa Lan Nhược_ (lần đầu thử nghiệm quay VR vào năm 2017)[^1].
 
-## Thời kỳ bảo tàng nghệ thuật và chuỗi _Hành trình_
+## Sau phim truyện
 
-Vào cuối thập niên 2000, Thái Minh Hững chuyển trọng tâm sang không gian bảo tàng và triển lãm. Ông cho rằng môi trường bảo tàng phù hợp hơn để trình diễn nghệ thuật tối giản của mình. Các tác phẩm như _Không ngủ_ (2015), _Nhà ở chùa Lan Hạ_ (2017) đã tiếp tục khuyến khích thí nghiệm với phim chậm.
-
-Bắt đầu từ hình ảnh _Hành trình_ trong _Khám phá ngoại ô_ (2013), Thái Minh Hững phát triển thành một chuỗi các bức tranh ngắn về Lý Khâu Sinh đi bộ chậm chạp, bao gồm _Tây Du_ (2014). Từ trẻ con bối rối đến người trưởng thành, cơ thể của Lý Khâu Sinh chịu đựng mọi ý tưởng sáng tạo của ông, trở thành trung tâm của toàn bộ chuỗi tác phẩm này.[^4]
-
-## Xác nhận quốc tế sau _Khám phá ngoại ô_
-
-_Khám phá ngoại ô_ (2013) thắng Giải Nhà hội đồng tại Lễ hội Quốc tế Hội Chợ Phim Venice lần thứ 70, xác nhận lại vị thế của Thái Minh Hững trong làng điện ảnh hội họa quốc tế. Cùng năm, ông được bình chọn là Phim năm tại Giải Thưởng Nghệ thuật Quốc gia, danh hiệu cao nhất trong ngành nghệ thuật và văn hóa Đài Loan.[^5]
-
-Trong những năm gần đây, _Ngày mới_ (2020) tiếp tục khám phá mối quan hệ giữa cơ thể và thời gian. _Đi đâu rồi_ (2022) và _Không có nơi nương_ (2024) cho thấy ông vẫn đang thúc đẩy giới hạn của bản thân ngay cả khi đã thành niên.[^6]
+_Ngày Tháng_ năm 2020 tiếp nối sự khám phá về cơ thể và thời gian của ông, giành giải thưởng Ban giám khảo Gấu Teddy tại Liên hoan phim Berlin[^8]. _Ở Đâu?_ (2022) và _Không Cư Trú_ (2024) lần lượt ra mắt, cho thấy Thái Minh Lượng vẫn tiếp tục đẩy giới hạn sáng tạo của mình trong độ tuổi gần bảy mươi[^6].
 
 ## Bản sắc văn hóa và chủ đề sáng tác
 
-Là người Hoa Ma Lai, tác phẩm của Thái Minh Hững luôn mang góc nhìn từ góc độ người bờ biên. Ông chú trọng các nhóm người bờ biên trong đô thị: người lao động nước ngoài, người kinh doanh bạo lực, người cao tuổi, bệnh nhân, và trình bày một cách thẳng thắn các nhu cầu sinh lý của con người, thách thức các định kiến truyền thống.
+Là một người Hoa kiều Malaysia, các bộ phim của Thái Minh Lượng luôn mang góc nhìn của người thuộc biên giới văn hóa. Ông quan tâm đến những nhóm người ở rìa xã hội thành thị: lao động nước ngoài, người làm nghề mại dâm, người già, bệnh nhân, v.v., thể hiện nhu cầu sinh lý của con người một cách thẳng thắn, thách thức các quan niệm đạo đức truyền thống.
 
-Phim của ông hiếm khi xử lý các vấn đề chính trị, tập trung vào trạng thái sinh tồn cơ bản của con người. Ông cho rằng nghệ thuật nên vượt qua chính trị và quan điểm, đến với trải nghiệm xúc cảm chung của con người. Vị thế này khiến tác phẩm của ông gặp hạn chế trong một số khu vực châu Á, đồng thời đạt được đánh giá cao trong làng điện ảnh hội họa châu Âu.
+Các bộ phim của Thái Minh Lượng hiếm khi đề cập đến các vấn đề chính trị mà tập trung vào trạng thái tồn tại cơ bản của con người, điều này đã mang lại cho ông sự đánh giá cao trong giới điện ảnh nghệ thuật châu Âu.
 
-## Ảnh hưởng quốc tế và hội đồng phim chậm
+## Ảnh hưởng quốc tế và trường phái Điện ảnh chậm
 
-Thái Minh Hững thuộc về hội đồng "phim chậm" quốc tế. Cùng thời kỷ, Ravi Diwaz của Philippines và ông phát triển riêng nghệ thuật quan sát dài khung, thường được đối chiếu; còn Bertha Tár của Hungary đã xác định phong cách kể chuyện thời gian vào những năm 1980, hai người xuất hiện như các thế hệ khác nhau trong các bối cảnh văn hóa riêng biệt — không phải là dòng chảy tuần hoàn hay ảnh hưởng lẫn nhau. Các tạp chí uy tín như _Film Comment_ của Pháp và _Sight & Sound_ của Anh đều đánh giá cao Thái Minh Hững, các tác phẩm của ông được bảo tàng và cơ sở nghệ thuật quốc tế sưu giữ.[^7]
+Thái Minh Lượng là một thành viên của trường phái "điện ảnh chậm" quốc tế. Raf Diaz của Philippines và ông đều phát triển thẩm mỹ nhìn ngắm phim truyện trong khoảng thời gian tương tự, hai người thường được thảo luận song song; Bela Tarr của Hungary đã thiết lập cách kể chuyện về thời gian của mình từ những năm 1980. Cả hai nên được xem là kết quả của sự tiến hóa song song ở bối cảnh văn hóa riêng của mỗi người, chứ không phải sự kế thừa tuyến tính. _Khuôn Mặt_ (2009) là bộ phim đầu tiên được bảo tàng Louvre lưu giữ[^1].
 
 ## Tài liệu tham khảo
 
-[^1]: [Thái Minh Hững — Cơ sở dữ liệu phim Đài Loan](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12456) — Thông tin chính thức về _Teenage Ngọc Sư_ và lịch sử chiếu rạp.
+[^1]: [Thái Minh Lượng — Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%94%A1%E6%98%8E%E4%BA%AE) — Tiểu sử, Nhà hát Tiểu Oa, giai đoạn Đài Hoa Thị và hai giải Đạo diễn Kim Chung, các tác phẩm _Sông_ và _Hang Động_ đoạt giải, việc chiếu tại bảo tàng sau _Dã Ngoạn_ và niên biểu phim ngắn.
 
-[^2]: [Lễ hội Quốc tế Hội Chợ Phim Venice — La Biennale di Venezia](https://www.labiennale.org/en/history/51st-festival-1994) — Ghi nhận trùng hạng giải Ngọc Sư Tử cho _Long Live Love_ và _Before the Rain_.
+[^2]: [Na Tra Thanh Thiếu — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%9D%92%E5%B0%91%E5%B9%B4%E5%93%AA%E5%90%92) — Giải Hoa Anh Đồng tại Liên hoan phim Tokyo năm 1993, giải Tác phẩm đầu tay xuất sắc nhất tại Liên hoan phim Nantes, giải Phim xuất sắc nhất tại Liên hoan phim Toulon.
 
-[^3]: [Trung tâm Phim và Văn hóa âm thanh Quốc gia TFAI](https://www.tfai.org.tw/) — Tiểu sử sản xuất và lịch sử chiếu tại Cannes của Thái Minh Hững.
+[^3]: [Liên hoan phim quốc tế Venice lần thứ 51 — Wikipedia](https://en.wikipedia.org/wiki/51st_Venice_International_Film_Festival) — _Vạn Tuế Tình Yêu_ và _Trước Cơn Mưa_ cùng đoạt giải Sư tử Vàng.
 
-[^4]: [Hội đồng triển lãm Thái Minh Hững tại Bảo tàng Nghệ thuật Hà Nội](https://www.tfam.museum/) — Bối cảnh chuỗi _Hành trình_ và phân tích về phong cách chậm trong bảo tàng.
+[^4]: [Sư tử Vàng — Wikipedia](https://en.wikipedia.org/wiki/Golden_Lion) — Các người đoạt giải Sư tử Vàng qua các thời kỳ, bao gồm _Thành Phố Bi Kịch_ (1989) và _Vụ Kiện Của Quỳ Cúc_ (1992).
 
-[^5]: [Giải Thưởng Nghệ thuật Quốc gia — Quỹ Nghệ thuật và Văn hóa Quốc gia](https://www.ncafroc.org.tw/) — Danh sách các tác phẩm đạt giải thưởng năm 2014.
+[^5]: [Liên hoan phim Cannes năm 2001 — Wikipedia](https://en.wikipedia.org/wiki/2001_Cannes_Film_Festival) — _Mấy Giờ Rồi Ở Bên Bạn?_ tham gia cuộc thi chính thức, Đỗ Độc Chi giành giải thưởng kỹ thuật cao cấp với bộ phim này và _Dancing Millennium_.
 
-[^6]: [Lễ hội Quốc tế Hội Chợ Phim Venice — La Biennale di Venezia](https://www.labiennale.org/) — Giải Nhà hội đồng cho _Khám phá ngoại ô_; tiểu sử gần đây của _Đi đâu rồi_ và _Không có nơi nương_ có sẵn tại cơ sở dữ liệu TFAI.
+[^6]: [Ra mắt tại London tác phẩm mới "Người Lữ Hành" của Thái Minh Lượng — Thông tấn xã Trung ương](https://www.cna.com.tw/news/amov/202410100017.aspx) — Ra mắt tác phẩm đầu tiên trong loạt "Người Lữ Hành" năm 2012; _Không Cư Trú_ là phần thứ 10, ra mắt thế giới tại Liên hoan phim Berlin tháng 2 năm 2024; _Ở Đâu?_ xem [Báo cáo triển lãm Pompidou Thông tấn xã Trung ương 2022-11](https://www.cna.com.tw/news/acul/202211260017.aspx).
 
-[^7]: [Lễ hội Phim Cannes chính thức — Festival de Cannes](https://www.festival-cannes.com/en/) — Danh sách chiếu rạp các tác phẩm của Thái Minh Hững như _Bạn ở đâu lúc nào?_ và _Không ngủ_.
+[^7]: [Liên hoan phim quốc tế Venice lần thứ 70 — Wikipedia](https://en.wikipedia.org/wiki/70th_Venice_International_Film_Festival) — _Dã Ngoạn_ giành giải thưởng lớn của Ban giám khảo.
+
+[^8]: [Liên hoan phim Berlin lần thứ 70 — Wikipedia](https://en.wikipedia.org/wiki/70th_Berlin_International_Film_Festival) — _Ngày Tháng_ tham gia cuộc thi chính thức, giành giải thưởng Ban giám khảo Gấu Teddy.
 
 ## Đọc thêm
 
-- [Cơ sở dữ liệu phim Đài Loan](https://taiwancinema.bamid.gov.tw/) — Cơ sở dữ liệu chính phủ về các nhà đạo diễn Đài Loan
-- [Lý Khâu Sinh](/people/李康生) — Đối tác chính duy nhất của Thái Minh Hững trong 30 năm, từ thiếu niên phố Tây Kinh Đô đến chuỗi _Hành trình_
-- [Yang Der-chang](/vi/people/yang-dechang) — Người kể chuyện cách phân tích Hà Nội qua góc nhìn kỹ thuật, dùng tư duy kỹ sư để khám phá cô đơn của tầng lớp đô thị
+- [Trang web điện ảnh Đài Loan](https://taiwancinema.bamid.gov.tw/) — Cơ sở dữ liệu nghệ sĩ phim chính thức của chính phủ
+- [Dương Đức Xương](/vi/people/yang-dechang) — Một con mắt khác nhìn vào sự cô đơn của người thành thị bằng sự điềm tĩnh của một kỹ sư, giải phẫu Đài Bắc trong điện ảnh mới
