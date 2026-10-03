@@ -25,10 +25,10 @@ imageCredit: 'BQUB25-UPoch (own work, AlphaFold + PyMOL)'
 imageLicense: 'CC BY 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Estructura_tridimensional_de_la_prote%C3%AFna_CBLN1_per_AlphaFold_amb_codificaci%C3%B3_rainbow.png'
 translatedFrom: 'Technology/台灣人工智慧發展與未來策略.md'
-sourceCommitSha: 'b67b190fb'
-sourceContentHash: 'sha256:15e7aa6f99cf7a84'
-sourceBodyHash: 'sha256:50acff1d4627c3c4'
-translatedAt: '2026-09-08T04:11:21.254246+00:00'
+sourceCommitSha: 'b70d6d8c4'
+sourceContentHash: 'sha256:36a555145d356c00'
+sourceBodyHash: 'sha256:9929570d1f524d80'
+translatedAt: '2026-10-03T21:20:15.016438+00:00'
 ---
 
 # 대만 인공지능 발전과 미래 전략: 하드웨어 입장권은 얻었다, 다음 전장은 어디인가
@@ -212,19 +212,17 @@ CyCraft의 고객에는 대만 정부기관, 국방기관, 은행, 반도체 기
 
 ---
 
-## 정책: “AI 원년”에서 디지털발전부까지
+## 정책: 'AI 원년'에서 디지털 발전부로
 
-대만의 AI 정책 발전은 세 개의 지점으로 이해할 수 있다.
+타이완의 AI 정책 발전은 세 가지 지점을 통해 이해할 수 있다.
 
-2017년부터 2018년까지는 출발 단계였다. 행정원은 2017년을 “AI 원년”으로 정하고, “AI 소국 대전략” 개념을 제시했다. 대만 시장이 작다는 점을 인정하되, 반도체 제조, ICT 공급망, 이공계 인재라는 세 장의 카드를 강조했다. 2018년에는 1기 “대만 AI 행동계획”을 시작해 4년 동안 신대만달러 400억 원 이상을 투입했고, AI 연산 인프라 “대만 AI 클라우드”(TWCC) 구축에 중점을 두었다[^20].
+2017년부터 2018년까지는 태동기였다. 기술부 장관인 천량기(陳良基)가 2017년을 'AI 원년'으로 선언하고 「AI 소국대전략」[^21]을 제시했는데, 이는 타이완 시장이 작다는 점은 인정하면서도 반도체 제조, ICT 공급망, 이공계 인재라는 세 가지 강점을 강조한 것이다. 2018년에는 제1기 '타이완 AI 행동 계획'이 시작되었고, 4년간 400억 위안(NT$400억) 이상을 투자하여 AI 컴퓨팅 인프라인 '타이완 AI 클라우드'(TWCC)[^20]를 중점적으로 구축했다.
 
-2022년에는 제도화로 나아갔다. 디지털발전부(moda)가 설립되어 과학기술부, 경제부, 교통부에 흩어져 있던 디지털 업무를 통합했다. 이 단계의 의미는 AI 정책이 “과학기술부의 프로젝트”에서 “부처를 가로지르는 국가전략”으로 격상되었다는 데 있다. 같은 해 정부는 “인공지능 과학연구 발전 지침”을 발표해 인간 중심, 투명성과 설명 가능성, 공정성과 비차별 등의 원칙을 강조했다.
+2022년에는 제도화 단계로 접어들었다. 디지털 발전부(moda)가 설립되어 기존에 기술부, 경제부, 교통부에 흩어져 있던 디지털 업무들을 통합했다. 이 단계의 의의는 AI 정책이 '기술부의 프로젝트'에서 '범부처적 국가 전략'으로 격상되었다는 점이다. 같은 해 정부는 「인공지능 연구개발 지침」을 발표하며 인간 중심, 투명성 및 설명 가능성, 공정성 및 비차별 등의 원칙을 강조했다.
 
-2023년 이후는 생성형 AI 전환기다. ChatGPT의 충격은 정책을 급격히 방향 전환시켰다. TAIDE 계획이 시작되고, AI 기본법 초안이 추진되었으며, 공공부문의 AI 도입이 빨라졌다. 대만의 전략은 매우 실용적이다. 미국과 중국을 상대로 기초연구 논문 수를 겨루기보다, AI를 기존 제조업의 강점과 접목하는 것이다. 스마트 제조, 의료영상, 반도체 수율 예측은 모두 대만에 데이터와 현장, 경쟁력이 있는 분야다.
+2023년 이후는 생성형 AI로의 전환기이다. ChatGPT의 충격으로 정책이 급선회했다. TAIDE 계획이 시작되고, AI 기본법 초안이 추진되었으며, 공공 부문의 AI 도입이 가속화되었다. 타이완의 전략은 매우 현실적이었다. 미국과 중국을 겨루어 기초 연구 논문 수를 경쟁하기보다는, AI를 기존 제조 강점과 융합하는 방식을 택했다. 스마트 제조, 의료 영상, 반도체 수율 예측 등은 타이완이 데이터와 현장 상황, 경쟁력을 갖춘 분야들이다.
 
-문제는 2024년 10월 그 이틀 동안의 노벨상 수상자 명단에 “스마트 제조”라는 경로에서 온 사람이 한 명도 없었다는 점이다.
-
----
+문제는 2024년 10일경 노벨상 수상자 명단 중 어느 누구도 '스마트 제조'라는 경로를 통해 나오지 않았다는 점이다.
 
 ## 불안: 하드웨어 제국의 소프트웨어 결손
 
@@ -277,51 +275,53 @@ CyCraft의 고객에는 대만 정부기관, 국방기관, 은행, 반도체 기
 - [John J. Hopfield, 2024 Nobel Prize Laureate in Physics 1 (cropped)](<https://commons.wikimedia.org/wiki/File:John_J._Hopfield,_2024_Nobel_Prize_Laureate_in_Physics_1_(cropped).jpg>) — 인라인, 2024 노벨 주 홉필드 공식 초상. 사진: 아서 페트론, 2024-12-08, CC BY-SA 4.0.
 - [TSMC Fab 5](https://commons.wikimedia.org/wiki/File:TSMC_Fab_5.jpg) — 인라인, TSMC 신주 팹 5 공장, AI 칩 위탁 생산의 물리적 현장. 사진: 위키미디어 커먼즈 (기존 캐시).
 
-## 참고자료
+## 참고 자료
 
-[^1]: [Tom's Hardware: Semiconductor legends take a stroll in a Taiwanese night market](https://www.tomshardware.com/tech-industry/semiconductor-legends-take-a-stroll-in-a-taiwanese-night-market-nvidia-tsmc-mediatek-and-quanta-heads-seen-eating-dinner) — 2024년 5월 29일 닝샤 야시장 장면 보도. 젠슨 황, 모리스 창, 배리 람, 릭 차이가 한자리에서 식사한 장면을 기록했다.
+[^1]: [Tom's Hardware: Semiconductor legends take a stroll in a Taiwanese night market](https://www.tomshardware.com/tech-industry/semiconductor-legends-take-a-stroll-in-a-taiwanese-night-market-nvidia-tsmc-mediatek-and-quanta-heads-seen-eating-dinner) — 2024년 5월 29일 닝샤 야시장에서 황인훈, 장충모, 린바이리, 차이리싱이 함께 식사하는 모습이 보도됨.
 
-[^2]: [Taiwan News: Nvidia CEO calls Taiwan 'one of the most important countries in the world'](https://www.taiwannews.com.tw/news/5880054) — 2024-05-30 젠슨 황의 대만 방문 공개 발언.
+[^2]: [Taiwan News: Nvidia CEO calls Taiwan 'one of the most important countries in the world'](https://www.taiwannews.com.tw/news/5880054) — 2024-05-30 황인훈의 대만 방문 시 공개 발언.
 
-[^3]: [Wikipedia: Jensen Huang](https://en.wikipedia.org/wiki/Jensen_Huang) — 젠슨 황이 1963년 타이베이에서 태어나 어린 시절을 타이난에서 보내고 아홉 살에 미국으로 이민했다는 전기 자료.
+[^3]: [Wikipedia: Jensen Huang](https://en.wikipedia.org/wiki/Jensen_Huang) — 황인훈에 대한 전기 자료. 1963년 타이베이 출생, 전라남도에서 어린 시절을 보냈으며, 9세에 미국으로 이주함.
 
-[^4]: [Klover.ai: TSMC AI Fabricating Dominance](https://www.klover.ai/tsmc-ai-fabricating-dominance-chip-manufacturing-leadership-ai-era/) — NVIDIA의 모든 첨단 GPU(A100, H100, Blackwell 시리즈)는 TSMC가 위탁 생산한다참조 — NVIDIA AI GPU 전 시리즈의 파운드리 관계를 다룬 산업 분석.
+[^4]: [Klover.ai: TSMC AI Fabricating Dominance](https://www.klover.ai/tsmc-ai-fabricating-dominance-chip-manufacturing-leadership-ai-era/) — NVIDIA의 모든 첨단 GPU(A100, H100, Blackwell 시리즈)는 TSMC에서 위탁 생산됨참조 — NVIDIA AI GPU 전체 라인업에 대한 파운드리 관계 산업 분석.
 
-[^5]: [SQ Magazine: AI Chip Statistics 2025](https://sqmagazine.co.uk/ai-chip-statistics/) — 2025년 TSMC 파운드리 매출 시장점유율 72%의 데이터 출처. Motley Fool의 같은 시기 보도도 참조.
+[^5]: [SQ Magazine: AI Chip Statistics 2025](https://sqmagazine.co.uk/ai-chip-statistics/) — 2025년 TSMC 웨이퍼 파운드리 매출 점유율 72% 데이터 출처; Motley Fool의 동시 보도 참조.
 
-[^6]: [PatentPC: The AI Chip Market Explosion](https://patentpc.com/blog/the-ai-chip-market-explosion-key-stats-on-nvidia-amd-and-intels-ai-dominance) — NVIDIA AI GPU 시장점유율 86% 데이터 출처.
+[^6]: [PatentPC: The AI Chip Market Explosion](https://patentpc.com/blog/the-ai-chip-market-explosion-key-stats-on-nvidia-amd-and-intels-ai-dominance) — NVIDIA AI GPU 시장 점유율 86% 데이터 출처.
 
-[^7]: [Tech-Now: Taiwan Leads Global AI Server Shift, Surpassing iPhones in 2025](https://tech-now.io/en/blogs/taiwans-ai-server-revolution-how-foxconn-and-odms-redefined-global-tech-leadership-in-2025) — 폭스콘, 콴타, 위스트론의 전 세계 AI 서버 90% 출하 데이터.
+[^7]: [Tech-Now: Taiwan Leads Global AI Server Shift, Surpassing iPhones in 2025](https://tech-now.io/en/blogs/taiwans-ai-server-revolution-how-foxconn-and-odms-redefined-global-tech-leadership-in-2025) — 폭스콘, 광다, 웨이창의 글로벌 AI 서버 90% 출하 데이터.
 
-[^8]: [DigiTimes: Foxconn, Wistron, Quanta to sustain trillion-dollar revenue on AI server in 2026](https://www.digitimes.com/news/a20260109PD249/revenue-ai-server-foxconn-wistron-quanta.html) — 세 ODM의 연매출 1조 원 돌파와 AI 서버가 소비자 전자제품을 넘어섰다는 데이터 보도.
+[^8]: [DigiTimes: Foxconn, Wistron, Quanta to sustain trillion-dollar revenue on AI server in 2026](https://www.digitimes.com/news/a20260109PD249/revenue-ai-server-foxconn-wistron-quanta.html) — 세 ODM 기업의 연 매출이 조 달러를 돌파하고 AI 서버가 가전제품을 추월했다는 보도.
 
-[^9]: [36Kr: Who Will Divide Up the CoWoS Production Capacity in 2026?](https://eu.36kr.com/en/p/3580962946874242) — NVIDIA의 CoWoS 웨이퍼 수요 59만 5천 장, 전 세계 60% 점유 데이터.
+[^9]: [36Kr: Who Will Divide Up the CoWoS Production Capacity in 2026?](https://eu.36kr.com/en/p/3580962946874242) — NVIDIA의 CoWoS 웨이퍼 수요 59.5만 장, 전 세계의 60%를 차지한다는 데이터.
 
-[^10]: [NVIDIA Newsroom: Foxconn Builds AI Factory in Partnership With Taiwan and NVIDIA](https://nvidianews.nvidia.com/news/foxconn-builds-ai-factory-in-partnership-with-taiwan-and-nvidia) — 가오슝 100MW AI 공장 협력안. 100MW 전력 용량은 CNBC 보도도 참조.
+[^10]: [NVIDIA Newsroom: Foxconn Builds AI Factory in Partnership With Taiwan and NVIDIA](https://nvidianews.nvidia.com/news/foxconn-builds-ai-factory-in-partnership-with-taiwan-and-nvidia) — 가오슝 100MW AI 공장 협력 사례; CNBC 보도에서 100MW 전력 용량 참조.
 
-[^11]: [台灣人工智慧實驗室官網 關於我們](https://ailabs.tw/zh/關於我們/) — 두이진이 1995년 국립대만대학교에서 PTT를 창립하고, 2017년 4월 대만으로 돌아와 Taiwan AI Labs를 창립했다는 공식 소개.
+[^11]: [台灣人工智慧實驗室官網 關於我們](https://ailabs.tw/zh/關於我們/) — 두익진이 1995년 타이대에서 PTT를 설립하고, 2017년 4월 대만으로 돌아와 Taiwan AI Labs를 창립한 공식 소개.
 
-[^12]: [TechNews 科技新報：AI 人才在台灣，該走該留？專訪台灣人工智慧實驗室創辦人杜奕瑾](https://finance.technews.tw/2025/08/18/taiwan-ai-labs-ethan/) — 야팅 회의록, 연합학습 의료 AI 등 핵심 프로젝트 소개.
+[^12]: [TechNews 科技新報: AI 人才在台灣，該走該留？專訪台灣人工智慧實驗室創辦人杜奕瑾](https://finance.technews.tw/2025/08/18/taiwan-ai-labs-ethan/) — 야팅의 녹취록, 연방식 학습 의료 AI 등 핵심 프로젝트 소개.
 
-[^13]: [行政院：完善臺灣 AI 基礎建設——打造可信任 AI 對話引擎 TAIDE](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/582206fe-26fc-4184-b911-aa6e4569ff3e) — 2023년 4월 TAIDE 계획 시작에 관한 공식 설명.
+[^13]: [行政院: 完善臺灣 AI 基礎建設——打造可信任 AI 對話引擎 TAIDE](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/582206fe-26fc-4184-b911-aa6e4569ff3e) — 2023년 4월 TAIDE 계획 시작 공식 설명.
 
-[^14]: [天下雜誌：「防止中國 AI 文化侵略」台灣第一個繁體中文大語言模型 TAIDE，能做什麼？](https://www.cw.com.tw/article/5129076) — TAIDE 주제 보도. 번체중문 LLM의 문화 주체성 논의 출처.
+[^14]: [天下雜誌：「防止中國 AI 文化侵略」台灣第一個繁體中文大語言模型 TAIDE，能做什麼？](https://www.cw.com.tw/article/5129076) — TAIDE 주제 보도, 번체 LLM 문화 주체성에 대한 논술 출처.
 
-[^15]: [國科會新聞稿：TAIDE 一年有成 公私協力共同推進具臺灣特色之大型語言模型](https://www.nstc.gov.tw/folksonomy/detail/dd2d9d72-8f7b-44dd-976c-438d5ce683af?l=ch) — 2024년 4월 TAIDE-LX-7B 상용판과 13B 학술연구판 공개.
+[^15]: [國科會新聞稿: TAIDE 一年有成 公私協力共同推進具臺灣特色之大型語言模型](https://www.nstc.gov.tw/folksonomy/detail/dd2d9d72-8f7b-44dd-976c-438d5ce683af?l=ch) — 2024년 4월 TAIDE-LX-7B 상용판, 13B 학술판 출시.
 
-[^16]: [CloudInsight: Taiwan LLM Development Status 2026](https://cloudinsight.cc/en/blog/taiwan-llm) — TAIDE 2.0, Breeze-8B 등 대만 LLM 생태계 종합 정리.
+[^16]: [CloudInsight: Taiwan LLM Development Status 2026](https://cloudinsight.cc/en/blog/taiwan-llm) — TAIDE 2.0, Breeze-8B 등 대만 LLM 생태계 전체 조사.
 
-[^17]: 위 CloudInsight 보고서와 같음. 국립중흥대학교 “신농 TAIDE”, 국립타이난대학교 대만어-영어 대화형 챗봇, 국립양밍자오퉁대학교 대만어·하카어 TAIDE 모델 등 응용 사례를 상세히 다룸.
+[^17]: 동일 CloudInsight 보고서. 중흥대학교 '신농 TAIDE', 타이난대학교 대만 영어 대화 로봇, 양명교대 대만어 TAIDE 모델 등의 응용 사례 상세 설명.
 
-[^18]: [CIO Taiwan：台灣資安業者巡禮——奧義智慧科技](https://www.cio.com.tw/taiwanese-ahn-an-smart-technology/) — CyCraft가 Gartner에 일곱 차례 수록되고 MITRE ATT&CK 평가를 세 차례 통과했다는 상세 설명.
+[^18]: [CIO Taiwan: 台灣資安業者巡禮——奧義智慧科技](https://www.cio.com.tw/taiwanese-ahn-an-smart-technology/) — 오의지혜가 Gartner에 7회 등재되고 MITRE ATT&CK 평가를 3회 통과한 내용 상세 소개.
 
-[^19]: [奧義智慧官網：創新板首發 AI 資安王者！奧義賽博今日掛牌](https://www.cycraft.com/news/taiwans-first-ai-cybersecurity-stock-20260205) — 2026년 2월 5일 혁신판 상장 보도자료.
+[^19]: [奧義智慧官網: 創新板首發 AI 資安王者！奧義賽博今日掛牌](https://www.cycraft.com/news/taiwans-first-ai-cybersecurity-stock-20260205) — 2026년 2월 5일 혁신판 상장 보도 자료.
 
-[^20]: [國科會：AI 科研戰略](https://www.nstc.gov.tw/folksonomy/detail/dbf8da09-22be-4ef1-8294-8832fc6e8a26?l=ch) — 1기 대만 AI 행동계획의 400억 예산, TWCC 구축 등 정책 구조.
+[^20]: [國科會: AI 科研戰略](https://www.nstc.gov.tw/folksonomy/detail/dbf8da09-22be-4ef1-8294-8832fc6e8a26?l=ch) — 1기 대만 AI 행동 계획 400억 예산, TWCC 구축 등 정책 구조.
 
-[^N1]: [The Nobel Prize in Physics 2024 press release](https://www.nobelprize.org/prizes/physics/2024/press-release/) — 2024년 10월 8일 스웨덴 왕립과학원의 공식 발표. 원문: “The Royal Swedish Academy of Sciences has decided to award the Nobel Prize in Physics 2024 to John J. Hopfield and Geoffrey Hinton 'for foundational discoveries and inventions that enable machine learning with artificial neural networks.'” 상금 1,100만 스웨덴 크로나는 두 사람이 나누어 받았다.
+[^21]: [半導體射月、科技大擂台 陳良基：160億拚台灣AI — 遠見雜誌，2017](https://www.gvm.com.tw/article/39819) — 과학부 장관 천량기가 2017년을 AI 원년으로 선언하고, 8월 중순에 AI 소국 대전략을 제시함.
 
-[^N2]: [The Nobel Prize in Chemistry 2024 press release](https://www.nobelprize.org/prizes/chemistry/2024/press-release/) — 2024년 10월 9일 발표. 상금 1,100만 스웨덴 크로나 중 David Baker가 “for computational protein design”으로 절반을, Demis Hassabis와 John Jumper가 “for protein structure prediction”으로 나머지 절반을 공동 수상했다.
+[^N1]: [The Nobel Prize in Physics 2024 press release](https://www.nobelprize.org/prizes/physics/2024/press-release/) — 2024년 10월 8일 스웨덴 왕립 과학 아카데미 공식 발표. 원문: 'The Royal Swedish Academy of Sciences has decided to award the Nobel Prize in Physics 2024 to John J. Hopfield and Geoffrey Hinton 'for foundational discoveries and inventions that enable machine learning with artificial neural networks.''. 상금은 스웨덴 크로나 1,100만이며 두 사람이 균등하게 나눔.
+
+[^N2]: [The Nobel Prize in Chemistry 2024 press release](https://www.nobelprize.org/prizes/chemistry/2024/press-release/) — 2024년 10월 9일 발표. 상금은 스웨덴 크로나 1,100만이며, David Baker가 '계산 단백질 설계'로 절반을 받고, Demis Hassabis와 John Jumper가 '단백질 구조 예측'으로 나머지 절반을 공유함.
 
 [^N3]: [PNAS, 79(8), 2554-2558](https://www.pnas.org/doi/10.1073/pnas.79.8.2554) — Hopfield, J. J. (1982). "Neural networks and physical systems with emergent collective computational abilities."
 
@@ -329,32 +329,32 @@ CyCraft의 고객에는 대만 정부기관, 국방기관, 은행, 반도체 기
 
 [^N5]: [NeurIPS 2012 / NIPS Proceedings](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html) — Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). "ImageNet Classification with Deep Convolutional Neural Networks."
 
-[^N6]: [PanSci 泛科學：2024 諾貝爾物理獎—— Hopfield 與 Hinton 開啟了人工神經網路機器學習時代](https://pansci.asia/archives/378242) — Content Curation Partner per MOU 2026-05-05. Hopfield Network의 제안 배경, spin glass 비유, 논문 인용 횟수 누적, 현대 딥러닝과의 수학적 연결을 다룬다.
+[^N6]: [PanSci 泛科學: 2024 Nobel Physics Award — Hopfield and Hinton usher in the era of artificial neural network machine learning](https://pansci.asia/archives/378242) — MOU 2026-05-05 콘텐츠 큐레이션 파트너. Hopfield 네트워크의 배경, 스핀 글라스 비유, 논문 인용 횟수 누적 및 현대 딥러닝과의 수학적 연결을 다룸.
 
-[^N7]: [The Guardian: Nobel physics prize 2024 winner John Hopfield warns of AI dangers](https://www.theguardian.com/science/2024/oct/08/nobel-prize-physics-2024-john-hopfield-geoffrey-hinton-ai-machine-learning) — 2024-10-08 노벨 물리학상 전화 인터뷰 보도. Hopfield와 Hinton이 같은 날 AI 위험을 경고했다.
+[^N7]: [The Guardian: Nobel physics prize 2024 winner John Hopfield warns of AI dangers](https://www.theguardian.com/science/2024/oct/08/nobel-prize-physics-2024-john-hopfield-geoffrey-hinton-ai-machine-learning) — 2024-10-08 노벨 물리학상 전화 인터뷰 보도. Hopfield와 Hinton이 같은 날 AI 위험에 대해 경고함.
 
-[^N8]: [Wikipedia: Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton) — Hinton은 1947년 12월 6일 런던 윔블던에서 태어났고, 2013년 3월 Google이 4,400만 달러에 DNNresearch를 인수한 뒤 Google에 합류했다.
+[^N8]: [Wikipedia: Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton) — Hinton은 1947년 12월 6일 런던 윔보튼에서 태어났으며, 2013년 3월 Google이 DNNresearch를 4400만 달러에 인수하면서 Google에 합류함.
 
-[^N9]: [BBC News: AI 'godfather' Geoffrey Hinton warns of dangers as he quits Google](https://www.bbc.com/news/world-us-canada-65452940) — 2023-05-01 Hinton이 Google을 떠난 뒤 BBC에 AI 위험 우려를 밝힌 보도. 원문 “I left so that I could talk about the dangers of AI without considering how this impacts Google”, “a part of me now regrets my life's work”. 같은 시기 NYT 인터뷰의 세부 내용도 이 보도에서 인용된다.
+[^N9]: [BBC News: AI 'godfather' Geoffrey Hinton warns of dangers as he quits Google](https://www.bbc.com/news/world-us-canada-65452940) — 2023-05-01 Hinton이 Google을 떠난 후 BBC에 AI 위험에 대한 우려를 표명. 원문에는 'Google에 미치는 영향을 고려하지 않고 AI의 위험에 대해 이야기하기 위해 떠났다'는 내용과 '내 인생의 업적을 후회하는 부분이 있다'고 언급됨. 같은 시기 NYT 인터뷰 세부 사항도 이 보도에서 인용함.
 
-[^N10]: [Nature: AI scientist Geoffrey Hinton wins Nobel prize for physics](https://www.nature.com/articles/d41586-024-03213-8) — 2024년 노벨 물리학상 발표 현장과 Hinton 전화 인터뷰에 관한 Nature의 상세 보도.
+[^N10]: [Nature: AI scientist Geoffrey Hinton wins Nobel prize for physics](https://www.nature.com/articles/d41586-024-03213-8) — Nature가 2024년 노벨 물리학상 수상 현장과 Hinton의 전화 인터뷰를 상세히 다룸.
 
-[^N11]: [Wikipedia: Economic history of Taiwan](https://en.wikipedia.org/wiki/Economic_history_of_Taiwan) — 1986년 대만 GDP 데이터. 신주과학단지는 1980년 12월 설립되었다.
+[^N11]: [Wikipedia: Economic history of Taiwan](https://en.wikipedia.org/wiki/Economic_history_of_Taiwan) — 1986년 대만 GDP 데이터; 신주과학단지는 1980년 12월에 설립됨.
 
 [^N12]: [Science, 181(4096), 223-230](https://www.science.org/doi/10.1126/science.181.4096.223) — Anfinsen, C. B. (1973). "Principles that govern the folding of protein chains."
 
-[^N13]: [Nature: 'It will change everything': DeepMind's AI makes gigantic leap in solving protein structures](https://www.nature.com/articles/d41586-020-03348-4) — 2020년 11월 30일 CASP14 결과 발표 보도. AlphaFold 2 중위 GDT 92.4, CASP 주최자 John Moult의 “in some sense the problem is solved” 발언.
+[^N13]: [Nature: 'It will change everything': DeepMind's AI makes gigantic leap in solving protein structures](https://www.nature.com/articles/d41586-020-03348-4) — 2020년 11월 30일 CASP14 결과 보도. AlphaFold 2의 중앙값 GDT는 92.4였으며, CASP 주최자인 John Moult는 '어떤 의미에서는 문제가 해결되었다'고 평함.
 
-[^N14]: [DeepMind: AlphaFold reveals the structure of the protein universe](https://www.deepmind.com/blog/alphafold-reveals-the-structure-of-the-protein-universe) — 2022년 7월 28일 AlphaFold Protein Structure Database가 100만 종, 약 2억 개 단백질 구조를 포괄한다고 발표.
+[^N14]: [DeepMind: AlphaFold reveals the structure of the protein universe](https://www.deepmind.com/blog/alphafold-reveals-the-structure-of-the-protein-universe) — 2022년 7월 28일 발표. AlphaFold 단백질 구조 데이터베이스가 100만 종, 약 2억 개의 단백질 구조를 포괄함을 알림.
 
-[^N15]: [Abramson, J., Adler, J., Dunger, J. et al. (2024). Accurate structure prediction of biomolecular interactions with AlphaFold 3. Nature 630, 493-500](https://www.nature.com/articles/s41586-024-07487-w) — 2024년 5월 8일 AlphaFold 3 발표. 단백질과 DNA / RNA / ligand / 이온 복합체 예측으로 확장했다.
+[^N15]: [Abramson, J., Adler, J., Dunger, J. et al. (2024). Accurate structure prediction of biomolecular interactions with AlphaFold 3. Nature 630, 493-500](https://www.nature.com/articles/s41586-024-07487-w) — 2024년 5월 8일 AlphaFold 3 발표. 단백질과 DNA/RNA/리간드/이온 복합체 예측으로 확장됨.
 
-[^N16]: [Wikipedia: Demis Hassabis](https://en.wikipedia.org/wiki/Demis_Hassabis) — Hassabis는 네 살 때 체스를 시작했고, 17세였던 1994년 Peter Molyneux와 《Theme Park》를 공동 개발했으며, 2010년 런던에서 DeepMind를 창업했고, 2014년 Google이 약 4억 파운드에 인수했다.
+[^N16]: [Wikipedia: Demis Hassabis](https://en.wikipedia.org/wiki/Demis_Hassabis) — Hassabis는 4세부터 체스를 두었으며, 17세(1994년)에 Peter Molyneux와 함께 'Theme Park'를 개발했고, 2010년 런던에서 DeepMind를 설립했으며, 2014년 Google이 약 4억 파운드에 인수함.
 
-[^N17]: [中央研究院基因體研究中心](https://www.genomics.sinica.edu.tw/) — 원치후이 원장 재임기(2006-2016)에 구축된 당분자 단백질 구조 연구센터.
+[^N17]: [중앙연구원 유전체 연구 센터](https://www.genomics.sinica.edu.tw/) — 옹계혜 원장이 재직할 때(2006-2016) 설립한 당분자 단백질 구조 연구 센터.
 
-[^N18]: [PanSci 泛科學：2024 諾貝爾化學獎—— David Baker、Demis Hassabis、John Jumper 解開蛋白質摺疊難題](https://pansci.asia/archives/378388) — Content Curation Partner per MOU 2026-05-05. AlphaFold의 노벨 화학상 수상 논쟁, 구조생물학과 계산화학의 학문 경계 논의를 다룬다.
+[^N18]: [PanSci 泛科學: 2024 Nobel Chemistry Award — David Baker, Demis Hassabis, John Jumper solve the protein folding problem](https://pansci.asia/archives/378388) — MOU 2026-05-05 콘텐츠 큐레이션 파트너. AlphaFold 노벨 화학 논쟁, 구조 생물학과 계산 화학의 학문적 경계에 대한 토론을 다룸.
 
-[^N19]: [PanSci 泛科學：AlphaFold 3 預測蛋白質與其他分子互動，藥物開發再升級](https://pansci.asia/archives/377917) — Content Curation Partner per MOU 2026-05-05. AlphaFold 3가 신약 개발과 효소공학에 미치는 하류 영향 분석.
+[^N19]: [PanSci 泛科學: AlphaFold 3 predicts protein and other molecule interactions, upgrading drug development](https://pansci.asia/archives/377917) — MOU 2026-05-05 콘텐츠 큐레이션 파트너. AlphaFold 3의 약물 개발 및 효소 공학 하위 영향 분석.
 
-[^N20]: [PanSci 泛科學：「人造腦」OI 挑戰 AI——培養皿裡的腦組織能取代矽晶片嗎？](https://pansci.asia/archives/366027) — Content Curation Partner per MOU 2026-05-05. Thomas Hartung 팀의 Johns Hopkins 인공 뇌 연구를 다루며, AI 경로 밖의 대안적 연산 방향으로 제시한다.
+[^N20]: [PanSci 泛科學: 'Artificial Brain' OI challenges AI — Can brain tissue in a petri dish replace silicon chips?](https://pansci.asia/archives/366027) — MOU 2026-05-05 콘텐츠 큐레이션 파트너. Johns Hopkins의 Thomas Hartung 팀이 진행하는 배양 접시 속 뇌 연구를 AI 경로 외의 대체 컴퓨팅 방향으로 다룸.
