@@ -1,6 +1,6 @@
 ---
-title: 'Der Aufstieg der KI-Insel: Taiwans Entwicklung der künstlichen Intelligenz und Zukunftsstrategie'
-description: 'Vom Schock durch AlphaGo bis zur Welle der generativen KI – wie Taiwan mit der „kleinen Nation, großen Strategie“ eine eigenständige Position im Bereich der künstlichen Intelligenz gefunden hat'
+title: 'Der Aufstieg einer KI-Insel: Taiwans künstliche Intelligenz-Entwicklung und Zukunftsstrategie'
+description: 'Von AlphaGos Schock bis zur generativen KI-Welle: Wie Taiwan mit der Strategie der „kleinen Nation, große Strategie" in der KI einzigartige Positionen findet'
 date: 2026-03-19
 category: 'Technology'
 tags:
@@ -19,330 +19,315 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 readingTime: 15
 translatedFrom: 'Technology/AI發展.md'
-sourceCommitSha: '96945e45'
-sourceContentHash: 'sha256:c3a35976261aaad4'
-translatedAt: '2026-09-15T23:04:08Z'
+sourceCommitSha: '3e8cce502'
+sourceContentHash: 'sha256:96cb23499982b31c'
+sourceBodyHash: 'sha256:b8e8c634da9c1fac'
+translatedAt: '2026-10-04T00:52:00+08:00'
 ---
 
-# Der Aufstieg der KI-Insel: Taiwans Entwicklung der künstlichen Intelligenz und Zukunftsstrategie
+# Der Aufstieg einer KI-Insel: Taiwans künstliche Intelligenz-Entwicklung und Zukunftsstrategie
 
 ## 30-Sekunden-Überblick
 
-Taiwan verfolgt im Bereich der künstlichen Intelligenz die Strategie „kleiner Staat, große Strategie“ und nutzt dabei seine Stärken in der Halbleiterfertigung sowie eine vollständige ICT-Industriekette. Seit dem Schock durch AlphaGo im Jahr 2016 hat das Land rasch ein nationales KI-Förderprogramm aufgebaut: Es gründete die Taiwan AI Academy, richtete Forschungszentren für KI-Innovation ein und trieb den „AI-Aktionsplan 2.0“ voran – mit dem Ziel, sich als Zentrum für KI-Anwendungen und Talentförderung im asiatisch-pazifischen Raum zu etablieren. Angesichts des globalen KI-Wettbewerbs baut Taiwan auf Basis seiner „schützenden Berggott“-Halbleitertechnologie (護國神山) seine Stärken bei KI-Chips und Edge Computing aus.
+Taiwan verfolgt in der KI einen „KI-Strategie der kleinen Nation" und nutzt seine Halbleiterfertigungsvorteile sowie die vollständige ICT-Branche. Nach dem Schock durch AlphaGo 2016 startete Taiwan rasch ein staatliches KI-Förderungsprogramm. Es gründete die Taiwan AI School und setzte AI-Innovationszentren ein, um den „AI Action Plan 2.0" zu realisieren, mit dem Ziel, zum KI-Zentrum für Anwendung und Talent in der Region zu werden. Angesichts des globalen KI-Wettbewerbs nutzt Taiwan seine Halbleitertechnologie als „Schutzberg" und entwickelt KI-Chips sowie Edge-Computing-Vorteile.
 
-**Schlüsselbegriffe**: KI-Strategie des kleinen Staates, Halbleiter-Vorteil, Talentförderung, industrielle KI-Transformation, Edge Computing
+**Schlüsselbegriffe**: KI-Strategie der kleinen Nation, Halbleitervorteil, Talentförderung, industrielle KI, Edge-Computing
 
-## AlphaGos Erweckung: Der entscheidende Moment für Taiwans KI-Erwachen
+## AlphaGos Lehre: Der entscheidende Moment der taiwanesischen KI-Erweckung
 
-### Der historische Wendepunkt von 2016
+### Der historische Wendepunkt 2016
 
-Im März 2016 besiegte Google DeepMinds AlphaGo den Spitzenprofi Lee Sedol (der 2016 nicht amtierender Weltmeister war) – dieser „Kampf Mensch gegen Maschine“ erschütterte nicht nur die Welt, sondern wurde auch zu einem entscheidenden Weckruf für Taiwans KI-Entwicklung. Als die Welt erstmals miterlebte, wie eine KI einen Top-Spieler in einem komplexen Strategiespiel restlos schlug, begann Taiwans Technologiebranche zu begreifen: Dies war nicht nur technologischer Fortschritt, sondern eine „vierte industrielle Revolution“, die das globale Wettbewerbsgefüge der Industrie verändern könnte.
+Im März 2016 besiegte Googles DeepMind-AlphaGo mit 4:1 den Profi-Lee Sedol. Dieser „Mensch-gegen-Maschine-Kampf" schockierte die Welt und wurde zum Schlüsselmoment für Taiwans KI-Entwicklung. Als die Menschheit erstmals sah, wie KI in einem komplexen Strategiespiel die besten Menschen schlug, begann Taiwans Tech-Szene zu verstehen: Es geht nicht nur um technische Fortschritte, sondern um die „vierte industrielle Revolution", die die globale Wettbewerbslandschaft verändern kann.
 
-Die vielschichtige Bedeutung von AlphaGo lag darin, dass es bewies, wie sehr das Potenzial von Deep Learning und Big Data die Erwartungen übertraf; es zeigte, dass KI bereits komplexe Entscheidungen verarbeiten konnte; es deutete an, dass Labortechnologie den Weg in industrielle Anwendungen finden würde; und es läutete für Taiwan die Alarmglocke: „Wer sich nicht wandelt, bleibt zurück.“
+AlphaGos Bedeutung liegt in mehreren Aspekten: Es bewies, dass Deep Learning und Big Data weit mehr können als erwartet, zeigte, dass KI komplexe Entscheidungen treffen kann, und verkündete, dass Labortechnologie nun in der Industrie angewendet wird — und gab Taiwan die Warnung: „Ohne Transformation wird man zurückfallen."
 
-### Taiwans Moment des KI-Erwachens
+### Taiwans KI-Erweckungsmoment
 
-Nach dem AlphaGo-Ereignis bildeten Taiwans Regierung und Industrie rasch einen Konsens: **Taiwan darf diese KI-Welle nicht verpassen**. 2017 verkündete der Exekutiv-Yuan offiziell die Erklärung „Taiwans KI-Strategie des kleinen Staates“ und machte KI zu einem nationalen Entwicklungsschwerpunkt. Diese Entscheidung beruhte auf einer klaren Erkenntnis: Taiwan mag ein kleiner Staat sein, verfügt aber über einzigartige technologische Vorteile und eine strategische Position.
+Nach dem AlphaGo-Ereignis einigten sich Taiwan Regierung und Industrie schnell auf ein klares Ziel: **Taiwan darf diese KI-Welle nicht verpassen**. Im August 2017 stellte der Minister für Wissenschaft und Technologie, Chen Liangji, die „Strategie der kleinen Nation, große Strategie" vor, mit einem geplanten Budget von etwa 1,6 Milliarden NT$ innerhalb von vier bis fünf Jahren. Im Januar 2018 folgte der „Taiwan AI Action Plan" der Regierung. [^2][^3] Diese Entscheidung basiert auf einem klaren Verständnis: Obwohl Taiwan eine kleine Nation ist, verfügt es über einzigartige technologische Vorteile und strategische Positionen.
 
-## Taiwans einzigartiger KI-Vorteil: Das Halbleiter-Ökosystem als strategisches Fundament
+## Taiwans einzigartige KI-Vorteile: Die strategische Grundlage des Halbleitersystems
 
-### Der natürliche Vorteil des Halbleiter-Ökosystems
+### Taiwans natürliche Vorteile im Halbleitersystem
 
-Taiwans größter Wettbewerbsvorteil in der KI-Entwicklung liegt in seiner weltweit führenden Halbleiterfertigung. **TSMC** ist nicht nur die weltgrößte Foundry, sondern auch ein entscheidender Partner bei der Herstellung von KI-Chips:
+Taiwans größter Wettbewerbsvorteil in der KI-Entwicklung kommt von seiner weltweit führenden Halbleiterfertigung. **TSMC** ist nicht nur der größte Wafer-Fertiger der Welt, sondern auch ein Schlüsselpartner für KI-Chips:
 
-TSMC fertigt im Auftrag hochmoderne Chips für KI-Giganten wie NVIDIA, Google und Apple – der Halbleitervorteil wird so unmittelbar zur Unersetzlichkeit in der KI-Lieferkette. Darauf aufbauend erweitern taiwanische Hersteller ihre Aktivitäten in drei Richtungen: stromsparende Edge-KI-Chips, AIoT-Anwendungen für das intelligente Internet der Dinge sowie 5G+KI-Echtzeitrecheninfrastruktur – und bilden so einen „Multiplikatoreffekt aus Halbleitern und KI“.
+TSMC fertigt für KI-Riesen wie NVIDIA, Google und Apple hochwertige Chips. Der Halbleitervorteil wird direkt in die Unersetzlichkeit der KI-Lieferkette umgewandelt. Auf dieser Basis erweitern taiwanesische Unternehmen in drei Richtungen: niedrige Leistungs-KI-Chips für Edge-Computing, KIoT-Anwendungen und 5G+KI-Infrastrukturen für Echtzeit-Computing — und schaffen so eine Multiplikationseffekte von „Halbleiter × KI".
 
-### Eine vollständige ICT-Industrie-Ökokette
+### Das vollständige ICT-Ökosystem
 
-Taiwan verfügt über eine komplette ICT-Industriekette (Informations- und Kommunikationstechnologie) vom Chipdesign bis zur Systemintegration, was ideale Voraussetzungen für die Industrialisierung von KI schafft:
+Taiwan verfügt über eine vollständige ICT-Branche von der Chip-Designphase bis zur Systemintegration, was ideale Voraussetzungen für die Industrialisierung der KI bietet:
 
-| Industriezweig          | Repräsentative Unternehmen | KI-Anwendung                            |
-| ----------------------- | -------------------------- | --------------------------------------- |
-| **Chipdesign**          | MediaTek, Realtek          | KI-Spezialchips, NPU                    |
-| **Wafer-Fertigung**     | TSMC, UMC                  | Fortschrittliche KI-Chip-Prozesse       |
-| **Packaging & Testing** | ASE, Powertech             | Verpackung und Test von KI-Chips        |
-| **Systemmontage**       | Foxconn, Quanta, Inventec  | KI-Server, Edge-Geräte                  |
-| **Softwareanwendungen** | Trend Micro, III           | KI-Sicherheit, intelligente Anwendungen |
+| Branche                | Vertreter               | KI-Anwendung                            |
+| ---------------------- | ----------------------- | --------------------------------------- |
+| **Chip-Design**        | MediaTek, Realtek       | KI-spezifische Chips, NPU               |
+| **Wafer-Fertigung**    | TSMC, UMC               | Fortschrittliche Prozess-KI-Chips       |
+| **Verpackung & Test**  | SPIL, Powertech         | KI-Chip-Verpackung & Test               |
+| **Systemmontage**      | Foxconn, Quanta, Compal | KI-Server, Edge-Geräte                  |
+| **Software-Anwendung** | Trend Micro, III        | KI-Sicherheit, intelligente Anwendungen |
 
-## Nationale Strategie: Der politische Rahmen der „KI-Strategie des kleinen Staates“
+## Staatliche Strategie: Die politische Architektur der „KI-Strategie der kleinen Nation"
 
-### Erste Phase: Aufbauzeit (2017-2020)
+### Phase Eins: Gründungszeit (2017–2020)
 
-**Taiwans KI-Aktionsplan (2018-2021)**[^1]
+**Taiwan AI Action Plan (2018–2021)** [^1]
 
-- **Gesamtbudget**: Jährlich etwa 9–10 Milliarden NT$ (über vier Jahre insgesamt mehr als 30 Milliarden NT$, laut offiziellen Angaben des Exekutiv-Yuan[^1])
-- **Fünf Strategien**: KI-Talente, Technologie, Anwendungsfelder, Industrie, Institutionen
+- **Budget**: jährlich 900–1 Milliarde NT$ geplant [^3]
+- **Fünf Strategien**: KI-Talent, Technologie, Plattform, Industrie, Institution
 
-**Wichtigste Aufbauerfolge:**
+**Hauptergebnisse:**
 
-1. **Taiwan AI Academy** (gegründet 2018)
-   - Schulleiter: Kong Hsiang-chung (Bill-Gates-Lehrstuhlprofessor der Harvard University, Fellow des Industrial Technology Research Institute[^3])
-   - In vier Jahren wurden über 7.000 KI-Fachkräfte ausgebildet[^3]
-   - Aufbau eines Modells zur KI-Talentförderung durch Zusammenarbeit von Industrie und Wissenschaft
+1. **Taiwan AI School** (gegründet 2018)
+   - Geleitet von Academia Sinica-Direktor Liao Junzhi, Academia Sinica-Mitglied und Harvard-Bill & Melinda Gates-Professor Kong Xiangzhong sowie Academia Sinica-Forscher Chen Shengwei [^4]
+   - Schaffung eines akademischen Kooperationsmodells für KI-Talentförderung
 
-2. **Forschungszentren für KI-Innovation**
-   - KI-Forschung am Institute of Information Science der Academia Sinica
-   - Nacheinander gegründete KI-Fakultäten an der National Taiwan University, der National Tsing Hua University und der National Chiao Tung University
-   - Forschungsprojekte in Zusammenarbeit von Industrie und Wissenschaft
+2. **AI-Innovationszentren**
+   - Seit 2018 von der Wissenschaftsministerium an National Taiwan University, Tsing Hua University, National Chiao Tung University und National Cheng Kung University eingerichtet [^5]
+   - Forschungskooperationen mit der Industrie
 
-3. **Programm für KI-Lehrkrankenhäuser**
-   - Beteiligung u. a. des National Taiwan University Hospital und des Chang Gung Memorial Hospital
-   - Entwicklung medizinischer KI-Anwendungen und Daten-Governance
+3. **KI-Krankenhausprojekt**
+   - Beteiligt: National Taiwan University Hospital, Chang Gung Hospital
+   - Entwicklung medizinischer KI-Anwendungen und Datenmanagement
 
-### Zweite Phase: Beschleunigungszeit (2021-2024)
+### Phase Zwei: AI Action Plan 2.0 (2023–2026)
 
-**KI-Aktionsplan 2.0**[^1]
+**AI Action Plan 2.0** [^1]
 
-- **Ausgeweitete Investitionen**: Jährliches Budget über 10 Milliarden NT$ (der geplante Umfang für 2023–2026 liegt bei rund 17,4 Milliarden NT$[^1])
-- **Schwerpunktbereiche**: Präzisionsgesundheit, intelligente Fertigung, Smart Cities, digitale Verwaltung
+- **GesamtZiel**: Effizienzsteigerung durch KI-Anwendung in der Industrie und Steigerung des KI-Hardware- und Software-Werts um mehr als 250 Milliarden NT$ [^1]
+- **Schwerpunkte**: präzise Gesundheit, intelligente Fertigung, intelligente Städte, digitale Regierung
 
-**Bahnbrechende Entwicklungen:**
+**Durchbrüche:**
 
-1. **Internationale KI-Zusammenarbeit**
+1. **Internationale KI-Kooperation**
    - Aufbau von KI-Partnerschaften mit den USA, Japan und der EU
-   - Beteiligung an der Entwicklung internationaler KI-Standards
+   - Teilnahme an internationalen KI-Standardisierungen
 
-2. **Beschleunigte KI-Transformation der Industrie**
-   - Einführung von KI in die traditionelle Fertigungsindustrie zur Transformation
-   - KI-Anwendungen in Dienstleistungsbranchen wie Finanzwesen, Einzelhandel und Logistik
+2. **Beschleunigte industrielle KI-Anwendung**
+   - Einführung von KI in traditionelle Fertigung
+   - KI-Anwendungen in Finanzen, Einzelhandel und Logistik
 
-3. **Verbesserung des rechtlichen Umfelds**
-   - Novellierung des Datenschutzgesetzes
-   - Veröffentlichung von KI-Ethikrichtlinien
-   - Aufbau von Regulatory-Sandbox-Mechanismen
+3. **Regulierungsumfeld**
+   - Überarbeitung des Datenschutzgesetzes
+   - Veröffentlichung von KI-Ethischen Richtlinien
+   - Etablierung von Sandbox-Mechanismen
 
-## Taiwans fünf strategische KI-Bereiche
+## Taiwans fünf strategische KI-Felder
 
-### 1. Präzisionsgesundheit: Globaler Vorreiter in der medizinischen KI
+### 1. Präzise Gesundheit: Taiwans Vorsprung in medizinischer KI
 
-Taiwan verbindet die Big Data der Krankenversicherung mit einem hochwertigen Gesundheitssystem und besitzt dadurch einen einzigartigen Vorteil im Bereich der medizinischen KI:
+Taiwan verfügt durch seine Gesundheitsversicherungsdatenbank und hochwertiges medizinisches System über einzigartige Vorteile in medizinischer KI:
 
-**Repräsentative Erfolge:**
+**Typische Ergebnisse:**
 
-- **DeepQ Smart Healthcare**: KI-Diagnose diabetischer Retinopathie mit einer Genauigkeit von 95 %
-- **UnitedImaging（雲象科技）**: KI-gestützte Analyse von Blutausstrichen, Export nach Südostasien
-- **KI-Zentrum des National Taiwan University Hospital**: KI-Diagnosesystem für COVID-19
+- **Nationales Taiwan University Hospital**: Zusammenarbeit mit Tech-Unternehmen und Pharmafirmen zur Entwicklung von KI-gestützten Diagnose-Softwaren für diabetische Retinopathie, Genauigkeit über 95% [^6]
+- **Cloudwick**: Digitale Pathologie und medizinische Bild-KI, digitales Pathologie-Bildverwaltungssystem erhielt FDA-Zulassung der USA [^7]
 
 **Wettbewerbsvorteile:**
 
-- Vollständige Krankenversicherungsdatenbank (23 Jahre Daten von 23 Millionen Menschen)
-- Hochwertiges Gesundheitssystem
-- Vergleichsweise offenes regulatorisches Umfeld
+- Umfassende Datenbank der Gesundheitsversicherung
+- Hochwertiges medizinisches System
+- Relativ offenes Regulierungsumfeld
 
-### 2. Intelligente Fertigung: Taiwans Praxis der Industrie 4.0
+### 2. Intelligente Fertigung: Taiwans praktische Umsetzung von Industry 4.0
 
-Taiwans Fertigungsindustrie verfügt über Stärken in Präzisionsbearbeitung und Qualitätskontrolle; der Einsatz von KI hat bereits zu messbaren Wettbewerbsvorteilen geführt:
+Taiwan verfügt in der Fertigungsindustrie über Vorteile in Präzisionsbearbeitung und Qualitätskontrolle. KI-Integration hat messbare Wettbewerbsvorteile geschaffen:
 
 **Anwendungsbeispiele:**
 
-- **TSMC**: KI-optimierte Waferprozesse, höhere Ausbeute
-- **Foxconn**: KI-gestützte Qualitätskontrolle in Smart Factories
-- **Delta Electronics**: KI-Lösungen für industrielle Steuerung
+- **TSMC**: KI-optimierte Wafer-Fertigung, Steigerung der Ausbeute
+- **Foxconn**: Intelligente Fabrik-KI-Qualitätskontrolle
+- **Delta Electronics**: KI-Steuerungslösungen
 
 **Technische Merkmale:**
 
-- Verbindung von Edge Computing mit Prozesssteuerung
-- Qualitätsprüfung durch maschinelles Sehen
-- Systeme zur vorausschauenden Wartung
+- Edge-Computing kombiniert mit Prozesssteuerung
+- Maschinelles Sehen für Qualitätskontrolle
+- Prädiktive Wartungssysteme
 
-### 3. Smart Cities: Innovative Experimente in der digitalen Verwaltung
+### 3. Intelligente Stadt: Innovative Experimente in digitaler Regierung
 
-Taiwans Städte zeichnen sich durch hohe Dichte und eine gut ausgebaute digitale Infrastruktur aus und sind damit ideale Testfelder für KI-Anwendungen in Smart Cities:
+Taiwan ist dicht besiedelt und verfügt über eine ausgezeichnete digitale Infrastruktur, was intelligente Städte zur idealen Testumgebung für KI-Anwendungen macht:
 
-**Vorzeigebeispiele:**
+Zum Beispiel startete 2015 das Tainan City Government gemeinsam mit Far EasTone eine „Tainan 4G Smart City"-Initiative mit dem Ziel, innerhalb von drei Jahren 20 Anwendungen zu realisieren. [^8]
 
-- **Taoyuan**: KI-optimierte Verkehrsampeln, 30 % kürzere Wartezeiten
-- **Taipeh**: KI-gestützte Routenplanung für Müllfahrzeuge
-- **Tainan**: KI-Frühwarnsystem zur Dengue-Fieber-Prävention
+### 4. FinTech: Innovative Durchbrüche durch Aufsichtssandkästen
 
-### 4. Fintech: Innovationsdurchbrüche in der Regulatory Sandbox
-
-Taiwans Finanzaufsichtsbehörde (FSC) hat ein „Regulatory-Sandbox“-System eingerichtet, das FinTech- und KI-Finanzinnovationen einen Testraum bietet:
+Das Finanzmarktaufsichtsamt Taiwans etablierte das „Aufsichtssandkästen"-System, das FinTech und KI-Finanzinnovationen eine Testumgebung bietet:
 
 **Innovative Anwendungen:**
 
-- **KI-Risikokontrolle**: Bonitätsbewertung, Geldwäscheerkennung
-- **Robo-Advisor**: personalisierte Anlageempfehlungen
-- **Insurtech**: automatisierte Schadensregulierung, Versicherungsempfehlungen
+- **KI-Risikokontrolle**: Kreditbewertung, Geldwäscheprävention
+- **Intelligente Asset Management**: Personalisierte Anlageberatung
+- **InsurTech**: Automatisierte Schadensregulierung, Versicherungsprodukt-Empfehlung
 
-### 5. Agrartechnologie: Taiwans Modell der Präzisionslandwirtschaft
+### 5. Agrartechnologie: Taiwans Modell für präzise Landwirtschaft
 
-Durch die Kombination von IoT-Sensoren und KI-Analyse hat Taiwan intelligente Lösungen entwickelt, die auf kleinräumige, hochwertige Landwirtschaft zugeschnitten sind:
+Durch Kombination von IoT-Sensoren und KI-Analyse entwickelte Taiwan intelligente Lösungen für kleine, hochwertige Landwirtschaftsbetriebe:
 
 **Technische Highlights:**
 
-- **KI-Schädlingsdiagnose**: Bilderkennung bei landwirtschaftlichen Kulturen
-- **Smarte Gewächshäuser**: automatische Regelung von Umweltparametern
-- **Absatzprognosen für Agrarprodukte**: Nachfrageprognose und Preisanalyse
+- **KI-Schädlingsdiagnose**: Pflanzenbild-Erkennung
+- **Intelligente Gewächshäuser**: Automatische Umweltparametersteuerung
+- **Landwirtschaftliche Verkaufsprognosen**: Nachfragevorhersage und Preisanalyse
 
-## Talentförderung: Das Grundlagenprojekt von Taiwans KI-Entwicklung
+## Talentförderung: Das Fundament der taiwanesischen KI-Entwicklung
 
-### Taiwan AI Academy: Industrieorientierte Talentförderung
+### Taiwan AI School: Branchenorientierte Talentförderung
 
-Das von der Taiwan AI Academy angeführte Talentförderungsprogramm hat ein einzigartiges Ausbildungsmodell „Ingenieur + KI“ geschaffen:
+Das Talentförderungsprogramm der Taiwan AI School schuf ein einzigartiges Training-Modell von „Ingenieur + KI":
 
-**Merkmale der Ausbildung:**
+**Trainingsmerkmale:**
 
-- **Industrieorientiert**: Der Lehrplan ist direkt auf den Bedarf der Unternehmen abgestimmt
-- **Praxisorientiert**: 70 % praktische Arbeit, 30 % Theorie
-- **Vielfältige Wege**: Klassen für Technologieführer, Manager und Ingenieure
+- **Branchenorientiert**: Unterricht direkt auf Unternehmensbedarf zugeschnitten
+- **Praxisnah**: Abschlussarbeiten verknüpft mit echten Unternehmensprojekten
+- **Vielfältige Kanäle**: Technologie-Führung-Kurs, Manager-Kurs
 
-**Ergebnisse nach vier Jahren (2018-2022):**
+### KI-Innovationszentren an Universitäten
 
-- Über 7.000 ausgebildete Teilnehmer
-- Über 300 kooperierende Unternehmen
-- 85 % Erfolgsquote beim beruflichen Wechsel der Absolventen
+Seit 2018 etablierte das Wissenschaftsministerium KI-Innovationszentren an vier Universitäten, jeweils mit spezifischen Aufgabenbereichen: [^5]
 
-### Reform der KI-Hochschulausbildung
+| Universität                        | Forschungszentrum     | Verantwortungsbereich                       |
+| ---------------------------------- | --------------------- | ------------------------------------------- |
+| **National Taiwan University**     | KI-Innovationszentrum | KI-Kern-Technologie, Biotechnologie-Medizin |
+| **Tsing Hua University**           | KI-Innovationszentrum | Intelligente Fertigung                      |
+| **National Chiao Tung University** | KI-Innovationszentrum | Intelligente Dienstleistungen               |
+| **National Cheng Kung University** | KI-Innovationszentrum | Biotechnologie-Medizin                      |
 
-Taiwans Universitäten haben rasch KI-bezogene Studiengänge und Graduiertenschulen aufgebaut:
+### Internationale Talentakquise
 
-| Universität                                  | KI-Fakultät/Institut | Schwerpunktbereich                |
-| -------------------------------------------- | -------------------- | --------------------------------- |
-| **National Taiwan University**               | AI Research Center   | Medizinische KI, autonomes Fahren |
-| **National Tsing Hua University**            | AI College           | KI-Chipdesign                     |
-| **National Yang Ming Chiao Tung University** | AI College           | 5G+KI, intelligenter Verkehr      |
-| **National Cheng Kung University**           | AI System Center     | Fertigungs-KI                     |
+Taiwan nutzt verschiedene Mechanismen zur Akquise internationaler KI-Talente:
 
-### Anwerbung internationaler Talente
+- **Yushan-Programm**: Anziehung führender KI-Forscher nach Taiwan
+- **Gesetz zur Beschäftigung ausländischer Fachkräfte**: Lockerung von Arbeitsgenehmigungen für KI-Talent
+- **Start-up-Visum**: Ermutigung internationaler KI-Teams zum Gründungsstart in Taiwan
 
-Taiwan wirbt über mehrere Mechanismen internationale KI-Talente an:
+## Branchenanwendung: Die praktische Umsetzung von KI in Taiwan
 
-- **Yushan-Fellow-Programm**: gewinnt Spitzenforscher der KI für Taiwan
-- **Gesetz zur Anwerbung und Beschäftigung ausländischer Fachkräfte**: erleichtert Arbeitsgenehmigungen für KI-Talente
-- **Start-up-Visum**: fördert die Unternehmensgründung internationaler KI-Teams in Taiwan
+### KI-Start-up-Ökosystem
 
-## Industrieanwendungen: Wie KI in Taiwan Wirklichkeit wird
+Die Anzahl der KI-Start-ups in Taiwan ist seit 2016 stark angestiegen:
 
-### Das KI-Start-up-Ökosystem
+**Typische KI-Start-ups:**
 
-Die Zahl der KI-Start-ups in Taiwan ist seit 2016 deutlich gewachsen (die Größenangaben für 2024 unterscheiden sich je nach Erhebungsmethode; siehe Berichte verschiedener Forschungsinstitute[^6]):
+1. **Appier (Pai Xing Interactive)**
+   - Oft als „Taiwans erstes Einhorn" bezeichnet [^9]
+   - Börsengang am 3. März 2021 an der Tokioer Wertpapierbörse Mothers-Sektor [^10]
+   - Geschäftsfeld: KI und Datenanalyse
 
-**Repräsentative KI-Start-ups:**
+2. **Cloudwick**
+   - Digitale Pathologie und medizinische Bild-KI
+   - Digitales Pathologie-Bildverwaltungssystem erhielt FDA-Zulassung der USA und EU-IVDR-Zertifizierung [^7]
 
-1. **Appier（沛星互動科技）**
-   - Taiwans erstes digitales Einhorn-Unternehmen[^8]
-   - 2021 Börsengang an der Tokioter Börse
-   - KI-gestützte Werbeschaltung und Kundenanalyse
+### KI-Transformation großer Unternehmen
 
-2. **KKCompany**
-   - Marktführer bei KI-Anwendungen im Livestreaming
-   - Technologie für virtuelle Moderatoren
-   - Schnelle Expansion auf asiatischen Märkten
+Taiwan große traditionelle Unternehmen haben KI-Technologie großflächig implementiert:
 
-3. **UnitedImaging（雲象科技）**
-   - Medizinische KI-Diagnostik
-   - Automatisierung von Bluttests
-   - FDA-Zulassung erhalten und Eintritt in den US-Markt
+**Fertigungsmodelle:**
 
-4. **Viscovery（醫守科技）**
-   - KI-Analyse medizinischer Bildgebung
-   - Früherkennung von Krebs
-   - Enge Zusammenarbeit mit dem National Taiwan University Hospital
+- **TSMC**: KI-optimierte Fertigung
+- **Delta Electronics**: KI-Energieeinsparungslösungen
+- **AU Optronics**: KI-Qualitätskontrolle
 
-### Die KI-Transformation großer Unternehmen
+**Dienstleistungsinnovation:**
 
-Taiwans traditionelle Großunternehmen haben KI-Technologie bereits in großem Maßstab eingeführt:
+- **Chunghwa Telecom**: KI-Kundenservice, Netzwerk-Optimierung
+- **Cathay United Holdings**: KI-Finanzberatung, Risikomanagement
+- **FamilyMart**: KI-Nachschub, Verbraucherverhaltensanalyse
 
-**Vorbilder aus der Fertigungsindustrie:**
+## Internationale Zusammenarbeit: Taiwans globale KI-Verbindungen
 
-- **TSMC**: KI-optimierte Prozesse, 30 % höhere Produktionskapazität
-- **Delta Electronics**: KI-Energiesparlösungen, 20 % geringerer Stromverbrauch
-- **AU Optronics**: KI-Qualitätsprüfung, 15 % höhere Ausbeute
-
-**Innovationen im Dienstleistungssektor:**
-
-- **Chunghwa Telecom**: KI-Kundenservice, Netzwerkoptimierung
-- **Cathay Financial Holdings**: KI-gestützte Vermögensverwaltung, Risikokontrolle
-- **7-Eleven Taiwan（統一超商）**: KI-gestützte Nachbestellung, Analyse des Konsumverhaltens
-
-## Internationale Zusammenarbeit: Taiwans globale KI-Vernetzung
-
-### Taiwanisch-amerikanische KI-Zusammenarbeit
+### Taiwans KI-Kooperation mit den USA
 
 **Wichtige Kooperationsbereiche:**
 
-- **KI-Halbleiterchips**: enge Zusammenarbeit mit US-amerikanischen Technologiegiganten
-- **Cybersicherheits-KI**: gemeinsame Abwehr von Cyberbedrohungen
-- **Medizinische KI**: FDA-Zulassung und technischer Austausch
+- **Halbleiter-KI-Chips**: Enge Zusammenarbeit mit US-Tech-Riesen
+- **Cybersicherheit KI**: Gemeinsamer Kampf gegen Netzbedrohungen
+- **Medizinische KI**: FDA-Zulassung und Technologieaustausch
 
-### Taiwanisch-japanische KI-Partnerschaft
+### Taiwans KI-Partnerschaft mit Japan
 
 **Kooperationsbereiche:**
 
-- **Intelligente Fertigung**: KI-Forschung und -Entwicklung von Toyota und Panasonic in Taiwan
-- **Technologie für die Langzeitpflege**: Reaktion auf die Herausforderungen einer alternden Gesellschaft
-- **Katastrophenschutz-KI**: Frühwarnsysteme für Erdbeben und Taifune
+- **Intelligente Fertigung**: KI-Forschung und -Entwicklung bei Toyota, Panasonic in Taiwan
+- **Pflege-Technologie**: Reaktion auf die Herausforderungen einer alternden Gesellschaft
+- **Katastrophenschutz-KI**: Erdbeben- und Taifun-Warnsysteme
 
-### KI-Ethik-Zusammenarbeit mit der EU
+### EU-KI-Ethik-Kooperation
 
-Taiwan hat bereits Vertreter zu Diskussionen über EU-KI-Ethikstandards entsandt und im eigenen Land KI-Ethikrichtlinien veröffentlicht, die Menschenrechte und Transparenz in die Regeln der KI-Entwicklung einbeziehen.
+Taiwan hat Delegierte an EU-Diskussionen über KI-Ethikstandards teilnehmen lassen und KI-Ethik-Richtlinien domestisch veröffentlicht, wobei Menschenrechte und Transparenz in KI-Entwicklungsstandards einbezogen wurden.
 
-## Herausforderungen und Chancen: Strategischer Ausblick 2024-2030
+## Herausforderungen und Chancen: Strategische Perspektive 2024–2030
 
-### Wichtigste Herausforderungen
+### Die wichtigsten Herausforderungen
 
-Taiwans KI-Entwicklung steht vor vier zentralen Herausforderungen: Ein Mangel an hochqualifizierten KI-Forschungstalenten, um die zudem ein Wettbewerb mit Singapur und China besteht; eine Spannung zwischen den Vorgaben des Datenschutzrechts und dem Bedarf an offenen Daten, die eine bereichsübergreifende Datenintegration erschwert; die Verkomplizierung von Taiwans Lieferkettenentscheidungen durch den Technologiekonflikt zwischen den USA und China; sowie ein ungleichmäßiges Tempo der KI-Transformation zwischen traditionellen Branchen und kleinen und mittleren Unternehmen, das eine digitale Kluft entstehen lässt.
+Taiwan KI-Entwicklung steht vor vier zentralen Herausforderungen: Mangel an hochqualifizierten KI-Forschern und Wettbewerb um Talent mit Singapur und Festlandchina; Spannungen zwischen Datenschutzgesetzgebung und Datenoffenheitsanforderungen, was die Integration domänenübergreifender Daten erschwert; Komplexität der Lieferketten durch den US-China-Technologiekonflikt; ungleichmäßige KI-Implementierung in traditionellen Industrien und KMU, was zu digitalen Kluften führt.
 
 ### Zukünftige Entwicklungschancen
 
-Die Welle der generativen KI eröffnet neue Räume für vertikale Anwendungen; Taiwan ist in Branchen wie Medizin, Fertigung und Landwirtschaft, die bereits über Daten und Anwendungsfelder verfügen, am besten aufgestellt, um hier einzusteigen. Im Bereich Edge Computing setzen die Verbreitung von 5G und die zunehmende Intelligenz von IoT-Geräten enorme Chipnachfrage frei – genau das entspricht den technologischen Stärken von TSMC und MediaTek. Der Trend zur Neuordnung internationaler Lieferketten (Friend-shoring) macht Taiwans Position als „vertrauenswürdiger Partner“ noch wertvoller; das Ziel der Netto-Null-Emissionen wiederum schafft neue Märkte für KI-optimierte Energieeffizienz.
+Die Welle der generativen KI eröffnet neue Anwendungsmöglichkeiten in spezifischen Branchen. Taiwan ist in Bereichen mit Daten und Testumgebungen wie Medizin, Fertigung und Landwirtschaft am besten positioniert. Im Edge-Computing-Bereich schafft die Verbreitung von 5G und die Intelligentisierung von IoT-Geräte enormen Chip-Bedarf, was perfekt zu den technischen Vorteilen von TSMC und MediaTek passt. Der globalen Trend zur Neuordnung der Lieferketten („Freundliche Lieferung") macht Taiwans Position als verlässlicher Partner wertvoller; das Ziel der Klimaneutralität schafft Märkte für KI-gestützte Energieeffizienz.
 
-## Vision 2030: Der Zukunftsentwurf für „KI-Taiwan“
+## Vision 2030: Taiwans KI-Blaupause
 
-### Strategische Ziele „KI-Taiwan“
+### Strategische Ziele von „KI-Taiwan"
 
-Die quantitativen Ziele lauten: Bis 2030 soll der Produktionswert der KI-Industrie 1 Billion NT$ erreichen, 100.000 KI-Fachkräfte sollen ausgebildet werden, 10 KI-Einhorn-Unternehmen sollen entstehen, und Taiwans KI-Talentwettbewerbsfähigkeit soll weltweit unter den Top 5 liegen. Qualitativ konzentriert sich die Ausrichtung darauf, ein Zentrum für KI-Anwendungen im asiatisch-pazifischen Raum zu werden, globale Qualitätsstandards für „KI + Fertigung“ zu etablieren und durch das Ziel einer „KI-resilienten Gesellschaft“ die Fähigkeit zu nachhaltiger Entwicklung zu stärken.
+Die offiziellen quantitativen Ziele bestehen aus zwei Ebenen: AI Action Plan 2.0 soll bis 2026 die Effizienzsteigerung durch KI-Anwendung in der Industrie und den Wert von KI-Hardware und -Software um mehr als 250 Milliarden NT$ erhöhen [^1]; 2025 veröffentlichte das Amt für Wissenschaft und Technologie den Plan „Neue zehn KI-Konstruktionen", mit dem Ziel, bis 2040 einen Wert von 15 Billionen NT$ zu schaffen [^11]. Die qualitativen Ziele konzentrieren sich auf die Entwicklung Taiwans zum KI-Zentrum für Anwendung in der Region, die Schaffung globaler Qualitätsstandards für KI + Fertigung sowie die Stärkung nachhaltiger Entwicklung durch KI-gestützte Resilienz.
 
 ### Wichtige strategische Maßnahmen
 
-1. **Aufbau einer souveränen KI-Cloud**
+1. **KI-Souveränität Cloud**
    - Aufbau nationaler KI-Rechenressourcen
    - Sicherstellung der Autonomie kritischer KI-Dienste
 
-2. **Verbesserung der KI-Rechtsordnung**
-   - Erarbeitung eines eigenen KI-Gesetzes
-   - Ressortübergreifende KI-Governance-Mechanismen
+2. **KI-Rechtsvorschriften**
+   - KI-Grundgesetz erhielt am 23. Dezember 2025 endgültige Zustimmung, Nationalrat für Wissenschaft und Technologie als Aufsichtsbehörde [^12]
+   - Übergreifende KI-Governance-Mechanismen
 
 3. **Internationale KI-Allianz**
    - Vertiefung demokratischer KI-Partnerschaften
-   - Förderung internationaler Zusammenarbeit bei KI-Standards
+   - Förderung internationaler KI-Standardisierung
 
-4. **KI-Kompetenz für alle**
-   - Verbreitung allgemeiner KI-Bildung
-   - Überbrückung der digitalen Kluft
+4. **Allgemeine KI-Kompetenz**
+   - Verbreitung von KI-Grundausbildung
+   - Ausgleich digitaler Klupten
 
-## Die globale Bedeutung von Taiwans KI-Modell
+## Die globale Bedeutung des taiwanesischen KI-Modells
 
-Taiwans KI-Weg liefert ein Referenzbeispiel für die „große Strategie des kleinen Staates“: Durch die Fokussierung auf Halbleiter-Vorteile, die Stärkung internationaler Zusammenarbeit und den Aufbau industrieorientierter Talentförderung können auch kleine und mittlere Volkswirtschaften eine unersetzliche Position im Bereich der KI etablieren.
+Taiwans KI-Weg bietet ein Referenzmodell für die Strategie der „kleinen Nation, große Strategie": Durch Fokussierung auf Halbleitervorteile, Stärkung internationaler Zusammenarbeit und Schaffung branchenorientierter Talentförderung kann auch eine mittelgroße Wirtschaft in der KI einzigartige Positionen einnehmen.
 
-Taiwans Entwicklungsweg zeigt zugleich eine weitere Dimension: Mit KI-Ethikrichtlinien, einem Rahmenwerk zum Datenschutz und einem Regulatory-Sandbox-System versucht Taiwan, Regeln für die KI-Entwicklung nach demokratischen und transparenten Prinzipien aufzustellen – im Gegensatz zu den KI-Entwicklungsmodellen mancher autoritärer Staaten. Diese Haltung hat in der globalen Debatte über KI-Governance eine gewisse Referenzbedeutung, doch der institutionelle Aufbau ist noch nicht abgeschlossen, und seine Wirksamkeit muss langfristig beobachtet werden.
+Taiwans Entwicklung zeigt auch eine weitere Dimension: In KI-Ethik-Richtlinien, Datenschutzrahmen und Aufsichtssandkästen versucht Taiwan, demokratische und transparente Prinzipien als Standards für KI-Entwicklung zu etablieren — im Gegensatz zu autoritären Modellen. Diese Haltung hat in globalen KI-Governance-Diskussionen Referenzwert, obwohl die Institutionalisierung noch nicht abgeschlossen ist und die Ergebnisse langfristig beobachtet werden müssen.
 
-## Fazit
+## Schlussfolgerung
 
-Vom Schock durch AlphaGo im Jahr 2016 bis zur Verbreitung generativer KI im Jahr 2024 hat Taiwan in weniger als einem Jahrzehnt ein KI-Ökosystem aufgebaut, das Chipfertigung, Talentförderung und Industrieanwendungen umfasst. TSMC liefert weltweit über 90 % der hochmodernen KI-Chips, die Taiwan AI Academy hat über 7.000 Ingenieure ausgebildet, und in vertikalen Bereichen wie medizinischer KI, intelligenter Fertigung und Fintech gibt es konkrete Umsetzungsbeispiele.
+Von AlphaGos Schock 2016 bis zur Verbreitung generativer KI 2024 hat Taiwan in weniger als einem Jahrzehnt ein KI-Ökosystem aufgebaut, das Chip-Fertigung, Talentförderung und Branchenanwendung umfasst. TSMC ist der Hauptfertiger von KI-Chips für NVIDIA und andere, die Taiwan AI School hat seit 2018 Tausende von Ingenieuren und Managern ausgebildet, und medizinische KI, intelligente Fertigung und FinTech haben konkrete Anwendungsbeispiele in verschiedenen Branchen.
 
-Dieser Weg ist nicht vollständig: Es mangelt weiterhin an hochqualifizierten KI-Forschungstalenten, die Spannung zwischen Datenschutz und offenen Daten ist noch nicht gelöst, und auch das Tempo der KI-Transformation kleiner und mittlerer Unternehmen ist uneinheitlich. Doch Taiwan hat auf Basis seiner Halbleiterindustrie bereits eine unersetzliche Stellung in der KI-Lieferkette etabliert und findet als „demokratischer Partner“ seinen Platz im Spannungsfeld des amerikanisch-chinesischen Technologiewettbewerbs.
+Dieser Weg ist noch nicht vollständig: Mangel an hochqualifizierten KI-Forschern bleibt bestehen, Spannungen zwischen Datenschutz und Datenoffenheit sind nicht gelöst, und die KI-Implementierung in KMU ist ungleichmäßig. Dennoch hat Taiwan auf halbleiterbasierter Technologie die Unersetzlichkeit seiner KI-Lieferkette gesichert und als „demokratischer Partner" in den Spannungen zwischen den USA und China eine Rolle gefunden.
 
-**Weiterführende Lektüre**:
+**Weiterführende Literatur**:
 
-- **Wu Che-yu**（吳哲宇） — Wie ein Künstler der neuen Medien im „Zeitalter der KI-Generierungsflut“ als Uhrmacher besteht: eine weitere Schöpferperspektive außerhalb der KI-Industrie
-- **Taiwan AI Academy**（台灣人工智慧學校） — Wie Chen Sheng-weis „Abstieg vom Himmel“ und 180 Millionen NT$ an Crowdfunding zeigen, wie die Talent-Pipeline außerhalb der staatlichen KI-Strategie diese Lücke füllt
+- [Wu Zhiyu](/de/people/che-yu-wu) — Wie ein Medienkünstler in der Ära der KI-Generierung den Takt gibt, eine andere Perspektive jenseits der KI-Branche
+- [Taiwan AI School](/de/technology/taiwan-ai-academy) — Von Chen Shengwei's "Abstieg" und crowdfunding von 180 Millionen NT$, wie die Regierungsstrategie der KI-Talentförderung ergänzt wird
 
 ## Referenzen
 
-[^1]: [Offizielle Seite des Exekutiv-Yuan zum „AI Taiwan Action Plan“](https://english.ey.gov.tw/News3/9E5540D592A5FECD/1dec0902-e02a-49c6-870d-e77208481667) — Offizielle Erläuterung zu Taiwans KI-Aktionsplan (2018-2021); siehe auch die [genehmigte Fassung des KI-Aktionsplans 2.0 (2023-2026)](https://digi.nstc.gov.tw/File/7C71629D702E2D89) (National Science and Technology Council, Februar 2023)
+[^1]: [Amt für Wissenschaft und Technologie „KI-Taiwan Action Plan" Offizielle Webseite](https://english.ey.gov.tw/News3/9E5540D592A5FECD/1dec0902-e02a-49c6-870d-e77208481667) — Offizielle Erläuterung des Taiwan AI Action Plans (2018–2021); siehe auch [Taiwan AI Action Plan 2.0 (2023–2026) Genehmigungsdokument](https://digi.nstc.gov.tw/File/7C71629D702E2D89) (Nationalrat für Wissenschaft und Technologie, Februar 2023), GesamtZiel: „Steigerung der Effizienz durch KI-Anwendung in der Industrie und Erhöhung des KI-Hardware- und Software-Werts um mehr als 250 Milliarden NT$"
 
-[^2]: [National Science and Technology Council (NSTC)](https://www.nstc.gov.tw/) — Berichte zur KI-Technologiepolitik und Ergebnisse der Umsetzung
+[^2]: [Halbleiter-Mondlandung, Technologie-Wettbewerb Chen Liangji: 1,6 Milliarden NT$ für Taiwans KI — Future Media, 2017](https://www.gvm.com.tw/article/39819) — Minister für Wissenschaft und Technologie Chen Liangji stellte im August 2017 die Strategie der „kleinen Nation, große Strategie" vor, mit geplanten 1,6 Milliarden NT$ innerhalb von vier bis fünf Jahren
 
-[^3]: [Taiwan AI Academy](https://aiacademy.tw/) — Jahresberichte; zum Profil von Schulleiter Kong Hsiang-chung siehe die [Seite des Schulleiters](https://aiacademy.tw/president/)
+[^3]: [Regierung startet KI-Aktionsplan, jährlich fast 1 Milliarde NT$ investiert — Science and Technology Daily, 18. Januar 2018](https://technews.tw/2018/01/18/taiwan-ai-operation-project-2018-2021/) — Der Taiwan AI Action Plan plant jährlich 900–1 Milliarde NT$
 
-[^4]: [Veröffentlichungen der Taiwan AI Academy (AI Academy)](https://aiacademy.tw/) — Dokumentation von Taiwans KI-Entwicklung
+[^4]: [Vision und Mission der Taiwan AI School](https://aiacademy.tw/vision/) — Gründungsteam und Start im Januar 2018
 
-[^5]: [National Science and Technology Council (NSTC) – KI-Programm](https://www.nstc.gov.tw/nstc/attachments/eb8c20d5-dba2-48f9-a5ca-b1e85a48d67e) — Ergebnisse des Forschungsprojekts zu industriellen KI-Fertigungssystemen
+[^5]: [Einrichtung von KI-Innovationszentren an vier Universitäten, Wissenschaftsministerium investiert 1,6 Milliarden NT$ in fünf Jahren — Science and Technology Daily, 22. Dezember 2017](https://technews.tw/2017/12/22/taiwan-ai-research-center/) — Aufteilung der vier KI-Innovationszentren: NTU KI-Kern-Technologie und Biotechnologie-Medizin, NCKU Biotechnologie-Medizin, Tsing Hua Intelligente Fertigung, Chiao Tung Intelligente Dienstleistungen
 
-[^6]: [ITRI-Bericht „Aktueller Stand und Trendanalyse der Entwicklung von Taiwans KI-Industrie“](https://ieknet.iek.org.tw/) — Analyse von Umfang und Trends von Taiwans KI-Industrie
+[^6]: [Diabetische Blindheit 25-mal höher! NTU entwickelt KI-gestützte Diagnose-Software — TVBS Health 2.0, 2020](https://health.tvbs.com.tw/medical/325359) — Nationales Taiwan University Hospital entwickelte KI-gestützte Diagnose-Software für diabetische Retinopathie, Genauigkeit über 95%
 
-[^7]: [IDC „Prognosebericht zum taiwanischen KI-Markt 2024-2030“](https://www.idc.com/) — Prognose zur Größe von Taiwans KI-Markt
+[^7]: [Markt für globale KI-Digitalpathologie im Wert von mehreren Milliarden! Cloudwick erhält Börsengang — Science and Technology Daily, 22. April 2026](https://technews.tw/2026/04/22/aetherslide/) — Cloudwick digitales Pathologie-Bildverwaltungssystem erhielt EU-IVDR- und FDA-Zertifizierung
 
-[^8]: [Exclusive: How Appier became Taiwan's first digital unicorn](https://english.cw.com.tw/article/article.action?id=2950) — Bericht der englischsprachigen Ausgabe des CommonWealth Magazine darüber, wie Appier zu Taiwans erstem digitalen Einhorn-Unternehmen wurde
+[^8]: [Tainan City Government und Far EasTone starten Smart-City-Initiative, 20 Anwendungen innerhalb von drei Jahren live — Digital Era, 12. August 2015](https://www.bnext.com.tw/article/37018/BN-2015-08-12-132525-117) — Tainan 4G Smart City Leitprojekt
+
+[^9]: [Taiwan hat ein Einhorn? Appier-Geschäftsführer direkt: Egal, ob es ein Horn hat oder nicht — Digital Era, November 2019](https://www.bnext.com.tw/article/55645/about-appier-d-round) — Appier erhielt den Titel „Taiwans erstes Einhorn"
+
+[^10]: [Pai Xing Interactive — Wikipedia](https://zh.wikipedia.org/wiki/Appier) — Börsengang am 30. März 2021 an der Tokioer Wertpapierbörse Mothers-Sektor
+
+[^11]: [Zhuo Rongtai: Förderung der neuen zehn KI-Konstruktionen, Ziel 2040: 15 Billionen NT$ Wertschöpfung — Central News Agency, 20. Juni 2025](https://www.cna.com.tw/news/aipl/202506200074.aspx) — Wertschöpfungspotenzial der neuen zehn KI-Konstruktionen
+
+[^12]: [Parlamentarische endgültige Zustimmung zum KI-Grundgesetz, Nationalrat für Wissenschaft und Technologie als Aufsichtsbehörde — Science and Technology Daily, 23. Dezember 2025](https://technews.tw/2025/12/23/artificial-intelligence-basic-law/) — Endgültige Zustimmung zum KI-Grundgesetz
