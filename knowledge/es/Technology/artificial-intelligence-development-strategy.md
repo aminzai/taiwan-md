@@ -25,10 +25,10 @@ imageCredit: 'BQUB25-UPoch (own work, AlphaFold + PyMOL)'
 imageLicense: 'CC BY 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Estructura_tridimensional_de_la_prote%C3%AFna_CBLN1_per_AlphaFold_amb_codificaci%C3%B3_rainbow.png'
 translatedFrom: 'Technology/台灣人工智慧發展與未來策略.md'
-sourceCommitSha: 'b67b190fb'
-sourceContentHash: 'sha256:15e7aa6f99cf7a84'
-sourceBodyHash: 'sha256:50acff1d4627c3c4'
-translatedAt: '2026-09-08T04:15:40.712079+00:00'
+sourceCommitSha: 'b70d6d8c4'
+sourceContentHash: 'sha256:36a555145d356c00'
+sourceBodyHash: 'sha256:9929570d1f524d80'
+translatedAt: '2026-10-03T21:21:36.589441+00:00'
 ---
 
 # Desarrollo de la inteligencia artificial en Taiwán y estrategia futura: ya obtuvo el boleto de entrada del hardware, ¿dónde será la próxima batalla?
@@ -212,19 +212,17 @@ Este caso muestra algo: la ventaja de Taiwán en IA no proviene solo de los semi
 
 ---
 
-## Política: del “año uno de la IA” al Ministerio de Asuntos Digitales
+## Política: de "Año del AI" al Ministerio de Desarrollo Digital
 
-El desarrollo de la política de IA en Taiwán puede entenderse a partir de tres momentos.
+El desarrollo de la política de IA en Taiwán puede entenderse a través de tres puntos clave.
 
-Entre 2017 y 2018 ocurrió la fase inicial. El Yuan Ejecutivo declaró 2017 como el “año uno de la IA” y propuso la idea de una “gran estrategia de IA para un país pequeño”, reconociendo que el mercado taiwanés era reducido, pero destacando tres cartas: fabricación de semiconductores, cadena de suministro TIC y talento en ciencia e ingeniería. En 2018 se lanzó la primera fase del “Plan de Acción de IA de Taiwán”, con una inversión de más de 40.000 millones de dólares taiwaneses durante cuatro años, centrada en construir la infraestructura de cómputo de IA “Taiwan AI Cloud” (TWCC)[^20].
+De 2017 a 2018 fue la fase inicial. El ministro de ciencia, Chen Liang-chi, declaró que 2017 era el "Año del AI", proponiendo la "Estrategia Nacional de Pequeña Nación y Gran Guerra" [^21], reconociendo que el mercado taiwanés era pequeño, pero enfatizando las tres cartas: la fabricación de semiconductores, la cadena de suministro de TIC y el talento técnico. En 2018 se lanzó la primera fase del "Plan de Acción de IA de Taiwán", invirtiendo más de NT$40 mil millones en cuatro años, centrándose en construir la infraestructura de computación de IA conocida como "Taiwan AI Cloud" (TWCC) [^20].
 
-En 2022, la política avanzó hacia la institucionalización. Se creó el Ministerio de Asuntos Digitales (moda), que integró funciones digitales antes dispersas entre el Ministerio de Ciencia y Tecnología, el Ministerio de Economía y el Ministerio de Transportes y Comunicaciones. La importancia de ese paso fue clara: la política de IA dejó de ser “un proyecto del Ministerio de Ciencia” para convertirse en “una estrategia nacional interministerial”. Ese mismo año, el gobierno publicó las “Directrices para la investigación y el desarrollo en inteligencia artificial”, con principios como centralidad humana, transparencia y explicabilidad, equidad y no discriminación.
+En 2022 se produjo la institucionalización. Se creó el Ministerio de Desarrollo Digital (_moda_), integrando las tareas digitales que antes estaban dispersas entre el Ministerio de Ciencia, el Ministerio de Economía y el Ministerio de Transporte. La importancia de este paso radica en que la política de IA pasó de ser un "proyecto del Ministerio de Ciencia" a una "estrategia nacional interministerial". Ese mismo año, el gobierno publicó las "Guías para la Investigación Científica en Inteligencia Artificial", enfatizando principios como el centrismo humano, la interpretabilidad transparente y la equidad sin discriminación.
 
-Desde 2023 hasta hoy, la orientación se desplazó hacia la IA generativa. El impacto de ChatGPT produjo un viraje rápido de las políticas. Se lanzó TAIDE, avanzó el borrador de una ley básica de IA y se aceleró la adopción de IA en el sector público. La estrategia taiwanesa es pragmática: no competir con Estados Unidos y China por cantidad de artículos de investigación básica, sino acoplar la IA a las ventajas manufactureras existentes. Manufactura inteligente, imágenes médicas, predicción de rendimiento en semiconductores: son campos donde Taiwán tiene datos, escenarios de aplicación y competitividad.
+A partir de 2023 se marca la transición hacia la IA generativa. El impacto de ChatGPT forzó un giro en la política. Se lanzó el proyecto TAIDE, se impulsó el borrador de la Ley Fundamental de IA y se aceleró la adopción de IA en el sector público. La estrategia de Taiwán es muy pragmática: no compiten con Estados Unidos o China en la cantidad de artículos de investigación fundamental, sino que acoplan la IA a las ventajas existentes en la manufactura. La fabricación inteligente, la imagen médica y la predicción del rendimiento de semiconductores son áreas donde Taiwán tiene datos, escenarios y competitividad.
 
-El problema es que en las listas de laureados de esos dos días de octubre de 2024 no hubo nadie proveniente de la ruta de la “manufactura inteligente”.
-
----
+El problema es que ninguno de los ganadores del Premio Nobel durante esos dos días en octubre de 2024 provino de esta vía de "manufactura inteligente".
 
 ## Ansiedad: la brecha de software del imperio del hardware
 
@@ -279,49 +277,51 @@ Este artículo utiliza 4 imágenes de dominio público / con licencia CC, todas 
 
 ## Referencias
 
-[^1]: [Tom's Hardware: Semiconductor legends take a stroll in a Taiwanese night market](https://www.tomshardware.com/tech-industry/semiconductor-legends-take-a-stroll-in-a-taiwanese-night-market-nvidia-tsmc-mediatek-and-quanta-heads-seen-eating-dinner) — Reportaje sobre la escena del mercado nocturno de Ningxia el 29 de mayo de 2024, que registró a Jensen Huang, Morris Chang, Barry Lam y Rick Tsai comiendo juntos.
+[^1]: [Tom's Hardware: Semiconductor legends take a stroll in a Taiwanese night market](https://www.tomshardware.com/tech-industry/semiconductor-legends-take-a-stroll-in-a-taiwanese-night-market-nvidia-tsmc-mediatek-and-quanta-heads-seen-eating-dinner) — Reportaje del mercado nocturno de Ningxia el 29 de mayo de 2024, que registra la cena conjunta de Huang Renxun, Chang Chung-mo, Lin Bairi y Tsai Lixing.
 
-[^2]: [Taiwan News: Nvidia CEO calls Taiwan 'one of the most important countries in the world'](https://www.taiwannews.com.tw/news/5880054) — Declaraciones públicas de Jensen Huang durante su visita a Taiwán el 2024-05-30.
+[^2]: [Taiwan News: Nvidia CEO calls Taiwan 'one of the most important countries in the world'](https://www.taiwannews.com.tw/news/5880054) — Declaración pública de Jensen Huang en Taiwán el 30/05/2024.
 
-[^3]: [Wikipedia: Jensen Huang](https://en.wikipedia.org/wiki/Jensen_Huang) — Datos biográficos sobre Jensen Huang: nacido en Taipéi en 1963, infancia en Tainan y emigración a Estados Unidos a los nueve años.
+[^3]: [Wikipedia: Jensen Huang](https://en.wikipedia.org/wiki/Jensen_Huang) — Biografía de Huang Renxun, nacido en Taipéi en 1963, con infancia en Tainan y emigró a EE. UU. a los nueve años.
 
-[^4]: [Klover.ai: TSMC AI Fabricating Dominance](https://www.klover.ai/tsmc-ai-fabricating-dominance-chip-manufacturing-leadership-ai-era/) — Todas las GPU avanzadas de NVIDIA (A100, H100 y serie Blackwell) son fabricadas por TSMC. Véase
+[^4]: [Klover.ai: Dominio de Fabricación de IA de TSMC](https://www.klover.ai/tsmc-ai-fabricating-dominance-chip-manufacturing-leadership-ai-era/) — Todos los GPU avanzados de NVIDIA (A100, H100, serie Blackwell) son fabricados por TSMC. Ver
 
-[^5]: [SQ Magazine: AI Chip Statistics 2025](https://sqmagazine.co.uk/ai-chip-statistics/) — Fuente del dato de cuota de ingresos del 72% de TSMC en el mercado de fundición de obleas en 2025; véanse también reportes contemporáneos de Motley Fool.
+[^5]: [SQ Magazine: AI Chip Statistics 2025](https://sqmagazine.co.uk/ai-chip-statistics/) — Fuente del dato de cuota de mercado de fábricas de obleas de TSMC en 2025, que es del 72%; ver también reportajes simultáneos de Motley Fool.
 
-[^6]: [PatentPC: The AI Chip Market Explosion](https://patentpc.com/blog/the-ai-chip-market-explosion-key-stats-on-nvidia-amd-and-intels-ai-dominance) — Fuente del dato de 86% de cuota de mercado de NVIDIA en GPU de IA.
+[^6]: [PatentPC: The AI Chip Market Explosion](https://patentpc.com/blog/the-ai-chip-market-explosion-key-stats-on-nvidia-amd-and-intels-ai-dominance) — Fuente del dato de cuota de mercado de GPUs de IA de NVIDIA, que es del 86%.
 
-[^7]: [Tech-Now: Taiwan Leads Global AI Server Shift, Surpassing iPhones in 2025](https://tech-now.io/en/blogs/taiwans-ai-server-revolution-how-foxconn-and-odms-redefined-global-tech-leadership-in-2025) — Datos de envíos globales de servidores de IA: Foxconn, Quanta y Wistron con el 90%.
+[^7]: [Tech-Now: Taiwan Leads Global AI Server Shift, Surpassing iPhones in 2025](https://tech-now.io/en/blogs/taiwans-ai-server-revolution-how-foxconn-and-odms-redefined-global-tech-leadership-in-2025) — Datos de envío global de servidores de IA de Foxconn, Wistron y Quanta en un 90%.
 
-[^8]: [DigiTimes: Foxconn, Wistron, Quanta to sustain trillion-dollar revenue on AI server in 2026](https://www.digitimes.com/news/a20260109PD249/revenue-ai-server-foxconn-wistron-quanta.html) — Reporte sobre las tres ODM con ingresos anuales superiores al billón de dólares taiwaneses y servidores de IA superando a la electrónica de consumo.
+[^8]: [DigiTimes: Foxconn, Wistron, Quanta to sustain trillion-dollar revenue on AI server in 2026](https://www.digitimes.com/news/a20260109PD249/revenue-ai-server-foxconn-wistron-quanta.html) — Reportaje que indica que los ingresos anuales de estas tres ODM superarán el billón y que los servidores de IA superarán a la electrónica de consumo.
 
-[^9]: [36Kr: Who Will Divide Up the CoWoS Production Capacity in 2026?](https://eu.36kr.com/en/p/3580962946874242) — Datos sobre la demanda de NVIDIA de 595.000 obleas CoWoS, equivalente al 60% del total global.
+[^9]: [36Kr: Who Will Divide Up the CoWoS Production Capacity in 2026?](https://eu.36kr.com/en/p/3580962946874242) — Dato de la demanda de obleas CoWoS por parte de NVIDIA, que es de 595 mil unidades, lo que representa el 60% mundial.
 
-[^10]: [NVIDIA Newsroom: Foxconn Builds AI Factory in Partnership With Taiwan and NVIDIA](https://nvidianews.nvidia.com/news/foxconn-builds-ai-factory-in-partnership-with-taiwan-and-nvidia) — Proyecto de fábrica de IA de 100 MW en Kaohsiung; véase también el reporte de CNBC sobre la capacidad eléctrica de 100 MW.
+[^10]: [NVIDIA Newsroom: Foxconn Builds AI Factory in Partnership With Taiwan and NVIDIA](https://nvidianews.nvidia.com/news/foxconn-builds-ai-factory-in-partnership-with-taiwan-and-nvidia) — Proyecto de fábrica de IA de 100MW en Kaohsiung; ver también reportaje de CNBC sobre la capacidad eléctrica de 100MW.
 
-[^11]: [Sitio oficial de Taiwan AI Labs, Acerca de nosotros](https://ailabs.tw/zh/關於我們/) — Perfil oficial sobre la creación de PTT por Ethan Tu en 1995 en la Universidad Nacional de Taiwán y la fundación de Taiwan AI Labs en abril de 2017 tras su regreso a Taiwán.
+[^11]: [Sitio web del Laboratorio de Inteligencia Artificial de Taiwán, Acerca de nosotros](https://ailabs.tw/zh/關於我們/) — Presentación oficial de Du Yijin, quien fundó PTT en la Universidad Nacional de Taiwan en 1995 y fundó Taiwan AI Labs en abril de 2017.
 
-[^12]: [TechNews 科技新報：AI 人才在台灣，該走該留？專訪台灣人工智慧實驗室創辦人杜奕瑾](https://finance.technews.tw/2025/08/18/taiwan-ai-labs-ethan/) — Introducción a proyectos centrales como Yating Transcript e IA médica con aprendizaje federado.
+[^12]: [TechNews 科技新報: ¿Dónde deben ir los talentos de IA en Taiwán? Entrevista a Du Yijin, cofundador del Laboratorio de Inteligencia Artificial de Taiwán](https://finance.technews.tw/2025/08/18/taiwan-ai-labs-ethan/) — Transcripción de Ya Ting y presentación de proyectos clave como la medicina de aprendizaje federado.
 
-[^13]: [Yuan Ejecutivo: perfeccionar la infraestructura de IA de Taiwán: construir TAIDE, un motor de diálogo de IA confiable](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/582206fe-26fc-4184-b911-aa6e4569ff3e) — Explicación oficial del inicio del proyecto TAIDE en abril de 2023.
+[^13]: [Executive Yuan: Mejorando la infraestructura de IA de Taiwán — Creación del motor conversacional de IA confiable TAIDE](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/582206fe-26fc-4184-b911-aa6e4569ff3e) — Explicación oficial del plan TAIDE en abril de 2023.
 
-[^14]: [CommonWealth Magazine: “Para evitar la invasión cultural de la IA china”, ¿qué puede hacer TAIDE, el primer gran modelo de lenguaje en chino tradicional de Taiwán?](https://www.cw.com.tw/article/5129076) — Reportaje sobre TAIDE y fuente del argumento sobre la subjetividad cultural de los LLM en chino tradicional.
+[^14]: [Times Magazine: ¿Qué puede hacer TAIDE, el primer gran modelo de lenguaje chino tradicional para 'prevenir la agresión cultural de la IA china'?](https://www.cw.com.tw/article/5129076) — Reportaje temático sobre TAIDE y discusión sobre la subjetividad cultural del LLM en chino tradicional.
 
-[^15]: [Comunicado de prensa del NSTC: Un año de TAIDE, cooperación público-privada para impulsar grandes modelos de lenguaje con características taiwanesas](https://www.nstc.gov.tw/folksonomy/detail/dd2d9d72-8f7b-44dd-976c-438d5ce683af?l=ch) — Publicación en abril de 2024 de TAIDE-LX-7B comercial y 13B académico.
+[^15]: [Comunicado de prensa del Consejo Nacional de Ciencia y Tecnología: El modelo de lenguaje grande con características taiwanesas promovido conjuntamente por la cooperación público-privada, TAIDE, ha tenido éxito en un año](https://www.nstc.gov.tw/folksonomy/detail/dd2d9d72-8f7b-44dd-976c-438d5ce683af?l=ch) — Lanzamiento de las versiones comerciales TAIDE-LX-7B y académicas 13B en abril de 2024.
 
-[^16]: [CloudInsight: Taiwan LLM Development Status 2026](https://cloudinsight.cc/en/blog/taiwan-llm) — Panorama completo del ecosistema taiwanés de LLM, incluidos TAIDE 2.0 y Breeze-8B.
+[^16]: [CloudInsight: Estado del desarrollo de LLM en Taiwán 2026](https://cloudinsight.cc/en/blog/taiwan-llm) — Inventario completo del ecosistema de LLM taiwanés, incluyendo TAIDE 2.0 y Breeze-8B.
 
-[^17]: Mismo informe de CloudInsight. Detalla casos de aplicación como “Shennong TAIDE” de la Universidad Nacional Chung Hsing, el robot conversacional taiwanés-inglés de la Universidad Nacional de Tainan y los modelos TAIDE en taiwanés y hakka de la Universidad Nacional Yang Ming Chiao Tung.
+[^17]: Mismo informe de CloudInsight. Casos de uso detallados como el 'Shennong TAIDE' de la Universidad Chung-Hsing, el robot conversacional taiwanes-inglés de la Universidad Nacional de Tainan y el modelo TAIDE en taiwanés de la Universidad de Ciencias Aplicadas.
 
-[^18]: [CIO Taiwan: recorrido por empresas taiwanesas de ciberseguridad: CyCraft Technology](https://www.cio.com.tw/taiwanese-ahn-an-smart-technology/) — Detalles sobre las siete inclusiones de CyCraft en Gartner y sus tres aprobaciones de la evaluación MITRE ATT&CK.
+[^18]: [CIO Taiwan: Visita a empresas de ciberseguridad de Taiwán — Ouyi Smart Technology](https://www.cio.com.tw/taiwanese-ahn-an-smart-technology/) — Detalles sobre cómo Ouyi Smart ha sido listada siete veces por Gartner y aprobada tres veces por MITRE ATT&CK.
 
-[^19]: [Sitio oficial de CyCraft: ¡Primer listado en la Junta de Innovación del rey de la ciberseguridad con IA! CyCraft sale hoy a cotizar](https://www.cycraft.com/news/taiwans-first-ai-cybersecurity-stock-20260205) — Comunicado de prensa del listado en la Junta de Innovación el 5 de febrero de 2026.
+[^19]: [Sitio web de Ouyi Smart: ¡Rey de la ciberseguridad de IA lanza su innovación! Ouyi Cyber cotiza hoy en el Innovation Board](https://www.cycraft.com/news/taiwans-first-ai-cybersecurity-stock-20260205) — Comunicado de prensa del 5 de febrero de 2026 sobre la cotización en la Junta de Innovación.
 
-[^20]: [NSTC: estrategia de investigación científica en IA](https://www.nstc.gov.tw/folksonomy/detail/dbf8da09-22be-4ef1-8294-8832fc6e8a26?l=ch) — Marco de política pública de la primera fase del Plan de Acción de IA de Taiwán, con presupuesto de 40.000 millones de dólares taiwaneses y construcción de TWCC.
+[^20]: [Consejo Nacional de Ciencia y Tecnología: Estrategia de investigación de IA](https://www.nstc.gov.tw/folksonomy/detail/dbf8da09-22be-4ef1-8294-8832fc6e8a26?l=ch) — Marco político que incluye el presupuesto de 40 mil millones para el primer plan de acción de IA de Taiwán y la construcción de TWCC.
 
-[^N1]: [The Nobel Prize in Physics 2024 press release](https://www.nobelprize.org/prizes/physics/2024/press-release/) — Anuncio oficial de la Real Academia Sueca de Ciencias del 8 de octubre de 2024. Texto original: “The Royal Swedish Academy of Sciences has decided to award the Nobel Prize in Physics 2024 to John J. Hopfield and Geoffrey Hinton 'for foundational discoveries and inventions that enable machine learning with artificial neural networks.'” Premio de 11 millones de coronas suecas, dividido entre ambos.
+[^21]: [Semiconductors Shoot for the Moon, Tech Grand Arena Chen Liangji: 16 Billion to Fight AI in Taiwan — Revista Vision, 2017](https://www.gvm.com.tw/article/39819) — El ministro de tecnología Chen Liangji declaró en 2017 que era el año clave de la IA y presentó la pequeña estrategia nacional de IA a mediados de agosto.
 
-[^N2]: [The Nobel Prize in Chemistry 2024 press release](https://www.nobelprize.org/prizes/chemistry/2024/press-release/) — Anuncio del 9 de octubre de 2024. Premio de 11 millones de coronas suecas: David Baker recibió la mitad “for computational protein design”, y Demis Hassabis y John Jumper compartieron la otra mitad “for protein structure prediction”.
+[^N1]: [Comunicado de prensa del Premio Nobel de Física 2024](https://www.nobelprize.org/prizes/physics/2024/press-release/) — Anuncio oficial por la Real Academia Sueca el 8 de octubre de 2024. Texto original: 'La Real Academia Sueca ha decidido otorgar el Premio Nobel de Física 2024 a John J. Hopfield y Geoffrey Hinton por descubrimientos e invenciones fundamentales que permiten el aprendizaje automático con redes neuronales artificiales.' El premio es de 11 millones de coronas suecas, repartidos equitativamente entre ambos.
+
+[^N2]: [Comunicado de prensa del Premio Nobel de Química 2024](https://www.nobelprize.org/prizes/chemistry/2024/press-release/) — Anuncio el 9 de octubre de 2024. El premio es de 11 millones de coronas suecas; David Baker recibe la mitad 'por diseño computacional de proteínas', y Demis Hassabis y John Jumper comparten la otra mitad 'por predicción de estructura de proteínas'.
 
 [^N3]: [PNAS, 79(8), 2554-2558](https://www.pnas.org/doi/10.1073/pnas.79.8.2554) — Hopfield, J. J. (1982). "Neural networks and physical systems with emergent collective computational abilities."
 
@@ -329,32 +329,32 @@ Este artículo utiliza 4 imágenes de dominio público / con licencia CC, todas 
 
 [^N5]: [NeurIPS 2012 / NIPS Proceedings](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html) — Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). "ImageNet Classification with Deep Convolutional Neural Networks."
 
-[^N6]: [PanSci 泛科學：2024 諾貝爾物理獎—— Hopfield 與 Hinton 開啟了人工神經網路機器學習時代](https://pansci.asia/archives/378242) — Socio de curaduría de contenidos según MOU 2026-05-05. Cubre el contexto de la red de Hopfield, la analogía con el vidrio de espín, la acumulación de citas del artículo y su vínculo matemático con el aprendizaje profundo contemporáneo.
+[^N6]: [PanSci Ciencia General: Premio Nobel de Física 2024 — Hopfield y Hinton abren la era del machine learning con redes neuronales artificiales](https://pansci.asia/archives/378242) — Socio de curación de contenido según el MOU 2026-05-05. Cubre el trasfondo de la Red Neuronal Hopfield, la analogía del vidrio espiño, la acumulación de citas y la conexión matemática con el aprendizaje profundo contemporáneo.
 
-[^N7]: [The Guardian: Nobel physics prize 2024 winner John Hopfield warns of AI dangers](https://www.theguardian.com/science/2024/oct/08/nobel-prize-physics-2024-john-hopfield-geoffrey-hinton-ai-machine-learning) — Reporte de la entrevista telefónica del Nobel de Física el 2024-10-08, con advertencias de Hopfield y Hinton sobre los riesgos de la IA.
+[^N7]: [The Guardian: John Hopfield, ganador del Premio Nobel de Física 2024, advierte sobre los peligros de la IA](https://www.theguardian.com/science/2024/oct/08/nobel-prize-physics-2024-john-hopfield-geoffrey-hinton-ai-machine-learning) — Reportaje telefónico del 8/10/2024 sobre el Premio Nobel de Física; Hopfield y Hinton emitieron advertencias sobre los riesgos de la IA el mismo día.
 
-[^N8]: [Wikipedia: Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton) — Hinton nació el 6 de diciembre de 1947 en Wimbledon, Londres; en marzo de 2013 se incorporó a Google tras la compra de DNNresearch por 44 millones de dólares.
+[^N8]: [Wikipedia: Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton) — Hinton nació en Wibdon, Londres, el 6 de diciembre de 1947. En marzo de 2013 se unió a Google después de que DNNresearch fuera adquirido por Google por 44 millones de dólares.
 
-[^N9]: [BBC News: AI 'godfather' Geoffrey Hinton warns of dangers as he quits Google](https://www.bbc.com/news/world-us-canada-65452940) — El 2023-05-01, tras dejar Google, Hinton expresó a la BBC su preocupación por los riesgos de la IA. Texto original: “I left so that I could talk about the dangers of AI without considering how this impacts Google”, “a part of me now regrets my life's work”. Detalles contemporáneos de la entrevista de NYT también citados en este reporte.
+[^N9]: [BBC News: El 'padrino' de la IA Geoffrey Hinton advierte sobre los peligros al dejar Google](https://www.bbc.com/news/world-us-canada-65452940) — Hinton expresó su preocupación por los riesgos de la IA a BBC después de dejar Google el 1 de mayo de 2023. Cita del texto original: 'Me fui para poder hablar sobre los peligros de la IA sin considerar cómo esto afecta a Google', y 'una parte de mí lamenta la obra de mi vida'. Los detalles de la entrevista de NYT en ese momento también se citan en este reportaje.
 
-[^N10]: [Nature: AI scientist Geoffrey Hinton wins Nobel prize for physics](https://www.nature.com/articles/d41586-024-03213-8) — Detalles de _Nature_ sobre el anuncio del Nobel de Física 2024 y la entrevista telefónica de Hinton.
+[^N10]: [Nature: El científico de IA Geoffrey Hinton gana el Premio Nobel de Física](https://www.nature.com/articles/d41586-024-03213-8) — Detalles del evento de premiación y la llamada telefónica a Hinton por parte de Nature.
 
-[^N11]: [Wikipedia: Economic history of Taiwan](https://en.wikipedia.org/wiki/Economic_history_of_Taiwan) — Datos del PIB de Taiwán en 1986; el Parque Científico de Hsinchu fue creado en diciembre de 1980.
+[^N11]: [Wikipedia: Historia económica de Taiwán](https://en.wikipedia.org/wiki/Economic_history_of_Taiwan) — Datos del PIB de Taiwán en 1986; el Parque Científico Hsinchu se estableció en diciembre de 1980.
 
 [^N12]: [Science, 181(4096), 223-230](https://www.science.org/doi/10.1126/science.181.4096.223) — Anfinsen, C. B. (1973). "Principles that govern the folding of protein chains."
 
-[^N13]: [Nature: 'It will change everything': DeepMind's AI makes gigantic leap in solving protein structures](https://www.nature.com/articles/d41586-020-03348-4) — Reporte de resultados de CASP14 del 30 de noviembre de 2020: AlphaFold 2 obtuvo una mediana GDT de 92,4, y el organizador de CASP John Moult comentó “in some sense the problem is solved”.
+[^N13]: [Nature: 'Lo cambiará todo': La IA de DeepMind da un salto gigantesco en la resolución de estructuras proteicas](https://www.nature.com/articles/d41586-020-03348-4) — Reporte del 30 de noviembre de 2020 sobre los resultados de CASP14, donde el GDT medio de AlphaFold 2 fue de 92.4, y John Moult, organizador de CASP, comentó 'en cierto sentido el problema está resuelto'.
 
-[^N14]: [DeepMind: AlphaFold reveals the structure of the protein universe](https://www.deepmind.com/blog/alphafold-reveals-the-structure-of-the-protein-universe) — Anuncio del 28 de julio de 2022 sobre la cobertura de la AlphaFold Protein Structure Database: un millón de especies y alrededor de 200 millones de estructuras proteicas.
+[^N14]: [DeepMind: AlphaFold revela la estructura del universo proteico](https://www.deepmind.com/blog/alphafold-reveals-the-structure-of-the-protein-universe) — Anuncio del 28 de julio de 2022 sobre la Base de Datos de Estructura de Proteínas de AlphaFold, que cubre 1 millón de especies y aproximadamente 200 millones de estructuras proteicas.
 
-[^N15]: [Abramson, J., Adler, J., Dunger, J. et al. (2024). Accurate structure prediction of biomolecular interactions with AlphaFold 3. Nature 630, 493-500](https://www.nature.com/articles/s41586-024-07487-w) — Publicación de AlphaFold 3 del 8 de mayo de 2024; amplía la predicción a complejos de proteínas con ADN / ARN / ligandos / iones.
+[^N15]: [Abramson, J., Adler, J., Dunger, J. et al. (2024). Accurate structure prediction of biomolecular interactions with AlphaFold 3. Nature 630, 493-500](https://www.nature.com/articles/s41586-024-07487-w) — Publicación de AlphaFold 3 el 8 de mayo de 2024, que se expande a la predicción de complejos de proteínas con ADN/ARN/ligandos/iones.
 
-[^N16]: [Wikipedia: Demis Hassabis](https://en.wikipedia.org/wiki/Demis_Hassabis) — Hassabis empezó a jugar ajedrez a los 4 años; a los 17 (1994) codesarrolló _Theme Park_ con Peter Molyneux; fundó DeepMind en Londres en 2010; Google la adquirió en 2014 por alrededor de 400 millones de libras.
+[^N16]: [Wikipedia: Demis Hassabis](https://en.wikipedia.org/wiki/Demis_Hassabis) — Hassabis comenzó a jugar ajedrez a los 4 años; desarrolló Theme Park con Peter Molyneux a los 17 (1994); fundó DeepMind en Londres en 2010 y fue adquirido por Google por unos 400 millones de libras en 2014.
 
-[^N17]: [Centro de Investigación Genómica de Academia Sinica](https://www.genomics.sinica.edu.tw/) — Centro de investigación de estructuras de glicomoléculas y proteínas establecido durante la presidencia de Chi-Huey Wong (2006-2016).
+[^N17]: [Centro de Genómica del Academia Sinica](https://www.genomics.sinica.edu.tw/) — Centro de investigación de estructuras moleculares de carbohidratos establecido durante la presidencia de Wen Chi-hui (2006-2016).
 
-[^N18]: [PanSci 泛科學：2024 諾貝爾化學獎—— David Baker、Demis Hassabis、John Jumper 解開蛋白質摺疊難題](https://pansci.asia/archives/378388) — Socio de curaduría de contenidos según MOU 2026-05-05. Cubre la controversia sobre el Nobel de Química a AlphaFold y la discusión sobre las fronteras disciplinares entre biología estructural y química computacional.
+[^N18]: [PanSci Ciencia General: Premio Nobel de Química 2024 — David Baker, Demis Hassabis y John Jumper resuelven el enigma del plegamiento proteico](https://pansci.asia/archives/378388) — Socio de curación de contenido según el MOU 2026-05-05. Discute la controversia del Nobel de AlphaFold y los límites disciplinarios entre biología estructural y química computacional.
 
-[^N19]: [PanSci 泛科學：AlphaFold 3 預測蛋白質與其他分子互動，藥物開發再升級](https://pansci.asia/archives/377917) — Socio de curaduría de contenidos según MOU 2026-05-05. Análisis del impacto de AlphaFold 3 en el desarrollo de fármacos y la ingeniería enzimática.
+[^N19]: [PanSci Ciencia General: AlphaFold 3 predice interacciones de proteínas con otras moléculas, mejorando el desarrollo de fármacos](https://pansci.asia/archives/377917) — Socio de curación de contenido según el MOU 2026-05-05. Análisis del impacto descendente de AlphaFold 3 en el desarrollo de fármacos y la ingeniería enzimática.
 
-[^N20]: [PanSci 泛科學：「人造腦」OI 挑戰 AI——培養皿裡的腦組織能取代矽晶片嗎？](https://pansci.asia/archives/366027) — Socio de curaduría de contenidos según MOU 2026-05-05. Investigación de organoides cerebrales del equipo de Thomas Hartung en Johns Hopkins como vía computacional alternativa a la IA basada en silicio.
+[^N20]: [PanSci Ciencia General: IA 'cerebro' OI desafía a la IA — ¿Pueden los tejidos cerebrales en placas reemplazar los chips de silicio?](https://pansci.asia/archives/366027) — Socio de curación de contenido según el MOU 2026-05-05. Investigación del cerebro artificial del equipo de Thomas Hartung en Johns Hopkins como una dirección alternativa a la IA.
