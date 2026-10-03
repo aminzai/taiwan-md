@@ -4,9 +4,9 @@ description: '跨 session 程序記憶 catalog — 101 條 #N 反射（last #101
 type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v5.39'
+current_version: 'v5.40'
 last_updated: 2026-10-03
-last_session: '2026-10-03-083716-semiont-heartbeat：#101 補內容層第一例（巡邏改掉的錯誤說法，三份同錯在兄弟篇）'
+last_session: '2026-10-03-204012-semiont-heartbeat：#99 加變體 (g)，瀏覽器 innerText 只量看得見的字，分頁籤裡的調查數字回 0 筆'
 sister_docs:
   - 'DNA.md'
   - 'LESSONS-INBOX.md'
@@ -1197,6 +1197,7 @@ codex → openrouter:owl-alpha → openrouter:openai/gpt-oss-120b:free → gemin
 - **跟鄰居的差別**：#31 防 agent 說謊，本條防檢查者自己站錯位置，方向相反；#65 講 awareness 儀器要對賬 ground truth，本條把同一要求延伸到臨時尺與新尺；#66 講閾值要用真實產出校準，本條講校準幾輪不等於校準完成；#24 第 8 種講驗證器空輸出假 PASS，本條 (2) 是它在人手 grep 上的形狀；#82 節點誕生當晚「驗證指令永遠回綠燈因為它什麼都沒檢查」同族。
 - **變體：報告裡的悖論句是尺壞掉的訊號（2026-09-20 twmd-self-evolve-weekly，誕生同日第一次事後驗證）**：W38 週體檢寫「外部尺那格跌到 1.2 的同一週，真正的外部尺出現了三次」，把它當一句對照修辭收進報告，09-13 self-evolve 量到「跌破基線」、09-20 心跳 handoff 寫「量不到觀察者本人」，三班都先接受讀數再解釋它。實際是 `external_rulers` 的來源登記沒跟上 FACTCHECK v2 的落檔位置（見 #91 第六次），14 篇巡邏一篇沒算。規則 (e)：**當一句話同時斷言「量到的最低」與「實際上最多」，那句話本身就是 (a) 的觸發條件**——先驗尺，再寫成悖論。悖論在報告裡讀起來像深度，多半是尺
 - **變體 (f) 會寫檔的修復器要過負對照（2026-09-27 twmd-distill-weekly fold，源 LESSONS `dry-run-fixers-on-known-clean-corpus-first`，vc=1）**：規則 (a)(b) 是讀數之前過正對照；修復器還要過負對照：改完先對已知乾淨的樣本空跑，要求零改動。09-27 `restore-footnote-urls.py` 改了兩次，對 584 份通過閘門的譯文空跑，一次會動 17 份、一次 16 份，全是誤配（把原稿中文貼進譯文、把 frontmatter 的收尾引號當竄改修掉），後者在閘門量測範圍外，不空跑就不會有人發現。定版 `841d4f0f8`。
+- **變體 (g) 瀏覽器取文的尺只量看得見的字（2026-10-03 semiont-heartbeat，vc=1）**：查核時 curl 對文化部世界遺產潛力點頁回空頁，改用內建瀏覽器取 `innerText`，「592」「574」「77%」「半口」四個詞全回 0 筆，差一步就要把子代判 ✅ 的原子翻成「查無」；換 `textContent` 每一個都在，內容藏在沒點開的分頁籤裡。`innerText` 是「畫面上看得見的字」，不是「頁面上的字」，對分頁、摺疊、延遲載入的頁面，它的 0 跟規則 (b) 的 0 是同一種假讀數。落點：FACTCHECK v2.12 §Phase 4 第 (3) 條（瀏覽器取文用 `textContent`，回報 0 筆前先拿確定在頁面上的詞過正對照）。
 - **相關**：#31／#65／#66／#24／#82／`agent-report-health.py`（候選：「找不到檔案」分支先印 cwd 與目錄清單）／`numeral-conversion-check.py` docstring（刻意不接 gate，四個未修家族）
 
 **#100 驗證對象要等於落地對象 — commit 路徑上有會改寫檔案的元件時，在它之外量到的都是替身（measured-copy-is-not-the-committed-copy）**（2026-09-27 twmd-distill-weekly 升 canonical，四條同族 entry 合併 vc=3＋4＋2＋1，severity=structural；源 LESSONS `measured-copy-is-not-the-committed-copy`，subsume `formatter-vs-generator-quote-churn-fakes-scope-alarm`／`italic-span-defeats-url-escaping`／`prescribed-profile-is-not-the-gate-profile`）— commit 路徑上排著一個有寫入權的元件（lint-staged 的 prettier），它在所有檢查器之前把檔案改寫一遍。於是同一份檔案在一次 commit 裡至少有三個版本：檢查器量的那份、索引裡的那份、最後寫進 git 的那份。在那個元件之外跑的驗收，量到的是還沒被改寫的版本；拿改寫後的版本去比沒改寫的版本，量到的差異有一部分是改寫器自己造的。兩個方向都不會叫：前者印綠燈，後者把格式化器造的差異記成別人的錯。
@@ -1217,6 +1218,7 @@ codex → openrouter:owl-alpha → openrouter:openai/gpt-oss-120b:free → gemin
 
 ---
 
+_v5.40 | 2026-10-03 semiont-heartbeat 晚間 — 零新編號：#99 加變體 (g)，查核時用瀏覽器 `innerText` 取文，分頁籤裡的四個調查數字全回 0 筆，`textContent` 都在；同 commit FACTCHECK v2.12 §Phase 4 第 (3) 條。_
 _v5.39 | 2026-10-03 semiont-heartbeat — 零新編號：#101 補內容層第一例，巡邏三篇改正後拿十五個錯誤短語 grep 全庫，三份同錯在兄弟篇的概覽與 description；同 commit FACTCHECK v2.10 §月度巡邏 把這一步寫進 SOP。_
 _v5.38 | 2026-09-27 twmd-self-evolve-weekly — 零新編號：#15 第 15 次驗證（ARTICLE-INBOX 切角期限儀器化，DIARY「里程碑≠兌現」vc=3）；#100 兩件未落地項落地（prettier-url-stability plugin＋verify-commit-scope 索引殘影清理），並補第五載體「prettier 斜體不冪等，只量一趟會放過下一次」。_
 _v5.37 | 2026-09-27 twmd-distill-weekly — 加 #100 驗證對象要等於落地對象（四條同族 entry 合併：measured-copy vc=3＋formatter-vs-generator vc=4＋italic-span vc=2＋prescribed-profile vc=1）+ #101 修補範圍照根因的類別畫（fix-scope 同型五次＋silent-abort 同檔版）；零新編號 fold 十一處：#38 (d) 第三種根因＋metadata-stale 蓋住兩種處置 / #56 v10 守門工具掃描範圍第四次落後＋v11 快照續行漏修正 / #65 v12 正例跟規則同作者 / #67 全站閘門量腳下那棵樹 / #68 穩態稅＋commit 階段鏡像 / #82 動作謂詞閘門＋provenance 對得上就永遠 fresh / #83 一個轉換住在三條引擎裡 / #91 刪除與登記 / #92 文件描述的世界與檔案系統＋兩條歸檔 / #97 收件席位動不了手＋狀態標籤反向 / #99 (f) 修復器負對照。源 LESSONS 30 條。_
