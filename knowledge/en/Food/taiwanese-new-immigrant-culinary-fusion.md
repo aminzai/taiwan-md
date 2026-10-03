@@ -1,15 +1,15 @@
 ---
-title: "Taiwanese New Residents' Fusion Cuisine"
-description: "When Thai sour and spicy meets Taiwanese sweet and salty, when Vietnamese rice noodles encounter Taiwanese braised snacks, when Indonesian spices embrace local ingredients, a cross-border culinary revolution is quietly unfolding in Taiwan. New residents bring not only the flavors of their homelands but also entirely new possibilities for Taiwan's food culture."
+title: 'The Culinary Fusion of New Residents in Taiwan'
+description: 'As Thai spiciness meets Taiwanese sweet and savory, Vietnamese pho encounters Taiwanese cured meats, and Indonesian spices embrace local ingredients—a cross-border flavor revolution is quietly unfolding in Taiwan. The cuisine brought by new residents offers not just flavors from their homeland, but entirely new possibilities for enriching Taiwanese food culture.'
 date: 2026-03-20
 category: 'Food'
 tags:
   [
-    'New resident cuisine',
-    'Southeast Asian cuisine',
-    'cultural fusion',
-    'diverse dining',
-    'immigrant culture',
+    'New Resident Cuisine',
+    'Southeast Asian Cuisine',
+    'Cultural Fusion',
+    'Diverse Diet',
+    'Immigration Culture',
   ]
 subcategory: '族群飲食'
 author: 'Taiwan.md'
@@ -17,351 +17,345 @@ featured: true
 lastVerified: 2026-03-20
 lastHumanReview: false
 image: '/article-images/food/pho-vietnamese-noodle-soup.webp'
-imageAlt: 'Vietnamese pho'
+imageAlt: 'Vietnamese Pho'
 imageCredit: 'Tayzar44 / Wikimedia Commons'
 readingTime: 10
 imageLicense: 'CC BY 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Pho,_popular_Vietnamese_noodle_soup.jpg'
 translatedFrom: 'Food/台灣新住民美食融合.md'
-sourceCommitSha: '9094012f4'
-sourceContentHash: 'sha256:77ab88a911a474f4'
-sourceBodyHash: 'sha256:0ecfd7b1fa40d486'
-translatedAt: '2026-09-22T17:40:19+08:00'
+sourceCommitSha: '10b5f473e'
+sourceContentHash: 'sha256:ec43c04dc374e045'
+sourceBodyHash: 'sha256:c3bafaeb7fb89ca0'
+translatedAt: '2026-10-04T00:51:57+08:00'
 ---
 
-# Taiwanese New Residents' Fusion Cuisine
+# The Culinary Fusion of New Residents in Taiwan
 
-> "The taste of home never disappears; it blooms into different flowers on new land."
->
-> — — Ruan Shi Yun (Taiwanese-Vietnamese homemaker, arrived in Taiwan 20 years ago)
+In the Ankang community of Muzha, Taipei, the 1980s were a major hub for Vietnamese overseas Chinese in Taiwan; back then, the road was still called "Vietnam Street." In recent decades, this community has also welcomed a wave of new resident women who married into Taiwanese families. Xin Shih-ping (辛詩萍) has lived in Taiwan for over two decades; her husband is an overseas Chinese from Vietnam who arrived during an earlier period of migration. Her noodle stall serves Vietnamese _guotiao_ (rice noodles), which is a favorite breakfast among local Vietnamese residents [^1].
 
-In the underground mall of Taipei Main Station, a modest little shop exudes the aroma of lemongrass and coconut milk. The owner, A Jia, is a new resident from Indonesia. She uses locally sourced Taiwanese ingredients to create authentic Indonesian curry. "Taiwanese cabbage is sweeter than Indonesian cabbage," she says, "so my curry tastes milder, and Taiwanese people prefer it that way."
-
-This small adjustment symbolizes the core characteristic of Taiwan's new resident food culture — not simple replication, but creative fusion. Since the 1990s, new residents from Southeast Asian countries have been arriving in Taiwan. They brought not only labor but also rich and diverse culinary traditions. Today, these international flavors have deeply integrated into Taiwan's food landscape, becoming a delicious testament to Taiwan's multiculturalism.
+One community hosts two generations of Vietnamese immigrants: the overseas Chinese who fled Saigon around 1975, and the new resident women who came to Taiwan through transnational marriage starting in the late 1990s. In 2003, transnational marriages accounted for 31.86% of all marriages in Taiwan, nearly one in three couples [^2]. They bring the cuisine of their homeland, which slowly evolves on Taiwanese stoves, blending with local ingredients and adapting to Taiwanese palates.
 
 ## The Development Trajectory of New Resident Cuisine in Taiwan
 
-### 1990-2000: The Beginning of Taking Root
+### 1990–2000: The Beginning of Taking Root
 
-In the 1990s, Taiwan began seeing a large number of cross-national marriages. Women from Vietnam, Indonesia, Thailand, the Philippines, and other countries started arriving in Taiwan. Initially, they mainly cooked their homestyle dishes for their families, and these foreign flavors were only circulated within small circles.
+In the late 1990s, transnational marriages in Taiwan increased rapidly. Marriage migrants from Southeast Asia were predominantly Vietnamese: as of May 2012, there were over 130,000 new migrant women from Southeast Asia, with Vietnamese nationals making up 66.29%, followed by Indonesian, Filipino, Thai, and Cambodian [^2]. Initially, they mainly cooked their homeland cuisine for family at home, and these foreign flavors circulated only within small circles.
 
-During this period, new resident cuisine still maintained relatively pure original flavors. Vietnamese pho, Thai Tom Yum soup, Indonesian Rendang curry, all tried to preserve the authentic tastes of their homelands. However, due to difficulties in obtaining ingredients, many new residents began learning to substitute local Taiwanese ingredients for their hometowns' spices and vegetables.
+The cuisine of new residents during this period remained relatively pure in its original form. Vietnamese _pho_, Thai _Tom Yam_ (spicy and sour soup), and Indonesian _Rendang_ all strove to maintain the original tastes of their homelands. However, due to difficulties in sourcing ingredients, many new residents began learning to substitute local Taiwanese ingredients for spices and vegetables from their home countries.
 
-### 2000-2010: The Germination of Commercialization
+### 2000–2010: The Budding of Commercialization
 
-Entering the 21st century, with the increase in new resident numbers and the improvement of Taiwan society's acceptance of multiculturalism, new resident cuisine began to move out of homes and into the commercial market.
+Entering the 21st century, as the number of new residents increased and Taiwan society became more accepting of multiculturalism, new resident cuisine began moving out of homes and into the commercial market.
 
-Taipei's Huaxi Street and Nanmen Market Night Market started appearing Vietnamese pho stalls; Zhongli's Zhongzhen New Village, due to the concentration of overseas Chinese from Thailand and Myanmar, formed a distinct Yunnan-Thai-Burma flavor district; the area around Taoyuan Railway Station became a gathering place for Indonesian cuisine.
+The map of Southeast Asian flavors in Taiwan actually predates the arrival of many new residents. Zhongzhen Market in Longgang, Taoyuan, is famous for Yunnan-Burmese-Thai snacks like _migans_ (dried rice cakes) and _mixian_ (rice vermicelli). Its origins trace back to the Zhongzhen New Village built by military dependents from the Yunnan Anti-Communist National Salvation Army who retreated to Taiwan in 1954, with many villagers' families originating from Yunnan, Thailand, and Myanmar [^3]. This was a post-war civilian migration, separate from the marriage migration that began in the 1990s.
 
-During this period, new resident cuisine began showing a trend of localization. To adapt to Taiwanese taste preferences, many dishes were adjusted in terms of spiciness, sourness, and sweetness. Thai cuisine reduced the use of fish sauce and increased the proportion of soy sauce; Vietnamese cuisine reduced the amount of cilantro and added Taiwanese familiar scallions.
+Stalls run by new residents and migrant workers were often located in areas where their compatriots gathered. On Yanping Road near the former Taoyuan Train Station, Vietnamese _pho_ shops and Southeast Asian grocery stores overflowing with spices lined up side-by-side, catering mostly to Vietnamese migrant workers working in Taoyuan [^4].
 
-### 2010-2020: Mainstream and Refinement
+During this period, new resident cuisine began adjusting its spiciness, sourness, and sweetness to suit Taiwanese tastes.
 
-In the 2010s, new resident cuisine experienced a period of rapid development. With growing interest in Southeast Asian culture in Taiwanese society and the promotion of internet media, new resident cuisine began entering the mainstream consumer market.
+### 2010–2020: Crossing the Threshold into the Mainstream
 
-During this period, many well-known new resident restaurant brands emerged. Viet Kee Pho turned Vietnamese pho into a chain business; although Waist Thai Cuisine was a brand created by Taiwanese people, it employed a large number of Thai chefs to promote authentic Thai cuisine; Yee Xiang De Nang Street Food focused on Malaysian and Singaporean cuisines.
+In the 2010s, interest in Southeast Asian culture grew among Taiwanese society, but it was not easy for small eateries run by new residents to capture the mainstream Taiwanese clientele. A 2020 study conducted by the Food and Beverage Management Department at Cheng-Hsi University for the National Immigration Agency pointed out that Southeast Asian cuisines generally have strong flavors that are difficult for the average Taiwanese person to accept, so the customers of these small eateries were mostly new residents and migrant workers; Vietnamese cuisine is lighter than other Southeast Asian countries' fare, and its acceptance in Taiwan is higher than Indonesian cuisine [^5].
 
-At the same time, new resident cuisine also began showing a trend of refinement. Some new resident chefs started emphasizing ingredient quality and presentation aesthetics, elevating traditional street snacks to refined restaurant dishes.
+Another path was taken by "Wacheng" (瓦城): established in 1990 by Taiwanese national Xu Ching-yi (徐承義), it opened the first "Wacheng Thai Cuisine," representing a different type of "Thai food in Taiwan" compared to the home-style small eateries run by new residents [^6].
 
-### 2020 to Present: Integration Innovation and Cultural Identity
+At the same time, new resident cuisine also began showing trends toward refinement. Some new resident chefs started emphasizing ingredient quality and plating aesthetics, elevating traditional street snacks into refined restaurant fare.
 
-In recent years, Taiwan's new resident cuisine has developed more diverse and innovative forms. The second generation of new residents (children of new residents) have begun participating in the inheritance and innovation of food culture, interpreting their parents' hometowns' cuisine in more creative ways.
+### 2020–Present: Fusion Innovation and Cultural Identity
 
-Dishes such as "Taiwanese-style Vietnamese pho," "Thai-style braised pork rice," and "Indonesian-flavored fried chicken cutlets" have emerged. These innovations are no longer seen as betrayals of tradition, but rather as natural results of cultural integration.
+In recent years, Taiwanese new resident cuisine has developed a more diverse and innovative appearance. According to statistics from the delivery platform foodpanda, Southeast Asian cuisine sales on the platform exceeded NT$700 million in 2025, with Thai cuisine being the most popular; the top three hot dishes are _Pad Krapow_ (Thai stir-fried pork), Vietnamese _pho_, and green curry, with nearly a thousand new resident stores on the platform [^7]. The second generation of new residents (the children of new residents) have also begun to participate in the inheritance and innovation of food culture, interpreting their parents' homeland cuisine in their own ways.
 
-## Main Types and Characteristics of New Resident Cuisine
+Fusion dishes such as "Taiwanese Vietnamese Pho," "Thai-style Braised Pork Rice," and "Indonesian-flavored Fried Chicken" are appearing; these innovations are no longer seen as a betrayal of tradition but are regarded as the natural result of cultural fusion.
 
-### Vietnamese Cuisine: Refreshing and Sweet-Sour Southeast Asian Style
+## Major Types and Characteristics of New Resident Cuisine
 
-Vietnamese cuisine is one of the most popular new resident cuisines in Taiwan. Its characteristics include fresh and refreshing flavors, balanced sweet and sour tastes, and heavy use of fresh herbs.
+### Vietnamese Cuisine: The Tropical Flavor of Freshness and Sweetness
 
-**Pho** is the representative dish of Vietnamese cuisine. In Taiwan, Vietnamese pho has undergone significant localization modifications:
+Vietnamese cuisine is one of Taiwan's most widespread new resident cuisines. Its characteristics include fresh flavors, balanced sweet and sour tastes, and heavy use of fresh herbs.
 
-- **Soup adjustment**: Originally light beef bone soup, in Taiwan often more spices are added to make the flavor richer
-- **Side dish localization**: Bean sprouts, scallions, and other vegetables easily available in Taiwan replace some of the original Vietnamese herbs
-- **Meat selection**: Adding pork options that Taiwanese people love, not limited to traditional beef
+**Pho (Rice Noodles)** is representative of Vietnamese cuisine. In Taiwan, Vietnamese _pho_ has undergone significant localization:
 
-**Vietnamese spring rolls** are also quite popular in Taiwan. The Taiwanese version of Vietnamese spring rolls usually:
+- **Broth Adjustment**: The originally light beef bone broth in Taiwan often includes more spices to make the flavor richer.
+- **Localizing Side Dishes**: Taiwanese vegetables that are easy to obtain, such as bean sprouts and chives, replace some of the original Vietnamese herbs.
+- **Meat Choices**: Pork options favored by Taiwanese people have been added, not limited to traditional beef.
 
-- Increase the proportion of lettuce and pickled cucumbers
-- Use locally sourced shrimp and pork shreds
-- Dipping sauce adjusted to a milder sweet and sour taste
+**Vietnamese Spring Rolls** are also very popular in Taiwan. The Taiwanese version usually:
 
-**Representative restaurants**:
+- Increases the proportion of lettuce and cucumber.
+- Uses local shrimp and shredded pork from Taiwan.
+- Adjusts the dipping sauce to a milder sweet and sour flavor.
 
-### Thai Cuisine: Fragrant and Spicy Tropical Flavors
+### Thai Cuisine: The Spicy and Rich Taste of the Tropics
 
-Thai cuisine is known for its fragrant spiciness. During its development in Taiwan, it gradually adapted to Taiwanese taste preferences.
+Thai cuisine is famous for its spiciness, and in its development in Taiwan, it has gradually adapted to Taiwanese taste preferences.
 
-**Thai sour and spicy soup (Tom Yum)** is one of the most popular Thai dishes:
+**Tom Yam (Spicy and Sour Soup)** is one of the most popular Thai dishes:
 
-- **Sourness adjustment**: Reducing the amount of lemongrass, increasing lemon juice to make the sourness softer
-- **Spiciness control**: Providing different levels of spiciness to meet different needs of Taiwanese people
-- **Seafood localization**: Using locally sourced shrimp and squid, higher freshness
+- **Sourness Adjustment**: The amount of kaffir lime leaves is reduced, and lemon juice is increased to make the sourness milder.
+- **Spiciness Control**: Different levels of spiciness are offered to meet varying Taiwanese demands for heat.
+- **Localizing Seafood**: Local shrimp and squid from Taiwan are used for higher freshness.
 
-**Green curry** in Taiwan has also undergone innovative modifications:
+**Green Curry** has also been innovatively modified in Taiwan:
 
-- Using locally sourced eggplant and long beans
-- Coconut milk concentration adjusted to suit Taiwanese taste preferences
-- Accompanied with Taiwanese rice instead of traditional Thai jasmine rice
+- Uses local eggplant and green beans from Taiwan.
+- The coconut milk concentration is adjusted to suit Taiwanese preferences.
+- It is served with Taiwanese rice, rather than traditional Thai jasmine rice.
 
-**Pad Krapow Moo** (Thai stir-fried pork) is a popular street snack choice:
+**_Pad Krapow_ (Thai Stir-fried Pork)** is a popular street food choice:
 
-- Using Taiwanese premium pork, meat is more tender
-- Basil replacing part of Thai basil, more in line with Taiwanese spice preferences
-- Side dishes increased with Taiwanese pickled vegetables and braised eggs
+- Uses tender domestic pork from Taiwan.
+- Holy basil replaces some of the Thai basil, better matching Taiwanese spice preferences.
+- Side dishes include Taiwanese pickled vegetables and braised eggs.
 
-**Representative restaurants**:
+### Indonesian Cuisine: The Island Flavor Rich in Spices
 
-### Indonesian Cuisine: Rich Spices of the Archipelago
+Indonesian cuisine is characterized by rich spices and complex flavors. In Taiwan, the development of Indonesian cuisine was relatively later but has gained attention in recent years.
 
-Indonesian cuisine is characterized by rich spices and complex flavor layers. In Taiwan, the development of Indonesian cuisine is relatively late, but it has gradually gained attention in recent years.
+**Nasi Goreng (Fried Rice)** is the easiest Indonesian dish for Taiwanese people to accept:
 
-**Indonesian fried rice (Nasi Goreng)** is the easiest Indonesian dish for Taiwanese people to accept:
+- Uses long-grain rice from Taiwan, which better suits Taiwanese habits.
+- The seasoning leans toward sweet and savory with mild spiciness.
+- Local ingredients like Taiwanese sausage and braised eggs are added.
 
-- Using locally sourced long-grain rice, texture more in line with Taiwanese habits
-- Seasoning biased towards sweet and salty, mild spiciness
-- Adding Taiwanese-style sausage and braised eggs and other local ingredients
+**Rendang**, after being localized in Taiwan:
 
-**Rendang curry** after Taiwan-style modification:
+- The coconut milk concentration is adjusted so it is not overly heavy.
+- The amount of spices is reduced to suit Taiwanese tastes.
+- It is served with regular white rice from Taiwan, rather than traditional coconut rice.
 
-- Coconut milk concentration adjusted, not too heavy
-- Spice amount reduced, adapting to Taiwanese taste preferences
-- Accompanied with Taiwanese white rice instead of traditional coconut rice
+### Filipino Cuisine: The Island Flavor of Sweet and Sour Appetizers
 
-**Representative restaurants**:
+The development of Filipino cuisine in Taiwan has been relatively niche, but it still possesses a unique charm.
 
-### Philippine Cuisine: Sour and Sweet Refreshing Island Flavors
+**Adobo (Stewed Meat)** is the national dish of the Philippines:
 
-Philippine cuisine in Taiwan has relatively niche development, but still has its unique charm.
+- Uses Taiwanese soy sauce and vinegar, resulting in a milder flavor.
+- Local vegetables favored by Taiwanese people, such as radishes and potatoes, are added.
+- It is served with regular white rice from Taiwan.
 
-**Philippine stewed meat (Adobo)** is the Philippines' national dish:
+## Localization Innovation in New Resident Cuisine
 
-- Using Taiwanese soy sauce and vinegar, taste more mellow
-- Adding Taiwanese people's favorite radish and potatoes
-- Accompanied with Taiwanese white rice
+### Ingredient Substitution
 
-**Representative restaurants**:
+The first challenge faced by new resident chefs in Taiwan was ingredient sourcing. Many spices and vegetables from their homelands were difficult or expensive to buy in Taiwan. Therefore, they demonstrated incredible creativity, creating new flavor combinations using local Taiwanese ingredients.
 
-## Localization Innovation of New Resident Cuisine
+**Spice Substitution**:
 
-### Ingredient Localization Substitution
+- Taiwanese chili powder is used to replace some unique Southeast Asian spices.
+- Taiwanese chilies are used to replace Thai bird's eye chilies.
 
-New resident chefs face their first challenge in Taiwan: the procurement of ingredients. Many hometown spices and vegetables are not easy to buy in Taiwan, or are expensive. Therefore, they have shown remarkable creativity, using local Taiwanese ingredients to create new flavor combinations.
+**Vegetable Substitution**:
 
-**Spice substitution**:
+- Taiwanese chives are used to replace Thai basil flowers.
+- Taiwanese eggplant is used to replace Thai round eggplants.
 
-- Using Taiwanese pepper powder to replace some Southeast Asian special spices
-- Using Taiwanese cilantro to replace Vietnamese cilantro (slightly different in taste)
-- Using Taiwanese chili peppers to replace Thai bird's eye chilies
+**Meat Adjustments**:
 
-**Vegetable substitution**:
+- High-quality pork and chicken from Taiwan are used.
+- The selection of meat cuts is adjusted according to Taiwanese preferences.
 
-- Using Taiwanese lettuce to replace Vietnamese lettuce
-- Using Taiwanese scallions to replace Thai scallion flowers
-- Using Taiwanese eggplant to replace Thai round eggplant
+### Taiwanese Flavor Adjustment
 
-**Meat adjustment**:
+To adapt to the tastes of Taiwanese people, new resident cuisine has been adjusted in terms of spiciness, sourness, and sweetness.
 
-- Using Taiwanese quality pork and chicken
-- Adjusting meat selection according to Taiwanese preferences
+**Spiciness Regulation**:
+Taiwanese people generally do not eat as much spice as Southeast Asians, so many new resident dishes have reduced their heat or offer different levels of spiciness.
 
-### Taste Localization Adjustment
+**Sweetness Increase**:
+Since Taiwanese people prefer sweet flavors, many new resident dishes have increased the level of sweetness. Thai stir-fried noodles often include more sugar; Vietnamese _pho_ broths also have a slight sweetness.
 
-To adapt to Taiwanese taste preferences, new resident cuisine has made adjustments in spiciness, sourness, and sweetness.
+**Saltiness Adjustment**:
+The use of strong seafood-flavored seasonings like fish sauce is reduced, and the proportion of soy sauce familiar to Taiwanese people is increased.
 
-**Spiciness adjustment**:
-Taiwanese people are generally not as spicy as Southeast Asians, so many new resident dishes have reduced spiciness, or offer different levels of spiciness.
+### Integration of Cooking Techniques
 
-**Sweetness increase**:
-Taiwanese people like sweet flavors, so many new resident dishes have increased sweetness. Thai stir-fried rice noodles add more sugar; Vietnamese pho soup also has a slight sweetness.
+New resident chefs have also integrated Taiwanese cooking techniques into their cuisine.
 
-**Saltiness adjustment**:
-Reducing the use of strongly seafood-flavored seasonings like fish sauce, increasing the proportion of soy sauce familiar to Taiwanese people.
+**Stir-frying Technique**:
+Many Southeast Asian dishes originally required long simmering times, but in Taiwan's fast-paced life, new resident chefs learned to use the Taiwanese stir-fry method to shorten cooking time.
 
-### Cooking Technique Integration
+**Braising Techniques**:
+Taiwanese braising techniques have been applied to Southeast Asian cuisine, resulting in innovative dishes like "Thai-style Braised Pork" and "Vietnamese-style Braised Eggs."
 
-New resident chefs have also integrated Taiwanese cooking techniques into their own cuisine.
+**Frying Improvements**:
+They learned frying techniques from Taiwanese night markets to make Southeast Asian fried foods crispier.
 
-**Stir-fry technique**:
-Many Southeast Asian dishes originally require long stewing, but in Taiwan's fast-paced lifestyle, new resident chefs have learned to use Taiwanese fast stir-fry methods to shorten cooking time.
+## Innovative Cuisine through Cross-Cultural Fusion
 
-**Braising technique**:
-Taiwanese braising techniques are applied to Southeast Asian cuisine, creating innovative dishes like "Thai-style braised pork" and "Vietnamese-style braised eggs."
+### Taiwan-Vietnam Fusion Dishes
 
-**Frying improvement**:
-Learning from Taiwan's night market frying techniques, making Southeast Asian fried foods crispier.
+**Vietnamese-style Braised Pork Rice**:
+This combines the classic Taiwanese braised pork rice with Vietnamese spices, using herbs like lemongrass and mint to create a refreshing version of the dish.
 
-## Cross-Cultural Fusion Innovative Dishes
+**Vietnamese Beef Noodle Soup**:
+Taiwanese beef noodles are cooked using the clear broth technique of Vietnamese _pho_, resulting in a lighter soup base, enhanced with Vietnamese cilantro and bean sprouts.
 
-### Sino-Vietnamese Fusion Dishes
+### Taiwan-Thai Fusion Dishes
 
-**Vietnamese-style braised pork rice**:
-Combining Taiwan's classic braised pork rice with Vietnamese spices, using lemongrass, mint, and other herbs for seasoning, creating a refreshing version of braised pork rice.
+**Thai Fried Chicken**:
+This combines Taiwanese night market fried chicken with Thai seasonings, marinated using Thai spices like lemongrass and kaffir lime leaves.
 
-**Vietnamese-style beef noodles**:
-Using Vietnamese pho's clear soup technique to cook Taiwanese beef noodles, the soup is clearer, adding Vietnamese cilantro and bean sprouts.
+**Thai Buns (Gua Bao)**:
+The filling of traditional Taiwanese _gua bao_ is replaced with Thai roasted pork, served with a side of Thai papaya salad.
 
-### Sino-Thai Fusion Dishes
+### Taiwan-Indonesian Fusion Dishes
 
-**Thai-style fried chicken cutlets**:
-Combining Taiwan's night market fried chicken cutlets with Thai seasonings, marinating with lemongrass, lemongrass leaves, and other Thai spices.
+**Spiced Stinky Tofu**:
+Taiwanese stinky tofu is seasoned with Indonesian spices to create unique "spiced stinky tofu."
 
-**Thai-style hamburgers**:
-Changing the filling of Taiwan's traditional hamburgers to Thai grilled pork, served with Thai-style papaya salad.
+**Curry Fried Chicken**:
+Taiwanese fried chicken drizzled with an Indonesian-flavored curry sauce—a creative dish combining two cultures.
 
-### Sino-Indonesian Fusion Dishes
-
-**Indonesian-flavored stinky tofu**:
-Seasoning Taiwanese stinky tofu with Indonesian spices, creating a unique "spice stinky tofu."
-
-**Curry fried chicken cutlets**:
-Taiwanese fried chicken cutlets topped with Indonesian-style curry sauce, a creative fusion dish.
-
-## Social and Cultural Impact of New Resident Cuisine
+## Socio-Cultural Impact of New Resident Cuisine
 
 ### Changing Taiwanese Dietary Habits
 
-The popularity of new resident cuisine has gradually changed Taiwanese people's eating habits and taste preferences.
+The popularization of new resident cuisine has gradually changed the dietary habits and taste preferences of Taiwanese people.
 
-**Increased acceptance of spices**:
-More and more Taiwanese people begin to accept and love Southeast Asian spices such as herbs, lemongrass, and lemongrass leaves.
+**Increased Acceptance of Spices**:
+More and more Taiwanese people have begun to accept and enjoy Southeast Asian spices such as herbs, lemongrass, and kaffir lime leaves.
 
-**Popularization of sour and spicy flavors**:
-Thai sour and spicy soup, Vietnamese sour and spicy rice noodles, and other sour and spicy dishes have become new favorites of many Taiwanese people.
+**Popularity of Spicy and Sour Flavors**:
+Spicy and sour dishes like Thai _Tom Yam_ and Vietnamese spicy and sour noodles have become favorites among many Taiwanese people.
 
-**Healthy eating concepts**:
-Southeast Asian cuisine uses a lot of fresh vegetables and herbs, promoting Taiwanese people's attention to healthy eating.
+**Health Consciousness in Diet**:
+Southeast Asian cuisine's heavy use of fresh vegetables and herbs has promoted awareness among Taiwanese people regarding healthy eating.
 
 ### Promoting Multicultural Understanding
 
 New resident cuisine has become an important window for Taiwanese society to understand Southeast Asian culture.
 
-**Cultural exchange**:
-Through tasting new resident cuisine, Taiwanese people have a deeper understanding and recognition of Southeast Asian culture.
+**Cultural Exchange**:
+By tasting new resident dishes, Taiwanese people have gained a deeper understanding and recognition of Southeast Asian culture.
 
-**Eliminating prejudice**:
-The charm of food helps eliminate some cultural prejudices, promoting mutual understanding and integration between different ethnic groups.
+**Reducing Prejudices**:
+The charm of food helps eliminate some cultural prejudices and promotes understanding and integration among different ethnic groups.
 
-**Language learning**:
-Many Taiwanese people, because they love new resident cuisine, begin to learn simple Vietnamese, Thai, and other languages.
+**Language Learning**:
+Many Taiwanese people have started learning simple Vietnamese or Thai because they love the cuisine.
 
 ### Economic Impact
 
-The development of the new resident cuisine industry has also brought important economic impacts.
+The development of the new resident cuisine industry has also brought significant economic benefits.
 
-**Employment opportunities**:
-New resident cuisine restaurants provide important employment opportunities for new residents, and also cultivate related industry talents.
+**Employment Opportunities**:
+New resident restaurants provide important employment opportunities for new residents. Ms. Song (宋氏梅) worked in Taiwan after graduating from high school in Hanoi, and she settled there after meeting her husband. She sold Hanoi rice noodles at an old eatery in Liuying, Tainan; initially, she struggled with gas leaks and refrigerator breakdowns, and no matter how good the taste was, she couldn't retain customers. In 2019, she was selected for the 5th "Dream Building Project for New Residents and Their Children" by the National Immigration Agency, which provided subsidies to improve the store's facilities and set up a culinary classroom, and she also received an appointment as a Vietnamese language teacher at a private middle school in Tainan [^8].
 
-**Tourism benefits**:
-Unique new resident cuisine has become a new highlight of Taiwan tourism, attracting international tourists to come and taste.
+**Tourism Benefits**:
+Unique new resident cuisine has become a new highlight for tourism in Taiwan, attracting international visitors to taste.
 
-**Import and export trade**:
-The demand for new resident cuisine has driven the import trade of Southeast Asian ingredients and seasonings.
+**Import and Export Trade**:
+The demand for new resident cuisine has driven the import trade of Southeast Asian ingredients and spices.
 
-## Cultural Inheritance and Innovation of the Second Generation of New Residents
+## Cultural Inheritance and Innovation by New Resident Second Generation
 
-### Complexity of Cultural Identity
+### The Complexity of Cultural Identity
 
-The second generation of new residents (children of new residents) face complex choices in cultural identity. They are both Taiwanese and inherit the cultural heritage of their mothers' hometowns. In food culture, this complex identity has given birth to many innovations.
+The second generation of new residents (the children of new residents) faces complex choices regarding cultural identity. They are Taiwanese, yet they also inherit the cultural lineage of their mothers' homelands. In food culture, this complex identity has spurred many innovations.
 
-**Language advantage**:
-The second generation of new residents often speak fluent Chinese and their mother's native language, giving them unique communication advantages when operating new resident restaurants.
+**Language Advantage**:
+Second-generation new residents often speak fluent Chinese and their mother tongue, giving them a unique communication advantage when running new resident restaurants.
 
-**Creative thinking**:
-Growing up in a multicultural environment, the second generation of new residents often has more open thinking in culinary innovation.
+**Innovative Mindset**:
+The second generation, who grew up in multicultural environments, often possess a more open mindset regarding culinary innovation.
 
-### New Generation of Innovative Dishes
+### Promotion of Cultural Education
 
-**Ms. Lin's Sino-Vietnamese fusion restaurant**:
-Ms. Lin, the daughter of a Vietnamese new resident, opened a Sino-Vietnamese fusion restaurant in Taipei. She combines Taiwan's night market culture with Vietnamese street snacks, creating innovative dishes like "Vietnamese-style pepper cakes" and "Taiwanese-style spring rolls."
+Many second-generation new residents have begun to take on the responsibility of cultural education, promoting Southeast Asian food culture through cooking classes and cultural activities.
 
-**Ah Ming's Thai-style breakfast shop**:
-Ah Ming, the son of a Thai new resident, combines Thai cuisine with Taiwan's breakfast culture, launching fusion breakfasts like "Thai-style egg pancakes" and "lemongrass soy milk."
+**Culinary Teaching**:
+Southeast Asian cuisine courses are offered, teaching Taiwanese people how to make authentic Southeast Asian dishes.
 
-### Cultural Education Promotion
-
-Many second-generation new residents have begun to take on the responsibility of cultural education, promoting Southeast Asian food culture through cooking courses, cultural activities, and other ways.
-
-**Cooking teaching**:
-Offering Southeast Asian cooking courses, teaching Taiwanese people how to make authentic Southeast Asian dishes.
-
-**Cultural activities**:
-Participating in school and community multicultural activities, promoting their mothers' hometown cultures through food displays.
+**Cultural Activities**:
+They participate in multicultural events at schools and communities, promoting their mothers' homelands' cultures through food exhibitions.
 
 ## Challenges and Future Prospects
 
-### Main Challenges
+### Major Challenges
 
-**Supply chain issues**:
-Many Southeast Asian specialty ingredients still need to rely on imports, with high costs affecting the price competitiveness of the dishes.
+**Ingredient Supply Chain**:
+Many characteristic Southeast Asian ingredients still rely on imports, leading to high costs that affect the competitiveness of the cuisine.
 
-**Skill inheritance**:
-Some traditional manufacturing techniques are at risk of being lost, requiring systematic inheritance mechanisms.
+**Skill Inheritance**:
+Some traditional production techniques face the risk of being lost and require systematic inheritance mechanisms.
 
-**Market acceptance**:
-Although new resident cuisine is widely popular, in some regions or age groups, the acceptance rate still needs to be improved.
+**Market Acceptance**:
+Although new resident cuisine is widely popular, acceptance levels still need improvement in certain regions or age groups.
 
-**Commercialization pressure**:
-Over-modifying traditional flavors to meet market demands may lose the original cultural characteristics.
+**Commercialization Pressure**:
+Over-altering traditional flavors to meet market demands may cause them to lose their original cultural characteristics.
 
 ### Development Opportunities
 
-**Policy support**:
-Government support policies for multiculturalism provide a good environment for the development of new resident cuisine.
+**Policy Support**:
+Government policies supporting multiculturalism provide a favorable environment for the development of new resident cuisine.
 
-**High acceptance by young people**:
-The younger generation has higher acceptance of foreign cuisine, providing broad market space for new resident cuisine.
+**High Acceptance by Younger Generations**:
+Younger generations have a higher acceptance rate for foreign cuisines, providing a vast market space for new resident cuisine.
 
-**Integration with tourism industry**:
-New resident cuisine can be deeply integrated with Taiwan's tourism industry, becoming an important content of cultural tourism.
+**Integration with Tourism Industry**:
+New resident cuisine can be deeply integrated with Taiwan's tourism industry to become an important element of cultural tourism.
 
-**Internationalization trend**:
-With the development of globalization, Taiwan as a base for the integration of Southeast Asian cuisine has the potential to export to other countries.
+**International Trends**:
+With the development of globalization, Taiwan has the potential to export its fusion of Southeast Asian cuisine to other countries as a base for regional flavors.
 
 ### Future Outlook
 
-**Professional development**:
-In the future, more professional new resident cuisine restaurants will emerge, providing more refined services and more authentic flavors.
+**Professional Development**:
+More professional new resident restaurants will emerge in the future, offering more refined services and more authentic tastes.
 
-**Chain operation**:
-Some successful new resident restaurant brands will develop chain operations to expand market influence.
+**Chain Operation**:
+Some successful new resident restaurant brands will develop into chain operations, expanding their market influence.
 
-**Local cultivation of ingredients**:
-With increasing demand, some Southeast Asian vegetables and spices will be locally cultivated in Taiwan to reduce costs.
+**Local Ingredient Sourcing**:
+As demand increases, some Southeast Asian vegetables and spices will be grown locally in Taiwan, reducing costs.
 
-**Cultural education function**:
-New resident restaurants will take on more cultural education functions, becoming important venues for multicultural exchanges.
+**Cultural Education Function**:
+New resident restaurants will take on more cultural educational functions, becoming important places for multicultural exchange.
 
-**Innovative fusion dishes**:
+**Innovative Fusion Cuisine**:
 The second generation of new residents will create more Southeast Asian fusion dishes with Taiwanese characteristics, forming a unique "Taiwanese-flavored Southeast Asian cuisine."
 
-## Conclusion: Cultural Integration Through Taste
+## Conclusion: The Cultural Fusion of Taste
 
-The development of Taiwan's new resident cuisine is a touching story about cultural integration and innovation. It tells us that the inheritance of culture is not static replication, but creative adaptation in new environments.
+The development of new resident cuisine in Taiwan is a moving story of cultural fusion and innovation. It tells us that cultural inheritance is not static replication but creative adaptation within a new environment.
 
-When Vietnamese aunties use Taiwanese cabbage to make sweeter spring rolls, when Thai daughters-in-law use Taiwanese pork to make milder Pad Krapow Moo, when Indonesian sisters adjust curry with Taiwanese chili peppers to suit local tastes, they are not betraying their hometowns' traditions, but creating new traditions for Taiwan.
+When Vietnamese sisters wrap sweeter spring rolls with Taiwanese cabbage, when Thai daughters make milder _Pad Krapow_ using Taiwanese pork, and when Indonesian sisters season curry with Taiwanese chilies for better local palates, they are not betraying their homeland's traditions; they are creating a new tradition belonging to Taiwan.
 
-This integration is bidirectional. While Taiwanese people accept new resident cuisine, they are also changing their own eating culture. Today's Taiwanese cuisine is no longer the Taiwanese cuisine of 20 years ago. It has become more diverse, richer, and more internationalized.
+This fusion is two-way. As Taiwanese people accept new resident cuisine, they are also changing their own food culture. Today's Taiwanese cuisine is no longer the cuisine of 20 years ago. It has become more diverse, richer, and more internationalized.
 
-The development of new resident cuisine in Taiwan demonstrates the inclusiveness and creativity of Taiwanese society. It proves that communication between different cultures is not a zero-sum game, but can create the beauty of "1+1>2."
+The development of new resident cuisine in Taiwan demonstrates the inclusiveness and creativity of Taiwanese society. It proves that the exchange between different cultures is not a zero-sum game but can create beautiful results where "1+1>2."
 
-In the future, with the growth of more second-generation new residents and the emergence of more innovative dishes, Taiwan's new resident food culture will continue to develop and evolve. It will become an important symbol of Taiwan's multiculturalism, and will add more colors and possibilities to Taiwan's food culture.
+In the future, with the growth of more second-generation new residents and the appearance of more innovative dishes, Taiwanese new resident cuisine culture will continue to develop and evolve. It will become an important symbol of Taiwan's multiculturalism and add more color and possibilities to its food culture.
 
-In this era of globalization, the story of Taiwan's new resident cuisine also provides a successful model for cultural integration in other countries. It tells us that an open mind and innovative spirit can allow different cultures to bloom into more beautiful flowers on new land.
+In this globalized era, the story of new resident cuisine in Taiwan also provides a successful model of cultural fusion for other countries. It teaches us that an open mind and a spirit of innovation can allow different cultures to bloom even more beautifully on new soil.
 
 ---
 
-## Extended Reading
+## Further Reading
 
-## Extended Reading
+- [Taiwanese Military Family Village Cuisine](/en/food/military-dependents-village-cuisine) — The _migans_ and Yunnan-Burmese flavors of Zhongzhen Market are brought by another group of migrants who retreated to Taiwan during the war.
+- [International Migrant Workers](/en/society/migrant-workers-in-taiwan) — The Southeast Asian commercial districts around Taoyuan Post Station and Taipei Station mainly cater to migrant workers.
+- [Taiwanese Ethnic Groups](/en/culture/ethnic-groups) — The position of new residents within the tapestry of Taiwanese ethnic groups.
 
-1. Ministry of the Interior's statistics on new residents
-2. Survey report on Taiwanese Southeast Asian cuisine restaurants
-3. Collection of academic papers on new resident food culture
-4. Interviews with new resident community organizations
-5. Research on the cultural identity of the second generation of new residents
+## References
+
+[^1]: [Ankang Community in Muzha, formerly a major hub for Vietnamese overseas Chinese, hosts two generations of Vietnamese immigrants](https://news.pts.org.tw/article/759911) — CCTV News Network, July 8, 2025; Ankang community's Vietnamese communities in the 1980s, "Vietnam Street," and Xin Shih-ping's noodle stall.
+
+[^2]: [Marriage Migration Research Report compiled by the National Immigration Agency (Chapter 1 Introduction)](https://ifi.immigration.gov.tw/wSite/public/Data/f1595471755452.pdf) — Citing NIS statistics: marriage migration proportion was 31.86% in 2003; over 130,000 new migrant women from Southeast Asia as of the end of May 2012, with Vietnamese nationals at 66.29%.
+
+[^3]: [Zhongzhen New Village](https://zh.wikipedia.org/zh-tw/忠貞新村) — Wikipedia; built for military dependents who retreated to Taiwan in 1954, with many families from Yunnan, Thailand, and Myanmar; demolished in early 2005.
+
+[^4]: [Little Mi's Delicious Adventure Squad: I met Southeast Asian food on Yanping Road in Taoyuan](https://newtalk.tw/plan/view/281) — New Headline Special Project; Vietnamese _pho_ shops and Southeast Asian stores on Yanping Road in Taoyuan, catering mainly to Vietnamese migrant workers.
+
+[^5]: [A Study on Cross-Cultural Diet and Micro-Entrepreneurship by New Residents](https://www.immigration.gov.tw/media/99111/f1620973076749.pdf) — Research report sponsored by the New Resident Development Fund (Principal Investigator Wang Bao-xi), Department of Food and Beverage Management at Cheng-Hsi University, December 2020.
+
+[^6]: [Wacheng Thai Tong Group](https://zh.wikipedia.org/zh-tw/瓦城泰統集團) — Wikipedia; founded in 1990 by Xu Ching-yi et al., opening the first Wacheng Thai Cuisine that same year.
+
+[^7]: [foodpanda reveals Taiwan's latest dining map: Southeast Asian cuisine sales exceed NT$700 million annually, Pad Krapow, Pho, and Green Curry take the top spots](https://www.foodnext.net/news/industry/paper/6731134852) — Foodly foodNEXT; foodpanda statistics for 2025 and the number of new resident stores on the platform.
+
+[^8]: [Sending Parental Love to Homeland Cuisine: NIS Dream Building Project Helps New Residents Fulfill Dreams](https://www.taiwannews.com.tw/zh/news/3661365) — Taiwan English News, March 19, 2019; Ms. Song's Hanoi rice noodle stall in Liuying, Tainan.
 
 ## Image Sources
 
-- Hero: Vietnamese pho, photographed by Tayzar44, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pho,_popular_Vietnamese_noodle_soup.jpg), CC BY 4.0.
+- Hero: Vietnamese Pho, Photo by Tayzar44, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pho,_popular_Vietnamese_noodle_soup.jpg), CC BY 4.0.

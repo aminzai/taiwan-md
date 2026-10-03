@@ -1,20 +1,20 @@
 ---
-title: "Islands and Maritime Culture: From World's Densest Fish Weirs to Flying Fish Season Laws"
-description: 'Less than 600 stone fish weirs exist worldwide—Penghu alone has 574+. A fish-catching island people turned taboos into the most precise ocean resource management system on Earth'
+title: 'Offshore Islands and Marine Culture: From Penghu Stone Weirs to Lanyu Flying Fish Season'
+description: "About 95% of the world's stone weirs are concentrated in Penghu, with 592 surveyed in 2008–2009. In the Tao (Yami) people's flying fish season taboos on Lanyu, some provisions happen to create a closed season for reef fish during their spawning period. From Penghu and Lanyu to Kinmen, Matsu, Xiaoliuqiu, and Green Island, Taiwan's offshore islands have written three centuries of marine life into stone, boats, and taboos."
 date: 2026-03-22
 category: 'Geography'
 tags:
   [
-    'islands',
-    'maritime culture',
+    'Offshore Islands',
+    'Marine Culture',
     'Penghu',
     'Kinmen',
     'Matsu',
     'Green Island',
-    'Orchid Island',
+    'Lanyu',
     'Xiaoliuqiu',
-    'stone weirs',
-    'flying fish season',
+    'Stone Weirs',
+    'Flying Fish Season',
   ]
 subcategory: '島嶼與海洋'
 author: 'Taiwan.md'
@@ -23,226 +23,246 @@ featured: true
 lastVerified: 2026-03-22
 lastHumanReview: false
 translatedFrom: 'Geography/離島與海洋文化.md'
-sourceCommitSha: '217edf31a'
-sourceContentHash: 'sha256:61916e4f91798262'
-sourceBodyHash: 'sha256:b069d77bfe98ff54'
-translatedAt: '2026-08-05T16:56:36.719519+00:00'
+sourceCommitSha: '7ad70728d'
+sourceContentHash: 'sha256:3c540cfd32577b2a'
+sourceBodyHash: 'sha256:6adfa5c6ea8f6a2d'
+translatedAt: '2026-10-04T00:51:57+08:00'
 ---
 
-> **30-Second Overview:** Fewer than 600 stone fish weirs (ancient fishing traps) exist worldwide—Penghu alone has 574+, boasting the world's highest density. On Orchid Island, the Tao people developed flying fish season "taboos" into Earth's most precise ocean resource management system—not superstition, but science. These islands aren't Taiwan's periphery; they're museums of human maritime wisdom.
+> **30-Second Overview:** About 95% of the world's stone weirs (ancient intertidal fish traps) are concentrated in Penghu, with 592 counted in the 2008–2009 survey. On Lanyu, the Tao (Yami) people's flying fish season includes a complete system of taboos; researchers have found that some of these have resource-management effects — for example, the prohibition on catching reef fish during the flying fish season happens to give spawning reef fish a fallow period. These offshore islands are not merely Taiwan's frontiers; they are museums of human marine wisdom.
 
-In 1950, stone weirs accounted for 77% of Penghu County's total fishery output. In an era without mechanized boats, these "ocean mazes" built from dry-stacked basalt and coral became the archipelago's economic lifeline.
+In 1950, stone weirs accounted for 77% of Penghu County's total fishery production value[^1]. That was an era without motorized fishing vessels; these "sea labyrinths" dry-stacked from basalt and coral reef were the economic lifeline of the entire archipelago.
 
-A local saying went: "No weir, no house; no house, no wife." Without stone weirs, there was no livelihood, no way to marry and establish a family. Stone weirs carried the same property status as fields and houses—they could be mortgaged, traded, or inherited. A well-built stone weir could trap hundreds or even thousands of pounds of fish in a single tidal cycle.
+In that resource-scarce era, having no stone weir meant having no livelihood tool, unable to marry or establish a household. Stone weirs possessed the same real-property attributes as fields and houses — they could be pawned, mortgaged, bought, sold, and even served as objects of inheritance division, as well as benchmarks for marriage alliances and social standing. In peak harvest years, a well-built stone weir could often catch hundreds or even thousands of catties of fish in a single tidal cycle[^1].
 
 > **📝 Curator's Note**
-> Penghu absolutely dominates global stone weir density. Along 320 kilometers of coastline, excluding ports and areas too deep for construction, nearly 600 weirs spread across suitable waters. This isn't coincidence—it's the pinnacle of three centuries of human-ocean symbiosis wisdom.
+> Penghu's 320 km of coastline, minus harbors and areas too deep for weir construction, still hosted nearly 600 stone weirs[^1]. This is no coincidence — it is the ultimate expression of three centuries of human–ocean symbiotic wisdom.
 
-## Penghu Stone Weirs: Three Centuries of Ocean Architecture
+## Penghu Stone Weirs: Three Centuries of Marine Architecture
 
-### Older Than Wikipedia: Ancient Fishing Technology
+### Fisheries Technology Older Than Wikipedia
 
-Stone weirs have a more ancient history than we imagine. Penghu's earliest weir records appear in the 1696 "Taiwan Prefecture Gazetteer" by Gao Gongqian: "Penghu has... 2 large weirs, 20 small weirs... paying miscellaneous taxes." By the 1893 "Penghu Prefecture Gazetteer," records showed "2 large weirs, 76.5 small weirs."
+The history of stone weirs is far older than we imagine. The earliest record of Penghu stone weirs appears in the 35th year of the Kangxi reign (1696) in the _Taiwan Prefecture Gazetteer_ compiled by Gao Gongqian: "Penghu has… two large weirs, twenty small weirs… paying miscellaneous taxes." By the 19th year of the Guangxu reign (1893), the _Penghu Subprefecture Gazetteer_ recorded "two large weirs, 76.5 small weirs."
 
-What's a "half weir"? Historical documents don't specify, but field research suggests these were weirs damaged by typhoons or waves, retaining only partial function.
+What is a "half weir"? The documents do not explain[^1], and it remains a mystery to this day.
 
-**The time span is more striking.** Local historian Hong Guoxiong's 1999 survey documented 558 weirs countywide in Penghu, plus 16 missed in initial surveys—totaling 574+ weirs. The latest 2009 survey pushed this to 592 weirs.
+**Even more astonishing is the time span.** A 1999 survey by Penghu local historian Hong Guo-xiong showed 558 stone weirs county-wide, plus 16 supplementary entries for a total of 574 or more. The 2008–2009 field survey of remaining areas pushed the number to 592; adding oral traditions of weirs whose traces can no longer be found, Penghu's stone weirs likely exceed 600[^1].
 
-### Global Stone Weir Distribution: Penghu's Stunning Density
+### Global Distribution of Stone Weirs: Penghu's Astonishing Density
 
-Stone fish weirs are ancient fishing structures found globally—in Japan, Korea, Philippines, Thailand, Australia, Hawaii, even Britain and America. **But worldwide totals are under 600 weirs.**
+Stone weirs (stone fish weirs) are an ancient fishery/hunting structure found worldwide — in Japan, Korea, the Philippines, Thailand, Australia, Hawai'i, and even the United Kingdom and United States. **But about 95% of the world's stone weirs are concentrated in Penghu**[^2].
 
-What does this mean? Penghu archipelago's weir count nearly equals the rest of the world combined.
+By island, Jibei Island has long been known as the "home of stone weirs"; a 2006 survey found 92 weirs around its perimeter, the most of any Penghu island. Qimei Island's Twin-Heart Stone Weir is only a single weir, but because a nearby cliff provides a perfect viewing platform, it has earned the title "the most beautiful cultural landscape on Earth"[^1].
 
-Density calculations are even more striking: Jibei Island has at least 109 surrounding weirs, earning its ancient title "Hometown of Stone Weirs"—the world's highest stone weir density per island. Qimei Island's Twin Hearts Stone Weir, though singular, earned the title "Earth's Most Beautiful Cultural Landscape" due to its unique twin-heart design and stunning viewing position.
+> **💭 An Unverified Hypothesis**
+> Why does Penghu have so many stone weirs? The Ministry of Culture's World Heritage Potential Sites introduction speculates that stone weir culture may be one of the common features of Austronesian fishing culture, but also notes "further evidence is needed to support this"[^1].
 
-> **⚠️ Key Controversy**
-> Why is Penghu's stone weir density so extraordinary? Scholars theorize high correlation with Austronesian migration routes. Stone weirs may be common Austronesian maritime cultural features, with Penghu as this cultural sphere's central node.
+### Seven Prerequisites for Stone Weir Construction
 
-### Seven Essential Conditions for Stone Weir Construction
+Not every place can build stone weirs. According to the Ministry of Culture's compilation, stone weir development requires seven elements simultaneously[^1]:
 
-Not every location can support stone weirs. Research identifies seven simultaneous requirements:
+1. **Construction materials**: basalt, gravel, or coral reef
+2. **Sufficient tidal range**: using the rise and fall of tides to trap fish schools
+3. **Strong wind and waves**: fish schools readily enter weirs for shelter
+4. **Extensive reef flats**: fish schools trapped in the intertidal zone at low tide
+5. **Migratory fish species**: providing sufficient economic incentive
+6. **Adequate labor**: weir construction takes years, even a decade or more
+7. **Management system**: customary agreements on benefit distribution and repair responsibilities
 
-1. **Construction Materials**: Basalt, gravel, or coral reef
-2. **Adequate Tidal Range**: Utilizing tide principles to trap fish
-3. **Strong Waves**: Fish seek shelter inside weirs
-4. **Extensive Reef Platforms**: Fish remain trapped during low tide
-5. **Migratory Fish Species**: Providing sufficient economic incentive
-6. **Sufficient Labor**: Weir construction takes years or decades
-7. **Management Systems**: Established profit-sharing and maintenance responsibilities
+Penghu happens to possess all seven conditions, especially its basalt geology and monsoon climate, which provide an ideal natural environment for stone weirs.
 
-Penghu meets all seven conditions perfectly, especially with basalt geology and monsoon climate providing ideal natural environments for stone weirs.
+## Lanyu Tao (Yami): Turning Taboos into Ecological Science
 
-## Orchid Island's Tao People: Turning Taboos into Ecological Science
+If Penghu stone weirs represent the pinnacle of marine architecture, Lanyu's flying fish season is a paradigm of marine ecology.
 
-If Penghu stone weirs represent ocean architecture's pinnacle, Orchid Island's flying fish season exemplifies marine ecology mastery.
+### The Flying Fish Season Is Not a Festival, It Is a Legal System
 
-### Flying Fish Season: Not Festival, But Legal System
+Every spring, the Kuroshio Current brings flying fish to Lanyu waters, and the Tao people enter the flying fish season: rituals begin with the Fish-Calling Festival in February and continue until around October[^3]. But this is not merely a fishing season — it is a complete marine resource management system.
 
-Every February through June, when the Kuroshio Current brings flying fish to Orchid Island waters, the Tao people enter flying fish season. But this isn't merely fishing season—it's a comprehensive ocean resource management system.
+**The Tao people's flying fish season has an entire system of taboos**[^3]:
 
-**Tao flying fish season involves complex "taboos" (pansin):**
-
-- Women cannot touch plank boats, especially during fishing periods
-- No bringing oranges to the beach (affects fishing success)
-- Specific periods ban swimming or diving in village waters
-- Different months correspond to different fishing methods and target species
+- Women do not participate in flying fish season rituals, nor touch fishing gear or boats
+- Do not bring oranges onto the island during the flying fish season
+- Diving, swimming, and angling are permitted only in specific waters
+- Different periods correspond to different fishing methods and target species
 
 > **💡 Did You Know**
-> These "taboos" actually constitute the world's most precise ocean resource management system. Women not touching boats prevents foreign scents from affecting fish; citrus scents genuinely repel certain fish species; staged fishing ensures flying fish reproductive cycles remain undisturbed.
+> The reasons behind these taboos are not necessarily what outsiders imagine. In the Tao language, "orange" sounds similar to "no fish"; bringing oranges onto the island is believed to take away the luck of the catch[^3][^4]; women's taboos relate to the flying fish being a sacred species and associations with misfortune[^4]. But some taboos do have ecological effects: during the flying fish season, gillnets, spearguns, and fishing rods cannot be used to catch other species (mainly reef fish); any bycatch must be released; and March through May of the flying fish season is precisely the reef fish spawning season — effectively creating a closed season for spawning reef fish[^4].
 
-### Plank Boats: Shipbuilding Craft Without a Single Nail
+### Plank Boats: A Shipbuilding Craft Without a Single Nail
 
-The Tao people's plank boats (tatala) are shipbuilding marvels. Entire vessels use zero nails, purely mortise-and-tenon construction. Each boat features unique traditional pattern paintings symbolizing tribal identity.
+The Tao people's plank boats (_Tatala_) are a marvel of world shipbuilding, assembled from multiple wooden planks. Every boat bears unique traditional painted patterns symbolizing tribal identity.
 
-More remarkable are strict usage hierarchies:
+Plank boats are divided into two categories by size[^5]:
 
-- **One-person boats (tatala)**: Individual coastal fishing
-- **Six-person boats (chinedkeran)**: Offshore flying fish catching
-- **Ten-person boats (chinitaotao)**: Highest level, requiring whole tribal cooperation
+- **Small plank boats (_Tatala_)**: one-, two-, and three-person boats; the three-person boat is about 3 meters long
+- **Large plank boats (_Cinedkeran_)**: six-person (_Atlo so avat_), eight-person (_Apat so avat_), ten-person (_Alima so avat_); the ten-person boat is about 7 meters long, and each fishing team uses it as its unit
 
-Every boat launch involves complex traditional ceremonies: blessings, naming, completion of hull paintings.
+The launch of every boat involves complex traditional rituals, including blessings, naming, and a completion ceremony for the hull paintings.
 
-### From Superstition to Science: Paradigm Shift
+### A Paradigm Shift from Superstition to Science
 
-Outsiders long dismissed Tao flying fish season "taboos" as superstition. But marine biologists recently discovered this system's stunning scientific accuracy:
+For a long time, outsiders dismissed the Tao people's flying fish season taboos wholesale as superstition. Researchers take a more nuanced view: some taboos have ecological conservation effects (e.g., controlling fishing effort), while others may simply be superstition[^4].
 
-**Specific Ecological Wisdom Manifestations:**
+A 2019 study published in _Marine Policy_ examined Tao flying fish culture using five criteria for effective resource management, concluding that this local knowledge meets those criteria and has a theoretical basis for managing Lanyu's marine and fishery resources; however, inappropriate government policies, modern technology, education, and the market economy are also changing it[^4][^6]. A 2020 follow-up study, based on interviews with islanders in 2014 and 2015, classified the flying fish culture's taboos item by item for the first time and estimated the whole island's annual flying fish catch at roughly 260,000 to 280,000 fish[^4].
 
-- Staged fishing aligns with flying fish life cycles
-- Fishing method choices avoid seafloor ecosystem damage
-- Seasonal fishing bans in certain areas protect fish breeding grounds
-- Traditional calendars highly match modern marine science tidal cycles
+## Kinmen: How 36 Years of Military Administration Shaped a Society
 
-In 2019, marine scholars published research in _Marine Policy_ journal, recognizing Tao flying fish season systems as exemplary "indigenous marine knowledge systems" worthy of modern fishery management reference.
+### An Anthropological Experiment in Wartime Governance
 
-## Kinmen: How 36 Years of Military Rule Shaped a Society
+From 1956 to 1992, Kinmen implemented 36 years of battlefield administration[^7]. This was not merely military control but an unprecedented social experiment — how to completely militarize an island society.
 
-### Wartime Administration's Anthropological Experiment
+**Comprehensive control under battlefield administration:**
 
-From 1956-1992, Kinmen implemented 36 years of wartime administration. This wasn't merely military control but an unprecedented social experiment: how to completely militarize an island society?
+- "Control, educate, provide for, hygiene" all operated through the military administration system
+- Food, clothing, housing, transportation, and other daily life were all regulated
+- All residents had to cooperate with military exercises at any time
+- Entry and exit required special permits
 
-**Wartime Administration's Comprehensive Control:**
+The result? A unique "battlefield culture": dense military facilities, anti-airborne landing stakes covering the whole island, "Retake the Mainland" slogans, and collective memories deeply branded into several generations of Kinmen people.
 
-- "Management, Education, Support, Defense" all operated through military systems
-- Daily life aspects—food, clothing, housing, transport—all regulated
-- All residents required to cooperate with military exercises
-- Island entry/exit required special permits
+### Unexpectedly Preserved Hoklo Architectural Clusters
 
-The result? A unique "wartime culture": dense military installations, island-wide anti-paratrooper stakes, "Retake the Mainland" slogans, and collective memories deeply imprinted on several generations of Kinmen residents.
+Kinmen preserves many intact traditional Hoklo (Southern Min) architectural clusters.
 
-### Accidentally Preserved Minnan Architecture
-
-While wartime administration restricted economic development, it accidentally preserved Taiwan's most complete traditional Minnan architectural complexes.
-
-**Shanhou Folk Culture Village** exemplifies this: 18 Minnan buildings following mountain terrain, featuring swallow-tail curved ridges, horse-back gable walls, and exquisite stone and wood carvings showcasing peak Minnan architectural craftsmanship. These buildings, constructed 1876-1900 by overseas merchant Wang Guozhen and son Wang Jingxiang, represent "remittance architecture."
+**Shanhou Folk Culture Village** is the classic example: 18 buildings sit against the mountain facing the sea in a checkerboard layout, adopting the traditional Hoklo two-courtyard design, with walls of Quanzhou white stone, complemented by _jiaozhi_ pottery, colored paintings, stone carvings, and brick carvings, showcasing Hoklo architectural craftsmanship. These buildings were funded and built between 1876 and 1900 by the Japan-based overseas Chinese leaders Wang Guo-zhen and his son Wang Jing-xiang, and distributed to Wang clan members for residence[^8].
 
 > **📝 Curator's Note**
-> Kinmen's "remittance architecture" represents unique cultural phenomena. During the 19th-early 20th centuries, many Kinmen merchants became wealthy in Southeast Asia, then returned home to build mansions combining Western and Minnan styles. Shanhou Village's mansion clusters are cross-cultural architectural masterpieces.
+> Kinmen's overseas Chinese architecture is a very special cultural phenomenon. In the mid-to-late Qing dynasty, many Kinmen people, facing hardship, "went abroad" (_guo fan_), heading to Southeast Asia or crossing to Japan, then sending remittances home[^9]. Wang Guo-zhen of Shanhou did business in Kobe, Japan[^9], yet his house was built as an authentic Hoklo two-courtyard mansion; Kinmen also has the Chen Jing-lan Western-style mansion, which combines Western and Hoklo styles — another form left by the same stream of remittances.
 
-### Sorghum Wine Culture's Unexpected Success
+### The Unexpected Success of Kaoliang Liquor Culture
 
-During wartime administration, Kinmen Distillery became an important economic pillar. Using Kinmen's quality groundwater and mainland-imported sorghum, they produced world-renowned baijiu.
+During battlefield administration, the Kinmen Distillery became a crucial economic pillar. In 1952, General Hu Lien built the distillery and implemented a "sorghum for rice" policy encouraging residents to grow sorghum: one catty of sorghum exchanged for one catty of white rice. Sorghum production rose from 298 metric tons in 1954 to nearly 6,600 metric tons in 1991[^10].
 
-**Interestingly**, Kinmen sorghum wine's success was half due to military restrictions. With limited off-island sales channels, the distillery focused on quality improvement. Post-martial law market opening immediately made it Taiwan's most popular baijiu brand.
+**Interestingly**, Kinmen kaoliang liquor long could not enter the Taiwan market: the Taiwan Tobacco and Liquor Monopoly Bureau long monopolized tobacco and alcohol, and the distillery's warehouses once piled high with inventory. The factory manager at the time repackaged five-year-old stock as "Black Diamond" aged kaoliang. Only after 1992, when restrictions on Kinmen and Matsu liquor sales to Taiwan were relaxed, did Kinmen kaoliang come to dominate Taiwan's baijiu market[^10].
 
-## Xiaoliuqiu: World-Class Sea Turtle Density Miracle
+## Xiaoliuqiu: A World-Class Miracle of Sea Turtle Density
 
-### Why Aren't Sea Turtles Here Afraid of Humans?
+### Why Are the Sea Turtles Here Unafraid of Humans?
 
-Xiaoliuqiu boasts the nickname "Turtle Island." According to National Taiwan Ocean University research, average sea turtle numbers reach hundreds, ranking among world leaders in density. The probability of snorkeling without seeing turtles is extremely low, with Mermaid Cave having highest turtle density.
+Xiaoliuqiu enjoys the reputation of "Sea Turtle Island" and is a designated important habitat for green sea turtles by the Pingtung County Government; the Ocean Conservation Administration of the Ocean Affairs Council once observed 805 sea turtles via aerial survey[^11].
 
 **Why can Xiaoliuqiu retain so many sea turtles?**
 
-1. **Rich Food Sources**: Coral reef island fringing reefs nurture sea lettuce and sargassum—green turtle staples
-2. **Suitable Water Temperature**: Kuroshio Current branch maintains average 25°C+ water temperature
-3. **Fishing Protection**: 3-nautical-mile coastal gillnet ban dramatically reduces turtle bycatch risk
-4. **Island-wide Turtle Protection**: From plastic reduction to ocean-friendly sunscreen, creating harmonious human-nature coexistence
+1. **Abundant food sources**: The fringing reef topography of this coral reef island nurtures seaweed such as _Caulerpa_ and _Sargassum_, the staple diet of green sea turtles
+2. **Suitable water temperature**: Influenced by a branch of the Kuroshio Current, sea temperatures remain above 25 °C year-round[^11]
+3. **Fishing bans for protection**: Since 2013, gillnets have been prohibited within three nautical miles of the coast, and sea turtles gradually returned[^12]
+4. **Whole-island turtle-protection awareness**: From reducing plastics to reef-safe sunscreen, a unique landscape of harmonious human–nature coexistence has formed
 
-### NT$5,300 Distance Aesthetics
+### The Aesthetics of Distance at NT$300,000
 
-Xiaoliuqiu sea turtle conservation has a key number: **NT$5,300**. This is the minimum fine for touching or disturbing protected sea turtles (maximum NT$300,000).
+Xiaoliuqiu's sea turtle conservation has a key figure: **NT$300,000**. Under the Wildlife Conservation Act, harassing or abusing protected wildlife is punishable by up to one year imprisonment, detention, or a fine of NT$60,000 to NT$300,000[^13].
 
-This "distance aesthetics" isn't just legal requirement but Xiaoliuqiu ecotourism's core philosophy: **Watch them, photograph them, but absolutely don't touch them.** Maintaining this "friendly distance" makes Xiaoliuqiu one of few global locations for observing wild sea turtles at such close range.
+This "aesthetics of distance" is not just a legal requirement; it has become the core philosophy of Xiaoliuqiu's ecotourism: **watch them, photograph them, but absolutely do not touch them.** Maintaining this "friendly distance" has made Xiaoliuqiu one of the few places in the world where wild sea turtles can be observed at such close range.
 
-## Matsu Blue Tears: Bioluminescent Microorganism Spectacle
+## Matsu's Blue Tears: A Bioluminescent Wonder
 
-### From Military Frontline to Blue Wonderland
+### From Military Frontline to Blue Fairyland
 
-Matsu archipelago, located at Fujian's Min River mouth, was once the frontline of cross-strait military confrontation. Military facilities like Tunnel 88 and North Sea Tunnel showcase stunning underground engineering.
+The Matsu Islands lie at the mouth of the Min River in Fujian and were once the frontline of cross-Strait military confrontation. The Beihai Tunnel, the Tunnel 88, and other military facilities demonstrate astonishing underground engineering.
 
-But what truly made Matsu famous is the April-August "Blue Tears" phenomenon. When dinoflagellates in Matsu waters get agitated by wave action, they emit blue fluorescence, creating dreamlike "blue galaxies."
+But what truly made Matsu famous is "Blue Tears." Visible every year from April to September, with April to June being the prime window: the Min River discharges a large volume of freshwater at this time, bringing nutrient salts that cause massive growth of _Noctiluca scintillans_ (commonly called "blue tears" or "sea sparkle," a non-toxic dinoflagellate)[^14]. When struck by waves, these organisms emit blue fluorescence, creating a dreamlike "blue galaxy."
 
 > **⚠️ Ecological Controversy**
-> While Blue Tears are beautiful, they actually signal marine ecological imbalance. Massive dinoflagellate blooms often relate to eutrophication. Matsu is considering how to balance tourism development with ecological protection.
+> Although beautiful, blue tears are actually a warning sign of marine ecological imbalance. Massive _Noctiluca_ blooms are often associated with coastal eutrophication. Matsu is considering how to find a balance between tourism development and ecological protection.
 
-### Mindong Culture's Uniqueness
+### The Uniqueness of Eastern Min Culture
 
-Matsu culture differs greatly from mainland Taiwan. Matsu dialect belongs to Eastern Min linguistic family, completely different from Taiwanese (Southern Min). Religiously, Mazu worship is particularly prevalent—the name "Matsu" derives from Mazu.
+Matsu's culture differs greatly from Taiwan's main island. The Matsu dialect belongs to the Eastern Min language family, completely different from Taiwanese (Southern Min). Religiously, Mazu belief is especially盛行 — the place name "Matsu" itself comes from Mazu.
 
-Architectural styles are also distinctive: traditional granite-based buildings adapted to windy, rainy maritime climates. Unlike Kinmen's swallow-tail ridges, Matsu residences often use "fire-sealing gable walls" for superior wind resistance.
+Architectural style is also unique: traditional buildings primarily use granite, adapted to the windy, rainy island climate. Unlike Kinmen's swallow-tail roof ridges, Matsu residences mostly adopt "sealed gable walls" (_feng huo qiang_), which provide better wind resistance.
 
 ## Green Island: From Human Rights Trauma to Marine Restoration
 
-### Prison Island's Transitional Justice
+### The Prison Island's Transitional Justice
 
-Green Island, originally named Huoshao Island, was a political prisoner detention site during martial law. From 1951-1987, approximately 2,000 political prisoners were sent to Green Island's "New Life Guidance Center" and "Green Island Prison."
+Green Island, formerly called Fire-Burn Island, was a place of detention for political prisoners during the martial law period. From 1951 to 1965, political prisoners were sent to the Taiwan Provincial Security Command's "New Life Correction Center" for thought reform; at its peak there were 12 companies and one women's platoon, about 2,000 people[^15]; after the 1970 Taiyuan Incident, the Ministry of National Defense built the "Oasis Villa" Green Island Re-education Prison on the west side of the old site, and from 1972 began concentrating political prisoners from prisons around the country there[^16].
 
-Today, Green Island Human Rights Cultural Park preserves this White Terror history. Unlike typical historical exhibitions, this uses "first-person narratives" from political prisoners, helping visitors understand that era's terror and absurdity.
+Today, the White Terror Green Island Memorial Park (formerly Green Island Human Rights Culture Park) preserves this history[^16], allowing visitors to walk through the spaces where political prisoners lived and understand the terror and absurdity of that era.
 
-### Zhaori Hot Spring's Ocean Miracle
+### The Marine Miracle of Zhaori Hot Springs
 
-Green Island features rare seawater hot springs—Zhaori Hot Springs. Underground magma heats seawater, creating mineral-rich springs. Soaking in hot springs with the Pacific's endless blue on one side and Green Island's volcanic terrain on the other provides a "ocean-view hot spring" experience rare anywhere worldwide.
+Green Island has one of the world's few seabed hot springs — Zhaori Hot Springs. The spring source comes from seawater or groundwater from nearby waters that seeps underground and is heated by a volcanic magma chamber[^17]. Soaking in the hot spring, on one side lies the boundless blue of the Pacific, on the other Green Island's volcanic terrain — this "ocean-view hot spring" experience is rare worldwide.
 
-**Even more special is timing**: Zhaori Hot Springs' optimal time is 5-6 AM. As dawn's first light rises from the Pacific, you're soaking in warm seawater welcoming sunrise—probably Taiwan's most romantic sunrise experience.
+**Even more special is its orientation**: Zhaori Hot Springs faces the Pacific, toward the east where the sun rises, hence its name[^17]. When the first rays of dawn rise from the Pacific, you are soaking in warm seawater welcoming the sunrise — this is probably Taiwan's most romantic sunrise experience.
 
-## Marine Wisdom of the Outlying Islands: Inspiration for the Modern World
+## The Marine Wisdom of Offshore Islands: Inspiration for the Modern World
 
 ### Ancient Solutions for Sustainable Fisheries
 
-The Penghu stone fish weirs and Lanyu's flying fish season are both ancient practices of "sustainable fisheries." As modern fisheries face the crisis of overfishing, this traditional wisdom provides important inspiration:
+Penghu stone weirs and Lanyu's flying fish season are both ancient practices of "sustainable fisheries." As modern fisheries face the crisis of overfishing, these traditional wisdoms offer important inspiration:
 
-- **Seasonal Management**: Fishing strategies that align with the life cycles of fish species.
-  le
-- **Ecological Engineering**: Stone fish weirs use no artificial adhesives, representing some of the earliest forms of ecological engineering.
-- **Community Co-management**: The construction and maintenance of stone fish weirs require the cooperation of the entire community.
-- **Cultural Preservation**: Integrating fishery management into cultural traditions to increase compliance.
+- **Seasonal management**: fishing strategies aligned with fish life cycles
+- **Ecological engineering methods**: stone weirs use no artificial adhesives — the earliest ecological engineering
+- **Community co-management**: weir construction and maintenance require whole-community cooperation
+- **Cultural protection**: embedding fisheries management into cultural traditions to increase compliance
 
-### Climate Change Experiences of Small Island Nations
+### Small Island Nations' Climate Change Experience
 
-Facing the threat of rising sea levels, Taiwan's outlying islands provide precious experience in adaptation:
+Facing the threat of sea-level rise, offshore islands provide valuable adaptation experience:
 
-- **Diverse Energy**: Wind power in Matsu and solar energy systems in Penghu.
-- **Desalination**: Accumulated technical expertise in addressing freshwater shortages.
-- **Ecotourism**: Successful models of transitioning from traditional industries to sustainable tourism.
-- **Cultural Resilience**: How to preserve traditional culture throughout the process of modernization.
+- **Diverse energy**: Penghu's wind power and solar photovoltaics
+- **Seawater desalination**: technological accumulation solving freshwater scarcity
+- **Ecotourism**: successful models of transition from traditional industries to sustainable tourism
+- **Cultural resilience**: how to preserve traditional culture amid modernization
 
 ### The Global Significance of Island Thinking
 
-The experiences of Taiwan's outlying islands hold significant reference value for island nations worldwide. From Palau and the Marshall Islands in the Pacific to the Maldives in the Atlantic, all face similar challenges:
+The experience of Taiwan's offshore islands holds important reference value for island nations worldwide. From Palau and the Marshall Islands in the Pacific to the Maldives in the Indian Ocean, all face similar challenges:
 
-How can we develop sustainable economic models on limited land resources?
-How can we maintain cultural uniqueness amidst the waves of globalization?
-How can we maintain social resilience under the threat of climate change?
+How to develop a sustainable economic model on limited land resources?
+How to maintain cultural uniqueness amid the tide of globalization?
+How to maintain social resilience under the threat of climate change?
 
-**Taiwan's outlying islands use three hundred years of marine living wisdom to answer these critical 21st-century questions.**
+**Taiwan's offshore islands have used three centuries of marine life wisdom to answer these 21st-century critical questions.**
 
-> **✦** "The ocean is not a barrier, but a connection. The people on these islands built fishing traps with stones, wove sustainable laws through taboos, welcomed the sun with hot springs, and memorized the routes of flying fish through song. They tell us: humanity can coexist harmoniously with the ocean—not merely by conquering it, but through symbiosis."
+> **✦** "The ocean is not a barrier, it is a connection. The people on these islands built fish traps with stone, wove sustainable laws with taboos, welcomed the sun with hot springs, and remembered the flying fish's migration routes with song. They tell us: humans can coexist harmoniously with the ocean — not just conquest, but symbiosis."
 
-When you stand on the viewing platform of the Qimei Twin-Heart Stone Fish Weir, watching the basalt walls from three hundred years ago shimmer in the sunset; when you hear the elders of the Tao people on Lanyu singing ancient work songs; when you lock eyes with a green sea turtle in the transparent waters of Xiaoliuqiu—you are hearing more than just the sound of waves; you are hearing the echoes of wisdom from thousands of years of dialogue between these islands and the sea.
+When you stand on the viewing platform of Qimei's Twin-Heart Stone Weir, watching the basalt walls from three centuries ago glimmer in the sunset; when you hear a Tao elder on Lanyu sing an ancient work song; when you lock eyes with a green sea turtle in Xiaoliuqiu's transparent waters — you hear not just the sound of waves, but the echo of wisdom from this island's millennia of dialogue with the ocean.
 
-These voices remind us: we are not the masters of the ocean, we are its children.
+These voices remind us: we are not the masters of the ocean; we are the ocean's children.
 
 **Further Reading**:
 
-- [Matsu International Art Island](/art/馬祖國際藝術島) — Beyond the "Blue Tears" and sea caves, Matsu has developed its own curatorial language over the last decade. The themes for the three sessions—_Island Brewing_, _Living Red through Summer_, and _Capturing Autumn_—were all derived from Min-dong (Eastern Fujianese) proverbs.
+- [Matsu International Art Island](/en/art/matsu-biennial) — Beyond blue tears and tunnels, Matsu has grown its own curatorial language over the past decade: the three editions _Island Brewing_, _Red Summer_, _Paiqiu_ all take their themes from Eastern Min proverbs
 
 ## References
 
-- [Penghu Stone Fish Weirs - Taiwan World Heritage Potential Sites](https://twh.boch.gov.tw/taiwan/intro.aspx?id=13&lang=zh_tw)
-- [Penghu Stone Fish Weirs - Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%BE%8E%E6%B9%96%E7%9F%B3%E6%BB%AC)
-- [Why Are There So Many Sea Turtles in Xiaoliuqiu?](https://ofucosliuqiu.com/liuqiu-sea-turtle-guide/)
+[^1]: [Penghu Stone Weir Groups - Taiwan World Heritage Potential Sites (Bureau of Cultural Heritage, Ministry of Culture)](https://twh.boch.gov.tw/taiwan/intro.aspx?id=13&lang=zh_tw) — 1950 stone weir production value accounted for 77% of county fishery catch; without stone weirs one could not marry or establish a household; stone weirs could be pawned, mortgaged, bought, sold; _Taiwan Prefecture Gazetteer_ (Kangxi 35) large weirs 2, small weirs 20; _Penghu Subprefecture Gazetteer_ (Guangxu 19) large weirs 2, small weirs 76.5, "documents do not explain what half weir means"; Hong Guo-xiong 1999 survey 558 plus 16 supplementary, 2008–2009 advanced to 592; Jibei 2006 survey 92; Twin-Heart Stone Weir "most beautiful cultural landscape on Earth" title; seven construction prerequisites; Austronesian hypothesis by author, awaiting evidence
+
+[^2]: [About 95% of the World's Stone Weirs Are Concentrated in Penghu - PTS News](https://news.pts.org.tw/article/777934) — October 2025 report, "about 95% of the world's stone weirs are concentrated in Penghu"
+
+[^3]: [Lanyu Flying Fish Season Decoded - Sun-Dried Flying Fish](https://zazawanzine.com/uncategorized/b063/) — Flying fish season from early February to around October; women do not participate in rituals, do not touch fishing gear or boats; orange in Tao language means "no fish," do not bring oranges onto island during flying fish season; diving, swimming, angling only in specific waters
+
+[^4]: [Taboos/Norms and Modern Science, and Possible Integration for Sustainable Management of the Flyingfish Resource of Orchid Island, Taiwan - Sustainability (2020)](https://doi.org/10.3390/su12208621) — Shui-Kai Chang; orange pronunciation similar to "no fish"; women's taboos related to sacred species and misfortune associations; flying fish season March–May also reef fish spawning season, ban on catching reef fish equals closed season; some taboos have ecological conservation effects, some may be superstition; whole island annual flying fish catch approx. 260,000–280,000
+
+[^5]: [Plank Boat - Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%8B%BC%E6%9D%BF%E8%88%9F) — Small plank boat _Tatala_ (one-, two-, three-person); large plank boat _Cinedkeran_ (six-person _Atlo so avat_, eight-person _Apat so avat_, ten-person _Alima so avat_, approx. 7 meters)
+
+[^6]: [Changes in local knowledge and its impacts on ecological resources management: The case of flyingfish culture of the Tao in Taiwan - Marine Policy 103 (2019) 74-83](https://doi.org/10.1016/j.marpol.2019.02.031) — Liu T.-M. and Chang S.-K., examining Tao local knowledge using Dietz et al.'s five criteria for effective resource management
+
+[^7]: [28th Anniversary of Kinmen and Matsu Lifting Battlefield Administration - Kinmen County Government](https://www.kinmen.gov.tw/News_Content2.aspx?n=98E3CA7358C89100&sms=BF7D6D478B935644&s=D7AECB2657D38BD9&Create=1) — Kinmen and Matsu implemented battlefield administration experiment from ROC year 45 to 81, lasting 36 years
+
+[^8]: [Shanhou Folk Culture Village - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%B1%B1%E5%90%8E%E6%B0%91%E4%BF%97%E6%96%87%E5%8C%96%E6%9D%91) — Japan-based overseas Chinese leaders Wang Guo-zhen and Wang Jing-xiang father and son distributed to Wang clan members for residence, construction started 1876, completed 1900; 18 buildings, traditional Hoklo two-courtyard architecture
+
+[^9]: [Kinmen County - Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%87%91%E9%96%80%E7%B8%A3) — Mid-to-late Qing Kinmen people "went abroad" to Southeast Asia or crossed to Japan; overseas Chinese included Wang Guo-zhen in Kobe, Japan; Chen Jing-lan Western Mansion listed as attraction
+
+[^10]: [The Story of Kinmen Kaoliang Liquor - foodNEXT](https://www.foodnext.net/life/placemaking/paper/6351114991) — 1952 distillery construction, "sorghum for rice" policy; sorghum production 1954 298 metric tons, 1991 nearly 6,600 metric tons; Monopoly Bureau monopoly, Black Diamond aged kaoliang; post-1992 relaxation of Kinmen-Matsu liquor sales to Taiwan
+
+[^11]: [Xiaoliuqiu - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%B0%8F%E7%90%89%E7%90%83) — Pingtung County Government designated important green sea turtle habitat, aerial survey once observed 805 sea turtles; influenced by Kuroshio branch, sea temperature above 25 °C year-round
+
+[^12]: [Xiaoliuqiu Sea Turtles - PTS News](https://news.pts.org.tw/article/513848) — Xiaoliuqiu prohibited gillnets within three nautical miles of coast starting 2013
+
+[^13]: [Xiaoliuqiu Green Sea Turtle Paradise Low-Carbon Island - Dapeng Bay National Scenic Area Administration, Tourism Administration, MOTC](https://activity.dbnsa.gov.tw/turtle/ch/page-4.html) — Harassing or abusing protected wildlife punishable by up to one year imprisonment, detention, or fine of NT$60,000 to NT$300,000
+
+[^14]: [Matsu Blue Tears - TVBS Health 2.0](https://health.tvbs.com.tw/life/363395) — Viewable April to September annually, April to June best; Matsu National Scenic Area Administration explains _Noctiluca_ is non-toxic dinoflagellate, Min River April–June discharge brings nutrient salts
+
+[^15]: [Green Island New Life Correction Center - CNA](https://www.cna.com.tw/news/firstnews/201805160040.aspx) — ROC years 40 to 54 political prisoners sent to New Life Correction Center, 12 companies and one women's platoon, approx. 2,000 people
+
+[^16]: [White Terror Green Island Memorial Park - Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%99%BD%E8%89%B2%E6%81%90%E6%80%96%E7%B6%A0%E5%B3%B6%E7%B4%80%E5%BF%B5%E5%9C%92%E5%8D%80) — 1951 New Life Correction Center established; after 1970 Taiyuan Incident built Oasis Villa, from 1972 concentrated political prisoners; formerly Green Island Human Rights Culture Park
+
+[^17]: [Zhaori Hot Springs - Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%9C%9D%E6%97%A5%E6%BA%AB%E6%B3%89) — One of the world's few seabed hot springs, spring source heated by volcanic magma chamber; faces east toward sunrise, hence name
+
+### Extended References
+
+- [Penghu Stone Weirs - Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%BE%8E%E6%B9%96%E7%9F%B3%E6%BB%AC)
 - [Evolution of stone fish weirs in Jibei area, Penghu Archipelago](https://www.tandfonline.com/doi/full/10.1080/17445647.2023.2277904)
-- [Kinmen County Government - 28th Anniversary of Lifting Wartime Administration](https://www.kinmen.gov.tw/News_Content2.aspx?n=98E3CA7358C89100&sms=BF7D6D478B935644&s=D7AECB2657D38BD9&Create=1)
-- [Orchid Island Flying Fish Season Guide](https://zazawanzine.com/uncategorized/b063/)
-- [Xiaoliuqiu Green Sea Turtle Paradise](https://activity.dbnsa.gov.tw/turtle/ch/page-4.html)

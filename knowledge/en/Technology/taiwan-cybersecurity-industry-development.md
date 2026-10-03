@@ -1,144 +1,143 @@
 ---
-title: 'Development of Taiwan’s Cybersecurity Industry'
-description: 'From government policy to private-sector innovation, how Taiwan is building a complete information-security industry ecosystem amid global cyber threats'
+title: "Development of Taiwan's Cybersecurity Industry"
+description: 'From government policy to civilian innovation, how Taiwan has built a complete information security industry ecosystem amid global cyber threats'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'Technology'
-subcategory: '人工智慧'
 tags:
   [
     'cybersecurity industry',
-    'cybersecurity',
+    'network security',
     'digital development',
     'cybersecurity policy',
     'technological innovation',
   ]
-readingTime: 13
+subcategory: '數位與網路'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: true
-translatedFrom: 'Technology/台灣資安產業發展.md'
-sourceCommitSha: 'd6e87d07'
-sourceContentHash: 'sha256:2d7d8b8a52c2b0ff'
-sourceBodyHash: 'sha256:11c4d3b5ca02c812'
-translatedAt: '2026-05-16T21:50:00Z'
 difficulty: 'intermediate'
+readingTime: 13
+translatedFrom: 'Technology/台灣資安產業發展.md'
+sourceCommitSha: 'b0b668075'
+sourceContentHash: 'sha256:b8cab3d7189be94d'
+sourceBodyHash: 'sha256:a74e3ddc66982d98'
+translatedAt: '2026-10-04T00:51:57+08:00'
 ---
 
-# Development of Taiwan’s Cybersecurity Industry
+# Development of Taiwan's Cybersecurity Industry
 
 ## 30-Second Overview
 
-Taiwan’s cybersecurity industry began in the early 2000s, when the government established a national cybersecurity system. After more than two decades of development, it has formed a complete ecosystem integrating policy guidance, technological innovation, and industrial applications. From Trend Micro’s global footprint to CyCraft’s AI-driven cybersecurity innovation, Taiwan occupies an important position in the international cybersecurity market.
+Taiwan's cybersecurity industry began in 2001 when the Executive Yuan established the National Information & Communications Security Council (NICC) and built the national cybersecurity system. After more than twenty years of development, it has formed a complete ecosystem integrating policy guidance, technological innovation, and industrial application. From Trend Micro's global layout to the AI cybersecurity innovation of startup Accuvally, Taiwan holds an important position in the international cybersecurity market.
 
-**Keywords**: information security, cyber defense, cybersecurity policy, industrial ecosystem, technological innovation
+**Keywords**: Information security, network defense, cybersecurity policy, industrial ecosystem, technological innovation
 
 ## Why It Matters
 
-In the digital era, information security has become a core issue for both national security and economic development. As a high-tech manufacturing hub and democratic society, Taiwan faces cyber threats from multiple directions, including international hacker groups, state-level attacks, and commercial espionage. The development of the cybersecurity industry is not only tied to Taiwan’s digital sovereignty; it is also an important barrier protecting key industries such as semiconductors.
+In the digital age, information security has become a core issue of national security and economic development. As a hub of high-tech manufacturing and a democratic society, Taiwan faces cyber threats from all directions, including international hacker organizations, state-level attacks, and commercial espionage. The development of the cybersecurity industry is not only related to Taiwan's digital sovereignty, but also an important barrier to protect key industries such as semiconductors.
 
-### A Digital Line of Defense for National Security
+### Digital Defense Lines for National Security
 
-Given Taiwan’s special geopolitical position and its long-term exposure to cybersecurity threats, developing autonomous cybersecurity capabilities has become a national strategic necessity.
+Taiwan's special geographical location has long faced cybersecurity threats, and developing self-reliant cybersecurity capabilities has become a strategic necessity for the country.
 
-### A Moat for Industrial Competitiveness
+### Moat of Industrial Competitiveness
 
-Taiwan’s leading industries, including semiconductors and ICT, are highly dependent on information security. The cybersecurity industry provides critical support for industrial competitiveness.
+Taiwan's advantageous industries such as semiconductors and ICT heavily rely on information security, and the cybersecurity industry provides key support for industrial competitiveness.
 
 ### Infrastructure for Digital Transformation
 
-As enterprises undergo digital transformation, cybersecurity protection is indispensable infrastructure. The cybersecurity industry creates enabling conditions for economic development.
+During the process of corporate digital transformation, cybersecurity defense is an indispensable infrastructure, and the cybersecurity industry creates conditions for economic development.
 
-## The Six Stages of Taiwan’s Cybersecurity Industry Development
+## Six Stages of Taiwan's Cybersecurity Industry Development
 
-### Stage One: Emergence (2000-2005)
+### Stage One: Germination Period (2001-2004)
 
-**Establishment of the Government System**
-In March 2001, the Executive Yuan established the “National Information and Communication Security Taskforce Technical Service Center,” marking the starting point of Taiwan’s cybersecurity industry development[^5]. The government began to recognize the importance of information security and established a national-level cybersecurity governance mechanism.
+**Government System Establishment**
+In March 2001, the Executive Yuan established the "National Information & Communications Security Council Technical Service Center," which marked the starting point of the government's cybersecurity system[^5]. The government began to realize the importance of information security and established a national-level cybersecurity governance mechanism.
 
-**First-Phase Mechanism Plan (2001-2005)**
-The Executive Yuan promulgated the “Plan for Establishing Taiwan’s Information and Communication Infrastructure Security Mechanism,” setting out the vision of “ensuring that Taiwan has a secure and trustworthy information and communications environment.”
+**First Phase Mechanism Plan (2001-2004)**
+On January 17, 2001, the Executive Yuan promulgated the "Plan for Establishing Information Infrastructure Security Mechanisms in Our Country," completed the cybersecurity classification mechanism for government agencies, and established the vision of "ensuring our country has a safe and trustworthy information and communication environment."
 
-**Initial Industrial Development**
-During this period, Taiwan’s cybersecurity industry was just beginning. It mainly focused on basic security products such as antivirus software and firewalls. The market was limited in scale, and the level of technology was also relatively low.
+**Initial Industry Development**
+During this period, Taiwan's cybersecurity industry was just starting out, mainly focusing on basic security products such as antivirus software and firewalls. The market size was limited and the technical level was relatively low.
 
-### Stages Two and Three: From Infrastructure Building to Rapid Growth (2005-2015)
+### Stages Two and Three: Infrastructure to Rapid Growth Period (2005-2015)
 
-Between 2005 and 2010, the government established a graded protection system. International cybersecurity vendors successively set up operations in Taiwan, bringing advanced technology and management experience, while local companies gradually established market positions in specific fields. From 2010 to 2015, the popularization of cloud computing drove a new wave of cybersecurity technology innovation. Mobile device security became an emerging market opportunity, the government and private sector began building threat-intelligence sharing mechanisms, and overall defensive capabilities improved significantly.
+Starting in 2005, the government expanded the implementation of cybersecurity responsibility classification for government agencies[^7]. International cybersecurity vendors successively established offices in Taiwan, bringing advanced technology and management experience. Local vendors also gradually established their market position in specific fields. During 2010-2015, the popularity of cloud computing drove a new wave of cybersecurity technology innovation, mobile device security became a new market opportunity, and the government and private sector began to establish threat intelligence sharing mechanisms, significantly improving overall defense capabilities.
 
-### Stages Four and Five: From Specialization to Industrial Integration (2015-2025)
+### Stages Four and Five: Professionalization to Industrial Integration Period (2015-2025)
 
-From 2015 to 2020, AI and machine learning began replacing traditional rule-based defenses. Taiwan developed APT protection solutions, while implementation of the Personal Data Protection Act also drove corporate demand for cybersecurity compliance. From 2020 to 2025, the pandemic accelerated the spread of remote work, and zero-trust architecture became mainstream. International geopolitical tensions made supply-chain security a new issue. The government’s “Principles for the Procurement of Autonomous Cybersecurity Products” more actively stimulated the development of the local industry.
+During 2015-2020, AI and machine learning began to replace traditional rule-based defense, and Taiwan developed APT defense solutions. The amended and implemented Personal Data Protection Act in 2012 and the Cybersecurity Management Act implemented in 2019 led to a continuous increase in cybersecurity compliance needs for businesses and public sectors. In November of the same year, the Executive Yuan announced the "Principles for Cybersecurity Autonomous Product Procurement," actively stimulating the local industry[^7]. During 2020-2025, the epidemic promoted the popularity of remote work, zero-trust architecture became mainstream, and international geostrategic tensions made supply chain security a new topic.
 
-### Stage Six: Intelligent Transformation (2025-Present)
+### Stage Six: Intelligent Transformation Period (2025-Present)
 
 **Generative AI Security**
-With the popularization of generative AI such as ChatGPT, AI security has become an emerging field, including AI model security and AI governance.
+With the popularity of generative AI such as ChatGPT, AI security has become an emerging field, including AI model security and AI governance.
 
-**Preparation for Quantum Security**
-In response to quantum-computing threats, Taiwan has begun developing post-quantum cryptography technologies to prepare for future cybersecurity challenges.
+**Quantum Security Preparation**
+Facing the threat of quantum computing, research and development of post-quantum cryptography technology has begun to prepare for future cybersecurity challenges.
 
-**Enhancing Digital Resilience**
-The focus has shifted from simple protection to digital resilience, emphasizing the ability of systems to recover quickly after attacks.
+**Enhanced Digital Resilience**
+Moving from simple defense to digital resilience, emphasizing the system's rapid recovery capability after being attacked.
 
-## Evolution of the Government Cybersecurity System
+## Evolution of Government Cybersecurity System
 
-### Organizational Development
+### Organizational Structure Development
 
-The Executive Yuan’s National Information and Communication Security Taskforce (2001-2022) served as the highest decision-making body, coordinating cybersecurity work across ministries and promoting national cybersecurity strategies. The Executive Yuan Department of Cyber Security, established in 2011, was responsible for policy implementation and regulatory drafting. After the Ministry of Digital Affairs was established in 2022, the Department of Cyber Security was reorganized and upgraded into the **Administration for Cyber Security**, with greater executive authority and overall responsibility for national cybersecurity affairs.
+The Executive Yuan's National Information & Communications Security Council was established in 2001 and remains the highest mechanism for coordinating cybersecurity work of various ministries and promoting national cybersecurity strategy. Starting in March 2026, the establishment of the council will be upgraded from the administrative rules to the "Regulations on the Establishment of the National Information & Communications Security Council"[^5]. The Executive Yuan's Information & Communications Security Office was first established as a task group in March 2013, and the Information & Communications Security Department was officially established on August 1, 2016, responsible for policy implementation and legal development[^13]. In 2022, the Ministry of Digital Affairs was established, with the Cybersecurity Administration under it, responsible for national cybersecurity policy planning and defense, drills, and audit business. The director of the agency also serves as the executive secretary of the council[^13].
 
-### Major Laws and Policies
+### Important Laws and Policies
 
-The Cyber Security Management Act, promulgated and implemented in 2018[^6], established the national cybersecurity management framework, strengthened protection of critical infrastructure, and improved cybersecurity incident response capabilities. The 2019 “Principles for the Procurement of Autonomous Cybersecurity Products” encouraged government agencies to prioritize domestically produced cybersecurity products and reduce dependence on foreign products. The 2021-2025 “National Cybersecurity Strategy” centers on three main priorities: building digital resilience, deepening public-private collaboration, and strengthening the capacity of the cybersecurity industry.
+The Cybersecurity Management Act[^6] was announced in June 2018 and implemented on January 1, 2019, establishing the national cybersecurity management framework, strengthening the protection of key infrastructure, and improving the response capability of cybersecurity incidents. The full text was amended in September 2025 and implemented on December 1, 2025. In November 2019, the Executive Yuan announced the "Principles for Cybersecurity Autonomous Product Procurement," encouraging government agencies to adopt domestic cybersecurity products and reducing dependence on foreign products. From 2021 to 2024, the "National Information & Communications Security Development Plan (Years 110-113)" took "building a resilient and secure smart country" as its vision, with three goals: becoming a hub for cybersecurity research and training in the Asia-Pacific region, building an active defense basic network, and co-creating a network security environment with the public and private sectors[^7].
 
-## Major Cybersecurity Companies and Contributions
+## Important Cybersecurity Companies and Contributions
 
-### International-Scale Enterprise: Trend Micro
+### International-Level Enterprises: Trend Micro
 
-**Global Position**
-Founded in 1988, Trend Micro is Taiwan’s most successful cybersecurity company and one of the world’s three largest cybersecurity companies[^4].
+**Global Status**
+Trend Micro was founded in 1988 by Zhang Mingzheng, Chen Yiheng, and Chen Yihua, and is the most successful cybersecurity company born in Taiwan, positioning itself as a global leader in network security[^4].
 
-Trend Micro was an early mover in launching cloud-based cybersecurity services such as Hosted Email Security, and it developed the Deep Security platform to protect physical, virtual, and hybrid cloud environments. Its global threat-intelligence network provides real-time information, and in recent years the company has also invested in two-way research and development in both “AI for Security” and “Security for AI.” Today, more than 500,000 enterprises worldwide use Trend Micro products. In the field of industrial control security, it has also launched the TXOne brand, setting an international benchmark for Taiwan’s cybersecurity industry.
+Trend Micro was the first to launch cloud-based security services such as Hosted Email Security and developed the Deep Security platform to protect physical, virtual, and cloud hybrid environments. Its global threat intelligence network provides real-time information. In recent years, it has simultaneously invested in "AI for Security" and "Security for AI" dual research and development directions. Currently, more than 500,000 companies worldwide use Trend Micro products[^4]. In the field of industrial control security, Trend Micro jointly invested with Moxa (Four Zero Four Technology) to establish TXOne Networks, with Trend Micro holding the majority stake[^15], setting an internationalization benchmark for Taiwan's cybersecurity industry.
 
-### National-Team Enterprise: CHT Security
+### National Team Enterprise: ChungHwa Telecom Security
 
 **Background and Positioning**
-CHT Security is a subsidiary of Chunghwa Telecom Group and Taiwan’s largest managed security service provider (MSSP).
+ChungHwa Telecom Security is a subsidiary of ChungHwa Telecom Group and one of the main managed security service providers (MSSP) in Taiwan.
 
-CHT Security provides four core categories of services: 24/7 SOC security monitoring, regular vulnerability assessments and penetration testing, cybersecurity incident investigation and recovery, and cybersecurity education and training. It is the leading brand in Taiwan’s MSSP market, serving government agencies and large enterprises while maintaining strategic partnerships with international vendors.
+ChungHwa Telecom Security provides 24/7 SOC security monitoring, regular vulnerability assessment and penetration testing, cybersecurity incident investigation and recovery, and cybersecurity education and training in four core services. It is a major player in Taiwan's MSSP market, serving government agencies and large enterprises, and maintains strategic cooperation with international vendors.
 
-### Startup Benchmark: CyCraft
+### Startup Benchmark: Accuvally
 
 **AI Cybersecurity Innovation**
-Founded in 2017, CyCraft focuses on AI-driven cybersecurity solutions[^4].
+Accuvally was founded in 2017 and focuses on AI-driven cybersecurity solutions[^10].
 
-**Core Technologies**
+**Core Technology**
 
-CyCraft uses machine learning to analyze anomalous behavior and detect threats, combines this with AI-driven automated incident forensics, builds automated threat-defense systems, and has developed an innovative cybersecurity management tool using a VR war-room interface.
+Accuvally uses machine learning to analyze abnormal behavior and detect threats, combined with AI automated event identification features to build an automated threat defense system. At the 2021 Taiwan Cybersecurity Conference, it showcased an AI cybersecurity battlefield presented in VR[^10].
 
 **Industry Recognition**
 
-- Personally visited and viewed in demonstration by President Tsai Ing-wen
-- Received a NT$65 million strategic investment from CHT Security in April 2025[^4]
-- CyCraft AI Lab has long cultivated technology research and development
+- 2021 Taiwan Cybersecurity Conference, President Tsai Ing-wen personally operated Accuvally's AI cybersecurity battlefield[^10]
+- In April 2025, ChungHwa Telecom Security invested NT$65 million in Accuvally's 100% holding parent company, CyCraft Technology[^11]
 
-### Other Important Companies
+### Other Important Enterprises
 
-**Changing Information Technology**
+**Ants Information**
 
-Founded in 1993, Changing Information Technology is one of the earliest Taiwan-based vendors to enter the information-security business. Built on PKI public-key infrastructure as its core technology, it has delivered the government's Certificate Authority (GRCA/GCA) build-out programs and provides digital identity-authentication services including Citizen Digital Certificates and Industrial/Commercial Certificates, making it the core architect of Taiwan's e-Government trust infrastructure. In digital signatures, encrypted communications, and access control, Changing has accumulated more than thirty years of technical depth and continues to hold the leading market position in public-sector digital certificates.
+Ants Information was founded in 2000 and started with network data center hosting business. A few years later, it expanded into security operations center (SOC), began to provide cybersecurity testing services in 2016, and established the Computer Emergency Response Team ACSI-CSIRT in 2017. In 2024, its revenue was NT$214.6 million, and iThome called it Taiwan's largest cybersecurity service provider[^12].
 
 **TWCERT/CC**
 
-Established in 1998 and now under the National Institute of Cyber Security (NICS), the Taiwan Computer Emergency Response Team / Coordination Center (TWCERT/CC) is Taiwan's official platform for cybersecurity incident reporting and coordination. Its core functions cover domestic cybersecurity incident intake and coordinated response, vulnerability disclosure and reporting, and threat-warning publication, and it represents Taiwan in international cooperation networks such as FIRST (Forum of Incident Response and Security Teams) and APCERT (Asia Pacific Computer Emergency Response Team).
+The Taiwan Computer Network Emergency Response Team Coordination Center (TWCERT/CC) was established in 1998 at National Sun Yat-sen University and has been operated by the National Institute of Cybersecurity (NICS) since January 2024[^14]. It is the official platform for cybersecurity incident reporting and coordination in Taiwan. Its core functions cover domestic cybersecurity incident reception and coordination, cybersecurity vulnerability disclosure and notification, threat warning release, and representing Taiwan in international cooperation networks such as FIRST (Forum of Incident Response and Security Teams) and APCERT (Asia-Pacific Computer Emergency Response Team).
 
-**Systex**
+**Precision Information**
 
-- A system integrator that has transformed into a cybersecurity service provider
-- Provides enterprise cybersecurity solutions
+- System integrator transformation to cybersecurity services
+- Provision of enterprise cybersecurity solutions
 - Important partner in government cybersecurity projects
 
-**Galaxy Software Services**
+**Powerful Information**
 
 - Development of cybersecurity management platforms
 - Construction of cybersecurity systems for government agencies
@@ -146,17 +145,17 @@ Established in 1998 and now under the National Institute of Cyber Security (NICS
 
 ## Cybersecurity Industry Ecosystem
 
-Taiwan’s cybersecurity industry chain consists of three layers. Upstream, universities, research institutions, government-funded R&D programs, and international technology cooperation provide the technical foundation. Midstream, cybersecurity software and hardware vendors, system integrators, and cybersecurity service providers are responsible for product development. Downstream applications span government agencies, finance, manufacturing, and small and medium-sized enterprises, creating a diverse demand structure.
+Taiwan's cybersecurity industry chain consists of three layers: the upstream is provided by universities, research institutions, government-funded research and development programs, and international technical cooperation; the midstream is responsible for product development by cybersecurity software and hardware vendors, system integrators, and cybersecurity service providers; the downstream applications cover government agencies, financial industry, manufacturing industry, and small and medium-sized enterprises, with diverse demand structures.
 
 ### Talent Development System
 
 **Academic Institutions**
 
-- Institute of Information Security, National Yang Ming Chiao Tung University (formerly National Chiao Tung University, merged in February 2021)
-- Department of Information Management, National Taiwan University of Science and Technology
+- Institute of Information Security, National Yang Ming Chiao Tung University (originally National Chiao Tung University, merged in February 2021)
+- Department of Information Management, Taiwan University of Science and Technology
 - Department of Computer Science and Information Engineering, National Central University
 
-**Professional Certifications**
+**Professional Certification**
 
 - CISSP (Certified Information Systems Security Professional)
 - CEH (Certified Ethical Hacker)
@@ -164,123 +163,135 @@ Taiwan’s cybersecurity industry chain consists of three layers. Upstream, univ
 
 **Industry Training**
 
-- Trend Micro cybersecurity talent development program
-- Chunghwa Telecom Training Institute cybersecurity courses
-- Technical training from major cybersecurity vendors
+- Trend Micro Cybersecurity Talent Development Program
+- ChungHwa Telecom Academy Cybersecurity Courses
+- Technical training from various cybersecurity vendors
 
-### Industry-Government-Academia Collaboration
+### Government-Industry-Academia Collaboration
 
-**R&D Cooperation**
+**Research and Development Cooperation**
 
-- Cybersecurity Excellence Center, National Applied Research Laboratories
-- Department of Industrial Technology, Ministry of Economic Affairs cybersecurity technology development programs
-- National Science and Technology Council cybersecurity research promotion programs
+- National Institute of Cybersecurity (2023, reformed from the Cybersecurity Excellence Center of the National Applied Research Laboratories)
+- Ministry of Economic Affairs, Department of Technology, Cybersecurity Special Project
+- National Science and Technology Council Cybersecurity Research Promotion Program
 
-**Standards Development**
+**Standard Setting**
 
-- Development of cybersecurity technical standards
-- Development of best-practice guidelines
+- Cybersecurity technology standard setting
+- Best practice guide setting
 - Participation in international standards
 
-## CYBERSEC: A Platform for Industry Exchange
+## Taiwan Cybersecurity Conference: Industry Exchange Platform
 
-### The Influence of CYBERSEC
+### CYBERSEC's Influence
 
-**The Largest Cybersecurity Event in the Asia-Pacific**
-Launched in 2015, CYBERSEC, the Taiwan cybersecurity conference, has become one of the most influential cybersecurity events in the Asia-Pacific region[^3].
+**Taiwan's Largest Annual Cybersecurity Event**
+The Taiwan Cybersecurity Conference (CYBERSEC), held since 2015, is Taiwan's largest annual cybersecurity event. The organizer iThome calls its exhibition the largest cybersecurity exhibition in Asia[^3].
 
 **2025 Theme: TEAM CYBERSECURITY**
-The theme emphasizes that cybersecurity requires teamwork; whether individuals or organizations, all are important parts of digital security.
+Emphasizing that network security requires team collaboration, whether individuals or organizations, are important parts of digital security.
 
-**Scale of Participation**
+**2025 Participation Scale**
 
-- More than 10,000 professionals participating
-- 300+ international speakers sharing experience
-- 100+ cybersecurity vendors showcasing the latest technologies
+- Expected to exceed 20,000 domestic and foreign cybersecurity professionals
+- Over 300 professional sessions
+- More than 400 cybersecurity brands and over 1,300 booths
 
-### Benefits for Industry Exchange
+### Industry Exchange Benefits
 
-CYBERSEC provides industry exchange benefits at three levels: sharing technology trends (AI cybersecurity applications, zero-trust practices, cloud security, and quantum encryption), creating international cooperation opportunities (exchanges with cybersecurity institutions in the United States, Japan, and Europe; participation in standards development; and multinational threat-intelligence sharing), and advancing talent development (skills workshops, career guidance, and industry-academia matchmaking).
+CYBERSEC provides three levels of industry exchange benefits: technology trend sharing (AI cybersecurity applications, zero-trust practices, cloud security, quantum encryption), international cooperation opportunities (exchange with US, Japan, and European cybersecurity agencies, participation in standard setting, cross-border threat intelligence sharing), and talent cultivation promotion (skill workshops, career guidance, government-industry-university cooperation matching).
 
 ## Emerging Technologies and Challenges
 
-### Cybersecurity Transformation in the AI Era
+### Cybersecurity Changes in the AI Era
 
-In the direction of “AI for Security,” machine learning is used to analyze malicious behavior patterns, automate incident response, conduct intelligent risk assessment, and identify abnormal user behavior, substantially improving the efficiency of threat detection.
+In the direction of "AI for Security," machine learning is used to analyze malicious behavior patterns, automate event response, intelligent risk assessment, and identify abnormal user behavior, greatly improving the efficiency of threat detection.
 
-“Security for AI,” by contrast, addresses the security of AI systems themselves: protecting models from attack or tampering, ensuring the privacy of training data, detecting decision-making bias, and improving the transparency of AI decisions. This has become an emerging research focus for the cybersecurity industry in recent years.
+In the direction of "Security for AI," it focuses on the security of AI systems themselves: protecting models from being attacked or tampered with, ensuring the privacy of training data, detecting decision bias, and improving the transparency of AI decisions. This has become a new research focus in the cybersecurity industry in recent years.
 
 ### Quantum Threats and Post-Quantum Cryptography
 
-The development of quantum computers poses a fundamental threat to existing encryption technologies. Taiwan has already begun early-stage preparations, including R&D on post-quantum encryption algorithms, quantum-security upgrades for existing systems, and the development of quantum-security standards.
+The development of quantum computers poses a fundamental threat to existing encryption technologies. Taiwan has launched research and development of post-quantum encryption algorithms, quantum security upgrade of existing systems, and preliminary layout of quantum security standards.
 
 ### 5G and IoT Security
 
-5G networks have introduced new issues such as network-slicing security, edge-computing security, and protection of critical communications infrastructure. In the Internet of Things, device identity authentication, lightweight encryption protocols, and IoT device lifecycle management are technical challenges that cybersecurity vendors are working to overcome.
+The introduction of 5G networks has brought new topics such as network slicing security, edge computing security, and protection of critical communication infrastructure. In the Internet of Things, device identity authentication, lightweight encryption protocols, and lifecycle management of IoT devices are the technical difficulties that cybersecurity vendors are currently overcoming.
 
 ## International Cooperation and Competition
 
-### Regional Cybersecurity Alliances
+### Regional Cybersecurity Alliance
 
 **Asia-Pacific Cybersecurity Organization Cooperation**
 
-- APCERT (Asia Pacific Computer Emergency Response Team)
+- APCERT (Asia-Pacific Computer Emergency Response Team)
 - Japan-Taiwan cybersecurity cooperation
-- U.S.-Taiwan cybersecurity dialogue
+- US-Taiwan cybersecurity dialogue
 
-Taiwan participates in the development of international standards such as ISO 27001, the NIST Cybersecurity Framework, and IEC 62443 industrial control system security. This is an important channel through which Taiwan seeks greater voice and influence.
+Taiwan participates in the formulation of international standards such as ISO 27001, NIST Cybersecurity Framework, and IEC 62443 Industrial Control System Security, which is an important channel for Taiwan to seek a voice in the international community.
 
 ### Global Market Competition
 
-Taiwan’s competitive advantages lie in its deep understanding of cybersecurity needs in manufacturing, its collaborative model of close government-industry coordination, and its accumulated technological innovation capabilities. Facing cybersecurity powers such as the United States and Israel, Taiwan’s differentiated strategy is to focus on manufacturing niches such as OT/IT integrated security, open emerging markets such as Southeast Asia and India, and participate in developing global supply-chain security standards.
+Taiwan's competitive advantages lie in its deep understanding of the cybersecurity needs of the manufacturing industry, the close cooperation model between government and industry, and the accumulated technological innovation capabilities. Facing cybersecurity powers such as the United States and Israel, Taiwan's differentiated strategy is to focus on OT/IT integration security in the manufacturing industry, expand into emerging markets such as Southeast Asia and India, and participate in the formulation of global supply chain security standards.
 
-## Industry Development Trends and Outlook
+## Industry Development Trends and Prospects
 
-In the short term (2026-2028), the main priorities will be the popularization of zero-trust architecture (accelerated enterprise adoption, growing demand for identity-verification technologies, and development of network-segmentation technologies) and cybersecurity as a service (shifting from product sales to managed-service models such as SOC as a Service).
+In the short term (2026-2028), the focus is on the popularization of zero-trust architecture (corporate accelerated adoption, increased demand for identity authentication technology, development of network segmentation technology) and cybersecurity-as-a-service (transition from product sales to managed services such as SOC as a Service).
 
-In the medium term (2028-2030), the focus will be on industrial autonomy (independent R&D of critical cybersecurity technologies, reduced dependence on foreign products, and establishment of a complete supply chain) and technological breakthroughs (maturation of AI cybersecurity applications, commercialization of post-quantum cryptography, and development of blockchain security technologies).
+In the medium term (2028-2030), the focus will be on industrial autonomy (independent research and development of key cybersecurity technologies, reducing dependence on foreign products, building a complete supply chain) and technological breakthroughs (mature AI cybersecurity applications, commercialization of post-quantum cryptography, development of blockchain security technology).
 
-In the long term (after 2030), the goal is to establish global leadership in niche fields such as industrial control security and OT/IT integrated security, export Taiwan’s cybersecurity technologies and services, and, supported by highly resilient digital infrastructure and improved cybersecurity awareness across society, build a digitally resilient society.
+In the long term (after 2030), the goal is to establish a global leading position in niche areas such as industrial control security and OT/IT integration security, export Taiwan's cybersecurity technology and services, and build a digital resilience society with high-resilience digital infrastructure and enhanced cybersecurity awareness of the general public as support.
 
 ## Challenges and Opportunities
 
-Taiwan’s cybersecurity industry faces three core challenges. In talent, cybersecurity professionals are in short supply, high-level technical talent is leaving, and interdisciplinary talent is especially scarce. In technology, gaps remain with cybersecurity powers such as Israel and the United States, investment in basic research is insufficient, and technology commercialization capabilities need strengthening. In the market, the domestic market is limited in scale, enterprises’ willingness to invest in cybersecurity is relatively low, and demand among small and medium-sized enterprises remains to be developed.
+Taiwan's cybersecurity industry faces three core challenges: in terms of talent, there is a shortage of cybersecurity professionals, high-level technical talent outflow, and cross-domain compound talent is especially scarce; in terms of technology, there is still a gap with cybersecurity powers such as Israel and the United States, insufficient investment in basic research, and weak capability of technology commercialization; in terms of market, the domestic market size is limited, corporate cybersecurity investment willingness is low, and the needs of small and medium-sized enterprises are yet to be developed.
 
 ### Development Opportunities
 
-Geopolitical restructuring is creating new space for Taiwan: its strategic position is rising amid U.S.-China technology competition, cybersecurity cooperation channels within the democratic camp are widening, and supply-chain restructuring is creating opportunities for participation. Taiwan’s deep accumulation in global manufacturing is also a differentiated advantage. Industrial 4.0 security solutions and OT/IT integrated security technologies are among the areas where global demand gaps are most apparent.
+The restructuring of geostrategic patterns is creating new space for Taiwan: the enhancement of strategic status in the US-China technology competition, the expansion of cybersecurity cooperation channels in the democratic camp, and the participation opportunities brought by the restructuring of the supply chain. Taiwan's deep accumulation in the global manufacturing industry is also a differentiated advantage, and industrial 4.0 security solutions and OT/IT integration security technology are the areas with the most obvious global demand gaps.
 
-**Innovation Ecosystem**
+**Innovative Ecology**
 
-The number of startups continues to grow. The government provides subsidies and procurement incentives, while international cooperation channels are also expanding as democratic alliances deepen.
+The number of startups continues to grow, the government provides subsidies and procurement incentives, and international cooperation channels also increase with the deepening of the democratic alliance.
 
 ## Conclusion
 
-Taiwan’s cybersecurity industry began in 2001 with the Executive Yuan’s establishment of the National Information and Communication Security Taskforce. It has gone through six stages: emergence, infrastructure building, rapid growth, specialization, industrial integration, and intelligent transformation. It has now formed a complete ecosystem guided by government policy, driven by private-sector innovation, and supported by academic institutions. Trend Micro’s global footprint, CyCraft’s AI cybersecurity innovation, and the Asia-Pacific influence of the CYBERSEC annual conference are all concrete outcomes of this trajectory.
+Taiwan's cybersecurity industry started from the establishment of the Executive Yuan's National Information & Communications Security Council in 2001, went through six stages of germination, infrastructure, rapid growth, professionalization, industrial integration, and intelligent transformation, and has formed a complete ecosystem of government policy guidance, private sector innovation, and academic support. Trend Micro's global layout, Accuvally's AI cybersecurity innovation, and CYBERSEC's Asia-Pacific influence are all concrete results of this path.
 
-Shortages of cybersecurity talent, insufficient investment in basic research, and the limited scale of the domestic market remain core bottlenecks constraining industrial upgrading. Taiwan’s opportunities in niche fields such as OT/IT integrated security, supply-chain security, and cybersecurity cooperation among democratic partners are opening up. Whether these opportunities can be transformed into exportable technologies and services will determine Taiwan’s long-term position in the global cybersecurity market.
+Cybersecurity talent shortage, insufficient investment in basic research, and limited domestic market size are still the core bottlenecks restricting industrial upgrading. Taiwan's opportunities in OT/IT integration security, supply chain security, and democratic camp cybersecurity cooperation are opening up. Whether it can be transformed into exportable technology and services will determine Taiwan's long-term positioning in the global cybersecurity market.
 
-**Further Reading**:
+**Extended Reading**:
 
-- [Taiwan’s National Defense and Military Modernization](/en/society/taiwan-defense-modernization) — The front line of gray-zone warfare is not naval mines, but firewalls. The scenario for the first three days of the Han Kuang 41 exercise was cyber and cognitive warfare
-- [Taiwan AI Development](/en/technology/ai-development-in-taiwan) — AI’s dual role in cybersecurity and national defense
+- [Taiwan's National Defense and Military Modernization](/en/society/taiwan-defense-modernization) — In the first three days of the 2025 Han Guang No. 41 exercise, the scenario is China's gray zone harassment against Taiwan
+- [Taiwan's AI Development](/en/technology/ai-development-in-taiwan) — The dual role of AI in cybersecurity and national defense
 
 ## References
 
-[^1]: [Administration for Cyber Security, Ministry of Digital Affairs (ACS)](https://moda.gov.tw/ACS/) — Official materials on national cybersecurity policy and regulations
+[^1]: [Ministry of Digital Affairs, Cybersecurity Administration (ACS)](https://moda.gov.tw/ACS/) — Official data on national cybersecurity policies and laws
 
-[^2]: [National Institute of Cyber Security (NICS)](https://www.nics.nat.gov.tw/) — Taiwan's cybersecurity research outcomes and policy reports
+[^2]: [National Institute of Cybersecurity (NICS)](https://www.nics.nat.gov.tw/) — Taiwan cybersecurity research results and policy reports
 
-[^3]: [CYBERSEC Taiwan Cybersecurity Conference](https://cybersec.ithome.com.tw/) — Historical agenda and participation-scale data since 2015
+[^3]: [CYBERSEC 2025 Taiwan Cybersecurity Conference](https://cybersec.ithome.com.tw/2025) — Hosted by iThome; 2025 theme TEAM CYBERSECURITY, over 300 sessions, more than 400 cybersecurity brands, over 1,300 booths, expected to exceed 20,000 participants
 
-[^4]: [Trend Micro official website](https://www.trendmicro.com/zh_tw/about.html) — Official materials on Trend Micro, CyCraft (cycraft.com), CHT Security, and other major Taiwanese cybersecurity companies, including corporate histories and technical explanations
+[^4]: [Trend Micro | About Us](https://www.trendmicro.com/zh_tw/about.html) — Trend Micro official website; more than 500,000 companies and institutions worldwide use it, and its brand TXOne Networks
 
-[^5]: [Executive Yuan National Information and Communication Security Taskforce](https://nicst.ey.gov.tw/) — Established in 2001; cybersecurity policy documents and meeting resolutions across different periods
+[^5]: [Background of the Establishment of the National Information & Communications Security Council](https://moda.gov.tw/ACS/nicst/background/658) — Ministry of Digital Affairs, Cybersecurity Administration; the council was established in 2001 and will operate under the "Regulations on the Establishment of the National Information & Communications Security Council" starting March 2, 2026
 
-[^6]: [Cyber Security Management Act and related regulations](https://moda.gov.tw/ACS/laws/549) — Promulgated and implemented in 2018, establishing the national cybersecurity management framework
+[^6]: [Cybersecurity Management Act Historical Development](https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=A0030297) — National Law Database; announced on June 6, 2018, implemented on January 1, 2019, the full text was amended on September 24, 2025, and implemented on December 1, 2025
 
-[^7]: [Industrial Development Administration, MOEA](https://www.moea.gov.tw/) — Cybersecurity industry development reports; Taiwan cybersecurity industry scale and market statistics
+[^7]: [National Information & Communications Security Development Plan (Years 110-113)](https://www-api.moda.gov.tw/File/Get/acs/zh-tw/x9U2Gtwj3y8EaXF) — Executive Yuan's National Information & Communications Security Council, July 2024 revised version; including the historical development of the first phase to the fifth phase mechanism plan and the "Principles for Cybersecurity Autonomous Product Procurement"
 
-[^8]: [iThome cybersecurity news coverage](https://www.ithome.com.tw/security) — News on Taiwan cybersecurity industry developments
+[^8]: [iThome Cybersecurity Related News Reports](https://www.ithome.com.tw/security) — News on the dynamics of Taiwan's cybersecurity industry
 
-[^9]: [Information Security Technology website](https://www.informationsecurity.com.tw/) — In-depth analysis reports on Taiwan’s cybersecurity industry
+[^9]: [Cybersecurity People's Network](https://www.informationsecurity.com.tw/) — In-depth analysis report on Taiwan's cybersecurity industry
+
+[^10]: [President Tsai personally operates Accuvally's AI cybersecurity battlefield](https://www.cycraft.com/news/cycraft-ai20210504) — Accuvally official news, May 4, 2021, CYBERSEC 2021
+
+[^11]: [ChungHwa Telecom Security invests in Accuvally's parent company CyCraft Technology](https://finance.technews.tw/2025/04/09/chtsecurity-cycraft/) — Science and Technology News, April 9, 2025; investment amount NT$65 million
+
+[^12]: [Ants Information reveals three major growth drivers for future business](https://www.ithome.com.tw/news/173065) — iThome, December 29, 2025; founded in 2000, SOC and cybersecurity testing history, revenue of NT$214.6 million in fiscal year 113
+
+[^13]: [History of the Cybersecurity Administration](https://moda.gov.tw/ACS/aboutus/history/608) — Ministry of Digital Affairs, Cybersecurity Administration; Information & Communications Security Office in 2013, Information & Communications Security Department on August 1, 2016, Cybersecurity Administration in 2022
+
+[^14]: [TWCERT/CC Center Introduction](https://www.twcert.org.tw/tw/np-24-1.html) — Established in September 1998 at National Sun Yat-sen University, operated by the National Institute of Cybersecurity since January 2024
+
+[^15]: [Trend Micro and Moxa jointly invest in TXOne Networks](https://www.trendmicro.com/zh_tw/about/newsroom/press-releases/2018/2018-11-15.html) — Trend Micro press release, November 15, 2018; Trend Micro holds the majority stake in TXOne Networks
