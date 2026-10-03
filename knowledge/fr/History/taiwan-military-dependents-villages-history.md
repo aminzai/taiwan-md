@@ -1,204 +1,232 @@
 ---
-title: "Les villages militaires de Taïwan — mémoire d'un exil fondateur"
-description: 'Des soldats perdus en Birmanie aux royaumes de bambou : comment 1,2 million de réfugiés ont réinventé l''idée de "chez soi" à Taïwan'
+title: "Histoire des quartiers d'officiers de Taïwan"
+description: 'Du détachement solitaire en Birmanie aux cités de clôtures de bambou : comment 1,2 million de déplacés ont redéfini le concept de « chez-soi »'
 date: 2026-03-22
+category: 'History'
 tags:
   [
-    'villages militaires',
-    'immigrés continentaux',
+    "quartiers d'officiers",
+    'migrants externes',
     'guerre civile chinoise',
-    'patrimoine culturel',
+    'préservation culturelle',
     'rénovation urbaine',
   ]
-subcategory: 'Histoire sociale et quotidienne'
+subcategory: '社會與日常史'
 author: 'Taiwan.md Contributors'
-difficulty: 'intermediate'
-readingTime: 12
-category: 'History'
 featured: true
 lastVerified: 2026-03-22
 lastHumanReview: false
+difficulty: 'intermediate'
+readingTime: 12
 translatedFrom: 'History/台灣眷村歷史.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:e26ca70cc051b743'
-sourceBodyHash: 'sha256:6ea24f40d826e7d7'
-translatedAt: '2026-04-14T12:31:49+08:00'
+sourceCommitSha: 'e1247815f'
+sourceContentHash: 'sha256:a769f300a4a6b10d'
+sourceBodyHash: 'sha256:62a8c3544391f28d'
+translatedAt: '2026-10-04T00:51:58+08:00'
 ---
 
-# Les villages militaires de Taïwan — mémoire d'un exil fondateur
+# Histoire des quartiers d'officiers de Taïwan
 
-> **En 30 secondes :** Le premier village militaire de Taïwan n'a pas été construit pour les soldats ordinaires du Kuomintang. Il a été érigé pour accueillir une armée oubliée, des combattants qui avaient erré cinq ans dans les jungles birmanes avant de toucher enfin le sol taïwanais. Ces hommes, commandés par le général Li Mi, avaient vécu un double exil avant même de fouler Taïwan. À partir de 1954, plus de 300 villages militaires ont été construits sur l'île, abritant la mémoire d'une migration de 1,2 million d'âmes, et façonnant durablement la diversité culturelle de Taïwan.
+> **30 secondes d'aperçu :** À la fin des années 1940, le gouvernement nationaliste commence à construire des quartiers d'officiers pour accueillir les familles des militaires arrivés avec eux à Taïwan. En 1984, le ministère de la Défense comptait 888 de ces quartiers, et en 1982, environ 470 000 personnes y vivaient. Zhongzhen xincun à Taoyuan en est un exemple : construé en automne 1954 pour accueillir les militaires anti-communistes du Yunnan qui venaient de quitter la Birmanie. Ces personnes avaient combattu près de quatre ans en guérilla le long de la frontière sino-birmanienne avant d'arriver à Taïwan. Des barreaux de bambou aux logements publics modernes, ces quartiers sont finis par l'essor d'une part du patrimoine culturel pluriel de Taïwan.
 
-En automne 1954, à la frontière de Pingjhen et Jhongli dans le district de Taoyuan, 530 habitations de fortune furent érigées en quelques semaines. Construites de bambou, de boue jaune et de tôle ondulée, elles mesuraient en moyenne moins de dix tsubo (environ 33 m²) — dont seulement 4,5 tsubo vraiment habitables. Ces masures allaient pourtant accueillir un groupe de résidents pas comme les autres : non pas des familles de militaires venues directement avec le gouvernement nationaliste, mais les proches de soldats qui avaient transité par la Chine continentale, puis la Birmanie, avant d'atterrir enfin sur l'île.
+En automne 1954, dans la zone entre Pingzhen et Zhongli à Taoyuan, le ministère de la Défense construit environ 530 logements simples (les sources varient entre 503 et 534 unités)[^1]. Ces maisons construites avec des clôtures de bambou, de la brique de terre et des toits en tôle ondulée, bien qu'occupant en moyenne moins de 10 pieds carrés par famille, portent le poids des destins de résidents particuliers : ils ne sont pas venus directement avec le gouvernement nationaliste, mais sont des « détachements solitaires » originaires de la continentale chinoise, puis de Birmanie, puis de Taïwan.
 
-**Zhongzhen Xincun — le premier village militaire de Taïwan — portait en lui, dès sa naissance, toute la complexité de ce qu'allait devenir la culture des juancun : non pas un simple face-à-face entre continentaux et Taïwanais de souche, mais une dialectique entre exil et enracinement, entre temporaire et permanent, entre pays natal et terre d'adoption.**
+**La naissance de Zhongzhen xincun illustre la complexité de la culture des quartiers d'officiers : il ne s'agit pas seulement d'un dialogue entre provinces externes et provinces intérieures, mais aussi d'une dialectique entre exil et installation, entre passage et permanence, entre patrie et terre natale.**
 
-## Une migration aux multiples visages
+## Le spectre complexe des grands déplacements
 
-### 1,2 million de personnes, autant de trajectoires
+### 1,2 million de personnes, multiples trajectoires
 
-« 1,2 million de militaires et civils ont suivi le gouvernement jusqu'à Taïwan » : telle est la formule consacrée des manuels scolaires. Mais la réalité est bien plus nuancée. Les recherches historiques montrent que ce chiffre englobe plusieurs vagues migratoires étalées entre 1945 et 1953 :
+L'idée qu'« 1,2 million de militaires et de civils sont venus avec le gouvernement » est souvent avancée, mais la réalité est bien plus complexe. Les vagues successives d'arrivées se sont étalées entre 1945 et 1954 :
 
-- **1945-1949** : environ 600 000 militaires arrivent directement à Taïwan ; 500 000 fonctionnaires et civils suivent le même chemin.
-- **1950** : retrait des îles Zhoushan, soit 70 000 soldats et quelque 120 000 civils accompagnateurs.
-- **1953** : 26 028 hommes du général Huang Jie, rapatriés de l'île de Phú Quốc au Vietnam.
-- **1954** : environ 14 000 prisonniers de guerre chinois de la guerre de Corée, ainsi que 3 000 hommes des troupes résiduelles de Li Mi retirées de Birmanie.
+- **Vers 1949** : environ 600 000 soldats du gouvernement nationalistes s'installent à Taïwan, accompagnés de fonctionnaires et de civils[^2]
+- **1950** : retrait des îles Zhoushan, 120 000 soldats et environ 20 000 habitants locaux évacués en trois jours vers Taïwan[^3]
+- **1953** : rapatriement des troupes de Huang Jie stationnées au Vietnam, environ 30 000 personnes arrivent à Taïwan[^4]
+- **Fin 1953 à 1954** : les soldats anti-communistes du Yunnan quittent la Birmanie en trois vagues successives, la première vague comptant 6 986 personnes[^5] ; plus de 14 000 prisonniers de guerre chinois des volontaires de la guerre de Corée choisissent d'aller vivre à Taïwan, la première vague arrivant au port de Keelung le 23 janvier 1954[^6]
 
-**Ce n'était pas une retraite unique, mais un long exil fragmenté qui s'est étalé sur huit ans.** Derrière chaque vague, des degrés différents de désespoir et d'espoir. Ceux qui arrivèrent directement purent compter sur une installation organisée par les autorités ; les proches des soldats perdus en Birmanie vécurent, eux, un double déracinement — d'abord la chute de leur province natale, puis la survie à la frontière.
+**Ce n'était pas un seul exode, mais un exil interrompu sur près de dix ans.** Chaque vague de migration cache des désespérances et des espoirs différents. Beaucoup de familles d'officiers qui sont venues directement à Taïwan ont reçu un logement par le gouvernement, mais les « détachements solitaires » ont connu un double exil : d'abord la perte de leur patrie, ensuite la lutte pour survivre à la frontière.
 
-### Le destin singulier de l'armée perdue
+### Le destin particulier des détachements solitaires
 
-Parmi tous les réfugiés arrivés à Taïwan, la 193e division de l'Armée anticommuniste de salut national du Yunnan, commandée par le général Li Mi, connut le parcours le plus chaotique. Après la défaite du Kuomintang au Yunnan en 1949, ces hommes ne se replièrent pas directement sur Taïwan : ils se retirèrent dans les forêts du nord de la Birmanie, où ils menèrent une guérilla pendant cinq ans le long de la frontière sino-birmane.
+Les troupes du Yunnan dirigées par Lee Mi ont traversé l’histoire comme les plus tortueuses de tous les groupes migratoires. Après la défaite nationaleiste dans le Yunnan en fin 1949, ces soldats n'ont pas immédiatement embarqué pour Taïwan, mais ont pénétré dans le nord de la Birmanie, où ils ont mené une guérilla le long de la frontière sino-birmanienne pendant près de quatre ans.
 
-> **📝 Note du curateur**
-> Le terme « armée perdue » (孤軍) désigne moins un isolement géographique qu'un malaise politique. Ces soldats n'étaient reconnus ni par le gouvernement birman, ni par la communauté internationale — leur statut de « troupes alliées » restait parfaitement ambigu.
+> **📝 Note de la conservatrice**  
+> Le mot « solitaire » dans « détachement solitaire » ne se limite pas à l'isolement géographique, il reflète aussi l'embarras politique. Ils ne sont ni reconnus par le gouvernement birman, ni acceptés par la communauté internationale, et leur statut d’« alliés » reste flou.
 
-Au début de l'année 1954, sous pression internationale, l'armée du général Li Mi obtint enfin l'autorisation de se retirer à Taïwan. Mais lorsque ces hommes, femmes et enfants atterrirent à l'aéroport de Songshan à Taipei, ils ne furent pas accueillis en héros. On les dispersa et les logea provisoirement dans des entrepôts de la compagnie sucrière à Chiayi — des conditions qui « dépassaient en pénibilité celles de la guérilla en Birmanie », selon des témoignages de l'époque. C'est cette situation d'urgence qui poussa le gouvernement à construire en toute hâte le village de Zhongzhen à Taoyuan.
+Après que le gouvernement birman a déposé une plainte auprès des Nations Unies contre l’occupation des territoires chinois par les soldats nationaux, le gouvernement de la République de Chine a négocié avec les États-Unis, la Thaïlande et la Birmanie pour organiser le rapatriement des troupes stationnées dans le pays. À partir de fin 1953, Lee Mi a organisé l’évacuation progressive de ses troupes et de leurs familles vers Taïwan[^1]. Ce qu’ils ont trouvé à leur arrivée n’était pas un accueil héroïque, mais plutôt une dispersion temporaire dans des entrepôts de la branche ferroviaire nationale à Xizhou, Dali et Wufeng. Le manque de ressources était tel qu’il dépassait même ce qu’ils avaient connu pendant leur guérilla dans le nord de la Birmanie[^7], d’où la décision du ministère de la Défense de construire Zhongzhen xincun à Taoyuan en automne 1954.
 
-**Le premier village militaire de Taïwan fut bâti pour les derniers arrivants.** Cette inversion chronologique dit beaucoup sur la complexité et la diversité de la culture des juancun.
+Zhongzhen xincun est souvent présenté comme « le premier quartier d’officiers construit après l’arrivée du gouvernement nationaliste »[^7], mais cette affirmation ne tient pas compte de l’histoire. Le quartier de Sisjhuanyuan à Taipei a été construit dès 1948[^8], celui de Huangpu à Fengshan a accueilli les troupes de Sun Yat-sen en 1949[^9], et celui de Qiaoyi à Dasi à Taoyuan figure également parmi les premiers quartiers construits. **Zhongzhen xincun est donc l’un des premiers quartiers d’officiers construits pour accueillir les détachements solitaires en retard.** Ce qui le rend particulier, ce n’est pas son ancienneté, mais la provenance de ses habitants : des accents du Yunnan, de la Thaïlande et de la Birmanie, ainsi qu’une cuisine variée, le rendaient unique dès le départ.
 
-## La République du bambou
+## L’ère des clôtures de bambou
 
-### Une géographie des armes
+### La géographie militaire
 
-La répartition spatiale des villages reflétait fidèlement les logiques militaires. Chaque village regroupait presque exclusivement des soldats issus du même corps d'armée, voire de la même unité :
+La répartition spatiale des quartiers d’officiers reflète la hiérarchie militaire. De nombreux quartiers sont organisés selon les unités et les branches militaires : dans un même quartier, presque tous les hommes appartiennent à la même branche, voire au même régiment[^7] :
 
-- **Zuoying, Kaohsiung** : marine nationale, dominée par les originaires du Shandong (la base navale de Weihai, dans cette province, était une position stratégique majeure).
-- **Qingquangang, Taichung** : force aérienne.
-- **Zhongzhen Xincun, Taoyuan** : guérilleros du Yunnan-Birmanie, empreints de la culture Dai (Baiyi) du Yunnan.
-- **Erkong, Tainan** : force aérienne, surtout des Sichuanais et des Hunannais.
+- **Kaohsiung Zuoying** : quartier naval, où se sont regroupés de nombreux habitants de Shandong, le marché local étant dominé par les pâtes[^11]
+- **Taichung Qingquan Gong** : quartier aérien
+- **Taoyuan Zhongzhen xincun** : troupes de guérilla du Yunnan, culture bisei du Yunnan très présente
+- **Tainan Ren’de Erkong** : aérien, principalement des habitants du Sichuan et du Hunan[^11]
 
-> **💡 Le saviez-vous ?**
-> Selon les statistiques de l'époque sur les provinces d'origine des militaires réfugiés, le Shandong arrivait en tête avec 72 600 hommes, suivi du Guangdong (66 600) et du Jiangsu (54 900). Ces chiffres ont directement façonné la « carte des dialectes » des villages militaires.
+> **💡 Saviez-vous ?**  
+> Selon les divisions administratives actuelles de la Chine continentale, les soldats qui sont venus à Taïwan proviennent surtout du Shandong (72 604 personnes), suivis du Guangdong (66 613 personnes) et du Jiangsu (54 950 personnes)[^2]. Ces chiffres ont directement façonné la « carte dialectale » des quartiers d’officiers.
 
-Ce modèle de regroupement par corps d'armée répondait à des impératifs administratifs, mais aussi à la logique profonde de la culture militaire. La fraternité d'armes forgée sur le champ de bataille se prolongeait dans le voisinage quotidien. **Le village militaire n'était pas seulement un quartier résidentiel : c'était le prolongement civil d'une culture guerrière.**
+Ce phénomène de regroupement selon les branches militaires est à la fois le reflet des besoins administratifs du gouvernement et une extension naturelle de la culture militaire. Les liens de camarade sur le champ de bataille deviennent des liens de voisinage à Taïwan. **Les quartiers d’officiers ne sont pas seulement des zones résidentielles, ils sont aussi une extension civile de la culture militaire.**
 
-### Une vie matérielle précaire, une vie communautaire intense
+### Difficultés matérielles, richesse spirituelle
 
-Les conditions de vie des premiers juancun étaient d'une rudesse extrême. À Zhongzhen Xincun, les maisons mesuraient « en moyenne moins de dix tsubo, avec seulement 4,5 tsubo vraiment habitables » : le salon servait aussi de chambre à coucher, la cuisine ne pouvait accueillir qu'un seul foyer. Les murs de bambou étaient colmatés à la boue jaune, le toit de tôle laissait entrer les risques d'électrocution par temps d'orage.
+Les conditions matérielles des premiers quartiers d’officiers étaient extrêmement rudimentaires. Les maisons de Zhongzhen xincun mesuraient « en moyenne moins de 10 pieds carrés par famille, avec seulement 4,5 à 5 pieds carrés réellement abrités du vent et des intempéries »[^7]. Le salon et la chambre étaient confondus, et la cuisine ne pouvait contenir qu’un seul réchaud. Des murs en bambou, des joints remplis de brique de terre et des toits en tôle ondulée pouvaient même provoquer des chocs électriques lors des orages.
 
-Pourtant, dans cette pauvreté, les habitants des juancun développèrent une créativité remarquable :
+Cependant, malgré le manque de ressources, les habitants ont développé une créativité remarquable :
 
-- Des bidons d'huile vides reconvertis en puits.
-- Des planches récupérées pour cloisonner les pièces.
-- Des parapluies cassés transformés en auvents.
-- Des sacs de farine recousus en draps et en vêtements.
+- Utilisation de bidons d’essence comme puits d’eau
+- Construction de cloisons avec des planches récupérées
+- Utilisation d’ombrelons brisés comme abris solaires
+- Transformation des sacs de farine en draps et vêtements
 
-**La « philosophie de la débrouille » n'était pas un choix, c'était une compétence de survie.** Mais c'est précisément cette adversité partagée qui forja la cohésion communautaire si caractéristique des juancun.
+**La « philosophie de la difficulté » n’est pas un choix, c’est une compétence de survie.** C’est précisément cette expérience partagée de la dureté qui a forgé un sentiment communautaire particulier au sein des quartiers d’officiers.
 
-## La mémoire du goût, réinventée
+## La reconstruction de la mémoire culinaire
 
-### La fusion populaire des huit grandes cuisines régionales
+### La fusion populaire des huit grandes cuisines chinoises
 
-L'héritage culturel le plus tangible des villages militaires est culinaire. Les mères de famille venues des quatre coins de Chine reconstituèrent, dans des cuisines de fortune et avec des ingrédients limités, les huit grandes traditions culinaires chinoises — mais cette reconstruction fut, en réalité, un processus d'invention permanente.
+Le patrimoine culturel le plus tangible des quartiers d’officiers est la cuisine. Des mamans venues de partout en Chine, confrontées à des ingrédients limités et à des cuisines rudimentaires, ont reconstruit les huit grandes cuisines chinoises — mais ce processus de reconstruction est en réalité un processus d’innovation.
 
-> **⚠️ Un point de controverse**
-> L'écrivain Jiao Tong a un jour déclaré : « Il n'y a pas de nouilles de bœuf à la sichuanaise au Sichuan, pas de barbecue mongol en Mongolie, pas de nouilles de Fuzhou à Fuzhou. » La cuisine des juancun est-elle le goût du pays natal ou bien le goût de Taïwan ? La réponse est peut-être les deux à la fois — ou ni l'un ni l'autre.
+> **⚠️ Opinion controversée**  
+> L’écrivain Chiao Tung a déclaré un jour : « Il n’y a pas de pâtes à la bœuf à Sichuan, pas de barbacoa mongole, pas de pâtes à Fuzhou. »[^11] La cuisine des quartiers d’officiers est-elle un « goût d’origine » ou un « goût taïwanais » ? La réponse pourrait être les deux, ou ni l’un ni l’autre.
 
-**Les trois traits distinctifs de la cuisine des juancun :**
+**Les trois caractéristiques principales de la cuisine des quartiers d’officiers :**
 
-1. **La localisation par les ingrédients disponibles** : on préparait les plats du pays natal avec des légumes taïwanais, en adaptant les assaisonnements aux palais locaux.
-2. **Le pragmatisme du ventre plein** : un ragoût unique pour nourrir toute la famille, dix façons différentes d'accommoder un seul bloc de tofu.
-3. **Les échanges de techniques entre provinces** : une mère du Shandong apprenait les épices pimentées du Sichuan ; une mère du Jiangsu adoptait les méthodes de sauté cantonaises.
+1. **Adaptation locale** : utilisation des légumes taïwanais pour préparer les plats traditionnels, et adaptation des assaisonnements au goût local
+2. **Pragmatisme économique** : un seul plat mijoté suffit à nourrir toute la famille, un morceau de tofu donne naissance à dix recettes différentes
+3. **Échanges interprovinciaux** : les mamans du Shandong apprennent les épices du Sichuan, celles du Jiangsu utilisent les techniques de cuisson cantonaises
 
-Les nouilles au bœuf en sont l'exemple le plus emblématique. Le style sichuanais s'est implanté à Kaohsiung ; dans le nord, la rue Yongkang à Taipei a développé sa propre tradition de bouillon clair ; dans le centre et le sud, on a remplacé le doubanjiang par des herbes médicinales. **Les nouilles au bœuf sont devenues l'un des emblèmes culinaires de Taïwan — et pourtant, ce plat n'existe pas dans sa province d'origine.**
+Les pâtes à la bœuf en sont un excellent exemple. Après l’arrivée du gouvernement nationaliste, les pâtes à la bœuf sichuanaises se sont implantées à Kaohsiung. Plus tard, des étals de pâtes à la bœuf ont émergé dans les rues de Yongkang et Xinyi à Taipei, tandis que dans le sud de Taïwan, on pouvait trouver des pâtes à la bœuf mijotées avec des ingrédients médicinaux chinois au lieu de pâte de piment[^11]. **La « pâte à la bœuf » est devenue un plat emblématique de Taïwan, mais le Sichuan n’a jamais connu de « pâtes à la bœuf sichuanaises ».**
 
-### Le marché comme lieu de rencontre des cultures
+### Le marché comme lieu de rencontre culturelle
 
-Les marchés des villages militaires furent le premier espace de contact profond entre continentaux et Taïwanais de souche. Prenons l'exemple du marché de Zhongzhen : au départ, des maraîchères taïwanaises de Siaoli poussaient leurs charrettes jusqu'aux ruelles du village pour vendre leurs légumes, et les mères des juancun devinrent leurs clientes fidèles — un marché spontané émergea peu à peu.
+Les marchés des quartiers d’officiers sont des lieux de rencontre entre les cultures des provinces externes et des provinces intérieures. Dans le marché de Zhongzhen, par exemple, des agriculteurs locaux de Hsiaoliuliu ont commencé à vendre leurs légumes dans les rues du quartier[^7], formant progressivement un marché grâce à la clientèle fidèle des mamans des quartiers d’officiers.
 
-**Ce qui ressemblait à une simple relation commerciale était en réalité la première immersion profonde de deux communautés l'une dans l'autre.** Les Taïwanaises apprenaient à cuisiner à la façon continentale ; les continentales découvraient les produits du terroir insulaire. Les shaobing (galettes au sésame) et le luroufan (riz braisé au porc), le lait de soja et le thé à l'ancienne cohabitèrent bientôt sur les mêmes étals.
+**Cette relation commerciale apparemment simple cache en réalité un premier contact profond entre deux communautés.** Les habitants locaux ont appris à apprécier les saveurs des provinces externes, tandis que les newcomers se sont familiarisés avec les ingrédients taïwanais. Les crêpes aux oignons et le riz au porc, le lait de soja et le thé rouge traditionnel, ont commencé à coexister dans le même espace commercial.
 
-## Trois générations, trois rapports à l'identité
+## Les trajectoires identitaires des trois générations
 
-### La première génération : la nostalgie comme boussole
+### Première génération : le nostalgisme éternel
 
-Les fondateurs des juancun ne perdirent jamais le fil qui les reliait à leur province natale. Leur « Chine » n'était pas une entité politique abstraite : c'était la mémoire gustative des grands mantou (petits pains) du Shandong, du porc braisé du Sichuan, des saucisses fumées du Hunan.
+La première génération des quartiers d’officiers garde toujours un attachement profond pour leur patrie d’origine. Pour eux, la « Chine » n’est pas une entité politique, mais un concept maternel : le gros pain de Shandong, le rôti de porc à Sichuan, la saucisse de charcuterie de Hong Kong.
 
-Le gouvernement tablait initialement sur une « reconquête du continent » rapide, et les villages furent conçus en conséquence : des abris provisoires, des infrastructures minimales. Tout cela traduisait l'optimisme — naïf, rétrospectivement — de ceux qui croyaient « rentrer bientôt ». **Mais les trois ans devinrent trente, le provisoire devint définitif, et les juancun se mua en une « petite patrie » par défaut.**
+Le gouvernement avait initialement prévu un retour rapide sur le continent, d’où la nature temporaire des quartiers d’officiers. Les maisons modestes, l’infrastructure insuffisante, tout cela reflète l’optimisme d’un « retour bientôt possible à la maison ». **Mais trois ans sont devenus trente ans, le temporaire est devenu permanent, et les quartiers d’officiers sont devenus malgré eux de petites patries.**
 
-La politique linguistique révèle cet état d'esprit : les villages promouvaient avec vigueur l'enseignement du mandarin standard — un mandarin qui n'était pas seulement un outil de communication, mais un vecteur d'identité culturelle. Les enfants des juancun pouvaient réciter par cœur les noms de ville du bassin du Yangtsé, mais ils étaient incapables de nommer la rivière qui coulait à deux pas de chez eux.
+Les politiques linguistiques reflètent également cette mentalité. Les quartiers d’officiers ont fortement promu l’enseignement du mandarin, mais ce mandarin portait non seulement la fonction de communication, mais aussi celle d’identité culturelle. Les enfants des quartiers d’officiers pouvaient réciter les noms des villes le long du fleuve Yangtsé, mais ne connaissaient pas le nom du ruisseau près de chez eux.
 
-### La deuxième génération : une identité tiraillée
+### Deuxième génération : tensions identitaires
 
-La deuxième génération des juancun affronta une crise identitaire sans précédent. Élevés dans l'enceinte des villages, nourris d'une culture sino-continentale, ils vivaient pourtant sur la terre de Taïwan. Après la levée de la loi martiale en 1987 et l'ouverture aux visites familiales sur le continent, cette fracture intérieure s'approfondit encore.
+La deuxième génération des quartiers d’officiers fait face à un dilemme identitaire sans précédent. Ils ont grandi dans ces quartiers, ont reçu une éducation culturelle chinoise, mais vivent sur une terre taïwanaise. Après la levée de l’état d’urgence en 1987 et l’ouverture des voyageurs familiaux, ce sentiment de division s’est intensifié.
 
-**La contradiction était saisissante :** lorsque les vétérans de la première génération purent enfin retourner dans leur province natale après quarante ans d'absence, beaucoup d'entre eux se découvrirent étrangers dans leur propre pays natal. Quatre décennies de séparation avaient fait du « pays natal » un lieu inconnu. À l'inverse, Taïwan — longtemps tenue pour un séjour temporaire — était devenue la vraie maison.
+**Un paradoxe intéressant émerge :** quand les vétérans de première ligne peuvent enfin retourner voir leur famille d’origine, beaucoup découvrent qu’ils ne s’y sentent plus à l’aise. Après quarante ans de séparation, la « patrie » est devenue un lieu étranger. En revanche, Taïwan, autrefois un simple lieu de passage, est devenu leur véritable « chez-soi ».
 
-Les prises de position politiques de cette génération furent tout aussi fragmentées : certains plaidaient pour la réunification, d'autres pour l'indépendance, et la majorité préférait le statu quo. **« Je suis enfant de juancun, et je suis Taïwanais » — ce n'était pas une contradiction, c'était une réalité.**
+Les positions politiques de la deuxième génération divergent également : certains soutiennent l’unité avec la Chine continentale, d’autres défendent l’indépendance de Taïwan, et la majorité préfère maintenir le statu quo. **« Je suis un enfant de quartier d’officiers, et je suis aussi un Taïwanais » — ce n’est pas une contradiction, c’est une réalité.**
 
-### La troisième génération : la quête des racines
+### Troisième génération : la quête identitaire culturelle
 
-La troisième génération n'a pour la plupart pas grandi dans les villages. Sa connaissance des juancun lui vient surtout des récits parentaux. Paradoxalement, c'est pourtant cette génération qui a lancé le mouvement de « sauvetage » de la culture des juancun.
+La troisième génération des quartiers d’officiers n’a probablement pas grandi dans ces quartiers, et leur mémoire en dépend principalement des récits de leurs parents. Ironiquement, c’est précisément cette génération qui a lancé le mouvement de « sauvetage » de la culture des quartiers d’officiers.
 
-Par le biais d'enquêtes de terrain, de recueil de témoignages oraux et de conservation numérique, la troisième génération a redécouvert les juancun. Cette quête des racines culturelles reflète, à l'ère de la mondialisation, un besoin universel de retrouver ses ancrages. **Ce qu'ils cherchent, ce n'est pas une appartenance politique, c'est la richesse d'une identité culturelle plurielle.**
+À travers des enquêtes de terrain, des projets d’histoires orales et des initiatives de numérisation, la troisième génération redécouvre les quartiers d’officiers. Cette « quête identitaire culturelle » reflète le désir, dans l’ère de la mondialisation, de retrouver ses racines culturelles. **Ce qu’ils cherchent n’est pas une identité politique, mais la richesse de leur identité culturelle.**
 
-## La démolition et la préservation : un bras de fer permanent
+## La tension entre démolition et préservation
 
-### 1996 : la loi sur la rénovation, arme à double tranchant
+### 1996 : la double tranchant de la loi de rénovation
 
-L'adoption en 1996 de la Loi sur la rénovation des anciens villages militaires marqua le début de leur disparition massive. Les objectifs pratiques étaient clairs : améliorer les conditions de logement, libérer des terrains bien situés, répondre aux besoins du développement urbain.
+En février 1996, la « Loi sur la rénovation des anciens quartiers d’officiers du gouvernement nationaliste » entre en vigueur[^12], marquant le début de la disparition massive des quartiers d’officiers. Les objectifs de la politique sont clairs : améliorer la qualité de vie dans ces quartiers, libérer les terrains situés en zones précieuses, et répondre aux besoins du développement urbain.
 
-> **📊 Source**
-> Selon les statistiques du ministère de la Défense nationale, Taïwan comptait environ 300 villages militaires avant la mise en œuvre de la loi de rénovation en 1996. Dans les années 2020, environ 90 % d'entre eux avaient été rénovés, et seuls une trentaine avaient été classés au titre du patrimoine culturel.
+> **📊 Source des données**  
+> En 1984, le ministère de la Défense gérait 888 quartiers d’officiers, totalisant 109 786 familles ; après l’entrée en vigueur de la loi de rénovation, le nombre diminue chaque année, et en 2001, le ministère publie que 530 quartiers publics sont toujours sous gestion[^10]. En 2018, lors de la cérémonie d’inauguration du parc culturel des quartiers d’officiers de Kaohsiung, la secrétaire générale du Bureau présidentiel, Chen Ju, déclare : « Il y a 886 quartiers d’officiers dans tout le pays »[^13].
 
-Les nouveaux immeubles rénovés ont certes résolu les problèmes de logement. Mais la structure originelle des quartiers a disparu, et les liens de voisinage se sont distendus. **Les anciens habitants des juancun, installés dans des appartements modernes, ont gagné le confort contemporain mais perdu ce sentiment communautaire unique — quand la famille du fond faisait un barbecue, tout le quartier en profitait.**
+Les quartiers d’officiers rénovés deviennent des logements publics modernes, résolvant effectivement les problèmes de qualité de vie. Cependant, la structure originale des quartiers disparaît, et les relations de quartier s’affaiblissent. **Bien qu’ils profitent des commodités de la vie moderne dans leurs nouveaux appartements, les habitants des quartiers d’officiers ont perdu ce sentiment de « partage de repas entre voisins ».**
 
-Le processus de rénovation ne se déroula pas sans heurts. Litiges sur la répartition des logements, indemnisations insuffisantes, deuil affectif : les résistances furent nombreuses. Et la question de fond demeurait : **quand le village militaire devient une résidence sociale ordinaire, la culture des juancun peut-elle encore survivre ?**
+Le processus de rénovation n’est pas non plus sans heurts. Les conflits liés à la répartition des logements, les compensations pour les déménagements, et la perte émotionnelle ont suscité de nombreuses protestations. Un problème plus profond persiste : **peut-on conserver la « culture des quartiers d’officiers » lorsqu’ils deviennent des logements publics ?**
 
-### L'éveil à la préservation : des constructions illégales au patrimoine
+### La prise de conscience de la préservation : des constructions illégales aux biens culturels
 
-Le cas de Baozangyan est emblématique du mouvement de préservation. Ce hameau construit sur un coteau proche du quartier de Gongguan à Taipei avait été classé comme « construction illicite » et devait être entièrement démoli. Grâce à la mobilisation d'acteurs locaux, il fut désigné en 2004 « bâtiment historique ».
+Le quartier de Baozangyan est un cas emblématique de la lutte pour la préservation des quartiers d’officiers. Cet ensemble situé sur une pente montagneuse près du campus de l’Université nationale de Taipei, a d’abord été considéré comme une construction illégale, et a failli être détruit. Cependant, grâce aux efforts des habitants locaux, il a été inscrit comme « bâtiment historique » en mai 2004, puis comme « groupe de bâtiments historiques » en mai 2011[^14].
 
-Le Village Arc-en-Ciel de Taichung illustre, lui, un autre modèle de sauvegarde. Alors que le Village Six de Gancheng allait être rasé, un habitant du nom de Huang Yongfu commença à peindre des fresques colorées sur les murs — un geste protestataire solitaire. En 2010, la diffusion virale de ces images sur Internet transforma ce geste intime en phénomène national, et le gouvernement finit par transformer le village en « Parc d'art Arc-en-Ciel ».
+Le quartier des Arc-en-ciel représente quant à lui un autre modèle de préservation. Situé à Nantun à Taichung, à côté du quartier de Gangchenglucun, il ne fait pas partie des quartiers gérés par le ministère de la Défense, car il a été construit par quelques vétérans ; le vétéran Huang Yongfu a acheté une maison en 1979, et plus tard, ce quartier a failli être détruit à cause d’un projet de réaménagement urbain. En août 2008, pour combattre l’ennui et laisser un souvenir avant la démolition, Huang Yongfu a commencé à peindre des fresques colorées sur les murs. En septembre 2010, après l’initiative de « sauvetage du quartier des Arc-en-ciel » menée par des étudiants de l’Université de Nantong et de l’Université des technologies de Hongzhong, le gouvernement municipal de Taichung a décidé de le conserver sous le nom de « parc artistique des Arc-en-ciel »[^15].
 
-> **💡 Le saviez-vous ?**
-> Lorsque le grand-père Huang Yongfu commença ses peintures en 2008, il approchait des 90 ans et ne savait pas utiliser Internet. C'est grâce à des bénévoles — qui créèrent un site officiel, organisèrent des ventes de produits dérivés — que furent financés l'entretien des fresques et la conservation des bâtiments. Le pinceau d'un vieil homme devint, presque par accident, un nouveau modèle de préservation pour les juancun.
+> **💡 Saviez-vous ?**  
+> Huang Yongfu, né en 1924, avait 84 ans lorsqu’il a commencé à peindre en août 2008. Après que le quartier des Arc-en-ciel a connu un regain d’intérêt sur Internet, la direction culturelle de Taichung, consciente de son manque d’expertise numérique, a fait appel à un organisme externe pour créer un site officiel, a demandé l’aide de bénévoles, et a vendu des produits dérivés sur le site et sur place pour financer les frais de peinture et d’entretien du bâtiment[^15]. Les pinceaux d’un vieil homme sont devenus un modèle inattendu de préservation des quartiers d’officiers.
 
-**Ces deux cas illustrent que la préservation des juancun exige une conjonction de facteurs : discours académique, mobilisation communautaire, relais sur les réseaux sociaux et inflexion politique — aucun de ces éléments ne suffit seul.**
+**Ces deux exemples montrent que la préservation des quartiers d’officiers suit plusieurs voies : la recherche académique, l’organisation communautaire, la diffusion numérique et l’évolution des politiques publiques. Toutes ces voies sont interconnectées et indispensables.**
 
-## La culture des juancun à l'ère contemporaine
+## La transformation contemporaine de l’esprit des quartiers d’officiers
 
-### De l'espace à la mémoire
+### Du lieu à la mémoire
 
-La grande majorité des villages physiques a disparu, mais l'« esprit des juancun » a trouvé de nouveaux supports à l'ère numérique :
+La plupart des quartiers d’officiers physiques ont disparu, mais l’« esprit des quartiers d’officiers » trouve de nouveaux supports dans l’ère numérique :
 
-- **Groupes Facebook** : les « Associations d'anciens du village XX » reconstituent des communautés virtuelles.
-- **Projets de mémoire orale** : les histoires des anciens sont enregistrées et archivées en images.
-- **Reconstruction 3D** : des villages disparus renaissent dans l'espace virtuel.
-- **Industrie créative** : les éléments emblématiques des juancun alimentent une forte demande en produits nostalgiques.
+- **Groupes Facebook** : des « associations d’anciens élèves des quartiers d’officiers XX » recréent des communautés virtuelles
+- **Projets d’histoires orales** : l’audiovisuel est utilisé pour enregistrer les récits des anciens habitants
+- **Reconstructions 3D numériques** : les quartiers disparus renaissent dans l’espace virtuel
+- **Industries culturelles créatives** : les éléments des quartiers d’officiers deviennent des thèmes populaires dans les produits de nostalgie
 
-**Ces communautés de juancun virtuelles recréent, dans une certaine mesure, la vie de quartier des villages d'origine.** Mais ces « villages de la mémoire » sont-ils encore de vrais juancun ? La réponse dépend de chacun.
+**Les communautés virtuelles des quartiers d’officiers reproduisent en quelque manière le sentiment de quartier des quartiers physiques.** Mais cette « mémoire des quartiers d’officiers » est-elle toujours une véritable « quartier d’officiers » ? La réponse dépend de chacun.
 
-### Le modèle taïwanais de l'identité plurielle
+### Le modèle taïwanais d’identité plurielle
 
-En retraçant les soixante-dix ans d'histoire des juancun, la leçon la plus précieuse qui se dégage est peut-être celle-ci : **l'identité culturelle n'est pas un jeu à somme nulle.** Une personne peut être simultanément enfant de juancun, Taïwanais, Chinois au sens culturel et citoyen du monde — ces appartenances ne s'excluent pas.
+En réfléchissant à plus de soixante-dix ans d’histoire des quartiers d’officiers, la leçon la plus importante pourrait être celle-ci : **l’identité culturelle n’a pas à être un jeu à somme nulle.** Une personne peut à la fois être un enfant de quartier d’officiers, un Taïwanais, un Chinois, un citoyen du monde — ces identités ne s’excluent pas mutuellement.
 
-L'expérience des juancun remet aussi en question l'illusion d'une culture homogène. Des traditions venues des quatre coins de Chine se sont mêlées et recombinées à Taïwan, donnant naissance à une culture à la fois familière et inédite. Les nouilles au bœuf, les plats braisés, la cuisine des juancun — aucun de ces héritages n'est la reproduction pure d'une tradition unique. Tous sont le fruit d'un « métissage culturel » inventif.
+L’expérience des quartiers d’officiers remet également en question l’imaginaire d’une culture unique. Des cultures venues de partout en Chine se sont recomposées à Taïwan, donnant naissance à une nouvelle culture à la fois familière et étrangère. Les pâtes à la bœuf, les snacks, la cuisine des quartiers d’officiers, ne sont pas une simple répétition de n’importe quelle tradition unique, mais le fruit de l’innovation de l’« hybride culturel ».
 
-**Dans le monde globalisé du XXIe siècle, l'expérience multiculturelle des juancun est peut-être l'une des contributions les plus précieuses que Taïwan puisse offrir au reste du monde.**
+**Dans le contexte de la mondialisation du 21e siècle, l’expérience expérimentale multiculturelle des quartiers d’officiers pourrait bien être l’une des expériences les plus précieuses que Taïwan puisse offrir au monde.**
 
-## Ce que les palissades de bambou ont vraiment enfermé
+## Ce que la clôture de bambou a vécu
 
-> **✦** « Une palissade de bambou n'enfermait pas seulement le nouveau foyer de 1,2 million de personnes — elle renfermait le fragment d'ADN le plus complexe et le plus riche de l'identité culturelle taïwanaise. »
+> **✦** Une simple clôture de bambou a enclos non seulement une nouvelle patrie pour près de 500 000 personnes, mais aussi un fragment complexe et riche de l’ADN génétique de la culture taïwanaise.
 
-Les juancun ont peut-être disparu, mais leur legs n'est pas une simple nostalgie : c'est une capacité à traverser le changement. Reconstruire une vie dans les conditions les plus précaires, semer une culture sur une terre étrangère, garder espoir face à un avenir incertain.
+Les quartiers d’officiers ont peut-être disparu, mais ce qu’ils ont laissé derrière eux n’est pas seulement un sentiment de nostalgie, c’est aussi la capacité de faire face au changement : reconstruire sa vie dans les pires conditions, semer la culture dans une terre étrangère, garder espoir face à un avenir incertain.
 
-**Débrouillardise et solidarité, adaptation et persévérance, exil et enracinement — ces traits en apparence contradictoires composent le cœur de l'esprit des juancun.** Ils nous rappellent que la culture n'est pas un objet figé dans une vitrine de musée : elle est vivante dans chaque coup de wok, dans chaque tournure de dialecte, dans chaque histoire transmise de génération en génération.
+**La dureté et la solidarité, l’adaptabilité et la persévérance, l’exil et l’installation — ces qualités apparemment contradictoires forment le cœur de l’esprit des quartiers d’officiers.** Cela nous rappelle que la culture n’est pas une exposition statique dans un musée, mais une force vivante qui pulse dans chaque repas cuisiné, chaque phrase dite dans une dialecte, chaque histoire transmise.
 
-Quand, aujourd'hui, nous naviguons avec aisance dans la diversité culturelle de Taïwan — dégustant le leicha dans un village hakka, écoutant les chants anciens dans une communauté autochtone, achetant des pains au poivre dans un marché nocturne hérité des juancun — nous vivons en réalité l'expérience que les villages militaires ont commencé à mener il y a soixante-dix ans : **comment faire de la différence une richesse, de l'exil un ancrage, d'une terre étrangère un chez-soi.**
+Aujourd’hui, alors que nous naviguons librement dans la diversité culturelle de Taïwan — buvant du thé à Huwei, écoutant la musique traditionnelle dans les villages autochtones, achetant des pâtisseries aux épices dans les marchés nocturnes des quartiers d’officiers — nous vivons en réalité l’expérience que les quartiers d’officiers ont commencée il y a plus de soixante-dix ans : **comment transformer la différence en richesse, l’exil en appartenance, l’étranger en patrie.**
 
-C'est cela, le plus précieux héritage des juancun pour Taïwan : un optimisme qui croit que « la culture peut toujours recommencer », et une sagesse qui sait « rester soi-même au milieu du changement ».
+C’est là le legs le plus précieux que les quartiers d’officiers aient laissé à Taïwan : un optimisme selon lequel « la culture peut recommencer », et une sagesse consistant à « garder son identité au milieu du changement ».
 
 ---
 
-## Références
+## Sources
 
-- [Le premier village militaire construit après l'arrivée du gouvernement nationaliste à Taïwan — savez-vous où il se trouve ?](https://www.thenewslens.com/article/12591)
-- [1949 : à la dérive vers Taïwan — ETtoday reportage approfondi](https://events.ettoday.net/depth-report/veteran/index.htm)
-- [La cuisine des juancun : nostalgie ou simple recette ?](https://bankofculture.com/archives/3871)
-- [Villages militaires (juancun) — Wikipédia](https://zh.wikipedia.org/zh-tw/%E7%9C%B7%E6%9D%91)
-- [Village Arc-en-Ciel — Wikipédia](https://zh.wikipedia.org/zh-tw/%E5%BD%A9%E8%99%B9%E7%9C%B7%E6%9D%91)
-- [Préservation et renaissance du quartier de Baozangyan](https://www.ta-mag.net/ta/News.php?id=2185)
-- [Loi sur la rénovation des anciens villages militaires de l'armée nationale](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0140013)
-- [Tourism Administration — Village Arc-en-Ciel](https://www.taiwan.net.tw/m1.aspx?sNo=0001016&id=A12-00236)
+[^1]: [Zhongzhen xincun - Wikipédia](https://zh.wikipedia.org/zh-tw/%E5%BF%A0%E8%B2%9E%E6%96%B0%E6%9D%91) — Construit par le ministère de la Défense à Taoyuan en automne 1954, 534 unités (selon certaines sources 503 unités), c’est l’un des premiers quartiers d’officiers construits pour accueillir les troupes anti-communistes du Yunnan rapatriées de Birmanie ; en 1953, Lee Mi a organisé l’évacuation progressive de ses troupes et de leurs familles vers Taïwan
+
+[^2]: [1949, un exil vers Taïwan - Reportage en profondeur d’ETtoday](https://events.ettoday.net/depth-report/veteran/index.htm) — « En 1949, 600 000 soldats du gouvernement nationaliste s’installent à Taïwan » ; les soldats qui sont venus à Taïwan proviennent surtout du Shandong (72 604 personnes), suivis du Guangdong (66 613 personnes) et du Jiangsu (54 950 personnes)
+
+[^3]: [Évacuation des îles Zhoushan - Wikipédia](https://zh.wikipedia.org/zh-tw/%E8%88%9F%E5%B1%B1%E6%92%A4%E9%80%80) — En 1950, en trois jours, 120 000 soldats et environ 20 000 habitants locaux ont été évacués vers Taïwan
+
+[^4]: [Troupes de Fuguo - Wikipédia](https://zh.wikipedia.org/zh-tw/%E5%AF%8C%E8%87%BA%E9%83%A8%E9%9A%8A) — En 1953, les troupes ont été rapatriées à Taïwan, avec un total de 30 087 personnes arrivées
+
+[^5]: [Détachements solitaires en Thaïlande et Birmanie - Wikipédia](https://zh.wikipedia.org/zh-tw/%E6%B3%B0%E7%B7%AC%E5%AD%A4%E8%BB%8D) — Première vague d’évacuation en trois vagues successives (du 7 novembre 1953 au 9 mai 1954), avec un total de 6 986 personnes
+
+[^6]: [Volontaires anti-communistes - Wikipédia](https://zh.wikipedia.org/zh-tw/%E5%8F%8D%E5%85%B1%E7%BE%A9%E5%A3%AB) — Plus de 14 000 prisonniers de guerre chinois des volontaires de la guerre de Corée ont choisi d’aller vivre à Taïwan, la première vague arrivant au port de Keelung le 23 janvier 1954
+
+[^7]: [Savez-vous dans quel quartier d’officiers le gouvernement nationaliste a construit le premier après son arrivée ? - Commentaire clé](https://www.thenewslens.com/article/12591) — Collaboération de Zhang Zhesheng en 2015 ; les détachements solitaires ont été logés temporairement dans des entrepôts de la branche ferroviaire nationale à Xizhou, Dali et Wufeng, avec un manque de ressources dépassant celui vécu pendant la guérilla dans le nord de la Birmanie ; les maisons de Zhongzhen xincun mesurent en moyenne moins de 10 pieds carrés par famille ; les agriculteurs de Hsiaoliuliu ont commencé à vendre leurs légumes dans les rues du quartier, formant le marché de Zhongzhen. Le titre de « premier quartier » de cet article entre en conflit avec celui du quartier de Sisjhuanyuan, voir le texte principal
+
+[^8]: [Quartier de Sisjhuanyuan - Wikipédia](https://zh.wikipedia.org/zh-tw/%E5%9B%9B%E5%9B%9B%E5%8D%97%E6%9D%91) — Selon les enquêtes du « groupe de promotion du patrimoine de Sisjhuanyuan », le quartier a été construit en 1948, et devrait être le premier quartier d’officiers construit par le gouvernement de la République de Chine à Taïwan
+
+[^9]: [Quartier de Huangpu (Taïwan) - Wikipédia](https://zh.wikipedia.org/zh-tw/%E9%BB%83%E5%9F%94%E6%96%B0%E6%9D%91_%28%E8%87%BA%E7%81%A3%29) — En 1949, les troupes de Sun Yat-sen ont occupé les logements militaires japonais à Fengshan, formant le premier quartier d’officiers de Taïwan
+
+[^10]: [Quartiers d’officiers - Wikipédia](https://zh.wikipedia.org/zh-tw/%E7%9C%B7%E6%9D%91) — En 1984, le ministère de la Défense gérait 888 quartiers d’officiers, totalisant 109 786 familles ; le recensement de la Fédération des femmes de Taïwan en 1982 mentionne 879 quartiers, avec environ 467 316 personnes ; le quartier de Qiaoyi à Dasi à Taoyuan figure parmi les premiers quartiers construits ; en 2001, 530 quartiers publics sont toujours sous gestion
+
+[^11]: [La cuisine des quartiers d’officiers, est-ce vraiment du goût d’origine ou du goût taïwanais ? - Banque culturelle](https://bankofculture.com/archives/3871) — Chiao Tung : « Il n’y a pas de pâtes à la bœuf à Sichuan » ; les habitants du Shandong se sont regroupés à Kaohsiung Zuoying, les habitants du Sichuan et du Hunan vivent dans le quartier de Ren’de Erkong à Tainan ; les pâtes à la bœuf sichuanaises se sont implantées à Kaohsiung, des étals de pâtes à la bœuf ont émergé dans les rues de Yongkang et Xinyi à Taipei
+
+[^12]: [Loi sur la rénovation des anciens quartiers d’officiers du gouvernement nationaliste - Base de données juridique nationale](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0140013) — Promulguée par le président le 5 février 1996, contenant 30 articles au total
+
+[^13]: [Inauguration du parc culturel des quartiers d’officiers de Kaohsiung - Reportage d’ETtoday](https://www.ettoday.net/news/20180729/1222872.htm) — En 2018, la secrétaire générale du Bureau présidentiel Chen Ju a déclaré lors de la cérémonie : « Il y a 886 quartiers d’officiers dans tout le pays »
+
+[^14]: [Quartier de Baozangyan - Wikipédia](https://zh.wikipedia.org/zh-tw/%E5%AF%B6%E8%97%8F%E5%B7%96%E8%81%9A%E8%90%BD) — Inscrit comme bâtiment historique le 14 mai 2004, inscrit comme groupe de bâtiments historiques le 27 mai 2011
+
+[^15]: [Quartier des Arc-en-ciel - Wikipédia](https://zh.wikipedia.org/zh-tw/%E5%BD%A9%E8%99%B9%E7%9C%B7%E6%9D%91) — Huang Yongfu (1924-2024) ; le quartier des Arc-en-ciel est situé à côté du quartier de Gangchenglucun mais ne fait pas partie des quartiers gérés par le ministère de la Défense ; à partir d’août 2008, pour combattre l’ennui et laisser un souvenir avant la démolition, Huang Yongfu a commencé à peindre des fresques ; en septembre 2010, après l’initiative de « sauvetage du quartier des Arc-en-ciel » menée par des étudiants, le gouvernement municipal de Taichung a décidé de le conserver sous le nom de « parc artistique des Arc-en-ciel » ; la direction culturelle a fait appel à un organisme externe pour créer un site officiel, et des bénévoles ont participé à la gestion
+
+### Références complémentaires
+
+- [Conservation et régénération du quartier de Baozangyan - Architecture de Taïwan](https://www.ta-mag.net/ta/News.php?id=2185)
+- [Bureau du tourisme du ministère des Transports et des Communications - Quartier des Arc-en-ciel](https://www.taiwan.net.tw/m1.aspx?sNo=0001016&id=A12-00236)
+
+---
