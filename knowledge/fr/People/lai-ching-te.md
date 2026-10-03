@@ -1,195 +1,202 @@
 ---
-title: 'Lai Ching-te : du fils de mineur au médecin de santé publique devenu président'
-description: "16e président de Taïwan, premier personnage politique de l'histoire constitutionnelle de la République de Chine à se présenter et à être élu président alors qu'il était vice-président"
+title: 'Lai Ching-te : du médecin des mines à la présidence de la République de Chine (Taïwan)'
+description: 'Président taïwanais numéro 16, il est le premier homme politique de l’histoire constitutionnelle à être élu président en tant que vice-président.'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '政治與民主'
 tags:
   [
     'Président',
     'Médecin',
-    'Personnalité politique',
-    'Parti démocrate progressiste',
+    'Homme politique',
+    'Parti démocrate progressiste de Taïwan',
     'Santé publique',
     'Tainan',
   ]
-readingTime: 12
+subcategory: '政治與民主'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: true
+readingTime: 12
 translatedFrom: 'People/賴清德.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:e9ba487782481314'
-sourceBodyHash: 'sha256:7455a72c92fc69c9'
-translatedAt: '2026-05-20T05:08:34+08:00'
+sourceCommitSha: '43e9e1c7e'
+sourceContentHash: 'sha256:5933733fa0ffe284'
+sourceBodyHash: 'sha256:759fc6aa29cdf9f0'
+translatedAt: '2026-10-04T00:51:58+08:00'
 ---
 
-# Lai Ching-te : du fils de mineur au médecin de santé publique devenu président
+# Lai Ching-te : du médecin des mines à la présidence de la République de Chine (Taïwan)
 
-## Vue d'ensemble en 30 secondes
+## Aperçu en 30 secondes
 
-Lai Ching-te, 16e président de la République de Chine (Taïwan), est né en 1959 dans une famille de mineurs à Wanli, Nouveau Taipei. Formé initialement en médecine de réadaptation, il a poursuivi une formation en santé publique à Harvard avant de quitter la médecine pour la politique en 1996. Il a successivement été représentant à l'Assemblée nationale, législateur, maire de Tainan, président du Yuan exécutif et vice-président, avant d'être élu président en 2024. Il est le premier personnage politique de l'histoire constitutionnelle à se présenter et à remporter l'élection présidentielle alors qu'il occupait le poste de vice-président, et le deuxième, après Lien Chan, à avoir exercé successivement les fonctions de président du Yuan exécutif, de vice-président et de président.
+Lai Ching-te, 16e président de la République de Chine (Taïwan), est né en octobre 1959 dans une famille de mineurs à New Taipei, district de Wanli. Spécialisé en médecine physique et réadaptation, il a poursuivi des études en santé publique à Harvard, avant d’abandonner la médecine pour entrer en politique en 1996. Il a occupé successivement les postes de député au Congrès national, député à la législature, maire de Tainan, Premier ministre, puis vice-président, avant d’être élu président en 2024. Il est le premier homme politique dans l’histoire constitutionnelle à être élu président en tant que vice-président, ainsi que le deuxième, après Lee Teng-hui, à avoir occupé les fonctions de Premier ministre, de vice-président et de président. [^1]
 
-**Mots-clés** : médecin élu, maire de Tainan, précédent constitutionnel, fils de mineur, santé publique
+**Mots-clés** : Médecin politique, Maire de Tainan, Première fois dans l’histoire constitutionnelle, Fils de mineur, Santé publique
 
-## La vocation médicale : un parcours triple en médecine
+## L’homme au cœur humain : une formation médicale unique en trois volets
 
-### De Wanli à l'Université nationale de Taïwan : des études qui ont changé un destin
+### De Wanli à l’Université nationale de Taïwan : un parcours universitaire déterminant
 
-Le 6 octobre 1959, Lai Ching-te naît dans une famille de mineurs du district de Wanli, à Nouveau Taipei[^2]. Son père meurt dans un accident minier alors qu'il n'a que deux ans. Sa mère élève seule six enfants grâce à la couture et à des emplois précaires. Cette enfance difficile aiguise sa sensibilité aux réalités sociales des classes populaires et forge son style politique « de terrain ».
+Le 6 octobre 1959, Lai Ching-te naît dans une famille de mineurs dans le district de Wanli à New Taipei. En janvier 1960, à l’âge de seulement 95 jours, son père meurt dans une mine de charbon à Wanli, victime d’une intoxication au monoxyde de carbone. Sa mère élève seule ses six enfants. [^2] Cette enfance difficile a forgé en lui une sensibilité particulière pour les préoccupations des citoyens ordinaires, et a modelé son style politique dit de « racine populaire ».
 
-Lai Ching-te est diplômé du département de médecine de réadaptation de l'Université nationale de Taïwan, puis de la faculté de médecine de l'Université nationale de Cheng Kung (programme post-licence), avant d'obtenir un master de la faculté de santé publique de l'Université Harvard aux États-Unis. Il devient ainsi l'un des rares médecins taïwanais à posséder une triple compétence en **troisième médecine (réadaptation), deuxième médecine (soins cliniques) et première médecine (santé publique)**. Cette formation médicale complète influence non seulement sa manière de penser, mais constitue aussi le fondement de son style de gouvernance fondé sur la « logique empirique ».
+Lai Ching-te a étudié la médecine physique et la réadaptation à l’Université nationale de Taïwan, puis a suivi un programme de médecine post-grade à l’Université nationale de Cheng Kung (Cheng Kung Medical College), et a obtenu un master en santé publique à l’Université de Harvard. Il est ainsi l’un des rares médecins en Taïwan à allier trois domaines médicaux : **la troisième médecine (réadaptation), la deuxième médecine (soins cliniques) et la première médecine (santé publique)**. [^1] Cette formation médicale complète a influencé sa manière de penser et est devenue la base de son style de gouvernance, caractérisé par une approche empirique et rigoureuse.
 
-### Les années Harvard : la formation d'une vision de politique publique
+### Les années à Harvard : une vision stratégique des politiques publiques
 
-À partir de l'an 2000, Lai Ching-te consacre trois étés à suivre des cours à la faculté de santé publique de l'Université Harvard, dans le domaine de la politique et de la gestion sanitaires, et obtient son master en 2003[^7]. Durant son séjour à Harvard, il se familiarise avec les concepts avancés de politique publique et les méthodes de recherche empirique. Cette expérience lui permet de passer du traitement de patients individuels à une réflexion sur la gestion de la santé à l'échelle de la société. Son style de gouvernance « ciblé » et sa prise de décision fondée sur les données, qu'il déploiera tout au long de sa carrière politique, découlent en grande partie de cette formation en santé publique.
+Lorsqu’il était député à la législature, Lai Ching-te a passé trois étés à suivre des cours à l’École de santé publique de Harvard, où il a obtenu un master en santé publique. [^3] Durant son séjour à Harvard, il a été exposé à des idées avancées en matière de politiques publiques et à des méthodes de recherche empirique. Cette expérience l’a amené à passer d’un traitement individuel des patients à une approche globale de la santé publique. Par la suite, il a fait preuve dans sa carrière politique d’un style de gouvernement qualifié de « précis » et « fondé sur les données », en grande partie influencé par cette formation en santé publique.
 
-En 1994, Lai Ching-te est nommé chef de clinique à l'hôpital universitaire de Cheng Kung, et s'engage la même année comme bénévole dans l'équipe de soutien médical de Chen Ding-nan, candidat à l'élection gouverneurale, marquant ainsi son entrée dans la sphère des affaires publiques.
+En 1994, Lai Ching-te a été nommé directeur médical de l’hôpital universitaire de Cheng Kung (Cheng Kung Hospital), et a activement soutenu la campagne électorale de Chen Shui-bian, gouverneur du district de Tainan. C’est ainsi qu’il a commencé à s’impliquer dans la vie publique. [^1]
 
-## Quitter la médecine pour la politique : un tournant historique dans la crise du détroit
+## Abandon de la médecine pour la politique : un tournant historique
 
-### L'inspiration de Chen Ding-nan : l'engagement dans la vie publique
+### L’inspiration de Chen Shui-bian : engagement dans la vie publique
 
-En 1994, Taïwan organise la première élection gouverneurale au suffrage universel. Lai Ching-te prend spontanément la présidence du « comité de soutien des médecins de Tainan » pour le candidat du Parti démocrate progressiste Chen Ding-nan, marquant le début de son engagement dans les affaires publiques. L'image d'intégrité et les idées réformatrices de Chen Ding-nan influencent profondément les valeurs politiques de Lai Ching-te.
+En 1994, Taïwan organisait ses premières élections législatives pour le poste de gouverneur provincial. Lai Ching-te s’est activement engagé comme président du comité de soutien médicale de Chen Shui-bian, candidat du Parti démocrate progressiste (PDP). C’était le point de départ de son implication dans la vie publique. L’image intègre et les idées réformatrices de Chen Shui-bian ont profondément influencé ses valeurs politiques.
 
-### La crise des missiles de 1996 : une décision décisive
+### La crise des missiles de 1996 : un choix décisif
 
-En 1996, la Chine procède à des exercices de tirs de missiles contre Taïwan, et la situation dans le détroit est au bord de l'explosion. Face à cette crise, Lai Ching-te prend une décision majeure : quitter définitivement la médecine pour la politique. Selon les rapports, il estime que la liberté démocratique de Taïwan nécessite l'engagement de davantage de personnes pour la défendre, et ce sens des responsabilités le pousse à changer de voie.
+En 1996, la Chine continentale a lancé des exercices militaires avec des missiles au-dessus de Taïwan, mettant la région dans une situation de tension extrême. Face à cette crise, Lai Ching-te a pris une décision fondamentale : il a officiellement abandonné sa carrière médicale pour se consacrer pleinement à la politique. Selon des rapports, il estimait que la démocratie et la liberté de Taïwan méritaient d’être défendues par davantage de personnes engagées, ce qui l’a poussé à changer de voie.
 
-La même année, il est élu représentant à l'Assemblée nationale dans la circonscription de Tainan, en tête des suffrages. Ironie du sort, sa première mission politique est précisément de « supprimer le poste de représentant à l'Assemblée nationale ». Ce symbole est profond : en partant de l'abolition de l'ancien système, sa carrière politique accompagne tout au long l'approfondissement et la réforme de la démocratie taïwanaise.
+La même année, il a été élu député au Congrès national avec la plus haute voix à Tainan, chargé de la mission de dissoudre le Congrès national. [^1] Cet événement symbolise l’abandon du système ancien et marque le début de sa carrière politique, qui s’est toujours accompagnée de la profonde démocratisation de Taïwan.
 
-## Parcours politique : trente ans du Parlement à la Présidence
+## Parcours politique : trente ans d’expérience, du Congrès à la présidence
 
-### La période de législateur (1998-2010) : une réputation d'expertise parlementaire
+### Mandat de député à la législature (1998-2010) : une réputation de rigueur
 
-De 1998 à 2010, Lai Ching-te est réélu quatre fois consécutives comme législateur, se distinguant par son expertise parlementaire et son image d'intégrité. Fort de sa formation médicale, il exerce une influence professionnelle sur des sujets tels que la réforme de l'assurance maladie et les politiques de santé publique. Durant cette période, il forge un style de questionnement parlementaire « bien préparé et documenté », ce qui lui vaut le surnom de « Dieu Lai » (賴神) au sein du Parlement.
+De 1998 à 2010, Lai Ching-te a été réélu quatre fois comme député à la législature, réputé pour son sérieux et sa probité. Il a utilisé son parcours médical pour exercer une influence professionnelle dans des domaines tels que la réforme de l’assurance maladie et les politiques de santé publique. Durant cette période, il a développé un style de travail caractérisé par une préparation approfondie et des données précises.
 
-### La période de maire de Tainan (2010-2017) : un modèle de gouvernance urbaine
+### Mandat de maire de Tainan (2010-2017) : un modèle de réussite urbaine
 
-Après la fusion des comtés et des villes en 2010, Lai Ching-te est élu premier maire de Tainan et est réélu sans difficulté en 2014. Durant ses huit années de mandat, il fait de Tainan une « capitale culturelle » et une « ville bas carbone ».
+Après la réforme des districts en 2010, Lai Ching-te a été élu maire de Tainan, devenant le premier maire de la nouvelle ville unie. En 2014, il a été réélu avec un taux de vote de 72,90 %, le plus élevé parmi les six grandes villes, ce qui lui a valu le surnom de « Lai le Dieu » (« Lai le Dieu » signifie littéralement « Lai le Dieu »). [^4] Son mandat s’est étendu du 25 décembre 2010 au 7 septembre 2017, soit près de sept ans. [^2]
 
-Sur le plan de la gouvernance culturelle, il promeut la marque « Tainan 400 », restaure systématiquement les sites historiques et soutient les industries créatives et culturelles. En matière d'infrastructures numériques, il déploie le réseau 4G et fait avancer le cadre de gouvernance numérique. Dans les domaines de l'énergie et de la protection sociale :
+Dans le domaine de la gouvernance numérique, la mairie de Tainan et Far EasTone ont lancé en 2015 le « Plan ville intelligente 4G de Tainan ». [^5]
 
-- **Pionnier environnemental** : promotion de l'énergie solaire photovoltaïque, faisant de Tainan une ville pilote en énergies vertes à l'échelle de Taïwan
-- **Protection sociale** : extension des subventions à l'assurance maladie pour les personnes âgées, développement des crèches publiques
+L’expérience de Lai Ching-te à Tainan a démontré sa capacité à passer d’une « guérison individuelle » à une « gestion urbaine » efficace.
 
-L'expérience de Lai Ching-te à Tainan démontre sa réussie transition du « traitement de l'individu » à la « gouvernance de la ville ».
+### Mandat de Premier ministre (2017-2019) : promotion des politiques publiques et défis
 
-### La période de président du Yuan exécutif (2017-2019) : promotion des politiques et défis
+En septembre 2017, Lai Ching-te a été nommé Premier ministre. La réforme des retraites, l’ordonnance spéciale sur les infrastructures de base prioritaires et la révision de la loi sur les services de soins de longue durée ont été adoptées en lecture finale au cours du premier semestre 2017, avant son prise de fonction. [^6][^7] La mesure la plus controversée de son mandat a été la révision de la loi sur les normes du travail, notamment le relâchement des limites d’heures de travail continue et d’heures supplémentaires, connue sous le nom de « une journée de repos par semaine ». [^2]
 
-En 2017, Lai Ching-te devient président du Yuan exécutif. Face aux défis majeurs que sont la réforme des retraites, la transition énergétique et le plan d'infrastructure « Forward-Looking », il démontre ses capacités de « communication, coordination » et d'« exécution des politiques ». Malgré de nombreuses controverses durant son mandat, les politiques qu'il promeut, telles que le programme de soins de longue durée 2.0 et la stratégie de nation numérique, sont adoptées par le législateur et entrent dans leur phase de mise en œuvre.
+### Mandat de vice-président (2020-2024) : pionnier des relations internationales
 
-### La période de vice-président (2020-2024) : pionnier de la diplomatie internationale
+En tant que vice-président, Lai Ching-te a représenté Taïwan à plusieurs reprises à l’étranger, notamment en août 2023, en tant que délégation spéciale, pour assister au couronnement du nouveau président du Paraguay, en transitant par New York et San Francisco. [^8] Son parcours médical et sa maîtrise de l’anglais ont joué un rôle important dans les contextes internationaux.
 
-Durant son mandat de vice-président, Lai Ching-te représente à plusieurs reprises Taïwan à l'étranger, notamment lors du « Voyage de prospérité partagée entre partenaires démocratiques » en 2023, transitant par les États-Unis et rencontrant des personnalités politiques importantes, renforçant ainsi la visibilité internationale de Taïwan. Sa formation médicale et sa maîtrise de l'anglais jouent un rôle important dans les contextes internationaux.
+En tandem avec Hsiao Mei-chih, qui a longtemps été représentante de Taïwan aux États-Unis, il a assuré la diplomatie informelle dans un contexte sensible des relations Taïwan-États-Unis. Leur répartition des rôles — Lai Ching-te concentrant sur les affaires intérieures et le discours politique, Hsiao Mei-chih gérant les relations extérieures et les liens avec les États-Unis — a été perçue comme un modèle complémentaire de leadership.
 
-Sa colistière Hsiao Bi-khim, qui a longtemps représenté Taïwan à Washington en tant que représentante aux États-Unis, a maintenu la communication bilatérale sur la ligne de front de la diplomatie informelle dans les relations sensibles entre les États-Unis et Taïwan, avec des stratégies flexibles. La division politique entre les deux — Lai Ching-te dirigeant la politique intérieure et le discours politique, Hsiao Bi-khim responsable des relations extérieures et des liens américano-taïwanais — est perçue par les observateurs comme une combinaison de leadership complémentaire.
+## Élection présidentielle de 2024 : une victoire historique
 
-## L'élection présidentielle de 2024 : une victoire créant un précédent constitutionnel
+### Résultats électoraux historiques
 
-### Un résultat électoral historique
+Le 13 janvier 2024, Lai Ching-te, avec Hsiao Mei-chih comme vice-président, a remporté l’élection présidentielle avec un taux de vote de 40,05 %. [^2] Cette victoire a établi plusieurs records constitutionnels :
 
-Le 13 janvier 2024, Lai Ching-te, avec Hsiao Bi-khim comme colistière, remporte l'élection présidentielle avec 40,05 % des suffrages[^5]. Cette victoire établit plusieurs records constitutionnels :
-
-1. **Premier personnage politique à se présenter et à être élu président alors qu'il était vice-président**
-2. **Premier président ayant une formation médicale professionnelle**
+1. **Premier homme politique à être élu président en tant que vice-président**
+2. **Premier président issu de la médecine depuis l’élection directe du président en 1996** [^1]
 3. **Artisan de la troisième victoire consécutive du Parti démocrate progressiste**
-4. **Deuxième personnage politique à avoir exercé successivement les fonctions de président du Yuan exécutif, de vice-président et de président**
+4. **Deuxième homme politique à avoir occupé les postes de Premier ministre, de vice-président et de président**
 
-### Caractéristiques de la campagne : gouvernance professionnelle face à la compétition politique
+### Caractéristiques de la campagne : gouvernance professionnelle vs compétition politique
 
-L'axe principal de la campagne de Lai Ching-te est la « gouvernance par l'expertise » et la « diplomatie pragmatique ». Il propose :
+L’axe principal de la campagne de Lai Ching-te a été la « gouvernance professionnelle » et la « diplomatie pragmatique ». Il a proposé :
 
-- L'approfondissement de la démocratie et la réforme institutionnelle
-- Le renforcement de la défense et de la coopération internationale
-- La promotion de la transition vers les énergies vertes et de l'économie numérique
-- L'amélioration du filet de sécurité sociale
+- Un approfondissement de la démocratie et des réformes institutionnelles
+- Un renforcement de la défense nationale et de la coopération internationale
+- Une transition vers les énergies vertes et l’économie numérique
+- L’amélioration du filet de sécurité sociale
 
 ## Mandat présidentiel (2024-)
 
-Après son investiture, Lai Ching-te fait face à une situation où le Yuan législatif est contrôlé par l'opposition, limitant son espace de gouvernance. Il utilise sa formation médicale comme base de son discours de gouvernance, mettant l'accent sur la logique de « preuve empirique » et de « prévention », et tente de faire avancer les réformes dans trois domaines principaux : la défense, l'énergie et la protection sociale.
+Depuis sa prise de fonction, Lai Ching-te doit faire face à une assemblée législative dominée par l’opposition, ce qui limite son marge de manœuvre. Il s’appuie sur son parcours médical pour articuler sa vision politique autour de la « rigueur empirique » et de la « prévention », cherchant à promouvoir des réformes dans les domaines de la défense nationale, de l’énergie et des services sociaux.
 
-### Orientations politiques
+### Orientation stratégique
 
-Les principales orientations politiques incluent :
+Les principales orientations politiques comprennent :
 
-- Le renforcement de la défense et de la coopération internationale
-- La promotion de la transition vers les énergies vertes et de l'économie numérique
-- L'amélioration du filet de sécurité sociale et du système de soins de longue durée
+- Un renforcement de la défense nationale et de la coopération internationale
+- Une transition vers les énergies vertes et l’économie numérique
+- L’amélioration du filet de sécurité sociale et du système de soins de longue durée
 
 ### Relations internationales
 
-Poursuivant la ligne « pro-américaine et amicale envers le Japon » de son prédécesseur, Lai Ching-te cherche à obtenir un espace de participation pour Taïwan sur des sujets tels que la coopération internationale en santé et le changement climatique. Cependant, son auto-positionnement en tant que « travailleur pour l'indépendance de Taïwan » conduit Pékin à adopter une attitude plus ferme, faisant des relations entre les deux rives le plus grand défi diplomatique de son mandat.
+Poursuivant la ligne « pro-américaine » des précédents gouvernements, Lai Ching-te cherche à élargir la participation de Taïwan dans les domaines de la santé publique et du changement climatique. Cependant, son autodéfinition en tant que « travailleur indépendantiste taïwanais » a poussé Pékin à adopter une posture plus dure, les relations entre les deux rives du détroit devenant le plus grand défi diplomatique de son mandat.
 
-## Le phénomène Lai Ching-te : perspectives multiples
+## Le phénomène Lai Ching-te : des perspectives variées
 
-Les évaluations de Lai Ching-te sont divisées, reflétant les différentes attentes de la société taïwanaise vis-à-vis d'une approche de « gouvernance par l'expertise ». Ses partisans soulignent son parcours populaire et le style de prise de décision rationnel issu de sa formation médicale, y voyant une illustration de la mobilité sociale dans la politique taïwanaise. Ses critiques estiment que la formation médicale ne signifie pas nécessairement une expertise politique, que le récit du « médecin-gouvernant » relève d'un emballage excessif, et que la situation de gouvernement minoritaire limite l'espace de mise en œuvre des politiques.
+Les évaluations de Lai Ching-te varient considérablement, reflétant les attentes contrastées de la société taïwanaise quant à la « gouvernance professionnelle ». Les partisans soulignent que son parcours de mineur à la présidence incarne l’ascension sociale possible dans la société taïwanaise, et que sa formation médicale apporte un style de décision rationnelle, distinctif des politiques traditionnels. Les critiques estiment que le parcours médical ne garantit pas automatiquement une compétence politique, et que le récit de « médecin-gouvernant » est excessivement glorifié, tandis que la majorité réduite à l’assemblée limite l’espace d’action politique.
 
-### Point de vue des partisans
+### Points de vue des partisans
 
-Ses partisans voient en Lai Ching-te la concrétisation de l'attente taïwanaise de « gouvernance par l'expertise » : le fils d'un mineur de Wanli accédant à la présidence est en soi un témoignage vivant de la mobilité sociale ; le style de prise de décision rationnel issu de la formation médicale est perçu comme un point de différenciation par rapport aux politiciens traditionnels.
+Les partisans considèrent Lai Ching-te comme l’incarnation concrète de l’aspiration à une « gouvernance professionnelle » en Taïwan : un fils de mineur montant à la présidence est le témoignage vivant de la mobilité sociale ; sa formation médicale apporte un style décisionnel rationnel, perçu comme une alternative aux politiques traditionnels.
 
-### Point de vue des critiques
+### Points de vue des critiques
 
-Les critiques soulignent que la situation de gouvernement minoritaire limite sévèrement l'espace de communication entre la majorité et l'opposition, que le taux de réalisation des promesses électorales et le manque de flexibilité de la politique envers la Chine continentale sont les préoccupations les plus fréquemment soulevées par les observateurs.
+Les critiques soulignent que la majorité réduite à l’assemblée limite fortement l’espace de dialogue inter-partisanique, et que le taux de réalisation des promesses électorales et l’absence de flexibilité dans les politiques liées aux relations avec la Chine continentale constituent les principales préoccupations soulevées par les observateurs.
 
 ## Controverses et défis
 
-La carrière politique de Lai Ching-te a toujours été accompagnée de controverses et de critiques :
+La carrière politique de Lai Ching-te a toujours été entourée de controverses et de critiques :
 
-### Controverse sur la position politique
+### Controverses politiques
 
-En 2017, alors qu'il était président du Yuan exécutif, Lai Ching-te s'est publiquement déclaré « travailleur pragmatique pour l'indépendance de Taïwan », provoquant des tensions dans les relations entre les deux rives et une forte réaction de Pékin. Ses partisans y voient un « politicien qui dit la vérité », tandis que ses critiques estiment que cette déclaration accroît les risques de confrontation. L'opposition continue de remettre en question le manque de flexibilité de sa politique envers la Chine continentale, estimant qu'elle pourrait aggraver la situation dans le détroit.
+En septembre 2017, alors qu’il venait d’être nommé Premier ministre, Lai Ching-te a déclaré lors d’une session parlementaire : « Je suis un travailleur politique engagé pour l’indépendance de Taïwan, et je ne changerai pas cette position quelle que soit la fonction que je remplirai. » Le groupe parlementaire du Parti républicain national a immédiatement critiqué cette déclaration, accusant Lai de mener Taïwan vers le conflit. [^9] Les partisans le considèrent comme un homme politique courageux à dire la vérité, tandis que les critiques jugent que cette prise de position risque d’exacerber les tensions. L’opposition continue de remet en question la flexibilité de sa politique envers la Chine continentale, craignant qu’elle puisse accroître les risques de conflit dans le détroit de Taïwan.
 
-### Écart entre promesses politiques et mise en œuvre
+### Écart entre promesses électorales et exécution
 
-La promesse de légiférer sur le « ratio infirmiers/patients par poste de travail » est la promesse électorale la plus symbolique de la campagne. Les associations infirmières militaient activement pour cette mesure avant 2024, mais en 2026, la progression de sa mise en œuvre est encore critiquée comme lente, et les infirmières continuent d'exiger la tenue de cette promesse. La reconnaissance des diplômes dentaires obtenus à l'étranger (communément appelée la controverse des « dentistes Bo-Bo ») est un autre sujet qui continue de fermenter : on attendait du président, fort de sa formation médicale, qu'il propose une solution, mais aucune politique claire n'a encore été définie. La stabilité de l'approvisionnement électrique dans le cadre de la politique de sortie du nucléaire est devenue un point d'attaque récurrent de l'opposition.
+L’adoption de la « norme de trois classes de personnel infirmier par patient » est l’une des promesses électorales les plus symboliques. Le 8 mai 2026, l’assemblée a adopté en lecture finale la révision de la loi médicale, officialisant la norme des trois infirmières par patient ; Lai Ching-te a ensuite annoncé une mise en œuvre progressive l’année suivante, suscitant des doutes quant à l’ampleur de la réforme par les députés de l’opposition. [^10][^11] La reconnaissance des diplômes étrangers en dentisterie (surnommée « controverse des dents de Pibo ») est un autre sujet sensible, sur lequel Lai Ching-te s’est engagé en novembre 2024 à durcir le contrôle des diplômes, sans augmenter le quota d’internats en dentisterie. [^12] La stabilité de l’approvisionnement énergétique dans le cadre de la politique anti-nucléaire reste un point faible régulièrement attaqué par l’opposition.
 
-### Affrontements politiques durant le mandat
+### Conflits politiques pendant le mandat
 
-Le Parti démocrate progressiste n'ayant pas obtenu la majorité au Yuan législatif, Lai Ching-te se retrouve dans une situation de gouvernement minoritaire, limitant structurellement son espace de gouvernance. L'opposition critique plusieurs affaires judiciaires comme étant politiquement ciblées, et l'intensité de l'affrontement entre la majorité et l'opposition après l'entrée en fonction est plus élevée que durant le second mandat de Tsai Ing-wen. Cette tension se manifeste de manière récurrente sur des sujets tels que le budget d'armement et la réforme judiciaire.
+Le Parti démocrate progressiste ne détenant pas la majorité à l’assemblée législative, la situation de gouvernement minoritaire limite l’espace d’action de Lai Ching-te. L’opposition critique régulièrement le caractère politique des affaires judiciaires, et le niveau de tension entre le pouvoir exécutif et l’opposition est plus élevé que lors du second mandat de Tsai Ing-wen. Cette tension persiste dans des sujets tels que les budgets d’armement et les réformes judiciaires.
 
-- **Relations entre la Présidence, le Yuan exécutif et l'opposition** : l'affrontement entre la majorité et l'opposition s'intensifie, l'espace de coopération transpartisane est limité
-- **Période de président du Yuan exécutif** : la nouvelle révision de la loi sur les normes du travail (« un jour de repos et un jour de congé flexible ») a provoqué de vives protestations des syndicats
+- **Relations entre le parti au pouvoir et l’opposition** : les tensions inter-partis sont exacerbées, avec peu d’espace pour la coopération trans-partisane
+- **Mandat de Premier ministre** : la révision de la loi sur les normes du travail, notamment la « une journée de repos par semaine », avait suscité des protestations vives des syndicats ouvriers
 
 ### Critiques du style de gouvernance
 
-Certains commentateurs estiment que le cadre narratif du « médecin élu » est excessivement idéalisé et s'interrogent sur la mise en œuvre réelle de la logique de gouvernance « diagnostic → traitement → suivi » dans la gestion effective de l'État. Les critiques soulignent que la formation médicale ne signifie pas nécessairement une bonne capacité de prise de décision politique.
+Certains observateurs estiment que le récit de « médecin politique » est excessivement romantique, et s’interrogent sur l’efficacité concrète de la logique « diagnostic → traitement → suivi » dans la gestion des affaires publiques. Les critiques soulignent que le parcours médical ne garantit pas nécessairement une compétence politique.
 
-## Place dans l'histoire
+## Position historique
 
-Lai Ching-te a établi plusieurs records constitutionnels (premier vice-président élu président, premier président médecin), et sa carrière politique illustre la possibilité de mobilité sociale dans la société taïwanaise — du fils d'un mineur de Wanli à la présidence.
+Lai Ching-te a établi plusieurs records constitutionnels (premier vice-président à être élu président, premier président issu de la médecine depuis l’élection directe), et sa carrière politique illustre la possibilité de mobilité sociale en Taïwan — d’un fils de mineur à la présidence.
 
-Cependant, en tant que président en exercice, sa place dans l'histoire est encore en cours d'écriture. Ses partisans le voient comme un nouveau modèle de « gouvernance par l'expertise », tandis que ses critiques estiment qu'il existe un écart entre les résultats de sa gouvernance et ses promesses électorales. L'évaluation finale que la société taïwanaise portera sur lui dépendra du degré de réalisation des politiques durant le reste de son mandat et de l'évolution des relations entre les deux rives.
+Cependant, en tant que président en exercice, sa place dans l’histoire reste à écrire. Les partisans le voient comme un nouveau modèle de « gouvernance professionnelle », tandis que les critiques estiment qu’il y a un écart entre ses résultats politiques et ses promesses électorales. L’évaluation finale de Lai Ching-te par la société taïwanaise dépendra de la réalisation concrète de ses politiques et de l’évolution des relations avec la Chine continentale au cours de son mandat.
 
-Le maintien des relations diplomatiques après l'investiture fait également l'objet d'une attention soutenue. Lors de sa visite en Eswatini en mai 2026, le roi Mswati III a envoyé un Airbus A340 royal à Taipei pour accueillir le président, symbolisant la reconnaissance par le seul allié diplomatique africain de Taïwan de la continuité des échanges diplomatiques, et constituant l'un des événements emblématiques de la politique de maintien des relations diplomatiques du gouvernement Lai Ching-te.
+Depuis sa prise de fonction, la question de la diplomatie a également suscité une attention particulière. En mai 2026, lors de sa visite à Eswatini, le roi Nswazi III a envoyé un avion royal Airbus A340 à Taipei pour l’accueillir, symbolisant la reconnaissance continue des relations diplomatiques entre le seul pays africain allié de Taïwan, et marquant un événement emblématique de la diplomatie de Lai Ching-te.
 
-**Pour aller plus loin** :
+**Lecture complémentaire** :
 
-- [2026 鄭習會：國共領導人十年再會的十分鐘](/fr/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — L'autre protagoniste de cette scène, celui délibérément laissé hors champ
-- [蕭美琴](/fr/people/hsiao-bi-khim) — La colistière vice-présidente de Lai Ching-te, de la représentante de Taïwan à Washington à la vice-présidente « chat de guerre »
-- [台灣國防與軍事現代化](/fr/society/taiwan-defense-modernization) — La politique la plus emblématique du mandat de Lai Ching-te : le budget spécial de 1 250 milliards et la mise en service du bataillon de chars M1A2T
-- [台灣民主轉型](/fr/history/taiwan-democratization) — Le fait que le fils d'un mineur de Wanli puisse devenir président est en soi un produit de la transition démocratique
-- [李洋](/fr/people/lee-yang-badminton) — Le plus jeune membre de l'histoire du Cabinet, nommé par Lai Ching-te lors de la cérémonie de prestation de serment, premier ministre des Sports
-- [沈伯洋](/fr/people/puma-shen) — Législateur du Parti démocrate progressiste inscrit sur la même liste de « séparatistes taïwanais obstinés », devenu en 2025 le premier élu taïwanais poursuivi par la Chine pour crime de sécession
-- [卓榮泰](/fr/people/cho-jung-tai) — Premier président du Yuan exécutif sous Lai Ching-te en 2024, coordinateur depuis 38 ans, devenu en décembre 2025 le premier président du Yuan exécutif de l'histoire constitutionnelle à ne pas cosigner la loi de répartition financière
-- [徐巧芯](/fr/people/hsu-chiao-hsin) — Législatrice du Kuomintang qui s'est affrontée à plusieurs reprises à Lai Ching-te lors des séances de questions, promotrice de la version à 800 milliards de la controverse sur les achats militaires de 2026
-- [台灣與史瓦帝尼](/fr/society/taiwan-eswatini-relations) — Première visite dans un pays allié après l'entrée en fonction de Lai Ching-te, le moment historique de mai 2026 où le roi d'Eswatini a prêté son Airbus A340 pour accueillir le président à Taipei
-- [想想論壇](/fr/society/thinking-taiwan-forum) — Lors de la refonte et du relancement du forum par Tsai Ing-wen en octobre 2025, le titre de l'éditorial express du United Daily News, « Lai Ching-te est encore en route ? », établissait un contraste implicite, présentant la refonte de la plateforme comme un rappel à l'égard de la ligne de gouvernance de Lai
+- [Réunion de 2026 entre Zheng Xishu et Xi Jinping : les dix minutes d’un rendez-vous entre dirigeants communistes et nationalistes après dix ans](/society/2026%E9%84%AD%E7%BF%85%E6%9C%9F%E8%81%AF%E7%9B%9B%E5%9F%BA%E4%BA%94%E5%B9%B4%E5%86%8D%E9%9D%A2) — l’autre acteur de cette pièce, celui qui a été intentionnellement laissé hors champ
+- [Hsiao Mei-chih](/people/蕭美琴) — la vice-présidente de Lai Ching-te, passée de la représentante de Taïwan aux États-Unis à la vice-présidente combative
+- [Défense nationale et modernisation militaire de Taïwan](/society/%E5%8F%B0%E7%81%A3%E5%9C%8B%E9%98%B2%E8%88%87%E5%85%B1%E8%AD%B0%E7%8E%89%E7%90%83%E5%8C%96) — la politique la plus emblématique du mandat de Lai Ching-te : un budget spécial de 1,25 billion de NT$ et l’arrivée d’une escadrons de chars M1A2T
+- [Transition démocratique de Taïwan](/history/台灣民主轉型) — le simple fait qu’un fils de mineur puisse devenir président est lui-même le fruit de la transition démocratique
+- [Li Yang](/people/%E6%9D%B1%E6%B3%B0) — le plus jeune membre du gouvernement jamais nommé par Lai Ching-te, ministre des Sports
+- [Shen Bozhi](/people/%E6%B2%96%E4%BC%AF%E6%B4%9B) — député non titulaire du Parti démocrate progressiste inscrit sur la liste des « séparatistes indépendantistes », est le premier homme politique taïwanais élu à être poursuivi par la Chine continentale pour crime de sécession
+- [Zhu Rongtai](/people/%E7%BF%81%E5%AE%89%E5%A4%AA) — Premier ministre nommé par Lai Ching-te en 2024, coordinateur de 38 ans, devenant en décembre 2025 le premier Premier ministre à ne pas être nommé par le président
+- [Xu Qixing](/people/%E8%94%9F%E6%99%BA%E8%8A%B1) — député du Parti républicain national qui a engagé de vives discussions avec Lai Ching-te lors des séances parlementaires, porte-parole de la version 80 milliards de NT$ du débat sur l’armement en 2026
+- [Taïwan et Eswatini](/society/%E5%8F%B0%E7%81%A3%E8%88%87%E6%96%AF%E7%B4%AB%E5%9F%BA%E5%9F%BA) — le voyage de Lai Ching-te en mai 2026 à Eswatini, un moment historique où le roi a envoyé un Airbus A340 pour l’accueillir à Taipei
+- [Forum réfléchissons](/society/%E6%83%B3%E6%83%B3%E8%AB%92%E5%A0%B1) — lors de la refonte du forum en octobre 2025, le journal du quotidien United Daily News a utilisé le titre percutant « Lai Ching-te est-il encore en route ? » pour implicitement comparer la réforme du forum à un rappel à l’ordre pour la direction politique de Lai Ching-te
 
-## Références
+## Sources
 
-[^1]: Site officiel de la Présidence de la République de Chine, Biographie du président, https://www.president.gov.tw/Page/694
+[^1]: [Président Lai Ching-te — Présidence de la République de Chine (Taïwan)](https://www.president.gov.tw/Page/694) — Biographie officielle de la présidence : formation, trois spécialités médicales, nomination en tant que directeur médical de l’hôpital de Cheng Kung en 1994, élection au Congrès national avec la plus haute voix à Tainan en 1996, premier président issu de la médecine depuis l’élection directe.
 
-[^2]: Article « Lai Ching-te » de Wikipédia, https://zh.wikipedia.org/zh-tw/%E8%B3%B4%E6%B8%85%E5%BE%B7
+[^2]: [Lai Ching-te — Wikipédia](https://zh.wikipedia.org/zh-tw/%E8%B3%B4%E6%B8%85%E5%BE%B7) — Décès de son père dans une mine en janvier 1960, mandat de maire de Tainan (du 25 décembre 2010 au 7 septembre 2017), deuxième homme politique après Lee Teng-hui à avoir occupé les postes de Premier ministre, vice-président et président, taux de vote de 40,05 % en 2024, révision de la norme de repos hebdomadaire.
 
-[^3]: Reportages et entretiens de CommonWealth Magazine au fil des années, https://www.cw.com.tw/article/5128853
+[^3]: [Lai Ching-te fan de Red Sox à Harvard, change d’allégeance pour soutenir Wang Chien-ming — Agence centrale de presse, 15 juin 2023](https://www.cna.com.tw/news/acul/202306150388.aspx) — Pendant son mandat de député, il a passé trois étés à étudier la santé publique à Harvard.
 
-[^4]: Données sur les diplômes de la faculté de médecine de l'Université nationale de Cheng Kung, https://www.ncku.edu.tw/
+[^4]: [Portrait d’un personnage — Fils de père disparu prématurément, l’amour de Lai Ching-te pour sa mère est aussi épais qu’un oignon — New Talk, 5 septembre 2017](https://newtalk.tw/news/view/2017-09-05/96954) — Réélection en 2014 avec un taux de vote de 72,90 %, le plus élevé parmi les six grandes villes, surnommé « Lai le Dieu ».
 
-[^5]: Bulletin électoral de l'élection présidentielle de 2024 de la Commission électorale centrale, https://bulletin.cec.gov.tw/
+[^5]: [La mairie de Tainan et Far EasTone lancent ensemble le plan ville intelligente, 20 projets seront déployés en trois ans — Digital Times, 12 août 2015](https://www.bnext.com.tw/article/37018/BN-2015-08-12-132525-117) — Plan ville intelligente 4G de Tainan.
 
-[^6]: Rapports annuels de gouvernance de la mairie de Tainan, https://www.tainan.gov.tw/News.aspx?n=4975&sms=13709
+[^6]: [Adoption en lecture finale de la révision partielle de la loi sur les services de soins de longue durée — Ministère de la Santé et du Bien-être, janvier 2017](https://mohw.gov.tw/cp-2704-7167-1.html) — Révision de la loi sur les services de soins de longue durée adoptée en janvier 2017.
 
-[^7]: Article « Lai Ching-te » de Wikipédia, archives de la formation à la faculté de santé publique de l'Université Harvard (2000–2003), https://zh.wikipedia.org/zh-tw/%E8%B3%B4%E6%B8%85%E5%BE%B7
+[^7]: [Réforme des retraites adoptée en lecture finale : le vice-président déclare que c’est une étape importante dans l’histoire nationale — Agence centrale de presse, 27 juin 2017](https://www.cna.com.tw/news/aipl/201706270376.aspx) — Réforme des retraites des fonctionnaires et militaires adoptée en juin 2017.
+
+[^8]: [Lai Ching-te part en mission spéciale au Paraguay ! En transit à New York et San Francisco, le président lui confie deux missions — TVBS News, août 2023](https://news.tvbs.com.tw/politics/2206603) — En août 2023, délégation spéciale pour assister au couronnement du président paraguayen, transitant par New York et San Francisco.
+
+[^9]: [Lai Ching-te défend l’indépendance de Taïwan : le groupe du Parti républicain national réagit avec colère : « Nous ne devons pas mener Taïwan vers le péril de la guerre » — Liberté, 27 septembre 2017](https://news.ltn.com.tw/amp/news/politics/breakingnews/2205850) — Déclaration de Lai Ching-te lors d’une session parlementaire en septembre 2017 et réaction du Parti républicain national.
+
+[^10]: [Adoption en lecture finale de la norme de trois infirmières par patient ! Les hôpitaux responsables risquent une amende maximale de 2 million de NT$ — TVBS Santé 2.0, 8 mai 2026](https://health.tvbs.com.tw/medical/362880) — Adoption en lecture finale de la révision de la loi médicale par l’assemblée, officialisant la norme des trois infirmières par patient.
+
+[^11]: [Lai Ching-te annonce une mise en œuvre progressive de la norme des trois infirmières par patient l’année prochaine : l’opposition réagit avec sarcasme : « Même 1 % de mise en œuvre suffit-il ? » — New Talk, 12 mai 2026](https://newtalk.tw/news/view/2026-05-12/1034739) — Annonce de la mise en œuvre progressive et les critiques de l’opposition.
+
+[^12]: [Controverse autour des dents de Pibo / Lai Ching-te promet un contrôle strict des diplômes — TVBS News, 13 novembre 2024](https://news.tvbs.com.tw/politics/2684692) — Engagement de durcir le contrôle des diplômes étrangers en dentisterie, sans augmenter le quota d’internats.

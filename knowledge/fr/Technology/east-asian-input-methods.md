@@ -1,245 +1,253 @@
 ---
-title: "Le conflit des civilisations sur le clavier : un siècle d'évolution des méthodes de saisies des langues est-asiatiques"
-description: 'Quand tous les claviers du monde se ressemblent, comment différentes civilisations parviennent-elles à faire entrer leurs écritures dans 26 lettres latines ? Du zhuyin taïwanais au dubeolsik coréen, les méthodes de saisie constituent une guerre culturelle silencieuse.'
+title: "Conflit civilisationnel sur le clavier : l'évolution centenaire des méthodes de saisie en Asie de l'Est"
+description: 'Quand tous les claviers du monde se ressemblent, comment différentes civilisations parviennent-elles à faire entrer leurs caractères dans 26 lettres latines ? De Zhuyin à Dubeolsik, la méthode de saisie est une bataille silencieuse pour la préservation culturelle.'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'Technology'
-subcategory: '文字與工具'
 tags:
   [
     'méthode de saisie',
     'technologie',
     'culture',
-    'zhuyin',
-    'cangjie',
+    'Zhuyin',
+    'Cangjie',
     'clavier',
     'numérisation',
     "Asie de l'Est",
-    'écriture',
+    'caractères',
   ]
-readingTime: 15
+subcategory: '文字與工具'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: true
-translatedFrom: Technology/東亞文字輸入法.md
-sourceCommitSha: 24efd20f3
-sourceContentHash: sha256:d8c6f0fd322ce1e4
-sourceBodyHash: sha256:c009ff8e72f638e1
-translatedAt: 2026-05-15T14:23:14+08:00
+readingTime: 15
+translatedFrom: 'Technology/東亞文字輸入法.md'
+sourceCommitSha: 'c0bb841a7'
+sourceContentHash: 'sha256:90551a3865db4ef0'
+sourceBodyHash: 'sha256:2cf976c21e3add32'
+translatedAt: '2026-10-04T00:51:58+08:00'
 ---
 
-# Le conflit des civilisations sur le clavier : un siècle d'évolution des méthodes de saisies des langues est-asiatiques
+# Conflit civilisationnel sur le clavier : l'évolution centenaire des méthodes de saisie en Asie de l'Est
 
-## Vue d'ensemble en 30 secondes
+## Aperçu en 30 secondes
 
-Tous les claviers d'ordinateur dans le monde suivent la disposition QWERTY, une configuration conçue dans les années 1870 pour les machines à écrire anglaises. Mais les systèmes d'écriture utilisés par plus de 2 milliards de personnes en Asie de l'Est (sinogrammes, kana, hangul, thaï, birman) ne sont pas des écritures alphabétiques. Comment font-ils ? La réponse : chaque civilisation a inventé sa propre « couche de traduction » — la méthode de saisie. Ces méthodes ne sont pas de simples outils techniques ; ce sont des champs de bataille identitaires. Taïwan utilise le zhuyin, la Chine le pinyin, le Japon les romaji, la Corée décompose directement les lettres. Chaque choix reflète une philosophie différente face à la numérisation.
-
----
-
-## Le cœur du problème : 26 lettres contre des dizaines de milliers de caractères
-
-Les anglophones n'ont jamais eu besoin de « méthode de saisie » — le clavier comporte 26 lettres, on tape ce qui s'affiche. Mais les sinogrammes dépassent les 50 000, dont 3 000 à 5 000 en usage courant. Impossible de fabriquer un clavier de 5 000 touches.
-
-Cela signifie que les civilisations est-asiatiques doivent résoudre un problème fondamental : **comment exprimer une écriture quasi infinie avec un nombre limité de touches ?**
-
-Chaque civilisation a apporté une réponse radicalement différente, et ces réponses reflètent profondément leur structure linguistique, leur système éducatif, voire leurs choix politiques.
+Les claviers d'ordinateurs du monde entier utilisent la disposition QWERTY, un agencement conçu pour les machines à écrire anglaises au XIXe siècle. Or, les systèmes d'écriture utilisés par plus de deux milliards de personnes en Asie (les caractères chinois, les kana japonais, le coréen, le thaï, le birman) ne peuvent pas être directement traduits dans ces 26 lettres latines : les caractères chinois comptent des milliers de formes, et même si le coréen, le thaï et le birman sont des systèmes phonétiques, le nombre de lettres et les règles de combinaison diffèrent complètement de l'anglais. Quelle est leur solution ? La réponse est : chaque civilisation a inventé sa propre « couche de traduction » — la méthode de saisie. Ces méthodes ne sont pas de simples outils techniques ; elles sont des champs de bataille pour l'identité culturelle. Taïwan utilise Zhuyin, la Chine utilise Pinyin, le Japon utilise les caractères romains, et la Corée décompose directement les lettres : chaque choix est porteur d'une philosophie différente face à la numérisation.
 
 ---
 
-## 🇹🇼 Taïwan : le zhuyin (trouver le caractère par la prononciation)
+## L'essence du problème : 26 lettres contre des dizaines de milliers de caractères
 
-### Les racines historiques du zhuyin
+Les utilisateurs anglais n'ont jamais eu besoin d'une « méthode de saisie » — le clavier possède 26 lettres, et ce que vous tapez est ce qui sort. Mais les caractères chinois en existent plus de 50 000, avec environ 3 000 à 5 000 étant couramment utilisés. Il est impossible de concevoir un clavier avec 5 000 touches.
 
-La méthode de saisie dominante à Taïwan est la **méthode zhuyin**, qui utilise 37 symboles phonétiques (ㄅㄆㄇㄈ⋯) pour transcrire la prononciation. Pour écrire « 台灣 » (Taïwan), on tape `ㄊㄞˊ ㄨㄢ`, puis le système affiche une liste de caractères homophones parmi lesquels choisir.
+Cela signifie que les civilisations d'Asie de l'Est ont dû résoudre un problème fondamental : **comment exprimer une infinité de caractères avec des touches limitées ?**
 
-Les symboles zhuyin eux-mêmes sont nés en 1913 lors de la « Conférence pour l'unification de la prononciation », simplifiés à partir de radicaux de sinogrammes anciens par des érudits comme Zhang Taiyan. Il s'agit d'un **système phonétique totalement indépendant de l'alphabet latin**, un point crucial.
+Chaque civilisation a donné une réponse radicalement différente, et ces réponses reflètent profondément leur structure linguistique, leur système éducatif, voire leurs choix politiques.
 
-### Pourquoi Taïwan tient au zhuyin ?
+---
 
-Le maintien du zhuyin à Taïwan repose sur quatre raisons qui se renforcent mutuellement. Le système éducatif en est le fondement : les dix premières semaines du cours préparatoire sont entièrement consacrées à l'enseignement du zhuyin, l'outil d'alphabétisation le plus enraciné chez chaque Taïwanais — le coût d'un changement serait trop élevé. L'identité culturelle est le moteur : le zhuyin est un système de notation propre au monde du chinois traditionnel, qui n'utilise pas l'alphabet latin et est perçu comme une continuation de la tradition culturelle chinoise. Sur le plan technique, le zhuyin peut transcrire avec précision les quatre tons du mandarin (et même le ton léger), ce que le pinyin chinois a plus de difficulté à réaliser complètement. Enfin, les claviers taïwanais portent les symboles zhuyin correspondants à côté de chaque lettre latine, créant un double marquage qui ancre ce système au niveau matériel.
+## 🇹🇼 Taïwan : le Zhuyin (trouver le caractère par la « prononciation »)
 
-### Les limites du zhuyin
+### Les racines historiques du Zhuyin
 
-Le principal problème du zhuyin est l'**homophonie excessive**. Le mandarin ne compte qu'environ 1 300 syllabes distinctes, mais doit couvrir des dizaines de milliers de sinogrammes. Taper « ㄕˋ » peut afficher des dizaines de caractères : « 是、事、式、室、市、試、視、適、勢、世⋯ ». L'utilisateur doit sélectionner dans la liste de candidats, ce qui ralentit la saisie.
+La méthode de saisie dominante à Taïwan est le **Zhuyin** (注音), qui utilise 37 symboles phonétiques (ㄅㄆㄇㄈ...) pour marquer la prononciation. Si vous voulez taper « Taïwan », vous appuyez sur `ㄊㄞˊ ㄨㄢ`, et le système affiche des caractères homophones pour que vous en choisissiez un.
 
-Ces dernières années, les méthodes de saisie zhuyin intelligentes (comme Microsoft New Phonetic, RIME) ont considérablement amélioré la précision grâce à la prédiction contextuelle par IA, mais le problème fondamental de la sélection de caractères persiste.
+Les symboles Zhuyin, nommés initialement lettres Zhuyin, ont été codifiés par la réunion du Ministère de l'Éducation en 1913, basée sur les « Niuwen » (紐文) et « Yunwen » (韻文) dérivés des composants anciens des caractères chinois par Chang Tai-yan, et officiellement publiés en 1918[^7]. C'est un **système phonétique entièrement indépendant de l'alphabet latin**, ce qui est crucial.
+
+### Pourquoi Taïwan maintient le Zhuyin ?
+
+Il y a quatre raisons interdépendantes pour lesquelles Taïwan défend le Zhuyin. Le système éducatif est la base : les dix premières semaines de première année scolaire sont consacrées à l'apprentissage du Zhuyin, c'est l'outil d'alphabétisation le plus enraciné chez chaque Taïwanais ; le coût du remplacement est trop élevé. L'identité culturelle est le moteur : les symboles Zhuyin constituent un système de marquage propre au monde des caractères traditionnels et ne s'appuyant pas sur l'alphabet latin, il est perçu comme une continuation de la tradition culturelle chinoise. Techniquement, le Zhuyin permet de marquer avec précision les quatre tons du Mandarain et les tons légers. Enfin, les claviers taïwanais portent des symboles Zhuyin correspondants à côté de chaque lettre latine, formant un marquage double qui ancre ce système au niveau matériel.
+
+### Les limites du Zhuyin
+
+Le plus grand problème du Zhuyin est le **grand nombre d'homophones**. Le Mandarain n'a qu'environ 1 300 syllabes différentes, mais il doit correspondre à des dizaines de milliers de caractères. Taper « shí » peut faire apparaître des dizaines de caractères comme « shì, shì, shì, shì, shì... ». L'utilisateur doit sélectionner un caractère dans la liste de suggestions, ce qui ralentit la vitesse de saisie.
+
+Ces dernières années, les méthodes de saisie Zhuyin intelligentes (comme Microsoft New Zhuyin ou RIME) ont considérablement amélioré la précision grâce à la prédiction contextuelle par IA, mais le problème fondamental du choix reste présent.
 
 ### Cangjie : une autre voie
 
-En 1976, **Zhu Bangfu**, surnommé le « père de l'informatique chinoise », inventa la **méthode Cangjie**, une approche qui ne repose pas du tout sur la prononciation mais sur la **décomposition graphique** des caractères. Chaque sinogramme est décomposé en 1 à 5 « radicaux » correspondant à 25 touches du clavier (A à Y, la touche Z étant exclue[^2]).
+En 1976, **Chu Pang-fu** (朱邦復), considéré comme le « père de l'ordinateur chinois », a inventé la méthode de saisie **Cangjie** (倉頡), qui ne repose pas sur la prononciation mais sur la **décomposition des formes des caractères**. Chaque caractère est décomposé en 1 à 5 « racines de caractères » (字根), correspondant aux 25 touches du clavier (de A à Y, sans la touche Z[^2]).
 
-Par exemple, « 明 » (lumière) = 日 (soleil) + 月 (lune) = `A` + `B`.
+Par exemple, « Ming » = 日 + 月 = `A` + `B`.
 
-L'avantage de Cangjie est le **un caractère, un code** — pas besoin de sélectionner. Les utilisateurs expérimentés de Cangjie peuvent dépasser la vitesse du zhuyin. Zhu Bangfu renonça par la suite au brevet de Cangjie, en faisant un pionnier open source des méthodes de saisie chinoises, vingt ans avant le mouvement du logiciel libre[^1].
+L'avantage de Cangjie est qu'il présente le taux d'erreur le plus bas parmi les méthodes de saisie chinoises[^2] ; un utilisateur expérimenté n'a presque pas besoin de choisir des caractères. La vitesse d'un utilisateur de Cangjie compétent peut dépasser celle du Zhuyin. En 1982, Chu Pang-fu a rendu public son abandon des droits de brevet sur Cangjie[^2], permettant à quiconque de l'utiliser gratuitement et l'intégrant dans le système, dix ans avant que le concept d'« open source » n'apparaisse (en 1998).
 
-Cangjie est extrêmement populaire à Hong Kong (plus de la moitié des utilisateurs d'ordinateurs), mais reste minoritaire à Taïwan, principalement en raison de sa courbe d'apprentissage abrupte.
+Cangjie est extrêmement populaire à Hong Kong (plus de la moitié des utilisateurs d'ordinateurs), mais il est resté une minorité à Taïwan en raison de sa courbe d'apprentissage abrupte.
 
-### La méthode HangLie
+### La méthode Hanjie (行列)
 
-La **méthode HangLie**, inventée par Liao Mingde, est une autre solution taïwanaise, qui décompose les sinogrammes à l'aide des touches numériques, avec une philosophie de conception visant à « ne pas avoir à mémoriser trop de radicaux ». Elle représente l'innovation continue de Taïwan dans le domaine des méthodes de saisie.
-
----
-
-## 🇨🇳 La Chine : le pinyin (transcrire le chinois en lettres latines)
-
-### Le choix du pinyin
-
-La méthode de saisie dominante en Chine continentale est la **méthode pinyin**, qui utilise directement les 26 lettres latines pour transcrire la prononciation des sinogrammes. Pour écrire « 台湾 », on entre `taiwan`, et le système convertit en chinois simplifié.
-
-Ce choix s'inscrit dans un contexte historique profond :
-
-1. **Le schéma pinyin promulgué en 1958** : il remplaça l'ancien système zhuyin (appelé « symboles phonétiques » en Chine) et la romanisation Wade-Giles
-2. **La réforme des caractères simplifiés** : à partir de 1956, les sinogrammes simplifiés furent promus, complémentaires à la saisie pinyin — apprendre le pinyin → taper en pinyin → obtenir des caractères simplifiés
-3. **Considération d'internationalisation** : le pinyin utilise l'alphabet latin, facilitant l'apprentissage du chinois pour les étrangers et permettant aux sinophones de saisir du texte sur n'importe quel clavier standard
-
-### Pinyin vs zhuyin : une divergence culturelle que vous n'aviez peut-être pas remarquée
-
-En surface, zhuyin et pinyin sont tous deux des systèmes « de recherche par prononciation ». Mais les différences profondes sont considérables :
-
-|                           | Zhuyin taïwanais                  | Pinyin chinois                          |
-| ------------------------- | --------------------------------- | --------------------------------------- |
-| Système de symboles       | Symboles indépendants (ㄅㄆㄇ)    | Lettres latines (bpmf)                  |
-| Racines culturelles       | Dérivé de radicaux chinois        | Issu du mouvement de latinisation       |
-| Prérequis d'apprentissage | Pas besoin d'anglais au préalable | Nécessite de connaître l'alphabet latin |
-| Besoin en clavier         | Clavier avec annotations zhuyin   | N'importe quel clavier latin            |
-| Rapport à l'écriture      | « Décrire la prononciation »      | « Traduire en alphabet latin »          |
-
-Cette différence n'est pas seulement technique ; elle reflète la divergence fondamentale entre les deux rives du détroit sur la question de « comment le chinois devrait s'articuler avec l'international ». Taïwan a choisi de préserver un système symbolique indépendant de l'Occident, la Chine a choisi d'embrasser la latinisation.
-
-### Wubi : le « Cangjie » chinois
-
-Il est à noter que la Chine possède aussi des méthodes de saisie graphiques, dont la représentante est **Wubi** (Wang Yongmin, 1983). Sa logique est similaire à Cangjie, décomposant les sinogrammes en traits correspondant aux touches. Wubi était extrêmement répandu dans les bureaux chinois dans les années 1990, mais avec l'intelligence des méthodes pinyin et la popularisation du téléphone portable, son usage a chuté drastiquement. Aujourd'hui, plus de 95 % des utilisateurs chinois saisissent en pinyin.
+La **méthode Hanjie** (行列, _Hángliè_), inventée par Liao Ming-te (廖明德), est une autre solution locale taïwanaise qui décompose les formes des caractères en fonction de la position « ligne » et « colonne » sur le clavier. Les premières versions utilisaient les touches numériques du haut pour un total de 40 codes, appelées « Hanjie 40 » ; la version actuelle, « Hanjie 30 », n'utilise que trois rangées de lettres[^8]. Elle représente l'innovation continue de Taïwan dans le domaine des méthodes de saisie.
 
 ---
 
-## 🇯🇵 Le Japon : la triple transformation romaji → kana → kanji
+## 🇨🇳 Chine : Pinyin (utiliser les lettres latines pour épeler le chinois)
+
+### Le choix du Pinyin
+
+La méthode de saisie dominante en Chine continentale est le **Pinyin** (漢語拼音), qui utilise directement les 26 lettres latines pour épeler la prononciation des caractères. Pour taper « Taïwan », on entre `taiwan`, et le système convertit en chinois simplifié.
+
+Ce choix a un fond historique profond :
+
+1. **L'adoption du plan Pinyin en 1958** : il a remplacé les anciennes lettres Zhuyin (appelées « symboles Zhuyin » en Chine) et la méthode de Wade-Giles.
+2. **La réforme des caractères simplifiés** : à partir de 1956, les caractères simplifiés ont été promus, complétant le Pinyin — apprendre le Pinyin $\rightarrow$ taper avec le Pinyin $\rightarrow$ obtenir le caractère simplifié.
+3. **Considérations internationales** : le Pinyin utilise l'alphabet latin, ce qui facilite l'apprentissage du chinois pour les étrangers et permet aux utilisateurs chinois de saisir sur n'importe quel clavier standard.
+
+### Pinyin contre Zhuyin : une divergence culturelle que vous avez peut-être manquée
+
+En apparence, le Zhuyin et le Pinyin sont tous deux des méthodes « trouver le caractère par la prononciation ». Mais les différences profondes sont immenses :
+
+|                            | Zhuyin Taïwanais                                    | Pinyin Chinois                             |
+| :------------------------- | :-------------------------------------------------- | :----------------------------------------- |
+| Système de symboles        | Symboles indépendants (ㄅㄆㄇ)                      | Lettres latines (bpmf)                     |
+| Racines culturelles        | Dérivé des composants chinois                       | Issu du mouvement latinisation             |
+| Prérequis d'apprentissage  | Ne nécessite pas d'apprendre l'anglais au préalable | Nécessite de connaître les lettres latines |
+| Exigence clavier           | Nécessite un clavier marqué avec le Zhuyin          | N'importe quel clavier anglais             |
+| Relation avec le caractère | « Décrit la prononciation »                         | « Traduit en alphabet latin »              |
+
+Cette différence n'est pas seulement technique ; elle reflète une divergence fondamentale entre les deux rives sur la question de **« comment le chinois doit s'aligner sur la scène internationale »**. Taïwan a choisi de conserver un système de symboles indépendant de l'Occident, tandis que la Chine a opté pour l'adoption du latin.
+
+### Les caractères à cinq traits : le « Cangjie » chinois
+
+Il est digne de mentionner que la Chine possède également une méthode de saisie basée sur les formes des caractères, représentée par **Wǔbǐ zìxíng** (五筆字型) (Wang Yongmin, 1983). Sa logique est similaire à celle de Cangjie, décomposant les caractères en traits pour les associer aux touches du clavier. Wǔbǐ était très populaire dans les bureaux chinois des années 1990, mais son taux d'utilisation a chuté drastiquement avec l'intelligence croissante du Pinyin et la popularité des téléphones mobiles. Aujourd'hui, la majorité des utilisateurs en Chine utilisent le Pinyin.
+
+---
+
+## 🇯🇵 Japon : la transformation en trois étapes (Romaji $\rightarrow$ Kana $\rightarrow$ Kanji)
 
 ### Le défi unique de la saisie japonaise
 
-Le japonais est l'un des systèmes d'écriture les plus complexes au monde, utilisant simultanément trois écritures :
+Le japonais est l'un des systèmes d'écriture les plus complexes au monde, utilisant simultanément trois ensembles de caractères :
 
-- **Hiragana** (ひらがな) : 46 symboles syllabiques de base
-- **Katakana** (カタカナ) : 46 symboles, principalement pour les mots d'origine étrangère
-- **Kanji** (漢字) : environ 2 000 à 3 000 en usage courant
+- **Hiragana** (ひらがな) : 46 symboles phonétiques de base
+- **Katakana** (カタカナ) : 46 symboles, principalement utilisés pour les mots étrangers
+- **Kanji** (漢字) : environ 2 000 à 3 000 caractères couramment utilisés
 
-L'approche standard de la saisie japonaise est la **saisie en romaji** (ローマ字入力) :
+La méthode standard de saisie japonaise est la « **saisie Romaji** » (ローマ字入力) :
 
-1. Taper des lettres latines → conversion automatique en hiragana : `ka` → `か`, `n` → `ん`
-2. Continuer la saisie, le système compose des mots : `kanji` → `かんじ`
-3. Appuyer sur la barre d'espace pour convertir en kanji : `かんじ` → `漢字`
+1. Taper des lettres latines $\rightarrow$ conversion automatique en Hiragana : `ka` $\rightarrow$ `か`, `n` $\rightarrow$ `ん`.
+2. Continuer à taper, le système compose un mot : `kanji` $\rightarrow$ `かんじ`.
+3. Appuyer sur la barre d'espace pour convertir en Kanji : `かんじ` $\rightarrow$ `漢字`.
 
-C'est un processus de **transformation à trois niveaux** : lettres latines → kana → kanji, chaque niveau nécessitant le jugement de l'utilisateur.
+C'est un processus de **trois niveaux de conversion** : lettres latines $\rightarrow$ Kana $\rightarrow$ Kanji, chaque étape nécessitant le jugement de l'utilisateur.
 
-### Pourquoi le Japon utilise les romaji plutôt que la saisie directe en kana ?
+### Pourquoi le Japon utilise-t-il le Romaji au lieu d'entrer directement en Kana ?
 
-Le Japon dispose effectivement d'une option de **saisie directe en kana** (かな入力), où chaque touche correspond à un kana. Mais cela nécessite de mémoriser plus de 50 positions de touches, et le système éducatif japonais enseigne déjà les romaji dans les cours d'anglais, de sorte que la plupart des gens trouvent plus pratique d'utiliser les lettres latines.
+Le Japon dispose effectivement de la **saisie directe en Kana** (かな入力), où chaque touche correspond à un kana. Mais cela exige de mémoriser plus de 50 positions, et comme le système éducatif japonais enseigne déjà le Romaji dans l'apprentissage de l'anglais, beaucoup trouvent plus pratique d'utiliser les lettres latines.
 
-Aujourd'hui, la majorité des utilisateurs japonais optent pour la saisie en romaji (proportion estimée à environ 80-90 %, le chiffre exact variant selon la méthodologie d'enquête[^6]), seuls quelques personnes âgées ou dactylographes professionnels utilisant la saisie directe en kana.
+Sur ordinateur, la grande majorité des utilisateurs japonais utilisent la saisie Romaji ; la saisie directe en Kana est minoritaire. Sur mobile, c'est l'inverse : la méthode de sélection directe du kana est largement utilisée[^6].
 
-### La dimension culturelle de la saisie japonaise
+### L'implication culturelle de la saisie japonaise
 
-La conversion des kanji en japonais a un effet culturel intéressant : les jeunes commencent à **oublier comment écrire les kanji à la main**. Puisque la méthode de saisie affiche automatiquement le kanji correct, l'utilisateur n'a besoin que de savoir « comment le prononcer », pas « comment l'écrire ». Ce phénomène a un nom dédié au Japon : « **漢字忘れ** » (oublier les kanji).
-
----
-
-## 🇰🇷 La Corée : le dubeolsik (la conception de clavier la plus élégante)
-
-### Le génie du hangul : des lettres directement mappables sur les touches
-
-Le hangul (한글), alphabet coréen, est un système de lettres créé en 1443 sur ordre du roi Sejong, et l'un des rares systèmes d'écriture au monde à avoir un inventeur identifié. Il se compose de 14 consonnes (ㄱㄴㄷㄹ⋯) et de 10 voyelles (ㅏㅓㅗㅜ⋯), ces lettres se combinant en blocs syllabiques.
-
-Le hangul ne compte que 24 lettres de base (consonnes + voyelles), ce qui tient parfaitement dans les 26 touches d'un clavier QWERTY !
-
-### Le dubeolsik (두벌식) : consonnes à gauche, voyelles à droite
-
-La méthode de saisie standard coréenne, le **dubeolsik** (« à deux sections »), est d'une conception remarquablement intuitive :
-
-- **La main gauche** frappe les consonnes : ㄱ(r) ㄴ(s) ㄷ(e) ㄹ(f) ㅁ(a)⋯
-- **La main droite** frappe les voyelles : ㅏ(k) ㅓ(j) ㅗ(h) ㅜ(n) ㅡ(m)⋯
-
-On tape en alternant les deux mains, avec un excellent rythme, et **sans sélection de caractères** — on tape ce qui s'affiche.
-
-C'est la **seule méthode de saisie en Asie de l'Est qui ne nécessite pas de liste de candidats**. Les blocs syllabiques du hangul se composent en temps réel : taper `ㅎ` + `ㅏ` + `ㄴ` = 한, taper `ㄱ` + `ㅡ` + `ㄹ` = 글. L'ensemble du processus est sans latence et sans sélection.
-
-### Pourquoi la saisie coréenne est-elle la plus élégante ?
-
-Parce que le hangul lui-même a été conçu pour être « facile à écrire ». La philosophie de conception du roi Sejong était : « l'homme sage l'apprend avant la fin de la matinée, l'homme ignorant peut l'assimiler en dix jours »[^3]. Six cents ans plus tard, cette conception s'adapte toujours parfaitement à l'ère numérique : 24 lettres qui tiennent exactement dans le clavier, consonnes et voyelles réparties entre les deux mains, sans conversion ni sélection.
+La conversion Kanji au Japon a un effet culturel amusant : les jeunes commencent à **oublier comment écrire les caractères manuellement**. Parce que la méthode de saisie affiche automatiquement le caractère correct, l'utilisateur n'a besoin de savoir « comment il se prononce », pas nécessairement « comment il s'écrit ». Les Japonais plaisantent souvent en disant qu'après avoir beaucoup tapé, ils comprennent les Kanji mais oublient immédiatement leur écriture.
 
 ---
 
-## 🇹🇭 La Thaïlande : le Kedmanee (une disposition héritée de l'ère des machines à écrire)
+## 🇰🇷 Corée : Dubeolsik (la conception de clavier la plus élégante)
 
-### Le défi du thaï : 44 consonnes + des signes de ton
+### Le génie coréen : les lettres correspondent directement aux touches
 
-Le thaï comporte 44 symboles consonantiques, 15 symboles vocaliques (pouvant se combiner en 28 formes vocaliques), 4 signes de ton, soit au total plus de 60 caractères, bien au-delà du nombre de touches d'un clavier standard.
+Le coréen (한글, _Hangul_) est un système d'écriture créé par décret du Roi Sejong en 1443, et c'est l'un des rares systèmes à avoir un « inventeur clair ». Il est composé de 14 consonnes (ㄱㄴㄷㄹ...) et 10 voyelles (ㅏㅓㅗㅜ...), ces lettres se combinant pour former des blocs syllabiques.
 
-La solution est la **disposition Kedmanee** (เกษมณี), conçue par Suwanprasert Ketmanee dans les années 1920-1930 pour les machines à écrire thaïes[^4] (Wikipedia situe la finalisation de cette disposition aux alentours de 1932). Elle place les caractères les plus fréquents sur les positions sans Shift, et les moins utilisés sur la couche Shift.
+Les seules 24 lettres de base du coréen (consonne + voyelle) tiennent parfaitement dans les 26 touches du clavier QWERTY !
 
-### La particularité de la saisie en thaï
+### Dubeolsik (두벌식) : Consonnes à la main gauche, voyelles à la main droite
 
-Le thaï est une **écriture alphabétique**, mais ses règles d'écriture sont extrêmement complexes : les voyelles peuvent apparaître avant, après, au-dessus ou en dessous des consonnes. Par exemple, เ (e) s'écrit avant la consonne, mais se prononce après. Cela signifie que l'ordre de frappe ne correspond pas nécessairement à l'ordre de lecture, et les utilisateurs doivent s'habituer à certaines situations où « on tape d'abord la voyelle, puis la consonne ».
+La méthode de saisie standard coréenne, **Dubeolsik** (두벌식, signifiant « deux ensembles » : un ensemble pour les consonnes, un pour les voyelles), est extrêmement intuitive[^3] :
 
-La saisie en thaï ne nécessite pas de sélection de caractères (comme le coréen), mais demande de mémoriser les positions sur deux couches (normal + Shift).
+- La **main gauche** est responsable des consonnes : ㄱ(r) ㄴ(s) ㄷ(e) ㄹ(f) ㅁ(a)...
+- La **main droite** est responsable des voyelles : ㅏ(k) ㅓ(j) ㅗ(h) ㅜ(n) ㅡ(m)...
+
+La frappe alterne les deux mains, avec un rythme excellent, et surtout, **il n'y a pas de sélection de caractères**, ce qui sort directement.
+
+Parmi les méthodes de saisie des cultures chinoises, c'est la seule à ne pas nécessiter une liste de suggestions (le clavier coréen possède des touches Kanji séparées pour la conversion, mais cela n'est pas utilisé en frappe quotidienne). Les blocs syllabiques du coréen sont combinés instantanément : taper `ㅎ` + `ㅏ` + `ㄴ` = 한, ou `ㄱ` + `ㅡ` + `ㄹ` = 글. Le processus est sans latence et sans sélection de caractères.
+
+### Pourquoi la méthode de saisie coréenne est-elle la plus élégante ?
+
+Parce que le Hangul a été conçu pour être « facile à apprendre ». Les vingt-huit lettres créées par Sejong sont louées dans le préambule du _Hunminjeongeum_ (訓民正音) publié en 1446, où l'on dit : « Un homme intelligent apprend en une matinée ; un homme stupide peut apprendre en dix jours »[^9]. Six siècles plus tard, ce design s'adapte toujours parfaitement à l'ère numérique : les 24 lettres tiennent dans le clavier, les consonnes et voyelles sont séparées entre les mains, sans conversion ni sélection.
 
 ---
 
-## 🇲🇲 La Birmanie : la guerre de l'Unicode
+## 🇹🇭 Thaïlande : Kedmanee (une disposition héritée de l'ère des machines à écrire)
+
+### Le défi du thaï : 44 consonnes + symboles de ton
+
+Le thaï possède 44 symboles consonantiques, 16 symboles voyelles (qui peuvent former au moins 32 formes de voyelles), et 4 symboles de tonalité, ce qui fait plus de 60 caractères, dépassant largement le nombre de touches d'un clavier standard[^10].
+
+La solution est la **disposition Kedmanee** (เกษมณี), dérivée des machines à écrire thaïes introduites en 1920. Elle a été appelée « disposition traditionnelle » jusqu'en tant qu'elle n'a été nommée en référence au légendaire concepteur Suwanprasert Ketmanee dans les années 1970[^4]. Elle place les caractères les plus utilisés aux positions qui ne nécessitent pas de Majuscule (Shift), et ceux moins courants sur le niveau Shift.
+
+### La particularité de la saisie thaïe
+
+Le thaï est un **système phonétique**, mais ses règles d'écriture sont extrêmement complexes : les voyelles peuvent apparaître avant, après, au-dessus ou en dessous des consonnes. Par exemple, เ (e) s'écrit devant une consonne, mais se prononce à la fin. Cela signifie que l'ordre de frappe et l'ordre de lecture ne sont pas toujours identiques ; l'utilisateur doit s'habituer à certaines situations où il faut « taper d'abord la voyelle puis la consonne ».
+
+La saisie thaïe ne nécessite pas de sélection de caractères (similaire au coréen), mais elle exige de mémoriser deux niveaux (normal + Shift).
+
+---
+
+## 🇲🇲 Birmanie : La guerre du Unicode
 
 ### Zawgyi contre Myanmar Unicode : une guerre civile numérique
 
-L'histoire de la saisie en birman est la plus dramatique d'Asie de l'Est. Le birman compte 33 consonnes et des règles de combinaison complexes, mais le vrai problème ne réside pas dans la méthode de saisie elle-même, mais dans l'**encodage des polices**.
+L'histoire de la saisie birmane est l'une des plus dramatiques d'Asie de l'Est. Le birman possède 33 consonnes et des règles de combinaison complexes, mais le vrai problème n'est pas la méthode de saisie elle-même, mais **l'encodage des polices**.
 
-Dans les années 2000, l'ingénieur birman Zaw Htut développa la **police Zawgyi**, non conforme à la norme Unicode, mais qui se répandit rapidement grâce à son ergonomie. Dans les années 2010, environ 90 % des téléphones en Birmanie utilisaient Zawgyi.
+La police **Zawgyi**, publiée en 2007, ne respecte pas la norme Unicode, mais elle s'est rapidement répandue par son utilité et est restée la police la plus courante sur les sites birmanis jusqu'en 2019[^5].
 
-Le problème : Zawgyi et Unicode sont incompatibles. Un même texte s'affiche complètement différemment dans les deux systèmes, provoquant d'innombrables confusions de communication.
+Le problème est : Zawgyi et Unicode sont incompatibles. Le même texte apparaît complètement différent dans les deux systèmes, provoquant une confusion massive.
 
-En 2019, le gouvernement birman annonça officiellement le passage complet au **Myanmar Unicode**[^5]. Facebook imposa également la même année la conversion forcée des utilisateurs birmanophones de Zawgyi vers Unicode. Cette migration affecta plus de 20 millions d'utilisateurs, une opération d'une ampleur comparable au déménagement de l'infrastructure numérique d'un pays entier.
-
----
-
-## Comparaison : la philosophie du clavier de six civilisations
-
-| Civilisation | Méthode dominante | Principe                                 | Sélection de caractères ?  | Positionnement culturel         |
-| ------------ | ----------------- | ---------------------------------------- | -------------------------- | ------------------------------- |
-| 🇹🇼 Taïwan    | Zhuyin            | Symboles indépendants pour la phonétique | ✅ Homophones nombreux     | Indépendance culturelle         |
-| 🇨🇳 Chine     | Pinyin            | Transcription en lettres latines         | ✅ Homophones nombreux     | Alignement international        |
-| 🇯🇵 Japon     | Romaji            | Latin → kana → kanji                     | ✅ Conversion des kanji    | Transformation multicouche      |
-| 🇰🇷 Corée     | Dubeolsik         | Lettres directement mappées              | ❌ Composition instantanée | Adaptation parfaite             |
-| 🇹🇭 Thaïlande | Kedmanee          | Caractères directement mappés            | ❌ Sortie directe          | Héritage de la machine à écrire |
-| 🇲🇲 Birmanie  | Myanmar Unicode   | Combinaison de caractères                | ❌ Sortie directe          | Guerre de la standardisation    |
+En octobre 2019, le gouvernement birman a déclaré le « U-Day » (Journée U), marquant la transition officielle vers **Myanmar Unicode**[^5]. Facebook a également introduit une conversion automatique pour aider les utilisateurs à passer de Zawgyi à Unicode. Cette migration a affecté l'ensemble des téléphones mobiles et des sites web du pays, à une échelle comparable à un déménagement massif d'infrastructure numérique.
 
 ---
 
-## L'ère du smartphone : un nouveau champ de bataille
+## Comparaison : la philosophie du clavier des six civilisations
 
-Le smartphone a radicalement transformé l'écosystème des méthodes de saisie. Le clavier zhuyin taïwanais (grille 9 touches ou clavier complet) reste dominant sur téléphone, mais la saisie manuscrite et la saisie vocale progressent rapidement. La Chine s'oriente vers l'IA : Sogou Pinyin, Baidu Input sont devenus dominants, la « saisie glissée » (swipe) améliore considérablement l'efficacité du pinyin. Le Japon a développé la **saisie Flick** (フリック入力), où l'on glisse le doigt sur une grille 9 touches pour sélectionner la direction du kana, sans aucune lettre latine. La Corée propose la **saisie Cheonjiin** (천지인, « Ciel-Terre-Homme`), qui combine les trois traits fondamentaux ㅣ ㆍ ㅡ pour composer tout le hangul, parfaitement adaptée aux petits écrans.
-
-L'ère du smartphone a accentué un phénomène intéressant : **la jeune génération perd la capacité d'écrire à la main**. Cela est particulièrement grave dans le monde sinophone : quand la méthode de saisie mémorise tous les kanji à votre place, votre main oublie.
-
----
-
-## L'ère de l'IA : la fin des méthodes de saisie ?
-
-Avec les progrès de la reconnaissance vocale et des technologies de dialogue par IA, une question fondamentale émerge : **a-t-on encore besoin de méthodes de saisie ?** La saisie vocale a déjà remplacé la frappe dans de nombreux contextes, l'utilisation des messages vocaux sur WeChat en Chine étant particulièrement élevée. La prédiction par IA rend les méthodes de saisie de plus en plus « intelligentes » — quelques caractères suffisent pour prédire une phrase entière. Les progrès de la reconnaissance de l'écriture manuscrite rendent aussi viable le fait « d'écrire avec le doigt sur l'écran ».
-
-Mais les méthodes de saisie ne disparaîtront pas. Car elles ne sont pas que des outils — elles sont **les vecteurs de la mémoire culturelle**. Les dix semaines pendant lesquelles les enfants taïwanais apprennent le zhuyin, l'instant où les Japonais transforment des romaji en kanji sur le clavier, le rythme des Coréens alternant consonnes à gauche et voyelles à droite — ce sont, à l'ère numérique, les intimes conversations de chaque civilisation avec sa propre écriture.
+| Civilisation | Méthode de saisie dominante | Principe                                     | Sélection requise ?          | Position culturelle             |
+| :----------- | :-------------------------- | :------------------------------------------- | :--------------------------- | :------------------------------ |
+| 🇹🇼 Taïwan    | Zhuyin                      | Phonétique par symboles indépendants         | ✅ De nombreux homophones    | Indépendance culturelle         |
+| 🇨🇳 Chine     | Pinyin                      | Épellation en lettres latines                | ✅ De nombreux homophones    | Alignement international        |
+| 🇯🇵 Japon     | Romaji                      | Latin $\rightarrow$ Kana $\rightarrow$ Kanji | ✅ Conversion des caractères | Transformation multi-niveaux    |
+| 🇰🇷 Corée     | Dubeolsik                   | Correspondance directe des lettres           | ❌ Combinaison instantanée   | Adaptation parfaite             |
+| 🇹🇭 Thaïlande | Kedmanee                    | Correspondance directe des caractères        | ❌ Sortie directe            | Héritage de la machine à écrire |
+| 🇲🇲 Birmanie  | Myanmar Unicode             | Combinaison des caractères                   | ❌ Sortie directe            | Guerre de standardisation       |
 
 ---
 
-## Pour aller plus loin
+## L'ère du mobile : un nouveau champ de bataille
 
-- [Industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — L'industrie qui fabrique les puces derrière les claviers
+Les smartphones ont complètement transformé l'écosystème de la saisie. Le clavier Zhuyin taïwanais (grille de neuf cases ou clavier complet) reste dominant sur les téléphones mobiles, mais l'utilisation de la saisie manuscrite et vocale augmente rapidement. La Chine s'oriente vers le pilotage par l'IA : Sogou Pinyin et Baidu Input sont devenus dominants, et la « saisie glissante » (滑動輸入) a grandement amélioré l'efficacité du Pinyin. Le Japon a développé la **saisie Flick** (フリック入力), qui utilise le balayage sur une grille de neuf cases pour sélectionner la direction des kana, sans nécessiter de lettres latines. La Corée dispose également de la **saisie Cheonjiin** (천지인), qui combine les trois traits de base ㆍ(Ciel), ㅡ(Terre) et ㅣ(Homme) pour toutes les voyelles, ce qui est extrêmement adapté aux petits écrans.
+
+L'ère du mobile a rendu plus évident un phénomène intéressant : **la jeune génération perd ses capacités d'écriture manuscrite**. C'est particulièrement grave dans le monde des caractères chinois : lorsque la méthode de saisie vous fait mémoriser tous les caractères, votre main oublie.
+
+---
+
+## L'ère de l'IA : la fin de la méthode de saisie ?
+
+Avec les progrès de la reconnaissance vocale et des technologies de dialogue par IA, un problème fondamental apparaît : **avons-nous encore besoin d'une méthode de saisie ?** La saisie vocale a déjà remplacé la frappe dans de nombreux contextes, avec une utilisation particulièrement élevée des messages vocaux WeChat en Chine. L'IA rend les méthodes de saisie de plus en plus « intelligentes », prédisant toute une phrase après quelques caractères tapés. Les progrès de la reconnaissance manuscrite rendent également possible le fait d'« écrire avec le doigt sur l'écran ».
+
+Mais la méthode de saisie ne disparaîtra pas. Parce qu'elle n'est pas seulement un outil — elle est **le support de la mémoire culturelle**. Les dix semaines où les enfants taïwanais apprennent le Zhuyin, le moment où les Japonais transforment des lettres latines en Kanji sur leur clavier, le rythme des consonnes à gauche et des voyelles à droite chez les Coréens, tout cela est un dialogue intime entre chaque civilisation et son écriture dans l'ère numérique.
+
+---
+
+## Lecture complémentaire
+
+- [Industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — L'industrie des puces derrière le clavier
 
 ## Références
 
-[^1]: [解開鍵盤的身世密碼（下）：倉頡與注音輸入的文化史](https://www.thenewslens.com/article/12229) — The News Lens, histoire et contexte culturel de la méthode Cangjie
+[^1]: [Décoder le code d'origine du clavier (partie 2) : Histoire culturelle de la saisie Cangjie et Zhuyin](https://www.thenewslens.com/article/12229) — Média critique, histoire et contexte culturel de la méthode de saisie Cangjie.
 
-[^2]: [朱邦復與倉頡輸入法](https://zh.wikipedia.org/zh-hant/%E6%9C%B1%E9%82%A6%E5%BE%A9) — Wikipédia ; description de l'utilisation des 25 touches (A à Y) dans Cangjie
+[^2]: [Méthode de saisie Cangjie](https://zh.wikipedia.org/zh-tw/倉頡輸入法) — Wikipédia ; inventée par Chu Pang-fu en 1976, droits cédés publiquement en 1982, taux d'erreur le plus bas parmi les méthodes de saisie chinoises.
 
-[^3]: [Korean Keyboard Layout Guide](https://www.90daykorean.com/korean-keyboard/) — 90 Day Korean ; description de la disposition du clavier coréen dubeolsik
+[^3]: [Guide de disposition de clavier coréen](https://www.90daykorean.com/korean-keyboard/) — 90 Day Korean ; description du clavier coréen Dubeolsik (deux ensembles).
 
-[^4]: [Thai Kedmanee Keyboard Layout](https://en.wikipedia.org/wiki/Thai_Kedmanee_keyboard_layout) — Wikipedia ; informations sur le concepteur Suwanprasert Ketmanee et la datation
+[^4]: [Disposition de clavier thaï Kedmanee](https://en.wikipedia.org/wiki/Thai_Kedmanee_keyboard_layout) — Wikipédia ; dérivée des machines à écrire thaïes des années 1920, nommée en référence au légendaire concepteur Suwanprasert Ketmanee dans les années 1970.
 
-[^5]: [Myanmar's Zawgyi Unicode Migration](https://en.wikipedia.org/wiki/Zawgyi_font) — Wikipedia ; processus de transition du birman Zawgyi vers Unicode
+[^5]: [Police Zawgyi](https://en.wikipedia.org/wiki/Zawgyi_font) — Wikipédia ; publiée en 2007, le gouvernement birman a déclaré le U-Day (Journée U) le 1er octobre 2019 pour passer à Unicode.
 
-[^6]: [日本語入力 - ローマ字入力](https://www.youtube.com/watch?v=_HXOVMobmAA) — Tutoriel YouTube ; état actuel de l'utilisation de la saisie en romaji au Japon
+[^6]: [Saisie Kana](https://ja.wikipedia.org/wiki/かな入力) — Wikipédia japonaise ; utilisation de la saisie kana : les téléphones mobiles utilisent largement la saisie en kana, tandis que les ordinateurs privilégient la saisie Romaji.
+
+[^7]: [Symboles Zhuyin](https://zh.wikipedia.org/zh-tw/注音符號) — Wikipédia ; codifié par la réunion d'unification des prononciations basée sur Niuwen et Yunwen de Chang Tai-yan, publié en 1918.
+
+[^8]: [Méthode de saisie Hanjie (行列)](https://zh.wikipedia.org/zh-tw/行列輸入法) — Wikipédia ; inventée par Liao Ming-te, les premières versions « Hanjie 40 » utilisaient les touches numériques, la version actuelle « Hanjie 30 » n'utilise que trois rangées de lettres.
+
+[^9]: [Hunminjeongeum](https://zh.wikisource.org/wiki/訓民正音) — Texte original ; le préambule de Jeong Lin-ji dit : « Un homme intelligent apprend en une matinée ; un homme stupide peut apprendre en dix jours », daté du 9e mois de la dixième année.
+
+[^10]: [Script thaï](https://en.wikipedia.org/wiki/Thai_script) — Wikipédia ; 44 symboles consonantiques, 16 symboles voyelles formant au moins 32 formes de voyelles, et 4 symboles de tonalité.
