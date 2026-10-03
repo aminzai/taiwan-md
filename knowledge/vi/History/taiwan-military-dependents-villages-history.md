@@ -1,204 +1,230 @@
 ---
-title: 'Lịch sử làng quân thuộc tại Đài Loan'
-description: 'Từ "Quân đoàn cô độc" tại Myanmar đến "Vương quốc rào tre", cuộc di cư 1,2 triệu người đã định nghĩa lại "nhà" như thế nào'
+title: 'Lịch sử các khu cộng đồng quân sự Đài Loan'
+description: 'Từ quân đội cô lập ở Miền Bắc Myanmar đến vương quốc lá chài, 1,2 triệu cuộc di cư lớn đã cách đổi lại định nghĩa "ngôi nhà"'
 date: 2026-03-22
-author: 'Taiwan.md Contributors'
 category: 'History'
-subcategory: '社會與日常史'
 tags:
   [
-    'làng quân thuộc',
-    'di dân ngoại tỉnh',
-    'nội chiến Quốc-Cộng',
+    'khu cộng đồng quân sự',
+    'người nhập khẩu nước ngoài',
+    'chiến tranh giữa Quốc Dân và Cộng Sản',
     'bảo tồn văn hóa',
-    'cập nhật đô thị',
+    'cải tạo đô thị',
   ]
-readingTime: 12
+subcategory: '社會與日常史'
+author: 'Taiwan.md Contributors'
+featured: true
 lastVerified: 2026-03-22
 lastHumanReview: false
-featured: true
-translatedFrom: 'History/台灣眷村歷史.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:e26ca70cc051b743'
-sourceBodyHash: 'sha256:6ea24f40d826e7d7'
-translatedAt: '2026-07-25T07:55:51+08:00'
 difficulty: 'intermediate'
+readingTime: 12
+translatedFrom: 'History/台灣眷村歷史.md'
+sourceCommitSha: 'e1247815f'
+sourceContentHash: 'sha256:a769f300a4a6b10d'
+sourceBodyHash: 'sha256:62a8c3544391f28d'
+translatedAt: '2026-10-04T05:18:00+08:00'
 ---
 
-# Lịch sử làng quân thuộc tại Đài Loan
+# Lịch sử các khu cộng đồng quân sự Đài Loan
 
-> **30 giây tổng quan:** Làng quân thuộc đầu tiên tại Đài Loan không phải được xây dựng cho quân nhân Quốc quân thông thường, mà dành cho \"Quân đoàn cô độc\" — những người lang thang 5 năm trong rừng rậm Myanmar mới đến được Đài Loan. Nhóm quân Vân Nam Phản cộng Cứu quốc quân do Tướng Lý Mi lãnh đạo, trải qua số phận nhiều biến động hơn bất kỳ nhóm người ngoại tỉnh nào khác. Từ năm 1954, hơn 300 làng quân thuộc mọc lên khắp Đài Loan, gánh vác ký ức cuộc di cư lớn 1,2 triệu người, cuối cùng trở thành gen văn hóa quan trọng trong sự đa dạng của Đài Loan.
+> **30 giây tóm tắt:** Từ cuối những năm 1940, Chính phủ Quốc Dân bắt đầu xây dựng các khu cộng đồng quân sự để định cư cho gia đình đi theo quân. Đến năm 1984, Bộ Quốc phòng quản lý 888 khu cộng đồng quân sự; theo thống kê năm 1982, khoảng 470.000 người sống trong các khu cộng đồng quân sự. Zhōngzhèn Xīncūn (Thị trấn Trung thành mới) ở Phú Thọ là một trong số đó, được xây dựng vào mùa thu năm 1954 cho các gia đình quân đội chống cộng của Yunnan trở về từ Miền Bắc Myanmar — những người này chiến đấu bằng du kích gần bốn năm ở biên giới Việt Nam-Myanmar mới tới Đài Loan. Từ lá chài đến căn cứ nhà xã hội, các khu cộng đồng quân sự cuối cùng đã trở thành gen di truyền quan trọng của nền đa dân văn hóa Đài Loan.
 
-Mùa thu năm 1954, ranh giới giữa Bình Trấn và Trung Lịch tại Đào Viên, 530 hộ nhà cửa đơn sơ hoàn thành trong thời gian kỷ lục. Những ngôi nhà dựng từ rào tre, đất sét vàng và tôn sóng, diện tích trung bình chưa đến 10 thước (khoảng 33 m²), nhưng chứa đựng số phận của một nhóm cư dân đặc biệt — họ không phải quân thuộc đi theo Chính phủ Quốc dân trực tiếp đến Đài Loan, mà là gia眷 của \"Quân đoàn cô độc\" từ Trung Quốc đại lục đến Myanmar, rồi từ Myanmar đến Đài Loan.
+Mùa thu năm 1954, ở miền trung của Thượng Hải và Trung Lương, Bộ Quốc phòng xây dựng khoảng 530 ngôi nhà đơn sơ (Wikipedia ghi nhận 534 ngôi, một số nói 503 ngôi)[^1]。 Những ngôi nhà được xây bằng lá chài, đất sét và tôn, trung bình mỗi gia đình chỉ có dưới 10 thềm vuông, nhưng mang trong mình số phận của một nhóm cư dân đặc biệt — họ không phải là gia đình quân đội đi trực tiếp theo sau Chính phủ Quốc Dân, mà là những người "quân đội cô lập" từ đại lục sang Myanmar, rồi từ Myanmar sang Đài Loan.
 
-**Làng Tân Trung Trinh, làng quân thuộc đầu tiên của Đài Loan, đã định hình tính cách phức tạp của văn hóa làng quân thuộc: không chỉ là đối thoại giữa ngoại tỉnh và bản tỉnh, mà còn là biện chứng giữa lưu vong và định cư, tạm thời và vĩnh viễn, quê hương và khách quê.**
+**Sự ra đời của Thị trấn Trung thành mới cho thấy sự phức tạp của văn hóa khu cộng đồng quân sự: không chỉ là cuộc đối thoại giữa người nước ngoài và bản địa, mà còn là sự đối lập giữa lưu vong và ổn định, tạm thời và vĩnh viễn, quê hương và xứ lạ.**
 
-## Băng phổ phức tạp của cuộc di cư lớn
+## Dải màu phức tạp của cuộc di cư lớn
 
 ### 1,2 triệu người, nhiều con đường khác nhau
 
-\"1,2 triệu quân dân đi theo chính phủ đến Đài Loan\" là cách nói chuẩn mực trong sách giáo khoa, nhưng thực tế phức tạp hơn câu nói đó rất nhiều. Theo nghiên cứu sử học, con số này bao gồm nhiều đợt di chuyển trong giai đoạn 1945–1953:
+"1,2 triệu quân nhân và dân thường đi theo chính phủ tới Đài Loan" là cách nói thường nghe thấy, nhưng thực tế phức tạp hơn nhiều so với câu nói này. Những người tới Đài Loan đã đến trong khoảng thời gian từ năm 1945 đến 1954, chia thành nhiều gia đình khác nhau:
 
-- **1945–1949**: Khoảng 600.000 quân nhân trực tiếp đến Đài Loan, thêm khoảng 500.000 viên chức và dân thường
-- **1950**: Quần đảo Chu Sơn撤退 70.000 quân nhân, kèm theo dân thường khoảng 120.000 người
-- **1953**: Bộ đội Tướng Hoàng Kiệt tại đảo Phú Quốc (Việt Nam) 26.028 người
-- **1954**: Khoảng 14.000 tù binh Hoa Kỳ tại Hàn Quốc, cộng với 3.000 tàn quân Lý Mi tại Myanmar
+- **Khoảng năm 1949**: Khoảng 600.000 quân chính phủ rút về Đài Loan, cùng với cán bộ và dân thường[^2]
+- **Năm 1950**: Rút khỏi đảo Chou Shan, hơn 120.000 quân đội và khoảng 20.000 cư dân địa phương rút về Đài Loan trong ba ngày[^3]
+- **Năm 1953**: Quân đội Huang Jie ở đảo Phú Tài (Việt Nam) được chuyển về Đài Loan, khoảng 30.000 người[^4]
+- **Cuối năm 1953 đến năm 1954**: Quân đội chống cộng của Yunnan rút khỏi Miền Bắc Myanmar theo ba đợt, lần đầu tiên rút về có tổng cộng 6.986 người[^5]； Trong chiến tranh Hàn Quốc, hơn 14.000 chiến binh tù trưởng của Quân giải giải phóng nhân dân Trung Hoa chọn tới Đài Loan, đợt đầu tiên hạ cánh xuống cảng Cửa Khẩu vào ngày 23 tháng 1 năm 1954[^6]
 
-**Đây không phải một lần撤退, mà là 8 năm lưu vong gián đoạn.** Mỗi đợt di cư sau lưng đều là những sự tuyệt vọng và hy vọng khác nhau. Quân thuộc đến trực tiếp còn được chính phủ an đặt, nhưng gia眷 Quân đoàn cô độc trải qua sự lưu vong kép — trước là quê hương mất nước, sau là sinh tồn ở vùng biên giới.
+**Đây không phải là một lần rút lui, mà là một cuộc lưu vong ngắt quãng gần một thập kỷ.** Mỗi lần di cư đều chứa đựng nỗi đau và hy vọng khác nhau. Nhiều gia đình quân đội đi trực tiếp theo sau Chính phủ Quốc Dân được chính phủ định cư, nhưng những người cô lập phải trải qua hai lần lưu vong — trước tiên là mất quê hương, sau đó là sinh tồn ở biên giới.
 
-### Số phận đặc biệt của Quân đoàn cô độc
+### Số phận đặc biệt của quân đội cô lập
 
-Vân Nam Phản cộng Cứu quốc quân Sư 193 do Tướng Lý Mi lãnh đạo, là nhóm quân dân di chuyển đến Đài Loan có hành trình quanh co nhất. Năm 1949, sau khi Quốc quân thất bại tại Vân Nam, lực lượng này không撤退 trực tiếp về Đài Loan mà rút vào rừng rậm Bắc Myanmar, tiến hành 5 năm chiến tranh du kích ở biên giới Trung–Myanmar.
+Quân đội chống cộng của Yunnan do Lí Mì chỉ huy, là nhóm trải qua nhiều biến cố nhất trong số tất cả những người nhập khẩu. Sau khi quân đội Quốc Dân thất bại ở Yunnan vào cuối năm 1949, nhóm quân này không rút trực tiếp về Đài Loan, mà rút về Miền Bắc Myanmar, nơi họ chiến đấu bằng du kích gần bốn năm ở biên giới Việt Nam-Myanmar.
 
-> **📝 Ghi chú người biên tập**  
-> Chữ \"cô\" trong \"Quân đoàn cô độc\" không chỉ là cô lập về địa lý, mà còn là sự khó xử về chính trị. Họ không được chính phủ Myanmar công nhận, không được cộng đồng quốc tế chấp nhận, ngay cả danh tính \"quân hữu\" cũng mơ hồ không rõ.
+> **📝 Ghi chú của người biên tập**  
+> "Cô lập" của quân đội cô lập không chỉ là sự cô lập địa lý, mà còn là sự ngại ngùng trong chính trị. Họ không chỉ bị chính phủ Myanmar công nhận, cũng không được cộng đồng quốc tế chấp nhận, thậm chí mối quan hệ với "đồng minh" cũng mơ hồ.
 
-Đầu năm 1954, dưới áp lực quốc tế, Quân đoàn cô độc của Lý Mi cuối cùng được phép撤退 về Đài Loan. Nhưng khi nhóm người này nam nữ già trẻ đến sân bay Tùng Sơn tại Đài Bắc, đón tiếp họ không phải là sự chào đón như anh hùng, mà là thực tế bị tách ra an đặt tại kho bãi Đài Đường ở Ca Nghĩa (Chiayi). Mức độ thiếu thốn vật chất \"thậm chí còn vượt quá thời du kích tại Bắc Myanmar\", chính điều này dẫn đến quyết định khẩn cấp của chính phủ xây dựng Làng Tân Trung Trinh tại Đào Viên.
+Sau khi chính phủ Myanmar kiện đơn lên Liên Hợp Quốc buộc làm việc vi phạm lãnh thổ, Chính phủ Quốc Dân đã thỏa thuận với Mỹ, Thái Lan và Myanmar để rút quân. Từ cuối năm 1953, Lí Mì dẫn dắt đại đội 193 và gia đình rút về Đài Loan theo từng đợt[^1]。 Những gì chờ đợi họ ở Đài Loan không phải là lễ hội hoành tráng, mà là thực tế phải tạm trú ở các kho hàng của nhà máy đường ray ở Hsiuchiao, Dalin, Wufeng và các nơi khác, với mức độ thiếu hụt vật chất "thậm chí còn tệ hơn khi đang du kích ở Myanmar"[^7]，điều này dẫn đến quyết định của Bộ Quốc phòng xây dựng Thị trấn Trung thành mới ở Phú Thọ vào mùa thu năm 1954.
 
-**Làng quân thuộc đầu tiên của Đài Loan, được xây dựng cho nhóm người đến cuối cùng.** Nghịch lý về trình tự thời gian này, báo hiệu trước đặc chất đa nguyên của văn hóa làng quân thuộc.
+Thị trấn Trung thành mới thường bị nói là "khu cộng đồng quân sự đầu tiên do Chính phủ Quốc Dân xây dựng sau khi nhập khẩu"[ ^7]，nhưng lý thuyết này không đủ cơ sở. Khu cộng đồng bốn mươi tư ở Tam Giang (Bắc Kinh) đã được xây dựng từ năm 1948[^8]； Khu cộng đồng Hương Bình ở Fengshan được quân đội của Sun Liran chiếm lấy vào năm 1949[^9]； Khu cộng đồng Quốc tế ở Dasi, Phú Thọ cũng là một trong những khu cộng đồng quân sự đầu tiên được xây dựng[^10]。 **Thị trấn Trung thành mới là một trong những khu cộng đồng quân sự mà Bộ Quốc phát xây dựng cho những người cô lập đến trễ. ** Sự khác biệt của nó không nằm ở thứ tự, mà ở nguồn gốc của cư dân: tiếng nói của Yunnan, Thái Lan và Myanmar, từ ngày đầu tiên đã khác biệt so với các khu cộng đồng quân sự khác.
 
-## Thành lập \"Cộng hòa rào tre\"
+## Xây dựng Cộng hòa Lá Chài
 
-### Địa lý học theo quân chủng
+### Địa lý của các nhóm quân sự
 
-Phân bố không gian của làng quân thuộc phản ánh chính trị quân chủng. Cư dân mỗi làng hầu như đều đến từ cùng một quân chủng, thậm chí cùng một đơn vị:
+Sự phân bố không gian của các khu cộng đồng quân sự phản ánh chính trị của các nhóm quân sự. Nhiều khu cộng đồng quân sự được chia theo nhóm quân sự, đơn vị. Trong một khu cộng đồng quân sự, hầu hết nam giới đều thuộc cùng một nhóm quân sự, thậm chí cùng một đơn vị[^7]：
 
-- **Tả Doanh, Cao Hùng**: Làng quân thuộc Hải quân, người Sơn Đông chiếm đa số (Hải quân có căn cứ quan trọng tại Vệ Hải, Sơn Đông)
-- **Thanh Tuyền Cảng, Đài Trung**: Làng quân thuộc Không quân
-- **Làng Tân Trung Trinh, Đào Viên**: Du kích đội Vân–Miến, đậm chất văn hóa Bài Di của Vân Nam
-- **Nhị Không, Đài Nam**: Không quân, chủ yếu người Tứ Xuyên, Hồ Nam
+- **Kaohsiung, Zuoying**: Các khu cộng đồng quân sự của hải quân, nhiều người đến từ Thái Dương đông tụ lại đây, chợ buổi chiều chủ yếu bán mì tươi[^11]
+- **Trung Quảng, Thanh Xuân**: Các khu cộng đồng quân sự của không quân
+- **Phú Thọ, Thị trấn Trung thành mới**: Các đội du kích của Yunnan, văn hóa của người Mịen Tây mạnh mẽ
+- **Đà Nẵng, Nhân Đức II**: Không quân, chủ yếu là người từ Sichuan và Hữu Ngạn[^11]
 
-> **💡 Bạn có biết**  
-> Theo thống kê tỉnh藉 quân nhân đến Đài Loan, Sơn Đông nhiều nhất (72.600 người), tiếp theo là Quảng Đông (66.600) và Giang Tô (54.900). Những con số này trực tiếp quyết định \"bản đồ phương ngôn\" của làng quân thuộc.
+> **💡 Bạn có biết không?**  
+> Nhìn vào ranh giới hành chính của Trung Quốc ngày nay, số lượng quân nhập khẩu tới Đài Loan nhiều nhất là tỉnh Thái Dương (72.604 người), tiếp theo là Quảng Đông (66.613 người) và Chiết Giang (54.950 người)[^2]。 Những con số này trực tiếp quyết định "bản đồ phương ngữ" của các khu cộng đồng quân sự.
 
-Mô hình tập trung theo quân chủng vừa là nhu cầu quản lý của chính phủ, vừa là sự kéo dài tự nhiên của văn hóa quân nhân. Quan hệ đồng bào trên chiến trường là sinh tử, đến Đài Loan thành sự tựa nhau hàng xóm. **Làng quân thuộc không chỉ là khu nhà ở, mà là sự mở rộng dân sự của văn hóa quân sự.**
+Mô hình đông đúc của các nhóm quân sự vừa là nhu cầu quản lý của chính phủ, cũng là sự lan tỏa tự nhiên của văn hóa quân sự. Mối quan hệ đồng đội trên chiến trường là mối quan hệ tính mạng và tử vì, nhưng ở Đài Loan, chúng trở thành mối quan hệ lân cận. **Các khu cộng đồng quân sự không chỉ là khu dân cư, mà còn là sự lan tỏa của văn hóa quân sự.**
 
-### Vật chất gian nan, tinh thần phong phú
+### Khó khăn vật chất, giàu có tinh thần
 
-Điều kiện vật chất làng quân thuộc sơ khai cực kỳ đơn giản. Nhà ở Làng Tân Trung Trinh \"diện tích trung bình chưa đến 10 thước, phần che mưa che nắng chỉ khoảng 4,5 thước\", phòng khách 겸 phòng ngủ, bếp chỉ đặt được một cái lò. Tường rào tre, khe lấp đất sét vàng, mái tôn, trời mưa sấm còn có thể bị sốc điện.
+Điều kiện vật chất của các khu cộng đồng quân sự rất khó khăn. Như đã ghi chú, nhà ở tại Thị trấn Trung thành mới "trung bình mỗi gia đình chỉ có dưới 10 thềm vuông, nhưng diện tích thực sự có thể tránh gió và mưa chỉ khoảng 4,5 đến 5 thềm vuông"[^7]； Phòng khách và phòng ngủ chung, bếp chỉ có chỗ cho một bếp. Tường lá chài, vữa đất sét, mái tôn, khi mưa và sét có thể gây điện giật.
 
-Nhưng trong sự khan hiếm vật chất, người làng quân thuộc phát huy sự sáng tạo phi thường:
+Nhưng trong hoàn cảnh thiếu hụt, người dân các khu cộng đồng quân sự phát triển ra khả năng sáng tạo đáng ngạ cức:
 
-- Thùng xăng rỗng làm giếng nước
-- Ván gỗ phế liệu làm vách ngăn phòng
-- Cái ô hỏng làm mái che nắng
-- Bao bột mì cải thành ga trải giường, áo quần
+- Thùng xịt nhựa làm giếng nước
+- Gỗ tái chế làm ngăn cách phòng
+- Ùng mưa vỡ làm mái che nắng
+- Bao bột làm giường, quần áo
 
-**\"Triết học khắc phục khó khăn\" không phải lựa chọn, là kỹ năng sinh tồn.** Cũng chính trải nghiệm gian khó chung ấy, nuôi dưỡng sự gắn kết cộng đồng đặc hữu của làng quân thuộc.
+**Triết lý "chấp nhận khó khăn" không phải là lựa chọn, mà là kỹ năng sống.** Nhưng đúng là nhờ những trải nghiệm khó khăn chung này, đã hình thành được sự gắn kết cộng đồng đặc trưng của các khu cộng đồng quân sự.
 
-## Tái cấu trúc ký ức ẩm thực
+## Tái cấu trúc ký ức về ẩm thực
 
-### Dung hợp tám đại菜系 trong dân gian
+### Sự pha trộn của tám nền ẩm thực dân chủ
 
-Di sản văn hóa cụ thể nhất của làng quân thuộc là ẩm thực. Những người mẹ làng quân thuộc từ khắp năm phương, trong bếp núc thiếu thốn và hoàn cảnh khắc nghiệt, đã tái thiết tám đại菜系 Trung Hoa — nhưng quá trình tái thiết này, thực chất là quá trình sáng tạo.
+Di sản văn hóa cụ thể nhất của các khu cộng đồng quân sự là ẩm thực. Những người mẹ đến từ khắp nơi trên đại lục, trong những căn bếp khó khăn và nguyên liệu hạn chế, đã tái tạo lại tám nền ẩm thực truyền thống của Trung Hoa — nhưng quá trình tái tạo này thực chất là quá trình đổi mới.
 
-> **⚠️ Góc nhìn tranh议**  
-> Nhà văn Tiêu Đồng từng nói: \"Tứ Xuyên không có bò kho Tứ Xuyên, Mông Cổ không có thịt nướng Mông Cổ, Phúc Châu không có mì Phúc Châu.\" Món ăn làng quân thuộc đến cùng là \"hương vị quê hương\" hay \"hương vị Đài Loan\"? Câu trả lời có lẽ cả hai, cũng có lẽ không phải cái nào.
+> **⚠️ Quan điểm tranh cãi**  
+> Nhà văn Giao Tông từng nói: "Sichuan không có mì bò kiểu Sichuan, Mông Cổ không có thịt nướng Mông Cổ, Fujian không có mì Fujian." ẩm thực của các khu cộng đồng quân sự cuối cùng là "hương vị quê hương" hay "hương vị Đài Loan"? Câu trả lời có thể là cả hai, hoặc không phải cả hai.
 
-**Ba đặc sắc của ẩm thực làng quân thuộc:**
+**Ba đặc điểm chính của ẩm thực các khu cộng đồng quân sự:**
 
-1. **Địa phương hóa lấy nguyên liệu tại chỗ**: Dùng rau củ Đài Loan nấu món quê, gia vị cũng hợp khẩu vị người Đài Loan
-2. **Thực dụng tiết kiệm no bụng**: Một nồi kho nuông cả nhà, một miếng đậu phụ biến ra mười cách chế biến
-3. **Trao đổi kỹ thuật xuyên tỉnh**: Mẹ Sơn Đông học cay Tứ Xuyên, mẹ Giang–Chiết dùng kỹ thuật xào Quảng Đông
+1. **Sử dụng nguyên liệu địa phương**: Dùng rau củ của Đài Loan để làm món ăn quê hương, nêm nếm cũng điều chỉnh theo khẩu vị của người Đài Loan
+2. **Chủ nghĩa thực tế để tiết kiệm**: Một nồi canh đủ ăn cho cả gia đình, một khối đậu hũ biến thành mười cách nấu khác nhau
+3. **Trao đổi kỹ thuật nấu ăn giữa các tỉnh**: Mẹ ở Thái Dương học cách nấu cay của Sichuan, mẹ ở Chiết Giang dùng phương pháp xào của Quảng Đông
 
-Mì bò là ví dụ điển hình. Mì bò Tứ Xuyên tại Cao Hùng đâm rễ nở hoa, phía Bắc phố Vĩnh An phát triển hệ thống thanh đun, miền Trung–Nam dùng thuốc Bắc thay đậu nành. **\"Mì bò\" trở thành món ăn đại diện của Đài Loan, nhưng quê gốc Tứ Xuyên lại không có món này.**
+Mì bò là ví dụ điển hình. Sau khi Chính phủ Quốc Dân nhập khẩu, mì bò kiểu Sichuan bén rễ ở Kaohsiung; sau đó, các quán mì bò cũng xuất hiện ở Phố Thành Cửa Viên và Đường Tín ở Bắc Kinh; ở miền Nam, có cách nấu mì bò bằng thảo dược thay thế cho tương đen[^11]。 **Mì bò trở thành món ăn đại diện của Đài Loan, nhưng Sichuan lại không có "mì bò kiểu Sichuan".**
 
-### Chợ búa — giao điểm văn hóa
+### Chợ là nơi giao thoa văn hóa
 
-Chợ làng quân thuộc là tuyến đầu trao đổi văn hóa ngoại tỉnh – bản tỉnh. Ví dụ Chợ Trung Trinh, ban đầu là nông dân bản tỉnh ở Tiêu Lǐ đẩy xe vào làng quân thuộc bán dạo, mẹ làng quân thuộc thành khách quen, dần hình thành chợ búa.
+Chợ của các khu cộng đồng quân sự là nơi giao thoa văn hóa giữa người nước ngoài và bản địa. Với Thị trấn Trung thành mới làm ví dụ, ban đầu là những người nông dân từ Hsiuchiao đẩy xe bán hàng qua các con phố của khu cộng đồng quân sự[^7]； Những người mẹ trong khu cộng đồng quân sự trở thành khách hàng cố định, dần dần hình thành thành chợ.
 
-**Mối quan hệ mua bán đơn giản này, thực chất là lần tiếp xúc sâu đầu tiên giữa hai cộng đồng.** Người bản tỉnh học biết khẩu vị ngoại tỉnh, người ngoại tỉnh quen thuộc nguyên liệu Đài Loan. Bánh mì kẹp dầu cháo và cơm luộc, sữa đậu nành và trà đỏ cổ truyền, bắt đầu cùng tồn tại tại một chợ.
+**Mối quan hệ mua bán trông rất đơn giản này, thực chất là lần tiếp xúc sâu rộng đầu tiên giữa hai cộng đồng.** Người bản địa học cách nếm thử hương vị của người nước ngoài, người nước ngoài làm quen với nguyên liệu của Đài Loan. Bánh mì chiên và cơm tấm, sữa đá và trà đỏ cổ thụ, bắt đầu tồn tại cùng nhau trong cùng một chợ.
 
-## Ba thế hệ biến đổi nhận diện
+## Hành trình ba thế hệ của sự thay đổi nhận diện
 
-### Thế hệ thứ nhất: Nỗi nhớ quê mãi không tàn
+### Thế hệ đầu tiên: Nỗi nhớ về quê hương mãi lặng
 
-Thế hệ đầu làng quân thuộc luôn giữ nỗi nhớ quê hương. \"Trung Quốc\" của họ không phải thực thể chính trị, mà là bánh mán to Sơn Đông, thịt kho đỏ Tứ Xuyên, xúc xích lá chanh Hồ Nam trong ký ức.
+Thế hệ đầu tiên của các khu cộng đồng quân sự luôn giữ nỗi nhớ về quê hương. "Trung Quốc" của họ không phải là thực thể chính trị, mà là ký ức về bánh mì lớn ở Thái Dương, thịt kho ở Sichuan, xúc xích thịt heo ở Hữu Ngạn.
 
-Chính phủ ban đầu mong \"phản công đại lục\" speedy quyết, nên thiết kế làng quân thuộc đều mang tính tạm bợ. Nhà cửa đơn sơ, cơ sở hạ tầng thiếu thốn, đều phản ánh kỳ vọng lạc quan \"sớm về nhà\". **Nhưng 3 năm biến 30 năm, tạm bợ thành vĩnh viễn, làng quân thuộc thành \"quê hương nhỏ\" đầy bất đắc dĩ.**
+Chính phủ ban đầu kỳ vọng "quay trở lại đại lục" sẽ nhanh chóng kết thúc, vì vậy thiết kế của các khu cộng đồng quân sự đều mang tính tạm thời. Nhà ở đơn giản, hạ tầng kém, tất cả đều phản ánh kỳ vọng lạc quan "sẽ sớm trở về nhà". **Nhưng 3 năm trở thành 30 năm, tạm thời trở thành vĩnh viễn, các khu cộng đồng quân sự trở thành "quê hương nhỏ" không thể tránh khỏi.**
 
-Chính sách ngôn ngữ cũng phản ánh tâm lý này. Làng quân thuộc mạnh mẽ đẩy mạnh giáo dục Quốc ngữ, nhưng \"Quốc ngữ\" này gánh vác không chỉ chức năng giao tiếp, mà là nhận diện văn hóa. Con cháu làng quân thuộc thuộc lòng tên địa danh lưu vực Trường Giang, nhưng không nói ra tên con suối bên cạnh.
+Chính sách ngôn ngữ cũng phản ánh tư duy này. Các khu cộng đồng quân sự thúc đẩy mạnh mẽ giáo dục bằng tiếng Quốc Ngữ, nhưng "tiếng Quốc Ngữ" mang trong mình không chỉ chức năng giao tiếp, mà còn là nhận diện văn hóa. Trẻ em trong các khu cộng đồng quân sự có thể thuộc lòng tên các tỉnh dọc sông Dương Tử, nhưng không thể nói tên con suối nhỏ ở ngay bên cạnh.
 
-### Thế hệ thứ hai: Kéo căng nhận diện
+### Thế hệ thứ hai: Xung đột nhận diện
 
-Thế hệ hai làng quân thuộc đối mặt khủng hoảng nhận diện chưa từng có. Họ lớn lên ở làng quân thuộc, nhận giáo dục văn hóa Trung Hoa, nhưng đất sống là Đài Loan. Năm 1987 giải nghiêm, cho phép thăm thân, sự phân liệt này càng gay gắt.
+Thế hệ thứ hai của các khu cộng đồng quân sự phải đối mặt với khó khăn chưa từng thấy trong việc nhận diện. Họ lớn lên trong các khu cộng đồng quân sự, được giáo dục bằng văn hóa Trung Hoa, nhưng đất liền mà họ sống là Đài Loan. Sau khi năm 1987 chấm dứt sự kiện bão hòa và mở cửa thăm viếng, sự chia cắt này càng trở nên nặng nề.
 
-**Sự nghịch lý thú vị là:** Khi lão binh thế hệ một cuối cùng được về thăm quê, nhiều người phát hiện mình đã \"không thích ứng\". 40 năm chia cách, biến \"quê hương\" thành đất lạ. Ngược lại, Đài Loan từng là \"chỗ ở tạm\", đã thành \"nhà\" thực sự.
+**Một sự mâu thuẫn thú vị là:** Khi những người lính già cuối cùng có thể trở về thăm quê hương, nhiều người phát hiện họ đã "không còn thích nghi" được nữa. Sau 40 năm tách rời, "quê hương" đã trở thành nơi lạ lùng. Ngược lại, dù ban đầu Đài Loan chỉ là "nơi tạm trú", nhưng giờ đây nó đã trở thành "ngôi nhà thực sự".
 
-Lập trường chính trị thế hệ hai do đó phân hóa: có người ủng hộ thống nhất, có người ủng hộ độc lập, nhiều hơn là ủng hộ duy trì hiện trạng. **\"Tôi là con làng quân thuộc, tôi cũng là người Đài Loan\" — đây không phải mâu thuẫn, là thực tại.**
+Quan điểm chính trị của thế hệ thứ hai cũng chia rẽ theo cách này: có người ủng hộ thống nhất, có người ủng hộ độc lập, đa số là ủng hộ duy trì hiện trạng. **“Tôi là người con khu cộng đồng quân sự, tôi cũng là người Đài Loan” — đây không phải là mâu thuẫn, mà là thực tại.**
 
-### Thế hệ thứ ba: Tìm gốc văn hóa
+### Thế hệ thứ ba: Tìm kiếm cội nguồn văn hóa
 
-Thế hệ ba làng quân thuộc hầu như không lớn lên ở làng, ký ức về làng chủ yếu từ lời kể của cha mẹ. Nhưng nghịch lý là, chính thế hệ này bắt đầu phong trào \"cứu vãn\" văn hóa làng quân thuộc.
+Thế hệ thứ ba phần lớn không lớn lên trong các khu cộng đồng quân sự, và ký ức về các khu cộng đồng quân sự chủ yếu đến từ câu chuyện của cha mẹ. Nhưng đáng ngạ lự, đúng là thế hệ này bắt đầu phong trào "cứu giúp" văn hóa khu cộng đồng quân sự.
 
-Thông qua điều tra thực địa, sử học khẩu述, lưu trữ số, thế hệ ba tái nhận diện làng quân thuộc. Loài \"tìm gốc văn hóa\" này phản ánh khao khát gốc rễ văn hóa trong thời đại toàn cầu hóa. **Họ tìm không phải nhận diện chính trị, mà là sự phong phú của nhận diện văn hóa.**
+Thông qua khảo sát thực địa, dự án lịch sử thuyết nói, và kho lưu trữ số, thế hệ thứ ba tái nhận diện các khu cộng đồng quân sự. Sự "tìm kiếm cội nguồn văn hóa" này phản ánh nhu cầu tìm kiếm nguồn gốc văn hóa trong thời đại toàn cầu hóa. **Họ không tìm kiếm nhận diện chính trị, mà là sự phong phú của bản sắc văn hóa.**
 
-## Kéo căng giữa phá dỡ và bảo tồn
+## Cuộc tranh giằng giữa việc phá hủy và bảo tồng
 
-### 1996: Điều lệ cải tạo — con dao hai lưỡi
+### 1996: Luật sửa chữa là lưỡi dao hai mặt
 
-Năm 1996, 《Điều lệ cải tạo làng quân thuộc cũ kỹ Quốc quân》 thông qua, đánh dấu bắt đầu sự biến mất quy mô lớn của làng quân thuộc. Mục tiêu chính sách rất thực dụng: cải thiện chất lượng cư trú, giải phóng đất vàng, đáp ứng nhu cầu phát triển đô thị.
+Ngày 2 tháng 2 năm 1996, Luật về sửa chữa các khu cộng đồng quân sự cũ của Quân Giải phóng Quốc gia được công bố và thi hành[^12]，đánh dấu sự khởi đầu của sự biến mất quy mô lớn của các khu cộng đồng quân sự. Mục tiêu chính sách rất thực tế: cải thiện chất lượng sống của các khu cộng đồng quân sự, giải phóng lãnh đất trung tâm, giải quyết nhu cầu phát triển đô thị.
 
-> **📊 Nguồn số liệu**  
-> Theo thống kê Bộ Quốc phòng, trước khi Điều lệ 1996 thực thi, toàn Đài Loan có khoảng 300 làng quân thuộc. Đến thập niên 2020, khoảng 90% đã cải tạo xong, chỉ còn khoảng 30 làng được bảo tồn như di sản văn hóa.
+> **📊 Nguồn dữ liệu**  
+> Năm 1984, Bộ Quốc phòng quản lý 888 khu cộng đồng quân sự, tổng cộng 109.786 hộ gia đình; sau khi Luật sửa chữa được thi hành, số lượng giảm dần, đến năm 2001, Bộ Quốc phòng công bố vẫn còn 530 khu cộng đồng quân sự công cộng[^10]。 Năm 2018, Thư ký phụ trách của Phủ Tổng thống Chen Ju nói tại buổi lễ khánh thành Khu văn hóa cộng đồng quân sự ở Kaohsiung: "Toàn quốc có 886 khu cộng đồng quân sự"[^13]。
 
-Làng quân thuộc sau cải tạo thành nhà ở hiện đại (Quốc trạch), quả thực giải quyết vấn đề chất lượng sống. Nhưng hình thái tụ lạc gốc biến mất, quan hệ hàng xóm cũng theo đó疏远. **Người làng quân thuộc nhập cư chung cư mới, tận hưởng tiện nghi hiện đại, nhưng mất đi không khí cộng đồng ngày xưa \"một nhà nướng thịt vạn nhà thơm\".**
+Sau khi được sửa chữa, các khu cộng đồng quân sự trở thành căn cứ nhà xã hội hiện đại, thực sự giải quyết vấn đề chất lượng sống. Nhưng dạng thức địa điểm gốc đã biến mất, mối quan hệ lân cận cũng theo đó xao nhãng. **Những người sống trong căn cứ nhà xã hội mới, hưởng thụ tiện nghi cuộc sống hiện đại, nhưng mất đi cảm giác cộng đồng "một gia đình chia sẻ một bữa thịt nướng" như trước.**
 
-Quá trình cải tạo không suôn sẻ. Tranh chấp phân chia, bồi thường di dời, tổn thương cảm xúc, dẫn đến nhiều cuộc chống đối. Vấn đề sâu xa hơn: **Khi làng quân thuộc biến thành chung cư, \"văn hóa làng quân thuộc\" còn tồn tại được không?**
+Quá trình sửa chữa không trơn tru. Tranh cãi phân bổ, bồi thường dời đi, mất kết cảm xúc, đã gây ra nhiều cuộc biểu tình. Vấn đề sâu xa hơn là: **Khi các khu cộng đồng quân sự trở thành căn cứ nhà xã hội, "văn hóa khu cộng đồng quân sự" có thể tồn tại không?**
 
-### Thức tỉnh bảo tồn: Từ xây trái phép đến di sản văn hóa
+### Nhận thức về việc bảo tồng: Từ vi phạm pháp luật đến di sản văn hóa
 
-Bảo Tàng Nham là vụ án then chốt của phong trào bảo tồn làng quân thuộc. Khu tụ lạc ven đồi gần Công Quản Đài Bắc, từng bị xác định là \"kiến trúc vi phạm quy hoạch\", đối mặt phá dỡ toàn diện. Nhưng nhờ nỗ lực của người địa phương, năm 2004 được chỉ định là \"Kiến trúc lịch sử\".
+Bảo Tàng Núi là trường hợp tiêu biểu trong phong trào bảo tồng các khu cộng đồng quân sự. Khu vực núi nhỏ này ở phía sau trường Đại học Quốc gia Đài Loan, ban đầu bị coi là "xây dựng vi phạm pháp luật", đối mặt với việc phá hủy hoàn toàn. Nhưng nhờ nỗ lực của người dân địa phương, năm 2004 nó được ghi nhận là "công trình lịch sử"[ ^14]， Năm 2011 lại được ghi nhận là "nhóm công trình kiến trúc"[ ^14]。
 
-Làng quân thuộc Cầu Vồng là mô hình bảo tồn khác. Cán Thành Lục Thôn tại Đài Trung đối mặt di dời, cư dân Hoàng Vĩnh Phụ bắt đầu vẽ tranh tô màu lên tường, ban đầu là \"hành động phản đối\" cá nhân, năm 2010 lan truyền trên mạng bùng nổ, cuối cùng thúc đẩy chính phủ quy hoạch thành \"Công viên nghệ thuật Cầu Vồng\" bảo tồn.
+Cộng đồng màu sắc ở Trung Quảng là một mô hình bảo tồng khác. Nó nằm ở phía nam của Trung Quảng, gần khu cộng đồng sáu của Thành phố Công nghiệp, nhưng không thuộc phạm vi quản lý của Bộ Quốc phòng. Đây là những ngôi nhà do chính những người lính xây dựng; ông Huang Yongfu (1924-2024) mua một ngôi nhà vào năm 1979, sau đó khu vực này phải phá hủy do dự án chuyển đổi. Vào tháng 8 năm 2008, để tránh sự nhàm chân và để lại kỷ niệm trước khi bị phá hủy, ông bắt đầu vẽ tranh trên tường. Năm 2010, sinh viên của Đại học Thương mại và Đại học Kinh tế miền Đông khởi xướng "phong trào cứu giúp Cộng đồng màu sắc", và vào tháng 9 cùng năm, chính quyền thành phố Trung Quảng quyết định bảo tồng dưới dạng "Công viên Nghệ thuật màu sắc"[ ^15]。
 
-> **💡 Bạn có biết**  
-> Ông Hoàng Vĩnh Phụ năm 2008 bắt đầu vẽ khi đã gần 90 tuổi, không biết thao tác mạng, nhờ tình nguyện viên giúp dựng web, bán hàng văn tạo mới duy trì chi phí vẽ tranh và bảo dưỡng nhà cửa. Bút màu của một ông già, bất ngờ thành mô hình mới bảo tồn làng quân thuộc.
+> **💡 Bạn có biết không?**  
+> Huang Yongfu sinh năm 1924, khi bắt đầu vẽ tranh năm 2008, ông đã 84 tuổi. Sau khi Cộng đồng màu sắc lan truyền trên internet, Sở Văn hóa của thành phố Trung Quảng cân nhắc rằng ông không quen với internet, nên đã thuê bên thứ ba để xây dựng trang web chính thức, mời tình nguyện viên hỗ trợ, đồng thời bán hàng trên website và tại chỗ để chi trả cho chi phí vẽ tranh và bảo dưỡng công trình[^15]。 Một cây bút màu của một người già đã trở thành mô hình mới trong việc bảo tồng các khu cộng đồng quân sự.
 
-**Hai vụ án này minh chứng cho đa lộ bảo tồn làng quân thuộc: luận述 học thuật, động viên cộng đồng, truyền播 mạng, chuyển hướng chính sách, thiếu một không được.**
+**Hai trường hợp này cho thấy nhiều con đường trong việc bảo tồng các khu cộng đồng quân sự: luận điệu học thuật, sức mạnh cộng đồng, lan truyền mạng, chuyển đổi chính sách — thiếu bất kỳ yếu tố nào cũng không thể.**
 
-## Chuyển hóa tinh thần làng quân thuộc thời đại
+## Sự biến đổi hiện đại của tinh thần khu cộng đồng quân sự
 
 ### Từ không gian đến ký ức
 
-Làng quân thuộc thực thể đa số đã biến mất, nhưng \"tinh thần làng quân thuộc\" tìm thấy đòn bẩy mới trong kỷ nguyên số:
+Hầu hết các khu cộng đồng quân sự vẫn còn lại đã biến mất, nhưng "tinh thần khu cộng đồng quân sự" đã tìm thấy người mang trong thời đại số:
 
-- **Nhóm Facebook**: \"Hội cựu học sinh làng XX\" tái thiết cộng đồng ảo
-- **Kế hoạch sử học khẩu述**: Dùng hình ảnh ghi chép câu chuyện lão làng quân thuộc
-- **Tái tạo 3D số**: Làng quân thuộc đã mất trỗi dậy trong không gian ảo
-- **Sản nghiệp văn tạo**: Yếu tố làng quân thuộc thành chủ đề hot hàng hoài cổ
+- **Nhóm Facebook**: "Các câu lạc bộ học sinh XX khu cộng đồng quân sự" tái tạo cộng đồng ảo
+- **Dự án lịch sử thuyết nói**: Dùng hình ảnh để ghi lại câu chuyện của những người già trong khu cộng đồng quân sự
+- **Tái tạo 3D**: Các khu cộng đồng quân sự biến mất được sinh ra lại trong không gian ảo
+- **Công nghiệp sáng tạo**: Các yếu tố của khu cộng đồng quân sự trở thành chủ đề phổ biến của hàng nhớ
 
-**Cộng đồng làng quân thuộc ảo, ở mức độ nào đó tái hiện sự gắn kết của làng thực thể.** Nhưng \"làng quân thuộc của ký ức\" này có còn là \"làng quân thuộc thật\" không? Câu trả lời tùy người.
+**Cộng đồng ảo của các khu cộng đồng quân sự, ở một mức độ nào đó, tái hiện lại cảm giác cộng đồng của các khu cộng đồng quân sự thực sự.** Nhưng liệu "khu cộng đồng quân sự của ký ức" này có phải là "khu cộng đồng quân sự thực sự"? Câu trả lời khác nhau tùy theo người.
 
-### Mô hình Đài Loan nhận diện đa nguyên
+### Mẫu đường Đài Loan của sự đa dạng nhận diện
 
-Nhìn lại 70 năm lịch sử làng quân thuộc, bài học lớn nhất có lẽ là: **Nhận diện văn hóa không cần là trò chơi tổng hợp bằng không.** Một người có thể đồng thời là con làng quân thuộc, người Đài Loan, người Hoa, công dân thế giới, những nhận diện này không loại trừ lẫn nhau.
+Nhìn lại hơn bảy thập niên lịch sử của các khu cộng đồng quân sự, có thể nói rằng bài học lớn nhất là: **nhận diện văn hóa không cần phải là trò chơi đối đầu.** Một người có thể đồng thời là người con khu cộng đồng quân sự, người Đài Loan, người Hoa, công dân thế giới — những bản sắc này không loại trừ nhau.
 
-Kinh nghiệm làng quân thuộc cũng thách thức tưởng tượng đơn văn hóa. Văn hóa năm phương hội tụ tại Đài Loan tái tổ hợp, sinh ra mới mẻ vừa quen vừa lạ. Mì bò, luộc, ẩm thực làng quân thuộc, không phải tái hiện thuần túy bất kỳ truyền thống đơn lẻ nào, mà là thành quả sáng tạo của \"huyết thống văn hóa lai\".
+Kinh nghiệm của các khu cộng đồng quân sự cũng thách thức hình ảnh của một nền văn hóa đơn nhất. Những nền văn hóa từ khắp nơi trên đại lục được tái kết hợp ở Đài Loan, tạo ra một nền văn hóa vừa quen thuộc vừa lạ lùng. Mì bò, món ăn vặt, ẩm thực của các khu cộng đồng quân sự, đều không phải là sự tái hiện thuần khiết của bất kỳ truyền thống nào, mà là kết quả của "lai hóa văn hóa".
 
-**Trong thế kỷ 21 toàn cầu hóa, thí nghiệm đa văn hóa của làng quân thuộc, có lẽ chính là kinh nghiệm quan trọng Đài Loan 헌 tặng thế giới.**
+**Trong thế kỷ 21 của toàn cầu hóa, thí nghiệm đa dân tộc của các khu cộng đồng quân sự, có thể đang trở thành kinh nghiệm quan trọng mà Đài Loan mang lại cho thế giới.**
 
-## Rào tre vây quanh, không chỉ là nhà vườn
+## Những gì được bao quanh bởi lá chài
 
-> **✦** \"Một hàng rào tre, vây quanh không chỉ nhà vườn mới của 1,2 triệu người, mà là đoạn DNA phức tạp, phong phú nhất trong kho gen văn hóa Đài Loan.\"
+> **✦** Một hàng lá chài, bao quanh không chỉ là ngôi nhà mới của gần nửa triệu người, mà còn là DNA phức tạp và phong phú nhất trong ngân hàng di truyền văn hóa của Đài Loan.
 
-Làng quân thuộc có lẽ đã biến mất, nhưng di sản để lại không chỉ là hoài niệm, là một năng lực đối mặt biến thiên: trong điều kiện khó khăn nhất tái thiết cuộc sống, trên đất khách quê nhất gieo trồng văn hóa, trong tương lai không chắc chắn nhất giữ vững hy vọng.
+Các khu cộng đồng quân sự có thể đã biến mất, nhưng những gì chúng lại lại không chỉ là ký ức, mà là khả năng đối mặt với thay đổi: tái tạo cuộc sống trong những điều kiện khó khăn nhất, gieo mầm văn hóa trên mảnh đất lạ lùng, giữ hy vọng trong tương lai bất định.
 
-**Khắc nghiệt cùng nhau, thích ứng kiên trì, lưu vong và định cư — những đặc chất như trái ngược, hòa thành lõi tinh thần làng quân thuộc.** Nó nhắc nhở chúng ta, văn hóa không phải trưng bày tĩnh tại bảo tàng, mà là sinh lực sống trong mỗi lần xào nấu, mỗi câu phương ngôn, mỗi câu chuyện được truyền承.
+**Khó khăn và tương hỗ, thích ứng và kiên trì, lưu vong và ổn định — những đặc tính trông như mâu thuẫn này, tạo nên lõi của tinh thần khu cộng đồng quân sự.** Nó nhắc nhở chúng ta rằng, văn hóa không phải là triển lãm tĩnh lặng trong bảo tàng, mà là sức sống sống động trong từng nồi canh, từng câu nói bằng phương ngữ, từng câu chuyện được truyền lại.
 
-Khi hôm nay chúng ta tự do du tẩu trong đa văn hóa Đài Loan — uống trà đập ở bản Mường Khơ, nghe cổ điều ở bản người bản địa, mua bánh bột lọc tại chợ đêm làng quân thuộc — chúng ta thực chất đang trải nghiệm thí nghiệm làng quân thuộc bắt đầu 70 năm trước: **Làm sao biến khác biệt thành phong phú, biến lưu vong thành thuộc về, biến khách quê thành quê hương.**
+Hôm nay, khi chúng ta dạo phố trong nền đa dân văn hóa của Đài Loan — ăn bánh tráng ở khu vực người Hakka, nghe nhạc cổ ở bộ lạc người bản địa, mua bánh tiêu ở chợ khu cộng đồng quân sự — chúng ta thực sự đang trải nghiệm thí nghiệm mà các khu cộng đồng quân sự đã bắt đầu hơn bảy thập niên trước: **làm sao để sự khác biệt trở thành sự phong phú, làm sao để lưu vong trở thành sở hữu, làm sao để mảnh đất lạ lùng trở thành quê hương.**
 
-Đó chính là di sản quý giá nhất làng quân thuộc để lại cho Đài Loan: một sự lạc quan tin rằng \"văn hóa có thể bắt đầu lại\", và một sự khôn ngoan \"giữ mình giữa biến thiên\".
+Đó chính là di sản quý giá nhất mà các khu cộng đồng quân sự để lại cho Đài Loan: một sự lạc quan tin rằng "văn hóa có thể bắt đầu lại từ đầu", và một trí tuệc rằng "giữ gìn bản thân trong thay đổi".
 
 ---
 
 ## Tài liệu tham khảo
 
-- [Người ta có biết làng quân thuộc đầu tiên Chính phủ Quốc dân xây sau khi chuyển đến Đài Loan ở đâu không?](https://www.thenewslens.com/article/12591)
-- [1949 漂泊到台灣 - ETtoday 深度報導](https://events.ettoday.net/depth-report/veteran/index.htm)
-- [Ăn ở làng quân thuộc, ăn的是乡愁还是菜？](https://bankofculture.com/archives/3871)
-- [Làng quân thuộc - 維基百科](https://zh.wikipedia.org/zh-tw/%E7%9C%B7%E6%9D%91)
-- [Làng quân thuộc Cầu Vồng - 維基百科](https://zh.wikipedia.org/zh-tw/%E5%BD%A9%E8%99%B9%E7%9C%B7%E6%9D%91)
-- [Bảo tồn và tái sinh cộng đồng Bảo Tàng Nham](https://www.ta-mag.net/ta/News.php?id=2185)
-- [Điều lệ cải tạo làng quân thuộc cũ kỹ Quốc quân](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0140013)
-- [Cục Du lịch Bộ Giao thông - Làng Cầu Vồng](https://www.taiwan.net.tw/m1.aspx?sNo=0001016&id=A12-00236)
+[^1]: [Thị trấn Trung thành mới - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%BF%A0%E8%B2%9E%E6%96%B0%E6%9D%91) — Xây dựng vào mùa thu năm 1954 ở Phú Thọ, 534 ngôi nhà (một số nói 503 ngôi), là một trong những khu cộng đồng quân sự được xây dựng cho quân đội chống cộng của Yunnan trở về từ Myanmar; vào cuối năm 1953, Lí Mì dẫn dắt đại đội 193 và gia đình rút về Đài Loan
+
+[^2]: [1949 lưu vong tới Đài Loan - ETtoday tin sâu](https://events.ettoday.net/depth-report/veteran/index.htm) — "Năm 1949, 600.000 quân chính phủ rút về Đài Loan"; số lượng quân nhập khẩu nhiều nhất là tỉnh Thái Dương (72.604 người), tiếp theo là Quảng Đông (66.613 người), Chiết Giang (54.950 người)
+
+[^3]: [Rút khỏi Chou Shan - Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%88%9F%E5%B1%B1%E6%92%A4%E9%80%80) — Năm 1950, trong ba ngày, hơn 120.000 quân đội và khoảng 20.000 cư dân địa phương được rút về Đài Loan
+
+[^4]: [Quân đội Phú Tài - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%AF%8C%E8%87%BA%E9%83%A8%E9%9A%8A) — Năm 1953, quân đội được chuyển về Đài Loan, số lượng tới Đài Loan là 30.087 người
+
+[^5]: [Quân đội cô lập ở Thái Lan-Myanmar - Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%B3%B0%E7%B7%AC%E5%AD%A4%E8%BB%8D) — Lần rút về đầu tiên chia thành ba đợt (từ ngày 7 tháng 11 năm 1953 đến ngày 9 tháng 5 năm 1954), cộng với nhân sự khác, tổng cộng 6.986 người
+
+[^6]: [Chiến binh chống cộng - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%8F%8D%E5%85%B1%E7%BE%A9%E5%A3%AB) — Hơn 14.000 chiến binh tù trưởng của Quân giải phóng nhân dân Trung Hoa trong chiến tranh Hàn Quốc chọn tới Đài Loan, đợt đầu tiên hạ cánh xuống cảng Cửa Khẩu vào ngày 23 tháng 1 năm 1954
+
+[^7]: [Khu cộng đồng quân sự đầu tiên do Chính phủ Quốc Dân xây dựng sau khi nhập khẩu - Điểm nhận xét then chốt](https://www.thenewslens.com/article/12591) — Cột báo của Zhang Zhesheng năm 2015; quân đội cô lập tạm trú ở kho hàng của nhà máy đường ray ở Hsiuchiao, Dalin, Wufeng và các nơi khác, mức độ thiếu hụt vật chất thậm chí còn tệ hơn khi đang du kích ở Myanmar; mỗi gia đình trong Thị trấn Trung thành mới chỉ có dưới 10 thềm vuông; nông dân từ Hsiuchiao đẩy xe bán hàng qua các con phố của khu cộng đồng quân sự hình thành thị trường Trung thành. Tiêu đề bài viết "khu cộng đồng quân sự đầu tiên" mâu thuẫn với hồ sơ của Khu cộng đồng bốn mươi tư, xem phần văn bản
+
+[^8]: [Khu cộng đồng bốn mươi tư - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%9B%9B%E5%9B%9B%E5%8D%97%E6%9D%91) — Theo điều tra của Hội thúc đẩy di sản Khu cộng đồng bốn mươi tư, được xây dựng vào năm 1948, nên là khu cộng đồng quân sự đầu tiên do Chính phủ Quốc Dân xây dựng ở Đài Loan
+
+[^9]: [Khu cộng đồng Hương Bình (Đài Loan) - Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%BB%83%E5%9F%94%E6%96%B0%E6%9D%91_%28%E8%87%BA%E7%81%A3%29) — Năm 1949, quân đội của Sun Liran chiếm lấy các phòng ở khu cộng đồng của quân đội Nhật ở Fengshan, hình thành khu cộng đồng quân sự đầu tiên ở Đài Loan
+
+[^10]: [Khu cộng đồng quân sự - Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%9C%B7%E6%9D%91) — Năm 1984, Bộ Quốc phòng quản lý 888 khu cộng đồng quân sự, tổng cộng 109.786 hộ gia đình; Hội phụ nữ thống kê năm 1982 có 879 khu cộng đồng quân sự, khoảng 467.316 người; Dasi, Phú Thọ là một trong những khu cộng đồng quân sự đầu tiên được xây dựng ở Phú Thọ; đến năm 2001, còn 530 khu cộng đồng quân sự công cộng
+
+[^11]: [Ẩm thực của các khu cộng đồng quân sự, cuối cùng là ăn ký ức hay món ăn? - Ngân hàng Văn hóa](https://bankofculture.com/archives/3871) — Giao Tông: "Sichuan không có mì bò kiểu Sichuan"; người Thái Dương đông tụ ở Kaohsiung, người Sichuan và Hữu Ngạn ở Nhân Đức II; mì bò kiểu Sichuan bén rễ ở Kaohsiung, các quán mì bò xuất hiện ở Phố Thành Cửa Viên và Đường Tín
+
+[^12]: [Luật sửa chữa các khu cộng đồng quân sự cũ của Quân Giải phóng Quốc gia - Cơ sở dữ liệu pháp luật toàn quốc](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0140013) — Ban hành và công bố ngày 5 tháng 2 năm 1996, tổng cộng 30 điều
+
+[^13]: [Lễ khánh thành Khu văn hóa cộng đồng quân sự 886 ở Kaohsiung - ETtoday tin tức](https://www.ettoday.net/news/20180729/1222872.htm) — Năm 2018, Thư ký phụ trách của Phủ Tổng thống Chen Ju nói: "Toàn quốc có 886 khu cộng đồng quân sự"
+
+[^14]: [Khu vực Bảo Tàng Núi - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%AF%B6%E8%97%8F%E5%B7%96%E8%81%9A%E8%90%BD) — Ngày 14 tháng 5 năm 2004, được ghi nhận là công trình lịch sử; ngày 27 tháng 5 năm 2011, được ghi nhận là nhóm công trình kiến trúc
+
+[^15]: [Cộng đồng màu sắc - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%BD%A9%E8%99%B9%E7%9C%B7%E6%9D%91) — Huang Yongfu (1924-2024); Cộng đồng màu sắc nằm gần khu cộng đồng sáu của Thành phố Công nghiệp nhưng không thuộc phạm vi quản lý của Bộ Quốc phòng; từ tháng 8 năm 2008, để tránh sự nhàm chân và để lại kỷ niệm trước khi bị phá hủy, bắt đầu vẽ tranh trên tường; sau khi phong trào "cứu giúp Cộng đồng màu sắc" được khởi xướng vào năm 2010, tháng 9, chính quyền thành phố Trung Quảng quyết định bảo tồng dưới dạng "Công viên Nghệ thuật màu sắc"; Sở Văn hóa thuê bên thứ ba để xây dựng trang web chính thức, mời tình nguyện viên hỗ trợ
+
+### Tài liệu tham khảo mở rộng
+
+- [Bảo tồng và tái sinh cộng đồng Bảo Tàng Núi - Đài Loan kiến trúc](https://www.ta-mag.net/ta/News.php?id=2185)
+- [Sở Du lịch Bộ Giao thông - Cộng đồng màu sắc](https://www.taiwan.net.tw/m1.aspx?sNo=0001016&id=A12-00236)

@@ -25,10 +25,10 @@ imageCredit: 'BQUB25-UPoch (own work, AlphaFold + PyMOL)'
 imageLicense: 'CC BY 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Estructura_tridimensional_de_la_prote%C3%AFna_CBLN1_per_AlphaFold_amb_codificaci%C3%B3_rainbow.png'
 translatedFrom: 'Technology/台灣人工智慧發展與未來策略.md'
-sourceCommitSha: 'b67b190fb'
-sourceContentHash: 'sha256:15e7aa6f99cf7a84'
-sourceBodyHash: 'sha256:50acff1d4627c3c4'
-translatedAt: '2026-09-09T03:01:55.488096+00:00'
+sourceCommitSha: 'b70d6d8c4'
+sourceContentHash: 'sha256:36a555145d356c00'
+sourceBodyHash: 'sha256:9929570d1f524d80'
+translatedAt: '2026-10-03T22:29:04.256677+00:00'
 ---
 
 # Phát triển trí tuệ nhân tạo của Đài Loan và chiến lược tương lai: Tấm vé phần cứng đã lấy, trận chiến kế tiếp sẽ ở đâu
@@ -210,19 +210,17 @@ Ví dụ này cho thấy một sự thật: lợi thế AI của Đài Loan khô
 
 ---
 
-## Chính sách: Từ "Năm AI" đến Bộ Phát triển Số hóa
+## Chính sách: Từ "Năm AI" đến Bộ Phát triển Số
 
-Phát triển chính sách AI của Đài Loan có thể được hiểu bằng ba nút giai đoạn.
+Sự phát triển chính sách AI của Đài Loan có thể được hiểu qua ba giai đoạn.
 
-2017 đến 2018 là giai đoạn khởi động. Viện Hành pháp đã xác định năm 2017 là "Năm AI", đưa ra khái niệm "Chiến lược AI nước nhỏ lớn lao", thừa nhận thị trường Đài Loan nhỏ, nhưng nhấn mạnh ba thẻ bài là sản xuất bán dẫn, chuỗi cung ứng ICT, tài năng khoa học kỹ thuật. Năm 2018 khởi động "Kế hoạch Hành động AI Đài Loan" lần đầu tiên, bốn năm đầu tư hơn 40 tỷ đô la Đài Loan, điểm trọng tâm xây dựng cơ sở hạ tầng tính toán AI "Đài Loan AI Cloud" (TWCC)[^22].
+Giai đoạn 2017 đến 2018 là giai đoạn khởi đầu. Bộ trưởng Khoa học và Công nghệ Trần Lương Cơ đã tuyên bố năm 2017 là "Năm AI", đưa ra "Chiến lược lớn của quốc gia nhỏ về AI" [^21], thừa nhận thị trường Đài Loan còn nhỏ nhưng nhấn mạnh ba thế mạnh: sản xuất chất bán dẫn, chuỗi cung ứng ICT và nhân tài kỹ thuật. Năm 2018, "Kế hoạch hành động AI Đài Loan" giai đoạn đầu được khởi động, đầu tư hơn NT$40 tỷ trong bốn năm, tập trung xây dựng cơ sở hạ tầng tính toán AI là "Đám mây AI Đài Loan" (TWCC) [^20].
 
-Năm 2022 đi tới xây dựng thể chế. Bộ Phát triển Số hóa (MODA) được thành lập, tích hợp các công việc số hóa từng được phân tán ở Bộ Khoa học, Bộ Kinh tế, Bộ Giao thông. Ý nghĩa của bước này nằm ở: chính sách AI từ "dự án của Bộ Khoa học" nâng cấp thành "chiến lược quốc gia của toàn bộ các bộ". Cùng năm đó, chính phủ xuất bản "Hướng dẫn Phát triển Khoa học Công nghệ AI", nhấn mạnh các nguyên tắc nhân cơ bản, minh bạch có thể giải thích, công bằng không phân biệt.
+Năm 2022 đánh dấu sự thể chế hóa. Bộ Phát triển Số (moda) được thành lập, hợp nhất các nhiệm vụ số vốn phân tán trước đây thuộc Bộ Khoa học và Công nghệ, Bộ Kinh tế và Bộ Giao thông. Ý nghĩa của bước này là: chính sách AI đã được nâng cấp từ "dự án của Bộ Khoa học và Công nghệ" thành "chiến lược quốc gia liên ngành". Cùng năm đó, chính phủ ban hành "Hướng dẫn phát triển nghiên cứu trí tuệ nhân tạo", nhấn mạnh các nguyên tắc lấy con người làm trung tâm, minh bạch, có thể giải thích được và không phân biệt đối xử.
 
-2023 tới nay là chuyển hướng sang AI tạo sinh. Tác động của ChatGPT khiến chính sách vẫy ngoặt mạnh. TAIDE khởi động, dự thảo Luật cơ bản AI đẩy, gia tốc tích hợp AI bộ phận công. Chiến lược của Đài Loan rất thực tế: không cạnh tranh với Mỹ Trung về số lượng bài báo nghiên cứu cơ bản, mà là kết nối AI với ưu thế sản xuất hiện tại. Sản xuất thông minh, ảnh y tế, dự đoán tỷ lệ tốt bán dẫn, đây là những lĩnh vực Đài Loan có dữ liệu, có kịch bản, có sức cạnh tranh.
+Giai đoạn từ 2023 đến nay là sự chuyển hướng sang AI tạo sinh (Generative AI). Sự chấn động của ChatGPT đã khiến chính sách thay đổi nhanh chóng. Kế hoạch TAIDE được khởi động, dự thảo Luật cơ bản về AI được thúc đẩy và việc áp dụng AI trong khu vực công được tăng tốc. Chiến lược của Đài Loan rất thực tế: không cạnh tranh với Trung Quốc và Mỹ bằng số lượng bài báo nghiên cứu cơ bản, mà là gắn kết AI với lợi thế sản xuất sẵn có. Sản xuất thông minh, hình ảnh y tế, dự đoán năng suất chất bán dẫn, đây đều là những lĩnh vực mà Đài Loan có dữ liệu, bối cảnh và khả năng cạnh tranh.
 
-Vấn đề là, vào hai ngày tháng 10 năm 2024 khi các Giải Nobel được trao, danh sách người đoạt giải không có tên nào đến từ con đường "sản xuất thông minh".
-
----
+Vấn đề là, trong danh sách người đoạt giải Nobel hai ngày tháng 10 năm 2024, không có ai đến từ con đường "sản xuất thông minh".
 
 ## Lo lắng: Khoảng trống phần mềm của đế chế phần cứng
 
@@ -263,51 +261,53 @@ Bài viết sử dụng 4 hình ảnh thuộc phạm vi công cộng / cấp ph�
 - [John J. Hopfield, 2024 Nobel Prize Laureate in Physics 1 (cropped)](<https://commons.wikimedia.org/wiki/File:John_J._Hopfield,_2024_Nobel_Prize_Laureate_in_Physics_1_(cropped).jpg>) — ảnh nội dung, chân dung chính thức của John J. Hopfield trong tuần trao giải Nobel 2024. Ảnh: Arthur Petron, 08/12/2024, CC BY-SA 4.0.
 - [TSMC Fab 5](https://commons.wikimedia.org/wiki/File:TSMC_Fab_5.jpg) — ảnh nội dung, nhà máy TSMC Fab 5 tại Tân Trúc, hiện trường sản xuất chip AI. Ảnh: Wikimedia Commons (bản sao lưu sẵn có).
 
-## Tham khảo
+## Tài liệu tham khảo
 
-[^1]: [Tom's Hardware: Semiconductor legends take a stroll in a Taiwanese night market](https://www.tomshardware.com/tech-industry/semiconductor-legends-take-a-stroll-in-a-taiwanese-night-market-nvidia-tsmc-mediatek-and-quanta-heads-seen-eating-dinner) — Báo cáo cảnh chợ đêm Ninh Hạ ngày 29 tháng 5 năm 2024, ghi lại cảnh Hoàng Nhân Huân, Morris Chang, Lâm Bá Lý, Thái Lực Hành cùng bàn dùng cơm.
+[^1]: [Tom's Hardware: Semiconductor legends take a stroll in a Taiwanese night market](https://www.tomshardware.com/tech-industry/semiconductor-legends-take-a-stroll-in-a-taiwanese-night-market-nvidia-tsmc-mediatek-and-quanta-heads-seen-eating-dinner) — Báo cáo về Chợ đêm Ninh Hạ ngày 29 tháng 5 năm 2024, ghi lại cảnh Hoàng Nhân Tuân (Jensen Huang), Trương Trung Mưu (Morris Chang), Lâm Bách Lý (Peter Lin), và Thái Lực Hành (Cai Li-hing) dùng bữa cùng bàn.
 
-[^2]: [Taiwan News: Nvidia CEO calls Taiwan 'one of the most important countries in the world'](https://www.taiwannews.com.tw/news/5880054) — Tuyên bố công khai của Hoàng Nhân Huân thăm Đài Loan vào 2024-05-30.
+[^2]: [Taiwan News: Nvidia CEO calls Taiwan 'one of the most important countries in the world'](https://www.taiwannews.com.tw/news/5880054) — Phát biểu công khai của Hoàng Nhân Tuân tại Đài Loan ngày 30/05/2024.
 
-[^3]: [Wikipedia: Jensen Huang](https://en.wikipedia.org/wiki/Jensen_Huang) — Dữ liệu tiểu sử của Hoàng Nhân Huân sinh năm 1963 ở Đài Bắc, tuổi thơ ở Đài Nam, di cư sang Mỹ lúc chín tuổi.
+[^3]: [Wikipedia: Jensen Huang](https://en.wikipedia.org/wiki/Jensen_Huang) — Tài liệu tiểu sử về Hoàng Nhân Tuân, sinh năm 1963 tại Đài Bắc, lớn lên ở Đài Nam và di cư sang Mỹ năm 9 tuổi.
 
-[^4]: [Klover.ai: TSMC AI Fabricating Dominance](https://www.klover.ai/tsmc-ai-fabricating-dominance-chip-manufacturing-leadership-ai-era/) — Tất cả các GPU tiên tiến của NVIDIA (A100, H100, Blackwell series) đều được TSMC gia công. Xem
+[^4]: [Klover.ai: TSMC AI Fabricating Dominance](https://www.klover.ai/tsmc-ai-fabricating-dominance-chip-manufacturing-leadership-ai-era/) — Tất cả các GPU tiên tiến của NVIDIA (A100, H100, dòng Blackwell) đều được TSMC sản xuất theo hợp đồng. Xem
 
-[^5]: [SQ Magazine: AI Chip Statistics 2025](https://sqmagazine.co.uk/ai-chip-statistics/) — Nguồn dữ liệu 72% thị phần doanh thu gia công wafer TSMC năm 2025; xem thêm báo cáo cùng kỳ từ Motley Fool.
+[^5]: [SQ Magazine: AI Chip Statistics 2025](https://sqmagazine.co.uk/ai-chip-statistics/) — Nguồn dữ liệu thị phần doanh thu wafer của TSMC năm 2025 là 72%; xem thêm báo cáo cùng kỳ của Motley Fool.
 
-[^6]: [PatentPC: The AI Chip Market Explosion](https://patentpc.com/blog/the-ai-chip-market-explosion-key-stats-on-nvidia-amd-and-intels-ai-dominance) — Nguồn dữ liệu thị phần GPU AI của NVIDIA 86%.
+[^6]: [PatentPC: The AI Chip Market Explosion](https://patentpc.com/blog/the-ai-chip-market-explosion-key-stats-on-nvidia-amd-and-intels-ai-dominance) — Nguồn dữ liệu về thị phần GPU AI của NVIDIA là 86%.
 
-[^7]: [Tech-Now: Taiwan Leads Global AI Server Shift, Surpassing iPhones in 2025](https://tech-now.io/en/blogs/taiwans-ai-server-revolution-how-foxconn-and-odms-redefined-global-tech-leadership-in-2025) — Dữ liệu Foxconn, Quanta, Wistron xuất hàng máy chủ AI toàn cầu 90%.
+[^7]: [Tech-Now: Taiwan Leads Global AI Server Shift, Surpassing iPhones in 2025](https://tech-now.io/en/blogs/taiwans-ai-server-revolution-how-foxconn-and-odms-redefined-global-tech-leadership-in-2025) — Dữ liệu xuất hàng máy chủ AI toàn cầu của Foxconn, Wistron và Quanta đạt 90%.
 
-[^8]: [DigiTimes: Foxconn, Wistron, Quanta to sustain trillion-dollar revenue on AI server in 2026](https://www.digitimes.com/news/a20260109PD249/revenue-ai-server-foxconn-wistron-quanta.html) — Báo cáo dữ liệu ba nhà ODM doanh thu hàng năm vượt ngàn tỷ, máy chủ AI vượt sản phẩm điện tử tiêu dùng.
+[^8]: [DigiTimes: Foxconn, Wistron, Quanta to sustain trillion-dollar revenue on AI server in 2026](https://www.digitimes.com/news/a20260109PD249/revenue-ai-server-foxconn-wistron-quanta.html) — Báo cáo về việc doanh thu hàng năm của ba công ty ODM vượt ngưỡng nghìn tỷ đô la và máy chủ AI vượt qua thiết bị tiêu dùng.
 
-[^9]: [36Kr: Who Will Divide Up the CoWoS Production Capacity in 2026?](https://eu.36kr.com/en/p/3580962946874242) — Dữ liệu nhu cầu wafer CoWoS của NVIDIA 595.000 cái, chiếm 60% tổng nhu cầu toàn cầu.
+[^9]: [36Kr: Who Will Divide Up the CoWoS Production Capacity in 2026?](https://eu.36kr.com/en/p/3580962946874242) — Dữ liệu về nhu cầu wafer CoWoS của NVIDIA là 595 nghìn tấm, chiếm 60% toàn cầu.
 
-[^10]: [NVIDIA Newsroom: Foxconn Builds AI Factory in Partnership With Taiwan and NVIDIA](https://nvidianews.nvidia.com/news/foxconn-builds-ai-factory-in-partnership-with-taiwan-and-nvidia) — Đối tác xây dựng nhà máy AI 100MW ở Cao Hùng; xem thêm báo cáo CNBC về dung lượng điện 100MW.
+[^10]: [NVIDIA Newsroom: Foxconn Builds AI Factory in Partnership With Taiwan and NVIDIA](https://nvidianews.nvidia.com/news/foxconn-builds-ai-factory-in-partnership-with-taiwan-and-nvidia) — Dự án nhà máy AI 100MW tại Cao Hùng; xem thêm báo cáo của CNBC về công suất điện 100MW.
 
-[^11]: [Trang chủ Đài Loan AI Labs - Về chúng tôi](https://ailabs.tw/zh/關於我們/) — Giới thiệu chính thức Chu Dịch Cận năm 1995 tại Đại học Quốc gia Đài Loan thành lập PTT, tháng 4 năm 2017 trở về thành lập Đài Loan AI Labs.
+[^11]: [Trang web chính thức Phòng thí nghiệm Trí tuệ Nhân tạo Đài Loan Về chúng tôi](https://ailabs.tw/zh/關於我們/) — Giới thiệu chính thức về Đỗ Dịch Cẩn (Du Y-chin), người sáng lập PTT vào năm 1995 tại Đại học Quốc gia Đài Loan và thành lập Taiwan AI Labs vào tháng 4 năm 2017.
 
-[^12]: [TechNews Kỹ thuật Báo: Tài năng AI ở Đài Loan, nên đi hay nên ở? Phỏng vấn người sáng lập Đài Loan AI Labs Chu Dịch Cận](https://finance.technews.tw/2025/08/18/taiwan-ai-labs-ethan/) — Giới thiệu các dự án lõi như Yating Verbatim, AI học tập liên kết y tế.
+[^12]: [TechNews Khoa học Kỹ thuật: Nhân tài AI ở Đài Loan, nên đi hay nên ở? Phỏng vấn người sáng lập Phòng thí nghiệm Trí tuệ Nhân tạo Đài Loan Đỗ Dịch Cẩn](https://finance.technews.tw/2025/08/18/taiwan-ai-labs-ethan/) — Giới thiệu các dự án cốt lõi như bản ghi của Nhã Đình và y tế AI học tập liên bang.
 
-[^13]: [Viện Hành pháp: Hoàn thiện cơ sở hạ tầng AI Đài Loan — Xây dựng máy tạo đối thoại AI đáng tin cậy TAIDE](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/582206fe-26fc-4184-b911-aa6e4569ff3e) — Giải thích chính thức khởi động kế hoạch TAIDE tháng 4 năm 2023.
+[^13]: [Chính phủ: Hoàn thiện cơ sở hạ tầng AI Đài Loan — Xây dựng công cụ đối thoại AI đáng tin cậy TAIDE](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/582206fe-26fc-4184-b911-aa6e4569ff3e) — Giải thích chính thức về kế hoạch TAIDE khởi động vào tháng 4 năm 2023.
 
-[^14]: [Thiên Hạ Tạp chí: "Ngăn chặn cuộc xâm lăng văn hóa AI của Trung Quốc" — Đài Loan mô hình ngôn ngữ lớn tiếng Trung phức tạp đầu tiên TAIDE, có thể làm gì?](https://www.cw.com.tw/article/5129076) — Báo cáo chủ đề TAIDE, nguồn luận thuyết chủ thể văn hóa LLM tiếng Trung phức tạp.
+[^14]: [Tạp chí Tianxia: 'Ngăn chặn sự xâm lược văn hóa AI của Trung Quốc' Mô hình ngôn ngữ lớn tiếng Trung phồn thể đầu tiên của Đài Loan, TAIDE, có thể làm gì?](https://www.cw.com.tw/article/5129076) — Báo cáo chủ đề về TAIDE, luận điểm về tính chủ thể văn hóa LLM tiếng Trung phồn thể.
 
-[^15]: [Thông cáo báo chí Viện Khoa học Quốc gia: TAIDE một năm có thành tích, công ty tư-công hợp tác cùng thúc đẩy mô hình ngôn ngữ lớn có đặc trưng Đài Loan](https://www.nstc.gov.tw/folksonomy/detail/dd2d9d72-8f7b-44dd-976c-438d5ce683af?l=ch) — Phát hành phiên bản thương mại TAIDE-LX-7B, phiên bản học tập 13B tháng 4 năm 2024.
+[^15]: [Thông cáo báo chí Viện Khoa học Quốc gia: TAIDE thành công sau một năm - Hợp tác công tư thúc đẩy mô hình ngôn ngữ lớn mang đặc trưng Đài Loan](https://www.nstc.gov.tw/folksonomy/detail/dd2d9d72-8f7b-44dd-976c-438d5ce683af?l=ch) — Phát hành phiên bản thương mại TAIDE-LX-7B và phiên bản nghiên cứu 13B vào tháng 4 năm 2024.
 
-[^16]: [CloudInsight: Tình trạng phát triển LLM Đài Loan 2026](https://cloudinsight.cc/en/blog/taiwan-llm) — TAIDE 2.0, Breeze-8B v.v. kiểm kê toàn bộ hệ sinh thái LLM Đài Loan.
+[^16]: [CloudInsight: Tình trạng phát triển LLM của Đài Loan năm 2026](https://cloudinsight.cc/en/blog/taiwan-llm) — Tổng quan hệ sinh thái LLM Đài Loan như TAIDE 2.0, Breeze-8B.
 
-[^17]: Báo cáo CloudInsight trên. Các trường hợp ứng dụng chi tiết bao gồm "Thần Nông TAIDE" của Đại học Trung Hoa, robot đối thoại tiếng Đài-Anh của Đại học Đài Nam, mô hình TAIDE tiếng Đài và tiếng Khách Gia của Yang Ming Chiao Tung.
+[^17]: Tương tự báo cáo CloudInsight. Các ứng dụng chi tiết như 'Thần Nông TAIDE' của Đại học Trung Khang, robot đối thoại tiếng Anh-Đài Loan của Đại học Đài Nam và mô hình TAIDE tiếng địa phương của Đại học Khoa giao Dương Minh.
 
-[^18]: [CIO Đài Loan: Tham quan các nhà sản xuất an ninh Đài Loan — Công nghệ thông minh CyCraft](https://www.cio.com.tw/taiwanese-ahn-an-smart-technology/) — Chi tiết CyCraft bảy lần được Gartner đưa vào danh sách, ba lần vượt qua đánh giá MITRE ATT&CK.
+[^18]: [CIO Taiwan: Các công ty an ninh mạng Đài Loan ghé thăm — Aoyi Smart Technology](https://www.cio.com.tw/taiwanese-ahn-an-smart-technology/) — Chi tiết về việc Aoyi Smart liên tiếp lọt vào Gartner 7 lần và vượt qua đánh giá MITRE ATT&CK 3 lần.
 
-[^19]: [Trang chủ CyCraft: Tấm vé bảng đổi đầu tiên AI an ninh! CyCraft niêm yết hôm nay](https://www.cycraft.com/news/taiwans-first-ai-cybersecurity-stock-20260205) — Thông cáo báo chí niêm yết bảng đổi ngày 5 tháng 2 năm 2026.
+[^19]: [Trang web chính thức Aoyi Smart: Vua an ninh mạng AI ra mắt sáng tạo! Aoyi Cyber niêm yết ngày 05/02/2026](https://www.cycraft.com/news/taiwans-first-ai-cybersecurity-stock-20260205) — Thông cáo báo chí về việc niêm yết trên sàn đổi mới vào ngày 05 tháng 2 năm 2026.
 
-[^20]: [Viện Khoa học Quốc gia: Chiến lược AI Nghiên cứu Khoa học](https://www.nstc.gov.tw/folksonomy/detail/dbf8da09-22be-4ef1-8294-8832fc6e8a26?l=ch) — Kế hoạch Hành động AI Đài Loan lần đầu 400 tỷ ngân sách, xây dựng TWCC và các khuôn khổ chính sách.
+[^20]: [Viện Khoa học Quốc gia: Chiến lược nghiên cứu AI](https://www.nstc.gov.tw/folksonomy/detail/dbf8da09-22be-4ef1-8294-8832fc6e8a26?l=ch) — Khung chính sách như ngân sách 40 tỷ Đài tệ của Kế hoạch Hành động AI lần thứ nhất và xây dựng TWCC.
 
-[^N1]: [Thông cáo báo chí Giải Nobel Vật lý 2024](https://www.nobelprize.org/prizes/physics/2024/press-release/) — Công bố chính thức của Viện Hàn lâm Khoa học Hoàng gia Thụy Điển ngày 8 tháng 10 năm 2024. Văn bản gốc: "The Royal Swedish Academy of Sciences has decided to award the Nobel Prize in Physics 2024 to John J. Hopfield and Geoffrey Hinton 'for foundational discoveries and inventions that enable machine learning with artificial neural networks.'" Tiền thưởng 11 triệu crown Thụy Điển, chia đều cho hai người.
+[^21]: [Bán dẫn bay lên, Sân khấu công nghệ Trần Lương Cơ: 16 tỷ chạy AI cho Đài Loan — Tạp chí Viễn Kiến, 2017](https://www.gvm.com.tw/article/39819) — Bộ trưởng Khoa học và Công nghệ Trần Lương Cơ tuyên bố năm 2017 là năm bản lề của AI, đưa ra Chiến lược quốc gia nhỏ, chiến tranh lớn về AI vào giữa tháng 8.
 
-[^N2]: [Thông cáo báo chí Giải Nobel Hóa học 2024](https://www.nobelprize.org/prizes/chemistry/2024/press-release/) — Công bố ngày 9 tháng 10 năm 2024. Tiền thưởng 11 triệu crown Thụy Điển, David Baker nhận một nửa "cho thiết kế protein tính toán", Demis Hassabis và John Jumper chia sẻ nửa còn lại "cho dự đoán cấu trúc protein".
+[^N1]: [Thông cáo báo chí Giải Nobel Vật lý 2024](https://www.nobelprize.org/prizes/physics/2024/press-release/) — Công bố chính thức bởi Viện Khoa học Hoàng gia Thụy Điển ngày 08/10/2024. Nguyên văn: 'The Royal Swedish Academy of Sciences has decided to award the Nobel Prize in Physics 2024 to John J. Hopfield and Geoffrey Hinton 'for foundational discoveries and inventions that enable machine learning with artificial neural networks.''. Giải thưởng là 11 triệu Krone Thụy Điển, chia đều cho hai người.
+
+[^N2]: [Thông cáo báo chí Giải Nobel Hóa học 2024](https://www.nobelprize.org/prizes/chemistry/2024/press-release/) — Công bố ngày 09/10/2024. Giải thưởng là 11 triệu Krone Thụy Điển, David Baker nhận một nửa 'cho thiết kế protein bằng máy tính', Demis Hassabis và John Jumper chia sẻ phần còn lại 'cho dự đoán cấu trúc protein'.
 
 [^N3]: [PNAS, 79(8), 2554-2558](https://www.pnas.org/doi/10.1073/pnas.79.8.2554) — Hopfield, J. J. (1982). "Neural networks and physical systems with emergent collective computational abilities."
 
@@ -315,32 +315,32 @@ Bài viết sử dụng 4 hình ảnh thuộc phạm vi công cộng / cấp ph�
 
 [^N5]: [NeurIPS 2012 / NIPS Proceedings](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html) — Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). "ImageNet Classification with Deep Convolutional Neural Networks."
 
-[^N6]: [PanSci Phổ khoa học: Giải Nobel Vật lý 2024 — Hopfield và Hinton mở ra kỷ nguyên máy học mạng nơ-ron nhân tạo](https://pansci.asia/archives/378242) — Người đồng tác với nội dung Per MOU 2026-05-05. Bao gồm bối cảnh Hopfield Network, tương tự spin glass, số lần trích dẫn bài báo tích lũy, liên kết toán học với học sâu đương đại.
+[^N6]: [PanSci Khoa học Phổ quát: Giải Nobel Vật lý 2024 - Hopfield và Hinton mở ra kỷ nguyên máy học bằng mạng thần kinh nhân tạo](https://pansci.asia/archives/378242) — Đối tác tuyển chọn nội dung theo MOU ngày 05/05/2026. Bao gồm bối cảnh đề xuất Mạng lưới Hopfield, phép loại suy spin glass, số lần trích dẫn bài báo và mối liên hệ toán học với học sâu hiện đại.
 
-[^N7]: [The Guardian: Nobel physics prize 2024 winner John Hopfield warns of AI dangers](https://www.theguardian.com/science/2024/oct/08/nobel-prize-physics-2024-john-hopfield-geoffrey-hinton-ai-machine-learning) — Báo cáo phỏng vấn điện thoại Giải Nobel Vật lý ngày 8 tháng 10, Hopfield và Hinton đều đưa ra cảnh báo rủi ro AI cùng ngày.
+[^N7]: [The Guardian: Nobel physics prize 2024 winner John Hopfield warns of AI dangers](https://www.theguardian.com/science/2024/oct/08/nobel-prize-physics-2024-john-hopfield-geoffrey-hinton-ai-machine-learning) — Báo cáo phỏng vấn điện thoại Giải Nobel Vật lý 2024 ngày 08/10/2024, nơi Hopfield và Hinton cùng đưa ra cảnh báo về rủi ro của AI.
 
-[^N8]: [Wikipedia: Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton) — Hinton sinh ngày 6 tháng 12 năm 1947 ở Wimbledon, London, Google mua DNNresearch với 44 triệu đô la Mỹ tháng 3 năm 2013 để Hinton gia nhập.
+[^N8]: [Wikipedia: Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton) — Hinton sinh ngày 06/12/1947 tại Wombwellton, London, gia nhập Google vào tháng 3 năm 2013 sau khi DNNresearch được mua lại với giá 44 triệu USD.
 
-[^N9]: [BBC News: AI 'godfather' Geoffrey Hinton warns of dangers as he quits Google](https://www.bbc.com/news/world-us-canada-65452940) — Hinton rời khỏi Google tháng 5 năm 2023, sau đó phỏng vấn BBC bày tỏ lo lắng rủi ro AI. Văn bản gốc "I left so that I could talk about the dangers of AI without considering how this impacts Google", "a part of me now regrets my life's work". Chi tiết phỏng vấn NYT cùng kỳ cũng được báo cáo này trích dẫn.
+[^N9]: [BBC News: AI 'godfather' Geoffrey Hinton warns of dangers as he quits Google](https://www.bbc.com/news/world-us-canada-65452940) — Hinton bày tỏ lo ngại về rủi ro của AI với BBC sau khi rời Google ngày 01/05/2023. Nguyên văn: 'I left so that I could talk about the dangers of AI without considering how this impacts Google', 'a part of me now regrets my life's work'. Chi tiết phỏng vấn NYT cùng thời cũng được trích dẫn trong báo cáo này.
 
-[^N10]: [Nature: AI scientist Geoffrey Hinton wins Nobel prize for physics](https://www.nature.com/articles/d41586-024-03213-8) — Báo cáo Nature về hiện trường trao Giải Nobel Vật lý 2024 và chi tiết phỏng vấn điện thoại Hinton.
+[^N10]: [Nature: AI scientist Geoffrey Hinton wins Nobel prize for physics](https://www.nature.com/articles/d41586-024-03213-8) — Mô tả chi tiết của Nature về buổi trao giải và cuộc phỏng vấn điện thoại với Hinton.
 
-[^N11]: [Wikipedia: Kinh tế học Lịch sử Đài Loan](https://en.wikipedia.org/wiki/Economic_history_of_Taiwan) — Dữ liệu GDP Đài Loan năm 1986; Công viên Khoa học Tân Trúc được thành lập tháng 12 năm 1980.
+[^N11]: [Wikipedia: Lịch sử kinh tế Đài Loan](https://en.wikipedia.org/wiki/Economic_history_of_Taiwan) — Dữ liệu GDP Đài Loan năm 1986; Khu công nghệ Hsinchu được thành lập vào tháng 12 năm 1980.
 
 [^N12]: [Science, 181(4096), 223-230](https://www.science.org/doi/10.1126/science.181.4096.223) — Anfinsen, C. B. (1973). "Principles that govern the folding of protein chains."
 
-[^N13]: [Nature: 'It will change everything': DeepMind's AI makes gigantic leap in solving protein structures](https://www.nature.com/articles/d41586-020-03348-4) — Báo cáo công bố kết quả CASP14 ngày 30 tháng 11 năm 2020, AlphaFold 2 trung vị GDT 92,4, nhận xét của chủ tọa CASP John Moult "in some sense the problem is solved".
+[^N13]: [Nature: 'It will change everything': DeepMind's AI makes gigantic leap in solving protein structures](https://www.nature.com/articles/d41586-020-03348-4) — Báo cáo kết quả CASP14 ngày 30/11/2020, AlphaFold 2 có giá trị trung bình GDT là 92.4, John Moult, người điều hành CASP, nhận xét 'theo một nghĩa nào đó vấn đề đã được giải quyết'.
 
-[^N14]: [DeepMind: AlphaFold reveals the structure of the protein universe](https://www.deepmind.com/blog/alphafold-reveals-the-structure-of-the-protein-universe) — Thông báo ngày 28 tháng 7 năm 2022 rằng Cơ sở Dữ liệu Cấu trúc Protein AlphaFold bao gồm 100 triệu loài sinh vật, khoảng 200 triệu cấu trúc protein.
+[^N14]: [DeepMind: AlphaFold reveals the structure of the protein universe](https://www.deepmind.com/blog/alphafold-reveals-the-structure-of-the-protein-universe) — Công bố ngày 28/07/2022 về Cơ sở dữ liệu Cấu trúc Protein AlphaFold bao gồm 1 triệu loài và khoảng 200 triệu cấu trúc protein.
 
-[^N15]: [Abramson, J., Adler, J., Dunger, J. et al. (2024). Accurate structure prediction of biomolecular interactions with AlphaFold 3. Nature 630, 493-500](https://www.nature.com/articles/s41586-024-07487-w) — AlphaFold 3 xuất bản ngày 8 tháng 5 năm 2024, mở rộng tới dự đoán phức hợp protein với DNA / RNA / ligand / ion.
+[^N15]: [Abramson, J., Adler, J., Dunger, J. et al. (2024). Accurate structure prediction of biomolecular interactions with AlphaFold 3. Nature 630, 493-500](https://www.nature.com/articles/s41586-024-07487-w) — AlphaFold 3 được công bố ngày 08/05/2024, mở rộng dự đoán tương tác protein với DNA / RNA / ligand / phức hợp ion.
 
-[^N16]: [Wikipedia: Demis Hassabis](https://en.wikipedia.org/wiki/Demis_Hassabis) — Hassabis bắt đầu chơi cờ vua lúc 4 tuổi, đạt chuẩn vua ở tuổi 13, cùng Peter Molyneux phát triển "Theme Park" ở tuổi 17 (năm 1994), thành lập DeepMind tại London năm 2010, Google mua lại với giá khoảng 400 triệu bảng Anh năm 2014.
+[^N16]: [Wikipedia: Demis Hassabis](https://en.wikipedia.org/wiki/Demis_Hassabis) — Hassabis bắt đầu chơi cờ vua từ năm 4 tuổi, cùng Peter Molyneux phát triển 'Theme Park' vào năm 17 tuổi (1994), thành lập DeepMind tại London năm 2010 và được Google mua lại với giá khoảng 400 triệu bảng Anh vào năm 2014.
 
-[^N17]: [Trung tâm Nghiên cứu Bộ Gen Viện Hàn lâm Sinica](https://www.genomics.sinica.edu.tw/) — Trung tâm nghiên cứu cấu trúc protein phân tử đường được thành lập dưới nhiệm kỳ Viện trưởng Ông Khả Huệ (2006-2016).
+[^N17]: [Trung tâm Nghiên cứu Bộ gen Viện Hàn lâm Khoa học Trung Quốc](https://www.genomics.sinica.edu.tw/) — Trung tâm nghiên cứu cấu trúc phân tử đường do Viện trưởng Ông Khải Huệ (2006-2016) thành lập.
 
-[^N18]: [PanSci Phổ khoa học: Giải Nobel Hóa học 2024 — David Baker, Demis Hassabis, John Jumper giải quyết vấn đề gấp protein](https://pansci.asia/archives/378388) — Người đồng tác với nội dung Per MOU 2026-05-05. Bao gồm tranh cãi Giải Nobel Hóa học AlphaFold, thảo luận ranh giới học thuyết giữa sinh vật học cấu trúc và hóa học tính toán.
+[^N18]: [PanSci Khoa học Phổ quát: Giải Nobel Hóa học 2024 - David Baker, Demis Hassabis, John Jumper giải mã bài toán gấp cuộn protein](https://pansci.asia/archives/378388) — Đối tác tuyển chọn nội dung theo MOU ngày 05/05/2026. Bao gồm tranh cãi về AlphaFold trong Giải Nobel Hóa học và thảo luận ranh giới ngành giữa sinh học cấu trúc và hóa học tính toán.
 
-[^N19]: [PanSci Phổ khoa học: AlphaFold 3 dự đoán tương tác protein với các phân tử khác, phát triển thuốc lên một bậc](https://pansci.asia/archives/377917) — Người đồng tác với nội dung Per MOU 2026-05-05. Phân tích tác động hạ lưu của AlphaFold 3 trên phát triển thuốc, kỹ thuật enzyme.
+[^N19]: [PanSci Khoa học Phổ quát: AlphaFold 3 dự đoán tương tác protein với các phân tử khác, nâng cấp phát triển thuốc](https://pansci.asia/archives/377917) — Đối tác tuyển chọn nội dung theo MOU ngày 05/05/2026. Phân tích ảnh hưởng của AlphaFold 3 đối với phát triển thuốc và kỹ thuật enzyme.
 
-[^N20]: [PanSci Phổ khoa học: "Não nhân tạo" OI thách đấu AI — Mô hình não trong bề mặt văn hóa có thể thay thế chip silicon không?](https://pansci.asia/archives/366027) — Người đồng tác với nội dung Per MOU 2026-05-05. Nghiên cứu mô hình não nhân tạo của nhóm Thomas Hartung tại Johns Hopkins, như một hướng tính toán thay thế so với con đường AI.
+[^N20]: [PanSci Khoa học Phổ quát: 'Bộ não nhân tạo' OI thách thức AI - Liệu mô não trong đĩa petri có thể thay thế chip silicon không?](https://pansci.asia/archives/366027) — Đối tác tuyển chọn nội dung theo MOU ngày 05/05/2026. Nghiên cứu bộ não nhân tạo của nhóm Thomas Hartung tại Johns Hopkins, là hướng tính toán thay thế ngoài con đường AI.

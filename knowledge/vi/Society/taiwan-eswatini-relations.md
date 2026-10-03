@@ -23,7 +23,7 @@ author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-05-05
 lastHumanReview: false
-researchReport: reports/research/2026-05/taiwan-eswatini.md
+researchReport: 'reports/research/2026-05/taiwan-eswatini.md'
 image: '/article-images/society/taiwan-eswatini-military-honor-2026.webp'
 imageCredit: '中華民國總統府'
 imageLicense: 'OGDL (Open Government Data License) — 政府公開資訊'
@@ -38,13 +38,13 @@ sporeLinks:
     date: '2026-05-05'
     url: 'https://x.com/taiwandotmd/status/2051577099341967464'
 translatedFrom: 'Society/台灣與史瓦帝尼.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:fe1941c4ac5aac8a'
-sourceBodyHash: 'sha256:8dca2bcfa6293bb2'
-translatedAt: '2026-08-09T10:41:15+08:00'
+sourceCommitSha: 'da67ec6fe'
+sourceContentHash: 'sha256:c62b916ed21bb09b'
+sourceBodyHash: 'sha256:f87da2052ad611fa'
+translatedAt: '2026-10-03T22:09:24.406343+00:00'
 ---
 
-> **Khái quát 30 giây:** Eswatini (thay đổi tên từ "Swaziland" năm 2018) là quốc gia kết nối duy nhất còn lại của Đài Loan tại châu Phi, thành lập quan hệ ngoại giao với Trung Hoa Dân Quốc vào ngày 9 tháng 9 năm 1968, tính đến năm 2026 đã 58 năm. Quốc vương Mswati III sinh ngày 19 tháng 4 năm 1968, 5 tháng sau khi quốc gia độc lập và thiết lập quan hệ với Đài Loan, toàn bộ cuộc đời của ông gần như trùng khớp hoàn toàn với lịch sử ngoại giao Đài Loan–Eswatini, cho đến năm 2024 ông đã thăm Đài Loan hơn 17 lần[^1]. Sau khi Nauru đứt giao vào tháng 1 năm 2024, Eswatini trở thành quốc gia kết nối duy nhất của Đài Loan tại châu Phi[^2]. Ngày 2 tháng 5 năm 2026, Lại Thanh Đức thực hiện chuyến thăm quốc gia kết nối đầu tiên sau khi nhậm chức, ban đầu dự định khởi hành ngày 22 tháng 4 nhưng Seychelles, Mauritius và Madagascar đã huỷ phép cấp phép bay đột ngột dưới sức ép của Trung Quốc, sau đó Mswati gửi chiếc máy bay riêng Airbus A340 của nhà nước để phó thủ tướng Thulisile Dladla bay đến Đài Bắc đón Lại Thanh Đức, rồi Lại Thanh Đức bay thẳng từ Đài Bắc tới Mbabane vào ngày 2 tháng 5[^3]. Cùng ngày 1 tháng 5, Trung Quốc cấp ưu đãi thuế quan không 0% cho 53 quốc gia châu Phi, nhưng riêng bỏ qua Eswatini[^4]. Biến số lớn nhất của sợi dây ngoại giao này nằm ở liệu người kế vị của Mswati có thể thuyết phục một thế hệ có tỷ lệ thất nghiệp thanh niên 56% tiếp tục coi Đài Loan là bạn (một câu hỏi khó trả lời hơn "Trung Quốc trả bao nhiêu tiền").
+**30 giây tổng quan:** Eswatini (Eswatini, đổi tên từ «Swaziland» vào năm 2018) là quốc gia duy nhất còn duy trì quan hệ ngoại giao với Đài Loan tại châu Phi, thiết lập quan hệ vào tháng 9 năm 1968 và đạt được 58 năm vào năm 2026. Vua Mswati III sinh ra vào tháng 4 năm 1968, nửa tháng sau đó quốc gia độc lập và thiết lập quan hệ với Đài Loan, cuộc đời ông gần như trùng hẳn với lịch sử quan hệ Đài–Eswatini. Đến năm 2024, ông đã đến thăm Đài Loan hơn 17 lần[^1]。Sau khi Burkina Faso cắt đứt quan hệ vào tháng 5 năm 2018, Eswatini trở thành quốc gia duy nhất còn giữ quan hệ ngoại giao với Đài Loan tại châu Phi[^12]。Vào ngày 2 tháng 5 năm 2026, Thái Anh Văn (Lai Ching-te, Tổng thống Đài Loan) bắt đầu chuyến công tác tới Eswatini, ban đầu lên lịch khởi hành vào ngày 22 tháng 4 nhưng do Áo Strơ (Seychelles), Madagascar và Mauritius rút lại giấp bay mà không có thông báo trước dưới áp lực từ Trung Quốc, vua Mswati sau đó điều một chiếc Airbus A340 của Eswatini mang chính thức đến đón Thứ phó Thulisile Dladla đến Đài Bắc để đưa xe, Thái Anh Văn hạ cánh tại Mbaba ngày 2 tháng 5, bay thẳng từ Đài Bắc[^3]。Vào ngày 1 tháng 5 cùng năm, Trung Quốc cung cấp ưu đãi thuế 98% cho 53 quốc gia châu Phi nhưng hoàn toàn loại trừ Eswatini[^4]。Mạng sống này của ngoại giao, sau vị vua Mswati, phụ thuộc vào khả năng thuyết phục thế hệ trẻ với tỷ lệ thất nghiệp lên tới 56% tiếp tục coi Đài Loan là bạn bè — một câu hỏi khó trả lời hơn câu hỏi «Trung Quốc sẽ chi bao nhiêu tiền».
 
 ## Tổng thống mượn máy bay
 

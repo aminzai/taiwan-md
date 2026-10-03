@@ -1,16 +1,16 @@
 ---
-title: 'Sự trỗi dậy của nước AI: Sự phát triển và chiến lược tương lai của trí tuệ nhân tạo tại Đài Loan'
-description: 'Từ sự chấn động của AlphaGo đến làn sóng AI sinh thành, Đài Loan làm cách nào để tìm thấy vị trí độc đáo trong lĩnh vực trí tuệ nhân tạo với "chiến lược nhỏ-lớn"'
+title: 'Sự trỗi dậy của quốc gia đảo AI: Phát triển và chiến lược tương lai về Trí tuệ nhân tạo của Đài Loan'
+description: 'Từ cú sốc AlphaGo đến làn sóng AI tạo sinh, Đài Loan đã tìm ra vị thế độc đáo trong lĩnh vực trí tuệ nhân tạo bằng "chiến lược lớn của một quốc gia nhỏ"'
 date: 2026-03-19
 category: 'Technology'
 tags:
   [
-    'trí tuệ nhân tạo',
+    'Trí tuệ nhân tạo',
     'chính sách AI',
-    'bán dẫn',
+    'chất bán dẫn',
     'chính sách công nghệ',
     'chuyển đổi số',
-    'đổi mới sáng tạo',
+    'sáng tạo',
   ]
 subcategory: '人工智慧'
 author: 'Taiwan.md'
@@ -19,331 +19,315 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 readingTime: 15
 translatedFrom: 'Technology/AI發展.md'
-sourceCommitSha: '96945e450'
-sourceContentHash: 'sha256:c3a35976261aaad4'
-sourceBodyHash: 'sha256:54302f24eb8f8f54'
-translatedAt: '2026-08-09T11:16:34+08:00'
+sourceCommitSha: '3e8cce502'
+sourceContentHash: 'sha256:96cb23499982b31c'
+sourceBodyHash: 'sha256:b8e8c634da9c1fac'
+translatedAt: '2026-10-04T06:36:38+08:00'
 ---
 
-# Sự trỗi dậy của nước AI: Sự phát triển và chiến lược tương lai của trí tuệ nhân tạo tại Đài Loan
+# Sự trỗi dậy của quốc gia đảo AI: Phát triển và chiến lược tương lai về Trí tuệ nhân tạo
 
-## 30 giây tóm tắt
+## Tổng quan 30 giây
 
-Đài Loan áp dụng "chiến lược nhỏ-lớn AI", tận dụng ưu thế sản xuất bán dẫn và chuỗi ICT hoàn chỉnh, nhanh chóng khởi động kế hoạch AI cấp quốc gia sau cú sốc AlphaGo năm 2016. Thành lập Trường Đại học Trí tuệ Nhân tạo Đài Loan, thiết lập Trung tâm Nghiên cứu Đổi mới AI, thúc đẩy "Kế hoạch Hành động AI 2.0", với mục tiêu trở thành trung tâm ứng dụng AI và đào tạo nhân tài hàng đầu ở khu vực Châu Á-Thái Bình Dương. Đối mặt với cuộc cạnh tranh AI toàn cầu, Đài Loan dựa trên nền tảng công nghệ bán dẫn "núi thần bảo vệ đất nước" để phát triển ưu thế chip AI và tính toán biên.
+Đài Loan đã áp dụng "chiến lược lớn của một quốc gia nhỏ" trong lĩnh vực trí tuệ nhân tạo (AI), tận dụng lợi thế sản xuất chất bán dẫn và chuỗi công nghiệp ICT hoàn chỉnh, nhanh chóng khởi động kế hoạch thúc đẩy AI cấp quốc gia sau cú sốc AlphaGo vào năm 2016. Bằng cách thành lập Trường Trí tuệ nhân tạo Đài Loan, thiết lập các trung tâm nghiên cứu đổi mới AI và thúc đẩy "Kế hoạch hành động AI 2.0", mục tiêu là trở thành một trung tâm trọng điểm về ứng dụng AI và đào tạo nhân tài trong khu vực Châu Á - Thái Bình Dương. Đối mặt với sự cạnh tranh toàn cầu về AI, Đài Loan phát triển ưu thế về chip AI và điện toán biên dựa trên công nghệ chất bán dẫn "ngọn núi thần bảo vệ đất nước".
 
-**Từ khóa chính**: chiến lược AI nhỏ, ưu thế bán dẫn, đào tạo nhân tài, AI hoá ngành công nghiệp, tính toán biên
+**Từ khóa**: Chiến lược quốc gia đảo AI, lợi thế chất bán dẫn, đào tạo nhân tài, AI hóa công nghiệp, điện toán biên
 
-## AlphaGo: Bài học về lúc thức tỉnh AI của Đài Loan
+## Bài học từ AlphaGo: Thời khắc thức tỉnh AI của Đài Loan
 
-### Điểm gãy lịch sử năm 2016
+### Bước ngoặt lịch sử năm 2016
 
-Vào tháng 3 năm 2016, AlphaGo của Google DeepMind đã đánh bại Lý Thế Nhạc (2016 chưa là vô địch thế giới lúc đó), trận "chiến tranh con người-máy" này không chỉ gây chấn động toàn cầu mà còn trở thành bài học mở mắt về phát triển AI của Đài Loan. Khi thế giới chứng kiến AI lần đầu tiên vượt qua những cao thủ hàng đầu trong trò chơi chiến lược phức tạp, giới công nghệ Đài Loan bắt đầu nhận thức được: đây không chỉ là tiến bộ kỹ thuật, mà còn là "cuộc cách mạng công nghiệp lần thứ tư" có khả năng thay đổi cạnh tranh công nghiệp toàn cầu.
+Vào tháng 3 năm 2016, AlphaGo của Google DeepMind đã đánh bại kỳ thủ cờ vua chuyên nghiệp hàng đầu Lý Thế Tẩu (Lee Sedol) với tỷ số bốn-một. "Trận chiến giữa người và máy" này không chỉ gây chấn động toàn cầu mà còn là sự khai sáng quan trọng cho sự phát triển AI của Đài Loan. Khi thế giới chứng kiến lần đầu tiên AI giành chiến thắng tuyệt đối trước cao thủ đỉnh cao trong các trò chơi chiến lược phức tạp, giới công nghệ Đài Loan bắt đầu nhận ra: đây không chỉ là một tiến hóa công nghệ, mà là "Cuộc cách mạng Công nghiệp thứ tư" có khả năng thay đổi cục diện cạnh tranh toàn cầu.
 
-Ý nghĩa đa chiều của AlphaGo nằm ở chỗ: nó chứng minh rằng tiềm năng của học sâu và dữ liệu lớn vượt xa những kỳ vọng, cho thấy AI đã có thể xử lý các quyết định phức tạp, dự báo rằng công nghệ phòng thí nghiệm sẽ tiến tới ứng dụng công nghiệp, và gióng chuông báo động "không chuyển đổi thì tụt lại" cho Đài Loan.
+Ý nghĩa đa chiều của AlphaGo là: nó đã chứng minh tiềm năng của học sâu (deep learning) và dữ liệu lớn vượt xa dự đoán, cho thấy AI đã có thể xử lý các quyết định phức tạp, báo hiệu công nghệ phòng thí nghiệm sẽ tiến tới ứng dụng công nghiệp, và gióng lên hồi chuông cảnh tỉnh "không chuyển đổi thì bị tụt hậu" đối với Đài Loan.
 
-### Khoảnh khắc thức tỉnh AI của Đài Loan
+### Thời khắc thức tỉnh AI của Đài Loan
 
-Sau sự kiện AlphaGo, chính phủ và ngành công nghiệp Đài Loan nhanh chóng hình thành sự đồng thuận: **Đài Loan không thể bỏ qua làn sóng AI này**. Năm 2017, Viện Hành pháp chính thức công bố "Chiến lược nhỏ-lớn AI của Đài Loan", xác lập AI là trọng tâm phát triển quốc gia. Quyết định này dựa trên một nhận thức rõ ràng: mặc dù là một quốc gia nhỏ, Đài Loan sở hữu ưu thế công nghệ độc đáo và vị trí chiến lược.
+Sau sự kiện AlphaGo, chính phủ và ngành sản xuất Đài Loan nhanh chóng đạt được sự đồng thuận: **Đài Loan không thể bỏ lỡ làn sóng AI này**. Vào tháng 8 năm 2017, Bộ trưởng Khoa học và Công nghệ Trần Lương Cơ (Chen Liang-chi) đã đề xuất "Chiến lược lớn của một quốc gia nhỏ về AI", dự kiến đầu tư khoảng 16 tỷ Đài tệ trong bốn đến năm năm. Tháng 1 năm 2018, Chính phủ Hành pháp lại đưa ra "Kế hoạch hành động AI Đài Loan".[^2][^3] Quyết định này dựa trên nhận thức rõ ràng: mặc dù Đài Loan là một quốc gia nhỏ, nhưng sở hữu ưu thế công nghệ và vị trí chiến lược độc đáo.
 
-## Ưu thế độc đáo của AI Đài Loan: Nền tảng chiến lược từ hệ sinh thái bán dẫn
+## Ưu thế đặc biệt của AI Đài Loan: Nền tảng chiến lược từ hệ sinh thái chất bán dẫn
 
-### Ưu thế tự nhiên từ hệ sinh thái bán dẫn
+### Lợi thế tự nhiên của hệ sinh thái chất bán dẫn
 
-Lợi thế cạnh tranh lớn nhất của phát triển AI Đài Loan xuất phát từ khả năng sản xuất bán dẫn dẫn đầu thế giới. **TSMC** không chỉ là nhà máy sản xuất wafer tách biệt lớn nhất toàn cầu, mà còn là đối tác chính trong sản xuất chip AI:
+Ưu thế cạnh tranh lớn nhất trong sự phát triển AI của Đài Loan đến từ năng lực sản xuất chất bán dẫn hàng đầu thế giới. **TSMC (Taiwan Semiconductor Manufacturing Company)** không chỉ là nhà đúc chip lớn nhất toàn cầu mà còn là đối tác then chốt trong việc chế tạo chip AI:
 
-TSMC tiếp nhận sản xuất chip cao cấp của các tập đoàn công nghệ khổng lồ như NVIDIA, Google, Apple, ưu thế bán dẫn trực tiếp chuyển hóa thành tính không thể thay thế của chuỗi cung ứng AI. Trên cơ sở này, các nhà sản xuất Đài Loan mở rộng theo ba hướng: chip AI tiêu thụ điện năng thấp, ứng dụng AIoT thông minh kết nối vật, và hạ tầng tính toán thời gian thực 5G+AI, hình thành "hiệu ứng nhân từ bán dẫn × AI".
+TSMC nhận gia công các loại chip cao cấp cho các gã khổng lồ AI như NVIDIA, Google và Apple; ưu thế chất bán dẫn trực tiếp chuyển hóa thành tính không thể thay thế của chuỗi cung ứng AI. Trên cơ sở này, các nhà sản xuất Đài Loan mở rộng sang ba hướng: chip AI biên tiêu thụ điện năng thấp, ứng dụng IoT thông minh AIoT và cơ sở hạ tầng điện toán thời gian thực 5G + AI, tạo ra "hiệu ứng nhân" của chất bán dẫn $\times$ AI.
 
-### Chuỗi hệ sinh thái ICT hoàn chỉnh
+### Chuỗi sinh thái công nghiệp ICT hoàn chỉnh
 
-Đài Loan sở hữu chuỗi hệ sinh thái công nghệ thông tin-truyền thông (ICT) hoàn chỉnh từ thiết kế chip đến tích hợp hệ thống, điều này cung cấp điều kiện vô cùng thuận lợi cho công nghiệp hóa AI:
+Đài Loan sở hữu chuỗi công nghiệp ICT (Công nghệ Thông tin và Truyền thông) hoàn chỉnh từ thiết kế chip đến tích hợp hệ thống, cung cấp điều kiện vô cùng thuận lợi cho sự công nghiệp hóa của ngành AI:
 
-| Khâu công nghiệp      | Doanh nghiệp tiêu biểu   | Ứng dụng AI                     |
-| --------------------- | ------------------------ | ------------------------------- |
-| **Thiết kế chip**     | MediaTek, Realtek        | Chip AI chuyên dụng, NPU        |
-| **Sản xuất wafer**    | TSMC, UMC                | Chip AI quy trình tiên tiến     |
-| **Đóng gói-kiểm tra** | Ngôn Nguyệt Quang, ASE   | Đóng gói và kiểm tra chip AI    |
-| **Lắp ráp hệ thống**  | Foxconn, Quảng Đạt, Acer | Máy chủ AI, thiết bị biên       |
-| **Ứng dụng phần mềm** | Trend Micro, III         | An ninh AI, ứng dụng thông minh |
+| Vòng đời công nghiệp    | Doanh nghiệp tiêu biểu                                            | Ứng dụng AI                          |
+| :---------------------- | :---------------------------------------------------------------- | :----------------------------------- |
+| **Thiết kế chip**       | MediaTek (Liên Phát Khoa), Realtek (Thụy Lục)                     | Chip chuyên dụng cho AI, NPU         |
+| **Sản xuất wafer**      | TSMC, UMC (Liên Điện)                                             | Chip AI quy trình tiên tiến          |
+| **Đóng gói & Kiểm tra** | ASE (Nhật Nguyệt Quang), Wistron (Lực Thành)                      | Đóng gói và kiểm tra chip AI         |
+| **Lắp ráp hệ thống**    | Foxconn (Hồng Hải), Quanta (Quảng Đạt), Inventec (Anh Nghiệp Đạt) | Máy chủ AI, thiết bị biên            |
+| **Ứng dụng phần mềm**   | Trend Micro (Xu Thế Khoa), ICS (Tư Sách Hội)                      | An ninh mạng AI, ứng dụng thông minh |
 
-## Chiến lược quốc gia: Khung chính sách của "chiến lược nhỏ-lớn AI"
+## Chiến lược quốc gia: Khung chính sách "Chiến lược lớn của một quốc gia nhỏ về AI"
 
-### Giai đoạn thứ nhất: Thời kỳ đặt nền tảng (2017–2020)
+### Giai đoạn 1: Giai đoạn nền tảng (2017-2020)
 
-**Kế hoạch Hành động AI Đài Loan (2018–2021)**[^1]
+**Kế hoạch hành động AI Đài Loan (2018-2021)**[^1]
 
-- **Tổng ngân sách**: khoảng 9–10 tỷ USD/năm (tổng cộng hơn 30 tỷ USD trong 4 năm, theo ghi chép chính thức của Viện Hành pháp[^1])
-- **Năm chiến lược**: Nhân tài AI, kỹ thuật, không gian, công nghiệp, chế độ
+- **Ngân sách**: Dự kiến đầu tư từ 9 tỷ đến 10 tỷ Đài tệ mỗi năm[^3]
+- **Năm chiến lược**: Nhân tài AI, công nghệ, thực địa, công nghiệp, thể chế
 
-**Thành quả xây dựng cốt lõi:**
+**Thành tựu xây dựng cốt lõi:**
 
-1. **Trường Đại học Trí tuệ Nhân tạo Đài Loan** (thành lập năm 2018)
-   - Hiệu trưởng: Khổng Tường Trọng (Giáo sư Ghế William Gates, Đại học Harvard; Viện sĩ Viện Công nghiệp[^3])
-   - Đào tạo hơn 7.000 nhân tài AI trong 4 năm[^3]
-   - Thành lập mô hình đào tạo nhân tài AI hợp tác học-xã hội
+1. **Trường Trí tuệ nhân tạo Đài Loan** (thành lập năm 2018)
+   - Được thúc đẩy bởi Giáo sư Liêu Tuấn Trí (Liao Jun-zhì), Viện sĩ Học viện Khoa học Cửu, và Giáo sư Khổng Tường Trọng (Kong Xiang-chong) của Đại học Harvard, cùng các nhà nghiên cứu như Trần Thăng Vĩ (Chen Sheng-wei); khai giảng vào tháng 1 năm 2018[^4]
+   - Thiết lập mô hình đào tạo nhân tài AI hợp tác giữa doanh nghiệp và học thuật.
 
 2. **Trung tâm Nghiên cứu Đổi mới AI**
-   - Viện Khoa học Thông tin, Viện Nghiên cứu Trung ương
-   - Viện Trí tuệ Nhân tạo Đại học Quốc gia Đài Loan, Đại học Thanh Hoa, Đại học Giao thông Dương Minh được thành lập liên tiếp
-   - Kế hoạch nghiên cứu hợp tác học-xã hội
+   - Bộ Khoa học và Công nghệ thành lập bốn trung tâm nghiên cứu AI tại Đại học Đài Loan (National Taiwan University), Đại học Quốc gia Chung Thành (National Tsing Hua University), Đại học Khoa học và Công nghệ Đài Loan (National Chiao Tung University) và Đại học Thành Công (National Sun Yat-in University) từ năm 2018[^5]
+   - Các dự án nghiên cứu hợp tác giữa doanh nghiệp và học thuật.
 
-3. **Kế hoạch Bệnh viện Giáo dục AI**
-   - Bệnh viện Đại học Quốc gia Đài Loan, Bệnh viện Trường Giang tham gia
-   - Phát triển ứng dụng AI y tế và quản trị dữ liệu
+3. **Kế hoạch Bệnh viện AI**
+   - Tham gia bởi Bệnh viện Đài Loan (NTU Hospital), Bệnh viện Chang Gung, v.v.
+   - Phát triển ứng dụng AI y tế và quản trị dữ liệu.
 
-### Giai đoạn thứ hai: Thời kỳ tăng tốc (2021–2024)
+### Giai đoạn 2: Kế hoạch hành động AI 2.0 (2023-2026)
 
-**Kế hoạch Hành động AI 2.0**[^1]
+**Kế hoạch hành động AI 2.0**[^1]
 
-- **Mở rộng đầu tư**: Ngân sách hàng năm hơn 10 tỷ USD (2023–2026 có quy mô được phê duyệt khoảng 17,4 tỷ USD[^1])
-- **Lĩnh vực trọng tâm**: Sức khỏe chính xác, sản xuất thông minh, thành phố thông minh, quản lý số
+- **Mục tiêu tổng thể**: Tăng giá trị sản phẩm phần cứng và phần mềm nhờ ứng dụng AI vượt quá 250 tỷ Đài tệ trước năm 2026[^1]
+- **Lĩnh vực trọng điểm**: Y tế chính xác, sản xuất thông minh, thành phố thông minh, quản trị số
 
 **Phát triển đột phá:**
 
-1. **Hợp tác AI quốc tế**
-   - Thành lập quan hệ đối tác hợp tác AI với Mỹ, Nhật Bản, Liên minh Châu Âu
-   - Tham gia thiết lập tiêu chuẩn AI quốc tế
+1. **Hợp tác quốc tế về AI**
+   - Thiết lập quan hệ đối tác AI với Hoa Kỳ, Nhật Bản và Liên minh Châu Âu.
+   - Tham gia xây dựng tiêu chuẩn AI quốc tế.
 
-2. **Tăng tốc AI hoá công nghiệp**
-   - Đưa AI vào chuyển đổi công nghiệp sản xuất truyền thống
-   - Ứng dụng AI trong tài chính, bán lẻ, logistics và ngành dịch vụ khác
+2. **Tăng tốc AI hóa công nghiệp**
+   - Các ngành sản xuất truyền thống áp dụng chuyển đổi AI.
+   - Ứng dụng AI trong các dịch vụ như tài chính, bán lẻ, logistics.
 
-3. **Hoàn thiện môi trường pháp quy**
-   - Sửa đổi Luật Bảo vệ Dữ liệu Cá nhân
-   - Công bố Hướng dẫn Đạo đức AI
-   - Thành lập cơ chế hộp cát (Sandbox)
+3. **Hoàn thiện môi trường pháp lý**
+   - Sửa đổi Luật bảo vệ thông tin cá nhân.
+   - Ban hành hướng dẫn đạo đức AI.
+   - Thiết lập cơ chế sandbox (thử nghiệm).
 
 ## Năm lĩnh vực chiến lược của AI Đài Loan
 
-### 1. Sức khỏe chính xác: Tiên phong toàn cầu trong AI y tế
+### 1. Y tế chính xác: Người tiên phong toàn cầu trong AI y tế
 
-Đài Loan kết hợp dữ liệu lớn bảo hiểm y tế và hệ thống y tế chất lượng cao, sở hữu ưu thế độc đáo trong lĩnh vực AI y tế:
+Đài Loan có ưu thế độc đáo trong lĩnh vực AI y tế nhờ sự kết hợp giữa dữ liệu bảo hiểm quốc gia và hệ thống y tế chất lượng cao:
 
-**Thành quả tiêu biểu:**
+**Thành tựu tiêu biểu:**
 
-- **DeepQ Chăm sóc Y tế Thông minh**: Chẩn đoán AI bệnh lý võng mạc đái tháo đường với độ chính xác 95%
-- **Công nghệ Điện toán Mây**: Đọc tự động nước máu, xuất khẩu sang Đông Nam Á
-- **Trung tâm AI Bệnh viện Đại học Quốc gia Đài Loan**: Hệ thống chẩn đoán AI COVID-19
+- **Bệnh viện Đài Loan (NTU)**: Hợp tác với các công ty công nghệ và dược phẩm phát triển phần mềm chẩn đoán hỗ trợ bệnh võng mạc tiểu đường, độ chính xác đạt hơn 95%[^6].
+- **Cloud Imaging Technology (Vân Tượng Khoa Kỹ)**: Hệ thống quản lý ảnh bệnh học kỹ thuật số đã được chứng nhận bởi FDA Hoa Kỳ[^7].
 
 **Ưu thế cạnh tranh:**
 
-- Cơ sở dữ liệu bảo hiểm y tế hoàn chỉnh (dữ liệu 23 năm của 23 triệu người)
-- Hệ thống y tế chất lượng cao
-- Môi trường pháp quy tương đối cởi mở
+- Cơ sở dữ liệu bảo hiểm bao trùm toàn dân.
+- Hệ thống y tế chất lượng cao.
+- Môi trường pháp lý tương đối cởi mở.
 
-### 2. Sản xuất thông minh: Thực hành Công nghiệp 4.0 của Đài Loan
+### 2. Sản xuất thông minh: Thực tiễn Công nghiệp 4.0 của Đài Loan
 
-Ngành sản xuất Đài Loan sở hữu ưu thế gia công chính xác và kiểm soát chất lượng, việc đưa AI vào đã mang lại cải thiện năng lực cạnh tranh có thể định lượng được:
+Ngành sản xuất Đài Loan có ưu thế về gia công chính xác và kiểm soát chất lượng, việc áp dụng AI đã mang lại sự nâng cao năng lực cạnh tranh có thể định lượng được:
 
-**Trường hợp ứng dụng:**
+**Các trường hợp ứng dụng:**
 
-- **TSMC**: AI tối ưu hoá quy trình wafer, tăng năng suất 30%
-- **Foxconn**: Kiểm tra chất lượng AI tại nhà máy thông minh
-- **Delta Electronics**: Giải pháp điều khiển công nghiệp AI
+- **TSMC**: Tối ưu hóa quy trình wafer bằng AI, nâng cao tỷ lệ thành phẩm.
+- **Foxconn (Hồng Hải)**: Kiểm tra chất lượng bằng AI trong nhà máy thông minh.
+- **Delta Electronics (Đài Đạt Điện)**: Giải pháp điều khiển công nghiệp AI.
 
 **Đặc điểm kỹ thuật:**
 
-- Tính toán biên kết hợp với kiểm soát quy trình
-- Kiểm tra chất lượng bằng thị giác máy
-- Hệ thống bảo trì dự báo
+- Điện toán biên kết hợp với kiểm soát quy trình.
+- Kiểm tra chất lượng thị giác máy móc.
+- Hệ thống bảo trì dự đoán.
 
-### 3. Thành phố thông minh: Thử nghiệm sáng tạo quản lý số
+### 3. Thành phố thông minh: Thí nghiệm đổi mới trong quản trị số
 
-Mật độ thành phố Đài Loan cao, hạ tầng số hoàn chỉnh, trở thành sân thí nghiệm lý tưởng cho ứng dụng AI thành phố thông minh:
+Với mật độ đô thị cao và cơ sở hạ tầng kỹ thuật số hoàn chỉnh, Đài Loan là nơi thử nghiệm tốt nhất cho ứng dụng AI thành phố thông minh:
 
-**Trường hợp điểm chuẩn:**
+Ví dụ, vào năm 2015, chính quyền thành phố Đài Nam (Tainan) đã khởi động "Kế hoạch thành phố thông minh 4G Đài Nam" với mục tiêu triển khai hai mươi ứng dụng trong ba năm[^8].
 
-- **Thành phố Đào Viên**: Tối ưu hoá tín hiệu giao thông AI, giảm 30% thời gian chờ đợi
-- **Thành phố Đài Bắc**: Lập kế hoạch tuyến đường xe rác bằng AI
-- **Thành phố Đài Nam**: Hệ thống cảnh báo sớm phòng chống sốt xuất huyết AI
+### 4. Công nghệ tài chính: Đột phá sáng tạo từ cơ chế sandbox giám sát
 
-### 4. Công nghệ tài chính: Đột phá từ hộp cát giám sát
-
-Ủy ban Quản lý Tài chính Đài Loan thành lập chế độ "hộp cát giám sát", cung cấp môi trường kiểm tra cho FinTech và đổi mới AI tài chính:
+Ủy ban Quản lý Tài chính Đài Loan đã thiết lập hệ thống "sandbox giám sát", cung cấp môi trường thử nghiệm cho đổi mới FinTech và AI tài chính:
 
 **Ứng dụng sáng tạo:**
 
-- **Kiểm soát rủi ro AI**: Tính điểm tín dụng, phát hiện rửa tiền
-- **Tư vấn đầu tư thông minh**: Đề xuất đầu tư cá nhân hóa
-- **Công nghệ bảo hiểm**: Tự động hoá bồi thường, đề xuất bảo hiểm
+- **Kiểm soát rủi ro AI**: Chấm điểm tín dụng, phát hiện rửa tiền.
+- **Tư vấn đầu tư thông minh**: Đề xuất đầu tư cá nhân hóa.
+- **Công nghệ bảo hiểm**: Tự động hóa bồi thường, đề xuất hợp đồng.
 
-### 5. Công nghệ nông nghiệp: Mô hình nông nghiệp chính xác của Đài Loan
+### 5. Công nghệ nông nghiệp: Mô hình Đài Loan về Nông nghiệp chính xác
 
-Kết hợp cảm biến IoT và phân tích AI, Đài Loan phát triển giải pháp thông minh phù hợp với nông nghiệp tinh vi quy mô nhỏ:
+Kết hợp cảm biến IoT và phân tích AI, Đài Loan đã phát triển các giải pháp thông minh phù hợp với nền nông nghiệp tinh tế quy mô nhỏ:
 
-**Điểm nổi bật kỹ thuật:**
+**Điểm nổi bật về công nghệ:**
 
-- **Chẩn đoán bệnh côn trùng AI**: Nhận dạng hình ảnh cây trồng
-- **Nhà kính thông minh**: Tự động điều chỉnh các thông số môi trường
-- **Dự báo bán hàng nông sản**: Dự báo nhu cầu và phân tích giá cả
+- **Chẩn đoán sâu bệnh bằng AI**: Nhận dạng hình ảnh cây trồng.
+- **Nhà kính thông minh**: Tự động điều chỉnh tham số môi trường.
+- **Dự báo bán sản phẩm nông nghiệp**: Dự báo nhu cầu và phân tích giá cả.
 
-## Đào tạo nhân tài: Công trình cơ bản của phát triển AI Đài Loan
+## Đào tạo nhân tài: Công trình nền tảng cho sự phát triển AI của Đài Loan
 
-### Trường Đại học Trí tuệ Nhân tạo Đài Loan: Đào tạo nhân tài hướng thực tiễn công nghiệp
+### Trường Trí tuệ nhân tạo Đài Loan: Đào tạo nhân tài định hướng công nghiệp
 
-Kế hoạch đào tạo nhân tài dẫn đầu bởi Trường Đại học Trí tuệ Nhân tạo Đài Loan, tạo ra mô hình đào tạo độc đáo "Kỹ sư+AI":
+Kế hoạch đào tạo nhân tài do Trường Trí tuệ nhân tạo Đài Loan dẫn đầu đã tạo ra mô hình độc đáo "kỹ sư + AI":
 
 **Đặc điểm đào tạo:**
 
-- **Hướng công nghiệp**: Chương trình đào tạo trực tiếp liên kết với nhu cầu doanh nghiệp
-- **Thực hành là chính**: 70% thực hành, 30% lý thuyết
-- **Kênh đa dạng**: Lớp lãnh đạo kỹ thuật, lớp quản lý, lớp kỹ sư
+- **Định hướng công nghiệp**: Chương trình học trực tiếp đáp ứng nhu cầu doanh nghiệp.
+- **Thực hành là chính**: Các sản phẩm tốt nghiệp gắn liền với các vấn đề thực tế của doanh nghiệp.
+- **Đa dạng kênh**: Lớp lãnh đạo kỹ thuật, lớp quản lý.
 
-**Thành quả 4 năm (2018–2022):**
+### Trung tâm Nghiên cứu Đổi mới AI tại các trường đại học
 
-- Đào tạo hơn 7.000 học viên
-- Hợp tác với hơn 300 doanh nghiệp
-- Tỷ lệ chuyển công việc thành công 85%
+Từ năm 2018, Bộ Khoa học và Công nghệ đã thành lập các trung tâm nghiên cứu AI tại bốn trường đại học, mỗi nơi phụ trách một lĩnh vực riêng:[^5]
 
-### Cải cách giáo dục AI đại học
+| Trường Đại học                             | Trung tâm Nghiên cứu            | Lĩnh vực phụ trách           |
+| :----------------------------------------- | :------------------------------ | :--------------------------- |
+| **Đại học Đài Loan**                       | Trung tâm Nghiên cứu Đổi mới AI | Công nghệ cốt lõi AI, Y sinh |
+| **Đại học Quốc gia Chung Thành**           | Trung tâm Nghiên cứu Đổi mới AI | Sản xuất thông minh          |
+| **Đại học Khoa học và Công nghệ Đài Loan** | Trung tâm Nghiên cứu Đổi mới AI | Dịch vụ thông minh           |
+| **Đại học Thành Công**                     | Trung tâm Nghiên cứu Đổi mới AI | Y sinh                       |
 
-Các trường đại học Đài Loan nhanh chóng thành lập các chương trình và học viện AI liên quan:
+### Thu hút nhân tài quốc tế
 
-| Trường đại học                    | Viện/Học viện AI      | Lĩnh vực đặc sắc             |
-| --------------------------------- | --------------------- | ---------------------------- |
-| **Đại học Quốc gia Đài Loan**     | Viện Nghiên cứu AI    | AI y tế, xe tự lái           |
-| **Đại học Thanh Hoa**             | Học viện AI           | Thiết kế chip AI             |
-| **Đại học Giao thông Dương Minh** | Học viện AI           | 5G+AI, giao thông thông minh |
-| **Đại học Thành Công**            | Trung tâm Hệ thống AI | AI công nghiệp sản xuất      |
+Đài Loan sử dụng nhiều cơ chế để thu hút nhân tài AI quốc tế:
 
-### Lôi cuốn nhân tài quốc tế
+- **Chương trình Học giả Ngọc Sơn (Yushan Scholars)**: Thu hút các học giả AI hàng đầu đến Đài Loan.
+- **Quy định về tuyển dụng và sử dụng lao động nước ngoài**: Nới lỏng giấy phép lao động cho nhân tài AI.
+- **Visa khởi nghiệp**: Khuyến khích các đội ngũ AI quốc tế đến Đài Loan kinh doanh.
 
-Đài Loan lôi cuốn nhân tài AI quốc tế thông qua nhiều cơ chế:
+## Ứng dụng công nghiệp: Thực tiễn triển khai AI tại Đài Loan
 
-- **Kế hoạch học giả Ngọc Sơn**: Lôi cuốn các học giả AI hàng đầu đến Đài Loan
-- **Luật Lôi cuốn và Tuyển dụng Nhân tài Nước ngoài Chuyên nghiệp**: Nới lỏng giấy phép làm việc cho nhân tài AI
-- **Visa Khởi nghiệp**: Khuyến khích các đội AI quốc tế đến khởi nghiệp tại Đài Loan
+### Hệ sinh thái khởi nghiệp AI
 
-## Ứng dụng công nghiệp: Thực hành triển khai AI tại Đài Loan
+Số lượng công ty khởi nghiệp AI của Đài Loan đã tăng đáng kể kể từ năm 2016:
 
-### Hệ sinh thái startup AI
+**Các startup AI tiêu biểu:**
 
-Số lượng công ty khởi nghiệp AI Đài Loan tăng vọt kể từ năm 2016 (thống kê quy mô 2024 khác nhau tuỳ theo tiêu chí khác nhau, xem báo cáo từ các cơ quan nghiên cứu[^6]):
+1. **Appier (Bội Tinh Tương Tác Khoa Kỹ)**
+   - Thường được mệnh danh là "Kỳ lân đầu tiên của Đài Loan"[^9].
+   - Niêm yết trên Sở giao dịch chứng khoán Tokyo vào tháng 3 năm 2021[^10].
+   - Lĩnh vực kinh doanh bao gồm trí tuệ nhân tạo và phân tích dữ liệu.
 
-**Startup AI tiêu biểu:**
+2. **Cloud Imaging Technology (Vân Tượng Khoa Kỹ)**
+   - AI bệnh học kỹ thuật số và ảnh y tế.
+   - Hệ thống quản lý ảnh bệnh học kỹ thuật số đã được chứng nhận bởi FDA Hoa Kỳ và IVDR Châu Âu[^7].
 
-1. **Appier (Công nghệ Tương tác Sao Pặn)**
-   - Công ty kỹ thuật số độc quyền đầu tiên của Đài Loan[^8]
-   - Niêm yết trên Sở giao dịch chứng khoán Tokyo năm 2021
-   - Đặt quảng cáo và phân tích khách hàng bằng AI
+### Chuyển đổi AI của các tập đoàn lớn
 
-2. **KKCompany**
-   - Nhà lãnh đạo ứng dụng AI trực tiếp
-   - Công nghệ nhà văn ảo
-   - Mở rộng nhanh chóng thị trường Châu Á
+Các tập đoàn lớn truyền thống của Đài Loan đã áp dụng công nghệ AI trên quy mô lớn:
 
-3. **Công nghệ Điện toán Mây**
-   - Chẩn đoán AI y tế
-   - Tự động hóa kiểm tra máu
-   - Được FDA chứng nhận tiến vào Mỹ
+**Mô hình sản xuất:**
 
-4. **Viscovery (Công nghệ Bảo vệ Y tế)**
-   - Phân tích AI hình ảnh y tế
-   - Phát hiện sớm ung thư
-   - Hợp tác sâu với Bệnh viện Đại học Quốc gia Đài Loan
+- **TSMC**: Tối ưu hóa quy trình bằng AI.
+- **Delta Electronics (Đài Đạt Điện)**: Giải pháp tiết kiệm năng lượng bằng AI.
+- **Amedia (Đa Giác Quang Điện)**: Kiểm tra chất lượng bằng AI.
 
-### Chuyển đổi AI của các doanh nghiệp lớn
+**Đổi mới dịch vụ:**
 
-Các doanh nghiệp lớn truyền thống Đài Loan đã triển khai AI quy mô lớn:
-
-**Điển hình ngành sản xuất:**
-
-- **TSMC**: AI tối ưu hoá quy trình, tăng năng suất 30%
-- **Delta Electronics**: Giải pháp AI tiết kiệm năng lượng, giảm 20% tiêu thụ điện
-- **AU Optronics**: Kiểm tra chất lượng AI, tăng tỷ lệ sản phẩm tốt 15%
-
-**Sáng tạo ngành dịch vụ:**
-
-- **Chunghwa Telecom**: Dịch vụ khách hàng AI, tối ưu hoá mạng
-- **Cathay Financial Holdings**: Tài chính AI, kiểm soát rủi ro
-- **7-Eleven Đài Loan**: Bổ sung hàng AI, phân tích hành vi tiêu dùng
+- **Chung Hwa Telecom (Trung Hoa Viễn Tín)**: Dịch vụ khách hàng AI, tối ưu hóa mạng lưới.
+- **Cathay Financial Holding (Quốc Thái Kim Khống)**: Tài chính AI, quản lý rủi ro.
+- **FamilyMart (Đồng Nhất Siêu Thương)**: Bổ sung hàng hóa bằng AI, phân tích hành vi người tiêu dùng.
 
 ## Hợp tác quốc tế: Kết nối toàn cầu của AI Đài Loan
 
-### Hợp tác AI Đài Loan–Mỹ
+### Hợp tác AI Đài - Mỹ
 
-**Các mục hợp tác chính:**
+**Các hạng mục hợp tác trọng điểm:**
 
-- **Chip AI bán dẫn**: Hợp tác sâu với các tập đoàn công nghệ Mỹ
-- **An ninh AI**: Đối phó chung với mối đe doạ mạng
-- **AI y tế**: Chứng nhận FDA và trao đổi kỹ thuật
+- **Chip AI chất bán dẫn**: Hợp tác sâu rộng với các gã khổng lồ công nghệ Hoa Kỳ.
+- **AI an ninh mạng**: Cùng nhau chống lại các mối đe dọa trên không gian mạng.
+- **AI y tế**: Trao đổi công nghệ và chứng nhận FDA.
 
-### Quan hệ đối tác AI Đài Loan–Nhật Bản
+### Quan hệ đối tác AI Đài - Nhật
 
 **Lĩnh vực hợp tác:**
 
-- **Sản xuất thông minh**: Nghiên cứu phát triển AI của Toyota, Panasonic tại Đài Loan
-- **Công nghệ chăm sóc dài hạn**: Ứng phó với thách thức xã hội cao tuổi
-- **AI phòng chống thảm họa**: Hệ thống cảnh báo sớm động đất, bão
+- **Sản xuất thông minh**: Toyota, Panasonic nghiên cứu và phát triển AI tại Đài Loan.
+- **Công nghệ chăm sóc dài hạn**: Ứng phó với thách thức của xã hội già hóa.
+- **AI phòng chống thiên tai**: Hệ thống cảnh báo động đất, bão.
 
-### Hợp tác đạo đức AI Liên minh Châu Âu
+### Hợp tác đạo đức AI với EU
 
-Đài Loan đã cử đại diện tham gia thảo luận liên quan đến tiêu chuẩn đạo đức AI của Liên minh Châu Âu, và công bố Hướng dẫn Đạo đức AI trong nước, đưa nhân quyền và minh bạch vào khung chuẩn phát triển AI.
+Đài Loan đã cử đại diện tham gia thảo luận về các tiêu chuẩn đạo đức AI của EU và ban hành hướng dẫn đạo đức AI trong nước, đưa nhân quyền và tính minh bạch vào quy tắc phát triển AI.
 
-## Thách thức và cơ hội: Triển vọng chiến lược 2024–2030
+## Thách thức và cơ hội: Triển vọng chiến lược 2024-2030
 
-### Những thách thức chính mà phát triển AI Đài Loan phải đối mặt
+### Những thách thức chính
 
-Phát triển AI Đài Loan đối mặt với bốn thách thức cốt lõi: Thiếu hụt nhân tài nghiên cứu AI cao cấp và phải đối mặt với cạnh tranh từ Singapore, Trung Quốc đại lục; Luật bảo vệ dữ liệu cá nhân và nhu cầu mở cung cấp dữ liệu có sự căng thẳng, tích hợp dữ liệu liên ngành khó khăn; Cuộc chiến công nghệ Mỹ-Trung làm phức tạp lựa chọn chuỗi cung ứng của Đài Loan; Tốc độ AI hoá của ngành công nghiệp truyền thống và doanh nghiệp vừa nhỏ không đều, tạo ra khoảng cách số.
+Sự phát triển AI của Đài Loan đối mặt với bốn thách thức cốt lõi: thiếu hụt nhân tài nghiên cứu AI cấp cao và sự cạnh tranh từ Singapore, Trung Quốc đại lục; căng thẳng giữa yêu cầu pháp lý bảo vệ thông tin cá nhân và nhu cầu mở dữ liệu, gây khó khăn trong tích hợp đa lĩnh vực; cuộc chiến công nghệ Mỹ-Trung làm phức tạp hóa lựa chọn chuỗi cung ứng của Đài Loan; tốc độ AI hóa không đồng đều giữa các ngành truyền thống và doanh nghiệp vừa và nhỏ, tạo ra khoảng cách số.
 
 ### Cơ hội phát triển tương lai
 
-Làn sóng AI sinh thành mở ra không gian ứng dụng mới cho các lĩnh vực dọc, Đài Loan trong các ngành đã có dữ liệu và sân thí nghiệm như y tế, sản xuất, nông nghiệp có điều kiện cắt sâu nhất. Về phía tính toán biên, sự phổ biến 5G và trí thông minh thiết bị IoT giải phóng nhu cầu chip lớn, đúng lúc tương ứng với ưu thế kỹ thuật của TSMC và MediaTek. Xu hướng tái cơ cấu chuỗi cung ứng quốc tế (Friend-shoring) làm cho vị trí "đối tác đáng tin cậy" của Đài Loan có giá trị hơn; mục tiêu phát thải bằng không ròng thúc đẩy thị trường mới cho tối ưu hoá năng lượng bằng AI.
+Làn sóng AI tạo sinh mở ra không gian ứng dụng mới trong các lĩnh vực dọc, và Đài Loan có lợi thế nhất để tham gia vào các ngành như y tế, sản xuất, nông nghiệp vì đã có dữ liệu và thực địa. Về điện toán biên, sự phổ biến của 5G và việc thông minh hóa thiết bị IoT giải phóng nhu cầu chip lớn, hoàn toàn phù hợp với ưu thế công nghệ của TSMC và MediaTek. Xu hướng tái cấu trúc chuỗi cung ứng quốc tế (Friend-shoring) làm tăng giá trị định vị "đối tác đáng tin cậy" của Đài Loan; mục tiêu phát thải ròng bằng 0 cũng tạo ra thị trường mới cho việc tối ưu hóa năng lượng bằng AI.
 
-## Tầm nhìn năm 2030: Bản đồ tương lai của "AI Đài Loan"
+## Tầm nhìn năm 2030: Bản đồ tương lai của AI Đài Loan
 
 ### Mục tiêu chiến lược "AI Đài Loan"
 
-Mục tiêu định lượng được xác định là: năm 2030, giá trị sản xuất công nghiệp AI đạt 100 tỷ Nhân dân tệ, đào tạo 100.000 nhân tài AI, nuôi dưỡng 10 công ty khởi nghiệp kỳ lân AI, năng lực cạnh tranh nhân tài AI xếp hạng toàn cầu top 5. Hướng chất lượng tập trung vào trở thành trung tâm ứng dụng AI Châu Á-Thái Bình Dương, thành lập tiêu chuẩn chất lượng toàn cầu cho AI+sản xuất, và thông qua mục tiêu xã hội AI đàn hồi tăng cường năng lực phát triển bền vững.
+Các mục tiêu định lượng chính thức có hai cấp độ: Kế hoạch hành động AI 2.0 yêu cầu tăng giá trị sản phẩm phần cứng và phần mềm nhờ ứng dụng AI vượt quá 250 tỷ Đài tệ trước năm 2026[^1]; vào năm 2025, Chính phủ Hành pháp lại đề ra "Mười dự án xây dựng mới về AI", với mục tiêu tạo ra giá trị 15 nghìn tỷ Đài tệ vào năm 2040[^11]. Phương hướng định tính tập trung vào việc trở thành trung tâm ứng dụng AI của Châu Á - Thái Bình Dương, thiết lập tiêu chuẩn toàn cầu cho AI + sản xuất, và tăng cường năng lực phát triển bền vững thông qua mục tiêu xã hội kiên cường bằng AI.
 
-### Hành động chiến lược chính
+### Hành động chiến lược then chốt
 
-1. **Xây dựng đám mây AI có chủ quyền**
-   - Thành lập tài nguyên tính toán AI cấp quốc gia
-   - Đảm bảo tự chủ các dịch vụ AI quan trọng
+1. **Xây dựng đám mây chủ quyền AI**
+   - Thiết lập nguồn tài nguyên tính toán AI cấp quốc gia.
+   - Đảm bảo tính tự chủ của các dịch vụ AI quan trọng.
 
-2. **Hoàn thiện luật lệ AI**
-   - Soạn thảo luật AI chuyên biệt
-   - Cơ chế quản lý AI liên bộ
+2. **Hoàn thiện pháp chế AI**
+   - Luật Cơ bản về Trí tuệ nhân tạo được thông qua lần thứ ba vào ngày 23 tháng 12 năm 2025, và là cơ quan quản lý của Ủy ban Khoa học và Công nghệ[^12].
+   - Cơ chế quản trị AI liên bộ.
 
 3. **Liên minh AI quốc tế**
-   - Thắt chặt quan hệ đối tác AI dân chủ
-   - Thúc đẩy hợp tác tiêu chuẩn AI quốc tế
+   - Làm sâu sắc hơn mối quan hệ đối tác AI dân chủ.
+   - Thúc đẩy hợp tác tiêu chuẩn AI quốc tế.
 
-4. **Phổ cập kỹ năng AI toàn dân**
-   - Phổ biến giáo dục đại cương AI
-   - Cải thiện khoảng cách số
+4. **Trình độ nhận thức AI toàn dân**
+   - Phổ cập giáo dục phổ thông về AI.
+   - Khắc phục khoảng cách số.
 
 ## Ý nghĩa thế giới của mô hình AI Đài Loan
 
-Con đường AI của Đài Loan cung cấp một trường hợp tham khảo "chiến lược nhỏ-lớn": thông qua tập trung vào ưu thế bán dẫn, tăng cường hợp tác quốc tế, xây dựng đào tạo nhân tài hướng sản xuất, các nền kinh tế vừa nhỏ cũng có thể thành lập vị trí không thể thay thế trong lĩnh vực AI.
+Con đường AI của Đài Loan cung cấp một ví dụ tham khảo cho "chiến lược lớn của một quốc gia nhỏ": bằng cách tập trung vào ưu thế chất bán dẫn, tăng cường hợp tác quốc tế và xây dựng đào tạo nhân tài định hướng công nghiệp, các nền kinh tế vừa và nhỏ cũng có thể thiết lập vị thế không thể thay thế trong lĩnh vực AI.
 
-Quỹ đạo phát triển của Đài Loan cùng lúc thể hiện một khía cạnh khác: trong Hướng dẫn Đạo đức AI, khung bảo vệ dữ liệu cá nhân và chế độ hộp cát giám sát, Đài Loan cố gắng xác lập quy chuẩn cho phát triển AI bằng các nguyên tắc dân chủ minh bạch, tạo thành sự tương phản rõ ràng với mô hình phát triển AI của một số quốc gia độc tài. Lập trường này có một mức độ ý nghĩa tham khảo trong thảo luận quản trị AI toàn cầu, nhưng xây dựng chế độ chưa hoàn thành, hiệu quả còn cần quan sát dài hạn.
+Quỹ đạo phát triển của Đài Loan đồng thời thể hiện một khía cạnh khác: về hướng dẫn đạo đức AI, khuôn khổ bảo vệ thông tin cá nhân và hệ thống sandbox giám sát, Đài Loan cố gắng thiết lập các quy tắc cho việc phát triển AI dựa trên nguyên tắc dân chủ minh bạch, tạo ra sự tương phản với mô hình phát triển AI của một số quốc gia độc tài. Quan điểm này có ý nghĩa tham khảo nhất định trong các cuộc thảo luận về quản trị AI toàn cầu, nhưng công tác xây dựng thể chế vẫn chưa hoàn thành và hiệu quả cần được quan sát lâu dài.
 
 ## Kết luận
 
-Từ cú sốc AlphaGo năm 2016 đến sự phổ biến AI sinh thành năm 2024, Đài Loan trong chưa đến mười năm đã xây dựng hệ sinh thái AI bao gồm sản xuất chip, đào tạo nhân tài, ứng dụng công nghiệp. TSMC cấp hơn 90% chip AI cao cấp cho toàn thế giới, Trường Đại học Trí tuệ Nhân tạo Đài Loan đào tạo hơn 7.000 kỹ sư, AI y tế, sản xuất thông minh, công nghệ tài chính và các lĩnh vực dọc khác đều có các trường hợp triển khai cụ thể.
+Từ cú sốc AlphaGo năm 2016 đến sự phổ biến của AI tạo sinh vào năm 2024, Đài Loan đã mất chưa đầy một thập kỷ để xây dựng một hệ sinh thái AI bao gồm sản xuất chip, đào tạo nhân tài và ứng dụng công nghiệp. TSMC là nhà đúc chính cho các chip AI như NVIDIA; Trường Trí tuệ nhân tạo Đài Loan đã đào tạo hàng nghìn kỹ sư và quản lý đang làm việc từ năm 2018; có nhiều trường hợp triển khai cụ thể trong các lĩnh vực dọc như AI y tế, sản xuất thông minh và công nghệ tài chính.
 
-Con đường này chưa hoàn thiện: nhân tài nghiên cứu AI cao cấp vẫn còn thiếu, sự căng thẳng giữa bảo vệ dữ liệu cá nhân và mở cung cấp dữ liệu chưa được giải quyết, tốc độ AI hoá của doanh nghiệp vừa nhỏ cũng không đều. Nhưng Đài Loan đã thành lập tính không thể thay thế của chuỗi cung ứng AI trên cơ sở bán dẫn, và với vị trí "đối tác dân chủ" tìm thấy chân đứng trong vết nứt của cuộc cạnh tranh công nghệ Mỹ-Trung.
+Con đường này chưa hoàn chỉnh: vẫn còn thiếu nhân tài nghiên cứu AI cấp cao, căng thẳng giữa bảo vệ thông tin cá nhân và mở dữ liệu vẫn chưa được giải quyết, tốc độ AI hóa của doanh nghiệp vừa và nhỏ cũng không đồng đều. Nhưng Đài Loan đã thiết lập tính không thể thay thế của chuỗi cung ứng AI trên nền tảng chất bán dẫn, và tìm thấy điểm tựa trong khe hở của sự cạnh tranh công nghệ Mỹ-Trung với vị thế "đối tác dân chủ".
 
 **Đọc thêm**:
 
-- [Ngô Triết Vũ](/people/吳哲宇) — Làm thế nào một nghệ sĩ truyền thông mới xác định chính mình như một thợ đồng hồ trong "thời đại AI sinh thành tràn lan", một cách nhìn của nhà sáng tạo bên ngoài ngành công nghiệp AI
-- [Trường Đại học Trí tuệ Nhân tạo Đài Loan](/technology/台灣人工智慧學校) — Từ "xuống thế giới" của Trần Thăng Vệ và gây quỹ dân gian 180 triệu, nhìn làm thế nào đường dây sản xuất nhân tài bên ngoài chiến lược chính phủ AI bù đắp vị trí
+- [Ngô Triết Vũ (Wu Zheyu)](/vi/people/che-yu-wu) — Nghệ sĩ truyền thông mới làm sao duy trì nghề thợ đồng hồ trong "thời đại bão hòa AI tạo sinh", một góc nhìn sáng tạo bên ngoài ngành công nghiệp AI
+- [Trường Trí tuệ nhân tạo Đài Loan](/vi/technology/taiwan-ai-academy) — Từ sự "xuống trần" của Trần Thăng Vĩ và việc gây quỹ cộng đồng 180 triệu, xem tuyến sản xuất nhân tài ngoài chiến lược AI của chính phủ bù đắp như thế nào
 
 ## Tài liệu tham khảo
 
-[^1]: [Trang chính thức của Viện Hành pháp "Kế hoạch Hành động AI Đài Loan"](https://english.ey.gov.tw/News3/9E5540D592A5FECD/1dec0902-e02a-49c6-870d-e77208481667) — Giải thích chính thức Kế hoạch Hành động AI Đài Loan (2018–2021); xem thêm [Bản phê duyệt Kế hoạch Hành động AI 2.0 (năm 2023–2026)](https://digi.nstc.gov.tw/File/7C71629D702E2D89) (Ủy ban Khoa học Quốc gia, tháng 2 năm 2023)
+[^1]: [Trang web chính thức Kế hoạch hành động AI Đài Loan](https://english.ey.gov.tw/News3/9E5540D592A5FECD/1dec0902-e02a-49c6-870d-e77208481667) — Giải thích chính thức về Kế hoạch hành động AI Đài Loan (2018-2021); xem thêm [Bản phê duyệt Kế hoạch hành động AI Đài Loan 2.0 (2023-2026)](https://digi.nstc.gov.tw/File/7C71629D702E2D89) (Ủy ban Khoa học và Công nghệ, tháng 2 năm 2023), mục tiêu tổng thể "tăng giá trị sản phẩm phần cứng và phần mềm nhờ ứng dụng AI vượt quá 250 tỷ Đài tệ".
 
-[^2]: [Ủy ban Khoa học và Công nghệ Quốc gia (NSTC)](https://www.nstc.gov.tw/) — Báo cáo chính sách công nghệ AI và thành quả thúc đẩy
+[^2]: [Trần Lương Cơ: 16 tỷ để thúc đẩy AI Đài Loan — Tạp chí Viễn Kiến, tháng 8 năm 2017](https://www.gvm.com.tw/article/39819) — Bộ trưởng Khoa học và Công nghệ Trần Lương Cơ đề xuất "Chiến lược lớn của một quốc gia nhỏ về AI" vào giữa tháng 8 năm 2017, dự kiến đầu tư khoảng 16 tỷ Đài tệ trong bốn đến năm năm.
 
-[^3]: [Trường Đại học Trí tuệ Nhân tạo Đài Loan (AI Academy)](https://aiacademy.tw/) — Báo cáo hàng năm; xem giới thiệu Hiệu trưởng Khổng Tường Trọng tại [trang Hiệu trưởng](https://aiacademy.tw/president/)
+[^3]: [Chính phủ Hành pháp thúc đẩy Kế hoạch hành động AI, mỗi năm đầu tư gần trăm tỷ — Báo Công nghệ Mới, ngày 18/01/2018](https://technews.tw/2018/01/18/taiwan-ai-operation-project-2018-2021/) — Kế hoạch hành động AI Đài Loan dự kiến đầu tư từ 9 tỷ đến 10 tỷ Đài tệ mỗi năm.
 
-[^4]: [Ấn phẩm của Trường Đại học Trí tuệ Nhân tạo Đài Loan (AI Academy)](https://aiacademy.tw/) — Hồ sơ phát triển AI Đài Loan và báo cáo hàng năm
+[^4]: [Tầm nhìn và sứ mệnh của Trường Trí tuệ nhân tạo Đài Loan](https://aiacademy.tw/vision/) — Đội ngũ sáng lập và khai giảng vào tháng 1 năm 2018.
 
-[^5]: [Ủy ban Khoa học và Công nghệ Quốc gia (NSTC) — Kế hoạch Trí tuệ Nhân tạo](https://www.nstc.gov.tw/nstc/attachments/eb8c20d5-dba2-48f9-a5ca-b1e85a48d67e) — Thành quả dự án chuyên đề Hệ thống Sản xuất AI Công nghiệp
+[^5]: [Bốn trường Đại học thành lập Trung tâm Nghiên cứu AI, Bộ Khoa học và Công nghệ rót 16 tỷ trong 5 năm — Báo Công nghệ Mới, ngày 22/12/2017](https://technews.tw/2017/12/22/taiwan-ai-research-center/) — Phân công của các trung tâm nghiên cứu tại bốn trường: NTU (công nghệ cốt lõi AI và y sinh), Sun Yat-in University (y sinh), Tsing Hua University (sản xuất thông minh), National Chiao Tung University (dịch vụ thông minh).
 
-[^6]: [Báo cáo Viện Công nghiệp Điện tử "Phân tích Tình hình Phát triển và Xu hướng Ngành AI Đài Loan"](https://ieknet.iek.org.tw/) — Phân tích Quy mô Ngành AI Đài Loan và Xu hướng
+[^6]: [Tỷ lệ mù tiểu đường cao gấp 25 lần! Đài Loan phát triển phần mềm chẩn đoán hỗ trợ AI — TVBS Sức khỏe 2.0, ngày 20/02/2020](https://health.tvbs.com.tw/medical/325359) — Bệnh viện Đài Loan phát triển phần mềm chẩn đoán hỗ trợ bệnh võng mạc tiểu đường, độ chính xác đạt hơn 95%.
 
-[^7]: [Báo cáo Dự báo Thị trường AI Đài Loan của IDC năm 2024–2030](https://www.idc.com/) — Dự báo Quy mô Thị trường AI Đài Loan
+[^7]: [Cơ hội thị trường AI kỹ thuật số toàn cầu trị giá trăm tỷ! Cloud Imaging Technology niêm yết trên sàn sáng tạo — Báo Công nghệ Mới, ngày 22/04/2026](https://technews.tw/2026/04/22/aetherslide/) — Hệ thống quản lý ảnh bệnh học kỹ thuật số của Vân Tượng Khoa Kỹ đạt chứng nhận IVDR Châu Âu và FDA Hoa Kỳ.
 
-[^8]: [Exclusive: How Appier became Taiwan's first digital unicorn](https://english.cw.com.tw/article/article.action?id=2950) — Bản Anh của Commonwealth, báo cáo Appier trở thành công ty kỹ thuật số độc quyền đầu tiên của Đài Loan
+[^8]: [Chính quyền thành phố Đài Nam và Far EasTone khởi động kế hoạch thành phố thông minh, 20 ứng dụng được triển khai trong 3 năm — Thời đại Số, ngày 12/08/2015](https://www.bnext.com.tw/article/37018/BN-2015-08-12-132525-117) — Kế hoạch thành phố thông minh 4G Đài Nam.
+
+[^9]: [Đài Loan có Kỳ lân? CEO Appier tự tin trả lời: Không quan tâm có sừng hay không — Thời đại Số, ngày 11/11/2019](https://www.bnext.com.tw/article/55645/about-appier-d-round) — Appier được mệnh danh là "Kỳ lân đầu tiên của Đài Loan".
+
+[^10]: [Bội Tinh Tương Tác Khoa Kỹ - Wikipedia](https://zh.wikipedia.org/wiki/Appier) — Niêm yết trên sàn Mothers Tokyo vào ngày 30/03/2021.
+
+[^11]: [Trác Vinh Thái: Đẩy mạnh Mười dự án xây dựng mới về AI, mục tiêu tạo ra giá trị 15 nghìn tỷ vào năm 2040 — Thông tấn xã Trung ương, ngày 20/06/2025](https://www.cna.com.tw/news/aipl/202506200074.aspx) — Mục tiêu giá trị của Mười dự án xây dựng mới về AI.
+
+[^12]: [Quốc hội thông qua Luật Cơ bản về Trí tuệ nhân tạo, Ủy ban Khoa học và Công nghệ là cơ quan quản lý — Báo Công nghệ Mới, ngày 23/12/2025](https://technews.tw/2025/12/23/artificial-intelligence-basic-law/) — Thông qua lần thứ ba của "Luật Cơ bản về Trí tuệ nhân tạo".

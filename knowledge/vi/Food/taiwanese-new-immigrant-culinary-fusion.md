@@ -1,15 +1,15 @@
 ---
-title: 'Ẩm thực người nhập cư tại Đài Loan hòa quyện'
-description: 'Khi vị chua cay Thái Lan gặp vị ngọt mặn của Đài Loan, khi phở Việt Nam giao thoa với món thịt kho kiểu Đài Loan, và khi gia vị Indonesia ôm ấp nguyên liệu bản địa, một cuộc cách mạng vị giác vượt biên giới đang âm thầm diễn ra tại Đài Loan. Người nhập cư mang đến không chỉ ẩm thực quê hương mà còn là tiềm năng mới cho văn hóa ẩm thực đa dạng của Đài Loan.'
+title: 'Sự hòa quyện ẩm thực của người định cư mới tại Đài Loan'
+description: 'Khi vị chua cay Thái Lan gặp vị ngon mặn ngọt của Đài Loan, khi phở Việt Nam gặp ướp luộc kiểu Đài Loan, khi gia vị Indonesia ôm lấy nguyên liệu bản địa, một cuộc cách mạng vị giác vượt biên giới đang diễn ra thầm lặng tại Đài Loan. Người định cư mới mang đến không chỉ món ăn quê hương, mà còn là những khả năng hoàn toàn mới làm phong phú thêm văn hóa ẩm thực Đài Loan.'
 date: 2026-03-20
 category: 'Food'
 tags:
   [
-    'Ẩm thực người nhập cư',
+    'Ẩm thực người định cư mới',
     'Ẩm thực Đông Nam Á',
     'Hòa quyện văn hóa',
-    'Ăn uống đa dạng',
-    'Văn hóa di dân',
+    'Ẩm thực đa dạng',
+    'Văn hóa di cư',
   ]
 subcategory: '族群飲食'
 author: 'Taiwan.md'
@@ -23,345 +23,337 @@ readingTime: 10
 imageLicense: 'CC BY 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Pho,_popular_Vietnamese_noodle_soup.jpg'
 translatedFrom: 'Food/台灣新住民美食融合.md'
-sourceCommitSha: '9094012f4'
-sourceContentHash: 'sha256:77ab88a911a474f4'
-sourceBodyHash: 'sha256:0ecfd7b1fa40d486'
-translatedAt: '2026-09-23T05:53:44+08:00'
+sourceCommitSha: '10b5f473e'
+sourceContentHash: 'sha256:ec43c04dc374e045'
+sourceBodyHash: 'sha256:c3bafaeb7fb89ca0'
+translatedAt: '2026-10-03T21:52:58.602367+00:00'
 ---
 
-# Ẩm thực người nhập cư tại Đài Loan hòa quyện
+# Sự hòa quyện ẩm thực của dân cư mới tại Đài Loan
 
-> “Hương vị quê nhà sẽ không biến mất, nó sẽ nở ra những đóa hoa khác trên mảnh đất mới.”
->
-> — Nguyễn Thị Vân (người nội trợ Đài-Việt, đến Đài Loan 20 năm)
+Cộng đồng An Kang, Mộc Trạch, Đài Bắc, thập niên 1980 là nơi tập trung lớn nhất của Hoa kiều Việt Nam tại Đài Loan, lúc đó đường Mộc Trạch còn được gọi là 「越南街」; gần hai chục năm qua, cộng đồng lại thêm một nhóm dân cư mới Việt Nam đến Đài Loan nhờ kết hôn. Tân Thơ Bình (辛詩萍) đã đến Đài Loan nhờ kết hôn hơn hai chục năm, chồng là Hoa kiều Việt Nam năm nào bỏ trốn đến Đài Loan, quán phở của cô chỉ trong chốc lát đã trình lên một tô phở Việt Nam, là món ăn sáng/trưa yêu thích của người Việt Nam quanh đó[^1].
 
-Trong khu phố ngầm của Ga Đài Bắc, một cửa hàng nhỏ khiêm tốn tỏa ra mùi sả và nước cốt dừa thơm lừng. Chủ quán A Gia là người nhập cư từ Indonesia, bà làm món cà ri Indonesia chính tông bằng các nguyên liệu địa phương của Đài Loan. “Rau cải thảo ở Đài Loan ngọt hơn ở Indonesia,” bà nói, “nên cà ri của tôi có vị dịu hơn, người Đài Loan thích hơn.”
+Trong một cộng đồng chồng chéo hai thế hệ người di cư Việt Nam: Hoa kiều bỏ trốn Sài Gòn quanh năm 1975, và dân cư mới đến Đài Loan nhờ kết hôn xuyên quốc gia từ cuối thập niên 1990. Tỷ lệ hôn nhân xuyên quốc gia chiếm tổng số cặp đôi kết hôn trên toàn Đài Loan đạt 31,86% vào năm 2003, gần như mỗi ba cặp đôi mới lại có một cặp[^2]. Họ mang theo ẩm thực quê hương, cũng trên bếp núc của Đài Loan dần dần hòa quyện với nguyên liệu địa phương và khẩu vị người Đài Loan tạo nên diện mạo mới.
 
-Sự điều chỉnh nhỏ bé này tượng trưng cho đặc tính cốt lõi của văn hóa ẩm thực người nhập cư tại Đài Loan—đó không phải là sự sao chép đơn thuần, mà là sự hòa quyện sáng tạo. Kể từ những năm 1990, người nhập cư từ các quốc gia Đông Nam Á đã lần lượt đến Đài Loan; họ không chỉ mang lại nguồn lao động mà còn mang đến nền văn hóa ẩm thực phong phú và đa sắc màu. Ngày nay, những hương vị ngoại quốc này đã ăn sâu vào bản đồ ẩm thực Đài Loan, trở thành minh chứng ngon miệng nhất cho sự đa dạng văn hóa của hòn đảo.
+## Lịch sử phát triển ẩm thực dân cư mới tại Đài Loan
 
-## Quỹ đạo phát triển của ẩm thực người nhập cư tại Đài Loan
+### 1990-2000: Bước đầu định cư và gieo rễ
 
-### 1990-2000: Khởi đầu bén rễ
+Cuối những năm 1990, hôn nhân xuyên quốc gia tại Đài Loan tăng nhanh. Trong các di cư hôn nhân đến từ Đông Nam Á, người Việt Nam nhiều nhất: tính đến tháng 5 năm 2012, phụ nữ di cư mới từ Đông Nam Á có hơn 130.000 người, trong đó người Việt Nam chiếm 66,29%, tiếp theo là Indonesia, Philippines, Thái Lan và Campuchia[^2]. Ban đầu, các bà chủ yếu nấu ăn quê hương cho gia đình tại nhà, những hương vị ngoại quốc này chỉ lưu truyền trong phạm vi nhỏ.
 
-Trong những năm 1990, Đài Loan bắt đầu xuất hiện số lượng lớn các cuộc hôn nhân quốc tế, với phụ nữ từ Việt Nam, Indonesia, Thái Lan, Philippines và các nước khác lần lượt đến. Ban đầu, họ chủ yếu nấu món ăn quê hương cho gia đình tại nhà, và những hương vị ngoại quốc này chỉ được lưu truyền trong phạm vi nhỏ.
+Ẩm thực dân cư mới giai đoạn này vẫn giữ nguyên diện mạo tương đối thuần túy. Phở Việt Nam, Tom Yam Thái Lan (canh chua cay), Rendang Indonesia (cà ri renđăng), đều cố gắng giữ nguyên hương vị gốc của quê hương. Tuy nhiên do khó khăn trong việc nhập nguyên liệu, nhiều dân cư mới bắt đầu học cách dùng nguyên liệu địa phương Đài Loan thay thế gia vị và rau củ quê hương.
 
-Ẩm thực của người nhập cư trong giai đoạn này vẫn giữ nguyên bản chất tương đối thuần khiết. Phở (Pho) của Việt Nam, Tom Yam (Canh chua cay) của Thái Lan, Rendang (Cà ri thịt bò/cừu) của Indonesia đều cố gắng duy trì hương vị nguyên bản của quê nhà. Tuy nhiên, do khó khăn trong việc tìm kiếm nguyên liệu, nhiều người nhập cư đã bắt đầu học cách thay thế các loại gia vị và rau củ quê nhà bằng nguyên liệu địa phương của Đài Loan.
+### 2000-2010: Nảy mầm thương mại hóa
 
-### 2000-2010: Mầm mống thương mại hóa
+Bước vào thế kỷ 21, cùng với việc số lượng dân cư mới tăng lên và mức độ chấp nhận đa văn hóa của xã hội Đài Loan cao hơn, ẩm thực dân cư mới bắt đầu bước ra khỏi gia đình, đi vào thị trường thương mại.
 
-Bước vào thế kỷ 21, cùng với sự gia tăng số lượng người nhập cư và mức độ chấp nhận văn hóa đa dạng của xã hội Đài Loan, ẩm thực người nhập cư bắt đầu rời khỏi các hộ gia đình để tiến vào thị trường thương mại.
+Bản đồ hương vị Đông Nam Á tại Đài Loan thực ra xuất hiện sớm hơn dân cư mới. Chợ Trung Trinh tại Long Cương, Taoyuan nổi tiếng với các món ăn vặt Điền-Miến-Thái như mì khô, hủ tiếu; nguồn gốc là năm 1954 Bộ Quốc Phòng xây dựng Tân Thôn Trung Trinh cho các gia眷 của Quân Cứu Quốc Phản Cộng Vân Nam rút lui đến Đài Loan, người dân trong thôn đa số đến từ Vân Nam, Thái Lan, Myanmar[^3]. Đó là di cư quân dân sau chiến tranh, khác hẳn với làn sóng di cư hôn nhân sau những năm 1990.
 
-Các quầy phở Việt Nam bắt đầu xuất hiện tại phố Hoa Tây ở Đài Bắc và chợ đêm Nam Cơ; Làng Tân Thần Trung Lý (Trung Lý) ở Trung Lịch trở thành khu vực mang đậm phong vị Vân Nam-Thái-Miến do tập trung nhiều người nhập cư gốc Hoa từ Thái Lan và Myanmar; còn xung quanh Ga Cao Hùng lại là nơi tụ họp của các món ăn Indonesia.
+Cửa hàng của dân cư mới và người lao động nhập cư thường mở tại nơi đồng hương tập trung. Đường Yên Bình sau ga Taoyuan, các quán phở Việt Nam và tiệm tạp hóa Đông Nam Á đầy ắp gia vị xếp thành hàng, khách đến ăn đa số là người lao động Việt Nam làm việc tại Taoyuan[^4]. Giai đoạn này, ẩm thực dân cư mới bắt đầu điều chỉnh độ cay, chua, ngọt để phù hợp với khẩu vị người Đài Loan.
 
-Trong giai đoạn này, ẩm thực người nhập cư bắt đầu xuất hiện xu hướng "bản địa hóa". Để phù hợp với sở thích khẩu vị của người Đài Loan, nhiều món ăn đã được điều chỉnh về độ cay, độ chua và độ ngọt. Các món Thái Lan giảm lượng nước mắm sử dụng mà tăng tỷ lệ xì dầu; các món Việt Nam giảm lượng rau mùi (ngò rí) nhưng lại tăng thêm hành lá—một loại rau quen thuộc với người Đài Loan.
+### 2010-2020: Ngưỡng cửa bước vào dòng chính
 
-### 2010-2020: Chính thống hóa và tinh tế hóa
+Những năm 2010, hứng thú của xã hội Đài Loan đối với văn hóa Đông Nam Á ngày càng dày đặc, nhưng quán ăn vặt do dân cư mới mở muốn chinh phục khách Đài Loan không dễ dàng. Nghiên cứu năm 2020 của Khoa Quản trị Ăm thực Đại học Công nghệ Chánh Tu do Cục Di trú ủy thác chỉ ra: ẩm thực Đông Nam Á chung vị đậm, người Đài Loan phổ thông khó chấp nhận, nên khách của các quán ăn vặt này đa số vẫn là dân cư mới và người lao động nhập cư; ẩm thực Việt Nam nhẹ hơn các nước Đông Nam Á khác, mức độ chấp nhận tại Đài Loan cũng cao hơn ẩm thực Indonesia[^5].
 
-Thập niên 2010 là giai đoạn phát triển nhanh chóng của ẩm thực người nhập cư. Sự quan tâm ngày càng sâu sắc của xã hội Đài Loan đối với văn hóa Đông Nam Á, cùng với sự quảng bá của truyền thông mạng, đã đưa các món ăn này vào thị trường tiêu dùng chính thống.
+Việc biến món Thái thành chuỗi nhà hàng tại Đài Loan lại là con đường khác: Nhà hàng Vạc Thành thành lập năm 1990 bởi người Đài Loan Từ Thừa Nghĩa, mở nhà hàng đầu tiên "Vạc Thành Thái Quốc Liệu Lý"[^6], khác hẳn với các quán ăn gia đình của dân cư mới — đây là hai loại "món Thái của Đài Loan" khác biệt.
 
-Trong giai đoạn này, nhiều thương hiệu nhà hàng người nhập cư nổi tiếng đã xuất hiện. Phở Việt (越河Pho) phát triển mô hình nhượng quyền kinh doanh phở; dù là thương hiệu do người Đài Loan sáng lập, Thái Cung Thái (瓦城泰菜) lại sử dụng số lượng lớn đầu bếp gốc Thái để quảng bá ẩm thực Thái Lan chính tông; còn Cốc Hiang Đức Nam Dương (椰饗德南洋料理) tập trung vào các món ăn Malaysia và Singapore.
+Đồng thời, ẩm thực dân cư mới cũng bắt đầu xuất hiện xu hướng tinh tế hóa. Một số đầu bếp dân cư mới bắt đầu nhấn mạnh chất lượng nguyên liệu và thẩm mỹ trình bày, nâng tầm các món ăn vặt đường phố truyền thống thành món ăn nhà hàng tinh tế.
 
-Đồng thời, ẩm thực người nhập cư cũng bắt đầu có xu hướng tinh tế hóa. Một số đầu bếp người nhập cư bắt đầu nhấn mạnh chất lượng nguyên liệu và tính thẩm mỹ trong trình bày, nâng tầm các món ăn đường phố truyền thống thành những món ăn nhà hàng cao cấp.
+### 2020 đến nay: Hợp lưu đổi mới và nhận diện văn hóa
 
-### 2020 đến nay: Sáng tạo hòa quyện và nhận diện văn hóa
+Gần đây, ẩm thực dân cư mới Đài Loan phát triển ra diện mạo đa dạng và đổi mới hơn. Theo thống kê của nền tảng giao hàng foodpanda, năm 2025 doanh thu ẩm thực Đông Nam Á trên nền tảng vượt NT$7 tỷ, ẩm thực Thái Lan được ưa chuộng nhất, ba món hot top là thịt heo xé (đả bǎi zhū), phở kiểu Việt và cà ri xanh, nền tảng có gần ngàn cửa hàng của dân cư mới[^7]. Thế hệ thứ hai của dân cư mới (con cái dân cư mới) cũng bắt đầu tham gia truyền thừa và đổi mới văn hóa ẩm thực, dùng cách riêng để diễn giải món ăn quê hương của cha mẹ.
 
-Trong những năm gần đây, ẩm thực người nhập cư tại Đài Loan đã phát triển một bộ mặt đa dạng và sáng tạo hơn. Thế hệ thứ hai của người nhập cư (con cái của người nhập cư) bắt đầu tham gia vào việc kế thừa và đổi mới văn hóa ẩm thực; họ diễn giải các món ăn quê hương của cha mẹ bằng những cách thức đầy sáng tạo.
+Các món hợp lưu như "Phở Việt kiểu Đài", "Cơm thịt kho kiểu Thái", "Gà rán phong cách Indonesia" bắt đầu xuất hiện, những đổi mới này không còn bị xem là phản bội truyền thống, mà được coi là kết quả tự nhiên của sự hòa quyện văn hóa.
 
-Các món ăn kết hợp như “Phở Việt kiểu Đài Loan”, “Thịt kho Thái Lan”, hay “Gà rán vị Indonesia” bắt đầu xuất hiện, những sự sáng tạo này không còn bị coi là sự phản bội truyền thống mà được xem là kết quả tự nhiên của quá trình hòa quyện văn hóa.
+## Các loại và đặc điểm chính của ẩm thực dân cư mới
 
-## Các loại hình và đặc trưng chính của ẩm thực người nhập cư
+### Ẩm thực Việt Nam: Hương vị Nam Dương thanh mát, chua ngọt hài hòa
 
-### Ẩm thực Việt Nam: Phong cách nhiệt đới thanh mát chua ngọt
+Ẩm thực Việt Nam là một trong những ẩm thực dân cư mới phổ biến nhất tại Đài Loan. Đặc trưng của nó là hương vị thanh mát, cân bằng chua ngọt, sử dụng lượng lớn rau thơm tươi.
 
-Ẩm thực Việt Nam là một trong những món ăn người nhập cư phổ biến nhất tại Đài Loan. Đặc điểm của nó là hương vị tươi mát, cân bằng giữa chua và ngọt, sử dụng nhiều rau thơm tươi.
+**Phở (河粉)** là món đại diện của ẩm thực Việt Nam. Tại Đài Loan, phở Việt Nam đã trải qua quá trình địa phương hóa đáng kể:
 
-**Phở (Pho)** là đại diện tiêu biểu của ẩm thực Việt Nam. Tại Đài Loan, phở đã trải qua sự cải tạo bản địa hóa đáng kể:
+- **Điều chỉnh nước dùng**: Nước dùng xương bò vốn dĩ thanh nhạt, tại Đài Loan thường thêm nhiều gia vị hơn, khiến hương vị đậm đà hơn
+- **Địa phương hóa phụ gia**: Giá đỗ, hẹ và các loại rau dễ tìm ở Đài Loan thay thế một phần rau thơm vốn có của Việt Nam
+- **Lựa chọn thịt**: Thêm tùy chọn thịt heo mà người Đài Loan yêu thích, không chỉ giới hạn ở thịt bò truyền thống
 
-- **Điều chỉnh nước dùng**: Nước xương bò vốn thanh đạm ở quê nhà, tại Đài Loan thường được thêm nhiều gia vị hơn để làm hương vị đậm đà hơn.
-- **Bản địa hóa rau ăn kèm**: Các loại rau dễ kiếm như giá đậu, hành lá của Đài Loan đã thay thế một phần các loại rau thơm truyền thống của Việt Nam.
-- **Lựa chọn thịt**: Tăng cường lựa chọn thịt heo—một món mà người Đài Loan yêu thích—không chỉ giới hạn ở bò truyền thống.
+**Gỏi cuốn (春卷) Việt Nam** tại Đài Loan cũng khá phổ biến. Phiên bản Đài Loan của gỏi cuốn Việt Nam thường:
 
-**Bánh tráng cuốn (Gỏi cuốn)** cũng rất được ưa chuộng tại Đài Loan. Phiên bản của Đài Loan thường:
+- Tăng tỷ lệ xà lách và dưa leo nhỏ
+- Sử dụng tôm tươi và thịt heo xé sợi địa phương Đài Loan
+- Điều chỉnh nước chấm thành hương vị chua ngọt nhẹ nhàng hơn
 
-- Tăng tỷ lệ xà lách và dưa chuột.
-- Sử dụng tôm tươi và thịt heo thái sợi địa phương.
-- Điều chỉnh nước chấm thành vị chua ngọt dịu hơn.
+### Ẩm thực Thái Lan: Hương vị nhiệt đới nồng nàn, cay thơm
 
-**Nhà hàng tiêu biểu**: (Không có tên cụ thể được cung cấp)
+Ẩm thực Thái Lan nổi tiếng với hương vị cay thơm, trong quá trình phát triển tại Đài Loan, dần thích ứng với sở thích khẩu vị của người Đài Loan.
 
-### Ẩm thực Thái Lan: Hương vị nhiệt đới cay nồng đậm đà
+**Tom Yam (泰式酸辣湯)** là một trong những món Thái Lan phổ biến nhất:
 
-Ẩm thực Thái Lan nổi tiếng với sự cay nồng và đã dần thích nghi với sở thích khẩu vị của người Đài Loan trong quá trình phát triển.
+- **Điều chỉnh vị chua**: Giảm lượng lá chanh, tăng nước cốt chanh, làm vị chua mềm mại hơn
+- **Kiểm soát độ cay**: Cung cấp các mức độ cay khác nhau, đáp ứng nhu cầu đa dạng về độ cay của người Đài Loan
+- **Địa phương hóa hải sản**: Sử dụng tôm và mực địa phương Đài Loan, độ tươi cao hơn
 
-**Tom Yam (Canh chua cay)** là một trong những món ăn Thái Lan được yêu thích nhất:
+**Cà ri xanh (綠咖哩)** tại Đài Loan cũng trải qua cải tiến đổi mới:
 
-- **Điều chỉnh độ chua**: Giảm lượng lá chanh, tăng nước cốt chanh để làm vị chua dịu hơn.
-- **Kiểm soát độ cay**: Cung cấp các lựa chọn độ cay khác nhau để đáp ứng nhu cầu của người Đài Loan.
-- **Bản địa hóa hải sản**: Sử dụng tôm và mực bản địa của Đài Loan với độ tươi cao hơn.
+- Sử dụng cà tím và đậu que địa phương Đài Loan
+- Điều chỉnh độ đặc của nước cốt dừa, phù hợp với sở thích khẩu vị người Đài Loan
+- Ăn kèm cơm gạo Đài Loan, thay vì gạo thơm Thái Lan truyền thống
 
-**Cà ri xanh** cũng đã được cải tạo sáng tạo tại Đài Loan:
+**Pad Krapow Moo (打拋豬, 泰式炒豬肉)** là lựa chọn phổ biến trong món ăn đường phố:
 
-- Sử dụng cà tím và đậu cô ve địa phương.
-- Điều chỉnh độ sánh của nước cốt dừa để phù hợp với khẩu vị người Đài Loan.
-- Ăn kèm với gạo Tám Đài (Taiwan rice), thay vì gạo thơm truyền thống của Thái Lan.
+- Sử dụng thịt heo tươi (溫體豬) Đài Loan, thịt mềm hơn
+- Húng quế (九層塔) thay thế một phần húng láng Thái, phù hợp hơn với sở thích gia vị của người Đài Loan
+- Phụ gia thêm kim chi kiểu Đài Loan và trứng luộc ướp gia vị
 
-**Thịt heo xào kiểu Pad Krapow (打拋豬)** là một lựa chọn phổ biến trong ẩm thực đường phố:
+### Ẩm thực Indonesia: Hương vị quần đảo giàu gia vị
 
-- Sử dụng thịt heo nuôi ở nhiệt độ phòng của Đài Loan, thịt mềm hơn.
-- Thay thế một phần rau húng lủi Thái bằng rau thơm phù hợp với khẩu vị người Đài Loan.
-- Các món ăn kèm được bổ sung dưa muối kiểu Đài Loan và trứng kho.
+Đặc trưng của ẩm thực Indonesia là giàu gia vị, hương vị nhiều tầng. Tại Đài Loan, sự phát triển của ẩm thực Indonesia tương đối muộn, nhưng gần năm nay dần nhận được sự chú ý.
 
-**Nhà hàng tiêu biểu**: (Không có tên cụ thể được cung cấp)
+**Nasi Goreng (印尼炒飯)** là món Indonesia dễ được người Đài Loan chấp nhận nhất:
 
-### Ẩm thực Indonesia: Hương vị quần đảo phong phú gia vị
+- Sử dụng gạo dài địa phương Đài Loan, kết cấu phù hợp hơn với thói quen người Đài Loan
+- Gia vị thiên về mặn ngọt, độ cay nhẹ
+- Thêm xúc xích kiểu Đài Loan, trứng luộc ướp và các nguyên liệu địa phương khác
 
-Đặc điểm của ẩm thực Indonesia là sự phong phú về gia vị và độ phức tạp trong hương vị. Tại Đài Loan, ẩm thực Indonesia phát triển tương đối muộn nhưng gần đây đã thu hút sự chú ý.
+**Rendang (仁當咖哩)** sau khi được Taiwan hóa:
 
-**Cơm chiên (Nasi Goreng)** là món ăn Indonesia dễ được người Đài Loan chấp nhận nhất:
-
-- Sử dụng gạo dài bản địa của Đài Loan, kết cấu phù hợp với thói quen của người Đài Loan.
-- Gia vị nghiêng về ngọt mặn, độ cay dịu.
-- Thêm các nguyên liệu địa phương như xúc xích kiểu Đài Loan và trứng kho.
-
-**Rendang (仁當咖哩)** sau khi được bản địa hóa:
-
-- Điều chỉnh độ sánh của nước cốt dừa để không quá nặng nề.
-- Giảm lượng gia vị, phù hợp với khẩu vị người Đài Loan.
-- Ăn kèm với cơm trắng Đài Loan, thay vì cơm dừa truyền thống.
-
-**Nhà hàng tiêu biểu**: (Không có tên cụ thể được cung cấp)
+- Điều chỉnh độ đặc nước cốt dừa, không quá đậm đặc
+- Giảm lượng gia vị, thích ứng với khẩu vị người Đài Loan
+- Ăn kèm cơm trắng Đài Loan, thay vì cơm dừa truyền thống
 
 ### Ẩm thực Philippines: Hương vị đảo quốc chua ngọt khai vị
 
-Sự phát triển của ẩm thực Philippines tại Đài Loan tương đối nhỏ lẻ nhưng vẫn mang sức hấp dẫn độc đáo.
+Ẩm thực Philippines tại Đài Loan phát triển tương đối niche, nhưng vẫn có sức hút riêng.
 
-**Adobo (燉肉)** là món ăn quốc dân của Philippines:
+**Adobo (菲律賓燉肉)** là món ăn quốc dân của Philippines:
 
-- Sử dụng xì dầu và giấm Đài Loan, hương vị dịu hơn.
-- Thêm củ cải và khoai tây mà người Đài Loan yêu thích.
-- Ăn kèm với cơm trắng Đài Loan.
+- Sử dụng nước tương và giấm Đài Loan, hương vị nhẹ nhàng hơn
+- Thêm củ cải và khoai tây mà người Đài Loan yêu thích
+- Ăn kèm cơm trắng Đài Loan
 
-**Nhà hàng tiêu biểu**: (Không có tên cụ thể được cung cấp)
+## Đổi mới địa phương hóa ẩm thực dân cư mới
 
-## Sự sáng tạo bản địa hóa của ẩm thực người nhập cư
+### Thay thế địa phương hóa nguyên liệu
 
-### Thay thế nguyên liệu địa phương
+Các đầu bếp dân cư mới tại Đài Loan đối mặt với thử thách đầu tiên là việc 확보 nguyên liệu. Nhiều loại gia vị và rau củ quê hương không dễ dàng mua được tại Đài Loan, hoặc giá cả đắt đỏ. Do đó, họ đã phát huy sự sáng tạo phi thường, dùng nguyên liệu địa phương Đài Loan tạo ra những tổ hợp hương vị mới.
 
-Thách thức đầu tiên mà các đầu bếp người nhập cư phải đối mặt tại Đài Loan là việc tìm kiếm nguyên liệu. Nhiều loại gia vị và rau củ đặc trưng của quê nhà khó mua hoặc có giá cao ở Đài Loan. Vì vậy, họ đã phát huy sự sáng tạo đáng kinh ngạc để tạo ra những sự kết hợp hương vị mới bằng các nguyên liệu địa phương của Đài Loan.
+**Thay thế gia vị** :
 
-**Thay thế gia vị**:
+- Dùng bột tiêu Đài Loan thay thế một phần gia vị đặc trưng của Đông Nam Á
+- Dùng ớt Đài Loan thay thế ớt chỉ thiên của Thái Lan
 
-- Sử dụng bột tiêu Đài Loan thay thế một số gia vị đặc trưng của Đông Nam Á.
-- Sử dụng rau mùi (ngò rí) Đài Loan thay thế rau mùi (ngò rí) của Việt Nam (vị hơi khác).
-- Sử dụng ớt Đài Loan thay thế ớt hiểm Thái Lan.
+**Thay thế rau củ** :
 
-**Thay thế rau củ**:
+- Dùng hẹ Đài Loan thay thế hoa hẹ của Thái Lan
+- Dùng cà tím Đài Loan thay thế cà tím tròn của Thái Lan
 
-- Sử dụng xà lách Đài Loan thay thế xà lách Việt Nam.
-- Sử dụng hành lá Đài Loan thay thế hoa tỏi của Thái Lan.
-- Sử dụng cà tím Đài Loan thay thế cà tím tròn của Thái Lan.
+**Điều chỉnh thịt** :
 
-**Điều chỉnh thịt**:
+- Sử dụng thịt heo và thịt gà chất lượng cao của Đài Loan
+- Theo sở thích của người Đài Loan điều chỉnh lựa chọn bộ phận thịt
 
-- Sử dụng thịt heo và gà chất lượng cao của Đài Loan.
-- Điều chỉnh lựa chọn phần thịt dựa trên sở thích của người Đài Loan.
+### Điều chỉnh hương vị theo phong cách Đài Loan
 
-### Điều chỉnh hương vị theo kiểu Đài Loan
+Để thích ứng với sở thích khẩu vị người Đài Loan, món ăn dân cư mới đã điều chỉnh về độ cay, độ chua, độ ngọt.
 
-Để phù hợp với khẩu vị của người Đài Loan, ẩm thực người nhập cư đã được điều chỉnh về độ cay, độ chua và độ ngọt.
+**Điều chỉnh độ cay** :
+Người Đài Loan nói chung không ăn cay bằng người Đông Nam Á, do đó nhiều món ăn dân cư mới đều giảm độ cay, hoặc cung cấp lựa chọn nhiều mức độ cay.
 
-**Điều chỉnh độ cay**:
-Người Đài Loan nhìn chung không ăn cay bằng người Đông Nam Á, vì vậy nhiều món ăn người nhập cư đều giảm độ cay hoặc cung cấp các lựa chọn độ cay khác nhau.
+**Tăng độ ngọt** :
+Người Đài Loan ưa chuộng vị ngọt, do đó nhiều món ăn dân cư mới đều tăng độ ngọt. Phở xào kiểu Thái thêm nhiều đường hơn; nước dùng phở Việt Nam cũng hơi ngọt.
 
-**Tăng độ ngọt**:
-Người Đài Loan ưa chuộng vị ngọt, do đó nhiều món ăn người nhập cư đã tăng thêm độ ngọt. Mì xào kiểu Thái sẽ được thêm nhiều đường; nước dùng phở Việt cũng có vị hơi ngọt.
+**Điều chỉnh độ mặn** :
+Giảm dùng nước mắm và các gia vị có vị hải sản nồng nàn, tăng tỷ lệ nước tương mà người Đài Loan quen thuộc.
 
-**Điều chỉnh độ mặn**:
-Giảm sử dụng các loại gia vị có mùi hải sản mạnh như nước mắm, và tăng tỷ lệ xì dầu quen thuộc với người Đài Loan.
+### Sự dung hợp kỹ thuật nấu nướng
 
-### Hòa quyện kỹ thuật nấu nướng
+Các đầu bếp dân cư mới cũng đã融合 kỹ thuật nấu nướng của Đài Loan vào món ăn của mình.
 
-Các đầu bếp người nhập cư cũng đã tích hợp các kỹ thuật nấu nướng của Đài Loan vào món ăn của mình.
+**Kỹ thuật xào nhanh** :
+Nhiều món Đông Nam Á ban đầu cần kho lâu, nhưng trong nhịp sống nhanh của Đài Loan, các đầu bếp dân cư mới học会 dùng phương pháp xào nhanh kiểu Đài, rút ngắn thời gian nấu nướng.
 
-**Kỹ thuật xào nhanh**:
-Nhiều món ăn Đông Nam Á ban đầu cần thời gian hầm lâu, nhưng trong nhịp sống nhanh của Đài Loan, các đầu bếp người nhập cư đã học cách sử dụng phương pháp xào nhanh kiểu Đài Loan để rút ngắn thời gian nấu nướng.
+**Kỹ thuật kho** :
+Kỹ thuật kho của Đài Loan được ứng dụng vào ẩm thực Đông Nam Á, tạo ra các món đổi mới như "thịt kho kiểu Thái", "trứng kho kiểu Việt".
 
-**Kỹ thuật kho/hầm**:
-Kỹ thuật kho/hầm của Đài Loan được áp dụng vào ẩm thực Đông Nam Á, tạo ra các món sáng tạo như “Thịt heo kho kiểu Thái”, “Trứng kho kiểu Việt”.
+**Cải tiến kỹ thuật chiên** :
+Học kỹ thuật chiên của chợ đêm Đài Loan, làm cho các món chiên Đông Nam Á giòn rụm hơn.
 
-**Cải tiến chiên rán**:
-Học hỏi kỹ thuật chiên rán của chợ đêm Đài Loan để làm cho các món chiên của Đông Nam Á giòn hơn.
+## Món ăn sáng tạo dung hợp đa văn hóa
 
-## Các món ăn sáng tạo giao thoa văn hóa
+### Món dung hợp Đài - Việt
 
-### Món kết hợp Đài-Việt
+**Cơm thịt luộc kiểu Việt**:
+Kết hợp cơm thịt luộc kinh điển của Đài Loan với gia vị Việt Nam, sử dụng sả, bạc hà và các loại thảo mộc khác để ẩm thực, tạo ra phiên bản thanh mát của cơm thịt luộc.
 
-**Thịt kho kiểu Việt (越式滷肉飯)**:
-Kết hợp thịt kho truyền thống của Đài Loan với gia vị Việt Nam, sử dụng các loại rau thơm như sả, bạc hà để tạo ra một phiên bản thịt kho thanh mát.
+**Phở bò kiểu Việt**:
+Dùng kỹ thuật nấu nước dùng trong của phở Việt Nam để nấu mì bò Đài Loan, nước dùng thanh mát hơn, thêm ngò rí và giá đỗ.
 
-**Phở bò kiểu Việt (越式牛肉麵)**:
-Sử dụng kỹ thuật nấu nước dùng trong của phở Việt để chế biến mì bò Đài Loan; nước dùng trở nên thanh hơn và được thêm rau mùi và giá đậu Việt Nam.
+### Món dung hợp Đài - Thái
 
-### Món kết hợp Đài-Thái
+**Gà rán kiểu Thái**:
+Kết hợp gà rán chợ đêm Đài Loan với gia vị Thái Lan, ướp với sả, lá chanh và các gia vị Thái khác.
 
-**Gà rán kiểu Thái (泰式雞排)**:
-Kết hợp gà rán của chợ đêm Đài Loan với gia vị Thái Lan, sử dụng sả, lá chanh như các loại gia vị Thái khi ướp.
+**Bánh bao kẹp kiểu Thái**:
+Thay nhân bánh bao kẹp truyền thống Đài Loan bằng thịt heo nướng kiểu Thái, ăn kèm với đu đủ xé trộn kiểu Thái.
 
-**Bánh bao kiểu Thái (泰式刈包)**:
-Thay thế nhân bánh bao truyền thống của Đài Loan bằng thịt heo nướng kiểu Thái, ăn kèm với dưa gang trộn kiểu Thái.
+### Món dung hợp Đài - Ấn Độ
 
-### Món kết hợp Đài-Indonesia
-
-**Đậu phụ thối vị Indonesia (印尼風味臭豆腐)**:
-Sử dụng gia vị Indonesia để tẩm ướp đậu phụ thối của Đài Loan, tạo ra món “đậu phụ thối gia vị” độc đáo.
+**Đậu phụ chua hương vị Ấn Độ**:
+Ướp đậu phụ chua Đài Loan với gia vị Ấn Độ, tạo ra món "đậu phụ chua gia vị" độc đáo.
 
 **Gà rán cà ri**:
-Gà rán Đài Loan được rưới sốt cà ri hương vị Indonesia—một sáng tạo kết hợp hai thứ lại với nhau.
+Gà rán Đài Loan thêm sốt cà ri phong cách Ấn Độ, món ăn sáng tạo dung hợp Đông - Tây.
 
-## Ảnh hưởng văn hóa xã hội của ẩm thực người nhập cư
+## Tác động xã hội - văn hóa của ẩm thực dân cư mới
 
 ### Thay đổi thói quen ăn uống của người Đài Loan
 
-Sự phổ biến của ẩm thực người nhập cư dần thay đổi thói quen và sở thích khẩu vị của người Đài Loan.
+Sự phổ biến của ẩm thực dân cư mới đã dần thay đổi thói quen ăn uống và sở thích vị giác của người Đài Loan.
 
-**Tăng khả năng tiếp nhận gia vị**:
-Ngày càng nhiều người Đài Loan chấp nhận và yêu thích các loại gia vị Đông Nam Á như rau thơm, sả, lá chanh.
+**Độ chấp nhận gia vị tăng cao**:
+Ngày càng nhiều người Đài Loan bắt đầu chấp nhận và yêu thích các gia vị Đông Nam Á như rau thơm, sả, lá chanh.
 
-**Phổ biến hương vị chua cay**:
-Các món ăn có vị chua cay như Tom Yam Thái hay phở chua cay Việt đã trở thành "ngôi sao mới" của nhiều người Đài Loan.
+**Vị chua cay phổ biến**:
+Các món ăn vị chua cay như canh chua cay Thái Lan, phở chua cay Việt Nam đã trở thành món ăn yêu thích mới của nhiều người Đài Loan.
 
-**Quan niệm ăn uống lành mạnh**:
-Ẩm thực Đông Nam Á sử dụng rất nhiều rau tươi và rau thơm, thúc đẩy sự quan tâm của người Đài Loan đối với lối sống lành mạnh.
+**Khái niệm ăn uống lành mạnh**:
+Ẩm thực Đông Nam Á sử dụng lượng lớn rau củ tươi và rau thơm, thúc đẩy sự quan tâm của người Đài Loan đối với chế độ ăn uống lành mạnh.
 
 ### Thúc đẩy sự hiểu biết đa văn hóa
 
-Ẩm thực người nhập cư là một cửa sổ quan trọng để xã hội Đài Loan tìm hiểu về văn hóa Đông Nam Á.
+Ẩm thực dân cư mới trở thành cửa sổ quan trọng để xã hội Đài Loan hiểu về văn hóa Đông Nam Á.
 
-**Giao lưu văn hóa**:
-Thông qua việc thưởng thức ẩm thực người nhập cư, người Đài Loan có được sự hiểu biết và nhận thức sâu sắc hơn về văn hóa Đông Nam Á.
+**Trao đổi văn hóa**:
+Thông qua việc thưởng thức các món ăn của dân cư mới, người Đài Loan có sự hiểu biết sâu sắc hơn về văn hóa Đông Nam Á.
 
 **Xóa bỏ định kiến**:
-Sức hấp dẫn của ẩm thực giúp xóa bỏ một số thành kiến văn hóa, thúc đẩy sự thấu hiểu và hòa hợp giữa các nhóm dân tộc khác nhau.
+Sức hút của ẩm thực giúp xóa bỏ một số định kiến văn hóa, thúc đẩy sự hiểu biết và hòa nhập giữa các nhóm dân tộc khác nhau.
 
 **Học ngôn ngữ**:
-Nhiều người Đài Loan vì yêu thích ẩm thực người nhập cư mà bắt đầu học tiếng Việt, tiếng Thái đơn giản.
+Nhiều người Đài Loan vì yêu thích món ăn của dân cư mới mà bắt đầu học tiếng Việt, tiếng Thái đơn giản.
 
-### Ảnh hưởng kinh tế
+### Tác động kinh tế
 
-Sự phát triển của ngành công nghiệp ẩm thực người nhập cư cũng mang lại những ảnh hưởng kinh tế quan trọng.
+Sự phát triển của ngành ẩm thực dân cư mới cũng mang lại những tác động kinh tế quan trọng.
 
 **Cơ hội việc làm**:
-Các nhà hàng ẩm thực người nhập cư cung cấp cơ hội việc làm quan trọng cho người nhập cư và đào tạo nhân tài trong ngành liên quan.
+Các nhà hàng ẩm thực dân cư mới cung cấp cơ hội việc làm quan trọng cho dân cư mới. Tống Thị Mai sinh ra tại Hà Nội, sau khi tốt nghiệp trung học đến Đài Loan làm việc, gặp chồng và kết hôn định cư. Món bún Hà Nội mà cha cô bồng khi nhỏ mang đi ăn, cô không tìm thấy được ở khắp các ngõ ngách Đài Loan. Cô mở một quán ăn nhỏ cũ kỹ tại Liễu Doanh, Đỉnh Hạ, Đài Nam để bán bún Hà Nội, ban đầu lò gas rò rỉ, tủ lạnh hỏng, dù món ăn ngon đến đâu cũng không giữ được khách. Năm 2019, cô được tuyển vào Chương trình «Kiến mơ cho dân cư mới và con cái họ» đợt thứ 5 của Cục Di trú, dùng kinh phí hỗ trợ cải thiện thiết bị cửa hàng, tăng thiết phòng học nấu ăn, và cũng nhận được thư mời làm giáo viên tiếng Việt tại một trường trung học tư thục ở Đài Nam[^8].
 
 **Hiệu quả du lịch**:
-Ẩm thực người nhập cư độc đáo trở thành điểm nhấn mới của du lịch Đài Loan, thu hút khách quốc tế đến thưởng thức.
+Ẩm thực dân cư mới độc đáo trở thành điểm sáng mới của du lịch Đài Loan, thu hút du khách quốc tế đến thưởng thức.
 
 **Thương mại xuất nhập khẩu**:
-Nhu cầu về ẩm thực người nhập cư đã thúc đẩy hoạt động thương mại nhập khẩu các nguyên liệu và gia vị Đông Nam Á.
+Nhu cầu ẩm thực dân cư mới đã thúc đẩy thương mại nhập khẩu nguyên liệu và gia vị từ Đông Nam Á.
 
-## Sự kế thừa và sáng tạo văn hóa của thế hệ thứ hai người nhập cư
+## Truyền thừa và đổi mới văn hóa của thế hệ thứ hai dân cư mới
 
-### Tính phức tạp của bản sắc văn hóa
+### Sự phức tạp của nhận diện văn hóa
 
-Thế hệ thứ hai người nhập cư (con cái của người nhập cư) phải đối mặt với những lựa chọn phức tạp về nhận diện văn hóa. Họ vừa là người Đài Loan, vừa kế thừa dòng máu văn hóa từ quê hương của mẹ. Trong lĩnh vực ẩm thực, sự tự nhận dạng phức tạp này đã tạo ra nhiều sự đổi mới.
+Thế hệ thứ hai của dân cư mới (con cái của dân cư mới) đối mặt với những lựa chọn phức tạp về nhận diện văn hóa. Họ vừa là người Đài Loan, vừa thừa hưởng huyết thống văn hóa quê hương của mẹ. Trong văn hóa ẩm thực, sự phức tạp về nhận diện bản sắc này đã催生了 (sinh ra/khiến nảy sinh) nhiều đổi mới.
 
-**Lợi thế ngôn ngữ**:
-Thế hệ thứ hai người nhập cư thường có thể nói tiếng Trung và tiếng mẹ đẻ của mẹ một cách trôi chảy, mang lại lợi thế giao tiếp độc đáo khi điều hành các nhà hàng người nhập cư.
+**Ưu thế ngôn ngữ**:
+Thế hệ thứ hai dân cư mới thường có thể nói tiếng Trung thành thạo và tiếng mẹ đẻ của mẹ, do đó có ưu thế giao tiếp độc đáo khi kinh doanh nhà hàng của dân cư mới.
 
 **Tư duy sáng tạo**:
-Thế hệ thứ hai người nhập cư lớn lên trong môi trường đa văn hóa thường có tư duy cởi mở hơn trong việc đổi mới món ăn.
+Được lớn lên trong môi trường đa văn hóa, thế hệ thứ hai dân cư mới trong việc đổi mới món ăn thường có tư duy cởi mở hơn.
 
-### Thế hệ mới của ẩm thực sáng tạo
+### Phổ biến giáo dục văn hóa
 
-**Nhà hàng kết hợp Việt-Đài của cô Lâm (林小姐)**:
-Cô Lâm, con gái của người nhập cư Việt Nam, đã mở một nhà hàng kết hợp Việt-Đài tại Đài Bắc. Cô kết hợp văn hóa chợ đêm Đài Loan với các món ăn đường phố Việt Nam để tạo ra các món sáng tạo như “Bánh mặn kiểu Việt”, “Gỏi cuốn kiểu Đài Loan”.
+Nhiều người thế hệ thứ hai dân cư mới bắt đầu gánh vác trách nhiệm giáo dục văn hóa, thông qua các khóa học nấu ăn, hoạt động văn hóa等方式 (cách thức), phổ biến văn hóa ẩm thực Đông Nam Á.
 
-**Quán cà phê sáng Thái của A Minh (阿明)**:
-A Minh, con trai của người nhập cư Thái Lan, kết hợp ẩm thực Thái với văn hóa bữa sáng Đài Loan, giới thiệu các món ăn sáng kết hợp như “Bánh kếp Thái”, “Sữa đậu nành sả”.
-
-### Quảng bá giáo dục văn hóa
-
-Nhiều thế hệ thứ hai người nhập cư đã bắt đầu gánh vác trách nhiệm giáo dục văn hóa, quảng bá văn hóa ẩm thực Đông Nam Á thông qua các lớp học nấu ăn và hoạt động văn hóa.
-
-**Giảng dạy món ăn**:
-Mở các khóa học ẩm thực Đông Nam Á, dạy người Đài Loan cách làm các món ăn Đông Nam Á chính tông.
+**Giảng dạy nấu ăn**:
+Mở các khóa học nấu ăn Đông Nam Á, dạy người Đài Loan làm món Đông Nam Á chính hiệu.
 
 **Hoạt động văn hóa**:
-Tham gia các hoạt động đa văn hóa của trường học và cộng đồng, quảng bá văn hóa quê hương của mẹ thông qua trưng bày ẩm thực.
+Tham gia các hoạt động đa văn hóa của trường học và cộng đồng, phổ biến văn hóa quê hương của mẹ thông qua trình bày ẩm thực.
 
-## Thách thức và triển vọng tương lai
+## Thách thức đối mặt và triển vọng tương lai
 
-### Những thách thức chính
+### Thách thức chính
 
 **Chuỗi cung ứng nguyên liệu**:
-Nhiều nguyên liệu đặc trưng của Đông Nam Á vẫn phải phụ thuộc vào nhập khẩu, chi phí cao, ảnh hưởng đến khả năng cạnh tranh về giá của món ăn.
+Nhiều nguyên liệu đặc trưng Đông Nam Á vẫn phải phụ thuộc vào nhập khẩu, chi phí cao, ảnh hưởng đến khả năng cạnh tranh về giá của các món ăn.
 
-**Truyền nghề kỹ năng**:
-Một số kỹ thuật chế biến truyền thống có nguy cơ bị thất truyền và cần cơ chế kế thừa có hệ thống.
+**Truyền thừa kỹ năng**:
+Một số kỹ thuật chế biến truyền thống đối mặt với nguy cơ mất truyền, cần có cơ chế truyền thừa có hệ thống.
 
-**Mức độ chấp nhận thị trường**:
-Mặc dù ẩm thực người nhập cư đã được ưa chuộng, nhưng ở một số khu vực hoặc nhóm tuổi, mức độ tiếp nhận vẫn cần được nâng cao.
+**Độ chấp nhận của thị trường**:
+Mặc dù ẩm thực của dân cư mới đã được đón nhận rộng rãi, nhưng ở một số khu vực hoặc nhóm tuổi, độ chấp nhận vẫn còn cần nâng cao.
 
 **Áp lực thương mại hóa**:
-Việc thay đổi quá nhiều hương vị truyền thống để đáp ứng nhu cầu thị trường có thể làm mất đi đặc trưng văn hóa ban đầu.
+Vì quá thay đổi hương vị truyền thống để迎合 nhu cầu thị trường, có thể làm mất đi đặc trưng văn hóa ban đầu.
 
 ### Cơ hội phát triển
 
-**Sự hỗ trợ của chính sách**:
-Các chính sách ủng hộ đa văn hóa của chính phủ đã tạo ra một môi trường tốt cho sự phát triển của ẩm thực người nhập cư.
+**Hỗ trợ chính sách**:
+Các chính sách hỗ trợ đa văn hóa của chính phủ đã tạo ra môi trường tốt cho sự phát triển của ẩm thực dân cư mới.
 
-**Mức độ chấp nhận cao của giới trẻ**:
-Thế hệ trẻ có mức độ tiếp nhận cao đối với các món ăn ngoại quốc, cung cấp một thị trường rộng lớn cho ẩm thực người nhập cư.
+**Độ chấp nhận cao của thế hệ trẻ**:
+Thế hệ trẻ có độ chấp nhận cao đối với ẩm thực nước ngoài, tạo ra không gian thị trường rộng lớn cho ẩm thực dân cư mới.
 
-**Kết hợp ngành du lịch**:
-Ẩm thực người nhập cư có thể được tích hợp sâu sắc vào ngành du lịch Đài Loan, trở thành nội dung quan trọng của du lịch văn hóa.
+**Kết hợp với ngành du lịch**:
+Ẩm thực dân cư mới có thể kết hợp sâu rộng với ngành du lịch của Đài Loan, trở thành nội dung quan trọng của du lịch văn hóa.
 
-**Xu hướng toàn cầu hóa**:
-Với sự phát triển của toàn cầu hóa, Đài Loan với tư cách là căn cứ hòa quyện ẩm thực Đông Nam Á có tiềm năng xuất khẩu sang các quốc gia khác.
+**Xu hướng quốc tế hóa**:
+Theo sự phát triển của toàn cầu hóa, Đài Loan với vai trò là cơ sở dung hợp ẩm thực Đông Nam Á, có tiềm năng xuất khẩu sang các quốc gia khác.
 
 ### Triển vọng tương lai
 
-**Phát triển chuyên nghiệp**:
-Trong tương lai sẽ có nhiều nhà hàng người nhập cư chuyên nghiệp hơn, cung cấp dịch vụ tinh tế và hương vị chính tông hơn.
+**Phát triển chuyên nghiệp hóa**:
+Tương lai sẽ xuất hiện nhiều nhà hàng ẩm thực dân cư mới chuyên nghiệp hơn, cung cấp dịch vụ tinh tế hơn và hương vị chính hiệu hơn.
 
-**Hoạt động nhượng quyền thương mại**:
-Một số thương hiệu nhà hàng người nhập cư thành công sẽ phát triển mô hình nhượng quyền, mở rộng ảnh hưởng thị trường.
+**Mô hình chuỗi**:
+Một số thương hiệu nhà hàng dân cư mới thành công sẽ phát triển mô hình chuỗi, mở rộng ảnh hưởng thị trường.
 
 **Bản địa hóa nguyên liệu**:
-Khi nhu cầu tăng lên, một số rau và gia vị Đông Nam Á sẽ được trồng tại Đài Loan, giảm chi phí.
+Theo sự tăng trưởng của nhu cầu, một số loại rau và gia vị Đông Nam Á sẽ được trồng tại địa phương Đài Loan, giảm chi phí.
 
 **Chức năng giáo dục văn hóa**:
-Các nhà hàng người nhập cư sẽ đảm nhận nhiều chức năng giáo dục văn hóa hơn, trở thành nơi giao lưu đa văn hóa quan trọng.
+Các nhà hàng dân cư mới sẽ đảm nhận thêm chức năng giáo dục văn hóa, trở thành địa điểm quan trọng cho trao đổi đa văn hóa.
 
-**Món ăn sáng tạo hòa quyện**:
-Thế hệ thứ hai người nhập cư sẽ tạo ra nhiều món ăn kết hợp Đông Nam Á mang đậm dấu ấn Đài Loan, hình thành nên một "Ẩm thực Đông Nam Á kiểu Đài Loan" độc đáo.
+**Ẩm thực dung hợp sáng tạo**:
+Thế hệ hai của dân cư mới sẽ sáng tạo ra nhiều món ăn dung hợp Đông Nam Á mang đặc trưng Đài Loan hơn, hình thành "ẩm thực Đông Nam Á hương vị Đài Loan" độc đáo.
 
-## Kết luận: Sự hòa quyện văn hóa của vị giác
+## Lời kết: Sự dung hợp văn hóa qua vị giác
 
-Sự phát triển của ẩm thực người nhập cư tại Đài Loan là một câu chuyện cảm động về sự hòa quyện và sáng tạo văn hóa. Nó cho chúng ta thấy rằng, sự kế thừa văn hóa không phải là sự sao chép tĩnh tại, mà là sự thích ứng sáng tạo trong môi trường mới.
+Sự phát triển ẩm thực của dân cư mới tại Đài Loan là một câu chuyện cảm động về sự dung hợp và đổi mới văn hóa. Nó cho chúng ta thấy, sự truyền thừa văn hóa không phải là sự sao chép tĩnh tại, mà là sự thích ứng sáng tạo trong môi trường mới.
 
-Khi chị gái Việt Nam dùng rau cải thảo của Đài Loan để gói bánh tráng cuốn ngọt hơn, khi cô dâu Thái Lan dùng thịt heo Đài Loan làm món Pad Krapow dịu hơn, và khi chị Indonesia dùng ớt Đài Loan để làm cà ri phù hợp với người bản địa hơn, họ không phải đang phản bội truyền thống quê hương mà đang tạo ra một truyền thống mới thuộc về Đài Loan.
+Khi các chị em Việt Nam dùng cải bắp Đài Loan cuốn ra những chiếc nem rán ngọt ngào hơn, khi các cô dâu Thái Lan dùng thịt heo Đài Loan làm ra món thịt heo quay nhẹ nhàng hơn, khi các chị Indonesia dùng ớt Đài Loan nấu ra món cà ri phù hợp hơn với khẩu vị người địa phương,她们 không phải đang phản bội truyền thống quê hương, mà đang tạo ra những truyền thống mới thuộc về Đài Loan.
 
-Sự hòa quyện này là hai chiều. Trong khi người Đài Loan tiếp nhận ẩm thực người nhập cư, họ cũng đang thay đổi văn hóa ăn uống của mình. Món ăn Đài Loan ngày nay không còn giống món ăn 20 năm trước. Nó trở nên đa dạng hơn, phong phú hơn và quốc tế hơn.
+Sự dung hợp này là hai chiều. Người Đài Loan trong khi tiếp nhận ẩm thực của dân cư mới, cũng đang thay đổi văn hóa ẩm thực của chính mình. Ẩm thực Đài Loan ngày nay đã không còn là ẩm thực Đài Loan của 20 năm trước. Nó trở nên đa dạng hơn, phong phú hơn, quốc tế hóa hơn.
 
-Sự phát triển của ẩm thực người nhập cư tại Đài Loan thể hiện tính bao dung và sức sáng tạo của xã hội Đài Loan. Nó chứng minh rằng sự giao lưu giữa các nền văn hóa không phải là trò chơi có tổng bằng không, mà có thể tạo ra kết quả tốt đẹp "1+1>2".
+Sự phát triển ẩm thực dân cư mới tại Đài Loan thể hiện tính bao dung và sự sáng tạo của xã hội Đài Loan. Nó chứng minh rằng giao lưu giữa các văn hóa khác nhau không phải là trò chơi tổng bằng không, mà có thể tạo ra kết quả đẹp đẽ mà «1+1>2».
 
-Trong tương lai, với sự trưởng thành của nhiều thế hệ thứ hai người nhập cư và sự xuất hiện của nhiều món ăn sáng tạo hơn, văn hóa ẩm thực người nhập cư tại Đài Loan sẽ tiếp tục phát triển và tiến hóa. Nó sẽ trở thành một biểu tượng quan trọng của sự đa dạng văn hóa Đài Loan và mang lại thêm màu sắc cũng như tiềm năng cho nền văn hóa ẩm thực của hòn đảo.
+Tương lai, cùng với việc nhiều thế hệ thứ hai của dân cư mới trưởng thành và nhiều món ăn sáng tạo hơn xuất hiện, văn hóa ẩm thực dân cư mới của Đài Loan sẽ tiếp tục phát triển và diễn tiến. Nó sẽ trở thành biểu tượng quan trọng của đa văn hóa Đài Loan, và sẽ为 ẩm thực Đài Loan thêm nhiều màu sắc và khả năng hơn.
 
-Trong thời đại toàn cầu hóa này, câu chuyện về ẩm thực người nhập cư tại Đài Loan cũng cung cấp một ví dụ thành công về hòa quyện văn hóa cho các quốc gia khác. Nó dạy chúng ta rằng, thái độ cởi mở và tinh thần sáng tạo có thể giúp các nền văn hóa nở rộ những bông hoa tươi đẹp hơn trên mảnh đất mới.
+Trong kỷ nguyên toàn cầu hóa này, câu chuyện ẩm thực dân cư mới của Đài Loan cũng cung cấp cho các quốc gia khác một ví dụ thành công về sự dung hợp văn hóa. Nó cho chúng ta thấy, thái độ cởi mở và tinh thần đổi mới có thể để các nền văn hóa khác nhau nở rộ những đóa hoa đẹp đẽ hơn trên đất mới.
 
 ---
 
 ## Đọc thêm
 
-## Đọc thêm
+- [Ẩm thực khu định cư quân nhân (眷村) Đài Loan](/vi/food/military-dependents-village-cuisine) — Mì khô và hương vị Điền-Miến tại chợ Trung Trinh, là di sản mang đến bởi một đợt di cư khác đến Đài Loan sau chiến tranh
+- [Di trú quốc tế](/vi/society/migrant-workers-in-taiwan) — Khu thương mại Đông Nam Á quanh ga hậu Toa Yên và ga Đài Bắc, chủ yếu phục vụ khách là người lao động di trú
+- [Các nhóm dân tộc Đài Loan](/vi/culture/ethnic-groups) — Vị trí của dân cư mới trong bản đồ các nhóm dân tộc Đài Loan
 
-1. Số liệu thống kê người nhập cư của Nội chính bộ
-2. Báo cáo khảo sát nhà hàng ẩm thực Đông Nam Á tại Đài Loan
-3. Tuyển tập luận văn nghiên cứu về văn hóa ẩm thực người nhập cư
-4. Tài liệu phỏng vấn các cộng đồng người nhập cư
-5. Nghiên cứu nhận diện văn hóa thế hệ thứ hai người nhập cư
+## Tài liệu tham khảo
 
 ## Nguồn hình ảnh
 
-- Hero: Phở Việt Nam, chụp bởi Tayzar44, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pho,_popular_Vietnamese_noodle_soup.jpg), CC BY 4.0.
+- Hero: Phở Việt Nam, ảnh bởi Tayzar44, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pho,_popular_Vietnamese_noodle_soup.jpg), CC BY 4.0.
+
+[^1]: [Khu An Kang, Mộc Trạch: Nơi tập trung lớn nhất của Hoa kiều Việt Nam, hội tụ hai thế hệ người di cư Việt Nam](https://news.pts.org.tw/article/759911) — PTS News, ngày 8 tháng 7 năm 2025; khu định cư Hoa kiều Việt Nam thập niên 1980 tại An Kang, 'phố Việt Nam' đường Mộc Trạch, quán mì của Tần Thi Bình
+
+[^2]: [Báo cáo nghiên cứu về người di cư kết hôn do Cục Di trú Bộ Nội vụ thu thập (Chương 1: Khái luận)](https://ifi.immigration.gov.tw/wSite/public/Data/f1595471755452.pdf) — Trích dẫn thống kê Cục Di trú: Tỷ lệ hôn nhân xuyên quốc gia năm 2003 là 31,86%; cuối tháng 5 năm 2012 có hơn 130.000 nữ di cư mới từ Đông Nam Á, trong đó người Việt Nam chiếm 66,29%
+
+[^3]: [Trung Trinh Tân Thôn](https://zh.wikipedia.org/zh-tw/忠貞新村) — Wikipedia; năm 1954 xây dựng cho gia đình Quân Cứu quốc Phản cộng Vân Nam rút về Đài Loan, gia đình đa số từ Vân Nam, Thái, Miến, đầu năm 2005 bị tháo dỡ
+
+[^4]: [Đội thám hiểm ẩm thực nhỏ Mi: Tôi gặp ẩm thực Đông Nam Á trên đường Yên Bình, Taoyuan](https://newtalk.tw/plan/view/281) — Kế hoạch đặc biệt của Newtalk; các quán phở Việt Nam và cửa hàng Đông Nam Á trên đường Yên Bình sau ga Taoyuan, khách hàng chủ yếu là người lao động Việt Nam
+
+[^5]: [Nghiên cứu về ẩm thực đa văn hóa và khởi nghiệp quy mô nhỏ của dân cư mới](https://www.immigration.gov.tw/media/99111/f1620973076749.pdf) — Khoa Quản trị ẩm thực Đại học Công nghệ Chỉnh Hiệu (Chủ nhiệm nghiên cứu Vương Bảo Tịch), báo cáo nghiên cứu tài trợ Quỹ phát triển dân cư mới, tháng 12 năm 2020
+
+[^6]: [Tập đoàn Vạc Thành Thái Thống](https://zh.wikipedia.org/zh-tw/瓦城泰統集團) — Wikipedia; thành lập năm 1990 bởi Từ Thừa Nghĩa và các cộng sự, cùng năm khai trương nhà hàng Thái Lan Vạc Thành đầu tiên
+
+[^7]: [foodpanda công bố bản đồ ẩm thực mới nhất Đài Loan: Doanh thu ẩm thực Đông Nam Á vượt 7 tỷ, phở heo xé cà ri xanh đoạt giải nhất](https://www.foodnext.net/news/industry/paper/6731134852) — Shí Lì foodNEXT; thống kê foodpanda năm 2025 và số lượng cửa hàng dân cư mới trên nền tảng
+
+[^8]: [Gửi nỗi nhớ cha vào món ăn quê hương: Kế hoạch Kiến Mơ của Cục Di trú giúp dân cư mới thực hiện ước mơ](https://www.taiwannews.com.tw/zh/news/3661365) — Taiwan News, ngày 19 tháng 3 năm 2019; quán mì xào Hà Nội của Tống Thị Mai tại Liuying, Tainan
