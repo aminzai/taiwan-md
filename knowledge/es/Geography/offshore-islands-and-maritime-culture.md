@@ -1,20 +1,20 @@
 ---
-title: 'Islas periféricas y cultura marítima: de la mayor densidad mundial de almadrabas de piedra a la ecología legal de la temporada del pez volador'
-description: 'En el mundo hay menos de 600 almadrabas de piedra; solo en Penghu hay 574. Un pueblo isleño dedicado a la pesca del pez volador convirtió sus tabúes en el sistema de gestión de recursos marinos más sofisticado del planeta'
+title: 'Islas periféricas y cultura marina: de los corrales de piedra de Penghu a la temporada del pez volador de Lanyu'
+description: 'Aproximadamente el 95 % de los corrales de piedra del mundo se concentran en Penghu, donde el censo de 2008-2009 registró 592 unidades. En la temporada del pez volador de los tao de Lanyu, parte de los tabúes funciona inadvertidamente como veda para los peces de arrecife en plena freza. De Penghu y Lanyu a Kinmen, Matsu, Xiaoliuqiu y Lüdao, las islas periféricas de Taiwán han inscrito tres siglos de vida marina en piedra, barcos y tabúes.'
 date: 2026-03-22
 category: 'Geography'
 tags:
   [
-    'Islas periféricas',
-    'Cultura marítima',
+    'islas periféricas',
+    'cultura marina',
     'Penghu',
     'Kinmen',
     'Matsu',
-    'Isla Verde',
-    'Orchid Island (Lanyu)',
-    'Isla Liuqiu',
-    'Almadrabas de piedra',
-    'Temporada del pez volador',
+    'Lüdao',
+    'Lanyu',
+    'Xiaoliuqiu',
+    'corrales de piedra',
+    'temporada del pez volador',
   ]
 subcategory: '島嶼與海洋'
 author: 'Taiwan.md'
@@ -23,227 +23,246 @@ featured: true
 lastVerified: 2026-03-22
 lastHumanReview: false
 translatedFrom: 'Geography/離島與海洋文化.md'
-sourceCommitSha: '217edf31a'
-sourceContentHash: 'sha256:61916e4f91798262'
-sourceBodyHash: 'sha256:b069d77bfe98ff54'
-translatedAt: '2026-08-05T17:12:17.519846+00:00'
+sourceCommitSha: '7ad70728d'
+sourceContentHash: 'sha256:3c540cfd32577b2a'
+sourceBodyHash: 'sha256:6adfa5c6ea8f6a2d'
+translatedAt: '2026-10-04T00:51:58+08:00'
 ---
 
-> **Panorama en 30 segundos:** En el mundo hay menos de 600 almadrabas de piedra (trampas pesqueras ancestrales); solo en Penghu hay más de 574, una densidad que podría considerarse la más alta del planeta. En Orchid Island (Lanyu), el pueblo tao convirtió los "tabúes" de la temporada del pez volador en el sistema de gestión de recursos marinos más sofisticado del mundo: no es superstición, es ciencia. Estas islas periféricas no son la periferia de Taiwán; son un museo de sabiduría oceánica humana.
+> **Resumen en 30 segundos:** Aproximadamente el 95 % de los corrales de piedra (antiguas trampas de pesca intermareales) del mundo se concentran en Penghu, donde el censo de 2008-2009 registró 592 unidades. En Lanyu, la temporada del pez volador de los tao incluye todo un sistema de tabúes; los investigadores han descubierto que algunos tienen efectos de gestión de recursos, por ejemplo, la prohibición de capturar peces de arrecife durante la temporada del pez volador, que coincide con el periodo de freza de estos, otorgándoles un reposo biológico. Estas islas no son meras periferias de Taiwán: son museos vivos de la sabiduría marina humana.
 
-En 1950, el valor de la captura de las almadrabas representaba el 77 % de la pesca total del condado de Penghu. Era una época sin embarcaciones de motor, y estos "laberintos marinos" construidos en seco con roca basáltica y coral eran la columna vertebral económica de todo el archipiélado.
+En 1950, los corrales de piedra representaban el 77 % del valor de la captura pesquera de todo el condado de Penghu[^1]. Era una época sin barcos de motor; estos «laberintos en el mar», construidos en seco con basalto y arrecifes de coral, eran la arteria económica de todo el archipiélago.
 
-Existía un refrán: «Quien tiene almadraba tiene casa, y quien tiene casa tiene esposa». Sin almadraba no había sustento, y sin sustento no se podía formar una familia. Las almadrabas, al igual que los campos y las viviendas, tenían carácter de bien inmueble: podían darse en prenda, hipotecarse, comprarse y venderse, e incluso servir como objeto de herencia en la repartición familiar. Una almadraba bien construida podía capturar en una sola marea cientos, e incluso miles, de kilos de pescado.
+En aquellos años de escasez, no tener corral de piedra equivalía a carecer de herramienta de trabajo, imposibilitando formar familia y ganarse la vida. Los corrales de piedra tenían la misma condición de bienes inmuebles que los campos y las casas: podían hipotecarse, empeñarse, comprarse, venderse e incluso servir de referencia en la partición de herencias, y eran el baremo para concertar matrimonios o alianzas. En las temporadas de abundancia, un corral bien construido podía capturar en una sola marea varios cientos de jin, e incluso más de mil jin de pescado[^1].
 
 > **📝 Nota del curador**
-> En cuanto a densidad mundial de almadrabas de piedra, Penghu ocupa sin duda el primer lugar. En 320 kilómetros de costa, descontando los puertos y las zonas de aguas profundas donde no es posible construir almadrabas, se distribuyen cerca de 600 estructuras. No es coincidencia: es la expresión máxima de tres siglos de coexistencia inteligente entre el ser humano y el océano.
+> Los 320 km de costa de Penghu, descontados los puertos y las zonas demasiado profundas para construir corrales, albergan casi 600 unidades[^1]. No es casualidad: es la expresión suprema de tres siglos de sabiduría simbiótica entre humanos y océano.
 
-## Las almadrabas de Penghu: tres siglos de arquitectura marítima
+## Corrales de piedra de Penghu: tres siglos de arquitectura marina
 
-### Una técnica pesquera más antigua que Wikipedia
+### Una tecnología pesquera más antigua que la Wikipedia
 
-La historia de las almadrabas es mucho más antigua de lo que imaginamos. El registro más antiguo de las almadrabas de Penghu aparece en el _Taiwan Fuzhi_ (Gazetteer of Taiwan Prefecture), compilado por Gao Gongqian en el trigésimo quinto año del reinado del emperador Kangxi (1696): «En Penghu hay… 2 almadrabas grandes y 20 pequeñas… sujetas a impuestos varios». Para el decimonoveno año del reinado de Guangxu (1893), el _Penghu Tingzhi_ (Gazetteer of Penghu) ya registraba «2 almadrabas grandes y 76 almadrabas pequeñas y media».
+La historia de los corrales de piedra es mucho más antigua de lo que imaginamos. El registro más temprano aparece en el _Taiwan Fu Zhi_ (Anales de la prefectura de Taiwán), compilado por Gao Gongqian en el año 35 de Kangxi (1696): «En Penghu hay […] 2 corrales grandes, 20 corrales pequeños […] pagan impuestos varios». En el _Penghu Ting Zhi_ (Anales de la subprefectura de Penghu) del año 19 de Guangxu (1893), la cifra subía a «2 corrales grandes, 76 corrales pequeños y medio».
 
-¿Qué significa "media"? Los documentos históricos no lo especifican con claridad, pero según investigaciones de campo, podría deberse a que ciertas almadrabas, dañadas por tifones o el oleaje, solo conservaban la mitad de su funcionalidad.
+¿Qué es «medio corral»? Las fuentes no lo explican[^1]; sigue siendo un enigma.
 
-**Lo más impresionante es el arco temporal.** La investigación completada en 1999 por el historiador local de Penghu, Hong Guoxiong, documentó un total de 558 almadrabas en todo el condado de Penghu; sumando las 16 omitidas e incorporadas posteriormente, el total supera las 574. El censo más reciente, de 2009, elevó la cifra a 592.
+**Aún más asombroso es el lapso temporal.** El estudio de terreno que el experto local Hong Guo-xiong completó en 1999 arrojó 558 corrales en todo el condado, más 16 omitidos y añadidos después, superando los 574. El nuevo censo de 2008-2009 en las zonas restantes elevó el total a 592; si se suman los que solo perduran en la memoria oral pero no dejan vestigios, Penghu podría superar los 600 corrales[^1].
 
-### Distribución mundial de almadrabas: la asombrosa densidad de Penghu
+### Distribución global de los corrales de piedra: la asombrosa densidad de Penghu
 
-La almadraba de piedra (_stone fish weir_) es una estructura de pesca ancestral de carácter mundial, presente en Japón, Corea del Sur, Filipinas, Tailandia, Australia, Hawái, e incluso en el Reino Unido y Estados Unidos. **Pero el número total de almadrabas en el mundo no alcanza las 600.**
+El corral de piedra (_stone fish weir_) es una estructura cinegética-pesquera antigua y cosmopolita, presente en Japón, Corea, Filipinas, Tailandia, Australia, Hawái e incluso Reino Unido y Estados Unidos. **Pero cerca del 95 % de los corrales de piedra del mundo se concentran en Penghu**[^2].
 
-¿Qué significa esto? Que el número de almadrabas de un solo archipiélado, Penghu, equivale prácticamente a la suma de todas las del resto del planeta.
+Por islas, Qimei es conocida desde antaño como «patria de los corrales de piedra»; el censo de 2006 contó 92 unidades alrededor de la isla, la mayor concentración de Penghu. El corral de piedra de doble corazón de Qimei, aunque es solo uno, goza del epíteto de «paisaje cultural más bello del planeta» gracias al acantilado vecino que sirve de mirador natural[^1].
 
-En términos de densidad, el dato es aún más asombroso: los alrededores de la isla de Jibeishan albergan al menos 109 almadrabas, lo que le ha valido desde antiguo el título de "cuna de las almadrabas" y la convierte en la isla con mayor densidad de distribución de almadrabas del mundo. La almadraba de Doble Corazón (Shuangxin Shihu) en la isla de Qimei, aunque es una sola estructura, ha sido proclamada "el paisaje cultural más hermoso del planeta" gracias a su singular forma de doble corazón y su posición elevada con ventaja visual.
+> **💭 Una conjetura sin confirmar**
+> ¿Por qué tantos corrales en Penghu? La ficha de punto potencial de Patrimonio Mundial del Ministerio de Cultura sugiere que la cultura de los corrales podría ser un rasgo común de la cultura pesquera austronesia, pero advierte que «aún faltan pruebas que la respalden»[^1].
 
-> **⚠️ Controversia clave**
-> ¿Por qué la densidad de almadrabas en Penghu es tan alta? Los investigadores especulan que esto coincide en gran medida con las rutas de migración de los pueblos austronesios. La almadraba podría ser una característica compartida de la cultura pesquera austronesia, y Penghu sería un nodo central de este círculo cultural.
+### Las siete condiciones constructivas del corral de piedra
 
-### Las siete condiciones para construir una almadraba
+No en cualquier lugar se puede levantar un corral. Según la síntesis del Ministerio de Cultura, se requieren siete factores simultáneos[^1]:
 
-No cualquier lugar es apto para construir una almadraba. Según los estudios, el desarrollo de una almadraba requiere la presencia simultánea de siete factores:
+1. **Material constructivo**: basalto, cantos rodados o arrecife de coral
+2. **Amplitud de marea suficiente**: aprovecha el principio de flujo y reflujo para atrapar los cardúmenes
+3. **Fuerte oleaje**: los peces buscan refugio dentro del corral
+4. **Amplia plataforma arrecifal**: en la bajamar los peces quedan atrapados en la zona intermareal
+5. **Especias migratorias**: proporcionan el incentivo económico
+6. **Mano de obra abundante**: la construcción lleva años, a veces más de una década
+7. **Sistema de gestión**: acuerdos consuetudinarios sobre reparto de beneficios y responsabilidades de mantenimiento
 
-1. **Materiales de construcción:** roca basáltica, grava o coral
-2. **Amplitud de marea suficiente:** para atrapar los bancos de peces mediante el principio de flujo y reflujo
-3. **Oleaje intenso:** que empuja a los peces a refugiarse dentro de la almadraba
-4. **Amplia plataforma de arrecife:** donde los peces quedan atrapados en la zona intermareal durante la bajamar
-5. **Peces migratorios:** que proporcionan un incentivo económico suficiente
-6. **Mano de obra suficiente:** la construcción de una almadraba requiere años, e incluso más de una década
-7. **Sistema de gestión:** acuerdos consuetudinarios sobre la distribución de beneficios y la responsabilidad del mantenimiento
+Penghu cumple los siete, especialmente su geología basáltica y su clima de monzón, que brindan el entorno natural ideal.
 
-Penghu cumple las siete condiciones de forma simultánea, en particular la geología basáltica y el clima monzónico, que proporcionan un entorno natural ideal para las almadrabas.
+## Los tao de Lanyu: convertir tabúes en ciencia ecológica
 
-## El pueblo tao de Orchid Island: convertir tabúes en ciencia ecológica
-
-Si las almadrabas de Penghu representan el máximo exponente de la arquitectura marítima, la temporada del pez volador en Orchid Island es un paradigma de la ecología marina.
+Si los corrales de Penghu son la cima de la arquitectura marina, la temporada del pez volador de Lanyu es el paradigma de la ecología marina.
 
 ### La temporada del pez volador no es una fiesta, es un sistema legal
 
-Cada año, entre febrero y junio, cuando la Corriente de Kuroshio trae los peces voladores a las aguas de Orchid Island, el pueblo tao entra en la temporada del pez volador. Pero no se trata simplemente de una temporada de pesca: es un sistema completo de gestión de recursos marinos.
+Cada primavera, la corriente de Kuroshio trae el pez volador a las aguas de Lanyu, y los tao entran en la temporada del pez volador: los rituales arrancan en febrero con la ceremonia de convocatoria del pez y se prolongan hasta hacia octubre[^3]. Pero no es solo una estación de pesca: es un sistema integral de gestión de recursos marinos.
 
-**La temporada del pez volador del pueblo tao incluye complejos "tabúes" (_pansin_):**
+**La temporada del pez volador de los tao incluye todo un corpus de tabúes**[^3]:
 
-- Las mujeres no pueden tocar las embarcaciones de tablas ensambladas (_tatala_), especialmente durante la temporada de pesca
-- No se pueden llevar naranjas a la orilla del mar (afecta la captura)
-- En determinados períodos está prohibido nadar y bucear en las aguas cercanas a la aldea
-- Cada mes corresponde a distintos métodos de pesca y especies objetivo
+- Las mujeres no participan en los rituales ni tocan artes ni embarcaciones
+- Está prohibido llevar naranjas a la isla durante la temporada
+- Buceo, natación y pesca con caña solo permitidos en zonas determinadas
+- Cada periodo dicta artes y especies objetivo distintas
 
-> **💡 ¿Sabías que...?**
-> Estos "tabúes" constituyen, en realidad, uno de los sistemas de gestión de recursos marinos más sofisticados del mundo. Las mujeres no tocan las embarcaciones para evitar olores extraños que ahuyenten a los peces; el aroma cítrico de las naranjas efectivamente repele a ciertas especies; la pesca por etapas garantiza que el ciclo reproductivo del pez volador no se vea alterado.
+> **💡 ¿Sabías que…?**
+> Las razones de estos tabúes no siempre son las que el foráneo imagina. En tao, «naranja» suena parecido a «sin pez»; llevarlas se cree que ahuyenta la suerte[^3][^4]; el tabú femenino vincula al pez volador con lo sagrado y la mala fortuna[^4]. Pero una parte sí tiene efecto ecológico: durante la temporada, redes, arpones y cañas no pueden usarse para otras especies (principalmente peces de arrecife), y las capturas accidentales deben devolverse; precisamente entre marzo y mayo los peces de arrecife están en freza, de modo que la norma funciona como veda biológica[^4].
 
-### La embarcación de tablas ensambladas: carpintería naval sin un solo clavo
+### La canoa de tablones: artesanía naval sin un solo clavo
 
-La embarcación de tablas ensambladas (_tatala_) del pueblo tao es una maravilla de la carpintería naval mundial. La embarcación se construye por completo sin clavos, uniendo las piezas exclusivamente mediante ensambladuras de mortaja y espiga. Cada embarcación lleva pinturas decorativas con motivos tradicionales únicos que simbolizan la identidad tribal.
+La canoa de tablones de los tao (_Tatala_) es una maravilla de la arquitectura naval mundial, ensamblada con múltiples tablones de madera. Cada embarcación luce pinturas tradicionales únicas que simbolizan la identidad de la aldea.
 
-Además, las embarcaciones tienen niveles de uso estrictamente regulados:
+Según su tamaño hay dos categorías[^5]:
 
-- **Embarcación individual (_tatala_):** pesca costera personal
-- **Embarcación de seis remeros (_chinedkeran_):** pesca de peces voladores en mar abierto
-- **Embarcación de diez remeros (_chinitaotao_):** el nivel más alto, cuya construcción requiere la cooperación de toda la tribu
+- **Canoa de tablones pequeña (_Tatala_)**: de uno, dos o tres tripulantes; la de tres mide unos 3 m
+- **Canoa de tablones grande (_Cinedkeran_)**: de seis (_Atlo so avat_), ocho (_Apat so avat_) o diez remadores (_Alima so avat_); la de diez mide unos 7 m y es la unidad base de cada grupo pesquero
 
-Cada botadura va acompañada de complejos rituales tradicionales, que incluyen bendiciones, una ceremonia de bautizo y la celebración de la finalización de la pintura del casco.
+Cada botadura conlleva complejos rituales tradicionales: bendición, nombramiento, ceremonia de finalización de la pintura, etc.
 
-### Del paradigma de la superstición al paradigma de la ciencia
+### Del «superstición» a la ciencia: un cambio de paradigma
 
-Durante mucho tiempo, los "tabúes" de la temporada del pez volador del pueblo tao fueron considerados supersticiones por el mundo exterior. Sin embargo, en años recientes, biólogos marinos han descubierto que la cientificidad de este sistema es asombrosa:
+Durante mucho tiempo, el exterior tachó de superstición el conjunto de tabúes de la temporada del pez volador. La investigación matiza: algunos tabúes tienen efecto conservacionista (p. ej., limitan el esfuerzo de pesca), otros pueden ser meramente supersticiosos[^4].
 
-**Manifestaciones concretas de sabiduría ecológica:**
-
-- La pesca por etapas se sincroniza con el ciclo vital del pez volador
-- La selección de métodos de pesca evita dañar el ecosistema del fondo marino
-- La veda estacional en determinadas zonas protege las áreas de reproducción de los peces
-- El calendario tradicional coincide en gran medida con los ciclos de marea de la oceanografía moderna
-
-En 2019, oceanógrafos publicaron un estudio en la revista _Marine Policy_ en el que consideraban que el sistema de la temporada del pez volador del pueblo tao es un paradigma de los "sistemas de conocimiento marino indígena" y un modelo digno de ser adoptado por la gestión pesquera contemporánea.
+Un estudio de 2019 en _Marine Policy_ evaluó la cultura del pez volador de los tao con los cinco criterios de gestión eficaz de recursos de Dietz et al., concluyendo que este conocimiento local cumple esas condiciones y ofrece base teórica para gestionar los recursos marinos y pesqueros de Lanyu; pero políticas gubernamentales inadecuadas, tecnología moderna, educación y economía de mercado la están transformando[^4][^6]. Una investigación posterior de 2020, basada en entrevistas de 2014-2015, clasificó por primera vez cada tabú y estimó la captura anual insular en 260 000-280 000 piezas[^4].
 
 ## Kinmen: cómo 36 años de administración militar moldearon una sociedad
 
-### El experimento antropológico de la administración de zona de guerra
+### El experimento antropológico de la administración militar en zona de combate
 
-Entre 1956 y 1992, Kinmen estuvo sometida a 36 años de administración de zona de guerra (_zhandi zhengwu_). No se trató únicamente de un control militar, sino de un experimento social sin precedentes: ¿cómo militarizar por completo una sociedad isleña?
+1956-1992: Kinmen vivió 36 años de _Zhandi Zhengwu_ (administración militar en zona de combate)[^7]. No fue solo control militar, sino un experimento social sin precedentes: cómo militarizar por completo una sociedad insular.
 
-**El control integral de la administración de zona de guerra:**
+**Control total de la administración militar:**
 
-- "Gestión, educación, sustento y defensa" operaban bajo un sistema enteramente militar
-- La vida cotidiana —alimentación, vestido, vivienda y transporte— estaba regulada
-- Todos los residentes debían cooperar en cualquier momento con los ejercicios militares
-- La entrada y salida de la isla requería un permiso especial
+- «Gestionar, educar, sostener, higienizar» operaban todos bajo el sistema militar
+- Alimentación, vestimenta, vivienda, transporte: la vida cotidiana toda regulada
+- Todos los residentes debían colaborar en ejercicios militares en cualquier momento
+- Entrada y salida de la isla requerían permisos especiales
 
-El resultado fue una singular "cultura de zona de guerra": instalaciones militares densamente distribuidas, postes antiaéreos por toda la isla, eslóganes de "contraataque a China continental" y una memoria colectiva profundamente grabada en varias generaciones de habitantes de Kinmen.
+¿Resultado? Una singular «cultura de zona de combate»: densas instalaciones militares, estacas antiaerodesantaje por toda la isla, consignas de «recuperar el continente», y una memoria colectiva grabada a fuego en varias generaciones de kinmenenses.
 
-### La preservación inesperada de un conjunto arquitectónico minnan
+### Conjunto arquitectónico minnan preservado por accidente
 
-Aunque la administración de zona de guerra limitó el desarrollo económico, preservó de forma inesperada el conjunto más completo de arquitectura tradicional minnan en Taiwán.
+Kinmen conserva numerosos conjuntos arquitectónicos tradicionales minnan íntegros.
 
-**La aldea folclórica de Shanhou** es el ejemplo más emblemático: 18 edificios de estilo minnan se despliegan siguiendo el relieve del terreno, con cumbreras de cola de golondrina, muros de silla de montar y elaborados trabajos de escultura en piedra y madera, que representan la cúspide de la artesanía arquitectónica minnan. Estos edificios fueron construidos entre 1876 y 1900 por el comerciante emigrado a Japón Wang Guozhen y su son Wang Jingxiang, y constituyen un ejemplo representativo de la "arquitectura financiada por remesas de emigrantes".
+La **Aldea Cultural Popular de Shanhou** es el ejemplo canónico: 18 edificaciones dispuestas en damero al pie de la montaña frente al mar, en tipología minnan tradicional de dos patios (_erjin_), muros de piedra blanca de Quanzhou, cerámica _jiaozhi_, policromía, talla en piedra y ladrillo tallado, exhibiendo la maestría constructiva minnan. Fueron levantadas entre 1876 y 1900 por los líderes de la diáspora en Japón Wang Guozhen y su hijo Wang Jingxiang, y repartidas entre los miembros del clan Wang[^8].
 
 > **📝 Nota del curador**
-> La "arquitectura financiada por remesas de emigrantes" de Kinmen es un fenómeno cultural muy particular. A finales del siglo XIX y principios del XX, muchos habitantes de Kinmen emigraron al sudeste asiático, donde prosperaron en el comercio y regresaron a su tierra natal para construir mansiones que combinaban estilos occidental y minnan. El conjunto de mansiones de la aldea de Shanhou es una obra maestra de esta arquitectura transcultural.
+> La arquitectura de la diáspora en Kinmen es un fenómeno cultural singular. A finales de la dinastía Qing, muchos kinmenenses, apurados por la vida, «cruzaron el mar» (_guo fan_) hacia el Sudeste Asiático o Japón, y enviaron remesas a la patria[^9]. Wang Guozhen hizo fortuna en Kobe[^9], pero su casa reproduce la ortodoxa gran residencia minnan de dos patios; Kinmen tiene también el Palacio Chen Jinglan, que fusiona estilo occidental y minnan, otra cara de la misma remesa.
 
-### El éxito inesperado de la cultura del licor de sorgo
+### El éxito inesperado de la cultura del kaoliang
 
-Durante la administración de zona de guerra, la destilería de Kinmen se convirtió en un pilar económico importante. Utilizando el agua subterránea de alta calidad de Kinmen y sorgo importado de China continental, produjo un licor blanco de fama mundial.
+Durante la administración militar, la destilería de Kinmen se volvió pilar económico. En 1952 el general Hu Lian fundó la fábrica e impulsó la política «kaoliang por arroz»: una jin de kaoliang canjeable por una jin de arroz blanco. La producción pasó de 298 t en 1954 a casi 6 600 t en 1991[^10].
 
-**Resulta interesante** que el éxito del licor de sorgo de Kinmen se deba en parte al control militar. Dado que los canales de venta fuera de la isla eran limitados, la destilería se concentró en mejorar la calidad. Tras la abolición de la ley marcial y la apertura del mercado, se convirtió de inmediato en la marca de licor blanco más popular de Taiwán.
+**Curiosamente**, el kaoliang de Kinmen tardó mucho en entrar al mercado de Taiwán: la Oficina de Monopolio de Tabaco y Alcohol de Taiwán mantuvo el monopolio largo tiempo, y los almacenes de la destilería se saturaron; el director de entonces reenvasó el stock de cinco años como «Black Diamond» kaoliang añejo. Solo tras la flexibilización de 1992 el kaoliang de Kinmen conquistó el mercado taiwanés del _baijiu_[^10].
 
-## Isla Liuqiu: un milagro mundial de densidad de tortugas marinas
+## Xiaoliuqiu: el milagro mundial de densidad de tortugas marinas
 
-### ¿Por qué las tortugas de aquí no temen a los humanos?
+### ¿Por qué aquí las tortugas no temen al ser humano?
 
-La Isla Liuqiu es conocida como la "isla de las tortugas marinas". Según investigaciones de la Universidad Oceánica, el número promedio de tortugas marinas en la zona alcanza varios cientos, una densidad que se cuenta entre las más altas del mundo. La probabilidad de hacer snorkel y no ver tortugas es extremadamente baja; la mayor densidad se registra en la zona de Meirendong.
+Xiaoliuqiu, apodada «isla de las tortugas», es hábitat importante de tortuga verde (_Chelonia mydas_) declarado por el gobierno del condado de Pingtung; la Agencia de Conservación Oceánica del Consejo de los Océanos llegó a avistar 805 ejemplares en vuelo[^11].
 
-¿Por qué la Isla Liuqiu logra retener tantas tortugas?
+**¿Por qué Xiaoliuqiu retiene tantas tortugas?**
 
-1. **Abundante fuente de alimento:** el arrecife de coral de la isla produce algas como _Ulva lactuca_ y sargazo, que constituyen la dieta principal de la tortuga verde (_Chelonia mydas_)
-2. **Temperatura del agua adecuada:** situada en la trayectoria de una ramificación de la Corriente de Kuroshio, la temperatura media del agua se mantiene por encima de los 25 °C
-3. **Protección mediante veda pesquera:** está prohibido el uso de redes de enmalle en un radio de 3 millas náuticas desde la costa, lo que reduce drásticamente el riesgo de captura accidental de tortugas
-4. **Conciencia de protección a nivel insular:** desde la reducción del plástico hasta los protectores solares respetuosos con el medio marino, se ha creado un paisaje singular de coexistencia armoniosa entre el ser humano y la naturaleza.
+1. **Fuente alimenticia abundante**: la plataforma arrecifal de la isla coralina cría _Caulerpa_, _Sargassum_ y otras algas, base de la dieta de la tortuga verde
+2. **Temperatura idónea**: bajo la influencia de una rama de la corriente de Kuroshio, la temperatura marina supera los 25 °C todo el año[^11]
+3. **Protección pesquera**: desde 2013 está prohibido el uso de redes de enmalle en las tres millas náuticas costeras; las tortugas volvieron[^12]
+4. **Conciencia insular de protección**: de la reducción de plásticos a protectores solares respetuosos con el mar, se ha forjado un paisaje de convivencia armónica
 
-### La estética de la distancia: 5.300 dólares taiwaneses
+### La estética de la distancia a 5 300元
 
-La conservación de tortugas marinas en la Isla Liuqiu tiene una cifra clave: **5.300 dólares taiwaneses**. Esta es la multa mínima por tocar o interferir con una tortuga marina protegida (la máxima puede alcanzar los 300.000).
+La conservación de tortugas en Xiaoliuqiu tiene una cifra clave: **300 000 NTD**. Según la _Ley de Conservación de la Vida Silvestre_, quien moleste o maltrate fauna protegida se expone a hasta un año de prisión, arresto o multa de 60 000 a 300 000 NTD[^13].
 
-Esta "estética de la distancia" no es solo un requisito legal, sino que se ha convertido en el concepto central del ecoturismo de la Isla Liuqiu: **mírala, fotografiarla, pero nunca la toques**. El mantenimiento de esta "distancia amigable" ha convertido a la Isla Liuqiu en uno de los pocos lugares del mundo donde es posible observar tortugas marinas salvajes a tan poca distancia.
+Esta «estética de la distancia» no es solo requisito legal, sino el núcleo del ecoturismo local: **observa, fotografía, pero nunca toques.** Mantener esa «distancia amable» ha convertido a Xiaoliuqiu en uno de los pocos lugares del mundo donde se pueden contemplar tortugas salvajes a tan escasa distancia.
 
-## Las lágrimas azules de Matsu: el fenómeno biológico del _Noctiluca scintillans_
+## Las «lágrimas azules» de Matsu: el prodigio biológico de los noctilucas
 
-### De la primera línea militar al reino azul
+### De primera línea militar a paraíso azul
 
-El archipiélago de Matsu se encuentra en la desembocadura del río Min, en Fujian, y fue la primera línea del enfrentamiento militar entre ambas orillas del estrecho. Instalaciones militares como el túnel de Babekeng y el túnel de Beihai revelan una asombrosa técnica de ingeniería subterránea.
+El archipiélago de Matsu, en la desembocadura del río Min (Fujian), fue la primera línea del enfrentamiento militar a ambos lados del estrecho. El túnel 88, el túnel Beihai y otras obras subterráneas exhiben una ingeniería asombrosa.
 
-Pero lo que realmente catapultó a Matsu a la fama es el fenómeno de las "lágrimas azules", que ocurre cada año entre abril y agosto. Cuando el _Noctiluca scintillans_ (un dinoflagelado) en las aguas de Matsu es agitado por el oleaje, emite una fluorescencia azul que forma una "vía láctea azul" de ensueño.
+Pero lo que dio fama mundial a Matsu son las «lágrimas azules». Cada año, de abril a septiembre son visibles, con óptimo en abril-junio: el río Min aporta entonces gran caudal con sales nutritivas, propiciando la explosión de _Noctiluca scintillans_ (alga noctiluca, un dinoflagelado no tóxico). Al ser agitados por el oleaje, emiten fluorescencia azul, creando una onírica «vía láctea azul».
 
 > **⚠️ Controversia ecológica**
-> Aunque las lágrimas azules son hermosas, en realidad constituyen una señal de desequilibrio ecológico marino. La proliferación masiva de _Noctiluca scintillans_ suele estar relacionada con la eutrofización del agua de mar. Matsu se encuentra actualmente reflexionando sobre cómo encontrar un equilibrio entre el desarrollo turístico y la protección ecológica.
+> Pese a su belleza, las «lágrimas azules» son señal de alarma de desequilibrio marino. Las proliferaciones masivas de noctiluca suelen asociarse a eutrofización. Matsu busca hoy el punto de equilibrio entre desarrollo turístico y protección ecológica.
 
 ### La singularidad de la cultura mindong
 
-La cultura de Matsu difiere enormemente de la del resto de Taiwán. El dialecto de Matsu pertenece a la familia lingüística mindong, completamente distinta del taiwanés (minnan). En el ámbito religioso, la devoción a la diosa Mazu es especialmente prominente: el topónimo "Matsu" procede precisamente de Mazu.
+La cultura de Matsu difiere mucho de la de la isla principal de Taiwán. El matuhua pertenece al grupo mindong, totalmente distinto del taiwanés (minnan). En lo religioso, destaca el culto a Mazu —el topónimo «Mazu» (馬祖) proviene precisamente de Mazu (媽祖)–.
 
-El estilo arquitectónico también es singular: las viviendas tradicionales, construidas principalmente en granito, están adaptadas al clima insular, ventoso y lluvioso. A diferencia de las cumbreras de cola de golondrina de Kinmen, las casas de Matsu suelen adoptar un diseño de "muro cortafuegos" (_fenghuo qiang_), más eficaz contra el viento.
+La arquitectura también es única: predominan las viviendas tradicionales de granito, adaptadas al clima insular ventoso y lluvioso. A diferencia de los tejados de cola de golondrina de Kinmen, las casas de Matsu suelen usar «muros corta-fuego sellados» (_feng huo qiang_), más eficaces contra el viento.
 
-## Isla Verde: del trauma de los derechos humanos a la restauración marina
+## Lüdao: de herida de derechos humanos a restauración marina
 
-### Justicia transicional en la isla prisión
+### La transformación de justicia transicional de la isla prisión
 
-La Isla Verde, antiguamente llamada Isla de Fuego, fue durante el período de ley marcial un lugar de reclusión para presos políticos. Entre 1951 y 1987, aproximadamente 2.000 presos políticos fueron enviados al "Centro de Reeducación" y a la "Prisión de la Isla Verde".
+Lüdao, antes llamada Huoshao Dao, fue durante la ley marcial lugar de reclusión de presos políticos. 1951-1965: el «Centro de Reeducación para la Nueva Vida» del Mando de Seguridad de la Provincia de Taiwán internó a presos políticos para «reforma ideológica»; en su pico, 12 compañías y una compañía femenina, unas 2 000 personas[^15]; tras el incidente de Taiyuan en 1970, el Ministerio de Defensa construyó al oeste el «Oasis Villa» (cárcel de reeducación de Lüdao), y desde 1972 concentró allí a presos políticos de todo el país[^16].
 
-Hoy, el Parque Cultural de Derechos Humanos de la Isla Verde preserva este capítulo del Terror Blanco. A diferencia de una exposición histórica convencional, aquí se emplea un enfoque de "narración en primera persona", que permite a los visitantes comprender, a través de los recuerdos de los propios presos políticos, el terror y lo absurdo de aquella época.
+Hoy, el Parque Conmemorativo del Terror Blanco en Lüdao (antes Parque Cultural de Derechos Humanos de Lüdao) preserva esa historia[^16], permitiendo al visitante recorrer los espacios de vida de los presos y comprender el terror y el absurdo de aquella época.
 
-### El milagro marino del manantial termal Zhaori
+### El milagro marino de la termal de Zhaori
 
-La Isla Verde alberga uno de los escasos manantiales termales de agua de mar del mundo: el manantial termal Zhaori. Esto se debe a que el magma subterráneo calienta el agua de mar, formando un manantial rico en minerales. Sumergido en el agua tibia, con el azul infinito del océano Pacífico a un lado y el terreno volcánico de la Isla Verde al otro, esta experiencia de "manantial termal con vistas al mar" es extraordinariamente rara a nivel mundial.
+Lüdao posee una de las raras termales submarinas del mundo: la termal de Zhaori. Su manantial proviene de agua de mar o subterránea de la zona, que se filtra al subsuelo y es calentada por la cámara magmática volcánica[^17]. Bañarse allí, con el Pacífico infinito a un lado y la topografía volcánica de Lüdao al otro, es una experiencia de «termal con vista al mar» excepcional a escala global.
 
-**Lo más especial es el momento:** el mejor horario para disfrutar del manantial termal Zhaori es entre las 5 y las 6 de la madrugada. Cuando el primer rayo de sol se eleva sobre el océano Pacífico, uno se encuentra sumergido en el agua tibia recibiendo el amanecer: probablemente sea la experiencia de amanecer más romántica de todo Taiwán.
+**Aún más especial es su orientación**: la termal de Zhaori mira al Pacífico, hacia el este donde nace el sol, de ahí su nombre[^17]. Cuando el primer rayo de alba surge del Pacífico, tú estás sumergido en agua tibia recibiendo el amanecer: probablemente la experiencia de amanecer más romántica de Taiwán.
 
-## La sabiduría marina de las islas: una inspiración para el mundo moderno
+## La sabiduría marina de las islas: inspiración para el mundo moderno
 
-### Una solución ancestral para la pesca sostenible
+### Soluciones ancestrales para la pesca sostenible
 
-Los _shihu_ (trampas de piedra) de Penghu y la temporada de pez volador en Lanyu son prácticas ancestrales de «pesca sostenible». En un momento en que la pesca moderna se enfrenta a la crisis de la sobrepesca, esta sabiduría tradicional ofrece lecciones fundamentales:
+Corrales de piedra de Penghu, temporada del pez volador de Lanyu: ambos son prácticas ancestrales de «pesca sostenible». Ante la crisis de sobrepesca moderna, estas sabidurías tradicionales aportan claves vitales:
 
-- **Gestión estacional**: estrategias de captura que respetan el ciclo de vida de los peces.
+- **Gestión estacional**: estrategias de captura sincronizadas con el ciclo vital de las especies
+- **Ingeniería ecológica**: los corrales no usan aglutinantes artificiales; son ingeniería ecológica _avant la lettre_
+- **Cogestión comunitaria**: construcción y mantenimiento exigen la cooperación de toda la comunidad
+- **Protección cultural**: integrar la gestión pesquera en la tradición cultural eleva el cumplimiento
 
-- **Ingeniería ecológica**: los _shihu_ no utilizan adhesivos artificiales; son una de las formas más tempranas de ingeniería ecológica.
-- **Gestión comunitaria**: la construcción y el mantenimiento de los _shihu_ requieren la cooperación de toda la comunidad.
-- **Protección cultural**: integrar la gestión pesquera en las tradiciones culturales para aumentar el cumplimiento de las normas.
+### La experiencia de las microinsulares frente al cambio climático
 
-### Experiencias sobre el cambio climático en pequeños estados insulares
+Ante la amenaza de la subida del nivel del mar, las islas ofrecen valiosa experiencia de adaptación:
 
-Ante la amenaza del aumento del nivel del mar, las islas de Taiwán aportan experiencias valiosas de adaptación:
+- **Energía diversificada**: eólica y fotovoltaica de Penghu
+- **Desalación**: acumulación tecnológica para resolver la escasez de agua dulce
+- **Ecoturismo**: modelos exitosos de transición de industria tradicional a turismo sostenible
+- **Resiliencia cultural**: cómo preservar la cultura tradicional en el proceso de modernización
 
-- **Energía diversificada**: la energía eólica en Matsu y los sistemas solares en Penghu.
-- **Desalinización**: acumulación de tecnología para resolver la escasez de recursos hídricos dulces.
-- **Turismo ecológico**: un modelo de éxito que transita de las industrias tradicionales hacia el turismo sostenible.
+### El alcance global del pensamiento insular
 
-* **Resiliencia cultural**: cómo preservar la cultura tradicional durante el proceso de modernización.
+La experiencia de las islas periféricas de Taiwán tiene gran valor de referencia para las naciones insulares globales. Desde Palaos y las Marshall en el Pacífico hasta Maldivas en el Índico, todas enfrentan retos análogos:
 
-### El significado global del pensamiento insular
+¿Cómo desarrollar modelos económicos sostenibles en recursos territoriales limitados?
+¿Cómo mantener la singularidad cultural en la oleada globalizadora?
+¿Cómo sostener la resiliencia social bajo la amenaza del cambio climático?
 
-La experiencia de las islas de Taiwán posee un valor de referencia crucial para los estados insulares de todo el mundo. Desde Palaos y las Islas Marshall en el Pacífico, hasta las Maldivas en el Atlántico, todos enfrentan desafíos similares:
+**Las islas periféricas de Taiwán responden a estas preguntas clave del siglo XXI con tres siglos de sabiduría de vida marina.**
 
-¿Cómo desarrollar un modelo económico sostenible con recursos terrestres limitados?
-¿Cómo mantener la singularidad cultural ante la ola de la globalización?
-¿Cómo mantener la resiliencia social frente a las amenazas del cambio climático?
+> **✦** «El océano no separa, conecta. Los pueblos de estas islas levantaron trampas de piedra para pescar, tejieron leyes de sostenibilidad con tabúes, recibieron al sol en aguas termales, cantaron las rutas del pez volador. Nos dicen: los humanos pueden convivir en armonía con el océano, no solo conquistarlo, sino cohabitarlo.»
 
-**Las islas de Taiwán, mediante trescientos años de sabiduría marina, responden a estas preguntas clave del siglo XXI.**
+Cuando estás en el mirador del corral de doble corazón de Qimei, viendo los muros de basalto de hace tres siglos brillar al atardecer; cuando en Lanyu oyes al anciano tao entonar el antiguo canto de trabajo; cuando en las aguas transparentes de Xiaoliuqiu te miras a los ojos con una tortuga verde —lo que oyes no es solo el rumor del mar, es el eco de milenios de diálogo sabio entre esta tierra insular y el océano.
 
-> **✦** «El océano no es una barrera, es un vínculo. Las personas de estas islas construyeron trampas de pesca con piedras, tejieron leyes sostenibles mediante tabúes, recibieron al sol con aguas termales y memorizaron las rutas del pez volador a través de cantos. Nos dicen que la humanidad puede coexistir en armonía con el océano; no se trata solo de conquistar, sino de convivir».
+Esas voces nos recuerdan: no somos dueños del océano, somos hijos del océano.
 
-Cuando te encuentres en el mirador de los _shihu_ de doble corazón en Qimei, viendo cómo los muros de basalto de hace trescientos años brillan bajo el atardecer; cuando escuches a un anciano del pueblo Tao en Lanyu entonar antiguos cantos de trabajo; cuando cruces la mirada con una tortuga verde en las aguas cristalinas de Xiaoliuqiu... lo que oirás no es solo el sonido de las olas, sino el eco de la sabiduría de estas islas dialogando con el mar durante milenios.
+**Lecturas complementarias**:
 
-Estas voces nos recuerdan: no somos los dueños del océano, somos sus hijos.
-
-**Lecturas adicionales**:
-
-- [Isla Internacional de Arte de Matsu](/art/馬祖國際藝術島) — Además de las «lágrimas azules» y sus túneles, Matsu ha desarrollado su propio lenguaje curatorial en la última década: los temas de las tres ediciones, 《島嶼釀》, 《生紅過夏》 y 《拍楸》, provienen todos de proverbios del dialecto Min Dong.
+- [Isla Internacional de las Artes de Matsu](/es/art/matsu-biennial) — Además de lágrimas azules y túneles, Matsu ha desarrollado en esta década su propio lenguaje curatorial: «Island Brewing», «Red Summer», «Paqiu», tres ejes temáticos tomados de refranes mindong
 
 ## Referencias
 
-- [澎湖石滬群-臺灣世界遺產潛力點](https://twh.boch.gov.tw/taiwan/intro.aspx?id=13&lang=zh_tw)
-- [澎湖石滬 - 維基百科](https://zh.wikipedia.org/zh-tw/%E6%BE%8E%E6%B9%96%E7%9F%B3%E6%BB%AC)
-- [為什麼小琉球這麼多海龜？揭開世界級海龜天堂的秘密](https://ofucosliuqiu.com/liuqiu-sea-turtle-guide/)
+[^1]: [Grupo de corrales de piedra de Penghu - Puntos potenciales de Patrimonio Mundial de Taiwán (Buró de Bienes Culturales, Ministerio de Cultura)](https://twh.boch.gov.tw/taiwan/intro.aspx?id=13&lang=zh_tw) — Valor de corrales 77 % de la captura condal en 1950; sin corral no hay sustento, corral como bien inmueble hipotecable, comprable, vendible, heredable, baremo matrimonial; _Taiwan Fu Zhi_ (Kangxi 35): 2 grandes, 20 pequeños; _Penghu Ting Zhi_ (Guangxu 19): 2 grandes, 76,5 pequeños, «fuentes no explican qué es medio»; Hong Guo-xiong 1999: 558 + 16 suplementados; 2008-2009: 592; Qimei 2006: 92; doble corazón «paisaje cultural más bello del planeta»; siete condiciones constructivas; austronesia como conjetura del autor, pendiente de pruebas
+
+[^2]: [Aproximadamente el 95 % de los corrales de piedra del mundo se concentran en Penghu - PTS News](https://news.pts.org.tw/article/777934) — Reportaje de octubre 2025: «cerca del 95 % de los corrales de piedra del mundo se concentran en Penghu»
+
+[^3]: [Gran revelación de la temporada del pez volador de Lanyu - Secado de pez volador](https://zazawanzine.com/uncategorized/b063/) — Temporada desde principios de febrero hasta hacia octubre; mujeres no participan en rituales, no tocan artes ni barcos; naranja en tao suena a «sin pez», prohibido llevarlas en temporada; buceo, natación, pesca con caña solo en aguas determinadas
+
+[^4]: [Tabúes/Normas y ciencia moderna, y posible integración para la gestión sostenible del recurso pez volador de Isla Orquídea, Taiwán - Sustainability (2020)](https://doi.org/10.3390/su12208621) — Shui-Kai Chang; fonética de naranja ≈ «no fish»; tabú femenino ligado a especie sagrada y mala fortuna; marzo-mayo freza de peces de arrecife, veda equivalentes; parte de tabúes con efecto conservacionista, parte posible superstición; captura anual insular 260 000-280 000 piezas
+
+[^5]: [Canoa de tablones - Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%8B%BC%E6%9D%BF%E8%88%9F) — _Tatala_ pequeña (1, 2, 3 personas); _Cinedkeran_ grande (6 _Atlo so avat_, 8 _Apat so avat_, 10 _Alima so avat_, ~7 m)
+
+[^6]: [Cambios en el conocimiento local y sus impactos en la gestión de recursos ecológicos: el caso de la cultura del pez volador de los tao en Taiwán - Marine Policy 103 (2019) 74-83](https://doi.org/10.1016/j.marpol.2019.02.031) — Liu T.-M. y Chang S.-K., evaluación con los cinco criterios de Dietz et al. del conocimiento local tao
+
+[^7]: [28.º aniversario del fin de la administración militar en Kinmen y Matsu - Gobierno del Condado de Kinmen](https://www.kinmen.gov.tw/News_Content2.aspx?n=98E3CA7358C89100&sms=BF7D6D478B935644&s=D7AECB2657D38BD9&Create=1) — Kinmen y Matsu bajo administración militar experimental del año 46 al 71 de la República (1956-1992), 36 años
+
+[^8]: [Aldea Cultural Popular de Shanhou - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%B1%B1%E5%90%8E%E6%B0%91%E4%BF%97%E6%96%87%E5%8C%96%E6%9D%91) — Líderes de la diáspora en Japón Wang Guozhen y Wang Jingxiang padre e hijo, repartidas entre clan Wang; obra 1876-1900; 18 edificaciones, tipología minnan tradicional de dos patios
+
+[^9]: [Condado de Kinmen - Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%87%91%E9%96%80%E7%B8%A3) — Finales de Qing, kinmenenses «cruzan el mar» al Sudeste Asiático o Japón; diáspora en Kobe con Wang Guozhen; Palacio Chen Jinglan como punto de interés
+
+[^10]: [La historia del kaoliang de Kinmen - foodNEXT](https://www.foodnext.net/life/placemaking/paper/6351114991) — 1952 fundación destilería, política «kaoliang por arroz»; producción 1954: 298 t, 1991: ~6 600 t; monopolio Oficina Tabaco/Alcohol, _Black Diamond_ kaoliang añejo; 1992 liberalización venta en Taiwán
+
+[^11]: [Xiaoliuqiu - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%B0%8F%E7%90%89%E7%90%83) — Hábitat importante tortuga verde declarado por Gobierno Condado Pingtung; avistamiento aéreo 805 ejemplares; rama Kuroshio mantiene T° > 25 °C todo el año
+
+[^12]: [Tortugas de Xiaoliuqiu - PTS News](https://news.pts.org.tw/article/513848) — 2013 prohibición redes de enmalle en 3 millas náuticas costeras
+
+[^13]: [Paraíso de tortugas verdes de Xiaoliuqiu, isla baja en carbono - Oficina de Gestión del Área Escénica Nacional de Dapeng Bay, Administración de Turismo, MOTC](https://activity.dbnsa.gov.tw/turtle/ch/page-4.html) — Molestia/maltrato fauna protegida: ≤1 año prisión, arresto, o/ y multa 60 000-300 000 NTD
+
+[^14]: [Lágrimas azules de Matsu - TVBS Health 2.0](https://health.tvbs.com.tw/life/363395) — Observables abril-septiembre, óptimo abril-junio; Oficina de Turismo Matsu: noctiluca alga no tóxica, río Min abril-junio gran aporte sales nutritivas
+
+[^15]: [Centro de Reeducación para la Nueva Vida de Lüdao - CNA](https://www.cna.com.tw/news/firstnews/201805160040.aspx) — Años 40-54 de la República (1951-1965) presos políticos al centro, 12 compañías + 1 femenina, ~2 000 personas
+
+[^16]: [Parque Conmemorativo del Terror Blanco en Lüdao - Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%99%BD%E8%89%B2%E6%81%90%E6%80%96%E7%B6%A0%E5%B3%B6%E7%B4%80%E5%BF%B5%E5%9C%92%E5%8D%80) — 1951 centro reeducación; 1970 incidente Taiyuan → construcción Oasis Villa, 1972 concentración presos políticos; nombre anterior Parque Cultural Derechos Humanos Lüdao
+
+[^17]: [Termal de Zhaori - Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%9C%9D%E6%97%A5%E6%BA%AB%E6%B3%89) — Una de las raras termales submarinas del mundo, manantial calentado por cámara magmática; orientada al este, amanecer, de ahí nombre
+
+### Referencias complementarias
+
+- [Corrales de piedra de Penghu - Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%BE%8E%E6%B9%96%E7%9F%B3%E6%BB%AC)
 - [Evolution of stone fish weirs in Jibei area, Penghu Archipelago](https://www.tandfonline.com/doi/full/10.1080/17445647.2023.2277904)
-- [金門縣政府全球資訊網-金馬解除戰地政務28周年](https://www.kinmen.gov.tw/News_Content2.aspx?n=98E3CA7358C89100&sms=BF7D6D478B935644&s=D7AECB2657D38BD9&Create=1)
-- [蘭嶼飛魚季大解密：飛魚季時間、飛魚季禁忌、推薦活動](https://zazawanzine.com/uncategorized/b063/)
-- [小琉球綠蠵龜樂園低碳島](https://activity.dbnsa.gov.tw/turtle/ch/page-4.html)

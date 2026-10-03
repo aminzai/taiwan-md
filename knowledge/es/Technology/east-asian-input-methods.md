@@ -1,10 +1,8 @@
 ---
-title: 'El conflicto civilizacional sobre el teclado: un siglo de evolución en los métodos de entrada de texto de Asia Oriental'
-description: 'Cuando todos los teclados del mundo tienen el mismo diseño, ¿cómo logran las distintas civilizaciones encajar sus escrituras dentro de las 26 letras del alfabeto latino? Desde el zhuyin de Taiwán hasta el dubeolsik de Corea del Sur, los métodos de entrada son una silenciosa batalla por la preservación cultural'
+title: 'El conflicto de civilizaciones en el teclado: un siglo de evolución de los métodos de entrada de texto en Asia Oriental'
+description: 'Cuando todos los teclados del mundo son iguales, ¿cómo meten las diferentes civilizaciones sus escrituras en 26 letras latinas? Desde el zhuyin de Taiwán hasta el dubeolsik de Corea, los métodos de entrada son una silenciosa batalla por la defensa cultural'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'Technology'
-subcategory: '文字與工具'
 tags:
   [
     'métodos de entrada',
@@ -17,229 +15,239 @@ tags:
     'Asia Oriental',
     'escritura',
   ]
-readingTime: 15
+subcategory: '文字與工具'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: true
+readingTime: 15
 translatedFrom: 'Technology/東亞文字輸入法.md'
-sourceCommitSha: '24efd20f3'
-sourceContentHash: 'sha256:d8c6f0fd322ce1e4'
-sourceBodyHash: 'sha256:c009ff8e72f638e1'
-translatedAt: '2026-05-15T14:23:13+08:00'
+sourceCommitSha: 'c0bb841a7'
+sourceContentHash: 'sha256:90551a3865db4ef0'
+sourceBodyHash: 'sha256:2cf976c21e3add32'
+translatedAt: '2026-10-04T00:51:58+08:00'
 ---
 
-# El conflicto civilizacional sobre el teclado: un siglo de evolución en los métodos de entrada de texto de Asia Oriental
+# El conflicto de civilizaciones en el teclado: un siglo de evolución de los métodos de entrada de texto en Asia Oriental
 
 ## Resumen en 30 segundos
 
-Todos los teclados de computadora del mundo siguen la disposición QWERTY, un diseño creado en la década de 1870 para máquinas de escribir en inglés. Sin embargo, más de 2.000 millones de personas en Asia Oriental utilizan sistemas de escritura (kanji, kana, hangul, tailandés, birmano) que no son en absoluto escrituras alfabéticas. ¿Qué hacen? La respuesta es que cada civilización inventó su propia «capa de traducción»: el método de entrada. Estos métodos no son meras herramientas técnicas, sino campos de batalla de identidad cultural. Taiwán usa zhuyin, China usa pinyin, Japón usa romaji y Corea del Sur descompone directamente las letras. Detrás de cada elección hay una filosofía distinta sobre cómo una civilización enfrenta la digitalización.
+Todos los teclados de ordenador del mundo usan la disposición QWERTY, un diseño de la década de 1870 para máquinas de escribir en inglés. Pero Asia tiene más de 2000 millones de usuarios de sistemas de escritura (hanzi, kana, hangul, tailandés, birmano) que no pueden mapearse directamente a 26 letras latinas: los hanzi son decenas de miles de glifos; el hangul, el tailandés y el birmano, aunque fonéticos, tienen inventarios y reglas de combinación totalmente distintos al inglés. ¿Qué hacen? Cada civilización inventa su propia «capa de traducción» —el método de entrada. Estos métodos no son solo herramientas técnicas; son campos de batalla de la identidad cultural. Taiwán usa zhuyin, China usa pinyin, Japón usa rōmaji, Corea descompone directamente las letras; detrás de cada elección hay una filosofía distinta de una civilización frente a la digitalización.
 
 ---
 
-## La esencia del problema: 26 letras frente a decenas de miles de caracteres
+## La esencia del problema: 26 letras vs decenas de miles de caracteres
 
-Los usuarios de inglés nunca han necesitado un «método de entrada»: el teclado tiene 26 letras y lo que se pulsa es lo que aparece. Pero los caracteres chinos (hanzi) superan los 50.000, y los de uso común rondan los 3.000-5.000. Es imposible fabricar un teclado con 5.000 teclas.
+Los usuarios de inglés nunca necesitan un «método de entrada» —el teclado tiene 26 letras, pulsas lo que sale. Pero los hanzi superan los 50 000, y los de uso común son 3000-5000. No puedes fabricar un teclado de 5000 teclas.
 
-Esto significa que las civilizaciones de Asia Oriental deben resolver un problema fundamental: **¿cómo expresar una escritura prácticamente infinita con un número limitado de teclas?**
+Esto obliga a las civilizaciones de Asia Oriental a resolver un problema fundamental: **cómo expresar una escritura ilimitada con un número finito de teclas**.
 
-Cada civilización ha dado respuestas radicalmente distintas, y esas respuestas reflejan profundamente su estructura lingüística, su sistema educativo e incluso sus decisiones políticas.
-
----
-
-## 🇹🇼 Taiwán: zhuyin (buscar caracteres por «pronunciación»)
-
-### Las raíces históricas del zhuyin
-
-El método de entrada predominante en Taiwán es el **zhuyin**, que utiliza 37 símbolos bopomofo (ㄅㄆㄇㄈ⋯) para marcar la pronunciación. Para escribir «台灣», se teclea `ㄊㄞˊ ㄨㄢ`, y el sistema muestra una lista de caracteres homófonos para que el usuario elija.
-
-Los símbolos zhuyin nacieron en 1913 en la «Conferencia para la Unificación de la Pronunciación», simplificados a partir de radicales de caracteres antiguos por académicos como Zhang Taiyan. Se trata de un **sistema de notación fonética completamente independiente del alfabeto latino**, un punto crucial.
-
-### ¿Por qué Taiwán se aferra al zhuyin?
-
-La persistencia de Taiwán con el zhuyin se sustenta en cuatro capas de razones que se refuerzan mutuamente. El sistema educativo es la base: las primeras 10 semanas de primer grado se dedican íntegramente a enseñar zhuyin, la herramienta de alfabetización más arraigada en cada taiwanés; el costo de cambiarla sería demasiado alto. La identidad cultural es el motor: el zhuyin es un sistema de notación propio del mundo del chino tradicional, que no usa el alfabeto latino y se percibe como una continuación de la tradición cultural china. Técnicamente, el zhuyin puede marcar con precisión los cuatro tonos del mandarín (incluso el tono ligero), algo que el pinyin logra con mayor dificultad. Por último, los teclados taiwaneses llevan impresos junto a cada letra inglesa el símbolo zhuyin correspondiente, creando una doble notación que ancla el sistema incluso a nivel de hardware.
-
-### Las limitaciones del zhuyin
-
-El mayor problema del zhuyin es la **abundancia de caracteres homófonos**. El mandarín tiene solo unas 1.300 sílabas distintas, pero debe asignarlas a decenas de miles de caracteres. Al teclear `ㄊㄞˊ`, pueden aparecer docenas de caracteres como «台、臺、抬、苔、颱、跆⋯». El usuario debe seleccionar entre una lista de candidatos, lo que ralentiza la velocidad de escritura.
-
-En años recientes, los métodos de entrada inteligentes de zhuyin (como Microsoft New Phonetic o RIME) han mejorado enormemente la precisión mediante predicción contextual con IA, pero el problema fundamental de selección de caracteres sigue existiendo.
-
-### Cangjie: otro camino
-
-En 1976, **Zhu Bangfu**, conocido como el «padre de la computación en chino», inventó el **método de entrada cangjie**, un método que no depende de la pronunciación sino de la **descomposición de la forma de los caracteres**. Cada carácter se divide en 1-5 «radicales» asignados a 25 teclas del teclado (de A a Y, sin la tecla Z[^2]).
-
-Por ejemplo, «明» = 日 + 月 = `A` + `B`.
-
-La ventaja de cangjie es **un código por carácter**, sin necesidad de selección. Los usuarios experimentados de cangjie pueden superar en velocidad a quienes usan zhuyin. Zhu Bangfu declaró posteriormente que renunciaba a la patente de cangjie, convirtiéndolo en un pionero del código abierto para métodos de entrada en chino, veinte años antes del movimiento de software libre[^1].
-
-Cangjie es extremadamente popular en Hong Kong (más de la mitad de los usuarios de computadoras), pero en Taiwán siempre ha sido una minoría, principalmente por su pronunciada curva de aprendizaje.
-
-### El método de entrada hanglie
-
-El **método de entrada hanglie**, inventado por Liao Mingde, es otra solución taiwanesa nativa, que descompone la forma de los caracteres usando las teclas numéricas, con la filosofía de diseño de «no necesitar memorizar demasiados radicales». Representa la innovación continua de Taiwán en el campo de los métodos de entrada.
+Cada civilización dio una respuesta radicalmente distinta, y esas respuestas reflejan en profundidad su estructura lingüística, su sistema educativo e incluso sus opciones políticas.
 
 ---
 
-## 🇨🇳 China: pinyin (escribir chino con el alfabeto latino)
+## 🇹🇼 Taiwán: símbolos zhuyin (buscar el carácter por la «pronunciación»)
+
+### Raíces históricas del zhuyin
+
+El método principal de Taiwán es el **método de entrada zhuyin**, que usa 37 símbolos zhuyin (ㄅㄆㄇㄈ⋯) para anotar la pronunciación. Para escribir «Taiwán», pulsas `ㄊㄞˊ ㄨㄢ` y el sistema muestra los homófonos para que elijas.
+
+Los símbolos zhuyin, originalmente llamados «alfabeto fonético», surgieron de la «Conferencia para la Unificación de la Lectura» convocada por el Ministerio de Educación en 1913, basándose en los «caracteres de iniciales» y «caracteres de finales» simplificados por Zhang Taiyan a partir de radicales de caracteres antiguos, y se promulgaron oficialmente en 1918[^7]. Es un **sistema fonético completamente independiente del alfabeto latino**, punto crucial.
+
+### Por qué Taiwán se aferra al zhuyin
+
+Taiwán defiende el zhuyin por cuatro razones que se refuerzan mutuamente. El sistema educativo es la base: las primeras 10 semanas de primaria se dedican íntegramente a enseñar zhuyin; es la herramienta de alfabetización más arraigada de todo taiwanés, y el coste de cambiarla es prohibitivo. La identidad cultural es el motor: los símbolos zhuyin son un sistema de notación exclusivo del mundo del chino tradicional, no usan letras latinas y se consideran continuidad de la tradición cultural china. Técnicamente, el zhuyin puede anotar con precisión los cuatro tonos y el tono neutro del guoyu. Por último, los teclados de Taiwán llevan impresos los símbolos zhuyin junto a cada letra latina, creando una doble pista que arraiga el sistema también en el hardware.
+
+### Limitaciones del zhuyin
+
+El mayor problema del zhuyin es la **enorme cantidad de homófonos**. El guoyu tiene solo unos 1300 sílabas distintas, pero deben cubrir decenas de miles de hanzi. Teclear `ㄕˋ` puede sacar «是、事、式、室、市、試、視、適、勢、世⋯⋯» docenas de caracteres. El usuario debe elegir de la lista de candidatos, lo que frena la velocidad.
+
+En los últimos años, los métodos zhuyin inteligentes (como Microsoft New Zhuyin, RIME) han mejorado mucho la precisión gracias a la predicción contextual por IA, pero el problema esencial de la selección de carácter persiste.
+
+### Cangjie: la otra vía
+
+En 1976, **Zhu Bangfu** (朱邦復), conocido como «padre de la informática china», inventó el **método de entrada Cangjie**, un sistema que no depende de la pronunciación sino de la **descomposición de la forma del carácter**. Cada hanzi se descompone en 1-5 «radicales», asignados a 25 teclas (A-Y, omitiendo la Z[^2]).
+
+Ejemplo: «明» = 日 + 月 = `A` + `B`.
+
+La ventaja del Cangjie es la **tasa de colisión más baja entre los métodos chinos[^2]**; los usuarios expertos casi no necesitan elegir candidatos. La velocidad de un usuario experto en Cangjie puede superar a la del zhuyin. En 1982, Zhu Bangfu publicó un anuncio renunciando a la patente del Cangjie[^2], permitiendo su uso e inclusión gratuitos, más de una década antes de que apareciera el término «código abierto» (1998).
+
+El Cangjie es extremadamente popular en Hong Kong (más de la mitad de los usuarios de ordenador), pero en Taiwán sigue siendo minoritario, principalmente por su curva de aprendizaje empinada.
+
+### Método de entrada Array (行列)
+
+El **método Array**, inventado por Liao Mingde (廖明德), es otra solución local de Taiwán: descompone la forma según la «fila» y «columna» que ocupa cada radical en el teclado. Las versiones tempranas usaban la fila numérica superior, 40 códigos, llamadas «Array 40»; la actual «Array 30» solo usa las tres filas de letras[^8]. Representa la innovación continua de Taiwán en el ámbito de los métodos de entrada.
+
+---
+
+## 🇨🇳 China: pinyin (escribir chino con letras latinas)
 
 ### La elección del pinyin
 
-El método de entrada predominante en China continental es el **pinyin**, que utiliza directamente las 26 letras del alfabeto latino para transcribir la pronunciación de los caracteres chinos. Para escribir «台湾» se introduce `taiwan`, y el sistema lo convierte a caracteres simplizados.
+El método principal en la China continental es el **método de entrada pinyin**, que usa directamente las 26 letras latinas para deletrear la lectura del hanzi. Para «Taiwán» se teclea `taiwan` y el sistema lo convierte a chino simplificado.
 
-Esta elección tiene un profundo trasfondo histórico:
+Esta elección tiene un trasfondo histórico profundo:
 
-1. **Promulgación del sistema de pinyin en 1958**: reemplazó al anterior zhuyin (que en China se denomina «zhùyīn fúhào») y al sistema Wade-Giles.
-2. **Reforma de simplificación de caracteres**: desde 1956 se impulsaron los caracteres simplizados, complementarios al pinyin — aprender pinyin → escribir con pinyin → obtener caracteres simplificados.
-3. **Consideración de internacionalización**: el pinyin usa el alfabeto latino, lo que facilita a los extranjeros aprender chino y permite a los hablantes chinos escribir en cualquier teclado estándar.
+1. **1958: promulgación del Esquema de Pinyin**: sustituyó al anterior alfabeto fonético (llamado «símbolos fonéticos» en China) y a la romanización Wade-Giles.
+2. **Reforma de caracteres simplificados**: desde 1956 se impulsaron los caracteres simplificados, que forman un círculo virtuoso con el pinyin —aprender pinyin → teclear con pinyin → obtener simplificados.
+3. **Consideración de internacionalización**: el pinyin usa letras latinas, facilita a extranjeros el aprendizaje del chino y permite a usuarios chinos teclear en cualquier teclado estándar.
 
-### Pinyin vs. zhuyin: una división cultural que quizá no hayas notado
+### Pinyin vs zhuyin: una fractura cultural que quizás no notaste
 
-En apariencia, tanto zhuyin como pinyin son «buscar caracteres por pronunciación». Pero las diferencias profundas son enormes:
+En la superficie, tanto zhuyin como pinyin son «buscar el carácter por el sonido». Pero la diferencia profunda es enorme:
 
-|                              | Zhuyin de Taiwán                 | Pinyin de China                         |
-| ---------------------------- | -------------------------------- | --------------------------------------- |
-| Sistema de símbolos          | Símbolos independientes (ㄅㄆㄇ) | Alfabeto latino (bpmf)                  |
-| Raíz cultural                | Derivado de radicales chinos     | Derivado del movimiento de latinización |
-| Prerrequisito de aprendizaje | No requiere saber inglés primero | Requiere conocer las letras inglesas    |
-| Necesidad de teclado         | Teclado con notación zhuyin      | Cualquier teclado inglés                |
-| Relación con la escritura    | «Describe la pronunciación»      | «Traduce al alfabeto latino»            |
+|                           | Zhuyin de Taiwán            | Pinyin de China                 |
+| ------------------------- | --------------------------- | ------------------------------- |
+| Sistema de símbolos       | Símbolos propios (ㄅㄆㄇ)   | Alfabeto latino (bpmf)          |
+| Raíz cultural             | Derivado de radicales hanzi | Movimiento de latinización      |
+| Requisito previo          | No requiere saber inglés    | Requiere conocer letras latinas |
+| Teclado necesario         | Teclado con zhuyin impreso  | Cualquier teclado en inglés     |
+| Relación con la escritura | «Describe la pronunciación» | «Traduce a letras latinas»      |
 
-Esta diferencia no es solo técnica, sino que refleja la divergencia fundamental entre ambos lados del estrecho sobre «cómo debería conectarse el chino con el mundo». Taiwán elige mantener un sistema de símbolos independiente de Occidente; China elige abrazar la latinización.
+Esta diferencia no es solo técnica; refleja la divergencia fundamental entre ambas orillas sobre «cómo debe conectar el chino con el mundo». Taiwán elige conservar un sistema de símbolos independiente de Occidente; China elige abrazar la latinización.
 
-### Wubi: el «cangjie» de China
+### Wubi: el «Cangjie» de China
 
-Cabe destacar que China también tiene métodos de entrada basados en la forma de los caracteres, siendo el más representativo **Wubi** (Wang Yongmin, 1983). Su lógica es similar a la de cangjie: descomponer los caracteres en trazos asignados a teclas. Wubi fue extremadamente popular en las oficinas chinas de los años 1990, pero con la inteligencia artificial aplicada a los métodos de entrada por pinyin y la popularización de los teléfonos móviles, su uso ha caído drásticamente. Hoy, más del 95% de los usuarios en China escriben con pinyin.
-
----
-
-## 🇯🇵 Japón: la triple transformación de romaji → kana → kanji
-
-### El desafío único de la escritura en japonés
-
-El japonés es uno de los sistemas de escritura más complejos del mundo, que utiliza simultáneamente tres tipos de escritura:
-
-- **Hiragana** (ひらがな): 46 sílabas básicas
-- **Katakana** (カタカナ): 46 sílabas, usadas principalmente para palabras extranjeras
-- **Kanji** (漢字): aproximadamente 2.000-3.000 de uso común
-
-El método estándar de entrada en japonés es la **entrada por romaji** (ローマ字入力):
-
-1. Se teclean letras latinas → se convierten automáticamente a hiragana: `ka` → `か`, `n` → `ん`
-2. Al seguir tecleando, el sistema compone palabras: `kanji` → `かんじ`
-3. Se pulsa la barra espaciadora para convertir a kanji: `かんじ` → `漢字`
-
-Este es un proceso de **conversión en tres capas**: letras latinas → kana → kanji, y cada capa requiere un juicio por parte del usuario.
-
-### ¿Por qué Japón usa romaji en lugar de teclear kana directamente?
-
-Japón sí tiene la opción de **entrada directa de kana** (かな入力), donde cada tecla corresponde a un símbolo kana. Pero esto requiere memorizar más de 50 posiciones de teclas, y dado que el sistema educativo japonés ya enseña romaji en las clases de inglés, la mayoría de las personas encuentra más cómodo usar las letras latinas.
-
-Hoy en día, la mayoría de los usuarios japoneses emplean la entrada por romaji (se estima una proporción de aproximadamente el 80-90%, aunque la cifra exacta varía según el método de encuesta[^6]), y solo una minoría de personas mayores o mecanógrafos profesionales usan la entrada directa de kana.
-
-### Las implicaciones culturales de la entrada en japonés
-
-La conversión de kanji en japonés tiene un efecto cultural interesante: los jóvenes están **empezando a olvidar cómo escribir kanji a mano**. Como el método de entrada muestra automáticamente el kanji correcto, el usuario solo necesita saber «cómo se lee», no «cómo se escribe». Este fenómeno tiene un nombre específico en japonés: «**漢字忘れ**» (olvidar los kanji).
+Cabe mencionar que China también tiene métodos por forma, representados por el **Wubi** (Wang Yongmin, 1983). Su lógica es parecida al Cangjie: descompone el hanzi en trazos asignados al teclado. El Wubi fue ubicuo en las oficinas chinas de los 90, pero con la inteligencia del pinyin y la普及 de los móviles, su uso se desplomó. Hoy la gran mayoría en China usa pinyin.
 
 ---
 
-## 🇰🇷 Corea del Sur: dubeolsik (el diseño de teclado más elegante)
+## 🇯🇵 Japón: rōmaji → kana → kanji, una metamorfosis en tres actos
 
-### El genio del hangul: las letras se corresponden directamente con las teclas
+### El reto único del japonés
 
-El hangul (한글) es un sistema alfabético creado en 1443 por orden del rey Sejong, y uno de los muy pocos sistemas de escritura del mundo con un inventor claramente identificado. Consta de 14 consonantes (ㄱㄴㄷㄹ⋯) y 10 vocales (ㅏㅓㅗㅜ⋯), que se combinan en bloques silábicos.
+El japonés es uno de los sistemas de escritura más complejos del mundo, que usa tres escrituras simultáneamente:
 
-Las consonantes y vocales del hangul suman solo 24 letras básicas, ¡exactamente las que caben en las 26 teclas de un teclado QWERTY!
+- **Hiragana** (ひらがな): 46 silabogramas básicos
+- **Katakana** (カタカナ): 46, principalmente para préstamos
+- **Kanji** (漢字): unos 2000-3000 de uso común
 
-### Dubeolsik (두벌식): consonantes con la izquierda, vocales con la derecha
+El método estándar japonés es la **«entrada por rōmaji»** (ローマ字入力):
 
-El método de entrada estándar de Corea del Sur, el **dubeolsik** («sistema de dos partes»), tiene un diseño extraordinariamente intuitivo:
+1. Tecleas letras latinas → conversión automática a hiragana: `ka` → `か`, `n` → `ん`
+2. Sigues tecleando, el sistema forma palabras: `kanji` → `かんじ`
+3. Pulsas espacio para convertir a kanji: `かんじ` → `漢字`
 
-- **Mano izquierda** para las consonantes: ㄱ(r) ㄴ(s) ㄷ(e) ㄹ(f) ㅁ(a)⋯
-- **Mano derecha** para las vocales: ㅏ(k) ㅓ(j) ㅗ(h) ㅜ(n) ㅡ(m)⋯
+Es un proceso de **tres capas de conversión**: letras latinas → kana → kanji, cada una requiriendo juicio del usuario.
 
-Al escribir, las manos se alternan con un ritmo natural, y **no se necesita selección de caracteres**: lo que se teclea es lo que aparece.
+### Por qué Japón usa rōmaji y no entrada directa de kana
 
-Este es el **único método de entrada de toda Asia Oriental que no requiere una lista de candidatos**. Los bloques silábicos del hangul se componen en tiempo real: `ㅎ` + `ㅏ` + `ㄴ` = 한, `ㄱ` + `ㅡ` + `ㄹ` = 글. Todo el proceso es instantáneo, sin selección.
+Japón tiene la opción de **entrada directa de kana** (かな入力), donde cada tecla corresponde a un kana. Pero exige memorizar 50+ posiciones, y el sistema educativo japonés ya enseña rōmaji en la clase de inglés, así que la mayoría encuentra más cómodo usar letras latinas.
 
-### ¿Por qué el método de entrada coreano es el más elegante?
+En ordenadores, la inmensa mayoría usa rōmaji; la entrada directa de kana es minoritaria. En móviles ocurre lo contrario: la selección directa de kana se usa ampliamente[^6].
 
-Porque el propio hangul fue diseñado para ser «fácil de escribir». La filosofía de diseño del rey Sejong era «智者不終朝而會，愚者可浹旬而學»[^3] (una persona inteligente lo domina en una mañana, una persona torpe puede aprenderlo en diez días). Seis siglos después, ese diseño sigue encajando perfectamente en la era digital: 24 letras caben justo en el teclado, consonantes y vocales se reparten entre ambas manos, no requiere conversión ni selección.
+### Significado cultural de la entrada japonesa
 
----
-
-## 🇹🇭 Tailandia: Kedmanee (una disposición heredada de la era de las máquinas de escribir)
-
-### El desafío del tailandés: 44 consonantes + símbolos tonales
-
-El tailandés tiene 44 símbolos consonánticos, 15 símbolos vocálicos (que pueden combinarse en 28 formas vocálicas), 4 símbolos tonales, sumando más de 60 caracteres en total, muy por encima del número de teclas de un teclado estándar.
-
-La solución es la **disposición Kedmanee** (เกษมณี), diseñada por Suwanprasert Ketmanee entre las décadas de 1920 y 1930 para máquinas de escribir tailandesas[^4] (Wikipedia registra que esta disposición se consolidó alrededor de 1932). Coloca los caracteres más usados en posiciones que no requieren Shift, y los menos frecuentes en la capa Shift.
-
-### Lo particular de la entrada en tailandés
-
-El tailandés es una **escritura fonética**, pero sus reglas de escritura son extremadamente complejas: las vocales pueden aparecer antes, después, encima o debajo de la consonante. Por ejemplo, เ (e) se escribe antes de la consonante, pero se pronuncia después. Esto significa que el orden de tecleo no siempre coincide con el orden de lectura, y los usuarios deben acostumbrarse a situaciones en las que «se teclea primero la vocal y luego la consonante».
-
-La entrada en tailandés no requiere selección de caracteres (similar al coreano), pero sí memorizar las dos posiciones (normal + Shift) de cada tecla.
+La conversión de kanji tiene un efecto cultural curioso: los jóvenes empiezan a **olvidar cómo escribir kanji a mano**. Como el método muestra automáticamente el kanji correcto, el usuario solo necesita saber «cómo se lee», no «cómo se escribe». Los japoneses suelen bromear: tras mucho teclear, entienden los kanji al leerlos, pero al coger el bolígrafo se les olvidan.
 
 ---
 
-## 🇲🇲 Myanmar: la guerra del Unicode
+## 🇰🇷 Corea: dubeolsik (el diseño de teclado más elegante)
 
-### Zawgyi vs. Myanmar Unicode: una guerra civil digital
+### La genialidad del hangul: letras que mapean directo a teclas
 
-La historia de los métodos de entrada en Myanmar es la más dramática de Asia Oriental. El birmano tiene 33 consonantes y reglas de combinación complejas, pero el verdadero problema no está en el método de entrada en sí, sino en la **codificación tipográfica**.
+El hangul (한글) es un sistema alfabético creado en 1443 por orden del rey Sejong el Grande, y una de las poquísimas escrituras del mundo con «inventor conocido». Consta de 14 consonantes (ㄱㄴㄷㄹ⋯) y 10 vocales (ㅏㅓㅗㅜ⋯), que se combinan en bloques silábicos.
 
-En la década de 2000, el ingeniero birmano Zaw Htut desarrolló la **fuente Zawgyi**, que no cumplía con el estándar Unicode pero se popularizó rápidamente por su facilidad de uso. Para la década de 2010, aproximadamente el 90% de los teléfonos móviles en Myanmar usaban Zawgyi.
+El hangul tiene solo 24 letras básicas (consonantes + vocales), ¡que caben justas en las 26 teclas de un QWERTY!
 
-El problema era que Zawgyi y Unicode eran incompatibles. Un mismo texto se mostraba de forma completamente distinta en ambos sistemas, causando una enorme confusión comunicativa.
+### Dubeolsik (두벌식, «dos juegos»): mano izquierda consonantes, mano derecha vocales
 
-En 2019, el gobierno de Myanmar anunció oficialmente la transición completa a **Myanmar Unicode[^5]**. Facebook también forzó ese mismo año la conversión de los usuarios birmanos de Zawgyi a Unicode. Esta migración afectó a más de 20 millones de usuarios, una escala equivalente a la mudanza de toda la infraestructura digital de un país.
+El método estándar coreano **dubeolsik** (두벌식, «dos juegos»: un juego de consonantes, uno de vocales) tiene un diseño extremadamente intuitivo[^3]:
 
----
+- **Mano izquierda** teclea consonantes: ㄱ(r) ㄴ(s) ㄷ(e) ㄹ(f) ㅁ(a)⋯
+- **Mano derecha** teclea vocales: ㅏ(k) ㅓ(j) ㅗ(h) ㅜ(n) ㅡ(m)⋯
 
-## Comparación: la filosofía del teclado de seis civilizaciones
+Al teclear, las manos alternan, con un ritmo excelente, y **no hace falta elegir candidatos**: lo que pulsas sale directamente.
 
-| Civilización     | Método de entrada predominante | Principio                                      | ¿Requiere selección?       | Posicionamiento cultural           |
-| ---------------- | ------------------------------ | ---------------------------------------------- | -------------------------- | ---------------------------------- |
-| 🇹🇼 Taiwán        | Zhuyin                         | Símbolos independientes para notación fonética | ✅ Abundantes homófonos    | Independencia cultural             |
-| 🇨🇳 China         | Pinyin                         | Transcripción fonética con alfabeto latino     | ✅ Abundantes homófonos    | Conexión internacional             |
-| 🇯🇵 Japón         | Romaji                         | Latín → kana → kanji                           | ✅ Conversión de kanji     | Conversión multicapa               |
-| 🇰🇷 Corea del Sur | Dubeolsik                      | Letras directamente correspondientes           | ✅ Composición instantánea | Adaptación perfecta                |
-| 🇹🇭 Tailandia     | Kedmanee                       | Caracteres directamente correspondientes       | ✅ Salida directa          | Herencia de la máquina de escribir |
-| 🇲🇲 Myanmar       | Myanmar Unicode                | Combinación de caracteres                      | ✅ Salida directa          | Batalla por la estandarización     |
+Entre los métodos de la esfera sinográfica, es de los pocos que **no necesita lista de candidatos** (el teclado coreano tiene tecla hanja para convertir a hanzi, pero en el uso diario no se usa). Los bloques silábicos se componen al instante: `ㅎ` + `ㅏ` + `ㄴ` = 한, `ㄱ` + `ㅡ` + `ㄹ` = 글. Todo el proceso sin latencia, sin selección.
+
+### Por qué la entrada coreana es la más elegante
+
+Porque el hangul fue diseñado para ser «fácil de aprender». El posfacio de 1446 del _Hunminjeongeum_, escrito por el ministro Jeong Inji, alaba las 28 letras creadas por Sejong: «Los sabios las dominan en una mañana; los necios las aprenden en diez días»[^9]. Seiscientos años después, ese diseño encaja perfecto en la era digital: 24 letras justas para el teclado, consonantes a la izquierda y vocales a la derecha, sin conversión, sin selección.
 
 ---
 
-## La era del móvil: un nuevo campo de batalla
+## 🇹🇭 Tailandia: Kedmanee (herencia de la era de la máquina de escribir)
 
-Los teléfonos inteligentes transformaron radicalmente el ecosistema de los métodos de entrada. El teclado zhuyin de Taiwán (en disposición de 9 teclas o completo) sigue siendo predominante en móviles, pero la entrada por escritura a mano y por voz están creciendo rápidamente. China avanza hacia la IA: Sogou Pinyin y Baidu Input se han convertido en estándares, y la «entrada por deslizamiento» ha aumentado enormemente la eficiencia del pinyin. Japón desarrolló el **método Flick** (フリック入力), donde se desliza el dedo sobre una cuadrícula de 9 teclas para seleccionar la dirección del kana, sin necesidad alguna de letras latinas. Corea del Sur cuenta con el **método Cheonjiin** (천지인, «cielo-tierra-humano`), que combina los tres trazos básicos ㅣ ㆍ ㅡ para generar todo el hangul, ideal para pantallas pequeñas.
+### El reto tailandés: 44 consonantes + signos de tono
 
-La era del móvil ha acentuado un fenómeno interesante: **las generaciones jóvenes están perdiendo la capacidad de escritura a mano**. Esto es especialmente grave en la esfera cultural de los caracteres chinos: cuando el método de entrada recuerda todos los kanji por ti, tu mano los olvida.
+El tailandés tiene 44 signos consonánticos, 16 signos vocálicos (combinables en al menos 32 formas vocálicas), 4 signos de tono; en total superan 60 caracteres, muy por encima de las teclas de un teclado estándar[^10].
+
+La solución es la **disposición Kedmanee** (เกษมณี), heredada de las máquinas de escribir tailandesas introducidas en los años 1920, siempre llamada «disposición tradicional», y bautizada en los 70 con el nombre del legendario diseñador Suwanprasert Ketmanee[^4]. Coloca los caracteres más frecuentes en posiciones sin Shift y los menos usados en la capa Shift.
+
+### Particularidades de la entrada tailandesa
+
+El tailandés es **fonético**, pero sus reglas gráficas son muy complejas: las vocales pueden aparecer delante, detrás, encima o debajo de la consonante. Por ejemplo, เ (e) se escribe antes de la consonante, pero se pronuncia después. Esto significa que el orden de tecleo no siempre coincide con el de lectura; el usuario debe acostumbrarse a «teclear primero la vocal y luego la consonante» en ciertos casos.
+
+La entrada tailandesa no requiere elegir candidatos (como el coreano), pero hay que memorizar dos capas (normal + Shift).
 
 ---
 
-## La era de la IA: ¿el fin de los métodos de entrada?
+## 🇲🇲 Birmania: la guerra del Unicode
 
-Con los avances en reconocimiento de voz y tecnología de conversación con IA, surge una pregunta fundamental: **¿seguiremos necesitando métodos de entrada?** La entrada por voz ya ha reemplazado a la escritura en muchos contextos, y el uso de mensajes de voz en WeChat en China es especialmente alto. La predicción por IA hace que los métodos de entrada sean cada vez más «inteligentes»: bastan unas pocas letras para predecir una frase entera. Los avances en reconocimiento de escritura a mano también hacen viable «escribir con el dedo sobre la pantalla».
+### Zawgyi vs Unicode birmano: una guerra civil digital
 
-Pero los métodos de entrada no desaparecerán. Porque no son solo herramientas: son **portadores de memoria cultural**. Las diez semanas que un niño taiwanés pasa aprendiendo zhuyin, el instante en que un japonés convierte romaji en kanji sobre el teclado, el ritmo de consonantes con la izquierda y vocales con la derecha de un coreano: todos son diálogos íntimos entre cada civilización y su propia escritura en la era digital.
+La historia del método de entrada birmano es la más dramática de Asia Oriental. El birmano tiene 33 consonantes y complejas reglas de combinación, pero el problema real no está en el método de entrada, sino en la **codificación de fuentes**.
+
+La fuente **Zawgyi**, lanzada en 2007, no cumple el estándar Unicode, pero por su facilidad de uso se extendió rápido, siendo la fuente dominante en webs birmanas hasta 2019[^5].
+
+El problema: Zawgyi e Unicode son incompatibles. El mismo texto se muestra totalmente distinto en ambos sistemas, causando caos masivo en la comunicación.
+
+El gobierno birmano fijó el **1 de octubre de 2019** como «U-Day», migración obligatoria a **Myanmar Unicode**[^5]. Facebook introdujo conversión automática para pasar textos Zawgyi a Unicode. Esta migración movilizó teléfonos y webs de todo el país, equivalente a una mudanza masiva de infraestructura digital.
 
 ---
 
-## Lectura complementaria
+## Comparativa: las filosofías de teclado de seis civilizaciones
 
-- [Industria de semiconductores](/es/technology/taiwan-semiconductor-industry) — La industria que produce los chips detrás de cada teclado
+| Civilización | Método principal | Principio                       | ¿Requiere selección?       | Posicionamiento cultural     |
+| ------------ | ---------------- | ------------------------------- | -------------------------- | ---------------------------- |
+| 🇹🇼 Taiwán    | Zhuyin           | Símbolos propios para fonetizar | ✅ Muchos homófonos        | Independencia cultural       |
+| 🇨🇳 China     | Pinyin           | Deletreo latino                 | ✅ Muchos homófonos        | Conexión internacional       |
+| 🇯🇵 Japón     | Rōmaji           | Latín → kana → kanji            | ✅ Conversión kanji        | Conversión multinivel        |
+| 🇰🇷 Corea     | Dubeolsik        | Letras mapean directo           | ❌ Composición instantánea | Adaptación perfecta          |
+| 🇹🇭 Tailandia | Kedmanee         | Caracteres mapean directo       | ❌ Salida directa          | Herencia máquina de escribir |
+| 🇲🇲 Birmania  | Myanmar Unicode  | Combinación de caracteres       | ❌ Salida directa          | Batalla por el estándar      |
+
+---
+
+## Era móvil: nuevo campo de batalla
+
+Los smartphones transformaron radicalmente la ecología de los métodos de entrada. El teclado zhuyin de Taiwán (nueve teclas o completo) sigue siendo mayoritario en móviles, pero la entrada manuscrita y por voz crece rápido. China avanza hacia IA: Sogou Pinyin, Baidu Input dominan; el «deslizamiento» (swipe) disparó la eficiencia del pinyin. Japón desarrolló el **método Flick** (フリック入力), deslizando el dedo en el teclado de nueve teclas para elegir la dirección del kana, sin letras latinas. Corea tiene el **método Cheonjiin** (천지인), que combina todas las vocales con tres trazos básicos —ㆍ (cielo), ㅡ (tierra), ㅣ (hombre)— ideal para pantallas pequeñas.
+
+La era móvil acentúa un fenómeno interesante: **las generaciones jóvenes están perdiendo la capacidad de escribir a mano**. En la esfera sinográfica es especialmente grave: cuando el método recuerda todos los hanzi por ti, tu mano los olvida.
+
+---
+
+## Era IA: ¿el fin de los métodos de entrada?
+
+Con el avance del reconocimiento de voz y la IA conversacional, surge una pregunta de fondo: **¿seguimos necesitando métodos de entrada?** La entrada por voz ya sustituye al tecleo en muchos escenarios; en China los mensajes de voz de WeChat son ubicuos. La predicción por IA vuelve a los métodos «más listos»: unas pocas letras predicen la frase entera. El progreso del reconocimiento manuscrito hace viable «escribir con el dedo en la pantalla».
+
+Pero los métodos de entrada no desaparecerán. Porque no son solo herramientas —son **vehículos de memoria cultural**. Las diez semanas en que los niños taiwaneses aprenden zhuyin, el momento en que los japoneses convierten rōmaji en kanji en el teclado, el ritmo de consonantes a la izquierda y vocales a la derecha de los coreanos, son diálogos íntimos de cada civilización con su propia escritura en la era digital.
+
+---
+
+## Lecturas complementarias
+
+- [Industria de semiconductores](/es/technology/taiwan-semiconductor-industry) — La industria que produce los chips detrás de los teclados
 
 ## Referencias
 
-[^1]: [Descifrando el código de los teclados (II): la historia cultural de cangjie y zhuyin](https://www.thenewslens.com/article/12229) — The News Lens; historia y contexto cultural del método de entrada cangjie
+[^1]: [Descifrando la genealogía del teclado (II): historia cultural de Cangjie y zhuyin](https://www.thenewslens.com/article/12229) — Red de Crítica Clave; historia y contexto cultural del método Cangjie
 
-[^2]: [Zhu Bangfu y el método de entrada cangjie](https://zh.wikipedia.org/zh-hant/%E6%9C%B1%E9%82%A6%E5%BE%A9) — Wikipedia; descripción del diseño de cangjie con 25 teclas (de A a Y)
+[^2]: [Método de entrada Cangjie](https://zh.wikipedia.org/zh-tw/倉頡輸入法) — Wikipedia; inventado por Zhu Bangfu en 1976, patente renunciada públicamente en 1982, tasa de colisión más baja entre métodos chinos
 
-[^3]: [Korean Keyboard Layout Guide](https://www.90daykorean.com/korean-keyboard/) — 90 Day Korean; descripción de la disposición del teclado coreano dubeolsik
+[^3]: [Guía de disposición de teclado coreano](https://www.90daykorean.com/korean-keyboard/) — 90 Day Korean; explicación de la configuración dubeolsik (2-set)
 
-[^4]: [Thai Kedmanee Keyboard Layout](https://en.wikipedia.org/wiki/Thai_Kedmanee_keyboard_layout) — Wikipedia; datos del diseñador Suwanprasert Ketmanee y período de creación
+[^4]: [Disposición de teclado tailandés Kedmanee](https://en.wikipedia.org/wiki/Thai_Kedmanee_keyboard_layout) — Wikipedia; heredada de máquinas de escribir tailandesas de los 1920, bautizada en los 70 con el nombre del legendario diseñador Suwanprasert Ketmanee
 
-[^5]: [Myanmar's Zawgyi Unicode Migration](https://en.wikipedia.org/wiki/Zawgyi_font) — Wikipedia; proceso de transición de Zawgyi a Unicode en Myanmar
+[^5]: [Fuente Zawgyi](https://en.wikipedia.org/wiki/Zawgyi_font) — Wikipedia; lanzada en 2007, el 1 de octubre de 2019 el gobierno birmano decretó el U-Day para migrar a Unicode
 
-[^6]: [日本語入力 - ローマ字入力](https://www.youtube.com/watch?v=_HXOVMobmAA) — Tutorial en YouTube; situación actual del uso de la entrada por romaji en Japón
+[^6]: [Entrada kana](https://ja.wikipedia.org/wiki/かな入力) — Wikipedia en japonés; §状況 de uso: móviles usan ampliamente entrada kana, ordenadores mayoritariamente rōmaji
+
+[^7]: [Símbolos zhuyin](https://zh.wikipedia.org/zh-tw/注音符號) — Wikipedia; basados en los «caracteres de iniciales» y «caracteres de finales» de Zhang Taiyan, acordados en la Conferencia de Unificación de la Lectura de 1913, promulgados en 1918
+
+[^8]: [Método de entrada Array](https://zh.wikipedia.org/zh-tw/行列輸入法) — Wikipedia; inventado por Liao Mingde, la versión temprana «Array 40» usaba teclas numéricas, la actual «Array 30» solo tres filas de letras
+
+[^9]: [Hunminjeongeum](https://zh.wikisource.org/wiki/訓民正音) — Texto original en Wikisource; posfacio de Jeong Inji: «Los sabios las dominan en una mañana, los necios las aprenden en diez días», fechado en el 11º año de Jeongtong, mes 9
+
+[^10]: [Escritura tailandesa](https://en.wikipedia.org/wiki/Thai_script) — Wikipedia; 44 signos consonánticos, 16 signos vocálicos combinables en al menos 32 formas vocálicas, 4 signos de tono

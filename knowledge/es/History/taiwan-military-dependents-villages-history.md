@@ -1,204 +1,230 @@
 ---
-title: 'Historia de los militares dependientes de Taiwán'
-description: 'De los soldados huérfanos de Birmania al reino de las cercas de bambú, cómo una migración de 1,2 millones de personas redefinió el concepto de "hogar"'
+title: 'Historia de los pueblos de dependientes militares de Taiwán'
+description: 'Desde el ejército solitario en Birmania hasta el reino de vallas de bambú, cómo la gran migración de 1,2 millones de personas redefinió el concepto de «hogar»'
 date: 2026-03-22
+category: 'History'
 tags:
   [
-    'militares dependientes',
-    'inmigrantes de China continental',
-    'Guerra Civil China',
+    'pueblos de dependientes militares',
+    'inmigrantes de provincias exteriores',
+    'guerra civil chino-comunista',
     'preservación cultural',
     'renovación urbana',
   ]
 subcategory: '社會與日常史'
 author: 'Taiwan.md Contributors'
-readingTime: 12
-category: 'History'
 featured: true
 lastVerified: 2026-03-22
 lastHumanReview: false
-translatedFrom: 'History/台灣眷村歷史.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:e26ca70cc051b743'
-sourceBodyHash: 'sha256:6ea24f40d826e7d7'
-translatedAt: '2026-05-01T22:19:10+08:00'
 difficulty: 'intermediate'
+readingTime: 12
+translatedFrom: 'History/台灣眷村歷史.md'
+sourceCommitSha: 'e1247815f'
+sourceContentHash: 'sha256:a769f300a4a6b10d'
+sourceBodyHash: 'sha256:62a8c3544391f28d'
+translatedAt: '2026-10-04T00:51:58+08:00'
 ---
 
-# Historia de los militares dependientes de Taiwán
+# Historia de los pueblos de dependientes militares de Taiwán
 
-> **Resumen en 30 segundos:** El primer asentamiento de militares dependientes de Taiwán no fue construido para el ejército nacionalista en general, sino para los "soldados huérfanos" que vagaron durante 5 años por las selvas de Birmania antes de llegar a Taiwán. Este Ejército de Resistencia Anticomunista de Yunnan, liderado por el general Li Mi, vivió un destino más errante que el de cualquier otro grupo de inmigrantes de China continental. A partir de 1954, se construyeron más de 300 asentamientos de militares dependientes en toda la isla, albergando la memoria de una migración de 1,2 millones de personas, y convirtiéndose finalmente en un componente esencial de la diversidad cultural taiwanesa.
+> **Resumen en 30 segundos:** A partir de finales de la década de 1940, el Gobierno nacionalista construyó pueblos de dependientes militares para alojar a los familiares de los soldados que llegaron a Taiwán. En 1984, el Ministerio de Defensa Nacional tenía registrados 888 pueblos, y las estadísticas de 1982 indicaban que unas 470 000 personas vivían en ellos. El pueblo Zhongzhen Xincun en Taoyuan es uno de ellos, construido en el otoño de 1954 para los familiares del Ejército de Salvación Nacional Anticomunista de Yunnan que se retiró desde el norte de Birmania, tras librar una guerra de guerrillas de casi cuatro años en la frontera sino-birmana. Desde vallas de bambú hasta viviendas públicas, los pueblos de dependientes militares acabaron convirtiéndose en un gen cultural esencial de la diversidad de Taiwán.
 
-En el otoño de 1954, en la frontera entre Pingzhen y Zhongli en Taoyuan, se completaron rápidamente 530 viviendas rudimentarias. Estas casas, construidas con cercas de bambú, barro amarillo y láminas de hierro, tenían un promedio de menos de 10 ping (33 m²), pero albergaban el destino de un grupo especial de residentes: no eran familias de militares que habían llegado a Taiwán directamente con el Gobierno Nacionalista, sino familias de los "soldados huérfanos" que habían viajado desde China continental a Birmania y luego a Taiwán.
+En el otoño de 1954, en Longgang, en el límite entre Pingzhen y Zhongli en Taoyuan, el Ministerio de Defensa Nacional levantó unas 530 viviendas precarias (Wikipedia registra 534, otras fuentes 503)[^1]. Estas casas, construidas con vallas de bambú, barro amarillo y chapas de hierro, tenían un promedio de menos de 33 m² por familia, pero albergaban el destino de un grupo especial de residentes: no eran dependientes militares que hubieran venido directamente a Taiwán con el Gobierno nacionalista, sino los familiares del «ejército solitario» que fue de la China continental a Birmania y de allí a Taiwán.
 
-**La fundación de Zhongzhun, el primer asentamiento de militares dependientes de Taiwán, determinó la naturaleza compleja de su cultura: no era solo un diálogo entre los recién llegados de China continental y los taiwaneses nativos, sino una dialéctica entre el exilio y el asentamiento, lo temporal y lo permanente, el hogar y el extranjero.**
+**El nacimiento de Zhongzhen Xincun ilustra la compleja naturaleza de la cultura de los pueblos de dependientes militares: no es solo un diálogo entre waishengren y benshengren, sino una dialéctica entre exilio y asentamiento, lo temporal y lo permanente, la patria y la tierra extraña.**
 
 ## El complejo espectro de la gran migración
 
 ### 1,2 millones de personas, múltiples rutas
 
-"1,2 millones de militares y civiles llegaron a Taiwán con el gobierno" es la versión estándar de los libros de texto, pero la realidad es mucho más compleja. Según investigaciones históricas, esta cifra abarca oleadas migratorias entre 1945 y 1953:
+La expresión «1,2 millones de militares y civiles siguieron al Gobierno a Taiwán» es común, pero la realidad es mucho más compleja. Los militares y civiles llegaron a Taiwán en varias oleadas entre 1945 y 1954:
 
-- **1945-1949:** Aproximadamente 600.000 militares llegaron directamente a Taiwán, además de unos 500.000 funcionarios públicos y civiles.
-- **1950:** La evacuación de las Islas Choushan trajo 70.000 militares, más aproximadamente 120.000 civiles acompañantes.
-- **1953:** Las tropas del general Huang Jie desde la isla de Phu Quoc en Vietnam sumaron 26.028 personas.
-- **1954:** Aproximadamente 14.000 prisioneros de guerra chinos de la Guerra de Corea, más 3.000 remanentes de las fuerzas de Li Mi en Birmania.
+- **En torno a 1949**: el Gobierno retiró a Taiwán unos 600 000 soldados, además de funcionarios y civiles[^2]
+- **1950**: retirada del archipiélago de Zhoushan; en tres días, más de 120 000 soldados del Ejército Nacionalista y unos 20 000 residentes locales fueron evacuados a Taiwán[^3]
+- **1953**: las tropas de Huang Chieh, retenidas en la isla de Phu Quoc (Vietnam), fueron trasladadas a Taiwán; llegaron unas 30 000 personas[^4]
+- **Finales de 1953 a 1954**: el Ejército de Salvación Nacional Anticomunista de Yunnan se retiró del norte de Birmania en tres oleadas; la primera retirada sumó 6 986 personas[^5]; más de 14 000 prisioneros de guerra del Ejército Popular Voluntario Chino en la Guerra de Corea eligieron ir a Taiwán; el primer grupo llegó a Keelung el 23 de enero de 1954[^6]
 
-**No fue una retirada única, sino un exilio intermitente que duró 8 años.** Detrás de cada oleada migratoria había diferentes desesperanzas y esperanzas. Las familias militares que llegaron directamente contaron con asistencia gubernamental, pero las familias de los soldados huérfanos experimentaron un doble exilio: primero la pérdida de su hogar, luego la supervivencia en la frontera.
+**No fue una sola retirada, sino casi diez años de éxodo intermitente.** Detrás de cada oleada migratoria hay historias distintas de desesperación y esperanza. Muchos dependientes militares que vinieron directamente contaron con alojamiento gubernamental, pero los familiares del ejército solitario sufrieron un doble exilio: primero la pérdida de su tierra natal, luego la supervivencia en la frontera.
 
-### El destino especial de los soldados huérfanos
+### El destino especial del ejército solitario
 
-La División 193 del Ejército de Resistencia Anticomunista de Yunnan, liderada por el general Li Mi, fue el grupo con la experiencia más tortuosa de todos los que emigraron a Taiwán. Tras la derrota del Ejército Nacionalista en Yunnan en 1949, esta unidad no se retiró directamente a Taiwán, sino que se internó en las selvas del norte de Birmania, donde libró una guerra de guerrillas durante 5 años en la frontera birmano-china.
+El Ejército de Salvación Nacional Anticomunista de Yunnan, comandado por Li Mi, es el grupo con la trayectoria más tortuosa entre todos los que emigraron a Taiwán. A finales de 1949, tras la derrota del Ejército Nacionalista en Yunnan, esta fuerza no se retiró directamente a Taiwán, sino que se internó en el norte de Birmania, donde libró una guerra de guerrillas durante casi cuatro años en la frontera sino-birmana.
 
-> **📝 Nota del curador**
-> La "orfandad" de los soldados huérfanos no era solo un aislamiento geográfico, sino también una incomodidad política. No eran reconocidos por el gobierno birmano ni aceptados por la comunidad internacional, y su estatus de "fuerza aliada" era ambiguo.
+> **📝 Nota del curador**  
+> La «soledad» del ejército solitario no es solo geográfica, sino también política. No eran reconocidos por el Gobierno birmano, ni aceptados por la comunidad internacional, e incluso su condición de «fuerzas amigas» era ambigua.
 
-A principios de 1954, bajo presión internacional, los soldados huérfanos de Li Mi finalmente obtuvieron permiso para retirarse a Taiwán. Pero cuando estos hombres, mujeres y niños llegaron al aeropuerto de Songshan en Taipéi, lo que los recibió no fue una bienvenida heroica, sino la realidad de ser dispersados y alojados en almacenes de azúcar de Taiwán Sugar Corporation en Chiayi. La escasez de suministros era "incluso peor que durante la guerra de guerrillas en el norte de Birmania", lo que llevó al gobierno a construir urgentemente el asentamiento de Zhongzhun en Taoyuan.
+Tras la denuncia de Birmania ante la ONU por la ocupación de su territorio por tropas del Ejército Nacionalista, el Gobierno de la República de China negoció con EE. UU., Tailandia y Birmania, decidiendo retirar las tropas en Birmania. A partir de finales de 1953, Li Mi condujo a la 93.ª División y a sus familiares en varias oleadas hacia Taiwán[^1]. Lo que recibió a estos hombres, mujeres, ancianos y niños no fue una bienvenida de héroes, sino la realidad de ser dispersados y alojados temporalmente en almacenes de ingenios azucareros de Taiwan Sugar Corporation en Xizhou, Dailin, Wufeng y otros lugares; la escasez de suministros «llegó a superar incluso la de la época de guerrillas en el norte de Birmania»[^7], lo que motivó la decisión del Ministerio de Defensa de construir Zhongzhen Xincun en Taoyuan en el otoño de 1954.
 
-**El primer asentamiento de militares dependientes de Taiwán fue construido para los últimos en llegar.** Esta ironía temporal presagió la naturaleza multicultural de los asentamientos.
+A menudo se dice que Zhongzhen Xincun es «el primer pueblo de dependientes militares construido tras la retirada del Gobierno nacionalista a Taiwán»[^7], pero esta afirmación no se sostiene. El pueblo Sizhong Nancun en Sanzhangli, Taipéi, ya se había construido en 1948[^8]; el pueblo Huangpu Xincun en Fengshan fue ocupado por las tropas de Sun Li-jen en 1949[^9]; el pueblo Qiao'ai Xincun en Daxi, Taoyuan, también fue uno de los primeros pueblos construidos[^10]. **Zhongzhen Xincun es uno de los pueblos que el Ministerio de Defensa construyó para el ejército solitario que llegó tarde.** Su singularidad no radica en la cronología, sino en el origen de sus residentes: los acentos y la gastronomía de Yunnan, Tailandia y Birmania lo diferenciaban desde el principio de los demás pueblos.
 
-## La fundación de la república de las cercas de bambú
+## La fundación de la República de las vallas de bambú
 
-### Geografía por rama militar
+### Geografía militar por armas
 
-La distribución espacial de los asentamientos de militares dependientes reflejaba la política de las ramas militares. Los residentes de cada asentamiento provenían casi todos de la misma rama militar, e incluso de la misma unidad:
+La distribución espacial de los pueblos refleja la política por armas. Muchos pueblos se organizaban según el arma o la unidad; en un mismo pueblo, casi todos los hombres pertenecían al mismo arma, e incluso a la misma unidad[^7]:
 
-- **Zuoying, Kaohsiung:** Asentamientos de la Marina, predominantemente de Shandong (la Marina tenía una base importante en Weihai, Shandong).
-- **Qingquangang, Taichung:** Asentamientos de la Fuerza Aérea.
-- **Zhongzhun, Taoyuan:** Guerrilleros de Birmania-Yunnan, con fuerte cultura Dai de Yunnan.
-- **Erkong, Tainan:** Fuerza Aérea, predominantemente de Sichuan y Hunan.
+- **Zuoying, Kaohsiung**: pueblos de la Armada, con concentración de personas de Shandong; los mercados se centraban en fideos[^11]
+- **Qingquangang, Taichung**: pueblos de la Fuerza Aérea
+- **Zhongzhen Xincun, Taoyuan**: guerrilleros de Yunnan-Birmania, fuerte cultura yi de Yunnan
+- **Erkong, Rende, Tainan**: Fuerza Aérea, principalmente de Sichuan y Hunan[^11]
 
-> **💡 ¿Sabías que...?**
-> Según las estadísticas de origen provincial de los militares que llegaron a Taiwán, Shandong fue el más numeroso (72.600 personas), seguido por Guangdong (66.600) y Jiangsu (54.900). Estos números determinaron directamente el "mapa dialectal" de los asentamientos.
+> **💡 ¿Sabías que...**  
+> Según la división administrativa actual de China, la provincia de origen con más militares llegados a Taiwán fue Shandong (72 604 personas), seguida de Guangdong (66 613) y Jiangsu (54 950)[^2]. Estas cifras determinaron directamente el «mapa dialectal» de los pueblos.
 
-Este modelo de agrupamiento por rama militar respondía tanto a necesidades de gestión gubernamental como a una extensión natural de la cultura militar. Las relaciones entre compañeros de armas, que en el campo de batalla eran lazos de vida o muerte, se convirtieron en Taiwán en apoyo vecinal. **Los asentamientos de militares dependientes no eran solo zonas residenciales, sino una extensión civil de la cultura militar.**
+Este patrón de agrupamiento por armas respondía tanto a necesidades de gestión gubernamental como a la extensión natural de la cultura militar. La camaradería forjada en el campo de batalla se convirtió en apoyo vecinal en Taiwán. **Los pueblos no eran solo zonas residenciales, sino la prolongación civil de la cultura militar.**
 
 ### Escasez material, riqueza espiritual
 
-Las condiciones materiales de los primeros asentamientos eran extremadamente precarias. Las casas de Zhongzhun "promediaban menos de 10 ping, y el espacio protegido del viento y la lluvia era solo de unos 4,5 ping"; la sala de estar también servía de dormitorio, y la cocina solo cabía un fogón. Paredes de cerca de bambú, juntas rellenas de barro, techos de lámina de hierro, con riesgo de electrocución durante tormentas.
+Las condiciones materiales de los primeros pueblos eran extremadamente precarias. Las casas de Zhongzhen Xincun tenían «un promedio de menos de 10 ping [33 m²] por familia, y el espacio que realmente resguardaba del viento y la lluvia era de apenas 4,5 a 5 ping [15-16,5 m²]»[^7]; la sala servía de dormitorio, la cocina solo cabía un fogón. Paredes de valla de bambú, juntas rellenas de barro amarillo, techos de chapa; cuando llovía y tronaba, había riesgo de electrocución.
 
-Pero en medio de la escasez material, los residentes desarrollaron una creatividad asombrosa:
+Pero en medio de la carencia material, los residentes desarrollaron una creatividad asombrosa:
 
-- Barriles de gasolina vacíos como pozos de agua.
-- Tablas de madera descartadas para tabiques.
-- Paraguas rotos como toldos.
-- Sacos de harina reconvertidos en sábanas y ropa.
+- Bidones de gasolina vacíos como pozos de agua
+- Tablas de desecho para tabiques interiores
+- Paraguas rotos transformados en toldos
+- Sacos de harina reconvertidos en sábanas y ropa
 
-**"La filosofía del esfuerzo en la adversidad" no era una elección, sino una habilidad de supervivencia.** Pero fue precisamente esta experiencia compartida de dificultad la que forjó la cohesión comunitaria característica de los asentamientos.
+**La «filosofía de superar la dificultad» no era una elección, era una habilidad de supervivencia.** Y precisamente esa experiencia compartida de penuria forjó la cohesión comunitaria única de los pueblos.
 
-## Reconstrucción de la memoria culinaria
+## La reconstrucción de la memoria gastronómica
 
-### Fusión popular de las ocho grandes cocinas
+### La fusión popular de las ocho grandes cocinas
 
-El legado cultural más concreto de los asentamientos de militares dependientes es la gastronomía. Las madres de los asentamientos, provenientes de todas las regiones de China, reconstruyeron las ocho grandes cocinas de la gastronomía china con ingredientes limitados y cocinas precarias, pero este proceso de reconstrucción era en realidad un proceso de innovación.
+El legado cultural más tangible de los pueblos es la gastronomía. Las madres de los pueblos, venidas de los cuatro rincones, reconstruyeron en cocinas precarias y con ingredientes limitados las ocho grandes cocinas chinas —pero ese proceso de reconstrucción fue, en realidad, un proceso de innovación.
 
-> **⚠️ Punto de vista controvertido**
-> El escritor Jiao Tong dijo: "En Sichuan no hay fideos con carne de res estilo Sichuan, en Mongolia no hay parrilla mongol, en Fuzhou no hay fideos Fuzhou." ¿La cocina de los asentamientos es "sabor del hogar" o "sabor taiwanés"? La respuesta puede ser ambas cosas y ninguna.
+> **⚠️ Punto de vista controvertido**  
+> El escritor Jiao Tong dijo una vez: «En Sichuan no existe el fideos de ternera estilo Sichuan, en Mongolia no existe el cordero asado estilo mongol, en Fuzhou no existen los fideos estilo Fuzhou»[^11]. ¿La cocina de los pueblos es «sabor de la tierra natal» o «sabor de Taiwán»? La respuesta quizás sea ambas, y ninguna a la vez.
 
-**Las tres características principales de la cocina de los asentamientos:**
+**Tres rasgos de la cocina de los pueblos:**
 
-1. **Localización con ingredientes disponibles:** Usar verduras taiwanesas para cocinar platos del hogar, adaptando los sabores al paladar taiwanés.
-2. **Pragmatismo económico y saciante:** Un guiso alimenta a toda la familia, un bloque de tofu se transforma en diez preparaciones distintas.
-3. **Intercambio de técnicas entre provincias:** Las mamás de Shandong aprenden el picante de Sichuan, las de Jiang-Zhe usan técnicas de salteado cantonés.
+1. **Localización con ingredientes disponibles**: usar verduras taiwanesas para platos de la tierra natal, adaptando el sazón al paladar taiwanés
+2. **Pragmatismo económico y saciante**: un guiso alimenta a toda la familia, un bloque de tofu da para diez platos
+3. **Intercambio técnico interprovincial**: las madres de Shandong aprenden el picante de Sichuan, las de Jiangsu y Zhejiang usan técnicas de salteado cantonés
 
-Los fideos con carne de res son el mejor ejemplo. Los fideos con carne de res estilo Sichuan echaron raíces en Kaohsiung, mientras que la calle Yongkang en el norte desarrolló una variante de caldo claro, y el centro-sur de Taiwán usa hierbas medicinales chinas en lugar de pasta de frijol fermentado. **Los "fideos con carne de res" se convirtieron en un aperitivo representativo de Taiwán, pero el Sichuan original no tiene este plato.**
+El fideos de ternera es el mejor ejemplo. Tras la retirada del Gobierno a Taiwán, el fideos de ternera estilo Sichuan echó raíces en Kaohsiung; luego aparecieron puestos en la calle Yongkang y la zona de Xinyi Road en Taipéi; en el centro y sur se popularizó el fideos de ternera estofado con hierbas medicinales en lugar de doubanjiang[^11]. **El «fideos de ternera» se convirtió en un aperitivo representativo de Taiwán, pero en Sichuan no existe el «fideos de ternera estilo Sichuan».**
 
-### El mercado como punto de encuentro cultural
+### Los mercados como puntos de encuentro cultural
 
-Los mercados de los asentamientos fueron la primera línea de intercambio cultural entre los recién llegados de China continental y los taiwaneses nativos. Tomando como ejemplo el mercado de Zhongzhun, inicialmente eran agricultores locales (de Xiao-li) que llevaban sus carretas de verduras al asentamiento vendiendo de puerta en puerta, las madres del asentamiento se convirtieron en clientas fijas, y gradualmente se formó un mercado.
+Los mercados de los pueblos fueron la primera línea de intercambio entre la cultura waishengren y benshengren. Tomemos el mercado de Zhongzhen: al principio, agricultores de la cercana Xiaoli entraban al pueblo con carretillas vendiendo verduras a gritos[^7]; las madres de los pueblos se volvieron clientas fijas y se formó poco a poco un mercado.
 
-**Esta aparentemente simple relación comercial fue en realidad el primer contacto profundo entre dos comunidades.** Los taiwaneses nativos aprendieron sabores de China continental, los recién llegados se familiarizaron con ingredientes taiwaneses. Los panes fritos con churros coexistieron con el arroz con cerdo estofado, la leche de soja con el té antiguo, todo en el mismo mercado.
+**Esta relación comercial aparentemente simple fue en realidad el primer contacto profundo entre dos comunidades.** Los benshengren aprendieron los gustos waishengren; los waishengren conocieron los ingredientes taiwaneses. El shaobing youtiao y el luroufan, la leche de soja y el té rojo tradicional, empezaron a coexistir en un mismo mercado.
 
-## Trayectoria generacional del cambio identitario
+## La trayectoria de tres generaciones en la transformación identitaria
 
-### Primera generación: la nostalgia eterna
+### Primera generación: nostalgia eterna
 
-La primera generación de los asentamientos mantuvo siempre un apego por su hogar. Su "China" no era una entidad política, sino los panecillos al vapor de Shandong, el cerdo estofado de Sichuan y las salchichas ahumadas de Hunan en su memoria.
+La primera generación de los pueblos mantuvo siempre el anhelo por la tierra natal. Su «China» no era una entidad política, sino la memoria de los grandes panes al vapor de Shandong, la ternera estofada roja de Sichuan, los embutidos y la carne curada de Hunan.
 
-El gobierno esperaba originalmente un "contraataque al continente" rápido, por lo que los asentamientos fueron diseñados como temporales. Las viviendas precarias y la infraestructura insuficiente reflejaban la expectativa optimista de "pronto podremos volver a casa". **Pero 3 años se convirtieron en 30, lo temporal se hizo permanente, y los asentamientos se convirtieron en un "pequeño hogar" por necesidad.**
+El Gobierno esperaba originalmente una «recuperación de la China continental» rápida y decisiva, por lo que el diseño de los pueblos era de carácter temporal. La precariedad de las viviendas y la insuficiencia de infraestructuras reflejaban el optimismo de «pronto podremos volver a casa». **Pero tres años se volvieron treinta, lo temporal se volvió permanente, y los pueblos se convirtieron en «pequeñas patrias» involuntarias.**
 
-La política lingüística también reflejaba esta mentalidad. Los asentamientos promovieron vigorosamente la educación en mandarín, pero este "mandarín" no solo cumplía una función comunicativa, sino que también era una identidad cultural. Los hijos de los asentamientos podían recitar nombres de lugares en la cuenca del Yangtsé, pero no sabían el nombre del arroyo de al lado.
+La política lingüística refleja también esa mentalidad. En los pueblos se impulsaba fuertemente la educación en guoyu (mandarín), pero ese «guoyu» no solo cumplía una función comunicativa, sino que cargaba identidad cultural. Los niños de los pueblos podían recitar los topónimos de la cuenca del Yangtsé, pero no sabían el nombre del arroyo junto a su casa.
 
-### Segunda generación: la tensión identitaria
+### Segunda generación: el tira y afloja identitario
 
-La segunda generación de los asentamientos enfrentó un dilema identitario sin precedentes. Crecieron en los asentamientos, recibieron educación cultural china, pero vivían en Taiwán. Tras la levantamiento de la ley marcial en 1987 y la apertura de visitas al continente, esta división se agravó.
+La segunda generación enfrentó un dilema identitario sin precedentes. Crecieron en los pueblos, recibieron educación en cultura china, pero la tierra donde vivían era Taiwán. Tras el levantamiento de la ley marcial y la apertura de visitas a familiares en 1987, esta fractura se intensificó.
 
-**La contradicción interesante es:** Cuando los veteranos de la primera generación finalmente pudieron regresar a visitar su hogar, muchos descubrieron que ya no se "adaptaban". 40 años de separación convirtieron el "hogar" en un lugar extraño. En cambio, aunque Taiwán había sido un "lugar temporal", ya era el verdadero "hogar".
+**La paradoja interesante es:** cuando los veteranos de la primera generación pudieron finalmente volver a visitar su tierra natal, muchos descubrieron que ya «no se adaptaban». Cuarenta años de separación habían convertido la «patria» en tierra extraña. Por el contrario, Taiwán, que había sido «lugar de estancia temporal», se había vuelto el verdadero «hogar».
 
-Las posturas política de la segunda generación también divergieron: algunos apoyaban la reunificación, otros la independencia, y muchos más el statu quo. **"Soy hijo de asentamiento, y también soy taiwanés" — esto no es una contradicción, es la realidad.**
+Las posiciones políticas de la segunda generación se diversificaron: partidarios de la unificación, de la independencia, pero mayoritariamente a favor del _statu quo_. **«Soy hijo de pueblo de dependientes militares, y también soy taiwanés» — esto no es una contradicción, es la realidad.**
 
 ### Tercera generación: búsqueda de raíces culturales
 
-La tercera generación de los asentamientos en su mayoría no creció en ellos, y su memoria proviene principalmente de las historias de sus padres. Pero paradójicamente, fue esta generación la que inició el movimiento de "rescate" de la cultura de los asentamientos.
+La tercera generación casi no creció en los pueblos; su memoria proviene principalmente de los relatos de sus padres. Paradójicamente, es esta generación la que inició el movimiento de «rescate» de la cultura de los pueblos.
 
-A través de trabajo de campo, historia oral y archivo digital, la tercera generación redescubrió los asentamientos. Esta "búsqueda de raíces culturales" refleja la búsqueda de raíces culturales en la era de la globalización. **No buscan una identidad política, sino la riqueza de la identidad cultural.**
+Mediante trabajo de campo, historia oral, archivos digitales, la tercera generación redescubre los pueblos. Esta «búsqueda de raíces culturales» refleja, en la era de la globalización, el anhelo de las personas por sus orígenes culturales. **Lo que buscan no es una identidad política, sino la riqueza de la identidad cultural.**
 
-## La tensión entre demolición y preservación
+## El tira y afloja entre demolición y preservación
 
-### 1996: La doble filo de la ley de remodelación
+### 1996: la Ley de Reconstrucción, arma de doble filo
 
-La aprobación de la Ley de Remodelación de Antiguos Asentamientos Militares en 1996 marcó el inicio de la desaparición masiva de los asentamientos. Los objetivos de la política eran prácticos: mejorar la calidad de vida en los asentamientos, liberar terrenos en ubicaciones privilegiadas y resolver necesidades de desarrollo urbano.
+La promulgación en febrero de 1996 de la «Ley de Reconstrucción de Antiguos Pueblos de Dependientes Militares»[^12] marcó el inicio de la desaparición masiva de los pueblos. Los objetivos eran pragmáticos: mejorar la calidad de vida de los residentes, liberar terrenos en zonas prime, satisfacer las necesidades de desarrollo urbano.
 
-> **📊 Fuente de datos**
-> Según estadísticas del Ministerio de Defensa Nacional, antes de la implementación de la ley de remodelación en 1996, había aproximadamente 300 asentamientos en toda la isla. Para la década de 2020, aproximadamente el 90% había sido remodelado, y solo unos 30 habían obtenido protección como patrimonio cultural.
+> **📊 Fuente de datos**  
+> En 1984, el Ministerio de Defensa tenía registrados 888 pueblos, 109 786 hogares; tras la ley, el número disminuyó año a año; en 2001 el Ministerio anunció que quedaban 530 pueblos públicos bajo su gestión[^10]. En 2018, la secretaria general de la Presidencia, Chen Chu, dijo en la inauguración del Parque Cultural de Pueblos de Dependientes Militares 886 en Kaohsiung que «en toda la isla hay 886 pueblos»[^13].
 
-Los asentamientos remodelados se convirtieron en viviendas públicas modernas, resolviendo efectivamente los problemas de calidad de vida. Pero la estructura comunitaria original desapareció, y las relaciones vecinales se distanciaron. **Los residentes que se mudaron a los nuevos apartamentos disfrutaron de las comodidades de la vida moderna, pero perdieron ese sentido comunitario de "una familia asa carne y toda la vecindad huele".**
+Los pueblos reconstruidos se transformaron en modernos complejos de vivienda pública, resolviendo efectivamente los problemas de habitabilidad. Pero la morfología original de los asentamientos desapareció, y con ella las relaciones vecinales. **Los residentes que se mudaron a los nuevos apartamentos ganaron comodidad moderna, pero perdieron aquel sentido de comunidad donde «una familia asa carne y diez mil familias huelen el aroma».**
 
-El proceso de remodelación no fue sin conflictos. Disputas por asignación, compensaciones por traslado y pérdida emocional provocaron muchas protestas. La pregunta más profunda era: **¿Cuando los asentamientos se convierten en viviendas públicas, puede sobrevivir la "cultura de los asentamientos"?**
+El proceso no fue suave. Disputas en la asignación, compensaciones de reubicación, pérdida emocional, provocaron numerosas protestas. La cuestión más profunda es: **cuando el pueblo se vuelve complejo de viviendas, ¿puede seguir existiendo la «cultura de los pueblos de dependientes militares»?**
 
-### El despertar de la preservación: de la construcción ilegal al patrimonio cultural
+### Despertar de la preservación: de construcciones ilegales a bienes culturales
 
-Baozangyan fue un caso clave en el movimiento de preservación de los asentamientos. Este asentamiento en ladera cerca de Gongguan en Taipéi fue originalmente clasificado como "construcción ilegal" y enfrentaba demolición total. Pero tras los esfuerzos de los residentes locales, en 2004 fue designado como "edificio histórico".
+Baocangyan es un caso clave del movimiento de preservación. Este asentamiento en la ladera cerca de Gongguan, Taipéi, fue calificado originalmente como «construcción ilegal» y enfrentaba demolición total. Pero gracias a la movilización local, en 2004 se registró como «edificio histórico» y en 2011 como «grupo de edificios de asentamiento»[^14].
 
-El Arcoíris Village (Caihong Juancun) representó otro modelo de preservación. Cuando el sexto asentamiento de Gancheng en Taichung enfrentaba demolición, el residente Huang Yongfu comenzó a pintar murales en las paredes. Lo que comenzó como un acto de protesta personal se hizo viral en internet en 2010, y finalmente llevó al gobierno a preservar el Arcoíris Village como "Parque de Arte Arcoíris".
+El Pueblo Arcoíris representa otro modelo de preservación. Está en Nantun, Taichung, junto al pueblo Gancheng Liucun, pero no pertenece a los pueblos gestionados por el Ministerio de Defensa; son casas que construyeron ellos mismos varios veteranos. El veterano Huang Yongfu compró una de ellas en 1979; luego, un plan de rezonificación ordenó la demolición. En agosto de 2008, para matar el aburrimiento y dejar un recuerdo antes de la demolición, empezó a pintar murales en las paredes. En 2010, profesores y estudiantes de las universidades Ling Tung y Hong Kong lanzaron el movimiento «Salvar el Pueblo Arcoíris»; en septiembre, el Gobierno municipal de Taichung decidió conservarlo como «Parque Artístico Arcoíris»[^15].
 
-> **💡 ¿Sabías que...?**
-> El abuelo Huang Yongfu comenzó a pintar en 2008 cuando tenía casi 90 años, no sabía usar internet, y dependió de voluntarios que le ayudaron a crear un sitio web y vender productos culturales creativos para financiar el mantenimiento de las pinturas y el edificio. Los pinceles de un anciano se convirtieron inesperadamente en un nuevo modelo de preservación de asentamientos.
+> **💡 ¿Sabías que...**  
+> Huang Yongfu nació en 1924; cuando empezó a pintar en 2008 tenía 84 años. Tras la fama viral del Pueblo Arcoíris, la Oficina de Cultura de Taichung, considerando que no dominaba internet, encargó un sitio web oficial, reclutó voluntarios y organizó venta benéfica de productos culturales tanto en la web como in situ, para cubrir los gastos de pintura y mantenimiento del edificio[^15]. Los pinceles de un abuelo se convirtieron inesperadamente en un nuevo modelo de preservación de los pueblos.
 
-**Estos dos casos ilustran los múltiples caminos de la preservación de los asentamientos: discurso académico, movilización comunitaria, difusión en red y cambio de políticas, todos indispensables.**
+**Estos dos casos ilustran las múltiples vías de la preservación: discurso académico, movilización comunitaria, difusión en red, giro político; ninguna sobra.**
 
-## La transformación contemporánea del espíritu de los asentamientos
+## La transformación contemporánea del espíritu de los pueblos
 
 ### Del espacio a la memoria
 
-La mayoría de los asentamientos físicos han desaparecido, pero el "espíritu de los asentamientos" encontró nuevos vehículos en la era digital:
+Los pueblos físicos han desaparecido en su mayoría, pero el «espíritu de los pueblos» halla nuevos soportes en la era digital:
 
-- **Grupos de Facebook:** Los "reuniones de antiguos alumnos del asentamiento XX" reconstruyen comunidades virtuales.
-- **Proyectos de historia oral:** Registro de las historias de los ancianos de los asentamientos mediante video.
-- **Reconstrucción digital 3D:** Los asentamientos perdidos renacen en el espacio virtual.
-- **Industria cultural creativa:** Los elementos de los asentamientos se convierten en temas populares de productos nostálgicos.
+- **Grupos de Facebook**: «Asociación de exalumnos del pueblo XX» reconstruyen comunidades virtuales
+- **Proyectos de historia oral**: registran en video las historias de los mayores de los pueblos
+- **Reconstrucción 3D digital**: los pueblos desaparecidos renacen en el espacio virtual
+- **Industria cultural creativa**: elementos de los pueblos se vuelven temas populares de productos nostálgicos
 
-**La comunidad virtual de asentamientos, hasta cierto punto, recrea el sentido comunitario de los asentamientos físicos.** Pero ¿este "asentamiento de la memoria" sigue siendo un "asentamiento verdadero"? La respuesta varía según la persona.
+**Las comunidades virtuales de los pueblos, en cierta medida, reproducen el sentido de comunidad de los pueblos físicos.** Pero ¿esa «memoria de pueblo» sigue siendo un «verdadero pueblo»? La respuesta varía según cada persona.
 
-### El modelo taiwanés de identidad multicultural
+### El modelo taiwanés de identidad múltiple
 
-Al repasar los 70 años de historia de los asentamientos, la mayor lección puede ser: **la identidad cultural no necesita ser un juego de suma cero.** Una persona puede ser simultáneamente hijo de asentamiento, taiwanés, chino y ciudadano del mundo; estas identidades no se excluyen mutuamente.
+Al repasar los más de setenta años de historia de los pueblos, la mayor enseñanza quizás sea: **la identidad cultural no tiene por qué ser un juego de suma cero.** Una persona puede ser a la vez hijo de pueblo de dependientes militares, taiwanesa, china, ciudadana del mundo; estas identidades no se excluyen mutuamente.
 
-La experiencia de los asentamientos también desafía la imaginación de una cultura única. Las culturas de todas las regiones de China se recombinaron en Taiwán, generando una nueva cultura que es a la vez familiar y extraña. Los fideos con carne de res, los aperitivos estofados y la cocina de los asentamientos no son reproducciones puras de ninguna tradición individual, sino resultados innovadores de un "mestizaje cultural".
+La experiencia de los pueblos también desafía la imaginación de una cultura única. Las culturas venidas de los cuatro rincones se recompusieron en Taiwán, generando una cultura nueva, a la vez familiar y extraña. El fideos de ternera, el luwei, la cocina de los pueblos, no son la reproducción pura de ninguna tradición aislada, sino frutos innovadores de la «hibridación cultural».
 
-**En el siglo XXI de la globalización, el experimento multicultural de los asentamientos puede ser precisamente la experiencia importante que Taiwán ofrece al mundo.**
+**En el siglo XXI globalizado, el experimento multicultural de los pueblos puede ser precisamente la experiencia importante que Taiwán ofrece al mundo.**
 
-## Lo que la cerca de bambú encerraba no era solo un hogar
+## Lo que cercan las vallas de bambú no es solo el hogar
 
-> **✦** "Una cerca de bambú no solo encerraba un nuevo hogar para 1,2 millones de personas, sino también el segmento de ADN más complejo y rico del acervo genético cultural de Taiwán."
+> **✦** Una valla de bambú cercó no solo el nuevo hogar de cerca de 500 000 personas, sino el segmento de ADN más complejo y rico del banco genético cultural de Taiwán.
 
-Los asentamientos pueden haber desaparecido, pero lo que dejaron no es solo nostalgia, sino una capacidad para enfrentar el cambio: reconstruir la vida en las condiciones más difíciles, sembrar cultura en la tierra más extraña y mantener la esperanza en el futuro más incierto.
+Los pueblos quizás hayan desaparecido, pero lo que dejaron no es solo nostalgia, sino una capacidad para enfrentar el cambio: reconstruir la vida en las condiciones más adversas, sembrar cultura en la tierra más extraña, mantener la esperanza en el futuro más incierto.
 
-**El esfuerzo en la adversidad y la ayuda mutua, la adaptación y la perseverancia, el exilio y el asentamiento — estas cualidades aparentemente contradictorias componen el núcleo del espíritu de los asentamientos.** Nos recuerdan que la cultura no es una exhibición estática en un museo, sino una vitalidad que vive en cada salteado, cada dialecto y cada historia transmitida.
+**Superar la dificultad y ayudarse mutuamente, adaptarse y perseverar, exilio y arraigo —estas cualidades aparentemente contradictorias componen el núcleo del espíritu de los pueblos.** Nos recuerdan que la cultura no es una exhibición estática en un museo, sino la vitalidad que vive en cada salteado, en cada frase dialectal, en cada historia transmitida.
 
-Cuando hoy nos movemos libremente por la multiculturalidad de Taiwán — tomando té molido en un pueblo Hakka, escuchando cantos antiguos en una tribu indígena, comprando pasteles de pimienta en un night market de asentamiento — en realidad estamos experimentando el experimento que los asentamientos iniciaron hace 70 años: **cómo convertir la diferencia en riqueza, el exilio en pertenencia y el extranjero en hogar.**
+Cuando hoy nos movemos con soltura por la multiculturalidad de Taiwán —tomando té machacado en un pueblo hakka, escuchando cantos antiguos en una tribu indígena, comprando pastel de pimienta en un mercado nocturno de pueblo de dependientes militares— en realidad estamos experimentando el experimento que los pueblos empezaron hace más de setenta años: **cómo hacer de la diferencia una riqueza, del exilio un arraigo, de la tierra extraña la patria.**
 
-Este es el legado más valioso que los asentamientos dejaron a Taiwán: un optimismo que cree que "la cultura puede recomenzar", y una sabiduría de "mantenerse uno mismo en medio del cambio".
+Ese es el legado más precioso que los pueblos dejan a Taiwán: un optimismo que cree que «la cultura puede recomenzar», y una sabiduría para «mantenerse a uno mismo en medio del cambio».
 
 ---
 
 ## Referencias
 
-- [¿Sabes dónde está el primer asentamiento de militares dependientes construido tras la llegada del Gobierno Nacionalista a Taiwán?](https://www.thenewslens.com/article/12591)
-- [1949: Deriva hasta Taiwán - Reportaje en profundidad de ETtoday](https://events.ettoday.net/depth-report/veteran/index.htm)
-- [La cocina de los asentamientos: ¿se come nostalgia o se come comida?](https://bankofculture.com/archives/3871)
-- [Asentamientos de militares dependientes - Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%9C%B7%E6%9D%91)
-- [Arcoíris Village - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%BD%A9%E8%99%B9%E7%9C%B7%E6%9D%91)
-- [Preservación y regeneración de la comunidad de Baozangyan](https://www.ta-mag.net/ta/News.php?id=2185)
-- [Ley de Remodelación de Antiguos Asentamientos Militares](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0140013)
-- [Administración de Turismo del Ministerio de Transportes - Arcoíris Village](https://www.taiwan.net.tw/m1.aspx?sNo=0001016&id=A12-00236)
+[^1]: [Zhongzhen Xincun - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%BF%A0%E8%B2%9E%E6%96%B0%E6%9D%91) — En el otoño de 1954, el Ministerio de Defensa construyó en Longgang, Taoyuan, 534 hogares (otra fuente dice 503); es uno de los pueblos construidos para la primera oleada del Ejército de Salvación Nacional Anticomunista de Yunnan que se retiró a Taiwán; a finales de 1953 Li Mi condujo a la 93.ª División y familiares en varias oleadas hacia Taiwán
+
+[^2]: [1949 Deriva a Taiwán - Informe profundo de ETtoday](https://events.ettoday.net/depth-report/veteran/index.htm) — «En 1949, el Gobierno retiró 600 000 grandes ejércitos a Taiwán»; los militares llegados a Taiwán fueron mayoritariamente de Shandong (72 604), seguidos de Guangdong (66 613) y Jiangsu (54 950)
+
+[^3]: [Retirada de Zhoushan - Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%88%9F%E5%B1%B1%E6%92%A4%E9%80%80) — En 1950, en tres días se evacuaron a Taiwán más de 120 000 soldados del Ejército Nacionalista y unos 20 000 residentes locales
+
+[^4]: [Tropas de Futaí - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%AF%8C%E8%87%BA%E9%83%A8%E9%9A%8A) — En 1953 las tropas fueron trasladadas a Taiwán; 30 087 personas llegaron a Taiwán
+
+[^5]: [Ejército solitario tailandés-birmano - Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%B3%B0%E7%B7%AC%E5%AD%A4%E8%BB%8D) — La primera retirada se hizo en tres oleadas (07-11-1953 a 09-05-1954), sumando otros personales, total 6 986 personas
+
+[^6]: [Justos anticomunistas - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%8F%8D%E5%85%B1%E7%BE%A9%E5%A3%AB) — Entre los prisioneros del Ejército Popular Voluntario Chino en la Guerra de Corea, más de 14 000 eligieron ir a Taiwán; el primer grupo llegó a Keelung el 23 de enero de 1954
+
+[^7]: [¿Sabes dónde está el primer pueblo de dependientes militares construido tras la retirada del Gobierno nacionalista a Taiwán? - The News Lens](https://www.thenewslens.com/article/12591) — Columna de Zhang Zhesheng 2015; el ejército solitario se alojó temporalmente en almacenes de ingenios azucareros en Xizhou, Dailin, Wufeng, etc.; la escasez superó incluso a la época de guerrillas en el norte de Birmania; Zhongzhen Xincun menos de 10 ping por hogar; agricultores de Xiaoli vendían verduras con carretillas formando el mercado de Zhongzhen. El titular del artículo sobre «primer pueblo» choca con registros como Sizhong Nancun, ver texto principal
+
+[^8]: [Sizhong Nancun - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%9B%9B%E5%9B%9B%E5%8D%97%E6%9D%91) — Según investigación de la Alianza para la Promoción del Monumento Nacional Sizhong Nancun, construido en 1948, debería ser el primer pueblo de dependientes militares establecido por el Gobierno de la República de China en Taiwán
+
+[^9]: [Huangpu Xincun (Taiwán) - Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%BB%83%E5%9F%94%E6%96%B0%E6%9D%91_%28%E8%87%BA%E7%81%A3%29) — En 1949, las tropas de Sun Li-jen ocuparon los antiguos cuarteles japoneses en Fengshan, formando el primer pueblo de dependientes militares de Taiwán
+
+[^10]: [Pueblos de dependientes militares - Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%9C%B7%E6%9D%91) — 1984: 888 pueblos, 109 786 hogares bajo gestión del Ministerio de Defensa; 1982: Federación de Mujeres registró 879 pueblos, ~467 316 personas; Qiao'ai Xincun en Daxi, Taoyuan, entre los primeros construidos; 2001: quedaban 530 pueblos públicos bajo gestión
+
+[^11]: [Cocina de los pueblos: ¿se come nostalgia o se come platos? - Banco Cultural](https://bankofculture.com/archives/3871) — Jiao Tong: «En Sichuan no existe fideos de ternera estilo Sichuan»; gente de Shandong concentrada en Zuoying, Kaohsiung; Sichuan y Hunan en Erkong, Rende, Tainan; fideos de ternera estilo Sichuan echó raíces en Kaohsiung; luego aparecieron puestos en Yongkang Street, zona Xinyi Road en Taipéi
+
+[^12]: [Ley de Reconstrucción de Antiguos Pueblos de Dependientes Militares - Base de Datos Nacional de Leyes](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0140013) — 5 de febrero de 1996, orden presidencial, promulgación completa de 30 artículos
+
+[^13]: [Adiós 886: inauguración del Parque Cultural de Pueblos de Dependientes Militares de Taiwán - ETtoday](https://www.ettoday.net/news/20180729/1222872.htm) — 2018, discurso de la secretaria general de la Presidencia Chen Chu: «En toda la isla hay 886 pueblos de dependientes militares»
+
+[^14]: [Asentamiento Baocangyan - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%AF%B6%E8%97%8F%E5%B7%96%E8%81%9A%E8%90%BD) — 14-05-2004 registrado como edificio histórico; 27-05-2011 registrado como grupo de edificios de asentamiento
+
+[^15]: [Pueblo Arcoíris - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%BD%A9%E8%99%B9%E7%9C%B7%E6%9D%91) — Huang Yongfu (1924-2024); Pueblo Arcoíris junto a Gancheng Liucun pero fuera de gestión del Ministerio de Defensa; agosto 2008 empezó a pintar por aburrimiento y como recuerdo antes de la demolición; septiembre 2010, tras movimiento «Salvar el Pueblo Arcoíris», se decidió conservarlo como Parque Artístico Arcoíris; Oficina de Cultura encargó web oficial, voluntarios, venta benéfica de productos culturales para financiar pintura y mantenimiento
+
+### Referencias adicionales
+
+- [Preservación y regeneración de la comunidad Baocangyan - Arquitectura de Taiwán](https://www.ta-mag.net/ta/News.php?id=2185)
+- [Administración de Turismo, Ministerio de Transporte y Comunicaciones - Pueblo Arcoíris](https://www.taiwan.net.tw/m1.aspx?sNo=0001016&id=A12-00236)
