@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-03T05:14:17+08:00",
-    "zhCommitHead": "81da97f8a",
+    "lastUpdated": "2026-10-04T02:25:38+08:00",
+    "zhCommitHead": "a8fa4253e",
     "totalZh": 1125,
     "activeLanguages": [
       "en",
@@ -20,96 +20,96 @@
     "summary": {
       "en": {
         "total_zh": 1125,
-        "fresh": 1125,
-        "stale": 0,
+        "fresh": 1121,
+        "stale": 4,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1125,
-        "fresh": 1125,
-        "stale": 0,
+        "fresh": 1116,
+        "stale": 9,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1125,
-        "fresh": 1125,
-        "stale": 0,
+        "fresh": 1122,
+        "stale": 3,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
       "es": {
         "total_zh": 1125,
-        "fresh": 1125,
-        "stale": 0,
+        "fresh": 1120,
+        "stale": 5,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1125,
-        "fresh": 1125,
-        "stale": 0,
+        "fresh": 1121,
+        "stale": 4,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1125,
-        "fresh": 1125,
-        "stale": 0,
+        "fresh": 1116,
+        "stale": 9,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
       "id": {
         "total_zh": 1125,
-        "fresh": 1125,
-        "stale": 0,
+        "fresh": 1120,
+        "stale": 5,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1125,
-        "fresh": 1125,
-        "stale": 0,
+        "fresh": 1120,
+        "stale": 5,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1125,
-        "fresh": 1125,
-        "stale": 0,
+        "fresh": 1118,
+        "stale": 7,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1125,
-        "fresh": 1125,
-        "stale": 0,
+        "fresh": 1117,
+        "stale": 8,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1125,
-        "fresh": 1125,
-        "stale": 0,
+        "fresh": 1120,
+        "stale": 5,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
       "de": {
         "total_zh": 1125,
-        "fresh": 1125,
-        "stale": 0,
+        "fresh": 1119,
+        "stale": 6,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -15081,24 +15081,24 @@
     },
     "Economy/台灣企業：台達電子.md": {
       "zh": {
-        "lastCommit": "4b6d28c5",
-        "lastModified": "2026-05-08T16:59:31+08:00",
-        "contentHash": "sha256:731abae76b18888c",
-        "bodyHash": "sha256:5afb6209c3e31868"
+        "lastCommit": "bf0ce371",
+        "lastModified": "2026-10-03T20:58:57+08:00",
+        "contentHash": "sha256:0c0aec93dc48d894",
+        "bodyHash": "sha256:85c567c76ec730ad"
       },
       "translations": {
         "en": {
           "path": "en/Economy/delta-electronics-taiwan-power-giant.md",
           "translatedFrom": "Economy/台灣企業：台達電子.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:731abae76b18888c",
-          "sourceBodyHash": "sha256:5afb6209c3e31868",
-          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "sourceCommitSha": "bf0ce371e",
+          "sourceContentHash": "sha256:0c0aec93dc48d894",
+          "sourceBodyHash": "sha256:85c567c76ec730ad",
+          "translatedAt": "2026-10-04T00:51:57+08:00",
           "translationLastCommit": "d5ed9ffc",
           "translationLastModified": "2026-05-20T12:41:12+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 15508,
+          "footnoteDefs": 20,
+          "bytes": 20075,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -15116,21 +15116,21 @@
           "footnoteDefs": 0,
           "bytes": 18231,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (20→0)"
         },
         "ko": {
           "path": "ko/Economy/delta-electronics-taiwan-power-giant.md",
           "translatedFrom": "Economy/台灣企業：台達電子.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:731abae76b18888c",
-          "sourceBodyHash": "sha256:5afb6209c3e31868",
-          "translatedAt": "2026-04-14T08:37:54+08:00",
+          "sourceCommitSha": "bf0ce371e",
+          "sourceContentHash": "sha256:0c0aec93dc48d894",
+          "sourceBodyHash": "sha256:85c567c76ec730ad",
+          "translatedAt": "2026-10-04T00:51:57+08:00",
           "translationLastCommit": "bd89e7e1",
           "translationLastModified": "2026-07-25T10:33:05+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 16275,
+          "footnoteDefs": 20,
+          "bytes": 20630,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -15148,21 +15148,21 @@
           "footnoteDefs": 0,
           "bytes": 18227,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (20→0)"
         },
         "fr": {
           "path": "fr/Economy/delta-electronics-taiwan-power-giant.md",
           "translatedFrom": "Economy/台灣企業：台達電子.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:731abae76b18888c",
-          "sourceBodyHash": "sha256:5afb6209c3e31868",
-          "translatedAt": "2026-04-14T19:20:40+08:00",
+          "sourceCommitSha": "bf0ce371e",
+          "sourceContentHash": "sha256:0c0aec93dc48d894",
+          "sourceBodyHash": "sha256:85c567c76ec730ad",
+          "translatedAt": "2026-10-04T00:51:58+08:00",
           "translationLastCommit": "425a1d47",
           "translationLastModified": "2026-07-25T10:30:51+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 17938,
+          "footnoteDefs": 20,
+          "bytes": 25714,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -15180,21 +15180,21 @@
           "footnoteDefs": 0,
           "bytes": 20326,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (20→0)"
         },
         "id": {
           "path": "id/Economy/delta-electronics-taiwan-power-giant.md",
           "translatedFrom": "Economy/台灣企業：台達電子.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:731abae76b18888c",
-          "sourceBodyHash": "sha256:5afb6209c3e31868",
-          "translatedAt": "2026-07-26T23:43:18+08:00",
+          "sourceCommitSha": "bf0ce371e",
+          "sourceContentHash": "sha256:0c0aec93dc48d894",
+          "sourceBodyHash": "sha256:85c567c76ec730ad",
+          "translatedAt": "2026-10-04T00:51:58+08:00",
           "translationLastCommit": "45b2f173",
           "translationLastModified": "2026-07-27T04:01:50+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 16613,
+          "footnoteDefs": 20,
+          "bytes": 22431,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -15212,21 +15212,21 @@
           "footnoteDefs": 0,
           "bytes": 16102,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (20→0)"
         },
         "hi": {
           "path": "hi/Economy/delta-electronics-taiwan-power-giant.md",
           "translatedFrom": "Economy/台灣企業：台達電子.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:731abae76b18888c",
-          "sourceBodyHash": "sha256:5afb6209c3e31868",
-          "translatedAt": "2026-07-26T03:58:12+08:00",
+          "sourceCommitSha": "bf0ce371e",
+          "sourceContentHash": "sha256:0c0aec93dc48d894",
+          "sourceBodyHash": "sha256:85c567c76ec730ad",
+          "translatedAt": "2026-10-04T00:51:59+08:00",
           "translationLastCommit": "75479a4e",
           "translationLastModified": "2026-08-14T10:41:04+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 36516,
+          "footnoteDefs": 20,
+          "bytes": 50339,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -15234,15 +15234,15 @@
         "ar": {
           "path": "ar/Economy/delta-electronics-taiwan-power-giant.md",
           "translatedFrom": "Economy/台灣企業：台達電子.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:731abae76b18888c",
-          "sourceBodyHash": "sha256:5afb6209c3e31868",
-          "translatedAt": "2026-07-26T03:58:15+08:00",
+          "sourceCommitSha": "bf0ce371e",
+          "sourceContentHash": "sha256:0c0aec93dc48d894",
+          "sourceBodyHash": "sha256:85c567c76ec730ad",
+          "translatedAt": "2026-10-04T00:51:59+08:00",
           "translationLastCommit": "83044859",
           "translationLastModified": "2026-07-26T04:13:39+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 23322,
+          "footnoteDefs": 20,
+          "bytes": 31480,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -15250,15 +15250,15 @@
         "ru": {
           "path": "ru/Economy/delta-electronics-taiwan-power-giant.md",
           "translatedFrom": "Economy/台灣企業：台達電子.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:731abae76b18888c",
-          "sourceBodyHash": "sha256:5afb6209c3e31868",
-          "translatedAt": "2026-07-26T02:07:29+08:00",
+          "sourceCommitSha": "bf0ce371e",
+          "sourceContentHash": "sha256:0c0aec93dc48d894",
+          "sourceBodyHash": "sha256:85c567c76ec730ad",
+          "translatedAt": "2026-10-04T00:51:59+08:00",
           "translationLastCommit": "8096ea4e",
           "translationLastModified": "2026-07-26T03:09:23+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 23195,
+          "footnoteDefs": 20,
+          "bytes": 35892,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -15266,15 +15266,15 @@
         "de": {
           "path": "de/Economy/delta-electronics-taiwan-power-giant.md",
           "translatedFrom": "Economy/台灣企業：台達電子.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:731abae76b18888c",
-          "sourceBodyHash": "sha256:5afb6209c3e31868",
-          "translatedAt": "2026-09-11T16:37:41+08:00",
+          "sourceCommitSha": "bf0ce371e",
+          "sourceContentHash": "sha256:0c0aec93dc48d894",
+          "sourceBodyHash": "sha256:85c567c76ec730ad",
+          "translatedAt": "2026-10-04T00:52:00+08:00",
           "translationLastCommit": "f99340c8",
           "translationLastModified": "2026-09-11T18:59:55+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 16905,
+          "footnoteDefs": 20,
+          "bytes": 20834,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -26797,24 +26797,24 @@
     },
     "Technology/台灣人工智慧發展與未來策略.md": {
       "zh": {
-        "lastCommit": "b67b190f",
-        "lastModified": "2026-09-07T17:52:24+08:00",
-        "contentHash": "sha256:15e7aa6f99cf7a84",
-        "bodyHash": "sha256:50acff1d4627c3c4"
+        "lastCommit": "b70d6d8c",
+        "lastModified": "2026-10-03T09:02:57+08:00",
+        "contentHash": "sha256:36a555145d356c00",
+        "bodyHash": "sha256:9929570d1f524d80"
       },
       "translations": {
         "en": {
           "path": "en/Technology/artificial-intelligence-development-strategy.md",
           "translatedFrom": "Technology/台灣人工智慧發展與未來策略.md",
-          "sourceCommitSha": "b67b190fb",
-          "sourceContentHash": "sha256:15e7aa6f99cf7a84",
-          "sourceBodyHash": "sha256:50acff1d4627c3c4",
-          "translatedAt": "2026-09-08T04:06:22.976038+00:00",
+          "sourceCommitSha": "b70d6d8c",
+          "sourceContentHash": "sha256:36a555145d356c00",
+          "sourceBodyHash": "sha256:9929570d1f524d80",
+          "translatedAt": "2026-10-03T16:58:16Z",
           "translationLastCommit": "581a9221",
           "translationLastModified": "2026-09-08T12:06:52+08:00",
           "inferred": false,
-          "footnoteDefs": 40,
-          "bytes": 47478,
+          "footnoteDefs": 41,
+          "bytes": 47839,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -26822,15 +26822,15 @@
         "ja": {
           "path": "ja/Technology/artificial-intelligence-development-strategy.md",
           "translatedFrom": "Technology/台灣人工智慧發展與未來策略.md",
-          "sourceCommitSha": "b67b190fb",
-          "sourceContentHash": "sha256:151b93f3268baa1f",
+          "sourceCommitSha": "b70d6d8c",
+          "sourceContentHash": "sha256:36a555145d356c00",
           "sourceBodyHash": "",
-          "translatedAt": "2026-09-23T11:53:24.088178+00:00",
+          "translatedAt": "2026-10-03T16:58:16Z",
           "translationLastCommit": "5437ac36",
           "translationLastModified": "2026-09-23T21:59:09+08:00",
           "inferred": false,
-          "footnoteDefs": 40,
-          "bytes": 56089,
+          "footnoteDefs": 41,
+          "bytes": 56468,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -26838,15 +26838,15 @@
         "ko": {
           "path": "ko/Technology/artificial-intelligence-development-strategy.md",
           "translatedFrom": "Technology/台灣人工智慧發展與未來策略.md",
-          "sourceCommitSha": "b67b190fb",
-          "sourceContentHash": "sha256:15e7aa6f99cf7a84",
-          "sourceBodyHash": "sha256:50acff1d4627c3c4",
-          "translatedAt": "2026-09-08T04:11:21.254246+00:00",
+          "sourceCommitSha": "b70d6d8c",
+          "sourceContentHash": "sha256:36a555145d356c00",
+          "sourceBodyHash": "sha256:9929570d1f524d80",
+          "translatedAt": "2026-10-03T16:58:16Z",
           "translationLastCommit": "6075c917",
           "translationLastModified": "2026-09-08T12:11:49+08:00",
           "inferred": false,
-          "footnoteDefs": 40,
-          "bytes": 48788,
+          "footnoteDefs": 41,
+          "bytes": 49076,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -26854,15 +26854,15 @@
         "es": {
           "path": "es/Technology/artificial-intelligence-development-strategy.md",
           "translatedFrom": "Technology/台灣人工智慧發展與未來策略.md",
-          "sourceCommitSha": "b67b190fb",
-          "sourceContentHash": "sha256:15e7aa6f99cf7a84",
-          "sourceBodyHash": "sha256:50acff1d4627c3c4",
-          "translatedAt": "2026-09-08T04:15:40.712079+00:00",
+          "sourceCommitSha": "b70d6d8c",
+          "sourceContentHash": "sha256:36a555145d356c00",
+          "sourceBodyHash": "sha256:9929570d1f524d80",
+          "translatedAt": "2026-10-03T16:58:16Z",
           "translationLastCommit": "7ccc3db8",
           "translationLastModified": "2026-09-08T14:28:39+08:00",
           "inferred": false,
-          "footnoteDefs": 40,
-          "bytes": 52045,
+          "footnoteDefs": 41,
+          "bytes": 52495,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -26870,15 +26870,15 @@
         "fr": {
           "path": "fr/Technology/artificial-intelligence-development-strategy.md",
           "translatedFrom": "Technology/台灣人工智慧發展與未來策略.md",
-          "sourceCommitSha": "b67b190fb",
-          "sourceContentHash": "sha256:151b93f3268baa1f",
+          "sourceCommitSha": "b70d6d8c",
+          "sourceContentHash": "sha256:36a555145d356c00",
           "sourceBodyHash": "",
-          "translatedAt": "2026-09-24T19:36:01.985999+00:00",
+          "translatedAt": "2026-10-03T16:58:16Z",
           "translationLastCommit": "2a69d371",
           "translationLastModified": "2026-09-25T05:20:02+08:00",
           "inferred": false,
-          "footnoteDefs": 40,
-          "bytes": 54604,
+          "footnoteDefs": 41,
+          "bytes": 55040,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -26886,15 +26886,15 @@
         "vi": {
           "path": "vi/Technology/artificial-intelligence-development-strategy.md",
           "translatedFrom": "Technology/台灣人工智慧發展與未來策略.md",
-          "sourceCommitSha": "b67b190fb",
-          "sourceContentHash": "sha256:15e7aa6f99cf7a84",
-          "sourceBodyHash": "sha256:50acff1d4627c3c4",
-          "translatedAt": "2026-09-09T03:01:55.488096+00:00",
+          "sourceCommitSha": "b70d6d8c",
+          "sourceContentHash": "sha256:36a555145d356c00",
+          "sourceBodyHash": "sha256:9929570d1f524d80",
+          "translatedAt": "2026-10-03T16:58:16Z",
           "translationLastCommit": "32ac7fd4",
           "translationLastModified": "2026-09-09T11:02:26+08:00",
           "inferred": false,
-          "footnoteDefs": 40,
-          "bytes": 55180,
+          "footnoteDefs": 41,
+          "bytes": 55656,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -26902,15 +26902,15 @@
         "id": {
           "path": "id/Technology/artificial-intelligence-development-strategy.md",
           "translatedFrom": "Technology/台灣人工智慧發展與未來策略.md",
-          "sourceCommitSha": "b67b190fb",
-          "sourceContentHash": "sha256:151b93f3268baa1f",
+          "sourceCommitSha": "b70d6d8c",
+          "sourceContentHash": "sha256:36a555145d356c00",
           "sourceBodyHash": "",
-          "translatedAt": "2026-09-23T06:37:24.818723+00:00",
+          "translatedAt": "2026-10-03T16:58:16Z",
           "translationLastCommit": "2e35b90f",
           "translationLastModified": "2026-09-23T16:22:17+08:00",
           "inferred": false,
-          "footnoteDefs": 40,
-          "bytes": 47214,
+          "footnoteDefs": 41,
+          "bytes": 47591,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -26918,15 +26918,15 @@
         "pt": {
           "path": "pt/Technology/artificial-intelligence-development-strategy.md",
           "translatedFrom": "Technology/台灣人工智慧發展與未來策略.md",
-          "sourceCommitSha": "b67b190fb",
-          "sourceContentHash": "sha256:15e7aa6f99cf7a84",
-          "sourceBodyHash": "sha256:50acff1d4627c3c4",
-          "translatedAt": "2026-09-09T11:22:17.322454+00:00",
+          "sourceCommitSha": "b70d6d8c",
+          "sourceContentHash": "sha256:36a555145d356c00",
+          "sourceBodyHash": "sha256:9929570d1f524d80",
+          "translatedAt": "2026-10-03T16:58:16Z",
           "translationLastCommit": "84edc8ae",
           "translationLastModified": "2026-09-10T02:51:47+08:00",
           "inferred": false,
-          "footnoteDefs": 40,
-          "bytes": 48615,
+          "footnoteDefs": 41,
+          "bytes": 49022,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -26934,15 +26934,15 @@
         "hi": {
           "path": "hi/Technology/artificial-intelligence-development-strategy.md",
           "translatedFrom": "Technology/台灣人工智慧發展與未來策略.md",
-          "sourceCommitSha": "b67b190fb",
-          "sourceContentHash": "sha256:15e7aa6f99cf7a84",
-          "sourceBodyHash": "sha256:50acff1d4627c3c4",
-          "translatedAt": "2026-10-02T00:14:23.922194+00:00",
+          "sourceCommitSha": "b70d6d8c",
+          "sourceContentHash": "sha256:36a555145d356c00",
+          "sourceBodyHash": "sha256:9929570d1f524d80",
+          "translatedAt": "2026-10-03T16:58:16Z",
           "translationLastCommit": "bb8382d7",
           "translationLastModified": "2026-10-02T10:21:01+08:00",
           "inferred": false,
-          "footnoteDefs": 40,
-          "bytes": 101878,
+          "footnoteDefs": 41,
+          "bytes": 102640,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -26950,15 +26950,15 @@
         "ar": {
           "path": "ar/Technology/artificial-intelligence-development-strategy.md",
           "translatedFrom": "Technology/台灣人工智慧發展與未來策略.md",
-          "sourceCommitSha": "b67b190fb",
-          "sourceContentHash": "sha256:15e7aa6f99cf7a84",
-          "sourceBodyHash": "sha256:50acff1d4627c3c4",
-          "translatedAt": "2026-09-08T02:55:39.111852+00:00",
+          "sourceCommitSha": "b70d6d8c",
+          "sourceContentHash": "sha256:36a555145d356c00",
+          "sourceBodyHash": "sha256:9929570d1f524d80",
+          "translatedAt": "2026-10-03T16:58:16Z",
           "translationLastCommit": "a40323d4",
           "translationLastModified": "2026-09-08T13:14:29+08:00",
           "inferred": false,
-          "footnoteDefs": 40,
-          "bytes": 67716,
+          "footnoteDefs": 41,
+          "bytes": 68271,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -26966,15 +26966,15 @@
         "ru": {
           "path": "ru/Technology/artificial-intelligence-development-strategy.md",
           "translatedFrom": "Technology/台灣人工智慧發展與未來策略.md",
-          "sourceCommitSha": "b67b190fb",
-          "sourceContentHash": "sha256:151b93f3268baa1f",
+          "sourceCommitSha": "b70d6d8c",
+          "sourceContentHash": "sha256:36a555145d356c00",
           "sourceBodyHash": "",
-          "translatedAt": "2026-09-24T21:46:07.001294+00:00",
+          "translatedAt": "2026-10-03T16:58:16Z",
           "translationLastCommit": "3a6d9d82",
           "translationLastModified": "2026-09-25T05:54:40+08:00",
           "inferred": false,
-          "footnoteDefs": 40,
-          "bytes": 77920,
+          "footnoteDefs": 41,
+          "bytes": 78506,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -26982,15 +26982,15 @@
         "de": {
           "path": "de/Technology/artificial-intelligence-development-strategy.md",
           "translatedFrom": "Technology/台灣人工智慧發展與未來策略.md",
-          "sourceCommitSha": "b67b190fb",
-          "sourceContentHash": "sha256:15e7aa6f99cf7a84",
-          "sourceBodyHash": "sha256:50acff1d4627c3c4",
-          "translatedAt": "2026-09-09T14:15:07+08:00",
+          "sourceCommitSha": "b70d6d8c",
+          "sourceContentHash": "sha256:36a555145d356c00",
+          "sourceBodyHash": "sha256:9929570d1f524d80",
+          "translatedAt": "2026-10-03T16:58:16Z",
           "translationLastCommit": "da37e88b",
           "translationLastModified": "2026-09-28T00:55:28+08:00",
           "inferred": false,
-          "footnoteDefs": 40,
-          "bytes": 49650,
+          "footnoteDefs": 41,
+          "bytes": 50018,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -27403,24 +27403,24 @@
     },
     "Technology/台灣人工智慧學校.md": {
       "zh": {
-        "lastCommit": "c8e5ac9e",
-        "lastModified": "2026-07-17T15:40:32+08:00",
-        "contentHash": "sha256:aeb22f9372adc2ef",
-        "bodyHash": "sha256:6ec984b54802baea"
+        "lastCommit": "e291b98c",
+        "lastModified": "2026-10-03T08:58:49+08:00",
+        "contentHash": "sha256:f80d5de0dc1467d4",
+        "bodyHash": "sha256:5ac3c1dc79dee79a"
       },
       "translations": {
         "en": {
           "path": "en/Technology/taiwan-ai-academy.md",
           "translatedFrom": "Technology/台灣人工智慧學校.md",
-          "sourceCommitSha": "c8e5ac9ea",
-          "sourceContentHash": "sha256:aeb22f9372adc2ef",
-          "sourceBodyHash": "sha256:6ec984b54802baea",
-          "translatedAt": "2026-07-27T11:18:16.030222+00:00",
+          "sourceCommitSha": "e291b98c",
+          "sourceContentHash": "sha256:f80d5de0dc1467d4",
+          "sourceBodyHash": "sha256:5ac3c1dc79dee79a",
+          "translatedAt": "2026-10-03T16:57:21Z",
           "translationLastCommit": "6b22d596",
           "translationLastModified": "2026-07-27T20:10:27+08:00",
           "inferred": false,
           "footnoteDefs": 38,
-          "bytes": 42351,
+          "bytes": 42350,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -27428,15 +27428,15 @@
         "ja": {
           "path": "ja/Technology/taiwan-ai-academy.md",
           "translatedFrom": "Technology/台灣人工智慧學校.md",
-          "sourceCommitSha": "c8e5ac9ea",
-          "sourceContentHash": "sha256:aeb22f9372adc2ef",
-          "sourceBodyHash": "sha256:6ec984b54802baea",
-          "translatedAt": "2026-07-30T23:28:09.567888+00:00",
+          "sourceCommitSha": "e291b98c",
+          "sourceContentHash": "sha256:f80d5de0dc1467d4",
+          "sourceBodyHash": "sha256:5ac3c1dc79dee79a",
+          "translatedAt": "2026-10-03T16:57:21Z",
           "translationLastCommit": "5b185366",
           "translationLastModified": "2026-07-31T09:03:56+08:00",
           "inferred": false,
           "footnoteDefs": 38,
-          "bytes": 44104,
+          "bytes": 44067,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -27444,15 +27444,15 @@
         "ko": {
           "path": "ko/Technology/taiwan-ai-academy.md",
           "translatedFrom": "Technology/台灣人工智慧學校.md",
-          "sourceCommitSha": "c8e5ac9ea",
-          "sourceContentHash": "sha256:aeb22f9372adc2ef",
-          "sourceBodyHash": "sha256:6ec984b54802baea",
-          "translatedAt": "2026-07-27T11:59:12.911087+00:00",
+          "sourceCommitSha": "e291b98c",
+          "sourceContentHash": "sha256:f80d5de0dc1467d4",
+          "sourceBodyHash": "sha256:5ac3c1dc79dee79a",
+          "translatedAt": "2026-10-03T16:57:21Z",
           "translationLastCommit": "086bf350",
           "translationLastModified": "2026-07-27T20:11:20+08:00",
           "inferred": false,
           "footnoteDefs": 38,
-          "bytes": 43573,
+          "bytes": 43548,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -27460,15 +27460,15 @@
         "es": {
           "path": "es/Technology/taiwan-ai-academy.md",
           "translatedFrom": "Technology/台灣人工智慧學校.md",
-          "sourceCommitSha": "c8e5ac9ea",
-          "sourceContentHash": "sha256:aeb22f9372adc2ef",
-          "sourceBodyHash": "sha256:6ec984b54802baea",
-          "translatedAt": "2026-07-27T11:29:02.054822+00:00",
+          "sourceCommitSha": "e291b98c",
+          "sourceContentHash": "sha256:f80d5de0dc1467d4",
+          "sourceBodyHash": "sha256:5ac3c1dc79dee79a",
+          "translatedAt": "2026-10-03T16:57:21Z",
           "translationLastCommit": "a664df94",
           "translationLastModified": "2026-07-27T20:10:52+08:00",
           "inferred": false,
           "footnoteDefs": 38,
-          "bytes": 49025,
+          "bytes": 49022,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -27476,15 +27476,15 @@
         "fr": {
           "path": "fr/Technology/taiwan-ai-academy.md",
           "translatedFrom": "Technology/台灣人工智慧學校.md",
-          "sourceCommitSha": "c8e5ac9ea",
-          "sourceContentHash": "sha256:aeb22f9372adc2ef",
-          "sourceBodyHash": "sha256:6ec984b54802baea",
-          "translatedAt": "2026-07-27T11:34:14.205236+00:00",
+          "sourceCommitSha": "e291b98c",
+          "sourceContentHash": "sha256:f80d5de0dc1467d4",
+          "sourceBodyHash": "sha256:5ac3c1dc79dee79a",
+          "translatedAt": "2026-10-03T16:57:21Z",
           "translationLastCommit": "c911db92",
           "translationLastModified": "2026-07-27T20:11:07+08:00",
           "inferred": false,
           "footnoteDefs": 38,
-          "bytes": 51344,
+          "bytes": 51351,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -27492,15 +27492,15 @@
         "vi": {
           "path": "vi/Technology/taiwan-ai-academy.md",
           "translatedFrom": "Technology/台灣人工智慧學校.md",
-          "sourceCommitSha": "c8e5ac9ea",
-          "sourceContentHash": "sha256:aeb22f9372adc2ef",
-          "sourceBodyHash": "sha256:6ec984b54802baea",
-          "translatedAt": "2026-07-18T18:59:52+08:00",
+          "sourceCommitSha": "e291b98c",
+          "sourceContentHash": "sha256:f80d5de0dc1467d4",
+          "sourceBodyHash": "sha256:5ac3c1dc79dee79a",
+          "translatedAt": "2026-10-03T16:57:26Z",
           "translationLastCommit": "1c89db9a",
           "translationLastModified": "2026-09-22T01:05:58+08:00",
           "inferred": false,
           "footnoteDefs": 38,
-          "bytes": 51214,
+          "bytes": 51200,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -27508,15 +27508,15 @@
         "id": {
           "path": "id/Technology/taiwan-ai-academy.md",
           "translatedFrom": "Technology/台灣人工智慧學校.md",
-          "sourceCommitSha": "c8e5ac9ea",
-          "sourceContentHash": "sha256:aeb22f9372adc2ef",
-          "sourceBodyHash": "sha256:6ec984b54802baea",
-          "translatedAt": "2026-07-18T23:11:50+08:00",
+          "sourceCommitSha": "e291b98c",
+          "sourceContentHash": "sha256:f80d5de0dc1467d4",
+          "sourceBodyHash": "sha256:5ac3c1dc79dee79a",
+          "translatedAt": "2026-10-03T16:57:26Z",
           "translationLastCommit": "f4d0f1e6",
           "translationLastModified": "2026-09-22T01:07:23+08:00",
           "inferred": false,
           "footnoteDefs": 38,
-          "bytes": 46360,
+          "bytes": 46364,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -27524,15 +27524,15 @@
         "pt": {
           "path": "pt/Technology/taiwan-ai-academy.md",
           "translatedFrom": "Technology/台灣人工智慧學校.md",
-          "sourceCommitSha": "c8e5ac9ea",
-          "sourceContentHash": "sha256:aeb22f9372adc2ef",
-          "sourceBodyHash": "sha256:6ec984b54802baea",
-          "translatedAt": "2026-07-18T18:57:48+08:00",
+          "sourceCommitSha": "e291b98c",
+          "sourceContentHash": "sha256:f80d5de0dc1467d4",
+          "sourceBodyHash": "sha256:5ac3c1dc79dee79a",
+          "translatedAt": "2026-10-03T16:57:26Z",
           "translationLastCommit": "c64976e8",
           "translationLastModified": "2026-09-22T01:09:03+08:00",
           "inferred": false,
           "footnoteDefs": 38,
-          "bytes": 45047,
+          "bytes": 45007,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -27540,15 +27540,15 @@
         "hi": {
           "path": "hi/Technology/taiwan-ai-academy.md",
           "translatedFrom": "Technology/台灣人工智慧學校.md",
-          "sourceCommitSha": "c8e5ac9ea",
-          "sourceContentHash": "sha256:aeb22f9372adc2ef",
-          "sourceBodyHash": "sha256:6ec984b54802baea",
-          "translatedAt": "2026-07-18T19:14:58+08:00",
+          "sourceCommitSha": "e291b98c",
+          "sourceContentHash": "sha256:f80d5de0dc1467d4",
+          "sourceBodyHash": "sha256:5ac3c1dc79dee79a",
+          "translatedAt": "2026-10-03T16:57:26Z",
           "translationLastCommit": "af273ebd",
           "translationLastModified": "2026-09-22T01:05:09+08:00",
           "inferred": false,
           "footnoteDefs": 38,
-          "bytes": 92009,
+          "bytes": 92065,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -27556,15 +27556,15 @@
         "ar": {
           "path": "ar/Technology/taiwan-ai-academy.md",
           "translatedFrom": "Technology/台灣人工智慧學校.md",
-          "sourceCommitSha": "c8e5ac9ea",
-          "sourceContentHash": "sha256:aeb22f9372adc2ef",
-          "sourceBodyHash": "sha256:6ec984b54802baea",
-          "translatedAt": "2026-07-28T08:53:34+08:00",
+          "sourceCommitSha": "e291b98c",
+          "sourceContentHash": "sha256:f80d5de0dc1467d4",
+          "sourceBodyHash": "sha256:5ac3c1dc79dee79a",
+          "translatedAt": "2026-10-03T16:57:26Z",
           "translationLastCommit": "f1c371ea",
           "translationLastModified": "2026-07-28T10:05:32+08:00",
           "inferred": false,
           "footnoteDefs": 38,
-          "bytes": 57469,
+          "bytes": 57481,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -27572,15 +27572,15 @@
         "ru": {
           "path": "ru/Technology/taiwan-ai-academy.md",
           "translatedFrom": "Technology/台灣人工智慧學校.md",
-          "sourceCommitSha": "c8e5ac9ea",
-          "sourceContentHash": "sha256:aeb22f9372adc2ef",
-          "sourceBodyHash": "sha256:6ec984b54802baea",
-          "translatedAt": "2026-07-28T08:53:36+08:00",
+          "sourceCommitSha": "e291b98c",
+          "sourceContentHash": "sha256:f80d5de0dc1467d4",
+          "sourceBodyHash": "sha256:5ac3c1dc79dee79a",
+          "translatedAt": "2026-10-03T16:57:26Z",
           "translationLastCommit": "eed6fc9f",
           "translationLastModified": "2026-07-28T09:57:48+08:00",
           "inferred": false,
           "footnoteDefs": 38,
-          "bytes": 68318,
+          "bytes": 68314,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -27588,15 +27588,15 @@
         "de": {
           "path": "de/Technology/taiwan-ai-academy.md",
           "translatedFrom": "Technology/台灣人工智慧學校.md",
-          "sourceCommitSha": "c8e5ac9ea",
-          "sourceContentHash": "sha256:625eab2091ad5a1f",
+          "sourceCommitSha": "e291b98c",
+          "sourceContentHash": "sha256:f80d5de0dc1467d4",
           "sourceBodyHash": "",
-          "translatedAt": "2026-09-22T13:52:19.201795+00:00",
+          "translatedAt": "2026-10-03T16:57:26Z",
           "translationLastCommit": "dc60b349",
           "translationLastModified": "2026-09-22T23:28:51+08:00",
           "inferred": false,
           "footnoteDefs": 38,
-          "bytes": 45024,
+          "bytes": 45041,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -31443,10 +31443,10 @@
     },
     "Technology/AI發展.md": {
       "zh": {
-        "lastCommit": "96945e45",
-        "lastModified": "2026-05-18T18:26:38+08:00",
-        "contentHash": "sha256:c3a35976261aaad4",
-        "bodyHash": "sha256:54302f24eb8f8f54"
+        "lastCommit": "3e8cce50",
+        "lastModified": "2026-10-03T08:58:47+08:00",
+        "contentHash": "sha256:96cb23499982b31c",
+        "bodyHash": "sha256:b8e8c634da9c1fac"
       },
       "translations": {
         "en": {
@@ -31462,8 +31462,8 @@
           "footnoteDefs": 8,
           "bytes": 20420,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→8)"
         },
         "ja": {
           "path": "ja/Technology/ai-development-in-taiwan.md",
@@ -31478,8 +31478,8 @@
           "footnoteDefs": 8,
           "bytes": 20206,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→8)"
         },
         "ko": {
           "path": "ko/Technology/ai-development-in-taiwan.md",
@@ -31494,8 +31494,8 @@
           "footnoteDefs": 8,
           "bytes": 18495,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→8)"
         },
         "es": {
           "path": "es/Technology/ai-development-in-taiwan.md",
@@ -31510,8 +31510,8 @@
           "footnoteDefs": 8,
           "bytes": 23424,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→8)"
         },
         "fr": {
           "path": "fr/Technology/ai-development-in-taiwan.md",
@@ -31526,8 +31526,8 @@
           "footnoteDefs": 8,
           "bytes": 24573,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→8)"
         },
         "vi": {
           "path": "vi/Technology/ai-development-in-taiwan.md",
@@ -31542,8 +31542,8 @@
           "footnoteDefs": 8,
           "bytes": 24418,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→8)"
         },
         "id": {
           "path": "id/Technology/ai-development-in-taiwan.md",
@@ -31558,8 +31558,8 @@
           "footnoteDefs": 8,
           "bytes": 19652,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→8)"
         },
         "pt": {
           "path": "pt/Technology/ai-development-in-taiwan.md",
@@ -31574,8 +31574,8 @@
           "footnoteDefs": 8,
           "bytes": 22911,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→8)"
         },
         "hi": {
           "path": "hi/Technology/ai-development-in-taiwan.md",
@@ -31590,8 +31590,8 @@
           "footnoteDefs": 8,
           "bytes": 42813,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→8)"
         },
         "ar": {
           "path": "ar/Technology/ai-development-in-taiwan.md",
@@ -31606,8 +31606,8 @@
           "footnoteDefs": 8,
           "bytes": 34716,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→8)"
         },
         "ru": {
           "path": "ru/Technology/ai-development-in-taiwan.md",
@@ -31622,8 +31622,8 @@
           "footnoteDefs": 8,
           "bytes": 38074,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→8)"
         },
         "de": {
           "path": "de/Technology/ai-development-in-taiwan.md",
@@ -31638,8 +31638,8 @@
           "footnoteDefs": 8,
           "bytes": 21982,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→8)"
         }
       }
     },
@@ -32049,24 +32049,24 @@
     },
     "Technology/東亞文字輸入法.md": {
       "zh": {
-        "lastCommit": "24efd20f",
-        "lastModified": "2026-05-15T01:00:23+08:00",
-        "contentHash": "sha256:d8c6f0fd322ce1e4",
-        "bodyHash": "sha256:c009ff8e72f638e1"
+        "lastCommit": "c0bb841a",
+        "lastModified": "2026-10-03T14:58:01+08:00",
+        "contentHash": "sha256:90551a3865db4ef0",
+        "bodyHash": "sha256:2cf976c21e3add32"
       },
       "translations": {
         "en": {
           "path": "en/Technology/east-asian-input-methods.md",
           "translatedFrom": "Technology/東亞文字輸入法.md",
-          "sourceCommitSha": "24efd20f3",
-          "sourceContentHash": "sha256:d8c6f0fd322ce1e4",
-          "sourceBodyHash": "sha256:c009ff8e72f638e1",
-          "translatedAt": "2026-05-15T14:23:13+08:00",
+          "sourceCommitSha": "c0bb841a7",
+          "sourceContentHash": "sha256:90551a3865db4ef0",
+          "sourceBodyHash": "sha256:2cf976c21e3add32",
+          "translatedAt": "2026-10-04T00:51:57+08:00",
           "translationLastCommit": "892cb4ef",
           "translationLastModified": "2026-07-27T18:53:04+08:00",
           "inferred": false,
-          "footnoteDefs": 6,
-          "bytes": 18558,
+          "footnoteDefs": 10,
+          "bytes": 19936,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -32084,21 +32084,21 @@
           "footnoteDefs": 6,
           "bytes": 20877,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (10→6)"
         },
         "ko": {
           "path": "ko/Technology/east-asian-input-methods.md",
           "translatedFrom": "Technology/東亞文字輸入法.md",
-          "sourceCommitSha": "24efd20f3",
-          "sourceContentHash": "sha256:d8c6f0fd322ce1e4",
-          "sourceBodyHash": "sha256:c009ff8e72f638e1",
-          "translatedAt": "2026-05-15T14:23:13+08:00",
+          "sourceCommitSha": "c0bb841a7",
+          "sourceContentHash": "sha256:90551a3865db4ef0",
+          "sourceBodyHash": "sha256:2cf976c21e3add32",
+          "translatedAt": "2026-10-04T00:51:57+08:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
-          "footnoteDefs": 6,
-          "bytes": 19617,
+          "footnoteDefs": 10,
+          "bytes": 21190,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -32116,8 +32116,8 @@
           "footnoteDefs": 6,
           "bytes": 21161,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (10→6)"
         },
         "fr": {
           "path": "fr/Technology/east-asian-input-methods.md",
@@ -32132,8 +32132,8 @@
           "footnoteDefs": 6,
           "bytes": 21130,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (10→6)"
         },
         "vi": {
           "path": "vi/Technology/east-asian-input-methods.md",
@@ -32148,8 +32148,8 @@
           "footnoteDefs": 6,
           "bytes": 23794,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (10→6)"
         },
         "id": {
           "path": "id/Technology/east-asian-input-methods.md",
@@ -32164,8 +32164,8 @@
           "footnoteDefs": 6,
           "bytes": 17605,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (10→6)"
         },
         "pt": {
           "path": "pt/Technology/east-asian-input-methods.md",
@@ -32180,8 +32180,8 @@
           "footnoteDefs": 6,
           "bytes": 20008,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (10→6)"
         },
         "hi": {
           "path": "hi/Technology/east-asian-input-methods.md",
@@ -32196,8 +32196,8 @@
           "footnoteDefs": 6,
           "bytes": 39553,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (10→6)"
         },
         "ar": {
           "path": "ar/Technology/east-asian-input-methods.md",
@@ -32212,8 +32212,8 @@
           "footnoteDefs": 6,
           "bytes": 26000,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (10→6)"
         },
         "ru": {
           "path": "ru/Technology/east-asian-input-methods.md",
@@ -32228,8 +32228,8 @@
           "footnoteDefs": 6,
           "bytes": 27816,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (10→6)"
         },
         "de": {
           "path": "de/Technology/east-asian-input-methods.md",
@@ -32244,8 +32244,8 @@
           "footnoteDefs": 6,
           "bytes": 20172,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (10→6)"
         }
       }
     },
@@ -36897,27 +36897,27 @@
     },
     "Technology/台灣資安產業發展.md": {
       "zh": {
-        "lastCommit": "f712b724",
-        "lastModified": "2026-05-16T10:16:02+08:00",
-        "contentHash": "sha256:2d7d8b8a52c2b0ff",
-        "bodyHash": "sha256:11c4d3b5ca02c812"
+        "lastCommit": "b0b66807",
+        "lastModified": "2026-10-03T14:56:05+08:00",
+        "contentHash": "sha256:b8cab3d7189be94d",
+        "bodyHash": "sha256:a74e3ddc66982d98"
       },
       "translations": {
         "en": {
           "path": "en/Technology/taiwan-cybersecurity-industry-development.md",
           "translatedFrom": "Technology/台灣資安產業發展.md",
-          "sourceCommitSha": "d6e87d07",
-          "sourceContentHash": "sha256:2d7d8b8a52c2b0ff",
-          "sourceBodyHash": "sha256:11c4d3b5ca02c812",
-          "translatedAt": "2026-05-16T21:50:00Z",
+          "sourceCommitSha": "b0b668075",
+          "sourceContentHash": "sha256:b8cab3d7189be94d",
+          "sourceBodyHash": "sha256:a74e3ddc66982d98",
+          "translatedAt": "2026-10-04T00:51:57+08:00",
           "translationLastCommit": "892cb4ef",
           "translationLastModified": "2026-07-27T18:53:04+08:00",
           "inferred": false,
-          "footnoteDefs": 9,
-          "bytes": 22637,
+          "footnoteDefs": 15,
+          "bytes": 25552,
           "armorResidue": 0,
           "status": "fresh",
-          "reason": "hash-match-sha-lost"
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Technology/taiwan-cybersecurity-industry-development.md",
@@ -36932,56 +36932,56 @@
           "footnoteDefs": 9,
           "bytes": 24813,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "hash-match-sha-lost"
+          "status": "stale",
+          "reason": "footnote-loss (15→9)"
         },
         "ko": {
           "path": "ko/Technology/taiwan-cybersecurity-industry-development.md",
           "translatedFrom": "Technology/台灣資安產業發展.md",
-          "sourceCommitSha": "d6e87d07",
-          "sourceContentHash": "sha256:2d7d8b8a52c2b0ff",
-          "sourceBodyHash": "sha256:11c4d3b5ca02c812",
-          "translatedAt": "2026-05-17T06:30:00Z",
+          "sourceCommitSha": "b0b668075",
+          "sourceContentHash": "sha256:b8cab3d7189be94d",
+          "sourceBodyHash": "sha256:a74e3ddc66982d98",
+          "translatedAt": "2026-10-04T00:51:57+08:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
-          "footnoteDefs": 9,
-          "bytes": 20355,
+          "footnoteDefs": 15,
+          "bytes": 22858,
           "armorResidue": 0,
           "status": "fresh",
-          "reason": "hash-match-sha-lost"
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Technology/taiwan-cybersecurity-industry-development.md",
           "translatedFrom": "Technology/台灣資安產業發展.md",
-          "sourceCommitSha": "d6e87d07",
-          "sourceContentHash": "sha256:2d7d8b8a52c2b0ff",
-          "sourceBodyHash": "sha256:11c4d3b5ca02c812",
-          "translatedAt": "2026-05-17T06:00:00Z",
+          "sourceCommitSha": "b0b668075",
+          "sourceContentHash": "sha256:b8cab3d7189be94d",
+          "sourceBodyHash": "sha256:a74e3ddc66982d98",
+          "translatedAt": "2026-10-04T00:51:58+08:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
-          "footnoteDefs": 9,
-          "bytes": 26062,
+          "footnoteDefs": 15,
+          "bytes": 29306,
           "armorResidue": 0,
           "status": "fresh",
-          "reason": "hash-match-sha-lost"
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Technology/taiwan-cybersecurity-industry-development.md",
           "translatedFrom": "Technology/台灣資安產業發展.md",
-          "sourceCommitSha": "d6e87d07",
-          "sourceContentHash": "sha256:2d7d8b8a52c2b0ff",
-          "sourceBodyHash": "sha256:11c4d3b5ca02c812",
-          "translatedAt": "2026-05-17T06:15:00Z",
+          "sourceCommitSha": "b0b668075",
+          "sourceContentHash": "sha256:b8cab3d7189be94d",
+          "sourceBodyHash": "sha256:a74e3ddc66982d98",
+          "translatedAt": "2026-10-04T00:51:58+08:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
-          "footnoteDefs": 9,
-          "bytes": 27814,
+          "footnoteDefs": 15,
+          "bytes": 29747,
           "armorResidue": 0,
           "status": "fresh",
-          "reason": "hash-match-sha-lost"
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Technology/taiwan-cybersecurity-industry-development.md",
@@ -36996,21 +36996,21 @@
           "footnoteDefs": 9,
           "bytes": 26945,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (15→9)"
         },
         "id": {
           "path": "id/Technology/taiwan-cybersecurity-industry-development.md",
           "translatedFrom": "Technology/台灣資安產業發展.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:2d7d8b8a52c2b0ff",
-          "sourceBodyHash": "sha256:11c4d3b5ca02c812",
-          "translatedAt": "2026-09-16T11:57:33+08:00",
+          "sourceCommitSha": "b0b668075",
+          "sourceContentHash": "sha256:b8cab3d7189be94d",
+          "sourceBodyHash": "sha256:a74e3ddc66982d98",
+          "translatedAt": "2026-10-04T00:51:58+08:00",
           "translationLastCommit": "e30a5f63",
           "translationLastModified": "2026-09-16T15:38:03+08:00",
           "inferred": false,
-          "footnoteDefs": 9,
-          "bytes": 21575,
+          "footnoteDefs": 15,
+          "bytes": 24799,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -37018,15 +37018,15 @@
         "pt": {
           "path": "pt/Technology/taiwan-cybersecurity-industry-development.md",
           "translatedFrom": "Technology/台灣資安產業發展.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:2d7d8b8a52c2b0ff",
-          "sourceBodyHash": "sha256:11c4d3b5ca02c812",
-          "translatedAt": "2026-07-26T08:50:55+08:00",
+          "sourceCommitSha": "b0b668075",
+          "sourceContentHash": "sha256:b8cab3d7189be94d",
+          "sourceBodyHash": "sha256:a74e3ddc66982d98",
+          "translatedAt": "2026-10-04T00:51:59+08:00",
           "translationLastCommit": "beb66999",
           "translationLastModified": "2026-07-27T19:05:03+08:00",
           "inferred": false,
-          "footnoteDefs": 9,
-          "bytes": 26216,
+          "footnoteDefs": 15,
+          "bytes": 28248,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -37034,15 +37034,15 @@
         "hi": {
           "path": "hi/Technology/taiwan-cybersecurity-industry-development.md",
           "translatedFrom": "Technology/台灣資安產業發展.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:2d7d8b8a52c2b0ff",
-          "sourceBodyHash": "sha256:11c4d3b5ca02c812",
-          "translatedAt": "2026-07-26T23:43:22+08:00",
+          "sourceCommitSha": "b0b668075",
+          "sourceContentHash": "sha256:b8cab3d7189be94d",
+          "sourceBodyHash": "sha256:a74e3ddc66982d98",
+          "translatedAt": "2026-10-04T00:51:59+08:00",
           "translationLastCommit": "8df3d363",
           "translationLastModified": "2026-07-27T04:04:57+08:00",
           "inferred": false,
-          "footnoteDefs": 9,
-          "bytes": 50013,
+          "footnoteDefs": 15,
+          "bytes": 55759,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -37060,21 +37060,21 @@
           "footnoteDefs": 9,
           "bytes": 33368,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (15→9)"
         },
         "ru": {
           "path": "ru/Technology/taiwan-cybersecurity-industry-development.md",
           "translatedFrom": "Technology/台灣資安產業發展.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:2d7d8b8a52c2b0ff",
-          "sourceBodyHash": "sha256:11c4d3b5ca02c812",
-          "translatedAt": "2026-07-26T19:42:16+08:00",
+          "sourceCommitSha": "b0b668075",
+          "sourceContentHash": "sha256:b8cab3d7189be94d",
+          "sourceBodyHash": "sha256:a74e3ddc66982d98",
+          "translatedAt": "2026-10-04T00:51:59+08:00",
           "translationLastCommit": "d30facee",
           "translationLastModified": "2026-07-27T19:07:48+08:00",
           "inferred": false,
-          "footnoteDefs": 9,
-          "bytes": 41393,
+          "footnoteDefs": 15,
+          "bytes": 46883,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -37082,15 +37082,15 @@
         "de": {
           "path": "de/Technology/taiwan-cybersecurity-industry-development.md",
           "translatedFrom": "Technology/台灣資安產業發展.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:2d7d8b8a52c2b0ff",
-          "sourceBodyHash": "sha256:11c4d3b5ca02c812",
-          "translatedAt": "2026-09-11T20:42:42+08:00",
+          "sourceCommitSha": "b0b668075",
+          "sourceContentHash": "sha256:b8cab3d7189be94d",
+          "sourceBodyHash": "sha256:a74e3ddc66982d98",
+          "translatedAt": "2026-10-04T00:52:00+08:00",
           "translationLastCommit": "0fda2654",
           "translationLastModified": "2026-09-12T00:06:18+08:00",
           "inferred": false,
-          "footnoteDefs": 9,
-          "bytes": 24821,
+          "footnoteDefs": 15,
+          "bytes": 26854,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -69823,10 +69823,10 @@
     },
     "Society/台灣與史瓦帝尼.md": {
       "zh": {
-        "lastCommit": "31a05c44",
-        "lastModified": "2026-06-13T17:54:04+08:00",
-        "contentHash": "sha256:fe1941c4ac5aac8a",
-        "bodyHash": "sha256:8dca2bcfa6293bb2"
+        "lastCommit": "da67ec6f",
+        "lastModified": "2026-10-03T08:55:44+08:00",
+        "contentHash": "sha256:c62b916ed21bb09b",
+        "bodyHash": "sha256:f87da2052ad611fa"
       },
       "translations": {
         "en": {
@@ -69842,8 +69842,10 @@
           "footnoteDefs": 26,
           "bytes": 38216,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/Society/taiwan-eswatini-relations.md",
@@ -69858,21 +69860,23 @@
           "footnoteDefs": 26,
           "bytes": 41193,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/Society/taiwan-eswatini-relations.md",
           "translatedFrom": "Society/台灣與史瓦帝尼.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:fe1941c4ac5aac8a",
-          "sourceBodyHash": "sha256:8dca2bcfa6293bb2",
-          "translatedAt": "2026-06-16T16:55:29Z",
+          "sourceCommitSha": "da67ec6fe",
+          "sourceContentHash": "sha256:c62b916ed21bb09b",
+          "sourceBodyHash": "sha256:f87da2052ad611fa",
+          "translatedAt": "2026-10-03T16:54:16.884785+00:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 26,
-          "bytes": 39134,
+          "bytes": 39581,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -69880,15 +69884,15 @@
         "es": {
           "path": "es/Society/taiwan-eswatini-relations.md",
           "translatedFrom": "Society/台灣與史瓦帝尼.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:fe1941c4ac5aac8a",
-          "sourceBodyHash": "sha256:8dca2bcfa6293bb2",
-          "translatedAt": "2026-06-16T17:04:27Z",
+          "sourceCommitSha": "da67ec6fe",
+          "sourceContentHash": "sha256:c62b916ed21bb09b",
+          "sourceBodyHash": "sha256:f87da2052ad611fa",
+          "translatedAt": "2026-10-04T00:51:58+08:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 26,
-          "bytes": 42009,
+          "bytes": 39422,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -69896,15 +69900,15 @@
         "fr": {
           "path": "fr/Society/taiwan-eswatini-relations.md",
           "translatedFrom": "Society/台灣與史瓦帝尼.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:fe1941c4ac5aac8a",
-          "sourceBodyHash": "sha256:8dca2bcfa6293bb2",
-          "translatedAt": "2026-06-16T17:05:54Z",
+          "sourceCommitSha": "da67ec6fe",
+          "sourceContentHash": "sha256:c62b916ed21bb09b",
+          "sourceBodyHash": "sha256:f87da2052ad611fa",
+          "translatedAt": "2026-10-03T16:55:21.440758+00:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 26,
-          "bytes": 42689,
+          "bytes": 43073,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -69922,21 +69926,23 @@
           "footnoteDefs": 26,
           "bytes": 47021,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "id": {
           "path": "id/Society/taiwan-eswatini-relations.md",
           "translatedFrom": "Society/台灣與史瓦帝尼.md",
-          "sourceCommitSha": "31a05c44b",
-          "sourceContentHash": "sha256:fe1941c4ac5aac8a",
-          "sourceBodyHash": "sha256:8dca2bcfa6293bb2",
-          "translatedAt": "2026-07-29T12:59:26+08:00",
+          "sourceCommitSha": "da67ec6fe",
+          "sourceContentHash": "sha256:c62b916ed21bb09b",
+          "sourceBodyHash": "sha256:f87da2052ad611fa",
+          "translatedAt": "2026-10-03T16:54:32.243456+00:00",
           "translationLastCommit": "75479a4e",
           "translationLastModified": "2026-08-14T10:41:04+08:00",
           "inferred": false,
           "footnoteDefs": 26,
-          "bytes": 34173,
+          "bytes": 34177,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -69944,15 +69950,15 @@
         "pt": {
           "path": "pt/Society/taiwan-eswatini-relations.md",
           "translatedFrom": "Society/台灣與史瓦帝尼.md",
-          "sourceCommitSha": "31a05c44b",
-          "sourceContentHash": "sha256:fe1941c4ac5aac8a",
-          "sourceBodyHash": "sha256:8dca2bcfa6293bb2",
-          "translatedAt": "2026-07-29T02:35:13+08:00",
+          "sourceCommitSha": "da67ec6fe",
+          "sourceContentHash": "sha256:c62b916ed21bb09b",
+          "sourceBodyHash": "sha256:f87da2052ad611fa",
+          "translatedAt": "2026-10-03T16:54:45.944713+00:00",
           "translationLastCommit": "f5e46ef8",
           "translationLastModified": "2026-07-29T03:35:40+08:00",
           "inferred": false,
           "footnoteDefs": 26,
-          "bytes": 38669,
+          "bytes": 38789,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -69960,15 +69966,15 @@
         "hi": {
           "path": "hi/Society/taiwan-eswatini-relations.md",
           "translatedFrom": "Society/台灣與史瓦帝尼.md",
-          "sourceCommitSha": "31a05c44b",
-          "sourceContentHash": "sha256:fe1941c4ac5aac8a",
-          "sourceBodyHash": "sha256:8dca2bcfa6293bb2",
-          "translatedAt": "2026-10-02T06:33:01+08:00",
+          "sourceCommitSha": "da67ec6fe",
+          "sourceContentHash": "sha256:c62b916ed21bb09b",
+          "sourceBodyHash": "sha256:f87da2052ad611fa",
+          "translatedAt": "2026-10-03T16:55:11.980455+00:00",
           "translationLastCommit": "44e02e87",
           "translationLastModified": "2026-10-02T06:57:30+08:00",
           "inferred": false,
           "footnoteDefs": 26,
-          "bytes": 79028,
+          "bytes": 79334,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -69986,21 +69992,23 @@
           "footnoteDefs": 26,
           "bytes": 52572,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ru": {
           "path": "ru/Society/taiwan-eswatini-relations.md",
           "translatedFrom": "Society/台灣與史瓦帝尼.md",
-          "sourceCommitSha": "31a05c44b",
-          "sourceContentHash": "sha256:fe1941c4ac5aac8a",
-          "sourceBodyHash": "sha256:8dca2bcfa6293bb2",
-          "translatedAt": "2026-07-29T18:45:53+08:00",
+          "sourceCommitSha": "da67ec6fe",
+          "sourceContentHash": "sha256:c62b916ed21bb09b",
+          "sourceBodyHash": "sha256:f87da2052ad611fa",
+          "translatedAt": "2026-10-03T16:56:16.317154+00:00",
           "translationLastCommit": "19d45475",
           "translationLastModified": "2026-07-29T19:41:54+08:00",
           "inferred": false,
           "footnoteDefs": 26,
-          "bytes": 60385,
+          "bytes": 60149,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -70008,15 +70016,15 @@
         "de": {
           "path": "de/Society/taiwan-eswatini-relations.md",
           "translatedFrom": "Society/台灣與史瓦帝尼.md",
-          "sourceCommitSha": "31a05c44b",
-          "sourceContentHash": "sha256:fe1941c4ac5aac8a",
-          "sourceBodyHash": "sha256:8dca2bcfa6293bb2",
-          "translatedAt": "2026-09-12T00:32:25+08:00",
+          "sourceCommitSha": "da67ec6fe",
+          "sourceContentHash": "sha256:c62b916ed21bb09b",
+          "sourceBodyHash": "sha256:f87da2052ad611fa",
+          "translatedAt": "2026-10-03T16:56:24.298145+00:00",
           "translationLastCommit": "ef727871",
           "translationLastModified": "2026-09-12T04:54:27+08:00",
           "inferred": false,
           "footnoteDefs": 26,
-          "bytes": 38786,
+          "bytes": 38972,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -82504,8 +82512,8 @@
           "sourceContentHash": "sha256:6b8c18165d43ed48",
           "sourceBodyHash": "sha256:90c0aa43021fbb5f",
           "translatedAt": "2026-10-03T05:11:53+08:00",
-          "translationLastCommit": "ffaa11ae",
-          "translationLastModified": "2026-07-26T14:53:46+08:00",
+          "translationLastCommit": "f404b521",
+          "translationLastModified": "2026-10-03T05:14:17+08:00",
           "inferred": false,
           "footnoteDefs": 4,
           "bytes": 20635,
@@ -102749,10 +102757,10 @@
     },
     "People/賴清德.md": {
       "zh": {
-        "lastCommit": "f712b724",
-        "lastModified": "2026-05-16T10:16:02+08:00",
-        "contentHash": "sha256:e9ba487782481314",
-        "bodyHash": "sha256:7455a72c92fc69c9"
+        "lastCommit": "43e9e1c7",
+        "lastModified": "2026-10-03T08:55:03+08:00",
+        "contentHash": "sha256:5933733fa0ffe284",
+        "bodyHash": "sha256:759fc6aa29cdf9f0"
       },
       "translations": {
         "en": {
@@ -102768,8 +102776,8 @@
           "footnoteDefs": 7,
           "bytes": 18658,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→7)"
         },
         "ja": {
           "path": "ja/People/lai-ching-te.md",
@@ -102784,8 +102792,8 @@
           "footnoteDefs": 7,
           "bytes": 17684,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→7)"
         },
         "ko": {
           "path": "ko/People/lai-ching-te.md",
@@ -102800,8 +102808,8 @@
           "footnoteDefs": 7,
           "bytes": 17832,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→7)"
         },
         "es": {
           "path": "es/People/lai-ching-te.md",
@@ -102816,8 +102824,8 @@
           "footnoteDefs": 7,
           "bytes": 20872,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→7)"
         },
         "fr": {
           "path": "fr/People/lai-ching-te.md",
@@ -102832,8 +102840,8 @@
           "footnoteDefs": 7,
           "bytes": 21625,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→7)"
         },
         "vi": {
           "path": "vi/People/lai-ching-te.md",
@@ -102848,8 +102856,8 @@
           "footnoteDefs": 7,
           "bytes": 23348,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→7)"
         },
         "id": {
           "path": "id/People/lai-ching-te.md",
@@ -102864,8 +102872,8 @@
           "footnoteDefs": 7,
           "bytes": 17053,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→7)"
         },
         "pt": {
           "path": "pt/People/lai-ching-te.md",
@@ -102880,8 +102888,8 @@
           "footnoteDefs": 7,
           "bytes": 17601,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→7)"
         },
         "hi": {
           "path": "hi/People/lai-ching-te.md",
@@ -102896,8 +102904,8 @@
           "footnoteDefs": 7,
           "bytes": 42076,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→7)"
         },
         "ar": {
           "path": "ar/People/lai-ching-te.md",
@@ -102912,8 +102920,8 @@
           "footnoteDefs": 7,
           "bytes": 26001,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→7)"
         },
         "ru": {
           "path": "ru/People/lai-ching-te.md",
@@ -102928,8 +102936,8 @@
           "footnoteDefs": 7,
           "bytes": 31886,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→7)"
         },
         "de": {
           "path": "de/People/lai-ching-te.md",
@@ -102944,8 +102952,8 @@
           "footnoteDefs": 7,
           "bytes": 19943,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→7)"
         }
       }
     },
@@ -118303,10 +118311,10 @@
     },
     "People/蔡明亮.md": {
       "zh": {
-        "lastCommit": "97e35f05",
-        "lastModified": "2026-07-05T17:03:35+08:00",
-        "contentHash": "sha256:f497de40f2ba1810",
-        "bodyHash": "sha256:c1d14969738eeca7"
+        "lastCommit": "112856fa",
+        "lastModified": "2026-10-03T08:51:46+08:00",
+        "contentHash": "sha256:9ed1f7923fa72bf2",
+        "bodyHash": "sha256:0c0888dfd516b33c"
       },
       "translations": {
         "en": {
@@ -118322,8 +118330,8 @@
           "footnoteDefs": 7,
           "bytes": 9716,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (8→7)"
         },
         "ja": {
           "path": "ja/People/tsai-ming-liang.md",
@@ -118338,8 +118346,8 @@
           "footnoteDefs": 7,
           "bytes": 11024,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (8→7)"
         },
         "ko": {
           "path": "ko/People/tsai-ming-liang.md",
@@ -118354,8 +118362,8 @@
           "footnoteDefs": 7,
           "bytes": 10856,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (8→7)"
         },
         "es": {
           "path": "es/People/tsai-ming-liang.md",
@@ -118370,8 +118378,8 @@
           "footnoteDefs": 7,
           "bytes": 10724,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (8→7)"
         },
         "fr": {
           "path": "fr/People/tsai-ming-liang.md",
@@ -118386,8 +118394,8 @@
           "footnoteDefs": 7,
           "bytes": 11289,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (8→7)"
         },
         "vi": {
           "path": "vi/People/tsai-ming-liang.md",
@@ -118402,8 +118410,8 @@
           "footnoteDefs": 7,
           "bytes": 12907,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (8→7)"
         },
         "id": {
           "path": "id/People/tsai-ming-liang.md",
@@ -118418,8 +118426,8 @@
           "footnoteDefs": 7,
           "bytes": 9788,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (8→7)"
         },
         "pt": {
           "path": "pt/People/tsai-ming-liang.md",
@@ -118434,8 +118442,8 @@
           "footnoteDefs": 7,
           "bytes": 10466,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (8→7)"
         },
         "hi": {
           "path": "hi/People/tsai-ming-liang.md",
@@ -118450,8 +118458,8 @@
           "footnoteDefs": 7,
           "bytes": 23935,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (8→7)"
         },
         "ar": {
           "path": "ar/People/tsai-ming-liang.md",
@@ -118466,8 +118474,8 @@
           "footnoteDefs": 7,
           "bytes": 13850,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (8→7)"
         },
         "ru": {
           "path": "ru/People/tsai-ming-liang.md",
@@ -118482,8 +118490,8 @@
           "footnoteDefs": 7,
           "bytes": 17503,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (8→7)"
         },
         "de": {
           "path": "de/People/tsai-ming-liang.md",
@@ -118498,8 +118506,8 @@
           "footnoteDefs": 7,
           "bytes": 10759,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (8→7)"
         }
       }
     },
@@ -163349,24 +163357,24 @@
     },
     "Food/台灣新住民美食融合.md": {
       "zh": {
-        "lastCommit": "9094012f",
-        "lastModified": "2026-09-07T09:02:54+08:00",
-        "contentHash": "sha256:77ab88a911a474f4",
-        "bodyHash": "sha256:0ecfd7b1fa40d486"
+        "lastCommit": "10b5f473",
+        "lastModified": "2026-10-03T14:53:19+08:00",
+        "contentHash": "sha256:ec43c04dc374e045",
+        "bodyHash": "sha256:c3bafaeb7fb89ca0"
       },
       "translations": {
         "en": {
           "path": "en/Food/taiwanese-new-immigrant-culinary-fusion.md",
           "translatedFrom": "Food/台灣新住民美食融合.md",
-          "sourceCommitSha": "9094012f4",
-          "sourceContentHash": "sha256:77ab88a911a474f4",
-          "sourceBodyHash": "sha256:0ecfd7b1fa40d486",
-          "translatedAt": "2026-09-22T17:40:19+08:00",
+          "sourceCommitSha": "10b5f473e",
+          "sourceContentHash": "sha256:ec43c04dc374e045",
+          "sourceBodyHash": "sha256:c3bafaeb7fb89ca0",
+          "translatedAt": "2026-10-04T00:51:57+08:00",
           "translationLastCommit": "f7a6b170",
           "translationLastModified": "2026-09-22T19:50:38+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 21046,
+          "footnoteDefs": 8,
+          "bytes": 24740,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -163384,21 +163392,21 @@
           "footnoteDefs": 0,
           "bytes": 24427,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (8→0)"
         },
         "ko": {
           "path": "ko/Food/taiwanese-new-immigrant-culinary-fusion.md",
           "translatedFrom": "Food/台灣新住民美食融合.md",
-          "sourceCommitSha": "9094012f4",
-          "sourceContentHash": "sha256:77ab88a911a474f4",
-          "sourceBodyHash": "sha256:0ecfd7b1fa40d486",
-          "translatedAt": "2026-09-22T14:22:23+08:00",
+          "sourceCommitSha": "10b5f473e",
+          "sourceContentHash": "sha256:ec43c04dc374e045",
+          "sourceBodyHash": "sha256:c3bafaeb7fb89ca0",
+          "translatedAt": "2026-10-04T00:51:57+08:00",
           "translationLastCommit": "bbab2e37",
           "translationLastModified": "2026-09-22T18:13:17+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 22218,
+          "footnoteDefs": 8,
+          "bytes": 26312,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -163406,15 +163414,15 @@
         "es": {
           "path": "es/Food/taiwanese-new-immigrant-culinary-fusion.md",
           "translatedFrom": "Food/台灣新住民美食融合.md",
-          "sourceCommitSha": "9094012f4",
-          "sourceContentHash": "sha256:77ab88a911a474f4",
-          "sourceBodyHash": "sha256:0ecfd7b1fa40d486",
-          "translatedAt": "2026-09-22T17:40:43+08:00",
+          "sourceCommitSha": "10b5f473e",
+          "sourceContentHash": "sha256:ec43c04dc374e045",
+          "sourceBodyHash": "sha256:c3bafaeb7fb89ca0",
+          "translatedAt": "2026-10-04T00:51:58+08:00",
           "translationLastCommit": "0b3b36cd",
           "translationLastModified": "2026-09-22T22:33:19+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 24294,
+          "footnoteDefs": 8,
+          "bytes": 28342,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -163422,15 +163430,15 @@
         "fr": {
           "path": "fr/Food/taiwanese-new-immigrant-culinary-fusion.md",
           "translatedFrom": "Food/台灣新住民美食融合.md",
-          "sourceCommitSha": "9094012f4",
-          "sourceContentHash": "sha256:77ab88a911a474f4",
-          "sourceBodyHash": "sha256:0ecfd7b1fa40d486",
-          "translatedAt": "2026-09-22T14:22:24+08:00",
+          "sourceCommitSha": "10b5f473e",
+          "sourceContentHash": "sha256:ec43c04dc374e045",
+          "sourceBodyHash": "sha256:c3bafaeb7fb89ca0",
+          "translatedAt": "2026-10-04T00:51:58+08:00",
           "translationLastCommit": "59c2e5fb",
           "translationLastModified": "2026-09-22T17:52:16+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 26175,
+          "footnoteDefs": 8,
+          "bytes": 29670,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -163448,21 +163456,21 @@
           "footnoteDefs": 0,
           "bytes": 27233,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (8→0)"
         },
         "id": {
           "path": "id/Food/taiwanese-new-immigrant-culinary-fusion.md",
           "translatedFrom": "Food/台灣新住民美食融合.md",
-          "sourceCommitSha": "9094012f4",
-          "sourceContentHash": "sha256:77ab88a911a474f4",
-          "sourceBodyHash": "sha256:0ecfd7b1fa40d486",
-          "translatedAt": "2026-09-25T13:10:49+08:00",
+          "sourceCommitSha": "10b5f473e",
+          "sourceContentHash": "sha256:ec43c04dc374e045",
+          "sourceBodyHash": "sha256:c3bafaeb7fb89ca0",
+          "translatedAt": "2026-10-04T00:51:58+08:00",
           "translationLastCommit": "5d42267c",
           "translationLastModified": "2026-09-25T14:30:31+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 21289,
+          "footnoteDefs": 8,
+          "bytes": 24942,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -163470,15 +163478,15 @@
         "pt": {
           "path": "pt/Food/taiwanese-new-immigrant-culinary-fusion.md",
           "translatedFrom": "Food/台灣新住民美食融合.md",
-          "sourceCommitSha": "9094012f4",
-          "sourceContentHash": "sha256:77ab88a911a474f4",
-          "sourceBodyHash": "sha256:0ecfd7b1fa40d486",
-          "translatedAt": "2026-09-23T05:53:45+08:00",
+          "sourceCommitSha": "10b5f473e",
+          "sourceContentHash": "sha256:ec43c04dc374e045",
+          "sourceBodyHash": "sha256:c3bafaeb7fb89ca0",
+          "translatedAt": "2026-10-04T00:51:59+08:00",
           "translationLastCommit": "fa4974ee",
           "translationLastModified": "2026-09-23T08:06:02+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 23178,
+          "footnoteDefs": 8,
+          "bytes": 27576,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -163496,8 +163504,8 @@
           "footnoteDefs": 0,
           "bytes": 51079,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (8→0)"
         },
         "ar": {
           "path": "ar/Food/taiwanese-new-immigrant-culinary-fusion.md",
@@ -163512,21 +163520,21 @@
           "footnoteDefs": 0,
           "bytes": 31622,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (8→0)"
         },
         "ru": {
           "path": "ru/Food/taiwanese-new-immigrant-culinary-fusion.md",
           "translatedFrom": "Food/台灣新住民美食融合.md",
-          "sourceCommitSha": "9094012f4",
-          "sourceContentHash": "sha256:77ab88a911a474f4",
-          "sourceBodyHash": "sha256:0ecfd7b1fa40d486",
-          "translatedAt": "2026-09-22T17:41:10+08:00",
+          "sourceCommitSha": "10b5f473e",
+          "sourceContentHash": "sha256:ec43c04dc374e045",
+          "sourceBodyHash": "sha256:c3bafaeb7fb89ca0",
+          "translatedAt": "2026-10-04T00:51:59+08:00",
           "translationLastCommit": "e8a96ca8",
           "translationLastModified": "2026-09-23T02:17:59+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 38066,
+          "footnoteDefs": 8,
+          "bytes": 42167,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -163544,8 +163552,8 @@
           "footnoteDefs": 0,
           "bytes": 22415,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (8→0)"
         }
       }
     },
@@ -187387,24 +187395,24 @@
     },
     "History/台灣眷村歷史.md": {
       "zh": {
-        "lastCommit": "4b6d28c5",
-        "lastModified": "2026-05-08T16:59:31+08:00",
-        "contentHash": "sha256:e26ca70cc051b743",
-        "bodyHash": "sha256:6ea24f40d826e7d7"
+        "lastCommit": "e1247815",
+        "lastModified": "2026-10-03T20:54:45+08:00",
+        "contentHash": "sha256:a769f300a4a6b10d",
+        "bodyHash": "sha256:62a8c3544391f28d"
       },
       "translations": {
         "en": {
           "path": "en/History/taiwan-military-dependents-villages-history.md",
           "translatedFrom": "History/台灣眷村歷史.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:e26ca70cc051b743",
-          "sourceBodyHash": "sha256:6ea24f40d826e7d7",
-          "translatedAt": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "e1247815f",
+          "sourceContentHash": "sha256:a769f300a4a6b10d",
+          "sourceBodyHash": "sha256:62a8c3544391f28d",
+          "translatedAt": "2026-10-04T00:51:57+08:00",
           "translationLastCommit": "04a9c0df",
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 16469,
+          "footnoteDefs": 15,
+          "bytes": 23321,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -187412,15 +187420,15 @@
         "ja": {
           "path": "ja/History/taiwan-military-dependents-villages-history.md",
           "translatedFrom": "History/台灣眷村歷史.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:e26ca70cc051b743",
-          "sourceBodyHash": "sha256:6ea24f40d826e7d7",
-          "translatedAt": "2026-09-28T02:52:34+08:00",
+          "sourceCommitSha": "e1247815f",
+          "sourceContentHash": "sha256:a769f300a4a6b10d",
+          "sourceBodyHash": "sha256:62a8c3544391f28d",
+          "translatedAt": "2026-10-04T00:51:57+08:00",
           "translationLastCommit": "04383c76",
           "translationLastModified": "2026-09-28T03:05:09+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 19223,
+          "footnoteDefs": 15,
+          "bytes": 26738,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -187428,15 +187436,15 @@
         "ko": {
           "path": "ko/History/taiwan-military-dependents-villages-history.md",
           "translatedFrom": "History/台灣眷村歷史.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:e26ca70cc051b743",
-          "sourceBodyHash": "sha256:6ea24f40d826e7d7",
-          "translatedAt": "2026-04-14T05:07:23+08:00",
+          "sourceCommitSha": "e1247815f",
+          "sourceContentHash": "sha256:a769f300a4a6b10d",
+          "sourceBodyHash": "sha256:62a8c3544391f28d",
+          "translatedAt": "2026-10-04T00:51:57+08:00",
           "translationLastCommit": "bd89e7e1",
           "translationLastModified": "2026-07-25T10:33:05+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 18202,
+          "footnoteDefs": 15,
+          "bytes": 23936,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -187444,15 +187452,15 @@
         "es": {
           "path": "es/History/taiwan-military-dependents-villages-history.md",
           "translatedFrom": "History/台灣眷村歷史.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:e26ca70cc051b743",
-          "sourceBodyHash": "sha256:6ea24f40d826e7d7",
-          "translatedAt": "2026-05-01T22:19:10+08:00",
+          "sourceCommitSha": "e1247815f",
+          "sourceContentHash": "sha256:a769f300a4a6b10d",
+          "sourceBodyHash": "sha256:62a8c3544391f28d",
+          "translatedAt": "2026-10-04T00:51:58+08:00",
           "translationLastCommit": "4a07538f",
           "translationLastModified": "2026-07-25T10:29:52+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 20644,
+          "footnoteDefs": 15,
+          "bytes": 26902,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -187460,15 +187468,15 @@
         "fr": {
           "path": "fr/History/taiwan-military-dependents-villages-history.md",
           "translatedFrom": "History/台灣眷村歷史.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:e26ca70cc051b743",
-          "sourceBodyHash": "sha256:6ea24f40d826e7d7",
-          "translatedAt": "2026-04-14T12:31:49+08:00",
+          "sourceCommitSha": "e1247815f",
+          "sourceContentHash": "sha256:a769f300a4a6b10d",
+          "sourceBodyHash": "sha256:62a8c3544391f28d",
+          "translatedAt": "2026-10-04T00:51:58+08:00",
           "translationLastCommit": "425a1d47",
           "translationLastModified": "2026-07-25T10:30:51+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 21614,
+          "footnoteDefs": 15,
+          "bytes": 30272,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -187486,21 +187494,21 @@
           "footnoteDefs": 0,
           "bytes": 20981,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (15→0)"
         },
         "id": {
           "path": "id/History/taiwan-military-dependents-villages-history.md",
           "translatedFrom": "History/台灣眷村歷史.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:e26ca70cc051b743",
-          "sourceBodyHash": "sha256:6ea24f40d826e7d7",
-          "translatedAt": "2026-07-25T07:55:54+08:00",
+          "sourceCommitSha": "e1247815f",
+          "sourceContentHash": "sha256:a769f300a4a6b10d",
+          "sourceBodyHash": "sha256:62a8c3544391f28d",
+          "translatedAt": "2026-10-04T00:51:58+08:00",
           "translationLastCommit": "01bf696c",
           "translationLastModified": "2026-07-25T08:39:49+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 16642,
+          "footnoteDefs": 15,
+          "bytes": 25445,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -187508,15 +187516,15 @@
         "pt": {
           "path": "pt/History/taiwan-military-dependents-villages-history.md",
           "translatedFrom": "History/台灣眷村歷史.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:e26ca70cc051b743",
-          "sourceBodyHash": "sha256:6ea24f40d826e7d7",
-          "translatedAt": "2026-07-25T05:00:10+08:00",
+          "sourceCommitSha": "e1247815f",
+          "sourceContentHash": "sha256:a769f300a4a6b10d",
+          "sourceBodyHash": "sha256:62a8c3544391f28d",
+          "translatedAt": "2026-10-04T00:51:59+08:00",
           "translationLastCommit": "2963c50a",
           "translationLastModified": "2026-07-25T06:18:07+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 18650,
+          "footnoteDefs": 15,
+          "bytes": 25928,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -187534,21 +187542,21 @@
           "footnoteDefs": 0,
           "bytes": 41413,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (15→0)"
         },
         "ar": {
           "path": "ar/History/taiwan-military-dependents-villages-history.md",
           "translatedFrom": "History/台灣眷村歷史.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:e26ca70cc051b743",
-          "sourceBodyHash": "sha256:6ea24f40d826e7d7",
-          "translatedAt": "2026-07-25T09:23:16+08:00",
+          "sourceCommitSha": "e1247815f",
+          "sourceContentHash": "sha256:a769f300a4a6b10d",
+          "sourceBodyHash": "sha256:62a8c3544391f28d",
+          "translatedAt": "2026-10-04T00:51:59+08:00",
           "translationLastCommit": "ccaef080",
           "translationLastModified": "2026-07-25T10:42:11+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 26227,
+          "footnoteDefs": 15,
+          "bytes": 37214,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -187556,15 +187564,15 @@
         "ru": {
           "path": "ru/History/taiwan-military-dependents-villages-history.md",
           "translatedFrom": "History/台灣眷村歷史.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:e26ca70cc051b743",
-          "sourceBodyHash": "sha256:6ea24f40d826e7d7",
-          "translatedAt": "2026-07-25T06:34:25+08:00",
+          "sourceCommitSha": "e1247815f",
+          "sourceContentHash": "sha256:a769f300a4a6b10d",
+          "sourceBodyHash": "sha256:62a8c3544391f28d",
+          "translatedAt": "2026-10-04T00:51:59+08:00",
           "translationLastCommit": "91e932a3",
           "translationLastModified": "2026-07-25T07:26:15+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 29427,
+          "footnoteDefs": 15,
+          "bytes": 41034,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -187572,15 +187580,15 @@
         "de": {
           "path": "de/History/taiwan-military-dependents-villages-history.md",
           "translatedFrom": "History/台灣眷村歷史.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:e26ca70cc051b743",
-          "sourceBodyHash": "sha256:6ea24f40d826e7d7",
-          "translatedAt": "2026-09-10T18:19:25+08:00",
+          "sourceCommitSha": "e1247815f",
+          "sourceContentHash": "sha256:a769f300a4a6b10d",
+          "sourceBodyHash": "sha256:62a8c3544391f28d",
+          "translatedAt": "2026-10-04T00:52:00+08:00",
           "translationLastCommit": "65f01e2d",
           "translationLastModified": "2026-09-10T21:39:21+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 20673,
+          "footnoteDefs": 15,
+          "bytes": 25705,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -195871,24 +195879,24 @@
     },
     "Geography/離島與海洋文化.md": {
       "zh": {
-        "lastCommit": "217edf31",
-        "lastModified": "2026-08-06T00:11:44+08:00",
-        "contentHash": "sha256:61916e4f91798262",
-        "bodyHash": "sha256:b069d77bfe98ff54"
+        "lastCommit": "7ad70728",
+        "lastModified": "2026-10-03T21:03:50+08:00",
+        "contentHash": "sha256:3c540cfd32577b2a",
+        "bodyHash": "sha256:6adfa5c6ea8f6a2d"
       },
       "translations": {
         "en": {
           "path": "en/Geography/offshore-islands-and-maritime-culture.md",
           "translatedFrom": "Geography/離島與海洋文化.md",
-          "sourceCommitSha": "217edf31a",
-          "sourceContentHash": "sha256:61916e4f91798262",
-          "sourceBodyHash": "sha256:b069d77bfe98ff54",
-          "translatedAt": "2026-08-05T16:56:36.719519+00:00",
+          "sourceCommitSha": "7ad70728d",
+          "sourceContentHash": "sha256:3c540cfd32577b2a",
+          "sourceBodyHash": "sha256:6adfa5c6ea8f6a2d",
+          "translatedAt": "2026-10-04T00:51:57+08:00",
           "translationLastCommit": "1ae02a2c",
           "translationLastModified": "2026-08-06T01:20:35+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 17776,
+          "footnoteDefs": 17,
+          "bytes": 26697,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -195906,21 +195914,21 @@
           "footnoteDefs": 0,
           "bytes": 21344,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (17→0)"
         },
         "ko": {
           "path": "ko/Geography/offshore-islands-and-maritime-culture.md",
           "translatedFrom": "Geography/離島與海洋文化.md",
-          "sourceCommitSha": "217edf31a",
-          "sourceContentHash": "sha256:61916e4f91798262",
-          "sourceBodyHash": "sha256:b069d77bfe98ff54",
-          "translatedAt": "2026-08-05T17:13:13.063409+00:00",
+          "sourceCommitSha": "7ad70728d",
+          "sourceContentHash": "sha256:3c540cfd32577b2a",
+          "sourceBodyHash": "sha256:6adfa5c6ea8f6a2d",
+          "translatedAt": "2026-10-04T00:51:57+08:00",
           "translationLastCommit": "07c660d4",
           "translationLastModified": "2026-08-06T01:20:23+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 19978,
+          "footnoteDefs": 17,
+          "bytes": 27587,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -195928,15 +195936,15 @@
         "es": {
           "path": "es/Geography/offshore-islands-and-maritime-culture.md",
           "translatedFrom": "Geography/離島與海洋文化.md",
-          "sourceCommitSha": "217edf31a",
-          "sourceContentHash": "sha256:61916e4f91798262",
-          "sourceBodyHash": "sha256:b069d77bfe98ff54",
-          "translatedAt": "2026-08-05T17:12:17.519846+00:00",
+          "sourceCommitSha": "7ad70728d",
+          "sourceContentHash": "sha256:3c540cfd32577b2a",
+          "sourceBodyHash": "sha256:6adfa5c6ea8f6a2d",
+          "translatedAt": "2026-10-04T00:51:58+08:00",
           "translationLastCommit": "32755fab",
           "translationLastModified": "2026-08-06T01:19:59+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 23110,
+          "footnoteDefs": 17,
+          "bytes": 26650,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -195944,15 +195952,15 @@
         "fr": {
           "path": "fr/Geography/offshore-islands-and-maritime-culture.md",
           "translatedFrom": "Geography/離島與海洋文化.md",
-          "sourceCommitSha": "217edf31a",
-          "sourceContentHash": "sha256:61916e4f91798262",
-          "sourceBodyHash": "sha256:b069d77bfe98ff54",
-          "translatedAt": "2026-08-05T17:12:54.217020+00:00",
+          "sourceCommitSha": "7ad70728d",
+          "sourceContentHash": "sha256:3c540cfd32577b2a",
+          "sourceBodyHash": "sha256:6adfa5c6ea8f6a2d",
+          "translatedAt": "2026-10-04T00:51:58+08:00",
           "translationLastCommit": "c9498b99",
           "translationLastModified": "2026-08-06T01:20:11+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 23234,
+          "footnoteDefs": 17,
+          "bytes": 31409,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -195960,15 +195968,15 @@
         "vi": {
           "path": "vi/Geography/offshore-islands-and-maritime-culture.md",
           "translatedFrom": "Geography/離島與海洋文化.md",
-          "sourceCommitSha": "217edf31a",
-          "sourceContentHash": "sha256:61916e4f91798262",
-          "sourceBodyHash": "sha256:b069d77bfe98ff54",
-          "translatedAt": "2026-09-18T15:01:41.396617+00:00",
+          "sourceCommitSha": "7ad70728d",
+          "sourceContentHash": "sha256:3c540cfd32577b2a",
+          "sourceBodyHash": "sha256:6adfa5c6ea8f6a2d",
+          "translatedAt": "2026-10-04T00:51:58+08:00",
           "translationLastCommit": "f0ba60da",
           "translationLastModified": "2026-09-28T11:33:48+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 24216,
+          "footnoteDefs": 17,
+          "bytes": 34213,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -195986,21 +195994,21 @@
           "footnoteDefs": 0,
           "bytes": 18524,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (17→0)"
         },
         "pt": {
           "path": "pt/Geography/offshore-islands-and-maritime-culture.md",
           "translatedFrom": "Geography/離島與海洋文化.md",
-          "sourceCommitSha": "217edf31a",
-          "sourceContentHash": "sha256:61916e4f91798262",
-          "sourceBodyHash": "sha256:b069d77bfe98ff54",
-          "translatedAt": "2026-08-06T06:42:01.514127+00:00",
+          "sourceCommitSha": "7ad70728d",
+          "sourceContentHash": "sha256:3c540cfd32577b2a",
+          "sourceBodyHash": "sha256:6adfa5c6ea8f6a2d",
+          "translatedAt": "2026-10-03T17:14:13.649344+00:00",
           "translationLastCommit": "66e8626f",
           "translationLastModified": "2026-08-09T07:49:34+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 19049,
+          "footnoteDefs": 17,
+          "bytes": 30602,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -196018,8 +196026,8 @@
           "footnoteDefs": 0,
           "bytes": 45909,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (17→0)"
         },
         "ar": {
           "path": "ar/Geography/offshore-islands-and-maritime-culture.md",
@@ -196034,8 +196042,8 @@
           "footnoteDefs": 0,
           "bytes": 28073,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (17→0)"
         },
         "ru": {
           "path": "ru/Geography/offshore-islands-and-maritime-culture.md",
@@ -196050,8 +196058,8 @@
           "footnoteDefs": 0,
           "bytes": 34587,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (17→0)"
         },
         "de": {
           "path": "de/Geography/offshore-islands-and-maritime-culture.md",
@@ -196066,8 +196074,8 @@
           "footnoteDefs": 0,
           "bytes": 21537,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (17→0)"
         }
       }
     },
@@ -198699,24 +198707,24 @@
     },
     "Geography/澎湖縣.md": {
       "zh": {
-        "lastCommit": "e974b4c9",
-        "lastModified": "2026-09-05T21:34:09+08:00",
-        "contentHash": "sha256:e10092be60773ede",
-        "bodyHash": "sha256:d8c2fdecefda4ce7"
+        "lastCommit": "0ba9d3c9",
+        "lastModified": "2026-10-03T21:05:03+08:00",
+        "contentHash": "sha256:2b8d67aa5824f2f2",
+        "bodyHash": "sha256:cf2c3e11ea1bbb06"
       },
       "translations": {
         "en": {
           "path": "en/Geography/penghu-county.md",
           "translatedFrom": "Geography/澎湖縣.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:45cce9092926094b",
+          "sourceCommitSha": "0ba9d3c9",
+          "sourceContentHash": "sha256:2b8d67aa5824f2f2",
           "sourceBodyHash": "",
-          "translatedAt": "2026-09-09T16:10:37.157270+00:00",
+          "translatedAt": "2026-10-03T16:55:52Z",
           "translationLastCommit": "8a4815d8",
           "translationLastModified": "2026-09-11T07:06:12+08:00",
           "inferred": false,
-          "footnoteDefs": 40,
-          "bytes": 52362,
+          "footnoteDefs": 41,
+          "bytes": 52675,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -198724,15 +198732,15 @@
         "ja": {
           "path": "ja/Geography/penghu-county.md",
           "translatedFrom": "Geography/澎湖縣.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:45cce9092926094b",
+          "sourceCommitSha": "0ba9d3c9",
+          "sourceContentHash": "sha256:2b8d67aa5824f2f2",
           "sourceBodyHash": "",
-          "translatedAt": "2026-09-23T08:23:25.114285+00:00",
+          "translatedAt": "2026-10-03T16:55:52Z",
           "translationLastCommit": "f1d54756",
           "translationLastModified": "2026-09-23T17:08:15+08:00",
           "inferred": false,
-          "footnoteDefs": 40,
-          "bytes": 54175,
+          "footnoteDefs": 41,
+          "bytes": 54454,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -198740,15 +198748,15 @@
         "ko": {
           "path": "ko/Geography/penghu-county.md",
           "translatedFrom": "Geography/澎湖縣.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:45cce9092926094b",
+          "sourceCommitSha": "0ba9d3c9",
+          "sourceContentHash": "sha256:2b8d67aa5824f2f2",
           "sourceBodyHash": "",
-          "translatedAt": "2026-09-10T04:01:28.948428+00:00",
+          "translatedAt": "2026-10-03T16:55:52Z",
           "translationLastCommit": "0e6c4ae8",
           "translationLastModified": "2026-09-10T18:16:41+08:00",
           "inferred": false,
-          "footnoteDefs": 40,
-          "bytes": 51769,
+          "footnoteDefs": 41,
+          "bytes": 52122,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -198756,15 +198764,15 @@
         "es": {
           "path": "es/Geography/penghu-county.md",
           "translatedFrom": "Geography/澎湖縣.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:45cce9092926094b",
+          "sourceCommitSha": "0ba9d3c9",
+          "sourceContentHash": "sha256:2b8d67aa5824f2f2",
           "sourceBodyHash": "",
-          "translatedAt": "2026-09-08T03:46:08.425573+00:00",
+          "translatedAt": "2026-10-03T16:55:52Z",
           "translationLastCommit": "7ccc3db8",
           "translationLastModified": "2026-09-08T14:28:39+08:00",
           "inferred": false,
-          "footnoteDefs": 40,
-          "bytes": 54848,
+          "footnoteDefs": 41,
+          "bytes": 55247,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -198772,15 +198780,15 @@
         "fr": {
           "path": "fr/Geography/penghu-county.md",
           "translatedFrom": "Geography/澎湖縣.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:45cce9092926094b",
+          "sourceCommitSha": "0ba9d3c9",
+          "sourceContentHash": "sha256:2b8d67aa5824f2f2",
           "sourceBodyHash": "",
-          "translatedAt": "2026-09-24T04:15:12.961650+00:00",
+          "translatedAt": "2026-10-03T16:55:52Z",
           "translationLastCommit": "5f1974b9",
           "translationLastModified": "2026-09-24T14:03:25+08:00",
           "inferred": false,
-          "footnoteDefs": 40,
-          "bytes": 57404,
+          "footnoteDefs": 41,
+          "bytes": 57825,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -198788,15 +198796,15 @@
         "vi": {
           "path": "vi/Geography/penghu-county.md",
           "translatedFrom": "Geography/澎湖縣.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:45cce9092926094b",
-          "sourceBodyHash": "",
-          "translatedAt": "2026-09-08T03:27:27.581565+00:00",
+          "sourceCommitSha": "0ba9d3c9",
+          "sourceContentHash": "sha256:2b8d67aa5824f2f2",
+          "sourceBodyHash": "sha256:cf2c3e11ea1bbb06",
+          "translatedAt": "2026-10-03T16:56:08Z",
           "translationLastCommit": "20e64c9a",
           "translationLastModified": "2026-09-08T11:58:44+08:00",
           "inferred": false,
-          "footnoteDefs": 40,
-          "bytes": 63559,
+          "footnoteDefs": 41,
+          "bytes": 64086,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -198804,15 +198812,15 @@
         "id": {
           "path": "id/Geography/penghu-county.md",
           "translatedFrom": "Geography/澎湖縣.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:45cce9092926094b",
-          "sourceBodyHash": "",
-          "translatedAt": "2026-09-10T05:46:00.849981+00:00",
+          "sourceCommitSha": "0ba9d3c9",
+          "sourceContentHash": "sha256:2b8d67aa5824f2f2",
+          "sourceBodyHash": "sha256:cf2c3e11ea1bbb06",
+          "translatedAt": "2026-10-03T16:56:08Z",
           "translationLastCommit": "7b83133f",
           "translationLastModified": "2026-09-10T14:05:26+08:00",
           "inferred": false,
-          "footnoteDefs": 40,
-          "bytes": 53233,
+          "footnoteDefs": 41,
+          "bytes": 53787,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -198820,15 +198828,15 @@
         "pt": {
           "path": "pt/Geography/penghu-county.md",
           "translatedFrom": "Geography/澎湖縣.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:45cce9092926094b",
-          "sourceBodyHash": "",
-          "translatedAt": "2026-09-22T11:09:12.721973+00:00",
+          "sourceCommitSha": "0ba9d3c9",
+          "sourceContentHash": "sha256:2b8d67aa5824f2f2",
+          "sourceBodyHash": "sha256:cf2c3e11ea1bbb06",
+          "translatedAt": "2026-10-03T16:56:08Z",
           "translationLastCommit": "f0ba60da",
           "translationLastModified": "2026-09-28T11:33:48+08:00",
           "inferred": false,
-          "footnoteDefs": 40,
-          "bytes": 53509,
+          "footnoteDefs": 41,
+          "bytes": 54038,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -198836,15 +198844,15 @@
         "hi": {
           "path": "hi/Geography/penghu-county.md",
           "translatedFrom": "Geography/澎湖縣.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:45cce9092926094b",
-          "sourceBodyHash": "",
-          "translatedAt": "2026-09-26T04:08:44.353900+00:00",
+          "sourceCommitSha": "0ba9d3c9",
+          "sourceContentHash": "sha256:2b8d67aa5824f2f2",
+          "sourceBodyHash": "sha256:cf2c3e11ea1bbb06",
+          "translatedAt": "2026-10-03T16:56:08Z",
           "translationLastCommit": "7aa16e58",
           "translationLastModified": "2026-09-26T13:50:56+08:00",
           "inferred": false,
-          "footnoteDefs": 40,
-          "bytes": 108980,
+          "footnoteDefs": 41,
+          "bytes": 110039,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -198852,15 +198860,15 @@
         "ar": {
           "path": "ar/Geography/penghu-county.md",
           "translatedFrom": "Geography/澎湖縣.md",
-          "sourceCommitSha": "e974b4c9",
-          "sourceContentHash": "sha256:e10092be60773ede",
-          "sourceBodyHash": "sha256:d8c2fdecefda4ce7",
-          "translatedAt": "2026-08-01T23:08:40+08:00",
+          "sourceCommitSha": "0ba9d3c9",
+          "sourceContentHash": "sha256:2b8d67aa5824f2f2",
+          "sourceBodyHash": "sha256:cf2c3e11ea1bbb06",
+          "translatedAt": "2026-10-03T16:56:08Z",
           "translationLastCommit": "74349bb6",
           "translationLastModified": "2026-09-24T01:05:06+08:00",
           "inferred": false,
-          "footnoteDefs": 40,
-          "bytes": 70353,
+          "footnoteDefs": 41,
+          "bytes": 70927,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -198868,15 +198876,15 @@
         "ru": {
           "path": "ru/Geography/penghu-county.md",
           "translatedFrom": "Geography/澎湖縣.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:45cce9092926094b",
-          "sourceBodyHash": "",
-          "translatedAt": "2026-09-08T16:00:52.163235+00:00",
+          "sourceCommitSha": "0ba9d3c9",
+          "sourceContentHash": "sha256:2b8d67aa5824f2f2",
+          "sourceBodyHash": "sha256:cf2c3e11ea1bbb06",
+          "translatedAt": "2026-10-03T16:56:08Z",
           "translationLastCommit": "12dcd186",
           "translationLastModified": "2026-09-09T02:14:24+08:00",
           "inferred": false,
-          "footnoteDefs": 40,
-          "bytes": 82775,
+          "footnoteDefs": 41,
+          "bytes": 83697,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -198884,15 +198892,15 @@
         "de": {
           "path": "de/Geography/penghu-county.md",
           "translatedFrom": "Geography/澎湖縣.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:45cce9092926094b",
+          "sourceCommitSha": "0ba9d3c9",
+          "sourceContentHash": "sha256:2b8d67aa5824f2f2",
           "sourceBodyHash": "",
-          "translatedAt": "2026-09-23T13:02:07.739849+00:00",
+          "translatedAt": "2026-10-03T16:55:52Z",
           "translationLastCommit": "34ada411",
           "translationLastModified": "2026-09-23T22:07:20+08:00",
           "inferred": false,
-          "footnoteDefs": 40,
-          "bytes": 55853,
+          "footnoteDefs": 41,
+          "bytes": 56241,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
