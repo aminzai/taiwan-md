@@ -34,6 +34,10 @@ PY=/Users/musebase/.venvs/taiwanmd/bin/python
 # node_modules/.bin 有 prettier。兩個都掛上，dispatcher 的 npx 才找得到東西。
 export PATH="$(dirname "$PY"):$HOME/.local/bin:/Users/musebase/Projects/taiwan-md/node_modules/.bin:$PATH"
 git fetch -q origin main 2>/dev/null || echo "wrapper: git fetch 失敗，沿用舊的 origin/main ref" >&2
+# 10-04 加：起跑前把 origin 合進工作樹。fetch 只更新 ref，status.py 讀的是工作樹；
+# 不合併的話，別處推上去的中文修正永遠不會變成這裡的 stale（閒置輪詢量的是舊樹）。
+# 合併走 push-every 的 merge_origin()（共用鎖、衝突 abort 不硬來），失敗就沿用現狀。
+"$PY" scripts/tools/lang-sync/babel-push-every.py --sync >&2 || echo "wrapper: 起跑前合併 origin 失敗，沿用現有工作樹" >&2
 "$PY" scripts/tools/lang-sync/babel-origin-exclude.py >&2 || echo "wrapper: 去重清單產生失敗，沿用上一份 .taiwanmd/babel-exclude.tsv" >&2
 
 FLEET_WORKERS="$(~/Projects/muse-bot/fleet/fleetctl workers --service llm --format babel 2>/dev/null)"

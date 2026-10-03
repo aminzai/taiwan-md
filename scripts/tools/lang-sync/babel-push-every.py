@@ -203,7 +203,26 @@ def main() -> int:
     g.add_argument("--once", action="store_true")
     g.add_argument("--watch", action="store_true")
     g.add_argument("--status", action="store_true")
+    # 2026-10-04 babel-nightly：合併 origin 原本只發生在「有譯文要推」的時候。產線閒置
+    # （本機 stale=0、沒有未推送）時沒有人合併，別的 session 推上去的中文修正永遠進不了
+    # 這棵樹，dispatcher 每十分鐘拿舊樹算一次 stale=0 又去睡——10-03 巡邏的十幾篇中文
+    # 修正因此在這台機器外面躺了約 15 小時。wrapper 每次起跑前呼叫這個模式，讓閒置輪詢
+    # 量的是 origin 上的世界。合併邏輯、共用鎖、衝突 abort 全部沿用 merge_origin()，不推。
+    g.add_argument("--sync", action="store_true",
+                   help="只 fetch＋合併 origin/main（共用鎖、衝突 abort），不推")
     args = ap.parse_args()
+
+    if args.sync:
+        branch = git("rev-parse", "--abbrev-ref", "HEAD").stdout.strip()
+        if branch != "main":
+            log(f"⚠️ sync：主工作樹不在 main（在 {branch}），不合併")
+            return 0
+        git("fetch", "-q", "origin", "main", timeout=120)
+        _, behind = ahead_behind()
+        if behind > 0:
+            log(f"🔄 sync：工作樹落後 origin {behind} 個 commit，起跑前先合併")
+            merge_origin()
+        return 0
 
     if args.status:
         git("fetch", "-q", "origin", "main", timeout=120)
