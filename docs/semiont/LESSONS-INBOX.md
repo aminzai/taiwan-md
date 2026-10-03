@@ -332,6 +332,19 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-10-03 twmd-maintainer-am — wait-loop-polls-for-a-pattern-its-own-command-line-contains：等待迴圈要等的那個字串就寫在它自己的命令列裡，於是它永遠等得到自己
+
+- **pattern**: wait-loop-polls-for-a-pattern-its-own-command-line-contains
+- **原則**：`until ! pgrep -f 'astro build'; do sleep 15; done` 這種「等某個程序消失」的迴圈，`pgrep -f` 比對的是**全命令列**，而這個迴圈自己的命令列裡就有 `astro build` 這幾個字——所以被等的條件由它自己持續滿足，迴圈永不結束。失敗是雙重的而且兩邊都安靜：(a) 迴圈本身變成不死程序，不報錯、不佔 CPU，只是再也不回來，母 session 收到的「背景任務完成」其實是 shell 包裝退出而不是條件成立（REFLEXES #42 v7 子代等一個不存在的通知的近親）；(b) 更貴的是它**污染了那個 pattern 本身**——此後任何人手跑 `pgrep -f 'astro build'` 都會命中這些殘留迴圈，得到「build 正在跑」的錯答案。加括號（`'astro[ ]build'`）或讓儀器用嚴格 regex 就不會自我命中。
+- **觸發**：2026-10-03 08:33 maintainer-am 開場照 MAINTAINER §Step 4.1 當時寫著的「先確認 `pgrep -f 'astro build'` 沒有東西，再讀」跑了那句，命中 9 個程序。逐一查 `ps` 之後發現 7 個是前幾班留下的等待迴圈（3 個自 10-01 起活了 1 天 23 小時、3 個自 10-02 起活了 23 小時），真正的 `node astro build` 只有 2 個。用 `verify_internal_links.py` 自己那把 `(^|[\s/])astro(\.m?js)?\s+build\b` 重跑同一份 `ps`，命中恰好 2 個——引號與 `.*` 都不是 `[\s/]`，所以嚴格版不自我命中，這也解釋了為什麼 10-02 那班手跑會看到東西、而儀器仍給得出 0.15% 的讀數。**最尖銳處在這句手跑指令的錯答案方向**：它回報 build 在跑，而當班照字面讀的正確動作就是 skip 斷鏈 audit——跟 09-28〜09-30 連三輪 skip 完全同一個症狀、完全不同的成因，而上一班才剛留下「下一班不需要再找理由 skip，只需要排 16 分鐘」。→ memory/2026-10-03-083304-twmd-maintainer-am
+- **instances**：
+  - 2026-10-03 twmd-maintainer-am — 9 命中裡 7 個是不死迴圈，手跑指令的錯答案剛好指向 skip → 本條
+- **可能層級**：操作規則（已落地：MAINTAINER §Step 4.1 刪掉那句手跑指令並寫明成因）＋通用反射候選（「自我指涉的偵測條件」：偵測器的存在本身改變了被偵測的集合）
+- **候選機械化**：(a) 已 ship — §Step 4.1 改成「不要手跑，直接跑尺看它回 BUILDING 還是給讀數」，並附不自我命中的寫法；(b) 未做 — 給這類等待迴圈一個共用寫法（`scripts/tools/lib/wait-for-process.sh`，內建括號 trick 與上限 timeout），避免每班現場手寫；(c) 未做 — 殘留迴圈本身沒有任何東西在掃，本班手動收掉 6 個，下次還會長出來。
+- **相關**：REFLEXES #82（proxy signal：`pgrep` 命中是「build 在跑」的替身，而這個替身可以被觀測行為自己製造出來）、#99（尺先驗再用——這次是兩把尺對同一份 `ps` 給不同名單，#83 兩把尺 divergence 的程序層變體）、#24（工具在說謊：這次說謊的是一句寫進 SOP 的手跑指令，不是腳本）、#42 v7（背景任務的完成通知不等於條件成立）
+- **verification_count**: 1
+- **structural**: true
+
 ### 2026-10-03 twmd-babel-nightly — provenance-stamp-mixes-git-sha-with-worktree-hash：狀態表從 git 拿版本、從工作樹拿雜湊，工作樹一過期，舊內容就被蓋上新版本的章，而且之後永遠顯示最新
 
 - **pattern**: provenance-stamp-mixes-git-sha-with-worktree-hash
