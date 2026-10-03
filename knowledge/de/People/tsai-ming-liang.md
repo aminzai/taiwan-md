@@ -1,100 +1,105 @@
 ---
 title: 'Tsai Ming-liang'
-description: 'Gewinner des Goldenen Löwen von Venedig, ethnischer Chinese aus Malaysia, Meister der Slow-Cinema-Ästhetik'
+description: 'Venise Golden Lion-Sieger, Malaysischer Chinese, Meister des langsamen Films'
 date: 2026-03-19
 category: 'People'
+tags:
+  [
+    'Regisseur',
+    'Tsai Ming-liang',
+    'Langfilm',
+    'Venedig Film Festival',
+    'Malaysischer Chinese',
+  ]
 subcategory: '電影與戲劇'
-tags: ['Regisseur', 'Tsai Ming-liang', 'Slow Cinema', 'Filmfestival von Venedig', 'Malaysian-Chinese']
 author: 'Taiwan.md Contributors'
 featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'People/蔡明亮.md'
-sourceCommitSha: '97e35f050'
-sourceContentHash: 'sha256:762a1102ba17f314'
-translatedAt: '2026-08-19T03:50:18+08:00'
+sourceCommitSha: '112856faf'
+sourceContentHash: 'sha256:9ed1f7923fa72bf2'
+sourceBodyHash: 'sha256:0c0888dfd516b33c'
+translatedAt: '2026-10-04T05:18:01+08:00'
 ---
 
-# Tsai Ming-liang: Der Poet des Slow Cinema
+# Tsai Ming-liang: Der Dichter des langsamen Kinos
 
-> **30-Sekunden-Überblick:** Tsai Ming-liang ist einer der Regisseure des zeitgenössischen chinesischsprachigen Kinos mit dem ausgeprägtesten persönlichen Stil und international bekannt für seine einzigartige „Slow-Cinema“-Ästhetik. 1994 erhielt er für „Lebewohl, meine Konkubine“ (Borrowed Life, 愛情萬歲) den Goldenen Löwen des Filmfestivals von Venedig – als erster chinesischsprachiger Regisseur überhaupt. Als ethnischer Chinese aus Malaysia richtet er seinen langjährigen Blick auf die Einsamkeit und Entfremdung der Stadtmenschen und erschuf eine völlig neue filmische Sprache.
+> **30-Sekunden-Überblick:** Tsai Ming-liang ist einer der führenden Regisseure der zeitgenössischen chinesischen Filmkunst mit einem unverwechselbaren "langsamen Film"-Ästhetik. 1994 gewann er mit "Vive l'Amour" und "Before the Rain" den Goldenen Löwen von Venedig – als dritter chinesischer Regisseur nach Hou Hsiao-hsien und Zhang Yimou. Als Malaysischer Chinese konzentriert er sich auf die Einsamkeit und Isolation der Stadtbewohner und schafft eine völlig neue filmische Sprache.
 
-## Die malaysischen Jahre
+## Die Kindheit in Malaysia
 
-Tsai Ming-liang wurde am 27. Oktober 1957 in Kuching, Sarawak, Malaysia, geboren; die Heimat seiner Vorfahren war Nan'an, Fujian. Sein Vater Tsai Tien-sung betrieb ein Gemischtwarengeschäft, seine Mutter war Hausfrau. In der multiethnischen Umgebung Malaysias erlebte Tsai schon früh die Komplexität kultureller Identität.
+Tsai Ming-liang wurde am 27. Oktober 1957 in Kuching, Sarawak, Malaysia, geboren. Seine Familie stammt aus dem chinesischen Guangdong (Jeju). Als drittes von sieben Kindern wuchs er in einer Nudelbar in der Nähe. In seiner Jugend lebte er bei seinen Großeltern, die ihn abwechselnd in Kinohallen brachten – oft zwei Filme pro Tag.[^1] Die multikulturelle Umgebung Malaysiens prägte seine kulturelle Identität.
 
-In der Oberschule besuchte er die Erste Oberschule der Chinesen in Kuching und entwickelte Interesse am Theater, indem er in der Theatergruppe der Schule mitwirkte. Nach dem Abitur entschied er sich für ein Studium in Taiwan – eine Entscheidung, die seine Lebensbahn veränderte.
+In der Sekundarschule besuchte er die Chung Hwa National High School in Kuching. Nach seinem Abschluss 1977 kam er nach Taiwan, wo er zunächst an der Nationalen Normaluniversität (NTNU) Chinesisch studierte. 1978 gelang ihm der Eintritt in das Schauspielinstitut der Chinese Culture University.[^1] Taiwans akademisches Klima ermöglichte ihm einen breiteren Zugang zu künstlerischen Ausdrucksformen und ließ ihn seine kulturelle Identität hinterfragen.
 
-1977 kam Tsai Ming-liang nach Taiwan und studierte an der Theaterabteilung der Chinesischen Kulturuniversität. Das freie akademische Klima Taiwans eröffnete ihm vielfältigere künstlerische Ausdrucksformen und ließ ihn zugleich über seine eigene kulturelle Identität nachdenken.
+## Theaterspiel und Fernseherfahrung
 
-## Theaterprägung und Fernseherfahrung
+Während des Studiums wurde Tsai von Professor Wang Hsiao-chi indaktiviert, sich mit dem Konzept des "Theaters des Alltäglichen" auseinanderzusetzen. 1982 gründete er mit Kommilitonen das "Little Theater" und inszenierte seine erste Theaterinszenierung "Instant Noodles with Sauce".[^1] Nach dem Abschluss schrieb er zunächst Drehbücher. 1989 wechselte er ins Fernsehen und drehte die TV-Serie "The End of the World" für CCTV. Mit den Episoden "Love Line" und "Give Me a Home" aus der Serie "Sky of the Little People" erhielt er 1991 und 1992 je einen Goldenen Bogen (Gold Bell Award) als Bester Regisseur.[^1]
 
-Während des Studiums wurde Tsai Ming-liang stark vom experimentellen Theater beeinflusst und wirkte an Aufführungen der Lanling-Theatergruppe mit. Unter der Anleitung der Theaterpioniere King Shih-chieh und Cho Ming lernte er Schauspiel- und Regietechniken und entwickelte ein Gespür für Körperperformance und Raumnutzung.
+Während der Dreharbeiten für die TV-Serie "Children" 1991 entdeckte Tsai in einem Spielcafé in Ximending den ungeschulten Schauspieler Lee Kang-sheng, was den Beginn einer langjährigen Zusammenarbeit markierte.[^1] Schon während seiner Fernsehzeit zeigten Tsai seine Vorliebe für lange Kamerafahrten und statische Kompositionen sowie seine Konzentration auf die inneren Welten der Figuren.
 
-Nach dem Abschluss 1982 arbeitete Tsai im Fernsehen, zunächst als Drehbuchautor und Regisseur bei CTS und CTV. Seine Fernseharbeit „Das Kind“ (1991) gewann den Golden Bell Award; während der Vorbereitung dieses Werks traf er auf der Straße von Ximending, Taipeh, den Laiendarsteller Lee Kang-sheng – der Beginn ihrer bis heute andauernden langjährigen Zusammenarbeit. Schon in der Fernsehzeit zeigte Tsai eine Vorliebe für lange Einstellungen und statische Bildkompositionen; das Innenleben seiner Figuren interessierte ihn mehr als die äußere Handlung.
+## Das Debüt: "Young Nozoi"
 
-## Spielfilmdebüt: „Rebels of the Neon God“
+1992 veröffentlichte Tsai mit "Young Nozoi" sein erstes Kino-Projekt und etablierte seinen Stil. Der Film folgt jungen Menschen in Taipeh und nutzt eine nicht-lineare Erzählstruktur, um die Verwirrung und Isolation der modernen Jugend darzustellen.
 
-1992 brachte Tsai Ming-liang mit dem Debütfilm „Rebels of the Neon God“ (青少年哪吒) seinen persönlichen Stil zur Geltung. Der Film schildert Ausschnitte aus dem Leben einiger junger Menschen im urbanen Taipeh und zeigt mit nicht-linearer Erzählstruktur die Verwirrung und Entfremdung der modernen Jugend.
+Lee Kang-sheng war seit 1991 mit "Children" ein fester Bestandteil von Tsais Team. Sein unverwechselbarer Charakter verkörpert perfekt das Bild des urbanen Geisterreiters in Tsais Filmen. "Young Nozoi" erhielt 1993 bei der Tokio International Film Festival den Bronzedenkblütenkranz, beim Montpellier Film Festival den Preis für den besten Debütfilm und beim Trieste Film Festival den Preis für den besten Film.[^2] Der langsame Rhythmus und die minimalistische Ästhetik des Films waren in der taiwanesischen Kinoszene der 1990er einzigartig.
 
-Lee Kang-sheng ist seit „Das Kind“ (1991) Tsais fester Mitarbeiter. Sein eigenwilliges Temperament verkörpert perfekt den urbanen Geist-Vagabunden in Tsais Filmen. „Rebels of the Neon God“ gewann den Preis für den besten Film des Asia Pacific Film Festival; das langsame Tempo und der minimalistische Stil des Films ragten im damaligen taiwanesischen Kino heraus.[^1]
+## Der Sieg in Venedig: "Vive l'Amour"
 
-## Venedig-Krönung: „Lebewohl, meine Konkubine“
+1994 veröffentlichte Tsai mit "Vive l'Amour" eines seiner repräsentativsten Werke. Der Film schildert die isolierte Existenz von drei Taipeh-Einwohnern. Eine ikonische Szene zeigt Yang Kuei-mei, die in langen Kameraschlüssen im Da’an Forest Park weint – ein Meilenstein der taiwanesischen Filmgeschichte.
 
-„Lebewohl, meine Konkubine“ (1994) ist eines der repräsentativsten Werke Tsai Ming-liangs. Der Film schildert das einsame Leben dreier Taipeher Stadtmenschen; die sechsminütige Schlussszene eines Weinenden wurde zur Ikone der taiwanesischen Filmgeschichte.
+"Vive l'Amour" gewann beim 51. Internationalen Filmfestival Venedig gemeinsam mit dem rumänischen Film "Before the Rain" den Goldenen Löwen.[^3] Vor ihm hatten Hou Hsiao-hsien ("A City of Sadness", 1989) und Zhang Yimou ("Raise the Red Lantern", 1992) ebenfalls den Goldenen Löwen gewonnen – Tsai war der dritte chinesische Regisseur, der diese Auszeichnung erhielt.[^4]
 
-Auf dem 51. Filmfestival von Venedig teilte sich „Lebewohl, meine Konkubine“ den doppelten Goldenen Löwen mit dem mazedonischen Film „Before the Rain“ – Tsai Ming-liang wurde damit der erste chinesischsprachige Regisseur, der die höchste Auszeichnung des Festivals von Venedig erhielt.[^2] Dieser Preis führte das chinesischsprachige Kino in die höchste Halle des internationalen Kunstkinos.
+## "River", "Hole" und "What Time Is It There?"
 
-## Die Wasser-Trilogie
+Von 1997 bis 2001 veröffentlichte Tsai die Trilogie "River" (1997), "Hole" (1998) und "What Time Is It There?" (2001), in denen Wasser als zentrales Motiv wiederkehrt. "River" zeichnet mit extrem langsamem Tempo die emotionale Distanz innerhalb einer Familie nach und erhielt beim Berliner Filmfestival den Silbernen Bären für den Sonderpreis der Jury. "Hole" erkundet die Einsamkeit und Sehnsucht der Stadtbewohner durch die Interaktionen der Nachbarn in einem Hochhauskomplex in Taipeh. Die apokalyptische Stimmung ist fiktiv und nicht auf reale Ereignisse bezogen; der Film erhielt beim Cannes Film Festival den Internationalen Kritikerpreis.[^1] "What Time Is It There?" spielt sich gleichzeitig in Taipeh und Paris ab und thematisiert Distanz und Sehnsucht durch die Metapher der Zeitzonen. Der Toningenieur Tu Du-zhi erhielt für diesen Film zusammen mit "The Man Without a Map" den technischen Sonderpreis beim Cannes Film Festival.[^5]
 
-Zwischen 1997 und 2001 schuf Tsai Ming-liang eine Trilogie zum Thema „Wasser“: „Der Fluss“ (1997), „Das Loch“ (1998) und „Wie spät ist es dort?“ (2001). „Der Fluss“ zeigt in äußerst langsamem Rhythmus die Entfremdung zwischen Familienmitgliedern; „Das Loch“ untersucht über die Interaktion zwischen Wohnungen von Ober- und Unterstockwerken einer Taipeher Wohnung die Einsamkeit und Sehnsucht des modernen Stadtmenschen – wobei die Endzeit-Atmosphäre eine fiktive Setzung ist und nicht auf reale Ereignisse verweist. „Wie spät ist es dort?“ wurde zugleich in Taipeh und Paris gedreht und behandelt über das Konzept der Zeitverschiebung Distanz und Sehnsucht; es gewann den Un-Certain-Regard-Preis in Cannes.[^3]
+## Minimalistische Filmbildsprache
 
-## Minimalistische Filmsprache
+Tsai entwickelte eine einzigartige "langsame Film"-Sprache: extrem lange Kamerafahrten, minimale Dialoge, schlichte Handlungsstränge und ein langsamer Rhythmus. Seine Filme verwenden zahlreiche statische Einstellungen und natürliche Klänge, um dem Zuschauer das Gefühl der Zeitvergehen zu vermitteln.
 
-Tsai Ming-liang entwickelte eine einmalige „Slow-Cinema“-Sprache: extrem lange Einstellungen, spärliche Dialoge, reduzierte Handlung, langsamer Rhythmus. Seine Filme lassen das Publikum mit vielen statischen Einstellungen und natürlichen Geräuschen das Vergehen der Zeit spüren.
+In Tsais Kamera werden die kleinen Details des täglichen Lebens – Essen, Schlafen, Körperpflege – mit künstlerischer Sorgfalt neu betrachtet. Er nutzt den Raum geschickt, um Stimmungen zu erzeugen, sei es in engen Wohngemeinschaften, weiten Straßen oder verfallenen Gebäuden, die alle zur äußeren Projektion der inneren Welt der Figuren werden.
 
-In Tsais Objektiv werden die banalen Details des Alltags – Essen, Schlafen, Waschen – mit künstlerischem Blick neu betrachtet. Er versteht es, mit Räumen Stimmung zu erzeugen: ob enge Wohnung, leere Straße oder verlassene Bauten – sie werden zum äußeren Abbild der Innenwelt seiner Figuren.
+## Die Ära der Museen und die Walker-Reihe
 
-## Museumsära und Wanderer-Reihe
+2012 veröffentlichte Tsai mit "Walker" seine erste Kurzfilmsequenz: Lee Kang-sheng in einem roten Mantel, der in extrem langsamer Bewegung durch verschiedene Städte und Gebäude geht. Diese Serie umfasst "Journey to the West" (2014), "Where" (2022, gedreht für die Pompidou Center in Paris) und "No Where" (2024, Premiere beim Berliner Filmfestival) als zehntes Werk.[^6] Lee Kang-sheng wuchs von einem jungen Mann zu einem mittleren Alter reifer Mann heran – sein Körper trägt alle künstlerischen Konzepte von Tsai und ist das zentrale Element der Serie.
 
-In der späten 2000er-Jahren verlagerte Tsai Ming-liang seinen Schaffensschwerpunkt auf Museen und Galerieräume. Er hält die Museumsumgebung für besser geeignet, seine minimalistische Ästhetik zu zeigen; Werke wie „No No Sleep“ (2015) und „Das Haus von Langshan“ (2017) trieben das Slow-Cinema-Experiment weiter voran.
+2013 erhielt "Stray Dogs" beim 70. Internationalen Filmfestival Venedig den Preis der Jury.[^7] In einem Venedig-Interview sagte Tsai, dass "Stray Dogs" möglicherweise sein letzter Langfilm sei und er künftig "mehr wie Kunstwerke" schaffen wolle. Er kritisierte auch das taiwanesische Kino-System: "Stray Dogs" wurde nicht in großen Kinos gezeigt, sondern als Sonderausstellung im Nationalen Museum für Bildende Künste in Taipeh präsentiert. Spätere Kurzfilme wurden hauptsächlich in Museen und auf Filmfestivals gezeigt, wie "Sleepwalk" (2015, gedreht in Japan) und "Hello, Dumpling Temple" (2017, Tsai erste VR-Versuchsanstellung).[^1]
 
-Ausgehend von dem Bild des „Wanderers“ in „Stray Dogs“ (2013) entwickelte Tsai allmählich eine Kurzfilmreihe mit Lee Kang-sheng im langsamen Gehen, darunter „Journey to the West“ (2014). Lee Kang-sheng wuchs vom jungen Mann zum Mann mittleren Alters; sein Körper trägt alle Schaffensideen Tsais und ist der zentrale Träger der gesamten Werkreihe.[^4]
+## Nach den Langfilmen
 
-## Internationale Anerkennung nach „Stray Dogs“
+2020 veröffentlichte Tsai mit "Days" eine Fortsetzung seiner Auseinandersetzung mit Körper und Zeit. Der Film erhielt beim Berliner Filmfestival den Preis der TEDDY-Jury.[^8] 2022 folgte "Where", 2024 "No Where" – ein Beweis dafür, dass Tsai im hohen Alter weiterhin an den Grenzen seiner künstlerischen Visionen arbeitet.[^6]
 
-2013 erhielt „Stray Dogs“ (郊遊) den Großen Preis der Jury des 70. Filmfestivals von Venedig – die Bestätigung von Tsai Ming-liangs Platz im internationalen Kunstfilm-Kino. Im selben Jahr wurde ihm der 18. Nationale Kunstpreis verliehen, die höchste Auszeichnung der taiwanesischen Kunst- und Kulturwelt.[^5]
+## Kulturelle Identität und Themen
 
-Der Film „Days“ (2020) setzte seine Erkundung von Körper und Zeit fort. 2022 folgte „Wo“ (何處), 2024 „Nirgendwo leben“ (無所住) – Tsai treibt im Alter von fast siebzig Jahren weiter die Grenzen seines Schaffens voran.[^6]
+Als Malaysischer Chinese bringt Tsai eine Perspektive des kulturellen Randständigen in seine Filme. Er konzentriert sich auf Randgruppen in der Stadt: ausländische Arbeiter, Prostituierte, alte Menschen, Kranke – und präsentiert die biologischen Bedürfnisse der Menschen mit einer nüchternen Haltung, die traditionelle Moralvorstellungen herausfordert.
 
-## Kulturelle Identität und Schaffensmotive
+Tsais Filme behandeln selten politische Themen, sondern konzentrieren sich auf die grundlegenden Überlebensbedingungen der Menschen – was ihm in der europäischen Kunstfilm-Szene große Anerkennung einbrachte.
 
-Als ethnischer Chinese aus Malaysia tragen Tsai Ming-liangs Filme stets die Perspektive des kulturellen Randgängers. Er richtet seinen Blick auf die Randgruppen der Stadt: ausländische Arbeitskräfte, Sexarbeiter, Alte, Kranke; mit gelassener Haltung zeigt er die körperlichen Bedürfnisse des Menschen und stellt traditionelle moralische Vorstellungen in Frage.
+## Internationale Einflüsse und die Langfilm-Bewegung
 
-Tsai Ming-liangs Filme behandeln selten politische Themen, sondern konzentrieren sich auf den grundlegenden Existenzzustand des Menschen. Er hält Kunst für jenseits von Politik und Ideologie, direkt zu den gemeinsamen emotionalen Erfahrungen des Menschen führend. Diese Haltung brachte seine Werke in manchen Regionen Asiens mit Zensur in Konflikt und verschaffte ihm im europäischen Kunstfilm-Kino hohe Anerkennung.
+Tsai zählt zur internationalen "Langfilm"-Bewegung. Der Philippinen-Regisseur Lav Diaz entwickelte in ähnlicher Zeit seine Ästhetik des langen Blicks – beide werden oft gemeinsam diskutiert. Der Ungar Bela Tarr etablierte bereits in den 1980er Jahren seine zeitbasierte Erzählweise. Beide sollten als parallele Entwicklungen in jeweiligen kulturellen Kontexten betrachtet werden, nicht als lineare Einflussbeziehungen. 2009 erhielt Tsais Film "Face" den ersten Film, der im Louvre ausgestellt wurde.[^1]
 
-## Internationaler Einfluss und die Slow-Cinema-Schule
+## Quellen
 
-Tsai Ming-liang gehört zur internationalen „Slow-Cinema“-Schule. Lav Diaz (Philippinen) entwickelte in ähnlicher Zeit seine eigene Ästhetik des langen Blicks; die beiden werden oft gemeinsam diskutiert. Béla Tarr (Ungarn) hatte bereits in den 1980er-Jahren seine Zeit-Erzählung etabliert; beide sollte man als parallele Entwicklungen verschiedener Generationen in ihren jeweiligen kulturellen Kontexten sehen, nicht als lineare Einfluss-Weitergabe. Die französischen Cahiers du cinéma und das britische Sight & Sound gaben Tsai Ming-liang sehr hohe Anerkennung; seine Werke wurden zudem von mehreren Museen und Kunstinstitutionen gesammelt.[^7]
+[^1]: [Tsai Ming-liang — Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%94%A1%E6%98%8E%E4%BA%AE) — Biografie, Little Theater, CCTV-Ära und beiden Goldenen Bogen Awards, "River" und "Hole" Auszeichnungen, Museumspräsentation nach "Stray Dogs" und Kurzfilm-Chronologie.
 
-## Referenzen
+[^2]: [Young Nozoi — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%9D%92%E5%B0%91%E5%B9%B4%E5%93%AA%E5%90%92) — Bronze-Denkblütenkranz bei Tokio 1993, Bester Debütfilm bei Montpellier, Bester Film bei Triest 1993.
 
-[^1]: [Tsai Ming-liang – Taiwan Film Institute](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12456) — offizielle Filmdaten, inklusive Hintergrund der Erstaufführung von „Rebels of the Neon God“.
+[^3]: [51st Venice International Film Festival — Wikipedia](https://en.wikipedia.org/wiki/51st_Venice_International_Film_Festival) — "Vive l'Amour" und "Before the Rain" teilen sich den Goldenen Löwen.
 
-[^2]: [51. Filmfestival von Venedig – La Biennale di Venezia](https://www.labiennale.org/en/history/51st-festival-1994) — Aufzeichnung des doppelten Goldenen Löwen für „Lebewohl, meine Konkubine“ und „Before the Rain“.
+[^4]: [Golden Lion — Wikipedia](https://en.wikipedia.org/wiki/Golden_Lion) — Historische Gewinnerliste einschließlich 1989 "A City of Sadness" und 1992 "Raise the Red Lantern".
 
-[^3]: [Nationales Zentrum für Film und audiovisuelle Kultur (TFAI)](https://www.tfai.org.tw/) — Werkchronologie Tsai Ming-liangs und Cannes-Aufzeichnungen.
+[^5]: [2001 Cannes Film Festival — Wikipedia](https://en.wikipedia.org/wiki/2001_Cannes_Film_Festival) — "What Time Is It There?" im Wettbewerb, Tu Du-zhi erhält technischen Sonderpreis für diesen Film und "The Man Without a Map".
 
-[^4]: [Taipeh Museum der schönen Künste – Ausstellungsdaten Tsai Ming-liang](https://www.tfam.museum/) — Hintergrund der Wanderer-Reihenausstellungen und Museumskino-Diskurse.
+[^6]: [Tsai Ming-liang 'Walker'-Neuerscheinung "No Where" Premiere in London — Central News Agency](https://www.cna.com.tw/news/amov/202410100017.aspx) — 2012 erste "Walker"-Veröffentlichung, "No Where" als zehntes Werk, Weltpremiere Februar 2024 beim Berliner Filmfestival; "Where" siehe [Central News Agency Bericht 2022-11 Pompidou-Ausstellung](https://www.cna.com.tw/news/acul/202211260017.aspx).
 
-[^5]: [Nationaler Kunstpreis – National Culture and Arts Foundation](https://www.ncafroc.org.tw/) — Aufzeichnung des 18. (2014) Nationalen Kunstpreises.
+[^7]: [70th Venice International Film Festival — Wikipedia](https://en.wikipedia.org/wiki/70th_Venice_International_Film_Festival) — "Stray Dogs" erhält Jury-Preis.
 
-[^6]: [70. Filmfestival von Venedig – La Biennale di Venezia](https://www.labiennale.org/) — Großer Preis der Jury für „Stray Dogs“; Chronologie der jüngsten Werke „Wo“ und „Nirgendwo leben“ außerdem in der TFAI-Datenbank.
+[^8]: [70th Berlin International Film Festival — Wikipedia](https://en.wikipedia.org/wiki/70th_Berlin_International_Film_Festival) — "Days" im Wettbewerb, erhält TEDDY-Jury-Preis.
 
-[^7]: [Offizielles Festival de Cannes](https://www.festival-cannes.com/en/) — Vorführungsaufzeichnungen von „Wie spät ist es dort?“ und „Goodbye, Dragon Inn“ auf früheren Festivals in Cannes.
+## Weiterführende Literatur
 
-## Weiterführende Lektüre
-
-- [Taiwan Film Institute](https://taiwancinema.bamid.gov.tw/) — offizielle Datenbank der taiwanesischen Filmschaffenden
-- [Lee Kang-sheng](/people/李康生) — Tsai Ming-liangs einziger Hauptdarsteller seit 30 Jahren, vom Ximending-Jüngling zum Wanderer
-- [Edward Yang](/people/楊德昌) — das andere Auge des taiwanesischen New Cinema, das Taipeh seziert, mit der Kühle eines Ingenieurs die Einsamkeit des Stadtmenschen filmend
+- [Taiwan Film Institute](https://taiwancinema.bamid.gov.tw/) — Offizielle Datenbank der taiwanesischen Filmkünstler
+- [Yang De-chang](/de/people/edward-yang) — Ein weiterer Blick auf die Inszenierung der Einsamkeit in Taipeh, mit ingenieurhafter Kälte
