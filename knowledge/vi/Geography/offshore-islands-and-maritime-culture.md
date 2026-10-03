@@ -1,20 +1,20 @@
 ---
-title: 'Vùng đảo và văn hóa hải dương: Từ thạch sích đầu tiên thế giới đến luật phá sinh thái của mùa cá bay'
-description: 'Toàn cầu chỉ có dưới 600 con thạch sích (công cụ cổ xưa đánh cá), ngay cả Đài Bắc cũng có hơn 574 con. Một dân tộc đảo bản địa chuyên bắt cá bay đã biến những quy tắc cấm đoán thành hệ thống quản lý tài nguyên hải dương siêu hi precision nhất thế giới'
+title: 'Các làng chài đá và văn hóa biển: Từ các bẫy cá ở Bành Hồ đến mùa cá trích ở Lan Dữ'
+description: 'Khoảng 95% các bẫy cá bằng đá trên thế giới tập trung tại Bành Hồ; trong nghi thức mùa cá trích của người Đạt Ngộ tại Lan Dữ, một phần đã tạo ra thời gian nghỉ đánh bắt cho cá rạn đang đẻ trứng. Từ Bành Hồ, Lan Dữ đến Kim Môn, Mã Tổ, Tiểu Liêu Cầu, Lục Đảo, các đảo xa của Đài Loan ghi lại cuộc sống biển trong ba trăm năm qua bằng đá, thuyền và những điều cấm kỵ.'
 date: 2026-03-22
 category: 'Geography'
 tags:
   [
-    'đảo',
-    'văn hóa hải dương',
-    'Đài Bắc',
-    'Kim Cương',
-    'Mạch Tây',
+    'Đảo xa',
+    'Văn hóa biển',
+    'Bành Hồ',
+    'Kim Môn',
+    'Mã Tổ',
     'Lục Đảo',
-    'Lan Nhã',
-    'Đảo Nhỏ Lục',
-    'thạch sích',
-    'mùa cá bay',
+    'Lan Dữ',
+    'Tiểu Liêu Cầu',
+    'Bẫy cá đá',
+    'Mùa cá trích',
   ]
 subcategory: '島嶼與海洋'
 author: 'Taiwan.md'
@@ -23,225 +23,246 @@ featured: true
 lastVerified: 2026-03-22
 lastHumanReview: false
 translatedFrom: 'Geography/離島與海洋文化.md'
-sourceCommitSha: '217edf31a'
-sourceContentHash: 'sha256:61916e4f91798262'
-sourceBodyHash: 'sha256:b069d77bfe98ff54'
-translatedAt: '2026-09-18T15:01:41.396617+00:00'
+sourceCommitSha: '7ad70728d'
+sourceContentHash: 'sha256:3c540cfd32577b2a'
+sourceBodyHash: 'sha256:6adfa5c6ea8f6a2d'
+translatedAt: '2026-10-04T00:51:58+08:00'
 ---
 
-> **30 giây tóm tắt:** Toàn cầu chỉ có dưới 600 con thạch sích (công cụ cổ xưa đánh cá), ngay cả Đài Bắc cũng có hơn 574 con. Độ sâu này xứng đáng là hàng đầu thế giới. Còn ở Lan Nhã, ngài Tà Dật tộc đã phát triển "quy tắc cấm đoán" của mùa cá bay thành hệ thống quản lý tài nguyên hải dương siêu hi precision nhất thế giới — không phải là quan niệm, mà là khoa học. Những đảo này không chỉ là biên giới của Đài Loan, mà còn là bảo tàng trí tuệ hải dương của loài người.
+> **Tóm tắt 30 giây:** Khoảng 95% các bẫy cá bằng đá (công cụ săn bắt tự nhiên ở vùng triều) trên thế giới tập trung tại Bành Hồ; khảo sát năm 2008-2009 ghi nhận 592 cái. Tại Lan Dữ, trong nghi thức mùa cá trích của người Đạt Ngộ, một phần các điều cấm kỵ đã có hiệu quả quản lý tài nguyên, ví dụ như việc không đánh bắt cá rạn trong mùa cá trích giúp cá rạn đang đẻ trứng được nghỉ ngơi. Những hòn đảo này không chỉ là vùng biên giới của Đài Loan mà còn là bảo tàng trí tuệ biển của nhân loại.
 
-Vào năm 1950, giá trị thạch sích trên toàn huyện Đài Bắc chiếm 77% tổng sản lượng cá. Đó là thời kỳ không có tàu động cơ, những "lối đi tăm" được xây từ đá tuyền và hệ sinh thái san hô bằng cách khô làm ra, làm sống còn của cả kỳ đảo.
+Năm 1950, giá trị sản lượng từ các bẫy cá đá chiếm tới 77% tổng sản lượng đánh bắt của toàn tỉnh Bành Hồ[^1]. Đó là thời đại chưa có tàu thuyền cơ giới; những "mê cung dưới biển" được xây bằng đá bazan và rạn san hô này chính là huyết mạch kinh tế của cả quần đảo.
 
-Ở thời điểm đó có câu châm ngôn: "Có thạch mới có nhà, có nhà mới có vợ". Không có thạch sích tương đương không có nguồn sống, không thể làm ăn ở. Thạch sích và đất đai, nhà ở đều có tính chất tài sản không di động, có thể cho vay, thế chấp, mua bán, thậm chí làm tài sản thừa kế. Một con thạch sích được xây dựng tốt, thường có thể trong một chu kỳ thang dây bắt được trên 100 cân hay thậm chí cả tứ đến nghìn cân cá.
+Trong thời kỳ khan hiếm tài nguyên, không có bẫy cá đá đồng nghĩa với việc không có công cụ sinh kế, không thể lập gia đình hay ổn định cuộc sống. Bẫy cá đá cũng mang thuộc tính bất động sản như ruộng đất và nhà cửa; chúng có thể được thế chấp, mua bán, thậm chí là đối tượng để phân chia di sản, và còn là tiêu chuẩn để xem xét hôn nhân hoặc đính ước. Trong những năm đánh bắt bội thu, một bẫy cá đá được xây dựng tốt thường có thể bắt được hàng trăm, thậm chí hàng nghìn cân cá trong một lần triều cường[^1].
 
-> **📝 Ghi chú của người dẫn chương**
-> Độ sâu thạch sích trên toàn cầu, Đài Bắc là hạng nhất không thể cạnh tranh. 320 km bờ biển, sau khi trừ đi các cảng và khu vực sâu biển không thể xây thạch sích, vẫn còn khoảng 600 con thạch sích được phân bố. Đây không phải là hòe may — đây là minh chứng cuối cùng của tri thức sinh tương với hải dương được phát triển trong 300 năm.
+> **📝 Ghi chú của người biên tập**
+> Đường bờ biển 320 km của Bành Hồ, trừ các khu vực cảng và vùng nước quá sâu không thể làm bẫy, lại có gần 600 cái bẫy đá[^1]. Đây không phải là sự trùng hợp—đây là biểu hiện tột cùng của trí tuệ chung sống giữa con người và đại dương trong ba trăm năm.
 
-## Thạch sích ở Đài Bắc: Kiến trúc hải dương 300 năm
+## Bẫy cá đá Bành Hồ: Kiến trúc học biển qua ba trăm năm
 
-### Công nghệ dầm nông nghiệp cổ xưa hơn Wikipedia
+### Kỹ thuật đánh bắt cổ xưa hơn cả Wikipedia
 
-Lịch sử thạch sích xa hơn so với tưởng tượng. Ghi chép sớu nhất về thạch sích ở Đài Bắc xuất hiện trong bản "Đài Loan phủ chí" của triềnh đình Qing năm kỷ 35 (1696): "Đài Bắc có... thạch sích lớn 2 con, thạch sích nhỏ 20 con..." Đến năm kỷ 19 của triềnh đình Gia Thịnh (1893), bản "Thư viện tỉnh Đài Bắc" ghi lại đã tăng lên "thạch sích lớn 2 con, thạch sích nhỏ 76 con một nửa".
+Lịch sử của bẫy cá đá còn cổ xưa hơn chúng ta tưởng rất nhiều. Những ghi chép sớm nhất về bẫy cá đá ở Bành Hồ xuất hiện trong bộ _Tài Loan Phủ Chí_ do Cao Cảnh Càn soạn vào năm Khang Hi thứ 35 (1696): "Bành Hồ có... 2 cái đại hồ, 20 cái tiểu hồ... thu thuế hỗn hợp". Đến _Bành Hồ Đình Chí_ năm Quang Tự thứ 19 (1893), số lượng đã được ghi nhận tăng lên "2 cái đại hồ, 76 cái tiểu hồ rưỡi".
 
-"Một nửa con" là gì? Các tài liệu lịch sử không giải thích rõ, nhưng từ khảo sát thực địa suy đoán, có thể là do một số thạch sích bị thiệt hại do bão hay sóng gió, chỉ còn một nửa chức năng.
+"Một nửa cái" là gì? Văn hiến không giải thích[^1], và cho đến nay vẫn là một bí ẩn.
 
-**Điều kỳ lạ hơn là phạm vi thời gian.** Các nhà nghiên cứu lịch sử địa phương ở Đài Bắc Hồng Quốc Huyền đã hoàn thành khảo sát vào năm 1999, cho biết tổng cộng 558 con thạch sích trên huyện Đài Bắc, cộng thêm 16 con chưa được khám phá, tổng cộng hơn 574 con. Khảo sát mới nhất vào năm 2009 đã đưa con số lên tới 592 con.
+**Điều đáng kinh ngạc hơn là khoảng thời gian.** Nghiên cứu do chuyên gia văn hóa địa phương Bành Hồ, Hồng Quốc Hùng (洪國雄), hoàn thành vào năm 1999 chỉ ra rằng tổng cộng có 558 bẫy cá đá ở toàn tỉnh Bành Hồ; cộng thêm 16 cái được bổ sung sau khi phát hiện thiếu sót, tổng số đạt trên 574. Khảo sát thực địa tại các khu vực còn lại vào năm 2008-2009 đã đưa con số lên 592; nếu tính cả những bẫy truyền miệng nhưng không tìm thấy dấu tích, số lượng bẫy cá đá Bành Hồ có lẽ đã vượt quá 600[^1].
 
-### Phân bố thạch sích trên toàn cầu: Độ sâu kỳ vọng của Đài Bắc
+### Phân bố bẫy cá đá toàn cầu: Mật độ đáng kinh ngạc của Bành Hồ
 
-Thạch sích (stone fish weir) là một công cụ cổ xưa đánh cá chung của thế giới, có mặt ở Nhật Bản, Hàn Quốc, Philippines, Thái Lan, Úc, Hawaii, thậm chí cả Anh và Mỹ. **Nhưng tổng số thạch sích trên toàn cầu không vượt quá 600 con.**
+Bẫy cá đá (stone fish weir) là một cấu trúc săn bắt cổ xưa mang tính toàn cầu, được phân bố ở Nhật Bản, Hàn Quốc, Philippines, Thái Lan, Úc, Hawaii, thậm chí cả Anh và Mỹ. **Nhưng khoảng 95% bẫy cá đá trên thế giới tập trung tại Bành Hồ**[^2].
 
-Điều này có nghĩa gì? Số lượng thạch sích của một kỳ đảo như Đài Bắc gần như bằng tổng số của các kỳ đảo khác trên thế giới.
+Xét về các đảo, Cát Bì Đảo từ xưa đã được mệnh danh là "quê hương của bẫy cá đá"; khảo sát năm 2006 cho thấy có 92 cái xung quanh đảo này, là hòn đảo có nhiều bẫy nhất. Mặc dù bẫy đôi tại Thất Mỹ Đảo chỉ có 1 chiếc, nhưng nhờ có một vách đá tuyệt đẹp gần đó, nó đã được phong tặng danh hiệu "cảnh quan nhân văn đẹp nhất thế giới"[^1].
 
-Tính theo độ sâu, kết quả càng kỳ vọng: Đảo Gi Bì có ít nhất 109 con thạch sích xung quanh, từng có danh hiệu "quê hương thạch sích" là đảo có độ sâu thạch sích cao nhất thế giới. Thạch sích hai trái tim ở Bảy Mỡ chỉ có 1 con, nhưng nhờ hình dáng đặc sắc và vị trí quan sát, được mô tả là "cảnh quan nhân văn đẹp nhất trên trái đất".
+> **💭 Một giả thuyết chưa được xác minh**
+> Tại sao Bành Hồ lại có nhiều bẫy cá đá như vậy? Trong phần giới thiệu về các điểm tiềm năng di sản thế giới của Bộ Văn hóa, tác giả suy đoán rằng văn hóa bẫy cá đá có thể là một đặc trưng chung của văn hóa ngư nghiệp ngữ hệ Nam Đảo, nhưng cũng ghi rõ "vẫn cần thêm bằng chứng để ủng hộ"[^1].
 
-> **⚠️ Vấn đề tranh cãi**
-> Tại sao độ sâu thạch sích ở Đài Bắc lại cao như vậy? Các nhà khoa học đề xuất, điều này có liên quan đến đường đi di cư của ngôn ngữ Nam Tảo. Thạch sích có thể là đặc trưng văn hóa câu cứu của ngôn ngữ Nam Tảo, và Đài Bắc chính là trung tâm của vòng văn hóa này.
+### Bảy điều kiện kiến tạo bẫy cá đá
 
-### Bảy yếu tố xây dựng thạch sích
+Không phải nơi nào cũng có thể xây dựng bẫy cá đá. Theo sự tổng hợp của Bộ Văn hóa, sự phát triển của bẫy cá đá đòi hỏi bảy yếu tố phải cùng tồn tại[^1]:
 
-Không phải mọi nơi đều có thể xây thạch sích. Theo nghiên cứu, thạch sích cần hai yếu tố cùng có:
+1. **Vật liệu xây dựng**: Đá bazan, sỏi hoặc rạn san hô
+2. **Chênh lệch thủy triều đủ lớn**: Tận dụng nguyên lý triều lên và triều xuống để nhốt đàn cá
+3. **Sóng gió mạnh mẽ**: Đàn cá dễ bị cuốn vào bẫy để trú ẩn
+4. **Rạn san hô rộng lớn**: Cá bị mắc kẹt trong vùng triều khi thủy triều rút
+5. **Cá di cư**: Cung cấp đủ động lực kinh tế
+6. **Nhân lực dồi dào**: Việc xây dựng bẫy cá đá tốn nhiều năm, thậm chí hơn một thập kỷ
+7. **Hệ thống quản lý**: Các quy ước về phân chia lợi ích và trách nhiệm sửa chữa
 
-1. **Vật liệu xây dựng**: đá tuyền, đá lở hoặc hệ sinh thái san hô
-2. **Độ chênh lệch thang dây đủ**: dùng nguyên lý thang dây và lùi dây kẹt cá
-3. **Gió lũ mạnh mẽ**: cá dễ dàng vào thâm thạch sích tìm nơi trú ẩn
-4. **Diện tích sàn thạch đủ**: lúc lùi dây, cá bị kẹt trong vùng ngư tụ
-5. **Cá di cư**: cung cấp đủ lợi ích kinh tế
-6. **Lực lượng con người đủ**: thạch sích tốn thời gian xây dựng từ vài năm cho đến thập kỷ
-7. **Hệ thống quản lý**: thỏa thuận về chia sẻ lợi nhuận và trách nhiệm bảo trì
+Bành Hồ tình cờ đáp ứng đủ cả bảy điều kiện, đặc biệt là địa chất bazan và khí hậu gió mùa, đã cung cấp môi trường tự nhiên lý tưởng cho bẫy cá đá.
 
-Đài Bắc đáp ứng đủ bảy yếu tố này, đặc biệt là địa chất đá tuyền và khí hậu mùa, tạo môi trường tự nhiên lý tưởng cho thạch sích.
+## Người Đạt Ngộ Lan Dữ: Biến điều cấm kỵ thành khoa học sinh thái
 
-## Lan Nhã Tà Dật tộc: Biến cấm đoán thành khoa học sinh thái
+Nếu bẫy cá đá Bành Hồ là đỉnh cao của kiến trúc biển, thì mùa cá trích ở Lan Dữ chính là điển hình của sinh thái học biển.
 
-Nếu nói thạch sích ở Đài Bắc là điểm cao của kiến trúc hải dương, thì mùa cá bay ở Lan Nhã là mẫu chuẩn của sinh thái hải dương.
+### Mùa cá trích không phải lễ hội, mà là hệ thống pháp luật
 
-### Mùa cá bay không phải là lễ hội, mà là hệ thống luật phá
+Vào mỗi mùa xuân, dòng hải lưu đen mang cá trích đến vùng biển Lan Dữ, người Đạt Ngộ bắt đầu mùa cá trích: nghi thức tế lễ kéo dài từ tháng 2 cho đến khoảng tháng 10[^3]. Nhưng đây không chỉ là mùa đánh bắt—đây là một hệ thống quản lý tài nguyên biển hoàn chỉnh.
 
-Mỗi năm từ tháng 2 đến tháng 6, khi vòn biển đưa cá bay đến vùng biển Lan Nhã, Tà Dật tộc bắt đầu vào mùa cá bay. Nhưng đây không chỉ là thời gian bắt cá — đây là một hệ thống quản lý tài nguyên hải dương hoàn chỉnh.
+**Người Đạt Ngộ có cả một bộ quy tắc cấm kỵ trong mùa cá trích**[^3]:
 
-**Mùa cá bay của Tà Dật tộc có đầy đủ các "cấm đoán" (pansin):**
-
-- Phụ nữ không được chạm vào thuyền ghép, đặc biệt trong thời gian ra biển
-- Không được mang cam lên biển (sẽ ảnh hưởng đến kết quả câu cá)
-- Thời gian cụ thể cấm tắm biển, lặn nước trong khu vực làng
-- Các tháng khác nhau tương ứng với phương pháp bắt cá và loài cá mục tiêu khác nhau
+- Phụ nữ không tham gia các nghi lễ của mùa cá trích, cũng không chạm vào ngư cụ hay thuyền đánh cá
+- Trong mùa cá trích không được mang cam lên đảo
+- Lặn, bơi lội và câu cá chỉ được thực hiện ở các vùng nước nhất định
+- Các thời kỳ khác nhau tương ứng với phương thức đánh bắt và loài mục tiêu khác nhau
 
 > **💡 Bạn có biết không**
-> Những "cấm đoán" này thực chất là hệ thống quản lý tài nguyên hải dương siêu hi precision nhất thế giới. Phụ nữ không chạm vào thuyền là do ngăn chặn mùi hôi ngoại lai ảnh hưởng đến cá. Hương cam dứt tác chắc chắn sẽ làm sống khổng lồ một số loài cá; chia bước bắt cá đảm bảo chu kỳ sinh sản của cá bay không bị phá hoại.
+> Lý do đằng sau những điều cấm kỵ này chưa chắc như người ngoài tưởng tượng. Từ Đạt Ngộ phát âm gần giống "không có cá", việc mang cam lên đảo được cho là sẽ mang đi vận may của nguồn lợi thủy sản[^3][^4]; các quy tắc cấm kỵ đối với phụ nữ lại liên quan đến loài linh thiêng và sự liên tưởng với tai ương[^4]. Tuy nhiên, một số điều cấm kỵ thực sự có hiệu quả sinh thái: trong mùa cá trích, lưới, súng và cần câu đều không được dùng để bắt các loài khác (chủ yếu là cá rạn), nếu bắt nhầm phải thả về biển; và tháng 3 đến tháng 5 của mùa cá trích chính là mùa đẻ trứng của cá rạn, tương đương với việc cho cá rạn đang đẻ trứng một khoảng thời gian nghỉ ngơi[^4].
 
-### Thuyền ghép: Không dùng gân nhôm
+### Thuyền ghép ván: Nghệ thuật đóng tàu không dùng một chiếc đinh nào
 
-Thuyền ghép của Tà Dật tộc (tatala) là phát minh kỳ diệu của công nghệ thuyền thế giới. Toàn bộ chiếc thuyền không sử dụng gân nhôm, chỉ dựa vào cách ghép khớp. Mỗi chiếc thuyền đều có họa tiết truyền thống độc đáo được tô màu, biểu thị sự tự nhận thức của bộ lạc.
+Thuyền ghép ván (Tatala) của người Đạt Ngộ là một kỳ tích trong kỹ thuật đóng tàu thế giới, được tạo thành từ nhiều tấm gỗ ghép lại. Mỗi chiếc thuyền đều có hoa văn trang trí truyền thống độc đáo, tượng trưng cho sự nhận diện bộ lạc.
 
-Đặc biệt hơn, thuyền ghép có hệ thống cấp độ sử dụng nghiêm ngặt:
+Thuyền ghép ván được chia làm hai loại tùy theo kích thước[^5]:
 
-- **Thuyền một người (tatala)**: cá nhân bắt cá gần biển
-- **Thuyền sáu người (chinedkeran)**: bắt cá xa biển trong mùa cá bay
-- **Thuyền mười người (chinitaotao)**: cấp độ cao nhất, cần sự hợp tác của cả bộ lạc xây dựng
+- **Thuyền ghép ván nhỏ (Tatala)**: Thuyền một người, hai người, ba người; thuyền ba người dài khoảng 3 mét
+- **Thuyền ghép ván lớn (Cinedkeran)**: Sáu người (Atlo so avat), tám người (Apat so avat), mười người (Alima so avat); thuyền mười người dài khoảng 7 mét, mỗi đoàn đánh cá lấy nó làm đơn vị.
 
-Mỗi lần xuống nước đều có các nghi lễ truyền thống phức tạp, bao gồm cầu nguyện, đặt tên, hoàn thành tranh vẽ thuyền...
+Mỗi chiếc thuyền đều có một nghi lễ truyền thống phức tạp khi hạ thủy, bao gồm cầu phúc, đặt tên và lễ hoàn thành trang trí thân thuyền.
 
-### Chuyển đổi từ quan niệm đến khoa học
+### Sự chuyển đổi từ mê tín sang khoa học
 
-Lâu lâu, bên ngoài đã coi thường mùa cá bay của Tà Dật tộc như một hình thức quan niệm. Nhưng gần đây, các nhà sinh học hải dương phát hiện ra, hệ thống này có tính khoa học khiến người ta ngạc nhiên:
+Trong thời gian dài, thế giới đã coi các quy tắc cấm kỵ của mùa cá trích người Đạt Ngộ là mê tín dị đoan. Quan điểm của các nhà nghiên cứu thì chi tiết hơn: một phần các điều cấm kỵ có hiệu quả bảo tồn sinh thái (ví dụ như kiểm soát cường độ đánh bắt), và một phần khác có thể chỉ là mê tín[^4].
 
-**Tri thức sinh thái cụ thể:**
+Nghiên cứu được công bố trên _Marine Policy_ năm 2019 đã xem xét văn hóa cá trích của người Đạt Ngộ bằng năm điều kiện quản lý tài nguyên hiệu quả, kết luận rằng tri thức bản địa này phù hợp với các điều kiện đó, có cơ sở lý thuyết để quản lý tài nguyên biển và ngư nghiệp Lan Dữ; nhưng chính các chính sách không đúng đắn, công nghệ hiện đại, giáo dục và kinh tế thị trường cũng đang làm thay đổi nó[^4][^6]. Nghiên cứu tiếp theo vào năm 2020 đã phỏng vấn người dân vào năm 2014 và 2015, lần đầu tiên phân loại chi tiết các điều cấm kỵ của văn hóa cá trích, và ước tính tổng số cá trích được đánh bắt trên toàn đảo mỗi năm khoảng từ 260.000 đến 280.000 con[^4].
 
-- Chia bước bắt cá theo chu kỳ sinh vật của cá bay
-- Chọn cách bắt cá tránh hủy hoại sinh thái đại dương
-- Một số khu vực có biện pháp cấm câu theo mùa bảo vệ địa sinh của cá
-- Calendrical truyền thống và khoa học hiện đại của vòng thang dây khớp khít nhau
+## Kim Môn: Quản lý quân sự trong 36 năm đã định hình một xã hội như thế nào?
 
-Vào năm 2019, các nhà nghiên cứu hải dương công bố trong tạp chí "Marine Policy" rằng hệ thống mùa cá bay của Tà Dật tộc là mẫu chuẩn của hệ thống tri thức hải dương nguyên bản, xứng đáng được quản lý câu cá hiện đại tham khảo.
+### Thí nghiệm nhân học tại vùng chiến sự
 
-## Kim Cương: 36 năm chính trị quân sự tạo nên một xã hội
+Từ năm 1956 đến 1992, Kim Môn thực hiện quản lý quân sự kéo dài 36 năm[^7]. Đây không chỉ là sự kiểm soát quân sự mà còn là một thí nghiệm xã hội chưa từng có—làm thế nào để một xã hội đảo hoàn toàn bị quân sự hóa?
 
-### Nghiên cứu nhân loại của lâu đài quân sự
+**Sự kiểm soát toàn diện của vùng chiến sự:**
 
-Từ năm 1956 đến 1992, Kim Cương thực hiện chính trị quân sự kéo dài 36 năm. Đây không chỉ là quân sự kiểm soát, mà còn là một thí nghiệm xã hội chư từ có — làm sao để một đảo xã hội hoàn toàn chuyển sang quân sự?
+- "Quản lý, giáo dục, nuôi dưỡng, bảo vệ" đều vận hành theo hệ thống quân sự
+- Sinh hoạt hàng ngày như ăn uống, mặc, ở, đi lại đều bị kiểm soát
+- Tất cả cư dân phải sẵn sàng phối hợp với các cuộc diễn tập quân sự
+- Việc ra vào đảo cần có giấy phép đặc biệt
 
-**Biện pháp kiểm soát toàn diện:**
+Kết quả là gì? Một "văn hóa chiến sự" độc đáo: cơ sở vật chất quân sự dày đặc, các cọc phòng không rải khắp đảo, các khẩu hiệu "Phản công đại lục", và ký ức tập thể ăn sâu vào tâm trí người dân Kim Môn qua nhiều thế hệ.
 
-- "Quản lý, giáo dục, nuôi dưỡng, y tế" hoạt động theo hệ thống quân sự
-- Đời sống hàng ngày ăn ở, mặc ở, sống ở đều bị kiểm soát
-- Tất cả cư dân phải thường xuyên tham gia tập luyện quân sự
-- Đi và ra đảo đều cần giấy phép đặc biệt
+### Quần thể kiến trúc Phúc Kiến (Min Nan) được bảo tồn một cách tình cờ
 
-Kết quả là gì? Một "văn hóa lâu đài" độc đáo: hạ tầng quân sự dồi dào, các công trình chống không lên không, biểu ngữ "Chống lại tấn công đất liền" lan tỏa sâu rộng, và kỷ niệm chung gắn bó sâu sắc trong lòng người Kim Cương cổ đại.
+Kim Môn đã bảo tồn nhiều quần thể kiến trúc truyền thống Phúc Kiến hoàn chỉnh.
 
-### Các kinh tế kiến trúc đầy may mắn được giữ lại
+**Làng văn hóa dân tục Sơn Hậu** là ví dụ điển hình nhất: 18 ngôi nhà được bố trí theo kiểu bàn cờ, dựa vào núi và hướng ra biển, sử dụng kiến trúc hai lối của người Phúc Kiến (Min Nan), với tường xây bằng đá Bạch Thạch từ Tuyền Châu, kết hợp gốm sứ giao chỉ, tranh vẽ, điêu khắc đá và chạm khắc gạch, thể hiện kỹ thuật kiến trúc Min Nan. Những ngôi nhà này được con trai Quốc Trân và Vương Kính Tường, những người Hoa kiều làm ăn ở Nhật Bản, tài trợ xây dựng trong khoảng năm 1876-1900, và tặng cho các thành viên họ Vương sinh sống[^8].
 
-Mặc dù chính trị quân sự hạn chế phát triển kinh tế, nhưng nó đầy may mắn giữ lại tập thể kiến trúc đương đại của Đài Bắc.
+> **📝 Ghi chú của người biên tập**
+> Kiến trúc của người Hoa kiều tại Kim Môn là một hiện tượng văn hóa rất đặc biệt. Vào cuối thời Thanh, nhiều người dân Kim Môn vì khó khăn trong cuộc sống đã "xuất ngoại" (quá phiên), đi đến Nam Dương hoặc vượt biển sang Nhật Bản, rồi gửi tiền về quê hương[^9]. Quốc Trân của họ Vương làm ăn ở Kobe, Nhật Bản[^9], nhưng lại xây nhà theo kiểu kiến trúc hai lối Phúc Kiến chính thống; Kim Môn cũng có những ngôi biệt thự như Trần Cảnh Lan Dương Lâu kết hợp phong cách Tây và Min Nan, là một dạng khác do dòng tiền kiều dân này để lại.
 
-**Làng văn hóa dân tộc Hồng đông** là ví dụ tiêu biểu: 18 ngôi nhà kiến trúc Hồng đông xây theo địa hình núi non, có mái góc cong, vách đá, trang trinh đá gỗ tinh xảo, phản ánh nghệ thuật kiến trúc đỉnh cao của Hồng đông. Những ngôi nhà này được xây dựng từ năm 1876-1900 bởi các doanh nhân ngôi làng Hồng đông Vương Quốc Huyền, Vương Thành Tường, là biểu tượng của kiến trúc "hội nhà nước ngoại lai".
+### Thành công bất ngờ của văn hóa rượu gạo cao lương
 
-> **📝 Ghi chú của người dẫn chương**
-> Kiến trúc "hội nhà nước" của Kim Cương là hiện tượng văn hóa độc đáo. Vào thế kỷ 19 đầu, nhiều người Kim Cương đã đi tới Đông Nam Á buôn bán thành công rồi trở về xây nhà kết hợp phong cách Tây với Hồng đông. Nhóm nhà văn hóa ở Làng Hồng đông chính là tác phẩm duy nhất của kiến trúc đa văn hóa này.
+Trong thời gian quản lý quân sự, nhà máy rượu Kim Môn trở thành trụ cột kinh tế quan trọng. Năm 1952, Tướng Hồ Liên đã xây dựng nhà máy rượu và áp dụng chính sách "trao đổi cao lương lấy gạo" để khuyến khích người dân trồng cao lương: một cân cao lương đổi một cân gạo trắng; sản lượng cao lương tăng từ 298 tấn vào năm 1954 lên gần 6.600 tấn vào năm 1991[^10].
 
-### Thành công ngầm của rượu lúa gạo
+**Điều thú vị là**, rượu cao lương Kim Môn đã không thể tiến vào thị trường Đài Loan trong một thời gian dài: Cục Bán hàng Công cộng Đài Loan độc quyền kinh doanh rượu, kho của nhà máy từng chất đống như núi; giám đốc nhà máy lúc đó đã đóng gói lại số rượu tồn kho năm năm thành "Hắc Kim Cương" cao lương ủ lâu năm. Sau năm 1992, việc nới lỏng kiểm soát bán rượu Kim Môn vào Đài Loan mới giúp rượu cao lương Kim Môn độc chiếm thị trường rượu trắng Đài Loan[^10].
 
-Trong thời kỳ chính trị quân sự, nhà rượu Kim Cương trở thành trụ cột kinh tế quan trọng. Sử dụng nước ngầm chất lượng cao của Kim Cương và lúa gạo nhập từ Trung Quốc, họ chế tạo ra rượu lúa gạo nổi tiếng thế giới.
+## Tiểu Liêu Cầu: Kỳ tích cấp độ thế giới về mật độ rùa biển
 
-**Có điều thú vị**, thành công của rượu lúa gạo Kim Cương có khoảng nửa sức mạnh nhờ kiểm soát quân sự. Do kênh bán ra ngoài đảo bị hạn chế, nhà rượu tập trung vào nâng cao chất lượng. Khi thị trường mở cửa sau khi giải phóng, ngay lập tức trở thành thương hiệu rượu lúa gạo được ưa chuộng nhất tại Đài Bắc.
+### Tại sao rùa biển ở đây không sợ người?
 
-## Đảo Nhỏ Lục: Kỳ quan thế giới của mật ong biển
+Tiểu Liêu Cầu nổi tiếng là "hòn đảo của rùa biển"; nó được chính quyền huyện Bình Đông công bố là khu vực sinh sống quan trọng của rùa xanh, và Cơ quan Bảo tồn Biển thuộc Ủy ban Đại dương đã chụp ảnh trên không ghi nhận 805 con rùa[^11].
 
-### Tại sao ở đây mật ong biển không sợ người?
+**Tại sao Tiểu Liêu Cầu có thể giữ lại nhiều rùa biển như vậy?**
 
-Đảo Nhỏ Lục có danh hiệu "đảo mật ong biển". Theo nghiên cứu của Trường Đại học Hải dương, đây có mật ong biển trung bình hàng trăm con, độ sâu đứng đầu thế giới. Tỷ lệ không thấy mật ong biển khi lặn ngắn là cực thấp, đặc biệt là hang động Người Đẹn có độ sâu mật ong biển cao nhất.
+1. **Nguồn thức ăn phong phú**: Địa hình thảm cỏ dưới đáy biển của đảo san hô nuôi dưỡng tảo bẹ, rong đuôi ngựa và các loại tảo khác, là thức ăn chính của rùa xanh.
+2. **Nhiệt độ nước thích hợp**: Do ảnh hưởng của nhánh hải lưu đen, nhiệt độ nước quanh năm duy trì trên 25 độ C[^11].
+3. **Bảo vệ ngư trường**: Từ năm 2013, việc sử dụng lưới kéo ven bờ trong phạm vi ba hải lý đã bị cấm, và rùa biển dần quay trở lại[^12].
+4. **Ý thức bảo vệ toàn đảo**: Từ giảm nhựa đến kem chống nắng thân thiện với đại dương, tạo nên một cảnh quan đặc biệt nơi con người và tự nhiên chung sống hài hòa.
 
-**Tại sao Đảo Nhỏ Lục có thể giữ được nhiều mật ong biển như vậy?**
+### Thẩm mỹ khoảng cách 300.000 Đài tệ
 
-1. **Nguồn thực phẩm phong phú**: hệ sinh thái san hô đảo có cây trào, tảo màu đỏ... là thực liệu chính của mật ong biển
-2. **Nhiệt độ nước phù hợp**: nằm trong vòng chảy vòn biển, nhiệt độ nước trung bình trên 25°C
-3. **Biện pháp cấm câu**: cách biển 3 cây con không được dùng lưới chọc, giảm thiểu nguy cơ mật ong biển bị bắt nhầm
-4. **Ý thức bảo vệ mật ong biển**: từ giảm chất thải nhựa đến xà phòng thân thiện với môi trường, tạo nên cảnh quan hài hòa giữa con người và thiên nhiên
+Việc bảo tồn rùa biển ở Tiểu Liêu Cầu có một con số then chốt: **300.000 Đài tệ**. Theo _Luật Bảo vệ Động vật Hoang dã_, hành vi quấy rối, ngược đãi động vật hoang dã được bảo vệ có thể bị phạt tù dưới một năm, giam giữ, hoặc phạt tiền từ 60.000 đến 300.000 Đài tệ[^13].
 
-### 5.300 USD của estética khoảng cách
+"Thẩm mỹ khoảng cách" này không chỉ là yêu cầu pháp lý, mà còn trở thành triết lý cốt lõi của du lịch sinh thái Tiểu Liêu Cầu: **Nhìn chúng, chụp ảnh chúng, nhưng tuyệt đối không được chạm vào chúng.** Việc duy trì "khoảng cách thân thiện" này đã giúp Tiểu Liêu Cầu trở thành một trong số ít nơi trên thế giới có thể quan sát rùa biển hoang dã ở cự ly gần như vậy.
 
-Số tiền phạt tối thiểu chạm vào hoặc xâm lấn vào khu vực bảo vệ mật ong biển ở Đảo Nhỏ Lục là 5.300 USD (có thể lên tới 300.000 USD).
+## Lam Nhãn Lệ Mã Tổ: Kỳ quan sinh học của sứa phát quang
 
-Biển này "khoảng cách estética" không chỉ là yêu cầu pháp lý, mà còn trở thành triết lý du lịch sinh thái của Đảo Nhỏ Lục: **nhìn thấy, chụp ảnh, nhưng không chạm vào**. Cách duy trì "khoảng cách thân thiện" này khiến Đảo Nhỏ Lục trở thành một trong số ít nơi duy nhất có thể quan sát mật ong biển hoang dã trong khoảng cách gần gũi nhất trên thế giới.
+### Từ tiền tuyến quân sự đến xứ sở tiên màu xanh lam
 
-## Mạch Tây Xanh Mắt Nước: Kỳ quan sinh học của côn trùng phát sáng
+Quần đảo Mã Tổ nằm ở cửa sông Mẫn Giang, từng là tiền tuyến đối đầu quân sự giữa hai bờ. Các cơ sở quân sự như Hầm Bát Bát và Hầm Bắc Hải thể hiện kỹ thuật công trình ngầm đáng kinh ngạc.
 
-### Từ lâu đài quân sự đến thung lũng xanh
+Nhưng thứ thực sự làm nên danh tiếng của Mã Tổ chính là "Lam Nhãn Lệ" (Nước mắt xanh). Nó có thể được nhìn thấy từ tháng 4 đến tháng 9 hàng năm, với thời điểm tốt nhất là từ tháng 4 đến tháng 6: lưu lượng nước sông Mẫn Giang đổ ra biển trong giai đoạn này rất lớn, mang theo chất dinh dưỡng, khiến tảo phát quang (hay còn gọi là sứa phát quang, một loại tảo xoắn không độc) sinh sôi nảy nở với số lượng lớn[^14]. Khi bị sóng đánh vào, tảo phát quang sẽ phát ra ánh sáng xanh huyền ảo, tạo thành "dải ngân hà màu xanh lam".
 
-Mạch Tây nằm trong vòng đôi của vòn biển Hạch Kinh, từng là tuyến đường chính trị quân sự gặp gỡ. Các đường hầm chìa khóa như Bát Bảy đường, Bắc Biển đường kỵ trường, phản ánh kỹ thuật khoa học hầm đường kỳ vọng.
+> **⚠️ Tranh cãi sinh thái**
+> Mặc dù Lam Nhãn Lệ rất đẹp, nhưng thực chất nó là một tín hiệu cảnh báo sự mất cân bằng của hệ sinh thái biển. Sự bùng nổ của sứa phát quang thường liên quan đến quá trình ô nhiễm nước biển. Mã Tổ đang suy nghĩ làm thế nào để tìm ra điểm cân bằng giữa phát triển du lịch và bảo vệ môi trường.
 
-Nhưng thành công khiến Mạch Tây nổi tiếng là hiện tượng "côn trùng phát sáng" hàng năm từ tháng 4 đến tháng 8. Khi côn trùng phát sáng (va con giác sinh vật) bị làm sốc bởi sóng biển, sẽ phát ra ánh sáng xanh lục, tạo thành "bầu trời bạc xanh" rực rỡ.
+### Tính độc đáo của văn hóa Mẫn Đông
 
-> **⚠️ Vấn đề sinh thái**
-> Côn trùng phát sáng mặc dù đẹp đến mức, nhưng đây là cảnh báo của sinh thái hải dương không cân bằng. Sự phát triển dày đặc của côn trùng phát sáng thường liên quan đến chất hữu cơ dư thừa trong nước. Mạch Tây đang cân nhắc cách cân bằng giữa phát triển du lịch và bảo vệ sinh thái.
+Văn hóa Mã Tổ rất khác so với đảo chính Đài Loan. Tiếng Mã Tổ thuộc ngữ hệ Mẫn Đông, hoàn toàn khác biệt với tiếng Đài Ngôn (Min Nan). Về tôn giáo, tín ngưỡng thờ Bà Mẫu đặc biệt thịnh hành—tên địa danh "Mã Tổ" cũng bắt nguồn từ Bà Mẫu.
 
-### Văn hóa độc đáo của Đông Nam Hồng
+Phong cách kiến trúc cũng rất độc đáo: các công trình truyền thống chủ yếu sử dụng đá granite, thích ứng với khí hậu đảo nhiều gió và mưa. Không giống như mái cong đuôi én của Kim Môn, nhà dân Mã Tổ đa số áp dụng thiết kế "tường lửa núi" (封火山牆), có hiệu quả chống gió tốt hơn.
 
-Văn hóa của Mạch Tây khác biệt với đảo Đài Bắc. Ngôn ngữ của người Mạch Tây thuộc hệ thống ngôn ngữ Đông Nam Hồng, hoàn toàn khác với tiếng Hồng đương (tiếng Hồng đông). Về tôn giáo, tín ngưỡng Mẹ Bụt rất phổ biến — "Mạch Tây" chính là danh từ của Mẹ Bụt.
+## Lục Đảo: Từ vết thương nhân quyền đến phục hồi biển
 
-Kiến trúc cũng khác biệt: các ngôi nhà truyền thống dùng đá tuyền làm nền tảng, phù hợp với khí hậu gió mưa nhiều của đảo. Khác với kiến trúc Đài Bắc có mái góc cong, các ngôi nhà ở Mạch Tây thường dùng "vách đá chịu lửa" thiết kế, có tính năng chống gió tốt hơn.
+### Sự công bằng chuyển đổi của đảo tù ngục
 
-## Lục Đảo: Từ thương tích chấn thép đến hồi sinh hải dương
+Lục Đảo trước đây được gọi là Hỏa Thiêu Đảo, trong thời kỳ giới nghiêm, nó là nơi giam giữ các chính trị phạm. Từ năm 1951 đến 1965, các chính trị phạm bị đưa đến "Trại giáo dục Tân Sinh" của Bộ An ninh tỉnh Đài Loan để cải tạo tư tưởng; số lượng tối đa lên tới 12 trung đội và một đội nữ, khoảng 2.000 người[^15]; sau sự kiện Thái Nguyên năm 1970, Bộ Quốc phòng đã xây dựng nhà tù cảm huấn Lục Đảo "Lục Châu Sơn Trang" ở phía Tây địa điểm cũ, và từ năm 1972 bắt đầu tập trung các chính trị phạm từ nhiều nơi đến đây[^16].
 
-### Đảo tù nhân bị thương chính trị chuyển đổi
+Ngày nay, Khu tưởng niệm Lịch sử Lục Đảo (tên cũ là Khu văn hóa nhân quyền Lục Đảo) đã bảo tồn đoạn lịch sử này[^16], cho phép du khách bước vào không gian mà các chính trị phạm đã sống, để hiểu được sự kinh hoàng và phi lý của thời đại đó.
 
-Lục Đảo gốc tên là "đảo cháy rơm", thời kỳ chế độ làng tù nhân là nơi giam giữ chính trị. Từ năm 1951-1987, khoảng 2.000 chính trị nhân được gửi đến "Trung tâm huấn luyện sống mới" và tù nhân Lục Đảo.
+### Kỳ tích biển ngầm suối nước nóng Nhật-Triều
 
-Hôm nay, khu vườn văn hóa quyền lực con người ở Lục Đảo giữ lại lịch sử tăm tối của kinh nguyên. Khác với các bối cảnh lịch sử thông thường, đây sử dụng cách kể chuyện từ góc độ người sống sót, để khách tham quan hiểu qua những ký ức đầu tiên của chính họ, thấu hiểu hối hả và đi ngược lại của thời kỳ.
+Lục Đảo có một trong số ít suối nước nóng dưới đáy biển trên thế giới—suối nước nóng Nhật Thủy. Nguồn nước phun trào từ nước biển hoặc nước ngầm gần đó, sau khi thấm xuống lòng đất được làm nóng bởi magma núi lửa[^17]. Tắm trong suối nước nóng, một bên là màu xanh vô tận của Thái Bình Dương, một bên là địa hình núi lửa của Lục Đảo, trải nghiệm "suối nước nóng cảnh biển" này rất hiếm trên toàn thế giới.
 
-### Kỳ quan nhiệt của hồi sinh hải dương
+**Điều đặc biệt hơn là phương hướng**: Suối nước nóng Nhật Thủy hướng ra Thái Bình Dương, về phía Đông nơi mặt trời mọc, do đó có tên gọi này[^17]. Khi tia bình minh đầu tiên ló rạng từ Thái Bình Dương, bạn đang tắm trong làn nước ấm để đón chào ngày mới—đây có lẽ là trải nghiệm ngắm bình minh lãng mạn nhất của Đài Loan.
 
-Lục Đảo có một kỳ quan hải dương hiếm có — hồi sinh hải dương. Đây là do đá ngầm nóng đun nóng nước biển, tạo ra hồ bùn giàu dinh dưỡng. Khi nằm trong hồ, bạn sẽ thấy bờ biển của Tây Oan vô vàn màu xanh lục và Lục Đảo đồng bằng biển màu xanh lục, trải dài đến tận chân đồi.
+## Trí tuệ biển đảo: Bài học cho thế giới hiện đại
 
-**Thêm một chút đặc biệt là thời gian**: hồi sinh hải dương Lục Đảo phù hợp nhất là vào lúc 5-6 sáng. Khi ánh mặt trời đầu tiên lên từ vựng biển, bạn đang tắm rửa trong nước ấm áp, chào đón bình minh — đây chính là trải nghiệm bình minh độc đáo nhất tại Đài Bắc.
+### Giải pháp cổ xưa cho ngư nghiệp bền vững
 
-## Trí tuệ biển đảo: Gợi mở cho thế giới hiện đại
+Bẫy cá đá Bành Hồ và mùa cá trích Lan Dữ đều là những thực hành "ngư nghiệp bền vững" cổ xưa. Khi ngành đánh bắt hiện đại đối mặt với nguy cơ khai thác quá mức, những trí tuệ truyền thống này đã đưa ra những gợi ý quan trọng:
 
-### Giải pháp cổ xưa cho nghề cá bền vững
+- **Quản lý theo mùa**: Chiến lược đánh bắt phù hợp với vòng đời của các loài cá
+- **Kỹ thuật sinh thái**: Bẫy cá đá không sử dụng chất kết dính nhân tạo, là kỹ thuật công trình sinh thái sớm nhất.
+- **Quản lý cộng đồng**: Việc xây dựng và bảo trì bẫy cá đá đòi hỏi sự hợp tác của cả cộng đồng.
+- **Bảo tồn văn hóa**: Kết hợp quản lý ngư nghiệp vào truyền thống văn hóa, nâng cao tính tuân thủ.
 
-Các ngư cụ đá ở Bành Hồ (Penglai) và mùa cá bay ở Lan Dữ (Lanyu) đều là những thực hành "ngư nghiệp bền vững" cổ xưa. Khi nghề cá hiện đại đối mặt với khủng hoảng khai thác quá mức, trí tuệ truyền thống này đã cung cấp những gợi mở quan trọng:
+### Kinh nghiệm biến đổi khí hậu của các quốc gia đảo nhỏ
 
-- **Quản lý theo mùa**: Chiến lược đánh bắt phù hợp với chu kỳ sống của các loài cá
-- **Kỹ thuật sinh thái**: Ngư cụ đá không sử dụng keo nhân tạo, là một ví dụ về kỹ thuật sinh thái sơ khai nhất
-- **Quản lý cộng đồng**: Việc xây dựng và bảo trì ngư cụ đòi hỏi sự hợp tác của cả cộng đồng
-- **Bảo tồn văn hóa**: Lồng ghép quản lý nghề cá vào truyền thống văn hóa để tăng tính tuân thủ
+Đối mặt với mối đe dọa nước biển dâng, các hòn đảo đã cung cấp những kinh nghiệm thích ứng quý giá:
 
-### Kinh nghiệm biến đổi khí hậu của các quốc đảo
-
-Đối mặt với mối đe dọa nước biển dâng, các đảo xa đã cung cấp những kinh nghiệm thích ứng quý giá:
-
-- **Năng lượng đa dạng**: Điện gió ở Mã Tổ (Matsu), hệ thống năng lượng mặt trời ở Bành Hồ
-- **Khử muối**: Sự tích lũy công nghệ giải quyết vấn đề thiếu nước ngọt
-- **Du lịch sinh thái**: Mô hình thành công chuyển đổi từ ngành công nghiệp truyền thống sang du lịch bền vững
-- **Sức sống văn hóa**: Cách bảo tồn văn hóa truyền thống trong quá trình hiện đại hóa
+- **Năng lượng đa dạng**: Điện gió và điện mặt trời ở Bành Hồ.
+- **Khử muối**: Tích lũy công nghệ giải quyết vấn đề thiếu tài nguyên nước ngọt.
+- **Du lịch sinh thái**: Mô hình thành công chuyển đổi từ ngành sản xuất truyền thống sang du lịch bền vững.
+- **Sức sống văn hóa**: Cách bảo tồn văn hóa truyền thống trong quá trình hiện đại hóa.
 
 ### Ý nghĩa toàn cầu của tư duy đảo
 
-Kinh nghiệm của các đảo thuộc Đài Loan có giá trị tham khảo quan trọng đối với các quốc gia đảo trên toàn thế giới. Từ Palau và quần đảo Micronesia ở Thái Bình Dương, đến Maldives ở Đại Tây Dương, tất cả đều phải đối mặt với những thách thức tương tự:
+Kinh nghiệm của các hòn đảo Đài Loan có giá trị tham khảo quan trọng đối với các quốc gia đảo trên toàn thế giới. Từ Palau, quần đảo Marshall ở Thái Bình Dương, đến Maldives ở Ấn Độ Dương, tất cả đều phải đối mặt với những thách thức tương tự:
 
 Làm thế nào để phát triển mô hình kinh tế bền vững trên nguồn tài nguyên đất đai hữu hạn?
 Làm thế nào để duy trì tính độc đáo của văn hóa trong làn sóng toàn cầu hóa?
 Làm thế nào để duy trì sức sống xã hội dưới mối đe dọa biến đổi khí hậu?
 
-**Các đảo thuộc Đài Loan đã trả lời những câu hỏi then chốt của thế kỷ 21 bằng trí tuệ sinh thái biển kéo dài ba trăm năm.**
+**Trí tuệ cuộc sống biển ba trăm năm của các đảo Đài Loan đã trả lời những câu hỏi then chốt của thế kỷ 21 này.**
 
-> **✦** "Đại dương không phải là rào cản, mà là sự kết nối. Người dân trên các hòn đảo này dùng đá xây bẫy cá, dùng điều cấm kỵ dệt nên luật pháp bền vững, dùng suối nước nóng đón chào mặt trời, và dùng tiếng hát để ghi nhớ đường bay của cá bay. Họ dạy chúng ta: con người có thể chung sống hài hòa với đại dương, không chỉ là chinh phục, mà còn là cùng sinh tồn."
+> **✦** "Đại dương không phải là rào cản, mà là sự kết nối. Người dân trên những hòn đảo này đã dùng đá để xây bẫy cá, dùng điều cấm kỵ để dệt nên luật pháp bền vững, dùng suối nước nóng để đón chào mặt trời, dùng bài hát để ghi nhớ đường đi của cá trích. Họ dạy chúng ta: con người có thể chung sống hài hòa với đại dương, không chỉ là chinh phục, mà còn là cùng tồn tại."
 
-Khi bạn đứng trên đài quan sát ngư cụ đá Song Tâm Thất Mỹ (Qimei) và ngắm nhìn những bức tường đá bazan hàng trăm năm tuổi lấp lánh trong ánh hoàng hôn; khi bạn lắng nghe các trưởng lão dân tộc Đạt Ngộ (Datoga) hát bài ca lao động cổ xưa ở Lan Dữ; khi bạn đối diện với rùa xanh trong làn nước trong vắt của Tiểu Lưu Cầu — những gì bạn nghe không chỉ là tiếng sóng biển, mà còn là tiếng vọng trí tuệ hàng ngàn năm của hòn đảo này trò chuyện cùng đại dương.
+Khi bạn đứng trên đài quan sát bẫy đôi Thất Mỹ, nhìn những bức tường đá bazan ba trăm năm tuổi lấp lánh dưới ánh hoàng hôn; khi bạn nghe các trưởng lão Đạt Ngộ hát bài ca lao động cổ xưa ở Lan Dữ; khi bạn đối diện với rùa xanh trong làn nước trong suốt của Tiểu Liêu Cầu—bạn không chỉ nghe thấy tiếng sóng biển, mà là tiếng vọng trí tuệ hàng ngàn năm của hòn đảo này trò chuyện với đại dương.
 
-Những âm thanh đó nhắc nhở chúng ta: chúng ta không phải là chủ nhân của đại dương, mà là con cái của đại dương.
+Những âm thanh đó nhắc nhở chúng ta: chúng ta không phải là chủ nhân của đại dương, chúng ta là con cái của đại dương.
 
-**Đọc thêm**:
+**Đọc thêm:**
 
-- [Quần đảo Mã Tổ Quốc tế Nghệ thuật](/vi/art/matsu-biennial) — Ngoài "Nước mắt xanh" và các đường hầm, trong mười năm qua, Mã Tổ cũng đã tạo ra ngôn ngữ triển lãm riêng: ba chủ đề 《島嶼釀》 (Rượu Đảo), 《生紅過夏》 (Đỏ Rực Mùa Hè) và 《拍楸》 (Chụp Thược), đều được lấy từ các thành ngữ địa phương Miền Đông Phúc Kiến.
+- [Đảo nghệ thuật quốc tế Mã Tổ](/vi/art/matsu-biennial) — Ngoài Lam Nhãn Lệ và các hầm ngầm, trong mười năm qua Mã Tổ cũng đã tạo ra ngôn ngữ biên tập riêng: ba chủ đề "Làng đảo ủ", "Sinh hồng quá hạ", "Bắt thu" đều lấy từ tục ngữ Mẫn Đông.
 
 ## Tài liệu tham khảo
 
-- [Tập thể thạch sích Đài Bắc - Điểm tiềm năng di sản thế giới của Đài Bắc](https://twh.boch.gov.tw/taiwan/intro.aspx?id=13&lang=zh_tw)
-- [Thạch sích Đài Bắc - Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%BE%8E%E6%B9%96%E7%9F%B3%E6%BB%AC)
-- [Tại sao đảo Nhỏ Lục có nhiều mật ong biển? Bí mật kỳ quan thế giới của kỳ ong biển](https://ofucosliuqiu.com/liuqiu-sea-turtle-guide/)
-- [Sự phát triển của thạch sích ở khu vực Jibei, hồn đảo Đài Bắc](https://www.tandfonline.com/doi/full/10.1080/17445647.2023.2277904)
-- [Quốc gia web thông tin Kim Cương - Năm 28 năm kể từ khi bình thường hóa chính trị quân sự](https://www.kinmen.gov.tw/News_Content2.aspx?n=98E3CA7358C89100&sms=BF7D6D478B935644&s=D7AECB2657D38BD9&Create=1)
-- [Bí mật mùa cá bay Lan Nhã: thời gian mùa cá bay, các quy tắc cấm đoán, hoạt động được đề xuất](https://zazawanzine.com/uncategorized/b063/)
-- [Khu du lịch mật ong biển đồng bằng Đảo Nhỏ Lục](https://activity.dbnsa.gov.tw/turtle/ch/page-4.html)
+[^1]: [Quần thể bẫy cá đá Bành Hồ - Điểm tiềm năng di sản thế giới Đài Loan (Cục Di sản Văn hóa Bộ Văn hóa)](https://twh.boch.gov.tw/taiwan/intro.aspx?id=13&lang=zh_tw) — Năm 1950, giá trị bẫy cá đá chiếm 77% tổng sản lượng đánh bắt; không có bẫy cá đá thì không thể lập gia đình hay ổn định cuộc sống, bẫy cá đá có thể thế chấp, mua bán; _Tài Loan Phủ Chí_ năm Khang Hi thứ 35 ghi nhận 2 đại hồ, 20 tiểu hồ; _Bành Hồ Đình Chí_ năm Quang Tự thứ 19 ghi nhận 2 đại hồ, 76 cái tiểu hồ rưỡi, "văn hiến chưa giải thích nghĩa của một nửa cái"; khảo sát Hồng Quốc Hùng năm 1999 là 558 cái cộng thêm 16 cái bổ sung; năm 2008-2009 tăng lên 592 cái; khảo sát Cát Bì năm 2006 ghi nhận 92 cái; bẫy đôi được phong danh hiệu "cảnh quan nhân văn đẹp nhất thế giới"; bảy điều kiện kiến tạo; ngữ hệ Nam Đảo là giả thuyết của tác giả, vẫn cần bằng chứng.
+
+[^2]: [Khoảng 95% bẫy cá đá trên thế giới tập trung tại Bành Hồ - Trang tin Công thị](https://news.pts.org.tw/article/777934) — Tin tức tháng 10 năm 2025 báo cáo "khoảng 95% bẫy cá đá trên thế giới tập trung tại Bành Hồ".
+
+[^3]: [Giải mã mùa cá trích Lan Dữ - Sài Cá Trích](https://zazawanzine.com/uncategorized/b063/) — Mùa cá trích bắt đầu từ đầu tháng 2 đến khoảng tháng 10; phụ nữ không tham gia nghi lễ, không chạm vào ngư cụ hay thuyền đánh cá; trong tiếng Đạt Ngộ, cam có nghĩa gần giống "không có cá", mùa cá trích không được mang cam lên đảo; lặn, bơi lội và câu cá chỉ được thực hiện ở các vùng nước nhất định.
+
+[^4]: [Taboos/Norms and Modern Science, and Possible Integration for Sustainable Management of the Flyingfish Resource of Orchid Island, Taiwan - Sustainability (2020)](https://doi.org/10.3390/su12208621) — Shui-Kai Chang; phát âm cam gần giống "no fish"; quy tắc cấm kỵ của phụ nữ liên quan đến loài linh thiêng và sự liên tưởng với tai ương; tháng 3 đến tháng 5 mùa cá trích cũng là mùa đẻ trứng của cá rạn, cấm bắt cá rạn tương đương với thời gian nghỉ đánh bắt; một số điều cấm kỵ có hiệu quả bảo tồn sinh thái, một phần có thể chỉ là mê tín; tổng số cá trích được đánh bắt trên toàn đảo mỗi năm khoảng 260.000 đến 280.000 con.
+
+[^5]: [Thuyền ghép ván - Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%8B%BC%E6%9D%BF%E8%88%9F) — Thuyền nhỏ Tatala (thuyền một người, hai người, ba người); thuyền lớn Cinedkeran (sáu người Atlo so avat, tám người Apat so avat, mười người Alima so avat, dài khoảng 7 mét).
+
+[^6]: [Changes in local knowledge and its impacts on ecological resources management: The case of flyingfish culture of the Tao in Taiwan - Marine Policy 103 (2019) 74-83](https://doi.org/10.1016/j.marpol.2019.02.031) — Liu T.-M. và Chang S.-K., xem xét tri thức bản địa của người Đạt Ngộ bằng năm điều kiện quản lý tài nguyên theo Dietz.
+
+[^7]: [Kim Môn chấm dứt quản lý quân sự 28 năm - Chính quyền huyện Kim Môn](https://www.kinmen.gov.tw/News_Content2.aspx?n=98E3CA7358C89100&sms=BF7D6D478B935644&s=D7AECB2657D38BD9&Create=1) — Kim Môn và Mã Tổ thực hiện thí nghiệm quản lý quân sự từ năm 1956 đến 1992, kéo dài 36 năm.
+
+[^8]: [Làng văn hóa dân tục Sơn Hậu - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%B1%B1%E5%90%8E%E6%B0%91%E4%BF%97%E6%96%87%E5%8C%96%E6%9D%91) — Con trai Quốc Trân và Vương Kính Tường, người Hoa kiều làm ăn ở Nhật Bản, tặng cho các thành viên họ Vương sinh sống; bắt đầu vào năm 1876, hoàn thành năm 1900; 18 ngôi nhà, kiến trúc hai lối Phúc Kiến (Min Nan).
+
+[^9]: [Huyện Kim Môn - Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%87%91%E9%96%80%E7%B8%A3) — Vào cuối thời Thanh, người dân Kim Môn "xuất ngoại" đến Nam Dương hoặc vượt biển sang Nhật Bản; có những người Hoa kiều ở Nhật Bản như Quốc Trân của họ Vương; Trần Cảnh Lan Dương Lâu được liệt kê là điểm tham quan.
+
+[^10]: [Câu chuyện rượu cao lương Kim Môn - FoodNEXT](https://www.foodnext.net/life/placemaking/paper/6351114991) — Nhà máy rượu được xây dựng năm 1952, chính sách "trao đổi cao lương lấy gạo"; sản lượng cao lương năm 1954 là 298 tấn, năm 1991 gần 6.600 tấn; Cục Bán hàng Công cộng độc quyền, rượu Hắc Kim Cương được đóng gói; sau năm 1992 nới lỏng bán rượu Kim Môn vào Đài Loan.
+
+[^11]: [Tiểu Liêu Cầu - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%B0%8F%E7%90%89%E7%90%83) — Chính quyền huyện Bình Đông công bố khu vực sinh sống quan trọng của rùa xanh, đã chụp ảnh trên không ghi nhận 805 con rùa; do ảnh hưởng của nhánh hải lưu đen, nhiệt độ nước quanh năm trên 25 độ C.
+
+[^12]: [Rùa biển Tiểu Liêu Cầu - Trang tin Công thị](https://news.pts.org.tw/article/513848) — Từ năm 2013, Tiểu Liêu Cầu cấm sử dụng lưới kéo trong phạm vi ba hải lý ven bờ.
+
+[^13]: [Thiên đường rùa xanh Tiểu Liêu Cầu Carbon thấp - Văn phòng quản lý khu phong cảnh quốc gia Đại Bằng Loan của Sở Du lịch Bộ Giao thông Vận tải](https://activity.dbnsa.gov.tw/turtle/ch/page-4.html) — Hành vi quấy rối, ngược đãi động vật hoang dã được bảo vệ sẽ bị phạt tù dưới một năm, giam giữ hoặc phạt tiền từ 60.000 đến 300.000 Đài tệ.
+
+[^14]: [Lam Nhãn Lệ Mã Tổ - TVBS Sức khỏe 2.0](https://health.tvbs.com.tw/life/363395) — Có thể quan sát từ tháng 4 đến tháng 9 hàng năm, tốt nhất là tháng 4 đến tháng 6; Văn phòng quản lý gió Mã Tổ giải thích tảo phát quang là loại tảo xoắn không độc, lưu lượng nước sông Mẫn Giang vào biển trong tháng 4 đến tháng 6 rất lớn mang theo chất dinh dưỡng.
+
+[^15]: [Trại giáo dục Tân Sinh Lục Đảo - Thông tấn Trung ương](https://www.cna.com.tw/news/firstnews/201805160040.aspx) — Từ năm 1940 đến 1954, các chính trị phạm được đưa đến Trại giáo dục Tân Sinh, với 12 trung đội và một đội nữ, khoảng 2.000 người.
+
+[^16]: [Khu tưởng niệm Lịch sử Lục Đảo - Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%99%BD%E8%89%B2%E6%81%90%E6%80%96%E7%B6%A0%E5%B3%B6%E7%B4%80%E5%BF%B5%E5%9C%92%E5%8D%80) — Thành lập Trại giáo dục Tân Sinh năm 1951; sau sự kiện Thái Nguyên năm 1970 xây dựng Lục Châu Sơn Trang, từ năm 1972 tập trung giam giữ các chính trị phạm; tên cũ là Khu văn hóa nhân quyền Lục Đảo.
+
+[^17]: [Suối nước nóng Nhật Thủy - Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%9C%9D%E6%97%A5%E6%BA%AB%E6%B3%89) — Một trong số ít suối nước nóng dưới đáy biển trên thế giới, nguồn nước được làm nóng bởi magma núi lửa; được đặt tên vì hướng ra phía Đông nơi mặt trời mọc.
+
+### Tham khảo mở rộng
+
+- [Bẫy cá đá Bành Hồ - Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%BE%8E%E6%B9%96%E7%9F%B3%E6%BB%AC)
+- [Evolution of stone fish weirs in Jibei area, Penghu Archipelago](https://www.tandfonline.com/doi/full/10.1080/17445647.2023.2277904)
