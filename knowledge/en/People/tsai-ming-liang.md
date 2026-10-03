@@ -1,100 +1,105 @@
 ---
-title: 'Tsai Ming-liang'
-description: 'Golden Lion Award winner at Venice, Malaysian Chinese master of slow cinema aesthetics'
+title: 'Tsai Ming-liang: The Poet of Slow Cinema'
+description: 'A winner of the Venice Golden Lion, a Malaysian Chinese, and a master of slow cinema aesthetics.'
 date: 2026-03-19
-author: 'Taiwan.md Contributors'
 category: 'People'
+tags:
+  [
+    'Director',
+    'Tsai Ming-liang',
+    'Slow Cinema',
+    'Venice Film Festival',
+    'Malaysian Chinese',
+  ]
 subcategory: '電影與戲劇'
-tags: ['導演', '蔡明亮', '慢電影', '威尼斯影展', '馬來西亞華人']
+author: 'Taiwan.md Contributors'
+featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: true
 translatedFrom: 'People/蔡明亮.md'
-sourceCommitSha: '97e35f05'
-sourceContentHash: 'sha256:f497de40f2ba1810'
-sourceBodyHash: 'sha256:c1d14969738eeca7'
-translatedAt: '2026-05-20T05:08:27+08:00'
+sourceCommitSha: '112856faf'
+sourceContentHash: 'sha256:9ed1f7923fa72bf2'
+sourceBodyHash: 'sha256:0c0888dfd516b33c'
+translatedAt: '2026-10-04T00:51:57+08:00'
 ---
 
-# Tsai Ming-liang: Poet of Slow Cinema
+# Tsai Ming-liang: The Poet of Slow Cinema
 
-> **30-second overview:** Tsai Ming-liang is one of the most distinctive voices in contemporary Chinese-language cinema, internationally renowned for his unique "slow cinema" aesthetic. In 1994, he won the Golden Lion at the Venice Film Festival for _Vive L'Amour_, becoming the first Chinese-language director to receive the award. A Malaysian Chinese, he has long focused on the loneliness and alienation of urban dwellers, forging an entirely new cinematic language.
+> **30-Second Overview:** Tsai Ming-liang is one of the most personally stylized directors in contemporary Mandarin cinema, renowned internationally for his unique "slow cinema" aesthetics. In 1994, with _Love Is Not Blind_ and _Before the Rain_, he co-won the Golden Lion at the Venice Film Festival, making him the third Chinese director to receive this award after Hou Hsiao-hsien and Zhang Yimou. As a Malaysian Chinese, he has long focused on the loneliness and alienation of urban dwellers, creating an entirely new cinematic language.
 
-## Growing Up in Malaysia
+## Years of Growth in Malaysia
 
-Tsai Ming-liang was born on October 27, 1957, in Kuching, Sarawak, Malaysia, with ancestral roots in Nan'an, Fujian. His father, Tsai Tien-sung, ran a grocery store, and his mother was a homemaker. Growing up in Malaysia's multiethnic environment, Tsai experienced the complexities of cultural identity from an early age.
+Tsai Ming-liang was born on October 27, 1957, in Kuching, Sarawak, Malaysia. His ancestral home is Jieyang, Guangdong. He was the third of seven siblings. His family ran a noodle stall, and as a child, he lived with his maternal grandparents, who would take him to the cinema alternately, often watching two films in one day.[^1] Growing up in the multicultural environment of Malaysia, Tsai Ming-liang experienced the complexity of cultural identity from a young age.
 
-During his secondary years at Chung Hua Middle School No. 1 in Kuching, Tsai developed an interest in drama and participated in the school's drama club. After graduating from high school, he chose to pursue further studies in Taiwan—a decision that would change the course of his life.
+He attended Kuching Chinese High School during middle school. After graduating high school in 1977, he came to Taiwan, first studying Chinese at the National Taiwan University Language Center. The following year, he was accepted into the Drama Department's film and theater program at National Chung Hua University.[^1] The free academic atmosphere of Taiwan exposed him to more diverse artistic expressions, leading him to contemplate his own cultural identity issues.
 
-In 1977, Tsai arrived in Taiwan and enrolled in the drama department at Chinese Culture University. Taiwan's liberal academic atmosphere exposed him to a wider range of artistic expression and prompted him to reflect on questions of cultural identity.
+## Theater Beginnings and Television Experience
 
-## Theater Roots and Television Experience
+During university, his teacher Wang Xiao-di introduced him to the concept of "living theatre." In 1982, he co-founded the "Small Studio Theatre" with classmates, completing the stage play _Instant Vinegar Noodles_.[^1] After graduation, he first wrote screenplays before moving into television in 1989. At Huashi (Taiwan Television), he directed the TV series _Sea Horizon_, and for his work on _Li Xiang's Emotional Line_ and _Give Me a Home_ from the _Little Citizens' Sky_ series, he won Golden Bell Awards for directing in 1991 and 1992.[^1]
 
-During university, Tsai was deeply influenced by avant-garde theater and participated in performances with the Lan Ling Theatre Workshop. Under the mentorship of theater veterans such as Chin Shih-chieh and Cho Ming, he studied acting and directing techniques, cultivating a sensitivity to physical performance and spatial composition.
+While shooting the television play _Child_ in 1991, he discovered Li Kang-sheng, who had no formal training, at an arcade frequented by youth in Ximen, leading to a long-term collaboration that continues to this day.[^1] In his television work, Tsai Ming-liang already showed a preference for long takes and static compositions, focusing on the inner world of characters over external plot.
 
-After graduating in 1982, Tsai entered the television industry, working as a screenwriter and director at CTS and CTV. His television work _The Child_ (1991) won a Golden Bell Award. It was during the production of this series that he encountered non-professional actor Lee Kang-sheng on the streets of Taipei's Ximending district, beginning a collaboration that continues to this day. Even in his television period, Tsai already showed a preference for long takes and static compositions, focusing on the inner worlds of his characters rather than external plot.
+## Film Debut: _Nezha_ (Youth)
 
-## Film Debut: _Rebels of the Neon God_
+In 1992, Tsai Ming-liang released his film debut, _Nezha_ (Youth), which established his personal style. The film depicts snippets of life for several young people in Taipei, presenting the confusion and alienation of modern youth through a non-linear narrative structure.
 
-In 1992, Tsai released his feature film debut, _Rebels of the Neon God_, establishing his signature style. The film depicts fragments of the lives of several young people in urban Taipei, using a nonlinear narrative structure to convey the confusion and alienation of modern youth.
+Li Kang-sheng has been a consistent collaborator with Tsai Ming-liang since _Child_ in 1991. His unique temperament perfectly embodies the image of the urban wanderer in Tsai Ming-liang's films. _Nezha_ (Youth) won the Bronze Cranes Award at the Tokyo Film Festival, Best Debut Film Award at the Nantes Film Festival, and Best Film Award at the Turin Film Festival in 1993. The film's slow pace and minimalist style were unique among Taiwanese films at the time.[^2]
 
-Lee Kang-sheng has been Tsai's constant collaborator since _The Child_ in 1991. His unique presence perfectly embodies the urban specter figure in Tsai's films. _Rebels of the Neon God_ won Best Film at the Asia-Pacific Film Festival, and its slow rhythm and minimalist style stood apart from the rest of Taiwanese cinema at the time.[^1]
+## Crowned by Venice: _Love Is Not Blind_
 
-## Crowned at Venice: _Vive L'Amour_
+_Love Is Not Blind_ (1994) is one of Tsai Ming-liang's most representative works. The film describes the lonely lives of three people in Taipei, and the scene where Yang Gui-mei cries for a long time in Daan Forest Park at the end has become an iconic image in Taiwanese film history.
 
-The 1994 film _Vive L'Amour_ is one of Tsai's most iconic works. It portrays the lonely lives of three urban Taipei residents, and its six-minute closing crying scene has become one of the most memorable moments in Taiwanese film history.
+_Love Is Not Blind_ shared the Golden Lion at the 51st Venice International Film Festival with the Macedonian film _Before the Rain_.[^3] Before him, Hou Hsiao-hsien won the Golden Lion with _A City of Sadness_ (1989), and Zhang Yimou won with _To Live_ (1992). Tsai Ming-liang was the third Chinese director to receive this award.[^4]
 
-_Vive L'Amour_ shared the Golden Lion at the 51st Venice Film Festival with the Macedonian film _Before the Rain_, making Tsai the first Chinese-language director to receive the festival's highest honor.[^2] This award elevated Chinese-language cinema to the pinnacle of the international art film world.
+## _River_, _Hole_, _What Time Is It Over There?_
 
-## The Water Trilogy
+From 1997 to 2001, Tsai Ming-liang consecutively released _River_ (1997), _Hole_ (1998), and _What Time Is It Over There?_ (2001). The imagery of water appears repeatedly in these films. _River_, with its extremely slow pace depicting the alienation between family members, won the Silver Bear Award for Best Jury Prize at the Berlin International Film Festival; _Hole_, which explores the loneliness and yearning of modern urban dwellers through interactions between residents living up and down an apartment building in Taipei, received the International Critics' Award at the Cannes Film Festival. The apocalyptic atmosphere is fictional, not referring to real events.[^1] _What Time Is It Over There?_ was shot in both Taipei and Paris, exploring distance and longing through the concept of time difference, and was selected for the official competition at the 2001 Cannes Film Festival. Sound engineer Tu Tsz-chi won a technical award with this film and _Millennium Mambo_.[^5]
 
-Between 1997 and 2001, Tsai created a trilogy centered on the theme of "water": _The River_ (1997), _The Hole_ (1998), and _What Time Is It There?_ (2001). _The River_ unfolds at an extremely slow pace to portray the estrangement among family members. _The Hole_, through the interactions between residents on different floors of a Taipei apartment building, explores the loneliness and longing of modern urban dwellers—its apocalyptic atmosphere is a fictional conceit rather than a reference to any real event. _What Time Is It There?_ is set in both Taipei and Paris, using the concept of time zones to examine distance and longing, and won a prize in the Un Certain Regard section at the Cannes Film Festival.[^3]
+## The Cinematic Language of Minimalism
 
-## A Minimalist Cinematic Language
+Tsai Ming-liang developed a unique "slow cinema" language: extremely long takes, sparse dialogue, concise plots, and slow pacing. His films use large amounts of static shots and natural sound to allow the audience to feel the passage of time.
 
-Tsai developed a distinctive "slow cinema" language: extremely long takes, sparse dialogue, pared-down narrative, and a deliberate pace. His films employ abundant static shots and natural sound, allowing the audience to feel the passage of time.
+Under Tsai Ming-liang's lens, the trivial details of daily life—eating, sleeping, washing—are reexamined with an artistic eye. He is adept at using space to create emotion; whether it is a cramped apartment, a desolate street, or an abandoned building, they all serve as external projections of the characters' inner worlds.
 
-Through Tsai's lens, the mundane details of daily life—eating, sleeping, washing—are reexamined with an artistic eye. He excels at using space to create mood; whether cramped apartments, empty streets, or abandoned buildings, each becomes an external projection of his characters' inner worlds.
+## The Museum Era and the Wanderer Series
 
-## The Museum Era and the Walker Series
+In 2012, Tsai Ming-liang released his first short film in the "Wanderer" series: Li Kang-sheng walks through streets and buildings of various cities at an extremely slow pace while wearing a red robe. This series includes _Journey to the West_ (2014), _Where_ (filmed for the Pompidou Center exhibition in Paris in 2022), and _No Place to Stay_, which premiered at the Berlin Film Festival in 2024, marking the tenth installment.[^6] Li Kang-sheng has grown from a youthful youth to a middle-aged man; his body carries all of Tsai Ming-liang's creative concepts and is the core vessel for the entire series.
 
-In the late 2000s, Tsai shifted his creative focus to museums and gallery spaces. He believed the museum environment was better suited to presenting his minimalist aesthetic. Works such as _No No Sleep_ (2015) and _Your Face_ (2017) further advanced his slow cinema experiments.
+In 2013, _Excursion_ won the Grand Prix at the 70th Venice International Film Festival.[^7] When interviewed in Venice, he said that _Excursion_ might be his last feature film, as he intends to make works that are "more like art" afterward; he also disagreed with Taiwan's theater system, and _Excursion_ was not shown in a major theater circuit but instead held a special exhibition at the National Taiwan Normal University Museum. Subsequent short films were often screened in museums and festivals, such as _No Sleep_ (filmed in Japan in 2015) and _Home in Ranruo Temple_ (his first attempt at VR filming in 2017).[^1]
 
-Beginning with the "walker" imagery in _Stray Dogs_ (2013), Tsai developed a series of short films featuring Lee Kang-sheng walking in slow motion, including _Journey to the West_ (2014). Lee has grown from a raw youth into a middle-aged man, and his body carries all of Tsai's creative philosophy, serving as the central vessel of the entire body of work.[^4]
+## After the Features
 
-## International Recognition After _Stray Dogs_
-
-In 2013, _Stray Dogs_ won the Grand Jury Prize at the 70th Venice Film Festival, reaffirming Tsai's standing in the international art film world. That same year, he was awarded the 18th National Award for Arts, the highest honor in Taiwan's arts and culture community.[^5]
-
-_Days_ (2020) continued his exploration of the body and time. _Where_ (2022) and _Abiding Nowhere_ (2024) followed in succession, demonstrating that Tsai, now approaching seventy, continues to push the boundaries of his art.[^6]
+_Days_ (2020) continued his exploration of the body and time, winning the Jury Prize at the Berlin International Film Festival.[^8] _Where_ (2022) and _No Place to Stay_ (2024) followed, showing that Tsai Ming-liang continues to push the limits of creation even in his late seventies.[^6]
 
 ## Cultural Identity and Creative Themes
 
-As a Malaysian Chinese, Tsai's films always carry the perspective of a cultural outsider. He focuses on marginalized figures in the city: migrant workers, sex workers, the elderly, the ill—presenting human physical needs with candor and challenging traditional moral frameworks.
+As a Malaysian Chinese, Tsai Ming-liang's films always carry the perspective of cultural outsiders. He focuses on marginalized people in the city: foreign workers, sex workers, the elderly, patients, etc., presenting human physiological needs with frankness and challenging traditional moral concepts.
 
-Tsai's films rarely engage with political issues; instead, they concentrate on the fundamental conditions of human existence. He believes art should transcend politics and ideology to reach shared human experiences. This stance has led to censorship of his work in parts of Asia, while earning him high acclaim in the European art film world.[^7]
+Tsai Ming-liang's films rarely deal with political issues; instead, they concentrate on fundamental states of being, which has earned him high praise in the European art film scene.
 
-## International Influence and the Slow Cinema Movement
+## International Influence and Slow Cinema Faction
 
-Tsai is a member of the international "slow cinema" movement. The Filipino director Lav Diaz developed a similarly contemplative long-form aesthetic in a parallel era, and the two are frequently discussed together; Hungary's Béla Tarr, for his part, had already established his own temporal narrative language in the 1980s. These should be understood as parallel evolutions across different generations and cultural contexts rather than a linear lineage of influence. Authoritative publications such as _Cahiers du Cinéma_ and the British _Sight & Sound_ have given Tsai the highest praise, and his works are held in the collections of numerous museums and art institutions.
+Tsai Ming-liang belongs to the international "slow cinema" faction. Lav Diaz from the Philippines developed a long-take aesthetic around a similar period, and both are often discussed together; Bela Tarr of Hungary established his temporal narrative as early as the 1980s. These should be seen as parallel evolutions in their respective cultural contexts, rather than linear influences. _Faces_ (2009) was the first film acquired by the Louvre.[^1]
 
 ## References
 
-[^1]: [Tsai Ming-liang — Taiwan Cinema](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12456) — Official film database, including background on the premiere of _Rebels of the Neon God_.
+[^1]: [Tsai Ming-liang — Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%94%A1%E6%98%8E%E4%BA%AE) — Biography, Small Studio Theatre, Huashi period, and two Golden Bell directing awards; awards for _River_ and _Hole_; museum screenings after _Excursion_, and short film chronology.
 
-[^2]: [51st Venice Film Festival — La Biennale di Venezia](https://www.labiennale.org/en/history/51st-festival-1994) — Record of _Vive L'Amour_ and _Before the Rain_ sharing the double Golden Lion.
+[^2]: [Nezha (Youth) — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%9D%92%E5%B0%91%E5%B9%B4%E5%93%AA%E5%90%92) — Bronze Cranes Award at the Tokyo Film Festival in 1993, Best Debut Film Award at the Nantes Film Festival, and Best Film Award at the Turin Film Festival.
 
-[^3]: [Taiwan Film and Audiovisual Institute (TFAI)](https://www.tfai.org.tw/) — Tsai Ming-liang filmography and Cannes records.
+[^3]: [51st Venice International Film Festival — Wikipedia](https://en.wikipedia.org/wiki/51st_Venice_International_Film_Festival) — _Love Is Not Blind_ and _Before the Rain_ shared the Golden Lion.
 
-[^4]: [Taipei Fine Arts Museum — Tsai Ming-liang exhibition materials](https://www.tfam.museum/) — Background on the Walker series exhibitions and museum cinema discourse.
+[^4]: [Golden Lion — Wikipedia](https://en.wikipedia.org/wiki/Golden_Lion) — Past winners of the Golden Lion, including _A City of Sadness_ (1989) and _To Live_ (1992).
 
-[^5]: [National Award for Arts — National Culture and Arts Foundation](https://www.ncafroc.org.tw/) — 18th (2014) National Award for Arts laureate record.
+[^5]: [2001 Cannes Film Festival — Wikipedia](https://en.wikipedia.org/wiki/2001_Cannes_Film_Festival) — _What Time Is It Over There?_ was selected for the main competition; Tu Tsz-chi won a technical award with this film and _Millennium Mambo_.
 
-[^6]: [70th Venice Film Festival — La Biennale di Venezia](https://www.labiennale.org/) — _Stray Dogs_ Grand Jury Prize; for recent works _Where_ and _Abiding Nowhere_, see the TFAI database.
+[^6]: [Tsai Ming-liang's "Wanderer" New Work _No Place to Stay_ Premieres in London — Central News Agency](https://www.cna.com.tw/news/amov/202410100017.aspx) — The first "Wanderer" work was released in 2012; _No Place to Stay_ is the tenth installment, having its world premiere at the Berlin Film Festival in February 2024; _Where_ can be seen in [Central News Agency November 2022 Pompidou Exhibition Report](https://www.cna.com.tw/news/acul/202211260017.aspx).
 
-[^7]: [Cannes Film Festival Official — Festival de Cannes](https://www.festival-cannes.com/en/) — Screening records for _What Time Is It There?_ and _I Don't Want to Sleep Alone_ at past Cannes festivals.
+[^7]: [70th Venice International Film Festival — Wikipedia](https://en.wikipedia.org/wiki/70th_Venice_International_Film_Festival) — _Excursion_ won the Grand Prix.
+
+[^8]: [70th Berlin International Film Festival — Wikipedia](https://en.wikipedia.org/wiki/70th_Berlin_International_Film_Festival) — _Days_ was selected for the main competition and won the Jury Prize.
 
 ## Further Reading
 
-- [Taiwan Cinema](https://taiwancinema.bamid.gov.tw/) — Official government database of Taiwanese film professionals
-- [Lee Kang-sheng](/people/李康生) — Tsai Ming-liang's sole leading actor for 30 years, from a Ximending youth to the Walker
+- [Taiwan Film Network](https://taiwancinema.bamid.gov.tw/) — Official database of Taiwanese filmmakers
+- [Edward Yang](/en/people/yang-dechang) — Another pair of eyes on Taipei's New Cinema, capturing urban loneliness with an engineer's detachment
