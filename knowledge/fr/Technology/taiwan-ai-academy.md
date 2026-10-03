@@ -1,17 +1,17 @@
 ---
-title: 'L’École taïwanaise d’intelligence artificielle : cet appel resté inachevé, et dix mille ingénieurs en IA'
-description: 'Le 27 mars 2020, Chen Shengwei appela avec gravité la rédactrice en chef du magazine CommonWealth : il voulait lancer un cours de programmation gratuit pour toute la population. Deux jours plus tard, il chuta en rollers ; treize jours après, il mourut, à 44 ans. Au moment de sa disparition, l’École taïwanaise d’intelligence artificielle (AIA), qu’il avait fondée en 2018, avait déjà formé plus de 6 000 personnes. À la même période, le Conseil national du développement annonçait, avec sa stratégie « petit pays, grande stratégie IA », 16 milliards de dollars taïwanais sur cinq ans ; lui créa son école grâce à 180 millions de dollars taïwanais levés auprès de six entreprises, dont Formosa Plastics, Chi Mei et Inventec. Huit ans plus tard, les anciens élèves dépassent les dix mille. L’AIA est, dans la montée en gamme industrielle de Taïwan, la pièce du puzzle la moins typiquement taïwanaise.'
+title: "L'école d'intelligence artificielle de Taïwan : l'appel inachevé et les dix mille ingénieurs en IA"
+description: "Le 27 mars 2020, Chen Sheng-wei a passé un appel solennel au rédacteur en chef du magazine CommonWealth : il voulait lancer un cours de programmation gratuit pour tous. Deux jours plus tard, il est tombé de ses rollers et est décédé 13 jours plus tard, à l'âge de 44 ans. Au moment de son décès, l'école d'intelligence artificielle de Taïwan (AIA) qu'il avait fondée en 2018 avait déjà formé plus de 6 000 personnes. Pendant la même période, le ministère de la Science et de la Technologie proclamait sa « stratégie grand plan pour un petit pays en IA » avec NT$16 milliards sur 5 ans ; lui a réuni NT$180 millions auprès de six entreprises, dont Formosa Plastics, Chimei et Inventec, pour fonder lui-même l'école. Huit ans plus tard, les anciens élèves dépassent les 10 000. L'AIA est, dans la montée en gamme de l'industrie taïwanaise, la pièce du puzzle la moins « taïwanaise »."
 date: 2026-05-18
 category: 'Technology'
 tags:
   [
-    'intelligence artificielle',
-    'éducation',
-    'Chen Shengwei',
+    'Intelligence artificielle',
+    'Éducation',
+    'Chen Sheng-wei',
     'AIA',
-    'industrie technologique taïwanaise',
+    'Industrie technologique de Taïwan',
     'Academia Sinica',
-    'politique de l’IA',
+    "Politique en matière d'IA",
   ]
 subcategory: '人工智慧'
 author: 'Taiwan.md'
@@ -24,370 +24,378 @@ imageCredit: '台灣人工智慧學校官方'
 imageLicense: 'Fair use editorial commentary on AIA founder portrait'
 imageSource: 'https://aiacademy.tw/swc/'
 translatedFrom: 'Technology/台灣人工智慧學校.md'
-sourceCommitSha: 'c8e5ac9ea'
-sourceContentHash: 'sha256:aeb22f9372adc2ef'
-sourceBodyHash: 'sha256:6ec984b54802baea'
-translatedAt: '2026-07-27T11:34:14.205236+00:00'
+sourceCommitSha: 'e291b98c6'
+sourceContentHash: 'sha256:f80d5de0dc1467d4'
+sourceBodyHash: 'sha256:5ac3c1dc79dee79a'
+translatedAt: '2026-10-03T20:44:08.714718+00:00'
 ---
 
-# L’École taïwanaise d’intelligence artificielle : cet appel resté inachevé, et dix mille ingénieurs en IA
+# L'École d'intelligence artificielle de Taïwan : cet appel inachevé et dix mille ingénieurs en IA
 
-> **Aperçu en 30 secondes** : le 27 mars 2020, Chen Shengwei, chercheur de 44 ans à l’Academia Sinica, appela la rédactrice en chef du magazine CommonWealth pour lui dire, avec gravité, qu’il « voulait faire quelque chose » : créer une forme de cours de programmation gratuit pour toute la population. Deux jours plus tard, il chuta, tomba dans le coma, et mourut treize jours après. Au moment de sa disparition, l’École taïwanaise d’intelligence artificielle (AIA), qu’il avait fondée en 2018, avait déjà formé plus de six mille personnes. À la même période, le Conseil national du développement annonçait, avec sa stratégie « petit pays, grande stratégie IA », 16 milliards de dollars taïwanais sur cinq ans ; lui créa son école grâce à 180 millions de dollars taïwanais levés auprès de six entreprises, dont Formosa Plastics, Chi Mei et Inventec, à raison de 30 millions chacune. Huit ans plus tard, les anciens élèves ont dépassé les dix mille. L’AIA est, dans la montée en gamme industrielle de Taïwan, la pièce du puzzle la moins typiquement taïwanaise.
+> **30 secondes en résumé** : le 27 mars 2020, Chen Sheng-wei, chercheur de 44 ans à l'Academia Sinica, appelle le rédacteur en chef de CommonWealth Magazine et déclare solennellement « vouloir faire une chose » : ouvrir un cours de programmation gratuit pour tous. Deux jours plus tard, il s'effondre et tombe dans le coma ; 13 jours plus tard, il décède. Au moment de sa disparition, l'École d'intelligence artificielle de Taïwan (AIA) qu'il a fondée en 2018 avait déjà formé plus de six mille personnes. Pendant la même période, le « Grand plan pour un petit pays en matière d'IA » du ministère de la Science et de la Technologie prévoyait NT$160 milliards sur 5 ans ; lui, grâce à six entreprises — Formosa Plastics, Chi Mei, Inventec, etc. — chacune apportant NT$30 millions, soit un total de NT$180 millions de fonds privés, a créé sa propre école. Huit ans plus tard, les anciens élèves dépassent les dix mille. L'AIA est, dans la modernisation industrielle de Taïwan, la pièce de puzzle qui lui ressemble le moins.
 
-![Portrait officiel de Chen Shengwei lors d’une conférence publique de l’École taïwanaise d’intelligence artificielle, 2018](/article-images/technology/taiwan-ai-academy-chen-shengwei-portrait-2018.webp)
-_Chen Shengwei (1976-2020), fondateur et directeur général de l’École taïwanaise d’intelligence artificielle. Photo : École taïwanaise d’intelligence artificielle, officielle. [via aiacademy.tw](https://aiacademy.tw/swc/)._
+![Portrait officiel de Chen Sheng-wei lors d'une conférence publique à l'École d'intelligence artificielle de Taïwan, 2018](/article-images/technology/taiwan-ai-academy-chen-shengwei-portrait-2018.webp)
+_Chen Sheng-wei (1976-2020), fondateur et directeur général de l'École d'intelligence artificielle de Taïwan. Photo : École d'intelligence artificielle de Taïwan officielle. [via aiacademy.tw](https://aiacademy.tw/swc/)._
 
 ---
 
-## L’appel qui ne fut jamais terminé
+## Cet appel inachevé
 
-Le 27 mars 2020, Chen Shengwei appela avec gravité la rédactrice en chef du magazine CommonWealth. Il lui dit qu’il voulait faire quelque chose[^24].
+Le 27 mars 2020, Chen Sheng-wei appelle solennellement le rédacteur en chef de _CommonWealth Magazine_. Il dit : il veut faire une chose[^24].
 
-Deux jours plus tard, il tomba sur une piste de rollers et se heurta la tête. Sur le chemin du retour en voiture, il se sentit soudain mal et s’arrêta temporairement au bord de la route. Transporté à l’hôpital, il resta treize jours dans le coma et mourut le 11 avril 2020[^2]. Il avait 44 ans.
+Deux jours plus tard, il chute sur une piste de roller en ligne et se cogne la tête. Sur le chemin du retour en voiture, il ressent soudain un malaise et s'arrête sur le bord de la route. Hospitalisé, il tombe dans le coma pendant treize jours, avant de décéder le 11 avril 2020[^2]. Il avait 44 ans.
 
-Ce qu’il voulait faire, c’était créer un cours de programmation **gratuit pour toute la population** : sans frais, sans condition de diplôme ; quiconque voulait apprendre à programmer pourrait venir, puis les talents seraient mis en relation avec les postes dont les entreprises avaient besoin[^24].
+La chose qu'il voulait faire, c'était lancer un cours de programmation **gratuit pour tous** : sans frais, sans condition de diplôme, tous ceux qui veulent apprendre à programmer peuvent venir, puis mettre en relation les talents avec les postes dont les entreprises ont besoin[^24].
 
-Cet appel ne contenait pas de projet entièrement formulé. Après la mort de Chen Shengwei, personne n’a mené cette idée jusqu’au bout.
+Cet appel n'avait pas de plan complet. Après le décès de Chen Sheng-wei, personne n'a repris ce projet pour le mener à terme.
 
-Si l’on regarde rétrospectivement la trajectoire de ses trois dernières années : à partir de 2017, il visita usine après usine avec Kong Hsiang-Chung ; en 2018, la première cohorte de 530 personnes fit sa rentrée ; en 2019, il écrivit un livre intitulé _L’intelligence artificielle à Taïwan_. Cet appel était une couche supplémentaire qu’il voulait ajouter à ce qu’il « aurait déjà dû avoir terminé ».
+Si l'on regarde le parcours de ses trois dernières années avant son décès : en 2017, il commence à visiter les usines une par une avec Kong Xiang-zhong ; en 2018, la première session ouvre avec 530 personnes ; en 2019, il écrit un livre intitulé « L'intelligence artificielle à Taïwan ». Cet appel était une couche de plus qu'il voulait ajouter sur ce qu'il « aurait déjà dû avoir terminé ».
 
-Le problème est qu’il n’avait plus le temps.
+Le problème, c'est qu'il n'avait plus de temps.
 
-## La « descente sur terre » d’un chercheur de l’Academia Sinica
+## La « descente sur terre » d'un chercheur de l'Academia Sinica
 
-Chen Shengwei s’appelait à l’origine Chen Kuan-Ta. Né en 1976, il passa du Taichung First Senior High School au département d’informatique de l’Université nationale Tsing Hua, obtint un master en informatique à Tsing Hua, puis un doctorat en génie électrique à l’Université nationale de Taïwan. En 2006, il entra à l’Institut des sciences de l’information de l’Academia Sinica comme chercheur assistant ; en 2011, il fut promu chercheur associé ; en 2015, chercheur titulaire[^18].
+Chen Sheng-wei, de son nom de naissance Chen Kuan-ta, est né en 1976. Il a fait ses études au Lycée n°1 de Taichung, puis au département d'informatique de l'Université nationale Tsing-hua, où il a obtenu son master, avant de décrocher un doctorat en génie électrique à l'Université nationale de Taïwan. En 2006, il entre à l'Institut des sciences de l'information de l'Academia Sinica comme chercheur assistant, devient chercheur associé en 2011, puis chercheur titulaire en 2015[^18].
 
-C’est le parcours d’élite le plus typique d’un universitaire taïwanais.
+C'est le parcours elite le plus typique pour un chercheur taïwanais.
 
-Un chercheur de l’Academia Sinica est payé par l’État pour mener des recherches de pointe, publier des articles SCI et former des doctorants. En quatorze ans à l’Academia Sinica, Chen Shengwei publia plus de 130 articles académiques[^18] ; il reçut en 2009 le « K. T. Li Young Researcher Award » de la section de Taipei de l’ACM, puis en 2014 le prix du « meilleur article de revue » du comité technique multimédia de l’IEEE Communications Society[^18].
+Les chercheurs de l'Academia Sinica perçoivent un salaire de l'État pour mener des recherches de pointe, publier des articles SCI et former des doctorants. En 14 ans à l'Academia Sinica, Chen Sheng-wei a publié plus de 130 articles universitaires[^18], et a reçu le « Prix du jeune chercheur K.T. Li » de la section de Taipei de l'ACM en 2009, ainsi que le « Prix du meilleur article de revue » du comité technique multimédia de la Société des communications de l'IEEE en 2014[^18].
 
-Mais une nuit d’hiver de 2013, il dit à son épouse Ho Chia-chen :
+Mais une nuit d'hiver 2013, il dit à son épouse He Chia-chen :
 
-> « **Existe-t-il à Taïwan un espace où les travailleurs pourraient, comme des étudiants, se perfectionner et répondre à leur anxiété face au savoir ?** »[^A6]
+> **« Taïwan dispose-t-il d'un espace où les travailleurs peuvent, comme des étudiants, se perfectionner et résoudre leur angoisse du savoir ? »**[^A6]
 
-Cette question n’avait pas de réponse prête. Taïwan avait des universités, des écoles de soutien scolaire, des cours en ligne, mais aucun lieu spécialement conçu pour permettre à des **ingénieurs déjà en activité** de redevenir étudiants.
+Cette question n'avait pas de réponse toute faite. Taïwan a des universités, des centres de formation, des cours en ligne, mais pas d'endroit dédié pour que des **ingénieurs déjà en poste** redeviennent étudiants.
 
-L’année suivante, en 2014, il fonda donc lui-même la « Taiwan Data Science Conference », qui attira jusqu’à 1 800 personnes lors de sa plus grande édition[^8]. En 2016, il créa la Taiwan Data Science Association. Mais la conférence annuelle et l’association restaient des « événements annuels », non un « espace d’apprentissage continu ».
+C'est pourquoi l'année suivante (2014), il fonde lui-même la « Conférence annuelle taïwanaise de science des données », qui attire jusqu'à 1 800 participants par an[^8]. En 2016, il crée l'Association taïwanaise de science des données. Mais la conférence et l'association restent des « événements annuels », pas un « espace d'apprentissage continu ».
 
-La différence tient à la fréquence : l’anxiété face au savoir est un problème quotidien ; une conférence annuelle ne peut pas le résoudre.
+La différence réside dans la fréquence : l'angoisse du savoir est un problème quotidien, une conférence annuelle ne la résout pas.
 
-À un moment de 2017, le professeur Kong Hsiang-Chung, rentré de Harvard pour des congés à Taïwan, alla le trouver. Kong était professeur titulaire de la chaire William H. Gates à l’Université Harvard ; il avait alors 72 ans. Le président de l’Academia Sinica, James C. Liao, présenta ce chercheur chevronné à Chen Shengwei, 41 ans, promu chercheur titulaire depuis deux ans[^7].
+À un moment donné en 2017, le professeur Kong Xiang-zhong, de retour à Taïwan pour un congé sabbatique depuis Harvard, le contacte. Kong Xiang-zhong est professeur titulaire de la chaire William H. Gates à l'Université Harvard, alors âgé de 72 ans. Le président de l'Academia Sinica, Liao Jun-zhi, présente ce chercheur senior à Chen Sheng-wei, 41 ans, qui vient d'être promu chercheur titulaire depuis deux ans[^7].
 
-Kong Hsiang-Chung raconta à une journaliste de CommonWealth :
+Kong Xiang-zhong se souvient auprès de journalistes de _CommonWealth Magazine_ :
 
-> « **Everest Textile fut l’une des toutes premières entreprises que Shengwei et moi avons visitées.** »[^B4]
+> **« Hongyuan Industry, c'est l'une des premières entreprises que Sheng-wei et moi avons visitées. »**[^B4]
 
-Les deux hommes prenaient la voiture et s’enfonçaient chaque semaine vers les usines du centre et du sud de Taïwan. Ils rendaient visite aux entreprises une par une, répétaient leur présentation encore et encore[^7]. En six mois, ils visitèrent plus de dix entreprises manufacturières. À ce moment-là, en 2017, la plupart des patrons d’entreprise étaient mi-convaincus, mi-sceptiques à l’égard de l’IA, mais Chen Shengwei et Kong Hsiang-Chung portaient une mission de prédication.
+Tous deux en voiture, ils sillonnent chaque semaine les usines du centre et du sud. Ils visitent une à une, présentent inlassablement[^7]. En six mois, ils en visitent plus de dix du secteur manufacturier. À ce moment-là en 2017, la plupart des patrons d'entreprises sont sceptiques face à l'IA, mais Chen Sheng-wei et Kong Xiang-zhong portent une mission d'évangélisation.
 
-À partir de cette observation de terrain, Chen Shengwei se donna lui-même une définition :
+C'est à partir de cette observation de terrain que Chen Sheng-wei se donne un positionnement personnel :
 
-> « **Un informaticien entré dans le monde, un missionnaire de la technologie.** »[^A3]
+> **« Informaticien entré dans le monde, missionnaire de la technologie. »**[^A3]
 
-Dans les milieux académiques, l’expression « descendre sur terre » a généralement une connotation péjorative : elle signifie qu’un chercheur abandonne la recherche de pointe pour faire de la vulgarisation appliquée. Chen Shengwei la redéfinit avec ses propres mots :
+Le terme « descendre sur terre » dans le milieu universitaire a généralement une connotation péjorative : cela signifie qu'un chercheur abandonne la recherche de pointe pour faire de la vulgarisation appliquée. Chen Sheng-wei le redéfinit avec ses propres mots :
 
-> « **Il suffit qu’un universitaire accepte de faire un pas en avant pour qu’il ait la capacité de guider la société à sa manière.** »[^A4]
+> **« Tant qu'un savant accepte de faire un pas de côté, il a la capacité de guider la société à sa manière. »**[^A4]
 
-Pendant cette période où ils entraient dans les usines, lui et Kong Hsiang-Chung découvrirent une chose : plutôt que d’aider une usine particulière à résoudre un problème avec un projet isolé, ce dont Taïwan avait besoin était une construction systémique permettant à **davantage d’ingénieurs d’acquérir la capacité de résoudre les problèmes**.
+Durant cette période passée dans les usines, lui et Kong Xiang-zhong découvrent une chose : plus que de résoudre les problèmes d'une seule usine par un projet unique, Taïwan a besoin d'une **construction systémique permettant à davantage d'ingénieurs d'acquérir la capacité de résoudre les problèmes**.
 
-Lors de la conférence annuelle sur l’intelligence artificielle de 2017, le président James C. Liao annonça publiquement la création de l’« École taïwanaise d’intelligence artificielle »[^7].
+À la conférence annuelle sur l'intelligence artificielle 2017, le président Liao Jun-zhi annonce publiquement : la création de l'« École d'intelligence artificielle de Taïwan »[^7].
 
-Entre la phrase dite à son épouse au milieu de la nuit et l’annonce publique par le président, environ quatre années s’étaient écoulées.
+Environ quatre ans se sont écoulés entre cette phrase murmurée à son épouse en pleine nuit et l'annonce publique du président.
 
-## Cinq ans, 16 milliards, et 180 millions venus de six entreprises
+## Cinq ans, 16 milliards, et les 180 millions de six entreprises
 
-En août 2017, le ministre des Sciences et de la Technologie Chen Liang-Gee annonça lors d’une conférence de presse la stratégie « petit pays, grande stratégie IA », qui prévoyait d’investir **environ 16 milliards de dollars taïwanais** sur cinq ans dans la formation de talents en IA[^13].
+En août 2017, le ministre de la Science et de la Technologie Chen Liang-ge annonce lors d'une conférence de presse la « Grande stratégie pour un petit pays en IA », prévoyant d'investir environ **NT$16 billion** sur cinq ans pour former des talents en IA[^13].
 
-C’était la **version gouvernementale** de la stratégie nationale taïwanaise en matière d’IA.
+C'est la **version gouvernementale** de la stratégie nationale taïwanaise en IA.
 
-À la même période, Chen Shengwei prit le dossier de projet de l’École taïwanaise d’intelligence artificielle et partit dans une autre direction : il alla trouver Formosa Plastics, Chi Mei, Inventec, Elan Microelectronics, MediaTek et AU Optronics[^6].
+Dans le même temps, Chen Sheng-wei, muni du projet de l'École d'intelligence artificielle de Taïwan, prend une autre direction : il sollicite Formosa Plastics, Chi Mei, Inventec, Elitegroup Computer Systems (ECS), MediaTek et AUO[^6].
 
-Six entreprises, chacune investissant 30 millions de dollars taïwanais.
+Six entreprises, chacune apportant **NT$30 million**.
 
-Montant total : **180 millions de dollars taïwanais**[^6].
+Montant total : **NT$180 million**[^6].
 
-C’était la **version privée** de la stratégie taïwanaise de talents en IA.
+C'est la **version civile** de la stratégie taïwanaise pour les talents en IA.
 
-La tension produite par la juxtaposition des deux chiffres dépasse largement les chiffres eux-mêmes. Le rapport entre 180 millions et 16 milliards est de un à quatre-vingt-neuf.
+La tension créée par la juxtaposition de ces deux chiffres dépasse largement les nombres eux-mêmes. Le ratio entre **NT$180 million** et **NT$16 billion** est de un neuvième.
 
-Mais la vitesse d’exécution des deux stratégies fut radicalement différente. Pour savoir ce que le plan gouvernemental quinquennal « petit pays, grande stratégie IA » a produit, il faut retourner consulter les rapports annuels de l’État et y chercher des cas précis. La version privée qu’était l’AIA ouvrit ses portes le 27 janvier 2018, avec une première cohorte de 530 personnes[^3].
+Mais la vitesse d'exécution des deux stratégies diffère radicalement. Pour savoir ce que le plan quinquennal de la « Grande stratégie pour un petit pays en IA » a concrètement réalisé, il faut consulter les rapports annuels du gouvernement. La version civile, l'AIA, ouvre ses portes le 27 janvier 2018 avec 530 étudiants pour sa première promotion[^3].
 
-De l’annonce à la rentrée, il s’écoula **moins de six mois**.
+De l'annonce à la rentrée, **moins de six mois**.
 
-> 📝 **Note curatoriale**
+> 📝 **Note du curateur**
 >
-> Un même phénomène peut se lire de deux manières. Première lecture : l’État est défaillant, le secteur privé se sauve lui-même, et la montée en gamme de l’industrie taïwanaise est depuis toujours propulsée par l’anxiété. Seconde lecture : Chen Shengwei, ce chercheur, avait réfléchi quatre ans avant de passer à l’action depuis cette question formulée au milieu de la nuit en 2013 ; si la rentrée fut rapide, ce n’est donc pas parce que le secteur privé serait naturellement agile, mais parce que la réflexion avait déjà suffisamment mûri.
+> Un phénomène, deux lectures. La première : défaillance de l'État, sauvetage par le secteur privé, la vitesse de la montée en gamme de l'industrie taïwanaise a toujours été tirée par l'anxiété. La seconde : le chercheur Chen Sheng-wei a mûri son projet pendant quatre ans depuis cette question posée au milieu de la nuit en 2013 avant de se lancer ; la rapidité de l'ouverture n'est donc pas due à une agilité innée du secteur privé, mais à une gestation suffisamment longue.
 >
-> Les deux lectures sont valides. Mais ce n’est qu’en les entremêlant que l’image devient complète : la fracture institutionnelle est l’arrière-plan, le coût assumé par un individu est le premier plan.
+> Les deux lectures sont valides. Mais ce n'est qu'entrelacées qu'elles deviennent complètes : la fracture institutionnelle en toile de fond, le coût supporté par l'individu au premier plan.
 
-Après la conférence de presse de Chen Liang-Gee et l’impression des documents de planification gouvernementaux, Chen Shengwei téléphona aux entreprises. Les patrons lui demandèrent quel niveau d’engagement il voulait qu’ils écrivent, quel contrat il fallait signer, quel retour ils devaient attendre. Les conditions qu’il proposa furent directes : **les entreprises ne possèdent pas l’école, ne possèdent pas les élèves, ne possèdent pas les données. L’école est une fondation à personnalité juridique ; après l’obtention de leur certificat, les élèves circulent librement.**
+Une fois la conférence de presse de Chen Liang-ge terminée et le plan gouvernemental imprimé, Chen Sheng-wei appelle les entreprises. Les patrons lui demandent quel niveau d'engagement écrire, quel contrat signer, quel retour sur investissement attendre. Il pose ses conditions sans détour : **les entreprises ne possèdent pas l'école, ne possèdent pas les étudiants, ne possèdent pas les données. L'école est une personne morale de fondation, les diplômés sont libres de partir où ils veulent.**
 
-Les six entreprises acceptèrent ces conditions.
+Les six entreprises signent ces conditions.
 
-## Le premier cours au septième étage de l’Academia Sinica
+## La première classe au 7e étage de l'Academia Sinica
 
-Le matin du 27 janvier 2018, au septième étage du bâtiment de recherche interdisciplinaire de l’Academia Sinica[^3].
+Le matin du 27 janvier 2018, au 7e étage du bâtiment de recherche interdisciplinaire de l'Academia Sinica[^3].
 
-C’était la cérémonie de rentrée de la première cohorte de l’École taïwanaise d’intelligence artificielle.
+Cérémonie d'ouverture de la première session de l'École d'intelligence artificielle de Taïwan.
 
-Le programme de formation des leaders techniques comptait 210 personnes ; le programme exécutif de week-end pour managers, 320. Au total, 530 personnes étaient présentes[^3]. Le premier cours fut donné par Chen Shengwei lui-même.
+210 personnes pour la classe de formation des leaders techniques + 320 personnes pour la classe de perfectionnement des cadres du week-end, soit 530 personnes au total présentes[^3]. La première classe a été donnée personnellement par Chen Sheng-wei.
 
-Le programme de leaders techniques durait douze semaines, cinq jours par semaine, de 9 h à 18 h chaque jour, à plein temps ; les frais d’inscription étaient de 48 000 dollars taïwanais[^4]. Sur 430 candidatures, 210 furent admises, soit un taux d’admission de 48 %. L’examen d’entrée portait sur cinq matières : calcul différentiel et intégral, algèbre linéaire, probabilités, statistiques et programmation[^4].
+La classe de leaders techniques dure 12 semaines, 5 jours par semaine, de 9h à 18h en cours à temps plein, avec des frais de scolarité de NT$48 000[^4]. 430 inscriptions, 210 admis, taux d'admission de 48 %. L'examen écrit d'entrée porte sur cinq matières : calcul différentiel et intégral, algèbre linéaire, probabilités, statistiques, programmation[^4].
 
-Le programme exécutif de week-end pour managers durait douze semaines, le samedi toute la journée, de 9 h 30 à 20 h 30 ; les frais étaient de 36 000 dollars taïwanais[^5]. Sur 470 candidatures, 320 furent admises.
+La classe de perfectionnement des cadres du week-end dure 12 semaines, le samedi toute la journée (de 9h30 à 20h30), avec des frais de scolarité de NT$36 000[^5]. 470 inscriptions, 320 admis.
 
-La conception des deux programmes reflétait la façon dont Chen Shengwei comprenait le « comblement des manques ».
+La conception des deux classes reflète la compréhension de Chen Sheng-wei de la « mise à niveau ».
 
-Le programme de leaders techniques s’adressait aux **ingénieurs qui savaient déjà programmer** ; il comblait leur manque dans ce nouveau domaine technique qu’étaient l’IA et l’apprentissage automatique. Les ingénieurs de première ligne prenaient congé en journée pour suivre les cours, avec une attestation signée par leur employeur. Le programme pour managers s’adressait aux **cadres intermédiaires et supérieurs qui dirigeaient déjà des équipes** ; il comblait la capacité transversale de communication consistant à « comprendre ce que disent les ingénieurs ». Les cours du samedi leur permettaient de ne pas perturber leur travail.
+La classe de leaders techniques s'adresse aux **ingénieurs qui savent déjà programmer**, pour combler le nouveau domaine technique de l'apprentissage automatique de l'IA. Les ingénieurs de première ligne prennent congé en journée pour assister aux cours, les employeurs signant une lettre d'engagement pour accepter. La classe de cadres s'adresse aux **cadres moyens et supérieurs qui gèrent déjà des équipes**, pour combler cette capacité de communication transversale : « suis-je capable de comprendre ce que disent les ingénieurs ? » Les cours le samedi leur permettent de ne pas affecter leur travail.
 
-Deux programmes, deux manques à combler : ce fut la première différence structurelle entre l’AIA et les autres cours MOOC en ligne.
+Deux classes pour deux types de mise à niveau, c'est la première différence structurelle de l'AIA par rapport aux autres cours MOOC en ligne.
 
-![Chen Shengwei, directeur général, prenant la parole dans un cours ou lors d’un événement de l’AIA, 2018](/article-images/technology/taiwan-ai-academy-chen-shengwei-talk-2018.webp)
-_Chen Shengwei, directeur général, s’exprimant lors d’un événement public de l’École taïwanaise d’intelligence artificielle. Photo : École taïwanaise d’intelligence artificielle, officielle. [via aiacademy.tw](https://aiacademy.tw/swc/)._
+![Chen Sheng-wei, PDG, s'exprimant en classe ou lors d'un événement de l'AIA, 2018](/article-images/technology/taiwan-ai-academy-chen-shengwei-talk-2018.webp)
+_Chen Sheng-wei, PDG, s'exprime lors d'un événement public de l'École d'intelligence artificielle de Taïwan. Photo : École d'intelligence artificielle de Taïwan officielle. [via aiacademy.tw](https://aiacademy.tw/swc/)._
 
-Parmi les élèves admis dans la première cohorte figurait une personne qui partagea ensuite publiquement son témoignage sur la page officielle des élèves de l’AIA. Numéro d’étudiant AT071039, nom : Chen Yen-chin. Il écrivit :
+Parmi les étudiants admis de la première session, l'un d'eux a partagé publiquement son témoignage sur la page officielle des retours d'étudiants de l'AIA. Numéro d'étudiant AT071039, nom Chen Yen-chin. Il écrit :
 
-> « **En trois mois, l’école nous a enseigné une quantité considérable de connaissances ; certaines auraient peut-être représenté deux ou trois années de master, compressées en trois mois et transmises à nous.** »
+> « **En trois mois, l'école a enseigné une quantité considérable de connaissances, certaines correspondant à ce qu'on apprendrait en deux ou trois ans de master, compressées en trois mois pour nous. ** »
 >
-> « **Définir l’École taïwanaise d’intelligence artificielle comme l’académie militaire de l’IA n’est en réalité pas exagéré.** »[^B5]
+> « **Dire que l'École d'intelligence artificielle de Taïwan est l'académie militaire de l'IA n'est pas exagéré. ** »[^B5]
 
-La métaphore de « l’académie militaire de l’IA » saisissait l’atmosphère de la première cohorte : 100 % de présence, projets de fin de formation liés à de vrais problèmes industriels, élèves d’une même promotion poussés ensemble dans un environnement de forte pression.
+La métaphore de « l'académie militaire de l'IA » capture l'esprit de la première promotion : taux de présence de 100 %, projets de fin d'études liés à de vrais sujets industriels, camarades de promotion plongés ensemble dans un environnement commun de haute pression.
 
-Le 29 avril 2018 eut lieu la cérémonie de fin de formation des 530 élèves de la première cohorte[^15]. Leurs projets comprenaient notamment un dispositif de prédiction boursière, la détection de défauts de fabrication, des alertes de perte de clients et d’autres réalisations pratiques. MediaTek, AU Optronics, Inventec, Chunghwa Telecom et Cathay Financial Holdings envoyèrent des représentants sur place ; certains décrivirent le recrutement comme une « ruée vers les talents »[^15].
+Le 29 avril 2018, cérémonie de remise des diplômes de la première promotion de 530 personnes[^15]. Les projets de fin d'études des étudiants comprenaient des dispositifs de prédiction boursière, de détection de défauts de fabrication, d'alerte de perte de clients, et d'autres sujets pratiques. MediaTek, AUO, Inventec, Chunghwa Telecom, Cathay Financial Holding ont envoyé des représentants sur place ; quelqu'un a décrit la scène de recrutement comme une « foire à l'embauche »[^15].
 
-Le questionnaire de fin de formation de la première cohorte d’anciens élèves indiquait que 72 % étaient retournés dans leur entreprise d’origine, 15 % avaient trouvé un nouvel emploi, 4 % avaient créé leur propre entreprise, 7 % attendaient une opportunité et 2 % poursuivaient des études[^14].
+Enquête auprès des diplômés de la première promotion : 72 % sont retournés dans leur entreprise d'origine, 15 % ont trouvé un nouvel emploi, 4 % ont créé leur propre entreprise, 7 % attendent une opportunité, 2 % poursuivent leurs études[^14].
 
-Ce chiffre de 72 % « retournés dans leur entreprise d’origine » est le tranchant double de l’AIA.
+Ce chiffre de 72 % de « retour dans l'entreprise d'origine » est une épée à double tranchant pour l'AIA.
 
-Il vérifie que l’AIA n’était pas un « outil de démission et de changement d’emploi », mais une « voie de formation continue en emploi ». Les employeurs qui envoyaient leurs salariés à l’AIA ne perdaient pas directement leurs talents. Il signifie aussi que la chaîne de production de talents de l’AIA renvoyait les compétences en IA **vers les industries existantes**, au lieu de créer une nouvelle vague de startups IA. La différence avec le modèle piloté par l’État de la Corée du Sud, qui avait en 2018 « achevé la première compilation nationale au monde de manuels d’IA et défini 9 grandes stratégies et 100 actions »[^46], tient à ceci : la Corée voulait créer une stratégie nationale d’IA ; Taïwan utilisait l’IA pour renforcer ses industries existantes.
+Il confirme que l'AIA n'est pas un « outil pour changer d'emploi », mais un « canal de formation continue en poste ». Les employeurs qui envoient leurs employés à l'AIA ne perdent pas directement leurs talents. Cela signifie aussi que la chaîne de production de talents de l'AIA **renvoie les capacités en IA vers les industries existantes**, au lieu de créer une nouvelle vague de start-up en IA.
 
-Deux modèles, deux structures nationales. L’industrie taïwanaise des semi-conducteurs est suffisamment forte ; ce dont elle a besoin, c’est que les ingénieurs IA puissent se raccorder à la chaîne ICT existante, non que l’IA devienne une industrie indépendante.
+Cela diffère du modèle dirigé par l'État de la Corée du Sud en 2018, « premier au monde à achever la rédaction d'un manuel national d'IA, 9 grandes stratégies, 100 actions »[^46] : la Corée du Sud veut créer une stratégie nationale d'IA, tandis que Taïwan utilise l'IA pour renforcer ses industries existantes.
 
-## « Résoudre nous-mêmes nos propres problèmes »
+Deux modèles correspondent à deux structures nationales. L'industrie des semi-conducteurs de Taïwan est assez forte ; ce dont elle a besoin, ce sont des ingénieurs en IA capables de s'interfacer avec la chaîne ICT existante, et non que l'IA devienne une industrie indépendante.
 
-Chen Shengwei répéta plusieurs fois une phrase. Aux médias, aux élèves, aux dirigeants d’entreprise :
+## « Nous résolvons nos problèmes nous-mêmes »
 
-> « **Faire en sorte que, lorsque le monde voit Taïwan, il pense à l’IA.** »[^A5]
+Chen Sheng-wei a répété une phrase à maintes reprises. Il la disait aux médias, aux apprenants, aux entrepreneurs :
 
-Cette phrase fut reprise dans différents contextes. À première écoute, elle ressemble à un slogan national taïwanais courant. Mais combinée à sa stratégie correspondante — l’AIA n’accepte pas de financements publics, ne possède pas les données des élèves, et les élèves circulent librement après la formation — elle prend un autre sens.
+> **« Pour que le monde voie Taïwan, qu'il pense à l'IA. »**[^A5]
 
-Elle ne dit pas que « **Taïwan** fera voir au monde », avec l’État comme sujet ; elle dit que « **nous** ferons voir au monde », avec la société civile comme sujet. Dans la dernière grande interview accordée de son vivant au média _The Reporter_, Chen Shengwei formula ce cadrage plus concrètement :
+Cette phrase a été citée en de nombreuses occasions. À première vue, c'est un slogan nationaliste taïwanais courant, mais associée à sa stratégie correspondante (l'AIA n'accepte pas de fonds publics, ne détient pas les données des apprenants, et ces derniers sont libres de partir après la formation), elle prend une tout autre dimension.
 
-> « **Certains disent que les données sont le pétrole de la nouvelle ère ; alors l’intelligence artificielle (IA) est l’électricité de la nouvelle ère, et à l’avenir aucune industrie moderne ne sera sans lien avec l’IA.** »[^A2]
+Elle ne dit pas que c'est **Taïwan** (l'État) qui se montre au monde, mais que **nous** (la société civile) le faisons.
 
-Cette phrase fut reprise dans _L’intelligence artificielle à Taïwan : opportunités et défis de la transformation industrielle_, livre coécrit avec Wen Yi-ling et publié par CommonWealth Magazine en juillet 2019[^10]. Sous le titre figurait une ligne en petits caractères : « **opportunités et défis de la transformation industrielle** ».
+Dans sa dernière interview longue accordée à The Reporter de son vivant, Chen Sheng-wei a explicité ce cadrage :
 
-Ce livre est presque le manifeste de l’AIA : considérer l’IA comme une chose du niveau de l’**infrastructure**, telle que l’« électricité » — nécessaire à toutes les industries, impossible à ne pas installer — et non comme un jouet d’élite académique.
+> **« Certains disent que les données sont le pétrole du nouvel âge ; alors l'intelligence artificielle (IA) en est l'électricité : à l'avenir, aucune industrie moderne ne sera sans lien avec l'IA. »**[^A2]
 
-C’est aussi en 2018 que Chen Shengwei fut recruté par Joseph N. C. Huang, directeur général d’E.SUN Financial Holding, pour devenir le **premier chief technology officer de l’industrie financière taïwanaise**[^9]. L’équipe big data CRV (Customer Risk & Value) d’E.SUN Financial Holding constitua sous son mandat une équipe professionnelle de science des données de 80 personnes[^9] et lança « près de cent projets IA ».
+Cette phrase figure dans l'ouvrage coécrit avec Wen Yi-ling en juillet 2019, _L'IA à Taïwan : opportunités et défis de la transformation industrielle_ (éd. Commonwealth Magazine)[^10]. Sous le titre, une ligne en petits caractères : **« Opportunités et défis de la transformation industrielle »**.
 
-Il cumulait trois identités : directeur général de l’AIA, CTO d’E.SUN Financial Holding, chercheur à l’Academia Sinica. Il expliqua lui-même au centre des anciens élèves de Tsing Hua pourquoi il avait accepté ce poste chez E.SUN :
+Ce livre est presque le manifeste de l'AIA : il traite l'IA comme l'« électricité », une infrastructure **indispensable** (toute industrie en a besoin, impossible de s'en passer), et non comme un jouet pour élites académiques.
 
-> « **Quand j’y repense, pour être franc, j’étais un peu réticent ! Les gens du logiciel ont généralement l’impression que les banques n’ont rien à voir avec eux ; je pensais à l’origine que, dans cette vie, à part y déposer de l’argent, je n’aurais aucun lien avec les banques.** »[^A7]
+Toujours en 2018, Chen Sheng-wei a été recruté par le PDG d'E.SUN Financial Holdings, Huang Nan-chou, pour devenir le **premier Chief Technology Officer du secteur financier taïwanais**[^9].
 
-Mais il accepta. Parce qu’« entrer dans l’industrie » était le prolongement de la philosophie de l’AIA : il ne suffisait pas d’enseigner aux ingénieurs puis de les laisser avancer par eux-mêmes ; l’universitaire devait lui aussi entrer sur le terrain pour en faire la démonstration.
+Sous sa direction, l'équipe Big Data CRV (Customer Risk & Value) d'E.SUN a constitué une équipe professionnelle de 80 data scientists[^9] et lancé « près d'une centaine de projets d'IA ».
 
-L’ancienne ministre du Conseil national du développement, Chen Mei-ling, écrivit lors de sa mort une phrase qui résumait cette philosophie :
+Il cumulait trois fonctions : directeur général de l'AIA, CTO d'E.SUN Financial Holdings et chercheur à l'Academia Sinica.
 
-> « **Chen Shengwei n’attend pas que le gouvernement fournisse des ressources ; il crée lui-même des ressources, résout avec les bonnes méthodes les besoins de transformation industrielle auxquels Taïwan est confronté, et aide véritablement Taïwan.** »[^B3]
+Il a lui-même expliqué au centre des alumni de Tsinghua pourquoi il avait accepté ce poste à E.SUN :
 
-## Mille jours sans vacances
+> **« En y repensant, franchement, j'étais un peu réticent ! Les gens du logiciel ont généralement l'impression que les banques n'ont rien à voir avec eux ; je pensais qu'au cours de ma vie, à part y déposer mon argent, je n'aurais jamais affaire à une banque. »**[^A7]
 
-Entre mars 2017, lorsqu’il commença à visiter Everest Textile avec Kong Hsiang-Chung, et avril 2020, lorsqu’il mourut, il s’écoula environ **mille cent jours**.
+Mais il a accepté. Car « entrer dans l'industrie » prolonge la philosophie de l'AIA : former des ingénieurs et les laisser partir ne suffit pas ; les universitaires doivent eux-mêmes y entrer pour montrer l'exemple.
 
-Pendant ces plus de mille jours, Chen Shengwei occupa trois fonctions : chercheur titulaire à l’Institut des sciences de l’information de l’Academia Sinica (recherche académique), directeur général de l’École taïwanaise d’intelligence artificielle (enseignement, levée de fonds, gestion d’organisation), et CTO d’E.SUN Financial Holding et d’E.SUN Bank (pratique industrielle).
+Une phrase de l'ancienne ministre du Conseil national de développement, Chen Mei-ling, écrite en hommage à son décès, résume cette philosophie :
 
-Dans le discours qu’elle prononça après sa mort lors d’une conférence commémorative en ligne, son épouse Ho Chia-chen mentionna que, ces dernières années, elle ne l’avait presque jamais vu prendre de vacances[^A6].
+> **« Chen Sheng-wei n'attendait pas que le gouvernement lui donne des ressources ; il les créait lui-même, et résolvait par les bonnes méthodes les besoins de transformation industrielle auxquels Taïwan est confronté, aidant réellement Taïwan. »**[^B3]
 
-Le professeur Lin I-ping, professeur titulaire à vie au département d’informatique de l’Université nationale Chiao Tung, déclara à la Central News Agency trois jours après sa mort qu’il l’avait « **encore rencontré la semaine précédente pour discuter d’une collaboration** ». Autrement dit, Chen Shengwei continuait à s’occuper d’affaires la semaine même de sa chute[^B9].
+## Mille jours sans congé
 
-Après sa mort, le président de l’Academia Sinica, James C. Liao, lui rendit hommage :
+Depuis la visite de Hongyuan Industry avec Kong Xiang-zhong en mars 2017 jusqu'à son décès en avril 2020, cela représente environ **mille cent jours**.
 
-> « **Chen Shengwei est un talent comme on n’en rencontre pas en cent ans. Dans cette génération, Shengwei est presque le meilleur dirigeant, organisateur, communicateur et innovateur que j’aie vu.** »[^B1]
+Pendant ces mille et quelques jours, Chen Sheng-wei a cumulé trois fonctions : chercheur titulaire à l'Institut des sciences de l'information de l'Academia Sinica (recherche académique), directeur général de l'École d'intelligence artificielle de Taïwan (enseignement + levée de fonds + gestion organisationnelle), et directeur de la technologie de E.SUN Financial Holding et de E.SUN Bank (pratique industrielle).
 
-Joseph N. C. Huang, directeur général d’E.SUN Financial Holding, rapporta les phrases favorites de Chen Shengwei :
+Son épouse He Jia-zhen a mentionné lors d'une allocution lors d'une conférence commémorative en ligne après son décès qu'elle n'avait presque jamais vu son mari prendre de congé ces dernières années[^A6].
 
-> « **La direction ne doit pas être fausse, la vitesse ne doit pas être lente !** » « **Alors, c’est difficile, n’est-ce pas ! C’est justement pour cela que c’est plein de défis !** »[^B2]
+Le professeur Lin Yi-ping (professeur titulaire à vie au département d'informatique de l'Université nationale Chiao Tung) a déclaré lors d'un entretien avec l'Agence centrale de nouvelles trois jours après son décès : « Nous nous sommes rencontrés la semaine dernière pour discuter d'une collaboration. » En d'autres termes, Chen Sheng-wei gérait encore des affaires la semaine de sa chute[^B9].
 
-Ce sont des souvenirs de collègues. Mais si l’on revient aux interviews données de son vivant par Chen Shengwei, il souligna à plusieurs reprises qu’il n’était ni un « héros » ni un « martyr ». Le dossier commémoratif publié par la Central News Agency le 13 avril 2020 citait l’observation de l’écrivaine Yen Tze-ya :
+Le président de l'Academia Sinica, Liao Jun-zhi, a rendu hommage après son décès :
 
-> « **Il aurait clairement pu gagner beaucoup d’argent** », mais il « **voulait make a difference** »[^B8]
+> « Chen Sheng-wei est un talent exceptionnel que l'on voit une fois par siècle, le plus grand que j'aie jamais rencontré. De notre époque, c'est presque le meilleur leader, organisateur, communicateur et innovateur que j'aie connu. »[^B1]
 
-L’expression anglaise « make a difference », Chen Shengwei l’utilisait lui-même. Lorsqu’il décrivait sa vision, il disait espérer rendre la société un peu meilleure.
+Le directeur général de E.SUN Financial Holding, Huang Nan-zhou, a rapporté les phrases fétiches de Chen Sheng-wei :
 
-Le 29 mars 2020, Chen Shengwei tomba et se heurta la tête sur une piste de rollers. Sur le chemin du retour en voiture, il se sentit soudain mal et s’arrêta temporairement au bord de la route. Transporté à l’hôpital, il tomba dans le coma à la suite d’une hémorragie cérébrale. Treize jours plus tard, le 11 avril 2020, il mourut[^2].
+> « La direction ne doit pas être erronée, la vitesse ne doit pas être lente ! » « Alors, c'est difficile, n'est-ce pas ! C'est justement ainsi que c'est plein de défis ! »[^B2]
 
-![Portrait de Chen Shengwei lors d’un entretien avec Global Views Monthly en 2020, parmi les derniers ensembles d’images publiques avant sa mort](/article-images/technology/taiwan-ai-academy-chen-shengwei-gvm-2020.webp)
-_Portrait de Chen Shengwei réalisé par Global Views Monthly peu avant sa mort. Photo : Chang Chih-chieh / Global Views Monthly, 2020. [via gvm.com.tw](https://www.gvm.com.tw/article/72282) (fair use editorial commentary)._
+Ce sont les souvenirs de collègues. Mais revenons aux entretiens de Chen Sheng-wei de son vivant : il a maintes fois souligné qu'il n'était ni un « héros » ni un « martyr ». Le reportage commémoratif de l'Agence centrale de nouvelles du 13 avril 2020 cite l'observation de l'écrivaine Yan Ze-ya :
 
-Après l’annonce de son décès, les anciens élèves de l’AIA, E.SUN Financial Holding, l’Academia Sinica, g0v et la communauté taïwanaise de science des données collaborèrent pour mettre en ligne, le 21 avril, une plateforme de commémoration en ligne au style de décor d’anime et de jeu vidéo. L’équipe travailla toute la nuit et termina à une heure du matin[^B1].
+> « Il pouvait manifestement gagner beaucoup d'argent » mais « voulait make a difference »[^B8]
 
-Dans le monde du jeu vidéo, le pseudonyme de Chen Shengwei était « Grand Dieu Fox » (_World of Warcraft_) ; il était l’un des rares chercheurs de l’Academia Sinica à porter simultanément l’identité de « scientifique des données + joueur de jeux vidéo ». Le style animé de la commémoration en ligne faisait écho à son identité d’« otaku ». En une seule journée, la zone de messages accumula près d’un millier de commentaires.
+Cet expression anglaise « make a difference », Chen Sheng-wei l'utilisait lui-même. En décrivant sa vision, il a dit : il espérait rendre la société un peu meilleure.
 
-Yu Meng-hsun, de la Taiwan Alliance for Civic Accountability, se souvient des paroles prononcées par Chen Shengwei quelque temps avant sa mort, lorsqu’il lui transmit la plateforme de redevabilité publique qu’il avait construite :
+Le 29 mars 2020, Chen Sheng-wei a chuté et s'est cogné la tête dans une patinoire à roulettes. En rentrant chez lui en voiture, il a soudainement ressenti un malaise et s'est arrêté sur le bord de la route. Transporté à l'hôpital, il est tombé dans le coma suite à une hémorragie cérébrale. Treize jours plus tard, le 11 avril 2020, il est décédé[^2].
 
-> « **La plateforme est à toi maintenant, je te la donne entièrement ! À partir de maintenant, c’est toi qui te casseras la tête !** »[^A8]
+![陳昇瑋於 2020 年遠見雜誌專訪人像，過世前的最後幾批公開影像之一](/article-images/technology/taiwan-ai-academy-chen-shengwei-gvm-2020.webp)
+_Portrait de Chen Sheng-wei lors d'un entretien avec le magazine Global Views peu avant son décès. Photo : Chang Chih-chieh / Global Views Magazine, 2020. [via gvm.com.tw](https://www.gvm.com.tw/article/72282) (fair use editorial commentary)._
 
-C’était sa manière typique de parler : directe lorsqu’il transmettait une affaire, sans pathos, avec une légère plaisanterie. Il travaillait extrêmement vite ; au cours des années qui précédèrent sa mort, il passa beaucoup de choses à d’autres, et chaque transmission fut propre. Son successeur à l’AIA fut Tsai Ming-shun. Le poste de CTO chez E.SUN Financial Holding avait un adjoint. Son poste de chercheur à l’Academia Sinica fut traité ensuite en interne.
+Après l'annonce de son décès, les anciens élèves de l'AIA, E.SUN Financial, l'Academia Sinica, g0v et la communauté taïwanaise de la science des données ont collaboré pour mettre en ligne le 21 avril une plateforme de commémoration en ligne au style de scène de jeu d'animation. L'équipe a travaillé toute la nuit jusqu'à 1 heure du matin pour la terminer[^B1].
 
-Mais la dernière chose qu’il voulait faire, ce « cours de programmation gratuit pour toute la population » évoqué dans cet appel, il n’eut pas le temps de le transmettre à qui que ce soit.
+Le pseudonyme de Chen Sheng-wei dans le monde du jeu vidéo était « Fox God » (World of Warcraft), ce qui fait de lui l'un des rares chercheurs de l'Academia Sinica à avoir la double identité de « data scientist + gamer ». Le style d'animation de la commémoration en ligne faisait écho à son identité d'_otaku_. Le jour de sa mise en ligne, la section des commentaires a accumulé près de mille messages en une journée.
 
-## Les trois années après lui
+Yu Meng-xun de l'Association pour la responsabilité sociale se souvient de ce que Chen Sheng-wei a dit lorsqu'il a transmis la plateforme de responsabilité qu'il avait construite à son successeur peu avant son décès :
 
-Le 31 août 2020, la structure juridique de l’AIA fut réorganisée[^12].
+> « La plateforme est maintenant à toi, tout te revient ! C'est à toi de te casser la tête désormais ! »[^A8]
 
-La fondation d’intérêt public Tech Ecosystem Development mit fin au contrat de mandat avec l’Artificial Intelligence Technology Foundation. Tsai Ming-shun devint directeur général par intérim de l’AIA, et Liao Hong-yuan directeur général par intérim de la fondation.
+C'est sa façon typique de parler : direct, sans fioritures, avec une légère touche d'humour quand il confie une tâche. Il travaillait à une vitesse extrême, et depuis plusieurs années avant son décès, il préparait des transitions, chacune menée de manière nette. Le successeur à l'AIA est Cai Ming-shun. Le poste de CTO de E.SUN Financial avait un adjoint. Le poste de chercheur à l'Academia Sinica a été géré en interne par l'institut par la suite.
 
-Tsai Ming-shun avait plus de vingt ans d’expérience en science des données et transformation numérique dans des multinationales comme SAP, Oracle et Teradata ; il avait rejoint l’équipe préparatoire de l’AIA en 2017 comme directeur des opérations[^20]. À la mort de Chen Shengwei, il travaillait déjà à l’AIA depuis environ trois ans.
+Mais la dernière chose qu'il voulait faire, ce « cours de programmation gratuit pour tous » mentionné lors de cet appel, n'a pas pu être transmis à qui que ce soit.
 
-Ce fut un double test de résistance : « mort du fondateur + défi d’institutionnalisation ».
+## Les trois années sans lui
 
-La norme des ONG technologiques est la suivante : le fondateur meurt, l’organisation se désagrège progressivement en deux ans, parce que le charisme personnel du fondateur est la colle de l’organisation. L’AIA suivit le chemin inverse : en mai 2024, elle dépassa 10 000 anciens élèves et plus de 2 000 entreprises partenaires cumulées[^11].
+Le 31 août 2020, la structure juridique d'AIA est réorganisée[^12].
 
-Mais entre 2020 et 2024, la structure des cours de l’AIA changea fondamentalement.
+La Fondation pour le développement de l'écosystème technologique met fin au contrat de délégation avec la Fondation de la technologie de l'intelligence artificielle. Cai Ming-shun devient directeur général par intérim d'AIA, Liao Hong-yuan directeur général par intérim de la fondation.
 
-**L’AIA de 2018** : camp intensif de douze semaines, présence physique à 100 %, programme de leaders techniques à 48 000 NT$, programme pour managers à 36 000 NT$, insistance sur le fait que « les projets de fin de formation sont liés à de vrais problèmes d’entreprise ».
+Cai Ming-shun cumule plus de 20 ans d'expérience en science des données et transformation numérique au sein d'entreprises internationales telles que SAP, Oracle et Teradata. Il a rejoint l'équipe de préparation d'AIA en 2017 en tant que directeur des opérations[^20]. Au moment du décès de Chen Sheng-wei, il travaillait déjà chez AIA depuis environ trois ans.
 
-**L’AIA de 2024** : un « cours d’initiation pratique aux grands modèles de langage » de trois jours et vingt et une heures, à 17 000 NT$ (15 300 NT$ avec réduction pour les anciens élèves). Le contenu couvrait Gemini, ChatGPT, Ollama, Make, NotebookLM, Gamma, Suno et l’API Line[^16].
+C'est un double test de résistance : « disparition du founder + défi de l'institutionnalisation ».
 
-Passer d’un « camp intensif d’élite » à un « cours court sur les LLM » relève d’un changement d’époque. Après le lancement de ChatGPT à la fin de 2022, la structure mondiale de la demande en formation IA changea fortement. L’AIA dut ajouter des modules LLM, rendre les frais plus abordables pour davantage de personnes, et permettre à des professionnels sans formation d’ingénieur de suivre eux aussi les cours.
+La norme pour les ONG technologiques veut que : le founder disparaît, l'organisation se délite progressivement en deux ans, car le charisme personnel du founder est la colle de l'organisation. AIA fait l'inverse : en mai 2024, les alumni dépassent 10 000 personnes, le nombre cumulé d'entreprises partenaires dépasse 2 000[^11].
 
-Cette évolution déclencha aussi en interne la discussion suivante : « Sommes-nous encore la même AIA ? » La communauté des anciens élèves se divisa entre ceux qui estimaient qu’il fallait « prolonger la philosophie de Chen Shengwei donnant la priorité à l’application » et ceux qui pensaient que « l’ère des LLM est arrivée et que le modèle de l’AIA doit se transformer entièrement »[^11].
+Mais entre 2020 et 2024, la structure des cours a subi un changement fondamental.
+
+**AIA 2018** : camp intensif de 12 semaines, présence physique 100 % obligatoire, classe « leaders techniques » NT$48 000, classe « cadres » NT$36 000, accent mis sur « le projet de fin d'études lié à de vrais sujets d'entreprise ».
+
+**AIA 2024** : « cours d'initiation à la mise en œuvre des grands modèles de langage » de 3 jours / 21 heures, frais de scolarité NT$17 000 (tarif alumni NT$15 300). Contenu couvrant Gemini, ChatGPT, Ollama, Make, NotebookLM, Gamma, Suno, Line API[^16].
+
+Le passage de la « classe intensive d'élite » au « cours court sur les LLM » reflète l'évolution de l'époque. Fin 2022, le lancement de ChatGPT a profondément modifié la structure de la demande mondiale en éducation à l'IA. AIA a dû ajouter des modules LLM, rendre les frais accessibles à plus de gens, permettre aux professionnels non ingénieurs de suivre les cours.
+
+Cette évolution a aussi suscité en interne la discussion « sommes-nous encore la même AIA ». La communauté alumni se divise sur « faut-il prolonger la philosophie "application d'abord" de Chen Sheng-wei » ou « l'ère LLM est arrivée, le modèle AIA doit se transformer en profondeur »[^11].
 
 > ⚠️ **Point de vue controversé**
 >
-> L’AIA n’est pas une success story pour tous ses anciens élèves.
+> AIA n'est pas une success story pour tous les alumni.
 >
-> Le 16 novembre 2018, un élève du programme de Taichung de l’AIA publia un retour d’expérience sur le forum PTT Soft_Job (nom d’utilisateur : name0625). Il y listait plusieurs critiques concrètes :
+> Le 16 novembre 2018, sur le forum PTT Soft_Job, un étudiant de la classe de Taichung (nom d'utilisateur name0625) publie un retour d'expérience. Il énumère plusieurs critiques précises :
 >
-> « **Dans l’ensemble, impression sur les supports pédagogiques : pas de systématicité, pas de sérieux. Cela ressemble beaucoup à un exposé de groupe à l’université, où chacun fait sa partie de son côté, sans intégration.** »
+> « **Dans l'ensemble, les supports : pas de systématicité, pas de sincérité. Ça ressemble à un travail de groupe universitaire, chacun fait sa partie de son côté, pas d'intégration. ** »
 >
-> « **Les vidéos sont principalement en 720p ; pour des segments différents d’une même journée, le volume varie énormément, et certains oublient leurs mots pendant plus de cinq secondes.** »
+> « ** (Vidéos) principalement 720p, volume très inégal entre segments d'une même journée, certains oublient leur texte pendant plus de cinq secondes. ** »
 >
-> « **Que ceux qui ont regardé les vidéos de cours selon le calendrier lèvent la main ? À vue d’œil, moins de la moitié ; que ceux qui ont terminé les exercices pratiques selon le calendrier lèvent la main ? À vue d’œil, presque personne.** »
+> « ** Lever de main pour ceux qui ont regardé les vidéos selon le rythme ? À vue de nez, moins de la moitié ; lever de main pour ceux qui ont fait les exercices pratiques selon le rythme ? À vue de nez, presque personne. ** »
 >
-> « **Pour la mise en relation avec l’emploi du programme de Taichung, les assistants avaient déjà prévenu qu’il n’y aurait probablement pas beaucoup d’entreprises qui viendraient voir.** »[^B6]
+> « ** Pour la mise en relation emploi de la classe de Taichung, les assistants ont déjà mis les mains en avant en disant qu'il ne faudrait pas s'attendre à beaucoup d'entreprises. ** »[^B6]
 >
-> Cette critique révèle l’autre face de l’AIA, au-delà de la première cohorte du campus principal de Taipei : les premiers programmes des antennes régionales disposaient d’enseignants moins solides que le campus principal, de ressources de mise en relation professionnelle plus faibles, et de vidéos de cours préenregistrées plutôt que de cours sur place ; leur expérience différait fortement de la structure initiale du programme de Taipei, « intensif en présentiel + présence à 100 % ».
+> Cette critique montre l'autre face d'AIA hors de la première promotion du campus principal de Taipei : le corps enseignant des antennes en début de parcours n'égale pas celui du campus principal, les ressources de mise en relation à la fin des études non plus, les vidéos de cours sont préenregistrées et non en direct, l'expérience structurelle diffère fortement du « présentiel intensif + présence 100 % » de la classe originale de Taipei.
 >
-> Le récit officiel de l’AIA ne mentionne pas spontanément cette critique. Mais lorsqu’on dit que la chaîne de production de talents IA de Taïwan a été « portée à bout de bras par Chen Shengwei », il faut aussi reconnaître ceci : les écarts de qualité introduits par le système d’antennes régionales, la mise en ligne et l’expansion d’échelle constituent une discussion interne impossible à éviter dans le fonctionnement réel de cette chaîne de talents.
+> Le récit officiel d'AIA ne mentionne pas spontanément cette critique. Mais si l'on dit que la chaîne de production des talents taïwanais en IA a été « soutenue par Chen Sheng-wei seul », il faut aussi reconnaître : les écarts de qualité engendrés par le système d'antennes, la mise en ligne, l'expansion à grande échelle, font partie des discussions internes inévitables de cette chaîne de production en fonctionnement réel.
 
-Le 8 octobre 2021, l’AIA lança officiellement le « **Chen Shengwei Memorial Lecture** » créé en sa mémoire[^17]. Le premier intervenant fut Chien Lee-feng, ancien directeur général de Google Taïwan, sur le thème « Trends of AI: An Industrial Perspective ».
+Le 8 octobre 2021, la **« Conférence commémorative Chen Sheng-wei »** créée par AIA est officiellement lancée[^17]. Le premier conférencier est Chien Li-feng, ancien directeur général de Google Taïwan, sur le thème « Trends of AI: An Industrial Perspective ».
 
-Ho Chia-chen déclara lors de la cérémonie de lancement :
+He Jia-zhen déclare lors de la cérémonie d'ouverture :
 
-> « **Je remercie profondément la “Fondation de l’École taïwanaise d’intelligence artificielle” d’avoir créé le [Chen Shengwei Memorial Lecture]. C’est une reconnaissance positive de Shengwei ; cela prolongera aussi son enthousiasme et continuera à accomplir son vœu de faire en sorte que Taïwan soit vu par le monde grâce à l’IA.** »[^B7]
+> « **Un grand merci à la "Fondation de l'École d'intelligence artificielle de Taïwan" d'avoir créé la [Conférence commémorative Chen Sheng-wei]. C'est une reconnaissance positive pour Sheng-wei, qui permettra de prolonger sa passion, de continuer à réaliser le vœu que Taïwan soit vu par le monde grâce à l'IA. ** »[^B7]
 
-Tsai Ming-shun reçut en 2025 la distinction de la 18e édition des « 100MVP Managers » du magazine _Manager Today_[^20]. Les 27 et 28 septembre 2024, l’AIA organisa à l’Academia Sinica la « Taiwan Artificial Intelligence Conference »[^19], prolongeant la lignée de la « Taiwan Data Science Conference » que Chen Shengwei avait fondée lui-même en 2014.
+Cai Ming-shun reçoit en 2025 le prix « 100MVP Manager » de la 18ᵉ édition du 《經理人月刊》[^20]. Les 27 et 28 septembre 2024, AIA organise à l'Academia Sinica la « Conférence annuelle taiwanaise d'intelligence artificielle »[^19], prolongeant la lignée de la « Conférence annuelle taiwanaise de science des données » que Chen Sheng-wei avait lui-même fondée en 2014.
 
-De 2018 à 2026, l’AIA a parcouru huit années. Chen Shengwei n’en a vécu que les trois premières.
+De 2018 à 2026, AIA a parcouru huit ans. Chen Sheng-wei n'y était que les trois premières années.
 
-## Le cours qui n'a pas vu le jour
+## Ce cours qui n'a jamais vu le jour
 
-Le 27 mars 2020, personne n'a entendu jusqu'au bout la vision exposée lors de cet appel.
+Personne n'a écouté l'intégralité de la vision lors de cet appel du 27 mars 2020.
 
-Deux jours plus tard, Chen Shengwei fait une chute. Treize jours plus tard, il s'éteint. Le cours de programmation gratuit pour tous qu'il voulait lancer n'a pas vu le jour.
+Deux jours plus tard, Chen Sheng-wei a fait une chute. Treize jours plus tard, il est décédé. Le cours de programmation gratuit pour tous qu'il voulait créer n'a jamais vu le jour.
 
-Mais en mai 2024, le nombre d'anciens élèves de l'AIA dépasse les dix mille. Lors de sa conférence de presse, Tsai Ming-shun n'a plus besoin de répéter cette phrase que Chen Shengwei avait toujours en bouche : « Pour que le monde voie Taïwan, qu'il pense à l'IA. » Au cours des six dernières années, cette phrase s'est inscrite dans les CV de plus de dix mille ingénieurs de l'industrie technologique taïwanaise.
+Mais en mai 2024, le nombre d'alumni de l'AIA a dépassé les dix mille. Lors de la conférence de presse, Tsai Ming-shun n'a plus eu besoin de répéter cette phrase que Chen Sheng-wei avait toujours en bouche : « Pour que le monde voie Taïwan, qu'il pense à l'IA. » Au cours des six dernières années, cette phrase s'est inscrite dans les CV de l'industrie technologique taïwanaise à travers plus de dix mille ingénieurs.
 
-L'AIA est passée d'un bootcamp intensif à temps plein de 12 semaines à 48 000 NT$, à un cours court sur les LLM de 3 jours et 21 heures à 17 000 NT$. De la formation de leaders techniques à la diffusion dans l'industrie. D'une école à une chaîne de production de talents.
+L'AIA est passé d'un bootcamp intensif à temps plein de 12 semaines à NT$48 000 à un cours court sur les LLM de 3 jours et 21 heures à NT$17 000. Des leaders techniques à la diffusion dans l'industrie. D'une école à une chaîne de production de talents.
 
-Le « cours de programmation gratuit pour tous » que voulait Chen Shengwei n'a pas vu le jour. Mais l'autre chose qu'il souhaitait — « que personne ne prenne de retard faute de trouver des talents en IA » — s'est réalisée à moitié.
+Le « cours de programmation gratuit pour tous » que voulait Chen Sheng-wei n'a pas vu le jour. Mais l'autre chose qu'il voulait — « que personne ne prenne de retard faute de trouver des talents en IA » — est à moitié réalisée.
 
-Cet appel inachevé a laissé une ambition inachevée, et dix mille personnes qui ont un jour pris place dans les salles de classe de l'AIA.
+Cet appel inachevé laisse une volonté inaboutie, et dix mille personnes qui ont un jour pris place dans les salles de classe de l'AIA.
 
 ---
 
-**Pour aller plus loin** :
+**Lectures complémentaires** :
 
-- [L'essor de la nation-île de l'IA : développement et stratégie future de l'intelligence artificielle à Taïwan](/fr/technology/ai-development-in-taiwan) — Récit panoramique du cadre politique de l'IA à Taïwan, de la disposition industrielle, des cinq domaines stratégiques et de la coopération internationale
+- [L'essor de l'île de l'IA : développement et stratégie future de l'intelligence artificielle à Taïwan](/fr/technology/ai-development-in-taiwan) — Panorama narratif du cadre politique de l'IA à Taïwan, de la disposition industrielle, des cinq domaines stratégiques et de la coopération internationale
 - [L'IA au quotidien à Taïwan](/fr/technology/taiwan-ai-in-daily-life) — Mise en œuvre concrète de l'IA dans les scènes quotidiennes taïwanaises : supérettes, hôpitaux, champs, salles de classe
-- [L'industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — Comment les ingénieurs en IA formés en huit ans par l'AIA se reconnectent à l'écosystème ICT existant de la puissance des semi-conducteurs
-- [Pourquoi Taïwan a besoin de sa propre base de connaissances](/fr/about/why-taiwan-needs-its-own-knowledge-base) — Le doyen Tsai Ming-shun affirme que les données locales taïwanaises représentent moins de 0,1 % du web ; cet article quantifie ce déficit et discute de qui doit en écrire la version
+- [Industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — Comment les ingénieurs en IA formés en huit ans par l'AIA réintègrent l'écosystème ICT existant de la puissance des semi-conducteurs
+- [Pourquoi Taïwan a besoin de sa propre base de connaissances](/fr/about/why-taiwan-needs-its-own-knowledge-base) — Le doyen Tsai Ming-shun affirme que les données locales taïwanaises représentent moins de 0,1 % du monde en ligne ; cet article quantifie ce déficit et discute de qui doit en écrire la version
 
 ## Sources des images
 
-Cet article utilise trois images sous autorisation publique, toutes mises en cache dans `public/article-images/technology/` afin d’éviter le hotlinking vers les serveurs sources :
+Cet article utilise 3 images sous licence publique, toutes mises en cache dans `public/article-images/technology/` afin d'éviter le hotlinking vers les serveurs sources :
 
-- [Portrait de Chen Shengwei, directeur général (2018)](https://aiacademy.tw/swc/) — Photo : École taïwanaise d’intelligence artificielle, officielle, 2018, fair use editorial commentary on AIA founder portrait
-- [Chen Shengwei en conférence (2018)](https://aiacademy.tw/swc/) — Photo : École taïwanaise d’intelligence artificielle, officielle, période 2018-2019, fair use editorial commentary
-- [Portrait de Chen Shengwei lors d’un entretien avec Global Views Monthly (2020)](https://www.gvm.com.tw/article/72282) — Photo : Chang Chih-chieh / Global Views Monthly, dossier commémoratif du 21 avril 2020, fair use editorial commentary on deceased public figure portrait
+- [Portrait du directeur général Chen Sheng-wei (2018)](https://aiacademy.tw/swc/) — Photo : École d'intelligence artificielle de Taïwan (officiel), 2018, fair use commentaire éditorial sur le portrait du fondateur de l'AIA
+- [Chen Sheng-wei en conférence (2018)](https://aiacademy.tw/swc/) — Photo : École d'intelligence artificielle de Taïwan (officiel), période 2018-2019, fair use commentaire éditorial
+- [Portrait de Chen Sheng-wei pour l'interview de CommonWealth Magazine (2020)](https://www.gvm.com.tw/article/72282) — Photo : Zhang Zhi-jie / CommonWealth Magazine, 21 avril 2020, dossier commémoratif, fair use commentaire éditorial sur le portrait d'une personnalité publique décédée
 
 ---
 
 ## Références
 
-[^1]: [Wikipédia : Chen Shengwei](https://zh.wikipedia.org/zh-tw/陳昇瑋) — article biographique de synthèse, point de départ indexant les faits de base comme l’année de naissance 1976, le parcours d’études et de carrière, et la date de décès du 11 avril 2020.
+[^1]: [Wikipédia : Chen Sheng-wei](https://zh.wikipedia.org/zh-tw/陳昇瑋) — Entrée biographique intégrée, comprenant l'année de naissance 1976, le parcours scolaire et professionnel, la date de décès 2020-04-11, servant de point de départ pour les faits de base.
 
-[^2]: [Central News Agency : décès de Chen Shengwei, directeur général de l’École taïwanaise d’intelligence artificielle](https://www.cna.com.tw/news/firstnews/202004135005.aspx) — nécrologie de la Central News Agency du 13 avril 2020, comprenant les détails du décès : chute en rollers, coma sur le trajet du retour en voiture, hospitalisation et décès.
+[^2]: [CNA : Décès de Chen Sheng-wei, directeur de l'École d'intelligence artificielle de Taïwan](https://www.cna.com.tw/news/firstnews/202004135005.aspx) — Reportage nécrologique de l'Agence centrale de presse du 13 avril 2020, incluant les détails du décès (chute en roller, malaise au volant en rentrant chez lui, transport à l'hôpital, décès).
 
-[^3]: [iThome : l’École taïwanaise d’intelligence artificielle a fait sa rentrée aujourd’hui ; 530 élèves de la première cohorte présents pour quatre mois de formation intensive](https://www.ithome.com.tw/news/120906) — reportage d’iThome du 27 janvier 2018, comprenant les détails de la cérémonie de rentrée, les 530 admis et la structure des programmes de la première cohorte.
+[^3]: [iThome : L'École d'intelligence artificielle de Taïwan ouvre ses portes aujourd'hui, 530 étudiants de la première promotion présents pour quatre mois de formation intensive](https://www.ithome.com.tw/news/120906) — Reportage d'iThome du 27 janvier 2018, incluant les détails de la cérémonie d'ouverture, le nombre de 530 admis, la structure de la première promotion.
 
-[^4]: [AIA : brochure d’admission de la première cohorte du programme de formation des leaders techniques](https://aiacademy.tw/admission-tech-tp1/) — page officielle d’admission de l’École taïwanaise d’intelligence artificielle, comprenant les frais de 48 000 NT$, les douze semaines à plein temps et les cinq matières de l’examen écrit d’entrée.
+[^4]: [AIA : Prospectus de la première session du programme de formation des leaders techniques](https://aiacademy.tw/admission-tech-tp1/) — Page officielle d'admission de l'École d'intelligence artificielle de Taïwan, incluant les frais de scolarité NT$48 000, 12 semaines à temps plein, examen écrit d'entrée en 5 matières, etc.
 
-[^5]: [AIA : brochure d’admission de la première cohorte du programme exécutif de week-end pour managers](https://aiacademy.tw/admission-mgr-tp1/) — page officielle d’admission de l’École taïwanaise d’intelligence artificielle, comprenant les frais de 36 000 NT$, les samedis à plein temps et les 470 candidatures pour 320 admissions.
+[^5]: [AIA : Prospectus de la première session du programme de formation des cadres le week-end](https://aiacademy.tw/admission-mgr-tp1/) — Page officielle d'admission de l'École d'intelligence artificielle de Taïwan, incluant les frais de scolarité NT$36 000, cours le samedi toute la journée, 470 candidats, 320 admis, etc.
 
-[^6]: [Page About en anglais de l’École taïwanaise d’intelligence artificielle](https://en.aiacademy.tw/about/) — présentation officielle en anglais de l’AIA, comprenant la liste des six entreprises cofondatrices et sponsors (Formosa Plastics, Chi Mei, Inventec, Elan Microelectronics, MediaTek, AU Optronics) et le contexte de fondation.
+[^6]: [Page « About » en anglais de l'École d'intelligence artificielle de Taïwan](https://en.aiacademy.tw/about/) — Page de présentation officielle en anglais de l'AIA, listant les six entreprises co-parrains (Formosa Plastics, Chimei, Inventec, Elitegroup, MediaTek, AUO) et le contexte de la création.
 
-[^7]: [CommonWealth Future City : l’intelligence artificielle pour sauver la nation ? Six entreprises cofinancent à hauteur de 180 millions la création de l’École taïwanaise d’intelligence artificielle](https://futurecity.cw.com.tw/article/3368) — reportage approfondi de CommonWealth Future City en 2018, comprenant l’entretien avec Kong Hsiang-Chung, le cas Everest Textile et le processus de visite de plus de dix usines.
+[^7]: [CommonWealth Future Cities : L'IA pour le salut de Taïwan ? Six entreprises investissent 1,8 milliard pour créer l'École d'intelligence artificielle de Taïwan](https://futurecity.cw.com.tw/article/3368) — Reportage approfondi de CommonWealth Future Cities en 2018, incluant une interview de Kung Hsiang-chung, le cas de Hong Yuan Industries, et la visite de dix usines.
 
-[^8]: [Wikipédia : Chen Shengwei (paragraphe complémentaire)](https://zh.wikipedia.org/zh-tw/陳昇瑋) — même source que [^1], complétant les informations sur la Taiwan Data Science Conference de 2014 (jusqu’à 1 800 participants) et la création en 2016 de la Taiwan Data Science Association.
+[^8]: [Wikipédia : Chen Sheng-wei (paragraphe supplémentaire)](https://zh.wikipedia.org/zh-tw/陳昇瑋) — Identique à [^1], complétant le record de la Conférence taïwanaise de science des données 2014 (jusqu'à 1 800 participants) et de la création de l'Association taïwanaise de science des données en 2016.
 
-[^9]: [United Daily News : Joseph N. C. Huang rend hommage à Chen Shengwei](https://udn.com/news/story/7239/4488787) — texte commémoratif publié en avril 2020 par Joseph N. C. Huang, directeur général d’E.SUN Financial Holding, comprenant la nomination de Chen Shengwei en 2018 comme CTO d’E.SUN Financial Holding et d’E.SUN Bank, et l’équipe big data CRV de 80 personnes.
+[^9]: [United Daily News : Huang Nan-chou rend hommage à Chen Sheng-wei](https://udn.com/news/story/7239/4488787) — Article commémoratif d'avril 2020 par Huang Nan-chou, PDG de E.SUN Financial Holdings, incluant l'arrivée de Chen Sheng-wei comme CTO de E.SUN Financial Holdings et E.SUN Bank en 2018, et l'équipe big data CRV de 80 personnes.
 
-[^10]: [Books.com.tw : _L’intelligence artificielle à Taïwan — opportunités et défis de la transformation industrielle_](https://www.books.com.tw/products/0010821934) — ouvrage coécrit par Chen Shengwei et Wen Yi-ling, publié par CommonWealth Magazine le 3 juillet 2019, manifeste écrit de la philosophie de l’AIA.
+[^10]: [Books.com.tw : L'intelligence artificielle à Taïwan — Opportunités et défis de la transformation industrielle](https://www.books.com.tw/products/0010821934) — Co-écrit par Chen Sheng-wei et Wen Yi-ling, publié le 3 juillet 2019 par Commonwealth Publishing Group, manifesto écrit de la philosophie de l'AIA.
 
-[^11]: [Canopi : comment l’École d’intelligence artificielle « résout-elle elle-même ses propres problèmes » ?](https://canopi.tw/tech-and-data/ai-academy/) — entretien approfondi de Canopi avec Tsai Ming-shun et Hou Yi-hsiu en 2024, comprenant les données les plus récentes de mai 2024 : plus de 10 000 anciens élèves et plus de 2 000 entreprises partenaires.
+[^11]: [Canopi : Comment l'École d'intelligence artificielle « résout ses propres problèmes » ?](https://canopi.tw/tech-and-data/ai-academy/) — Interview approfondie de 2024 par Cai Ming-shun et Hou Yi-xiu dans Canopi Lifestyle Magazine, incluant les données de mai 2024 : plus de 10 000 anciens élèves, plus de 2 000 entreprises partenaires.
 
-[^12]: [Annonce de l’AIA : ajustement de la structure de la fondation](https://aiacademy.tw/news-20200831/) — annonce officielle de l’AIA du 31 août 2020, documentant la réorganisation de la structure juridique après la mort de Chen Shengwei, avec Tsai Ming-shun comme directeur général par intérim et Liao Hong-yuan comme directeur général par intérim de la fondation.
+[^12]: [Annonce AIA : Ajustement de la structure de la fondation](https://aiacademy.tw/news-20200831/) — Annonce officielle de l'AIA du 31 août 2020, enregistrant la restructuration de la structure juridique après le décès de Chen Sheng-wei, Cai Ming-shun nommé directeur exécutif par intérim, Liao Hong-yuan nommé directeur exécutif de la fondation par intérim.
 
-[^13]: [Portail du Yuan exécutif : petit pays, grande stratégie IA](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/50a08776-e33a-4be2-a07c-a6e523f5031b) — page officielle de politique publique du Yuan exécutif sur la stratégie quinquennale taïwanaise d’IA annoncée en août 2017 par Chen Liang-Gee, ministre des Sciences et de la Technologie, comprenant l’ampleur budgétaire et l’architecture de politique publique.
+[^13]: [Site web du Yuan exécutif : IA - Grande stratégie pour un petit pays](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/50a08776-e33a-4be2-a07c-a6e523f5031b) — Page officielle d'annonce de politique du Yuan exécutif, le ministre de la Science et de la Technologie Chen Liang-ge a annoncé en août 2017 le plan stratégique quinquennal taïwanais pour l'IA, incluant l'échelle budgétaire et l'architecture politique.
 
-[^14]: [TechNews : la cérémonie de fin de formation de la première cohorte de l’École taïwanaise d’intelligence artificielle approche](https://technews.tw/2018/04/25/aiacademy-firdt-graduation-ceremony/) — article de TechNews du 25 avril 2018, comprenant les détails de préparation de la cérémonie et les résultats du questionnaire auprès des anciens élèves de la première cohorte : 72 % retournés dans leur entreprise d’origine, 15 % ayant trouvé un nouvel emploi, 4 % ayant créé une entreprise.
+[^14]: [TechNews : La cérémonie de remise des diplômes de la première promotion de l'École d'intelligence artificielle de Taïwan approche](https://technews.tw/2018/04/25/aiacademy-firdt-graduation-ceremony/) — Reportage de TechNews du 25 avril 2018, incluant les détails de préparation de la cérémonie, les résultats du questionnaire des anciens élèves de la première promotion (72 % retournent dans leur entreprise d'origine, 15 % trouvent un nouvel emploi, 4 % créent leur entreprise).
 
-[^15]: [Taipei Times: First batch of AI Academy graduates](https://www.taipeitimes.com/News/taiwan/archives/2018/04/29/2003692197) — article en anglais du Taipei Times du 29 avril 2018 sur la cérémonie de fin de formation de la première cohorte, comprenant la présence sur place de MediaTek, AU Optronics, Inventec, Chunghwa Telecom, Cathay Financial Holdings et d’autres entreprises pour recruter.
+[^15]: [Taipei Times : Première promotion de diplômés de l'Académie d'IA](https://www.taipeitimes.com/News/taiwan/archives/2018/04/29/2003692197) — Reportage en anglais du Taipei Times du 29 avril 2018 sur la cérémonie de remise des diplômes de la première promotion, mentionnant la présence d'entreprises telles que MediaTek, AUO, Inventec, Chunghwa Telecom, Cathay Financial pour le recrutement.
 
-[^16]: [AIA : brochure d’admission du cours d’initiation pratique aux grands modèles de langage](https://aiacademy.tw/admission-llma-tp/) — page d’admission 2024 du cours LLM-A d’initiation de l’École taïwanaise d’intelligence artificielle, comprenant les trois jours et vingt et une heures, les frais de 17 000 NT$ et le contenu du cours : Gemini, ChatGPT, Ollama, Make, NotebookLM, Gamma, Suno, Line API.
+[^16]: [AIA : Prospectus d'admission pour le cours d'initiation aux grands modèles de langage](https://aiacademy.tw/admission-llma-tp/) — Page d'inscription 2024 de la classe d'initiation LLM-A de l'École taiwanaise d'intelligence artificielle, incluant 3 jours 21 heures, frais de scolarité NT$17 000 et contenu du cours (Gemini, ChatGPT, Ollama, Make, NotebookLM, Gamma, Suno, Line API).
 
-[^17]: [AIA : lancement du Chen Shengwei Memorial Lecture le 08/10](https://aiacademy.tw/sw1008/) — page officielle de la cérémonie de lancement du Chen Shengwei Memorial Lecture de l’École taïwanaise d’intelligence artificielle, le 8 octobre 2021, comprenant les discours de Ho Chia-chen, Liao Hong-yuan et Chien Lee-feng, ainsi que le thème de la première conférence.
+[^17]: [AIA : Lancement de la conférence commémorative Chen Sheng-wei le 10/08](https://aiacademy.tw/sw1008/) — Page officielle de la cérémonie de lancement de la conférence commémorative Chen Sheng-wei du 8 octobre 2021 de l'École taiwanaise d'intelligence artificielle, incluant les allocutions de He Jia-zhen, Liao Hong-yuan, Jian Li-feng et le thème de la première conférence.
 
-[^18]: [AIA : page de présentation personnelle du directeur général Chen Shengwei](https://aiacademy.tw/swc/) — page officielle de présentation de l’École taïwanaise d’intelligence artificielle, comprenant son parcours d’études et de carrière (informatique à Tsing Hua → doctorat en génie électrique à NTU → chercheur assistant à l’Academia Sinica en 2006-08 → chercheur associé en 2011-01 → chercheur titulaire en 2015-03), plus de 130 articles et ses distinctions.
+[^18]: [AIA : Page de présentation du directeur général Chen Sheng-wei](https://aiacademy.tw/swc/) — Page de présentation officielle de l'École taiwanaise d'intelligence artificielle, incluant le parcours académique et professionnel (NTHU informatique → doctorat en génie électrique NTU → chercheur adjoint Academia Sinica 2006-08 → chercheur associé 2011-01 → chercheur titulaire 2015-03), plus de 130 publications et distinctions.
 
-[^19]: [AIA Taiwan Artificial Intelligence Conference 2024](https://aia.oen.tw/events/2kCHARAQm2ILhBKNrecvRZO2t8l) — page officielle de l’événement organisé par l’AIA les 27 et 28 septembre 2024 à l’Academia Sinica, prolongeant la lignée de la Taiwan Data Science Conference fondée par Chen Shengwei en 2014.
+[^19]: [AIA : Conférence annuelle taiwanaise d'intelligence artificielle 2024](https://aia.oen.tw/events/2kCHARAQm2ILhBKNrecvRZO2t8l) — Page officielle de l'événement de la conférence annuelle taiwanaise d'IA 2024 organisée par l'AIA les 27-28 septembre 2024 à l'Academia Sinica, dans la continuité de la conférence annuelle taiwanaise de science des données fondée par Chen Sheng-wei en 2014.
 
-[^20]: [AIA : Tsai Ming-shun reçoit la distinction des 100MVP Managers 2025, 18e édition](https://aiacademy.tw/2025-100mvp/) — annonce 2025 de l’École taïwanaise d’intelligence artificielle indiquant que Tsai Ming-shun a été honoré par la 18e édition des « 100MVP Managers » de _Manager Today_, avec le contexte de son expérience chez SAP, Oracle et Teradata.
+[^20]: [AIA : Cai Ming-shun reçoit le prix 100MVP Manager de la 18e édition 2025](https://aiacademy.tw/2025-100mvp/) — Annonce 2025 de l'École taiwanaise d'intelligence artificielle : Cai Ming-shun reçoit le prix « 100MVP Manager » de la 18e édition du « Manager Monthly », incluant son parcours chez SAP, Oracle, Teradata.
 
-[^24]: [CommonWealth Magazine : le promoteur de l’IA qui se souciait de Taïwan — deux jours avant son accident, il disait encore avec gravité qu’il voulait faire quelque chose](https://www.cw.com.tw/article/5099846) — dossier commémoratif 2020 de CommonWealth Magazine, documentant l’appel passé par Chen Shengwei à la rédactrice en chef de CommonWealth deux jours avant sa mort, le 27 mars, pour dire qu’il « voulait faire quelque chose » ; le titre et le résumé sont accessibles via les résultats de recherche publics, l’article complet étant partiellement derrière paywall.
+[^24]: [CommonWealth Magazine : Le promoteur de l'IA attaché à Taiwan — deux jours avant son décès, il a déclaré avec gravité vouloir faire une chose](https://www.cw.com.tw/article/5099846) — Reportage commémoratif 2020 de CommonWealth Magazine, relatant les détails de l'appel de Chen Sheng-wei au rédacteur en chef de CommonWealth deux jours avant son décès (27 mars) pour dire « vouloir faire une chose » (titre et résumé accessibles via recherche publique, article complet partiellement paywall).
 
-[^A2]: [Central News Agency : Chen Shengwei stimule la transformation industrielle par l’IA](https://www.cna.com.tw/news/ait/202004130368.aspx) — dossier commémoratif de la Central News Agency du 13 avril 2020, source faisant autorité pour la célèbre phrase du livre _L’intelligence artificielle à Taïwan_ : « les données sont le pétrole de la nouvelle ère ; l’IA est l’électricité de la nouvelle ère ».
+[^A2]: [Central News Agency : Chen Sheng-wei impulse la transformation industrielle par l'IA](https://www.cna.com.tw/news/ait/202004130368.aspx) — Dossier commémoratif du 13 avril 2020 de la Central News Agency, citant comme source autorisée la phrase célèbre de Chen Sheng-wei dans « L'intelligence artificielle à Taiwan » : « Les données sont le pétrole de la nouvelle ère ; l'IA est l'électricité de la nouvelle ère ».
 
-[^A3]: [Central News Agency : Chen Shengwei promeut le développement de l’IA](https://www.cna.com.tw/news/firstnews/202004130323.aspx) — dossier commémoratif de la Central News Agency du 13 avril 2020, comprenant l’autodescription de Chen Shengwei comme « informaticien entré dans le monde, missionnaire de la technologie ».
+[^A3]: [Central News Agency : Chen Sheng-wei promeut le développement de l'IA](https://www.cna.com.tw/news/firstnews/202004130323.aspx) — Dossier commémoratif du 13 avril 2020 de la Central News Agency, incluant l'auto-description originale de Chen Sheng-wei : « informaticien engagé dans le monde, évangéliste de la technologie ».
 
-[^A4]: [Central News Agency : Chen Shengwei promeut le développement de l’IA (passage sur la responsabilité des universitaires)](https://www.cna.com.tw/news/firstnews/202004130323.aspx) — même source que [^A3], dossier commémoratif 2020 de la Central News Agency, recueillant plus avant le point de vue de Chen Shengwei selon lequel « il suffit qu’un universitaire accepte de faire un pas en avant ».
+[^A4]: [Central News Agency : Chen Sheng-wei promeut le développement de l'IA (segment sur la responsabilité des universitaires)](https://www.cna.com.tw/news/firstnews/202004130323.aspx) — Identique à [^A3], le dossier commémoratif 2020 de la Central News Agency inclut en outre l'avis personnel de Chen Sheng-wei : « Les universitaires n'ont qu'à faire un pas en avant ».
 
-[^A5]: [CommonWealth Future City : se souvenir de Chen Shengwei](https://futurecity.cw.com.tw/article/1838) — dossier commémoratif 2020 de CommonWealth Future City consacré à Chen Shengwei, recueillant la vision qu’il répétait souvent : « faire en sorte que, lorsque le monde voit Taïwan, il pense à l’IA ».
+[^A5]: [CommonWealth Future Cities : Se souvenir de Chen Sheng-wei](https://futurecity.cw.com.tw/article/1838) — Dossier commémoratif 2020 de CommonWealth Future Cities sur Chen Sheng-wei, reprenant sa vision répétée : « Pour que le monde voie Taiwan, qu'il pense à l'IA ».
 
-[^A6]: [CommonWealth Future City : se souvenir de Chen Shengwei et de la communauté taïwanaise de science des données (passage rapporté par Ho Chia-chen)](https://futurecity.cw.com.tw/article/1838) — dossier commémoratif 2020 de CommonWealth Future City consacré à Chen Shengwei, où Ho Chia-chen rapporte, dans son discours de clôture de la conférence de science des données 2020, les mots que Chen Shengwei lui avait dits une nuit de la fin 2013.
+[^A6]: [CommonWealth Future Cities : Se souvenir de Chen Sheng-wei et de la communauté taiwanaise de science des données (segment rapporté par He Jia-zhen)](https://futurecity.cw.com.tw/article/1838) — Dossier commémoratif 2020 de CommonWealth Future Cities sur Chen Sheng-wei, où He Jia-zhen, lors du discours de clôture de la conférence annuelle de science des données 2020, rapporte les paroles que Chen Sheng-wei lui a dites une nuit de fin 2013.
 
-[^A7]: [Centre des anciens élèves de Tsing Hua : entretien avec Chen Shengwei](https://alumni.site.nthu.edu.tw/p/404-1346-174017.php) — entretien du centre des anciens élèves de l’Université nationale Tsing Hua, où Chen Shengwei explique lui-même son état d’esprit initial lorsqu’il accepta en 2018 le poste de CTO d’E.SUN Financial Holding : « pour être franc, j’étais un peu réticent ».
+[^A7]: [Centre des alumni de Tsinghua : Entretien avec Chen Sheng-wei](https://alumni.site.nthu.edu.tw/p/404-1346-174017.php) — Entretien du Centre des alumni de l'Université Tsinghua, où Chen Sheng-wei exprime son état d'esprit initial upon accepting le poste de CTO de E.SUN Financial Holding en 2018 (« Honnêtement, j'étais un peu réticent »).
 
-[^A8]: [Right Plus : Yu Meng-hsun rend hommage à Chen Shengwei](https://rightplus.org/2020/04/14/59/) — texte commémoratif publié par l’association Right Plus le 14 avril 2020, documentant le style de parole direct et net de Chen Shengwei lorsqu’il transmit à Yu Meng-hsun la plateforme de redevabilité publique.
+[^A8]: [Right Plus : Yu Meng-xun rend hommage à Chen Sheng-wei](https://rightplus.org/2020/04/14/59/) — Texte commémoratif du 14 avril 2020 de l'association Right Plus, relatant le style direct et net de Chen Sheng-wei lorsqu'il a transmis la plateforme de responsabilité sociale à Yu Meng-xun.
 
-[^B1]: [Global Views Monthly : dossier commémoratif sur la mort de Chen Shengwei](https://www.gvm.com.tw/article/72282) — dossier commémoratif de Global Views Monthly du 21 avril 2020, comprenant la phrase originale du président de l’Academia Sinica, James C. Liao, selon laquelle Chen Shengwei était « un talent comme on n’en rencontre pas en cent ans », ainsi que le contexte de la commémoration en ligne.
+[^B1]: [Global Views Monthly : Dossier commémoratif du décès de Chen Sheng-wei](https://www.gvm.com.tw/article/72282) — Dossier commémoratif du 21 avril 2020 de Global Views Monthly, incluant la citation originale du président de l'Academia Sinica Liao Jun-zhi : « Un talent qu'on ne voit qu'une fois par siècle » et le contexte de la cérémonie de commémoration en ligne.
 
-[^B2]: [Global Views Monthly : Joseph N. C. Huang parle de Chen Shengwei](https://www.gvm.com.tw/article/72284) — dossier commémoratif de Global Views Monthly d’avril 2020, où Joseph N. C. Huang, directeur général d’E.SUN Financial Holding, rapporte les phrases favorites de Chen Shengwei.
+[^B2]: [Global Views Monthly : Huang Nan-zhou évoque Chen Sheng-wei](https://www.gvm.com.tw/article/72284) — Dossier commémoratif d'avril 2020 de Global Views Monthly, où le PDG de E.SUN Financial Holding Huang Nan-zhou rapporte le leitmotiv de Chen Sheng-wei.
 
-[^B3]: [Central News Agency : Chen Mei-ling rend hommage à Chen Shengwei](https://www.cna.com.tw/news/ait/202004130368.aspx) — dossier commémoratif 2020 de la Central News Agency, recueillant le point de vue de l’ancienne ministre du Conseil national du développement Chen Mei-ling sur Chen Shengwei : « il n’attend pas que le gouvernement fournisse des ressources ; il crée lui-même des ressources ».
+[^B3]: [CNA : Chen Mei-ling rend hommage à Chen Sheng-wei](https://www.cna.com.tw/news/ait/202004130368.aspx) — Reportage commémoratif de la CNA en 2020, reprenant le point de vue de l'ancienne ministre du Conseil national de développement Chen Mei-ling rendant hommage à Chen Sheng-wei : « Ne pas attendre que le gouvernement donne des ressources, mais les créer soi-même ».
 
-[^B4]: [CommonWealth Future City : entretien avec Kong Hsiang-Chung (passage sur Everest Textile)](https://futurecity.cw.com.tw/article/3368) — même source que [^7], reportage approfondi 2018 de CommonWealth Future City documentant le souvenir de Kong Hsiang-Chung sur le point de départ de la collaboration avec Everest Textile.
+[^B4]: [CommonWealth Future Cities : Entretien avec Kong Xiang-zhong (segment Hongyuan Industry)](https://futurecity.cw.com.tw/article/3368) — Identique à [^7], reportage approfondi de CommonWealth Future Cities en 2018 relatant les souvenirs de Kong Xiang-zhong sur le point de départ de la coopération avec Hongyuan Industry.
 
-[^B5]: [Page de témoignages d’élèves de l’AIA](https://aiacademy.tw/student/) — page officielle de témoignages d’élèves de l’École taïwanaise d’intelligence artificielle, recueillant le retour d’expérience de Chen Yen-chin (AT071039), élève de la première cohorte du programme de formation des leaders techniques, y compris la métaphore de « l’académie militaire de l’IA ».
+[^B5]: [Page des témoignages d'élèves de l'AIA](https://aiacademy.tw/student/) — Page officielle des témoignages d'élèves de l'École d'intelligence artificielle de Taïwan, incluant le témoignage de fin de formation de Chen Yan-qin (AT071039), élève de la première promotion du programme de formation des leaders techniques, avec la métaphore de « l'académie militaire de l'IA ».
 
-[^B6]: [PTT Soft_Job : retour d’expérience d’un élève du programme AIA de Taichung](https://www.ptt.cc/bbs/Soft_Job/M.1542379875.A.DE5.html) — témoignage publié le 16 novembre 2018 par l’internaute name0625 sur le forum PTT Soft_Job au sujet du programme de Taichung de l’AIA, comprenant des critiques concrètes sur l’intégration des supports pédagogiques, la qualité des vidéos et les ressources de mise en relation professionnelle.
+[^B6]: [PTT Soft_Job : Témoignage d'un élève de la classe de Taichung de l'AIA](https://www.ptt.cc/bbs/Soft_Job/M.1542379875.A.DE5.html) — Témoignage d'un élève de la classe de Taichung de l'AIA publié le 16 novembre 2018 par l'utilisateur name0625 sur le forum PTT Soft_Job, incluant une critique concrète sur l'intégration du programme, la qualité des vidéos et les ressources de mise en relation pour l'emploi.
 
-[^B7]: [Cérémonie de lancement du Chen Shengwei Memorial Lecture de l’AIA : discours de Ho Chia-chen](https://aiacademy.tw/sw1008/) — même source que [^17], page officielle de la cérémonie de lancement du mémorial de l’AIA recueillant le texte du discours prononcé par Ho Chia-chen le 8 octobre 2021.
+[^B7]: [Cérémonie de lancement de la conférence commémorative de l'AIA : Allocution de He Jia-zhen](https://aiacademy.tw/sw1008/) — Identique à [^17], la page officielle de la cérémonie de lancement de la conférence commémorative de l'AIA reproduit l'allocution originale de He Jia-zhen du 8 octobre 2021.
 
-[^B8]: [Central News Agency : Yen Tze-ya rend hommage à Chen Shengwei](https://www.cna.com.tw/news/firstnews/202004130323.aspx) — dossier commémoratif 2020 de la Central News Agency citant l’observation de l’écrivaine Yen Tze-ya sur Chen Shengwei : « il aurait clairement pu gagner beaucoup d’argent, mais voulait make a difference ».
+[^B8]: [CNA : Yan Ze-ya rend hommage à Chen Sheng-wei](https://www.cna.com.tw/news/firstnews/202004130323.aspx) — Reportage commémoratif de la CNA en 2020 citant l'observation de l'écrivaine Yan Ze-ya sur Chen Sheng-wei : « Il pouvait clairement gagner beaucoup d'argent, mais il veut faire la différence ».
 
-[^B9]: [Central News Agency : Lin I-ping parle de Chen Shengwei](https://www.cna.com.tw/news/firstnews/202004130323.aspx) — dossier commémoratif 2020 de la Central News Agency recueillant le souvenir du professeur Lin I-ping, professeur titulaire à vie en informatique à l’Université nationale Chiao Tung : « je l’avais encore rencontré la semaine précédente pour discuter d’une collaboration ».
+[^B9]: [CNA : Lin Yi-ping évoque Chen Sheng-wei](https://www.cna.com.tw/news/firstnews/202004130323.aspx) — Reportage commémoratif de la CNA en 2020 incluant le souvenir du professeur Lin Yi-ping (professeur titulaire à vie en informatique de l'Université Chiao Tung) : « Je l'ai encore rencontré la semaine dernière pour discuter d'une collaboration ».
 
-[^46]: [Korea Herald: South Korea aims to nurture 11,000 AI experts by 2027](https://www.koreaherald.com/article/10612847) — article du Korea Herald de 2024, comprenant le contexte politique de la Corée du Sud, qui avait achevé en 2018 la compilation nationale de manuels d’IA, défini 9 grandes stratégies et 100 actions, ainsi que l’objectif de formation de talents à l’horizon 2027.
+[^46]: [Korea Herald : La Corée du Sud vise à former 11 000 experts en IA d'ici 2027](https://www.koreaherald.com/article/10612847) — Reportage du Korea Herald en 2024, incluant le contexte politique de la Corée du Sud avec l'achèvement en 2018 de la compilation du manuel national d'IA, les 9 grandes stratégies et 100 actions, ainsi que l'objectif de formation de talents pour 2027.
