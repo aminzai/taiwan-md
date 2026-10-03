@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-04T06:02:33+08:00",
-    "zhCommitHead": "e1b68aee6",
+    "lastUpdated": "2026-10-04T06:09:06+08:00",
+    "zhCommitHead": "081cfc2b5",
     "totalZh": 1125,
     "activeLanguages": [
       "en",
@@ -28,8 +28,8 @@
       },
       "ja": {
         "total_zh": 1125,
-        "fresh": 1121,
-        "stale": 4,
+        "fresh": 1122,
+        "stale": 3,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -44,8 +44,8 @@
       },
       "es": {
         "total_zh": 1125,
-        "fresh": 1123,
-        "stale": 2,
+        "fresh": 1125,
+        "stale": 0,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -60,8 +60,8 @@
       },
       "vi": {
         "total_zh": 1125,
-        "fresh": 1117,
-        "stale": 8,
+        "fresh": 1118,
+        "stale": 7,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -92,8 +92,8 @@
       },
       "ar": {
         "total_zh": 1125,
-        "fresh": 1122,
-        "stale": 3,
+        "fresh": 1123,
+        "stale": 2,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -15138,18 +15138,18 @@
         "es": {
           "path": "es/Economy/delta-electronics-taiwan-power-giant.md",
           "translatedFrom": "Economy/台灣企業：台達電子.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:731abae76b18888c",
-          "sourceBodyHash": "sha256:5afb6209c3e31868",
-          "translatedAt": "2026-05-01T22:19:10+08:00",
+          "sourceCommitSha": "bf0ce371e",
+          "sourceContentHash": "sha256:0c0aec93dc48d894",
+          "sourceBodyHash": "sha256:85c567c76ec730ad",
+          "translatedAt": "2026-10-04T05:18:00+08:00",
           "translationLastCommit": "4a07538f",
           "translationLastModified": "2026-07-25T10:29:52+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 18227,
+          "footnoteDefs": 20,
+          "bytes": 25103,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (20→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Economy/delta-electronics-taiwan-power-giant.md",
@@ -26922,8 +26922,8 @@
           "sourceContentHash": "sha256:36a555145d356c00",
           "sourceBodyHash": "sha256:9929570d1f524d80",
           "translatedAt": "2026-10-03T20:15:37.337958+00:00",
-          "translationLastCommit": "84edc8ae",
-          "translationLastModified": "2026-09-10T02:51:47+08:00",
+          "translationLastCommit": "081cfc2b",
+          "translationLastModified": "2026-10-04T06:02:33+08:00",
           "inferred": false,
           "footnoteDefs": 41,
           "bytes": 51614,
@@ -27534,8 +27534,8 @@
           "sourceContentHash": "sha256:f80d5de0dc1467d4",
           "sourceBodyHash": "sha256:5ac3c1dc79dee79a",
           "translatedAt": "2026-10-03T20:53:00.684513+00:00",
-          "translationLastCommit": "c64976e8",
-          "translationLastModified": "2026-09-22T01:09:03+08:00",
+          "translationLastCommit": "081cfc2b",
+          "translationLastModified": "2026-10-04T06:02:33+08:00",
           "inferred": false,
           "footnoteDefs": 38,
           "bytes": 44734,
@@ -36930,18 +36930,18 @@
         "ja": {
           "path": "ja/Technology/taiwan-cybersecurity-industry-development.md",
           "translatedFrom": "Technology/台灣資安產業發展.md",
-          "sourceCommitSha": "d6e87d07",
-          "sourceContentHash": "sha256:2d7d8b8a52c2b0ff",
-          "sourceBodyHash": "sha256:11c4d3b5ca02c812",
-          "translatedAt": "2026-05-17T06:35:00Z",
+          "sourceCommitSha": "b0b668075",
+          "sourceContentHash": "sha256:b8cab3d7189be94d",
+          "sourceBodyHash": "sha256:a74e3ddc66982d98",
+          "translatedAt": "2026-10-04T05:18:00+08:00",
           "translationLastCommit": "caa10522",
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
-          "footnoteDefs": 9,
-          "bytes": 24813,
+          "footnoteDefs": 15,
+          "bytes": 28667,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (15→9)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Technology/taiwan-cybersecurity-industry-development.md",
@@ -36994,18 +36994,18 @@
         "vi": {
           "path": "vi/Technology/taiwan-cybersecurity-industry-development.md",
           "translatedFrom": "Technology/台灣資安產業發展.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:2d7d8b8a52c2b0ff",
-          "sourceBodyHash": "sha256:11c4d3b5ca02c812",
-          "translatedAt": "2026-08-09T11:16:34+08:00",
+          "sourceCommitSha": "b0b668075",
+          "sourceContentHash": "sha256:b8cab3d7189be94d",
+          "sourceBodyHash": "sha256:a74e3ddc66982d98",
+          "translatedAt": "2026-10-04T05:18:00+08:00",
           "translationLastCommit": "5284bfd6",
           "translationLastModified": "2026-08-09T12:11:50+08:00",
           "inferred": false,
-          "footnoteDefs": 9,
-          "bytes": 26945,
+          "footnoteDefs": 15,
+          "bytes": 30546,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (15→9)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Technology/taiwan-cybersecurity-industry-development.md",
@@ -37058,18 +37058,18 @@
         "ar": {
           "path": "ar/Technology/taiwan-cybersecurity-industry-development.md",
           "translatedFrom": "Technology/台灣資安產業發展.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:2d7d8b8a52c2b0ff",
-          "sourceBodyHash": "sha256:11c4d3b5ca02c812",
-          "translatedAt": "2026-07-26T21:33:28+08:00",
+          "sourceCommitSha": "b0b668075",
+          "sourceContentHash": "sha256:b8cab3d7189be94d",
+          "sourceBodyHash": "sha256:a74e3ddc66982d98",
+          "translatedAt": "2026-10-04T05:18:01+08:00",
           "translationLastCommit": "2a6e2d13",
           "translationLastModified": "2026-07-27T00:47:17+08:00",
           "inferred": false,
-          "footnoteDefs": 9,
-          "bytes": 33368,
+          "footnoteDefs": 15,
+          "bytes": 36001,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (15→9)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Technology/taiwan-cybersecurity-industry-development.md",
@@ -102822,18 +102822,18 @@
         "es": {
           "path": "es/People/lai-ching-te.md",
           "translatedFrom": "People/賴清德.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:e9ba487782481314",
-          "sourceBodyHash": "sha256:7455a72c92fc69c9",
-          "translatedAt": "2026-05-20T05:08:32+08:00",
+          "sourceCommitSha": "43e9e1c7e",
+          "sourceContentHash": "sha256:5933733fa0ffe284",
+          "sourceBodyHash": "sha256:759fc6aa29cdf9f0",
+          "translatedAt": "2026-10-04T05:18:00+08:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
-          "footnoteDefs": 7,
-          "bytes": 20872,
+          "footnoteDefs": 12,
+          "bytes": 22787,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (12→7)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/People/lai-ching-te.md",
@@ -102890,8 +102890,8 @@
           "sourceContentHash": "sha256:5933733fa0ffe284",
           "sourceBodyHash": "sha256:759fc6aa29cdf9f0",
           "translatedAt": "2026-10-04T05:18:01+08:00",
-          "translationLastCommit": "beb66999",
-          "translationLastModified": "2026-07-27T19:05:03+08:00",
+          "translationLastCommit": "081cfc2b",
+          "translationLastModified": "2026-10-04T06:02:33+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "bytes": 22133,
