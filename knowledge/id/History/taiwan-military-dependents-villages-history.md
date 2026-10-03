@@ -1,204 +1,230 @@
 ---
-title: 'Sejarah Perkampungan Militer Taiwan'
-description: 'Dari Tentara Terbuang di Myanmar ke Kerajaan Pagar Bambu, Bagaimana Migrasi Besar 1,2 Juta Orang Mendefinisikan Ulang "Rumah"'
+title: 'Sejarah Kampung Perangko Taiwan'
+description: 'Dari pasukan terpencil Myanmar hingga kerajaan pembatas bambu, bagaimana 1,2 juta orang pindah besar mengubah konsep "rumah"'
 date: 2026-03-22
-author: 'Taiwan.md Contributors'
 category: 'History'
-subcategory: '社會與日常史'
 tags:
   [
-    'Kampung Militer',
-    'Pendatang dari Provinsi Luar',
-    'Perang Saudara KMT-KPK',
-    'Pelestarian Budaya',
-    'Pembaruan Perkotaan',
+    'kampung perangko',
+    'imigran asing',
+    'perang dalam negeri Republik Tiongkok',
+    'pelestarian budaya',
+    'pembaharuan kota',
   ]
-readingTime: 12
+subcategory: '社會與日常史'
+author: 'Taiwan.md Contributors'
+featured: true
 lastVerified: 2026-03-22
 lastHumanReview: false
-featured: true
-translatedFrom: 'History/台灣眷村歷史.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:e26ca70cc051b743'
-sourceBodyHash: 'sha256:6ea24f40d826e7d7'
-translatedAt: '2026-07-25T07:55:54+08:00'
 difficulty: 'intermediate'
+readingTime: 12
+translatedFrom: 'History/台灣眷村歷史.md'
+sourceCommitSha: 'e1247815f'
+sourceContentHash: 'sha256:a769f300a4a6b10d'
+sourceBodyHash: 'sha256:62a8c3544391f28d'
+translatedAt: '2026-10-04T00:51:58+08:00'
 ---
 
-# Sejarah Perkampungan Militer Taiwan
+# Sejarah Kampung Perangko Taiwan
 
-> **Ringkasan 30 Detik:** Perkampungan militer pertama Taiwan bukan dibangun untuk tentara nasional biasa, melainkan untuk "Tentara Terbuang" yang mengembara 5 tahun di hutan Myanmar sebelum tiba di Taiwan. Kelompok Tentara Penyelamat Negara Anti-Komunis Yunnan yang dipimpin Jenderal Li Mi ini mengalami nasib yang lebih mengembara dibanding pendatang dari provinsi luar lainnya. Mulai 1954, lebih dari 300 perkampungan militer dibangun di seluruh Taiwan, menampung kenangan migrasi besar 1,2 juta orang, dan akhirnya menjadi gen budaya penting dalam keberagaman Taiwan.
+> **30 detik gambaran:** Mulai akhir 1940-an, Republik Tiongkok membangun kampung perangko untuk menampung keluarga yang mengikuti pasukan. Pada 1984, Kementerian Pertahanan mencatat 888 kampung perangko, dan pada 1982, statistik mencatat sekitar 470.000 orang tinggal di kampung perangko. Zhongzhen Xincun di Taoyuan adalah salah satunya, dibangun pada musim gugur 1954 untuk pasukan anti-komunis Yunnan yang kembali dari Myanmar. Mereka bertarung guerilla di perbatasan Cina-Myanmar selama hampir empat tahun sebelum tiba di Taiwan. Dari pembatas bambu hingga apartemen pemerintah, kampung perangko akhirnya berkembang menjadi gen DNA penting budaya multicultural Taiwan.
 
-Musim gugur 1954, di perbatasan Pingzhen dan Zhongli di Taoyuan, 530 rumah sederhana selesai dibangun dengan cepat. Rumah-rumah terbuat pagar bambu, lumpur kuning, dan seng, rata-rata kurang dari 10 ping (sekitar 33 m²), namun menampung nasib sekelompok penghuni khusus——bukan keluarga tentara yang datang ke Taiwan bersama Pemerintah Nasional, melainkan keluarga "Tentara Terbuang" yang pergi dari Daratan ke Myanmar, lalu ke Taiwan.
+Musim gugur 1954, di antara Pingzhen dan Zhongli di Taoyuan, Kementerian Pertahanan membangun sekitar 530 unit rumah sederhana (Wikipedia mencatat 534 unit, satu sumber menyebutkan 503 unit)[^1]. Rumah-rumah yang dibangun dengan pembatas bambu, tanah liat kuning, dan genteng besi ini, rata-rata kurang dari 10 ping per unit, namun membawa nasib sekelompok penghuni khusus — mereka bukanlah keluarga pasukan yang datang langsung mengikuti Republik Tiongkok, tetapi pasukan "terpencil" yang datang dari daratan ke Myanmar, lalu ke Taiwan.
 
-**Kampung Baru Loyalitas (忠貞新村), kelahiran perkampungan militer pertama Taiwan, menentukan karakter kompleks budaya perkampungan: bukan sekadar dialog antara pendatang dari provinsi luar dan penduduk asli, melainkan dialektika antara pengungsian dan penempatan, sementara dan permanen, tanah air dan negeri orang.**
+**Kelahiran Zhongzhen Xincun menunjukkan kompleksitas budaya kampung perangko: tidak hanya dialog antara provinsi asing dan provinsi asli, tetapi juga dialeknya antara pengasingan dan penyelesaian, sementara dan permanen, tanah air dan tanah asing.**
 
-## Spektrum Kompleks Migrasi Besar
+## Spektrum Migrasi yang Kompleks
 
-### 1,2 Juta Orang, Berbagai Jalur
+### 1,2 juta orang, banyak jalur
 
-"1,2 juta tentara dan sipil mengikuti pemerintah ke Taiwan" adalah penjelasan standar buku teks, tapi realita jauh lebih kompleks. Menurut penelitian sejarah, angka ini mencakup beberapa gelombang migrasi antara 1945-1953:
+Kalimat "1,2 juta pasukan dan warga sipil mengikuti pemerintah ke Taiwan" sering terdengar, namun kenyataannya jauh lebih kompleks. Pasukan dan warga sipil yang tiba di Taiwan antara 1945 hingga 1954 tiba dalam beberapa gelombang:
 
-- **1945-1949**: Sekitar 600 ribu tentara datang langsung ke Taiwan, ditambah sekitar 500 ribu pegawai negeri dan warga sipil
-- **1950**: Penarikan dari Kepulauan Zhoushan 70 ribu tentara, plus sekitar 120 ribu warga sipil yang ikut tentara
-- **1953**: 26.028 personel pasukan Huang Jie dari Pulau Phu Quoc Vietnam
-- **1954**: Sekitar 14 ribu tawanan perang berketurunan Tionghoa dari Perang Korea, ditambah 3.000 sisa pasukan Li Mi dari Myanmar
+- **Sebelum 1949:** Pemerintah mengirim sekitar 600.000 pasukan besar, ditambah pegawai negeri dan warga sipil[^2]
+- **1950:** Pengunduran di Kepulauan Zhoushan, sekitar 120.000 pasukan dan sekitar 20.000 warga setempat berhasil ditarik ke Taiwan dalam tiga hari[^3]
+- **1953:** Pasukan Huang Jie yang terdampar di Pulau Phu Quoc, Vietnam, dievakuasi ke Taiwan, sekitar 30.000 orang tiba di Taiwan[^4]
+- **Akhir 1953 hingga 1954:** Pasukan anti-komunis Yunnan kembali dari Myanmar dalam tiga batch, pengunduran pertama mencakup 6.986 orang[^5]; lebih dari 14.000 prajurit sukarelawarawan Republik Tiongkok yang ditangkap selama Perang Korea memilih untuk pindah ke Taiwan, batch pertama tiba di Kaohsiung pada 23 Januari 1954[^6]
 
-**Ini bukan sekali penarikan, melainkan pengungsian putus-putus selama 8 tahun.** Di balik setiap gelombang migrasi, ada keputusasaan dan harapan yang berbeda. Keluarga tentara yang datang langsung masih mendapat penempatan dari pemerintah, tapi keluarga Tentara Terbuang mengalami pengungsian ganda——pertama tanah air runtuh, kedua bertahan hidup di perbatasan.
+**Ini bukanlah satu pengunduran, tetapi pengasingan yang terputus selama hampir sepuluh tahun.** Di balik setiap gelombang migrasi, ada keputusasaan dan harapan yang berbeda. Banyak keluarga pasukan yang datang langsung ke Taiwan mendapatkan perumahan pemerintah, tetapi keluarga pasukan terpencil mengalami pengasingan ganda — pertama tanah air mereka jatuh, kemudian bertahan di perbatasan.
 
-### Nasib Khusus Tentara Terbuang
+### Nasib Khusus Pasukan Terpencil
 
-Divisi 193 Tentara Penyelamat Negara Anti-Komunis Yunnan yang dipimpin Jenderal Li Mi, adalah kelompok paling berliku di antara semua tentara dan warga yang pindah ke Taiwan. Setelah Tentara Nasional kalah di Yunnan 1949, pasukan ini tidak langsung mundur ke Taiwan, melainkan mundur ke hutan Utara Myanmar, melakukan perang gerilya 5 tahun di perbatasan Tiongkok-Myanmar.
+Pasukan anti-komunis Yunnan yang dipimpin oleh Li Mi adalah kelompok yang paling rumit dalam migrasi ke Taiwan. Setelah kekalahan pasukan Republik Tiongkok di Yunnan pada akhir 1949, pasukan ini tidak langsung pindah ke Taiwan, tetapi mundur ke Myanmar, dan bertarung guerilla di perbatasan Cina-Myanmar selama hampir empat tahun.
 
 > **📝 Catatan Kurator**  
-> "Terbuang" dalam Tentara Terbuang bukan hanya isolasi geografis, tapi juga kekokohan politik. Mereka tidak diakui pemerintah Myanmar, tidak diterima komunitas internasional, bahkan status "sekutu" pun ambigu.
+> "Terpencil" dalam pasukan terpencil tidak hanya berarti isolasi geografis, tetapi juga kesulitan politik. Mereka tidak diakui oleh pemerintah Myanmar, tidak diterima oleh masyarakat internasional, bahkan status "pasukan sekutu" mereka pun tidak jelas.
 
-Awal 1954, di bawah tekanan internasional, Tentara Terbuang Li Mi akhirnya diizinkan mundur ke Taiwan. Tapi saat kelompok laki-laki, perempuan, tua, muda ini tiba di Bandara Songshan Taipei, yang menyambut bukan sambutan pahlawan, tapi realitas dipisah-pisahkan dan ditempatkan di gudang gula Tai Sugar di Chiayi. Kekurangan bahan "bahkan melebihi masa gerilya di Utara Myanmar", inilah yang memaksa pemerintah membangun Kampung Baru Loyalitas di Taoyuan dengan mendadak.
+Setelah pemerintah Myanmar mengajukan pengaduan ke PBB tentang penyimpangan pasukan Republik Tiongkok, Republik Tiongkok bekerja sama dengan Amerika, Thailand, dan Myanmar untuk mengundurkan pasukan yang berada di Myanmar. Mulai akhir 1953, Li Mi memimpin pasukan regim ke-193 dan keluarganya mengungsi ke Taiwan[^1]. Yang menyambut mereka bukanlah sambutan pahlawan, tetapi kenyataan bahwa mereka dipisahkan sementara di gudang gula pabrik gula di Xiuzhi, Dapeng, Wufeng, dan seterusnya, kekurangan barang kebutuhan yang "bahkan melebihi saat bertarung di Myanmar"[^7], inilah sebabnya Kementerian Pertahanan memutuskan untuk membangun Zhongzhen Xincun di Taoyuan pada musim gugur 1954.
 
-**Perkampungan militer pertama Taiwan, dibangun untuk kelompok yang tiba terakhir.** Ironi urutan waktu ini meramalkan sifat multikultural budaya perkampungan.
+Zhongzhen Xincun sering disebut sebagai "kampung perangko pertama yang dibangun setelah Republik Tiongkok pindah"[^\7], namun klaim ini tidak dapat dibenarkan. Kampung perangko Sizhangli di Taipei dibangun pada 1948[^8], kampung perangko Huangpu Xincun di Fengshan dihuni oleh pasukan Sun Yat-sen pada 1949[^9], dan kampung perangko Qiaoyi Xincun di Taoyuan juga termasuk dalam kelompok kampung perangko pertama[^10]. **Zhongzhen Xincun adalah salah satu kampung perangko yang dibangun oleh Kementerian Pertahanan untuk pasukan terpencil yang tertunda.** Keistimewarannya tidak terletak pada urutan waktu, tetapi pada latar belakang penghuninya: aksen dan makanan dari Yunnan, Thailand, dan Myanmar, yang berbeda dari kampung perangko lain sejak awal.
 
-## Pendirian Republik Pagar Bambu
+## Pendirian "Republik Pembatas Bambu"
 
 ### Geografi Militer
 
-Distribusi spasial perkampungan militer mencerminkan politik cabang angkatan. Hampir setiap perkampungan dihuni warga dari cabang angkatan yang sama, bahkan dari pasukan yang sama:
+Distribusi ruang kampung perangko mencerminkan geografi militer. Banyak kampung perangko dibagi berdasarkan jenis militer dan unit, bahkan di satu kampung perangko, hampir semua pria adalah dari jenis militer yang sama, bahkan dari unit yang sama[^7]:
 
-- **Zuoying Kaohsiung**: Perkampungan Angkatan Laut, mayoritas orang Shandong (Angkatan Laut punya basis penting di Weihai Shandong)
-- **Qingquangang Taichung**: Perkampungan Angkatan Udara
-- **Kampung Baru Loyalitas Taoyuan**: Pasukan gerilya Yunnan-Myanmar, kaya budaya Bai Yunnan
-- **Erkong Tainan**: Angkatan Udara, mayoritas orang Sichuan dan Hunan
+- **Kaohsiung Zuoying:** Kampung perangko angkatan laut, banyak orang Shandong berkumpul di sini, pasar menjual makanan berbasis tepung[^11]
+- **Taichung Qingquan Gong:** Kampung perangko angkatan udara
+- **Taoyuan Zhongzhen Xincun:** Pasukan guerilla Dian-Man, budaya etnis Bai di Yunnan kuat
+- **Tainan Ren’de Erkong:** Angkatan udara, mayoritas dari Sichuan dan Hunan[^11]
 
-> **💡 Tahukah Anda**  
-> Berdasarkan statistik provinsi asal tentara datang ke Taiwan, Provinsi Shandong paling banyak (72.600 orang), diikuti Guangdong (66.600) dan Jiangsu (54.900). Angka ini langsung menentukan "peta dialek" perkampungan.
+> **💡 Tahuan Anda?**  
+> Jika kita melihat zoning administrasi Tiongkok saat ini, pasukan yang pindah ke Taiwan paling banyak berasal dari provinsi Shandong (72.604 orang), diikuti oleh Guangdong (66.613 orang) dan Jiangsu (54.950 orang)[^2]. Angka-angka ini secara langsung menentukan "peta aksen" kampung perangko.
 
-Pola berkumpul per cabang angkatan ini既是 kebutuhan manajemen pemerintah, juga ekstensi alami budaya militer. Rekan senjata di medan perang jadi tetangga yang saling menopang di Taiwan. **Perkampungan bukan hanya kawasan perumahan, tapi ekstensi sipil budaya militer.**
+Pola pemukiman ini tidak hanya karena kebutuhan manajemen pemerintah, tetapi juga alami dari budaya militer. Persaudaraan di medan perang menjadi kebersamaan tetangga di Taiwan. **Kampung perangko bukan hanya komplek perumahan, tetapi juga ekstensi budaya militer di masyarakat sipil.**
 
-### Kekurangan Material, Kaya Spiritual
+### Kesulitan Material, Kekayaan Spiritual
 
-Kondisi material perkampungan awal sangat sederhana. Rumah Kampung Baru Loyalitas "rata-rata kurang 10 ping, yang bisa naungi hujan angin hanya 4,5 ping", ruang tamu sekaligus kamar tidur, dapur hanya muat satu kompor. Dinding pagar bambu, celah diisi lumpur kuning, atap seng, hujan badai bisa kena listrik.
+Kondisi material kampung perangko awal sangat sederhana. Rumah di Zhongzhen Xincun "rata-rata kurang dari 10 ping per unit, dan ruang yang benar-benar bisa melindungi dari angin dan hujan hanya sekitar 4,5 hingga 5 ping"[^\7], ruang tamu ganda dengan kamar tidur, dapur hanya cukup untuk satu kompor. Dinding pembatas bambu, pengganti tanah liat, gentel besi di atas, bahkan saat hujan dan petir bisa kena listrik.
 
-Tapi di tengah kelangkaan material, warga perkampungan mengembangkan kreativitas menakjubkan:
+Namun dalam kelangkaan material, penghuni kampung perangko mengembangkan kreativitas yang luar biaswa:
 
-- Drum bensin bekas jadi sumur
-- Papan kayu bekas bikin Partisi kamar
-- Payung rusak jadi tenda teduh
-- Karung tepung dijahit jadi sprei, baju
+- Drum minyak kosong sebagai sumur air
+- Papan kayu bekas sebagai pembagi ruangan
+- Payung rusak sebagai pelindung matahari
+- Kantong tepung menjadi selimut tempat tidur, pakaian
 
-**"Filsafat mengatasi kesulitan" bukan pilihan, tapi keterampilan bertahan.** Dan justru pengalaman sulit bersama ini melahirkan kohesi komunitas khas perkampungan.
+**Filosofi keterbatasan bukan pilihan, tetapi keterampilan bertahan hidup.** Namun justru pengalaman kesulitan bersama ini, melatihkan kohesi komunitas khas kampung perangko.
 
-## Rekonstruksi Memori Kuliner
+## Rekonstruksi Kenangan Kuliner
 
-### Fusi Rakyat 8 Kuisin Besar
+### Integrasi Kasar Penggabungan Delapan Cuci Nasional
 
-Warisan budaya paling konkret perkampungan adalah kuliner. Ibu-ibu perkampungan dari lima danau empat laut, di bahan terbatas dan dapur "mengatasi kesulitan", membangun kembali 8 kuisin besar Tionghoa——tapi proses pembangunan ini, sebenarnya adalah proses inovasi.
+Warisan budaya paling konkret dari kampung perangko adalah kuliner. Ibu-ibu kampung perangko dari berbagai belahan, dalam bahan makanan terbatas dan dapur sederhana, merekonstruksi delapan gaya kuliner nasional Tiongkok — namun proses rekonstruksi ini sebenarnya adalah proses inovasi.
 
-> **⚠️ Pandangan Kontroversial**  
-> Penulis Jiao Tong pernah bilang: "Sichuan tidak punya Mie Daging Sapi khas Sichuan, Mongolia tidak punya Panggang Daging khas Mongolia, Fuzhou tidak punya Mie khas Fuzhou." Masakan perkampungan apakah "rasa tanah air" atau "rasa Taiwan"? Jawabannya mungkin keduanya, juga keduanya bukan.
+> **⚠️ Pendapat Kontroversial**  
+> Penulis Jiaotong pernah berkata: "Sichuan tidak memiliki mie sapi khas Sichuan, Mongolia tidak memiliki daging panggang Mongolia, Fujian tidak memiliki mie Fujian."[^11] Apakah kuliner kampung perangko adalah "rasa asli" atau "rasa Taiwan"? Jawabannya mungkin keduanya, atau bahkan bukan keduanya.
 
-**Tiga ciri masakan perkampungan:**
+**Tiga ciri khas kuliner kampung perangko:**
 
-1. **Lokalisasi bahan setempat**: Pakai sayur Taiwan masak masakan kampung halaman, bumbu disesuaikan selera lidah Taiwan
-2. **Praktis hemat dan kenyang**: Satu panci masak guisado makan全家, satu kotak tahu jadi 10 masakan
-3. **Pertukaran teknik lintas provinsi**: Ibu Shandong belajar pedas Sichuan, ibu Jiang-Zhe pakai teknik tumis Guangdong
+1. **Adaptasi lokal dengan bahan yang ada:** Menggunakan sayuran Taiwan untuk membuat makanan kampung halaman, bumbu juga disesuaikan dengan selera orang Taiwan
+2. **Prinsip hemat biaya:** Satu kawah sup dapat mengenyangkan seluruh keluarga, satu blok tahu bisa menghasilkan sepuluh cara berbeda
+3. **Pertukaran teknik antar-provinsi:** Ibu-ibu Shandong belajar rasa pedas Sichuan, ibu-ibu Jiangsu dan Zhejiang menggunakan teknik menggoreng Guangdong
 
-Mie Daging Sapi adalah contoh terbaik. Mie Daging Sapi khas Sichuan mendarat di Kaohsiung, Yongkang Street di utara mengembangkan aliran kuah bening, tengah-selatan pakai ramuan tradisional ganti doubanjiang. **"Mie Daging Sapi" jadi camilan representatif Taiwan, tapi asalnya Sichuan tidak punya masakan ini.**
+Mie sapi adalah contoh terbaik. Setelah pemerintah pindah, mie sapi khas Sichuan berakar kuat di Kaohsiung, kemudian di Jalan Yongkang dan Xin’an Road di Taipei juga muncul banyak pedagang mie sapi, sementara di selatan ada mie sapi yang dimasak dengan bahan obat tradisional mengganti pasta kacang kaya[^11]. **Mie sapi menjadi makanan khas Taiwan, namun Sichuan tidak memiliki "mie sapi khas Sichuan".**
 
-### Pasar Sebagai Titik Pertemuan Budaya
+### Pasar sebagai Titik Pertemuan Budaya
 
-Pasar perkampungan adalah garis depan pertukaran budaya pendatang provinsi luar dan penduduk asli. Contoh Pasar Loyalitas, awalnya petani Xiao Li (penduduk asli) dorong kereta masuk perkampungan berjualan di pinggir jalan, ibu-ibu perkampungan jadi pelanggan tetap, perlahan terbentuk pasar.
+Pasar kampung perangko adalah titik pertemu pertama antara budaya provinsi asing dan provinsi asli. Mengambil Zhongzhen Market sebagai contoh, awalnya adalah pedagang sayur dari Xiuzhi yang menjajakan sayurnya di jalan kampung perangko[^7], ibu-ibu kampung perangko menjadi pelanggan tetap, perlahan membentuk pasar.
 
-**Hubungan jual-beli yang tampak sederhana ini, sebenarnya adalah kontak mendalam pertama dua komunitas.** Penduduk asli belajar selera pendatang provinsi luar, pendatang provinsi luar kenal bahan makanan Taiwan. Roti bakar youtiao dan nasi babi kecap, susu kedelai dan teh merah tradisional, mulai berdampingan di pasar yang sama.
+**Hubungan belanja yang tampak sederhana sebenarnya adalah pertama kalinya dua komunitas bertemu secara mendalam.** Orang provinsi asli belajar selera makanan dari provinsi asing, orang provinsi asing mengenal bahan makanan Taiwan. Martabak manis dan nasi babi, sus bubuk dan teh merah tradisional, mulai berdampingan di pasar yang sama.
 
-## Trayektori Tiga Generasi Perubahan Identitas
+## Jejak Tiga Generasi Perubahan Identitas
 
-### Generasi Pertama: Rindu Tanah Air Abadi
+### Generasi Pertama: Kenangan Tanah Air yang Abadi
 
-Generasi pertama perkampungan selalu mempertahankan rindu ke kampung halaman. "Tiongkok" mereka bukan entitas politik, tapi kenangan mantou besar Shandong, daging sapi merah Sichuan, arom sosis dan daging asap Hunan.
+Generasi pertama kampung perangko selalu mempertahankan rasa rindu akan tanah air mereka. "Tiongkok" mereka bukanlah entitas politik, tetapi kenangan akan roti manis besar Shandong, daging rendang Sichuan, dan daging asap Hunan.
 
-Pemerintah awalnya harap "serangan balik Daratan" cepat selesai, jadi desain perkampungan bersifat sementara. Rumah sederhana, fasilitas minim, semuanya mencerminkan optimisme "cepat bisa pulang". **Tapi 3 tahun jadi 30 tahun, sementara jadi permanen, perkampungan jadi "tanah air kecil" tak terelakkan.**
+Pemerintah semula mengantisipasi "serangan kembali ke daratan" akan cepat selesai, sehingga desain kampung perangko semuanya bersifat sementara. Rumah sederhana, infrastruktur kurang, semuanya mencerminkan optimisme "segera bisa kembali ke rumah". **Namun 3 tahun berubah menjadi 30 tahun, sementara berubah menjadi permanen, kampung perangko tak lain menjadi "desa kecil yang tidak disengaja".**
 
-Kebijakan bahasa juga mencerminkan mentalitas ini. Perkampungan kuat mendorong pendidikan Bahasa Nasional, tapi "Bahasa Nasional" ini muat bukan cuma fungsi komunikasi, tapi identitas budaya. Anak-anak perkampungan hafal nama tempat aliran Changjiang, tapi tidak tahu nama sungai di sebelah.
+Kebijakan bahasa juga mencerminkan mentalitas ini. Kampung perangko menerapkan pendidikan bahasa nasional yang kuat, namun bahasa nasional ini tidak hanya berfungsi sebagai alat komunikasi, tetapi juga sebagai identitas budaya. Anak-anak kampung perangko bisa mengucapkan nama aliran Yangtze dengan lancar, namun tidak bisa mengucapkan nama aliran kecil di sebelahnya.
 
-### Generasi Kedua: Tarikan Identitas
+### Generasi Kedua: Tarik Ulur Identitas
 
-Generasi kedua perkampungan hadapi dilem identitas tak pernah terjadi. Mereka besar di perkampungan, terima pendidikan budaya Tionghoa, tapi tanah yang dijajah adalah Taiwan. 1987 lepas hukum darurat, buka kunjungan keluarga, pembelahan ini semakin tajam.
+Generasi kedua kampung perangko menghadapi krisis identitas yang belum pernah dialami sebelumnya. Mereka tumbuh besar di kampung perangko, dididik dengan budaya Tionghoa, namun tanah yang diinjakkan adalah Taiwan. Setelah pembukaan hukum pada 1987, krisis ini semakin membesar.
 
-**Kontradiksi menariknya:** Saat tentara tua generasi pertama akhirnya bisa pulang kunjungi kampung halaman, banyak yang justru merasa "sudah tidak cocok". 40 tahun terpisah, "kampung halaman" jadi tempat asing. Sebaliknya, Taiwan yang dulu "tempat sementara", justru sudah jadi "rumah" yang sesungguhnya.
+**Paradoks yang menarik adalah:** Ketika para veteran generasi pertama akhirnya bisa kembali ke tanah air untuk berkunjung, banyak yang menyadari mereka sudah "tidak nyaman" lagi. 40 tahun pemisahan membuat "tanah air" menjadi tempat yang asing. Sebaliknya, meskipun Taiwan pernah menjadi "tempat sementara", kini sudah menjadi "rumah yang sebenarnya".
 
-Sikap politik generasi kedua jadi berbelah: ada pro-persatuan, ada pro-kemerdekaan, lebih banyak pro-status quo. **"Saya anak perkampungan, saya juga orang Taiwan"——ini bukan kontradiksi, tapi realita.**
+Pendekatan politik generasi kedua juga beragam: ada yang mendukung penyatuan, ada yang mendukung kemerdekaan, dan kebanyakan mendukung status quo. **Aku adalah anak kampung perangko, aku juga orang Taiwan — ini bukanlah paradoks, tetapi realitas.**
 
-### Generasi Ketiga: Pencarian Akar Budaya
+### Generasi Ketiga: Mencari Akar Budaya
 
-Generasi ketiga perkampungan sebagian besar tidak besar di perkampungan, kenangan perkampungan בעיקר来自 cerita orang tua. Tapi anehnya, justru generasi ini memulai gerakan "penyelamatan" budaya perkampungan.
+Generasi ketiga kebanyakan tidak tumbuh besar di kampung perangko, kenangan tentang kampung perangko berasal dari cerita orang tua mereka. Namun ironisnya, justru generasi ini yang memulai "gerakan penyelamatan budaya kampung perangko".
 
-Melalui survei lapangan, sejarah lisan, arsip digital, generasi ketiga mengenal ulang perkampungan. "Pencarian akar budaya" ini memantulkan di era globalisasi, orang rindu kekayaan identitas budaya. **Mereka cari bukan identitas politik, tapi kekayaan identitas budaya.**
+Melalui survei lapangan, rekaman sejarah lisan, dan warisan digital, generasi ketiga mulai mengenal kembali kampung perangko. Pencarian budaya ini mencerminkan keinginan akan akar budaya di era globalisasi. **Yang mereka cari bukan identitas politik, tetapi kekayaan identitas budaya.**
 
-## Tarik Ulur Pembongkaran dan Pelestarian
+## Konflik Antara Penghapusan dan Pelestarian
 
-### 1996: Undang-Undang Perbaikan Pedang Bermata Dua
+### 1996: Pisau Bermata Dua Peraturan Renovasi
 
-1996 Undang-Undang Perbaikan Perkampungan Militer Tua Nasional diluluskan, menandai mulai hilangnya massal perkampungan. Tujuan kebijakan sangat praktis: perbaiki kualitas hunian warga perkampungan, bebaskan lahan lokasi prima, selesaikan kebutuhan perkembangan kota.
+Pada Februari 1996, Undang-Undang Renovasi Kampung Perangko Lama dan Usang Pasukan Republik Tiongkok[^12] ditandatangani, menandai dimulainya penghilangan massal kampung perangko. Sasaran kebijakan sangat praktis: meningkatkan kualitas hunian kampung perangko, melepaskan lahan di area pusat kota, memenuhi kebutuhan perkembangan kota.
 
 > **📊 Sumber Data**  
-> Menurut statistik Kementerian Pertahanan, sebelum Undang-Undang Perbaikan 1996 berlaku, seluruh Taiwan punya sekitar 300 perkampungan. Hingga 2020-an, sekitar 90% sudah selesai diperbaiki, hanya sekitar 30 yang mendapat pelestarian sebagai aset budaya.
+> Pada 1984, Kementerian Pertahanan mencatat 888 kampung perangko, 109.786 unit rumah; setelah peraturan renovasi dilaksanakan, jumlahnya berkurang setiap tahun, pada 2001 Kementerian Pertahanan mencatat masih 530 kampung perangko yang dikelola pemerintah[^10]. Pada 2018, Sekretaris Kabinet Presiden Chen Ju berkata di kampung perangko budaya Kaohsiung, "di seluruh Taiwan ada 886 kampung perangko"[^13].
 
-Perkampungan hasil perbaikan jadi rumah susun modern, memang selesaikan masalah kualitas hunian. Tapi tipe pemukiman asli hilang, hubungan tetangga juga ikut longgar. **Warga perkampungan yang pindah apartemenik apartemen baru, nikmat kenyamanan modern, tapi kehilangan rasa komunitas "satu rumah bakar daging wangi全村".**
+Setelah direnovasi, kampung perangko berubah menjadi apartemen pemerintah modern, memang memecahkan masalah kualitas hunian. Namun tipe lanskap kampung perangko pun hilang, hubungan tetangga pun terputus. **Orang kampung perangko yang pindah ke apartemen baru menikmati kemudahan hidup modern, namun kehilangan rasa komunitas "setiap orang saling membakar daging di panggung".**
 
-Proses perbaikan tidak mulus. Sengketa alokasi, kompensasi pindah, kehilangan emosional, memicu banyak protes. Masalah lebih dalam: **Saat perkampungan jadi rumah susun, "budaya perkampungan" masih bisa bertahan?**
+Proses renovasi tidaklah lancar. Perselisihan alokasi, kompensasi pindah, dan kehilangan perasaan, memicu banyak protes. Masalah yang lebih dalam adalah: **ketika kampung perangko berubah menjadi apartemen pemerintah, apakah "budaya kampung perangko" masih bisa bertahan?**
 
-### Kebangkitan Pelestarian: Dari Bangunan Liar ke Aset Budaya
+### Kesadaran Pelestarian: Dari Bangunan Ilegal hingga Warisan Budaya
 
-Baozangyan (寶藏巖) adalah kasus kunci gerakan pelestarian perkampungan. Permukiman lereng bukit dekat Gongguan Taipei, awalnya dikategorikan "bangunan ilegal", ancam dibongkar total. Tapi usaha warga lokal, 2004 ditetapkan "Bangunan Sejarah".
+Baita Zai adalah contoh kunci dalam gerakan pelestarian kampung perangko. Perkampungan perbukitan di lereng pegunungan dekat gerbang selatan Universitas Nasional Taiwan ini, sebelumnya dianggap sebagai "bangunan ilegal", dan akan dihancurkan seluruhnya. Namun setelah dorongan dari warga setempat, pada 2004 terdaftar sebagai "bangunan bersejarah"[^\14], dan pada 2011 lagi terdaftar sebagai kelompok bangunan bersejarah[^14].
 
-Kampung Pelangi (彩虹眷村) model pelestarian lain. Saat Desa Gancheng Liu Taichung ancam dibongkar, penghuni Huang Yongfu mulai melukis di dinding, awalnya "aksi protes pribadi", 2010 meledak di internet, akhirnya dorong pemerintah buka "Taman Seni Kampung Pelangi" pelestarian.
+Kampung perangko pelangi adalah model pelestarian lain. Di Nanjhu, Taichung, berdekatan dengan Kampung Perangko Longcheng Lima Enam, namun kampung perangko ini tidak termasuk dalam kampung perangko yang dikelola Kementerian Pertahanan, melainkan adalah beberapa rumah yang dibangun oleh veteran; veteran Huang Yongfu membeli salah satunya pada 1979, kemudian karena rencana zona penggantian, rumah ini akan dihancurkan. Pada Agustus 2008, untuk mengisi waktu luang dan ingin meninggalkan kenangan sebelum penghancuran, Huang mulai melukis dinding. Pada September 2010, mahasiswa dari Universitas Ekonomi Shanghai dan Universitas Fushun memulai gerakan "Selamatkan Kampung Perangko Pelangi", kemudian pada September 2010, pemerintah kota Taichung memutuskan untuk melestarikan sebagai "Taman Seni Pelangi"[^15].
 
-> **💡 Tahukah Anda**  
-> Kakek Huang Yongfu mulai melukis 2008 sudah hampir 90 tahun, tidak paham internet, andal relawan bikin website resmi, jualan merchandise untuk biaya melukis dan perawatan bangunan. Kuas cat seorang kakek, tak terduga jadi model baru pelestarian perkampungan.
+> **💡 Tahuan Anda?**  
+> Huang Yongfu lahir pada 1924, saat memulai melukis pada 2008 berusia 84 tahun. Setelah kampung perangko pelangi viral di internet, Kementerian Budaya Taichung mempertimbangkan bahwa dia tidak terbiasa dengan internet, maka mereka mengundani pihak eksternal untuk membuat situs resmi, meminta relawan membantu, dan menjual barang komersial di situs web dan lapangan untuk mendanai lukisan dan pemeliharaan bangunan[^15]. Kuas seorang kakek tua pun tidak sengaja menjadi model baru dalam pelestarian kampung perangko.
 
-**Dua kasus ini jelaskan jalur pelestarian perkampungan beragam: wacana akademik, mobilisasi komunitas, penyebaran internet, perubahan kebijakan, tak satu pun boleh kurang.**
+**Kedua kasus ini menunjukkan bahwa jalur pelestarian kampung perangko adalah beragam: diskusi akademis, mobilitasi komunitas, penyebaran melalui internet, dan perubahan kebijakan — semuanya saling melengkapi.**
 
-## Transformasi Kontemporer Semangat Perkampungan
+## Transformasi Kontemporer Semangat Kampung Perangko
 
 ### Dari Ruang ke Memori
 
-Perkampungan fisik sebagian besar hilang, tapi "semangat perkampungan" di era digital nemu wadah baru:
+Kebanyakan kampung perangko fisik telah punah, namun "semangat kampung perangko" menemukan media baru di era digital:
 
-- **Grup Facebook**: "Reuni Teman Sekolah XX Perkampungan" bangun komunitas virtual
-- **Proyek Sejarah Lisan**: Rekam video cerita tetua perkampungan
-- **Rekonstruksi 3D Digital**: Perkampungan hilang lahir kembali di ruang virtual
-- **Industri Kreatif**: Elemen perkampungan jadi tema barang nostalgia populer
+- **Grup Facebook:** "Kelompok Teman Sekelas Kampung Perangko XX" membangun komunitas virtual
+- **Program Sejarah Lisan:** Menggunakan video untuk merekam kisah para penghuni lama kampung perangko
+- **Rekonstruksi Digital 3D:** Kampung perangko yang punah dilahirkan kembali di ruang maya
+- **Industri Kreatif:** Elemen kampung perangko menjadi tema populer dalam produk nostalgia
 
-**Komunitas perkampungan virtual, sampai tingkat tertentu mereproduksi rasa komunitas perkampungan fisik.** Tapi apakah "perkampungan memori" ini masih "perkampungan sesungguhnya"? Jawabannya tergantung orang.
+**Komunitas kampung perangko maya, dalam suatu tingkat, merekonstruksi rasa komunitas fisik kampung perangko.** Namun, apakah "kampung perangko memori" ini masih merupakan "kampung perangko sebenarnya"? Jawabannya bergantung pada setiap orang.
 
-### Model Taiwan Identitas Multikultural
+### Model Identitas Multicultural Taiwan
 
-Meninjau 70 tahun sejarah perkampungan, inspirasi terbesar mungkin: **Identitas budaya tidak perlu permainan jumlah nol.** Seseorang bisa serentak anak perkampungan, orang Taiwan, orang Tionghoa, warga dunia, identitas ini tidak saling mengecualikan.
+Mengkaji lebih dari tujuh puluh tahun sejarah kampung perangko, pelajaran terbesar mungkin adalah: **identitas budaya tidak perlu menjadi permainan nol-sum.** Seseorang bisa menjadi anak kampung perangko, orang Taiwan, keturunan Tionghoa, dan warga dunia sekaligus, semua identitas ini tidak saling eksklusif.
 
-Pengalaman perkampungan juga menantang bayangan budaya tunggal. Budaya dari lima danau empat laut di Taiwan disusun ulang, menghasilkan budaya baru yang familiar tapi asing. Mie Daging Sapi, luwe, masakan perkampungan, bukan murni pewarisan satu tradisi, tapi hasil inovasi "percampuran budaya".
+Pengalaman kampung perangko juga menantang bayangan budaya tunggal. Budaya dari berbagai belahan yang bersatu kembali di Taiwan, menghasilkan budaya baru yang akrab namun asing. Mie sapi, makanan beraroma, dan kuliner kampung perangko, semuanya bukan reproduksi murni dari tradisi tunggal, tetapi hasil inovasi "campuran budaya".
 
-**Di abad 21 globalisasi, eksperimen multikultural perkampungan, mungkin justru pengalaman penting Taiwan bagi dunia.**
+**Di abad ke-21 globalisasi, eksperimen multicultural kampung perangko, mungkin sedang menjadi pengalaman penting yang ditawarkan Taiwan kepada dunia.**
 
-## Yang Dikelilingi Pagar Bambu, Bukan Hanya Taman
+## Pembatas Bambu yang Dikelilingi, Bukan Hanya Rumah
 
-> **✦** "Satu pagar bambu, mengelilingi bukan cuma taman baru 1,2 juta orang, tapi segmen DNA paling kompleks, paling kaya di bank gen budaya Taiwan."
+> **✦** Satu pagar bambu, yang dikelilingi bukan hanya adalah rumah baru bagi setengah juta penghuni, tetapi juga segmen DNA paling kompleks dan kaya dalam perpustakaan genetik budaya Taiwan.
 
-Perkampungan mungkin sudah hilang, tapi yang ditinggalkan bukan cuma nostalgia, tapi kemampuan menghadapi perubahan: membangun hidup di kondisi paling sulit, menanam budaya di tanah paling asing, mempertahankan harapan di masa depan paling tidak pasti.
+Kampung perangko mungkin sudah punah, tetapi yang ditinggalkan oleh kampung perangko bukanlah nostalgia, tetapi kemampuan untuk menghadapi perubahan: membangun kembali kehidupan di kondisi paling sulit, menanamkan budaya di tanah yang asing, dan mempertahankan harapan di masa depan yang tidak pasti.
 
-**Mengatasi kesulitan dan saling menolong, beradaptasi dan bertahan, pengungsian dan penempatan——sifat-sifat yang tampak kontradiktif ini, menyusun inti semangat perkampungan.** Ia mengingatkan kita, budaya bukan pameran statis di museum, tapi kehidupan di setiap kali menumis, setiap kalimat dialek, setiap cerita yang diwariskan.
+**Keterbatasan dan kepedulian, adaptasi dan ketekunan, pengasingan dan penyelesaian — karakteristik yang tampak bertolok belok ini, menyatukan inti semangat kampung perangko.** Ini mengingatkan kita, budaya bukanlah pameran statis di museum, tetapi kehidupan yang ada di setiap kali menggoreng, setiap kalimat aksen, dan setiap kisah yang diturunkan.
 
-Saat kita hari ini bebas berkeliling di budaya multikultural Taiwan——minum lei cha di kampung Hakka, dengar lagu tradisional di suku asli, beli roti lada di pasar malam perkampungan——kita sebenarnya mengalami eksperimen yang sudah dimulai perkampungan 70 tahun lalu: **Bagaimana menjadikan perbedaan jadi kekayaan, pengungsian jadi keanggotaan, negeri orang jadi tanah air.**
+Ketika kita hari ini berjalan di antara budaya multicultural Taiwan — makan cendol di desa Hakka, mendengarkan lagu tradisional di pemukiman suku asli, membeli martabak kacang di pasar malam kampung perangko — kita sebenarnya sedang merasakan eksperimen yang dimulai lebih dari tujuh puluh tahun lalu: **bagaimana perbedaan bisa menjadi kekayaan, bagaimana pengasingan bisa menjadi kepemilikan, bagaimana tanah asing bisa menjadi tanah air.**
 
-Ini warisan paling berharga perkampungan untuk Taiwan: keyakinan optimis "budaya bisa mulai baru", dan kebijaksanaan "tetap jadi diri sendiri di tengah perubahan".
+Inilah warisan terindah yang ditinggalkan kampung perangko bagi Taiwan: optimisme bahwa "budaya bisa memulai kembali", dan kebijaksanaan untuk "tetap menjadi diri sendiri di tengah perubahan".
 
 ---
 
 ## Referensi
 
-- [Perkampungan Militer Pertama yang Dibangun Setelah Pemerintah Nasional Pindah ke Taiwan, Tahukah Anda Di Mana?](https://www.thenewslens.com/article/12591)
-- [1949 Mengembara ke Taiwan - Laporan Mendalam ETtoday](https://events.ettoday.net/depth-report/veteran/index.htm)
-- [Masakan Perkampungan, Apakah yang Dimakan Adalah Rindu atau Makanan?](https://bankofculture.com/archives/3871)
-- [Perkampungan Militer - Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%9C%B7%E6%9D%91)
-- [Kampung Pelangi - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%BD%A9%E8%99%B9%E7%9C%B7%E6%9D%91)
-- [Pelestarian dan Regenerasi Komunitas Baozangyan](https://www.ta-mag.net/ta/News.php?id=2185)
-- [Undang-Undang Perbaikan Perkampungan Militer Tua Nasional](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0140013)
-- [Kementerian Pariwisata Komunikasi - Kampung Pelangi](https://www.taiwan.net.tw/m1.aspx?sNo=0001016&id=A12-00236)
+[^1]: [Zhongzhen Xincun - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%BF%A0%E8%B2%9E%E6%96%B0%E6%9D%91) — Dibangun pada musim gugur 1954 di Taoyuan Longshan, 534 unit (satu sumber menyebutkan 503 unit), termasuk kampung perangko yang dibangun untuk pasukan anti-komunis Yunnan yang kembali pertama kali; pada akhir 1953, Li Mi memimpin pasukan regim ke-193 dan keluarganya mengungsi ke Taiwan
+
+[^2]: [1949 Pengasingan ke Taiwan - Laporan Kedalaman ETtoday](https://events.ettoday.net/depth-report/veteran/index.htm) — "Pada 1949, 600.000 pasukan besar pemerintah pindah ke Taiwan"; pasukan yang pindah ke Taiwan paling banyak berasal dari provinsi Shandong, 72.604 orang, diikuti oleh Guangdong 66.613 orang, Jiangsu 54.950 orang
+
+[^3]: [Pengunduran Zhoushan - Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%88%9F%E5%B1%B1%E6%92%A4%E9%80%80) — Pada 1950, dalam tiga hari mengevakuasi lebih dari 120.000 pasukan dan sekitar 20.000 warga setempat ke Taiwan
+
+[^4]: [Pasukan Phu Quoc - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%AF%8C%E8%87%BA%E9%83%A8%E9%9A%8A) — Pada 1953, pasukan dievakuasi ke Taiwan, jumlah orang yang tiba di Taiwan adalah 30.087
+
+[^5]: [Pasukan Terpencil Thailand-Myanmar - Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%B3%B0%E7%B7%AC%E5%AD%A4%E8%BB%8D) — Pengunduran pertama dibagi menjadi tiga batch (dari 1953-11-07 hingga 1954-05-09), bersama dengan personel lainnya, totalnya 6.986 orang
+
+[^6]: [Pasukan Anti-Komunis - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%8F%8D%E5%85%B1%E7%BE%A9%E5%A3%AB) — Lebih dari 14.000 prajurit sukarelawarawan Republik Tiongkok yang ditangkap selama Perang Korea memilih untuk pindah ke Taiwan, batch pertama tiba di Kaohsiung pada 23 Januari 1954
+
+[^7]: [Apakah kampung perangko pertama yang dibangun oleh Republik Tiongkok setelah pindah ini berada di mana? - Komentar Kunci](https://www.thenewslens.com/article/12591) — Kolom Zhang Zesheng 2015; pasukan terpencil sementara tinggal di gudang gula pabrik gula di Xiuzhi, Dapeng, Wufeng, dll., kekurangan barang kebutuhan bahkan melebihi saat bertarung di Myanmar; Zhongzhen Xincun kurang dari 10 ping per unit; pedagang sayur dari Xiuzhi menjual sayur di jalan kampung perangko membentuk pasar Zhongzhen. Klaim "kampung perangko pertama" dalam judul ini bertentangan dengan catatan Kampung Perangko Sizhangli, lihat teks
+
+[^8]: [Kampung Perangko Sizhangli - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%9B%9B%E5%9B%9B%E5%8D%97%E6%9D%91) — Menurut survei Asosiasi Warisan Nasional Kampung Perangko Sizhangli, didirikan pada 1948, seharusnya menjadi kampung perangko pertama yang didirikan oleh pemerintah Republik Tiongkok di Taiwan
+
+[^9]: [Huangpu Xincun (Taiwan) - Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%BB%83%E5%9F%94%E6%96%B0%E6%9D%91_%28%E8%87%BA%E7%81%A3%29) — Pada 1949, pasukan yang dipimpin oleh Sun Yat-sen menduduki bangunan asrama militer Jepang di Fengshan, membentuk kampung perangko pertama Taiwan
+
+[^10]: [Kampung Perangko - Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%9C%B7%E6%9D%91) — Pada 1984, Kementerian Pertahanan mencatat 888 kampung perangko, 109.786 unit rumah; Pada 1982, Federasi Wanita mencatat 879 kampung perangko, sekitar 467.316 orang; Taoyuan membangun salah satu kampung perangko pertama, Qiaoyi Xincun; Pada 2001, masih ada 530 kampung perangko yang dikelola pemerintah
+
+[^11]: [Apakah kuliner kampung perangko itu makanan nostalgia atau makanan? - Bank Budaya](https://bankofculture.com/archives/3871) — Jiaotong "Sichuan tidak memiliki mie sapi khas Sichuan"; orang Shandong berkumpul di Kaohsiung Zuoying, orang Sichuan dan Hunan berada di Tainan Ren’de Erkong; mie sapi khas Sichuan berakar kuat di Kaohsiung, pedagang mie sapi muncul di Jalan Yongkang dan Xin’an Road di Taipei
+
+[^12]: [Undang-Undang Renovasi Kampung Perangko Lama dan Usang Pasukan Republik Tiongkok - Database Nasional Peraturan](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0140013) — Ditetapkan pada 5 Februari 1996, diumumkan secara penuh dengan 30 pasal
+
+[^13]: [Pembukaan Taman Budaya Kampung Perangko Bajian Bajian di Taiwan - Laporan Berita ETtoday](https://www.ettoday.net/news/20180729/1222872.htm) — Pada 2018, Sekretaris Kabinet Presiden Chen Ju berkata: "Di seluruh Taiwan ada 886 kampung perangko"
+
+[^14]: [Kelompok Bangunan Baita Zai - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%AF%B6%E8%97%8F%E5%B7%96%E8%81%9A%E8%90%BD) — Pada 14 Mei 2004, terdaftar sebagai bangunan bersejarah, pada 27 Mei 2011, terdaftar sebagai kelompok bangunan bersejarah
+
+[^15]: [Kampung Perangko Pelangi - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%BD%A9%E8%99%B9%E7%9C%B7%E6%9D%91) — Huang Yongfu (1924-2024); kampung perangko pelangi berdekatan dengan Longcheng Liu Liu Enam, namun tidak termasuk dalam kampung perangko yang dikelola Kementerian Pertahanan, melainkan adalah beberapa rumah yang dibangun oleh veteran; pada Agustus 2008, untuk mengisi waktu luang dan ingin meninggalkan kenangan sebelum penghancuran, mulai melukis dinding; pada September 2010, setelah gerakan "Selamatkan Kampung Perangko Pelangi", pemerintah kota Taichung memutuskan untuk melestarikan sebagai "Taman Seni Pelangi"; Kementerian Budaya mempertimbangkan bahwa dia tidak terbiasa dengan internet, maka mereka mengundani pihak eksternal untuk membuat situs resmi, meminta relawan membantu, dan menjual barang komersial di situs web dan lapangan untuk mendanai lukisan dan pemeliharaan bangunan
+
+### Referensi Tambahan
+
+- [Pelestarian dan Regenerasi Komunitas Baita Zai - Taiwan Arsitektur](https://www.ta-mag.net/ta/News.php?id=2185)
+- [Kementerian Pariwisata - Kampung Perangko Pelangi](https://www.taiwan.net.tw/m1.aspx?sNo=0001016&id=A12-00236)
