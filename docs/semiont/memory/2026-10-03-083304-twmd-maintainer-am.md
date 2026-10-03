@@ -160,6 +160,11 @@ ja 那 68 條的形狀仍是舊帳：日文條目之間互指的 wikilink 目標
 - ⏳ blocked（哲宇，`OBSERVER-QUEUE #74`）：策展人筆記密度閘門要不要接。**量測已交付、尺已造好、刻意沒接**，拍板後才知道接 §四 還是 §十。不要在拍板前接——94 篇或 390 篇的其中一群會當場變紅點。
 - ⏳ blocked（哲宇，`OBSERVER-QUEUE #67`）：#1784／#1782 兩個 PR 全綠、審完、投稿者已停手等決定。**連續兩班正確地什麼都不做**，第三班不要把它讀成「漏了」。
 - [ ] pending（本席位，下一班）：`ci-main-health.sh` 的 ⚠️ 取數口計數器仍未在真實執行裡觸發過（10-02 留，本班 13 條全綠也沒觸發）。原樣傳遞。
+- [ ] pending（本席位或 `/twmd-routine`，**需要一個沒有寫入者在跑的時段**）：本機 `.git/gc.log` 自 **2026-10-02 23:08** 起卡著「too many unreachable loose objects」，於是**每一條 routine 的每一個 git 指令都多印四行警告**。規模：loose object 14,616 個、397.94 MiB（pack 另 1.09 GiB），`garbage: 0`。
+  - **Option A**：`git prune`（或 `git gc --prune=now`）。清掉就安靜，但 prune 是 destructive，而 babel dispatcher 幾乎全天在 commit——DNA #35 禁在跨 session 工作期間跑 destructive git ops，本班因此沒跑。**要挑 babel 凍結的時段**（照 §Step 1.1b 的做法 `launchctl remove com.taiwanmd.babel.nightly`，清完重掛）。
+  - **Option B**：只刪 `.git/gc.log` 讓警告消失、不動物件。警告會在下次自動 gc 再長回來，而且 398 MiB 還在。止聲不治病。
+  - **Option C**：不動。代價是每條 routine 的輸出永遠帶四行雜訊，而這類「每次都出現所以每次都被滑過」的警告，正是下一個真警告的掩體。
+  - **推薦 A，但綁一個前置條件**：下一個明確有寫入者空檔的班（或 `/twmd-routine` 排一次維護窗）執行，不要在 babel 跑的時候做。
 
 ## Beat 5 — 反芻
 
