@@ -1,17 +1,17 @@
 ---
-title: 'Desenvolvimento da Indústria de Segurança da Informação em Taiwan'
-description: 'Como Taiwan constrói um ecossistema completo de segurança da informação, desde políticas governamentais até inovações privadas, diante das ameaças cibernéticas globais'
+title: 'Desenvolvimento da Indústria de Cibersegurança em Taiwan'
+description: 'Da política governamental à inovação privada, como Taiwan constrói um ecossistema completo de segurança da informação diante das ameaças cibernéticas globais'
 date: 2026-03-19
 category: 'Technology'
 tags:
   [
-    'indústria de segurança da informação',
+    'Indústria de cibersegurança',
     'segurança cibernética',
     'desenvolvimento digital',
-    'política de segurança da informação',
+    'políticas de cibersegurança',
     'inovação tecnológica',
   ]
-subcategory: '人工智慧'
+subcategory: '數位與網路'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-19
@@ -19,279 +19,279 @@ lastHumanReview: false
 difficulty: 'intermediate'
 readingTime: 13
 translatedFrom: 'Technology/台灣資安產業發展.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:2d7d8b8a52c2b0ff'
-sourceBodyHash: 'sha256:11c4d3b5ca02c812'
-translatedAt: '2026-07-26T08:50:55+08:00'
+sourceCommitSha: 'b0b668075'
+sourceContentHash: 'sha256:b8cab3d7189be94d'
+sourceBodyHash: 'sha256:a74e3ddc66982d98'
+translatedAt: '2026-10-04T00:51:59+08:00'
 ---
 
-# Desenvolvimento da Indústria de Segurança da Informação em Taiwan
+# Desenvolvimento da Indústria de Cibersegurança em Taiwan
 
-## Visão geral em 30 segundos
+## Visão Geral Rápida
 
-A indústria de segurança da informação em Taiwan começou com a criação do sistema nacional de segurança da informação no início dos anos 2000, e, após mais de vinte anos de desenvolvimento, formou um ecossistema completo que integra orientação política, inovação tecnológica e aplicação industrial. Desde a presença global da Ch'üeh-sè K'ó-ki (趨勢科技) até a inovação em IA da Ao I Chih-hui (奧義智慧), Taiwan ocupa um papel importante no mercado internacional de segurança da informação.
+A indústria de cibersegurança de Taiwan, desde a criação do Centro Técnico do Conselho Nacional de Segurança da Informação e Comunicações (National Communications Security Council) pelo Executivo em 2001, passou por mais de duas décadas de desenvolvimento, formando um ecossistema completo que integra orientação política, inovação tecnológica e aplicação industrial. Desde o posicionamento global da Trend Micro (趨勢科技) até a inovação em cibersegurança baseada em IA da Ouyi Smart (奧義智慧), Taiwan ocupa uma posição importante no mercado internacional de segurança cibernética.
 
-**Palavras-chave**: segurança da informação, proteção cibernética, política de segurança da informação, ecossistema industrial, inovação tecnológica
+**Palavras-chave**: Segurança da informação, defesa cibernética, políticas de cibersegurança, ecossistema industrial, inovação tecnológica
 
-## Por que é importante
+## Por Que É Importante
 
-Na era digital, a segurança da informação tornou‑se um tema central da segurança nacional e do desenvolvimento econômico. Como polo de manufatura de alta tecnologia e sociedade democrática, Taiwan enfrenta ameaças cibernéticas de diversas fontes, incluindo organizações internacionais de hackers, ataques de nível estatal e espionagem corporativa. O desenvolvimento da indústria de segurança da informação não apenas protege a soberania digital de Taiwan, mas também serve como barreira crucial para proteger indústrias-chave como a de semicondutores.
+Na era digital, a segurança da informação tornou-se um tema central para a segurança nacional e o desenvolvimento econômico. Taiwan, como um centro de manufatura de alta tecnologia e uma sociedade democrática, enfrenta ameaças cibernéticas de diversas frentes, incluindo grupos hackers internacionais, ataques de nível estatal e espionagem corporativa. O desenvolvimento da indústria de cibersegurança não apenas garante a soberania digital de Taiwan, mas também é uma barreira crucial para proteger indústrias chave como a semicondutora.
 
-### Linha de defesa digital da segurança nacional
+### A Linha de Defesa Digital da Segurança Nacional
 
-A posição geográfica de Taiwan é única, e há muito tempo enfrenta ameaças de segurança da informação; desenvolver capacidades independentes de segurança da informação tornou‑se uma necessidade estratégica nacional.
+Devido à sua localização geográfica peculiar, Taiwan enfrenta ameaças cibernéticas constantes, tornando o desenvolvimento de capacidade autônoma em cibersegurança uma necessidade estratégica nacional.
 
-### Muro de defesa da competitividade industrial
+### O Fosso de Competitividade Industrial
 
-Semicondutores, ICT e outras indústrias de destaque em Taiwan dependem fortemente da segurança da informação; a indústria de segurança da informação fornece suporte crítico à competitividade industrial.
+Indústrias fortes de Taiwan, como semicondutores e TIC (Tecnologias da Informação e Comunicação), dependem fortemente da segurança da informação; a indústria de cibersegurança fornece um suporte vital para a competitividade industrial.
 
-### Infraestrutura de transformação digital
+### Infraestrutura Básica da Transformação Digital
 
-No processo de transformação digital das empresas, a proteção de segurança da informação é uma infraestrutura indispensável, e a indústria de segurança da informação cria condições para o desenvolvimento econômico.
+Durante a transformação digital das empresas, a proteção cibernética é uma infraestrutura indispensável, criando condições para o desenvolvimento econômico.
 
-## Seis estágios do desenvolvimento da indústria de segurança da informação em Taiwan
+## Seis Fases do Desenvolvimento da Indústria de Cibersegurança em Taiwan
 
-### Primeiro estágio: fase de germinação (2000‑2005)
+### Fase Um: Estágio Inicial (2001-2004)
 
-**Estabelecimento do sistema governamental**
+**Estabelecimento do Sistema Governamental**
+Em março de 2001, o Executivo estabeleceu o "Centro Técnico do Conselho Nacional de Segurança da Informação e Comunicações", que marca o início do sistema governamental de cibersegurança [^5]. O governo começou a reconhecer a importância da segurança da informação e estabeleceu mecanismos de governança cibernética em nível nacional.
 
-Em março de 2001, o Conselho de Segurança da Informação Nacional (國家資通安全會報) estabeleceu o Centro de Serviços Técnicos do Conselho de Segurança da Informação Nacional, que foi o ponto de partida para o desenvolvimento da indústria de segurança da informação em Taiwan[^5]. O governo começou a reconhecer a importância da segurança da informação e estabeleceu um mecanismo de governança de segurança da informação em nível nacional.
+**Primeiro Plano Mecanístico (2001-2004)**
+Em 17 de janeiro de 2001, o Executivo promulgou o "Plano para Estabelecer um Sistema de Segurança da Infraestrutura de Informação e Comunicação do País", completando o mecanismo de classificação de segurança cibernética das agências governamentais e estabelecendo a visão de "garantir um ambiente de comunicação da informação seguro e confiável".
 
-**Primeiro plano de mecanismo (2001‑2005)**
+**Desenvolvimento Industrial Inicial**
+Neste período, a indústria de cibersegurança em Taiwan estava apenas começando, focada principalmente em produtos de segurança básicos como antivírus e firewalls. O mercado era limitado e o nível tecnológico era relativamente baixo.
 
-O Conselho de Ministros promulgou o Plano de Mecanismo de Segurança da Infraestrutura de Informação Nacional, estabelecendo a visão de “garantir que nosso país possua um ambiente de comunicação de informação seguro e confiável”.
+### Fases Dois e Três: Da Infraestrutura ao Crescimento Rápido (2005-2015)
 
-**Desenvolvimento inicial da indústria**
+A partir de 2005, o governo expandiu o escopo da classificação de níveis de segurança cibernética das agências [^7], e empresas internacionais de cibersegurança começaram a estabelecer bases em Taiwan, trazendo tecnologias avançadas e experiência gerencial. Empresas locais também estabeleceram posições de mercado em áreas específicas. Entre 2010 e 2015, a popularização do processamento em nuvem impulsionou uma nova onda de inovação tecnológica em cibersegurança, tornando a segurança de dispositivos móveis uma oportunidade emergente. O governo e o setor privado começaram a estabelecer mecanismos de compartilhamento de inteligência de ameaças, melhorando significativamente a capacidade geral de defesa.
 
-Durante esse período, a indústria de segurança da informação em Taiwan estava apenas começando, focada principalmente em produtos de segurança básicos como antivírus e firewalls; o tamanho do mercado era limitado e o nível tecnológico relativamente baixo.
+### Fases Quatro e Cinco: Da Especialização à Integração Industrial (2015-2025)
 
-### Segundo e terceiro estágios: da infraestrutura à fase de rápido crescimento (2005‑2015)
+Entre 2015 e 2020, a IA e o aprendizado de máquina começaram a substituir as proteções baseadas em regras tradicionais, levando Taiwan a desenvolver soluções de defesa contra APT (Ameaças Persistentes Avançadas). A Lei de Proteção de Dados Pessoais, revisada em 2012, e a Lei de Gestão da Segurança da Informação e Comunicações, implementada em 2019, elevaram continuamente os requisitos de conformidade cibernética para empresas e setores públicos. Em novembro do mesmo ano, o Executivo divulgou os "Princípios de Aquisição de Produtos Autônomos de Cibersegurança", impulsionando ativamente a indústria local [^7]. Entre 2020 e 2025, a pandemia impulsionou a popularização do trabalho remoto, tornando a arquitetura Zero Trust (Confiança Zero) dominante. A tensão geopolítica internacional tornou a segurança da cadeia de suprimentos um novo tema.
 
-Entre 2005 e 2010, o governo estabeleceu um sistema de proteção em níveis, e fornecedores internacionais de segurança da informação foram abrindo filiais em Taiwan, trazendo tecnologias avançadas e experiência de gestão; os fornecedores locais também foram gradualmente estabelecendo posições de mercado em áreas específicas. De 2010 a 2015, a popularização da computação em nuvem impulsionou uma nova onda de inovação em segurança da informação, a segurança de dispositivos móveis tornou‑se uma oportunidade de mercado emergente, e governo e setor privado começaram a estabelecer mecanismos de compartilhamento de inteligência de ameaças, elevando significativamente a capacidade de defesa geral.
+### Fase Seis: Transição Inteligente (2025-Atualmente)
 
-### Quarto e quinto estágios: profissionalização à integração industrial (2015‑2025)
+**Segurança de IA Generativa**
+A popularização de IAs generativas como o ChatGPT fez da segurança de IA um campo emergente, incluindo segurança de modelos de IA e governança de IA.
 
-De 2015 a 2020, IA e aprendizado de máquina começaram a substituir a proteção baseada em regras tradicional, e Taiwan desenvolveu soluções de proteção APT; a implementação da Lei de Proteção de Dados Pessoais também impulsionou a demanda corporativa por conformidade de segurança da informação. De 2020 a 2025, a pandemia impulsionou a adoção do trabalho remoto, e a arquitetura de confiança zero tornou‑se dominante; a tensão geopolítica internacional tornou a segurança da cadeia de suprimentos um novo tema; o princípio de aquisição de produtos de segurança da informação autônomos do governo impulsionou ainda mais o desenvolvimento da indústria local.
+**Preparação para a Segurança Quântica**
+Diante das ameaças do processamento quântico, começou-se o desenvolvimento de tecnologias criptográficas pós-quânticas, preparando-se para os desafios futuros em cibersegurança.
 
-### Sexto estágio: transformação inteligente (2025‑atuais)
+**Aprimoramento da Resiliência Digital**
+O foco mudou da mera defesa para a resiliência digital, enfatizando a capacidade do sistema de se recuperar rapidamente após um ataque.
 
-**Segurança de IA generativa**
+## Evolução do Sistema Governamental de Cibersegurança
 
-Com a popularização de IA generativa como ChatGPT, a segurança de IA tornou‑se um campo emergente, incluindo segurança de modelos de IA e governança de IA.
+### Desenvolvimento Estrutural
 
-**Preparação para segurança quântica**
+O Conselho Nacional de Segurança da Informação e Comunicações (National Communications Security Council) foi estabelecido pelo Executivo em 2001 e permanece como o mecanismo máximo para coordenar os trabalhos de segurança cibernética entre ministérios e promover a estratégia nacional. A partir de março de 2026, a base legal do Conselho foi elevada das regras administrativas para o "Regulamento de Estabelecimento do Conselho Nacional de Segurança da Informação e Comunicações" [^5]. Em março de 2013, o Executivo estabeleceu um escritório de cibersegurança com tarefas designadas; em 1º de agosto de 2016, a Agência de Cibersegurança (Cybersecurity Agency) foi formalmente criada para executar políticas e desenvolver regulamentos [^13]. Em 2022, o Departamento de Desenvolvimento Digital foi estabelecido, sob o qual está a **Agência de Segurança da Informação e Comunicações**, responsável pelo planejamento, defesa, exercícios e auditoria das políticas nacionais de cibersegurança. O diretor da Agência também ocupa o cargo de secretário executivo do Conselho [^13].
 
-Diante das ameaças da computação quântica, começou a desenvolver tecnologias de criptografia pós‑quântica, preparando‑se para os desafios futuros de segurança da informação.
+### Regulamentos e Políticas Importantes
 
-**Aumento da resiliência digital**
+A "Lei de Gestão da Segurança da Informação e Comunicações" [^6] foi promulgada em junho de 2018 e entrou em vigor em 1º de janeiro de 2019, estabelecendo a estrutura de gerenciamento nacional de cibersegurança, fortalecendo a proteção de infraestruturas críticas e melhorando a capacidade de resposta a incidentes cibernéticos. A versão integral foi revisada em setembro de 2025 e entrou em vigor em 1º de dezembro do mesmo ano. Em novembro de 2019, o Executivo divulgou os "Princípios de Aquisição de Produtos Autônomos de Cibersegurança", incentivando as agências governamentais a adotarem produtos de cibersegurança nacionais e reduzindo a dependência de produtos estrangeiros. O "Plano Nacional de Desenvolvimento da Segurança da Informação e Comunicações (Anos 110 a 113)" (2021-2024) tinha como visão "construir uma nação inteligente e resiliente", com três objetivos: tornar-se um centro regional de pesquisa e treinamento em cibersegurança para o Pacífico, construir uma rede básica de defesa proativa e criar um ambiente cibernético através da cooperação público-privada [^7].
 
-Da simples proteção para a resiliência digital, enfatizando a capacidade de recuperação rápida do sistema após um ataque.
+## Empresas Importantes de Cibersegurança e Suas Contribuições
 
-## Evolução do sistema de segurança da informação do governo
+### Corporações de Nível Internacional: Trend Micro (趨勢科技)
 
-### Desenvolvimento da estrutura organizacional
+**Posição Global**
+A Trend Micro foi cofundada em 1988 por Chang Ming-Cheng, Chen Yi-Chin e Chen Yi-Hua, sendo uma das empresas de cibersegurança mais bem-sucedidas originárias de Taiwan. Ela se autodenomina líder global em segurança cibernética baseada na web [^4].
 
-O Conselho de Segurança da Informação Nacional (國家資通安全會報) atuou como órgão decisório supremo, coordenando o trabalho de segurança da informação de vários ministérios e promovendo a estratégia nacional de segurança da informação. O Departamento de Segurança da Informação do Conselho de Ministros (行政院資通安全處), criado em 2011, é responsável pela execução de políticas e elaboração de regulamentos. Em 2022, após a criação do Departamento de Desenvolvimento Digital, o Departamento de Segurança da Informação foi reestruturado e elevado a **Agência de Segurança da Informação** (資通安全署), adquirindo maior poder executivo e coordenando os assuntos nacionais de segurança da informação.
+A Trend Micro foi pioneira no lançamento de serviços de segurança em nuvem, como Hosted Email Security, e desenvolveu a plataforma Deep Security para proteger ambientes híbridos físicos, virtuais e em nuvem; sua rede global de inteligência de ameaças fornece informações em tempo real. Nos últimos anos, a empresa também investiu paralelamente em P&D bidirecional de "IA para Segurança" e "Segurança para IA". Atualmente, mais de 500.000 empresas no mundo utilizam produtos da Trend Micro [^4]. No campo da segurança de controle industrial (ICS), a Trend formou uma joint venture com Moxa (四零四科技) chamada TXOne Networks, na qual a Trend detém a maioria das ações [^15], estabelecendo um padrão internacional para a indústria de cibersegurança de Taiwan.
 
-### Regulamentações e políticas importantes
+### Corporação Nacional: China Cybersecurity (中華資安)
 
-A Lei de Gestão de Segurança da Informação e regulamentos relacionados (資通安全管理法) publicada e em vigor em 2018[^6] estabeleceu a estrutura de gestão de segurança da informação nacional, reforçando a proteção de infraestruturas críticas e melhorando a capacidade de resposta a incidentes de segurança. O Princípio de Aquisição de Produtos de Segurança da Informação Autônomos de 2019 incentivou as agências governamentais a priorizar a aquisição de produtos de segurança da informação nacionais, reduzindo a dependência de produtos estrangeiros. De 2021 a 2025, a Estratégia Nacional de Segurança da Informação se concentrou em construir resiliência digital, aprofundar a colaboração público‑privada e aumentar a capacidade da indústria de segurança da informação.
+**Contexto e Posição**
+A China Cybersecurity é uma subsidiária do grupo Chunghwa Telecom, sendo um dos principais provedores de serviços de gerenciamento de segurança (MSSP) em Taiwan.
 
-## Empresas de segurança da informação importantes e suas contribuições
+A China Cybersecurity oferece quatro tipos de serviços centrais: monitoramento de segurança 24/7 SOC, avaliação regular de vulnerabilidades e testes de penetração, investigação e recuperação de incidentes cibernéticos, e treinamento em cibersegurança. É uma das principais empresas no mercado MSSP de Taiwan, servindo agências governamentais e grandes corporações, e mantém parcerias estratégicas com fornecedores internacionais.
 
-### Empresa internacional: Ch'üeh-sè K'ó-ki (趨勢科技)
+### Referência Startup: Ouyi Smart (奧義智慧)
 
-**Posição global**
+**Inovação em Cibersegurança baseada em IA**
+A Ouyi Smart foi fundada em 2017, focando em soluções de cibersegurança impulsionadas por IA [^10].
 
-Ch'üeh-sè K'ó-ki (趨勢科技) foi fundada em 1988, é a empresa de segurança da informação mais bem‑sucedida de Taiwan e uma das três maiores empresas globais de segurança cibernética[^4].
+**Tecnologias Centrais**
 
-Ch'üeh-sè K'ó-ki liderou o lançamento de serviços de segurança em nuvem como Hosted Email Security e desenvolveu a plataforma Deep Security para proteger ambientes físicos, virtuais e híbridos em nuvem; a rede global de inteligência de ameaças fornece informações em tempo real, e nos últimos anos também investiu simultaneamente em “AI for Security” e “Security for AI”. Atualmente, mais de 500.000 empresas em todo o mundo utilizam produtos Ch'üeh-sè K'ó-ki, e na área de segurança de controle industrial lançou a marca TXOne, estabelecendo um padrão internacional para a indústria de segurança da informação em Taiwan.
+A Ouyi Smart utiliza aprendizado de máquina para detectar ameaças analisando comportamentos anômalos e combina isso com funcionalidades de forense automatizada de incidentes para criar um sistema de defesa de ameaças automatizado. Em uma conferência de cibersegurança em Taiwan em 2021, a empresa exibiu uma sala de situação de cibersegurança baseada em IA apresentada por VR [^10].
 
-### Empresa estatal: Chung-hua Tsai-an (中華資安)
+**Reconhecimento Industrial**
 
-**Antecedentes e posicionamento**
+- Em 2021, a Presidente Tsai Ing-wen (蔡英文) operou pessoalmente a sala de situação de cibersegurança de IA da Ouyi Smart [^10].
+- Em abril de 2025, a China Cybersecurity investiu NT$65 milhões na CyCraft Technology (賽博創新科技), a controladora de 100% da Ouyi Smart [^11].
 
-Chung-hua Tsai-an (中華資安) é uma subsidiária do Grupo Chunghwa Telecom e o maior provedor de serviços de segurança gerenciada (MSSP) em Taiwan.
+### Outras Empresas Importantes
 
-Chung-hua Tsai-an oferece monitoramento de segurança SOC 24/7, avaliações regulares de vulnerabilidades e testes de penetração, investigação e recuperação de incidentes de segurança, e treinamento de segurança da informação, quatro serviços centrais; é a marca líder no mercado MSSP de Taiwan, atendendo órgãos governamentais e grandes empresas, e mantém parcerias estratégicas com fornecedores internacionais.
+**Ango Information (安碁資訊)**
 
-### Startup de referência: Ao I Chih-hui (奧義智慧)
-
-**Inovação em IA de segurança da informação**
-
-Ao I Chih-hui (奧義智慧) foi fundada em 2017 e se concentra em soluções de segurança da informação impulsionadas por IA[^4].
-
-**Tecnologia central**
-
-Ao I Chih-hui utiliza aprendizado de máquina para analisar comportamentos anômalos e detectar ameaças, combinando funcionalidades de análise de incidentes automatizada por IA para criar um sistema de defesa de ameaças automatizado, e desenvolveu uma ferramenta de gerenciamento de segurança da informação com interface de sala de guerra em VR.
-
-**Reconhecimento da indústria**
-
-- O presidente Tsai Ing-wen visitou pessoalmente a demonstração
-- Recebeu um investimento estratégico de 65 milhões de dólares da Chung-hua Tsai-an (2025‑04)[^4]
-- O laboratório CyCraft AI continua a pesquisa e desenvolvimento tecnológico
-
-### Outras empresas importantes
-
-**An-chi K'ó-ki (安碁科技)**
-
-An-chi K'ó-ki (安碁科技) foi fundada em 1993 e é uma das primeiras empresas locais a se envolver em negócios de segurança da informação. Com PKI (infraestrutura de chaves públicas) como tecnologia central, assumiu projetos de construção de centros de gerenciamento de certificados governamentais (GRCA/GCA), oferecendo serviços de autenticação de identidade digital para indivíduos e empresas, e é o principal arquiteto da infraestrutura de confiança do governo eletrônico de Taiwan. Em assinaturas digitais, comunicações criptografadas e controle de acesso, An-chi K'ó-ki acumulou mais de trinta anos de profundidade tecnológica e continua a manter a posição dominante no mercado de certificados digitais do setor público.
+A Ango Information foi fundada em 2000, começando com serviços de hospedagem de data centers. Poucos anos depois, expandiu para o Centro de Operação de Segurança Cibernética (SOC), e começou a oferecer serviços de teste de segurança em 2016. Em 2017, fundou o ACSI-CSIRT (Centro de Resposta a Incidentes de Cibersegurança). Em 2024, sua receita foi de NT$2.146 bilhões, e a iThome a descreve como a maior provedora de serviços de cibersegurança em Taiwan [^12].
 
 **TWCERT/CC**
 
-TWCERT/CC (Centro de Resposta e Coordenação de Crises de Rede de Computador de Taiwan) foi estabelecido em 1998 e agora é supervisionado pelo Instituto Nacional de Segurança da Informação (NICS). É a plataforma oficial de notificação e coordenação de incidentes de segurança da informação em Taiwan. Suas funções principais incluem recepção e coordenação de incidentes de segurança domésticos, divulgação e notificação de vulnerabilidades, emissão de alertas de ameaças, e representa Taiwan em fóruns internacionais como FIRST (Forum de Resposta a Incidentes de Computador) e APCERT (Organização de Coordenação de Resposta a Emergências de Computador da Ásia‑Pacífico).
+O Centro Nacional de Resposta e Coordenação a Crises de Computação (TWCERT/CC) foi fundado na Universidade de中山 (Zhongshan) em 1998 e, a partir de janeiro de 2024, é operado pelo Instituto Nacional de Segurança da Informação e Comunicações (NICS) [^14]. É a plataforma oficial para notificação e coordenação de incidentes cibernéticos em Taiwan. Suas funções centrais incluem o recebimento e tratamento de incidentes cibernéticos domésticos, a divulgação e notificação de vulnerabilidades cibernéticas e a emissão de alertas de ameaças, representando Taiwan em redes internacionais como FIRST (Forum of Incident Response Teams) e APCERT (Asia Pacific Computer Emergency Response Team).
 
-**Ching-cheng Tsun-sun (精誠資訊)**
+**Jingcheng Information (精誠資訊)**
 
-- Transformação de integrador de sistemas em serviços de segurança da informação
-- Fornece soluções de segurança da informação corporativa
-- Parceiro importante em projetos de segurança da informação governamentais
+- Transformação de integrador de sistemas para serviços de cibersegurança
+- Fornecimento de soluções corporativas de cibersegurança
+- Parceiro importante em projetos governamentais de segurança cibernética
 
-**Jui-yang Tsun-sun (叡揚資訊)**
+**Ruiyang Information (叡揚資訊)**
 
-- Desenvolvimento de plataforma de gerenciamento de segurança da informação
-- Construção de sistemas de segurança da informação para órgãos governamentais
-- Serviços de consultoria em governança de segurança da informação
+- Desenvolvimento de plataformas de gerenciamento de cibersegurança
+- Construção de sistemas de segurança para agências governamentais
+- Serviços de consultoria em governança de cibersegurança
 
-## Ecossistema da indústria de segurança da informação
+## Ecossistema da Indústria de Cibersegurança
 
-A cadeia da indústria de segurança da informação em Taiwan é composta por três camadas: a camada superior fornece a base tecnológica por meio de universidades, institutos de pesquisa, programas de financiamento governamental e cooperação tecnológica internacional; a camada intermediária, composta por fabricantes de hardware e software de segurança, integradores de sistemas e provedores de serviços de segurança, é responsável pelo desenvolvimento de produtos; a camada inferior abrange aplicações em órgãos governamentais, setor financeiro, manufatura e pequenas e médias empresas, com uma estrutura de demanda diversificada.
+A cadeia de valor da indústria de cibersegurança de Taiwan é composta por três camadas: o **upstream** (montante) fornece a base tecnológica através de universidades, centros de pesquisa e projetos de P&D financiados pelo governo; o **midstream** (meio) é responsável pelo desenvolvimento de software e hardware de segurança cibernética, integradores de sistemas e provedores de serviços; e o **downstream** (montante) abrange usuários finais como agências governamentais, setor financeiro, manufatura e pequenas e médias empresas, com uma estrutura de demanda diversificada.
 
-### Sistema de formação de talentos
+### Sistema de Formação de Talentos
 
-**Instituições acadêmicas**
+**Instituições Acadêmicas**
 
-- Instituto de Pesquisa em Segurança da Informação da Universidade Nacional Yang‑Ming‑Chiao‑Tung (國立陽明交通大學)
-- Departamento de Gestão de Informação da Universidade de Tecnologia de Taiwan (台灣科技大學)
-- Departamento de Engenharia de Informação da Universidade Central (中央大學)
+- Instituto de Segurança da Informação da Universidade Nacional de Yangming (anteriormente National Taiwan University, fusão em fevereiro de 2021)
+- Departamento de Ciência da Computação e Sistemas de Informação da Universidade de Tecnologia de Taiwan
+- Departamento de Engenharia da Informação da Universidade Central
 
-**Certificações profissionais**
+**Certificações Profissionais**
 
 - CISSP (Certified Information Systems Security Professional)
 - CEH (Certified Ethical Hacker)
 - CISA (Certified Information Systems Auditor)
 
-**Treinamento industrial**
+**Treinamento Industrial**
 
-- Programa de Formação de Talentos de Segurança da Informação da Ch'üeh-sè K'ó-ki
-- Programa de Cursos de Segurança da Informação da Academia Chunghwa Telecom
-- Treinamento técnico de diversos fornecedores de segurança da informação
+- Programa de Formação de Talentos em Cibersegurança da Trend Micro
+- Cursos de cibersegurança do Chunghwa Telecom College
+- Treinamentos técnicos fornecidos por várias empresas de cibersegurança
 
-### Colaboração entre governo, indústria e academia
+### Cooperação Governamental-Acadêmica-Industrial (P-A-I)
 
-**Colaboração em pesquisa e desenvolvimento**
+**Cooperação em P&D**
 
-- Centro de Pesquisa de Segurança da Informação do Instituto Nacional de Pesquisa Experimental (國家實驗研究院)
-- Projeto de Pesquisa de Segurança da Informação do Departamento de Tecnologia do Ministério da Economia (經濟部技術處)
-- Projeto de Pesquisa em Segurança da Informação do Conselho Nacional de Ciência e Tecnologia (國科會)
+- Instituto Nacional de Segurança da Informação e Comunicações (reestruturado do Centro de Excelência em Cibersegurança do Instituto Nacional de Pesquisa, em 2023)
+- Projetos especializados de cibersegurança do Departamento de Tecnologia do Ministério da Economia
+- Programas de pesquisa em cibersegurança financiados pela Academia Nacional de Ciências
 
-**Elaboração de padrões**
+**Estabelecimento de Padrões**
 
-- Elaboração de padrões de tecnologia de segurança da informação
-- Elaboração de diretrizes de melhores práticas
-- Participação em padrões internacionais
+- Desenvolvimento de padrões técnicos de cibersegurança
+- Criação de diretrizes de melhores práticas
+- Participação na padronização internacional
 
-## Conferência de Segurança da Informação em Taiwan: plataforma de troca da indústria
+## Conferência de Cibersegurança em Taiwan: Plataforma de Intercâmbio Industrial
 
-### Influência do CYBERSEC
+### A Influência da CYBERSEC
 
-**Maior conferência de segurança da informação na Ásia‑Pacífico**
+**O Maior Evento Anual de Cibersegurança em Taiwan**
+A Conferência de Cibersegurança em Taiwan (CYBERSEC), realizada desde 2015, é o maior evento anual de cibersegurança em Taiwan. A iThome, organizadora, descreve a exposição como a maior feira de cibersegurança da Ásia [^3].
 
-Desde 2015, a Conferência de Segurança da Informação em Taiwan (CYBERSEC) tornou‑se um dos eventos de segurança da informação mais influentes na Ásia‑Pacífico[^3].
+**Tema de 2025: TEAM CYBERSECURITY**
+Enfatiza que a segurança cibernética requer cooperação em equipe; tanto indivíduos quanto organizações são partes importantes da segurança digital.
 
-**Tema 2025: TEAM CYBERSECURITY**
+**Escala de Participação em 2025**
 
-Enfatiza que a segurança cibernética requer trabalho em equipe, seja para indivíduos ou organizações, sendo uma parte crucial da segurança digital.
+- Previsto para mais de 20.000 profissionais de cibersegurança nacionais e internacionais participarem
+- Mais de 300 sessões técnicas
+- Mais de 400 marcas de cibersegurança e mais de 1.300 estandes
 
-**Escala de participação**
+### Benefícios do Intercâmbio Industrial
 
-- Mais de 10.000 profissionais participam
-- Mais de 300 palestrantes internacionais compartilham experiências
-- Mais de 100 fornecedores de segurança da informação exibem as tecnologias mais recentes
+A CYBERSEC oferece benefícios de intercâmbio industrial em três níveis: compartilhamento de tendências tecnológicas (aplicações de IA em segurança, práticas Zero Trust, segurança em nuvem, criptografia quântica), oportunidades de cooperação internacional (intercâmbio com agências de cibersegurança dos EUA, Japão e Europa, participação na padronização, compartilhamento de inteligência de ameaças transnacional) e promoção da formação de talentos (workshops de habilidades, orientação de carreira, intermediação P-A-I).
 
-### Benefícios da troca da indústria
+## Novas Tecnologias e Desafios
 
-CYBERSEC oferece três níveis de benefícios de troca da indústria: compartilhamento de tendências tecnológicas (aplicações de IA em segurança da informação, práticas de confiança zero, segurança em nuvem, criptografia quântica), oportunidades de colaboração internacional (interação com agências de segurança da informação dos EUA, Japão, Europa, participação na elaboração de padrões, compartilhamento de inteligência de ameaças transnacionais), e promoção de formação de talentos (workshops de habilidades, orientação de carreira, mediação de colaboração academia‑indústria).
+### Transformação em Cibersegurança na Era da IA
 
-## Tecnologias emergentes e desafios
+Na direção "IA para Segurança", o aprendizado de máquina é usado para analisar padrões de comportamento malicioso, automatizar a resposta a incidentes, realizar avaliação inteligente de riscos e identificar comportamentos anômalos de usuários, aumentando significativamente a eficiência da detecção de ameaças.
 
-### Transformação de segurança da informação na era da IA
+A direção "Segurança para IA" foca na segurança dos próprios sistemas de IA: proteger os modelos contra ataques ou adulterações, garantir a privacidade dos dados de treinamento, detectar vieses nas decisões e aumentar a transparência das decisões de IA, sendo um foco de pesquisa emergente da indústria de cibersegurança nos últimos anos.
 
-Na direção “AI for Security”, o aprendizado de máquina é usado para analisar padrões de comportamento malicioso, responder automaticamente a incidentes, avaliar riscos de forma inteligente e identificar comportamentos de usuários anômalos, aumentando significativamente a eficiência da detecção de ameaças.
+### Ameaças Quânticas e Criptografia Pós-Quântica
 
-Na direção “Security for AI”, a segurança dos próprios sistemas de IA é abordada: proteger modelos contra ataques ou adulteração, garantir a privacidade dos dados de treinamento, detectar viés de decisão e aumentar a transparência das decisões de IA, sendo um foco emergente de pesquisa na indústria de segurança da informação nos últimos anos.
-
-### Ameaças quânticas e criptografia pós‑quântica
-
-O desenvolvimento da computação quântica representa uma ameaça fundamental às tecnologias de criptografia existentes. Taiwan já iniciou o desenvolvimento de algoritmos de criptografia pós‑quântica, a atualização de segurança quântica de sistemas existentes e a elaboração de padrões de segurança quântica.
+O desenvolvimento de computadores quânticos representa uma ameaça fundamental às tecnologias criptográficas existentes. Taiwan iniciou o planejamento preliminar, incluindo a pesquisa de algoritmos de criptografia pós-quântica, o upgrade de sistemas existentes para segurança quântica e a padronização da segurança quântica.
 
 ### Segurança 5G e IoT
 
-A rede 5G introduziu novos desafios, como segurança de fatias de rede, segurança de computação de borda e proteção de infraestrutura de comunicação crítica; no campo da Internet das Coisas, a autenticação de dispositivos, protocolos de criptografia leves e a gestão do ciclo de vida dos dispositivos IoT são questões técnicas que os profissionais de segurança da informação estão enfrentando.
+A rede 5G introduziu novos desafios, como segurança de fatias de rede (network slicing), segurança de computação de borda e proteção de infraestruturas de comunicação críticas; no que diz respeito à Internet das Coisas (IoT), a autenticação de identidade dos dispositivos, protocolos criptográficos leves e o gerenciamento do ciclo de vida dos dispositivos IoT são dificuldades técnicas que os profissionais de cibersegurança estão superando.
 
-## Cooperação internacional e competição
+## Cooperação Internacional e Competição
 
-### Aliança de segurança da informação regional
+### Alianças Regionais de Cibersegurança
 
-**Colaboração de organizações de segurança da informação na Ásia‑Pacífico**
+**Cooperação em Segurança Cibernética da Ásia-Pacífico**
 
-- APCERT (Organização de Coordenação de Resposta a Emergências de Computador da Ásia‑Pacífico)
-- Colaboração de segurança da informação entre Japão e Taiwan
-- Diálogo de segurança cibernética entre EUA e Taiwan
+- APCERT (Asia Pacific Computer Emergency Response Team)
+- Cooperação em cibersegurança Taiwan-Japão
+- Diálogo de segurança cibernética EUA-Taiwan
 
-Taiwan participa da elaboração de padrões internacionais como ISO 27001, o framework de segurança cibernética NIST, e IEC 62443 de segurança de sistemas de controle industrial, sendo uma importante via para reivindicar voz de decisão.
+A participação de Taiwan na padronização internacional, como ISO 27001, NIST Cybersecurity Framework e IEC 62443 para segurança de sistemas de controle industrial (ICS), é um canal importante para reivindicar sua voz.
 
-### Competição no mercado global
+### Competição no Mercado Global
 
-A vantagem competitiva de Taiwan reside na profunda compreensão das necessidades de segurança da informação da indústria manufatureira, no modelo de colaboração estreita entre governo e setor industrial e na capacidade de inovação tecnológica acumulada. Diante de países como Estados Unidos e Israel, as estratégias diferenciadas de Taiwan se concentram em segurança OT/IT integrada em nichos de manufatura, expandindo para mercados emergentes como Sudeste Asiático e Índia, e participando da elaboração de padrões de segurança da cadeia de suprimentos global.
+A vantagem competitiva de Taiwan reside na profunda compreensão das necessidades de cibersegurança da manufatura, no modelo de cooperação estreita entre governo e indústria, e na capacidade acumulada de inovação tecnológica. Diante de potências em cibersegurança como os EUA e Israel, a estratégia diferenciada de Taiwan é focar em nichos industriais como segurança OT/IT integrada, desenvolver novos mercados como o Sudeste Asiático e a Índia, e participar da padronização global da cadeia de suprimentos.
 
-## Tendências e perspectivas de desenvolvimento da indústria
+## Tendências e Perspectivas do Desenvolvimento Industrial
 
-A curto prazo (2026‑2028), o foco principal será a adoção generalizada de arquiteturas de confiança zero (empresas acelerando a adoção, crescimento da demanda por tecnologias de autenticação, desenvolvimento de segmentação de rede) e a transformação de serviços de segurança da informação (da venda de produtos para modelos de serviços gerenciados como SOC as a Service).
+O foco principal no curto prazo (2026-2028) é a popularização da arquitetura Zero Trust (adoção acelerada por empresas, aumento da demanda por tecnologia de autenticação de identidade e desenvolvimento de tecnologia de segmentação de rede) e a serviços de cibersegurança (mudança do modelo de venda de produtos para modelos de serviço gerenciado como SOC as a Service).
 
-A médio prazo (2028‑2030), a atenção se concentrará na autonomia da indústria (pesquisa e desenvolvimento de tecnologias de segurança da informação críticas, redução da dependência de produtos estrangeiros, estabelecimento de uma cadeia de suprimentos completa) e em avanços tecnológicos (aplicações de IA em segurança da informação amadurecendo, comercialização de criptografia pós‑quântica, desenvolvimento de tecnologias de segurança de blockchain).
+O médio prazo (2028-2030) se concentrará na autonomia industrial (P&D autônomo em tecnologias críticas de cibersegurança, redução da dependência de produtos estrangeiros e construção de uma cadeia de suprimentos completa) e avanços tecnológicos (maturação das aplicações de IA em segurança, comercialização da criptografia pós-quântica e desenvolvimento de tecnologia de segurança baseada em blockchain).
 
-A longo prazo (a partir de 2030), o objetivo é estabelecer uma posição de liderança global em nichos como segurança de controle industrial, segurança OT/IT integrada, exportar tecnologias e serviços de segurança da informação de Taiwan, e, com infraestrutura digital resiliente de alta resiliência e aumento da conscientização de segurança da informação em toda a população, construir uma sociedade digital resiliente.
+No longo prazo (após 2030), o objetivo é estabelecer liderança global em nichos como segurança ICS e segurança OT/IT integrada, exportando tecnologias e serviços de cibersegurança de Taiwan. Com o apoio da infraestrutura digital altamente resiliente e do aumento da consciência cibernética nacional, busca-se construir uma sociedade digital resiliente.
 
-## Desafios e oportunidades
+## Desafios e Oportunidades
 
-A indústria de segurança da informação em Taiwan enfrenta três desafios centrais: em termos de talentos, há escassez de profissionais especializados em segurança da informação, fuga de talentos de alta tecnologia e escassez de talentos multidisciplinares; em termos de tecnologia, ainda há lacunas em relação a países como Israel e Estados Unidos, com insuficiente investimento em pesquisa básica e necessidade de fortalecer a comercialização de tecnologia; em termos de mercado, o tamanho interno é limitado, a disposição das empresas em investir em segurança da informação é baixa e a demanda de pequenas e médias empresas ainda precisa ser desenvolvida.
+A indústria de cibersegurança de Taiwan enfrenta três desafios centrais: em termos de talentos, há escassez de profissionais especializados; a fuga de cérebros com habilidades técnicas avançadas é um problema; e o talento composto interdisciplinar é particularmente raro. Em termos tecnológicos, ainda existe uma lacuna em relação a potências como Israel e os EUA, e o investimento em pesquisa básica precisa ser reforçado, bem como a capacidade de comercialização tecnológica. No mercado, o tamanho doméstico é limitado e a disposição das empresas para investir em cibersegurança é baixa, e as necessidades das pequenas e médias empresas ainda precisam ser desenvolvidas.
 
-### Oportunidades de desenvolvimento
+### Oportunidades de Desenvolvimento
 
-A reorganização geopolítica está criando novos espaços para Taiwan: a elevação de sua posição estratégica sob a competição tecnológica EUA‑China, a ampliação dos canais de cooperação em segurança da informação entre democracias, e as oportunidades de participação decorrentes da reestruturação da cadeia de suprimentos. A profunda experiência de Taiwan na indústria manufatureira global também representa uma vantagem diferenciada, sendo as soluções de segurança da indústria 4.0 e a tecnologia de segurança OT/IT integrada os lacunas de demanda mais evidentes no mercado global.
+A reestruturação geopolítica está criando novos espaços para Taiwan: elevação do status estratégico no contexto da competição tecnológica EUA-China, expansão dos canais de cooperação cibernética com o bloco democrático e oportunidades trazidas pela reorganização da cadeia de suprimentos. A profunda acumulação de Taiwan na manufatura também é uma vantagem diferenciada; as soluções de segurança Indústria 4.0 e a tecnologia de integração OT/IT são áreas onde há maior demanda global não atendida.
 
-**Ecossistema de inovação**
+**Criação de Ecossistema**
 
-O número de startups continua a crescer, o governo oferece subsídios e incentivos de aquisição, e os canais de cooperação internacional aumentam com a profundidade da aliança democrática.
+O número de startups continua crescendo, o governo oferece subsídios e incentivos à compra, e os canais de cooperação internacional aumentam com o aprofundamento das alianças democráticas.
 
 ## Conclusão
 
-A indústria de segurança da informação em Taiwan começou com a criação do Conselho de Segurança da Informação Nacional em 2001, passando por seis estágios de germinação, infraestrutura, rápido crescimento, profissionalização, integração industrial e transformação inteligente, formando um ecossistema completo impulsionado por políticas governamentais, inovação de empresas privadas e apoio acadêmico. A presença global da Ch'üeh-sè K'ó-ki, a inovação em IA de segurança da informação da Ao I Chih-hui e a influência da conferência anual CYBERSEC na Ásia‑Pacífico são resultados concretos dessa trajetória.
+A indústria de cibersegurança de Taiwan, desde o estabelecimento do Conselho Nacional de Segurança da Informação e Comunicações pelo Executivo em 2001, passou por seis fases — estágio inicial, infraestrutura básica, crescimento rápido, especialização, integração industrial e transição inteligente. Ela formou um ecossistema completo guiado pela política governamental, inovação corporativa privada e suporte acadêmico. O posicionamento global da Trend Micro, a inovação em cibersegurança de IA da Ouyi Smart e a influência regional da conferência CYBERSEC são resultados concretos dessa jornada.
 
-A escassez de talentos em segurança da informação, a insuficiência de investimento em pesquisa básica e o tamanho limitado do mercado interno continuam sendo os principais gargalos que limitam a evolução da indústria. As oportunidades de Taiwan em nichos como segurança OT/IT integrada, segurança da cadeia de suprimentos e cooperação em segurança da informação entre democracias estão se abrindo; a capacidade de transformar essas oportunidades em tecnologias e serviços exportáveis determinará a posição de longo prazo de Taiwan no mercado global de segurança da informação.
+A escassez de talentos cibernéticos, o investimento insuficiente em pesquisa básica e o mercado doméstico limitado continuam sendo gargalos centrais para o avanço industrial. As oportunidades em nichos como segurança OT/IT integrada, segurança da cadeia de suprimentos e cooperação cibernética do bloco democrático estão se abrindo. A capacidade de transformar essas oportunidades em tecnologias e serviços exportáveis determinará o posicionamento de Taiwan no mercado global de cibersegurança a longo prazo.
 
-**Leitura adicional**:
+**Leitura Adicional**:
 
-- [Taiwan Defense and Military Modernization](/society/台灣國防與軍事現代化) — O primeiro fronteira de guerra de zona cinzenta não é a mina, mas o firewall. O roteiro de três dias antes do exercício 41 da Han Guang é…
-- [Taiwan AI Development](/pt/technology/ai-development-in-taiwan) — O papel duplo da IA na segurança da informação e na defesa
+- [Defesa Nacional e Modernização Militar de Taiwan](/pt/society/taiwan-defense-modernization) — Nos três dias anteriores ao exercício Han-Kang 41, imaginou-se o assédio cinzento da China contra Taiwan
+- [Desenvolvimento de IA em Taiwan](/pt/technology/ai-development-in-taiwan) — O papel duplo da IA na cibersegurança e defesa nacional
 
 ## Referências
 
-[^1]: [Departamento de Desenvolvimento Digital, Agência de Segurança da Informação (ACS)](https://moda.gov.tw/ACS/) — Dados oficiais de políticas e regulamentos de segurança da informação nacional
+[^1]: [Agência de Segurança da Informação e Comunicações (ACS) do Departamento de Desenvolvimento Digital](https://moda.gov.tw/ACS/) — Documentos oficiais sobre políticas e regulamentos nacionais de segurança cibernética
 
-[^2]: [Instituto Nacional de Segurança da Informação (NICS)](https://www.nics.nat.gov.tw/) — Resultados de pesquisa e relatórios de política de segurança da informação de Taiwan
+[^2]: [Instituto Nacional de Segurança da Informação e Comunicações (NICS)](https://www.nics.nat.gov.tw/) — Resultados de pesquisa e relatórios de política de cibersegurança em Taiwan
 
-[^3]: [Conferência CYBERSEC Taiwan](https://cybersec.ithome.com.tw/) — Dados de agenda e escala de participação ao longo dos anos (a partir de 2015)
+[^3]: [Conferência CYBERSEC 2025 em Taiwan](https://cybersec.ithome.com.tw/2025) — Organizada pela iThome; Tema de 2025 TEAM CYBERSECURITY, mais de 300 sessões, mais de 400 marcas de cibersegurança, mais de 1.300 estandes, previsão de mais de 20.000 participantes
 
-[^4]: [Site oficial da Trend Micro (Ch'üeh-sè K'ó-ki)](https://www.trendmicro.com/zh_tw/about.html) — Dados oficiais de empresas de segurança da informação principais de Taiwan, como Ch'üeh-sè K'ó-ki, Ao I Chih-hui (CyCraft, cycraft.com), Chung-hua Tsai-an, incluindo histórico corporativo e explicações técnicas
+[^4]: [Trend Micro | Sobre Nós](https://www.trendmicro.com/zh_tw/about.html) — Website oficial da Trend Micro; utilizada por mais de 500.000 empresas globalmente, com a marca TXOne Networks
 
-[^5]: [Conselho de Segurança da Informação Nacional (NCSC)](https://nicst.ey.gov.tw/) — Estabelecido em 2001, documentos de política de segurança da informação e decisões do conselho
+[^5]: [Origem do Conselho Nacional de Segurança da Informação e Comunicações](https://moda.gov.tw/ACS/nicst/background/658) — Agência de Segurança da Informação e Comunicações do Departamento de Desenvolvimento Digital; o Conselho foi estabelecido em 2001 e opera sob o Regulamento de Estabelecimento a partir de 2 de março de 2026
 
-[^6]: [Lei de Gestão de Segurança da Informação e regulamentos relacionados](https://moda.gov.tw/ACS/laws/549) — Publicada e em vigor em 2018, estabelecendo a estrutura de gestão de segurança da informação nacional
+[^6]: [Evolução Legal da Lei de Gestão da Segurança da Informação e Comunicações](https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=A0030297) — Banco de dados legal nacional; promulgada em 6 de junho de 2018, entrou em vigor em 1º de janeiro de 2019, revisada integralmente em 24 de setembro de 2025, entrando em vigor em 1º de dezembro
 
-[^7]: [Departamento de Desenvolvimento Industrial do Ministério da Economia](https://www.moea.gov.tw/) — Relatório de desenvolvimento da indústria de segurança da informação, tamanho e estatísticas de mercado de Taiwan
+[^7]: [Plano Nacional de Desenvolvimento da Segurança da Informação e Comunicações (Anos 110 a 113)](https://www-api.moda.gov.tw/File/Get/acs/zh-tw/x9U2Gtwj3y8EaXF) — Conselho Nacional de Segurança da Informação e Comunicações do Executivo, versão revisada em julho de 2024; inclui a evolução dos planos mecânicos das fases um a cinco e os "Princípios de Aquisição de Produtos Autônomos de Cibersegurança"
 
-[^8]: [iThome Notícias sobre Segurança da Informação](https://www.ithome.com.tw/security) — Notícias dinâmicas sobre a indústria de segurança da informação de Taiwan
+[^8]: [Relatórios de notícias de cibersegurança da iThome](https://www.ithome.com.tw/security) — Notícias dinâmicas da indústria de cibersegurança em Taiwan
 
-[^9]: [Rede de Tecnologia de Segurança da Informação](https://www.informationsecurity.com.tw/) — Relatório de análise aprofundada da indústria de segurança da informação de Taiwan
+[^9]: [Rede Tecnológica de Segurança Cibernética](https://www.informationsecurity.com.tw/) — Relatório aprofundado sobre a indústria de cibersegurança em Taiwan
+
+[^10]: [Presidente Tsai opera pessoalmente a sala de situação de cibersegurança de IA da Ouyi Smart](https://www.cycraft.com/news/cycraft-ai20210504) — Notícia oficial da Ouyi Smart, 4 de maio de 2021, CYBERSEC 2021
+
+[^11]: [China Cybersecurity investe na CyCraft Technology, a controladora da Ouyi Smart](https://finance.technews.tw/2025/04/09/chtsecurity-cycraft/) — Tech News, 9 de abril de 2025; valor do investimento NT$65 milhões
+
+[^12]: [Ango Information revela três motores de crescimento futuros](https://www.ithome.com.tw/news/173065) — iThome, 29 de dezembro de 2025; fundada em 2000, evolução do SOC e testes de segurança, receita de NT$2.146 bilhões no ano fiscal de 113
+
+[^13]: [Evolução histórica da Agência de Segurança da Informação e Comunicações](https://moda.gov.tw/ACS/aboutus/history/608) — Agência de Segurança da Informação e Comunicações do Departamento de Desenvolvimento Digital; Escritório de Cibersegurança em 2013, Agência de Cibersegurança em 1º de agosto de 2016, criação da Agência em 2022
+
+[^14]: [Introdução ao Centro TWCERT/CC](https://www.twcert.org.tw/tw/np-24-1.html) — Fundado na Universidade de Zhongshan em setembro de 1998, operado pelo Instituto Nacional de Segurança da Informação e Comunicações a partir de janeiro de 2024
+
+[^15]: [Trend Micro e Moxa formam joint venture TXOne Networks](https://www.trendmicro.com/zh_tw/about/newsroom/press-releases/2018/2018-11-15.html) — Comunicado de imprensa da Trend Micro, 15 de novembro de 2018; a Trend detém a maioria das ações em TXOne Networks

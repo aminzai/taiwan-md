@@ -1,15 +1,15 @@
 ---
-title: 'Fusão Gastronômica de Novos Residentes em Taiwan'
-description: 'Quando o picante tailandês encontra o doce e salgado taiwanês, quando o *pho* vietnamita encontra o *luwei* taiwanês, e quando os temperos indonésios abraçam ingredientes locais, uma revolução gustativa sem fronteiras está acontecendo silenciosamente em Taiwan. Os novos residentes trazem não apenas a culinária de suas pátrias, mas também novas possibilidades para a rica cultura gastronômica de Taiwan.'
+title: 'Fusão da culinária dos novos residentes em Taiwan'
+description: 'Quando o sabor tailandês picante encontra o doce e salgado taiwanês, quando os fideos vietnamitas se cruzam com os petiscos taiwaneses, e quando os temperos indonésios abraçam os ingredientes locais, uma revolução gustativa transnacional está silenciosamente acontecendo em Taiwan. Os novos residentes trazem não apenas a culinária de suas terras natais, mas também novas possibilidades para a rica cultura gastronômica de Taiwan.'
 date: 2026-03-20
 category: 'Food'
 tags:
   [
-    'Gastronomia de Novos Residentes',
+    'Culinária dos novos residentes',
     'Culinária do Sudeste Asiático',
-    'Fusão Cultural',
-    'Alimentação Diversificada',
-    'Cultura da Imigração',
+    'Fusão cultural',
+    'Alimentação diversificada',
+    'Cultura migrante',
   ]
 subcategory: '族群飲食'
 author: 'Taiwan.md'
@@ -17,351 +17,345 @@ featured: true
 lastVerified: 2026-03-20
 lastHumanReview: false
 image: '/article-images/food/pho-vietnamese-noodle-soup.webp'
-imageAlt: 'Pho vietnamita'
+imageAlt: 'Fideos vietnamitas'
 imageCredit: 'Tayzar44 / Wikimedia Commons'
 readingTime: 10
 imageLicense: 'CC BY 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Pho,_popular_Vietnamese_noodle_soup.jpg'
 translatedFrom: 'Food/台灣新住民美食融合.md'
-sourceCommitSha: '9094012f4'
-sourceContentHash: 'sha256:77ab88a911a474f4'
-sourceBodyHash: 'sha256:0ecfd7b1fa40d486'
-translatedAt: '2026-09-23T05:53:45+08:00'
+sourceCommitSha: '10b5f473e'
+sourceContentHash: 'sha256:ec43c04dc374e045'
+sourceBodyHash: 'sha256:c3bafaeb7fb89ca0'
+translatedAt: '2026-10-04T00:51:59+08:00'
 ---
 
-# Fusão Gastronômica de Novos Residentes em Taiwan
+# Fusão da culinária dos novos residentes em Taiwan
 
-> "O sabor da pátria não desaparece; ele floresce de maneiras diferentes na nova terra."
->
-> —— Ruan Shi-yun (esposa do lar, imigrante tailandesa/vietnamita, há 20 anos)
+No bairro de An Kang em Muzha, em Taipé, nos anos 1980 era o maior ponto de concentração de chineses vietnamitas em Taiwan; naquela época, a rua Muzha ainda era chamada de "Rua do Vietnã"; há cerca de duas décadas, o bairro recebeu uma nova onda de novos residentes vietnamitas que se casaram em Taiwan. Sin Shi-ping, que se casou em Taiwan há mais de vinte anos, cujo marido era um chinesês vietnamita que chegou como refugiado há muito tempo, seu quiosque de macarrão rapidamente serviu um prato de pho vietnamita — o café da manhã preferido dos vietnamitas locais[^1]。
 
-Na rua subterrânea da Estação de Taipei, um pequeno restaurante discreto exala o aroma de capim-limão e leite de coco. A proprietária, A-Chia, é uma nova residente da Indonésia, e ela prepara um caril indonésio autêntico usando ingredientes locais de Taiwan. "O repolho taiwanês é mais doce que o indonésio", ela diz. "Então meu caril tem um sabor mais suave, algo que os taiwaneses preferem."
+Numa comunidade onde se sobreponhem duas gerações de migrantes vietnamitas: os chineses que fugiram de Hoa Binh por volta de 1975, e os novos residentes que chegaram a partir da década de 1990 por meio de casamentos internacionais. O percentual de casamentos internacionais no total de casais do país atingiu 31,86% em 2003, ou seja, quase um em cada três casais novos[^2]。Eles trouxeram a culinária de suas terras natais, e também foram moldando esses sabores no fogão taiwanês, combinando ingredientes locais e os paladares dos taiwanueses.
 
-Este pequeno ajuste simboliza a característica central da cultura gastronômica dos novos residentes em Taiwan: não é mera replicação, mas sim fusão criativa. A partir da década de 1990, imigrantes do Sudeste Asiático começaram a chegar a Taiwan, trazendo não apenas mão de obra, mas também culturas alimentares vibrantes. Hoje, esses sabores estrangeiros estão profundamente integrados no mapa gastronômico taiwanês, testemunhando o sabor mais delicioso da diversidade cultural de Taiwan.
+## Trajetória do desenvolvimento da culinária dos novos residentes em Taiwan
 
-## A Trajetória da Gastronomia dos Novos Residentes em Taiwan
+### 1990-2000: os primeiros passos para se estabelecerem
 
-### 1990-2000: O Início das Raízes
+No final da década de 1990, os casamentos internacionais em Taiwan aumentaram rapidamente. Entre os imigrantes do Sudeste Asiático, os vietnamitas eram os mais numerosos: até maio de 2012, havia mais de 130 mil imigrantes asiáticas, dos quais 66,29% eram vietnamitas, seguidos por indonésios, filipinos, tailandeses e cambojanos[^2]。Inicialmente, elas cozinhavam principalmente em casa, e esses sabores exóticos eram conhecidos apenas em pequenas comunidades.
 
-Na década de 1990, Taiwan começou a ver um grande número de casamentos internacionais, com mulheres vindas do Vietnã, Indonésia, Tailândia e Filipinas chegando sucessivamente. Inicialmente, elas cozinhavam pratos de suas pátrias para as famílias em casa, e esses sabores estrangeiros circulavam apenas em círculos pequenos.
+Nessa fase, a culinária dos novos residentes mantinha-se relativamente pura. O pho (macarrão vietnamita), o Tom Yum (sopa tailandesa picante), o Rendang (carne em molho de coco indonésio), todos eram preparados para preservar o sabor autêntico de suas terras natais. No entanto, devido à dificuldade de obter ingredientes, muitos novos residentes começaram a usar ingredientes taiwaneses para substituir temperos e vegetais típicos.
 
-A culinária dos novos residentes neste período ainda mantinha uma forma relativamente pura. O _pho_ vietnamita, o _Tom Yam_ tailandês e o _Rendang_ indonésio tentavam manter os sabores originais de suas terras natais. No entanto, devido à dificuldade em obter ingredientes, muitos novos residentes começaram a aprender a usar ingredientes locais de Taiwan para substituir especiarias e vegetais de sua pátria.
+### 2000-2010: os primeiros passos para a comercialização
 
-### 2000-2010: O Broto da Comercialização
+No início do século XXI, com o aumento do número de novos residentes e a maior aceitação da sociedade taiwana por culturas diversificadas, a culinária dos novos residentes começou a sair de casa e a entrar no mercado comercial.
 
-No início do século XXI, com o aumento do número de novos residentes e a maior aceitação cultural em Taiwan, a gastronomia dos novos residentes começou a sair dos lares e entrar no mercado comercial.
+Na verdade, o mapa de sabores do Sudeste Asiático em Taiwan já existia antes dos novos residentes. O mercado de Zhongzhen em Taoyuan era famoso por seus pratos de arroz e macarrão de Yunnan e Tailândia, cujo início remonta a 1954, quando o Ministério da Defesa construiu o bairro de Zhongzhen para acolher os soldados e famílias que vieram de Yunnan, Tailândia e Birmania após a retirada do governo[^3]。Essa foi uma migração civil pós-guerra, diferente da onda de imigrantes casados da década de 1990.
 
-As barracas de _pho_ vietnamita começaram a aparecer na Rua Huaxi e no Mercado Noturno de Nanqi, em Taipé; o Novo Vilarejo Zhongli se tornou uma área com forte sabor Yunnan-Tailando-Mian, devido à grande concentração de imigrantes chineses do Tailândia e Mianmo; e ao redor da estação de trem em Taoyuan, concentraram-se restaurantes indonésios.
+As lojas de novos residentes e imigrantes trabalhadores costumam se estabelecer onde há concentração de pessoas da mesma região. Na rua Yilan em Taoyuan, perto da estação ferroviária, as lojas de pho vietnamita e as lojas de produtos asiáticos cheias de temperos se estendem por toda a rua, atraindo principalmente trabalhadores vietnamitas que vivem em Taoyuan[^4]。
 
-Neste período, a culinária dos novos residentes começou a apresentar uma tendência de "localização". Para se adaptar às preferências gustativas taiwanesas, muitos pratos foram ajustados em termos de picância, acidez e doçura. Os pratos tailandeses reduziram o uso de molho de peixe e aumentaram a proporção de molho de soja; os pratos vietnamitas diminuíram o uso de coentro e aumentaram o alho-poró familiar aos taiwaneses.
+Nessa fase, a culinária dos novos residentes começou a ajustar o nível de picância, acidez e doçura para se adequar aos paladares taiwaneses.
 
-### 2010-2020: A Mainstreaming e Refinamento
+### 2010-2020: rompendo as barreiras para entrar na cultura mainstream
 
-Na década de 2010, a gastronomia dos novos residentes entrou em um período de rápido desenvolvimento. O interesse da sociedade taiwanesa pela cultura do Sudeste Asiático cresceu, e com a promoção da mídia online, os pratos dos novos residentes começaram a entrar no mercado de consumo mainstream.
+Na década de 2010, a sociedade taiwana mostrou um interesse crescente pela cultura do Sudeste Asiático, mas não era fácil para os pequenos restaurantes de novos residentes atrair clientes taiwaneses. Um estudo realizado pelo Departamento de Administração de Alimentação da Universidade Tecnológica de Jiaxing em 2020, encomendado pelo Departamento de Imigração, apontou que os sabores do Sudeste Asiático tendem a ser mais fortes, o que não é fácil de ser aceito pela maioria dos taiwaneses, por isso os clientes desses pequenos restaurantes ainda eram principalmente novos residentes e trabalhadores imigrantes; a culinária vietnamita, por ser mais leve do que as outras culinárias do Sudeste Asiático, era mais bem aceita em Taiwan do que a culinária indonésia[^5]。
 
-Nesse período surgiram muitas marcas de restaurantes conhecidas entre os novos residentes. A _Pho_ Viet é uma rede que faz _pho_ vietnamita; embora o Wai Cheng Thai seja uma marca criada por taiwaneses, ela utiliza muitos chefs tailandeses para promover a culinária tailandesa autêntica; e o Coco Xiang De Nanyang Cuisine foca na culinária malaia e singapureense.
+Outro caminho para transformar a culinária tailandesa em uma rede de restaurantes em Taiwan foi criado por Xu Chengyi, um taiwanês que fundou a marca "Villa" em 1990 e abriu o primeiro restaurante tailandês "Villa Tailandesa"[^6] — uma "culinária tailandesa em Taiwan" completamente diferente dos pequenos quiosques caseiros dos novos residentes.
 
-Ao mesmo tempo, os pratos dos novos residentes também começaram a se refinar. Alguns cozinheiros de novos residentes começaram a enfatizar a qualidade dos ingredientes e a beleza da apresentação, elevando lanches tradicionais de rua para pratos refinados de restaurantes.
+Ao mesmo tempo, a culinária dos novos residentes também começou a apresentar uma tendência de refinamento. Alguns chefs entre os novos residentes começaram a enfatizar a qualidade dos ingredientes e a estética da apresentação, elevando os tradicionais petiscos de rua a pratos de restaurantes mais sofisticados.
 
-### 2020 até Hoje: Inovação Integrada e Identidade Cultural
+### 2020 até hoje: inovação e identidade cultural na fase de fusão
 
-Nos últimos anos, a gastronomia dos novos residentes em Taiwan desenvolveu uma aparência mais diversificada e inovadora. A segunda geração de novos residentes (filhos dos novos residentes) começou a participar da transmissão e inovação cultural gastronômica, interpretando os pratos das pátrias de seus pais de maneiras mais criativas.
+Nos últimos anos, a culinária dos novos residentes em Taiwan tem se tornado mais diversificada e inovadora. Segundo estatísticas do foodpanda, as vendas de culinária do Sudeste Asiático na plataforma ultrapassaram 700 milhões de dólares em 2025, com a culinária tailandesa sendo a mais popular; os três pratos mais vendidos foram: porco com pimenta preta (pad thai?), fideos vietnamitas e curry verde; a plataforma conta com cerca de mil restaurantes de novos residentes[^7]。Os filhos de segunda geração dos novos residentes (filhos de imigrantes casados) também começaram a participar da transmissão e inovação da cultura gastronômica, reinterpretando a culinária de suas mães natalesas de suas próprias formas.
 
-Pratos fusão como "Pho vietnamita estilo taiwanês", "Pai Gu Rou Fan tailandês" e "Frango frito com sabor indonésio" começaram a surgir; essas inovações não são vistas mais como uma traição à tradição, mas sim como um resultado natural da integração cultural.
+Pratos como "fideos vietnamitas estilo taiwanês", "arroz com carne estilo tailandês" e "frango grelhado estilo indonésio" começaram a aparecer, e essas inovações já não são vistas como traição à tradição, mas como o resultado natural da fusão cultural.
 
-## Tipos e Características Principais da Gastronomia dos Novos Residentes
+## Principais categorias e características da culinária dos novos residentes
 
-### Culinária Vietnamita: O Charme Tropical Refrescante e Doce
+### Culinária vietnamita: o sabor refrescante do Sudeste Asiático
 
-A culinária vietnamita é um dos tipos de gastronomia mais populares em Taiwan. Sua característica é o sabor refrescante, equilibrado entre doce e azedo, com grande uso de ervas frescas.
+A culinária vietnamita é uma das mais populares entre os pratos dos novos residentes em Taiwan. Sua característica principal é o equilíbrio entre doçura, acidez e o uso abundante de ervas frescas.
 
-O **_Pho_** é o representante da culinária vietnamita. Em Taiwan, o _pho_ vietnamita passou por uma significativa modificação local:
+**Pho (macarrão vietnamita)** é o prato mais representativo da culinária vietnamita. Em Taiwan, o pho vietnamita passou por uma adaptação significativa:
 
-- **Ajuste do Caldo**: O caldo original leve de ossos bovinos é frequentemente enriquecido com mais especiarias em Taiwan para um sabor mais intenso.
-- **Localização dos Acompanhamentos**: Vegetais fáceis de encontrar em Taiwan, como brotos de soja e alho-poró, substituíram algumas ervas originais vietnamitas.
-- **Escolha da Carne**: Adicionou-se a opção de carne de porco, popular entre os taiwaneses, não se limitando ao boi tradicional.
+- **Ajuste do caldo**: o caldo original de ossos de boi, normalmente leve, em Taiwan costuma ser reforçado com mais temperos, tornando o sabor mais intenso
+- **Acompanhamentos adaptados**: os taiwaneses usam ingredientes fáceis de encontrar como brotos de soja e cebolinha para substituir parcialmente as ervas vietnamitas
+- **Escolha da carne**: foram adicionadas opções de carne de porco, que os taiwaneses gostam, não se limitando apenas ao tradicional boi
 
-Os **_rolinhos primavera_** vietnamitas também são muito populares em Taiwan. A versão taiwanesa geralmente:
+**Rolhas vietnamitas** também são bastante populares em Taiwan. A versão taiwana das rolhas vietnamitas geralmente:
 
-- Aumenta a proporção de alface e pepino.
-- Usa camarão fresco e tiras de porco locais de Taiwan.
-- Ajusta o molho para um sabor doce e azedo mais suave.
+- Aumentam a proporção de alface e pepinos
+- Usam camarões e carne moída de porco típicos de Taiwan
+- Ajustam o molho para um sabor mais suave e doce
 
-**Restaurantes Representativos**:
+### Culinária tailandesa: sabores picantes e aromáticos do trópico
 
-### Culinária Tailandesa: O Sabor Tropical Picante e Rico
+A culinária tailandesa é conhecida por seu sabor picante e aromático, e ao longo do seu desenvolvimento em Taiwan, foi se adaptando aos paladares taiwaneses.
 
-A culinária tailandesa é famosa pelo picante, e em seu desenvolvimento em Taiwan, ela gradualmente se adaptou às preferências gustativas taiwanesas.
+**Tom Yum (sopa tailandesa picante)** é um dos pratos tailandeses mais populares:
 
-O **_Tom Yam_** (sopa picante) é um dos pratos tailandeses mais populares:
+- **Ajuste da acidez**: reduzem a quantidade de folhas de limão e aumentam o suco de limão, tornando a acidez mais suave
+- **Controle do picante**: oferecem diferentes níveis de picância para atender às preferências variadas dos taiwaneses
+- **Mariscos adaptados**: usam camarões e lulas produzidos em Taiwan, garantindo maior frescor
 
-- **Ajuste da Acidez**: Reduz-se o uso de folhas de limão e aumenta-se o suco de limão para suavizar a acidez.
-- **Controle da Picância**: Oferece diferentes níveis de picante para atender às diversas necessidades dos taiwaneses.
-- **Localização do Frutos do Mar**: Usa camarões e lulas locais de Taiwan, com maior frescor.
+**Green curry** também foi inovado em Taiwan:
 
-O **_curry verde_** também foi inovado em Taiwan:
+- Usam berinjela e feijão verde típicos de Taiwan
+- Ajustam a concentração de leite de coco para se adequar aos paladares taiwaneses
+- Servem com arroz taiwanês em vez do tradicional arroz de leite de coco tailandês
 
-- Utiliza berinjela e feijão-verde locais de Taiwan.
-- A concentração do leite de coco é ajustada para se adequar às preferências gustativas taiwanesas.
-- É servido com arroz branco taiwanês, em vez do arroz jasmim tradicional tailandês.
+**Pad thai (macarrão frito tailandês)** é uma escolha popular entre os petiscos de rua:
 
-O **_Pad Preeo_** (porco frito tailandês) é uma opção popular de comida de rua:
+- Usam carne de porco criada em Taiwan, mais suculenta
+- Substituem parcialmente o manjericão tailandês por hortelã, que os taiwaneses preferem
+- Acompanham com repolho taiwanês e ovos cozidos em conserva
 
-- Usa carne de porco de temperatura ambiente de Taiwan, que é mais tenra.
-- A erva thai basil substitui parte da _Thai holy basil_, alinhando-se melhor às preferências de especiarias dos taiwaneses.
-- Os acompanhamentos incluem picles taiwanês e ovos cozidos.
+### Culinária indonésia: sabores ricos de especiarias das ilhas
 
-**Restaurantes Representativos**:
+A culinária indonésia é caracterizada pelo uso abundante de especiarias e sabores complexos. Em Taiwan, o desenvolvimento da culinária indonésia foi relativamente tardio, mas nos últimos anos tem ganhado mais atenção.
 
-### Culinária Indonésia: O Sabor das Ilhas Rico em Especiarias
+**Nasi Goreng (arroz frito indonésio)** é o prato indonésio mais fácil de ser aceito pelos taiwaneses:
 
-A culinária indonésia é caracterizada por especiarias ricas e sabores complexos. Em Taiwan, o desenvolvimento da culinária indonésia foi relativamente tardio, mas tem ganhado atenção nos últimos anos.
+- Usam arroz de grãos longos típicos de Taiwan, mais al dente
+- O sabor é mais doce e salgado, com nível de picância mais baixo
+- Adicionam linguiça taiwanesa e ovos cozidos em conserva
 
-O **_Nasi Goreng_** (arroz frito) é o prato indonésio mais facilmente aceito pelos taiwaneses:
+**Rendang (carne em molho de coco indonésio)** após a adaptação taiwana:
 
-- Usa arroz de grão longo local de Taiwan, com textura que se alinha aos hábitos dos taiwaneses.
-- O tempero tende a ser doce e salgado, com picância suave.
-- Adiciona ingredientes locais como salsicha taiwanesa e ovos cozidos.
+- Ajustam a concentração de leite de coco, evitando que fique muito pesado
+- Reduzem a quantidade de especiarias para se adequar aos paladares taiwaneses
+- Servem com arroz branco taiwanês em vez do tradicional arroz de coco
 
-O **_Rendang_**, após ser adaptado para Taiwan:
+### Culinária filipina: sabores refrescantes e ácidos das ilhas
 
-- A concentração do leite de coco é ajustada para não ser excessivamente pesado.
-- O uso de especiarias foi reduzido para se adequar aos gostos taiwaneses.
-- É servido com arroz branco taiwanês, em vez do _nasi kuning_ tradicional.
+O desenvolvimento da culinária filipina em Taiwan é relativamente minoritário, mas ainda possui seu próprio encanto.
 
-**Restaurantes Representativos**:
+**Adobo (carne estufada filipina)** é o prato nacional das Filipinas:
 
-### Culinária Filipina: O Sabor Insular Doce e Azedo
+- Usam molho de soja e vinagre de Taiwan, com sabor mais suave
+- Adicionam cenoura e batata, que os taiwaneses gostam
+- Servem com arroz branco taiwanês
 
-O desenvolvimento da culinária filipina em Taiwan é relativamente nichado, mas ainda possui seu charme único.
+## Inovações na adaptação local da culinária dos novos residentes
 
-O **_Adobo_** (carne ensopada) é o prato nacional das Filipinas:
+### Substituição de ingredientes por versões locais
 
-- Usa molho de soja e vinagre taiwaneses, resultando em um sabor mais suave.
-- Adiciona cenoura e batata, populares entre os taiwaneses.
-- É servido com arroz branco taiwanês.
+O primeiro desafio enfrentado pelos chefs entre os novos residentes em Taiwan é a obtenção de ingredientes. Muitas especiarias e vegetais típicos são difíceis de encontrar em Taiwan, ou muito caros. Por isso, eles demonstraram uma incrível criatividade, usando ingredientes locais para criar novas combinações de sabores.
 
-**Restaurantes Representativos**:
+**Substituição de especiarias**:
 
-## Inovação Localizada da Gastronomia dos Novos Residentes
+- Usam pimenta preta taiwanesa para substituir parcialmente especiarias específicas do Sudeste Asiático
+- Substituem pimentas tailandesas por pimentas taiwanesas
 
-### Substituição de Ingredientes Locais
+**Substituição de vegetais**:
 
-O primeiro desafio enfrentado pelos cozinheiros de novos residentes em Taiwan é a obtenção de ingredientes. Muitas especiarias e vegetais de suas pátrias são difíceis ou caros de encontrar em Taiwan. Portanto, eles demonstraram uma criatividade incrível ao criar novas combinações de sabores usando ingredientes locais de Taiwan.
+- Substituem cebolinhas tailandesas por cebolinhas taiwanesas
+- Substituem berinjelas redondas tailandesas por berinjelas taiwanesas
 
-**Substituição de Especiarias**:
+**Ajuste da carne**:
 
-- Pimenta moída taiwanesa substitui algumas especiarias exclusivas do Sudeste Asiático.
-- Coentro taiwanês substitui o coentro vietnamita (com um sabor ligeiramente diferente).
-- Pimentas taiwanesas substituem as pimentas _chili_ tailandesas.
+- Usam carne de porco e frango de alta qualidade de Taiwan
+- Ajustam as partes da carne de acordo com as preferências dos taiwaneses
 
-**Substituição de Vegetais**:
+### Ajustes de sabor para o paladar taiwanês
 
-- Alface taiwanesa substitui a alface vietnamita.
-- Alho-poró taiwanês substitui o _Thai garlic flower_.
-- Berinjela taiwanesa substitui a berinjela redonda tailandesa.
+Para se adequar aos paladares dos taiwaneses, a culinária dos novos residentes ajustou o nível de picância, acidez e doçura.
 
-**Ajuste da Carne**:
+**Ajuste do picante**:
+Os taiwaneses geralmente não toleram tanto picante quanto as pessoas do Sudeste Asiático, por isso muitos pratos dos novos residentes reduzem o nível de picância, ou oferecem diferentes níveis de picância.
 
-- Utiliza carne de porco e frango de alta qualidade de Taiwan.
-- A seleção do corte da carne é ajustada de acordo com as preferências taiwanesas.
+**Aumento da doçura**:
+Os taiwaneses gostam de sabores doces, por isso muitos pratos dos novos residentes aumentam o nível de doçura. O pad thai tailandês adiciona mais açúcar; o caldo do pho vietnamita também fica levemente doce.
 
-### Ajustes de Sabor para o Paladar Taiwanês
+**Ajuste do sal**:
+Reduzem o uso de molho de peixe com sabor forte de mar, aumentando a proporção de molho de soja que os taiwaneses estão acostumados.
 
-Para se adequar às preferências gustativas taiwanesas, a culinária dos novos residentes foi ajustada em termos de picância, acidez e doçura.
+### Fusão de técnicas culinárias
 
-**Regulagem da Picância**:
-Os taiwaneses geralmente não são tão tolerantes ao picante quanto os do Sudeste Asiático; portanto, muitos pratos dos novos residentes reduziram a picância ou oferecem diferentes níveis de calor.
+Os chefs entre os novos residentes também incorporaram técnicas culinárias taiwanesas em seus pratos.
 
-**Aumento da Doçura**:
-Os taiwaneses preferem sabores doces, então muitos pratos dos novos residentes aumentaram o teor de açúcar. O _Pad Thai_ adiciona mais açúcar; e os caldos do _pho_ vietnamita também têm um toque doce.
+**Técnica de salteado rápido**:
+Muitos pratos do Sudeste Asiático originalmente requerem cozimento lento por um longo período, mas em Taiwan, os chefs entre os novos residentes aprenderam a usar o método de salteado rápido taiwanês para reduzir o tempo de preparo.
 
-**Ajuste do Salgado**:
-Reduz-se o uso de temperos com forte sabor de frutos do mar, como molho de peixe, aumentando a proporção de molho de soja familiar aos taiwaneses.
+**Técnica de estufar**:
+A técnica de estufar taiwana foi aplicada à culinária do Sudeste Asiático, criando pratos inovadores como "carne estufada estilo tailandês" e "ovos estufados estilo vietnamita".
 
-### Fusão de Técnicas Culinárias
+**Técnica de fritar**:
+Aprenderam a técnica de fritar dos mercados noturnos taiwaneses, tornando os pratos fritos do Sudeste Asiático mais crocantes.
 
-Os cozinheiros dos novos residentes também incorporaram técnicas culinárias taiwanesas em seus pratos.
+## Pratos inovadores de fusão cultural
 
-**Técnica de Fritura Rápida (_Quick Fry_)**:
-Muitos pratos do Sudeste Asiático originalmente exigiam longas horas de cozimento, mas na vida acelerada de Taiwan, os cozinheiros dos novos residentes aprenderam a usar o método taiwanês de fritura rápida para encurtar o tempo de preparo.
+### Pratos de fusão entre Taiwan e Vietnã
 
-**Técnica de Cocção Lenta (_Braising_)**:
-A técnica de cocção lenta taiwanesa foi aplicada à culinária do Sudeste Asiático, gerando pratos inovadores como "Pai Gu Rou" (porco cozido) tailandês e "Ovo Cozido vietnamita".
+**Arroz com carne estufada estilo vietnamita**:
+Combinam o clássico arroz com carne estufado de Taiwan com especiarias vietnamitas, usando hortelã e canela para temperar, criando uma versão refrescante do arroz com carne estufado.
 
-**Melhoria da Fritura**:
-Aprendendo a técnica de fritura dos mercados noturnos de Taiwan, os alimentos fritos do Sudeste Asiático foram tornados mais crocantes.
+**Macarrão com carne bovina estilo vietnamita**:
+Usam a técnica de cozimento do caldo do pho vietnamita para preparar macarrão com carne bovina de Taiwan, o caldo fica mais leve, adicionando coentro vietnamita e brotos de soja.
 
-## Pratos Inovadores de Fusão Intercultural
+### Pratos de fusão entre Taiwan e Tailândia
 
-### Culinária Viet-Taiwanês
+**Frango grelhado estilo tailandês**:
+Combinam o frango grelhado dos mercados noturnos de Taiwan com temperos tailandeses, marinando com hortelã e folhas de limão.
 
-**_Pai Gu Rou Fan vietnamita_**:
-Combina o clássico _Luwei Fan_ taiwanês com especiarias vietnamitas, usando ervas como capim-limão e hortelã para criar uma versão refrescante do prato.
+**Burger estilo tailandês**:
+Substituem o recheio tradicional do burger taiwanês por carne grelhada estilo tailandês, acompanhado de salada de manga verde estilo tailandesa.
 
-**_Fei Guo Mian vietnamita_** (Macarrão Bovi):
-Cozinha o _beef noodle soup_ taiwanês usando a técnica de caldo claro do _pho_ vietnamita, resultando em um caldo mais leve, com coentro e brotos de soja vietnamitas.
+### Pratos de fusão entre Taiwan e Indonésia
 
-### Culinária Tai-Taiwanês
+**Tofu com especiarias indonésias**:
+Usam o tofu taiwanês com especiarias indonésias para temperar, criando um "tofu com especiarias" com sabor único.
 
-**_Frango Frito Tailandês_**:
-Combina o frango frito dos mercados noturnos de Taiwan com temperos tailandeses, marinando com especiarias tailandesas como capim-limão e folhas de limão.
+**Frango grelhado com curry**:
+Combinam o frango grelhado de Taiwan com molho de curry estilo indonésio, uma criação de fusão de sabores.
 
-**_Bao Tailandês_** (Pãozinho):
-O recheio do _bao_ taiwanês tradicional foi alterado para porco assado tailandês, servido com vinagrete de mamão picado tailandês.
+## Impacto social e cultural da culinária dos novos residentes
 
-### Culinária Indo-Taiwanesa
+### Mudança nos hábitos alimentares dos taiwaneses
 
-**_Tofu Fedorento com Sabor Indonésio_**:
-O tofu fedorento taiwanês é temperado com especiarias indonésias, criando um "tofu fedorento de especiarias" único.
+A popularização da culinária dos novos residentes gradualmente mudou os hábitos alimentares e preferências de sabor dos taiwaneses.
 
-**_Frango Frito com Curry_**:
-Um prato criativo onde o frango frito taiwanês é regado com molho de curry com sabor indonésio.
+**Aumento da aceitação de especiarias**:
+Cada vez mais taiwaneses começaram a aceitar e gostar de ervas frescas, hortelã, folhas de limão e outras especiarias do Sudeste Asiático.
 
-## Impacto Sociocultural da Gastronomia dos Novos Residentes
+**Popularização de sabores ácidos e picantes**:
+Pratos como o Tom Yum tailandês e o pho vietnamita picante tornaram-se favoritos de muitos taiwaneses.
 
-### Mudança nos Hábitos Alimentares Taiwaneses
+**Consciência sobre alimentação saudável**:
+A culinária do Sudeste Asiático usa abundantes vegetais frescos e ervas, o que promoveu a conscientização dos taiwaneses sobre alimentação saudável.
 
-A popularização da gastronomia dos novos residentes gradualmente mudou os hábitos alimentares e as preferências gustativas dos taiwaneses.
+### Promoção da compreensão da diversidade cultural
 
-**Aumento da Aceitação de Especiarias**:
-Cada vez mais taiwaneses começam a aceitar e gostar de especiarias do Sudeste Asiático, como ervas, capim-limão e folhas de limão.
+A culinária dos novos residentes se tornou uma janela importante para os taiwaneses conhecerem a cultura do Sudeste Asiático.
 
-**Popularização do Sabor Picante/Azedo**:
-Pratos com sabores picantes e azedos, como o _Tom Yam_ tailandês e o _pho_ vietnamita, tornaram-se favoritos para muitos taiwaneses.
+**Intercâmbio cultural**:
+Ao provar a culinária dos novos residentes, os taiwaneses desenvolveram um entendimento mais profundo e conhecimento sobre a cultura do Sudeste Asiático.
 
-**Consciência Alimentar Saudável**:
-A culinária do Sudeste Asiático usa muitas verduras frescas e ervas, promovendo a atenção dos taiwaneses à alimentação saudável.
+**Eliminação de preconceitos**:
+O apelo da comida ajudou a superar alguns preconceitos culturais, promovendo a compreensão e integração entre diferentes grupos étnicos.
 
-### Promoção da Compreensão Multicultural
+**Aprendizado de idiomas**:
+Muitos taiwaneses, motivados pelo gosto pela culinária dos novos residentes, começaram a aprender idiomas simples como vietnamita, tailandês, etc.
 
-A gastronomia dos novos residentes tornou-se uma janela importante para a sociedade taiwanesa entender a cultura do Sudeste Asiático.
+### Impacto econômico
 
-**Intercâmbio Cultural**:
-Ao provar os pratos dos novos residentes, os taiwaneses ganham um entendimento mais profundo e reconhecimento da cultura do Sudeste Asiático.
+O desenvolvimento da indústria da culinária dos novos residentes também trouxe importantes impactos econômicos.
 
-**Eliminação de Preconceitos**:
-O charme da comida ajuda a eliminar alguns preconceitos culturais, promovendo a compreensão e integração entre diferentes grupos étnicos.
+**Oportunidades de emprego**:
+Os restaurantes de culinária dos novos residentes forneceram importantes oportunidades de emprego para os novos residentes. Song Shi-mei, que cresceu em Hanoi, terminou o ensino médio e veio para Taiwan para trabalhar, onde conheceu seu marido e se estabeleceu. Quando era criança, seu pai a levava para comer macarrão de Hanoi, mas ela não conseguia encontrar o sabor em Taipei. Ela abriu uma pequena loja de comida de rua em Liu Ying, em Tainan, onde inicialmente o fogão a lençava gás, o refrigerador estava quebrado, e mesmo com um sabor excelente, não conseguia manter os clientes. Em 2019, ela foi selecionada para o "Plano de Sonhos dos Novos Residentes e Seus Filhos", da quinta edição do Departamento de Imigração, e usou o subsídio para melhorar as instalações do restaurante e instalar uma sala de aulas de culinária, além de obter um contrato de professor de língua vietnamita em uma escola secundária privada em Tainan[^8]。
 
-**Aprendizagem de Idiomas**:
-Muitos taiwaneses começaram a aprender vietnamita ou tailandês simples por causa do amor pela culinária dos novos residentes.
+**Benefícios para o turismo**:
+A culinária única dos novos residentes tornou-se um novo ponto turístico em Taiwan, atraindo turistas internacionais para saboreá-la.
 
-### Impacto Econômico
+**Comércio de importação e exportação**:
+A demanda pela culinária dos novos residentes impulsionou o comércio de importação de ingredientes e temperos do Sudeste Asiático.
 
-O desenvolvimento da indústria gastronômica dos novos residentes também trouxe um impacto econômico significativo.
+## Transmissão cultural e inovação da segunda geração dos novos residentes
 
-**Oportunidades de Emprego**:
-Os restaurantes de gastronomia dos novos residentes fornecem oportunidades importantes de emprego para os novos residentes e desenvolvem talentos industriais relacionados.
+### Complexidade da identidade cultural
 
-**Benefícios Turísticos**:
-A gastronomia única dos novos residentes tornou-se um novo ponto brilhante do turismo em Taiwan, atraindo turistas internacionais para provar.
+Os filhos de segunda geração dos novos residentes (filhos de imigrantes casados) enfrentam escolhas complexas em termos de identidade cultural. Eles são taiwaneses, mas também herdam o sangue cultural de suas mães natalesas. Na cultura gastronômica, essa identidade complexa gerou muitas inovações.
 
-**Comércio de Importação/Exportação**:
-A demanda pela gastronomia dos novos residentes impulsionou o comércio de importação de ingredientes e temperos do Sudeste Asiático.
+**Vantagem linguística**:
+Os filhos de segunda geração dos novos residentes geralmente falam fluentemente chinês e o idioma materno de suas mães, o que lhes dá uma vantagem única na comunicação ao gerenciar restaurantes de culinária dos novos residentes.
 
-## Transmissão Cultural e Inovação da Segunda Geração dos Novos Residentes
+**Pensamento criativo**:
+Crescidos em um ambiente multicultural, os filhos de segunda geração dos novos residentes tendem a ter uma mentalidade mais aberta na inovação culinária.
 
-### Complexidade da Identidade Cultural
+### Promoção da educação cultural
 
-A segunda geração de novos residentes (filhos dos novos residentes) enfrenta escolhas complexas em termos de identidade cultural. Eles são taiwaneses, mas também herdam a linhagem cultural de suas pátrias maternas. Na cultura gastronômica, essa complexa identidade gera muitas inovações.
+Muitos filhos de segunda geração dos novos residentes começaram a assumir a responsabilidade de promover a educação cultural, difundindo a culinária e a cultura do Sudeste Asiático por meio de aulas de culinária e atividades culturais.
 
-**Vantagem Linguística**:
-Os filhos dos novos residentes geralmente falam chinês fluente e o idioma nativo de sua mãe, dando-lhes uma vantagem única na gestão de restaurantes dos novos residentes.
+**Aulas de culinária**:
+Oferecem aulas de culinária do Sudeste Asiático para ensinar aos taiwaneses como preparar pratos autêntico do Sudeste Asiático.
 
-**Mentalidade Criativa**:
-A segunda geração, que cresceu em um ambiente multicultural, muitas vezes possui uma mentalidade mais aberta em termos de inovação culinária.
+**Atividades culturais**:
+Participam de atividades multiculturais em escolas e comunidades, promovendo a cultura das terras natais de suas mães por meio da comida.
 
-### Nova Geração de Pratos Inovadores
+## Desafios enfrentados e perspectivas futuras
 
-**_Restaurante Viet-Taiwanês da Srta. Lin_**:
-A senhorita Lin, filha de uma imigrante vietnamita, abriu um restaurante Viet-Taiwanês em Taipé. Ela combina a cultura dos mercados noturnos de Taiwan com os lanches de rua vietnamitas, criando pratos inovadores como "Pai Gu Rou" e "Rolinhos Primavera taiwaneses".
+### Principais desafios
 
-**_Restaurante de Café da Manhã Tailandês do A-Ming_**:
-A-Ming, filho de um imigrante tailandês, combina a culinária tailandesa com a cultura do café da manhã taiwanês, oferecendo pratos fusão como "panqueca tailandesa" e "leite de soja com capim-limão".
+**Cadeia de suprimentos de ingredientes**:
+Muitos ingredientes típicos do Sudeste Asiático ainda precisam ser importados, com custos mais altos, afetando a competitividade de preços dos pratos.
 
-### Promoção Educacional Cultural
+**Transmissão de habilidades**:
+Algumas técnicas tradicionais de preparo correm o risco de serem perdidas, necessitando de mecanismos sistemáticos de transmissão.
 
-Muitos filhos dos novos residentes começaram a assumir a responsabilidade pela educação cultural, promovendo a cultura alimentar do Sudeste Asiático através de aulas de culinária e atividades culturais.
+**Aceitação do mercado**:
+Embora a culinária dos novos residentes já seja amplamente apreciada, a aceitação ainda precisa ser aprofundada em algumas regiões ou faixas etárias.
 
-**Ensino Culinário**:
-Abrindo cursos de culinária do Sudeste Asiático, ensinando taiwaneses a fazer pratos autênticos da região.
+**Pressão pela comercialização**:
+Para atender às demandas do mercado, há o risco de alterar excessivamente os sabores tradicionais, perdendo a característica cultural original.
 
-**Atividades Culturais**:
-Participando de eventos multiculturais em escolas e comunidades, promovendo a cultura da pátria materna através de exposições gastronômicas.
+### Oportunidades de desenvolvimento
 
-## Desafios Enfrentados e Perspectivas Futuras
+**Apoio político**:
+As políticas de apoio do governo a culturas diversificadas proporcionaram um bom ambiente para o desenvolvimento da culinária dos novos residentes.
 
-### Principais Desafios
+**Alta aceitação da geração mais jovem**:
+A geração mais jovem mostra maior abertura a pratos internacionais, proporcionando um amplo espaço de mercado para a culinária dos novos residentes.
 
-**Cadeia de Suprimentos de Ingredientes**:
-Muitos ingredientes especiais do Sudeste Asiático ainda dependem de importação, o que aumenta os custos e afeta a competitividade dos pratos.
+**Integração com a indústria do turismo**:
+A culinária dos novos residentes pode ser profundamente integrada à indústria do turismo em Taiwan, tornando-se um conteúdo importante do turismo cultural.
 
-**Transmissão de Habilidades**:
-Algumas técnicas tradicionais correm o risco de serem perdidas, necessitando de um mecanismo de transmissão sistemático.
+**Tendências internacionais**:
+Com o desenvolvimento da globalização, Taiwan, como um centro de fusão da culinária do Sudeste Asiático, tem potencial para exportar sua culinária para outros países.
 
-**Aceitação do Mercado**:
-Embora a gastronomia dos novos residentes seja popular, a aceitação ainda precisa melhorar em certas regiões ou faixas etárias.
+### Perspectivas futuras
 
-**Pressão Comercial**:
-A alteração excessiva dos sabores tradicionais para atender à demanda do mercado pode fazer com que percam suas características culturais originais.
+**Desenvolvimento profissionalizado**:
+No futuro, surgirão mais restaurantes profissionais de culinária dos novos residentes, oferecendo serviços mais sofisticados e sabores mais autênticos.
 
-### Oportunidades de Desenvolvimento
+**Expansão em franquias**:
+Algumas marcas de restaurantes de sucesso entre os novos residentes desenvolverão modelos de franquia, expandindo sua influência no mercado.
 
-**Apoio Governamental**:
-As políticas governamentais em apoio à diversidade cultural fornecem um bom ambiente para o desenvolvimento da gastronomia dos novos residentes.
+**Cultivo local de ingredientes**:
+Com o aumento da demanda, alguns vegetais e especiarias do Sudeste Asiático serão cultivados localmente em Taiwan, reduzindo custos.
 
-**Alta Aceitação pela Juventude**:
-A juventude tem alta aceitação por pratos estrangeiros, oferecendo um vasto espaço de mercado para a gastronomia dos novos residentes.
+**Função educacional cultural**:
+Os restaurantes dos novos residentes assumirão mais responsabilidades na educação cultural, tornando-se locais importantes para a troca multicultural.
 
-**Integração com a Indústria Turística**:
-A gastronomia dos novos residentes pode se integrar profundamente à indústria turística de Taiwan, tornando-se um conteúdo importante do turismo cultural.
+**Inovação em pratos de fusão**:
+Os filhos de segunda geração dos novos residentes criarão mais pratos de fusão com características taiwanesas, formando um estilo único de "culinária do Sudeste Asiático com sabor taiwanês".
 
-**Tendência Internacionalização**:
-Com o desenvolvimento da globalização, Taiwan tem potencial para exportar sua fusão gastronômica para outros países como base do Sudeste Asiático.
+## Conclusão: fusão cultural através do paladar
 
-### Perspectivas Futuras
+O desenvolvimento da culinária dos novos residentes em Taiwan é uma história inspiradora sobre fusão cultural e inovação. Ela nos ensina que a transmissão cultural não é uma cópia estática, mas uma adaptação criativa em novos ambientes.
 
-**Desenvolvimento Profissionalizado**:
-No futuro, haverá mais restaurantes especializados em gastronomia dos novos residentes, oferecendo serviços mais refinados e sabores mais autênticos.
+Quando avós vietnamitas usam repolho taiwanês para fazer rolhas mais doces, quando esposas tailandesas usam carne de porco de Taiwan para preparar pad thai mais suaves, quando irmãs indonésias usam pimentas taiwanesas para ajustar o sabor do curry, elas não estão traindo as tradições de suas terras natais, mas criando novas tradições para Taiwan.
 
-**Operação de Rede**:
-Algumas marcas bem-sucedidas de restaurantes dos novos residentes desenvolverão operações de rede, expandindo sua influência no mercado.
+Essa fusão é bidirecional. Ao aceitar a culinária dos novos residentes, os taiwaneses também estão mudando sua própria cultura alimentar. Hoje, a culinária taiwana já não é a mesma de há vinte anos. Ela se tornou mais diversificada, mais rica e mais internacional.
 
-**Localização de Ingredientes**:
-À medida que a demanda aumenta, alguns vegetais e especiarias do Sudeste Asiático serão cultivados localmente em Taiwan, reduzindo custos.
+O desenvolvimento da culinária dos novos residentes em Taiwan demonstra a inclusão e criatividade da sociedade taiwana. Ela prova que a troca entre diferentes culturas não é um jogo de soma zero, mas pode criar resultados maravilhosos de "1+1>2".
 
-**Função Educacional Cultural**:
-Os restaurantes dos novos residentes assumirão mais funções educacionais culturais, tornando-se locais importantes para o intercâmbio cultural diversificado.
+No futuro, com o crescimento de mais filhos de segunda geração dos novos residentes e a aparição de mais pratos inovadores, a cultura gastronômica dos novos residentes em Taiwan continuará a se desenvolver e evoluir. Ela se tornará um importante símbolo da diversidade cultural de Taiwan, adicionando mais cores e possibilidades à cultura gastronômica de Taiwan.
 
-**Pratos Fusão Inovadores**:
-A segunda geração de novos residentes criará ainda mais pratos fusão do Sudeste Asiático com características taiwanesas, formando uma "Culinária do Sudeste Asiático ao Estilo Taiwan".
-
-## Conclusão: A Integração Cultural dos Sabores
-
-O desenvolvimento da gastronomia dos novos residentes em Taiwan é uma história emocionante sobre integração cultural e inovação. Ela nos ensina que a transmissão cultural não é replicação estática, mas sim adaptação criativa em um novo ambiente.
-
-Quando as irmãs vietnamitas embrulham repolho taiwanês em rolinhos primavera mais doces, quando as noras tailandesas fazem _Pai Gu Rou_ mais suave com carne de porco taiwanesa, e quando as irmãs indonésias temperam o caril com pimenta taiwanesa para um sabor mais adequado aos locais, elas não estão traindo a tradição de suas pátrias; elas estão criando uma nova tradição pertencente a Taiwan.
-
-Essa fusão é bidirecional. Enquanto os taiwaneses aceitam a gastronomia dos novos residentes, eles também mudam sua própria cultura alimentar. A culinária taiwanesa de hoje não é a culinária de 20 anos atrás. Ela se tornou mais diversificada, mais rica e mais internacionalizada.
-
-O desenvolvimento da gastronomia dos novos residentes em Taiwan demonstra o caráter inclusivo e criativo da sociedade taiwanesa. Prova que o intercâmbio entre diferentes culturas não é um jogo de soma zero, mas pode criar resultados maravilhosos de "1+1>2".
-
-No futuro, com o crescimento de mais segundas gerações dos novos residentes e a aparição de mais pratos inovadores, a cultura gastronômica dos novos residentes em Taiwan continuará a se desenvolver e evoluir. Ela será um importante símbolo da diversidade cultural de Taiwan e adicionará ainda mais cores e possibilidades à sua gastronomia.
-
-Nesta era globalizada, a história da gastronomia dos novos residentes em Taiwan também oferece exemplos bem-sucedidos de integração cultural para outros países. Ela nos ensina que uma mentalidade aberta e um espírito inovador podem fazer com que diferentes culturas floresçam em terras novas, criando flores mais belas.
+Nesta era da globalização, a história da culinária dos novos residentes em Taiwan também oferece um exemplo de sucesso de fusão cultural para outros países. Ela nos mostra que uma atitude aberta e espírito inovador podem permitir que culturas diferentes floresçam com mais beleza em novas terras.
 
 ---
 
-## Leitura Complementar
+## Leituras recomendadas
 
-## Leitura Complementar
+- [Culinária dos bairros militares de Taiwan](/pt/food/military-dependents-village-cuisine) — Os pratos de arroz e macarrão de Zhongzhen Mercado são outra onda de imigrantes trazidos após a guerra
+- [Trabalhadores migrantes internacionais](/pt/society/migrant-workers-in-taiwan) — Os bairros asiáticos perto da estação ferroviária de Taoyuan e da estação ferroviária de Taipei, cujo principal público são trabalhadores migrantes
+- [Grupos étnicos de Taiwan](/pt/culture/ethnic-groups) — A posição dos novos residentes no mapa étnico de Taiwan
 
-1. Dados Estatísticos dos Novos Residentes do Ministério da Administração Interna
-2. Relatório de Pesquisa de Restaurantes do Sudeste Asiático em Taiwan
-3. Compilação de Trabalhos Acadêmicos sobre a Cultura Gastronômica dos Novos Residentes
-4. Documentos de Entrevistas com Comunidades de Novos Residentes
-5. Estudo da Identidade Cultural da Segunda Geração dos Novos Residentes
+## Referências
 
-## Fontes das Imagens
+[^1]: [Antes era o maior ponto de concentração de chineses vietnamitas Bairro An Kang em Muzha reúne duas gerações de migrantes vietnamitas](https://news.pts.org.tw/article/759911) — TVBS News, 8 de julho de 2025; A comunidade de chineses vietnamitas nos anos 1980, a "Rua do Vietnã" na rua Muzha, o quiosque de Sin Shi-ping
 
-- Hero: Pho vietnamita, fotografia por Tayzar44, https://commons.wikimedia.org/wiki/File:Pho,_popular_Vietnamese_noodle_soup.jpg, CC BY 4.0.
+[^2]: [Relatório de pesquisa sobre imigrantes casados registrados no Departamento de Imigração do Ministério do Interior](https://ifi.immigration.gov.tw/wSite/public/Data/f1595471755452.pdf) — Cita estatísticas do Departamento de Imigração: proporção de casamentos internacionais 31,86% em 2003; mais de 130 mil imigrantes asiáticas em maio de 2012, dos quais 66,29% eram vietnamitas
+
+[^3]: [Bairro militar de Zhongzhen](https://zh.wikipedia.org/zh-tw/忠貞新村) — Wikipédia; Construído em 1954 para acolher soldados e famílias que vieram de Yunnan, Tailândia e Birmania após a retirada do governo, demolido no início de 2005
+
+[^4]: [Equipe de Exploradores do Sabor: Encontrei culinária do Sudeste Asiático na rua Yilan em Taoyuan](https://newtalk.tw/plan/view/281) — Projeto especial do Newtalk; Restaurantes de pho vietnamita e lojas de produtos asiáticos na rua Yilan perto da estação ferroviária de Taoyuan, consumidores principalmente trabalhadores vietnamitas
+
+[^5]: [Pesquisa sobre alimentação intercultural e microempreendedorismo de imigrantes](https://www.immigration.gov.tw/media/99111/f1620973076749.pdf) — Departamento de Administração de Alimentação da Universidade Tecnológica de Jiaxing (pesquisador principal: Wang Bao-xi), relatório de pesquisa patrocinado pelo Fundo de Desenvolvimento de Imigrantes, dezembro de 2020
+
+[^6]: [Grupo Villa Tailandês](https://zh.wikipedia.org/zh-tw/瓦城泰統集團) — Wikipédia; Fundado em 1990 por Xu Chengyi e outros, abriu o primeiro restaurante tailandês "Villa" no mesmo ano
+
+[^7]: [foodpanda revela o mapa de alimentação mais recente de Taiwan: vendas de culinária do Sudeste Asiático ultrapassam 700 milhões, pad thai, pho e green curry lideram](https://www.foodnext.net/news/industry/paper/6731134852) — FoodNEXT; Estatísticas do foodpanda em 2025 e número de restaurantes de novos residentes na plataforma
+
+[^8]: [Sentindo o amor maternal através da comida Plano de Sonhos dos Novos Residentes ajuda os imigrantes a realizar seus sonhos](https://www.taiwannews.com.tw/zh/news/3661365) — Taiwan Times, 19 de março de 2019; Song Shi-mei e sua loja de comida de rua de macarrão de Hanoi em Liu Ying, Tainan
+
+## Fontes das imagens
+
+- Hero：Fideos vietnamitas, fotografia de Tayzar44, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pho,_popular_Vietnamese_noodle_soup.jpg)，CC BY 4.0。
