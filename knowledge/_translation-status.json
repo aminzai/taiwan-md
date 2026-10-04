@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-04T09:00:06+08:00",
-    "zhCommitHead": "294a292dc",
+    "lastUpdated": "2026-10-04T09:21:41+08:00",
+    "zhCommitHead": "00cc08dfc",
     "totalZh": 1125,
     "activeLanguages": [
       "en",
@@ -92,8 +92,8 @@
       },
       "ar": {
         "total_zh": 1125,
-        "fresh": 1124,
-        "stale": 1,
+        "fresh": 1125,
+        "stale": 0,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -69978,20 +69978,18 @@
         "ar": {
           "path": "ar/Society/taiwan-eswatini-relations.md",
           "translatedFrom": "Society/台灣與史瓦帝尼.md",
-          "sourceCommitSha": "31a05c44b",
-          "sourceContentHash": "sha256:fe1941c4ac5aac8a",
-          "sourceBodyHash": "sha256:8dca2bcfa6293bb2",
-          "translatedAt": "2026-07-29T18:45:51+08:00",
+          "sourceCommitSha": "da67ec6fe",
+          "sourceContentHash": "sha256:c62b916ed21bb09b",
+          "sourceBodyHash": "sha256:f87da2052ad611fa",
+          "translatedAt": "2026-10-04T09:10:51+08:00",
           "translationLastCommit": "19d45475",
           "translationLastModified": "2026-07-29T19:41:54+08:00",
           "inferred": false,
           "footnoteDefs": 26,
-          "bytes": 52572,
+          "bytes": 51937,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Society/taiwan-eswatini-relations.md",
@@ -198892,8 +198890,8 @@
           "sourceContentHash": "sha256:2b8d67aa5824f2f2",
           "sourceBodyHash": "sha256:cf2c3e11ea1bbb06",
           "translatedAt": "2026-10-04T00:44:36.683020+00:00",
-          "translationLastCommit": "34ada411",
-          "translationLastModified": "2026-09-23T22:07:20+08:00",
+          "translationLastCommit": "00cc08df",
+          "translationLastModified": "2026-10-04T09:00:06+08:00",
           "inferred": false,
           "footnoteDefs": 41,
           "bytes": 56115,
