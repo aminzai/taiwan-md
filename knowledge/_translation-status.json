@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-04T06:59:25+08:00",
-    "zhCommitHead": "95794ef23",
+    "lastUpdated": "2026-10-04T08:55:07+08:00",
+    "zhCommitHead": "d1096d103",
     "totalZh": 1125,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1125,
-        "fresh": 1124,
-        "stale": 1,
+        "fresh": 1125,
+        "stale": 0,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -60,8 +60,8 @@
       },
       "vi": {
         "total_zh": 1125,
-        "fresh": 1124,
-        "stale": 1,
+        "fresh": 1125,
+        "stale": 0,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -100,8 +100,8 @@
       },
       "ru": {
         "total_zh": 1125,
-        "fresh": 1124,
-        "stale": 1,
+        "fresh": 1125,
+        "stale": 0,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -27494,20 +27494,18 @@
         "vi": {
           "path": "vi/Technology/taiwan-ai-academy.md",
           "translatedFrom": "Technology/台灣人工智慧學校.md",
-          "sourceCommitSha": "c8e5ac9ea",
-          "sourceContentHash": "sha256:aeb22f9372adc2ef",
-          "sourceBodyHash": "sha256:6ec984b54802baea",
-          "translatedAt": "2026-07-18T18:59:52+08:00",
+          "sourceCommitSha": "e291b98c6",
+          "sourceContentHash": "sha256:f80d5de0dc1467d4",
+          "sourceBodyHash": "sha256:5ac3c1dc79dee79a",
+          "translatedAt": "2026-10-03T23:46:27.822924+00:00",
           "translationLastCommit": "1c89db9a",
           "translationLastModified": "2026-09-22T01:05:58+08:00",
           "inferred": false,
           "footnoteDefs": 38,
-          "bytes": 51214,
+          "bytes": 55159,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Technology/taiwan-ai-academy.md",
@@ -37058,8 +37056,8 @@
           "sourceContentHash": "sha256:b8cab3d7189be94d",
           "sourceBodyHash": "sha256:a74e3ddc66982d98",
           "translatedAt": "2026-10-04T05:18:01+08:00",
-          "translationLastCommit": "2a6e2d13",
-          "translationLastModified": "2026-07-27T00:47:17+08:00",
+          "translationLastCommit": "d1096d10",
+          "translationLastModified": "2026-10-04T06:59:25+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "bytes": 36001,
@@ -69836,20 +69834,18 @@
         "en": {
           "path": "en/Society/taiwan-eswatini-relations.md",
           "translatedFrom": "Society/台灣與史瓦帝尼.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:fe1941c4ac5aac8a",
-          "sourceBodyHash": "sha256:8dca2bcfa6293bb2",
-          "translatedAt": "2026-06-16T17:03:25Z",
+          "sourceCommitSha": "da67ec6fe",
+          "sourceContentHash": "sha256:c62b916ed21bb09b",
+          "sourceBodyHash": "sha256:f87da2052ad611fa",
+          "translatedAt": "2026-10-04T07:23:30+08:00",
           "translationLastCommit": "892cb4ef",
           "translationLastModified": "2026-07-27T18:53:04+08:00",
           "inferred": false,
           "footnoteDefs": 26,
-          "bytes": 38216,
+          "bytes": 36465,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Society/taiwan-eswatini-relations.md",
@@ -163514,8 +163510,8 @@
           "sourceContentHash": "sha256:ec43c04dc374e045",
           "sourceBodyHash": "sha256:c3bafaeb7fb89ca0",
           "translatedAt": "2026-10-04T05:18:01+08:00",
-          "translationLastCommit": "20fa44ad",
-          "translationLastModified": "2026-09-23T15:09:06+08:00",
+          "translationLastCommit": "d1096d10",
+          "translationLastModified": "2026-10-04T06:59:25+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "bytes": 38732,
@@ -196036,8 +196032,8 @@
           "sourceContentHash": "sha256:3c540cfd32577b2a",
           "sourceBodyHash": "sha256:6adfa5c6ea8f6a2d",
           "translatedAt": "2026-10-04T05:18:01+08:00",
-          "translationLastCommit": "f0ba60da",
-          "translationLastModified": "2026-09-28T11:33:48+08:00",
+          "translationLastCommit": "d1096d10",
+          "translationLastModified": "2026-10-04T06:59:25+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "bytes": 40451,
@@ -198876,18 +198872,18 @@
         "ru": {
           "path": "ru/Geography/penghu-county.md",
           "translatedFrom": "Geography/澎湖縣.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:45cce9092926094b",
-          "sourceBodyHash": "",
-          "translatedAt": "2026-09-08T16:00:52.163235+00:00",
+          "sourceCommitSha": "0ba9d3c98",
+          "sourceContentHash": "sha256:2b8d67aa5824f2f2",
+          "sourceBodyHash": "sha256:cf2c3e11ea1bbb06",
+          "translatedAt": "2026-10-03T23:10:22.999652+00:00",
           "translationLastCommit": "12dcd186",
           "translationLastModified": "2026-09-09T02:14:24+08:00",
           "inferred": false,
-          "footnoteDefs": 40,
-          "bytes": 82775,
+          "footnoteDefs": 41,
+          "bytes": 85532,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (41→40)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Geography/penghu-county.md",
