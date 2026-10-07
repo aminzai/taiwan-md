@@ -1,16 +1,16 @@
 ---
-title: 'Taiwans Ehegleichstellung und Geschlechtergerechtigkeit'
-description: 'Vom politischen Gefangenen in der Kriegsrechtszeit zum ersten Gleichstellungsgesetz Asiens: Wie der 30-jährige Kampf eines Mannes die Definition von Liebe auf der Insel neu schrieb'
+title: 'Eheerecht und Geschlechtergerechtigkeit in Taiwan: Die 33-jährige Geschichte von Qi Jiawei (祁家威)'
+description: 'Von der Inhaftierung während des Kriegsrechts bis zum ersten Ehegesetz Asiens: Wie die Beharrlichkeit von Qi Jiawei die Definition der Ehe in Taiwan neu gestaltete.'
 date: 2026-03-22
 category: 'Society'
 tags:
   [
-    'Ehegleichstellung',
+    'Ehe',
     'Geschlechtergerechtigkeit',
     'Menschenrechte',
     'Justiz',
-    'Asiens erstes',
-    'Chi Chia-wei',
+    'Asien-Pionier',
+    'Qi Jiawei',
     'LGBTQ+',
   ]
 subcategory: '人權與平等'
@@ -18,257 +18,249 @@ author: 'Taiwan.md'
 difficulty: 'beginner'
 readingTime: 12
 featured: true
-lastVerified: 2026-03-22
+lastVerified: 2026-10-07
 lastHumanReview: false
 translatedFrom: 'Society/台灣同婚與性別平權.md'
-sourceCommitSha: 'a05d24314'
-sourceContentHash: 'sha256:369f015f40df17bd'
-sourceBodyHash: 'sha256:87466d8232d3f86e'
-translatedAt: '2026-09-09T11:46:03+08:00'
+sourceCommitSha: '872f4aef5'
+sourceContentHash: 'sha256:53dce2454f2bc650'
+sourceBodyHash: 'sha256:a975eff83abc0a3e'
+translatedAt: '2026-10-08T01:50:03+08:00'
 ---
 
-# Taiwans Ehegleichstellung und Geschlechtergerechtigkeit
+# Eheerecht und Geschlechtergerechtigkeit in Taiwan
 
-> **30-Sekunden-Überblick:** 1986 wurde Chi Chia-wei wegen seines öffentlichen Coming-outs von der Kriegsrechtsregierung wegen „schwerer Körperverletzung“ zu fünf Monaten Haft verurteilt. Am 17. Mai 2019 führte derselbe Mann durch seine Verfassungsbeschwerde dazu, dass Taiwan das erste asiatische Land wurde, das die gleichgeschlechtliche Ehe legalisierte. Dies ist keine Geschichte über Gesetze, sondern eine Geschichte über 30 Jahre Nicht-Aufgeben – ein Mensch, den die Gesellschaft als „Monster“ ansah, brachte die gesamte Gesellschaft schließlich dazu, Liebe neu zu definieren.
-
----
-
-## Eine Heiratsurkunde, 33 Jahre gewartet
-
-24. Mai 2019, Haushaltsamt im Xinyi-Bezirk von Taipeh.
-
-Morgens um 6 Uhr standen hunderte gleichgeschlechtliche Paare vor der Tür Schlange. In dem Moment, als die erste gleichgeschlechtliche Heiratsurkunde ausgehändigt wurde, brach die wartende Menge in Jubel und Tränen aus. Manche umarmten sich weinend, andere warfen Regenbogenfahnen in den Himmel, wieder andere starrten schweigend auf das dünne Papier in ihren Händen – darauf standen die zwei Wörter, die sie ein Leben lang erwartet hatten: „Ehepartner“.
-
-Der 61-jährige Chi Chia-wei war nicht vor Ort. Nicht weil er keinen Partner hatte, sondern weil dieser Sieg für ihn zu spät kam. Von der ersten abgelehnten Anmeldung einer gleichgeschlechtlichen Eheschließung 1986 bis zur Verabschiedung des Gesetzes 2019 vergingen 33 Jahre.
-
-**In diesen 33 Jahren wurde er ins Gefängnis gesteckt, von der Gesellschaft geächtet, von den Medien verspottet, stand allein mit einer Regenbogenfahne auf der Straße und wurde von Passanten beschimpft.** Doch jedes Mal, wenn er abgewiesen wurde, stellte er einen neuen Antrag. Jedes Mal, wenn er einen Prozess verlor, legte er Berufung ein.
-
-> **📝 Kuratorische Anmerkung**
-> Der Sieg der Ehegleichstellung in Taiwan kam nicht, weil die Gesellschaft plötzlich aufgeschlossen wurde, sondern weil jemand sich weigerte, von der Zeit vergessen zu werden.
+> **30-Sekunden-Zusammenfassung:** Im Jahr 1986 machte Qi Jiawei (祁家威) seine Homosexualität öffentlich bekannt und beantragte die Legalisierung gleichgeschlechtlicher Ehen beim Gesetzgeber; im selben Jahr wurde er unter Kriegsrecht wegen „Körperverletzung“ etwa fünf Monate lang inhaftiert. Im Jahr 2017 erhielt sein Verfassungsbeschwerdeurteil (釋字第748號解釋); am 17. Mai 2019 verabschiedete der Gesetzgeber das Gesetz, und am 24. Mai wurde Taiwan zum ersten Land Asiens mit legaler gleichgeschlechtlicher Ehe. Dies ist eine Geschichte von 33 Jahren des Durchhaltens: Ein Mensch, den die Gesellschaft und die Medien einst als „Problemschöpfer“ abgetan hatten, zwang die gesamte Gesellschaft dazu, die Ehe neu zu definieren.
 
 ---
 
-## „Schwere Körperverletzung“ in der Kriegsrechtszeit
+## Tag Eins: 33 Jahre warten
+
+Der erste Tag nach Inkrafttreten des Gesetzes zur gleichgeschlechtlichen Ehe war der 24. Mai 2019.
+
+Um 8:04 Uhr morgens wurde in der Haushaltsverwaltung von Annan, Tainan City, die Trauung des ersten gleichgeschlechtlichen Paares Taiwans registriert. Bis zum Ende dieses Tages hatten insgesamt 526 Paare landesweit registriert, davon 341 weibliche und 185 männliche Partner. Die Stadtregierung von Taipeh veranstaltete eine Zeremonie im Freien, bei der die Paare über einen sechsfarbigen Regenbogenteppich gingen.
+
+Qi Jiawei (祁家威), damals 60 Jahre alt, war bei dieser Hochzeit anwesend und segnete das Paar in einem roten Anzug mit einer Regenbogenflagge. Von seinem ersten Antrag im Jahr 1986 bis zu diesem Tag hatte er 33 Jahre gebraucht.
+
+**In diesen 33 Jahren wurde er inhaftiert, von der Gesellschaft und den Medien als Problemschöpfer dargestellt; auf der Straße wurde er von Passanten beschimpft, während er allein eine Regenbogenflagge hielt.** Doch bei jeder Ablehnung reichte er einen neuen Antrag ein. Bei jeder Niederlage legte er Berufung ein.
+
+> **📝 Kuratoren-Notiz**
+> Der Sieg der gleichgeschlechtlichen Ehe in Taiwan beruhte nicht darauf, dass sich die Gesellschaft plötzlich geöffnet hatte, sondern darauf, dass jemand sich weigerte, von der Zeit vergessen zu werden.
+
+---
+
+## Die „schwere Körperverletzung“ unter Kriegsrecht
 
 ### 1986: Eine Pressekonferenz, die das Schicksal veränderte
 
-28. Februar 1986, Taiwan stand noch unter Kriegsrecht.
+Anfang der 1980er Jahre war Taiwan noch unter Kriegsrecht (戒嚴).
 
-An diesem Tag hielt Chi Chia-wei in einem McDonald's eine internationale Pressekonferenz ab, outete sich öffentlich und wurde damit zum ersten offen schwulen Menschen Taiwans – möglicherweise sogar Asiens. Er lud internationale Medien wie Reuters ein, um über AIDS-Prävention aufzuklären; er war 28 Jahre alt.
+Qi Jiawei (祁家威) hielt Anfang 1986 in einem McDonald's in Taipeh eine internationale Pressekonferenz ab und machte seine Homosexualität öffentlich bekannt – er wurde später als das erste offen homosexuelle Mitglied Taiwans bezeichnet. Er lud internationale Medien wie Reuters ein, um darüber zu berichten, und förderte gleichzeitig die HIV-Prävention; damals war er 27 Jahre alt.
 
-**Fünf Monate später wurde er von der Regierung wegen „schwerer Körperverletzung“ verhaftet.**
+Im selben Jahr reichte er einen Antrag beim Gesetzgeber ein, um die Legalisierung gleichgeschlechtlicher Ehen zu fordern. Vertreter des Obersten Gerichtshofs und des Ministeriums für Recht verteidigten sich in einem Ausschuss dagegen, und der Justizausschuss des Gesetzgebers hielt es für nicht notwendig, das Thema als Gesetzesvorlage zu behandeln.
 
-„Die Männer, die mich festnahmen, sagten zu mir: ‚Herr Chi, Sie sind zu gefährlich, deshalb müssen wir Sie für fünf Jahre aus der freien Welt verschwinden lassen.‘“ erinnerte sich Chi Chia-wei später. Doch dieser juristisch gebildete, clevere Mann nutzte sein kriminologisches Wissen und kam nach fünf Monaten wieder frei.
+**Im August dieses Jahres wurde er festgenommen; die Anklage lautete „Körperverletzung“.**
 
-Nach seiner Entlassung traf er eine noch verrücktere Entscheidung: Er beantragte die Anmeldung einer gleichgeschlechtlichen Ehe.
+„Die Leute, die mich gefasst haben, sagten: ‚Herr Qi, Sie sind zu großartig, deshalb müssen wir sicherstellen, dass Sie in der freien Welt verschwinden und Sie fünf Jahre lang eingesperrt werden.‘“, erinnerte sich Qi Jiawei (祁家威) später; er behauptete, ihm sei willkürlich die Anklage wegen Körperverletzung gemacht worden, doch nach fünf Monaten entkam er dank seines Wissens aus Kriminologie und Recht. Eine andere Version stammt aus seiner eigenen Aussage: Der damalige Präsident Chiang Ching-kuo (蔣經國) habe von der Sache nichts gehalten, und er wurde am 23. Januar des Folgejahres kautioniert.
 
-### Der erste Antrag, die erste Ablehnung
+### Anträge, Beglaubigungen, Registrierungen – immer wieder abgelehnt
 
-1986 beantragte Chi Chia-wei beim Bezirksgericht Taipeh die Eheschließung mit seinem Partner.
+Der Antrag von 1986 war der erste formelle Versuch von Qi Jiawei (祁家威), die gleichgeschlechtliche Ehe beim Staat zu fordern. Danach sandte er dieselbe Forderung an jeden erreichbaren Schalter: Im November 1998 beantragte er bei einem Notariat in Taipeh eine ehelichrechtliche Beglaubigung mit seinem Partner, aber wurde abgelehnt; nach der Umstellung auf die Registrierung im Jahr 2008 reichte er am 21. März 2013 beim Haushaltsamt von Wanhua, Taipeh City, einen Antrag ein und wurde erneut abgelehnt.
 
-Die Ablehnung war zu erwarten. Doch Chi Chia-wei wollte nicht auf Anhieb erfolgreich sein, er wollte einen **rechtlichen Präzedenzfall schaffen** – diese Sache sollte von der Nicht-Existenz in die Existenz überführt werden. Von „niemand spricht darüber“ zu „man muss darüber sprechen“.
+Die Ablehnung war erwartet worden. Aber Qi Jiawei (祁家威) wollte nicht nur einmal erfolgreich sein; er wollte eine **rechtliche Präzedenz** schaffen – etwas, das nicht existierte, sichtbar machen. Von einem Thema, über das niemand sprach, zu einem, das diskutiert werden musste.
 
-> **💡 Wussten Sie schon?**
-> Chi Chia-wei setzte sich seit seinem 17. Lebensjahr für die Rechte von Homosexuellen ein. 1975 brachte ihm sein Englischlehrer das Wort „homosexual“ bei; er recherchierte zu Hause und entdeckte, dass die Weltpsychiatrievereinigung 1974 Homosexualität aus der Liste der psychischen Krankheiten gestrichen hatte – damit war er sich sicher, dass seine sexuelle Orientierung normal ist.
-
----
-
-## Ein Ein-Mann-Krieg
-
-### Die kalten Blicke und Flüche der Gesellschaft
-
-Ende der 1980er bis Anfang der 1990er Jahre waren queere Menschen in Taiwan immer noch stark stigmatisiert. Chi Chia-wei beteiligte sich mit offener Identität an sozialen Bewegungen und wurde häufig von Passanten beschimpft und verhöhnt.
-
-Er verkleidete sich als Jesus, trug ein Kreuz durch die Straßen und warb für AIDS-Prävention; er hing sich 300 Kondome um den Körper, verkleidete sich als Kleopatra und verteilte sie am Bahnhof; er sammelte Spenden für AIDS-Kranke und wurde wie die Pest gemieden.
-
-**Der erfahrene taiwanische Journalist Yang Suo erinnerte sich: „Jedes Mal, wenn ich an Chi Chia-wei denke, taucht vor meinem inneren Auge das Bild aus dem späten 80er Jahren auf, wie er mit einer Spendenbox auf dem Rücken durch die Straßen ging...... Die meisten Vorbeigehenden wichen ihm weit aus, sahen ihn als Seuche an, Gesellschaft und Medien betrachteten ihn als ‚Unruhestifter‘.“**
-
-Doch Chi Chia-wei fühlte sich nie einsam. Seine Strategie war nicht, Organisationen zu gründen oder Menschenmassen zu versammeln, sondern **als Einzelner jedes Glied des Systems herauszufordern**.
-
-### Dreißig Jahre juristischer Marathon
-
-Von 1986 bis 2019 ausgeschöpft Chi Chia-wei alle rechtlichen Wege:
-
-- **Verwaltungsbeschwerden**: Anträge, Petitionen und Beschwerden an alle Regierungsebenen
-- **Gerichtsverfahren**: Zivilprozesse, Verwaltungsprozesse, Einsprüche, Berufungen
-- **Gesetzgebungs-Petitionen**: Immer wieder Vorlagen im Legislativ-Yuan
-- **Letztes Mittel**: 2015 Antrag auf Verfassungsinterpretation bei den Großrichtern
-
-Jede Niederlage war der Grundstein für den nächsten Sieg. **Chi Chia-wei wartete nicht darauf, dass sich die Gesellschaft ändert, er schuf die Bedingungen, die die Gesellschaft verändern.**
+> **💡 Wussten Sie?**
+> Qi Jiawei (祁家威) erzählte, dass ihm der Begriff „homosexuell“ im Sommer 1975 von einem Englischlehrer beigebracht wurde, als er begann, seine sexuelle Identität zu reflektieren. Während der Sommerrecherche las er, dass Homosexualität bereits aus dem psychiatrischen Bereich entfernt worden sei und somit feststellte, dass seine sexuelle Orientierung normal war. Er erinnert sich an die „Weltpsychiatrie-Konferenz“ von 1974; historisch gesehen entfernte die amerikanische Psychiatrie Homosexualität aus dem Handbuch im Jahr 1973, und die Weltgesundheitsorganisation brauchte erst bis zum 17. Mai 1990, der später als „Internationaler Tag gegen Homophobie“ bekannt wurde.
 
 ---
 
-## Interpretation Nr. 748: Das historische Verfassungsurteil
+## Ein Krieg eines Einzelnen
 
-### 24. Mai 2017: Wendepunkt der asiatischen Verfassungsgeschichte
+### Der kalte Blick und die Beschimpfungen der Gesellschaft
 
-Am 24. Mai 2017 verkündeten die Großrichter des Justiz-Yuans die Interpretation Nr. 748 und erklärten, dass das Bürgerliche Gesetzbuch durch den fehlenden Schutz gleichgeschlechtlicher Ehen verfassungswidrig sei. Taiwan wurde damit **das erste asiatische Land, dessen höchstes Gericht das Recht auf gleichgeschlechtliche Ehe als verfassungsgeschützt anerkannte**.
+Ende der 1980er und Anfang der 1990er Jahre waren homosexuelle Menschen in Taiwan noch stark stigmatisiert. Qi Jiawei (祁家威) nahm als öffentliche Person an sozialen Bewegungen teil und wurde oft von Passanten beschimpft und verspottet.
 
-> **✦** „Dass das Bürgerliche Gesetzbuch es zwei Personen gleichen Geschlechts nicht ermöglicht, zum Zweck der Führung eines gemeinsamen Lebens eine dauerhafte, von Intimität und Exklusivität geprägte Bindung einzugehen, verstößt gegen den Geist von Artikel 22 der Verfassung, der die Eheschließungsfreiheit des Volkes schützt, und gegen Artikel 7, der das Gleichheitsrecht des Volkes schützt.“
+Er spielte Jesus, trug Kreuze auf der Straße zur HIV-Prävention; er war mit 300 Kondomen geschmückt und kleidete sich wie eine ägyptische Königin, um an Bahnhöfen Spenden zu sammeln; für AIDS-Patienten wurde er von Menschen gemieden, als wäre er eine Pest.
 
-Den Gesetzgeber wurde eine Frist von zwei Jahren zur Gesetzesänderung gesetzt. Sollte bis zum 24. Mai 2019 keine Gesetzgebung erfolgt sein, könnten gleichgeschlechtliche Paare ihre Ehe direkt nach dem Bürgerlichen Gesetzbuch anmelden.
+**Der langjährige Reporter Yang Suo (楊索) aus Taiwan erinnerte sich: „Jedes Mal, wenn ich an Qi Jiawei (祁家威) denke, sehe ich die Szene Ende der 80er Jahre, wie er mit einem Spendenkorb für AIDS-Patienten lief... Die meisten Passanten mieden ihn weit und breit und betrachteten ihn als Pest; Gesellschaft und Medien stempelten ihn als ‚Problemschöpfer‘ ab...“**
 
-### Drei logische Grundlagen
+Doch Qi Jiawei (祁家威) fühlte sich nie allein. Seine Strategie war nicht, Vereine zu gründen oder Menschenmassen zu sammeln, sondern **jeden Aspekt des Systems als Einzelkämpfer herauszufordern.**
 
-**Eheschließungsfreiheit**: Ein verfassungsmäßig geschütztes Grundrecht, das nicht aufgrund der sexuellen Orientierung eingeschränkt werden darf
-**Gleichheitsschutz**: Differenzierte Behandlung aufgrund der sexuellen Orientierung muss einer strengen Prüfung standhalten; das geltende Recht stellt eine unangemessene Diskriminierung dar
-**Persönlichkeitsrechtsschutz**: Die intimen Beziehungen gleichgeschlechtlicher Paare stehen in engem Zusammenhang mit ihrer Persönlichkeitsentfaltung
+### Der dreißigjährige Rechtsmarathon
 
-Dies war nicht nur ein juristischer Sieg, sondern ein **revolutionärer Wandel im Menschenrechtsverständnis**.
+Von 1986 bis 2019 nutzte Qi Jiawei (祁家威) alle rechtlichen Mittel:
 
----
+- **Verwaltungsbeschwerde:** Anträge, Petitionen und Beschwerden bei verschiedenen Regierungsebenen.
+- **Rechtsstreitigkeiten:** Zivilklagen, Verwaltungsrechtsverfahren, Einspruch und Berufung.
+- **Gesetzgeberische Anfragen:** Wiederholte Anträge beim Gesetzgeber.
+- **Die letzte Waffe:** Im Jahr 2015 reichte er eine Verfassungsbeschwerde ein.
 
-## Das Referendum 2018: Der gesellschaftliche Tauziehkampf
-
-### Die Gegenbewegung
-
-Nach der Verfassungsinterpretation mobilisierten Oppositionsgruppen das „Liebe-Familie-Referendum“ zum Gegenangriff. Am 24. November 2018 wurde das Referendum zur Ehegleichstellung zur intensivsten zivilgesellschaftlichen Mobilisierung Taiwans.
-
-**Das Referendumsergebnis war ein schwerer Rückschlag für die Ehegleichstellungsbewegung:**
-
-- „Die zivile Ehe soll auf einen Mann und eine Frau beschränkt sein“: 7,65 Millionen Ja-Stimmen
-- „Schutz gleichgeschlechtlicher Paare durch Sondergesetz“: 6,49 Millionen Ja-Stimmen
-- Unterstützung für Änderung des Bürgerlichen Gesetzbuchs: lediglich 3,04 Millionen Ja-Stimmen
-
-### Die Tränen der Referendumsnacht
-
-Am Abend des 24. November 2018 weinten viele queere Menschen und Unterstützer an den Auszählungsorten. Man beschrieb es als den Schmerz, „durch ein Referendum in seinem Existenzwert negiert zu werden“.
-
-Doch dieser Rückschlag löste auch wichtige gesellschaftliche Reflexion aus: **Sollen Grundrechte durch Mehrheitsentscheidungen bestimmt werden?** Die während des Referendums massiv eingesetzten Angstkampagnen und Falschinformationen ließen die Gesellschaft auch die Bedeutung von Informationsqualität für demokratische Debatten erkennen.
-
-> **⚠️ Streitpunkt**
-> Rechtswissenschaftler sind weitgehend der Ansicht, dass Menschenrechte nicht der Mehrheitsentscheidung unterworfen sein sollten, die Gegenseite beharrt auf der Legitimität des demokratischen Verfahrens. Diese Spannung wird in der taiwanischen Gesellschaft bis heute diskutiert.
+Jede Niederlage war der Wegbereiter für den nächsten Sieg. **Qi Jiawei (祁家威) wartete nicht auf gesellschaftlichen Wandel; er schuf die Bedingungen dafür, dass sich die Gesellschaft verändern musste.**
 
 ---
 
-## 17. Mai 2019: Die historischen 66 Stimmen
+## Urteil 748: Ein historisches Gerichtsurteil des Verfassungsrechts
 
-### Internationaler Tag gegen Homo-, Bi-, Inter- und Transphobie
+### 24. Mai 2017: Ein Wendepunkt in der asiatischen Verfassungsgeschichte
 
-Am 17. Mai 2019 – dem „Internationalen Tag gegen Homo-, Bi-, Inter- und Transphobie“ – verabschiedete der Legislativ-Yuan in dritter Lesung das „Umsetzungsgesetz zur Interpretation Nr. 748 der Großrichter“.
+Am 24. Mai 2017 veröffentlichte der Oberste Gerichtshof das Urteil Nr. 748 (釋字第748號解釋), mit dem festgestellt wurde, dass die Ehebestimmungen des Bürgerlichen Gesetzbuches gleichgeschlechtliche Ehen nicht gewährleisten und somit verfassungswidrig seien. Taiwan wurde **das erste Land in Asien, dessen Rechtssystem das Recht auf gleichgeschlechtliche Ehe als durch die Verfassung geschützt anerkannte.**
 
-**66 Ja-Stimmen, 27 Nein-Stimmen.**
+> **✦** „Die Bestimmungen der Ehe im zweiten Kapitel des Familienrechts (民法第4編親屬第2章婚姻規定) erlauben es nicht, dass zwei Personen desselben Geschlechts eine dauerhafte Bindung eingehen, die intim und exklusiv ist, um ein gemeinsames Leben zu führen. Dies verstößt gegen den Geist der Artikel 22 (Freiheit des Menschen auf Eheschließung) und Artikel 7 (Gleichheitsrecht) der Verfassung.“
 
-In dem Moment der Verabschiedung brachen die zehntausenden Unterstützer vor dem Parlament in ohrenbetäubenden Jubel aus. Auf dem nassen Ketagalan-Boulevard wehten Regenbogenfahnen, Menschen umarmten sich weinend.
+Der Oberste Gerichtshof gab dem Gesetzgeber zwei Jahre Zeit zur Gesetzesänderung. Wenn bis zum 24. Mai 2019 keine gesetzliche Änderung erfolgt war, konnten gleichgeschlechtliche Paare die Ehe direkt nach dem Bürgerlichen Gesetzbuch registrieren lassen.
 
-### Ein Kompromiss, aber historisches Gesetz
+### Zwei verfassungsrechtliche Grundlagen
 
-Dieses Gesetz war das Produkt politischer Kompromisse – weder eine Änderung des Bürgerlichen Gesetzbuchs noch ein vollständig eigenständiges Sondergesetz, sondern ein „Umsetzungsgesetz“.
+**Ehefreiheit (Artikel 22 der Verfassung):** Die autonome Entscheidung „ob und mit wem man heiratet“ ist entscheidend für die gesunde Entwicklung der Persönlichkeit und die menschliche Würde; auch gleichgeschlechtliche Paare müssen geschützt werden.
+**Gleichheitsrecht (Artikel 7 der Verfassung):** Diskriminierung aufgrund sexueller Orientierung muss einem „strengeren Prüfstandard“ unterliegen, den das aktuelle Bürgerliche Gesetzbuch nicht erfüllt.
 
-**Gesetzesinhalt:**
-
-- ✅ **Eheschließungsrecht**: Gleichgeschlechtliche Paare können eine Ehe eingehen
-- ✅ **Vermögensschutz**: Anwendung des ehelichen Güterrechts des Bürgerlichen Gesetzbuchs
-- ✅ **Medizinische Entscheidungen**: Vertretungsrecht bei medizinischen Eingriffen
-- ✅ **Erbrecht**: Vollständiger Erbrechtsschutz
-- ⚠️ **Adoptionsbeschränkung**: Anfangs nur Adoption leiblicher Kinder des Partners möglich
-- ⚠️ **Länderbeschränkung**: Eheschließung nur mit Staatsbürgern von Ländern möglich, die gleichgeschlechtliche Ehe ebenfalls anerkennen
-
-Trotz der Beschränkungen wurde Taiwan damit **das erste asiatische Land, das gleichgeschlechtliche Ehen gesetzlich schützt**.
+Dies war nicht nur ein juristischer Sieg, sondern eine **revolutionäre Verschiebung im Menschenbild**.
 
 ---
 
-## Nach der Ehegleichstellung: Fortschreitende Gleichstellung
+## Volksabstimmung 2018: Der gesellschaftliche Ringenkampf
 
-### Schrittweise rechtliche Vervollkommnung
+### Die rückständige Kraft
 
-**Januar 2023**: Das Innenministerium lockerte die Beschränkungen bei grenzüberschreitenden gleichgeschlechtlichen Ehen; taiwanische Staatsbürger können nun mit Ausländern aus den meisten Ländern heiraten, die gleichgeschlechtliche Ehe nicht anerkennen
+Nach dem Urteil starteten Gegner die Gegenbewegung „Familie-Volksabstimmung“. Am 24. November 2018 wurde die Abstimmung zur gleichgeschlechtlichen Ehe zu der intensivsten zivilgesellschaftlichen Mobilisierung in Taiwan.
 
-**Mai 2023**: Der Legislativ-Yuan verabschiedete eine Änderung, die gleichgeschlechtlichen Ehepartnern die gemeinsame Adoption nicht leiblicher Kinder ermöglicht
+**Das Ergebnis der Volksabstimmung war ein schwerer Rückschlag für die Bewegung:**
 
-### Eheschließungsstatistik
+- „Die eheliche Verbindung nach dem Bürgerlichen Gesetzbuch sollte auf einen Mann und eine Frau beschränkt sein“: 7,65 Millionen Ja-Stimmen
+- „Die gleichgeschlechtlichen Paare sollten durch andere Formen als die Ehe im Bürgerlichen Gesetzbuch geschützt werden“: 6,40 Millionen Ja-Stimmen
+- „Gleichgeschlechtliche Paare sollten durch die ehelichen Bestimmungen des Bürgerlichen Gesetzbuches ehemagisch gebunden sein“: nur 3,38 Millionen Ja-Stimmen
 
-Seit der Öffnung am 24. Mai 2019 bis heute:
+### Tränen in der Abstimmungsnacht
 
-- **Gesamtzahl der Anmeldungen**: Über 10.000 gleichgeschlechtliche Paare haben die Eheschließung angemeldet
-- **Geschlechterverhältnis**: Weibliche Paare etwa doppelt so viele wie männliche Paare
-- **Regionale Verteilung**: Nicht nur in Ballungsräumen, auch in ländlichen Gemeinden gibt es Anmeldungen
+In der Nacht des 24. November 2018 verabschiedeten sich viele LGBTQ+-Gemeinschaften und Unterstützer bei der Auszählung mit Tränen. Einige beschrieben es als den Schmerz, „durch die Volksabstimmung existenznegiert“ zu werden.
+
+Doch dieser Rückschlag führte auch zu einer wichtigen gesellschaftlichen Selbstreflexion: **Sollten grundlegende Menschenrechte durch eine Mehrheitsentscheidung bestimmt werden?** Die zahlreichen Ängste und Falschmeldungen während der Abstimmung zwangen die Gesellschaft dazu, die Bedeutung der Informationsqualität für den demokratischen Diskurs anzuerkennen.
+
+> **⚠️ Kontroverse Ansicht**
+> Juristen sind sich weitgehend einig, dass Menschenrechte nicht durch eine Mehrheitsentscheidung eingeschränkt werden sollten, aber die Gegner verteidigen die Legitimität des demokratischen Verfahrens. Diese Spannung wird bis heute in der taiwanesischen Gesellschaft diskutiert.
+
+---
+
+## 17. Mai 2019: Die historische Abstimmung mit 66 Stimmen
+
+### Internationaler Tag gegen Homophobie
+
+Am 17. Mai 2019 – dem „Internationalen Tag gegen Homophobie“ – verabschiedete der Gesetzgeber das „Gesetz zur Umsetzung des Urteils Nr. 748 des Obersten Gerichtshofs“.
+
+**Der entscheidende Artikel 4 (gleichgeschlechtliche Paare können die Ehe bei den Haushaltsbehörden registrieren lassen) wurde mit 66 Ja-Stimmen und 27 Nein-Stimmen angenommen.**
+
+An diesem Tag regnete es leicht, als die Unterstützer bereits am Morgen um das Gesetzgebergebäude versammelt waren; der Gedränge erstreckte sich von Qingdao East Road bis zu Zhongshan South Road und Jinan Road.
+
+### Ein Kompromiss, aber historisch
+
+Dieses Gesetz war ein politischer Kompromiss – weder eine Änderung des Bürgerlichen Gesetzbuches noch ein völlig eigenständiges Spezialgesetz, sondern ein „Umsetzungsgesetz“.
+
+**Inhalt des Gesetzes:**
+
+- ✅ **Eherecht:** Gleichgeschlechtliche Paare können in Ehe eingehen.
+- ✅ **Vermögensschutz:** Anwendung der ehelichen Gütergemeinschaft nach dem Bürgerlichen Gesetzbuch.
+- ✅ **Medizinische Entscheidungen:** Recht auf medizinische Vertretung durch den Partner.
+- ✅ **Erbrecht:** Volle Sicherstellung des Erbrechts.
+- ⚠️ **Adoptionsbeschränkung:** Anfänglich nur die Adoption der leiblichen Kinder des Partners möglich.
+- ⚠️ **Grenzen bei internationalen Beziehungen:** Das Umsetzungsgesetz selbst schrieb nichts vor, aber ein Schreiben des Innenministeriums im Jahr 2019 verlangte, dass das Herkunftsland des ausländischen Partners die gleichgeschlechtliche Ehe anerkennen muss, um eine Registrierung zu ermöglichen.
+
+Trotz der Einschränkungen wurde Taiwan **das erste Land in Asien mit gesetzlich geschützter gleichgeschlechtlicher Ehe.**
+
+---
+
+## Nach der Eheschließung: Die fortlaufende Gleichberechtigung
+
+### Allmähliche Verbesserung des Gesetzes
+
+**19. Januar 2023:** Das Innenministerium erließ ein neues Schreiben, das die Registrierung von Taiwanern und ausländischen gleichgeschlechtlichen Partnern (einschließlich Hong Kong und Macau, aber nicht der Volksrepublik China) in Taiwan ermöglicht, unabhängig davon, ob das Herkunftsland die Ehe anerkennt.
+
+**16. Mai 2023:** Der Gesetzgeber passte das Gesetz an, sodass auch gleichgeschlechtliche Paare gemeinsame Adoptionen von Kindern ohne leiblichen Band haben können.
+
+### Heiratsregisterdaten
+
+Seit der Öffnung am 24. Mai 2019:
+
+- **Gesamtzahl der Registrierungen:** Geschätzt etwa 18.000 bis Ende 2025 (9.659 Paare Ende 2022, über 10.000 im Jahr 2023).
+- **Geschlechterverhältnis:** 13.427 weibliche und 4.889 männliche Partner; Frauen stellen etwa das 2,7-fache der Männer dar.
+- **Jährliche Registrierungen:** Etwa 1.900 bis 2.500 Paare pro Jahr von 2020 bis 2022, und seit 2023 jeweils um die 3.200 Paare.
 
 > **📊 Datenquelle**
-> Statistiken der Haushaltsverwaltung des Innenministeriums, kumulierte Daten 2019-2022. Die Anmeldezahlen haben sich in den letzten Jahren stabilisiert, was die schrittweise Sättigung der Nachfrage widerspiegelt.
+> Haushaltsstatistik des Innenministeriums; zusammengestellt aus der Statistiktabelle „Gleichgeschlechtliche Ehe in Taiwan“ auf Wikipedia für den Zeitraum vom 24. Mai 2019 bis zum 31. Dezember 2025.
 
 ---
 
-## Taipeh Pride: Asiens Regenbogenhauptstadt
+## Der LGBTQ+-Marsch in Taipeh: Die Regenbogenhauptstadt Asiens
 
-### Von 1.000 auf 100.000 Menschen
+### Von 1.000 auf 100.000 Teilnehmer
 
-**2003**: Gründung der Taipeh Pride, ca. 1.000 Teilnehmer
-**2014**: Über 65.000 Teilnehmer, größte Pride Asiens
-**In den letzten Jahren**: Stabile Teilnehmerzahlen von über 100.000
+**2003:** Der erste LGBTQ+-Marsch in Taipeh wurde gegründet, mit fast tausend Teilnehmern.
+**2014:** Die Veranstalter schätzten etwa 65.000 Teilnehmer.
+**In jüngster Zeit:** Die Organisatoren schätzen die Zahl oft zwischen 120.000 und 180.000 (120.000 im Jahr 2022, 176.000 im Jahr 2023, 180.000 im Jahr 2024).
 
-Jeden letzten Samstag im Oktober wird das Zentrum Taipehs von Regenbogenfahnen eingenommen. Teilnehmer sind queere Communities, heterosexuelle Unterstützer, Unternehmensdelegationen, ausländische Diplomaten, internationale Reisende – das größte Geschlechtergerechtigkeits-Festival Asiens.
+Jeden letzten Samstag im Oktober wird das Stadtzentrum von Taipeh mit Regenbogenflaggen eingenommen. Die Teilnehmer umfassen die LGBTQ+-Gemeinschaft, heterosexuelle Unterstützer, Unternehmensgruppen, ausländische Botschafter und internationale Touristen, was ein riesiges Karneval der Geschlechtergerechtigkeit in Asien darstellt.
 
-### Lokale Paraden blühen überall
+### Lokale Paraden überall
 
-Neben Taipeh finden seit 2011 in Kaohsiung, sowie in Taichung, Tainan und Hualien Pride-Paraden statt. Die Entwicklung lokaler Paraden zeigt, dass Geschlechterthemen vom Großstadt-Thema zu einem landesweiten Thema geworden sind.
+Außerhalb von Taipeh fanden auch Paraden in Kaohsiung (ab 2010), Taichung, Tainan und Hualien statt. Die Entwicklung lokaler Märsche zeigt, dass die Themen der Geschlechtergerechtigkeit von einem Metropolenphänomen zu einer landesweiten Angelegenheit geworden sind.
 
-**Die Taipeh Pride zieht große Zahlen an LGBTQ+-Menschen aus Südostasien und Ostasien an, die eigens dafür anreisen; Taiwan gilt daher als „Asiens queere-freundlichste Hauptstadt“.**
+**Der LGBTQ+-Marsch in Taipeh zieht viele Teilnehmer aus Südostasien und Ostasien an; Taiwan wird daher als „LGBTQ+-freundliche Hauptstadt Asiens“ angesehen.**
 
 ---
 
-## Internationale Bedeutung: Asiens Leuchtturm
+## Internationale Bedeutung: Der Leuchtturm Asiens
 
 ### Vorbildwirkung
 
-**23. Januar 2025**: Thailands Ehegleichstellungsgesetz tritt in Kraft, Thailand wird zum zweiten asiatischen Land mit Ehegleichstellung. Der thailändische Gesetzgebungsprozess bezog sich umfangreich auf taiwanische Erfahrungen.
+**23. Januar 2025:** Thailand trat mit der Inkraftsetzung seines Ehegesetzes dem ersten Land Südostasiens bei, das gleichgeschlechtliche Ehen anerkannte.
 
-**Japan, Südkorea, Vietnam, Philippinen** und andere Länder schöpfen aus dem taiwanischen Fall Strategien und Mut. Taiwan bewies: **Asiatische Gesellschaften können bei Bewahrung kultureller Traditionen gleichzeitig progressive Menschenrechtssysteme aufbauen.**
+Die LGBTQ+-Bewegungen in Ländern wie Japan, Südkorea, Vietnam und den Philippinen haben Strategien und Mut von Taiwan übernommen. Taiwan hat bewiesen: **Asiatische Gesellschaften können fortschrittliche Menschenrechtssysteme aufbauen und dabei kulturelle Traditionen bewahren.**
 
-### Demonstration von Soft Power
+### Ausdruck sanfter Macht
 
-Die Ehegleichstellungsgesetzgebung stärkte Taiwans internationales Image als „asiatischer Leuchtturm für Menschenrechte“. In einer von diplomatischen Herausforderungen geprägten Lage wurde Geschlechtergerechtigkeit zu einem wichtigen Bereich, in dem Taiwan seine Werte demonstrieren kann.
-
-**Internationale Menschenrechtsorganisationen preisen Taiwan als „Vorbild für Demokratie und Menschenrechte in Asien“, was sich positiv auf Taiwans internationale Stellung auswirkt.**
+Die Gesetzgebung zur gleichgeschlechtlichen Ehe stärkte das internationale Image Taiwans als „Leuchtturm der asiatischen Menschenrechte“. In einer Situation, in der Taiwan diplomatische Herausforderungen bewältigen muss, ist die Geschlechtergerechtigkeit ein wichtiger Bereich, in dem Taiwan seine Werte demonstriert.
 
 ---
 
 ## Die unvollendete Revolution
 
-### Noch offene Fragen
+### Noch zu lösende Themen
 
-**Transgender-Rechte**: Änderung des Geschlechtseintrags im Ausweis erfordert weiterhin Operationsnachweis, was Menschenrechtskontroversen auslöst
+**Transgender-Rechte:** Gemäß den Schreiben des Innenministeriums ist eine Änderung des Geschlechts auf dem Personalausweis noch an psychiatrische Diagnosen und die Entfernung von Genitalkörpern gebunden; bis Juli 2026 haben bereits 12 Transpersonen durch Verwaltungsgerichtsverfahren einen endgültigen Sieg („Befreiung von der Operation zur Erneuerung des Dokuments“) errungen, das System selbst ist noch nicht reformiert.
 
-**Antidiskriminierungsgesetz**: Taiwan fehlt eine umfassende Antidiskriminierungsgesetzgebung; Schutz vor Diskriminierung am Arbeitsplatz und im Bildungswesen unzureichend
+**Antidiskriminierungsgesetz:** Taiwan verfügt über kein umfassendes Antidiskriminierungsrecht; der Schutz vor Diskriminierung am Arbeitsplatz und in der Bildung ist unzureichend.
 
-**Queere Menschen in ländlichen Regionen**: Außerhalb der Ballungsräume sehen sich LGBTQ+-Menschen weiterhin mit Ressourcenmangel und geringerer Akzeptanz konfrontiert
+**LGBTQ+ in ländlichen Gebieten:** LGBTQ+-Personen außerhalb der Metropolen stehen weiterhin vor Herausforderungen hinsichtlich Ressourcen und Akzeptanz.
 
-**Altersversorgung für ältere queere Menschen**: System queerer-freundlicher Langzeitpflege noch im Aufbau
+**Pflege älterer LGBTQ+-Menschen:** Das System der gleichgeschlechtlich freundlichen Langzeitpflege muss noch aufgebaut werden.
 
-### Fortgesetzter gesellschaftlicher Dialog
+### Der anhaltende gesellschaftliche Dialog
 
-Nach der Ehegleichstellung wurde die gesellschaftliche Debatte über Geschlechterthemen in Taiwan reifer. **Vom „Ob man heiraten darf“ hin zu „Wie man zusammen lebt“, von der rechtlichen Gleichstellung hin zur gesellschaftlichen Inklusion.**
+Nach der Gesetzgebung zur gleichgeschlechtlichen Ehe ist die Diskussion über Geschlechterthemen in Taiwan reifer geworden. **Der Fokus hat sich von „können sie heiraten“ zu „wie leben sie zusammen“ verschoben, von rechtlicher Gleichheit hin zu sozialer Inklusion.**
 
-**Geschlechtergleichstellungsbildung, Diversität am Arbeitsplatz, queere-freundliche medizinische Umgebungen** – dies sind die nächsten Schlachtfelder der taiwanischen Geschlechtergerechtigkeit.
-
----
-
-## Warum das wichtig ist?
-
-Die Bedeutung der taiwanischen Ehegleichstellung geht weit über die Ehe hinaus:
-
-**Prüfstein der Demokratiequalität**: Wie eine Gesellschaft mit Minderheiten umgeht, ist ein wichtiger Indikator für ihre demokratische Reife
-
-**Neudefinition „asiatischer Werte“**: Taiwan beweist, dass Traditionspflege und Menschenrechtsschutz koexistieren können
-
-**Sieg des Rechtsstaatsprinzips**: Vom individuellen Antrag bis zur Großrichter-Interpretation zeigt sich die Kraft rechtlicher Systeme, Schwache zu schützen
-
-**Symbol gesellschaftlichen Fortschritts**: Vom „Verbrechen“ in der Kriegsrechtszeit zum „Recht“ in der demokratischen Ära – spiegelt den zivilisatorischen Fortschritt der gesamten Gesellschaft wider
-
-> **✦** „Dies ist nicht nur eine rechtliche Änderung, sondern zivilisatorischer Fortschritt. Jedes Paar, das dadurch legal heiraten kann, ist ein Zeuge dafür, dass Menschenwürde geschützt wird.“
+**Geschlechtergerechtigte Bildung, Diversität am Arbeitsplatz und eine freundliche medizinische Umgebung** – dies sind die nächsten Schlachtfelder der Geschlechtergerechtigkeit in Taiwan.
 
 ---
 
-Von Chi Chia-weis erstem Antrag 1986 in der Kriegsrechtszeit bis zur historischen Abstimmung im Legislativ-Yuan 2019; vom einsamen Krieg eines Einzelnen zum Regenbogenzug zehntausender Menschen – Taiwan brauchte 33 Jahre.
+## Warum ist das wichtig?
 
-Diese Geschichte lehrt uns: **Veränderung geschieht nicht über Nacht, aber solange jemand aufsteht, solange das Rechtssystem funktionieren kann, werden Gleichheit und Würde am Ende eintreffen.**
+Die Bedeutung der Gesetzgebung zur gleichgeschlechtlichen Ehe in Taiwan geht weit über die Ehe selbst hinaus:
 
-Taiwans Erfahrung verkündet der Welt: In dieser von Spaltungen geprägten Welt ist Liebe das, was am wenigsten Kategorisierung braucht.
+**Ein Prüfstein für die Qualität der Demokratie:** Wie eine Gesellschaft mit Minderheiten umgeht, ist ein wichtiger Indikator für ihre demokratische Reife.
+**Neudefinition asiatischer Werte:** Taiwan hat bewiesen, dass Respekt vor Tradition und Menschenrechtsschutz koexistieren können.
+**Ein Sieg des Rechtsstaatsprinzips:** Von der individuellen Antragstellung bis zum Verfassungsgerichtsurteil demonstriert die juristische Institution die Kraft des Schutzes von Schwachen.
+**Symbol des gesellschaftlichen Fortschritts:** Vom „Verbrechen“ unter Kriegsrecht hin zur „Recht“ im demokratischen Zeitalter spiegelt dies den zivilisatorischen Fortschritt der gesamten Gesellschaft wider.
 
-## Quellen
+---
 
-- [BBC Chinese: 30 Jahre taiwanische queere Bewegung: Zeuge der Verabschiedung des Ehegleichstellungsgesetzes](https://www.bbc.com/zhongwen/trad/chinese-news-48368470)
-- [Justiz-Yuan: Interpretation Nr. 748](https://cons.judicial.gov.tw/docdata.aspx?fid=100&id=310929)
-- [Zentralnachrichtenagentur: Ehegleichstellungsgesetz Asiens erstes, Legislativ-Yuan verabschiedet in dritter Lesung](https://www.cna.com.tw/news/firstnews/201905175004.aspx)
-- [Legislativ-Yuan: Umsetzungsgesetz zur Interpretation Nr. 748 der Großrichter](https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=33324&pid=183416)
-- [Amnesty International: Taiwan wird erstes asiatisches Land, das gleichgeschlechtliche Ehe legalisiert](https://www.amnesty.org/en/latest/press-release/2019/05/taiwan-same-sex-marriage-law/)
+Von dem ersten Antrag von Qi Jiawei (祁家威) während des Kriegsrechts im Jahr 1986 bis zur historischen Abstimmung im Gesetzgeber im Jahr 2019; vom einsamen Kampf eines Einzelnen bis zum Regenbogenmarsch von Zehntausenden – Taiwan hat 33 Jahre hinter sich.
+
+Diese Geschichte lehrt uns: **Veränderung geschieht nicht über Nacht, aber solange jemand bereit ist, aufzustehen und das Rechtssystem funktioniert, werden Gleichheit und Würde eintreffen.**
+
+Die Erfahrung Taiwans sendet auch eine Botschaft an die Welt: In dieser zerstrittenen Welt ist Liebe das, was am wenigsten kategorisiert werden muss.
+
+## Referenzen
+
+- [BBC Chinese: 30 Jahre LGBTQ+-Bewegung in Taiwan: Zeugnis der Verabschiedung des Ehegesetzes](https://www.bbc.com/zhongwen/trad/chinese-news-48368470)
+- [Oberster Gerichtshof: Urteil Nr. 748 (釋字第748號解釋)](https://cons.judicial.gov.tw/docdata.aspx?fid=100&id=310929)
+- [CNA: Gesetz zur gleichgeschlechtlichen Ehe ist das erste in Asien, der Gesetzgeber hat es verabschiedet](https://www.cna.com.tw/news/firstnews/201905175004.aspx)
+- [Gesetzgeber: Gesetz zur Umsetzung des Urteils Nr. 748 des Obersten Gerichtshofs](https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=33324&pid=183416)
+- [Amnesty International: Taiwan wird das erste Land in Asien mit legaler gleichgeschlechtlicher Ehe](https://www.amnesty.org/en/latest/press-release/2019/05/taiwan-same-sex-marriage-law/)

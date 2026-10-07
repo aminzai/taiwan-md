@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-08T01:12:36+08:00",
-    "zhCommitHead": "916c76b0b",
+    "lastUpdated": "2026-10-08T01:52:55+08:00",
+    "zhCommitHead": "071fb6d52",
     "totalZh": 1125,
     "activeLanguages": [
       "en",
@@ -108,8 +108,8 @@
       },
       "de": {
         "total_zh": 1125,
-        "fresh": 1124,
-        "stale": 1,
+        "fresh": 1125,
+        "stale": 0,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -69714,8 +69714,8 @@
           "sourceContentHash": "sha256:53dce2454f2bc650",
           "sourceBodyHash": "sha256:a975eff83abc0a3e",
           "translatedAt": "2026-10-08T01:07:12+08:00",
-          "translationLastCommit": "4dc2cbd4",
-          "translationLastModified": "2026-07-26T13:02:42+08:00",
+          "translationLastCommit": "54c591e7",
+          "translationLastModified": "2026-10-08T01:12:35+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "bytes": 24194,
@@ -69806,20 +69806,18 @@
         "de": {
           "path": "de/Society/taiwan-marriage-equality-lgbtq-rights.md",
           "translatedFrom": "Society/台灣同婚與性別平權.md",
-          "sourceCommitSha": "a05d24314",
-          "sourceContentHash": "sha256:369f015f40df17bd",
-          "sourceBodyHash": "sha256:87466d8232d3f86e",
-          "translatedAt": "2026-09-09T11:46:03+08:00",
+          "sourceCommitSha": "872f4aef5",
+          "sourceContentHash": "sha256:53dce2454f2bc650",
+          "sourceBodyHash": "sha256:a975eff83abc0a3e",
+          "translatedAt": "2026-10-08T01:50:03+08:00",
           "translationLastCommit": "8d12acc2",
           "translationLastModified": "2026-09-09T18:59:25+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 18433,
+          "bytes": 20718,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+40 -45"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
