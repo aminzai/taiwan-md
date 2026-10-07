@@ -1,16 +1,16 @@
 ---
-title: 'Tình yêu đồng tính và quyền bình đẳng giới tại Đài Loan'
-description: 'Từ tù nhân sự trong thời kỳ kiểm duyên đến luật hôn nhân đầu tiên tại châu Á, 30 năm chiến đấu của một người đã thay đổi định nghĩa tình yêu của đảo đất này'
+title: 'Đồng giới hóa hôn nhân và bình đẳng giới tại Đài Loan'
+description: 'Từ người công khai xu hướng tính dục bị giam giữ trong thời kỳ quân sự hóa đến luật hôn nhân đồng giới đầu tiên của châu Á, 33 năm đấu tranh kiến nghị, chứng thực và kiện tụng của Kỳ Gia Uy đã định nghĩa lại khái niệm hôn nhân tại Đài Loan như thế nào.'
 date: 2026-03-22
 category: 'Society'
 tags:
   [
-    'hôn nhân đồng tính',
+    'Đồng giới hóa hôn nhân',
     'bình đẳng giới',
     'nhân quyền',
     'tư pháp',
-    'châu Á đầu tiên',
-    'Thái Gia Tỵ',
+    'hàng đầu châu Á',
+    'Kỳ Gia Uy',
     'LGBTQ+',
   ]
 subcategory: '人權與平等'
@@ -18,255 +18,252 @@ author: 'Taiwan.md'
 difficulty: 'beginner'
 readingTime: 12
 featured: true
-lastVerified: 2026-03-22
+lastVerified: 2026-10-07
 lastHumanReview: false
 translatedFrom: 'Society/台灣同婚與性別平權.md'
-sourceCommitSha: 'a05d24314'
-sourceContentHash: 'sha256:369f015f40df17bd'
-sourceBodyHash: 'sha256:87466d8232d3f86e'
-translatedAt: '2026-07-26T11:16:39+08:00'
+sourceCommitSha: '872f4aef5'
+sourceContentHash: 'sha256:53dce2454f2bc650'
+sourceBodyHash: 'sha256:a975eff83abc0a3e'
+translatedAt: '2026-10-08T01:07:12+08:00'
 ---
 
-# Tình yêu đồng tính và quyền bình đẳng giới tại Đài Loan
+# Đồng giới hóa hôn nhân và bình đẳng giới tại Đài Loan
 
-> **30 giây tóm tắt:** Vào năm 1986, Thái Gia Tỵ bị chính phủ kiểm duyên tù phát thân vì công khai tỏ tình bằng tội "hành vi gây thương tích" và giam giữ 5 tháng. Vào ngày 17 tháng 5 năm 2019, vụ kiện tự do của người đồng tính này đã khiến Đài Loan trở thành quốc gia đầu tiên tại châu Á có pháp luật hôn nhân đồng tính hợp pháp. Đây không phải là câu chuyện về luật pháp, mà là câu chuyện về 30 năm không từ bỏ — một người bị xã hội coi là "quái vật" cuối cùng đã khiến cả xã hội định nghĩa lại ý nghĩa của tình yêu.
-
----
-
-## Một chứng nhận hôn nhân, chờ đợi 33 năm
-
-Ngày 24 tháng 5 năm 2019, Văn phòng Kế hoạch và Địa phương, Quận Xinyi, Hà Nội.
-
-Sáng sớm 6 giờ, hàng trăm cặp đôi đồng tính xếp hàng tại cửa. Khi chứng nhận đăng ký hôn nhân đầu tiên được xuất ra, đám đông phát ra tiếng cười vang và khóc lóc. Nhiều người vỗ tay nhau, ném cờ rainbow vào trời, người khác ngồi yên lặng nhìn vào tờ giấy mỏng — trên đó viết hai chữ mà họ đợi một suốt đời: "vợ/chồng".
-
-Năm 61, Thái Gia Tỵ không có mặt tại đó. Không phải vì không có người bạn đời, mà là vì đối với người đó, thắng lợi này đến quá muộn. Từ lần đầu tiên xin đăng ký hôn nhân đồng tính bị từ chối vào năm 1986, đến khi luật chấp nhận vào năm 2019, anh ta đã trải qua 33 năm.
-
-**Trong 33 năm qua, anh ta bị giam giữ, bị xã hội từ chối, bị truyền hình chọc chẻ, và đứng một mình trên phố với cờ rainbow bị người đi qua thịnh nghĩa.** Nhưng mỗi lần bị từ chối, anh ta lại đề xuất lại. Mỗi lần thua, anh ta đều kháng cáo lại.
-
-> **📝 Ghi chú của người dẫn chương**
-> Chiến thắng của phong trào hôn nhân đồng tính tại Đài Loan không phải do xã hội đột nhiên thay đổi, mà là do có những người không để lãng quên thời đại.
+> **Tóm tắt 30 giây:** Năm 1986, Kỳ Gia Uy công khai xu hướng tính dục của mình và kiến nghị Quốc hội cho phép kết hôn đồng giới hợp pháp; cùng năm, ông bị giam giữ khoảng 5 tháng với tội danh "gây thương tích" dưới chế độ quân sự. Năm 2017, đơn kiện hiến pháp do ông đệ trình đã nhận được Phán quyết số 748; và vào ngày 17 tháng 5 năm 2019, Quốc hội thông qua luật thực thi, khiến Đài Loan trở thành quốc gia đầu tiên ở châu Á công nhận hôn nhân đồng giới hợp pháp kể từ ngày 24 tháng 5. Đây là câu chuyện về 33 năm không bỏ cuộc: một người từng bị xã hội và truyền thông coi là "người gây rắc rối", cuối cùng đã buộc toàn xã hội phải định nghĩa lại khái niệm hôn nhân.
 
 ---
 
-## Tội "hành vi gây thương tích" trong thời kỳ kiểm duyên
+## Ngày đầu tiên, chờ đợi 33 năm
 
-### 1986: một buổi họp báo thay đổi vận mệnh
+Ngày 24 tháng 5 năm 2019, ngày luật thực thi kết hôn đồng giới có hiệu lực.
 
-Ngày 28 tháng 2 năm 1986, Đài Loan vẫn đang trong thời kỳ kiểm duyên.
+Vào lúc 8 giờ 00 phút 46 giây sáng, Văn phòng Đăng ký Hộ tịch quận An Nam, thành phố Đài Nam đã đăng ký kết hôn cho cặp đôi đồng tính đầu tiên trên toàn quốc. Đến cuối ngày, tổng cộng có 526 cặp đã hoàn tất đăng ký, trong đó có 341 cặp là phụ nữ và 185 cặp là nam giới. Chính quyền thành phố Đài Bắc đã tổ chức một buổi lễ cưới ngoài trời cho các cặp đôi mới, họ bước trên tấm thảm cầu vồng sáu sắc.
 
-Ngày đó, Thái Gia Tỵ tổ chức họp báo quốc tế tại McDonald's, công khai tỏ tình thành là người đồng tính đầu tiên tại Đài Loan — và có thể là châu Á. Anh mời báo chí quốc tế như Reuters báo chí, quảng bá phòng chống HIV, khi đó anh chỉ 28 tuổi.
+Kỳ Gia Uy, năm nay 60 tuổi, cũng có mặt trong buổi lễ đó, mặc bộ vest đỏ rực và khoác cờ cầu vồng để chúc phúc cho cô dâu chú rể. Từ lần kiến nghị đầu tiên bị từ chối vào năm 1986 cho đến ngày này, ông đã trải qua 33 năm.
 
-**Sau 5 tháng, anh bị chính phủ bắt giữ với tội "hành vi gây thương tích nghiêm trọng".**
+**Trong suốt 33 năm đó, ông đã từng bị giam giữ, bị xã hội và truyền thông coi là người gây rối, bị người qua đường nguyền rủa khi một mình giương cờ cầu vồng trên phố.** Nhưng mỗi lần bị từ chối, ông lại nộp đơn xin lần nữa. Mỗi lần thua kiện, ông lại kháng cáo thêm một lần.
 
-"Người đến bắt tôi nói: 'Thưa anh Thái, anh rất thông minh, vì vậy chúng tôi phải xóa sổ anh trong thế giới tự do, kết toán 5 năm.' " Thái Gia Tỵ sau này nhớ lại. Nhưng người này hiểu luật pháp khéo léo, dùng tri thức của mình trong lĩnh vực hình sự, thành công trong 5 tháng sau khi xả ra tù.
-
-Ra tù, anh làm một quyết định hơn nữa tuyệt vời: đề nghị đăng ký hôn nhân đồng tính.
-
-### Lần đầu đề xuất, lần đầu bị từ chối
-
-Vào năm 1986, Thái Gia Tỵ đề nghị đăng ký hôn nhân với người bạn nam tại Tòa án Địa phương Hà Nội.
-
-Việc bị từ chối là điều kỳ vọng. Nhưng Thái Gia Tỵ không muốn thắng một lần, mà muốn tạo dựng một **tiên phong pháp lý** — biến việc này từ không tồn tại thành phải thảo luận. Từ không ai nói đến, đến phải có người nói đến.
-
-> **💡 Bạn biết không**
-> Thái Gia Tỵ quyết tâm bảo vệ quyền lợi người đồng tính từ khi 17 tuổi. Vào năm 1975, giáo viên anh dạy từ "homosexual" và sau đó tra cứu, phát hiện ra vào năm 1974 Hội Thần kinh thế giới đã xóa bỏ tính đồng tính khỏi danh sách bệnh tâm thần, từ đó anh tự chắc mình thuộc đồng tính và là người bình thường.
+> **📝 Ghi chú của Người biên tập**
+> Chiến thắng của hôn nhân đồng giới tại Đài Loan không phải vì xã hội đột nhiên cởi mở hơn, mà là vì đã có người từ chối bị thời đại lãng quên.
 
 ---
 
-## Một cuộc chiến riêng của một người
+## Tội "Gây thương tích" trong thời kỳ quân sự hóa
 
-### Ánh mắt lạnh lẽo và lời thịnh nghĩa của xã hội
+### 1986: Một buổi họp báo thay đổi vận mệnh
 
-Vào cuối thập niên 1980 và đầu thập niên 1990, người đồng tính tại Đài Loan vẫn là một nhóm bị xã hội khinh bỉ. Thái Gia Tỵ tham gia hoạt động xã hội với danh tính công khai, thường bị người đi trên đường phố thịnh nghĩa và chọc chẻ.
+Đầu năm 1986, Đài Loan vẫn đang trong tình trạng quân sự hóa.
 
-Anh từng đóng vai Jesus, mang thập giá chạy đường phố để giáo dục về phòng chống HIV; mặc áo khoác có 300 ống đồng, xuất hiện như thiên thần Ai Cập tại ga xe để phân phối; cùng tìm kiếm tài nguyên cho người bị HIV bị người dân tránh né như bệnh dịch.
+Kỳ Gia Uy đã tổ chức một cuộc họp báo quốc tế tại một cửa hàng McDonald's ở Đài Bắc, công khai xu hướng tính dục của mình, và sau này được gọi là người đồng tính đầu tiên công khai tại Đài Loan. Ông mời các phương tiện truyền thông quốc tế như Reuters đến đưa tin, đồng thời tuyên truyền phòng chống AIDS; năm đó ông 27 tuổi.
 
-**Nhà báo trưởng Hà Nội, Yang Suo, nhớ lại: "Mỗi khi nghĩ đến Thái Gia Tỵ, tôi luôn thấy hình ảnh anh ta đang mang thùng gom trong thập niên 1980... Người qua lại hầu như tránh né, xem anh ta như bệnh dịch, xã hội và truyền hình coi anh ta là 'người gây phiền toại'."**
+Cùng năm đó, ông đã kiến nghị Quốc hội yêu cầu lập pháp cho phép kết hôn đồng giới hợp pháp. Đại diện của Tòa án Tối cao và Bộ Tư pháp tại ủy ban đã bày tỏ sự phản đối, và Ủy ban Tư pháp của Quốc hội nhận định rằng vấn đề này không cần thiết phải đưa ra thảo luận thành dự luật.
 
-Nhưng Thái Gia Tỵ không cảm thấy cô đơn. Chiến lược của anh không phải là tạo tổ chức, tập hợp đám đông, mà là **một người thách thức từng khía cạnh của hệ thống**.
+**Vào tháng 8 năm đó, ông đã bị triệu tập và giam giữ với tội danh "gây thương tích".**
 
-### Hành trình 30 năm của luật pháp
+"Người bắt tôi nói: 'Ông Kỳ, ông quá tài giỏi, nên chúng ta phải khiến ông biến mất khỏi thế giới tự do, giam ông năm năm.'" Kỳ Gia Uy sau này hồi tưởng lại, đối phương tùy tiện gán cho ông tội gây thương tích, và ông đã thoát ra sau 5 tháng nhờ kiến thức về tội phạm học và luật pháp. Một lời kể khác đến từ lời tự thuật của ông: Tổng thống lúc bấy giờ là Giản Kinh Quốc biết chuyện nhưng không để tâm, và vào ngày 23 tháng 1 năm sau, ông được bảo lãnh.
 
-Từ năm 1986 đến năm 2019, Thái Gia Tỵ đã dùng hết tất cả các lối mòn pháp lý:
+### Kiến nghị, chứng thực, đăng ký, lần này lại bị từ chối
 
-- **Kháng cáo hành chính**: xin đề nghị, khiếu nại, kháng cáo lên các cấp chính phủ
-- **Hòa hạn tư pháp**: hòa hạn dân sự, hòa hạn hành chính, parquet, kháng cáo
-- **Đề xuất luật**: một lần sau một lần đề nghị đại biểu Quốc hội xem xét
-- **Vũ khí cuối cùng**: vào năm 2015, đề nghị yêu cầu Tòa án Kinh tế pháp luật giải thích
+Vụ kiến nghị năm 1986 là lần đầu tiên Kỳ Gia Uy chính thức đưa ra yêu cầu về hôn nhân đồng giới với nhà nước. Sau đó, ông đã gửi cùng một yêu cầu đến mọi cơ quan có thể tìm thấy: vào tháng 11 năm 1998, ông đến Văn phòng Công chứng Tòa án Địa phương Đài Bắc xin đăng ký kết hôn với bạn đời nhưng bị từ chối; sau khi chế độ hôn nhân chuyển thành đăng ký vào năm 2008, vào ngày 21 tháng 3 năm 2013, ông đến Văn phòng Hộ tịch quận Vạn Hoa, thành phố Đài Bắc để đăng ký kết hôn nhưng lại bị từ chối.
 
-Mỗi lần thua, chính là bước đệm cho lần sau thắng. **Thái Gia Tỵ không đang đợi xã hội thay đổi, anh ta đang tạo điều kiện cho xã hội thay đổi.**
+Việc bị từ chối là điều đã được dự đoán trước. Nhưng Kỳ Gia Uy không muốn thành công một lần; ông muốn thiết lập một **tiền lệ pháp lý**—biến sự việc này từ không tồn tại thành có tồn tại. Từ việc chưa ai thảo luận, đến việc bắt buộc phải thảo luận.
 
----
-
-## Giải thích số 748: quyết định pháp luật lịch sử
-
-### Ngày 24 tháng 5 năm 2017: thắng lợi lịch sử châu Á
-
-Ngày 24 tháng 5 năm 2017, Tòa án Kinh tế pháp luật công bố giải thích số 748, khẳng định Bộ luật Dân sự không bảo vệ quyền hôn nhân đồng tính là vi phạm hiến pháp. Đài Loan trở thành **quốc gia đầu tiên tại châu Á được Tòa án Kinh tế pháp luật xác nhận quyền hôn nhân đồng tính được bảo vệ bởi hiến pháp**.
-
-> **✦** "Bộ luật Dân sự không cho phép hai người cùng giới tạo ra mối quan hệ gắn bó tuyệt đối có tính chất cảm tính và khẩu phát thỏa mãn mục đích cùng nuôi dưỡng, điều này vi phạm ý nghĩa của Điều 22 hiến pháp bảo đảm tự do hôn nhân của nhân dân và Điều 7 hiến pháp bảo đảm bình đẳng của nhân dân."
-
-Tòa án Kinh tế pháp luật đưa ra quyền lực hai năm cho chính quyền sửa luật. Nếu chưa hoàn thành vào ngày 24 tháng 5 năm 2019, các cặp đôi đồng tính có thể đăng ký hôn nhân trực tiếp theo Bộ luật Dân sự.
-
-### Ba lý luận cơ bản
-
-**Tự do hôn nhân**: Quyền lực cơ bản được hiến pháp bảo đảm, không nên bị hạn chế do giới tính khác nhau  
-**Bảo đảm bình đẳng**: Phân biệt đối xử về giới tính phải qua kiểm tra nghiêm ngặt, luật hiện hành là vi phạm bình đẳng  
-**Bảo đảm quyền nhân ái**: Mối quan hệ thân mật của người đồng tính liên quan sâu đến phát triển cá nhân và quyền lực
-
-Đây không chỉ là chiến thắng pháp lý, mà còn là **sự chuyển đổi lịch sử về quan niệm nhân quyền**.
+> **💡 Bạn có biết không**
+> Kỳ Gia Uy nói rằng vào mùa hè năm 1975, giáo viên tiếng Anh đã dạy từ "homosexual", và ông bắt đầu suy nghĩ về sự đồng tính của mình. Trong kỳ nghỉ hè khi tra tài liệu, ông đọc được rằng người đồng tính đã bị giới tâm thần học loại bỏ khỏi bệnh lý tinh thần, do đó xác định xu hướng tính dục của mình là bình thường. Ông nhớ lại "Hội nghị Tâm thần học Thế giới" năm 1974; sự thật là Hiệp hội Tâm thần học Hoa Kỳ đã gỡ bỏ người đồng tính khỏi sổ tay chẩn đoán vào năm 1973, và Tổ chức Y tế Thế giới thì cho đến ngày 17 tháng 5 năm 1990, ngày này sau đó trở thành "Ngày Quốc tế không kỳ thị đồng tính".
 
 ---
 
-## Chiến tranh xã hội năm 2018: tranh giành quan điểm
+## Cuộc chiến của một người
 
-### Lực lượng ngược đòn
+### Ánh mắt lạnh lùng và lời nguyền rủa của xã hội
 
-Sau khi có giải thích, các tổ chức phản đối khởi động chiến dịch "Yêu gia đình" phản công. Vào ngày 24 tháng 11 năm 2018, vấn đề hôn nhân đồng tính trong công bố trở thành cuộc tập hợp dân sự kịch tích nhất tại Đài Loan.
+Cuối những năm 1980 đến đầu những năm 1990, cộng đồng người đồng tính ở Đài Loan vẫn là một nhóm bị kỳ thị cao độ. Kỳ Gia Uy tham gia các phong trào xã hội với tư cách công khai, thường xuyên bị người qua đường nguyền rủa và chế giễu.
 
-**Kết quả công bố đối với phong trào hôn nhân đồng tính là một bài thua nặng nề:**
+Ông đã đóng vai Chúa Jesus, mang thập tự giá đi tuyên truyền phòng chống AIDS trên phố; đeo 300 bao cao su, ăn mặc như hoàng hậu Ai Cập để phát tặng ở nhà ga; kêu gọi quyên góp cho bệnh nhân AIDS và bị người ta tránh xa như dịch bệnh.
 
-- "Bộ luật Dân sự hôn nhân chỉ nên giới hạn một nam một nữ": 7,65 triệu phiếu thế kỷ
-- "Bảo vệ người đồng tính bằng luật chuyên biệt": 6,49 triệu phiếu thế kỷ
-- Công bố sửa đổi Bộ luật Dân sự: chỉ có 304 nghìn phiếu thế kỷ
+**Nhà báo kỳ cựu Dương Tác hồi tưởng: "Mỗi khi nghĩ đến Kỳ Gia Uy, trong lòng lại hiện lên cảnh ông ấy mang thùng quyên góp giúp đỡ bệnh nhân AIDS vào cuối những năm 80... Những người đi qua phần lớn đều né tránh ông ấy từ xa, coi ông là dịch bệnh, xã hội và truyền thông đã xem ông như một 'người gây rối'..."**
 
-### Nỗi khóc trong đêm công bố
+Nhưng Kỳ Gia Uy chưa bao giờ cảm thấy cô đơn. Chiến lược của ông không phải là thành lập câu lạc bộ hay tập hợp đám đông, mà là **thách thức từng khía cạnh của thể chế bằng chính mình**.
 
-Vào tối ngày 24 tháng 11 năm 2018, nhiều cộng đồng người đồng tính và người ủng hộ rơi lệ trong khi đếm phiếu. Người ta mô tả đó là nỗi đau của "bị từ chối tồn tại".
+### Cuộc marathon pháp lý ba mươi năm
 
-Nhưng thất bại này cũng thúc đẩy phản chiến xã hội quan trọng: **quyền lực nhân pháp có nên quyết định bằng đa số?** Quá trình công bố lượng lớn lời hoang mang và thông tin sai lệch cũng khiến xã hội bắt đầu chú trọng chất lượng thông tin trong các cuộc thảo luận dân sự.
+Từ năm 1986 đến 2019, Kỳ Gia Uy đã sử dụng mọi con đường pháp lý:
 
-> **⚠️ Góc độ tranh cãi**
-> Luật sĩ thường nhận xét quyền lực nhân pháp không nên bị hạn chế bởi đa số, nhưng phản đối giữ quan điểm chính sách quyền lực dân chủ hợp pháp. Áp lực này vẫn đang được thảo luận tại xã hội Đài Loan.
+- **Khiếu nại hành chính**: Nộp đơn, kiến nghị, khiếu kiện lên các cấp chính quyền
+- **Kiện tụng tư pháp**: Kiện dân sự, kiện hành chính, kháng cáo, phúc thẩm
+- **Kiến nghị lập pháp**: Đề xuất với Quốc hội hết lần này đến lần khác
+- **Vũ khí cuối cùng**: Năm 2015, đệ trình yêu cầu Tòa án Tối cao giải thích hiến pháp
+
+Mỗi lần thua kiện là một bước đệm cho chiến thắng tiếp theo. **Kỳ Gia Uy không chờ đợi xã hội thay đổi, ông đang tạo ra điều kiện để xã hội phải thay đổi.**
 
 ---
 
-## Ngày 17 tháng 5 năm 2019: quyết định lịch sử với 66 phiếu ủng hộ
+## Phán quyết số 748: Lịch sử Hiến pháp
 
-### Ngày Quốc tế không kỵ ngữ
+### Ngày 24 tháng 5 năm 2017: Bước ngoặt trong lịch sử hiến pháp châu Á
 
-Ngày 17 tháng 5 năm 2019 — "Ngày quốc tế không kỵ ngữ" — Quốc hội đọc ba lần thông qua luật thực thi giải thích số 748 của Tòa án Kinh tế pháp luật.
+Ngày 24 tháng 5 năm 2017, Tòa án Tối cao công bố Phán quyết số 748, tuyên bố rằng Bộ luật Dân sự không bảo vệ hôn nhân đồng giới là vi hiến. Đài Loan trở thành **quốc gia đầu tiên ở châu Á được cơ quan tư pháp cấp cao xác nhận quyền kết hôn đồng giới được Hiến pháp bảo đảm**.
 
-**66 phiếu ủng hộ, 27 phiếu phản đối.**
+> **✦** "Các quy định về hôn nhân trong Chương 2, Phần 4 của Bộ luật Dân sự không cho phép hai người cùng giới thiết lập mối quan hệ gắn bó vĩnh viễn có tính thân mật và độc quyền nhằm mục đích chung sống, điều này trái với tinh thần của Điều 22 Hiến pháp bảo vệ tự do hôn nhân của công dân và Điều 7 bảo vệ quyền bình đẳng của công dân."
 
-Khi quyết định được thông qua, hàng chục nghìn người ủng hộ ngoài Quốc hội phát ra tiếng cười vang. Trên đại lộ Đại lộ Kinh đô trong gió mưa, cờ rainbow bay biểu, người ta ôm nhau rơi lệ.
+Tòa án Tối cao đã cho cơ quan lập pháp hai năm để sửa đổi luật. Nếu không hoàn thành việc lập pháp trước ngày 24 tháng 5 năm 2019, các cặp đôi đồng tính có thể đăng ký kết hôn trực tiếp theo Bộ luật Dân sự.
 
-### Luật hạn chế nhưng lịch sử
+### Hai căn cứ hiến pháp
 
-Luật này là sản phẩm của sự hoà hợp chính trị — không phải sửa đổi Bộ luật Dân sự, cũng không phải luật chuyên biệt hoàn toàn, mà là "luật thực thi".
+**Tự do hôn nhân (Điều 22 Hiến pháp)**: Quyết định tự chủ về "có kết hôn hay không" và "kết hôn với ai" liên quan đến sự phát triển lành mạnh của nhân cách và phẩm giá con người; hai người đồng tính cũng phải được bảo vệ.
+**Quyền bình đẳng (Điều 7 Hiến pháp)**: Sự đối xử phân biệt dựa trên xu hướng tính dục cần áp dụng "tiêu chuẩn xem xét nghiêm ngặt hơn", điều mà Bộ luật Dân sự hiện hành không đáp ứng được.
+
+Đây không chỉ là một chiến thắng pháp lý, mà còn là **một cuộc cách mạng trong nhận thức về nhân quyền**.
+
+---
+
+## Trưng cầu dân ý 2018: Cuộc giằng co của xã hội
+
+### Sức mạnh phản động
+
+Sau khi có phán quyết hiến pháp, các nhóm phản đối đã tiến hành phản công bằng "trưng cầu dân ý vì gia đình". Vào ngày 24 tháng 11 năm 2018, cuộc trưng cầu dân ý liên quan đến hôn nhân đồng giới trở thành sự kiện huy động công dân gay gắt nhất tại Đài Loan.
+
+**Kết quả trưng cầu dân ý là một đòn giáng mạnh vào phong trào đồng tính:**
+
+- "Hôn nhân theo Bộ luật Dân sự nên chỉ giới hạn ở nam và nữ": 7,65 triệu phiếu tán thành
+- "Bảo vệ hai người cùng giới bằng các hình thức khác ngoài hôn nhân theo Bộ luật Dân sự": 6,40 triệu phiếu tán thành
+- "Bảo đảm quan hệ hôn nhân cho hai người cùng giới bằng chế định hôn nhân theo Bộ luật Dân sự": chỉ có 3,38 triệu phiếu tán thành
+
+### Nước mắt trong đêm trưng cầu dân ý
+
+Vào đêm ngày 24 tháng 11 năm 2018, nhiều cộng đồng và những người ủng hộ đồng tính đã rơi nước mắt tại nơi kiểm phiếu. Có người mô tả đó là nỗi đau "bị phủ nhận sự tồn tại bởi cuộc trưng cầu dân ý".
+
+Nhưng thất bại này cũng thúc đẩy một sự tự phản tỉnh xã hội quan trọng: **Liệu nhân quyền cơ bản có nên được quyết định bằng đa số?** Sự sợ hãi và tin giả lan truyền trong quá trình trưng cầu dân ý cũng khiến xã hội bắt đầu chú trọng tầm quan trọng của chất lượng thông tin đối với các cuộc thảo luận dân chủ.
+
+> **⚠️ Quan điểm gây tranh cãi**
+> Các học giả pháp lý thường cho rằng nhân quyền không nên bị giới hạn bởi đa số, nhưng phe phản đối lại kiên trì về tính chính đáng của quy trình dân chủ. Sự căng thẳng này vẫn tiếp tục được thảo luận trong xã hội Đài Loan cho đến ngày nay.
+
+---
+
+## Ngày 17 tháng 5 năm 2019: Con số lịch sử 66 phiếu
+
+### Ngày Quốc tế không kỳ thị đồng tính
+
+Ngày 17 tháng 5 năm 2019—"Ngày Quốc tế không kỳ thị đồng tính"—Quốc hội đã thông qua "Luật thực thi Phán quyết số 748 của Tòa án Tối cao".
+
+**Điều khoản quan trọng thứ 4 (các cặp đôi đồng tính có thể đăng ký kết hôn tại cơ quan hộ tịch) được thông qua với 66 phiếu tán thành và 27 phiếu phản đối.**
+
+Ngày hôm đó trời mưa phùn, những người ủng hộ đã tụ tập quanh Quốc hội từ sáng sớm, dòng người kéo dài từ phố Thanh Đảo Đông đến đường Trung Sơn Nam và phố Tế Nam.
+
+### Một luật pháp thỏa hiệp nhưng mang tính lịch sử
+
+Bộ luật này là sản phẩm của sự thỏa hiệp chính trị—nó không phải là sửa đổi Bộ luật Dân sự, cũng không phải là một đạo luật chuyên biệt hoàn toàn, mà là một "luật thực thi".
 
 **Nội dung luật:**
 
-- ✅ **Quyền hôn nhân**: Người đồng tính có thể kết hôn
-- ✅ **Bảo vệ tài sản**: Áp dụng luật tài sản của vợ/chồng
-- ✅ **Quyền y tế**: Người bạn đời có quyền đại diện y tế
-- ✅ **Quyền kế thừa**: Bảo đảm đầy đủ quyền kế thừa
-- ⚠️ **Hạn chế nuôi con**: Ban đầu chỉ cho phép nuôi con sinh ra từ cùng cha mẹ
-- ⚠️ **Giới hạn quốc tế**: Chỉ áp dụng với người từ các quốc gia công nhận hôn nhân đồng tính
+- ✅ **Quyền kết hôn**: Các cặp đôi đồng tính có thể thiết lập quan hệ hôn nhân.
+- ✅ **Bảo vệ tài sản**: Áp dụng chế độ tài sản vợ chồng của Bộ luật Dân sự.
+- ✅ **Quyết định y tế**: Quyền đại diện y tế cho bạn đời.
+- ✅ **Quyền thừa kế**: Bảo đảm quyền thừa kế đầy đủ.
+- ⚠️ **Hạn chế nhận con nuôi**: Ban đầu chỉ có thể nhận con ruột của đối phương.
+- ⚠️ **Hạn chế quốc tế**: Bản thân luật thực thi không ghi, nhưng thông báo của Bộ Nội vụ năm 2019 quy định rằng quốc gia mẹ của bạn đời nước ngoài cũng phải công nhận hôn nhân đồng giới mới được đăng ký.
 
-Dù có hạn chế, Đài Loan vẫn trở thành **quốc gia đầu tiên tại châu Á có luật bảo vệ hôn nhân đồng tính**.
+Mặc dù có những hạn chế, Đài Loan vẫn trở thành **quốc gia đầu tiên ở châu Á bảo đảm hôn nhân đồng giới bằng luật pháp**.
 
 ---
 
-## Sau hôn nhân đồng tính: tiến bộ ngày càng hoàn thiện
+## Sau khi có hôn nhân đồng giới: Bình đẳng tiếp tục tiến hóa
 
-### Hoàn thiện luật từng bước
+### Hoàn thiện dần dần của luật pháp
 
-**Tháng 1 năm 2023**: Bộ Nội quyền relax giới hạn hôn nhân quốc tế, công dân Đài Loan có thể kết hôn với người nước ngoài từ hầu hết các quốc gia chưa công nhận hôn nhân đồng tính
+**Ngày 19 tháng 1 năm 2023**: Bộ Nội vụ ban hành thông báo mới, cho phép công dân Đài Loan và bạn đời đồng tính nước ngoài (bao gồm Hồng Kông và Ma Cao, nhưng không bao gồm đại lục Trung Quốc) đăng ký kết hôn tại Đài Loan, bất kể quốc gia của đối phương có công nhận hôn nhân đồng giới hay không.
 
-**Tháng 5 năm 2023**: Quốc hội thông qua sửa đổi, cho phép người đồng tính cùng nuôi con không huyết thân
+**Ngày 16 tháng 5 năm 2023**: Quốc hội thông qua sửa đổi, cho phép các cặp đôi đồng tính cùng nhau nhận con nuôi những đứa trẻ không có quan hệ huyết thống.
 
-### Dữ liệu đăng ký hôn nhân
+### Hồ sơ đăng ký kết hôn
 
-Từ ngày 24 tháng 5 năm 2019 đến nay:
+Kể từ khi mở vào ngày 24 tháng 5 năm 2019:
 
-- **Tổng số đăng ký**: Hơn 10.000 cặp đôi đồng tính đã kết hôn
-- **Tỷ lệ giới tính**: Phụ nữ đồng tính chiếm khoảng hai lần nam đồng tính
-- **Phân bố địa lý**: Không chỉ tập trung ở khu vực thành thị, các vùng nông thôn cũng có hồ sơ
+- **Tổng số đăng ký**: Ước tính khoảng 18.000 cặp tính đến cuối năm 2025 (9.659 cặp vào cuối năm 2022, vượt mốc 10.000 vào năm 2023).
+- **Tỷ lệ giới tính**: 13.427 cặp là phụ nữ và 4.889 cặp là nam giới, số lượng phụ nữ gấp khoảng 2,7 lần nam giới.
+- **Số đăng ký hàng năm**: Từ năm 2020 đến 2022 mỗi năm khoảng 1.900 đến 2.500 cặp, từ năm 2023 đến 2025 mỗi năm dao động quanh mức 3.200 cặp.
 
 > **📊 Nguồn dữ liệu**
-> Số liệu từ Bộ Nội quyền, tính đến năm 2022. Số lần đăng ký trong những năm gần đây ổn định, phản ánh nhu cầu đã được đáp ứng dần.
+> Thống kê hộ tịch của Bộ Nội vụ, tổng hợp từ bảng thống kê "Hôn nhân đồng giới tại Đài Loan" trên Wikipedia, trong khoảng thời gian từ ngày 24 tháng 5 năm 2019 đến ngày 31 tháng 12 năm 2025.
 
 ---
 
-## Cuộc đoàn kêu gọi đồng tính Hà Nội: thủ đô cầu vồng châu Á
+## Cuộc diễu hành đồng tính ở Đài Bắc: Thủ đô cầu vồng châu Á
 
-### Từ 1.000 người đến 100.000 người
+### Từ 1.000 người lên 100.000 người
 
-**Năm 2003**: Cuộc đoàn kêu gọi đồng tính Hà Nội được thành lập, khoảng 1.000 người tham gia  
-**Năm 2014**: Hơn 65.000 người, trở thành lớn nhất tại châu Á  
-**Gần đây**: Ổn định trên 100.000 người tham gia
+**Năm 2003**: Cuộc diễu hành đồng tính tại Đài Bắc được thành lập, với gần một nghìn người tham gia.
+**Năm 2014**: Ban tổ chức ước tính khoảng 65.000 người.
+**Trong những năm gần đây**: Ban tổ chức ước tính số lượng thường dao động từ 120.000 đến 180.000 người (120.000 vào năm 2022, 176.000 vào năm 2023, 180.000 vào năm 2024).
 
-Mỗi năm tháng 10, ngày thứ sáu cuối cùng, trung tâm Hà Nội bị cờ rainbow chiếm. Người tham gia bao gồm cộng đồng người đồng tính, người ủng hộ đồng tính, đoàn doanh nghiệp, đại sứ quán nước ngoài, du khách quốc tế, tạo thành sự kiện lớn nhất về bình đẳng giới tại châu Á.
+Vào thứ Bảy cuối cùng của tháng Mười hàng năm, trung tâm thành phố Đài Bắc được bao phủ bởi cờ cầu vồng. Những người tham gia bao gồm cộng đồng đồng tính, những người ủng hộ dị tính, các đoàn thể doanh nghiệp, đại sứ nước ngoài và khách du lịch quốc tế, tạo nên một lễ hội bình đẳng giới lớn nhất châu Á.
 
-### Các cuộc đoàn tại các tỉnh
+### Các cuộc diễu hành địa phương nở rộ
 
-Ngoài Hà Nội, Thủ đô, Taipei, Taichung, Tainan, Hualien cũng tổ chức các cuộc đoàn. Sự phát triển của các cuộc đoàn tại các tỉnh cho thấy vấn đề giới tính đã lan tỏa khắp các tỉnh thành.
+Ngoài Đài Bắc, Cao Hùng (từ năm 2010), Đài Trung, Đài Nam và Hoa Liên cũng tổ chức các cuộc diễu hành đồng tính. Sự phát triển của các cuộc diễu hành địa phương cho thấy vấn đề giới đã lan rộng từ một chủ đề đô thị đến khắp toàn quốc.
 
-**Cuộc đoàn kêu gọi đồng tính Hà Nội thu hút số lượng lớn du khách từ Đông Nam Á và Đông Á, khiến Đài Loan được xem là "thủ đô thân thiện người đồng tính châu Á".**
+**Cuộc diễu hành đồng tính tại Đài Bắc thu hút đông đảo cộng đồng LGBTQ+ từ Đông Nam Á và Đông Á tham gia, khiến Đài Loan được coi là "thủ đô thân thiện với người đồng tính châu Á".**
 
 ---
 
-## ý nghĩa quốc tế: tia đèn lửa châu Á
+## Ý nghĩa quốc tế: Ngọn hải đăng của châu Á
 
-### Hiệu ứng mẫu mẫu
+### Hiệu ứng mô hình
 
-**Ngày 23 tháng 1 năm 2025**: Luật hôn nhân đồng tính Thái Lan có hiệu lực, trở thành quốc gia thứ hai tại châu Á có hôn nhân đồng tính hợp pháp. Quá trình lập luật Thái Lan trích dẫn nhiều kinh nghiệm từ Đài Loan.
+**Ngày 23 tháng 1 năm 2025**: Luật hôn nhân đồng giới của Thái Lan có hiệu lực, trở thành quốc gia đầu tiên ở Đông Nam Á công nhận hôn nhân đồng giới.
 
-**Nhật Bản, Hàn Quốc, Việt Nam, Philippines** và các quốc gia khác trong cộng đồng người đồng tính đã học hỏi chiến lược và tinh thần từ ví dụ Đài Loan. Đài Loan chứng minh: **Xã hội châu Á hoàn toàn có thể thiết lập hệ thống bảo đảm quyền lực nhân pháp trong khi giữ được truyền thống văn hóa.**
+Các phong trào đồng tính tại **Nhật Bản, Hàn Quốc, Việt Nam, Philippines**... đều học hỏi chiến lược và lòng dũng cảm từ trường hợp của Đài Loan. Đài Loan đã chứng minh rằng: **xã hội châu Á hoàn toàn có thể xây dựng một hệ thống nhân quyền tiến bộ trong khi vẫn giữ gìn truyền thống văn hóa.**
 
-### Thể hiện lực lượng mềm
+### Biểu hiện của sức mạnh mềm
 
-Luật hôn nhân đồng tính củng cố hình ảnh quốc tế của Đài Loan như "tia đèn lửa châu Á về nhân quyền". Trong bối cảnh đối mặt với thách thức ngoại giao, quyền bình đẳng giới đã trở thành lĩnh vực quan trọng thể hiện giá trị lý tưởng của Đài Loan.
-
-**Tổ chức Quốc tế Bảo vệ Nhân quyền đã tôn vinh Đài Loan làm "mẫu mẫu châu Á về dân chủ và nhân quyền", điều này tác động tích cực đến vị thế quốc tế của Đài Loan.**
+Việc thông qua luật hôn nhân đồng giới đã củng cố hình ảnh "ngọn hải đăng nhân quyền châu Á" của Đài Loan. Trong bối cảnh đối mặt với những thách thức ngoại giao, bình đẳng giới đã trở thành một lĩnh vực quan trọng để Đài Loan thể hiện lý tưởng giá trị của mình.
 
 ---
 
 ## Cuộc cách mạng chưa hoàn thành
 
-### Các vấn đề cần giải quyết
+### Các vấn đề còn tồn đọng
 
-**Quyền lợi người đồng tính chuyển đổi giới tính**: Thay đổi giới tính trên giấy tờ vẫn cần chứng nhận phẫu thuật, gây tranh cãi nhân quyền
+**Quyền chuyển giới**: Theo thông báo của Bộ Nội vụ, việc thay đổi giới tính trên giấy tờ vẫn yêu cầu chẩn đoán tâm thần và phẫu thuật cắt bỏ cơ quan sinh dục; đến tháng 7 năm 2026, đã có 12 người chuyển giới thắng kiện trong các vụ kiện hành chính để được "thay đổi chứng nhận mà không cần phẫu thuật", bản thân hệ thống vẫn chưa thay đổi.
 
-**Luật phòng chống phân biệt đối xử**: Đài Loan thiếu luật phòng chống phân biệt đối xử toàn diện, bảo vệ quyền lợi trong môi trường làm việc và giáo dục còn thiếu sót
+**Luật chống phân biệt đối xử**: Đài Loan thiếu luật chống phân biệt đối xử toàn diện, sự bảo vệ trước phân biệt đối xử tại nơi làm việc và giáo dục còn yếu kém.
 
-**Người đồng tính ở vùng nông thôn**: Các cộng đồng người đồng tính ở xa thành phố vẫn gặp khó khăn về tài nguyên và sự chấp nhận
+**Người đồng tính ở vùng nông thôn**: Cộng đồng LGBTQ+ bên ngoài các khu vực đô thị vẫn phải đối mặt với những thách thức về nguồn lực và mức độ chấp nhận.
 
-**Chăm sóc người già đồng tính**: Hệ thống dịch vụ chăm sóc người già thân thiện với người đồng tính còn thiếu sót
+**Chăm sóc người cao tuổi đồng tính**: Hệ thống chăm sóc dài hạn thân thiện với người đồng tính cần được xây dựng.
 
-### Cuộc trò chuyện xã hội tiếp tục
+### Đối thoại xã hội liên tục
 
-Sau khi có luật hôn nhân đồng tính, xã hội Đài Loan đã trở nên sâu sắc hơn trong việc thảo luận về các vấn đề giới tính. **Từ câu hỏi "có được kết hôn không" đến "cách sống chung", từ bình đẳng pháp lý đến sự hòa nhập xã hội.**
+Sau khi có luật hôn nhân đồng giới, cuộc thảo luận của xã hội Đài Loan về các vấn đề giới đã trưởng thành hơn. **Từ "có thể kết hôn hay không" tiến tới "làm thế nào để chung sống", từ bình đẳng pháp lý hướng tới hòa nhập xã hội.**
 
-**Giáo dục bình đẳng giới, đa dạng trong môi trường làm việc, môi trường y tế thân thiện** — đây là các lĩnh vực tiếp theo của quyền bình đẳng giới tại Đài Loan.
+**Giáo dục bình đẳng giới, sự đa dạng và hòa nhập tại nơi làm việc, môi trường y tế thân thiện**—đây là những chiến trường tiếp theo của bình đẳng giới tại Đài Loan.
 
 ---
 
-## Tại sao việc này lại quan trọng?
+## Tại sao vấn đề này lại quan trọng?
 
-Ý nghĩa của luật hôn nhân đồng tính tại Đài Loan vượt ra phía xa hơn cả chính hôn nhân:
+Ý nghĩa của việc thông qua luật hôn nhân đồng giới tại Đài Loan vượt xa bản thân khái niệm hôn nhân:
 
-**Thử nghiệm chất lượng dân chủ**: Cách một xã hội đối xử với các nhóm thiểu số là chỉ số quan trọng về sự trưởng thành của dân chủ
+**Thước đo chất lượng dân chủ**: Cách một xã hội đối xử với các nhóm thiểu số là một chỉ số quan trọng về mức độ trưởng thành dân chủ của họ.
 
-**Định nghĩa lại giá trị châu Á**: Đài Loan chứng minh tôn trọng truyền thống và bảo đảm quyền lực nhân pháp có thể song hành
+**Định nghĩa lại giá trị châu Á**: Đài Loan đã chứng minh rằng sự tôn trọng truyền thống và bảo vệ nhân quyền có thể cùng tồn tại.
 
-**Chiến thắng tinh thần tư pháp**: Từ đề nghị cá nhân đến giải thích của Tòa án Kinh tế pháp luật, phản ánh sức mạnh của hệ thống pháp luật bảo vệ người yếu thế
+**Chiến thắng tinh thần pháp quyền**: Từ đơn xin cá nhân đến phán quyết của Tòa án Tối cao, nó thể hiện sức mạnh của hệ thống pháp luật trong việc bảo vệ người yếu thế.
 
-**Biểu tượng sự tiến bộ xã hội**: Từ thời kỳ kiểm duyên "tội phạm" đến thời kỳ dân chủ "quyền lực", phản ánh sự phát triển văn minh của cả xã hội
+**Biểu tượng tiến bộ xã hội**: Từ "tội phạm" trong thời kỳ quân sự hóa đến "quyền lợi" trong kỷ nguyên dân chủ, phản ánh sự tiến bộ văn minh của toàn xã hội.
 
-> **✦** "Đây không chỉ là thay đổi pháp lý, mà còn là tiến bộ của nhân văn. Mỗi cặp đôi được phép kết hôn hợp pháp là bằng chứng cho sự tôn trọng nhân ái."
+---
 
-Từ lần đầu đề nghị vào năm 1986 của Thái Gia Tỵ trong thời kỳ kiểm duyên, đến quyết định lịch sử của Quốc hội vào năm 2019; từ một cuộc chiến đơn độc của một người, đến hàng chục nghìn người biểu tình rainbow — Đài Loan đã trải qua 33 năm.
+Từ lần kiến nghị đầu tiên của Kỳ Gia Uy trong thời kỳ quân sự hóa năm 1986, cho đến cuộc bỏ phiếu lịch sử tại Quốc hội năm 2019; từ cuộc chiến cô đơn của một người, đến cuộc diễu hành cầu vồng của hàng vạn người—Đài Loan đã đi qua 33 năm.
 
-Câu chuyện này nói với chúng ta: **Thay đổi không phải là việc làm một ngày**. Nhưng nếu có người chịu đựng và bước ra, nếu hệ thống pháp luật vẫn hoạt động, bình đẳng và nhân ái sẽ cuối cùng đến.
+Câu chuyện này dạy chúng ta: **sự thay đổi không diễn ra trong một sớm một chiều, nhưng chỉ cần có ai đó sẵn lòng đứng lên, và miễn là hệ thống pháp luật được vận hành, sự bình đẳng và phẩm giá cuối cùng sẽ đến.**
 
-Kinh nghiệm của Đài Loan cũng khẳng định với thế giới: Trong một thế giới đầy bất bình đẳng, tình yêu là thứ không cần phân loại.
+Kinh nghiệm của Đài Loan cũng tuyên bố với thế giới rằng: trong một thế giới đầy rẫy khác biệt, tình yêu là thứ không cần phải bị phân loại.
 
-## Tham khảo
+## Tài liệu tham khảo
 
-- [BBC tiếng Trung: 30 năm phong trào người đồng tính Đài Loan: chứng kiến quy trình luật hôn nhân đồng tính](https://www.bbc.com/zhongwen/trad/chinese-news-48368470)
-- [Tòa án Kinh tế pháp luật: Giải thích số 748](https://cons.judicial.gov.tw/docdata.aspx?fid=100&id=310929)
-- [Central News Agency: Hôn nhân đồng tính là quốc gia đầu tiên châu Á, Quốc hội thông quan ba lần](https://www.cna.com.tw/news/firstnews/201905175004.aspx)
-- [Quốc hội: Luật thực thi giải thích số 748 của Tòa án Kinh tế pháp luật](https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=33324&pid=183416)
-- [Tổ chức Quốc tế Bảo vệ Nhân quyền: Đài Loan trở thành quốc gia đầu tiên châu Á có hôn nhân đồng tính hợp pháp](https://www.amnesty.org/en/latest/press-release/2019/05/taiwan-same-sex-marriage-law/)
+- [BBC Tiếng Trung: 30 năm phong trào đồng tính tại Đài Loan: Chứng kiến quá trình thông qua luật hôn nhân đồng giới](https://www.bbc.com/zhongwen/trad/chinese-news-48368470)
+- [Tòa án Tối cao: Phán quyết số 748](https://cons.judicial.gov.tw/docdata.aspx?fid=100&id=310929)
+- [Thông tấn xã Trung ương: Luật chuyên biệt về hôn nhân đồng giới là đầu tiên ở châu Á, Quốc hội thông qua](https://www.cna.com.tw/news/firstnews/201905175004.aspx)
+- [Quốc hội: Luật thực thi Phán quyết số 748 của Tòa án Tối cao](https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=33324&pid=183416)
+- [Tổ chức Amnesty International: Đài Loan trở thành quốc gia đầu tiên ở châu Á công nhận hôn nhân đồng giới](https://www.amnesty.org/en/latest/press-release/2019/05/taiwan-same-sex-marriage-law/)
