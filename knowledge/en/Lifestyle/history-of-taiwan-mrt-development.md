@@ -1,6 +1,6 @@
 ---
-title: "The History of Taiwan's MRT: An Urban Evolution Written in Blood and Money"
-description: "From the 209-ton steel beam that took 4 lives and resulted in a 1.64 billion compensation claim, to the fact that Taipei Metro still operates at a loss—the true cost behind all of Taiwan's mass transit."
+title: "The History of Taiwan's MRT: A Theory of Urban Evolution Written in Blood and Money"
+description: "From the NT$1.64 billion lawsuit involving 209-ton steel beams that claimed four lives, to the fact that even Taipei MRT—the busiest system—cannot cover operating costs from ticket sales—this is the true cost behind Taiwan's entire MRT network."
 date: 2026-03-23
 category: 'Lifestyle'
 tags:
@@ -12,275 +12,265 @@ tags:
     'Taoyuan',
     'Taichung',
     'urban development',
-    'lifestyle',
+    'life',
     'industrial safety',
     'finance',
   ]
 subcategory: '交通與移動'
 author: 'Taiwan.md'
 featured: true
-lastVerified: 2026-03-23
+lastVerified: 2026-10-08
 lastHumanReview: false
 readingTime: 15
 translatedFrom: 'Lifestyle/台灣捷運發展史.md'
-sourceCommitSha: '9094012f4'
-sourceContentHash: 'sha256:103cffd41c084886'
-sourceBodyHash: 'sha256:afbe1eb00070eaa4'
-translatedAt: '2026-09-08T00:42:45+08:00'
+sourceCommitSha: '6fed62193'
+sourceContentHash: 'sha256:fa054e970fa0164b'
+sourceBodyHash: 'sha256:8a8a123d1183a1a8'
+translatedAt: '2026-10-08T04:17:07+08:00'
 ---
 
-# The History of Taiwan's MRT: An Urban Evolution Written in Blood and Money
+# The History of Taiwan's MRT: A Theory of Urban Evolution Written in Blood and Money
 
-> **30-Second Summary:** Over 1 trillion NTD has been spent on Taiwan's mass transit over 30 years, yet even Taipei Metro, with the highest ridership, relies on advertising revenue to break even.
-> From the 1.64 billion lawsuit by Matra in France to the fatal 209-ton steel beam incident in Taichung, this is a story about ambition, cost, and learning.
+> **30-Second Summary:** Over 1 trillion NTD has been spent on Taiwan's MRT over 30 years, yet even Taipei MRT, the busiest system, relies on advertising revenue to turn a profit.
+> From the NT$1.64 billion lawsuit involving French company Matra, to the tragic incident of a 209-ton steel beam in Taichung, this is a story about ambition, cost, and learning.
 
-At 4:58 PM on April 10, 2015, at the intersection of Beitun Road and Wenxin Road in Taichung City, a metro steel girder weighing 209 tons fell from 15 meters high. The girder crushed two cars, killing 4 people instantly and injuring 4 others.
+At 4:58 PM on April 10, 2015, at the intersection of Beitun Road and Wenxin Road in Taichung City, a 209-ton MRT steel girder fell from mid-air. The steel beam crushed two cars, killing four people and injuring four others.
 
-At the time of the incident, it was rush hour after work, yet the construction site only used traffic cones for "protection," with no road control in place. Even more absurdly, the contractor, Yuanyang Engineering, had originally promised to perform girder lifting between 11:30 PM and 5:30 AM, but started the operation at 3 PM, only sending a temporary fax notification at 4 PM—it was a notification, not an application.
+At the time, it was evening rush hour, yet the construction site only used traffic cones for "protection," with no road closure or traffic control in place. More absurdly, the Traffic Maintenance Plan stated that "steel box girder construction must be carried out between 11:30 PM and 5:30 AM," but the construction unit began ground support and hoisting of the steel box girder that morning, only faxing a construction notice to the Transportation Bureau at 3:15 PM, stating it would hoist at 4 o'clock—this was not an application, merely a notification.
 
-This tragedy forced a complete shutdown of Taichung Metro, delaying its opening by six years. It also served as a mirror, reflecting the true face of Taiwan's mass transit development: frantic ambition, astonishing costs, and the difficult process of learning from mistakes.
+This tragedy forced the complete shutdown of the Taichung MRT Green Line for four months, with the line finally opening in April 2021. It also serves as a mirror reflecting the true face of Taiwan's MRT development: frenzied ambition, astonishing costs, and the difficult process of learning from mistakes.
 
-## The Matra Battle: The Expensive Tuition Fee of Taiwan's First MRT Line
+## The Matra Battle: The Expensive Tuition Fee of Taiwan's First MRT
 
-On March 28, 1996, the Xindian Line opened: the beginning of Taiwan Metro Year One officially started. But this start was bitter.
+On March 28, 1996, the Muzha Line opened: the beginning of Taiwan's first MRT year officially started. But this beginning was bittersweet.
 
-The feud between the French company Matra and the Taipei City Government dragged on for a full 12 years. Matra accused Taipei City of "delayed performance," demanding exorbitant compensation; Taipei City counter-accused Matra of "constant technical disputes and frequent industrial safety accidents." This international lawsuit ultimately ended with the Taipei City Government losing—paying 1.64 billion NTD in damages.
+In 1988, French company Matra contracted with the Taipei City MRT Bureau to construct the Muzha Line. Later, civil contractors delayed construction, dragging out Matra’s schedule and leading Matra to demand compensation exceeding two billion NTD. This arbitration and lawsuit dragged on for over twelve years. The city government's final defense was that Matra's claim had expired; in 2005, the Supreme Court ruled against the city government, resulting in a debt of approximately NT$1.64 billion, including interest.
 
-The then-Mayor of Taipei, Chen Shui-bian, angrily exclaimed, "We will build it ourselves if Matra won't," but the cost had already been paid. What was more painful was that the Xindian Line frequently experienced malfunctions in its early days, leading citizens to jokingly call it a "line with fewer passengers than staff." In 1993, there was also the "dry-drive cable trough fire incident," which brought public confidence in the metro to rock bottom.
+Beyond the lawsuit, the Muzha Line itself proceeded with bumps and stumbles. In May and September 1993, during testing periods, the Muzha Line suffered two train fires: system integration issues caused one axle to brake while another was still moving; the brakes locked up, causing tire overheating and fire, which brought public confidence in the MRT to rock bottom. By late May 1996, only two months after the Muzha Line opened, Matra abruptly withdrew due to contractual disputes and also prohibited subcontractors from selling parts to Taipei MRT, leading to a temporary system crash. The then-Mayor of Taipei, Chen Shui-bian, famously declared: "If Matra won't pull it, we will pull it ourselves!"
 
 > **📝 Curator's Note**
-> Why did Taiwan's first MRT choose the VAL system from France? The official explanation was that it was the "most advanced technology," but industry rumors suggested a connection to the Rafale and Phantom 2000 military procurements at the time. The entanglement of politics and technology was written into the DNA of Taiwan Metro from day one.
+> When Matra withdrew, they took away critical maintenance manuals and software passwords. North MRT was forced to develop its own operating and maintenance capabilities without original manufacturer support. "Pulling it ourselves" was more than just a slogan.
 
-Was this lesson worth 1.64 billion NTD? Looking back today, the Xindian Line (now Wenhu Line) proved one key thing: **Taiwanese people can build a metro.** Although the process was bumpy, it ran, and it has been running for 30 years.
+Was this NT$1.64 billion lesson worth it? Looking back today, the Muzha Line (now the Wenhu Line) proved one crucial thing: **Taiwanese people can build an MRT.** Despite its bumpy journey, it is running, and it has been for 30 years.
 
-## The Tamsui Line Miracle: The True Starting Point of Metro Culture
+## The Tamsui Miracle: The True Starting Point of MRT Culture
 
-In 1997, the Tamsui Line opened, and Taipei Metro truly took off.
+In 1997, the Tamsui Line opened, marking the real takeoff of Taipei MRT.
 
-Unlike the French technology used on the Xindian Line, the Tamsui Line utilized a renovation of the old Taiwan Railway Tamsui branch line. With existing rights-of-way and the learning achievements of Taiwanese engineers, people finally experienced the taste of a "world-class metro"—air-conditioned cars, electronic signage, punctual arrivals, and barrier-free design.
+Unlike the French technology used on the Muzha Line, the Tamsui Line was built by renovating the old Taiwan Railway Tamsui branch line. With existing rights-of-way and the learning achievements of Taiwanese engineers, people finally experienced the taste of a "world-class MRT"—air-conditioned cars, electronic signage, punctual arrivals, and accessibility design.
 
-More importantly, the Tamsui Line established a unique "metro civilization" in Taiwan. Eating and drinking were prohibited throughout the entire train; violators faced fines up to 7,500 NTD; standing on escalators was strictly right-side only; the car interior was as quiet as a library. These rules, which seem natural today, were revolutionary social experiments in the 1990s.
+More importantly, the Tamsui Line established a unique "MRT civilization" in Taiwan. Eating or drinking was prohibited throughout the entire carriage, with fines up to NT$7,500 for violations; standing on the right side of escalators was mandatory; and carriages were as quiet as libraries. These rules, which seem natural today, were revolutionary social experiments in the 1990s.
 
 > **💡 Did You Know**
-> The ban on eating and drinking on Taipei Metro is one of the strictest subway regulations globally. A foreign tourist was once fined 1,500 NTD for chewing gum on the platform, making international news. Yet, it is this insistence that has made the cleanliness of Taipei Metro's cars a deep impression on international travelers.
+> The prohibition of eating and drinking on Taipei MRT is one of the strictest subway regulations globally. According to Article 50 of the _Mass Transit Law_, fines ranging from NT$1,500 to NT$7,500 are issued for consuming food in prohibited areas, with the boundary drawn at the yellow line before the entrance gate. Yet, it is this insistence that has made Taipei MRT's carriage cleanliness a profound impression on international travelers.
 
-The success of the Tamsui Line had a key factor: it connected Taipei's most densely populated areas (Beitou, Shilin, Datong) with the city center, creating massive commuting demand. Daily ridership rapidly grew from an initial 40,000 passengers to today's 600,000.
+The success of the Tamsui Line rests on a key factor: it connected Taipei's most densely populated residential areas (Beitou, Shilin, Datong) with the city center, creating massive commuting demand. With only the Muzha Line, Taipei MRT carried only 40,000 people per day; after the Tamsui Line joined, this rose to 85,000, and as more lines were connected, ridership truly grew.
 
-**Geographical Advantage + Technological Learning + Cultural Construction = Tamsui Line Miracle.** This formula was later imitated by countless cities, but few succeeded in replicating it.
+**Geographical Advantage + Technological Learning + Cultural Construction = The Tamsui Miracle.** This formula has been imitated by countless cities, but few have succeeded in replicating it.
 
-## The Bannan Line Crossroad Network: A Strategic Turning Point for Taipei Metro
+## Bannan Line Cross-Network: A Strategic Turning Point for Taipei MRT
 
-In 1999, the Bannan Line opened, and Taipei finally had its first "cross-shaped" metro backbone.
+In 1999, the Bannan Line opened, and Taipei finally had its first "cross" MRT backbone.
 
-The strategic significance of the Bannan Line transcended mere transportation function. It ran through the most prime east-west axis of Taipei—connecting Banqiao, Ximen, Taipei Station, Zhongxiao Fuxing, and Nangang, linking core commercial, political, and transport hubs. More importantly, it began to "redefine" the real estate map of Taipei.
+The strategic significance of the Bannan Line transcended mere transportation function. It ran through the most prime east-west axis of Taipei—connecting Banqiao, Ximending, Taipei Station, Zhongxiao Fuxing, and Nangang, linking core commercial, political, and transport hubs. More importantly, it began to "redefine" the real estate map of Taipei.
 
-"Metro housing" became a powerful keyword in property advertisements. Data shows that housing prices within 500 meters of a metro station are, on average, 15-20% higher than surrounding areas. The development focus of the entire city began shifting along the metro lines.
+"MRT housing" became a powerful keyword in property advertisements, causing the city's development focus to shift along the MRT lines.
 
-In 2006, Taipei Metro's total ridership exceeded 3 billion passengers. The network expanded from 1 line to 5 operating routes, with a daily average exceeding 1.5 million passengers. The metro was no longer a "novelty"; it became a basic infrastructure of life for people in Taipei.
+In 2008, Taipei MRT surpassed 3 billion passenger trips cumulatively. The MRT was no longer a "novelty"; it had become a basic infrastructure for Taipei residents.
 
 But the truly shocking data comes later.
 
-## The North Metro Paradox: Even Taiwan's Most Successful Metro Operates at a Loss
+## The North MRT Paradox: Even Taiwan's Most Successful MRT is Losing Money
 
-Taipei Metro is the highest-ridership and most profitable mass transit system in Taiwan, with 2 million passengers daily and annual revenue of 18 billion NTD. But there is one little-known fact: **Taipei Metro’s core business has actually been running at a loss.**
+Taipei MRT is the system with the highest ridership and one of the few that makes money in Taiwan, carrying approximately 2 million passengers daily before the pandemic. But there is a little-known fact: **Taipei MRT’s core business is unprofitable.**
 
-According to financial data publicly released by Huang Ching-sing, the General Manager of Taipei Metro, in 2019, North Metro reached its peak ridership; ticket revenue was 16.74 billion NTD, but operating costs were as high as 18 billion NTD, resulting in a **core business loss of 1.26 billion NTD.**
+In an interview in 2022, Taipei MRT General Manager Huang Qingxin reviewed financial reports to explain: In 2019, when North MRT reached its peak ridership, ticket revenue was NT$16.74 billion, but operating costs were as high as NT$18 billion, resulting in a **core business loss of NT$1.26 billion**.
 
-How does Taipei Metro make a profit? The answer is **side businesses**. In 2019, station advertising revenue was about 2.5 billion NTD, and ATM/telecom rental income was about 0.5 billion NTD. In other words, Taipei Metro is sustained by the billboards and ATMs inside its stations.
+How does Taipei MRT make a profit? The answer is **side businesses**. In 2019, station advertising revenue was about NT$2.5 billion, and rental income from ATMs and telecom companies was about NT$0.5 billion. Through these ancillary businesses, North MRT made a small profit of NT$640 million in 2018 and NT$830 million in 2019. In other words, Taipei MRT is sustained by the billboards and ATMs inside its stations.
 
-> **⚠️ Counter-Intuitive Truth**
-> Only 7 subway systems in the world are profitable: Hong Kong, Tokyo, Singapore, Taipei, Moscow, Seoul, and Beijing. But even these seven largely rely on real estate development or government subsidies. Almost none profit purely from core transportation operations.
+> **⚠️ Counter-intuitive Truth**
+> According to _Xin News_, only seven subway or MRT systems worldwide—including Hong Kong, Tokyo, Singapore, and Taipei—are profitable. Taipei relies on station advertising and rentals, not ticket sales.
 
-This "North Metro Paradox" reveals a cruel reality: **if even Taipei Metro needs advertising revenue to survive, the metro systems in other cities are destined to be loss-making.**
+This "North MRT Paradox" reveals a cruel reality: **if even Taipei MRT needs advertising revenue to survive, the MRTs of other cities are destined to be loss-making ventures.**
 
-| High Ridership Still Loses            | Current State of Mass Transit in Taiwan |
-| :------------------------------------ | :-------------------------------------- |
-| Taipei Metro 2 million passengers     | Core business loss of 1.26 billion NTD  |
-| Kaohsiung Metro 180,000 passengers    | Cumulative loss of 750 million NTD      |
-| Taoyuan Airport MRT 40,000 passengers | Cumulative loss of 2 billion NTD        |
-| Taichung Metro 26,000 passengers      | First-year loss of 600 million NTD      |
+| Highest Ridership but Still Losing (2019 Data) | 2022 _Xin News_ Tally               |
+| :--------------------------------------------- | :---------------------------------- |
+| Taipei MRT: 2 million passengers               | Core business loss: NT$1.26 billion |
+| Kaohsiung MRT: 180,000 passengers              | Cumulative loss: NT$750 million     |
+| Taoyuan Airport MRT: 40,000 passengers         | Cumulative loss: NT$2 billion       |
+| Taichung MRT: 26,000 passengers                | First-year loss: NT$600 million     |
 
 ## The Kaohsiung Lesson: A Difficult Experiment in Southern Taiwan
 
-In 2008, the Kaohsiung Red/Orange Line opened, marking the birth of a second metro city in Taiwan. But Kaohsiung's fate is vastly different from Taipei's.
+In 2008, the Kaohsiung MRT Red/Orange Line opened, giving birth to Taiwan's second major MRT city. But Kaohsiung’s fate is distinctly different from Taipei’s.
 
-The designed daily ridership for Kaohsiung Metro was 500,000 passengers, but before the pandemic, it only reached 180,000—only 36% of the expectation. The reasons were structural: lower population density in the Kaohsiung metropolitan area, extremely high motorcycle ownership rates, and an incomplete bus feeder system. More critically, people in Kaohsiung were already accustomed to door-to-door motorcycle travel, making the "last mile" problem particularly severe in Kaohsiung.
+The designed capacity of Kaohsiung MRT was 500,000 passengers per day, but in reality, before the pandemic, it only reached 180,000—only 36% of the expectation. The reasons were structural: lower population density in the Kaohsiung metropolitan area, extremely high motorcycle ownership rates, and an incomplete bus feeder system. More critically, Kaohsiung residents were already accustomed to door-to-door motorcycling; the "last mile" problem is particularly severe in Kaohsiung.
 
-Kaohsiung Metro Company once faced bankruptcy. In 2013, the Kaohsiung City Government was forced to amend the BOT contract, taking over mechanical and electrical equipment early, bearing bank loan interest of over 200 million NTD annually, and waiving approximately 1.8 billion NTD in depreciation for the company each year. This was equivalent to a direct government bailout.
+The Kaohsiung MRT company once faced bankruptcy. In 2013, the Kaohsiung municipal government was forced to amend the BOT contract, taking over the mechanical and electrical assets early, thus assuming the burden of assets that were originally on the MRT company. This was equivalent to the government directly injecting life-saving funds.
 
-But Kaohsiung did not give up. The light rail loop line opened in sections starting in 2015, completing the full circle in 2024. By reinforcing network density with lower construction costs (light rail at about 1 billion NTD/km vs. metro at 5 billion NTD/km) and complementing it with YouBike shared bicycles, a complex transport model of "Metro + Light Rail + Bicycle" gradually formed.
+But Kaohsiung did not give up. The light rail ring line opened in sections starting in 2015, completing the full loop in 2024. By supplementing network density with lower construction costs (light rail at about NT$1 billion/km vs. MRT at NT$5 billion/km) and integrating YouBike smiles bicycles, it gradually formed a complex transport model of "MRT + Light Rail + Bicycle."
 
-> **📊 Data Comparison**
-> Motorcycle Density in Kaohsiung: 741 per thousand people (Highest in Taiwan)
-> Motorcycle Density in Taipei: 337 per thousand people
-> Source: Ministry of Transportation Statistics Query Network (2024)
-
-Kaohsiung's experience proves: **the metro is not a panacea; it requires an integrated transport policy, urban planning, and lifestyle transformation.**
+Kaohsiung's experience proves: **the MRT is not a panacea; it requires the complementary transformation of overall transportation policy, urban planning, and lifestyle habits.**
 
 ## Airport MRT and Taoyuan: A Dual Test of Gateway and Commuting
 
-In 2017, the Taoyuan Airport MRT opened, giving Taiwan its first "gateway-level" rail transit. Traveling from Taipei Station to Taoyuan Airport in 35 minutes solved the long-standing problem of "international gateway transportation."
+In 2017, the Taoyuan Airport MRT opened, giving Taiwan its first "gateway-level" rail transit. Traveling from Taipei Station to Taoyuan Airport in 35 minutes solved the long-standing problem of "gateway transportation."
 
-The Airport MRT's "pre-check-in" service is an innovation in Taiwan: travelers can check in and check baggage at Taipei Station, then take the metro directly to the airport for departure with minimal luggage. Although this service has low usage (about 5% before the pandemic), it represents an important attempt at digitalizing public transport in Taiwan.
+The Airport MRT offers "pre-check-in" at Taipei Station: travelers can complete baggage check-in and check-in at Taipei Station, then take the MRT lightly to the airport for departure.
 
-However, the Airport MRT also exposed another problem: **the risk of over-reliance on a specific demographic.** Before the pandemic, international tourists accounted for 60% of the Airport MRT's revenue. After the outbreak, daily ridership dropped from 70,000 to 30,000, resulting in a cumulative loss of 2 billion NTD. Zheng De-fa, CEO of Taoyuan Airport MRT, stated: "A month when the gateway is closed results in a revenue drop of at least 100 million NTD."
+However, the Airport MRT also exposed another problem: **the risk of over-reliance on a specific customer base.** Before the pandemic, travelers going to the gateway accounted for 60% of the Taoyuan MRT revenue. After the outbreak, daily ridership dropped from 70,000 to 40,000, resulting in a cumulative loss of about NT$2 billion. Zheng Defa, CEO of the Taoyuan MRT company, stated: "A month when the gateway is closed results in at least NT$100 million in reduced income."
 
-More awkwardly, there are many "ghost stations" along the Airport MRT line. At Hengshan Station, daily passenger traffic was only about 300 people in the first half of 2022; no one boarded or alighted during the three trains that passed within half an hour. The bus waiting area outside showed "last train departed," and the surrounding area was overgrown with weeds.
+More embarrassingly, there are many "ghost stations" along the Airport MRT line. At Hengshan Station, daily passenger traffic was only about 300 people in the first half of 2022; within a half-hour, three trains passed with no passengers boarding or alighting. The bus waiting area outside showed "last train has passed," and the surrounding area was an overgrown empty lot.
 
-This scene brings to mind a cruel question: **Are we building a metro, or are we building a mosquito museum?**
+This scene brings to mind a cruel question: **Are we building an MRT, or are we building a mosquito museum?**
 
-## The Taichung Tragedy: 209 Tons of Steel and Six Years of Delay
+## The Taichung Tragedy: After the 209-Ton Steel Beam Fell
 
-Returning to the tragedy at the beginning of the article.
+Returning to the tragedy at the beginning of this article.
 
-The investigation report on the Taichung Metro Green Line steel girder collapse reads like an industrial safety disaster textbook:
+The investigation report on the Taichung MRT Green Line steel beam collapse reads like an industrial safety disaster textbook:
 
-- The crane hydraulic support pads were not laid to distribute pressure; the asphalt surface could not withstand the weight and collapsed.
-- The curved steel girder's center of gravity was shifted, causing excessive "eccentric moment" leading to torsion and rollover.
-- The construction site only used traffic cones for protection, with no road closure control.
-- Although nighttime work was originally stipulated, it was performed during daytime rush hour.
-- Workers had requested the installation of support frames, which were refused by the contractor.
+- Cranes did not use wooden planks to distribute pressure from hydraulic supports, causing the asphalt road surface to sink under the weight.
+- The curved girder's center of gravity shifted; excessive "eccentric moment" caused torsion and overturning.
+- The construction site only used traffic cones for protection, with no road closure or control.
+- Construction was originally scheduled for nighttime, but it operated during daytime peak hours.
+- The brother of the deceased foreman, Xie Guanghui, pointed out that a support frame had been requested at the time but rejected by the contractor.
 
-The 4 victims: Su Chia-chen (age 42), Xie Guang-hui (age 57), Du Ya-you (age 60), and Liang Xiao-kai (age 26). The youngest, Liang Xiao-kai, was only 26, in the prime of life.
+The four victims were: Su Jiazhen (42), Xie Guanghui (57), Du Yao (60), and Liang Xiaokai (26). The youngest, Liang Xiaokai, was only 26, in his prime years.
 
-The legal consequences of this tragedy were: Wang Qi-sen, Deputy Chief Engineer of Taipei Metro Civil Engineering, received an 8-month sentence; Chen Song-yan and 7 others from Yuanyang Company received sentences ranging from 10 months to 1 year 6 months, all suspended. Hynyi Engineering Company was fined 200,000 NTD.
+The legal consequence of this tragedy was: In the first trial, Wang Qisen, a deputy engineer at Taipei MRT Civil Engineering Office II, received an 8-month sentence; Chen Songyan and Du Fangming from Zhonggang Construction Company, along with 7 others, were sentenced to 10 months to 1 year and 6 months, all suspended. Huiyi Engineering Co. was fined NT$200,000. One of the reasons cited by the judge was that Zhonggang Construction had reached a settlement and paid compensation to all families.
 
-**4 lives were exchanged for a suspended sentence and a 200,000 NTD fine.**
+**After the first trial verdict, four lives were exchanged for probation and a fine of NT$200,000.**
 
-In April 2021, Taichung Metro finally opened, six years behind schedule. The current daily ridership is about 26,000 passengers, still far short of the expected 80,000.
+On April 25, 2021, the Taichung MRT Green Line finally opened. In its first year of operation, it carried about 26,000 passengers per day, far short of the initial estimate of 80,000.
 
 > **📝 Curator's Note**
-> When the Taichung steel girder collapse occurred, a similar box girder lifting operation was underway on the loop line in New Taipei City. The difference is that the loop line strictly enforced "nighttime construction + road closure." The same technology, different management, determined life and death.
+> When the Taichung steel beam collapse occurred, a similar steel box girder hoisting was underway on the ring line project in New Taipei. The difference is that the ring line strictly enforced "night construction + road closure." The same technology, different management, determined life and death.
 
 ## The Secret of Punctuality: A Quality Revolution of 13.92 Million Kilometers
 
-After experiencing these bloody lessons, an unnoticed "quality revolution" occurred in Taiwan's mass transit sector.
+After experiencing these bloody lessons, an often-overlooked "quality revolution" occurred in Taiwan's MRT industry.
 
-Data from 2024 shows that Taipei Metro has an average operational distance of **13.92 million kilometers** before a delay exceeding 5 minutes occurs. How astonishing is this number?
+Reports indicate that by August 2023, Taipei MRT achieved an average operational distance of **13.92 million kilometers** before a delay exceeding five minutes. How astonishing is this number?
 
-Compare:
+For comparison: In 2016, the Singapore subway experienced such a delay every 160,000 kilometers; Hong Kong's was every 520,000 kilometers; at that time, Taipei MRT was every 800,000 kilometers. By 2022, the Singapore subway had improved to 2.09 million kilometers.
 
-- Singapore Metro: 2.09 million kilometers
-- Hong Kong Metro: 520,000 kilometers
-- Singapore Metro in 2016: 160,000 kilometers
+The punctuality rate of various lines in Taipei consistently exceeded **99%**, ranking among the top global public transport systems. This "culture of timeliness" changed the sense of time for Taiwanese people—the phrase "next train arrives in 3 minutes" transformed from a verbal promise into a reliable fact.
 
-Taipei Metro has maintained a punctuality rate of over **99.5%** for many years, ranking among the top in global public transport systems. This "culture of timeliness" changed the sense of time for people in Taiwan—the phrase "next train arrives in 3 minutes" transformed from a verbal promise into a reliable fact.
+How did this quality revolution happen? A 2018 report by _Asia News Agency_ summarized five key factors:
 
-How did this quality revolution happen? A 2018 report by Asia News Agency summarized five key factors:
+1. **Weekly technical meetings**: Compiling over 7,000 SOPs for various issues.
+2. **Regular simulation drills**: Crisis response capabilities.
+3. **Thorough regular maintenance**: Supervision to ensure quality.
+4. **Long-term employees**: Most of the 5,700 North MRT employees have been with the company for about 10 years, double that of SMRT employees in Singapore.
+5. **Public acceptance**: Under good quality, citizens are willing to ride the MRT with a more civic mindset.
 
-1. **Weekly Technical Meetings**: Compiling over 7,000 SOPs for various issues.
-2. **Regular Simulation Drills**: Crisis response capabilities.
-3. **Solid Periodic Maintenance**: Supervision ensuring quality.
-4. **Long-term Employees**: The average tenure of the 5,700 employees at North Metro is 10 years, double that of Singapore's SMRT.
-5. **Citizen Recognition**: Under good quality, citizens are willing to ride the metro with a more civic consciousness.
+> **✦** "Every train arriving on time speaks silently: this island takes public life seriously."
 
-> **✦** "Every on-time train silently speaks: This island takes public life seriously."
+## The Grand Leap of Taiwan's MRT: A Gamble Exceeding 2 Trillion NTD
 
-## The Great Leap Forward of Mass Transit in Taiwan: A 2.4 Trillion NTD Gamble
+Today, Taiwan is in the "Great MRT Era."
 
-Today's Taiwan is in the "Great Metro Era."
+According to a 2022 survey by _Xin News_, the total cost of operational and planned MRT lines across Taiwan exceeds over 1 trillion NTD. There are over 20 lines under construction or evaluation, with an estimated investment of another 1.1 trillion NTD, totaling about 500 kilometers—equivalent to building three times the length of Taipei MRT.
 
-According to an investigation by Xinwen, mass transit in Taiwan has cost 1 trillion NTD so far; there are over 20 lines under construction or evaluation, projected to require another 1.1 trillion NTD, with a total length of about 500 kilometers—equivalent to building three times the length of Taipei Metro.
+| Astonishing Investment Scale                                               | Cruel Operational Reality                                            |
+| :------------------------------------------------------------------------- | :------------------------------------------------------------------- |
+| Over 2 trillion NTD in operational and planned projects                    | Only Taipei makes a small profit; core business is still loss-making |
+| 20+ lines under construction or evaluation                                 | Kaohsiung cumulative loss during the pandemic: NT$750 million        |
+| Underground MRT with high ridership costs about NT$5 billion per kilometer | Taoyuan Airport MRT cumulative loss: approx. NT$2 billion            |
 
-| Astonishing Investment Scale                                 | Harsh Operational Reality                |
-| :----------------------------------------------------------- | :--------------------------------------- |
-| Total investment in mass transit in Taiwan: 2.4 trillion NTD | Only Taipei has marginal profit          |
-| 20+ lines under construction                                 | Kaohsiung loses 750 million NTD annually |
-| Average cost of 5 billion NTD/km                             | Taoyuan loses 2 billion NTD              |
-
-"Metro and light rail" are among the hottest topics in the political agendas of mayors across various counties. A senior political figure said, "Currently, when local governments clamor to build a metro, it only adds points to their election score; it never subtracts."
+"MRT and light rail" are among the most popular topics in the agendas of county mayors. One senior political figure said, "Currently, calling for an MRT or light rail in various places only adds points to election votes; it never subtracts."
 
 The question is: do these new lines truly have demand?
 
-Take the Tanhai Light Rail in New Taipei as an example. The initial ridership estimate was 44,000 people per day, but the actual figure was only 19,000—only 43%. This is because the population development of the Tanhai new town has been far below expectations. When planned in 1992, it predicted 300,000 residents by 2014; there were only about 40,000.
+Take the Tanhai Light Rail in New Taipei as an example. The initial estimated ridership was 44,000 people per day, but in 2021, the actual number was only 19,000 per day, less than half. This is because the population development of the Tanhai new town has been far below expectations: when planned in 1992, it was estimated that 300,000 people would move there by 2014; later, the development scope was reduced to 130,000, and only about 40,000 have actually moved in.
 
 > **⚠️ Expert Warning**
-> Li Yu-xin, Director of the University of Science and Technology's Rail Transport Center, pointed out: "Local governments often approach feasibility studies with a 'build a metro' mindset. Consulting firms can always find conditions that are 'feasible' without violating the 'owner's' vision. But during construction, these premises are ignored, which is why ridership is considered inflated."
+> Li Yuxin, director of the Graduate Institute of Transportation at National Cheng Kung University, pointed out that local governments often operate with a "build an MRT" mindset, outsourcing feasibility studies and comprehensive plans to consulting firms; these firms, without contradicting the "owner's" vision, will list "feasible" conditions even when they are impossible, such as developing industrial zones or reducing parking spaces. "However, in the process of constructing and operating transportation infrastructure, these premises are ignored, which is why ridership is considered inflated."
 
-## The Resistance of the Motorcycle Kingdom: Why Metro Cannot Change Traffic Habits?
+## The Resistance of the Motorcycle Kingdom: Why MRT Cannot Change Traffic Habits?
 
-There is one confusing phenomenon: Taiwan spent 1 trillion NTD building metros, yet the number of cars and motorcycles continues to grow.
+There is one confusing phenomenon: Taiwan spent 1 trillion NTD building an MRT, yet the number of cars and motorcycles continues to grow.
 
-Despite the dense metro network in Taipei, public transport usage increased only from 39.5% in 2009 to 40.4% in 2020—with almost no change. Former Minister of Transportation He Chen-tan analyzed: "Even in Greater Taipei, it is only a portion of the population who previously used buses switching to the metro; overall public transport usage remains around 40%."
+Despite the dense Taipei MRT network, the public transport usage rate only increased from 39.5% in 2009 to 40.4% in 2020—with almost no change. Former Minister of Transportation He Chen-tan analyzed: "Even in Greater Taipei, it is only a portion of people who originally took the bus switching to the MRT; the overall public transport usage rate remains around 40%."
 
-The situation in Kaohsiung is even more severe. After the opening of Kaohsiung Metro, public transport usage increased from 9.1% in 2009 to only 9.3% in 2016—which is still below the national average of 16%. During this period, the number of cars in Kaohsiung increased from 790,000 to 930,000, an increase of 140,000 vehicles.
+The situation in Kaohsiung is even worse. After the Kaohsiung MRT opened, the public transport usage rate rose from 9.1% in 2009 to only 9.3% in 2016—still lower than the national average of 18% at that time. During this period, the number of cars in Kaohsiung increased from 790,000 to 930,000, an increase of 140,000 vehicles.
 
-Public transport usage in Taichung and Taoyuan has also been consistently below the national average.
+The public transport usage rates in Taichung and Taoyuan have also been consistently below the national average.
 
-What is the reason? Zhong Hui-yu, Associate Director of the Department of Smart Transportation at Feng Chia University, put it bluntly: **"This is a lack of vehicle management policy!"**
+What is the reason? Zhong Huiyu, deputy director of the Center for Smart Transportation and Innovation at Feng Chia University, summarized it: **"This is a lack of vehicle management policy!"**
 
-After various cities in Taiwan built metros, none introduced appropriate vehicle management measures. Parking fees were too cheap, there were too many roadside parking spots, and the cost of owning a motorcycle was too low—the metro offered a new choice, but the old choices remained too convenient.
+She pointed out that after Taipei and Kaohsiung built their MRTs, they did not introduce appropriate vehicle management measures. The MRT provided a new option, but the old options were still too convenient.
 
-> **📊 Motorcycle Density Comparison**
+**Building an MRT alone cannot change traffic habits. It requires "carrot + stick": the MRT is the carrot; vehicle control is the stick.** Taipei has strengthened car towing and roadside parking fees, and the number of cars has genuinely decreased, but most cities have only offered the carrot.
 
-- Kaohsiung: 741 per thousand people
-- Taichung: 688 per thousand people
-- Taoyuan: 612 per thousand people
-- Taipei: 337 per thousand people
-  Source: Ministry of Transportation Statistics Query Network (2024)
+## The Fate of Loss-Making Ventures: Who Will Pay the Bill Exceeding 2 Trillion NTD?
 
-**Building a metro alone cannot change traffic habits. It requires "carrot + stick": the metro is the carrot, and vehicle control is the stick.** Taiwan only has the carrot, no sticks.
-
-## The Fate of Loss-Makers: Who Will Pay the 2.4 Trillion NTD Bill?
-
-Since even Taipei Metro relies on advertising for profit, other cities' metros are destined to lose money—so who will pay these bills?
+Since even Taipei MRT relies on advertising for profit, other cities' MRTs are destined to lose money—so who will pay these bills?
 
 The answer is: all citizens.
 
-If a metro system loses more than its capital, the local government must inject funds through capital increases, which means the entire public bears the cost. This is especially true for Taoyuan Airport MRT, which spans three cities (Taipei, New Taipei, and Taoyuan); if it needs to raise capital in the future, it must gain approval from three city councils—this involves complex political maneuvering.
+If an MRT line incurs losses exceeding its capital, the local government must inject funds through capital increases, meaning the entire public bears the cost. This is especially true for Taoyuan Airport MRT, which spans three cities (Taipei, New Taipei, and Taoyuan). If it needs to raise capital in the future, it must gain consent from three city councils—a complex political game.
 
-A person from the metro industry pointed out: "If the ruling parties in the Taipei and New Taipei City Councils are different from those in Taoyuan, they may be unwilling to inject funds for Taoyuan Metro. At that time, Taoyuan Metro will face a crisis."
+A person in the MRT industry pointed out: "This involves politics; if the majority parties in the Taipei and New Taipei councils are different from the ruling party of Taoyuan's mayor, they may be unwilling to inject funds for Taoyuan MRT, leading to a crisis for Taoyuan MRT."
 
-Cheng Yong-xiang, Director of the Rail Transport Center at National Cheng Kung University, stated frankly: "The fundamental problem is insufficient people. Transportation construction must incorporate urban planning from the beginning; there must be economic activity around the metro for there to be enough crowds, otherwise all the debt will be left to future generations."
+Cheng Yongxiang, director of the Department of Transportation Science at National Cheng Kung University, stated bluntly: "The fundamental problem is that there are not enough people": transportation construction must incorporate urban planning from the beginning; economic activity around the MRT is what brings sufficient crowds; otherwise, all debt will be left to future generations.
 
-**Taiwan is gambling with the tax revenue of the next 30 years on an uncertain vision of a city.**
+**Taiwan is betting a certain urban vision on the tax revenue of the next 30 years.**
 
-## The Dome of Light at Formosa: Metro as a Cultural Landmark
+## The Dome of Light in Belle Island: MRT as a Cultural Landmark
 
-However, the value of the metro is not just transportation. They also serve as cultural coordinates for the cities.
+But the value of the MRT is not just transportation. They also serve as cultural coordinates for cities.
 
-The "Dome of Light" at Kaohsiung Belle Island Station, created by Italian artist Narcissus Quagliata, is the world's largest glass art public building. CNN listed it among the "World's Most Beautiful Subway Stations," attracting countless pilgrims every year.
+The "Dome of Light" at Kaohsiung's Liberty Square Station, created by Italian artist Narcissus Quagliata, is claimed by the Kaohsiung MRT company to be the world's largest single piece of glass art. In 2012, the American travel website BootsnAll ranked it as the second most beautiful subway station in the world.
 
-Tamsui Station in Taipei is synonymous with weekend tourism, and the area around Zhongshan Station has formed a unique bookstore street and artistic space. These metro stations are not just transport nodes; they are symbols of urban identity.
+Taipei Tamsui Station is an icon for weekend tourism, and the area around Zhongshan Station has developed a unique bookstore street and artistic space. These stations are not just transport nodes; they are symbols of urban identity.
 
-From another perspective, Taiwan's mass transit is also a successful case study of "civilization experiment." The quiet order inside the cars, the insistence on a complete ban on eating, and the establishment of a culture of punctuality—these have become showcases of Taiwan's "soft power" internationally.
+From another perspective, Taiwan's MRT is also a successful case study in "civilization experiments." The quiet order inside the carriages, the insistence on a complete ban on eating, and the establishment of a culture of punctuality—these have become showcases for Taiwan's "soft power" internationally.
 
 > **💡 International Perspective**
-> During Singapore Metro's low period (2015-2017), it dispatched high-level management teams to Taipei to study operational experience. Taipei Metro transformed from a "student" in the 1990s into a "teacher" for other cities in the 2010s. This role change marked Taiwan's maturity in public construction.
+> When the Singapore subway was in decline, it sought assistance from North MRT, which dispatched senior personnel to Singapore to offer maintenance experience. Taipei MRT transitioned from being a "student" in the 1990s to a "teacher" for other cities in the 2010s. This role change marked Taiwan's maturity in public construction.
 
 ## Outlook: Expanding Networks and Future Challenges
 
-As of 2026, Taiwan's mass transit system is still expanding:
+As of 2026, Taiwan's MRT system is continuously expanding:
 
-1. **Scheduled to open in 2026**: Taoyuan Green Line
-2. **Under construction**: Taipei Loop North/South sections, New Taipei Wanda Line, Kaohsiung Yellow Line
-3. **In planning**: Taichung Blue Line, New Taipei Sanying Line, Keelung Metro, Hsinchu Light Rail, Tainan Metro
+1. **New Opening in 2026**: The San-ying Line in New Taipei (trial operation starts June 30).
+2. **Under Construction**: Taoyuan Green Line (Phase 1 expected completion in 2026), Taipei Ring Line North and South loops, Wanda Line in New Taipei, Yellow Line in Kaohsiung, Blue Line in Taichung (factory work begins June 2025).
+3. **In Planning**: Keelung MRT, Hsinchu Light Rail, Tainan MRT.
 
-An interesting trend is that newer lines are increasingly adopting driverless systems. From the VAL system on the Xindian Line to the fully automated operation of the Loop Line, Taiwan is moving from "adopting foreign technology" toward "independent integration capability."
+An interesting trend is that newer lines increasingly adopt driverless systems. From the VAL system on the Muzha Line to the fully automated operation of the Ring Line, Taiwan is moving from "adopting foreign technology" toward "independent integration capability."
 
-But the real challenge lies in: how will the metro system cope when Taiwan enters a super-aged society? Can barrier-free facilities keep up with demand? Is the fare adjustment mechanism reasonable? And the most fundamental question—how long can these lines maintain ridership amidst population decline?
+But the real challenge lies in: how will the MRT system cope when Taiwan enters a super-aged society? Can accessibility facilities keep up with demand? Is the fare adjustment mechanism reasonable? And the most fundamental question—how long can these lines maintain ridership amid population decline?
 
 > **📝 Curator's Note**
-> 30 years ago, Taiwan did not even have one kilometer of metro. Today, the metro is the most convincing calling card of Taiwanese urban civilization. Every quiet and orderly car, every clean and bright platform, speaks to how this island has learned "public life."
-> The cost is 2.4 trillion NTD and several lives. Is the cost worth it? There is no standard answer. But at least we face the cost honestly.
+> 30 years ago, Taiwan did not even have one kilometer of MRT. Today, the MRT is the most convincing calling card of Taiwanese urban civilization. Every quiet and orderly carriage, every clean and bright platform, speaks to how this island has learned "public life."
+> The cost is over 2 trillion NTD and several lives. Is the cost worth it? There is no standard answer. But at least we face the cost honestly.
 
-From the 1.64 billion tuition fee of Matra in France, to the 4 lives lost in the Taichung steel beam collapse, and to today's most reliable mass transit system globally—the history of Taiwan Metro is an urban evolution written in blood and money.
+From the NT$1.64 billion tuition fee of Matra, to the four lives lost in the Taichung steel beam collapse, and finally to the MRT system known for its punctuality today—the history of Taiwan's MRT development is a theory of urban evolution written in blood and money.
 
-It proves one thing: a society can learn from mistakes, and it can build better systems from painful costs. But the prerequisite is that we must face those costs honestly, not forget them.
-
-## Further Reading
-
-- [Taiwan's Motorcycle Culture](/en/lifestyle/taiwan-scooter-culture) — How the metro's biggest competitor shapes urban life
+It proves one thing: a society can learn from mistakes and build better systems from painful costs. But the prerequisite is that we must face those costs honestly, not forget them.
 
 ## Further Reading
 
-- [Taipei Metro Company Annual Report (2024)](https://www.metro.taipei/)
-- [Kaohsiung Metro Company Operational Statistics](https://corp.krtc.com.tw/)
+- [Taiwanese Motorcycle Culture](/en/lifestyle/taiwan-scooter-culture) — How Taiwan's biggest competitor shapes urban life
+
+## References
+
+- [Taipei MRT Corporation Annual Report (2024)](https://www.metro.taipei/)
+- [Kaohsiung MRT Corporation Operating Statistics](https://corp.krtc.com.tw/)
 - [Ministry of Transportation Statistics Query Network: Monthly Passenger Volume of Mass Transit Systems](https://stat.motc.gov.tw/)
-- [Taichung Metro Green Line Steel Beam Collapse - Wikipedia](https://zh.wikipedia.org/zh-tw/臺中捷運綠線鋼梁墜落事故)
-- [13.92 Million Kilometers Before a Delay Exceeds 5 Minutes - Key Commentary Net](https://www.thenewslens.com/article/193682)
-- [Metro Pit 1: All of Taiwan Goes Crazy Over Metros, Spending Over 2 Trillion to Build a Pile of Loss-Makers? - Xinwen](https://new7.storm.mg/article/4499383)
-- [Xindian Line Matra Wins Lawsuit, Taipei Must Pay 1.64 Billion - Da Kijuan](https://www.epochtimes.com/b5/5/7/23/n995027.htm)
-- [How Did Taipei Metro Become a "Patchwork Metro"? - Alleyway Sociology](https://twstreetcorner.org/)
-- [Legislative Yuan: Kaohsiung Metro Contract Amendment to Transfer M&E Assets Plan](https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=10077&pid=139625)
-- [Taipei Mass Transit Corporation - No Eating Regulations in Subway Systems](https://www.metro.taipei/News_Content.aspx?n=566DA580861CEE77&sms=87415A8B9CE81B16&s=CBB430D2363C29FC)
+- [Taichung MRT Green Line Steel Beam Collapse - Wikipedia](https://zh.wikipedia.org/zh-tw/臺中捷運綠線鋼梁墜落事故)
+- [Delays Exceeding 5 Minutes After 13.92 Million Kilometers Traveled - Key Commentary Net](https://www.thenewslens.com/article/193682)
+- [MRT Pitfall 1: All of Taiwan Goes Crazy for MRT, Spending Over 2 Trillion to Build a Pile of Loss-Makers? - Xin News](https://new7.storm.mg/article/4499383)
+- [Muzha Line Matra Wins Lawsuit, Taipei Must Pay NT$1.64 Billion - Da Kijuan](https://www.epochtimes.com/b5/5/7/23/n995027.htm)
+- [How Did Taipei MRT Become a "Patchwork MRT"? - Alleyway Sociology](https://twstreetcorner.org/)
+- [Legislative Yuan: Kaohsiung MRT Contract Modification and Early Transfer of M&E Assets Plan](https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=10077&pid=139625)
+- [Taipei Mass Transit Corporation - Regulations on No Eating in the MRT System](https://www.metro.taipei/News_Content.aspx?n=566DA580861CEE77&sms=87415A8B9CE81B16&s=CBB430D2363C29FC)
+- [North MRT Opens 30 Years: Train Fires, Matra Personnel Withdrawal - TVBS](https://news.tvbs.com.tw/life/3161302)
+- [Train Fire Accident, Foreign Object Crushing Tire! Muzha Line's Difficult Destiny Before Opening - United Daily News Times](https://time.udn.com/udntime/story/122833/7899496)
+- [Taipei MRT Annual Passenger Volume Milestones - TVBS](https://news.tvbs.com.tw/life/1094779)
+- [Taichung Steel Beam Collapse First Trial Verdict - C-News Network](https://news.pts.org.tw/article/404511)
+- [Liberty Square Station - Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%BE%8E%E9%BA%97%E5%B3%B6%E7%AB%99)
+- [New Taipei MRT San-ying Line - Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%96%B0%E5%8C%97%E6%8D%B7%E9%81%8B%E4%B8%89%E9%B6%AF%E7%B7%9A)
+- [Taichung MRT Blue Line - Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E4%B8%AD%E6%8D%B7%E9%81%8B%E8%97%8D%E7%B7%9A)
