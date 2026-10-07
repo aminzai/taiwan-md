@@ -184,7 +184,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Priority**: `P1`
 - **Status**: `pending`
 - **Requested**: 2026-09-27 by twmd-news-lens-weekly (probe)（來源 reports/probe/2026-09-27.md T1-A）
-- **Angle-expires**: 2026-10-09（賽後兩週，Notes「時效」行）
+- **Angle-expires**: evergreen（2026-10-08 心跳改：賽後兩週窗口 10-09 到期前沒有寫作班接得到，twmd-rewrite-daily 停用中；主脊「教練是上一個站上去的人」本來就不靠時效，寫的時候照原切角從觸牆開場、收在洛杉磯奧運資格線）
 - **Notes**:
   - 9/25 名古屋亞運男子 200 公尺蝶式決賽 1 分 55 秒 05 奪金（預賽到決賽快 4 秒 35；中國徐放 1:55.65 銀、韓國金敏燮 1:55.94 銅），台灣男子游泳亞運首金；上屆杭州同項銀牌，是繼現任教練黃智勇之後相隔 25 年的男泳亞運獎牌
   - **缺口確認**：`find knowledge … | grep 王冠閎` = 0；`grep -rl 王冠閎 knowledge/[A-Z]*/*.md` = 0（全站從未提及）；`grep -rl 游泳` 15 篇全是順帶一提，沒有一篇寫台灣競技游泳；INBOX / DONE-LOG = 0
@@ -250,7 +250,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Priority**: `P1`
 - **Status**: `pending`
 - **Requested**: 2026-09-20 by twmd-news-lens-weekly (probe)（來源 reports/probe/2026-09-20.md T1-C）
-- **Angle-expires**: 2026-10-04（例行賽結束前後；晉級季後賽再補一節）
+- **Angle-expires**: evergreen（2026-10-08 心跳改：例行賽 10-04 已結束，「季末衝刺」切角失效，改寫整季總結；下面 Notes 的 10 轟、28 長打、78 安是 9/18 的中途數字，寫前先回 Baseball Reference 查最終數據與老虎有沒有進季後賽）
 - **Notes**:
   - 9/18（美國時間）老虎 11-8 勝，李灝宇本季第 10 轟、單場 4 安，同時改寫台灣球員大聯盟單季全壘打（張育成 2021 年 9 轟）、單季長打（28，張育成 26）、單場安打（4）三項紀錄；單季 78 安為大聯盟 23 歲以下亞洲球員史上第二（次於大谷翔平 2018 年 93 安）。例行賽剩兩週、老虎在季後賽邊緣
   - **缺口確認**：`find knowledge … | grep 李灝宇` = 0；`grep -rl 李灝宇 knowledge/[A-Z]*/*.md` = 0（全站從未提及）；INBOX / DONE-LOG = 0
@@ -677,7 +677,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Priority**: `P0`
 - **Status**: `pending`
 - **Requested**: 2026-09-18 by 哲宇（session news-radar，來源 reports/probe/2026-09-18.md）
-- **Angle-expires**: 2026-10-04（亞運閉幕；之後改「賽後總結」切角或降級）
+- **Angle-expires**: evergreen（2026-10-08 心跳改：亞運 10-04 閉幕，「進行中」的鉤子失效；主脊「這個名字怎麼來、選手怎麼在名字底下比賽」是常青題，開場改用賽後畫面，奪牌數改用中華奧會賽後官方統計；P0 是哲宇點的，優先序不動）
 - **Notes**:
   - 9/19 開幕，會期至 10/4；482 名選手 34 項，加教練後勤逾 700 人，近幾屆最大團；棒球台韓大戰 9/21；郭婞淳挑戰亞運三連霸、楊勇緯衛冕、林郁婷首度以奧運金牌身份出賽、唐嘉鴻體操
   - 切角：1954 年馬尼拉亞運首次參賽 → 1974 年被逐出 → 1990 年北京亞運以「中華台北」重返 → 今天。主脊放「這個名字怎麼來、選手怎麼在名字底下比賽」，奪牌數當背景
