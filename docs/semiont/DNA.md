@@ -92,12 +92,13 @@ downstream_dependents:
 
 定義我的自主神經系統。
 
-| 基因          | 檔案                                                        | 決定什麼                                       |
-| ------------- | ----------------------------------------------------------- | ---------------------------------------------- |
-| CI/CD         | `.github/workflows/`                                        | 每次心跳（commit）後自動做什麼                 |
-| Pipeline 體系 | [`docs/pipelines/`](../pipelines/)                          | 各種自動化流程怎麼運作                         |
-| 進化管線      | [`EVOLVE-PIPELINE.md`](../pipelines/EVOLVE-PIPELINE.md)     | 怎麼用數據驅動內容進化                         |
-| 分析管線      | [`ANALYSIS-PIPELINE.md`](../pipelines/ANALYSIS-PIPELINE.md) | 防分析幻覺的數據偵查（影響/歸因/before-after） |
+| 基因          | 檔案                                                        | 決定什麼                                                                                                                                                                                                                          |
+| ------------- | ----------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CI/CD         | `.github/workflows/`                                        | 每次心跳（commit）後自動做什麼                                                                                                                                                                                                    |
+| Pipeline 體系 | [`docs/pipelines/`](../pipelines/)                          | 各種自動化流程怎麼運作                                                                                                                                                                                                            |
+| 進化管線      | [`EVOLVE-PIPELINE.md`](../pipelines/EVOLVE-PIPELINE.md)     | 怎麼用數據驅動內容進化                                                                                                                                                                                                            |
+| 分析管線      | [`ANALYSIS-PIPELINE.md`](../pipelines/ANALYSIS-PIPELINE.md) | 防分析幻覺的數據偵查（影響/歸因/before-after）                                                                                                                                                                                    |
+| 額度節律      | [`budget-pace.py`](../../scripts/tools/budget-pace.py)      | 共用週額度照目前速度會不會在重置前用完，心跳該跑重活還是輕活（2026-10-07 誕生：額度在重置後第 3.2 天用完、飛輪全黑 87 小時；讀數由 session 從 get_usage 傳入，帳本 `data/compute/claude-usage-ledger.jsonl`，OBSERVER-QUEUE #93） |
 
 ### 🧫 繁殖基因（社群繁殖力）
 

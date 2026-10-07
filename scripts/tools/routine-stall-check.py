@@ -635,12 +635,24 @@ def human_report(result: dict) -> str:
             "   本工具只看得到 main。已 commit 但沒推上來的 routine 產出，在這裡一律不可見，"
             "所以 (a) 與 (b) 在這支尺上讀數相同，要到那台機器上才分得開。"
         )
+        lines.append(QUOTA_HINT)
     else:
         lines.append(
             "🚨 CRITICAL — main 上連任何 commit 都停了，全飛輪可能停轉，"
             "先查營運機 Claude app 活著沒、額度有沒有到頂"
         )
+        lines.append(QUOTA_HINT)
     return "\n".join(lines)
+
+
+# 2026-10-07：兩台機器共用一個帳號，週額度用完時兩邊一起停，是「連任何 commit 都停了」
+# 最常見的根因。當時用排程器的 run 紀錄一分鐘就查到，寫進輸出省下次重新摸索。
+QUOTA_HINT = (
+    "   一分鐘確認是不是額度：在任一台的 Claude session 呼叫 "
+    "`mcp__scheduled-tasks__list_task_runs`，最近一筆 failed 的 error 若是 "
+    "「You've hit your weekly limit · resets …」就是週額度用完（兩台共用一個帳號，會一起停）；"
+    "`mcp__ccd_session_mgmt__get_usage` 看得到重置時間。節律讀數與帳本見 `budget-pace.py`"
+)
 
 
 def main() -> None:
