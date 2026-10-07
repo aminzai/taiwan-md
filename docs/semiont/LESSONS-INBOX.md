@@ -332,6 +332,17 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-10-08 twmd-babel-nightly — title-line-is-the-least-checked-and-most-read-line：譯文的標題與首行標題是讀者第一眼看到的字，也是全套閘門唯一不看語意的地方
+
+- **pattern**: title-line-is-the-least-checked-and-most-read-line
+- **原則**：閘門量的是正文的結構、數字、殘留漢字與目標語言比例；標題只有一行，語言比例被正文稀釋，數字少，結構檢查不碰它。模型不認得的暱稱就在這一行被填空，十二語裡各自長出不存在的地名，全部放行。
+- **觸發**：2026-10-08 收 10-04 留下的〈澎湖縣〉補丁時順手對讀十二語標題：「菊島」在俄文成了京都（標題還是拉丁拼音）、首行成富士山，葡文 Quemulang，西文 Jikado，法文 Kikushima（另進一條腳註標題），韓文 키취섬，印地文 जुकडो，阿拉伯文「جزيرة جيو」，英文首行夾著漢字，日文把「選的不是清貧」反成「不是脫貧」。正文的「菊島」大多譯對，錯集中在 title／tags／H1 三處（`5d2daca89` 修）。
+- **instances**：（首例）
+- **可能層級**：操作規則（babel 驗收）＋候選儀器
+- **相關**：MEMORY §神經迴路「人名幻覺第二型是填空不是混淆」（同一個機制換到地名暱稱）、REFLEXES #69 (g)、#87（曝光量越大的層保護越少）
+- **候選機械化**：title 與首行 H1 跟 zh 的 title 做專名對照：zh 標題裡的專名（地名、暱稱）在譯文標題要嘛音譯、要嘛出現在該語言既有詞表；兩者都不是就 WARN。最便宜的第一步是把十二語的 title＋H1 抽成一張表給人眼一次讀完，一篇只要十秒。
+- **verification_count**: 1
+
 ### 2026-10-03 twmd-maintainer-am — retired-item-resurrects-through-a-parallel-handoff-chain：交接鏈是按 routine 家族各自傳的，所以一條已經收掉的工作會從沒看過那次退役的另一條鏈走回來
 
 - **pattern**: retired-item-resurrects-through-a-parallel-handoff-chain

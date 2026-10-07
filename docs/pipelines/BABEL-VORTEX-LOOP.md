@@ -320,6 +320,10 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
   v1.61 (c) 補幣別閘門時寫下「接一道閘時 grep 所有產出譯文的路徑」，同一批的這把尺沒被 grep 到。補進
   `verify_one`，失敗記 `magnitude[N]`；壞樣本 → `magnitude[3]`、修好的 → 放行，兩頭對照過。存量現量 511 檔
   1,041 處，仍歸 OBSERVER-QUEUE #56。`rescue-orphans.py` 自帶一套較舊的三件尺，幣別與量級都還不在裡面。
+  上線第一版在 `463c284bd` 到 `071fb6d52` 之間把每篇都擋下：`verify_one` 拿到的中文路徑是 `Society/x.md`，
+  檢查器讀不到檔崩成 exit 1，被當成「可疑」（de〈同婚〉兩次 `magnitude[?]`）。壞好兩頭對照時我餵的是
+  `knowledge/` 開頭的路徑，量到的是替身（REFLEXES #100）。**規則**：新閘門的對照樣本用產線實際傳的參數形狀，
+  且只認工具印出的判定字樣，exit code 不夠。
   (b) 10-04 夜班收官前額度用完，`LESSONS-INBOX.md` 的一筆 vc 更新留在工作樹四天；v1.94 的 `--sync` 每次起跑
   合併 origin 都撞上它 abort，push-every 同理，四天沒推過一篇（56 篇、23 個 commit），印的「需要人看」只進
   `.taiwanmd/babel-push.log`。判讀補一條：**`babel-push.log` 最後一行是合併失敗，就是推送停了**，先看擋路的是誰
