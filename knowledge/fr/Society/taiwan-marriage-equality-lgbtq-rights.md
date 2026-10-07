@@ -1,274 +1,273 @@
 ---
-title: "Le mariage homosexuel et l'égalité des genres à Taïwan"
-description: "De la prison sous la loi martiale à la première loi sur le mariage homosexuel en Asie : comment trente ans de combat d'un seul homme ont redéfini l'amour sur cette île"
+title: 'Taïwan, mariage pour tous et égalité des sexes'
+description: "De la sortie de l'ombre durant la martialité à la première loi sur le mariage pour tous en Asie : les 33 ans de pétitions, de référendums et de plaids de Chi Chia-wei qui ont redéfini le mariage à Taïwan"
 date: 2026-03-22
 category: 'Society'
 tags:
   [
-    'mariage homosexuel',
-    'égalité des genres',
+    'mariage pour tous',
+    'égalité des sexes',
     'droits humains',
     'justice',
-    'premier en Asie',
+    'première en Asie',
     'Chi Chia-wei',
     'LGBTQ+',
   ]
-subcategory: 'Droits humains et égalité'
+subcategory: '人權與平等'
 author: 'Taiwan.md'
 difficulty: 'beginner'
 readingTime: 12
 featured: true
-lastVerified: 2026-03-22
+lastVerified: 2026-10-07
 lastHumanReview: false
 translatedFrom: 'Society/台灣同婚與性別平權.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:369f015f40df17bd'
-sourceBodyHash: 'sha256:87466d8232d3f86e'
-translatedAt: '2026-04-14T12:32:24+08:00'
+sourceCommitSha: '872f4aef5'
+sourceContentHash: 'sha256:53dce2454f2bc650'
+sourceBodyHash: 'sha256:a975eff83abc0a3e'
+translatedAt: '2026-10-08T00:51:24+08:00'
 ---
 
-# Le mariage homosexuel et l'égalité des genres à Taïwan
+# Taïwan, mariage pour tous et égalité des sexes
 
-> **En 30 secondes :** En 1986, Chi Chia-wei fut emprisonné pendant cinq mois par le gouvernement de la loi martiale pour avoir fait son coming out publiquement. Le 17 mai 2019, le recours constitutionnel qu'il avait déposé fit de Taïwan le premier pays d'Asie à légaliser le mariage homosexuel. Ce n'est pas l'histoire d'une loi — c'est l'histoire d'un homme qui a refusé de se laisser effacer pendant trente ans, un homme que la société traitait de « monstre », et qui finit par amener toute cette société à redéfinir ce qu'est l'amour.
-
----
-
-## Un acte de mariage attendu trente-trois ans
-
-24 mai 2019, bureau d'état civil du district de Xinyi, Taipei.
-
-À six heures du matin, des centaines de couples de même sexe font la queue devant l'entrée. Au moment où le premier certificat de mariage homosexuel est remis, la foule explose en cris de joie et en larmes. Certains s'étreignent en pleurant, d'autres lancent des drapeaux arc-en-ciel vers le ciel. D'autres encore regardent en silence ce mince papier qu'ils tiennent entre les mains — sur lequel figure le mot qu'ils ont attendu toute leur vie : « conjoint ».
-
-Chi Chia-wei, soixante et un ans, n'est pas là. Non pas qu'il n'ait pas de partenaire, mais parce que cette victoire est arrivée trop tard pour lui. De son premier refus de mariage homosexuel en 1986 à l'adoption de la loi en 2019, il a mis trente-trois ans.
-
-**Ces trente-trois ans, il les a traversés en prison, rejeté par la société, moqué par les médias, debout seul dans la rue avec un drapeau arc-en-ciel sous les insultes des passants.** Mais à chaque refus, il déposait une nouvelle demande. À chaque défaite judiciaire, il faisait appel.
-
-> **📝 Note du curateur**
-> La victoire de Taïwan sur le mariage homosexuel n'est pas venue d'un soudain éveil de la société, mais de la décision d'un homme de refuser que son époque l'oublie.
+> **30 secondes d'aperçu :** En 1986, Chi Chia-wei sort publiquement du placard et pète une pétition à l'Assemblée législative pour légaliser le mariage entre personnes du même sexe ; la même année, sous la martialité, il est détenu environ cinq mois pour « outrage ». En 2017, sa requête constitutionnelle donne naissance à l'interprétation n°748 ; le 17 mai 2019, l'Assemblée législative adopte la loi en trois lectures, et à partir du 24 mai, Taïwan devient le premier pays d'Asie à légaliser le mariage pour tous. Voici l'histoire de 33 ans d'obstination : un homme autrefois considéré comme un « trouble-fête » a fini par redéfinir le mariage pour toute la société.
 
 ---
 
-## Un « crime grave » sous la loi martiale
+## Le premier jour, 33 ans d'attente
 
-### 1986 : une conférence de presse qui change tout
+Le 24 mai 2019, le premier jour de l'entrée en vigueur de la loi sur le mariage pour tous.
 
-28 février 1986. Taïwan est encore sous la loi martiale.
+À 8h00min46s du matin, le bureau de l'état civil de l'arrondissement d'Annan à Tainan effectue les premières registres de mariage entre personnes du même sexe de toute l'île. À la fin de la journée, 526 couples ont officialisé leur union : 341 couples de femmes et 185 couples d'hommes. La mairie de Taipei organise une cérémonie en plein air pour les nouveaux mariés, qui marchent sur un tapis arc-en-ciel.
 
-Ce jour-là, Chi Chia-wei organise une conférence de presse internationale dans un McDonald's, fait son coming out et devient le premier homosexuel public de Taïwan — peut-être d'Asie entière. Il invite Reuters et d'autres médias internationaux, promeut la prévention du sida. Il a vingt-huit ans.
+Chi Chia-wei, âgé de 60 ans, est également présent lors de cette cérémonie, habillé en costume rouge vif et brandissant un drapeau arc-en-ciel pour bénir les mariés. De sa première pétition à l'Assemblée législative rejetée en 1986 à ce jour, il aura fallu 33 ans.
 
-**Cinq mois plus tard, il est arrêté par le gouvernement pour « blessures graves ».**
+**Ces 33 ans, il a été détenu, traité comme un tracasseur par la société et les médias, et a marché seul dans les rues en brandissant un drapeau arc-en-ciel, insulté par des passants.** Mais à chaque rejet, il a réessayé. À chaque défaite, il a fait appel.
 
-« Les policiers m'ont dit : "Monsieur Chi, vous êtes trop influent, alors nous devons vous faire disparaître du monde libre pour cinq ans." » rapporte-t-il plus tard. Mais cet homme, formé au droit, utilise ses connaissances en criminologie pour obtenir sa liberté au bout de cinq mois.
-
-À sa sortie, il prend une décision encore plus folle : demander l'enregistrement d'un mariage homosexuel.
-
-### Première demande, premier refus
-
-En 1986, Chi Chia-wei saisit le tribunal de première instance de Taipei pour demander à enregistrer son mariage avec un homme.
-
-Le refus était prévisible. Mais son objectif n'était pas de réussir du premier coup — c'était de créer un **précédent juridique**. Faire passer quelque chose d'inexistant à l'existence. D'un sujet dont personne ne parle, à un sujet qu'on ne peut plus ignorer.
-
-> **💡 Le saviez-vous ?**
-> Chi Chia-wei a décidé de défendre les droits des personnes LGBT dès l'âge de dix-sept ans. En 1975, un professeur d'anglais lui apprit le mot « homosexual ». En rentrant chez lui, il fit des recherches et découvrit que l'Association mondiale de psychiatrie avait retiré l'homosexualité de la liste des troubles mentaux en 1974. Cela le convainquit que son orientation sexuelle était tout à fait normale.
+> **📝 Note du rédacteur**
+> La victoire de Taïwan sur le mariage pour tous ne s'est pas obtenue parce que la société avait soudainement évolué. Elle s'est obtenue parce que quelqu'un a refusé d'être oublié par le temps.
 
 ---
 
-## Une guerre menée seul
+## L'« outrage » pendant la martialité
 
-### Les regards froids et les insultes de la société
+### 1986 : une conférence de presse qui change la donne
 
-De la fin des années 1980 au début des années 1990, les personnes homosexuelles étaient encore fortement stigmatisées à Taïwan. Chi Chia-wei participait à des mouvements sociaux en tant que personnage public et se faisait régulièrement insulter et railler dans la rue.
+En début d'année 1986, Taïwan est toujours sous martialité.
 
-Il jouait le Christ, portant une croix pour sensibiliser au sida dans les rues ; il distribuait des préservatifs dans les gares, déguisé en Cléopâtre avec trois cents préservatifs accrochés au corps ; il collectait des fonds pour les malades du sida et était évité comme une épidémie.
+Chi Chia-wei organise une conférence de presse internationale dans un McDonald's de Taipei, sort publiquement du placard — il deviendra plus tard connu comme le premier Taïwanais à avoir fait cela — et parle également de la prévention du sida. Il a 27 ans.
 
-**La journaliste taïwanaise Yang Suo se souvient : « Quand je pense à Chi Chia-wei, je revois toujours la scène de la fin des années 1980, quand il portait sa boîte de dons… La plupart des gens passaient en l'évitant de loin, le traitant de pestiféré. La société et les médias le voyaient comme un "fauteur de troubles". »**
+La même année, il dépose une pétition à l'Assemblée législative demandant la légalisation du mariage entre personnes du même sexe. Les représentants du Conseil judiciaire et du ministère de la Justice s'opposent à cette idée lors d'une commission, et le bureau juridique de l'Assemblée estime qu'il n'y a pas lieu d'admettre le projet.
 
-Mais Chi Chia-wei ne se sentait pas seul. Sa stratégie n'était pas de former une association ou de rassembler des foules — c'était de **défier seul chaque maillon du système**.
+**En août de cette même année, il est convoqué et détenu, inculpé d'« outrage ».**
 
-### Un marathon juridique de trente ans
+« Les personnes qui m'ont arrêté m'ont dit : “M. Chi, tu es si talentueux que nous devons t'effacer du monde libre pour cinq ans.” » se souvient Chi Chia-wei. On lui a simplement collé une accusation d'outrage, et grâce à ses connaissances en criminologie et en droit, il a été libéré cinq mois plus tard. Une autre version rapporte que le président Chiang Ching-kuo, au courant de l'affaire, ne s'est pas montré inquiet ; le 23 janvier de l'année suivante, Chi Chia-wei est mis en liberté provisoire.
+
+### Pétitions, référendums, registres, un échec après l'autre
+
+Cette pétition de 1986 est la première fois que Chi Chia-wei adresse officiellement une demande de mariage pour tous à l'État. Il envoie ensuite la même requête à chaque instance possible :
+
+- En novembre 1998, il se rend au bureau de certification du tribunal de district de Taipei pour demander à officialiser son union avec son partenaire, mais sa demande est rejetée.
+- En 2008, le mariage devient un simple enregistrement administratif ; le 21 mars 2013, Chi Chia-wei se présente au bureau d'état civil de Wanhua à Taipei pour s'inscrire au registre du mariage, mais est à nouveau refusé.
+
+Ces refus sont prévisibles. Mais Chi Chia-wei ne cherche pas la réussite immédiate : il cherche à établir un **précédent juridique** — à faire passer les choses d’un état d’inexistence à un état d’existence. De l’absence de débat à l’obligation de débattre.
+
+> **💡 Saviez-vous ?**
+> Chi Chia-wei raconte qu’en été 1975, un professeur d’anglais lui a enseigné le mot « homosexual », ce qui l’a amené à réfléchir à son identité. En cherchant des informations pendant les vacances, il a découvert que la communauté médicale avait retiré le sida de la classification des maladies mentales, ce qui l’a confirmé dans son orientation sexuelle normale. Il se souvient de la « 27e assemblée mondiale de psychiatrie » de 1974 ; en réalité, c’est l’American Psychiatric Association qui avait retiré le sida du manuel diagnostique en 1973, et l’Organisation mondiale de la santé qui n’a supprimé le sida de sa classification qu’en 1990 — le 17 mai, date qui deviendra plus tard la « Journée internationale contre l’homophobie ».
+
+---
+
+## Une guerre menée par un seul homme
+
+### L'indifférence et les insultes de la société
+
+À la fin des années 1980 et au début des années 1990, les personnes LGBTQ+ sont encore largement stigmatisées à Taïwan. Chi Chia-wei, engagé publiquement, est régulièrement insulté et moqué dans la rue.
+
+Il a joué le rôle de Jésus, portant la croix sur les épaules pour promouvoir la prévention du sida ; il a marché dans les gares en Égypte, avec 300 préservatifs autour du cou, distribuant des tracts ; il a été évité comme une épidémie lorsqu’il faisait des collectes de fonds pour les patients atteints du sida.
+
+**Le journaliste taïwanais expérimenté Yang Siao se souvient : « Chaque fois que je pense à Chi Chia-wei, une image me vient à l’esprit : à la fin des années 1980, lui, avec sa boîte à dons, marchait dans la rue pour recueillir des fonds pour les patients atteints du sida... Les passants l’évitaient tous, le considérant comme une épidémie, et la société et les médias le voyaient en quelque sorte comme un « trouble-fête »... »**
+
+Mais Chi Chia-wei ne s’est jamais senti seul. Sa stratégie n’a jamais été d’organiser des groupes ou de rassembler des foules : c’était **une seule personne qui défiait chaque niveau du système**.
+
+### Une course juridique de trente ans
 
 De 1986 à 2019, Chi Chia-wei a épuisé toutes les voies légales :
 
-- **Recours administratifs** : demandes, pétitions et recours à tous les échelons du gouvernement
-- **Procédures judiciaires** : actions civiles, recours administratifs, oppositions et appels
-- **Pétitions législatives** : propositions répétées à l'Assemblée législative
-- **Arme finale** : en 2015, saisine du Conseil des grands juges pour interprétation constitutionnelle
+- **Recours administratif** : demandes, pétitions et recours à tous les niveaux du gouvernement
+- **Actions judiciaires** : recours civils, recours administratifs, oppositions, appels
+- **Pétitions législatives** : des dizaines de propositions déposées à l’Assemblée législative
+- **Dernier recours** : en 2015, il a saisi le juge constitutionnel
 
-Chaque défaite posait les fondations de la victoire suivante. **Chi Chia-wei n'attendait pas que la société change — il créait les conditions du changement.**
-
----
-
-## L'interprétation n° 748 : un jugement historique
-
-### 24 mai 2017 : un tournant pour le droit constitutionnel en Asie
-
-Le 24 mai 2017, le Conseil des grands juges du Yuan judiciaire publia l'interprétation constitutionnelle n° 748, déclarant inconstitutionnelle l'absence de protection du mariage homosexuel dans le Code civil. Taïwan devenait **le premier pays d'Asie dont la plus haute instance judiciaire reconnaissait le droit au mariage homosexuel comme protégé par la Constitution**.
-
-> **✦** « Le Code civil, en n'autorisant pas deux personnes du même sexe à former une union permanente d'intimité et d'exclusivité dans le but de mener une vie commune, est contraire à l'esprit de l'article 22 de la Constitution, qui garantit la liberté matrimoniale, et de l'article 7, qui garantit le droit à l'égalité. »
-
-Les grands juges accordèrent au Parlement deux ans pour adopter la législation nécessaire. Si aucune loi n'était adoptée avant le 24 mai 2019, les couples homosexuels pourraient s'enregistrer directement au titre du Code civil.
-
-### Trois fondements juridiques
-
-**Liberté matrimoniale** : un droit fondamental garanti par la Constitution, qui ne saurait être restreint en raison de l'orientation sexuelle
-**Droit à l'égalité** : une différence de traitement fondée sur l'orientation sexuelle devait passer un test strict — la législation existante constituait une discrimination injustifiée
-**Droit à la personnalité** : la relation intime d'un couple homosexuel est étroitement liée à l'épanouissement de la personnalité
-
-Ce n'était pas seulement une victoire juridique — c'était une **révolution dans la conception des droits humains**.
+Chaque défaite a été une pierre dans le chemin de la prochaine victoire. **Chi Chia-wei n’attendait pas que la société change : il créait les conditions pour que la société change.**
 
 ---
 
-## Le référendum de 2018 : un bras de fer dans la société
+## L’interprétation n°748 : une décision historique de la Constitution
 
-### La force du mouvement conservateur
+### Le 24 mai 2017 : un tournant dans l’histoire constitutionnelle asiatique
 
-Après l'interprétation constitutionnelle, les groupes d'opposition lancèrent le « référendum pour la famille » en réaction. Le 24 novembre 2018, les référendums liés au mariage homosexuel donnèrent lieu à la plus intense mobilisation citoyenne de l'histoire de Taïwan.
+Le 24 mai 2017, le Conseil judiciaire publie l’interprétation n°748, déclarant que le Code civil ne protège pas le mariage entre personnes du même sexe, ce qui est contraire à la Constitution. Taïwan devient **le premier pays d’Asie dont l’institution judiciaire suprême reconnaît que le droit au mariage pour tous est protégé par la Constitution**.
 
-**Les résultats furent un revers sévère pour le mouvement en faveur du mariage homosexuel :**
+> **✦** « Les dispositions du chapitre II du titre IV du Code civil relatives au mariage ne garantissent pas aux personnes de même sexe le droit d’établir une relation unie, exclusive et durable dans le but d’une vie commune, ce qui contredit l’esprit de l’article 22 de la Constitution garantissant la liberté de mariage et l’article 7 garantissant l’égalité. »
 
-- « Le mariage inscrit dans le Code civil doit être limité à un homme et une femme » : 7,65 millions de voix pour
-- « Protéger les partenaires de même sexe par une loi spéciale » : 6,49 millions de voix pour
-- La proposition de modifier le Code civil pour inclure le mariage homosexuel : seulement 3,04 millions de voix pour
+Le juge constitutionnel donne deux ans au Parlement pour réformer la loi. Si d’ici le 24 mai 2019 aucune loi n’est passée, les couples de même sexe pourront se marier directement en se référant au Code civil.
 
-### Les larmes de la nuit du référendum
+### Deux bases constitutionnelles
 
-Dans la soirée du 24 novembre 2018, de nombreux membres des communautés LGBT et leurs soutiens pleuraient devant les écrans de dépouillement. Certains décrivirent ce moment comme la douleur d'« être nié dans son existence même par un référendum ».
+**Liberté de choix du conjoint (article 22 de la Constitution)** : décider s’il faut se marier et avec qui est essentiel au développement de la personnalité et à la dignité humaine ; les personnes de même sexe doivent également bénéficier de cette protection.
 
-Mais cet échec suscita aussi une réflexion sociale importante : **les droits fondamentaux doivent-ils être soumis au vote de la majorité ?** Les nombreux appels à la peur et les fausses informations diffusées durant le référendum amenèrent également la société à prendre conscience de l'importance de la qualité de l'information pour un débat démocratique sain.
+**Principe d’égalité (article 7 de la Constitution)** : les discriminations fondées sur l’orientation sexuelle doivent être soumises à un examen plus strict ; le Code civil actuel ne peut pas résister à cet examen.
 
-> **⚠️ Point de débat**
-> Les juristes estiment généralement que les droits humains ne devraient pas être soumis à la règle de la majorité. Les opposants, eux, défendent la légitimité des processus démocratiques. Cette tension demeure vive dans la société taïwanaise.
+Ce n’est pas seulement une victoire juridique, c’est **une révolution dans la conception des droits humains**.
 
 ---
 
-## 17 mai 2019 : soixante-six voix pour l'Histoire
+## Le référendum de 2018 : un conflit social
 
-### La Journée internationale contre l'homophobie
+### Les forces réactionnaires
 
-Le 17 mai 2019 — la Journée internationale contre l'homophobie, la transphobie et la biphobie — l'Assemblée législative adopta en troisième lecture la « Loi d'application de l'interprétation n° 748 du Yuan judiciaire ».
+Après l’interprétation constitutionnelle, les groupes hostiles ont lancé un référendum intitulé « Défendre la famille ». Le 24 novembre 2018, les questions relatives au mariage pour tous ont déclenché la mobilisation citoyenne la plus intense de l’histoire de Taïwan.
 
-**Soixante-six voix pour, vingt-sept voix contre.**
+**Le référendum est un revers pour le mouvement :**
 
-À l'instant du vote, les dizaines de milliers de partisans massés devant l'Assemblée poussèrent un cri d'allégresse assourdissant. Sur le boulevard Ketagalan sous la pluie, des drapeaux arc-en-ciel flottaient, des gens s'étreignaient en pleurant.
+- « Le mariage devrait être limité à un homme et une femme » : 7,65 millions de voix pour
+- « Les relations entre personnes de même sexe devraient être protégées par d’autres dispositions que celles du Code civil » : 6,4 millions de voix pour
+- « Les relations entre personnes de même sexe devraient être protégées par les dispositions du Code civil » : seulement 3,38 millions de voix pour
 
-### Une loi de compromis, mais historique
+### Les larmes du soir du référendum
 
-Cette loi est le fruit d'un compromis politique — ni une modification du Code civil, ni une loi spéciale entièrement indépendante, mais une « loi d'application ».
+Le soir du 24 novembre 2018, de nombreuses personnes LGBTQ+ et partisans ont pleuré devant les bureaux de dépouillement. Certains ont décrit cette nuit comme une douleur ressentie comme une « négation de leur existence par le vote. »
 
-**Ce que la loi prévoit :**
+Mais cet échec a également conduit à une réflexion sociale importante : **les droits fondamentaux devraient-ils être soumis au vote des majorités ?** La campagne, parsemée de peurs et de fausses informations, a également poussé la société à accorder plus d’attention à la qualité de l’information dans les débats démocratiques.
 
-- ✅ **Droit au mariage** : les couples de même sexe peuvent contracter une union matrimoniale
-- ✅ **Protection patrimoniale** : application du régime matrimonial du Code civil
-- ✅ **Décisions médicales** : droit de représentation médicale du conjoint
-- ✅ **Droits successoraux** : protection complète en matière de succession
-- ⚠️ **Adoption limitée** : initialement, seule l'adoption de l'enfant biologique du partenaire était possible
-- ⚠️ **Restrictions transfrontalières** : mariage possible uniquement avec des ressortissants de pays reconnaissant également le mariage homosexuel
-
-Malgré ces restrictions, Taïwan est devenu **le premier pays d'Asie à protéger légalement le mariage homosexuel**.
+> **⚠️ Point de vue controversé**
+> Les juristes s’accordent généralement à dire que les droits humains ne devraient pas être soumis au vote des majorités, mais les opposants insistent sur la légitimité de la procédure démocratique. Cette tension persiste dans les débats sociaux taïwanais.
 
 ---
 
-## Après le mariage : une égalité en constante évolution
+## Le 17 mai 2019 : les 66 voix historiques
 
-### L'amélioration progressive du cadre juridique
+### La Journée internationale contre l’homophobie
 
-**Janvier 2023** : le ministère de l'Intérieur assouplit les restrictions sur le mariage transfrontalier entre personnes de même sexe ; les citoyens taïwanais peuvent désormais épouser des ressortissants de la plupart des pays n'ayant pas légalisé le mariage homosexuel.
+Le 17 mai 2019 — Journée internationale contre l’homophobie — l’Assemblée législative adopte en trois lectures la loi mettant en œuvre l’interprétation n°748.
 
-**Mai 2023** : l'Assemblée législative adopte une modification permettant aux époux de même sexe d'adopter conjointement des enfants sans lien biologique avec l'un d'eux.
+**L’article clé n°4 (les couples de même sexe peuvent s’inscrire au registre du mariage) est adopté à 66 voix pour, 27 contre.**
 
-### Les chiffres des enregistrements
+Ce jour-là, une pluie fine tombe sur la ville. Les partisans ont commencé à se rassembler dès le matin autour de l’Assemblée législative, formant une foule qui s’étend de la rue Qingdao à la rue Zhongshan et à la rue Jinan.
 
-Depuis l'ouverture des enregistrements le 24 mai 2019 :
+### Une loi historique, mais compromise
 
-- **Total des enregistrements** : plus de 10 000 couples de même sexe ont complété leur enregistrement matrimonial
-- **Répartition par genre** : les couples de femmes représentent environ le double des couples d'hommes
-- **Répartition géographique** : les enregistrements ne se concentrent pas uniquement dans les grandes villes — des cas ont également été enregistrés dans des bourgs et des communes rurales
+Cette loi est le fruit de compromis politiques — ni une modification du Code civil, ni une législation indépendante complète, mais une « loi d’application ».
+
+**Contenu de la loi :**
+
+- ✅ **Droits conjugaux** : les couples de même sexe peuvent officialiser leur union
+- ✅ **Protection des biens** : application du régime de communauté légale des époux
+- ✅ **Décisions médicales** : pouvoir de représentation médicale du conjoint
+- ✅ **Droits d’héritage** : protection complète de l’héritage
+- ⚠️ **Adoption restreinte** : initialement, seul le conjoint biologique peut être adopté
+- ⚠️ **Restrictions internationales** : la loi elle-même ne le précise pas, mais l’interprétation du ministère de l’Intérieur en 2019 stipule que le pays d’origine de l’étranger doit également reconnaître le mariage pour tous pour pouvoir s’inscrire
+
+Malgré ces limites, Taïwan devient **le premier pays d’Asie à protéger légalement le mariage entre personnes du même sexe**.
+
+---
+
+## Après le mariage pour tous : l’égalité en perpétuelle évolution
+
+### L’évolution progressive de la législation
+
+**19 janvier 2023** : le ministère de l’Intérieur publie une nouvelle interprétation, permettant aux citoyens taïwanais de se marier avec un partenaire étranger de même sexe (y compris des ressortissants de Hong Kong et Macao, mais pas de la Chine continentale), indépendamment de la reconnaissance de ce mariage par le pays étranger.
+
+**16 mai 2023** : l’Assemblée législative adopte une révision en trois lectures, permettant aux conjoints de même sexe d’adopter ensemble des enfants sans lien de sang.
+
+### Statistiques du mariage pour tous
+
+Depuis le 24 mai 2019, date à laquelle l’enregistrement a été ouvert :
+
+- **Nombre total d’enregistrements** : environ 18 000 couples d’ici la fin de 2025 (9 659 couples fin 2022, plus de 10 000 en 2023)
+- **Répartition par genre** : 13 427 couples de femmes, 4 889 couples d’hommes ; les femmes représentent environ 2,7 fois les hommes
+- **Taux annuel** : environ 1 900 à 2 500 couples par an entre 2020 et 2022, puis environ 3 200 couples par an entre 2023 et 2025
 
 > **📊 Source des données**
-> Statistiques du Bureau des affaires d'état civil du ministère de l'Intérieur, données cumulées 2019-2022. Le nombre d'enregistrements annuels se stabilise progressivement, reflétant la satisfaction progressive de la demande.
+> Statistiques du ministère de l’Intérieur, du 24 mai 2019 au 31 décembre 2025, compilées à partir de la table statistique de Wikipédia « Mariage pour tous à Taïwan ».
 
 ---
 
-## La Marche des fiertés de Taipei : la capitale arc-en-ciel de l'Asie
+## La marche arc-en-ciel de Taipei : la capitale arc-en-ciel d’Asie
 
 ### De 1 000 à 100 000 participants
 
-**2003** : création de la Marche des fiertés de Taipei, avec environ 1 000 participants
-**2014** : plus de 65 000 participants, devenant la plus grande marche des fiertés d'Asie
-**Ces dernières années** : le nombre de participants se maintient régulièrement au-dessus de 100 000
+**2003** : création de la marche arc-en-ciel de Taipei, avec quelque mille participants
+**2014** : les organisateurs estiment à 65 000 le nombre de participants
+**Ces dernières années** : les organisateurs estiment entre 120 000 et 180 000 participants (120 000 en 2022, 176 000 en 2023, 180 000 en 2024)
 
-Chaque dernier samedi d'octobre, le centre de Taipei est envahi de drapeaux arc-en-ciel. Les participants incluent des membres des communautés LGBT, des alliés hétérosexuels, des délégations d'entreprises, des représentants diplomatiques étrangers et des voyageurs internationaux — formant le plus grand festival de l'égalité des genres en Asie.
+Chaque dernier samedi d’octobre, le centre de Taipei est envahi par des drapeaux arc-en-ciel. Les participants incluent des membres de la communauté LGBTQ+, des alliés hétérosexuels, des équipes d’entreprise, des diplomates étrangers et des touristes internationaux, formant le plus grand festival de l’égalité de genre en Asie.
 
-### Les marches locales essaiment partout
+### Les marches locales s’expriment partout
 
-Au-delà de Taipei, des marches des fiertés ont été organisées à Kaohsiung (depuis 2011), Taichung, Tainan et Hualien. L'essor des marches locales montre que les questions de genre ont dépassé les grandes métropoles pour toucher l'ensemble du territoire.
+En dehors de Taipei, les villes de Kaohsiung (depuis 2010), Taichung, Tainan et Hualien organisent également des marches pour la fierté. Le développement de ces marches locales montre que les questions de genre ont émergé des milieux urbains vers l’ensemble de l’île.
 
-**La Marche des fiertés de Taipei attire un grand nombre de personnes LGBT d'Asie du Sud-Est et d'Asie de l'Est qui font spécialement le voyage, conférant à Taïwan le statut de « capitale asiatique accueillant les personnes LGBT ».**
-
----
-
-## Une portée internationale : le phare de l'Asie
-
-### Un effet d'entraînement
-
-**23 janvier 2025** : la loi thaïlandaise sur le mariage homosexuel entre en vigueur, faisant de la Thaïlande le deuxième pays d'Asie à légaliser le mariage entre personnes de même sexe. Le processus législatif thaïlandais s'est largement inspiré de l'expérience taïwanaise.
-
-Les mouvements LGBT au **Japon, en Corée du Sud, au Vietnam et aux Philippines** ont tous puisé dans le cas taïwanais stratégies et courage. Taïwan a prouvé qu'**une société asiatique peut tout à fait construire un système de droits humains progressiste tout en préservant ses traditions culturelles**.
-
-### Un vecteur de soft power
-
-La légalisation du mariage homosexuel a renforcé l'image internationale de Taïwan comme « phare des droits humains en Asie ». Face aux défis diplomatiques persistants, l'égalité des genres est devenue un domaine clé par lequel Taïwan affirme ses valeurs au monde.
-
-**Les organisations internationales de défense des droits humains saluent Taïwan comme « un modèle de démocratie et de droits humains en Asie », ce qui contribue positivement au rayonnement international de l'île.**
+**La marche arc-en-ciel de Taipei attire de nombreux participants LGBTQ+ d’Asie du Sud-Est et d’Asie de l’Est, faisant de Taïwan un « capitale arc-en-ciel d’Asie ».**
 
 ---
 
-## Une révolution inachevée
+## Signification internationale : un phare pour l’Asie
+
+### Un effet d’exemple
+
+**23 janvier 2025** : la Thaïlande adopte sa loi sur le mariage pour tous, devenant le premier pays d’Asie du Sud-Est à reconnaître le mariage entre personnes du même sexe.
+
+Les mouvements LGBTQ+ au Japon, en Corée du Sud, au Vietnam et aux Philippines ont tous puisé dans l’expérience taïwanaise pour leurs stratégies et leur courage. Taïwan a prouvé que **les sociétés asiatiques peuvent respecter les traditions culturelles tout en érigeant des institutions progressistes pour les droits humains**.
+
+### Une démonstration de puissance douce
+
+La législation sur le mariage pour tous a renforcé l’image internationale de Taïwan en tant que « phare des droits humains en Asie ». Dans un contexte de défis diplomatiques, les droits de genre sont devenus un domaine clé pour faire connaître les valeurs de Taïwan au monde.
+
+---
+
+## La révolution inachevée
 
 ### Les questions encore en suspens
 
-**Droits des personnes transgenres** : le changement de mention de sexe sur la carte d'identité exige toujours une preuve chirurgicale, ce qui soulève des controverses sur le plan des droits humains
+**Droit des transgenres** : selon l’interprétation du ministère de l’Intérieur, le changement du sexe sur les papiers d’identité exige toujours un diagnostic psychiatrique et une chirurgie d’amputation des organes génitaux ; d’ici juillet 2026, 12 personnes transgenres ont déjà gagné leur affaire par voie administrative, mais le système lui-même n’a pas encore été modifié.
 
-**Législation anti-discrimination** : Taïwan ne dispose pas d'une législation globale contre la discrimination ; les protections contre les discriminations au travail et dans l'éducation restent insuffisantes
+**Loi anti-discrimination** : Taïwan manque d’une législation globale contre la discrimination, et la protection contre les discriminations dans les lieux de travail et l’éducation est insuffisante.
 
-**Personnes LGBT dans les zones rurales** : les personnes LGBT vivant hors des grandes villes se heurtent encore à des inégalités de ressources et d'acceptation sociale
+**Personnes LGBTQ+ en zone rurale** : les communautés en dehors des grandes villes font encore face à des défis en termes de ressources et d’acceptation sociale.
 
-**Soins aux personnes LGBT âgées** : un système de soins de longue durée adapté aux besoins des personnes LGBT reste à construire
+**Soins aux personnes âgées LGBTQ+** : il n’existe pas encore de système de soins adapté aux personnes LGBTQ+ âgées.
 
-### Un dialogue social permanent
+### Un dialogue social continu
 
-Depuis la légalisation du mariage homosexuel, la société taïwanaise aborde les questions de genre avec une maturité croissante. **La discussion est passée de « peuvent-ils se marier ? » à « comment vivre ensemble », de l'égalité juridique à l'inclusion sociale.**
+Depuis l’adoption de la loi sur le mariage pour tous, les débats sociaux à Taïwan sur les questions de genre se sont fait plus mûrs. **On est passé de « est-ce que nous pouvons nous marier ? » à « comment pouvons-nous vivre ensemble ? »**, et des égalités juridiques aux solidarités sociales.
 
-**L'éducation à l'égalité des genres, la diversité en milieu professionnel, les services de santé respectueux de toutes les identités** — voilà les prochains terrains de l'égalité des genres à Taïwan.
-
----
-
-## Pourquoi cela compte
-
-La légalisation du mariage homosexuel à Taïwan dépasse largement la seule question du mariage :
-
-**Épreuve de la qualité démocratique** : la façon dont une société traite ses minorités est un indicateur essentiel de sa maturité démocratique
-
-**Redéfinition des valeurs asiatiques** : Taïwan a montré que le respect des traditions et la protection des droits humains peuvent coexister
-
-**La victoire de l'État de droit** : de la demande individuelle à l'interprétation constitutionnelle, le système juridique a démontré sa capacité à protéger les plus vulnérables
-
-**Un symbole de progrès social** : du « crime » sous la loi martiale au « droit » sous la démocratie, cette trajectoire reflète l'avancement civilisationnel de toute une société
-
-> **✦** « Ce n'est pas seulement un changement de loi, c'est un progrès de la civilisation. Chaque couple qui peut désormais se marier légalement est le témoin vivant de la dignité humaine protégée. »
+**L’éducation à l’égalité entre les sexes, la coexistence diversifiée dans les lieux de travail, les environnements médicaux accueillants** — voilà les prochains champs de bataille pour les droits de genre à Taïwan.
 
 ---
 
-De la première demande de Chi Chia-wei sous la loi martiale en 1986 au vote historique de l'Assemblée législative en 2019 ; d'une guerre solitaire à un défilé arc-en-ciel rassemblant des dizaines de milliers de personnes — Taïwan a cheminé pendant trente-trois ans.
+## Pourquoi cela importe ?
 
-Cette histoire nous dit : **le changement ne se produit pas du jour au lendemain, mais tant que quelqu'un accepte de se lever, tant que l'État de droit peut fonctionner, l'égalité et la dignité finissent par arriver.**
+La portée de la législation sur le mariage pour tous à Taïwan va bien au-delà du mariage lui-même :
 
-L'expérience de Taïwan dit aussi au monde entier : dans un monde fracturé par tant de divisions, l'amour est précisément ce qui n'a pas besoin d'être classifié.
+**Un test de la maturité démocratique** : la manière dont une société traite ses minorités est un indicateur clé de sa maturité démocratique.
 
-## Références
+**Une redéfinition des valeurs asiatiques** : Taïwan prouve que le respect des traditions et la protection des droits humains peuvent coexister.
 
-- [BBC Chinese : Trente ans de mouvement LGBT à Taïwan — témoignages sur l'adoption de la loi spéciale sur le mariage homosexuel](https://www.bbc.com/zhongwen/trad/chinese-news-48368470)
-- [Yuan judiciaire : Interprétation n° 748](https://cons.judicial.gov.tw/docdata.aspx?fid=100&id=310929)
-- [CNA : Premier en Asie — l'Assemblée législative adopte la loi sur le mariage homosexuel en troisième lecture](https://www.cna.com.tw/news/firstnews/201905175004.aspx)
-- [Assemblée législative : Loi d'application de l'interprétation n° 748 du Yuan judiciaire](https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=33324&pid=183416)
-- [Amnesty International : Taiwan becomes first in Asia to legalize same-sex marriage](https://www.amnesty.org/en/latest/press-release/2019/05/taiwan-same-sex-marriage-law/)
+**Une victoire de l’état de droit** : du dépôt individuel d’une pétition au référendum constitutionnel, cela montre la capacité du système juridique à protéger les groupes vulnérables.
+
+**Un symbole de progrès social** : du « crime » durant la martialité aux « droits » à l’ère démocratique, cela reflète l’ensemble du progrès civilisationnel de la société.
+
+---
+
+De la première pétition de Chi Chia-wei pendant la martialité en 1986 aux votes historiques à l’Assemblée législative en 2019 ; d’une lutte solitaire à des dizaines de milliers de participants à la marche arc-en-ciel — Taïwan a mis 33 ans.
+
+Cette histoire nous enseigne une chose : **le changement ne se produit pas du jour au lendemain, mais tant qu’il y a quelqu’un pour se battre, et que le système juridique fonctionne, l’égalité et la dignité finiront par l’emporter.**
+
+L’expérience de Taïwan envoie également un message au monde entier : dans ce monde divisé, **l’amour est la chose qui a le moins besoin d’être catégorisée**.
+
+## Sources
+
+- [BBC Chinese : 30 ans de mouvement LGBTQ+ à Taïwan : témoignage de l’adoption de la loi sur le mariage pour tous](https://www.bbc.com/zhongwen/trad/chinese-news-48368470)
+- [Conseil judiciaire : interprétation n°748](https://cons.judicial.gov.tw/docdata.aspx?fid=100&id=310929)
+- [Agence centrale de presse : le mariage pour tous est le premier en Asie, l’Assemblée législative adopte la loi en trois lectures](https://www.cna.com.tw/news/firstnews/201905175004.aspx)
+- [Assemblée législative : loi mettant en œuvre l’interprétation n°748 du Conseil judiciaire](https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=33324&pid=183416)
+- [Amnesty International : Taïwan devient le premier pays d’Asie à légaliser le mariage pour tous](https://www.amnesty.org/en/latest/press-release/2019/05/taiwan-same-sex-marriage-law/)
