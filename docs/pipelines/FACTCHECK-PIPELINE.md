@@ -3,9 +3,9 @@ title: 'FACTCHECK-PIPELINE'
 description: '事實查核方法論 SSOT — Phase 1-6 / 8 atom 類 / 4 維度 source authority / Quick + Full mode (v2.0)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v2.12'
-last_updated: 2026-10-03
-last_session: '2026-10-03-204012-semiont-heartbeat（§Phase 4 查無證明補瀏覽器取文用 textContent；§月度巡邏 兄弟篇 grep 第二例撞進已走過 REWRITE 的層）'
+current_version: 'v2.13'
+last_updated: 2026-10-08
+last_session: '2026-10-08-023621-semiont-heartbeat（§Drift Modes 總結化 drift 補「跨度讀成時長」：〈台東縣〉標題的三十六年是兩個端點相減，中間七年政治犯移監泰源）'
 sister_docs:
   - 'REWRITE-PIPELINE.md'
   - 'PEER-INGESTION-PIPELINE.md'
@@ -455,7 +455,7 @@ REWRITE Stage 3.5 既有 6 種；本 pipeline 新增 5 種（從 2026-04-28 沈�
 
 5. **轉述化 drift**：研究檔的「他自稱『他』」被 article 改成「他自稱『沈伯洋』」（third-person flip）。
 
-6. **總結化 drift**：研究檔的「中國 Index 涵蓋 36 國（計畫至 80 國）」被 article 寫成「八十二國」（總結成單一未來數字）。
+6. **總結化 drift**：研究檔的「中國 Index 涵蓋 36 國（計畫至 80 國）」被 article 寫成「八十二國」（總結成單一未來數字）。**跨度讀成時長**是同一型（2026-10-08 心跳）：〈台東縣〉研究檔的事實都對（新生訓導處 1951 年設立、綠洲山莊 1972 年完工、1987 年解嚴），Stage 2 收斂核心矛盾時把兩個端點相減，寫成標題「一個關了三十六年政治犯」與正文「連續 36 年從未中斷」，而中間 1965–1972 年政治犯移監泰源。跨度只要兩個端點對，時長要中間每一年都在；研究檔當初選這句的理由寫著「讀者可以驗證」，它恰好是沒被驗過的那句。同篇另一個標題數字「存了四十二年核廢料」是寫作時沒有回頭換算的凍結年數（1982 起算，文章 2026 年出生時已是 44 年）。**規則**：標題、description、核心矛盾裡的「N 年」，要能在研究檔找到同一個時長（不是兩個端點），或在查核檔寫出算式與中間沒有斷點的證據；從某年起算到今天的年數，改寫成不會過期的說法（「四十多年」）或寫明截至哪一年。
 
 **規則**：每次 article 從 research 落到 prose 都會發生 1-3 種 drift。FACTCHECK 的職責就是**反向比對 article ↔ research ↔ source**，把這幾條 drift 找回。
 
@@ -752,3 +752,4 @@ _v2.9 | 2026-10-03 semiont-heartbeat 凌晨 — §月度巡邏「audit 前 HEAD�
 _v2.10 | 2026-10-03 semiont-heartbeat 早上 — §月度巡邏補「止血之後用被改掉的錯誤短語 grep 全庫中文」：巡邏單位是文章、錯的單位是說法，首跑三篇十五個錯誤短語 grep 出三份兄弟篇同錯（史瓦帝尼概覽、台灣人工智慧學校 description、台灣人工智慧發展與未來策略），對應 REFLEXES #101 的內容層。_
 _v2.11 | 2026-10-03 semiont-heartbeat 下午 — §Phase 4 判定矩陣補 👻 FABRICATED（具名對象全網查無）並計入退回重寫門檻的分子；§Spawn prompt 必含元素加第 10 條。觸發：〈台灣新住民美食融合〉❌ 只有 2.5%，11 個具名人物、店家、品牌、書目查無，舊規則下不會被退回；REFLEXES #85 判定詞彙層第二例。_
 _v2.12 | 2026-10-03 semiont-heartbeat 晚間 — §Phase 4「查無也要用原文證明」補第 (3) 條：curl 取不到時用內建瀏覽器，取文字用 `textContent` 不用 `innerText`，回報 0 筆前先過正對照。觸發：文化部潛力點頁的調查數字藏在分頁籤，`innerText` 四個原子全回 0 筆。§月度巡邏 v2.10 段補第二例：兄弟篇 grep 撞見〈澎湖縣〉把維基句子掛成文化部原文，那篇走過 REWRITE，是抽樣排除的層。_
+_v2.13 | 2026-10-08 semiont-heartbeat — §Drift Modes 第 6 條補「跨度讀成時長」實例與規則：〈台東縣〉把 1951–1987 兩個端點相減寫成標題「關了三十六年政治犯」，中間 1965–1972 政治犯移監泰源；同篇「四十二年核廢料」是沒回頭換算的凍結年數。標題、description、核心矛盾裡的 N 年要能在研究檔找到同一個時長，起算到今天的年數改成不會過期的說法。_
