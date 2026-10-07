@@ -418,12 +418,16 @@ def verify_one(zh_path: str, trans_path: str, log: Logger) -> tuple[bool, Option
     # 病——只接在委派層（write-agent-brief「量級可疑 = 0」），本產線從沒呼叫過。
     # ar〈台灣同婚與性別平權〉把公投 640萬／338萬 譯成 640／338 مليون（差 100 倍），
     # 過了上面全部閘門；存量量到 511 篇 1,041 處（vi 億→tỷ 差 10 倍、hi 萬→lakh 最多）。
-    # exit 1 = 有可疑；其他非零（含 2 = 路徑看不出語言）是工具自己的事，不擋。
+    # 只認印出「N 處量級可疑」的 exit 1；其他非零是工具自己的事，不擋。
+    # zh_path 在這裡是相對 knowledge/ 的（`Society/x.md`），檢查器要的是倉庫路徑——
+    # 上線第一版直接傳 zh_path，檢查器 FileNotFoundError 也是 exit 1，每篇都被誤擋
+    # （de〈同婚〉那次記成 magnitude[?]，壞/好兩頭對照時餵的是 knowledge/ 路徑才沒看見）。
+    zh_repo = zh_path if zh_path.startswith("knowledge/") else f"knowledge/{zh_path}"
     r5 = subprocess.run(
-        ["python3", "scripts/tools/lang-sync/numeral-magnitude-check.py", zh_path, trans_path],
+        ["python3", "scripts/tools/lang-sync/numeral-magnitude-check.py", zh_repo, trans_path],
         cwd=REPO, capture_output=True, text=True,
     )
-    magnitude_fail = r5.returncode == 1
+    magnitude_fail = r5.returncode == 1 and "處量級可疑" in r5.stdout
     ok = (out1.get("fails", 1) == 0 and not leak_fail and not health_fail
           and not currency_fail and not magnitude_fail)
     if ok:
