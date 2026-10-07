@@ -52,7 +52,7 @@ Qi Jiawei (祁家威), damals 60 Jahre alt, war bei dieser Hochzeit anwesend und
 
 ### 1986: Eine Pressekonferenz, die das Schicksal veränderte
 
-Anfang der 1980er Jahre war Taiwan noch unter Kriegsrecht (戒嚴).
+Anfang 1986 stand Taiwan noch unter Kriegsrecht (戒嚴).
 
 Qi Jiawei (祁家威) hielt Anfang 1986 in einem McDonald's in Taipeh eine internationale Pressekonferenz ab und machte seine Homosexualität öffentlich bekannt – er wurde später als das erste offen homosexuelle Mitglied Taiwans bezeichnet. Er lud internationale Medien wie Reuters ein, um darüber zu berichten, und förderte gleichzeitig die HIV-Prävention; damals war er 27 Jahre alt.
 

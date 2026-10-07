@@ -52,7 +52,7 @@ Qi Jiawei, aged 60 at the time, attended that ceremony, wearing a bright red sui
 
 ### 1986: A Press Conference That Changed Destiny
 
-In the early 1980s, Taiwan was still under martial law.
+In early 1986, Taiwan was still under martial law.
 
 Qi Jiawei held an international press conference at a McDonald's in Taipei, coming out publicly and later becoming known as Taiwan's first openly gay individual. He invited international media, such as Reuters, to report on the event while also promoting AIDS prevention; he was 27 years old that year.
 
