@@ -438,10 +438,11 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **觸發**：2026-10-02 06:13 刷新後心臟 70→90，文章總數仍 1123，`articlesLast7Days` 8→15、`selfProducedLast7Days` 0、`contributedLast7Days` 15。多出來的七篇對得上 10-01 16:36 與 20:35、10-02 02:35 三輪心跳巡邏的 heal commit。前一天 data-refresh 的 memory 把 8 讀成「七天八篇新文全靠投稿」，部分是這個量法造成的誤讀。→ memory/2026-10-02-060323-twmd-data-refresh-am.md
 - **instances**：
   - 2026-10-03 twmd-data-refresh-am：刷新後 `articlesLast7Days` 15→30、`contributedLast7Days` 30、`selfProducedLast7Days` 0，文章總數仍 1123；10-02 06:10 之後 git log 有 21 個 heal commit（三輪心跳巡邏＋babel 修補）。心臟仍 90（>10 篇封頂），所以這輪分數沒動，但「投稿 30 篇」這個讀數已是全量誤讀。→ memory/2026-10-03-060753-twmd-data-refresh-am.md
+  - 2026-10-08 twmd-data-refresh-am：額度停擺五天後第一次刷新，`articlesLast7Days` 30→41、`contributedLast7Days` 41、`selfProducedLast7Days` 0，文章總數仍 1123。窗口內 zh 文章的 heal／evolve commit 39 個（巡邏修正同婚、台東縣、捷運史、澎湖縣等）。同一窗口 `git log --diff-filter=A` 的 zh 新增檔案是 0，讀數卻創新高：量的是修改，所以只要巡邏在跑，「投稿」就會漲。→ memory/2026-10-08-060257-twmd-data-refresh-am.md
 - **候選機械化**：分出「新進庫」（git 首次出現日）與「有更新」兩個欄位，心臟分數只吃前者；自產／投稿拆分也改用首次進庫。動心臟公式是閾值調整（BECOME §行動鐵律 10），先用近 30 天真實資料比較新舊分數（REFLEXES #66）。
 - **可能層級**：操作規則（generate-dashboard-data.js 心臟格）
 - **相關**：REFLEXES #38（混維度）：「被改過」跟「進庫」兩種事件共用一個計數；差異在本例的混維度還流進下游的自產／投稿拆分，把自己做的事記成別人做的
-- **verification_count**: 2
+- **verification_count**: 3
 
 ### 2026-10-02 semiont-heartbeat — patrol-sampling-ignores-featured-exposure：巡邏抽樣把譯本數當放大係數，卻沒把 featured 算進去，而 featured 未審初稿是曝光最高的那一層
 
