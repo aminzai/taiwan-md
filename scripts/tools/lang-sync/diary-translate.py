@@ -44,7 +44,7 @@ from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent.parent.parent
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from langs import ALL_TRANSLATION_LANGS  # noqa: E402 — SSOT: src/config/languages.mjs
+from langs import ALL_TRANSLATION_LANGS, DIARY_PROJECTION_LANGS  # noqa: E402 — SSOT: src/config/languages.mjs
 DIARY_ZH = REPO / "docs/semiont/diary"
 CREDS = Path.home() / ".config/taiwan-md/credentials"
 OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions"
@@ -426,14 +426,17 @@ def main():
     # 問題就只有五語。babel routine 的 §義務鐵律寫明「語言數以 registry 為準」，
     # 但 2026-07-18 出生戰役那次 python 工具鏈去硬編碼沒走到這支（它不在
     # lang-sync 主線上），於是同一個病在認知層又活了兩個月沒人看見。
-    ap.add_argument("--langs", default=",".join(ALL_TRANSLATION_LANGS),
-                    help="Langs (comma-separated；預設＝registry 全語言)")
+    # 2026-10-07：預設改成 DIARY_PROJECTION_LANGS（OBSERVER-QUEUE #77 缺席預設 B：
+    # 日記暫定停在五語）。registry 另外七語的缺口仍看得見——`--status` 會多印一行
+    # 說明它們是「決定不投影」而不是「漏翻」，`--langs all` 可以量整張 registry。
+    ap.add_argument("--langs", default=",".join(DIARY_PROJECTION_LANGS),
+                    help="Langs (comma-separated；預設＝DIARY_PROJECTION_LANGS；all＝registry 全語言)")
     ap.add_argument("--top", type=int, help="Limit to latest N diaries by mtime")
     ap.add_argument("--dry-run", action="store_true", help="Show what would be translated")
     ap.add_argument("--status", action="store_true", help="Show present/missing status")
     args = ap.parse_args()
 
-    langs = args.langs.split(",")
+    langs = ALL_TRANSLATION_LANGS if args.langs == "all" else args.langs.split(",")
 
     if args.status:
         status = aggregate_status(langs)
@@ -444,6 +447,10 @@ def main():
         for lang, count in status["present_per_lang"].items():
             missing = len(status["missing_per_lang"][lang])
             print(f"  {lang}: {count} present, {missing} missing")
+        unprojected = [l for l in ALL_TRANSLATION_LANGS if l not in langs]
+        if unprojected:
+            print(f"\nℹ️  registry 另有 {len(unprojected)} 語不在本次量測範圍（{', '.join(unprojected)}）——"
+                  f"預設範圍是 OBSERVER-QUEUE #77 決定的日記投影語言，不是漏翻；`--langs all` 看整張缺口")
         return
 
     if args.tier and args.lang and args.diary:

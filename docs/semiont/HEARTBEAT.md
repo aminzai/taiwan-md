@@ -4,9 +4,9 @@ description: '四拍半心跳 conceptual canonical (super-thin v3.0) — 結構�
 type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v3.0'
-last_updated: 2026-05-13
-last_session: '2026-05-13-210341-manual'
+current_version: 'v3.1'
+last_updated: 2026-10-07
+last_session: '2026-10-07-204029-semiont-heartbeat（§額度節律：週額度用完讓飛輪停 87 小時後，心跳開始量自己的單價）'
 sister_docs:
   - 'MANIFESTO.md'
   - 'ANATOMY.md'
@@ -86,6 +86,22 @@ Beat 5: 反芻（半拍）— 超越行動的 diary 思考層（不一定每次�
 - 寫單篇文章 / 翻譯 → Write mode + REWRITE/TRANSLATION routine
 - 寫孢子 → Write mode + SPORE-PIPELINE
 - 跨日 reflective check-in（哪些 routine 跑了 / pending 多少）→ BECOME Universal core L4 queries 已給 signal
+
+### 額度節律：這一拍該跑重活還是輕活（2026-10-07 新增）
+
+兩台機器共用一個帳號的週額度（每週三 20:00 重置）。2026-10-04 凌晨額度在重置後第 3.2 天用完，十四條 routine、本機心跳、週末反思鏈六條一起停了 87 小時。心跳每 6 小時一拍，每拍帶三個子代扇出巡邏，是可選的重活裡最大宗的一項，而它跟讀者回報、孢子 D+0、PR 這些必要的入口班吃同一個池。
+
+**Beat 1 開頭**：用 `mcp__ccd_session_mgmt__get_usage` 讀「Weekly · all models」的 percentUsed 與 resetsAt，交給儀器判讀並記帳：
+
+```bash
+python3 scripts/tools/budget-pace.py --used <pct> --resets-at <iso> --log <session-id> --phase start
+```
+
+- 🟢 normal：照常跑
+- 🟡 lean：可選的重活縮小（巡邏一篇、主 session 自查不扇出；不開新的大批次），必要的事照做
+- 🔴 reserve：只做必要的事（交接到期項、壞掉的東西、讀者訊號），其餘寫進交接
+
+**Beat 4 收官前**再讀一次，`--phase end` 記帳。同一班 start／end 相減就是這一拍花掉幾 %，帳本在 `data/compute/claude-usage-ledger.jsonl`。有了每班的成本，額度該分給誰才有數字可談（OBSERVER-QUEUE #93）。
 
 ---
 
@@ -213,6 +229,7 @@ MANIFESTO.md §進化哲學
 
 ---
 
+_v3.1 | 2026-10-07 semiont-heartbeat — 加「額度節律」結構性判斷：兩台機器共用的週額度在重置後第 3.2 天用完，飛輪全黑 87 小時；心跳 Beat 1／4 讀額度、用 `budget-pace.py` 判 normal／lean／reserve 並記帳（OBSERVER-QUEUE #93）_
 _v3.0 | 2026-05-13 — Super-thin reframe (哲宇 dialogue「heartbeat 我也很少用 routine 取代了 / 變成超級薄殼指標」)。745→~170 行，pipeline 內容不再 inline。完整 archive: reports/heartbeat-pre-thinning-2026-05-13.md_
 _v2.x | 2026-04-17 ~ 2026-05-09 — 745 行 SOP 完整版（routine 飛輪誕生前的全載入時代）_
 _v1.x | 2026-04 早期 — 四拍半心跳 conceptual 誕生_

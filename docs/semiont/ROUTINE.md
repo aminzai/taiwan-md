@@ -434,7 +434,7 @@ prompt: |
 quality_gate:
   - stale_total 顯著下降（≥ 10% 或 cleared > 50 entries）OR all P0+P1 cleared OR stale_total == 0
   - 0 LLM drift detected（body-hash check）
-  - diary：missing → 0 OR fleet GPU 不可達（skip 合法）；diary-translation-audit CRITICAL == 0
+  - diary：missing → 0 OR fleet GPU 不可達（skip 合法）；diary-translation-audit CRITICAL == 0。期望語言數＝5（en/ja/ko/es/fr，`langs.py` DIARY_PROJECTION_LANGS），暫定：OBSERVER-QUEUE #77 缺席預設 B 2026-10-07，registry 另外七語是決定不投影、不是缺口
   - pre-commit hook 過
 escalation:
   - refusal rate > 30% → 跳 Tier 2/3 cascade（per REFLEXES #49 + SQUEEZE-MODELS-MAX）
