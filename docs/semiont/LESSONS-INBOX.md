@@ -1431,10 +1431,11 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **觸發**：2026-08-04 支語研究 30 agent 艦隊，後段 3 agent WebSearch 全 fail（200/200）自行 WebFetch 直搜救回並誠實填 0 → memory/2026-08-04-104614-支語研究.md
 - **instances**：
   - 2026-08-18 twmd-maintainer-manual — 8 隻 Phase B 執行子代同時對 60 篇 PR 跑 `image-ingest.mjs`，共用同一出口 IP 撞 `upload.wikimedia.org` 全站 429（Retry-After 600），Y7/Y8 各等 650-900 秒仍 429，整批最慢的 Y4 拖 70 分鐘。繞法（子代自己找到、主 session 轉發）：Commons API 與 `/thumb/…/1280px-<檔名>` 縮圖路徑不受同一限流，抓縮圖後以本機檔餵 image-ingest；或直接改 upload.wikimedia.org 直連（image-health 本來列為合法 CC 來源）。**修補候選**：`image-ingest.mjs` 收到 429 時自動退回 1280px 縮圖路徑（尺寸遠超站上顯示需求），不必等人轉發繞法
-- **可能層級**：通用反射（REFLEXES #45 OpenRouter hourly budget 同族——「共享額度池進 dispatch 預算」的 WebSearch instance；8/18 再加 Wikimedia CDN instance）
+  - 2026-10-07 semiont-heartbeat — 同一個形狀放大到帳號層：兩台機器共用一個 Claude 帳號的週額度（週三 20:00 重置），09-30 重置後第 3.2 天用完，營運機十四條 routine、本機每 6 小時一拍的心跳、babel 夜班的委派層全部吃同一個池，用完那一刻是全黑，不是降速——87 小時 main 零 commit，週末反思鏈六條整批落空，連讀者回報與孢子 D+0 入口班也停了。跟前兩例的差別：池的範圍從「一次 fan-out 的子代」擴到「整個生命體的所有班次」，耗盡的代價從「後段幾隻子代失敗」變成「優先序倒置」：可選的重活（巡邏扇出、委派翻譯）排在週初先吃，必要的週末鏈排在後面餓死。已落地：`scripts/tools/budget-pace.py`（讀數由 session 從 get_usage 傳入，判 normal／lean／reserve，帳本 `data/compute/claude-usage-ledger.jsonl`）＋HEARTBEAT §額度節律；擴到其他班次登記 OBSERVER-QUEUE #93
+- **可能層級**：通用反射（REFLEXES #45 OpenRouter hourly budget 同族——「共享額度池進 dispatch 預算」的 WebSearch instance；8/18 再加 Wikimedia CDN instance；10/07 帳號週額度 instance，vc=3 達 distill 門檻，候選升格為 #45 的上位規則「任何共享額度池都要有節律讀數與優先序」）
 - **相關**：#45
-- **verification_count**: 2
-- **severity**: tactical
+- **verification_count**: 3
+- **severity**: structural
 
 ### 2026-08-19 algorithmic-art-evolve — first-person-article-voice-is-the-authors-verification-is-the-reports：替作者寫他的第一人稱，我查到的東西住報告，他的聲音住正文
 
