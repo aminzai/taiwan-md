@@ -1,7 +1,7 @@
 ---
 title: 'reports/ INDEX — auto-generated'
 description: '頂層 *.md 按 9 type bucket × 月份 雙軸索引 + 子目錄 status summary'
-last_generated: 2026-10-03 06:06
+last_generated: 2026-10-08 06:06
 generator: scripts/tools/generate-reports-index.py
 ssot: reports/reports-archival-audit-2026-05-27.md §4 Layer 3
 type: auto-index
@@ -12,13 +12,13 @@ type: auto-index
 > **本 file 由 `scripts/tools/generate-reports-index.py` 完全 overwrite**。
 > 不要人工編輯（會被下一次 cron 覆蓋）。
 >
-> Last generated: **2026-10-03 06:06** · 頂層 \*.md 共 **297** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
+> Last generated: **2026-10-08 06:06** · 頂層 \*.md 共 **297** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
 
 ## 📦 子目錄 status
 
 | Subdir                           | Files | Size     | 用途                                                 |
 | -------------------------------- | ----: | -------- | ---------------------------------------------------- |
-| `research/`                      |   654 | 34.2 MB  | REWRITE-PIPELINE Stage 1 canonical (year-month 分槽) |
+| `research/`                      |   665 | 35.2 MB  | REWRITE-PIPELINE Stage 1 canonical (year-month 分槽) |
 | `staging/`                       |   283 | 4.6 MB   | —                                                    |
 | `editorial-room/`                |   102 | 791.0 KB | —                                                    |
 | `weekly/`                        |    42 | 8.7 MB   | Self-evolve weekly digest                            |
@@ -29,7 +29,7 @@ type: auto-index
 | `archive/`                       |    28 | 372.2 KB | 歸檔位置 (per audit Layer 4)                         |
 | `project-deep-audit-2026-09-07/` |    22 | 528.3 KB | —                                                    |
 | `maintainer/`                    |    16 | 308.9 KB | —                                                    |
-| `babel/`                         |    13 | 9.1 MB   | —                                                    |
+| `babel/`                         |    15 | 9.1 MB   | —                                                    |
 | `news-lens/`                     |    12 | 247.5 KB | —                                                    |
 | `factcheck/`                     |     9 | 98.7 KB  | —                                                    |
 | `probe/`                         |     9 | 162.0 KB | BECOME §Step 7 探測器報告                            |
@@ -41,11 +41,11 @@ type: auto-index
 | `terminology-review/`            |     5 | 1.8 MB   | —                                                    |
 | `translation-research/`          |     5 | 338.0 KB | 巴別塔 5 lang research                               |
 | `music-media-audit/`             |     4 | 115.5 KB | Music 條目 media audit (json + md)                   |
-| `404-monitor/`                   |     2 | 200.9 KB | —                                                    |
+| `404-monitor/`                   |     2 | 200.1 KB | —                                                    |
 | `article-staging/`               |     2 | 104.9 KB | —                                                    |
 | `fork-census/`                   |     2 | 39.3 KB  | —                                                    |
 | `harvest/`                       |     2 | 14.3 KB  | Harvest engine 紀錄                                  |
-| `newsroom/`                      |     2 | 119.1 KB | —                                                    |
+| `newsroom/`                      |     2 | 120.5 KB | —                                                    |
 | `terminology-trends/`            |     2 | 30.0 KB  | —                                                    |
 | `audit/`                         |     1 | 20.7 KB  | —                                                    |
 | `orphan-rescue/`                 |     1 | 52.5 KB  | —                                                    |

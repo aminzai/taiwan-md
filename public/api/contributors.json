@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-10-02T22:05:54.948Z",
+  "lastUpdated": "2026-10-07T22:05:56.364Z",
   "totals": {
-    "contributors": 77,
+    "contributors": 78,
     "activeWindow": "last 30d"
   },
   "leaderboard": [
     {
       "login": "frank890417",
-      "commits": 9883,
+      "commits": 9927,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-10-03 03:05:04 +0800",
+      "lastCommitAt": "2026-10-08 03:05:54 +0800",
       "primaryArea": "system",
       "breakdown": {
-        "content": 1715,
-        "system": 5083,
+        "content": 1731,
+        "system": 5109,
         "translation": 2366
       }
     },
@@ -456,11 +456,11 @@
       "types": ["🌍"]
     },
     {
-      "login": "gn00295120",
-      "name": "Lucas Wang",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/30173341?v=4",
-      "profileUrl": "https://github.com/gn00295120",
-      "types": ["💻", "🌍"]
+      "login": "LucasFutures",
+      "name": "LucasFutures",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/339159617?v=4",
+      "profileUrl": "https://github.com/LucasFutures",
+      "types": ["💻"]
     },
     {
       "login": "r000tmnt",
@@ -764,6 +764,13 @@
       "types": ["🖋️"]
     },
     {
+      "login": "gn00295120",
+      "name": "Lucas Wang",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/30173341?v=4",
+      "profileUrl": "https://github.com/gn00295120",
+      "types": ["🌍"]
+    },
+    {
       "login": "alstontsai0816",
       "name": "我們一家都很蔡",
       "avatarUrl": "https://avatars.githubusercontent.com/u/194244853?v=4",
@@ -902,15 +909,15 @@
   "topSystem": [
     {
       "login": "frank890417",
-      "commits": 9883,
+      "commits": 9927,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-10-03 03:05:04 +0800",
+      "lastCommitAt": "2026-10-08 03:05:54 +0800",
       "primaryArea": "system",
       "breakdown": {
-        "content": 1715,
-        "system": 5083,
+        "content": 1731,
+        "system": 5109,
         "translation": 2366
       }
     },
@@ -1043,7 +1050,7 @@
       }
     }
   ],
-  "weeklyActive": 2,
+  "weeklyActive": 1,
   "monthlyActive": 5,
   "recentlyJoined": []
 }

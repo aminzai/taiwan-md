@@ -112,11 +112,11 @@ a human — that boundary is the design, not a limitation. The full contract is
 | 📂 Categories                  | 14    |
 | 🕸️ Knowledge graph nodes       | 220+  |
 | 🔗 Resource websites           | 146+  |
-| 👥 Contributors                | 77    |
-| ⭐ GitHub Stars                | 1196  |
-| 🍴 Forks                       | 188   |
-| 📅 Articles last 7 days        | 30    |
-| 📅 Articles last 30 days       | 94    |
+| 👥 Contributors                | 78    |
+| ⭐ GitHub Stars                | 1199  |
+| 🍴 Forks                       | 187   |
+| 📅 Articles last 7 days        | 41    |
+| 📅 Articles last 30 days       | 104   |
 
 <!-- STATS:END -->
 
@@ -608,7 +608,7 @@ Thanks to these wonderful people ([emoji key](https://allcontributors.org/docs/e
     <td align="center"><a href="https://github.com/ceruleanstring"><img src="https://avatars.githubusercontent.com/u/265435204?v=4" width="100px;" alt=""/><br /><sub><b>柒藍</b></sub></a><br />🌍</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/gn00295120"><img src="https://avatars.githubusercontent.com/u/30173341?v=4" width="100px;" alt=""/><br /><sub><b>Lucas Wang</b></sub></a><br />💻 🌍</td>
+    <td align="center"><a href="https://github.com/LucasFutures"><img src="https://avatars.githubusercontent.com/u/339159617?v=4" width="100px;" alt=""/><br /><sub><b>LucasFutures</b></sub></a><br />💻</td>
     <td align="center"><a href="https://github.com/r000tmnt"><img src="https://avatars.githubusercontent.com/u/62630285?v=4" width="100px;" alt=""/><br /><sub><b>ParkCorner</b></sub></a><br />💻 🖋️</td>
     <td align="center"><a href="https://github.com/Ray0907"><img src="https://avatars.githubusercontent.com/u/29456968?v=4" width="100px;" alt=""/><br /><sub><b>Ray Tien</b></sub></a><br />💻 🖋️</td>
     <td align="center"><a href="https://github.com/wegoliao"><img src="https://avatars.githubusercontent.com/u/10190551?v=4" width="100px;" alt=""/><br /><sub><b>wegoliao</b></sub></a><br />🖋️</td>
@@ -662,12 +662,13 @@ Thanks to these wonderful people ([emoji key](https://allcontributors.org/docs/e
     <td align="center"><a href="https://github.com/AndyWang505"><img src="https://avatars.githubusercontent.com/u/71600455?v=4" width="100px;" alt=""/><br /><sub><b>Andy Wang</b></sub></a><br />💻</td>
     <td align="center"><a href="https://github.com/Aaron2464"><img src="https://avatars.githubusercontent.com/u/31269964?v=4" width="100px;" alt=""/><br /><sub><b>Aaron2464</b></sub></a><br />💻</td>
     <td align="center"><a href="https://github.com/idlccp02"><img src="https://avatars.githubusercontent.com/u/233878411?v=4" width="100px;" alt=""/><br /><sub><b>idlccp02</b></sub></a><br />🖋️</td>
+    <td align="center"><a href="https://github.com/gn00295120"><img src="https://avatars.githubusercontent.com/u/30173341?v=4" width="100px;" alt=""/><br /><sub><b>Lucas Wang</b></sub></a><br />🌍</td>
     <td align="center"><a href="https://github.com/alstontsai0816"><img src="https://avatars.githubusercontent.com/u/194244853?v=4" width="100px;" alt=""/><br /><sub><b>我們一家都很蔡</b></sub></a><br />🐛</td>
     <td align="center"><a href="https://github.com/tboydar-agent"><img src="https://avatars.githubusercontent.com/u/265199589?v=4" width="100px;" alt=""/><br /><sub><b>tboydar-agent</b></sub></a><br />🖋️</td>
     <td align="center"><a href="https://github.com/kouchun"><img src="https://avatars.githubusercontent.com/kouchun" width="100px;" alt=""/><br /><sub><b>kouchun</b></sub></a><br />🌍</td>
-    <td align="center"><a href="https://github.com/S3A432087"><img src="https://avatars.githubusercontent.com/S3A432087" width="100px;" alt=""/><br /><sub><b>S3A432087</b></sub></a><br />🌍</td>
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/S3A432087"><img src="https://avatars.githubusercontent.com/S3A432087" width="100px;" alt=""/><br /><sub><b>S3A432087</b></sub></a><br />🌍</td>
     <td align="center"><a href="https://github.com/Phaapnag"><img src="https://avatars.githubusercontent.com/Phaapnag" width="100px;" alt=""/><br /><sub><b>Phaapnag</b></sub></a><br />🌍</td>
     <td align="center"><a href="https://github.com/chaoshanhsu"><img src="https://avatars.githubusercontent.com/chaoshanhsu" width="100px;" alt=""/><br /><sub><b>chaoshanhsu</b></sub></a><br />🐛</td>
     <td align="center"><a href="https://github.com/twlilirentw-coder"><img src="https://avatars.githubusercontent.com/twlilirentw-coder" width="100px;" alt=""/><br /><sub><b>twlilirentw-coder</b></sub></a><br />🐛</td>
