@@ -1,291 +1,279 @@
 ---
-title: 'História do Metrô de Taiwan: uma evolução urbana escrita com sangue e dinheiro'
-description: 'Um feixe de 209 toneladas cai do céu matando 4 pessoas, uma indenização de 164 milhões, o metrô de Taipé ainda opera com prejuízo — o verdadeiro custo por trás do metrô de Taiwan'
+title: 'História do desenvolvimento do metro de Taiwan: uma evolução urbana escrita com sangue e dinheiro'
+description: 'Uma viga de aço de 209 toneladas caiu do céu ceifando 4 vidas, uma indenização de 16,4 bilhões, e nem o metro de Taipé, o de maior movimento, consegue cobrir seus custos operacionais só com a bilheteria — o verdadeiro preço por trás de todos os metros de Taiwan'
 date: 2026-03-23
 category: 'Lifestyle'
 tags:
   [
-    'Metrô',
+    'metro',
     'MRT',
-    'Transporte',
+    'transporte',
     'Taipé',
     'Kaohsiung',
     'Taoyuan',
     'Taichung',
-    'Desenvolvimento urbano',
-    'Vida cotidiana',
-    'Segurança no trabalho',
-    'Finanças',
+    'desenvolvimento urbano',
+    'vida quotidiana',
+    'segurança no trabalho',
+    'finanças',
   ]
 subcategory: '交通與移動'
 author: 'Taiwan.md'
 featured: true
-lastVerified: 2026-03-23
+lastVerified: 2026-10-08
 lastHumanReview: false
 readingTime: 15
 translatedFrom: 'Lifestyle/台灣捷運發展史.md'
-sourceCommitSha: '9094012f4'
-sourceContentHash: 'sha256:103cffd41c084886'
-sourceBodyHash: 'sha256:afbe1eb00070eaa4'
-translatedAt: '2026-09-08T00:42:54+08:00'
+sourceCommitSha: '6fed62193'
+sourceContentHash: 'sha256:fa054e970fa0164b'
+sourceBodyHash: 'sha256:8a8a123d1183a1a8'
+translatedAt: '2026-10-08T04:17:07+08:00'
 ---
 
-# História do Metrô de Taiwan: uma evolução urbana escrita com sangue e dinheiro
+# História do desenvolvimento do metro de Taiwan: uma evolução urbana escrita com sangue e dinheiro
 
-> **30 segundos de visão geral:** Em 30 anos, o metrô de Taiwan custou mais de 1 trilhão de dólares, mas mesmo o metrô com maior volume de passageiros em Taipé precisa depender de receitas publicitárias para ser lucrativo.
-> Desde o processo bilionário da francesa Matra, até o feixe de 209 toneladas em Taichung,
-> esta é uma história sobre ambição, custos e aprendizado.
+> **Visão geral em 30 segundos:** Em 30 anos, o metro de Taiwan consumiu mais de 1 trilhão de novos dólares taiwaneses, mas nem o metro de Taipé, o de maior movimento, consegue lucrar sem a receita de publicidade.
+> Do processo de 16,4 bilhões contra a francesa Matra, à viga de 209 toneladas que matou em Taichung,
+> esta é uma história sobre ambição, preço e aprendizagem.
 
-Em 10 de abril de 2015, às 16h58, no cruzamento de Beitun Road e Xinsheng Road em Taichung, um feixe de 209 toneladas caiu do céu de 15 metros. O feixe destruiu dois carros, matou quatro pessoas na hora e feriu outras quatro.
+A 10 de abril de 2015, às 16h58, no cruzamento da Rua Beitun com a Rua Wenxin, em Taichung, uma viga de aço do metro pesando 209 toneladas desabou do alto. A viga esmagou dois automóveis, matando 4 pessoas e ferindo outras 4.
 
-O acidente aconteceu durante o pico do horário de rush, mas o local de construção só tinha cones de proteção, sem nenhum tipo de controle de tráfego. E ainda mais absurdo: a empreiteira Far Eastern New Century havia prometido "trabalhos noturnos das 23h30 às 5h30", mas começou a operação de elevação do feixe às 15h, e só enviou um fax de notificação às 16h — não uma solicitação, apenas uma notificação.
+No momento do acidente, era hora de pico do fim de tarde, mas o canteiro de obras tinha apenas cones de sinalização como "proteção", sem interdição da via nem controle de tráfego. Mais absurdo ainda: o plano de manutenção de tráfego previa expressamente que "a construção de vigas caixão de aço deve ser executada à noite, entre 23h30 e 05h30", mas a empreiteira iniciou a montagem e o içamento das vigas pela manhã, e só às 15h15 enviou um fax à Secretaria de Transportes informando — não solicitando, apenas informando — que o içamento ocorreria às 16h.
 
-Esta tragédia paralisou completamente a construção do metrô de Taichung, adiando a inauguração por 6 anos. Ela também funciona como um espelho, refletindo a face real do desenvolvimento do metrô de Taiwan: ambicionar demais, pagar um preço impressionante e aprender com os erros de forma dolorosa.
+Essa tragédia paralisou totalmente a Linha Verde do metro de Taichung por quatro meses; a linha só entrou em operação em abril de 2021. Ela funciona como um espelho que reflete a face real do desenvolvimento do metro em Taiwan: ambição desenfreada, custos assombrosos e um processo penoso de aprendizagem a partir dos erros.
 
-## A Batalha Matra: a dura lição do primeiro metrô de Taiwan
+## A batalha da Matra: a cara mensalidade da primeira linha de metro de Taiwan
 
-Em 28 de março de 1996, a Linha Xindian (atual Linha Wenhu) foi inaugurada: o primeiro ano do metrô de Taiwan oficialmente começou. Mas este começo foi amargo.
+A 28 de março de 1996, a Linha Muzha entrou em operação: o ano zero do metro de Taiwan começou oficialmente. Mas esse começo foi amargo.
 
-As hostilidades entre a empresa francesa Matra e o governo municipal de Taipé duraram 12 anos. Matra acusou a prefeitura de "atraso no cumprimento", exigindo uma indenização astronômica; a prefeitura contra-acusou Matra de "problemas técnicos constantes, acidentes de segurança frequentes". Este processo internacional terminou com a derrota do governo municipal de Taipé — uma indenização de 164 milhões.
+A empresa francesa Matra assinou contrato com o Departamento de Metro de Taipé em 1988 para construir a Linha Muzha; depois, atrasos do empreiteiro de obras civis estenderam o prazo da Matra, que exigiu indenização de mais de 2 bilhões. A arbitragem e o processo judicial arrastaram-se por mais de doze anos; a defesa final da prefeitura foi de que o direito de reclamação da Matra havia prescrito. Em 2005, o Supremo Tribunal confirmou a condenação da prefeitura: principal mais juros, cerca de 16,4 bilhões.
 
-Na época, o prefeito de Taipé, Chen Shui-bian, indignado, declarou: "Matra não vai nos puxar, nós vamos puxar por nós mesmos", mas o preço já havia sido pago. E pior: nos primeiros meses após a inauguração da Linha Xindian, falhas eram constantes, e o povo a brincava chamando-a de "a linha com mais passageiros do que funcionários". Em 1993 também ocorreu o "incidente do cabo de transmissão seca em chamas", que fez a confiança do povo no metrô cair ao fundo.
+Fora do tribunal, a própria Linha Muzha tropeçou. Em maio e setembro de 1993, durante o período de testes, dois incêndios em composições: problemas de integração de sistemas faziam um par de eixos frear enquanto o outro ainda girava, os freios travavam, os pneus superaqueciam por atrito e pegavam fogo; a confiança do público no metro despencou. Em maio de 1996, apenas dois meses após a inauguração, a Matra retirou-se sem aviso prévio devido a disputas contratuais, e ainda proibiu os subcontratados de vender peças de reposição ao Metro de Taipé; a Linha Muzha parou quase totalmente. O então prefeito de Taipé, Chen Shui-bian, bradou: "A Matra não puxa, nós puxamos nós mesmos!"
 
 > **📝 Nota do curador**
-> Por que o primeiro metrô de Taiwan escolheu o sistema VAL da francesa Matra? A justificativa oficial era "tecnologia mais avançada", mas os rumores da indústria apontavam para uma conexão com as negociações de compra de armas do encouraçado Lâcherin e do caça Fantôme 2000. A tensão entre política e tecnologia foi escrita na primeira página do DNA do metrô de Taiwan.
+> Ao partir, a Matra levou até os manuais de manutenção essenciais e as senhas do software. O Metro de Taipé teve de desenvolver, sem apoio do fabricante original, sua própria capacidade de operação e manutenção. "Nós puxamos nós mesmos" não foi apenas um slogan.
 
-Será que a lição de 164 milhões valeu a pena? Olhando para trás hoje, a Linha Xindian (atual Linha Wenhu) provou um fato crucial: **Taiwaneses podem construir metrô.** Apesar de todos os tropeços, ele funcionou — e continua funcionando há 30 anos.
+Essa lição de 16,4 bilhões valeu a pena? Olhando hoje, a Linha Muzha (atual Linha Wenhu) provou uma coisa crucial: **os taiwaneses sabem construir metro.** Apesar do processo acidentado, ela rodou, e roda há 30 anos.
 
-## O milagre da Linha Tamsui: o verdadeiro início da cultura do metrô
+## O milagre da Linha Tamsui: o verdadeiro ponto de partida da cultura do metro
 
-Em 1997, a Linha Tamsui foi inaugurada, e o metrô de Taipé realmente decolou.
+Em 1997, a Linha Tamsui entrou em operação, e o Metro de Taipé decolou de verdade.
 
-Diferentemente da tecnologia francesa da Linha Xindian, a Linha Tamsui foi adaptada da antiga linha ferroviária Tamsui da Taiwan Railway Administration, combinando direitos de via existentes com o aprendizado de engenheiros taiwaneses. Finalmente, os taiwaneses puderam experimentar o sabor de um "metrô de classe mundial" — ar-condicionado nos vagões, painéis eletrônicos, horários precisos, acessibilidade.
+Diferente da tecnologia francesa da Linha Muzha, a Linha Tamsui aproveitou o antigo ramal ferroviário Tamsui da TRA, com faixa de domínio pronta mais o aprendizado dos engenheiros taiwaneses, permitindo finalmente que o povo de Taiwan experimentasse o gosto de um "metro de nível mundial" — carros climatizados, painéis eletrônicos, pontualidade, acessibilidade.
 
-Mais importante, a Linha Tamsui criou uma "civilitação do metrô" única em Taiwan. Proibido comer ou beber em todo o compartimento do trem, com multas de até 7.500 dólares por infração; todos os passageiros devem ficar à direita ao usar a escada rolante; silêncio absoluto dentro dos compartimentos, como uma biblioteca. Para hoje, estas regras parecem óbvias, mas na década de 1990 eram experimentos sociais revolucionários.
+Mais importante: a Linha Tamsui estabeleceu a "civilidade do metro" única de Taiwan. Proibição total de comer e beber em todos os carros, multa máxima de 7.500 novos dólares taiwaneses; nas escadas rolantes, todos ficam à direita; o interior dos carros é silencioso como uma biblioteca. Regras que hoje parecem óbvias, nos anos 1990 foram um experimento social revolucionário.
 
-> **💡 Você sabia?**
-> A proibição de alimentos no metrô de Taipé é uma das regulamentações mais rígidas de metrôs do mundo. Já um turista estrangeiro foi multado em 1.500 dólares por mastigar chiclete na plataforma, e isso chegou às notícias internacionais. Mas foi justamente esta firmeza que fez com que a limpeza dos compartimentos do metrô de Taipé se tornasse uma das impressões mais marcantes para passageiros estrangeiros.
+> **💡 Sabia que?**
+> A proibição de comer e beber no Metro de Taipé é uma das mais rigorosas do mundo entre metros. Conforme o Artigo 50 da Lei de Metro de Massa, quem comer ou beber em área proibida está sujeito a multa entre 1.500 e 7.500 novos dólares taiwaneses; a linha divisória é exatamente a linha amarela antes das catracas. Mas é justamente essa insistência que faz da limpeza dos carros do Metro de Taipé a impressão mais marcante para visitantes internacionais.
 
-Um dado crucial sobre o sucesso da Linha Tamsui: ela conectava os bairros mais densos de Taipé (Beitou, Shilin, Datong) com o centro da cidade, criando uma demanda de deslocamento imensa. O volume diário cresceu rapidamente de 40.000 passageiros para os atuais 600.000.
+O sucesso da Linha Tamsui tem um dado-chave: ela ligava as áreas residenciais mais densas de Taipé (Beitou, Shilin, Datong) ao centro, com enorme demanda de deslocamento. Quando só existia a Linha Muzha, o Metro de Taipé transportava 40 mil pessoas/dia; com a Linha Tamsui subiu para 85 mil, e à medida que a rede se expandia, o volume cresceu de verdade.
 
-**Vantagem geográfica + aprendizado técnico + construção cultural = milagre da Linha Tamsui.** Esta fórmula foi copiada por inúmeras cidades ao redor do mundo, mas raramente foi replicada com sucesso.
+**Vantagem geográfica + aprendizagem tecnológica + construção cultural = milagre da Linha Tamsui.** Essa fórmula foi copiada por inúmeras cidades, mas poucos a replicaram com sucesso.
 
-## A cruzada da Linha Bannan: a virada estratégica do metrô de Taipé
+## A rede em cruz da Linha Bannan: a virada estratégica do Metro de Taipé
 
-Em 1999, a Linha Bannan foi inaugurada, e Taipé finalmente obteve o primeiro esqueleto de "cruzamento" do metrô.
+Em 1999, a Linha Bannan entrou em operação, e Taipé finalmente teve seu primeiro "esqueleto" de metro em cruz.
 
-O significado estratégico da Linha Bannan ia além da função de transporte. Ela cortava o eixo leste-oeste mais importante de Taipé — de Banqiao, Ximending, Taipei Main Station, Zhongxiao Fuxing até Nangang — conectando áreas comerciais, políticas e de transporte. Mais importante, ela começou a "redesenhar" o mapa imobiliário de Taipé.
+O significado estratégico da Linha Bannan vai além da função de transporte. Ela atravessa o eixo leste-oeste mais nobre de Taipé — de Banqiao, Ximending, Estação Taipé, Zhongxiao Fuxing até Nangang —, conectando os núcleos comercial, político e de transportes. Mais importante: começou a "redefinir" o mapa imobiliário de Taipé.
 
-"Imóvel perto do metrô" tornou-se a palavra-chave mais poderosa nos anúncios de imóveis. Dados mostram que imóveis localizados a menos de 500 metros de uma estação do metrô têm preços em média 15-20% mais altos que os da região circundante. O centro de gravidade do desenvolvimento urbano começou a se deslocar para ao longo das linhas do metrô.
+"Perto do metro" tornou-se a palavra-chave mais forte nos anúncios imobiliários; o centro de gravidade do desenvolvimento da cidade inteira começou a se deslocar para junto das linhas de metro.
 
-Em 2006, o volume total do metrô de Taipé ultrapassou 3 bilhões de passageiros. A rede cresceu de 1 linha para 5 linhas operacionais, com mais de 1,5 milhão de passageiros por dia. O metrô deixou de ser "uma novidade" e se tornou infraestrutura básica da vida de Taipé.
+Em 2008, o Metro de Taipé ultrapassou 3 bilhões de passageiros acumulados. O metro deixou de ser "novidade" para ser infraestrutura básica da vida dos taipeses.
 
-Mas o dado mais impactante ainda estava por vir.
+Mas os dados verdadeiramente chocantes vêm a seguir.
 
-## O paradoxo do metrô de Taipé: até mesmo o mais bem-sucedido do metrô de Taiwan opera com prejuízo
+## O paradoxo do Metro de Taipé: até o metro mais bem-sucedido de Taiwan perde dinheiro
 
-O metrô de Taipé é o sistema de metrô mais movimentado e lucrativo de Taiwan, com 2 milhões de passageiros por dia e receita anual de 1,8 bilhão de dólares. Mas há um fato pouco conhecido: **as operações do metrô de Taipé têm estado operando com prejuízo desde o início.**
+O Metro de Taipé é o de maior movimento de Taiwan e um dos poucos sistemas que "ganham dinheiro"; antes da pandemia, cerca de 2 milhões de passageiros/dia. Mas há um fato pouco conhecido: **o negócio principal do Metro de Taipé dá prejuízo.**
 
-De acordo com os dados financeiros divulgados publicamente pelo diretor-geral do metrô de Taipé, Huang Qingxin, em 2019, o ano com o maior volume de passageiros, a receita de bilhetes chegou a 1,674 bilhão de dólares, mas os custos operacionais foram de 1,8 bilhão de dólares, resultando em **prejuízo operacional de 126 milhões de dólares**.
+O diretor-geral Huang Qingxin, em entrevista de 2022, folheou o balanço: em 2019, ano de pico de movimento, a receita de bilheteria foi de 16,74 bilhões, mas o custo operacional chegou a 18 bilhões, **prejuízo operacional de 1,26 bilhão**.
 
-Então, como o metrô de Taipé consegue ser lucrativo? A resposta é **ativos paralelos**. Em 2019, a receita de publicidade nas estações foi de cerca de 250 milhões de dólares, e aluguéis de ATM, telecomunicações e outros negócios geraram cerca de 50 milhões de dólares. Em outras palavras, o metrô de Taipé sobrevive graças aos painéis publicitários dentro das estações e aos caixas eletrônicos.
+Como o Metro de Taipé lucra então? A resposta é: **negócios acessórios**. Em 2019, a receita de publicidade nas estações foi de cerca de 2,5 bilhões; aluguéis de caixas eletrônicos, operadoras de telecom, etc., somaram cerca de 500 milhões. Graças a esses negócios anexos, o Metro de Taipé teve lucro líquido de 640 milhões em 2018 e 830 milhões em 2019. Ou seja, o Metro de Taipé é sustentado pelos painéis de publicidade e caixas eletrônicos dentro das estações.
 
 > **⚠️ Verdade contra-intuitiva**
-> No mundo, apenas 7 sistemas de metrô conseguem ser lucrativos: Hong Kong, Tóquio, Cingapura, Taipé, Moscou, Seul e Pequim. Mas mesmo entre estes 7, a maioria precisa depender de desenvolvimento imobiliário ou subsídios governamentais. Sistemas que conseguem ser lucrativos apenas com receitas de transporte praticamente não existem.
+> Segundo o _New Talk_, citando uma reportagem, só 7 sistemas de metro/ferroviários no mundo dão lucro: Hong Kong, Tóquio, Singapura, Taipé, etc. O lugar de Taipé nessa lista também se deve à publicidade e aluguéis de estações, não à bilheteria.
 
-Este "paradoxo do metrô de Taipé" revela uma realidade cruel: **Se até o metrô de Taipé, o mais bem-sucedido, precisa depender de receitas publicitárias para sobreviver, os métros das outras cidades estão condenados a serem prejuízosos.**
+Esse "paradoxo do Metro de Taipé" revela uma realidade cruel: **se até o Metro de Taipé precisa de receita de publicidade para sobreviver, os metros das outras cidades estão fadados a ser deficitários.**
 
-| Mesmo o líder do volume opera com prejuízo   | Situação do metrô em toda Taiwan        |
-| -------------------------------------------- | --------------------------------------- |
-| Metrô de Taipé: 2 milhões de passageiros/dia | Prejuízo operacional de 126 milhões     |
-| Metrô de Kaohsiung: 180.000 passageiros/dia  | Prejuízo acumulado de 750 milhões       |
-| Metrô de Taoyuan: 40.000 passageiros/dia     | Prejuízo acumulado de 2 bilhões         |
-| Metrô de Taichung: 26.000 passageiros/dia    | Prejuízo no primeiro ano de 600 milhões |
+| O primeiro em movimento também perde (movimento 2019) | Balanço de 2022 do _New Talk_ |
+| ----------------------------------------------------- | ----------------------------- |
+| Metro de Taipé: 2 milhões/dia                         | Negócio principal: -1,26 bi   |
+| Metro de Kaohsiung: 180 mil/dia                       | Prejuízo acumulado: 750 mi    |
+| Metro Aeroporto Taoyuan: 40 mil/dia                   | Prejuízo acumulado: 2 bi      |
+| Metro de Taichung: 26 mil/dia                         | Prejuízo no 1º ano: 600 mi    |
 
-## A lição de Kaohsiung: o experimento difícil do sul de Taiwan
+## A lição de Kaohsiung: o difícil experimento do sul de Taiwan
 
-Em 2008, a Linha Vermelha- Laranja do metrô de Kaohsiung foi inaugurada, marcando o nascimento da segunda cidade com metrô de Taiwan. Mas o destino de Kaohsiung foi completamente diferente do de Taipé.
+Em 2008, as linhas Vermelha e Laranja do Metro de Kaohsiung entraram em operação, nascendo a segunda cidade com metro em Taiwan. Mas o destino de Kaohsiung foi bem diferente do de Taipé.
 
-O volume projetado para o metrô de Kaohsiung era de 500.000 passageiros por dia, mas antes da pandemia, o máximo alcançado foi de apenas 180.000 passageiros por dia — apenas 36% da projeção. A razão é estrutural: a densidade populacional da área metropolitana de Kaohsiung é baixa, a posse de motocicletas é extremamente alta e o sistema de ônibus de conexão é insuficiente. Mais crucial, os moradores de Kaohsiung já estavam acostumados a viajar de motocicleta porta a porta, e o problema do "último quilômetro" é especialmente grave em Kaohsiung.
+O movimento projetado do Metro de Kaohsiung era de 500 mil passageiros/dia; na prática, o pico pré-pandemia foi de apenas 180 mil — 36% do previsto. Razões estruturais: menor densidade populacional na região metropolitana de Kaohsiung, altíssima taxa de posse de motos, sistema de ônibus alimentadores deficiente. E, crucialmente, os kaohsiungueses já estavam acostumados a ir de moto porta a porta; o problema da "última milha" em Kaohsiung é especialmente grave.
 
-A empresa do metrô de Kaohsiung chegou a enfrentar uma crise de falência. Em 2013, o governo municipal de Kaohsiung foi forçado a modificar o contrato BOT, assumindo antecipadamente os equipamentos elétricos, assumindo anualmente mais de 200 milhões de dólares em juros de empréstimos bancários, e isentando a empresa do metrô de Kaohsiung de aproximadamente 180 milhões de dólares em depreciação anual. Isto é, o governo diretamente aplicou uma transfusão de sangue para salvá-la.
+A empresa do Metro de Kaohsiung chegou a enfrentar risco de falência. Em 2013, o governo de Kaohsiung foi forçado a renegociar o contrato BOT, assumindo antecipadamente os ativos de sistemas, transferindo para a prefeitura o ônus de ativos que pesava sobre a empresa. Equivalia a uma transfusão direta de dinheiro público.
 
-Mas Kaohsiung não desistiu. A Linha do Tramway Circular começou a ser inaugurada em partes a partir de 2015, e em 2024, a linha completa foi finalmente concluída. Com custos de construção muito mais baixos (trilho leve: cerca de 1 bilhão de dólares por quilômetro vs. metrô: 5 bilhões de dólares por quilômetro), ela fortaleceu a densidade da rede, combinando com a bicicleta compartilhada YouBike, gradualmente formando um padrão de transporte composto de "metrô + trilho leve + bicicleta".
+Mas Kaohsiung não desistiu. O VLT circular entrou em operação por etapas a partir de 2015 e completou o círculo em 2024. Com custo de construção muito menor (VLT ~1 bilhão/km vs metro ~5 bilhões/km) adensou a rede, combinado com as bicicletas públicas YouBike, formando gradualmente um modelo multimodal "metro + VLT + bicicleta".
 
-> **📊 Comparação de dados**
-> Densidade de motocicletas em Kaohsiung: 741 motocicletas por mil habitantes (a mais alta de Taiwan)
-> Densidade de motocicletas em Taipé: 337 motocicletas por mil habitantes
->
-> Fonte: Ministério do Transporte (2024)
+A experiência de Kaohsiung prova: **metro não é panaceia; precisa de política de transportes integrada, planejamento urbano e transformação de hábitos de vida como suporte.**
 
-A experiência de Kaohsiung prova: **O metrô não é uma panaceia; ele precisa de políticas de transporte integradas, planejamento urbano e mudanças nos hábitos de vida.**
+## Metro do Aeroporto e Taoyuan: a dupla prova do portão internacional e do deslocamento pendular
 
-## O metrô do aeroporto e Taoyuan: o duplo desafio da fronteira e do deslocamento
+Em 2017, o Metro Aeroporto de Taoyuan entrou em operação, e Taiwan finalmente teve um transporte ferroviário "nível portão internacional". Da Estação Taipé ao Aeroporto de Taoyuan em 35 minutos, resolvendo o antigo problema do "transporte do portão internacional".
 
-Em 2017, o Metrô do Aeroporto de Taoyuan foi inaugurado, e Taiwan finalmente obteve transporte ferroviário de "nível internacional". Em 35 minutos, da Estação Central de Taipé ao Aeroporto de Taoyuan, resolvendo um problema que vinha sendo criticado há muito tempo: o transporte na fronteira.
+O Metro Aeroporto oferece "check-in antecipado" na Estação Taipé: o passageiro despacha bagagem e faz o check-in em Taipé, segue leve de metro direto para a área de embarque no aeroporto.
 
-O serviço de "check-in antecipado" do Metrô do Aeroporto é uma inovação de Taiwan: os passageiros podem concluir o despacho de bagagens e o check-in no aeroporto diretamente na Estação Central de Taipé, embarcando diretamente no metrô e saindo no aeroporto. Embora a taxa de utilização não seja alta (cerca de 5% antes da pandemia), esta é uma tentativa importante de digitalização do transporte público em Taiwan.
+Mas o Metro Aeroporto também expôs outro risco: **dependência excessiva de um público específico**. Antes da pandemia, passageiros rumo ao aeroporto respondiam por 60% da receita do Metro de Taoyuan. Com a pandemia, o movimento diário caiu de 70 mil para 40 mil, prejuízo acumulado de cerca de 2 bilhões. O diretor-geral Cheng Defa disse: "Um mês de portão fechado significa perda de receita de pelo menos 100 milhões."
 
-Mas o Metrô do Aeroporto também expõe outro problema: **o risco de depender excessivamente de um grupo específico de passageiros**. Antes da pandemia, passageiros internacionais representavam 60% da receita do Metrô do Aeroporto. Após a pandemia, o volume diário caiu de 70.000 para 30.000 passageiros, acumulando prejuízos de 2 bilhões de dólares. O diretor-gerente do Metrô do Aeroporto, Zheng De-fa, disse: "Se a fronteira permanecer fechada por um mês, a receita cairá pelo menos 100 milhões de dólares."
+Mais constrangedor: ao longo da linha há várias "estações fantasma". A estação Hengshan, no primeiro semestre de 2022, teve média de apenas 300 entradas/saídas por dia; em meia hora passam 3 composições sem ninguém subir ou descer. Fora da estação, o abrigo de ponto de ônibus mostra "último ônibus já passou"; ao redor, terrenos baldios cobertos de mato.
 
-E mais constrangedor ainda, existem muitas "estações-fantasma" ao longo do Metrô do Aeroporto. A estação Huxi em 2022, no primeiro semestre, tinha apenas cerca de 300 passageiros por dia, e três trens passavam sem ninguém entrar ou sair. O banco de ônibus fora da estação mostrava "último ônibus já partiu", e ao redor, era um terreno baldio coberto de grama alta.
+Essa cena remete a uma pergunta cruel: **estamos construindo metro ou elefantes brancos?**
 
-Esta cena nos lembra de uma pergunta cruel: **Estamos construindo metrô, ou estamos construindo uma atração turística?**
+## A tragédia de Taichung: depois que a viga de 209 toneladas caiu
 
-## A tragédia de Taichung: o feixe de 209 toneladas e 6 anos de atraso
+Voltemos à tragédia do início do artigo.
 
-Voltando ao início deste artigo.
+O relatório de investigação do acidente com a viga da Linha Verde de Taichung lê-se como um manual de desastre de segurança no trabalho:
 
-O relatório de investigação sobre o acidente do feixe de 209 toneladas no Metrô de Taichung lê-se como um manual de catástrofes de segurança no trabalho:
+- Os apoios hidráulicos da grua não tinham pranchas de madeira para distribuir a pressão; o asfalto não aguentou o peso e afundou
+- O centro de gravidade da viga curva estava deslocado; o "momento excêntrico" excessivo causou torção e tombamento
+- O canteiro só tinha cones de sinalização, sem interdição viária nem controle de tráfego
+- A regra era obra noturna, mas trabalharam em horário de pico diurno
+- O irmão do chefe de equipe falecido Xie Guanghui relatou que na época pediram andaimes de apoio, mas a empreiteira recusou
 
-- A coluna hidráulica do guindaste não teve uma plataforma de madeira para dissipar a pressão, e a superfície de asfalto não suportou o peso, deformando-se
-- O feixe em forma de arco teve seu centro de gravidade deslocado, e o "momento excêntrico" excessivo causou torção e tombamento
-- O local de construção só tinha cones de proteção, sem bloqueio de tráfego
-- Originalmente previsto para ser feito à noite, mas foi realizado durante o pico do dia
-- Os trabalhadores haviam solicitado a adição de estruturas de suporte, mas foram rejeitados pela empreiteira
+As 4 vítimas: Su Jia-zhen (42 anos), Xie Guanghui (57), Du Ya-you (60), Liang Xiao-kai (26). O mais novo, Liang Xiao-kai, tinha apenas 26 anos, no auge da vida.
 
-Quatro vítimas fatais: Su Jiaqiao (42 anos), Xie Guanghui (57 anos), Du Yaoyou (60 anos) e Liang Xiaokai (26 anos). O mais jovem, Liang Xiaokai, tinha apenas 26 anos, na plenitude da juventude.
+Consequências jurídicas: na primeira instância de 2018, o subengeneheiro Wang Qisen do 2º Escritório de Engenharia do Metro de Taipé pegou 8 meses; Chen Songyan da Yuan Yang, Du Fangming da China Steel Structure e outros 7 réus, penas de 10 meses a 1 ano e 6 meses, todas com sursis; a empresa de engenharia Runyi multada em 200 mil. Um dos motivos do juiz para a brandura: a China Steel Structure já havia indenizado e feito acordo com todas as famílias.
 
-As consequências legais desta tragédia foram: o chefe da seção de obras do Metrô de Taipé, Wang Qisen, foi condenado a 8 meses de prisão; os 7 funcionários da Far Eastern New Century, incluindo Chen Songshen, foram condenados a de 10 meses a 1 ano e 6 meses de prisão, todos com suspensão da pena; a empresa Yongyi Engineering foi multada em 200.000 dólares.
+**Na primeira instância, 4 vidas trocadas por penas com sursis e 200 mil de multa.**
 
-**Quatro vidas perdidas, e o que recebemos? Suspensão da pena e uma multa de 200.000 dólares.**
-
-Em abril de 2021, o Metrô de Taichung finalmente foi inaugurado, com 6 anos de atraso em relação ao cronograma original. Atualmente, o volume diário é de cerca de 26.000 passageiros, ainda longe dos 80.000 esperados.
+A 25 de abril de 2021, a Linha Verde de Taichung finalmente inaugurou. No primeiro ano, movimento médio de 26 mil/dia; a previsão original era 80 mil.
 
 > **📝 Nota do curador**
-> Quando o acidente do feixe de 209 toneladas ocorreu, uma obra semelhante de caixa de aço estava em andamento na Linha do Anel de Nova Taipei, a leste de Taipé. A diferença é que a Linha do Anel estritamente seguiu o protocolo de "trabalhos noturnos + bloqueio de tráfego". A mesma tecnologia, diferentes formas de gestão, decidem a vida ou morte.
+> Quando ocorreu o acidente da viga em Taichung, a Linha Circular de Nova Taipé estava fazendo içamento semelhante de vigas caixão. A diferença: a Linha Circular cumpria rigorosamente "obra noturna + interdição viária". Mesma técnica, gestão diferente, decidindo entre vida e morte.
 
-## O segredo da pontualidade: uma revolução de qualidade de 13,92 milhões de quilômetros
+## O segredo da pontualidade: a revolução da qualidade de 13,92 milhões de km
 
-Após todos estes ensinamentos sangrentos, algo pouco notado aconteceu no mundo do metrô de Taiwan: uma "revolução da qualidade".
+Após essas lições de sangue e lágrimas, o setor metroviário de Taiwan viveu uma "revolução da qualidade" pouco notada.
 
-Dados de 2024 mostram que o metrô de Taipé percorre em média **13,92 milhões de quilômetros** antes de sofrer um atraso superior a 5 minutos. Este número é impressionante?
+Segundo reportagem, até agosto de 2023, o Metro de Taipé atingiu média de **13,92 milhões de km** rodados antes de ocorrer um atraso superior a 5 minutos. O quão impressionante é esse número?
 
-Comparando com outros sistemas:
+Para comparar: em 2016, o metro de Singapura tinha um atraso assim a cada 160 mil km, o de Hong Kong a cada 520 mil km, e o de Taipé a cada 800 mil km. Em 2022, Singapura melhorou para 2,09 milhões de km.
 
-- Metrô de Cingapura: 2,09 milhões de quilômetros
-- Metrô de Hong Kong: 520.000 quilômetros
-- Metrô de Cingapura em 2016: 160.000 quilômetros
+A pontualidade das várias linhas do Metro de Taipé supera consistentemente **99%**, entre as melhores do mundo em transporte público de massa. Essa "cultura da pontualidade" mudou a noção de tempo dos taiwaneses — "o próximo trem chega em 3 minutos" deixou de ser promessa oral para virar fato confiável.
 
-A taxa de pontualidade do metrô de Taipé tem se mantido acima de **99,5%**, ocupando uma posição de destaque entre os sistemas de transporte coletivo do mundo. Esta "cultura do horário" mudou a percepção do tempo dos taiwaneses — "o próximo trem chega em 3 minutos" evoluiu de uma promessa verbal para uma realidade confiável.
+Como veio essa revolução? A _Asia News Network_ em 2018 resumiu 5 fatores-chave:
 
-Como esta revolução da qualidade surgiu? Um relatório da TV Asia em 2018 resumiu cinco fatores-chave:
+1. **Reuniões técnicas semanais**: consolidação de mais de 7.000 POPs (procedimentos operacionais padrão) para os diversos problemas
+2. **Simulações regulares**: capacidade de resposta a crises
+3. **Manutenção preventiva sólida**: supervisão hierárquica garantindo qualidade
+4. **Quadros de longa permanência**: dos 5.700 funcionários do Metro de Taipé, a maioria tem cerca de 10 anos de casa, aproximadamente o dobro da média da SMRT de Singapura
+5. **Identificação cívica**: sob qualidade excelente, o público dispõe-se a comportar-se com mais civismo ao usar o metro
 
-1. **Reuniões técnicas semanais**: compilação de mais de 7.000 procedimentos operacionais padrão (SOP)
-2. **Exercícios de simulação regulares**: capacidade de resposta a crises
-3. **Manutenção rigorosa e regular**: supervisão direta garante a qualidade
-4. **Funcionários de longa carreira**: os 5.700 funcionários do metrô de Taipé têm uma média de 10 anos de serviço, o dobro da SMRT de Cingapura
-5. **Identificação dos cidadãos**: sob a alta qualidade, os passageiros estão dispostos a utilizar o metrô com mais senso de dever
+> **✦** "Cada trem que chega no horário conta silenciosamente: esta ilha leva a sério a vida pública."
 
-> **✦** "Cada trem que chega pontualmente está contando em silêncio: esta ilha sabe tratar a vida pública com sério."
+## O grande salto do metro em toda Taiwan: a aposta de mais de 2 trilhões
 
-## A grande onda do metrô de Taiwan: apostando 2,4 trilhões em um futuro incerto
+Hoje Taiwan vive a "era do grande metro".
 
-Hoje, Taiwan está vivenciando a "grande era do metrô".
+Segundo investigação do _New Talk_ de 2022, os metros já inaugurados custaram mais de 1 trilhão; os em construção e em avaliação somam mais de 20 linhas, com previsão de mais 1,1 trilhão, totalizando cerca de 500 km — o equivalente a construir 3 vezes a extensão atual do Metro de Taipé.
 
-Segundo uma investigação do jornal Xin Xun Bao, o metrô de Taiwan já inaugurado custou 1 trilhão de dólares; os 20+ novos trechos em construção ou planejados exigem mais 1,1 trilhão de dólares, com um total de cerca de 500 quilômetros — equivalente a construir mais 3 vezes o tamanho do metrô de Taipé.
+| Escala de investimento assombrosa                         | Realidade operacional cruel                                 |
+| --------------------------------------------------------- | ----------------------------------------------------------- |
+| Inaugurados + em construção/avaliação: mais de 2 trilhões | Só Taipé lucra no todo, negócio principal ainda no vermelho |
+| 20+ linhas em construção/avaliação                        | Kaohsiung: 2 anos de pandemia, prejuízo acumulado 750 mi    |
+| Metro subterrâneo de alta capacidade: ~5 bi/km            | Metro Aeroporto Taoyuan: prejuízo acumulado ~2 bi           |
 
-| Aposta impressionante                               | Realidade cruel                         |
-| --------------------------------------------------- | --------------------------------------- |
-| Investimento total do metrô de Taiwan: 2,4 trilhões | Apenas Taipé tem margem mínima de lucro |
-| 20+ linhas em construção                            | Kaohsiung perde 750 milhões por ano     |
-| Custo médio de 5 bilhões por quilômetro             | Taoyuan perde 2 bilhões                 |
+Nos programas de quase todos os prefeitos e magistrados de condado, "metro, VLT" é praticamente o item mais popular. Um veterano da política disse: "Hoje em qualquer lugar que se grite 'vamos construir metro, VLT', só ganha votos, nunca perde."
 
-Nos planos de campanha dos governadores e prefeitos, "metrô, trilho leves" são os temas mais populares. Um político experiente disse: "Agora, todo mundo fala em construir metrô, e isso só traz votos, nunca tira votos."
+A questão é: essas novas linhas realmente têm demanda?
 
-Mas a pergunta é: estas novas linhas realmente têm demanda?
+Tomemos o VLT Danhai de Nova Taipé: a previsão inicial era 44 mil/dia; em 2021 a média real foi 19 mil, menos da metade. Porque o desenvolvimento populacional da Nova Cidade Danhai ficou muito aquém do previsto: no planejamento de 1992 estimava-se 300 mil moradores em 2014; depois a área de desenvolvimento encolheu, revisada para 130 mil; na prática moram só 40 e poucos mil.
 
-Tomando como exemplo o Tramway Leve de Tamsui em Nova Taipei, a projeção inicial era de 44.000 passageiros por dia, mas o real foi de apenas 19.000 passageiros — apenas 43% da projeção. A razão é que o desenvolvimento populacional do novo bairro de Tamsui não foi tão bom quanto esperado. Em 1992, quando foi planejado, estimava-se que 300.000 pessoas morariam em 2014, mas o real foi de apenas 40.000.
+> **⚠️ Alerta de especialista**
+> O diretor do Centro de Transporte Ferroviário da Universidade Nacional Cheng Kung, Li Yu-xin, aponta o dedo: governos locais costumam abraçar a mentalidade de "construir metro", terceirizando estudos de viabilidade e planejamento integrado para consultoras; as consultoras não contrariam a "visão" do "dono da obra", e diante de situações inviáveis listam "condições para viabilidade", como desenvolver zona industrial, reduzir vagas de estacionamento. "Mas durante a construção e operação da infraestrutura de transportes, essas premissas são ignoradas, e o movimento acaba sendo considerado 'inchado'."
 
-> **⚠️ Alerta de especialistas**
-> Li Yuxin, diretor do Centro de Transporte Ferroviário da Universidade Nacional de Ciência e Tecnologia, alertou diretamente: "As prefeituras frequentemente lançam projetos de metrô com a mentalidade de 'queremos construir metrô'. As empresas consultivas, sem violar a visão do 'cliente', sempre encontram condições 'viáveis'. Mas durante a construção, estas premissas são ignoradas, e o volume de passageiros acaba sendo considerado 'exagerado'."
+## A resistência do reino das motos: por que o metro não muda os hábitos de transporte?
 
-## A resistência do reino das motocicletas: por que o metrô não muda os hábitos de transporte?
+Há um fenômeno perplexo: Taiwan gastou 1 trilhão construindo metro, mas a frota de automóveis e motos continua crescendo.
 
-Há um fenômeno confuso: Taiwan investiu 1 trilhão de dólares em metrô, mas o número de carros e motocicletas continua crescendo.
+A rede do Metro de Taipé é tão densa, mas a taxa de uso de transporte público subiu apenas de 39,5% em 2009 para 40,4% em 2020 — praticamente estagnada. O ex-ministro dos Transportes He Chen-dan analisou: "Mesmo na Grande Taipé, apenas parte dos que pegavam ônibus passaram a pegar metro; a taxa geral de uso de transporte público continua na casa dos 40%."
 
-Apesar da extensa rede do metrô de Taipé, a taxa de uso do transporte público cresceu apenas de 39,5% em 2009 para 40,4% em 2020 — praticamente sem mudança. O ex-ministro do Transporte, He Chengdan, analisou: "Mesmo na Grande Taipé, apenas parte dos passageiros que originalmente usavam ônibus mudaram para o metrô; a taxa geral de uso do transporte público ainda se mantém em torno de 40%."
+A situação em Kaohsiung é mais grave. Após a inauguração do Metro de Kaohsiung, a taxa de uso de transporte público subiu apenas de 9,1% em 2009 para 9,3% em 2016 — ainda abaixo dos 18% da média nacional na época. No mesmo período, a frota de automóveis em Kaohsiung passou de 790 mil para 930 mil, aumento de 140 mil veículos.
 
-A situação em Kaohsiung é ainda mais grave. Após a inauguração do metrô de Kaohsiung, a taxa de uso do transporte público cresceu apenas de 9,1% em 2009 para 9,3% em 2016 — ainda abaixo da média nacional de 16%. Durante o mesmo período, o número de veículos em Kaohsiung cresceu de 790.000 para 930.000, um aumento de 140.000 veículos.
+As taxas de uso de transporte público em Taichung e Taoyuan permanecem cronicamente abaixo da média nacional.
 
-As taxas de uso do transporte público em Taichung e Taoyuan também estão constantemente abaixo da média nacional.
+Por quê? A subdiretora do Centro de Transporte Inteligente e Inovação da Universidade Feng Chia, Zhong Hui-yu, foi direta: **"É a ausência de política de gestão de automóveis e motos!"**
 
-Qual é a razão? Zhong Huiyu, vice-diretor do Centro de Transporte Inteligente da Universidade Fengjia, disse claramente: **“Esta é a falta de políticas de gestão de veículos!”**
+Ela aponta que, após construírem metro, Taipé e Kaohsiung não implementaram medidas adequadas de gestão veicular. O metro ofereceu nova opção, mas a opção antiga continua demasiado conveniente.
 
-Depois que as cidades de Taiwan construíram o metrô, nenhuma implementou medidas adequadas de controle de veículos. As taxas de estacionamento são muito baratas, há muitos espaços de estacionamento nas ruas, e o custo de possuir uma motocicleta é muito baixo — o metrô oferece uma nova opção, mas a antiga continua sendo muito conveniente.
+**Só construir metro não muda hábitos de transporte. Precisa de "cenoura + vara": o metro é a cenoura, a gestão de automóveis/motos é a vara.** Taipé já reforçou reboque de carros e cobrança de estacionamento em vias públicas, e a frota de automóveis de fato caiu; mas a maioria das cidades só deu a cenoura.
 
-> **📊 Comparação de densidade de motocicletas**
->
-> - Kaohsiung: 741 motocicletas por mil habitantes
-> - Taichung: 688 motocicletas por mil habitantes
-> - Taoyuan: 612 motocicletas por mil habitantes
-> - Taipé: 337 motocicletas por mil habitantes
->
-> Fonte: Ministério do Transporte (2024)
+## O destino de dar prejuízo: quem paga a conta de mais de 2 trilhões?
 
-**Construir apenas o metrô não muda os hábitos de transporte. Precisamos de "carrot e stick": o metrô é a cenoura, e o controle de veículos é a vara.** Taiwan só tem a cenoura, não a vara.
+Já que até o Metro de Taipé precisa de publicidade para lucrar, os metros das outras cidades estão condenados ao prejuízo; quem paga essa conta?
 
-## O destino dos projetos deficitários: quem paga a conta de 2,4 trilhões?
+A resposta: todos os contribuintes.
 
-Se até o metrô de Taipé precisa depender de receitas publicitárias para sobreviver, os métros das outras cidades estão condenados a serem prejurosos, então quem paga por tudo isso?
+Se o prejuízo do metro exceder o capital social, o governo local faz aporte de capital, ou seja, a população toda arca. Especialmente o Metro Aeroporto de Taoyuan, que atravessa Taipé, Nova Taipé e Taoyuan; se no futuro precisar de aporte, ainda precisa da aprovação de três câmaras municipais — por trás disso há complexo jogo político.
 
-A resposta é: todos nós pagamos.
+Um insider do setor metroviário observou: "Isso envolve problema político; se a maioria nas câmaras de Taipé e Nova Taipé for de partido diferente do prefeito de Taoyuan, podem não querer aportar para salvar o Metro de Taoyuan, que então enfrentará uma crise."
 
-Se o metrô operar com prejuízo além do capital social, o governo local precisa aumentar o capital, o que equivale a todos pagarmos. Especialmente o Metrô do Aeroporto de Taoyuan, que atravessa Taipé, Nova Taipei e Taoyuan, se precisar de aumento de capital no futuro, precisará passar pela aprovação de três câmaras municipais — envolvendo jogos políticos complexos.
+O diretor do Departamento de Ciência de Gestão de Transportes da Universidade Nacional Cheng Kung, Zheng Yong-xiang, é direto: "A raiz do problema é gente insuficiente": o planejamento urbano deve entrar desde o início no planejamento de transportes; o entorno do metro precisa ter atividade econômica para gerar fluxo de pessoas; caso contrário, as dívidas ficam todas para as gerações futuras.
 
-Um profissional do setor do metrô disse: "Se as maiorias dos partidos na câmara de Taipé e Nova Taipei forem diferentes do partido no poder em Taoyuan, é provável que eles se recusem a aumentar o capital para ajudar o Metrô de Taoyuan. Nesse momento, o Metrô de Taoyuan enfrentará uma crise."
+**Taiwan está apostando a receita fiscal dos próximos 30 anos numa visão urbana incerta.**
 
-Zheng Yongxiang, diretor do Centro de Transporte Ferroviário da Universidade Nacional de Ciência e Tecnologia, disse diretamente: "O problema fundamental é a falta de pessoas. Desde o início, o planejamento urbano deve ser incluído, e ao redor do metrô, deve haver atividades econômicas; só assim haverá fluxo de pessoas suficiente, caso contrário, toda a dívida será deixada para as futuras gerações."
+## A cúpula de luz da Formosa: o metro como marco cultural
 
-**Taiwan está apostando as receitas fiscais dos próximos 30 anos em um futuro de visão urbana incerto.**
+Mas o valor do metro não é só transporte. Eles também se tornaram marcos culturais das cidades.
 
-## A cúpula da luz de Shoufeng: o metrô como marco cultural
+A "Cúpula de Luz" da estação Formosa (Meilidao) em Kaohsiung, criada pelo mestre italiano Narcissus Quagliata, é apresentada pela empresa do Metro de Kaohsiung como a maior obra de arte em vidro em peça única do mundo. Em 2012, o site de viagens americano BootsnAll elegeu as 15 estações de metro mais bonitas do mundo; Formosa ficou em 2º lugar.
 
-Mas o valor do metrô não se limita ao transporte. Eles também se tornaram coordenadas culturais das cidades.
+A estação Tamsui em Taipé é sinônimo de turismo de fim de semana; o entorno da estação Zhongshan formou uma rua de livrarias e espaços culturais única. Essas estações não são apenas nós de transporte, são símbolos da identidade urbana.
 
-A "Cúpula da Luz" da estação Shoufeng em Kaohsiung, criada pelo artista italiano Narcissus Quagliata, é a maior obra de arte em vidro em uma construção pública do mundo. A CNN a incluiu na lista de "estações de metrô mais bonitas do mundo", atraindo inúmeros turistas para fazerem a piledestal.
+Sob outro ângulo, o metro de Taiwan é também um caso de sucesso de "experimento civilizatório". A ordem silenciosa nos carros, a insistência na proibição total de comer, a cultura da pontualidade — tudo isso virou vitrine do "soft power de Taiwan" no cenário internacional.
 
-A estação de Tamsui em Taipé se tornou sinônimo de turismo nos finais de semana, e a região ao redor da estação Zhongshan formou uma rua de livrarias e espaços culturais únicos. Estas estações do metrô não são apenas pontos de transporte, mas símbolos da identidade urbana.
+> **💡 Perspetiva internacional**
+> Quando o metro de Singapura entrou em crise, pediu ajuda ao Metro de Taipé; este enviou uma equipe chefiada por vice-presidentes a Singapura para compartilhar experiência de manutenção. O Metro de Taipé passou de "aluno" nos anos 1990 a "professor" de outras cidades nos anos 2010. Essa inversão de papéis marca a maturidade de Taiwan na área de obras públicas.
 
-Do outro lado, o metrô de Taiwan também é um caso de sucesso do "experimento civilizacional". O silêncio ordenado dentro dos compartimentos, a firmeza da proibição de alimentos, a construção da cultura do horário — tudo isso se tornou uma vitrine internacional da "força suave" de Taiwan.
+## Perspetiva: a rede em expansão e os desafios futuros
 
-> **💡 Perspectiva internacional**
-> Durante o período de crise do sistema de metrô de Cingapura (2015-2017), uma equipe executiva foi enviada a Taipé para aprender experiências de manutenção. O metrô de Taipé, que era um "estudante" nos anos 1990, tornou-se um "professor" para outras cidades nos anos 2010. Esta mudança de papel marcou a maturidade de Taiwan no campo da construção pública.
+Até 2026, o sistema de metro de Taiwan continua em expansão:
 
-## Perspectivas futuras: expansão da rede e desafios
+1. **Nova inauguração em 2026**: Linha Sanying de Nova Taipé (operação experimental a partir de 30 de junho)
+2. **Em construção**: Linha Verde de Taoyuan (1ª fase prevista para 2026), trechos sul e norte da Linha Circular de Taipé, Linha Wanda de Nova Taipé, Linha Amarela de Kaohsiung, Linha Azul de Taichung (início das obras do depósito em junho de 2025)
+3. **Em planejamento**: Metro de Keelung, VLT de Hsinchu, Metro de Tainan
 
-Até 2026, o sistema do metrô de Taiwan continua expandindo-se:
+Uma tendência interessante: as novas linhas adotam cada vez mais sistemas sem condutor. Do sistema VAL da Linha Muzha à operação totalmente automática da Linha Circular, Taiwan caminha da "importação de tecnologia estrangeira" para a "capacidade de integração autônoma".
 
-1. **Linha verde de Taoyuan**: prevista para ser inaugurada em 2026
-2. **Em construção**: trecho norte-sul da Linha do Anel de Taipé, Linha Wanzhuang em Nova Taipei, Linha amarela em Kaohsiung
-3. **Em planejamento**: Linha azul em Taichung, Linha Sanxia em Nova Taipei, metrô de Keelung, trilho leves de Hsinchu, metrô de Tainan
-
-Uma tendência interessante é que as novas linhas estão cada vez mais adotando sistemas de condução autônoma. Desde o sistema VAL da Linha Xindian até o trem totalmente automático da Linha do Anel, Taiwan está evoluindo de "importar tecnologia estrangeira" para "capacidade de integração autônoma".
-
-Mas os verdadeiros desafios estão por vir: quando Taiwan entrar na era da superidosa, como o metrô vai se adequar? A acessibilidade pode acompanhar a demanda? O mecanismo de ajuste de preços é razoável? E, acima de tudo, com a tendência de redução da população, por quanto tempo ainda será possível manter o volume de passageiros nesses novos trechos?
+Mas o verdadeiro desafio está em: quando Taiwan entrar na sociedade superenvelhecida, como o sistema de metro vai se adaptar? A acessibilidade acompanhará a demanda? O mecanismo de reajuste de tarifa é razoável? E a questão mais fundamental — numa tendência de declínio populacional, por quanto tempo essas linhas conseguirão manter seu movimento?
 
 > **📝 Nota do curador**
-> Há 30 anos, Taiwan nem tinha um quilômetro de metrô. Hoje, o metrô já é o cartão de visitas mais convincente da civilização urbana de Taiwan. Cada compartimento silencioso e ordenado, cada plataforma limpa e iluminada, conta como esta ilha aprendeu a lidar com a "vida pública".
+> Há 30 anos, Taiwan nem um quilômetro de metro tinha. Hoje, o metro é o cartão de visita mais convincente da civilização urbana de Taiwan. Cada carro silencioso e ordenado, cada plataforma limpa e iluminada, conta como esta ilha aprendeu a "vida pública".
 >
-> O preço é de 2,4 trilhões de dólares e vidas perdidas. Vale a pena? Esta pergunta não tem uma resposta padrão. Mas, ao menos, nós enfrentamos honestamente o preço.
+> O preço foi mais de 2 trilhões e várias vidas. Valeu a pena? Não há resposta padrão. Mas pelo menos enfrentamos honestamente esses custos.
 
-Desde a lição de 164 milhões da francesa Matra, até as quatro vidas perdidas no acidente do feixe de 209 toneladas, até o mais confiável sistema de metrô do mundo — a história do desenvolvimento do metrô de Taiwan é uma evolução urbana escrita com sangue e dinheiro.
+Dos 16,4 bilhões de "mensalidade" da francesa Matra, às 4 vidas ceifadas pela viga em Taichung, até o sistema de metro famoso pela pontualidade de hoje — a história do desenvolvimento do metro de Taiwan é uma evolução urbana escrita com sangue e dinheiro.
 
-Ela prova uma coisa: uma sociedade pode aprender com os erros, pode construir instituições melhores a partir dos custos dolorosos. Mas a condição é que enfrentemos honestamente esses custos, em vez de esquecê-los.
+Ela prova uma coisa: uma sociedade pode aprender com os erros, pode construir sistemas melhores a partir de custos dolorosos. A condição é que tenhamos a coragem de encarar honestamente esses custos, em vez de esquecê-los.
 
-## Leituras recomendadas
+## Leitura complementar
 
-- [Cultura das motocicletas de Taiwan](/pt/lifestyle/taiwan-scooter-culture) — Como a maior competidora do metrô moldou a vida urbana
+- [Cultura da moto em Taiwan](/pt/lifestyle/taiwan-scooter-culture) — como o maior concorrente do metro molda a vida urbana
 
-## Leituras recomendadas
+## Referências
 
-- [Relatório anual do Metrô de Taipé (2024)](https://www.metro.taipei/)
-- [Estatísticas operacionais do Metrô de Kaohsiung](https://corp.krtc.com.tw/)
-- [Ministério do Transporte: consulta de estatísticas do metrô](https://stat.motc.gov.tw/)
-- [Acidente do feixe de 209 toneladas do Metrô de Taichung - Wikipédia](https://zh.wikipedia.org/zh-tw/臺中捷運綠線鋼梁墜落事故)
-- [A cada 13,92 milhões de quilômetros, apenas um atraso superior a 5 minutos - Comentário de Avaliação](https://www.thenewslens.com/article/193682)
-- [Metrô 1》Por que Taiwan gasta mais de 2 trilhões para construir metrôs que não dão lucro? - Xin Xun Bao](https://new7.storm.mg/article/4499383)
-- [Linha Xindian do metrô: Matra vence, prefeitura de Taipé paga 164 milhões - Epoch Times](https://www.epochtimes.com/b5/5/7/23/n995027.htm)
-- [Como o metrô de Taipé se tornou um "metrô de montanha-russa"? - Sociologia de Beco](https://twstreetcorner.org/)
-- [Câmara Legislativa: Plano de transferência antecipada de ativos do Metrô de Kaohsiung](https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=10077&pid=139625)
-- [Empresa de Metrô de Taipé - Regulamento de proibição de alimentos e bebidas nos trens](https://www.metro.taipei/News_Content.aspx?n=566DA580861CEE77&sms=87415A8B9CE81B16&s=CBB430D2363C29FC)
+- [Relatório anual da Taipei Rapid Transit Corporation (2024)](https://www.metro.taipei/)
+- [Estatísticas operacionais da Kaohsiung Rapid Transit Corporation](https://corp.krtc.com.tw/)
+- [Rede de consulta estatística do Ministério dos Transportes: volume mensal de passageiros dos sistemas de metro de massa](https://stat.motc.gov.tw/)
+- [Acidente da viga de aço da Linha Verde do Metro de Taichung - Wikipédia](https://zh.wikipedia.org/zh-tw/臺中捷運綠線鋼梁墜落事故)
+- [Rodou 13,92 milhões de km antes de um atraso superior a 5 minutos - The Critical Review Network](https://www.thenewslens.com/article/193682)
+- [O buraco do dinheiro do metro 1》Taiwan inteira louca por metro, gasto superior a 2 trilhões, por que construiu um monte de negócios deficitários? - New Talk](https://new7.storm.mg/article/4499383)
+- [Linha Muzha: Matra vence, Taipé deve pagar 16,4 bi - Epoch Times](https://www.epochtimes.com/b5/5/7/23/n995027.htm)
+- [Como o Metro de Taipé se tornou um "metro montado"? - Alley Sociology](https://twstreetcorner.org/)
+- [Yuan Legislativo: plano de renegociação do Metro de Kaohsiung para transferência antecipada de ativos de sistemas](https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=10077&pid=139625)
+- [Taipei Rapid Transit Corporation - Regulamento de proibição de comer e beber no sistema de metro](https://www.metro.taipei/News_Content.aspx?n=566DA580861CEE77&sms=87415A8B9CE81B16&s=CBB430D2363C29FC)
+- [30 anos do Metro de Taipé: incêndios, retirada de técnicos da Matra - TVBS](https://news.tvbs.com.tw/life/3161302)
+- [Acidentes de incêndio, objetos estranhos estourando pneus! A Linha Muzha do Metro de Taipé teve destino turbulento antes de abrir - United Daily News Time](https://time.udn.com/udntime/story/122833/7899496)
+- [Marcos históricos de volume de passageiros do Metro de Taipé - TVBS](https://news.tvbs.com.tw/life/1094779)
+- [Caso da viga do Metro de Taichung: sentença de primeira instância - PTS News](https://news.pts.org.tw/article/404511)
+- [Estação Formosa - Wikipédia](https://zh.wikipedia.org/zh-tw/%E7%BE%8E%E9%BA%97%E5%B3%B6%E7%AB%99)
+- [Linha Sanying do Metro de Nova Taipé - Wikipédia](https://zh.wikipedia.org/zh-tw/%E6%96%B0%E5%8C%97%E6%8D%B7%E9%81%8B%E4%B8%89%E9%B6%AF%E7%B7%9A)
+- [Linha Azul do Metro de Taichung - Wikipédia](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E4%B8%AD%E6%8D%B7%E9%81%8B%E8%97%8D%E7%B7%9A)
