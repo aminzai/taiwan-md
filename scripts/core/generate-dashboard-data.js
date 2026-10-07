@@ -1367,6 +1367,12 @@ async function main() {
         metaphor: '品質基因',
         emoji: '🧬',
         score: dnaScore,
+        // 這個分數只量 EDITORIAL.md 距今幾天沒改（<7 天 95、<30 天 80、其餘 60），
+        // 沒有量品質基因本身。DNA 是底層，不改才是常態；分數掉下來不代表生病，
+        // 也不該為了拉分數去動 EDITORIAL（REFLEXES #82：年齡是替身）。
+        scoreKind: 'recency-indicator',
+        scoreBasis:
+          'Days since EDITORIAL.md was last modified; not quality health',
         trend: dnaTrend,
         metrics: {
           editorialLastModified: editorialDate
