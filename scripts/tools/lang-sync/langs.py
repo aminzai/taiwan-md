@@ -59,6 +59,15 @@ ENABLED_TRANSLATION_LANGS = [
 ]
 
 
+#: 認知層日記的投影語言——這是一筆決定，不是寫死的清單。
+#: OBSERVER-QUEUE #77（2026-10-07 缺席預設 B，哲宇可撤銷）：五語的 2,075 篇日記譯文
+#: 站上還沒有任何入口，先補另外七語等於把沒有出口的東西再乘 2.4 倍，所以暫定停在
+#: 這五語。diary 工具預設用這份；`--langs all` 看整張 registry 的缺口。改成 A（補到
+#: registry 全語言）或 C（先建出口）時，改這一行並把 #77 的已決列改寫。
+DIARY_PROJECTION_LANGS = ["en", "ja", "ko", "es", "fr"]
+
+
 if __name__ == "__main__":
     print("ALL_TRANSLATION_LANGS =", ALL_TRANSLATION_LANGS)
     print("ENABLED_TRANSLATION_LANGS =", ENABLED_TRANSLATION_LANGS)
+    print("DIARY_PROJECTION_LANGS =", DIARY_PROJECTION_LANGS)

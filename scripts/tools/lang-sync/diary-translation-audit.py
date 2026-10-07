@@ -31,7 +31,7 @@ SETTLE_SECS = 15
 
 REPO = Path(__file__).resolve().parent.parent.parent.parent
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from langs import ALL_TRANSLATION_LANGS  # noqa: E402 — SSOT: src/config/languages.mjs
+from langs import ALL_TRANSLATION_LANGS, DIARY_PROJECTION_LANGS  # noqa: E402 — SSOT: src/config/languages.mjs
 DIARY_ZH = REPO / "docs/semiont/diary"
 
 # Per-lang plausible length ratio (tgt_chars / src_chars). CJK→alphabetic
@@ -162,11 +162,13 @@ def main():
     ap = argparse.ArgumentParser()
     # 2026-09-23：跟 diary-translate.py 同時去硬編碼——兩支各自寫死同一份五語
     # 清單，兩支就會一起對七個新語言的缺口保持沉默（同一份 SSOT 才不會分岔）。
-    ap.add_argument("--langs", default=",".join(ALL_TRANSLATION_LANGS))
+    # 2026-10-07：預設改成 DIARY_PROJECTION_LANGS（OBSERVER-QUEUE #77 缺席預設 B）。
+    # 清單仍住 langs.py 一處，兩支工具不會分岔；`--langs all` 量整張 registry。
+    ap.add_argument("--langs", default=",".join(DIARY_PROJECTION_LANGS))
     ap.add_argument("--verbose", action="store_true")
     ap.add_argument("--out", help="write JSON report to path")
     args = ap.parse_args()
-    langs = args.langs.split(",")
+    langs = ALL_TRANSLATION_LANGS if args.langs == "all" else args.langs.split(",")
 
     diaries = sorted(p.name for p in DIARY_ZH.glob("*.md"))
     report = {"total_audited": 0, "clean": 0, "critical": 0, "warning_only": 0,
