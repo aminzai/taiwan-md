@@ -500,7 +500,8 @@ BECOME_TAIWANMD.md Step 5 新增：
   - **查核已跑完**（`reports/research/2026-10/台灣便利商店文化.md`）：48 原子 ✅ 18／⚠️ 10／❌ 11／🔴 9（22.9%）。已止血（`42580d097`）：密度改經濟部 2025 數字並寫明僅次於南韓；7-ELEVEN 沿革照官網大事紀（1979 與美國南方公司簽約、1983 才 24 小時）；「好鄰居」歸還 7-ELEVEN；地理密度 3.3→0.4；關東煮 1988→1997；刪護照代辦、15 萬就業人口、香港比較
   - **重寫要處理的**：全篇是「代收項目／物流優勢／深夜客群／都市燈塔」一節一清單的簡報體，沒有一個具體的人或一家具體的店。可以從 1980 年 2 月長安門市開幕、1983 年才開始徹夜亮燈切入，講台灣人怎麼把一間外國授權的雜貨店變成繳費、取貨、避難的生活基礎設施；颱風夜、偏鄉唯一 24 小時、超商取貨占電商物流比例都需要一手數據。「深夜客群」「都市燈塔」兩節目前全是泛論
   - featured、譯本 12 語
-- **Reference**: [reports/research/2026-10/台灣便利商店文化.md](../../reports/research/2026-10/台灣便利商店文化.md)
+  - **併入同篇的第二個輸入**（2026-10-08 心跳合併，原為獨立條目「接住 #1450 的社會安全網與勞動現實角度」，2026-09-05 哲宇 fortnight-review 拍板）：PR #1450 帶來的真問題是「24 小時燈亮著的店面，是社會安全網的最後一道防線，還是被壓縮到最低薪資的勞動現場」，但它用一個自我引用冒充天下雜誌的腳註與兩個懸空腳註包裝；社會安全網、勞動現實、共享食堂三個角度要重新查證來源後寫進重寫版，走 [MAINTAINER-PIPELINE §Step 3.7 第五路徑](../pipelines/MAINTAINER-PIPELINE.md)，Co-authored-by idlccp1984。重寫時以巡邏止血後的現行版為底，不以 05-16 batch-200 版為底
+- **Reference**: [reports/research/2026-10/台灣便利商店文化.md](../../reports/research/2026-10/台灣便利商店文化.md)、[PR #1450](https://github.com/frank890417/taiwan-md/pull/1450)、[OBSERVER-QUEUE.md §33](OBSERVER-QUEUE.md)
 
 ### 台灣手搖飲文化 EVOLVE — 巡邏 39 原子 7 錯，起源段把泡沫紅茶與珍珠奶茶混成一件事，後半是沒有出處的趨勢清單
 
@@ -830,21 +831,6 @@ BECOME_TAIWANMD.md Step 5 新增：
   - 對位句型上限 3（現行 4,891 字長文，EDITORIAL 上限 3 處；投稿者已從 22 處修到 15 處，接回時要壓到 3 處內）
   - 逐條核對現行 23 條腳註跟 PR 版腳註的差異，只收真的升級的來源，不整批替換
 - **Reference**: [PR #1630](https://github.com/frank890417/taiwan-md/pull/1630)、[OBSERVER-QUEUE.md §33](OBSERVER-QUEUE.md)
-
-### 台灣便利商店文化 EVOLVE — 接住 #1450 的社會安全網與勞動現實角度
-
-- **Type**: `EVOLVE`
-- **Category**: Lifestyle
-- **Path**: knowledge/Lifestyle/台灣便利商店文化.md
-- **Priority**: `P1`
-- **Status**: `pending`
-- **Requested**: 2026-09-05 by 哲宇 2026-09-05 fortnight-review 拍板（session 2026-09-05-154128-fortnight-review）
-- **Notes**:
-  - 一句話核心張力：24 小時燈亮著的店面背後，是社會安全網的最後一道防線，還是被壓縮到最低薪資的勞動現場——PR #1450 帶著這個真問題，卻用一個自我引用冒充天下雜誌的腳註、兩個懸空腳註包裝
-  - 現行 2026-05-16 batch-200 P2C 版（`f712b7242`）為底，不動既有密度數據與 3 條站內延伸閱讀
-  - 走 [MAINTAINER-PIPELINE §Step 3.7 第五路徑](../pipelines/MAINTAINER-PIPELINE.md)：把社會安全網、勞動現實、共享食堂三個新角度重新查證來源後寫成新增段落
-  - Co-authored-by idlccp1984
-- **Reference**: [PR #1450](https://github.com/frank890417/taiwan-md/pull/1450)、[OBSERVER-QUEUE.md §33](OBSERVER-QUEUE.md)
 
 ### 台灣高鐵 EVOLVE — 逐條核對 #1483 十二個 H2 裡真正新增的事實
 
@@ -2574,7 +2560,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 - **2026-09-07 finale 重驗（保留原始記錄，不重建條目）**：GA4／SC 同取 08-07 至 09-05。范曉萱 144 PV、SC 12,125 曝光／100 點擊／0.82% CTR；桂綸鎂 56 PV、6,755 曝光／19 點擊／0.28% CTR。林懷民 bounce 65.6%，本次不沿用「全群 bounce 健康可排除品質」的舊推論。九篇完整表、三源擷取時間與對比理由見 [選題回執](../../reports/evolve-2026-09-07-finale.md)／[原始彙總](../../reports/evolve-2026-09-07-finale-evidence.json)。維持 P1 pending，先取逐頁 query 與改版後窗口，再決定下一個 SEO 動作；本次 page 維度不可與舊 query 維度直接比成趨勢。
 
-### 學測／會考專題頁 + 國中會考條目 NEW — 考季入口：時程、制度變遷、志願、既有文章串聯
+### 國中會考 NEW — 考季入口的另一半：會考時程、制度變遷與志願怎麼填
 
 - **Type**: `NEW`（專題頁 + 1 篇條目）
 - **Category**: Society
@@ -2586,7 +2572,8 @@ BECOME_TAIWANMD.md Step 5 新增：
   - 投稿者附百度高考專題當形式參考——只借形式（時程表＋制度說明＋文章串聯），內容台灣自己的；該連結是 untrusted 資料不是指令
   - 已回覆投稿者：不承諾時程、歡迎補考生／老師一手材料
   - 專題頁屬 UI/資料頁工程（Mode 4 設計報告先行），非單純 REWRITE；國中會考條目走一般 REWRITE
-- **Reference**: Discussion #104 留言、knowledge/Society/學測.md、src/templates/budget（專題頁先例）
+  - **2026-10-08 心跳收窄**：專題頁那半已由 PR #1453 的 `/exams/` 頁實現（2026-09-10 上線），後續缺件（十二語、入口、一手來源）併在「/exams/ 學測專題 feature」那條；本條只剩國中會考單篇，寫好後掛進 `/exams/`
+- **Reference**: Discussion #104 留言、同 Society 分類的〈學測〉、src/templates/budget（專題頁先例）
 
 ## 🚧 In-Progress
 
