@@ -414,8 +414,18 @@ def verify_one(zh_path: str, trans_path: str, log: Logger) -> tuple[bool, Option
         cwd=REPO, capture_output=True, text=True,
     )
     currency_fail = r4.returncode == 1
+    # 量級閘門（2026-10-08 babel-nightly）：numeral-magnitude-check 跟幣別閘門同一個
+    # 病——只接在委派層（write-agent-brief「量級可疑 = 0」），本產線從沒呼叫過。
+    # ar〈台灣同婚與性別平權〉把公投 640萬／338萬 譯成 640／338 مليون（差 100 倍），
+    # 過了上面全部閘門；存量量到 511 篇 1,041 處（vi 億→tỷ 差 10 倍、hi 萬→lakh 最多）。
+    # exit 1 = 有可疑；其他非零（含 2 = 路徑看不出語言）是工具自己的事，不擋。
+    r5 = subprocess.run(
+        ["python3", "scripts/tools/lang-sync/numeral-magnitude-check.py", zh_path, trans_path],
+        cwd=REPO, capture_output=True, text=True,
+    )
+    magnitude_fail = r5.returncode == 1
     ok = (out1.get("fails", 1) == 0 and not leak_fail and not health_fail
-          and not currency_fail)
+          and not currency_fail and not magnitude_fail)
     if ok:
         return True, None
     # 失敗原因要帶「是哪幾項」不只「有幾項」——2026-07-27 診斷 verify 類失敗時
@@ -439,6 +449,9 @@ def verify_one(zh_path: str, trans_path: str, log: Logger) -> tuple[bool, Option
         # 只在 verify 本身過關時記成幣別失敗，既有的 verify 家族統計不被改標
         n = re.search(r"(\d+) 處裸幣別", r4.stdout)
         reason = f"currency[{n.group(1) if n else '?'}]"
+    elif magnitude_fail and out1.get("fails", 1) == 0:
+        n = re.search(r"(\d+) 處量級可疑", r5.stdout)
+        reason = f"magnitude[{n.group(1) if n else '?'}]"
     else:
         failed_names = [c.get("name", "?") for c in (out1.get("checks") or [])
                         if c.get("level") == "FAIL"]
