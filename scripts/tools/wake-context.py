@@ -43,6 +43,7 @@ LATEST_FILE = REPO / ".taiwanmd/wake-context.latest.md"  # gitignored；完整�
 
 FULL_DATE_RE = re.compile(r"^\s*(20\d\d-\d\d-\d\d)\s*$")
 FILE_DATE_RE = re.compile(r"^(20\d\d-\d\d-\d\d)")
+FILE_STAMP_RE = re.compile(r"^(20\d\d-\d\d-\d\d)-(\d{6})-")
 HANDOFF_HEAD_RE = re.compile(r"^##+ .*(Handoff|handoff|交接)")
 HANDOFF_WALK_MAX_FILES = 5
 HANDOFF_WALK_MAX_HOURS = 72
@@ -175,20 +176,42 @@ def sec_diary_recur(lines):
     return section_between(lines, "反覆出現的思考")
 
 
+def memory_file_time(name):
+    """memory 檔名 → datetime。新 schema `YYYY-MM-DD-HHMMSS-handle` 取到秒；
+    舊 schema `YYYY-MM-DD-α` 只有日期，當作當天 00:00（年齡會略為高估）。"""
+    m = FILE_STAMP_RE.match(name)
+    if m:
+        return dt.datetime.strptime(m.group(1) + m.group(2), "%Y-%m-%d%H%M%S")
+    d = parse_date(FILE_DATE_RE.match(name).group(1))
+    return dt.datetime(d.year, d.month, d.day)
+
+
 def sec_handoff():
     """最近 memory 檔往回 walk（≤N 檔／≤M 小時）撈第一個非空 Handoff 段；
-    另收近 2 天 diary 的「給明天的我」。回傳 (text, meta dict)。"""
+    另收近 2 天 diary 的「給明天的我」。回傳 (text, meta dict)。
+
+    窗口內一份 memory 都沒有時（飛輪停轉超過 M 小時），改走最新 N 份、不設時限，
+    並在 meta 標 stale_fallback。2026-10-07 心跳的病例：週額度用完讓兩台機器靜默
+    四天，72h 窗口把 10-03 晚班那份交接（含當天到期的 OBSERVER-QUEUE #77／#78）
+    整段擋在門外，selftest 還把原因寫成「上游收官可能漏寫」。停得越久越需要交接，
+    舊版恰好在那時候讀不到。"""
     now = dt.datetime.now()
     files = sorted(
         (p for p in MEMORY_DIR.glob("*.md")
          if FILE_DATE_RE.match(p.name) and p.name != "structure-log.md"),
         key=lambda p: p.name, reverse=True,
     )
-    out, meta = [], {"walked": 0, "hit": None}
-    for p in files[:HANDOFF_WALK_MAX_FILES]:
-        fdate = parse_date(FILE_DATE_RE.match(p.name).group(1))
-        if (now.date() - fdate).days * 24 > HANDOFF_WALK_MAX_HOURS:
-            break
+    out = []
+    meta = {"walked": 0, "hit": None, "in_window": 0, "stale_fallback": False, "newest_age_h": None}
+    if files:
+        meta["newest_age_h"] = round((now - memory_file_time(files[0].name)).total_seconds() / 3600)
+    window = [p for p in files[:HANDOFF_WALK_MAX_FILES]
+              if (now - memory_file_time(p.name)).total_seconds() / 3600 <= HANDOFF_WALK_MAX_HOURS]
+    meta["in_window"] = len(window)
+    if not window and files:
+        window = files[:HANDOFF_WALK_MAX_FILES]
+        meta["stale_fallback"] = True
+    for p in window:
         meta["walked"] += 1
         lines = p.read_text(encoding="utf-8").split("\n")
         s = next((i for i, l in enumerate(lines) if HANDOFF_HEAD_RE.match(l)), None)
@@ -197,7 +220,10 @@ def sec_handoff():
         e = next((j for j in range(s + 1, len(lines)) if lines[j].startswith("## ")), len(lines))
         body = "\n".join(lines[s:e]).rstrip()
         if body.count("\n") >= 2:  # 有實質內容，不只標題
-            out.append(f"（來源：memory/{p.name}，walk 第 {meta['walked']} 檔）\n{body}")
+            age_h = round((now - memory_file_time(p.name)).total_seconds() / 3600)
+            stale = (f"⚠️ 窗口外補讀：{HANDOFF_WALK_MAX_HOURS}h 內沒有任何 memory 檔，這份交接寫於 {age_h} 小時前，"
+                     "裡面的「今天」「明天」「到期」都要對照現在的日期重算\n") if meta["stale_fallback"] else ""
+            out.append(f"{stale}（來源：memory/{p.name}，walk 第 {meta['walked']} 檔）\n{body}")
             meta["hit"] = p.name
             break
     # 近 2 天 diary 的「給明天的我」承諾
@@ -351,9 +377,17 @@ def build(rows_n):
     check(rb > 1500,
           f"反覆出現的思考段完整（{rb // 1024}KB）",
           "反覆出現的思考段空或過小——anchor 解析失敗？")
-    check(handoff_meta["hit"] is not None,
-          f"handoff 命中：{handoff_meta['hit']}（walk {handoff_meta['walked']} 檔）",
-          f"walk {handoff_meta['walked']} 檔（≤{HANDOFF_WALK_MAX_FILES} 檔/{HANDOFF_WALK_MAX_HOURS}h）無非空 Handoff 段——上游收官可能漏寫")
+    # 兩種「讀不到交接」的根因不同，處置也不同（REFLEXES #38）：窗口內沒有檔＝飛輪停了，
+    # 先查宿主機與額度；窗口內有檔但沒交接段＝收官漏寫。舊版兩者共用一句話。
+    if handoff_meta["stale_fallback"]:
+        check(False, "",
+              f"{HANDOFF_WALK_MAX_HOURS}h 內沒有任何 memory 檔（最新一份在 {handoff_meta['newest_age_h']} 小時前）"
+              f"——飛輪可能停轉，先查排程器與帳號額度；已改讀最新一份"
+              + (f"的交接（{handoff_meta['hit']}），裡面的日期要重算" if handoff_meta["hit"] else "，仍無交接段"))
+    else:
+        check(handoff_meta["hit"] is not None,
+              f"handoff 命中：{handoff_meta['hit']}（walk {handoff_meta['walked']} 檔）",
+              f"walk {handoff_meta['walked']} 檔（≤{HANDOFF_WALK_MAX_FILES} 檔/{HANDOFF_WALK_MAX_HOURS}h）無非空 Handoff 段——上游收官可能漏寫")
     check(len(mem_rows) == min(rows_n, mem_total) and len(dia_rows) == min(rows_n, dia_total),
           f"列數足額：memory {len(mem_rows)}/{mem_total}、diary {len(dia_rows)}/{dia_total}",
           f"列數短少：memory {len(mem_rows)} / diary {len(dia_rows)}（要求 {rows_n}）")
