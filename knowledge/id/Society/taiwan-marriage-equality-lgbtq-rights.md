@@ -1,274 +1,270 @@
 ---
-title: 'Perkawinan Seksama dan Kesetaraan Gender di Taiwan'
-description: 'Dari narapidana masa hukum darurat hingga undang-undang perkawinan seksama pertama di Asia, bagaimana perjuangan 30 tahun seorang pria mendefinisikan ulang cinta di pulau ini'
+title: 'Taiwan dan Hak-hak Gender: Dari Pengasingan di Masa Orde Khusus hingga Undang-Undang Pernikahan Sesama Jenis Pertama di Asia'
+description: 'Dari seorang yang terpaksa ditahan karena "kejahatan" pada masa Orde Khusus hingga undang-undang pernikahan sesama jenis pertama di Asia, bagaimana 33 tahun perjuangan, sertifikasi, dan gugatan hukum mengubah definisi pernikahan di Taiwan'
 date: 2026-03-22
-author: 'Taiwan.md'
 category: 'Society'
-subcategory: '人權與平等'
 tags:
   [
-    'perkawinan seksama',
-    'kesetaraan gender',
+    'pernikahan sesama jenis',
+    'hak gender',
     'hak asasi manusia',
-    'peradilan',
+    'kehakiman',
     'pertama di Asia',
     'Chi Chia-wei',
     'LGBTQ+',
   ]
-readingTime: 12
-lastVerified: 2026-03-22
-lastHumanReview: false
-featured: true
-translatedFrom: 'Society/台灣同婚與性別平權.md'
-sourceCommitSha: 'a05d24314'
-sourceContentHash: 'sha256:369f015f40df17bd'
-sourceBodyHash: 'sha256:87466d8232d3f86e'
-translatedAt: '2026-07-25T12:45:41+08:00'
+subcategory: '人權與平等'
+author: 'Taiwan.md'
 difficulty: 'beginner'
+readingTime: 12
+featured: true
+lastVerified: 2026-10-07
+lastHumanReview: false
+translatedFrom: 'Society/台灣同婚與性別平權.md'
+sourceCommitSha: '872f4aef5'
+sourceContentHash: 'sha256:53dce2454f2bc650'
+sourceBodyHash: 'sha256:a975eff83abc0a3e'
+translatedAt: '2026-10-08T00:51:24+08:00'
 ---
 
-# Perkawinan Seksama dan Kesetaraan Gender di Taiwan
+# Taiwan dan Hak-hak Gender
 
-> **Ringkasan 30 Detik:** Tahun 1986, Chi Chia-wei dipenjara 5 bulan oleh pemerintah hukum darurat dengan tuduhan "kejahatan pencemaran nama baik" karena coming out secara publik. Tahun 2019, gugatan konstitusional orang yang sama membuat Taiwan menjadi negara pertama di Asia yang menglegalisasi perkawinan seksama. Ini bukan sekadar kisah hukum, melainkan kisah 30 tahun tidak pernah menyerah—seorang yang dianggap "monster" oleh masyarakat, akhirnya membuat seluruh masyarakat mendefinisikan ulang cinta.
-
----
-
-## Satu Surat Nikah, Ditunggu 33 Tahun
-
-24 Mei 2019, Kantor Catatan Sipil Distrik Xinyi, Taipei.
-
-Pukul 06.00 pagi, ratusan pasangan seksama berantre di depan pintu. Saat surat pendaftaran perkawinan seksama pertama diserahkan, kerumunan meledak dalam sorak dan air mata. Ada yang saling peluk sambil menangis, ada yang melemparkan bendera pelangi ke langit, ada yang hanya diam memandang selembar kertas tipis di tangannya—tertulis dua kata yang mereka tunggu seumur hidup: "Pasangan".
-
-Chi Chia-wei, 61 tahun, tidak hadir di lokasi. Bukan karena dia tidak memiliki pasangan, melainkan karena baginya kemenangan ini datang terlambat. Dari 1986, saat pertama kali mengajukan pendaftaran perkawinan seksama dan ditolak, hingga 2019 saat undang-undang disahkan, dia menghabiskan 33 tahun.
-
-**Selama 33 tahun itu, dia pernah dipenjara, dicaci maki masyarakat, diejek media, berdiri sendirian di jalanan mengibarkan bendera pelangi sambil dikutuki orang lewat.** Namun setiap kali ditolak, dia mengajukan lagi. Setiap kali kalah di pengadilan, dia banding lagi.
-
-> **📝 Catatan Kurator**
-> Kemenangan perkawinan seksama di Taiwan bukan karena masyarakat tiba-tiba terbuka, melainkan karena ada orang yang menolak dilupakan oleh zaman.
+> **30 detik gambaran:** 1986, Chi Chia-wei secara terbuka mengakui orientasinya, mengajukan kepada parlemen agar pernikahan sesama jenis legal; pada tahun yang sama, di bawah Orde Khusus, ia ditahan karena "kejahatan" selama sekitar lima bulan. 2017, kasus judicial review yang diajukan mendapatkan Interpretasi Konstitusi No. 748; 17 Mei 2019, parlemen mengesahkan undang-undangnya, dan mulai 24 Mei, Taiwan menjadi negara pertama di Asia yang melegalisir pernikahan sesama jenis. Ini adalah kisah tentang 33 tahun keteguhan tekad: seseorang yang dulunya dianggap "pembuat masalah" oleh masyarakat dan media, pada akhirnya membuat seluruh masyarakat mendefinisikan kembali pernikahan.
 
 ---
 
-## "Kejahatan Pencemaran Nama Badu Berat" di Masa Hukum Darurat
+## Hari Pertama, Menunggu 33 Tahun
 
-### 1986: Konferensi Pers yang Mengubah Takdir
+24 Mei 2019, hari pertama berlakunya undang-undang pernikahan sesama jenis.
 
-28 Februari 1986, Taiwan masih di bawah hukum darurat.
+Pukul 08.00.46, Kantor Catatan Sipil Distrik Annan, Kota Tainan, mencatatkan pernikahan pasangan sesama jenis pertama di seluruh Taiwan. Pada akhir hari itu, total 526 pasangan telah mendaftarkan pernikahan, dengan 341 pasangan wanita dan 185 pasangan pria. Pemerintah Kota Taipei mengadakan upacara pernikahan di luar ruangan, di mana para mempelai melangkah di atas tikar pelangi warna-warni.
 
-Hari itu, Chi Chia-wei menggelar konferensi pers internasional di McDonald's, coming out secara publik, menjadi orang Taiwan—bahkan mungkin orang Asia—pertama yang terbuka sebagai gay. Dia mengundang Reuters dan media internasional lain untuk meliput, mempromosikan pencegahan AIDS, saat itu berusia 28 tahun.
+Chi Chia-wei berusia 60 tahun juga hadir di upacara tersebut, mengenakan jas merah mencolok dan mengelilingi bendera pelangi untuk memberikan doa bagi para mempelai. Dari pertama kali dia ditolak saat mengajukan kepada parlemen pada 1986 hingga hari ini, dia telah menunggu selama 33 tahun.
 
-**5 bulan kemudian, dia ditangkap pemerintah dengan tuduhan "kejahatan pencemaran nama badan berat".**
+**Selama 33 tahun ini, dia ditahan, dianggap sebagai "pembuat masalah" oleh masyarakat dan media, dan sekali-kali sendirian di jalan mengibarkan bendera pelangi sambil diserang oleh penonton.** Namun setiap kali ditolak, ia mencoba lagi. Setiap kali kalah di pengadilan, ia mengajukan banding.
 
-"Orang yang menangkapku berkata: 'Tuan Chi, kau terlalu hebat, jadi kami harus membuatmu hilang dari dunia bebas, memenjarakanmu lima tahun.'" Chi Chia-wei kenang kemudian. Tapi orang pintar yang belajar hukum ini, menggunakan pengetahuan kriminologinya, berhasil bebas dalam 5 bulan.
-
-Keluar penjara, dia mengambil keputusan lebih gila lagi: mengajukan pendaftaran perkawinan seksama.
-
-### Pengajuan Pertama, Penolakan Pertama
-
-1986, Chi Chia-wei mengajukan ke Pengadilan Distrik Taipei permohonan pendaftaran perkawinan dengan pacarnya laki-laki.
-
-Ditolak adalah hal yang sudah diprediksi. Tapi Chi Chia-wei bukan menunggu sekali sukses, dia ingin membangun **preseden hukum**—membuat hal ini dari tidak ada, jadi ada. Dari tidak ada yang membicarakan, jadi harus dibicarakan.
-
-> **💡 Tahukah Kamu**
-> Chi Chia-wei sejak 17 tahun bertekad memperjuangkan HAM LGBTQ+. 1975, guru bahasa Inggris mengajarkan kata "homosexual", dia pulang mencari referensi, menemukan bahwa 1974 Asosiasi Psikiatri Dunia telah menghapus homoseksualitas dari daftar gangguan jiwa, sehingga dia yakin orientasinya normal.
+> **📝 Catatan kurator**
+> Kemenangan pernikahan sesama jenis di Taiwan bukan karena masyarakat tiba-tiba menjadi lebih terbuka, tetapi karena ada seseorang yang menolak untuk dilupakan oleh zaman.
 
 ---
 
-## Perang Seorang Diri
+## "Kejahatan Serius" di Masa Orde Khusus
 
-### Tatapan Dingin dan Kutukan Masyarakat
+### 1986: Sidang Pers yang Mengubah Nasib
 
-Akhir 1980-an hingga awal 1990-an, LGBTQ+ di Taiwan masih sangat terkena stigma. Chi Chia-wei dengan identitas terbuka berpartisipasi dalam gerakan sosial, sering dikutuki dan diejek orang lewat.
+Awal 1986, Taiwan mas masih berada di bawah Orde Khusus.
 
-Dia pernah berperan sebagai Yesus, memikul salib di jalanan menyuluhkan pencegahan AIDS; memakai 300 kondom, berdres sebagai Ratu Mesir di stasiun membagikan; menggalang dana untuk penderita AIDS tapi dihindar seperti wabah.
+Chi Chia-wei mengadakan sidang pers internasional di sebuah restoran McDonald's di Taipei, secara terbuka mengakui orientasinya, dan kemudian dikenal sebagai orang pertama di Taiwan yang secara terbuka mengakui orientasinya. Ia mengundang media internasional seperti Reuters untuk melaporkan, sekaligus mempromosikan pencegahan AIDS. Pada saat itu, ia berusia 27 tahun.
 
-**Jurnalis senior Taiwan Yang Suo kenang: "Setiap kali teringat Chi Chia-wei, benak selalu memunculkan gambar akhir 1980-an, dia memikul kotak penggalangan dana...... orang lewat kebanyakan menjauh jauh, memandangnya seperti wabah, masyarakat dan media memandangnya sebagai 'pembuat masalah'."**
+Pada tahun yang sama, ia mengajukan kepada parlemen agar pernikahan sesama jenis legal. Perwakilan Mahkamah Agung dan Kementerian Kehakiman menyatakan penolakan, dan Komite Hukum Parlemen merasa tidak perlu untuk membahasnya sebagai gagasan legislatif.
 
-Tapi Chi Chia-wei tidak pernah merasa kesepian. Strateginya bukan mengorganisasi komunitas, mengumpulkan massa, melainkan **sendirian menantang setiap rantai sistem**.
+**Pada Agustus tahun itu, ia dipanggil, ditahan, dengan tuduhan "kejahatan".**
 
-### Maraton Hukum 30 Tahun
+"Orang yang menangkap saya berkata: 'Chi, Anda hebat, jadi kami harus membuat Anda menghilang dari dunia bebas, selama lima tahun,'" kemudian mengingat Chi. Lawan yang bersangkutan secara sembarangan menyematkan tuduhan kejahatan, dan ia berhasil keluar setelah lima bulan berkat pengetahuan kriminologi dan hukum. Versi lain berasal dari pengakuannya sendiri: Presiden Jiang Jing-guo yang saat itu mengetahui kejadian ini tidak memedulikannya, dan pada 23 Januari tahun berikutnya, ia dilepaskan dengan jaminan.
 
-1986 hingga 2019, Chi Chia-wei mengeksploitasi semua jalur hukum:
+### Pengajuan, Sertifikasi, Pendaftaran, Setiap Kali Ditolak
 
-- **Band administratif**: mengajukan, mengadukan, banding ke berbagai tingkat pemerintah
-- **Gugatan yudikial**: gugatan sipil, gugatan administratif, keberatan, banding
-- **Permohonan legislatif**: berulang kali mengusulkan ke Dewan Perwakilan Rakyat
-- **Senjata akhir**: 2015, mengajukan gugatan konstitusional ke Hakim Konstitusi
+Pengajuan pada 1986 adalah kali pertama Chi secara resmi mengajukan permintaan pernikahan sesama jenis kepada negara. Kemudian ia mengirimkan permintaan yang sama ke setiap saluran yang bisa ia temukan: Pada November 1998, ia ke Pengadilan Agama Taipei untuk mencatatkan pernikahan dengan pasangan, namun ditolak; Setelah perubahan sistem pendaftaran pernikahan pada 2008, pada 21 Maret 2013, ia mencoba mendaftarkan pernikahan di Kantor Catatan Sipil Wanhua, Kota Taipei, dan sekali lagi ditolak.
 
-Setiap kekalahan, adalah batu loncatan kemenangan berikutnya. **Chi Chia-wei tidak menunggu masyarakat berubah, dia menciptakan kondisi agar masyarakat berubah.**
+Penolakan adalah hal yang wajar. Namun Chi tidak mencari kesuksesan sekaligus, ia ingin mendirikan **preceden hukum** — mengubah sesuatu yang belum ada menjadi ada. Dari tidak ada diskusi, menuju harus ada diskusi.
 
----
-
-## Interpretasi Nomor 748: Putusan Sejarah Konstitusi
-
-### 24 Mei 2017: Titik Balik Sejarah Konstitusi Asia
-
-24 Mei 2017, Hakim Konstitusi Mahkamah Konstitusi mengumumkan Interpretasi Nomor 748, menyatakan _Undang-Undang Sipil_ yang tidak melindungi perkawinan seksama bertentangan dengan konstitusi. Taiwan menjadi **negara pertama di Asia yang Hakim Konstitusinya mengakui hak perkawinan seksama dilindungi konstitusi**.
-
-> **✦** "_Undang-Undang Sipil tidak memungkinkan dua orang sejenis kelamin untuk bertujuan menjalani kehidupan bersama, membentuk hubungan permanen yang bersifat intim dan eksklusif, hal ini bertentangan dengan semangat Pasal 22 Konstitusi yang menjamin kebebasan perkawinan rakyat dan Pasal 7 yang menjamin hak kesetaraan rakyat._"
-
-Hakim Konstitusi memberi waktu dua tahun pada badan legislatif untuk mengubah undang-undang. Jika sebelum 24 Mei 2019 belum selesai legislasi, pasangan seksama dapat langsung mendaftar menikah berdasarkan _Undang-Undang Sipil_.
-
-### Tiga Landasan Logika
-
-**Kebebasan perkawinan**: hak dasar yang dijamin konstitusi, tidak boleh dibatasi karena orientasi seksual berbeda
-**Jaminan hak kesetaraan**: perlakuan berbeda berbasis orientasi seksual harus lolos uji ketat, undang-undang berlaku merupakan diskriminasi tidak masuk akal
-**Perlindungan hak pribadi**: hubungan intim pasangan seksama berkaitan erat dengan perkembangan kepribadian
-
-Ini bukan hanya kemenangan hukum, lebih merupakan **perubahan revolusioner dalam pandangan HAM**.
+> **💡 Apakah Anda tahu?**
+> Chi mengatakan, pada musim panas 1975, guru bahasa Inggrynya mengajarkan kata "homosexual", sejak saat itulah ia mulai memikirkan identitas sesama jenisnya. Saat libur musim panas mencari informasi, ia membaca bahwa orientasi sesama jenis telah dihapuskan dari klasifikasi penyakit mental, sehingga ia yakin orientasinya adalah normal. Ia ingat adalah Konferensi Psikiatri Internasional tahun 1974; sebenarnya, Asosiasi Psikiatri Amerika pada 1973 telah menghapus orientasi sesama jenis dari buku diagnosa, dan Organisasi Kesehatan Dunia baru pada 17 Mei 1990 — hari ini kemudian dikenal sebagai Hari Internasional Anti-Homofobia.
 
 ---
 
-## Referendum 2018: Tarik Tambang Masyarakat
+## Perang Satu Orang
 
-### Kekuatan Reaksi Balik
+### Indiferensi dan Kutukan Masyarakat
 
-Pasca interpretasi konstitusi, kelompok penentang menggelar "Referendum Cinta Keluarga" sebagai serangan balik. 24 November 2018, referendum terkait perkawinan seksama menjadi mobilisasi warga paling sengit di Taiwan.
+Pada akhir 1980-an hingga awal 1990-an, orang sesama jenis masih sangat terstigma di Taiwan. Chi yang terbuka berpartisipasi dalam gerakan sosial, seringkali diserang oleh orang asing dan digoda.
 
-**Hasil referendum menumbangkan gerakan perkawinan seksama:**
+Ia pernah berperan sebagai Yesus, menggendong salib di jalan untuk mempromosikan pencegahan AIDS; ia mengenakan 300 kondom di tubuh, berpakaian sebagai Ratu Kleopatra di stasiun kereta untuk mendistribusikan; Ia pernah dikucilkan seperti wabah ketika menggalang dana untuk pasien AIDS.
 
-- "Perkawinan di _Undang-Undang Sipil_ harus dibatasi satu laki-laki satu perempuan": 7,65 juta suara setuju
-- "Melindungi pasangan seksama dengan undang-undang khusus": 6,49 juta suara setuju
-- Mendukung mengubah _Undang-Undang Sipil_: hanya 3,04 juta suara setuju
+**Jurnalis senior Taiwan, Yang Sohui, mengingat: "Setiap kali saya mengingat Chi, saya selalu membayangkan akhir 1980-an, saat ia menggendong kotak pengumpul dana untuk pasien AIDS...... Orang yang lewat kebanyakan menjauh dari jauh, menganggapnya seperti wabah, dan masyarakat serta media cenderung melihatnya sebagai 'pembuat masalah'..."**
 
-### Air Mata Malam Referendum
+Namun Chi tidak pernah merasa sendirian. Strateginya bukan untuk membentuk organisasi, mengumpulkan massa, tetapi **menantang setiap mekanisme sistem secara individual**.
 
-Malam 24 November 2018, banyak komunitas LGBTQ+ dan pendukung di lokasi penghitungan suara menangis. Ada yang menggambarkan itu sebagai "rasa sakit keberadaan dinegasi oleh referendum".
+### Lomba Hukum Tiga Puluh Tahun
 
-Tapi kekalahan ini juga melahirkan refleksi penting: **Apakah hak asasi manusia dasar harus ditentukan oleh suara mayoritas?** Proses referendum penuh kampanye ketakutan dan hoaks, juga membuat masyarakat mulai sadar pentingnya kualitas informasi bagi diskusi demokrasi.
+Dari 1986 hingga 2019, Chi telah memanfaatkan semua jalan hukum yang tersedia:
 
-> **⚠️ Perspektif Kontroversial**
-> Pakar hukum umumnya berpendapat HAM tidak boleh dikondisikan oleh keputusan mayoritas, tapi pihak penentang menegakkan keabsahan prosedur demokrasi. Ketegangan ini hingga kini masih terus dibahas di masyarakat Taiwan.
+- **Banding administratif**: Mengajukan kepada pemerintah setiap tingkatnya, melaporkan, mengajukan banding
+- **Gugatan pidana**: Gugatan sipil, gugatan administratif, banding, banding kembali
+- **Pengajuan legislatif**: Berulang kali mengajukan proposal ke parlemen
+- **Senjata terakhir**: Pada 2015, ia mengajukan judicial review ke Mahkamah Agung
+
+Setiap kekalahan adalah batu loncatan untuk kemenangan berikutnya. **Chi bukanlah seseorang yang menunggu perubahan sosial, ia adalah seseorang yang menciptakan kondisi untuk mengubah sosial.**
 
 ---
 
-## 17 Mei 2019: 66 Suara Sejarah
+## Interpretasi 748: Putusan Sejarah Konstitusi
+
+### 24 Mei 2017: Titik Balik Sejarah Hukum Konstitusi Asia
+
+Pada 24 Mei 2017, Mahkamah Agung mengumumkan Interpretasi Konstitusi No. 748, menyatakan bahwa Ketentuan Hukum Sipil tidak melindungi pernikahan sesama jenis adalah tidak konstitusional. Taiwan menjadi **negara pertama di Asia yang diakui oleh otoritas hukum tertinggi bahwa hak pernikahan sesama jenis dilindungi oleh konstitusi**.
+
+> **✦** "Pasal 2 Bab IV Bagian Kedua tentang pernikahan dalam Hukum Sipil, tidak memungkinkan dua orang dari jenis kelamin yang sama untuk hidup bersama secara permanen dengan ikatan intim dan eksklusif, dalam hal ini, bertentangan dengan maksud Pasal 22 Konstitusi yang menjamin kebebasan pernikahan bagi rakyat dan Pasal 7 yang menjamin hak kesetaraan bagi rakyat."
+
+Mahkamah Agung memberi dua tahun bagi legislatur untuk memperbaiki hukum. Jika sebelum 24 Mei 2019 tidak ada undang-undang yang disahkan, pasangan sesama jenis dapat mendaftarkan pernikahan langsung berdasarkan Hukum Sipil.
+
+### Dua Dasar Konstitusi
+
+**Kebebasan Pernikahan (Pasal 22 Konstitusi)**: Keputusan untuk "apakah harus menikah" dan "dengan siapa harus menikah" berkaitan erat dengan kesejahteraan kepribadian dan martabat manusia, dan juga harus dilindungi bagi pasangan sesama jenis
+
+**Hak Kesetaraan (Pasal 7 Konstituti)**: Perlakuan yang membedakan berdasarkan orientasi seksual harus mengikuti "standar pengujian yang lebih ketat", dan hukum sipil saat ini tidak lolos
+
+Ini bukan hanya kemenangan hukum, tetapi juga **revolusi konseptual dalam hak asasi manusia**.
+
+---
+
+## Referendum 2018: Pertarungan Sosial
+
+### Kekuatan Reaksi
+
+Setelah judicial review, kelompok penolak mengadakan aksi "Referendum Cinta" untuk melawan. Pada 24 November 2018, isu pernikahan sesama jenis menjadi sorotan paling panas dalam gerakan sipil Taiwan.
+
+**Hasil referendum merupakan pukulan bagi gerakan sesama jenis:**
+
+- "Hukum pernikahan harus dibatasi untuk satu pria dan satu wanita": 7,65 juta suara setuju
+- "Melindungi hubungan pasangan sesama jenis melalui bentuk lain di luar ketentuan hukum pernikahan": 6,4 juta suara setuju
+- "Menggunakan ketentuan hukum pernikahan untuk melindungi hubungan pasangan sesama jenis": hanya 3,38 juta suara setuju
+
+### Air Mata di Malam Referendum
+
+Pada malam 24 November 2018, banyak komunitas sesama jenis dan pendukung sedang mengundung di tempat pemungutan suara. Beberapa orang menggambarkannya sebagai "rasa sakit karena eksistensi ditolak oleh referendum".
+
+Namun kegagalan ini juga mendorong refleksi sosial yang penting: **Apakah hak asasi manusia dasar harus ditentukan oleh mayoritas?** Proses referendum yang penuh dengan seruan ketakutan dan informasi palsu juga membuat masyarakat mulai memperhatikan pentingnya kualitas informasi dalam diskusi demokrasi.
+
+> **⚠️ Pendapat kontroversial**
+> Para ahli hukum umumnya berpendapat bahwa hak asasi manusia tidak boleh dikendalikan oleh mayoritas, namun pihak penolak tetap meyakini keabsahan prosedur demokrasi. Tegangan ini masih terus dibahas dalam masyarakat Taiwan hingga kini.
+
+---
+
+## 17 Mei 2019: Suara Sejarah 66
 
 ### Hari Internasional Anti-Homofobia
 
-17 Mei 2019—"Hari Internasional Anti-Homofobia"—Dewan Perwakilan Rakyat tiga bacaan menyahkan _Undang-Undang Pelaksanaan Interpretasi Nomor 748 Mahkamah Konstitusi_.
+Pada 17 Mei 2019 — "Hari Internasional Anti-Homofobia" — Dewan Legislatif mengesahkan "Undang-Undang Pelaksanaan Interpretasi Konstitusi No. 748" secara tuntas.
 
-**66 suara setuju, 27 suara menentang.**
+**Pasal ke-4 kunci (pasangan sesama jenis dapat mendaftarkan pernikahan di kantor catatan sipil) disetujui dengan 66 suara setuju, 27 suara menolak.**
 
-Saat undang-undang disahkan, puluhan ribu pendukung di luar gedung DPR meledak dalam sorak yang mengguncang langit. Di Jalan Ketagalan yang dihujani, bendera pelangi berkibar, orang-orang saling peluk menangis.
+Hari itu, hujan gerimis turun, dan para pendukung berkumpul di sekitar Dewan Legislatif sejak pagi, dengan kerumunian yang menyebar dari Jalan Qingdao Timur ke Jalan Zhongshan Selatan, Jalan JiNan.
 
-### Undang-Undang Kompromi tapi Sejarah
+### Undang-Undang yang Kompromi namun Sejarah
 
-Undang-undang ini adalah produk kompromi politik—bukan mengubah _Undang-Undang Sipil_, bukan pula undang-undang khusus sepenuhnya, melainkan "Undang-Undang Pelaksanaan".
+Undang-undang ini adalah hasil kompromi politik — bukan modifikasi Hukum Sipil, juga bukan undang-undang khusus yang sepenuhnya mandiri, melainkan "Undang-Undang Pelaksanaan".
 
 **Isi undang-undang:**
 
-- ✅ **Hak perkawinan**: pasangan seksama dapat mengikat hubungan perkawinan
-- ✅ **Perlindungan harta**: berlaku rezim harta kekayaan suami istri _Undang-Undang Sipil_
-- ✅ **Keputusan medis**: hak wakil keputusan medis pasangan
-- ✅ **Hak waris**: perlindungan waris penuh
-- ⚠️ **Keterbatasan adopsi**: awal hanya boleh mengadopsi anak kandung pasangan
-- ⚠️ **Keterbatasan lintas negara**: hanya dengan warga negara yang juga mengakui perkawinan seksama
+- ✅ **Hak pernikahan**: Pasangan sesama jenis dapat mendirikan hubungan pernikahan
+- ✅ **Perlindungan harta kekayaan**: Diterapkan sistem harta kekayaan suami istri di Hukum Sipil
+- ✅ **Keputusan medis**: Hak untuk mengambil keputusan medis atas pasangan
+- ✅ **Hak waris**: Perlindungan waris yang lengkap
+- ⚠️ **Batasan adopsi**: Awalnya hanya dapat mengadopsi anak kandung pasangan
+- ⚠️ **Batasan luar negeri**: Undang-undang ini tidak menyebutnya secara eksplisit, namun pada 2019, Kementerian Dalam Negeri menyatakan bahwa negara asal pasangan asing juga harus mengakui pernikahan sesama jenis sebelum dapat mendaftarkan pernikahan
 
-Meskipun ada keterbatasan, Taiwan tetap menjadi **negara pertama di Asia yang menjamin perkawinan seksama dengan undang-undang**.
-
----
-
-## Pasca Perkawinan Seksama: Kesetaraan yang Terus Berevolusi
-
-### Penyempurnaan Bertahap Hukum
-
-**Januari 2023**: Kementerian Dalam Negeri melonggarkan keterbatasan perkawinan seksama lintas negara, warga negara Taiwan dapat menikah dengan warga asing dari mayoritas negara yang tidak mengakui perkawinan seksama
-
-**Mei 2023**: Dewan Perwakilan Rakyat menyahkan revisi, mengizinkan pasangan suami istri seksama bersama-sama mengadopsi anak tanpa hubungan darah
-
-### Data Pendaftaran Perkawinan
-
-Sejak 24 Mei 2019 dibuka hingga kini:
-
-- **Total pendaftaran**: lebih dari 10.000 pasangan seksama menyelesaikan pendaftaran perkawinan
-- **Proporsi gender**: pasangan perempuan sekitar dua kali lipat pasangan laki-laki
-- **Distribusi wilayah**: tidak hanya terkonsentrasi area metropolitan, daerah kabupaten/kota juga memiliki kasus pendaftaran
-
-> **📊 Sumber Data**
-> Statistik Direktorat Jenderal Administrasi Kependudukan Kementerian Dalam Negeri, data kumulatif 2019-2022. Jumlah pendaftaran tahunan cenderung stabil, mencerminkan pemenuhan permintaan bertahap.
+Meskipun ada keterbatasan, Taiwan tetap menjadi **negara pertama di Asia yang secara hukum melindungi pernikahan sesama jenis**.
 
 ---
 
-## Parade Kebanggaan Taipei: Ibukota Pelangi Asia
+## Setelah Pernikahan Sesama Jenis: Evolusi Berkelanjutan
 
-### Dari 1.000 ke 100.000 Orang
+### Perbaikan Bertahap Hukum
 
-**2003**: Parade Kebanggaan Taipei didirikan, sekitar 1.000 peserta
-**2014**: melebihi 65.000 orang, menjadi parade terbesar di Asia
-**Tahun-tahun terakhir**: stabil di atas 100.000 orang
+**19 Januari 2023**: Kementerian Dalam Negeri menerbitkan interpretasi baru, Taiwan dapat mendaftarkan pernikahan antara warga Taiwan dan pasangan asing sesama jenis (termasuk Hong Kong dan Macau, tetapi tidak termasuk Tiongkok Daratan), tidak peduli apakah negara asal pasangan mengakui pernikahan sesama jenis
 
-Setiap Sabtu terakhir Oktober, pusat kota Taipei dikuasai bendera pelangi. Peserta meliputi komunitas LGBTQ+, pendukung straight, rombongan perusahaan, diplomat asing, wisatawan internasional, membentuk karnaval kesetaraan gender terbesar di Asia.
+**16 Mei 2023**: Dewan Legislatif mengesahkan perubahan, pasangan sesama jenis juga dapat mengadopsi anak yang tidak memiliki hubungan darah
 
-### Parade Daerah Berkembang di Mana-mana
+### Data Pendaftaran Pernikahan
 
-Di luar Taipei, Kaohsiung (mulai 2011), Taichung, Tainan, Hualien juga menggelar parade kebanggaan. Perkembangan parade daerah menunjukkan isu gender telah menyebar dari topik metropolitan ke seluruh Taiwan.
+Sejak 24 Mei 2019 terbuka hingga kini:
 
-**Parade Kebanggaan Taipei menarik banyak komunitas LGBTQ+ Asia Tenggara dan Asia Timur yang sengaja datang berpartisipasi, sehingga Taiwan dipandang sebagai "Ibukota Ramah LGBTQ+ Asia".**
+- **Jumlah total pendaftaran**: Akumulasi sekitar 18.000 pasangan hingga akhir 2025 (pada akhir 2022 adalah 9.659 pasangan, pada 2023 melebihi 10.000)
+- **Proporsi jenis kelamin**: 13.427 pasangan wanita, 4.889 pasangan pria, pasangan wanita sekitar 2,7 kali lipat pasangan pria
+- **Jumlah pendaftaran per tahun**: Sekitar 1.900 hingga 2.500 pasangan per tahun dari 2020 hingga 2022, sekitar 3.200 pasangan per tahun dari 2023 hingga 2025
+
+> **📊 Sumber data**
+> Statistik Kementerian Dalam Negeri, 24 Mei 2019 hingga 31 Desember 2025, dirangkum dari tabel statistik Wikipedia "Pernikahan Sesama Jenis di Taiwan".
 
 ---
 
-## Makna Internasional: Mercusuar Asia
+## Parade Sipil Taipei: Ibukota Pelangi Asia
 
-### Efek Demonstrasi
+### Dari 1.000 Orang hingga 100.000 Orang
 
-**23 Januari 2025**: Undang-undang perkawinan seksama Thailand berlaku, menjadi negara kedua di Asia yang legalisasi perkawinan seksama. Proses legislasi Thailand banyak merujuk pengalaman Taiwan.
+**2003**: Parade Sipil Taipei didirikan, sekitar 1.000 orang mengikuti
+**2014**: Penyelenggara perkiraan sekitar 65.000 orang
+**Beberapa tahun terakhir**: Penyelenggara perkiraan antara 120.000 hingga 180.000 orang (2022: 120.000, 2023: 176.000, 2024: 180.000)
 
-**Jepang, Korea Selatan, Vietnam, Filipina** dan negara lain gerakan LGBTQ+ semuanya menarik strategi dan keberanian dari kasus Taiwan. Taiwan membuktikan: **masyarakat Asia sambil mempertahankan tradisi budaya, sepenuhnya dapat membangun sistem HAM yang progresif.**
+Setiap akhir pekan Oktober, pusat kota Taipei dipenuhi bendera pelangi. Pesertanya termasuk komunitas sesama jenis, pendukung langsung, tim korporat, diplomat asing, wisatawan internasional, membentuk pesta keadilan gender terbesar di Asia.
 
-### Demonstrasi Kekuatan Lunak
+### Parade Sipil Daerah Juga Berkembang
 
-Legislasi perkawinan seksama memperkuat citra internasional Taiwan sebagai "Mercusuar HAM Asia". Dalam menghadapi tantangan diplomatik, kesetaraan gender menjadi bidang penting Taiwan menampilkan nilai-nilai.
+Di luar Taipei, Kaohsiung (sejak 2010), Taichung, Tainan, dan Hualien juga mengadakan parade sipil. Pengembangan parade sipil daerah menunjukkan bahwa isu gender telah menyebar dari topik kota besar ke seluruh Taiwan.
 
-**Organisasi HAM internasional memuji Taiwan sebagai "Teladan Demokrasi dan HAM Asia", hal ini membawa dampak positif bagi posisi internasional Taiwan.**
+**Parade Sipil Taipei menarik banyak kelompok LGBTQ+ dari Asia Tenggara dan Asia Timur yang secara khusus hadir, sehingga Taiwan dianggap sebagai "Ibukota Ramah Sesama Jenis di Asia".**
+
+---
+
+## Makna Internasional: Faros Asia
+
+### Efek Contoh
+
+**23 Januari 2025**: Undang-Undang Pernikahan Sesama Jenis Thailand berlaku, menjadi negara pertama di Asia Tenggara yang mengakui pernikahan sesama jenis.
+
+Gerakan sesama jenis di Jepang, Korea Selatan, Vietnam, dan Filipina semuanya mengambil strategi dan keberanian dari kasus Taiwan. Taiwan membuktikan bahwa: **Masyarakat Asia dapat menjaga tradisi budaya sekaligus mendirikan sistem hak asasi manusia yang maju.**
+
+### Demonstrasi Kekuatan Lemah
+
+Pernyataan hukum pernikahan sesama jenis memperkuat citra internasional Taiwan sebagai "Faros Asia". Di tengah tantangan diplomasi, keadilan gender menjadi salah satu bidang penting bagi Taiwan untuk menunjukkan nilai-nilainya.
 
 ---
 
 ## Revolusi yang Belum Selesai
 
-### Isu yang Masih Tertunda
+### Isu yang Masih Perlu Diselesaikan
 
-**Hak transgender**: perubahan gender di KTP masih memerlukan bukti operasi, memicu kontroversi HAM
+**Hak Transgender**: Berdasarkan interpretasi Kementerian Dalam Negeri, perubahan gender pada kartu identitas tetap membutuhkan diagnosa klinis dan operasi pembedahan; hingga Juli 2026, telah ada 12 orang transgender yang berhasil melalui gugatan administratif untuk mendapatkan "pengganti operasi bebas", namun sistemnya sendiri belum berubah
 
-**Undang-undang anti-diskriminasi**: Taiwan kekurangan legislasi anti-diskriminasi komprehensif, perlindungan diskriminasi tempat kerja dan pendidikan tidak memadai
+**Hukum Anti-Diskriminasi**: Taiwan kekurangan undang-undang anti-diskriminasi yang komprehensif, perlindungan terhadap diskriminasi di tempat kerja dan pendidikan tidak mencukupi
 
-**LGBTQ+ pedalaman**: komunitas LGBTQ+ di luar area metropolitan dalam sumber daya dan tingkat penerimaan masih menghadapi tantangan
+**Kelompok Sipil di Luar Kota**: Kelompok LGBTQ+ di luar kawasan metropolitan masih menghadapi tantangan dalam sumber daya dan tingkat penerimaan
 
-**Perawatan lanjut usia LGBTQ+**: sistem layanan perawatan lanjut usia ramah LGBTQ+ masih perlu dibangun
+**Perawatan Lansia Sipil**: Sistem perawatan yang ramah gender untuk lansia masih perlu dikembangkan
 
-### Dialog Masyarakat yang Berkelanjutan
+### Diskusi Sosial yang Berkelanjutan
 
-Pasca legislasi perkawinan seksama, diskusi masyarakat Taiwan soal isu gender lebih dewasa. **Dari "bisa tidak menikah" berkembang ke "bagaimana hidup bersama", dari kesetaraan hukum menuju inklusivitas sosial.**
+Setelah hukum pernikahan sesama jenis disahkan, diskusi masyarakat Taiwan tentang isu gender menjadi lebih matang. **Dari "apakah kita bisa menikah" menuju "bagaimana kita bisa hidup bersama", dari kesetaraan hukum menuju inklusi sosial.**
 
-**Pendidikan kesetaraan gender, inklusivitas keberagaman tempat kerja, lingkungan medis ramah**—ini semua adalah medan perang berikutnya kesetaraan gender Taiwan.
-
----
-
-## Mengapa Hal Ini Penting?
-
-Makna legislasi perkawinan seksama Taiwan, jauh melampaui perkawinan itu sendiri:
-
-**Batu uji kualitas demokrasi**: bagaimana masyarakat memperlakukan kelompok minoritas, adalah indikator penting kedewasaan demokrasinya
-
-**Redefinisi nilai Asia**: Taiwan membuktikan menghormati tradisi dan menjamin HAM dapat berdampingan
-
-**Kemenangan semangat supremasi hukum**: dari pengajuan perorangan ke interpretasi Hakim Konstitusi, menampilkan kekuatan sistem hukum melindungi golongan lemah
-
-**Simbol kemajuan masyarakat**: dari "kejahatan" masa hukum darurat ke "hak" era demokrasi, memantulkan kemajuan peradaban seluruh masyarakat
-
-> **✦** _"Ini bukan hanya perubahan hukum, lebih merupakan kemajuan peradaban. Setiap pasangan yang berkat ini dapat menikah secara legal, adalah saksi kehormatan kemanusiaan yang terlindungi."_
+**Pendidikan keadilan gender, kebersamaan keragaman di tempat kerja, lingkungan medis yang ramah gender** — ini adalah medan perangangan berikutnya bagi Taiwan.
 
 ---
 
-Dari 1986 pengajuan pertama Chi Chia-wei di masa hukum darurat, hingga 2019 pemungutan suara sejarah Dewan Perwakilan Rakyat; dari perang sendirian seorang pria, hingga parade pelangi puluhan ribu orang—Taiwan telah berjalan 33 tahun.
+## Mengapa Ini Penting?
 
-Kisah ini memberitahu kami: **Perubahan bukan instan, tapi selama ada orang berani berdiri, selama sistem supremasi hukum dapat beroperasi, kesetaraan dan kehormatan pasti akan tiba.**
+Makna hukum pernikahan sesama jenis di Taiwan jauh melampaui sekadar pernikahan:
 
-Pengalaman Taiwan juga menyatakan kepada dunia: di dunia penuh perselisihan ini, cinta, adalah hal yang paling tidak perlu dikategorikan.
+**Indikator Kualitas Demokrasi**: Bagaimana sebuah masyarakat memperlakukan kelompok minoritas adalah indikator penting kedewasaan demokrasi
+
+**Redefinisi Nilai Asia**: Taiwan membuktikan bahwa menghormati tradisi dan melindungi hak asasi manusia dapat berdampingan
+
+**Kemenangan Semangat Hukum**: Dari aplikasi individu hingga judicial review, menunjukkan kekuatan sistem hukum untuk melindungi kelompok lemah
+
+**Simbol Kemajuan Sosial**: Dari "kejahatan" pada masa Orde Khusus hingga "hak" pada masa demokrasi, mencerminkan kemajuan peradaban masyarakat secara keseluruhan
+
+---
+
+Dari pengajuan pertama Chi pada masa Orde Khusus pada 1986 hingga pemungutan suara sejarah di Dewan Legislatif pada 2019; dari perang satu orang hingga ribuan orang mengikuti parade pelangi — Taiwan telah berjalan selama 33 tahun.
+
+Kisah ini memberi kita pelajaran: **Perubahan bukanlah sesuatu yang terjadi sekaligus, tetapi selama ada seseorang yang rela berdiri, selama sistem hukum berfungsi, keadilan dan martabat pasti akan tiba.**
+
+Pengalaman Taiwan juga menyatakan kepada dunia: Di dunia yang penuh dengan perbedaan, cinta adalah sesuatu yang paling tidak perlu dikategorikan.
 
 ## Referensi
 
-- [BBC Chinese: 30 Tahun Gerakan LGBTQ+ Taiwan: Menyaksikan Proses Legislasi Undang-Undang Perkawinan Seksama](https://www.bbc.com/zhongwen/trad/chinese-news-48368470)
-- [Mahkamah Konstitusi: Interpretasi Nomor 748](https://cons.judicial.gov.tw/docdata.aspx?fid=100&id=310929)
-- [CNA: Undang-Undang Perkawinan Seksama Pertama Asia, DPR Tiga Bacaan Disahkan](https://www.cna.com.tw/news/firstnews/201905175004.aspx)
-- [DPR: Undang-Undang Pelaksanaan Interpretasi Nomor 748 Mahkamah Konstitusi](https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=33324&pid=183416)
-- [Amnesty International: Taiwan Menjadi Pertama di Asia Legalisasi Perkawinan Seksama](https://www.amnesty.org/en/latest/press-release/2019/05/taiwan-same-sex-marriage-law/)
+- [BBC Chinese: 30 tahun gerakan sesama jenis Taiwan: Saksi perubahan hukum pernikahan sesama jenis](https://www.bbc.com/zhongwen/trad/chinese-news-48368470)
+- [Mahkamah Agung: Interpretasi Konstitusi No. 748](https://cons.judicial.gov.tw/docdata.aspx?fid=100&id=310929)
+- [Central News Agency: Undang-undang pernikahan sesama jenis pertama di Asia, Dewan Legislatif mengesahkannya](https://www.cna.com.tw/news/firstnews/201905175004.aspx)
+- [Dewan Legislatif: Undang-Undang Pelaksanaan Interpretasi Konstitusi No. 748](https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=33324&pid=183416)
+- [Amnesty International: Taiwan menjadi negara pertama di Asia yang melegalisir pernikahan sesama jenis](https://www.amnesty.org/en/latest/press-release/2019/05/taiwan-same-sex-marriage-law/)
