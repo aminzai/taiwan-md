@@ -1,5 +1,5 @@
 ---
-title: 'Condado de Penghu: duas vezes rejeitou cassinos, a escolha de Quemulang não é pobreza'
+title: 'Condado de Penghu: duas vezes disse não aos cassinos, e a Ilha dos Crisântemos não escolheu a pobreza'
 description: 'Em 26 de setembro de 2009, Ma Jianzhong votou publicamente, opõe-se 17.359 votos, os cassinos perderam por 3.962 votos. Sete anos depois, em 2016, votou novamente, com 81,07% contra. Uma ilha com apenas 1.000 mm de chuva anual, 108.000 registros residentes mas apenas 80.000 residentes, lançou a primeira votação de jogos locais do país, e depois votou novamente. Na mesma área marítima, em 1604, Shen You-rong permitiu que os holandeses se retirassem; em 1622, os holandeses se mudaram de Fengqixi para Tainan; em 1885, o comandante francês Gu Bei morreu de doença no porto de Matsu Temple. As colunas de basalto vulcânico com 17,4 milhões de anos ainda existem, 89 ilhas são rocha vulcânica escura, uma é rocha andesítica mais antiga. Dentro dos muros de pedra dos campos de inverno, as plantas crescem no lado protegido do vento.'
 date: 2026-05-18
 category: 'Geography'
@@ -9,7 +9,7 @@ tags:
     'Condado de Penghu',
     'Ilha afastada',
     'Magaokou',
-    'Quemulang',
+    'Ilha dos Crisântemos',
     'Basalto vulcânico',
     'Pedra dupla coração',
     'Ponte sobre o mar',
@@ -35,7 +35,7 @@ sourceBodyHash: 'sha256:cf2c3e11ea1bbb06'
 translatedAt: '2026-10-03T19:18:50.418608+00:00'
 ---
 
-# Condado de Penghu: duas vezes rejeitou os cassinos; a escolha de Jigu (Ilha de Sheishan) não é a pobreza
+# Condado de Penghu: duas vezes disse não aos cassinos, e a Ilha dos Crisântemos não escolheu a pobreza
 
 > **30 segundos de visão geral:** Em 26 de setembro de 2009, Penghu realizou o primeiro referendo local de jogos do país, com 56,44% votando contra, uma margem de 3.962 votos. Sete anos depois, em 15 de outubro de 2016, votou novamente, destino 81,07% contra, 25 pontos percentuais mais do que da primeira vez. Durante esses sete anos, nada mudou drasticamente para tornar Penghu repentinamente rica: apenas cerca de 1.000 mm de chuva por ano, 108.000 registros de habitantes mas apenas cerca de 80.000 residentes permanentes, e Penghu é a segunda menor população registrada do país entre as ilhas. Mesmo assim, votou duas vezes para rejeitar os cassinos de férias. Este artigo quer dizer: o "não" duas vezes não é sobre os cassinos, mas sobre o direito de escolha de "Penghu quer ser o quê".
 

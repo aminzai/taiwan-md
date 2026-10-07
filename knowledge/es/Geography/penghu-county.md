@@ -1,5 +1,5 @@
 ---
-title: 'Península Penghu: Dos rechazos a los casinos, la elección de la isla no es la pobreza'
+title: 'Condado de Penghu: dos veces dijo no a los casinos, y la Isla de los Crisantemos no eligió la pobreza'
 description: 'El 26 de septiembre de 2009, Ma Gong votó y rechazó con 17.359 votos, mientras que el casino ganó con 3.962. Siete años después, en 2016, se volvió a votar, con un rechazo del 81,07%. Una isla remota con una precipitación anual de solo 1.000 mm y 108.000 residentes registrados pero solo 80.000 habitantes, realizó la primera votación popular local sobre juegos de azar a nivel nacional, y luego otra vez. En la misma área marítima, Shen Yourong hizo que los holandeses se retiraran en 1604; en 1622, los holandeses cambiaron de Fengguiwei a Tainan; en 1885, el comandante francés Gu Ba murió enfermo en Maqang. Todavía existen columnas de basalto de 17,4 millones de años, y hay 89 islas de roca volcánica negra y una más antigua de andesita. En los muros de piedra del pueblo de Caizhai durante el invierno, crecen cultivos en la ladera protegida.'
 date: 2026-05-18
 category: 'Geography'
@@ -29,12 +29,12 @@ researchReport: 'reports/research/2026-05/澎湖縣.md'
 series: '22 縣市系列'
 imageNote: '原圖 Commons 原生解析度僅 291×136（自另一張圖裁切而來），太小且比例超出 hero 0.9–2.0 上限，不適合當卡片圖，待另覓圖源'
 translatedFrom: 'Geography/澎湖縣.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:45cce9092926094b'
-translatedAt: '2026-09-08T03:46:08.425573+00:00'
+sourceCommitSha: '0ba9d3c9'
+sourceContentHash: 'sha256:2b8d67aa5824f2f2'
+translatedAt: '2026-10-03T16:55:52Z'
 ---
 
-# El condado de Penghu: dos rechazos a los casinos, la elección de las islas Jikado no fue la pobreza
+# Condado de Penghu: dos veces dijo no a los casinos, y la Isla de los Crisantemos no eligió la pobreza
 
 > **Resumen en 30 segundos:** La primera votación popular sobre juegos de azar en Penghu fue el 26 de septiembre de 2009, con un 56.44% en contra y 3,962 votos más para los contrarios; fue la primera votación local del país. Siete años después, el 15 de octubre de 2016, se volvió a votar, con un 81.07% en contra, 25 puntos porcentuales más que la primera vez. En esos siete años no pasó nada que hiciera rico a Penghu. Con una precipitación anual de solo unos 1,000 mm y una población registrada de unas 108,000, pero con solo unos 80,000 residentes permanentes, es una isla remota clasificada como la penúltima en el país en número de habitantes registrados; votó dos veces para rechazar los casinos turísticos. Lo que esta columna quiere decir es: lo que se dijo NO dos veces no fue el casino, sino la elección de «qué quiere ser Penghu».
 
@@ -79,9 +79,9 @@ _Tejado del asentamiento de Erkan, 9 de julio de 2011. Foto: Perryn1258 vía Wik
 
 Hay vida dentro de los muros. Los «campos domésticos» (_cai zhai_) de Penghu son una solución para la agricultura invernal. La entrada de Wikipedia sobre _cai zhai_ de Penghu dice: «Los _cai zhai_ de Penghu, también conocidos como _zai ne_, son campos agrícolas sofisticados rodeados por muros de piedra para resistir el fuerte monzón del noreste y permitir que los cultivos frágiles crezcan con éxito en invierno. ... El muro norte es el más alto, aproximadamente entre 1.6 y 2.5 metros... Los muros suelen construirse con materiales locales como _lahogushi_ o basalto.»[^12] Visto desde arriba, cientos de campos domésticos están conectados, pareciendo una colmena. En invierno, afuera sopla el viento del canal Houmen, y dentro crecen la coliflor, la repollo, el jengibre y la batata.
 
-La misma piedra se usa en el mar. «Hay menos de 600 _shihu_ (trampas de peces) en todo el mundo; Penghu tiene más de 574 _shihu_, con al menos 109 alrededor de Gibei Island, lo que representa la mayor densidad del mundo.»[^13] Los pescadores apilan basalto y arrecifes en muros curvos en la zona intermareal. Cuando sube la marea, los peces entran; cuando baja, quedan atrapados dentro. El _Taiwan Fu Zhi_ de Koxinga (año 35 de Qing, 1696) ya registra los _shihu_ de Penghu, y hasta la década de 1950, la pesca en los _shihu_ representaba casi el ochenta por ciento del valor total de la captura del condado[^14]. Hoy en día, la mayoría de los _shihu_ son solo paisajes culturales, pero todavía hay un _shihu_ de Shuangxin muy completo debajo del acantilado norte de Donghu Village, Qimei Township, reconstruido por el maestro Gibei en 1937[^15].
+La misma piedra se usa en el mar. Cerca del 95% de los _shihu_ (trampas de peces) del mundo se concentra en Penghu[^41]. Un estudio de campo de 2008-2009 contó 592, y un estudio de 2006 registró 92 en la isla de Gibei, la isla de Penghu con más _shihu_[^13]. Los pescadores apilan basalto y arrecifes en muros curvos en la zona intermareal. Cuando sube la marea, los peces entran; cuando baja, quedan atrapados dentro. El _Taiwan Fu Zhi_ de Koxinga (año 35 de Qing, 1696) ya registra los _shihu_ de Penghu, y hasta la década de 1950, la pesca en los _shihu_ representaba casi el ochenta por ciento del valor total de la captura del condado[^14]. Hoy en día, la mayoría de los _shihu_ son solo paisajes culturales, pero todavía hay un _shihu_ de Shuangxin muy completo debajo del acantilado norte de Donghu Village, Qimei Township, reconstruido por el maestro Gibei en 1937[^15].
 
-> **✦** «**Hay menos de 600 _shihu_ en todo el mundo; Penghu tiene más de 574 _shihu_, con al menos 109 alrededor de Gibei Island, lo que representa la mayor densidad del mundo.**» (Punto de potencial Patrimonio Mundial de Taiwán por parte del Ministerio de Cultura [Grupo de _shihu_ de Penghu][^13])
+> **✦** «**En los 320 kilómetros de costa de Penghu, sin contar los puertos ni las zonas demasiado profundas para construir _shihu_, hay casi 600 _shihu_.**» (Punto de potencial Patrimonio Mundial de Taiwán por parte del Ministerio de Cultura [Grupo de _shihu_ de Penghu][^13])
 
 El Ministerio de Cultura ha designado tanto el basalto de Penghu como el grupo de _shihu_ de Penghu como puntos de potencial Patrimonio Mundial de Taiwán. Pero Taiwán no es miembro de la UNESCO, por lo que aunque estén en la lista, no se pueden enviar. Esta lista es un listado que Taiwán hace para sí mismo.
 
@@ -182,7 +182,7 @@ Volvemos a la escena inicial.
 
 A las cuatro de la madrugada en la Calle Central de Magong. Hay agua en el Pozo de Cuatro Ojos, aunque ya no es agua potable cotidiana. La puerta del templo de la Diosa Madre de Taipéi está cerrada; la estela de Shen Yurong de 1604 reposa tranquilamente en una vitrina del Qingfeng Pavilion. El viento del noreste entra por el callejón desde el noroeste, soplando sobre los muros construidos con piedra coralina y basalto.
 
-A doscientos metros, junto al Templo Guanyin, se encuentra la orilla donde se celebraba el festival de fuegos artificiales en verano. A doce kilómetros, en la Montaña Serpentina (Shetoushan), la fortaleza que construyeron los holandeses en 1622 solo queda como ruina. A treinta kilómetros, sobre el Puente Transmarino de Baisha, no hay coches. Un poco más allá está Penghu, donde las 109 trampas de peces se muestran en forma de corazón y arco durante la marea baja. Más allá están Qimeiyu (Qimei), donde los dos corazones de las trampas de peces aparecen claramente sobre el mar durante la marea baja.
+A doscientos metros, junto al Templo Guanyin, se encuentra la orilla donde se celebraba el festival de fuegos artificiales en verano. A doce kilómetros, en la Montaña Serpentina (Shetoushan), la fortaleza que construyeron los holandeses en 1622 solo queda como ruina. A treinta kilómetros, sobre el Puente Transmarino de Baisha, no hay coches. Un poco más allá está Penghu, donde las 92 trampas de peces se muestran en forma de corazón y arco durante la marea baja. Más allá están Qimeiyu (Qimei), donde los dos corazones de las trampas de peces aparecen claramente sobre el mar durante la marea baja.
 
 Más al sur están las Islas del Sur. En Dongji, duermen entre 10 y 20 personas. Los corales en Xiyupping todavía crecen. Dentro de todo el área del Parque Nacional Marino, que abarca 35,843 hectáreas, hay pocos humanos y muchos corales.
 
@@ -245,7 +245,7 @@ Contenido audiovisual extendido:
 
 [^12]: [Huerto tradicional de Penghu - Wikipedia](https://zh.wikipedia.org/wiki/%E6%BE%8E%E6%B9%96%E8%8F%9C%E5%AE%85) — Registro arquitectónico completo que dice: «El 'huerto' de Penghu, también llamado 'zhai nei', es un campo agrícola sofisticado con muros de piedra en los cuatro lados para resistir el fuerte tifón del noreste y permitir que los cultivos frágiles crezcan durante el invierno... El muro norte es el más alto, aproximadamente 1.6 a 2.5 metros... Los muros de piedra generalmente se construyen con materiales locales como piedra caliza o basalto».
 
-[^13]: [Potencial del Patrimonio Mundial de Taiwán: Grupo de trampas de peces de Penghu - Agencia de Cultura y Patrimonio Cultural del Ministerio de Cultura](https://twh.boch.gov.tw/taiwan/intro.aspx?id=13) — Estadística oficial que dice: «Hay menos de 600 trampas de peces en todo el mundo, pero el condado de Penghu tiene más de 574 trampas de peces, con al menos 109 alrededor de Jibei, lo que representa la mayor densidad del mundo».
+[^13]: [Potencial del Patrimonio Mundial de Taiwán: Grupo de trampas de peces de Penghu - Agencia de Cultura y Patrimonio Cultural del Ministerio de Cultura](https://twh.boch.gov.tw/taiwan/intro.aspx?id=13) — Hung Kuo-hsiung contó 558 trampas de peces en su estudio de 1999, más 16 registradas después, y la cifra subió a 592 en 2008-2009; un estudio de 2006 contó 92 en Jibei, la isla con más trampas de peces. Texto original: «En los 320 kilómetros de costa de Penghu, sin contar los puertos ni las zonas demasiado profundas para construir trampas de peces, hay casi 600 trampas de peces».
 
 [^14]: [Cultura de las trampas de peces de Penghu - Oficina Cultural del Condado de Penghu](https://www.phhcc.gov.tw/) — Registro histórico que menciona en el _Gazeta de Taiwan_ de Kāngxī 35 (1696) que las trampas de peces de Penghu y la pesca de los años 1950 representaron casi el ocho por ciento del valor total de la pesca del condado.
 
@@ -300,3 +300,5 @@ Contenido audiovisual extendido:
 [^39]: [Revelación de los resultados del referéndum: Por qué el 80% de la gente de Penghu se opuso firmemente a las apuestas - Revista Tianxia](https://www.cw.com.tw/article/5078873) — Texto original: 'Buscar un turismo profundo y un medio ambiente amigable es el valor que ellos reconocen', registro del valor central de los jóvenes que regresaron a su pueblo en Penghu.
 
 [^40]: [Liu Yiyang, ala juvenil de Penghu - Reportero](https://www.twreporter.org/a/penghu-gambling-referendum-tourism) — Texto original: 'En realidad, cada niño de Penghu está buscando una manera de volver a casa', palabras originales del miembro de la ala juvenil de Penghu.
+
+[^41]: [Cerca del 95% de las trampas de peces del mundo se concentra en Penghu - Noticias PTS](https://news.pts.org.tw/article/777934) — Reportaje de octubre de 2025: «Cerca del 95% de las trampas de peces del mundo se concentra en Penghu»

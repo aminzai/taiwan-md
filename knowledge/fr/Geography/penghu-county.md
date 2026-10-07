@@ -1,5 +1,5 @@
 ---
-title: "Penghu : Deux fois le refus des casinos, l'île a choisi autre chose que la pauvreté"
+title: "Comté de Penghu : deux refus des casinos, et l'île aux Chrysanthèmes n'a pas choisi la pauvreté"
 description: "Le 26 septembre 2009, une votation locale sur les jeux de hasard a eu 17 359 votes contre et 3 962 pour. Sept ans plus tard, en 2016, un nouveau vote a enregistré 81,07 % de votes contre. Cette île isolée, avec seulement 1 000 mm de précipitations par an et une population permanente de 80 000 sur 108 000 inscrits au registre, est devenue le théâtre du premier référendum local sur les jeux, puis d'un second. Dans cette même zone maritime, Shen You-rong a chassé les Néerlandais en 1604 ; les Néerlandais sont partis de Fengguiwei pour Tainan en 1622 ; et le commandant français est mort de maladie à Mamiyaungang en 1885. Les piliers de basalte vieux de 17,4 millions d'années subsistent, avec 89 îles de roche volcanique noire et une plus ancienne île de andésite. Dans les murs de pierre des fermes hivernales, les cultures poussent à l'abri du vent."
 date: 2026-05-18
 category: 'Geography'
@@ -29,12 +29,12 @@ researchReport: 'reports/research/2026-05/澎湖縣.md'
 series: '22 縣市系列'
 imageNote: '原圖 Commons 原生解析度僅 291×136（自另一張圖裁切而來），太小且比例超出 hero 0.9–2.0 上限，不適合當卡片圖，待另覓圖源'
 translatedFrom: 'Geography/澎湖縣.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:45cce9092926094b'
-translatedAt: '2026-09-24T04:15:12.961650+00:00'
+sourceCommitSha: '0ba9d3c9'
+sourceContentHash: 'sha256:2b8d67aa5824f2f2'
+translatedAt: '2026-10-03T16:55:52Z'
 ---
 
-# Le comté de Penghu : deux refus du casino, le choix des îles Kikushima n'est pas la pauvreté
+# Comté de Penghu : deux refus des casinos, et l'île aux Chrysanthèmes n'a pas choisi la pauvreté
 
 > **Aperçu en 30 secondes :** Lors du premier référendum sur les jeux à Penghu, le 26 septembre 2009, 56,44 % ont voté contre, avec 3 962 voix contre, marquant un premier référendum local sur les jeux dans l'histoire nationale. Sept ans plus tard, le 15 octobre 2016, une nouvelle consultation a eu lieu, avec 81,07 % contre, soit 25 points de pourcentage de plus que la première fois. Rien de spécial ne s'est passé au cours de ces sept années pour rendre soudainement riche Penghu. Avec seulement environ 1 000 mm de précipitations par an, une population enregistrée d'environ 108 000 personnes mais une population résidente d'environ 80 000, et en tant qu'île isolée classée deuxième en bas du classement national pour la population enregistrée, Penghu a rejeté deux fois le casino de vacances. Cet article veut dire que les deux parties qui ont dit NON ne sont pas les casinos, mais le droit de choisir « ce que doit devenir Penghu ».
 
@@ -79,9 +79,9 @@ _Toit d'Erkan Village, 09-07-2011. Photo : Perryn1258 via Wikimedia Commons, [CC
 
 Il y a des choses dans les murs. Le « _càizhái_ » de Penghu est une solution pour l'agriculture hivernale. L'article Wikipédia sur le _càizhái_ de Penghu indique : « Le _càizhái_ de Penghu, également appelé _zhāi nèi_, est un champ sophistiqué entouré de murs en pierre pour résister au fort vent du nord-est, permettant aux cultures fragiles de pousser correctement pendant l'hiver. ... Le mur du nord est le plus haut, atteignant environ 1,6 à 2,5 mètres... Les murs sont généralement construits avec des matériaux locaux tels que la pierre calcaire ou le basalte. »[^12] Vues d'en haut, plusieurs centaines de _càizhái_ connectés ressemblent à une ruche. En hiver, le vent venant du chenal de Houmen souffle dehors, tandis que les choux-fleurs, les choux chinois, le gingembre et les patates douces se trouvent à l'intérieur.
 
-Les mêmes pierres sont aussi utilisées pour la mer. « Moins de 600 abris marins au monde, Penghu compte plus de 574 abris marins, dont au moins 109 autour de Jibei, ce qui représente la densité la plus élevée au monde »[^13]. Les pêcheurs empilaient le basalte et les récifs en murs incurvés dans la zone intertidale ; lorsque la marée montait, les poissons y nageaient, et lorsqu'elle descendait, ils étaient piégés à l'intérieur. Le _Taiwan Fuzhi_ de Kāngxī 35 (1696) mentionne déjà les abris marins de Penghu, et jusqu'dans les années 1950, la pêche dans ces abris représentait près de 80 % du revenu total de la province[^14]. Aujourd'hui, la plupart des abris ne sont plus que des paysages culturels, mais il existe un _shuangxin shíhù_ (abri à cœur double) très complet sous le falaise nord de Donghu Village, Qimei Township, reconstruit par le maître Jibei en 1937[^15].
+Les mêmes pierres sont aussi utilisées pour la mer. Environ 95 % des abris marins du monde sont concentrés à Penghu[^41]. Une enquête de terrain menée en 2008-2009 en a dénombré 592 ; à Jibei, une enquête de 2006 en a compté 92, ce qui en fait l'île de Penghu qui en compte le plus[^13]. Les pêcheurs empilaient le basalte et les récifs en murs incurvés dans la zone intertidale ; lorsque la marée montait, les poissons y nageaient, et lorsqu'elle descendait, ils étaient piégés à l'intérieur. Le _Taiwan Fuzhi_ de Kāngxī 35 (1696) mentionne déjà les abris marins de Penghu, et jusqu'dans les années 1950, la pêche dans ces abris représentait près de 80 % du revenu total de la province[^14]. Aujourd'hui, la plupart des abris ne sont plus que des paysages culturels, mais il existe un _shuangxin shíhù_ (abri à cœur double) très complet sous le falaise nord de Donghu Village, Qimei Township, reconstruit par le maître Jibei en 1937[^15].
 
-> **✦** « **Moins de 600 abris marins au monde, Penghu compte plus de 574 abris marins, dont au moins 109 autour de Jibei, ce qui représente la densité la plus élevée au monde.** » (Potentiel du patrimoine mondial de Taïwan par le Ministère de la Culture [Groupe d'abris marins de Penghu] [^13])
+> **✦** « **Sur les 320 kilomètres de littoral de Penghu, en excluant les ports et les zones trop profondes pour y bâtir des abris, on compte près de 600 abris marins.** » (Potentiel du patrimoine mondial de Taïwan par le Ministère de la Culture [Groupe d'abris marins de Penghu] [^13])
 
 Le ministère de la Culture a classé à la fois le basalte de Penghu et le groupe des abris marins de Penghu comme potentiels sites du patrimoine mondial de Taïwan. Cependant, Taïwan n'est pas membre de l'UNESCO ; même si ces listes sont établies, elles ne peuvent pas être soumises. Cette liste est un document que Taïwan s'est préparé pour lui-même.
 
@@ -182,7 +182,7 @@ Revenons à l'image initiale.
 
 Le centre de Magong, à quatre heures du matin. Il y a de l'eau dans les Quatre Yeux, même si ce n'est plus de l'eau potable courante. La porte du temple de la Mère Céleste est fermée, et la stèle de Shen Yourong datant de 1604 repose silencieusement dans une vitrine au Temple du Vent Frais. Le nord-est souffle des directions nord-ouest, traversant les ruelles, balayant les murs construits en pierre de lave (lògǔshí) et en basalte.
 
-Au bord de mer, à deux cents mètres, le podium du festival d'artifice est vide en hiver, alors qu'il était animé en été. À la montagne Serpent Head, située à douze kilomètres, les ruines du château construit par les Néerlandais en 1622 sont visibles. À trente kilomètres, il n'y a pas de voitures sur le pont international de Baisha. Un peu plus loin se trouvent les îles Jiji, où cent neuf huttes en pierre (shíhù) apparaissent sous la marée basse, formant des cœurs et des arcs. Au-delà se trouvent les îles Qimei, où les deux cœurs des deux huttes en pierre sont clairement visibles au-dessus de la mer à marée basse.
+Au bord de mer, à deux cents mètres, le podium du festival d'artifice est vide en hiver, alors qu'il était animé en été. À la montagne Serpent Head, située à douze kilomètres, les ruines du château construit par les Néerlandais en 1622 sont visibles. À trente kilomètres, il n'y a pas de voitures sur le pont international de Baisha. Un peu plus loin se trouvent les îles Jiji, où quatre-vingt-douze huttes en pierre (shíhù) apparaissent sous la marée basse, formant des cœurs et des arcs. Au-delà se trouvent les îles Qimei, où les deux cœurs des deux huttes en pierre sont clairement visibles au-dessus de la mer à marée basse.
 
 Plus au sud, il y a les Îles du Sud. Sur l'île Dongji, entre dix et vingt personnes dorment. Les coraux de Xiyupping Island continuent de pousser. Dans toute la zone du parc marin, s'étendant sur 35 843 hectares, il y a peu d'habitants et beaucoup de coraux.
 
@@ -245,7 +245,7 @@ Extended Audio and Video:
 
 [^12]: [Les fermes traditionnelles de Penghu — Wikipédia](https://zh.wikipedia.org/wiki/%E6%BE%8E%E6%B9%96%E8%8F%9C%E5%AE%85) — L'enregistrement architectural complet qui indique : « Les 'fermes' de Penghu, également appelées 'Zhai Nei', sont des parcelles agricoles sophistiquées avec des murs en pierre sur les quatre côtés pour résister au vent du nord-est puissant et permettre aux cultures fragiles de prospérer en hiver. ... Le mur nord est le plus haut, environ 1,6 à 2,5 mètres... Les murs sont généralement construits avec des matériaux locaux tels que la pierre de tuf ou le basalte. »
 
-[^13]: [Potentiel du patrimoine mondial de Taïwan : les îlots de pêche de Penghu — Bureau du patrimoine culturel du ministère de la Culture](https://twh.boch.gov.tw/taiwan/intro.aspx?id=13) — Le statistique officiel qui indique : « Moins de 600 îlots de pêche existent dans le monde, et le comté de Penghu possède plus de 574 îlots de pêche, dont au moins 109 autour de Jibei, ce qui représente la densité la plus élevée au monde. »
+[^13]: [Potentiel du patrimoine mondial de Taïwan : les îlots de pêche de Penghu — Bureau du patrimoine culturel du ministère de la Culture](https://twh.boch.gov.tw/taiwan/intro.aspx?id=13) — L'enquête de Hung Kuo-hsiung en 1999 a recensé 558 îlots de pêche, plus 16 ajoutés ensuite, soit 592 en 2008-2009 ; une enquête de 2006 en a compté 92 à Jibei, l'île qui en compte le plus. Texte original : « Sur les 320 kilomètres de littoral de Penghu, en excluant les ports et les zones trop profondes pour y bâtir des abris, on compte près de 600 îlots de pêche. »
 
 [^14]: [Culture des îlots de pêche de Penghu — Bureau culturel du comté de Penghu](https://www.phhcc.gov.tw/) — L'enregistrement historique selon lequel le 'Taiwan Fuzhi' (Registres de Taiwan) de l'année 35 de Kangxi (1696) mentionne les îlots de pêche de Penghu, et que la pêche dans ces îlots représentait près de 80 % de la valeur totale de la pêche du comté dans les années 1950.
 
@@ -269,7 +269,7 @@ Extended Audio and Video:
 
 [^24]: [Festival de feux d'artifice sur mer de Penghu - Wikipédia](https://zh.wikipedia.org/wiki/%E6%BE%8E%E6%B9%96%E6%B5%B7%E4%B8%8A%E8%8A%B1%E7%81%AB%E7%AF%80) — Le registre annuel indiquant qu'en réponse au choc touristique causé par l'accident d'avion, China Airlines a organisé l'événement 'Charme des dix mille dans l'île de Kikushima' lors du Festival de la mi-automne en cette année. L'année suivante (2003), le gouvernement du comté a organisé le premier Festival de feux d'artifice sur mer de Penghu 2003, avec un historique annuel mentionnant 22 événements en 2019, environ 420 000 visiteurs, et des revenus touristiques supérieurs à 322 millions de dollars au cours de l'année 2022.
 
-[^25]: [La nouvelle mélancolie des jeunes de Kikushima après le référendum sur les jeux - Rédacteur](https://www.twreporter.org/a/penghu-gambling-referendum-tourism) — La source complète contenant trois citations clés : 'L'été pour travailler et l'hiver pour se reposer est un modèle généralisé chez les opérateurs touristiques de Penghu', 'Chaque année, une autre auberge change d'opérateur', et 'Le nombre de visiteurs à Penghu a augmenté de 15 % entre 2009 et 2011 après le référendum contre les jeux'.
+[^25]: [La nouvelle nostalgie des jeunes de l'île aux Chrysanthèmes après le référendum sur les jeux - Rédacteur](https://www.twreporter.org/a/penghu-gambling-referendum-tourism) — La source complète contenant trois citations clés : 'L'été pour travailler et l'hiver pour se reposer est un modèle généralisé chez les opérateurs touristiques de Penghu', 'Chaque année, une autre auberge change d'opérateur', et 'Le nombre de visiteurs à Penghu a augmenté de 15 % entre 2009 et 2011 après le référendum contre les jeux'.
 
 [^26]: [Un total de quatre-vingt-dix îles dans le comté de Penghu - Da Ji Yuan](https://www.epochtimes.com/b5/5/12/16/n1156636.htm) — Les résultats du recensement des îles commandité par le gouvernement du comté de Penghu en 2005, montrant une répartition spécifique : 7 à Magong, 10 à Hoxi, 37 à Baisha, 3 à Xiyu, 32 à Wang'an et 1 à Qimei, totalisant 90 îles.
 
@@ -300,3 +300,5 @@ Extended Audio and Video:
 [^39]: [Résultats du référendum révélés : Pourquoi 80 % des habitants de Penghu sont fermement contre les jeux - Magazine Tianxia](https://www.cw.com.tw/article/5078873) — Texte original : « La recherche d'un tourisme approfondi et d'un environnement amical est la valeur qu'ils reconnaissent », est le témoignage du retour au pays par la deuxième génération à Penghu.
 
 [^40]: [Liu Yiyang, une force de jeunesse de Penghu - Reporter](https://www.twreporter.org/a/penghu-gambling-referendum-tourism) — Texte original : « En fait, chaque enfant de Penghu cherche un moyen de rentrer chez lui », est le témoignage du membre de la force de jeunesse de Penghu.
+
+[^41]: [Environ 95 % des îlots de pêche du monde sont concentrés à Penghu - PTS News](https://news.pts.org.tw/article/777934) — Reportage d'octobre 2025 : « Environ 95 % des îlots de pêche du monde sont concentrés à Penghu »

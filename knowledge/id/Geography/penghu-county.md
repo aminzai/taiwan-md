@@ -1,5 +1,5 @@
 ---
-title: 'Kabupaten Penghu: Dua Kali Menolak Kasino, Pulau Kiku Memilih Bukan Kemiskinan'
+title: 'Kabupaten Penghu: Dua Kali Menolak Kasino, Pulau Krisan Tidak Memilih Kemiskinan'
 description: 'Pada 26 September 2009, pemungutan suara di Magong menunjukkan 17.359 suara menentang, kasino kalah 3.962 suara. Tujuh tahun kemudian, pada 2016, referendum diulang dengan 81,07% menentang. Sebuah pulau terpencil dengan curah hujan tahunan hanya 1.000 mm, penduduk terdaftar 108.000 namun penduduk tetap hanya 80.000, menggelar referendum perjudian lokal pertama di negara, lalu mengulanginya sekali lagi. Di segaran yang sama, pada 1604 Shen Yourong memaksa Belanda mundur, pada 1622 Belanda berpindah dari Fengguiwei ke Tainan, dan pada 1885 komandan pasukan Prancis Courbet meninggal dunia di Pelabuhan Magong. Kolom batuan basalt berusia 17,4 juta tahun masih berdiri, 89 pulau adalah batuan vulkanik hitam, 1 pulau adalah batuan andesit yang lebih tua. Di dalam dinding batu rumah sayur pada musim dingin, tanaman tumbuh di sisi yang terlindung dari angin.'
 date: 2026-05-18
 category: 'Geography'
@@ -35,7 +35,7 @@ sourceBodyHash: 'sha256:cf2c3e11ea1bbb06'
 translatedAt: '2026-10-03T19:20:06.266923+00:00'
 ---
 
-# Kabupaten Penghu: Dua Kali Menolak Kasino, Pulau Kiku Memilih Bukan Kemiskinan
+# Kabupaten Penghu: Dua Kali Menolak Kasino, Pulau Krisan Tidak Memilih Kemiskinan
 
 > **Ringkasan 30 Detik:** Pada 26 September 2009, referendum perjudian pertama Penghu, menentang 56,44%, pihak menentang lebih 3.962 suara, referendum perjudian lokal pertama dalam sejarah nasional. Tujuh tahun kemudian, pada 15 Oktober 2016, voting lagi, menentang 81,07%, meningkat 25 poin persen dari yang pertama. Selama tujuh tahun itu tidak ada yang membuat Penghu tiba-tiba menjadi kaya. Pulau terpencil dengan curah hujan tahunan hanya sekitar 1.000 mm, populasi terdaftar 108.000 jiwa tapi penduduk tetap hanya sekitar 80.000, populasi terdaftar terendah kedua di tingkat nasional, dua kali menolak kasino resort melalui referendum. Artikel ini ingin menyampaikan: objek dua kali saying NO bukan kasino, melainkan hak memilih \"Penghu ingin menjadi apa\".
 

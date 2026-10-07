@@ -1,5 +1,5 @@
 ---
-title: 'Penghu County: Twice Rejecting Casinos, the Chrysanthemum Island Chose Not Poverty'
+title: 'Penghu County: Twice It Said No to Casinos, and Chrysanthemum Island Did Not Choose Poverty'
 description: "On September 26, 2009, the public vote was cast: 17,359 against, 3,962 for the casino. Seven years later, in 2016, another vote was held, with 81.07% opposing. This offshore island, with an annual rainfall of only 1,000 mm and a registered population of 108,000 but only 80,000 residents, held the nation's first local gambling referendum, and then held it again. In the same waters, in 1604, Shen Yourong forced the Dutch to retreat; in 1622, the Dutch moved from Fengchwei to Tainan; in 1885, French Admiral Courbet died of illness in Magong Harbor. The 17.4-million-year-old basalt columns remain; 89 islands are made of black volcanic rock, and one is of older andesite. In the winter's vegetable stone walls, crops grow in the leeward areas."
 date: 2026-05-18
 category: 'Geography'
@@ -29,12 +29,12 @@ researchReport: 'reports/research/2026-05/澎湖縣.md'
 series: '22 縣市系列'
 imageNote: '原圖 Commons 原生解析度僅 291×136（自另一張圖裁切而來），太小且比例超出 hero 0.9–2.0 上限，不適合當卡片圖，待另覓圖源'
 translatedFrom: 'Geography/澎湖縣.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:45cce9092926094b'
-translatedAt: '2026-09-09T16:10:37.157270+00:00'
+sourceCommitSha: '0ba9d3c9'
+sourceContentHash: 'sha256:2b8d67aa5824f2f2'
+translatedAt: '2026-10-03T16:55:52Z'
 ---
 
-# Penghu County: Twice Rejecting Casinos, the菊島 (Chrysanthemum Island) Chose Not Poverty
+# Penghu County: Twice It Said No to Casinos, and Chrysanthemum Island Did Not Choose Poverty
 
 > **30-Second Overview:** On September 26, 2009, Penghu held its first gambling referendum; opposition votes accounted for 56.44%, with the opposition side leading by 3,962 votes, marking the first local gambling referendum in Taiwan’s history. Seven years later, on October 15, 2016, the vote was held again; opposition reached 81.07%, a 25-percentage-point increase from the first vote. In those intervening seven years, nothing happened to suddenly make Penghu wealthy. With an annual rainfall of only around 1,000 millimeters, a registered population of 108,000 but a resident population of only about 80,000, and the second-lowest registered population among all offshore islands, this island has twice voted to reject resort casinos. This article argues that the object of the two "NO" votes was not the casino, but the right to choose "what Penghu should become."
 
@@ -79,9 +79,9 @@ _Roofs of the Erkan settlement, 2011-07-09. Photo: Perryn1258 via Wikimedia Comm
 
 Things grow inside the walls. Penghu's "vegetable houses" (_caizhai_) are the solution for winter farmland. The Wikipedia entry for Penghu vegetable houses states: "Penghu's 'vegetable houses,' also known as 'zhainei,' are exquisite farmland with stone walls built on all four sides to block the strong Northeast Monsoon, allowing delicate crops to grow smoothly in winter... The north wall is the highest, approximately 1.6 to 2.5 meters... Stone walls are typically built using local materials such as _kang-ku-shi_ or basalt" [^12]. Seen from the air, hundreds of vegetable houses connect like a honeycomb. In winter, outside the walls is the wind howling through the Hukumen Strait; inside are cauliflower, Chinese cabbage, ginger, and sweet potatoes.
 
-The same stones go to sea. "There are fewer than 600 stone weirs in the world. Penghu County currently has over 574 stone weirs, with at least 109 around Jibei Island, making it the highest density in the world" [^13]. Fishermen pile basalt and coral reefs into an arc-shaped wall in the intertidal zone. When the tide rises, fish swim in; when it recedes, they are trapped inside. The _Taiwan Prefecture Gazetteer_ recorded Penghu stone weirs as early as the 35th year of the Kangxi reign of the Qing Dynasty (1696). By the 1950s, stone weir catches still accounted for nearly 80% of the county's total fishery output value [^14]. Today, most stone weirs remain only as cultural landscapes, but a well-preserved Double-Heart Stone Weir remains under the cliff face north of Dingxi in Donghu Village, Qimei Township, rebuilt in 1937 by Jibei master Ba-le-shi [^15].
+The same stones go to sea. About 95% of the world's stone weirs are concentrated in Penghu [^41]. A field survey in 2008–2009 counted 592, and a 2006 survey counted 92 on Jibei Island, the island with the most stone weirs in Penghu [^13]. Fishermen pile basalt and coral reefs into an arc-shaped wall in the intertidal zone. When the tide rises, fish swim in; when it recedes, they are trapped inside. The _Taiwan Prefecture Gazetteer_ recorded Penghu stone weirs as early as the 35th year of the Kangxi reign of the Qing Dynasty (1696). By the 1950s, stone weir catches still accounted for nearly 80% of the county's total fishery output value [^14]. Today, most stone weirs remain only as cultural landscapes, but a well-preserved Double-Heart Stone Weir remains under the cliff face north of Dingxi in Donghu Village, Qimei Township, rebuilt in 1937 by Jibei master Ba-le-shi [^15].
 
-> **✦** "**There are fewer than 600 stone weirs in the world. Penghu County currently has over 574 stone weirs, with at least 109 around Jibei Island, making it the highest density in the world.**" (Taiwan World Heritage Potential Sites: Penghu Shihu (Stone Weirs) [^13])
+> **✦** "**Along Penghu's 320-kilometer coastline, after excluding harbors and waters too deep for building weirs, there are nearly 600 stone weirs.**" (Taiwan World Heritage Potential Sites: Penghu Shihu (Stone Weirs) [^13])
 
 The Ministry of Culture has listed both Penghu basalt and the Penghu Shihu (Stone Weirs) as Taiwan's potential World Heritage sites. However, Taiwan is not a member of UNESCO, so the list cannot be submitted. This list is a checklist written for Taiwan itself.
 
@@ -182,7 +182,7 @@ Return to the opening scene.
 
 Four a.m. on Makung Central Street. There is water in the Four-Eye Well, though it is no longer used for drinking. The doors of the Kaikai Tainan Temple are closed. The Shen Yourong Stele from 1604 sits quietly in a glass case inside the Qingfeng Pavilion. The Northeast Monsoon blows into the alley from the northwest, sweeping past walls built of _lurou_ stone and basalt.
 
-At the Guanyin Pavilion seaside, two hundred meters away, the summer fireworks festival stage stands empty in winter. Twelve kilometers away at Fengchwei’s Snake Head Mountain, the castle built by the Dutch in 1622 remains only as ruins. Thirty kilometers away, the Baisha Cross-Sea Bridge carries no traffic. A little further lies Jibei Island, where 109 stone weirs emerge in the shape of hearts and arcs during low tide. Beyond that lies Qimei Island, where the two hearts of the Double-Heart Stone Weir clearly rise above the sea surface at low tide.
+At the Guanyin Pavilion seaside, two hundred meters away, the summer fireworks festival stage stands empty in winter. Twelve kilometers away at Fengchwei’s Snake Head Mountain, the castle built by the Dutch in 1622 remains only as ruins. Thirty kilometers away, the Baisha Cross-Sea Bridge carries no traffic. A little further lies Jibei Island, where 92 stone weirs emerge in the shape of hearts and arcs during low tide. Beyond that lies Qimei Island, where the two hearts of the Double-Heart Stone Weir clearly rise above the sea surface at low tide.
 
 Further south lie the Southern Four Islands. On Dongji Island, 10 to 20 people are asleep. On Xiyuping Island, the coral continues to grow. Within the entire 35,843-hectare marine national park, there are few people but much coral.
 
@@ -245,7 +245,7 @@ Extended Video:
 
 [^12]: [Penghu Vegetable Houses - Wikipedia](https://zh.wikipedia.org/wiki/%E6%BE%8E%E6%B9%96%E8%8F%9C%E5%AE%85) — Original text: "Penghu's 'Vegetable Houses', also known as 'Zhai Nei', are exquisite farmlands with stone walls on all four sides to withstand the strong northeasterly monsoon, allowing delicate crops to grow smoothly in winter... The north wall is the highest, about 1.6 to 2.5 meters... Stone walls are usually built with local materials such as qigudu stone or basalt." A complete architectural record.
 
-[^13]: [Taiwan World Heritage Potential Sites: Penghu Shihu (Stone Weirs) - Ministry of Culture Cultural Heritage Bureau](https://twh.boch.gov.tw/taiwan/intro.aspx?id=13) — Official statistics: 'There are fewer than 600 Shihu (stone weirs) worldwide; Penghu County currently has over 574 Shihu, with at least 109 around Gebe Island, representing the highest density in the world.'
+[^13]: [Taiwan World Heritage Potential Sites: Penghu Shihu (Stone Weirs) - Ministry of Culture Cultural Heritage Bureau](https://twh.boch.gov.tw/taiwan/intro.aspx?id=13) — Hung Kuo-hsiung's 1999 survey counted 558 stone weirs plus 16 added later, rising to 592 in 2008–2009; a 2006 survey counted 92 on Jibei Island, the island with the most stone weirs. Original: "Along Penghu's 320-kilometer coastline, after excluding harbors and waters too deep for building weirs, there are nearly 600 stone weirs."
 
 [^14]: [Penghu Shihu Culture - Penghu County Cultural Affairs Bureau](https://www.phhcc.gov.tw/) — Historical record from the 35th year of the Kangxi era of the Qing Dynasty (1696) 'Taiwan Prefecture Gazetteer' documenting Penghu Shihu, and a record from the 1950s showing Shihu catches accounted for nearly 80% of the county's total fishery output value.
 
@@ -300,3 +300,5 @@ Extended Video:
 [^39]: [Referendum Results Revealed: Why Penghu People Firmly Oppose Gambling with 80% — CommonWealth Magazine](https://www.cw.com.tw/article/5078873) — Quote from second-generation Penghu residents returning home: 'Pursuing in-depth tourism and being environmentally friendly are the values they identify with.'
 
 [^40]: [Penghu Youth Front's Liu Yi-Yang — The Reporter](https://www.twreporter.org/a/penghu-gambling-referendum-tourism) — Original quote from Liu Yi-Yang, a member of the Penghu Youth Front: 'Actually, every Penghu child is looking for a way to return home.'
+
+[^41]: [About 95% of the World's Stone Weirs Are Concentrated in Penghu - PTS News Network](https://news.pts.org.tw/article/777934) — October 2025 report: "About 95% of the world's stone weirs are concentrated in Penghu"

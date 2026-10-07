@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-04T20:43:39+08:00",
-    "zhCommitHead": "a4bfd2b48",
+    "lastUpdated": "2026-10-08T00:48:10+08:00",
+    "zhCommitHead": "c8f940be5",
     "totalZh": 1125,
     "activeLanguages": [
       "en",
@@ -20,96 +20,96 @@
     "summary": {
       "en": {
         "total_zh": 1125,
-        "fresh": 1125,
-        "stale": 0,
+        "fresh": 1124,
+        "stale": 1,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1125,
-        "fresh": 1125,
-        "stale": 0,
+        "fresh": 1124,
+        "stale": 1,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1125,
-        "fresh": 1125,
-        "stale": 0,
+        "fresh": 1124,
+        "stale": 1,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
       "es": {
         "total_zh": 1125,
-        "fresh": 1125,
-        "stale": 0,
+        "fresh": 1124,
+        "stale": 1,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1125,
-        "fresh": 1125,
-        "stale": 0,
+        "fresh": 1124,
+        "stale": 1,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1125,
-        "fresh": 1125,
-        "stale": 0,
+        "fresh": 1124,
+        "stale": 1,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
       "id": {
         "total_zh": 1125,
-        "fresh": 1125,
-        "stale": 0,
+        "fresh": 1124,
+        "stale": 1,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1125,
-        "fresh": 1125,
-        "stale": 0,
+        "fresh": 1124,
+        "stale": 1,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1125,
-        "fresh": 1125,
-        "stale": 0,
+        "fresh": 1124,
+        "stale": 1,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1125,
-        "fresh": 1125,
-        "stale": 0,
+        "fresh": 1124,
+        "stale": 1,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1125,
-        "fresh": 1125,
-        "stale": 0,
+        "fresh": 1124,
+        "stale": 1,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
       "de": {
         "total_zh": 1125,
-        "fresh": 1125,
-        "stale": 0,
+        "fresh": 1124,
+        "stale": 1,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -27432,8 +27432,8 @@
           "sourceContentHash": "sha256:f80d5de0dc1467d4",
           "sourceBodyHash": "sha256:5ac3c1dc79dee79a",
           "translatedAt": "2026-10-04T12:23:23.543237+00:00",
-          "translationLastCommit": "5b185366",
-          "translationLastModified": "2026-07-31T09:03:56+08:00",
+          "translationLastCommit": "bfff562e",
+          "translationLastModified": "2026-10-04T20:43:40+08:00",
           "inferred": false,
           "footnoteDefs": 38,
           "bytes": 45521,
@@ -69621,10 +69621,10 @@
     },
     "Society/台灣同婚與性別平權.md": {
       "zh": {
-        "lastCommit": "a05d2431",
-        "lastModified": "2026-04-04T02:18:02+08:00",
-        "contentHash": "sha256:369f015f40df17bd",
-        "bodyHash": "sha256:87466d8232d3f86e"
+        "lastCommit": "872f4aef",
+        "lastModified": "2026-10-07T21:04:45+08:00",
+        "contentHash": "sha256:53dce2454f2bc650",
+        "bodyHash": "sha256:a975eff83abc0a3e"
       },
       "translations": {
         "en": {
@@ -69640,8 +69640,10 @@
           "footnoteDefs": 0,
           "bytes": 15464,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+40 -45"
         },
         "ja": {
           "path": "ja/Society/taiwan-marriage-equality-lgbtq-rights.md",
@@ -69656,8 +69658,10 @@
           "footnoteDefs": 0,
           "bytes": 17074,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+40 -45"
         },
         "ko": {
           "path": "ko/Society/taiwan-marriage-equality-lgbtq-rights.md",
@@ -69672,8 +69676,10 @@
           "footnoteDefs": 0,
           "bytes": 16504,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+40 -45"
         },
         "es": {
           "path": "es/Society/taiwan-marriage-equality-lgbtq-rights.md",
@@ -69688,8 +69694,10 @@
           "footnoteDefs": 0,
           "bytes": 18904,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+40 -45"
         },
         "fr": {
           "path": "fr/Society/taiwan-marriage-equality-lgbtq-rights.md",
@@ -69704,8 +69712,10 @@
           "footnoteDefs": 0,
           "bytes": 19398,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+40 -45"
         },
         "vi": {
           "path": "vi/Society/taiwan-marriage-equality-lgbtq-rights.md",
@@ -69720,8 +69730,10 @@
           "footnoteDefs": 0,
           "bytes": 20505,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+40 -45"
         },
         "id": {
           "path": "id/Society/taiwan-marriage-equality-lgbtq-rights.md",
@@ -69736,8 +69748,10 @@
           "footnoteDefs": 0,
           "bytes": 16247,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+40 -45"
         },
         "pt": {
           "path": "pt/Society/taiwan-marriage-equality-lgbtq-rights.md",
@@ -69752,8 +69766,10 @@
           "footnoteDefs": 0,
           "bytes": 17593,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+40 -45"
         },
         "hi": {
           "path": "hi/Society/taiwan-marriage-equality-lgbtq-rights.md",
@@ -69768,8 +69784,10 @@
           "footnoteDefs": 0,
           "bytes": 35062,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+40 -45"
         },
         "ar": {
           "path": "ar/Society/taiwan-marriage-equality-lgbtq-rights.md",
@@ -69784,8 +69802,10 @@
           "footnoteDefs": 0,
           "bytes": 22380,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+40 -45"
         },
         "ru": {
           "path": "ru/Society/taiwan-marriage-equality-lgbtq-rights.md",
@@ -69800,8 +69820,10 @@
           "footnoteDefs": 0,
           "bytes": 27992,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+40 -45"
         },
         "de": {
           "path": "de/Society/taiwan-marriage-equality-lgbtq-rights.md",
@@ -69816,8 +69838,10 @@
           "footnoteDefs": 0,
           "bytes": 18433,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+40 -45"
         }
       }
     },
@@ -198716,7 +198740,7 @@
           "translationLastModified": "2026-09-11T07:06:12+08:00",
           "inferred": false,
           "footnoteDefs": 41,
-          "bytes": 52675,
+          "bytes": 52685,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -198732,7 +198756,7 @@
           "translationLastModified": "2026-09-23T17:08:15+08:00",
           "inferred": false,
           "footnoteDefs": 41,
-          "bytes": 54454,
+          "bytes": 54448,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -198748,7 +198772,7 @@
           "translationLastModified": "2026-09-10T18:16:41+08:00",
           "inferred": false,
           "footnoteDefs": 41,
-          "bytes": 52122,
+          "bytes": 52124,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -198764,7 +198788,7 @@
           "translationLastModified": "2026-09-08T14:28:39+08:00",
           "inferred": false,
           "footnoteDefs": 41,
-          "bytes": 55247,
+          "bytes": 55264,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -198780,7 +198804,7 @@
           "translationLastModified": "2026-09-24T14:03:25+08:00",
           "inferred": false,
           "footnoteDefs": 41,
-          "bytes": 57825,
+          "bytes": 57859,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -198812,7 +198836,7 @@
           "translationLastModified": "2026-10-04T04:05:07+08:00",
           "inferred": false,
           "footnoteDefs": 41,
-          "bytes": 50465,
+          "bytes": 50469,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -198828,7 +198852,7 @@
           "translationLastModified": "2026-10-04T04:05:30+08:00",
           "inferred": false,
           "footnoteDefs": 41,
-          "bytes": 54879,
+          "bytes": 54906,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -198844,7 +198868,7 @@
           "translationLastModified": "2026-10-04T04:04:49+08:00",
           "inferred": false,
           "footnoteDefs": 41,
-          "bytes": 112022,
+          "bytes": 112035,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -198860,7 +198884,7 @@
           "translationLastModified": "2026-10-04T05:17:37+08:00",
           "inferred": false,
           "footnoteDefs": 41,
-          "bytes": 77433,
+          "bytes": 77449,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -198876,7 +198900,7 @@
           "translationLastModified": "2026-10-04T08:55:07+08:00",
           "inferred": false,
           "footnoteDefs": 41,
-          "bytes": 85532,
+          "bytes": 85614,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"

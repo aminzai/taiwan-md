@@ -1,5 +1,5 @@
 ---
-title: 'Пэньху: dva otljaka ot azartnyh igrochnyh zalov — vybor Kiotо ne oznachajet skromnosti'
+title: 'Пэньху: дважды отказавшись от казино, Остров хризантем выбрал не бедность'
 description: "26 sentjabrja 2009 goda Mak Tszyichen' otvetil na referendum: protiv — 17 359 golosov, za — 3 962. Sem let spozhe, v 2016 godu, voskreseniem, sostojalsya vtoroj referendum: 81,07% protiv. Malyj ostrov s naseleniem tol'ko 108 tysjach postojannyh zhitelyev (iz kotoryh tol'ko 80 tysjach zhivyot na meste), gde godovoe kol-vo osadkov sostavljaet vsego 1000 mm, stal pervoj v strane lokal'noj bor'by za vlast' — i sdelal eto dvazhdy. V etoj zhe morejnoj zone v 1604 godu Sjunn Yuyujun' pozvolil gollandskoj armii otstupit', v 1622 godu gollandskie kolonisty pereoselilis' iz Fenshui-chzhu v Tainan, a v 1885 godu komandir francuzskoj armii GUN BAJI umiraj ot bolezni v portu Mama-chzhu. Stol' staraâ — 17,4 milliona let — kolonka siamačnogo bazalta vse eshche stoit, 89 ostrovov sostojat iz chernogo bazalta, odin — iz bolee drevnego andezitnogo kamnya. V zimnjuju pora, mezhdu kamennymi stenami v Chzhajshan, rastut rasteniya na zashchitnom sklone."
 date: 2026-05-18
 category: 'Geography'
@@ -9,7 +9,7 @@ tags:
     'Пэньху',
     'острова',
     'Мако',
-    'Kiotо',
+    'Остров хризантем',
     'siamovyy bazalt',
     "dvuzhelnaya kamennaya prystan'",
     'most cherez more',
@@ -35,7 +35,7 @@ sourceBodyHash: 'sha256:cf2c3e11ea1bbb06'
 translatedAt: '2026-10-03T23:10:22.999652+00:00'
 ---
 
-# Пэньху: дважды отказался от казино — выбор Фудзяма не в бедности
+# Пэньху: дважды отказавшись от казино, Остров хризантем выбрал не бедность
 
 > **30-секундный обзор:** 26 сентября 2009 года Пэньху впервые провёл референдум об азартных играх — против 56,44%, оппозиция опередила голосов на 3 962. Это стало первым в национальной истории местным референдумом об азартных играх. Семь лет спустя, 15 октября 2016 года, второй раз — против 81,07%, на 25 пунктов больше. За эти семь лет ничего не изменилось, что могло бы сделать Пэньху внезапно богатым. Ежегодные осадки лишь около 1 000 мм, 108 тысяч жителей по паспорту, но постоянных жителей около 80 тысяч — население одного из последних островов в стране. Два раза подряд голосовали против курортных казино. Эта статья говорит о том, что два раза сказанное «нет» было не против казино, а выбором права на определение судьбы Пэньху.
 
