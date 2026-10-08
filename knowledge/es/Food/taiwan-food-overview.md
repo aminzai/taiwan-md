@@ -2,9 +2,7 @@
 title: 'Panorama de la gastronomía taiwanesa: ningún plato es puramente taiwanés, y cada plato es lo más taiwanés que hay'
 description: 'En 1949, junto a la rotonda de la fuente de Chiayi, Lin Tianshou cortó pollo en rebanadas, lo puso sobre arroz blanco y lo bañó con una salsa estofada minnán; después de la guerra, cuando las fuerzas estadounidenses estacionadas en Taiwán se instalaron en el aeródromo de Shuishang, llevaron grandes cantidades de pavo a Taiwán, y ese tazón evolucionó de arroz con pollo a arroz con pavo. Desde el jabalí asado sobre laja de los pueblos indígenas, el intestino grueso salteado con jengibre de los hakka y la sopa de fideos con res al estilo sichuanés de las aldeas militares, hasta el té con leche de perlas inventado en Taichung en 1986 y los 419 restaurantes incluidos por Michelin en 2025. Esta isla pasó cuatrocientos años cocinando cada plato prestado a su propia manera.'
 date: 2026-05-18
-author: 'Taiwan.md'
 category: 'Food'
-subcategory: '美食總覽'
 tags:
   [
     'gastronomía',
@@ -19,18 +17,32 @@ tags:
     'arroz con cerdo estofado',
     'banquete bantoh',
   ]
+subcategory: '美食總覽'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-05-18
 lastHumanReview: false
-featured: true
+viewpoint_formed: true
+researchReport: 'reports/research/2026-05/台灣美食總覽.md'
 image: '/article-images/food/taiwan-food-overview-raohe-night-market-2023.webp'
+imageCredit: 'KClinla'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E9%A5%92%E6%B2%B3%E8%A1%97%E8%A7%80%E5%85%89%E5%A4%9C%E5%B8%82_173356.jpg'
+sporeLinks:
+  - id: 97
+    platform: 'threads'
+    date: '2026-05-27'
+    url: 'https://www.threads.com/@taiwandotmd/post/DY0zmnNE5RT'
+  - id: 98
+    platform: 'x'
+    date: '2026-05-27'
+    url: 'https://x.com/taiwandotmd/status/2059458468898287770'
+relatedDiary: ['2026-05-27-122151-manual']
 translatedFrom: 'Food/台灣美食總覽.md'
-sourceCommitSha: '53dd93dd'
-sourceContentHash: 'sha256:4e63535e7555a67e'
-sourceBodyHash: 'sha256:607f80fde520e7fc'
-translatedAt: '2026-06-22T00:30:00+08:00'
-imageCredit: 'KClinla'
+sourceCommitSha: 'c4bb5dc71'
+sourceContentHash: 'sha256:1ab18bf6c6736ca9'
+sourceBodyHash: 'sha256:d8ec20e1d4812ac6'
+translatedAt: '2026-10-08T06:54:28.736097+00:00'
 ---
 
 # Panorama de la gastronomía taiwanesa: ningún plato es puramente taiwanés, y cada plato es lo más taiwanés que hay
@@ -169,35 +181,33 @@ Una mesa de bantoh suele servir “doce platos”. El título de la serie Song o
 
 ---
 
-## Michelin llegó en 2018: 144 de 419 son puestos populares
+## 2018 llegó Michelin: de 419 establecimientos, 144 son puestos callejeros
 
-El 14 de marzo de 2018, la Guía Michelin entró en Taiwán, marcando la incorporación formal de la industria gastronómica taiwanesa al sistema internacional de evaluación.
+El 14 de marzo de 2018, la Guía Michelin llegó a Taiwán, marcando la entrada formal de la industria gastronómica taiwanesa en el sistema de evaluación internacional.
 
-Para la octava edición de la guía, en 2025, Michelin incluyó 419 restaurantes: **3 de tres estrellas, 7 de dos estrellas, 43 de una estrella, 144 Bib Gourmand y 7 estrellas verdes, dedicadas a restaurantes sostenibles**[^54].
+En la octava edición de 2025, Michelin incluyó 419 restaurantes: **3 de tres estrellas, 7 de dos estrellas, 43 de una estrella, 144 Bib Gourmand y 7 Estrellas Verdes (restaurantes sostenibles)**[^54].
 
-**Los tres restaurantes de tres estrellas han mantenido ese reconocimiento durante varios años consecutivos**: Le Palais (Taipéi, cocina cantonesa), Taïrroir (Taipéi, cocina taiwanesa contemporánea) y JL Studio (Taichung, cocina singapurense/contemporánea). **Le Palais conserva tres estrellas desde la primera edición de 2018, durante ocho años consecutivos**, el récord de tres estrellas más duradero de Taiwán. Pero hay un giro: su exchef Chan Tai-wing, nacido en Macao en 1970, dejó Le Palais en 2024 y fue a Kaohsiung para crear el nuevo restaurante cantonés Jun Gen[^55]. Que el alma de un restaurante de tres estrellas durante ocho años consecutivos se traslade a otro lugar muestra la fragilidad de la alta cocina.
+**Los 3 de tres estrellas han renovado consecutivamente durante varios años**: Yeh Gee (Taipéi, cocina cantonesa), A.t (Taipéi, cocina taiwanesa moderna) y JL Studio (Taichung, cocina singapurense/moderna). **Yeh Gee ha mantenido tres estrellas desde la primera edición de 2018 durante 8 años consecutivos**, el récord más largo de tres estrellas en Taiwán. Pero hay un giro: el ex chef ejecutivo de Yeh Gee, Chen Tai-jung (nacido en 1970 en Macao), dejó Yeh Gee en 2024 para abrir el nuevo restaurante cantonés «Jun Gen» en Kaohsiung[^55]. Que la figura central de un tres estrellas de ocho años se marche a otro lugar muestra precisamente la fragilidad de la alta gastronomía.
 
-**RAW, de André Chiang, ya cerró**. Chiang anunció el cierre el 31 de diciembre de 2024, como despedida de su décimo aniversario[^56]. Después del spotlight de 2018, la alta cocina taiwanesa atravesó otros diez años de decisiones propias.
+**RAW (Chiang Chen-cheng) ha cerrado**. Chiang Chen-cheng anunció que RAW operaría hasta el 31 de diciembre de 2024, su despedida de 10 aniversario[^56]. La alta gastronomía de Taiwán, tras el foco de 2018, recorrió otros diez años de decisiones propias.
 
-Pero lo más notable de la Guía Michelin está en el **Bib Gourmand**, distinción que reconoce expresamente “buenas mesas a precios accesibles”. Solo Tainan tuvo 31 restaurantes seleccionados en el Bib Gourmand 2024, muchos de ellos locales famosos de comida popular[^57]. **Esto significa que Michelin reconoció el sabor popular de Taiwán**: un tazón callejero de sopa de res de 70 dólares taiwaneses puede estar en pie de igualdad con una cocina con estrellas Michelin. CNN llamó directamente a Tainan “Taiwan's food capital”, la capital gastronómica de Taiwán[^58].
+Pero lo más destacable de la Guía Michelin está en realidad en el premio **Bib Gourmand**, que reconoce específicamente «buenos comedores a precios asequibles». Solo la ciudad de Tainan tiene 31 restaurantes seleccionados en el Bib Gourmand 2024, muchos de ellos famosos locales de comida callejera[^57]. **Esto significa que Michelin reconoció el sabor popular de Taiwán**: un tazón de sopa de carne de NT$70 en un puesto callejero puede codearse en igualdad de condiciones con una cocina con estrella Michelin. CNN calificó directamente a Tainan como «Taiwan's food capital» (la capital gastronómica de Taiwán)[^58].
 
-> **📊 Datos Michelin Taiwán 2025**
+> **📊 Datos de Michelin Taiwán 2025**
 
-| Indicador           | 2024        | 2025        |
-| ------------------- | ----------- | ----------- |
-| Total seleccionados | 343 locales | 419 locales |
-| Tres estrellas      | 3 locales   | 3 locales   |
-| Dos estrellas       | 5 locales   | 7 locales   |
-| Una estrella        | 41 locales  | 43 locales  |
-| Bib Gourmand        | 126 locales | 144 locales |
-| Estrella verde      | 6 locales   | 7 locales   |
+| Indicador                   | 2024 | 2025 |
+| --------------------------- | ---- | ---- |
+| Total seleccionados         | 343  | 419  |
+| Tres estrellas              | 3    | 3    |
+| Dos estrellas               | 5    | 7    |
+| Una estrella                | 41   | 43   |
+| Bib Gourmand                | 126  | 144  |
+| Estrella Verde (sostenible) | 6    | 7    |
 
-Otra dimensión de la alta cocina es el té. El té de alta montaña taiwanés pasó de las casas de té a las cartas de restaurantes Michelin. Alishan, Lishan, Shanlinxi, Taimali: tés de alta montaña cultivados por encima de los 1.000 metros, en laderas envueltas en niebla, desde las aldeas tsou hasta el borde de la taza en restaurantes de primera línea. El gesto de John Dodd en 1865, al introducir plántulas de oolong desde Fujian hacia Tamsui, sigue influyendo 160 años después en el mapa sensorial de Taiwán.
+Otra dimensión de la alta gastronomía es el té. El té de alta montaña de Taiwán pasó de las casas de té a las cartas de té de los restaurantes Michelin. Los tés de alta montaña de Alishan, Lishan, Shanlinxi y Taimali, en laderas neblinosas a más de 1.000 metros de altitud, van desde las comunidades del pueblo Tsou hasta el borde de las tazas de los mejores restaurantes. Aquel gesto de 1865, cuando John Dodd introdujo plantas de té oolong desde Fujian a Tamsui, sigue influyendo en el mapa gustativo de Taiwán 160 años después.
 
-![Plantación de té del Parque Cultural Tsou YUYUPAS en Alishan, con hileras ordenadas de arbustos de té sobre una ladera](/article-images/food/taiwan-food-alishan-yuyupas-tea-garden-2011.webp)
-_Té de alta montaña de Alishan: desde las aldeas tsou hasta la carta de té de restaurantes con estrellas Michelin, crece de la niebla por encima de los 1000 metros. Photo: Hughon-zxl, 2011, CC BY-SA 3.0 [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:In_the_Alishan_YUYUPAS_tea_garden.JPG)._
-
----
+![Plantación de té en el Parque Cultural Tsou YUYUPAS de Alishan, con arbustos de té ordenados en la ladera](/article-images/food/taiwan-food-alishan-yuyupas-tea-garden-2011.webp)
+_Té de alta montaña de Alishan: desde las comunidades Tsou hasta las cartas de té de restaurantes con estrella Michelin, nacido de la niebla a más de 1.000 metros de altitud. Foto: Hughon-zxl, 2011, CC BY-SA 3.0 [vía Wikimedia Commons](https://commons.wikimedia.org/wiki/File:In_the_Alishan_YUYUPAS_tea_garden.JPG)._
 
 ## La próxima boca: nuevos inmigrantes, sostenibilidad, delivery y veganismo, tercero del mundo
 
