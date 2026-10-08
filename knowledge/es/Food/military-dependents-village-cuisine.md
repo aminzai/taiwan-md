@@ -19,10 +19,10 @@ lastHumanReview: false
 readingTime: 8
 imageNote: '原圖僅 GFDL 授權（非 CC BY／CC BY-SA／CC0／公有領域），未收進庫，待另覓授權明確圖源'
 translatedFrom: 'Food/台灣眷村菜.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:065bf6354c8e6e97'
-sourceBodyHash: 'sha256:c6f4891abde841e9'
-translatedAt: '2026-09-08T00:42:49+08:00'
+sourceCommitSha: 'ef80aeea4'
+sourceContentHash: 'sha256:467908b1a60dd52d'
+sourceBodyHash: 'sha256:833d2eafe654813e'
+translatedAt: '2026-10-08T14:06:56.615307+00:00'
 ---
 
 # Cocina de las aldeas militares de Taiwán
@@ -73,13 +73,13 @@ La generosidad de la cocina de Shandong encontró la delicadeza de la cocina de 
 
 La ligereza de la cocina de Guangdong y el contundente de la cocina del norte hallaron punto de equilibrio en las aldeas. Muchos platos de aldeas muestran carácter de fusión norte-sur, conservando el sabor de origen y adaptándose al clima e ingredientes de Taiwán.
 
-## Demolición de aldeas, preservación y parques culturales de aldeas militares
+## Desarrollo, conservación y barrios de aldeas militares
 
-En 1996 se aprobó la «Ley de Reconstrucción de Antiguas Aldeas Militares», y los terrenos de aldeas se convirtieron sucesivamente en zonas de reordenación o vivienda pública, acelerando la desaparición de la arquitectura física de las viejas aldeas.[^4] Sin embargo, parte de ellas se conservó gracias a las voces que pedían preservación cultural.
+En 1996 se aprobó la Ley de Reconstrucción de Antiguas Aldeas Militares, y los terrenos de las aldeas comenzaron a convertirse en zonas de reconstrucción urbana o suelo público de vivienda, lo que aceleró la desaparición física de las antiguas aldeas. [^4] Sin embargo, algunas aldeas se conservaron gracias a las demandas de preservación cultural.
 
-La aldea Cuacuo Nancun en el distrito Xinyi de Taipéi es el caso de preservación más conocido de Taiwán. El conjunto arquitectónico original se transformó en 2003 en museo cultural de aldeas militares, convirtiéndose en sede de marcas gastronómicas como «Good Cho's», que reexponen la cocina de aldeas en un nuevo contexto. Taoyuan, al tener la mayor cantidad de aldeas de la isla, cuenta con museo cultural de aldeas y festival anual, formando un nodo de turismo cultural centrado en la gastronomía.[^5] Cerca de la antigua muralla Qing de Zuoying, Kaohsiung, también se conservan varias aldeas bajo protección.
+El barrio de Shihshihnan en Xinyi, Taipéi, es uno de los casos más emblemáticos de conservación de aldeas en Taiwán. El conjunto original de edificios se transformó en 2003 en el Museo Cultural de Aldeas Militares, convirtiéndose en el espacio donde se instalaron marcas gastronómicas como «Good Cho's», lo que permitió que la cocina de las aldeas se exhibiera en un nuevo contexto. Taoyuan es una de las ciudades con mayor concentración de aldeas; según un informe de 2018, de las 888 aldeas existentes en toda Taiwán, 86 se localizan en Taoyuan. El Ayuntamiento organizó una festividad cultural de aldeas cuya edición de 2018 incluyó una competición de comida. [^5] Cerca de la antigua muralla de la ciudad de la dinastía Qing en Zuoying, Kaohsiung, también se conservan varias aldeas inscritas en el registro.
 
-Estos espacios preservados dan a la transmisión de la cocina de aldeas hitos físicos, y permiten a las nuevas generaciones ver, más allá del sabor, la forma concreta de esta historia migratoria.
+Estos espacios conservados han proporcionado un punto de referencia físico para la transmisión de la cocina de las aldeas, y han permitido a las nuevas generaciones observar la forma concreta de esta historia migratoria más allá del sentido del gusto.
 
 ## Perspectiva bidireccional: visión nativa e identidad de la segunda generación de aldeas
 
@@ -101,19 +101,19 @@ Una nueva generación de cocineros empieza a reinterpretar la cocina de aldeas, 
 
 ## Referencias
 
-[^1]: [Centro de Preservación Cultural de Aldeas Militares del Ministerio de Defensa](https://mvac.mnd.gov.tw/) — Contexto histórico de aldeas y datos de población migrante.
+[^1]: [Centro de Conservación Cultural de Viviendas Militares del Ministerio de Defensa](https://mvac.mnd.gov.tw/) — Contexto histórico de las viviendas militares y datos demográficos de la población migrante.
 
-[^2]: [Documentos de Taiwán «Evolución y preservación de la cultura gastronómica de aldeas militares»](https://www.th.gov.tw/epaper/view2.php?Period=168&TBID=3) — Vol. 71 n.º 4 (2020) intercambio gastronómico nativo / provincia exterior.
+[^2]: [Revista de Taiwan <Cambios y conservación de la cultura alimentaria en las viviendas militares>](https://www.th.gov.tw/epaper/view2.php?Period=168&TBID=3) — Volumen 71, número 4 (2020), intercambio culinario entre taiwaneses y de fuera de Taiwan.
 
-[^3]: [Jiao Tong _Sabores de Taiwán_ — Er Yu Culture](https://www.taaze.tw/usedBook.html?oid=11100873870) — Confirmación del origen en aldeas de la sopa de fideos con carne de res y proceso de localización de la cocina chuan.
+[^3]: [Jiao Tong <El sabor de Taiwan> — Cultura de los dos peces](https://www.taaze.tw/usedBook.html?oid=11100873870) — Confirmación del origen de los fideos de carne de vaca en las viviendas militares y el proceso de localización del comino.
 
-[^4]: [Base de datos legal nacional: Ley de Reconstrucción de Antiguas Aldeas Militares](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0000002) — Confirmación de aprobación en 1996, secuencia de reordenación y reconstrucción.
+[^4]: [Base de datos nacionales de normativas: Reglamento de reforma de antiguas viviendas militares del ejército nacional](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0000002) — Confirmación de su aprobación en 1996, secuencia de la reorganización de tierras y la reforma.
 
-[^5]: [Museo Cultural de Aldeas Militares de Taoyuan](https://www.taoyuan.gov.tw/) — Espacios de preservación de aldeas en Taoyuan e información del festival anual.
+[^5]: [Nueva cabeza: ¡Vamos a la Fiesta Cultural de las Viviendas Militares de Taoyuan! Escucha a las madres de las viviendas militares contar anécdotas](https://newtalk.tw/news/view/2018-10-04/148037) — 04-10-2018, de las 888 viviendas militares en toda Taiwán, Taoyuan tiene 86, y la sede principal de la fiesta cultural tiene desfiles y concursos de comida.
 
-[^6]: [Liberty Times: ¡Resulta que es la «salsa»! La pasta de judías picante de Gangshan tiene razón para ser deliciosa](https://news.ltn.com.tw/news/life/breakingnews/2269537) — Trayectoria completa de Liu Mingde: llegada 1948, licenciamiento 1950, elaboración de pasta Mingde en aldea de Gangshan.
+[^6]: [Libertad Times: Resulta que es 'salsa'! Hay una razón para que la salsa de soja fermentada de Gangshan sea sabrosa](https://news.ltn.com.tw/news/life/breakingnews/2269537) — Contexto completo de Liu Mingde, quien llegó a Taiwán en 1948 y se retiró en 1950, fabricando la salsa de soja fermentada Mingde en las viviendas militares de Gangshan.
 
-[^7]: [Sopa de fideos con carne de res — Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%8F%B0%E7%81%A3%E7%89%9B%E8%82%89%E9%BA%B5) — Origen taiwanés en aldea militar de fuerza aérea de Gangshan, Kaohsiung; registro de primer local documentado «Gongyuan Zhujiao Mian / Niuroumian» en 1962.
+[^7]: [Fideos de carne de vaca — Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%8F%B0%E7%81%A3%E7%89%9B%E8%82%89%E9%BA%B5) — El origen de los fideos de carne de vaca en Taiwán se remonta a las viviendas militares de la base aérea de Gangshan en Kaohsiung, y el primer registro documentado de fideos de pato en el parque data de 1962.
 
 ## Lecturas adicionales
 

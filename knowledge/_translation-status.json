@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-08T23:31:08+08:00",
-    "zhCommitHead": "c5977e701",
+    "lastUpdated": "2026-10-08T23:37:52+08:00",
+    "zhCommitHead": "b807089a6",
     "totalZh": 1125,
     "activeLanguages": [
       "en",
@@ -68,8 +68,8 @@
       },
       "id": {
         "total_zh": 1125,
-        "fresh": 1122,
-        "stale": 3,
+        "fresh": 1123,
+        "stale": 2,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -84,8 +84,8 @@
       },
       "hi": {
         "total_zh": 1125,
-        "fresh": 1122,
-        "stale": 3,
+        "fresh": 1123,
+        "stale": 2,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -81248,8 +81248,8 @@
           "sourceContentHash": "sha256:581f0b22e2d07f66",
           "sourceBodyHash": "sha256:fbb32cc7bfad5f1c",
           "translatedAt": "2026-10-08T21:01:44+08:00",
-          "translationLastCommit": "94ba1e5d",
-          "translationLastModified": "2026-09-28T09:06:03+08:00",
+          "translationLastCommit": "b807089a",
+          "translationLastModified": "2026-10-08T23:31:08+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "bytes": 31554,
@@ -81260,18 +81260,18 @@
         "id": {
           "path": "id/About/taiwan-official-resources-revisit.md",
           "translatedFrom": "About/台灣官方網站資源重寫.md",
-          "sourceCommitSha": "a05d24314",
-          "sourceContentHash": "sha256:73ee4c24e755afd6",
-          "sourceBodyHash": "sha256:7e5da6fad0f6882b",
-          "translatedAt": "2026-07-25T09:23:05+08:00",
+          "sourceCommitSha": "95e86acf9",
+          "sourceContentHash": "sha256:581f0b22e2d07f66",
+          "sourceBodyHash": "sha256:fbb32cc7bfad5f1c",
+          "translatedAt": "2026-10-08T22:50:53+08:00",
           "translationLastCommit": "26fe3ab0",
           "translationLastModified": "2026-07-25T10:52:49+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 21341,
+          "footnoteDefs": 10,
+          "bytes": 25818,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (10→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/About/taiwan-official-resources-revisit.md",
@@ -81292,18 +81292,18 @@
         "hi": {
           "path": "hi/About/taiwan-official-resources-revisit.md",
           "translatedFrom": "About/台灣官方網站資源重寫.md",
-          "sourceCommitSha": "a05d24314",
-          "sourceContentHash": "sha256:73ee4c24e755afd6",
-          "sourceBodyHash": "sha256:7e5da6fad0f6882b",
-          "translatedAt": "2026-07-25T05:00:12+08:00",
+          "sourceCommitSha": "95e86acf9",
+          "sourceContentHash": "sha256:581f0b22e2d07f66",
+          "sourceBodyHash": "sha256:fbb32cc7bfad5f1c",
+          "translatedAt": "2026-10-08T22:50:54+08:00",
           "translationLastCommit": "de4c82ca",
           "translationLastModified": "2026-07-25T05:44:44+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 44880,
+          "footnoteDefs": 10,
+          "bytes": 53660,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (10→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/About/taiwan-official-resources-revisit.md",
@@ -168322,8 +168322,8 @@
           "sourceContentHash": "sha256:467908b1a60dd52d",
           "sourceBodyHash": "sha256:833d2eafe654813e",
           "translatedAt": "2026-10-08T14:08:22.325233+00:00",
-          "translationLastCommit": "1c89db9a",
-          "translationLastModified": "2026-09-22T01:05:58+08:00",
+          "translationLastCommit": "b807089a",
+          "translationLastModified": "2026-10-08T23:31:08+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "bytes": 19829,
