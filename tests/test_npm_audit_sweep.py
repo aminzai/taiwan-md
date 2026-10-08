@@ -16,6 +16,7 @@ from __future__ import annotations
 
 import importlib.util
 import json
+import re
 import subprocess
 import sys
 from pathlib import Path
@@ -39,16 +40,34 @@ SUMMARIZER_PATH = LIB / "summarize-npm-audit.py"
 # ── 路徑解析 ──────────────────────────────────────────────────────
 
 
-def test_parses_the_real_workflow_in_order():
-    """對真正那份 workflow 解析出四道 audit，順序跟 CI 一致。"""
+def test_parses_the_real_workflow_against_an_independent_count():
+    """對真正那份 workflow：解析結果要跟「檔案裡有幾道 npm audit」對得上。
+
+    不寫死路徑清單。第一版寫死四條，當天下午 cli 掛進 CI 變五條，測試就紅了——
+    而那次變更是刻意的，紅的是測試不是程式。寫死清單讓這個測試變成「CI 不准長
+    新的 audit」，那不是它該守的東西。
+
+    它該守的是「解析器有沒有漏掉或多算」，所以期望值用一個**獨立的**尺算出來：
+    直接數檔案裡 `npm audit` 出現在 run: 行的次數（REFLEXES #65 — 偵測器自己的
+    parser 要對 ground-truth grep count 交叉驗）。
+    """
     workflow = REPO / ".github/workflows/engineering-checks.yml"
-    found = PARSER.parse(workflow.read_text(encoding="utf-8"))
-    assert found == [
-        ".",
-        "docs/semiont/harvest/ui",
-        "docs/semiont/harvest/backend",
-        "workers/mcp",
-    ]
+    text = workflow.read_text(encoding="utf-8")
+
+    independent_count = len(
+        [l for l in text.split("\n") if re.search(r"^\s*-\s+run:.*\bnpm audit\b", l)]
+    )
+    found = PARSER.parse(text)
+
+    assert independent_count > 0, "workflow 裡一道 npm audit 都沒有，測試前提壞了"
+    assert len(found) == independent_count, (
+        f"解析到 {len(found)} 條，檔案裡有 {independent_count} 道 npm audit"
+    )
+    # repo 根那一道沒有 working-directory，永遠該在第一個。
+    assert found[0] == "."
+    # 路徑都是相對的，不以 / 開頭，才接得上 REPO_ROOT。
+    assert all(not p.startswith("/") for p in found)
+    assert len(set(found)) == len(found), "解析結果有重複路徑"
 
 
 def test_step_without_working_directory_is_repo_root():
