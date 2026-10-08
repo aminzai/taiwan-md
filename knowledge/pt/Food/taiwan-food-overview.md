@@ -29,16 +29,20 @@ imageCredit: 'KClinla'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E9%A5%92%E6%B2%B3%E8%A1%97%E8%A7%80%E5%85%89%E5%A4%9C%E5%B8%82_173356.jpg'
 sporeLinks:
-  [
-    "{'id': 97, 'platform': 'threads', 'date': '2026-05-27', 'url': 'https://www.threads.com/@taiwandotmd/post/DY0zmnNE5RT'}",
-    "{'id': 98, 'platform': 'x', 'date': '2026-05-27', 'url': 'https://x.com/taiwandotmd/status/2059458468898287770'}",
-  ]
+  - id: 97
+    platform: 'threads'
+    date: '2026-05-27'
+    url: 'https://www.threads.com/@taiwandotmd/post/DY0zmnNE5RT'
+  - id: 98
+    platform: 'x'
+    date: '2026-05-27'
+    url: 'https://x.com/taiwandotmd/status/2059458468898287770'
 relatedDiary: ['2026-05-27-122151-manual']
 translatedFrom: 'Food/台灣美食總覽.md'
-sourceCommitSha: '53dd93dd8'
-sourceContentHash: 'sha256:4e63535e7555a67e'
-sourceBodyHash: 'sha256:607f80fde520e7fc'
-translatedAt: '2026-07-27T12:01:18+08:00'
+sourceCommitSha: 'c4bb5dc71'
+sourceContentHash: 'sha256:1ab18bf6c6736ca9'
+sourceBodyHash: 'sha256:d8ec20e1d4812ac6'
+translatedAt: '2026-10-08T06:55:42.798462+00:00'
 ---
 
 # Panorama da gastronomia de Taiwan: não há um prato que seja puramente taiwanês, cada prato é o mais taiwanês de todos
@@ -177,35 +181,33 @@ Um _ban-doh_ costuma servir «doze pratos». O título da série _Doze Tigelas d
 
 ---
 
-## 2018 Michelin chegou: 419 casas, 144 são bancas de rua
+## A chegada do Michelin em 2018: 144 estabelecimentos de rua entre os 419 listados
 
-14 de março de 2018, o _Guia Michelin_ entra em Taiwan, marcando a entrada formal da indústria de restauração de Taiwan no sistema de avaliação internacional.
+Em 14 de março de 2018, o _Guia Michelin_ chegou a Taiwan, marcando a entrada formal da indústria gastronômica taiwanesa no sistema de avaliação internacional.
 
-Até à oitava edição de 2025, o Michelin recolheu 419 restaurantes: **3 de três estrelas, 7 de duas estrelas, 43 de uma estrela, 144 Bib Gourmand, 7 Estrelas Verdes (restaurantes sustentáveis)**[^54].
+Na oitava edição do guia, em 2025, o Michelin listou 419 restaurantes: **3 estrelas, 7 estrelas duplas, 43 estrelas simples e 144 recomendações Bib Gourmand (Bebido)**[^54], além de 7 estrelas verdes (restaurantes sustentáveis).
 
-**As 3 de três estrelas mantêm-se consecutivas há vários anos**: Yeh Palace (Taipé, cantonês), Taïrroir (Taipé, cozinha taiwanesa moderna), JL Studio (Taichung, cozinha de Singapura/moderna). **Yeh Palace desde a primeira edição de 2018, 8 anos consecutivos de três estrelas**, o registo mais longo de três estrelas de Taiwan. Mas há uma reviravolta: o ex-chef executivo do Yeh Palace, Chen Tai-jung (n. 1970, Macau), saiu em 2024 para Kaohsiung criar o novo restaurante cantonês «Jun Gen»[^55]. Uma casa de três estrelas oito anos consecutivos, a alma foi para outro lado; esta é a fragilidade da alta restauração.
+**As 3 estrelas mantiveram-se por vários anos seguidos**: Yi Gong (Taipé, cozinha cantonesa), Tai Rui (Taipé, culinária taiwanesa moderna) e JL Studio (Taichung, cozinha de Singapura/moderna). **Yi Gong manteve o status de três estrelas por 8 anos consecutivos**, sendo o registro mais duradouro de três estrelas em Taiwan. No entanto, houve uma mudança: o ex-chef principal de Yi Gong, Chen Tai-rong (nascido em Macau em 1970), deixou Yi Gong em 2024 para abrir um novo restaurante cantonesa chamado "Jun Gen" em Kaohsiung[^55]. A fragilidade da alta gastronomia é evidenciada quando a alma de um restaurante com oito anos de estrela se muda para outro lugar.
 
-**RAW (Chiang Chen-cheng) já encerrou**. Chiang Chen-cheng anunciou em 31 de dezembro de 2024 o fim da atividade, era a despedida dos 10 anos[^56]. A alta restauração de Taiwan, depois do _spotlight_ de 2018, caminhou mais dez anos de decisões próprias.
+**O RAW (Jiang Zhen-cheng) fechou**. Jiang Zhen-cheng anunciou que o RAW operaria até 31 de dezembro de 2024, marcando uma despedida de 10 anos[^56]. Após os holofotes de 2018, a alta gastronomia taiwanesa passou por sua própria década de decisões.
 
-Mas o que mais merece atenção no Guia Michelin é mesmo o prémio **Bib Gourmand**, que premeia especificamente «boas casas a preços acessíveis». Só Tainan, enquanto cidade única, teve 31 Bib Gourmand em 2024, muitas lojas famosas de petiscos locais[^57]. **Isto significa que o Michelin reconheceu o sabor popular de Taiwan**: uma tigela de caldo de carne de vaca a 70 NTD na beira da estrada pode sentar-se à mesma mesa que uma cozinha com estrela Michelin. A CNN chama diretamente a Tainan de «Taiwan's food capital» (capital gastronómica de Taiwan)[^58].
+Mas o mais notável do _Guia Michelin_ é na categoria **Bib Gourmand**, que celebra especificamente "restaurantes acessíveis com bom custo-benefício". Apenas na cidade de Tainan, havia 31 restaurantes selecionados para o Bib Gourmand em 2024, muitos deles sendo estabelecimentos locais famosos por sua comida de rua[^57]. **Isso significa que o Michelin reconheceu o sabor popular de Taiwan**: uma tigela de _beef noodle soup_ (sopa de carne) por NT$70 na beira da estrada pode ser colocada em pé de igualdade com uma cozinha estrelada. A CNN chegou a chamar Tainan de "capital gastronômica de Taiwan"[^58].
 
-> **📊 Dados Michelin Taiwan 2025**
+> **📊 Dados do Michelin em Taiwan 2025**
 
-| Indicador          | 2024 | 2025 |
-| ------------------ | ---- | ---- |
-| Total selecionados | 343  | 419  |
-| Três estrelas      | 3    | 3    |
-| Duas estrelas      | 5    | 7    |
-| Uma estrela        | 41   | 43   |
-| Bib Gourmand       | 126  | 144  |
-| Estrela Verde      | 6    | 7    |
+| Indicador                          | 2024                 | 2025                 |
+| :--------------------------------- | :------------------- | :------------------- |
+| Total selecionado                  | 343 estabelecimentos | 419 estabelecimentos |
+| Três estrelas                      | 3 estabelecimentos   | 3 estabelecimentos   |
+| Duas estrelas                      | 5 estabelecimentos   | 7 estabelecimentos   |
+| Uma estrela                        | 41 estabelecimentos  | 43 estabelecimentos  |
+| Recomendações Bib Gourmand         | 126 estabelecimentos | 144 estabelecimentos |
+| Estrelas verdes (Sustentabilidade) | 6 estabelecimentos   | 7 estabelecimentos   |
 
-Outra dimensão da alta restauração é o chá. O chá de alta montanha de Taiwan passou das casas de chá para as cartas de chá dos restaurantes Michelin. Alishan, Lishan, Shanlinxi, Taimali, chás de alta montanha, altitude acima de 1.000 metros, encostas envoltas em neblina, das aldeias Tsou às bordas das chávenas dos restaurantes de topo. Aquele gesto de 1865, John Dodd a introduzir mudas de oolong de Fujian em Tamsui, 160 anos depois ainda influencia o mapa gustativo de Taiwan.
+Outro pilar da alta gastronomia é o chá. O chá de montanha taiwanês passou dos salões de chá para os cardápios dos restaurantes Michelin. Os chás das regiões de Alishan, Lishan, Shanlinxi e Taimali, cultivados em encostas envoltas em névoa com mais de 1.000 metros de altitude, vão desde as comunidades indígenas Zuo até os copos de restaurantes de ponta. O ato de Tao De introduzir mudas de chá oolong do Fujian para Danshui em 1865 ainda influencia o mapa gustativo de Taiwan 160 anos depois.
 
-![Plantação de chá no Parque Cultural Tsou YUYUPAS, Alishan, cházeiros alinhados na encosta](/article-images/food/taiwan-food-alishan-yuyupas-tea-garden-2011.webp)
-_Chá de alta montanha de Alishan: das aldeias Tsou às cartas de chá de restaurantes Michelin estrela, nascido da neblina acima de 1000 metros. Foto: Hughon-zxl, 2011, CC BY-SA 3.0 [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:In_the_Alishan_YUYUPAS_tea_garden.JPG)._
-
----
+![Jardim de chá na área cultural Zuo de Alishan, com árvores perfeitamente alinhadas na encosta](/article-images/food/taiwan-food-alishan-yuyupas-tea-garden-2011.webp)
+_Chá de montanha de Alishan: do povoado indígena ao cardápio Michelin, cultivado em névoa acima de 1.000 metros. Foto: Hughon-zxl, 2011, CC BY-SA 3.0 [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:In_the_Alishan_YUYUPAS_tea_garden.JPG)._
 
 ## A próxima dentada: _xin zhu min_, sustentabilidade, _delivery_, vegan terceiro mundial
 
