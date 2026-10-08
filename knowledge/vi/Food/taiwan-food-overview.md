@@ -40,10 +40,10 @@ sporeLinks:
 relatedDiary:
   - 2026-05-27-122151-manual
 translatedFrom: 'Food/台灣美食總覽.md'
-sourceCommitSha: '53dd93dd8'
-sourceContentHash: 'sha256:4e63535e7555a67e'
-sourceBodyHash: 'sha256:607f80fde520e7fc'
-translatedAt: '2026-08-09T09:26:48+08:00'
+sourceCommitSha: 'c4bb5dc7'
+sourceContentHash: 'sha256:1ab18bf6c6736ca9'
+sourceBodyHash: 'sha256:d8ec20e1d4812ac6'
+translatedAt: '2026-10-08T16:54:15.017161+00:00'
 ---
 
 # Tổng quan ẩm thực Đài Loan: Không có một món nào là hoàn toàn của Đài Loan, mỗi món đều là Đài Loan nhất
@@ -125,9 +125,9 @@ Năm 1955 ở dưới cầu Trung Chính Vĩnh Hòa tân Bắc, mấy quán đ�
 >
 > Sự trỗi dậy của mỳ thực phẩm sau chiến tranh ở Đài Loan, tạp chí Viễn Kiến viết rất rõ: «Sau chiến tranh mỳ thực phẩm sẽ được chào đón ở Đài Loan, ngoài quan hệ với từng lúc trước đây những người từ Sơn Đông v.v những tỉnh Bắc Phương Trung Quốc ăn mỳ chính hôn về thực hiện, còn liên hệ mật thiết với chiến tranh sau viện trợ Mỹ phân phối số lượng lớn lúa mỳ cho Đài Loan.[^29]» Nói cách khác, bàn sáng của người Đài Loan có hai thế lực: nôn nao eyên xứ cựu chiến binh, cộng với bột mỳ Mỹ. Bánh bao nhỏ bột sốt tiêu bánh này, là tích số của «ngoài tỉnh» và «viện trợ Mỹ» hai biến số.
 
-Đến những năm 1980, những cửa hàng ăn sáng liên chuỗi «kiểu Tây» «đẹp rồi» «toàn lâm» «lươn Mỹ chi thành» bắt đầu mở rộng. Lâm Côn Âm ở đường Bát Đức Thành phố Đài Bắc mở cửa, bán ăn sáng kiểu Tây rẻ và lạ: bánh trứng, bánh bào, bánh cốp kế, sữa trà[^30]. Hôm nay cửa hàng ăn sáng toàn Đài Loan khoảng 1.8 vạn gia, mật độ thế giới hàng đầu. Cửa hàng ăn sáng liên chuỗi kiểu Tây vượt quá 1 vạn gia, doanh thu hàng năm khoảng 200 tỷ đồng, còn hơn siêu thị[^31]. **Sáng sớm Mỹ Chi Thành** toàn Đài Loan có khoảng 1.400 cửa hàng nhánh. **Toàn Lâm Đẹp Rồi** năm 2004 gia nhập đạt 2.800 gia. **Toàn Lâm Đẹp Rồi** năm 1992 gia nhập vượt quá 1.100 gia[^32].
+Đến những năm 1980, những cửa hàng ăn sáng liên chuỗi «kiểu Tây» «đẹp rồi» «toàn lâm» «lươn Mỹ chi thành» bắt đầu mở rộng. Lâm Côn Âm ở đường Bát Đức Thành phố Đài Bắc mở cửa, bán ăn sáng kiểu Tây rẻ và lạ: bánh trứng, bánh bào, bánh cốp kế, sữa trà[^30]. Hôm nay cửa hàng ăn sáng toàn Đài Loan khoảng 1.8 vạn gia, mật độ thế giới hàng đầu. Cửa hàng ăn sáng liên chuỗi kiểu Tây vượt quá 1 vạn gia, doanh thu hàng năm khoảng 200 tỷ Đài tệ, còn hơn siêu thị[^31]. **Sáng sớm Mỹ Chi Thành** toàn Đài Loan có khoảng 1.400 cửa hàng nhánh. **Toàn Lâm Đẹp Rồi** năm 2004 gia nhập đạt 2.800 gia. **Toàn Lâm Đẹp Rồi** năm 1992 gia nhập vượt quá 1.100 gia[^32].
 
-Cửa hàng tiện lợi cũng tham gia cuộc chạy đua này. 7-Eleven năm 1987 bắt đầu chính thức bán trứng trà, giá một quả 10 đồng suốt mấy chục năm không thay đổi[^33]. Năm 1997 năm Thống Nhất Siêu Thị lên sàn chứng khoán cùng năm đó, Từ Trọng Nhân tham gia «cơm viên» và «canh Hàn Đông» mục mục. Hai mục này cộng trứng trà, sau này thành «ba thần khí ẩm thực» siêu thị Đài Loan[^34].
+Cửa hàng tiện lợi cũng tham gia cuộc chạy đua này. 7-Eleven năm 1987 bắt đầu chính thức bán trứng trà, giá một quả 10 Đài tệ suốt mấy chục năm không thay đổi[^33]. Năm 1997 năm Thống Nhất Siêu Thị lên sàn chứng khoán cùng năm đó, Từ Trọng Nhân tham gia «cơm viên» và «canh Hàn Đông» mục mục. Hai mục này cộng trứng trà, sau này thành «ba thần khí ẩm thực» siêu thị Đài Loan[^34].
 
 ---
 
@@ -142,7 +142,7 @@ _Trà sữa trân châu: Suất Nước Xuân Đài Trung phát minh năm 1986, 
 
 Tranh cãi này lâu tới mức quên mất sự kiện cốt lõi: **hai yếu tố cốt lõi của đồ uống này không phải «bản địa Đài Loan»**. Trà bắt nguồn từ Mân Nam, Ấn Độ, lạng đế Anh thuộc địa trà uống truyền thống; phân tròn của «phân» là tinh bột sắn, địa chỉ bản gốc là Bra Tây. Nhưng sau khi hai thứ này gặp nhau ở Đài Trung năm 1986, sinh ra một đồ uống mà thế giới chưa ai thấy.
 
-CNN với Địa lý Quốc Gia cả hai đặt đồ uống này là «**ngoại giao văn hóa đại diện nhất Đài Loan**»[^37]. Quốc tế Trà Sữa Trân Châu Ngày là 30 tháng 4, do thương hiệu Mỹ Công Phu Trà phát động năm 2018 (Công Phu Trà năm 2010 được ba người khởi sự Đài Loan thành lập ở New York)[^38]. Hôm nay người Đài Loan mỗi năm uống 1.02 tỉ cốc trà uống nước, trung bình 44 cốc, doanh thu 500 tỷ đồng. Toàn cầu ngành trà sữa trân châu dự tính năm 2027 đạt 43 tỷ đô la Mỹ (khoảng 129 tỷ đồng Đài Loan mới)[^39]. Cửa hàng trà uống Đài Loan lây lan toàn cầu hơn 40 quốc gia, 300 thành phố, 50 Ân, cung trà, Suất Nước Xuân, CoCo, Mê Kích Hạ một một đi vào New York, Luân Đôn, Ơ-cha-ních Dun, Sydney, Thủ Ê, Thượng Hải, Singapore, Ma Ni La, Cát Lâm Bộ,曼 Thái[^40].
+CNN với Địa lý Quốc Gia cả hai đặt đồ uống này là «**ngoại giao văn hóa đại diện nhất Đài Loan**»[^37]. Quốc tế Trà Sữa Trân Châu Ngày là 30 tháng 4, do thương hiệu Mỹ Công Phu Trà phát động năm 2018 (Công Phu Trà năm 2010 được ba người khởi sự Đài Loan thành lập ở New York)[^38]. Hôm nay người Đài Loan mỗi năm uống 1.02 tỉ cốc trà uống nước, trung bình 44 cốc, doanh thu 50 tỷ Đài tệ. Toàn cầu ngành trà sữa trân châu dự tính năm 2027 đạt 43 tỷ đô la Mỹ (khoảng 129 tỷ đồng Đài Loan mới)[^39]. Cửa hàng trà uống Đài Loan lây lan toàn cầu hơn 40 quốc gia, 300 thành phố, 50 Ân, cung trà, Suất Nước Xuân, CoCo, Mê Kích Hạ một một đi vào New York, Luân Đôn, Ơ-cha-ních Dun, Sydney, Thủ Ê, Thượng Hải, Singapore, Ma Ni La, Cát Lâm Bộ,曼 Thái[^40].
 
 > **✦** «**Đây là lần đầu tiên Đài Loan chinh phục thế giới nhờ «phát minh» chứ không phải «sao chép».**»
 
@@ -190,9 +190,9 @@ Tới phiên bản lần thứ tám năm 2025, Michelin ghi nhận 419 gia nhà 
 
 **3 Gia Ba Sao Đều Liên Tục Nhiều Năm Chế Ngự**: Ý Cung (Đài Bắc, ẩm thực Quảng Đông), Thái Nhạo (Đài Bắc, Đài Loan Kiểu Tây Phương Tử), JL Phòng (Đài Trung, Singapore Kiểu / Kiểu Tây Phương Tử). **Ý Cung Từ Năm 2018 Phiên Bản Thứ Nhất Cẩm Nang, Liên Tục 8 Năm Ba Sao**, Đây Là Kỷ Lục Ba Sao Bền Vững Lâu Nhất Đài Loan. Nhưng Có Một Chuyển Quanh: Bếp Gia Trước Ý Cung Trần Thái Vinh (Sinh 1970 Ôr Môn) Năm 2024 Rời Ý Cung, Đi Cao Hùng Tạo Lập Nhà Hàng Quảng Đông Mới «Tuấn Gen»[^55]. Một Gia Nhà Hàng Ba Sao Liên Tục Tám Năm, Linh Hồn Người Đi Nơi Khác, Đây Chính Là Mong Manh Của Ẩm Thực Tinh Tế.
 
-**RAW (Giang Chấn Vinh) Đã Đóng Cửa**. Giang Chấn Vinh Ngày 31 Tháng 12 Năm 2024 Tuyên Bố Kết Thúc Kinh Doanh, Đó Là Tạm Biệt Mười Tuần[^56]. Ẩm Thực Tinh Tế Đài Loan Sau Ánh Sáng Năm 2018, Lại Đi Qua Mười Năm Quyết Định Riêng Của Mình.
+**RAW (Giang Chấn Thành) đã đóng cửa**. Giang Chấn Thành tuyên bố RAW chỉ hoạt động đến hết ngày 31 tháng 12 năm 2024, đó là lời chia tay sau mười năm[^56]. Ẩm thực tinh tế của Đài Loan, sau ánh đèn sân khấu năm 2018, đã đi tiếp mười năm bằng những quyết định của riêng mình.
 
-Nhưng Cẩm Nang Michelin Giá Trị Đáng Chú Ý Nhất Thực Ra Là Giải **Bib Gourmand Đề Cử Bib Gourmand**, Giải Này Chuyên Biểu Dương «Nhà Thức Ăn Tốt Giá Rẻ». Thành Phố Đài Nam Một Thành Phố Đơn Lẻ Có 31 Gia Gia Hàng Nhà Hàng Đề Cử Bib Gourmand Năm 2024, Nhiều Là Tiệm Ăn Vặt Địa Phương Nổi Tiếng[^57]. **Điều Này Đại Diện Michelin Công Nhận Vị Thường Dân Đài Loan**: Một Cái Bát Nước Thịt Bò 70 Đồng Bên Đường, Với Nhà Bếp Michelin Sao Có Thể Đứng Ngang Hàng. CNN Trực Tiếp Gọi Đài Nam Là «Taiwan's Food Capital» (Thủ Đô Ẩm Thực Đài Loan)[^58].
+Nhưng Cẩm Nang Michelin Giá Trị Đáng Chú Ý Nhất Thực Ra Là Giải **Bib Gourmand Đề Cử Bib Gourmand**, Giải Này Chuyên Biểu Dương «Nhà Thức Ăn Tốt Giá Rẻ». Thành Phố Đài Nam Một Thành Phố Đơn Lẻ Có 31 Gia Gia Hàng Nhà Hàng Đề Cử Bib Gourmand Năm 2024, Nhiều Là Tiệm Ăn Vặt Địa Phương Nổi Tiếng[^57]. **Điều Này Đại Diện Michelin Công Nhận Vị Thường Dân Đài Loan**: Một Cái Bát Nước Thịt Bò 70 Đài Tệ Bên Đường, Với Nhà Bếp Michelin Sao Có Thể Đứng Ngang Hàng. CNN Trực Tiếp Gọi Đài Nam Là «Taiwan's Food Capital» (Thủ Đô Ẩm Thực Đài Loan)[^58].
 
 > **📊 Số Liệu Michelin Đài Loan 2025**
 
@@ -232,7 +232,7 @@ Cũng Đừng Quên Năm 2010 Xã Hội Đài Loan Tin Tưởng Thức Ăn Như 
 
 > **Sự Kiện Hỗn Dầu Đại Thống Dài Cơ Sở Năm 2013** — Ngày 16 Tháng 10 Năm 2013 Phanh Phơi, Công Ty Đại Thống Dùng Dầu Hướng Dương Chi Phí Thấp Với Dầu Bạc Hà Hỗn Sơn Cam Dầu, Và Thêm Copper Clo Hóa Lá Hoá Màu. Ngày 24 Tháng 7 Năm 2014 Tòa Địa Phương Cao Hùng Phán Quyết Chủ Trách Nhân Công Ty Đại Thống Cao Chấn Lợi Phán Quyết 12 Năm[^68].
 
-> **Sự Kiện Dầu Cặn Công Ty Cường Vương Năm 2014** — Cường Vương 33% Dầu Kém Chất Lượng Cộng 67% Dầu Lợn (Tỷ Lệ 1:2) Xuất Phát «Thống Nhất Hương Dầu Lợn». Sóng Cặn Kỳ Diệu Thực Phẩm, Thạch Hương Châu, 85 Độ C, Hương Vị Vua, Hương Vị Toàn, Đen Cầu Hiệu Và Các Nhà Máy Lớn. Tòa Địa Phương Bình Đông Ngày 24 Tháng 7 Năm 2015 Phán Quyết, Chủ Tịch Diễn Ngàn Yên, Đeo Khai Xuyên Các Phán Quyết 20 Năm, Phạt Tiền 500 Triệu Đồng[^69].
+> **Sự Kiện Dầu Cặn Công Ty Cường Vương Năm 2014** — Cường Vương 33% Dầu Kém Chất Lượng Cộng 67% Dầu Lợn (Tỷ Lệ 1:2) Xuất Phát «Thống Nhất Hương Dầu Lợn». Sóng Cặn Kỳ Diệu Thực Phẩm, Thạch Hương Châu, 85 Độ C, Hương Vị Vua, Hương Vị Toàn, Đen Cầu Hiệu Và Các Nhà Máy Lớn. Tòa Địa Phương Bình Đông Ngày 24 Tháng 7 Năm 2015 Phán Quyết, Chủ Tịch Diễn Ngàn Yên, Đeo Khai Xuyên Các Phán Quyết 20 Năm, Phạt Tiền 50 Triệu Đài Tệ[^69].
 
 Ba Lần Sự Kiện Sau Đó, Người Đài Loan Nhu Cầu Ở «Tại Chỗ» «Thân Thiện Nhỏ Nông Phu» «Giáo Dục Thực Phẩm Nông Nghiệp» Biến Cao Hơn. Ẩm Thực Bền Vững, Luật Giáo Dục Thực Phẩm Nông Nghiệp, Michelin Xanh Sao, Tất Cả Đều Là Chất Dẻo Hoá, Hỗn Dầu, Copper Clo Hóa Lá Sau Đó Xã Hội Bù Trừ Tập Thể Ký Ức, Gốc Từ Sự Phá Vỡ Tin Tưởng Thức Ăn Xã Hội Đài Loan Sửa Chữa Ngược Lại.
 
@@ -375,11 +375,11 @@ Bài Này Dùng 9 Tấm Hình Khu Vực Công Cộng / Toàn Quyền CC, Toàn B
 
 [^30]: [Cửa Hàng Ăn Sáng — Wikipedia (Trung Văn)](https://zh.wikipedia.org/zh-hant/%E6%97%A9%E9%A4%90%E5%BA%97) — Mục Từ Wikipedia Trung Văn Lịch Sử Ngành Cửa Hàng Ăn Sáng Đài Loan Hoàn Toàn, Ghi Nhận Lâm Côn Âm Ở Đường Bát Đức Thành Phố Đài Bắc Mở Cửa Hàng Ăn Sáng Kiểu Tây Ghi Nhận Và Mở Rộng Liên Chuỗi Gia Nhập Sau.
 
-[^31]: [Tạp Chí Hôm Nay — Cửa Hàng Ăn Sáng Liên Chuỗi Kiểu Tây Vượt Quá Mười Ngàn Gia](https://www.businesstoday.com.tw/article/category/80393/post/201810080017/) — Tạp Chí Hôm Nay Kho Tàng Ngành Cửa Hàng Ăn Sáng Đài Loan, Toàn Đài Cửa Hàng Ăn Sáng Khoảng 18.919 Gia, Doanh Thu Hàng Năm Khoảng 200 Tỷ Đồng, Mật Độ Thế Giới Hàng Đầu Dữ Liệu Thống Kê Cụ Thể.
+[^31]: [Tạp Chí Hôm Nay — Cửa Hàng Ăn Sáng Liên Chuỗi Kiểu Tây Vượt Quá Mười Ngàn Gia](https://www.businesstoday.com.tw/article/category/80393/post/201810080017/) — Tạp Chí Hôm Nay Kho Tàng Ngành Cửa Hàng Ăn Sáng Đài Loan, Toàn Đài Cửa Hàng Ăn Sáng Khoảng 18.919 Gia, Doanh Thu Hàng Năm Khoảng 200 Tỷ Đài Tệ, Mật Độ Thế Giới Hàng Đầu Dữ Liệu Thống Kê Cụ Thể.
 
 [^32]: [Cửa Hàng Ăn Sáng — Wikipedia (Trung Văn)](https://zh.wikipedia.org/zh-hant/%E6%97%A9%E9%A4%90%E5%BA%97) — Thống Kê Quy Mô Gia Nhập Thương Hiệu Liên Chuỗi: Sáng Sớm Mỹ Chi Thành Toàn Đài Khoảng 1.400 Gia, Toàn Lâm Đẹp Rồi Năm 2004 Gia Nhập 2.800 Gia, Toàn Lâm Đẹp Rồi Năm 1992 Gia Nhập Vượt Quá 1.100 Gia.
 
-[^33]: [Thống Nhất Siêu Thị Trở Thành Lãnh Đạo Cửa Hàng Tiện Lợi — Đọc Vui Vẻ Liên Hợp](https://reading.udn.com/read/story/122749/7359820) — Báo Liên Hợp Đọc Vui Vẻ Lược Khảo Sâu Sắc Lịch Sử Thống Nhất Siêu Thị, Ghi Nhận 7-Eleven Năm 1987 Chính Thức Bán Trứng Trà, Ghi Nhận Lịch Sử Một Quả 10 Đồng.
+[^33]: [Thống Nhất Siêu Thị Trở Thành Lãnh Đạo Cửa Hàng Tiện Lợi — Đọc Vui Vẻ Liên Hợp](https://reading.udn.com/read/story/122749/7359820) — Báo Liên Hợp Đọc Vui Vẻ Lược Khảo Sâu Sắc Lịch Sử Thống Nhất Siêu Thị, Ghi Nhận 7-Eleven Năm 1987 Chính Thức Bán Trứng Trà, Ghi Nhận Lịch Sử Một Quả 10 Đài Tệ.
 
 [^34]: [Thống Nhất Siêu Thị Trở Thành Lãnh Đạo Cửa Hàng Tiện Lợi — Đọc Vui Vẻ Liên Hợp](https://reading.udn.com/read/story/122749/7359820) — Ghi Nhận Năm 1997 Thống Nhất Siêu Thị Lên Sàn Chứng Khoán Cùng Năm Đó Từ Trọng Nhân Tham Gia «Cơm Viên» Và «Canh Hàn Đông» Mục Mục Lịch Sử Ghi Nhận.
 
@@ -391,7 +391,7 @@ Bài Này Dùng 9 Tấm Hình Khu Vực Công Cộng / Toàn Quyền CC, Toàn B
 
 [^38]: [Tatler Châu Á — Quốc Tế Trà Sữa Trân Châu Ngày](https://www.tatlerasia.com/dining/drinks/national-bubble-tea-day-zh-hant) — Phiên Bản Châu Á Tatler Về 30 Tháng 4 Quốc Tế Trà Sữa Trân Châu Ngày Do Thương Hiệu Mỹ Công Phu Trà Phát Động Năm 2018, Công Phu Trà Năm 2010 Do Ba Người Khởi Sự Đài Loan Thành Lập Ở New York Ghi Nhận Lịch Sử.
 
-[^39]: [Tạp Chí Viễn Kiến — Một Cốc Trà Sữa Trân Châu Nâng Cao Điều Kỳ Diệu Kinh Tế Mới Đài Loan](https://event.gvm.com.tw/201811_bubble-tea/) — Chuyên Đề Kinh Tế Trà Sữa Tạp Chí Viễn Kiến, Ghi Nhận Doanh Số Đài Loan Hàng Năm 1.02 Tỷ Cốc, Trung Bình 44 Cốc, Doanh Thu 500 Tỷ Đồng, Thế Giới Ngành Trà Sữa Trân Châu Năm 2027 Dự Tính Đạt 43 Tỷ Đô La Mỹ (1.290 Tỷ Đồng Đài Loan Mới) Dữ Liệu Thị Trường.
+[^39]: [Tạp Chí Viễn Kiến — Một Cốc Trà Sữa Trân Châu Nâng Cao Điều Kỳ Diệu Kinh Tế Mới Đài Loan](https://event.gvm.com.tw/201811_bubble-tea/) — Chuyên Đề Kinh Tế Trà Sữa Tạp Chí Viễn Kiến, Ghi Nhận Doanh Số Đài Loan Hàng Năm 1.02 Tỷ Cốc, Trung Bình 44 Cốc, Doanh Thu 50 Tỷ Đài Tệ, Thế Giới Ngành Trà Sữa Trân Châu Năm 2027 Dự Tính Đạt 43 Tỷ Đô La Mỹ (1.290 Tỷ Đồng Đài Loan Mới) Dữ Liệu Thị Trường.
 
 [^40]: [Bộ Ngoại Giao NSPP — Một Ly Đồ Uống Khoa Học Đài Loan Trà Uống Nước Tay Cầm Mở Ra Thế Giới](https://nspp.mofa.gov.tw/nspp/news.php?unit=406&post=234079) — Nền Tảng Chính Sách Phía Nam Mới Bộ Ngoại Giao Ghi Nhận Chính Thức Mở Rộng Toàn Cầu Trà Uống Nước Tay Cầm Đài Loan: Lây Lan Toàn Cầu Hơn 40 Quốc Gia, 300 Thành Phố; 50 Ân, Cung Trà, Suất Nước Xuân Vân Vân Trục Thời Gian Mở Rộng Cụ Thể.
 
@@ -425,7 +425,7 @@ Bài Này Dùng 9 Tấm Hình Khu Vực Công Cộng / Toàn Quyền CC, Toàn B
 
 [^55]: [Ý Cung Ba Sao Michelin Liên Tục Tám Năm Bếp Gia Trước Rời Đi](https://www.cna.com.tw/news/ahel/202508195003.aspx) — Tin Tức Trung Ương Về Ý Cung Ba Sao Michelin Liên Tục Tám Năm, Bếp Gia Trước Trần Thái Vinh Năm 2024 Rời Ý Cung, Đi Cao Hùng Tạo Lập Nhà Hàng Quảng Đông Mới «Tuấn Gen» Ghi Nhận Chi Tiết.
 
-[^56]: [RAW Kết Thúc Kinh Doanh Năm 2024 Tháng 12](https://guide.michelin.com/tw/zh_TW/article/michelin-guide-ceremony/michelin-guide-taiwan-starred-restaurant-2024) — Giang Chấn Vinh Năm 2024 Tháng 12 Tuyên Bố Kết Thúc Kinh Doanh RAW Là Tạm Biệt Mười Năm Ghi Nhận Chi Tiết.
+[^56]: [RAW Kết Thúc Kinh Doanh Năm 2024 Tháng 12](https://guide.michelin.com/tw/zh_TW/article/michelin-guide-ceremony/michelin-guide-taiwan-starred-restaurant-2024) — Giang Chấn Thành tuyên bố RAW hoạt động đến hết ngày 31/12/2024, khép lại mười năm.
 
 [^57]: [CNN — Thủ Đô Ẩm Thực Đài Loan Đài Nam](https://www.cnn.com/travel/article/tainan-street-food/index.html) — CNN Du Lịch Báo Chí Về Đài Nam Được Gọi «Thủ Đô Ẩm Thực Đài Loan», Ghi Nhận 31 Gia Gia Hàng Nhà Hàng Bib Gourmand Năm 2024 Đề Cử Đài Nam Một Thành Phố.
 
@@ -451,6 +451,6 @@ Bài Này Dùng 9 Tấm Hình Khu Vực Công Cộng / Toàn Quyền CC, Toàn B
 
 [^68]: [Vụ Hỗn Dầu Đại Thống Năm 2013](https://e-info.org.tw/node/60891) — Báo Tự Do Vụ Hỗn Dầu Đại Thống Năm 2013, Công Ty Đại Thống Dùng Dầu Hướng Dương Chi Phí Thấp Với Dầu Bạc Hà Hỗn Sơn Cam Dầu Cộng Thêm Copper Clo Hóa Lá Hoá Màu, Tòa Địa Phương Cao Hùng Phán Quyết Chủ Trách Nhân Công Ty Phán Quyết 12 Năm Ghi Nhận Chi Tiết.
 
-[^69]: [Vụ Dầu Cặn Công Ty Cường Vương Năm 2014](https://zh.wikipedia.org/zh-tw/2014%E5%B9%B4%E5%8F%B0%E7%81%A3%E5%8A%A3%E8%B3%AA%E6%B2%B9%E5%93%81%E4%BA%8B%E4%BB%B6) — Báo Tự Do Vụ Dầu Cặn Công Ty Cường Vương Năm 2014, Cường Vương 33% Dầu Kém Chất Lượng Cộng 67% Dầu Lợn (Tỷ Lệ 1:2) Xuất Phát Sóng Cặn Kỳ Diệu Thực Phẩm, Tòa Địa Phương Bình Đông Phán Quyết Chủ Tịch Diễn Ngàn Yên, Đeo Khai Xuyên Phán Quyết 20 Năm, Phạt Tiền 500 Triệu Đồng Ghi Nhận Chi Tiết.
+[^69]: [Vụ Dầu Cặn Công Ty Cường Vương Năm 2014](https://zh.wikipedia.org/zh-tw/2014%E5%B9%B4%E5%8F%B0%E7%81%A3%E5%8A%A3%E8%B3%AA%E6%B2%B9%E5%93%81%E4%BA%8B%E4%BB%B6) — Báo Tự Do Vụ Dầu Cặn Công Ty Cường Vương Năm 2014, Cường Vương 33% Dầu Kém Chất Lượng Cộng 67% Dầu Lợn (Tỷ Lệ 1:2) Xuất Phát Sóng Cặn Kỳ Diệu Thực Phẩm, Tòa Địa Phương Bình Đông Phán Quyết Chủ Tịch Diễn Ngàn Yên, Đeo Khai Xuyên Phán Quyết 20 Năm, Phạt Tiền 50 Triệu Đài Tệ Ghi Nhận Chi Tiết.
 
 [^台灣醬油]: [世新大學小世界 — 台灣醬油之都 西螺百年黑豆醬油飄香](https://shuj.shu.edu.tw/blog/2023/05/26/%E5%8F%B0%E7%81%A3%E9%86%AC%E6%B2%B9%E4%B9%8B%E9%83%BD-%E8%A5%BF%E8%9E%BA%E7%99%BE%E5%B9%B4%E9%BB%91%E8%B1%86%E9%86%AC%E6%B2%B9%E9%A3%84%E9%A6%99/) [上下游 — 西螺不老農民的黑豆夢](https://www.newsmarket.com.tw/blog/21551/)
