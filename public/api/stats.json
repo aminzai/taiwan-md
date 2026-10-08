@@ -1,5 +1,5 @@
 {
-  "totalArticles": 14625,
+  "totalArticles": 14626,
   "totalCategories": 27,
   "estimatedContributors": 78,
   "totalTags": 9137,
@@ -70,7 +70,7 @@
     },
     {
       "name": "de",
-      "count": 1125
+      "count": 1126
     },
     {
       "name": "Lifestyle",
@@ -196,10 +196,10 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 14625,
+    "zh-TW": 14626,
     "en": 0
   },
-  "lastUpdated": "2026-10-07T22:05:56.569Z",
+  "lastUpdated": "2026-10-08T22:06:42.562Z",
   "stars": 1199,
   "forks": 187,
   "zhPages": 1123,
@@ -216,7 +216,7 @@
     "hi": 1125,
     "ar": 1125,
     "ru": 1125,
-    "de": 1125
+    "de": 1126
   },
   "enPages": 1125,
   "totalPages": 1123

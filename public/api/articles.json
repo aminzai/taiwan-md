@@ -96,6 +96,24 @@
     "path": "hi/History/1959-august-7-flood.md"
   },
   {
+    "title": "'功' 글자 속의 역슬래시: 타이완 엔지니어가 매일 지불하는 두 겹의 기본세",
+    "description": "언어권 zh-TW의 Windows 11에서 번역 상태 스크립트가 감지한 4천여 개 경로를 모두 root에 넣고 Technology는 0이 되었으며, 같은 주에는 Linux CI가 녹색을 표시했다. 스크립트는 정슬래시로 분류 이름을 나누지만 디스크는 역슬래시를 사용하므로 분리가 되지 않는다. 더 오래된 한 겹은 글자 속에 숨어 있다: Big5의 '功' 두 번째 바이트는 ASCII 역슬래시이다. 개발계에서는 이를 허공개(許功蓋)라고 부른다. 경로가 어떻게 작성되었는지, 글자 안에 어떤 문자가 들어있는지 기본값조차 이 기계에 포함시키지 않았다. Git의 quotePath는 또 다른 선이며 원인이 다르다.",
+    "category": "ko",
+    "tags": [
+      "오픈소스",
+      "Windows",
+      "Big5",
+      "UTF-8",
+      "문자 인코딩",
+      "번체 중국어"
+    ],
+    "url": "https://taiwan.md/ko/technology/backslash-in-cjk-fonts",
+    "readingTime": 25,
+    "featured": false,
+    "date": "2026-08-13",
+    "path": "ko/Technology/backslash-in-cjk-fonts.md"
+  },
+  {
     "title": "'CommonWealth Magazine: cuarenta años clasificando el «éxito» de Taiwán desde el lugar más cercano al capital'",
     "description": "En junio de 1981, una revista económico-financiera llamada CommonWealth nació en una isla bajo ley marcial; su primera tirada de diez mil ejemplares se agotó en dos días. El impulsor fue el economista Kao Hsi-chun, y su alma fue Diane Ying, exreportera de United Press International y The New York Times. Cuarenta años después, se convirtió en uno de los medios más confiables de Taiwán, y también en el «definidor del éxito» detrás de las listas de las 2.000 empresas principales, los 50 grandes grupos y las ciudades felices. La fuente de su credibilidad y la fuente de su poder para clasificar provienen de la misma distancia.",
     "category": "es",
@@ -475,6 +493,17 @@
     "path": "ru/People/no-party-for-cao-dong.md"
   },
   {
+    "title": "«Обратная косая черта внутри иероглифа \"gōng\": два слоя налогов на умолчания, которые тайваньские инженеры платят каждый день»",
+    "description": "В Windows 11 с языковой настройкой zh-TW скрипт статуса перевода свалил все отсканированные 4500+ путей в root, Technology стало нулю, а в ту же неделю CI в Linux был зелёным. Скрипт резал категории прямой косой, а на диске — обратная, не вырезало. Старейший слой зарыт в самом иероглифе: второй байт Big5 у \"gōng\" — это ASCII обратная косая черта, разработчики называют это \"Сюй Гуньгай\". И как пишутся пути, и какие символы живут внутри иероглифов — умолчания не считали с этой машиной. Git''овский quotePath — отдельная линия, природа другая.",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/technology/backslash-in-cjk-fonts",
+    "readingTime": 42,
+    "featured": false,
+    "date": "2026-08-13",
+    "path": "ru/Technology/backslash-in-cjk-fonts.md"
+  },
+  {
     "title": "«Тайпин»: до прибытия в Кэйлун Тайвань получила безымянную могилу",
     "description": "В 1949 году «Тайпин» отправился из Шанхая в Кэйлун и затонул в районе Чжоушань; он оставил после себя не только кораблекрушение, но и вопрос о том, как память мигрантов, их родных и публичное conmemorание приживаются на Тайване.",
     "category": "ru",
@@ -564,14 +593,14 @@
       "繁體中文"
     ],
     "url": "https://taiwan.md/technology/%E5%8A%9F%E5%AD%97%E8%A3%A1%E7%9A%84%E9%82%A3%E6%A0%B9%E5%8F%8D%E6%96%9C%E7%B7%9A",
-    "readingTime": 14,
+    "readingTime": 18,
     "featured": false,
     "date": "2026-08-13",
     "path": "Technology/功字裡的那根反斜線.md"
   },
   {
-    "title": "「功」の中のバックスラッシュ：台湾のエンジニアが毎日払っている二重のデフォルト税金",
-    "description": "語系zh-TWのWindows 11において、翻訳ステータススクリプトが検出した4000以上のパスをすべてrootに放り込み、「Technology」がゼロになる。同じ週のLinux CIは緑色である。このスクリプトは正斜線で分類名を区切るが、ドライブではバックスラッシュを使用するため、分割できない。さらに古い層として文字の中に埋め込まれている：Big5の「功」の第二バイトはASCIIのバックスラッシュであり、開発界ではこれを「許功蓋（きょこうがい）」と呼ぶ。パスをどう書くか、文字内にどんな記号があるかというデフォルト値が、このマシンには考慮されていない。GitのquotePathは別の線引きであり、原因も異なる。",
+    "title": "「功」という文字の中のバックスラッシュ：台湾のエンジニアが毎日支払っている二層のデフォルト税",
+    "description": "語系zh-TW版Windows 11において、翻訳ステータススクリプトが検出した4000件以上のパスをすべてrootに投入しTechnologyがゼロになる。同じ週のLinux CIは緑色である。この問題は、スクリプトが正斜線で分類名を区切る一方で、ドライブではバックスラッシュを使用していることに起因する。さらに古い層として、Big5における「功」の第二バイトがASCIIのバックスラッシュであるという事象がある。",
     "category": "ja",
     "tags": [
       "オープンソース",
@@ -582,7 +611,7 @@
       "繁体中国語"
     ],
     "url": "https://taiwan.md/ja/technology/backslash-in-cjk-fonts",
-    "readingTime": 20,
+    "readingTime": 25,
     "featured": false,
     "date": "2026-08-13",
     "path": "ja/Technology/backslash-in-cjk-fonts.md"
@@ -736,17 +765,6 @@
     "path": "ja/Economy/net-night-economy-tourism.md"
   },
   {
-    "title": "「कुंग」 अक्षर में वह बैकस्लैश: ताइवान के इंजीनियर जो दोहरा डिफ़ॉल्ट टैक्स रोज़ चुकाते हैं",
-    "description": "zh-TW लोकेल वाले Windows 11 पर, अनुवाद स्थिति स्क्रिप्ट ने स्कैन किए गए 4000 से अधिक पथों को `root` में डाल दिया, Technology शून्य हो गया, जबकि उसी सप्ताह Linux का CI हरा था। स्क्रिप्ट श्रेणी नाम काटने के लिए फॉरवर्ड स्लैश का उपयोग करती है, डिस्क बैकस्लैश का उपयोग करती है, काट नहीं पाई। एक पुरानी परत अक्षर में दबी है: Big5 के \"कुंग\" का दूसरा बाइट ASCII बैकस्लैश है, डेवलपर समुदाय इसे \"शु कुंग गाई\" कहता है। पथ कैसे लिखे जाते हैं, अक्षर में कौन से प्रतीक रहते हैं, डिफ़ॉल्ट मानों ने इस मशीन को गणना में नहीं लिया। Git का quotePath एक अलग रेखा है, कारण अलग है।",
-    "category": "hi",
-    "tags": [],
-    "url": "https://taiwan.md/hi/technology/backslash-in-cjk-fonts",
-    "readingTime": 33,
-    "featured": false,
-    "date": "2026-08-13",
-    "path": "hi/Technology/backslash-in-cjk-fonts.md"
-  },
-  {
     "title": "「कुत्तों को मारने वाले द्वीप」 से शून्य वध तक: ताइवान के पशु संरक्षण के चालीस वर्षों की मुक्ति यात्रा",
     "description": "1990 के दशक में ताइवान को आवारा कुत्तों के प्रति क्रूर व्यवहार के कारण अंतरराष्ट्रीय स्तर पर 「कुत्तों को मारने वाला द्वीप」 कहा जाता था, यहाँ तक कि जापानी हवाई अड्डों पर पर्यटन विरोधी साइनबोर्ड लग गए थे। 1998 में 《पशु संरक्षण अधिनियम》 के पारित होने से लेकर 2017 में पूर्ण शून्य-वध नीति तक, यह जीवन के मूल्यों को पुनर्परिभाषित करने वाला एक सामाजिक आंदोलन रहा है।",
     "category": "hi",
@@ -761,6 +779,17 @@
     "featured": false,
     "date": "2026-07-28",
     "path": "hi/History/animal-protection-in-taiwan.md"
+  },
+  {
+    "title": "「गुण」 के अंदर वह स्लैश: ताइवान के इंजीनियर प्रतिदिन दोहरा डिफ़ॉल्ट कर",
+    "description": "zh-TW वाले Windows 11 पर चलाए गए i18n-स्थिति स्क्रिप्ट ने मिले 4000 से अधिक पथों को सभी `रूट` में डाल दिया। एक ही हफ्ते Linux CI हरा था। स्क्रिप्ट श्रेणी नाम को `/` से विभाजित करती है, डिस्क `\\` का उपयोग करती है, जिससे विभाजन नहीं हो पाता। एक पुरानी समस्या शब्दों के अंदर छिपी है: Big5 का ''गुण'' का दूसरा बाइट ASCII का `\\` है, जिसे डेवलपर्स ''हुँग हुँग'' कहते हैं। पथ कैसे लिखा जाता है, शब्दों में कौन सा सिम्फ़न है, डिफ़ॉल्ट मान इस मशीन को ध्यान में नहीं लेता। Git का quotePath एक अलग मुद्दा है, कारण अलग है।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/technology/backslash-in-cjk-fonts",
+    "readingTime": 41,
+    "featured": false,
+    "date": "2026-08-13",
+    "path": "hi/Technology/backslash-in-cjk-fonts.md"
   },
   {
     "title": "「본섬 셔츠」를 입은 「장화 마조」 라이허, 그리고 타협하지 않던 저울대",
@@ -5256,12 +5285,12 @@
     "path": "ja/Society/taipei-rat-problem.md"
   },
   {
-    "title": "台東県：二つの離島、一つは前後約30年間政治犯を収容し、もう一つは約40年間の核廃棄物を保管している",
-    "description": "台東県は人口21万人で面積3,515平方キロメートルと全国最低の人口密度であり、1平方キロメートルあたりわずか60人の住民しかおらず、台北市の10分の1に過ぎません。しかしこの県には、台湾最古の人類集落（卑南遺跡、5,300年前の石棺1,600体）があり、アミ族、卑南族、排湾族、魯凱族、布農族、達悟族という6つの先住民族が居住しており、先住民人口比率は全台最高の37.5%を誇ります。1951年から1987年まで、緑島と火燒島は前後約30年間政治犯を収容しました。1982年5月以降、蘭嶼の龍門では核廃棄物の受け入れが始まり、40年以上経った現在も97,672樽が残っています。1968年8月25日、紅葉村のブ農族の子どもたち7人が日本関西少棒スターチーム（世界チャンピオンチームではありません）を7対0で破り、台湾野球の国球神話はこの欺瞞から始まったと言われています。二つの離島が、一つの島の代償を負っています。",
+    "title": "台東県：二つの離島、約30年間政治犯を収容した場所と40年以上核廃棄物を保管する場所",
+    "description": "台東県は人口21万人で面積3,515平方キロメートルであり、全国で最も人口密度が低く、1平方キロメートルあたりわずか60人の住民しかいません。これは台北の10分の1に相当します。しかし、この県には台湾最古の人類集落（紀元前5300年の卑南遺跡における石棺1,600体）が存在し、アミ族、卑南族、排湾族、魯凱族、布農族、達悟族の6つの先住民族が居住しており、先住民人口比率は37.5%で全国最高です。1951年から1987年にかけて、緑島と火燒島は前後約30年間にわたり政治犯を収容しました。1982年5月以降、蘭嶼龍門では核廃棄物の受け入れが始まり、40年以上経った今も97,672樽が残っています。1968年8月25日、紅葉村の布農族の子ども7人が日本の関西少棒スターチーム（世界チャンピオンチームではありません）を7対0で破り、台湾野球という神話はこの欺瞞から始まったと言われています。二つの離島が島全体の代償を負っています。",
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/geography/taitung-county",
-    "readingTime": 87,
+    "readingTime": 89,
     "featured": false,
     "date": "2026-05-18",
     "path": "ja/Geography/taitung-county.md"
@@ -5272,7 +5301,7 @@
     "category": "Geography",
     "tags": [],
     "url": "https://taiwan.md/geography/%E5%8F%B0%E6%9D%B1%E7%B8%A3",
-    "readingTime": 66,
+    "readingTime": 68,
     "featured": false,
     "date": "2026-05-18",
     "path": "Geography/台東縣.md"
@@ -5456,17 +5485,6 @@
     "featured": false,
     "date": "2026-08-20",
     "path": "ja/History/taiwan-womens-movement.md"
-  },
-  {
-    "title": "台湾公式ウェブサイト資源：25のサイトからデジタル政府強国への30年の奇跡",
-    "description": "1996年、台湾はインターネット万国博覧会に参加するため、25の政府機関が最初の公式ウェブサイトを構築しました。30年後の今日、この島は世界のデジタル政府の模範となっています——ネット申告から単一入口サイト、オープンデータからAIコーパスまで、台湾が公式ウェブサイトでデジタルトランスフォーメーションの物語をどのように書いたかを探ります。",
-    "category": "ja",
-    "tags": [],
-    "url": "https://taiwan.md/ja/about/taiwan-official-resources-revisit",
-    "readingTime": 28,
-    "featured": true,
-    "date": "2026-03-23",
-    "path": "ja/About/taiwan-official-resources-revisit.md"
   },
   {
     "title": "台湾公式ウェブサイトリソース集",
@@ -6032,17 +6050,17 @@
   },
   {
     "title": "台湾国家風景区システム",
-    "description": "「国家級」ラベルのもとに展開される観光優先の実験：13カ所の風景区が保護と開発の間を行き来する様子",
+    "description": "「国家級」ラベルのもとに展開される観光優先の実験：13カ所の風景区が保護と開発の間でどのようにバランスを取るか",
     "category": "ja",
     "tags": [
       "国家風景区",
       "観光政策",
-      "環境保護",
+      "環境保育",
       "持続可能な観光",
-      "土地開発"
+      "土地計画"
     ],
     "url": "https://taiwan.md/ja/geography/national-scenic-area-system",
-    "readingTime": 19,
+    "readingTime": 20,
     "featured": true,
     "date": "2026-03-23",
     "path": "ja/Geography/national-scenic-area-system.md"
@@ -7478,6 +7496,17 @@
     "path": "ja/Geography/taiwan-five-major-landforms-and-geographic-structure.md"
   },
   {
+    "title": "台湾の公式ウェブサイト資源：25のサイトからデジタル政府強国に至る30年の奇跡",
+    "description": "1995年夏、行政院が翌年の世界博覧会に参加することを決定し、中央省庁と市町村が最初の政府ウェブサイトを構築しました。その後30年間で、台湾はオンライン納税、公文書電子交換、政府データ公開プラットフォームなどを実現し、2021年にはIMDの世界デジタル競争力ランキングで初めてトップ10に入りました。本稿ではこの道のりを解説し、最後に分野別に分類した公式ウェブサイト一覧を付記します。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/about/taiwan-official-resources-revisit",
+    "readingTime": 34,
+    "featured": true,
+    "date": "2026-03-23",
+    "path": "ja/About/taiwan-official-resources-revisit.md"
+  },
+  {
     "title": "台湾の公式ウェブサイトリソース",
     "description": "Taiwan.md の公式ウェブサイトリソースは、政府機関、文化教育、観光旅行、科学技術経済、メディアニュースなど、台湾における最も包括的な公的・権威あるウェブサイト索引です。大統領府から地方自治体、故宮博物院から公共放送に至るまで、この総覧は分野ごとに台湾の一次情報源となる公式入り口を見つけ出し、各リソースの検証方法と利用方法を説明しています。",
     "category": "ja",
@@ -8375,11 +8404,11 @@
   },
   {
     "title": "台湾の教育制度：入試地獄から多様性の迷宮へ—島嶼実験の記録",
-    "description": "台湾が30年間「統一試験」を打破しようと試みた結果、最新の科目別試験では再受験クラスの募集が倍増しました。一つの島は、進学のプレッシャーと教育の公平性の間で、いかに社会実験を繰り返しているのでしょうか？",
+    "description": "台湾が30年間「統一試験」を打破しようと試みた結果、南陽街の再受験塾は48軒からわずか3軒に減少した一方、文理補習校は新カリキュラム導入後に960軒も増加。この島は、進学圧力と教育公平の間で、いかに社会実験を繰り返してきたのでしょうか。",
     "category": "ja",
     "tags": [],
     "url": "https://taiwan.md/ja/lifestyle/taiwan-education-system",
-    "readingTime": 31,
+    "readingTime": 37,
     "featured": true,
     "date": "2026-03-23",
     "path": "ja/Lifestyle/taiwan-education-system.md"
@@ -9592,18 +9621,18 @@
     "path": "ja/History/taiwan-malaria-eradication.md"
   },
   {
-    "title": "台湾のミシュラン：星光の下の代価と再定義",
-    "description": "2018年、ミシュランが台湾に上陸したのは、表面上は国際認証の栄誉のように見えたが、実は台湾の飲食業の生存ルールを再び分けることになった——「ほぼ合格」のレストランこそが最大の犠牲者となった。",
+    "title": "台湾のミシュラン：星光の下での代償と再定義",
+    "description": "2018年にミシュランが台湾に上陸した際、それは国際的な認証という名目の栄誉でしたが、実際には飲食業界の生存規則を再編しました。「ほぼ合格」だったレストランこそが最大の被害者となりました。",
     "category": "ja",
     "tags": [
       "ミシュラン",
-      "高級レストラン",
+      "高級料理",
       "星付きレストラン",
-      "台湾料理",
-      "飲食業"
+      "台湾グルメ",
+      "飲食産業"
     ],
     "url": "https://taiwan.md/ja/food/taiwan-michelin-fine-dining",
-    "readingTime": 35,
+    "readingTime": 40,
     "featured": true,
     "date": "2026-03-23",
     "path": "ja/Food/taiwan-michelin-fine-dining.md"
@@ -10996,7 +11025,7 @@
       "餐飲產業"
     ],
     "url": "https://taiwan.md/food/%E5%8F%B0%E7%81%A3%E7%B1%B3%E5%85%B6%E6%9E%97%E8%88%87%E7%B2%BE%E7%B7%BB%E9%A4%90%E9%A3%B2",
-    "readingTime": 26,
+    "readingTime": 28,
     "featured": true,
     "date": "2026-03-23",
     "path": "Food/台灣米其林與精緻餐飲.md"
@@ -11293,7 +11322,7 @@
   },
   {
     "title": "台灣官方網站資源：從25個網站到數位政府強國的30年奇蹟",
-    "description": "1996年，台灣為了參加網際網路世界博覽會，25個政府機關建置了第一批官方網站。30年後的今天，這座島嶼成為全球數位政府的典範——從網路報稅到單一入口網站，從開放資料到AI語料庫，探索台灣如何用官方網站寫下數位轉型的傳奇。",
+    "description": "1995 年夏天，行政院決定參加隔年的網際網路世界博覽會，25 個中央機關和縣市政府因此建了第一批政府網站。之後三十年，台灣有了網路報稅、公文電子交換、政府資料開放平臺，2021 年首次擠進 IMD 世界數位競爭力前十。文末附一份按領域分類的官方網站清單。",
     "category": "About",
     "tags": [
       "政府網站",
@@ -11304,7 +11333,7 @@
       "官方資源"
     ],
     "url": "https://taiwan.md/about/%E5%8F%B0%E7%81%A3%E5%AE%98%E6%96%B9%E7%B6%B2%E7%AB%99%E8%B3%87%E6%BA%90%E9%87%8D%E5%AF%AB",
-    "readingTime": 21,
+    "readingTime": 25,
     "featured": true,
     "date": "2026-03-23",
     "path": "About/台灣官方網站資源重寫.md"
@@ -12527,7 +12556,7 @@
       "國土規劃"
     ],
     "url": "https://taiwan.md/geography/%E5%8F%B0%E7%81%A3%E5%9C%8B%E5%AE%B6%E9%A2%A8%E6%99%AF%E5%8D%80%E7%B3%BB%E7%B5%B1",
-    "readingTime": 14,
+    "readingTime": 15,
     "featured": true,
     "date": "2026-03-23",
     "path": "Geography/台灣國家風景區系統.md"
@@ -12645,11 +12674,11 @@
   },
   {
     "title": "台灣教育制度：從聯考地獄到多元迷宮的島嶼實驗",
-    "description": "台灣花30年想破除聯考制度，結果最新的分科測驗讓重考班招生暴增一倍。一個島嶼如何在升學壓力與教育公平之間，反覆進行社會實驗？",
+    "description": "台灣花30年想破除聯考制度，南陽街的重考班從48家剩下3家，文理補習班卻在新課綱上路後多了960家。一個島嶼如何在升學壓力與教育公平之間，反覆進行社會實驗？",
     "category": "Lifestyle",
     "tags": [],
     "url": "https://taiwan.md/lifestyle/%E5%8F%B0%E7%81%A3%E6%95%99%E8%82%B2%E5%88%B6%E5%BA%A6",
-    "readingTime": 20,
+    "readingTime": 25,
     "featured": true,
     "date": "2026-03-23",
     "path": "Lifestyle/台灣教育制度.md"
@@ -12722,7 +12751,7 @@
       "竹籬笆"
     ],
     "url": "https://taiwan.md/food/%E5%8F%B0%E7%81%A3%E7%9C%B7%E6%9D%91%E8%8F%9C",
-    "readingTime": 14,
+    "readingTime": 15,
     "featured": false,
     "date": "2026-03-19",
     "path": "Food/台灣眷村菜.md"
@@ -18157,7 +18186,7 @@
       "宇宙主権"
     ],
     "url": "https://taiwan.md/ja/technology/tasa-taiwan-space-agency",
-    "readingTime": 132,
+    "readingTime": 133,
     "featured": true,
     "date": "2026-06-04",
     "path": "ja/Technology/tasa-taiwan-space-agency.md"
@@ -32410,12 +32439,12 @@
     "path": "pt/History/taiwan-farmers-association-history.md"
   },
   {
-    "title": "A barra invertida dentro do caractere \"gōng\" (功): os dois impostos padrão que engenheiros de Taiwan pagam todo dia",
-    "description": "No Windows 11 com locale zh-TW, o script de status de tradução jogou todos os mais de quatro mil caminhos escaneados em \"root\", zerando Technology, enquanto na mesma semana o CI no Linux passava. O script usa barra normal para separar categorias, o disco usa barra invertida, e não consegue separar. Uma camada mais antiga está dentro do caractere: o segundo byte de \"gōng\" (功) em Big5 é a barra invertida ASCII, conhecida na comunidade de desenvolvimento como \"xǔ gōng gài\" (許功蓋). Como os caminhos são escritos, quais símbolos moram dentro dos caracteres — os valores padrão não contaram com esta máquina. O quotePath do Git é outra linha, com causa diferente.",
+    "title": "A barra invertida no caractere \"gong\": os dois impostos padrão cobrados por engenheiros em Taiwan diariamente",
+    "description": "No Windows 11 com idioma zh-TW, o script de status de tradução jogou mais de quatro mil caminhos detectados na raiz, zerando Technology. Enquanto isso, o CI do Linux na mesma semana estava verde. O script usa barra normal para separar nomes de categorias e barra invertida para discos; não consegue separar. Uma camada mais antiga está embutida no caractere: o segundo byte do \"gong\" em Big5 é a barra invertida ASCII, apelidada pela comunidade de desenvolvimento como Xu Gong Gai. Os valores padrão não consideraram como este equipamento estava configurado. O quotePath do Git é outra linha, com causa diferente.",
     "category": "pt",
     "tags": [],
     "url": "https://taiwan.md/pt/technology/backslash-in-cjk-fonts",
-    "readingTime": 38,
+    "readingTime": 46,
     "featured": false,
     "date": "2026-08-13",
     "path": "pt/Technology/backslash-in-cjk-fonts.md"
@@ -34857,6 +34886,17 @@
     "path": "vi/History/taiwan-radio-broadcasting-history.md"
   },
   {
+    "title": "ẩm thực chợ trại người nhập cư ở Đài Loan",
+    "description": "Hương vị từ các tỉnh thành sau sự kiện lớn năm 1949, từ bếp núc trong chợ trại lá cây trúc đến việc bảo tồn giác quan sau khi chợ trại bị phá hủy",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/food/military-dependents-village-cuisine",
+    "readingTime": 55,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "vi/Food/military-dependents-village-cuisine.md"
+  },
+  {
     "title": "Ẩm thực đường phố Đài Loan",
     "description": "Một sai sót năm 1987 tại Xuân Thủy Đường đã đưa trà sữa trân châu ra thị trường 60 quốc gia. Từ công cụ sinh tồn của người nhập cư thời Thanh, ẩm thực Đài Loan đã trở thành ngành kinh tế trị giá 400 tỷ Đài tệ được chống đỡ bởi 233 ngàn quầy hàng: phương trình thành công của nó không phải là sự tinh xảo hóa, mà là lòng dũng cảm dân dã kiểu \"cứ thử xem sao\".",
     "category": "vi",
@@ -34866,17 +34906,6 @@
     "featured": false,
     "date": "2026-03-28",
     "path": "vi/Food/taiwanese-street-food.md"
-  },
-  {
-    "title": "Ẩm thực quân gia tộc Đài Loan",
-    "description": "Những hương vị đa tỉnh từ Đại di dân năm 1949, từ những bếp nhà trong rào tre đến bảo tồn vị giác sau khi quân gia được bãi bỏ",
-    "category": "vi",
-    "tags": [],
-    "url": "https://taiwan.md/vi/food/military-dependents-village-cuisine",
-    "readingTime": 54,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "vi/Food/military-dependents-village-cuisine.md"
   },
   {
     "title": "An Chi-ai: Từ cổ vũ viên chuyên nghiệp Hàn Quốc đến ngoại binh chủ lực của Đài Loan Steel Wing Stars, cô mang kinh nghiệm biểu diễn quốc tế đến sân nhà ở Cao Hùng; lịch trình tại Đại Cự Đản năm 2026 cũng là điểm quan sát công khai về sự điều chỉnh chấn thương và vai trò bên sân.",
@@ -35336,6 +35365,17 @@
     "featured": false,
     "date": "2026-04-25",
     "path": "id/Society/taiwan-zoos.md"
+  },
+  {
+    "title": "Aperçu de la gastronomie taïwanaise : aucun plat n'est purement taïwanais, chacun est le plus taïwanais possible",
+    "description": "En 1949, près du bassin fontaine de Chiayi, Lin Tian-shou a servi des tranches de poulet sur du riz blanc arrosées de sauce mijotée Minnan ; après l'arrivée des troupes américaines à Taïwan et leur transport de dindes au tarmac de l'aéroport, ce plat est passé du riz au poulet au riz à la dinde. Des porcs sauvages grillés sur pierre autochtones, aux intestins sautés à l'ail Hakka, en passant par les nouilles de bœuf Sichuan des villages militaires, jusqu'au thé au lait perlé inventé à Taichung en 1986, et les 419 restaurants répertoriés par le Michelin en 2025. Cette île a mis quatre siècles à cuisiner chaque plat emprunté d'une manière qui lui est propre.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/food/taiwan-food-overview",
+    "readingTime": 286,
+    "featured": true,
+    "date": "2026-05-27",
+    "path": "fr/Food/taiwan-food-overview.md"
   },
   {
     "title": "Apfel-Sidra: Vom nationalen Sprudelgetränk zum Kapitalsturm – Wie der taiwanesische Geschmack eines Lebensmittels 60 Jahre überlebte",
@@ -36490,12 +36530,12 @@
     "path": "vi/People/pai-hsien-yung-literary-master.md"
   },
   {
-    "title": "Backslash di dalam karakter \"Gōng\": Dua lapis pajak default yang dibayar insinyur Taiwan setiap hari",
-    "description": "Di Windows 11 berbahasa zh-TW, skrip status terjemahan memasukkan lebih dari empat ribu jalur yang dipindai ke dalam \"root\", membuat Technology menjadi nol, sementara CI Linux pada minggu yang sama menunjukkan hijau. Skrip menggunakan slash forward untuk memisahkan nama kategori, sedangkan disk menggunakan backslash, sehingga tidak dapat memisahkannya. Lapisan lebih tua tertanam di dalam karakter: byte kedua Big5 dari \"Gōng\" adalah backslash ASCII, yang disebut \"Xǔ Gōng Gài\" oleh komunitas pengembang. Baik cara penulisan jalur maupun simbol yang berada di dalam karakter, nilai default tidak memasukkan mesin ini ke dalam perhitungan. quotePath Git adalah garis lain, dengan penyebab yang berbeda.",
+    "title": "Backslash di dalam karakter 'fung': Dua lapis pajak default yang dibayar insinyur Taiwan setiap hari",
+    "description": "Di Windows 11 dengan locale zh-TW, skrip status terjemahan melempar lebih dari empat ribu jalur yang terdeteksi ke root, membuat Technology menjadi nol, padahal CI Linux pada minggu yang sama hijau. Skrip menggunakan slash forward untuk memisahkan nama kategori, sedangkan disk menggunakan backslash, sehingga tidak bisa memisahkannya. Lapisan yang lebih tua tertanam di dalam karakter: byte kedua karakter 'fung' dalam Big5 adalah backslash ASCII, yang disebut komunitas pengembang sebagai 'He Gong Gai'. Bagaimanapun cara menulis jalur dan simbol apa yang ada di dalam karakter, nilai default tidak memasukkan mesin ini. quotePath Git adalah masalah lain dengan penyebab yang berbeda.",
     "category": "id",
     "tags": [],
     "url": "https://taiwan.md/id/technology/backslash-in-cjk-fonts",
-    "readingTime": 33,
+    "readingTime": 44,
     "featured": false,
     "date": "2026-08-13",
     "path": "id/Technology/backslash-in-cjk-fonts.md"
@@ -40858,12 +40898,23 @@
     "path": "es/Food/taiwan-herbal-tea.md"
   },
   {
+    "title": "Centro Espacial Nacional: Tras treinta y dos años, un centro espacial para una nación que aún no tiene nombre",
+    "description": "En 1991 se llamaba la 'Oficina de Preparación', sin nombre, sin cohetes ni tierra propia. Treinta y dos años después, puso a Taiwán en el mapa; ahora, el centro de control en Hsinchu monitorea los latidos de nueve satélites las 24 horas del día; durante el terremoto de Taitung el 3 de abril, reconfiguró la misión seis minutos después y realizó imágenes durante tres horas. Está completando la última pieza: un cohete propio en órbita y una misión lunar ya aprobada que despegará a más tardar en 2028.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/technology/tasa-taiwan-space-agency",
+    "readingTime": 321,
+    "featured": true,
+    "date": "2026-06-04",
+    "path": "es/Technology/tasa-taiwan-space-agency.md"
+  },
+  {
     "title": "Centro Espacial Nacional: Trinta e dois anos para um país sem nome ter uma agência espacial",
-    "description": "Em 1991, era chamado de 'Departamento de Preparação', sem nome, sem foguetes, sem território próprio. Trinta e dois anos depois, ele colocou Taiwan no nome; agora, o centro de controle em Hsinchu monitora os batimentos cardíacos de nove satélites 24 horas por dia; no terremoto de Hualien em 04/03, reconfigurou a missão seis minutos após o tremor e realizou imagens por três horas. Ele está completando a última peça — um foguete próprio para órbita e uma missão lunar já aprovada, prevista para ser lançada em 2028.",
+    "description": "Em 1991, era chamado de 'Escritório Preparatório', sem nome, sem foguetes e sem território próprio. Trinta e dois anos depois, ele colocou Taiwan no nome; agora, o centro de controle em Hsinchu monitora os batimentos cardíacos de nove satélites 24 horas por dia. No dia do terremoto de Hualien em 04/03, reconfigurou a missão seis minutos após o tremor e realizou imagens em três horas. Ele está completando a última peça: um foguete de lançamento próprio e uma missão lunar já aprovada, com lançamento previsto para, no mínimo, 2028.",
     "category": "pt",
     "tags": [],
     "url": "https://taiwan.md/pt/technology/tasa-taiwan-space-agency",
-    "readingTime": 311,
+    "readingTime": 312,
     "featured": true,
     "date": "2026-06-04",
     "path": "pt/Technology/tasa-taiwan-space-agency.md"
@@ -46040,7 +46091,7 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/food/military-dependents-village-cuisine",
-    "readingTime": 58,
+    "readingTime": 60,
     "featured": false,
     "date": "2026-03-19",
     "path": "es/Food/military-dependents-village-cuisine.md"
@@ -46911,12 +46962,12 @@
     "path": "pt/Geography/pingtung-county.md"
   },
   {
-    "title": "Condado de Taitung: dos islas, una que encarceló a presos políticos durante casi treinta años, la otra que almacenó residuos nucleares durante más de cuarenta años",
-    "description": "El condado de Taitung tiene 210.000 habitantes dispersos en 3.515 km², la densidad más baja del país, con solo 60 personas por km², una centésima parte de la de Taipéi. Sin embargo, este condado alberga el asentamiento humano más antiguo de Taiwán (el yacimiento de Beinan, con 1.600 sarcófagos de piedra hace 5.300 años), acoge a seis pueblos indígenas (Amis, Puyuma, Paiwan, Rukai, Bunun, Tao), y tiene la proporción más alta de población indígena de toda Taiwán, un 37,5 %. Entre 1951 y 1987, la isla de Lüdao (Isla Verde) encarceló a presos políticos durante casi treinta años. Desde mayo de 1982, el depósito de Longmen en la isla de Lanyu comenzó a recibir desechos nucleares; más de cuarenta años después, 97.672 barriles siguen allí. El 25 de agosto de 1968, siete niños bunun de la aldea de Hongye vencieron 7-0 al equipo estrella de ligas menores de Kansai, Japón (no era un equipo campeón mundial), y el mito del béisbol como deporte nacional de Taiwán comenzó con este engaño. Dos islas periféricas asumieron el coste de toda una isla.",
+    "title": "Condado de Taitung: dos islas periféricas, una que encarceló presos políticos durante casi treinta años, otra que almacenó desechos nucleares por más de cuarenta años",
+    "description": "El condado de Taitung tiene 210 000 habitantes dispersos en 3515 km², la densidad más baja del país, con solo 60 personas por km², una centésima parte de la de Taipéi. Sin embargo, este condado alberga el asentamiento humano más antiguo de Taiwán (el yacimiento de Beinan, con 1600 sarcófagos de piedra hace 5300 años), acoge a seis pueblos indígenas (Amis, Puyuma, Paiwan, Rukai, Bunun, Tao) y tiene la proporción más alta de población indígena de toda Taiwán, con un 37,5 %. Entre 1951 y 1987, la Isla Verde (Huoshao) encarceló a presos políticos durante casi treinta años. Desde mayo de 1982, Longmen en la Isla Orquídea comenzó a recibir desechos nucleares; más de cuarenta años después, 97 672 barriles siguen allí. El 25 de agosto de 1968, siete niños bunun de la aldea Hongye vencieron 7-0 al equipo estrella de ligas menores de Kansai, Japón (no era un equipo campeón mundial), y el mito del béisbol como deporte nacional de Taiwán comenzó con este engaño. Dos islas periféricas asumieron el coste de una isla entera.",
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/geography/taitung-county",
-    "readingTime": 239,
+    "readingTime": 247,
     "featured": false,
     "date": "2026-05-18",
     "path": "es/Geography/taitung-county.md"
@@ -48847,7 +48898,7 @@
     "category": "vi",
     "tags": [],
     "url": "https://taiwan.md/vi/geography/taitung-county",
-    "readingTime": 220,
+    "readingTime": 223,
     "featured": false,
     "date": "2026-05-18",
     "path": "vi/Geography/taitung-county.md"
@@ -49786,12 +49837,12 @@
     "path": "de/History/taichung-prefectural-hall.md"
   },
   {
-    "title": "Das Bildungssystem in Taiwan: Von der „Prüfungs-Hölle“ zum Labyrinth der Vielfalt – Ein Inselexperiment",
-    "description": "Taiwan hat 30 Jahre damit verbracht, das Prüfungsverfahren zu durchbrechen; die jüngsten Fachprüfungen haben jedoch die Einschreibung für Wiederholungskurse um das Doppelte gesteigert. Wie führt eine Insel wiederholt soziale Experimente zwischen Bildungsschwerpunkt und Chancengleichheit durch?",
+    "title": "Das Bildungssystem in Taiwan: Von der „Kampf-Prüfung“ zum vielfältigen Labyrinth – ein Inselexperiment",
+    "description": "Taiwan verbringt 30 Jahre damit, das Prüfungsregime zu durchbrechen; die Wiederholungsprüfungen in Nanpingai sinken von 48 auf 3, während private Nachhilfestudien nach der Einführung des neuen Lehrplans um 960 zunehmen. Wie führt eine Insel wiederholt gesellschaftliche Experimente zwischen Hochschulzugangsdruck und Bildungsgerechtigkeit durch?",
     "category": "de",
     "tags": [],
     "url": "https://taiwan.md/de/lifestyle/taiwan-education-system",
-    "readingTime": 79,
+    "readingTime": 94,
     "featured": true,
     "date": "2026-03-23",
     "path": "de/Lifestyle/taiwan-education-system.md"
@@ -49913,7 +49964,7 @@
     "category": "de",
     "tags": [],
     "url": "https://taiwan.md/de/geography/national-scenic-area-system",
-    "readingTime": 52,
+    "readingTime": 56,
     "featured": true,
     "date": "2026-03-23",
     "path": "de/Geography/national-scenic-area-system.md"
@@ -49963,19 +50014,12 @@
     "path": "vi/Art/invisible-nation.md"
   },
   {
-    "title": "Dấu gạch chéo ngược trong chữ 'Công': Hai lớp thuế mặc định mà kỹ sư Đài Loan trả mỗi ngày",
-    "description": "Trên Windows 11 với ngôn ngữ zh-TW, kịch bản trạng thái dịch ném toàn bộ hơn bốn nghìn đường dẫn quét được vào thư mục gốc, Technology trở thành không, trong khi CI của Linux cùng tuần lại xanh. Kịch bản dùng dấu gạch chéo xuôi để tách tên phân loại, ổ đĩa dùng dấu gạch chéo ngược, không tách được. Một lớp cũ hơn chôn vùi trong ký tự: byte thứ hai của 'Công' trong Big5 chính là dấu gạch chéo ngược ASCII, cộng đồng phát triển gọi đó là 'Hứa Công Gài'. Dù đường dẫn viết thế nào, ký tự chứa những dấu hiệu gì, giá trị mặc định đều không tính đến máy này. quotePath của Git là một đường khác, nguyên nhân khác biệt.",
+    "title": "Dấu gạch chéo trong chữ \"Công\": Hai tầng thuế mặc định mà các kỹ sư Đài Loan phải trả hàng ngày",
+    "description": "Trên Windows 11 ngôn ngữ zh-TW, tập lệnh trạng thái dịch thuật đã đưa hơn bốn nghìn đường dẫn quét được vào thư mục gốc (root), khiến Technology bằng 0. Trong khi đó, CI trên Linux trong tuần đó lại báo xanh. Tập lệnh dùng dấu gạch chéo để phân loại tên, còn ổ đĩa dùng dấu gạch chéo ngược, không thể tách ra. Một tầng cũ hơn còn ẩn sâu trong ký tự: byte thứ hai của \"Công\" trong Big5 chính là dấu gạch chéo ASCII, và cộng đồng phát triển gọi nó là Hứa Công Cái. Cách viết đường dẫn, ký tự bên trong chữ, giá trị mặc định đều chưa tính đến chiếc máy này. Git''s quotePath là một tuyến khác, nguyên nhân cũng khác nhau.",
     "category": "vi",
-    "tags": [
-      "Mã nguồn mở",
-      "Windows",
-      "Big5",
-      "UTF-8",
-      "Mã hóa ký tự",
-      "Trung thể"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/vi/technology/backslash-in-cjk-fonts",
-    "readingTime": 33,
+    "readingTime": 43,
     "featured": false,
     "date": "2026-08-13",
     "path": "vi/Technology/backslash-in-cjk-fonts.md"
@@ -50709,17 +50753,6 @@
     "path": "de/History/withdrawal-from-united-nations.md"
   },
   {
-    "title": "Der Backslash im Zeichen „Gōng“: Die zwei Schichten Standard-Steuer, die taiwanesische Ingenieure täglich zahlen",
-    "description": "Auf einem Windows 11 mit Locale zh-TW warf das Übersetzungsstatus-Skript die über 4000 erfassten Pfade allesamt in „root“, „Technology“ wurde null, während die Linux-CI in derselben Woche grün war. Das Skript trennt Kategorienamen mit Slash, das Dateisystem nutzt Backslash – es lässt sich nicht auftrennen. Eine ältere Schicht steckt im Zeichen selbst: Das zweite Byte von „Gōng“ (功) in Big5 ist der ASCII-Backslash, in Entwicklerkreisen „Xǔ Gōng Gài“ (許功蓋) genannt. Wie Pfade geschrieben sind, welche Symbole in Zeichen wohnen – die Standardwerte haben diese Maschine nicht mitgedacht. Git's quotePath ist eine weitere, anders gelagerte Linie.",
-    "category": "de",
-    "tags": [],
-    "url": "https://taiwan.md/de/technology/backslash-in-cjk-fonts",
-    "readingTime": 38,
-    "featured": false,
-    "date": "2026-08-13",
-    "path": "de/Technology/backslash-in-cjk-fonts.md"
-  },
-  {
     "title": "Der Blaue Taube: Die Distanz des weißen Kittels vor die Kamera bringen",
     "description": "Vom medizinischen YouTube-Kanal 2017 bis zur Impfaufklärung während der Pandemie: Wu Qi-ying bringt ärztliche Expertise, Performance und öffentliche Kommunikation an einen Tisch.",
     "category": "de",
@@ -50960,6 +50993,17 @@
     "featured": false,
     "date": "2026-03-24",
     "path": "de/Society/taiwan-disaster-volunteer-culture.md"
+  },
+  {
+    "title": "Der Schrägstrich im Zeichen „Gong“: Zwei versteckte Steuern, die taiwanische Ingenieure täglich zahlen",
+    "description": "Auf Windows 11 (zh-TW) speichert das Skript alle 4000+ Pfade in `root`, Technology wird zu Null; unter Linux CI ist es grün. Das Skript nutzt den Schrägstrich zur Trennung, nicht den Rückwärtsstrich. Eine ältere Ebene steckt im Zeichen: Der zweite Byte von Big5 „Gong“ ist der ASCII-Rückwärtsstrich.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/technology/backslash-in-cjk-fonts",
+    "readingTime": 47,
+    "featured": false,
+    "date": "2026-08-13",
+    "path": "de/Technology/backslash-in-cjk-fonts.md"
   },
   {
     "title": "Der Schwarzhaubenvogel: Der Traum der Vogelbeobachter und der dumme Vogel auf dem Campus",
@@ -54930,6 +54974,17 @@
     "path": "id/People/yang-dechang.md"
   },
   {
+    "title": "Edward Yang: Mit der kältesten Logik eines Ingenieurs die heißeste Einsamkeit des menschlichen Herzens gefilmt",
+    "description": "In den frühen 1980ern trug Edward Yang bei der CMPC ein T-Shirt mit „Herzog, Bresson, Yang“ – neben zwei Meistern. Der frühere U-Boot-Ingenieur kehrte mit Anfang dreißig nach Taiwan zurück, wurde als erster Taiwaner mit dem Cannes-Regiepreis geehrt – doch „Yi Yi“ lief siebzehn Jahre nicht in taiwanesischen Kinos. Er filmte kühl, was wir am wenigsten ansehen wollen: unseren eigenen Hinterkopf.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/people/yang-dechang",
+    "readingTime": 257,
+    "featured": true,
+    "date": "2026-03-19",
+    "path": "de/People/yang-dechang.md"
+  },
+  {
     "title": "Edward Yang: Mit der kältesten Logik eines Ingenieurs filmte er die Glut der Einsamkeit",
     "description": "Anfang der 1980er Jahre trug Edward Yang, frisch bei der Central Motion Picture Corporation (CMPC), ein T-Shirt mit der Aufschrift „Herzog, Bresson, Yang“ – und reihte sich selbst hinter zwei Meister. Der Mann, der einen Job als Ingenieur für US-U-Boot-Software aufgab, um mit Anfang dreißig nach Taiwan zurückzukehren und das Filmemachen zu lernen, wurde später der erste Taiwanese mit dem Preis für die beste Regie in Cannes – doch Yi Yi blieb siebzehn Jahre lang unaufführbar in den Kinos Taiwans. Mit der kältesten Methode filmte er genau das, was wir selbst nicht anzusehen wagen: unseren Hinterkopf.",
     "category": "de",
@@ -55404,17 +55459,6 @@
     "featured": false,
     "date": "2026-08-14",
     "path": "es/Culture/kaji-bag.md"
-  },
-  {
-    "title": "El Centro Espacial Nacional: Treinta y dos años para reunir los nombres de una agencia espacial para un país que aún no tenía todos los suyos",
-    "description": "En 1991 se llamaba \"Oficina de Preparación\", sin nombre, sin cohetes, sin su propio suelo. Treinta y dos años después, puso \"Taiwán\" de vuelta en su nombre; hoy, el centro de control en Hsinchu rastrea las pulsaciones de nueve satélites las veinticuatro horas; el día del terremoto de Hualien del 0403, reconfiguró la misión en seis minutos tras el sismo y tomó imágenes en tres horas. Está completando la última pieza: un cohete propio de lanzamiento a órbita, y una misión lunar ya aprobada, que podría despegar en 2028.",
-    "category": "es",
-    "tags": [],
-    "url": "https://taiwan.md/es/technology/tasa-taiwan-space-agency",
-    "readingTime": 317,
-    "featured": true,
-    "date": "2026-06-04",
-    "path": "es/Technology/tasa-taiwan-space-agency.md"
   },
   {
     "title": "El Centro Nacional de Artes Escénicas Wei-Wu-Ying: Cómo un cuartel militar se convirtió en un teatro sin muros",
@@ -56163,17 +56207,6 @@
     "path": "es/Nature/formosan-sambar-deer.md"
   },
   {
-    "title": "El sistema de Áreas Escénicas Nacionales de Taiwán",
-    "description": "Un experimento de prioridad turística bajo la etiqueta de \"nacional\": cómo 13 áreas escénicas caminan sobre la cuerda floja entre conservación y desarrollo",
-    "category": "es",
-    "tags": [],
-    "url": "https://taiwan.md/es/geography/national-scenic-area-system",
-    "readingTime": 55,
-    "featured": true,
-    "date": "2026-03-23",
-    "path": "es/Geography/national-scenic-area-system.md"
-  },
-  {
     "title": "El sistema de autobuses de Taiwán: cuando Hsinchu Bus se marcha, quién recoge a quienes no tienen volante",
     "description": "La mañana del 15 de septiembre de 2024, frente a la estación ferroviaria de Tongluo, más de 30 personas, desde niños de jardín de infancia hasta mayores de 90 años, tomaron el último servicio 5658 de Hsinchu Bus. Desde la primera ruta conjunta de Taipéi en 1977 hasta zonas rurales que quedaron con solo dos servicios al día, conductores con edad promedio de 51 años y el pase mensual TPASS que disparó en casi 70% los viajes en Hualien, el autobús siempre ha transportado a quienes no tienen opción: adolescentes que van a la escuela, mayores que no conducen, hogares sin vehículo. Y ahora se lo están retirando, ruta por ruta, bajo sus propios pies.",
     "category": "es",
@@ -56223,6 +56256,17 @@
     "featured": true,
     "date": "2026-04-26",
     "path": "es/Lifestyle/transportation-system.md"
+  },
+  {
+    "title": "El sistema educativo de Taiwán: del infierno del examen conjunto al laberinto de la diversidad, un experimento insular",
+    "description": "Taiwán pasó 30 años intentando abolir el examen conjunto; las academias de repetición de la calle Nanyang pasaron de 48 a 3, pero las academias de refuerzo académico aumentaron en 960 tras la implantación del nuevo currículo. ¿Cómo navega una isla entre la presión del acceso a la universidad y la equidad educativa, repitiendo experimentos sociales?",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/lifestyle/taiwan-education-system",
+    "readingTime": 91,
+    "featured": true,
+    "date": "2026-03-23",
+    "path": "es/Lifestyle/taiwan-education-system.md"
   },
   {
     "title": "El sueño de Ku: De la mirada del extranjero a un programa taiwanés que el mundo puede entender",
@@ -60032,17 +60076,6 @@
     "path": "es/Nature/malayan-night-heron.md"
   },
   {
-    "title": "Gastronomie taïwanaise : Aucune cuisine n'est purement taïwanaise, chaque plat est le plus taïwanais",
-    "description": "En 1949, près du rond-point du jet d'eau de Chiayi, Lin Tianshou a découpé du poulet, l'a posé sur du riz blanc et l'a nappé de sauce braisée minnan ; après l'arrivée des troupes américaines à la base aérienne de Shuisui, qui ont ramené d'importantes quantités de dinde, ce plat est passé du riz au poulet au riz à la dinde. Des porcs de montagne grillés sur pierre chez les autochtones aux intestins épicés des Hakka, en passant par les nouilles au bœuf du Sichuan des villages militaires et le thé aux perles inventé à Taichung en 1986, jusqu'aux 419 restaurants du guide Michelin en 2025. Cette île a mis quatre cents ans pour transformer chaque plat emprunté à sa propre manière.",
-    "category": "fr",
-    "tags": [],
-    "url": "https://taiwan.md/fr/food/taiwan-food-overview",
-    "readingTime": 284,
-    "featured": true,
-    "date": "2026-05-18",
-    "path": "fr/Food/taiwan-food-overview.md"
-  },
-  {
     "title": "Gâteau à l'ananas : des collations électorales au « lingot d'or » taïwanais d'une valeur de production de 25 milliards de dollars NT",
     "description": "En 1945, la pâtisserie Yan Xinfafa de Taichung a transformé le gâteau traditionnel « dragon-phénix » en un petit gâteau à l'ananas. De la transition vers la garniture à la courge d'hiver dans les années 1970 face au déclin des exportations, au retour en 2009 de la marque SunnyHills à l'acidité authentique de l'ananas local, ce petit « lingot d'or » a, en quatre-vingts ans, toujours été lié au destin agricole de Taïwan. Aujourd'hui, sa valeur de production annuelle dépasse les 25 milliards de dollars NT et il est devenu la saveur la plus représentative de Taïwan dans l'esprit des visiteurs étrangers.",
     "category": "fr",
@@ -62282,6 +62315,17 @@
     "path": "vi/Politics/city-councilor-system-taiwan.md"
   },
   {
+    "title": "Hệ thống khu cảnh quan quốc gia của Đài Loan",
+    "description": "Một thí nghiệm ưu tiên du lịch dưới nhãn \"cấp quốc gia\": 13 khu cảnh quan cách bằng cây cầu giữa bảo vệ và phát triển",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/geography/national-scenic-area-system",
+    "readingTime": 51,
+    "featured": true,
+    "date": "2026-03-23",
+    "path": "vi/Geography/national-scenic-area-system.md"
+  },
+  {
     "title": "Hệ thống nhóm độ tuổi của người Amis: Đặt tên cho thời đại qua chế độ bản ngã",
     "description": "Từ việc đào tạo chung cho trẻ em từ 3 đến 5 tuổi, cho đến những nhóm tuổi mang tên lấy cảm hứng từ \"máy tính\", \"nước Đài Loan\" và các sự kiện địa phương, người Amis giao phó công việc công cộng, thứ tự lễ hội và ký ức lịch sử cho một hệ thống có khả năng tự cập nhật theo thời đại; khi hệ thống này bước vào thành thị, sự truyền thống phải đối mặt với thử thách mất ngôn ngữ bản địa và sự biểu diễn hóa.",
     "category": "vi",
@@ -62291,17 +62335,6 @@
     "featured": false,
     "date": "2026-08-14",
     "path": "vi/Culture/amis-age-set-system.md"
-  },
-  {
-    "title": "Hệ thống Quốc gia Phong cảnh khu Đài Loan",
-    "description": "Một thử nghiệm ưu tiên du lịch dưới nhãn hiệu \"cấp quốc gia\": 13 khu phong cảnh khu như thế nào đi dây giữa bảo tồn và khai thác",
-    "category": "vi",
-    "tags": [],
-    "url": "https://taiwan.md/vi/geography/national-scenic-area-system",
-    "readingTime": 43,
-    "featured": true,
-    "date": "2026-03-23",
-    "path": "vi/Geography/national-scenic-area-system.md"
   },
   {
     "title": "Hệ thống sông ngòi và đặc điểm thủy văn của Đài Loan: Địa lý thủy văn với dòng chảy ngắn, dốc và biến đổi theo mùa",
@@ -65085,7 +65118,7 @@
     "category": "id",
     "tags": [],
     "url": "https://taiwan.md/id/geography/taitung-county",
-    "readingTime": 222,
+    "readingTime": 229,
     "featured": false,
     "date": "2026-05-18",
     "path": "id/Geography/taitung-county.md"
@@ -72968,15 +73001,26 @@
     "path": "fr/Technology/national-cultural-memory-bank.md"
   },
   {
-    "title": "La barra invertida dentro del carácter «gong»: el doble impuesto por defecto que pagan los ingenieros de Taiwán",
-    "description": "En Windows 11 en la configuración de idioma zh-TW, el script de estado de traducción arroja todas las más de cuatro mil rutas al directorio raíz, haciendo que la categoría Tecnología sea cero, mientras que la CI de Linux es verde en la misma semana. El script usa barras diagonales para dividir los nombres de categoría, pero el sistema de archivos usa barras invertidas, por lo que no puede dividirlos correctamente. Una capa aún más antigua está oculta en los caracteres: el segundo byte de «gong» en Big5 es exactamente una barra invertida ASCII, conocida en la comunidad de desarrollo como «Xu Gonggai». La forma de escribir las rutas y los símbolos alojados en los caracteres muestran que los valores por defecto no han calculado esta máquina. La opción quotePath de Git es otra línea, con causas diferentes.",
+    "title": "La barra invertida en el carácter \"gong\": los dos impuestos predeterminados que pagan los ingenieros de Taiwán cada día",
+    "description": "En Windows 11 con la localización zh-TW, el script de estado de traducción envía más de cuatro mil rutas al directorio raíz (root), haciendo que Technology sea cero; en cambio, el CI de Linux durante esa semana es verde. El script usa la barra inclinada para clasificar nombres y la barra invertida para discos, por lo que no puede dividirlos. Una capa más antigua está incrustada en el carácter: el segundo byte del Big5 \"gong\" es la barra invertida ASCII, y la comunidad de desarrollo lo llama *Xu Gong Gai*. La forma en que se escriben las rutas y los símbolos dentro de los caracteres no consideran este dispositivo. Git''s `quotePath` es otra línea con una causa diferente.",
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/technology/backslash-in-cjk-fonts",
-    "readingTime": 42,
+    "readingTime": 48,
     "featured": false,
     "date": "2026-08-13",
     "path": "es/Technology/backslash-in-cjk-fonts.md"
+  },
+  {
+    "title": "La barre oblique inverse dans le caractère « 功 » : les deux couches de taxe par défaut que paient les ingénieurs taïwanais chaque jour",
+    "description": "Sur un Windows 11 en zh-TW, le script d''état de traduction place les 4 500 chemins scannés dans « root », Technology tombe à zéro, alors que le CI Linux est vert la même semaine. Le script sépare les catégories avec une barre oblique, le disque utilise une barre oblique inverse, la séparation échoue. Une couche plus ancienne se cache dans le caractère : le second octet Big5 de « 功 » est l''ASCII 0x5C (\\), surnommé « 許功蓋 » par les développeurs. La façon d''écrire les chemins, les symboles logés dans les caractères — les valeurs par défaut n''ont pas prévu cette machine. Le `quotePath` de Git en est une autre, aux causes différentes.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/technology/backslash-in-cjk-fonts",
+    "readingTime": 48,
+    "featured": false,
+    "date": "2026-08-13",
+    "path": "fr/Technology/backslash-in-cjk-fonts.md"
   },
   {
     "title": "La bataille de l'incinérateur de Mingjian : quand 300 000 tonnes de « dette d'ordures » percutent la ligne de survie d'un bassin théicole d'un milliard",
@@ -76266,7 +76310,7 @@
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/technology/tasa-taiwan-space-agency",
-    "readingTime": 329,
+    "readingTime": 330,
     "featured": true,
     "date": "2026-06-04",
     "path": "fr/Technology/tasa-taiwan-space-agency.md"
@@ -76452,17 +76496,6 @@
     "featured": false,
     "date": "2026-05-18",
     "path": "fr/Geography/hsinchu-county.md"
-  },
-  {
-    "title": "Le contre-oblique dans le caractère « Gong » : la double taxe implicite payée quotidiennement par les ingénieurs taïwanais",
-    "description": "Sur Windows 11 en locale zh-TW, le script d''état de traduction a injecté plus de quatre mille chemins dans la racine, faisant passer la catégorie « Technology » à zéro, tandis que le CI Linux de la même semaine affichait un statut vert. Le script séparait les noms de catégorie par des obliques, mais le système de fichiers utilise des contre-obliques, rendant la séparation impossible. Une couche plus ancienne est enfouie dans les caractères : le deuxième octet du Big5 pour « Gong » est lui-même un ASCII `\\`, surnommé dans les cercles de développement « Xu Gong Gai ». La manière dont les chemins sont écrits et les symboles résidant dans les caractères n''ont jamais intégré cette machine dans leurs valeurs par défaut. Le `quotePath` de Git constitue une autre ligne, aux causes distinctes.",
-    "category": "fr",
-    "tags": [],
-    "url": "https://taiwan.md/fr/technology/backslash-in-cjk-fonts",
-    "readingTime": 44,
-    "featured": false,
-    "date": "2026-08-13",
-    "path": "fr/Technology/backslash-in-cjk-fonts.md"
   },
   {
     "title": "Le cuiseur électrique taïwanais : Comment un seul interrupteur a façonné la vie quotidienne pendant un demi-siècle",
@@ -76858,6 +76891,17 @@
     "featured": false,
     "date": "2026-04-10",
     "path": "fr/History/chiang-kai-shek-memorial-hall.md"
+  },
+  {
+    "title": "Le Michelin à Taïwan : Le prix de la gloire sous les étoiles et la redéfinition",
+    "description": "En 2018, le guide Michelin est arrivé à Taïwan. Ce qui devait être une reconnaissance internationale a en réalité redéfini les règles de survie de l'industrie de la restauration, faisant des restaurants « presque dignes » les plus grandes victimes.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/food/taiwan-michelin-fine-dining",
+    "readingTime": 97,
+    "featured": true,
+    "date": "2026-03-23",
+    "path": "fr/Food/taiwan-michelin-fine-dining.md"
   },
   {
     "title": "Le miracle du don de sang à Taïwan : Le taux de don le plus élevé au monde et le réseau d'entraide civique",
@@ -77420,15 +77464,26 @@
     "path": "fr/Politics/city-councilor-system-taiwan.md"
   },
   {
-    "title": "Le système des zones panoramiques nationales de Taïwan",
-    "description": "Une expérience touristique sous label « national » : comment 13 zones panoramiques naviguent entre préservation et développement",
+    "title": "Le système des parcs nationaux de Taïwan",
+    "description": "Une expérimentation prioritaire sous l’étiquette « national » : comment 13 sites de beauté traversent la corde entre protection et développement",
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/geography/national-scenic-area-system",
-    "readingTime": 57,
+    "readingTime": 59,
     "featured": true,
     "date": "2026-03-23",
     "path": "fr/Geography/national-scenic-area-system.md"
+  },
+  {
+    "title": "Le système éducatif de Taïwan : expérience insulaire entre l'enfer des concours et le labyrinthe du multivers",
+    "description": "Taïwan a passé 30 ans à tenter de démanteler le système basé sur les examens uniques ; les classes de rattrapage de Nanping sont passées de 48 à 3, mais les cours privés ont augmenté de 960 après l'introduction du nouveau curriculum. Comment une île mène-t-elle des expériences sociales répétitives entre la pression de l'enseignement supérieur et l'équité éducative ?",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/lifestyle/taiwan-education-system",
+    "readingTime": 101,
+    "featured": true,
+    "date": "2026-03-23",
+    "path": "fr/Lifestyle/taiwan-education-system.md"
   },
   {
     "title": "Le système éducatif et la culture d'études à Taïwan",
@@ -77440,17 +77495,6 @@
     "featured": true,
     "date": "2026-03-18",
     "path": "fr/Society/education-system-and-admissions-culture.md"
-  },
-  {
-    "title": "Le système éducatif taïwanais : de l'enfer du concours unique au labyrinthe du pluralisme",
-    "description": "Taïwan a passé trente ans à vouloir démanteler son concours d'entrée à l'université — et la toute dernière réforme a fait doubler les inscriptions dans les classes de redoublement. Comment une île oscille-t-elle indéfiniment entre pression scolaire et équité éducative ?",
-    "category": "fr",
-    "tags": [],
-    "url": "https://taiwan.md/fr/lifestyle/taiwan-education-system",
-    "readingTime": 81,
-    "featured": true,
-    "date": "2026-03-23",
-    "path": "fr/Lifestyle/taiwan-education-system.md"
   },
   {
     "title": "Le Taï-fan : du désastre esthétique ferroviaire à la salle à manger à ciel ouvert cinq étoiles",
@@ -79089,6 +79133,17 @@
     "featured": false,
     "date": "2026-04-19",
     "path": "fr/Culture/taiwan-variety-shows.md"
+  },
+  {
+    "title": "Les ressources des sites officiels de Taïwan : le miracle de 30 ans, de 25 sites à une superpuissance numérique",
+    "description": "En été 1995, l'exécutif a décidé de participer au World Expo Internet de l'année suivante, entraînant la création des premiers sites gouvernementaux par 25 agences centrales et municipalités. Au cours des trente années suivantes, Taïwan a développé le paiement d'impôts en ligne, l'échange électronique de documents officiels et une plateforme de données ouvertes, entrant pour la première fois dans le top dix du classement mondial de compétitivité numérique de l'IMD en 2021. Une liste des sites officiels classée par domaine est fournie à la fin.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/about/taiwan-official-resources-revisit",
+    "readingTime": 97,
+    "featured": true,
+    "date": "2026-03-23",
+    "path": "fr/About/taiwan-official-resources-revisit.md"
   },
   {
     "title": "Les sauces et assaisonnements taïwanais",
@@ -83961,7 +84016,7 @@
     "category": "id",
     "tags": [],
     "url": "https://taiwan.md/id/food/military-dependents-village-cuisine",
-    "readingTime": 55,
+    "readingTime": 57,
     "featured": false,
     "date": "2026-03-19",
     "path": "id/Food/military-dependents-village-cuisine.md"
@@ -85069,8 +85124,19 @@
     "path": "pt/Geography/miaoli-county.md"
   },
   {
+    "title": "Michelin di Taiwan: Harga di Bawah Cahaya Bintang dan Redefinisi",
+    "description": "Ketika Michelin mendarat di Taiwan pada tahun 2018, yang tampak sebagai kehormatan internasional, sebenarnya telah membagi ulang aturan kelangsungan hidup industri kuliner—dan restoran yang \"hampir memenuhi syarat\" justru menjadi korban terbesar.",
+    "category": "id",
+    "tags": [],
+    "url": "https://taiwan.md/id/food/taiwan-michelin-fine-dining",
+    "readingTime": 91,
+    "featured": true,
+    "date": "2026-03-23",
+    "path": "id/Food/taiwan-michelin-fine-dining.md"
+  },
+  {
     "title": "Michelin em Taiwan: O Preço e a Redefinição Sob o Brilho das Estrelas",
-    "description": "Em 2018, quando o Michelin chegou a Taiwan, ele foi apresentado como uma honraria internacional, mas na realidade redefiniu as regras de sobrevivência da indústria gastronômica — os restaurantes \"quase bons\" acabaram sendo os maiores prejudicados.",
+    "description": "Em 2018, o Michelin chegou a Taiwan; embora fosse um prêmio de reconhecimento internacional, ele redefiniu as regras de sobrevivência da indústria alimentícia — os restaurantes \"quase aptos\" acabaram sendo os maiores prejudicados.",
     "category": "pt",
     "tags": [],
     "url": "https://taiwan.md/pt/food/taiwan-michelin-fine-dining",
@@ -85080,45 +85146,23 @@
     "path": "pt/Food/taiwan-michelin-fine-dining.md"
   },
   {
-    "title": "Michelin en Taiwán: El costo y la redefinición bajo las estrellas",
-    "description": "En 2018, cuando Michelin llegó a Taiwán, se presentó como un honor de certificación internacional, pero en realidad redefinió las reglas de supervivencia de la industria gastronómica; los restaurantes \"casi aptos\" terminaron siendo los mayores perjudicados.",
+    "title": "Michelin en Taiwán: el precio bajo las estrellas y una redefinición",
+    "description": "La llegada de Michelin a Taiwán en 2018 pareció un honor de certificación internacional, pero en realidad redefinió las reglas de supervivencia de la industria restaurantera: los restaurantes que «casi califican» se convirtieron en las mayores víctimas.",
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/food/taiwan-michelin-fine-dining",
-    "readingTime": 92,
+    "readingTime": 80,
     "featured": true,
     "date": "2026-03-23",
     "path": "es/Food/taiwan-michelin-fine-dining.md"
   },
   {
-    "title": "Michelin in Taiwan: Der Preis und die Neudefinition unter den Sternen",
-    "description": "Als Michelin 2018 nach Taiwan kam, war es zunächst ein internationaler Ruhm; tatsächlich hat es jedoch die Überlebensregeln der Gastronomie neu gezeichnet – dabei wurden die „fast guten“ Restaurants zu den größten Verlierern.",
-    "category": "de",
-    "tags": [],
-    "url": "https://taiwan.md/de/food/taiwan-michelin-fine-dining",
-    "readingTime": 92,
-    "featured": true,
-    "date": "2026-03-23",
-    "path": "de/Food/taiwan-michelin-fine-dining.md"
-  },
-  {
-    "title": "Michelin Taiwan: Biaya di Balik Bintang dan Pendefinisian Ulang",
-    "description": "2018, Michelin mendarat di Taiwan. Yang tampak sebagai kehormatan sertifikasi internasional sebenarnya menggoreskan kembali aturan bertahan industri katering — restoran yang \"hampir layak\" malah menjadi korban terparah.",
-    "category": "id",
-    "tags": [],
-    "url": "https://taiwan.md/id/food/taiwan-michelin-fine-dining",
-    "readingTime": 89,
-    "featured": true,
-    "date": "2026-03-23",
-    "path": "id/Food/taiwan-michelin-fine-dining.md"
-  },
-  {
-    "title": "Michelin Taiwan: Giá Trả Dưới Ánh Sao Và Sự Định Nghĩa Lại",
-    "description": "Năm 2018, Michelin đổ bộ Taiwan, bề ngoài là vinh dự được công nhận quốc tế, thực tế lại vẽ lại quy tắc sinh tồn của ngành ẩm thực — những nhà hàng \"gần như đủ tiêu chuẩn\" lại trở thành nạn nhân lớn nhất.",
+    "title": "Michelin tại Đài Loan: Cái giá dưới ánh sao và sự tái định nghĩa",
+    "description": "Năm 2018, Michelin đổ bộ vào Đài Loan; bề ngoài là vinh quang được quốc tế công nhận, nhưng thực chất đã phân chia lại quy tắc sinh tồn của ngành ẩm thực—những nhà hàng \"gần đạt chuẩn\" lại trở thành nạn nhân lớn nhất.",
     "category": "vi",
     "tags": [],
     "url": "https://taiwan.md/vi/food/taiwan-michelin-fine-dining",
-    "readingTime": 85,
+    "readingTime": 89,
     "featured": true,
     "date": "2026-03-23",
     "path": "vi/Food/taiwan-michelin-fine-dining.md"
@@ -87725,23 +87769,12 @@
     "path": "en/Nature/national-parks.md"
   },
   {
-    "title": "National Scenic Area System",
-    "description": "From the Northeast Coast to Kenting, Taiwan's 13 National Scenic Areas showcase a rich tapestry of natural landscapes and cultural heritage",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/geography/national-scenic-area-system",
-    "readingTime": 37,
-    "featured": true,
-    "date": "2026-03-23",
-    "path": "en/Geography/national-scenic-area-system.md"
-  },
-  {
     "title": "National Space Center: Nach 32 Jahren ein Weltraumamt für ein Land, dessen Name noch nicht vollständig ist",
     "description": "1991 hieß es „Vorbereitungsstelle“, ohne Namen, ohne Raketen und ohne eigenes Territorium. Nach 32 Jahren hat es Taiwan in den Namen aufgenommen; das Kontrollzentrum in Hsinchu überwacht nun rund um die Uhr den Herzschlag von neun Satelliten. Am Erdbeben vom 04/03 setzte es nach sechs Minuten nach dem Beben die Mission neu und erstellte innerhalb von drei Stunden Bilder. Es vervollständigt das letzte Stück – eine eigene Trägerrakete, sowie eine bereits genehmigte Mondmission, die frühestens 2028 startet.",
     "category": "de",
     "tags": [],
     "url": "https://taiwan.md/de/technology/tasa-taiwan-space-agency",
-    "readingTime": 320,
+    "readingTime": 321,
     "featured": true,
     "date": "2026-06-04",
     "path": "de/Technology/tasa-taiwan-space-agency.md"
@@ -90406,17 +90439,6 @@
     "path": "pt/Culture/amis-age-set-system.md"
   },
   {
-    "title": "O sistema educativo de Taiwan: do inferno do exame unificado ao labirinto da diversidade, uma experiência insular",
-    "description": "Taiwan passou 30 anos a tentar abolir o sistema de exame unificado, mas os mais recentes testes por disciplinas fizeram as inscrições para turmas de repetição nas escolas de reforço duplicarem. Como é que uma ilha realiza repetidamente experiências sociais entre a pressão do acesso ao ensino superior e a equidade educativa?",
-    "category": "pt",
-    "tags": [],
-    "url": "https://taiwan.md/pt/lifestyle/taiwan-education-system",
-    "readingTime": 75,
-    "featured": true,
-    "date": "2026-03-23",
-    "path": "pt/Lifestyle/taiwan-education-system.md"
-  },
-  {
     "title": "O som não tem endereço: como o rádio em Taiwan passou de alto-falante do Estado a espaço público local",
     "description": "Da transmissão experimental de 1925, passando pelas estações de radiodifusão do período japonês, pela \"Voz de Taiwan\" do pós-guerra, até às rádios privadas da era da lei marcial e às rádios clandestinas, traça-se como o rádio transmitia simultaneamente ordens governamentais, canções, línguas e experiências locais difíceis de silenciar.",
     "category": "pt",
@@ -91598,9 +91620,9 @@
     "category": "pt",
     "tags": [],
     "url": "https://taiwan.md/pt/food/taiwan-food-overview",
-    "readingTime": 241,
+    "readingTime": 243,
     "featured": true,
-    "date": "2026-05-18",
+    "date": "2026-05-27",
     "path": "pt/Food/taiwan-food-overview.md"
   },
   {
@@ -91611,7 +91633,7 @@
     "url": "https://taiwan.md/es/food/taiwan-food-overview",
     "readingTime": 279,
     "featured": true,
-    "date": "2026-05-18",
+    "date": "2026-05-27",
     "path": "es/Food/taiwan-food-overview.md"
   },
   {
@@ -97223,17 +97245,6 @@
     "path": "fr/resources/official-websites.md"
   },
   {
-    "title": "Recursos de sites oficiais da Taiwan: Do milagre de 30 anos da 'forte nação' do governo digital: dos 25 sites",
-    "description": "Em 1996, a Taiwan, para participar da Feira Mundial da Internet, estabeleceu os primeiros sites oficiais governamentais. Hoje, 30 anos depois, esta ilha tornou-se o padrão global do governo digital — da declaração de imposto online às portais de entrada únicas, da abertura de dados ao banco de dados de treinamento de IA, explore como a Taiwan escreveu o mito da transformação digital com seus sites oficiais.",
-    "category": "pt",
-    "tags": [],
-    "url": "https://taiwan.md/pt/about/taiwan-official-resources-revisit",
-    "readingTime": 76,
-    "featured": true,
-    "date": "2026-03-23",
-    "path": "pt/About/taiwan-official-resources-revisit.md"
-  },
-  {
     "title": "Recursos de sites oficiais de Taiwan",
     "description": "Os recursos de sites oficiais do Taiwan.md são o índice mais completo de sites oficiais e autoritativos de Taiwan, abrangendo instituições governamentais, cultura e educação, turismo, tecnologia e economia, mídia e notícias. Do Palácio Presidencial aos governos locais, do Museu do Palácio Nacional à PTS, esta visão geral leva você a encontrar as entradas oficiais de primeira mão de Taiwan por área, e explica os métodos de verificação e uso de cada tipo de recurso.",
     "category": "pt",
@@ -97261,6 +97272,17 @@
     "path": "pt/resources/official-websites.md"
   },
   {
+    "title": "Recursos Oficiais de Taiwan: O Milagre de 30 Anos, De 25 Sites a uma Potência em Governo Digital",
+    "description": "Em meados de 1995, o Conselho Executivo decidiu participar da Expo Mundial de Internet do ano seguinte, e 25 órgãos centrais e governos locais construíram os primeiros sites governamentais. Ao longo das três décadas seguintes, Taiwan desenvolveu declaração de impostos online, troca eletrônica de documentos oficiais e plataformas abertas de dados governamentais, entrando no top dez mundial de competitividade digital do IMD em 2021. Abaixo, uma lista de sites oficiais classificada por área.",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/about/taiwan-official-resources-revisit",
+    "readingTime": 91,
+    "featured": true,
+    "date": "2026-03-23",
+    "path": "pt/About/taiwan-official-resources-revisit.md"
+  },
+  {
     "title": "Recursos web oficiales de Taiwán",
     "description": "Los recursos web oficiales de Taiwan.md son el índice más completo de sitios web oficiales y autorizados en Taiwán, cubriendo áreas como organismos gubernamentales, educación cultural, turismo, economía tecnológica y medios de comunicación. Desde la presidencia hasta los gobiernos locales, desde el Museo del Palacio hasta CCTV, esta visión general te permite encontrar puntos de entrada oficiales primarios por área y explica cómo verificar y usar cada tipo de recurso.",
     "category": "es",
@@ -97272,12 +97294,12 @@
     "path": "es/About/taiwan-official-resources.md"
   },
   {
-    "title": "Recursos web oficiales de Taiwán: el milagro de 30 años, de 25 sitios a potencia digital",
-    "description": "En 1996, para participar en la Internet World Exposition, 25 instituciones públicas de Taiwán crearon los primeros sitios oficiales del país. Treinta años después, la isla es referente mundial del gobierno digital: del IRPF en línea al portal único, de los datos abiertos al corpus soberano de IA. Cómo Taiwán escribió la leyenda de su transformación digital con sus webs oficiales.",
+    "title": "Recursos web oficiales de Taiwán: El milagro de 30 años, desde 25 sitios hasta una potencia en gobierno digital",
+    "description": "En el verano de 1995, la administración decidió participar en la Expo Mundial de Internet del año siguiente, y 25 agencias centrales y gobiernos locales construyeron los primeros sitios gubernamentales. En las tres décadas siguientes, Taiwán desarrolló la declaración de impuestos en línea, el intercambio electrónico de documentos y plataformas de datos abiertos, entrando por primera vez en el top diez de la competitividad digital mundial del IMD en 2021. Al final se adjunta una lista de sitios oficiales clasificada por área.",
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/about/taiwan-official-resources-revisit",
-    "readingTime": 60,
+    "readingTime": 95,
     "featured": true,
     "date": "2026-03-23",
     "path": "es/About/taiwan-official-resources-revisit.md"
@@ -97834,17 +97856,6 @@
     "featured": false,
     "date": "2026-03-18",
     "path": "fr/About/taiwan-official-resources.md"
-  },
-  {
-    "title": "Ressources officielles de Taïwan : le miracle de 30 ans, de 25 sites web à une puissance du gouvernement numérique",
-    "description": "En 1996, 25 agences taïwanaises créèrent leurs premiers sites officiels pour l'Exposition mondiale d'Internet. Trente ans plus tard, l'île est un modèle mondial de gouvernement numérique — déclaration fiscale en ligne, portail unique, données ouvertes, corpus d'IA. Découvrez la légende de la transformation numérique que Taïwan a écrite à travers ses sites officiels.",
-    "category": "fr",
-    "tags": [],
-    "url": "https://taiwan.md/fr/about/taiwan-official-resources-revisit",
-    "readingTime": 85,
-    "featured": true,
-    "date": "2026-03-23",
-    "path": "fr/About/taiwan-official-resources-revisit.md"
   },
   {
     "title": "Resun: Catatan Dewasa dari Kamar Siswa SMP Hingga Dua Saluran Jutaan",
@@ -100672,12 +100683,12 @@
     "path": "id/Politics/village-chief-system.md"
   },
   {
-    "title": "Sistem Kawasan Landskap Nasional Taiwan",
-    "description": "Sebuah eksperimen prioritas pariwisata di bawah label 'kawasan tingkat negara': 13 kawasan landskap bagaimana cara menyeimbangkan antara konservasi dan pembangunan",
+    "title": "Sistem Kawasan Pemandangan Nasional Taiwan",
+    "description": "Eksperimen prioritas pariwisata di bawah label \"nasional\": bagaimana 13 kawasan pemandangan menyeimbangkan konservasi dan pengembangan",
     "category": "id",
     "tags": [],
     "url": "https://taiwan.md/id/geography/national-scenic-area-system",
-    "readingTime": 50,
+    "readingTime": 57,
     "featured": true,
     "date": "2026-03-23",
     "path": "id/Geography/national-scenic-area-system.md"
@@ -100705,12 +100716,12 @@
     "path": "id/Society/education-system-and-admissions-culture.md"
   },
   {
-    "title": "Sistem Pendidikan Taiwan: Eksperimen Pulau dari Neraka Ujian Gabungan hingga Labirin Diversifikasi",
-    "description": "Taiwan menghabiskan 30 tahun untuk menghapuskan sistem ujian gabungan, namun hasil Tes Mata Pelajaran Terbaru (FKT) menyebabkan lonjakan dua kali lipat pada pendaftaran kelas ulangan. Bagaimana sebuah pulau secara berulang-ulang melakukan eksperimen sosial di antara tekanan kelulusan dan keadilan pendidikan?",
+    "title": "Sistem Pendidikan Taiwan: Eksperimen Pulau dari Neraka Ujian Gabungan menuju Labirin Diversifikasi",
+    "description": "Taiwan menghabiskan 30 tahun untuk mencoba menghapuskan sistem ujian gabungan; di Nanjing Street, kelas persiapan ulang berkurang dari 48 menjadi 3, sementara sekolah bimbingan belajar sastra dan sains bertambah hingga 960 setelah kurikulum baru diterapkan. Bagaimana sebuah pulau secara berulang melakukan eksperimen sosial antara tekanan masuk perguruan tinggi dan keadilan pendidikan?",
     "category": "id",
     "tags": [],
     "url": "https://taiwan.md/id/lifestyle/taiwan-education-system",
-    "readingTime": 75,
+    "readingTime": 92,
     "featured": true,
     "date": "2026-03-23",
     "path": "id/Lifestyle/taiwan-education-system.md"
@@ -100760,15 +100771,15 @@
     "path": "pt/Politics/central-election-commission.md"
   },
   {
-    "title": "Sistema de Áreas Cénicas Nacionais de Taiwan",
-    "description": "Uma experiência de prioridade turística sob a etiqueta \"nível nacional\": como 13 áreas cénicas caminham na corda bamba entre conservação e desenvolvimento",
-    "category": "pt",
+    "title": "Sistema de Áreas Naturales Protegidas de Taiwán",
+    "description": "Una experimentación turística bajo la etiqueta \"nacional\": cómo 13 áreas naturales navegan entre la conservación y el desarrollo",
+    "category": "es",
     "tags": [],
-    "url": "https://taiwan.md/pt/geography/national-scenic-area-system",
-    "readingTime": 49,
+    "url": "https://taiwan.md/es/geography/national-scenic-area-system",
+    "readingTime": 57,
     "featured": true,
     "date": "2026-03-23",
-    "path": "pt/Geography/national-scenic-area-system.md"
+    "path": "es/Geography/national-scenic-area-system.md"
   },
   {
     "title": "Sistema de chefes de vila e bairro: 7.748 chefes eleitos, a unidade política mais básica de Taiwan",
@@ -100876,6 +100887,28 @@
     "path": "es/Society/democratic-system.md"
   },
   {
+    "title": "Sistema dos Parques Nacionais de Paisagens de Taiwan",
+    "description": "Um experimento de prioridade turística sob a etiqueta \"nacional\": como 13 áreas paisagísticas equilibram conservação e desenvolvimento",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/geography/national-scenic-area-system",
+    "readingTime": 54,
+    "featured": true,
+    "date": "2026-03-23",
+    "path": "pt/Geography/national-scenic-area-system.md"
+  },
+  {
+    "title": "Sistema Educacional de Taiwan: Da \"Gehenna\" dos Exames Unificados ao Labirinto da Diversidade",
+    "description": "Taiwan gastou 30 anos tentando abolir o sistema de exames unificados; os cursos preparatórios em Nanyang Street caíram de 48 para 3, mas as escolas particulares aumentaram em 960 após a implementação do Novo Currículo. Como uma ilha realiza experimentos sociais repetidos entre pressão acadêmica e equidade educacional?",
+    "category": "pt",
+    "tags": [],
+    "url": "https://taiwan.md/pt/lifestyle/taiwan-education-system",
+    "readingTime": 93,
+    "featured": true,
+    "date": "2026-03-23",
+    "path": "pt/Lifestyle/taiwan-education-system.md"
+  },
+  {
     "title": "Sistema Educacional e Cultura de Ingresso no Ensino Superior",
     "description": "Da era dos exames nacionais ao Ensino Básico Nacional de Doze Anos, como Taiwan busca o equilíbrio entre competição e diversidade educacional",
     "category": "pt",
@@ -100885,17 +100918,6 @@
     "featured": true,
     "date": "2026-03-18",
     "path": "pt/Society/education-system-and-admissions-culture.md"
-  },
-  {
-    "title": "Sistema Educativo de Taiwán",
-    "description": "Taiwán tardó 30 años en intentar romper el sistema del examen único, pero el nuevo currículo de 2022 hizo que las inscripciones en clases de reexamen se duplicaran. Un experimento de isla sobre cómo equilibrar la presión académica con la equidad educativa: desde las 100.000 personas que repetían en la calle Nanyang en 1981, hasta el renacimiento de las academias en 2022.",
-    "category": "es",
-    "tags": [],
-    "url": "https://taiwan.md/es/lifestyle/taiwan-education-system",
-    "readingTime": 63,
-    "featured": true,
-    "date": "2026-03-23",
-    "path": "es/Lifestyle/taiwan-education-system.md"
   },
   {
     "title": "Sistema educativo y cultura de acceso a la educación superior",
@@ -102804,12 +102826,12 @@
     "path": "id/Nature/shanlinxi-forest.md"
   },
   {
-    "title": "Sumber Daya Situs Resmi Taiwan: 30 Tahun Kejuaraan Negara Pemerintahan Digital dari 25 Situs",
-    "description": "Pada tahun 1996, Taiwan mengikuti world fair internet untuk mengikuti acara internasional, 25 lembaga pemerintah membangun situs resmi pertama. 30 tahun kemudian, pulau ini menjadi contoh pemerintahan digital global — dari pajak online hingga situs pintar gerbang tunggal, dari data terbuka hingga korpus AI, eksplorasi bagaimana Taiwan menulis legenda transformasi digital menggunakan situs resmi.",
+    "title": "Sumber Daya Situs Web Resmi Taiwan: 30 Tahun Membangun dari 25 Situs ke Negara Digital Tangguh",
+    "description": "Pada musim panas 1995, Kabinet (Executive Yuan) memutuskan untuk berpartisipasi dalam Pameran Dunia Internet tahun 1996. Akibatnya, 25 kementerian pusat dan pemerintah kabupaten/kota membangun situs web pemerintah pertama. Selama tiga puluh tahun berikutnya, Taiwan mengembangkan pelaporan pajak online, pertukaran dokumen elektronik, dan platform data pemerintah terbuka. Pada 2021, Taiwan berhasil masuk ke dalam sepuluh besar IMD World Digital Competitiveness untuk pertama kalinya. Artikel ini menjelaskan perjalanan panjang Taiwan, lengkap dengan daftar situs web resmi yang dikelompokkan berdasarkan bidang.",
     "category": "id",
     "tags": [],
     "url": "https://taiwan.md/id/about/taiwan-official-resources-revisit",
-    "readingTime": 74,
+    "readingTime": 90,
     "featured": true,
     "date": "2026-03-23",
     "path": "id/About/taiwan-official-resources-revisit.md"
@@ -103299,6 +103321,17 @@
     "path": "fr/Lifestyle/taiwan-healthcare-and-national-health-insurance.md"
   },
   {
+    "title": "Tài Loan (Trung Hoa Dân Quốc) trên các trang web chính thức: Kỳ tích 30 năm từ 25 trang đến quốc gia tiên tiến về Chính phủ số",
+    "description": "Mùa hè năm 1995, Nội các quyết định tham dự Triển lãm Thế giới Internet vào năm sau; 25 cơ quan trung ương và chính quyền cấp huyện đã xây dựng đợt đầu tiên các trang web của chính phủ. Trong ba thập kỷ tiếp theo, Đài Loan có thuế trực tuyến, trao đổi văn bản điện tử và nền tảng mở dữ liệu chính phủ, lần đầu tiên lọt vào top 10 năng lực cạnh tranh số thế giới của IMD vào năm 2021. Cuối bài là danh sách các trang web chính thức được phân loại theo lĩnh vực.",
+    "category": "vi",
+    "tags": [],
+    "url": "https://taiwan.md/vi/about/taiwan-official-resources-revisit",
+    "readingTime": 86,
+    "featured": true,
+    "date": "2026-03-23",
+    "path": "vi/About/taiwan-official-resources-revisit.md"
+  },
+  {
     "title": "Tài Loan: Tài nguyên trang web chính thức",
     "description": "Tài nguyên trang web của Taiwan.md là chỉ mục các trang web chính thức và có thẩm quyền đầy đủ nhất về Đài Loan, bao gồm các lĩnh vực như cơ quan chính phủ, giáo dục văn hóa, du lịch, kinh tế công nghệ và truyền thông. Từ Phủ Tổng thống đến chính quyền địa phương, từ Cố Cung đến CCTV, bản tổng hợp này giúp bạn tìm thấy các cổng thông tin chính thức đầu tiên của Đài Loan theo từng lĩnh vực và giải thích cách xác minh cũng như sử dụng từng loại tài nguyên.",
     "category": "vi",
@@ -103308,17 +103341,6 @@
     "featured": false,
     "date": "2026-03-18",
     "path": "vi/About/taiwan-official-resources.md"
-  },
-  {
-    "title": "Tài nguyên trang web chính thức của Đài Loan: Từ 25 trang web đến kỳ tích 30 năm trở thành cường quốc chính phủ số",
-    "description": "Năm 1996, để tham gia Hội chợ Triển lãm Thế giới Internet, 25 cơ quan chính phủ Đài Loan đã xây dựng đợt trang web chính thức đầu tiên. 30 năm sau, hòn đảo này trở thành hình mẫu chính phủ số toàn cầu — từ khai thuế qua mạng đến cổng thông tin duy nhất, từ dữ liệu mở đến kho ngữ liệu AI, cùng khám phá cách Đài Loan viết nên huyền thoại chuyển đổi số bằng các trang web chính thức.",
-    "category": "vi",
-    "tags": [],
-    "url": "https://taiwan.md/vi/about/taiwan-official-resources-revisit",
-    "readingTime": 72,
-    "featured": true,
-    "date": "2026-03-23",
-    "path": "vi/About/taiwan-official-resources-revisit.md"
   },
   {
     "title": "Tại sao Đài Loan cần một kho kiến thức riêng: Điều nguy hiểm nhất của AI với Đài Loan không phải nói sai, mà là im lặng",
@@ -103842,26 +103864,26 @@
     "path": "id/Economy/taiwan-sugar.md"
   },
   {
-    "title": "Taittung : deux îles, un prisonnier politique emprisonné pendant près de trente ans et une autre contenant des déchets nucléaires depuis plus de quarante ans",
-    "description": "Le comté de Taittung compte 210 000 habitants répartis sur 3 515 kilomètres carrés, avec la densité la plus faible du pays, soit 60 personnes par kilomètre carré, un dixième de celle de Taipei. Cependant, ce comté abrite les plus anciens établissements humains de Taïwan (site archéologique de Beinan, il y a 5 300 ans, 1 600 sarcophages en pierre), six groupes autochtones (Amis, Beinan, Paiwan, Rukai, Bunun, Atayal), avec un pourcentage d'autochtones de 37,5 %, le plus élevé de Taïwan. De 1951 à 1987, les îles de Green Island et Huo Xiao ont détenu des prisonniers politiques pendant près de trente ans. À partir de mai 1982, Lan Yu Longmen a commencé à recevoir des déchets nucléaires, et après plus de quarante ans, 97 672 fûts y sont encore. Le 25 août 1968, sept enfants Bunun du village de Hongye ont battu l'équipe star de Kansai au Japon (qui n'était pas une équipe championne du monde) avec un score de sept à zéro, marquant le début du mythe du baseball national taïwanais par cette tromperie. Les deux îles portent le prix d'une île entière.",
-    "category": "fr",
-    "tags": [],
-    "url": "https://taiwan.md/fr/geography/taitung-county",
-    "readingTime": 241,
-    "featured": false,
-    "date": "2026-05-18",
-    "path": "fr/Geography/taitung-county.md"
-  },
-  {
-    "title": "Taittung: Duas ilhas remotas, um com prisioneiros políticos por quase trinta anos e outro com resíduos nucleares há mais de quarenta anos",
-    "description": "O condado de Taittung tem 210.000 habitantes espalhados por 3.515 quilômetros quadrados, a menor densidade do país, com apenas 60 pessoas por quilômetro quadrado, ou um por cento de Taipei. No entanto, este condado abriga os mais antigos assentamentos humanos de Taiwan (Sítio Beinan, há 5.300 anos, com 1.600 sarcófagos), e seis povos indígenas (Amis, Paiwan, Rukai, Bunun, Atayal e Yami), com uma proporção indígena de 37,5%, a mais alta de Taiwan. Entre 1951 e 1987, as ilhas Green Island e Hikundi abrigaram prisioneiros políticos por quase trinta anos. A partir de maio de 1982, Lan Yu/Lanyu começou a receber resíduos nucleares, e depois de mais de quarenta anos, 97.672 barris ainda estão lá. Em 25 de agosto de 1968, sete crianças Bunun da Vila Hongye derrotaram o time estrela Kansai do Japão (que não era campeão mundial) com uma pontuação de sete a zero, e o mito nacional do beisebol taiwanês começou com este engano. As duas ilhas carregam o preço de toda a ilha.",
+    "title": "Taittung: Duas ilhas remotas, um com presos políticos por quase trinta anos e outro com resíduos nucleares há mais de quarenta anos",
+    "description": "O condado de Taittung tem 210.000 habitantes espalhados por 3.515 quilômetros quadrados, a menor densidade do país, com apenas 60 pessoas por quilômetro quadrado, um décimo da capital Taipei. No entanto, este condado abriga os mais antigos assentamentos humanos de Taiwan (Sítio Beinan, há 5.300 anos, com 1.600 sarcófagos de pedra) e seis grupos indígenas (Amis, Beinan, Paiwan, Rukai, Bunun, Atayal), com uma proporção indígena de 37,5%, a mais alta de Taiwan. Entre 1951 e 1987, as ilhas Green Island e Huo Xiao Island detiveram presos políticos por quase trinta anos. A partir de maio de 1982, Lan Yu Longmen começou a receber resíduos nucleares, e depois de mais de quarenta anos, 97.672 barris ainda estão lá. Em 25 de agosto de 1968, sete crianças Bunun da Vila Hongye derrotaram as estrelas do time Kansai japonês (que não era um campeão mundial) com uma pontuação de sete a zero, e o mito nacional do beisebol taiwanês começou com este engano. As duas ilhas carregam o preço de uma ilha inteira.",
     "category": "pt",
     "tags": [],
     "url": "https://taiwan.md/pt/geography/taitung-county",
-    "readingTime": 226,
+    "readingTime": 231,
     "featured": false,
     "date": "2026-05-18",
     "path": "pt/Geography/taitung-county.md"
+  },
+  {
+    "title": "Taitung County : deux îles, trente ans de prisonniers politiques et quarante ans de déchets nucléaires",
+    "description": "Le comté de Taitung compte 210 000 habitants répartis sur 3 515 km², soit la densité la plus basse du pays : seulement 60 personnes par km², soit un centième de Taïpei. Pourtant, ce comté abrite les plus anciennes installations humaines de Taïwan (le site de Pingpu datant de 5 300 ans avec 1 600 couvre-tombs), est habité par six groupes autochtones (Amis, Pingpu, Paiwan, Rukai, Bunun, Tsou), et possède la proportion la plus élevée de population autochtone de toute l'île à 37,5 %. Entre 1951 et 1987, l'île de Green a détenu des prisonniers politiques pendant près de trente ans. À partir de mai 1982, le site de Longmen à l'île de Lanyu a commencé à recevoir des déchets nucléaires ; quarante ans plus tard, 97 672 barils y sont toujours présents. Le 25 août 1968, sept enfants Bunun du village Xiahua ont battu l'équipe d'étoiles de l'ouest du Japon par 7 à 0 (ce n'était pas une équipe mondiale championne), marquant le début de la légende nationale du baseball taïwanais. Ces deux îles ont payé le prix de toute une île.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/geography/taitung-county",
+    "readingTime": 253,
+    "featured": false,
+    "date": "2026-05-18",
+    "path": "fr/Geography/taitung-county.md"
   },
   {
     "title": "Taitung County: Two Islands, One Held Political Prisoners for Nearly Thirty Years, and One Stores Nuclear Waste for Over Forty Years",
@@ -103869,7 +103891,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/geography/taitung-county",
-    "readingTime": 223,
+    "readingTime": 228,
     "featured": false,
     "date": "2026-05-18",
     "path": "en/Geography/taitung-county.md"
@@ -103880,7 +103902,7 @@
     "category": "de",
     "tags": [],
     "url": "https://taiwan.md/de/geography/taitung-county",
-    "readingTime": 232,
+    "readingTime": 235,
     "featured": false,
     "date": "2026-05-18",
     "path": "de/Geography/taitung-county.md"
@@ -103967,17 +103989,6 @@
     "featured": false,
     "date": "2026-05-18",
     "path": "fr/Geography/taoyuan-city.md"
-  },
-  {
-    "title": "Taïwan : Le prix sous les étoiles et la redéfinition",
-    "description": "En 2018, le Guide Michelin est arrivé à Taïwan ; en apparence une gloire de la reconnaissance internationale, en réalité il a redessiné les règles de survie de l'industrie de la restauration : les restaurants « presque dignes » sont devenus les plus grandes victimes.",
-    "category": "fr",
-    "tags": [],
-    "url": "https://taiwan.md/fr/food/taiwan-michelin-fine-dining",
-    "readingTime": 96,
-    "featured": true,
-    "date": "2026-03-23",
-    "path": "fr/Food/taiwan-michelin-fine-dining.md"
   },
   {
     "title": "Taïwan : le vote hors domicile — le coût du déplacement est visible, celui de la confiance est plus difficile à calculer",
@@ -105694,6 +105705,28 @@
     "path": "en/Culture/taiwan-meme-culture.md"
   },
   {
+    "title": "Taiwan Michelin: Der Preis unter den Sternen und die Neudefinition",
+    "description": "Als der Michelin 2018 in Taiwan landete, war es offiziell ein internationaler Ruhm, doch er verschrieb neue Überlebensregeln für die Gastronomie – dabei wurden die „fast guten“ Restaurants zu den größten Verlierern.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/food/taiwan-michelin-fine-dining",
+    "readingTime": 90,
+    "featured": true,
+    "date": "2026-03-23",
+    "path": "de/Food/taiwan-michelin-fine-dining.md"
+  },
+  {
+    "title": "Taiwan Michelin: The Price Beneath the Stars and a Redefinition",
+    "description": "When the Michelin Guide landed in Taiwan in 2018, it appeared to be the glory of international accreditation, but in reality it rewrote the survival rules of the restaurant industry — the restaurants that were \"almost good enough\" became the biggest victims.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/food/taiwan-michelin-fine-dining",
+    "readingTime": 80,
+    "featured": true,
+    "date": "2026-03-23",
+    "path": "en/Food/taiwan-michelin-fine-dining.md"
+  },
+  {
     "title": "Taïwan Minbao : Comment un journal a permis à une île de se raconter elle-même",
     "description": "De sa création à Tokyo, au chinois vernaculaire (baihua), à la distribution locale et à la censure du gouvernement général, comprendre comment *Taïwan Minbao* a établi des lecteurs, produit des nouvelles et intégré les réformes politiques, l'illumination culturelle et les questions sociales quotidiennes dans un même journal sous contraintes coloniales.",
     "category": "fr",
@@ -105846,6 +105879,17 @@
     "featured": false,
     "date": "2026-03-18",
     "path": "en/About/taiwan-official-resources.md"
+  },
+  {
+    "title": "Taiwan offizielle Ressourcen: Die 30-jährige Wundergeschichte vom 25er-Webseiten-Start zum digitalen Hochleistungskreis",
+    "description": "Im Sommer 1995 beschloss das Executive Yuan (行政院), an der WWW-Ausstellung des Folgejahres teilzunehmen; 25 zentrale Behörden und Stadtverwaltungen bauten die ersten Regierungswebsites. In den folgenden dreißig Jahren entwickelte Taiwan Online-Steuererklärungen, elektronischen Schriftverkehr und Datenoffenlegen und erreichte 2021 erstmals einen der Top 10 in der IMD Weltdigitalwettbewerbsrangliste. Am Ende finden Sie eine nach Bereichen kategorisierte Liste der offiziellen Websites.",
+    "category": "de",
+    "tags": [],
+    "url": "https://taiwan.md/de/about/taiwan-official-resources-revisit",
+    "readingTime": 94,
+    "featured": true,
+    "date": "2026-03-23",
+    "path": "de/About/taiwan-official-resources-revisit.md"
   },
   {
     "title": "Taïwan oral code : De « désolé » à « D prononcé Zhu », comment quatre expressions quotidiennes forgent l'identité",
@@ -106129,7 +106173,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/technology/tasa-taiwan-space-agency",
-    "readingTime": 305,
+    "readingTime": 306,
     "featured": true,
     "date": "2026-06-04",
     "path": "en/Technology/tasa-taiwan-space-agency.md"
@@ -107970,12 +108014,12 @@
     "path": "en/Technology/e-commerce-and-digital-payment-ecosystem.md"
   },
   {
-    "title": "Taiwan's Education System: From Exam Hell to the Maze of Diversity",
-    "description": "Taiwan spent 30 years trying to abolish its brutal university entrance exam system, only to see cram school enrollments double in 2022. How an island repeatedly experiments with balancing exam pressure and educational equity.",
+    "title": "Taiwan's Education System: An Island Experiment from Exam Hell to a Maze of Diversity",
+    "description": "For 30 years, Taiwan tried to dismantle the centralized examination system; the re-examination classes in Nanyang Street shrank from 48 to 3, while private tutoring centers increased by 960 after the new curriculum was implemented. How does an island repeatedly conduct social experiments between academic pressure and educational equity?",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/lifestyle/taiwan-education-system",
-    "readingTime": 66,
+    "readingTime": 89,
     "featured": true,
     "date": "2026-03-23",
     "path": "en/Lifestyle/taiwan-education-system.md"
@@ -108333,17 +108377,6 @@
     "path": "en/Society/taiwan-yuelao-matchmaker-map.md"
   },
   {
-    "title": "Taiwan's Michelin: The Cost Under the Stars and a Redefinition",
-    "description": "When Michelin arrived in Taiwan in 2018, it was hailed as an honor of international certification, but it actually redrew the survival rules of the catering industry — restaurants that were \"almost up to standard\" became the biggest victims.",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/food/taiwan-michelin-fine-dining",
-    "readingTime": 85,
-    "featured": true,
-    "date": "2026-03-23",
-    "path": "en/Food/taiwan-michelin-fine-dining.md"
-  },
-  {
     "title": "Taiwan's Mountains and Hiking Culture",
     "description": "268 peaks above 3,000 meters are packed onto a single island, yet it took Taiwanese people half a century before they were allowed to freely climb their own mountains.",
     "category": "en",
@@ -108377,6 +108410,17 @@
     "path": "en/Music/taiwan-music-industry-and-the-streaming-era.md"
   },
   {
+    "title": "Taiwan's National Scenic Area System",
+    "description": "A \"national-level\" tourism-first experiment: how 13 scenic areas navigate between conservation and development",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/geography/national-scenic-area-system",
+    "readingTime": 52,
+    "featured": true,
+    "date": "2026-03-23",
+    "path": "en/Geography/national-scenic-area-system.md"
+  },
+  {
     "title": "Taiwan's New Idol Generation",
     "description": "In 2020, someone bet NT$130 million on manufacturing idols in Taiwan. Four shows won four Golden Bell Awards, more than fifty people debuted — then the champion group's popularity plummeted. The hardest thing about Taiwan's idol industry has always been: what happens after you debut?",
     "category": "en",
@@ -108388,12 +108432,12 @@
     "path": "en/Culture/taiwan-new-idol-generation.md"
   },
   {
-    "title": "Taiwan's Official Website Resources: A 30-Year Miracle from 25 Sites to a Digital Government Powerhouse",
-    "description": "In 1996, 25 government agencies built the first official websites so Taiwan could participate in the Internet World Exposition. Thirty years later, this island has become a global model for digital government—from online tax filing to a single-entry portal, from open data to an AI training corpus. Explore how Taiwan used official websites to write the legend of its digital transformation.",
+    "title": "Taiwan's Official Website Resources: The 30-Year Miracle from 25 Sites to a Digital Powerhouse",
+    "description": "In the summer of 1995, the Executive Yuan decided to participate in the World Internet Expo the following year, leading 25 central agencies and local governments to build the first government websites. Over the next three decades, Taiwan developed online tax filing, electronic official document exchange, and open government data platforms, entering the top ten of IMD's World Digital Competitiveness ranking for the first time in 2021. This article includes a list of official websites categorized by domain at the end.",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/about/taiwan-official-resources-revisit",
-    "readingTime": 74,
+    "readingTime": 88,
     "featured": true,
     "date": "2026-03-23",
     "path": "en/About/taiwan-official-resources-revisit.md"
@@ -109253,9 +109297,9 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/food/taiwan-food-overview",
-    "readingTime": 253,
+    "readingTime": 252,
     "featured": true,
-    "date": "2026-05-18",
+    "date": "2026-05-27",
     "path": "en/Food/taiwan-food-overview.md"
   },
   {
@@ -109413,7 +109457,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/food/military-dependents-village-cuisine",
-    "readingTime": 59,
+    "readingTime": 60,
     "featured": false,
     "date": "2026-03-19",
     "path": "en/Food/military-dependents-village-cuisine.md"
@@ -110476,7 +110520,7 @@
     "category": "de",
     "tags": [],
     "url": "https://taiwan.md/de/society/inclusive-travel-taiwan",
-    "readingTime": 48,
+    "readingTime": 49,
     "featured": false,
     "date": "2026-03-23",
     "path": "de/Society/inclusive-travel-taiwan.md"
@@ -110558,7 +110602,7 @@
     "category": "de",
     "tags": [],
     "url": "https://taiwan.md/de/food/taiwan-food-overview",
-    "readingTime": 274,
+    "readingTime": 275,
     "featured": true,
     "date": "2026-05-27",
     "path": "de/Food/taiwan-food-overview.md"
@@ -110602,7 +110646,7 @@
     "category": "de",
     "tags": [],
     "url": "https://taiwan.md/de/food/military-dependents-village-cuisine",
-    "readingTime": 58,
+    "readingTime": 59,
     "featured": false,
     "date": "2026-03-19",
     "path": "de/Food/military-dependents-village-cuisine.md"
@@ -110661,17 +110705,6 @@
     "featured": false,
     "date": "2026-04-08",
     "path": "de/Society/taiwan-public-health-epidemic-response.md"
-  },
-  {
-    "title": "Taiwans offizielle Webseiten-Ressourcen: Von 25 Websites zur digitalen Regierungsmacht in 30 Jahren",
-    "description": "1996 errichtete Taiwan für die Internet World Exposition 25 Regierungswebseiten – 30 Jahre später ist die Insel zum globalen Vorbild für digitale Regierung geworden: von der Online-Steuererklärung zum Single-Portal, von Open Data zum KI-Korpus.",
-    "category": "de",
-    "tags": [],
-    "url": "https://taiwan.md/de/about/taiwan-official-resources-revisit",
-    "readingTime": 73,
-    "featured": true,
-    "date": "2026-03-23",
-    "path": "de/About/taiwan-official-resources-revisit.md"
   },
   {
     "title": "Taiwans Offshore-Windkraft: Von den Stürmen der Taiwanstraße zum Überlebenskampf der globalen grünen Energielieferkette",
@@ -113142,12 +113175,12 @@
     "path": "en/History/1959-august-7-flood.md"
   },
   {
-    "title": "The Backslash in the Character \"Gong\": The Two Layers of Default Tax Paid by Taiwan Engineers Daily",
-    "description": "On Windows 11 in the zh-TW locale, a translation status script dumped over 4,000 paths into `root`, making Technology zero, while Linux CI was green the same week. The script split category names by forward slashes, but the filesystem used backslashes, so it couldn''t split them. An older layer is hidden in the characters: the second byte of Big5''s \"Gong\" is the ASCII backslash, known in the dev community as \"Xu Gong Gai\". Neither the path format nor the symbols residing in the characters accounted for this machine''s defaults. Git''s `quotePath` is another line, with a different cause.",
+    "title": "The Backslash in \"Gong\": Two Layers of Default Tax Paid by Taiwanese Engineers Daily",
+    "description": "On Windows 11 using zh-TW locale, the translation status script dumped over four thousand paths into `root`, making Technology zero, while Linux CI was green that week. The script uses forward slashes for directory names and backslashes for disks, failing to separate them. An older layer is embedded in the characters: the second byte of Big5''s \"gong\" is the ASCII backslash, which developers jokingly call *Xu Gong Gai*. How paths are written and what symbols live inside characters—none of this was accounted for by default on this machine. Git''s `quotePath` is another line with a different cause.",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/technology/backslash-in-cjk-fonts",
-    "readingTime": 37,
+    "readingTime": 44,
     "featured": false,
     "date": "2026-08-13",
     "path": "en/Technology/backslash-in-cjk-fonts.md"
@@ -115720,7 +115753,7 @@
     "category": "fr",
     "tags": [],
     "url": "https://taiwan.md/fr/society/inclusive-travel-taiwan",
-    "readingTime": 54,
+    "readingTime": 53,
     "featured": false,
     "date": "2026-03-23",
     "path": "fr/Society/inclusive-travel-taiwan.md"
@@ -128911,7 +128944,7 @@
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/food/military-dependents-village-cuisine",
-    "readingTime": 55,
+    "readingTime": 57,
     "featured": false,
     "date": "2026-03-19",
     "path": "ru/Food/military-dependents-village-cuisine.md"
@@ -130324,12 +130357,12 @@
     "path": "ru/History/national-railway-museum-taiwan.md"
   },
   {
-    "title": "Национальный космический центр: за тридцать два года собрать космическое агентство для государства, которому ещё нет имени",
-    "description": "В 1991 году это называлось «Подготовительным отделом», не имело имени, не имело ракет, не имело собственной территории. Через тридцать два года оно вернуло Taiwan в своё имя, и теперь управляющий центр в Синчжуне круглосуточно следит за пульсом девяти спутников; в день землетрясения в Хуалянь 4 апреля он перенастроил миссию через шесть минут после толчка и получил снимки через три часа. Оно дополняет последний элемент — собственную ракету для вывода на орбиту, а также утверждённую лунную миссию, которая может выйти в 2028 году.",
+    "title": "Национальный космический центр: за тридцать два года собрать космическое агентство для государства, которое ещё не сложилось в единое целое",
+    "description": "В 1991 году это был «Подготовительный отдел» — без названия, без ракет, без собственной территории. Через тридцать два года оно вернуло Тайвань в своё название. Теперь управляющий центр в Синчжуне 24 часами отслеживает сигналы с девяти спутников. В день землетрясения в Хуалянь 0403 он перенастроил миссию через шесть минут после толчка и получил снимки через три часа. Оно завершает последнюю деталь — собственную ракету для вывода на орбиту, а также утверждённую лунную миссию, которая может выйти в 2028 году.",
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/technology/tasa-taiwan-space-agency",
-    "readingTime": 319,
+    "readingTime": 322,
     "featured": true,
     "date": "2026-06-04",
     "path": "ru/Technology/tasa-taiwan-space-agency.md"
@@ -130583,7 +130616,7 @@
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/food/taiwan-food-overview",
-    "readingTime": 255,
+    "readingTime": 254,
     "featured": true,
     "date": "2026-05-27",
     "path": "ru/Food/taiwan-food-overview.md"
@@ -130598,17 +130631,6 @@
     "featured": false,
     "date": "2026-04-09",
     "path": "ru/Society/taiwan-rural-education.md"
-  },
-  {
-    "title": "Обратная косая черта внутри иероглифа «гун»: два слоя налога на умолчания, которые тайваньские инженеры платят каждый день",
-    "description": "В Windows 11 с языковой настройкой zh-TW скрипт статуса перевода свалил все отсканированные 4500+ путей в root, Technology стал нулем, а в тот же неделю CI в Linux был зелёным. Скрипт резал категории прямой косой чертой, а диск использует обратную — не вырезает. Старейший слой зарыт в самом символе: второй байт «гун» в Big5 — это ASCII-обратная косая черта, разработчики называют это «сюгунгай». И как пишутся пути, и какие символы живут внутри иероглифов — умолчания не считают с этой машиной. Git'овский quotePath — отдельная линия, природа другая.",
-    "category": "ru",
-    "tags": [],
-    "url": "https://taiwan.md/ru/technology/backslash-in-cjk-fonts",
-    "readingTime": 36,
-    "featured": false,
-    "date": "2026-08-13",
-    "path": "ru/Technology/backslash-in-cjk-fonts.md"
   },
   {
     "title": "Обрыв Циншуй: абсолютно прекрасные шрамы и живучесть жизни при столкновении плит",
@@ -131770,12 +131792,12 @@
     "path": "ru/Society/the-reporter-investigative-journalism.md"
   },
   {
-    "title": "Ресурсы официальных сайтов Тайваня: от 25 сайтов к цифровой сверхдержаве за 30 лет — чудо",
-    "description": "В 1996 году для участия в Всемирной выставке интернета 25 правительственных ведомств Тайваня создали первую партию официальных сайтов. Через 30 лет этот остров стал мировым эталоном цифрового правительства — от электронной налоговой декларации до единого портала, от открытых данных до корпусов для ИИ, исследуйте, как Тайвань с помощью официальных сайтов написал легенду цифровой трансформации.",
+    "title": "Ресурсы официальных сайтов Тайваня: 30-летний чудо-путь от 25 сайтов до цифровой державы",
+    "description": "Летом 1995 года Администрация президента решила принять участие в мировой выставке интернета 1996 года, в связи с чем 25 центральных министерств и муниципальных правительств построили первые правительственные сайты. За последующие тридцать лет в Тайване появились интернет-податы налогов, электронный обмен правительственными документами, платформа открытых правительственных данных, и в 2021 году Тайвань впервые вошел в десятку лучших стран по цифровой конкурентоспособности по версии IMD. В конце статьи прилагается список официальных сайтов по категориям.",
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/about/taiwan-official-resources-revisit",
-    "readingTime": 77,
+    "readingTime": 84,
     "featured": true,
     "date": "2026-03-23",
     "path": "ru/About/taiwan-official-resources-revisit.md"
@@ -132011,7 +132033,7 @@
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/geography/national-scenic-area-system",
-    "readingTime": 47,
+    "readingTime": 53,
     "featured": true,
     "date": "2026-03-23",
     "path": "ru/Geography/national-scenic-area-system.md"
@@ -132028,12 +132050,12 @@
     "path": "ru/Society/education-system-and-admissions-culture.md"
   },
   {
-    "title": "Система образования Тайваня: от ада совместных экзаменов к лабиринту многообразия — островной эксперимент",
-    "description": "Тайвань потратила 30 лет на попытки устранить систему совместных экзаменов, но результатом последних раздельных тестов стало удвоение набора в классы для пересдачи. Как остров повторно проводит социальные эксперименты между давлением поступления и справедливостью образования?",
+    "title": "Система образования Тайваня: от «экзаменационного ада» к многообразной лабиринте",
+    "description": "Тайвань тратит 30 лет на то, чтобы избавиться от системы единого экзамена: репетиторские классы на Наньяньсяре сократились с 48 до 3, а частные репетиторские школы выросли на 960 после введения новой учебной программы. Как остров проводит социальный эксперимент между академическим давлением и образовательным равенством?",
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/lifestyle/taiwan-education-system",
-    "readingTime": 71,
+    "readingTime": 93,
     "featured": true,
     "date": "2026-03-23",
     "path": "ru/Lifestyle/taiwan-education-system.md"
@@ -132794,6 +132816,17 @@
     "path": "ru/Society/taiwan-lithuania.md"
   },
   {
+    "title": "Тайвань и Мишлен: цена звёздного света и переопределение критериев",
+    "description": "В 2018 году Мишлен проникся в Тайвань, и на первый взгляд это стало глубоким признанием международного уровня — но на деле это перестроило правила игры в ресторанной индустрии: «почти подходящие» заведения оказались самыми уязвимыми.",
+    "category": "ru",
+    "tags": [],
+    "url": "https://taiwan.md/ru/food/taiwan-michelin-fine-dining",
+    "readingTime": 84,
+    "featured": true,
+    "date": "2026-03-23",
+    "path": "ru/Food/taiwan-michelin-fine-dining.md"
+  },
+  {
     "title": "Тайвань и обсуждение ядерной энергии: антиядерное движение когда-то было общим языком демократического движения, но климатический кризис перетасовал все стороны",
     "description": "В августе 2025 года 4,34 млн человек отдали голоса «за» перезапуск третьей АЭС, выиграв с 74%, но проиграли из-за низкой явки. За сорок лет три референдума: Тайвань прошёл от антиядерного консенсуса к «безъядерной родине», а затем за три месяца сам толкнул только что остановленный реактор к перезапуску. Эти дебаты давно вышли за рамки вопроса «хороша ли ядерная энергия» — это вопрос о том, как общество решает дело с противоречивыми временными давлениями: ядерные отходы должны быть безопасны 100 тысяч лет, углерод нужно сократить за 10 лет, а дефицит электричества — прямо сейчас.",
     "category": "ru",
@@ -132854,7 +132887,7 @@
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/society/inclusive-travel-taiwan",
-    "readingTime": 47,
+    "readingTime": 48,
     "featured": false,
     "date": "2026-03-23",
     "path": "ru/Society/inclusive-travel-taiwan.md"
@@ -134045,17 +134078,6 @@
     "path": "ru/Nature/formosan-rock-macaque.md"
   },
   {
-    "title": "Тайваньский Мишлен: Цена и переопределение под светом звезд",
-    "description": "В 2018 году Мишлен появился на Тайване, что внешне выглядело как международное признание, но на самом деле изменило правила выживания в ресторанном бизнесе — «почти достойные» рестораны стали главными жертвами.",
-    "category": "ru",
-    "tags": [],
-    "url": "https://taiwan.md/ru/food/taiwan-michelin-fine-dining",
-    "readingTime": 83,
-    "featured": true,
-    "date": "2026-03-23",
-    "path": "ru/Food/taiwan-michelin-fine-dining.md"
-  },
-  {
     "title": "Тайваньский национальный театр оперы и балета в Тайчуне: «Голос в пещере» и революция изогнутых стен без колонн от Ито Тойо",
     "description": "Проект премиального архитектора Ито Тойо, удостоенного премии Прайццкого, Тайваньский национальный театр оперы и балета в Тайчуне, называют «самым непостижимым строительством в мире». Как он, используя изогнутые стены без колонн и пещерную эстетику, переписывает историю современной архитектуры Тайваня и воображение.",
     "category": "ru",
@@ -134358,12 +134380,12 @@
     "path": "ru/Culture/taiwanese-childhood-english-names.md"
   },
   {
-    "title": "Тайдун: два острова, один содержал политических заключенных тридцать шесть лет, другой хранит ядерные отходы сорок два года",
-    "description": "В уезде Тайдун проживает 210 тысяч человек на площади 3515 квадратных километров, что является самой низкой плотностью населения в стране — всего 60 человек на квадратный километр, или один процент от Тайбэя. Однако этот уезд хранит самые ранние поселения человека на Тайване (археологический памятник Бинан, 1600 каменных гробниц за 5300 лет), и является домом для шести коренных народов (Амэ, Бинан, Павань, Лукай, Бунонг, Даго) с самой высокой долей коренного населения в стране — 37,5%. С 1951 по 1987 год на острове Люцзинь содержали тридцать шесть лет политических заключенных. С мая 1982 года остров Ланьюй начали принимать ядерные отходы, и спустя сорок два года там все еще находятся 97 672 бочки. 25 августа 1968 года семь детей племени Бунонг из деревни Хунъе победили знаменитую команду Кансай в Японии (не чемпионов мира), и миф о национальной гордости Тайваня начался с этой обманчивой игры. Два острова несут цену целого острова.",
+    "title": "Тайдунский хсян: два острова, на одном почти тридцать лет держали политзаключенных, на другом хранят ядерные отходы уже более сорока лет",
+    "description": "Тайдунский хсян: 210 тысяч человек разбросаны на 3515 квадратных километрах — самая низкая плотность в стране, всего 60 человек на квадратный километр, что составляет одну сотую от Тайбея. Однако этот хсян скрывает древнейшее человеческое поселение на Тайване (памятник Пейнань, 5300 лет назад, 1600 каменных саркофагов), проживают здесь шесть коренных народов (ами, пейнань, пайван, рукай, бунун, тао), доля коренного населения 37,5 % — самая высокая на острове. С 1951 по 1987 год на острове Людао (тогда Худяо) последовательно держали политзаключенных почти тридцать лет. С мая 1982 года на Ланью в Луньмэне начали принимать ядерные отходы, более сорока лет спустя 97 672 бочки всё ещё там. 25 августа 1968 года семь детей племени бунун из деревни Хунье обыграли юношескую бейсбольную «звездную команду» Кансай (Япония) со счётом 7:0 (не чемпионов мира), и так начался миф о бейсболе как национальном виде спорта Тайваня. Два острова взяли на себя цену целого острова.",
     "category": "ru",
     "tags": [],
     "url": "https://taiwan.md/ru/geography/taitung-county",
-    "readingTime": 209,
+    "readingTime": 221,
     "featured": false,
     "date": "2026-05-18",
     "path": "ru/Geography/taitung-county.md"
@@ -139303,6 +139325,17 @@
     "path": "ar/Music/village-armed-youth.md"
   },
   {
+    "title": "الشرطة المائلة العكسية داخل حرف «功»: الضريبتان الافتراضيتان اللتان يدفعهما مهندسو تايوان كل يوم",
+    "description": "على نظام Windows 11 بلغة zh-TW، ألقى سكريبت حالة الترجمة بأكثر من أربعة آلاف مسار في الجذر، فأصبح تصنيف Technology صفرًا، بينما كان تكامل Linux المستمر (CI) أخضر في نفس الأسبوع. السكريبت يستخدم الشرطة المائلة لتقسيم التصنيفات، والقرص يستخدم الشرطة المائلة العكسية، فلا يستطيع استخراج التصنيف. طبقة أقدم مدفونة داخل الحرف: البايت الثاني لحرف «功» في ترميز Big5 هو نفسه الشرطة المائلة العكسية في ASCII، ويسميه المطورون «許功蓋». كيف تُكتب المسارات، وما الرموز التي تسكن داخل الحروف، لم تضع القيم الافتراضية هذه الآلة في الحسبان. إعداد Git `quotePath` خط آخر، سببه مختلف.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/technology/backslash-in-cjk-fonts",
+    "readingTime": 36,
+    "featured": false,
+    "date": "2026-08-13",
+    "path": "ar/Technology/backslash-in-cjk-fonts.md"
+  },
+  {
     "title": "الشركات التايوانية: إتشيما - من رسم منحنى الابتسامة، كان أصعب عليه الوقوف على طرفيه",
     "description": "في عام 1992، رسم شيه تشينغ رونغ داخل شركة إتشيما منحنى مفتوحاً للأعلى، وأخبر الصناعة التايوانية بأكملها: لا تتعثروا في مرحلة التجميع ذات القيمة المضافة الأقل، بل اتجهوا نحو طرفي البحث والتطوير والعلامة التجارية. هذه الجملة أثرت على تايوان لمدة ثلاثين عامًا. لكن الشخص الذي رسم الخط سقط ثلاث مرات في طريقه نحو طرف العلامة التجارية - إجبار الشركة الكبرى على التجزئة في عام 2000، والوصول إلى المرتبة الثانية عالميًا مع نفاد المخزون في عام 2011، وخسارة 20.5 مليار يوان في عام 2013 مما أجبر المؤسس البالغ من العمر ثمانية وستين عامًا على العودة. أما واي تشانغ، الشركة المتعاقدة الصغيرة التي تم فصلها ولم تحظَ بالتقدير في ذلك الوقت، فقد وصلت إلى قمة الابتسامة في عصر الذكاء الاصطناعي.",
     "category": "ar",
@@ -141097,17 +141130,6 @@
     "path": "ar/Society/taiwan-defense-modernization.md"
   },
   {
-    "title": "تايوان: السياحة والثقافة الحياتية الشاملة لجميع الأعمار: عندما تصبح \"اللمسة الإنسانية\" أقوى مرافق إمكانية الوصول",
-    "description": "من منظور الأسرة، نراقب كيف يعيد المجتمع التايواني تعريف معنى \"السفر العائلي معاً\" في مسيره نحو مجتمع فائق الشيخوخة، من خلال اللمسة الإنسانية والمرافق الشاملة.",
-    "category": "ar",
-    "tags": [],
-    "url": "https://taiwan.md/ar/society/inclusive-travel-taiwan",
-    "readingTime": 36,
-    "featured": false,
-    "date": "2026-03-23",
-    "path": "ar/Society/inclusive-travel-taiwan.md"
-  },
-  {
     "title": "تايوان: العدالة البيئية ونزاعات \"ليس في حديقتي الخلفية\"",
     "description": "استكشاف ظاهرة التوزيع غير العادل للأعباء البيئية في تايوان، من محارق النفايات والنفايات النووية إلى صناعة البتروكيماويات، وتحليل قضايا عدم المساواة البيئية والعدالة الاجتماعية",
     "category": "ar",
@@ -142257,19 +142279,6 @@
     "featured": false,
     "date": "2026-03-18",
     "path": "ar/Economy/agricultural-technology-and-refined-agriculture.md"
-  },
-  {
-    "title": "تلك الشرطة المائلة العكسية داخل حرف \"غونغ\" (功): الضريبتان الافتراضيتان اللتان يدفعهما المهندسون التايوانيون يوميًا",
-    "description": "على نظام Windows 11 باللغة zh-TW، ألقى سكريبت حالة الترجمة بجميع المسارات الأربعة آلاف الممسوحة في التصنيف \"root\"، فأصبح تصنيف Technology صفرًا، بينما كان تكامل المستمر (CI) على Linux أخضر في نفس الأسبوع. يستخدم السكريبت الشرطة المائلة (/) لتقسيم أسماء التصنيفات، بينما يستخدم القرص الشرطة المائلة العكسية (\\)، فلا يتمكن من التقسيم. هناك طبقة أقدم مدفونة داخل الحرف: البايت الثاني لحرف \"غونغ\" (功) في ترميز Big5 هو نفسه الشرطة المائلة العكسية في ASCII، ويسميها المطورون \"شو غونغ غاي\" (許功蓋). كيف تُكتب المسارات، وما الرموز التي تسكن داخل الحروف، لم تضع القيم الافتراضية هذه الآلة في الحسبان. إن quotePath في Git هو خط آخر، وسببه مختلف.",
-    "category": "ar",
-    "tags": [
-      "مفتوح المصدر، Windows، Big5، UTF-8، ترميز الحروف، الصينية التقليدية"
-    ],
-    "url": "https://taiwan.md/ar/technology/backslash-in-cjk-fonts",
-    "readingTime": 33,
-    "featured": false,
-    "date": "2026-08-13",
-    "path": "ar/Technology/backslash-in-cjk-fonts.md"
   },
   {
     "title": "تناقضات الانتماء الإقليمي في تايوان",
@@ -144123,17 +144132,6 @@
     "path": "ar/Technology/taiwan-teachers-and-ai-education.md"
   },
   {
-    "title": "دليل ميشلان في تايوان: الثمن تحت الأضواء وإعادة التعريف",
-    "description": "هبوط دليل ميشلان في تايوان عام 2018 بدا ظاهريًا تكريمًا بالاعتراف الدولي، لكنه في الواقع أعاد رسم قواعد البقاء في صناعة المطاعم — فالمطاعم «القريبة من التأهل» أصبحت أكبر الضحايا.",
-    "category": "ar",
-    "tags": [],
-    "url": "https://taiwan.md/ar/food/taiwan-michelin-fine-dining",
-    "readingTime": 64,
-    "featured": true,
-    "date": "2026-03-23",
-    "path": "ar/Food/taiwan-michelin-fine-dining.md"
-  },
-  {
     "title": "دنغ يو شيان: الهاكا 1906، أبريل ينتظر المطر — تسعة وثلاثون عاماً لأب الأغنية التايوانية",
     "description": "وُلد في 21 يوليو 1906 في عائلة هاكا في لونغتان، تاويوان، واسمه الأصلي دنغ بينغ يان. تخرج من مدرسة المعلمين العادية، وفي 1933 استقطبته شركة كولومبيا ريكوردز. أعماله الأربعة الكبرى المعروفة بـ \"أبريل ينتظر المطر\" (أحمر الفصول الأربعة / حزن ليلة القمر / انتظار رياح الربيع / زهرة الليلة الممطرة) لا تزال تُغنى حتى اليوم. في 1933 توجه إلى مدرسة تشيونغ لين العامة في شينتشو للتدريس، وتوفي في 11 يونيو 1944 في مستشفى تشو دونغ، عن عمر يناهز 39 عاماً.",
     "category": "ar",
@@ -144734,6 +144732,17 @@
     "featured": false,
     "date": "2026-04-30",
     "path": "ar/People/sun-yun-suan.md"
+  },
+  {
+    "title": "سياحة وثقافة حياة تايوان المدمجة لجميع الأعمار: عندما يصبح الإنسانية أقوى تسهيلات إتاحة الوصول",
+    "description": "من منظور العائلة، نراقب كيف تستخدم تايوان المجتمع الإنسانية والبنية التحتية المدمجة لجميع الأعمار، في طريقها نحو مجتمع شيخري جدا، لإعادة تعريف معنى «رحلة العائلة معاً».",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/society/inclusive-travel-taiwan",
+    "readingTime": 36,
+    "featured": false,
+    "date": "2026-03-23",
+    "path": "ar/Society/inclusive-travel-taiwan.md"
   },
   {
     "title": "سيدة العلوم: عندما يصبح تبسيط العلوم حركة مرور، تصبح الخبرة أيضًا مسؤولية عامة",
@@ -148389,12 +148398,12 @@
     "path": "ar/Geography/penghu-county.md"
   },
   {
-    "title": "مقاطعة تايتونغ: جزيرتان، سجن سياسي ظل مغلقاً لما يقرب من ثلاثين عاماً، ومستودع نفايا نووية ظل مخزناً لأكثر من أربعين عاماً",
-    "description": "تقع 210000 نسمة في مقاطعة تايتونغ على مساحة 3515 كيلومتر مربع، وهي أقل كثافة سكانية في البلاد، حيث يقطن 60 شخصاً لكل كيلومتر مربع، أي ما يعادل واحداً بالمئة لنسمة تايبيه. ومع ذلك، تضم هذه المقاطعة أقدم مستوطنات بشرية في تايوان (موقع بهنان يعود لـ 5300 قبل الميلاد، ويضم 1600 قبراً حجرياً)، وتستقطب 6 شعوباً أصلية (الأمي، بهنان، بانغ، لوكاي، بو نو، داوا)، وتشكل السكان الأصليون 37.5 بالمئة من إجمالي السكان، وهو أعلى نسبة في جميع المقاطعات. خلال الفترة بين عامي 1951 و1987، استُخدمت جزيرة غرين للسجن السياسي لمدة قاربت الثلاثين عاماً. بدأ استقبال المواد النووية في موقع لونغ مين على جزيرة لان يو في مايو 1982، وما زالت 97672 برصيفة ما بعد أكثر من أربعين عاماً. في 25 أغسطس 1968، هزمت فريقاً من سبعة أطفال بو نو في قرية هونغ يي سباق البيسبول الياباني الناتشرالز الغربي الذين لم يخسروا سوى صفراً، وهو ما بدأ أسطورة كرة البيسبول الوطنية في تايوان. تحمل هاتان الجزيرتان عبئاً كبيراً على متوسط جزيرة بأكملها.",
+    "title": "مقاطعة تايتونغ: جزيرتان نائيتان، واحدة احتجزت سجناء سياسيين لما يقارب ثلاثين عاماً، والأخرى خزنت نفايات نووية لأكثر من أربعين عاماً",
+    "description": "يقطن مقاطعة تايتونغ 210,000 نسمة موزعين على مساحة 3,515 كيلومتراً مربعاً، وهي أدنى كثافة سكانية في البلاد، حيث يسكن كل كيلومتر مربع 60 شخصاً فقط، أي ما يعادل واحد في المئة من كثافة تايبيه. غير أن هذه المقاطعة تضم أقدم تجمع بشري في تايوان (موقع بينان الأثري، منذ 5,300 عام، مع 1,600 تابوت حجري)، ويسكنها ستة شعوب أصلية (الأميس، بينان، بايوان، روكاي، بونون، تاو)، وتبلغ نسبة السكان الأصليين 37.5% وهي الأعلى في تايوان بأكملها. بين عامي 1951 و1987، احتجزت جزيرة ليو (الجزيرة الخضراء) سجناء سياسيين لما يقارب ثلاثين عاماً. ومنذ مايو 1982، بدأ ميناء لونغمن في جزيرة لانيو باستقبال النفايات النووية، وبعد أكثر من أربعين عاماً لا يزال هناك 97,672 برميلاً. في 25 أغسطس 1968، هزم سبعة أطفال من شعب بونون من قرية هونغ ييه فريق نجوم دوري كانساي الياباني لليافعين بنتيجة 7-0 (وليس فريق أبطال العالم)، وبدأ من هذه الخدعة أسطورة البيسبول كرياضة وطنية في تايوان. لقد تحملت جزيرتان نائيتان تكلفة جزيرة بأكملها.",
     "category": "ar",
     "tags": [],
     "url": "https://taiwan.md/ar/geography/taitung-county",
-    "readingTime": 187,
+    "readingTime": 193,
     "featured": false,
     "date": "2026-05-18",
     "path": "ar/Geography/taitung-county.md"
@@ -148859,17 +148868,6 @@
     "path": "ar/Culture/taiwan-temple-festivals-and-performance-troupes.md"
   },
   {
-    "title": "موارد المواقع الرسمية في تايوان: من 25 موقعاً إلى قوة رقمية حكومية في 30 عاماً من المعجزات",
-    "description": "في عام 1996، أنشأت 25 وكالة حكومية في تايوان أول دفعة من المواقع الرسمية للمشاركة في معرض الإنترنت العالمي. وبعد 30 عاماً، أصبحت هذه الجزيرة نموذجاً عالمياً للحكومة الرقمية - من الإقرار الضريبي عبر الإنترنت إلى بوابة الدخول الموحدة، ومن البيانات المفتوحة إلى مخازن الذكاء الاصطناعي، اكتشف كيف كتبت تايوان أسطورة التحول الرقمي بمواقعها الرسمية.",
-    "category": "ar",
-    "tags": [],
-    "url": "https://taiwan.md/ar/about/taiwan-official-resources-revisit",
-    "readingTime": 61,
-    "featured": true,
-    "date": "2026-03-23",
-    "path": "ar/About/taiwan-official-resources-revisit.md"
-  },
-  {
     "title": "موارد الويب الرسمية لتايوان",
     "description": "مورد Taiwan.md هو الفهرس الأكثر اكتمالاً للمواقع الرسمية والموثوقة في تايوان، ويغطي مجالات مثل المؤسسات الحكومية، والثقافة والتعليم، والسياحة والتكنولوجيا والاقتصاد، ووسائل الإعلام الإخبارية. من الرئاسة إلى الحكومات المحلية، ومن القصر الوطني إلى التلفزيون العام، يقدم هذا الملخص بوابات رسمية أولية في كل مجال ويشرح كيفية التحقق من الموارد واستخدامها.",
     "category": "ar",
@@ -148879,6 +148877,17 @@
     "featured": false,
     "date": "2026-03-18",
     "path": "ar/About/taiwan-official-resources.md"
+  },
+  {
+    "title": "موارد مواقع تايوان الرسمية: 30 عامًا من الإنجاز نحو دولة رقمية قوية",
+    "description": "في صيف عام 1995، قررت وزارة الإدارة الوطنية المشاركة في معرض العالم الرقمي لعام 1996، وبنى 25 وزارة وبلدية أولى مواقعها الحكومية. خلال الثلاثين عامًا التالية، طورت تايوان نظام تسديد الضرائب عبر الإنترنت، وتبادل الوثائق الإلكترونية، ومنصة الحكومة المفتوحة للبيانات، وفي عام 2021 احتلت المرتبة الثامنة في تقييم IMD العالمي للمنافسة الرقمية. يتبع قائمة كاملة بالمواقع حسب المجال.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/about/taiwan-official-resources-revisit",
+    "readingTime": 73,
+    "featured": true,
+    "date": "2026-03-23",
+    "path": "ar/About/taiwan-official-resources-revisit.md"
   },
   {
     "title": "موريس تشانغ",
@@ -149019,6 +149028,23 @@
     "path": "ar/Economy/mega-financial-holding-global-banking-network.md"
   },
   {
+    "title": "ميشلان في تايوان: الثمن تحت النجوم وإعادة التعريف",
+    "description": "مع ورود ميشلان إلى تايوان في عام 2018، بدا الأمر فخرًا للاعتراف الدولي، لكنه في الواقع أعد تعريفًا لقواعد بقاء صناعة المطاعم — فالمطاعم التي كانت \"تقريبًا أهلية\" أصبحت الضحايا الأكثر تضررًا.",
+    "category": "ar",
+    "tags": [
+      "ميشلان",
+      "مطاعم راقية",
+      "مطاعم نجومية",
+      "طعام تايواني",
+      "صناعة المطاعم"
+    ],
+    "url": "https://taiwan.md/ar/food/taiwan-michelin-fine-dining",
+    "readingTime": 70,
+    "featured": true,
+    "date": "2026-03-23",
+    "path": "ar/Food/taiwan-michelin-fine-dining.md"
+  },
+  {
     "title": "ميمات تايوان: من سكان PTT إلى صمام أمان اجتماعي - ثلاثون عاماً من التطور الثقافي",
     "description": "ميمات تايوان ليست مجرد نكت على الإنترنت، بل هي تجربة إبداعية جماعية امتدت لثلاثين عاماً. من خيمياء اللغة في منتدى PTT المجهول، إلى الشفاء الجماعي الاجتماعي لـ \"الأخ جيه لا تفعل\"، مروراً بحالات كلاسيكية مثل \"شانغ با\" و \"البانغولين\"، تطورت ميمات تايوان لتنتج آلية فريدة لـ \"صمام الأمان الاجتماعي\"، تحوّل الإحراج والصدمات والقلق السياسي إلى رموز ثقافية يمكن تحملها جماعياً.",
     "category": "ar",
@@ -149140,12 +149166,12 @@
     "path": "ar/Geography/taiwan-river-systems-and-hydrology.md"
   },
   {
-    "title": "نظام التعليم في تايوان: من جحيم الامتحان الموحد إلى متاهة التنوع في تجربة جزيرة",
-    "description": "أمضت تايوان 30 عامًا في محاولة إلغاء نظام الامتحان الموحد، لكن أحدث اختبار المواد أدى إلى تضاعف الالتحاق بفصول إعادة الامتحان. كيف تجري جزيرة تجارب اجتماعية متكررة بين ضغوط الالتحاق بالجامعة وعدالة التعليم؟",
+    "title": "نظام التعليم في تايوان: من جحيم الامتحان الموحد إلى متاهة التعددية في تجربة جزيرة",
+    "description": "أمضت تايوان 30 عامًا في محاولة إلغاء نظام الامتحان الموحد، انخفضت صفوف إعادة الامتحان في شارع نانيانغ من 48 إلى 3 فقط، بينما زادت مراكز التدريس الخاصة للفنون والعلوم بـ 960 مركزًا بعد إطلاق المناهج الجديدة. كيف تجري جزيرة تجارب اجتماعية متكررة بين ضغوط القبول الجامعي وعدالة التعليم؟",
     "category": "ar",
     "tags": [],
     "url": "https://taiwan.md/ar/lifestyle/taiwan-education-system",
-    "readingTime": 59,
+    "readingTime": 79,
     "featured": true,
     "date": "2026-03-23",
     "path": "ar/Lifestyle/taiwan-education-system.md"
@@ -149217,17 +149243,6 @@
     "path": "ar/Culture/amis-age-set-system.md"
   },
   {
-    "title": "نظام المناطق ذات المناظر الطبيعية الوطنية في تايوان",
-    "description": "تجربة ذات أولوية سياحية تحت مسمى \"مستوى وطني\": كيف تمشي 13 منطقة ذات مناظر طبيعية على حبل مشدود بين الحفظ والتنمية",
-    "category": "ar",
-    "tags": [],
-    "url": "https://taiwan.md/ar/geography/national-scenic-area-system",
-    "readingTime": 40,
-    "featured": true,
-    "date": "2026-03-23",
-    "path": "ar/Geography/national-scenic-area-system.md"
-  },
-  {
     "title": "نظام النقل في تايوان: كيف ضغطت جزيرة نفسها في 90 دقيقة",
     "description": "في عام 1946، تحولت تايوان بين ليلة وضحاها من القيادة على اليسار إلى القيادة على اليمين. السلسلة الجبلية المركزية تمتد بطول 273 كيلومترًا من الشمال إلى الجنوب، قاطعة الجزيرة البالغة 36,000 كيلومتر مربع إلى نصفين شرقي وغربي. بعد ستين عامًا، ضغط القطار فائق السرعة 394 كيلومترًا إلى 90 دقيقة، وقلص نفق شويشان رحلة ييلان من ساعتين إلى 40 دقيقة. وبعد عقد آخر، امتلأ كل تقاطع بـ 14 مليون دراجة نارية. قصة نقل هذه الجزيرة هي قصة هويتها.",
     "category": "ar",
@@ -149281,6 +149296,17 @@
     "featured": false,
     "date": "2026-03-23",
     "path": "ar/Nature/taiwan-forest-ecosystems.md"
+  },
+  {
+    "title": "نظام مناطق مناظر طبيعية وطنية تايوان",
+    "description": "تجربة تطوير سياحية ذات وسم \"وطني\": كيف تعترض 13 منطقة مناظر طبيعية على خط بين الحفظ والتنمية",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/geography/national-scenic-area-system",
+    "readingTime": 42,
+    "featured": true,
+    "date": "2026-03-23",
+    "path": "ar/Geography/national-scenic-area-system.md"
   },
   {
     "title": "نظرة شاملة على المطبخ التايواني: لا يوجد طبق نقي التايوانية، وكل طبق هو الأكثر تايوانية",
@@ -153460,7 +153486,7 @@
     "category": "hi",
     "tags": [],
     "url": "https://taiwan.md/hi/geography/taitung-county",
-    "readingTime": 203,
+    "readingTime": 209,
     "featured": false,
     "date": "2026-05-18",
     "path": "hi/Geography/taitung-county.md"
@@ -153641,17 +153667,6 @@
     "featured": false,
     "date": "2026-08-12",
     "path": "hi/Economy/taiwan-offshore-wind-power.md"
-  },
-  {
-    "title": "ताइवान आधिकारिक वेबसाइट संसाधन: 25 वेबसाइटों से डिजिटल सरकार महाशक्ति के 30 साल का चमत्कार",
-    "description": "1996 में, ताइवान ने इंटरनेट वर्ल्ड एक्सपो में भाग लेने के लिए, 25 सरकारी एजेंसियों ने पहली बैच की आधिकारिक वेबसाइटें बनाईं। 30 साल बाद आज, यह द्वीप वैश्विक डिजिटल सरकार का आदर्श बन गया है——ऑनलाइन टैक्स फाइलिंग से लेकर सिंगल पोर्टल वेबसाइट तक, खुले डेटा से लेकर AI कॉर्पस तक, खोजें कि ताइवान ने आधिकारिक वेबसाइटों का उपयोग करके डिजिटल परिवर्तन की किंवदंती कैसे लिखी।",
-    "category": "hi",
-    "tags": [],
-    "url": "https://taiwan.md/hi/about/taiwan-official-resources-revisit",
-    "readingTime": 65,
-    "featured": true,
-    "date": "2026-03-23",
-    "path": "hi/About/taiwan-official-resources-revisit.md"
   },
   {
     "title": "ताइवान इलेक्ट्रिक वाहन उद्योग श्रृंखला का विकास",
@@ -154481,6 +154496,17 @@
     "path": "hi/About/taiwan-official-resources.md"
   },
   {
+    "title": "ताइवान की आधिकारिक वेबसाइट संसाधन: 25 वेबसाइटों से डिजिटल शक्ति महाशक्ति बनने तक का 30 साल का चमत्कार",
+    "description": "1995 की गर्मियों में, कार्यकारी परिषद ने अगले साल होने वाले इंटरनेट विश्व मेले में भाग लेने का फैसला किया, जिसके कारण 25 केंद्रीय एजेंसियों और काउंटी/सिटी सरकारों ने पहली सरकारी वेबसाइटें बनाईं। इसके बाद तीस वर्षों में ताइवान ने ऑनलाइन कर दाखिल करना, इलेक्ट्रॉनिक आधिकारिक पत्राचार और सरकारी डेटा ओपन प्लेटफॉर्म विकसित किए, और 2021 में IMD वैश्विक डिजिटल प्रतिस्पर्धा के शीर्ष दस में पहली बार जगह बनाई। लेख के अंत में क्षेत्र-वार वर्गीकृत आधिकारिक वेबसाइटों की सूची दी गई है।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/about/taiwan-official-resources-revisit",
+    "readingTime": 79,
+    "featured": true,
+    "date": "2026-03-23",
+    "path": "hi/About/taiwan-official-resources-revisit.md"
+  },
+  {
     "title": "ताइवान की आधिकारिक वेबसाइटों का संसाधन संग्रह 🏛️",
     "description": "ताइवान की आधिकारिक वेबसाइटें न केवल सरकारी सेवाएं और नीतिगत जानकारी प्रदान करती हैं, बल्कि ताइवान की राजनीतिक प्रणाली, सांस्कृतिक विकास और सामाजिक शासन को समझने के लिए महत्वपूर्ण खिड़कियां भी हैं। ये वेबसाइटें ताइवान की लोकतांत्रिक राजनीति में पारदर्शिता, डिजिटल शासन की प्रगति और संस्कृति के संरक्षण तथा प्रचार पर जोर को दर्शाती हैं। जो लोग ताइवान का अध्ययन करते हैं, उसे समझते हैं या आधिकारिक जानकारी चाहते हैं, उनके लिए यह संसाधन संग्रह सबसे प्रामाणिक सूचना स्रोत प्रदान करता है।",
     "category": "hi",
@@ -155290,12 +155316,12 @@
     "path": "hi/Art/taiwanese-architecture.md"
   },
   {
-    "title": "ताइवान की शिक्षा प्रणाली: संयुक्त प्रवेश परीक्षा नरक से बहुआयामी भूलभुलैया तक का द्वीप प्रयोग",
-    "description": "ताइवान ने 30 साल तक संयुक्त प्रवेश परीक्षा प्रणाली को तोड़ने की कोशिश की, और परिणाम यह है कि नवीनतम विषय-विशिष्ट परीक्षा (डिविजनल एग्जामिनेशन) के लिए पुनः परीक्षा कक्षाओं में नामांकन दो गुना बढ़ गया है। एक द्वीप कैसे शिक्षा के दबाव और न्यायसंगत शिक्षा के बीच समाज का विज्ञान प्रयोग कर रहा है?",
+    "title": "ताइवान की शिक्षा प्रणाली: प्रवेश परीक्षा के नरक से बहुआयामी भूलभुलैया तक द्वीप का प्रयोग",
+    "description": "ताइवान ने 30 वर्षों तक प्रवेश परीक्षा प्रणाली को तोड़ने की कोशिश की; नानयांग स्ट्रीट पर पुन: परीक्षा केंद्र 48 से घटकर 3 रह गए, लेकिन पाठ्यचर्या सुधार के बाद निजी कोचिंग संस्थान 960 बढ़ गए। एक द्वीप शिक्षात्मक दबाव और शैक्षिक समानता के बीच बार-बार सामाजिक प्रयोग कैसे कर रहा है?",
     "category": "hi",
     "tags": [],
     "url": "https://taiwan.md/hi/lifestyle/taiwan-education-system",
-    "readingTime": 71,
+    "readingTime": 83,
     "featured": true,
     "date": "2026-03-23",
     "path": "hi/Lifestyle/taiwan-education-system.md"
@@ -156126,7 +156152,7 @@
     "category": "hi",
     "tags": [],
     "url": "https://taiwan.md/hi/food/military-dependents-village-cuisine",
-    "readingTime": 48,
+    "readingTime": 49,
     "featured": false,
     "date": "2026-03-19",
     "path": "hi/Food/military-dependents-village-cuisine.md"
@@ -156691,12 +156717,12 @@
     "path": "hi/History/taiwan-minpao-newspaper.md"
   },
   {
-    "title": "ताइवान मिशेलिन: स्टारलाइट के नीचे की कीमत और पुनर्परिभाषा",
-    "description": "2018 में मिशेलिन ताइवान पहुंचा, सतह पर यह अंतरराष्ट्रीय मान्यता का गौरव था, वास्तव में इसने रेस्तरां उद्योग के अस्तित्व के नियमों को पुनर्परिभाषित किया—\"लगभग योग्य\" रेस्तरां सबसे बड़े शिकार बन गए।",
+    "title": "ताइवान मिशेलिन: सितारों के नीचे की कीमत और पुन:परिभाषा",
+    "description": "2018 में मिशेलिन ताइवान पहुंचा, जो सतह पर अंतरराष्ट्रीय मान्यता का गौरव था, लेकिन इसने खाद्य उद्योग के अस्तित्व के नियमों को फिर से परिभाषित किया—'लगभग योग्य' रेस्तरां सबसे बड़े शिकार बन गए।",
     "category": "hi",
     "tags": [],
     "url": "https://taiwan.md/hi/food/taiwan-michelin-fine-dining",
-    "readingTime": 74,
+    "readingTime": 84,
     "featured": true,
     "date": "2026-03-23",
     "path": "hi/Food/taiwan-michelin-fine-dining.md"
@@ -156999,12 +157025,12 @@
     "path": "hi/Technology/taiwan-mobile-payment.md"
   },
   {
-    "title": "ताइवान राष्ट्रीय दर्शनीय क्षेत्र प्रणाली",
-    "description": "एक \"राष्ट्रीय-स्तरीय\" लेबल के तहत पर्यटन-प्राथमिकता प्रयोग: 13 दर्शनीय क्षेत्र संरक्षण और विकास के बीच कैसे संतुलन साधते हैं",
+    "title": "ताइवान राष्ट्रीय परिदृश्य क्षेत्र प्रणाली",
+    "description": "एक \"राष्ट्रीय स्तर\" टैग के तहत पर्यटन-प्राथमिक प्रयोग: संरक्षण और विकास के बीच 13 परिदृश्य क्षेत्रों ने रस्सी पर संतुलन कैसे साधा",
     "category": "hi",
     "tags": [],
     "url": "https://taiwan.md/hi/geography/national-scenic-area-system",
-    "readingTime": 44,
+    "readingTime": 50,
     "featured": true,
     "date": "2026-03-23",
     "path": "hi/Geography/national-scenic-area-system.md"
@@ -158221,12 +158247,12 @@
     "path": "hi/Culture/blue-white-slippers.md"
   },
   {
-    "title": "नेशनल स्पेस सेंटर: एक ऐसे देश के लिए अंतरिक्ष एजेंसी बनाना जिसमें नाम भी पूरा नहीं था, तैंतीस साल लगे",
-    "description": "1991 में इसका नाम 'तैयारी कार्यालय' था, कोई नाम नहीं, कोई रॉकेट नहीं, अपनी जमीन भी नहीं थी। तैंतीस साल बाद इसने ताइवान को नाम में वापस लाया है; अब शिनचू का नियंत्रण केंद्र 24 घंटे नौ उपग्रहों की धड़कन पर नज़र रखता है; 0403 हुआ हुआलिन भूकंप के दिन, इसने भूकंप के छह मिनट बाद मिशन रीसेट किया और तीन घंटे तक इमेजिंग की। यह अंतिम टुकड़ा जोड़ रहा है - एक स्वदेशी कक्षीय रॉकेट, और चंद्रमा मिशन जो पहले ही अनुमोदित हो चुका है और सबसे जल्दी 2028 में लॉन्च होगा।",
+    "title": "नेशनल स्पेस सेंटर: एक ऐसे देश के लिए अंतरिक्ष एजेंसी बनाना जिसमें नाम भी पूरा नहीं हुआ था, तीस-दो साल लगे",
+    "description": "1991 में इसका नाम 'तैयारी कार्यालय' था, जिसका कोई नाम, रॉकेट या अपनी ज़मीन नहीं थी। तीस-दो साल बाद इसने ताइवान को नाम में वापस लाया; अब शिनचू का नियंत्रण केंद्र चौबीसों घंटे नौ उपग्रहों की धड़कन पर नज़र रखता है; 0403 हुआ हुआलिन भूकंप के दिन, इसने भूकंप के छह मिनट बाद मिशन रीसेट किया और तीन घंटे तक इमेजिंग की। यह अंतिम टुकड़ा जोड़ रहा है—एक अपना कक्षीय रॉकेट, और एक चंद्रमा मिशन जो पहले ही अनुमोदित हो चुका है और जिसकी लॉन्चिंग सबसे जल्दी 2028 में होने वाली है।",
     "category": "hi",
     "tags": [],
     "url": "https://taiwan.md/hi/technology/tasa-taiwan-space-agency",
-    "readingTime": 284,
+    "readingTime": 286,
     "featured": true,
     "date": "2026-06-04",
     "path": "hi/Technology/tasa-taiwan-space-agency.md"
@@ -164407,17 +164433,6 @@
     "path": "ko/History/great-recall-movement-2024.md"
   },
   {
-    "title": "대동군: 두 개의 섬, 하나는 30년간 정치적 억압, 다른 하나는 40년간 핵폐기물 저장",
-    "description": "대동군의 21만 명의 주민들은 3,515㎢ 넓은 땅에 흩어져 살고 있으며, 인구 밀도는 전국 최저로, 1㎢당 평균 60명만이 거주한다. 이는 베이징의 1/100에 불과하다. 그러나 이 군은 조선 시대의 가장 오래된 인간 집적지를 보유하고 있다(비남 유적, 5,300년 전 1,600개의 석관), 그리고 6개의 원주민 민족(아메이, 비남, 판윈, 루카이, 부농, 다우)이 거주하며, 원주민 비율은 37.5%로 전국 최고이다. 1951년에서 1987년까지, 그린섬의 화난 섬에서 정치적 억압이 약 30년간 이어졌다. 1982년 5월부터 란섬 용문에서 핵폐기물 수거가 시작되었고, 40여 년 후인 현재에도 97,672개의 통이 그곳에 남아 있다. 1968년 8월 25일, 홍엽 마을의 7명의 부농 어린이들이 일본 서부 소프트볼 명예팀을 7대 0으로 이겼다(그들은 세계 챔피언팀도 아니었다). 이겼다는 사실 자체가 기막한 거짓말이었고, 그 시작이었고, 이는 대만의 야구 전설의 시작이었다. 두 개의 섬이 한 번에 전체 섬의 대가를 짊어졌다.",
-    "category": "ko",
-    "tags": [],
-    "url": "https://taiwan.md/ko/geography/taitung-county",
-    "readingTime": 99,
-    "featured": false,
-    "date": "2026-05-18",
-    "path": "ko/Geography/taitung-county.md"
-  },
-  {
     "title": "대립광전(大立光電): 장인 정신이 아키텍처 혁명을 만났을 때",
     "description": "세계 최강 플라스틱 렌즈 기술을 보유한 대만의 숨은 챔피언, 기술이 가장 앞섰을 때 왜 중국 경쟁사에게 아이폰 수주를 빼앗겼나?",
     "category": "ko",
@@ -164562,17 +164577,6 @@
     "path": "ko/Nature/taiwan-alpine-ecosystems-glacial-relicts.md"
   },
   {
-    "title": "대만 공식 웹사이트 자원: 25개 사이트에서 디지털 정부 강국으로, 30년의 기적",
-    "description": "1996년 대만은 인터넷 세계박람회 참가를 위해 25개 정부 기관이 최초의 공식 웹사이트를 구축했다. 30년 후 이 섬은 글로벌 디지털 정부의 모범이 되었다. 온라인 세금 신고부터 단일 포털까지, 공개 데이터부터 AI 말뭉치까지, 대만이 공식 웹사이트로 디지털 전환의 전설을 어떻게 써내려갔는지 살펴본다.",
-    "category": "ko",
-    "tags": [],
-    "url": "https://taiwan.md/ko/about/taiwan-official-resources-revisit",
-    "readingTime": 30,
-    "featured": true,
-    "date": "2026-03-23",
-    "path": "ko/About/taiwan-official-resources-revisit.md"
-  },
-  {
     "title": "대만 공원과 일상 여가",
     "description": "새벽 태극권부터 야간 산책까지 — 세대를 아우르는 사교 공간으로서의 대만 공원 문화 관찰",
     "category": "ko",
@@ -164612,17 +164616,6 @@
     "path": "ko/Society/taiwan-teacher-discipline-dilemma.md"
   },
   {
-    "title": "대만 교육 제도: 입시 지옥에서 다원화 미로까지, 섬의 실험",
-    "description": "대만은 30년에 걸쳐 수능 제도를 폐지하려 했지만, 새로운 분과 시험이 오히려 재수학원 수를 두 배로 늘렸다. 이 섬은 입시 압박과 교육 평등 사이에서 끊임없이 사회 실험을 반복하고 있다.",
-    "category": "ko",
-    "tags": [],
-    "url": "https://taiwan.md/ko/lifestyle/taiwan-education-system",
-    "readingTime": 33,
-    "featured": true,
-    "date": "2026-03-23",
-    "path": "ko/Lifestyle/taiwan-education-system.md"
-  },
-  {
     "title": "대만 교통 시스템: 한 섬이 어떻게 자신을 90분으로 압축했는가",
     "description": "1946년 대만은 하룻밤 사이에 좌측 통행에서 우측 통행으로 바뀌었다. 중앙산맥이 남북 273km에 걸쳐 관통하며 36,000km²의 섬을 동서 양분했다. 60년 후 고속철도가 394km를 90분으로 압축했고, 설산터널이 이란을 2시간 거리에서 40분으로 줄였다. 다시 10년 후, 1,400만 대의 오토바이가 모든 교차로를 메웠다. 이 섬의 교통 이야기는 곧 그 정체성의 이야기다.",
     "category": "ko",
@@ -164632,23 +164625,6 @@
     "featured": true,
     "date": "2026-04-26",
     "path": "ko/Lifestyle/transportation-system.md"
-  },
-  {
-    "title": "대만 국가풍경구 시스템",
-    "description": "\"국가급\" 타이틀 아래 펼쳐진 관광 우선 실험: 13개 풍경구는 어떻게 보전과 개발 사이에서 줄타기를 하고 있나",
-    "category": "ko",
-    "tags": [
-      "국가풍경구",
-      "관광정책",
-      "환경보전",
-      "지속가능관광",
-      "국토계획"
-    ],
-    "url": "https://taiwan.md/ko/geography/national-scenic-area-system",
-    "readingTime": 22,
-    "featured": true,
-    "date": "2026-03-23",
-    "path": "ko/Geography/national-scenic-area-system.md"
   },
   {
     "title": "대만 궈웨(國樂): 중국 악기 위에서 자라난 섬의 소리",
@@ -165436,7 +165412,7 @@
     "url": "https://taiwan.md/ko/food/taiwan-food-overview",
     "readingTime": 120,
     "featured": true,
-    "date": "2026-05-18",
+    "date": "2026-05-27",
     "path": "ko/Food/taiwan-food-overview.md"
   },
   {
@@ -170176,24 +170152,6 @@
     "path": "ko/Culture/traditional-festivals-and-celebrations.md"
   },
   {
-    "title": "역슬래시(反斜線)가 숨겨진 '功(공)' 자 안의 두 층위: 타이완 엔지니어들이 매일 지불하는 기본 세금",
-    "description": "중국어(zh-TW) Windows 11 환경에서 번역 상태 스크립트가 4,000개 이상의 경로를 루트(root)로 분류하는 오류를 발생시키는 과정. 기술 분류가 0이 되는 원인은 스크립트의 슬래시 분리 방식과 디스크의 역슬래시 불일치, 그리고 Big5 인코딩의 '功' 자가 ASCII 역슬래시와 충돌하는 이중적 구조에 있다.",
-    "category": "ko",
-    "tags": [
-      "오픈소스",
-      "Windows",
-      "Big5",
-      "UTF-8",
-      "문자 인코딩",
-      "번체 중국어"
-    ],
-    "url": "https://taiwan.md/ko/technology/backslash-in-cjk-fonts",
-    "readingTime": 22,
-    "featured": false,
-    "date": "2026-08-13",
-    "path": "ko/Technology/backslash-in-cjk-fonts.md"
-  },
-  {
     "title": "연배 인사 이미지: 연꽃과 부처님 뒤에 숨겨진 디지털 다정함과 정보 전장",
     "description": "연배 인사 이미지는 대만 노년층이 디지털 격차를 넘어선 증거이자 소셜 플랫폼에서 정서를 교류하는 매개체이지만, 그 독특한 형식은 허위 정보 확산의 온상이 되기도 하며, 젊은 세대 사이에서는 고유한 밈(meme) 문화로 변모하기도 한다.",
     "category": "ko",
@@ -173463,6 +173421,17 @@
     "path": "ko/People/george-leslie-mackay.md"
   },
   {
+    "title": "타이둥현: 두 개의 외딴섬, 하나는 30년 가까이 정치범을 수감했고 다른 하나는 40년 넘게 핵폐기물을 보관하고 있다",
+    "description": "타이둥현은 21만 명이 3,515 제곱킬로미터에 흩어져 있어 전국에서 인구 밀도가 가장 낮으며, 제곱킬로미터당 60명으로 타이베이의 1% 수준이다. 그러나 이 현에는 대만에서 가장 오래된 인간 정착지(비난 유적, 5,300년 전 1,600개의 석관)가 있으며, 아메, 비난, 파완, 루카이, 부농, 다투 등 여섯 개 원주민족이 거주하고 있어 원주민 인구 비율이 37.5%로 전국 최고 수준이다. 1951년부터 1987년까지 녹도와 화소도는 약 30년간 정치범을 수감했다. 1982년 5월부터 난여의 용문은 핵폐기물을 받기 시작했으며, 40년이 넘도록 97,672개 통이 그곳에 남아 있다. 1968년 8월 25일, 홍엽촌의 일곱 부농족 아이들이 일본 간사이 소년 야구 스타팀(세계 챔피언팀은 아님)을 7대0으로 꺾으면서 대만의 야구 신화는 이 속임수에서 시작되었다. 두 개의 외딴섬이 한 섬 전체의 희생을 감당하고 있다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/geography/taitung-county",
+    "readingTime": 103,
+    "featured": false,
+    "date": "2026-05-18",
+    "path": "ko/Geography/taitung-county.md"
+  },
+  {
     "title": "타이베이 101: ‘감시견’에서 ‘금빛 뱀’까지, 한 랜드마크의 정경과 풍수 도박",
     "description": "타이베이 101은 단순한 건물이 아니라, 천수이볜과 펑 화이난의 정경 게임, 이조원(李祖原)의 풍수 실험이며, 알렉스 호놀드가 정복한 ‘대마왕’이다. 59층에서 101층으로의 변천을 통해 이 ‘보물그릇’ 뒤에 숨은 권력과 신비를 밝힌다.",
     "category": "ko",
@@ -173736,6 +173705,17 @@
     "path": "ko/resources/official-websites.md"
   },
   {
+    "title": "타이완 공식 웹사이트 자원: 25개 사이트에서 디지털 정부 강국까지의 30년 기적",
+    "description": "1995년 여름, 행정원은 다음 해 인터넷 월드 엑스포 참가를 결정했고, 25개 중앙 기관과 현 정부가 최초의 정부 웹사이트를 구축했다. 이후 30년간 타이완은 온라인 세금 신고, 공문 전자 교환, 정부 데이터 개방 플랫폼을 갖추게 되었으며, 2021년 IMD 세계 디지털 경쟁력 상위 10위권에 처음 진입했다. 본문에는 영역별 공식 웹사이트 목록이 첨부되어 있다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/about/taiwan-official-resources-revisit",
+    "readingTime": 38,
+    "featured": true,
+    "date": "2026-03-23",
+    "path": "ko/About/taiwan-official-resources-revisit.md"
+  },
+  {
     "title": "타이완 과자 문화",
     "description": "1877년 루강 위전재(玉珍齋)의 봉안糕(鳳眼糕)부터 2026년 천야오쉰(陳耀訓) 토위안 입장 시스템에서 30초 만에 완판된 홍투 단황수(紅土蛋黃酥)까지, 타이완 과자 150년의 이야기. 그 사이에는 일치 시대 이푸당(一福堂)의 사각형 파인애플 수프 혁명, 펑위안 바오취안(寶泉)의 올리브형 단황수 실험, 바구아산(八卦山) 아래 270헥타르 토파인애플 계약 재배, 유피포함유수(油皮包油酥)의 공예적 변혁, 그리고 백년 한과(漢餅) 전문점이 세계 빵 챔피언과 같은 추석 식탁에 나란히 서는 장면이 있다.",
     "category": "ko",
@@ -173797,6 +173777,17 @@
     "path": "ko/Culture/schoolyard-rhymes.md"
   },
   {
+    "title": "타이완 교육 제도: 수능 지옥에서 다원화 미궁으로의 섬 실험",
+    "description": "타이완은 30년간 수능 제도를 타파하려 했으나, 남양가(南陽街)의 재수 학원은 48곳에서 3곳으로 줄어든 반면, 문과/이과 보습 학원은 신 교육 과정 도입 후 960곳 증가했다. 한 섬은 어떻게 입시 압박과 교육 형평성 사이를 반복적으로 사회 실험하고 있는가?",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/lifestyle/taiwan-education-system",
+    "readingTime": 41,
+    "featured": true,
+    "date": "2026-03-23",
+    "path": "ko/Lifestyle/taiwan-education-system.md"
+  },
+  {
     "title": "타이완 구어 암호: '부끄럽다'에서 'D를 돼지로 읽기'까지, 네 가지 일상적 표현이 어떻게 정체성을 형성하는가",
     "description": "타이완에서 '부끄럽다(부하오이쓰)'는 실제 사과보다 먼저 올 수 있으며, '하(하)'는 이해하지 못한 듯 보이지만 교차 언어적으로 존재하는 대화 복구 수단이다. @는 '작은 쥐'로 불리고, D는 시험지 교환 시 '돼지/주'로 읽힌다. 네 가지 표현은 예의, 오해, 이메일, 대만어 음운을 일상에 숨기며, 우리가 말하는 '타이완 발음'이 단순한 발음 규칙이 아니라 함께 사는 사람들이 남긴 식별 방법임을 일깨워준다.",
     "category": "ko",
@@ -173812,6 +173803,23 @@
     "featured": false,
     "date": "2026-08-20",
     "path": "ko/Culture/taiwanese-colloquial-speech.md"
+  },
+  {
+    "title": "타이완 국가 풍경구 시스템",
+    "description": "‘국가급’ 태그 아래 펼쳐진 관광 우선 실험: 13개 풍경구가 보호와 개발 사이의 강선 위를 걷는다",
+    "category": "ko",
+    "tags": [
+      "국가 풍경구",
+      "관광 정책",
+      "환경 보호",
+      "지속 가능한 관광",
+      "국토 계획"
+    ],
+    "url": "https://taiwan.md/ko/geography/national-scenic-area-system",
+    "readingTime": 23,
+    "featured": true,
+    "date": "2026-03-23",
+    "path": "ko/Geography/national-scenic-area-system.md"
   },
   {
     "title": "타이완 국방과 군사 현대화",
@@ -174262,7 +174270,7 @@
   },
   {
     "title": "타이완 미슐랭: 별빛 아래의 대가와 재정의",
-    "description": "2018년 미슐랭이 타이완에 상륙했을 때, 겉으로는 국제적 인증의 영광이었으나 실제로는 외식업계의 생존 규칙을 재편했으며, '거의 자격이 된' 레스토랑들이 오히려 최대 피해자가 되었다.",
+    "description": "2018년 미슐랭이 타이완에 상륙했을 때, 겉으로는 국제적 인증의 영예였으나 실제로는 외식업계의 생존 규칙을 재편했으며, '거의 자격이 된' 레스토랑들이 오히려 가장 큰 피해를 입었다.",
     "category": "ko",
     "tags": [
       "미슐랭",

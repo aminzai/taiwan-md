@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-10-07T22:06:14.305Z",
+  "lastUpdated": "2026-10-08T22:06:59.052Z",
   "totalArticles": 1123,
   "contributors": 78,
   "stars": 1199,
   "forks": 187,
-  "articlesLast7Days": 41,
-  "articlesLast30Days": 104,
+  "articlesLast7Days": 49,
+  "articlesLast30Days": 103,
   "humanReviewedPercent": 17.8,
   "curation": {
     "verified": 2,
@@ -27,7 +27,7 @@
     "hi": 1123,
     "ar": 1123,
     "ru": 1123,
-    "de": 1123
+    "de": 1124
   },
   "bodyInternalLinks": {
     "zero_count": 938,

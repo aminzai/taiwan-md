@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-10-07T22:06:20.138Z",
+  "lastUpdated": "2026-10-08T22:07:05.098Z",
   "generator": "scripts/core/generate-dashboard-alerts.mjs",
   "note": "derived 警報層 — CONSCIOUSNESS §警報 的機械接管 (audit 2026-06-10 A-3)",
-  "count": 13,
+  "count": 10,
   "alerts": [
     {
       "id": "immune-status",
@@ -13,33 +13,17 @@
       "firstSeen": "2026-07-05"
     },
     {
-      "id": "routine-silent-taiwanmd-routine-twmd-feedback-triage",
-      "severity": "yellow",
-      "message": "routine taiwanmd-routine-twmd-feedback-triage 沉默死亡：2026-10-06T23:07 fire 後 23h 零 git 痕跡（fire≠完成，收屍看 working tree）",
-      "source": "routine-live-state.json × git log",
-      "owner": "taiwanmd-routine-twmd-feedback-triage",
-      "firstSeen": "2026-10-07"
-    },
-    {
       "id": "routine-silent-twmd-distill-weekly",
       "severity": "yellow",
-      "message": "routine twmd-distill-weekly 沉默死亡：2026-10-03T19:12 fire 後 98.9h 零 git 痕跡（fire≠完成，收屍看 working tree）",
+      "message": "routine twmd-distill-weekly 沉默死亡：2026-10-03T19:12 fire 後 122.9h 零 git 痕跡（fire≠完成，收屍看 working tree）",
       "source": "routine-live-state.json × git log",
       "owner": "twmd-distill-weekly",
       "firstSeen": "2026-10-07"
     },
     {
-      "id": "routine-silent-twmd-maintainer-daily",
-      "severity": "yellow",
-      "message": "routine twmd-maintainer-daily 沉默死亡：2026-10-07T00:30 fire 後 21.6h 零 git 痕跡（fire≠完成，收屍看 working tree）",
-      "source": "routine-live-state.json × git log",
-      "owner": "twmd-maintainer-daily",
-      "firstSeen": "2026-10-07"
-    },
-    {
       "id": "routine-silent-twmd-news-lens-weekly",
       "severity": "yellow",
-      "message": "routine twmd-news-lens-weekly 沉默死亡：2026-10-03T17:01 fire 後 101.1h 零 git 痕跡（fire≠完成，收屍看 working tree）",
+      "message": "routine twmd-news-lens-weekly 沉默死亡：2026-10-03T17:01 fire 後 125.1h 零 git 痕跡（fire≠完成，收屍看 working tree）",
       "source": "routine-live-state.json × git log",
       "owner": "twmd-news-lens-weekly",
       "firstSeen": "2026-10-07"
@@ -47,7 +31,7 @@
     {
       "id": "routine-silent-twmd-routine-audit-weekly",
       "severity": "yellow",
-      "message": "routine twmd-routine-audit-weekly 沉默死亡：2026-10-04T13:05 fire 後 81h 零 git 痕跡（fire≠完成，收屍看 working tree）",
+      "message": "routine twmd-routine-audit-weekly 沉默死亡：2026-10-04T13:05 fire 後 105h 零 git 痕跡（fire≠完成，收屍看 working tree）",
       "source": "routine-live-state.json × git log",
       "owner": "twmd-routine-audit-weekly",
       "firstSeen": "2026-10-07"
@@ -55,23 +39,15 @@
     {
       "id": "routine-silent-twmd-self-evolve-weekly",
       "severity": "yellow",
-      "message": "routine twmd-self-evolve-weekly 沉默死亡：2026-10-03T20:07 fire 後 98h 零 git 痕跡（fire≠完成，收屍看 working tree）",
+      "message": "routine twmd-self-evolve-weekly 沉默死亡：2026-10-03T20:07 fire 後 122h 零 git 痕跡（fire≠完成，收屍看 working tree）",
       "source": "routine-live-state.json × git log",
       "owner": "twmd-self-evolve-weekly",
       "firstSeen": "2026-10-07"
     },
     {
-      "id": "routine-silent-twmd-spore-harvest-am",
-      "severity": "yellow",
-      "message": "routine twmd-spore-harvest-am 沉默死亡：2026-10-06T22:39 fire 後 23.4h 零 git 痕跡（fire≠完成，收屍看 working tree）",
-      "source": "routine-live-state.json × git log",
-      "owner": "twmd-spore-harvest-am",
-      "firstSeen": "2026-10-07"
-    },
-    {
       "id": "routine-silent-twmd-supporters-weekly",
       "severity": "yellow",
-      "message": "routine twmd-supporters-weekly 沉默死亡：2026-10-04T17:14 fire 後 76.9h 零 git 痕跡（fire≠完成，收屍看 working tree）",
+      "message": "routine twmd-supporters-weekly 沉默死亡：2026-10-04T17:14 fire 後 100.9h 零 git 痕跡（fire≠完成，收屍看 working tree）",
       "source": "routine-live-state.json × git log",
       "owner": "twmd-supporters-weekly",
       "firstSeen": "2026-10-07"
@@ -79,7 +55,7 @@
     {
       "id": "routine-silent-twmd-terminology-trends-monthly",
       "severity": "yellow",
-      "message": "routine twmd-terminology-trends-monthly 沉默死亡：2026-10-05T02:35 fire 後 67.5h 零 git 痕跡（fire≠完成，收屍看 working tree）",
+      "message": "routine twmd-terminology-trends-monthly 沉默死亡：2026-10-05T02:35 fire 後 91.5h 零 git 痕跡（fire≠完成，收屍看 working tree）",
       "source": "routine-live-state.json × git log",
       "owner": "twmd-terminology-trends-monthly",
       "firstSeen": "2026-10-07"
@@ -87,7 +63,7 @@
     {
       "id": "routine-silent-twmd-weekly-report-sun",
       "severity": "yellow",
-      "message": "routine twmd-weekly-report-sun 沉默死亡：2026-10-03T18:03 fire 後 100h 零 git 痕跡（fire≠完成，收屍看 working tree）",
+      "message": "routine twmd-weekly-report-sun 沉默死亡：2026-10-03T18:03 fire 後 124.1h 零 git 痕跡（fire≠完成，收屍看 working tree）",
       "source": "routine-live-state.json × git log",
       "owner": "twmd-weekly-report-sun",
       "firstSeen": "2026-10-07"
@@ -95,7 +71,7 @@
     {
       "id": "observer-absent",
       "severity": "yellow",
-      "message": "觀察者缺席 12 天 — 缺席協議生效（到期預設必執行／🔒閾值類可代理）",
+      "message": "觀察者缺席 13 天 — 缺席協議生效（到期預設必執行／🔒閾值類可代理）",
       "source": "observer-presence.py",
       "owner": "twmd-weekly-report-sun",
       "firstSeen": "2026-10-02"
@@ -103,7 +79,7 @@
     {
       "id": "probe-stale",
       "severity": "yellow",
-      "message": "探測器落後 10 天（最新 reports/probe/2026-09-27.md）> 9 天 — news-lens-weekly 漏跑一週，向外看的眼睛閉著",
+      "message": "探測器落後 11 天（最新 reports/probe/2026-09-27.md）> 9 天 — news-lens-weekly 漏跑一週，向外看的眼睛閉著",
       "source": "reports/probe/",
       "owner": "twmd-news-lens-weekly",
       "firstSeen": "2026-10-07"

@@ -1,8 +1,80 @@
 {
-  "_generated": "2026-10-07T22:06:34.295Z",
+  "_generated": "2026-10-08T22:07:18.379Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
+      {
+        "title": "台灣教育制度：從聯考地獄到多元迷宮的島嶼實驗",
+        "desc": "台灣花30年想破除聯考制度，南陽街的重考班從48家剩下3家，文理補習班卻在新課綱上路後多了960家。一個島嶼如何在升學壓力與教育公平之間，反覆進行社會實驗？",
+        "category": "lifestyle",
+        "href": "/lifestyle/%E5%8F%B0%E7%81%A3%E6%95%99%E8%82%B2%E5%88%B6%E5%BA%A6",
+        "date": "2026-10-09T02:59:37+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "國家太空中心：花三十二年，替一個還沒湊齊名字的國家湊齊一個太空署",
+        "desc": "1991 年它叫「籌備處」，沒有名字、沒有火箭、沒有自己的地。三十二年後它把 Taiwan 放回名字裡，現在新竹的操控中心 24 小時追著九顆衛星的心跳；0403 花蓮地震那天，它在震後六分鐘重設任務、三小時取像。它正在補上最後一塊零件——一枚自己的入軌火箭，還有一個已經核定、最快 2028 上路的月球任務。",
+        "category": "technology",
+        "href": "/technology/%E5%9C%8B%E5%AE%B6%E5%A4%AA%E7%A9%BA%E4%B8%AD%E5%BF%83",
+        "date": "2026-10-08T20:55:16+08:00",
+        "readingTime": 28,
+        "image": "/article-images/technology/formosat8-tasa-banner.webp"
+      },
+      {
+        "title": "台灣眷村菜",
+        "desc": "1949大遷移帶來的各省味道，從竹籬笆內的廚房到眷村拆遷後的味覺保存",
+        "category": "food",
+        "href": "/food/%E5%8F%B0%E7%81%A3%E7%9C%B7%E6%9D%91%E8%8F%9C",
+        "date": "2026-10-08T20:55:14+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "台灣美食總覽：沒有一道菜是純粹台灣的，每一道菜都是最台灣的",
+        "desc": "1949 年的嘉義噴水池圓環旁，林添壽把雞肉切片鋪在白飯上、淋上閩南滷汁；戰後駐台美軍進駐水上機場後帶大量火雞來台，這碗才從雞肉飯演化成火雞肉飯。從原住民石板烤山豬、客家薑絲炒大腸、眷村川味牛肉麵到 1986 年台中發明的珍珠奶茶，再到 2025 年米其林收進的 419 家餐廳。這座島嶼花了四百年把每一道借來的菜煮成自己的方式。",
+        "category": "food",
+        "href": "/food/%E5%8F%B0%E7%81%A3%E7%BE%8E%E9%A3%9F%E7%B8%BD%E8%A6%BD",
+        "date": "2026-10-08T14:49:28+08:00",
+        "readingTime": null,
+        "image": "/article-images/food/taiwan-food-overview-raohe-night-market-2023.webp"
+      },
+      {
+        "title": "台灣米其林：星光下的代價與重新定義",
+        "desc": "2018 年米其林登陸台灣，表面上是國際認證的榮耀，實際上重新劃分了餐飲業的生存規則——「幾乎夠格」的餐廳，反而成了最大受害者。",
+        "category": "food",
+        "href": "/food/%E5%8F%B0%E7%81%A3%E7%B1%B3%E5%85%B6%E6%9E%97%E8%88%87%E7%B2%BE%E7%B7%BB%E9%A4%90%E9%A3%B2",
+        "date": "2026-10-08T14:49:08+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "台灣全齡共融旅遊與生活文化：當人情味成為最強的無障礙設施",
+        "desc": "從家庭視角觀察台灣社會如何透過人情味與共融設施，在邁向超高齡社會的路上，重新定義「一家人一起旅行」的意義。",
+        "category": "society",
+        "href": "/society/%E5%8F%B0%E7%81%A3%E5%85%A8%E9%BD%A1%E5%85%B1%E8%9E%8D%E6%97%85%E9%81%8A%E8%88%87%E7%94%9F%E6%B4%BB%E6%96%87%E5%8C%96",
+        "date": "2026-10-08T08:52:47+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "台灣國家風景區系統",
+        "desc": "一個「國家級」標籤下的觀光優先實驗：13處風景區如何在保育與開發間走鋼索",
+        "category": "geography",
+        "href": "/geography/%E5%8F%B0%E7%81%A3%E5%9C%8B%E5%AE%B6%E9%A2%A8%E6%99%AF%E5%8D%80%E7%B3%BB%E7%B5%B1",
+        "date": "2026-10-08T08:52:45+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "台東縣：兩個離島，一個前後關了近三十年政治犯，一個存了四十多年核廢料",
+        "desc": "台東縣 21 萬人散在 3,515 平方公里上，全國最低密度，每平方公里只住 60 個人，是台北的百分之一。但這個縣藏著台灣最早的人類聚落（卑南遺址 5,300 年前 1,600 具石棺）、住著六個原住民族（阿美、卑南、排灣、魯凱、布農、達悟）、原住民人口比例 37.5% 全台最高。1951 到 1987 年間，綠島火燒島前後關押政治犯近三十年。1982 年 5 月起，蘭嶼龍門開始接收核廢料，四十多年後 97,672 桶還在那裡。1968 年 8 月 25 日，紅葉村七個布農族孩子以七比零打敗日本關西少棒明星隊（不是世界冠軍隊），台灣棒球國球神話從這場欺瞞開始。兩個離島承擔了一整座島的代價。",
+        "category": "geography",
+        "href": "/geography/%E5%8F%B0%E6%9D%B1%E7%B8%A3",
+        "date": "2026-10-08T08:42:18+08:00",
+        "readingTime": 15,
+        "image": "/article-images/geography/taitung-county-montage.webp"
+      },
       {
         "title": "台灣捷運發展史：一部用血與錢寫成的城市進化論",
         "desc": "209 噸鋼梁從天而降奪走 4 條人命，16.4 億賠款，連運量最高的台北捷運，票箱收入都付不起營運成本——全台捷運背後的真實代價",
@@ -11,15 +83,6 @@
         "date": "2026-10-08T03:02:27+08:00",
         "readingTime": 15,
         "image": ""
-      },
-      {
-        "title": "台東縣：兩個離島，一個前後關了近三十年政治犯，一個存了四十多年核廢料",
-        "desc": "台東縣 21 萬人散在 3,515 平方公里上，全國最低密度，每平方公里只住 60 個人，是台北的百分之一。但這個縣藏著台灣最早的人類聚落（卑南遺址 5,300 年前 1,600 具石棺）、住著六個原住民族（阿美、卑南、排灣、魯凱、布農、達悟）、原住民人口比例 37.5% 全台最高。1951 到 1987 年間，綠島火燒島前後關押政治犯近三十年。1982 年 5 月起，蘭嶼龍門開始接收核廢料，四十多年後 97,672 桶還在那裡。1968 年 8 月 25 日，紅葉村七個布農族孩子以七比零打敗日本關西少棒明星隊（不是世界冠軍隊），台灣棒球國球神話從這場欺瞞開始。兩個離島承擔了一整座島的代價。",
-        "category": "geography",
-        "href": "/geography/%E5%8F%B0%E6%9D%B1%E7%B8%A3",
-        "date": "2026-10-08T02:46:24+08:00",
-        "readingTime": 15,
-        "image": "/article-images/geography/taitung-county-montage.webp"
       },
       {
         "title": "台灣同婚與性別平權",
@@ -209,69 +272,6 @@
         "date": "2026-10-02T21:00:02+08:00",
         "readingTime": 8,
         "image": "/article-images/food/classic-bubble-tea-2013.webp"
-      },
-      {
-        "title": "台灣國際貿易政策：在全球化浪潮中尋找定位",
-        "desc": "2024 年對中國大陸與香港出口占比降到 31.7%，美國升為第二大市場。正式 FTA 只剩巴拿馬與瓜地馬拉，CPTPP 申請卡在門口，突破集中在台美 21 世紀貿易倡議、台英 ETP 與 2026 年的對等貿易協定。這篇整理台灣在外交空間受限的處境下，怎麼用一份份雙邊協定替出口經濟找出路。",
-        "category": "economy",
-        "href": "/economy/%E5%8F%B0%E7%81%A3%E5%9C%8B%E9%9A%9B%E8%B2%BF%E6%98%93%E6%94%BF%E7%AD%96",
-        "date": "2026-10-02T14:58:08+08:00",
-        "readingTime": 16,
-        "image": ""
-      },
-      {
-        "title": "台灣藝術教育與學院發展",
-        "desc": "1955 年的國立藝術學校、1982 年的國立藝術學院、1996 年的國立台南藝術學院，三條各自升格的校史，加上師大美術系一路培養的中小學美術老師，構成台灣藝術教育的雙軌。從日治師範教育到三所藝術大學，看體制怎麼一步步長出來。",
-        "category": "art",
-        "href": "/art/%E5%8F%B0%E7%81%A3%E8%97%9D%E8%A1%93%E6%95%99%E8%82%B2%E8%88%87%E5%AD%B8%E9%99%A2%E7%99%BC%E5%B1%95",
-        "date": "2026-10-02T14:55:33+08:00",
-        "readingTime": 11,
-        "image": ""
-      },
-      {
-        "title": "數位身分證與數位政府",
-        "desc": "2021 年喊停的晶片身分證，三年後以約 2.8 億元調解收場；前一年，公民黑客用不到一週做出口罩地圖。從 New eID、愛沙尼亞到 vTaiwan，台灣數位政府的故事，是信任比技術更難建立的證明。",
-        "category": "technology",
-        "href": "/technology/%E6%95%B8%E4%BD%8D%E8%BA%AB%E5%88%86%E8%AD%89%E8%88%87%E6%95%B8%E4%BD%8D%E6%94%BF%E5%BA%9C",
-        "date": "2026-10-02T14:49:48+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "台灣電動車產業鏈發展",
-        "desc": "從電池技術到充電基礎設施，探索台灣電動車產業的完整生態系與2030淨零轉型策略",
-        "category": "technology",
-        "href": "/technology/%E5%8F%B0%E7%81%A3%E9%9B%BB%E5%8B%95%E8%BB%8A%E7%94%A2%E6%A5%AD%E9%8F%88%E7%99%BC%E5%B1%95",
-        "date": "2026-10-02T08:59:57+08:00",
-        "readingTime": 14,
-        "image": ""
-      },
-      {
-        "title": "台灣軟體產業發展",
-        "desc": "從代工思維到軟體創新，台灣如何在後半導體時代找到新定位",
-        "category": "technology",
-        "href": "/technology/%E5%8F%B0%E7%81%A3%E8%BB%9F%E9%AB%94%E7%94%A2%E6%A5%AD%E7%99%BC%E5%B1%95",
-        "date": "2026-10-02T08:55:14+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "台灣遊戲產業與數位娛樂",
-        "desc": "從早期代理商到原創開發商，台灣如何在全球遊戲市場中找到自己的聲音",
-        "category": "technology",
-        "href": "/technology/%E5%8F%B0%E7%81%A3%E9%81%8A%E6%88%B2%E7%94%A2%E6%A5%AD%E8%88%87%E6%95%B8%E4%BD%8D%E5%A8%9B%E6%A8%82",
-        "date": "2026-10-02T08:55:04+08:00",
-        "readingTime": 11,
-        "image": ""
-      },
-      {
-        "title": "社會住宅與居住正義",
-        "desc": "台灣如何透過社會住宅政策實現居住正義，讓每個人都有安身立命的地方",
-        "category": "society",
-        "href": "/society/%E7%A4%BE%E6%9C%83%E4%BD%8F%E5%AE%85%E8%88%87%E5%B1%85%E4%BD%8F%E6%AD%A3%E7%BE%A9",
-        "date": "2026-10-02T03:00:50+08:00",
-        "readingTime": 13,
-        "image": ""
       }
     ],
     "en": [
@@ -575,8 +575,8 @@
         "image": ""
       },
       {
-        "title": "台湾のミシュラン：星光の下の代価と再定義",
-        "desc": "2018年、ミシュランが台湾に上陸したのは、表面上は国際認証の栄誉のように見えたが、実は台湾の飲食業の生存ルールを再び分けることになった——「ほぼ合格」のレストランこそが最大の犠牲者となった。",
+        "title": "台湾のミシュラン：星光の下での代償と再定義",
+        "desc": "2018年にミシュランが台湾に上陸した際、それは国際的な認証という名目の栄誉でしたが、実際には飲食業界の生存規則を再編しました。「ほぼ合格」だったレストランこそが最大の被害者となりました。",
         "category": "food",
         "href": "/ja/food/taiwan-michelin-fine-dining",
         "date": "2026-10-03T01:29:48+08:00",
@@ -1490,8 +1490,8 @@
         "image": ""
       },
       {
-        "title": "Gastronomie taïwanaise : Aucune cuisine n'est purement taïwanaise, chaque plat est le plus taïwanais",
-        "desc": "En 1949, près du rond-point du jet d'eau de Chiayi, Lin Tianshou a découpé du poulet, l'a posé sur du riz blanc et l'a nappé de sauce braisée minnan ; après l'arrivée des troupes américaines à la base aérienne de Shuisui, qui ont ramené d'importantes quantités de dinde, ce plat est passé du riz au poulet au riz à la dinde. Des porcs de montagne grillés sur pierre chez les autochtones aux intestins épicés des Hakka, en passant par les nouilles au bœuf du Sichuan des villages militaires et le thé aux perles inventé à Taichung en 1986, jusqu'aux 419 restaurants du guide Michelin en 2025. Cette île a mis quatre cents ans pour transformer chaque plat emprunté à sa propre manière.",
+        "title": "Aperçu de la gastronomie taïwanaise : aucun plat n'est purement taïwanais, chacun est le plus taïwanais possible",
+        "desc": "En 1949, près du bassin fontaine de Chiayi, Lin Tian-shou a servi des tranches de poulet sur du riz blanc arrosées de sauce mijotée Minnan ; après l'arrivée des troupes américaines à Taïwan et leur transport de dindes au tarmac de l'aéroport, ce plat est passé du riz au poulet au riz à la dinde. Des porcs sauvages grillés sur pierre autochtones, aux intestins sautés à l'ail Hakka, en passant par les nouilles de bœuf Sichuan des villages militaires, jusqu'au thé au lait perlé inventé à Taichung en 1986, et les 419 restaurants répertoriés par le Michelin en 2025. Cette île a mis quatre siècles à cuisiner chaque plat emprunté d'une manière qui lui est propre.",
         "category": "food",
         "href": "/fr/food/taiwan-food-overview",
         "date": "2026-09-28T06:40:58+08:00",
@@ -2252,8 +2252,8 @@
         "image": ""
       },
       {
-        "title": "Taittung: Duas ilhas remotas, um com prisioneiros políticos por quase trinta anos e outro com resíduos nucleares há mais de quarenta anos",
-        "desc": "O condado de Taittung tem 210.000 habitantes espalhados por 3.515 quilômetros quadrados, a menor densidade do país, com apenas 60 pessoas por quilômetro quadrado, ou um por cento de Taipei. No entanto, este condado abriga os mais antigos assentamentos humanos de Taiwan (Sítio Beinan, há 5.300 anos, com 1.600 sarcófagos), e seis povos indígenas (Amis, Paiwan, Rukai, Bunun, Atayal e Yami), com uma proporção indígena de 37,5%, a mais alta de Taiwan. Entre 1951 e 1987, as ilhas Green Island e Hikundi abrigaram prisioneiros políticos por quase trinta anos. A partir de maio de 1982, Lan Yu/Lanyu começou a receber resíduos nucleares, e depois de mais de quarenta anos, 97.672 barris ainda estão lá. Em 25 de agosto de 1968, sete crianças Bunun da Vila Hongye derrotaram o time estrela Kansai do Japão (que não era campeão mundial) com uma pontuação de sete a zero, e o mito nacional do beisebol taiwanês começou com este engano. As duas ilhas carregam o preço de toda a ilha.",
+        "title": "Taittung: Duas ilhas remotas, um com presos políticos por quase trinta anos e outro com resíduos nucleares há mais de quarenta anos",
+        "desc": "O condado de Taittung tem 210.000 habitantes espalhados por 3.515 quilômetros quadrados, a menor densidade do país, com apenas 60 pessoas por quilômetro quadrado, um décimo da capital Taipei. No entanto, este condado abriga os mais antigos assentamentos humanos de Taiwan (Sítio Beinan, há 5.300 anos, com 1.600 sarcófagos de pedra) e seis grupos indígenas (Amis, Beinan, Paiwan, Rukai, Bunun, Atayal), com uma proporção indígena de 37,5%, a mais alta de Taiwan. Entre 1951 e 1987, as ilhas Green Island e Huo Xiao Island detiveram presos políticos por quase trinta anos. A partir de maio de 1982, Lan Yu Longmen começou a receber resíduos nucleares, e depois de mais de quarenta anos, 97.672 barris ainda estão lá. Em 25 de agosto de 1968, sete crianças Bunun da Vila Hongye derrotaram as estrelas do time Kansai japonês (que não era um campeão mundial) com uma pontuação de sete a zero, e o mito nacional do beisebol taiwanês começou com este engano. As duas ilhas carregam o preço de uma ilha inteira.",
         "category": "geography",
         "href": "/pt/geography/taitung-county",
         "date": "2026-09-28T18:42:40+08:00",
@@ -2724,6 +2724,15 @@
     ],
     "ar": [
       {
+        "title": "تطور تايوان الحضري والفجوة بين الحضر والريف",
+        "desc": "خلال 70 عامًا تحولت تايوان من جزيرة زراعية إلى جزيرة حضرية، حيث تتركز 70% من السكان في المدن الست الكبرى: ضوء تايتشونغ المزدهر مقابل ظلام يونلين الذابلة، مقارنة قاسية.",
+        "category": "geography",
+        "href": "/ar/geography/taiwan-urban-development-and-rural-urban-divide",
+        "date": "2026-10-08T09:10:16+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
         "title": "تطور سلسلة صناعة السيارات الكهربائية في تايوان",
         "desc": "استكشاف النظام البيئي الكامل للسيارات الكهربائية في تايوان، من تقنيات البطاريات إلى البنية التحتية للشحن واستراتيجية التحول الصفري بحلول عام 2030.",
         "category": "technology",
@@ -2983,15 +2992,6 @@
         "date": "2026-09-27T19:32:58+08:00",
         "readingTime": null,
         "image": "/article-images/people/tsai-2016-campaign.webp"
-      },
-      {
-        "title": "صناعة الرسوم المتحركة بالتعاقد الخارجي في تايوان",
-        "desc": "كانت تايوان مركزاً عالمياً رئيسياً للتعاقد الخارجي في الرسوم المتحركة، حيث تولت شركة وانغ فيلم برودكشنز إنتاج كلاسيكيات هوليوود، وبلغت حصة ذروة الإنتاج ثلث السوق العالمية.",
-        "category": "economy",
-        "href": "/ar/economy/taiwan-creator-economy",
-        "date": "2026-09-27T16:26:56+08:00",
-        "readingTime": 10,
-        "image": ""
       }
     ],
     "ru": [
@@ -3268,6 +3268,15 @@
     ],
     "de": [
       {
+        "title": "Die digitale Bild- und Animationsindustrie Taiwans",
+        "desc": "Der Wandel der digitalen Bildindustrie Taiwans: Vom größten Auftragsstudio der Welt zur aufstrebenden Kraft des Originalinhalts in einem halben Jahrhundert",
+        "category": "technology",
+        "href": "/de/technology/taiwan-digital-animation-industry",
+        "date": "2026-10-08T09:10:16+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
         "title": "Entwicklung der taiwanesischen Elektrofahrzeug-Industriekette",
         "desc": "Von Batterietechnologie bis Ladeinfrastruktur: Erkundung des vollständigen Ökosystems der taiwanesischen EV-Industrie und der 2030-Netto-Null-Transformationsstrategie",
         "category": "technology",
@@ -3524,15 +3533,6 @@
         "desc": "Im Jahr 1867 wurden 14 Menschen bei der Havarie des amerikanischen Handelsschiffes Rover auf der Halbinsel Hengchun von den Paiwan-Stämmen getötet. Der amerikanische Konsul Charles W. Le Gendre verhandelte achtmal mit Stammesführern und schloss ein Abkommen, das die Qing-Regierung nicht involvierte. Später nutzte er sein Wissen über Taiwan für Japan.",
         "category": "people",
         "href": "/de/people/charles-le-gendre",
-        "date": "2026-09-28T01:35:43+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "Robert Swinhoe: Wenn ein Diplomat zum Naturforscher wird",
-        "desc": "1856 landete ein 19-jähriger britischer Übersetzer an der Westküste Taiwans und notierte dort den ersten Vogel, den er sah. Vier Jahre später veröffentlichte er 52 wissenschaftliche Aufsätze und brachte die Welt erstmals darauf auf, welche Lebewesen auf dieser Insel lebten. Mit 41 Jahren starb er in London – doch die Arten, die er benannte, leben bis heute in den taiwanesischen Wäldern.",
-        "category": "people",
-        "href": "/de/people/robert-swinhoe-naturalist",
         "date": "2026-09-28T01:35:43+08:00",
         "readingTime": null,
         "image": ""
