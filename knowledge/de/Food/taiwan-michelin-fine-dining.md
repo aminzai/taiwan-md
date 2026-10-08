@@ -1,258 +1,251 @@
 ---
-title: 'Michelin in Taiwan: Der Preis und die Neudefinition unter den Sternen'
-description: 'Als Michelin 2018 nach Taiwan kam, war es zunächst ein internationaler Ruhm; tatsächlich hat es jedoch die Überlebensregeln der Gastronomie neu gezeichnet – dabei wurden die „fast guten“ Restaurants zu den größten Verlierern.'
+title: 'Taiwan Michelin: Der Preis unter den Sternen und die Neudefinition'
+description: 'Als der Michelin 2018 in Taiwan landete, war es offiziell ein internationaler Ruhm, doch er verschrieb neue Überlebensregeln für die Gastronomie – dabei wurden die „fast guten“ Restaurants zu den größten Verlierern.'
 date: 2026-03-23
 category: 'Food'
 tags:
   [
     'Michelin',
     'Fine Dining',
-    'Sternerestaurant',
-    'taiwanisches Essen',
-    'Gastronomiebranche',
+    'Sterne-Restaurants',
+    'Taiwan Kulinarik',
+    'Gastronomiewirtschaft',
   ]
 subcategory: '精緻餐飲'
 author: 'Taiwan.md'
 featured: true
-lastVerified: 2026-03-23
+lastVerified: 2026-10-08
 lastHumanReview: false
 readingTime: 12
 imageNote: '原 Wikimedia 圖與文章主題不符，未收進庫，待換圖（圖片是香港荃灣如心廣場商場餐廳指示牌，非台灣場景，跟「台灣米其林」主題不符（地點錯誤））'
 translatedFrom: 'Food/台灣米其林與精緻餐飲.md'
-sourceCommitSha: '9094012f4'
-sourceContentHash: 'sha256:5dc9bb02298749c4'
-sourceBodyHash: 'sha256:3ca2a02845451f2c'
-translatedAt: '2026-09-08T00:42:59+08:00'
+sourceCommitSha: '1256f1c64'
+sourceContentHash: 'sha256:d09fcb3d4fd0c37a'
+sourceBodyHash: 'sha256:2a3a16840af180a4'
+translatedAt: '2026-10-08T14:51:37+08:00'
 ---
 
-# Michelin in Taiwan: Der Preis und die Neudefinition unter den Sternen
+# Taiwan Michelin: Der Preis unter den Sternen und die Neudefinition
 
-> **30-Sekunden-Zusammenfassung:** 2018 kam Michelin nach Taiwan; in acht Jahren erweiterte es sich von einer Stadt auf 8 Regionen und wuchs von 127 auf 419 Restaurants.
-> Aber die eigentliche Veränderung betrifft nicht die Geschäfte der Sterne-Restaurants – sondern jene „fast guten“ Restaurants, die enorme Kosten für das Streben nach Anerkennung tragen, ohne entsprechende Kundenzahlen zu erzielen, und dadurch schlechter dastehen als diejenigen, die das Spiel gar nicht gespielt haben. Dies ist eine Geschichte über die Neuklassifizierung der taiwanischen Gastronomie.
+> **30-Sekunden-Überblick:** Mit dem Erscheinen des Michelin im Jahr 2018 erweiterte sich das Gebiet von der Stadt Taipeh auf sieben Landkreise bis zur achten Ausgabe im Jahr 2025, wobei die Zahl der Restaurants von 110 auf 419 anstieg; für die neunte Ausgabe im Juli 2026 stieg sie weiter auf 434.
+> Doch das, was sich wirklich veränderte, war nicht das Geschäft der Sterne-Restaurants – sondern jene „fast guten“ Restaurants, die enorme Kosten in die Jagd nach Sternen investierten, aber keine entsprechende Kundschaft bekamen und dadurch schlimmer dran waren als diejenigen, die das Spiel gar nicht gespielt hatten. Dies ist eine Geschichte über die Neuklassifizierung der taiwanesischen Gastronomie.
 
-Am 14. März 2018 um 20:17 Uhr erklang der erste Applaus im Bankettsaal des Grand Hyatt Taipei. Der internationale Direktor des Michelin Guides, Gwendal Poullennec, kündigte die offizielle Veröffentlichung des „Michelin Guide Taiwan“ an. In diesem Moment wurde die taiwanische Gastronomie durch eine unsichtbare Linie neu geteilt – diejenigen online erhielten Sterne; diejenigen offline mussten entscheiden: Ob sie Geld für das Streben ausgeben oder das Spiel komplett verlassen.
+Am 14. März 2018 kündigte Michael Ellis, International Director des Michelin Guides, in dem Wen Hua Dongfang Hotel in Taipeh die erste Sternliste des „Michelin Guide Taipei“ an[^1][^2]. In diesem Moment wurde die taiwanesische Gastronomie durch eine unsichtbare Linie neu geteilt – diejenigen online erhielten Sterne, während die Offline-Gastronomen entscheiden mussten: Ob sie Geld für die Jagd ausgeben oder das Spiel komplett verlassen.
 
-Acht Jahre später sehen die Zahlen beeindruckend aus: 419 eingezogene Restaurants (2025), 53 Sternerestaurants, die 8 Regionen abdecken. Doch hinter diesen Zahlen stehen jene „fast guten“ Restaurants, die den größten Druck spüren – sie investieren enorme Mittel in die Verbesserung der Umgebung, die Schulung des Personals und die Steigerung der Lebensmittelqualität, ohne einen Stern zu erhalten oder dadurch mehr Kunden zu gewinnen.
+Acht Jahre später sehen die Zahlen beeindruckend aus: 419 gelistete Restaurants (2025), 53 Sterne-Restaurants, die sieben Landkreise abdecken[^3]. Doch hinter diesen Zahlen stehen jene „fast guten“ Restaurants, die den größten Druck spüren – sie investierten enorme Kosten in die Verbesserung der Umgebung, die Schulung des Personals und die Steigerung der Lebensmittelqualität, erhielten aber keine Sterne und konnten dadurch auch keinen Kundensturm generieren.
 
-Dies ist die wahre Geschichte der taiwanischen Gastronomie: Es geht nicht um den Gegensatz zwischen Tradition und Internationalität, sondern um eine Neudefinition von „genug“ und „nicht genug“.
+Dies ist die wahre Geschichte der taiwanesischen Gastronomie: Es geht nicht um den Gegensatz zwischen Tradition und Internationalität, sondern um eine Neudefinition dessen, was „gut genug“ bedeutet.
 
-| 419 eingezogene                     | 53 Sternerestaurants                               |
-| :---------------------------------- | :------------------------------------------------- |
-| Gesamtanzahl der Restaurants (2025) | 3 Sterne, 7 Zwei-Sterne-, 43 Ein-Stern-Restaurants |
+| 419 Gelistete                     | 53 Sterne-Restaurants                              |
+| :-------------------------------- | :------------------------------------------------- |
+| Gesamtzahl der Restaurants (2025) | 3 Sterne, 7 Zwei-Sterne-, 43 Ein-Stern-Restaurants |
 
 ## Der Wendepunkt: Die Nacht, die alles veränderte
 
-### Die Wahl der 127 Restaurants
+### Die Wahl von 110 Restaurants
 
-Der erste Michelin Guide Taiwan von 2018 listete 127 Restaurants auf, darunter 24 Sterne- und 36 Bib Gourmand-Empfehlungen. Diese Zahl enthüllte bereits die Strategie von Michelin: Nicht nur hochwertige Restaurants zu zertifizieren, sondern auch zu zeigen, dass man die Esskultur Taiwans versteht.
+Die erste Ausgabe des Michelin Guides Taipei im Jahr 2018 listete 110 Restaurants auf, darunter 20 Sterne-Restaurants und 36 Bib Gourmand Empfehlungen[^1][^2]. Diese Zahl spiegelt bereits die Strategie von Michelin wider: Nicht nur hochwertige Restaurants zu zertifizieren, sondern auch zu zeigen, dass man die kulinarische Kultur Taiwans versteht.
 
-Am überraschendsten war nicht, dass Le Palais zwei Sterne erhielt – das war erwartet. Am schockierendsten war jedoch, dass Straßenstände wie Ah Zong Mian Xian (Nudeln), Du Xiao Yue und Fu Hong Beef Noodles Bib Gourmand erhielten. Ein Teller Nudeln für 60 NTD und ein französisches Gericht für 8.000 NTD standen in demselben Guide nebeneinander.
+Der einzige Drei-Sterne-Restaurant in diesem Jahr war Le Palais im Junpin Hotel[^1]. Die Bib Gourmand Empfehlungen wurden eine Woche vor den Sternen veröffentlicht; 36 davon stammten aus Nachtmärkten, darunter der Chili-Brot vom Raohe Night Market, die Kräuterknochenbrühe vom Shilin Night Market und das Yongkang Rindfleischgericht[^2]. Straßenstände standen neben Fine Dining in demselben Guide.
 
-„Wir haben in Taipeh eine erstaunliche kulinarische Vielfalt gesehen“, erklärte der Asia-Direktor des Michelin Guides damals, „von kleinen Ständen auf traditionellen Märkten bis zu Restaurants in Fünf-Sterne-Hotels gibt es auf jeder Ebene etwas, das empfohlen werden kann.“
+„Unsere Prüfer haben die vielfältigen Facetten und das exquisite Essen Taipehs tiefgehend untersucht, wobei auch lokale Spezialitäten wie Rindfleischgerichte, Schweinefüße und Fischbällchen enthalten waren – alles Gerichte mit gutem Geschmack und fairen Preisen“, sagte Ellis bei der Veröffentlichung der Bib Gourmand Liste[^2].
 
 > **📝 Notiz des Kurators**
 >
-> Die Strategie von Michelin bei der Ankunft in Taiwan war klar: Mit Bib Gourmand zu beweisen, dass sie keine „externen Kolonisatoren“ sind, sondern „Bewertende mit Verständnis für die lokale Kultur“. Diese Strategie war erfolgreich, aber sie säte auch den Samen zukünftiger Kontroversen.
+> Die Strategie von Michelin in Taiwan war klar: Mit den Bib Gourmand Empfehlungen zu beweisen, dass sie keine „externe Kolonisatoren“ sind, sondern „Bewertende, die die lokale Kultur verstehen“. Diese Strategie war erfolgreich, säte aber später Kontroversen.
 
-### Die Ausdehnung des Fußabdrucks: Keine zufällige geografische Wahl
+### Die Expansion: Keine zufällige geografische Auswahl
 
-Die Entwicklung von Michelin in Taiwan spiegelt klar die geographischen Zusammenhänge der taiwanesischen Esskultur wider:
+Der Entwicklungspfad von Michelin in Taiwan spiegelt klar das geografische Gefüge der taiwanesischen Esskultur wider:
 
-1. **2018** – Taipei als Startpunkt, höchste Internationalisierung
-2. **2020** – Taichung kommt hinzu, Zentrum innovativer Snacks
-3. **2022** – Tainan wird gelistet, tiefste kulturelle Verwurzelung
-4. **2024** – Kaohsiung erscheint, reiche Meereskultur
-5. **2025** – New Taipei und Hsinchu County, Abschluss des Ökosystems Nord-Taiwan
+1. **2018** – Start in Taipeh, höchste Internationalisierungsstufe
+2. **2020** – Taichung wird hinzugefügt[^4]
+3. **2022** – Tainan und Kaohsiung werden im selben Jahr hinzugefügt[^5]
+4. **2025** – New Taipei City, Hsinchu County und Hsinchu City werden hinzugefügt; der Ökosystem von Nord-Taiwan ist abgeschlossen[^3].
 
-Diese Reihenfolge ist keine administrative Entscheidung, sondern folgt der natürlichen Verteilung der kulinarischen Stärke Taiwans. Von dem am leichtesten international verständlichen Taipei bis zu Tainan, das lokales Wissen erfordert, hat Michelin in acht Jahren die Esskarten von Taiwan erforscht.
+Diese Reihenfolge basiert nicht auf administrativen Grenzen, sondern folgt der natürlichen Verteilung der kulinarischen Stärke Taiwans. Von Taipeh, das am leichtesten international verstanden wird, bis nach Tainan, dessen lokale Kenntnis erforderlich ist, hat Michelin in acht Jahren die Esskartenlage Taiwans ergründet.
 
-## Funkeln unter den Sternen: Die taiwanische Interpretation des Drei-Sterne-Restaurants
+## Sterne-Glanz: Die taiwanesische Interpretation der Drei-Sterne-Restaurants
 
-### Le Palais: Der Gipfel der chinesischen Küche (Kantine)
+### Le Palais: Der Gipfel der kantonesischen Handwerkskunst
 
-Le Palais im Grand Hyatt ist 2018 mit zwei Sternen ausgezeichnet worden und hat 2019 auf drei Sterne aufgestiegen, die es seit acht Jahren hält. Es repräsentiert nicht nur die Raffinesse der kantonesischen Küche, sondern auch den Beweis, dass chinesische Küche den höchsten Michelin-Standard erreichen kann.
+Le Palais im Junpin Hotel erhielt bereits bei der ersten Ausgabe von 2018 drei Sterne und hält diese bis zur Ausgabe 2026 kontinuierlich[^1][^6]. Es repräsentiert nicht nur die Raffinesse der kantonesischen Küche, sondern auch den Beweis, dass chinesische Küche den höchsten Michelin-Standard erreichen kann.
 
-Das geröstete Gansfleisch des Küchenchefs Chen Weiqiang ist so knusprig, dass es beim leichten Antippen mit einem Messer ein klares Geräusch erzeugt; der Fleischsaft ist reichhaltig, aber nicht fettig. Hinter diesem Gericht stecken 48 Stunden Vorbereitung: Die Verwendung von Qingyuan-Gänsen im Alter von 90 Tagen, die 24 Stunden luftgetrocknet und drei Stunden langsam geröstet werden, wobei die Temperaturkontrolle bei jedem Schritt präzise auf Grad genau ist.
+Als Le Palais 2018 ausgezeichnet wurde, führten Chefköche Chen Weiqiang und Chen Taiyong die Küche[^7]. Beide arbeiteten seit über dreißig Jahren in Küchen in Taiwan. Als sie am Tag nach der Auszeichnung befragt wurden, sagte Chen Weiqiang: „Drei Sterne kann man nicht allein erreichen; es erfordert die Zusammenarbeit von Innen- und Außenküche und die Unterstützung des Chefs – alles muss zusammenpassen.“[^7]
 
-„Der Kern der kantonesischen Küche liegt in den Details“, sagt Chen Weiqiang, „ein Unterschied von 30 Sekunden beim Dämpfen eines Eiweißes verändert das Mundgefühl komplett.“
+### Taïrroir: Pionierexperimente der taiwanesisch-französischen Fusion
 
-### Taïrroir: Pionierexperiment der taiwanesisch-französischen Fusion
+Der Chefkoch He Shunkai studierte französische Küche in einer Filiale von Guy Savoy in Singapur und gründete 2016 Taïrroir in Taiwan. Er erhielt im Jahr 2018 einen Stern, stieg 2019 auf zwei Sterne und erreichte 2023 drei Sterne[^8][^9]. Seine „taiwanesische französische Küche“ definierte neu, was eine „internationale Ausdrucksform des taiwanesischen Geschmacks“ ist.
 
-Küchenchef He Shunkai gründete Taïrroir in Taiwan nach seiner Zeit im Restaurant André in Singapur. Es erhielt 2018 einen Stern, stieg 2019 auf zwei Sterne und erreichte 2024 drei Sterne. Seine „taiwanesische französische Küche“ definierte neu, was eine „internationale Ausdrucksform des taiwanischen Geschmacks“ ist.
-
-Das berühmte Gericht „Taiwanisches Rind mit Fischrogen“ kombiniert das zentrifugale Rindfleisch aus Tainan, den Fischrogen von Penghu und die französische Sous-Vide-Technik perfekt. Das Rind wird zwei Stunden lang bei konstanter Temperatur von 58°C gegart, um eine rosafarbene Textur zu erhalten; der Fischrogen wird in dünne Scheiben geschnitten, wobei die salzige Note mit der Süße des Rindes Schichten bildet.
-
-„Ich will weder ein französisches Gericht noch ein taiwanesisches“, erklärt He Shunkai, „ich will die französische Küche für die Menschen Taiwans machen – oder die taiwanesische Küche für die Franzosen.“
+Der Name Taïrroir ist ein Wortspiel aus Taiwan und dem französischen _terroir_ (Geschmack der Region)[^8].
 
 ### JL Studio: Die Interpretation südostasiatischer Gewürze in Taichung
 
-JL Studio in Taichung bringt das Wissen des Restaurants André aus Singapur nach Taiwan und kreiert raffinierte Gerichte mit südostasiatischem Flair. Mit drei Sternen ausgezeichnet im Jahr 2021, ist es das dritte und einzige Drei-Sterne-Restaurant in Taichung.
+JL Studio in Taichung wird vom Chefkoch Lin Tianyao geleitet, einem Singapurer, der 2007 nach Taiwan kam und acht Jahre im LeMu verbrachte, bevor er JL Studio 2017 eröffnete[^4]. Als Michelin 2020 zum ersten Mal Taichung bewertete, erhielt das Restaurant sofort zwei Sterne[^4]. Im Jahr 2023 erreichte es mit Taïrroir drei Sterne und ist bis heute das einzige Drei-Sterne-Restaurant in Taichung[^9][^6].
 
-Das Signature-Gericht „Pokok“ (malaiisch für „Baum“) basiert auf lokalen taiwanesischen Gemüse, kombiniert mit Kokosmilch, Zitronengras und Limettenblättern und präsentiert sich in einer baumartigen dreidimensionalen Form. Dieses Gericht benötigt 16 verschiedene Gemüsesorten, die jeweils unterschiedlich behandelt werden: einige roh, einige geräuchert, einige fermentiert.
+Er entwickelte über ein Dutzend Varianten basierend auf Hainanese Chicken Rice. Eine Variante, die keinen Huhn enthielt, verwendete weiße Spargel aus Changhua als Fleisch und Koyo als Haut – diese Kombination ähnelte subtil dem Hainanese Chicken Rice[^10].
 
-„Ich möchte zeigen, dass Taiwan nicht nur taiwanesische Küche und französische Küche hat, sondern noch mehr Möglichkeiten“, sagt Lin Tianyao.
+„Jede Änderung muss eine Verbesserung darstellen, nicht nur eine Veränderung um der Veränderung willen“, sagt Lin Tianyao[^10].
 
-> **✦** „Ein echtes Drei-Sterne-Restaurant ist nicht das Kopieren ausländischer Techniken in Taiwan, sondern die Präsentation des taiwanischen Geistes in einer weltweiten Sprache.“
+> **✦** „Ein echtes Drei-Sterne-Restaurant bringt keine ausländischen Techniken nach Taiwan; es erzählt die Seele Taiwans in einer weltlichen Sprache.“
 
-## Bib Gourmand: Internationale Zertifizierung und Kontroverse der Volksküche
+## Bib Gourmand: Internationale Anerkennung und Kontroverse um Volksküche
 
-### Die Würde erschwinglicher Speisen
+### Die Würde des erschwinglichen Essens
 
-Der Bib Gourmand wurde geschaffen, um Restaurants zu zertifizieren, die „hochwertige Gerichte für weniger als 1.000 NTD“ anbieten. Im Jahr 2025 erhielten in Taiwan insgesamt 144 Restaurants den Bib Gourmand, wovon fast sechzig Prozent lokale Snacks sind.
+Der Bib Gourmand wurde geschaffen, um Restaurants zu zertifizieren, die gutes Essen für weniger als NT$1.000 anbieten. Im Jahr 2025 erhielten in Taiwan insgesamt 144 Restaurants den Bib Gourmand; von den neu hinzugefügten 37 Prozent nahmen fast sechzig Prozent lokale taiwanesische Speisen und Snacks auf[^11].
 
-Als Ah Zong Mian Xian (gegründet 1975) den Bib Gourmand erhielt, stand dieser kleine Stand mit nur 4 Quadratmetern vor einer beispiellosen Herausforderung. Die Warteschlangen stiegen von ursprünglich 10–15 Personen auf 50–100 Personen an, aber der Besitzer Zhang Ah Zong bestand darauf, das Geschäft nicht zu erweitern: „Ich möchte die Qualität jedes Nudelgerichts bewahren, selbst wenn die Gäste länger warten müssen.“
-
-Diese Entscheidung löste schnell Diskussionen aus: Kann kommerzieller Erfolg und kulturelle Bewahrung nebeneinander existieren?
+Der Ansturm, der durch die Auszeichnung entstand, führte zur wiederkehrenden Diskussion: „Können kommerzieller Erfolg und kulturelle Bewahrung nebeneinander existieren?“
 
 > **⚠️ Kontroverse Ansicht**
 >
-> Der Michelin Bib Gourmand verleiht traditionellen Snacks internationale Anerkennung, verändert aber auch ihr Geschäftsökosystem. Befürworter sehen darin eine Steigerung des internationalen Ansehens der taiwanesischen Volksküche; Kritiker argumentieren, dass dies die „Volksnähe“ dieser Speisen zerstört.
+> Die Michelin Bib Gourmand verleiht traditionellen Snacks internationale Anerkennung, verändert aber auch deren Geschäftsökosystem. Befürworter sehen darin eine Steigerung des internationalen Status der taiwanesischen Volksküche; Kritiker argumentieren, dass dies die „Volksnähe“ dieser Speisen zerstört.
 
 ### Neudefinition von Preis und Qualität
 
-Restaurants mit Bib Gourmand erhöhen fast immer ihre Preise. Niu Lao Da Hot Pot stieg von einem Set für 800 NTD auf 1.200 NTD; Xiao Long Bao vom Dian Shui Lou stiegen von 160 NTD auf 220 NTD. Dieses Konzept des „guten Preises und guter Qualität“ wurde allmählich von den taiwanesischen Verbrauchern akzeptiert.
+Nach der Aufnahme ist kontinuierliche Investition in Lebensmittel, Personal und das Esserlebnis erforderlich – diese Kosten fallen jedes Jahr an. Für Restaurants mit Bib Gourmand kann der Kundenansturm diese Kosten decken; für die „fast guten“, die es nicht geschafft haben, entsteht jedoch ein enormer Druck.
 
-Das eigentliche Problem ist jedoch nicht die Preiserhöhung, sondern die Veränderung der Kostenstruktur. Um die Michelin-Zertifizierung zu erhalten, müssen diese Restaurants:
-
-- Die Lebensmittelqualität verbessern (Kostensteigerung um 20–30 %)
-- Die Mitarbeiterschulung intensivieren (Personalkostensteigerung um 15–25 %)
-- Die Umgebung aufwerten (Einmalige Investition von 500.000–2 Millionen NTD)
-- Standardisierte Prozesse etablieren (Betriebskostensteigerung um 10–15 %)
-
-Diese Kosten sind nicht einmalig, sondern müssen jährlich getragen werden. Für Restaurants mit Bib Gourmand kann die erhöhte Kundenzahl diese Kosten decken; aber für jene „fast guten“, die es nicht geschafft haben, entsteht ein enormer Druck.
-
-## Die Grüne Stern-Revolution: Praktiken der nachhaltigen Gastronomie in Taiwan
+## Die Grüne Stern-Revolution: Nachhaltige Gastronomie in Taiwan
 
 ### Das Erwachen des Umweltbewusstseins
 
-Michelin begann 2021 mit der Vergabe des Grünen Sterns (Green Star), um Restaurants zu ehren, die sich durch herausragende Nachhaltigkeitsbemühungen auszeichnen. Taiwan hat derzeit 7 Restaurants mit Grünstern, von EMBERS in Taipei bis Thomas Chien in Kaohsiung, was unterschiedliche Nachhaltigkeitsphilosophien zeigt.
+Der Michelin Green Star wurde 2020 erstmals in der französischen Ausgabe verliehen, um Restaurants zu ehren, die sich durch herausragende nachhaltige Praktiken auszeichnen[^12]. Im Jahr 2021 kam er nach Taiwan[^5]. Die Ausgabe 2025 hat sieben Green-Star-Restaurants in Taiwan, von EMBERS in Taipeh bis Thomas Chien in Kaohsiung[^3]; die Ausgabe 2026 erhöht diese auf neun[^6].
 
-EMBERS ist das erste Restaurant in Taiwan mit einem Grünen Stern. Küchenchef Guo Tingwei arbeitet direkt mit über 20 Kleinbauern aus Yilan und Hualien zusammen; die Speisekarte wechselt saisonal und verwendet nur Bio-Gemüse der Saison. Das Restaurant hat sogar einen „Bauernfonds“ eingerichtet, um den Bauern in Zeiten geringer Ernte zu helfen.
-
-„Wir kaufen nicht nur Gemüse, wir unterstützen eine Lebensweise“, erklärt Guo Tingwei, „wenn städtische Restaurants sich für die nachhaltige Entwicklung des ländlichen Raumes interessieren, ist Essen mehr als nur Nahrung.“
+Die ersten Green Stars in Taiwan wurden 2021 an Shan Hai Lou und Yang Ming Chun Tian verliehen; EMBERS schloss sich im Jahr 2022 an[^5][^13]. Der Chefkoch Wes ist aus Taipeh, sein Menü verwendet reichlich indigene Zutaten und gestaltet das Restaurant als Wald-Konzept[^13].
 
 ### Die Verfeinerung der taiwanesischen Landwirtschaft
 
-Der Aufstieg der Grünen Stern-Restaurants hat die Transformation und Verbesserung der taiwanesischen Landwirtschaft vorangetrieben. Als Sterne-Restaurants nach „umweltfreundlichen“, „pestfreien“ und „rückverfolgbaren“ Zutaten fragten, begannen auch die Bauern, über die Qualitätssteigerung ihrer Produkte nachzudenken.
+Der Aufstieg der Green-Star-Restaurants hat die Transformation der taiwanesischen Landwirtschaft vorangetrieben. Als Sterne-Restaurants „umweltfreundliche“, „pesticidefreie“ und „rückverfolgbare“ Zutaten forderten, begannen auch die Bauern, über die Qualitätssteigerung ihrer Produkte nachzudenken.
 
-Tu Pang in Taichung erhielt 2025 eine neue grüne Zertifizierung. Dieses Restaurant verwendet nicht nur Bio-Gemüse, sondern entwickelt gemeinsam mit den Bauern neue Sorten. Sie arbeiten mit einem Bio-Bauer aus Changhua zusammen und züchten süßere violette Karotten; sie experimentieren mit dem Einfluss unterschiedlicher Höhenlagen auf den Tee-Geschmack in Nantou.
+Tu Pang in Taichung erhielt 2025 einen Green Star. Das Restaurant integriert Umweltthemen in seine Speisekarte und informiert Gäste durch die Art der Gerichte über Meeresressourcen und Kohlenstoffreduzierung. Das Team reist durch die landwirtschaftlichen Gebiete Taiwans, führt Bildungsarbeit auf Schulhöfen und in Gemeinden durch; jedes Quartal gibt es ein Gericht aus Amaranth, um diese wichtige Grundnahrungspflanze wiederzubeleben[^3].
 
-„Wenn Restaurants und Felder miteinander kommunizieren, hat das Land Taiwans neue Möglichkeiten“, sagt der Küchenchef von Tu Pang.
-
-| 7 Grüne Stern-Restaurants                  | 20+ Kooperationsfarmen                                          |
-| :----------------------------------------- | :-------------------------------------------------------------- |
-| 5 in Taipei, 1 in Taichung, 1 in Kaohsiung | Anzahl der Bio-Farmen, mit denen EMBERS direkt zusammenarbeitet |
+| 7 Green-Star-Restaurants (2025)            | 9 Green-Star-Restaurants (2026)                       |
+| :----------------------------------------- | :---------------------------------------------------- |
+| 5 in Taipeh, 1 in Taichung, 1 in Kaohsiung | Neue Ergänzungen: Se in Taichung und Yu Dao in Tainan |
 
 ## Der Preis: Die dunkle Seite des Michelin-Effekts
 
 ### Das Dilemma der „fast Guten“
 
-Der größte Einfluss von Michelin ist nicht die Verbesserung guter Restaurants, sondern die Schaffung einer „Anstrengungsfalle“. Die „fast guten“ Restaurants – deren Essen gut und der Service auch in Ordnung ist, aber sie es nicht geschafft haben – stehen unter dem größten Druck.
-
-Ein Küchenchef eines französischen Restaurants in Taipei (der anonym bleiben möchte) enthüllte: „Wir haben 3 Millionen NTD für die Renovierung ausgegeben, Köche nach Frankreich geschickt und erstklassige Zutaten importiert, nur um es nicht einmal in die Auswahl zu schaffen. Jetzt entstehen monatlich zusätzliche Kosten von 500.000 NTD, aber die Kunden sind nicht mehr da; stattdessen haben wir einige Stammgäste durch Preiserhöhungen verloren.“
-
-Dieses Dilemma existiert überall in Taiwan. Schätzungen der Gastronomen deuten darauf hin, dass etwa 200–300 Restaurants im ganzen Land in diesem Zustand „zu viel und zu wenig“ stecken: Sie haben die Kosten für das Streben getragen, aber keine entsprechende Rendite erzielt.
+Der größte Einfluss von Michelin besteht nicht darin, gute Restaurants besser zu machen, sondern ein „Anstrengungsfallen“-System zu schaffen. Die „fast guten“ Restaurants – deren Essen gut und der Service akzeptabel ist, die aber es nicht geschafft haben – stehen unter dem größten Druck.
 
 > **📝 Notiz des Kurators**
 >
-> Dies ist die brutalste Seite des Michelin-Effekts: Er zertifiziert nicht nur Exzellenz, sondern definiert auch den Standard dessen, was „genug“ ist. Früher reichte es, wenn das Essen gut und der Service in Ordnung war; heute muss man den „Michelin-Standard“ erreichen, sonst ist man „nicht gut genug“.
+> Dies ist die brutalste Seite des Michelin-Effekts: Er zertifiziert nicht nur Exzellenz, sondern definiert auch den Standard für „Genügend“. Früher reichte es, wenn das Essen gut und der Service in Ordnung war; heute muss man den „Michelin-Standard“ erreichen, sonst ist man „nicht gut genug“.
 
-### Der Matthew-Effekt bei der Talentmobilität
+### Das Matthew-Effekt bei der Talentmobilität
 
-Die Michelin-Zertifizierung hat die Mobilität von Fachkräften in der Gastronomie verstärkt. Sterne-Restaurants können höhere Gehälter zahlen, bessere Schulungsmöglichkeiten bieten und den Mitarbeitern mehr internationale Sichtbarkeit geben, was zu einem „Matthew-Effekt“ führt (die Reichen werden reicher).
-
-Ein junger Koch, der in einem Sternerestaurant arbeitet, sagte: „Ich arbeitete früher in einem sehr guten italienischen Restaurant, das keinen Michelin-Stern hatte. Dann wechselte ich zu einem Ein-Sterne-Restaurant, wo ich 10.000 NTD mehr verdiente und die Chance bekam, nach Italien zu studieren. Wenn ich zurückblicke, war das italienische Essen eigentlich nicht schlecht, aber es fehlte dieser eine Stern.“
+Die Michelin-Zertifizierung verschärft die Mobilität von Fachkräften in der Gastronomie. Sterne-Restaurants können höhere Gehälter zahlen, bessere Schulungsmöglichkeiten bieten und den Mitarbeitern mehr internationale Sichtbarkeit geben – was zu einem „Reichen werden reicher“-Matthew-Effekt führt.
 
 Diese Talentmobilität erschwert es den „fast guten“ Restaurants, die Qualität aufrechtzuerhalten, was einen Teufelskreis erzeugt.
 
-### Die Neukonfiguration der Lieferkette
+### Die Umstrukturierung der Lieferkette
 
-Die Michelin-Zertifizierung hat auch die Lebensmittelversorgungskette verändert. Die Anforderungen der Sterne-Restaurants haben die gesamte Lieferkette zu einer Aufwertung gezwungen: strengere Qualitätskontrolle, vollständigere Rückverfolgbarkeit und höhere Preise.
+Die Michelin-Zertifizierung verändert auch die Lebensmittelversorgungskette. Die Anforderungen der Sterne-Restaurants treiben die gesamte Lieferkette in die Aufwertung: strengere Qualitätskontrollen, vollständigere Rückverfolgbarkeit und höhere Preise.
 
-Dies ist gut für die taiwanesische Landwirtschaft, aber es führt auch zur Schichtung. Spitzenzutaten werden bevorzugt an Sterne-Restaurants geliefert; normale Restaurants müssen sich für zweitklassige Zutaten entscheiden oder höhere Kosten tragen.
+Dies ist gut für die taiwanesische Landwirtschaft, führt aber zur Schichtung. Spitzenzutaten werden bevorzugt an Sterne-Restaurants geliefert; normale Restaurants müssen sich mit zweitklassigen Zutaten zufriedengeben oder höhere Kosten tragen.
 
-## Kultureller Konflikt: Französischer Standard trifft auf taiwanische Esskultur
+## Kultureller Konflikt: Französischer Standard trifft auf taiwanesische Esskultur
 
-### Die Herausforderung der Anpassung der Bewertungsstandards
+### Die Herausforderung der Anpassung an Bewertungsstandards
 
-Der Kern der Michelin-Bewertung ist der „Fine Dining“-Standard: klar definierte Geschmacksnuancen, präzente Präsentation und formelle Serviceabläufe. Die taiwanesische Esskultur betont jedoch das „gemeinsame Essen“, die „Lebensfreude“ und die „Beziehungsebene“.
+Der Kern der Michelin-Bewertung ist das „Fine Dining“-Standard: klar definierte Geschmacksrichtungen, präzise Präsentation und formelle Serviceabläufe. Die taiwanesische Esskultur hingegen betont „gemeinsames Essen“, „Lebensfreude“ und „Menschlichkeit“.
 
-Das deutlichste Beispiel ist die Bewertung der taiwanesischen Küche. Shan Hai Lou erhielt einen Stern, da seine Raumgestaltung, die Wahl des Geschirrs und die Weinausschank-Arrangements den Fine-Dining-Standards entsprachen. Viele Kenner argumentieren jedoch, dass das authentischste taiwanesische Essen an einem runden Tisch mit Gemeinschaftsgeschirr und lokalen Bieren genossen werden sollte, nicht im Einzelportionsservice mit Rotwein.
+Das deutlichste Beispiel sind die taiwanesischen Gerichte (Taiwanese Cuisine). Shan Hai Lou, das diese Küche im Einzel- oder Menüformat präsentiert, ist ein Ein-Stern-Restaurant[^6]. Viele Kenner hingegen glauben, dass die authentischste taiwanesische Küche an einem runden Tisch mit Gemeinschaftsgeschirr und taiwanischem Bier serviert werden sollte, nicht als Einzelportion mit Rotwein.
 
-„Wenn wir die taiwanesische Küche nach französischen Standards bewerten, bewerten wir dann überhaupt noch die taiwanesische Küche?“, stellt der Gastronomisch Autor Tsai Zhuer diese Frage.
+### Das Dilemma der traditionellen Snacks
 
-### Das Dilemma der traditionellen Volksküche
+Für traditionelle Snacks bringt die Michelin-Zertifizierung komplexere Herausforderungen mit sich. Der Erfolg von Ah Zong Mian Xian bewies, dass Volksküche internationale Anerkennung finden kann, löste aber auch die Debatte aus: „Kann Kommerzialisierung die Tradition zerstören?“
 
-Für die traditionelle Volksküche bringt die Michelin-Zertifizierung komplexere Herausforderungen mit sich. Der Erfolg von Ah Zong Mian Xian bewies, dass Volksessen internationale Anerkennung finden kann, löste aber auch die Debatte aus: „Kann Kommerzialisierung Tradition zerstören?“
-
-Nach dem Erhalt des Bib Gourmand verlängerte sich die Wartezeit für Yongkang Beef Noodles von 15 Minuten auf 1–2 Stunden. Der Besitzer stand vor der Wahl: Soll er das Geschäft erweitern, mehr Sitzplätze schaffen und mehr Personal einstellen? Letztendlich entschied er sich, beim Alten zu bleiben – lieber warten als das Geschäftsmodell ändern.
-
-Aber nicht alle Betriebe haben dieses „eigenwillige“ Kapital.
+Alte Restaurants wie Yongkang Rindfleischgerichte wurden bereits bei der ersten Ausgabe in den Bib Gourmand aufgenommen[^2]. Die Entscheidung, ob man das Restaurant erweitern, mehr Sitzplätze schaffen oder mehr Mitarbeiter einstellen soll, ist eine Wahl, vor der jedes gelistete Lokal steht.
 
 > **⚠️ Kontroverse Ansicht**
 >
-> Der Einfluss von Michelin auf die taiwanesische Esskultur ist polarisiert: Befürworter sehen eine Steigerung des internationalen Ansehens und des Qualitätsbewusstseins; Kritiker argumentieren, dass die Bewertung der östlichen Kultur nach westlichen Standards im Grunde Kolonialismus sei.
+> Der Einfluss von Michelin auf die taiwanesische Esskultur wird unterschiedlich bewertet: Befürworter sehen darin eine Steigerung des internationalen Status und des Qualitätsbewusstseins; Kritiker argumentieren, dass die Bewertung der östlichen Kultur nach westlichen Standards im Grunde Kolonialismus sei.
 
 ## Konkurrenz und Herausforderungen: Die Lockerung der Michelin-Autorität
 
-### Die Herausforderung von The World's 50 Best Restaurants
+### Die Herausforderung von „The World’s 50 Best Restaurants“
 
-Neben Michelin gewinnt auch „The World's 50 Best Restaurants“ an Einfluss. Diese vom britischen Magazin Restaurant veranstaltete Bewertung verwendet ein System des Jury-Votings und legt mehr Wert auf Innovation und Themenrelevanz.
+Neben Michelin gewinnt auch die Auszeichnung „The World's 50 Best Restaurants“ an Einfluss. Diese vom britischen Magazin Restaurant veranstaltete Bewertung verwendet ein System des Prüfervotings und legt mehr Wert auf Innovation und Themenrelevanz.
 
-Die Leistung der taiwanesischen Restaurants bei dieser Bewertung ist nicht herausragend, aber dieses Bewertungssystem gibt Michelin einen wichtigen Hinweis: Die Beurteilung ist kein Monopolgeschäft, und die Standards sind nicht unveränderlich.
+Die taiwanesischen Restaurants sind bei dieser Auszeichnung nicht herausragend, aber dieses Bewertungssystem gibt Michelin einen wichtigen Hinweis: Die Bewertung ist kein Monopolgeschäft, und die Standards sind nicht unveränderlich.
 
-### Die Demokratisierung durch das digitale Zeitalter
+### Die Demokratisierung der Bewertung im digitalen Zeitalter
 
-Google-Bewertungen, soziale Medien und Food-Blogger stellen die Autorität von Michelin in Frage. Die junge Generation vertraut den Food-Fotos auf Instagram eher als den Empfehlungen des Michelin Guides.
+Der Einfluss von Google-Bewertungen, sozialen Medien und Food Bloggern stellt die Autorität des Michelin in Frage. Die junge Generation vertraut eher den Fotos auf Instagram als den Empfehlungen des Michelin Guides.
 
-Das Restaurant AKAME in Pingtung ist ein Beispiel dafür. Dieses Restaurant mit Schwerpunkt indigener Küche hat nie eine Michelin-Bewertung beantragt, aber es genießt in sozialen Medien enorme Popularität und ist schwieriger zu reservieren als jedes Sterne-Restaurant.
+AKAME in Pingtung ist ein Beispiel dafür. Dieses Restaurant mit indigenen Zutaten liegt außerhalb des Bewertungsbereichs von Michelin[^3] und ist nur durch Mundpropaganda und soziale Medien zu finden.
 
-„Einige Restaurants kümmern sich nicht um die Meinung der Außenwelt“, beobachtet der Kulturkritiker Zhan Weixiong, „sie machen einfach das, was sie mögen, solange sie jeden Monat einen Gewinn von zwei Millionen NTD erzielen. Das könnte eine andere Zukunft für die taiwanesische Gastronomie sein.“
-
-## Neudefinition: Das nächste Kapitel des taiwanischen Fine Dining
+## Neudefinition: Das nächste Kapitel der taiwanesischen Fine Dining
 
 ### Die internationale Ausdrucksform des taiwanesischen Geschmacks
 
-Die Erfahrungen der letzten acht Jahre zeigen, dass die erfolgreichsten taiwanesischen Restaurants nicht versuchen, „taiwanisch“ zu sein, sondern die lokalen Zutaten und Geschmackserinnerungen durch moderne Techniken auszudrücken.
+Die Erfahrungen der letzten acht Jahre zeigen, dass die erfolgreichsten taiwanesischen Restaurants nicht versuchen, „taiwanisch“ zu sein, sondern die lokalen Zutaten und Geschmackserinnerungen Taiwans mit modernen Techniken interpretieren.
 
-Jiang Zhencheng von RAW sagt nie, er mache taiwanesische Küche, aber seine Gerichte sind voller taiwanesischer Elemente: Betelblüten, Pobozi (eine lokale Frucht), Taitung-Shikake. Wenn ausländische Gäste sein Essen probieren, spüren sie das Klima Taiwans, nicht unbedingt eine spezifische Küchenbezeichnung.
+RAW in Dazhi, Taipeh, von Jiang Zhencheng, operierte von 2014 bis Ende 2024; es erhielt im Jahr 2018 einen Stern und war 2019 bis 2023 zwei Sterne[^14]. Es bezeichnete sich nie als taiwanesisch, aber sein Menü basierte auf lokalen taiwanesischen Zutaten.
 
-„Es ist nicht wichtig, wie das Gericht heißt“, sagt Jiang Zhencheng, „sondern ob es die einzigartige kulturelle Bedeutung Taiwans vermitteln kann.“
+### Die Balance zwischen Technik und Gefühl
 
-### Das Gleichgewicht zwischen Technik und Emotion
+Die zukünftige taiwanesische Fine Dining muss eine Balance zwischen technischer Perfektion und emotionaler Verbundenheit finden. Michelin hat den technischen Standard angehoben, doch die Seele der taiwanesischen Küche ist immer noch die warme Gastfreundschaft.
 
-Die zukünftige taiwanesische Fine Dining muss ein Gleichgewicht zwischen technischer Perfektion und emotionaler Verbundenheit finden. Michelin hat den technischen Standard angehoben, aber die Seele des taiwanischen Essens ist immer noch die warme Gastfreundschaft.
+Beim Essen in Taïrroir genießt man nicht nur exquisite Gerichte, sondern spürt auch die Herzlichkeit der Taiwanesen. Diese Kombination aus „Technik + Wärme“ könnte ein einzigartiger Vorteil der taiwanesischen Restaurants sein.
 
-Beim Essen in Taïrroir genießt man nicht nur raffinierte Gerichte, sondern spürt auch die herzliche Gastfreundschaft der Menschen Taiwans. Diese Kombination aus „Technik + Wärme“ könnte ein einzigartiger Vorteil der taiwanesischen Restaurants sein.
+### Das taiwanische Modell der Nachhaltigkeit
 
-### Das taiwanische Modell der nachhaltigen Entwicklung
+Mit der Einführung des Green Star wird nachhaltiges Wirtschaften zur zukünftigen Tendenz. Taiwan hat hier einen einzigartigen Vorteil: reiche landwirtschaftliche Ressourcen, kurze Lieferketten von Erzeugern zum Tisch und ein tiefes Umweltbewusstsein.
 
-Mit der Einführung des Grünen Sterns wird Nachhaltigkeit zur zukünftigen Tendenz. Taiwan hat hier einen einzigartigen Vorteil: reiche landwirtschaftliche Ressourcen, kurze Lieferketten vom Erzeuger bis zum Tisch und ein tiefes Umweltbewusstsein.
+Die zukünftige taiwanesische Fine Dining strebt nicht nur die Geschmackserfüllung an, sondern trägt auch eine ökologische und soziale Verantwortung. Wenn Restaurants sich um das Einkommen der Bauern kümmern, den Kohlenstoff-Fußabdruck der Zutaten berücksichtigen und Lebensmittelverschwendung reduzieren, sind sie mehr als nur Restaurants – sie sind treibende Kräfte für sozialen Fortschritt.
 
-Die zukünftige taiwanesische Fine Dining strebt nicht nur nach geschmacklicher Befriedigung, sondern trägt auch eine ökologische und soziale Verantwortung. Wenn Restaurants sich um das Einkommen der Bauern kümmern, den Kohlenstoff-Fußabdruck der Zutaten bedenken und Lebensmittelverschwendung reduzieren, sind sie mehr als nur Restaurants – sie sind treibende Kräfte für sozialen Fortschritt.
-
-> **💡 Wussten Sie**
+> **💡 Wussten Sie?**
 >
-> Taiwan ist die einzige Region in Asien mit einem Restaurant, das sowohl einen Michelin-Stern als auch einen Grünen Stern besitzt. Mountain and Sea House hält beide und beweist, dass Nachhaltigkeit und Exzellenz vereinbar sind.
+> Shan Hai Lou besitzt sowohl einen Stern als auch einen Green Star[^6]. Eine solche Kombination gibt es nicht nur in Taiwan, sondern auch in Hongkong, Thailand, Peking, Shanghai, Tokio und Kyoto[^12].
 
 ## Fazit: Reflexion unter den Sternen
 
-Die acht Jahre des Michelin Guides in Taiwan haben den Wandel der Gastronomie von Quantität zu Qualität dokumentiert. 53 Sterne-Restaurants, 144 Bib Gourmand-Empfehlungen, 419 eingezogene Restaurants – hinter diesen Zahlen steht die harte Arbeit unzähliger Köche, Kellner, Bauern und Lieferanten.
+Die acht Jahre des Michelin Guides in Taiwan zeugen vom Wandel der Gastronomie von Quantität zu Qualität. 53 Sterne-Restaurants, 144 Bib Gourmand Empfehlungen, 419 gelistete Restaurants – hinter diesen Zahlen steht die harte Arbeit unzähliger Köche, Kellner, Bauern und Lebensmittelanbieter.
 
-Aber das Wichtigste ist nicht die Anzahl der Sterne, sondern was uns der Michelin-Effekt lehrt: Was ist ein gutes Restaurant? Was ist der Geschmack Taiwans? Wie bewahren wir unsere kulturelle Einzigartigkeit unter globalen Bewertungsstandards?
+Doch das Wichtigste ist nicht die Anzahl der Sterne, sondern was uns der Michelin-Effekt lehrt: Was ist ein gutes Restaurant? Was ist der Geschmack Taiwans? Wie bewahren wir unsere kulturelle Einzigartigkeit unter globalen Bewertungsstandards?
 
-Michelin mag aus Frankreich stammen, aber der Stern, der auf taiwanischem Boden erstrahlt, trägt einen starken taiwanesischen Geschmack. Diese Sterne sind nicht nur ein Qualitätsbeweis, sondern auch ein Ausdruck des kulturellen Selbstvertrauens. Sie sagen der Welt: Taiwan hat nicht nur leckere Volksküche, sondern auch Fine Dining Weltklasse; Taiwan bewahrt nicht nur Traditionen, sondern kann auch die Zukunft gestalten.
+Michelin mag aus Frankreich stammen, aber der Glanz, der auf taiwanesischem Boden erstrahlt, trägt einen tiefen taiwanesischen Charakter. Diese Sterne sind nicht nur ein Qualitätsbeweis, sondern auch ein Ausdruck des kulturellen Selbstvertrauens. Sie sagen der Welt: Taiwan hat nicht nur leckere Volksküche, sondern auch weltklasse Fine Dining; Taiwan bewahrt nicht nur Tradition, sondern kann auch die Zukunft gestalten.
 
-Aber wir müssen uns auch ehrlich mit dem Preis des Michelin-Effekts auseinandersetzen: jene Restaurants, die am Rande der Sterne kämpfen, die durch Veränderungen veränderten traditionellen Volksküchen und die „fast guten“ Restaurants unter Druck stehen. Ist dies ein notwendiger Kostenfaktor beim Streben nach Exzellenz oder ein systemisches Problem, das verbessert werden kann?
+Aber wir müssen uns auch ehrlich dem Preis des Michelin-Effekts stellen: den Restaurants am Rand der Sterne, den traditionellen Snacks, deren Ökosystem verändert wurde, und den „fast guten“ Restaurants unter Druck. Ist dies ein unvermeidlicher Kostenfaktor beim Streben nach Exzellenz oder ein systemisches Problem, das verbessert werden kann?
 
-In der prunkvollen Nacht der taiwanesischen Gastronomie erzählt jeder Stern dieselbe Geschichte: Es ist ein kulinarisches Paradies, das sowohl traditionell als auch modern, lokal und international ist. Die wahre Herausforderung besteht jedoch nicht darin, mehr Sterne zu gewinnen, sondern dabei, die Seele der taiwanesischen Esskultur nicht zu verlieren, während man nach internationaler Anerkennung strebt.
+In der sterzüberstrahlten Nacht der taiwanesischen Gastronomie erzählt jeder Stern dieselbe Geschichte: Es ist ein kulinarisches Paradies, das sowohl traditionell als auch modern, lokal und international ist. Die wahre Herausforderung besteht jedoch nicht darin, mehr Sterne zu gewinnen, sondern dabei, die Seele der taiwanesischen Esskultur im Prozess der internationalen Zertifizierung nicht zu verlieren.
 
 Das ist Taiwan; das ist unsere Selbstreflexion unter den Sternen.
 
 ## Referenzen
 
 - [Vollständige Liste des „Taiwan Michelin Guide 2025“](https://guide.michelin.com/tw/zh_TW/article/michelin-guide-ceremony/taiwan-full-list)
-- [Globales Essen: Eine interkulturelle Reflexion von Michelin – VERSE](https://www.verse.com.tw/article/taste-guide-michelin)
+- [Globales Essen: Die kulturelle Bedeutung von Michelin reflektiert – VERSE](https://www.verse.com.tw/article/taste-guide-michelin)
 - [Earth Day: How MICHELIN Green Star Restaurants In Asia Are Doing Their Part With Sustainable Practices](https://guide.michelin.com/en/article/features/earth-day-michelin-green-star-restaurants-asia-sustainable-practices)
-- [Michelin 2025 | „Taiwan Michelin Guide 2025“ enthüllt die Sternliste – Vogue Taiwan](https://www.vogue.com.tw/article/michelin-guide-2025-%E5%8F%B0%E7%81%A3%E7%B1%B3%E5%85%B6%E6%9E%97%E6%8C%87%E5%8D%97)
-- [„Taiwan Michelin Guide 2025“ listet insgesamt 144 Bib Gourmand-Betriebe auf](https://guide.michelin.com/tw/zh_TW/article/michelin-guide-ceremony/michelin-guide-taiwan-2025-bib-gourmand-selection)
+- [„Taiwan Michelin Guide 2025“ mit insgesamt 144 Bib Gourmand Empfehlungen](https://guide.michelin.com/tw/zh_TW/article/michelin-guide-ceremony/michelin-guide-taiwan-2025-bib-gourmand-selection)
+
+[^1]: [Erste Ausgabe des Michelin Guides in Taipeh! 20 Restaurants erhalten Sterne - Newtalk](https://newtalk.tw/news/view/2018-03-14/117318) — – Bericht vom 14. März 2018: Die erste Liste enthielt 110 Einträge und 20 Sterne; Le Palais war das einzige Drei-Sterne-Restaurant, bekannt gegeben von International Director Michael Ellis
+
+[^2]: [Vollständige Liste: Bib Gourmand Empfehlungen des ersten „Michelin Guide Taipei“ - Michelin Guide](https://guide.michelin.com/tw/zh_TW/taipei-region/taipei/article/news-and-views/taipei-michelin-guide-bib-2018) — – 36 Bib Gourmands, darunter 10 aus Nachtmärkten; Yongkang Rindfleischgericht wurde gelistet; Ellis' Originalaussage; Erstausgabe veröffentlicht am 14. März 2018 im Wen Hua Dongfang Hotel in Taipeh
+
+[^3]: [„Taiwan Michelin Guide 2025“ enthüllt die vollständige Liste - Michelin Guide](https://guide.michelin.com/tw/zh_TW/article/michelin-guide-ceremony/michelin-guide-taiwan-starred-restaurant-2025) — – Die achte Ausgabe umfasst 419 Einträge, 53 Sterne und sieben Landkreise; 7 Green Stars, Tu Pang wurde neu gelistet
+
+[^4]: [Michelin 2022 / JL Studio behalten zwei Sterne bei, singapurische Küche zeigt vertraute Heimatgeschmäcker - Yuanjian Magazine](https://www.gvm.com.tw/article/93676) — – Taichung wurde erstmals 2020 bewertet; JL Studio erhielt sofort zwei Sterne; Lin Tianyao kam 2007 nach Taiwan und arbeitete acht Jahre im LeMu, eröffnete JL Studio 2017
+
+[^5]: [Vollständige Liste des „Michelin Guide Taipei, Taichung, Tainan & Kaohsiung 2022“ - Taiwan English News](https://www.taiwannews.com.tw/ch/news/4642126) — – Die Ausgabe 2022 führte erstmals Tainan und Kaohsiung ein; die ersten Green Stars wurden 2021 in Taipeh und Taichung verliehen, an Shan Hai Lou und Yang Ming Chun Tian
+
+[^6]: [„Taiwan Michelin Guide 2026“ vollständige Liste - Michelin Guide](https://guide.michelin.com/tw/zh_TW/article/michelin-guide-ceremony/taiwan-full-list) — – Veröffentlicht am 21. Juli 2026; 434 Einträge insgesamt; drei Sterne für Le Palais, Taïrroir und JL Studio; 9 Green Stars; Shan Hai Lou ist ein Ein-Stern- und Green Star-Restaurant
+
+[^7]: [An dem Tag der Auszeichnung: Chen Weiqiang und Chen Taiyong von Le Palais - Michelin Guide](https://guide.michelin.com/tw/zh_TW/taipei-region/taipei/article/people/first-day-i-got-my-michelin-stars-Le-Palais) — – Interview mit den beiden Küchenchefs von Le Palais am 15. März 2018, einschließlich der Originalaussage von Chen Weiqiang über die Sterneauszeichnung
+
+[^8]: [Interview mit dem Zwei-Sterne-Koch He Shunkai - Marie Claire Beauty](https://www.marieclaire.com.tw/lifestyle/career/46333) — – He Shunkai arbeitete in einer Filiale von Guy Savoy in Singapur und JAAN; er gründete Taïrroir 2016, der Name kombiniert Taiwan und _terroir_; ein Stern im Jahr 2018, zwei Sterne im Jahr 2019
+
+[^9]: [【Michelin 2023】Analyse der vollständigen Liste von 44 ausgezeichneten Restaurants: Taïrroir und JL Studio erreichen drei Sterne - Mirror Weekly](https://www.mirrormedia.mg/story/20230831food001) — – Am 31. August 2023 stiegen sowohl Taïrroir als auch JL Studio von zwei auf drei Sterne auf
+
+[^10]: [Die Inspirationsreise des Küchenchefs Lin Tianyao von JL Studio - Michelin Guide](https://guide.michelin.com/tw/zh_TW/article/people/inspirational-journey-jimmy-lim-jl-studio) — – Die Variante mit weißem Spargel und Koyo, die vom Hainanese Chicken Rice inspiriert ist; Originalaussage von Lin Tianyao über die Menüänderung
+
+[^11]: [„Taiwan Michelin Guide 2025“ enthüllt insgesamt 144 Bib Gourmand Empfehlungen - Michelin Guide](https://guide.michelin.com/tw/zh_TW/article/michelin-guide-ceremony/michelin-guide-taiwan-2025-bib-gourmand-selection) — – Im Jahr 2025 wurden 144 Bib Gourmands verliehen, wobei 37 neue hinzugefügt wurden und fast sechzig Prozent lokale taiwanesische Speisen und Snacks anbieten
+
+[^12]: [Earth Day: How MICHELIN Green Star Restaurants In Asia Are Doing Their Part - MICHELIN Guide](https://guide.michelin.com/en/article/features/earth-day-michelin-green-star-restaurants-asia-sustainable-practices) — – Der Green Star wurde erstmals 2020 in der französischen Ausgabe verliehen; listet Sterne-Restaurants mit Green Stars in Hongkong, Thailand, Peking, Shanghai, Tokio und Kyoto sowie Shan Hai Lou in Taipeh auf
+
+[^13]: [【Michelin 2022】Veröffentlichung der Sternrestaurants - Mirror Weekly](https://www.mirrormedia.mg/story/20220830food003) — – Im Jahr 2022 erhielten EMBERS und Xiaoxiao Shushi Green Stars; Shan Hai Lou und Yang Ming Chun Tian behielten ihre Sterne; Chefkoch Wes von EMBERS verwendet reichlich indigene Zutaten
+
+[^14]: [Der Schock des Rücktritts von Jiang Zhencheng! RAW schließt am 31.12 - NOWnews](https://www.nownews.com/news/6481528) — – RAW wurde 2014 gegründet, erhielt im Jahr 2018 einen Stern und war 2019 bis 2023 zwei Sterne; schloss am 31. Dezember 2024

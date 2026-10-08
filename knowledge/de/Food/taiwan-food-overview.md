@@ -39,9 +39,10 @@ sporeLinks:
     url: 'https://x.com/taiwandotmd/status/2059458468898287770'
 relatedDiary: ['2026-05-27-122151-manual']
 translatedFrom: 'Food/台灣美食總覽.md'
-sourceCommitSha: '53dd93dd8'
-sourceContentHash: 'sha256:ddb3f321dcd88457'
-translatedAt: '2026-09-26T07:17:28.126727+00:00'
+sourceCommitSha: 'c4bb5dc71'
+sourceContentHash: 'sha256:1ab18bf6c6736ca9'
+sourceBodyHash: 'sha256:d8ec20e1d4812ac6'
+translatedAt: '2026-10-08T06:56:42.970562+00:00'
 ---
 
 # Taiwan im kulinarischen Überblick: Kein Gericht ist rein taiwanesisch, jedes Gericht ist am taiwanesischsten
@@ -180,33 +181,33 @@ Ein Banquet-Tisch hat üblicherweise „zwölf Gänge“. Der Titel der Serie �
 
 ---
 
-## 2018 kam Michelin: Von 419 Betrieben sind 144 Straßenstände
+## Michelin kam im Jahr 2018: 144 von 419 Lokalen sind Straßenstände
 
-Am 14. März 2018 betrat der _Guide Michelin_ Taiwan und markierte damit den offiziellen Eintritt der taiwanesischen Gastronomie in das internationale Bewertungssystem.
+Am 14. März 2018 trat der „Michelin Guide“ in Taiwan ein und markierte den offiziellen Eintritt der taiwanesischen Gastronomieszene in das internationale Bewertungssystem.
 
-Bis zur achten Ausgabe 2025 verzeichnete Michelin 419 Restaurants: **3 Drei-Sterne-, 7 Zwei-Sterne-, 43 Ein-Sterne-Restaurants, 144 Bib Gourmand sowie 7 Grüne Sterne (nachhaltige Restaurants)**[^54].
+In der achten Ausgabe bis 2025 listete Michelin insgesamt 419 Restaurants auf: **3 Sterne, 7 Zwei-Sterne-, 43 Ein-Stern-Restaurants und 144 Bib Gourmand-Empfehlungen (Bib Gourmand), sowie 7 Grüne Sterne (nachhaltige Restaurants)**[^54].
 
-**Alle drei Drei-Sterne-Restaurants verteidigten ihren Status über mehrere Jahre in Folge**: Yeh Gee (Taipeh, kantonesisch), Taïr (Taipeh, moderne taiwanesische Küche), JL Studio (Taichung, singapurische/moderne Küche). **Yeh Gee hält seit der ersten Ausgabe 2018 ununterbrochen drei Sterne – acht Jahre in Folge**, der längste Drei-Sterne-Rekord Taiwans. Doch es gibt eine Wende: Yeh Gees ehemaliger Küchenchef Chen Tai-jung (geb. 1970 in Macau) verließ das Restaurant 2024 und eröffnete in Kaohsiung das neue kantonesische Restaurant „Jun Gen“[^55]. Dass die Seele eines acht Jahre lang mit drei Sternen ausgezeichneten Hauses woanders hingeht, zeigt die Fragilität der Spitzen gastronomie.
+**Die drei Dreisterne-Restaurants halten seit mehreren Jahren durchgehend ihre Auszeichnung**: Yi Gong (Taipei, Kantonesisch), Tai Rui (Taipei, moderne taiwanesische Küche) und JL Studio (Taichung, Singapur/moderne Küche). **Yi Gong hält seit der ersten Ausgabe im Jahr 2018 acht Jahre lang den Dreisterne-Status**, was den längsten Dreisterne-Rekord in Taiwan darstellt. Doch es gab eine Wende: Der ehemalige Küchenchef von Yi Gong, Chen Tai-rong (geboren 1970 in Macau), verließ Yi Gong im Jahr 2024, um das neue Kantonesisch-Restaurant „Jun Gen“ in Kaohsiung zu eröffnen[^55]. Die Zerbrechlichkeit der Spitzenküche wird dadurch verdeutlicht: Der geistige Leiter eines achtjährigen Dreisterne-Hauses ging woanders hin.
 
-**RAW (Jiang Zhen-cheng) hat den Betrieb eingestellt**. Jiang verkündete am 31. Dezember 2024 die Schließung – ein Abschied nach 10 Jahren[^56]. Taiwans Fine Dining ging nach dem Rampenlicht von 2018 noch einmal zehn Jahre seinen eigenen Weg.
+**RAW (Jiang Zhencheng) hat geschlossen**. Jiang Zhencheng gab an, dass RAW bis zum 31. Dezember 2024 operieren würde – ein Abschied nach zehn Jahren[^56]. Die feine Gastronomie Taiwans erlebte nach dem Rampenlicht von 2018 noch ein eigenes Jahrzehnt.
 
-Doch die eigentliche Besonderheit des Guide Michelin liegt in der Kategorie **Bib Gourmand**, die „gute Küche zu fairen Preisen“ auszeichnet. Allein in Tainan gab es 2024 31 Bib-Gourmand-Restaurants, viele davon lokale Snack-Betriebe[^57]. **Damit erkannte Michelin Taiwans Alltagsküche an**: Eine Schüssel Rindfleischsuppe für 70 NT$ am Straßenrand kann auf Augenhöhe mit einer Michelin-Sterne-Küche stehen. CNN bezeichnete Tainan direkt als „Taiwan's food capital“[^58].
+Doch das Bemerkenswerteste am Michelin Guide ist eigentlich die Auszeichnung **Bib Gourmand**, da sie speziell „preisgünstige, gute Lokale“ würdigt. Bereits in der Stadt Tainan gab es im Jahr 2024 31 Bib Gourmand-Restaurants, viele davon lokale Spezialitätenläden[^57]. **Dies bedeutet, dass Michelin den Volksgeschmack Taiwans anerkennt**: Eine Schüssel Rindertopf für 70 NT$ an der Straßenecke kann gleichberechtigt neben einer Sterneküche stehen. CNN bezeichnete Tainan direkt als „Taiwan's food capital“ (die Lebensmittelhauptstadt Taiwans)[^58].
 
-> **📊 Michelin Taiwan 2025 – Daten**
+> **📊 Michelin Taiwan Daten 2025**
 
-| Kennzahl        | 2024 | 2025 |
-| --------------- | ---- | ---- |
-| Gesamt gelistet | 343  | 419  |
-| Drei Sterne     | 3    | 3    |
-| Zwei Sterne     | 5    | 7    |
-| Ein Stern       | 41   | 43   |
-| Bib Gourmand    | 126  | 144  |
-| Grüne Sterne    | 6    | 7    |
+| Indikator             | 2024 | 2025 |
+| :-------------------- | :--- | :--- |
+| Gesamtgelistet        | 343  | 419  |
+| Drei Sterne           | 3    | 3    |
+| Zwei Sterne           | 5    | 7    |
+| Ein Stern             | 41   | 43   |
+| Bib Gourmand          | 126  | 144  |
+| Grünster (Nachhaltig) | 6    | 7    |
 
-Eine weitere Dimension der gehobenen Gastronomie ist Tee. Taiwans Hochlandtees fanden ihren Weg von den Teehäusern auf die Teekarten der Michelin-Restaurants. Die Hochlandtees von Alishan, Lishan, Shanlinxi und Taimali, angebaut auf über 1.000 Metern Höhe in nebelverhangenen Hängen, reichen von den Tsou-Dörfern bis an den Rand der Tassen in Spitzenrestaurants. Dass John Dodd 1865 Oolong-Teepflanzen aus Fujian nach Danshui brachte, prägt Taiwans Geschmackslandkarte noch 160 Jahre später.
+Ein weiterer Aspekt der feinen Gastronomie ist der Tee. Hochgebirgstees aus Taiwan sind von den Teestuben auf die Speisekarten der Michelin-Restaurants gelangt. Die Bergregionen von Alishan, Lishan, Shanlinxi und Taimali, mit Höhen über 1.000 Meter und umgeben von Nebel, reichen von den Zuo-Stämmen bis zu Spitzenrestaurants. Der Akt, als Tao De im Jahr 1865 Oolong-Pflanzen aus Fujian nach Tamsui einzubringen, beeinflusst die Geschmackskarte Taiwans noch 160 Jahre später.
 
-![Teegarten im YUYUPAS Tsou-Kulturpark in Alishan, Teebäume ordentlich auf Hängen angepflanzt](/article-images/food/taiwan-food-alishan-yuyupas-tea-garden-2011.webp)
-_Alishan-Hochlandtee: Von den Tsou-Dörfern auf die Teekarten der Michelin-Sterne-Restaurants, gewachsen in Nebel über 1.000 Metern Höhe. Foto: Hughon-zxl, 2011, CC BY-SA 3.0 [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:In_the_Alishan_YUYUPAS_tea_garden.JPG)._
+![Tejagd in der Zuo-Kulturparkanlage von Alishan](/article-images/food/taiwan-food-alishan-yuyupas-tea-garden-2011.webp)
+_Alishan Hochgebirgstea: Nebel um 1000 Meter hoch, vom Zuo-Stammen bis zur Michelin-Speisekarte. Foto: Hughon-zxl, 2011, CC BY-SA 3.0 [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:In_the_Alishan_YUYUPAS_tea_garden.JPG)._
 
 ## Der nächste Bissen: Neue Einwohner, Nachhaltigkeit, Lieferdienste, Vegan weltweit an dritter Stelle
 
