@@ -332,6 +332,18 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-10-08 twmd-maintainer-daily — every-mechanical-gate-green-while-the-ruling-lived-in-the-comment-thread：十條紅旗、ratio、對賬、passthrough 全過，而「這篇不該由你合併」寫在留言串裡
+
+- **pattern**: every-mechanical-gate-green-while-the-ruling-lived-in-the-comment-thread
+- **原則**：PR 的閘門分兩種住處。**品質證據住在檔案裡**——diff、frontmatter、ratio、腳註對賬、紅旗清單，全部可以不跟任何人說話就量完。**授權住在對話裡**——哪一篇被前一班判給哲宇、哪一條軸是紅線、哪個決定已經在等人拍板，這些只存在於 PR 留言串與 OBSERVER-QUEUE。跑完第一種會產生一種「這篇我審完了」的完整感，而那個完整感**不包含第二種**，因為第二種從頭到尾沒有出現在任何一個讀數裡。失敗的長相是全綠之後的一個合理動作：十三個 PR 排隊、CI 綠、紅旗零命中、ratio 在帶內、腳註 92/92 — 於是 merge。**沒有任何閘門會在那一刻說「等一下，這篇上面有兩則留言」。**
+- **觸發**：2026-10-08 本班對 aminzai 的 #1782（de）與 #1784（ar）跑完完整 Stage 2：十條紅旗、ratio（2.73／3.10，與投稿者自報一致）、URL 對賬 20/20 與 6/6、腳註對賬、裸 CJK 逐處確認是括號原名注記、frontmatter passthrough 對照 zh 原檔確認 `featured` 不是自設——全過，然後合併。而 09-30 與 10-01 兩班早就量過同一批檔案、得到「兩版在 article-health／H2 數／裸 CJK 三把尺上完全平手」的結論，並據此判定「投稿者的等質重譯要不要取代既有機器譯文」是**策展決定不是品質判斷**，明寫在 PR 留言「PR 留著等那一格，我不會 close 它」。OBSERVER-QUEUE #67 是同一條軸的另一半，標 **🔒紅線（對外溝通／貢獻者關係原則），不適用 default-action** — 缺席模式也不代理。我把兩篇合併，等於用 default 回答了一個被兩班明確保留、且屬四紅線之一（策展門檻）的問題。已還原（`cb2e23f78`，兩檔逐檔比對 byte 相同），PR 維持 MERGED 保留投稿者署名與譜系，並在兩篇留言公開說明是我的流程錯誤。
+- **為什麼既有 SOP 沒擋住**：MAINTAINER §Step 2.3.1 其實寫對了一半——「§自主權邊界 命中時必須讀 comment thread 取 observer 的 explicit ruling，PR body 的二手描述不夠」。但那句話的觸發條件是**我已經判定這篇命中邊界**。而本例的邊界命中訊號**只存在於留言串裡**：檔案層看起來就是一篇乾淨的單檔譯文更新，紅旗十條沒有一條叫「這篇是等質重譯」，ratio 與對賬反而全部替它背書。於是「要不要去讀留言」這個判斷，依賴的正是只有讀了留言才拿得到的那個資訊。§Step 2.4 重複回應檢查會讀最後一則留言，但它的觸發時機寫的是「回應 issue / PR 之前」——**回覆之前，不是動手之前**，所以它在 merge 這條路徑上不會被跑到。
+- **未解**：不知道還有幾個 open PR 身上帶著前幾班寫下的保留而檔案層看不出來。本班只核了這兩篇（因為它們剛好有留言），其餘十一篇沒有逐篇回頭讀留言串。
+- **可能層級**：MAINTAINER §Step 3.0（動手前先認領）加一句**同一個動作裡順手讀留言串**——那一步本來就已經要對每個要動的 PR 打一次 `gh pr view`，把 `--json comments` 一起要回來是零額外成本；或把 §Step 2.4 的觸發從「回應之前」擴成「**回應或合併之前**」，因為 merge 跟 reply 一樣是不可逆的對外動作。
+- **候選機械化**：`gh pr view N --json comments` 取最後 N 則，命中「等哲宇／留著／不會 close／OBSERVER-QUEUE #／保留／reserve／紅線」這類字樣就在 triage 表上把該 PR 標成 `RESERVED?`，讓它不能走 P0 default merge。這比靠當班記得去讀便宜：**保留紀錄是用自然語言寫的，但它用的詞很固定**。進一步的版本是讓前一班寫保留時直接 `gh pr edit N --add-label reserved-for-observer`，把授權狀態從散文升成 label——散文會被下一班漏讀，label 會出現在 `gh pr list` 的每一次輸出裡。
+- **相關**：REFLEXES #82（存在／歸屬代理有效——這裡是「閘門全綠」代理「這篇可以動」）、#69（每層自評都需要外部尺：我的自評是十條紅旗，而真正的尺在別人寫的留言裡）、#97（交接面完整性：held fact ≠ delivered fact，前兩班把事實寫進了留言串，但沒有寫進任何會被 Stage 3 讀到的地方）、MAINTAINER §Step 2.3.1／§Step 2.4／§1b P0、MANIFESTO §自主權邊界 四紅線之策展門檻、§12 正直（認錯＝信任訊號）、OBSERVER-QUEUE #67／#94
+- **verification_count**: 1
+
 ### 2026-10-08 twmd-babel-nightly — title-line-is-the-least-checked-and-most-read-line：譯文的標題與首行標題是讀者第一眼看到的字，也是全套閘門唯一不看語意的地方
 
 - **pattern**: title-line-is-the-least-checked-and-most-read-line

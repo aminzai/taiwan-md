@@ -64,6 +64,7 @@ bash scripts/tools/npm-audit-sweep.sh   # 四道一次報完，每條附「修�
 - **Issue 重複回應檢查**（Step 2.4 前置 gate）：對 last-active issue 跑 `gh issue view N --json comments -q '.comments[-1]'`，避免維護者連續自答
 - **🔴 紅旗 check**（Step 2.3.1 ground-truth check）— 命中即 abort + LESSONS append
 - **動手前先認領**（Step 3.0，2026-09-19）：要改的 issue / PR 先 `gh issue/pr edit N --add-assignee @me`；已有他人 assignee ＝ 另一台機器在做，跳過（09-18 #1746 兩台同修）
+- **🚨 認領的同一口氣讀留言串**（Step 3.0，2026-10-08）：**授權不住在檔案裡，住在對話裡**。十條紅旗／ratio／腳註對賬／frontmatter passthrough 全綠會給出「我審完了」的完整感，而那個完整感**不包含「這篇該不該由我動」**。`gh pr view N --json labels,comments` 跟認領同一次要回來（零額外成本）；**`reserved-for-observer` label ＝ 不走 P0 default merge**。看到「等哲宇／留著／不會 close／OBSERVER-QUEUE #／保留／紅線」字樣而沒有 label → 補 label 再動手。自己判定保留時也一律掛上（散文會被下一班漏讀，label 每次 `gh pr list` 都看得到）。誕生：10-08 本班把 #1782／#1784 合併，而 09-30／10-01 兩班已判定那是策展決定並明寫「我不會 close 它」，OBSERVER-QUEUE #67 標 🔒紅線不適用 default-action；已還原 `cb2e23f78`。LESSONS `every-mechanical-gate-green-while-the-ruling-lived-in-the-comment-thread`
 
 ---
 

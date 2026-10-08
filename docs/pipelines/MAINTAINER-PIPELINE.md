@@ -279,6 +279,7 @@ git push origin main   # GitHub 將 PR 標 MERGED，tree 不變
 | ------------------------------------------------ | ----------- | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | --------------------------------------- |
 | 重複回應檢查                                     | Stage 2     | 所有 issue / PR reply 前                                        | `gh issue/pr view N --json comments -q '.comments[-1]'`                                                | skip 回覆                               |
 | **動手前先認領** ⭐ v2.11                        | Stage 3.0   | 任何要動手改的 issue / PR                                       | `gh issue/pr edit N --add-assignee @me`；已有他人 assignee → 跳過                                      | 兩台機器重做同一件事                    |
+| **讀留言串 + reserved label** ⭐ v2.16           | Stage 3.0   | 同上，認領的同一口氣                                            | `gh pr view N --json labels,comments`；`reserved-for-observer` → 不走 P0                               | 用 default 回答了被保留的決定           |
 | **分岔當班修** ⭐ v2.12                          | Stage 1.1b  | `git rev-list --left-right --count main...origin/main` 兩邊 > 0 | `scripts/tools/merge-divergence.py` + §Step 1.1b 12 步                                                 | 分岔活過一天、衝突面每天長              |
 | 🔴 紅旗 check                                    | Stage 2     | 所有 PR                                                         | manual diff scan                                                                                       | close + reason                          |
 | [Content] issue anti-poison + dedupe             | Stage 2.1.1 | title `[Content]` prefix / body `cron 研究 scan` 標記           | author profile + body 結構 + knowledge/ + INBOX grep                                                   | close + reason / route 分流             |
@@ -912,6 +913,25 @@ gh issue view N --json assignees -q '[.assignees[].login] | join(",")'   # 空 �
 gh issue edit N --add-assignee @me            # issue 認領
 gh pr   edit N --add-assignee @me             # PR 認領（審核前就掛，不等 merge 才留言）
 ```
+
+#### 認領的同一口氣把留言串讀掉（v2.16，2026-10-08）
+
+**授權不住在檔案裡，住在對話裡。** 品質證據（diff／frontmatter／ratio／腳註對賬／十條紅旗）可以不跟任何人說話就量完，而「這篇已經被前一班判給哲宇」只存在於 PR 留言串與 OBSERVER-QUEUE。跑完前者會產生一種「我審完了」的完整感，而那個完整感**不包含後者**。
+
+```bash
+gh pr view N --json assignees,labels,comments \
+  -q '{assignees:[.assignees[].login], labels:[.labels[].name], last:(.comments|.[-2:]|[.[]|{a:.author.login,at:.createdAt}])}'
+```
+
+**`reserved-for-observer` label ＝ 不走 P0 default merge**。前一班判定某 PR 的處置屬保留決定（策展門檻／四紅線）時，除了寫留言，**一律同時掛這個 label**：
+
+```bash
+gh pr edit N --add-label reserved-for-observer
+```
+
+散文會被下一班漏讀，label 會出現在 `gh pr list` 的每一次輸出裡。**保留紀錄用自然語言寫，但它用的詞很固定**（「等哲宇」「留著」「不會 close」「OBSERVER-QUEUE #」「保留」「reserve」「紅線」）——看到這些字樣而沒有 label，補上 label 再動手。
+
+> 誕生：2026-10-08 本班對 #1782／#1784 跑完完整 Stage 2——十條紅旗、ratio（2.73／3.10，與投稿者自報一致）、URL 對賬 20/20 與 6/6、腳註對賬、裸 CJK 逐處確認、frontmatter passthrough 對照 zh 確認 `featured` 不是自設——全過，然後合併。而 09-30／10-01 兩班早已量過同一批檔、判定「投稿者的等質重譯要不要取代既有機器譯文」是**策展決定不是品質判斷**，明寫「PR 留著等那一格，我不會 close 它」；OBSERVER-QUEUE #67 是同一條軸的另一半，標 🔒紅線、不適用 default-action。已還原（`cb2e23f78`，兩檔 byte 相同），PR 維持 MERGED 保留譜系，兩篇留言公開認錯。**§Step 2.3.1 其實寫對了一半**（「命中 §自主權邊界 時必須讀 comment thread 取 observer ruling」），但它的觸發條件是「我已判定命中邊界」，而本例的命中訊號**只存在於留言串裡**——檔案層看起來就是一篇乾淨的單檔譯文更新，ratio 與對賬反而全部替它背書。**§Step 2.4 讀最後一則留言的觸發時機寫的是「回應之前」，不是「動手之前」**，所以在 merge 這條路徑上不會被跑到。LESSONS `every-mechanical-gate-green-while-the-ruling-lived-in-the-comment-thread`。
 
 做完後結果留言（Step 3.7）照舊；認領本身不多一則留言。分靈節點 PR 的「draft = 認領中」（§C 路徑）是同一個協議在節點側的形狀，本步是 issue／contributor PR 側缺的那一格。
 
@@ -1619,6 +1639,7 @@ _v2.0 | 2026-05-11 twmd-maintainer-pm-211549-v2-spine — Stage spine restoratio
 
 _最近 milestone（完整 changelog → `git log docs/pipelines/MAINTAINER-PIPELINE.md`）_：
 
+- **v2.16**（2026-10-08 twmd-maintainer-daily，第二波）— Step 3.0 補〈認領的同一口氣把留言串讀掉〉＋ `reserved-for-observer` label：**授權不住在檔案裡，住在對話裡**。本班對 #1782／#1784 跑完十條紅旗／ratio／腳註與 URL 對賬／frontmatter passthrough 全過然後合併，而兩班前已判定那是保留給哲宇的策展決定、OBSERVER-QUEUE #67 標 🔒紅線不適用 default-action。已還原 `cb2e23f78`，PR 維持 MERGED。§Step 2.3.1 的觸發條件是「已判定命中邊界」，而命中訊號只住在留言串；§Step 2.4 的觸發是「回應之前」不是「動手之前」。LESSONS `every-mechanical-gate-green-while-the-ruling-lived-in-the-comment-thread`
 - **v2.16**（2026-10-08 twmd-maintainer-daily）— Step 1.5c〈紅在 `npm audit` 時一次看完四道〉＋ [`npm-audit-sweep.sh`](../../scripts/tools/npm-audit-sweep.sh)：contracts job 的四道 audit 用 `&&` 串著，第一道紅了後面三道不跑，於是修第一個看到的只是把紅燈推到下一格（10-02 那班踩過）。路徑從 workflow 解析不寫死，每條公告附「修補在不在小版本內」的判斷，量不到的路徑印 UNKNOWN 而不是算進全綠。LESSONS `external-advisory-reddens-a-gate-and-not-our-code-becomes-a-reason-not-to-act` 候選機械化 (a) 落地（vc=3：09-30／10-02／10-08）
 - **v2.15**（2026-10-01 twmd-maintainer-am）— Step 4.1 補〈斷鏈 audit 要 fresh dist〉：連三輪 skip 的理由「build 會撞 babel 共用檔」只對 `npm run build` 成立，競用來自 `prebuild:status`，改走 `npm run sync:build`（無 pre/post hook）在 babel 滿載時實測零碰撞；同時補「build 還在跑時別讀那支尺」（半成品 dist 的 mtime 是現在，staleness guard 放行而分母崩成 1）。另更正 Step 3.4 紅旗 8 的 canonical 14 類清單：原列 `Language`（無此目錄）、漏 `Politics`（18 篇），改以 `categoryConfig.ts` 的 key 為準
 - **v2.14**（2026-09-27 twmd-maintainer-am）— Step 1.5 從可貼指令改成 [`ci-main-health.sh`](../../scripts/tools/ci-main-health.sh) 儀器：09-03 的 group-by 全表只涵蓋最近 100 筆 run，實測 8.3 小時，冷門 workflow 紅完就滑出窗；改成逐條問 workflow 自己的 runs endpoint。新尺首跑抽驗抓到自己兩個假陽性（fork PR 的 head branch 叫 main／`push: tags` 不是分支觸發），修完再過正控制
