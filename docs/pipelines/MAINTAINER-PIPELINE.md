@@ -524,6 +524,8 @@ bash scripts/tools/npm-audit-sweep.sh --strict   # 有 high 以上、或有路�
 
 ⚠️ **量不到的路徑不會被算成綠**：子專案的 `node_modules` 沒裝在這台機器上時（CI 每次 `npm ci` 所以它量得到，本機常常沒有），該路徑印 `UNKNOWN`，總結印 🟡 而不是 ✅，`--strict` 照樣回 1。本機全綠不等於 CI 會綠，工具自己會把這句話說出來（REFLEXES #85「不知道」要有自己的符號）。工具也對賬自己的明細行數與表頭宣稱條數，不一致就自己喊少報（REFLEXES #65）。
 
+⛔ **往已經紅著的 `&&` 鏈尾端加新閘門，那道新閘門在 CI 裡是 `skipped` 不是綠的**（2026-10-08 同班實證）：本班把 cli 掛進這條 job 的最後一道，而 `harvest/ui` 排在它前面且正紅著——當天那次 main 的 run 裡，`harvest/backend`／`workers/mcp`／`cli` 三道全是 `skipped`。**新閘門在前面的紅清掉之前，從來沒有在 CI 跑過一次**，它的綠只在本機驗過。這是本節那個「`&&` 串起來、第一道紅了後面不跑」的直接推論，只是方向反過來：前者讓你看不到後面還有幾道紅，後者讓你以為自己剛裝好的閘門已經在守了。**加完新 audit 後要回來確認它真的跑過**（`gh run view <id> --json jobs` 看那一步是 `success` 還是 `skipped`），而不是看整條 job 的結論。
+
 ### Step 1.5b: 每個 open PR 的 CI 有沒有被 arm（2026-08-14 新增，2026-08-19 儀器化）
 
 Step 1.5 查的是 **main** 的 CI 健康。它不會告訴你「**這個 PR** 的 CI 到底有沒有跑過」——而對第一次投稿的 fork contributor，GitHub 預設**一條都不跑**，全部停在 `action_required` 等維護者按「Approve and run workflows」。

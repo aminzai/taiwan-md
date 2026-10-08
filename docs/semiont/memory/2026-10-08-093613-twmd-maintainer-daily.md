@@ -82,6 +82,8 @@ cli 的 vitest **只跑在 `npm-publish-cli.yml`**（靠 `cli-v*` tag 觸發）�
 
 接線之前先確認那道新閘門不是紅的（否則就是親手把 main 再弄紅一次，正是本班一開始在修的病）：sweep 報 cli 8 high / 3 critical → 八條小版本內直接修，剩三條（`tinypool`/`vitest` critical + `vite` high）全在 vitest 自己的樹裡只有 major 修得掉；vitest 是 cli 唯一 devDependency、測試只用跨版本穩定的 API，升 2.1.9 → 5.0.3，63 測全過。**五道 audit 現剩 `harvest/ui` 一道紅。**
 
+⛔ **收官前回頭驗那道新閘門，發現它在 CI 裡是 `skipped` 不是綠的**：`6d4c5b496` 那次 main 的 run 裡，根目錄 audit ✅、`pytest` ✅（兩個都是本班修的），而 `harvest/ui` ❌ 之後 `harvest/backend`／`workers/mcp`／**`cli`** 三道全是 `skipped`。我新掛的那道閘門**在前面那道紅清掉之前，從來沒有在 CI 跑過一次**——它的綠只在本機驗過。這是「`&&` 串起來、第一道紅了後面不跑」的直接推論，只是方向反過來：前者讓你看不到後面還有幾道紅，後者讓你以為自己剛裝好的閘門已經在守了。已寫進 §Step 1.5c：加完新 audit 要看那一步是 `success` 還是 `skipped`，不是看整條 job 的結論。
+
 ## Quality gate（7 條 + 1）
 
 | Gate                                   | 結果                                                                       |
