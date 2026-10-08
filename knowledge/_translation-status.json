@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-09T04:27:21+08:00",
-    "zhCommitHead": "7c64dec5f",
+    "lastUpdated": "2026-10-09T05:23:09+08:00",
+    "zhCommitHead": "3aeef3c9a",
     "totalZh": 1125,
     "activeLanguages": [
       "en",
@@ -84,8 +84,8 @@
       },
       "hi": {
         "total_zh": 1125,
-        "fresh": 1124,
-        "stale": 1,
+        "fresh": 1125,
+        "stale": 0,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -51982,18 +51982,18 @@
         "hi": {
           "path": "hi/Lifestyle/taiwan-education-system.md",
           "translatedFrom": "Lifestyle/台灣教育制度.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:4e9ca27840e47d5f",
-          "sourceBodyHash": "sha256:0a4c39eae3411ae0",
-          "translatedAt": "2026-09-09T15:32:21+08:00",
+          "sourceCommitSha": "bf3cbdbc1",
+          "sourceContentHash": "sha256:f31b05f6ec817e0e",
+          "sourceBodyHash": "sha256:1a4718788413b7be",
+          "translatedAt": "2026-10-09T05:15:52+08:00",
           "translationLastCommit": "cf41c6ec",
           "translationLastModified": "2026-09-15T22:38:08+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 45845,
+          "footnoteDefs": 11,
+          "bytes": 53642,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (11→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Lifestyle/taiwan-education-system.md",
@@ -52002,8 +52002,8 @@
           "sourceContentHash": "sha256:f31b05f6ec817e0e",
           "sourceBodyHash": "sha256:1a4718788413b7be",
           "translatedAt": "2026-10-08T19:35:58.671301+00:00",
-          "translationLastCommit": "15c618a2",
-          "translationLastModified": "2026-07-26T02:31:14+08:00",
+          "translationLastCommit": "bb29fd72",
+          "translationLastModified": "2026-10-09T04:27:22+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "bytes": 37036,
