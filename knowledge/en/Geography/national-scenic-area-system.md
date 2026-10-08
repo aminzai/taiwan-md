@@ -1,237 +1,173 @@
 ---
-title: 'National Scenic Area System'
-description: "From the Northeast Coast to Kenting, Taiwan's 13 National Scenic Areas showcase a rich tapestry of natural landscapes and cultural heritage"
+title: "Taiwan's National Scenic Area System"
+description: 'A "national-level" tourism-first experiment: how 13 scenic areas navigate between conservation and development'
 date: 2026-03-23
+category: 'Geography'
 tags:
   [
     'National Scenic Areas',
-    'Tourism Resources',
-    'Natural Landscapes',
-    'Cultural Preservation',
-    'Ecotourism',
+    'Tourism Policy',
+    'Environmental Conservation',
+    'Sustainable Tourism',
+    'Land Use Planning',
   ]
-category: 'Geography'
+subcategory: '生態地理'
 author: 'Taiwan.md'
+featured: true
+lastVerified: 2026-10-08
+lastHumanReview: false
 difficulty: 'intermediate'
 readingTime: 12
-featured: true
-lastVerified: 2026-03-23
 translatedFrom: 'Geography/台灣國家風景區系統.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:9369d7f73b449799'
-sourceBodyHash: 'sha256:efc3d350be263a65'
-translatedAt: '2026-04-14T12:25:09+08:00'
-lastHumanReview: false
+sourceCommitSha: 'a3c3b8e7a'
+sourceContentHash: 'sha256:843b11dd2d549d80'
+sourceBodyHash: 'sha256:4e1aac3f956352d4'
+translatedAt: '2026-10-08T09:35:13+08:00'
 ---
 
-# National Scenic Area System
+# Taiwan's National Scenic Area System
 
-## 30-Second Overview
+> **30-second overview:** Taiwan has 13 "national scenic areas," starting with the Northeast Coast in 1984. Covering roughly 700,000 hectares across land and sea, they serve tens of millions of visitors annually. But unlike "national parks," these scenic areas prioritize tourism over conservation — a seemingly contradictory positioning that has been the greatest management challenge in Taiwan's 40 years of tourism development.
 
-Taiwan's National Scenic Areas (NSAs) are specific designated areas managed by the Tourism Administration of the Ministry of Transportation and Communications. There are currently 13 NSAs, starting with the Northeast Coast National Scenic Area established in 1984, to the Siraya National Scenic Area established in 2005. These areas cover diverse landscapes including mountains, coastlines, lakes, and hot springs, serving as vital assets for Taiwan's tourism industry.
+What do you expect from a place with "national" in its name? World-class protection standards? Strict environmental controls?
 
-**Keywords:** National Scenic Areas, Tourism, Nature Conservation, Cultural Heritage, Ecotourism
+Taiwan's national scenic areas might surprise you: **their purpose is not protection, but profit.**
 
-## Why It Matters
+In 1984, Taiwan's first national scenic area was born along the Northeast Coast. It was three years after martial law was lifted, the economy was booming, and the government realized tourism might be the next golden industry. Thus, a scenic area system centered on "tourism development" came into being.
 
-The National Scenic Area system is the cornerstone of Taiwan's tourism development. It not only protects precious natural and cultural resources but also drives local economic growth. These areas showcase Taiwan's diverse geography and rich cultural tapestry—from Indigenous cultures and Minnan architecture to Hakka settlements and battlefield heritage—all preserved and developed within these zones.
+Forty years later, these 13 scenic areas have become a key pillar of Taiwan's tourism industry, but they also face unprecedented challenges: how to find balance between making money and protecting nature?
 
-### Conservation and Exhibition of Natural Resources
+## A Contradictory Beginning
 
-The NSA system balances the needs of conservation and tourism development, protecting valuable natural assets while allowing the public to access and appreciate nature.
+The legal basis for national scenic areas is the "Tourism Development Act" promulgated in 1969, under which the Ministry of Transportation designated "scenic special zones." The thinking at the time was straightforward: **Taiwan has beautiful scenery, so why not use it for tourism development?**
 
-### Base for Cultural Heritage
+In June 1984, the Northeast Coast Scenic Area Administration Office was established, marking the beginning of Taiwan's systematic scenic area construction. The choice of the Northeast Coast was no accident — it's only an hour's drive from Taipei, features unique coastal erosion landforms, and is near the historic sites of Jiufen and Jinsha, making it an ideal testing ground for tourism development.
 
-Many scenic areas carry deep historical significance, becoming important platforms for the inheritance and exhibition of Taiwanese culture.
+> **💡 Did you know?**
+> The biggest difference between Taiwan's national scenic areas and national parks lies in their management objectives: national parks are managed by the Ministry of the Interior's National Park Service with a focus on ecological conservation; national scenic areas are managed by the Ministry of Transportation's Tourism Bureau with a focus on tourism development.
+> Despite both carrying the "national" label, their protection standards differ vastly.
 
-### Engine for Local Economies
+But this institutional design planted the seeds of contradiction from the very beginning.
 
-The establishment of scenic areas drives the development of peripheral tourism industries, creating jobs and income for local communities.
+Environmental Information Center's criticism was right to the point: "Currently, scenic areas like Alishan and Sun Moon Lake merely add the title of 'national scenic area' to their names and build beautiful visitor centers, without providing matching comprehensive tourism information, in-depth content and activities, or complete guided interpretation."
 
-## Evolution of the System
+In other words, **Taiwan gave these places a 'national-level' name, but did not provide corresponding management standards.**
 
-### Establishment Phase (1980s)
+## The Era of Rapid Expansion
 
-**Legal Basis**: The "Tourism Development Act" enacted in 1973 provided the legal foundation, authorizing the government to designate scenic areas for protection and development.
-**First NSA**: In 1984, the **Northeast Coast National Scenic Area** was established, becoming Taiwan's first national-level scenic area and pioneering the systematic construction of such zones.
-**Context**: As Taiwan's economy boomed in the 1980s, demand for leisure travel increased, prompting the government to prioritize tourism resource management.
+After the East Coast followed suit in 1988, leisure travel demand surged in the second half of the 1990s, and the government accelerated scenic area construction. Of the 13 scenic areas, 11 were established between 1995 and 2005:
 
-### Expansion Phase (1990s)
+- **1995**: Penghu National Scenic Area
+- **1996**: East Rift Valley National Scenic Area
+- **1997**: Dapeng Bay National Scenic Area
+- **1999**: Matsu National Scenic Area
+- **2000**: Sun Moon Lake and Sanxiantmen National Scenic Areas
+- **2001**: Alishan and Meinong National Scenic Areas
+- **2002**: North Coast and Qixingshan National Scenic Area
+- **2003**: Yunlin Coast National Scenic Area
+- **2005**: Syuoxi National Scenic Area
 
-**Rollout**: More areas were designated, including the North Coast (1991), Tri-Mountain (1996), and Alishan (1999).
-**Management Structure**: Dedicated administration offices were set up for each area to establish professional management teams and service systems.
-**Infrastructure**: Significant investment went into visitor centers, trail systems, and signage.
+Each scenic area's establishment represented the government's emphasis on the tourism industry. But it also meant that increasingly more relatively pristine natural environments were brought under "development and utilization."
 
-### Diversification Phase (2000s and beyond)
+This process was not without controversy. Take the Sanxiantmen National Scenic Area as an example — it encompasses three entirely different regions: Shihzihshan, Baguashan, and Lishan. Lishan sits at an elevation of about 2,000 meters. After the Central Cross-Island Highway opened in 1960, veterans who participated in the road construction settled here and began farming. The government introduced temperate fruits, and orchards preceded the scenic area by forty years. High-altitude orchards combined with tourism crowds have long been a source of soil erosion concerns.
 
-**Diverse Types**: The focus expanded from coastal areas to mountain, cultural, and ecological themes (e.g., Sun Moon Lake in 2001, Siraya in 2005).
-**Ecotourism Rise**: Emphasis shifted toward environmental protection, sustainability, and in-depth travel experiences.
-**International Promotion**: Active marketing to attract international visitors and elevate Taiwan's global tourism profile.
+**The key contradiction is this: scenic areas must "protect" the scenery, yet simultaneously "develop" it. These two goals are fundamentally at odds.**
 
-## Guide to the 13 National Scenic Areas
+## The Present State of 13 Scenic Areas
 
-### Northern Region
+Today's Taiwan national scenic area system consists of 13 administration offices, spanning from coastal areas at sea level to high mountains over 2,000 meters, covering volcanic geology to coral reef ecosystems, encompassing nearly all of Taiwan's landscape types.
 
-#### Northeast Coast and Yilan Coast NSA
+According to the Ministry of Transportation Tourism Bureau's 2023 report, these scenic areas have gradually recovered after the pandemic:
 
-**Established**: 1984 (First in Taiwan)
-**Scope**: From Nanya in New Taipei City to Neipi Beach in Yilan.
-**Features**:
+**Key Data (2023):**
 
-- **Nature**: Intricate capes and bays, sea-eroded terrain (Nanya Rock Formations, Bitou Cape).
-- **Culture**: Traditional fishing villages, the historic Caoling Historic Trail, and gold mining heritage in Jiufen/Jinguashi.
-- **Highlights**: Yehliu Geopark (Queen's Head), Fulong Beach, Old Caoling Tunnel.
+- Northeast Coast and Yilan Coast: Combined ridership of Taiwan's Good Hiking three routes totaled 159,207 person-times
+- Sun Moon Lake: Over 78,000 tourist consultation services, Taiwan's Good Hiking Sun Moon Lake line carried 769,323 person-times
+- Alishan: Attracted 5.47 million visitors, generating approximately NT$1.18 billion in tourism revenue
+- Penghu: Various activities attracted over 100,000 visitors, creating NT$520 million in economic value
 
-#### North Coast and Guanyinshan NSA
+These numbers look impressive, but the pressures behind them are very real.
 
-**Established**: 1991
-**Scope**: From the Tamsui River mouth to Shimen, including Guanyin Mountain.
-**Features**:
+> **⚠️ Controversial Viewpoint**
+> In 2023, the Penghu National Scenic Area cleaned up 1,650.9 tons of coastal garbage along 1,894 kilometers of coastline.
+> This figure demonstrates the efforts of the management unit, but also exposes the actual environmental impact of tourism pressure.
 
-- **Nature**: Volcanic terrain of Guanyinshan, coastal dunes at Baishawan.
-- **Culture**: Historical sites like Fort San Domingo, religious centers like Lingyun Zen Temple.
-- **Highlights**: Tamsui Old Street, Jinshan Old Street (Duck Meat), Shimen Arch.
+## The Unspoken Costs
 
-### Central Region
+The success of Taiwan's national scenic areas is often measured by "visitor numbers" and "tourism revenue." But some costs cannot be quantified by numbers.
 
-#### Tri-Mountain (Trimountain) NSA
+The cost of mountain tourism development is perhaps most evident in **Qingjing**. In Ren'ai Township, where Qingjing Farm is located, there are over 100 European-style guesthouses within just 4 kilometers. According to Nantou County statistics, there are 134 guesthouses in the Qingjing area, of which only 34 are legal. Most of these guesthouses are built on slopes with a 50-60% grade, far exceeding the legally mandated 30% limit.
 
-**Established**: 1996
-**Scope**: Lion's Head Mountain (Shitoushan), Lishan, and Baguashan.
-**Features**:
+Even more serious is the fact that the Qingjing area has no sewage treatment system, and all wastewater is directly discharged into the Zhuoshui River. The high level of development has expanded the impermeable surface area, causing surface runoff to carry large amounts of sediment, leading to severe siltation in the downstream Wanda Reservoir.
 
-- **Shitoushan**: Buddhist and Taoist temples, Hakka settlements in Hsinchu/Miaoli.
-- **Lishan**: High mountain scenery (2,000m+), temperate fruits (pears, peaches), Atayal indigenous culture.
-- **Baguashan**: The Great Buddha statue, Grey-faced Buzzard migration watching.
+Director Qiu Parlin's footage in "Seeing Taiwan" is shocking: next to the Alishan Zhuanshan Station, there are large areas of mountain slope collapse danger zones.
 
-#### Sun Moon Lake NSA
+**This is the fundamental dilemma facing Taiwan's national scenic area system: tourism brings in revenue, but also brings environmental costs. And these costs are often borne by future generations.**
 
-**Established**: 2001
-**Scope**: Sun Moon Lake and surrounding areas in Nantou.
-**Features**:
+> **📝 Curator's Note**
+> The narrator of "Seeing Taiwan," Wu Nianzhen, once publicly warned: "When we stay in guesthouses, drink high mountain tea, and eat high mountain vegetables as trendy leisure activities, we are actually all accomplices in destroying this land."
+> This statement points out a cruel truth: consumers' choices determine the future of the environment.
 
-- **Nature**: Taiwan's largest natural lake, surrounded by mountains.
-- **Culture**: Thao indigenous culture (Ita Thao), majestic temples like Wenwu Temple.
-- **Highlights**: Cycling around the lake (CNN rated one of the world's best), Sun Moon Lake Ropeway, Assam tea plantations.
+## Efforts Toward Transformation
 
-### Southern Region
+Faced with environmental pressures, the national scenic area system has not remained idle. In recent years, "sustainable development," "ecotourism," and "green certification" have become the focus of development in each scenic area.
 
-#### Alishan NSA
+**Specific actions include:**
 
-**Established**: 1999
-**Scope**: The Alishan mountain range in Chiayi County.
-**Features**:
+- **Northeast Coast**: Awarded the Gold Prize of Green Destinations (2024-2026), promoting 14 businesses to obtain green tourism certification
+- **Yunlin Coast**: Awarded the Bronze Prize of Green Tourism Destination (2024-2026), with Yunlin Port Lake Guiwan Wetland selected as one of the top 2023 global sustainable destination stories
+- **Penghu**: "Exploring Penghu · Protecting Coral Reefs" won the 2023 Global Sustainable Destination Story Award
+- **Sun Moon Lake**: Awarded the Silver Prize of Global Green Tourism Destination, Environmental Education Center passed the excellent evaluation
 
-- **Nature**: Sunrise, sea of clouds, forest railways, and sacred giant trees (Red Cypress).
-- **Culture**: Tsou indigenous culture, forestry history.
-- **Highlights**: Alishan Forest Railway, Giant Tree Trail, Tefuye Ancient Trail.
+But the real challenge is not in technology, but in mindset.
 
-#### Southwest Coast (Yun-Chia-Nan) NSA
+**How to make tourists understand the value of "slow"?** How to make businesses accept "less" profit? How to make the government acknowledge that "economic growth" is not the only indicator of tourism development?
 
-**Established**: 2003
-**Scope**: Coastal areas of Yunlin, Chiayi, and Tainan.
-**Features**:
+The answers to these questions will determine the future of Taiwan's national scenic area system.
 
-- **Nature**: Wetlands, lagoons (Qigu Lagoon), and habitats for Black-faced Spoonbills.
-- **Culture**: Salt industry history (Qigu Salt Mountain), oyster farming, temple festivals.
-- **Highlights**: Jingzaijiao Tile-paved Salt Fields, High-Heel Wedding Church.
+## New Possibilities in the Digital Age
 
-#### Siraya NSA
+In 2023, each scenic area has been promoting "smart tourism." The East Coast used existing cameras at the Moonlight Music Festival to establish real-time crowd analysis, and launched a multi-language (Chinese, English, Japanese) PWA mobile travel service. The North Coast provides real-time video of popular attractions, traffic warnings, and parking information.
 
-**Established**: 2005 (Newest)
-**Scope**: Mountainous areas of Tainan and parts of Chiayi.
-**Features**:
+These technological applications are not only for the convenience of tourists, but more importantly, **they carry the burden of capacity management**. Through real-time data, management units can issue early warnings when there are too many visitors, guide diversions, and reduce environmental pressure.
 
-- **Nature**: Mud hot springs (Guanziling), reservoirs (Zengwen, Wushantou), badlands (Moon World).
-- **Culture**: Siraya indigenous heritage, Japanese-era hydraulic engineering (Yoichi Hatta).
-- **Highlights**: Guanziling Mud Hot Springs, Wushantou Reservoir.
+But technology is just a tool; the key is still the transformation of management thinking.
 
-### Eastern Region
+> **💡 Did you know?**
+> In 2023 alone, the Sun Moon Lake National Scenic Area had 59 public restrooms awarded the Ministry of Environment's excellent certification. This seemingly trivial number actually reflects the improvement in infrastructure quality. Good restrooms are not only part of the tourist experience, but also a concrete practice of environmental hygiene and sustainable management.
 
-#### East Coast NSA
+## Reflection After 40 Years
 
-**Established**: 1987
-**Scope**: Coastal strip from Hualien to Taitung.
-**Features**:
+From 1984 to 2024, Taiwan's national scenic area system has walked through 40 years. It has successfully allowed more people to see Taiwan's beautiful scenery, created considerable economic benefits, and nurtured an entire generation of tourism professionals.
 
-- **Nature**: Sea terraces, coral reefs, dramatic cliffs.
-- **Culture**: Amis indigenous culture (Harvest Festivals), prehistoric sites (Baxian Caves).
-- **Highlights**: Sanxiantai (Dragon Bridge), Shitiping (stone steps), Green Island (offshore).
+But 40 years of development has also exposed systemic problems: **the fundamental contradiction between tourism and conservation, the difficulty of coordination between central and local governments, and the conflict between short-term interests and long-term sustainability.**
 
-#### East Rift Valley NSA
+The Environmental Information Center's criticism from 2004 still applies today: "National scenic areas are the entry point for the public's tourism and leisure activities. If these national-level scenic areas can integrate information, implement guided interpretation, and thoroughly reduce the impact on the natural environment, it will be a very good model and starting point for promoting deep tourism."
 
-**Established**: 1997
-**Scope**: The valley between the Central Mountain Range and Coastal Mountain Range.
-**Features**:
+Twenty years have passed. How much have we accomplished?
 
-- **Nature**: Rice paddies, hot springs (Ruisui, Antong), river ecology.
-- **Culture**: Diverse indigenous groups (Amis, Bunun, Puyuma), Hakka farming villages.
-- **Highlights**: Brown Boulevard (Chishang rice fields), Luye Highland (Hot Air Balloons), Ruisui Pasture.
+## The Next 40 Years
 
-### Southern & Outlying Islands
+Climate change, pandemic impacts, and international competition — the challenges facing Taiwan's national scenic area system are more complex than ever. But opportunities abound.
 
-#### Maolin NSA
+**The new generation of tourists values sustainability more, is willing to pay for quality, and seeks deep experiences rather than superficial sightseeing.** This provides an opportunity for the transformation of Taiwan's national scenic areas.
 
-**Established**: 2001
-**Scope**: Maolin, Liugui, and Taoyuan districts in Kaohsiung.
-**Features**:
+The key lies in whether we can shift from "quantity" growth to "quality" improvement, from "development" thinking to "management" thinking, and from "short-term gains" to "long-term value."
 
-- **Nature**: Purple Crow Butterfly Valley (winter migration), Laonong River gorges.
-- **Culture**: Rukai indigenous culture (Slate Houses), hot springs.
-- **Highlights**: Dragon Head Mountain, Duona Suspension Bridge.
+The future of Taiwan's national scenic area system is not just about 13 scenic areas, but a microcosm of how all of Taiwan faces the eternal contradiction between development and protection.
 
-#### Dapeng Bay NSA
+**On this beautiful island, each of us is part of the scenery, and also the guardian of the scenery.**
 
-**Established**: 1997
-**Scope**: Dapeng Bay lagoon and Little Liuqiu (Lamay Island).
-**Features**:
-
-- **Nature**: Taiwan's largest lagoon, coral reefs on Little Liuqiu, green sea turtles.
-- **Culture**: Aquaculture, Donggang King Boat Ceremony.
-- **Highlights**: Penbay International Circuit, Dapeng Bay Bridge, snorkeling in Little Liuqiu.
-
-#### Penghu NSA
-
-**Established**: 1995
-**Scope**: The Penghu archipelago.
-**Features**:
-
-- **Nature**: Basalt columns, pristine beaches, strong northeast monsoons.
-- **Culture**: Minnan traditional architecture, stone fish weirs (Twin Hearts Stone Weir), Mazu temples.
-- **Highlights**: Penghu Great Bridge, Qimei Island, Fireworks Festival.
-
-#### Matsu NSA
-
-**Established**: 1999
-**Scope**: The Matsu islands (Lienchiang County).
-**Features**:
-
-- **Nature**: Granite coastline, "Blue Tears" (bioluminescence).
-- **Culture**: Battlefield heritage (tunnels, forts), Eastern Min architecture (stone houses), Mazu religion.
-- **Highlights**: Beihai Tunnel, Qinbi Village (Mediterranean of Taiwan), Dongyin Lighthouse.
-
-## Management and Strategy
-
-### Sustainable Development
-
-- **Ecotourism**: Limiting visitor capacity in sensitive areas and promoting low-carbon travel.
-- **Cultural Preservation**: Supporting local festivals and training cultural guides.
-- **Community Engagement**: Encouraging locals to run homestays and guide services, ensuring economic benefits stay local.
-
-### International Marketing
-
-- **Branding**: Promoting "Taiwan – The Heart of Asia".
-- **Digital**: Using VR/AR for tours and leveraging social media influencers.
-- **Muslim-Friendly**: Creating Halal-friendly environments to attract diverse tourists.
-
-## Conclusion
-
-Taiwan's National Scenic Area system has evolved over 40 years into the backbone of the island's tourism industry. It is not merely a collection of parks but a comprehensive mechanism for conserving Taiwan's most stunning landscapes and deepest cultural roots.
-
-From the misty peaks of Alishan to the basalt cliffs of Penghu, these 13 areas offer a window into the soul of Taiwan. As the world moves toward sustainable travel, these areas are pivoting to offer deeper, more meaningful experiences that respect both the environment and the local communities that call these places home.
+---
 
 ## References
 
-- [Tourism Administration, MOTC](https://www.taiwan.net.tw/)
-- Official websites of respective National Scenic Area Administrations
-- Taiwan Tourism Yearbooks
+- [Ministry of Transportation Tourism Bureau](https://www.taiwan.net.tw/) — National Scenic Area policies and statistics
+- [Republic of China 2023 Tourism Business Annual Report](https://admin.taiwan.net.tw/upload/contentFile/auser/b/annual_2023_htm/en/04_Management_of_National_Scenic_Areas.html) — 2023 scenic area operational data
+- [National Park vs. National Scenic Area](https://e-info.org.tw/node/7330) — Environmental Information Center, 2004
+- [Seeing Taiwan: Can You Still Not See Taiwan's Mountain Development Problem?](https://e-info.org.tw/node/95128) — Environmental Information Center, 2013
+- [National-Level Scenic Special Zone](https://zh.wikipedia.org/zh-tw/%E5%9C%8B%E5%AE%B6%E7%B4%9A%E9%A2%A8%E6%99%AF%E7%89%B9%E5%AE%9A%E5%8D%80) — Wikipedia
+- [Introduction to the 13 National Scenic Areas under the Ministry of Transportation Tourism Bureau](https://www.ey.gov.tw/state/F5581D43B76205AA/168f050f-8c51-4f99-b849-f3705901ba8f) — Executive Yuan, 2025, scope and area of each zone
+- [Establishment and Expansion of Each National-Level Scenic Special Zone](https://cybsbox.cy.gov.tw/CYBSBoxSSL/edoc/download/46896) — Audit Office Investigation Report Appendix, establishment dates and areas of each zone
+- [Tourism Development Act Historical Evolution](https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=K0110001) — National Legal Database, promulgated on July 30, 1969
+- [Tourism Statistics Database](https://stat.taiwan.net.tw/) — Ministry of Transportation Tourism Bureau

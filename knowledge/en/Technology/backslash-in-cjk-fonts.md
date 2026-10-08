@@ -1,15 +1,15 @@
 ---
-title: 'The Backslash in the Character "Gong": The Two Layers of Default Tax Paid by Taiwan Engineers Daily'
-description: 'On Windows 11 in the zh-TW locale, a translation status script dumped over 4,000 paths into `root`, making Technology zero, while Linux CI was green the same week. The script split category names by forward slashes, but the filesystem used backslashes, so it couldn''t split them. An older layer is hidden in the characters: the second byte of Big5''s "Gong" is the ASCII backslash, known in the dev community as "Xu Gong Gai". Neither the path format nor the symbols residing in the characters accounted for this machine''s defaults. Git''s `quotePath` is another line, with a different cause.'
+title: 'The Backslash in "Gong": Two Layers of Default Tax Paid by Taiwanese Engineers Daily'
+description: 'On Windows 11 using zh-TW locale, the translation status script dumped over four thousand paths into `root`, making Technology zero, while Linux CI was green that week. The script uses forward slashes for directory names and backslashes for disks, failing to separate them. An older layer is embedded in the characters: the second byte of Big5''s "gong" is the ASCII backslash, which developers jokingly call *Xu Gong Gai*. How paths are written and what symbols live inside characters—none of this was accounted for by default on this machine. Git''s `quotePath` is another line with a different cause.'
 date: 2026-08-13
 category: 'Technology'
 tags:
   [
-    'Open Source',
+    'open-source',
     'Windows',
     'Big5',
     'UTF-8',
-    'Character Encoding',
+    'character encoding',
     'Traditional Chinese',
   ]
 subcategory: '文字與工具'
@@ -17,79 +17,96 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-13
 lastHumanReview: false
+image: '/article-images/technology/big5-gong-5c-backslash.webp'
+imageAlt: 'The large character "gong" shows its Big5 codes A5 and 5C, where the 5C slot points to the ASCII backslash (0x5C); below is Python''s actual output showing that the second byte of *Xu Gong Gai* are all backslashes.'
+imageCredit: 'Taiwan.md Contributors（自製圖解）· CC BY-SA 4.0'
 translatedFrom: 'Technology/功字裡的那根反斜線.md'
-sourceCommitSha: '5dcaeea42'
-sourceContentHash: 'sha256:57b41e308a296fb4'
-sourceBodyHash: 'sha256:9af4500f829effce'
-translatedAt: '2026-09-11T17:49:31+08:00'
+sourceCommitSha: '9f06b2a04'
+sourceContentHash: 'sha256:dbee36211f1b2080'
+sourceBodyHash: 'sha256:cfc0fe9c1ed37efb'
+translatedAt: '2026-10-08T09:35:13+08:00'
 ---
 
-> **30-Second Overview:** I ran the translation status script, and the screen displayed 4546, all under `root`. The Linux CI on GitHub was green. Only later did I clearly see two things. The backslashes in Windows paths could not be split by the script's forward slashes. The second half of "Gong"'s Big5 code is itself the ASCII `\`. These are two different mechanisms, but they often appear together on the same Traditional Chinese Windows machine.
+> **30-Second Overview:** I ran the translation status script, and the screen showed 4546 paths, all in `root`. The Linux CI on GitHub was green. Only later did I see two things. Windows path backslashes couldn't be separated by the script using forward slashes. The latter half of "gong"'s Big5 code is itself the ASCII `\`. These two mechanisms are different but often appear together on a Traditional Chinese Windows machine.
 
-I maintain Taiwan.md's translation status script on Windows 11 in the zh-TW locale. That night, I ran `i18n-status.py` as usual, waiting for the terminal to print the numbers. The console was cp950. There were no red error messages.
+I was maintaining the translation status script for Taiwan.md on Windows 11 with the zh-TW locale. That evening, I ran `i18n-status.py` as usual, waiting for the terminal to print numbers. The main console was cp950. There were no red characters in the output.
 
-The screen stopped at 4546. All of them were in a single category called `root`. Technology was 0.
+The screen stopped at 4546. All of them were in a category called `root`. Technology was 0.
 
-That same week, after pushing to GitHub, the CI on Linux was green.
+Later that week, after pushing to GitHub, the CI on Linux was green.
 
-The script variable was named `zh_articles`, scanning paths under `knowledge` excluding English, `about`, and underscore directories; Japanese, Korean, and Arabic would also be counted. That night, it couldn't even split the category names, and over 4,000 paths were stuffed into a single cell. No exceptions, no warnings. The statistics looked like the entire site was broken, with not a single file missing. [^8]
+The script variable was named `zh_articles`, scanning paths under `knowledge` excluding English, about, and underscore directories; Japanese, Korean, and Arabic files were also counted. That evening, it couldn't even separate the category names, stuffing over four thousand paths into a single slot. No exceptions, no warnings. The statistics looked like the entire site was broken, with not a single file missing.[^8]
 
-The paths on the disk were `knowledge\Technology\SomeArticle.md`, with folders separated by backslashes. The script used `split('/')` to extract the category name. On Linux, this line works because the paths are naturally forward slashes. On Windows, it cannot split backslashes, returning the entire path as is, and the article was dumped into the default `root`. [^1]
+The disk path was `knowledge\Technology\some_article.md`, using backslashes to separate directories. The script used `split('/')` to get the category name. This line worked on Linux because the paths were originally forward-slash separated. On Windows, it couldn't split the backslash, and the entire path returned as is; the article was dumped into the default `root`.[^1]
 
-After changing it to let `pathlib` handle directories, there were 59 articles under Technology, consistent with what was in the folders. The only thing separating them was an assumption: which line your machine uses to separate folders.
+After changing to let `pathlib` handle directories, there were 59 articles under Technology, matching the contents of the folder. The only assumption in between was: what kind of line your machine uses to separate folders.
 
-> **📝 Curator's Note:** The script syntax was not wrong, and CI did indeed run tests. The rupture was between "the machine the author actually sits at" and "the machine the tool assumes you sit at." This gap belongs to no single component, so no one is responsible for watching it.
+![Actual Python terminal output: A single Windows path split by '/' returns a list with only one element; when passed to PureWindowsPath(p).parts, it splits into three segments: knowledge, Technology, and filename](/article-images/technology/windows-path-split-vs-pathlib.svg)
+
+_Two ways to split the same path. `split('/')` finds no slash and returns the whole thing as is; `PureWindowsPath` recognizes the backslash and manages to return Technology._ Taiwan.md Contributors, CC BY-SA 4.0.
+
+> **📝 Curator's Note:** The script syntax was not wrong, and CI did run tests. The fracture lies between "the machine the author actually sits at" and "the machine the tool assumes you are sitting at." This seam belongs to no process, so no one is responsible for monitoring it.
 
 ## The Line Inside "Gong"
 
-Paths are the first layer. The second layer is much older, hidden within the characters.
+The path was the first layer. The second layer is much older, embedded in the characters.
 
-Big5 was finalized in 1984, with two bytes per Chinese character. If the second byte falls between `0x40` and `0x7E`, it overlaps with common ASCII symbols: `[`, `]`, `{`, `}`, `\`, `|`. Former Associate Professor Hong Chao-gui (洪朝貴) of the Department of Information Management at Chaoyang University of Technology (retired August 2023) wrote on his teaching page: "Since 40-7E is the ASCII code range for general common characters, it sometimes brings some troubles to programmers." [^2]
+Big5 was finalized in 1984; a Chinese character uses two bytes. If the second byte falls between `0x40` and `0x7E`, it overlaps with common ASCII symbols: `[` , `]` , `{` , `}` , `\` , `|`. Associate Professor Hong Chao-chi (who retired from the Department of Information Management at Chaoyang University of Technology in August 2023) wrote on his teaching page: "Because 40-7E is the ASCII code range for general common characters, it sometimes causes some trouble for programmers."[^2]
 
-"Gong"'s code is `A5 5C`. That `0x5C` at the end is the backslash `\` in ASCII. A program that scans strings byte-by-byte and treats `\` as an escape or delimiter, when encountering the second half of "Gong", will think it has encountered a path. If a filename contains "Gong", or a path contains "Gong", both might stumble here.
+The code for "gong" is `A5 5C`. The latter part, `0x5C`, is the backslash `\` in ASCII. A program that scans a string byte-by-byte and treats `\` as an escape or separator will see the latter half of "gong" and think it encountered a path. If a filename contains "gong," or if the path contains "gong," they can both stumble here.
 
-The dev communities in Taiwan and Hong Kong call it "Xu Gong Gai" (許功蓋): "Xu" is `B3 5C`, "Gong" is `A5 5C`, "Gai" is `BB 5C`. Three common characters written together look like a person's name. [^5] Hong Chao-gui also listed "Jia, Ye, Cheng, Zhen, Gong" (加也程陣功), whose second codes hit `[`, `]`, `{`, `}`, `\` respectively, and created a scanning tool `b5tm`. [^2] A bug given a person's name usually means it appears frequently enough that a generation must be able to point at it and speak of it.
+The developer communities in Taiwan and Hong Kong call this _Xu Gong Gai_: "Xu" is `B3 5C`, "gong" is `A5 5C`, and "gai" is `BB 5C`; three common characters written consecutively resemble a person's name.[^5] Hong Chao-chi also listed "Ja Ye Cheng Zhen Gong," where the second bytes collide with `[` , `]` , `{` , `}` , `\`, and created a scanning tool called `b5tm`.[^2] A bug was named after a person, usually because it occurred frequently enough that a generation had to point at it.
 
-In 2015, the author of the blog "Dark Execution Thread" (黑暗執行緒) switched to Visual Studio 2015. Old `.cs` files were still saved in BIG5. After the compiler switched to Roslyn, the Xu Gong Gai in the files would become compilation errors.
+In 2015, the author of the blog "Dark Thread" switched to Visual Studio 2015. The old `.cs` files were still saved in BIG5. After the compiler switched to Roslyn, _Xu Gong Gai_ in the files caused compilation errors.
 
-Two days later, a colleague told him that they had also switched and struggled for a long time, finally crawling back to his article through search results. One netizen had tens of thousands of files, converted some but still had many left, "so had to say Goodbye to VS2015". He later wrote a batch tool to convert to UTF-8 because manual saving was impossible. [^7]
+Two days later, a colleague told him that they had also been stuck for a long time and eventually traced it back to his article. A netizen with thousands of files said, "I just had to say goodbye to VS2015." He then wrote a small tool to batch convert to UTF-8 because he couldn't manually save them all.[^7]
 
-This is not the same issue as the `split('/')` above. One is a modern tool assuming what a path looks like. The other is a symbol living inside the character's body after choosing double-byte encoding forty years ago. The mechanisms are different, but the bill often comes together on the same cp950 machine. How the input side sends characters to the computer is covered in [East Asian Input Methods](/en/technology/east-asian-input-methods/). Here we discuss what happens after the characters are already on the disk, and whether the toolchain still recognizes them.
+This is not the same as `split('/')` mentioned earlier. One is about what modern tools assume a path looks like. The other is about symbols living inside characters after double-byte encoding was chosen forty years ago. The mechanisms are different, but the bill often comes on the same cp950 machine. How input is sent to the computer from the input side can be seen in [East Asian Input Methods](/en/technology/east-asian-input-methods/). Here, we discuss what happens after the character is already on disk and whether the toolchain still recognizes it.
 
-## Defaults Do Not Branch for This Machine
+## Default Values Did Not Fork a Branch for This Machine
 
-Git has `core.quotePath` enabled by default. For filenames with bytes greater than `0x80`, `git status` prints them as octal sequences like `\344\270\255`. The Chinese filenames are still there; you just can't understand what your repository is saying every day. [^3] It escapes UTF-8 high bytes. Big5's `0x5C` is another line. They both look like backslashes, but the causes are different.
+Git defaults `core.quotePath`. Filenames with bytes greater than `0x80` are printed by `git status` as octal escapes like `\344\270\255`. The Chinese filename is still there; you just don't understand what your repository is saying every day.[^3] It escapes the high-order bytes of UTF-8. Big5's `0x5C` is another line. They look like backslashes, but their causes are different.
 
-If Python 3 on Windows does not specify `encoding='utf-8'` in `open()`, it may use the system locale. The same UTF-8 file reads fine on Linux, but this machine decodes it with cp950, corrupting punctuation or bopomofo. [^4] I paid for this once myself: using PowerShell 5.1's `Get-Content | Set-Content` to modify a UTF-8 file, the long dash became `??` in the diff. That was also a default tax, but not the second theme.
+![Actual terminal output: git status --short prints the Chinese filename in quoted octal escape sequences; with -c core.quotePath=false added, the same filename is printed in Chinese](/article-images/technology/git-quotepath-octal-cjk.svg)
 
-When status messages include emojis, this cp950 console crashes directly. The character set does not contain those symbols, Python cannot print them, and the exception explodes to the top level. Linux CI cannot test for this because it does not run on this machine.
+_The same file has a sequence of `\345\212\237` under its default value. The backslash here is an escape added by Git and has nothing to do with the `0x5C` inside the "gong" character._ Taiwan.md Contributors, CC BY-SA 4.0.
 
-Git, Python, and CI example paths like `$HOME/project/src` do not have a branch for zh-TW Windows.
+If Python 3 on Windows uses `open()` without specifying `encoding='utf-8'`, it might inherit the system locale. A UTF-8 file read by Linux might be corrupted when decoded with cp950 on this machine; punctuation or bopomofo characters break.[^4] I experienced this once: using PowerShell 5.1's `Get-Content | Set-Content` to convert a UTF-8 file, where long hyphens turned into `??` in diffs. That was also a default tax, not the second topic.
 
-In a 2015 interview with iThome, Hong Chao-gui discussed what format government files should be opened in and how long they would survive. The report paraphrased his meaning: If the government only uses Microsoft products to open file data, it is equivalent to believing that Microsoft's lifespan will be longer than that of the Republic of China. [^6] That statement was about file formats and preservation periods. When data is bound to a set of default tools, stretching the timeline becomes a question of who can still read it. Open-source collaboration is bound to the default environment of a certain type of machine. The tension between civic tech and government file formats is covered in [Open Source Communities and g0v](/en/technology/open-source-and-g0v/). Taiwan developers have long absorbed the culture of this gap, covered in [Taiwan Open Source Spirit](/en/technology/taiwan-open-source-spirit/).
+When status messages include emojis, this cp950 console crashes directly. The character set does not contain those symbols; Python cannot print them, and the exception explodes at the highest level. Linux CI cannot detect this because it is not running on this machine.
 
-Path separators, terminal encodings, and `$HOME` in CI examples do not have branches for this machine. On the day 4,546 paths were misclassified, not a single line of code threw an error. The statistics looked normal until you sat in front of this machine.
+Git, Python, and the example path `$HOME/project/src` in CI did not create a separate branch for zh-TW Windows.
+
+In 2015, Hong Chao-chi was interviewed by iThome about what format government files should be opened in and how long they remain viable. The report paraphrased his meaning: if the government only uses Microsoft products to open files, it is equivalent to believing that Microsoft's lifespan will be longer than the Republic of China's.[^6] That sentence was about file formats and preservation lifespan. When data is tied to a certain default toolset, over time, it becomes a matter of who can still read it. Open-source collaboration is bound by the default environment of a certain machine. The tug-of-war between citizen technology and government file formats is seen in [Open Source Community and g0v](/en/technology/open-source-and-g0v/). The culture of absorbing this gap for a long time by Taiwanese developers is seen in [Taiwan Open Source Spirit](/en/technology/taiwan-open-source-spirit/).
+
+The path separator, the terminal encoding, and `$HOME` in CI examples did not create a side branch for this machine. On the day 4546 paths were categorized as errors, no line of code reported an error. The statistics looked normal until you sat in front of this machine.
 
 ## Further Reading
 
-- [Taiwan Open Source Spirit](/en/technology/taiwan-open-source-spirit): The culture and context of Taiwan developers participating in open source.
-- [East Asian Input Methods](/en/technology/east-asian-input-methods): How characters are typed into computers, from character sets to keyboards.
-- [Open Source Communities and g0v](/en/technology/open-source-and-g0v): Collaboration between open data and government formats.
+- [Taiwan Open Source Spirit](/en/technology/taiwan-open-source-spirit): The culture and context of Taiwanese developers participating in open source.
+- [East Asian Input Methods](/en/technology/east-asian-input-methods): How characters are typed into a computer, from character codes to the keyboard.
+- [Open Source Community and g0v](/en/technology/open-source-and-g0v): Collaboration between open data and government formats.
+
+## Image Sources
+
+- **Big5 Code of "Gong" and Backslash (hero)**: Diagram created by Taiwan.md Contributors, CC BY-SA 4.0, stored at `public/article-images/technology/big5-gong-5c-backslash.webp`. The line below is the actual output of Python 3 executing `'許功蓋'.encode('big5')`, consistent with the Wikipedia Big5 entry.[^5]
+- **split('/') vs PureWindowsPath**: Created by Taiwan.md Contributors, CC BY-SA 4.0, stored at `public/article-images/technology/windows-path-split-vs-pathlib.svg`. The content is the actual result of Python 3 execution; `PureWindowsPath` splits paths according to Windows rules on any operating system, so it can be reproduced without a Windows machine.
+- **Git core.quotePath Octal Output**: Created by Taiwan.md Contributors, CC BY-SA 4.0, stored at `public/article-images/technology/git-quotepath-octal-cjk.svg`. The content is the actual output of `git status --short` after adding this article's filename to a temporary repo; this behavior is independent of the operating system.
 
 ## References
 
-[^1]: [Microsoft Learn: File Path Formats on Windows Systems](https://learn.microsoft.com/zh-tw/dotnet/standard/io/file-path-formats) — .NET documentation explains that traditional DOS paths use backslashes as directory separators, and forward slashes are converted to backslashes.
+[^1]: [Microsoft Learn: File Path Format on Windows Systems](https://learn.microsoft.com/zh-tw/dotnet/standard/io/file-path-formats) — .NET documentation states that traditional DOS paths use backslashes as directory separators, and forward slashes are converted to backslashes.
 
-[^2]: [Hong Chao-gui: Big-5 Code Issues Encountered When Programming](https://frdm.cyut.edu.tw/~ckhung/b/pl/big5.php) — The teaching page lists common characters whose second codes fall into the ASCII danger zone (Jia, Ye, Cheng, Zhen, Gong) and introduces the scanning tool b5tm. The page footer does not list a job title. iThome in 2015 referred to him as Associate Professor. His personal homepage lists his tenure at Chaoyang University of Technology's Information Management Department from 1997 to 2023, retiring in August 2023.
+[^2]: [Hong Chao-chi: Big5 Code Issues in Programming](https://frdm.cyut.edu.tw/~ckhung/b/pl/big5.php) — The teaching page lists common characters whose second bytes fall into the ASCII danger zone (Ja Ye Cheng Zhen Gong) and introduces the scanning tool b5tm. No title was listed at the end of the page. He was a vice-professor at iThome in 2015. His personal homepage states he worked at Chaoyang Information Management from 1997 to 2023 and retired in August 2023.
 
-[^3]: [git-config: core.quotePath](https://git-scm.com/docs/git-config) — Official documentation explains that by default, paths with bytes greater than 0x80 are displayed as octal escape sequences.
+[^3]: [git-config: core.quotePath](https://git-scm.com/docs/git-config) — Official documentation states that paths with bytes greater than 0x80 are displayed as octal escape sequences.
 
-[^4]: [Python 3: open()](https://docs.python.org/3/library/functions.html#open) — Function documentation states that if encoding is not specified, the system locale may be used as the default encoding.
+[^4]: [Python 3: open()](https://docs.python.org/3/library/functions.html#open) — The function description notes that if encoding is not specified, the system locale may be used as the default encoding.
 
-[^5]: [Wikipedia: Big5](https://zh.wikipedia.org/zh-tw/大五碼) — States that "Gong" is 0xA55C, "Xu" is 0xB35C, "Gai" is 0xBB5C, and explains that this issue is jokingly called Xu Gong Gai.
+[^5]: [Wikipedia: Big5](https://zh.wikipedia.org/zh-tw/大五碼) — Lists "gong" as 0xA55C, "xu" as 0xB35C, and "gai" as 0xBB5C, and explains that this issue is jokingly called _Xu Gong Gai_.
 
-[^6]: [iThome: Hong Chao-gui Interview](https://www.ithome.com.tw/news/93606) — 2015 interview, article refers to him as Associate Professor of Information Management at Chaoyang University of Technology. The original page often returns 403; the "Microsoft lifespan" quote is only adopted from search result-visible report paraphrases, not treated as a verbatim original quote.
+[^6]: [iThome: Interview with Hong Chao-chi](https://www.ithome.com.tw/news/93606) — A 2015 interview, where he was referred to as a vice-professor in the Department of Information Management at Chaoyang University of Technology. The original page often returned 403, so the "Microsoft lifespan" quote is only paraphrased from search results and not taken as a verbatim quote.
 
-[^7]: [Dark Execution Thread: Stealth Fighter - Solving VS2015 Program File BIG5 Compatibility Issues](https://blog.darkthread.net/blog/big5-utf8-source-code-batch-converter/) — 2015 record of Visual Studio 2015 compilation errors caused by Xu Gong Gai when compiling BIG5 source code. The article contains "had to say Goodbye to VS2015".
+[^7]: [Dark Thread: Shielded Machine - Solving VS2015 BIG5 Compatibility Issues](https://blog.darkthread.net/blog/big5-utf8-source-code-batch-converter/) — A 2015 record of compilation errors caused by _Xu Gong Gai_ when compiling BIG5 source code in Visual Studio 2015. The article contains the phrase "just had to say goodbye to VS2015."
 
-[^8]: [taiwan-md PR #1260](https://github.com/frank890417/taiwan-md/pull/1260) — Merged on 2026-07-26. Before fix, categories on Windows were only root: 4546; after fix, Technology zh: 59. Also removed emojis that would crash the cp950 console.
+[^8]: [taiwan-md PR #1260](https://github.com/frank890417/taiwan-md/pull/1260) — Merged on 2026-07-26. Before fixing, Windows categories only showed root: 4546; after fixing, Technology zh: 59. The emoji that caused the cp950 console to crash was also removed.
