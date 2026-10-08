@@ -1,95 +1,112 @@
 ---
-title: 'Backslash di dalam karakter "Gōng": Dua lapis pajak default yang dibayar insinyur Taiwan setiap hari'
-description: 'Di Windows 11 berbahasa zh-TW, skrip status terjemahan memasukkan lebih dari empat ribu jalur yang dipindai ke dalam "root", membuat Technology menjadi nol, sementara CI Linux pada minggu yang sama menunjukkan hijau. Skrip menggunakan slash forward untuk memisahkan nama kategori, sedangkan disk menggunakan backslash, sehingga tidak dapat memisahkannya. Lapisan lebih tua tertanam di dalam karakter: byte kedua Big5 dari "Gōng" adalah backslash ASCII, yang disebut "Xǔ Gōng Gài" oleh komunitas pengembang. Baik cara penulisan jalur maupun simbol yang berada di dalam karakter, nilai default tidak memasukkan mesin ini ke dalam perhitungan. quotePath Git adalah garis lain, dengan penyebab yang berbeda.'
+title: "Backslash di dalam karakter 'fung': Dua lapis pajak default yang dibayar insinyur Taiwan setiap hari"
+description: "Di Windows 11 dengan locale zh-TW, skrip status terjemahan melempar lebih dari empat ribu jalur yang terdeteksi ke root, membuat Technology menjadi nol, padahal CI Linux pada minggu yang sama hijau. Skrip menggunakan slash forward untuk memisahkan nama kategori, sedangkan disk menggunakan backslash, sehingga tidak bisa memisahkannya. Lapisan yang lebih tua tertanam di dalam karakter: byte kedua karakter 'fung' dalam Big5 adalah backslash ASCII, yang disebut komunitas pengembang sebagai 'He Gong Gai'. Bagaimanapun cara menulis jalur dan simbol apa yang ada di dalam karakter, nilai default tidak memasukkan mesin ini. quotePath Git adalah masalah lain dengan penyebab yang berbeda."
 date: 2026-08-13
 category: 'Technology'
 tags:
   [
-    'open source',
+    'sumber terbuka',
     'Windows',
     'Big5',
     'UTF-8',
-    'encoding karakter',
-    'Tionghoa tradisional',
+    'pengkodean karakter',
+    'Tionghoa Tradisional',
   ]
 subcategory: '文字與工具'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-13
 lastHumanReview: false
+image: '/article-images/technology/big5-gong-5c-backslash.webp'
+imageAlt: "Karakter besar 'fung' di sampingnya kode Big5-nya A5 dan 5C dua kotak, kotak 5C dengan panah menunjuk ke backslash ASCII 0x5C; di bawahnya adalah output Python sebenarnya, byte kedua dari tiga karakter 'He Gong Gai' semuanya adalah backslash"
+imageCredit: 'Taiwan.md Contributors（自製圖解）· CC BY-SA 4.0'
 translatedFrom: 'Technology/功字裡的那根反斜線.md'
-sourceCommitSha: '5dcaeea42'
-sourceContentHash: 'sha256:57b41e308a296fb4'
-sourceBodyHash: 'sha256:9af4500f829effce'
-translatedAt: '2026-09-13T05:56:48+08:00'
+sourceCommitSha: '9f06b2a04'
+sourceContentHash: 'sha256:dbee36211f1b2080'
+sourceBodyHash: 'sha256:cfc0fe9c1ed37efb'
+translatedAt: '2026-10-08T02:30:53.315517+00:00'
 ---
 
-> **Ringkasan 30 detik:** Saya menjalankan skrip status terjemahan, layar menampilkan 4546, semuanya di `root`. GitHub CI di Linux hijau. Baru kemudian terlihat dua hal. Backslash jalur Windows, skrip menggunakan slash forward tidak bisa memisahkannya. Byte kedua Big5 "Gōng", sendiri adalah ASCII `\`. Dua hal mekanismenya berbeda, namun sering muncul bersama di Windows zh-TW yang sama.
+> **Ringkasan 30 Detik:** Saya menjalankan skrip status terjemahan, layar menampilkan 4546, semuanya di `root`. GitHub CI di Linux hijau. Baru kemudian saya sadar dua hal. Backslash jalur Windows, skrip memakai forward slash tidak bisa memisahkannya. Kode Big5 karakter「功」 bagian kedua, **sendiri adalah** ASCII `\`. Kedua hal mekanismenya berbeda, tapi sering muncul bersama di satu mesin Windows tradisional China yang sama.
 
-Saya memelihara skrip status terjemahan Taiwan.md di Windows 11 berbahasa zh-TW. Malam itu seperti biasa menjalankan `i18n-status.py`, menunggu terminal mencetak angka. Konsol adalah cp950. Keluaran tidak ada teks merah.
+Saya memelihara skrip status terjemahan Taiwan.md di Windows 11 bahasa zh-TW. Malam itu seperti biasa jalankan `i18n-status.py`, tunggu terminal mencetak angka. Konsol adalah cp950. Output tidak ada teks merah.
 
-Layar berhenti di 4546. Semuanya di satu kategori bernama `root`. Technology adalah 0.
+Layar berhenti di 4546. Semua di satu kategori bernama `root`. Technology adalah 0.
 
-Minggu yang sama dipush ke GitHub, CI di Linux lampu hijau.
+Minggu yang sama push ke GitHub, CI di Linux lampu hijau.
 
-Variabel skrip bernama `zh_articles`, memindai `knowledge` kecuali direktori bahasa Inggris, about, dan underscore, bahasa Jepang, Korea, Arab juga dihitung. Malam itu ia bahkan tidak bisa memotong nama kategori, lebih dari empat ribu jalur dimasukkan ke kotak yang sama. Tidak ada pengecualian, tidak ada peringatan. Statistik terlihat seperti seluruh situs rusak, file tidak berkurang satu pun.[^8]
+Variabel skrip bernama `zh_articles`, memindai `knowledge` kecuali direktori bahasa Inggris, about, dan underscore, bahasa Jepang, Korea, Arab juga dihitung. Malam itu ia bahkan nama kategori tidak bisa potong, empat ribu lebih jalur masuk ke satu kotak sama. Tidak ada pengecualian, tidak ada peringatan. Statistik kelihatannya seperti seluruh situs rusak, file tidak satu pun kurang.[^8]
 
-Jalur di disk adalah `knowledge\Technology\artikel-tertentu.md`, folder dipisahkan backslash. Skrip menggunakan `split('/')` mengambil nama kategori. Di Linux baris ini berfungsi, karena jalur memang slash forward. Di Windows ia tidak memotong backslash, seluruh jalur kembali utuh, artikel dibuang ke `root` default.[^1]
+Jalur di disk adalah `knowledge\Technology\artikel-tertentu.md`, antar folder dipisah backslash. Skrip pakai `split('/')` ambil nama kategori. Di Linux baris ini bisa, karena jalur memang pakai forward slash. Di Windows ia tidak memotong backslash, seluruh jalur kembali utuh, artikel dilempar ke `root` default.[^1]
 
-Setelah diubah biarkan `pathlib` menangani direktori, Technology di bawahnya 59 artikel, konsisten dengan isi folder. Di antara keduanya hanya terpisah satu asumsi: mesin Anda menggunakan garis apa untuk memisahkan folder.
+Setelah biarkan `pathlib` urus direktori, Technology di bawahnya 59 artikel, konsisten dengan isi folder. Di antara hanya terpisah satu asumsi: mesin Anda pakai garis mana memisahkan folder.
 
-> **📝 Catatan Kurator:** Sintaks skrip tidak salah, CI memang menjalankan tes. Retaknya berada di antara "mesin tempat penulis duduk" dan "mesin yang dikira alat tempat Anda duduk". Celah ini tidak milik tahap manapun, sehingga tidak ada yang bertanggung jawab memantau.
+![Output terminal Python aktual: jalur Windows sama dipotong split('/') mengembalikan list satu elemen; diserahkan ke PureWindowsPath(p).parts, memotong knowledge, Technology, nama file tiga segmen](/article-images/technology/windows-path-split-vs-pathlib.svg)
 
-## Di dalam "Gōng" garis itu
+_Satu jalur, dua cara potong. `split('/')` tidak temui forward slash, seluruhnya kembali utuh; `PureWindowsPath` kenal backslash, Technology baru kembali. Taiwan.md Contributors buat sendiri, CC BY-SA 4.0._
 
-Jalur adalah lapisan pertama. Lapisan kedua lebih tua, tertanam di dalam karakter.
+> **📝 Catatan Kurator:** Sintaks skrip tidak salah, CI memang jalan tes. Retaknya di antara「mesin tempat penulis duduk」dan「mesin yang dikira alat tempat Anda duduk」. Celah ini tidak milik tahap manapun, jadi tidak ada yang bertanggung jawab memantau.
 
-Big5 ditetapkan 1984, satu karakter Tionghoa dua byte. Byte kedua jika jatuh di `0x40` sampai `0x7E`, tumpang tindih dengan simbol ASCII umum: `[`, `]`, `{`, `}`, `\`, `|`. Mantan wakil dekan Fakultas Manajemen Informasi Universitas Teknologi Chaoyang Hong Chao-kuei (洪朝貴, pensiun Agustus 2023) menulis di halaman pengajaran: "Karena 40-7E adalah rentang kode ASCII karakter umum, terkadang membawa kesulitan bagi programmer."[^2]
+## Garis di dalam 'Gong'
 
-Kode "Gōng" adalah `A5 5C`. `0x5C` belakang itu, di ASCII adalah backslash `\`. Program memindai per byte, memperlakukan `\` sebagai escape atau pemisah, memindai belakang "Gōng", akan mengira menemui jalur. Nama file ada "Gōng", jalur ada "Gōng", semua mungkin tersandung di sini.
+Path adalah lapisan pertama. Lapisan kedua jauh lebih tua, tertanam di dalam karakter.
 
-Pengembang Taiwan dan Hong Kong menyebutnya "Xǔ Gōng Gài": "Xǔ" adalah `B3 5C`, "Gōng" adalah `A5 5C`, "Gài" adalah `BB 5C`, tiga karakter umum ditulis berurutan seperti nama orang.[^5] Hong Chao-kuei juga mencantumkan "Jiā Yě Chéng Zhèn Gōng", byte kedua masing-masing menabrak `[`, `]`, `{`, `}`, `\`, dan membuat alat pemindaian `b5tm`.[^2] Sebuah bug diberi nama orang, biasanya karena muncul cukup sering, satu generasi harus punya cara menunjuk dan berbicara tentangnya.
+Big5 disepakati pada 1984, satu karakter Tionghoa dua byte. Jika byte kedua jatuh di `0x40` hingga `0x7E`, akan tumpang tindih dengan simbol ASCII umum: `[`, `]`, `{`, `}`, `\`, `|`. Mantan Wakil Kepala Jurusan Manajemen Informasi Universitas Teknologi Chaoyang, Hong Chao-gui (pensiun Agustus 2023), pernah menulis di halaman pengajarannya: "Karena 40-7E adalah rentang kode ASCII untuk karakter umum, hal ini terkadang membawa kesulitan bagi programmer."[^2]
 
-2015, penulis blog "Dark Thread" (黑暗執行緒) berganti Visual Studio 2015. `.cs` lama masih disimpan BIG5. Compiler beralih ke Roslyn, Xǔ Gōng Gài di file menjadi error kompilasi.
+Kode karakter 'Gong' adalah `A5 5C`. Byte kedua `0x5C` dalam ASCII adalah backslash `\`. Program yang memindai string per byte dan memperlakukan `\` sebagai escape atau pemisah, saat memindai bagian kedua 'Gong', akan mengira menemukan path. Nama file yang mengandung 'Gong', path yang mengandung 'Gong', keduanya bisa tersandung di sini.
 
-Dua hari kemudian rekan berkata, mereka berganti juga macet lama, akhirnya merayap kembali ke artikelnya. Netizen punya ribuan file, konversi satu masih banyak, "terpaksa ucapkan Goodbye ke VS2015". Ia kemudian menulis alat batch konversi UTF-8, karena simpan manual tidak selesai.[^7]
+Komunitas pengembang Taiwan dan Hong Kong menyebutnya 'Xu Gong-gai': 'Xu' adalah `B3 5C`, 'Gong' adalah `A5 5C`, 'Gai' adalah `BB 5C`, tiga karakter umum yang ditulis berurutan mirip nama orang.[^5] Hong Chao-gui juga mencantumkan 'Jia Ye Cheng Zhen Gong', byte kedua masing-masing menabrak `[`, `]`, `{`, `}`, `\`, dan membuat alat pemindaian `b5tm`.[^2] Sebuah bug diberi nama orang, biasanya karena muncul cukup sering, sehingga satu generasi harus punya cara menunjuk dan membicarakannya.
 
-Ini bukan hal yang sama dengan `split('/')` sebelumnya. Satu adalah alat modern mengasumsikan jalur berbentuk apa. Satu adalah empat puluh tahun lalu memilih dua byte, tubuh karakter menampung simbol. Mekanisme berbeda, tagihan namun sering datang bersama di mesin cp950 yang sama. Sisi input bagaimana memasukkan karakter ke komputer, lihat metode input teks Asia Timur (東亞文字輸入法)。Di sini membahas karakter sudah di disk, rantai alat apakah masih mengenalnya.
+2015, penulis blog 'Darkthread' beralih ke Visual Studio 2015. File `.cs` lama masih disimpan sebagai BIG5. Setelah compiler beralih ke Roslyn, Xu Gong-gai di dalam file menjadi error kompilasi.
 
-## Nilai default tidak membuka cabang untuk mesin ini
+Dua hari kemudian rekan kerjanya bilang, mereka juga macet lama setelah migrasi, akhirnya menemukan artikelnya lewat pencarian. Seorang netizen punya ribuan file, konversi satu pun masih banyak error, "tidak punya pilihan selain bilang Goodbye pada VS2015". Ia kemudian menulis alat batch konversi ke UTF-8, karena simpan manual tak akan selesai.[^7]
 
-Git default mengaktifkan `core.quotePath`. Byte lebih besar `0x80` nama file, `git status` mencetak `\344\270\255` octal semacam itu. Nama file Tionghoa masih ada, hanya Anda tiap hari tidak mengerti gudang sendiri bicara apa.[^3] Ia escape byte tinggi UTF-8. Big5 `0x5C` garis lain. Terlihat sama-sama backslash, penyebab berbeda.
+Ini bukan hal yang sama dengan `split('/')` di atas. Satu adalah asumsi alat modern soal bentuk path. Satu adalah empat puluh tahun lalu memilih double-byte, lalu simbol menempati tubuh karakter. Mekanisme berbeda, tagihan tapi sering datang bersamaan di mesin cp950 yang sama. Soal sisi input bagaimana memasukkan karakter ke komputer, lihat [Metode Input Teks Asia Timur](/id/technology/east-asian-input-methods/). Di sini bahas soal karakter sudah di disk, rantai alat apakah masih mengenalinya.
 
-Python 3 di Windows jika `open()` tidak tulis `encoding='utf-8'`, mungkin mengikuti bahasa sistem. File UTF-8 yang sama, Linux baca lolos, mesin ini pakai cp950 decode, tanda baca atau zhuyin rusak.[^4] Saya sendiri bayar sekali: pakai PowerShell 5.1 `Get-Content | Set-Content` ubah file UTF-8, dash panjang di diff jadi `??`. Itu juga pajak default, bukan tema kedua.
+## Nilai bawaan tidak membuka cabang untuk mesin ini
 
-Pesan status bawa emoji, konsol cp950 ini langsung crash. Charset tidak punya simbol itu, Python tidak cetak, exception meledak ke lapisan atas. CI Linux tidak tes hal ini, karena tidak di mesin ini jalan.
+Git secara bawaan mengaktifkan `core.quotePath`. Nama file dengan byte lebih besar dari `0x80`, `git status` akan mencetaknya sebagai `\344\270\255` berupa oktal. Nama file berbahasa Tionghoa masih ada, hanya saja Anda setiap hari tidak mengerti repositori sendiri sedang mengatakan apa.[^3] Yang di-escape-nya adalah byte tinggi UTF-8. `0x5C` Big5 adalah jalur lain. Keduanya terlihat sebagai backslash, tetapi penyebabnya berbeda.
 
-Git, Python, contoh jalur CI `$HOME/project/src`, tidak untuk Windows zh-TW buka cabang lain.
+![Keluaran terminal sebenarnya: git status --short mencetak nama file berbahasa Tionghoa dalam artikel ini menjadi urutan escape oktal dengan tanda kutip; setelah ditambahkan -c core.quotePath=false, nama file yang sama dicetak dalam bahasa Tionghoa](/article-images/technology/git-quotepath-octal-cjk.svg)
 
-Hong Chao-kuei 2015 diwawancara iThome, bahas file pemerintah pakai format apa buka, bisa hidup berapa lama. Liputan merangkum maksudnya: jika pemerintah hanya pakai produk Microsoft buka file data, sama saja percaya umur Microsoft lebih panjang dari Republik Tiongkok.[^6] Kalimat itu bahas format file dan batas preservasi. Data terikat alat default mana, waktu ditarik panjang, jadi siapa masih bisa baca. Kolaborasi open source terikat lingkungan default mesin tertentu. Tarik-menarik teknologi sipil dan format file pemerintah, lihat [komunitas open source dan g0v](/id/technology/open-source-and-g0v/). Budaya pengembang Taiwan lama menyerap kesenjangan ini, lihat semangat open source Taiwan (台灣開源精神)。
+_File yang sama, di bawah nilai bawaan adalah rangkaian `\345\212\237`. Backslash di sini adalah escape yang ditambahkan Git, tidak ada hubungannya dengan `0x5C` di dalam karakter "功". Dibuat oleh Kontributor Taiwan.md, CC BY-SA 4.0._
 
-Pemisah jalur, encoding terminal, `$HOME` di contoh CI, tidak ada cabang untuk mesin ini. Hari 4546 jalur salah kategori, tidak ada satu baris kode lapor error. Statistik terlihat normal, sampai Anda duduk di depan mesin ini.
+Python 3 di Windows jika `open()` tidak menulis `encoding='utf-8'`, mungkin mengikuti locale sistem. File UTF-8 yang sama, Linux bisa membaca, mesin ini menggunakan cp950 untuk mendekode, tanda baca atau bopomofo jadi rusak.[^4] Saya sendiri pernah membayar sekali: menggunakan `Get-Content | Set-Content` PowerShell 5.1 mengubah file ke UTF-8, strip panjang (em dash) di diff berubah menjadi `??`. Itu juga pajak bawaan, bukan topik kedua.
+
+Saat pesan status membawa emoji, konsol cp950 ini akan langsung crash. Charset-nya tidak memiliki simbol-simbol tersebut, Python tidak bisa mencetak, exception meledak ke tingkat teratas. CI Linux tidak mendeteksi hal ini, karena tidak dijalankan di mesin ini.
+
+`$HOME/project/src` di jalur contoh Git, Python, CI, tidak membuka cabang terpisah untuk Windows zh-TW.
+
+Hong Chao-gui pada 2015 menerima wawancara iThome, membahas format apa yang harus digunakan pemerintah untuk membuka file, dan berapa lama file bisa bertahan. Liputan mengutip maksudnya: jika pemerintah hanya menggunakan produk Microsoft untuk membuka data file, berarti mempercayai umur Microsoft akan lebih panjang dari Republik Tiongkok (Taiwan).[^6] Kalimat itu membahas format file dan jangka penyimpanan. Data terikat pada alat bawaan mana, begitu waktu ditarik panjang, jadi siapa yang masih bisa membaca. Kolaborasi open source terikat pada lingkungan bawaan suatu jenis mesin. Tarik-menarik teknologi sipil dengan format file pemerintah, lihat [Komunitas Open Source dan g0v](/id/technology/open-source-and-g0v/). Pengembang Taiwan lama menyerap budaya kesenjangan ini, lihat [Semangat Open Source Taiwan](/id/technology/taiwan-open-source-spirit/).
+
+Pemisah jalur, encoding terminal, `$HOME` di contoh CI, tidak ada cabang yang dibuka untuk mesin ini. Hari ketika 4546 jalur diklasifikasikan salah, tidak ada satu baris pun program melaporkan error. Statistik terlihat normal, sampai Anda duduk di depan mesin ini.
 
 ## Bacaan Lanjutan
 
-- [semangat open source Taiwan](/id/technology/taiwan-open-source-spirit)：Budaya dan konteks pengembang Taiwan berpartisipasi open source.
-- [metode input teks Asia Timur](/technology/東亞文字輸入法)：Karakter कैसे diketik ke komputer, dari tabel kode ke keyboard.
-- [komunitas open source dan g0v](/id/technology/open-source-and-g0v)：Kolaborasi data terbuka dan format pemerintah.
+- [Semangat Open Source Taiwan](/id/technology/taiwan-open-source-spirit): Budaya dan konteks pengembang Taiwan berpartisipasi dalam open source.
+- [Metode Input Teks Asia Timur](/id/technology/east-asian-input-methods): Bagaimana karakter diketik ke komputer, dari tabel kode ke keyboard.
+- [Komunitas Open Source dan g0v](/id/technology/open-source-and-g0v): Kolaborasi antara data terbuka dan format pemerintah.
+
+## Sumber Gambar
+
+- **Kode Big5 dan Backslash untuk「功」（hero）**：Ilustrasi buatan Kontributor Taiwan.md, CC BY-SA 4.0, tersimpan di `public/article-images/technology/big5-gong-5c-backslash.webp`. Baris di bawah adalah output aktual dari eksekusi Python 3 `'許功蓋'.encode('big5')`; posisi kode konsisten dengan entri Big5 Wikipedia.[^5]
+- **split('/') dan PureWindowsPath**: Taiwan.md Contributors 自製, CC BY-SA 4.0, tersimpan di `public/article-images/technology/windows-path-split-vs-pathlib.svg`. Konten adalah hasil eksekusi Python 3 aktual; `PureWindowsPath` memotong jalur sesuai aturan Windows di sistem operasi apa pun, sehingga tidak perlu mesin Windows untuk mereproduksikannya.
+- **Output Oktal Git core.quotePath**: Taiwan.md Contributors 自製, CC BY-SA 4.0, tersimpan di `public/article-images/technology/git-quotepath-octal-cjk.svg`. Konten adalah output aktual `git status --short` setelah menambahkan nama file dokumen ini ke repo staging; perilaku ini tidak bergantung pada sistem operasi.
 
 ## Referensi
 
-[^1]: [Microsoft Learn: Format jalur file di sistem Windows](https://learn.microsoft.com/zh-tw/dotnet/standard/io/file-path-formats) — Dokumentasi .NET menjelaskan jalur DOS tradisional menggunakan backslash sebagai pemisah direktori, slash forward dikonversi ke backslash.
+[^1]: [Microsoft Learn: Format Jalur File di Sistem Windows](https://learn.microsoft.com/zh-tw/dotnet/standard/io/file-path-formats) — Dokumen .NET menjelaskan jalur DOS tradisional menggunakan garis miring terbalik sebagai pemisah direktori, garis miring akan dikonversi menjadi garis miring terbalik.
 
-[^2]: [Hong Chao-kuei: Masalah kode Big-5 yang mungkin dihadapi saat menulis program](https://frdm.cyut.edu.tw/~ckhung/b/pl/big5.php) — Halaman pengajaran mencantumkan karakter umum byte kedua jatuh di zona bahaya ASCII (Jiā Yě Chéng Zhèn Gōng), dan memperkenalkan alat pemindaian b5tm. Akhir halaman tidak tulis jabatan. 2015 iThome sebut wakil dekan. Halaman pribadi muat 1997-2023 jabatan Manajemen Informasi Chaoyang, pensiun Agustus 2023.
+[^2]: [Hong Chao-gui: Masalah Kode Big-5 yang Mungkin Ditemui saat Menulis Program](https://frdm.cyut.edu.tw/~ckhung/b/pl/big5.php) — Halaman tutorial mencantumkan karakter umum dengan byte kedua berada di rentang berbahaya ASCII (加也程陣功 / jia ye cheng zhen gong), serta memperkenalkan alat pemindaian b5tm. Akhir halaman tidak mencantumkan jabatan. Tahun 2015 iThome menyebutnya sebagai profesor madya. Halaman pribadinya mencantumkan menjabat di Manajemen Informasi Chaoyang dari 1997 hingga 2023, pensiun Agustus 2023.
 
-[^3]: [git-config: core.quotePath](https://git-scm.com/docs/git-config) — Dokumentasi resmi menjelaskan default akan menampilkan jalur byte lebih besar 0x80 sebagai urutan escape oktal.
+[^3]: [git-config: core.quotePath](https://git-scm.com/docs/git-config) — Dokumen resmi menjelaskan secara default jalur dengan byte lebih besar dari 0x80 akan ditampilkan sebagai urutan escape oktal.
 
-[^4]: [Python 3: open()](https://docs.python.org/3/library/functions.html#open) — Dokumentasi fungsi menegaskan encoding tidak ditentukan, mungkin mengikuti bahasa sistem sebagai encoding default.
+[^4]: [Python 3: open()](https://docs.python.org/3/library/functions.html#open) — Penjelasan fungsi menyatakan jika encoding tidak ditentukan, mungkin menggunakan locale sistem sebagai encoding default.
 
-[^5]: [Wikipedia: Kode Big5](https://zh.wikipedia.org/zh-tw/大五碼) — Mencantumkan "Gōng" 0xA55C, "Xǔ" 0xB35C, "Gài" 0xBB5C, dan menjelaskan masalah ini disebut Xǔ Gōng Gài.
+[^5]: [Wikipedia: Big5](https://zh.wikipedia.org/zh-tw/大五碼) — Mencantumkan 「功」0xA55C、「許」0xB35C、「蓋」0xBB5C, dan menjelaskan masalah ini disebut lelucon sebagai 許功蓋 (Xu Gong Gai).
 
-[^6]: [iThome: Wawancara Hong Chao-kuei](https://www.ithome.com.tw/news/93606) — Wawancara 2015, teks sebut wakil dekan Fakultas Manajemen Informasi Chaoyang. Halaman asing sering 403, kalimat umur Microsoft hanya pakai rangkuman hasil pencarian terlihat, tidak sebagai kutipan kata demi kata.
+[^6]: [iThome: Wawancara Hong Chao-gui](https://www.ithome.com.tw/news/93606) — Wawancara tahun 2015, artikel menyebutnya sebagai profesor madya Jurusan Manajemen Informasi Universitas Teknologi Chaoyang. Halaman asli sering mengembalikan 403, kalimat tentang masa pakai Microsoft hanya menggunakan pernyataan dari hasil pencarian, tidak sebagai kutipan kata demi kata.
 
-[^7]: [Dark Thread: Mesin terowongan - Solusi masalah kompatibilitas BIG5 file program VS2015](https://blog.darkthread.net/blog/big5-utf8-source-code-batch-converter/) — Catatan 2015 Visual Studio 2015 kompilasi kode sumber BIG5, Xǔ Gōng Gài menyebabkan error kompilasi. Teks ada "terpaksa ucapkan Goodbye ke VS2015".
+[^7]: [Darkthread: Mesin Potensial - Menyelesaikan Masalah Kompatibilitas BIG5 File Program VS2015](https://blog.darkthread.net/blog/big5-utf8-source-code-batch-converter/) — Catatan tahun 2015 saat Visual Studio 2015 mengompilasi kode sumber BIG5, 許功蓋 (Xu Gong Gai) menyebabkan kesalahan kompilasi. Artikel berisi 「只好跟VS2015說Goodbye」 (hanya bisa mengucapkan selamat tinggal pada VS2015).
 
-[^8]: [taiwan-md PR #1260](https://github.com/frank890417/taiwan-md/pull/1260) — 2026-07-26 merged. Sebelum perbaikan Windows categories hanya root: 4546, sesudah Technology zh: 59. Satu paket buang emoji yang bikin konsol cp950 crash.
+[^8]: [taiwan-md PR #1260](https://github.com/frank890417/taiwan-md/pull/1260) — Digabungkan 2026-07-26. Sebelum perbaikan di Windows categories hanya tersisa root: 4546, setelah perbaikan Technology zh: 59. Turut menghapus emoji yang menyebabkan konsol cp950 mogok.
