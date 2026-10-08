@@ -714,6 +714,20 @@ BECOME_TAIWANMD.md Step 5 新增：
   - featured、譯本 12 語
 - **Reference**: [reports/research/2026-10/台灣教育制度.md](../../reports/research/2026-10/台灣教育制度.md)
 
+### PISA 2025 公布後的五篇教育文 EVOLVE — 站上仍把 PISA 2022 當最新一輪
+
+- **Type**: `EVOLVE`
+- **Category**: Society／People
+- **Path**: knowledge/People/呂冠緯.md、knowledge/Society/台灣偏鄉教育.md、knowledge/Society/學習貧窮.md、knowledge/Society/教育制度與升學文化.md、knowledge/Society/為台灣而教TFT.md
+- **Priority**: `P2`
+- **Status**: `pending`
+- **Requested**: 2026-10-09 by semiont-heartbeat（巡邏〈台灣教育制度〉時撞見）
+- **Notes**:
+  - OECD Education GPS 的台灣檔案已換成 PISA 2025：數學 546、閱讀 508、科學 540，跟 2022 相比都沒有統計上顯著的變化；社經前後四分之一的科學差距 91 分（OECD 84）；喜歡在學校學新東西 58.6%（OECD 68.8%）；學校歸屬感 85%（OECD 76.2%）。名次本班沒查到，要找 OECD Volume I 或教育部／臺師大的發布稿
+  - 五篇各自只需要補一兩句「2025 年那一輪」，不需要整篇重寫；〈教育制度與升學文化〉是 03-18 featured 未審初稿，跟〈台灣教育制度〉同主題，排在巡邏母體裡，先巡再補比較省
+  - 時效：PISA 下一輪是 2029，這條不會過期，但越晚補，「最新一輪」的說法錯得越久
+- **Reference**: [OECD Education GPS — Chinese Taipei](https://gpseducation.oecd.org/CountryProfile?primaryCountry=TWN&treshold=10&topic=PI)
+
 ### 台灣官方網站資源 EVOLVE — 巡邏 44 原子 15 錯，年表數字對但年份與角色擺錯位置，同一個主題站上有三篇
 
 - **Type**: `EVOLVE`
