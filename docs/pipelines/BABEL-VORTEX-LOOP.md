@@ -3,8 +3,8 @@ title: 'BABEL-VORTEX-LOOP'
 description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.55)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.95'
-last_updated: 2026-10-08
+current_version: 'v1.96'
+last_updated: 2026-10-09
 last_session: '2026-09-26-100333-babel-vortex（翻譯率 100% 模式：推送常駐、付費 Haiku、閘門家族、委派 worktree 路徑陷阱與核准視窗、腳註修復器的語言盲）'
 sister_docs:
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
@@ -314,6 +314,17 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
 
+- v1.96（2026-10-09 babel 夜班）：**補丁會繼承未改章節的舊錯，於是每一次都必被擋**。
+  〈台灣美食總覽〉vi/id/hi/ar 的 patch 連續十次敗在 `currency[N]`，跨 gemma4 與 laguna 兩種模型同一個理由。
+  中文只改一句（RAW 熄燈日期），裸幣別在其餘十一章：舊譯文把新台幣寫成越南盾、人民幣。patch 讓未改章節
+  byte-identical，所以換哪個模型都繼承、都被擋，`fail_count` 記成模型失敗，八次後沉到佇列尾。同夜
+  〈國家太空中心〉fr 漏譯、ar/de 人民幣、vi 億→tỷ 差十倍、〈美食總覽〉ja 斜體圖說網址被 prettier 改壞，
+  全是同一個形狀。修法：`inherited_gate_defects()` 在試 patch 前先量現行譯文的漏譯／幣別／health，
+  量級對著譯文當初的來源版本量（拿新 zh 量會把被改章節的合法差異算成舊債）；有任何一項就跳過 patch 直接整篇
+  重翻，log 印 `⏩ patch skipped … 現行譯文已帶 X 缺陷`。正反對照：十點前的 vi/id/hi/ar/ja 舊版各報出對應缺陷，
+  修好的版本與 en 回空。這是 REFLEXES #38「確定性缺陷記成模型失敗」的第一段機械化（派前判必敗）。
+  同夜另一個觀察：〈國家太空中心〉中文只換腳註 22 一個網址，產線拿 8B 模型把 72 條腳註的整篇重翻，ar 一次跑
+  73 分鐘仍被擋；網址或單句級的事實修正，手動換那一行加 bump 十一語十分鐘做完，順手修掉舊錯。
 - v1.95（2026-10-08 babel 夜班）：**量級閘門也只接在委派層；--sync 會被別人沒 commit 的認知檔擋住**。
   (a) ar〈台灣同婚與性別平權〉把公投 765萬／640萬／338萬 譯成「765／640／338 مليون」（差 100 倍），dispatcher
   全部閘門放行。`numeral-magnitude-check.py` 寫在委派派工單的「量級可疑 = 0」，`verify_one` 從沒呼叫過它——

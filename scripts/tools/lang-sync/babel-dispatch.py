@@ -54,6 +54,7 @@ import os
 import re
 import subprocess
 import sys
+import tempfile
 import threading
 import time
 from collections import defaultdict, deque
@@ -1271,6 +1272,58 @@ def patch_reject_count(lang: str, zh_path: str) -> int:
         return 0
 
 
+def inherited_gate_defects(zh_path: str, trans_path: str) -> list[str]:
+    """補丁會原樣保留的那些章節，現在就已經過不了的閘門（只回名字，不修）。
+
+    2026-10-09 babel-nightly 診斷：〈台灣美食總覽〉vi/id/hi/ar 的 patch 連續十次被
+    currency 擋下，跨兩種模型同一理由。中文只改了一章，裸幣別在其餘十一章——舊譯文
+    把新台幣寫成越南盾／人民幣，patch 保留未改章節 byte-identical，所以每一次都必然
+    繼承、必然被擋，而 fail_count 把它記成模型失敗、沉到佇列尾。〈國家太空中心〉fr
+    的漏譯、ar/de 的人民幣、vi 的億→tỷ 差十倍是同一個形狀。
+
+    只量跟這次 zh 改動無關的檢查：漏譯、幣別、站上格式（pre-commit health），以及
+    「對著譯文當初的來源版本」量級——拿新 zh 量會把被改章節的合法數字差異誤判成
+    舊債。verify-translation 不在這裡：stale 檔對新 zh 本來就對不上（腳註網址、章數）。
+    任何一支工具自己壞掉（非約定的 exit）不算缺陷，不擋 patch。
+    """
+    target = REPO / trans_path
+    if not target.exists():
+        return []
+    found: list[str] = []
+    r = subprocess.run(["python3", "scripts/tools/lang-sync/cjk-leak-check.py", trans_path],
+                       cwd=REPO, capture_output=True, text=True)
+    if r.returncode == 1:
+        found.append("leak")
+    r = subprocess.run(["python3", "scripts/tools/lang-sync/currency-identity-check.py", trans_path],
+                       cwd=REPO, capture_output=True, text=True)
+    if r.returncode == 1:
+        found.append("currency")
+    r = subprocess.run(["python3", "scripts/tools/article-health.py", trans_path,
+                        "--profile=pre-commit", "--quiet"],
+                       cwd=REPO, capture_output=True, text=True)
+    if "passed=False" in r.stdout:
+        found.append("health")
+    m = re.search(r"^sourceCommitSha:\s*['\"]?([0-9a-f]{6,40})",
+                  target.read_text(encoding="utf-8"), re.M)
+    if m:
+        zh_repo = zh_path if zh_path.startswith("knowledge/") else f"knowledge/{zh_path}"
+        old = subprocess.run(["git", "show", f"{m.group(1)}:{zh_repo}"],
+                             cwd=REPO, capture_output=True, text=True)
+        if old.returncode == 0:
+            with tempfile.NamedTemporaryFile("w", suffix=".md", delete=False,
+                                             encoding="utf-8") as tf:
+                tf.write(old.stdout)
+            try:
+                r = subprocess.run(["python3", "scripts/tools/lang-sync/numeral-magnitude-check.py",
+                                    tf.name, trans_path],
+                                   cwd=REPO, capture_output=True, text=True)
+                if r.returncode == 1 and "處量級可疑" in r.stdout:
+                    found.append("magnitude")
+            finally:
+                os.unlink(tf.name)
+    return found
+
+
 def structured_fallback_policy(cascade_spec: str, primary_output: str) -> tuple[bool, str | None]:
     """用同 run 的實績決定零產物後是否值得換 structured engine。
 
@@ -1384,9 +1437,15 @@ def process_task(worker: Worker, lang: str, group_path: Path, zh_path: str,
     engine_label = engine
     if status == "stale" and not no_patch:
         reject_count = patch_reject_count(lang, zh_path)
+        inherited = [] if reject_count >= PATCH_REJECT_ESCALATE else inherited_gate_defects(zh_path, trans_path)
         if reject_count >= PATCH_REJECT_ESCALATE:
             log(f"⏫ patch-reject 累計 {reject_count} 次（≥{PATCH_REJECT_ESCALATE}）— "
                 f"跳過 patch engine，強制整篇重翻 ({lang}:{zh_path})")
+        elif inherited:
+            # 舊譯文未改章節已過不了這些閘門，patch 會原樣繼承、必被擋（見
+            # inherited_gate_defects）。整篇重翻至少有機會產出乾淨的版本。
+            log(f"⏩ patch skipped ({lang}:{zh_path}): 現行譯文已帶 {'/'.join(inherited)} 缺陷，"
+                f"補丁會繼承 — fallback to full retranslate")
         else:
             pcmd = ["python3", "-u", "scripts/tools/lang-sync/patch-translate.py",
                     zh_path, "--lang", lang, "--backend", _backend_spec(), "--out", trans_path]
