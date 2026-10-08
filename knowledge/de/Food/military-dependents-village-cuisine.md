@@ -19,10 +19,10 @@ lastHumanReview: false
 readingTime: 8
 imageNote: '原圖僅 GFDL 授權（非 CC BY／CC BY-SA／CC0／公有領域），未收進庫，待另覓授權明確圖源'
 translatedFrom: 'Food/台灣眷村菜.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:065bf6354c8e6e97'
-sourceBodyHash: 'sha256:c6f4891abde841e9'
-translatedAt: '2026-09-08T00:42:59+08:00'
+sourceCommitSha: 'ef80aeea4'
+sourceContentHash: 'sha256:467908b1a60dd52d'
+sourceBodyHash: 'sha256:833d2eafe654813e'
+translatedAt: '2026-10-08T14:10:42.817041+00:00'
 ---
 
 # Taiwans Militärdorf-Küche
@@ -73,13 +73,13 @@ Shandongs Grosszügigkeit traf auf Jiangnans Feinheit und erzeugte neue Variatio
 
 Kantons Leichtes und Nordens Schweres fanden in den Militärdörfern einen Ausgleich. Viele Militärdorf-Gerichte zeigen diese Nord-Süd-Verschmelzung: Sie bewahren den Herkunftsgeschmack und passen sich zugleich Taiwans Klima und Zutaten an.
 
-## Militärdorf-Abriss, Bewahrung und Militärdorf-Parks
+## Enklaven-Abriss, Erhaltung und Enklavenanlagen
 
-1996 wurde das «Gesetz zum Wiederaufbau alter Militärdörfer der Streitkräfte» (國軍老舊眷村改建條例) verabschiedet, Militärdorf-Länder wurden sukzessive in Umlegungsgebiete oder Staatswohnbau-Land umgewandelt, die physischen Bauten der alten Militärdörfer verschwanden beschleunigt.[^4] Doch einige Militärdörfer blieben aufgrund kultureller Bewahrungsforderungen erhalten.
+Mit der Verabschiedung des „Gesetzes zur Umgestaltung alter Militärdörfer“ im Jahr 1996 wurden die Grundstücke der Enklaven schrittweise in neu geplante oder staatliche Wohngebiete umgewandelt, was zum beschleunigten Verschwinden der ursprünglichen Gebäude führte.[^4] Einige Enklaven blieben jedoch aufgrund von Forderungen nach Kulturerhaltung erhalten.
 
-Taipeis Sinyi-Viertel mit dem 44. Süd-Dorf (四四南村) ist Taiwans bekanntestes Militärdorf-Bewahrungsbeispiel. Die ursprünglichen Baugruppen wurden 2003 in ein Militärdorf-Kulturzentrum umgewandelt und wurden zum Einzugsgebiet für Essensmarken wie «Good Cho's», wodurch die Militärdorf-Küche in einem neuen Kontext neu präsentiert wird. Taoyuan, mit der höchsten Militärdorf-Anzahl Taiwans, verfügt über ein Militärdorf-Kulturzentrum und ein jährliches Militärdorf-Kulturfestival, was einen kulinarisch zentrierten Kulturtourismus-Knoten bildet.[^5] In der Nähe der qingzeitlichen Altstadtmauern von Zuoying, Kaohsiung, blieben mehrere denkmalgeschützte Militärdörfer erhalten.
+Das Si-Si-Nan Village im Xinyi-Distrikt Taipeis ist das bekannteste Beispiel für die Erhaltung einer Enklave in Taiwan. Der ursprüngliche Gebäudekomplex wurde 2003 zu einem Enklavenkulturmuseum umgewandelt und dient als Standort für Gastronomiebetriebe wie „Good Cho's“, wodurch die Küche der Enklaven in einem neuen Kontext präsentiert wurde. Taoyuan ist eine Stadt mit einer hohen Dichte an Enklaven; ein Bericht aus dem Jahr 2018 gab an, dass Taoyuan 86 der insgesamt 888 Enklaven auf der ganzen Insel beherbergt und die dort abgehaltene Enklavenkulturfestveranstaltung im Jahr 2018 einen Wettbewerb um kulinarische Spezialitäten veranstaltete.[^5] Auch in der Nähe der alten Stadtmauern von Zuoying, Kaohsiung, sind mehrere gelistete Enklaven erhalten geblieben.
 
-Diese bewahrten Militärdorf-Räume geben der Weitergabe der Militärdorf-Küche physische Landmarken und ermöglichen der nächsten Generation, jenseits des Geschmacks die konkrete Form dieser Migrationsgeschichte zu sehen.
+Diese erhaltenen Räume der Enklaven gaben der Weitergabe der Enklavenküche physische Wahrzeichen und ermöglichten es den nachfolgenden Generationen, diese Migrationsgeschichte nicht nur durch den Geschmack, sondern auch in konkreter Form wahrzunehmen.
 
 ## Bidirektionale Perspektive: Bensheng-Sicht und Identitätswandel der zweiten Militärdorf-Generation
 
@@ -99,21 +99,21 @@ Eine neue Generation von Köchen beginnt, die Militärdorf-Küche neu zu interpr
 
 - Frühlingszwiebel-Pfannkuchen: Wikimedia Commons, [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 
-## Referenzen
+## Quellenangaben
 
-[^1]: [Verteidigungsministerium – Zentrum für Militärdorf-Kulturbewahrung](https://mvac.mnd.gov.tw/) — Militärdorf-Geschichtshintergrund und Migrationsbevölkerungsdaten.
+[^1]: [Nationales Verteidigungsministerium - Zentrum für die Bewahrung der Kultur in Militärfamilienvillen](https://mvac.mnd.gov.tw/) — Historischer Hintergrund und Migrationsdaten von Militärfamilienvillen.
 
-[^2]: [Taiwan-Wenxian «Wandel und Bewahrung der Militärdorf-Esskultur»](https://www.th.gov.tw/epaper/view2.php?Period=168&TBID=3) — 71. Jahrgang, 4. Heft (2020), Austausch der bensheng- und waisheng-Esskultur.
+[^2]: [Taiwanische Literatur:〈Veränderung und Erhaltung der Esskultur in Militärfamilienvillen〉](https://www.th.gov.tw/epaper/view2.php?Period=168&TBID=3) — Band 71, Ausgabe 4 (2020) Austausch von Speisen zwischen der Insel und dem Festland.
 
-[^3]: [Jiao Tong «Taiwans Geschmäcker» — Er-Yu-Kultur](https://www.taaze.tw/usedBook.html?oid=11100873870) — Bestätigung des militärdorflichen Ursprungs der Rindfleischnudeln und des Lokalisierungsprozesses der Sichuan-Küche.
+[^3]: [Jiao Tong 《Geschmack Taiwans》— Yi Yu Kultur](https://www.taaze.tw/usedBook.html?oid=11100873870) — Bestätigung des Ursprungs von Niurou Mian in Militärfamilienvillen und den Prozess der Lokalisierung der Sichuan-Küche.
 
-[^4]: [Gesetzesdatenbank der gesamten Republik: Gesetz zum Wiederaufbau alter Militärdörfer der Streitkräfte](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0000002) — Bestätigung der Verabschiedung 1996, zeitlicher Ablauf von Umlegung und Wiederaufbau.
+[^4]: [Nationale Rechtsdatenbank: Verordnung zur Umgestaltung alter Militärfamilienvillen](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0000002) — Bestätigung der Einführung im Jahr 1996, Landumstrukturierung und Umbauzeitplan.
 
-[^5]: [Taoyuan Militärdorf-Kulturzentrum](https://www.taoyuan.gov.tw/) — Taoyuans Militärdorf-Bewahrungsräume und jährliches Militärdorf-Kulturfestival.
+[^5]: [Xin Touke: Besuch des Taoyuan Militärfamilienvillen-Kulturfestes! Zuhören den Müttern aus den Militärfamilienvillen über alte Zeiten](https://newtalk.tw/news/view/2018-10-04/148037) — 04.10.2018, in Taoyuan gab es 86 der 888 Militärfamilienvillen auf der Insel; das Hauptfestival beinhaltete Straßenumzüge und Wettbewerbe für Speisen.
 
-[^6]: [Liberty Times: Eigentlich ist es die «Sauce»! Grund für den Geschmack von Gangshans Bohnenpaste](https://news.ltn.com.tw/news/life/breakingnews/2269537) — Vollständiger Kontext: Liu Mingde 1948 Ankunft in Taiwan, 1950 Entlassung, Herstellung der Mingde-Bohnenpaste im Gangshan-Militärdorf.
+[^6]: [Liberty Times: Es ist doch die „Soße“! Der Grund für den Geschmack von Okayama Doubanjiang](https://news.ltn.com.tw/news/life/breakingnews/2269537) — Die vollständige Geschichte von Liu Mingde, der 1948 nach Taiwan kam und nach seiner Entlassung im Jahr 1950 in einem Militärfamilienvillen in Okayama Doubanjiang herstellte.
 
-[^7]: [Rindfleischnudeln — Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%8F%B0%E7%81%A3%E7%89%9B%E8%82%89%E9%BA%B5) — Ursprung der taiwanesischen Rindfleischnudeln in Kaohsiung Gangshan Luftwaffen-Militärdorf, 1962 «Park-Schweinefuss-Nudeln / Rindfleischnudeln» als erster nachweisbarer Laden.
+[^7]: [Niurou Mian — Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%8F%B0%E7%81%A3%E7%89%9B%E8%82%89%E9%BA%B5) — Der Ursprung von Niurou Mian in den Luftwaffen-Militärfamilienvillen von Kaohsiung und Okayama, der erste dokumentierte Laden für Parkschweinbeine-Niurou Mian im Jahr 1962.
 
 ## Weiterführende Literatur
 
