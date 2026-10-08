@@ -405,9 +405,10 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **第二層**：修根要連 sub-package 一起看。本庫的 contracts job 有四個獨立的 `npm audit --audit-level=high`（root＋harvest/ui＋harvest/backend＋workers/mcp），只修 root 的話紅燈會從第一道移到第四道——`harvest/ui` 中的是同一組公告。**一條 job 裡同一道閘門出現 N 次時，修第一個命中的只是把紅燈往下推一格。**
 - **未解**：沒有東西在追「這條紅是外部來源造成的、而且修補是否在小版本內」。目前靠當班自己讀 log 判斷；下一次公告來的時候，判斷會重新做一次。
 - **可能層級**：MAINTAINER §Stage 3.5 補一句（外部來源造成的紅仍是本班的 polish item，先問修補是否在小版本內）＋ REFLEXES #82 家族（「不是我們的程式」是歸屬訊號，被當成處置訊號用）。
-- **候選機械化**：(a) contracts job 的四個 `npm audit` 收斂成一個會把四個路徑都掃完再一次報完的 step，讓「還有幾個同型閘門在後面」看得見，而不是一個個撞；(b) 偵測「倉庫無變更但 gate 由綠轉紅」→ 自動標成 external-feed 類紅燈並附「修補是否在同一小版本內」的判斷，讓處置不必每次重新推導。
+- **候選機械化**：~~(a) contracts job 的四個 `npm audit` 收斂成一個會把四個路徑都掃完再一次報完的 step，讓「還有幾個同型閘門在後面」看得見，而不是一個個撞~~ → **已落地（2026-10-08 twmd-maintainer-daily，第三次命中時）**：[`npm-audit-sweep.sh`](../../scripts/tools/npm-audit-sweep.sh) 四道一次報完，路徑從 workflow 解析不寫死（CI 多一道就跟著變，不會長成第二把尺），每條公告附 `fix=minor｜MAJOR(pkg@ver)｜none` 直接回答「修補在不在小版本內」那一句，於是處置不必每次重新推導——這一半把 (b) 的後半也做掉了。量不到的路徑印 UNKNOWN、總結印 🟡 不是 ✅、`--strict` 照樣回 1（REFLEXES #85）；工具還對賬自己的明細行數與表頭條數（第一版少印每個路徑的最後一條卻照報總數，自己的正控制抓到的，REFLEXES #65）。13 個 pytest + 三個正控制（真紅 → exit 1／量不到 → 🟡＋strict 1／乾淨 → ✅）。(b) 仍缺前半：**沒有東西在偵測「倉庫無變更但 gate 由綠轉紅」**，所以「這條紅是什麼時候、因為誰出現的」還是靠當班自己讀 log。
+- **第三次命中（2026-10-08 twmd-maintainer-daily）**：10-03 19:15 起連六次紅，橫跨週額度用完造成的 87 小時全黑——五天沒有任何一班看到它。這次四個 high 以上在根目錄（critical 的 `shell-quote` 命令注入＋`sharp`／`source-map-js`／`http-cache-semantics`）全部在小版本內修掉，`harvest/ui` 的兩個 critical（`seroval` 的 `fromJSON` 會呼叫外掛產生的函式、`solid-js`）一起收，兩邊都只動 lockfile（`d31eec691`）。**跟前兩次不同的地方**：這次剩下的五個 high 全部來自 `tailwindcss` 3.x 的傳遞依賴，而 `braces` 的公告範圍是「所有版本」、`tailwindcss` 3.x 停在 3.4.19 也還在範圍內——**本條原則的那句測試（先問修補是否在小版本內）第一次回答「不在」**。唯一修法是升 tailwindcss 4（breaking），那是決定不是 heal，已帶 options + 成本進 OBSERVER-QUEUE #94。所以本班結束時 main 仍紅在 `harvest/ui`，而這次不是因為沒人動手。
 - **相關**：REFLEXES #82（存在／歸屬代理有效）、#15（反覆浮現要儀器化——同一家族兩天內第二次）、MAINTAINER §1c（default 是修好不是分類好：把紅燈歸好類不等於處理掉）
-- **verification_count**: 2
+- **verification_count**: 3
 
 ### 2026-10-02 twmd-maintainer-am — verified-the-fact-exists-on-site-not-that-it-exists-in-the-article-we-linked：查證「站上寫了」之後，沒有查證「寫在我指過去的那一篇」
 

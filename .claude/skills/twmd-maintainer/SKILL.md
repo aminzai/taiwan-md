@@ -44,6 +44,14 @@ bash scripts/tools/routine-status.sh
 bash scripts/tools/ci-main-health.sh   # main 上每條 workflow 最後一次跑成什麼樣（七態，不用自己判）
 ```
 
+**Engineering contracts 紅了就再跑一支**（2026-10-08）：那條 job 有四道 `npm audit --audit-level=high` 用 `&&` 串著，第一道紅了後面三道不跑，修第一個看到的只是把紅燈推到下一格。
+
+```bash
+bash scripts/tools/npm-audit-sweep.sh   # 四道一次報完，每條附「修補在不在小版本內」
+```
+
+`fix=minor` 的**本班修**（`npm audit fix --package-lock-only --audit-level=high`，不碰 node_modules 因為 babel worker 在用）；`fix=MAJOR(...)` 或 `none` 是**決定不是 heal**，帶 options + 成本進 OBSERVER-QUEUE。**外部公告造成的紅仍是本班的 polish item**——「這不是我們的程式」描述歸屬不是處置，紅留在 main 上下一個投稿 PR 會繼承它（LESSONS `external-advisory-reddens-a-gate...` vc=3）。
+
 寫進 memory file 的 §Stage 1 表（≥ 5 列）：open PR / open issue / past 24hr commits / past 48hr commits / build status / i18n smoke / immune organ score。
 
 ---

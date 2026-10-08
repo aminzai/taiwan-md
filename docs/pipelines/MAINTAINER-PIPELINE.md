@@ -3,9 +3,9 @@ title: 'MAINTAINER-PIPELINE'
 description: '日常維護者主流程 canonical — 4 stage 線性 / Step N.M 編號 / Default-action principle / Issue 要修不是要分類 / Git merge 優先 (merge-first-then-heal，P1 push-to-branch 是格式債 default) / Draft PR 處置 / §collect-and-merge / §collect-and-merge / §Close 前 hard gate / §雙向校正 / §[Content] issue digest sub-flow'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v2.15'
-last_updated: 2026-10-01
-last_session: '2026-10-01-twmd-maintainer-am（Step 4.1 斷鏈 audit 改走 npm run sync:build 繞開 prebuild 的共用檔競用；canonical 14 類清單更正）'
+current_version: 'v2.16'
+last_updated: 2026-10-08
+last_session: '2026-10-08-twmd-maintainer-daily（Step 1.5c npm audit 四道全掃儀器化 — contracts job 的四道 audit 用 && 串著，第一道紅了後面三道不跑，修第一個只是把紅燈往下推一格）'
 sister_docs:
   - 'CONTRIBUTOR-SYSTEM-PIPELINE.md'
   - 'EVOLVE-PIPELINE.md'
@@ -275,25 +275,26 @@ git push origin main   # GitHub 將 PR 標 MERGED，tree 不變
 
 ## 🚦 Hard Gate Inventory（一張表 audit 全 pipeline）
 
-| Gate                                             | 觸發 stage  | 條件                                                            | 工具                                                                                                   | 不過 = ?                     |
-| ------------------------------------------------ | ----------- | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ---------------------------- |
-| 重複回應檢查                                     | Stage 2     | 所有 issue / PR reply 前                                        | `gh issue/pr view N --json comments -q '.comments[-1]'`                                                | skip 回覆                    |
-| **動手前先認領** ⭐ v2.11                        | Stage 3.0   | 任何要動手改的 issue / PR                                       | `gh issue/pr edit N --add-assignee @me`；已有他人 assignee → 跳過                                      | 兩台機器重做同一件事         |
-| **分岔當班修** ⭐ v2.12                          | Stage 1.1b  | `git rev-list --left-right --count main...origin/main` 兩邊 > 0 | `scripts/tools/merge-divergence.py` + §Step 1.1b 12 步                                                 | 分岔活過一天、衝突面每天長   |
-| 🔴 紅旗 check                                    | Stage 2     | 所有 PR                                                         | manual diff scan                                                                                       | close + reason               |
-| [Content] issue anti-poison + dedupe             | Stage 2.1.1 | title `[Content]` prefix / body `cron 研究 scan` 標記           | author profile + body 結構 + knowledge/ + INBOX grep                                                   | close + reason / route 分流  |
-| ~~§collect-and-merge A 路徑~~ ⚠️ DEPRECATED v2.1 | Stage 3.1   | routine PR (owner + `[routine]`)（v2.1 起無 routine PR）        | gh pr checks + view --json mergeable                                                                   | n/a — routine 走 main-direct |
-| §collect-and-merge B 路徑                        | Stage 3.2   | contributor / observer PR                                       | 紅旗 + CI + close-hard-gate decision matrix                                                            | per-tier action              |
-| §Close 前 hard gate                              | Stage 3.3   | 任何 close 前                                                   | 「我接手 X min 內可以修嗎」self-check                                                                  | 改 polish 不 close           |
-| **Git merge 優先** ⭐ v2.6                       | Stage 3.2–3 | 任何「收」contributor PR                                        | `gh pr merge` 先於 heal；禁 close-as-ship                                                              | 改 merge + heal / leave open |
-| **CI armed 確認** ⭐ v2.7                        | Stage 1.5b  | 每個 open PR，每次新 push 後                                    | `bash scripts/tools/pr-ci-armed.sh`                                                                    | UNARMED → 核准後才進 Stage 3 |
-| §Footnote source audit                           | Stage 3.4   | 外部 PR with footnote 改動                                      | 抽樣 ≥ 3 footnote URL WebFetch                                                                         | request changes              |
-| pre-commit hook 全過                             | Stage 3.5   | 所有 heal commit                                                | `.husky/pre-commit`                                                                                    | 不 commit                    |
-| article-health.py 全 plugin                      | Stage 3.5   | 內容改動的 PR (knowledge/\*.md)                                 | `python3 scripts/tools/article-health.py {file} --profile=ci-deploy`（profile 不可省，見 Step 3.5 註） | request changes / heal       |
-| 用貢獻者語言回覆                                 | Stage 3.7   | 所有 contributor reply                                          | manual (日文 PR → 日文 / 韓文 → 韓文)                                                                  | rewrite reply                |
-| Quality gate report 必寫                         | Stage 4.1   | 所有 cycle                                                      | manual checklist 7 條                                                                                  | 不算完成 cycle               |
-| **Issue 有修或有判斷** ⭐ v2.7                   | Stage 3.6   | 有 fresh issue 的 cycle                                         | commit hash 或 memory 裡的不修理由                                                                     | cycle 無產出                 |
-| memory + handoff 三態                            | Stage 4.3-4 | 所有 cycle                                                      | MEMORY-PIPELINE.md                                                                                     | 失憶 = 下個 cycle 重複       |
+| Gate                                             | 觸發 stage  | 條件                                                            | 工具                                                                                                   | 不過 = ?                                |
+| ------------------------------------------------ | ----------- | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | --------------------------------------- |
+| 重複回應檢查                                     | Stage 2     | 所有 issue / PR reply 前                                        | `gh issue/pr view N --json comments -q '.comments[-1]'`                                                | skip 回覆                               |
+| **動手前先認領** ⭐ v2.11                        | Stage 3.0   | 任何要動手改的 issue / PR                                       | `gh issue/pr edit N --add-assignee @me`；已有他人 assignee → 跳過                                      | 兩台機器重做同一件事                    |
+| **分岔當班修** ⭐ v2.12                          | Stage 1.1b  | `git rev-list --left-right --count main...origin/main` 兩邊 > 0 | `scripts/tools/merge-divergence.py` + §Step 1.1b 12 步                                                 | 分岔活過一天、衝突面每天長              |
+| 🔴 紅旗 check                                    | Stage 2     | 所有 PR                                                         | manual diff scan                                                                                       | close + reason                          |
+| [Content] issue anti-poison + dedupe             | Stage 2.1.1 | title `[Content]` prefix / body `cron 研究 scan` 標記           | author profile + body 結構 + knowledge/ + INBOX grep                                                   | close + reason / route 分流             |
+| ~~§collect-and-merge A 路徑~~ ⚠️ DEPRECATED v2.1 | Stage 3.1   | routine PR (owner + `[routine]`)（v2.1 起無 routine PR）        | gh pr checks + view --json mergeable                                                                   | n/a — routine 走 main-direct            |
+| §collect-and-merge B 路徑                        | Stage 3.2   | contributor / observer PR                                       | 紅旗 + CI + close-hard-gate decision matrix                                                            | per-tier action                         |
+| §Close 前 hard gate                              | Stage 3.3   | 任何 close 前                                                   | 「我接手 X min 內可以修嗎」self-check                                                                  | 改 polish 不 close                      |
+| **Git merge 優先** ⭐ v2.6                       | Stage 3.2–3 | 任何「收」contributor PR                                        | `gh pr merge` 先於 heal；禁 close-as-ship                                                              | 改 merge + heal / leave open            |
+| **CI armed 確認** ⭐ v2.7                        | Stage 1.5b  | 每個 open PR，每次新 push 後                                    | `bash scripts/tools/pr-ci-armed.sh`                                                                    | UNARMED → 核准後才進 Stage 3            |
+| **npm audit 四道全掃** ⭐ v2.16                  | Stage 1.5c  | contracts job 紅了                                              | `bash scripts/tools/npm-audit-sweep.sh`                                                                | `minor` 的本班修；`MAJOR`/`none` 進佇列 |
+| §Footnote source audit                           | Stage 3.4   | 外部 PR with footnote 改動                                      | 抽樣 ≥ 3 footnote URL WebFetch                                                                         | request changes                         |
+| pre-commit hook 全過                             | Stage 3.5   | 所有 heal commit                                                | `.husky/pre-commit`                                                                                    | 不 commit                               |
+| article-health.py 全 plugin                      | Stage 3.5   | 內容改動的 PR (knowledge/\*.md)                                 | `python3 scripts/tools/article-health.py {file} --profile=ci-deploy`（profile 不可省，見 Step 3.5 註） | request changes / heal                  |
+| 用貢獻者語言回覆                                 | Stage 3.7   | 所有 contributor reply                                          | manual (日文 PR → 日文 / 韓文 → 韓文)                                                                  | rewrite reply                           |
+| Quality gate report 必寫                         | Stage 4.1   | 所有 cycle                                                      | manual checklist 7 條                                                                                  | 不算完成 cycle                          |
+| **Issue 有修或有判斷** ⭐ v2.7                   | Stage 3.6   | 有 fresh issue 的 cycle                                         | commit hash 或 memory 裡的不修理由                                                                     | cycle 無產出                            |
+| memory + handoff 三態                            | Stage 4.3-4 | 所有 cycle                                                      | MEMORY-PIPELINE.md                                                                                     | 失憶 = 下個 cycle 重複                  |
 
 ---
 
@@ -498,6 +499,29 @@ bash scripts/tools/ci-main-health.sh --strict # 有 RED 就 exit 1
 - `push:` 不等於「會在 main 上跑」：`push: {tags: [cli-v*]}` 是 tag 推送，分支永遠對不上，`npm-publish-cli` 因此被誤報成 NEVER-ON-MAIN。已改成只認帶 `branches` 或無細則的 push。
 
 刻意**不設**「幾天沒跑算 stale」的門檻：掛 paths filter 的 workflow 冷幾天是正常的，憑感覺設一個數字只會生假陽性（REFLEXES #66 門檻要用真實產出校準）。工具只印齡，判斷留給人。全綠的讀數本身也過了正控制（fixture 餵 failure／stale／不認得的值，三態都正確亮燈、`--strict` 回 1）。
+
+#### Step 1.5c: 紅在 `npm audit` 時，一次看完四道而不是一個個撞（v2.16，2026-10-08）
+
+`ci-main-health.sh` 會告訴你 **Engineering contracts 紅了**，不會告訴你紅在哪一道 audit、後面還有幾道同型的在排隊。那條 job 有**四道** `npm audit --audit-level=high`（repo 根＋`harvest/ui`＋`harvest/backend`＋`workers/mcp`），用 `&&` 串著：**第一道紅了後面三道根本沒跑**，所以修好第一個看到的那個，紅燈只是移到下一格，讀起來像沒修好。10-02 那班踩過一次（修了 root，紅燈移到 `harvest/ui`）。
+
+```bash
+bash scripts/tools/npm-audit-sweep.sh            # 四道一次報完，永遠 exit 0
+bash scripts/tools/npm-audit-sweep.sh --strict   # 有 high 以上、或有路徑量不到就 exit 1
+```
+
+每條公告的 `fix=` 欄直接回答當班唯一要問的那一句——**這條修補在不在小版本內**：
+
+| `fix=`               | 意思                                   | 處置                                                                 |
+| -------------------- | -------------------------------------- | -------------------------------------------------------------------- |
+| `minor`              | 有非 semver-major 的修補               | **本班做掉**：`npm audit fix --package-lock-only --audit-level=high` |
+| `MAJOR(<pkg>@<ver>)` | 只有 breaking change 修得掉            | 這是**決定不是 heal** → 帶 options + 成本進 OBSERVER-QUEUE           |
+| `none`               | 上游還沒有修補（公告範圍涵蓋所有版本） | 同上                                                                 |
+
+**`--package-lock-only` 不是潔癖**：babel dispatcher 的 worker 常駐在用 repo 根那棵 `node_modules`，動它會把正在跑的產線弄壞。只改 lockfile 讓 CI 的 `npm ci` 去解析，本機那棵樹不動。
+
+**外部來源造成的紅仍然是本班的 polish item**：`npm audit` 吃的是倉庫外面的資料源，會在倉庫一個字都沒變的情況下由綠轉紅，所以這種紅沒有「犯人」，很容易被寫成「外部公告，非自家程式」然後收工。那句話描述的是**歸屬**，不是**處置**——紅留在 main 上的後果跟任何其他紅一樣，下一個路過的投稿 PR 會繼承它，投稿者看到的是自己的 PR 紅了（#1662 案例）。**歸屬在庫外，責任不在庫外。** 完整病史：LESSONS `external-advisory-reddens-a-gate-and-not-our-code-becomes-a-reason-not-to-act`（vc=3：09-30／10-02／10-08）。
+
+⚠️ **量不到的路徑不會被算成綠**：子專案的 `node_modules` 沒裝在這台機器上時（CI 每次 `npm ci` 所以它量得到，本機常常沒有），該路徑印 `UNKNOWN`，總結印 🟡 而不是 ✅，`--strict` 照樣回 1。本機全綠不等於 CI 會綠，工具自己會把這句話說出來（REFLEXES #85「不知道」要有自己的符號）。工具也對賬自己的明細行數與表頭宣稱條數，不一致就自己喊少報（REFLEXES #65）。
 
 ### Step 1.5b: 每個 open PR 的 CI 有沒有被 arm（2026-08-14 新增，2026-08-19 儀器化）
 
@@ -1595,6 +1619,7 @@ _v2.0 | 2026-05-11 twmd-maintainer-pm-211549-v2-spine — Stage spine restoratio
 
 _最近 milestone（完整 changelog → `git log docs/pipelines/MAINTAINER-PIPELINE.md`）_：
 
+- **v2.16**（2026-10-08 twmd-maintainer-daily）— Step 1.5c〈紅在 `npm audit` 時一次看完四道〉＋ [`npm-audit-sweep.sh`](../../scripts/tools/npm-audit-sweep.sh)：contracts job 的四道 audit 用 `&&` 串著，第一道紅了後面三道不跑，於是修第一個看到的只是把紅燈推到下一格（10-02 那班踩過）。路徑從 workflow 解析不寫死，每條公告附「修補在不在小版本內」的判斷，量不到的路徑印 UNKNOWN 而不是算進全綠。LESSONS `external-advisory-reddens-a-gate-and-not-our-code-becomes-a-reason-not-to-act` 候選機械化 (a) 落地（vc=3：09-30／10-02／10-08）
 - **v2.15**（2026-10-01 twmd-maintainer-am）— Step 4.1 補〈斷鏈 audit 要 fresh dist〉：連三輪 skip 的理由「build 會撞 babel 共用檔」只對 `npm run build` 成立，競用來自 `prebuild:status`，改走 `npm run sync:build`（無 pre/post hook）在 babel 滿載時實測零碰撞；同時補「build 還在跑時別讀那支尺」（半成品 dist 的 mtime 是現在，staleness guard 放行而分母崩成 1）。另更正 Step 3.4 紅旗 8 的 canonical 14 類清單：原列 `Language`（無此目錄）、漏 `Politics`（18 篇），改以 `categoryConfig.ts` 的 key 為準
 - **v2.14**（2026-09-27 twmd-maintainer-am）— Step 1.5 從可貼指令改成 [`ci-main-health.sh`](../../scripts/tools/ci-main-health.sh) 儀器：09-03 的 group-by 全表只涵蓋最近 100 筆 run，實測 8.3 小時，冷門 workflow 紅完就滑出窗；改成逐條問 workflow 自己的 runs endpoint。新尺首跑抽驗抓到自己兩個假陽性（fork PR 的 head branch 叫 main／`push: tags` 不是分支觸發），修完再過正控制
 - **v2.13**（2026-09-27 twmd-distill-weekly）— Step 3.5 補「commit 跑的是 pre-commit 那把 profile」，heal 完兩把都跑（LESSONS `prescribed-profile-is-not-the-gate-profile` → REFLEXES #100）
