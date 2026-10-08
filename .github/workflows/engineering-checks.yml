@@ -1,10 +1,10 @@
 name: Engineering contracts
 on:
   pull_request:
-    paths: ['docs/semiont/harvest/**', 'tsconfig.json', 'astro.config.mjs', 'src/**', 'scripts/**', 'tests/**', 'workers/**', 'supabase/**', 'config/**', 'package*.json', '.github/workflows/**']
+    paths: ['docs/semiont/harvest/**', 'tsconfig.json', 'astro.config.mjs', 'src/**', 'scripts/**', 'tests/**', 'workers/**', 'supabase/**', 'config/**', 'cli/**', 'package*.json', '.github/workflows/**']
   push:
     branches: [main]
-    paths: ['docs/semiont/harvest/**', 'tsconfig.json', 'astro.config.mjs', 'src/**', 'scripts/**', 'tests/**', 'workers/**', 'supabase/**', 'config/**', 'package*.json', '.github/workflows/**']
+    paths: ['docs/semiont/harvest/**', 'tsconfig.json', 'astro.config.mjs', 'src/**', 'scripts/**', 'tests/**', 'workers/**', 'supabase/**', 'config/**', 'cli/**', 'package*.json', '.github/workflows/**']
 permissions:
   contents: read
 jobs:
@@ -32,6 +32,13 @@ jobs:
         working-directory: docs/semiont/harvest/backend
       - run: npm ci --ignore-scripts && npm audit --audit-level=high && npm test
         working-directory: workers/mcp
+      # cli 的 vitest 在 2026-10-08 前只跑在 npm-publish-cli.yml 裡，而那條靠
+      # `cli-v*` tag 觸發——意思是 CLI 的紅燈要等到「發佈那一刻」才會被看到。
+      # 實際代價：mailmap.test.js 因為 execSync 預設 1 MB buffer 被倉庫自己的
+      # git log 長過去而紅掉，沒有任何一班知道，直到有人為了別的事手動跑它
+      # （#1789 / #1790 那一班）。發佈前才跑的測試，等於沒有在守任何東西。
+      - run: npm ci --ignore-scripts && npm audit --audit-level=high && npm test
+        working-directory: cli
   feedback-db:
     runs-on: ubuntu-latest
     services:

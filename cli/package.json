@@ -6,7 +6,7 @@
     "test:watch": "vitest"
   },
   "devDependencies": {
-    "vitest": "^2.1.9"
+    "vitest": "^5.0.3"
   },
   "description": "CLI for Taiwan.md — search, read, and explore 900+ curated articles about Taiwan from your terminal.",
   "type": "module",
