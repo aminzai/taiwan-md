@@ -2,9 +2,7 @@
 title: 'Taiwanese Food Overview: No Dish Is Purely Taiwanese, and Every Dish Is Taiwanese to the Core'
 description: "Beside the Chiayi Fountain roundabout in 1949, Lin Tien-shou sliced chicken, laid it over white rice, and poured Minnan-style braising sauce on top; only after the U.S. military stationed in postwar Taiwan moved into Shuishang Air Base and brought large numbers of turkeys to Taiwan did this bowl evolve from chicken rice into turkey rice. From Indigenous slate-grilled wild boar, Hakka stir-fried pork intestines with shredded ginger, and military dependents' village Sichuan-style beef noodles to bubble tea invented in Taichung in 1986, and onward to the 419 restaurants included by Michelin in 2025. This island spent four hundred years cooking every borrowed dish into its own form."
 date: 2026-05-18
-author: 'Taiwan.md'
 category: 'Food'
-subcategory: '美食總覽'
 tags:
   [
     'Cuisine',
@@ -19,18 +17,32 @@ tags:
     'Lu Rou Fan',
     'Bando',
   ]
+subcategory: '美食總覽'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-05-18
 lastHumanReview: false
-featured: true
-translatedFrom: 'Food/台灣美食總覽.md'
-sourceCommitSha: '53dd93dd'
-sourceContentHash: 'sha256:4e63535e7555a67e'
-sourceBodyHash: 'sha256:607f80fde520e7fc'
-translatedAt: '2026-06-22T00:30:00+08:00'
+viewpoint_formed: true
+researchReport: 'reports/research/2026-05/台灣美食總覽.md'
 image: '/article-images/food/taiwan-food-overview-raohe-night-market-2023.webp'
 imageCredit: 'KClinla'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E9%A5%92%E6%B2%B3%E8%A1%97%E8%A7%80%E5%85%89%E5%A4%9C%E5%B8%82_173356.jpg'
+sporeLinks:
+  - id: 97
+    platform: 'threads'
+    date: '2026-05-27'
+    url: 'https://www.threads.com/@taiwandotmd/post/DY0zmnNE5RT'
+  - id: 98
+    platform: 'x'
+    date: '2026-05-27'
+    url: 'https://x.com/taiwandotmd/status/2059458468898287770'
+relatedDiary: ['2026-05-27-122151-manual']
+translatedFrom: 'Food/台灣美食總覽.md'
+sourceCommitSha: 'c4bb5dc71'
+sourceContentHash: 'sha256:1ab18bf6c6736ca9'
+sourceBodyHash: 'sha256:d8ec20e1d4812ac6'
+translatedAt: '2026-10-08T06:52:44.650525+00:00'
 ---
 
 # Taiwanese Food Overview: No Dish Is Purely Taiwanese, and Every Dish Is Taiwanese to the Core
@@ -169,35 +181,33 @@ A bando table usually serves “twelve dishes.” The drama title _Song of the T
 
 ---
 
-## Michelin Arrived in 2018: Of 419 Restaurants, 144 Are Street Stalls
+## Michelin Arrives in 2018: 144 of the 419 Listed are Street Food Favorites
 
-On March 14, 2018, the _Michelin Guide_ entered Taiwan, marking Taiwan’s formal entry into the international evaluation system for dining.
+In March 2018, _The Michelin Guide_ entered Taiwan, marking the formal entry of the Taiwanese culinary industry into an international evaluation system.
 
-By the eighth edition of the guide in 2025, Michelin had included 419 restaurants: **3 three-star restaurants, 7 two-star restaurants, 43 one-star restaurants, 144 Bib Gourmand selections, and 7 Green Stars for sustainable restaurants**[^54].
+By the eighth edition in 2025, Michelin had listed 419 restaurants: **3 three-star establishments, 7 two-star establishments, 43 one-star establishments, 144 Bib Gourmand selections, and 7 green stars (sustainability restaurants)**[^54].
 
-**All three three-star restaurants have retained the distinction for multiple consecutive years**: Le Palais in Taipei, serving Cantonese cuisine; Taïrroir in Taipei, serving modern Taiwanese cuisine; and JL Studio in Taichung, serving Singaporean and modern cuisine. **Le Palais has held three stars for eight consecutive years since the first Taiwan guide in 2018**, Taiwan’s longest-running three-star record. But there is a turn: Le Palais’s former chef Chan Wai-Keung, born in Macau in 1970, left Le Palais in 2024 and went to Kaohsiung to create a new Cantonese restaurant, Gen[^55]. A restaurant with eight consecutive years of three stars saw its central figure go elsewhere; this is precisely the fragility of top-tier dining.
+**The Three-Star Restaurants Have Maintained Their Status for Many Years**: I-Ting (Taipei, Cantonese), Tai Rui (Taipei, Modern Taiwanese), and JL Studio (Taichung, Singaporean/Modern). **I-Ting has held the three-star rating continuously since the first edition in 2018**, making it Taiwan's longest-standing three-star record. However, there has been a turning point: I-Ting’s former head chef Chen Tai-rong (born in Macau in 1970) left I-Ting in 2024 to open a new Cantonese restaurant in Kaohsiung called "Jun" [^55]. The departure of the soul behind an eight-year three-star establishment highlights the fragility of high-end dining.
 
-**RAW, by André Chiang, has closed**. Chiang announced that RAW would cease operations on December 31, 2024, a farewell on its tenth anniversary[^56]. After the 2018 spotlight, Taiwan’s fine dining has passed through another decade of decisions of its own.
+**RAW (Jiang Zhencheng) has closed**. Jiang Zhencheng announced that RAW would operate until December 31, 2024, marking its 10th anniversary farewell [^56]. After the spotlight of 2018, fine dining in Taiwan has navigated a decade of its own decisions.
 
-But the most noteworthy part of the Michelin Guide is actually the **Bib Gourmand** category, which specifically recognizes “good food at moderate prices.” Tainan alone had 31 Bib Gourmand restaurants in 2024, many of them famous local snack shops[^57]. **This means Michelin has recognized Taiwan’s popular taste**: a roadside bowl of NT$70 beef soup can stand on equal footing with a Michelin-starred kitchen. CNN directly called Tainan “Taiwan’s food capital”[^58].
+However, what is most noteworthy about _The Michelin Guide_ is actually the **Bib Gourmand selection**, which specifically honors "affordable good eateries." In Tainan alone, there are 31 Bib Gourmand-listed restaurants from 2024, many of which are local snack shops [^57]. **This signifies that Michelin has recognized Taiwan's popular flavors**: a bowl of beef soup for NT$70 from the street can stand equal to a Michelin-starred kitchen. CNN directly called Tainan "Taiwan's food capital" [^58].
 
-> **📊 Michelin Taiwan 2025 Data**
+> **📊 2025 Michelin Taiwan Data**
 
-| Indicator                    | 2024 | 2025 |
-| ---------------------------- | ---- | ---- |
-| Total selections             | 343  | 419  |
-| Three stars                  | 3    | 3    |
-| Two stars                    | 5    | 7    |
-| One star                     | 41   | 43   |
-| Bib Gourmand                 | 126  | 144  |
-| Green Stars (sustainability) | 6    | 7    |
+| Indicator                   | 2024 | 2025 |
+| :-------------------------- | :--- | :--- |
+| Total Listed                | 343  | 419  |
+| Three Stars                 | 3    | 3    |
+| Two Stars                   | 5    | 7    |
+| One Star                    | 41   | 43   |
+| Bib Gourmand                | 126  | 144  |
+| Green Star (Sustainability) | 6    | 7    |
 
-Another dimension of fine dining is tea. Taiwan’s high-mountain tea has traveled from teahouses onto the tea lists of Michelin restaurants. Alishan, Lishan, Shanlinxi, and Taimali high-mountain teas grow on mist-wreathed slopes above 1,000 meters, from Tsou communities to the rims of cups in top restaurants. John Dodd’s act of introducing oolong seedlings from Fujian to Tamsui in 1865 is still shaping Taiwan’s map of taste 160 years later.
+Another dimension of fine dining is tea. High-mountain teas from Taiwan's tea houses have made their way onto the menus of Michelin restaurants. The high-mountain teas from Alishan, Lishan, Shanlinxi, and Taimali—grown on misty slopes over 1,000 meters, ranging from Tsou tribal communities to top-tier restaurants. The act of Todd introducing Oolong tea seedlings from Fujian to Danwei in 1865 continues to influence Taiwan's palate map 160 years later.
 
-![Tea garden at Alishan YUYUPAS Tsou Cultural Park, with tea bushes arranged neatly on a hillside](/article-images/food/taiwan-food-alishan-yuyupas-tea-garden-2011.webp)
-_Alishan high-mountain tea: from Tsou communities to the tea lists of Michelin-starred restaurants, grown out of mist above 1,000 meters. Photo: Hughon-zxl, 2011, CC BY-SA 3.0 [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:In_the_Alishan_YUYUPAS_tea_garden.JPG)._
-
----
+![Tea plantations in the YUYUPAS Tsou Cultural Park in Alishan](/article-images/food/taiwan-food-alishan-yuyupas-tea-garden-2011.webp)
+_Alishan high-mountain tea: grown with mist above 1,000 meters from Tsou tribal communities to Michelin-starred menus. Photo: Hughon-zxl, 2011, CC BY-SA 3.0 [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:In_the_Alishan_YUYUPAS_tea_garden.JPG)._
 
 ## The Next Mouth: New Immigrants, Sustainability, Delivery, and the World’s Third-Largest Vegan Population Share
 
