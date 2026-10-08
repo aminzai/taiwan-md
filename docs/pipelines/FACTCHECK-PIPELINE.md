@@ -3,9 +3,9 @@ title: 'FACTCHECK-PIPELINE'
 description: '事實查核方法論 SSOT — Phase 1-6 / 8 atom 類 / 4 維度 source authority / Quick + Full mode (v2.0)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v2.13'
+current_version: 'v2.14'
 last_updated: 2026-10-08
-last_session: '2026-10-08-023621-semiont-heartbeat（§Drift Modes 總結化 drift 補「跨度讀成時長」：〈台東縣〉標題的三十六年是兩個端點相減，中間七年政治犯移監泰源）'
+last_session: '2026-10-08-203821-semiont-heartbeat（§工具化路徑 footnote-url 改量參考資料清單並降噪：普通清單格式的參考資料這把尺量不到，量得到的那些又有四分之三是假警報）'
 sister_docs:
   - 'REWRITE-PIPELINE.md'
   - 'PEER-INGESTION-PIPELINE.md'
@@ -545,13 +545,13 @@ C: {audit 盲區：哪些 footnote 沒實 fetch / 哪些 source 無法 cross-che
 
 ## 工具化路徑（待造）
 
-| 工具                                                      | 用途                                                  | 優先序           |
-| --------------------------------------------------------- | ----------------------------------------------------- | ---------------- |
-| `scripts/tools/extract-atoms.sh`                          | Phase 2 自動 grep 候選 atom                           | P1               |
-| `article-health.py --check=footnote-url --network` (SSOT) | Phase 3 批次 HEAD 檢查所有 footnote URL 是否 200      | ✅ P0 已 SSOT 化 |
-| `scripts/tools/audit-quotes.sh`                           | Phase 4 對每個引號 atom spawn WebFetch verbatim check | P2               |
-| `scripts/tools/factcheck-arithmetic.py`                   | Phase 5 算術 sanity check（數字 atom 帶單位推算）     | P3               |
-| `scripts/tools/factcheck-pipeline.sh`                     | 整套 wrapper：跑 Phase 1-6 全自動                     | P4               |
+| 工具                                                      | 用途                                                                                                                                                                                                                               | 優先序           |
+| --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| `scripts/tools/extract-atoms.sh`                          | Phase 2 自動 grep 候選 atom                                                                                                                                                                                                        | P1               |
+| `article-health.py --check=footnote-url --network` (SSOT) | Phase 3 批次 HEAD 檢查所有 footnote URL 是否 200；2026-10-08 起也量 `## 參考資料` 區的普通清單網址，並帶瀏覽器標頭、放寬 Python 3.13 嚴格憑證旗標、編碼中文路徑（之前這三種都被記成「無法存取」）。仍是 403 的先用瀏覽器開一次再判 | ✅ P0 已 SSOT 化 |
+| `scripts/tools/audit-quotes.sh`                           | Phase 4 對每個引號 atom spawn WebFetch verbatim check                                                                                                                                                                              | P2               |
+| `scripts/tools/factcheck-arithmetic.py`                   | Phase 5 算術 sanity check（數字 atom 帶單位推算）                                                                                                                                                                                  | P3               |
+| `scripts/tools/factcheck-pipeline.sh`                     | 整套 wrapper：跑 Phase 1-6 全自動                                                                                                                                                                                                  | P4               |
 
 優先 P0：`article-health.py --check=footnote-url --network` 一個指令就能避免大半的 🔴 DEAD-LINK。
 
@@ -752,4 +752,5 @@ _v2.9 | 2026-10-03 semiont-heartbeat 凌晨 — §月度巡邏「audit 前 HEAD�
 _v2.10 | 2026-10-03 semiont-heartbeat 早上 — §月度巡邏補「止血之後用被改掉的錯誤短語 grep 全庫中文」：巡邏單位是文章、錯的單位是說法，首跑三篇十五個錯誤短語 grep 出三份兄弟篇同錯（史瓦帝尼概覽、台灣人工智慧學校 description、台灣人工智慧發展與未來策略），對應 REFLEXES #101 的內容層。_
 _v2.11 | 2026-10-03 semiont-heartbeat 下午 — §Phase 4 判定矩陣補 👻 FABRICATED（具名對象全網查無）並計入退回重寫門檻的分子；§Spawn prompt 必含元素加第 10 條。觸發：〈台灣新住民美食融合〉❌ 只有 2.5%，11 個具名人物、店家、品牌、書目查無，舊規則下不會被退回；REFLEXES #85 判定詞彙層第二例。_
 _v2.12 | 2026-10-03 semiont-heartbeat 晚間 — §Phase 4「查無也要用原文證明」補第 (3) 條：curl 取不到時用內建瀏覽器，取文字用 `textContent` 不用 `innerText`，回報 0 筆前先過正對照。觸發：文化部潛力點頁的調查數字藏在分頁籤，`innerText` 四個原子全回 0 筆。§月度巡邏 v2.10 段補第二例：兄弟篇 grep 撞見〈澎湖縣〉把維基句子掛成文化部原文，那篇走過 REWRITE，是抽樣排除的層。_
+_v2.14 | 2026-10-08 semiont-heartbeat 晚間 — §工具化路徑 footnote-url 那列補新的量測範圍與三個降噪修補：〈台灣官方網站資源〉參考資料是普通清單，這把尺回報全綠，實際一條 404；同一把尺對〈國家太空中心〉72 條腳註報 17 條無法存取，其中 13 條是憑證旗標、標頭與中文路徑造成的，修完剩 4 條、1 條真死。_
 _v2.13 | 2026-10-08 semiont-heartbeat — §Drift Modes 第 6 條補「跨度讀成時長」實例與規則：〈台東縣〉把 1951–1987 兩個端點相減寫成標題「關了三十六年政治犯」，中間 1965–1972 政治犯移監泰源；同篇「四十二年核廢料」是沒回頭換算的凍結年數。標題、description、核心矛盾裡的 N 年要能在研究檔找到同一個時長，起算到今天的年數改成不會過期的說法。_
