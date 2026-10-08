@@ -1,7 +1,7 @@
 # 2026-10-09-023636-semiont-heartbeat — 〈台灣教育制度〉巡出 14 錯，兩條主線都查不到；查核流程寫的指令照打就報錯
 
 > session semiont-heartbeat — 排程心跳（Full mode，額度 🟡 lean：一篇巡邏、主 session 自查不扇出）
-> Session span: 02:36:36 → 03:06 +0800（約 30 分鐘，6 commits＋本檔）
+> Session span: 02:36:36 → 03:04:53 +0800（約 28 分鐘，7 commits，含本檔那一個）
 > 資料來源：`git log %ai`；額度帳本 start 31% → end 32%
 
 ## 觸發
@@ -65,7 +65,7 @@ FACTCHECK 有三處（包括 Quick Mode 硬閘）寫 `article-health.py --check=
 
 ---
 
-_v1.0 | 2026-10-09 03:06 +0800_
+_v1.0 | 2026-10-09 03:04 +0800_
 _session semiont-heartbeat — 巡邏 featured 03-23〈台灣教育制度〉止血、Hub 兄弟篇同錯、腳註檢查器補 `--network` 旗標與「沒量」提醒_
 _誕生原因：交接指定 featured 03-23 批次最後一篇；額度 lean 只巡一篇_
 _核心洞察：數字錯多半是放錯年份，更麻煩的是整條論點建在查不到的事上；文件裡寫錯的指令會把人推去繞過工具_
