@@ -242,19 +242,40 @@ export function createTaiwanmdMcpServer() {
       // the model. An answer about Taiwan is only as current as the copy it
       // came from, so the copy's age travels with it.
       const ageDays = getDataAgeDays();
+      // An empty knowledge base needs its own symbol, not the healthy one
+      // (issue #1790, REFLEXES #85). `getDataAgeDays()` returns null both when
+      // we're in-repo (git manages freshness, genuinely fine) and when the age
+      // simply can't be read — and both used to print `live-repo`, the value
+      // that means "as current as it gets". So an install whose clone had been
+      // interrupted reported `totalArticles: 0` next to `dataFreshness:
+      // "live-repo"`, and nothing in the payload said the shelf was bare. A
+      // model reading that cannot tell "Taiwan.md has nothing on this" from
+      // "this copy has nothing at all".
+      const isEmpty = files.length === 0;
       const data = {
         totalArticles: files.length,
         byCategory,
         knowledgePath: files[0] ? path.dirname(path.dirname(files[0])) : null,
         dataAgeDays: ageDays,
-        dataFreshness:
-          ageDays === null
+        dataFreshness: isEmpty
+          ? 'empty'
+          : ageDays === null
             ? 'live-repo'
             : ageDays >= 60
               ? 'stale'
               : ageDays >= 14
                 ? 'aging'
                 : 'fresh',
+        ...(isEmpty
+          ? {
+              emptyWarning:
+                'No articles were found, so every lookup will come back empty. ' +
+                'This is a broken install, not a Taiwan.md with nothing in it — ' +
+                'most often an interrupted `git clone` that left only ' +
+                '~/.taiwanmd/knowledge/.git behind. Run `taiwanmd sync --force` ' +
+                'to repopulate, and do not read these counts as facts about Taiwan.',
+            }
+          : {}),
         ...(ageDays !== null && ageDays >= 14
           ? {
               staleWarning: `This knowledge base snapshot is ${ageDays} days old. Run \`taiwanmd sync\` for current data; treat counts and recent-events answers as dated.`,

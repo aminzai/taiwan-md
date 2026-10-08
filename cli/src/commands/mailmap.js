@@ -37,7 +37,17 @@ function isInRepo() {
 }
 
 function git(args) {
-  return execSync(`git ${args}`, { cwd: REPO_ROOT, encoding: 'utf8' });
+  // maxBuffer 不可省：`collectIdentities()` 跑的是 `git log --all`，輸出量跟
+  // 倉庫歷史一起長。execSync 預設上限是 1 MB，2026-10-08 這支的測試開始回
+  // `spawnSync /bin/sh ENOBUFS` — 不是壞在邏輯，是壞在容量設定被它要讀的
+  // 東西長過去（跟 REFLEXES #41「CI timeout 是會跟內容量長大失效的 capacity
+  // 設定」同一族，載體換成 buffer 大小）。ENOBUFS 的壞法很差：它在 git 真的
+  // 跑完之後才炸，所以讀起來像 git 出錯，不像「我的桶子太小」。
+  return execSync(`git ${args}`, {
+    cwd: REPO_ROOT,
+    encoding: 'utf8',
+    maxBuffer: 256 * 1024 * 1024,
+  });
 }
 
 function prompt(rl, question) {

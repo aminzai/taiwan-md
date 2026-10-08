@@ -42,27 +42,67 @@ function isInRepo() {
 }
 
 /**
+ * Does this directory actually hold articles?
+ *
+ * The question has to be "can a reader get an article out of here", not "is
+ * there anything here at all". Until 2026-10-08 this asked the second one —
+ * "at least one subdirectory" — and `.git` is a subdirectory. An interrupted
+ * `git clone --sparse` (Ctrl-C, dropped network, full disk) leaves
+ * `~/.taiwanmd/knowledge/.git` and nothing else, so the check passed, the
+ * follow-up sync was skipped, and the MCP server went on printing
+ * `MCP server ready on stdio` while every lookup returned nothing (issue
+ * #1790). The failure was silent in both directions that matter: `stats` gave
+ * `totalArticles: 0` with `dataFreshness: "live-repo"` — the *healthy* value —
+ * and `knowledgePath: null` with no warning attached to it.
+ *
+ * So the check now mirrors what `getKnowledgePath()` in knowledge.js resolves
+ * to, and then asks that path for a category directory with a `.md` file in
+ * it. Dot-directories are excluded by name: `.git` and `.github` are never
+ * category folders, and a clone that only got as far as its own metadata is
+ * exactly the state this is meant to catch.
+ *
+ * Shallow and short-circuiting on purpose — this runs before every data
+ * command, so it stops at the first article it finds rather than walking the
+ * tree.
+ *
+ * @param {string} dir - The standalone knowledge directory (clone root).
+ * @returns {boolean}
+ */
+export function isPopulatedKnowledgeDir(dir) {
+  if (!dir) return false;
+  // `sync` clones the repo *into* this directory, so articles sit one level
+  // deeper; fall back to the clone root for a flat layout (same two-step as
+  // getKnowledgePath()).
+  const candidates = [path.join(dir, 'knowledge'), dir];
+  for (const root of candidates) {
+    let entries;
+    try {
+      entries = fs.readdirSync(root, { withFileTypes: true });
+    } catch {
+      continue;
+    }
+    for (const entry of entries) {
+      if (entry.name.startsWith('.')) continue;
+      if (!entry.isDirectory()) continue;
+      let inner;
+      try {
+        inner = fs.readdirSync(path.join(root, entry.name));
+      } catch {
+        continue;
+      }
+      if (inner.some((f) => f.endsWith('.md'))) return true;
+    }
+  }
+  return false;
+}
+
+/**
  * Returns true if the standalone knowledge base has been populated.
  */
 function hasLocalData() {
   if (isInRepo()) return true;
-
   if (!fs.existsSync(STANDALONE_KNOWLEDGE_DIR)) return false;
-  try {
-    const entries = fs.readdirSync(STANDALONE_KNOWLEDGE_DIR);
-    // Must have at least one subdirectory (a category folder)
-    return entries.some((e) => {
-      try {
-        return fs
-          .statSync(path.join(STANDALONE_KNOWLEDGE_DIR, e))
-          .isDirectory();
-      } catch {
-        return false;
-      }
-    });
-  } catch {
-    return false;
-  }
+  return isPopulatedKnowledgeDir(STANDALONE_KNOWLEDGE_DIR);
 }
 
 let _synced = false; // avoid running sync more than once per process
