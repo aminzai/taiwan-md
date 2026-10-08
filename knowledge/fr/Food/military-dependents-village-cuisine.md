@@ -19,10 +19,10 @@ lastHumanReview: false
 readingTime: 8
 imageNote: '原圖僅 GFDL 授權（非 CC BY／CC BY-SA／CC0／公有領域），未收進庫，待另覓授權明確圖源'
 translatedFrom: 'Food/台灣眷村菜.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:065bf6354c8e6e97'
-sourceBodyHash: 'sha256:c6f4891abde841e9'
-translatedAt: '2026-09-09T15:32:30+08:00'
+sourceCommitSha: 'ef80aeea4'
+sourceContentHash: 'sha256:467908b1a60dd52d'
+sourceBodyHash: 'sha256:833d2eafe654813e'
+translatedAt: '2026-10-08T14:07:28.365582+00:00'
 ---
 
 # La cuisine des villages militaires à Taïwan
@@ -73,13 +73,13 @@ La franchise de la cuisine du Shandong rencontre la finesse de la cuisine du Jia
 
 La légèreté de la cuisine du Guangdong et la lourdeur des cuisines du Nord trouvent également un point d'équilibre dans les villages militaires. De nombreux plats des villages militaires présentent des caractéristiques de fusion nord-sud, préservant à la fois les saveurs d'origine et s'adaptant au climat et aux ingrédients de Taïwan.
 
-## Démantèlement des villages militaires, préservation et parcs des villages militaires
+## Démolition, conservation et parc des villages militaires
 
-En 1996, la « Loi sur la reconstruction des anciens villages militaires de l'Armée nationale » a été adoptée, les terres des villages militaires étant progressivement transformées en zones de remembrement ou en terrains pour logements sociaux, faisant disparaître accélérément les bâtiments physiques des anciens villages militaires. [^4] Cependant, certains villages militaires sont restés debout en raison des appels à la préservation culturelle.
+En 1996, la _Loi sur la rénovation des anciens villages militaires de l'Armée nationale_ a été adoptée, et les terrains des villages militaires ont progressivement été convertis en zones de réaménagement ou en terrains destinés aux logements publics. Les bâtiments physiques des anciens villages ont ainsi disparu rapidement.[^4] Cependant, certains villages ont été conservés en raison des appels à la préservation culturelle.
 
-Le village militaire S Sì Nan à Xinyi, à Taipei, est le cas de préservation de village militaire le plus connu à Taïwan. Le groupe architectural original a été transformé en Musée de la culture des villages militaires en 2003, devenant un espace d'installation pour des marques culinaires comme « Good Cho's », permettant à la cuisine des villages militaires d'être présentée à nouveau dans un nouveau contexte. Taoyuan, ayant le plus grand nombre de villages militaires dans tout le pays, dispose d'un Musée de la culture des villages militaires et d'un Festival annuel de la culture des villages militaires, formant un point de repère touristique culturel centré sur l'alimentation. [^5] Près des anciens murs de la ville de l'époque Qing à Zuoying, à Kaohsiung, plusieurs villages militaires sous gestion administrative sont également préservés.
+Le village de Shihshihnan à Xinyi, à Taipei, est l'exemple le plus connu de conservation d'un village militaire. L'ancien groupe de bâtiments a été transformé en _musée de la culture des villages militaires_ en 2003, devenant le lieu d'accueil de marques alimentaires telles que « Good Cho's », présentant ainsi la cuisine des villages militaires dans un nouveau contexte. Taoyuan est l'une des villes où les villages militaires sont les plus nombreux : un rapport de 2018 mentionnait que sur les 888 villages militaires recensés à travers toute l'île, 86 se trouvaient à Taoyuan. Le festival culturel des villages militaires organisé par la municipalité avait d'ailleurs sa scène principale en 2018, avec un concours de cuisine. [^5] Près de l'ancienne cité de la dynastie Qing à Zuoying à Kaohsiung, plusieurs villages militaires classés subsistent également.
 
-Ces espaces de villages militaires préservés offrent des repères physiques pour la transmission de la cuisine des villages militaires, permettant à la génération suivante de voir la forme concrète de cette histoire migratoire au-delà du goût.
+Ces espaces conservés ont non seulement donné un repère physique au maintien de la cuisine des villages militaires, mais ont également permis aux générations suivantes de voir concrètement la forme de cette histoire migratrice, au-delà du simple goût.
 
 ## Perspective bidirectionnelle : Le point de vue autochtone et l'identité de la deuxième génération des villages militaires
 
@@ -101,19 +101,19 @@ La nouvelle génération de chefs commence à réinterpréter la cuisine des vil
 
 ## Références
 
-[^1]: [Centre de préservation de la culture des villages militaires du ministère de la Défense](https://mvac.mnd.gov.tw/) — Contexte historique des villages militaires et données démographiques sur les migrants.
+[^1]: [Centre de conservation culturelle des villages militaires du ministère de la Défense](https://mvac.mnd.gov.tw/) — Contexte historique des villages militaires et données démographiques des immigrants.
 
-[^2]: [Document des Archives nationales de Taïwan « L'évolution et la préservation de la culture culinaire des villages militaires »](https://www.th.gov.tw/epaper/view2.php?Period=168&TBID=3) — Volume 71, numéro 4 (2020) sur les échanges culinaires entre autochtones et provinces du Nord.
+[^2]: [Revue taiwanaise <Évolution et conservation de la culture alimentaire des villages militaires>](https://www.th.gov.tw/epaper/view2.php?Period=168&TBID=3) — Vol. 71, n° 4 (2020) : échanges culinaires entre la population locale et les immigrants.
 
-[^3]: [Jiao Tong _Le goût de Taïwan_ — Éditions Er Yu](https://www.taaze.tw/usedBook.html?oid=11100873870) — Confirmation de l'origine des villages militaires de la bouillie de nouilles au bœuf et du processus de localisation de la cuisine du Sichuan.
+[^3]: [Chiao Tung, <Saveurs de Taïwan> — Culture des deux poissons](https://www.taaze.tw/usedBook.html?oid=11100873870) — Confirmation de l'origine du nouilles à la bœuf dans les villages militaires et du processus d'indigénisation du piquant.
 
-[^4]: [Base de données des lois nationales : Loi sur la reconstruction des anciens villages militaires de l'Armée nationale](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0000002) — Confirmation de l'adoption en 1996, du remembrement des terres et de la chronologie de la reconstruction.
+[^4]: [Base de données nationale des lois : Décret sur la rénovation des anciens villages militaires de l'armée nationale](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0000002) — Adopté en 1996, chronologie des réaménagements fonciers et des travaux de rénovation.
 
-[^5]: [Musée de la culture des villages militaires de Taoyuan](https://www.taoyuan.gov.tw/) — Espaces de préservation des villages militaires à Taoyuan et informations sur le festival annuel de la culture des villages militaires.
+[^5]: [Newtalk: Découverte de la fête culturelle des villages militaires de Taoyuan ! Écoutez les récits des mamans des villages militaires](https://newtalk.tw/news/view/2018-10-04/148037) — 2018-10-04, sur les 888 villages militaires dans toute l'île, 86 se trouvent à Taoyuan ; la fête principale comprend des animations de rue et des concours de cuisine.
 
-[^6]: [Liberty Times : C'est donc la « sauce » ! La saveur de la sauce de haricots de Gangshan a une raison](https://news.ltn.com.tw/news/life/breakingnews/2269537) — Le contexte complet de Liu Mingde arrivant à Taïwan en 1948, prenant sa retraite en 1950 et fabriquant la sauce de haricots Míngde dans le village militaire de Gangshan.
+[^6]: [Liberté quotidienne : Il s'agit bien de la <sauce> ! La sauce aux haricots de piquant de Gangshan a ses raisons](https://news.ltn.com.tw/news/life/breakingnews/2269537) — Trajectoire complète de Liu Mingde, arrivé en 1948, démobilisé en 1950, puis fabricant de la sauce aux haricots de piquant Mingde dans le village militaire de Gangshan.
 
-[^7]: [Bouillie de nouilles au bœuf — Wikipédia](https://zh.wikipedia.org/zh-hant/%E5%8F%B0%E7%81%A3%E7%89%9B%E8%82%89%E9%BA%B5) — Origine de la bouillie de nouilles au bœuf taïwanaise dans le village militaire de l'Armée de l'air de Gangshan à Kaohsiung, premier enregistrement attesté de la boutique de bouillie de nouilles au porc et au bœuf du Parc en 1962.
+[^7]: [Nouilles à la bœuf — Wikipédia](https://zh.wikipedia.org/zh-hant/%E5%8F%B0%E7%81%A3%E7%89%9B%E8%82%89%E9%BA%B5) — Origine des nouilles à la bœuf à Taïwan dans le village militaire aérien de Gangshan à Kaohsiung, première trace documentée en 1962 au Parc des Pieds de Porc.
 
 ## Lectures complémentaires
 
