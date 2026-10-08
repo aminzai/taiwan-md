@@ -19,10 +19,10 @@ lastHumanReview: false
 readingTime: 8
 imageNote: '原圖僅 GFDL 授權（非 CC BY／CC BY-SA／CC0／公有領域），未收進庫，待另覓授權明確圖源'
 translatedFrom: 'Food/台灣眷村菜.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:065bf6354c8e6e97'
-sourceBodyHash: 'sha256:c6f4891abde841e9'
-translatedAt: '2026-09-08T00:42:45+08:00'
+sourceCommitSha: 'ef80aeea4'
+sourceContentHash: 'sha256:467908b1a60dd52d'
+sourceBodyHash: 'sha256:833d2eafe654813e'
+translatedAt: '2026-10-08T14:09:29.755577+00:00'
 ---
 
 # Taiwanese Military Dependent Village Cuisine
@@ -73,13 +73,13 @@ The generous style of Shandong cuisine met the delicate craftsmanship of Jiangsu
 
 The lightness of Cantonese cuisine and the richness of northern Chinese cuisine also found a balance point in the military dependent villages. Many military dependent village dishes showed characteristics of northern and southern fusion, retaining the flavors of their places of origin while adapting to Taiwan's climate and ingredients.
 
-## Military Dependent Village Demolition, Preservation, and Parks
+## Military Dependent Village Demolition, Preservation, and Villages Parks
 
-In 1996, the "Regulations on Reconstruction of Aging Military Dependent Villages" was passed, and the land of the military dependent villages was gradually converted into redevelopment zones or state-owned land. The physical structures of the old military dependent villages accelerated their disappearance. However, some military dependent villages were preserved due to calls for cultural conservation.
+In 1996, the 《Military Dependent Village Renovation Act》 was passed, leading to the gradual conversion of military dependent village land into redeveloped areas or public housing sites, accelerating the disappearance of the original physical structures of these old villages.[^4] However, some military dependent villages remained due to calls for cultural preservation.
 
-The Shihlin Fourth Village in Xinyi District, Taipei, is the most famous case of military dependent village preservation in Taiwan. The original architectural complex was transformed into a military dependent village cultural museum in 2003, becoming the venue for food brands such as "Good Cho's," allowing military dependent village cuisine to be re-presented in a new context. Taoyuan has the most military dependent villages in Taiwan, with a military dependent village cultural museum and an annual military dependent village cultural festival, forming a cultural tourism node centered on food. Near the old city wall of Qingdao in Zuoying, Kaohsiung, there are also multiple preserved military dependent villages.
+Sisinan Village in Xinyi District, Taipei, is one of Taiwan's most well-known examples of preserved military dependent villages. The original complex was transformed into a military dependent village culture museum in 2003 and has become a venue for food brands such as "Good Cho's," allowing the cuisine of these villages to be re-presented within a new context. Taoyuan is a county with a high concentration of military dependent villages; a 2018 report noted that out of 888 military dependent villages across Taiwan, Taoyuan had 86. The municipal government hosted a Military Dependent Village Culture Festival in 2018, which featured food competitions at its main venue.[^5] Several registered military dependent villages are also preserved near the Qing Dynasty old city walls in Zuoying, Kaohsiung.
 
-These preserved military dependent village spaces provided physical landmarks for the inheritance of military dependent village cuisine, allowing the next generation to see the concrete shape of this immigration history beyond taste.
+These retained spaces of military dependent villages have provided tangible landmarks for the inheritance of this cuisine and allow subsequent generations to see the concrete form of this immigrant history beyond just taste.
 
 ## Two Perspectives: Native Taiwanese Viewpoints and Identity Changes of the Second Generation
 
@@ -101,19 +101,19 @@ A new generation of chefs has begun to reinterpret military dependent village cu
 
 ## References
 
-[^1]: [Ministry of National Defense Military Dependent Village Cultural Preservation Center](https://mvac.mnd.gov.tw/) — Background on military dependent village history and immigrant population statistics.
+[^1]: [Ministry of National Defense Village Culture Preservation Center](https://mvac.mnd.gov.tw/) — Historical background of military villages and immigrant population data.
 
-[^2]: [Taiwan Literature "Changes and Preservation of Military Dependent Village Food Culture"](https://www.th.gov.tw/epaper/view2.php?Period=168&TBID=3) — Volume 71, Issue 4 (2020) on native Taiwanese and mainlander food exchanges.
+[^2]: [Taiwanese Literature: Changes and Preservation of Military Village Food Culture](https://www.th.gov.tw/epaper/view2.php?Period=168&TBID=3) — Volume 71, Issue 4 (2020): Inter-regional food exchange between the mainland and Taiwan.
 
-[^3]: [Jiao Tong _Taiwan Flavors_ — Er Yu Culture](https://www.taaze.tw/usedBook.html?oid=11100873870) — Confirming the origin of beef noodle soup in military dependent villages and the localization process of Sichuan cuisine.
+[^3]: [Jiao Tong's 'Tastes of Taiwan' - Yi Yu Culture](https://www.taaze.tw/usedBook.html?oid=11100873870) — Confirmation of the origins of beef noodles in military villages and the localization process of Sichuan cuisine.
 
-[^4]: [National Regulations Database: Regulations on Reconstruction of Aging Military Dependent Villages](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0000002) — Confirming the 1996 passage and the timeline of land redevelopment and reconstruction.
+[^4]: [National Regulations Database: Military Old Village Reconstruction Ordinance](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0000002) — Confirms passage in 1996, land readjustment, and reconstruction timeline.
 
-[^5]: [Taoyuan Military Dependent Village Cultural Museum](https://www.taoyuan.gov.tw/) — Information on Taoyuan's military dependent village preservation spaces and annual military dependent village cultural festivals.
+[^5]: [New Headline: Visiting Taoyuan Military Village Culture Festival! Listening to Mothers from Military Villages Talk About the Past](https://newtalk.tw/news/view/2018-10-04/148037) — October 4, 2018. Out of 888 military villages across Taiwan, there are 86 in Taoyuan; the main venue for the culture festival featured street parades and food competitions.
 
-[^6]: [Liberty Times: Originally It's the "Sauce"! The Delicious Reason Behind Gangshan Doubanjiang](https://news.ltn.com.tw/news/life/breakingnews/2269537) — The complete context of Liu Mingde coming to Taiwan in 1948, retiring in 1950, and making Mingde Doubanjiang in the Gangshan military dependent village.
+[^6]: [Liberty Times: It's All About 'Sauce'! The Reason Behind Okayama Doubanjiang Deliciousness](https://news.ltn.com.tw/news/life/breakingnews/2269537) — The complete context of Liu Mingde making Mingde doubanjiang in an Okayama military village after arriving in Taiwan in 1948 and retiring in 1950.
 
-[^7]: [Beef Noodle Soup — Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%8F%B0%E7%81%A3%E7%89%9B%E8%82%89%E9%BA%B5) — Taiwan's beef noodle soup originated in the Gangshan Air Force Military Dependent Village, with the 1962 Park Pig's Feet Noodles Beef Noodle Soup being the earliest confirmed store record.
+[^7]: [Beef Noodles - Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%8F%B0%E7%81%A3%E7%89%9B%E8%82%89%E9%BA%B5) — Taiwanese beef noodles originated from the Air Force military villages in Okayama, Kaohsiung; records of the first shop serving park trotters/beef noodles date back to 1962.
 
 ## Further Reading
 
