@@ -19,10 +19,10 @@ lastHumanReview: false
 readingTime: 8
 imageNote: '原圖僅 GFDL 授權（非 CC BY／CC BY-SA／CC0／公有領域），未收進庫，待另覓授權明確圖源'
 translatedFrom: 'Food/台灣眷村菜.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:065bf6354c8e6e97'
-sourceBodyHash: 'sha256:c6f4891abde841e9'
-translatedAt: '2026-09-08T15:54:46+08:00'
+sourceCommitSha: 'ef80aeea4'
+sourceContentHash: 'sha256:467908b1a60dd52d'
+sourceBodyHash: 'sha256:833d2eafe654813e'
+translatedAt: '2026-10-08T14:08:58.981407+00:00'
 ---
 
 # Masakan Kampung Militer Taiwan
@@ -73,13 +73,13 @@ Kekuatan masakan Shandong bertemu dengan kehalusan masakan Jiangzhe, menghasilka
 
 Kesederhanaan masakan Kanton bertemu dengan kekayaan masakan Utara, juga menemukan titik keseimbangan di kampung militer. Banyak masakan kampung militer menunjukkan karakteristik fusi utara-selatan, mempertahankan rasa asli sambil beradaptasi dengan iklim dan bahan-bahan Taiwan.
 
-## Pemindahan Kampung Militer, Pelestarian, dan Kompleks Kampung Militer
+## Pembongkaran, Pelestarian, dan Komplek Kampung Militer
 
-Pada tahun 1996, _Peraturan Pembangunan Kembali Kampung Militer Lama_ disahkan, dan lahan kampung militer secara bertahap diubah menjadi zona rekayasa atau tanah perumahan negara, menyebabkan bangunan fisik kampung militer lama menghilang dengan cepat.[^4] Namun, beberapa kampung militer tetap bertahan karena seruan pelestarian budaya.
+Pada tahun 1996, _Undang-Undang tentang Pembaruan Kampung Militer Lama_ disahkan, dan lahan kampung militer pun bertahap ditransformasikan menjadi zona relokasi atau lahan rumah negara. Bangunan fisik kampung militer yang tua pun mengalami penghilangan yang cepat.[^4] Namun, sejumlah kampung militer tetap bertahan seiring dengan seruannya gerakan pelestarian budaya.
 
-Si Nan Village di Distrik Xinyi, Taipei, adalah contoh paling terkenal dari pelestarian kampung militer Taiwan. Kompleks bangunan asli bertransformasi menjadi museum budaya kampung militer pada tahun 2003, dan menjadi tempat kedatangan merek kuliner seperti "Good Cho's," yang menampilkan masakan kampung militer dalam konteks baru. Taoyuan memiliki jumlah kampung militer terbanyak di seluruh Taiwan, sehingga mendirikan museum budaya kampung militer dan festival budaya kampung militer tahunan, membentuk titik wisata budaya dengan fokus pada makanan.[^5] Di dekat tembok kota kuno di Zuoying, Kaohsiung, juga terdapat beberapa kampung militer yang terdaftar.
+Empat Empat Selatan di distrik Xinyi, Taipei, merupakan salah satu kasus paling terkenal dalam upaya pelestarian kampung militer di Taiwan. Bangunan aslinya pada tahun 2003 diubah menjadi _Museum Budaya Kampung Militer_, yang kemudian menjadi saksi bisnis makanan minuman seperti "Good Cho's", sehingga kuliner kampung militer dapat ditampilkan kembali dalam konteks baru. Taoyuan merupakan kota dengan kepadatan kampung militer yang cukup tinggi; laporan tahun 2018 mencatat bahwa dari total 888 kampung militer di seluruh Taiwan, 86 berada di Taoyuan. Festival budaya kampung militer yang diselenggarakan oleh pemerintah kota itu, pada edisinya tahun 2018, bahkan mengadakan kompetisi kuliner sebagai acara utama.[^5] Di sekitar _kota lama Dinasti Qing_ di Zuoying, Kaohsiung, juga masih tersisa beberapa kampung militer yang terdaftar.
 
-Ruang kampung militer yang tersisa ini memberikan penanda fisik bagi transmisi masakan kampung militer, dan memungkinkan generasi berikutnya untuk melihat bentuk konkret dari sejarah imigrasi ini selain hanya melalui rasa.
+Ruang kampung militer yang berhasil dilestarikan ini bukan hanya menjadi penanda geografis nyata bagi generasi penjagaan kuliner kampung militer, tetapi juga memungkinkan generasi muda untuk melihat bentuk konkret dari sejarah migrasi ini di luar sekadar rasa di lidah.
 
 ## Perspektif Dua Arah: Pandangan Penduduk Asli dan Pengakuan Generasi Kedua Kampung Militer
 
@@ -101,19 +101,19 @@ Koki generasi baru mulai menafsirkan kembali masakan kampung militer, mempertaha
 
 ## Referensi
 
-[^1]: [Pusat Pelestarian Budaya Kampung Militer Pertahanan Nasional](https://mvac.mnd.gov.tw/) — Latar belakang sejarah kampung militer dan data populasi migran.
+[^1]: [Pusat Pelestarian Budaya Kampung Militeran Departemen Pertahanan](https://mvac.mnd.gov.tw/) — Latar belakang sejarah kampung militeran dan data kependuduk imigran.
 
-[^2]: [Jurnal Taiwan tentang Perubahan dan Pelestarian Budaya Kuliner Kampung Militer](https://www.th.gov.tw/epaper/view2.php?Period=168&TBID=3) — Volume 71, Edisi 4 (2020), Pertukaran Makanan Penduduk Asli dan Pendatang Luar Provinsi.
+[^2]: [Karya Tulis Taiwan <Perubahan dan Pelestarian Budaya Kuliner Kampung Militeran>](https://www.th.gov.tw/epaper/view2.php?Period=168&TBID=3) — Vol. 71 No. 4 (2020) pertukaran kuliner antara penduduk asli dan pendatang di pulau.
 
-[^3]: [焦桐《台灣味道》— Er Yu Culture](https://www.taaze.tw/usedBook.html?oid=11100873870) — Konfirmasi asal usul masakan daging sapi kampung militer dan proses lokalisasi masakan Sichuan.
+[^3]: [Jiao Tong <Rasa Taiwan> — Budaya Dua Ikan](https://www.taaze.tw/usedBook.html?oid=11100873870) — Mengonfirmasi asal-usul mie daging sapi dari kampung militeran dan proses lokalisasi masakan Sichuan.
 
-[^4]: [Basis Data Hukum Nasional: Peraturan Pembangunan Kembali Kampung Militer Lama](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0000002) — Mengonfirmasi pengesahan tahun 1996, urutan rekayasa lahan dan pembangunan kembali.
+[^4]: [Basis Data Peraturan Nasional: Undang-Undang Kampung Militeran Lama dan Berusaha Militer Nasional](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0000002) — Dikonfirmasi disetujui pada 1996, urutan penyusunan kembali lahan dan pembangunan.
 
-[^5]: [Museum Budaya Kampung Militer Taoyuan](https://www.taoyuan.gov.tw/) — Informasi tentang ruang pelestarian kampung militer di Taoyuan dan Festival Budaya Kampung Militer tahunan.
+[^5]: [New Headline: Mengunjungi Festival Budaya Kampung Militeran di Taoyuan! Mendengarkan Cerita Ibuk-ibu dari Kampung Militeran](https://newtalk.tw/news/view/2018-10-04/148037) — 2018-10-04, dari 888 kampung militeran di seluruh pulau, Taoyuan memiliki 86, acara utama festival budaya kampung militeran termasuk penourutan dan kompetisi kuliner.
 
-[^6]: [Liberty Times: Ternyata "Saus"! Ada Alasan di Balik Kelezatan Saus Douban Okayama](https://news.ltn.com.tw/news/life/breakingnews/2269537) — Konteks lengkap pembuatan Saus Douban Mingde oleh Liu Mingde setelah datang ke Taiwan pada tahun 1948 dan pensiun pada tahun 1950 di kampung militer Okayama.
+[^6]: [Liberty Times: Ternyata 'Kecap'! Selera Doboludong di Gangshan Ada Alasannya](https://news.ltn.com.tw/news/life/breakingnews/2269537) — Riwayat lengkap Liu Mingde yang tiba di Taiwan pada 1948, pensiun pada 1950, kemudian membuat dobroludong Mingde di kampung militeran Gangshan.
 
-[^7]: [Masakan Daging Sapi - Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%8F%B0%E7%81%A3%E7%89%9B%E8%82%89%E9%BA%B5) — Catatan tentang asal usul _beef-noodle-soup_ di kampung militer Angkatan Udara Okayama, Kaohsiung, dan restoran Parkwon pada tahun 1962.
+[^7]: [Mie Daging — Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%8F%B0%E7%81%A3%E7%89%9B%E8%82%89%E9%BA%B5) — Asal-usul mie daging sapi di Taiwan berasal dari kampung militeran udara di Gangshan, Kaohsiung, catatan pertama toko mie daging sapi yang dapat dilacak pada tahun 1962 di taman kota.
 
 ## Bacaan Lanjutan
 
