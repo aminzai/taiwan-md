@@ -699,6 +699,35 @@ BECOME_TAIWANMD.md Step 5 新增：
   - featured、譯本 12 語
 - **Reference**: [reports/research/2026-10/台灣米其林與精緻餐飲.md](../../reports/research/2026-10/台灣米其林與精緻餐飲.md)
 
+### 台灣教育制度 EVOLVE — 巡邏 59 原子 14 錯，「2022 重考潮」與「PISA 不快樂」兩條主線都查不到出處，數字多半放錯年份
+
+- **Type**: `EVOLVE`
+- **Category**: Lifestyle
+- **Path**: knowledge/Lifestyle/台灣教育制度.md
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-10-09 by semiont-heartbeat（FACTCHECK 月度巡邏母體，featured 03-23 批次最後一篇）
+- **Notes**:
+  - **查核已跑完**（`reports/research/2026-10/台灣教育制度.md`）：59 原子 ✅ 18／⚠️ 13／❌ 14／🔴 10／💬 4（❌ 25.5%）。已止血（`bf3cbdbc1`）：description、概覽、開場改成「重考班 48 家剩 3 家、新課綱後文理補習班多 960 家」；PISA 閱讀第 5、補 2025 年一句、弱勢學生改教育部說法＋OECD 119 vs 93 分、「優異但不快樂」改 OECD 2022 的歸屬感與生活不滿意比例；技職 46.4%；技能競賽分開 2022 特別賽與 2024 里昂；教檢分母寫明到考 9,620；實驗教育 132 所、11,360 人；刪 1,700 億／半個台積電、名師品牌框、兩則無名氏引語、師培 46 所／1 萬／30%；參考資料改 11 條腳註。兄弟篇〈Lifestyle Hub〉同一個 1,700 億另修（`97a315089`）
+  - **重寫要處理的**：止血只換了骨架，敘事還是舊稿的面向巡禮（補習、PISA、技職、師培、家長、數位、實驗教育、終身學習八節平鋪）。止血後浮出來的論點比原稿有意思：重考班退場、補習沒退，補習班從「教考試」變成「一條龍、國中高中安親化」（張浩然 2024）。PISA 2025 已公布（數學 546、閱讀 508、科學 540），台灣分數穩、但社經前後 25% 差距大於 OECD 平均，學習動機低於 OECD 平均，可以撐起「名列前茅但落差大」這一節。文末「家長參與」「數位教育」「終身學習」三節幾乎零出處。12 年國教、會考、學習歷程這些讀者最常搜的詞，全文沒有正面寫到
+  - 島嶼代稱用了四次（標題「島嶼實驗」等），重寫時照 MANIFESTO §自稱 判準過一次
+  - featured、譯本 12 語
+- **Reference**: [reports/research/2026-10/台灣教育制度.md](../../reports/research/2026-10/台灣教育制度.md)
+
+### PISA 2025 公布後的五篇教育文 EVOLVE — 站上仍把 PISA 2022 當最新一輪
+
+- **Type**: `EVOLVE`
+- **Category**: Society／People
+- **Path**: knowledge/People/呂冠緯.md、knowledge/Society/台灣偏鄉教育.md、knowledge/Society/學習貧窮.md、knowledge/Society/教育制度與升學文化.md、knowledge/Society/為台灣而教TFT.md
+- **Priority**: `P2`
+- **Status**: `pending`
+- **Requested**: 2026-10-09 by semiont-heartbeat（巡邏〈台灣教育制度〉時撞見）
+- **Notes**:
+  - OECD Education GPS 的台灣檔案已換成 PISA 2025：數學 546、閱讀 508、科學 540，跟 2022 相比都沒有統計上顯著的變化；社經前後四分之一的科學差距 91 分（OECD 84）；喜歡在學校學新東西 58.6%（OECD 68.8%）；學校歸屬感 85%（OECD 76.2%）。名次本班沒查到，要找 OECD Volume I 或教育部／臺師大的發布稿
+  - 五篇各自只需要補一兩句「2025 年那一輪」，不需要整篇重寫；〈教育制度與升學文化〉是 03-18 featured 未審初稿，跟〈台灣教育制度〉同主題，排在巡邏母體裡，先巡再補比較省
+  - 時效：PISA 下一輪是 2029，這條不會過期，但越晚補，「最新一輪」的說法錯得越久
+- **Reference**: [OECD Education GPS — Chinese Taipei](https://gpseducation.oecd.org/CountryProfile?primaryCountry=TWN&treshold=10&topic=PI)
+
 ### 台灣官方網站資源 EVOLVE — 巡邏 44 原子 15 錯，年表數字對但年份與角色擺錯位置，同一個主題站上有三篇
 
 - **Type**: `EVOLVE`
