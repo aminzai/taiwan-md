@@ -332,6 +332,16 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-10-09 twmd-data-refresh-am — count-capped-sample-shrinks-when-the-filtered-out-class-grows：先抓固定 N 筆再濾掉一類，被濾掉的那類一變多，樣本涵蓋的時間就默默縮短
+
+- **pattern**: count-capped-sample-shrinks-when-the-filtered-out-class-grows
+- **原則**：「最近 N 筆」先取再過濾，樣本實際涵蓋多久取決於被濾掉的那類占多少；標籤寫的是時間窗（7d avg），樣本靠的是筆數上限，兩者在外部節奏改變時會脫鉤，而且不會叫。
+- **觸發**：2026-10-09 06:07 Step 10 印「7d avg 1969s（coverage 0.8d）」，前一天是 6.1d。`extract-build-perf.mjs` 查 `status=completed` 最近 30 筆再濾 success；babel 十二語歸零那兩天推送密集，每次推送取消前一個 deploy，30 筆裡 24 筆 cancelled，剩 6 筆成功。改查 `status=success` 後 30 筆涵蓋 7.5 天（`424428839`）。coverage 欄位一直誠實印著，只是沒有門檻，0.8 天跟 6.1 天看起來一樣是綠的。
+- **instances**：
+- **可能層級**：通用反射（取樣層的混維度）
+- **相關**：REFLEXES #38 (h)「聚合單位 ≠ 決策單位」最近，差異在這裡是取樣單位（筆數）≠ 標籤單位（天數），且由外部節奏驅動漂移；同一支工具 2026-06-10 audit #6 修過「slice 前 N 個 run 叫 30d avg」，那次把聚合改成時間窗，取樣仍是筆數上限，留下這次的縫。候選機械化：coverage_days 低於標籤窗一半時 Step 11 標 stale-sample。
+- **verification_count**: 1
+
 ### 2026-10-08 twmd-maintainer-daily — every-mechanical-gate-green-while-the-ruling-lived-in-the-comment-thread：十條紅旗、ratio、對賬、passthrough 全過，而「這篇不該由你合併」寫在留言串裡
 
 - **pattern**: every-mechanical-gate-green-while-the-ruling-lived-in-the-comment-thread

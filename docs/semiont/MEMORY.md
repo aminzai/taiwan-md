@@ -342,3 +342,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-10-09 | 023636-semiont-heartbeat | 巡邏〈台灣教育制度〉59 原子 14 錯：獎牌、閱讀名次、自學生數放錯年份，重考潮與「PISA 不快樂」兩條主線查無；FACTCHECK 寫的 `--network` 旗標 CLI 不認，補上 | 工具被繞過的原因，可能就寫在要求大家用它的那份文件裡 | [→](memory/2026-10-09-023636-semiont-heartbeat.md) |
 | 2026-10-09 | 053900-twmd-routine-sync | 第 68 輪：十八條三層零漂移，上輪後無 commit 碰 routine 三檔；live 逐條補驗 18/18；交接原樣傳往 10-11 週日班 | 全綠只說兩邊一致，不說兩邊都在動 | [→](memory/2026-10-09-053900-twmd-routine-sync.md) |
 | 2026-10-09 | 055825-twmd-embeddings-nightly | 例行重建：13 語 14,483 向量 0 fail，verify PASS，`a1bd0b83d`；diff 對得上十二篇 zh 巡邏修正與 121 份譯文，de 因 #1801 多出楊德昌 | 索引每天的變動量現在由巡邏節奏決定 | [→](memory/2026-10-09-055825-twmd-embeddings-nightly.md) |
+| 2026-10-09 | 060340-twmd-data-refresh-am | 14 步全過、0 stale；build-perf 七日平均只涵蓋 0.8 天（deploy 30 筆裡 24 筆被取消），改查成功 run 後 7.5 天；德文多一篇是〈楊德昌〉兩份譯本 | 印出 coverage 不等於有人在看 coverage | [→](memory/2026-10-09-060340-twmd-data-refresh-am.md) |
