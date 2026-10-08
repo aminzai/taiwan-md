@@ -1,182 +1,189 @@
 ---
-title: "Le système éducatif taïwanais : de l'enfer du concours unique au labyrinthe du pluralisme"
-description: "Taïwan a passé trente ans à vouloir démanteler son concours d'entrée à l'université — et la toute dernière réforme a fait doubler les inscriptions dans les classes de redoublement. Comment une île oscille-t-elle indéfiniment entre pression scolaire et équité éducative ?"
+title: "Le système éducatif de Taïwan : expérience insulaire entre l'enfer des concours et le labyrinthe du multivers"
+description: "Taïwan a passé 30 ans à tenter de démanteler le système basé sur les examens uniques ; les classes de rattrapage de Nanping sont passées de 48 à 3, mais les cours privés ont augmenté de 960 après l'introduction du nouveau curriculum. Comment une île mène-t-elle des expériences sociales répétitives entre la pression de l'enseignement supérieur et l'équité éducative ?"
 date: 2026-03-23
+category: 'Lifestyle'
 tags:
   [
-    éducation,
-    concours,
-    lycée,
-    cours particuliers,
-    enseignement professionnel,
-    PISA,
-    système scolaire,
-    réforme éducative,
+    'Éducation',
+    'examen national (Shuoxu)',
+    "concours d'entrée universitaire",
+    'cours privés',
+    'éducation nationale 12 ans',
+    'Nanping',
+    'PISA',
+    "système d'admission supérieure",
   ]
-subcategory: 'Éducation'
-category: 'Lifestyle'
+subcategory: '教育'
 author: 'Taiwan.md'
-readingTime: 12
 featured: true
-translatedFrom: 'Lifestyle/台灣教育制度.md'
-lastVerified: 2026-03-23
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:4e9ca27840e47d5f'
-sourceBodyHash: 'sha256:0a4c39eae3411ae0'
-translatedAt: '2026-04-15T17:34:49+08:00'
+lastVerified: 2026-10-09
 lastHumanReview: false
+readingTime: 12
+translatedFrom: 'Lifestyle/台灣教育制度.md'
+sourceCommitSha: 'bf3cbdbc1'
+sourceContentHash: 'sha256:f31b05f6ec817e0e'
+sourceBodyHash: 'sha256:1a4718788413b7be'
+translatedAt: '2026-10-09T03:21:05+08:00'
 ---
 
-> **En 30 secondes :** En 2022, des affiches « Inscriptions ouvertes — classes de redoublement pour le concours d'entrée » sont réapparues près de la gare centrale de Taipei. Les demandes de renseignements avaient plus que doublé par rapport à l'année précédente. L'ironie est cruelle : Taïwan a passé trente ans à réformer son éducation pour en finir avec « tout se joue en un seul jour » — et voilà que les premiers candidats du nouveau programme retournent d'eux-mêmes dans les salles de cours de préparation. De 100 000 redoublants rue Nanyang en 1981, à seulement 2 500 en 2023, puis au retour des classes de rattrapage en 2022 : ce cycle révèle comment une société débat sans fin de la définition même de l'équité.
+> **Aperçu de 30 secondes :** En 1981, le quartier de Nanping et Roosevelt à Taipei comptait 48 classes de rattrapage pour l'université et plus de 100 000 étudiants ; en 2023, il ne reste que 3 avec environ 2 500 personnes. Taïwan a passé 30 ans à réformer son enseignement pour briser le mythe du « seul examen détermine toute une vie », et les classes de rattrapage ont disparu, mais les cours privés non : cinq ans après l'introduction du nouveau curriculum, 960 écoles privées sont apparues dans tout le pays. Derrière ce cycle se cache la dialectique répétée d'une île sur la définition de « l'équité ».
 
-En mai 2022, lorsque les résultats du premier concours organisé sous le nouveau programme furent publiés, des affiches familières réapparurent aux abords de la gare de Taipei : « Classes de redoublement pour le Test de compétences académiques — inscriptions ouvertes. » Les organisateurs de cours privés signalèrent une hausse de plus de cent pour cent des demandes de renseignements par rapport à l'année précédente.
+En novembre 2023, des journalistes de CCTV ont visité Nanping, à Taipei. Sur cette rue surnommée « la rue des cours privés » pendant des décennies, on peut encore voir les enseignes des classes de soutien pour le service civil, mais il y a surtout des boutiques de boissons artisanales et des petits restaurants. L'Association des Cours Privées estime qu'il ne reste que 3 classes de rattrapage universitaires dans toute la rue[^1].
 
-La scène avait quelque chose d'à la fois familier et absurde pour de nombreux Taïwanais. N'avions-nous pas passé trente ans à vouloir nous débarrasser du système des concours ? Pourquoi les élèves y revenaient-ils de leur plein gré ?
+La disparition des classes de rattrapage semble être une victoire de la réforme éducative. Pourtant, au cours des cinq années suivant l'introduction du nouveau curriculum, le nombre de cours privés (littérature et sciences) à l'échelle nationale a augmenté de 960[^2]. Nous avons passé 30 ans à essayer de nous libérer du système des examens uniques ; pourquoi les cours privés n'ont-ils pas disparu avec eux ?
 
-La réponse se cache dans une expérience insulaire autour du mot « équité ».
+La réponse se cache dans une expérience insulaire sur la notion d'« équité ».
 
-## L'ère du concours unique : la loi d'airain (1954–2002)
+## L'ère des examens uniques : la loi implacable « un seul examen pour toute une vie » (1954-2002)
 
-En 1954, Taïwan instaure un système national de recrutement unifié pour l'entrée à l'université. Tous les candidats passaient le même examen le même jour ; l'affectation dans les filières et établissements se faisait strictement par ordre décroissant de notes. Ce système a fonctionné pendant quarante-huit ans et forgé la mémoire de deux générations de jeunes Taïwanais d'après-guerre.
+En 1954, Taïwan a établi le système de recrutement universitaire unifié. Tous les candidats passaient l'examen le même jour et étaient affectés à différentes facultés universitaires en fonction de leur classement par score. Ce système a fonctionné pendant 48 ans, façonnant les souvenirs juvéniles de deux générations post-guerre à Taïwan.
 
-Sa logique était d'une limpidité absolue : l'équité, c'est une règle commune ; la chance, c'est le mérite mesuré par la note. Que l'on vienne du quartier huppé de Xinyi à Taipei ou d'un village reculé du Pingtung, on s'asseyait dans la même salle d'examen, on recevait le même sujet, et au soir on savait dans quelle université on allait. Pas de passe-droits, pas de favoritisme — juste le travail et le talent.
+La logique des examens uniques était extrêmement simple : l'équité équivalait à une norme unifiée, et l'opportunité équivalait au niveau du score. Peu importe si vous veniez du quartier de Xinyi à Taipei ou d'une zone rurale isolée à Pingtung, en passant dans la même salle d'examen avec le même examen, on savait après l'examen quelle école on pouvait intégrer. Il n'y avait ni favoritisme, ni arrangements secrets, seulement une confrontation entre l'effort et le talent.
 
-Mais cette « équité » avait un coût humain considérable. En 1996, le magazine _Taiwan Panorama_ soulignait que le concours unique « évaluait les candidats sur un nombre restreint de matières », poussant les élèves à « négliger l'éducation artistique, physique et sociale au profit du pur intellectuel » et à « perdre toute liberté personnelle ». Surtout, il avait engendré la culture des cours privés, propre à Taïwan.
+Mais cette « équité » a eu un coût terrible. En 1996, _Taiwan Guanghua Magazine_ (台灣光華雜誌) citait un rapport consultatif du Comité de réforme éducative du Conseil exécutif, qui indiquait que les examens uniques « évaluaient la capacité des candidats avec seulement quelques matières », et que le principe « un seul examen pour toute une vie » faisait en sorte que les étudiants « privilégiaient l'intelligence au détriment de la culture et de l'art », et qu'ils « perdaient leur liberté spirituelle individuelle »[^3]. Plus crucial encore, ce système a engendré une culture unique des cours privés à Taïwan.
 
-### La légende de la rue Nanyang : une armée de 100 000 redoublants
+### La légende de Nanping : le contingent de 100 000 étudiants en rattrapage
 
-En 1981, pas moins de quarante-huit centres de préparation au redoublement étaient concentrés autour de la rue Nanyang et du boulevard Roosevelt à Taipei, accueillant plus de 100 000 élèves. Rapporté à la population taïwanaise de moins de vingt millions d'habitants de l'époque, cela signifiait qu'un habitant sur deux cents était en train de repréparer le concours.
+Selon l'estimation de l'Association des Cours Privées de Taipei, en 1981, les quartiers de Nanping et Roosevelt à Taipei concentraient 48 classes de soutien pour l'université avec plus de 100 000 étudiants[^1]. Ce chiffre, dans le contexte d'une population inférieure à 20 millions à Taïwan à l'époque, signifiait qu'il y avait un étudiant en rattrapage pour environ 200 personnes.
 
-> **📝 Note du curateur**
-> Pour se représenter ces 100 000 redoublants : c'est l'équivalent de la population entière du district de Tamsui aujourd'hui, déversée dans deux rues proches de la gare de Taipei. Chaque matin à huit heures, la rue Nanyang était plus encombrée que le quartier de Xinyi.
+> **📝 Note de curateur**
+> Qu'est-ce que le concept des 100 000 étudiants en rattrapage ? C'est à peu près la population d'une partie du district de Tamsui aujourd'hui[^4], tous convergeant vers les deux rues près de la gare de Taipei.
 
-Si la rue Nanyang est devenue le haut lieu du « street de cours privés », c'est parce que les professeurs stars du redoublement étaient tous à Taipei dans les années 60 et 70, ce qui obligeait les candidats du Centre et du Sud à remonter vers le Nord pour se loger et suivre des cours. La proximité de la gare centrale facilitait un parcours quasi rituel : prendre le train → descendre à Taipei → comparer les centres rue Nanyang → louer une chambre pour un an → retenter le concours.
+La raison pour laquelle Nanping est devenu un lieu saint des cours privés réside dans le fait que les maîtres célèbres en matière de rattrapage étaient à Taipei dans les années 60 et 70, obligeant les étudiants du sud et du centre à venir à Taïwan pour étudier. En plus d'être proche de la gare de Taipei, ce qui facilitait les déplacements, cela a créé un « pèlerinage » pour les candidats en rattrapage : prendre le train → descendre à la gare de Taipei → se diriger directement vers Nanping pour chercher des cours privés → louer une chambre pendant un an → et passer un autre examen.
 
-Zhang Haoran, secrétaire général de l'Association des centres de cours privés de Taipei, se souvient : « À l'époque, il y avait une quarantaine d'établissements les uns à côté des autres, rue Nanyang. Les élèves pouvaient comparer. » Toute la rue dégageait un mélange de jeunesse et d'anxiété — boîtes à lunch, librairies de mangas, boutiques de photocopies — le tout orienté vers un seul objectif : être admis dans une bonne université l'année suivante.
+Zhang Hao-ran, secrétaire général de l'Association des Cours Privées de Taipei, a rappelé : « Il y avait 40 ou plus de classes privées à Nanping à l'époque, les unes après les autres, et les étudiants pouvaient se comparer »[^1]. Toute la rue était imprégnée d'un mélange d'excitation juvénile et d'anxiété — des restaurants de _bento_, des librairies de location, des photocopieurs, tout gravitait autour d'un objectif : réussir à entrer dans une bonne université l'année suivante.
 
-## La réforme éducative : l'idéal du pluralisme (1994–2019)
+## Le lancement de la réforme éducative : l'idéal du multivers (1994-2019)
 
-En 1994, la réforme éducative lance le projet de « diversification des voies d'accès ». Recommandations, candidatures sur dossier, Test de compétences académiques (學測, _xuece_), Examen national d'admission sur matières désignées (指考, _zhikao_) — plusieurs portes d'entrée s'ouvrent pour que les élèves ne soient plus condamnés à tout miser sur une seule épreuve.
+En 1994, la réforme a commencé à promouvoir le « multivers » (diversité des admissions). La sélection par recommandation, les admissions sur dossier, les tests de capacité académique (_Xuesec_), et les examens spécifiques d'admission universitaire (_Zhikai_) — tous ces canaux ont permis aux étudiants de ne pas avoir une seule chance.
 
-La philosophie de cette réforme est simple : chaque enfant a des talents différents et ne devrait pas être défini par un score. Celui qui dessine bien peut candidater en beaux-arts, le sportif peut passer par le recrutement spécial, le programmeur peut valoriser ses compétences dans un dossier de candidature. Une société plus équitable devait offrir une scène à chaque talent.
+Le concept central de cette réforme était : chaque enfant a des talents différents et ne devrait pas être défini par ses seuls scores d'examen. Ceux qui savaient dessiner allaient dans les départements d'art, ceux qui jouaient au sport passaient le concours spécial pour le sport, et ceux qui programmaient démontraient leur capacité à travers leurs dossiers de candidature. Une société plus équitable devait offrir une scène à chaque talent.
 
-Les chiffres semblent donner raison à la réforme.
+Les données montrent que la réforme a effectivement fonctionné.
 
-| Ère du concours unique (1981)                          | Ère plurielle (2023)                     |
-| ------------------------------------------------------ | ---------------------------------------- |
-| 48 centres de redoublement rue Nanyang, 100 000 élèves | 3 centres restants, environ 2 500 élèves |
+| Ère des examens uniques (1981)                        | Ère du multivers (2023)                                    |
+| :---------------------------------------------------- | :--------------------------------------------------------- |
+| 48 classes de rattrapage à Nanping, 100 000 étudiants | Seulement 3 classes de rattrapage, environ 2 500 étudiants |
 
-En quarante ans, le nombre de redoublants a chuté de 97,5 %. Rue Nanyang, les enseignes de thé aux perles sont désormais plus nombreuses que les centres de cours. En apparence, Taïwan a réussi sa transition de « l'enfer du concours unique » au « paradis du pluralisme ».
+Le nombre d'étudiants en rattrapage a diminué de 97,5 % en 40 ans ; il y a plus de restaurants artisanaux et de petits restaurants à Nanping qu'il n'y a de classes privées[^1]. À première vue, Taïwan semble être passée de « l'enfer des examens uniques » au « paradis du multivers ».
 
 Mais la réalité est plus complexe.
 
-## La panique des redoublants à l'ère du nouveau programme : le pluralisme comme fardeau multiple
+## La génération du nouveau curriculum : le multivers devient un fardeau multiple
 
-En 2019, le nouveau programme — dit « programme du 108 » ou « programme axé sur les compétences » — entre en vigueur. Son ambition : passer de la « mémorisation de connaissances » à « l'application de compétences », du « corrigé unique » à « la pensée critique ».
+En 2019, le nouveau curriculum a été introduit, appelé « Curriculum 108 » ou « curriculum axé sur les compétences ». Son idée était de passer de la « mémorisation des connaissances » à l'« application des compétences », et du « résultat standard » à la « pensée critique ».
 
-Le Test de compétences académiques est revu en conséquence : de cinq matières obligatoires, on passe à « cinq au choix de quatre » pour plus de flexibilité ; des types de questions mixtes sont introduits pour évaluer la pensée de haut niveau ; l'orientation « compétences » vise à tester non seulement les savoirs, mais aussi leur mise en pratique. Ces évolutions reflètent une transformation profonde de la philosophie éducative.
+Le système _Xuesec_ a également été ajusté : il a intégré des formats mixtes pour tester les capacités de réflexion avancée ; il a mis l'accent sur les compétences, évaluant non seulement les connaissances mais aussi leur application. Ces changements reflètent une transformation fondamentale de la philosophie éducative.
 
-Pourtant, en 2022, les premiers candidats soumis au nouveau programme se sont heurtés à des difficultés imprévues. Le Test de matières désignées (分科測驗, _fenkemoshiyan_, qui remplace l'ancien 指考) n'incluant plus le chinois, l'anglais ni les mathématiques de niveau B, de nombreuses universités se sont retrouvées contraintes de réintégrer les résultats du _xuece_ dans leurs critères de sélection par affectation. Résultat : un dispositif conçu pour « réduire le stress » a finalement accru la pression ressentie par les élèves.
+Mais en 2022, les premiers candidats au nouveau curriculum ont été confrontés à un dilemme inattendu. Les examens spécialisés (qui remplacent _Zhikai_) n'évaluaient pas la littérature chinoise, l'anglais ou le mathématiques B, forçant de nombreuses facultés à revenir en arrière et à utiliser les résultats du _Xuesec_ pour l'affectation des étudiants. Le système, initialement conçu pour « réduire la pression », a au contraire fait supporter une plus grande pression aux étudiants.
 
-> **⚠️ Point de controverse**
-> Les acteurs des cours privés ne mâchent pas leurs mots : le nouveau programme serait « un changement de forme sans changement de fond ». « Tant que les mentalités parentales n'évoluent pas et que les ressources continuent de se concentrer sur quelques filières et grandes universités, la pression à l'entrée restera. Et au bout du compte, ce sont les centres de cours qui y gagnent. »
+> **⚠️ Point de vue controversé**
+> Hu Yu-shan, présidente de l'Association des Parents de Taipei, explique pourquoi les parents font encore beaucoup d'efforts : « Puisque c'est le déclin démographique, la planification de l'élite, est-ce que je fais tout mon possible pour un seul événement, en voyant ce dont l'enfant a besoin ? »[^2].
 
-À l'issue du _xuece_ 2022, la rue Nanyang a de nouveau arboré ses affiches « Inscriptions ouvertes — redoublement ». Les demandes ont plus que doublé par rapport à l'année précédente. Un formateur vedette observe : « Ceux qui redoublent aujourd'hui visent souvent des filières très sélectives dans les universités nationales — médecine, informatique et autres. »
+Le rattrapage n'a pas disparu, il s'est simplement rétréci. En 2023, des maîtres privés ont déclaré à CCTV que beaucoup de ceux qui se préparaient encore étaient en vue d'intégrer les départements médicaux ou informatiques des universités nationales[^1]. À une époque où le taux d'admission universitaire approchait les cent pour cent, le rattrapage visait ces quelques départements.
 
-Taïwan semble avoir renoué avec le même chemin de croix que connut la génération de leurs parents.
+## La culture des cours privés : un système éducatif parallèle qui ne meurt jamais
 
-## Les cours privés : un système éducatif parallèle indéracinable
+Même si le nombre d'étudiants en rattrapage a diminué, la culture des cours privés à Taïwan reste florissante. Pendant la pandémie de COVID-19, près de 2 600 écoles privées ont fermé à l'échelle nationale, mais elles se sont lentement redressées après la crise ; cinq ans après le nouveau curriculum, le nombre total d'écoles privées a augmenté de 293, dont 960 dans les domaines littéraire et scientifique. Le ministère de l'Éducation explique cela par le déclin démographique, les parents étant prêts à consacrer plus d'efforts aux études de leurs enfants[^2].
 
-Même si le nombre de redoublants a fortement diminué, la culture des cours privés reste florissante à Taïwan. On dénombre plus de 18 000 centres enregistrés sur l'ensemble du territoire, pour un chiffre d'affaires annuel estimé à 170 milliards de dollars taïwanais — soit à peu près la moitié de TSMC.
+Ce phénomène ne reflète pas seulement la pression de l'enseignement supérieur, mais aussi une anxiété profonde de la société taïwanaise concernant l'éducation. Les familles à double revenu ont besoin de services de garde, le multivers nécessite la création de dossiers, et le Curriculum 108 exige un développement des compétences — chaque réforme a créé une nouvelle opportunité commerciale pour les cours privés.
 
-Ce phénomène ne reflète pas seulement la pression scolaire : il révèle une anxiété éducative profondément enracinée dans la société taïwanaise. Les familles à double revenu ont besoin de structures parascolaires, la diversification des voies d'accès génère un travail de constitution de dossiers, le nouveau programme requiert un accompagnement aux « compétences » — chaque réforme crée de nouveaux débouchés pour le secteur privé.
+Les cours privés modernes se sont transformés en un « écosystème éducatif » :
 
-Les centres de cours privés modernes se sont mués en véritables « écosystèmes éducatifs » :
+- **Cours privés axés sur l'apprentissage** : Mathématiques, anglais, physique et chimie traditionnels
+- **Cours privés artistiques** : Musique, art, danse, programmation
+- **Cours privés basés sur les dossiers** : spécialisés dans le conseil pour la création de dossiers de candidature, techniques d'entretien
+- **Cours privés axés sur les compétences** : se présentant comme développant les « compétences du Curriculum 108 »
 
-- **Centres académiques** : mathématiques, anglais, physique-chimie (offre traditionnelle)
-- **Centres d'éveil artistique** : musique, arts plastiques, danse, programmation
-- **Centres de constitution de dossiers** : accompagnement pour les portfolios et la préparation aux entretiens
-- **Centres « compétences »** : se targuant de développer les aptitudes du programme 108
+Zhang Hao-ran, secrétaire général de l'Association des Cours Privées de Taipei, a observé que beaucoup de cours privés suivent désormais une approche « tout-en-un », allant même jusqu'au soutien scolaire pour le collège et le lycée, en plus des cours, ils s'occupent du quotidien des enfants[^2]. Le travail des cours privés est passé de l'enseignement des examens au soin quotidien des enfants.
 
-> **💡 Le saviez-vous ?**
-> Des enseignants stars comme Feige English, Jianhong Math ou Liu Yi English ont souvent une notoriété qui dépasse celle des professeurs de l'enseignement public. Leurs vidéos pédagogiques cumulent des dizaines de milliers de vues sur YouTube, et leurs abonnés sur les réseaux sociaux rivalisent avec ceux de certaines célébrités.
+## Lumière et ombre des résultats PISA : excellents scores mais un écart plus grand que les autres
 
-Un élève a formulé la chose avec une clarté désarmante : « Le professeur à l'école enseigne le manuel ; le professeur au cours particulier enseigne l'examen. Il faut maîtriser les deux pour réussir. » Cette phrase met en lumière la contradiction structurelle de l'éducation taïwanaise : l'école poursuit des idéaux, le cours privé s'adapte à la réalité.
+Sur la scène internationale, les étudiants taïwanais ont effectivement montré d'excellentes performances. Les résultats PISA de 2022 montraient que Taïwan était classé 3e en mathématiques avec 547 points, 4e en sciences avec 537 points et 5e en lecture avec 515 points, tous bien au-dessus de la moyenne de l'OCDE[^5]. Dans le cycle le plus récent de 2025, Taïwan a obtenu 546 points en mathématiques, 508 en lecture et 540 en sciences, sans changement statistiquement significatif par rapport à 2022[^6].
 
-## Les résultats PISA : l'excellence au prix du bonheur
+Le ministère de l'Éducation a souligné que la performance moyenne des étudiants issus des milieux socio-économiques les plus défavorisés était comparable à la moyenne de l'OCDE, et que l'écart en mathématiques expliqué par le statut socio-économique est passé de 17,9 % en 2012 à 15,7 %, grâce aux programmes d'aide à l'apprentissage et aux plateformes d'enseignement numérique[^7]. Le rapport national de l'OCDE a cependant rappelé une autre réalité : les étudiants des quartiles socio-économiques les plus favorisés et les moins favorisés avaient un écart de 119 points en mathématiques, supérieur au déficit moyen de 93 points de l'OCDE, et cet écart ne s'est pas réduit entre 2012 et 2022[^8].
 
-Sur la scène internationale, les élèves taïwanais s'en sortent remarquablement bien. Aux PISA 2022, Taïwan obtient 547 points en mathématiques (3e mondial), 537 en sciences (4e mondial) et 515 en lecture (8e mondial), bien au-dessus des moyennes de l'OCDE.
+Une autre affirmation courante est que « les étudiants taïwanais ont de bons résultats mais ne sont pas heureux ». Le questionnaire PISA 2022 n'a pas montré cela : 87 % des étudiants taïwanais se sentaient appartenir à leur école (contre 75 % en moyenne dans l'OCDE), et le taux d'insatisfaction avec la vie était de 15 %, inférieur aux 19 % de 2018 et à la moyenne de l'OCDE de 18 %[^8]. Le manque plus net se situe au niveau de la motivation à apprendre : dans le cycle de 2025, seulement 58,6 % des étudiants taïwanais disaient aimer apprendre de nouvelles choses à l'école, contre 68,8 % en moyenne dans l'OCDE[^6].
 
-Un chiffre mérite une attention particulière : les élèves issus des milieux les plus défavorisés (environ 3,8 % de l'échantillon) atteignent 471 points en mathématiques, quasiment à égalité avec la moyenne OCDE de 472 points. Le ministère de l'Éducation y voit le fruit des dispositifs de soutien scolaire et du déploiement de l'apprentissage numérique, qui ont effectivement réduit les inégalités territoriales.
+Ceci présente un autre défi pour l'éducation taïwanaise : comment faire en sorte que les étudiants aient envie d'apprendre tout en maintenant la performance ?
 
-Mais PISA révèle aussi l'autre visage de l'éducation taïwanaise : une motivation intrinsèque insuffisante, une pensée créative sous-développée, un niveau d'anxiété scolaire élevé. Les élèves taïwanais ont beau exceller en termes de résultats académiques, leur indice de bien-être est comparativement faible.
+## La réalité double de l'éducation technique et professionnelle
 
-> **📊 Source**
-> Le rapport PISA 2022 indique que la « satisfaction de vie » des élèves de 15 ans à Taïwan est de 6,7 sur 10, contre une moyenne OCDE de 7,3. Des résultats brillants, au prix de la joie de l'adolescence.
+Le système d'éducation technique et professionnelle à Taïwan est très complet, allant des collèges techniques aux universités technologiques. Cependant, le nombre d'étudiants choisissant cette voie diminue : parmi les diplômés du secondaire et de la formation professionnelle de l'année scolaire 111, les groupes techniques représentaient 46,4 %, contre 53,9 % il y a quatre ans[^9]. Taïwan s'est distinguée lors des compétitions internationales de compétences (WorldSkills Competition) : en 2022, elle a remporté 6 médailles d'or, 13 d'argent et 6 de bronze dans une compétition spéciale organisée dans 15 pays, se classant 3e sur les 57 pays participants ; lors du concours de Lyon en 2024, 58 participants ont ramené 2 médailles d'or, 3 d'argent, 10 de bronze et 28 prix[^10].
 
-Ce paradoxe résume le défi fondamental de l'éducation taïwanaise : comment maintenir l'excellence scolaire tout en permettant aux élèves d'apprendre avec davantage de bonheur ?
+> **✦** La caractéristique de l'éducation technique à Taïwan est le « faire par l'apprentissage » (_zuò zhōng xué_) et la « coopération industrie-université » : les étudiants participent non seulement aux cours théoriques, mais aussi aux stages, aux projets spéciaux et aux examens de compétences. De nombreuses universités technologiques ont également établi des partenariats avec le secteur industriel.
 
-## L'enseignement professionnel : une réalité à deux faces
+Cependant, l'éducation technique fait face à un défi dans la perception sociale. L'idée que « tout est inférieur sauf les études » (_wàn bān jiē xià pǐn, wéi yǒu dúshū gāo_) est profondément enracinée, et l'éducation technique est souvent considérée comme une « option secondaire » par rapport à l'enseignement académique. Le gouvernement promeut la politique de « réinvention professionnelle », tentant de corriger ce stéréotype, mais le changement des valeurs sociales prend du temps.
 
-Le système d'enseignement professionnel et technique taïwanais est particulièrement développé : des lycées professionnels aux universités de technologie, en passant par les instituts, les élèves de la filière technique représentent 60 % des effectifs du secondaire. Sur la scène internationale, les résultats sont éloquents — aux WorldSkills Competition de Lyon 2024, Taïwan a remporté 6 médailles d'or, 13 d'argent et 6 de bronze, se classant 3e sur 57 pays participants.
+## La formation des enseignants : derrière la course pour devenir enseignant
 
-> **✦** « La marque de fabrique de l'enseignement professionnel taïwanais, c'est l'"apprendre en faisant" et les partenariats école-entreprise. Au-delà des cours théoriques, les élèves effectuent des stages, réalisent des projets et passent des certifications professionnelles. De nombreuses universités de technologie ont noué des liens étroits avec l'industrie : leurs diplômés trouvent un emploi dès la sortie. »
+Le statut social des enseignants à Taïwan est élevé et leur salaire est stable, ce qui en fait une profession recherchée par de nombreux jeunes depuis de nombreuses années. En 2024 (année scolaire 113), 10 377 personnes se sont inscrites au concours de qualification d'enseignant, et parmi les 9 620 personnes qualifiées et présentes à l'examen, 5 022 ont réussi, un taux de réussite de 52,2 %, près de la moitié n'ayant pas réussi[^11].
 
-Pourtant, l'enseignement professionnel se heurte encore aux préjugés sociaux. L'adage confucéen — « tout est inférieur, seul l'étude est noble » — reste ancré dans les esprits, et la filière technique est souvent perçue comme un « second choix » par rapport aux études académiques. Le gouvernement a lancé des plans de « revitalisation de la voie professionnelle » pour combattre ce cliché, mais l'évolution des valeurs sociales prend du temps.
+Ce niveau de concurrence reflète l'estime que la société taïwanaise porte au métier d'enseignant, mais il révèle également des problèmes structurels : le déclin démographique réduit les besoins en enseignants, la réforme éducative augmente la charge de travail, et les attentes des parents augmentent la pression professionnelle.
 
-## La formation des enseignants : pourquoi tout le monde veut devenir prof
+Après avoir réussi l'examen professionnel, il y a encore le processus de sélection des enseignants ; beaucoup d'étudiants formés doivent passer plusieurs années à jongler entre les cours suppléants, les stages et les examens avant de s'établir sur le terrain éducatif.
 
-Le métier d'enseignant bénéficie d'un grand prestige social à Taïwan, avec un salaire stable — une vocation enviée par de nombreux jeunes. En 2024, l'examen de qualification des enseignants a reçu 10 377 inscriptions ; 5 022 candidats l'ont réussi, soit un taux de réussite de 52,2 % — autrement dit, un étudiant en formation sur deux n'obtient pas son brevet.
+## La double épée de la participation parentale
 
-Ce niveau de concurrence reflète l'attachement de la société taïwanaise au corps enseignant, mais révèle aussi des problèmes structurels : la baisse démographique réduit les besoins en enseignants, les réformes successives alourdissent la charge de travail, et les attentes des parents font monter la pression professionnelle.
+La participation des parents taïwanais à l'éducation est rare au niveau mondial, allant des réunions de parents aux bénévoles éducatifs, en passant par l'éducation parentale et l'accompagnement scolaire. Mais cette « attention élevée » peut aussi se transformer en « ingérence excessive ».
 
-Les quarante-six universités dotées d'un centre de formation pédagogique forment environ dix mille futurs enseignants par an, mais moins de 30 % intègreront effectivement un poste permanent. Beaucoup d'entre eux enchaînent pendant plusieurs années les remplacements, les stages et les sessions d'examens avant de trouver leur place dans l'éducation nationale.
+Le choix éducatif est le sujet qui préoccupe le plus les parents taïwanais. Le système de zone scolaire fait grimper les prix immobiliers autour des écoles prestigieuses, les écoles privées offrent une éducation différenciée, et l'éducation expérimentale répond aux besoins individuels — chaque choix reflète l'anxiété des parents à rechercher une éducation de qualité.
 
-## La participation des parents : une épée à double tranchant
+Mais le choix éducatif exacerbe aussi les inégalités éducatives. Les familles aisées peuvent choisir des écoles privées ou déménager dans des zones scolaires prestigieuses, tandis que les familles défavorisées ne peuvent faire qu'avec les ressources existantes. Comment garantir la liberté de choix tout en assurant l'équité éducative est un problème éternel pour les décideurs politiques.
 
-L'implication des parents taïwanais dans la scolarité de leurs enfants est parmi les plus élevées au monde — associations de parents, bénévolat scolaire, formation parentale, accompagnement aux devoirs. Mais ce « fort engagement » peut facilement virer à « l'ingérence excessive ».
+## Les leçons du numérique à la COVID
 
-La liberté de choix scolaire est la préoccupation centrale des familles taïwanaises. La carte scolaire fait flamber les prix de l'immobilier autour des établissements réputés, les écoles privées offrent un enseignement différencié, l'éducation expérimentale répond aux besoins individuels — chaque choix reflète l'anxiété des parents dans leur quête de qualité éducative.
+Pendant la pandémie de COVID-19, la capacité d'enseignement en ligne de Taïwan a attiré l'attention internationale. Le ministère de l'Éducation avait investi massivement dans la construction d'un environnement d'apprentissage numérique, chaque école disposant d'une salle informatique et d'un réseau sans fil, des infrastructures qui ont joué un rôle clé pendant la pandémie.
 
-Mais ce droit au choix creuse aussi les inégalités. Les familles aisées peuvent opter pour le privé ou déménager dans le périmètre d'un lycée de prestige ; les familles défavorisées doivent se contenter des ressources existantes. Comment garantir la liberté de choix tout en assurant l'équité éducative : c'est le dilemme permanent des politiques publiques.
+Le nouveau curriculum de 2019 a inclus « la technologie » comme matière obligatoire au secondaire, transformant l'éducation en programmation du codage visuel (Scratch) à la programmation textuelle Python pour développer la pensée computationnelle. L'éducation par IA est également devenue un point clé ; le ministère de l'Éducation subventionne les écoles primaires et secondaires pour offrir des cours liés à l'intelligence artificielle, promouvant ainsi l'enracinement de l'IA dans l'enseignement.
 
-## L'éducation numérique : les leçons du COVID
+Mais l'apprentissage numérique a également révélé la fracture numérique : les étudiants des zones rurales manquent d'équipement, les familles défavorisées n'ont pas de connexion Internet stable, et l'écart entre ville et campagne risque de s'élargir à l'ère numérique.
 
-Pendant la pandémie de COVID-19, les capacités d'enseignement à distance de Taïwan ont attiré l'attention internationale. Le ministère de l'Éducation avait investi massivement depuis des années dans l'infrastructure numérique — salle informatique et Wi-Fi dans chaque établissement —, et ces équipements ont joué un rôle décisif lors de la crise sanitaire.
+## L'éducation expérimentale : une alternative
 
-Le programme 2019 inscrit les « technologies » comme matière obligatoire au collège et au lycée. L'enseignement de la programmation progresse de Scratch (programmation visuelle) vers Python (programmation textuelle), développant la pensée algorithmique. L'éducation à l'intelligence artificielle s'impose comme une nouvelle priorité : le ministère pilote un « Plan d'ancrage de l'IA dans l'éducation » pour préparer les élèves à l'ère de l'IA.
+L'éducation expérimentale à Taïwan se développe florissante : en année scolaire 112 (2023), 132 écoles ayant approuvé des projets d'éducation expérimentale, avec 11 360 étudiants non scolaires (auto-apprentissage) et près de 26 000 étudiants participant à l'éducation expérimentale au total, ce qui représente une augmentation de plus de 10 000 personnes par rapport au déclin démographique[^9]. L'éducation Waldorf, Montessori et les groupes d'auto-apprentissage offrent des choix diversifiés en dehors de l'enseignement traditionnel.
 
-Mais l'apprentissage numérique a aussi mis en lumière la fracture numérique : manque d'équipements dans les zones rurales, absence de connexion stable dans les foyers défavorisés — à l'ère numérique, les inégalités territoriales risquent paradoxalement de se creuser.
+Mais l'éducation expérimentale fait face à des défis : qualité inégale, manque de formation du personnel enseignant, difficultés de transition vers l'enseignement supérieur. Le gouvernement a établi un mécanisme normatif avec le « Règlement sur l'éducation expérimentale » pour garantir la qualité, mais trouver un équilibre entre innovation et qualité reste un défi constant.
 
-## L'éducation expérimentale : une alternative qui se cherche
+## L'apprentissage tout au long de la vie et l'éducation des adultes
 
-L'éducation expérimentale se développe rapidement à Taïwan : en 2023, on comptait 150 établissements expérimentaux et 8 000 élèves en instruction en famille. La pédagogie Waldorf, la méthode Montessori et les groupes d'auto-apprentissage offrent des alternatives au système dominant.
+L'esprit d'apprentissage continu est répandu à Taïwan ; les universités communautaires, les universités seniors (_Le-ling_), la formation professionnelle et les cours en ligne permettent aux gens d'apprendre et de grandir continuellement. Près de 90 universités communautaires dans tout le pays accueillent des centaines de milliers d'étudiants chaque année, offrant des cours allant des connaissances académiques aux compétences de vie pour répondre à différents besoins d'apprentissage.
 
-Mais ces structures font face à de vrais défis : qualité hétérogène, formation insuffisante des enseignants, difficultés d'articulation avec les filières d'accès à l'enseignement supérieur. Le gouvernement a adopté les « Trois lois sur l'éducation expérimentale » pour encadrer et garantir la qualité de ces dispositifs — mais trouver l'équilibre entre innovation et rigueur reste un chantier ouvert.
+Les plateformes d'apprentissage numérique se développent rapidement. La demande de cours en ligne a explosé pendant la pandémie, stimulant l'industrie de l'apprentissage numérique. Les plateformes éducatives taïwanaises comme Hahow et PressPlay Academy offrent divers contenus d'apprentissage, transformant le slogan « apprendre jusqu'à la vieillesse » en réalité.
 
-> **📝 Note du curateur**
-> La directrice d'une école expérimentale l'a formulé ainsi : « L'éducation expérimentale n'est pas une fuite du système dominant — c'est une exploration de ce que l'éducation pourrait faire de mieux. Nous voulons former des enfants heureux et capables. » Cette phrase pointe le dilemme central de l'éducation taïwanaise : résultats scolaires et épanouissement sont-ils vraiment incompatibles ?
+## De l'enfer des examens uniques au labyrinthe du multivers : qu'avons-nous appris ?
 
-## Formation tout au long de la vie et éducation des adultes
+Revenons à la question posée au début de l'article : pourquoi Taïwan a passé 30 ans à réformer son enseignement, les classes de rattrapage ont disparu, mais les cours privés non ?
 
-La culture de la formation continue est bien ancrée à Taïwan : universités populaires, universités du troisième âge, formations professionnelles, cours en ligne permettent à chacun d'apprendre tout au long de sa vie. Les quatre-vingt-dix universités populaires du pays accueillent chaque année 400 000 apprenants, avec des programmes allant des savoirs académiques aux compétences du quotidien.
+La réponse est que nous avons sous-estimé la complexité de la définition de « l'équité ». L'équité de l'ère des examens uniques était l'« égalité des chances » — tout le monde passait le même examen. L'équité de l'ère du multivers est le « développement adapté » — donner à chaque talent une chance. Mais dans la pratique, le multivers a pu élargir les inégalités de classe : les familles riches peuvent investir plus de ressources pour préparer tous les canaux, tandis que les familles pauvres ne peuvent faire que des efforts basés sur les scores.
 
-Les plateformes d'apprentissage numérique se développent rapidement. L'explosion de la demande de cours en ligne pendant la pandémie a stimulé la croissance de l'industrie de l'e-learning. Des plateformes taïwanaises comme Hahow et PressPlay Academy proposent des contenus variés, transformant le slogan « apprendre toute sa vie » en réalité concrète.
+Du contingent de 100 000 étudiants en rattrapage à Nanping aux 2 500 en 2023, puis aux 960 cours privés supplémentaires après l'introduction du nouveau curriculum, ce cycle nous enseigne que la réforme éducative n'est pas seulement un problème de conception systémique, mais un défi fondamental des valeurs sociales. Tant que le mythe des « bonnes universités » et des « départements populaires » existe, tant que la société maintient une définition étroite du succès, tout système éducatif risque de devenir une nouvelle « scène de compétition ».
 
-## De l'enfer du concours au labyrinthe du pluralisme : qu'avons-nous appris ?
+> **✦** « La véritable équité éducative n'est peut-être pas de donner à chaque enfant le même point de départ, mais de permettre à chaque enfant de trouver sa propre piste — même si cette piste mène à une destination différente des autres. »
 
-Revenons à la question posée en ouverture : pourquoi, après trente ans de réforme éducative, les élèves taïwanais se retrouvent-ils à nouveau dans la panique du redoublement ?
-
-La réponse tient en ceci : nous avons sous-estimé la complexité de la notion d'« équité ». À l'ère du concours unique, l'équité signifiait « égalité des chances » — même épreuve pour tous. À l'ère du pluralisme, elle signifie « développement de chaque profil » — une porte pour chaque talent. Mais dans les faits, les voies d'accès multiples ont pu creuser les inégalités de classe : les familles qui ont les moyens d'investir dans la préparation de toutes les candidatures s'en sortent mieux ; celles qui n'en ont pas les moyens ne peuvent miser que sur les notes.
-
-De l'armée des 100 000 redoublants de la rue Nanyang aux 2 500 d'aujourd'hui, et jusqu'au retour des classes de rattrapage en 2022 : ce cycle nous enseigne que la réforme éducative n'est pas qu'une question de conception institutionnelle — c'est un défi profond pour les valeurs d'une société. Tant que persiste le mythe des « grandes universités » et des « filières d'élite », tant que la définition sociale du succès reste étroite, tout système éducatif risque de se muer en nouvelle arène de compétition.
-
-> **✦** « La véritable équité éducative n'est peut-être pas de donner à chaque enfant la même ligne de départ, mais de permettre à chaque enfant de trouver la piste qui lui convient — même si cette piste mène vers un horizon différent de celui des autres. »
-
-L'expérience éducative taïwanaise se poursuit. Chaque réforme est une dialectique sociale, chaque génération d'élèves en est à la fois actrice et cobaye. Nous cherchons encore ce système éducatif qui conjuguerait équité, efficacité et bonheur — si tant est qu'un tel système puisse exister.
+L'expérience éducative de Taïwan continue. Chaque réforme est une dialectique sociale, et chaque génération d'étudiants est participante à cette expérience. Nous cherchons toujours ce système éducatif qui concilie l'équité, l'efficacité et le bonheur — si un tel système existe réellement.
 
 ## Références
 
-- [聯考拉鋸戰──破與不破千萬難 - 台灣光華雜誌](https://www.taiwan-panorama.com/Articles/Details?Guid=adb5c601-15e9-44b8-b55a-f0eb892a995d&CatId=11)
-- [Education GPS - Chinese Taipei - Student performance (PISA 2022)](https://gpseducation.oecd.org/CountryProfile?primaryCountry=TWN&treshold=10&topic=PI)
-- [Chinese Taipei Won 2 Gold, 3 Silver and 10 Bronze at the 2024 WorldSkills Competition](https://wsc.wda.gov.tw/News_Content.aspx?n=30258915F57EB2DC&sms=3E86285D7FF55C61&s=958C7DDCCA35FB73)
+[^1]: [Diminution de 40 fois des étudiants en rattrapage sur les 40 ans : Nanping, la rue des cours privés, n'est plus ce qu'elle était](https://news.pts.org.tw/article/666505) — CCTV News, 2023-11-13 ; Estimation de l'Association des Cours Privées : 48 classes à Nanping et Roosevelt en 1981 avec plus de 100 000 personnes, contre 3 avec environ 2 500 aujourd'hui, suite aux entretiens avec Zhang Hao-ran et les maîtres privés.
+
+[^2]: [Augmentation de 960 cours privés après cinq ans du nouveau curriculum : Ministère de l'Éducation : les parents se soucient davantage en raison du déclin démographique](https://news.pts.org.tw/article/718934) — CCTV News, 2024-10-11 ; Fermeture de près de 2 600 pendant la pandémie, augmentation de 293 à l'échelle nationale après le nouveau curriculum, et 960 dans les domaines littéraire et scientifique, suite aux entretiens avec Hu Yu-shan et Zhang Hao-ran.
+
+[^3]: [La lutte des examens uniques — impossible de savoir si elle doit être brisée ou non](https://www.taiwan-panorama.com/Articles/Details?Guid=adb5c601-15e9-44b8-b55a-f0eb892a995d&CatId=11) — Taiwan Guanghua Magazine, décembre 1996 ; Critique des examens uniques citée dans le premier rapport consultatif du Comité de réforme éducative du Conseil exécutif.
+
+[^4]: [Avantage démographique du cercle résidentiel Keelung-Taipei-Taoyuan : qui en bénéficie ? La croissance nette de Tamsui atteint 3,6 %](https://money.udn.com/money/story/5621/9259908) — Economic Daily, 2026-01-12 ; Population totale du district de Tamsui en décembre 2025 est de 208 000.
+
+[^5]: [Résultats PISA : la moyenne des pays de l'OCDE recule, notre pays connaît une croissance inverse](https://udn.com/news/story/6885/7620400) — United News Network, 2023-12-05 ; Taïwan classé 3e en mathématiques, 5e en lecture et 4e en sciences par rapport à la moyenne de l'OCDE.
+
+[^6]: [Education GPS — Chinese Taipei : performance des étudiants (PISA 2025)](https://gpseducation.oecd.org/CountryProfile?primaryCountry=TWN&treshold=10&topic=PI) — OCDE ; En 2025, 546 points en mathématiques, 508 en lecture et 540 en sciences, sans changement significatif par rapport à 2022 ; 58,6 % des étudiants aiment apprendre de nouvelles choses à l'école (contre 68,8 % en moyenne dans l'OCDE).
+
+[^7]: [Présentation des résultats PISA 2022 de Taïwan](https://www.1111.com.tw/news/jobns/154156) — Reçu du communiqué de presse du ministère de l'Éducation par 1111 Industry News, 2023-12-07 ; L'explication socio-économique est passée de 17,9 % à 15,7 %, et la performance moyenne des étudiants les plus défavorisés est comparable à celle de l'OCDE.
+
+[^8]: [Résultats PISA 2022 (Volume I et II) — Notes pays : Chinese Taipei](https://www.oecd.org/en/publications/pisa-2022-results-volume-i-and-ii-country-notes_ed6fbcc5-en/chinese-taipei_ebda1f30-en.html) — OCDE ; Écart en mathématiques entre les 25 % socio-économiques les plus favorisés et les moins favorisés est de 119 points (contre 93 points en moyenne à l'OCDE), 87 % des étudiants ont un sentiment d'appartenance scolaire, 15 % sont insatisfaits de leur vie (contre 18 % en moyenne dans l'OCDE).
+
+[^9]: [Aperçu de la formation professionnelle pour l'année scolaire 112, éducation rurale et taux d'inscription à l'éducation expérimentale](https://stats.moe.gov.tw/files/analysis/113professional.pdf) — Bureau des statistiques du ministère de l'Éducation ; Les groupes techniques représentaient 46,4 % des diplômés du secondaire et de la formation professionnelle de l'année scolaire 111 (53,9 % en année scolaire 107), 132 écoles expérimentales et 11 360 étudiants non scolaires en année scolaire 112.
+
+[^10]: [Chinese Taipei remporte 2 médailles d'or, 3 d'argent et 10 de bronze lors des compétitions mondiales de compétences 2024](https://wsc.wda.gov.tw/News_Content.aspx?n=30258915F57EB2DC&sms=3E86285D7FF55C61&s=958C7DDCCA35FB73) — Site Web du WorldSkills Competition de l'Agence de développement des ressources humaines ; 6 or, 13 argent, 6 bronze en compétition spéciale en 2022 (3e sur 57 pays), et 2 or, 3 argent, 10 bronze et 28 prix à Lyon en 2024.
+
+[^11]: [Taux de réussite du concours de qualification d'enseignant pour l'année scolaire 113 : 52 %, 5 022 personnes obtiennent un billet de stage](https://flipedu.parenting.com.tw/article/009426) — Renversement Éducation Parentale, 29-07-2024 ; Selon le ministère de l'Éducation (Direction de la formation des enseignants et de l'éducation artistique), 10 377 inscriptions, 9 620 personnes qualifiées et présentes à l'examen, 5 022 réussis, un taux de réussite de 52,2 %.
