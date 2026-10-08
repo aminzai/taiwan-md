@@ -1,180 +1,189 @@
 ---
-title: 'O sistema educativo de Taiwan: do inferno do exame unificado ao labirinto da diversidade, uma experiência insular'
-description: 'Taiwan passou 30 anos a tentar abolir o sistema de exame unificado, mas os mais recentes testes por disciplinas fizeram as inscrições para turmas de repetição nas escolas de reforço duplicarem. Como é que uma ilha realiza repetidamente experiências sociais entre a pressão do acesso ao ensino superior e a equidade educativa?'
+title: 'Sistema Educacional de Taiwan: Da "Gehenna" dos Exames Unificados ao Labirinto da Diversidade'
+description: 'Taiwan gastou 30 anos tentando abolir o sistema de exames unificados; os cursos preparatórios em Nanyang Street caíram de 48 para 3, mas as escolas particulares aumentaram em 960 após a implementação do Novo Currículo. Como uma ilha realiza experimentos sociais repetidos entre pressão acadêmica e equidade educacional?'
 date: 2026-03-23
-author: 'Taiwan.md'
 category: 'Lifestyle'
-subcategory: 'Educação'
 tags:
-  - 'Educação'
-  - 'Exame de Acesso'
-  - 'Exame Unificado'
-  - 'Escolas de Reforço'
-  - 'Educação Básica de 12 Anos'
-  - 'Rua Nanyang'
-  - 'PISA'
-  - 'Sistema de Acesso ao Ensino Superior'
-readingTime: 12
-lastVerified: 2026-03-23
-lastHumanReview: false
+  [
+    'Educação',
+    'Exame Nacional',
+    'Exames Unificados',
+    'Cursos Preparatórios',
+    'Educação Básica de 12 Anos',
+    'Nanyang Street',
+    'PISA',
+    'Sistema de Admissão',
+  ]
+subcategory: '教育'
+author: 'Taiwan.md'
 featured: true
+lastVerified: 2026-10-09
+lastHumanReview: false
+readingTime: 12
 translatedFrom: 'Lifestyle/台灣教育制度.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:4e9ca27840e47d5f'
-sourceBodyHash: 'sha256:0a4c39eae3411ae0'
-translatedAt: '2026-07-25T12:49:30+08:00'
+sourceCommitSha: 'bf3cbdbc1'
+sourceContentHash: 'sha256:f31b05f6ec817e0e'
+sourceBodyHash: 'sha256:1a4718788413b7be'
+translatedAt: '2026-10-09T03:02:26+08:00'
 ---
 
-> **Visão geral em 30 segundos:** Em 2022, junto à estação de Taipé, surgiram cartazes a anunciar «Turmas de repetição para o Exame de Acesso — inscrições abertas»; o número de pessoas a procurar aconselhamento para repetir o ano cresceu mais do dobro face ao ano anterior. A ironia é que Taiwan levou 30 anos de reforma educativa a tentar livrar-se do «um exame decide a vida inteira», mas a primeira turma do novo currículo voltou ao pânico da repetição. Dos 100 mil repetentes da Rua Nanyang em 1981, aos meros 2 500 em 2023, até ao renascimento das turmas de repetição em 2022 — por trás deste ciclo está a dialética repetida de uma ilha sobre a definição de «equidade».
+> **Resumo em 30 segundos:** Em 1981, a área de Nanyang Street e Roosevelt Road, em Taipé, abrigava 48 cursos preparatórios para admissão universitária e mais de 100.000 estudantes; em 2023, restaram apenas 3, com cerca de 2.500 pessoas. Taiwan gastou 30 anos reformando a educação para abolir o "um exame define por toda a vida", mas os cursos preparatórios não desapareceram: cinco anos após a implementação do Novo Currículo, as escolas particulares em todo o país aumentaram em 960. Por trás deste ciclo está um debate repetido de uma ilha sobre a definição de "equidade".
 
-Em maio de 2022, após a divulgação dos resultados da primeira edição do Exame de Acesso (學測) ao abrigo do novo currículo, voltaram a aparecer junto à estação de Taipé cartazes há muito não vistos — «Turmas de repetição para o Exame de Acesso — inscrições abertas». O setor do ensino de reforço reportou que o número de pessoas a procurar aconselhamento para repetir o ano cresceu mais de 100 % face ao ano anterior.
+Em novembro de 2023, repórteres da CCTV visitaram Nanyang Street, em Taipé. Nesta rua que foi chamada de "Rua dos Cursos Preparatórios" por décadas, ainda se podem ver placas de cursos preparatórios para concursos públicos, mas há mais lojas de bebidas geladas e pequenos restaurantes. A Associação de Educação Complementar estima que restam apenas 3 cursos preparatórios universitários em toda a rua[^1].
 
-Este cenário é, para muitos taiwaneses, simultaneamente familiar e absurdo. Afinal, passámos 30 anos a tentar libertar-nos do sistema de exame unificado; por que razão os estudantes regressam voluntariamente ao «inferno da repetição»?
+O desaparecimento dos cursos preparatórios parece ser uma vitória da reforma educacional. No entanto, nos cinco anos após a implementação do Novo Currículo, as escolas particulares em todo o país aumentaram em 960[^2]. Por que os cursos preparatórios não desapareceram junto com a tentativa de abandonar o sistema de exames unificados?
 
-A resposta esconde-se numa experiência insular sobre a «equidade».
+A resposta está contida em um experimento social sobre "equidade".
 
-## A era do exame unificado: a lei de ferro de «um exame decide a vida» (1954-2002)
+## A Era dos Exames Unificados: O Dogma Imutável (1954-2002)
 
-Em 1954, Taiwan instituiu o sistema de admissão conjunta ao ensino superior (大學入學聯合招生). Todos os candidatos faziam o exame no mesmo dia e eram distribuídos por universidades e cursos consoante a pontuação. Este sistema vigorou durante 48 anos, moldando as memórias de juventude de duas gerações do pós-guerra em Taiwan.
+Em 1954, Taiwan estabeleceu o Sistema de Admissão Universitária Unificada. Todos os candidatos faziam o exame no mesmo dia e eram alocados em diferentes departamentos universitários com base na pontuação. Este sistema funcionou por 48 anos, moldando as memórias juvenis das duas gerações pós-guerra em Taiwan.
 
-A lógica do exame unificado era extremamente simples: equidade é um padrão unificado, oportunidade é a ordem das notas. Independentemente de vires do distrito de Xinyi, em Taipé, ou de uma zona remota de Pingtung, sentavas-te na mesma sala, respondias à mesma prova e, ao terminar, sabias já que universidade e curso poderias frequentar. Não havia portas traseiras, não havia cunha, apenas a competição entre esforço e talento.
+A lógica dos Exames Unificados era extremamente simples: equidade significava um padrão unificado; oportunidade significava a alta ou baixa da pontuação. Independentemente de você ser de Xinyi District, Taipé, ou de uma área rural de Pingtung, sentado na mesma sala de prova, com a mesma folha de respostas, ao terminar o exame, você sabia qual escola poderia frequentar. Não havia "portas dos fundos", nem favores; apenas um confronto entre esforço e talento.
 
-Mas esta «equidade» cobrou um preço terrível. A _Taiwan Panorama Magazine_ (台灣光華雜誌) noticiou em 1996 que o sistema «avalia a capacidade dos candidatos apenas através de poucas disciplinas», fazendo com que os estudantes «valorizem a educação intelectual em detrimento da moral, física, colectiva e estética», «perdendo a liberdade espiritual individual». Mais crucial ainda, gerou a cultura única de escolas de reforço (補習班) de Taiwan.
+Mas essa "equidade" teve um custo terrível. Em 1996, a revista _Taiwan Guanghua_ citou um relatório consultivo do Comitê de Revisão da Reforma Educacional da Administração para dizer que os Exames Unificados "avaliam a capacidade dos candidatos apenas por poucas matérias", e que o "um exame define por toda a vida" fazia com que os alunos "priorizassem o conhecimento técnico, negligenciassem as artes e ciências sociais, e perdessem a liberdade espiritual individual"[^3]. Mais crucialmente, este sistema deu origem à cultura única dos cursos preparatórios em Taiwan.
 
-### A lenda da Rua Nanyang: o exército de 100 mil repetentes
+### A Lenda de Nanyang Street: O Exército de 100 Mil Candidatos
 
-Em 1981, a Rua Nanyang e a Rua Roosevelt, em Taipé, concentravam 48 escolas de repetição para ingresso na universidade, com mais de 100 mil alunos. Num Taiwan com menos de 20 milhões de habitantes, isso significava que uma em cada 200 pessoas estava a repetir o ano.
+De acordo com estimativas da Associação de Educação Complementar de Taipé, em 1981, a área de Nanyang Street e Roosevelt Road abrigava 48 cursos preparatórios para admissão universitária, com mais de 100.000 estudantes[^1]. Este número, no contexto da população de Taiwan inferior a 20 milhões na época, significava que havia um candidato em cada 200 pessoas fazendo o exame.
 
-> **📝 Nota do curador**
-> O que significa o conceito de 100 mil repetentes? Equivale à população inteira do distrito de Tamsui a convergir hoje para as duas ruas junto à estação de Taipé. Todos os dias às 8 da manhã, a Rua Nanyang ficava mais congestionada que o distrito de Xinyi.
+> **📝 Nota do Curador**
+> O conceito de 100 mil candidatos é comparável à população de metade da área de Tamsui hoje[^4], todos convergindo para as duas ruas perto da Estação de Taipé.
 
-A Rua Nanyang tornou-se a «rua santa» das escolas de reforço porque, nos anos 60 e 70, os professores famosos de repetição estavam todos em Taipé; os alunos do centro e sul da ilha tinham de subir ao norte e alugar quartos para estudar. Somado à proximidade da estação de Taipé e à facilidade de transporte, formou-se a «rota de peregrinação» dos repetentes: apanhar o comboio → descer na estação de Taipé → correr para a Rua Nanyang a comparar escolas → alugar quarto por um ano → voltar a fazer o exame.
+O motivo pelo qual Nanyang Street se tornou um local sagrado dos cursos preparatórios é que, nas décadas de 60 e 70, os mestres renomados em preparação para exames estavam em Taipé, forçando estudantes do centro e sul de Taiwan a viajar para o norte para alugar quartos e estudar. Além disso, por estar perto da Estação de Taipé, era conveniente para o transporte, formando uma "rota de peregrinação" dos candidatos: pegar trem → descer na Estação de Taipé → ir direto aos cursos preparatórios em Nanyang Street → alugar um quarto por um ano → fazer outro exame.
 
-O secretário-geral da Associação de Escolas de Reforço de Taipé, Chang Hao-jan (張浩然), recorda: «Naquela época, a Rua Nanyang tinha 40 e tal escolas, uma ao lado da outra, e os alunos podiam comparar.» A rua inteira exalava um cheiro misto de juventude e ansiedade — lojas de marmitas, aluguer de livros, fotocopiadoras, tudo girando em torno de um único objectivo: no próximo ano entrar numa boa universidade.
+Zhang Hao-ran, secretário geral da Associação de Educação Complementar de Taipé, recorda: "Naquela época, havia mais de 40 cursos preparatórios em Nanyang Street, um seguindo o outro, e os estudantes podiam comparar as aulas"[^1]. Toda a rua cheirava uma mistura de juventude e ansiedade — lanchonetes, livrarias de aluguel, lojas de fotocópia, tudo girando em torno de um objetivo: ser aceito em uma boa universidade no ano seguinte.
 
-## Arranque da reforma: o ideal da admissão diversificada (1994-2019)
+## O Início da Reforma Educacional: O Ideal da Admissão Diversificada (1994-2019)
 
-Em 1994, a reforma educativa começou a impulsionar a «admissão diversificada». Recomendação e seleção, admissão por candidatura, Teste de Capacidade Escolar (學科能力測驗, 學測), Exame de Designação de Disciplinas para Ingresso na Universidade (大學入學指定科目考試, 指考) — múltiplos canais para que os estudantes deixassem de ter uma única oportunidade.
+Em 1994, a reforma educacional começou a promover a "Admissão Diversificada". Seleção por Recomendação, Admissão por Candidatura, Exame de Capacidade Disciplinar (Shuoxu), e o Exame de Matérias Específicas para Admissão Universitária (Zhikai) — vários caminhos permitiram que os alunos não tivessem apenas uma chance.
 
-O cerne desta reforma era: cada criança tem talentos diferentes, não se deve definir o seu valor apenas pela nota de um exame. Quem sabe pintar candidata-se a Belas Artes, quem joga bola segue a via desportiva, quem programa mostra o seu portefólio. Uma sociedade mais justa deve dar um palco a cada tipo de talento.
+O cerne deste ideal reformista era: cada criança tem talentos diferentes e seu valor não deveria ser definido apenas por notas de exames. Quem gostava de desenhar aplicava para o departamento de arte, quem jogava esportes seguia a admissão esportiva, e quem programava demonstrava sua capacidade através dos documentos de candidatura. Uma sociedade mais justa deveria oferecer um palco para cada tipo de talento.
 
-Nos dados, a reforma funcionou de facto.
+Os dados mostram que a reforma foi eficaz.
 
-| Era do exame unificado (1981)                        | Era da admissão diversificada (2023)                 |
-| ---------------------------------------------------- | ---------------------------------------------------- |
-| Rua Nanyang: 48 escolas de repetição, 100 mil alunos | Restam 3 escolas de repetição, cerca de 2 500 alunos |
+| Era dos Exames Unificados (1981)                              | Era da Admissão Diversificada (2023)                               |
+| :------------------------------------------------------------ | :----------------------------------------------------------------- |
+| 48 cursos preparatórios em Nanyang Street, 100 mil estudantes | Apenas 3 cursos preparatórios restantes, cerca de 2.500 estudantes |
 
-Em 40 anos, os repetentes caíram 97,5 %; na Rua Nanyang há hoje mais lojas de _bubble tea_ que escolas de reforço. Parece que Taiwan saiu com sucesso do «inferno do exame unificado» para o «paraíso da diversidade».
+Os candidatos que fizeram exames repetidos diminuíram em 97,5% ao longo de 40 anos; as lojas de bebidas geladas e pequenos restaurantes em Nanyang Street são mais numerosas do que os cursos preparatórios[^1]. Parece que Taiwan conseguiu passar da "Gehenna dos Exames Unificados" para o "Paraíso da Diversidade".
 
 Mas a realidade é mais complexa.
 
-## O pânico da repetição na geração do novo currículo: a diversidade transformou-se em fardo múltiplo
+## A Geração do Novo Currículo: Da Diversidade ao Sobrecarga Múltipla
 
-Em 2019 entrou em vigor o novo currículo, designado «Diretrizes 108» (108課綱) ou «Currículo orientado por competências» (素養導向課綱). A sua filosofia é passar da «memorização de conhecimentos» para a «aplicação de capacidades», da «resposta padrão» para o «pensamento crítico».
+Em 2019, o Novo Currículo foi implementado, sendo chamado de "Currículo 108" ou "Currículo Orientado por Competências". Sua ideia era mudar da "memorização de conhecimento" para a "aplicação de habilidades", e do "resposta padrão" para o "pensamento crítico".
 
-O sistema do Exame de Acesso também se ajustou: de 5 disciplinas obrigatórias passou a 5 escolhe 4, aumentando a flexibilidade; introduziram-se questões mistas para testar capacidades de ordem superior; enfatizou-se a orientação por competências, avaliando não só conhecimentos mas também aplicação. Estas mudanças reflectem uma transformação fundamental da filosofia educativa.
+O sistema de Exames de Capacidade também foi ajustado: foram adicionados formatos mistos para testar habilidades de pensamento avançado; houve ênfase na orientação por competências, avaliando não apenas conhecimento, mas também aplicação. Essas mudanças refletem uma transformação fundamental da filosofia educacional.
 
-Mas em 2022, a primeira turma do novo currículo enfrentou um dilema inesperado. Os Testes por Disciplinas (分科測驗, que substituíram o 指考) não avaliavam chinês, inglês nem matemática B, o que forçou muitos cursos a recorrer novamente às notas do Exame de Acesso no canal de distribuição por exame. Resultado: o sistema desenhado para «reduzir a pressão» acabou por aumentar a carga sobre os estudantes.
+Mas em 2022, os primeiros candidatos do Novo Currículo enfrentaram um dilema inesperado. Os Exames de Matérias Específicas (que substituíram o Zhikai) não cobravam literatura chinesa, inglês ou matemática B, forçando muitas faculdades a recorrerem às notas dos Exames de Capacidade para alocação. Como resultado, o sistema, originalmente projetado para "reduzir a pressão", acabou fazendo os alunos suportarem uma pressão maior.
 
-> **⚠️ Ponto de controvérsia**
-> O meio do ensino de reforço afirma que o novo currículo é «mudar a sopa mas não o remédio»: «Enquanto a mentalidade dos pais nacionais não mudar e os recursos continuarem concentrados em certos cursos universitários de topo, a pressão de acesso dos alunos manter-se-á, antes pelo contrário, fará as escolas de reforço ganhar ainda mais.»
+> **⚠️ Ponto Controverso**
+> A diretora da Associação de Pais de Taipé, Hu Yu-shan, explicou por que os pais estudam mais: "Já que é um problema de baixa taxa de natalidade e planejamento de elite, eu estou fazendo o meu melhor para cada área; vejo o que o filho precisa e complemento"[^2].
 
-Após o Exame de Acesso de 2022, a Rua Nanyang voltou a erguer o letreiro «Turmas de repetição para o Exame de Acesso — inscrições abertas». As solicitações de aconselhamento para repetição cresceram mais do dobro face ao ano anterior. Um professor famoso do meio observou: «Muitos dos que agora vêm repetir é para entrar em cursos concorridos como Medicina ou Engenharia Informática de universidades nacionais.»
+Os exames repetidos não desapareceram, apenas se estreitaram. Mestres preparatórios disseram à CCTV em 2023 que muitos dos que estudavam agora eram para ingressar em faculdades de medicina ou ciência da computação das universidades nacionais[^1]. Em uma era onde as taxas de admissão universitária se aproximam de 100%, os exames repetidos disputam esses poucos cursos.
 
-Taiwan parece ter regressado à «juventude trágica de um exame decide a vida» da geração dos pais.
+## A Cultura dos Cursos Preparatórios: Um Sistema Educacional Paralelo que Nunca Desaparece
 
-## A cultura das escolas de reforço: o sistema educativo paralelo que nunca desaparece
+Mesmo com a diminuição do número de candidatos que fazem exames repetidos, a cultura dos cursos preparatórios em Taiwan permanece vibrante. Durante a pandemia de COVID-19, quase 2.600 cursos preparatórios fecharam no país, e eles foram lentamente reconstruídos após a crise; cinco anos após a implementação do Novo Currículo, o número total de cursos preparatórios aumentou em 293, com um aumento de 960 nos tipos literário e científico. O Ministério da Educação interpretou isso como os pais dedicando mais atenção aos estudos dos filhos devido à baixa taxa de natalidade[^2].
 
-Mesmo com a drástica redução de repetentes, a cultura de escolas de reforço em Taiwan continua pujante. Existem mais de 18 000 escolas de reforço registadas em toda a ilha, com um volume de negócios anual de 170 mil milhões de novos dólares taiwaneses, quase metade de uma TSMC.
+Este fenômeno reflete não apenas a pressão acadêmica, mas também a ansiedade profunda da sociedade taiwanesa em relação à educação. Famílias com dois salários precisam de serviços de cuidado; a admissão diversificada exige a criação de portfólios; o Currículo 108 exige desenvolvimento de competências — cada reforma cria uma nova oportunidade de negócios para os cursos preparatórios.
 
-Este fenómeno reflecte não só a pressão do acesso ao ensino superior, mas a ansiedade profunda da sociedade taiwanesa face à educação. Famílias com dois rendimentos precisam de serviços de acolhimento, a admissão diversificada exige preparação de portefólios, as Diretrizes 108 exigem cultivo de competências — cada reforma cria novas oportunidades de negócio para as escolas de reforço.
+Os cursos preparatórios modernos evoluíram para um "ecossistema educacional":
 
-As escolas de reforço modernas já evoluíram para um «ecossistema educativo»:
+- **Cursos Preparatórios de Aprendizagem**: Matemática, inglês, física e química tradicionais
+- **Cursos Preparatórios Artísticos**: Música, arte, dança, programação
+- **Cursos Preparatórios de Portfólio**: Especializados em orientação para criação de portfólios e técnicas de entrevista
+- **Cursos Preparatórios de Competências**: Que alegam desenvolver as "competências do Currículo 108"
 
-- **Escolas de reforço académico**: matemática, inglês, física, química tradicionais
-- **Escolas de reforço de talentos**: música, artes plásticas, dança, programação
-- **Escolas de reforço de portefólio**: especializadas na preparação de materiais de avaliação e técnicas de entrevista
-- **Escolas de reforço de competências**: apregoam o cultivo das «competências 108»
+Zhang Hao-ran, secretário geral da Associação de Educação Complementar de Taipé, observa que muitos cursos preparatórios agora seguem uma abordagem "tudo em um", chegando até o cuidado diário dos alunos no ensino fundamental e médio[^2]. O trabalho dos cursos preparatórios se estendeu do ensino de exames para cuidar do cotidiano das crianças.
 
-> **💡 Sabia que**
-> Marcas famosas como Fly English (飛哥英文), Jianhong Math (建宏數學), Liu Yi English (劉毅英文) têm professores-estrela cuja notoriedade muitas vezes supera a dos professores das escolas. Os seus vídeos no YouTube atingem dezenas de milhares de visualizações e têm mais seguidores que muitas celebridades.
+## Luz e Sombra dos Resultados PISA: Alto Desempenho, Mas Grande Disparidade
 
-A descrição de um aluno de escola de reforço é cirúrgica: «Os professores da escola ensinam o manual, os da escola de reforço ensinam o exame. Precisamos de dominar os dois para ter sucesso no acesso ao ensino superior.» Esta frase expõe a contradição estrutural da educação taiwanesa: a escola persegue o ideal, a escola de reforço enfrenta a realidade.
+Em avaliações internacionais, os estudantes taiwaneses realmente tiveram um desempenho excelente. Os resultados do PISA em 2022 mostraram que Taiwan ficou em 3º lugar em matemática (547 pontos), 4º lugar em ciências (537 pontos) e 5º lugar em leitura (515 pontos), todos bem acima da média da OCDE[^5]. Na rodada mais recente de 2025, os resultados foram Matemática 546, Leitura 508 e Ciências 540, sem mudanças estatisticamente significativas em comparação com 2022[^6].
 
-## Luz e sombra dos resultados PISA: excelentes mas não felizes
+O Ministério da Educação apontou que o desempenho médio dos alunos de menor status socioeconômico já é comparável à média da OCDE, e a diferença na matemática explicada pelo status socioeconômico caiu de 17,9% em 2012 para 15,7%, atribuída aos programas de apoio ao aprendizado e plataformas de ensino digital[^7]. O relatório nacional da OCDE alertou outro lado: os alunos nos quartis mais altos e mais baixos tinham uma diferença de 119 pontos em matemática, maior que a média da OCDE (93 pontos), e essa lacuna não diminuiu entre 2012 e 2022[^8].
 
-Em avaliações internacionais, os alunos taiwaneses têm desempenho de facto excelente. No PISA 2022, Taiwan obteve 547 pontos em matemática (3.º lugar global), 537 em ciências (4.º) e 515 em leitura (8.º), muito acima da média da OCDE.
+Outra narrativa comum é "alunos taiwaneses com bom desempenho, mas infelizes". O questionário PISA de 2022 não mostrou isso: 87% dos estudantes taiwaneses sentiram pertencer à escola (média da OCDE era 75%), e a taxa de insatisfação com a vida foi de 15%, menor que os 19% em 2018 e abaixo da média da OCDE de 18%[^8]. A lacuna mais clara é na motivação para aprender: na rodada de 2025, apenas 58,6% dos estudantes taiwaneses disseram gostar de aprender coisas novas na escola, contra 68,8% na média da OCDE[^6].
 
-Mais notável: os alunos de estatuto socioeconómico mais desfavorecido (cerca de 3,8 %) obtiveram 471 pontos em literacia matemática, já equiparados à média da OCDE (472 pontos). Analistas atribuem isto às medidas de «apoio à aprendizagem» e ao impulso da aprendizagem digital, que reduziram eficazmente a disparidade urbano-rural.
+Isso apresenta outro desafio da educação em Taiwan: como fazer os alunos quererem estudar enquanto se mantém o desempenho acadêmico?
 
-Mas o PISA também revela o outro lado da educação taiwanesa: motivação de aprendizagem insuficiente, pensamento criativo mais fraco, ansiedade de aprendizagem elevada. Os alunos têm alto rendimento académico, mas índice de felicidade relativamente baixo.
+## A Realidade Dupla da Educação Técnica e Profissional
 
-> **📊 Fonte de dados**
-> O relatório PISA 2022 mostra que a «satisfação com a vida» dos alunos taiwaneses de 15 anos é de 6,7 pontos (máximo 10), abaixo da média da OCDE de 7,3. Resultados brilhantes, mas o preço é a felicidade da adolescência.
+O sistema de educação técnica e profissional em Taiwan é bastante completo, abrangendo escolas técnicas, faculdades especializadas e universidades de tecnologia. No entanto, o número de estudantes que escolhem a área técnica está diminuindo: entre os formandos do ensino médio técnico no ano acadêmico 111, a área técnica representou 46,4%, contra 53,9% quatro anos antes[^9]. Em competições internacionais de habilidades (WorldSkills Competition), Taiwan teve um desempenho brilhante: na competição especial realizada em 15 países em 2022, conquistaram 6 Ouro, 13 Prata e 6 Bronze, ficando em 3º lugar entre os 57 países participantes; no evento de Lyon em 2024, 58 participantes trouxeram 2 Ouro, 3 Prata, 10 Bronze e 28 prêmios[^10].
 
-Esta contradição expõe o desafio fundamental da educação taiwanesa: como manter a eficácia da aprendizagem permitindo que os alunos aprendam com mais felicidade?
+> **✦** A característica da educação técnica em Taiwan é "aprender fazendo" e "cooperação indústria-academia": os estudantes não apenas participam de cursos teóricos, mas também de estágios, projetos especiais e testes de habilidades; muitas universidades de tecnologia estabeleceram parcerias com a indústria.
 
-## A realidade de dois lados da educação técnico-profissional
+Mas a educação técnica ainda enfrenta desafios conceituais. A crença de que "tudo é inferior, exceto o estudo" está profundamente enraizada, e a educação técnica é frequentemente vista como uma "escolha secundária" em relação à educação acadêmica. O governo promoveu políticas de "reconstrução da educação técnica" para tentar reverter esse estereótipo, mas a mudança dos valores sociais leva tempo.
 
-O sistema de educação técnico-profissional de Taiwan é bastante completo, abrangendo escolas secundárias profissionais, colégios juniores e universidades de ciência e tecnologia; os alunos técnico-profissionais representam 60 % do total do ensino secundário. Em competições internacionais de competências (WorldSkills Competition), Taiwan tem brilhado — na edição de 2024 em Lyon, França, conquistou 6 ouros, 13 pratas e 6 bronzes, ficando em 3.º lugar entre 57 países participantes.
+## Formação de Professores: Por Trás da Corrida por Ser Professor
 
-> **✦** «A característica da educação técnico-profissional de Taiwan é 'aprender fazendo' e 'cooperação escola-empresa' — além dos cursos teóricos, os alunos participam em estágios, projectos especiais, certificações de competências. Muitas universidades de ciência e tecnologia mantêm estreita colaboração com o setor produtivo, e os alunos saem empregados.»
+O status social dos professores em Taiwan é alto e os salários são estáveis, sendo uma profissão almejada há muitos anos pelos jovens. No concurso para licença de professor em 2024 (ano acadêmico 113), 10.377 pessoas se inscreveram, e das 9.620 que eram qualificadas e compareceram ao exame, 5.022 foram aprovadas, com uma taxa de aprovação de 52,2%, quase metade não passou[^11].
 
-Mas a educação técnico-profissional ainda enfrenta o desafio das percepções sociais. A ideia de que «todas as profissões são inferiores, só os estudos são nobres» está profundamente enraizada; a via técnico-profissional é muitas vezes vista como «escolha de segunda» da educação académica. O governo promove a política de «reconstrução técnico-profissional» para inverter este estereótipo, mas a mudança de valores sociais leva tempo.
+Este nível de competição reflete a admiração da sociedade taiwanesa pela profissão docente, mas também expõe problemas estruturais: a baixa taxa de natalidade leva à diminuição da demanda por professores, a reforma educacional aumenta a carga de trabalho e as expectativas dos pais elevam a pressão profissional.
 
-## Formação de docentes: por trás da corrida à profissão
+Após passar no exame de certificação, há ainda o processo seletivo para professores; muitos formandos em formação docente passam vários anos circulando entre aulas substitutas, estágios e exames antes de conseguir se estabelecer na linha de frente da educação.
 
-Os professores em Taiwan gozam de alto estatuto social, salários estáveis, sendo uma profissão cobiçada por muitos jovens. Em 2024, o Exame de Qualificação Docente (教檢) teve 10 377 inscritos, 5 022 aprovados, taxa de aprovação de 52,2 % — o que equivale a um em cada dois formandos não obter a qualificação.
+## A Faca de Dois Gumes do Envolvimento dos Pais
 
-Esta competitividade reflecte o prestígio da docência na sociedade taiwanesa, mas expõe também problemas estruturais: a natalidade em queda reduz a procura de professores, a reforma educativa aumenta a carga de trabalho, a expectativa dos pais eleva a pressão profissional.
+O envolvimento dos pais taiwaneses com a educação é raro no mundo, variando desde reuniões de pais até voluntariado educacional, passando por educação parental e acompanhamento de estudos. Mas essa "alta atenção" também pode se tornar "interferência excessiva".
 
-Taiwan tem 46 universidades com centros de formação docente, formando cerca de 10 mil formandos por ano, mas a proporção que efetivamente ingressa como professor titular é inferior a 30 %. Muitos formandos passam anos a alternar entre substituições, estágios e exames antes de se fixarem no terreno educativo.
+A escolha educacional é o tópico mais preocupante para os pais taiwaneses. O sistema de área escolar faz com que os preços dos imóveis ao redor das escolas estelares disparem, as escolas privadas oferecem educação diferenciada e a educação experimental satisfaz necessidades individuais — cada escolha reflete a busca ansiosa dos pais por uma educação de qualidade.
 
-## A espada de dois gumes da participação dos pais
+Mas a escolha educacional também agrava a desigualdade educacional. Famílias com boa condição econômica podem escolher escolas privadas ou mudar-se para áreas escolares estelares, enquanto famílias vulneráveis só podem aceitar os recursos existentes. Como garantir a liberdade de escolha e assegurar a equidade educacional é um problema eterno na formulação de políticas.
 
-A participação dos pais taiwaneses na educação é rara a nível global, desde associações de pais a voluntariado educativo, da educação parental ao acompanhamento da aprendizagem. Mas este «alto envolvimento» pode tornar-se «interferência excessiva».
+## Lições da Educação Digital durante a COVID
 
-O direito de escolha educativa é a maior preocupação dos pais. O sistema de distrito escolar faz disparar os preços das casas junto a escolas de renome, as escolas privadas oferecem educação diferenciada, a educação experimental satisfaz necessidades individuais — cada escolha reflecte a busca ansiosa dos pais por educação de qualidade.
+Durante a pandemia de COVID-19, a capacidade de ensino online de Taiwan atraiu atenção internacional. O Ministério da Educação investiu pesadamente no desenvolvimento de ambientes de aprendizagem digitais, com cada escola tendo uma sala de informática e Wi-Fi, infraestruturas que desempenharam um papel crucial durante a crise.
 
-Mas a liberdade de escolha também agrava a desigualdade educativa. Famílias com melhores condições económicas podem optar por escolas privadas ou mudar-se para distritos de escolas de topo; as famílias desfavorecidas só aceitam os recursos existentes. Como garantir a equidade educativa salvaguardando a liberdade de escolha é o eterno dilema dos decisores políticos.
+O Novo Currículo de 2019 listou "tecnologia" como obrigatória para o ensino médio e secundário, e a educação em programação evoluiu do Scratch (programação visual) ao Python (programação textual), desenvolvendo o pensamento computacional dos alunos. A educação em IA também se tornou um novo foco; o Ministério da Educação subsidia cursos relacionados à inteligência artificial em escolas primárias e secundárias, promovendo a enraizamento da educação em IA.
 
-## A lição da COVID para a educação digital
+Mas o aprendizado digital também expôs a disparidade digital: estudantes de áreas rurais carecem de equipamentos, famílias vulneráveis não têm internet estável, e a diferença entre cidades e áreas rurais pode aumentar na era digital.
 
-Durante a pandemia, a capacidade de ensino online de Taiwan atraiu atenção internacional. O Ministério da Educação investira anteriormente grandes verbas na construção de ambientes de aprendizagem digital; todas as escolas dispõem de salas de informática e rede sem fios, infraestruturas que se revelaram cruciais durante a pandemia.
+## A Escolha Alternativa da Educação Experimental
 
-As Diretrizes 108 de 2019 incluíram «Tecnologia» como disciplina obrigatória no ensino básico e secundário; a educação em programação vai do Scratch (programação visual) ao Python (programação textual), cultivando o pensamento computacional. A educação em IA tornou-se novo foco; o Ministério promove o «Plano de Enraizamento da Educação em IA», preparando os alunos para a era da IA.
+A educação experimental em Taiwan floresce: no ano acadêmico 112 (2023), havia 132 escolas que implementaram projetos de educação experimental; havia 11.360 estudantes não escolares (autoestudo); e um total de quase 26.000 alunos participaram da educação experimental, aumentando mais de 10.000 em cinco anos, apesar da baixa taxa de natalidade[^9]. A educação Waldorf, a educação Montessori e os grupos de autoestudo oferecem opções diversas além da educação tradicional.
 
-Mas a aprendizagem digital também expôs o fosso digital: alunos de zonas remotas carecem de equipamento, famílias desfavorecidas não têm rede estável; na era digital, a disparidade urbano-rural pode antes alargar-se.
+Mas a educação experimental também enfrenta desafios: qualidade irregular, insuficiência na formação de professores e dificuldades na transição para o ensino superior. O governo estabeleceu as "Três Leis da Educação Experimental" para criar um mecanismo regulatório, garantindo a qualidade, mas encontrar um equilíbrio entre inovação e qualidade continua sendo um desafio contínuo.
 
-## A alternativa da educação experimental
+## Aprendizagem ao Longo da Vida e Educação de Adultos
 
-A educação experimental em Taiwan tem florescido; até 2023 contavam-se 150 escolas experimentais e 8 000 autodidatas. Educação Waldorf, Montessori, grupos de autoaprendizagem oferecem opções diversificadas fora do mainstream.
+O clima de aprendizado ao longo da vida em Taiwan é proeminente; universidades comunitárias, universidades para idosos, treinamento profissional e cursos online permitem que as pessoas continuem a aprender e crescer. Quase 90 universidades comunitárias em todo o país alcançam centenas de milhares de alunos por ano, com cursos que vão desde conhecimento acadêmico até habilidades de vida, atendendo a diferentes necessidades de aprendizado.
 
-Mas a educação experimental também enfrenta desafios: qualidade desigual, formação docente insuficiente, dificuldade de articulação com o acesso ao ensino superior. O governo promulgou as «Três Leis da Educação Experimental» (實驗教育三法) criando mecanismos de regulação para assegurar a qualidade, mas como equilibrar inovação e qualidade permanece um desafio contínuo.
+As plataformas de aprendizado digital também se desenvolveram rapidamente. A demanda por cursos online aumentou drasticamente durante a pandemia, impulsionando o crescimento da indústria de aprendizado digital. Plataformas educacionais taiwanesas como Hahow e PressPlay Academy oferecem conteúdo diversificado, transformando o slogan "aprender até ficar velho" em realidade.
 
-> **📝 Nota do curador**
-> Um diretor de escola experimental disse: «A educação experimental não é fugir da educação mainstream, mas explorar melhores possibilidades educativas. Queremos formar crianças felizes e capazes.» Esta frase aponta o dilema central da educação taiwanesa: notas e felicidade, será que realmente não podem coexistir?
+## Da Gehenna dos Exames Unificados ao Labirinto da Diversidade: O Que Aprendemos?
 
-## Aprendizagem ao longo da vida e educação de adultos
+Voltando à pergunta do início: por que Taiwan gastou 30 anos reformando a educação, fazendo com que os cursos preparatórios desaparecessem, mas não as escolas particulares?
 
-Taiwan tem uma cultura vigorosa de aprendizagem ao longo da vida; universidades comunitárias, universidades seniores, formação profissional, cursos online permitem aos cidadãos continuar a aprender e crescer. As 90 universidades comunitárias servem anualmente 400 mil aprendentes, com cursos que vão do conhecimento académico a competências práticas, satisfazendo necessidades diversas.
+A resposta é que subestimamos a complexidade da definição de "equidade". A equidade na era dos Exames Unificados era "igualdade de oportunidades" — todos faziam o mesmo exame. A equidade na era da Admissão Diversificada é "desenvolvimento de aptidões" — dar uma chance para cada talento. Mas, na prática, a Admissão Diversificada pode ter expandido as disparidades de classe: famílias ricas podem investir mais recursos para preparar-se para vários caminhos, enquanto famílias pobres só podem competir com notas.
 
-As plataformas de aprendizagem digital também se desenvolveram rapidamente. Durante a pandemia, a procura de cursos online disparou, impulsionando o crescimento da indústria de aprendizagem digital. Plataformas taiwanesas como Hahow e PressPlay Academy oferecem conteúdos diversificados, transformando «aprender até envelhecer» de lema em possibilidade.
+Do exército de 100 mil candidatos em Nanyang Street aos 2.500 em 2023, e às 960 escolas particulares que surgiram após a implementação do Novo Currículo, este ciclo nos ensina que a reforma educacional não é apenas um problema de design de sistema, mas um desafio fundamental dos valores sociais. Enquanto o mito de "boa universidade" e "departamento popular" existir, enquanto a sociedade mantiver uma definição estreita de sucesso, qualquer sistema educacional pode se tornar um novo "campo de competição".
 
-## Do inferno do exame unificado ao labirinto da diversidade: o que aprendemos?
+> **✦** "A verdadeira equidade educacional talvez não seja dar a cada criança o mesmo ponto de partida, mas sim permitir que cada criança encontre sua própria pista — mesmo que o destino dessa pista seja diferente do dos outros."
 
-Voltamos à pergunta inicial: por que razão, após 30 anos de reforma, os alunos voltaram ao pânico da repetição?
-
-A resposta é que subestimámos a complexidade da definição de «equidade». Na era do exame unificado, equidade era «igualdade de oportunidades» — todos fazem a mesma prova. Na era da admissão diversificada, equidade é «desenvolvimento adequado» — dar oportunidade a cada talento. Mas na prática, a admissão diversificada pode antes alargar a clivagem de classe: famílias abastadas podem investir mais recursos na preparação de múltiplos canais, famílias sem recursos só podem apostar nas notas.
-
-Dos 100 mil repetentes da Rua Nanyang aos 2 500 de hoje, até ao renascimento das turmas de repetição em 2022 — este ciclo diz-nos que a reforma educativa não é apenas problema de desenho institucional, mas desafio fundamental de valores sociais. Enquanto persistir o mito das «boas universidades» e dos «cursos concorridos», enquanto a definição social de sucesso permanecer estreita, qualquer sistema educativo pode transformar-se numa nova «arena de competição».
-
-> **✦** «A verdadeira equidade educativa talvez não seja pôr todas as crianças na mesma linha de partida, mas deixar que cada criança encontre a sua própria pista — mesmo que o fim dessa pista seja diferente do dos outros.»
-
-A experiência educativa de Taiwan prossegue. Cada reforma é uma dialética social, cada geração de alunos é participante desta experiência. Continuamos à procura desse sistema que concilie equidade, eficiência e felicidade — se é que tal sistema existe.
+O experimento educacional de Taiwan continua. Cada reforma é um debate social, e cada geração de estudantes é participante deste experimento. Ainda estamos procurando por aquele sistema educacional que concilie equidade, eficiência e felicidade — se tal sistema realmente existir.
 
 ## Referências
 
-- [A luta de puxar a corda do exame unificado — romper ou não romper, eis a questão de milhões — Taiwan Panorama Magazine](https://www.taiwan-panorama.com/Articles/Details?Guid=adb5c601-15e9-44b8-b55a-f0eb892a995d&CatId=11)
-- [Education GPS - Chinese Taipei - Student performance (PISA 2022)](https://gpseducation.oecd.org/CountryProfile?primaryCountry=TWN&treshold=10&topic=PI)
-- [Chinese Taipei Won 2 Gold, 3 Silver and 10 Bronze at the 2024 WorldSkills Competition](https://wsc.wda.gov.tw/News_Content.aspx?n=30258915F57EB2DC&sms=3E86285D7FF55C61&s=958C7DDCCA35FB73)
+[^1]: [Redução de 40 vezes dos candidatos a exames repetidos em 40 anos: Nanyang Street não é mais o mesmo](https://news.pts.org.tw/article/666505) — CCTV News Network, 2023-11-13; Estimação da Associação de Educação Complementar: 48 cursos preparatórios e mais de 100.000 pessoas em Nanyang Street e Roosevelt Road em 1981, hoje 3 e cerca de 2.500, com entrevistas a Zhang Hao-ran e mestres preparatórios.
+
+[^2]: [Aumento de 960 escolas particulares após 5 anos do Novo Currículo; Ministério da Educação: Pais mais dedicados devido à baixa taxa de natalidade](https://news.pts.org.tw/article/718934) — CCTV News Network, 2024-10-11; Quase 2.600 fecharam durante a pandemia, 293 aumentaram no país após o Novo Currículo, e 960 nos tipos literário e científico, com entrevistas a Hu Yu-shan e Zhang Hao-ran.
+
+[^3]: [A Batalha dos Exames Unificados — A Dificuldade de Quebrar ou Manter](https://www.taiwan-panorama.com/Articles/Details?Guid=adb5c601-15e9-44b8-b55a-f0eb892a995d&CatId=11) — Revista Taiwan Guanghua, dezembro de 1996; Citação do primeiro relatório consultivo do Comitê de Revisão da Reforma Educacional sobre os Exames Unificados.
+
+[^4]: [Quem lucra com o bônus populacional do círculo Baishang-Beibei? Tamsui cresceu em 3,6%](https://money.udn.com/money/story/5621/9259908) — Economic Daily, 12-01-2026; População total de Tamsui em dezembro de 2025 é de 208.000.
+
+[^5]: [Resultados do PISA divulgados: Média dos países da OCDE retrocede, Taiwan cresce contra a maré](https://udn.com/news/story/6885/7620400) — United News Network, 05-12-2023; Matemática em 3º lugar, Leitura em 5º e Ciências em 4º lugar em relação à média da OCDE.
+
+[^6]: [Education GPS — Chinese Taipei: Desempenho dos estudantes (PISA 2025)](https://gpseducation.oecd.org/CountryProfile?primaryCountry=TWN&treshold=10&topic=PI) — OECD; Matemática 546, Leitura 508, Ciências 540 em 2025, sem mudanças significativas em relação a 2022; 58,6% dos alunos gostam de aprender coisas novas na escola (média da OCDE é 68,8%).
+
+[^7]: [Resultados do PISA Taiwan 2022 divulgados](https://www.1111.com.tw/news/jobns/154156) — Transcrição do comunicado de imprensa do Ministério da Educação pelo 1111 Industry and Commerce News Network, 07-12-2023; A diferença explicada pelo status socioeconômico caiu de 17,9% para 15,7%, e o desempenho médio dos alunos mais vulneráveis é comparável à média da OCDE.
+
+[^8]: [Resultados PISA 2022 (Volume I e II) — Notas do País: Chinese Taipei](https://www.oecd.org/en/publications/pisa-2022-results-volume-i-and-ii-country-notes_ed6fbcc5-en/chinese-taipei_ebda1f30-en.html) — OECD; A diferença em matemática entre os 25% mais ricos e os 25% mais pobres é de 119 pontos (a média da OCDE é 93), e essa lacuna não diminuiu entre 2012 e 2022; 87% dos alunos têm um senso de pertencimento escolar, e 15% estão insatisfeitos com a vida (a média da OCDE é 18%).
+
+[^9]: [Panorama do desenvolvimento profissional no ano acadêmico 112, educação em áreas remotas, educação experimental e taxa de frequência](https://stats.moe.gov.tw/files/analysis/113professional.pdf) — Departamento de Estatísticas Educacionais; A área técnica representou 46,4% dos formandos do ensino médio técnico no ano acadêmico 111 (53,9% no ano acadêmico 107); em 2023, havia 132 escolas experimentais e 11.360 estudantes não escolares.
+
+[^10]: [Chinese Taipei Conquista 2 Ouro, 3 Prata e 10 Bronze na Competição Mundial de Habilidades de 2024](https://wsc.wda.gov.tw/News_Content.aspx?n=30258915F57EB2DC&sms=3E86285D7FF55C61&s=958C7DDCCA35FB73) — Website da Agência Nacional do Desenvolvimento de Mão de Obra; Na competição especial de 2022, foram conquistados 6 Ouro, 13 Prata e 6 Bronze em 57 países, ficando em 3º lugar; no evento de Lyon em 2024, foram ganhos 2 Ouro, 3 Prata, 10 Bronze e 28 prêmios.
+
+[^11]: [Taxa de aprovação do concurso para licença de professor em 113 é de 52%, com 5.022 pessoas obtendo o bilhete de estágio](https://flipedu.parenting.com.tw/article/009426) — Pintsia Tianxia Inverte a Educação, 29-07-2024; Citando o Departamento de Formação Docente e Educação Artística do Ministério da Educação: 10.377 inscritos, 9.620 qualificados e presentes, 5.022 aprovados, taxa de aprovação de 52,2%.
