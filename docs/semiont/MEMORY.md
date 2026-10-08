@@ -344,3 +344,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-10-09 | 055825-twmd-embeddings-nightly | 例行重建：13 語 14,483 向量 0 fail，verify PASS，`a1bd0b83d`；diff 對得上十二篇 zh 巡邏修正與 121 份譯文，de 因 #1801 多出楊德昌 | 索引每天的變動量現在由巡邏節奏決定 | [→](memory/2026-10-09-055825-twmd-embeddings-nightly.md) |
 | 2026-10-09 | 060340-twmd-data-refresh-am | 14 步全過、0 stale；build-perf 七日平均只涵蓋 0.8 天（deploy 30 筆裡 24 筆被取消），改查成功 run 後 7.5 天；德文多一篇是〈楊德昌〉兩份譯本 | 印出 coverage 不等於有人在看 coverage | [→](memory/2026-10-09-060340-twmd-data-refresh-am.md) |
 | 2026-10-09 | 064342-twmd-spore-harvest-am | 窗口無孢子第二班：回覆分頁仍只有已回過的 #29 一列；全部分頁新增按讚、追蹤與一則 @mojinghuang 引用轉發「敬佩」，E 桶 D+150 不回，合法空場 | 帶文字的列不一定是回覆，看連結作者路徑 | [→](memory/2026-10-09-064342-twmd-spore-harvest-am.md) |
+| 2026-10-09 | 071619-twmd-feedback-triage | 零回報第十四輪，兩道對賬 88/88 與 87/88；核上游佇列參照這次核出它是對的，順線追到「到期誰執行」的最後一環是已死六天的週班桶 3 | 收穫要放在動作上不是結論上；週班死一次等七天才自證，沉默跟正常一樣久 | [→](memory/2026-10-09-071619-twmd-feedback-triage.md) |
