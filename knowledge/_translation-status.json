@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-08T17:37:01+08:00",
-    "zhCommitHead": "fee03c2a8",
+    "lastUpdated": "2026-10-08T18:01:56+08:00",
+    "zhCommitHead": "b829a08ec",
     "totalZh": 1125,
     "activeLanguages": [
       "en",
@@ -52,8 +52,8 @@
       },
       "fr": {
         "total_zh": 1125,
-        "fresh": 1124,
-        "stale": 1,
+        "fresh": 1125,
+        "stale": 0,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -154150,8 +154150,8 @@
           "sourceContentHash": "sha256:d09fcb3d4fd0c37a",
           "sourceBodyHash": "sha256:2a3a16840af180a4",
           "translatedAt": "2026-10-08T15:35:35+08:00",
-          "translationLastCommit": "03c964a5",
-          "translationLastModified": "2026-09-08T05:28:51+08:00",
+          "translationLastCommit": "b829a08e",
+          "translationLastModified": "2026-10-08T17:37:01+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "bytes": 31206,
@@ -158980,20 +158980,18 @@
         "fr": {
           "path": "fr/Food/taiwan-food-overview.md",
           "translatedFrom": "Food/台灣美食總覽.md",
-          "sourceCommitSha": "53dd93dd8",
-          "sourceContentHash": "sha256:4e63535e7555a67e",
-          "sourceBodyHash": "sha256:607f80fde520e7fc",
-          "translatedAt": "2026-07-26T03:41:21+08:00",
+          "sourceCommitSha": "c4bb5dc71",
+          "sourceContentHash": "sha256:1ab18bf6c6736ca9",
+          "sourceBodyHash": "sha256:d8ec20e1d4812ac6",
+          "translatedAt": "2026-10-08T09:37:32.796209+00:00",
           "translationLastCommit": "ca70572d",
           "translationLastModified": "2026-09-28T06:40:58+08:00",
           "inferred": false,
           "footnoteDefs": 70,
-          "bytes": 83081,
+          "bytes": 83907,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Food/taiwan-food-overview.md",
