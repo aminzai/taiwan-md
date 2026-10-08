@@ -1,6 +1,6 @@
 ---
-title: "Recursos de sites oficiais da Taiwan: Do milagre de 30 anos da 'forte nação' do governo digital: dos 25 sites"
-description: 'Em 1996, a Taiwan, para participar da Feira Mundial da Internet, estabeleceu os primeiros sites oficiais governamentais. Hoje, 30 anos depois, esta ilha tornou-se o padrão global do governo digital — da declaração de imposto online às portais de entrada únicas, da abertura de dados ao banco de dados de treinamento de IA, explore como a Taiwan escreveu o mito da transformação digital com seus sites oficiais.'
+title: 'Recursos Oficiais de Taiwan: O Milagre de 30 Anos, De 25 Sites a uma Potência em Governo Digital'
+description: 'Em meados de 1995, o Conselho Executivo decidiu participar da Expo Mundial de Internet do ano seguinte, e 25 órgãos centrais e governos locais construíram os primeiros sites governamentais. Ao longo das três décadas seguintes, Taiwan desenvolveu declaração de impostos online, troca eletrônica de documentos oficiais e plataformas abertas de dados governamentais, entrando no top dez mundial de competitividade digital do IMD em 2021. Abaixo, uma lista de sites oficiais classificada por área.'
 date: 2026-03-23
 tags:
   [
@@ -16,322 +16,336 @@ difficulty: 'beginner'
 readingTime: 12
 featured: true
 category: 'About'
-lastVerified: 2026-03-23
+lastVerified: 2026-10-08
 lastHumanReview: false
 translatedFrom: 'About/台灣官方網站資源重寫.md'
-sourceCommitSha: 'a05d24314'
-sourceContentHash: 'sha256:73ee4c24e755afd6'
-sourceBodyHash: 'sha256:7e5da6fad0f6882b'
-translatedAt: '2026-07-24T20:15:18+08:00'
+sourceCommitSha: '95e86acf9'
+sourceContentHash: 'sha256:581f0b22e2d07f66'
+sourceBodyHash: 'sha256:fbb32cc7bfad5f1c'
+translatedAt: '2026-10-08T21:01:44+08:00'
 ---
 
-# Recursos de sites oficiais da Taiwan: Do milagre de 30 anos da 'forte nação' do governo digital: dos 25 sites
+# Recursos Oficiais de Taiwan: O Milagre de 30 Anos, De 25 Sites a uma Potência em Governo Digital
 
-> **Visão geral em 30 segundos:** Em 1996, os 25 sites oficiais governamentais estabelecidos pela Taiwan para participar da Feira Mundial da Internet abriram a porta para os primeiros experimentos eletrônicos de governo na Ásia. 30 anos depois, a Taiwan possui mais de 2.000 sites governamentais, ocupando a 8ª posição global no ranking de competitividade digital do IMD, estabelecendo um sistema de governo digital de nível mundial. Do simples até a atual ecologia digital formada por mais de 180 sites oficiais centrais, esta é a história de como a Taiwan escreveu o mito da transformação digital com seus sites.
+> **Visão Geral de 30 Segundos:** Em meados de 1995, o Conselho Executivo decidiu participar da Expo Mundial de Internet de 1996. Os 25 órgãos centrais e governos locais construíram os primeiros sites governamentais para este evento, dando início ao plano de governo eletrônico [^1]. Ao longo das três décadas seguintes, Taiwan desenvolveu declaração de impostos online, troca eletrônica de documentos oficiais e plataformas abertas de dados governamentais, entrando no top dez mundial de competitividade digital do IMD em 2021 [^6]. Este artigo narra essa jornada e anexa uma lista de sites oficiais classificada por área.
 
-## Por que esta lista é tão importante
+## Por Que Esta Lista É Tão Importante
 
-Isto não é apenas uma lista de sites, mas o retrato da força digital da Taiwan. Enquanto muitos países ainda se debatem sobre a transformação digital, a Taiwan já passou 30 anos construindo um sistema completo de governança digital, desde o centro até os municípios, do governo até o setor privado, da abertura de dados à aplicação de IA.
+Isto não é apenas uma lista de websites; é um microcosmo da força nacional digital de Taiwan. Enquanto outros países lutavam com a transformação digital, Taiwan construiu em 30 anos um sistema completo de governança digital, do centro à periferia, do governo ao setor privado, e da abertura de dados à aplicação de IA.
 
-A cada site oficial, há um testemunho da evolução da governança digital da Taiwan. Desde os primeiros serviços de declaração de imposto online em 1998, até a criação do Ministério do Desenvolvimento Digital em 2022, até a implantação do banco de dados de treinamento de IA soberano da Taiwan em 2026 — esses sites oficiais não são apenas fontes de informações, mas também as melhores janelas para a Taiwan mostrar sua força digital ao mundo.
+Por trás de cada site oficial, há o testemunho da evolução da governança digital de Taiwan. Desde a declaração de impostos online iniciada em 1998, à fundação do Departamento de Desenvolvimento Digital em 2022, até o repositório de treinamento de IA soberana de Taiwan lançado no final de 2025 — esses sites não são apenas fornecedores de informações; eles são a melhor janela que Taiwan tem para demonstrar seu poder digital ao mundo.
 
-## O início inesperado: uma feira de internet mudou tudo
+## O Ponto de Partida Inesperado: Uma Expo Mundial Mudou Tudo
 
-### 1996: A decisão histórica dos 25 sites
+### 1996: A Decisão Histórica dos 25 Sites
 
-A história começa há 30 anos. No verão de 1995, o governo da Taiwan tomou uma decisão aparentemente simples: participar da Feira Mundial da Internet de 1996. Para este evento internacional, o Conselho de Estudos e Pesquisas do Governo mobilizou 25 agências centrais e governos municipais para estabelecer rapidamente os primeiros sites oficiais da Taiwan.
+A história deve começar há 30 anos. Em meados de 1995, o Conselho Executivo tomou uma decisão aparentemente comum: participar da Expo Mundial de Internet em 1996. O trabalho de exposição foi confiado ao Conselho de Pesquisa e Avaliação do Conselho Executivo, e para este evento, os 25 órgãos centrais e governos locais construíram oficialmente os primeiros sites governamentais [^1].
 
-**Ninguém previu que esta decisão 'urgente' para a feira se tornaria o sino de partida para a eletrônica do governo na Ásia.**
+**Esta decisão, tomada para a participação na feira, é vista posteriormente como o sinal de partida do plano de governo eletrônico de Taiwan [^1].**
 
-Na época, a internet na Taiwan estava apenas começando, e os funcionários públicos ainda eram desconhecidos com o conceito de 'sites'. Os 25 sites da época eram tão simples quanto adorável — apenas introduções básicas às agências, informações de contato simples e algumas imagens de documentos digitalizados. Mas foram exatamente esses sites 'primários' que abriram a porta à grande transformação digital da governança.
+Na época, a internet estava apenas começando, e os funcionários públicos ainda estavam muito pouco familiarizados com o conceito de "website". Mas foi essa primeira leva de sites que abriu as portas da governança digital para Taiwan.
 
-### Da construção defensiva para a ofensiva
+### Da Construção Defensiva ao Ataque Proativo
 
-Os primeiros sites governamentais da Taiwan eram, essencialmente, 'feitos para não ficar para trás'. Mas a prática natureza da Taiwan rapidamente fez efeito. O governo percebeu que os sites não serviam apenas para expor informações, mas também podiam melhorar realmente os serviços públicos.
+Os primeiros sites governamentais eram, francamente, construídos "para não ficar para trás". No entanto, o espírito prático característico dos taiwaneses rapidamente entrou em ação. O governo percebeu que os websites não serviam apenas para exibir uma imagem; eles podiam melhorar efetivamente os serviços públicos.
 
-Em 1998, o Ministério das Finanças lançou os primeiros serviços de declaração de imposto de renda pessoal online no mundo. No primeiro ano, apenas 10.234 pessoas o usaram, mas até 2004 já ultrapassaram 1 milhão, e em 2008 atingiram 2,69 milhões de usuários. Este caso de sucesso provou uma coisa: **os sites oficiais não são apenas portas de saída para informações, mas também plataformas de inovação de serviços.**
+Em fevereiro de 1998, o Conselho de Pesquisa e Avaliação do Conselho Executivo estabeleceu um centro de gerenciamento de certificados governamentais para a gestão de identidade fiscal; em março do mesmo ano, o Ministério da Fazenda lançou oficialmente a declaração de imposto de renda pessoal online. Song Yu-hsiang, vice-presidente do Conselho de Pesquisa e Avaliação, recorda que no primeiro ano apenas 10.234 pessoas usaram, mas em 2004 ultrapassou 1 milhão, e em 2008 atingiu 2,69 milhões [^1]. Este caso de sucesso provou uma coisa: **sites oficiais não são apenas painéis de divulgação de informações; eles são plataformas de inovação de serviços.**
 
-## O modelo de governo digital da Taiwan: três fases de evolução
+## O Modelo Taiwan de Governo Digital: Evolução em Três Fases
 
-### Primeira fase (1996-2001): Período de construção de infraestrutura
+### Primeira Fase (1998-2000): Período de Infraestrutura Básica
 
-Nesta fase, as palavras-chave são 'conectar-se'. O governo investiu NT$17,463 milhões para construir a estrutura básica da rede de serviços governamentais, permitindo que os sistemas de informações grandes e dispersos pudessem se comunicar entre si.
+A palavra-chave desta fase era "conexão". O Conselho de Pesquisa e Avaliação do Conselho Executivo começou a planejar, em 1997, e implementou, em 1998, o "Plano Intermediário de Promoção da Eletrônica/Web", com um orçamento de 1,7463 bilhões de NTD ao longo de três anos, cuja principal tarefa era construir a espinha dorsal de rede dos serviços governamentais [^1].
 
-**Marcos importantes:**
+**Marcos Importantes:**
 
-- 1998: Fundação do Centro de Gestão de Certificados Governamentais
-- Março de 1998: Lançamento oficial da declaração de imposto online
-- Julho de 1998: Primeira mensagens eletrônicas oficiais (Liu Chao-hsuan → Su Tseng-chang)
-- 2000: 70% dos documentos oficiais passaram a ser trocados eletronicamente
+- Fevereiro de 1998: Estabelecimento do Centro de Gerenciamento de Certificados Governamentais
+- Março de 1998: Lançamento oficial da declaração de impostos online
+- Julho de 1998: Início do sistema de troca eletrônica de documentos oficiais, com o primeiro documento eletrônico emitido pelo vice-presidente do Conselho Executivo, Liu Chao-hsuan [^1]
 
-Naquela época, um documento oficial que via da Taiwan para Pingtung levava 3 a 5 dias por correio tradicional, mas a troca eletrônica levava apenas alguns minutos. Este tipo de 'magia' de aumento de eficiência começou a convencer o governo e a população da força da digitalização.
+A mudança da correspondência postal em papel para a troca eletrônica alterou a velocidade das operações internas do governo. Em 2009, He Chuan-te, diretor do Departamento de Gerenciamento de Informação do Conselho de Pesquisa e Avaliação, relatou que cerca de sete décimos dos documentos eram trocados por meio eletrônico em Taiwan [^1].
 
-### Segunda fase (2001-2010): Período de integração de serviços
+### Segunda Fase (2001-2007): Período de Integração de Serviços
 
-Se a primeira fase foi 'conectar-se', a segunda fase era 'usar com fluidez'. O governo investiu NT$129,84 bilhões, migrando do desenvolvimento tecnológico para a integração de serviços.
+Se a primeira fase foi "conexão", a segunda foi "uso eficiente". Os dois planos, o "Plano de Promoção do Governo Eletrônico (2001–2004)" e o "Plano de Governo Eletrônico Digital Taiwan (2002–2007)", investiram um total de 12,984 bilhões de NTD, mudando o foco da construção tecnológica para a integração de serviços [^1].
 
-**Quebras importantes:**
+**Avanços Chave:**
 
-- 2001: Aprovada a Lei de Assinatura Eletrônica, dando validade legal aos documentos eletrônicos
-- 2005: Ativação do portal de entrada 'Meu Governo Eletrônico'
-- Formação da integração de serviços interagências
+- 2001: Aprovação da "Lei de Assinatura Eletrônica", conferindo validade legal aos documentos eletrônicos [^1]
+- Criação do portal de entrada do governo eletrônico, "Meu eGov" [^1]
+- Início da integração de serviços entre agências
 
-O conceito de 'Meu Governo Eletrônico' era inovador: a população não precisava saber qual agência oferecia qual serviço, apenas acessando um portal único conseguia concluir todas as tarefas. Embora a tecnologia da época ainda não fosse madura, este pensamento 'centrado nas necessidades da população' estabeleceu a base para o desenvolvimento futuro.
+O conceito de "Meu eGov" era avançado: os cidadãos não precisavam saber qual serviço pertencia a qual agência; eles podiam concluir tudo através de um único ponto de entrada. Embora a tecnologia na época ainda não fosse madura, este pensamento centrado nas necessidades do cidadão estabeleceu as bases para o desenvolvimento posterior.
 
-### Terceira fase (2010-atualmente): Período de governança inteligente
+### Terceira Fase: Período da Governança Inteligente
 
-Em 2019, a Taiwan oficialmente estabeleceu o objetivo de 'governo inteligente', dando início a uma nova era de governança. O foco migrou da 'digitalização dos serviços' para a 'tomada de decisão baseada em dados'.
+Em 2019, Taiwan estabeleceu formalmente o objetivo de "Governo Inteligente" [^2], entrando em uma nova era na governança digital. O foco mudou da "digitalização dos serviços" para a "tomada de decisões orientada por dados".
 
-**Símbolos modernizados:**
+**Símbolos da Modernização:**
 
-- 2022: Criação do Ministério do Desenvolvimento Digital, unificando as políticas de governança digital
-- 2024: Taxas de conexão doméstica 93,4%, taxas de internet pessoal 90,3% atingem máximos históricos
-- 2026: Ativação do Banco de Dados de Treinamento de IA soberano da Taiwan, com mais de 11 bilhões de Tokens de dados em caracteres tradicionais
+- 2022: Fundação do Departamento de Desenvolvimento Digital, unificando as políticas de governança digital
+- 2025: A taxa de conectividade doméstica e a taxa de uso da internet pessoal atingiram novos recordes em setembro de 2025 (93,4% e 90,3%, respectivamente) [^3]
+- Dezembro de 2025: Lançamento do repositório de treinamento de IA soberana de Taiwan, com mais de 600 milhões de tokens utilizados por mais de 200 agências [^4]
 
-Os sites oficiais da Taiwan de hoje não são apenas 'canais de comunicação do governo com a população', mas 'plataformas de governança colaborativa entre o governo e a população'.
+Os sites oficiais atuais de Taiwan não são apenas "canais de comunicação do governo para o público"; eles são "plataformas de governança colaborativa entre o governo e os cidadãos".
 
-## Uma competitividade digital inesperada
+## Competitividade Digital Além da Imaginação
 
-### A Taiwan entre os rankings internacionais
+### O Milagre de Taiwan em Avaliações Internacionais
 
-O desempenho do governo digital da Taiwan brilha nas classificações internacionais:
+As realizações do governo digital de Taiwan têm sido notáveis em avaliações internacionais:
 
-**Classificação da competitividade digital do IMD:**
+**Ranking Mundial de Competitividade Digital do IMD:**
 
-- 2020: 11º lugar
-- 2021: 8º lugar (primeira vez entre os primeiros)
-- 2024: 8º lugar (mantida na posição entre os primeiros)
+- 2021: 8º lugar, entrando no top dez pela primeira vez [^6]
+- 2024: 9º lugar, empatando com 2023 [^7]
 
-**Estudo global de governo eletrônico da Universidade de Brown (2008):**
+**Estudo Global de Governo Eletrônico da Universidade Brown (2008):**
 
-- Classificação da Taiwan: 2º lugar mundial
-- Apenas atrás da Coreia do Sul, superando os EUA
+- Posição de Taiwan: 2º mundial
+- Superou os terceiros colocados dos EUA, ficando atrás apenas da Coreia [^1]
 
-Estes números representam algo: **a Taiwan passou 30 anos acumulando vantagens de experiência e se tornou referência mundial.**
+O significado por trás desses números é: **Taiwan transformou-se de um seguidor em um modelo em 30 anos.**
 
-### O experimento democrático da abertura de dados
+### O Experimento Democrático dos Dados Abertos
 
-Em 2012, a plataforma de abertura de dados do governo da Taiwan (data.gov.tw) foi oficialmente ativada. Isto não é apenas uma inovação tecnológica, mas uma revolução na filosofia de governança — os dados governamentais deixaram de ser propriedade das agências para se tornarem recursos compartilhados pela sociedade.
+No final de abril de 2013, o Conselho de Pesquisa e Avaliação do Conselho Executivo lançou a plataforma aberta de dados governamentais (data.gov.tw) em uma versão de teste público, agregando dados públicos dispersos nos sites das várias agências [^8]. Isto não foi apenas inovação tecnológica; foi uma revolução filosófica de governança — os dados governamentais deixaram de ser propriedade privada da agência e se tornaram um recurso compartilhado por todos.
 
-**Resultados da abertura de dados:**
+**Resultados dos Dados Abertos:**
 
-- Quantidade de conjuntos de dados: Mais de 46.000
-- Áreas cobertas: Transporte, meio ambiente, educação, saúde, economia, etc.
-- Casos de uso: Mapa de máscaras, alertas de qualidade do ar, informações de trânsito
+- Número de conjuntos de dados: Poucas centenas no lançamento, mais de 1.500 até o final de 2013 [^8]
+- Áreas abrangidas: Transporte, meio ambiente, educação, saúde, economia, etc.
+- Casos de uso: Mapas de máscaras, alertas de qualidade do ar, condições de tráfego, etc.
 
-Durante a pandemia de COVID-19, a criação do 'Mapa de máscaros' permitiu que a população consultasse em tempo real a disponibilidade em farmácias próximas, mostrando o poder da abertura de dados na melhor demonstração.
+Durante a COVID-19, o sistema de registro de máscaras conseguiu criar rapidamente um "mapa de máscaras", permitindo que os cidadãos consultassem o estoque em farmácias próximas em tempo real — esta foi uma demonstração perfeita do poder dos dados abertos.
 
-## Análise da situação atual dos sites oficiais da Taiwan
+## Análise da Situação dos Sites Oficiais de Taiwan
 
-### Estrutura central: Sistema de 5 agências e 16 ministérios
+### Estrutura Central: Cinco Órgãos e Ministérios Executivos
 
-**Nível do governo central (48 sites centrais):**
+**Nível Governamental Central:**
 
-- 5 agências: Presidência, Assembleia, Suprema Corte, Tribunal de Exames, Assembleia de Exames, Câmara de Contas
-- Ministérios: Interior, Relações Exteriores, Defesa, Finanças, Educação, Justiça, Economia, Transportes, Saúde, Meio Ambiente, Cultura, Ciência, Agricultura, Trabalho, Desenvolvimento Digital, Comissão Nacional de Desenvolvimento
+- Presidência, Cinco Órgãos: 6 sites de nível mais alto
+- Nível Ministerial: O Conselho Executivo possui atualmente 15 ministérios (incluindo o Ministério do Esporte em 2025) [^10]
+- Comissões: Comissão Nacional de Desenvolvimento, Comissão Nacional de Ciência e Tecnologia, etc.
 
-**Nível dos governos municipais (22):**
+**Nível Governamental Local (Seis Cidades):**
 
-- Cidades diretas: Taipei, New Taipei, Taoyuan, Taichung, Tainan, Kaohsiung
-- Governos municipais: 16 municípios com cobertura completa
+- Cidades Capitais: Taipé, Nova Taipei, Taoyuan, Taichung, Tainan, Kaohsiung
+- Governos Locais: 16 cidades cobrindo completamente as áreas de condado/cidade.
 
-**Nível de agências especializadas (110+):**
+**Nível de Organizações Especializadas:**
 
-- Universidades e instituições de pesquisa: NTU, NTHU, Academia Sinica e outras universidades de elite
-- Parques nacionais: Yushan, Taroko, Kenting e outras áreas de proteção ambiental
-- Instituições culturais: Museu Nacional da Taiwan, North American Cultural and Creative Center, Two Zhong Lou e outros
+- Instituições Acadêmicas: Universidades de prestígio como Taiwan e Tsinghua
+- Parques Nacionais: Áreas naturais protegidas como Yushan, Taroko, Kenting
+- Centros Culturais: Instituições culturais como o Museu do Palácio Imperial, Galeria Americana, etc.
 
-### Campos temáticos com valores distintos
+### Valor Único em Domínios Característicos
 
-**IA e inovação digital:**
+**IA e Inovação Digital:**
 
-- Banco de dados de treinamento de IA soberano da Taiwan (TAIC): Mais de 11 bilhões de Tokens de dados em caracteres tradicionais
-- Ministério do Desenvolvimento Digital: Coordenação das políticas digitais nacionais
-- Agência de Segurança da Informação e Comunicação: Mantém a proteção contra ameaças de segurança nacional
+- Repositório de Treinamento de IA Soberana de Taiwan (TAIC): Lançado no final de 2025, acumulou cerca de 2 bilhões de tokens até setembro de 2026, cobrindo cultura, história, arte, turismo e dialetos como Taíwâ e Hakka [^5]
+- Departamento de Desenvolvimento Digital: Coordena políticas digitais nacionais
+- Agência de Segurança da Informação e Comunicações: Mantém a defesa cibernética em nível nacional
 
-**Democracia e participação cívica:**
+**Democracia e Participação Cívica:**
 
-- vTaiwan: Plataforma de colaboração digital para democracia
-- Plataforma Join: Plataforma de participação nas políticas públicas
-- g0v zero government: Comunidade cívica de tecnologia
+- vTaiwan: Plataforma de cooperação democrática digital
+- Plataforma Join: Plataforma de participação em políticas públicas
+- g0v Zero Hour: Comunidade de tecnologia cívica
 
-**Conexões internacionais:**
+**Conexão Internacional:**
 
-- Ministério das Relações Exteriores: Manutenção das relações internacionais
-- Comissão de Emigrados: Serviços para emigrados em todo o mundo
-- Agência de Turismo: Promoção da força cultural da Taiwan
+- Ministério das Relações Exteriores: Mantém as relações internacionais
+- Comissão de Assuntos Chineses (Overseas Chinese Affairs): Serve a diáspora global
+- Agência de Turismo: Promove o poder brando de Taiwan
 
-## Os benefícios ocultos da competitividade digital
+## Vantagem Oculta: Por Que é Taiwan?
 
-### O auxílio inesperado da geopolítica
+### A Ajuda Inesperada da Geopolítica
 
-O ambiente geopolítico especial da Taiwan tornou-se, ironicamente, um catalisador para a inovação na governança digital. **A impossibilidade de depender da cooperação de organizações internacionais forçou a Taiwan a construir um sistema de governança digital independente e completo.**
+O ambiente geopolítico único de Taiwan tornou-se um catalisador para a inovação na governança digital. **Não podendo depender da ajuda de organizações internacionais, Taiwan foi forçada a se autossuficientar e construir um sistema de governança digital independente e completo.**
 
-Este tipo de 'inovação forçada', deu à Taiwan vantagens em áreas-chave como soberania digital, segurança de dados, sistemas autônomos, superando muitas nações.
+Esta "inovação forçada" fez com que Taiwan estivesse à frente do mundo em áreas cruciais como soberania digital, segurança de dados e autonomia sistêmica.
 
-### O modelo de cooperação público-privada da Taiwan
+### O Modelo Taiwan de Cooperação Público-Privada
 
-O governo digital da Taiwan não é apenas o trabalho do governo, mas o resultado da colaboração entre governo, empresas e sociedade civil:
+O governo digital de Taiwan não é um esforço solitário do governo; é o resultado da colaboração entre três partes: governo, empresas e sociedade civil.
 
-**Governo:** Fornece estrutura política e infraestrutura básica
-**Empresas:** Contribuem com inovação tecnológica e capacidade operacional (TSMC, MediaTek e outras empresas tecnológicas)
-**Sociedade Civil:** Participam na definição de necessidades e otimização de serviços (comunidades como g0v)
+**Governo:** Fornece a estrutura política e a infraestrutura básica
+**Empresas:** Contribuem com inovação tecnológica e capacidade de execução (empresas de tecnologia como TSMC, MediaTek)
+**Cidadãos:** Participam na definição de necessidades e otimização de serviços (comunidades g0v, etc.)
 
-Este modelo 'tríplice helicóptero' permite que o governo digital da Taiwan tenha autoridade governamental, eficiência de mercado e inclusão social.
+Este modelo de "três hélices" garante que a governança digital de Taiwan tenha tanto a autoridade do governo quanto a eficiência do mercado e a inclusão social.
 
-### O ativo cultural oculto da língua
+### O Ativo Invisível da Cultura Linguística
 
-A raridade dos caracteres tradicionais no mundo digital tornou-se, ironicamente, uma vantagem competitiva da Taiwan. **Quando o conteúdo em caracteres tradicionais é limitado devido à geopolítica, a Taiwan torna-se o principal fornecedor de conteúdo digital em caracteres tradicionais.**
+A escassez do chinês tradicional no mundo digital tornou-se uma vantagem competitiva para Taiwan. **Quando o conteúdo em simplificado é afetado pela geopolítica, Taiwan se torna o fornecedor mais importante de conteúdo digital em chinês tradicional.**
 
-A criação do Banco de Dados de Treinamento de IA soberano da Taiwan não é apenas um feito tecnológico, mas uma estratégia de posicionamento da Taiwan na era da IA para manter sua soberania cultural.
+O estabelecimento do repositório de treinamento de IA soberana de Taiwan não é apenas um feito tecnológico; é um planejamento estratégico de Taiwan para manter a soberania cultural na era da IA.
 
-## Perspectivas futuras: O próximo de 30 anos
+## Perspectivas Futuras: As Próximas 30 Anos
 
-### Desafio 1: Novas fronteiras da governança de IA
+### Desafio Um: A Nova Fronteira da Governança por IA
 
-O rápido desenvolvimento da tecnologia de IA traz oportunidades e desafios inéditos para a governança. A Taiwan está explorando novos modelos de 'governança assistida por IA':
+O rápido desenvolvimento da tecnologia de IA traz oportunidades e desafios sem precedentes para a governança do governo. Taiwan está explorando um novo modelo de "governança assistida por IA":
 
-- Atendimento inteligente: Serviços 24/7 para a população
-- Governança preditiva: Previsão de necessidades sociais por meio de grandes dados
-- Serviços personalizados: Adaptação dos serviços governamentais às necessidades individuais
+- Atendimento ao cliente inteligente: Serviço 24/7 aos cidadãos
+- Governança preditiva: Prever necessidades sociais através de grandes dados
+- Serviços personalizados: Personalizar serviços governamentais com base nas necessidades dos cidadãos
 
-### Desafio 2: Normalização das ameaças de segurança
+### Desafio Dois: A Normalização das Ameaças Cibernéticas
 
-Com o aumento do grau de digitalização, as ameaças de segurança também se intensificaram. Os sites oficiais da Taiwan enfrentam milhões de ataques por ano, e a criação da Agência de Segurança da Informação e Comunicação é para enfrentar esse desafio.
+À medida que o nível de digitalização aumenta, as ameaças cibernéticas se tornam cada vez mais sérias. O Bureau de Segurança Nacional relatou que em 2025, a interferência cibernética da RPC contra infraestruturas críticas de Taiwan (incluindo nove categorias de agências governamentais) atingiu uma média de 2,63 milhões por dia, um aumento de 6% em relação a 2024 [^9]. A criação da Agência de Segurança da Informação e Comunicações foi para enfrentar este desafio.
 
-### Desafio 3: Equidade digital
+### Desafio Três: Redução da Lacuna Digital
 
-Embora o grau de digitalização da Taiwan seja alto, ainda existem disparidades digitais entre cidades, idades e níveis de renda. Como garantir que todos os cidadãos possam aproveitar os benefícios da governança digital?
+Embora o nível geral de digitalização de Taiwan seja alto, ainda existem disparidades digitais entre áreas urbanas e rurais, faixas etárias e renda. Como garantir que cada cidadão possa usufruir dos benefícios da governança digital é um desafio importante para o futuro.
 
-## O valor estratégico da ecologia de sites oficiais da Taiwan
+## Valor Estratégico do Ecossistema de Sites Oficiais de Taiwan
 
-### A demonstração digital da força cultural
+### Manifestação Digital do Poder Brando
 
-Estes mais de 180 sites centrais oficiais constituem uma plataforma importante para a Taiwan demonstrar sua força cultural ao mundo:
+Estes sites oficiais formam uma plataforma crucial para Taiwan demonstrar seu poder brando ao mundo:
 
-**Força cultural:** Museu Nacional, Museu da Taiwan e outras instituições mostram a profunda base cultural da Taiwan
-**Força tecnológica:** Ministério do Desenvolvimento Digital, Ministério da Ciência e outras mostram energia inovadora
-**Força democrática:** Assembleia, Câmara de Contas e outras mostram transparência no sistema democrático
+**Poder Brando Cultural:** Instituições como o Museu do Palácio Imperial e o Museu da História de Taiwan exibem a profunda herança cultural de Taiwan.
+**Poder Brando Tecnológico:** O Departamento de Desenvolvimento Digital e a Comissão Nacional de Ciência e Tecnologia demonstram energia inovadora.
+**Poder Brando Democrático:** O Legislativo e o Tribunal de Contas demonstram a transparência do sistema democrático.
 
-### A base digital para desenvolvimento econômico
+### Infraestrutura Digital para o Desenvolvimento Econômico
 
-Os sites oficiais não são apenas demonstrações de imagem, mas também uma base importante para desenvolvimento econômico:
+Os sites oficiais não são apenas vitrines; são infraestruturas importantes para o desenvolvimento econômico:
 
-**Ambiente de investimento:** Ministério da Economia, Agência de Investimento fornecem informações completas de investimento
-**Políticas setoriais:** Sites de todos os ministérios são os principais canais de comunicação das políticas
-**Atração de talentos:** Ministérios da Educação, Ciência e outros mostram o ambiente de pesquisa e ensino da Taiwan
+**Ambiente de Investimento:** O Ministério da Economia e a Agência de Investimentos fornecem informações completas sobre investimentos.
+**Políticas Industriais:** Os sites dos ministérios são os principais canais de comunicação de políticas.
+**Atração de Talentos:** Ministérios como o da Educação e a Comissão Nacional de Ciência e Tecnologia exibem o ambiente educacional e de pesquisa de Taiwan.
 
-### Um canal importante para a participação internacional
+### Canais Importantes para Participação Internacional
 
-Em um contexto de participação internacional limitada, os sites oficiais tornam-se um canal importante para a Taiwan se comunicar com o mundo. Cada site de ministérios em inglês é uma plataforma de voz da Taiwan para a sociedade internacional.
+Em um cenário onde a participação internacional é limitada, os sites oficiais são pontes vitais entre Taiwan e o mundo. O site em inglês de cada ministério é uma plataforma para Taiwan falar com a comunidade internacional.
 
-## Da ideia dos 25 sites à nação digital: lições da experiência da Taiwan
+## Da Construção de 25 Sites à Grande Potência Digital: Lições da Experiência de Taiwan
 
-30 anos atrás, os 25 sites governamentais estabelecidos para participar de uma feira internacional inesperadamente abriram a porta para a nova era da governança digital da Taiwan. Hoje, esta pequena ilha possui um sistema de governo digital de nível mundial, ocupando posições de destaque no ranking global de competitividade digital.
+Há 30 anos, os sites construídos por 25 agências governamentais para participar de uma feira internacional abriram um novo amanhecer na governança digital de Taiwan. Hoje, esta ilha possui um sistema de governo digital de classe mundial e está entre os líderes no ranking global de competitividade digital.
 
-**Três lições-chave da experiência da Taiwan:**
+**Três lições cruciais da experiência de Taiwan:**
 
-1. **Efeito de juros da ação antecipada:** A vantagem de ponta começada em 1996 acumulou 30 anos de experiência
-2. **Caminho evolutivo prático e gradual:** Da simples informação à complexa integração de serviços, passo a passo
-3. **Modelo de inovação colaborativa:** Cooperação entre governo, empresas e sociedade civil criou o modelo único da Taiwan
+1. **Efeito composto da ação precoce:** O início antecipado em 1996 acumulou uma vantagem de 30 anos de experiência.
+2. **Caminho evolutivo prático e gradual:** Da simples provisão de informações à complexa integração de serviços, passo a passo.
+3. **Modelo inovador de cooperação aberta:** A colaboração entre governo, empresas e cidadãos criou um modelo único taiwanês.
 
-Enquanto muitos países ainda se debatem sobre a transformação digital, a Taiwan já provou que **uma pequena ilha pode se tornar uma nação digital, e a chave não está na quantidade de recursos, mas no antecedência e na profundidade da execução.**
+Enquanto outros países ainda estão ansiosos com a transformação digital, Taiwan provou: **uma ilha pode se tornar uma grande potência em governança digital; o segredo não está na quantidade de recursos, mas no tempo do início e na profundidade da execução.**
 
-Esta lista de sites oficiais não é apenas um índice de recursos, mas o retrato da transformação digital da Taiwan. Em cada site há um grupo de funcionários públicos trabalhando para melhorar os serviços da população; em cada clique há a demonstração do progresso da governança democrática.
+Esta lista de sites oficiais não é apenas um índice de recursos; é um microcosmo do milagre digital de Taiwan. Por trás de cada site, há um grupo de funcionários públicos se esforçando para melhorar os serviços ao público; por trás de cada clique, reflete-se o progresso da governança democrática de Taiwan.
 
-Dos 25 sites em 1996 até o padrão de nação digital em 2026 — esta é a história da Taiwan escrevendo o mito da transformação digital com seus sites.
+Dos 25 sites de 1996 ao modelo de governo digital de 2026 — esta é a lenda digital escrita por Taiwan através dos seus websites.
 
 ---
 
-## Lista completa de recursos
+## Lista Completa de Recursos
 
-### 🏛️ Agências centrais
+### 🏛️ Órgãos Centrais do Governo
 
-**Sistema das 5 agências:**
+**Sistema das Cinco Instituições:**
 
-- [Presidência](https://www.president.gov.tw/) - Centro administrativo máximo da República da China (Taiwan)
-- [Assembleia](https://www.ly.gov.tw/) - Agência legislativa nacional mais alta
-- [Suprema Corte](https://www.judicial.gov.tw/) - Agência judicial mais alta
-- [Tribunal de Exames](https://www.exam.gov.tw/) - Agência nacional mais alta de exames
-- [Câmara de Contas](https://www.cy.gov.tw/) - Agência de controle mais alta
+- [Presidência](https://www.president.gov.tw/) - Escritório do Presidente e Vice-Presidente
+- [Conselho Executivo](https://www.ey.gov.tw/) - Órgão administrativo máximo
+- [Supremo Tribunal Legislativo](https://www.ly.gov.tw/) - Órgão legislativo nacional de mais alto nível
+- [Supremo Tribunal Judicial](https://www.judicial.gov.tw/) - Órgão judicial de mais alto nível
+- [Conselho de Exames](https://www.exam.gov.tw/) - Órgão máximo de exames nacionais
+- [Tribunal de Contas](https://www.cy.gov.tw/) - Órgão máximo de fiscalização
 
-**16 ministérios:**
+**Ministérios Executivos (Seleção):**
 
-- [Ministério do Interior](https://www.moi.gov.tw/) - Hidrografia, geografia, construção civil, bombeiros
-- [Ministério das Relações Exteriores](https://www.mofa.gov.tw/) - Relações externas, emigrados, direito consular
+- [Ministério do Bem-Estar Interno](https://www.moi.gov.tw/) - Registro civil, registro fundiário, construção, combate a incêndios
+- [Ministério das Relações Exteriores](https://www.mofa.gov.tw/) - Relações externas, assuntos da diáspora, consulado
 - [Ministério da Defesa](https://www.mnd.gov.tw/) - Segurança nacional, defesa militar
-- [Ministério das Finanças](https://www.mof.gov.tw/) - Impostos, tesouro nacional, alfândega
+- [Ministério das Finanças](https://www.mof.gov.tw/) - Tributação, tesouraria, alfândega
 - [Ministério da Educação](https://www.edu.tw/) - Políticas educacionais, pesquisa acadêmica
-- [Ministério da Justiça](https://www.moj.gov.tw/) - Administração judicial, correção, promotoria
-- [Ministério da Economia](https://www.moea.gov.tw/) - Indústria, comércio, energia, água
-- [Ministério dos Transportes](https://www.motc.gov.tw/) - Infraestrutura de transporte, gestão de trânsito
-- [Ministério da Saúde e Assistência Social](https://www.mohw.gov.tw/) - Saúde, assistência social
-- [Ministério do Meio Ambiente](https://www.moenv.gov.tw/) - Proteção ambiental, mudança climática
-- [Ministério da Cultura](https://www.moc.gov.tw/) - Artes e cultura, indústria criativa
-- [Ministério da Ciência](https://www.most.gov.tw/) - Pesquisa e desenvolvimento científico, educação avançada
-- [Ministério da Agricultura](https://www.moa.gov.tw/) - Agricultura, florestas, pesca, segurança alimentar
-- [Ministério do Trabalho](https://www.mol.gov.tw/) - Direitos dos trabalhadores, serviços de emprego
-- [Ministério do Desenvolvimento Digital](https://moda.gov.tw/) - Políticas digitais, segurança da informação
-- [Comissão Nacional de Desenvolvimento](https://www.ndc.gov.tw/) - Planejamento de desenvolvimento nacional
+- [Ministério da Justiça](https://www.moj.gov.tw/) - Administração judicial, reabilitação, procuradoria
+- [Ministério da Indústria e Comércio](https://www.moea.gov.tw/) - Indústria, comércio, energia, irrigação
+- [Ministério dos Transportes](https://www.motc.gov.tw/) - Construção de transportes, gestão de transporte
+- [Ministério da Saúde e Bem-Estar Social](https://www.mohw.gov.tw/) - Saúde médica, bem-estar social
+- [Ministério do Meio Ambiente](https://www.moenv.gov.tw/) - Proteção ambiental, mudanças climáticas
+- [Ministério da Cultura](https://www.moc.gov.tw/) - Arte cultural, indústria criativa
+- [Comissão Nacional de Ciência e Tecnologia](https://www.nstc.gov.tw/) - P&D tecnológico, desenvolvimento acadêmico (antigo Ministério da Ciência e Tecnologia)
+- [Ministério da Agricultura](https://www.moa.gov.tw/) - Agricultura, silvicultura, pecuária, segurança alimentar
+- [Ministério do Trabalho](https://www.mol.gov.tw/) - Direitos trabalhistas, serviços de emprego
+- [Departamento de Desenvolvimento Digital](https://moda.gov.tw/) - Políticas digitais, segurança da informação e comunicações
+- [Comissão Nacional de Desenvolvimento](https://www.ndc.gov.tw/) - Planejamento do desenvolvimento nacional
 
-### 🏙️ Governos municipais (22 municípios)
+### 🏙️ Governos Locais (Seis Cidades)
 
-**Seis cidades diretas:**
+**As Seis Cidades:**
 
-- [Governo da Cidade de Taipei](https://www.gov.taipei/) - Cidade-capital
-- [Governo da Nova Taipei](https://www.ntpc.gov.tw/) - Cidade com maior população
-- [Governo de Taoyuan](https://www.taoyuan.gov.tw/) - Localização do aeroporto internacional
-- [Governo de Taichung](https://www.taichung.gov.tw/) - Centro econômico e político do centro da Taiwan
-- [Governo de Tainan](https://www.tainan.gov.tw/) - Cidade histórica e cultural
-- [Governo de Kaohsiung](https://www.kcg.gov.tw/) - Maior cidade do sul da Taiwan
+- [Governo Municipal de Taipé](https://www.gov.taipei/) - Governo da capital
+- [Governo Municipal de Nova Taipei](https://www.ntpc.gov.tw/) - Cidade com maior população
+- [Governo Municipal de Taoyuan](https://www.tycg.gov.tw/) - Localização de organizações internacionais
+- [Governo Municipal de Taichung](https://www.taichung.gov.tw/) - Centro político e econômico do centro de Taiwan
+- [Governo Municipal de Tainan](https://www.tainan.gov.tw/) - Antiga capital cultural
+- [Governo Municipal de Kaohsiung](https://www.kcg.gov.tw/) - Grande metrópole do sul
 
-### 🎓 Universidades e instituições de pesquisa
+### 🎓 Universidades e Instituições de Pesquisa de Elite
 
-- [Universidade Nacional da Taiwan](https://www.ntu.edu.tw/) - Universidade mais prestigiosa
-- [Universidade Nacional de Hsinchu](https://www.nthu.edu.tw/) - Reino da ciência e tecnologia
-- [Universidade Nacional de Taipei e Nova York](https://www.nycu.edu.tw/) - Medicina e tecnologia
-- [Universidade Nacional de Chengdu](https://www.ncku.edu.tw/) - Reino da Taiwan do sul
-- [Academia Sinica](https://www.sinica.edu.tw/) - Agência nacional mais alta de pesquisa científica
+- [National Taiwan University](https://www.ntu.edu.tw/) - A universidade mais prestigiada de Taiwan
+- [National Tsing Hua University](https://www.nthu.edu.tw/) - Centro de tecnologia e engenharia
+- [National Yang Ming Chiao Tung University](https://www.nycu.edu.tw/) - Foco em medicina e tecnologia
+- [National Cheng Kung University](https://www.ncku.edu.tw/) - Centro acadêmico do sul de Taiwan
+- [Academia Sinica](https://www.sinica.edu.tw/) - Instituição nacional de pesquisa de mais alto nível
 
-### 🌲 Parques nacionais e áreas de proteção ambiental
+### 🌲 Parques Nacionais e Áreas Protegidas
 
-- [Parque Nacional de Yushan](https://www.ysnp.gov.tw/) - Primeira montanha mais alta da Ásia do Oriente
-- [Parque Nacional de Taroko](https://www.taroko.gov.tw/) - Vale de pedra calcária
-- [Parque Nacional de Kenting](https://www.ktnp.gov.tw/) - Final sul da Taiwan com clima tropical
+- [Parque Nacional Yushan](https://www.ysnp.gov.tw/) - O pico mais alto do Nordeste Asiático
+- [Parque Nacional Taroko](https://www.taroko.gov.tw/) - A paisagem mágica do vale de mármore
+- [Parque Nacional Kenting](https://www.ktnp.gov.tw/) - Charme tropical no extremo sul de Taiwan
 
-### 🎭 Instituições culturais
+### 🎭 Instituições Culturais e Artísticas
 
-- [Museu Nacional da Taiwan](https://www.npm.gov.tw/) - Reino da coleção cultural chinesa
-- [Museu Nacional da Taiwan](https://www.ntm.gov.tw/) - Exposição da história natural da Taiwan
-- [Centro Cultural Nacional Two Zhong Lou](https://www.npac-ntch.org/) - Palco das artes cênicas
+- [Museu do Palácio Imperial](https://www.npm.gov.tw/) - Centro de coleções culturais chinesas
+- [National Museum of Taiwan](https://www.ntm.gov.tw/) - Exposição da história natural de Taiwan
+- [Centro Nacional das Artes](https://www.npac-ntch.org/) - Templo das artes performáticas
 
-### 🚄 Serviços de transporte
+### 🚄 Serviços de Transporte
 
-- [Diretoria de Ferrovias da Taiwan](https://www.railway.gov.tw/) - Sistema ferroviário inter-ilha
-- [Trem de alta velocidade da Taiwan](https://www.thsrc.com.tw/) - Transporte rápido na faixa ocidental
-- [Taiwan Trip](https://www.taiwantrip.com.tw/) - Ônibus de conexão com atrações turísticas
+- [Taiwan Railways Administration](https://www.railway.gov.tw/) - Sistema ferroviário em torno da ilha
+- [Taiwan High Speed Rail](https://www.thsrc.com.tw/) - Transporte rápido do corredor oeste
+- [Taiwan Good Bus](https://www.taiwantrip.com.tw/) - Ônibus de conexão para pontos turísticos
 
-### 🏥 Instituições médicas e de saúde
+### 🏥 Instituições de Saúde
 
-- [Agência de Controle de Doenças](https://www.cdc.gov.tw/) - Agência especializada em prevenção de doenças transmissíveis
-- [Agência Nacional de Saúde](https://www.nhi.gov.tw/) - Administração do plano de saúde universal
+- [Centers for Disease Control and Prevention](https://www.cdc.gov.tw/) - Agência especializada em prevenção de doenças infecciosas
+- [National Health Insurance Administration](https://www.nhi.gov.tw/) - Órgão de gestão do seguro saúde universal
 
-### 📊 Dados abertos e desenvolvimento de IA
+### 📊 Dados Abertos e Desenvolvimento de IA
 
-- [Plataforma de dados abertos do governo](https://data.gov.tw/) - Portal único de dados governamentais
-- [Banco de dados de treinamento de IA soberano da Taiwan (TAIC)](https://taic.moda.gov.tw/) - Banco de dados de IA em caracteres tradicionais
+- [Plataforma Aberta de Dados Governamentais](https://data.gov.tw/) - Ponto de entrada unificado para dados abertos nacionais
+- [Repositório de Treinamento de IA Soberana de Taiwan (TAIC)](https://taic.moda.gov.tw/) - Repositório de dados em chinês tradicional
 
-### 📰 Meios de comunicação oficiais
+### 📰 Mídia Oficial
 
-- [Agência de Comunicação Nacional](https://www.cna.com.tw/) - Agência de comunicação nacional
-- [Televisão Pública](https://www.pts.org.tw/) - Serviços de mídia pública
+- [Taiwan News Agency](https://www.cna.com.tw/) - Agência de notícias nacional
+- [Public Television](https://www.pts.org.tw/) - Serviço de mídia pública
 
 ---
 
 ## Referências
 
-- [Ministério do Desenvolvimento Digital - Estratégia de desenvolvimento de governo inteligente](https://moda.gov.tw/digital-affairs/digital-service/operations/120)
-- [iThome - Revisão dos 10 anos de eficiência eletrônica](https://www.ithome.com.tw/news/103200)
-- [Centro de Pesquisa em Governança Digital - Grande história da governança digital](https://www.teg.org.tw/event/History)
-- [Governo - Plano de implementação do governo inteligente 2.0](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/99b1bd4e-c4e2-479f-abaf-81306bcd0a3d)
-- [Ministério do Desenvolvimento Digital - Relatório de pesquisa sobre uso digital em 2024](https://moda.gov.tw/digital-affairs/digital-service/dv-survey/18672)
+[^1]: [iThome: Revisão dos resultados do governo eletrônico por dez anos](https://www.ithome.com.tw/news/103200) — Wang Hongren, 01/05/2009. A Expo Mundial de Internet em 1996 e os sites das 25 agências; os primeiros 10.234 usuários da declaração de impostos online até 2,69 milhões em 2008; orçamentos de duas fases (1,7463 bilhão e 12,984 bilhões); o primeiro documento eletrônico; sete décimos dos documentos trocados eletronicamente; classificação da Universidade Brown em 2008.
+
+[^2]: [Departamento de Desenvolvimento Digital: Estratégia de desenvolvimento do governo inteligente](https://moda.gov.tw/digital-affairs/digital-service/operations/120) — A transição para o governo eletrônico começou em 1996, e o objetivo de governança inteligente foi estabelecido em 2019.
+
+[^3]: [Departamento de Desenvolvimento Digital: Relatório da Pesquisa de Uso Digital de 2025](https://moda.gov.tw/digital-affairs/digital-service/dv-survey/18672) — Pesquisa realizada entre maio e julho de 2025; taxa de conectividade doméstica em 93,4% e taxa de uso pessoal da internet em 90,3%, ambos recordes.
+
+[^4]: [CIO Taiwan: Lançamento do Repositório de Treinamento de IA Soberana de Taiwan, com mais de 600 milhões de tokens utilizados por 200 agências](https://www.cio.com.tw/104552/) — Conferência de imprensa realizada pelo Depto. de Desenvolvimento Digital em 24/12/2025.
+
+[^5]: [iThome: O Departamento de Desenvolvimento Digital inicia a coleta de dados privados para o repositório de IA soberana](https://www.ithome.com.tw/news/178952) — O repositório foi lançado no final do ano passado, e os conjuntos de dados aumentaram de dois mil para cinco mil, acumulando cerca de 2 bilhões de tokens.
+
+[^6]: [CNA: IMD classifica Taiwan em 8º lugar mundial; Gong Mingxin: É uma boa situação para Taiwan](https://www.cna.com.tw/news/afe/202109300045.aspx) — 30/09/2021, Taiwan entrou no top dez da avaliação de competitividade digital do IMD pela primeira vez.
+
+[^7]: [Tech News: Ranking global de competitividade digital do IMD em 2024; Taiwan entre os três primeiros com sete indicadores](https://finance.technews.tw/2024/11/14/2024-imd-taiwan/) — 14/11/2024, classificado em 9º lugar entre 67 países e economias, empatando com 2023.
+
+[^8]: [iThome: Grande exame dos dados abertos do governo; quais são os mais usados pelos cidadãos?](https://www.ithome.com.tw/news/89376) — Yu Zhihao, 14/07/2014. Lançamento de data.gov.tw em versão de teste público no final de abril de 2013; poucas centenas no lançamento e mais de 1.500 até o final do ano.
+
+[^9]: [UDN: Bureau de Segurança Nacional: Interferência cibernética da RPC contra infraestruturas críticas nacionais atingiu 2,63 milhões por dia](https://udn.com/news/story/6656/9243637) — 04/01/2026, relatório do Bureau de Segurança Nacional, abrangendo nove categorias de infraestrutura crítica, incluindo agências governamentais.
+
+[^10]: [Conselho Executivo: Organização e jurisdição](https://www.ey.gov.tw/Page/29F59CE082887C81) — O Conselho Executivo possui 15 ministérios, desde o Ministério do Bem-Estar Interno até o Ministério do Esporte, além de comissões como a Comissão Nacional de Desenvolvimento e a Comissão Nacional de Ciência e Tecnologia.

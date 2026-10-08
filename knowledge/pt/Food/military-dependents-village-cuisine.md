@@ -19,10 +19,10 @@ lastHumanReview: false
 readingTime: 8
 imageNote: '原圖僅 GFDL 授權（非 CC BY／CC BY-SA／CC0／公有領域），未收進庫，待另覓授權明確圖源'
 translatedFrom: 'Food/台灣眷村菜.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:065bf6354c8e6e97'
-sourceBodyHash: 'sha256:c6f4891abde841e9'
-translatedAt: '2026-09-08T15:54:48+08:00'
+sourceCommitSha: 'ef80aeea4'
+sourceContentHash: 'sha256:467908b1a60dd52d'
+sourceBodyHash: 'sha256:833d2eafe654813e'
+translatedAt: '2026-10-08T14:09:58.800239+00:00'
 ---
 
 # Culinária dos bairros de soldados de Taiwan
@@ -73,13 +73,13 @@ A generosidade dos pratos shandongenses encontrou a delicadeza dos pratos jiangs
 
 A simplicidade dos pratos cantonenses e a riqueza dos pratos do norte também encontraram equilíbrio nos bairros de soldados. Muitos pratos dos bairros de soldados apresentam características de fusão norte-sul, mantendo os sabores tradicionais de suas terras natal, mas adaptando-se ao clima e aos ingredientes de Taiwan.
 
-## Desmobilição dos bairros de soldados, preservação e parques temáticos dos bairros de soldados
+## Despejo, Preservação e Complexos dos Bairros de Soldados
 
-Em 1996, a "Lei de Reforma dos Bairros de Soldados Antigos do Exército Nacional" foi aprovada, e gradualmente as terras dos bairros de soldados foram convertidas em zonas de requalificação urbana ou terrenos para habitação pública, acelerando a desaparição física dos bairros de soldados antigos.[^4] No entanto, alguns bairros de soldados foram preservados devido à pressão pela conservação cultural.
+Em 1996, o 《Regulamento de Reconstrução dos Antigos Bairros de Soldados do Exército Nacional》 foi aprovado, e as terras dos bairros de soldados foram gradualmente convertidas em áreas reordenadas ou terrenos residenciais estatais, acelerando o desaparecimento das estruturas físicas dos antigos assentamentos. [^4] No entanto, alguns bairros de soldados permaneceram devido aos apelos pela preservação cultural.
 
-O bairro de soldados de Sishuangxiangan, no distrito de Xinyi, Taipei, é o caso mais conhecido de preservação de bairros de soldados. Em 2003, o conjunto arquitetônico original foi transformado em um museu cultural de bairros de soldados, tornando-se o berço de marcas alimentares como "Good Cho's", apresentando a culinária dos bairros de soldados em um novo contexto. Em Taoyuan, que possui o maior número de bairros de soldados em toda Taiwan, há um museu cultural de bairros de soldados e um festival anual de cultura dos bairros de soldados, formando um ponto turístico cultural centrado na comida.[^5] Próximo ao antigo muro da cidade de Mingtai em Zuoying, Kaohsiung, também se conservam vários bairros de soldados sob gestão.
+O Qisihnan Village (四四南村) no distrito de Xinyi, Taipé, é um dos casos mais conhecidos de preservação de bairros de soldados em Taiwan. O complexo original foi transformado em um museu cultural do bairro de soldados em 2003, tornando-se um local onde marcas gastronômicas como "Good Cho's" puderam se estabelecer, permitindo que a culinária dos bairros de soldados fosse apresentada em um novo contexto. Taoyuan é uma cidade com alta concentração desses assentamentos; uma reportagem de 2018 indicou que havia 86 bairros de soldados em Taoyuan entre os 888 de todo o país, e a edição do Festival Cultural dos Bairros de Soldados organizada pelo governo municipal em 2018 contou com competições gastronômicas. [^5] Próximo às antigas muralhas da dinastia Qing em Zuoying, Kaohsiung, também existem vários bairros de soldados listados para preservação.
 
-Esses espaços preservados fornecem pontos de referência físicos para a transmissão da culinária dos bairros de soldados, permitindo que as novas gerações vejam a forma concreta dessa história migratória, além do sabor.
+Esses espaços dos bairros de soldados que foram mantidos forneceram marcos físicos para a transmissão da culinária desses assentamentos e permitiram que as gerações seguintes vissem a forma concreta dessa história imigratória além do paladar.
 
 ## Perspectivas bidirecionais: visão das províncias internas e identidade da segunda geração dos bairros de soldados
 
@@ -99,21 +99,21 @@ Nova geração de chefs começou a reinterpretar a culinária dos bairros de sol
 
 - Pão de cebola: Wikimedia Commons, [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 
-## Referências
+## Referências Bibliográficas
 
-[^1]: [Centro de Preservação Cultural dos Bairros de Soldados do Ministério da Defesa](https://mvac.mnd.gov.tw/) — contexto histórico dos bairros de soldados e dados populacionais dos migrantes.
+[^1]: [Centro de Preservação Cultural das Vilas Militares do Ministério da Defesa](https://mvac.mnd.gov.tw/) — Contexto histórico das vilas militares e dados populacionais de imigrantes.
 
-[^2]: [Arquivo de Taiwan: "Mudanças e Preservação da Cultura Alimentar dos Bairros de Soldados"](https://www.th.gov.tw/epaper/view2.php?Period=168&TBID=3) — Vol. 71, No. 4 (2020), sobre troca alimentar entre províncias internas e externas.
+[^2]: [Literatura de Taiwan: 'Transição e Preservação da Cultura Alimentar das Vilas Militares'](https://www.th.gov.tw/epaper/view2.php?Period=168&TBID=3) — Volume 71, Edição 4 (2020): Intercâmbio alimentar entre ilhas e províncias.
 
-[^3]: [Chiao Tung, "Taiwan Flavors" — Editora Ernyu](https://www.taaze.tw/usedBook.html?oid=11100873870) — confirmação da origem dos bairros de soldados da sopa de macarrão com carne bovina e processo de localização do sabor picante.
+[^3]: [Jiaotong, 'Sabores de Taiwan' — Cultura Yi Yu](https://www.taaze.tw/usedBook.html?oid=11100873870) — Confirmação da origem do Niu Rou Mian (macarrão de carne bovina) nas vilas militares e o processo de localização da culinária Sichuan.
 
-[^4]: [Base de Dados Nacionais de Leis: Lei de Reforma dos Bairros de Soldados Antigos do Exército Nacional](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0000002) — confirmação da aprovação em 1996 e cronologia de reforma e requalificação.
+[^4]: [Banco Nacional de Regulamentos: Estatuto de Reconstrução das Antigas Vilas Militares do Exército Nacional](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0000002) — Confirma a aprovação em 1996, cronologia da reestruturação e realocação de terras.
 
-[^5]: [Museu Cultural dos Bairros de Soldados de Taoyuan](https://www.taoyuan.gov.tw/) — informações sobre espaços preservados de bairros de soldados em Taoyuan e o festival anual de cultura dos bairros de soldados.
+[^5]: [New Headline: Visitando o Festival Cultural das Vilas Militares de Taoyuan! Ouvindo Mães das Vilas Militares Contar Histórias](https://newtalk.tw/news/view/2018-10-04/148037) — 04-10-2018, em 888 vilas militares em todo Taiwan, Taoyuan tinha 86, e o festival apresentava desfiles e competições gastronômicas.
 
-[^6]: [Liberty Times: "Na Verdade é a Massa! A Razão pela Qual a Pasta de Soja de Gangshan é Tão Saborosa"](https://news.ltn.com.tw/news/life/breakingnews/2269537) — contexto completo sobre Liu Mingde, que chegou a Taiwan em 1948, se aposentou em 1950 e produziu a pasta de soja Mingde no bairro de soldados de Gangshan.
+[^6]: [Liberty Times: Era 'Molho'! O Segredo do Sabor Delicioso do Molho Douban de Gangshan](https://news.ltn.com.tw/news/life/breakingnews/2269537) — A história completa de Liu Mingde, que veio a Taiwan em 1948 e produziu o molho douban Mingde na vila militar de Gangshan após se aposentar em 1950.
 
-[^7]: [Sopa de Macarrão com Carne Bovina — Wikipédia](https://zh.wikipedia.org/zh-hant/%E5%8F%B0%E7%81%A3%E7%89%9B%E8%82%89%E9%BA%B5) — origem da sopa de macarrão com carne bovina em Taiwan nos bairros de soldados da base aérea de Gangshan, Kaohsiung, e o primeiro registro conhecido da loja "Pernil de Porco do Parque / Sopa de Macarrão com Carne Bovina" em 1962.
+[^7]: [Niu Rou Mian — Wikipédia](https://zh.wikipedia.org/zh-hant/%E5%8F%B0%E7%81%A3%E7%89%9B%E8%82%89%E9%BA%B5) — A origem do Niu Rou Mian nas vilas militares da Força Aérea em Gangshan, Kaohsiung, e o registro da primeira loja de Niu Rou Mian com pés de porco de parque em 1962.
 
 ## Leituras recomendadas
 
