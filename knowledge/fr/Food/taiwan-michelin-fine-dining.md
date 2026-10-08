@@ -1,264 +1,251 @@
 ---
-title: 'Taïwan : Le prix sous les étoiles et la redéfinition'
-description: "En 2018, le Guide Michelin est arrivé à Taïwan ; en apparence une gloire de la reconnaissance internationale, en réalité il a redessiné les règles de survie de l'industrie de la restauration : les restaurants « presque dignes » sont devenus les plus grandes victimes."
+title: 'Le Michelin à Taïwan : Le prix de la gloire sous les étoiles et la redéfinition'
+description: "En 2018, le guide Michelin est arrivé à Taïwan. Ce qui devait être une reconnaissance internationale a en réalité redéfini les règles de survie de l'industrie de la restauration, faisant des restaurants « presque dignes » les plus grandes victimes."
 date: 2026-03-23
 category: 'Food'
 tags:
   [
-    'Guide Michelin',
-    'gastronomie raffinée',
-    'restaurants étoilés',
-    'gastronomie taïwanaise',
+    'Michelin',
+    'gastronomie',
+    'restaurant étoilé',
+    'cuisine taïwanaise',
     'industrie de la restauration',
   ]
 subcategory: '精緻餐飲'
 author: 'Taiwan.md'
 featured: true
-lastVerified: 2026-03-23
+lastVerified: 2026-10-08
 lastHumanReview: false
 readingTime: 12
 imageNote: '原 Wikimedia 圖與文章主題不符，未收進庫，待換圖（圖片是香港荃灣如心廣場商場餐廳指示牌，非台灣場景，跟「台灣米其林」主題不符（地點錯誤））'
 translatedFrom: 'Food/台灣米其林與精緻餐飲.md'
-sourceCommitSha: '9094012f4'
-sourceContentHash: 'sha256:5dc9bb02298749c4'
-sourceBodyHash: 'sha256:3ca2a02845451f2c'
-translatedAt: '2026-09-09T19:34:15+08:00'
+sourceCommitSha: '1256f1c64'
+sourceContentHash: 'sha256:d09fcb3d4fd0c37a'
+sourceBodyHash: 'sha256:2a3a16840af180a4'
+translatedAt: '2026-10-08T14:51:36+08:00'
 ---
 
-# Taïwan : Le prix sous les étoiles et la redéfinition
+# Le Michelin à Taïwan : le prix de la gloire sous les étoiles et la redéfinition
 
-> **En 30 secondes :** En 2018, le Guide Michelin est arrivé à Taïwan. En 8 ans, il est passé d'une ville à 8 régions, passant de 127 restaurants à 419.
-> Mais ce qui a véritablement changé, ce n'est pas l'affaire des restaurants étoilés — ce sont les restaurants « presque dignes » qui doivent assumer le coût de la course aux étoiles, sans le flux de clients correspondant pour le soutenir,
-> se retrouvant dans une situation pire que celle des restaurants qui ne participent pas du tout à ce jeu. Il s'agit d'une histoire de reclassification de l'industrie de la restauration à Taïwan.
+> **Aperçu en 30 secondes :** En 2018, le guide Michelin est arrivé à Taïwan. Jusqu'à sa huitième édition en 2025, il s'est étendu d'une seule ville de Taipei à sept municipalités, passant de 110 restaurants à 419 ; la neuvième édition, publiée en juillet 2026, a porté ce nombre à 434.
+> Mais ceux qui ont réellement changé ne sont pas les restaurants étoilés – mais ceux « presque dignes » qui doivent supporter le coût de la poursuite des étoiles sans un soutien client proportionnel, et qui se retrouvent pire que les établissements qui n'ont pas participé du tout. C'est l'histoire d'une nouvelle stratification de l'industrie de la restauration à Taïwan.
 
-Le 14 mars 2018 à 20h17, la première ovation résonna dans la salle de banquet du Grand Hotel de Taipei. Gwendal Poullennec, directeur international du Guide Michelin, annonça : le _Guide Michelin Taipei_ est officiellement publié. À cet instant, l'industrie de la restauration taïwanaise fut redécoupée par une ligne invisible — ceux qui sont au-dessus de la ligne reçoivent les étoiles, ceux qui sont en dessous doivent décider : dépenser de l'argent pour courir après les étoiles, ou se retirer complètement de ce jeu.
+Le 14 mars 2018, le directeur international du guide Michelin, Michael Ellis (米高・艾利斯), a annoncé la première liste des restaurants étoilés dans le _Guide Michelin Taipei_ depuis l'hôtel Wen Hua Dongfang à Taipei [^1][^2]. À cet instant, l'industrie de la restauration taïwanaise fut redéfinie par une ligne invisible : ceux qui étaient en ligne obtenaient des étoiles, tandis que ceux hors ligne devaient décider s'ils allaient dépenser pour suivre cette tendance ou quitter complètement le jeu.
 
-Huit ans plus tard, les chiffres semblent impressionnants : 419 restaurants sélectionnés (2025), 53 restaurants étoilés, couvrant 8 régions. Derrière ces chiffres, un groupe de restaurants « presque dignes » subit la plus grande pression — ils ont investi des coûts énormes pour améliorer l'environnement, former le personnel et élever la qualité des ingrédients dans leur course aux étoiles, mais n'ont reçu aucune étoile et n'ont pas augmenté leur flux de clients en conséquence.
+Huit ans plus tard, les chiffres semblent impressionnants : 419 restaurants sélectionnés (en 2025), 53 restaurants étoilés, couvrant 7 municipalités [^3]. Mais derrière ces chiffres se trouve un groupe de restaurants « presque dignes » qui subissent la pression la plus forte – ils ont investi d'énormes coûts pour améliorer leur environnement, former leurs employés et élever la qualité des ingrédients dans l'espoir d'obtenir une étoile, sans y parvenir ni augmenter leur clientèle.
 
-C'est l'histoire véritable de l'industrie de la restauration à Taïwan : non pas une opposition entre tradition et international, mais une redéfinition de ce qui est « digne » et « indigne ».
+C'est la véritable histoire de l'industrie de la restauration à Taïwan : ce n'est pas une opposition entre tradition et international, mais une redéfinition du « convenable » et de l'« indigne ».
 
-| 419 restaurants sélectionnés       | 53 restaurants étoilés                         |
-| ---------------------------------- | ---------------------------------------------- |
-| Nombre total de restaurants (2025) | 3 trois étoiles, 7 deux étoiles, 43 une étoile |
+| 419 restaurants sélectionnés | 53 restaurants étoilés                   |
+| :--------------------------- | :--------------------------------------- |
+| Nombre total (2025)          | 3 étoiles, 7 deux étoiles, 43 une étoile |
 
-## La ligne de partage : la nuit qui a tout changé
+## Le point de bascule : cette nuit qui tout a changé
 
-### Le choix des 127 restaurants
+### Le choix des 110 restaurants
 
-La première édition du _Guide Michelin Taipei_ en 2018 a inclus 127 restaurants, dont 24 étoilés et 36 recommandés Bib Gourmand. Ce chiffre révèle déjà la stratégie de Michelin : non seulement certifier les restaurants haut de gamme, mais aussi prouver qu'il comprend la culture alimentaire taïwanaise.
+La première édition du _Guide Michelin Taipei_ en 2018 recensait 110 restaurants, dont 20 étoilés et 36 recommandés par Bib Gourmand [^1][^2]. Ce chiffre révèle déjà la stratégie de Michelin : ne pas seulement certifier les restaurants haut de gamme, mais aussi prouver qu'ils comprennent la culture gastronomique taïwanaise.
 
-À l'époque, ce qui a le plus surpris n'était pas que Le Palais (頤宮) ait obtenu deux étoiles — c'était dans les attentes. Ce qui a le plus choqué, c'est que des stands de rue comme Azong Mianxian (阿宗麵線), Du Xiaoyue (度小月) et Fuhong Beef Noodles (富宏牛肉麵) aient également reçu la recommandation Bib Gourmand. Un bol de Mianxian à 60 dollars de Taïwan et un repas de cuisine française à 8 000 dollars sont并列és dans le même guide.
+La seule étoile au trois étoiles de cette année-là a été décernée à Yi Gong (頤宮) [^1], un restaurant de cuisine cantonais situé dans l'hôtel Junpin. La recommandation Bib Gourmand est apparue une semaine avant les étoiles, avec 36 établissements dont 10 provenant de marchés nocturnes, allant des _hu jiao bing_ du marché nocturne Raohe au bouillon d'épaules de porc médicinal du marché nocturne Shilin, en passant par le _noodle_ de bœuf Yongkang [^2]. Les stands de rue et la gastronomie raffinée figuraient dans le même guide.
 
-« Nous avons vu à Taipei une diversité culinaire époustouflante », expliqua alors le directeur régional Asie du Guide Michelin, « des stands de marché traditionnel aux restaurants des hôtels cinq étoiles, chaque niveau a ses raisons d'être recommandé. »
+« Nos évaluateurs ont approfondi les diverses facettes et les délicieuses saveurs de la cuisine de Taipei, y compris les plats locaux tels que le _noodle_ de bœuf, les pieds de porc, les boulettes de calamars, etc., qui sont tous des repas savoureux et abordables », a déclaré Ellis lors de l'annonce de la liste Bib Gourmand [^2].
 
 > **📝 Note du curateur**
 >
-> La stratégie de l'arrivée de Michelin à Taïwan est claire : utiliser les recommandations Bib Gourmand pour prouver qu'il n'est pas un « colonisateur étranger »,
-> mais un « juge qui comprend la culture locale ». Cette stratégie a été un succès, mais a aussi semé les graines des controverses ultérieures.
+> La stratégie de Michelin à Taïwan était claire : utiliser le Bib Gourmand pour prouver qu'ils n'étaient pas des « colonisateurs étrangers », mais plutôt des « évaluateurs qui comprennent la culture locale ». Cette stratégie a été couronnée de succès, mais elle a également semé les graines d'un futur débat.
 
-### L'expansion des traces : pas un choix géographique aléatoire
+### L'expansion : un choix géographique non aléatoire
 
-La trajectoire de développement de Michelin à Taïwan reflète clairement le contexte géographique de la culture culinaire taïwanaise :
+La trajectoire du Michelin à Taïwan reflète clairement le contexte géographique de la culture gastronomique taïwanaise :
 
-1. **2018** — Taipei lancé en premier, le plus internationalisé
-2. **2020** — Taichung intégré, centre des snacks innovants
-3. **2022** — Tainan ajouté, le plus riche en fond culturel
-4. **2024** — Kaohsiung classé, riche en culture de la pêche
-5. **2025** — Nouveau Taipei et Hsinchu, écosystème du nord de Taïwan complété
+1. **2018** — Taipei en première, niveau international le plus élevé
+2. **2020** — Taichung rejoint [^4]
+3. **2022** — Tainan et Kaohsiung rejoignent l'année même [^5]
+4. **2025** — New Taipei City, Hsinchu County et Hsinchu City rejoignent, complétant l'écosystème du Nord de Taïwan [^3]
 
-Cet ordre ne suit pas les considérations administratives, mais la distribution naturelle du pouvoir culinaire de Taïwan. De Taipei, le plus facilement compris par les juges internationaux, à Tainan, qui nécessite une connaissance locale pour être apprécié, Michelin a pris 8 ans pour explorer la carte alimentaire de Taïwan.
+Cet ordre n'est pas une considération administrative, mais suit la distribution naturelle des capacités gastronomiques à Taïwan. De Taipei, le plus facile à comprendre pour les évaluateurs internationaux, à Tainan, qui nécessite une connaissance locale pour être apprécié, Michelin a passé 8 ans à sonder la carte alimentaire de Taïwan.
 
-## Des étoiles brillantes : l'interprétation taïwanaise des trois étoiles
+## Les lumières : l'interprétation taïwanaise des restaurants trois étoiles
 
-### Le Palais : l'expression ultime de l'artisanat cantonais
+### Yi Gong (頤宮) : l'apogée du savoir-faire cantonnais
 
-Situé dans le Grand Hotel, Le Palais (頤宮) a obtenu deux étoiles en 2018 et est passé à trois étoiles en 2019, conservant ce titre pendant 8 années consécutives. Il ne représente pas seulement la raffinement de la cuisine cantonaise, mais prouve que la cuisine chinoise peut atteindre les normes les plus élevées de Michelin.
+Yi Gong (頤宮), situé dans l'hôtel Junpin, a obtenu trois étoiles dès la première édition en 2018 et les a conservées pendant neuf éditions consécutives jusqu'en 2026 [^1][^6]. Il représente non seulement le raffinement de la cuisine cantonais, mais aussi la preuve que la cuisine chinoise peut atteindre le plus haut niveau Michelin.
 
-Le canard rôlé du chef Chen Wei-chiang a une peau si croustillante qu'elle émet un son clair au toucher léger d'un couteau, avec une viande juteuse mais pas grasse. Derrière ce plat se cachent 48 heures de préparation : sélection de canards mandarins de Qingyuan âgés de 90 jours, séchage à l'air pendant 24 heures, rôtissage à feu doux pendant 3 heures, chaque étape de contrôle de température précise au degré Celsius.
+Lorsqu'il a obtenu ses étoiles en 2018, Yi Gong était dirigé par les chefs exécutifs Chen Wei-qiang (陳偉強) et Chen Tai-rong (陳泰榮), deux personnes qui travaillaient dans la cuisine taïwanaise depuis plus de trente ans [^7]. Interrogés le lendemain de l'obtention des étoiles, Chen Wei-qiang a déclaré : « Trois étoiles ne peuvent pas être atteintes par une seule personne ; cela nécessite la coopération entre la cuisine et le service, le soutien du propriétaire, tout doit s'harmoniser. » [^7]
 
-« L'essence de la cuisine cantonaise réside dans les détails », dit Chen Wei-chiang, « si la cuisson des blancs d'œufs en vapeur a 30 secondes d'écart, la texture est complètement différente. »
+### Taïrroir (態芮) : l'expérience pionnière de fusion Taïwan-Français
 
-### Taïrroir : l'expérience pionnière de fusion taïmano-française
+Le chef exécutif He Shun-kai (何順凱), qui a étudié la cuisine française dans une succursale Guy Savoy à Singapour et à JAAN, a fondé Taïrroir à Taïwan en 2016. Il a obtenu une étoile en 2018, puis est passé à deux étoiles en 2019 [^8], avant d'atteindre trois étoiles en 2023 [^9]. Sa « cuisine française taïwanaise » a redéfini ce qu'est l'« expression internationale du goût taïwanais ».
 
-Le chef Ho Shun-kai est rentré à Taïwan après Restaurant André à Singapour pour fonder Taïrroir. Il a obtenu une étoile en 2018, est passé à deux étoiles en 2019 et a atteint trois étoiles en 2024. Sa « cuisine française taïwanaise » a redéfini ce qu'est l'« expression internationale du goût taïwanais ».
+Le nom Taïrroir est un mot composé de _Taiwan_ et du terme français _terroir_.
 
-Le plus célèbre, « Bœuf taïwanais avec œufs de poisson noir », combine parfaitement le bœuf frais de Tainan, les œufs de poisson noir de Penghu et la technique française sous-vide. La viande est cuite dans un bain-marie à température constante de 58°C pendant 2 heures, conservant sa couleur rose ; les œufs de poisson noir sont râpés en fines tranches, créant des couches de saveur entre le salé-aromatique et la douceur du bœuf.
+### JL Studio : la réinterprétation des épices d'Asie du Sud-Est à Taichung
 
-« Je ne fais pas de la cuisine française, ni de la cuisine taïwanaise », explique Ho Shun-kai, « je fais de la cuisine française pour les Taïwanais, ou disons de la cuisine taïwanaise pour les Français. »
+JL Studio, situé à Taichung, est dirigé par le chef exécutif Lin Tian-yao (林恬耀), originaire de Singapour. Il est arrivé à Taïwan en 2007 et a travaillé pendant huit ans au LeMu à Taichung avant d'ouvrir JL Studio en 2017 [^4]. En 2020, le Michelin a évalué Taichung pour la première fois, et l'établissement y est devenu deux étoiles dès sa première inclusion [^4]. Il est passé à trois étoiles en 2023, rejoignant Taïrroir comme seul restaurant trois étoiles de Taichung [^9][^6].
 
-### JL Studio : l'interprétation de Taichung aux épices de l'Asie du Sud-Est
+Il a développé plus d'une dizaine de versions basées sur le poulet au riz Hainanais, dont une version sans poulet utilisant du asperge blanc de Changhua pour la viande et du konjac pour la peau, un assemblage qui présente une subtile similarité avec le poulet au riz Hainanais [^10].
 
-Situé à Taichung, JL Studio, le chef Lin Tien-yao a apporté l'expérience de Restaurant André à Singapour à Taïwan, créant une gastronomie raffinée pleine de charme de l'Asie du Sud-Est. Il a obtenu trois étoiles en 2021, devenant le troisième restaurant à trois étoiles de Taïwan et le seul à Taichung.
+« Chaque modification doit apporter une amélioration, une meilleure approche, pas modifier par simple modification », a dit Lin Tian-yao [^10].
 
-Le plat signature « Pokok » (signifiant « arbre » en malais) prend comme base les légumes locaux de Taïwan, associés aux épices de l'Asie du Sud-Est comme le lait de coco, le citronnelle et les feuilles de combava, présentant une forme tridimensionnelle en arbre. Ce plat nécessite 16 types de légumes différents, chacun ayant un traitement différent : certains crus, certains fumés, certains fermentés.
+> **✦** « Un vrai restaurant trois étoiles n'est pas celui qui transporte des techniques étrangères à Taïwan, mais celui qui exprime l'esprit taïwanais dans un langage universel. »
 
-« Je veux prouver que Taïwan n'a pas seulement la cuisine taïwanaise et française, mais beaucoup plus de possibilités », dit Lin Tien-yao.
+## Bib Gourmand : la certification internationale de la gastronomie populaire et le débat
 
-> **✦** « Un véritable restaurant à trois étoiles ne transporte pas simplement les techniques étrangères à Taïwan, mais exprime l'esprit taïwanais dans le langage du monde. »
+### La dignité de la cuisine abordable
 
-## Les recommandations Bib Gourmand : reconnaissance internationale et controverses de la gastronomie populaire
+L'objectif du Bib Gourmand est de certifier les restaurants où l'on peut manger une bonne cuisine pour moins de NT$1 000. En 2025, 144 restaurants à Taïwan ont reçu cette distinction, et parmi les 37 nouveaux inscrits, près des deux tiers proposent de la gastronomie locale et des snacks taïwanais [^11].
 
-### La dignité de la gastronomie abordable
-
-L'objectif initial des recommandations Bib Gourmand (Bib Gourmand) était de certifier les restaurants où « on peut profiter d'une haute qualité culinaire pour moins de 1 000 dollars ». En 2025, 144 restaurants à Taïwan ont reçu la recommandation Bib Gourmand, dont près de 60 % sont des snacks locaux taïwanais.
-
-Lorsque Azong Mianxian (fondé en 1975) a reçu la recommandation Bib Gourmand, ce petit stand de 4 ping (environ 13 m²) a fait face à un défi sans précédent. La foule en attente est passée de 10-15 personnes à 50-100 personnes, mais le propriétaire Zhang Azong a refusé d'agrandir le local : « Je préfère faire attendre les clients un peu plus pour maintenir la qualité de chaque bol de Mianxian. »
-
-Ce choix a rapidement suscité des débats : succès commercial et transmission culturelle peuvent-ils être conciliés ?
+L'afflux de clients généré par cette sélection a fait du « concilier le succès commercial et la transmission culturelle » un débat récurrent.
 
 > **⚠️ Point de vue controversé**
 >
-> Les recommandations Bib Gourmand de Michelin ont donné une reconnaissance internationale aux snacks traditionnels, mais ont également changé leur écosystème d'exploitation.
-> Les partisans estiment que cela a élevé le statut international de la gastronomie populaire taïwanaise ; les critiques estiment que cela a détruit le caractère « populaire » des snacks.
+> La reconnaissance internationale accordée aux snacks traditionnels par le Bib Gourmand a également modifié leur écosystème opérationnel. Les partisans affirment que cela rehausse le statut international de la gastronomie populaire taïwanaise ; les critiques, en revanche, estiment que cela détruit le caractère « populaire » des snacks.
 
 ### La redéfinition du prix et de la qualité
 
-Les restaurants recommandés Bib Gourmand augmentent presque tous leurs prix. Niu Lao Da (牛老大) a passé son forfait de 800 à 1 200 dollars ; Dim Sum Lou (點水樓) a passé ses xiaolongbao de 160 à 220 dollars. Le concept de « qualité supérieure, prix supérieur » a été progressivement accepté par les consommateurs taïwanais.
+Après avoir été sélectionné, il faut un engagement continu en matière d'ingrédients, de main-d'œuvre et d'environnement pour maintenir le niveau, des coûts qui sont récurrents chaque année. Pour les restaurants ayant obtenu le Bib Gourmand, l'augmentation de la clientèle permet de couvrir ces coûts ; mais pour les restaurants « presque dignes » qui n'ont pas été sélectionnés, cela crée une pression immense.
 
-Mais le problème véritable n'est pas l'augmentation des prix, mais le changement de structure des coûts. Pour maintenir la certification Michelin, ces restaurants doivent :
+## La révolution des étoiles vertes : la pratique durable à Taïwan
 
-- Améliorer la qualité des ingrédients (coût augmentant de 20-30 %)
-- Renforcer la formation du personnel (coût de main-d'œuvre augmentant de 15-25 %)
-- Améliorer l'environnement de restauration (investissement unique de 500 000 à 2 millions de dollars)
-- Établir des processus standardisés (coût opérationnel augmentant de 10-15 %)
+### L'éveil de la conscience environnementale
 
-Ces coûts ne sont pas ponctuels, mais nécessitent un investissement continu chaque année. Pour les restaurants ayant obtenu la recommandation Bib Gourmand, l'augmentation du flux de clients peut soutenir ces coûts ; mais pour les « presque dignes » qui n'ont pas été sélectionnés, cela crée une pression énorme.
+Le Green Star Michelin a été décerné pour la première fois dans l'édition française en 2020 pour récompenser les restaurants excellant en matière de durabilité [^12], et est arrivé à Taïwan en 2021 [^5]. En 2025, il y avait 7 restaurants avec une étoile verte à Taïwan, allant d'EMBERS à Taipei à Thomas Chien à Kaohsiung [^3] ; l'édition 2026 compte 9 établissements [^6].
 
-## La révolution verte : la pratique taïwanaise de la restauration durable
+Les premiers Green Stars de Taïwan ont été décernés en 2021 à Mountain and Sea House (山海樓) et Yangming Spring (陽明春天), avec EMBERS rejoignant le groupe en 2022 [^5][^13]. Le chef Wes est originaire de Taipei, et son menu utilise une grande quantité d'ingrédients autochtones, transformant le restaurant en un concept forestier [^13].
 
-### La prise de conscience de la conscience environnementale
+### La sophistication de l'agriculture taïwanaise
 
-En 2021, Michelin a commencé à décerner l'étoile verte (Green Star) pour récompenser les restaurants excellents en gestion durable. Taïwan compte actuellement 7 restaurants ayant obtenu l'étoile verte, de EMBERS à Taipei à Thomas Chien à Kaohsiung, démontrant différentes philosophies de durabilité.
+L'émergence des restaurants verts a stimulé la transformation et l'amélioration de l'agriculture à Taïwan. Lorsque les restaurants étoilés ont commencé à exiger des ingrédients « respectueux de l'environnement », « sans pesticides » et « traçables », les agriculteurs ont également commencé à réfléchir à la manière d'améliorer la qualité de leurs produits.
 
-EMBERS est le premier restaurant de Taïwan à obtenir l'étoile verte. Le chef Guo Ting-wei collabore directement avec plus de 20 petits agriculteurs d'Ilan et Hualien, le menu change selon les saisons, n'utilisant que des légumes biologiques de saison. Le restaurant a même établi un « fonds pour les agriculteurs », avançant des paiements pour aider les agriculteurs à traverser la saison morte de la récolte.
+Tu Pang (地坊), situé à Taichung, a obtenu une étoile verte en 2025. Le restaurant intègre la question environnementale dans son menu, informant les clients sur les ressources marines et la réduction du carbone par le récit des plats. L'équipe visite des terres agricoles de tout Taïwan, organise des activités d'éducation alimentaire et agricole dans des campus et des communautés, avec un plat à base de millet chaque saison pour revitaliser cette culture céréalière importante [^3].
 
-« Nous n'achetons pas seulement des légumes, nous soutenons un mode de vie », explique Guo Ting-wei, « lorsque les restaurants urbains commencent à s'intéresser au développement durable des zones rurales, la nourriture n'est plus seulement de la nourriture. »
+| 7 restaurants verts (2025)              | 9 restaurants verts (2026)                            |
+| :-------------------------------------- | :---------------------------------------------------- |
+| Taipei (5), Taichung (1), Kaohsiung (1) | Ajout de Se (澀) à Taichung et Yu Dao (予島) à Tainan |
 
-### La raffinement de l'agriculture taïwanaise
-
-L'essor des restaurants étoilés verts a entraîné la transformation et la montée en gamme de l'agriculture taïwanaise. Lorsque les restaurants étoilés commencent à exiger des ingrédients « écologiques », « sans pesticides » et « traçables », les agriculteurs commencent également à réfléchir à comment améliorer la qualité des produits.
-
-Tu Pang (地坊) à Taichung a obtenu la certification verte en 2025. Ce restaurant n'utilise pas seulement des légumes biologiques, mais développe de nouvelles variétés avec les agriculteurs. Ils collaborent avec un agriculteur biologique de Changhua pour cultiver des carottes violettes plus sucrées ; expérimentent avec des agriculteurs de Nantou l'influence de différentes altitudes sur la saveur du thé.
-
-« Lorsque les restaurants et les champs commencent à dialoguer, la terre de Taïwan a de nouvelles possibilités », dit le chef de Tu Pang.
-
-| 7 restaurants étoilés verts             | 20+ fermes partenaires                                           |
-| --------------------------------------- | ---------------------------------------------------------------- |
-| 5 à Taipei, 1 à Taichung, 1 à Kaohsiung | Nombre de fermes biologiques directement collaborées avec EMBERS |
-
-## Le prix : le revers de l'effet Michelin
+## Le prix : le revers sombre du phénomène Michelin
 
 ### Le dilemme des « presque dignes »
 
-Le plus grand impact de Michelin n'est pas d'avoir rendu les bons restaurants meilleurs, mais d'avoir créé un « piège d'effort ». Les restaurants « presque dignes » — bonne qualité alimentaire, bon service, mais non sélectionnés — font face à la plus grande pression.
-
-Le chef d'un restaurant français à Taipei (demandant l'anonymat) a révélé : « Pour obtenir la certification Michelin, nous avons dépensé 3 millions de dollars pour rénover, envoyé le chef en France pour perfectionnement, introduit des ingrédients de première qualité. Résultat : pas même sélectionné. Maintenant, 500 000 dollars de coûts mensuels supplémentaires, mais pas d'augmentation de clients, au contraire, nous avons perdu certains clients fidèles à cause de l'augmentation des prix. »
-
-Ce dilemme existe partout à Taïwan. Selon les estimations des professionnels de la restauration, environ 200-300 restaurants à travers le pays sont dans cet état « ni haut ni bas » : ils ont investi dans le coût de la course aux étoiles, mais n'ont pas obtenu le retour correspondant.
+L'impact majeur du Michelin n'est pas d'avoir rendu les bons restaurants meilleurs, mais d'avoir créé un « piège de l'effort ». Les restaurants « presque dignes » – dont la qualité de nourriture est bonne et le service acceptable, mais qui ne sont tout simplement pas sélectionnés – font face à la plus grande pression.
 
 > **📝 Note du curateur**
 >
-> C'est le côté le plus cruel de l'effet Michelin : il ne certifie pas seulement l'excellence, il redéfinit également la norme de la « dignité ».
-> Avant, il suffisait que la nourriture soit bonne et le service correct ; maintenant, vous devez atteindre les « normes Michelin », sinon vous êtes « pas assez bon ».
+> C'est la facette la plus cruelle du phénomène Michelin : il ne se contente pas de certifier l'excellence ; il redéfinit le standard de « suffisance ». Auparavant, si la nourriture était bonne et le service acceptable, c'était suffisant ; maintenant, vous devez atteindre le « standard Michelin », sinon vous n'êtes « pas assez bon ».
 
-### L'effet Matthieu sur la mobilité des talents
+### L'effet Matthieu sur les mouvements de talents
 
-La certification Michelin a accéléré la mobilité des talents dans l'industrie de la restauration. Les restaurants étoilés peuvent offrir des salaires plus élevés, de meilleures opportunités de formation, plus d'exposition internationale, créant un effet Matthieu de « les forts deviennent plus forts ».
+La certification Michelin a intensifié la mobilité des talents dans l'industrie de la restauration. Les restaurants étoilés peuvent offrir des salaires plus élevés, de meilleures opportunités de formation et une plus grande exposition internationale aux employés, créant un effet Matthieu où « le fort devient encore plus fort ».
 
-Un jeune chef travaillant dans un restaurant étoilé dit : « J'étais auparavant dans un très bon restaurant italien, mais il n'avait pas la certification Michelin. Plus tard, je suis passé à un restaurant une étoile, le salaire a augmenté de 10 000 dollars, avec la possibilité d'aller en Italie pour perfectionnement. En y repensant maintenant, la nourriture de ce restaurant italien n'était pas mauvaise, mais il manquait juste cette étoile. »
+Cette circulation des talents rend encore plus difficile pour les restaurants « presque dignes » de maintenir leur qualité, créant un cercle vicieux.
 
-Cette mobilité des talents rend plus difficile pour les restaurants « presque dignes » de maintenir la qualité, créant un cercle vicieux.
+### La restructuration de la chaîne d'approvisionnement alimentaire
 
-### La restructuration de la chaîne d'approvisionnement des ingrédients
+La certification Michelin a également modifié la chaîne d'approvisionnement alimentaire. Les exigences des restaurants étoilés ont poussé l'ensemble de la chaîne à se perfectionner : un contrôle qualité plus strict, un système de traçabilité plus complet et des prix plus élevés.
 
-La certification Michelin a également changé la chaîne d'approvisionnement des ingrédients. Les exigences des restaurants étoilés en matière d'ingrédients ont entraîné la montée en gamme de toute la chaîne d'approvisionnement : contrôle de qualité plus strict, système de traçabilité plus complet, prix plus élevés.
+C'est une bonne chose pour l'agriculture taïwanaise, mais cela a également créé une stratification. Les ingrédients de première qualité sont prioritairement fournis aux restaurants étoilés, tandis que les autres restaurants ne peuvent choisir que des ingrédients de seconde catégorie ou doivent supporter des coûts plus élevés.
 
-C'est une bonne chose pour l'agriculture taïwanaise, mais cela a également créé une classification. Les ingrédients de première qualité sont prioritairement fournis aux restaurants étoilés, les restaurants ordinaires ne peuvent choisir que des ingrédients de niveau inférieur, ou assumer des coûts plus élevés.
+## Conflit culturel : le standard français face à la culture gastronomique taïwanaise
 
-## Conflit culturel : normes françaises et culture alimentaire taïwanaise
+### Le défi d'adaptation des critères d'évaluation
 
-### Le défi de l'adaptabilité des critères d'évaluation
+Le cœur de l'évaluation Michelin est le standard du « Fine Dining » : saveurs distinctes, dressage précis et processus de service formel. Or, la culture gastronomique taïwanaise met l'accent sur le « partage », l'« ambiance animée » et la « chaleur humaine ».
 
-Le cœur de l'évaluation Michelin est la norme « Fine Dining » : saveurs stratifiées, dressage précis, processus de service formel. Mais la culture alimentaire taïwanaise met l'accent sur le « partage des plats », le « bruit/anima » et l'« humanité ».
-
-L'exemple le plus évident est l'évaluation de la cuisine taïwanaise. Shan Hai Lou (山海樓) a obtenu une étoile car son design spatial, le choix de la vaisselle et la configuration du sommelier répondaient aux normes de Fine Dining. Mais de nombreux gourmets estiment que la cuisine taïwanaise authentique devrait être sur une table ronde, avec des baguettes publiques pour servir, accompagnée de bière taïwanaise, et non en service à l'assiette individuelle accompagnée de vin rouge.
-
-« Lorsque nous évaluons la cuisine taïwanaise avec des normes françaises, évaluons-nous encore la cuisine taïwanaise ? » se demande l'écrivaine culinaire Tsai Chu-er (蔡珠兒).
+L'exemple le plus frappant est la cuisine taïwanaise (_Taicai_). Mountain and Sea House (山海樓), qui présente la _Taicai_ en format à la carte ou menu, est un restaurant une étoile [^6], mais de nombreux gourmets pensent que la _Taicai_ la plus authentique devrait être dégustée autour d'une table ronde, avec des pinces communes pour servir les plats et de la bière taïwanaise, plutôt qu'en format à la carte avec du vin.
 
 ### Le dilemme des snacks traditionnels
 
-Pour les snacks traditionnels, la certification Michelin apporte des défis plus complexes. Le succès d'Azong Mianxian a prouvé que la gastronomie populaire peut obtenir une reconnaissance internationale, mais a également suscité le débat sur « la commercialisation détruira-t-elle la tradition ? ».
+Pour les snacks traditionnels, le Michelin apporte un défi encore plus complexe. Le succès d'_A-Zong Mian Xian_ (阿宗麵線) a prouvé que la gastronomie populaire pouvait obtenir une reconnaissance internationale, mais cela a également soulevé le débat sur « si la commercialisation ne détruit pas la tradition ».
 
-Après avoir obtenu la recommandation Bib Gourmand, le temps d'attente de Yongkang Beef Noodles (永康牛肉麵) est passé de 15 minutes à 1-2 heures. Le propriétaire a dû faire un choix : agrandir le local, augmenter les places, embaucher plus de personnel ? Finalement, il a choisi de maintenir l'état initial, préférant faire attendre les clients plutôt que de changer le modèle d'exploitation.
-
-Mais tous les commerçants n'ont pas ce « caprice » financier.
+Les établissements anciens comme les _noodle_ de bœuf Yongkang ont été sélectionnés par Bib Gourmand dès la première édition [^2]. La question de savoir s'ils doivent agrandir leur établissement, augmenter leurs places assises ou embaucher plus d'employés est un choix auquel chaque établissement doit faire face après avoir été sélectionné.
 
 > **⚠️ Point de vue controversé**
 >
-> L'impact de Michelin sur la culture alimentaire taïwanaise a des évaluations extrêmes : les partisans estiment qu'il a élevé le statut international et la conscience de la qualité ;
-> les critiques estiment qu'évaluer la culture orientale avec des normes occidentales est fondamentalement une forme de colonisation culturelle.
+> L'influence du Michelin sur la culture gastronomique taïwanaise est double : les partisans affirment qu'elle rehausse le statut international et la conscience de la qualité ; les critiques, au contraire, considèrent que juger une culture orientale avec des standards occidentaux est intrinsèquement une forme de colonisation culturelle.
 
-## Concurrents et défis : l'assouplissement de l'autorité de Michelin
+## Concurrents et défis : l'assouplissement de l'autorité Michelin
 
-### Le défi des 50 Meilleurs Restaurants du Monde
+### Le défi du « World's 50 Best Restaurants »
 
-Outre Michelin, l'influence de la sélection des « 50 Meilleurs Restaurants du Monde » est en hausse. Organisé par le magazine britannique _Restaurant_, cette sélection utilise un système de vote par jury, mettant davantage l'accent sur l'innovation et la notoriété.
+En plus du Michelin, l'influence de la sélection « World's 50 Best Restaurants » est en augmentation. Cette évaluation, organisée par le magazine britannique _Restaurant_, utilise un système de vote des critiques et met davantage l'accent sur l'innovation et le buzz médiatique.
 
-Les restaurants taïwanais ne se distinguent pas particulièrement dans cette sélection, mais ce système de sélection a rappelé à Michelin une chose importante : la certification n'est pas une entreprise monopolistique, et les normes ne sont pas immuables.
+Les restaurants taïwanais ne se sont pas particulièrement distingués dans cette sélection, mais ce système a servi de rappel important au Michelin : l'évaluation n'est pas un monopole, et les standards ne sont pas immuables.
 
-### La démocratisation de l'ère numérique
+### L'évaluation démocratique à l'ère numérique
 
-L'influence des notes Google, des réseaux sociaux et des blogueurs culinaires est en train de défier l'autorité de Michelin. La jeune génération de consommateurs fait plus confiance aux photos de nourriture sur Instagram qu'aux recommandations du Guide Michelin.
+L'influence des notes Google, des médias sociaux et des blogueurs gastronomiques remet en question l'autorité du Michelin. La jeune génération de consommateurs fait davantage confiance aux photos de nourriture sur Instagram qu'aux recommandations du guide Michelin.
 
-Le restaurant AKAME à Pingtung en est un exemple. Ce restaurant spécialisé dans la cuisine autochtone n'a jamais demandé d'évaluation Michelin, mais possède une popularité extrême sur les réseaux sociaux, les réservations étant plus difficiles que n'importe quel restaurant étoilé.
-
-« Certains restaurants se moquent des évaluations extérieures », observe le commentateur culturel Zhan Weixiong (詹偉雄), « ils font juste ce qu'ils aiment, équilibrant leurs pertes et profits mensuellement. C'est peut-être une autre未来 de l'industrie de la restauration taïwanaise. »
+AKAME à Pingtung est un exemple. Ce restaurant qui utilise des ingrédients autochtones n'est pas inclus dans le périmètre d'évaluation du Michelin [^3], et sa réputation, basée sur le bouche-à-oreille et les médias sociaux, est difficile à obtenir.
 
 ## Redéfinition : le prochain chapitre de la gastronomie raffinée taïwanaise
 
 ### L'expression internationale du goût taïwanais
 
-L'expérience de ces 8 ans montre que les meilleurs restaurants taïwanais ne se vantent pas刻意ment d'être « cuisine taïwanaise », mais interprètent les ingrédients et les mémoires gustatives taïwanaises avec des techniques modernes.
+L'expérience des huit dernières années montre que les restaurants taïwanais les plus réussis ne se présentent pas en tant que « _Taicai_ » délibéré, mais interprètent les ingrédients et la mémoire gustative de Taïwan à travers des techniques modernes.
 
-Jiang Zhen-cheng (江振誠) de RAW ne dit jamais qu'il fait de la cuisine taïwanaise, mais sa cuisine est pleine d'éléments taïwanais : fleurs de bétel, fruits de l'arbre à pain, jackfruit de Taitung. Lorsque les clients étrangers dégustent sa cuisine, ils ressentent l'esprit du terroir taïwanais, et non un nom de catégorie culinaire spécifique.
-
-« L'important n'est pas comment s'appelle la cuisine », dit Jiang Zhen-cheng, « mais si elle peut transmettre le contenu culturel unique de Taïwan. »
+RAW, dirigé par Jiang Zhencheng (江振誠) à Dazhi, Taipei, a fermé ses portes fin 2024 après avoir été ouvert en 2014. Il a obtenu une étoile en 2018 et est resté deux étoiles de 2019 à 2023 [^14]. Il ne s'est jamais présenté comme un restaurant _Taicai_, mais son menu était basé sur des ingrédients locaux taïwanais.
 
 ### L'équilibre entre technique et émotion
 
-La future gastronomie raffinée taïwanaise doit trouver un équilibre entre l'amélioration technique et la connexion émotionnelle. Michelin a poussé à l'élévation du niveau technique, mais l'âme de la gastronomie taïwanaise reste toujours ce réchauffement humain.
+La gastronomie raffinée future à Taïwan doit trouver un équilibre entre le perfectionnement technique et la connexion émotionnelle. Le Michelin a stimulé l'amélioration du niveau technique, mais l'âme de la cuisine taïwanaise reste cette chaleur humaine.
 
-Au Taïrroir, vous ne dégustez pas seulement une gastronomie raffinée, vous ressentez également la chaleur et l'hospitalité des Taïwanais. Cette combinaison de « technique + chaleur » est peut-être l'avantage unique des restaurants taïwanais.
+Dîner à Taïrroir, ce n'est pas seulement déguster une cuisine raffinée, c'est ressentir l'hospitalité chaleureuse des Taïwanais. Cette combinaison « technique + température » est peut-être un avantage unique pour les restaurants taïwanais.
 
-### Le modèle taïwanais de développement durable
+### Le modèle taïwanais du développement durable
 
-Avec la création du prix de l'étoile verte, la gestion durable deviendra une tendance future. Taïwan a un avantage unique dans ce domaine : des ressources agricoles riches, une chaîne d'approvisionnement courte du producteur à la table, une conscience environnementale profonde.
+Avec la création de l'étoile verte, le développement durable deviendra une tendance future. Taïwan a un avantage unique dans ce domaine : des ressources agricoles riches, une chaîne d'approvisionnement courte du producteur à la table, et une conscience environnementale profonde.
 
-La future gastronomie raffinée taïwanaise ne cherchera pas seulement la satisfaction gustative, mais assumera également la responsabilité environnementale et sociale. Lorsque les restaurants commencent à s'intéresser aux revenus des agriculteurs, à réfléchir à l'empreinte carbone des ingrédients, à réduire le gaspillage alimentaire, ils ne sont plus seulement des restaurants, mais des forces qui poussent le progrès social.
+La gastronomie raffinée future ne vise pas seulement la satisfaction gustative, mais doit assumer une responsabilité environnementale et sociale. Lorsque les restaurants commencent à se soucier du revenu des agriculteurs, réfléchissent à l'empreinte carbone des ingrédients et réduisent le gaspillage alimentaire, ils ne sont plus de simples restaurants, mais des moteurs de progrès social.
 
-> **💡 Le saviez-vous ?**
+> **💡 Saviez-vous que**
 >
-> Taïwan est la seule région d'Asie où des restaurants ont obtenu à la fois des étoiles Michelin et une étoile verte.
-> Mountain and Sea House possède à la fois une étoile et une étoile verte, prouvant que durabilité et excellence peuvent être conciliés.
+> Mountain and Sea House (山海樓) possède à la fois une étoile et une étoile verte [^6]. Ce type de combinaison n'est pas unique à Taïwan en Asie ; Hong Kong, Thaïlande, Pékin, Shanghai, Tokyo, Kyoto ont également des restaurants étoilés avec une étoile verte [^12].
 
-## Conclusion : réflexion sous les étoiles
+## Conclusion : la réflexion sous les lumières des étoiles
 
-Les 8 années du Guide Michelin à Taïwan ont témoinné le processus de l'industrie de la restauration passant de la quantité à la qualité. 53 restaurants étoilés, 144 recommandations Bib Gourmand, 419 restaurants sélectionnés — derrière ces chiffres se trouvent les efforts innombrables des chefs, des serveurs, des agriculteurs, des fournisseurs d'ingrédients.
+Les 8 années du guide Michelin à Taïwan ont témoigné de la transformation de l'industrie de la restauration d'une question quantitative à une question qualitative. Les 53 restaurants étoilés, les 144 établissements Bib Gourmand et les 419 restaurants sélectionnés – derrière ces chiffres se trouvent les efforts d'innombrables chefs, serveurs, agriculteurs et fournisseurs d'ingrédients.
 
-Mais l'important n'est pas le nombre d'étoiles, c'est que l'effet Michelin nous fait repenser : qu'est-ce qu'un bon restaurant ? Qu'est-ce que le goût de Taïwan ? Sous les normes d'évaluation globalisées, comment maintenir l'unicité culturelle ?
+Mais ce qui est vraiment important, ce n'est pas le nombre d'étoiles, mais la façon dont le phénomène Michelin nous force à repenser : qu'est-ce qu'un bon restaurant ? Qu'est-ce que le goût taïwanais ? Comment maintenir l'unicité culturelle sous les standards d'évaluation mondiaux ?
 
-Michelin vient peut-être de France, mais les étoiles qui fleurissent sur la terre de Taïwan ont déjà un goût taïwanais prononcé. Ces étoiles ne sont pas seulement une garantie de qualité, mais une manifestation de la confiance culturelle. Elles disent au monde : Taïwan a non seulement des snacks délicieux, mais aussi une gastronomie raffinée de niveau mondial ; Taïwan ne sait pas seulement préserver la tradition, mais peut également créer l'avenir.
+Le Michelin peut provenir de France, mais les étoiles qui fleurissent sur le sol taïwanais portent une forte saveur taïwanaise. Ces étoiles ne sont pas seulement une garantie de qualité ; elles sont une manifestation de la confiance culturelle. Elles disent au monde : Taïwan n'a pas que des snacks délicieux, il a aussi une gastronomie raffinée de calibre mondial ; Taïwan ne se contente pas de préserver la tradition, il peut créer l'avenir.
 
-Mais nous devons également faire face honnêtement au prix de l'effet Michelin : les restaurants luttant au bord des étoiles, les snacks traditionnels dont l'écosystème a été changé, les restaurants « presque dignes » sous pression. Est-ce le coût inévitable de la poursuite de l'excellence, ou un problème systémique qui peut être amélioré ?
+Mais nous devons également faire face honnêtement au prix du phénomène Michelin : les restaurants qui luttent en marge des étoiles, les snacks traditionnels dont l'écosystème a été modifié, et les restaurants « presque dignes » sous pression. Est-ce le coût inévitable de la recherche d'excellence, ou un problème systémique qui peut être amélioré ?
 
-Dans le ciel étoilé brillant de la restauration taïwanaise, chaque étoile raconte la même histoire : c'est un paradis culinaire à la fois traditionnel et moderne, local et international. Mais le véritable défi n'est pas d'obtenir plus d'étoiles, mais de ne pas perdre l'âme de la culture alimentaire taïwanaise dans la poursuite de la reconnaissance internationale.
+Dans le ciel nocturne de la gastronomie taïwanaise illuminée par les étoiles, chaque étoile raconte la même histoire : c'est un paradis culinaire à la fois traditionnel et moderne, local et international. Mais le vrai défi n'est pas d'obtenir plus d'étoiles, mais de ne pas perdre l'âme de la culture gastronomique taïwanaise dans la quête de reconnaissance internationale.
 
-C'est Taïwan, c'est notre auto-réflexion sous les étoiles.
+Ceci est Taïwan, ceci est notre réflexion sur nous-mêmes sous les lumières des étoiles.
 
 ## Références
 
-- [Liste complète du _Guide Michelin Taiwan 2025_](https://guide.michelin.com/tw/zh_TW/article/michelin-guide-ceremony/taiwan-full-list)
-- [Évaluer globalement, manger localement : réfléchir à la signification interculturelle de Michelin - VERSE](https://www.verse.com.tw/article/taste-guide-michelin)
-- [Earth Day : Comment les restaurants étoilés verts MICHELIN en Asie font leur part avec des pratiques durables](https://guide.michelin.com/en/article/features/earth-day-michelin-green-star-restaurants-asia-sustainable-practices)
-- [2025 Michelin : La liste des étoiles du _Guide Michelin Taiwan 2025_ est révélée - Vogue Taiwan](https://www.vogue.com.tw/article/michelin-guide-2025-%E5%8F%B0%E7%81%A3%E7%B1%B3%E5%85%B6%E6%9E%97%E6%8C%87%E5%8D%97)
-- [Le _Guide Michelin Taiwan 2025_ a sélectionné 144 établissements pour les recommandations Bib Gourmand](https://guide.michelin.com/tw/zh_TW/article/michelin-guide-ceremony/michelin-guide-taiwan-2025-bib-gourmand-selection)
+- [Liste complète du _Guide Michelin Taïwan 2025_](https://guide.michelin.com/tw/zh_TW/article/michelin-guide-ceremony/taiwan-full-list)
+- [Manger local à l'échelle mondiale : une réflexion sur la signification interculturelle de Michelin - VERSE](https://www.verse.com.tw/article/taste-guide-michelin)
+- [Earth Day: How MICHELIN Green Star Restaurants In Asia Are Doing Their Part With Sustainable Practices](https://guide.michelin.com/en/article/features/earth-day-michelin-green-star-restaurants-asia-sustainable-practices)
+- [Le _Guide Michelin Taïwan 2025_ compte 144 établissements sélectionnés par Bib Gourmand](https://guide.michelin.com/tw/zh_TW/article/michelin-guide-ceremony/michelin-guide-taiwan-2025-bib-gourmand-selection)
+
+[^1]: [Première édition du guide Michelin à Taipei ! 20 restaurants étoilés - Newtalk](https://newtalk.tw/news/view/2018-03-14/117318) — Rapporté le 14/03/2018 : la première liste comptait 110 établissements, dont 20 étoiles, avec Yi Gong comme seule étoile trois étoiles, annoncée par le directeur international Michael Ellis.
+
+[^2]: [Liste complète : les restaurants recommandés par Bib Gourmand du _Guide Michelin Taipei_ - Guide Michelin](https://guide.michelin.com/tw/zh_TW/taipei-region/taipei/article/news-and-views/taipei-michelin-guide-bib-2018) — 36 pour Bib Gourmand, dont 10 provenant de marchés nocturnes, avec l'inscription des noodles de bœuf Yongkang ; citation d'Ellis ; publié le 14/03/2018 à l'hôtel Wen Hua Dongfang à Taipei.
+
+[^3]: [Révélation de la liste complète du _Guide Michelin Taïwan 2025_ - Guide Michelin](https://guide.michelin.com/tw/zh_TW/article/michelin-guide-ceremony/michelin-guide-taiwan-starred-restaurant-2025) — La huitième édition compte 419 établissements, 53 étoilés, avec l'ajout des sept municipalités de New Taipei City et Hsinchu County ; 7 restaurants verts, Tu Pang est nouvellement inclus.
+
+[^4]: [Michelin 2022 / JL Studio maintiennent deux étoiles, la cuisine singapourienne révèle un goût familier - Far Eastern Economic Weekly](https://www.gvm.com.tw/article/93676) — Taichung a été inclus pour la première fois en 2020, et JL Studio est devenu deux étoiles dès sa première inclusion ; Lin Tian-yao est arrivé à Taïwan en 2007 et a travaillé au LeMu pendant huit ans avant d'ouvrir JL Studio en 2017.
+
+[^5]: [Liste complète du _Guide Michelin Taipei, Taichung, Tainan & Kaohsiung 2022_ - News taïwanaise en anglais](https://www.taiwannews.com.tw/ch/news/4642126) — L'édition 2022 a inclus Tainan et Kaohsiung pour la première fois ; les premières étoiles vertes ont été lancées à Taipei et Taichung en 2021, avec Mountain and Sea House et Yangming Spring.
+
+[^6]: [Liste complète du _Guide Michelin Taïwan 2026_ - Guide Michelin](https://guide.michelin.com/tw/zh_TW/article/michelin-guide-ceremony/taiwan-full-list) — Publiée le 21/07/2026, elle compte 434 établissements ; Yi Gong, Taïrroir et JL Studio ont trois étoiles ; 9 étoiles vertes ; Mountain and Sea House est une étoile et verte.
+
+[^7]: [Le jour de l'obtention des étoiles : Chen Wei-qiang et Chen Tai-rong d'Yi Gong - Guide Michelin](https://guide.michelin.com/tw/zh_TW/taipei-region/taipei/article/people/first-day-i-got-my-michelin-stars-Le-Palais) — Interview des deux chefs exécutifs d'Yi Gong le 15/03/2018, incluant la citation de Chen Wei-qiang sur l'obtention des étoiles.
+
+[^8]: [Interview du chef exécutif He Shun-kai pour Marie Claire Beauty](https://www.marieclaire.com.tw/lifestyle/career/46333) — He Shun-kai a travaillé dans une succursale Guy Savoy à Singapour et à JAAN, fondant Taïrroir en 2016 ; le nom combine Taiwan et terroir ; une étoile en 2018, deux étoiles en 2019.
+
+[^9]: [【Michelin 2023】Analyse de la liste complète des 44 restaurants étoilés : Taïrroir et JL Studio obtiennent trois étoiles - Mirror Weekly](https://www.mirrormedia.mg/story/20230831food001) — Le 31/08/2023, Taïrroir et JL Studio sont passés de deux à trois étoiles.
+
+[^10]: [Le voyage d'inspiration du chef Lin Tian-yao de JL Studio - Guide Michelin](https://guide.michelin.com/tw/zh_TW/article/people/inspirational-journey-jimmy-lim-jl-studio) — La version utilisant l'asperge blanc de Changhua pour la viande et le konjac pour la peau, inspirée par le poulet au riz Hainanais, ainsi que les paroles de Lin Tian-yao sur la modification des plats.
+
+[^11]: [Le _Guide Michelin Taïwan 2025_ compte 144 établissements sélectionnés par Bib Gourmand - Guide Michelin](https://guide.michelin.com/tw/zh_TW/article/michelin-guide-ceremony/michelin-guide-taiwan-2025-bib-gourmand-selection) — En 2025, 144 établissements ont été sélectionnés pour le Bib Gourmand, avec 37 nouveaux inscrits, dont près des deux tiers proposant de la gastronomie locale et des snacks taïwanais.
+
+[^12]: [Earth Day: How MICHELIN Green Star Restaurants In Asia Are Doing Their Part - Guide Michelin](https://guide.michelin.com/en/article/features/earth-day-michelin-green-star-restaurants-asia-sustainable-practices) — Le Green Star a été décerné pour la première fois dans l'édition française en 2020 ; il liste les restaurants étoilés avec une étoile verte à Hong Kong, en Thaïlande, à Pékin, Shanghai, Tokyo, Kyoto et Osaka, ainsi qu'à Mountain and Sea House de Taipei.
+
+[^13]: [【Michelin 2022】Annonce des listes de restaurants étoilés - Mirror Weekly](https://www.mirrormedia.mg/story/20220830food003) — En 2022, EMBERS et LeMu ont obtenu une étoile verte, tandis que Mountain and Sea House et Yangming Spring les ont conservées ; le chef Wes d'EMBERS utilise beaucoup d'ingrédients autochtones.
+
+[^14]: [Le choc du départ de Jiang Zhencheng ! RAW fermera ses portes à la fin de l'année - NOWnews](https://www.nownews.com/news/6481528) — RAW a été fondé en 2014, a obtenu une étoile en 2018 et est resté deux étoiles de 2019 à 2023, avant de fermer le 31/12/2024.
