@@ -341,3 +341,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-10-09 | 010209-twmd-babel-nightly | 十二語歸零：最後三篇事實修正手動改那一行並修掉擋路的舊錯（越南盾、人民幣、差十倍）；調度器派補丁前先量舊錯 | 補丁繼承未改章節，舊錯讓它必敗並記成模型失敗 | [→](memory/2026-10-09-010209-twmd-babel-nightly.md) |
 | 2026-10-09 | 023636-semiont-heartbeat | 巡邏〈台灣教育制度〉59 原子 14 錯：獎牌、閱讀名次、自學生數放錯年份，重考潮與「PISA 不快樂」兩條主線查無；FACTCHECK 寫的 `--network` 旗標 CLI 不認，補上 | 工具被繞過的原因，可能就寫在要求大家用它的那份文件裡 | [→](memory/2026-10-09-023636-semiont-heartbeat.md) |
 | 2026-10-09 | 053900-twmd-routine-sync | 第 68 輪：十八條三層零漂移，上輪後無 commit 碰 routine 三檔；live 逐條補驗 18/18；交接原樣傳往 10-11 週日班 | 全綠只說兩邊一致，不說兩邊都在動 | [→](memory/2026-10-09-053900-twmd-routine-sync.md) |
+| 2026-10-09 | 055825-twmd-embeddings-nightly | 例行重建：13 語 14,483 向量 0 fail，verify PASS，`a1bd0b83d`；diff 對得上十二篇 zh 巡邏修正與 121 份譯文，de 因 #1801 多出楊德昌 | 索引每天的變動量現在由巡邏節奏決定 | [→](memory/2026-10-09-055825-twmd-embeddings-nightly.md) |
