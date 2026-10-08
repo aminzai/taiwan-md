@@ -79,7 +79,10 @@ function listSuccessRuns(query) {
 function fetchRuns() {
   // workflow file path: .github/workflows/deploy.yml
   // gh api: /repos/:owner/:repo/actions/workflows/deploy.yml/runs
-  let runs = listSuccessRuns(`per_page=${N_RUNS}&status=completed`);
+  // 2026-10-09：用 status=success 直接要成功 run。原本 status=completed 再濾 success，
+  // babel 密集推送時 deploy 一直被下一次推送取消（10-08 最近 30 個 completed 裡 24 個
+  // cancelled），30 個名額只剩 6 個成功 run、涵蓋 0.8 天，7d avg 實際是不到一天的平均。
+  let runs = listSuccessRuns(`per_page=${N_RUNS}&status=success`);
   if (runs && newestAgeDays(runs) > MAX_NEWEST_AGE_DAYS) {
     console.error(
       `⚠️  status=completed 查詢的最新成功 run 是 ${runs[0]?.created_at ?? '無'}，換不帶 status 的查詢重抓`,
