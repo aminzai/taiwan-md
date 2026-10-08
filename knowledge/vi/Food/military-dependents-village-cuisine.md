@@ -1,30 +1,28 @@
 ---
-title: 'Ẩm thực quân gia tộc Đài Loan'
-description: 'Những hương vị đa tỉnh từ Đại di dân năm 1949, từ những bếp nhà trong rào tre đến bảo tồn vị giác sau khi quân gia được bãi bỏ'
+title: 'ẩm thực chợ trại người nhập cư ở Đài Loan'
+description: 'Hương vị từ các tỉnh thành sau sự kiện lớn năm 1949, từ bếp núc trong chợ trại lá cây trúc đến việc bảo tồn giác quan sau khi chợ trại bị phá hủy'
 date: 2026-03-19
 category: 'Food'
 tags:
   [
-    'quân gia tộc ẩm thực',
-    'ngoại tỉnh ẩm thực',
-    'mì bò Đài Loan',
-    'Đại di dân',
-    'rào tre',
+    'ẩm thực chợ trại người nhập cư ở Đài Loan',
+    'ẩm thực tỉnh ngoại',
+    'mì bò',
+    'sự kiện lớn năm 1949',
+    'chợ trại lá cây trúc',
   ]
-subcategory: 'Ẩm thực tộc nhân'
+subcategory: '族群飲食'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-imageAlt: 'Bánh nếp hành hoa'
 readingTime: 8
+imageNote: '原圖僅 GFDL 授權（非 CC BY／CC BY-SA／CC0／公有領域），未收進庫，待另覓授權明確圖源'
 translatedFrom: 'Food/台灣眷村菜.md'
-sourceCommitSha: 'b185af4e7'
-sourceContentHash: 'sha256:065bf6354c8e6e97'
-sourceBodyHash: 'sha256:c6f4891abde841e9'
-translatedAt: '2026-08-09T08:07:25+08:00'
-relatedDiary: []
-sporeLinks: []
+sourceCommitSha: 'ef80aeea4'
+sourceContentHash: 'sha256:467908b1a60dd52d'
+sourceBodyHash: 'sha256:833d2eafe654813e'
+translatedAt: '2026-10-08T14:08:22.325233+00:00'
 ---
 
 # Ẩm thực quân gia tộc Đài Loan
@@ -75,13 +73,13 @@ Nội dung táo bạo của ẩm thực Sơn Đông gặp sự tinh tế của �
 
 Sự mềm mỏng của ẩm thực Quảng Đông và sự nặng nề của ẩm thực miền Bắc, cũng tìm thấy một điểm cân bằng trong quân gia tộc. Nhiều ẩm thực quân gia tộc đều thể hiện đặc điểm hòa quyện Nam Bắc, vừa giữ lại hương vị gốc rễ, vừa thích ứng với khí hậu và nguyên liệu của Đài Loan.
 
-## Quân gia tộc được bãi bỏ, bảo tồn và công viên quân gia tộc
+## Sự giải tỏng, bảo tồn và khu vực khu nhà trẻ cũ của quân đội
 
-Năm 1996, "Luật cải tạo quân gia tộc cũ kỹ" được thông qua, đất quân gia tộc dần chuyển thành khu xây dựng lại hoặc khu nhà ở quốc dân, các tòa nhà quân gia tộc cũ nhanh chóng biến mất.[^4] Tuy nhiên, một số quân gia tộc đã được giữ lại do tiếng nói bảo tồn văn hóa.
+Năm 1996, 《Đạo luật về cải tạo các khu nhà trẻ cũ của quân đội》được thông qua, các mảnh đất của khu nhà trẻ cũ dần được chuyển đổi thành khu đô thị mới hoặc đất nhà ứng dụng nhà nước. Những công trình kiến trúc thực tế của các khu nhà trẻ cũ cũ ngày càng biến mất. [^4] Tuy nhiên, một số khu nhà trẻ cũ đã được giữ lại nhờ tiếng gọi về bảo tồn văn hóa.
 
-Làng Tứ Tứ Nam ở Quận Tín Nghĩa Đài Bắc, là trường hợp bảo tồn quân gia tộc nổi tiếng nhất ở Đài Loan. Khu công trình gốc vào năm 2003 chuyển hóa thành một bảo tàng văn hóa quân gia tộc, trở thành một trường địa điểm cho các thương hiệu ẩm thực như "Tốt Chọn" (Good Cho's), cho phép ẩm thực quân gia tộc tái trình diễn trong một bối cảnh mới. Tòng do Đào Viên có số lượng quân gia tộc nhiều nhất toàn quốc, có bảo tàng văn hóa quân gia tộc và lễ hội văn hóa quân gia tộc hàng năm, hình thành một nút giao thoa quan trắc văn hóa với ẩm thực làm cốt lõi.[^5] Gần những bức tường thành cổ thế kỷ thứ mười Bắc của Cao Hùng Tả Doanh, cũng bảo tồn nhiều quân gia tộc được liệt kê quản lý.
+Khu nhà trẻ cũ Ssu-Ssu Nam ở quận Xinyi, Bắc Đài, là một trong những trường hợp bảo tồn khu nhà trẻ cũ nổi tiếng nhất trên đảo. Nhóm công trình gốc đã được chuyển đổi thành bảo tàng văn hóa khu nhà trẻ cũ vào năm 2003, trở thành nơi đóng cửa cho các thương hiệu ẩm thực như "Good Cho's", mang đến một bối cảnh mới để trưng bày ẩm thực khu nhà trẻ cũ. Hòa Bình là một tỉnh có tập trung đông đảo khu nhà trẻ cũ; theo báo cáo năm 2018, trong tổng số 888 khu nhà trẻ cũ trên toàn đảo, có 86 khu thuộc Hòa Bình. Lễ hội văn hóa khu nhà trẻ cũ do chính quyền địa phương tổ chức, năm ấy có cả cuộc thi ẩm thực tại sân chính. [^5] Gần khu phố cổ xưa của Tây Sơn ở phía nam thành phố Gaoxiong, cũng còn lại nhiều khu nhà trẻ cũ được liệt kê quản lý.
 
-Những không gian quân gia tộc được giữ lại này, cho phép sự truyền thừa ẩm thực quân gia tộc có những bộ lạc địa danh vật lý, cũng cho phép thế hệ tiếp theo, bên ngoài vị giác, nhìn thấy hình dạng cụ thể của đoạn lịch sử nhập cư này.
+Những không gian khu nhà trẻ cũ được giữ lại này, không chỉ cung cấp cho sự lưu truyền ẩm thực khu nhà trẻ cũ một điểm tham chiếu vật lý, mà còn cho phép thế hệ trẻ thấy rõ hình dạng cụ thể của lịch sử di cư này, ngoài cảm nhận bằng giác quan vị giác.
 
 ## Quan điểm hai chiều: Quan điểm của người bản tỉnh và nhận dạng thế hệ thứ hai quân gia tộc
 
@@ -103,19 +101,19 @@ Những đầu bếp thế hệ mới bắt đầu diễn giải lại ẩm th�
 
 ## Tài liệu tham khảo
 
-[^1]: [Trung tâm Bảo tồn Văn hóa Quân gia tộc của Bộ Quốc phòng](https://mvac.mnd.gov.tw/) — Bối cảnh lịch sử quân gia tộc và dữ liệu dân số di cư.
+[^1]: [Trung tâm bảo tồn văn hóa khu cách xá quân sự](https://mvac.mnd.gov.tw/) — Bối cảnh lịch sử khu cách xá và số liệu dân số di dân.
 
-[^2]: [Tài liệu Đài Loan 〈Sự thay đổi và bảo tồn của nền ẩm thực quân gia tộc〉](https://www.th.gov.tw/epaper/view2.php?Period=168&TBID=3) — Tập 71, số 4 (2020) trao đổi ẩm thực giữa bản tỉnh và ngoại tỉnh.
+[^2]: [Tạp chí Taiwan (Tạp chí Taiwan) <Sự thay đổi và bảo tồn văn hóa ẩm thực khu cách xá>](https://www.th.gov.tw/epaper/view2.php?Period=168&TBID=3) — Tập 71, số 4 (2020) - Sự giao lưu ẩm thực giữa người bản xứ và người nước ngoài.
 
-[^3]: [Tiêu Đồng "Hương vị Đài Loan" — Văn hóa Two Fish](https://www.taaze.tw/usedBook.html?oid=11100873870) — Xác nhận nguồn gốc mì bò quân gia tộc và quá trình địa phương hóa ẩm thực Tứ Xuyên.
+[^3]: [Giao Đồng <<Vị giác của Taiwan>> — Văn hóa hai con cá](https://www.taaze.tw/usedBook.html?oid=11100873870) — Xác nhận nguồn gốc mì bò từ khu cách xá và quá trình địa phương hóa ẩm thực Tứ xuyên.
 
-[^4]: [Cơ sở dữ liệu luật pháp quốc gia: Luật cải tạo quân gia tộc cũ kỹ](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0000002) — Xác nhận thông qua năm 1996, thứ tự xây dựng lại đất đai và cải tạo.
+[^4]: [Cơ sở dữ liệu pháp lý toàn quốc: Điều lệ cải tạo khu cách xá quân sự cũ](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0000002) — Xác nhận năm 1996 được thông qua, trình tự sắp xếp lại đất và cải tạo.
 
-[^5]: [Bảo tàng Văn hóa Quân gia tộc Đào Viên](https://www.taoyuan.gov.tw/) — Thông tin về không gian bảo tồn quân gia tộc Đào Viên và lễ hội văn hóa quân gia tộc hàng năm.
+[^5]: [Đầu mới: Tham quan lễ hội văn hóa khu cách xá ở Thâu Nguyên! Nghe các cô mẹ kể chuyện](https://newtalk.tw/news/view/2018-10-04/148037) — Ngày 4 tháng 10 năm 2018, trong tổng số 888 khu cách xá trên khắp đảo, Thâu Nguyên có 86 khu, lễ hội văn hóa khu cách xá chính thức có hoạt động đi dạo và thi ẩm thực.
 
-[^6]: [Tờ báo Tự do: Hóa ra là "Tương"! Lý do tương đậu Giang Sơn ngon](https://news.ltn.com.tw/news/life/breakingnews/2269537) — Bối cảnh hoàn chỉnh về Lưu Minh Đức đến Đài Loan vào năm 1948, xuất ngũ năm 1950 và sản xuất tương đậu Minh Đức tại quân gia tộc Giang Sơn.
+[^6]: [Thời báo Tự do: Thực ra là <<Nước mắm>>! Nước mắm đậ bạp ở Gangshan có lý do](https://news.ltn.com.tw/news/life/breakingnews/2269537) — Quy trình hoàn chỉnh của Liu Mingde đến Taiwan năm 1948, sau khi nghỉ quân năm 1950, sản xuất nước mắm đậ bạp Mingde tại khu cách xá Gangshan.
 
-[^7]: [Mì bò — Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%8F%B0%E7%81%A3%E7%89%9B%E8%82%89%E9%BA%B5) — Nguồn gốc mì bò Đài Loan ở quân gia tộc không quân Cao Hùng Giang Sơn, ghi chép cửa hàng "Mì thịt lợn công viên mì bò" có thể theo dõi được sớm nhất năm 1962.
+[^7]: [Mì bò — Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%8F%B0%E7%81%A3%E7%89%9B%E8%82%89%E9%BA%B5) — Nguồn gốc mì bò của Taiwan tại khu cách xá không quân Gangshan, ghi nhận cửa hàng mì bò chân thịnh bì trong khu công viên năm 1962.
 
 ## Đọc thêm
 
