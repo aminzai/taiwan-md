@@ -33,9 +33,10 @@ sporeLinks:
     date: '2026-06-04'
     url: 'https://x.com/taiwandotmd/status/2062546721742483679'
 translatedFrom: 'Technology/國家太空中心.md'
-sourceCommitSha: '82c0407f6'
-sourceContentHash: 'sha256:e4e6dbc8acdd8970'
-translatedAt: '2026-09-22T06:49:06.796777+00:00'
+sourceCommitSha: 'faa905d7'
+sourceContentHash: 'sha256:27a79bac11713a70'
+translatedAt: '2026-10-08T16:48:28.199178+00:00'
+sourceBodyHash: 'sha256:e55206c67a0d4344'
 ---
 
 Pada tahun 2016, dalam video musik 〈頑固〉 dari Mayday, seorang pria paruh baya membuat roket di tanah tandus. Ia dianggap sebagai orang gila yang melamun, dan akhirnya terbang ke langit dengan membawa roket buatan sendiri. Kebanyakan orang Taiwan pertama kali mengenal Wu Zongxin bukan melalui lembaga negara mana pun, tetapi melalui video musik ini: Pria Roket itu [^1].
@@ -338,7 +339,7 @@ Semua gambar dalam artikel ini di-_cache_ pada `public/article-images/technology
 
 [^21]: [TechOrange: Anjing menggonggong di mobil api sendiri](https://buzzorange.com/techorange/2021/10/15/rocket-uncle-rock-dream/) — 吳宗信自述從學者時期的批評像「狗吠火車」，當主任後變成自己開火車（原文 403 無法逐字核對，故以轉述呈現不加引號）。
 
-[^22]: [Kementerian Sains dan Teknologi: Undang-Undang Pengembangan Antariksa disetujui pada pembacaan ketiga](https://www.most.gov.tw/folksonomy/detail/cfa1c793-b58d-46ee-a90c-d32bfe5980a3?l=ch) — 《Undang-Undang Pengembangan Antariksa》 dibaca tiga kali oleh Legislatif pada tanggal 31 Mei 2021, menjadi undang-undang antariksa pertama di Taiwan, Pasal 622.
+[^22]: [Dewan Sains dan Teknologi Nasional (dahulu Kementerian Sains dan Teknologi): Yuan Legislatif mengesahkan rancangan Undang-Undang Pengembangan Antariksa pada pembacaan ketiga](https://www.nstc.gov.tw/folksonomy/detail/cfa1c793-b58d-46ee-a90c-d32bfe5980a3?l=ch) — Undang-Undang Pengembangan Antariksa disahkan Yuan Legislatif pada pembacaan ketiga tanggal 31 Mei 2021, menjadi undang-undang khusus antariksa pertama di Taiwan, terdiri atas enam bab dan dua puluh dua pasal.
 
 [^23]: [Teks lengkap Undang-Undang Pengembangan Antariksa (Basis Data Hukum Nasional)](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0160078) — Pasal 11 Ayat 1 menyatakan 'Peluncuran wahana di wilayah negara harus dilakukan di area peluncuran nasional', yang merupakan dasar hukum bagi Taiwan untuk memiliki lokasi peluncurannya sendiri.
 

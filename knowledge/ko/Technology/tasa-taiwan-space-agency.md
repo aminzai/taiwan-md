@@ -11,10 +11,10 @@ lastVerified: 2026-06-12
 lastHumanReview: false
 featured: true
 translatedFrom: 'Technology/國家太空中心.md'
-sourceCommitSha: '82c0407f'
-sourceContentHash: 'sha256:84d56ad19effe1d5'
+sourceCommitSha: 'faa905d7'
+sourceContentHash: 'sha256:27a79bac11713a70'
 sourceBodyHash: 'sha256:e55206c67a0d4344'
-translatedAt: '2026-06-14T00:35:00+08:00'
+translatedAt: '2026-10-08T16:48:28.190093+00:00'
 image: '/article-images/technology/formosat8-tasa-banner.webp'
 imageCredit: '國家太空中心 TASA（官方釋出，fair use editorial commentary）'
 imageLicense: 'Fair use editorial commentary（©TASA）'
@@ -321,7 +321,7 @@ _국가우주센터 TASA 공식 홍보영상: 포모사 위성 8호는 한 기 �
 
 [^21]: [TechOrange：狗吠火車到自己開火車](https://buzzorange.com/techorange/2021/10/15/rocket-uncle-rock-dream/) — 우쭝신은 학자 시절의 비판이 “기차를 향해 개가 짖는 것” 같았고, 주임이 된 뒤에는 자신이 기차를 몰게 되었다고 설명했다(원문은 403으로 직접 대조할 수 없어 본문에서는 인용부호 없이 전언으로 처리했다).
 
-[^22]: [科技部：太空發展法三讀通過](https://www.most.gov.tw/folksonomy/detail/cfa1c793-b58d-46ee-a90c-d32bfe5980a3?l=ch) — 《우주발전법》은 입법원에서 2021/5/31 3독 통과되었으며, 타이완 최초의 우주 전문법으로 6장 22조다.
+[^22]: [국가과학기술위원회(구 과학기술부): 입법원, 「우주발전법」 초안 3독 통과](https://www.nstc.gov.tw/folksonomy/detail/cfa1c793-b58d-46ee-a90c-d32bfe5980a3?l=ch) — 《우주발전법》은 입법원에서 2021/5/31 3독 통과되었으며, 타이완 최초의 우주 전문법으로 6장 22조다.
 
 [^23]: [太空發展法全文（全國法規資料庫）](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0160078) — 제11조 제1항의 “발사체가 대만 경내에서 발사될 때에는 국가 발사장역에서 발사 작업을 실시해야 한다”는 문장은 타이완이 자체 발사장을 가져야 하는 법적 근거다.
 

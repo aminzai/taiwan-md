@@ -339,7 +339,7 @@ Todas as imagens deste artigo estão em cache em `public/article-images/technolo
 
 [^21]: [TechOrange: Cães latindo para um trem que se autodestrói](https://buzzorange.com/techorange/2021/10/15/rocket-uncle-rock-dream/) — Wu Zongxin relatou que as críticas durante sua época como acadêmico eram como "cães latindo para um trem", e após se tornar diretor, ele estava dirigindo seu próprio trem (o texto original 403 não pôde ser verificado palavra por palavra, portanto, foi apresentado uma tradução indireta sem aspas).
 
-[^22]: [NSTC (antigo Ministério da Ciência e Tecnologia): O Legislativo aprova o rascunho da 'Lei de Desenvolvimento Espacial'](https://www.nstc.gov.tw/folksonomy/detail/cfa1c793-b58d-46ee-a90c-d32bfe5980a3?l=ch) — A Lei de Desenvolvimento Espacial foi aprovada em três leituras pelo Legislativo em 31/5/2021, sendo a primeira lei espacial de Taiwan, com vinte e dois artigos no Capítulo Seis.
+[^22]: [Conselho Nacional de Ciência e Tecnologia (antigo Ministério da Ciência e Tecnologia): o Yuan Legislativo aprova em terceira leitura o projeto da Lei de Desenvolvimento Espacial](https://www.nstc.gov.tw/folksonomy/detail/cfa1c793-b58d-46ee-a90c-d32bfe5980a3?l=ch) — A Lei de Desenvolvimento Espacial foi aprovada em terceira leitura pelo Yuan Legislativo em 31/5/2021; é a primeira lei espacial específica de Taiwan, com seis capítulos e vinte e dois artigos.
 
 [^23]: [Texto completo da Lei de Desenvolvimento Espacial (Banco Nacional de Legislação)](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0160078) — O Artigo 11, Parágrafo 1 diz: "Os veículos de lançamento devem realizar operações de lançamento dentro das áreas de lançamento nacionais", o que é a base legal para Taiwan ter seu próprio local de lançamento.
 

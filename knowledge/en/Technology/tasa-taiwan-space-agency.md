@@ -19,10 +19,10 @@ lastVerified: 2026-06-12
 lastHumanReview: false
 featured: true
 translatedFrom: 'Technology/國家太空中心.md'
-sourceCommitSha: '82c0407f'
-sourceContentHash: 'sha256:84d56ad19effe1d5'
+sourceCommitSha: 'faa905d7'
+sourceContentHash: 'sha256:27a79bac11713a70'
 sourceBodyHash: 'sha256:e55206c67a0d4344'
-translatedAt: '2026-06-14T00:35:00+08:00'
+translatedAt: '2026-10-08T16:48:28.184951+00:00'
 image: '/article-images/technology/formosat8-tasa-banner.webp'
 imageCredit: '國家太空中心 TASA（官方釋出，fair use editorial commentary）'
 imageLicense: 'Fair use editorial commentary（©TASA）'
@@ -329,7 +329,7 @@ All images in this article are cached under `public/article-images/technology/` 
 
 [^21]: [TechOrange: From barking at a train to driving it himself](https://buzzorange.com/techorange/2021/10/15/rocket-uncle-rock-dream/) — Wu described his criticism as a scholar as being like "a dog barking at a train," and said that after becoming director general he was driving the train himself. The original article returns 403 and could not be checked verbatim, so the body presents this as paraphrase without quotation marks.
 
-[^22]: [Ministry of Science and Technology: Space Development Act passed on third reading](https://www.most.gov.tw/folksonomy/detail/cfa1c793-b58d-46ee-a90c-d32bfe5980a3?l=ch) — The Space Development Act passed the Legislative Yuan on third reading on 2021/5/31, becoming Taiwan's first dedicated space law, with six chapters and twenty-two articles.
+[^22]: [National Science and Technology Council (formerly the Ministry of Science and Technology): Legislative Yuan passes the draft Space Development Act on third reading](https://www.nstc.gov.tw/folksonomy/detail/cfa1c793-b58d-46ee-a90c-d32bfe5980a3?l=ch) — The Space Development Act passed the Legislative Yuan on third reading on 2021/5/31, becoming Taiwan's first dedicated space law, with six chapters and twenty-two articles.
 
 [^23]: [Full text of the Space Development Act (Laws & Regulations Database)](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0160078) — Article 11, paragraph 1 states that "launch vehicles launched within the territory of our country shall conduct launch operations at a national launch site," providing the legal basis for Taiwan needing its own launch site.
 

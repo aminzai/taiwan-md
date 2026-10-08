@@ -33,10 +33,10 @@ sporeLinks:
     date: '2026-06-04'
     url: 'https://x.com/taiwandotmd/status/2062546721742483679'
 translatedFrom: 'Technology/國家太空中心.md'
-sourceCommitSha: '82c0407f6'
-sourceContentHash: 'sha256:84d56ad19effe1d5'
+sourceCommitSha: 'faa905d7'
+sourceContentHash: 'sha256:27a79bac11713a70'
 sourceBodyHash: 'sha256:e55206c67a0d4344'
-translatedAt: '2026-08-09T08:07:25+08:00'
+translatedAt: '2026-10-08T16:48:28.196036+00:00'
 ---
 
 Năm 2016, trong video của Năm Ngày "Cứng Đầu", có một người đàn ông trung niên duy trì tên lửa trong một khu đất hoang vu. Anh ấy bị coi là một kẻ điên mộng tưởng, rồi cuối cùng bay lên trời với một tên lửa tự chế. Lần đầu tiên hầu hết người Đài Loan biết về Ngô Tông Tín (吳宗信), không phải thông qua bất kỳ cơ quan chính phủ nào, mà thông qua video này: ông lão tên lửa[^1].
@@ -217,7 +217,7 @@ Vào ngày 9 tháng 10 năm 2023, vệ tinh Người Đoán Gió được phóng
 
 ## Đi Tới Đâu
 
-Đất có được, toà có được, người có được, tiền cũng bù được. Tháng 7 năm 2024, Trung Tâm Vũ Trụ ngày càng mở rộng khai trương điểm văn phòng thứ hai ở Công Đạo Năm Tân Trúc; ngày 26 tháng 3 năm 2025, Quốc Gia Viện Khoa Học chọn làng Cửu Bằng của huyện Mãn Châu Bình Đông làm bãi phóng lên quốc gia vĩnh viễn; ngày 20 tháng 10 năm 2025, Viện Hành Pháp phê duyệt mở rộng Kế Hoạch Phát Triển Dài Hạn Công Nghệ Vũ Trụ Kỳ III từ 251 tỷ ban đầu lên 710 tỷ, kéo dài thời gian đến 2031[^31][^32][^34].
+Đất có được, toà có được, người có được, tiền cũng bù được. Tháng 7 năm 2024, Trung Tâm Vũ Trụ ngày càng mở rộng khai trương điểm văn phòng thứ hai ở Công Đạo Năm Tân Trúc; ngày 26 tháng 3 năm 2025, Quốc Gia Viện Khoa Học chọn làng Cửu Bằng của huyện Mãn Châu Bình Đông làm bãi phóng lên quốc gia vĩnh viễn; ngày 20 tháng 10 năm 2025, Viện Hành Pháp phê duyệt mở rộng Kế Hoạch Phát Triển Dài Hạn Công Nghệ Vũ Trụ Kỳ III từ 25,1 tỷ Đài tệ ban đầu lên 71 tỷ Đài tệ, kéo dài thời gian đến 2031[^31][^32][^34].
 
 > **💡 Bạn Có Biết Không**
 > Đài Loan có mấy bãi phóng lên dễ bị lẫn lộn, phân biệt rõ chúng thực ra là đã đọc hiểu nửa lịch sử vũ trụ của Đài Loan. Cơ Sở Cửu Bồ ở Bình Đông, là cơ sở quân sự của Viện Nghiên Cứu Trung Khoa, có từ năm 1975 rồi, lâu nay tập tự chụp pháo[^33]. Bãi Phóng Lên Lữ Hải ở huyện Dương Đan Bình Đông, là bãi phóng lên khoa học của Quốc Gia Viện Khoa Học khai trương 2022, nhóm ARRC của Ngô Tông Tín đã bắn tên lửa ở đây[^33]. Cửu Bằng mới là bãi phóng lên quốc gia được chọn 2025[^32]. Còn lần Tên Lửa Chuột Bay Tiến Thắng của Tiến Thắng, là ở Xã Nam Điền Đạt Nhân Đài Đông — hoàn toàn không phải ba cái này[^33].
@@ -338,7 +338,7 @@ Hình ảnh bài viết tất cả cache tại `public/article-images/technology
 
 [^21]: [TechOrange: Chó Sủa Tàu Chạy Đến Tự Mở Tàu](https://buzzorange.com/techorange/2021/10/15/rocket-uncle-rock-dream/) — Ngô Tông Tín Tự Thuật Từ Thời Học Giới Lời Chỉ Trích Giống "Chó Sủa Tàu Chạy", Trở Thành Giám Đốc Sau Trở Thành Tự Mở Tàu (Bản Gốc 403 Không Thể Kiểm Tra Tường Minh, Vì Vậy Thay Thế Bằng Lời Tường Thuật Không Có Trích Dẫn).
 
-[^22]: [Bộ Khoa Học Công Nghệ: Luật Phát Triển Vũ Trụ Ba Lần Đọc Thông Qua](https://www.most.gov.tw/folksonomy/detail/cfa1c793-b58d-46ee-a90c-d32bfe5980a3?l=ch) — Luật Phát Triển Vũ Trụ Viện Lập Pháp Ngày 31 Tháng 5 Năm 2021 Ba Lần Đọc, Luật Đặc Biệt Vũ Trụ Đầu Tiên Của Đài Loan, Sáu Chương Hai Mươi Hai Điều.
+[^22]: [Hội đồng Khoa học và Công nghệ Quốc gia (nguyên Bộ Khoa học và Công nghệ): Viện Lập pháp thông qua dự thảo Luật Phát triển Vũ trụ ở lần đọc thứ ba](https://www.nstc.gov.tw/folksonomy/detail/cfa1c793-b58d-46ee-a90c-d32bfe5980a3?l=ch) — Luật Phát triển Vũ trụ được Viện Lập pháp thông qua ở lần đọc thứ ba ngày 31/5/2021, là đạo luật chuyên về không gian đầu tiên của Đài Loan, gồm sáu chương và hai mươi hai điều.
 
 [^23]: [Luật Phát Triển Vũ Trụ Bản Đầy Đủ (Cơ Sở Dữ Liệu Pháp Luật Quốc Gia)](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0160078) — Điều 11 Mục 1 "Phương Tiện Chở Tải Phóng Lên Lãnh Thổ Nước Ta, Phải Thực Hiện Phóng Lên Tại Khu Vực Phóng Lên Quốc Gia", Là Căn Cứ Luật Pháp Đài Loan Phải Có Bãi Phóng Lên Của Riêng Nó.
 
@@ -362,7 +362,7 @@ Hình ảnh bài viết tất cả cache tại `public/article-images/technology
 
 [^33]: [Wikipedia: Phân Tích Bãi Phóng Lên Tên Lửa Đài Loan](https://en.wikipedia.org/wiki/Taiwan_Space_Agency) — Cửu Bồ (Viện Nghiên Cứu Trung Khoa Quân Sự, 1975 Tới), Lữ Hải (Quốc Gia Viện Khoa Học Khoa Học Khám Phá, 2022 Khởi Động), Cửu Bằng (2025 Bãi Phóng Lên Quốc Gia), Nam Điền (Tên Lửa Chuột Bay Tiến Thắng, Đạt Nhân Đài Đông) Bốn Địa Điểm Thuộc Các Đơn Vị Khác Nhau Và Mục Đích Khác Nhau.
 
-[^34]: [Liên Hợp Thông Tin Tân: Kế Hoạch Kỳ III Mở Rộng Đến 710 Tỷ Kéo Dài Đến 2031](https://udn.com/news/story/7240/9211240) — Ngày 20 Tháng 10 Năm 2025 Viện Hành Pháp Phê Duyệt Mở Rộng Kế Hoạch Phát Triển Dài Hạn Công Nghệ Vũ Trụ Kỳ III Đến 710 Tỷ, Kỳ Kéo Dài Đến 2031 (Phê Duyệt Gốc 251 Tỷ / 2019-2028).
+[^34]: [Liên Hợp Thông Tin Tân: Kế Hoạch Kỳ III Mở Rộng Đến 71 Tỷ Kéo Dài Đến 2031](https://udn.com/news/story/7240/9211240) — Ngày 20 Tháng 10 Năm 2025 Viện Hành Pháp Phê Duyệt Mở Rộng Kế Hoạch Phát Triển Dài Hạn Công Nghệ Vũ Trụ Kỳ III Đến 71 Tỷ Đài Tệ, Kỳ Kéo Dài Đến 2031 (Phê Duyệt Gốc 25,1 Tỷ / 2019-2028).
 
 [^35]: [TASA Trang Nhiệm Vụ Tên Lửa Đưa Vào Quỹ Đạo](https://www.tasa.org.tw/zh-TW/missions/detail/Launch-Vehicle) — Tên Lửa Đưa Vào Quỹ Đạo Chọn Hai Nút Dạng Chất Lỏng, Mục Tiêu Đưa 200 Ki Lô Grams Tải Trọng Vào Quỹ Đạo Gần Trái Đất; Ở Giữa Hai Lần Thử Bay Tên Lửa Quỹ Đạo Phụ (STV) Xác Minh Từng Bước; Các Phía Nói Về Thời Gian Chính Xác Khác Nhau, Bảo Thủ Dùng "Thập Niên 2030" Diễn Tả.
 

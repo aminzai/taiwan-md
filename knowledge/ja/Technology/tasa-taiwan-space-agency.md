@@ -11,10 +11,10 @@ lastVerified: 2026-06-12
 lastHumanReview: false
 featured: true
 translatedFrom: 'Technology/國家太空中心.md'
-sourceCommitSha: '82c0407f'
-sourceContentHash: 'sha256:84d56ad19effe1d5'
+sourceCommitSha: 'faa905d7'
+sourceContentHash: 'sha256:27a79bac11713a70'
 sourceBodyHash: 'sha256:e55206c67a0d4344'
-translatedAt: '2026-06-14T00:35:00+08:00'
+translatedAt: '2026-10-08T16:48:28.187424+00:00'
 image: '/article-images/technology/formosat8-tasa-banner.webp'
 imageCredit: '國家太空中心 TASA（官方釋出，fair use editorial commentary）'
 imageLicense: 'Fair use editorial commentary（©TASA）'
@@ -321,7 +321,7 @@ _国家宇宙センターTASA公式紹介映像：福衛八号は一機の衛星
 
 [^21]: [TechOrange：列車に吠える犬から自分で列車を運転するへ](https://buzzorange.com/techorange/2021/10/15/rocket-uncle-rock-dream/) — 呉宗信は、学者時代の批判は「列車に吠える犬」のようだったが、主任就任後は自分で列車を運転するようになったと述べています（原文は403で逐語確認できないため、本文では引用符を付けず転述しています）。
 
-[^22]: [科技部：宇宙発展法三読通過](https://www.most.gov.tw/folksonomy/detail/cfa1c793-b58d-46ee-a90c-d32bfe5980a3?l=ch) — 『宇宙発展法』は2021年5月31日に立法院で三読通過した台湾初の宇宙専門法で、全六章二十二条です。
+[^22]: [国家科学及技術委員会（旧科技部）：立法院、「宇宙発展法」草案を三読可決](https://www.nstc.gov.tw/folksonomy/detail/cfa1c793-b58d-46ee-a90c-d32bfe5980a3?l=ch) — 『宇宙発展法』は2021年5月31日に立法院で三読通過した台湾初の宇宙専門法で、全六章二十二条です。
 
 [^23]: [宇宙発展法全文（全国法規資料庫）](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0160078) — 第十一条第一項「発射機を我が国域内で発射する場合、国家発射場域で発射作業を実施しなければならない」は、台湾が自らの発射場を持つ必要の法的根拠です。
 

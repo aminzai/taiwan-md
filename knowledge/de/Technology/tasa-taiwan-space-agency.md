@@ -33,9 +33,10 @@ sporeLinks:
     date: '2026-06-04'
     url: 'https://x.com/taiwandotmd/status/2062546721742483679'
 translatedFrom: 'Technology/國家太空中心.md'
-sourceCommitSha: '82c0407f6'
-sourceContentHash: 'sha256:e4e6dbc8acdd8970'
-translatedAt: '2026-09-25T19:23:09.615852+00:00'
+sourceCommitSha: 'faa905d7'
+sourceContentHash: 'sha256:27a79bac11713a70'
+translatedAt: '2026-10-08T16:48:28.205145+00:00'
+sourceBodyHash: 'sha256:e55206c67a0d4344'
 ---
 
 Im Musikvideo „Wangu“ (頑固) von Mayday im Jahr 2016 baut ein Mann mittleren Alters in einer Ödnis Raketen. Er wird als Verrückter dargestellt, der Tagträume hegt, und fliegt schließlich mit einer selbstgebauten Rakete in den Himmel. Die meisten Taiwanesen lernten Wu Zongxin zum ersten Mal nicht durch eine staatliche Institution kennen, sondern durch dieses Musikvideo: dieser „Raketenonkel“ [^1].
@@ -338,7 +339,7 @@ Alle Bilder in diesem Artikel sind im Cache unter `public/article-images/technol
 
 [^21]: [TechOrange: Hundegebell beim Zug, den man selbst fährt](https://buzzorange.com/techorange/2021/10/15/rocket-uncle-rock-dream/) — Wu Zongxin beschrieb die Kritik aus seiner akademischen Zeit als „Hundegebell bei einem Zug“, und nach seiner Ernennung wurde er zumjenigen, der seinen eigenen Zug fährt (der Originaltext 403 konnte nicht wortgetreu überprüft werden, daher wird eine Wiedergabe ohne Anführungszeichen verwendet).
 
-[^22]: [Ministerium für Technologie: Raumfahrtentwicklungsgesetz in drei Lesungen verabschiedet](https://www.most.gov.tw/folksonomy/detail/cfa1c793-b58d-46ee-a90c-d32bfe5980a3?l=ch) — Das „Raumfahrtentwicklungsgesetz“ wurde am 31. Mai 2021 vom Gesetzgeber in drei Lesungen angenommen und ist das erste spezielle Weltraumgesetz Taiwans, Abschnitt 6, Artikel 22.
+[^22]: [Nationaler Rat für Wissenschaft und Technologie (vormals Ministerium für Wissenschaft und Technologie): Legislativ-Yuan verabschiedet Entwurf des Raumfahrtentwicklungsgesetzes in dritter Lesung](https://www.nstc.gov.tw/folksonomy/detail/cfa1c793-b58d-46ee-a90c-d32bfe5980a3?l=ch) — Das Raumfahrtentwicklungsgesetz wurde am 31. Mai 2021 vom Legislativ-Yuan in dritter Lesung verabschiedet; es ist Taiwans erstes eigenes Weltraumgesetz mit sechs Kapiteln und 22 Artikeln.
 
 [^23]: [Volltext des Raumfahrtentwicklungsgesetzes (Nationale Rechtsdatenbank)](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0160078) — Artikel 11 Absatz 1 besagt: „Der Start eines Trägers innerhalb der Grenzen unseres Landes muss auf einem nationalen Startgelände durchgeführt werden“, was die gesetzliche Grundlage dafür ist, dass Taiwan ein eigenes Startgelände benötigt.
 
@@ -422,7 +423,7 @@ Alle Bilder in diesem Artikel sind im Cache unter `public/article-images/technol
 
 [^63]: [Tech News: Wangle CubeSat erfüllt Mission nach drei Monaten Start](https://technews.tw/2025/02/05/tasa-onboard-globe-looking-and-imaging-satellite-onglaisat/) — Der Wangle-Satellit (ONGLAISAT) wurde am 9. Dezember 2024 vom Internationalen Raumstation abgefeuert, ein Kooperationsprojekt zwischen Taiwan und Japan (mit der ISSL der Universität Tokio). Er trägt einen selbst entwickelten CMOS TDI Sensor des Taiwan Semiconductor Research Center, welcher erstmals im Weltraum validiert wurde; er verwendet Korsch-exzentrische Optik und JPEG2000 für die Onboard-Kompression. 50 Bildaufnahmen wurden zu 100 % erfolgreich mit einer Auflösung von 2,5–3 Metern gemacht, was ihn zu einem Spitzenreiter unter den CubeSats macht.
 
-[^64]: [Tech News: Taiwans erste Forschungsprokettile HTTP-3A vom Xu Hai erfolgreich gestartet](https://technews.tw/2022/07/10/arrc-http-3a-rocket-taiwan/) — Das HTTP-3A des Advanced Rocket Research Center (ARRC) ist die weltweit erste Hybridrakete mit Flugsteuerungstechnologie (Schubvektorsteuerung). Am 10. Juli 2022 wurde sie bei einem Testflug in Xu Hai gestartet und erreichte etwa 3 Kilometer (10 Kilometer unter der Erwartung, da der atmosphärische Widerstand höher war als angenommen). Wei Shi-xin gab an, dass die Flugkontrolle in den ersten 30 Sekunden wie geplant funktionierte, was „99 % Erfolg“ bedeute. Das Projekt wurde durch Crowdfunding mit etwa 7.000 Teilnehmern und 25 Millionen Yuan finanziert und ist das Konzept hinter dem Musikvideo von Mayday („Stubborn“).
+[^64]: [Tech News: Taiwans erste Forschungsprokettile HTTP-3A vom Xu Hai erfolgreich gestartet](https://technews.tw/2022/07/10/arrc-http-3a-rocket-taiwan/) — Das HTTP-3A des Advanced Rocket Research Center (ARRC) ist die weltweit erste Hybridrakete mit Flugsteuerungstechnologie (Schubvektorsteuerung). Am 10. Juli 2022 wurde sie bei einem Testflug in Xu Hai gestartet und erreichte etwa 3 Kilometer (10 Kilometer unter der Erwartung, da der atmosphärische Widerstand höher war als angenommen). Wei Shi-xin gab an, dass die Flugkontrolle in den ersten 30 Sekunden wie geplant funktionierte, was „99 % Erfolg“ bedeute. Das Projekt wurde durch Crowdfunding mit etwa 7.000 Teilnehmern und 25 Millionen NT$ finanziert und ist das Konzept hinter dem Musikvideo von Mayday („Stubborn“).
 
 [^65]: [Reporter: Die Raumfahrtkomponente FormoSat-8 – Treibstoffautonomie und grüne Chemie](https://www.twreporter.org/a/formosat-8-satellite-taiwan-space-independent-industry-chain) — FormoSat 8 ersetzte erstmals hochgiftiges Hydrazin durch einen grünen Treibstoff auf Basis von hochkonzentriertem Wasserstoffperoxid (85 % H₂O₂) aus eigenem Design Taiwans. Zhao Yi-chin von National Cheng Kung University ist der technische Initiator und gab an, dass „der Schub, der durch die Verwendung von Wasserstoffperoxid erzeugt wird, nur 10 % geringer ist als bei Hydrazin“. Es wurden spezielle Düsen und Aluminiumlegierungstanks verwendet, die nach Zersetzung heißes Wasserdampf und Sauerstoff über 700 Grad erzeugen.
 
