@@ -3,8 +3,8 @@
 Migrated from `scripts/tools/check-footnote-urls.sh`.
 
 **Network-bound — disabled by default.** Enable per-run via:
-  python3 scripts/tools/article-health.py file.md --check=footnote-url
-  ARTICLE_HEALTH_NETWORK=1 python3 ...  (env var)
+  python3 scripts/tools/article-health.py file.md --check=footnote-url --network
+  ARTICLE_HEALTH_NETWORK=1 python3 ...  (env var, same effect)
   options.network=true (config)
 
 Reason: blind HEAD on every commit slows pre-commit by 10-30s and

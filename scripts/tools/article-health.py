@@ -21,6 +21,7 @@ Status（2026-06-10 audit A-6 更新 — 原 docstring 停在 Phase 1「0 plugin
 from __future__ import annotations
 import argparse
 import json
+import os
 import subprocess
 import sys
 from pathlib import Path
@@ -486,7 +487,26 @@ def main() -> int:
         action="store_true",
         help="With --fix, show what would change without writing.",
     )
+    parser.add_argument(
+        "--network",
+        action="store_true",
+        help="Enable network-bound checks (footnote-url HEAD probes); same as "
+             "ARTICLE_HEALTH_NETWORK=1. FACTCHECK-PIPELINE documents this flag.",
+    )
     args = parser.parse_args()
+
+    # FACTCHECK-PIPELINE 寫的是 `--check=footnote-url --network`，2026-10-09 之前
+    # 這個旗標不存在，照文件打只會拿到 usage 錯誤；網路檢查一直只認環境變數。
+    if args.network:
+        os.environ["ARTICLE_HEALTH_NETWORK"] = "1"
+    elif args.check == "footnote-url" and os.environ.get("ARTICLE_HEALTH_NETWORK") != "1":
+        # 沒開網路時 footnote-url 一個網址都不打，卻照樣印 ✅ hard=0 warn=0——
+        # 「沒量」借用了「量了沒事」的符號（REFLEXES #85）。單獨點名這把尺時講清楚。
+        print(
+            "⚠️  footnote-url 沒有開網路：這次一個網址都沒量，下方的 0 不代表連結都活著。"
+            "要真的量請加 --network（或 ARTICLE_HEALTH_NETWORK=1）。",
+            file=sys.stderr,
+        )
 
     # Dedicated baseline run (legacy behavior: implies --all + prose-health only).
     # With --all the baseline is derived from the full sweep instead — one scan
