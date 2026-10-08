@@ -19,10 +19,10 @@ lastHumanReview: false
 readingTime: 12
 curation: 'incubating'
 translatedFrom: 'Society/台灣全齡共融旅遊與生活文化.md'
-sourceCommitSha: '69b3afd91'
-sourceContentHash: 'sha256:8a4d3295bf443494'
-sourceBodyHash: 'sha256:be2327c5c3e0748e'
-translatedAt: '2026-08-09T21:15:02+08:00'
+sourceCommitSha: '5187a758a'
+sourceContentHash: 'sha256:613ce3b3055701ee'
+sourceBodyHash: 'sha256:9003a86aeb6688cf'
+translatedAt: '2026-10-08T02:33:45.447804+00:00'
 ---
 
 > **En 30 secondes :**
@@ -182,52 +182,52 @@ La valeur la plus profonde de ce modèle de « voyage à trois générations » 
 
 Cette éducation n'est pas un « cours de caractère » délibérément organisé, mais une **pratique de l'empathie** qui survient naturellement dans des situations de voyage réelles.
 
-## Défis et avenir : lorsque la demande devient la norme
+## Défis et avenir : quand les besoins deviennent la norme
 
-### Défis réels
+### Défis concrets
 
-**Limitations matérielles** :
+**Limites matérielles** :
 
-- Difficulté de réhabilitation des bâtiments historiques (comme les vieilles rues de Lukang ou Jiufen)
-- Contraintes topographiques des paysages naturels (comme la gorge de Taroko ou les départs de randonnée du mont Yushan)
-- Poids des coûts de rénovation pour les petites entreprises
+- Difficultés d'accessibilité dans les bâtiments historiques (ex. : rue ancienne de Lukang, rue ancienne de Jiufen)
+- Contraintes topographiques des sites naturels (ex. : canyon de Taroko, sommet du mont Yushan)
+- Coûts de rénovation supportables difficilement par les petits acteurs
 
-**Ressources humaines de service** :
+**Ressources humaines** :
 
-- Pénurie de personnel de soins spécialisé
-- Manque de formation des personnels de première ligne aux services pour personnes handicapées
-- Obstacles de communication linguistique (entre les aides-soignantes étrangères et les familles taïwanaises)
+- Pénurie de personnel soins professionnel
+- Manque de formation handicap-sensible du personnel de première ligne
+- Barrières linguistiques (nouvelles mères de famille étrangères et familles taïwanaises)
 
-**Obstacles d'attitude** :
+**Obstacles culturels** :
 
-- Certains opérateurs considèrent encore les clients handicapés comme une « gêne »
-- Situation où l'« aide bienveillante » est maladroite ou incorrecte
-- Attitude de protection excessive ou de « traitement en malade »
+- Certains acteurs perçoivent encore les clientèle en situation de handicap comme « problématique »
+- Initiatives bienveillantes mais mal ciblées
+- Tendance excessive à la protection et attitude « vous êtes malade »
 
-### Perspectives futures : La valeur internationale du modèle taïwanais
+### Perspective future : la valeur internationale du modèle taïwanais
 
 **Tendances politiques** :
 
-- **Objectif 2030** : Atteindre les normes d'accessibilité de l'OMS pour tous les parcs nationaux
-- **Intégration réglementaire** : Inter-ministériel entre la _Loi sur la protection des droits des personnes handicapées_ et la _Loi sur le développement du tourisme_
-- **Certification internationale** : Candidature pour devenir le premier « pays amical du tourisme accessible » en Asie
+- **Objectif 2030** : tous les parcs nationaux atteindront les normes d'accessibilité de l'OMS
+- **Harmonisation législative** : intégration transversale entre la _Loi des droits fondamentaux_ et la _Loi sur le développement du tourisme_
+- **Accréditation internationale** : ambition de devenir le premier pays asiatique à être labellisé « destination touristique accessible »
 
 **Évolution sociale** :
-Taïwan est en train de former une culture de l'« inclusion » unique, dont le cœur n'est pas la « protection des faibles », mais la « reconnaissance de la diversité » — comprendre que chacun a des capacités et des besoins différents, et que la responsabilité de la société est de **créer un environnement permettant à tous de participer**.
+Taïwan est en train de façonner une culture unique d’inclusion, dont le cœur ne consiste pas à « prendre soin des plus vulnérables », mais à « reconnaître la diversité » — à comprendre que chacun possède des capacités et des besoins différents, et que la responsabilité de la société est de **créer un environnement où chacun peut participer**.
 
-Cette culture pourrait être la contribution la plus précieuse de Taïwan au monde : **prouver qu'une société inclusive n'a pas besoin d'attendre une infrastructure parfaite, mais peut commencer par la compréhension entre les personnes**.
+Cette culture pourrait être l’un des apports le plus précieux de Taïwan au monde : **prouver qu’une société inclusive n’a pas besoin d’attendre que l’infrastructure soit parfaite pour commencer par la compréhension humaine**.
 
 ---
 
 ### Références / Sources
 
-1. [Bureau des statistiques du Ministère de l'Intérieur : Statistiques de la population âgée en 2024 (113e année)](https://www.moi.gov.tw/News_Content.aspx?n=9&s=322560)
-2. [Administration du Tourisme du Ministère des Transports : Réseau d'information sur le tourisme accessible](https://www.taiwan.net.tw/m1.aspx?sNo=0000120)
-3. [Administration de la santé nationale du Ministère de la Santé et du Bien-être : Plan de promotion des Villes amies des aînés](https://www.hpa.gov.tw/Pages/List.aspx?nodeid=3869)
-4. [Association de développement du tourisme accessible de Taïwan](http://www.goodtours.com.tw/)
-5. [Vacances DuoFu : Services de tourisme accessible](https://www.dfholidays.com/tw/)
-6. [Chaîne YouTube : Toute ma famille s'appelle Tsai](https://www.youtube.com/@alston0816)
-7. [Réseau de tourisme de montagne de Taïwan : Zone de tourisme accessible](https://recreation.forest.gov.tw/Topic/FOO)
-8. [Fondation Phoenix Tourism : Promotion des bus accessibles](https://event.travel.com.tw/accessibleBus/)
-9. [Association de promotion des ressources Xing Wu Ai](https://www.facebook.com/sunabletaipei/)
-10. Commission du Développement National : _Estimation de la population de la République de Chine_ (octobre 2024)
+1. [Bureau national de la statistique : recensement des personnes âgées 2024](https://www.moi.gov.tw/News_Content.aspx?n=9&s=322560)
+2. [Bureau du tourisme du ministère des Transports : portail de l’accessibilité touristique](https://www.taiwan.net.tw/m1.aspx?sNo=0000120)
+3. [Institut national de la santé publique : programme des villes amies pour les personnes âgées](https://www.hpa.gov.tw/Pages/List.aspx?nodeid=3869)
+4. [Association taïwanaise du tourisme accessible](http://www.goodtours.com.tw/)
+5. [Fêtes d’accompagnement : services de tourisme accessible](https://www.dfholidays.com/tw/)
+6. [Chaîne YouTube : _Nous sommes tous des Tsai_](https://www.youtube.com/@alston0816)
+7. [Réseau montagnard taïwanais : section dédiée au tourisme accessible](https://recreation.forest.gov.tw/Topic/FOO)
+8. [Fondation Phoenix Voyages : campagne de bus accessibles](https://event.travel.com.tw/accessibleBus/)
+9. [Association pour la promotion des ressources accessibles](https://www.facebook.com/sunabletaipei/)
+10. Conseil national du développement : _Estimation de la population de la République de Chine (Taïwan)_ (octobre 2024)
