@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-09T05:23:09+08:00",
-    "zhCommitHead": "3aeef3c9a",
+    "lastUpdated": "2026-10-09T11:09:18+08:00",
+    "zhCommitHead": "3c1b814fb",
     "totalZh": 1125,
     "activeLanguages": [
       "en",
@@ -20,16 +20,16 @@
     "summary": {
       "en": {
         "total_zh": 1125,
-        "fresh": 1125,
-        "stale": 0,
+        "fresh": 1124,
+        "stale": 1,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1125,
-        "fresh": 1125,
-        "stale": 0,
+        "fresh": 1124,
+        "stale": 1,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -44,8 +44,8 @@
       },
       "es": {
         "total_zh": 1125,
-        "fresh": 1125,
-        "stale": 0,
+        "fresh": 1124,
+        "stale": 1,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -60,56 +60,56 @@
       },
       "vi": {
         "total_zh": 1125,
-        "fresh": 1124,
-        "stale": 1,
+        "fresh": 1122,
+        "stale": 3,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
       "id": {
         "total_zh": 1125,
-        "fresh": 1125,
-        "stale": 0,
+        "fresh": 1123,
+        "stale": 2,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1125,
-        "fresh": 1125,
-        "stale": 0,
+        "fresh": 1124,
+        "stale": 1,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1125,
-        "fresh": 1125,
-        "stale": 0,
+        "fresh": 1123,
+        "stale": 2,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1125,
-        "fresh": 1125,
-        "stale": 0,
+        "fresh": 1123,
+        "stale": 2,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1125,
-        "fresh": 1125,
-        "stale": 0,
+        "fresh": 1122,
+        "stale": 3,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
       "de": {
         "total_zh": 1125,
-        "fresh": 1125,
-        "stale": 0,
+        "fresh": 1123,
+        "stale": 2,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -51986,8 +51986,8 @@
           "sourceContentHash": "sha256:f31b05f6ec817e0e",
           "sourceBodyHash": "sha256:1a4718788413b7be",
           "translatedAt": "2026-10-09T05:15:52+08:00",
-          "translationLastCommit": "cf41c6ec",
-          "translationLastModified": "2026-09-15T22:38:08+08:00",
+          "translationLastCommit": "dd682a19",
+          "translationLastModified": "2026-10-09T05:23:10+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "bytes": 53642,
@@ -105760,17 +105760,17 @@
           "reason": "same-commit"
         },
         "de": {
-          "path": "de/People/edward-yang.md",
+          "path": "de/People/yang-dechang.md",
           "translatedFrom": "People/楊德昌.md",
-          "sourceCommitSha": "21298a7ae",
+          "sourceCommitSha": "21298a7a",
           "sourceContentHash": "sha256:c2aa8f15ab2b1700",
-          "sourceBodyHash": "sha256:7119ad62eb825546",
-          "translatedAt": "2026-09-09T00:45:00+08:00",
-          "translationLastCommit": "76f49bd1",
-          "translationLastModified": "2026-09-09T12:48:02+08:00",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-10-07T05:57:46+08:00",
+          "translationLastCommit": "4f5ec3eb",
+          "translationLastModified": "2026-10-07T06:04:34+08:00",
           "inferred": false,
           "footnoteDefs": 92,
-          "bytes": 70170,
+          "bytes": 74315,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -168197,24 +168197,24 @@
     },
     "Food/台灣眷村菜.md": {
       "zh": {
-        "lastCommit": "ef80aeea",
-        "lastModified": "2026-10-08T20:55:14+08:00",
-        "contentHash": "sha256:467908b1a60dd52d",
-        "bodyHash": "sha256:833d2eafe654813e"
+        "lastCommit": "c0ec148b",
+        "lastModified": "2026-10-09T08:54:19+08:00",
+        "contentHash": "sha256:242e3935197cb573",
+        "bodyHash": "sha256:0350ac703fba6030"
       },
       "translations": {
         "en": {
           "path": "en/Food/military-dependents-village-cuisine.md",
           "translatedFrom": "Food/台灣眷村菜.md",
-          "sourceCommitSha": "ef80aeea4",
-          "sourceContentHash": "sha256:467908b1a60dd52d",
-          "sourceBodyHash": "sha256:833d2eafe654813e",
-          "translatedAt": "2026-10-08T14:09:29.755577+00:00",
+          "sourceCommitSha": "c0ec148be",
+          "sourceContentHash": "sha256:242e3935197cb573",
+          "sourceBodyHash": "sha256:0350ac703fba6030",
+          "translatedAt": "2026-10-09T09:18:28+08:00",
           "translationLastCommit": "a8c36c25",
           "translationLastModified": "2026-10-08T23:23:59+08:00",
           "inferred": false,
-          "footnoteDefs": 7,
-          "bytes": 16351,
+          "footnoteDefs": 12,
+          "bytes": 18253,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -168232,21 +168232,21 @@
           "footnoteDefs": 7,
           "bytes": 15187,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→7)"
         },
         "ko": {
           "path": "ko/Food/military-dependents-village-cuisine.md",
           "translatedFrom": "Food/台灣眷村菜.md",
-          "sourceCommitSha": "ef80aeea4",
-          "sourceContentHash": "sha256:467908b1a60dd52d",
-          "sourceBodyHash": "sha256:833d2eafe654813e",
-          "translatedAt": "2026-10-08T14:06:15.240915+00:00",
+          "sourceCommitSha": "c0ec148be",
+          "sourceContentHash": "sha256:242e3935197cb573",
+          "sourceBodyHash": "sha256:0350ac703fba6030",
+          "translatedAt": "2026-10-09T09:18:29+08:00",
           "translationLastCommit": "39fdd864",
           "translationLastModified": "2026-10-08T23:28:13+08:00",
           "inferred": false,
-          "footnoteDefs": 7,
-          "bytes": 14563,
+          "footnoteDefs": 12,
+          "bytes": 18743,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -168254,15 +168254,15 @@
         "es": {
           "path": "es/Food/military-dependents-village-cuisine.md",
           "translatedFrom": "Food/台灣眷村菜.md",
-          "sourceCommitSha": "ef80aeea4",
-          "sourceContentHash": "sha256:467908b1a60dd52d",
-          "sourceBodyHash": "sha256:833d2eafe654813e",
-          "translatedAt": "2026-10-08T14:06:56.615307+00:00",
+          "sourceCommitSha": "c0ec148be",
+          "sourceContentHash": "sha256:242e3935197cb573",
+          "sourceBodyHash": "sha256:0350ac703fba6030",
+          "translatedAt": "2026-10-09T09:18:29+08:00",
           "translationLastCommit": "434ed006",
           "translationLastModified": "2026-10-08T23:37:53+08:00",
           "inferred": false,
-          "footnoteDefs": 7,
-          "bytes": 16845,
+          "footnoteDefs": 12,
+          "bytes": 20828,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -168270,15 +168270,15 @@
         "fr": {
           "path": "fr/Food/military-dependents-village-cuisine.md",
           "translatedFrom": "Food/台灣眷村菜.md",
-          "sourceCommitSha": "ef80aeea4",
-          "sourceContentHash": "sha256:467908b1a60dd52d",
-          "sourceBodyHash": "sha256:833d2eafe654813e",
-          "translatedAt": "2026-10-08T14:07:28.365582+00:00",
+          "sourceCommitSha": "c0ec148be",
+          "sourceContentHash": "sha256:242e3935197cb573",
+          "sourceBodyHash": "sha256:0350ac703fba6030",
+          "translatedAt": "2026-10-09T09:18:29+08:00",
           "translationLastCommit": "c5977e70",
           "translationLastModified": "2026-10-08T23:28:28+08:00",
           "inferred": false,
-          "footnoteDefs": 7,
-          "bytes": 19220,
+          "footnoteDefs": 12,
+          "bytes": 21068,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -168286,15 +168286,15 @@
         "vi": {
           "path": "vi/Food/military-dependents-village-cuisine.md",
           "translatedFrom": "Food/台灣眷村菜.md",
-          "sourceCommitSha": "ef80aeea4",
-          "sourceContentHash": "sha256:467908b1a60dd52d",
-          "sourceBodyHash": "sha256:833d2eafe654813e",
-          "translatedAt": "2026-10-08T14:08:22.325233+00:00",
+          "sourceCommitSha": "c0ec148be",
+          "sourceContentHash": "sha256:242e3935197cb573",
+          "sourceBodyHash": "sha256:0350ac703fba6030",
+          "translatedAt": "2026-10-09T09:18:29+08:00",
           "translationLastCommit": "b807089a",
           "translationLastModified": "2026-10-08T23:31:08+08:00",
           "inferred": false,
-          "footnoteDefs": 7,
-          "bytes": 19829,
+          "footnoteDefs": 12,
+          "bytes": 23638,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -168302,15 +168302,15 @@
         "id": {
           "path": "id/Food/military-dependents-village-cuisine.md",
           "translatedFrom": "Food/台灣眷村菜.md",
-          "sourceCommitSha": "ef80aeea4",
-          "sourceContentHash": "sha256:467908b1a60dd52d",
-          "sourceBodyHash": "sha256:833d2eafe654813e",
-          "translatedAt": "2026-10-08T14:08:58.981407+00:00",
+          "sourceCommitSha": "c0ec148be",
+          "sourceContentHash": "sha256:242e3935197cb573",
+          "sourceBodyHash": "sha256:0350ac703fba6030",
+          "translatedAt": "2026-10-09T09:18:29+08:00",
           "translationLastCommit": "e189c46a",
           "translationLastModified": "2026-10-08T23:39:22+08:00",
           "inferred": false,
-          "footnoteDefs": 7,
-          "bytes": 15759,
+          "footnoteDefs": 12,
+          "bytes": 18083,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -168318,15 +168318,15 @@
         "pt": {
           "path": "pt/Food/military-dependents-village-cuisine.md",
           "translatedFrom": "Food/台灣眷村菜.md",
-          "sourceCommitSha": "ef80aeea4",
-          "sourceContentHash": "sha256:467908b1a60dd52d",
-          "sourceBodyHash": "sha256:833d2eafe654813e",
-          "translatedAt": "2026-10-08T14:09:58.800239+00:00",
+          "sourceCommitSha": "c0ec148be",
+          "sourceContentHash": "sha256:242e3935197cb573",
+          "sourceBodyHash": "sha256:0350ac703fba6030",
+          "translatedAt": "2026-10-09T09:18:29+08:00",
           "translationLastCommit": "11ea6a77",
           "translationLastModified": "2026-10-08T23:17:42+08:00",
           "inferred": false,
-          "footnoteDefs": 7,
-          "bytes": 17440,
+          "footnoteDefs": 12,
+          "bytes": 19807,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -168334,15 +168334,15 @@
         "hi": {
           "path": "hi/Food/military-dependents-village-cuisine.md",
           "translatedFrom": "Food/台灣眷村菜.md",
-          "sourceCommitSha": "ef80aeea4",
-          "sourceContentHash": "sha256:467908b1a60dd52d",
-          "sourceBodyHash": "sha256:833d2eafe654813e",
-          "translatedAt": "2026-10-08T14:10:09.902166+00:00",
+          "sourceCommitSha": "c0ec148be",
+          "sourceContentHash": "sha256:242e3935197cb573",
+          "sourceBodyHash": "sha256:0350ac703fba6030",
+          "translatedAt": "2026-10-09T09:18:30+08:00",
           "translationLastCommit": "09b50569",
           "translationLastModified": "2026-10-08T23:59:05+08:00",
           "inferred": false,
-          "footnoteDefs": 7,
-          "bytes": 32898,
+          "footnoteDefs": 12,
+          "bytes": 40358,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -168360,8 +168360,8 @@
           "footnoteDefs": 7,
           "bytes": 24755,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→7)"
         },
         "ru": {
           "path": "ru/Food/military-dependents-village-cuisine.md",
@@ -168376,21 +168376,21 @@
           "footnoteDefs": 7,
           "bytes": 27411,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (12→7)"
         },
         "de": {
           "path": "de/Food/military-dependents-village-cuisine.md",
           "translatedFrom": "Food/台灣眷村菜.md",
-          "sourceCommitSha": "ef80aeea4",
-          "sourceContentHash": "sha256:467908b1a60dd52d",
-          "sourceBodyHash": "sha256:833d2eafe654813e",
-          "translatedAt": "2026-10-08T14:10:42.817041+00:00",
+          "sourceCommitSha": "c0ec148be",
+          "sourceContentHash": "sha256:242e3935197cb573",
+          "sourceBodyHash": "sha256:0350ac703fba6030",
+          "translatedAt": "2026-10-09T09:18:30+08:00",
           "translationLastCommit": "ed15bdbe",
           "translationLastModified": "2026-10-08T23:39:18+08:00",
           "inferred": false,
-          "footnoteDefs": 7,
-          "bytes": 16541,
+          "footnoteDefs": 12,
+          "bytes": 19611,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -193447,10 +193447,10 @@
     },
     "Geography/桃園市.md": {
       "zh": {
-        "lastCommit": "e974b4c9",
-        "lastModified": "2026-09-05T21:34:09+08:00",
-        "contentHash": "sha256:e1b425fa54b86b70",
-        "bodyHash": "sha256:74aa4f956a297b47"
+        "lastCommit": "e1fa12cc",
+        "lastModified": "2026-10-09T08:54:34+08:00",
+        "contentHash": "sha256:126b05c834f9d9a2",
+        "bodyHash": "sha256:f858fd8b385ca58c"
       },
       "translations": {
         "en": {
@@ -193466,21 +193466,21 @@
           "footnoteDefs": 25,
           "bytes": 54255,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (26→25)"
         },
         "ja": {
           "path": "ja/Geography/taoyuan-city.md",
           "translatedFrom": "Geography/桃園市.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:e1b425fa54b86b70",
-          "sourceBodyHash": "sha256:74aa4f956a297b47",
-          "translatedAt": "2026-09-23T14:55:53+08:00",
+          "sourceCommitSha": "e1fa12cc0",
+          "sourceContentHash": "sha256:126b05c834f9d9a2",
+          "sourceBodyHash": "sha256:f858fd8b385ca58c",
+          "translatedAt": "2026-10-09T09:18:29+08:00",
           "translationLastCommit": "f1d54756",
           "translationLastModified": "2026-09-23T17:08:15+08:00",
           "inferred": false,
-          "footnoteDefs": 25,
-          "bytes": 52456,
+          "footnoteDefs": 26,
+          "bytes": 52873,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -193488,15 +193488,15 @@
         "ko": {
           "path": "ko/Geography/taoyuan-city.md",
           "translatedFrom": "Geography/桃園市.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:e1b425fa54b86b70",
-          "sourceBodyHash": "sha256:74aa4f956a297b47",
-          "translatedAt": "2026-09-08T15:54:37+08:00",
+          "sourceCommitSha": "e1fa12cc0",
+          "sourceContentHash": "sha256:126b05c834f9d9a2",
+          "sourceBodyHash": "sha256:f858fd8b385ca58c",
+          "translatedAt": "2026-10-09T09:18:29+08:00",
           "translationLastCommit": "61ad9d87",
           "translationLastModified": "2026-09-09T06:40:38+08:00",
           "inferred": false,
-          "footnoteDefs": 25,
-          "bytes": 52256,
+          "footnoteDefs": 26,
+          "bytes": 51442,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -193514,21 +193514,21 @@
           "footnoteDefs": 25,
           "bytes": 60427,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (26→25)"
         },
         "fr": {
           "path": "fr/Geography/taoyuan-city.md",
           "translatedFrom": "Geography/桃園市.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:e1b425fa54b86b70",
-          "sourceBodyHash": "sha256:74aa4f956a297b47",
-          "translatedAt": "2026-09-08T00:42:50+08:00",
+          "sourceCommitSha": "e1fa12cc0",
+          "sourceContentHash": "sha256:126b05c834f9d9a2",
+          "sourceBodyHash": "sha256:f858fd8b385ca58c",
+          "translatedAt": "2026-10-09T09:18:29+08:00",
           "translationLastCommit": "458a884e",
           "translationLastModified": "2026-09-28T04:34:35+08:00",
           "inferred": false,
-          "footnoteDefs": 25,
-          "bytes": 57992,
+          "footnoteDefs": 26,
+          "bytes": 60835,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -193546,8 +193546,8 @@
           "footnoteDefs": 25,
           "bytes": 65119,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (26→25)"
         },
         "id": {
           "path": "id/Geography/taoyuan-city.md",
@@ -193562,21 +193562,21 @@
           "footnoteDefs": 25,
           "bytes": 52616,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (26→25)"
         },
         "pt": {
           "path": "pt/Geography/taoyuan-city.md",
           "translatedFrom": "Geography/桃園市.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:e1b425fa54b86b70",
-          "sourceBodyHash": "sha256:74aa4f956a297b47",
-          "translatedAt": "2026-09-08T15:54:48+08:00",
+          "sourceCommitSha": "e1fa12cc0",
+          "sourceContentHash": "sha256:126b05c834f9d9a2",
+          "sourceBodyHash": "sha256:f858fd8b385ca58c",
+          "translatedAt": "2026-10-09T02:01:31.336859+00:00",
           "translationLastCommit": "81e49637",
           "translationLastModified": "2026-09-09T06:34:06+08:00",
           "inferred": false,
-          "footnoteDefs": 25,
-          "bytes": 54362,
+          "footnoteDefs": 26,
+          "bytes": 54208,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -193594,8 +193594,8 @@
           "footnoteDefs": 25,
           "bytes": 111857,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (26→25)"
         },
         "ar": {
           "path": "ar/Geography/taoyuan-city.md",
@@ -193610,8 +193610,8 @@
           "footnoteDefs": 25,
           "bytes": 69076,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (26→25)"
         },
         "ru": {
           "path": "ru/Geography/taoyuan-city.md",
@@ -193626,8 +193626,8 @@
           "footnoteDefs": 25,
           "bytes": 81970,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (26→25)"
         },
         "de": {
           "path": "de/Geography/taoyuan-city.md",
@@ -193642,8 +193642,8 @@
           "footnoteDefs": 25,
           "bytes": 53694,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (26→25)"
         }
       }
     },
@@ -202537,24 +202537,24 @@
     },
     "Geography/四四南村.md": {
       "zh": {
-        "lastCommit": "fe48ea49",
-        "lastModified": "2026-06-21T15:10:04+08:00",
-        "contentHash": "sha256:e3cf0ff2d18ee6c2",
-        "bodyHash": "sha256:ceea55d78cdbac6b"
+        "lastCommit": "8fa14bf9",
+        "lastModified": "2026-10-09T08:54:22+08:00",
+        "contentHash": "sha256:4c7925fca2f8f0ff",
+        "bodyHash": "sha256:236956cd227b821c"
       },
       "translations": {
         "en": {
           "path": "en/Geography/44-south-village.md",
           "translatedFrom": "Geography/四四南村.md",
-          "sourceCommitSha": "fe48ea49",
-          "sourceContentHash": "sha256:e3cf0ff2d18ee6c2",
-          "sourceBodyHash": "sha256:ceea55d78cdbac6b",
-          "translatedAt": "2026-06-22T00:30:00+08:00",
+          "sourceCommitSha": "8fa14bf9c",
+          "sourceContentHash": "sha256:4c7925fca2f8f0ff",
+          "sourceBodyHash": "sha256:236956cd227b821c",
+          "translatedAt": "2026-10-09T09:18:28+08:00",
           "translationLastCommit": "892cb4ef",
           "translationLastModified": "2026-07-27T18:53:04+08:00",
           "inferred": false,
-          "footnoteDefs": 21,
-          "bytes": 52721,
+          "footnoteDefs": 22,
+          "bytes": 46264,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -202562,15 +202562,15 @@
         "ja": {
           "path": "ja/Geography/44-south-village.md",
           "translatedFrom": "Geography/四四南村.md",
-          "sourceCommitSha": "fe48ea49",
-          "sourceContentHash": "sha256:e3cf0ff2d18ee6c2",
-          "sourceBodyHash": "sha256:ceea55d78cdbac6b",
-          "translatedAt": "2026-06-22T00:30:00+08:00",
+          "sourceCommitSha": "8fa14bf9c",
+          "sourceContentHash": "sha256:4c7925fca2f8f0ff",
+          "sourceBodyHash": "sha256:236956cd227b821c",
+          "translatedAt": "2026-10-09T09:18:29+08:00",
           "translationLastCommit": "caa10522",
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
-          "footnoteDefs": 21,
-          "bytes": 48297,
+          "footnoteDefs": 22,
+          "bytes": 49319,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -202578,15 +202578,15 @@
         "ko": {
           "path": "ko/Geography/44-south-village.md",
           "translatedFrom": "Geography/四四南村.md",
-          "sourceCommitSha": "fe48ea49",
-          "sourceContentHash": "sha256:e3cf0ff2d18ee6c2",
-          "sourceBodyHash": "sha256:ceea55d78cdbac6b",
-          "translatedAt": "2026-06-22T00:30:00+08:00",
+          "sourceCommitSha": "8fa14bf9c",
+          "sourceContentHash": "sha256:4c7925fca2f8f0ff",
+          "sourceBodyHash": "sha256:236956cd227b821c",
+          "translatedAt": "2026-10-09T09:18:29+08:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
-          "footnoteDefs": 21,
-          "bytes": 49047,
+          "footnoteDefs": 22,
+          "bytes": 46635,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -202594,15 +202594,15 @@
         "es": {
           "path": "es/Geography/44-south-village.md",
           "translatedFrom": "Geography/四四南村.md",
-          "sourceCommitSha": "fe48ea49",
-          "sourceContentHash": "sha256:e3cf0ff2d18ee6c2",
-          "sourceBodyHash": "sha256:ceea55d78cdbac6b",
-          "translatedAt": "2026-06-22T00:30:00+08:00",
+          "sourceCommitSha": "8fa14bf9c",
+          "sourceContentHash": "sha256:4c7925fca2f8f0ff",
+          "sourceBodyHash": "sha256:236956cd227b821c",
+          "translatedAt": "2026-10-09T09:18:29+08:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
-          "footnoteDefs": 21,
-          "bytes": 55164,
+          "footnoteDefs": 22,
+          "bytes": 50577,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -202610,15 +202610,15 @@
         "fr": {
           "path": "fr/Geography/44-south-village.md",
           "translatedFrom": "Geography/四四南村.md",
-          "sourceCommitSha": "fe48ea49",
-          "sourceContentHash": "sha256:e3cf0ff2d18ee6c2",
-          "sourceBodyHash": "sha256:ceea55d78cdbac6b",
-          "translatedAt": "2026-06-22T00:30:00+08:00",
+          "sourceCommitSha": "8fa14bf9c",
+          "sourceContentHash": "sha256:4c7925fca2f8f0ff",
+          "sourceBodyHash": "sha256:236956cd227b821c",
+          "translatedAt": "2026-10-09T09:18:29+08:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
-          "footnoteDefs": 21,
-          "bytes": 56528,
+          "footnoteDefs": 22,
+          "bytes": 52448,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -202636,8 +202636,8 @@
           "footnoteDefs": 21,
           "bytes": 58915,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (22→21)"
         },
         "id": {
           "path": "id/Geography/44-south-village.md",
@@ -202652,8 +202652,8 @@
           "footnoteDefs": 21,
           "bytes": 46852,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (22→21)"
         },
         "pt": {
           "path": "pt/Geography/44-south-village.md",
@@ -202668,8 +202668,8 @@
           "footnoteDefs": 21,
           "bytes": 47794,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (22→21)"
         },
         "hi": {
           "path": "hi/Geography/44-south-village.md",
@@ -202684,21 +202684,21 @@
           "footnoteDefs": 21,
           "bytes": 105191,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (22→21)"
         },
         "ar": {
           "path": "ar/Geography/44-south-village.md",
           "translatedFrom": "Geography/四四南村.md",
-          "sourceCommitSha": "fe48ea49d",
-          "sourceContentHash": "sha256:e3cf0ff2d18ee6c2",
-          "sourceBodyHash": "sha256:ceea55d78cdbac6b",
-          "translatedAt": "2026-09-14T06:58:47+08:00",
+          "sourceCommitSha": "8fa14bf9c",
+          "sourceContentHash": "sha256:4c7925fca2f8f0ff",
+          "sourceBodyHash": "sha256:236956cd227b821c",
+          "translatedAt": "2026-10-09T09:18:30+08:00",
           "translationLastCommit": "aa24092c",
           "translationLastModified": "2026-09-17T23:34:13+08:00",
           "inferred": false,
-          "footnoteDefs": 21,
-          "bytes": 63459,
+          "footnoteDefs": 22,
+          "bytes": 72174,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -202716,8 +202716,8 @@
           "footnoteDefs": 21,
           "bytes": 75768,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (22→21)"
         },
         "de": {
           "path": "de/Geography/44-south-village.md",
@@ -202732,8 +202732,8 @@
           "footnoteDefs": 21,
           "bytes": 53755,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (22→21)"
         }
       }
     },
