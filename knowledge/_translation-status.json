@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-09T17:05:25+08:00",
-    "zhCommitHead": "7c3769907",
+    "lastUpdated": "2026-10-09T18:15:51+08:00",
+    "zhCommitHead": "c4a16e61b",
     "totalZh": 1125,
     "activeLanguages": [
       "en",
@@ -92,8 +92,8 @@
       },
       "ar": {
         "total_zh": 1125,
-        "fresh": 1123,
-        "stale": 2,
+        "fresh": 1125,
+        "stale": 0,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -157442,18 +157442,18 @@
         "ar": {
           "path": "ar/Food/taiwanese-ice-cream-culture.md",
           "translatedFrom": "Food/台灣冰品文化.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:81d7772de9e1a0c6",
-          "sourceBodyHash": "sha256:e70fc8ddbfd1ab8c",
-          "translatedAt": "2026-09-09T15:32:52+08:00",
+          "sourceCommitSha": "7a2292243",
+          "sourceContentHash": "sha256:27df03c894312c34",
+          "sourceBodyHash": "sha256:4ecce4b2cd02de2a",
+          "translatedAt": "2026-10-09T16:00:52+08:00",
           "translationLastCommit": "eda1c234",
           "translationLastModified": "2026-09-09T19:42:32+08:00",
           "inferred": false,
-          "footnoteDefs": 6,
-          "bytes": 21635,
+          "footnoteDefs": 8,
+          "bytes": 23168,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (8→6)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Food/taiwanese-ice-cream-culture.md",
@@ -157478,8 +157478,8 @@
           "sourceContentHash": "sha256:27df03c894312c34",
           "sourceBodyHash": "sha256:4ecce4b2cd02de2a",
           "translatedAt": "2026-10-09T14:59:32+08:00",
-          "translationLastCommit": "70aca27d",
-          "translationLastModified": "2026-09-23T21:52:22+08:00",
+          "translationLastCommit": "c917b853",
+          "translationLastModified": "2026-10-09T17:05:25+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "bytes": 16755,
@@ -188758,20 +188758,18 @@
         "ar": {
           "path": "ar/Geography/yongkang-street.md",
           "translatedFrom": "Geography/永康街.md",
-          "sourceCommitSha": "fe48ea49d",
-          "sourceContentHash": "sha256:86be5fe44de05439",
-          "sourceBodyHash": "sha256:ad35178eae665c53",
-          "translatedAt": "2026-09-17T06:43:46+08:00",
+          "sourceCommitSha": "7280a6911",
+          "sourceContentHash": "sha256:98747fb88f17af9e",
+          "sourceBodyHash": "sha256:fefb8840d06dbedd",
+          "translatedAt": "2026-10-09T09:36:00.917179+00:00",
           "translationLastCommit": "d76a00f4",
           "translationLastModified": "2026-09-17T17:18:04+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "bytes": 79934,
+          "bytes": 87924,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -5"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Geography/yongkang-street.md",
@@ -188796,11 +188794,11 @@
           "sourceContentHash": "sha256:98747fb88f17af9e",
           "sourceBodyHash": "sha256:fefb8840d06dbedd",
           "translatedAt": "2026-10-09T14:59:32+08:00",
-          "translationLastCommit": "5f66bab3",
-          "translationLastModified": "2026-09-12T09:34:17+08:00",
+          "translationLastCommit": "c917b853",
+          "translationLastModified": "2026-10-09T17:05:25+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "bytes": 58310,
+          "bytes": 58316,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
