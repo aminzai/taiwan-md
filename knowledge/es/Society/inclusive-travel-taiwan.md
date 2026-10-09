@@ -1,11 +1,11 @@
 ---
-title: 'Turismo y cultura de vida inclusiva para todas las edades en Taiwán: cuando la calidez humana es la mejor infraestructura de accesibilidad'
-description: 'Una perspectiva familiar sobre cómo la sociedad taiwanesa, a través de la calidez humana y las instalaciones inclusivas, redefine el significado de "viajar en familia" ante el camino hacia una sociedad superenvejecida.'
+title: 'Turismo y cultura de vida inclusiva para todas las edades en Taiwán: cuando el calor humano se convierte en la mejor instalación accesible'
+description: 'Desde la perspectiva familiar, se observa cómo la sociedad taiwanesa, a través del calor humano y las instalaciones inclusivas, redefine el significado de "viajar en familia" en el camino hacia una sociedad superenvejecida.'
 date: 2026-03-23
 category: 'Society'
 tags:
   [
-    'Inclusión generacional',
+    'inclusión para todas las edades',
     'turismo accesible',
     'sociedad superenvejecida',
     'cultura familiar',
@@ -19,215 +19,210 @@ lastHumanReview: false
 readingTime: 12
 curation: 'incubating'
 translatedFrom: 'Society/台灣全齡共融旅遊與生活文化.md'
-sourceCommitSha: '5187a758a'
-sourceContentHash: 'sha256:613ce3b3055701ee'
-sourceBodyHash: 'sha256:9003a86aeb6688cf'
-translatedAt: '2026-10-08T02:35:22.411175+00:00'
+sourceCommitSha: 'fe3f96e02'
+sourceContentHash: 'sha256:0f023e33872fbd7d'
+sourceBodyHash: 'sha256:feac8eaeb6d3ca9d'
+translatedAt: '2026-10-09T20:55:30+08:00'
 ---
 
 > **Resumen en 30 segundos:**
-> En Taiwán, la verdadera accesibilidad no son solo rampas y ascensores, sino el «renqingwei» (人情味) —esa sintonía social de ayudar proactivamente o ceder el paso al ver a un familiar con una silla de ruedas.
-> A medida que Taiwán se encamina a convertirse en una **sociedad superenvejecida en 2025** (con más del 20% de la población mayor de 65 años), el turismo inclusivo está pasando de ser una "necesidad especial" a una "necesidad universal".
-> Esto no es solo una cuestión de políticas, sino una manifestación de la única cultura familiar y la resiliencia social de Taiwán.
+> En Taiwán, la verdadera accesibilidad no son solo rampas y ascensores, sino el «calor humano» —esa complicidad social por la que, al ver a una familia empujando una silla de ruedas, la gente cede el asiento y ofrece ayuda espontáneamente.
+> Taiwán **entró oficialmente en una sociedad superenvejecida a finales de 2025** (la población de 65 años o más representa el 20,06 %), y el turismo inclusivo para todas las edades está pasando de ser una «necesidad especial» a una «necesidad universal».[^1]
+> No es solo una cuestión de política, sino una manifestación de la cultura familiar única de Taiwán y su resiliencia social.
 
-## Una realidad contraintuitiva: la calidez humana es más importante que el equipamiento
+## Una realidad contraintuitiva: el calor humano importa más que el equipamiento
 
-**El éxito del turismo accesible en Taiwán no reside en la perfección de su infraestructura, sino en su fuerza blanda social.**
+**El éxito del turismo accesible en Taiwán no radica en la perfección del hardware, sino en su poder blando social.**
 
-Mientras otros países se centran en construir instalaciones de accesibilidad estandarizadas, Taiwán ha trazado un camino único: **llenar los vacíos con "calidez humana" cuando el equipamiento físico aún es insuficiente**. Según estadísticas de la Administración de Turismo, aunque solo cerca del 30% de los puntos turísticos en Taiwán cumplen con los estándares internacionales de accesibilidad, la satisfacción de las familias con personas con discapacidad en sus viajes alcanza el 85%.
+Mientras el mundo se centra en construir instalaciones accesibles estandarizadas, Taiwán ha trazado un camino único: **llenar los huecos con la «temperatura humana» cuando el hardware aún no es lo bastante completo**. El autor original de este artículo, «Nuestra familia es muy Tsai» (我們一家都很蔡), escribió en el borrador: los espacios públicos y el transporte colectivo de Taiwán ya han establecido circuitos accesibles estandarizados, pero la verdadera inclusión ocurre en los momentos «no estandarizados»; en un restaurante, cuando una persona con discapacidad visual necesita ayuda, el personal y los comensales guían y explican proactivamente, tejiendo una red de seguridad social informal.[^2]
 
-El secreto tras esta cifra es que: **los taiwables "se adaptan a la situación"**. Al ver a usuarios de sillas de ruedas, personas con discapacidad visual o ancianos que necesitan ayuda, los desconocidos ofrecen su asistencia de forma proactiva. Esta red de seguridad social informal compensa las carencias de las instalaciones oficiales.
+El secreto detrás de esta observación es: **los taiwaneses «valoran la situación»**. Al ver a usuarios de silla de ruedas, personas con discapacidad visual o mayores que necesitan ayuda, los extraños tienden la mano espontáneamente —esta red de seguridad social informal suple las carencias de las instalaciones formales.
 
-## La urgencia tras las cifras: Taiwán en rápido envejecimiento
+## La urgencia detrás de las cifras: Taiwán envejece a gran velocidad
 
-### La cuenta atrás hacia la sociedad superenvejecida
+### La sociedad superenvejecida ya ha llegado
 
-La velocidad del envejecimiento poblacional en Taiwán es la **número uno en el mundo**. Según las últimas estimaciones del Consejo de Planificación y Desarrollo (NDC):
+El envejecimiento poblacional de Taiwán es extremadamente rápido. Según las estadísticas de registro civil del Ministerio del Interior y las proyecciones del Consejo Nacional de Desarrollo:
 
-- **2025**: Taiwán entrará oficialmente en la "sociedad superenvejecida" (población mayor de 65 años alcanzará el 20%).
-- **Situación actual (2024)**: 7 condados y ciudades ya han entrado en la fase de sociedad superenvejecida.
-- **Velocidad asombrosa**: De una sociedad envejecida (14%) a una superenvejecida (20%), Taiwán solo ha tardado 7 años, mucho más rápido que los 12 años de Japón o los 37 años de Alemania.
+- **Finales de 2025**: población de 65 años o más de 4 673 155 personas, representando el 20,06 % de la población total; Taiwán entra oficialmente en la «sociedad superenvejecida»[^1]
+- **Condados y ciudades**: de 22 condados y ciudades, 14 ya superan el 20 %; Taipéi encabeza con 24,18 %, y el que aún no lo supera con el porcentaje más bajo es el condado de Hsinchu con 15,08 %[^1]
+- **Velocidad asombrosa**: Taiwán pasó de sociedad envejecida (14 %) en 2018 a superenvejecida (20 %) en menos de ocho años. Alemania tardó 36 años en recorrer el mismo tramo, Japón 11[^3]
 
-### La realidad de la población con discapacidad
+### Realidad de la población con discapacidad
 
-- **Total**: Aproximadamente **1,19 millones de personas** con discapacidad en todo el país (alrededor del 5% de la población total).
-- **Tendencia de envejecimiento**: El **53,8%** de ellos tiene más de 65 años, lo que muestra una alta superposición entre discapacidad y vejez.
-- **Demanda turística**: Cada año hay aproximadamente **350,000 viajes** realizados por familias con personas con discapacidad.
+- **Total**: a finales de 2023, 1 214 668 personas poseían certificado de discapacidad, el 5,2 % de la población total[^4]
+- **Tendencia al envejecimiento**: de ellas, 576 220 tenían 65 años o más,约 47 %; en 2013 esta proporción era约 38 %, y en diez años no ha dejado de subir; el solapamiento entre discapacidad y vejez se profundiza[^4]
 
-Estas cifras señalan una realidad crucial: **la inclusión generacional ya no es un acto de caridad para "cuidar a los vulnerables", sino una cuestión de supervivencia para la sociedad taiwanesa**.
+Estas cifras apuntan a una realidad crucial: **la inclusión para todas las edades ya no es un asunto de «cuidar a los vulnerables» por buena voluntad, sino un «problema de supervivencia» para la sociedad taiwanesa**.
 
-## El modelo de Taiwán: de la "accesibilidad" a la "inclusión"
+## El modelo taiwanés: de la «accesibilidad» a la «inclusión»
 
-### Primera etapa: Construcción de infraestructura (décadas de 1990-2010)
+### Primera fase: construcción de hardware (años 1990-2010)
 
-En cumplimiento con la _Ley de Protección de los Derechos y Beneficios de las Personas con Discapacidad_, Taiwán comenzó una gran construcción de instalaciones accesibles:
+Con la sucesiva revisión de la legislación sobre discapacidad (1980 _Ley de Bienestar para Discapacitados_, 1997 renombrada _Ley de Protección de Personas con Discapacidad_, 2007 renombrada _Ley de Garantía de Derechos de Personas con Discapacidad_)[^5], Taiwán comenzó a construir masivamente instalaciones accesibles:
 
-- Sistema de Metro (MRT): Ascensores accesibles en todas las líneas, pavimento podotáctil y anuncios por voz.
-- Áreas Paisajísticas Nacionales: Las 13 administraciones de áreas paisajísticas nacionales han mejorado progresivamente su entorno accesible.
-- Puntos turísticos: Actualmente, unos 200 sitios cuentan con certificación de accesibilidad.
+- Sistema de metro: ascensores accesibles, baldosas táctiles, anuncios de voz
+- 13 áreas escénicas nacionales: mejora progresiva de entornos accesibles
+- Atracciones turísticas: la Administración de Turismo recopiló información y coordenadas de instalaciones accesibles clave en cada punto recreativo, planificando rutas amigables para personas mayores y con discapacidad[^6]
 
-### Segunda etapa: Fuerza blanda en el servicio (décadas de 2010-2020)
+### Segunda fase: poder blando de servicios (años 2010-2020)
 
-Las políticas viraron hacia un "servicio humanizado":
+La política giró hacia «servicios humanizados»:
 
-- **Vacaciones Duofu**: Surgimiento de operadores turísticos especializados en accesibilidad, ofreciendo planificación personalizada.
-- **Fundación Turística Fenghuang**: Lanzamiento del primer servicio de autobús accesible en todo el país.
-- **Asociación Xingwua**: Creación de una base de datos y un sistema de evaluación de puntos turísticos accesibles.
+- **Duofu Vacaciones** (多扶假期): surgieron operadores turísticos especializados en accesibilidad, ofreciendo planificación personalizada[^11]
+- **Fundación Fénix para el Turismo**: en 2014 construyó dos autobuses accesibles Fénix, con plataforma elevadora para sillas de ruedas, cada uno con capacidad para 28 personas y 3 sillas de ruedas simultáneas[^7]
+- **Red de Vida Sin Barreras** (行無礙生活網): uso de wiki colaborativo para acumular base de datos de vida accesible; los miembros marcan directamente en el mapa lugares accesibles[^8]
 
-### Tercera etapa: Inclusión social (década de 2020-presente)
+### Tercera fase: inclusión social (años 2020-presente)
 
-Del "cuidado especial" al "diseño universal":
+De «atención especial» a «diseño universal»:
 
-- Certificación de la OMS de **Ciudades Amigables con los Mayores**: Ciudades como Taipéi, Tainan y Chiayi se han unido.
-- Concepto de **Inclusión Generacional**: No solo considera a las personas con discapacidad, sino las necesidades de todos los rangos de edad.
-- Cambio en el modelo de viajes familiares: El viaje de tres generaciones se ha convertido en la norma.
+- Plan **Ciudades Amigables con las Personas Mayores** de la OMS: la Agencia de Promoción de la Salud (國健署) lo pilotó en Chiayi en 2010; en 2013 los 22 condados y ciudades ya participaban[^9]
+- Concepto **amigable para todas las edades**: no solo considera a personas con discapacidad, sino las necesidades de todos los grupos etarios
+- Transformación del modelo de viaje familiar: los viajes de tres generaciones se vuelven corriente principal
 
-## El ecosistema único del turismo familiar en Taiwán
+## La ecología única del viaje familiar en Taiwán
 
-### La división inteligente de tareas en tres generaciones
+### División inteligente del trabajo en tres generaciones
 
-En Taiwán, los viajes familiares rara vez consisten solo en dos generaciones (familia nuclear); lo más común es el viaje de "tres generaciones bajo un mismo techo" o incluso la "movilización familiar":
+En Taiwán, el viaje familiar rara vez es solo de «familia nuclear» de dos generaciones; lo común es «tres generaciones juntas» e incluso «movilización del clan»:
 
-- **Los mayores**: Aportan conocimiento local y experiencia de vida.
-- **La generación media**: Asume la responsabilidad de la planificación y las finanzas.
-- **La generación joven**: Se encarga del uso de tecnología y las actividades físicas.
+- **Mayores**: aportan conocimiento local y experiencia vital
+- **Generación intermedia**: asumen planificación y responsabilidad financiera
+- **Generación joven**: se encargan de aplicaciones tecnológicas y actividades físicas
 
-Este modelo de división de tareas forma naturalmente una **red de cuidado integrada**: cada miembro es, a la vez, cuidador y persona cuidada.
+Este modelo de división del trabajo forma de forma natural una **red de cuidados integrada** —cada miembro es a la vez cuidado y cuidador.
 
-### El acuerdo social de "adaptarse a la situación"
+### La complicidad social del «valorar la situación»
 
-La sociedad taiwanesa posee una cultura única de "observar y comprender":
+La sociedad taiwanesa tiene una cultura única de «leer el ambiente»:
 
-- **Restaurantes**: Al ver a un usuario de silla de ruedas, el personal mueve proactivamente las mesas o se ofrece a leer el menú en voz alta.
-- **Transporte público**: Al ver a una familia con una silla de ruedas, los pasajeros ceden su asiento voluntariamente.
-- **Sitios turísticos**: Si un visitante con discapacidad visual necesita guía, otros turistas forman naturalmente una "guía humana" espontánea.
+- **Restaurantes**: al ver usuario de silla de ruedas, el camarero mueve mesas y sillas proactivamente, ofrece leer el menú
+- **Transporte público**: al ver familia empujando silla de ruedas, pasajeros ceden el asiento espontáneamente
+- **Atracciones**: al ver persona con discapacidad visual que necesita orientación, otros visitantes forman naturalmente «guía humano»
 
-Este "adaptarse a la situación" no es una regulación institucional, sino una costumbre social: un **acuerdo de inclusión no escrito**.
+Este «valorar la situación» no es norma institucional, sino costumbre social —un **acuerdo de inclusión no escrito**.
 
 ## Brechas y avances entre política y práctica
 
-### Estrategia de las políticas centrales
+### Despliegue de políticas centrales
 
-**Departamento de Salud Pública (Ministerio de Salud y Bienestar)**: Promueve la certificación de Ciudades Amigables con los Mayores de la OMS; actualmente 22 gobiernos locales se han unido.
+**Agencia de Promoción de la Salud del Ministerio de Salud y Bienestar (衛福部國健署)**: introdujo el modelo de Ciudades Amigables con las Personas Mayores de la OMS; desde 2013 los 22 condados y ciudades participan plenamente[^9]
 
-- **Ocho áreas clave**: Espacios públicos seguros y accesibles, transporte masivo, vivienda, participación social, respeto a los mayores e integración social, participación ciudadana y empleo, comunicaciones e información, y servicios de salud y cuidados a largo plazo.
+- **Ocho dimensiones**: espacios públicos accesibles y seguros, transporte colectivo, vivienda, participación social, respeto e inclusión social, trabajo y voluntariado, comunicación e información, servicios comunitarios y de salud[^9]
 
-**Administración de Turismo (Ministerio de Transporte y Comunicaciones)**: Creación de la "Red de Turismo Accesible de Taiwán".
+**Administración de Turismo del Ministerio de Transporte (交通部觀光署)**: el sitio web de Información Turística de Taiwán cuenta con sección «Turismo Accesible»[^6]
 
-- Información sobre instalaciones accesibles en más de **200** puntos turísticos.
-- Planes de mejora de accesibilidad en **13** áreas paisajísticas nacionales.
-- Revisión y mejora periódica junto con grupos de personas con discapacidad.
+- Recopila información de pequeños viajes amigables, atracciones amigables y transporte accesible en áreas escénicas nacionales[^6]
+- Desde 2024 subsidia a agencias de viajes para tours grupales accesibles: grupos nacionales con 3 o más viajeros con discapacidad, tour de un día NT$ 1 200 por viajero con discapacidad y NT$ 300 por acompañante necesario; tours de dos o más días NT$ 1 500 y NT$ 500 por día respectivamente. Si hay 2 o más integrantes con discapacidad auditiva/voz, puede solicitarse costo de intérprete de lengua de señas, tope de NT$ 50 000 por grupo[^10]
 
-### Casos de innovación local
+## Fuerza civil: cuando la empresa encuentra la responsabilidad social
 
-**Ciudad de Taipéi**: La primera ciudad turística orientada al "Diseño Universal" en Taiwán.
+### Operadores turísticos profesionales accesibles
 
-- **Sistema Maokong Gondola**: Cabinas accesibles en toda la línea; los visitantes con discapacidad visual pueden tocar mapas en relieve.
-- **Museo Nacional del Palacio Imperial (Sede Sur)**: Rutas accesibles en todo el edificio y servicio de préstamo de ayudas técnicas.
+**Duofu Vacaciones** (多扶假期):
 
-**Ciudad de Tainan**: Turismo accesible integrado con la cultura histórica.
+- Modelo de servicio: «Viajar llevando mayordomo»[^11]
+- Servicios innovadores: vehículo de rehabilitación designado, recogida a domicilio, planificación de itinerario personalizada[^11]
+- Turismo internacional: organiza tours accesibles a Kioto-Osaka en Japón; antes de la salida envía personal a Kioto a reconocer terreno, ver ubicación de instalaciones accesibles y trazar rutas[^11]
 
-- **Revitalización de monumentos**: Adición de rutas accesibles manteniendo la integridad del patrimonio.
-- **Recorrido por Fucheng**: Desarrollo de rutas a pie por la ciudad antigua aptas para usuarios de sillas de ruedas.
+**Fundación Fénix para el Turismo** (鳳凰旅遊基金會):
 
-## Fuerza civil: cuando las empresas encuentran su responsabilidad social
+- Inversión en hardware: en 2014 construyó dos autobuses accesibles Fénix, de los pocos autobuses grandes en Taiwán con plataforma elevadora para sillas de ruedas[^7]
+- Filosofía de servicio: la fundación escribe en su presentación: «Para la gente común, viajar es placentero. Pero para personas con discapacidad, es considerablemente difícil»[^7]
 
-### Operadores profesionales de turismo accesible
+### Mapas accesibles en la red
 
-**Vacaciones Duofu**:
+**Red de Vida Sin Barreras** (行無礙生活網): sitio web de información de vida para personas con discapacidad fundado por Hsu Chao-fu (許朝富); en 2008 _Digital Era_ (數位時代) reportaba que llevaba siete años operando[^8]
 
-- Modelo de servicio: "Viajar con un mayordomo", proporcionando cuidadores profesionales uno a uno.
-- Servicios innovadores: Traslado a domicilio con vehículos adaptados y planificación de itinerarios personalizados.
-- Expansión internacional: Han desarrollado rutas accesibles en Kioto (Japón) y Seúl (Corea del Sur).
+- **Marcado por miembros**: integra Google Maps; los miembros marcan directamente lugares accesibles en el mapa
+- **Base de datos wiki**: usa wiki colaborativo para convocar a internautas a construir juntos la base de datos
+- **Denuncia de barreras**: convoca a fotografiar y denunciar instalaciones accesibles mal hechas; Hsu Chao-fu dice que más del 60 % se corrige en muy poco tiempo
 
-**Fundación Turística Fenghuang**:
-
-- Inversión en infraestructura: Primera flota de autobuses grandes accesibles en Taiwán.
-- Filosofía de servicio: "El turismo es un derecho humano básico que no debe ser privado por limitaciones físicas".
-
-### Innovación tecnológica de apoyo
-
-**App Xingwua**: Plataforma de información accesible mediante crowdsourcing.
-
-- **Reportes de usuarios**: Actualización en tiempo real del estado de las instalaciones accesibles.
-- **Planificación de rutas**: Rutas personalizadas según diferentes necesidades.
-- **Apoyo comunitario**: Los usuarios se ayudan mutuamente para resolver problemas de viaje.
-
-## Profundidad cultural: el fenómeno fenomenológico de "Nuestra familia es muy Tsai"
+## Profundidad cultural: fenomenología de «Nuestra familia es muy Tsai»
 
 ### Manifestación de la resiliencia cotidiana
 
-Tomando como ejemplo los registros de vida del YouTuber con discapacidad visual "Nuestra familia es muy Tsai" (我們一家都很蔡), podemos ver cómo las familias taiwanesas logran una "micro-inclusión" en su día a día:
+Tomemos el canal familiar de YouTube «Nuestra familia es muy Tsai» (我們一家都很蔡); este artículo nació de su envío.[^2] En un corto del canal preguntan: si no pudieras ver, ¿cómo indicarías que quieres comer?[^12]
 
-**Escenas en comidas**:
+En su envío escriben que, ante las necesidades de alimentación o desplazamiento de personas con discapacidad visual, mediante simples herramientas de apoyo y la complicidad familiar, logran superar los límites sensoriales, y llaman a esta «resiliencia cotidiana» el paisaje más bello y realista de la sociedad taiwanesa.[^2]
 
-- Los miembros con discapacidad visual eligen platos mediante el tacto o el olfato.
-- Los familiares proporcionan naturalmente "descripciones del entorno" (ej. "tienes una sopa a tu derecha").
-- El personal del restaurante pregunta proactivamente si necesitan ayuda, en lugar de evitar la situación por incomodidad.
+### Significado educativo: currículo vital invisible
 
-**Durante los desplazamientos**:
+El valor más profundo de este modelo «viaje de tres generaciones» es la **educación en empatía** para la generación joven:
 
-- Las familias desarrollan un "lenguaje de navegación" único (ej. "hay un escalón en tres pasos frente a ti").
-- Los desconocidos ceden el paso o advierten sobre peligros al observar la situación.
-- Los anuncios por voz del transporte público se convierten en la "navegación compartida" para toda la familia.
+- Aprender a «bajar el ritmo»: adaptarse al paso de mayores y familiares con movilidad reducida
+- Cultivar «capacidad de observación»: notar obstáculos y necesidades en el entorno
+- Construir «sentido de responsabilidad»: cada uno tiene la obligación de cuidar a otros
+- Comprender «diversidad»: aceptar la coexistencia de diferentes estados de capacidad
 
-### Significado educativo: lecciones de vida invisibles
+Esta educación no es un «curso de formación de carácter» deliberado, sino una **práctica de empatía** que ocurre naturalmente en situaciones reales de viaje.
 
-El valor más profundo de este modelo de "viaje de tres generaciones" es la **educación en empatía** para las nuevas generaciones:
-
-- Aprender a "ir más lento": Adaptarse al ritmo de los mayores y familiares con movilidad reducida.
-- Desarrollar la "capacidad de observación": Prestar atención a los obstáculos y necesidades del entorno.
-- Construir el "sentido de responsabilidad": Cada persona tiene el deber de cuidar a los demás.
-- Comprender la "diversidad": Aceptar la coexistencia de diferentes estados de capacidad.
-
-Esta educación no es un "curso de valores" planeado, sino una **práctica de empatía** que ocurre naturalmente en situaciones reales de viaje.
-
-## Desafíos y futuro: cuando la demanda se vuelve tendencia
+## Desafíos y futuro: cuando la necesidad se vuelve mainstream
 
 ### Desafíos reales
 
-**Limitaciones del hardware**:
+**Límites de hardware**:
 
-- Dificultad para adaptar edificios históricos (como el casco antiguo de Lukang o Jiufen).
-- Limitaciones topográficas en paisajes naturales (como el Cañón Taroko o los puntos de ascenso a Yushan).
-- La carga de costos de adaptación para pequeños empresarios.
+- Dificultad de adaptación accesible en edificios históricos (p. ej., calle antigua de Lukang, calle antigua de Jiufen)
+- Limitaciones topográficas en paisajes naturales (p. ej., desfiladero de Taroko, entrada al monte Yushan)
+- Carga de costos de adaptación para pequeños operadores
 
-**Recursos humanos del servicio**:
+**Recursos humanos de servicio**:
 
-- Escasez de personal de cuidado especializado.
-- Falta de capacitación en servicios para personas con discapacidad entre el personal de primera línea.
-- Barreras de comunicación (la comunicación entre enfermeras extranjeras y familias taiwanesas).
+- Falta de personal de cuidados profesional
+- Personal de primera línea carece de formación en servicio a personas con discapacidad
+- Barreras idiomáticas (comunicación entre cuidadores extranjeros y familias taiwanesas)
 
 **Barreras actitudinales**:
 
-- Algunos empresarios todavía consideran a los clientes con discapacidad como una "molestia".
-- Casos de "ayuda bienintencionada" pero mal ejecutada.
-- Actitudes de sobreprotección o de tratar al cliente "como si fuera un enfermo".
+- Parte de la industria ve aún a clientes con discapacidad como «molestia»
+- Casos de «buena intención pero método erróneo»
+- Sobreprotección y actitud de «tratarte como enfermo»
 
-### Perspectivas futuras: el valor internacional del modelo taiwanés
+### Perspectivas futuras: valor internacional del modelo taiwanés
 
-**Tendencias políticas**:
+**Dirección de políticas y sociedad civil**:
 
-- **Meta para 2030**: Que todos los parques nacionales cumplan con los estándares de accesibilidad de la OMS.
-- **Integración normativa**: Integración interministerial entre la Ley de Derechos de las Personas con Discapacidad y el Reglamento de Desarrollo Turístico.
-- **Certificación internacional**: Buscar ser el primer "país amigable para el turismo accesible" en Asia.
+- **Subsidio que incluye acompañante**: la Administración de Turismo desde 2024 aplica tarifa diaria fija en subsidio a tours grupales accesibles, y establece mecanismo para que personas con discapacidad viajen con acompañante[^10]
+- **Anhelo civil**: Cheng Shu-yun (鄭淑勻), presidenta de la Asociación para el Desarrollo del Turismo Accesible de Taiwán, lleva treinta y tantos años en la industria; la web la presenta como la única guía en silla de ruedas del país; su mayor sueño es «convertir a Taiwán en un país de turismo accesible»[^13]
 
 **Evolución social**:
-Taiwán está formando una cultura única de "inclusión", cuyo núcleo no es "cuidar a los vulnerables", sino "reconocer la diversidad": entender que cada persona tiene capacidades y necesidades diferentes, y que la responsabilidad social es **crear un entorno donde todos puedan participar**.
+Taiwán está formando una «cultura de inclusión» única, cuyo núcleo no es «cuidar a los vulnerables», sino «reconocer la diversidad» —entender que cada persona tiene distintas capacidades y necesidades, y que la responsabilidad de la sociedad es **crear un entorno donde todos puedan participar**.
 
-Esta cultura podría ser la contribución más valiosa de Taiwán al mundo: **demostrar que una sociedad inclusiva no necesita esperar a tener el hardware perfecto, sino que puede comenzar con la comprensión entre las personas.**
+Esta cultura puede ser la contribución más valiosa de Taiwán al mundo: **demostrar que una sociedad inclusiva no necesita esperar a que el hardware sea perfecto, sino que puede comenzar desde la comprensión entre personas**.
 
 ---
 
-### Referencias / Fuentes
+**Lecturas complementarias**:
 
-1. [Agencia de Estadísticas del Ministerio del Interior: Estadísticas de población envejecida en 2024](https://www.moi.gov.tw/News_Content.aspx?n=9&s=322560)
-2. [Oficina de Turismo del Ministerio de Transporte: Red de información turística accesible](https://www.taiwan.net.tw/m1.aspx?sNo=0000120)
-3. [Agencia Nacional de Salud y Bienestar: Plan de promoción de ciudades amigables para la tercera edad](https://www.hpa.gov.tw/Pages/List.aspx?nodeid=3869)
-4. [Asociación de Desarrollo Turístico Accesible de Taiwán](http://www.goodtours.com.tw/)
-5. [Multiferi Holiday: Servicios turísticos accesibles](https://www.dfholidays.com/tw/)
-6. [Canal de YouTube: Nosotros en familia somos Tsai](https://www.youtube.com/@alston0816)
-7. [Sitio web de senderismo taiwanés: Zona dedicada al turismo accesible](https://recreation.forest.gov.tw/Topic/FOO)
-8. [Fundación Phoenix Travel: Promoción de autobuses accesibles](https://event.travel.com.tw/accessibleBus/)
-9. [Asociación de promoción de recursos sin barreras](https://www.facebook.com/sunabletaipei/)
-10. Consejo Nacional de Desarrollo: 《Estimación poblacional de la República de China》(octubre de 2024)
+- [Red de Ocio en Montañas y Bosques de Taiwán: Turismo Accesible](https://recreation.forest.gov.tw/Topic/FOO) — Instalaciones accesibles y préstamo de sillas de ruedas en áreas recreativas forestales nacionales de la Agencia Forestal
+- [Asociación para la Promoción de Recursos Sin Barreras](https://www.facebook.com/sunabletaipei/) — Página de Facebook de la Red Sin Barreras
+
+## Referencias
+
+[^1]: [United Daily News: Mayores de 65 años superan el 20 %; Taiwán entra oficialmente en sociedad superenvejecida](https://udn.com/news/story/7266/9254576) — Reportaje de enero 2026 con estadísticas de registro civil del Ministerio del Interior: a 31 dic 2025 población de 65+ años 4 673 155, 20,06 %; 14 de 22 condados/ciudades ya en superenvejecida, Taipéi 24,18 % máximo, condado de Hsinchu 15,08 % mínimo.
+
+[^2]: [Taiwan.md issue #147: Movilidad familiar traspasando barreras](https://github.com/frank890417/taiwan-md/issues/147) — Borrador original del artículo (2026-03-22, firmado «Nuestra familia es muy Tsai»), sobre espacios públicos y asistencia interpersonal en momentos «no estandarizados», educación vital en viajes multigeneracionales, y la «resiliencia cotidiana» del canal.
+
+[^3]: [Business Weekly: En dos años entraremos en sociedad envejecida](https://www.businesstoday.com.tw/article/category/80392/post/201601070034/) — Reportaje 2016: de sociedad envejecida (14 %) a superenvejecida (20 %), Alemania 36 años, Japón 11; entonces se estimaba Taiwán en envejecida 2018, superenvejecida 2025.
+
+[^4]: [Ministerio de Salud y Bienestar _2024 Taiwan Health and Welfare Report_ Tabla 2-2](https://service.mohw.gov.tw/ebook/dopl/113/02/files/basic-html/page27.html) — Serie histórica de personas con discapacidad por edad: finales 2023 1 214 668 personas, 5,2 % población total, de ellas 65+ años 576 220; finales 2013 1 125 113 personas, 65+ años 422 358.
+
+[^5]: [Base de datos legal nacional: Historial de la Ley de Garantía de Derechos de Personas con Discapacidad](https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=D0050046) — 1980 promulgada como _Ley de Bienestar para Discapacitados_, abril 1997 renombrada _Ley de Protección de Personas con Discapacidad_, julio 2007 renombrada _Ley de Garantía de Derechos de Personas con Discapacidad_.
+
+[^6]: [Sitio de Información Turística de Taiwán: Turismo Accesible](https://www.taiwan.net.tw/m1.aspx?sNo=0000120) — Sección de turismo accesible de la Administración de Turismo, recopila información y coordenadas de instalaciones accesibles en cada punto recreativo, dividido en pequeños viajes amigables en áreas escénicas nacionales, atracciones amigables, transporte accesible.
+
+[^7]: [Turismo Fénix: Autobús Accesible Fénix](https://event.travel.com.tw/accessibleBus/) — Página de turismo accesible de la Fundación Fénix: 2014 construyó dos autobuses accesibles, de los pocos autobuses grandes en Taiwán con plataforma elevadora para sillas de ruedas, cada uno admite 28 personas y 3 sillas de ruedas simultáneas.
+
+[^8]: [Digital Era: Pequeño blog crea gran espacio accesible](https://www.bnext.com.tw/article/9468/BN-ARTICLE-9468) — Reportaje 2008: Red de Vida Sin Barreras fundada por Hsu Chao-fu llevaba siete años; integra Google Maps para que miembros marquen lugares accesibles, usa wiki colaborativo para construir base de datos, blog «Denuncia de barreras» convoca a fotografiar y denunciar.
+
+[^9]: [Ministerio de Salud y Bienestar: Impulsar ciudades amigables con personas mayores, aprovechar oportunidades de cambio e innovación](https://www.mohw.gov.tw/cp-16-21552-1.html) — OMS 2007 publica guía y ocho dimensiones; Taiwán 2010 (año 99 República) pilotó en Chiayi, 2013 (año 102) 22 condados/ciudades ya participaban.
+
+[^10]: [Red administrativa de la Administración de Turismo: Nuevo sistema de subsidio a tours grupales para personas mayores y accesibles en 2024](https://admin.taiwan.net.tw/News/NewsTravel?a=35&id=30082) — Nota de prensa 28 dic 2023: _Puntos para subsidiar a agencias de viajes en turismo accesible_ vigente desde 1 ene 2024, grupos nacionales con 3+ viajeros con discapacidad con tarifa diaria fija, establece mecanismo de acompañante, tope NT$ 50 000 por grupo.
+
+[^11]: [Duofu Vacaciones](https://www.dfholidays.com/tw/) — Web oficial de operador turístico accesible, lema «Viajar llevando mayordomo», ofrece tours en vehículo privado, viajes personalizados, recogida a domicilio, vehículo de rehabilitación designado; portada incluye registro de reconocimiento previo en Kioto para tours accesibles Japón Kioto-Osaka.
+
+[^12]: [YouTube: 【Nuestra familia es muy Tsai】Si no pudieras ver, quieres comer, ¿cómo lo indicas?](https://www.youtube.com/shorts/DedWMkt1zq4) — Corto del canal «Nuestra familia es muy Tsai», registro audiovisual adjunto al borrador.
+
+[^13]: [Asociación para el Desarrollo del Turismo Accesible de Taiwán](http://www.goodtours.com.tw/) — Web oficial: presidenta Cheng Shu-yun 30+ años en turismo, presentada como única guía en silla de ruedas del país, mayor sueño «convertir a Taiwán en país de turismo accesible».
