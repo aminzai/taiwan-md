@@ -1,15 +1,15 @@
 ---
-title: 'Taiwanese Military Dependent Village Cuisine'
-description: "The 1949 Great Migration brought flavors from across China's provinces, from kitchens behind bamboo fences to the preserved tastes after village demolition"
+title: 'Taiwanese Military Family Village Cuisine (眷村菜)'
+description: 'The flavors of various provinces brought by the 1949 migration, from kitchens within bamboo fences to the preservation of taste after military family villages were dismantled.'
 date: 2026-03-19
 category: 'Food'
 tags:
   [
-    'military dependent village cuisine',
-    'mainland Chinese cuisine',
-    'beef noodle soup',
-    '1949 Great Migration',
-    'bamboo fences',
+    'Military Family Village Cuisine',
+    'Out-of-province Food',
+    'Beef Noodle Soup',
+    'Great Migration',
+    'Bamboo Fence',
   ]
 subcategory: '族群飲食'
 author: 'Taiwan.md Contributors'
@@ -19,103 +19,111 @@ lastHumanReview: false
 readingTime: 8
 imageNote: '原圖僅 GFDL 授權（非 CC BY／CC BY-SA／CC0／公有領域），未收進庫，待另覓授權明確圖源'
 translatedFrom: 'Food/台灣眷村菜.md'
-sourceCommitSha: 'ef80aeea4'
-sourceContentHash: 'sha256:467908b1a60dd52d'
-sourceBodyHash: 'sha256:833d2eafe654813e'
-translatedAt: '2026-10-08T14:09:29.755577+00:00'
+sourceCommitSha: 'c0ec148be'
+sourceContentHash: 'sha256:242e3935197cb573'
+sourceBodyHash: 'sha256:0350ac703fba6030'
+translatedAt: '2026-10-09T09:18:28+08:00'
 ---
 
-# Taiwanese Military Dependent Village Cuisine
+# Taiwanese Military Family Village Cuisine
 
-> **30-second overview:** The 1949 Great Migration brought approximately 1.2 million soldiers and civilians. Their hometown flavors took root in the military dependent villages enclosed by bamboo fences. Shandong scallion pancakes, Sichuan doubanjiang, Jiangsu xiaolongbao, and Hunan salted vegetables—cuisines from various provinces collided and fused within a single community, creating new flavors in Taiwanese food culture that cannot be claimed by any single province.
+> **30-Second Overview:** Around 1.2 million military personnel and civilians from mainland China arrived in Taiwan around 1949, many of whom lived in communities enclosed by bamboo fences (眷村). Dishes from Shandong, Sichuan, Jiangsu/Zhejiang, and Hunan collided and merged within the same community, creating a new flavor that cannot be claimed by any single province in Taiwanese culinary culture.
 
-The 1949 Great Migration did not only change Taiwan's political landscape; it also injected hometown flavors from across China's provinces into Taiwanese food culture. About 1.2 million soldiers and civilians rebuilt their lives in Taiwan's military dependent villages. Within the small worlds enclosed by bamboo fences, Shandong big pancakes, Sichuan chili peppers, Jiangsu sweetness, and Hunan salted vegetables—cuisines from various provinces collided, fused, and evolved in limited space, forming a military dependent village food culture that cannot be labeled with a single provincial tag.
+The Great Migration of 1949 not only changed Taiwan's political landscape but also infused local cuisine with hometown flavors from all over China. Military families who settled in these bamboo-fenced communities rebuilt their lives; the large cakes of Shandong, the chili peppers of Sichuan, the sweet tastes of Jiangsu/Zhejiang, and the pickled vegetables of Hunan—the regional cuisines rubbed against each other in limited spaces, evolving into the Military Family Village Cuisine culture that resists being labeled by a single province.
 
-## The 1949 Taste Migration
+## The Great Taste Migration of 1949
 
-In 1949, as the Republic of China government relocated to Taiwan, an estimated 1.2 million soldiers and civilians came from mainland China (there are different estimates among demographic scholars). These people came from all corners, bringing different accents, customs, and most irreplaceable hometown taste memories.
+Around 1949, as the Nationalist government relocated to Taiwan, an estimated 1.2 million military personnel and civilians came from mainland China. Figures vary: statistics from 1945 to 1950 cited nearly 2 million, while the 1956 census recorded over 1.2 million non-native residents (外省籍人口).[^1][^2] Not all of them lived in military family villages; a 1982 survey by the Women's Federation reported 879 such villages across Taiwan housing approximately 467,000 people, roughly one-third of the non-native population at the time (other data estimates as low as one-sixth).[^2] These people came from all corners of the land, bringing different accents, customs, and the hardest thing to let go of: memories of their hometown flavors.
 
-In those turbulent times, the taste of home became a spiritual comfort. Shandong people missed their hometown scallion sauce, Sichuan people yearned for spicy stir-fried pork, and Jiangnan people missed the light white-cut chicken. These taste memories were recombined on foreign soil, forming a special military dependent village food culture.
+In that turbulent era, the taste of home provided spiritual comfort. Shandong residents missed the pungent scallion dipping sauce; Sichuan residents longed for spicy twice-cooked pork (回鍋肉); Jiangnan residents missed light steamed chicken (白切雞). These sensory memories were reassembled on foreign soil to form a unique military family village culinary culture.
 
-Newly arrived mainlanders faced dilemmas of language barriers and economic hardship. In the simple kitchens of the military dependent villages, they used limited ingredients to recreate hometown flavors. Due to material shortages, original ingredients were replaced with cheaper substitutes, and cooking methods were adjusted to local conditions, unintentionally creating many new culinary variations.
+The newly arrived non-native residents faced difficulties such as language barriers and economic hardship. In the simple kitchens of the military villages, they recreated hometown flavors using limited ingredients. Due to material shortages, original ingredients were replaced by cheaper substitutes, and cooking methods were adjusted according to local circumstances, unintentionally creating many new culinary variations.
 
-## Behind the Bamboo Fences: Overlapping Perspectives
+## The Intersection of Groups on Both Sides of the Bamboo Fence
 
-The story of military dependent village cuisine cannot be told only from the perspective of mainlanders. After 1949, the relationship between native Taiwanese and mainlanders was tense: the wounds of February 28 had not yet healed, language barriers, distribution differences, and lifestyle conflicts all created gaps. However, food was often the first thing to cross boundaries.
+The story of Military Family Village Cuisine cannot be told solely from the perspective of non-native residents. Relations between native (本省) and non-native residents after 1949 were fraught with tension: the wounds of the 228 Incident remained unhealed, language barriers, differences in resource allocation, and clashes in lifestyle created estrangement. However, food is often the first thing to cross boundaries.
 
-Military dependent village mothers carrying dumplings visited native Taiwanese neighbors, and native Taiwanese farmers brought pineapples to share with the military dependent villages. Daily hunger and generosity quietly softened the distance on both sides of the fence. Native Taiwanese women brought local ingredient knowledge (which area's sweet potato leaves were tenderest, what fish to buy in which season), while mainland mothers introduced noodle-making techniques and seasoning secrets from various provinces. This kitchen diplomacy is the root of the bidirectional flow characteristic of military dependent village cuisine.
+Exchanges between the military villages and surrounding native communities often began at the market and the dining table: local native vendors were familiar with seasonal ingredients from Taiwan, while non-native families introduced noodle-making techniques and seasoning from their respective provinces. This daily exchange is the root of the bidirectional flow characteristic of Military Family Village Cuisine.
 
-The "Taiwanization" of military dependent village cuisine is largely the result of this two-way exchange. Scallion pancake dough incorporated the fragrance of Taiwanese basil, braised pork belly added Taiwan's unique soy sauce paste, and cuisines from various provinces grew new appearances under the intervention of Taiwanese ingredients that could not be replicated in their places of origin.
+The "Taiwanization" of Military Family Village Cuisine stems partly from this interaction and partly from material constraints. The豆瓣醬 (doubanjiang) in Gangshan was made with yellow douban and chili; the郫 County (Píxiàn) douban from Sichuan often used fermented soybean paste (蠶豆瓣), resulting in different flavors.[^3] Under the influence of Taiwanese ingredients, regional cuisines developed forms that could not be replicated in their original homelands.
 
-## Kitchen Wisdom Within the Bamboo Fences
+## Kitchen Wisdom Within the Bamboo Fence
 
-The living space in the military dependent villages was small, with several family members crammed into a dozen square meters, and the kitchen often had only one stove. Under these constraints, the mothers of the military dependent villages developed unique cooking methods.
+The living space in military villages was small. Taking Zhongzhen New Village in Taoyuan as an example, the average household occupied less than 10 pings (approx. 33 square meters), with only about 4.5 to 5 pings available for shelter.[^4] Under these conditions, the mothers of the military villages developed unique cooking methods.
 
-"One pot to finish everything" was the basic principle of the military dependent village kitchen. Since there was only one stove, all dishes had to be completed in the same pot, or cooked sequentially using residual heat. This constraint promoted creativity, and many classic military dependent village dishes were born under these conditions. The attitude of using every last bit was also core: bones were made into soup, vegetable leaves were stir-fried, and leftover rice was made into fried rice. This frugality gave rise to many seemingly ingenious dishes today.
+Making full use of everything was the core of the military village kitchen: bones were boiled for broth, vegetable leaves were stir-fried, and leftover rice was made into fried rice—this frugality spurred many dishes that seem ingenious today.
 
-"Neighborhood mutual aid" was another feature of the military dependent village kitchen. The Shandong landlady next door shared her scallion pancake recipe, and the Sichuan auntie across the way taught the secret to stir-fried pork. Within the small community enclosed by bamboo fences, cooking techniques from various provinces naturally exchanged and merged.
+"Neighborly mutual aid" was another characteristic of the military village kitchen. The Shandong sister-in-law next door shared her scallion pancake recipe; the Sichuan aunt across the way taught secrets to twice-cooked pork. In this small community enclosed by a bamboo fence, techniques from various provinces naturally exchanged and merged.
 
-## The Origin of Braised Beef Noodle Soup in the Military Dependent Villages: Kaohsiung Gangshan and Mingde Doubanjiang
+## Gangshan Air Force Military Village and Sichuan-style Braised Beef Noodle Soup (牛肉麵)
 
-When discussing military dependent village cuisine, one cannot fail to mention [beef noodle soup](/en/food/beef-noodle-soup/). Although beef noodle soup is now regarded as a national dish of Taiwan, its origin can indeed be traced back to military dependent village culture, specifically to the **Gangshan Air Force Military Dependent Village in Kaohsiung in the 1950s**.
+When discussing Military Family Village Cuisine, one cannot omit [beef noodle soup](/en/food/beef-noodle-soup/). Early Taiwanese braised beef noodles were generally divided into two streams: the Shandong style developed from the north, with the earliest known shop being "Liu Shandong Beef Noodle Soup," which opened in 1951. The Sichuan style developed from the south; food historians such as Luo Yaodong (逯耀東) investigated and concluded that Taiwan's so-called Sichuan-style beef noodles actually originated in Taiwan, with **Gangshan, Kaohsiung being the location of an Air Force military village.**[^3]
 
-The starting point of the story was the Air Force sergeant **Liu Mingde**. He came to Taiwan in 1948 and retired in 1950, settling in the Gangshan military dependent village. To make a living, he recalled the doubanjiang-making skills he learned on the march, bought ingredients with his remaining savings, and began making his hometown-style spicy doubanjiang and sweet noodle sauce. **Mingde Doubanjiang** became the signature seasoning both inside and outside the Gangshan military dependent village, and unexpectedly provided the key flavor base for Sichuan-style braised beef noodle soup.
+According to cultural researcher Liu Tianfu (劉天賦), Gangshan’s spicy doubanjiang came from Air Force NCO Liu Mingde (劉明德): he arrived in Taiwan in 1948 and settled in the Gangshan Air Force military village. Later, to make a living, starting in 1950, he sold homemade spicy doubanjiang in the village—this was **"Mingde Doubanjiang."**[^5]
 
-Sichuan and Hunan soldiers combined Gangshan's Mingde Doubanjiang, Taiwan's local beef, and noodle-making techniques, gradually adjusting to create a new dish that was not the same as Sichuan's hometown style but carried strong Sichuan flavor memories. **The earliest confirmed Taiwanese Sichuan-style beef noodle soup shop is the "Park Pig's Feet Noodles / Beef Noodle Soup" that opened in Gangshan, Kaohsiung in 1962**. This time point is more than 10 years later than the birth of the ingredient (Mingde Doubanjiang), which fits the evolutionary logic of "seasonings first, then noodles."
+The "Sichuan flavor" of Sichuan-style beef noodles refers to the use of characteristic Sichuan condiments like doubanjiang. Luo Yaodong's view is that this dish was made by veterans who missed Sichuan flavors while in Taiwan, and it was named after Sichuan because the creator hailed from Sichuan, though Sichuan did not have this dish originally. **The earliest known shop serving Sichuan-style beef noodles is "Park Pig Trotter/Beef Noodle Soup" (公園豬腳麵／牛肉麵), which opened in Gangshan, Kaohsiung, in 1962**, more than a decade after Liu Mingde started selling doubanjiang.[^3]
 
-The broth of the military dependent village's beef noodle soup was rich because meat was precious. The mothers of the military dependent villages would simmer beef bones for a long time, making the broth full of collagen and aroma. This rich broth not only increased satiety but also made simple noodles flavorful. From Gangshan's home cooking to later beef noodle soup shops throughout Taiwan, the development trajectory of this dish witnesses the influence of military dependent village culture and also shows that "Taiwanese Sichuan flavor" is actually a hybrid product made in Taiwan.
+The Gangshan origin theory is not absolute. Jiao Tong (焦桐) wrote in _Taiwanese Flavors_ that Luo Yaodong asserted in the inaugural issue of the magazine _Cuisine_ that Sichuan-style braised beef noodles originated from the Gangshan Air Force military village, and he himself was skeptical: he often visited the Gangshan Air Force military village during high school, remembering only the Mingde and Haha doubanjiang, but not recalling any beef noodles in Gangshan at the time.[^6] Regardless of which village the origin lies, "Taiwanese Sichuan flavor" is a hybrid product made in Taiwan.
 
-## Fusion of Cuisines from Various Provinces
+## The Fusion of Regional Cuisines
 
-The special environment of the military dependent villages led to unprecedented culinary fusion. Families from different provinces lived side by side, and the food cultures of various provinces naturally evolved through daily exchanges.
+The unique environment of the military villages promoted unprecedented culinary fusion. Families from different provinces lived side-by-side, and regional food cultures naturally evolved through daily interaction.
 
-The generous style of Shandong cuisine met the delicate craftsmanship of Jiangsu cuisine, producing new variations. Shandong people's scallion pancakes borrowed the delicate techniques of Jiangnan, and Jiangnan people's xiaolongbao absorbed the portion size of Shandong. The spiciness of Sichuan cuisine and the aroma of Hunan cuisine also generated new combinations in the military dependent villages: since authentic Sichuan ingredients could not be purchased in Taiwan at the time, chefs used Taiwan's local chili peppers and spices to create substitute solutions, inadvertently forming a unique Taiwanese Sichuan flavor.
+The boldness of Shandong cuisine, the refinement of Jiangsu/Zhejiang cuisine, the spiciness of Sichuan cuisine, and the fiery heat of Hunan cuisine coexisted in the military villages, borrowing flavors from each other's tables.
 
-The lightness of Cantonese cuisine and the richness of northern Chinese cuisine also found a balance point in the military dependent villages. Many military dependent village dishes showed characteristics of northern and southern fusion, retaining the flavors of their places of origin while adapting to Taiwan's climate and ingredients.
+The lightness of Cantonese cuisine and the richness of Northern cuisine also found a balance point within the military villages. Many Military Family Village Cuisines exhibit characteristics of North-South fusion, retaining original regional flavors while adapting to Taiwanese climate and ingredients.
 
-## Military Dependent Village Demolition, Preservation, and Villages Parks
+## Military Village Demolition, Preservation, and Parks
 
-In 1996, the 《Military Dependent Village Renovation Act》 was passed, leading to the gradual conversion of military dependent village land into redeveloped areas or public housing sites, accelerating the disappearance of the original physical structures of these old villages.[^4] However, some military dependent villages remained due to calls for cultural preservation.
+In 1996, the _Act for the Reconstruction of Old Military Villages_ was enacted, leading to the gradual demolition and reconstruction of old military villages to house relocated veterans, accelerating the disappearance of the physical structures of these old communities. The legislative purpose in Article 1 also included "preserving military village culture."[^7] Some military villages remained due to calls for cultural preservation.
 
-Sisinan Village in Xinyi District, Taipei, is one of Taiwan's most well-known examples of preserved military dependent villages. The original complex was transformed into a military dependent village culture museum in 2003 and has become a venue for food brands such as "Good Cho's," allowing the cuisine of these villages to be re-presented within a new context. Taoyuan is a county with a high concentration of military dependent villages; a 2018 report noted that out of 888 military dependent villages across Taiwan, Taoyuan had 86. The municipal government hosted a Military Dependent Village Culture Festival in 2018, which featured food competitions at its main venue.[^5] Several registered military dependent villages are also preserved near the Qing Dynasty old city walls in Zuoying, Kaohsiung.
+Si-Si Nan Village in Xinyi District, Taipei, is one such example. According to research by the Si-Si Nan Village National Historic Site Promotion Alliance, it was built in 1948 and is considered the first military village built by the government in Taiwan and the first one preserved.[^8] In 2003, it opened as "Xinyi Public Assembly Hall and Military Village Cultural Park," which houses a military village museum.[^9] The F&B brand Heytea (好丘) moved in in 2011, using local Taiwanese produce to make bagels, allowing the former military housing to be reused in a new context. The Xinyi branch of Heytea closed on November 23, 2025.[^12]
 
-These retained spaces of military dependent villages have provided tangible landmarks for the inheritance of this cuisine and allow subsequent generations to see the concrete form of this immigrant history beyond just taste.
+Taoyuan is a county with a high concentration of military villages; reports from 2018 stated that Taoyuan had 86 out of the 888 military villages across Taiwan. The cultural festival organized by the municipal government in 2018 featured a food competition.[^10] In Zuoying, Kaohsiung, many Navy military villages are located inside and outside the Old City; Mingde, Jianye, and Hequn New Villages were registered as part of the Kaohsiung Cultural Landscape in 2010.[^11]
 
-## Two Perspectives: Native Taiwanese Viewpoints and Identity Changes of the Second Generation
+These preserved military village spaces provide tangible landmarks for the inheritance of Military Family Village Cuisine, allowing subsequent generations to see the concrete shape of this immigration history beyond just taste.
 
-Military dependent village cuisine has long been dominated by the narrative of "mainlander mothers passing down hometown flavors," but this is only half the story. From the perspective of **native Taiwanese**, the military dependent villages were "strange new neighbors" that appeared after the end of the Japanese colonial period. The original Taiwanese rural communities that spoke Taiwanese Hokkien, farmed, and worshipped local deities suddenly had a group of Mandarin-speaking families cooking strange spiced dishes. The initial relationship was not a pastoral harmony, as land expropriation, language barriers, and political class differences all created structural tensions between the inside and outside of the military dependent villages. The native Taiwanese gradually accepted military dependent village cuisine through decades of cohabitation.
+## A Dual Perspective: Native Views and Second-Generation Identity
 
-**The identity changes of the second generation of military dependents** is also an underestimated dimension. Most of the first generation of military dependents who migrated to Taiwan in 1949 held a "temporary residence with the intention of retaking the mainland" mindset, and were deeply attached to the nostalgic flavors of military dependent village cuisine. However, the second generation of military dependents born after the 1960s grew up speaking Mandarin, eating Taiwanese-style military dependent village dishes, and growing up alongside native Taiwanese classmates. Their binary distinction between "mainlander" and "native Taiwanese" gradually loosened. After the 1990s, the third generation of military dependents increasingly identified as "Taiwanese." For them, military dependent village cuisine was no longer a carrier of nostalgia but the taste of their childhood memories. This shift in identity occurred simultaneously with Taiwan's overall localization process.
+Military Family Village Cuisine has long been narrated primarily through the lens of "hometown flavors passed down by non-native mothers," but this is only half the story. From the **perspective of native residents**, the military villages were suddenly appearing as "strange new neighbors" after the war. Native rural communities, which originally spoke Tâi-gí (Taiwanese) and farmed while worshipping local earth gods, now included families of military personnel who spoke Mandarin and cooked unfamiliar spices. The initial relationship was not idyllic; linguistic barriers and class differences created structural tension both inside and outside the villages. Native residents gradually accepted Military Family Village Cuisine through decades of coexistence and cultural permeation.
 
-Understanding the complete picture of military dependent village cuisine requires seeing simultaneously the three narratives of **the nostalgia of military dependents, the acceptance process of native Taiwanese society, and the loosening identity of the second generation**, rather than a single "mainlander flavor" paradigm.
+The **changing identity of the second generation** is also an underestimated dimension. The "first-generation" migrants who came to Taiwan in 1949 largely held a temporary mindset of "counter-attacking the mainland," with intense nostalgia for their homeland reflected in their cuisine. However, the second generation born after the 1960s, who grew up speaking Mandarin, eating Taiwanese Military Family Village Cuisine, and growing up alongside native classmates, gradually loosened the binary division between "non-native" and "native." From the third generation onward, they increasingly identified as "Taiwanese," and for them, Military Family Village Cuisine is no longer a carrier of nostalgia; these dishes are the taste of their childhood memories. This shift in identity aligns with Taiwan's overall process of localization.
 
-## Modern Inheritance of Military Dependent Village Cuisine
+To understand the complete picture of Military Family Village Cuisine, one must simultaneously see three layers of narrative: **the nostalgia of the relocated military families, the acceptance process by native society, and the loosening of second-generation identity**, rather than just a single paradigm of "non-native flavor."
 
-Today's Taiwan has seen the physical military dependent villages largely disappear, but the influence of military dependent village cuisine remains visible. Many Taiwanese families' daily dishes have shadows of military dependent village cuisine. These dishes have already been integrated into Taiwanese food culture and have become an inseparable part.
+## The Inheritance of Modern Military Family Village Cuisine
 
-A new generation of chefs has begun to reinterpret military dependent village cuisine, preserving traditional essence while using modern techniques and ingredients. Several Taiwanese food writers have also established textual records of military dependent village cuisine through writing. Jiao Tong's _Taiwan Flavors_ (Er Yu 2009) is a representative early work that allows taste memories to be preserved beyond recipes.
+Today, the physical structures of the military villages have largely disappeared in Taiwan, but the influence of Military Family Village Cuisine remains visible. Many everyday dishes made by Taiwanese people bear the imprint of this cuisine; these dishes have become an inseparable part of Taiwanese culinary culture.
 
-## Image Sources
-
-- Scallion pancake: Wikimedia Commons, [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
+New generations of chefs are reinterpreting Military Family Village Cuisine, retaining traditional foundations while using modern techniques and ingredients. Food writers in Taiwan also create textual archives of these flavors. Jiao Tong's _Taiwanese Flavors_ (Eryu Culture, 2009) discusses daily Taiwanese food, and the chapter on "Sichuan-style Braised Beef Noodle Soup" addresses the controversy surrounding the Gangshan military village origin theory.[^6]
 
 ## References
 
-[^1]: [Ministry of National Defense Village Culture Preservation Center](https://mvac.mnd.gov.tw/) — Historical background of military villages and immigrant population data.
+[^1]: [1949 Drifting to Taiwan — ETtoday News Cloud In-depth Report](https://events.ettoday.net/depth-report/veteran/index.htm) — "In just 5 years, nearly 1.2 million military personnel and civilians left their homes from mainland China."
 
-[^2]: [Taiwanese Literature: Changes and Preservation of Military Village Food Culture](https://www.th.gov.tw/epaper/view2.php?Period=168&TBID=3) — Volume 71, Issue 4 (2020): Inter-regional food exchange between the mainland and Taiwan.
+[^2]: [Military Family Village (眷村) — Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%9C%B7%E6%9D%91) — Nearly 2 million military personnel migrated to Taiwan between 1945 and 1950, and the 1956 census recorded over 1.2 million non-native residents; a 1982 survey by the Women's Federation reported 879 villages across Taiwan housing about 467,316 people, roughly one-third of the non-native population (other data estimates as low as one-sixth).
 
-[^3]: [Jiao Tong's 'Tastes of Taiwan' - Yi Yu Culture](https://www.taaze.tw/usedBook.html?oid=11100873870) — Confirmation of the origins of beef noodles in military villages and the localization process of Sichuan cuisine.
+[^3]: [Taiwanese Beef Noodle Soup — Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E7%89%9B%E8%82%89%E9%BA%B5) — Shandong style developed from the north, with the earliest known being Liu Shandong Beef Noodle Soup in 1951; Sichuan style developed from the south, with the earliest known being Park Pig Trotter/Beef Noodle Soup in Gangshan, Kaohsiung, in 1962; Gangshan doubanjiang was made with yellow douban and chili; Luo Yaodong investigated and concluded that Sichuan-style beef noodles originated in Taiwan.
 
-[^4]: [National Regulations Database: Military Old Village Reconstruction Ordinance](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0000002) — Confirms passage in 1996, land readjustment, and reconstruction timeline.
+[^4]: [Zhongzhen New Village — Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%BF%A0%E8%B2%9E%E6%96%B0%E6%9D%91) — Built in 1954 for the Yunnan Anti-Communist National Salvation Army; the average household was less than 10 pings, with about 4.5 to 5 pings available for shelter.
 
-[^5]: [New Headline: Visiting Taoyuan Military Village Culture Festival! Listening to Mothers from Military Villages Talk About the Past](https://newtalk.tw/news/view/2018-10-04/148037) — October 4, 2018. Out of 888 military villages across Taiwan, there are 86 in Taoyuan; the main venue for the culture festival featured street parades and food competitions.
+[^5]: [Liberty Times: It's All About the "Sauce"! The Reason Behind Gangshan Doubanjiang's Deliciousness](https://news.ltn.com.tw/news/life/breakingnews/2269537) — On December 1, 2017, cultural researcher Liu Tianfu stated that Air Force NCO Liu Mingde arrived in Taiwan in 1948 and settled in the Gangshan Air Force military village, selling homemade spicy doubanjiang in the village starting in 1950—this was Mingde Doubanjiang.
 
-[^6]: [Liberty Times: It's All About 'Sauce'! The Reason Behind Okayama Doubanjiang Deliciousness](https://news.ltn.com.tw/news/life/breakingnews/2269537) — The complete context of Liu Mingde making Mingde doubanjiang in an Okayama military village after arriving in Taiwan in 1948 and retiring in 1950.
+[^6]: [Jiao Tong's _Taiwanese Flavors_ — Books.com](https://www.books.com.tw/products/0010457702) — Published by Eryu Culture on December 31, 2009; the chapter "Sichuan-style Braised Beef Noodle Soup" recounts Luo Yaodong's theory of origin from the Gangshan Air Force military village and the author's own reservations.
 
-[^7]: [Beef Noodles - Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%8F%B0%E7%81%A3%E7%89%9B%E8%82%89%E9%BA%B5) — Taiwanese beef noodles originated from the Air Force military villages in Okayama, Kaohsiung; records of the first shop serving park trotters/beef noodles date back to 1962.
+[^7]: [National Law Database: Act for the Reconstruction of Old Military Villages](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0140013) — Enacted and promulgated on February 5, 1996; Article 1's legislative purpose includes building housing for original residents and preserving military village culture.
+
+[^8]: [Si-Si Nan Village — Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%9B%9B%E5%9B%9B%E5%8D%97%E6%9D%91) — According to research by the Si-Si Nan Village National Historic Site Promotion Alliance, it was built in 1948 and is considered the first military village and the first one preserved; registered as a historic building in December 2003; Heytea moved in in 2011, and the Xinyi branch closed on November 23, 2025.
+
+[^9]: [Xinyi Public Assembly Hall, Taipei City — Taipei Travel Network](https://www.travel.taipei/en/attraction/details/553) — The municipal government designated Si-Si Nan Village as the Xinyi Public Assembly Hall and Military Village Cultural Park, which began operating in 2003 and includes a military village museum.
+
+[^10]: [New Talk: Entering Taoyuan Military Village Culture Festival! Listening to Non-Native Mothers Talk About the Past](https://newtalk.tw/news/view/2018-10-04/148037) — On October 4, 2018, in the 888 military villages across Taiwan, Taoyuan had 86; the main venue of the Military Village Culture Festival featured street tours and food competitions.
+
+[^11]: [Zuoying Navy Military Villages — Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%B7%A6%E7%87%9F%E6%B5%B7%E8%BB%8D%E7%9C%B7%E6%9D%91) — 23 registered military villages, mostly located inside and outside the Old City; Mingde, Jianye, and Hequn New Villages were registered as part of the Kaohsiung Cultural Landscape in 2010.
+
+[^12]: [Si-Si Nan Village Memories Packaged! "Heytea Xinyi Branch Lights Out" Final Tour — United Daily News](https://travel.udn.com/travel/story/7205/9179143) — In 2025, the Heytea Xinyi branch closed on November 23, holding a three-day "Nan Village Treasure Market" before closing.
 
 ## Further Reading
 
-- [Ministry of National Defense Military Dependent Village Cultural Preservation Center](https://mvac.mnd.gov.tw/) — Integrated platform for nationwide military dependent village preservation information
-- [Ministry of Culture National Cultural Memory Bank — Military Dependent Village Special Topic](https://memory.culture.tw/) — Oral histories and cultural relic collections of military dependent villages
+- [Taiwanese Military Village History](/history/台灣眷村歷史) — The entire timeline from bamboo fence to reconstruction act
+- [National Cultural Memory Repository](https://tcmb.culture.tw/zh-tw) — A database of local cultural memory from the Ministry of Culture, collecting oral history and artifacts
