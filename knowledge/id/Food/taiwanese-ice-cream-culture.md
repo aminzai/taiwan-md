@@ -1,133 +1,135 @@
 ---
-title: 'Budaya Es Krim Taiwan'
-description: 'Dari es mangga Yuanli hingga revolusi es bunga salju, jelajahi budaya unik Taiwan di mana orang makan es bahkan di musim dingin'
+title: 'Budaya Es Kelvin di Taiwan'
+description: 'Dari es mangga Yuqing hingga revolusi es bunga salju, jelajahi budaya unik Taiwan yang tetap menikmati es meskipun di musim dingin'
 date: 2026-03-19
 category: 'Food'
-tags: ['es', 'es mangga', 'es bunga salju', 'es serut', 'ICE MONSTER']
+tags: ['es kelapa', 'es mangga', 'es bunga salju', 'es serut', 'ICE MONSTER']
 subcategory: '烘焙與甜點'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 image: '/article-images/food/taipei-mango-shaved-ice.webp'
-imageAlt: 'Es mangga Taipei'
+imageAlt: 'Es mangga di Taipei'
 imageCredit: 'SuperMidget（English Wikivoyage） / Wikimedia Commons'
 imageLicense: 'Public domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taipei_mangguobing.JPG'
 translatedFrom: 'Food/台灣冰品文化.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:81d7772de9e1a0c6'
-sourceBodyHash: 'sha256:e70fc8ddbfd1ab8c'
-translatedAt: '2026-09-09T15:32:33+08:00'
+sourceCommitSha: '7a2292243'
+sourceContentHash: 'sha256:27df03c894312c34'
+sourceBodyHash: 'sha256:4ecce4b2cd02de2a'
+translatedAt: '2026-10-09T16:00:52+08:00'
 ---
 
-# Budaya Es Krim Taiwan
+# Budaya Es Kelvin di Taiwan
 
-Kecintaan orang Taiwan terhadap es krim dapat dikatakan unik di dunia—bahkan ketika suhu musim dingin hanya mencapai 10 derajat Celsius, toko es masih penuh dengan pelanggan. Budaya es Taiwan berasal dari introduksi teknologi pembuatan es pada periode kolonial Jepang, berkembang melalui penyebaran es serut pasca-perang, inovasi teknologi es bunga salju pada tahun 1990an, hingga ekspansi internasional merek seperti ICE MONSTER pada tahun 2010an—ini adalah sebuah sejarah evolusi yang dapat dilacak dengan titik waktu spesifik.
+Kecintaan orang Taiwan pada es kelapa patut dicatat sebagai sesuatu yang unik di dunia, bahkan ketika suhu udara hanya 10 derajat, tempat es tetap ramai pengunjung. Budaya es kelapa Taiwan berasal dari teknologi pembuatan es yang diperkenalkan pada masa kolonial Jepang, berkembang melalui popularitas es serut pasca-perang, munculnya es bunga salju pada tahun 1980-an, hingga ekspansi internasional merek seperti ICE MONSTER pada dekade 2010-an — sebuah sejarah evolusi yang dapat dilacak melalui titik waktu tertentu.
 
-## Periode Kolonial Jepang: Asal-usul Budaya Es
+## Masa Kolonial Jepang: Asal Usul Budaya Es
 
-Akar budaya es Taiwan dapat dilacak hingga periode kolonial Jepang (1895-1945). Setelah Jepang memperkenalkan mesin pembuat es dan membangun pabrik es buatan, es alami yang dahulu hanya dapat dinikmati oleh kalangan kaya menjadi produk konsumsi yang terjangkau bagi rakyat biasa. Cara makan es serut Jepang (かき氷) juga turut masuk ke Taiwan—balok es yang diraut tipis disiram dengan sirup gula atau pasta kacang, menjadi bentuk dasar pelepas panas tradisional Taiwan pada musim panas. [^6]
+Akar budaya es kelapa Taiwan dapat dilacak kembali ke masa kolonial Jepang (1895–1945). Teknologi pembuatan es dibawa oleh orang Jepang ke Taiwan, dan es serut pertama adalah es bersih. [^1]
 
-Menjelang akhir periode kolonial Jepang, kota-kota seperti Tainan dan Taipei sudah memiliki pedagang es tetap. Bahan-bahan yang populer pada waktu itu termasuk kacang merah, rumput laut jelly, dan sirup kacang—kombinasi yang hampir sama sekali terpelihara hingga hari ini di pedagang es serut tradisional. Terbentuknya industri pembuat es tidak hanya memasok produk es, tetapi juga mendukung kebutuhan penyimpanan dingin untuk industri perikanan Taiwan pada periode kolonial, menjadi bagian dari modernisasi tanah jajahan.
+Pada akhir masa kolonial, gerobak es sudah tersebar di jalan-jalan. Pada 1938, Chen Xi mengacu pada es buah empat musim yang populer di Jepang, menambahkan bahan-bahan di luar kacang, selai, dan mochi, lalu menamainya es manis kacang, mengelilingi stasiun kereta di Taichung sambil menjualnya dengan gerobak dorong, dan pada 1943 membuka sebuah tempat di pasar pertama, yang kemudian dikenal sebagai Xing Fa Tang. [^2] Industri pembuatan es juga mendukung sektor perikanan pada masa kolonial: pada pertengahan hingga akhir 1920-an, industri perikanan Taiwan berkembang pesat, dan peneliti mencatat industri pembuatan es dan pendingkatan sebagai industri pendukung yang mendorong pertumbuhan ini. [^3]
 
-## Mangga Yuanli: Legenda Manis dari Daerah Asal ke Panggung Global
+## Mangga Yuqing: Legenda Manis dari Akhir ke Global
 
-Kota Yuanli di Tainan dikenal sebagai "ibukota mangga," mangga varietas Ataulfo dari sini terkenal karena aroma yang wangi dan rasa manis yang berair di seluruh Taiwan. Setiap tahun dari Mei hingga Agustus saat musim mangga, Yuanli dipenuhi oleh "peziarah mangga" yang datang hanya untuk merasakan es mangga paling segar.
+Daerah Yuqing di Tainan terkenal dengan mangga sayur. Setiap musim panas, ketika musim mangga tiba, Yuqing akan ramai dengan banyak "pengunjung mangga", hanya untuk mencicipi es mangga yang paling segar.
 
-Ciri khas es mangga Yuanli terletak pada "bahan berkualitas tinggi." Seluruh mangga Ataulfo dikupas dan dipotong, disiram dengan jus mangga segar, dikombinasikan dengan es serut tradisional—sederhana namun sempurna. Kelezatan murni ini membuat es mangga Yuanli menjadi makanan penutup perwakilan Taiwan di musim panas.
+Ciri khas es mangga Yuqing terletak pada "bahan asli sepenuhnya". Seluruh mangga sayur dikupas dan dipotong dadu, disiram dengan jus mangga segar, disajikan bersama es serut tradisional, sederhana namun istimewa. Keindahan sederhana ini membuat es mangga Yuqing menjadi hidangan penutup khas musim panas Taiwan.
 
-Dimulai dari Yuanli, es mangga perlahan-lahan menyebar ke seluruh Taiwan. Setiap daerah mengembangkan versi uniknya sendiri: beberapa menambahkan puding atau agar-agar untuk menambah tekstur, beberapa menggunakan varietas mangga berbeda untuk menciptakan lapisan rasa, sementara yang lain menggabungkan produk lokal untuk membentuk cita rasa unik.
+Yang membuat es mangga ini menjadi ikon sebuah toko adalah sebuah kedai es di jalan Yongkang di Taipei. Luo Junhua bersama mantan istrinya Zhang Jiemei membuka "ICE MONSTER Kedai Es" di Yongkang pada 1997, dan media menyebutnya sebagai pencipta pertama mangga es di seluruh Taiwan. Kedai ini pernah diakui oleh The New York Times sebagai salah satu tempat wajib di Taipei setelah istana seni dan Taipei 101, dan juga dipilih oleh CNN sebagai salah satu sepuluh makanan penutup terbaik di dunia. [^4] Setelah itu, es mangga tersebar ke seluruh Taiwan, dan setiap wilayah mengembangkan versi uniknya sendiri: ada yang menambahkan pudding atau jelly untuk tekstur, ada yang menggunakan berbagai jenis mangga untuk menciptakan lapisan, dan ada pula yang menggabungkan bahan lokal khas untuk menciptakan rasa unik.
 
-Kemunculan ICE MONSTER membawa es mangga Taiwan ke panggung internasional. Pendahulunya adalah "Es Krim Yongkang 15" yang dibuka di Jalan Yongkang pada tahun 1995, kemudian berubah nama menjadi ICE MONSTER dan pindah ke Jalan Zhongxiao pada tahun 2010. [^1] Es bunga salju mangga yang diperhalus dipadu dengan presentasi visual yang inovatif membuat merek berkembang pesat dari Taiwan ke Hong Kong, Singapura, dan Los Angeles, memperkenalkan pesona es mangga Taiwan kepada lebih banyak pengunjung luar negeri.
+Kedai ini tiba-tiba tutup pada 2010 akibat perceraian. Pada 2012, Luo Junhua memulai kembali dengan nama ICE MONSTER di Jalan Zhongxiao, menambahkan keju mentah buatan tangan ke dalam es mangga. Tujuh tahun kemudian, mereka memiliki 19 cabang di dalam dan luar negeri, berkembang ke Tiongkok, Jepang, dan Amerika Serikat, sehingga lebih banyak pengunjung asing mengenal es mangga Taiwan. [^4]
 
-## Revolusi Es Bunga Salju: Terobosan Tekstur yang Signifikan
+## Revolusi Es Bunga Salju: Kesempurnaan Tekstur
 
-Dari akhir tahun 1990an hingga awal tahun 2000an, industri es Taiwan mengalami "revolusi es bunga salju." Es serut tradisional dibuat dari balok es murni dengan tekstur yang lebih kasar dan mudah leleh. Es bunga salju dibuat dengan membekukan susu, gula, dan bahan penyedap lainnya menjadi batu es, kemudian menggunakan mesin khusus untuk menggores menjadi kristal es yang halus, dengan tekstur yang lembut seperti bunga salju.
+Pada tahun 1980-an, industri es kelapa Taiwan muncul dengan es bunga salju yang lebih halus dibandingkan es serut. Es serut tradisional menggunakan blok es murni, teksturnya kasar dan mudah meleleh. Es bunga salju mengganti proses penghancuran es yang sudah dibentuk menjadi blok, menghancurkan es menjadi partikel halus seperti bunga salju, teksturnya lembut seperti salju. Toko malam di Shilin, Xing Fa Tang, pada tahun 1980-an dikembangkan oleh generasi kedua mereka menjadi es bunga salju yang tidak mudah meleleh dan berbentuk seperti serat pensil, menjadi toko pertama di Taiwan yang menjual es bunga salju, dengan proses pembuatan blok es yang memakan waktu tujuh jam melalui pemanasan tinggi dan sterilisasi suhu rendah. [^5]
 
-Inovasi teknologi ini mengubah lanskap industri es Taiwan. Es bunga salju tidak hanya memiliki tekstur yang lebih baik, tetapi juga lebih mudah diwarnai dan diberi rasa, menciptakan berbagai efek visual yang berbeda. Es bunga salju matcha, es bunga salju cokelat, es bunga salju stroberi, dan sebagainya, masing-masing memiliki cita rasa dan warna uniknya sendiri.
+Inovasi teknologi ini mengubah landskap industri es kelapa Taiwan. Es bunga salju tidak hanya memiliki tekstur yang lebih baik, tetapi juga lebih mudah untuk mengatur warna dan rasa, menciptakan berbagai efek visual yang berbeda. Es bunga salju matcha, es bunga salju coklat, es bunga salju strober, setiap varian memiliki rasa dan warna yang unik.
 
-Kesuksesan es bunga salju juga mendorong peningkatan seluruh industri. Toko es dari bentuk kios pinggir jalan tradisional secara bertahap berkembang menjadi toko kue yang elegan. Dekorasi menjadi lebih perhatian, layanan menjadi lebih profesional, produk menjadi lebih beragam—es dari makanan ringan penawar panas berkembang menjadi makanan penutup bergaya.
+Keberhasilan es bunga salju juga mendorong evolusi seluruh industri. Dari gerai pinggir jalan tradisional, kedai es berkembang menjadi toko penutup yang lebih elegan. Dekorasi yang lebih indah, layanan yang lebih profesional, dan variasi produk yang lebih beragam, es kelapa berkembang dari makanan penyejuk kecil menjadi hidangan penutup yang modis.
 
-Inovasi Taiwan ini sesungguhnya menyebar ke luar negeri, mesin es bunga salju dan teknologi diimpor ke Jepang, Asia Tenggara, dan daerah lainnya. [^2] Perlu diketahui bahwa bingsu (빙수) dan patbingsu (팥빙수) asli Korea memiliki tradisi independen yang panjang, yang dapat dilacak hingga era Dinasti Joseon; bangkitnya merek Korea "Snowy" (설빙) pada tahun 2013 adalah perkembangan internal, bukan ekspor dari Taiwan.
+Es bunga salju Korea (설빙) sering dibandingkan dengan es bunga salju Taiwan, tetapi ia berkembang secara alami di Korea: pendiriya belajar kue di Jepang, pada 2010 membuka kafe kue di Busan, pada April 2013 memperkenalkan es krim susu yang halus disaluti dengan tepung kacang kuning dan kue berlapis, menciptakan merek es bunga salju. [^6]
 
-## Memori Rakyat dari Es Serut Tradisional
+## Kenangan Rakyat Es Serut Tradisional
 
-Meskipun es bunga salju sedang populer, es serut tradisional tetap memiliki tempat penting dalam hati orang Taiwan. Tekstur balok es yang kasar dan pilihan bahan yang beragam adalah gambaran yang terpasang dalam memori musim panas banyak orang saat kecil.
+Meskipun es bunga salju sedang naik daun, es serut tradisional tetap memiliki posisi penting dalam hati orang Taiwan. Tekstur es yang kasar dan beragamnya pilihan bahan adalah kenangan masa kecil banyak orang di musim panas.
 
-Pedagang es serut tradisional biasanya menyediakan pilihan bahan puluhan jenis: kacang merah, kacang hijau, Job's tears, rumput laut jelly, jelly tumbuhan, mutiara pati, taro, dan sebagainya. Pelanggan dapat bebas menggabungkan, menciptakan cita rasa unik mereka sendiri. Konsep "kustomisasi" ini muncul beberapa dekade sebelum layanan personalisasi modern.
+Gerai es serut tradisional biasanya menawarkan puluhan pilihan bahan: kacang merah, kacang hijau, kacang hitam, jelly, air nangka, mochi, dan lain-lain. Pelanggan dapat menggabungkan sesuka hati, menciptakan rasa yang unik. Konsep "kustomisasi" ini muncul puluhan tahun sebelum layanan personalisasi modern.
 
-Pedagang es serut di pasar malam adalah simbol budaya Taiwan yang penting. Pada malam yang terik, semangkuk es serut yang dingin dapat menghilangkan kelelahan sehari-hari dalam sekejap. Gerakan pemilik pedagang yang terampil dalam menggores es, menambahkan bahan, dan menyiram sirup, seolah-olah sebuah pertunjukan yang menakjubkan.
+Gerai es di pasar malam juga menjadi simbol budaya Taiwan. Di malam hari yang panas, mangkuk es yang menyegarkan dapat menghilangkan kelelahan sehari dengan sekali gigit. Aksi ahli es serut yang terampuh, menambahkan bahan, menyiramkan sirup, seperti pertunjukan yang menghibur.
 
-Belakangan ini, beberapa toko es serut tua mulai mengikuti tren retro, menekankan kerajinan tangan tradisional dan sentimen nostalgia. "Es serut retro" ini tidak hanya menarik pelanggan lama yang merindukan masa lalu, tetapi juga membiarkan orang muda merasakan pesona es tradisional.
+Akhir-akhir ini, beberapa gerai es serut tua mulai mengadopsi tren vintage, menekankan pada pembuatan tradisional dan rasa nostalgia. "Es serut vintage" ini tidak hanya menarik pelanggan tua yang merindukan masa lalu, tetapi juga memungkinkan generasi muda merasakan keajaiban es tradisional.
 
-## Fenomena Budaya Makan Es di Musim Dingin
+## Fenomena Es di Musim Dingin
 
-Kebiasaan orang Taiwan makan es di musim dingin sering membuat orang asing merasa bingung. Bahkan ketika suhu hanya mencapai belasan derajat Celsius, toko es tetap ramai dengan bisnis. Fenomena ini memiliki faktor budaya dan psikologis di baliknya.
+Kebiasaan orang Taiwan untuk makan es di musim dingin sering membuat orang asing bingung. Meskipun suhu hanya sekitar 10 derajat, kedai es tetap ramai. Fenomena ini memiliki latar belakang budaya dan psikologisnya.
 
-Pertama adalah "penyebaran pemanas ruangan dalam ruangan." Pusat perbelanjaan, restoran, dan kantor di Taiwan biasanya memiliki pemanas, dengan suhu dalam ruangan yang nyaman. Menikmati es di ruangan yang hangat tidak akan membuat orang merasa dingin.
+Pertama adalah kebutuhan "pengatur emosi". Rasa manis dan segar es dapat memberikan kesenangan, terutama dalam kehidupan modern yang penuh tekanan. Tidak peduli musimnya, orang selalu butuh kebahagiaan kecil.
 
-Kedua adalah "kebutuhan penyesuaian emosi." Cita rasa es yang manis dapat membawa kesenangan, terutama dalam kehidupan modern yang penuh tekanan. Terlepas dari musim, orang membutuhkan kegembiraan kecil ini.
+"Kebutuhan sosial" juga menjadi faktor utama. Makan es bersama teman-teman telah menjadi salah satu aktivitas sosial Taiwan. Tidak peduli cuacanya, pola sosial ini akan terus berlanjut.
 
-"Kebutuhan sosial" juga merupakan inti dari fenomena ini. Makan es bersama teman sudah menjadi salah satu aktivitas sosial orang Taiwan. Terlepas dari cuaca, pola sosial ini akan terus berlanjut.
+Selain itu, iklim musim dingin Taiwan relatif hangat, tidak sepanas di belahan utara. Dalam kondisi iklim ini, makan es di musim dingin bukanlah hal yang ekstrim.
 
-Selain itu, cuaca musim dingin Taiwan relatif hangat, tidak seperti utara yang dingin. Dalam kondisi iklim seperti ini, makan es di musim dingin bukanlah perilaku yang terlalu ekstrem.
+## Toko Es Ikonik: Dari Toko Tua hingga Toko Baru
 
-## Toko Es Terkenal: Dari Toko Lama ke Merek Baru
+Setiap generasi di Taiwan memiliki toko es ikoniknya. Xing Fa Tang di Taichung mulai dari menjual es manis kacang pada 1938, pada 2018, saat dilaporkan, istri kedua generasi kedua, Tsai Fengyun, telah menyalurkan toko ke tiga putrinya, masing-masing membuka satu toko. [^2] NINAO (蜷尾家) di Tainan mewakili generasi baru yang menggabungkan es krim tradisional dan es krim Italia, pendiriannya adalah Li Yu. [^7]
 
-Setiap generasi Taiwan memiliki toko es yang menjadi penanda zaman. **Ruang Es Mingjiu** di Tainan dan toko es serut kelas tua di sekitar pasar adalah bagian dari kehidupan sehari-hari penduduk lokal, banyak di antaranya sudah diteruskan tiga generasi; **Toko Es Madu Kacang Xingfating** di Taichung terkenal dengan es madu kacangnya, tetap mengalami antrean panjang bahkan di musim dingin. **Nyuwei Family (Never Ice Cream)** di Taipei mewakili jalur es krim premium generasi baru, dengan rasa bahan lokal terbatas dan strategi merek yang sengaja rendah kunci, mendapat perhatian media internasional setelah tahun 2010an.
+Taichung juga memiliki toko tua yang menuliskan "makan es di musim dingin" dalam namanya. Pada 1946, Chen De Wang beralih dari membuat ember mandi kayu ke menjual es teh dan es krim dengan gerobak dorong, kemudian tetap menjadi satu mangkuk es asam, satu sendok kacang manis, dua bola es krim susu. Generasi ketiga Chen Chihwei mengatakan, masih ada orang yang datang makan es di musim dingin, orang-orang itu menertawakan "penjual gila, pembeli gila", sehingga disebut "es orang gila", toko ini berada di dekat Taichung First Middle School, sangkaku mengambil nama "es orang gila" dan mengganti namanya menjadi "es Fengren". [^8]
 
-**Kota Es Taro Zheng Yu** di Hualien adalah tempat wajib kunjung setiap wisatawan, terkenal dengan es tongkat taro asli dan serangkaian puree taro; **Lichiao Es** (Toko Lama Distrik Timur) di Tainan adalah "tempat suci" bagi penggemar es bagian selatan, es kacang hijau dan es bubuk teh adalah harta karun toko. Karakteristik umum dari toko-toko tua ini adalah: tidak ada rantai, tidak ada anggaran pemasaran, bertahan dengan reputasi lintas generasi. [^3]
+## Pengembangan Es Khas Daerah yang Beragam
 
-## Pengembangan Beragam Es Ciri Khas Lokal
+Setiap daerah di Taiwan mengembangkan budaya es kelapa yang unik. Bahkan hanya di satu kota Taichung, sudah ada dua varian: es manis kacang dan es Fengren. Es khas daerah ini sering menggabungkan bahan makanan lokal dan elemen budaya.
 
-Setiap daerah di Taiwan mengembangkan budaya es yang unik. Es krim bawang putih Yilan, es pinyin Taichung, es kulit jeruk Tainan, es ubi Hualien, dan sebagainya, setiap tempat memiliki ciptaan khas mereka sendiri.
-
-Es ciri khas lokal ini sering menggabungkan bahan lokal dan elemen budaya. Seperti es krim kaoliang Kinmen, budaya minuman kaoliang lokal diintegrasikan ke dalam es krim. Es lidi wine lama Matsu juga merupakan konsep serupa.
-
-Budaya es dari komunitas masyarakat adat juga memiliki ciri khas yang menarik. Es krim yang dibuat dengan menggunakan bahan tradisional masyarakat adat seperti millet, red amaranth, dan asparagus fern tidak hanya memiliki cita rasa yang unik, tetapi juga mewariskan budaya kuliner masyarakat adat.
-
-Pengembangan yang mandiri ini membuat peta es Taiwan menunjukkan warna lokal yang jelas, juga meningkatkan daya tarik pariwisata.
+Pengembangan yang beragam ini membuat peta budaya es kelapa Taiwan menampilkan warna daerah yang jelas, dan meningkatkan daya tarik wisata.
 
 ## Kesadaran Kesehatan dan Tren Inovasi
 
-Seiring dengan meningkatnya kesadaran kesehatan, es Taiwan juga berkembang ke arah yang lebih sehat. Es rendah gula, es tanpa gula, es menggunakan pemanis alami mulai mendapat perhatian.
+Dengan meningkatnya kesadaran akan kesehatan, es kelapa Taiwan juga berkembang ke arah yang lebih sehat. Es rendah gula, es tanpa gula, dan es yang menggunakan pemanis alami mulai mendapat perhatian.
 
-Es buah-buahan sangat diminati. Rasa alami manis buah segar dan nutrisi yang kaya memenuhi kebutuhan orang modern akan kesehatan. Es passion fruit, es kiwi, es alpukat, dan sebagainya, semuanya menjadi pilihan populer.
+Es berbasis buah sangat populer. Rasa manis alami dan gizi yang kaya dari buah segar memenuhi kebutuhan kesehatan modern. Es markisa, es kiwi, es alpukat, semuanya menjadi pilihan populer.
 
-Penggunaan bahan organik juga merupakan tren. Susu organik, buah organik, pewarna alami, dan sebagainya, membuat es lebih aman sambil tetap lezat.
+Penggunaan bahan organik juga menjadi tren. Susu organik, buah organik, pewarna alami, membuat es tidak hanya enak tetapi juga aman dikonsumsi.
 
-Konsep es fungsional juga mulai muncul. Es krim dengan tambahan kolagen, vitamin, probiotik, dan komponen nutrisi lainnya menggabungkan kenikmatan dan kesehatan bersama-sama.
+Konsep es fungsional juga mulai muncul. Es yang ditambahkan kolagen, vitamin, dan probiotik menggabungkan kesenangan dan kesehatan.
 
 ## Internasionalisasi dan Ekspor Merek
 
-Langkah internasionalisasi merek es Taiwan semakin cepat. Selain ICE MONSTER, banyak merek lain mulai memasuki pasar luar negeri. Merek-merek ini tidak hanya mengekspor produk, tetapi juga mengekspor budaya es Taiwan.
+Langkah internasionalisasi merek es kelapa Taiwan semakin cepat. Selain ICE MONSTER, banyak merek lainnya mulai memasuki pasar luar negeri. Merek-merek ini tidak hanya mengekspor produk, tetapi juga mengekspor budaya es kelapa Taiwan.
 
-Di toko es Taiwan di luar negeri, mereka sering menjadi tempat berkumpul komunitas keturunan Tionghoa lokal, dan juga jendela bagi orang asing untuk mengalami budaya Taiwan. Melalui diplomasi makanan, budaya es Taiwan sedang menyebarkan benih budaya di seluruh dunia.
+Di luar negeri, kedai es kelapa Taiwan sering menjadi pusat komunitas Tionghoa lokal, dan juga menjadi jendela bagi orang asing untuk merasakan budaya Taiwan. Melalui diplomasi kuliner, es kelapa Taiwan sedang menyebarkan benih budaya di seluruh dunia.
 
-Ekspor teknologi juga merupakan arah pengembangan penting. Mesin es bunga salju, teknologi pembuatan es, formula bahan-bahan, semuanya memiliki peluang lisensi luar negeri. Taiwan sedang bertransformasi dari negara konsumen es menjadi negara pengekspor teknologi dan budaya es.
+Ekspor teknologi juga menjadi arah pengembangan penting. Mesin es bunga salju, teknologi pembuatan es, resep bahan, semuanya memiliki peluang lisensi di luar negeri. Taiwan sedang bertransformasi dari konsumen es kelapa menjadi produsen teknologi dan budaya es kelapa.
 
-Logika dasar budaya es Taiwan adalah: setiap era memiliki orang yang mengubah bahan makanan yang paling mudah didapatkan saat itu menjadi bahasa es—mesin pembuat es era Jepang, mobil penjual es serut pasca-perang, mesin es bunga salju tahun 1990an, sumber susu premium tahun 2010an. Bentuknya berubah, tetapi obsesi makan es hingga akhir tidak berubah.
+Logika dasar budaya es kelapa Taiwan adalah: setiap zaman akan ada seseorang yang mengubah bahan makanan yang paling mudah diperoleh pada zamannya menjadi bahasa es — mesin es pada masa kolonial Jepang, gerobak es serut pasca-perang, blok es bunga salju pada tahun 1980-an, sumber susu premium pada tahun 2010-an. Bentuknya berubah, semangatnya tetap.
 
 ## Sumber Gambar
 
-- Hero: Es mangga Taipei, fotografi oleh SuperMidget (English Wikivoyage), [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taipei_mangguobing.JPG), Public domain.
+- Hero：Es mangga di Taipei，fotografi SuperMidget（English Wikivoyage），[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taipei_mangguobing.JPG)，Public domain。
 
 ## Referensi
 
-[^1]: [Situs Resmi Merek ICE MONSTER](https://www.icemonster.com.tw/) — Sejarah merek, termasuk pendirian Rumah Es Yongkang 15 pada tahun 1995, penjelasan perubahan nama dan relokasi pada tahun 2010.
+[^1]: [Wikipedia: Es Serut](https://zh.wikipedia.org/wiki/%E5%89%89%E5%86%B0) — Entri es serut Taiwan, bagian sejarah menulis tentang teknologi pembuatan es yang dibawa dari Jepang ke Taiwan, awalnya adalah es bersih, dan mencantumkan berbagai jenis es seperti es bunga salju, es lembut, es gelembung, serta bahan yang umum digunakan.
 
-[^2]: [Halaman Resmi Biro Pariwisata Kementerian Transportasi "Makanan Taiwan"](https://www.taiwan.net.tw/) — Pengenalan es khas perwakilan Taiwan, termasuk item es mangga dan es bunga salju.
+[^2]: [Kaset Mingguan：【Taiwan Toko Tua】Perasaan Wanita di Es Manis Kacang Xing Fa Tang](https://www.mirrormedia.mg/story/20180817bus001) — Laporan 2018, Xing Fa Tang sebelumnya bernama Xing Fa Tang, pada 1938 Chen Xi mengacu pada es buah empat musim Jepang menciptakan es manis kacang, mengelilingi stasiun kereta di Taichung, pada 1943 membuka sebuah tempat di pasar pertama, kini telah diwariskan oleh istri kedua generasi kedua, Tsai Fengyun, ke tiga putrinya yang masing-masing membuka satu toko.
 
-[^3]: [CNN Travel: Laporan Es Mangga Taiwan](https://edition.cnn.com/travel) — Laporan media internasional CNN tentang es mangga Taiwan, mengutip ICE MONSTER dan es mangga Yuanli sebagai kasus perwakilan.
+[^3]: [Wang Junchang, "Pengembangan Industri Terkait Perikanan Taiwan pada Masa Kolonial Jepang: Studi Kasus Industri Pembuatan Es dan Pendingkatan", Journal of Marine Culture, No. 21 (2016)](https://scholars.ntou.edu.tw/handle/123456789/10693) — Abstrak makalah menunjukkan bahwa industri perikanan Taiwan tumbuh pesat pada pertengahan hingga akhir 1920-an, industri pembuatan es dan pendingkatan sebagai industri terkait yang memberikan dampak, dan menggunakan analisis regresi untuk memperkirakan keterkaitannya.
 
-[^4]: [Panduan Makanan Lonely Planet Taiwan](https://www.lonelyplanet.com/taiwan) — Pengenalan dan rekomendasi toko budaya es Taiwan dari panduan perjalanan internasional.
+[^4]: [Kaset Mingguan：Xing Fa Tang ICE MONSTER Luo Junhua: Pendirian dan Kebangkitan](https://www.mirrormedia.mg/story/20190529bus002) — Laporan 2019, pada 1997 Luo Junhua bersama mantan istrinya Zhang Jiemei membuka ICE MONSTER Kedai Es di Yongkang, pada 2010 tiba-tiba tutup, pada 2012 di Jalan Zhongxiao memulai kembali dengan nama ICE MONSTER, tujuh tahun kemudian memiliki 19 cabang di dalam dan luar negeri; artikel menyebutnya sebagai pencipta pertama es mangga di seluruh Taiwan.
 
-[^5]: [Wikipedia: ICE MONSTER](https://zh.wikipedia.org/wiki/ICE_MONSTER) — Sejarah merek ICE MONSTER, informasi pendahulu "Es Rumah Yongkang 15" dan ekspansi toko internasional.
+[^5]: [Kaset Mingguan：【Taiwan Toko Tua】Keahlian Es Benda Xing Fa Tang: Generasi Kedua Mengembangkan Es Bunga Salju](https://www.mirrormedia.mg/story/20170612bus002) — Laporan 2017 tentang Xing Fa Tang di pasar malam Shilin, menulis bahwa tiga pulhuh tahun lalu pasar sudah ada es bunga salju, pada tahun 1980-an generasi kedua mengembangkan es bunga salwu, menjadi toko pertama di Taiwan yang menjual es bunga salju, proses pembuatan blok es memakan waktu tujuh jam.
 
-[^6]: [かき氷 — Wikipedia](https://zh.wikipedia.org/wiki/%E5%89%89%E5%86%B0) — Asal budaya es serut Jepang dan latar belakang sejarah pengenalan ke Taiwan pada periode kolonial Jepang, serta evolusi bahan es serut tradisional Taiwan.
+[^6]: [Newsis：Cerita Di Balik Merek Legenda Korean Dessert Shaved Ice](https://www.newsis.com/view/NISX20220107_0001716438) — Laporan berita Korea 2022, es bunga salju sebelumnya adalah kafe kue kue berlapis di Busan pada 2010, pendirinya pernah belajar kue di Jepang, pada April 2013 memperkenalkan es krim susu yang halus disaluti dengan tepung kacang kuning dan kue berlapis.
+
+[^7]: [Marie Claire：Toko Roti Taiwan "NINAO" Membuka](https://www.marieclaire.com.tw/lifestyle/taste/71756) — Laporan 2023, memperkenalkan merek NINAO di Tainan (NINAO Kedai Es Tradisional, NINAO Gelato Es Krim Klasik), pendiriannya adalah Li Yu.
+
+[^8]: [Kaset Mingguan：【Taiwan Toko Tua】Es Fengren di Taichung First Middle School: Es Orang Gila dengan Kesempatan](https://www.mirrormedia.mg/story/20170308bus001) — Laporan 2017, pada 1946 Chen De Wang mulai dari gerobak dorong, satu mangkuk es asam, satu sendok kacang manis, dua bola es krim susu, generasi ketiga Chen Chihwei menjelaskan asal-usul nama "es orang gila" dan "es Fengren".
 
 ## Bacaan Lanjutan
 
-- [ICE MONSTER](https://www.icemonster.com.tw/) — Situs resmi merek es bunga salju mangga Taipei yang perwakilan
-- Asosiasi Pertanian Yuanli (玉井農會) — Pengenalan daerah penghasil mangga varietas Ataulfo Yuanli, Tainan
+- [Es Krim Kuno di Gerobak](/id/food/ba-pu-ice-cream) — Garis waktu lain dari evolusi es kelapa Taiwan
+- [Jalan Yongkang](/id/geography/yongkang-street) — Jalan di mana kedai es dan es mangga berada, dari masa Showa hingga jalan wisata
+
+```
+
+```
