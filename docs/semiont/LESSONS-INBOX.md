@@ -346,6 +346,35 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **相關**：REFLEXES #98「真原子放錯槽位」的時間版（原子對、時點錯）；#67「已驗過帶被驗時刻的時間戳」（那條是驗證的時間戳，這條是來源的時間戳）；FACTCHECK §Drift Modes 6「從某年起算到今天的年數，改寫成不會過期的說法」是同一族的數字版
 - **verification_count**: 3
 - **structural**: true
+### 2026-10-09 twmd-maintainer-daily — positive-controls-only-cover-shapes-the-author-imagined：十三個測試加三個正控制全綠，而它們的 fixture 全是作者手寫的單層結構
+
+- **pattern**: positive-controls-only-cover-shapes-the-author-imagined
+- **原則**：正控制（餵已知的壞輸入、確認工具真的會叫）是對的紀律，但它的覆蓋面等於**作者當時想像得出來的輸入形狀**。合成 fixture 是作者寫的，所以它繼承作者的盲點；真實輸入的結構複雜度（巢狀、傳遞、互相參照）通常高一個量級。於是會出現一種很難懷疑的狀態：測試數量很多、正控制也跑過、工具上線第一天就讀錯真實資料。**「驗過」的強度上限是 fixture 的真實度，不是測試的條數。**
+- **觸發**：`npm-audit-sweep.sh` 2026-10-08 上線，當天 13 個 pytest ＋ 三個正控制（真紅 exit 1／量不到 🟡＋strict 1／乾淨 ✅）全綠。10-09 它面對上線後第一個真紅，五條公告讀錯一條：`harvest/ui` 的 `fast-glob` 標成 `fix=minor`，於是總結印「剩下的在小版本內修得掉」並指示下一班跑 `npm audit fix --package-lock-only`——那個指令對這五條**零改動**（實測跑完 lockfile 一個字沒變，npm 自己說的是 `fix available via npm audit fix --force / Will install tailwindcss@4.3.3, which is a breaking change`）。病根是把 npm 的裸 `fixAvailable: true` 當成「在小版本內修得掉」，而 npm 把 `isSemVerMajor` 放在**真正要動的那個祖先**上，傳遞依賴只拿到裸 true：`fast-glob` 的 `via` 指向 `micromatch`，後者回 `{tailwindcss@4.3.3, isSemVerMajor: true}`。既有 fixture 全是**單層、無 `via` 欄位**的合成公告，所以「裸 true 其實卡在祖先的 major」這個形狀一次都沒被餵進去過。已修（`976e89775`）：裸 true 先沿 `via` 走一遍，找到 major 祖先就繼承判定並計入 blocked；補三個測試（繼承 major／反向無 major 祖先維持 minor／`via` 指著自己不無限繞），五條現在全印 MAJOR、誤導那行不再出現，720 passed。
+- **副產物**：這同時獨立核過了 OBSERVER-QUEUE #94 的判斷——3.x 真的沒有任何版本收得掉，唯一修法仍是升 tailwindcss 4。那一格的結論沒變，變的是通往它的那支尺不再自相矛盾。
+- **可能層級**：通用反射（驗證層）。候選判準：**工具上線後第一次面對真實資料時，拿真實輸出回頭補一個 fixture**，而不是等它讀錯被下一班撞到；或更強的版本——新儀器的驗收要求至少一個 fixture 是從真實資料 dump 出來的，不是手寫的。
+- **相關**：REFLEXES #99（尺先驗再用／新尺的讀數在抽驗之前不可引用——這次抽驗做了，但抽的是合成樣本）、#66（門檻要用真實產出 dogfood 校準，不是憑想像設——同一條原則在 fixture 層的形狀）、#24（工具在說謊：這是第 N 種——「測試全綠的工具」）、#65（偵測器自己要對賬 ground truth）、MAINTAINER §Step 1.5c
+- **verification_count**: 1
+
+### 2026-10-09 twmd-maintainer-daily — checker-counts-presence-not-multiplicity：對賬器問「該在的在不在」，不問「同一個位置有幾個」，於是多出來的那一份是隱形的
+
+- **pattern**: checker-counts-presence-not-multiplicity
+- **原則**：存在性檢查有兩種問法，而只有一種被寫出來。「該有的有沒有」（缺漏偵測）跟「有的是不是剛好一個」（重複偵測）需要不同的計數方式，但前者讀起來就像完整的檢查，所以後者常常沒人補。結果是**重複永遠不會讓任何一道閘門變紅**——它不缺任何東西，它多一個東西，而多出來的那一個滿足所有「存在」斷言。
+- **觸發**：昨天合併 PR #1801 之後，〈楊德昌〉在德文同時有 `de/People/edward-yang.md`（tboydar，09-09）與 `de/People/yang-dechang.md`（aminzai，10-07），兩個 `translatedFrom` 都指向 `People/楊德昌.md`，而且**兩個網址都回 200**——讀者可以在兩個德文網址讀到同一篇。`check-slug-consistency.py --all` 今天照印 `✅ 12376 檔全部與 en 對齊`：它問的是「該語言有沒有 en 那個 slug 的檔」，`yang-dechang` 在，所以綠；`edward-yang` 多出來，它沒有任何一條規則在看。真正叫出來的是**每日刷新的逐語言篇數對不上**（德文比其他語言多一篇），也就是說這件事是被總數的落差發現的，不是被任何逐檔檢查器發現的。全庫掃過確認是單例：十二語、13,554 組（語言 × 來源）配對裡只有這一組重複（REFLEXES #24 單例不代表集群——這次量完確認它真的是單例，但量之前不知道）。已修（`a20045a67`）：保留 en 與十二語共用的 slug、退役另一個並補 301（那條路徑從 09-09 就在線上），重複 1 → 0。
+- **為什麼既有 SOP 沒擋住**：產線的待翻佇列只看 `knowledge/` 算 missing／stale，看不見開著的投稿 PR（OBSERVER-QUEUE #67 的已知缺口）；兩位投稿者用不同 slug 翻同一篇，所以檔名不撞、CI 全綠、`verify-translation` 逐檔自洽。**#67 的三個已知形狀是「產線覆蓋人」與「人要覆蓋產線」，這是第四個：兩個人各自落地，誰也沒覆蓋誰。**
+- **可能層級**：通用反射（儀器設計層）。候選機械化：`check-slug-consistency.py` 加一道「每組（語言 × `translatedFrom`）必須剛好一個檔」的斷言——判準機械、零誤判空間、全庫跑一次 13,554 組只要幾秒。
+- **相關**：REFLEXES #82（proxy signal：「expected slug 在」代理「這個語言的檔案集合是對的」）、#38（混維度的鏡像——這裡是一個斷言蓋不住兩種事實）、MEMORY §神經迴路「儀器只看見存在、看不見缺席」的**反向**（這次是看不見多餘）、OBSERVER-QUEUE #67、MAINTAINER §Step 1.1b step 5（分岔去重的「同語言同源雙檔留 origin 那份」已經是同一個判準，只是沒有常設閘門）
+- **verification_count**: 1
+
+### 2026-10-09 twmd-maintainer-daily — gate-demands-a-value-its-own-reference-cannot-supply：硬閘門要一個欄位，而它指去查的那份檔案裡沒有那個分類
+
+- **pattern**: gate-demands-a-value-its-own-reference-cannot-supply
+- **原則**：閘門的錯誤訊息是投稿者唯一拿得到的指示。當訊息指向一份**無法回答這個問題**的參考檔時，閘門的效果不是「擋下不合格的輸入」，是「擋下輸入並給一個走不通的指示」。投稿者照著做、查不到、放棄，而閘門這一側看起來完全正常：它確實擋了，訊息確實寫了路徑。
+- **觸發**：PR #1802（idlccp1984，Politics 類投稿）被 `frontmatter-title` 硬擋，訊息是「Politics 類文章必須對應 docs/taxonomy/SUBCATEGORY.md 子分類」。實跑 `allowed_subcategories('Politics')` 回 **空陣列**——`SUBCATEGORY.md` 裡沒有 Politics 這一節（grep 零命中；該檔對照表只涵蓋 12 個主題，不含 About 與 Politics，MAINTAINER v2.15 已記過這件事但只記在 category 清單那一面）。所以投稿者照訊息去查是查不到答案的。同時 `subcategory-valid` 對空 allowlist 無法驗證，於是**任何字串都會過**：我實測填 `政治文化` 直接 `hard=0 passed=True`。閘門要一個值、指去一個沒有答案的地方、然後不檢查填進來的值。現役 18 篇 Politics 文章實際在用六種各自長出來的值（`選舉制度` 11、`政治文化` 2、`民主與政治`、`公民監督`、`原住民族政治與憲政`、`2026 選舉專題`）——建造與登記再一次不同步（REFLEXES #91）。
+- **本班沒做的事與為什麼**：沒有逕行把這六個值寫進 `SUBCATEGORY.md`。一旦寫進去它們就變成正典，`subcategory-valid` 會開始**拒絕沒被我收進清單的那些**，而我無從判斷六個之中哪些該是正典、哪些只是前人隨手填的（例如 `2026 選舉專題` 像專題標籤不像子分類）。那是編輯層的分類決定，且動的是品質閘門的正典面（High-stake #3）。本班只在 PR #1802 的留言裡明說「這格查不到不是你的錯」並附上既有六個值，不讓投稿者替我們的缺口付代價。
+- **可能層級**：先修訊息（零風險、可當場做）：allowlist 為空時，訊息改成「`SUBCATEGORY.md` 尚未收錄 {category}，請參考同分類既有文章的值」而不是指去一份查不到的檔。正典補不補是另一個決定。
+- **相關**：REFLEXES #83（兩把尺：`frontmatter_title` 要求的欄位與 `subcategory_valid` 能驗的範圍不同調）、#85（「不知道」要有自己的符號——空 allowlist 現在偽裝成「沒問題」）、#91（建造與登記不同步：18 篇已經在用，正典沒收）、#58（偵測 ≠ remediation：擋下來了但沒有可走的修法路徑）、MAINTAINER §Step 3.4 紅旗 8 的 14 類清單更正（同一份檔案的另一面）
+- **verification_count**: 1
 
 ### 2026-10-09 twmd-data-refresh-am — count-capped-sample-shrinks-when-the-filtered-out-class-grows：先抓固定 N 筆再濾掉一類，被濾掉的那類一變多，樣本涵蓋的時間就默默縮短
 
