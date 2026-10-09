@@ -129,3 +129,65 @@ def test_same_commit_on_both_refs_is_not_duplicated(repo):
     subjects = MODULE._git_subjects(fire, fire + timedelta(hours=6))
     assert len(subjects) == 1
     assert "twmd-maintainer-am" in subjects[0]
+
+
+# ── 下次排程（2026-10-09 semiont-heartbeat）─────────────────────────────────
+# 週額度全黑 87 小時期間 fire 的七條週班／月班全判 silent-death，告警只寫「沉默死亡」，
+# 隔天被讀成「週班沒回來」的待查不對稱。每一列要同時看得到下一次排程與還有多久。
+
+
+def write_live_state_with_next(path: Path, task_id: str, fired_at: datetime, next_run: datetime | None) -> None:
+    task = {"taskId": task_id, "enabled": True, "lastRunAt": fired_at.isoformat().replace("+00:00", "Z")}
+    if next_run is not None:
+        task["nextRunAt"] = next_run.isoformat().replace("+00:00", "Z")
+    data = {"fetched_at": datetime.now(timezone.utc).isoformat(), "tasks": [task]}
+    (path / "docs" / "semiont").mkdir(parents=True, exist_ok=True)
+    (path / "docs" / "semiont" / "routine-live-state.json").write_text(
+        json.dumps(data, ensure_ascii=False), encoding="utf-8"
+    )
+
+
+def _row_for(task_id: str) -> dict:
+    report = MODULE.check(grace_hours=3, window_hours=6)
+    return next(r for r in report["results"] if r["taskId"] == task_id)
+
+
+def test_silent_death_carries_next_run_in_taipei_time(repo):
+    now = datetime.now(timezone.utc)
+    fire = now - timedelta(days=5)
+    nxt = now + timedelta(hours=42)
+    commit_at(repo, "base", fire - timedelta(days=1))
+    write_live_state_with_next(repo, "twmd-distill-weekly", fire, nxt)
+    row = _row_for("twmd-distill-weekly")
+    assert row["status"] == "silent-death"
+    assert row["nextRunAt"] is not None
+    assert 41 <= row["untilNextHours"] <= 42
+    taipei = nxt.astimezone(timezone(timedelta(hours=8)))
+    assert f"{taipei:%m-%d %H:%M}（台北）" in row["nextRunPhrase"]
+    assert "還有 42 小時" in row["nextRunPhrase"] or "還有 41 小時" in row["nextRunPhrase"]
+
+
+def test_monthly_gap_reads_in_days(repo):
+    """月班錯過一次要等整個月，讀的人一眼要看得出來跟週班不同。"""
+    now = datetime.now(timezone.utc)
+    fire = now - timedelta(days=4)
+    commit_at(repo, "base", fire - timedelta(days=1))
+    write_live_state_with_next(repo, "twmd-terminology-trends-monthly", fire, now + timedelta(days=27, hours=2))
+    phrase = _row_for("twmd-terminology-trends-monthly")["nextRunPhrase"]
+    assert "還有 27.1 天" in phrase
+
+
+def test_missing_next_run_says_unknown_not_blank(repo):
+    fire = datetime.now(timezone.utc) - timedelta(days=5)
+    commit_at(repo, "base", fire - timedelta(days=1))
+    write_live_state_with_next(repo, "twmd-distill-weekly", fire, None)
+    row = _row_for("twmd-distill-weekly")
+    assert row["untilNextHours"] is None
+    assert "不知道" in row["nextRunPhrase"]
+
+
+def test_next_run_in_the_past_flags_stale_dump():
+    past = datetime.now(timezone.utc) - timedelta(hours=2)
+    phrase = MODULE.next_run_phrase({"nextRunAt": past.isoformat(), "untilNextHours": -2.0})
+    assert "已過 2 小時" in phrase
+    assert "dump 可能舊了" in phrase

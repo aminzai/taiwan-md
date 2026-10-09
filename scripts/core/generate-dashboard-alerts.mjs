@@ -303,7 +303,7 @@ try {
     addAlert(
       `routine-silent-${r.taskId}`,
       'yellow',
-      `routine ${r.taskId} 沉默死亡：${(r.firedAt || '').slice(0, 16)} fire 後 ${r.ageHours}h 零 git 痕跡（fire≠完成，收屍看 working tree）`,
+      `routine ${r.taskId} 沉默死亡：${(r.firedAt || '').slice(0, 16)} fire 後 ${r.ageHours}h 零 git 痕跡（fire≠完成，收屍看 working tree）；${r.nextRunPhrase || '下次排程不知道'}`,
       'routine-live-state.json × git log',
       r.taskId,
     );

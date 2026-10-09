@@ -21,6 +21,10 @@ scheduler 的 lastRunAt 只證明扳機被按下；routine 真正的完成證明
   ⏸️ disabled      live enabled=false，跳過
   ⚪ stale-dump    dump 本身超過 DUMP_STALE_HOURS，先跑 routine-live-normalize.py
 
+silent-death 只說「最近一次 fire 死了」，不說整條 routine 死了；每一列同時帶 dump 的
+nextRunAt（`nextRunPhrase`：下次排程時間＋還有多久），讓讀的人分得出「週班錯過一次、兩天
+後自己重試」跟「月班錯過整個月」（2026-10-09 補，見 check() 內註解）。
+
 用法：
   python3 scripts/tools/routine-liveness-check.py            # 人讀表
   python3 scripts/tools/routine-liveness-check.py --json     # 給 generate-dashboard-alerts.mjs
@@ -192,14 +196,28 @@ def check(grace_hours: float, window_hours: float) -> dict:
         else:
             status = "silent-death"
 
+        # 2026-10-09 semiont-heartbeat 補下次排程：週額度全黑 87 小時期間 fire 的七條週班／月班
+        # 全判 silent-death（判得對），但告警只寫「沉默死亡」，隔天 feedback-triage 讀成「黑完之後
+        # 日班回來、週班沒回來」的待查不對稱，排進「今天」的交接。其實只是週班還沒輪到下一次
+        # 觸發（10-11），而月班要等到 11-05，十月那次整個錯過。死掉的是一次觸發還是整條
+        # routine、下一次多久後會自己重試，這兩件事要在同一行看得到（REFLEXES #38 混維度）。
+        next_run = t.get("nextRunAt")
+        until_next_h = None
+        if next_run:
+            nxt = datetime.fromisoformat(next_run.replace("Z", "+00:00"))
+            until_next_h = round((nxt - now).total_seconds() / 3600, 1)
+
         results.append({
             "taskId": task_id,
             "status": status,
             "registered": registered,
             "firedAt": last_run,
             "ageHours": round(age_h, 1),
+            "nextRunAt": next_run,
+            "untilNextHours": until_next_h,
             "evidence": hits[0] if hits else None,
         })
+        results[-1]["nextRunPhrase"] = next_run_phrase(results[-1])
 
     return {
         "checkedAt": now.isoformat(),
@@ -212,6 +230,28 @@ def check(grace_hours: float, window_hours: float) -> dict:
         "unregistered": sum(1 for r in results if r["status"] == "unregistered"),
         "results": results,
     }
+
+
+TAIPEI = timezone(timedelta(hours=8))
+
+
+def next_run_phrase(r: dict) -> str:
+    """silent-death 那一行的後半句：下一次排程什麼時候、還有多久。
+
+    沒有 nextRunAt（scheduler dump 沒給，或 routine 已停用）時明說不知道，
+    不留白——留白會被讀成「不會再跑」或「馬上會跑」其中一種（REFLEXES #85）。
+    """
+    nxt = r.get("nextRunAt")
+    if not nxt:
+        return "下次排程：dump 沒有這個欄位，不知道"
+    when = datetime.fromisoformat(nxt.replace("Z", "+00:00")).astimezone(TAIPEI)
+    hours = r.get("untilNextHours")
+    if hours is None:
+        return f"下次排程 {when:%m-%d %H:%M}（台北）"
+    if hours < 0:
+        return f"下次排程 {when:%m-%d %H:%M}（台北）已過 {abs(hours):.0f} 小時，dump 可能舊了"
+    span = f"{hours / 24:.1f} 天" if hours >= 48 else f"{hours:.0f} 小時"
+    return f"下次排程 {when:%m-%d %H:%M}（台北），還有 {span}"
 
 
 ICONS = {"traced": "✅", "in-grace": "🕐", "silent-death": "🔴",
@@ -245,6 +285,8 @@ def main() -> int:
             line += f"  fire={r['firedAt'][:16]}"
         if r.get("evidence"):
             line += f"  → {r['evidence'][:60]}"
+        if r["status"] == "silent-death":
+            line += f"  {next_run_phrase(r)}"
         print(line)
     print(f"\nSummary: silent-death={report['silentDeaths']} "
           f"unregistered={report['unregistered']} "
