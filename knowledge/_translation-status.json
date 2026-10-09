@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-09T21:28:37+08:00",
-    "zhCommitHead": "0a40b0e32",
+    "lastUpdated": "2026-10-09T22:20:41+08:00",
+    "zhCommitHead": "14c318c42",
     "totalZh": 1125,
     "activeLanguages": [
       "en",
@@ -84,8 +84,8 @@
       },
       "hi": {
         "total_zh": 1125,
-        "fresh": 1124,
-        "stale": 1,
+        "fresh": 1125,
+        "stale": 0,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -74158,8 +74158,8 @@
           "sourceContentHash": "sha256:0f023e33872fbd7d",
           "sourceBodyHash": "sha256:feac8eaeb6d3ca9d",
           "translatedAt": "2026-10-09T21:18:58+08:00",
-          "translationLastCommit": "7142719d",
-          "translationLastModified": "2026-10-08T11:32:39+08:00",
+          "translationLastCommit": "c9528957",
+          "translationLastModified": "2026-10-09T21:28:38+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "bytes": 23704,
@@ -74202,18 +74202,18 @@
         "hi": {
           "path": "hi/Society/inclusive-travel-taiwan.md",
           "translatedFrom": "Society/台灣全齡共融旅遊與生活文化.md",
-          "sourceCommitSha": "5187a758a",
-          "sourceContentHash": "sha256:613ce3b3055701ee",
-          "sourceBodyHash": "sha256:9003a86aeb6688cf",
-          "translatedAt": "2026-10-08T02:35:41.057389+00:00",
+          "sourceCommitSha": "fe3f96e02",
+          "sourceContentHash": "sha256:0f023e33872fbd7d",
+          "sourceBodyHash": "sha256:feac8eaeb6d3ca9d",
+          "translatedAt": "2026-10-09T22:15:03+08:00",
           "translationLastCommit": "ea7a84ec",
           "translationLastModified": "2026-10-08T12:25:17+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 29025,
+          "footnoteDefs": 13,
+          "bytes": 42135,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (13→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Society/inclusive-travel-taiwan.md",
