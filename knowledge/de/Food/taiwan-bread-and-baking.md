@@ -1,109 +1,116 @@
 ---
-title: 'Taiwanesisches Brot und Bäckerei'
-description: "Von Wu Pao-chun's Weltmeistertitel bis zur internationalen Expansion von 85°C: Taiwanesische Brot-Kultur erkunden"
+title: 'Brot und Backkunst aus Taiwan'
+description: 'Von Wu Bao-chun als Weltmeister bis zur internationalen Expansion bei 85°C: Eine Erkundung des einzigartigen Charmes der taiwanesischen Brote'
 date: 2026-03-19
 category: 'Food'
-tags: ['Brot', 'Bäckerei', 'Wu Pao-chun', 'taiwanesisches Brot', '85°C']
+tags:
+  ['Brot', 'Backen', 'Wu Bao-chun', 'Taiwanesisches Brot', '85 Grad Celsius']
 subcategory: '烘焙與甜點'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 image: '/article-images/food/taiwanese-pineapple-cake.webp'
-imageAlt: 'Taiwanesische Ananas-Kuchen'
+imageAlt: 'Taiwaner Marmorkuchen (Pineapple Cake)'
 imageCredit: 'Kwb / Wikimedia Commons'
 imageLicense: 'Public domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:TaiwanesePineappleCake.jpg'
 translatedFrom: 'Food/台灣麵包與烘焙.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:dc1169789f149357'
-sourceBodyHash: 'sha256:86fbaa53393cb1b7'
-translatedAt: '2026-09-23T21:59:29+08:00'
+sourceCommitSha: 'c08419525'
+sourceContentHash: 'sha256:a603b4a8bf5b1742'
+sourceBodyHash: 'sha256:05bf89cfacdb7f7b'
+translatedAt: '2026-10-10T03:44:32+08:00'
 ---
 
-# Taiwanesisches Brot und Bäckerei
+# Brot und Backkunst aus Taiwan
 
-Die Brot-Kultur Taiwans zeigt einzigartige Züge der Verschmelzung von Ost und West. Von den während der japanischen Kolonialherrschaft importierten Grundtechniken über die US-Einflüsse nach dem Krieg bis hin zum jüngsten europäischen Trend hat sich die taiwanesische Bäckerei-Branche ihren eigenen Weg gefunden. 2010 gewann Wu Pao-chun in Paris beim Mondial du Pain (Welt-Brot-Wettbewerb) in der Einzelskategorie und etablierte Taiwans Bäckerei auf der internationalen Bühne.[^1]
+Die Brotkultur in Taiwan präsentiert eine einzigartige Mischung aus Ost und West. Von den Grundlagentechniken, die während der japanischen Kolonialzeit eingeführt wurden, über den amerikanischen Einfluss nach dem Krieg bis hin zu den europäischen Trends der letzten Jahre – die taiwanesische Bäckerei hat ihren eigenen Weg gefunden. Im Jahr 2010 gewann [Wu Bao-chun](/de/people/wu-bao-chun/) beim Weltmeisterwettbewerb in Lesaffre, Frankreich, eine europäische Brotkategorie und etablierte damit den Ruf des taiwanesischen Backens auf der internationalen Bühne.[^1]
 
-## Das Wu-Pao-chun-Phänomen und der Weg zum Weltmeistertitel
+## Das Wu Bao-chun Phänomen und der Weg zum Weltmeistertitel
 
-Im März 2010 gewann Wu Pao-chun aus Pingtung bei der Mondial du Pain (Les Merveilles du Pain) in Paris bei der Europain-Ausstellung mit seinem Gewinnerbrot "Mi-Juong Li-Xiang" (hergestellt aus Litschi, Rose und Rotweinessig vom Puli-Destillerie) die Einzelskategorie und schockierte die Welt.[^1] Dieser Sieg markiert einen Meilenstein in der taiwanesischen Bäckerei-Geschichte. Zu beachten ist, dass es sich um die Mondial du Pain handelt und nicht um den größeren Wettbewettbewerb Coupe du Monde de la Boulangerie (welcher ein Team-Wettbewerb ist).
+Im Jahr 2008 erreichte das taiwanische Team, bestehend aus Wu Bao-chun, Cao Zhi-xiong und Wen Shi-cheng, den Silberplatz beim Lesaffre World Cup in Paris. Bei dieser Veranstaltung wurde im Jahr 2010 eine individuelle Kategorie „Les Masters de la Boulangerie“ hinzugefügt. Die Teilnehmer wurden aus den Top zehn der Einzelpunktzahlen von 2008 ausgewählt. [Wu Bao-chun](/de/people/wu-bao-chun/) aus Neipu, Pingtung, gewann mit seinem „Mijang Lixiang“ (auch bekannt als Litchi Rose Bread) die europäische Brotkategorie.[^2] Dies war ein Meilenstein in der Geschichte des taiwanesischen Backens.
 
-Hinter Wu Pao-chuns Erfolg verbirgt sich eine bewegende Geschichte. Als er aus armer Familie stammte, begann er nach der Sekundarschule als Lehrling in einer Bäckerei und startete mit den einfachsten Reinigungsarbeiten. In einer Ära, in der es noch keine Bäckerei-Studiengänge gab, war die mündliche Übertragung vom Meister die einzige Lernmöglichkeit. Mit seiner Liebe zum Brot und seiner harten Arbeit schuf er nach und nach seine Fähigkeiten.
+Hinter Wu Bao-chuns Erfolg steckt eine bewegende Geschichte. Er wuchs bei acht Kindern auf, deren Mutter durch Nebenjobs und den Anbau von Ananas ihren Lebensunterhalt sichern musste; es gab kaum Zeit für Bildung. Nach dem Abschluss der Mittelschule zog er mit fünfzehn Jahren allein nach Norden und begann als Lehrling in einer Bäckerei in Taipeh. Später führte sein Freund Chen Fu-kuang ihn zu alten Teigen und getrockneten Früchten, woraufhin er begann, japanische und französische Backbücher durchzulesen.[^3]
 
-Die Inspiration für "Mi-Juong Li-Xiang" kam von taiwanesischen lokalen Zutaten: die tropische Süße von Litschi, der Blütenduft von Rose kombiniert mit einem Essigstarter aus dem Puli-Destillerie, schuf eine neuartige Geschmacksschicht. Diese Praxis, taiwanesische Elemente in westliche Bäckerei zu integrieren, wurde später zu einem Charakteristikum des taiwanesischen Brots.
+Die Inspiration für „Mijang Lixiang“ stammt von Marzipanbonbons der Pariser Konditorei Ladurée, die Litschi verwenden. Es wurden Reiswein aus San Dimen, Pingtung, getrocknete Litschis aus Changhua und Bio-Rosen aus Puli, Nantou, verwendet.[^3] Diese Methode, lokale taiwanesische Elemente in westliches Backwerk zu integrieren, wurde später zu einem charakteristischen Merkmal des taiwanesischen Brotes.
 
-Wu Pao-chuns Sieg war nicht das Ende Taiwans in diesem Wettbewerb. Wu Zijun gewann 2015, Chen Yaoxun 2017 und Wang Pengjie 2022 ebenfalls bei der Mondial du Pain in der Einzelskategorie und machten Taiwan zu einem der Länder mit den meisten Siegen in der Geschichte des Wettbewerbs.[^2]
+Nach Wu Bao-chun erreichten weitere taiwanische Bäcker Spitzenplätze bei internationalen Wettbewerben. Der zweijährliche World Bread Cup (Mondial du Pain) sah jedes Team aus einem Bäcker und einem Assistenten bestehen: Wu Zi-jing gewann 2011 die Kategorie Süßgebäck; das taiwanesische Team gewann zweimal, im Jahr 2015 und 2017. Im Jahr 2017 nahm Chen Yao-xun teil.[^4][^5][^6] Wang Peng-jie, der von Wu Bao-chun ausgebildet wurde, gewann 2018 den Europain (European Bread Exhibition) in der Kategorie Kunstbrot und diente später als Trainer des taiwanesischen Teams beim World Bread Cup.[^7] Im Jahr 2022 führte der Trainer Wu Wu-xian zusammen mit Wu Zi-jing, Xu Shao-huan und Li Zhongwei das taiwanische Team zum ersten Mal zum Gewinn des Lesaffre World Cup in der Mannschaftskategorie.[^6]
 
-## Die einzigartige Ästhetik des taiwanesischen Brots
+## Die einzigartige Ästhetik des taiwanesischen Brotes
 
-Die taiwanesische Brot-Kultur verbindet verschiedene Elemente und bildet eine einzigartige "taiwanische Ästhetik". Das größte Merkmal dieser Ästhetik ist die "Grenzenlosigkeit" – jede Zutat könnte ein Brot-Zusatz werden, jeder Geschmack ist es wert, ausprobiert zu werden.
+Die Brotkultur Taiwans integriert verschiedene Elemente und hat eine einzigartige „taiwanesische Ästhetik“ geschaffen. Das größte Merkmal dieser Ästhetik ist die „Grenzenlosigkeit“: Jede Zutat kann ein Bestandteil des Brotes sein, jeder Geschmack ist es wert, ausprobiert zu werden.
 
-Lauch-Brot ist das typische taiwanische Innovation. Für Europäer sind Lauch und Brot eine völlig unvereinbare Kombination, doch die Taiwanesen haben dieses Klassikerwerk geschaffen. Das Brot ist locker und weich, die Oberfläche ist mit frischem Lauch und Mayonnaise bestreut, und der süße-salzige Geschmack ist überraschend. Dieser mutige Innovationsgeist ist das Wesentliche des taiwanesischen Brots.
+Das Schalottenbrot (Scallion Bread) ist eine typische taiwanesische Innovation. Für Europäer sind Schalotten und Brot eine völlig unpassende Kombination, doch in den Bäckereien Taiwans gehört es zum festen Repertoire. Der Teig ist weich, die Oberfläche ist mit Frühlingszwiebeln und Mayonnaise bestreut; der Geschmack aus herzhaft und süß ist erstaunlich. Dieser kühne Innovationsgeist ist das Wesen des taiwanesischen Brotes.
 
-Fleischbrötchen-Brot ist ein weiteres repräsentatives Werk. Dieses traditionelle taiwanische Beilagensortiment kombiniert sich mit westischem Brot und schafft ein einzigartiges Geschmackserlebnis. Die knusprige Fleischbrötchen-Oberfläche bietet Geschmack und Biss, während das Brot innen weich und süß bleibt und einen interessanten Kontrast bildet.
+Das Fleischkrabbenbrot (Meat Floss Bread) ist ein weiteres Beispiel. Die traditionelle taiwanische Beilage „Fleischkrabbe“ kombiniert mit westlichem Brot schafft ein einzigartiges Geschmackserlebnis. Die Fleischkrabbe auf der Außenseite sorgt für Umami und Kaugefühl, während das Innere des Brotes weich und süß bleibt, was einen interessanten Kontrast bildet.
 
-Die "Brot-Kruste" stammt ursprünglich aus Hongkong und entwickelte sich nach der Einführung in Taiwan zu einer eigenen Version. Obwohl es "Brot-Kruste" heißt, enthält es kein Brot, sondern wird nach dem Muster der Brotkruste benannt. Die taiwanische Version der Brot-Kruste ist in der Regel süßer als die Hongkong-Version und hat eine dickerere Kruste, was den taiwanischen Vorlieben für süße Speisen entspricht.
+Das Ananastellebrot (Pineapple Bread) enthält keine Ananas; sein Name stammt von der Gitterstruktur des knusprigen Belags auf der Oberfläche. Es ähnelt dem Hong Konger Pineapple Bun oder dem japanischen Melon Pan – wer zuerst kam, ist bis heute nicht eindeutig belegt.
 
-## Europäisches Brot vs. taiwanesisches Brot: Dialog zweier Philosophien
+## Europäisches Brot vs. Taiwanesisches Brot: Ein Dialog zweier Philosophien
 
-In den letzten Jahren hat das europäische Brot in Taiwan an Popularität gewonnen, und viele Bäcker reisten nach Frankreich, um traditionelle Techniken zu lernen. Diese europäische Bewegung bildet einen interessanten Dialog mit dem traditionellen taiwanesischen Brot.
+In den letzten Jahren hat das europäische Brot in Taiwan für Furore gesorgt; viele Bäcker reisen nach Frankreich, um die traditionellen Techniken zu erlernen. Dieser europäische Trend steht in einem interessanten Dialog mit dem traditionellen taiwanesischen Brot.
 
-Europäisches Brot strebt nach "Reinheit". Es verwendet natürliche Hefe, lange Gärung und achtet auf Mehlqualität und Wasser-Temperatur. Das fertige Brot hat in der Regel eine harte Kruste und ein weiches Inneres, eine feste Konsistenz mit natürlichem Säuregeschmack. Dieses Brot muss genossen werden, langsam gekaut werden, um den Geschmack des Mehls zu schätzen.
+Das europäische Brot strebt nach „Reinheit“. Es verwendet Naturhefe, lange Gärzeiten und legt Wert auf die Qualität des Mehls und der Wassertemperatur. Das Endprodukt ist typischerweise außen hart und innen weich, mit einer substanziellen Textur und einem natürlichen Säuregeschmack. Dieses Brot muss genossen und langsam gekaut werden, um die Süße des Mehls zu schmecken.
 
-Taiwanesisches Brot strebt nach "Fülle". Verschiedene Zutaten, verschiedene Geschmäcker und verschiedene Formen zielen darauf ab, dem Verbraucher das größte Wohlbefinden zu bieten. Das Brot ist in der Regel weicher und süßer und eignet sich für schnelles Verzehr. Dieser Unterschied spiegelt die unterschiedliche Kultur des Essens wider.
+Das taiwanesische Brot strebt nach „Reichtum“. Mit verschiedenen Zutaten, Geschmacksrichtungen und Formen zielt es darauf ab, dem Verbraucher das größtmögliche Wohlgefühl zu geben. Der Teig ist in der Regel weicher und süßer und eignet sich zum schnellen Verzehr. Dieser Unterschied spiegelt die unterschiedlichen kulturellen Vorstellungen von Essen wider.
 
-Interessanterweise schließen sich diese beiden Stile in Taiwan nicht aus, sondern ergänzen einander. Viele Bäckereien verkaufen sowohl europäisches als auch taiwanesisches Brot, um verschiedene Kundenbedürfnisse zu befriedigen. Einige innovative Bäcker verbinden sogar beide Techniken und schaffen eine neue Kategorie: "taiwanisch-europäisches Brot".
+Interessanterweise lehnen diese beiden Stile in Taiwan nicht voneinander ab, sondern ergänzen sich. Viele Bäckereien verkaufen sowohl europäisches als auch taiwanesisches Brot und bedienen so verschiedene Kundenbedürfnisse. Einige innovative Bäcker kombinieren sogar beide Techniken und schaffen eine neue Kategorie namens „taiwanesische Europabrot“.
 
-## Die internationale Legende von 85°C
+## Die Legende von 85°C in der Internationalisierung
 
-Wenn Wu Pao-chun das technische Niveau der taiwanesischen Bäckerei repräsentiert, dann steht 85°C für den kommerziellen Erfolg der taiwanesischen Bäckerei. Das 2003 gegründete Unternehmen entwickelte sich von einem lokalen taiwanesischen Kaffeehaus zu einem internationalen Kettenbetrieb: 2008 trat es in den chinesischen Markt ein, 2016 erweiterte es auf den amerikanischen Markt.[^3]
+Wenn Wu Bao-chun die technische Höhe des taiwanesischen Backens repräsentiert, dann symbolisiert 85°C den kommerziellen Erfolg. Der Gründer, Wu Zheng-xue, hatte die Idee, als er im Jahr 2003 ein Dessert in einem Fünf-Sterne-Hotel aß. Im Jahr 2004 eröffnete das erste Geschäft in Taihoku (Taiwan County), und es entwickelte sich von einem lokalen Café zu einer internationalen Kette: Die erste Auslandslokalität wurde 2006 in Australien eröffnet, 2007 kam man nach Shanghai, und 2008 eröffnete die erste Filiale in Irvine, Kalifornien, USA.[^8]
 
-Der Erfolg von 85°C beruht auf der Positionierung von "preiswerter Luxus". Sie bieten Kuchen und Brot im fünf-Sterne-Hotel-Standard, aber zu einem normalen Kaffeehaus-Preis. Diese Strategie traf präzise die Psychologie der Verbraucher und ermöglichte es gewöhnlichen Menschen, hochwertige Bäckereiprodukte zu genießen.
+Der Erfolgsgeheimnis von 85°C liegt in der Positionierung als „erschwinglicher Luxus“. Sie bieten Kuchen und Brot auf Sterne-Niveau an, aber zu Preisen eines gewöhnlichen Cafés. Diese Strategie trifft die Psychologie des Verbrauchers genau und ermöglicht es auch normalen Menschen, raffiniertes Backwerk zu genießen.
 
-Der internationalisierte Prozess war nicht einfach. Auf dem chinesischen Markt musste 85°C mit intensiver lokaler Konkurrenz konkurrieren; auf dem amerikanischen Markt musste es sich an unterschiedliche Verbrauchergewohnheiten anpassen. Durch ständige Anpassung von Produktmix und Betriebsmodell konnte 85°C schließlich im Ausland Fuß fassen.
+Der Weg zur Internationalisierung war nicht reibungslos. Auf dem chinesischen Markt sah sich 85°C intensiver lokaler Konkurrenz gegenüber; auf dem US-Markt mussten sie unterschiedliche Konsumgewohnheiten anpassen. Durch die ständige Anpassung des Produktportfolios und der Betriebsmodelle hat 85°C jedoch Fuß gehalten.
 
-Der internationale Erfolg von 85°C beweist auch die internationale Wettbewerbsfähigkeit der taiwanesischen Bäckerei. Obwohl die Technik aus Europa, Amerika und Japan stammt, hat Taiwan durch Innovation und Verbesserung eine einzigartige Stilrichtung und Vorteile entwickelt. Diese weiche Macht ist überzeugender als jede offizielle Propaganda.
+Der internationale Erfolg von 85°C beweist auch die internationale Wettbewerbsfähigkeit des taiwanesischen Backens. Obwohl die Techniken aus Europa, Amerika und Japan stammen, haben sie durch die Innovation und Verbesserung in Taiwan einen einzigartigen Stil und Vorteile entwickelt. Dieser „Soft Power“-Export ist überzeugender als jede offizielle Propaganda.
 
-## Bäckerei-Ausbildung und Fähigkeitsvermittlung
+## Backbildung und Kompetenzweitergabe
 
-Die Entwicklung der taiwanesischen Bäckerei-Branche ist untrennbar mit dem Bildungssystem verbunden. Von den frühen Meister-Schüler-Verhältnissen bis zu den heutigen Berufsschulen hat sich die Bäckerei-Ausbildung grundlegend gewandelt.
+Die Entwicklung der taiwanesischen Bäckerei wäre ohne die Unterstützung des Bildungssystems nicht möglich gewesen. Von der frühen Meisterlehre bis hin zu den heutigen Berufsschulen hat sich die Ausbildung im Backen stark verändert.
 
-Berufsschulen mit Bäckerei-Studiengängen haben eine Vielzahl von Talenten für die Branche ausgebildet. Die Studenten lernen nicht nur Grundfertigkeiten, sondern müssen sich auch mit Lebensmittelwissenschaft, Ernährung und Kostenkontrolle vertraut machen. Diese systematische Ausbildung hat das professionelle Niveau der gesamten Branche verbessert.
+Die Abteilungen für Backkunst in den Berufsfachschulen haben viele Talente für die Industrie ausgebildet. Die Studenten lernen nicht nur grundlegende Techniken, sondern auch Fachwissen in Lebensmittelwissenschaft, Ernährungswissenschaft und Kostenkontrolle. Diese systemische Ausbildung hat das professionelle Niveau der gesamten Branche angehoben.
 
-Verschiedene Bäckerei-Wettbewerbe spielen ebenfalls eine wichtige Rolle. Von Schul-Wettbewerben bis zu internationalen Wettbewerben dienen diese Wettbewerbe nicht nur als Plattform für den technischen Austausch, sondern auch als Nährboden für Talente. Viele bekannte Bäcker entstanden durch Wettbewerbe.
+Verschiedene Backwettbewerbe spielten ebenfalls eine wichtige Rolle. Von Schulveranstaltungen bis zu internationalen Wettbewerben waren diese nicht nur Plattformen für den Technikaustausch, sondern auch Brutstätten für Talente. Viele bekannte Bäcker haben durch Wettbewerbe Bekanntheit erlangt.
 
-In den letzten Jahren hat sich die Bäckerei-Ausbildung auch diversifiziert. Neben traditioneller Fertigkeitentraining wurden Unternehmertum, Lebensmittelsicherheit und internationale Zertifizierung hinzugefügt. Dieses ganzheitliche Ausbildungsmodell macht die taiwanesischen Bäcker-Talente im internationalen Markt konkurrenzfähiger.
+In jüngster Zeit hat sich die Backbildung diversifiziert. Neben der traditionellen technischen Ausbildung wurden Kurse in Unternehmensmanagement, Lebensmittelsicherheit und internationale Zertifizierungen hinzugefügt. Dieses ganzheitliche Ausbildungsmuster macht das taiwanesische Backtalent auf dem internationalen Markt wettbewerbsfähiger.
 
-## Lebensmittelsicherheits-Herausforderungen und Branchenumwandlung
+## Herausforderungen bei der Lebensmittelsicherheit und industrielle Transformation
 
-Lebensmittelsicherheit ist die größte Herausforderung für die Bäckerei-Branche. Von dem Phthalate-Sturm bis zu Gewürz-Zusatzstoff-Debatten hat jede Lebensmittelsicherheits-Krise erhebliche Auswirkungen auf die Branche. Die Anforderungen der Verbraucher an Lebensmittelsicherheit steigen ständig, und Unternehmen müssen strengere Qualitätskontrollsysteme etablieren.
+Die Lebensmittelsicherheit ist die größte Herausforderung für die Bäckereiindustrie. Von den Plastikadditive-Skandalen bis zu Streitigkeiten um Aromazusätze hat jeder Sicherheitsvorfall die Branche stark getroffen. Die Anforderungen der Verbraucher an die Lebensmittelsicherheit steigen stetig, und die Betreiber müssen strengere Qualitätskontrollsysteme aufbauen.
 
-Viele Unternehmen setzen nun auf "Transparenz"-Strategien und veröffentlichen Lebensmittelquellen und Herstellungsprozesse. Einige Bäckereien haben sogar offene Küchen eingerichtet, damit Verbraucher den Herstellungsprozess direkt beobachten können. Obwohl diese Praxis zusätzliche Kosten verursacht, erhöht sie auch das Vertrauen der Verbraucher.
+Viele Unternehmen haben begonnen, eine „Transparenz“-Strategie zu verfolgen und die Herkunft der Zutaten sowie den Herstellungsprozess offenzulegen. Einige Bäckereien richten sogar offene Küchen ein, damit die Verbraucher den Herstellungsprozess direkt beobachten können. Obwohl diese Vorgehensweise Kosten verursacht, erhöht sie auch das Vertrauen der Verbraucher.
 
-Die steigende Gesundheitsbewusstsein hat auch eine Branchenumwandlung begonnen. Brotsorten mit niedrigem Zuckergehalt, niedrigem Fettgehalt und Vollkornprodukte werden immer beliebter. Obwohl der Geschmack möglicherweise nicht so gut ist wie traditionelles Brot, entspricht er den Anforderungen gesunder Verbraucher.
+Das gestiegene Gesundheitsbewusstsein hat ebenfalls zur industriellen Transformation beigetragen. Brote mit geringem Zucker-, geringem Fett- oder Vollkornanteil werden immer beliebter. Auch wenn die Textur möglicherweise nicht so gut ist wie bei traditionellem Brot, erfüllt es die Bedürfnisse gesundheitsbewusster Verbraucher.
 
-Technologische Innovation ist ein weiterer wichtiger Trend. Automatisierte Geräte verbessern die Produktivität, Kühlungstechnologie verlängert die Haltbarkeit und neue Bäckertechniken schaffen mehr Möglichkeiten. Diese Innovationen verbessern nicht nur die Produktqualität, sondern senken auch die Personal-Kosten.
+Die technologische Innovation ist ein weiterer wichtiger Trend. Automatisierte Geräte erhöhen die Produktionseffizienz, und Gefriertrocknung verlängert die Haltbarkeit; neue Backmethoden schaffen mehr Möglichkeiten. Diese Innovationen verbessern nicht nur die Produktqualität, sondern senken auch die Arbeitskosten.
 
-Die Entwicklungslinie der taiwanesischen Brot- und Bäckerei-Branche ist klar nachvollziehbar: Von Wu Pao-chun 2010 als erster Sieger, bis 2015, 2017 und 2022 dreimal wiederholte Sieg bei der Mondial du Pain Einzelskategorie, bis 85°C auf den europäischen, amerikanischen und asiatischen Märkten Fuß fassen konnte – die internationale Wettbewerbsfähigkeit der taiwanesischen Bäckerei-Branche ist bereits durch konkrete Erfolge bewiesen, nicht nur eine technische Verbesserung, sondern auch eine vollständige Entwicklung von der Produktion bis zur Marke.[^4]
+Der Entwicklungspfad der taiwanesischen Bäckerei ist klar ersichtlich: Der Meistertitel von Wu Bao-chun im Jahr 2010, der Gewinn des World Bread Cup durch das taiwanische Team in den Jahren 2015 und 2017, der Mannschaftsmeistertitel beim World Cup 2022, zusammen mit dem Aufstieg von 85°C von Taiwan nach China, Australien und die USA – die taiwanesische Bäckerei hat durch ihre internationale Wettbewerbsfähigkeit messbare Erfolge gezeigt, vom Produktionsende bis zur Markenpräsenz.
 
 ## Bildquellen
 
-- Hero: Taiwanesischer Ananas-Kuchen, Fotografie Kwb, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:TaiwanesePineappleCake.jpg), Gemeinfrei.
+- Hero: Ananastellebrot (Pineapple Cake), Foto Kwb, https://commons.wikimedia.org/wiki/File:TaiwanesePineappleCake.jpg, Public Domain.
 
 ## Referenzen
 
-[^1]: [Wu Pao-chun Brotgeschäft Offizielle Website](https://www.wu-pao-chun.com/) — "Mi-Juong Li-Xiang"-Werkbeschreibung und 2010 Mondial du Pain Siegserfahrung.
+[^1]: [Taiwan: The winner of the Masters de la Boulangerie 2010 is…（Global Voices, 2010-04-09）](https://globalvoices.org/2010/04/09/taiwan-the-winner-of-the-masters-de-la-boulangerie-2010-is/) — Ausschnitt aus einem Blog, der den Entwicklungsprozess des Litchi Rose Bread von Wu Bao-chun im Jahr 2010 dokumentiert.
 
-[^2]: [Mondial du Pain Offizielle Website](https://www.mondialdupain.com/) — Historische Gewinnerliste der Einzelskategorie, einschließlich taiwanesischer Spieler 2010/2015/2017/2022 vier Epochen.
+[^2]: [Wu Bao-chun (Wikipedia)](https://zh.wikipedia.org/zh-tw/%E5%90%B3%E5%AF%B6%E6%98%A5) — Informationen über die Teilnahme an den Les Masters de la Boulangerie 2010 und die Herkunft der Zutaten für das Mijang Lixiang.
 
-[^3]: [85°C Investorenbeziehungen](https://www.85cafe.com/) — 85°C Markenentwicklung und internationale Filialinformationen.
+[^3]: [Die gesamte Geschichte des Brotkampions Wu Bao-chun (Mirror Weekly, 2016-11-09)](https://www.mirrormedia.mg/story/20161108fin006) — Die Ausbildung als Lehrling mit fünfzehn Jahren nach Norden, die Inspiration durch Chen Fu-kuang und die Zutaten für Mijang Lixiang; das erste Geschäft wurde im November 2010 in Kaohsiung eröffnet.
 
-[^4]: [Taiwanische Lebensmittelindustrie Technologie Forschungsinstitut](https://www.cgprdi.org.tw/) — Taiwanesisches Lebensmittel-Technologie-Forschungsinstitut, einschließlich Wettbewerbsschulung und Technologie-Unterstützung.
+[^4]: [Scheitern der Dreifachserie: Taiwan gewinnt Silber beim World Bread Cup (CCTV News, 2019-10-23)](https://news.pts.org.tw/article/451506) — Der World Bread Cup findet alle zwei Jahre statt; die taiwanische Delegation gewann im Jahr 2015 und 2017; im Jahr 2019 erreichte das Team unter Trainer Wang Peng-jie den Silberplatz.
 
-[^5]: [Taiwanische Bäckerei-Gewerbe-Gewerkschaft](https://www.twbakery.org.tw/) — Bäckerei-Gewerbsverband, einschließlich Branchenstatistik und internationaler Wettbewerb.
+[^5]: [Danke, Weltmeister Chen Yao-xun: Die Ära des taiwanesischen Brotes ist zurück (Mirror Weekly, 2019-05-13)](https://www.mirrormedia.mg/story/20190513food001) — Chen Yao-xun gewann 2017 den World Bread Cup mit seinem Werk „Mei Xiang Xu Yu“.
 
-## Weiterführende Literatur
+[^6]: [Sie waren Silbermedaillengewinner beim Backwettbewerb: Die Rückkehr zum Sieg für Taiwan beim World Cup (Mirror Weekly, 2022-04-28)](https://www.mirrormedia.mg/story/20220428bus001) — Im März 2022 gewann das taiwanische Team erstmals den Lesaffre World Cup in der Mannschaftskategorie; Trainer Wu Wu-xian führte Wu Zi-jing, Xu Shao-huan und Li Zhongwei. Wu Zi-jing gewann bereits 2011 die Kategorie Süßgebäck beim World Bread Cup.
 
-- [Wu Pao-chun Brotgeschäft](https://www.wu-pao-chun.com/) — Wu Pao-chuns Flagship-Geschäft in Tainan, einschließlich ausgezeichneter Brotsorten
-- [Taiwanisches Lebensmittelindustrie Technologie Forschungsinstitut](https://www.cgprdi.org.tw/) — Lebensmittel-Technologie-Forschungsinstitut
+[^7]: [Die Nation steht hinter den taiwanesischen Teilnehmern beim World Bread Cup: Sie sind nicht mehr allein (Sanli News Net via CNA, 2019-10-22)](https://www.setn.com/news/622274) — Wang Peng-jie gewann 2018 den Europain in der Kategorie „Kunstbrot“; im Jahr 2019 war er Trainer des taiwanesischen Teams beim World Bread Cup mit Teilnehmern You Dong-yun und Assistent Xu Yu-chen.
+
+[^8]: [How It All Started (85°C Bakery Cafe)](https://www.85cbakerycafe.com/about) — Die Geschichte von 85°C: die Idee des Gründers im Jahr 2003, das erste Geschäft in Taihoku 2004, Australien 2006, Shanghai 2007 und die erste Filiale in Irvine, USA 2008.
+
+## Weiterführende Lektüre
+
+- [Wu Bao-chun Mianfang Bakery](https://www.wupaochun.com/) — Die offizielle Website der Bäckerei von Wu Bao-chun; das erste Geschäft wurde 2010 in Kaohsiung eröffnet.
+- [Taiwan Grain Food Industry Research Institute](https://www.cgprdi.org.tw/) — Forschungsinstitut für Backwarentechnologie.
