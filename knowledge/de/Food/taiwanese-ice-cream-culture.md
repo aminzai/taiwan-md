@@ -1,133 +1,131 @@
 ---
-title: 'Taiwan-Eiscreme-Kultur'
-description: 'Von Yuqing-Mangguo-Bing bis zur Schneeeis-Revolution: Entdeckung der einzigartigen taiwanesischen Kultur, auch im Winter Eis zu essen'
+title: 'Die Eisikkultur Taiwans'
+description: 'Von der Mangobeis-Kultur in Yujing bis zur Schneeeis-Revolution: Eine Erkundung der einzigartigen Kultur, die es den Menschen in Taiwan ermöglicht, auch im Winter Eis zu essen.'
 date: 2026-03-19
 category: 'Food'
-tags: ['Eiscreme', 'Mangguo-Bing', 'Schneeeis', 'Crushed-Ice', 'ICE MONSTER']
+tags: ['Eiswaren', 'Mangoeis', 'Schneeeis', 'Shaved Ice', 'ICE MONSTER']
 subcategory: '烘焙與甜點'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 image: '/article-images/food/taipei-mango-shaved-ice.webp'
-imageAlt: 'Taipeh-Mangguo-Bing'
+imageAlt: 'Mangobeis aus Taipeh'
 imageCredit: 'SuperMidget（English Wikivoyage） / Wikimedia Commons'
 imageLicense: 'Public domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taipei_mangguobing.JPG'
 translatedFrom: 'Food/台灣冰品文化.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:81d7772de9e1a0c6'
-sourceBodyHash: 'sha256:e70fc8ddbfd1ab8c'
-translatedAt: '2026-09-23T21:18:17+08:00'
+sourceCommitSha: '7a2292243'
+sourceContentHash: 'sha256:27df03c894312c34'
+sourceBodyHash: 'sha256:4ecce4b2cd02de2a'
+translatedAt: '2026-10-09T14:59:32+08:00'
 ---
 
-# Taiwan-Eiscreme-Kultur
+# Die Eisikkultur Taiwans
 
-Die Begeisterung der Taiwanesen für Eiscreme ist weltweit einzigartig. Selbst bei einer Lufttemperatur von nur 10 Grad sind die Eisdielen stets voller Gäste. Die taiwanesische Eiscremekultur hat ihren Ursprung in der japanischen Kolonialherrschaft, in der Kühlungstechnologie eingeführt wurde. Von der Nachkriegszeit, in der Crushed Ice verbreitet wurde, über die 1990er-Jahre, in denen die Schneeeis-Technologie revolutioniert wurde, bis in die 2010er-Jahre, in denen Marken wie ICE MONSTER internationalen Aufschwung erlebten – die Entwicklung der taiwanesischen Eiscremekultur ist eine mit klaren historischen Meilensteinen verbundene Geschichte.
+Die Leidenschaft der Menschen in Taiwan für Eis ist weltweit einzigartig; selbst wenn die Temperaturen im Winter nur 10 Grad betragen, sind die Eisdielen voll besetzt. Die taiwanesische Eisikkultur hat ihre Wurzeln in den eingeführten Eisherstellungstechniken während der japanischen Kolonialzeit (1895–1945). Sie entwickelte sich von der Verbreitung des traditionellen Shaved Ice nach dem Krieg, über das Auftauchen des Schneeeises in den 1980er Jahren bis hin zur internationalen Expansion von Marken wie ICE MONSTER in den 2010er Jahren – eine Entwicklung mit klar nachvollziehbaren Zeitpunkten.
 
-## Die japanische Kolonialherrschaft: Die Entstehung der Eiscremekultur
+## Die japanische Kolonialzeit: Der Ursprung der Eisikkultur
 
-Die Wurzeln der taiwanesischen Eiscremekultur lassen sich auf die japanische Kolonialherrschaft (1895–1945) zurückführen. Nachdem Japan Kühlmaschinen importiert und künstliche Eisfabriken errichtet hatte, wurde das einst nur für reiche Schichten zugängliche „natürliche Eis“ zu einer für die breite Bevölkerung erschwingbaren Ware. Die japanische Eiscreme „Kakigōri“ (Crushed Ice) wurde ebenfalls nach Taiwan gebracht – dünn gehackte Eiswürfel, überzogen mit Sirup oder Bohnensoße, wurden zur typischen Sommererfrischung in der taiwanesischen Provinz.
+Die Wurzeln der taiwanesischen Eisikkultur reichen zurück in die japanische Kolonialzeit (1895–1945). Die Eisherstellungstechnologie wurde von den Japanern nach Taiwan gebracht, wobei das früheste Eis das Qingbing (Klar-Eis) war.[^1]
 
-Am Ende der japanischen Kolonialherrschaft gab es in Städten wie Tainan und Taipeh bereits feste Eisverkäufer. Zu dieser Zeit beliebte Zutaten waren Rote Bohnen, Tausendblütensenflocken, Erdnuss-Sirup und andere Kombinationen, die bis heute in traditionellen Crushed-Ice-Ständen weitgehend unverändert weitergegeben werden. Der Aufbau der Kühlindustrie diente nicht nur der Eiscreme, sondern unterstützte auch die Kühlung der Fischerei während der japanischen Kolonialherrschaft – ein wichtiger Schritt in der Modernisierung Taiwans.
+Gegen Ende der japanischen Herrschaft kamen Eisstände auf die Straßen. Im Jahr 1938 entwickelte Chen Xi, inspiriert vom populären Vier-Obst-Eis Japans, eine Mischung aus über zehn Zutaten – neben Bohnen, Trockenfrüchten und Teigwaren –, genannt "Mi Dou Bing" (Honigbohneneis). Er verkaufte dieses auf einem Schubkarren rund um den Bahnhof von Taichung. 1943 eröffnete er einen Stand auf dem First Market, der später zu Xinfadiing wurde.[^2] Auch die Eisverarbeitung unterstützte die Fischerei während dieser Zeit: In der zweiten Hälfte der 1920er Jahre wuchs die Fischerei in Taiwan rasant, und Forscher stufen die Eis- und Kühlindustrie als verwandte Branche hervor, die diesen Wachstumsschub beförderte.[^3]
 
-## Yuqing-Mangguo: Vom Anbaugebiet zur globalen Süße-Legende
+## Yujing Mango: Die süße Legende vom Ursprung bis zur Welt
 
-Tainan Yuqing wird als „die Heimat der Mangos“ bezeichnet. Die dort angebauten Aiwen-Mangos sind in ganz Taiwan für ihre süße, saftige Konsistenz bekannt. Während der Mango-Saison von Mai bis August strömen zahlreiche Mango-Urlauber nach Yuqing, um die frischesten Mangos zu schmecken.
+Die Gegend von Yujing in Tainan ist berühmt für ihre Aiwen-Mangos. Während der Mango-Saison strömen jedes Jahr große „Mango-Pilger“ nach Yujing, um das frischeste Mangobeis zu genießen.
 
-Das Besondere an Yuqing-Mangos ist die Verwendung von hochwertigen Zutaten. Die ganze Aiwen-Mango wird geschält und in Würfel geschnitten, mit frischem Mangosaft vermischt und traditionell als Crushed Ice serviert. Einfach, aber vollkommen. Dieses reine und natürliche Geschmackserlebnis hat Yuqing-Mangos zur typischen taiwanesischen Sommer-Eiscreme gemacht.
+Das Besondere am Mangobeis aus Yujing ist die „echte Zutat“. Die ganze Aiwen-Mango wird geschält und in Stücke geschnitten, mit frischem Mangosaft übergossen und traditionelles Shaved Ice kombiniert – einfach, aber intensiv. Dieser reine Geschmack machte das Mangobeis aus Yujing zum repräsentativen Dessert des Sommers in Taiwan.
 
-Vom Yuqing-Anbaugebiet aus verbreiteten sich Mangos nach und nach in ganz Taiwan. Jede Region entwickelte ihre eigene Variante: Einige fügten Pudding oder Fruchtgel hinzu, andere experimentierten mit verschiedenen Mango-Sorten für mehr Tiefe, während einige andere lokale Spezialitäten kombinierten, um einzigartige Geschmäcker zu schaffen.
+Das Eisgeschäft, das die frische Mango zu einem Markenzeichen machte, befand sich in der Yongkang Street in Taipeh. Im Jahr 1997 eröffneten Luo Junhua und seine Ex-Ehefrau Chang Jimei dort die „ICE MONSTER Ice Cream Shop“, und die Medien bezeichneten ihn als den Erfinder des ersten Mangobeis in ganz Taiwan. Das Eisgeschäft wurde von der New York Times zu einem der Sehenswürdigkeiten Taipehs, neben dem Nationalpalast und Taipei 101, und wurde auch von CNN zu den zehn besten Desserts der Welt gewählt.[^4] Anschließend verbreitete sich das Mangobeis in ganz Taiwan, wobei jede Region ihre eigene Spezialversion entwickelte: Einige fügten Pudding oder Agar-Agar hinzu, um die Textur zu verbessern; andere nutzten verschiedene Mango-Sorten für Schichten; und einige kombinierten es mit lokalen Spezialitäten für einzigartige Aromen.
 
-Mit der Entstätigung von ICE MONSTER wurde die taiwanesische Mango-Eiscreme auf die internationale Bühne getragen. Ursprünglich 1995 als „Yongkang 15 Ice House“ in Yongkang Street eröffnet, wurde das Unternehmen 2010 in ICE MONSTER umbenannt und in Xinsheng East Road umgezogen. Die detailreiche Mango-Schneeeis-Kreation mit innovativen visuellen Präsentationen brachte die Marke von Taiwan nach Hongkong, Singapur und Los Angeles, wo sie viele ausländische Besucher dazu brachte, die taiwanesische Mango-Eiscreme zu schätzen.
+Das Eisgeschäft schloss 2010 ohne Vorwarnung aufgrund einer Scheidung. Im Jahr 2012 startete Luo Junhua unter dem Namen ICE MONSTER erneut auf der Zhongxiao East Road, wobei Mangobeis mit hausgemachtem Käse kombiniert wurde. Sie hatten innerhalb von sieben Jahren 19 Filialen in Taiwan und im Ausland eröffnet und führten das taiwanesische Mangobeis bei vielen ausländischen Besuchern nach China, Japan und den USA vor.[^4]
 
-## Die Schneeeis-Revolution: Ein Durchbruch im Geschmack
+## Die Schneeeis-Revolution: Ein großer Durchbruch der Textur
 
-Von Ende der 1990er bis Anfang der 2000er Jahre erlebte die taiwanesische Eiscremeszene eine „Schneeeis-Revolution“. Traditionelles Crushed Ice verwendete reine Eiswürfel, was zu einer groben Konsistenz und schnellen Schmelzen führte. Schneeeis hingegen wurde aus Milch, Zucker und anderen Zutaten als Eisblock gefroren und dann mit speziellen Maschinen zu feinen, schneeflockenähnlichen Strukturen verarbeitet – eine cremige, luftige Textur, die wie Schnee schmilzt.
+In den 1980er Jahren tauchte in der taiwanesischen Eisbranche das Schneeeis auf, welches eine feinere Konsistenz als das traditionelle Shaved Ice bot. Das traditionelle Shaved Ice wurde aus reinem Eisblock hergestellt und hatte eine gröbere Textur, die leicht schmolz. Das Schneeeis hingegen wurde aus vorgefertigten Eisblöcken geschabt, um feine Eiskristalle zu erzeugen, was ihm eine schneebartige Konsistenz verlieh. Xinfadiing auf dem Shilin Nachtmarkt entwickelte in den 80er Jahren durch die zweite Generation das "Schneeflockeneis", das nicht leicht schmolz und wie Bleistiftspäne aussah. Es wurde zum ersten Spezialgeschäft für Schneeflockeneis in Nord-Taiwan. Die Eisblöcke mussten sieben Stunden lang sterilisiert werden, zuerst bei hoher Temperatur und dann bei niedriger Temperatur.[^5]
 
-Diese technologische Innovation veränderte das Spiel der taiwanesischen Eiscreme. Schneeeis war nicht nur besser im Geschmack, sondern auch viel einfacher in der Gestaltung von Farben und Mustern. Von Matcha-Schneeeis über Schokoladenschneeeis bis hin zu Erdbeerschneeeis – jede Variante hatte ihren eigenen einzigartigen Geschmack und ihre eigene Farbe.
+Diese technologische Innovation veränderte die Landschaft der taiwanesischen Eiswaren. Das Schneeeis bot nicht nur eine bessere Textur, sondern war auch einfacher zu färben und zu aromatisieren, was verschiedene visuelle Effekte ermöglichte. Matcha-Schneeeis, Schokoladen-Schneeeis und Erdbeer-Schneeeis – jedes hatte seinen eigenen einzigartigen Geschmack und seine eigene Farbe.
 
-Der Erfolg von Schneeeis stieg auch an, als die gesamte Branche aufwertete. Eisdielen entwickelten sich von einfachen Straßencarts zu eleganten Dessert-Läden. Mit besserer Innenausstattung, professionellerem Service und vielfältigeren Produkten wurde Eiscreme von einer einfachen Erfrischung zu einem modischen Dessert.
+Der Erfolg des Schneeeises führte auch zur Aufwertung der gesamten Branche. Eisdielen entwickelten sich von traditionellen Straßenständen zu raffinierten Dessertläden. Die Dekoration wurde sorgfältiger, der Service professioneller und das Sortiment vielfältiger; die Eiswaren stiegen vom einfachen Sommergenuss zum modischen Dessert auf.
 
-Diese Innovation aus Taiwan verbreitete sich tatsächlich auf andere Länder. Schneeeismaschinen und -technologien wurden nach Japan, Südostasien und andere Regionen exportiert. Es ist wichtig anzumerken, dass das koreanische „Bingsu“ (빙수) und „Patbingsu“ (팥빙수) eine unabhängige, lange Tradition haben, die bis ins Joseon-Reich zurückreicht. Die 2013 entstandene koreanische Marke „Xuebing“ (설빙) ist eine rein lokale Entwicklung und nicht als taiwanesischer Export zu betrachten.
+Das koreanische Seolbing (설빙) wird oft mit dem taiwanesischen Schneeeis verglichen, aber es entstand in Korea selbst: Der Gründer lernte beim Studium in Japan Backen und eröffnete 2010 ein Tteok-Kaffeehaus in Busan. Im April 2013 brachte er Injeolmi Seolbing (Sesammehl-Tteok-Schneeeis) auf den Markt, bei dem Eis fein geschabt wurde, mit Sojabohnenmehl und Reiskuchen bestreut wurde, und etablierte damit die Schneeeis-Marke.[^6]
 
-## Traditionelles Crushed Ice: Erinnerungen aus der einfachen Zeit
+## Die Volksgedächtnis des traditionellen Shaved Ice
 
-Obwohl Schneeeis gerade erst aufstrebend ist, behält traditionelles Crushed Ice weiterhin einen wichtigen Platz im Herzen der Taiwanesen. Die grobe Konsistenz der Eiswürfel und die vielfältigen Kombinationsmöglichkeiten erinnern viele an ihre Kindheit im Sommer.
+Obwohl das Schneeeis populär war, behielt das traditionelle Shaved Ice einen wichtigen Platz im Herzen der Menschen in Taiwan. Die raue Eisstruktur und die vielfältigen Zutaten waren für viele ein prägendes Bild ihrer Kindheit im Sommer.
 
-Traditionelle Crushed-Ice-Stände bieten in der Regel ein Dutzend verschiedene Zutaten zur Auswahl: Rote Bohnen, grüne Bohnen, Gerste, Tausendblütensenflocken, Früchte, Kleie und andere. Kunden können beliebig kombinieren und so ihre persönlichen Geschmäcker kreieren. Dieses Konzept der Individualisierung erschien bereits Jahrzehnte vor der modernen personalisierten Service-Ära.
+Traditionelle Shaved Ice Stände boten oft mehr als zehn verschiedene Zutaten: rote Bohnen, grüne Bohnen, Job'in (薏仁), Schleiereis (仙草), Ai Yu (愛玉), Teigwaren und Taro-Bällchen usw. Die Kunden konnten diese frei kombinieren und so ihren eigenen einzigartigen Geschmack kreieren. Dieses Konzept der „Individualisierung“ existierte Jahrzehnte vor dem modernen personalisierten Service.
 
-Die Crushed-Ice-Stände in den Nachtmärkten sind ein wichtiges Symbol der taiwanesischen Kultur. An heißen Sommernächten kann eine Schüssel kühles Crushed Ice die Müdigkeit des Tages in Sekunden beseitigen. Die geschickten Bewegungen der Verkäufer beim Eiszapfen, Hinzufügen der Zutaten und Übergießen mit Sirup sind wie ein unterhaltsames Theaterstück.
+Die Shaved Ice Stände auf den Nachtmärkten sind ein wichtiges Symbol der taiwanesischen Kultur. In einer heißen Sommernacht kann eine Schale erfrischendes Eis die Müdigkeit des Tages augenblicklich vertreiben. Die geschickten Bewegungen des Standbetreibers beim Schaben, Zupfen und Gießen von Sirup ähneln einer spannenden Vorstellung.
 
-In letzter Zeit begann einige etablierte Crushed-Ice-Läden, auf den Retro-Trend zurückzugehen und traditionelle Handwerkskunst und Nostalgie zu betonen. Diese „Retro-Crushed Ice“-Bewegung zog nicht nur nostalgische alte Kunden an, sondern ließ auch junge Menschen die Magie der traditionellen Eiscreme erleben.
+In jüngerer Zeit haben einige alte Shaved Ice Läden eine Retro-Welle ausgelöst und betonen das traditionelle Handwerk und die nostalgische Stimmung. Dieses „Retro-Shaved Ice“ zieht nicht nur nostalgische Stammkunden an, sondern ermöglicht auch jungen Menschen, den Reiz der traditionellen Eiswaren zu erleben.
 
-## Die Kultur, im Winter Eis zu essen
+## Das kulturelle Phänomen des Essens von Eis im Winter
 
-Die Gewohnheit der Taiwanesen, im Winter Eis zu essen, verwirrt oft ausländische Besucher. Selbst bei Temperaturen von 10 Grad sind die Eisdielen weiterhin voller Kunden. Dieses Phänomen hat seine kulturellen und psychologischen Gründe.
+Die Gewohnheit der Taiwaneser, im Winter Eis zu essen, verwirrt oft Ausländer. Selbst bei Temperaturen um die 10 Grad sind die Eisdielen belebt. Hinter diesem Phänomen stehen kulturelle und psychologische Faktoren.
 
-Erstens ist die Verbreitung von Innenraumheizung weit verbreitet. In Einkaufszentren, Restaurants und Büroräumen in Taiwan ist die Raumtemperatur angenehm warm. Bei angenehmen Innenräumen kann man Eiscreme genießen, ohne sich kalt zu fühlen.
+Erstens besteht ein Bedürfnis nach „Stimmungsregulierung“. Der süße Geschmack der Eiswaren vermittelt Freude, besonders in einem modernen Leben mit hohem Druck. Unabhängig von der Jahreszeit benötigen die Menschen diese kleine Freude.
 
-Zweitens gibt es den Bedarf an emotionaler Regulierung. Der süße, erfrischende Geschmack von Eiscreme bringt Freude, besonders in stressigen modernen Lebensbedingungen. Unabhängig von der Jahreszeit brauchen Menschen diese kleinen Freuden.
+Das „soziale Bedürfnis“ ist ebenfalls zentral. Mit Freunden Eis zu essen ist zu einer sozialen Aktivität für die Taiwaneser geworden. Dieses soziale Muster hält an, egal wie das Wetter ist.
 
-Drittens ist soziale Interaktion ein weiterer wichtiger Aspekt. Gemeinsam Eis zu essen ist bereits zu einer sozialen Aktivität der Taiwanesen geworden. Unabhängig von den Wetterbedingungen wird diese soziale Interaktion aufrechterhalten.
+Außerdem ist das Klima in Taiwan im Winter relativ mild und nicht so kalt wie im Norden. Unter diesen klimatischen Bedingungen ist das Essen von Eis im Winter keine extreme Handlung.
 
-Schließlich ist das Klima Taiwans im Winter relativ mild, im Gegensatz zu nördlichen Regionen. Unter solchen klimatischen Bedingungen ist es nicht zu extrem, im Winter Eis zu essen.
+## Signature-Eisdielen: Vom alten Laden zum neuen Brand
 
-## Berühmte Eisdielen: Von etablierten Marken bis zu neuen Kandidaten
+Die Menschen in verschiedenen Generationen haben ikonische Eisdielen. **Xinfadiing** in Taichung begann 1938 mit dem Verkauf von Honigbohneneis, und bei Berichten im Jahr 2018 hatte die Schwiegertochter Cai Fengyun das Geschäft an drei Töchter weitergegeben, wobei jede eine eigene Filiale betrieb.[^2] **NINAO** in Tainan repräsentiert hingegen die neue Generation des Spaziergangs-Desserts und der italienischen Eiscreme, gegründet von Li Yu.[^7]
 
-Jede Generation Taiwans hat ihre ikonischen Eisdielen. Tainens **Mingji Ice House** und die Eisstände in den Märkten sind Alltagsthemen für Einheimische, viele davon sind inzwischen in der dritten Generation; **Xingfa Tang Honeydew Ice** in Taichung ist wegen seiner Honigmelonen-Eiscreme berühmt und zieht auch im Winter lange Schlangen an. **Quanwa House (Never Ice Cream)** in Taipeh steht für die neue Generation von Premium-Eiscreme, mit lokal inspirierten Geschmacksrichtungen und bewusst niedriger Markenpräsenz, die in den 2010er-Jahren international Aufmerksamkeit erregte.
+In Taichung gibt es auch einen alten Laden, dessen Name das Essen von Eis im Winter widerspiegelt. 1946 wechselte Chen Dewang vom Bau von Holzbadewannen zum Verkauf von Schwarztee-Eis mit einer Kugel Eis auf einem Schubkarren. Später wurde er zu einer Schale aus Pflaumeneis, einem Löffel Honigbohnen und zwei Kugeln Milcheis. Die dritte Generation, Chen Liwei, sagte, dass auch im Winter Kunden kamen, die ihn „Verrückter verkaufen, Verrückte essen“ nannten, weshalb es "Crazy People Ice" genannt wurde. Der Laden liegt neben der Taichung First Middle School, und sein Großvater änderte den Namen zu Yizhong Fengren Ice durch einen Klangwitz.[^8]
 
-Im Osten ist **Hualien Zhenyu Yam Ice City** ein Muss für jeden Touristen, bekannt für seine echten Yams-Eisstäbchen und Yams-Spezialitäten; **Lijiang Ice** (Oststadt-Filiale) in Tainan ist ein Pilgerort für Eisliebhaber, mit grüner Bohneneis und Teetee-Eis als Highlights. Die gemeinsamen Merkmale dieser etablierten Marken sind: keine Kettenfilialen, kein Werbebudget, sondern Vertrauen durch Generationen.
+## Die vielfältige Entwicklung lokaler Spezialeiswaren
 
-## Regionale Spezialitäten und vielfältige Entwicklungen
+Jede Region in Taiwan hat ihre eigene Eisikkultur entwickelt; allein die Stadt Taichung hat zwei Rezepturen: Honigbohneneis und Fengren Ice. Diese lokalen Spezialeiswaren kombinieren oft lokale Zutaten und kulturelle Elemente.
 
-In ganz Taiwan gibt es einzigartige regionale Eiscremekulturen. Knoblauch-Eiscreme in Ilan, Honigmelonen-Eis in Taichung, Mantou-Eiscreme in Tainan und Süßkartoffel-Eiscreme in Hualien – jede Region hat ihre eigene kreative Variante entwickelt.
-
-Diese regionalen Spezialitäten verbinden oft lokale Zutaten und kulturelle Elemente. Wie zum Beispiel die Kumquat-Eiscreme in Kinmen, die die lokale Kumquat-Bräuche in die Eiscreme integriert. Die Alkoholische Eisstange in Matsu ist ein ähnliches Konzept.
-
-Die Eiscremekultur der indigenen Völker ist ebenfalls einzigartig. Eiscreme, die aus traditionellen Zutaten wie Gerste, Rote Bohnen und Wildkräutern hergestellt wird, schmeckt nicht nur anders, sondern bewahrt auch die kulinarische Kultur der indigenen Völker.
-
-Diese unabhängige Entwicklung verleiht der taiwanesischen Eiscreinkarte eine deutliche regionale Charakteristik und erhöht den Reiz für den Tourismus.
+Diese eigenständige Entwicklung verleiht der taiwanesischen Eislandkarte eine deutliche regionale Färbung und erhöht den Anziehungspunkt für den Tourismus.
 
 ## Gesundheitsbewusstsein und innovative Trends
 
-Mit zunehmendem Bewusstsein für die Gesundheit entwickelte sich die taiwanesische Eiscreme in Richtung eines gesünderen Lebensstils. Zuckerarme Eiscreme, zuckerfreie Varianten und Eiscreme mit natürlichen Süßstoffen gewannen an Popularität.
+Mit dem gestiegenen Gesundheitsbewusstsein entwickeln sich die taiwanesischen Eiswaren auch in Richtung gesünderer Optionen. Zuckerarme, zuckerfreie oder mit natürlichen Süßungsmitteln hergestellte Eissorten gewinnen an Aufmerksamkeit.
 
-Fruchtbasierte Eiscreme ist besonders beliebt. Die natürliche Süße und nährstoffreiche Früchte entsprechen dem modernen Bedürfnis an einem gesunden Lebensstil. Passionsfrucht-Eis, Kiwi-Eis und Avocado-Eis sind zu beliebten Optionen geworden.
+Fruchtige Eiswaren sind besonders beliebt. Der natürliche Geschmack und der reichhaltige Nährwert frischer Früchte entsprechen den modernen Gesundheitsanforderungen. Passionsfrucht-Eis, Kiwis-Eis und Avocado-Eis sind beliebte Entscheidungen.
 
-Die Verwendung von Bio-Zutaten ist ebenfalls ein Trend. Bio-Milch, Bio-Früchte und natürliche Farbstoffe machen die Eiscreme nicht nur lecker, sondern auch sicher.
+Die Verwendung von Biozutaten ist ebenfalls ein Trend. Bio-Milch, Biofrüchte und natürliche Farbstoffe machen die Eiswaren nicht nur lecker, sondern auch sicherer.
 
-Das Konzept der funktionellen Eiscreme ist ebenfalls entstanden. Durch das Hinzufügen von Kollagen, Vitaminen und Probiotika wird die Eiscreme zu einer Kombination aus Genuss und Gesundheit.
+Das Konzept der funktionellen Eiswaren taucht ebenfalls auf. Eissorten, denen Kollagen, Vitamine oder Probiotika zugesetzt wurden, verbinden Genuss mit Gesundheit.
 
-## Internationalisierung und Marktexport
+## Internationalisierung und Markenexport
 
-Die taiwanesischen Eiscrememarken sind international aktiv. Neben ICE MONSTER gibt es viele andere Marken, die auf dem internationalen Markt Fuß fassen. Diese Marken exportieren nicht nur Produkte, sondern auch die taiwanesische Eiscremekultur.
+Die Internationalisierung der taiwanesischen Eismarken beschleunigt sich. Neben ICE MONSTER wagen viele andere Marken den Schritt in internationale Märkte. Diese Marken exportieren nicht nur Produkte, sondern auch die taiwanesische Eisikkultur.
 
-Im Ausland werden taiwanesische Eisdielen oft zu Treffpunkten für einheimische Chinesen und auch zu einem Fenster für ausländische Besucher, um die taiwanesische Kultur zu erleben. Durch kulinarische Diplomatie verbreitet die taiwanesische Eiscreme die Kultur auf der ganzen Welt.
+Eisdielen in Übersee werden oft zu Treffpunkten für chinesische Gemeinschaften und dienen als Fenster für Ausländer, um die taiwanesische Kultur kennenzulernen. Durch kulinarische Diplomatie säen die taiwanesischen Eiswaren weltweit kulturelle Samen.
 
-Der Export von Technologien ist ebenfalls ein wichtiger Entwicklungsschritt. Schneeeismaschinen, Kühlungstechnologien und Rezepturen für Zutaten werden international lizenziert. Taiwan wandelt sich von einem Verbraucherland für Eiscreme zu einem Exporteur von Eiscremetechnologie und -kultur.
+Der Technologieexport ist ebenfalls eine wichtige Entwicklungsrichtung. Schneeeismaschinen, Eisherstellungstechniken und Zutatenrezepte bieten internationale Lizenzgeschäfte. Taiwan wandelt sich von einem Konsumland für Eis zu einem Exporteur von Eistechnologie und -kultur.
 
-Die tiefere Logik der taiwanesischen Eiscremekultur ist: In jeder Ära verwandelten Menschen die leicht zugänglichen Zutaten in Eiscremesprache – die Kühlmaschinen während der japanischen Kolonialherrschaft, die Crushed-Ice-Maschinen nach dem Krieg, die Schneeeismaschinen in den 1990er-Jahren und die Premium-Milchprodukte in den 2010er-Jahren. Die Formen ändern sich, aber die Leidenschaft für Eis bleibt gleich.
+Die zugrundeliegende Logik der taiwanesischen Eisikkultur ist: In jeder Ära hat jemand die am leichtesten verfügbaren Zutaten in eine "Eis-Sprache" umgewandelt – die Eismaschine der japanischen Kolonialzeit, der Shaved Ice Wagen nach dem Krieg, die Schneeeisblöcke der 1980er Jahre, das hochwertige Milchprodukt der 2010er Jahre. Die Form ändert sich, aber die Hartnäckigkeit beim Eisessen bleibt unverändert.
 
-## Bildnachweise
+## Bildquellen
 
-- Hero：Taipeh-Mangguo-Bing, Fotografie SuperMidget (English Wikivoyage), [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taipei_mangguobing.JPG), Public domain。
+- Hero: Mangobeis aus Taipeh, Foto SuperMidget (English Wikivoyage), [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taipei_mangguobing.JPG), Public Domain.
 
 ## Referenzen
 
-[^1]: [ICE MONSTER Markenwebsite](https://www.icemonster.com.tw/) — Markenentwicklung, einschließlich der Gründung von Yongkang 15 Ice House im Jahr 1995 und der Umbenennung und Umzug im Jahr 2010.
+[^1]: [Wikipedia: Shaved Ice](https://zh.wikipedia.org/wiki/%E5%89%89%E5%86%B0) — – Der Artikel über das taiwanesische Shaved Ice beschreibt die Einführung der Eisherstellungstechnologie aus Japan während der japanischen Kolonialzeit, wobei Qingbing als früheste Form genannt wird und verschiedene Eissorten wie Schneeeis, Mianmian Bing und Blaseneis sowie gängige Zutaten auflistet
 
-[^2]: [Tourism Authority of Taiwan „Taiwan Food“-Offizielle Seite](https://www.taiwan.net.tw/) — Vorstellung typischer taiwanesischer Eiscreme, einschließlich Mangguo-Bing und Schneeeis.
+[^2]: [Mirror Weekly: 【Taiwan Old Shops】Die Frau hinter dem Honigbohneneis](https://www.mirrormedia.mg/story/20180817bus001) — – Ein Bericht aus dem Jahr 2018, der beschreibt, wie Xinfadiing ursprünglich unter dem Namen Xinfadiing existierte und Chen Xi im Jahr 1938 das Honigbohneneis inspiriert durch die japanische Vier-Obst-Kultur entwickelte. Er verkaufte es mit einem Schubkarren am Bahnhof von Taichung und eröffnete 1943 einen Stand auf dem First Market, der später an drei Töchter weitergegeben wurde.[^2]
 
-[^3]: [CNN Travel: Bericht über taiwanesische Mango-Eiscreme](https://edition.cnn.com/travel) — Internationale Medienberichterstattung über taiwanesische Mango-Eiscreme, mit ICE MONSTER und Yuqing-Mangguo-Bing als repräsentativen Beispielen.
+[^3]: [Wang Junchang, „Entwicklung verwandter Industrien in Taiwan während der japanischen Kolonialzeit: Am Beispiel der Eis- und Kühlindustrie“, _Journal of Ocean Culture_, Band 21 (2016)](https://scholars.ntou.edu.tw/handle/123456789/10693) — – Die Zusammenfassung des Artikels weist auf das deutliche Wachstum der taiwanesischen Fischerei in der zweiten Hälfte der 1920er Jahre hin, wobei die Eis- und Kühlindustrie als verwandte Branche Einfluss nahm
 
-[^4]: [Lonely Planet Taiwan: Food Guide](https://www.lonelyplanet.com/taiwan) — Reiseleitfaden für internationale Besucher, der die taiwanesische Eiscremekultur und empfohlene Geschäfte vorstellt.
+[^4]: [Mirror Weekly: ICE MONSTER Luo Junhua gründet und startet neu](https://www.mirrormedia.mg/story/20190529bus002) — – Ein Bericht aus dem Jahr 2019, der beschreibt, wie Luo Junhua im Jahr 1997 mit seiner Ex-Ehefrau Chang Jimei das ICE MONSTER Eisgeschäft in Yongkang Street eröffnete. Nach einem plötzlichen Schließen im Jahr 2010 startete er 2012 unter dem Namen ICE MONSTER auf der Zhongxiao East Road, und sieben Jahre später gab es 19 Filialen in Taiwan und im Ausland; der Artikel bezeichnet ihn als den Erfinder des ersten Mangobeis in ganz Taiwan
 
-[^5]: [Wikipedia: ICE MONSTER](https://zh.wikipedia.org/wiki/ICE_MONSTER) — Geschichte der Marke ICE MONSTER, einschließlich des Ursprungs „Yongkang 15 Ice House“ und internationaler Erweiterungen.
+[^5]: [Mirror Weekly: 【Taiwan Old Shops】Die echte Handwerkskunst hinter dem Eisblock – Die zweite Generation hat es geschafft](https://www.mirrormedia.mg/story/20170612bus002) — – Ein Bericht aus dem Jahr 2017, der Xinfadiing auf dem Shilin Nachtmarkt beschreibt und erwähnt, dass Schneeeis bereits vor dreißig Jahren existierte. In den 80er Jahren entwickelte die zweite Generation das Schneeflockeneis, das zum ersten Spezialgeschäft für Schneeflockeneis in Nord-Taiwan wurde, wobei die Eisblöcke sieben Stunden lang hergestellt wurden
 
-[^6]: [Kakigōri — Wikipedia](https://zh.wikipedia.org/wiki/%E5%89%89%E5%86%B0) — Geschichte der japanischen Eiscremekultur und deren Einführung in Taiwan während der japanischen Kolonialherrschaft sowie die Entwicklung der Zutaten der traditionellen Crushed Ice.
+[^6]: [Newsis: Die Geschichte der Entstehung einer langlebigen Marke – Koreanisches Dessert Seolbing](https://www.newsis.com/view/NISX20220107_0001716438) — – Ein koreanischer Bericht aus dem Jahr 2022 erwähnt, dass der Vorgänger von Seolbing ein Tteok-Kaffeehaus in Nanpo-dong, Busan, war. Der Gründer lernte beim Studium in Japan Backen und brachte im April 2013 das Injeolmi Seolbing auf den Markt
 
-## Weiterführende Literatur
+[^7]: [Marie Claire: Das taiwanesische Bäckerei „NINAO“ eröffnet](https://www.marieclaire.com.tw/lifestyle/taste/71756) — – Ein Bericht aus dem Jahr 2023, der die Marke NINAO (NINAO Gelato) in Tainan und ihren Gründer Li Yu vorstellt
 
-- [ICE MONSTER](https://www.icemonster.com.tw/) — Offizielle Website der Marken-Eiscreme in Taipeh
-- [Yuqing Landwirtschaftliche Kooperative](/food/玉井芒果) — Vorstellung des Anbaugebiets für Aiwen-Mangos in Tainan
+[^8]: [Mirror Weekly: 【Taiwan Old Shops】Yizhong Fengren Ice: Die menschliche Wärme des Crazy People Ice](https://www.mirrormedia.mg/story/20170308bus001) — – Ein Bericht aus dem Jahr 2017, der beschreibt, wie Chen Dewang im Jahr 1946 mit dem Verkauf von Eis auf Schubkarren begann. Eine Schale Pflaumeneis, ein Löffel Honigbohnen und zwei Kugeln Milcheis wurden serviert. Die dritte Generation, Chen Liwei, erklärt die Herkunft des Namens "Crazy People Ice" und Yizhong Fengren Ice
+
+## Weiterführende Lektüre
+
+- [Bapupu Eis](/de/food/ba-pu-ice-cream) – Das traditionelle Eis auf dem Schubkarren, eine weitere Linie der Entwicklung der taiwanesischen Eiswaren im Wandel der Zeiten
+- [Yongkang Street](/de/geography/yongkang-street) – Der Bezirk mit den Eisdielen und Mangobeis, der von Showa Town zu einer Touristenstraße transformiert wurde.
