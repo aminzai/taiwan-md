@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-10T05:44:00+08:00",
-    "zhCommitHead": "eb0351da6",
+    "lastUpdated": "2026-10-10T06:16:55+08:00",
+    "zhCommitHead": "b937577b8",
     "totalZh": 1125,
     "activeLanguages": [
       "en",
@@ -92,8 +92,8 @@
       },
       "ar": {
         "total_zh": 1125,
-        "fresh": 1124,
-        "stale": 1,
+        "fresh": 1125,
+        "stale": 0,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -167748,8 +167748,8 @@
           "sourceContentHash": "sha256:a603b4a8bf5b1742",
           "sourceBodyHash": "sha256:05bf89cfacdb7f7b",
           "translatedAt": "2026-10-10T03:18:13+08:00",
-          "translationLastCommit": "4894cc1d",
-          "translationLastModified": "2026-09-25T11:26:29+08:00",
+          "translationLastCommit": "8580835d",
+          "translationLastModified": "2026-10-10T05:44:00+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "bytes": 20244,
@@ -197846,20 +197846,18 @@
         "ar": {
           "path": "ar/Geography/kaohsiung-city.md",
           "translatedFrom": "Geography/高雄市.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:981f398813aadaf3",
-          "sourceBodyHash": "",
-          "translatedAt": "2026-09-24T20:37:09.236482+00:00",
+          "sourceCommitSha": "14d341be5",
+          "sourceContentHash": "sha256:fc56bc9d7fe842c2",
+          "sourceBodyHash": "sha256:d9c17350b5714f5f",
+          "translatedAt": "2026-10-09T21:45:13.978213+00:00",
           "translationLastCommit": "5a077286",
           "translationLastModified": "2026-09-25T05:43:31+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "bytes": 96926,
+          "bytes": 99226,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "zh-moved-forward",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -6"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Geography/kaohsiung-city.md",
