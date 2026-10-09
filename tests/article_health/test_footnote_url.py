@@ -71,3 +71,39 @@ def test_disabled_without_network_flag(tmp_path, monkeypatch):
     target = _target(tmp_path, f"## 參考資料\n\n- [死的來源]({DEAD})\n")
     monkeypatch.setattr(footnote_url, "_check_url", _fake_check)
     assert list(footnote_url.check(target, {})) == []
+
+
+def test_h3_heading_and_numbered_list_are_checked(tmp_path, monkeypatch):
+    # 2026-10-09 晚間心跳：〈台灣全齡共融旅遊與生活文化〉寫成 `### 參考資料 / Sources`
+    # 底下的 `1. [標題](網址)`，舊尺只認 `## 參考資料` 與 `-`／`*` 清單，十條一條都沒量
+    target = _target(
+        tmp_path,
+        "正文。\n\n### 參考資料 / Sources\n\n"
+        f"1. [活的來源]({ALIVE})\n"
+        f"2. [死的來源]({DEAD})\n",
+    )
+    vs = _run(target, monkeypatch)
+    assert [v.snippet for v in vs] == [DEAD]
+
+
+def test_redirect_to_homepage_counts_as_unreachable():
+    # 內政部、國健署把下架內頁轉回首頁，回 200
+    assert footnote_url._redirected_home(
+        "https://www.moi.gov.tw/News_Content.aspx?n=9&s=322560",
+        "https://www.moi.gov.tw/default.aspx",
+    )
+    assert footnote_url._redirected_home(
+        "https://www.hpa.gov.tw/Pages/List.aspx?nodeid=3869",
+        "https://www.hpa.gov.tw/Home/Index.aspx",
+    )
+
+
+def test_ordinary_redirects_are_not_homepage():
+    # http→https、首頁轉首頁、內頁轉另一個內頁都不算
+    assert not footnote_url._redirected_home("http://www.goodtours.com.tw/", "https://www.goodtours.com.tw/")
+    assert not footnote_url._redirected_home(
+        "https://youtube.com/shorts/DedWMkt1zq4", "https://www.youtube.com/shorts/DedWMkt1zq4"
+    )
+    assert not footnote_url._redirected_home(
+        "https://example.org/old/page", "https://example.org/index.php?id=12"
+    )
