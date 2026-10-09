@@ -332,6 +332,17 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-10-09 twmd-maintainer-daily — rebase-invalidates-hashes-already-written-into-prose：收官寫完才撞上 push race，memory 與公開留言裡的 commit hash 全部指向不存在的 commit
+
+- **pattern**: rebase-invalidates-hashes-already-written-into-prose
+- **原則**：`git pull --rebase` 重寫本機 commit 的 SHA，而收官流程的順序是**先寫 memory（含 hash）再 push**。所以每一次 push race 都會讓剛寫完的那份 memory、剛 append 的 LESSONS 條目、以及已經送出去的公開留言裡的 hash **全部失效**。失效的方向最糟：它們不是消失，是指向一個不存在的 commit——**錯的 hash 看起來跟對的一樣可驗證**，而讀的人要真的去 `git show` 才會發現，通常沒有人會。
+- **觸發**：2026-10-09 本班四個 commit 寫完 memory 與三條 LESSONS、並在 PR #1699 的公開留言裡附了 `Commit: a20045a67` 之後，push 前 `git fetch` 才發現另一台的 heartbeat 推了 8 個 commit（`5 8` 真分岔）。照 MAINTAINER §Step 4.3 `pull --rebase` 收掉之後五個 SHA 全變（`976e89775`→`6de1f2ebe`、`a20045a67`→`58392ee24`、`3516e543e`→`f2b11a541`、`461a9631e`→`8527af7ee`、`28e377d38`→`f959c3976`），六處散文引用與一則**已經送出去的**公開留言同時變成死參照。本班 push 後回頭掃 `grep -rn '<舊 sha>' docs/ config/` 逐處改掉、逐個 `git log -1` 驗過新 hash 真的解析得到，並用 `gh api -X PATCH` 修掉那則留言。
+- **為什麼既有 SOP 沒擋住**：MAINTAINER §Step 4.3 寫了 push race 的處置（`pull --rebase` 後重 push、手動解 MEMORY／DIARY anchor 衝突），但只講**檔案內容**的衝突，沒講**已寫下的 hash 會失效**。MEMORY-PIPELINE §Stage 5 的順序是「寫 memory → 加 index row → commit → push」，hash 在 commit 之後才存在、卻在 push 之前就被寫進散文，中間剛好是 race 窗口。兩份 pipeline 各自都對，縫在它們的交界。
+- **可能層級**：MEMORY-PIPELINE §Stage 5 加一步（收官 push 完成後，`grep` 本次 session 寫下的所有 hash 並逐個 `git log -1` 驗證解析得到；有 rebase 就回頭改），或更前面一步——**散文裡的 hash 一律在最後一次 push 成功之後才填**，寫作時留 `{{HASH}}` 佔位。後者治根，前者便宜。
+- **候選機械化**：收官 commit 前跑一支 `verify-cited-hashes.py`：掃本次 session 新增／修改的 `docs/semiont/{memory/*,MEMORY.md,LESSONS-INBOX.md,DIARY.md}` 行內所有 7-12 位 hex 字樣，對每個跑 `git cat-file -e`，不存在就 fail-loud。判準機械、零誤判空間（hex 字樣誤命中時 `cat-file` 自己會說不是物件）。公開留言那一層沒辦法機械化，只能靠「hash 最後填」的紀律。
+- **相關**：REFLEXES #93（手抄自動代換的值——這裡是手抄一個**會被改寫**的值）、#82（proxy signal：hash 的存在代理「這件事可追溯」，而死 hash 兩者都不成立）、#68（多核心 git 協調 commit/push/CI 三階段碰撞防護，本例是第四個碰撞面：已寫下的參照）、#97（交接面完整性）、MAINTAINER §Step 4.3、MEMORY-PIPELINE §Stage 5
+- **verification_count**: 1
+
 ### 2026-10-09 semiont-heartbeat — present-tense-claim-sourced-before-the-change-it-describes：用現在式寫店家與機構，來源卻比寫作時間舊，文章出生那天就已經過期
 
 - **pattern**: present-tense-claim-sourced-before-the-change-it-describes
@@ -346,11 +357,12 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **相關**：REFLEXES #98「真原子放錯槽位」的時間版（原子對、時點錯）；#67「已驗過帶被驗時刻的時間戳」（那條是驗證的時間戳，這條是來源的時間戳）；FACTCHECK §Drift Modes 6「從某年起算到今天的年數，改寫成不會過期的說法」是同一族的數字版
 - **verification_count**: 3
 - **structural**: true
+
 ### 2026-10-09 twmd-maintainer-daily — positive-controls-only-cover-shapes-the-author-imagined：十三個測試加三個正控制全綠，而它們的 fixture 全是作者手寫的單層結構
 
 - **pattern**: positive-controls-only-cover-shapes-the-author-imagined
 - **原則**：正控制（餵已知的壞輸入、確認工具真的會叫）是對的紀律，但它的覆蓋面等於**作者當時想像得出來的輸入形狀**。合成 fixture 是作者寫的，所以它繼承作者的盲點；真實輸入的結構複雜度（巢狀、傳遞、互相參照）通常高一個量級。於是會出現一種很難懷疑的狀態：測試數量很多、正控制也跑過、工具上線第一天就讀錯真實資料。**「驗過」的強度上限是 fixture 的真實度，不是測試的條數。**
-- **觸發**：`npm-audit-sweep.sh` 2026-10-08 上線，當天 13 個 pytest ＋ 三個正控制（真紅 exit 1／量不到 🟡＋strict 1／乾淨 ✅）全綠。10-09 它面對上線後第一個真紅，五條公告讀錯一條：`harvest/ui` 的 `fast-glob` 標成 `fix=minor`，於是總結印「剩下的在小版本內修得掉」並指示下一班跑 `npm audit fix --package-lock-only`——那個指令對這五條**零改動**（實測跑完 lockfile 一個字沒變，npm 自己說的是 `fix available via npm audit fix --force / Will install tailwindcss@4.3.3, which is a breaking change`）。病根是把 npm 的裸 `fixAvailable: true` 當成「在小版本內修得掉」，而 npm 把 `isSemVerMajor` 放在**真正要動的那個祖先**上，傳遞依賴只拿到裸 true：`fast-glob` 的 `via` 指向 `micromatch`，後者回 `{tailwindcss@4.3.3, isSemVerMajor: true}`。既有 fixture 全是**單層、無 `via` 欄位**的合成公告，所以「裸 true 其實卡在祖先的 major」這個形狀一次都沒被餵進去過。已修（`976e89775`）：裸 true 先沿 `via` 走一遍，找到 major 祖先就繼承判定並計入 blocked；補三個測試（繼承 major／反向無 major 祖先維持 minor／`via` 指著自己不無限繞），五條現在全印 MAJOR、誤導那行不再出現，720 passed。
+- **觸發**：`npm-audit-sweep.sh` 2026-10-08 上線，當天 13 個 pytest ＋ 三個正控制（真紅 exit 1／量不到 🟡＋strict 1／乾淨 ✅）全綠。10-09 它面對上線後第一個真紅，五條公告讀錯一條：`harvest/ui` 的 `fast-glob` 標成 `fix=minor`，於是總結印「剩下的在小版本內修得掉」並指示下一班跑 `npm audit fix --package-lock-only`——那個指令對這五條**零改動**（實測跑完 lockfile 一個字沒變，npm 自己說的是 `fix available via npm audit fix --force / Will install tailwindcss@4.3.3, which is a breaking change`）。病根是把 npm 的裸 `fixAvailable: true` 當成「在小版本內修得掉」，而 npm 把 `isSemVerMajor` 放在**真正要動的那個祖先**上，傳遞依賴只拿到裸 true：`fast-glob` 的 `via` 指向 `micromatch`，後者回 `{tailwindcss@4.3.3, isSemVerMajor: true}`。既有 fixture 全是**單層、無 `via` 欄位**的合成公告，所以「裸 true 其實卡在祖先的 major」這個形狀一次都沒被餵進去過。已修（`6de1f2ebe`）：裸 true 先沿 `via` 走一遍，找到 major 祖先就繼承判定並計入 blocked；補三個測試（繼承 major／反向無 major 祖先維持 minor／`via` 指著自己不無限繞），五條現在全印 MAJOR、誤導那行不再出現，720 passed。
 - **副產物**：這同時獨立核過了 OBSERVER-QUEUE #94 的判斷——3.x 真的沒有任何版本收得掉，唯一修法仍是升 tailwindcss 4。那一格的結論沒變，變的是通往它的那支尺不再自相矛盾。
 - **可能層級**：通用反射（驗證層）。候選判準：**工具上線後第一次面對真實資料時，拿真實輸出回頭補一個 fixture**，而不是等它讀錯被下一班撞到；或更強的版本——新儀器的驗收要求至少一個 fixture 是從真實資料 dump 出來的，不是手寫的。
 - **相關**：REFLEXES #99（尺先驗再用／新尺的讀數在抽驗之前不可引用——這次抽驗做了，但抽的是合成樣本）、#66（門檻要用真實產出 dogfood 校準，不是憑想像設——同一條原則在 fixture 層的形狀）、#24（工具在說謊：這是第 N 種——「測試全綠的工具」）、#65（偵測器自己要對賬 ground truth）、MAINTAINER §Step 1.5c
@@ -360,7 +372,7 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 - **pattern**: checker-counts-presence-not-multiplicity
 - **原則**：存在性檢查有兩種問法，而只有一種被寫出來。「該有的有沒有」（缺漏偵測）跟「有的是不是剛好一個」（重複偵測）需要不同的計數方式，但前者讀起來就像完整的檢查，所以後者常常沒人補。結果是**重複永遠不會讓任何一道閘門變紅**——它不缺任何東西，它多一個東西，而多出來的那一個滿足所有「存在」斷言。
-- **觸發**：昨天合併 PR #1801 之後，〈楊德昌〉在德文同時有 `de/People/edward-yang.md`（tboydar，09-09）與 `de/People/yang-dechang.md`（aminzai，10-07），兩個 `translatedFrom` 都指向 `People/楊德昌.md`，而且**兩個網址都回 200**——讀者可以在兩個德文網址讀到同一篇。`check-slug-consistency.py --all` 今天照印 `✅ 12376 檔全部與 en 對齊`：它問的是「該語言有沒有 en 那個 slug 的檔」，`yang-dechang` 在，所以綠；`edward-yang` 多出來，它沒有任何一條規則在看。真正叫出來的是**每日刷新的逐語言篇數對不上**（德文比其他語言多一篇），也就是說這件事是被總數的落差發現的，不是被任何逐檔檢查器發現的。全庫掃過確認是單例：十二語、13,554 組（語言 × 來源）配對裡只有這一組重複（REFLEXES #24 單例不代表集群——這次量完確認它真的是單例，但量之前不知道）。已修（`a20045a67`）：保留 en 與十二語共用的 slug、退役另一個並補 301（那條路徑從 09-09 就在線上），重複 1 → 0。
+- **觸發**：昨天合併 PR #1801 之後，〈楊德昌〉在德文同時有 `de/People/edward-yang.md`（tboydar，09-09）與 `de/People/yang-dechang.md`（aminzai，10-07），兩個 `translatedFrom` 都指向 `People/楊德昌.md`，而且**兩個網址都回 200**——讀者可以在兩個德文網址讀到同一篇。`check-slug-consistency.py --all` 今天照印 `✅ 12376 檔全部與 en 對齊`：它問的是「該語言有沒有 en 那個 slug 的檔」，`yang-dechang` 在，所以綠；`edward-yang` 多出來，它沒有任何一條規則在看。真正叫出來的是**每日刷新的逐語言篇數對不上**（德文比其他語言多一篇），也就是說這件事是被總數的落差發現的，不是被任何逐檔檢查器發現的。全庫掃過確認是單例：十二語、13,554 組（語言 × 來源）配對裡只有這一組重複（REFLEXES #24 單例不代表集群——這次量完確認它真的是單例，但量之前不知道）。已修（`58392ee24`）：保留 en 與十二語共用的 slug、退役另一個並補 301（那條路徑從 09-09 就在線上），重複 1 → 0。
 - **為什麼既有 SOP 沒擋住**：產線的待翻佇列只看 `knowledge/` 算 missing／stale，看不見開著的投稿 PR（OBSERVER-QUEUE #67 的已知缺口）；兩位投稿者用不同 slug 翻同一篇，所以檔名不撞、CI 全綠、`verify-translation` 逐檔自洽。**#67 的三個已知形狀是「產線覆蓋人」與「人要覆蓋產線」，這是第四個：兩個人各自落地，誰也沒覆蓋誰。**
 - **可能層級**：通用反射（儀器設計層）。候選機械化：`check-slug-consistency.py` 加一道「每組（語言 × `translatedFrom`）必須剛好一個檔」的斷言——判準機械、零誤判空間、全庫跑一次 13,554 組只要幾秒。
 - **相關**：REFLEXES #82（proxy signal：「expected slug 在」代理「這個語言的檔案集合是對的」）、#38（混維度的鏡像——這裡是一個斷言蓋不住兩種事實）、MEMORY §神經迴路「儀器只看見存在、看不見缺席」的**反向**（這次是看不見多餘）、OBSERVER-QUEUE #67、MAINTAINER §Step 1.1b step 5（分岔去重的「同語言同源雙檔留 origin 那份」已經是同一個判準，只是沒有常設閘門）

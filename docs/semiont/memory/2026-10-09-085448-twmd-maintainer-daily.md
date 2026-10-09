@@ -32,7 +32,7 @@ Step 3.0 的 v2.16 子規則（授權住在對話裡）在這裡救了一次：�
 
 `npm-audit-sweep.sh` 是 10-08 本班照 LESSONS `external-advisory-reddens-a-gate…`（vc=3）做的機械化，當天 13 個 pytest ＋三個正控制全綠。今天它報 `harvest/ui` 五條 high，其中 `fast-glob` 標 **`fix=minor`**，總結於是印「剩下的在小版本內修得掉」並叫下一班跑 `npm audit fix --package-lock-only`。
 
-那個指令對這五條零改動。實測跑完 lockfile 一個字沒變，npm 自己說的是 `fix available via npm audit fix --force / Will install tailwindcss@4.3.3, which is a breaking change`。病根在把 npm 的裸 `fixAvailable: true` 當成「在小版本內修得掉」：npm 把 `isSemVerMajor` 放在真正要動的那個祖先上，傳遞依賴只拿到裸 true——`fast-glob` 的 `via` 指向 `micromatch`，後者回 `{tailwindcss@4.3.3, isSemVerMajor: true}`。修在 `976e89775`：裸 true 先沿 `via` 走一遍，找到 major 祖先就繼承判定並計入 blocked，五條現在全印 MAJOR、誤導那行消失，720 passed。
+那個指令對這五條零改動。實測跑完 lockfile 一個字沒變，npm 自己說的是 `fix available via npm audit fix --force / Will install tailwindcss@4.3.3, which is a breaking change`。病根在把 npm 的裸 `fixAvailable: true` 當成「在小版本內修得掉」：npm 把 `isSemVerMajor` 放在真正要動的那個祖先上，傳遞依賴只拿到裸 true——`fast-glob` 的 `via` 指向 `micromatch`，後者回 `{tailwindcss@4.3.3, isSemVerMajor: true}`。修在 `6de1f2ebe`：裸 true 先沿 `via` 走一遍，找到 major 祖先就繼承判定並計入 blocked，五條現在全印 MAJOR、誤導那行消失，720 passed。
 
 這同時**獨立核過 #94 的判斷**：3.x 真的沒有任何版本收得掉，唯一修法仍是升 tailwindcss 4。那一格的結論沒變，變的是通往它的尺不再自相矛盾。昨天的正控制沒抓到，是因為 fixture 全是手寫的單層公告、沒有一個帶傳遞鏈。
 
@@ -40,7 +40,7 @@ Step 3.0 的 v2.16 子規則（授權住在對話裡）在這裡救了一次：�
 
 昨天合併 PR #1801 之後德文比其他語言多一篇，交接把它傳過來。查下去是 `de/People/edward-yang.md`（tboydar，09-09）與 `de/People/yang-dechang.md`（aminzai，10-07）兩個檔的 `translatedFrom` 都指向 `People/楊德昌.md`，而且**兩個網址實測各回 200**。
 
-動手前先量全庫：十二語、13,554 組（語言 × 來源）配對裡只有這一組重複，是單例不是家族。保留哪一份兩把尺同向。`yang-dechang` 是 en 與其餘十二語共用的 slug（slug 一致性的 SSOT 就是對齊 en），而 `cjk-residue-check` 對 aminzai 那份回 0 行、對 tboydar 那份回 1 行（腳註 `[^11]` 的「500輯」沒譯出）。其餘四把尺兩份都一樣乾淨。所以退役 `edward-yang`、補 301（那條路徑從 09-09 就在線上），`a20045a67`。
+動手前先量全庫：十二語、13,554 組（語言 × 來源）配對裡只有這一組重複，是單例不是家族。保留哪一份兩把尺同向。`yang-dechang` 是 en 與其餘十二語共用的 slug（slug 一致性的 SSOT 就是對齊 en），而 `cjk-residue-check` 對 aminzai 那份回 0 行、對 tboydar 那份回 1 行（腳註 `[^11]` 的「500輯」沒譯出）。其餘四把尺兩份都一樣乾淨。所以退役 `edward-yang`、補 301（那條路徑從 09-09 就在線上），`58392ee24`。
 
 查完才看到的一層：其他十二語頁面的 `hreflang="de"` **全部指向我剛退役的那個 duplicate**。下次 build 會重生成指到唯一的那個 de 檔，期間由 301 接住。也就是說這個重複不只是多一個網址，它還是十二語的 de 替代連結實際指過去的那一個。
 
@@ -54,7 +54,7 @@ PR #1802（idlccp1984）〈來來來，怎麼樣、怎麼樣〉。按診斷紀�
 
 內容的查證紀律比多數投稿好：它一路把可查證紀錄、政治人物自述、社群說法分三層講，明寫起源缺少可獨立核對的原始影音。要決的是另一件事。主角是現任立法委員、最後一段發生在上週，而標題把起源寫成「從王鴻薇的挑釁動作」，正好是正文刻意不下定論的那一點。政治立場與策展門檻是四紅線之二，缺席模式也不代理。掛 `reserved-for-observer`、PR 不關、留言只給技術事實與既有六個 subcategory 值、不承諾時程，選項與成本進 OBSERVER-QUEUE #96。
 
-順手修掉投稿者撞上的那個陷阱：閘門叫他去對 `SUBCATEGORY.md`，而那份檔案沒有 Politics 這一節（`allowed_subcategories('Politics')` 回空陣列），所以照訊息查是查不到答案的。訊息改成 SSOT 沒收該分類時改指既有文章的值並附一行跑得動的指令（`3516e543e`）。正典補不補是編輯層決定，沒代做。
+順手修掉投稿者撞上的那個陷阱：閘門叫他去對 `SUBCATEGORY.md`，而那份檔案沒有 Politics 這一節（`allowed_subcategories('Politics')` 回空陣列），所以照訊息查是查不到答案的。訊息改成 SSOT 沒收該分類時改指既有文章的值並附一行跑得動的指令（`f2b11a541`）。正典補不補是編輯層決定，沒代做。
 
 ## 七條週班沒回來是週期，不是故障
 
@@ -90,7 +90,7 @@ PR #1802（idlccp1984）〈來來來，怎麼樣、怎麼樣〉。按診斷紀�
 
 繼承 `2026-10-09-071619-twmd-feedback-triage`：
 
-- `[x]` ~~pending（本班）：〈楊德昌〉德文兩份譯本（PR #1801）~~ → retired by 本班，`a20045a67`（退役 `edward-yang`＋301，重複 1 → 0）
+- `[x]` ~~pending（本班）：〈楊德昌〉德文兩份譯本（PR #1801）~~ → retired by 本班，`58392ee24`（退役 `edward-yang`＋301，重複 1 → 0）
 - `[x]` ~~pending（本班）：404 同語言前綴雙寫家族~~ → retired by 本班：19,321 個 dist HTML 掃過，`/(lang)/(same lang)/` 雙寫前綴 **0 次命中**，證實 data-refresh 的判斷（外部爬蟲拼的，站體不產生），本機無事可修
 - `[ ]` pending（延續，收件席位 `/twmd-routine` 或 Full mode）：`git prune`（issue [#1729](https://github.com/frank890417/taiwan-md/issues/1729)）。本班每個 git 指令仍印那四行警告
 - `⏳` blocked（延續，哲宇）：`OBSERVER-QUEUE` §待決 **40 列，`#48`〜`#96`**（本班新增 #96，`observer-queue-lint` 全綠；最近到期 `#86` 10-11）
