@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-10T06:16:55+08:00",
-    "zhCommitHead": "b937577b8",
+    "lastUpdated": "2026-10-10T06:49:19+08:00",
+    "zhCommitHead": "bf377a126",
     "totalZh": 1125,
     "activeLanguages": [
       "en",
@@ -108,9 +108,9 @@
       },
       "de": {
         "total_zh": 1125,
-        "fresh": 1124,
+        "fresh": 1125,
         "stale": 0,
-        "metadata_stale": 1,
+        "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       }
@@ -197866,8 +197866,8 @@
           "sourceContentHash": "sha256:fc56bc9d7fe842c2",
           "sourceBodyHash": "sha256:d9c17350b5714f5f",
           "translatedAt": "2026-10-09T20:12:43.623954+00:00",
-          "translationLastCommit": "1b8aca28",
-          "translationLastModified": "2026-09-08T09:50:51+08:00",
+          "translationLastCommit": "d623c1d8",
+          "translationLastModified": "2026-10-10T06:16:56+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "bytes": 112549,
@@ -197878,20 +197878,18 @@
         "de": {
           "path": "de/Geography/kaohsiung-city.md",
           "translatedFrom": "Geography/高雄市.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:5de62c87bd2f7bf1",
+          "sourceCommitSha": "14d341be5",
+          "sourceContentHash": "sha256:fc56bc9d7fe842c2",
           "sourceBodyHash": "sha256:d9c17350b5714f5f",
-          "translatedAt": "2026-09-27T15:36:54+08:00",
+          "translatedAt": "2026-10-09T22:17:29.051392+00:00",
           "translationLastCommit": "54a07e60",
           "translationLastModified": "2026-09-27T16:16:03+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "bytes": 73194,
+          "bytes": 71828,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -6"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
