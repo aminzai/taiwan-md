@@ -275,7 +275,7 @@ Artikel ini menggunakan 5 gambar domain publik/berlisensi CC, semuanya di-cache 
 
 [^20]: [TradeVan: Dari Kelompok Perencanaan Kementerian Keuangan ke Perusahaan Terbuka](https://finance.ettoday.net/news/3212529) — Laporan ETtoday Finance Cloud 3 Agustus 2026 mencatat TradeVan berasal dari Kelompok Perencanaan Otomatisasi Pabean Barang Kementerian Keuangan, privatisasi Agustus 1996, serta mengutip pejabat Bea Cukai soal evaluasi Uni-President E-Commerce yang tidak ikut, dan latar belakang sistem TradeVan 'seperti memasukkan sumber daya untuk memadamkan kebakaran'.
 
-[^21]: [EZ Way 7,59 Juta Pendaftar, Amankah Data Pribadi? Siapa Bayar Biaya?](https://www.gvm.com.tw/article/132037) — Laporan Majalah Global Views 3 Agustus 2026 mencatat Kementerian Keuangan memegang 54,16 juta 2.436 saham TradeVan (36,11%), EZ Way memiliki ~7,59 juta pendaftar, >4 juta pelaporan sederhana bulanan, ~70% kasus pabean, dan rentang biaya 0,8–3,5 Yuan per transaksi.
+[^21]: [EZ Way 7,59 Juta Pendaftar, Amankah Data Pribadi? Siapa Bayar Biaya?](https://www.gvm.com.tw/article/132037) — Laporan Majalah Global Views 3 Agustus 2026 mencatat Kementerian Keuangan memegang 54.162.436 saham TradeVan (36,11%), EZ Way memiliki ~7,59 juta pendaftar, >4 juta pelaporan sederhana bulanan, ~70% kasus pabean, dan rentang biaya 0,8–3,5 Yuan per transaksi.
 
 [^22]: [Dewan Direksi TradeVan 12 Kursi, Kementerian Keuangan Menduduki 6 Kursi](https://www.mirrormedia.mg/story/20260803-177fin-182204) — Laporan Mirror Weekly 3 Agustus 2026 menambah struktur dewan direksi dan pangsa pasar TradeVan, serta mencatat Uni-President E-Commerce yang berkualifikasi 'tidak berminat mengoperasikan', sehingga terbentuk situasi monopoli praktis.
 

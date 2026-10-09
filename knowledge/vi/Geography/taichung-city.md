@@ -214,7 +214,7 @@ Một trong những điểm bùng phát quan trọng của cuộc bầu cử nă
 
 ## Thành phố đã chờ đợi 123 năm
 
-Vào tháng 4 năm 2026, dân số Thành phố Đài Trung là 2,86 triệu 8.452 người, là thành phố lớn thứ hai toàn đảo[^25]. **Chỉ kém Tân Bắc Thị với 4,01 triệu, nhiều hơn thủ đô Đài Bắc với 2,47 triệu hơn 390.000 người**. Nhưng sự hiện diện của thân phận "thành phố lớn thứ hai" trong tường thuật đại chúng rõ ràng mỏng manh hơn so với thứ hạng dân số.
+Vào tháng 4 năm 2026, dân số Thành phố Đài Trung là 2.868.452 người, là thành phố lớn thứ hai toàn đảo[^25]. **Chỉ kém Tân Bắc Thị với 4,01 triệu, nhiều hơn thủ đô Đài Bắc với 2,47 triệu hơn 390.000 người**. Nhưng sự hiện diện của thân phận "thành phố lớn thứ hai" trong tường thuật đại chúng rõ ràng mỏng manh hơn so với thứ hạng dân số.
 
 Sự khác biệt nằm ở chỗ **lịch sử Đài Trung là thành phố trực thuộc cấp một lớn thứ hai chỉ mới có 16 năm**. Đài Bắc được nâng cấp lên thành phố trực thuộc cấp một từ năm 1967, và đến năm 2010 đã làm thủ đô trong 43 năm; Cao Hùng được nâng cấp vào năm 1979, cũng là 31 năm tính đến năm 2010; Đài Nam, Đài Trung, Tân Bắc và Cao Hùng đều mới lần lượt được nâng cấp vào những năm 2010. Trong khi Đài Bắc và Cao Hùng đã có kinh nghiệm quản lý thành phố trực thuộc cấp một hoàn chỉnh, cấu trúc ngân sách và hệ thống quan liêu, thì Đài Trung vẫn đang giải quyết vấn đề hợp nhất 29 quận.
 

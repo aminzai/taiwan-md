@@ -253,7 +253,7 @@ Bài viết này sử dụng 4 hình ảnh miền công cộng / CC cấp phép,
 
 [^3]: [Wikipedia: Đường Mỹ Tướng](https://zh.wikipedia.org/zh-tw/%E9%BA%A5%E5%85%8B%E9%98%BF%E7%91%9F%E5%85%AC%E8%B7%AF) — Mục từ ghi chép từng ký tự Đường Mỹ Tướng thông xe ngày 2 tháng 5 năm 1964, đoạn chính 22,65 km cộng đoạn phụ 0,75 km, do chủ tịch tỉnh Hoàng Kiệt v.v. cắt băng cơ bản sự kiện.
 
-[^4]: [StoryStudio 故事：Xây dựng đầu tiên Đường cao tốc Đài Loan, là chính sách có foresight hay巧合 trúng đích?](https://storystudio.tw/article/gushi/MacArthur-Thruway-from-1960s) — Ghi chép từng ký tự kinh phí xây dựng Đường Mỹ Tướng Tân Đài Loan 2 tỷ 2.790 triệu, trong đó viện trợ Mỹ 1 tỷ 2.695 triệu cấu trúc tài chính, và xác nhận xác nhập với tài liệu lịch sử tiếng Anh nhóm số này.
+[^4]: [StoryStudio 故事：Xây dựng đầu tiên Đường cao tốc Đài Loan, là chính sách có foresight hay巧合 trúng đích?](https://storystudio.tw/article/gushi/MacArthur-Thruway-from-1960s) — Ghi chép từng ký tự kinh phí xây dựng Đường Mỹ Tướng Tân Đài Loan 227,9 triệu, trong đó viện trợ Mỹ 126,95 triệu cấu trúc tài chính, và xác nhận xác nhập với tài liệu lịch sử tiếng Anh nhóm số này.
 
 [^5]: [Cơ quan Phát triển Quốc gia Lưu trữ Hệ thống Quản lý: Tài liệu Đường Mỹ Tướng](https://www.archives.gov.tw/tw/arctw/69-2127.html) — Tài liệu lịch sử Đường Mỹ Tướng do cơ quan lưu trữ quốc gia tổ chức, chứa lễ khai trương và bối cảnh đổi tên, như bằng chứng "tên gốc Bắc Cơ Tân Lộ, vì Mỹ Tướng qua đời mà đổi tên"; ngày "4 tháng 4 năm 1964" chính xác qua đời khác thấy [Wikipedia: Douglas MacArthur](https://zh.wikipedia.org/zh-tw/%E9%81%93%E6%A0%BC%E6%8B%89%E6%96%AF%C2%B7%E9%BA%A6%E5%85%8B%E9%98%BF%E7%91%9F).
 

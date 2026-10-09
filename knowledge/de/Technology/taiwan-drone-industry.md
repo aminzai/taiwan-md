@@ -63,7 +63,7 @@ Aber das ist erst der Anfang. Im 1,25-Billionen-NT$-Sonderbudget des Regierungsr
 
 | Erste Welle                     | Weitere Pläne                         |
 | ------------------------------- | ------------------------------------- |
-| 3.600 Drohnen                   | 50.000 Drohnen (500 Millionen)        |
+| 3.600 Drohnen                   | 50.000 Drohnen (50 Milliarden NT$)    |
 | 70 Millionen NT$                | Teil des 1,25-Billionen-Sonderbudgets |
 | Chung Hwa Optical, EVA Air usw. | Mehr als 20 Unternehmen im Wettbewerb |
 | Lieferung 2026                  | 2026–2033 schrittweise                |
@@ -183,7 +183,7 @@ Dieser Artikel verwendet 2 Bilder mit Public-Domain- oder CC-Lizenz, alle lokal 
 
 [^3]: [Guanjian Pinglun Net：國防部首度向民間招標「軍用商規」無人機，六大重點一次看](https://www.thenewslens.com/article/243406) — Analyse der Herkunft des militärisch-kommerziellen Konzepts, Ausschreibungsstandards und Wettbewerbssituation der privaten Unternehmen.
 
-[^4]: [Economic Daily News：500 億無人機採購案，雷虎、中光電、漢翔等迎商機](https://money.udn.com/money/story/5612/8892339) — Verteidigungsministerium kauft von 2026 bis 2027 für 500 Millionen 50.000 Drohnen, fünf Kategorien.
+[^4]: [Economic Daily News：500 億無人機採購案，雷虎、中光電、漢翔等迎商機](https://money.udn.com/money/story/5612/8892339) — Verteidigungsministerium kauft von 2026 bis 2027 für 50 Milliarden NT$ knapp 50.000 Drohnen, fünf Kategorien.
 
 [^5]: [TechNews：國防部 1.25 兆預算確立 20 萬架無人機](https://finance.technews.tw/2026/01/26/non-red-supply-chain/) — Im Sonderbudget der sieben Hauptprojekte ist die Drohnenbranche zentral mit insgesamt 200.000 Drohnen und Tausenden unbemannter Schiffe.
 

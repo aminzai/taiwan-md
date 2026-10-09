@@ -120,7 +120,7 @@ Câu hỏi của Quỹ là: khi giam giữ phòng ngừa từ một "ngoại l�
 
 Cùng lúc luật tố tụng hình sự đi theo hướng "tăng cường biện pháp điều tra của nhà nước", một trục cải cách khác cũng đang tăng tốc vào những năm 2020: vị thế và quyền được thông tin của nạn nhân trong quy trình hình sự.
 
-Vào tháng 1 năm 1999, Luật Bảo vệ Nạn nhân Tội phạm được thông qua, cùng với đó là thành lập **Hiệp hội Bảo vệ Nạn nhân Tội phạm của Tư nhân**. Cơ quan này trong 26 năm kể từ khi thành lập đã xử lý hơn 61.000 vụ việc, phục vụ hơn 1 triệu 740.000 lần người dân[^12].
+Vào tháng 1 năm 1999, Luật Bảo vệ Nạn nhân Tội phạm được thông qua, cùng với đó là thành lập **Hiệp hội Bảo vệ Nạn nhân Tội phạm của Tư nhân**. Cơ quan này trong 26 năm kể từ khi thành lập đã xử lý hơn 61.000 vụ việc, phục vụ hơn 1.740.000 lần người dân[^12].
 
 Vào tháng 1 năm 2023, Luật Bảo vệ Nạn nhân Tội phạm được sửa đổi và thông qua, đưa những yêu cầu mà "Liên minh Bảo vệ Quyền lợi Nạn nhân Tội phạm Dân sự" đã thúc đẩy trong nhiều năm (ngân sách, nhân sự, hợp lý hóa tiền lương) vào hệ thống chính thức[^12].
 

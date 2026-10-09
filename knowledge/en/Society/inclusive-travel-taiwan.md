@@ -201,7 +201,7 @@ This culture may be Taiwan's most precious contribution to the world: **proving 
 
 ## References
 
-[^1]: [United News Agency: Over 20% of Seniors Aged 65 in Taiwan; Officially Entering Ultra-Aged Society](https://udn.com/news/story/7266/9254576) — A January 2026 report from the Ministry of the Interior's household statistics: as of December 2025, 4.67 million 3,155 people aged 65 and over accounted for 20.06%; 14 out of 22 counties/cities have entered ultra-aged society, with Taipei City at the highest at 24.18% and Hsinchu County at the lowest at 15.08%.
+[^1]: [United News Agency: Over 20% of Seniors Aged 65 in Taiwan; Officially Entering Ultra-Aged Society](https://udn.com/news/story/7266/9254576) — A January 2026 report from the Ministry of the Interior's household statistics: as of December 2025, 4,673,155 people aged 65 and over accounted for 20.06%; 14 out of 22 counties/cities have entered ultra-aged society, with Taipei City at the highest at 24.18% and Hsinchu County at the lowest at 15.08%.
 
 [^2]: [Taiwan.md issue #147: Family Mobility Across Barriers](https://github.com/frank890417/taiwan-md/issues/147) — The original draft of this article (March 22, 2026, signed by "We Are All Tsai"), discussing interpersonal assistance in public spaces and "non-standardized" moments, the life education of multi-generational travel, and the "daily resilience" featured on the channel.
 

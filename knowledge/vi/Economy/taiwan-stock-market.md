@@ -232,6 +232,6 @@ Ba mươi năm tới, thị trường vốn Đài Loan sẽ học được đi�
 
 [^外資]: [鉅亨網：外資加碼 557 億元助攻 3 萬 7](https://m.cnyes.com/news/id/6421775) — Tháng 4 năm 2026 vốn nước ngoài mua ròng thị trường chứng khoán Đài Loan một lần vượt 89 tỷ đô la Mỹ, ngày 21 tháng 4 lần mua ròng thuần 601,53 tỷ đô la Đài Loan mới (xếp thứ 7 lớn nhất lịch sử), ghi chép động lực vốn.
 
-[^開戶]: [中央社：台股 2 月開戶數月增 8 萬人達 1393 萬人 再創新高](https://www.cna.com.tw/news/afe/202603020145.aspx) — Cuối tháng 2 năm 2026 tài khoản niêm yết tích lũy trên thị trường chứng khoán Đài Loan 13,93 triệu 9.987 người, tăng 8.08 vạn người so với tháng 1, liên tục lập kỷ lục mới.
+[^開戶]: [中央社：台股 2 月開戶數月增 8 萬人達 1393 萬人 再創新高](https://www.cna.com.tw/news/afe/202603020145.aspx) — Cuối tháng 2 năm 2026 tài khoản niêm yết tích lũy trên thị trường chứng khoán Đài Loan 13.939.987 người, tăng 8.08 vạn người so với tháng 1, liên tục lập kỷ lục mới.
 
 [^TWSE]: [TWSE 臺灣證券交易所：歷史介紹](https://www.twse.com.tw/zh/about/company/history.html) — Sở giao dịch chứng khoán Đài Loan thành lập ngày 23 tháng 10 năm 1961, khai trương chính thức ngày 9 tháng 2 năm 1962, chủ tịch hội đồng quản trị đầu tiên là Cơ Chấn Phúc, lịch sử chính thức.

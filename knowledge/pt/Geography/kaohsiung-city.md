@@ -357,7 +357,7 @@ Termos de Licença: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.
 
 [^15]: [Dome of Light na estação Formosa Boulevard — Corporação de Metrô de Kaohsiung](https://www.krtco.com.tw/) — Linha laranja abriu em 14 de setembro de 2008, estação Formosa Boulevard entrou em operação, Dome of Light pintado à mão por Narcissus Quagliata, levou 4 anos e meio, diâmetro 30 metros, área 660 m², 4.500 peças de vidro colorido divididas em água, terra, luz, fogo, 자료 oficial de arquitetura.
 
-[^16]: [Fusão condado-cidade de Kaohsiung em 2010 — Departamento de Assuntos Civis de Kaohsiung](https://cabu.kcg.gov.tw/) — Dados da fusão em 25 de dezembro de 2010: área original da cidade 153 km² mais área do condado saltou para 2.951 km², população original da cidade 1,52 milhão somada ao condado total 2,77 milhões 4.470 pessoas, estatísticas oficiais.
+[^16]: [Fusão condado-cidade de Kaohsiung em 2010 — Departamento de Assuntos Civis de Kaohsiung](https://cabu.kcg.gov.tw/) — Dados da fusão em 25 de dezembro de 2010: área original da cidade 153 km² mais área do condado saltou para 2.951 km², população original da cidade 1,52 milhão somada ao condado total 2.774.470 pessoas, estatísticas oficiais.
 
 [^17]: [Divisões administrativas de Kaohsiung — Wikipédia](https://zh.wikipedia.org/zh-tw/%E9%AB%98%E9%9B%84%E5%B8%82%E8%A1%8C%E6%94%BF%E5%8D%80%E5%8A%83) — 11 distritos originais de Kaohsiung com 27 townships/cidades do condado fundidos em 38 distritos (incluindo 3 distritos indígenas de montanha de município especial: Maolin, Taoyuan, Namasia), evolução administrativa completa.
 

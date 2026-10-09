@@ -45,7 +45,7 @@ _Nuclear Three Plant in Hengchun, Pingtung (Maanshan Nuclear Power Plant), locat
 
 ## The Nuclear Three Referendum Day
 
-On the evening of August 23, 2025, when voting concluded across all 22 counties and cities in Taiwan, the results of the Nuclear Three extension referendum were released: 4.34 million 2,206 votes in favor and 1.51 million 1,693 votes against, resulting in 74.17% approval. However, voter turnout was only 29.53%, which fell short of the required threshold set by referendum law—one-quarter of the total electorate (5.00 million 523 votes)—by a margin of 658,317 votes[^22]. **More people voted in favor than against, yet the referendum failed.**
+On the evening of August 23, 2025, when voting concluded across all 22 counties and cities in Taiwan, the results of the Nuclear Three extension referendum were released: 4,342,206 votes in favor and 1,511,693 votes against, resulting in 74.17% approval. However, voter turnout was only 29.53%, which fell short of the required threshold set by referendum law—one-quarter of the total electorate (5.00 million 523 votes)—by a margin of 658,317 votes[^22]. **More people voted in favor than against, yet the referendum failed.**
 
 > 📝 **Curator's Note**: The common interpretation is that "74% approval = clear public support for nuclear energy," but this reverses cause and effect. The design of the referendum law was not meant to count who had more votes; it requires a mobilization threshold—proof that "enough people care." A turnout of 29.53% means that over two-thirds of voters chose not to go out. This is a third, more awkward signal: many people do not hold such strong opinions on energy issues as to be willing to go to the polls.
 
