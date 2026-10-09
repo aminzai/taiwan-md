@@ -561,7 +561,8 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **候選機械化**：(a) article-health 加一條 WARN（腳註網址是純首頁 → 「首頁腳註不支持具體句子」），不擋 commit；注意它會讓 311 篇多一條 warn，若免疫儀表板的 plugin_pass_rate 用 fail_on=warn 計，分數會動，這屬閾值鄰接面，上線前先量對分數的影響。(b) 巡邏抽樣指令把「首頁腳註數」當第二排序鍵，在同一天出生、同譯本數的初稿裡先抽首頁腳註多的。
   - 2026-10-02 semiont-heartbeat（下午班）— 巡邏第 39–41 篇：〈台灣藝術教育與學院發展〉五條腳註全是機構首頁（北藝大、南藝大、台藝大、師大美術系、藝教館），其中三條掛在跟首頁無關的句子上——「1955 年國立藝術學校成立」掛北藝大首頁，而國立藝術學校是台藝大的前身；〈台灣國際貿易政策〉六條裡五條是機關首頁（財政部、FTA 入口網、經貿辦、國貿署、中央社），描述寫著首頁上不存在的報告名「112年我國出進口貿易概況」。止血時全部換成能支撐句子的校史頁、財政部年報 PDF、行政院與外交部新聞稿，換完後腳註才第一次能被對照。新的形狀：首頁腳註會**掛錯機構**，因為寫的人只需要一個看起來相關的網域，不需要它講過這件事
   - 2026-10-09 semiont-heartbeat（14:36）— 巡邏〈台灣冰品文化〉：六條腳註裡觀光署、CNN Travel 兩條是首頁，Lonely Planet 是孤兒，另兩條是死網域與不存在的維基條目。新的形狀：CNN Travel 首頁掛在三家查無此店的老舖（明記冰果室、振宇芋冰城、立橋冰）後面，**首頁腳註替編造的具名對象作保**，讀者看到一個國際媒體名就不會懷疑店名。同一族在兄弟篇〈永康街〉（05-21 出生）也有：腳註 21 是中研院社會所首頁、描述寫成一份具體的仕紳化研究，腳註 20 是 zh 維基根本沒有的「冰館」條目（404），兩條都帶著詳細到年份的描述。`memory/2026-10-09-143619-semiont-heartbeat.md`
-- **verification_count**: 4
+  - 2026-10-09 semiont-heartbeat（20:36）— 巡邏〈台灣全齡共融旅遊與生活文化〉：第五種形狀是**深層網址被網站轉回首頁**。內政部 `News_Content.aspx?n=9&s=322560` 轉到 `default.aspx`、國健署 `Pages/List.aspx?nodeid=3869` 轉到 `Home/Index.aspx`，回的都是 200，原稿上看起來是兩條具體的內頁。同篇還量到檢查器的另一個盲區：參考資料寫成 `### 參考資料 / Sources` 底下的 `1.` 編號清單，10-08 那次修補只放寬到 `## 參考資料` 與 `-`／`*` 清單（REFLEXES #101：範圍照症狀現形的位置畫），十條一條都沒量。`faf8f24e5` 把標題放寬到二、三級、清單接受編號，並把「有路徑的網址落在首頁」判成轉址回首頁，全庫多量到 154 個網址。候選機械化 (a) 對這個變體已落地；純首頁網址（一開始就寫首頁）仍照舊放行，那一半牽動免疫 plugin_pass_rate，維持不動
+- **verification_count**: 5
 
 ### 2026-10-01 twmd-maintainer-am — freshness-guard-reads-a-half-built-artifact-as-maximally-fresh：擋得住舊產物的閘門擋不住正在長出來的產物，而後者的時間戳是「現在」
 
@@ -1595,6 +1596,18 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **候選處置**：席位 `/twmd-routine`（動得了 routine-prompts/ 與 mirror）——把殼的收官段改成 pathspec／`git commit --only` 範例；順手 grep 其餘 routine-prompts 有無同型指令（babel-nightly 殼是「禁 `git add -u knowledge/`」，方向正確）。
 - **可能層級**：操作規則（REFLEXES #6 的殼層 instance）
 - **相關**：REFLEXES #6、#68；REFLEXES #63（routine prompt 是 cron context 唯一指令面，殼錯了當班就照錯的做）
+- **verification_count**: 1
+- **severity**: tactical
+
+### 2026-10-09 semiont-heartbeat（20:36）— contributor-original-is-the-baseline-the-expansion-layer-is-the-risk：投稿者的原稿留在 issue 裡，上線時被擴寫，錯全長在擴寫那一層
+
+- **pattern**: contributor-original-is-the-baseline-the-expansion-layer-is-the-risk
+- **原則**：從 issue 投稿進站的文章，原稿是第一手來源、也是一份免費的基準線。三月那批上線時常被擴寫（4 分鐘變 12 分鐘），擴寫層替原稿補上數字、機關統計、具名業者與場景細節，幻覺幾乎都長在這一層；原稿與上線版之間的差集，就是巡邏最該先查的地方。擴寫層還可能替一個真實、可辨識的投稿家庭編生活細節，這比一般幻覺多一層傷害。
+- **觸發**：巡邏〈台灣全齡共融旅遊與生活文化〉（`author: alstontsai0816`，issue #147）60 個原子 18 個 ❌，全部落在 03-23 上線（`47640e458`）時擴寫進來的段落；投稿原稿零數字、沒有一句被判錯。擴寫層把頻道寫成「視障 YouTuber」，又替這家人編出「透過觸摸、聞味道來選擇菜色」「前面三步有階梯」等場景，頻道自介是家庭生活與趣味挑戰。止血換回原稿的話（`a14fecfe9`），查核檔 `reports/research/2026-10/台灣全齡共融旅遊與生活文化.md`。
+- **instances**：
+- **可能層級**：操作規則（FACTCHECK 巡邏抽樣與 Phase 2 原子抽取）
+- **候選機械化**：(a) 抽樣指令對 frontmatter `author` 不是站方、且 git log 第一個 commit 訊息帶 `closes #N` 的文章，取 issue body 與上線版做差集，差集原子優先查；(b) 同一個 commit 一次上線多篇 issue 投稿的（`47640e458` 還有台灣藍鵲、窗殺），把同批其他篇排進巡邏前段。兩者都沒做，先看第二例
+- **相關**：MEMORY §神經迴路「巴別塔會把三月未審初稿裡的幻覺放大到十二語」（那條講 AI 初稿整篇，這條講人寫的骨架上被 AI 加的那一層，差集可以機械取出）；FACTCHECK §月度巡邏抽樣母體；MANIFESTO §10 幻覺第 6 型（場景動作細節）；EDITORIAL v6.13 對在世真人的分寸（不替真人編私生活細節）
 - **verification_count**: 1
 - **severity**: tactical
 
