@@ -199,6 +199,65 @@ def test_no_fix_available_counts_as_blocked():
     assert lines[1] == "high\tbraces\tnone"
 
 
+# ── 裸 fixAvailable: true 的傳遞鏈 ────────────────────────────────
+#
+# 上面那組 fixture 全是合成的單層公告，所以「裸 true」一律被讀成 minor。
+# 真實的 harvest/ui 不是這個形狀：`fast-glob` 自己回裸 true，而它卡在
+# `micromatch` → `braces`，整條鏈只有升 tailwindcss 4 收得掉。工具 10-08
+# ship 當天 13 個 pytest 全綠，上線後第一個真紅就是這個形狀。
+
+
+def _via(severity, fix_available, via):
+    return {"severity": severity, "fixAvailable": fix_available, "via": via}
+
+
+def test_bare_true_on_a_transitive_inherits_the_major_verdict():
+    """裸 true + via 指向 major 祖先 → 跟著算 MAJOR，而且要進 blocked 帳。
+
+    這是 harvest/ui 的真實形狀（2026-10-09 實測）：照字面把它讀成 minor，
+    總結那行就會叫當班去跑一個對這五條零改動的 `npm audit fix`。
+    """
+    major = {"name": "tailwindcss", "version": "4.3.3", "isSemVerMajor": True}
+    payload = json.dumps(
+        {
+            "vulnerabilities": {
+                # via 指著自己（npm 對公告本體就是這樣寫），不能讓它無限繞
+                "braces": _via("high", major, [{"name": "braces"}]),
+                "micromatch": _via("high", major, ["braces"]),
+                "fast-glob": _via("high", True, ["micromatch"]),
+            }
+        }
+    )
+    lines, code = _summarize(payload)
+    assert code == 0
+    assert lines[0] == "OK 3 0 3", "三條都該算進 blocked，沒有一條是本班修得掉的"
+    assert "high\tfast-glob\tMAJOR(tailwindcss@4.3.3)" in lines
+
+
+def test_bare_true_with_no_major_ancestor_stays_this_shifts_work():
+    """反向：via 走完都沒有 major 祖先 → 維持 minor，不要把真的小修誤判成決定。"""
+    payload = json.dumps(
+        {
+            "vulnerabilities": {
+                "postcss": _via("high", True, ["nanoid"]),
+                "nanoid": _via("high", True, []),
+            }
+        }
+    )
+    lines, _ = _summarize(payload)
+    assert lines[0] == "OK 2 0 0"
+    assert "high\tpostcss\tminor" in lines
+
+
+def test_self_referential_via_does_not_hang():
+    payload = json.dumps(
+        {"vulnerabilities": {"braces": _via("high", True, ["braces", {"name": "braces"}])}}
+    )
+    lines, code = _summarize(payload)
+    assert code == 0
+    assert lines[0] == "OK 1 0 0"
+
+
 def test_moderate_and_low_are_below_the_gate():
     payload = json.dumps(
         {
