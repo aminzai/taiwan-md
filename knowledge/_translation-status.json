@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-09T22:20:41+08:00",
-    "zhCommitHead": "14c318c42",
+    "lastUpdated": "2026-10-10T00:57:40+08:00",
+    "zhCommitHead": "d1e8697c5",
     "totalZh": 1125,
     "activeLanguages": [
       "en",
@@ -60,8 +60,8 @@
       },
       "vi": {
         "total_zh": 1125,
-        "fresh": 1124,
-        "stale": 1,
+        "fresh": 1125,
+        "stale": 0,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -19016,7 +19016,7 @@
           "translationLastModified": "2026-08-09T10:11:47+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "bytes": 36565,
+          "bytes": 36556,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -51934,18 +51934,18 @@
         "vi": {
           "path": "vi/Lifestyle/taiwan-education-system.md",
           "translatedFrom": "Lifestyle/台灣教育制度.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:51083cb44ef002920685d4e28959af598cf808cb63b4e4f23b17e608ccad06d2",
-          "sourceBodyHash": "sha256:f15aba72a76711c71e2cb9dff53bd6f92b593661453bb4bf1643d021300ca534",
-          "translatedAt": "2026-07-31T00:00:00Z",
+          "sourceCommitSha": "bf3cbdbc1",
+          "sourceContentHash": "sha256:f31b05f6ec817e0e",
+          "sourceBodyHash": "sha256:1a4718788413b7be",
+          "translatedAt": "2026-10-10T00:53:35+08:00",
           "translationLastCommit": "e1d4e6d7",
           "translationLastModified": "2026-07-31T23:47:11+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 24502,
+          "footnoteDefs": 11,
+          "bytes": 29822,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (11→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Lifestyle/taiwan-education-system.md",
@@ -52346,7 +52346,7 @@
           "translationLastModified": "2026-08-09T09:09:35+08:00",
           "inferred": false,
           "footnoteDefs": 50,
-          "bytes": 73514,
+          "bytes": 73505,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -52362,7 +52362,7 @@
           "translationLastModified": "2026-09-22T00:50:34+08:00",
           "inferred": false,
           "footnoteDefs": 50,
-          "bytes": 58496,
+          "bytes": 58490,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -74082,7 +74082,7 @@
           "translationLastModified": "2026-10-09T21:27:00+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "bytes": 18850,
+          "bytes": 18841,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -74206,11 +74206,11 @@
           "sourceContentHash": "sha256:0f023e33872fbd7d",
           "sourceBodyHash": "sha256:feac8eaeb6d3ca9d",
           "translatedAt": "2026-10-09T22:15:03+08:00",
-          "translationLastCommit": "ea7a84ec",
-          "translationLastModified": "2026-10-08T12:25:17+08:00",
+          "translationLastCommit": "d1e8697c",
+          "translationLastModified": "2026-10-09T22:20:41+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "bytes": 42135,
+          "bytes": 42075,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -76182,7 +76182,7 @@
           "translationLastModified": "2026-09-24T01:05:06+08:00",
           "inferred": false,
           "footnoteDefs": 91,
-          "bytes": 163473,
+          "bytes": 163339,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -76230,7 +76230,7 @@
           "translationLastModified": "2026-09-26T20:05:10+08:00",
           "inferred": false,
           "footnoteDefs": 91,
-          "bytes": 296016,
+          "bytes": 295997,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -79616,7 +79616,7 @@
           "translationLastModified": "2026-08-09T11:54:53+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "bytes": 32061,
+          "bytes": 32053,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -87212,7 +87212,7 @@
           "translationLastModified": "2026-09-21T07:43:14+08:00",
           "inferred": false,
           "footnoteDefs": 45,
-          "bytes": 72098,
+          "bytes": 72080,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -87388,7 +87388,7 @@
           "translationLastModified": "2026-09-24T09:04:52+08:00",
           "inferred": false,
           "footnoteDefs": 45,
-          "bytes": 78182,
+          "bytes": 78160,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -102474,7 +102474,7 @@
           "translationLastModified": "2026-09-14T09:56:08+08:00",
           "inferred": false,
           "footnoteDefs": 51,
-          "bytes": 50386,
+          "bytes": 50376,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -145872,7 +145872,7 @@
           "translationLastModified": "2026-08-09T11:12:15+08:00",
           "inferred": false,
           "footnoteDefs": 30,
-          "bytes": 60100,
+          "bytes": 60082,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -184954,7 +184954,7 @@
           "translationLastModified": "2026-09-19T14:38:23+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "bytes": 28024,
+          "bytes": 28004,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -192348,7 +192348,7 @@
           "translationLastModified": "2026-09-18T18:06:18+08:00",
           "inferred": false,
           "footnoteDefs": 40,
-          "bytes": 58109,
+          "bytes": 58105,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -196606,7 +196606,7 @@
           "translationLastModified": "2026-08-02T01:13:33+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "bytes": 54906,
+          "bytes": 54896,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -197754,7 +197754,7 @@
           "translationLastModified": "2026-09-09T00:44:36+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "bytes": 75324,
+          "bytes": 75314,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -197818,7 +197818,7 @@
           "translationLastModified": "2026-09-08T10:50:46+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "bytes": 66047,
+          "bytes": 66037,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -197834,7 +197834,7 @@
           "translationLastModified": "2026-09-22T21:42:08+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "bytes": 143802,
+          "bytes": 143762,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -201624,7 +201624,7 @@
           "translationLastModified": "2026-09-08T09:43:12+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "bytes": 77011,
+          "bytes": 77002,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -201672,7 +201672,7 @@
           "translationLastModified": "2026-09-09T22:04:23+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "bytes": 140121,
+          "bytes": 140101,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
