@@ -1,134 +1,138 @@
 ---
-title: 'La cultura de los postres helados en Taiwán'
-description: 'Desde el mango congelado de Yujing hasta la revolución del hielo picado, una exploración de la cultura única de comer helados en invierno en Taiwán'
+title: 'Cultura de los postres helados en Taiwán'
+description: 'Desde el hielo de mango de Yujing hasta la revolución del hielo picado, una exploración de la cultura única de comer helado en invierno en Taiwán'
 date: 2026-03-19
 category: 'Food'
 tags:
-  ['postre helado', 'mango congelado', 'hielo picado', 'sorbete', 'ICE MONSTER']
+  [
+    'Postre helado',
+    'helado de mango',
+    'hielo picado',
+    'sorbetes',
+    'ICE MONSTER',
+  ]
 subcategory: '烘焙與甜點'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 image: '/article-images/food/taipei-mango-shaved-ice.webp'
-imageAlt: 'Mango congelado de Taipéi'
+imageAlt: 'Helado de mango de Taipéi'
 imageCredit: 'SuperMidget（English Wikivoyage） / Wikimedia Commons'
 imageLicense: 'Public domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taipei_mangguobing.JPG'
 translatedFrom: 'Food/台灣冰品文化.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:81d7772de9e1a0c6'
-sourceBodyHash: 'sha256:e70fc8ddbfd1ab8c'
-translatedAt: '2026-09-22T08:09:28+08:00'
+sourceCommitSha: '7a2292243'
+sourceContentHash: 'sha256:27df03c894312c34'
+sourceBodyHash: 'sha256:4ecce4b2cd02de2a'
+translatedAt: '2026-10-09T16:00:51+08:00'
 ---
 
-# La cultura de los postres helados en Taiwán
+# Cultura de los postres helados en Taiwán
 
-La pasión de los taiwaneses por los postres helados es única en el mundo; incluso cuando la temperatura en invierno es de solo 10 grados Celsius, las heladerías están llenas de clientes. La cultura del postre helado en Taiwán tiene sus raíces en la introducción de la tecnología de fabricación de hielo durante el período colonial japonés, y ha evolucionado a través de la popularización del sorbete después de la guerra, la innovación tecnológica del hielo picado en la década de 1990 y la expansión internacional de marcas como ICE MONSTER en la década de 2010. Es una historia evolutiva con puntos temporales rastreables.
+La predilección de la gente de Taiwán por los postres helados es única en el mundo; incluso cuando la temperatura en invierno es de solo 10 grados, las heladerías están llenas. La cultura del postre helado en Taiwán tiene sus raíces en la introducción de la tecnología de fabricación de hielo durante el período colonial japonés, y ha evolucionado a través de la popularización de los sorbetes después de la guerra, la aparición del hielo picado en la década de 1980 y la expansión internacional de marcas como ICE MONSTER en la década de 2010, lo que constituye una historia evolutiva con puntos temporales concretos.
 
 ## Período colonial japonés: el origen de la cultura del postre helado
 
-Las raíces de la cultura del postre helado en Taiwán se remontan al período colonial japonés (1895-1945). Después de que Japón introdujera las máquinas de hacer hielo y estableciera fábricas artificiales, el "hielo natural", que antes solo era accesible para las clases ricas, se convirtió en un producto de consumo disponible para la gente común. La forma japonesa de comer _kakigōri_ (hielo picado) fue transmitida: cubos de hielo finamente cortados se bañaban con jarabe o relleno de frijoles, convirtiéndose en una forma básica de refrescarse durante el verano en Taiwán. [^6]
+Las raíces de la cultura del postre helado en Taiwán se remontan al período colonial japonés (1895-1945). La tecnología para hacer hielo fue introducida por los japoneses, y el primer tipo de raspado de hielo era el _qingbing_[^1].
 
-En ciudades como Tainan y Taipéi durante el final del período colonial japonés ya existían puestos fijos de postres helados. Los ingredientes populares en ese momento incluían frijoles rojos, _xiancao_ (cinta de sirga), jarabe de cacahuete, combinaciones que continúan casi sin cambios en los puestos tradicionales de sorbete de hoy. La creación de la industria del hielo no solo suministró postres helados, sino que también apoyó la demanda de refrigeración de la pesca en Taiwán durante el período colonial, siendo parte de la modernización colonial.
+A finales del período colonial, los puestos de helados ya estaban en las calles. En 1938, Chen Xi (陳溪), inspirándose en el _siguo bing_ popularizado por Japón, añadió más de diez tipos de ingredientes además de legumbres, dulces y _tuanzi_, creando el _midoubing_ (蜜豆冰). Lo vendía con un carrito de mano cerca de la estación de tren de Taichung, y en 1943 estableció un puesto en el Primer Mercado, que se convertiría en Xingfa Ting[^2]. La industria del hielo también sustentó la pesca durante ese período: a mediados y finales de la década de 1920, la pesca en Taiwán creció rápidamente, y los investigadores catalogaron la industria de refrigeración y fabricación de hielo como una industria relacionada que impulsó este crecimiento[^3].
 
-## Mango de Yujing: una dulce leyenda desde la región hasta el mundo
+## Mango de Yujing: la dulce leyenda desde la región hasta el mundo
 
-Yujing, en Tainan, es apodado la "cuna del mango", y los mangos Aiwen cultivados allí son famosos en toda la isla por su dulzura y jugosidad. Durante la temporada de mango, de mayo a agosto cada año, Yujing se llena de grandes grupos de "peregrinos del mango" solo para degustar el mango congelado más fresco.
+La zona de Yujing, en Tainan, es famosa por su mango Aiwen. Cada temporada de verano, Yujing se llena de grandes grupos de "peregrinos del mango" solo para degustar el helado de mango más fresco.
 
-La característica distintiva del mango congelado de Yujing es la "calidad de los materiales". El mango Aiwen entero se pela y se corta en trozos, se baña con jugo de mango fresco y se combina con sorbete tradicional; es simple pero extremo. Este sabor puro ha convertido al mango congelado de Yujing en un postre representativo del verano en Taiwán.
+La característica distintiva del helado de mango de Yujing es la "autenticidad de los ingredientes". Se utiliza el mango Aiwen entero, pelado y cortado en trozos, rociado con jugo de mango fresco y combinado con el sorbete tradicional; es simple pero extremo. Este sabor puro ha convertido al helado de mango de Yujing en un postre representativo del verano en Taiwán.
 
-A partir de Yujing, el mango congelado se extendió gradualmente a todas partes de la isla. Cada región desarrolló su propia versión característica: algunas añadieron pudín o gelatina para mejorar la textura, otras utilizaron diferentes variedades de mango para crear capas, y algunas combinaron productos locales para formar sabores únicos.
+La heladería que hizo famoso este helado se encuentra en la calle Yongkang, Taipéi. En 1997, Luo Junhua (羅駿樺) y su exesposa Zhang Jiemei (張介梅) abrieron "ICE MONSTER Ice Hall" en Yongkang Street, y los medios de comunicación lo nombraron el creador del primer helado de mango de todo Taiwán. La heladería fue listada por The New York Times como un lugar imperdible en Taipéi, junto con el Museo del Palacio y Taipei 101, y también fue seleccionada por CNN entre los diez mejores postres del mundo[^4]. Posteriormente, el helado de mango se extendió a todas partes de Taiwán, y cada región desarrolló su propia versión: algunos añadieron flan o gelatina para mejorar la textura, otros utilizaron diferentes variedades de mango para crear capas, y algunos combinaron productos locales para formar sabores únicos.
 
-La aparición de ICE MONSTER llevó el mango congelado de Taiwán al escenario internacional. Su predecesor fue "Yongkang 15 Ice Hall", que abrió en Yongkang Street en 1995, y en 2010 cambió su nombre a ICE MONSTER y se trasladó a Zhongxiao East Road. [^1] El hielo picado de mango refinado combinado con una presentación visual innovadora hizo que la marca pasara de ser popular en Taiwán a ser reconocida en Hong Kong, Singapur y Los Ángeles, permitiendo que más visitantes extranjeros conocieran el encanto del mango congelado de Taiwán.
+La heladería cerró sin previo aviso en 2010 debido a problemas matrimoniales. En 2012, Luo Junhua reinició con el nombre ICE MONSTER en la calle Zhongxiao East, añadiendo queso artesanal al helado de mango; siete años después, tuvo 19 sucursales en Taiwán y en el extranjero, abriendo tiendas en China, Japón y Estados Unidos, permitiendo que más visitantes extranjeros conocieran el helado de mango de Taiwán[^4].
 
-## La revolución del hielo picado: un gran avance en textura
+## Revolución del hielo picado: un gran avance en la textura
 
-A finales de la década de 1990 y principios de la de 2000, la industria de los postres helados en Taiwán experimentó la "revolución del hielo picado". El sorbete tradicional se hacía con cubos de hielo puros, lo que resultaba en una textura más tosca y propensa a derretirse. El hielo picado, en cambio, congelaba aditivos como leche y azúcar en bloques de hielo, y luego los trituraba con máquinas especiales hasta obtener un hielo fino y delicado, con una textura suave como la nieve.
+En la década de 1980, surgió en la industria de los postres helados de Taiwán el _xuehuabing_ (雪花冰), más fino que el sorbete tradicional. El sorbete tradicional se hacía con cubos de hielo puros, lo que resultaba en una textura más gruesa y propensa a derretirse. El hielo picado utiliza bloques de hielo prefabricados que se trituran hasta obtener un delicado copo de nieve, logrando una textura fina como la nieve. Xingfa Ting (辛發亭) en el mercado nocturno de Shilin desarrolló en la década de 1980, por su segunda generación, el _xuepianbing_ (雪片冰), que no se derretía fácilmente y tenía una apariencia similar a virutas de lápiz, convirtiéndose en la primera tienda especializada en hielo picado de la región norte de Taiwán. Los bloques de hielo debían ser esterilizados primero a alta temperatura y luego a baja temperatura durante siete horas[^5].
 
-Esta innovación tecnológica cambió el panorama del postre helado en Taiwán. El hielo picado no solo tenía una mejor textura, sino que también era más fácil de teñir y aromatizar, creando diversos efectos visuales. Había hielo picado de matcha, hielo picado de chocolate, hielo picado de fresa, etc., cada uno con su sabor y color únicos.
+Esta innovación tecnológica cambió el panorama del postre helado en Taiwán. El hielo picado no solo tenía una mejor textura, sino que también era más fácil de teñir y aromatizar, creando diversos efectos visuales. Había _matcha xuehuabing_, _chocolate xuehuabing_ y _strawberry xuehuabing_, cada uno con su sabor y color únicos.
 
-El éxito del hielo picado impulsó la mejora de toda la industria. Las heladerías pasaron de ser puestos tradicionales al borde de la carretera a convertirse en tiendas de postres refinados. La decoración se volvió más cuidada, el servicio más profesional y los productos más diversos; el postre pasó de ser un pequeño refrigerio estival a un postre moderno.
+El éxito del hielo picado también impulsó la mejora de toda la industria. Las heladerías pasaron gradualmente de ser puestos callejeros tradicionales a tiendas de postres refinados. La decoración se volvió más cuidada, el servicio más profesional y los productos más diversos; el postre helado pasó de ser un pequeño refrigerio refrescante a un postre moderno.
 
-Esta tecnología innovadora de Taiwán realmente se difundió al extranjero; las máquinas y la tecnología del hielo picado fueron introducidas en Japón y el Sudeste Asiático. [^2] Cabe señalar que _bingsu_ (빙수) y _patbingsu_ (팥빙수) locales coreanos tienen una tradición independiente y larga, rastreable hasta la era Joseon; la aparición de la marca coreana "Seolbing" (설빙) en 2013 es un desarrollo local, no una exportación de Taiwán.
+El _seolbing_ (설빙) coreano a menudo se compara con el hielo picado de Taiwán, pero este surgió en Corea: su fundador aprendió repostería mientras estudiaba en Japón y abrió una cafetería de _tteok_ (pastel de arroz) en Pusan en 2010. En abril de 2013, lanzó el _injeolmi seolbing_ (인절미설빙), que consiste en hielo picado con leche espolvoreado con harina de soja y _tteok_, y así fundó la marca del hielo picado[^6].
 
 ## La memoria popular del sorbete tradicional
 
-Aunque el hielo picado está en auge, el sorbete tradicional todavía ocupa un lugar importante en el corazón de los taiwaneses. Esa textura rústica del hielo y la variedad de ingredientes son imágenes fijas del verano infantil para muchas personas.
+Aunque el hielo picado está en auge, el sorbete tradicional todavía ocupa un lugar importante en la mente de la gente de Taiwán. Esa textura rústica del cubo de hielo y la variedad de ingredientes son imágenes fijas del verano infantil para muchas personas.
 
-Los puestos tradicionales de sorbete suelen ofrecer más de diez opciones de ingredientes: frijoles rojos, frijoles verdes, _yiren_ (semilla de morro), _xiancao_, _aiyu_, perlas azucaradas y perlas de taro, entre otros. Los clientes pueden combinarlos libremente para crear su propio sabor único. Este concepto de "personalización" apareció décadas antes del servicio personalizado moderno.
+Los puestos de sorbetes tradicionales suelen ofrecer más de diez tipos de ingredientes: frijoles rojos, frijoles verdes, _yiren_ (薏仁), flor de hibisco (_xiancao_), _aiyu_, perlas dulces y perlas de taro, entre otros. Los clientes pueden combinarlos libremente para crear su propio sabor único. Este concepto de "personalización" apareció décadas antes del servicio personalizado moderno.
 
-Los puestos de sorbete en los mercados nocturnos son un importante símbolo de la cultura taiwanesa. En las calurosas noches de verano, un tazón refrescante de sorbete puede eliminar instantáneamente el cansancio del día. Los movimientos del vendedor al picar hielo, añadir ingredientes y verter jarabe son como una actuación espectacular.
+Los puestos de sorbetes en los mercados nocturnos son un importante símbolo de la cultura taiwanesa. En las calurosas noches de verano, un tazón refrescante de sorbete puede eliminar instantáneamente el cansancio de todo el día. Los movimientos del vendedor al triturar hielo, añadir ingredientes y rociar jarabe son como una actuación emocionante.
 
-En los últimos años, algunas tiendas antiguas de sorbete han comenzado una moda retro, enfatizando la tradición artesanal y el sentimiento nostálgico. Este "sorbete retro" no solo atrae a clientes antiguos nostálgicos, sino que también permite a los jóvenes experimentar el encanto del postre tradicional.
+En los últimos años, algunas tiendas antiguas de sorbetes han comenzado a revivir la moda retro, enfatizando la artesanía tradicional y el sentimiento nostálgico. Este "sorbete _retro_" no solo atrae a clientes antiguos nostálgicos, sino que también permite a los jóvenes experimentar el encanto del postre helado tradicional.
 
-## El fenómeno cultural de comer helados en invierno
+## Fenómeno cultural de comer helado en invierno
 
-El hábito de los taiwaneses de comer helados en invierno a menudo confunde a los extranjeros. Incluso cuando la temperatura es de solo unos 10 grados Celsius, las heladerías siguen teniendo mucho negocio. Detrás de este fenómeno hay factores culturales y psicológicos.
+El hábito de la gente de Taiwán de comer helado en invierno a menudo confunde a los extranjeros. Incluso cuando la temperatura es de solo unos 10 grados, las heladerías siguen teniendo mucho negocio. Detrás de este fenómeno hay factores culturales y psicológicos.
 
-Primero está la popularización de la "calefacción interior". Los centros comerciales, restaurantes y oficinas en Taiwán suelen tener calefacción, por lo que la temperatura interior es cómoda. Disfrutar de postres helados en interiores cálidos no causa frío.
+En primer lugar, existe la necesidad de "regulación emocional". El sabor dulce y refrescante del postre helado puede generar placer, especialmente en una vida moderna con mucho estrés. Independientemente de la estación, las personas necesitan esta pequeña alegría.
 
-Segundo es la necesidad de "regulación emocional". El sabor dulce y refrescante del postre helado puede generar placer, especialmente en una vida moderna con mucho estrés. Independientemente de la estación, las personas necesitan esta pequeña alegría.
+La "necesidad social" es otro elemento central. Comer helado con amigos se ha convertido en una actividad social para los taiwaneses. Esta modalidad social continúa sin importar el clima.
 
-La "necesidad social" también es fundamental. Comer helados con amigos se ha convertido en una actividad social para los taiwaneses. Esta modalidad social continúa sin importar el clima.
+Además, el clima invernal de Taiwán es relativamente templado, no tan frío como en el norte. Bajo estas condiciones climáticas, comer helado en invierno no es un acto demasiado extremo.
 
-Además, el clima del invierno en Taiwán es relativamente templado, no tan frío como en el norte. Bajo estas condiciones climáticas, comer postres helados en invierno no es un acto demasiado extremo.
+## Heladerías emblemáticas: de tiendas antiguas a nuevas marcas
 
-## Tiendas emblemáticas: de las antiguas a las nuevas marcas
+Las diferentes generaciones en Taiwán tienen heladerías icónicas. **Xingfa Ting** (幸發亭) en Taichung comenzó vendiendo _midoubing_ en 1938, y según un informe de 2018, la nuera de segunda generación, Cai Fengyun (蔡豐筠), ya había transmitido la tienda a tres hijas, cada una abriendo su propia tienda[^2]. **NINAO** (蜷尾家) en Tainan representa la nueva línea de postres para pasear y helados italianos, con el fundador Li Yu (李豫)[^7].
 
-Cada generación en Taiwán tiene tiendas icónicas. **Mingji Ice Fruit Room** (明記冰果室) en Tainan y los puestos antiguos de sorbete alrededor de los mercados locales son parte de la vida cotidiana de los lugareños, muchos de ellos transmitidos por tres generaciones; **Xingfa Ting Honey Bean Ice Shop** (幸發亭蜜豆冰本舖) en Taichung es famoso por su hielo de frijoles miel y sigue teniendo largas colas en invierno. En Taipéi, **Never Ice Cream** (蜷尾家) representa la nueva línea de helados _gourmet_, ganando atención de los medios internacionales después de la década de 2010 gracias a sus sabores limitados con ingredientes locales y su operación deliberadamente discreta.
+Hay otra tienda en Taichung que ha inscrito comer helado en invierno en su nombre. En 1946, Chen Dewang (陳德旺) cambió su oficio de hacer bañeras de madera a vender té negro con hielo y un bollo de helado con un carrito; más tarde se estableció como un tazón de _suanmeibing_ (酸梅冰), una cucharada de _mihua dou_ (蜜花豆) y dos bolas de helado de leche. La tercera generación, Chen Liwei (陳倧偉), dijo que la gente venía a comer en invierno, y se les reía diciendo "loco vendiendo, loco comiendo", por lo que le llamaron _fengrenbing_ (瘋人冰). La tienda está cerca del Instituto de Educación Secundaria de Taichung, y su abuelo cambió el nombre fonéticamente a Yizhong Fengren Bing[^8].
 
-**Hualien Zhenyu Taro Ice City** (花蓮振宇芋冰城) en el este es un hito que cada turista debe visitar, famoso por su helado de taro auténtico y la serie de postres de taro; **Liaqiao Bing** (立橋冰), una tienda antigua del distrito Este en Tainan, es un "lugar de peregrinación" para los amantes de los postres del sur, con sorbete de frijoles verdes y té de harina como tesoros de la casa. La característica común de estas tiendas antiguas es: no tienen franquicias ni presupuesto de marketing; se mantienen gracias a la reputación generacional. [^3]
+## Desarrollo diverso de postres locales
 
-## Desarrollo diversificado de postres locales
+Cada región de Taiwán ha desarrollado una cultura de postres helados única; solo en la ciudad de Taichung se han creado dos recetas: _midoubing_ y _fengrenbing_. Estos postres locales a menudo combinan ingredientes locales y elementos culturales.
 
-Cada región de Taiwán ha desarrollado una cultura única de postres helados. El helado con sabor a ajo de Yilan, el hielo de Fengren en Taichung, el helado de _pongbing_ (galleta) en Tainan y el helado de papa de Hualien son creaciones características de cada lugar.
+Este desarrollo autónomo hace que el mapa de los postres helados de Taiwán presente un marcado carácter local, lo que aumenta el atractivo turístico.
 
-Estos postres locales a menudo combinan ingredientes y elementos culturales locales. Por ejemplo, el helado de _kaoliang_ (aguardiente) de Kinmen incorpora la cultura del licor local en el postre helado. Los paletas de hielo de vino viejo de Mazu son un concepto similar.
+## Conciencia de la salud y tendencias de innovación
 
-La cultura de los postres helados de las tribus indígenas también es muy característica. Los postres hechos con ingredientes tradicionales indígenas como mijo, quinua roja y _sansu_ (hierba amarga) no solo tienen sabores únicos, sino que también transmiten la cultura alimentaria indígena.
+A medida que aumenta la conciencia sobre la salud, los postres helados en Taiwán también se están desarrollando en una dirección más saludable. Los postres bajos en azúcar, sin azúcar y hechos con edulcorantes naturales han comenzado a recibir atención.
 
-Este desarrollo autónomo hace que el mapa del postre helado de Taiwán presente un marcado color local, lo que aumenta el atractivo turístico.
+Los postres a base de frutas son especialmente populares. El dulzor natural y los ricos nutrientes de las frutas frescas cumplen con la demanda moderna de salud. El helado de maracuyá, el helado de kiwi y el helado de aguacate se han convertido en opciones populares.
 
-## Conciencia de salud y tendencias de innovación
+El uso de ingredientes orgánicos es también una tendencia. La leche orgánica, las frutas orgánicas y los colorantes naturales hacen que los postres sean más seguros además de deliciosos.
 
-A medida que la conciencia sobre la salud aumenta, los postres helados en Taiwán también se están desarrollando en una dirección más saludable. Los postres bajos en azúcar, sin azúcar y hechos con edulcorantes naturales han comenzado a recibir atención.
-
-Los postres a base de frutas son especialmente populares. El dulzor natural y los ricos nutrientes de las frutas frescas cumplen con la demanda moderna de salud. El mango congelado, el kiwi y el aguacate se han convertido en opciones populares.
-
-El uso de ingredientes orgánicos es otra tendencia. La leche orgánica, las frutas orgánicas y los colorantes naturales hacen que los postres sean más seguros además de deliciosos.
-
-También ha aparecido el concepto de postres funcionales. Los postres que añaden nutrientes como colágeno, vitaminas y probióticos están combinando el disfrute con la salud.
+También ha comenzado a aparecer el concepto de postres funcionales. Los postres que añaden nutrientes como colágeno, vitaminas o probióticos están combinando el disfrute con la salud.
 
 ## Internacionalización y exportación de marcas
 
-El paso hacia la internacionalización de las marcas de postres helados en Taiwán está acelerándose. Además de ICE MONSTER, muchas otras marcas han comenzado a incursionar en mercados extranjeros. Estas marcas no solo exportan productos, sino también la cultura del postre helado de Taiwán.
+El paso hacia la internacionalización de las marcas de postres helados en Taiwán se está acelerando. Además de ICE MONSTER, muchas otras marcas han comenzado a incursionar en mercados extranjeros. Estas marcas no solo exportan productos, sino también la cultura del postre helado de Taiwán.
 
 Las tiendas de postres helados taiwanesas en el extranjero a menudo se convierten en puntos de reunión para los chinos locales y ventanas para que los extranjeros experimenten la cultura de Taiwán. A través de la diplomacia gastronómica, los postres helados de Taiwán están sembrando semillas culturales en todo el mundo.
 
-La exportación de tecnología también es una dirección importante de desarrollo. Las máquinas de hielo picado, las tecnologías de fabricación de hielo y las recetas de ingredientes tienen oportunidades comerciales licenciadas en el extranjero. Taiwán está pasando de ser un país consumidor de postres helados a un país exportador de tecnología y cultura del postre helado.
+La exportación de tecnología también es una dirección de desarrollo importante. Las máquinas de hielo picado, la tecnología de fabricación de hielo y las recetas de ingredientes son oportunidades comerciales licenciadas en el extranjero. Taiwán está pasando de ser un país consumidor de postres helados a un país exportador de tecnología y cultura del postre helado.
 
-La lógica subyacente de la cultura del postre helado en Taiwán es: cada era ha tenido personas que han transformado los ingredientes más fáciles de conseguir en el lenguaje del postre helado —la máquina de hielo colonial, el carrito de sorbete posguerra, la máquina de hielo picado de los años 90, y la leche _gourmet_ de los años 2010. La forma cambia, pero la obsesión por comer helados no ha cambiado.
+La lógica subyacente de la cultura del postre helado en Taiwán es: cada era ha tenido personas que han transformado los ingredientes más fáciles de obtener en el lenguaje del postre helado—la máquina de hielo del período colonial japonés, el carrito de sorbetes después de la guerra, los bloques de hielo picado de la década de 1980 y las leches artesanales de la década de 2010. La forma cambia, pero la obsesión por comer helado no ha cambiado.
 
 ## Fuentes de imágenes
 
-- Héroe: Mango congelado de Taipéi, fotografía de SuperMidget (English Wikivoyage), [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taipei_mangguobing.JPG), Dominio público.
+- Hero: Helado de mango de Taipéi, fotografía de SuperMidget (English Wikivoyage), [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taipei_mangguobing.JPG), Dominio público.
 
 ## Referencias
 
-[^1]: [Sitio web oficial de la marca ICE MONSTER](https://www.icemonster.com.tw/) — Historia de la marca, que incluye la fundación del Yongkang 15 Ice Hall en 1995 y la explicación del cambio de nombre y reubicación en 2010.
+[^1]: [Wikipedia: Sorbetes tradicionales en Taiwán](https://zh.wikipedia.org/wiki/%E5%89%89%E5%86%B0) — Artículo sobre sorbetes tradicionales en Taiwán; la sección histórica describe cómo la tecnología de fabricación de hielo fue introducida desde Japón durante el período colonial, siendo inicialmente _qingbing_, y enumera tipos de postres helados como _xuehuabing_, _mianmianbing_ y _paopao bing_ junto con ingredientes comunes.
 
-[^2]: [Página oficial "Gastronomía de Taiwán" de la Agencia Nacional de Turismo](https://www.taiwan.net.tw/) — Presentación de los postres helados representativos de Taiwán, incluyendo las secciones de mango congelado e hielo picado.
+[^2]: [Mirror Weekly: 【Tiendas antiguas de Taiwán】El corazón femenino en el midoubing, Xingfa Ting](https://www.mirrormedia.mg/story/20180817bus001) — Reporte de 2018; dice que Xingfa Ting, cuyo nombre original era Xingfa Ting, lanzó _midoubing_ en 1938 inspirándose en el _siguo bing_ japonés, vendiéndolo con un carrito cerca de la estación de tren de Taichung, y estableció un puesto en el Primer Mercado en 1943; fue transmitido por la nuera Cai Fengyun a tres hijas.
 
-[^3]: [CNN Travel: Reportaje sobre el mango congelado en Taiwán](https://edition.cnn.com/travel) — Cobertura mediática internacional de CNN sobre el mango congelado en Taiwán, citando a ICE MONSTER y al mango congelado de Yujing como casos representativos.
+[^3]: [Wang Junchang 〈Desarrollo de industrias relacionadas con los productos acuáticos en Taiwán durante el período colonial japonés: el caso de la industria del hielo y la refrigeración〉, _Revista de Cultura Marina_, Vol. 21 (2016)](https://scholars.ntou.edu.tw/handle/123456789/10693) — El resumen del artículo señala que la industria pesquera de Taiwán creció notablemente a mediados y finales de la década de 1920, y la industria del hielo y la refrigeración tuvo un impacto como industria relacionada, estimando su conexión mediante análisis de regresión.
 
-[^4]: [Lonely Planet Taiwan: Guía de comida](https://www.lonelyplanet.com/taiwan) — Presentación y recomendación de tiendas de la cultura del postre helado de Taiwán por una guía turística internacional.
+[^4]: [Mirror Weekly: ICE MONSTER Luo Junhua fundando y reiniciando](https://www.mirrormedia.mg/story/20190529bus002) — Reporte de 2019; dice que en 1997 Luo Junhua abrió ICE MONSTER Ice Hall en Yongkang Street con su exesposa Zhang Jiemei, cerró sin previo aviso en 2010 y reinició con ICE MONSTER en la calle Zhongxiao East en 2012, teniendo 19 sucursales en Taiwán y en el extranjero siete años después; el artículo lo nombra como el creador del primer helado de mango de todo Taiwán.
 
-[^5]: [Wikipedia: ICE MONSTER](https://zh.wikipedia.org/wiki/ICE_MONSTER) — Historia de la marca ICE MONSTER, su predecesor "Yongkang 15 Ice Hall" e información sobre exposiciones internacionales.
+[^5]: [Mirror Weekly: 【Tiendas antiguas de Taiwán】La verdadera habilidad del bloque de hielo, la segunda generación triunfa](https://www.mirrormedia.mg/story/20170612bus002) — Reporte de 2017; describe a Xingfa Ting en el mercado nocturno de Shilin, mencionando que el hielo picado apareció hace treinta años y que la segunda generación desarrolló _xuepianbing_ en la década de 1980, convirtiéndose en la primera tienda especializada en hielo picado del norte de Taiwán, con un proceso de fabricación de bloques de hielo de siete horas.
 
-[^6]: [Kakigōri - Wikipedia](https://zh.wikipedia.org/wiki/%E5%89%89%E5%86%B0) — Origen de la cultura del hielo picado japonés y el contexto histórico de su introducción en Taiwán durante el período colonial, así como la evolución de los ingredientes del sorbete tradicional taiwanés.
+[^6]: [Newsis: Historia detrás de la creación de una marca duradera, postre coreano Seolbing](https://www.newsis.com/view/NISX20220107_0001716438) — Reporte en coreano de 2022; dice que el precursor del _seolbing_ fue una cafetería de _tteok_ (pastel de arroz) en Nanpo-dong, Pusan, en 2010, y que su fundador aprendió repostería mientras estudiaba en Japón, lanzando _injeolmi seolbing_ en abril de 2013.
+
+[^7]: [Marie Claire: Apertura de la panadería taiwanesa "NINAO"](https://www.marieclaire.com.tw/lifestyle/taste/71756) — Reporte de 2023; presenta la marca NINAO (蜷尾家, postre para pasear y helado artesanal NINAO Gelato) y su fundador Li Yu.
+
+[^8]: [Mirror Weekly: 【Tiendas antiguas de Taiwán】Yizhong Fengren Bing: El sabor humano del _fengrenbing_](https://www.mirrormedia.mg/story/20170308bus001) — Reporte de 2017; dice que Chen Dewang comenzó con el carrito vendiendo helados en 1946, y un tazón de _suanmeibing_, una cucharada de _mihua dou_ y dos bolas de helado de leche, y la tercera generación Chen Liwei explica los orígenes del nombre "Fengrenbing" e Yizhong Fengren Bing.
 
 ## Lectura extendida
 
-- [ICE MONSTER](https://www.icemonster.com.tw/) — Sitio web oficial de la marca representativa del hielo picado de mango de Taipéi
-- [Cooperativa Agrícola de Yujing](/food/玉井芒果) — Introducción a la zona productora de mangos Aiwen en Tainan
+- [Bapupu Ice](/es/food/ba-pu-ice-cream) — El helado antiguo en el carrito, otra línea de la transformación de los postres helados de Taiwán a lo largo del tiempo
+- [Yongkang Street](/es/geography/yongkang-street) — La zona donde se encuentran las heladerías y el helado de mango, con tres transformaciones desde Shōwa Town hasta calle turística
