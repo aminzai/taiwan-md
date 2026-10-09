@@ -1,109 +1,117 @@
 ---
-title: 'Le pain et la pâtisserie à Taïwan'
-description: "Du sacre mondial de Wu Pao-chun à l'expansion internationale de 85°C, à la découverte du charme unique du pain taïwanais"
+title: 'Le pain et la boulangerie à Taïwan'
+description: "Du champion du monde de Wu Bao-chun à l'expansion internationale de 85°C, à la découverte de l'originalité du pain taïwanais"
 date: 2026-03-19
 category: 'Food'
-tags: ['pain', 'pâtisserie', 'Wu Pao-chun', 'boulangerie taïwanaise', '85°C']
+tags: ['pain', 'boulangerie', 'Wu Bao-chun', 'pain taïwanais', '85°C']
 subcategory: '烘焙與甜點'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 image: '/article-images/food/taiwanese-pineapple-cake.webp'
-imageAlt: "Gâteau à l'ananas taïwanais"
+imageAlt: 'Gâteau aux ananas taïwanais'
 imageCredit: 'Kwb / Wikimedia Commons'
 imageLicense: 'Public domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:TaiwanesePineappleCake.jpg'
 translatedFrom: 'Food/台灣麵包與烘焙.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:dc1169789f149357'
-sourceBodyHash: 'sha256:86fbaa53393cb1b7'
-translatedAt: '2026-09-26T20:08:19+08:00'
+sourceCommitSha: 'c08419525'
+sourceContentHash: 'sha256:a603b4a8bf5b1742'
+sourceBodyHash: 'sha256:05bf89cfacdb7f7b'
+translatedAt: '2026-10-10T03:02:07+08:00'
 ---
 
-# Le pain et la pâtisserie à Taïwan
+# Le pain et la boulangerie à Taïwan
 
-La culture boulangère de Taïwan incarne une synthèse singulière entre Orient et Occident. Des techniques de base introduites sous la colonisation japonaise, en passant par l'influence américaine de l'après-guerre, jusqu'à la vague européenne de ces dernières années, l'industrie taïwanaise de la boulangerie a tracé sa propre voie. En 2010, [Wu Pao-chun](/fr/people/wu-bao-chun/) remporte à Paris le titre individuel du Mondial du Pain — le championnat du monde de la boulangerie —, plaçant durablement la boulangerie taïwanaise sur la scène internationale.[^1]
+La culture du pain à Taïwan présente une saveur unique née de la fusion entre l'Est et l'Ouest. Des techniques de base introduites pendant l'époque coloniale japonaise, à l'influence américaine après la guerre, puis aux tendances européennes récentes, l'industrie de la boulangerie à Taïwan a tracé sa propre voie. En 2010, Wu Bao-chun (吳寶春) remporta la victoire dans la catégorie des pains européens lors du championnat du monde de la boulangerie organisé par Lesaffre en France, affirmant la notoriété internationale de la boulangerie taïwanaise.[^1]
 
-## Le phénomène Wu Pao-chun et la conquête du titre mondial
+## Le phénomène Wu Bao-chun et le chemin vers la victoire mondiale
 
-En mars 2010, au salon Europain de Paris, le Mondial du Pain — la coupe du monde du pain organisée par le groupe Lesaffre — consacre [Wu Pao-chun](/fr/people/wu-bao-chun/), originaire de Pingtung dans le sud de Taïwan, champion individuel avec sa création primée « Mi Niang Li Xiang » (à base de litchi, de rose et de vieux levain fermenté au vin rouge de la distillerie de Puli), suscitant la stupéfaction du monde entier.[^1] C'est un jalon dans l'histoire de la boulangerie taïwanaise. Il convient de noter que cette compétition est le Mondial du Pain, à ne pas confondre avec la Coupe du Monde de la Boulangerie, une compétition plus importante mais disputée par équipes.
+En 2008, l'équipe taïwanaise composée de Wu Bao-chun (吳寶春), Cao Zhi-xiong (曹志雄) et Wen Shi-cheng (文世成) remporta la médaille d'argent dans la catégorie par équipe lors du championnat du monde de la boulangerie de Lesaffre à Paris. En 2010, cette compétition ajouta un volet individuel appelé « Les Masters de la Boulangerie » (Les Masters de la Boulangerie), dont les participants étaient les dix meilleurs individus des équipes de 2008. Wu Bao-chun (吳寶春), originaire de Neipu dans le sud-ouest de Taïwan, remporta la victoire dans la catégorie des pains européens avec son « pain à la bière et à la lychee » (connu sous le nom de pain aux framboisiers et à la rose).[^2] Cet événement marqua une étape décisive dans l'histoire de la boulangerie taïwanaise.
 
-Derrière ce succès se cache une histoire émouvante. Issu d'un milieu modeste, Wu Pao-chun entre en apprentissage dans une boulangerie dès la fin du collège, débutant par les tâches les plus élémentaires. À une époque où les filières de boulangerie n'existaient pas encore, la transmission orale du maître à l'apprenti était la seule voie d'apprentissage. C'est à force de passion pour le pain et de persévérance qu'il a peu à peu affiné son savoir-faire.
+La réussite de Wu Bao-chun repose sur une histoire touchante. Dans une famille de huit enfants, la mère travaillait à gauche pour élever les enfants en cultivant des ananas, laissant peu de ressources pour leur éducation. Wu Bao-chun quitta l'école secondaire à quinze ans pour partir étudier seul à Taipei dans une boulangerie. Plus tard, un ami, Chen Fu-ming (陳撫洸), l'introduisit à l'art du levain et à l'utilisation de fruits confits macérés dans l'alcool, ce qui amena Wu à commencer à lire des dictionnaires et des livres de boulangerie japonais et français.[^3]
 
-L'idée du « Mi Niang Li Xiang » puise dans les ingrédients locaux taïwanais : la douceur tropicale du litchi, le parfum floral de la rose, associés à un levain fermenté au vin rouge de la distillerie de Puli, pour créer une palette de saveurs inédite. Cette démarche consistant à intégrer des éléments taïwanais dans la boulangerie occidentale est depuis devenue l'une des signatures du pain taïwanais.
+L'inspiration derrière le « pain à la bière et à la lychee » vient du célèbre pâtissier parisien Ladurée, notamment son macaron à la lychee. Wu utilisa de la bière de riz de Sanyi dans le sud-ouest de Taïwan, des framboisiers de Changhua et des roses bio de Puli dans le centre de Taïwan.[^3] Cette approche d'intégrer des éléments locaux taïwanais dans les recettes occidentales est devenue un caractère distinctif du pain taïwanais.
 
-Le sacre de Wu Pao-chun n'est pas un aboutissement isolé pour Taïwan dans cette compétition. Wu Tzu-ching (武子靖) en 2015, Chen Yao-hsun (陳耀訓) en 2017, puis Wang Peng-chieh (王鵬傑) en 2022, ont à leur tour remporté le titre individuel du Mondial du Pain, faisant de Taïwan l'un des pays les plus titrés de l'histoire de cette compétition.[^2]
+Après Wu Bao-chun, les boulangers taïwanais ont continué à briller dans diverses compétitions internationales. Organisée tous les deux ans, la compétition Mondial du Pain se déroule avec une équipe composée d'un boulanger et d'un assistant : Wu Zi-jing (武子靖) remporta la victoire dans la catégorie des pains sucrés en 2011, l'équipe taïwanaise remporta les championnats en 2015 et 2017, et en 2017, c'était Chen Yao-xun (陳耀訓) qui participa.[^4][^5][^6] Wang Peng-jie (王鵬傑), disciple de Wu Bao-chun, remporta le prix du « meilleur pain artistique » lors de l'exposition Europain en 2018, puis devint entraîneur de l'équipe taïwanaise pour le Mondial du Pain.[^7] En 2022, l'entraîneur Wu Wu-hsien (吳武憲) guida Wu Zi-jing (武子靖), Xu Shao-huan (徐紹桓) et Li Chung-wei (李忠威) pour remporter pour la première fois la victoire de l'équipe lors du championnat du monde de la boulangerie de Lesaffre.[^6]
 
-## L'esthétique singulière du pain taïwanais
+## L'esthétique unique du pain taïwanais
 
-La culture boulangère de Taïwan fusionne de multiples influences pour former une « esthétique taïwanaise » qui lui est propre. Le trait le plus marquant de cette esthétique est l'absence de limites : n'importe quel ingrédient peut devenir garniture, toute saveur mérite d'être tentée.
+La culture du pain à Taïwan fusionne divers éléments pour créer une esthétique unique appelée « esthétique taïwanaise ». La caractéristique principale de cette esthétique est la liberté sans limite, où tout ingrédient peut devenir un élément du pain et toute saveur mérite d'être explorée.
 
-Le pain aux oignons verts (_cong hua mianbao_) est l'innovation taïwanaise la plus emblématique. Aux yeux d'un Européen, marier oignons verts et pain relève de l'incongru total — et pourtant, les Taïwanais en ont fait un classique. La mie est moelleuse, la surface généreusement parsemée de ciboule et de mayonnaise, et le mélange salé-sucré surprend agréablement. Cet esprit d'innovation audacieuse est précisément ce qui constitue l'essence du pain taïwanais.
+Le pain aux oignons est l'exemple le plus emblématique de cette innovation. Pour les Européens, l'association d'oignons et de pain semble incohérente, mais dans les boulangeries taïwanaises, c'est un classique incontournable. La texture du pain est moelleuse, recouverte d'oignons verts et de mayonnaise, offrant une combinaison salée et sucrée qui surprend agréablement. Cet esprit innovant audacieux est au cœur même de l'essence du pain taïwanais.
 
-Le pain au _rousong_ est une autre création représentative. Ce condiment traditionnel taïwanais à base de viande effilochée, associé au pain occidental, donne naissance à une expérience gustative singulière : la couche de rousong en surface apporte umami et mâche, tandis que la mie, à l'intérieur, conserve tout son moelleux sucré — un contraste aussi intéressant que réussi.
+Le pain aux viandes hachées est une autre création emblématique. Cette préparation traditionnelle taïwanaise associée à la boulangerie occidentale crée une expérience gustative unique. La couche extérieure de viande hachée apporte une saveur riche et une texture croquante, tandis que le pain intérieur reste doux et sucré, créant un contraste intéressant.
 
-Le _bolo bao_ — littéralement « pain à l'ananas » — est originaire de Hong Kong et a développé sa propre version après son arrivée à Taïwan. Malgré son nom, il ne contient pas d'ananas : c'est le motif craquelé de sa croûte, qui rappelle la peau d'un ananas, qui lui vaut cette appellation. La version taïwanaise du bolo bao est généralement plus sucrée et sa croûte plus épaisse que la version hongkongaise, ce qui correspond au goût prononcé des Taïwanais pour le sucré.
+Le pain au « gâteau aux pommes » (pineapple cake) ne contient pas de pât de pomme, son nom provient de la croûte craquante à la surface. Il ressemble à la fameuse « pineapple bun » de Hong Kong et au « melon pan » japonais, mais l'ordre chronologique de leur apparition reste flou.
 
-## Pain européen contre pain taïwanais : le dialogue de deux philosophies
+## Pain européen vs pain taïwanais : un dialogue entre deux philosophies
 
-Ces dernières années, le pain européen a suscité un engouement à Taïwan, poussant de nombreux boulangers à partir se former aux techniques authentiques en France. Cette vague européenne engage un dialogue intéressant avec le pain taïwanais traditionnel.
+Ces dernières années, le pain européen a connu un regain d'intérêt à Taïwan, attirant de nombreux boulangers à suivre des formations en France pour maîtriser les techniques traditionnelles. Cette vague européenne entre en dialogue fascinant avec le pain taïwanais traditionnel.
 
-Le pain européen poursuit un idéal de « pureté ». Levain naturel, fermentation longue, exigence sur la qualité de la farine et la température de l'eau. Le résultat présente généralement une croûte croustillante et une mie moelleuse, une texture dense, avec une légère acidité naturelle. Ce type de pain se déguste lentement : il faut le mâcher longuement pour en percevoir toute la douceur farineuse.
+Le pain européen poursuit l'idéal de « pureté ». Il utilise du levain naturel, un processus de fermentation prolongé, et accorde une grande importance à la qualité de la farine et à la température de l'eau. Le produit final est généralement dur à l'extérieur et moelleux à l'intérieur, avec une texture dense et un léger goût acide. Ce type de pain exige d'être savouré lentement, en le mastiquant délicatement pour apprécier la douceur naturelle de la farine.
 
-Le pain taïwanais, lui, poursuit la « richesse ». Une multitude de garnitures, de saveurs et de formes, dans le seul but de procurer au consommateur la plus grande satisfaction possible. La mie y est généralement plus moelleuse, plus sucrée, adaptée à une dégustation rapide. Cette différence reflète deux compréhensions culturelles distinctes de la nourriture.
+Le pain taïwanais, quant à lui, vise l'idéal de « richesse ». Avec une multitude d'ingrédients, de saveurs et de formes, il cherche à offrir le maximum de satisfaction au consommateur. La texture du pain est généralement plus douce, plus sucrée, adaptée à une consommation rapide. Cette différence reflète des perspectives culturelles distinctes sur la nourriture.
 
-Fait intéressant, ces deux styles ne s'excluent pas mutuellement à Taïwan : ils se complètent. De nombreuses boulangeries vendent à la fois du pain européen et du pain taïwanais, répondant ainsi aux besoins de clientèles différentes. Certains boulangers novateurs vont jusqu'à combiner les deux techniques, créant une nouvelle catégorie : le « pain européen à la taïwanaise ».
+Curieusement, ces deux styles coexistent harmonieusement à Taïwan sans s'exclure mutuellement. De nombreuses boulangeries proposent à la fois des pains européens et des pains taïwanais pour répondre aux préférences variées des clients. Certains boulangers innovants combinent même les deux techniques pour créer une nouvelle catégorie appelée « pain taïwanais européen ».
 
-## L'épopée internationale de 85°C
+## La légende internationale d'85°C
 
-Si Wu Pao-chun incarne le sommet technique de la boulangerie taïwanaise, 85°C en symbolise la réussite commerciale. Fondée en 2003, cette enseigne est passée d'un café local taïwanais à une chaîne internationale : entrée sur le marché chinois en 2008, expansion aux États-Unis en 2016.[^3]
+Si Wu Bao-chun incarne l'excellence technique de la boulangerie taïwanaise, alors 85°C symbolise la réussite commerciale de l'industrie. Son fondateur, Wu Zheng-xue (吳政學), eu l'idée de créer la marque après avoir dégusté un dessert dans un café d'hôtel cinq étoiles en 2003. La première boutique ouvrit en 2004 dans la banlieue de Taipei, marquant le début de la transformation d'un simple café local en une entreprise internationale : la première boutique à l'étranger ouvrit en Australie en 2006, suivie par l'entrée sur le marché de Shanghai en 2007, et la première boutique aux États-Unis en Californie en 2008.[^8]
 
-Le secret du succès de 85°C réside dans son positionnement de « luxe accessible ». L'enseigne propose des gâteaux et des pains dignes d'un hôtel cinq étoiles, à des prix comparables à ceux d'un café ordinaire. Cette stratégie a su cibler avec précision les attentes des consommateurs, permettant au grand public de savourer des produits de boulangerie raffinés.
+Le secret du succès d'85°C réside dans son positionnement de « luxe abordable ». La marque propose des gâteaux et des pains de qualité d'hôtel cinq étoiles, mais à des prix comparables à ceux des cafés ordinaires. Cette stratégie a su parfaitement capter l'attention des consommateurs, permettant à chacun de profiter de produits de boulangerie raffinés.
 
-L'internationalisation ne s'est pas faite sans heurts. Sur le marché chinois, 85°C a dû affronter une concurrence locale féroce ; sur le marché américain, il lui a fallu s'adapter à des habitudes de consommation différentes. Mais à force d'ajustements constants de son offre de produits et de son modèle d'exploitation, 85°C a fini par s'implanter durablement à l'étranger.
+Le processus d'internationalisation n'a pas été sans obstacles. Sur le marché chinois, 85°C a dû faire face à une concurrence locale intense ; sur le marché américain, il a fallu s'adapter à des habitudes de consommation différentes. Cependant, grâce à des ajustements constants dans l'offre de produits et le modèle opérationnel, 85°C a progressivement consolidé sa présence à l'étranger.
 
-Le succès de 85°C à l'étranger démontre également la compétitivité internationale de la boulangerie taïwanaise. Bien que les techniques soient issues d'Europe, des États-Unis et du Japon, l'innovation et l'adaptation taïwanaises ont donné naissance à un style et à des atouts qui lui sont propres. Ce rayonnement de soft power est plus convaincant que n'importe quelle communication officielle.
+Le succès international d'85°C démontre également la compétitivité internationale du secteur de la boulangerie taïwanaise. Bien que les techniques proviennent de l'Europe, des États-Unis et du Japon, après l'innovation et l'adaptation taïwanaise, le secteur a développé un style et un avantage distincts. Cette force douce est plus convaincante que n'importe quelle promotion officielle.
 
-## La formation et la transmission du savoir-faire boulanger
+## Éducation à la boulangerie et transmission des compétences
 
-Le développement de l'industrie boulangère taïwanaise est indissociable du soutien de son système éducatif. De l'ancien compagnonnage aux établissements d'enseignement technique et professionnel actuels, la formation en boulangerie a connu une transformation majeure.
+Le développement de l'industrie de la boulangerie à Taïwan ne serait pas possible sans le soutien du système éducatif. Des méthodes d'apprentissage traditionnelles basées sur le maître-élève, aux écoles techniques actuelles, l'éducation à la boulangerie a connu une évolution majeure.
 
-Les filières de boulangerie des établissements techniques et professionnels ont formé un grand nombre de talents pour le secteur. Les étudiants n'y apprennent pas seulement les techniques de base, mais acquièrent aussi des connaissances spécialisées en science alimentaire, en nutrition et en contrôle des coûts. Cette formation systématisée a élevé le niveau professionnel de l'ensemble du secteur.
+Les départements de boulangerie dans les écoles techniques ont formé une grande quantité de talents pour l'industrie. Les étudiants apprennent non seulement les techniques de base, mais aussi des connaissances professionnelles comme la science alimentaire, la nutrition et le contrôle des coûts. Cette éducation systématique a élevé le niveau professionnel global de l'industrie.
 
-Les concours de boulangerie, sous toutes leurs formes, jouent eux aussi un rôle important. Des compétitions internes aux établissements jusqu'aux championnats internationaux, ces concours sont à la fois des plateformes d'échange technique et des viviers de talents. Nombre de boulangers réputés se sont fait connaître grâce à des concours.
+Les compétitions de boulangerie jouent également un rôle crucial. Des concours locaux à l'échelle internationale, ces compétitions servent non seulement de plateforme d'échange technique, mais aussi de lieu d'émergence de talents. De nombreux célèbres boulangers ont fait leur nom grâce à ces compétitions.
 
-Ces dernières années, la formation en boulangerie s'est également diversifiée. Outre la formation technique traditionnelle, des cours de gestion entrepreneuriale, de sécurité alimentaire et de certification internationale ont été ajoutés. Ce modèle de formation globale rend les talents taïwanais de la boulangerie plus compétitifs sur le marché international.
+Ces dernières années, l'enseignement de la boulangerie s'est également diversifié. En plus de la formation technique traditionnelle, des cours sur la gestion de l'entreprise, la sécurité alimentaire et les certifications internationales ont été ajoutés. Ce modèle complet de formation rend les talents taïwanais de la boulangerie plus compétitifs sur les marchés mondiaux.
 
-## Les défis de la sécurité alimentaire et la transformation du secteur
+## Défis de la sécurité alimentaire et transformation de l'industrie
 
-La sécurité alimentaire est le plus grand défi auquel fait face l'industrie de la boulangerie. Du scandale des plastifiants aux controverses sur les additifs aromatiques, chaque incident alimentaire a porté un coup important au secteur. Les consommateurs étant de plus en plus exigeants en matière de sécurité alimentaire, les professionnels doivent mettre en place des systèmes de contrôle qualité plus rigoureux.
+La sécurité alimentaire représente le plus grand défi pour l'industrie de la boulangerie. Des crises comme celle des additifs plastiques ou les controverses autour des arômes ont eu un impact significatif sur l'industrie à chaque fois. Les consommateurs exigent de plus en plus de transparence sur la sécurité alimentaire, obligeant les professionnels à établir des systèmes de contrôle de qualité plus rigoureux.
 
-De nombreux professionnels ont adopté une stratégie de « transparence », en rendant publics l'origine des ingrédients et le processus de fabrication. Certaines boulangeries sont même allées jusqu'à installer des cuisines ouvertes, permettant aux consommateurs d'observer directement la fabrication. Cette pratique, bien qu'elle augmente les coûts, a aussi renforcé la confiance des consommateurs.
+De nombreux acteurs ont adopté une stratégie de transparence en publiant la provenance des ingrédients et le processus de fabrication. Certaines boulangeries ont même installé des cuisines ouvertes pour permettre aux consommateurs d'observer directement la production. Bien que cette approche augmente les coûts, elle renforce également la confiance des clients.
 
-La montée de la conscience santé a également stimulé la transformation du secteur. Les pains conçus autour de concepts sains — faible teneur en sucre, faible teneur en matières grasses, céréales complètes — commencent à séduire. Même si leur texture n'égale pas toujours celle du pain traditionnel, ils répondent aux attentes des consommateurs soucieux de leur santé.
+L'essor de la conscience sanitaire a également poussé l'industrie à se transformer. Les pains à faible teneur en sucre, en huile et à base de céréales complètes commencent à gagner en popularité. Bien que leur goût puisse ne pas être aussi savoureux que celui des pains traditionnels, ils répondent aux besoins des consommateurs soucieux de santé.
 
-L'innovation technique constitue une autre tendance majeure. L'équipement automatisé améliore l'efficacité de production, les techniques de surgélation prolongent la durée de conservation, et les nouvelles méthodes de cuisson ouvrent davantage de possibilités. Ces innovations améliorent non seulement la qualité des produits, mais réduisent aussi les coûts de main-d'œuvre.
+L'innovation technologique est une autre tendance importante. Les équipements automatisés améliorent l'efficacité de production, les techniques de congélation prolongent la durée de conservation, et les nouvelles méthodes de cuisson ouvrent des perspectives créatives. Ces innovations non seulement améliorent la qualité des produits, mais réduisent également les coûts de main-d'œuvre.
 
-La trajectoire de développement de l'industrie taïwanaise du pain et de la pâtisserie est clairement établie : du sacre inaugural de Wu Pao-chun en 2010, aux trois titres consécutifs remportés au Mondial du Pain en 2015, 2017 et 2022, jusqu'à l'expansion de 85°C sur les marchés européen, américain et asiatique — la compétitivité internationale accumulée par l'industrie taïwanaise de la boulangerie est désormais étayée par des résultats concrets. Il ne s'agit pas seulement d'une montée en gamme technique, mais d'une évolution complète, de la production jusqu'à la marque.[^4]
+La trajectoire de développement de l'industrie de la boulangerie et du pain à Taïwan est clairement établie : la victoire de Wu Bao-chun en 2010, les deux titres consécutifs de l'équipe taïwanaise aux Mondiaux du Pain en 2015 et 2017, la victoire de l'équipe lors du championnat du monde de la boulangerie de Lesaffre en 2022, ainsi que l'expansion de 85°C de Taïwan vers la Chine, l'Australie et les États-Unis, démontrent que l'industrie de la boulangerie taïwanaise a accumulé des preuves tangibles de sa compétitivité internationale, allant du cœur de la production jusqu'à la marque.
 
 ## Sources des images
 
-- Hero : gâteau à l'ananas taïwanais, photographié par Kwb, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:TaiwanesePineappleCake.jpg), domaine public.
+- Héros : Gâteau aux ananas taïwanais, photo Kwb, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:TaiwanesePineappleCake.jpg), domaine public.
 
 ## Références
 
-[^1]: [Site officiel de la boulangerie Wu Pao-chun](https://www.wu-pao-chun.com/) — présentation de la création « Mi Niang Li Xiang » et récit du sacre au Mondial du Pain 2010.
+[^1]: [Taïwan : le gagnant des Masters de la Boulangerie 2010 est…（Global Voices，2010-04-09）](https://globalvoices.org/2010/04/09/taiwan-the-winner-of-the-masters-de-la-boulangerie-2010-is/) — Wu Bao-chun remporta le championnat du monde de la boulangerie de Lesaffre en 2010, avec un extrait de blog de son ami décrivant le processus de développement du pain aux framboisiers et à la rose.
 
-[^2]: [Site officiel du Mondial du Pain](https://www.mondialdupain.com/) — palmarès des champions individuels de toutes les éditions, incluant les quatre titres taïwanais de 2010, 2015, 2017 et 2022.
+[^2]: [Wu Bao-chun（Wikipedia）](https://zh.wikipedia.org/zh-tw/%E5%90%B3%E5%AF%B6%E6%98%A5) — médaille d'argent par équipe en 2008, qualification et victoire dans la catégorie des pains européens lors des Masters en 2010, origine des ingrédients du « pain à la bière et à la lychee ».
 
-[^3]: [Relations investisseurs de 85°C](https://www.85cafe.com/) — historique de la marque 85°C et données sur son expansion à l'étranger.
+[^3]: [Le récit complet du champion de la boulangerie Wu Bao-chun（Mirroir hebdomadaire，2016-11-09）](https://www.mirrormedia.mg/story/20161108fin006) — début de Wu Bao-chun à quinze ans comme apprenti à Taipei, initiation par Chen Fu-ming, inspiration et ingrédients du « pain à la bière et à la lychee », première boutique de Wu ouverte en novembre 2010 à Kaohsiung.
 
-[^4]: [Institut taïwanais de recherche sur les céréales (CGPRDI)](https://www.cgprdi.org.tw/) — institut de recherche en techniques boulangères, incluant formation aux concours et accompagnement technique.
+[^4]: [Sans triplé coup de force, l'équipe taïwanaise remporte la médaille d'argent aux Mondiaux du Pain（CTS News，2019-10-23）](https://news.pts.org.tw/article/451506) — les Mondiaux du Pain se déroulent tous les deux ans, l'équipe taïwanaise remporta les championnats en 2015 et 2017, et en 2019, sous l'entraînement de Wang Peng-jie, remporta la médaille d'argent.
 
-[^5]: [Fédération nationale des associations professionnelles de boulangerie de la République de Chine](https://www.twbakery.org.tw/) — syndicat professionnel de la boulangerie, statistiques sectorielles et informations sur les compétitions internationales.
+[^5]: [Remerciements au champion du monde Chen Yao-xun : l'ère du pain taïwanais revient（Mirroir hebdomadaire，2019-05-13）](https://www.mirrormedia.mg/story/20190513food001) — Chen Yao-xun est le champion des Mondiaux du Pain 2017, son œuvre gagnante s'appelle « murmure de framboise ».
 
-## Pour aller plus loin
+[^6]: [Ils étaient autrefois des médaillés d'argent aux concours de boulangerie, réunis pour une reconquête historique : Taïwan remporte pour la première fois le championnat du monde de la boulangerie de Lesaffre par équipe（Mirroir hebdomadaire，2022-04-28）](https://www.mirrormedia.mg/story/20220428bus001) — en mars 2022, Taïwan remporta pour la première fois le championnat du monde de la boulangerie de Lesaffre par équipe, guidée par l'entraîneur Wu Wu-hsien avec Wu Zi-jing, Xu Shao-huan et Li Chung-wei ; Wu Zi-jing avait remporté le championnat des pains sucrés aux Mondiaux du Pain en 2011.
 
-- [Boulangerie Wu Pao-chun](https://www.wu-pao-chun.com/) — la boutique phare de Wu Pao-chun à Tainan, où l'on trouve le pain qui lui a valu son titre
-- [Institut taïwanais de recherche sur les céréales (CGPRDI)](https://www.cgprdi.org.tw/) — centre de recherche technique pour l'industrie de la boulangerie
+[^7]: [Le soutien massif des compatriotes motive les boulangers taïwanais à briller sur la scène mondiale（Sanlii News Network via Central News Agency，2019-10-22）](https://www.setn.com/news/622274) — Wang Peng-jie avait remporté le prix du « meilleur pain artistique » aux Europain en 2018, puis était devenu entraîneur de l'équipe taïwanaise aux Mondiaux du Pain en 2019, avec comme participants You Dong-yun et son assistant Xu Yu-chen.
+
+[^8]: [Comment tout a commencé（85°C Bakery Cafe）](https://www.85cbakerycafe.com/about) — histoire de la marque 85°C : inspiration du fondateur en 2003, première boutique dans la banlieue de Taipei en 2004, en Australie en 2006, à Shanghai en 2007, première boutique aux États-Unis à Irvine en Californie en 2008.
+
+## Lecture complémentaire
+
+- [Boulangerie Wu Bao-chun](https://www.wupaochun.com/) — site officiel de la boulangerie de Wu Bao-chun, première boutique ouverte en 2010 à Kaohsiung
+- [Institut technique de l'industrie des céréales de Chine](https://www.cgprdi.org.tw/) — institution de recherche sur les technologies de la boulangerie
+
+===BODY===
