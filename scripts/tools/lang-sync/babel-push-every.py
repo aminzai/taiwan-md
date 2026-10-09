@@ -167,7 +167,15 @@ def push() -> tuple[bool, str]:
     return r.returncode == 0, " | ".join(tail)
 
 
-def one_pass(min_files: int, blocked_streak: list, alert_after: int) -> None:
+def oldest_unpushed_age_hours() -> float:
+    """origin/main..HEAD 裡最舊那個 commit 距今幾小時；沒有未推送就回 0。"""
+    r = git("log", "origin/main..HEAD", "--format=%ct")
+    stamps = [int(x) for x in r.stdout.split() if x.isdigit()]
+    return (time.time() - min(stamps)) / 3600 if stamps else 0.0
+
+
+def one_pass(min_files: int, blocked_streak: list, alert_after: int,
+             max_age_hours: float = 3.0) -> None:
     branch = git("rev-parse", "--abbrev-ref", "HEAD").stdout.strip()
     if branch != "main":
         log(f"⚠️ 主工作樹不在 main（在 {branch}），不動作")
@@ -177,10 +185,15 @@ def one_pass(min_files: int, blocked_streak: list, alert_after: int) -> None:
         log(f"⚠️ git fetch 失敗，沿用舊的 origin/main：{fetch.stderr.strip()[:200]}")
     files = unpushed_translations()
     ahead, behind = ahead_behind()
-    if len(files) < min_files:
+    # 篇數門檻之外再加年齡門檻（2026-10-10 babel-nightly）：缺口歸零後產線一夜只出幾篇，
+    # 數到 50 可能要好幾天。10-10 凌晨量到 45 篇、最舊的 commit 已在本機躺 6.5 小時——
+    # 正是這支要關掉的「譯文只存在一台機器硬碟上」的空窗，只是換成尾段才長出來。
+    age = oldest_unpushed_age_hours() if files else 0.0
+    if len(files) < min_files and age < max_age_hours:
         # 不到門檻就只在狀態改變時記錄，免得 log 每兩分鐘一行洗版
         return
-    log(f"📦 未推送譯文 {len(files)} 篇（門檻 {min_files}；ahead {ahead} / behind {behind}）")
+    why = f"門檻 {min_files}" if len(files) >= min_files else f"最舊 {age:.1f} 小時 ≥ {max_age_hours:g}"
+    log(f"📦 未推送譯文 {len(files)} 篇（{why}；ahead {ahead} / behind {behind}）")
     if not merge_origin():
         return
     ok, tail = push()
@@ -197,6 +210,8 @@ def one_pass(min_files: int, blocked_streak: list, alert_after: int) -> None:
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__.split("\n")[0])
     ap.add_argument("--min", type=int, default=50, help="未推送譯文達到幾篇才推（預設 50）")
+    ap.add_argument("--max-age-hours", type=float, default=3.0,
+                    help="未推送的最舊 commit 超過幾小時就推，不管篇數（預設 3）")
     ap.add_argument("--interval", type=int, default=120, help="--watch 每幾秒檢查一次")
     ap.add_argument("--alert-after", type=int, default=5, help="連續被擋幾次升級成 🔴")
     g = ap.add_mutually_exclusive_group(required=True)
@@ -233,13 +248,13 @@ def main() -> int:
 
     streak = [0]
     if args.once:
-        one_pass(args.min, streak, args.alert_after)
+        one_pass(args.min, streak, args.alert_after, args.max_age_hours)
         return 0
 
     log(f"▶️ push-every 常駐啟動（門檻 {args.min} 篇、每 {args.interval} 秒、pid {os.getpid()}）")
     while True:
         try:
-            one_pass(args.min, streak, args.alert_after)
+            one_pass(args.min, streak, args.alert_after, args.max_age_hours)
         except Exception as e:  # noqa: BLE001 — 常駐迴圈不因單次例外死掉，但要留痕
             # 不在這裡碰鎖：鎖只在 merge_origin() 的 finally 裡釋放，這裡釋放的
             # 可能是 dispatcher 正持有的那把。
