@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-09T13:09:32+08:00",
-    "zhCommitHead": "46d39c0f6",
+    "lastUpdated": "2026-10-09T13:46:00+08:00",
+    "zhCommitHead": "be3a7e3a6",
     "totalZh": 1125,
     "activeLanguages": [
       "en",
@@ -44,8 +44,8 @@
       },
       "es": {
         "total_zh": 1125,
-        "fresh": 1124,
-        "stale": 1,
+        "fresh": 1125,
+        "stale": 0,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -68,8 +68,8 @@
       },
       "id": {
         "total_zh": 1125,
-        "fresh": 1124,
-        "stale": 1,
+        "fresh": 1125,
+        "stale": 0,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -84,8 +84,8 @@
       },
       "hi": {
         "total_zh": 1125,
-        "fresh": 1124,
-        "stale": 1,
+        "fresh": 1125,
+        "stale": 0,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -168370,8 +168370,8 @@
           "sourceContentHash": "sha256:242e3935197cb573",
           "sourceBodyHash": "sha256:0350ac703fba6030",
           "translatedAt": "2026-10-09T09:18:30+08:00",
-          "translationLastCommit": "15876bcb",
-          "translationLastModified": "2026-10-09T00:23:00+08:00",
+          "translationLastCommit": "be3a7e3a",
+          "translationLastModified": "2026-10-09T13:09:33+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "bytes": 29970,
@@ -193504,18 +193504,18 @@
         "es": {
           "path": "es/Geography/taoyuan-city.md",
           "translatedFrom": "Geography/桃園市.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:e1b425fa54b86b70",
-          "sourceBodyHash": "sha256:74aa4f956a297b47",
-          "translatedAt": "2026-09-09T22:08:54+08:00",
+          "sourceCommitSha": "e1fa12cc0",
+          "sourceContentHash": "sha256:126b05c834f9d9a2",
+          "sourceBodyHash": "sha256:f858fd8b385ca58c",
+          "translatedAt": "2026-10-09T12:51:12+08:00",
           "translationLastCommit": "2a11deae",
           "translationLastModified": "2026-09-09T22:38:42+08:00",
           "inferred": false,
-          "footnoteDefs": 25,
-          "bytes": 60427,
+          "footnoteDefs": 26,
+          "bytes": 55610,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (26→25)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Geography/taoyuan-city.md",
@@ -193584,18 +193584,18 @@
         "hi": {
           "path": "hi/Geography/taoyuan-city.md",
           "translatedFrom": "Geography/桃園市.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:e1b425fa54b86b70",
-          "sourceBodyHash": "sha256:74aa4f956a297b47",
-          "translatedAt": "2026-09-09T11:45:59+08:00",
+          "sourceCommitSha": "e1fa12cc0",
+          "sourceContentHash": "sha256:126b05c834f9d9a2",
+          "sourceBodyHash": "sha256:f858fd8b385ca58c",
+          "translatedAt": "2026-10-09T13:30:19+08:00",
           "translationLastCommit": "239b2576",
           "translationLastModified": "2026-09-10T02:54:32+08:00",
           "inferred": false,
-          "footnoteDefs": 25,
-          "bytes": 111857,
+          "footnoteDefs": 26,
+          "bytes": 112469,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (26→25)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Geography/taoyuan-city.md",
@@ -193620,11 +193620,11 @@
           "sourceContentHash": "sha256:126b05c834f9d9a2",
           "sourceBodyHash": "sha256:f858fd8b385ca58c",
           "translatedAt": "2026-10-09T12:09:45+08:00",
-          "translationLastCommit": "83e5beb2",
-          "translationLastModified": "2026-09-08T11:45:01+08:00",
+          "translationLastCommit": "be3a7e3a",
+          "translationLastModified": "2026-10-09T13:09:33+08:00",
           "inferred": false,
           "footnoteDefs": 26,
-          "bytes": 83958,
+          "bytes": 83960,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -202642,18 +202642,18 @@
         "id": {
           "path": "id/Geography/44-south-village.md",
           "translatedFrom": "Geography/四四南村.md",
-          "sourceCommitSha": "fe48ea49d",
-          "sourceContentHash": "sha256:e3cf0ff2d18ee6c2",
-          "sourceBodyHash": "sha256:ceea55d78cdbac6b",
-          "translatedAt": "2026-09-17T06:43:41+08:00",
+          "sourceCommitSha": "8fa14bf9c",
+          "sourceContentHash": "sha256:4c7925fca2f8f0ff",
+          "sourceBodyHash": "sha256:236956cd227b821c",
+          "translatedAt": "2026-10-09T12:51:12+08:00",
           "translationLastCommit": "0f158a34",
           "translationLastModified": "2026-09-17T20:42:50+08:00",
           "inferred": false,
-          "footnoteDefs": 21,
-          "bytes": 46852,
+          "footnoteDefs": 22,
+          "bytes": 45655,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (22→21)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Geography/44-south-village.md",
@@ -202710,8 +202710,8 @@
           "sourceContentHash": "sha256:4c7925fca2f8f0ff",
           "sourceBodyHash": "sha256:236956cd227b821c",
           "translatedAt": "2026-10-09T12:09:45+08:00",
-          "translationLastCommit": "26a6e478",
-          "translationLastModified": "2026-07-29T11:44:05+08:00",
+          "translationLastCommit": "be3a7e3a",
+          "translationLastModified": "2026-10-09T13:09:33+08:00",
           "inferred": false,
           "footnoteDefs": 22,
           "bytes": 82478,
