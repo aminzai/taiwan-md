@@ -332,6 +332,15 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-10-10 twmd-feedback-triage — stated-reason-for-deferring-does-not-expire-with-the-situation：交接寫明了「現在不做」的理由，而那個理由自己不會過期
+
+- **pattern**: stated-reason-for-deferring-does-not-expire-with-the-situation
+- **原則**：一條交接可以同時傳對三件事——要做什麼、放哪裡、以及**當時不做的理由**。前兩件傳得很好，第三件是個陷阱：理由寫得越具體越正當，就越像一個已經結案的判斷，於是後續每一班讀到它都接受它，沒有人問那個理由描述的處境還在不在。跟 REFLEXES #15 第 13 次（handoff 傳資訊、不傳急迫性）差一層：那條的交接只寫了動作，讀的人得自己生出急迫性；本條的交接**附了一個反對急迫性的論證**，而論證的前提是會隨時間失效的量（「八輪零回報」）。帶時效前提的 defer 理由應該寫成帶條件的形式（「若超過 N 輪仍零回報則重新評估」），讓它自己會到期。
+- **觸發**：2026-09-29 07:15 本 routine 的班次量到 git archive 當母體會讓到達間隔偏大（15.94 vs 真值 12.65），停在把錯數字寫成新上限之前，並留交接給本席位：「在 `formatIntakeAge()` 旁補一支全庫間隔分佈（它本來就握著全 status 讀取權），免得下一班又從 archive 推」，附理由「本輪只寫了註記沒造工具，因為八輪零回報還不確定這個問題值不值得一支常設儀器」。席位指名正確、權限足夠（`scripts/feedback/` 本班動得了）、設計完全正確。躺 11 天、經 7 個班次原樣往下傳。2026-10-10 第十五輪（第五次手寫同一段查詢）才落地成 `formatIntakeIntervals()` ＋ `--intake-stats`，而觸發不是讀到那條交接，是重打查詢的厭煩——我先手寫、拿到數字，才回頭發現上一班早寫好設計。那句「八輪零回報還不確定」在第十五輪讀起來一字不差，仍然像成立的。→ docs/semiont/memory/2026-10-10-071730-twmd-feedback-triage.md
+- **可能層級**：通用反射（候選 fold 進 REFLEXES #15 第 13 次或 #97 的子規則）
+- **相關**：**REFLEXES #15 第 13 次**（handoff 傳資訊不傳急迫性——那條管「交接沒給急迫性」，本條管「交接給了一個反對急迫性的理由，而理由的前提會過期」）；**#97** 交接面完整性（那條管事實沒跨進要動手的那層，本條的事實全跨過去了，跨不過去的是「現在已經不同了」）；**#74** cross-routine handoff 信號通膨（7 班原樣往下傳的機制相同）；`handoff-latency.py` 追得到本例，因為那條交接帶了穩定參照（`formatIntakeAge()` 函式名），符合 MEMORY-PIPELINE §Handoff 穩定參照紀律；DIARY §反覆出現「里程碑 ≠ 兌現」的 `Angle-expires` 修法是同一個形狀在 ARTICLE-INBOX 的解（給登記加到期欄），本條指向 handoff 的 defer 理由也該能到期
+- **verification_count**: 1
+
 ### 2026-10-09 twmd-maintainer-daily — rebase-invalidates-hashes-already-written-into-prose：收官寫完才撞上 push race，memory 與公開留言裡的 commit hash 全部指向不存在的 commit
 
 - **pattern**: rebase-invalidates-hashes-already-written-into-prose
