@@ -354,3 +354,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-10-10 | 053938-twmd-routine-sync | 第 69 輪：十八條三層零漂移，上輪後只有 data-refresh 重寫 live-state；live 逐條補驗 18/18；沉默死亡黃燈換成五條週班，排程都在 10-11～12 | 告警名單換人時先對排程表 | [→](memory/2026-10-10-053938-twmd-routine-sync.md) |
 | 2026-10-10 | 055709-twmd-embeddings-nightly | 例行重建：13 語 14,482 向量 0 fail，verify PASS，`f996dad53`；de 少掉 `edward-yang`，對上昨天重複譯本退役，13 語鍵數回到一致 | 兩班重建的 diff 合起來就是一次修補的完整紀錄 | [→](memory/2026-10-10-055709-twmd-embeddings-nightly.md) |
 | 2026-10-10 | 060845-twmd-data-refresh-am | 14 步全過、0 stale，德文回到 1123；第四次手拼腳本跳同步，收成 `--no-sync` 旗標；zsh 拆不開路徑變數連兩班，收官 SOP 補 `bash -c` | 記憶檔擋不住打指令那一下，控制流裡的對賬擋得住 | [→](memory/2026-10-10-060845-twmd-data-refresh-am.md) |
+| 2026-10-10 | 064217-twmd-spore-harvest-am | 窗口無孢子第三班：回覆分頁仍只有已回過的 #29 一列；全部分頁新增按讚、一則追蹤與「因為你追蹤」「建議串文」兩則推薦列，A–E 零新增，合法空場 | 推薦列帶文字也不是對我們說話，看列上的標籤 | [→](memory/2026-10-10-064217-twmd-spore-harvest-am.md) |
