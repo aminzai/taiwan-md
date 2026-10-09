@@ -1,15 +1,15 @@
 ---
-title: 'All-Age Inclusive Tourism and Living Culture in Taiwan: When Renqingwei Becomes the Strongest Accessibility Feature'
-description: 'An observation from a family perspective on how Taiwanese society, through _renqingwei_ (human warmth) and inclusive facilities, is redefining the meaning of "traveling as a family" on the path toward a super-aged society.'
+title: "Taiwan's Age-Inclusive Travel and Living Culture: When Human Warmth Becomes the Strongest Barrier-Free Facility"
+description: 'Observing Taiwanese society from a family perspective, how it redefines the meaning of "traveling together as one family" on the path to an ultra-aged society through human warmth and inclusive facilities.'
 date: 2026-03-23
 category: 'Society'
 tags:
   [
-    'All-age inclusion',
-    'Accessible tourism',
-    'Super-aged society',
-    'Family culture',
-    'Social resilience',
+    'Age-inclusive',
+    'barrier-free travel',
+    'ultra-aged society',
+    'family culture',
+    'social resilience',
   ]
 subcategory: '無障礙與共融'
 author: 'alstontsai0816'
@@ -19,215 +19,210 @@ lastHumanReview: false
 readingTime: 12
 curation: 'incubating'
 translatedFrom: 'Society/台灣全齡共融旅遊與生活文化.md'
-sourceCommitSha: '5187a758a'
-sourceContentHash: 'sha256:613ce3b3055701ee'
-sourceBodyHash: 'sha256:9003a86aeb6688cf'
-translatedAt: '2026-10-08T02:35:03.327417+00:00'
+sourceCommitSha: 'fe3f96e02'
+sourceContentHash: 'sha256:0f023e33872fbd7d'
+sourceBodyHash: 'sha256:feac8eaeb6d3ca9d'
+translatedAt: '2026-10-09T20:55:29+08:00'
 ---
 
 > **30-Second Overview:**
-> In Taiwan, true accessibility features are not just ramps and elevators, but _renqingwei_ (人情味)—the social unspoken agreement where people proactively yield seats or offer help when they see a family with a wheelchair.
-> As Taiwan prepares to **enter a super-aged society in 2025** (with the population aged 65 and over exceeding 20%), all-age inclusive tourism is evolving from a "special need" into a "universal need."
-> This is not merely a policy issue, but a demonstration of Taiwan's unique family culture and social resilience.
+> In Taiwan, true barrier-free facilities are not just ramps and elevators; they are "human warmth"—the societal understanding where seeing a family member pushing a wheelchair prompts others to spontaneously yield or assist.
+> Taiwan officially entered an ultra-aged society at the end of **2025** (with 20.06% of the population aged 65 and over), and age-inclusive travel is evolving from a "special need" into a "universal need."[^1]
+> This is not merely a policy issue, but an expression of Taiwan's unique family culture and social resilience.
 
-## The Counter-Intuitive Reality: Human Warmth Matters More Than Equipment
+## The Counterintuitive Reality: Human Warmth Matters More Than Equipment
 
-**The success of accessible tourism in Taiwan lies not in the perfection of hardware, but in social soft power.**
+**The success of barrier-free tourism in Taiwan lies not in the completeness of hardware, but in social soft power.**
 
-While other countries focus on constructing standardized accessibility facilities, Taiwan has carved out a unique path: **filling the gaps with "human warmth" where hardware remains insufficient**. Statistics from the Tourism Administration show that even though only about 30% of Taiwan's tourist attractions meet international accessibility standards, the satisfaction rate for families with people with disabilities is as high as 85%.
+While other countries focus on constructing standardized barrier-free facilities, Taiwan has forged a distinct path: **filling gaps with "human temperature" even when the physical infrastructure is not yet perfect.** The original contributor to this article, "We Are All Tsai," wrote that while public spaces and mass transit in Taiwan have established standardized accessible routes, true inclusion happens in "non-standardized" moments—in restaurants, when a visually impaired person needs help, staff and bystanders proactively guide and explain, forming an informal social safety net.[^2]
 
-The secret behind this figure is: **Taiwanese people "read the situation."** When seeing wheelchair users, the visually impaired, or elderly seniors in need of assistance, strangers will proactively extend a helping hand—this informal social safety net compensates for the lack of formal facilities.
+The secret behind this observation is: **Taiwanese people "read the situation."** When they see a wheelchair user, a visually impaired person, or an elderly senior in need of assistance, strangers spontaneously offer help—this informal safety net compensates for the shortcomings of formal facilities.
 
-## The Urgency Behind the Numbers: Taiwan is Aging Rapidly
+## Urgency Behind the Numbers: Taiwan is Rapidly Aging
 
-### Countdown to a Super-Aged Society
+### The Ultra-Aged Society Has Arrived
 
-Taiwan's population aging speed is **number one in the world**. According to the latest estimates from the National Development Council:
+Taiwan's population aging speed is very fast. According to estimates from the Ministry of the Interior and the National Development Council:
 
-- **2025**: Taiwan will officially enter a "super-aged society" (population aged 65+ reaches 20%).
-- **Current Status (2024)**: Seven counties and cities have already entered a super-aged society.
-- **Staggering Speed**: Moving from an aged society (14%) to a super-aged society (20%) took Taiwan only 7 years, much faster than Japan's 12 years or Germany's 37 years.
+- **End of 2025**: 4,673,155 people aged 65 and over, accounting for 20.06% of the total population; Taiwan officially entered an "ultra-aged society."[^1]
+- **By County/City**: 14 out of 22 counties/cities have already surpassed 20%, with Taipei City at 24.18% being the highest, and Hsinchu County at 15.08% being the lowest[^1].
+- **Staggering Speed**: Taiwan entered an aged society (14%) in 2018 and reached ultra-aged society (20%) in less than eight years. Germany took 36 years, and Japan took 11 years.[^3]
 
-### The Reality of the Disabled Population
+### The Reality of People with Disabilities
 
-- **Total Number**: There are approximately **1.19 million** people with disabilities in Taiwan (about 5% of the total population).
-- **Aging Trend**: Among them, those aged 65 and over account for **53.8%**, showing a high overlap between disability and aging.
-- **Tourism Demand**: There is an annual demand for accessible family travel from approximately **350,000 person-times**.
+- **Total Number**: As of the end of 2023, there were 1,214,668 people holding disability certificates, accounting for 5.2% of the total population.[^4]
+- **Aging Trend**: Of this group, 576,220 are aged 65 and over, making up about 47%. In 2013, this proportion was about 38%, showing a continuous increase over ten years, with the overlap between disability and advanced age becoming deeper.[^4]
 
-These numbers point to an important reality: **All-age inclusion is no longer a matter of "charity for the vulnerable," but a "matter of survival" for Taiwanese society.**
+These figures point to an important reality: **age-inclusive living is no longer just an act of charity for the vulnerable; it is a "survival issue" for Taiwanese society.**
 
 ## The Taiwan Model: Evolution from "Accessibility" to "Inclusion"
 
-### Phase 1: Hardware Construction (1s 1990s–2010s)
+### Phase One: Hardware Construction (1990s–2010s)
 
-In conjunction with the _Protection of Rights of Persons with Disabilities Act_, Taiwan began large-scale construction of accessibility facilities:
+As disability regulations were continuously revised (from the _Disability Welfare Act_ in 1980, renamed the _Protection of Persons with Disabilities Act_ in 1997, and further renamed the _Guarantee of Rights for Persons with Disabilities Act_ in 2007)[^5], Taiwan began mass construction of barrier-free facilities:
 
-- MRT Systems: Accessible elevators, tactile paving, and voice announcements across all lines.
-- National Scenic Areas: The 13 National Scenic Area Management Offices gradually improved accessible environments.
-- Tourist Attractions: Approximately 200 attractions have currently obtained accessibility certification.
+- **Metro System**: Barrier-free elevators, tactile paving, voice announcements.
+- **National Scenic Areas**: The management offices of 13 National Scenic Areas gradually improved the environment for accessibility.
+- **Tourist Attractions**: The Tourism Agency compiled essential information and coordinate data on barrier-free facilities at various recreation sites to plan friendly routes for seniors and people with disabilities.[^6]
 
-### Phase 2: Service Soft Power (2010s–2020s)
+### Phase Two: Service Soft Power (2010s–2020s)
 
-Policy shifted toward "humanized services":
+The policy shifted toward "humanized services":
 
-- **Duofu Vacations (多扶假期)**: The rise of specialized accessible tour operators providing customized travel planning.
-- **Phoenix Travel Foundation (鳳凰旅遊基金會)**: Launched Taiwan's first accessible bus service.
-- **Xing Wua Association (行無礙協會)**: Established an accessibility database and evaluation system for tourist sites.
+- **Specialized Travel Agencies**: Specialized barrier-free travel operators emerged, offering customized tour planning.[^11]
+- **Phoenix Tour Foundation**: In 2014, two Phoenix barrier-free buses were built, equipped with lifts for wheelchair boarding and disembarking. Each bus can seat 28 people while carrying up to 3 wheelchairs.[^7]
+- **Barrier-Free Living Network (Xing Wu Ai)**: A Wikipedia collaborative project accumulated a database of accessible living information, allowing members to tag barrier-free locations directly on the map.[^8]
 
-### Phase 3: Social Inclusion (2020s–Present)
+### Phase Three: Social Inclusion (2020s–Present)
 
-Moving from "special care" to "universal design":
+The focus shifted from "special care" to "universal design":
 
-- **WHO Age-Friendly Cities** certification: Multiple cities, including Taipei, Tainan, and Chiayi, have joined.
-- **All-Age Friendly** concept: Considering the needs of all age groups, not just people with disabilities.
-- Shift in family travel patterns: Three-generation family travel is becoming mainstream.
+- **WHO Age-Friendly City Program**: The Ministry of Health and Welfare first piloted this in Chiayi City in 2010, with all 22 counties/cities joining by 2013.[^9]
+- **Age-Inclusive Concept**: It considers the needs of all age groups, not just people with disabilities.
+- **Family Travel Model Change**: Multi-generational travel has become mainstream.
 
-## The Unique Ecology of Taiwanese Family Travel
+## The Unique Ecosystem of Taiwanese Family Travel
 
-### The Wisdom of Division of Labor in Three-Generation Families
+### Wisdom Sharing in Three Generations
 
-In Taiwan, family travel is rarely just two generations of a "nuclear family"; it is more commonly "three generations under one roof" or even "family mobilization":
+In Taiwan, family trips are rarely limited to two generations from a "nuclear family"; it is more common to see "three generations together" or even "family mobilization":
 
 - **Elders**: Provide local knowledge and life experience.
-- **Middle Generation**: Bear the responsibility for planning and finances.
-- **Younger Generation**: Responsible for technological applications and physical activities.
+- **Middle Generation**: Bears the responsibility for planning and finances.
+- **Younger Generation**: Is responsible for technology application and physical activities.
 
-This division of labor naturally forms an **internalized care network**—each member is both a care recipient and a caregiver.
+This division of labor naturally creates an **embedded care network**—where every member is both a recipient of care and a caregiver.
 
-### The Social Unspoken Agreement of "Reading the Situation"
+### The Societal Understanding of "Reading the Situation"
 
-Taiwanese society possesses a unique culture of "reading the room":
+Taiwanese society has a unique culture of "observing expressions":
 
-- **Restaurants**: Seeing a wheelchair user, servers will proactively move tables/chairs or provide menu-reading services.
-- **Public Transport**: Seeing a family with a wheelchair, passengers will proactively yield seats.
-- **Attractions**: Seeing a visually impaired person in need of guidance, other tourists naturally form "human guide" lines.
+- **Restaurants**: When they see wheelchair users, servers proactively move tables and chairs and offer menu reading services.
+- **Public Transport**: When they see families pushing wheelchairs, passengers spontaneously yield seats.
+- **Scenic Spots**: When they see a visually impaired person needing guidance, other tourists naturally form an "artificial guide."
 
-This "reading the situation" is not a regulatory requirement, but a social custom—an **unwritten agreement of inclusion**.
+This "reading the situation" is not a systemic regulation but a social custom—an **unwritten agreement of inclusion**.
 
-## Gaps and Breakthroughs between Policy and Practice
+## Gaps and Breakthroughs Between Policy and Practice
 
-### Central Government Policy Layout
+### Central Policy Layout
 
-**Health Promotion Administration (HPA), Ministry of Health and Welfare**: Promoting WHO Age-Friendly City certification; 22 county/city governments have joined so far.
+**Ministry of Health and Welfare (MOHW) / National Health Administration**: Adopted the WHO Age-Friendly City model, with all 22 counties/cities joining starting in 2013.[^9]
 
-- **Eight Dimensions**: Accessible and safe public spaces, public transportation, housing, social participation, respect for the elderly and social integration, civic participation and employment, communications and information, health services, and long-term care.
+- **Eight Key Areas**: Public spaces and transportation accessibility and safety, housing, social participation, respect for the elderly and social integration, work and volunteer services, communication and information, community and health services.[^9]
 
-**Tourism Administration, Ministry of Transportation and Communications**: Establishing the "Taiwan Accessible Tourism Network."
+**Ministry of Transportation and Communications (MOTC) / Tourism Agency**: The Taiwan Tourism Information Network has a dedicated "Barrier-Free Travel" section.[^6]
 
-- Information on accessible facilities at over **200** attractions.
-- Accessibility improvement plans for **13** National Scenic Areas.
-- Regular reviews and improvements with disability groups.
-
-### Local Innovation Cases
-
-**Taipei City**: Taiwan's first tourism city oriented toward "Universal Design."
-
-- **Maokong Gondola**: Accessible cabins across the entire line; visually impaired passengers can touch 3D maps.
-- **National Palace Museum Southern Branch**: Fully accessible routes throughout the museum, providing assistive device rental services.
-
-**Tainan City**: Combining history and culture with accessibility.
-
-- **Historic Site Revitalization**: Adding accessible routes while maintaining the integrity of cultural relics.
-- **Fucheng Tour**: Developing walking routes in the ancient city suitable for wheelchair users.
+- Organizes friendly small trips, accessible attractions, and barrier-free transportation information for National Scenic Areas.[^6]
+- Starting in 2024, the MOTC subsidizes barrier-free group tours: For domestic groups with 3 or more disabled travelers, a daily allowance of NT$1,200 is provided per disabled traveler, plus NT$300 for one necessary companion. For trips of two days or more, an additional NT$1,500 and NT$500 are provided daily. Groups with 2 or more hearing/speech-impaired members can apply separately for sign language interpreter fees, up to a maximum subsidy of NT$50,000 per group.[^10]
 
 ## Private Sector Power: When Business Meets Social Responsibility
 
-### Professional Accessible Tour Operators
+### Professional Barrier-Free Travel Operators
 
-**Duofu Vacations (多扶假期)**:
+**Multi-Support Holidays (Duō Fú Jiàqī)**:
 
-- Service Model: "Travel with a butler," providing one-on-one professional caregivers.
-- Innovative Services: Door-to-to-door transport via rehabilitation vehicles, customized itinerary planning.
-- International Expansion: Has developed accessible travel routes in Kyoto, Japan, and Seoul, South Korea.
+- Service Model: "Traveling with a butler."[^11]
+- Innovative Services: Can designate rehabilitation vehicles, provide door-to-door pickup, and offer customized itinerary planning.[^11]
+- Overseas Travel: They organize barrier-free tours to places like Kansai in Japan, sending staff beforehand to Kyoto to scout the accessible facilities and route layout of attractions.[^11]
 
-**Phoenix Travel Foundation (鳳凰旅遊基金會)**:
+**Phoenix Tour Foundation**:
 
-- Hardware Investment: The first batch of large-scale accessible tour buses in Taiwan.
-- Service Philosophy: "Travel is a fundamental human right that should not be deprived due to physical limitations."
+- Hardware Investment: The two Phoenix barrier-free buses built in 2014 are among the few large buses domestically equipped with wheelchair lifts.[^7]
+- Service Philosophy: The foundation states, "For ordinary people, travel is a pleasant thing. But for people with disabilities, it can be quite difficult."[^7]
 
-### Technological Innovation Support
+### Accessible Maps Online
 
-**Xing Wua App (行無礙APP)**: A crowdsourced accessibility information platform.
+**Barrier-Free Living Network (Xing Wu Ai)**: This disability information website, founded by Hsu Chao-fu, has been operating for seven years as reported by _Digital Age_ in 2008.[^8]
 
-- **User Reporting**: Real-time updates on the status of accessible facilities everywhere.
-- **Route Planning**: Customized routes based on different needs.
-- **Community Support**: Users helping each other solve travel problems.
+- **Member Tagging**: Embedded with Google Maps, members can directly tag accessible locations on the map.
+- **Collaborative Database**: Uses Wikipedia collaboration to build a database of accessible living information.
+- **Reporting Incidents**: It encourages netizens to report poorly managed facilities by taking photos; Hsu Chao-fu claimed that over 60% of these issues were improved in a short time.
 
-## Cultural Depth: The Phenomenology of "Our Whole Family is Tsai"
+## Cultural Depth: The Phenomenology of "We Are All Tsai"
 
-### Demonstration of Daily Resilience
+### Manifestation of Daily Resilience
 
-Taking the life records of the visually impaired YouTuber "Our Whole Family is Tsai" (我們一家都很蔡) as an example, one can see how Taiwanese families achieve "micro-inclusion" in daily life:
+Taking the family YouTube channel "We Are All Tsai" as an example, this article was originally submitted by them.[^2] One video on the channel asks: If you cannot see, how do you signal that you want to eat?[^12]
 
-**Dining Scenarios**:
+In their submission, they wrote that visually impaired individuals can overcome sensory limitations and achieve "daily resilience"—which they call the most beautiful and realistic scene in Taiwanese society—through simple assistive tools and family understanding when needing to dine or move outside.[^2]
 
-- Visually impaired members select dishes through touch and smell.
-- Family members naturally provide "environmental descriptions" ("There is a soup on your right hand").
-- Restaurant staff proactively ask if assistance is needed, rather than avoiding the situation.
+### Educational Significance: The Invisible Life Curriculum
 
-**Movement Processes**:
+The deepest value of this "three-generation travel" model is its **empathy education** for the younger generation:
 
-- Families develop unique "navigation languages" ("There are steps in three steps ahead").
-- Strangers will proactively yield or warn of dangers upon seeing them.
-- Voice announcements in public transport systems become "shared navigation" for the whole family.
+- Learning to "slow down": Adjusting to the pace of elders and mobility-impaired family members.
+- Cultivating "observational skills": Noticing obstacles and needs in the environment.
+- Building a "sense of responsibility": Recognizing that everyone has an obligation to care for others.
+- Understanding "diversity": Accepting coexistence with different abilities.
 
-### Educational Significance: An Invisible Life Lesson
+This education is not a deliberately scheduled "character-building course," but rather **empathy practice** that occurs naturally within real travel situations.
 
-The deepest value of this "three-generation co-travel" model is **empathy education** for the younger generation:
+## Challenges and Future: When Needs Become the Mainstream
 
-- Learning to "slow down": Matching the pace of elders and family members with mobility issues.
-- Cultivating "observation skills": Noticing obstacles and needs in the environment.
-- Building a "sense of responsibility": Every person has an obligation to care for others.
-- Understanding "diversity": Accepting the coexistence of different physical abilities.
-
-This education is not a deliberately arranged "character course," but an **empathy practice** that occurs naturally within real travel contexts.
-
-## Challenges and Future: When Needs Become Mainstream
-
-### Real-World Challenges
+### Real Challenges
 
 **Hardware Limitations**:
 
-- Difficulties in making historical buildings accessible (such as Lukang Old Street or Jiufen Old Street)
-- Topographical constraints of natural landscapes (such as Taroko Gorge or Yushan trailheads)
-- The cost burden of renovation for small businesses
+- Difficulty in retrofitting historical buildings (such as Lukang Old Street or Jiufen Old Street).
+- Topographical constraints of natural landscapes (such as Taroko Gorge or Yushan trailheads).
+- The financial burden of renovation for small businesses.
 
 **Service Personnel**:
 
-- Shortage of professional care staff
-- Frontline service personnel lacking training in disability services
-- Language barriers (communication between foreign caregivers and Taiwanese families)
+- Shortage of professional care personnel.
+- Frontline staff lacking training in disability services.
+- Language communication barriers (between foreign caregivers and Taiwanese families).
 
 **Attitudinal Barriers**:
 
-- Some businesses still view guests with disabilities as a "nuisance"
-- Instances of "well-intentioned help" that are executed incorrectly
-- Overprotection and attitudes like "treating them like patients"
+- Some operators still view guests with disabilities as "trouble."
+- Situations where "good intentions" lead to incorrect methods.
+- Overprotection or attitudes like "treating them like a patient."
 
 ### Future Outlook: The International Value of the Taiwan Model
 
-**Policy Trends**:
+**Directions from Policy and Civil Society**:
 
-- **2030 Goal**: All national scenic areas to meet WHO accessibility standards
-- **Regulatory Integration**: Cross-ministerial integration between the _Act on the Rights of Persons with Disabilities_ and the _Tourism Development Regulations_
-- **International Certification**: Striving to become Asia's first "Accessible Tourism Friendly Nation"
+- **Subsidies Include Companions**: Starting in 2024, the MOTC's subsidy for barrier-free group tours uses a fixed daily rate, establishing a mechanism for disabled travelers to travel with companions.[^10]
+- **Civil Society Aspirations**: Cheng Shu-yun, the chairperson of the Taiwan Barrier-Free Travel Development Association, has been in the tourism industry for over thirty years. The association's website introduces her as the only wheelchair leader domestically, and her greatest dream is "to build Taiwan into a barrier-free travel country."[^13]
 
-**Social Evolution**:
-Taiwan is forming a unique "inclusive culture," whose core is not "caring for the vulnerable," but rather "recognizing diversity"—understanding that every person has different abilities and needs, and society's responsibility is **to create an environment where everyone can participate**.
+**Societal Evolution**:
+Taiwan is forming a unique "inclusive culture," whose core is not "caring for the vulnerable," but **"recognizing diversity"—understanding that everyone has different abilities and needs, and society's responsibility is to create an environment where all can participate.**
 
-This culture may be Taiwan's most precious contribution to the world: **proving that an inclusive society does not have to wait for perfect hardware, but can begin with mutual understanding between people.**
+This culture may be Taiwan's most precious contribution to the world: **proving that an inclusive society does not have to wait for perfect hardware; it can begin with mutual understanding between people.**
 
 ---
 
-### References / Sources
+**Further Reading**:
 
-1. [Ministry of the Interior Statistics Bureau: 2024 Elderly Population Statistics](https://www.moi.gov.tw/News_Content.aspx?n=9&s=322560)
-2. [Ministry of Transportation and Communications - Tourism Administration: Accessible Travel Information Network](https://www.taiwan.net.tw/m1.aspx?sNo=0000120)
-3. [Ministry of Health and Welfare - National Health Insurance Administration: Aging-Friendly City Promotion Plan](https://www.hpa.gov.tw/Pages/List.aspx?nodeid=3869)
-4. [Taiwan Accessible Tourism Development Association](http://www.goodtours.com.tw/)
-5. [Du Fu Holiday: Accessible Travel Services](https://www.dfholidays.com/tw/)
-6. [YouTube Channel: We Are All Tsai](https://www.youtube.com/@alston0816)
-7. [Taiwan Mountain Leisure Network: Accessible Travel Zone](https://recreation.forest.gov.tw/Topic/FOO)
-8. [Phoenix Travel Foundation: Accessible Bus Promotion](https://event.travel.com.tw/accessibleBus/)
-9. [Resource Promotion Association for the Disabled](https://www.facebook.com/sunabletaipei/)
-10. National Development Council: _Population Projections of the Republic of China_ (October 2024)
+- [Taiwan Mountain Leisure Network: Barrier-Free Travel](https://recreation.forest.gov.tw/Topic/FOO) — Information on barrier-free facilities and wheelchair loan services at National Forest Parks managed by the Forestry Agency.
+- [Barrier-Free Resources Promotion Association (Xing Wu Ai)](https://www.facebook.com/sunabletaipei/) — The Facebook page of Xing Wu Ai.
+
+## References
+
+[^1]: [United News Agency: Over 20% of Seniors Aged 65 in Taiwan; Officially Entering Ultra-Aged Society](https://udn.com/news/story/7266/9254576) — A January 2026 report from the Ministry of the Interior's household statistics: as of December 2025, 4.67 million 3,155 people aged 65 and over accounted for 20.06%; 14 out of 22 counties/cities have entered ultra-aged society, with Taipei City at the highest at 24.18% and Hsinchu County at the lowest at 15.08%.
+
+[^2]: [Taiwan.md issue #147: Family Mobility Across Barriers](https://github.com/frank890417/taiwan-md/issues/147) — The original draft of this article (March 22, 2026, signed by "We Are All Tsai"), discussing interpersonal assistance in public spaces and "non-standardized" moments, the life education of multi-generational travel, and the "daily resilience" featured on the channel.
+
+[^3]: [This Week Magazine: We Will Enter an Aged Society in Two Years](https://www.businesstoday.com.tw/article/category/80392/post/201601070034/) — A 2016 report stating that Germany took 36 years and Japan took 11 years to move from an aged society (14%) to an ultra-aged society (20%); at the time, it was estimated that Taiwan would enter an aged society in 2018 and an ultra-aged society in 2025.
+
+[^4]: [Ministry of Health and Welfare _2024 Taiwan Health and Welfare Report_ Table 2-2](https://service.mohw.gov.tw/ebook/dopl/113/02/files/basic-html/page27.html) — Annual breakdown of the number of people with disabilities: 1,214,668 as of the end of 2023, accounting for 5.2% of the total population, with 576,220 aged 65 and over; 1,125,113 in 2013, with 422,358 aged 65 and over.
+
+[^5]: [National Law Database: History of the Guarantee of Rights for Persons with Disabilities Act](https://law.moj.gov.tw/LawClass/LawHistory.aspx?pcode=D0050046) — Enacted as the _Disability Welfare Act_ in 1980, renamed the _Protection of Persons with Disabilities Act_ in April 1997, and further renamed the _Guarantee of Rights for Persons with Disabilities Act_ in July 2007.
+
+[^6]: [Taiwan Tourism Information Network: Barrier-Free Travel](https://www.taiwan.net.tw/m1.aspx?sNo=0000120) — The dedicated barrier-free travel section of the MOTC's Tourism Agency, which organizes information on accessible facilities and coordinates for various recreation sites, including friendly small trips, accessible attractions, and barrier-free transportation across National Scenic Areas.
+
+[^7]: [Phoenix Tour: Phoenix Barrier-Free Bus](https://event.travel.com.tw/accessibleBus/) — The Phoenix Tour Foundation's barrier-free travel page: the two barrier-free buses built in 2014 are few large buses domestically equipped with wheelchair lifts, each capable of accommodating 28 people while carrying up to 3 wheelchairs.
+
+[^8]: [Digital Age: Small Blog Creates Large Accessible Space](https://www.bnext.com.tw/article/9468/BN-ARTICLE-9468) — A 2008 report on the Xing Wu Ai website, which has been operating for seven years; it embeds Google Maps for members to tag accessible locations and uses Wikipedia collaboration to build a database, with the blog featuring "incident reporting" that calls on netizens to file complaints by taking photos.
+
+[^9]: [Ministry of Health and Welfare: Promoting Age-Friendly Cities, Seizing Opportunities for Change and Innovation](https://www.mohw.gov.tw/cp-16-21552-1.html) — The WHO released the Age-Friendly City guidelines and eight key areas in 2007; Taiwan first piloted this in Chiayi City in 2010 (Year 99 of ROC), with all 22 counties/cities joining by 2013 (Year 102 of ROC).
+
+[^10]: [MOTC Tourism Agency Administrative Information Network: New Subsidy System for Senior and Barrier-Free Group Tours in Year 113](https://admin.taiwan.net.tw/News/NewsTravel?a=35&id=30082) — Press release dated December 28, 2023: "Key Points for Guiding Travel Agencies to Provide Barrier-Free Tour Subsidies," accepted from January 1, 2024; the system provides a fixed daily allowance for domestic groups with 3 or more disabled travelers and establishes a mechanism for companions, up to NT$50,000 per group.
+
+[^11]: [Multi-Support Holidays](https://www.dfholidays.com/tw/) — The official website of the barrier-free travel operator, whose slogan is "Traveling with a butler," offering chartered private tours, customized travel, door-to-door pickup, and designated rehabilitation vehicles; the homepage also features records of pre-trip scouting in Kyoto for Kansai barrier-free tours to Japan.
+
+[^12]: [YouTube: {We Are All Tsai} If You Cannot See, How Do You Signal That You Want To Eat?](https://www.youtube.com/shorts/DedWMkt1zq4) — A short video from the "We Are All Tsai" channel, which is an audiovisual record accompanying the original submission.
+
+[^13]: [Taiwan Barrier-Free Travel Development Association (Non-profit Organization)](http://www.goodtours.com.tw/) — The association's official website: Chairperson Cheng Shu-yun has over thirty years in the tourism industry, and the site introduces her as the only wheelchair leader domestically, with the greatest dream of "building Taiwan into a barrier-free travel country."
