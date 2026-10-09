@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-08T22:06:59.052Z",
+  "lastUpdated": "2026-10-09T22:06:44.117Z",
   "languages": [
     "zh-TW",
     "en",
@@ -88,25 +88,25 @@
       "total": 1125,
       "percentage": 100,
       "fresh": 1124,
-      "metadataStale": 0,
-      "stale": 1,
-      "missing": 0,
-      "orphan": 0,
-      "deficit": 0,
-      "freshPct": 99.9,
-      "bodyFreshPct": 99.9
-    },
-    "id": {
-      "total": 1125,
-      "percentage": 100,
-      "fresh": 1125,
-      "metadataStale": 0,
+      "metadataStale": 1,
       "stale": 0,
       "missing": 0,
       "orphan": 0,
       "deficit": 0,
-      "freshPct": 100,
+      "freshPct": 99.9,
       "bodyFreshPct": 100
+    },
+    "id": {
+      "total": 1125,
+      "percentage": 100,
+      "fresh": 1123,
+      "metadataStale": 0,
+      "stale": 2,
+      "missing": 0,
+      "orphan": 0,
+      "deficit": 0,
+      "freshPct": 99.8,
+      "bodyFreshPct": 99.8
     },
     "pt": {
       "total": 1125,
@@ -135,14 +135,14 @@
     "ar": {
       "total": 1125,
       "percentage": 100,
-      "fresh": 1125,
+      "fresh": 1124,
       "metadataStale": 0,
-      "stale": 0,
+      "stale": 1,
       "missing": 0,
       "orphan": 0,
       "deficit": 0,
-      "freshPct": 100,
-      "bodyFreshPct": 100
+      "freshPct": 99.9,
+      "bodyFreshPct": 99.9
     },
     "ru": {
       "total": 1125,
@@ -159,13 +159,13 @@
     "de": {
       "total": 1125,
       "percentage": 100,
-      "fresh": 1125,
-      "metadataStale": 0,
+      "fresh": 1124,
+      "metadataStale": 1,
       "stale": 0,
       "missing": 0,
       "orphan": 0,
       "deficit": 0,
-      "freshPct": 100,
+      "freshPct": 99.9,
       "bodyFreshPct": 100
     }
   },
@@ -564,8 +564,8 @@
       },
       "id": {
         "count": 89,
-        "fresh": 89,
-        "stale": 0,
+        "fresh": 88,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
@@ -643,16 +643,16 @@
         "deficit": 0
       },
       "vi": {
-        "count": 82,
-        "fresh": 82,
+        "count": 81,
+        "fresh": 81,
         "stale": 0,
         "missing": 0,
-        "deficit": 0
+        "deficit": 1
       },
       "id": {
         "count": 82,
-        "fresh": 82,
-        "stale": 0,
+        "fresh": 81,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
@@ -672,8 +672,8 @@
       },
       "ar": {
         "count": 82,
-        "fresh": 82,
-        "stale": 0,
+        "fresh": 81,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
@@ -685,11 +685,11 @@
         "deficit": 0
       },
       "de": {
-        "count": 82,
-        "fresh": 82,
+        "count": 81,
+        "fresh": 81,
         "stale": 0,
         "missing": 0,
-        "deficit": 0
+        "deficit": 1
       }
     },
     "history": {
@@ -818,8 +818,8 @@
       },
       "vi": {
         "count": 46,
-        "fresh": 45,
-        "stale": 1,
+        "fresh": 46,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       },

@@ -1,8 +1,8 @@
 {
-  "totalArticles": 14626,
+  "totalArticles": 14625,
   "totalCategories": 27,
   "estimatedContributors": 78,
-  "totalTags": 9137,
+  "totalTags": 9124,
   "categories": [
     {
       "name": "vi",
@@ -70,7 +70,7 @@
     },
     {
       "name": "de",
-      "count": 1126
+      "count": 1125
     },
     {
       "name": "Lifestyle",
@@ -196,11 +196,11 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 14626,
+    "zh-TW": 14625,
     "en": 0
   },
-  "lastUpdated": "2026-10-08T22:06:42.562Z",
-  "stars": 1199,
+  "lastUpdated": "2026-10-09T22:06:28.473Z",
+  "stars": 1200,
   "forks": 187,
   "zhPages": 1123,
   "languagePages": {
@@ -216,7 +216,7 @@
     "hi": 1125,
     "ar": 1125,
     "ru": 1125,
-    "de": 1126
+    "de": 1125
   },
   "enPages": 1125,
   "totalPages": 1123

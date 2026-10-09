@@ -1,8 +1,8 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-10-08T22:06:54Z",
+  "timestamp": "2026-10-09T22:06:40Z",
   "total": 1125,
-  "flagged": 717,
+  "flagged": 716,
   "files": [
     {
       "file": "music/台灣KTV文化.md",
@@ -1246,8 +1246,8 @@
     },
     {
       "file": "society/台灣全齡共融旅遊與生活文化.md",
-      "score": 8,
-      "reasons": "年份3個; 未人工審核; 塑膠句2個; 後段清單堆砌62%; 稀薄段落×5; 無腳註"
+      "score": 6,
+      "reasons": "未人工審核; 塑膠句2個; 後段清單堆砌34%; 稀薄段落×5"
     },
     {
       "file": "society/複雜生活節.md",
@@ -2448,11 +2448,6 @@
       "file": "food/鱔魚意麵.md",
       "score": 9,
       "reasons": "年份2個; 未人工審核; 塑膠句1個; 破折號9個; 分號4個; 後段清單堆砌42%"
-    },
-    {
-      "file": "food/台灣冰品文化.md",
-      "score": 4,
-      "reasons": "未人工審核; 英式短句開場3處; 稀薄段落×2"
     },
     {
       "file": "food/蚵仔煎.md",

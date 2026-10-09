@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T22:06:37.606Z",
+  "generated_at": "2026-10-09T22:06:23.606Z",
   "languages": [
     "en",
     "ja",
@@ -14,7 +14,7 @@
     "ru",
     "de"
   ],
-  "total_entries": 40141,
+  "total_entries": 40140,
   "registry": {
     "en": {
       "toZh": {
@@ -37590,8 +37590,6 @@
         "/de/people/domidoro": "/people/%E5%A4%9A%E7%B1%B3%E5%A4%9A%E7%BE%85",
         "/de/people/du-congming-founder-of-modern-medicine-in-taiwan": "/people/%E6%9D%9C%E8%81%B0%E6%98%8E",
         "/de/people/dwagie": "/people/%E5%A4%A7%E6%94%AF",
-        "/de/people/edward-yang": "/people/%E6%A5%8A%E5%BE%B7%E6%98%8C",
-        "/de/people/yang-dechang": "/people/%E6%A5%8A%E5%BE%B7%E6%98%8C",
         "/de/people/ethan-tu": "/people/%E6%9D%9C%E5%A5%95%E7%91%BE",
         "/de/people/fang-hsu-chung": "/people/%E6%96%B9%E5%BA%8F%E4%B8%AD",
         "/de/people/fang-yi-sheu-body-storyteller": "/people/%E8%A8%B1%E8%8A%B3%E5%AE%9C",
@@ -37783,6 +37781,7 @@
         "/de/people/ya-hsien-poet": "/people/%E7%98%82%E5%BC%A6",
         "/de/people/yang-chuan-kwang-asian-iron-man": "/people/%E6%A5%8A%E5%82%B3%E5%BB%A3",
         "/de/people/yang-dai-kang-taiwanese-baseball-star-in-japan": "/people/%E9%99%BD%E5%B2%B1%E9%8B%BC",
+        "/de/people/yang-dechang": "/people/%E6%A5%8A%E5%BE%B7%E6%98%8C",
         "/de/people/yang-shen-keng-educator": "/people/%E6%A5%8A%E6%B7%B1%E5%9D%91",
         "/de/people/yang-wei-cher": "/people/%E6%A5%8A%E7%B6%AD%E5%93%B2",
         "/de/people/yang-you-ren-shoes-for-hope-taiwan-youth-hero": "/people/%E6%A5%8A%E5%8F%B3%E4%BB%BB",
@@ -39415,8 +39414,6 @@
         "/people/杜聰明": "/de/people/du-congming-founder-of-modern-medicine-in-taiwan",
         "/people/%E5%A4%A7%E6%94%AF": "/de/people/dwagie",
         "/people/大支": "/de/people/dwagie",
-        "/people/%E6%A5%8A%E5%BE%B7%E6%98%8C": "/de/people/edward-yang",
-        "/people/楊德昌": "/de/people/edward-yang",
         "/people/%E6%9D%9C%E5%A5%95%E7%91%BE": "/de/people/ethan-tu",
         "/people/杜奕瑾": "/de/people/ethan-tu",
         "/people/%E6%96%B9%E5%BA%8F%E4%B8%AD": "/de/people/fang-hsu-chung",
@@ -39793,6 +39790,8 @@
         "/people/楊傳廣": "/de/people/yang-chuan-kwang-asian-iron-man",
         "/people/%E9%99%BD%E5%B2%B1%E9%8B%BC": "/de/people/yang-dai-kang-taiwanese-baseball-star-in-japan",
         "/people/陽岱鋼": "/de/people/yang-dai-kang-taiwanese-baseball-star-in-japan",
+        "/people/%E6%A5%8A%E5%BE%B7%E6%98%8C": "/de/people/yang-dechang",
+        "/people/楊德昌": "/de/people/yang-dechang",
         "/people/%E6%A5%8A%E6%B7%B1%E5%9D%91": "/de/people/yang-shen-keng-educator",
         "/people/楊深坑": "/de/people/yang-shen-keng-educator",
         "/people/%E6%A5%8A%E7%B6%AD%E5%93%B2": "/de/people/yang-wei-cher",

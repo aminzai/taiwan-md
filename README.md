@@ -108,15 +108,15 @@ a human — that boundary is the design, not a limitation. The full contract is
 | 🇮🇳 हिन्दी (hi)                 | 1125  |
 | 🇸🇦 العربية (ar)                | 1125  |
 | 🇷🇺 Русский (ru)                | 1125  |
-| 🌐 Deutsch (de)                | 1126  |
+| 🌐 Deutsch (de)                | 1125  |
 | 📂 Categories                  | 14    |
 | 🕸️ Knowledge graph nodes       | 220+  |
 | 🔗 Resource websites           | 146+  |
 | 👥 Contributors                | 78    |
-| ⭐ GitHub Stars                | 1199  |
+| ⭐ GitHub Stars                | 1200  |
 | 🍴 Forks                       | 187   |
-| 📅 Articles last 7 days        | 49    |
-| 📅 Articles last 30 days       | 103   |
+| 📅 Articles last 7 days        | 50    |
+| 📅 Articles last 30 days       | 109   |
 
 <!-- STATS:END -->
 

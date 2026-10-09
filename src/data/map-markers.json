@@ -1849,14 +1849,14 @@
   },
   {
     "title": "台灣冰品文化",
-    "lat": 22.9976,
-    "lng": 120.226943,
+    "lat": 24.146226,
+    "lng": 120.670325,
     "category": "food",
-    "region": "south",
+    "region": "central",
     "link": "/food/%E5%8F%B0%E7%81%A3%E5%86%B0%E5%93%81%E6%96%87%E5%8C%96",
     "lang": "zh-TW",
     "desc": "從玉井芒果冰到雪花冰革命，探索台灣人冬天也要吃冰的獨特文化",
-    "city": "台南"
+    "city": "台中"
   },
   {
     "title": "台灣咖啡文化：便利商店一年賣六億杯的島嶼",
@@ -1970,14 +1970,14 @@
   },
   {
     "title": "台灣眷村菜",
-    "lat": 22.633678,
-    "lng": 120.306811,
+    "lat": 24.986703,
+    "lng": 121.298563,
     "category": "food",
-    "region": "south",
+    "region": "north",
     "link": "/food/%E5%8F%B0%E7%81%A3%E7%9C%B7%E6%9D%91%E8%8F%9C",
     "lang": "zh-TW",
     "desc": "1949大遷移帶來的各省味道，從竹籬笆內的廚房到眷村拆遷後的味覺保存",
-    "city": "高雄"
+    "city": "桃園"
   },
   {
     "title": "台灣米其林：星光下的代價與重新定義",
@@ -7535,6 +7535,17 @@
     "city": "台北"
   },
   {
+    "title": "台灣全齡共融旅遊與生活文化：當人情味成為最強的無障礙設施",
+    "lat": 25.030774,
+    "lng": 121.557282,
+    "category": "society",
+    "region": "north",
+    "link": "/society/%E5%8F%B0%E7%81%A3%E5%85%A8%E9%BD%A1%E5%85%B1%E8%9E%8D%E6%97%85%E9%81%8A%E8%88%87%E7%94%9F%E6%B4%BB%E6%96%87%E5%8C%96",
+    "lang": "zh-TW",
+    "desc": "從家庭視角觀察台灣社會如何透過人情味與共融設施，在邁向超高齡社會的路上，重新定義「一家人一起旅行」的意義。",
+    "city": "台北"
+  },
+  {
     "title": "台灣公共衛生與防疫體系",
     "lat": 25.036422,
     "lng": 121.571154,
@@ -8734,17 +8745,6 @@
     "city": "台南"
   },
   {
-    "title": "قرية 44 الجنوبية: قرية عائلات مصنع الذخائر، الآن حديقة ثقافية إبداعية بجانب تايبيه 101",
-    "lat": 25.040559,
-    "lng": 121.572236,
-    "category": "geography",
-    "region": "north",
-    "link": "/geography/44-south-village",
-    "lang": "zh-TW",
-    "desc": "في أواخر نوفمبر 1948، نُقلت آلات مصنع الذخائر الرابع والأربعين التابع للقيادة المشتركة في تشينغداو في ست دفعات على متن سفينة \"تايكوانغ\" إلى كيلونغ، تلاها العمال وعائلاتهم الذين سكنوا مستودعات \"شينغيا\" اليابانية في سانجانغلي، حيث صدحت لهجة شاندونغ في المستودعات بلا جدران، وفي العام التالي بنوا بأنفسهم مساكن العائلات على الجانب الجنوبي للمصنع — أول قرية عائلات تقيمها حكومة جمهورية الصين (تايوان) في تايوان.",
-    "city": "台北"
-  },
-  {
     "title": "سكة حديد أليشان الحرجية: 71.6 كيلومترًا صعدت من أجل الخشب وبقيت من أجل الثقافة",
     "lat": 23.507859,
     "lng": 120.707899,
@@ -8921,14 +8921,14 @@
     "city": "台北"
   },
   {
-    "title": "شارع يونغكانغ: تايبيه التي سكنها الأساتذة اليابانيون، واللاجئون من \"المنطقة الخارجية\"، وأصبحت وجهة لسياح اليابان وكوريا",
+    "title": "شارع يونغكانغ: حيث سكن الأساتذة اليابانيون، ولجأ إليه الوافدون من البر الرئيسي، وهو الآن تايبيه السياح اليابانيين والكوريين",
     "lat": 25.025406,
     "lng": 121.561415,
     "category": "geography",
     "region": "north",
     "link": "/geography/yongkang-street",
     "lang": "zh-TW",
-    "desc": "في صباح الساعة السابعة والنصف تحت شجرة قديمة بجوار حديقة يونغكانغ، يجلس أحد كبار السن من المنطقة الخارجية في مقعد حجري ويقرأ الصحيفة. تم التخطيط للمدينة \"شووا\" هنا بواسطة اليابانيين عام 1922؛ وكانت هناك مساكن يابانية لأساتذة جامعة تايبيه الإمبراطورية (الآن جامعة تايوان) في شارع تشينغتيانغ رقم 7؛ وفيما بعد، استولى موظفو المنطقة الخارجية وأساتذة جامعة تايوان على نفس المساكن.",
+    "desc": "في تمام الساعة السابعة والنصف صباحًا، تحت الأشجار المعمرة بجانب متنزه يونغكانغ، يجلس جدٌّ من الوافدين من البر الرئيسي على مقعد حجري ممسكًا بصحيفة الصباح. عام 1922، خطط اليابانيون هنا لحي شوا، وسكن أعضاء هيئة التدريس في الجامعة الإمبراطورية في تايبيه في المساكن اليابانية في رقم 7 شارع تشينغتيان؛ وبعد عام 1947، استولى المسؤولون الوافدون من البر الرئيسي وأساتذة جامعة تايوان على تلك المساكن ذاتها، فسكن ما تينغ-يينغ في رقم 76 شارع تشينغتيان، وسكن تشو ده-وي في ما يُعرف اليوم بـ \"مقر الغلاسينوزا\". عام 1958، افتتح يانغ بينغ-يي متجر \"دين تاي فونغ\" لبيع الزيت في القسم الثاني من طريق شين-يي، وتحول عام 1972 لبيع شياو لونغ باو، واليوم يمتد طابور الزبائن أمام الباب حتى منعطف طريق جينشان الجنوبي، حيث تسمع اليابانية والكورية أكثر من الماندرين. ثلاثة أجيال من السكان تتراكم في نفس الشارع البالغ طوله 600 متر.",
     "city": "台北"
   },
   {
@@ -9383,14 +9383,14 @@
     "city": "台北"
   },
   {
-    "title": "Yongkang-Straße: Von japanischen Professoren und Flüchtlingen bewohnt bis zu einem Touristenmagnet für Japaner und Koreaner in Taipeh",
+    "title": "Yongkang-Straße: Von japanischen Professoren und Flüchtlingen bewohnt, heute ein Ziel für Japanisch-Koreanische Touristen in Taipeh",
     "lat": 25.033751,
     "lng": 121.571744,
     "category": "geography",
     "region": "north",
     "link": "/geography/yongkang-street",
     "lang": "zh-TW",
-    "desc": "Unter den alten Bäumen im Yongkang Park um sieben Uhr dreißig morgens sitzt ein älterer Mann mit Zeitung. Die Straße, die 1922 von Japanern als „Showa-Machi“ geplant wurde, beherbergte japanische Dozenten und Beamte des Kaiserlichen Taipeh-Universitätskomplexes; nach 1947 übernahmen Flüchtlinge aus der Republik China diese Wohnungen.",
+    "desc": "Unter den alten Bäumen im Yongkang Park um sieben Uhr dreißig morgens sitzt ein Großvater mit Zeitung. Die Straße war einst das Shōwa-Viertel der japanischen Kolonialzeit, beherbergte nach 1947 ausländische Beamte und Professoren, heute besuchen sie Japaner und Koreaner.",
     "city": "台北"
   },
   {
@@ -9658,17 +9658,6 @@
     "city": "台北"
   },
   {
-    "title": "Kaohsiung: In 1979, the Year It Became a Special Municipality, Eight Kaohsiung Natives Were Locked Up in Taipei",
-    "lat": 22.62002,
-    "lng": 120.307181,
-    "category": "geography",
-    "region": "south",
-    "link": "/en/geography/kaohsiung-city",
-    "lang": "en",
-    "desc": "On July 1, 1979, Kaohsiung became Taiwan's second special municipality. On December 10, International Human Rights Day, a Formosa Magazine rally at Dagangpu Roundabout turned into a clash under tear gas. Eight people were sentenced, and on February 28, 1980, a bloody attack struck Lin Yi-hsiung's home on Xinyi Road in Taipei. In that same year, 1979, Kaohsiung won administrative glory and absorbed postwar Taiwan's heaviest political repression. 2.71 million people are spread across 38 districts — the Qijin sandbar, the Bunun villages of Namasia, China Steel's smokestacks, and Weiwuying's aluminum-alloy roof all sharing one city — and it took this city 45 years to stitch that wound into its own shape.",
-    "city": "高雄"
-  },
-  {
     "title": "Lin An-Tai Old House: You Can Dismantle a House, but Not a Piece of Taipei",
     "lat": 25.034794,
     "lng": 121.569706,
@@ -9733,6 +9722,17 @@
     "lang": "en",
     "desc": "Wanhua has the Longshan Temple from 1738. Three kilometers away, when Taipei 101 was completed on New Year's Eve in 2004—built on the former Japanese Matsuyama Warehouse and post-war 44th Ordnance Factory land—it was the world's tallest building. Walking further to Datongcheng, Li Chunsheng used Ulang tea from the 1860s to support Taiwan's external trade in Northern Taiwan. In the same basin, three moments—1738, 1885, and 2004—exist side-by-side.",
     "city": "台北"
+  },
+  {
+    "title": "Taoyuan City: Taiwan's Gateway, Home to the Most Hakka, the Most Migrant Workers — All on This Patch of Tableland",
+    "lat": 24.995166,
+    "lng": 121.296148,
+    "category": "geography",
+    "region": "north",
+    "link": "/en/geography/taoyuan-city",
+    "lang": "en",
+    "desc": "On the evening of November 19, 1977, tens of thousands of people surrounded the Zhongli Substation, and police fired from an elevated position, killing Central University student Chiang Wen-hsiung and 19-year-old Chang Chih-ping. Hsu Hsin-liang won the election for Taoyuan County Magistrate with 230,000 votes against 140,000. Three months and three months later, on February 26, 1979, Taoyuan International Airport opened, and Taiwan's external door moved from Keelung Port to this tableland. On December 25, 2014, Taoyuan was upgraded to a direct-controlled city, becoming the last of the six cities. Today, 2.35 million people live on this 1,221 square kilometer tableland, with over 800,000 Hakka people — the most in the country — and 132,158 migrant workers — also the most in the country. Taoyuan is Taiwan's most diverse boundary.",
+    "city": "桃園"
   },
   {
     "title": "Yongkang Street: Where Japanese Professors Once Lived, Mainlanders Fled to, and Japanese and Korean Tourists Now Find Their Taipei",
@@ -10065,6 +10065,17 @@
     "city": "新竹"
   },
   {
+    "title": "Kaohsiung: En 1979, el año en que ascendió a municipio especial, ocho kaohsiungueses estaban encarcelados en la prisión de Taipei",
+    "lat": 22.629647,
+    "lng": 120.297037,
+    "category": "geography",
+    "region": "south",
+    "link": "/geography/kaohsiung-city",
+    "lang": "zh-TW",
+    "desc": "El 1 de julio de 1979, Kaohsiung ascendió a ser el segundo municipio especial de Taiwán. El 10 de diciembre, Día Mundial de los Derechos Humanos, la conferencia de la revista Formosa en la rotonda de Dagangpu se convirtió en un enfrentamiento bajo gases lacrimógenos. Ocho personas fueron condenadas. El 28 de febrero de 1980, se produjo un crimen sangriento en la casa de Lin Yi-hsiung en la calle Xinyi de Taipei. En ese mismo 1979, Kaohsiung obtuvo el honor administrativo, pero también tragó la represión política más severa de la posguerra en Taiwán. 2,71 millones de personas dispersas en 38 distritos: la barra de arena de Cijin, la tribu Bunun de Namaxia, las chimeneas de China Steel, el techo de aleación de aluminio del Parque Metropolitano de Weiwuying conviven en una misma ciudad. Esta ciudad tardó 45 años en coser sus heridas hasta darles su propia forma.",
+    "city": "高雄"
+  },
+  {
     "title": "Condado de Miaoli: el condado hakka de carácter obstinado, que en ocho años eligió a un magistrado que duplicó la deuda del condado",
     "lat": 24.568482,
     "lng": 120.816076,
@@ -10142,14 +10153,14 @@
     "city": "新北"
   },
   {
-    "title": "Calle Yongkang: donde vivieron profesores japoneses, llegaron refugiados de China continental y hoy es el Taipéi de turistas japoneses y coreanos",
+    "title": "Yongkang Street: donde vivieron profesores japoneses, llegaron refugiados de la China continental y hoy es el Taipei de turistas japoneses y coreanos",
     "lat": 25.037268,
     "lng": 121.572351,
     "category": "geography",
     "region": "north",
     "link": "/geography/yongkang-street",
     "lang": "zh-TW",
-    "desc": "A las siete y media de la mañana, bajo los árboles viejos junto al parque Yongkang, un abuelo de origen continental se sienta en un banco de piedra con el periódico matutino en la mano. En 1922, los japoneses planificaron aquí Showa-cho; el profesorado de la Universidad Imperial de Taipéi vivía en las residencias japonesas del número 7 de la calle Qingtian. Después de 1947, funcionarios llegados de China continental y profesores de la Universidad Nacional de Taiwán tomaron posesión de esas mismas residencias: Ma Ting-ying se instaló en Qingtian 76 y Zhou Dewei en lo que hoy es Wistaria Tea House. En 1958, Yang Bing-yi abrió Din Tai Fung en la sección 2 de la calle Xinyi como tienda de aceites; en 1972 pasó a vender xiaolongbao. Hoy, en la fila que dobla hacia Jinshan South Road, se oye más japonés y coreano que mandarín. Tres generaciones de residentes se superponen en una misma calle de 600 metros.",
+    "desc": "A las siete y media de la mañana bajo los árboles centenarios del parque Yongkang, un abuelo waishengren lee el periódico en un banco de piedra. En 1922 los japoneses planificaron el barrio Shōwa-chō aquí; el personal docente de la Universidad Imperial de Taihoku vivió en el alojamiento japonés del n.º 7 de la calle Qingtian; tras 1947, funcionarios y profesores de la Universidad Nacional de Taiwán se instalaron en esos mismos alojamientos: Ma Ting-ying en el n.º 76 de la calle Qingtian, Chou Te-wei en la actual Zitenglu. En 1958 Yang Bing-yi abrió la tienda de aceites Din Tai Fung en la sección 2 de la calle Xinyi; en 1972 cambió a xiaolongbao; hoy la cola dobla la esquina hacia la calle Jinshan Sur, donde se oyen más japonés y coreano que mandarín. Tres generaciones de residentes apiladas en una misma calle de 600 metros.",
     "city": "台北"
   },
   {
@@ -10351,17 +10362,6 @@
     "city": "桃園"
   },
   {
-    "title": "Si Si Nan Cun : le village militaire de l’arsenal devenu parc culturel et créatif près de Taipei 101",
-    "lat": 25.029166,
-    "lng": 121.565124,
-    "category": "geography",
-    "region": "north",
-    "link": "/geography/44-south-village",
-    "lang": "zh-TW",
-    "desc": "À la fin de novembre 1948, les machines du 44e arsenal du Commandement interarmées de Qingdao furent chargées en six lots sur le Taikang et transportées à Keelung. En décembre, les ouvriers de l’usine et leurs familles qui arrivèrent ensuite furent logés dans les entrepôts militaires japonais de Xingya, à Sanzhangli, à l’est de Taipei ; le dialecte du Shandong résonnait dans ces entrepôts sans murs. L’année suivante, ils construisirent eux-mêmes des logements familiaux au sud du site industriel : ce fut le premier village militaire établi à Taiwan par le gouvernement de la République de Chine. Les officiers supérieurs vivaient dans le village ouest, les officiers subalternes dans le village est, et les techniciens du Shandong sans statut militaire dans le village sud. En 1980, l’arsenal fut déplacé à Sanxia et rebaptisé usine 206 ; le village ouest fut démoli pour devenir les logements publics Zhongtuo, et le village est fut relogé dans les logements publics Zhongzhen, près du Youth Park. Il ne resta que le village sud, car ses habitants étaient des techniciens et ne relevaient pas du règlement du ministère de la Défense nationale sur la rénovation des villages militaires. En 1998, tous les habitants furent relogés à World Trade New Village ; en 1999, un incendie détruisit une partie des maisons ; en 2001, un arbitrage patrimonial décida de conserver 4 bâtiments ; le 25 octobre 2003, le « Xinyi Public Assembly Hall and Military Dependents’ Village Cultural Park » ouvrit ses portes, face à Taipei 101 alors en construction.",
-    "city": "台北"
-  },
-  {
     "title": "Le comté de Changhua : un grand comté agricole qui a battu DuPont, mais qui ne parvient pas à retenir sa jeunesse",
     "lat": 24.080173,
     "lng": 120.536074,
@@ -10437,17 +10437,6 @@
     "lang": "zh-TW",
     "desc": "En 1893, Liu Ming-chuan fait construire une gare ici, transformant un village Hakka dispersé en un centre de distribution des produits de Zhunan et Miaoli ; en 1917, le temple Sanyuan débute sa construction et est achevé l'année suivante, tandis que des bâtiments coloniaux en briques rouges s'alignent le long de la rue. En 1929, les autorités japonaises, jugeant la pente trop raide, déplacent la gare vers l'actuelle gare de Hukou, mettant brutalement fin à seize ans de prospérité ; le quartier est alors surnommé « vieille Hukou ». Sur le site de l'ancienne gare est ensuite édifié une cathédrale, le temple Sanyuan reste à sa place, et la rue abandonnée par le chemin de fer échappe ainsi aux démolitions d'après-guerre.",
     "city": "新竹"
-  },
-  {
-    "title": "Ville de Kaohsiung : en 1979, l’année de son élévation au rang de municipalité spéciale, huit habitants de Kaohsiung étaient enfermés dans une prison de Taipei",
-    "lat": 22.633182,
-    "lng": 120.304418,
-    "category": "geography",
-    "region": "south",
-    "link": "/geography/kaohsiung-city",
-    "lang": "zh-TW",
-    "desc": "Le 1er juillet 1979, Kaohsiung devint la deuxième municipalité spéciale de Taïwan ; le 10 décembre, Journée mondiale des droits de l’homme, le meeting de la revue Formosa au rond-point de Dagangpu se transforma en affrontement sous les gaz lacrymogènes. Huit personnes furent condamnées ; le 28 février 1980, un massacre eut lieu au domicile de Lin Yi-hsiung, rue Xinyi à Taipei. Cette même année 1979, Kaohsiung reçut une gloire administrative et avala aussi la répression politique la plus lourde du Taïwan d’après-guerre. Ses 2,71 millions d’habitants sont dispersés dans 38 districts ; le cordon sableux de Cijin, les villages bunun de Namaxia, les cheminées de China Steel et le toit d’aluminium de Weiwuying cohabitent dans une même ville, qui a passé 45 ans à recoudre ses blessures jusqu’à leur donner sa propre forme.",
-    "city": "高雄"
   },
   {
     "title": "Comté de Miaoli : le comté des Hakka au cou raide, qui a élu en huit ans un magistrat ayant doublé la dette du Trésor départemental",
@@ -10835,17 +10824,6 @@
     "city": "台南"
   },
   {
-    "title": "चार-चार दक्षिण गांव: एक सैन्य कारखाने का क्वानत्सुन, अब ताइपे 101 के बगल में एक सांस्कृतिक-रचनात्मक पार्क",
-    "lat": 25.031695,
-    "lng": 121.569032,
-    "category": "geography",
-    "region": "north",
-    "link": "/geography/44-south-village",
-    "lang": "zh-TW",
-    "desc": "1948 के अंत में, चिंगदाओ के संयुक्त रसद 44वें शस्त्रागार की मशीनरी को छह खेपों में \"ताईकांग लुन\" पर लादकर कीलुंग ले जाया गया। दिसंबर में पहुंचे कारखाना श्रमिकों और उनके परिवारों को ताइपे के पूर्व में सानचांगली के पूर्व जापानी सैन्य शिंग्या गोदामों में रखा गया, जहां दीवारों के बिना शानदोंग बोली गूंजती थी। अगले साल उन्होंने कारखाने के दक्षिणी किनारे पर अपने क्वानत्सुन (सैन्य आश्रित गांव) का निर्माण किया — चीन गणराज्य (ताइवान) सरकार द्वारा ताइवान में स्थापित पहला ऐसा गांव। फील्ड-ग्रेड अधिकारी पश्चिमी गांव में, कंपनी-ग्रेड अधिकारी पूर्वी गांव में, और बिना सैन्य पद वाले शानदोंग तकनीशियन दक्षिणी गांव में रहते थे। 1980 में शस्त्रागार सानश्या चला गया और 206वें कारखाने में बदल गया; पश्चिमी गांव को ध्वस्त कर जोंगतुओ सार्वजनिक आवास बना दिया गया, पूर्वी गांव को चिंगन्येन पार्क के जोंगजेन सार्वजनिक आवास में स्थानांतरित कर दिया गया। केवल दक्षिणी गांव बचा रहा क्योंकि इसके निवासी तकनीशियन थे जो रक्षा मंत्रालय के क्वानत्सुन पुनर्निर्माण विनियमों के अंतर्गत नहीं आते थे। 1998 में सभी निवासी शिमाओ शिनचेंग चले गए, 1999 में आग ने कुछ घरों को नष्ट कर दिया, 2001 में विरासत विवाद के बाद 4 इमारतों को रखने का फैसला हुआ, और 25 अक्टूबर 2003 को \"शिनयी गोंगमिन हुईगुआन और क्वानत्सुन संस्कृति पार्क\" का उद्घाटन हुआ — तब बन रहे ताइपे 101 के सामने।",
-    "city": "台北"
-  },
-  {
     "title": "बन्नान लाइन: दो शहरों को भूमिगत जोड़ने वाले 26.5 किलोमीटर",
     "lat": 25.029831,
     "lng": 121.56911,
@@ -11033,14 +11011,14 @@
     "city": "台北"
   },
   {
-    "title": "योंगकांग स्ट्रीट: जहां जापानी प्रोफेसर रहते थे, बाहरी प्रांत के लोग शरण लेकर आए, अब यह जापानी-कोरियाई पर्यटकों का ताइपे है",
+    "title": "योंगकांग स्ट्रीट: जहाँ जापानी प्रोफेसर रहे, विस्थापित लोग भागे, और अब यह जापानी-कोरियाई पर्यटकों का ताइपे है",
     "lat": 25.031019,
     "lng": 121.566892,
     "category": "geography",
     "region": "north",
     "link": "/geography/yongkang-street",
     "lang": "zh-TW",
-    "desc": "सुबह साढ़े सात बजे योंगकांग पार्क के पुराने पेड़ों तले, बाहरी प्रांत के दादाजी अखबार लिए पत्थर की बेंच पर बैठे हैं। 1922 में जापानियों ने यहां शोवा-चो की योजना बनाई, ताइपेई इम्पीरियल यूनिवर्सिटी के कर्मचारी चिंगतियान स्ट्रीट नंबर 7 के जापानी शैली के छात्रावास में रहते थे; 1947 के बाद बाहरी प्रांत के अधिकारी और एनटीयू प्रोफेसरों ने उन्हीं छात्रावासों को संभाला, मा टिंग-यिंग चिंगतियान स्ट्रीट 76 में चले गए, चोउ दे-वेई आज के ज़िटेंग लू में। 1958 में यांग बिंग-यी ने शिनयी रोड सेक्शन 2 पर डिंग ताई फेंग तेल की दुकान खोली, 1972 में छोटी टोकरी बन्स बेचने लगे, आज दरवाजे पर कतार जिनशान साउथ रोड के मोड़ तक जाती है, जहां जापानी और कोरियाई मंदारिन से ज्यादा सुनाई देते हैं। तीन पीढ़ियों के निवासी एक ही 600 मीटर की सड़क पर जमे हैं।",
+    "desc": "सुबह साढ़े सात बजे योंगकांग पार्क के पुराने पेड़ के नीचे, एक बुजुर्ग विस्थापित व्यक्ति अखबार पढ़ रहा था। 1922 में जापानी लोगों ने यहाँ शोवा टाउन की योजना बनाई थी; ताइवान विश्वविद्यालय (ताइदा) के कर्मचारियों के लिए जापानी छात्रावास थे; 1947 के बाद, इन छात्रावासों पर विस्थापित सरकारी अधिकारियों और ताइदा प्रोफेसरों ने कब्जा कर लिया।",
     "city": "台北"
   },
   {
@@ -11550,14 +11528,14 @@
     "city": "台北"
   },
   {
-    "title": "Kota Taoyuan: impor dan ekspor Taiwan, paling banyak orang Hakka, paling banyak pekerja migran, semuanya di dataran tinggi ini",
+    "title": "Kota Taoyuan: impor dan ekspor Taiwan, paling banyak orang Hakka, paling banyak pekerja migran, semuanya di atas dataran tinggi ini",
     "lat": 24.987582,
     "lng": 121.294861,
     "category": "geography",
     "region": "north",
     "link": "/geography/taoyuan-city",
     "lang": "zh-TW",
-    "desc": "Sore hari 19 November 1977, puluhan ribu massa mengepung Kantor Polisi Sektor Zhongli, polisi menembak mati mahasiswa Universitas Nasional Chengchi Jiang Wenguo dan Zhang Zhiping berusia 19 tahun, Hsu Hsin-liang terpilih sebagai Bupati Taoyuan dengan suara 230 ribu lawan 140 ribu. Satu tahun tiga bulan kemudian, Bandara Internasional Chiang Kai-shek diresmikan pada 26 Februari 1979, pintu gerbang internasional Taiwan pindah dari Pelabuhan Keelung ke dataran tinggi ini. Pada 25 Desember 2014, Taoyuan ditingkatkan menjadi kota khusus keenam, yang terakhir di antara keenam kota tersebut. Saat ini 2,35 juta orang tinggal di dataran tinggi seluas 1.221 km² ini, orang Hakka lebih dari 800 ribu paling banyak di seluruh negara, pekerja migran 132.158 orang juga paling banyak di seluruh negara. Taoyuan adalah perbatasan paling beragam di Taiwan.",
+    "desc": "Pada sore hari 19 November 1977, puluhan ribu warga mengepung Kantor Polisi Zhongli, polisi menembak mati mahasiswa Universitas Nasional Central Jiang Wenguo dan Zhang Zhiping berusia 19 tahun, Hsu Hsin-liang terpilih sebagai Bupati Taoyuan dengan suara 230.000 lawan 140.000. Setahun tiga bulan kemudian, pada 26 Februari 1979 Bandara Internasional Chiang Kai-shek diresmikan, pintu gerbang Taiwan ke dunia luar dipindahkan dari Pelabuhan Keelung ke dataran tinggi ini. Pada 25 Desember 2014, Taoyuan ditingkatkan menjadi kota metropolitan keenam, yang terakhir di antara keenam kota metropolitan. Kini 2,35 juta orang tinggal di dataran tinggi seluas 1.221 km² ini, orang Hakka lebih dari 800 ribu paling banyak di seluruh negara, pekerja migran 132.158 orang juga paling banyak di seluruh negara. Taoyuan adalah perbatasan paling beragam di Taiwan.",
     "city": "桃園"
   },
   {
@@ -13861,14 +13839,14 @@
   },
   {
     "title": "台湾の眷村料理",
-    "lat": 22.625409,
-    "lng": 120.306893,
+    "lat": 24.99969,
+    "lng": 121.29437,
     "category": "food",
-    "region": "south",
+    "region": "north",
     "link": "/ja/food/military-dependents-village-cuisine",
     "lang": "ja",
-    "desc": "1949年の大移住がもたらした各省の味、竹柵の中の台所から眷村解体後の味覚保存まで",
-    "city": "高雄"
+    "desc": "1949年の大移動がもたらした各省の味覚。竹垣の中の台所から、眷村解体後の味の保存までを辿ります。",
+    "city": "桃園"
   },
   {
     "title": "鄭成功が持ち込んだのではない：サバヒー（虱目魚）四百年の養殖史",
@@ -14223,15 +14201,15 @@
     "city": "台北"
   },
   {
-    "title": "台湾のデザート文化",
-    "lat": 23.005793,
-    "lng": 120.225326,
+    "title": "台湾の氷菓文化",
+    "lat": 25.035793,
+    "lng": 121.567326,
     "category": "food",
-    "region": "south",
+    "region": "north",
     "link": "/ja/food/taiwanese-ice-cream-culture",
     "lang": "ja",
-    "desc": "玉井マンゴーアイスから雪花氷革命まで、冬でもアイスを食べる台湾独自の文化を探求します",
-    "city": "台南"
+    "desc": "玉井のマンゴー氷から雪花氷の革命まで、台湾人が冬でも氷を食べる特異な文化を探る",
+    "city": "台北"
   },
   {
     "title": "台湾の新規住民による食文化の融合",
@@ -14311,14 +14289,14 @@
     "city": "台南"
   },
   {
-    "title": "四四南村：兵器工場の眷村、現在は台北101そばの文創園区",
+    "title": "四四南村：兵工廠の眷村から101近くの文化創造エリアへ",
     "lat": 25.026152,
     "lng": 121.567245,
     "category": "geography",
     "region": "north",
     "link": "/ja/geography/44-south-village",
     "lang": "ja",
-    "desc": "1948年11月末、青島の聯勤第四十四兵工廠の機械は6回に分けて「太康輪」に積み込まれ、基隆へ運ばれました。12月に続いて到着した工員と家族は、台北東部・三張犁にあった日本軍の興雅倉庫に入り、壁のない倉庫の中に山東方言が響きました。翌年、彼らは工場区域の南側に自力で眷舎を建てました。これが中華民国政府が台湾で設けた最初の眷村です。将校級は西村、尉官級は東村、軍職を持たない山東出身の技工は南村に住みました。1980年、兵器工場は三峡へ移転して206廠に改称され、西村は取り壊されて忠駝国宅となり、東村は青年公園の忠貞国宅へ移されました。南村だけが残りました。住民が技工であり、国防部の眷村改建条例の適用対象ではなかったためです。1998年、住民は全員、世貿新城へ移り、1999年の火災で一部の家屋が焼失しました。2001年、文化資産をめぐる論争の末に4棟の保存が決まり、2003年10月25日、「信義公民会館暨眷村文化公園」が開館しました。建設中の台北101に向き合う場所でした。",
+    "desc": "1948年11月末、青島聯勤第44兵工廠の機械設備が「太康輪」で基隆に運ばれた。この地で誕生した台湾初の眷村とその変遷を辿ります。",
     "city": "台北"
   },
   {
@@ -14608,14 +14586,14 @@
     "city": "新北"
   },
   {
-    "title": "高雄市：1979年に直轄市に昇格したあの年、台北の刑務所には8人の高雄人が収監されていた",
+    "title": "高雄市：1979年、直轄市に昇格したその年に、台北の刑務所には八人の高雄市民が収容されていた",
     "lat": 22.622771,
     "lng": 120.301954,
     "category": "geography",
     "region": "south",
     "link": "/ja/geography/kaohsiung-city",
     "lang": "ja",
-    "desc": "1979年7月1日、高雄は台湾で2番目の直轄市に昇格しました。12月10日の世界人権デー、美麗島雑誌社が大港埔円環で行った演説会が催涙ガスの下で衝突へと発展しました。8人が有罪判決を受け、1980年2月28日には林義雄氏の台北市信義路の自宅で血の惨劇が起きました。同じ1979年、高雄は行政上の栄誉を得た一方で、戦後台湾で最も重い政治的弾圧を呑み込むことになりました。271万人が38の区に散らばり、旗津砂洲、那瑪夏ブヌン族集落、中鋼の煙突、衛武營のアルミニウム合金屋根が同一市内に共存しています。この街は45年をかけて傷口を自らの形へと縫い合わせてきました。",
+    "desc": "1979年7月1日、高雄は台湾で2番目の直轄市に昇格しました。そして12月10日の世界人権の日、美麗島雑誌社での演説は大港埔圓環での衝突へと発展しました。8名が有罪判決を受け、1980年2月28日には林義雄氏の台北信義路のご自宅で流血事件が発生しました。同じ1979年、高雄は行政的な栄誉を手に入れた一方で、戦後の台湾が経験した最も重い政治的抑圧をも受け入れました。271万人が38の区に散らばり、旗津沙洲、那瑪夏布農族の集落、中鋼の煙突、衛武營のアルミニウム合金屋根が同じ市内に存在し、この都市は45年をかけて傷跡を自らの形へと縫い合わせてきました。",
     "city": "高雄"
   },
   {
@@ -15015,14 +14993,14 @@
     "city": "台北"
   },
   {
-    "title": "桃園市：台湾の輸出入、最多の客家人、最多の移工がこの台地上に集積している",
+    "title": "桃園市：台湾の輸出入、最も多い客家人、最も多い移工がこの台地上に集積している",
     "lat": 24.992707,
     "lng": 121.296897,
     "category": "geography",
     "region": "north",
     "link": "/ja/geography/taoyuan-city",
     "lang": "ja",
-    "desc": "1977年11月19日夕方、中壢分局周辺で騒動が発生し、中央大学の学生江文國（こう・じんくん）と19歳の張治平（ちょう・ちーピン）が死亡。許信良（きょ・しんりょう）氏が当選した後、一年三ヶ月後の1979年2月26日に桃園中正国際空港が開港し、台湾の対外窓口は基隆港からこの台地に移った。2014年12月25日、桃園は第六都に格上げされた。現在、約235万人がこの1,221平方キロメートルの台地に住んでおり、客家系住民は約80万人で全国最多、移工は約13万2,158人と全国最多である。",
+    "desc": "1977年11月19日夕方、中壢分局周辺で騒ぎが発生し、警官による発砲事件がありました。許信良氏が桃園県知事に当選しました。一年三ヶ月後である1979年2月26日、桃園中正国際空港が開港し、台湾の対外的な玄関口は基隆港からこの台地に移りました。2014年12月25日に桃園市が第六都に昇格しました。現在、ここに住む約235万人の人々、80万人を超える客家人、そして13万2,158人の移工も全国最多です。",
     "city": "桃園"
   },
   {
@@ -15158,14 +15136,14 @@
     "city": "宜蘭"
   },
   {
-    "title": "永康街：日本人教授が住み、外省人が避難して来て、いまは日韓観光客の台北",
+    "title": "永康街：日本教授が住み、外省人が逃れてきた場所、今や日韓観光客の台北",
     "lat": 25.03076,
     "lng": 121.563164,
     "category": "geography",
     "region": "north",
     "link": "/ja/geography/yongkang-street",
     "lang": "ja",
-    "desc": "朝 7 時半、永康公園の脇にある老木の下で、外省人のおじいさんが石の椅子に座り、朝刊を手にしています。1922 年、日本人はここに昭和町を計画し、台北帝大の教職員は青田街七号の日式宿舎に住みました。1947 年以降、外省人官僚や台大教授が同じ宿舎群を引き継ぎ、馬廷英は青田街七六に、周徳偉は今日の紫藤廬に入りました。1958 年、楊秉彝は信義路二段で鼎泰豊を開き油屋を営み、1972 年に小籠包販売へ転じました。今日、店先から金山南路の角まで伸びる列では、国語より日本語と韓国語のほうが多く聞こえます。三世代の住民が、同じ 600 メートルの通りに重なっています。",
+    "desc": "早朝7時半、永康公園の老木の下に座る老人。1922年、日本人による「昭和町」の計画から始まり、戦後の外省官僚や台大教授が住み、現在では日系・韓国系の観光客で賑わう歴史的街並みの記録です。",
     "city": "台北"
   },
   {
@@ -19239,6 +19217,17 @@
     "city": "台北"
   },
   {
+    "title": "台湾の全年齢共生旅行と生活文化：人情味が最強のバリアフリー設備となる時",
+    "lat": 25.03183,
+    "lng": 121.566776,
+    "category": "society",
+    "region": "north",
+    "link": "/ja/society/inclusive-travel-taiwan",
+    "lang": "ja",
+    "desc": "家庭の視点から観察する、台湾社会が「人情味」と共生的な施設を通じて、超高齢化社会への道のりで「家族で旅行すること」の意味を再定義している過程。",
+    "city": "台北"
+  },
+  {
     "title": "台湾先住民族の土地正義と伝統領域",
     "lat": 23.985042,
     "lng": 121.6009,
@@ -21142,6 +21131,17 @@
     "city": "新竹"
   },
   {
+    "title": "Kaohsiung: Em 1979, o ano em que se tornou uma cidade direta de nível superior, oito pessoas de Kaohsiung estavam presas na prisão de Taipei",
+    "lat": 22.633212,
+    "lng": 120.29388,
+    "category": "geography",
+    "region": "south",
+    "link": "/geography/kaohsiung-city",
+    "lang": "zh-TW",
+    "desc": "Em 1º de julho de 1979, Kaohsiung foi elevada a segunda cidade direta de Taiwan. Em 10 de dezembro, o Dia Internacional dos Direitos Humanos, um discurso da revista Beautiful Island em Da Gangpu Yuanhuan se tornou um conflito sob gás lacrimogêneo. Oito pessoas foram condenadas e, em 28 de fevereiro de 1980, ocorreu um caso de derramamento de sangue na casa de Lin Yi-hsiung, na Rua Xinyi, Taipei. No mesmo ano de 1979, Kaohsiung ganhou glória administrativa, mas também absorveu a repressão política mais pesada do pós-guerra. Com 2,71 milhões de pessoas espalhadas por 38 distritos, com o península de Qijin, as tribos indígenas de Namaxi e os chaminés da China Steel, e o telhado de liga de alumínio do Weiwuying coexistindo na mesma cidade, esta cidade levou 45 anos para costurar suas feridas em sua própria forma.",
+    "city": "高雄"
+  },
+  {
     "title": "Lienchiang: o condado mais distante de Taiwan, o mais próximo da Guerra Fria",
     "lat": 26.161468,
     "lng": 119.942936,
@@ -21228,6 +21228,17 @@
     "lang": "zh-TW",
     "desc": "A bacia de Taipé abriga três épocas lado a lado: o Templo Longshan (1738), o comércio de chá de Daodaochang (1860) e o Taipei 101 (2004). Uma análise da complexidade histórica da metrópole.",
     "city": "台北"
+  },
+  {
+    "title": "Taipé: A fronteira mais diversa de Taiwan, com os maiores números de Hakka e trabalhadores migrantes",
+    "lat": 24.986135,
+    "lng": 121.301595,
+    "category": "geography",
+    "region": "north",
+    "link": "/geography/taoyuan-city",
+    "lang": "zh-TW",
+    "desc": "Em 1977, após um evento em Zhongli, Taipé se tornou o centro logístico do país; hoje abriga 2,35 milhões de pessoas, sendo a região com mais Hakka (mais de 800 mil) e os maiores números de trabalhadores migrantes.",
+    "city": "桃園"
   },
   {
     "title": "Treasure Hill: o assentamento irregular que esteve sob ameaça de demolição por 30 anos e se tornou a vila de arte mais descolada de Taipé",
@@ -21483,14 +21494,14 @@
     "city": "桃園"
   },
   {
-    "title": "Сысы наньцзюань: бывший посёлок военных семей при арсенале, теперь — творческий парк у «Тайбэя 101»",
+    "title": "Сісінь-Сыньвань: жилой массив военного завода, ныне культурный парк у Тайбэя 101",
     "lat": 25.030925,
     "lng": 121.569753,
     "category": "geography",
     "region": "north",
     "link": "/geography/44-south-village",
     "lang": "zh-TW",
-    "desc": "В конце ноября 1948 года станки 44-го арсенала Объединённого логистического управления в Циндао были погружены на паром «Тайкан» в шести партиях и доставлены в Кэлун. В декабре прибывшие рабочие с семьями разместились в японских складах Синъя в Саньчжанли на востоке Тайбэя, где шаньдунский диалект звучал в бесстенных ангарах. На следующий год они сами построили жилья на южной стороне территории завода — это был первый посёлок военных семей, созданный правительством Китайской Республики (Тайвань) на Тайване. Старшие офицеры сели в Сысы сицзюань, младшие — в Сысы дунцзюань, а гражданские техники из Шаньдуна — в Сысы наньцзюань. В 1980 году арсенал переехал в Санься и был переименован в 206-й завод, Сысы сицзюань снесён и заменён жилыми комплексами «Чуньтуо», Сысы дунцзюань переселили в «Чуньчжэн» у Парка Молодёжи. Остался только наньцзюань, так как жители — техники — не подпадали под закон Министерства обороны о переселении посёлков военных семей. В 1998 году все переехали в «Шимао синчэн», в 1999 году пожар уничтожил часть домов, в 2001 году после споров о культурном наследии решили сохранить 4 здания, а 25 октября 2003 года открылся «Общественный центр Сыи и парк культуры посёлка военных семей» — напротив строящегося тогда «Тайбэя 101».",
+    "desc": "В конце ноября 1948 года машины сорокового четвёртого военного завода из Китая (Циндао) были загружены на судно «Тайко» и доставлены в Кэлун. В декабре прибывшие рабочие и их семьи заселились в бывшие японские склады в Сянгяксине (Три Цзян Ли). Говоривший на китайском диалекте язык эхом отражался в пустых помещениях. На следующем году они сами построили жилые корпуса на юге завода — первый военный жилой массив, созданный правительством Китайской Республики на Тайване. Полковники жили в Западной деревне, лейтенанты — в Восточной, а простые техники без военного звания — в Южной деревне. В 1980 году завод переехал в Сычжэнь, переименован в 206-й завод, Западная деревня снесена и превращена в жилой комплекс Чжунчао, Восточная деревня эвакуирована в жилой комплекс Чжунчжэнь в парке Юньшэнь. Осталась только Южная деревня, потому что жители — техники — не подпадали под закон об урегулировании военных жилых массивов Министерства обороны. В 1998 году все жители переехали в новый город Шэньмэй, в 1999 году пожар уничтожил часть зданий, в 2001 году при сохранении 4 зданий было решение о сохранении, а 25 октября 2003 года открылся «Гражданский центр Синьи — парк культуры военных жилых массивов» — напротив строящегося Тайбэя 101.",
     "city": "台北"
   },
   {
@@ -21558,6 +21569,17 @@
     "lang": "zh-TW",
     "desc": "В 1733 году (11-й год Юнчжэня) туньчжи Даньшуй Сюй Чжиминь посадил камышовый бамбук по периметру, очертив круглую земляную крепость длиной 1408 метров. В 1829 году завершилось строительство кирпично-каменного города, и восточные ворота Инси до сих пор стоят у рва. Через 247 лет, 15 декабря 1980 года, Цзян Цзинго в 5 километрах от Инсы перерезал красную ленту на первом в Тайване научном парке. С 1953 по 1974 год 148 человек из эскадрильи «Чёрные летучие мыши» взлетали с этой базы в «Ветряном городе» на разведку материкового Китая и не возвращались. Город областного подчинения с 450 тысячами жителей удерживает линию холодной войны, старейший ханский город на севере, два ведущих университета и точку отсчёта 90 % передовых полупроводников мира. Название «Ветряной город» звучит поэтично, но вся промышленность этого города связана с ветром.",
     "city": "新竹"
+  },
+  {
+    "title": "Гаосун: В тот год, когда Гаосун стал прямым муниципалитетом (1979), в тайпейской тюрьме сидели восемь человек из Гаосун",
+    "lat": 22.621363,
+    "lng": 120.304719,
+    "category": "geography",
+    "region": "south",
+    "link": "/geography/kaohsiung-city",
+    "lang": "zh-TW",
+    "desc": "1 июля 1979 года Гаосун стал вторым прямым муниципалитетом Тайваня. 10 декабря, в День прав человека, выступление журнала «Мэйличжи» («Остров красоты») на площади Мэньгбинь превратилось в столкновение под дождём слез. Восьмеро участников были осуждены. 28 февраля 1980 года в доме Линь Иксиона на проспекте Синьи в Тайпее произошло кровавое убийство. В тот же 1979 год Гаосун получил административное достоинство, но также понес острую политическую репрессию. Два миллиона семьсот тысяч человек рассеялись по тридцати восьми районам. На пляже Цзинчжуан, в бризе аборигенов народа Намария, над дымовыми трубами Чжоньшань и на крыше алюминиевых домиков Вэйвуянь — все они живут в одном городе. За сорок пять лет этот город сшил раны в свой собственный облик.",
+    "city": "高雄"
   },
   {
     "title": "Киньмэнь: те 56 часов 1949 года, решившие судьбу Киньмэня на 75 лет",
@@ -21659,14 +21681,14 @@
     "city": "台東"
   },
   {
-    "title": "Унканцзе: здесь жили японские профессора, сюда бежали вайшэньжэнь, теперь это Тайбэй корейских и японских туристов",
+    "title": "Улица Ванькан: где жили японские профессора, прибывали переселенцы с материка, а сегодня останавливаются туристы из Японии и Кореи",
     "lat": 25.029041,
     "lng": 121.562757,
     "category": "geography",
     "region": "north",
     "link": "/geography/yongkang-street",
     "lang": "zh-TW",
-    "desc": "Под старыми деревьями у парка Унканцзе в семь тридцать утра вайшэньский дедушка сидит на каменной скамейке с утренней газетой. В 1922 году японцы спланировали здесь Сёвамати, преподаватели Тэйхоку тайхоку (Тайбэйский имперский университет) жили в японских служебных домах на Цинтяньцзе 7; после 1947 года вайшэньские чиновники и профессора Тайда (Тайваньский университет) взяли те же дома, Ма Тинъин въехал в Цинтянь цылю, Чжоу Дэвэй — в современный Цзытэнлу. В 1958 году Ян Биньи на Сыилу 2-го участка открыл масляную лавку «Динтайфэн», в 1972 году стал продавать сяолунбао, сегодня очередь доходит до поворота на Цзиньшаньнаньлу, японская и корейская речь звучат чаще мандарин. Три поколения жильцов наслаиваются на одной улице длиной 600 метров.",
+    "desc": "В полдень у старого дерева в парке Ванькан сидит дедушка с газетой. В 1922 году японцы здесь спланировали район Сёва, жили в японских общежитиях профессора Тайбэйского императорского университета; после 1947 года те же общежития заняли представители провинции, масть проживал в доме №76 на улице Чиньтянь, чжоу дэвэй — в фиолетовом дворе. В 1958 году янь биньци создал сеть \"Динтайфэн\" для продажи масла, в 1972 году перешел на пельмени, а сегодня в очереди у входа слышен японский и корейский больше, чем мандарин. Три поколения жителей наложены на одну и ту же 600-метровую улицу.",
     "city": "台北"
   },
   {
@@ -21978,17 +22000,6 @@
     "city": "台北"
   },
   {
-    "title": "Làng Tứ Tứ Nam: Từ làng cộc quân sự đến khu vực sáng tạo công nghệ bên cạnh 101",
-    "lat": 25.039553,
-    "lng": 121.569652,
-    "category": "geography",
-    "region": "north",
-    "link": "/geography/44-south-village",
-    "lang": "zh-TW",
-    "desc": "Cuối tháng 11 năm 1948, máy móc của Nhà máy Liên Quân số 44 từ Thanh Đảo được chia thành sáu lô vận chuyển trên tàu Thái Khang tới cảng Cơ Long. Tháng 12 những công nhân và gia đình đến sau được an cư tại kho dự trữ Nhật quân ở Ba Trương Lợi, phía đông Đài Bắc, nơi tiếng Sơn Đông vang vọng trong những kho không có tường. Năm sau họ tự xây dựng nhà ở phía nam nhà máy — đây là làng cộc thứ nhất do chính phủ Trung Hoa Dân Quốc xây dựng tại Đài Loan. Các sĩ quan sinh sống ở làng tây, hạ sĩ quan ở làng đông, công nhân không có cấp bậc quân sự ở làng nam. Năm 1980 nhà máy chuyển đến Ba Tây đổi tên thành nhà máy 206, làng tây được phá bỏ để xây Trung Hòa Quốc Dân Nhà Ở, làng đông di tản đến Anh Niên Công Viên Trung Trinh Quốc Dân Nhà Ở. Chỉ có làng nam còn lại vì cư dân là công nhân không được áp dụng Quy Lệ Cải Cách Nhà Ở Quốc Phòng. Năm 1998 cư dân toàn bộ chuyển vào Thế Giới Mậu Dịch Thành Phố Mới, năm 1999 trận cháy phá hủy một phần nhà ở, năm 2001 tranh chấp di sản văn hóa quyết định giữ lại 4 tòa nhà, ngày 25 tháng 10 năm 2003 \"Hội Quán Công Dân Tín Nghĩa cùng Công Viên Văn Hóa Làng Cộc\" khai trương — đối diện với tòa nhà 101 Đài Bắc đang được xây dựng.",
-    "city": "台北"
-  },
-  {
     "title": "Đường sắt lâm nghiệp A Li Sơn: Một tuyến đường đưa gỗ lên núi, lưu giữ di sản văn hóa dài 71,6 km",
     "lat": 23.516791,
     "lng": 120.706502,
@@ -22088,14 +22099,14 @@
     "city": "桃園"
   },
   {
-    "title": "Đường Yongkang: Nơi nhà giáo sư Nhật Bản đã sống, người dân tỉnh thành trốn đến, nay thành điểm du lịch Hàn Nhật của Taipei",
+    "title": "Phố Vĩnh Khang: Nơi các giáo sư Nhật Bản từng sống, nơi người ngoại tỉnh chạy nạn, nay là Đài Bắc của khách du lịch Nhật và Hàn",
     "lat": 25.02621,
     "lng": 121.557292,
     "category": "geography",
     "region": "north",
     "link": "/geography/yongkang-street",
     "lang": "zh-TW",
-    "desc": "Dưới gốc cây cổ của Công viên Yongkang lúc sáng sớm, ông bà nghỉ hưu tỉnh thành ngồi trên chiếc ghế đá kéo báo sáng. Năm 1922, các nhà nước Nhật đã thiết kế Shōwa-chō tại đây, khu vực nhà ở dành cho giảng viên và quan chức cấp cao của Đại học Đế quốc Taipei (nay là Đại học Quốc gia Hàn Nội); sau năm 1947, các quan chức, cán bộ tỉnh thành và giảng viên ĐHQG nhận lại cùng tập đoàn nhà ở Nhật Bản; năm 1958, Yang Pingyi mở cửa hàng bán dầu \"Đình Tai Fong\" trên đường Xinhối, năm 1972 chuyển bán bánh bao, hiện nay đối đầu đến góc đường Jinhàn Nam theo khách hàng Hàn Nhật; ba thế hệ cư dân trùng lên trên con đường dài 600 mét.",
+    "desc": "Dưới gốc cây cổ thụ bên công viên Vĩnh Khang lúc bảy giờ rưỡi sáng. Ông lão ngoại tỉnh ngồi trên ghế đá đọc báo. Năm 1922, người Nhật quy hoạch Thị trấn Showa tại đây; ký túc xá kiểu Nhật của nhân viên Đại học Đế quốc Đài Bắc (nay là Đại học Quốc gia Đài Loan) ở số 7 phố Thanh Điền; sau năm 1947, các quan chức ngoại tỉnh và giáo sư Đại học Quốc gia Đài Loan đã tiếp quản lô ký túc xá này. Mã Đình Anh sống tại số 76 phố Thanh Điền, Chu Đức Vĩ sống tại Tử Đằng Lư ngày nay. Năm 1958, Dương Bỉnh Di mở tiệm dầu Đỉnh Thái Phong trên đoạn hai đường Tín Nghĩa; năm 1972, chuyển sang bán bánh bao nhỏ. Ngày nay, hàng người xếp hàng trước cửa, với tiếng Nhật và tiếng Hàn nhiều hơn tiếng Quốc ngữ. Ba thế hệ cư dân chồng chất trên con phố dài 600 mét này.",
     "city": "台北"
   },
   {
