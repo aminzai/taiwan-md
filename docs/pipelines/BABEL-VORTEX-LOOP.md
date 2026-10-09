@@ -3,8 +3,8 @@ title: 'BABEL-VORTEX-LOOP'
 description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.55)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.96'
-last_updated: 2026-10-09
+current_version: 'v1.97'
+last_updated: 2026-10-10
 last_session: '2026-09-26-100333-babel-vortex（翻譯率 100% 模式：推送常駐、付費 Haiku、閘門家族、委派 worktree 路徑陷阱與核准視窗、腳註修復器的語言盲）'
 sister_docs:
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
@@ -314,6 +314,19 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
 
+- v1.97（2026-10-10 babel 夜班）：**兩個量級閘門都看不見的拆段數字，和一個把銅牌當越南盾的幣別閘門**。
+  (a) 中文「121 萬 4,668 人」被譯成「1.21 million 4,668 people」：萬前面那段換算對了，零頭原樣接在量級詞後面。
+  兩段相加剛好等於原值，「數字串沒變＝沒換算」的判準永遠綠，讀者卻讀到兩個數。抽查交接點名的〈台灣全齡共融旅遊〉
+  hi 版才撞見，全庫量到十語 25 檔 59 處；其中 16 處已經加不回原值——鏈狀（`1 बिलियन 61 मिलियन 981,295`）、
+  順手錯十倍（pt〈曾博恩〉`2,67 milhões 7.009` 原文是 26 萬 7,009）、億萬混拆（vi〈高速公路〉`2 tỷ 2.790 triệu`
+  原文是 2 億 2,790 萬）。修法：`numeral-magnitude-check.py` 加拆段偵測與 `--fix-split`，只在「相加後的整數在
+  中文原文找得到」時機械改寫成完整整數，千分位跟著該檔自己的寫法；鏈狀與找不到的報 magnitude 給人看。
+  `verify_one` 與 `inherited_gate_defects()` 都改帶 `--fix-split`。第一版把鏈狀的右半段也改了，變成
+  `1 बिलियन 61,981,295` 看起來修好其實仍錯，補左鏈守衛；第二版千分位只數兩節以上的數字，id〈新竹縣〉被
+  description 唯一一處逗號帶走，補「逗號小數語言裡的單節點號也算一票」。存量 43 處機械改、16 處對照中文手改。
+  (b) vi〈台灣教育制度〉每次重譯都敗在 `currency[5]`，一夜十幾次：「6 huy chương vàng, 13 bạc, 6 đồng」的 đồng
+  是銅牌。`currency-identity-check.py` 對 vi 加獎牌脈絡豁免（huy chương／「N vàng」／金銀同現），全庫對照只拿掉
+  三檔七處、全是獎牌。同一篇跨兩種模型同一個理由，先查閘門不查模型（REFLEXES #38 判讀捷徑）又對了一次。
 - v1.96（2026-10-09 babel 夜班）：**補丁會繼承未改章節的舊錯，於是每一次都必被擋**。
   〈台灣美食總覽〉vi/id/hi/ar 的 patch 連續十次敗在 `currency[N]`，跨 gemma4 與 laguna 兩種模型同一個理由。
   中文只改一句（RAW 熄燈日期），裸幣別在其餘十一章：舊譯文把新台幣寫成越南盾、人民幣。patch 讓未改章節

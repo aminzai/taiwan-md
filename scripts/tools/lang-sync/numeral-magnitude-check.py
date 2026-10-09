@@ -120,6 +120,137 @@ def zh_values(zh_text: str) -> list[float]:
     return vals
 
 
+# ── 拆段數字（2026-10-10 babel-nightly）──────────────────────────────────────
+# 另一種量級病：中文「121 萬 4,668 人」被譯成「1.21 million 4,668 people」。
+# 譯者把萬前面那段換算對了、萬後面的零頭原樣接在量級詞後面。兩段加起來剛好
+# 等於原值，所以上面那支「數字串沒變」的判準永遠是綠的；但讀者讀到的是兩個
+# 數字（一百二十一萬，然後四千六百多），印地文、越南文、葡文最多。首次量到時
+# 十語 30 檔，其中幾處已經不是加得回去的形狀（`34 juta 1.2998 ribu`、
+# `10 tỷ 6.198 triệu 1.295 ngàn`）。
+# 處置分兩層：(1) 兩段相加後的整數能在中文原文裡找到 → 機械改寫成完整整數
+# （`--fix-split`，產線在閘門前自動跑）；(2) 找不到 → 回報給閘門，要人看。
+# 「找得到才改」是唯一的保險：本支不懂語意，只確定中文原文確實有這個數。
+SPLIT_WORDS = {
+    "en": ["million", "billion"], "hi": ["मिलियन", "बिलियन"], "ar": ["مليون", "مليار"],
+    "es": ["millones", "millón"], "pt": ["milhões", "milhão"], "fr": ["millions", "million"],
+    "de": ["Millionen", "Million", "Milliarden"], "ru": ["миллиона", "миллионов", "миллион"],
+    "id": ["juta", "miliar"], "vi": ["triệu", "tỷ"],
+}
+SPLIT_SCALE = {"million": 6, "billion": 9, "मिलियन": 6, "बिलियन": 9, "مليون": 6, "مليار": 9,
+               "millones": 6, "millón": 6, "milhões": 6, "milhão": 6, "millions": 6,
+               "Millionen": 6, "Million": 6, "Milliarden": 9, "миллиона": 6, "миллионов": 6,
+               "миллион": 6, "juta": 6, "miliar": 9, "triệu": 6, "tỷ": 9}
+# 小數點用哪個字。逗號小數的語言裡「.」是千分位（越南文 `6.198 triệu` 是 6198 百萬）。
+DECIMAL_COMMA = {"es", "pt", "fr", "de", "ru", "id", "vi"}
+FALLBACK_SEP = {"en": ",", "hi": ",", "ar": ",", "es": ".", "pt": ".", "de": ".",
+                "id": ".", "vi": ".", "fr": " ", "ru": " "}
+
+
+def _split_re(lang: str):
+    words = "|".join(re.escape(w) for w in sorted(SPLIT_WORDS[lang], key=len, reverse=True))
+    # 頭段：整數或帶一個小數分隔的數；量級詞；空白；零頭：1-3 位起頭的千分位數（至少一組）。
+    # 零頭後面若緊接數字或另一個量級詞，屬於更長的鏈（`1 tỷ 6.198 triệu`），不在本形狀內。
+    return re.compile(
+        r"(?<![0-9.,])(\d{1,4}(?:[.,]\d{1,3})?)[  ]?(" + words + r")[  ]+"
+        r"(\d{1,3}(?:[.,   ]\d{3})+)(?![0-9])(?![.,]\d)"
+    )
+
+
+def _num(raw: str, lang: str) -> float | None:
+    s = raw
+    if lang in DECIMAL_COMMA:
+        if s.count(".") and not s.count(","):
+            s = s.replace(".", "")  # 千分位
+        s = s.replace(",", ".")
+    else:
+        s = s.replace(",", "")
+    try:
+        return float(s)
+    except ValueError:
+        return None
+
+
+def zh_integers(zh_text: str) -> set[int]:
+    """中文原文裡寫得出來的完整整數：`121 萬 4,668`、`1,214,668`、`130.3萬`。"""
+    vals = set()
+    for m in re.finditer(r"(\d[\d,]*(?:\.\d+)?)\s*[億亿]\s*(?:(\d[\d,]*)\s*[萬万])?\s*(\d[\d,]*)?", zh_text):
+        try:
+            v = float(m.group(1).replace(",", "")) * 1e8
+            if m.group(2):
+                v += float(m.group(2).replace(",", "")) * 1e4
+            if m.group(3):
+                vals.add(round(v + float(m.group(3).replace(",", ""))))
+            vals.add(round(v))
+        except ValueError:
+            pass
+    for m in re.finditer(r"(\d[\d,]*(?:\.\d+)?)\s*[萬万]\s*(\d[\d,]*)?", zh_text):
+        try:
+            v = float(m.group(1).replace(",", "")) * 1e4
+            vals.add(round(v))
+            if m.group(2):
+                vals.add(round(v + float(m.group(2).replace(",", ""))))
+        except ValueError:
+            pass
+    for m in re.finditer(r"(?<![\d.])\d{1,3}(?:,\d{3})+(?![\d])|(?<![\d.,])\d{5,}(?![\d])", zh_text):
+        vals.add(int(m.group(0).replace(",", "")))
+    # 國字寫的（「一百六十萬劑」），跟 zh_values 同一套換算
+    for m in ZH_CN_NUM.finditer(zh_text):
+        vals.add(_cn_int(m.group(1)) * 10 ** ZH_MAG[m.group(2)])
+    return vals
+
+
+def _group_sep(out_text: str, lang: str) -> str:
+    """跟著這份譯文自己已經在用的千分位寫法走，不強加一套（西文檔裡兩種都見過）。"""
+    seps = re.findall(r"(?<![\d.,])\d{1,3}([,.   ])\d{3}\1\d{3}(?![\d])", out_text)
+    # 逗號小數的語言裡「1.500」只能是千分位，也算一票——id〈新竹縣〉全文都用點，
+    # 只有 description 一處 `1,442,000`，只數兩節以上的數字會被那一處帶走。
+    if lang in DECIMAL_COMMA:
+        seps += ["."] * len(re.findall(r"(?<![\d.,])\d{1,3}\.\d{3}(?![\d.,])", out_text))
+    if seps:
+        return max(set(seps), key=seps.count)
+    return FALLBACK_SEP.get(lang, ",")
+
+
+CHAIN_LEFT = re.compile(r"\d[\d.,]*\s?(?:" + "|".join(sorted(map(re.escape, SPLIT_SCALE), key=len, reverse=True))
+                        + r"|अरब|करोड़|लाख|tỷ|miliar|milliard|миллиард|bilhão|bilhões|mil millones)\s*$", re.I)
+
+
+def split_scan(zh_text: str, out_text: str, lang: str):
+    """回傳 (改寫後全文, 已改清單, 對不上原文的清單)。"""
+    if lang not in SPLIT_WORDS:
+        return out_text, [], []
+    zh_ints = zh_integers(zh_text)
+    sep = _group_sep(out_text, lang)
+    fixed, unresolved, pieces, last = [], [], [], 0
+    for m in _split_re(lang).finditer(out_text):
+        head, word, rem = m.group(1), m.group(2), m.group(3)
+        # 左邊還接著「數字＋量級詞」就是更長的鏈（`1 बिलियन 61 मिलियन 981,295` 是
+        # 10億6198萬1295）。只改右半段會變成 `1 बिलियन 61,981,295`，看起來修好了其實
+        # 仍錯——上線第一版就這樣改壞一處。鏈一律交給人。
+        if CHAIN_LEFT.search(out_text[max(0, m.start() - 40):m.start()]):
+            unresolved.append(f"「{m.group(0)}」左邊還接著量級詞，是更長的鏈")
+            continue
+        a = _num(head, lang)
+        b = int(re.sub(r"[^\d]", "", rem))
+        if a is None:
+            continue
+        base = round(a * 10 ** SPLIT_SCALE[word])
+        # 零頭要小於頭段最後一個非零位，否則兩段會重疊（不是同一個數拆開）
+        if b == 0 or base % (10 ** len(re.sub(r"[^\d]", "", rem))) != 0:
+            unresolved.append(f"「{m.group(0)}」兩段重疊，加不回一個數")
+            continue
+        v = base + b
+        if v in zh_ints:
+            pieces.append(out_text[last:m.start()])
+            pieces.append(f"{v:,}".replace(",", sep))
+            last = m.end()
+            fixed.append(f"「{m.group(0)}」→「{v:,}」")
+        else:
+            unresolved.append(f"「{m.group(0)}」= {v:,}，中文原文找不到這個數")
+    pieces.append(out_text[last:])
+    return "".join(pieces), fixed, unresolved
+
+
 def check(zh_path: Path, out_path: Path, lang: str) -> list[str]:
     mags = MAGNITUDE.get(lang)
     if not mags:
@@ -128,6 +259,10 @@ def check(zh_path: Path, out_path: Path, lang: str) -> list[str]:
     out_text = out_path.read_text(encoding="utf-8", errors="ignore")
     explained = zh_values(zh_text)
     hits, seen = [], set()
+    # 拆段數字：可機械改寫的那種不算錯（產線會先跑 --fix-split），只報對不上原文的。
+    _, fixable, odd = split_scan(zh_text, out_text, lang)
+    hits += [f"數字被拆成兩段：{x}" for x in odd]
+    hits += [f"數字被拆成兩段（可 --fix-split）：{x}" for x in fixable]
     for raw, val, unit in zh_figures(zh_text):
         if raw in seen:
             continue
@@ -196,6 +331,8 @@ def main() -> int:
     ap.add_argument("out", nargs="?")
     ap.add_argument("--lang")
     ap.add_argument("--json", action="store_true")
+    ap.add_argument("--fix-split", action="store_true",
+                    help="把「1.21 million 4,668」這種拆段數字改寫成完整整數（僅限中文原文找得到該數）")
     a = ap.parse_args()
 
     pairs = []
@@ -227,6 +364,19 @@ def main() -> int:
                 pairs.append((KNOWLEDGE / zh, f, a.lang))
     else:
         ap.error("要給 <zh> <譯文>，或 --lang")
+
+    if a.fix_split:
+        n_fixed = 0
+        for zh, out, lang in pairs:
+            text = out.read_text(encoding="utf-8")
+            new, fixed, _ = split_scan(zh.read_text(encoding="utf-8", errors="ignore"), text, lang)
+            if fixed and new != text:
+                out.write_text(new, encoding="utf-8")
+                n_fixed += len(fixed)
+                for x in fixed:
+                    print(f"🔧 {out.name}: {x}", file=sys.stderr)
+        if n_fixed:
+            print(f"🔧 拆段數字改寫 {n_fixed} 處", file=sys.stderr)
 
     report, total = {}, 0
     for zh, out, lang in pairs:

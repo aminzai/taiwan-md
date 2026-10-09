@@ -424,8 +424,13 @@ def verify_one(zh_path: str, trans_path: str, log: Logger) -> tuple[bool, Option
     # 上線第一版直接傳 zh_path，檢查器 FileNotFoundError 也是 exit 1，每篇都被誤擋
     # （de〈同婚〉那次記成 magnitude[?]，壞/好兩頭對照時餵的是 knowledge/ 路徑才沒看見）。
     zh_repo = zh_path if zh_path.startswith("knowledge/") else f"knowledge/{zh_path}"
+    # 拆段數字先機械改寫再驗（2026-10-10 babel-nightly）：「121 萬 4,668」常被譯成
+    # 「1.21 million 4,668」，兩段相加等於原值所以上面的閘門都綠，讀者卻讀到兩個數。
+    # --fix-split 只改「相加後的整數在中文原文找得到」的那種；找不到的（鏈狀、加不回去）
+    # 留給下面同一支檢查器報 magnitude，不在這裡猜。
     r5 = subprocess.run(
-        ["python3", "scripts/tools/lang-sync/numeral-magnitude-check.py", zh_repo, trans_path],
+        ["python3", "scripts/tools/lang-sync/numeral-magnitude-check.py", "--fix-split",
+         zh_repo, trans_path],
         cwd=REPO, capture_output=True, text=True,
     )
     magnitude_fail = r5.returncode == 1 and "處量級可疑" in r5.stdout
@@ -1314,8 +1319,9 @@ def inherited_gate_defects(zh_path: str, trans_path: str) -> list[str]:
                                              encoding="utf-8") as tf:
                 tf.write(old.stdout)
             try:
+                # --fix-split：拆段數字能機械改好，改完就不算舊錯，不必為它整篇重翻
                 r = subprocess.run(["python3", "scripts/tools/lang-sync/numeral-magnitude-check.py",
-                                    tf.name, trans_path],
+                                    "--fix-split", tf.name, trans_path],
                                    cwd=REPO, capture_output=True, text=True)
                 if r.returncode == 1 and "處量級可疑" in r.stdout:
                     found.append("magnitude")
