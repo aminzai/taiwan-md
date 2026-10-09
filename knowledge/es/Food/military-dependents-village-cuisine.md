@@ -1,15 +1,15 @@
 ---
-title: 'Cocina de las aldeas militares de Taiwán'
-description: 'Los sabores de todas las provincias traídos por la gran migración de 1949, desde las cocinas dentro de las vallas de bambú hasta la preservación del sabor tras la demolición de las aldeas militares'
+title: 'Cocina de los barrios de soldados de Taiwán'
+description: 'El sabor de las provincias del gran traslado de 1949, desde las cocinas de los barrotes de bambú hasta la preservación del gusto tras la demolición de los barrios'
 date: 2026-03-19
 category: 'Food'
 tags:
   [
-    'cocina de aldeas militares',
-    'cocina de provincias exteriores',
-    'sopa de fideos con carne de res',
-    'gran migración',
-    'valla de bambú',
+    'cocina de barrios de soldados',
+    'comida de provincias exteriores',
+    'fideos de carne de res',
+    'gran traslado de 1949',
+    'barrotes de bambú',
   ]
 subcategory: '族群飲食'
 author: 'Taiwan.md Contributors'
@@ -19,103 +19,115 @@ lastHumanReview: false
 readingTime: 8
 imageNote: '原圖僅 GFDL 授權（非 CC BY／CC BY-SA／CC0／公有領域），未收進庫，待另覓授權明確圖源'
 translatedFrom: 'Food/台灣眷村菜.md'
-sourceCommitSha: 'ef80aeea4'
-sourceContentHash: 'sha256:467908b1a60dd52d'
-sourceBodyHash: 'sha256:833d2eafe654813e'
-translatedAt: '2026-10-08T14:06:56.615307+00:00'
+sourceCommitSha: 'c0ec148be'
+sourceContentHash: 'sha256:242e3935197cb573'
+sourceBodyHash: 'sha256:0350ac703fba6030'
+translatedAt: '2026-10-09T09:18:29+08:00'
 ---
 
-# Cocina de las aldeas militares de Taiwán
+# Cocina de los barrios de soldados de Taiwán
 
-> **Resumen en 30 segundos:** La gran migración de 1949 trajo aproximadamente 1,2 millones de militares y civiles; sus sabores de origen echaron raíces dentro de las vallas de bambú que rodeaban las aldeas militares. Los panes de cebolla de Shandong, la pasta de judías picante de Sichuan, los xiaolongbao de Jiangsu y Zhejiang, los vegetales encurtidos de Hunan: las cocinas de cada provincia chocaron y se fusionaron en una misma comunidad, creando nuevos sabores en la cultura gastronómica taiwanesa que no pueden ser atribuidos a una sola provincia.
+> **Resumen en 30 segundos:** Alrededor de 1.2 millones de soldados y civiles se mudaron de China continental a Taiwán alrededor de 1949. Cientos de miles vivían en barrios de soldados rodeados por barrotes de bambú. La masa de cebolla de Shandong, la pasta de soja de Sichuan, los bao de Jiangsu y el repollo salado de Hunan se mezclaron en una sola comunidad, creando sabores nuevos que no pueden atribuirse a ninguna provincia única en la cultura gastronómica de Taiwán.
 
-La gran migración de 1949 no solo cambió el panorama político de Taiwán, sino que también inyectó en la cultura gastronómica los sabores de origen de todas las provincias de China. El millón y medio de militares y civiles reconstruyó su vida en las aldeas militares de Taiwán; dentro del pequeño mundo cercado por vallas de bambú, los grandes panes de Shandong, los chiles de Sichuan, los sabores dulces de Jiangnan, los vegetales encurtidos de Hunan —las cocinas de cada provincia rozaron, fusionaron y evolucionaron en un espacio limitado, formando una cultura culinaria de aldeas militares que no puede ser etiquetada con una sola provincia.[^1]
+El gran traslado de 1949 no solo cambió el panorama político de Taiwán, sino que también inyectó sabores caseros de todas las provincias de China en la cultura gastronómica. Los soldados y familias que se mudaron a los barrios de soldados reconstruyeron sus vidas en pequeños espacios rodeados por barrotes de bambú. La masa de Shandong, los chiles de Sichuan, los dulces de Jiangnan y el repollo salado de Hunan se rozaron, se fusionaron y evolucionaron en espacios limitados, dando forma a una cultura culinaria de barrios de soldados que no puede etiquetarse con una sola provincia.
 
-## La gran migración del sabor en 1949
+## El gran traslado sensorial de 1949
 
-En 1949, con el traslado del Gobierno nacionalista a Taiwán, se estima que aproximadamente 1,2 millones de militares y civiles llegaron desde la China continental (la demografía histórica maneja distintas estimaciones). Estas personas venían de todos los rincones, trayendo diferentes acentos, costumbres y, sobre todo, los recuerdos gustativos de su tierra natal más difíciles de abandonar.
+Alrededor de 1949, con la llegada del gobierno nacionalista, se estima que aproximadamente 1.2 millones de soldados y civiles llegaron de China continental a Taiwán. Las cifras varían según las fuentes: las estadísticas entre 1945 y 1950 mencionan cerca de 2 millones, mientras que el censo de 1956 registró más de 1.2 millones de residentes de provincias exteriores. [^1][^2] No todos se establecieron en barrios de soldados; según un censo de la Asociación de Mujeres en 1982, existían 879 barrios de soldados en toda Taiwán, con aproximadamente 467,316 personas, alrededor del 30% de la población de provincias exteriores en ese momento (otras estimaciones sugieren solo un sexto). [^2] Estas personas provenían de todas partes, con diferentes acentos, costumbres y, sobre todo, memorias sensoriales de sus sabores caseros que eran difíciles de dejar atrás.
 
-En aquella época convulsa, el sabor de la patria se convirtió en consuelo para el alma. Los de Shandong extrañaban el dip de cebolla grande de su casa, los de Sichuan añoraban la carne doble cocida picante y entumecedora, los de Jiangnan suspiraban por el pollo blanco cortado en frío. Estos recuerdos gustativos, en tierra extraña, se recompusieron formando una especial cultura gastronómica de aldeas militares.
+En aquellos tiempos de agitación, el sabor del hogar se convirtió en un consuelo para el alma. Los shandongeses extrañaban la salsa de cebolla de su tierra natal, los sichuanenses añoraban la carne salteada picante, y los Jiangnan extrañaban el pollo blanco suave. Estos recuerdos sensoriales se reorganizaron en tierras lejanas, dando forma a una cultura gastronómica única de los barrios de soldados.
 
-Los recién llegados de las provincias exteriores enfrentaron barreras lingüísticas y penurias económicas. En las precarias cocinas de las aldeas, recrearon los sabores de casa con ingredientes limitados. Por la escasez, los ingredientes originales fueron sustituidos por alternativas más baratas, y los métodos de cocción se adaptaron a las circunstancias, creando sin querer numerosas variaciones culinarias nuevas.
+Para los recién llegados de provincias exteriores, enfrentaron desafíos como la barrera del idioma y la escasez económica. En las cocinas simples de los barrios de soldados, recrearon los sabores de sus hogares con ingredientes limitados. Debido a la escasez de suministros, los ingredientes originales fueron reemplazados por alternativas más económicas, y los métodos de cocina se adaptaron al lugar, creando sin querer muchas variaciones nuevas.
 
-## A ambos lados de la valla de bambú: el entrecruzamiento de perspectivas étnicas
+## Barrotes de bambú: superposición de perspectivas étnicas
 
-La historia de la cocina de aldeas militares no puede contarse solo desde la perspectiva de los de las provincias exteriores. Las relaciones entre nativos de la isla y llegados de fuera tras 1949 estuvieron llenas de tensión: las heridas del 228 no habían cicatrizado, la incomunicación lingüística, las diferencias en la asignación de recursos, los choques de hábitos de vida crearon barreras. Sin embargo, la comida suele ser lo primero que cruza las fronteras.[^2]
+La historia de la cocina de los barrios de soldados no puede contarse solo desde la perspectiva de los residentes de provincias exteriores. Las relaciones entre provincias interiores y exteriores después de 1949 estaban cargadas de tensión: las heridas de 228 aún no habían sanado, la barrera del idioma, las diferencias en la asignación y los conflictos en los hábitos de vida crearon divisiones. Sin embargo, la comida a menudo es lo primero que cruza esas líneas.
 
-Las madres de las aldeas llevaban dumplings a visitar a los vecinos nativos; los agricultores nativos traían piñas para compartir con las familias de las aldeas; el hambre cotidiana y la generosidad ablandaron en silencio la distancia a ambos lados de la valla. Las mujeres nativas aportaron conocimiento de ingredientes locales (dónde están las hojas de batata más tiernas, qué pescado comprar en cada estación); las madres de las aldeas trajeron técnicas de fideos y secretos de condimento de cada provincia. Esta diplomacia de cocina es la raíz del carácter bidireccional de la cocina de aldeas militares.
+El intercambio entre los barrios de soldados y las comunidades locales de provincias interiores solía comenzar en mercados y mesas: los comerciantes locales conocían bien los ingredientes estacionales de Taiwán, mientras que las familias de provincias exteriores introdujeron técnicas de masa y salsas de diversas regiones. Este intercambio cotidiano es la raíz de la característica bidireccional de la cocina de los barrios de soldados.
 
-La «taiwanización» de la cocina de aldeas militares es en gran medida producto de este intercambio bidireccional. En la masa de los panes de cebolla apareció el aroma de la albahaca tailandesa taiwanesa; la carne estofada en salsa roja incorporó la pasta de soja espesa típica de Taiwán; las cocinas de cada provincia, bajo la intervención de ingredientes taiwaneses, desarrollaron un rostro que no puede replicarse en la tierra de origen.
+La "localización" de la cocina de los barrios de soldados tiene dos orígenes: uno es este intercambio, y otro es la adaptación forzada por la escasez de materiales. La pasta de soja de Gangshan se hacía con semillas de soja amarilla y chiles, mientras que la pasta de soja de Pidou en Sichuan solía usar más semillas de guisante. [^3] Las recetas de diferentes regiones, al entrar en contacto con los ingredientes de Taiwán, desarrollaron apariencias que no se pueden replicar en sus lugares de origen.
 
-## La sabiduría de cocina dentro de la valla de bambú
+## La sabiduría culinaria detrás de los barrotes de bambú
 
-El espacio vital en las aldeas era estrecho; una familia de varias personas se apiñaba en unos 40-50 m², y la cocina a menudo tenía solo un fogón. Bajo tales limitaciones, las madres de las aldeas desarrollaron formas únicas de cocinar.
+El espacio de vida en los barrios de soldados era estrecho. Tomemos como ejemplo el barrio de Zhongzhen en Taoyuan, donde la casa promedio tenía menos de 10 ping por familia, y el espacio cubierto disponible era de aproximadamente 4.5 a 5 ping. [^4] En condiciones tan limitadas, las madres de los barrios de soldados desarrollaron formas únicas de cocinar.
 
-«Todo en una sola olla» es el principio básico de la cocina de aldeas. Al tener solo un fogón, todos los platos debían hacerse en la misma olla, o aprovechar el calor residual para cocinar en secuencia. Esta restricción fomentó la creatividad; muchos platos clásicos de aldeas nacieron bajo estas condiciones. La actitud de aprovecharlo todo también es central: los huesos para caldo, las hojas de verdura para saltear, el arroz sobrante para arroz frito; esta frugalidad engendró muchas preparaciones que hoy parecen bastante ingeniosas.
+El uso máximo de los ingredientes es el principio fundamental en la cocina de los barrios de soldados: los huesos se usan para hacer sopa, las hojas de verduras se saltean, y el arroz sobrante se convierte en arroz frito. Esta frugalidad dio lugar a muchas recetas ingeniosas que hoy en día parecen muy creativas.
 
-La «ayuda mutua vecinal» es otra característica de la cocina de aldeas. La vecina de Shandong compartía la receta del pan de cebolla, la tía de Sichuan de enfrente transmitía el secreto de la carne doble cocida; en la pequeña comunidad cercada por vallas de bambú, las técnicas culinarias de cada provincia fluían y se fusionaban naturalmente.
+La colaboración vecinal es otra característica destacada de la cocina de los barrios de soldados. Las vecinas de Shandong compartían sus trucos para hacer masas de cebolla, mientras que las de Sichuan enseñaban secretos para cocinar carne salteada. En los pequeños espacios rodeados por barrotes de bambú, las técnicas culinarias de diferentes regiones se compartían y fusionaban naturalmente.
 
-## El origen en aldeas militares de la sopa de fideos con carne de res estofada en salsa roja: Kaohsiung Gangshan y la pasta de judías picante Mingde
+## Barrio de soldados aéreos de Gangshan y fideos de carne de res al estilo sichuan
 
-Al hablar de cocina de aldeas militares, no se puede omitir la [sopa de fideos con carne de res](/es/food/beef-noodle-soup/). Aunque hoy se considera un plato nacional taiwanés, su origen se remonta efectivamente a la cultura de aldeas militares, concretamente a la **aldea militar de la fuerza aérea de Gangshan, Kaohsiung, en los años 50**.[^7]
+Al hablar de la cocina de los barrios de soldados, no se puede evitar mencionar los [fideos de carne de res](/es/food/beef-noodle-soup/). En Taiwán, los fideos de carne de res al estilo rojo se dividían aproximadamente en dos estilos: el estilo shandong se desarrolló en la región norte, y el más antiguo conocido se remonta al año 1951 con el "Liu Shandong Fideos de Carne de Res". El estilo sichuan se desarrolló en la región sur, y según el historiador gastronómico Yü Yàodòng, los fideos de carne de res al estilo sichuan en realidad tienen su origen en Taiwán, y **Gangshan en Kaohsiung es precisamente el lugar donde se encuentra el barrio de soldados aéreos**. [^3]
 
-El punto de partida es el suboficial de la fuerza aérea **Liu Mingde**. En 1948 llegó a Taiwán con las tropas, en 1950 se licenció y se estableció en la aldea de Gangshan. Para ganarse la vida, recordó la artesanía de pasta de judías picante aprendida durante las marchas militares, y con sus escasos ahorros compró ingredientes para elaborar la pasta de judías picante y la pasta dulce de harina de su tierra natal. La **«pasta de judías picante Mingde»** se convirtió en el condimento estrella dentro y fuera de la aldea de Gangshan, y proporcionó inadvertidamente la base de sabor clave para la sopa de fideos con carne de res estilo Sichuan taiwanesa.[^6]
+La pasta de soja picante de Gangshan, según el trabajador cultural Liu Tianfu, proviene del oficial aéreo Liu Mingde: llegó a Taiwán en 1948, se estableció en el barrio de soldados aéreos de Gangshan, y a partir de 1950 comenzó a vender su propia pasta de soja picante hecha a mano en el barrio, conocida como "pasta de soja Mingde". [^5]
 
-Militares de Sichuan y Hunan combinaron la pasta de judías picante Mingde de Gangshan, la carne de res local taiwanesa y las técnicas de fideos, ajustando lentamente un plato distinto del original de Sichuan pero con fuerte memoria de sabor chuan. **El primer local documentado de sopa de fideos con carne de res estilo Sichuan taiwanés fue «Gongyuan Zhujiao Mian / Niuroumian», abierto en 1962 en Gangshan, Kaohsiung**. Este momento es más de 10 años posterior al nacimiento del condimento (pasta Mingde), coherente con la lógica evolutiva de «primero el condimento, luego el plato de fideos».[^7]
+El "sichuan" en los fideos de carne de res al estilo sichuan se refiere al uso de la pasta de soja picante típica de Sichuan. Según Yü Yàodòng, este plato fue creado por veteranos que extrañaban el sabor de Sichuan, y se llamó "sichuan" porque su creador era de origen sichuan, aunque el plato en sí no existe en Sichuan. **La tienda de fideos de carne de res al estilo sichuan más antigua documentada es "Parque Cerdo Piquante / Fideos de Carne de Res" en Gangshan, Kaohsiung, fundada en 1962**, lo que es más de diez años después de que Liu Mingde comenzara a vender su pasta de soja. [^3]
 
-El caldo de la sopa de fideos de aldea es concentrado porque la carne era preciada. Las madres de las aldeas hervían los huesos de res largo tiempo para que el caldo se llenara de colágeno y aroma. Este caldo denso no solo aumentaba la saciedad, sino que volvía sabrosos unos fideos simples. Desde la cocina familiar de Gangshan hasta los posteriores locales de sopa de fideos con carne de res por toda la isla, la trayectoria de este plato atestigua la influencia de la cultura de aldeas y demuestra que el «estilo Sichuan taiwanés» es en realidad un producto mestizo _made in Taiwan_.
+La teoría de que el origen está en Gangshan no es una conclusión definitiva. En su libro "Sabores de Taiwán", Jiao Tong escribe que Yü Yàodòng afirmó en el primer número de la revista "Gastronomía" que los fideos de carne de res al estilo sichuan provienen del barrio de soldados aéreos de Gangshan, pero el autor expresa dudas: durante su adolescencia solía visitar el barrio de soldados aéreos de Gangshan, y recuerda las salsas de Mingde y Haha, pero no recuerda haber visto fideos de carne de res en aquella época. [^6] No importa dónde esté el origen, los "fideos de carne de res al estilo taiwanés-sichuan" son claramente un producto híbrido creado en Taiwán.
 
-## La fusión de las cocinas de cada provincia
+## Fusión de recetas de diferentes provincias
 
-El entorno especial de las aldeas propició una fusión culinaria sin precedentes. Familias de distintas provincias vivían vecinas, y las culturas gastronómicas de cada provincia evolucionaron naturalmente en el intercambio diario.
+El entorno único de los barrios de soldados facilitó una fusión culinaria sin precedentes. Familias de diferentes provincias vivían juntas, y las tradiciones gastronómicas de cada región se fusionaron naturalmente en el día a día.
 
-La generosidad de la cocina de Shandong encontró la delicadeza de la cocina de Jiangsu y Zhejiang, produciendo nuevas variaciones. Los panes de cebolla de Shandong tomaron prestada la técnica fina de Jiangnan; los xiaolongbao de Jiangnan absorbieron el sentido de porción de Shandong. El picante entumecedor de Sichuan y el picante aromático de Hunan también crearon nuevas combinaciones en las aldeas: al no conseguirse condimentos auténticos de Sichuan, los cocineros usaron chiles y especias locales taiwaneses para crear sustitutos, formando paradójicamente un sabor único de cocina chuan taiwanesa.
+La cocina shandong, con su estilo generoso, la cocina de Jiangsu, con su delicadeza, la cocina sichuan, con su picante, y la cocina de Hunan, con su sabor picante, convivían juntas en los barrios de soldados, compartiendo sabores en las mesas de cada familia.
 
-La ligereza de la cocina de Guangdong y el contundente de la cocina del norte hallaron punto de equilibrio en las aldeas. Muchos platos de aldeas muestran carácter de fusión norte-sur, conservando el sabor de origen y adaptándose al clima e ingredientes de Taiwán.
+La cocina cantonesa, ligera y suave, y la cocina del norte, densa y fuerte, también encontraron un punto de equilibrio en los barrios de soldados. Muchas recetas de los barrios de soldados reflejan esta fusión norte-sur, conservando los sabores tradicionales al mismo tiempo que se adaptan al clima y a los ingredientes de Taiwán.
 
-## Desarrollo, conservación y barrios de aldeas militares
+## Demolición de barrios de soldados, preservación y parques temáticos
 
-En 1996 se aprobó la Ley de Reconstrucción de Antiguas Aldeas Militares, y los terrenos de las aldeas comenzaron a convertirse en zonas de reconstrucción urbana o suelo público de vivienda, lo que aceleró la desaparición física de las antiguas aldeas. [^4] Sin embargo, algunas aldeas se conservaron gracias a las demandas de preservación cultural.
+En 1996, se promulgó y publicó la "Ley de Reforma de Barrios de Soldados Antiguos del Ejército Nacional", y los barrios de soldados antiguos fueron demolidos y reconstruidos uno tras otro, construyendo viviendas para trasladar a los residentes originales. La disposición final también incluía el propósito de "preservar la cultura de los barrios de soldados". [^7] Algunos barrios de soldados se conservaron debido a las demandas de preservación cultural.
 
-El barrio de Shihshihnan en Xinyi, Taipéi, es uno de los casos más emblemáticos de conservación de aldeas en Taiwán. El conjunto original de edificios se transformó en 2003 en el Museo Cultural de Aldeas Militares, convirtiéndose en el espacio donde se instalaron marcas gastronómicas como «Good Cho's», lo que permitió que la cocina de las aldeas se exhibiera en un nuevo contexto. Taoyuan es una de las ciudades con mayor concentración de aldeas; según un informe de 2018, de las 888 aldeas existentes en toda Taiwán, 86 se localizan en Taoyuan. El Ayuntamiento organizó una festividad cultural de aldeas cuya edición de 2018 incluyó una competición de comida. [^5] Cerca de la antigua muralla de la ciudad de la dinastía Qing en Zuoying, Kaohsiung, también se conservan varias aldeas inscritas en el registro.
+El barrio de Sisongnan en Xinyi, Taipéi, es un ejemplo. Según una investigación realizada por la Alianza para la Promoción del Patrimonio Histórico de Sisongnan, se construyó en 1948 y se considera el primer barrio de soldados construido por el gobierno en Taiwán, así como el primero en ser preservado. [^8] En 2003, se abrió al público como "Salón Cívico de Xinyi y Parque Cultural de Barrios de Soldados", y dentro del parque se encuentra un museo de artefactos de los barrios de soldados. [^9] La marca de alimentos "Good Queen" se estableció en 2011, utilizando productos locales de Taiwán para hacer bocadillos, dando nueva vida a las casas de los barrios de soldados. La tienda de Good Queen en Xinyi cerró el 23 de noviembre de 2025. [^12]
 
-Estos espacios conservados han proporcionado un punto de referencia físico para la transmisión de la cocina de las aldeas, y han permitido a las nuevas generaciones observar la forma concreta de esta historia migratoria más allá del sentido del gusto.
+Taoyuan es una de las ciudades con mayor concentración de barrios de soldados. Un informe de 2018 mencionaba que de los 888 barrios de soldados en toda Taiwán, 86 se encontraban en Taoyuan, y la edición de ese año del Festival Cultural de Barrios de Soldados organizado por el ayuntamiento incluyó concursos de comida. [^10] Los barrios de soldados navales en Zuoying, Kaohsiung, se distribuyen principalmente dentro y alrededor de la antigua ciudad de Zuoying, y los barrios de Mingde, Jianyi y Heyun fueron registrados como escenarios culturales de la ciudad de Kaohsiung en 2010. [^11]
 
-## Perspectiva bidireccional: visión nativa e identidad de la segunda generación de aldeas
+Estos espacios preservados permiten que la tradición culinaria de los barrios de soldados tenga un punto de referencia físico, y también permiten que las nuevas generaciones puedan ver la forma concreta de esta historia migratoria más allá del sabor.
 
-La cocina de aldeas ha sido narrada largamente como «madres de provincias exteriores transmitiendo el sabor de su tierra», pero esa es solo media historia. Desde la **perspectiva nativa**, las aldeas eran «extraños nuevos vecinos» aparecidos a finales de la época colonial japonesa y en la posguerra; comunidades rurales nativas que hablaban taiwanés, cultivaban la tierra y adoraban al dios de la tierra, de pronto vieron llegar familias de militares que hablaban mandarín y cocinaban platos con extrañas especias. La relación inicial no fue nada idílica: expropiación de tierras, barrera lingüística, brecha de estatus político crearon tensión estructural dentro y fuera de las vallas. La aceptación nativa de la cocina de aldeas se gestó tras décadas de convivencia cotidiana, como infiltración cultural.
+## Perspectivas bidireccionales: visión de provincias interiores y la identidad de la segunda generación
 
-La **evolución de la identidad de la segunda generación de aldeas** es otra dimensión subestimada. La «primera generación» llegada en 1949 solía tener mentalidad de residencia temporal con la consigna «recuperar el continente», y su nostalgia impregnaba la cocina de aldeas. Pero la segunda generación, nacida en los 60, creció hablando mandarín, comiendo cocina de aldeas taiwanesa, estudiando con compañeros nativos; la dicotomía «provincia exterior / nativa» se fue difuminando. Desde los 90, la tercera generación se identifica mayoritariamente como «taiwanesa»; para ellos la cocina de aldeas ya no es vehículo de nostalgia, sino sabor de su infancia. Este deslizamiento identitario ocurrió en sincronía con el proceso general de nativización de Taiwán.
+Durante mucho tiempo, la cocina de los barrios de soldados se ha contado principalmente desde la narrativa de "las madres de provincias exteriores que transmiten sabores caseros", pero esto solo es la mitad de la historia. Desde la perspectiva de **los residentes de provincias interiores**, los barrios de soldados eran "nuevos vecinos extraños" que aparecieron repentinamente después de la guerra. Las comunidades rurales de provincias interiores, que hablaban taiyu, cultivaban la tierra y adoraban a los dioses locales, ahora tenían nuevas familias que hablaban mandarín y cocinaban comidas exóticas con especias desconocidas. Las relaciones iniciales no eran un cuadro idealizado; la barrera del idioma y las diferencias de clase política crearon tensiones estructurales tanto dentro como fuera de los barrios de soldados. La aceptación de la cocina de los barrios de soldados por parte de las provincias interiores fue un proceso de infiltración cultural que tomó décadas de convivencia.
 
-Comprender la imagen completa de la cocina de aldeas requiere ver simultáneamente **la nostalgia de los militares migrados, el proceso de aceptación de la sociedad nativa, el aflojamiento de la identidad de la segunda generación** —tres capas narrativas—, y no un solo paradigma de «sabor de provincia exterior».
+**El cambio de identidad de la segunda generación de los barrios de soldados** también es una dimensión subestimada. La primera generación de los barrios de soldados, que migró en 1949, solía tener una mentalidad de "regresar a la patria continental", por lo que sentían un profundo apego emocional al sabor de sus comidas. Sin embargo, la segunda generación nacida a partir de la década de 1960, criada con mandarín, comiendo la cocina de los barrios de soldados y creciendo junto a compañeros de provincias interiores, comenzaron a cuestionar cada vez más las divisiones binarias de "provincias exteriores" y "provincias interiores". A partir de la década de 1990, la tercera generación de los barrios de soldados se identificaba más como "personas de Taiwán", y para ellos, la cocina de los barrios de soldados ya no era un portador de nostalgia. Estas recetas son simplemente sabores de su infancia. Este cambio de identidad coincide con el proceso general de localización de Taiwán.
 
-## La transmisión moderna de la cocina de aldeas
+Para comprender plenamente la imagen de la cocina de los barrios de soldados, es necesario considerar simultáneamente tres narrativas: **la nostalgia de los soldados que se mudaron a Taiwán, el proceso de aceptación por parte de la sociedad de provincias interiores, y el cambio de identidad de la segunda generación**, en lugar de limitarse a un solo modelo de "sabores de provincias exteriores".
 
-En el Taiwán actual, la física de las aldeas ha desaparecido en gran medida, pero la influencia de su cocina persiste. Muchos platos caseros taiwaneses llevan la sombra de la cocina de aldeas; estas preparaciones ya se han fusionado en la cultura gastronómica taiwanesa, volviéndose parte inseparable.
+## La herencia de la cocina de los barrios de soldados en la era moderna
 
-Una nueva generación de cocineros empieza a reinterpretar la cocina de aldeas, conservando su fondo tradicional mientras emplea técnicas e ingredientes modernos. Varios escritores gastronómicos taiwaneses han creado archivos textuales para la cocina de aldeas; el _Sabores de Taiwán_ de Jiao Tong (Er Yu Culture, 2009) es una obra representativa temprana, que preserva la memoria gustativa más allá de las recetas.[^3]
+Hoy en día, en Taiwán, la mayoría de los barrios de soldados han desaparecido físicamente, pero su influencia en la cocina sigue siendo evidente. Muchas recetas caseras de los taiwaneses llevan la huella de la cocina de los barrios de soldados. Estas recetas se han integrado profundamente en la cultura gastronómica de Taiwán y son ahora parte indispensable de ella.
 
-## Fuentes de imágenes
-
-- Pan de cebolla: Wikimedia Commons, [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
+Los nuevos cocineros comienzan a reinterpretar la cocina de los barrios de soldados, conservando las raíces tradicionales al mismo tiempo que aplican técnicas y ingredientes modernos. Los escritores gastronómicos de Taiwán también han documentado estos sabores en libros, como "Sabores de Taiwán" de Jiao Tong (Editorial Dos Peces, 2009), que incluye un capítulo sobre la controversia del origen de los fideos de carne de res al estilo sichuan en los barrios de soldados de Gangshan. [^6]
 
 ## Referencias
 
-[^1]: [Centro de Conservación Cultural de Viviendas Militares del Ministerio de Defensa](https://mvac.mnd.gov.tw/) — Contexto histórico de las viviendas militares y datos demográficos de la población migrante.
+[^1]: [11 de 1949 — informe especial de profundidad de ETtoday News Cloud](https://events.ettoday.net/depth-report/veteran/index.htm) — "En solo cinco años, cerca de 1.2 millones de soldados y civiles dejaron China continental".
 
-[^2]: [Revista de Taiwan <Cambios y conservación de la cultura alimentaria en las viviendas militares>](https://www.th.gov.tw/epaper/view2.php?Period=168&TBID=3) — Volumen 71, número 4 (2020), intercambio culinario entre taiwaneses y de fuera de Taiwan.
+[^2]: [Barrios de soldados — Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%9C%B7%E6%9D%91) — Entre 1945 y 1950, cerca de 2 millones de soldados y civiles se mudaron a Taiwán; el censo de 1956 registró más de 1.2 millones de residentes de provincias exteriores; según el censo de la Asociación de Mujeres en 1982, existían 879 barrios de soldados en toda Taiwán, con aproximadamente 467,316 personas, alrededor del 30% de la población de provincias exteriores vivía en barrios de soldados (otras estimaciones sugieren solo un sexto).
 
-[^3]: [Jiao Tong <El sabor de Taiwan> — Cultura de los dos peces](https://www.taaze.tw/usedBook.html?oid=11100873870) — Confirmación del origen de los fideos de carne de vaca en las viviendas militares y el proceso de localización del comino.
+[^3]: [Fideos de carne de res de Taiwán — Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E7%89%9B%E8%82%89%E9%BA%B5) — El estilo shandong se desarrolló en la región norte, con el más antiguo conocido remontándose a 1951 con "Liu Shandong Fideos de Carne de Res"; el estilo sichuan se desarrolló en la región sur, con el más antiguo conocido en 1962 con "Parque Cerdo Piquante / Fideos de Carne de Res" en Gangshan; la pasta de soja de Gangshan se hacía con semillas de soja amarilla y chiles, mientras que en Pidou se usaban más semillas de guisante; Yü Yàodòng investigó que los fideos de carne de res al estilo sichuan tienen origen en Taiwán.
 
-[^4]: [Base de datos nacionales de normativas: Reglamento de reforma de antiguas viviendas militares del ejército nacional](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0000002) — Confirmación de su aprobación en 1996, secuencia de la reorganización de tierras y la reforma.
+[^4]: [Barrio de Zhongzhen — Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%BF%A0%E8%B2%9E%E6%96%B0%E6%9D%91) — Construido en 1954 para los soldados de la Guarnición de Yunnan contra el comunismo; la casa promedio tenía menos de 10 ping por familia, con un espacio cubierto disponible de aproximadamente 4.5 a 5 ping.
 
-[^5]: [Nueva cabeza: ¡Vamos a la Fiesta Cultural de las Viviendas Militares de Taoyuan! Escucha a las madres de las viviendas militares contar anécdotas](https://newtalk.tw/news/view/2018-10-04/148037) — 04-10-2018, de las 888 viviendas militares en toda Taiwán, Taoyuan tiene 86, y la sede principal de la fiesta cultural tiene desfiles y concursos de comida.
+[^5]: [Libertad Times: "¡Es la salsa!" Hay una razón detrás del delicioso sabor de la pasta de soja de Gangshan](https://news.ltn.com.tw/news/life/breakingnews/2269537) — 1 de diciembre de 2017, el trabajador cultural Liu Tianfu mencionó que el oficial aéreo Liu Mingde llegó a Taiwán en 1948, se estableció en el barrio de soldados aéreos de Gangshan, y desde 1950 comenzó a vender su propia pasta de soja picante hecha a mano en el barrio, conocida como "pasta de soja Mingde".
 
-[^6]: [Libertad Times: Resulta que es 'salsa'! Hay una razón para que la salsa de soja fermentada de Gangshan sea sabrosa](https://news.ltn.com.tw/news/life/breakingnews/2269537) — Contexto completo de Liu Mingde, quien llegó a Taiwán en 1948 y se retiró en 1950, fabricando la salsa de soja fermentada Mingde en las viviendas militares de Gangshan.
+[^6]: [Sabores de Taiwán de Jiao Tong — Books.com.tw](https://www.books.com.tw/products/0010457702) — Publicado por Editorial Dos Peces el 31 de diciembre de 2009, ISBN 9789866490262; el capítulo "Fideos de carne de res al estilo sichuan" menciona la teoría de Yü Yàodòng sobre el origen en el barrio de soldados aéreos de Gangshan, así como las dudas del propio autor.
 
-[^7]: [Fideos de carne de vaca — Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%8F%B0%E7%81%A3%E7%89%9B%E8%82%89%E9%BA%B5) — El origen de los fideos de carne de vaca en Taiwán se remonta a las viviendas militares de la base aérea de Gangshan en Kaohsiung, y el primer registro documentado de fideos de pato en el parque data de 1962.
+[^7]: [Base de datos nacional de leyes: Ley de Reforma de Barrios de Soldados Antiguos del Ejército Nacional](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0140013) — Promulgada el 5 de febrero de 1996; el primer artículo establece el propósito de construir viviendas para albergar a los residentes originales y preservar la cultura de los barrios de soldados.
 
-## Lecturas adicionales
+[^8]: [Barrio de Sisongnan — Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%9B%9B%E5%9B%9B%E5%8D%97%E6%9D%91) — Según la investigación de la Alianza para la Promoción del Patrimonio Histórico de Sisongnan, se construyó en 1948 y se considera el primer barrio de soldados construido por el gobierno en Taiwán, así como el primero en ser preservado; fue registrado como edificio histórico en diciembre de 2003; Good Queen se estableció en 2011 y la tienda de Xinyi cerró el 23 de noviembre de 2025.
 
-- [Centro de Preservación Cultural de Aldeas Militares del Ministerio de Defensa](https://mvac.mnd.gov.tw/) — Plataforma integrada de información de preservación de aldeas a nivel nacional
-- [Banco Nacional de Memoria Cultural del Ministerio de Cultura — Especial aldeas militares](https://memory.culture.tw/) — Historia oral y colección de objetos de aldeas militares
+[^9]: [Salón Cívico de Xinyi, Ciudad de Taipéi — Sitio web oficial de Turismo de Taipéi](https://www.travel.taipei/en/attraction/details/553) — El ayuntamiento designó Sisongnan como el "Salón Cívico de Xinyi y Parque Cultural de Barrios de Soldados", en funcionamiento desde 2003, con un museo de artefactos de los barrios de soldados dentro del parque.
+
+[^10]: [Nueva cabeza: "¡Adentro del Festival Cultural de Barrios de Soldados de Taoyuan! Escucha a las madres de los barrios de soldados contar historias del pasado"](https://newtalk.tw/news/view/2018-10-04/148037) — 4 de octubre de 2018, de los 888 barrios de soldados en toda Taiwán, 86 se encuentran en Taoyuan, y el evento principal del festival incluyó desfiles y concursos de comida.
+
+[^11]: [Barrio de soldados navales de Zuoying — Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%B7%A6%E7%87%9F%E6%B5%B7%E8%BB%8D%E7%9C%B7%E6%9D%91) — Se administran 23 barrios de soldados, distribuidos principalmente dentro y alrededor de la antigua ciudad de Zuoying; los barrios de Mingde, Jianyi y Heyun fueron registrados como escenarios culturales de la ciudad de Kaohsiung en 2010.
+
+[^12]: [Recuerdos empacados de Sisongnan: "La tienda de Good Queen en Xinyi cierra sus puertas" — Noticias de UDN](https://travel.udn.com/travel/story/7205/9179143) — En 2025, la tienda de Good Queen en Xinyi ya había cerrado el 23 de noviembre, y antes de su cierre organizó un "Mercado de Tesoro de Sisongnan" de tres días.
+
+## Lecturas relacionadas
+
+- [Historia de los barrios de soldados de Taiwán](/history/台灣眷村歷史) — Desde los barrotes de bambú hasta la historia completa de la reforma de los barrios de soldados
+- [Memoria cultural nacional](https://tcmb.culture.tw/zh-tw) — Base de datos de memoria cultural local del Ministerio de Cultura, que recopila historias orales y artefactos
+
+```
+
+```
