@@ -1,109 +1,115 @@
 ---
-title: 'Pão e Panificação de Taiwan'
-description: 'Do título mundial de Wu Bao-chun à expansão internacional da 85°C, explore o encanto único do pão de estilo taiwanês'
+title: 'Pão e bolos em Taiwan'
+description: 'Do campeão mundial de Wu Bao-chun ao expandão internacional da 85°C, explorando o encanto único do pão taiwanês'
 date: 2026-03-19
 category: 'Food'
-tags: ['pão', 'panificação', 'Wu Bao-chun', 'pão taiwanês', '85°C']
+tags: ['pão', 'bolos', 'Wu Bao-chun', 'pão taiwanês', '85°C']
 subcategory: '烘焙與甜點'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 image: '/article-images/food/taiwanese-pineapple-cake.webp'
-imageAlt: 'Bolinho de abacaxi taiwanês (鳳梨酥)'
+imageAlt: 'Tartlet de abacaxi de Taiwan'
 imageCredit: 'Kwb / Wikimedia Commons'
 imageLicense: 'Public domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:TaiwanesePineappleCake.jpg'
 translatedFrom: 'Food/台灣麵包與烘焙.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:dc1169789f149357'
-sourceBodyHash: 'sha256:86fbaa53393cb1b7'
-translatedAt: '2026-09-09T19:34:16+08:00'
+sourceCommitSha: 'c08419525'
+sourceContentHash: 'sha256:a603b4a8bf5b1742'
+sourceBodyHash: 'sha256:05bf89cfacdb7f7b'
+translatedAt: '2026-10-10T03:02:07+08:00'
 ---
 
-# Pão e Panificação de Taiwan
+# Pão e bolos em Taiwan
 
-A cultura do pão de Taiwan apresenta uma fusão única entre Oriente e Ocidente. Desde as técnicas básicas introduzidas durante o período colonial japonês, passando pela influência americana do pós-guerra, até à tendência europeia dos últimos anos, a indústria de panificação de Taiwan trilhou o seu próprio caminho. Em 2010, [Wu Bao-chun](/pt/people/wu-bao-chun/) conquistou o título individual no Mondial du Pain (Campeonato Mundial do Pão) em Paris, França, estabelecendo a reputação da panificação de Taiwan no cenário internacional. [^1]
+A cultura do pão em Taiwan apresenta uma fusão única entre o Oriente e o Ocidente. Desde as técnicas básicas introduzidas durante o período de governo japonês, passando pelas influências americanas após a guerra, até a onda francesa recente, a indústria de bolos em Taiwan desenvolveu seu próprio caminho. Em 2010, [Wu Bao-chun](/pt/people/wu-bao-chun/) conquistou o título mundial de pão francês na competição organizada pela Lesaffre na França, estabelecendo a reputação da culinária taiwanesa no cenário internacional.[^1]
 
-## O Fenómeno Wu Bao-chun e o Caminho para o Título Mundial
+## O fenômeno Wu Bao-chun e o caminho para o título mundial
 
-Em março de 2010, no Mondial du Pain (Campeonato Mundial do Pão da Lesaffre) realizado no salão Europain em Paris, [Wu Bao-chun](/pt/people/wu-bao-chun/), natural de Pingtung, Taiwan, venceu a categoria individual com a sua obra "Vinho de Arroz com Aroma de Lichia" (elaborada com lichia, rosa e massa madre enzimática de vinho tinto da Destilaria de Puli), chocando o mundo inteiro. [^1] Este foi um marco na história da panificação de Taiwan. Importa notar que esta competição é o Mondial du Pain, e não a Coupe du Monde de la Boulangerie (esta última é uma competição por equipas).
+Em 2008, Wu Bao-chun, Cao Zhi-xiong e Wen Shih-cheng formaram a equipe de Taiwan que conquistou a medalha de prata na competição mundial de pão da Lesaffre em Paris. Em 2010, o evento adicionou uma categoria individual chamada "Masters de la Boulangerie", com elegibilidade baseada nas pontuações individuais mais altas dos dez primeiros colocados de 2008. Representando Pingtung Neipu, [Wu Bao-chun](/pt/people/wu-bao-chun/) conquistou o título de pão francês com "Mi Yun Li Xiang" (também conhecido como pão de lichia e rosa), marcando um marco na história da culinária taiwanesa.[^2] Esta vitória foi um marco histórico para a indústria de bolos em Taiwan.
 
-Por trás do sucesso de Wu Bao-chun há uma história comovente. Proveniente de uma família pobre, entrou como aprendiz numa padaria logo após concluir o ensino básico, começando pelas tarefas mais básicas de limpeza. Naquela época, ainda não existiam cursos de panificação no ensino superior, e a transmissão oral dos mestres era a única via de aprendizagem. Com a sua paixão pelo pão e esforço incansável, foi aperfeiçoando gradualmente a sua arte.
+O sucesso de Wu Bao-chun tem uma história tocante por trás. Com oito filhos na família, a mãe trabalhava como empregada doméstica e cultivava abacaxis para sustentar a família, sem ter condições de enviar os filhos à escola. Wu Bao-chun terminou o ensino fundamental, aos quinze anos, partiu sozinho para o norte e se tornou aprendiz em uma padaria em Taipei. Posteriormente, seu amigo Chen Fu-hsiao o apresentou ao fermento maduro e ensinou-o a usar frutas cristalizadas em conserva. Foi então que ele começou a ler dicionários e estudar livros de culinária japonesa e francesa.[^3]
 
-A criatividade do "Vinho de Arroz com Aroma de Lichia" nasceu de ingredientes locais de Taiwan: o doce aroma tropical da lichia, o perfume da rosa, combinados com a massa madre enzimática feita com vinho tinto da Destilaria de Puli, criando camadas de sabor sem precedentes. Esta abordagem de integrar elementos locais taiwaneses na panificação ocidental tornou-se uma das características do pão de estilo taiwanês.
+A inspiração para "Mi Yun Li Xiang" veio do famoso café de doces parisiense Ladurée, com seu macaron de lichia. A receita utilizou leite de arroz de Sanhsia em Pingtung, lichias cristalizados de Changhua e rosas orgânicas de Puli em Nantou.[^3] Essa prática de incorporar ingredientes locais de Taiwan na culinária ocidental tornou-se uma característica marcante do pão taiwanês.
 
-A vitória de Wu Bao-chun não foi o ponto final de Taiwan nesta competição. Wu Tzu-ching em 2015, Chen Yao-hsun em 2017 e Wang Peng-chieh em 2022 também venceram consecutivamente a categoria individual do Mondial du Pain, tornando Taiwan um dos países com mais títulos acumulados na história desta competição. [^2]
+Depois de Wu Bao-chun, os mestres de Taiwan continuaram a brilhar em competições internacionais. A competição mundial de pão (Mondial du Pain), realizada a cada dois anos, exige que cada equipe seja composta por um padeiro e um assistente: Wu Zi-jing conquistou o título de pão doce em 2011, a equipe de Taiwan venceu em 2015 e 2017, e em 2017 o competidor foi Chen Yao-hsuan.[^4][^5][^6] Wang Peng-jie, que foi orientado por Wu Bao-chun, conquistou o título de pão artístico na Feira Europeia do Pão (Europain) em 2018, e posteriormente tornou-se treinador da equipe taiwanesa na competição mundial de pão.[^7] Em 2022, o treinador Wu Wu-hsien levou Wu Zi-jing, Xu Shao-huan e Li Chung-wei à conquista histórica da primeira vitória da equipe de Taiwan na competição mundial de pão da Lesaffre.[^6]
 
-## A Estética Única do Pão Taiwanês
+## A estética única do pão taiwanês
 
-A cultura do pão de Taiwan funde múltiplos elementos, formando uma "estética taiwanesa" única. A maior característica desta estética é a "ausência de limites": qualquer ingrediente pode tornar-se recheio de pão, qualquer sabor vale a pena experimentar.
+A cultura do pão em Taiwan integra diversos elementos, formando uma estética única conhecida como "estética taiwanesa". A característica principal dessa estética é a "ausência de limites", onde qualquer ingrediente pode se tornar parte do pão e qualquer sabor merece ser experimentado.
 
-O pão de cebolinha é a inovação taiwanesa mais típica. Para os europeus, cebolinha e pão são uma combinação completamente incompatível, mas os taiwaneses criaram este clássico. O miolo do pão é fofo, a superfície coberta de cebolinha e maionese, a textura salgada-doce entrelaçada surpreende. Este espírito ousado de inovação é precisamente a essência do pão taiwanês.
+O pão com cebolinha é o exemplo mais típico dessa inovação taiwanesa. Para os europeus, a combinação de cebolinha e pão parece absurda, mas nas padarias de Taiwan é um clássico. A massa é leve e macia, coberta com cebolinha fresca e maionese, criando uma combinação de sabores salgados e doces que surpreende. Essa ousadia inovadora é a essência do pão taiwanês.
 
-O pão de flocos de carne (rou song) é outra obra representativa. Os flocos de carne, um acompanhamento tradicional taiwanês, combinados com pão ocidental, criam uma experiência de textura única. A camada externa de flocos de carne proporciona umami e mastigação, enquanto o interior do pão mantém maciez e doçura, formando um contraste interessante.
+O pão com carne moída (rousong) é outra criação emblemática. O rosuong, um acompanhamento tradicional taiwanês, combinado com pão ocidental cria uma experiência sensorial única. A crocância e o sabor suculento do rosuong externo contrastam com a maciez e doçura da massa interna, formando um contraste interessante.
 
-O pão de abacaxi (bolo de abacaxi) origina-se de Hong Kong e, ao ser introduzido em Taiwan, desenvolveu a sua própria versão. Embora se chame "pão de abacaxi", na verdade não contém abacaxi; o nome deve-se ao padrão da crosta assemelhar-se à casca do abacaxi. A versão taiwanesa costuma ser mais doce que a de Hong Kong, com crosta mais espessa, adequando-se à preferência taiwanesa por sabores doces.
+O pão com casca de abacaxi não contém abacaxi, e seu nome vem da textura crocante da superfície. Ele se assemelha ao pão com casca de abacaxi de Hong Kong e ao melon pan japonês, mas não há registros precisos sobre qual veio primeiro.
 
-## Pão Europeu vs Pão Taiwanês: Diálogo entre Duas Filosofias
+## Pão francês vs pão taiwanês: diálogo entre duas filosofias
 
-Nos últimos anos, o pão europeu gerou uma onda em Taiwan, com muitos padeiros a deslocarem-se a França para aprender técnicas tradicionais. Esta tendência europeia e o pão taiwanês tradicional formam um diálogo interessante.
+Nos últimos anos, o pão francês tem ganhado popularidade em Taiwan, com muitos padeiros viajando à França para aprender técnicas tradicionais. Essa onda francesa cria um diálogo interessante com o pão taiwanês tradicional.
 
-O pão europeu busca a "pureza". Usa fermento natural, fermentação longa, valoriza a qualidade da farinha e a temperatura da água. O produto final costuma ser crocante por fora e macio por dentro, textura densa, com acidez natural. Este pão requer degustação atenta, mastigação lenta para sentir o aroma adocicado da farinha.
+O pão francês busca a "pureza". Utiliza fermento natural, longos períodos de fermentação, preocupando-se com a qualidade da farinha e a temperatura da água. O produto final geralmente tem crocância externa e maciez interna, com textura firme e sabor ácido natural. Esse tipo de pão exige apreciação cuidadosa, mastigado lentamente para sentir o sabor suave da farinha.
 
-O pão taiwanês busca o "rico". Vários ingredientes, vários sabores, várias formas, o objetivo é dar ao consumidor a máxima satisfação. O miolo costuma ser mais macio, o teor de açúcar mais alto, adequado para consumo rápido. Esta diferença reflete compreensões culturais distintas sobre a alimentação.
+O pão taiwanês busca a "riqueza". Diversos ingredientes, sabores e formas são combinados para oferecer ao consumidor a maior satisfação possível. A massa geralmente é mais macia, com maior teor de açúcar, adequando-se a consumo rápido. Essa diferença reflete a compreensão cultural distinta sobre alimentação.
 
-Curiosamente, estes dois estilos em Taiwan não se excluem, antes se complementam. Muitas padarias vendem simultaneamente pão europeu e pão taiwanês, satisfazendo diferentes necessidades dos clientes. Alguns padeiros inovadores combinam mesmo as duas técnicas, criando a nova categoria de "pão europeu taiwanês".
+Interessantemente, esses dois estilos não se excluem em Taiwan, mas se complementam. Muitas padarias vendem simultaneamente pão francês e pão taiwanês, atendendo às necessidades de diferentes clientes. Alguns padeiros inovadores até combinam as duas técnicas, criando novas categorias como "pão taiwanês-francês".
 
-## A Lenda da Internacionalização da 85°C
+## A lenda internacional da 85°C
 
-Se Wu Bao-chun representa a altura técnica da panificação de Taiwan, a 85°C simboliza o seu feito comercial. Esta marca, fundada em 2003, evoluiu de uma cafetaria local taiwanesa para uma empresa de cadeia internacional: entrou no mercado chinês em 2008 e expandiu-se para os Estados Unidos em 2016. [^3]
+Se Wu Bao-chun representa o ápice técnico da culinária taiwanesa, a 85°C simboliza seu sucesso comercial. O fundador Wu Zheng-xue teve a ideia em 2003 ao experimentar doces em um café de hotel cinco estrelas, e em 2004 abriu a primeira loja em Taipei County. A marca evoluiu de uma cafeteria local para uma rede internacional: a primeira loja no exterior foi aberta na Austrália em 2006, seguida por Shanghai em 2007, e a primeira loja nos Estados Unidos foi inaugurada em Irvine, Califórnia, em 2008.[^8]
 
-O segredo do sucesso da 85°C reside no posicionamento de "luxo acessível". Oferecem bolos e pães de nível de hotel cinco estrelas, mas a preços de cafetaria comum. Esta estratégia captou com precisão a psicologia do consumidor, permitindo que pessoas comuns desfrutem de produtos de panificação refinados.
+O segredo do sucesso da 85°C está na posição de "luxo acessível". Eles oferecem doces e pães de nível de hotel cinco estrelas, mas aos preços de uma cafeteria comum. Essa estratégia atingiu precisamente a psicologia do consumidor, permitindo que pessoas comuns desfrutem de produtos de bolos sofisticados.
 
-O processo de internacionalização não foi fácil. No mercado chinês, a 85°C enfrentou forte concorrência local; no mercado americano, precisou adaptar-se a diferentes hábitos de consumo. Mas através de contínuos ajustes no mix de produtos e no modelo operacional, a 85°C firmou-se gradualmente no exterior.
+O processo de internacionalização enfrentou desafios. No mercado chinês, a 85°C enfrentou forte competição local; nos Estados Unidos, precisou se adaptar a hábitos de consumo diferentes. No entanto, por meio de ajustes contínuos na combinação de produtos e modelos operacionais, a 85°C consolidou sua presença no exterior.
 
-O sucesso internacional da 85°C também prova a competitividade global da panificação taiwanesa. Embora as técnicas tenham origem na Europa, América e Japão, após inovação e aperfeiçoamento em Taiwan, desenvolveu-se um estilo e vantagens únicos. Esta exportação de poder suave é mais convincente que qualquer promoção oficial.
+O sucesso internacional da 85°C também prova a competitividade global da culinária taiwanesa. Embora as técnicas sejam originárias da Europa, América e Japão, após a inovação e aprimoramento em Taiwan, desenvolveu-se um estilo único e vantajoso. Essa exportação de "poder blando" é mais convincente que qualquer propaganda oficial.
 
-## Educação em Panificação e Transmissão de Competências
+## Educação em bolos e transmissão de habilidades
 
-O desenvolvimento da indústria de panificação de Taiwan é inseparável do apoio do sistema educativo. Desde o antigo sistema de mestrado-aprendiz até às atuais escolas técnicas vocacionais, a educação em panificação passou por grandes transformações.
+O desenvolvimento da indústria de bolos em Taiwan depende do apoio do sistema educacional. Desde a tradição de mestres e aprendizes até as escolas técnicas atuais, a educação em bolos passou por transformações significativas.
 
-Os cursos de panificação das escolas técnicas formaram grande quantidade de talentos para a indústria. Os alunos não só aprendem técnicas básicas, como também ciência dos alimentos, nutrição, controlo de custos e outros conhecimentos profissionais. Esta educação sistematizada elevou o nível profissional de todo o setor.
+As departamentos de bolos nas escolas técnicas formaram grande número de profissionais para a indústria. Os alunos não apenas aprendem técnicas básicas, mas também compreendem ciência alimentar, nutrição e controle de custos. Essa educação sistemática elevou o nível profissional de toda a indústria.
 
-As diversas competições de panificação também desempenharam papel importante. Desde concursos escolares até campeonatos internacionais, estas competições não são apenas plataformas de intercâmbio técnico, mas também berços de talentos. Muitos padeiros conhecidos destacaram-se através de competições.
+Diversos concursos de bolos também desempenham papel importante. Desde competições internas até eventos internacionais, esses concursos não apenas servem como plataformas de troca de técnicas, mas também como berçários de talentos. Muitos padeiros famosos começaram suas carreiras através de competições.
 
-Nos últimos anos, a educação em panificação também caminha para a diversificação. Além da formação técnica tradicional, adicionaram-se cursos de gestão de empreendedorismo, segurança alimentar, certificações internacionais, etc. Este modelo de formação abrangente torna os talentos de panificação de Taiwan mais competitivos no mercado internacional.
+Nos últimos anos, a educação em bolos tem se tornado mais diversificada. Além da formação técnica tradicional, foram adicionados cursos de gestão empreendedora, segurança alimentar e certificações internacionais. Esse modelo abrangente de formação torna os profissionais taiwaneses mais competitivos no mercado internacional.
 
-## Desafios de Segurança Alimentar e Transformação Industrial
+## Desafios de segurança alimentar e transformação da indústria
 
-A segurança alimentar é o maior desafio enfrentado pela indústria de panificação. Desde o escândalo dos plastificantes até às controvérsias sobre aditivos aromáticos, cada incidente de segurança alimentar causa grande impacto na indústria. Os consumidores exigem cada vez mais segurança alimentar, obrigando as empresas a estabelecer sistemas mais rigorosos de controlo de qualidade.
+A segurança alimentar é o maior desafio enfrentado pela indústria de bolos. Desde a crise dos plastificantes até as controvérsias sobre aditivos de sabor, cada incidente de segurança alimentar causa impactos significativos na indústria. Os consumidores exigem cada vez mais padrões rigorosos de segurança, e as empresas precisam estabelecer sistemas de controle de qualidade mais estritos.
 
-Muitas empresas adotam estratégias de "transparência", divulgando a origem dos ingredientes e o processo de fabrico. Algumas padarias instalam até cozinhas abertas, permitindo que os consumidores observem diretamente a produção. Embora aumente custos, também eleva a confiança do consumidor.
+Muitas empresas começaram a adotar estratégias de transparência, divulgando a origem dos ingredientes e os processos de fabricação. Algumas padarias até instalaram cozinhas abertas, permitindo que os consumidores observem diretamente o processo de fabricação. Embora essa prática aumente os custos, também melhora a confiança do consumidor.
 
-O aumento da consciência sobre saúde também impulsiona a transformação industrial. Pães com conceitos de saúde como baixo açúcar, baixo óleo, grãos integrais começam a ganhar popularidade. Embora a textura possa não igualar a do pão tradicional, satisfazem as necessidades dos consumidores preocupados com saúde.
+O aumento da consciência sobre saúde também impulsionou a transformação da indústia. Pães com baixo teor de açúcar, baixo teor de óleo e grãos integrais começaram a ser bem recebidos. Embora o sabor possa não ser tão agradável quanto os pães tradicionais, atendem às necessidades de consumidores com preferências saudáveis.
 
-A inovação tecnológica é outra tendência importante. Equipamentos automatizados aumentam a eficiência produtiva, tecnologia de congelação prolonga a validade, novos métodos de panificação criam mais possibilidades. Estas inovações não só melhoram a qualidade dos produtos, como também reduzem custos de mão de obra.
+A inovação tecnológica é outra tendência importante. Equipamentos automatizados melhoram a eficiência produtiva, tecnologia de congelamento prolonga o período de validade, e novos métodos de fabricação criam mais possibilidades. Essas inovações não apenas melhoram a qualidade dos produtos, mas também reduzem os custos de mão de obra.
 
-A trajetória de desenvolvimento do pão e da indústria de panificação de Taiwan é clara: desde a primeira vitória de Wu Bao-chun em 2010, passando pelos três títulos consecutivos no Mondial du Pain em 2015, 2017 e 2022, até à expansão da 85°C pelos mercados europeu, americano e asiático, a competitividade internacional da indústria de panificação de Taiwan já tem provas concretas, não sendo apenas uma atualização técnica, mas uma evolução completa da ponta da produção à ponta da marca. [^4]
+A trajetória de desenvolvimento da indústria de pão e bolos em Taiwan é clara: a vitória de Wu Bao-chun no campeonato de mestres em 2010, as vitórias consecutivas da equipe de Taiwan nos campeonatos mundiais de pão em 2015 e 2017, a conquista histórica da vitória por equipes na competição mundial de pão da Lesaffre em 2022, combinada com a expansão da 85°C de Taiwan para a China, Austrália e Estados Unidos, demonstra que a indústria de bolos taiwanesa acumulou competitividade internacional, desde a produção até a marca.
 
-## Fontes das Imagens
+## Fontes das imagens
 
-- Imagem principal: Bolo de abacaxi de Taiwan, fotografia de Kwb, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:TaiwanesePineappleCake.jpg), Domínio público.
+- Hero：Tartlet de abacaxi de Taiwan，fotografia Kwb，[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:TaiwanesePineappleCake.jpg)，Public domain。
 
 ## Referências
 
-[^1]: [Site oficial da Padaria Wu Bao-chun](https://www.wu-pao-chun.com/) — Apresentação da obra "Vinho de Arroz com Aroma de Lichia" e percurso da vitória no Mondial du Pain 2010.
+[^1]: [Taiwan: The winner of the Masters de la Boulangerie 2010 is…（Global Voices，2010-04-09）](https://globalvoices.org/2010/04/09/taiwan-the-winner-of-the-masters-de-la-boulangerie-2010-is/) — Wu Bao-chun conquistou o título mundial de mestres de pão da Lesaffre em 2010, incluindo trechos de blog de seu amigo registrando o processo de desenvolvimento do pão de lichia e rosa.
 
-[^2]: [Site oficial do Mondial du Pain](https://www.mondialdupain.com/) — Lista de campeões individuais das edições anteriores, incluindo o registo de quatro vitórias de atletas taiwaneses em 2010/2015/2017/2022.
+[^2]: [Wu Bao-chun（Wikipedia）](https://zh.wikipedia.org/zh-tw/%E5%90%B3%E5%AF%B6%E6%98%A5) — Elegibilidade para a medalha de prata por equipes em 2008, título de mestre em 2010 e pão francês, origem dos ingredientes do pão "Mi Yun Li Xiang".
 
-[^3]: [Relações com Investidores da 85°C](https://www.85cafe.com/) — História da marca 85°C e dados de expansão internacional.
+[^3]: [A história completa do campeão de pão Wu Bao-chun（Mirror Weekly，2016-11-09）](https://www.mirrormedia.mg/story/20161108fin006) — Wu Bao-chun terminou o ensino fundamental, aos quinze anos se tornou aprendiz em Taipei, o encontro com Chen Fu-hsiao, inspiração e ingredientes do pão "Mi Yun Li Xiang", primeira loja de Wu Mufang aberta em Kaohsiung em novembro de 2010.
 
-[^4]: [Instituto de Investigação Tecnológica da Indústria de Cereais e Alimentos da China](https://www.cgprdi.org.tw/) — Instituição de investigação tecnológica da indústria de panificação de Taiwan, inclui formação para competições e assistência técnica.
+[^4]: [Sem chance de tricampeonato equipe taiwanesa de pão conquistou medalha de prata（Public Television Service News，2019-10-23）](https://news.pts.org.tw/article/451506) — O campeonato mundial de pão é realizado a cada dois anos, a equipe de Taiwan conquistou o título em 2015 e 2017, e em 2019, sob o treinamento de Wang Peng-jie, conquistou a medalha de prata.
 
-[^5]: [Federação Nacional das Associações Comerciais de Panificação da República da China](https://www.twbakery.org.tw/) — Associação da indústria de panificação, inclui estatísticas do setor e informações de competições internacionais.
+[^5]: [Obrigado ao campeão mundial Chen Yao-hsuan a era do pão taiwanês voltou（Mirror Weekly，2019-05-13）](https://www.mirrormedia.mg/story/20190513food001) — Chen Yao-hsuan foi campeão mundial de pão em 2017, com a obra vencedora "Mi Xiang Xu Yu".
 
-## Leitura Complementar
+[^6]: [Eles eram antigos medalhistas de pão reunidos para conquistar a primeira vitória histórica da equipe de Taiwan na competição mundial de pão da Lesaffre por equipes（Mirror Weekly，2022-04-28）](https://www.mirrormedia.mg/story/20220428bus001) — Em março de 2022, a equipe de Taiwan conquistou pela primeira vez o título por equipes na competição mundial de pão da Lesaffre, com o treinador Wu Wu-hsien levando Wu Zi-jing, Xu Shao-huan e Li Chung-wei; Wu Zi-jing havia conquistado o título de pão doce no campeonato mundial de pão em 2011.
 
-- [Padaria Wu Bao-chun](https://www.wu-pao-chun.com/) — Loja principal de Wu Bao-chun em Tainan, inclui itens de pão premiados
-- [Instituto de Investigação Tecnológica da Indústria de Cereais e Alimentos da China](https://www.cgprdi.org.tw/) — Instituição de investigação tecnológica da indústria de panificação
+[^7]: [Apoio nacional os jogadores taiwaneses no campeonato mundial de pão não estão mais solitários（Sanlii News Network，2019-10-22）](https://www.setn.com/news/622274) — Wang Peng-jie conquistou o título de "pão artístico" na Feira Europeia do Pão em 2018, e em 2019 tornou-se treinador da equipe de Taiwan no campeonato mundial de pão, com os competidores sendo You Dong-yun e seu assistente Xu Yi-chen.
+
+[^8]: [How It All Started（85°C Bakery Cafe）](https://www.85cbakerycafe.com/about) — História da marca 85°C: inspiração do fundador em 2003, primeira loja em Taipei County em 2004, Austrália em 2006, Shanghai em 2007, primeira loja nos Estados Unidos em Irvine em 2008.
+
+## Leituras recomendadas
+
+- [Site oficial da padaria de Wu Mufang](https://www.wupaochun.com/) — Primeira loja de Wu Mufang aberta em Kaohsiung em 2010
+- [Instituto de Pesquisa Técnica de Alimentos de Grãos da China](https://www.cgprdi.org.tw/) — Instituição de pesquisa técnica da indústria de bolos
