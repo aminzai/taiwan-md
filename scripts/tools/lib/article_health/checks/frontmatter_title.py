@@ -162,6 +162,19 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
         # Surface max-match suggestions for advanced review / --fix path.
         sugg_txt = ""
         fix_sugg = None
+        # SSOT 收了這個分類沒有？收了才該把投稿者指去那份檔案查。
+        # 2026-10-09：`SUBCATEGORY.md` 沒有 Politics 這一節（About 同），於是
+        # `allowed_subcategories('Politics')` 回空陣列，而本訊息照樣叫人去對那份
+        # 檔案——投稿者照著做是查不到答案的（PR #1802 實例）。訊息錯不是閘門錯：
+        # 這格仍然該擋，只是指示要指向一個回答得出問題的地方。
+        # 嚴重度與擋不擋完全不變，只改措辭。
+        ssot_has_category = True
+        try:
+            from ..taxonomy_subcat import allowed_subcategories
+
+            ssot_has_category = bool(allowed_subcategories(target.category or ""))
+        except Exception:
+            pass
         try:
             from ..taxonomy_subcat import pick_auto_subcategory, suggest_subcategory
 
@@ -206,10 +219,20 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
             severity=Severity.HARD,
             message=(
                 f"frontmatter 缺 'subcategory' 欄位"
-                f" — {target.category} 類文章必須對應 docs/taxonomy/SUBCATEGORY.md 子分類"
-                f"{sugg_txt}"
+                + (
+                    f" — {target.category} 類文章必須對應 docs/taxonomy/SUBCATEGORY.md 子分類"
+                    if ssot_has_category
+                    else (
+                        f" — docs/taxonomy/SUBCATEGORY.md 尚未收錄 {target.category} 這個分類，"
+                        f"請沿用同分類既有文章的值："
+                        f"grep -h '^subcategory:' knowledge/{target.category}/*.md | sort | uniq -c | sort -rn"
+                    )
+                )
+                + f"{sugg_txt}"
             ),
             snippet=str(sub) if sub is not None else "(missing)",
             fix_suggestion=fix_sugg,
-            editorial_ref="docs/taxonomy/SUBCATEGORY.md",
+            editorial_ref=(
+                "docs/taxonomy/SUBCATEGORY.md" if ssot_has_category else None
+            ),
         )
