@@ -225,3 +225,8 @@
 /en/culture/golden-age-echoes-taiwan-tea-culture /en/food/golden-age-echoes-taiwan-tea-culture 301
 /en/culture/urban-character-and-regional-culture /en/geography/urban-character-and-regional-culture 301
 /en/society/taiwan-urban-development-and-rural-urban-divide /en/geography/taiwan-urban-development-and-rural-urban-divide 301
+
+# 2026-10-09 twmd-maintainer-daily：〈楊德昌〉德文有兩份譯本，兩個網址都活著（實測各回 200）。
+# 保留 /de/people/yang-dechang：那是 en 與其餘十二語共用的 slug，而且實測 0 行裸 CJK 殘留
+# （另一份 [^11] 的「500輯」沒譯出）。退役的那個路徑從 2026-09-09 起就在線上，所以補 301。
+/de/people/edward-yang /de/people/yang-dechang 301
