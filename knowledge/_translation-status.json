@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-10T03:17:48+08:00",
-    "zhCommitHead": "caadd42aa",
+    "lastUpdated": "2026-10-10T04:56:00+08:00",
+    "zhCommitHead": "952417936",
     "totalZh": 1125,
     "activeLanguages": [
       "en",
@@ -60,16 +60,16 @@
       },
       "vi": {
         "total_zh": 1125,
-        "fresh": 1125,
+        "fresh": 1124,
         "stale": 0,
-        "metadata_stale": 0,
+        "metadata_stale": 1,
         "missing": 0,
         "orphan": 0
       },
       "id": {
         "total_zh": 1125,
-        "fresh": 1124,
-        "stale": 1,
+        "fresh": 1123,
+        "stale": 2,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -84,8 +84,8 @@
       },
       "hi": {
         "total_zh": 1125,
-        "fresh": 1125,
-        "stale": 0,
+        "fresh": 1124,
+        "stale": 1,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -109,8 +109,8 @@
       "de": {
         "total_zh": 1125,
         "fresh": 1124,
-        "stale": 1,
-        "metadata_stale": 0,
+        "stale": 0,
+        "metadata_stale": 1,
         "missing": 0,
         "orphan": 0
       }
@@ -167684,8 +167684,8 @@
           "sourceContentHash": "sha256:a603b4a8bf5b1742",
           "sourceBodyHash": "sha256:05bf89cfacdb7f7b",
           "translatedAt": "2026-10-10T03:02:07+08:00",
-          "translationLastCommit": "389c169b",
-          "translationLastModified": "2026-09-09T15:55:38+08:00",
+          "translationLastCommit": "1fdaea31",
+          "translationLastModified": "2026-10-10T03:17:48+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "bytes": 18400,
@@ -167744,18 +167744,18 @@
         "ar": {
           "path": "ar/Food/taiwan-bread-and-baking.md",
           "translatedFrom": "Food/台灣麵包與烘焙.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:dc1169789f149357",
-          "sourceBodyHash": "sha256:86fbaa53393cb1b7",
-          "translatedAt": "2026-09-25T10:23:45+08:00",
+          "sourceCommitSha": "c08419525",
+          "sourceContentHash": "sha256:a603b4a8bf5b1742",
+          "sourceBodyHash": "sha256:05bf89cfacdb7f7b",
+          "translatedAt": "2026-10-10T03:18:13+08:00",
           "translationLastCommit": "4894cc1d",
           "translationLastModified": "2026-09-25T11:26:29+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "bytes": 17089,
+          "footnoteDefs": 8,
+          "bytes": 20244,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (8→5)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Food/taiwan-bread-and-baking.md",
@@ -167776,18 +167776,18 @@
         "de": {
           "path": "de/Food/taiwan-bread-and-baking.md",
           "translatedFrom": "Food/台灣麵包與烘焙.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:dc1169789f149357",
-          "sourceBodyHash": "sha256:86fbaa53393cb1b7",
-          "translatedAt": "2026-09-23T21:59:29+08:00",
+          "sourceCommitSha": "c08419525",
+          "sourceContentHash": "sha256:a603b4a8bf5b1742",
+          "sourceBodyHash": "sha256:05bf89cfacdb7f7b",
+          "translatedAt": "2026-10-10T03:44:32+08:00",
           "translationLastCommit": "34ada411",
           "translationLastModified": "2026-09-23T22:07:20+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "bytes": 12289,
+          "footnoteDefs": 8,
+          "bytes": 14806,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (8→5)"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -197689,24 +197689,24 @@
     },
     "Geography/高雄市.md": {
       "zh": {
-        "lastCommit": "e974b4c9",
-        "lastModified": "2026-09-05T21:34:09+08:00",
-        "contentHash": "sha256:5de62c87bd2f7bf1",
+        "lastCommit": "14d341be",
+        "lastModified": "2026-10-10T03:00:21+08:00",
+        "contentHash": "sha256:fc56bc9d7fe842c2",
         "bodyHash": "sha256:d9c17350b5714f5f"
       },
       "translations": {
         "en": {
           "path": "en/Geography/kaohsiung-city.md",
           "translatedFrom": "Geography/高雄市.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:5de62c87bd2f7bf1",
+          "sourceCommitSha": "14d341be5",
+          "sourceContentHash": "sha256:fc56bc9d7fe842c2",
           "sourceBodyHash": "sha256:d9c17350b5714f5f",
-          "translatedAt": "2026-09-27T16:25:14+08:00",
+          "translatedAt": "2026-10-09T19:18:21.976382+00:00",
           "translationLastCommit": "45d07cf4",
           "translationLastModified": "2026-09-27T16:58:59+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "bytes": 68059,
+          "bytes": 67233,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -197714,15 +197714,15 @@
         "ja": {
           "path": "ja/Geography/kaohsiung-city.md",
           "translatedFrom": "Geography/高雄市.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:981f398813aadaf3",
-          "sourceBodyHash": "",
-          "translatedAt": "2026-09-26T13:22:03.180393+00:00",
+          "sourceCommitSha": "14d341be5",
+          "sourceContentHash": "sha256:fc56bc9d7fe842c2",
+          "sourceBodyHash": "sha256:d9c17350b5714f5f",
+          "translatedAt": "2026-10-09T19:18:30.077286+00:00",
           "translationLastCommit": "7ff17f16",
           "translationLastModified": "2026-09-26T23:04:15+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "bytes": 68187,
+          "bytes": 70437,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -197730,15 +197730,15 @@
         "ko": {
           "path": "ko/Geography/kaohsiung-city.md",
           "translatedFrom": "Geography/高雄市.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:981f398813aadaf3",
-          "sourceBodyHash": "",
-          "translatedAt": "2026-09-21T01:06:52.191436+00:00",
+          "sourceCommitSha": "14d341be5",
+          "sourceContentHash": "sha256:fc56bc9d7fe842c2",
+          "sourceBodyHash": "sha256:d9c17350b5714f5f",
+          "translatedAt": "2026-10-09T19:18:48.494016+00:00",
           "translationLastCommit": "4a63e1c6",
           "translationLastModified": "2026-09-21T10:46:31+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "bytes": 66026,
+          "bytes": 66042,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -197746,15 +197746,15 @@
         "es": {
           "path": "es/Geography/kaohsiung-city.md",
           "translatedFrom": "Geography/高雄市.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:5de62c87bd2f7bf1",
+          "sourceCommitSha": "14d341be5",
+          "sourceContentHash": "sha256:fc56bc9d7fe842c2",
           "sourceBodyHash": "sha256:d9c17350b5714f5f",
-          "translatedAt": "2026-09-08T16:44:04.913633+00:00",
+          "translatedAt": "2026-10-09T19:20:00.331181+00:00",
           "translationLastCommit": "dc095616",
           "translationLastModified": "2026-10-10T01:04:55+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "bytes": 75314,
+          "bytes": 74377,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -197762,15 +197762,15 @@
         "fr": {
           "path": "fr/Geography/kaohsiung-city.md",
           "translatedFrom": "Geography/高雄市.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:5de62c87bd2f7bf1",
+          "sourceCommitSha": "14d341be5",
+          "sourceContentHash": "sha256:fc56bc9d7fe842c2",
           "sourceBodyHash": "sha256:d9c17350b5714f5f",
-          "translatedAt": "2026-09-08T19:18:35.914112+00:00",
+          "translatedAt": "2026-10-09T19:18:23.252149+00:00",
           "translationLastCommit": "127cde75",
           "translationLastModified": "2026-09-09T03:19:00+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "bytes": 74810,
+          "bytes": 77432,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -197788,8 +197788,10 @@
           "footnoteDefs": 33,
           "bytes": 76796,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -6"
         },
         "id": {
           "path": "id/Geography/kaohsiung-city.md",
@@ -197804,21 +197806,23 @@
           "footnoteDefs": 33,
           "bytes": 67214,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "zh-moved-forward",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -6"
         },
         "pt": {
           "path": "pt/Geography/kaohsiung-city.md",
           "translatedFrom": "Geography/高雄市.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:5de62c87bd2f7bf1",
+          "sourceCommitSha": "14d341be5",
+          "sourceContentHash": "sha256:fc56bc9d7fe842c2",
           "sourceBodyHash": "sha256:d9c17350b5714f5f",
-          "translatedAt": "2026-09-08T00:33:25.735908+00:00",
+          "translatedAt": "2026-10-09T19:39:42.221514+00:00",
           "translationLastCommit": "dc095616",
           "translationLastModified": "2026-10-10T01:04:55+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "bytes": 66037,
+          "bytes": 70073,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -197836,8 +197840,10 @@
           "footnoteDefs": 33,
           "bytes": 143762,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "zh-moved-forward",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -6"
         },
         "ar": {
           "path": "ar/Geography/kaohsiung-city.md",
@@ -197852,21 +197858,23 @@
           "footnoteDefs": 33,
           "bytes": 96926,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "zh-moved-forward",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -6"
         },
         "ru": {
           "path": "ru/Geography/kaohsiung-city.md",
           "translatedFrom": "Geography/高雄市.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:5de62c87bd2f7bf1",
+          "sourceCommitSha": "14d341be5",
+          "sourceContentHash": "sha256:fc56bc9d7fe842c2",
           "sourceBodyHash": "sha256:d9c17350b5714f5f",
-          "translatedAt": "2026-09-08T00:26:21.498117+00:00",
+          "translatedAt": "2026-10-09T20:12:43.623954+00:00",
           "translationLastCommit": "1b8aca28",
           "translationLastModified": "2026-09-08T09:50:51+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "bytes": 97785,
+          "bytes": 112549,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -197884,8 +197892,10 @@
           "footnoteDefs": 33,
           "bytes": 73194,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -6"
         }
       }
     },

@@ -34,9 +34,10 @@ imageCredit: 'hngyue photography / Wikimedia Commons'
 imageLicense: 'CC BY-SA 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Night_skyline_of_Kaohsiung,_Taiwan_20140603.jpg'
 translatedFrom: 'Geography/高雄市.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:981f398813aadaf3'
-translatedAt: '2026-09-21T01:06:52.191436+00:00'
+sourceCommitSha: '14d341be5'
+sourceContentHash: 'sha256:fc56bc9d7fe842c2'
+sourceBodyHash: 'sha256:d9c17350b5714f5f'
+translatedAt: '2026-10-09T19:18:48.494016+00:00'
 ---
 
 # 가오슝시: 1979년 직할시 승격, 그해 타이베이 감옥에 갇힌 여덟 명의 가오슝 사람들
@@ -294,17 +295,16 @@ _웨이우잉 국가예술문화센터. 사진: Wikimedia Commons 기여자, [CC
 
 ## 심화 읽기
 
-- [가오슝시](/ko/geography/keelung-city) — 22 현시 시리즈 파일럿: 1969년 가오슝을 추월한 항구, 가오슝과 대비하며 '타이완 경제 중심의 남북 전도' 양 끝을 보기
-- [핑둥현](/ko/geography/pingtung-county) — 22 현시 시리즈 인접 현: 1874년 모단사 사건, 객가 육퇴(左堆)와 가오슝 '우퇴(右堆)'의 공생, 2009년 88 풍재로 임진과 가오슝 산악 지대가 동시에 침수됨
-- [타이베이시](/ko/geography/taipei-city) — 1967년 승격한 첫 직할시, 가오슝의 1979년 승격보다 12년 빠름; 1980년 린착 혈안 사건은 타이베이시 신의로에서 발생함
-- [228사건](/ko/history/228-incident) — 1947년 3월 6일 가오슝 요새 사령관 펑멍지(彭孟緝)가 진압을 명령한, 웅중 수비전
-- [메이리다마 사건](/ko/history/kaohsiung-incident-formosa-incident) — 1979년 12월 10일 다항푸 원환, 계엄 말기 당외 운동의 핵심 사건
-- [린착 혈안](/history/林宅血案) — 1980년 2월 28일 타이베이시 신의로 삼단 31골목에서 린의 어머니와 쌍둥이 딸들이 살해당함
-- [타이완 해제](/history/台灣解嚴) — 1979년 메이리다마 사건부터 1987년 해제까지, 7년 반의 전환 과정
-- [타이완 가공수출구](/society/台灣加工出口區) — 1966년 가오슝 전진 가공수출구는 타이완 경제 기적의 물리적 시발점임
-- [타이완 원주민](/culture/台灣原住民族) — 카나카나푸족(제16족), 라알루와족(제15족) 2014년 정명됨
-- [타이완 객가](/culture/台灣客家) — 육퇴 우퇴(美濃, 六龜, 杉林)의 가오슝 내 객가 피지(飛地)
-- [88풍재](/history/88風災) — 2009년 모락 태풍으로 샤오린촌 마을 소멸, 나마샤 도원모림 산악 지대 세 지역이 큰 피해를 입음
+- [가오슝시](/ko/geography/keelung-city) — 22개 시/현 시리즈 파일럿: 1969년 가오슝에 추월당한 항구, 가오슝과 비교하며 '타이완 경제 중심의 남북 전환' 양 끝을 보기
+- [핑둥현](/ko/geography/pingtung-county) — 22개 시/현 시리즈 인접 현: 1874년 무단사 사건, 객가 육퇴(六堆)의 '좌퇴'와 가오슝의 '우퇴' 공생, 2009년 88 풍재로 임변과 가오슝 산지가 동시에 침수됨
+- [타이베이시](/ko/geography/taipei-city) — 1967년 승격한 첫 번째 직할시, 가오슝의 1979년 승격과는 12년 차이; 1980년 린차이 혈안(血案)은 타이베이시 신의로에서 발생함
+- [228 사건](/ko/history/228-incident) — 1947년 3월 6일 가오슝 요새사령관 펑멍지가 내린 진압 명령, 웅중 수비전
+- [메이리다마 사건](/ko/history/kaohsiung-incident-formosa-incident) — 1979년 12월 10일 다항푸 원환(圓環), 계엄 말기 당외 운동의 핵심 사건
+- [타이완 민주 전환](/ko/history/taiwan-democratization) — 1979년 메이리다마 사건부터 1987년 계엄 해제까지, 7년 반의 전환 과정
+- [가오슝 가공수출구](/ko/history/kaohsiung-export-processing-zone) — 1966년 가오슝 전진 가공수출구는 타이완 경제 기적의 물리적 시발점임
+- [타이완 원주민 역사 및 정명 운동](/ko/history/indigenous-peoples-history-and-naming-movement) — 카나카나푸족(제16족), 라알루와족(제15족) 2014년 정명
+- [객가 문화와 언어](/ko/culture/hakka-culture-and-language) — 육퇴 우퇴(美濃, 六龜, 杉林)의 가오슝 객가 피지(飛地)
+- [모락 풍재](/ko/history/typhoon-morakot) — 2009년 모락 태풍으로 샤오린촌 마을 소멸, 나마샤 도원무림 산지 세 지역이 큰 피해를 입음
 
 ## 이미지 출처
 
