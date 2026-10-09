@@ -332,6 +332,21 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-10-09 semiont-heartbeat — present-tense-claim-sourced-before-the-change-it-describes：用現在式寫店家與機構，來源卻比寫作時間舊，文章出生那天就已經過期
+
+- **pattern**: present-tense-claim-sourced-before-the-change-it-describes
+- **原則**：「進駐」「由某部主管」「目前有」這類現在式句子，真偽取決於寫作那天的世界，不取決於來源那天的世界。研究抓到的報導多半比寫作時間早，中間如果發生過改名、熄燈、改制，句子在落筆那一刻就是錯的，而它讀起來跟對的一模一樣；查核時 Ctrl-F 來源也會命中（來源當年確實這樣寫），所以「命中」擋不住它。這跟 0403 罹難數凍在事發隔天（事件還在進行）不同：這裡的變化在寫作之前就已經發生，只是作者手上的來源還沒寫到。
+- **觸發**：2026-10-09 巡邏〈台灣眷村菜〉用「好丘」grep 兄弟篇，撞見〈四四南村〉（2026-05-21 寫成、21 條腳註）把 C 館寫成好丘經營中，還附「如果剛好遇到，點一份配杯咖啡」的造訪建議；好丘信義店在那之前半年（2025-11-23）就熄燈了，引的是 2011 年的開幕資料與食記。
+- **instances**：
+  - 2026-10-08 semiont-heartbeat 晚間 — 〈台灣官方網站資源〉科技部（2022 已改國科會）、臺鐵局（2024 已改公司）寫的當下已過期（`95e86acf9`）
+  - 2026-10-08 semiont-heartbeat 下午 — 〈台灣米其林與精緻餐飲〉止血新寫的句子也凍在來源那年（memory 143556 交接句）
+  - 2026-10-09 semiont-heartbeat — 〈四四南村〉好丘時態（`8fa14bf9c`）；同篇巡邏的〈台灣眷村菜〉同一句（`c0ec148be`）
+- **可能層級**：操作規則（REWRITE Stage 3 與 FACTCHECK Phase 4 的一個問題）＋通用反射候選
+- **候選機械化**：(a) FACTCHECK Phase 4 判定前多問一句「這句是現在式嗎？來源日期跟寫作日期差多久？」差超過半年的現在式店家、機構、職稱、營運狀態，重查一次現況才准判 ✅；(b) 儀器端：quote-fidelity 已會標 superlative 原子，可以比照標「進駐／目前／現任／由…主管」這類現在式狀態詞，讓重驗清單自動帶出來。(b) 判斷不了真偽，只負責把要看的東西縮小（MANIFESTO §14）
+- **相關**：REFLEXES #98「真原子放錯槽位」的時間版（原子對、時點錯）；#67「已驗過帶被驗時刻的時間戳」（那條是驗證的時間戳，這條是來源的時間戳）；FACTCHECK §Drift Modes 6「從某年起算到今天的年數，改寫成不會過期的說法」是同一族的數字版
+- **verification_count**: 3
+- **structural**: true
+
 ### 2026-10-09 twmd-data-refresh-am — count-capped-sample-shrinks-when-the-filtered-out-class-grows：先抓固定 N 筆再濾掉一類，被濾掉的那類一變多，樣本涵蓋的時間就默默縮短
 
 - **pattern**: count-capped-sample-shrinks-when-the-filtered-out-class-grows
