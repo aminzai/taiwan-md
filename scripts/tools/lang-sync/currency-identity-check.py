@@ -72,6 +72,13 @@ LOCAL_CURRENCY = {
 # 裡有 1,042 處是越南文的誤報——比訊號本身還多（REFLEXES #66／#74）。
 GENERIC_UNIT = {"vi": r"(?:Đài Loan|Đài tệ|TWD|NT\$|New Taiwan|New Đài|Tân Đài)"}
 
+# 越南文 đồng 也是「銅」：獎牌清單「vàng, bạc, đồng」（金銀銅）裡的 đồng 是銅牌。
+# 2026-10-10 babel-nightly：vi〈台灣教育制度〉每次重譯都被「6 huy chương vàng, 13 bạc,
+# 6 đồng」擋成 currency[5]，隔一輪重派一次、一夜十幾次，母稿與模型都沒錯。
+# 只在視窗裡有「huy chương」（獎牌）、「N vàng」計數（「2 vàng 5 đồng」沒有銀牌），
+# 或金與銀同時出現時豁免——單有 vàng 可能是金價。
+MEDAL_CONTEXT = {"vi": re.compile(r"huy chương|\b\d+\s+(?:huy chương\s+)?vàng\b|(?=.*\bvàng\b)(?=.*\bbạc\b)", re.I | re.S)}
+
 # 文章真的在講那個國家的錢時（移工匯款、當地票價）就不是錯的
 LOCAL_OK = {
     "id": r"Indonesia|Jakarta", "hi": r"भारत|दिल्ली|मुंबई",
@@ -131,6 +138,9 @@ def scan(path: Path) -> list[str]:
         for m in lpat.finditer(text):
             window = text[max(0, m.start() - 60):m.end() + 60]
             if ok.search(window):
+                continue
+            medal = MEDAL_CONTEXT.get(lang)
+            if medal and medal.search(window):
                 continue
             if gen and re.match(rf"\s*{gen}", text[m.end():m.end() + 20], re.I):
                 continue
