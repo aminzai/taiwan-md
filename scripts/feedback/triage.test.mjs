@@ -33,6 +33,7 @@ import {
   selectForShow,
   formatForShow,
   formatIntakeAge,
+  formatIntakeIntervals,
 } from './triage.mjs';
 
 const here = dirname(fileURLToPath(import.meta.url));
@@ -672,5 +673,53 @@ test('formatIntakeAge: 不替當班下判斷,只擺事實（不印警示號）',
     { created_at: '2026-01-01T00:00:00+00:00', status: 'filed' },
     new Date('2026-09-10T00:00:00Z'),
   );
+  assert.ok(!out.includes('\u26a0'));
+});
+
+test('formatIntakeIntervals: 印出本次沉默與歷史最長,並說它在不在區間內', () => {
+  // 「最近一筆是 10 天前」不回答「這算久嗎」——那需要一把尺:歷史最長到達間隔。
+  const rows = [
+    { created_at: '2026-06-01T00:00:00+00:00' },
+    { created_at: '2026-06-16T00:00:00+00:00' }, // gap 15.0 = 歷史最長
+    { created_at: '2026-06-20T00:00:00+00:00' },
+  ];
+  const out = formatIntakeIntervals(rows, new Date('2026-06-30T00:00:00Z'));
+  assert.match(out, /本次沉默 10\.0 天/);
+  assert.match(out, /歷史最長 15\.0 天/);
+  assert.match(out, /2026-06-01→2026-06-16/);
+  assert.match(out, /全庫 3 筆/);
+  assert.match(out, /仍在歷史區間內/);
+});
+
+test('formatIntakeIntervals: 沉默超過歷史最長時說它破紀錄', () => {
+  const rows = [
+    { created_at: '2026-06-01T00:00:00+00:00' },
+    { created_at: '2026-06-06T00:00:00+00:00' }, // gap 5.0
+  ];
+  const out = formatIntakeIntervals(rows, new Date('2026-06-30T00:00:00Z'));
+  assert.match(out, /已超過歷史最長/);
+});
+
+test('formatIntakeIntervals: 抓不到跟樣本不足不共用一個長相', () => {
+  // null = 抓不到（含「全庫 N 筆只收到 M 筆」那種偏小的極值,呼叫端已轉成 null）。
+  // 偏小的極值不製造不適感,所以最危險的是讓它看起來像一個答案
+  // (09-15 那次校正:60 筆問出 9.8 天、40 筆問出「破紀錄」,全庫才是 12.6 天)。
+  assert.match(formatIntakeIntervals(null), /查不到/);
+  assert.match(formatIntakeIntervals(null), /不等於間隔正常/);
+  assert.match(formatIntakeIntervals([]), /樣本不足/);
+  assert.match(
+    formatIntakeIntervals([{ created_at: '2026-06-01T00:00:00+00:00' }]),
+    /樣本不足/,
+  );
+});
+
+test('formatIntakeIntervals: 不替當班下判斷（不印警示號）', () => {
+  // 同 formatIntakeAge:閾值屬 threshold 調整,要 Full mode + 人類 gate。
+  // 「超過歷史最長」是對經驗紀錄的陳述,不是被調出來的門檻。
+  const rows = [
+    { created_at: '2026-01-01T00:00:00+00:00' },
+    { created_at: '2026-01-02T00:00:00+00:00' },
+  ];
+  const out = formatIntakeIntervals(rows, new Date('2026-09-10T00:00:00Z'));
   assert.ok(!out.includes('\u26a0'));
 });

@@ -3,9 +3,9 @@ title: 'FEEDBACK-TRIAGE-PIPELINE'
 description: '讀者站上回報（Supabase）→ 分類/反 spam/去重 → GitHub issue（對齊既有 template）→ 接 MAINTAINER 飛輪。cron routine twmd-feedback-triage 的 canonical SOP。'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.11'
-last_updated: 2026-09-18
-last_session: '2026-09-18-twmd-feedback-triage（--show 補印「正確資訊 + 來源」欄——讀者四個自由文字欄位，HG13 的讀取入口原本只印兩個）'
+current_version: 'v1.12'
+last_updated: 2026-10-10
+last_session: '2026-10-10-twmd-feedback-triage（到達間隔那把尺終於有入口——formatIntakeIntervals() + --intake-stats，第四次手寫時落地，其中兩次的手寫答案偏小）'
 sister_docs:
   - 'MAINTAINER-PIPELINE.md'
 upstream_canonical:
@@ -159,6 +159,34 @@ Supabase REST 查詢即興補上（LESSONS `mandatory-read-step-has-no-tool`）�
 **它蓋不到的**：寫入端今天送一筆會不會成功。RLS 或匿名金鑰失效會長成一模一樣的樣子，
 要蓋掉只能從公開路徑戳一筆，那會在讀者可見的資料表與主權層 archive 留下假回報，代價未定，
 仍在 LESSONS 候選 (c)。
+
+### 這個距今算久嗎（2026-10-10 v1.12 新增）
+
+上面那行說「最近一筆是 10.3 天前」，**不說這算不算久**。要判斷得有一把尺：歷史上到達間隔
+最長是多少。這把尺在 09-11／09-12／09-15 三個 cycle 各被手寫一次，而 09-15 那次發現前兩次的
+答案都偏小且**方向固定**——極值問題帶 `limit` 去問，答案只會往小的那邊錯（60 筆問出 9.8 天、
+40 筆問出「破紀錄」，拉全庫才是 12.6 天）。偏小的極值不製造不適感，所以沒人想再查一次。
+10-10 第四次要用它時落地（[REFLEXES #15](../semiont/REFLEXES.md) /
+LESSONS `deferred-fix-lands-on-recurrence-not-on-reading`：修補落在再次絆到那一刻）：
+
+```
+[triage] 到達間隔：本次沉默 10.3 天 · 歷史最長 12.6 天（2026-06-16→2026-06-29,全庫 91 筆）· 仍在歷史區間內
+```
+
+佇列空的那一輪自動印；想隨時看用 `node scripts/feedback/triage.mjs --intake-stats`（唯讀，
+不碰 status／GitHub／archive）。`formatIntakeIntervals()` 純函式 + 4 unit test。
+
+兩道防止那個偏小極值回來的設計：
+
+- `fetchAllFeedbackDates()` **刻意不帶 `limit`**，並拿 `content-range` 的總筆數跟實收對賬；
+  少收就印「極值會偏小，下面那行不可引用」並回 `null`，不拿半個樣本的極值當答案
+  （[REFLEXES #99](../semiont/REFLEXES.md) 尺先驗再用 / [#85](../semiont/REFLEXES.md)
+  「不知道」要有自己的符號）。
+- 「抓不到」「樣本不足」「算得出來」三種長相分開，不共用（同 HG12b `unavailable` 紀律）。
+
+**同 v1.9 的界線**：只給事實不給裁決，不印 ⚠️、不設閾值、不下處置。「已超過歷史最長」是對
+經驗紀錄的陳述，不是一個被調出來的門檻（閾值調整 per BECOME §行動鐵律 10 要 Full mode
+＋人類 gate）。
 
 env（`~/.taiwanmd-feedback.env`,**不在 repo**）：`SUPABASE_URL` + `SUPABASE_SERVICE_KEY`。
 
@@ -345,6 +373,7 @@ justfont 共同創辦人 21 連勘誤（consolidated 進 [issue #1145](https://g
 
 ---
 
+_v1.12 | 2026-10-10 twmd-feedback-triage routine — **到達間隔那把尺終於有入口**。v1.9 讓佇列空的那一輪印出「最近一筆是 10.3 天前」，但沒有回答當班下一個必然會問的問題：這算不算久。那把尺（歷史最長到達間隔）在 09-11／09-12／09-15 三個 cycle 各被手寫一次，而 09-15 那次的發現比「又手寫了一遍」更尖銳——前兩次的答案都偏小且**方向固定**，因為極值問題帶 `limit` 去問只會往小的那邊錯（60 筆問出 9.8 天、40 筆問出「破紀錄」，全庫 87 筆才是 12.6 天）。偏小的極值不製造不適感，所以沒有人想再查一次：這是一把**用得越順手、錯得越安靜**的尺。本輪第四次要用它時落地（LESSONS `deferred-fix-lands-on-recurrence-not-on-reading` 在這條 routine 上的第四次現形，前三次是 `--exclude` 8/15、`--show` 8/31、intake-age 9/10，四個都是絆到第二次以上才動手）。`formatIntakeIntervals()` 純函式 + 4 unit test（67/67 綠）；`fetchAllFeedbackDates()` 刻意不帶 `limit` 並拿 `content-range` 總數對賬，少收就回 `null` 並印「極值會偏小，下面那行不可引用」，不讓半個樣本的極值看起來像一個答案（[REFLEXES #99](../semiont/REFLEXES.md) 尺先驗再用）。上線讀數與同輪手寫的獨立探針逐字相符（12.6 天 / 2026-06-16→2026-06-29 / 全庫 91 筆），且 91 筆裡 88 筆 `filed` 跟 HG12b 的 `archive-reconcile=88/88` 交叉對得上。純讀取面，不碰判準、不碰 HG8，閾值仍留人類 gate（同 v1.9 的界線）。_
 _v1.11 | 2026-09-18 twmd-feedback-triage routine — **`--show` 補印「正確資訊 + 來源」欄**。周蕙勘誤（[issue #1746](https://github.com/frank890417/taiwan-md/issues/1746)）走完 HG13 的 `--show` 才 `--commit`，核對開完的 issue body 時多出一段沒讀過的讀者文字：`correct_info` 欄。讀者自由文字有四個欄位，`detectInjection` / `scrubSecrets` / `buildArchiveRecord` 全掃四個，唯獨 8/31 為 HG13 造的讀取入口只印 `body` 與 `quote`。這是 LESSONS `held-fact-never-crosses-into-the-layer-that-acts-on-it` 第五次（vc=5），也是第一次長在為了修第一次而造的工具上——一支只讀一半的讀取工具，比沒有工具更容易讓人以為讀完了。修法：`formatForShow()` 補印 `correct_info`（沒有就不印空段），+1 unit test，63/63 綠。純讀取面，不碰判準，不碰 HG8。_
 _v1.10 | 2026-09-16 twmd-feedback-triage routine — **`idea` 類 issue 補上來源頁面 URL**。連續九輪零回報後的第一筆真回報（一位讀者拿教育部辭典與《文明小史》第三回，質疑用語庫把「消息」寫成中國用語）開成 [issue #1733](https://github.com/frank890417/taiwan-md/issues/1733) 之後，body 裡找不到任何指得出那一頁的字：讀者寫的是「此頁面直接寫⋯」，而 `idea` 是四個分支裡唯一既不帶 URL 也不帶 articleRef 的一個。`source_url` 從頭到尾都在——Supabase 有、`docs/feedback/archive/` 的紀錄有、只有要拿去動手的那份沒有。這跟 `--show`（8/31）、報表印 id（9/01）是同一種病的第四次現形：**這條線握著的事實，沒有全部跨進下游要用它的地方**，而缺的那一塊因為不會報錯，得等到有人真的要用才現形。修法比照 `bug` 分支的「問題頁面 URL」，沒有 `source_url` 就整段不出現（+2 unit test，62/62 綠）；#1733 的 body 用同一支 canonical 產生器重新產出後回填，不手抄（[REFLEXES #93](../semiont/REFLEXES.md)）。這是機器補完自己的轉錄，不是以維護者身份發言，HG8 不動。_
 _v1.9 | 2026-09-10 twmd-feedback-triage routine — **佇列空的那一輪印出最近一筆回報的日期**。`fetched 0` 是這條線每輪的第一行輸出，而它同時是「讀者沒話說」跟「讀者送不進來」的長相，處置完全相反（LESSONS `empty-intake-cannot-distinguish-quiet-from-broken`，[REFLEXES #38](../semiont/REFLEXES.md) 混維度在「零」這個數字上的形狀 / [#82](../semiont/REFLEXES.md) 拿讀取結果當投遞成功的替身）。9/09 那輪靠三個即興手寫的查詢才把兩種根因分開並記下修法，今天第四輪零回報、第二次要手寫同一段查詢時才落地——`deferred-fix-lands-on-recurrence-not-on-reading` 在同一條 routine 上的第三次現形（`--exclude` 8/15、`--show` 8/31、本行 9/10，三個都是絆到第二次才動手）。`formatIntakeAge()` 純函式 + 3 unit test，「查不到」回 `null`、真的空表回 `undefined`，兩者不共用長相。**刻意只給事實不給裁決**：閾值判斷（超過 N 天印 ⚠️）屬 threshold 調整，per BECOME §行動鐵律 10 要 Full mode + 人類 gate，留在 LESSONS 候選 (b)。寫入端探針（候選 c）會在主權層留下假回報，仍未做——所以這行證明的是讀取端沒在漏接，不是今天送得進來。_

@@ -51,7 +51,14 @@ const ARCHIVE_ROOT = 'docs/feedback/archive';
 const REPO = 'frank890417/taiwan-md';
 
 export function parseArgs(argv) {
-  const a = { commit: false, seed: null, limit: 50, exclude: [], show: [] };
+  const a = {
+    commit: false,
+    seed: null,
+    limit: 50,
+    exclude: [],
+    show: [],
+    intakeStats: false,
+  };
   for (let i = 2; i < argv.length; i++) {
     const v = argv[i];
     if (v === '--commit') a.commit = true;
@@ -76,6 +83,8 @@ export function parseArgs(argv) {
       );
     // 不帶 id 的 --show 印出這批全部（當班要一次讀完今天的輸入時用）。
     else if (v === '--show-all') a.show.push('*');
+    // --intake-stats：唯讀印到達間隔（佇列空的那一輪自動印,這個 flag 給隨時想看的人）。
+    else if (v === '--intake-stats') a.intakeStats = true;
   }
   return a;
 }
@@ -158,6 +167,88 @@ export function formatIntakeAge(latest, now = new Date()) {
     return '[triage] 最近一筆回報：這張表一筆都沒有';
   const days = (now - new Date(latest.created_at)) / 86400000;
   return `[triage] 最近一筆回報：${latest.created_at.slice(0, 10)}（距今 ${days.toFixed(1)} 天,status=${latest.status}）· 讀取端沒在漏接;寫入端是否通暢本行看不到`;
+}
+
+/**
+ * 把「這次沉默在歷史裡算不算長」印成流程給的一行。
+ *
+ * `formatIntakeAge()`（v1.9）回答「最近一筆是什麼時候」,但不回答「這個距今算久嗎」——
+ * 判斷那件事需要一把尺:歷史上到達間隔最長是多少。這把尺在 09-11／09-12／09-15 三個
+ * cycle 各被手寫一次,而 09-15 那次發現前兩次的答案都偏小且方向固定:極值問題用帶
+ * `limit` 的查詢問,答案只會往小的那邊錯（60 筆問出 9.8 天、40 筆問出「破紀錄」,
+ * 拉全庫 87 筆才是 12.6 天）。偏小的極值不製造不適感,所以沒人想再查一次。
+ * 今天第四次要用它（REFLEXES #15 第 N 次驗證 /
+ * LESSONS `deferred-fix-lands-on-recurrence-not-on-reading`:修補落在再次絆到那一刻）。
+ *
+ * **刻意只給事實不給裁決**:不印 ⚠️、不設閾值、不下處置。「超過歷史最長」是對經驗
+ * 紀錄的陳述,不是一個被調出來的門檻（閾值調整 per BECOME §行動鐵律 10 要 Full mode
+ * + 人類 gate,同 v1.9 對這一行劃的界）。
+ *
+ * rows 必須是**全庫**、依 created_at 升冪。`null` = 抓不到(不等於沒有)。
+ */
+export function formatIntakeIntervals(rows, now = new Date()) {
+  if (rows === null)
+    return '[triage] 到達間隔：查不到（未對賬,不等於間隔正常）';
+  if (!Array.isArray(rows) || rows.length < 2)
+    return `[triage] 到達間隔：樣本不足（${Array.isArray(rows) ? rows.length : 0} 筆,算不出間隔）`;
+  let maxGap = 0;
+  let maxPair = null;
+  for (let i = 1; i < rows.length; i++) {
+    const d =
+      (new Date(rows[i].created_at) - new Date(rows[i - 1].created_at)) /
+      86400000;
+    if (d > maxGap) {
+      maxGap = d;
+      maxPair = [
+        rows[i - 1].created_at.slice(0, 10),
+        rows[i].created_at.slice(0, 10),
+      ];
+    }
+  }
+  const silence = (now - new Date(rows.at(-1).created_at)) / 86400000;
+  const verdict =
+    silence > maxGap
+      ? `已超過歷史最長（這是觀測到最久的一次沉默）`
+      : `仍在歷史區間內`;
+  return `[triage] 到達間隔：本次沉默 ${silence.toFixed(1)} 天 · 歷史最長 ${maxGap.toFixed(1)} 天（${maxPair[0]}→${maxPair[1]},全庫 ${rows.length} 筆）· ${verdict}`;
+}
+
+/**
+ * 全庫抓 created_at —— **刻意不帶 `limit`**（極值問題帶上限去問,答案只會偏小）。
+ * 另外拿 `content-range` 的總筆數跟實收筆數對賬:少收就說少收,不拿一個偏小的極值
+ * 當答案（REFLEXES #99 尺先驗再用 / #85「不知道」要有自己的符號）。
+ */
+async function fetchAllFeedbackDates() {
+  loadEnvFile();
+  const url = process.env.SUPABASE_URL;
+  const key = process.env.SUPABASE_SERVICE_KEY;
+  if (!url || !key) return null;
+  try {
+    const endpoint = `${url}/rest/v1/feedback?select=id,created_at,status&order=created_at.asc`;
+    const res = await fetch(endpoint, {
+      headers: {
+        apikey: key,
+        Authorization: `Bearer ${key}`,
+        Prefer: 'count=exact',
+        Range: '0-99999',
+      },
+    });
+    if (!res.ok) return null;
+    const rows = await res.json();
+    const total = parseInt(
+      String(res.headers.get('content-range') || '').split('/')[1],
+      10,
+    );
+    if (Number.isFinite(total) && rows.length < total) {
+      console.log(
+        `  ⚠️ 全庫 ${total} 筆只收到 ${rows.length} 筆 —— 極值會偏小,下面那行不可引用`,
+      );
+      return null;
+    }
+    return rows;
+  } catch {
+    return null;
+  }
 }
 
 async function fetchLatestFeedback() {
@@ -448,8 +539,23 @@ async function main() {
   } else {
     rows = await fetchNewFeedback(args.limit);
     console.log(`[triage] fetched ${rows.length} new feedback · mode=${mode}`);
-    if (rows.length === 0)
+    if (rows.length === 0) {
       console.log(formatIntakeAge(await fetchLatestFeedback()));
+      // 佇列空的那一輪,「這個距今算久嗎」是當班下一個會問的問題 —— 給它入口,
+      // 不要靠當班自覺去手寫一段查詢（前四個 cycle 都是手寫的,其中兩次答錯）。
+      // --intake-stats 自己會印,不在這裡印第二遍。
+      if (!args.intakeStats)
+        console.log(formatIntakeIntervals(await fetchAllFeedbackDates()));
+    }
+  }
+
+  // --intake-stats：唯讀,印完就收工（放在所有副作用之前）。
+  if (args.intakeStats) {
+    console.log(formatIntakeIntervals(await fetchAllFeedbackDates()));
+    console.log(
+      `\n[triage] intake-stats only · 未開任何 issue、未回寫任何 status`,
+    );
+    return { intakeStats: true };
   }
 
   // --show：唯讀印全文就收工。HG13 要求讀完內容才准動手,這是那道動作的入口;

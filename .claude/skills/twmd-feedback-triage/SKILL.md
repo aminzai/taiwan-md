@@ -54,6 +54,9 @@ node scripts/feedback/triage.mjs --show-all               # 這批全部
 
 # 某筆不能開成公開 issue（例：指涉具名第三人的指控）→ 排除那筆但照樣跑完（HG13）
 node scripts/feedback/triage.mjs --commit --exclude <feedback-id>
+
+# 「這個距今算久嗎」——歷史最長到達間隔（唯讀；佇列空的那一輪會自動印）
+node scripts/feedback/triage.mjs --intake-stats
 ```
 
 未配置 Supabase（`SUPABASE_URL`/`SUPABASE_SERVICE_KEY` 缺）→ emit「feedback backend 未配置,skip」,**不算 fail**（escalation 只看 quality gate）。
@@ -84,6 +87,13 @@ node scripts/feedback/triage.mjs --commit --exclude <feedback-id>
   用 `--exclude` 排除後照樣 `--commit`，`status` 維持 `new` 留人類決定收尾，兩道對賬不受影響。
   整條 `--commit` 不跑 = 保管那半跟著轉錄那半一起消失（LESSONS
   `zero-input-cycle-drops-the-reconciliation`）。攔下後升 OBSERVER-QUEUE 等哲宇，**不自己回覆回報者**。
+
+## 佇列空的那一輪要讀兩行（不是一行）
+
+`fetched 0` 之後報表印兩行：**最近一筆回報距今幾天**（v1.9）＋**那個距今算不算久**（v1.12）。
+第二行拿全庫算歷史最長到達間隔——這把尺前四個 cycle 都是當班手寫的，其中兩次答案偏小且方向固定
+（帶 `limit` 問極值只會往小的錯）。印 `查不到` / `樣本不足` **不等於**間隔正常，跟 HG12b
+`unavailable` 同一條紀律。兩行都刻意不印 ⚠️、不設閾值——閾值要 Full mode ＋ 人類 gate。
 
 ## 收官
 
