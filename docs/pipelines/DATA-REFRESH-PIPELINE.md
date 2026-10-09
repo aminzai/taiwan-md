@@ -3,9 +3,9 @@ title: 'DATA-REFRESH-PIPELINE'
 description: '資料更新 pipeline — git pull + 三源感知 + prebuild + GitHub stats，Heartbeat Beat 1 前置 (v2.2)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v2.3'
-last_updated: 2026-09-30
-last_session: '2026-09-30-060240-twmd-data-refresh-am（Step 11 讀 build-perf status，擋 GitHub API 回舊頁）'
+current_version: 'v2.4'
+last_updated: 2026-10-10
+last_session: '2026-10-10-060845-twmd-data-refresh-am（--no-sync 旗標取代手拼 runner）'
 sister_docs:
   - 'STATS-PIPELINE.md'
   - 'DASHBOARD-PIPELINE.md'
@@ -164,6 +164,7 @@ bash scripts/tools/refresh-data.sh
 - cwd 不在 git toplevel → auto cd（防 worktree vs main repo 混淆）
 - working tree dirty → auto-stash + pop（不再 silent skip pull）
 - git pull 真失敗 → hard abort（人類介入）
+- **平行寫手（babel 等）正在寫工作樹** → `bash scripts/tools/refresh-data.sh --no-sync`：跳過 stash＋pull，只在本機不落後 origin/main 時放行，落後就 exit 2。groundtruth 印 `ACTOR_BUSY` 時用它；10-03～10-10 四班手拼 runner 跳 Step 1 後收成旗標（v2.4）
 - 任何資料源失敗 → soft skip，心跳繼續用昨天的 cache
 
 **Step 11（verify dashboard freshness）** 是 2026-05-02 γ-late 加的閘門 — 跑完後檢查每個 `public/api/dashboard-*.json` 都有今天的 mtime；`dashboard-analytics.json` 另驗 `lastUpdated` 的齡（≤ 24h，含時區換算；2026-09-18 起不再跟本機日期字串比對——`lastUpdated` 是 UTC，台北 00:00–08:00 跑的每一輪都會撞「昨天」的假警報，09-08／09-09／09-18 三次確認後改尺），若內容被後段流程覆回舊快照就從 fresh sense cache 當場重生。mtime 只能證明檔案被碰過，不能單獨證明內容新鮮。任何 stale 表示有 generator 漏跑或後段覆寫（REFLEXES #43）。`dashboard-build-perf.json` 另讀 `status`（2026-09-30 起）：GitHub API 偶爾回一頁幾週前的舊 run，generator 自驗最新成功 run 超過 2 天就換查詢重抓，仍舊就寫 `stale-source`，Step 11 把非 `ok` 算進 stale。這之前 08-21／09-02／09-18／09-19／09-30 五次舊內容都以今天的 mtime 過關。
@@ -468,6 +469,10 @@ _v2.1 | 2026-07-05 2026-07-05-120817-dna-audit — 步數統一 14（script 實�
 
 **收官後必跑 `bash scripts/tools/lib/verify-commit-scope.sh --head <預期檔數>`**（2026-09-27 self-evolve-weekly）：用 `git commit -- <paths>` 收官能避開平行 babel 把自己的檔掃走，代價是 lint-staged 在暫存索引上改完 prettier 後，原索引留著格式化前的 blob（`git status` 呈 `MM`），下一個不帶 pathspec 的 commit 會把它帶進 git。`--head` 現在會把「工作樹 == HEAD 而索引 != HEAD」的本 commit 檔 reset 回 HEAD，工作樹不動。09-24 本 routine 與 embeddings 同一早各留一次、09-25 再一次（REFLEXES #100 (e)）。
 
+**路徑清單收官要在 bash 裡跑**：Bash 工具的 shell 是 zsh，`git commit -- $FILES` 在 zsh 不會把變數拆成多個路徑，整串變成一個不存在的路徑而失敗（10-09、10-10 連兩班踩到，靠 `verify-commit-scope` 的檔數不符才看出沒 commit 進去）。包成 `bash -c '...'` 再跑。
+
 **反模式**: 寫了 generator 但只在 commit 之前手動跑一次。下次 generator 就被遺忘了。所有 dashboard JSON 必須有自動 refresh path。
 
 _v2.3 | 2026-09-30 twmd-data-refresh-am — Step 11 加讀 `dashboard-build-perf.json` 的 `status`；`extract-build-perf.mjs` 自驗最新成功 run 年齡（>2 天換查詢重抓，仍舊寫 `stale-source`、exit 1）。觸發：當班最新 build 顯示 08-01，回查 git 歷史同症狀五次都以今天 mtime 過關。_
+
+_v2.4 | 2026-10-10 twmd-data-refresh-am — `refresh-data.sh --no-sync`：平行寫手在跑時跳過 Step 1 的 stash＋pull，落後 origin 就拒跑；§新 dashboard SOP 補「路徑清單收官包 bash -c」。觸發：10-03／10-08／10-09／10-10 四班都手拼 runner 跳 Step 1，zsh 拆不開路徑變數連兩班。_

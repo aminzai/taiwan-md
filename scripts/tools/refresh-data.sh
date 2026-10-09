@@ -80,6 +80,21 @@ echo ""
 # - git pull 真失敗     → hard abort
 echo -e "${GRN}[1/14]${RST} Git sync..."
 
+# --no-sync（2026-10-10 data-refresh-am）：babel 等平行寫手正在改工作樹時，
+# auto-stash 會把它寫到一半的檔案收走。10-03／10-08／10-09／10-10 四班都靠手拼
+# runner（本檔 1–76 行接 117 行之後）跳過這一步；改成旗標。只在本機不落後
+# origin/main 時才准跳，落後就停，免得在舊底座上產儀表板。
+if [ "${1:-}" = "--no-sync" ]; then
+  git fetch -q origin main 2>/dev/null
+  BEHIND=$(git rev-list --count HEAD..origin/main 2>/dev/null || echo "?")
+  if [ "$BEHIND" != "0" ]; then
+    echo -e "${RED}❌ --no-sync 但本機落後 origin/main ${BEHIND} 個 commit — 拒絕在舊底座上刷新${RST}"
+    exit 2
+  fi
+  echo -e "${DIM}   --no-sync：跳過 stash＋pull（本機與 origin/main 同步，工作樹留給平行寫手）${RST}"
+  echo ""
+else
+
 DIRTY=0
 if [ -n "$(git status --porcelain)" ]; then
   DIRTY=1
@@ -113,6 +128,7 @@ if [ "$PULL_OK" = "0" ]; then
 fi
 echo -e "${DIM}   ✓ HEAD now $(git rev-parse --short HEAD)${RST}"
 echo ""
+fi
 
 # ────────────────── Step 2 — three-source sense fetch ──────────────────
 # Soft fail: 任何 source 失敗用昨天 cache
