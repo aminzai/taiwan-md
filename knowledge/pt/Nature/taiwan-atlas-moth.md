@@ -1,13 +1,13 @@
 ---
-title: 'Mariposa-imperial de Taiwan'
-description: 'Envergadura de 25-30 cm, uma das mariposas com maior envergadura do mundo; asas abertas como um livro aberto — ela não come durante toda a vida, vive apenas para voar uma vez.'
+title: 'Atlas Moth de Taiwan: a lenda das asas gigantes que não se alimenta por toda a vida'
+description: 'Com uma envergadura de até 25-30 cm, é uma das maiores mariposas do mundo; suas asas abertas parecem um livro — ela não come para poder voar.'
 date: 2026-03-19
 category: 'Nature'
 tags:
   [
-    'Mariposa-imperial',
-    'Mariposa-cabeça-de-cobra',
     'Atlas Moth',
+    'Mariposa-atlas',
+    'Mariposa-cabeça-de-serpente',
     'Mariposas',
     'Conservação',
     'Insetos',
@@ -20,97 +20,98 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Nature/台灣皇蛾.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:c0def8638e893fc6'
-sourceBodyHash: 'sha256:b3b31dae4152e213'
-translatedAt: '2026-07-26T07:02:07+08:00'
+sourceCommitSha: '38a5f7e2a'
+sourceContentHash: 'sha256:a407c4cd5d546815'
+sourceBodyHash: 'sha256:94480d54498a46b7'
+translatedAt: '2026-10-11T01:05:48+08:00'
 ---
 
-# Mariposa-imperial de Taiwan: uma das mariposas com maior envergadura do mundo, a lenda das asas gigantes que não se alimentam
+# Atlas Moth de Taiwan: uma das mariposas com maior envergadura e a lenda das asas gigantes que não se alimenta por toda a vida
 
 ## Visão geral em 30 segundos
 
-Envergadura de 25-30 cm, uma das mariposas com maior envergadura do mundo; área das asas é a segunda maior do planeta (só perde para a mariposa-hércules australiana), mais larga que o seu portátil. Conhecida popularmente como mariposa-cabeça-de-cobra, devido ao padrão realista de cabeça de cobra nas pontas das asas. A beleza mais cruel: o adulto não tem peças bucais, após a emergência sobrevive apenas 1-2 semanas com a gordura armazenada na fase larval, com o único propósito de reproduzir e morrer. Taiwan é um dos poucos lugares do mundo que ainda mantêm populações selvagens de mariposa-imperial, mas nos últimos anos tornou-se cada vez mais rara.
+Com uma envergadura que pode atingir de 25 a 30 cm, é uma das mariposas com as maiores asas do mundo; quando abertas, são mais largas que a palma da mão de um adulto. [^5][^4] As pontas das asas anteriores projetam-se para fora com o formato de uma cabeça de serpente, razão pela qual também é chamada de "mariposa-cabeça-de-serpente". [^1] Os aparelhos bucais dos adultos são atrofiados e eles não podem se alimentar; após a eclosão, sobrevivem apenas de 1 a 2 semanas usando a gordura armazenada durante o estágio de lagarta, dedicando esse tempo a uma única missão: encontrar um parceiro e deixar a próxima geração. [^3][^4] A Atlas Moth distribui-se da Índia e da Península Malaia até o sul da China e Taiwan, habitando as montanhas baixas (áreas de baixa altitude) em Taiwan. Na década de 1970, elas eram criadas em massa em Taiwan, com adultos usados como espécimes de coleção e casulos transformados em carteiras. [^1][^3]
 
 ## Por que é importante?
 
-A mariposa-imperial é um indicador da saúde do ecossistema. A sua presença indica que a floresta está saudável e a biodiversidade é rica. Quando a mariposa-imperial desaparece, geralmente significa que toda a cadeia ecológica está a colapsar. Em Taiwan, o habitat da mariposa-imperial concentra-se em florestas de baixa e média altitude, justamente aquelas ilhas verdes que resistem teimosamente cercadas pela pressão do desenvolvimento humano.[^2] Estes ecossistemas de colinas baixas são frequentemente ignorados, mas são áreas-chave da biodiversidade terrestre de Taiwan: neles também habitam espécies raras como o gato-leopardo e o tamanduá. O aparecimento da mariposa-imperial é um espelho da saúde ecológica; a sua ausência é um sinal de alerta que deve ser levado a sério.
+Em Taiwan, a Atlas Moth habita as montanhas baixas, ou seja, a faixa de florestas de baixa altitude cercada pela pressão do desenvolvimento humano. [^3] Nessa mesma região habitam também o gato-bravo (_Prionailurus bengalensis_) e o pangolim. As lagartas têm uma dieta muito variada, com registros de alimentação em plantas como _Solanum nigrum_ (茄冬), _Carissa carandas_ (饅頭果), _Cissus sicyoides_ (江某), _Litsea cubeba_ (樹杞), _Euodia kisoana_ (九芎) e goiabeira (_Psidium guajava_). [^1][^2] Já os adultos não comem absolutamente nada; toda a sua existência depende das folhas consumidas durante o estágio de lagarta. Se uma floresta de baixa altitude pode permitir que uma mariposa com asas maiores que uma mão passe do ovo à fase adulta, isso depende da presença das plantas hospedeiras, da intensidade das luzes noturnas e da quantidade de pesticidas pulverizados em pomares.
 
-## Um guia natural de asas abertas
+## Um atlas natural de asas abertas
 
-A mariposa-imperial (nome científico: _Attacus atlas_) é apelidada de «mapa voador». Ao abrir as asas, o fundo castanho-avermelhado cobre-se de linhas e padrões complexos, como um mapa antigo ou uma carta náutica. O mais especial é a ponta das asas, o padrão que lhe valeu o nome de «mariposa-cabeça-de-cobra».
+O nome em inglês da Atlas Moth (nome científico: _Attacus atlas_) vem, segundo alguns, do titã Atlas da mitologia grega, que sustenta a abóbada celeste; cientistas sugerem também que seja devido às linhas em suas asas, que lembram um mapa de papel. [^4] A cor de fundo das asas é marrom-avermelhada, repleta de padrões pretos, brancos, rosas e roxos, com uma "janela" triangular transparente e sem escamas no centro de cada uma das quatro asas, contornada por bordas pretas. [^5][^1]
 
-O padrão na ponta da asa anterior não só parece uma cabeça de cobra; quando a mariposa-imperial se sente ameaçada e bate as asas, esse padrão imita de forma vívida a postura de intimidação de uma cobra-naja. Esta é uma obra-prima de milhões de anos de evolução, uma estratégia precisa de engano do inimigo.
+O detalhe mais especial está nas pontas das asas anteriores. Elas se estendem para fora formando o formato de uma cabeça de serpente, com uma mancha circular preta na borda superior que parece o olho de uma cobra e uma faixa transversal marrom que lembra a boca; por isso, em Hong Kong, ela é chamada de "mariposa-cabeça-de-serpente". [^1][^6]
 
-A área da superfície das asas da mariposa-imperial pode atingir 400 cm², sendo a segunda maior do mundo entre as mariposas (só perde para a mariposa-hércules australiana). Em termos de comprimento da envergadura, a mariposa-imperial está entre as maiores mariposas do globo. A fêmea é maior que o macho, mas o macho tem antenas mais largas e plumosas, capazes de detetar a feromona libertada pela fêmea a vários quilómetros de distância.
+Os registros sobre a área das asas variam: o Museu Nacional de Ciências Naturais (NMS) e a Wikipédia em chinês afirmam que ela pode atingir até 400 cm², sendo a mariposa com a maior área de asa total, [^1][^6] enquanto a Wikipédia em inglês indica cerca de 160 cm², sendo superada apenas pela Mariposa Hercules da Austrália. [^5] As fêmeas são maiores que os machos; os machos possuem antenas mais largas e plumosas, capazes de detectar feromônios das fêmeas a quilômetros de distância. [^5]
 
-## Distribuição da rainha das mariposas em Taiwan
+## Distribuição da "Rainha das Mariposas" em Taiwan
 
-Em Taiwan, a mariposa-imperial distribui-se principalmente em áreas montanhosas de baixa a média altitude (abaixo de 1000 metros), preferindo ambientes quentes e húmidos. Desde o Yangmingshan no norte, o Baguashan no centro, Kenting no sul, até ao Vale Rift de Hualien-Taitung a leste, todos têm registos de mariposa-imperial.[^1] Merece destaque especial a área de acampamento secreto n.º 3 de Sanwan, Miaoli, onde em 2019 fotógrafos amadores ainda registaram a mariposa-imperial. Este tipo de ambiente de colinas pouco desenvolvido é precisamente o último refúgio da mariposa-imperial. Estas áreas de acampamento, quintas, bordas de pomares, aparentemente insignificantes, são as ilhas ecológicas de que a vida selvagem de Taiwan depende para sobreviver. A mariposa-imperial costuma ser ativa à noite; a fêmea após o acasalamento deposita os ovos concentrados no verso das folhas; o macho usa as mais de 300.000 células olfativas nas antenas para detetar feromonas a vários quilómetros, localizando com precisão a posição da fêmea.
+Segundo o Zoológico de Taipé, a Atlas Moth tem ampla distribuição no leste da Ásia, incluindo as regiões de montanhas baixas de Taiwan. [^3] Citando o estudo de Wang Hsiao-yue de 1994, o Museu Nacional de Ciências Naturais registra a população de Taiwan como uma subespécie endêmica, _A. atlas formosanus_, sendo a maior mariposa de Taiwan; já a Enciclopédia da Vida de Taiwan lista como _A. atlas atlas_, apresentando uma inconsistência nos nomes das subespécies. [^1][^2] No norte de Taiwan, há duas gerações por ano: a primeira eclode em maio e junho, a segunda em agosto e setembro, e elas passam o inverno na fase de pupa. [^1]
+
+No iNaturalist, há cerca de 428 registros de Taiwan até outubro de 2026, com ocorrências em Hsinchu, Nantou, Miaoli, Taipé, Chiayi e Changhua, além de registros na área de Lintiánshan, em Fenglin, Hualien. [^7] O aumento progressivo dos registros reflete, em grande parte, o maior número de pessoas fotografando e fazendo upload, não podendo ser interpretado diretamente como um aumento populacional.
 
 ## O poema cruel do ciclo de vida
 
-A vida da mariposa-imperial é um poema cruel e belo.
+A vida da Atlas Moth é um poema cruel e belo.
 
-**Fase de ovo e larva**: A fêmea deposita ovos esféricos de apenas 2,5 mm de diâmetro no verso das folhas da planta hospedeira, algumas dezenas por postura. Após a eclosão, as lagartas verdes têm espinhos brancos cerosos no dorso, alimentam-se de goiabeira, canela, citrinos e outras plantas, passam por seis mudas, até atingir 11,5 cm de comprimento e 2,5 cm de espessura. Esta é a única fase em que a mariposa-imperial se alimenta durante toda a vida, quando se completam todas as reservas de gordura.
+**Fase de ovo e lagarta**: Após o acasalamento, a fêmea começa a botar ovos na noite seguinte, depositando apenas alguns por vez na casca das árvores ou no verso das folhas; uma fêmea põe, em média, cerca de 200 ovos. [^1] Os ovos são esféricos e medem 2,5 mm de diâmetro. [^5] As lagartas verdes que eclodem possuem espinhos cobertos por uma substância cerosa branca e passam por seis estágios de crescimento (ínstares), atingindo finalmente 11,5 cm de comprimento e 2,5 cm de espessura. [^5][^3] Este é o único estágio da vida em que a Atlas Moth se alimenta; todo o seu estoque de gordura é acumulado aqui.
 
-**Fase de pupa e adulto**: A lagarta tece o casulo entre folhas secas, com 7-8 cm de comprimento, fixado aos ramos com fios de seda, a metamorfose dura cerca de quatro semanas. Após a emergência, o adulto tem as peças bucais atrofiadas, não consegue alimentar-se, sobrevive apenas com a gordura armazenada na fase larval, devendo em 1-2 semanas encontrar parceiro, acasalar, reproduzir e depois morrer. Esta estratégia concentra toda a energia na reprodução, sem necessidade de arriscar a procura de alimento, aumentando a eficiência da transmissão genética.
+**Fase de pupa e adulto**: A lagarta enrola folhas de plantas hospedeiras para criar um casulo de textura papirácea com 7 a 8 cm de comprimento, fixando-o a um galho com fios de seda, assemelhando-se a uma folha seca enrolada. [^5][^3] Do ovo ao adulto levam-se cerca de 70 dias, sendo aproximadamente 21 dias na fase de pupa. [^1] Em períodos de inverno, o estágio de pupa pode ser prolongado; o Museu de Insetos do Zoológico de Taipé já registrou indivíduos que permaneceram como pupas por mais de seis meses antes da eclosão. [^3] Uma vez adulta, a mariposa não consegue comer devido à atrofia de seu aparelho bucal, sobrevivendo apenas das reservas de gordura por 1 a 2 semanas para encontrar um parceiro, acasalar, botar ovos e morrer. [^3][^4]
 
-## O código evolutivo do padrão de cabeça de cobra
+## O código evolutivo do padrão de serpente
 
-Por que a ponta das asas da mariposa-imperial evoluiu para um padrão tão realista de cabeça de cobra? A resposta é «mimetismo batesiano» (Batesian mimicry), ou seja, imitar um organismo perigoso para afugentar predadores. Em 2006, o académico britânico Hossler registou em detalhe as propriedades ópticas do padrão da ponta das asas da mariposa-imperial, apontando que os efeitos visuais sob diferentes ângulos de luz conseguem confundir eficazmente os predadores. Em 2015, investigadores de Taiwan registaram no Yangmingshan o comportamento defensivo da mariposa-imperial quando atacada por aves, confirmando o efeito dissuasor do bater da ponta das asas contra predadores.
+Não há uma explicação definitiva para o porquê de as pontas das asas anteriores terem o formato de uma cabeça de serpente. Segundo a Wikipédia em chinês, a maioria dos estudiosos acredita que esse padrão serve para evitar predadores, confundindo-os com padrões semelhantes aos de uma cobra naja. [^6] A Wikipédia em inglês cita a obra de Howse (2010), indicando que o movimento das asas da Atlas Moth diante de um predador torna essa semelhança ainda mais evidente. [^5]
 
-Quando aves ou outros predadores se aproximam, a mariposa-imperial bate rapidamente as asas, fazendo o padrão da ponta parecer duas cabeças de cobra a balançar para a esquerda e direita. Este engano visual momentâneo muitas vezes basta para hesitar o predador, ganhando à mariposa-imperial a oportunidade de fuga.
+A descrição do Museu de História Natural de Londres é a mais detalhada: ao se sentir ameaçada, a Atlas Moth cai no chão e começa a se contorcer, batendo as asas lentamente para imitar os movimentos de uma cabeça e pescoço de serpente, assustando o predador. [^4]
 
-Mais subtilmente, este padrão de cabeça de cobra produz diferentes efeitos visuais consoante o ângulo da luz. No escuro sub-bosque, quando a luz solar filtra pelas folhas criando sombras manchadas, a mariposa-imperial imóvel funde-se quase completamente com as folhas secas. Mas basta ser perturbada para que a cabeça de cobra «ganhe vida» de repente.
+## A situação de conservação em Taiwan
 
-## A crise de conservação da mariposa-imperial em Taiwan
+Um relatório de 2025 indica que, devido à destruição ambiental, a Atlas Moth tornou-se mais rara na natureza, sendo possível observá-la apenas em épocas e locais específicos. O "Banco de Árvores Floridas" (Flower Tree Bank) em Dajun, Changhua, está recuperando a espécie em uma área sem pesticidas e com abundância de plantas hospedeiras; o fundador, Kuo Chun-yin, encontrou pelo menos cinco lagartas em plantas de _Litsea cubeba_ (琉球暗羅) preservadas no jardim, sendo que não havia registros anteriores da Atlas Moth utilizando essa planta. [^8]
 
-A mariposa-imperial de Taiwan enfrenta uma grave crise de sobrevivência. Embora não esteja formalmente listada como espécie protegida, as populações selvagens diminuíram visivelmente. As principais ameaças incluem:
+Pesquisas compiladas pela Wikipédia em inglês listam as ameaças comuns às grandes mariposas: mudanças climáticas, captura, poluição luminosa, pesticidas, perda e fragmentação de habitat. [^5] Para a Atlas Moth, o desmatamento das árvores hospedeiras, as luzes noturnas e os agrotóxicos nos pomares afetam diretamente seu único período de alimentação (lagarta) e seu curto período de vida adulta.
 
-A perda de habitat é a ameaça mais direta: grande pressão de desenvolvimento em florestas de baixa e média altitude, expansão de áreas residenciais, industriais e agrícolas comprime o espaço de sobrevivência da mariposa-imperial. Dados de 2020 da Rede de Biodiversidade de Taiwan (TBN) mostram que os registos de avistamento da mariposa-imperial se concentram nas colinas dos condados de Miaoli, Nantou, Hualien, etc., nas áreas urbanizadas praticamente não há registos. A iluminação artificial noturna perturba o sistema de navegação da mariposa-imperial, impedindo o macho de seguir com precisão as feromonas; o uso massivo de pesticidas nas árvores de fruto hospedeiras ameaça diretamente a sobrevivência das lagartas; as alterações climáticas provocam mudanças de temperatura e humidade, afetando o ciclo reprodutivo e a distribuição das plantas hospedeiras. As características do ciclo de vida da mariposa-imperial tornam-na especialmente vulnerável a choques: vida adulta curta, área de atividade limitada, dependência de plantas hospedeiras específicas; estas características são vantagens em ambientes estáveis, mas em ambientes modernos em rápida mudança tornam-se fraquezas.
+## A relação entre humanos e a Atlas Moth
 
-## A mariposa-imperial na cultura popular de Taiwan
+Na década de 1970, a Atlas Moth era criada comercialmente em grande escala em Taiwan; adultos eram usados como espécimes decorativos e casulos para fazer carteiras. Após o declínio da indústria de insetos na década de 1980, as populações selvagens começaram a retornar ao seu estado natural. [^1] Os casulos servem para carteiras devido à sua durabilidade. [^4]
 
-Em Taiwan, a mariposa-imperial tem um nome sonoro: «borboleta-tirano». Embora não seja borboleta, esta designação reflete o respeito das pessoas pelo seu corpo gigante. Nas áreas Hakka circula o ditado «mariposa noturna entra em casa, hóspede nobre chega», a mariposa-imperial a voar para dentro de casa é vista como bom presságio. Na cultura indígena, as grandes mariposas são frequentemente vistas como encarnações de espíritos ancestrais; na lenda Atayal, essas grandes mariposas com padrões de olhos nas asas são os olhos dos antepassados a vigiar a tribo. Hoje, estes «hóspedes nobres» visitam cada vez menos as aldeias de Taiwan.
+Na Índia, a Atlas Moth é criada de forma não comercial para a extração de seda. Essa seda é de cor marrom, com textura semelhante à lã, chamada _fagara_, e é considerada mais durável que a seda do bicho-da-seda comum. [^5][^4] Sobre o monstro Mothra dos filmes da Toho, a Wikipédia em inglês afirma que seu design foi influenciado por mariposas domésticas e grandes mariposas da família Saturniidae; já a Wikipédia em chinês afirma diretamente que ela foi baseada na Atlas Moth. [^9][^6]
 
-## Partilha de nicho ecológico com outras grandes mariposas de Taiwan
+## Outras grandes mariposas de Taiwan
 
-Taiwan tem ainda outras grandes mariposas, cada uma ocupando nichos ecológicos diferentes:
+Taiwan possui outras grandes mariposas, sendo as mais fáceis de identificar três espécies de _Saturniidae_ de cauda longa (_Actias_). As espécies _Actias artemis_ e _Actias stenopa_ são comuns em áreas montanhosas de média e baixa altitude, enquanto a espécie endêmica de Taiwan, _Actias selene_ (姬長尾水青蛾), habita altitudes médias e altas e possui apenas 6 ou 7 cm. [^10] Elas pertencem à mesma família Saturniidae que a Atlas Moth.
 
-A **mariposa-cauda-longa-verde** tem asas verde-claro, a asa posterior tem uma longa cauda, prefere ambientes de maior altitude, a lagarta alimenta-se de plantas da família Fagaceae. A **mariposa-janela-transparente** tem «janelas» transparentes nas asas, área de distribuição sobrepõe-se à da mariposa-imperial, mas prefere mais ambientes de montanha. A **mariposa-andorinha-grande** tem asas em forma de cauda de andorinha, voo rápido, ativa principalmente em média e alta altitude, com pouca competição de habitat com a mariposa-imperial.
+## Proteção do habitat: deixando um céu para a Atlas Moth
 
-Estas grandes mariposas constituem juntas elos importantes do ecossistema noturno de Taiwan. São fonte de alimento para muitas aranhas, aves, morcegos, e simultaneamente polinizadoras de plantas. Estatísticas de 2022 da Rede de Biodiversidade de Taiwan (TBN) mostram que o número de registos de avistamento de grandes mariposas diminuiu cerca de 15% face a 2018, indicando que as populações de insetos noturnos estão a encolher. Perder qualquer uma delas afeta todo o equilíbrio ecológico.
-
-## Proteção de habitat: deixar um pedaço de céu para a mariposa-imperial
-
-Proteger a mariposa-imperial é proteger a biodiversidade das florestas de baixa altitude de Taiwan. O facto de a área de acampamento de Sanwan, Miaoli, conseguir registar a mariposa-imperial mostra que entre a atividade humana moderada e a conservação natural de facto se pode encontrar um ponto de equilíbrio; ambientes semi-artificiais, se bem geridos, podem tornar-se refúgios de vida selvagem. Quanto à redução da poluição luminosa, usar luminárias com iluminação dirigida para baixo, escolher luz amarela a que os insetos são menos sensíveis, tudo ajuda a reduzir a perturbação aos insetos noturnos. Plantar plantas hospedeiras da mariposa-imperial em parques, escolas, áreas residenciais, pode fornecer habitats-trampolim. A participação da ciência cidadã é também crucial: fotógrafos amadores e observadores da natureza a registar locais e horários de ocorrência da mariposa-imperial ajudam a construir dados completos de distribuição populacional.
-
-## Factos surpreendentes
-
-A capacidade sensorial da mariposa-imperial é espantosa: o macho tem mais de 300.000 células olfativas nas antenas, consegue detetar a feromona da fêmea a 10 km de distância, sensibilidade muito superior a qualquer detetor artificial. O nome inglês «Atlas Moth» vem do gigante Atlas da mitologia grega que carregava a Terra, também há quem diga que as linhas nas asas parecem um mapa. A Mothra da série _Godzilla_ foi desenhada tendo a mariposa-imperial como protótipo.
-
-No aproveitamento de materiais, a seda «fagara» feita na Índia com o fio da mariposa-imperial tem densidade 80% superior à seda comum, textura grossa como lã. Em Taiwan, o povo já usou o casulo da mariposa-imperial para fazer pequenas carteiras, de textura resistente e impermeável.
-
-A estratégia reprodutiva da mariposa-imperial também é especial: costuma acasalar apenas uma vez na vida, a fêmea após o acasalamento liberta anti-feromona, impedindo outros machos de se aproximarem. Para poupar reservas de gordura, a mariposa-imperial só voa quando necessário, a maior parte do tempo fica imóvel no tronco da árvore, o padrão das asas funde-se quase completamente com a casca, mesmo a 50 cm de distância é difícil de detetar.
+Proteger a Atlas Moth significa preservar as árvores hospedeiras nas montanhas baixas e reduzir as luzes voltadas para o céu durante a noite. Plantar árvores nativas que servem de alimento às lagartas, como _Solanum nigrum_, _Cissus sicyoides_ ou _Euodia kisoana_, em parques, escolas e áreas residenciais, [^1][^2] equivale a criar degraus para elas nas bordas das cidades. O esforço do "Banco de Árvores Floridas" em recuperar a espécie em áreas sem pesticidas é um exemplo de ação civil possível. [^8] Para aqueles que encontram a Atlas Moth na natureza, fazer o upload de fotos, locais e datas no iNaturalist [^7] é atualmente a principal forma de mapear a distribuição da espécie em Taiwan.
 
 ## Referências
 
-[^1]: [Registos de observação da mariposa-imperial no iNaturalist Taiwan](https://catalog.digitalarchives.tw/item/00/5b/8e/5c.html) — Registos de avistamento e dados de distribuição da mariposa-imperial em Taiwan.
+[^1]: [Atlas Moth | Coleção do Museu Nacional de Ciências Naturais (Catálogo Digital Unificado)](https://catalog.digitalarchives.tw/item/00/5b/8e/5c.html) — Wang Hsiao-yue (1994): população registrada como _A. atlas formosanus_; hospedeiras: _Solanum nigrum_, _Carissa carandas_, _Cissus sicyoides_, _Litsea cubeba_; média de 200 ovos; ciclo de ~70 dias; duas gerações por ano no norte com hibernação como pupa; criação comercial e casulos para carteiras na década de 1970.
 
-[^2]: [Rede de Biodiversidade de Taiwan](https://taieol.tw/pages/107777) — Base de dados de distribuição e espécimes da mariposa-imperial.
+[^2]: [Atlas Moth | Enciclopédia da Vida de Taiwan](https://taieol.tw/pages/107777) — Escrito por Yen Sheng-hung: envergadura de 20 a 30 cm; também chamada de mariposa-cabeça-de-serpente; lagartas alimentam-se de _Cissus sicyoides_, _Euodia kisoana_ e goiabeira.
 
-[^3]: [Agência de Silvicultura e Conservação da Natureza do Ministério da Agricultura](https://news.ltn.com.tw/news/Taipei/breakingnews/5520373) — Políticas e recursos relacionados com a conservação de mariposas em Taiwan.
+[^3]: [Vida adulta dura apenas 1 a 2 semanas! Eclosão da Atlas Moth no Zoológico de Taipé revela padrões de "cabeça de serpente" gigante | Liberty Times](https://news.ltn.com.tw/news/Taipei/breakingnews/5520373) — 28-07-2026, Zoológico de Taipé: distribuição inclui montanhas baixas de Taiwan; seis estágios de lagarta; casulo feito enrolando folhas; fase de pupa de um ou dois meses com capacidade de hibernação; adultos vivem 1 a 2 semanas.
 
-[^4]: [Mariposa-imperial - Wikipédia](https://www.nhm.ac.uk/discover/spotlight-the-atlas-moth.html) — Descrição da morfologia, distribuição e hábitos ecológicos da mariposa-imperial.
+[^4]: [Spotlight: the atlas moth | Natural History Museum](https://www.nhm.ac.uk/discover/spotlight-the-atlas-moth.html) — Museu de História Natural de Londres: envergadura máxima de 27 cm; adultos vivem uma a duas semanas; imita serpente ao cair no chão quando ameaçada; seda _fagara_; casulos usados como carteiras pela durabilidade.
 
-[^5]: [Attacus atlas - Picture Insect](https://en.wikipedia.org/wiki/Attacus_atlas) — Ciclo de vida e características de identificação da mariposa-imperial.
+[^5]: [Attacus atlas | Wikipedia](https://en.wikipedia.org/wiki/Attacus_atlas) — Rankings de envergadura e área de asa; ovos de 2,5 mm; seis estágios de lagarta; lagartas de 11,5 cm; casulos de 7–8 cm; machos detectam feromônios a quilômetros; ameaças às grandes mariposas.
 
-Leitura complementar:
+[^6]: [Atlas Moth | Wikipédia](https://zh.wikipedia.org/zh-tw/皇蛾) — Área de asa de até 400 cm²; chamada de mariposa-cabeça-de-serpente em Hong Kong; visões acadêmicas sobre a função do padrão de serpente; menção ao protótipo de Mothra.
 
-- 《Crónica dos Insetos de Taiwan》 - por Zhang Yong-ren
-- 《Técnicas de Fotografia Ecológica de Insetos Lepidoptera》 - leitura obrigatória para amadores de fotografia
+[^7]: [Attacus atlas | iNaturalist Taiwan](https://taiwan.inaturalist.org/taxa/125071-Attacus-atlas) — Em 10-10-2026, consulta via API pública de 428 registros de pesquisa e identificação em Taiwan.
+
+[^8]: [Mercado Imobiliário / Sin Yi Realty apoia Flower Tree Bank: primeiros resultados da conservação ecológica | NOWnews](https://www.nownews.com/news/6699611) — 25-06-2025: recuperação da Atlas Moth pelo Flower Tree Bank; descoberta de pelo menos 5 lagartas em _Litsea cubeba_; Atlas Moth está mais rara na natureza.
+
+[^9]: [Mothra | Wikipedia](https://en.wikipedia.org/wiki/Mothra) — O design de Mothra foi influenciado por mariposas domésticas e grandes mariposas da família Saturniidae.
+
+[^10]: [Mais onírico que o verde Tiffany! "Actias selene" exclusiva de Taiwan revelada | ETtoday](https://www.ettoday.net/news/20160318/665338.htm) — 18-03-2016, fotógrafo Xue Yang: existem três espécies de mariposas de cauda longa em Taiwan; _Actias selene_ é endêmica e habita altitudes médias/altas; as outras duas são comuns em altitudes médias/baixas.
+
+**Leitura adicional**:
+
+- [Pangolim de Taiwan](/pt/nature/taiwan-pangolin) — Outro animal noturno que habita as montanhas baixas
+- [Conservação do Gato-bravo de Taiwan](/pt/nature/taiwanese-leopard-cat-conservation) — Outra situação sob pressão de desenvolvimento em montanhas baixas
+- [Ecossistema Florestal de Taiwan](/pt/nature/taiwan-forest-ecosystems) — Da floresta de folhas largas de baixa altitude às florestas de coníferas de alta montanha
 
 ---
 
-_A história da mariposa-imperial de Taiwan lembra-nos: neste mundo em rápida mudança, algumas belezas estão a desaparecer silenciosamente. Cada encontro fortuito na montanha pode ser o último. Protegê-las é proteger a nossa própria casa._
+_A história da Atlas Moth de Taiwan nos lembra: neste mundo em rápida mudança, algumas belezas estão desaparecendo silenciosamente. Cada encontro na floresta pode ser o último. Protegê-las é proteger nosso próprio lar._

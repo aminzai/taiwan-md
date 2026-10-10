@@ -1,19 +1,19 @@
 ---
-title: 'A cultura dos bolos e pastéis tradicionais de Taiwan'
-description: 'Desde o bolo fengyan de 1877 da Yuzhenzhai em Lugang até o bolo de gema de ovo de solo vermelho de Chen Yao-xun em 2026 vendido em 30 segundos no sistema de bilhetes Tixcraft, 150 anos de história em camadas da pastelaria de Taiwan. No meio estão a revolução do bolo de abacaxi quadrado da I-Fu-Tang na era japonesa, o experimento do bolo de gema de ovo em forma de azeitona da Baquan em Fengyuan, 270 hectares de abacaxi nativo cultivado por contrato ao pé da Montanha Bagua, a mutação artesanal da massa folhada com óleo, e lojas centenárias de bolos Han dividindo a mesma mesa de meio-outono com campeões mundiais de pão.'
+title: 'A Cultura dos Doces e Bolos de Taiwan'
+description: 'Dos bolos Fengyan da Yu Zhen Zhai (Lukang, 1877) aos ovos salgados de Chen Yao-xun, esgotados em 30 segundos: 150 anos de história da confeitaria de Taiwan.'
 date: 2026-05-03
 category: 'Food'
 tags:
   [
-    'bolos e pastéis',
-    'bolos Han',
-    'bolo de abacaxi',
-    'bolo de gema de ovo',
-    'bolo solar',
-    'meio-outono',
-    'lembranças',
-    'massa folhada com óleo',
-    'cultura alimentar',
+    'confeitaria',
+    'bolo tradicional',
+    'pineapple cake',
+    'bolo de gema de ovo salgada',
+    'sun cake',
+    'Festival do Meio Outono',
+    'lembrança',
+    'massa folhada',
+    'cultura gastronômica',
   ]
 subcategory: '烘焙與甜點'
 author: 'Taiwan.md'
@@ -21,171 +21,173 @@ featured: false
 lastVerified: 2026-05-03
 lastHumanReview: false
 translatedFrom: 'Food/台灣糕餅文化.md'
-sourceCommitSha: '93c5da2ca'
-sourceContentHash: 'sha256:18a6dcd21c7afdcc'
-sourceBodyHash: 'sha256:736db188fea407ed'
-translatedAt: '2026-10-10T08:30:17.432376+00:00'
+sourceCommitSha: '89dff79c1'
+sourceContentHash: 'sha256:da156bdcc66f3839'
+sourceBodyHash: 'sha256:0ccf3caa8312faf1'
+translatedAt: '2026-10-11T01:05:48+08:00'
 ---
 
-# A cultura dos bolos e pastéis tradicionais de Taiwan
+# A Cultura dos Doces e Bolos de Taiwan
 
-> **Visão geral em 30 segundos:** A Yuzhenzhai de Lugang abriu em 1877, no período Guangxu da dinastia Qing, no cruzamento das ruas Minzu e Zhongshan, fundada em conjunto por Huang Jin e Zheng Chui, e a quinta geração ainda vende bolo fengyan e bolo de feijão-mungo[^1]. O bolo de malte da loja Kunpai em Shenkan, melhorado pelo aprendiz Wei Qing-hai, passou a chamar-se bolo solar[^2]. A terceira geração da Baquan em Fengyuan, Chen Zeng-xiong, desenvolveu o bolo de gema de ovo nos anos 1980, inicialmente com casca de abacaxi em formato de azeitona[^3]. A técnica de mil camadas de «massa de óleo envolvendo massa folhada», nos anos 2020, sustenta as 400 mil unidades diárias de bolo de coração líquido da Santung Han Confectionery, a colaboração «Momentos de Acompanhamento» da Kuo Yuan Ye com o designer Nieh Yung-chen, e a incursão transversal de 2026 da Jiou Zhen Nan com o «Gelato de bolo Han»[^16]. Ao pé da Montanha Bagua, a SunnyHills plantou em 2009 270 hectares de abacaxi nativo por contrato a 5 NT$ o jin[^4]. Chen Yao-xun, natural de Lugang, venceu em 2017 o Mondial du Pain de pão mundial, e seu bolo de gema de ovo de solo vermelho esgota no sistema Tixcraft em 30 segundos[^5]. Em 150 anos trocaram-se inúmeros rostos, mas as camadas do recheio permaneceram essencialmente iguais.
+> **Resumo em 30 segundos:** A Yu Zhen Zhai (玉珍齋), de Lukang, abriu em 1877 (dinastia Qing) no cruzamento das ruas Minzu e Zhongshan; fundada por Huang Jin e Zheng Chui, a loja ainda vende os bolos Fengyan e de feijão-mungo pela quinta geração[^1]. O bolo de malte de Shengang, após ser aperfeiçoado pelo aprendiz Wei Qing-hai, passou a ser chamado de Sun Cake (太阳饼)[^2]. Na década de 1980, Chen Zeng-xiong, da terceira geração da Bao Quan (宝泉) em Fengyuan, desenvolveu o bolo de gema de ovo salgada, que originalmente tinha formato de oliva com massa de abacaxi[^3]. A técnica de camadas de "massa oleosa envolvendo massa folhada" sustenta hoje o sucesso de produtos como os bolos de recheio fluido da San Tong (三統漢菓子), que vendem 400.000 unidades por dia, a colaboração entre Guo Yuan Yi (郭元益) e o designer Nie Yong-zhen, e o "Gelato de Bolos Tradicionais" da Jiu Zhen Nan (旧振南) previsto para 2026[^16]. Sob as colinas Bagua, a SunnyHills (微热山丘) cultivou 270 hectares de abacaxis nativos em 2009, pagando NT$5 por jin[^4]. O natural de Lukang, Chen Yao-xun, tornou-se campeão mundial de panificação no Mondial du Pain em 2017[^24], e seu bolo de gema de ovo salgada com terra vermelha esgota em menos de 30 segundos após o lançamento[^5]. Em 150 anos, as faces mudaram inúmeras vezes, mas a essência das camadas de recheio permanece.
 
-## 1877, aquele soalho de sótão do período Guangxu
+## O assoalho do sótão da era Qing em 1877
 
-No segundo andar do nº 168 da Rua Minzu em Lugang, existe um soalho de sótão do período Guangxu da dinastia Qing, sobre ele uma mesa de madeira, sobre a mesa um pedaço de bolo de feijão-mungo. A receita deste bolo foi lapidada ao longo de 148 anos por cinco gerações da Yuzhenzhai.
+No segundo andar da Rua Minzu, nº 168, em Lukang, há um assoalho de madeira que remonta à era de Guangxu, na dinastia Qing. Sobre uma mesa de madeira nesse local, repousa um bolo de feijão-mungo. A receita deste doce foi lapidada ao longo de 148 anos por cinco gerações da Yu Zhen Zhai.
 
-Sabes, este edifício da Yuzhenzhai não é uma casa velha comum. O seu antecessor era o antigo local da «Chuanheli», a maior casa de comércio fluvial de Lugang na época Qing, e ainda hoje se veem as claraboias e o sótão de madeira da época[^6]. Em 1877 (terceiro ano de Guangxu), o rico comerciante Huang Jin, amante de poesia, costumava receber literatos com chá e doces. Zheng Chui atravessou o mar trazendo sua arte de bolos e pastéis, e fundou com Huang Jin a «Yuzhenzhai»[^1]. Mais tarde separaram-se, Zheng Chui abriu ao lado a «Zheng Yuzhen Bakery», e assim a zona da Rua Zhongshan em Lugang passou a ter duas lojas centenárias com o caractere «Yu» convivendo até hoje.
+Você sabia que o edifício da Yu Zhen Zhai não é apenas uma casa antiga comum? Ele ocupava o antigo local da "Quan He Li" (泉合利), a maior empresa de transporte marítimo de Lukang durante a dinastia Qing; ainda é possível ver as claraboias e o sótão de madeira originais[^6]. Em 1877 (terceiro ano de Guangxu), o rico comerciante de Lukang, Huang Jin, que amava poesia, costumava servir doces para intelectuais. Zheng Chui chegou a Taiwan trazendo sua maestria na confeitaria e uniu-se a Huang Jin para fundar a "Yu Zhen Zhai"[^1]. Posteriormente, os dois se separaram; Zheng Chui abriu a "Zheng Yu Zhen" ao lado, fazendo com que a área da Rua Zhongshan em Lukang tivesse duas lojas centenárias com o caractere "Yu" (玉) coexistindo até hoje.
 
-O bolo fengyan é feito pressionando farinha de bolo para criar linhas delicadas, que se dissolvem lentamente na boca, sendo o acompanhamento de chá nas trocas comerciais das oito zonas rurais de Lugang na época Qing. A geografia de Lugang determinou a sua doçura. No final do século XVIII, «uma prefeitura, duas Lugang, três Bangka» — Lugang era um importante entreposto de importação de açúcar de Quanzhou, Xiamen e Fuzhou, o preço do açúcar era mais barato que noutros lugares, e a pastelaria desenvolveu-se naturalmente[^6]. A Yuzhenzhai é apenas uma das lojas que sobreviveu nesta rua de bolos Han.
+O bolo Fengyan (凤眼糕) é feito com massa de arroz prensada em linhas delicadas que derretem na boca, sendo o acompanhamento clássico para o chá dos comerciantes da região de Bajiao em Lukang durante a dinastia Qing. A geografia de Lukang determinou sua doçura. No final do século XVIII, Lukang era um importante entreposto para a importação de açúcar de Quanzhou, Xiamen e Fuzhou; com o açúcar mais barato que em outros lugares, a confeitaria floresceu[^6]. A Yu Zhen Z斋 é apenas uma das lojas dessa rua de bolos tradicionais que resistiu ao tempo.
 
-Quando a terceira geração assumiu, as caixas de presente da loja entraram no mercado nupcial. Os lugangenses prezam os seis ritos e doze presentes, a caixa de bolos de alegria é o objeto concreto que anuncia a aliança de duas famílias. Uma caixa de bolo grande entregue à família da noiva, e a viela inteira sabe que certa casa vai casar a filha.
+Quando a terceira geração assumiu, as caixas de presente entraram no mercado de casamentos. O povo de Lukang segue ritos matrimoniais rigorosos, e as caixas de doces são objetos concretos que anunciam a aliança entre duas famílias. Quando uma caixa de bolo grande chegava à casa da noiva, todo o beco sabia que aquela família estava casando uma filha.
 
-A quinta geração ainda trabalha naquele sótão centenário. A receita não mudou, a proporção de açúcar e maltose não mudou, a loja ainda oferece moldes de madeira antigos de porco, galinha e peixe para experiência DIY dos turistas[^1].
+A quinta geração ainda trabalha naquele sótão centenário. A receita não mudou, a proporção de açúcar e malte também não, e a loja ainda oferece moldes de madeira antigos para que os visitantes experimentem o processo de DIY[^1].
 
-## Aquele bolo de malte na rua de Shenkan
+## O bolo de malte na rua de Shengang
 
-Um pouco mais a sul, Shenkan em Taichung. Na era japonesa havia aqui uma rua de pastelaria, a mais famosa era a «Kunpai Bakery» da família Lin Zhen-fang, especializada em bolo de malte[^2]. O maltose cozido até ficar espesso e com aroma tostado, envolto em massa folhada, era o doce tradicional usado em casamentos, festas e feiras de templo dos shenkangenses.
+Um pouco mais ao sul, em Shengang, Taichung. Durante o período colonial japonês, havia uma rua de doces onde a mais famosa era a "Kun Pai" (崑派餅店), da família Lin Zhen-fang, especializada em bolos de malte[^2]. O açúcar de malte era cozido até ficar espesso e aromático, sendo envolto em massa folhada; era o doce tradicional usado em casamentos, festivais e festas de templos em Shengang.
 
-A Kunpai tinha um aprendiz chamado Wei Qing-hai, conhecido como «Mestre A-ming». Aprendeu na Kunpai o método tradicional do bolo de malte, e começou a pensar como melhorar — tornar a massa de óleo mais folhada, ajustar a doçura do recheio de maltose para não ficar enjoativo, dar formato mais redondo e pequeno, prático para uma pessoa comer uma peça de uma vez.
+A Kun Pai tinha um aprendiz chamado Wei Qing-hai, conhecido como "Mestre A-Ming". Após aprender a técnica tradicional, ele começou a pensar em melhorias: tornar a massa mais crocante, ajustar a doçura do malte para não ser enjoativa e fazer o formato menor e mais redondo, facilitando o consumo individual.
 
-Após melhorar, batizou este bolo de «bolo solar».
+Após as melhorias, ele nomeou o doce como "Sun Cake" (太阳饼).
 
-O nome «bolo solar» difundiu-se depois dos anos 1950, quando junto à estação de Taichung uma rua inteira era de lojas de bolo solar, viajantes compravam como lembrança para levar ao norte e ao sul, e assim «especialidade de Taichung» ficou ligado ao bolo solar[^2].
+O nome Sun Cake popularizou-se após a década de 1950, quando uma rua próxima à estação de Taichung era repleta de lojas desse tipo. Os viajantes compravam como lembrança para o norte ou sul, e assim os termos "especialidade de Taichung" ficaram ligados ao Sun Cake[^2].
 
-O Mestre A-ming não registou marca. Depois o bolo solar tornou-se item genérico que qualquer loja de Taichung podia fazer; uns dizem que foi pena do Mestre A-ming, outros dizem que justamente por não ter fechado a receita o bolo solar pôde tornar-se a verdadeira memória coletiva de Taichung.
+O Mestre A-Ming não registrou a marca. Com o tempo, o Sun Cake tornou-se um item comum que todas as padarias de Taichung podiam fazer. Alguns dizem que foi uma perda por ele não ter protegido a receita, mas outros argumentam que foi justamente por não ter "trancado" a fórmula que o Sun Cake se tornou uma memória coletiva real de Taichung.
 
-## A cubificação do grande bolo de abacaxi
+## A revolução do abacaxi em cubos
 
-Saltamos para o norte. Na era japonesa, entre Taipé e Taichung havia a «I-Fu-Tang Confectionery», do proprietário Chen Chou-cai. Nessa altura a indústria de cultivo de abacaxi de Taiwan estava em pleno desenvolvimento, o abacaxi era exportado para o Japão metropolitano, Chen Chou-cai cozinhou a polpa em molho, envolveu no tradicional «grande bolo de abacaxi» redondo, tornando-se o doce favorito dos senhores japoneses[^7].
+Indo para o norte. Durante o período colonial japonês, entre Taipei e Taichung, operava a confeitaria "Yi Fu Tang" (一福堂), de propriedade de Chen Zhou-cai. Naquela época, a indústria de abacaxi em Taiwan estava em plena expansão; com o abacaxi sendo exportado para o Japão, Chen Zhou-cai cozinhou a polpa em forma de geleia e a envolveu no tradicional "Grande Bolo de Abacaxi" redondo, tornando-se o doce favorito da elite japonesa[^7].
 
-Este grande bolo de abacaxi é o protótipo do bolo de abacaxi atual.
+Este Grande Bolo de Abacaxi é o protótipo do Pineapple Cake (鳳梨酥).
 
-Quem realmente transformou o bolo de abacaxi no pequeno quadrado que hoje conhecemos foi outro artesão, **Yen Shu-mu**. Fez duas coisas: reduziu o grande bolo redondo a formato quadrado (tamanho da palma da mão, fácil de dividir), substituiu a casca do grande bolo tradicional por uma casca de biscoito amanteigado à base de manteiga[^7]. O recheio manteve o molho de abacaxi com melão de inverno. Esta combinação de abacaxi com melão de inverno é crucial, porque o molho puro de abacaxi é demasiado ácido, a doçura limpa do melão de inverno harmoniza-se com a acidez do abacaxi, criando o «equilíbrio ácido-doce» característico do bolo de abacaxi[^8].
+Quem realmente transformou o Pineapple Cake nos pequenos cubos que conhecemos hoje foi outro artesão: **Yan Shu-mu** (顏樹木). Ele fez duas coisas: reduziu o tamanho do bolo redondo para um formato cúbico (tamanho de uma palma, fácil de compartilhar) e substituiu a massa tradicional por uma massa tipo biscoito à base de manteiga[^7]. O recheio manteve a mistura de abacaxi com melão de inverno. Essa combinação é crucial: como o purê de abacaxi puro é muito ácido, a doçura suave do melão equilibra a acidez, criando o perfil "agridoce" característico do Pineapple Cake atual[^8].
 
-Do grande bolo redondo ao pequeno quadrado, foi uma redefinição do «peso do presente». Antigamente o grande bolo de alegria prezava o «um bolo basta para a família toda dividir» pela imponência; o quadrado é «uma pessoa, uma mordida» pela individualização. Gerações posteriores descobririam que esta lógica de cubificação antecipou a viragem de toda a indústria de pastelaria de Taiwan no mercado de lembranças.
+A transição do bolo redondo para o cubo foi uma redefinição do "peso do presente". Antigamente, os bolos de casamento focavam na grandiosidade de "um bolo para toda a família"; o Pineapple Cake em cubos foca na individualidade de "uma mordida por pessoa". As gerações seguintes perceberiam que essa lógica de "cubificação" antecipou a mudança de toda a indústria de doces de Taiwan para o mercado de presentes e lembranças.
 
-## O experimento inicial em formato de azeitona
+## Os experimentos iniciais em formato de oliva
 
-Tempo salta para os anos 1980. A terceira geração da Baquan em Fengyuan, Chen Zeng-xiong, preparava-se para assumir a loja que vendia bolos desde a era japonesa[^15].
+Saltando para a década de 1980. Chen Zeng-xiong, da terceira geração da Bao Quan (宝泉) em Fengyuan, precisava assumir o negócio de seu pai, que vendia doces desde o período colonial japonês[^15].
 
-A história da Baquan cruza Taiwan e Japão. Na era japonesa, a primeira geração Chen Yun vendia bolos na rua triangular do centro de Fengyuan; em 1943 a segunda geração Chen Chin-chuan abriu em Tóquio a «Housen Seika Honpo»; em 1975 Chen Zeng-xiong regressou a Fengyuan e fundou a «Taiwan Baquan Head Store», fundindo a técnica de confeitaria japonesa com a tradição dos bolos Han de Taiwan[^15].
+A história da Bao Quan atravessa Taiwan e o Japão. Na era colonial, a primeira geração, Chen Yun, vendia doces na rua Sanjia, em Fengyuan; em 1943, a segunda geração, Chen Jin-quan, abriu a "Bao Quan Seika Honpo" em Tóquio; em 1975, Chen Zeng-xiong retornou a Fengyuan para fundar a "Taiwan Bao Quan Honpo", fundindo as técnicas de confeitaria japonesa com a tradição dos bolos taiwaneses[^15].
 
-O seu primeiro experimento foi o «pequeno bolo lunar» — reduziu o grande bolo lunar tradicional a tamanho adequado para uma pessoa comer de uma vez, recheio com feijão branco japonês importado. Mas o que realmente mudou o mapa das caixas de meio-outono de Taiwan foi outro bolo: **o bolo de gema de ovo**.
+Seu primeiro experimento foi o "Pequeno Bolo da Lua" — reduzir o tamanho do bolo tradicional para uma porção individual, usando feijão branco importado do Japão. Mas o que realmente mudou o mapa dos presentes de Meio Outono em Taiwan foi outro item: o **bolo de gema de ovo salgada** (蛋黃酥).
 
-A revista _Bakery Food Information_ de agosto de 1986 regista que o inventor do bolo de gema de ovo é Chen Zeng-xiong[^13]. O mestre nacional Lu Hung-yu recorda a origem nos anos 1960, **o formato original era de azeitona, não esférico**, após pronto cortava-se ao meio revelando a gema salgada no interior, a casca era de abacaxi e não de massa folhada com óleo[^9]. Só depois evoluiu lentamente para o atual formato esférico + massa folhada com óleo.
+Segundo a revista _Baking Food Information_ de agosto de 1986, o inventor do bolo de gema de ovo salgada foi Chen Zeng-xiong[^13]. O mestre nacional Lü Hong-yu relembrou que, nos anos 1960, o doce era **originalmente em formato de oliva, não esférico**, e era cortado ao meio para revelar a gema salgada; a massa era do tipo abacaxi (pineapple crust) e não folhada[^9]. Só mais tarde evoluiu para a versão esférica com massa folhada que conhecemos.
 
-Os três parâmetros artesanais chave ajustados por Chen Zeng-xiong: a gema salgada deve ser pré-tratada com imersão em álcool forte para tirar o cheiro e depois assada a temperatura média; a pasta de feijão preto deve ser cozida em fogo lento trazendo aroma defumado; a proporção de farinha e óleo na massa folhada deve ser medida com precisão[^9]. Estes três parâmetros mantêm-se até hoje.
+Chen Zeng-xiong refinou três processos cruciais: o pré-tratamento da gema salgada (mergulhar em licor para remover o odor antes de assar em temperatura média), o cozimento lento do feijão preto com pasta de feijão para conferir um toque defumado, e a proporção exata entre farinha e gordura na massa folhada[^9]. Esses parâmetros são usados até hoje.
 
-A quarta geração Chen Kun-hong estudou no Japão, trazendo de volta a precisão do wagashi. Em 2013 a Baquan mudou o nome para «Chen Yun Baquan», colocando o nome da primeira geração Chen Yun na placa — movimento inverso raro numa empresa familiar centenária, normalmente o nome do fundador vai-se apagando, esta casa resgatou-o de volta[^15].
+A quarta geração, Chen Kun-hong, estudou no Japão, trazendo o refinamento dos _wagashi_ japoneses para Fengyuan. Em 2013, a Bao Quan mudou o nome para "Chen Yun Bao Quan", incluindo o nome da primeira geração — um movimento raro em empresas familiares centenárias, que geralmente diluem o nome dos fundadores; esta, pelo contrário, o resgatou[^15].
 
-## A mutação artesanal da massa de óleo envolvendo massa folhada
+## A mutação técnica: massa oleosa envolvendo massa folhada
 
-Para entender por que nos anos 2020 a pastelaria de Taiwan consegue cruzar fronteiras criando bolo de coração líquido, colaborando com designers em bolos de feijão-mungo de formas fofas, e até produzindo «gelato de bolo Han», é preciso primeiro dissecar a característica artesanal mais central do bolo Han: **a massa de óleo envolvendo massa folhada**.
+Para entender por que a confeitaria de Taiwan nos anos 2020 consegue criar bolos com recheio fluido, colaborações de design e até "Gelato de Bolos Tradicionais", é preciso decompor a característica central da confeitaria tradicional: **massa oleosa envolvendo massa folhada** (油皮包油酥).
 
-A massa folhada do bolo Han não depende de fermento nem de aditivos químicos, apoia-se no empilhamento físico. O mestre primeiro usa farinha de glúten médio, água e gordura para amassar uma bola elástica de «massa de óleo», depois mistura farinha de glúten baixo com gordura formando uma bola solta de «massa folhada». Em seguida, a massa de óleo envolve a massa folhada, dobrando e laminando repetidamente — entre cada camada de massa de óleo há uma fina camada de massa folhada. Na alta temperatura do forno, a água na massa de óleo evapora em vapor, empurrando as camadas de farinha, surgindo assim a estrutura delicada de centenas ou milhares de camadas[^17].
+A massa folhada dos bolos tradicionais não depende de fermento ou aditivos químicos, mas de sobreposição física. O mestre usa farinha de trigo média, água e gordura para criar uma "massa oleosa" (油皮) elástica; depois, mistura farinha de baixa proteína com gordura para criar uma "massa folhada" (油酥) solta. A massa oleosa envolve a folhada, sendo dobrada e laminada repetidamente — entre cada camada de massa oleosa existe uma fina película de massa folhada. Ao assar em alta temperatura, a umidade na massa oleosa evapora, expandindo as camadas e criando centenas de microestruturas delicadas[^17].
 
-Esta estrutura tem enorme capacidade de carga. Consegue envolver pasta de feijão-mungo húmida, carne cozida brilhante, envolver as camadas de gema salgada e pasta de feijão preto, e até envolver o «núcleo líquido» mais difícil da confeitaria moderna. O problema dos doces ocidentais de núcleo líquido é que o recheio líquido penetra na casca amolecendo-a, mas os mestres de Taiwan aproveitam a característica das mil camadas para criar uma barreira natural — retém a humidade e a gordura do recheio interno, mantendo a casca externa crocante.
+Essa estrutura tem uma capacidade de contenção incrível. Ela consegue envolver o feijão-mungo úmido, o porco cozido brilhante, as camadas de gema salgada e pasta de feijão, e até o difícil "recheio líquido" da confeitaria moderna. O problema dos recheios líquidos ocidentais é que a umidade penetra na massa, deixando-a mole; mas os mestres taiwaneses usam as camadas para criar uma barreira natural — retendo a umidade e gordura do recheio enquanto mantêm a casca crocante.
 
-A **Santung Han Confectionery** é o caso representativo desta linha artesanal. Esta loja de 40 anos, em 2020, durante a pandemia de COVID-19, viu o faturamento diário de uma única loja cair para 2.000 NT$, a diretora de marketing Chou Shih-ya (conhecida no meio como «Chefe Fei-fei») liderou a equipa numa transformação digital completa: desenvolveu novos produtos com maior prazo de validade, construiu site próprio com SHOPLINE, posicionou-se em plataformas de comércio eletrónico[^21]. O seu bolo de coração líquido criou o recorde de média de 1 caixa vendida a cada 17 segundos, pico diário de 400 mil unidades, permitindo à Santung faturar mais de 100 milhões em três anos[^21].
+A **San Tong (三統漢菓子)** é o exemplo principal desta linhagem. Esta loja de 40 anos viu seu faturamento diário cair para apenas NT$2.000 durante a pandemia de COVID-19 em 2020. A diretora de marketing, Zhou Shi-ya (conhecida como "Baniang Feifei"), liderou uma transformação digital completa: desenvolveu produtos com maior vida útil, criou um site próprio via SHOPLINE e expandiu para o e-commerce[^21]. Seus bolos de recheio fluido bateram recordes, vendendo uma caixa a cada 17 segundos e alcançando 400.000 unidades em um único dia, levando a empresa a faturar centenas de milhões em três anos[^21].
 
-A **Kuo Yuan Ye** segue outra rota. A quinta geração Kuo Chien-wei entrou na empresa familiar em 2009, foi designada sucessora em 2016[^22]. Estudou no Japão cerca de três anos visitando lojas centenárias de wagashi, ao regressar mudou a estratégia de «ocupar três quartos do mercado de bolos de alegria» para festas e lembranças, começou a miniaturizar e refinar o gigante bolo de feijão-mungo. Colaborou com o designer Nieh Yung-chen no «Momentos de Acompanhamento» de bolo de feijão-mungo, rompendo a limitação de molde de face única e sabor único; outra série transformou o bolo de feijão-mungo nas formas do pássaro azul de Taiwan, do Templo Longshan e outros marcos locais[^23]. «Não somos apenas uma loja de bolos Han» — frase que repetiu em várias entrevistas[^22].
+A **Guo Yuan Yi (郭元益)** seguiu outro caminho. A quinta geração, Guo Jian-wei, entrou na empresa familiar em 2009 e foi designado sucessor em 2016[^22]. Após estudar quase três anos no Japão visitando lojas centenárias de _wagashi_, ele mudou a estratégia: de "dominar o mercado de casamentos" para "festivais e lembranças", tornando os bolos de feijão-mungo gigantes menores e mais refinados. Sua colaboração com o designer Nie Yong-zhen criou a linha "Ban Dian Shi Guang" (伴點時光), que rompeu as limitações de moldes simples e sabores únicos; outras séries transformaram os doces em ícones locais, como o pássaro azul de Taiwan ou o Templo Longshan[^23]. "Não somos apenas uma loja de bolos tradicionais", ele afirmou em várias entrevistas[^22].
 
-A **Jiou Zhen Nan** trilha uma terceira via: educação cultural. Fundada em 1890 em Kaohsiung, em 2016 criou no distrito de Daliao o «Museu Cultural do Bolo Han», edifício de três andares com 4.421 m² reunindo sede empresarial, museu da marca, cozinha de pastelaria, espaço de experiência cultural de panificação[^16]. O presidente Li Hsiung-ching promove a via da educação alimentar, convidando alunos de zonas remotas de Kaohsiung para visita e experiência, já abrangendo 8 distritos, 26 escolas, cerca de 600 alunos.
+A **Jiu Zhen Nan (舊振南)** seguiu um terceiro caminho: educação cultural. Fundada em 1890 em Kaohsiung, a empresa estabeleceu em 2016 o "Museu da Cultura de Bolos Tradicionais" em Daliao. O edifício de três andares e 4.421 m² abriga a sede, um museu da marca, uma cozinha de confeitaria e um espaço de experiência cultural[^16]. O presidente Li Xiong-qing promove a educação alimentar, convidando alunos de áreas remotas de Kaohsiung para visitas, abrangendo quase 600 estudantes de 26 escolas em 8 distritos.
 
-Em abril de 2026, a Jiou Zhen Nan lançou uma incursão transversal ainda mais ousada — o inédito em Taiwan «Gelato de bolo Han», transformando sabores clássicos como bolo de abacaxi, bolo de feijão-mungo, em gelato italiano, 4 sabores fixos (Feng He Ri Li, Peng Jian Jing Dian, Liang Chen Mei Jing, Cha Yu Hua Xiang) + 2 sazonais, estreia no Taichung Hanshin Arena Shopping Plaza, segundo trimestre planeia entrar no Taipei Far Eastern Garden City (SOGO Taipei Dome)[^18]. No mesmo período ativou plano de expansão de 20 lojas em toda a ilha[^19].
+Em abril de 2026, a Jiu Zhen Nan lançará uma inovação ousada: o "Gelato de Bolos Tradicionais" (漢餅 Gelato), traduzindo sabores clássicos como Pineapple Cake e bolo de feijão-mungo para o formato de gelato italiano. Com quatro sabores permanentes e dois sazonais, a estreia será em Taichung, com planos para Taipei no segundo trimestre[^18]. Simultaneamente, iniciará um plano de expansão para 20 lojas em todo o país[^19].
 
-Esta camada artesanal de massa de óleo envolvendo massa folhada, da dinastia Qing a 2026 — sustenta um bolo de coração líquido de 5 cm, um bolo de feijão-mungo colaborado com designer, um gelato italiano. A técnica mais teimosa da tradição costuma ser a solução mais elegante para os problemas contemporâneos.
+A técnica de "massa oleosa envolvendo massa folhada" persiste da dinastia Qing até 2026 — ela sustenta desde um bolo de recheio fluido de 5 cm até um gelato artesanal. As técnicas mais tradicionais são, muitas vezes, as soluções mais elegantes para os problemas contemporâneos.
 
-## O ritual de oferecer chá na Montanha Bagua
+## O ritual do chá nas colinas Bagua
 
-Atravessamos para Nantou. Em 2009, o fundador da antiga Phison Electronics, **Hsu Ming-jen**, para ajudar a família a transitar para a agroindústria, juntou-se ao irmão Hsu Sheng-ming, Lan Sha-chung e Lan Hung-jen, quatro pessoas investindo 80 milhões de capital, fundaram a «SunnyHills»[^4].
+Indo para Nantou. Em 2009, o fundador da Qian Quan Ding Technology, **Xu Ming-ren** (許銘仁), junto com seus irmãos e sócios, investiu NT$80 milhões para fundar a **SunnyHills (微熱山丘)**[^4].
 
-O seu consultor Hsieh Chen-shun batizou «Sunny» (微熱) — referindo-se ao calor residual que a terra ao pé da Montanha Bagua emite ao entardecer, e à hospitalidade contida mas calorosa dos montanheses. Hsieh Chen-shun, contra opiniões, sugeriu usar o abacaxi abundante na Montanha Bagua para fazer bolo de abacaxi, mas com o diferente «abacaxi nativo» (conhecido como «Tu-mu-a», variedades Kaoying nº 2 e nº 3). O abacaxi nativo tem acidez e aroma frutado, insistiram em usar apenas maltose para controlar o doce, a acidez deixada ao material variar consoante a estação sem ajustes[^4].
+O consultor Xie Zhen-shun nomeou a marca "SunnyHills" — referindo-se ao calor suave que emana das colinas Bagua ao entardecer, refletindo o calor hospitalar, mas reservado, das pessoas da montanha. Apesar das críticas, ele sugeriu usar o abacaxi local das colinas Bagua para os bolos, mas especificamente a variedade "nativa" (conhecida como _Tu Fengli_)[^4]. O abacaxi nativo tem acidez e aroma frutado; eles insistiram em usar apenas açúcar de malte para controlar a doçura, deixando a acidez variar naturalmente com as estações[^4].
 
-Esta escolha tornou a SunnyHills um _outlier_ no meio dos bolos de abacaxi de Taiwan. Na altura, o mercado usava abacaxi Gold Diamond (variedade comestível) de alto doce e fibra fina; o nativo é demasiado ácido e tem fibra grossa, considerado inadequado para recheio. A aposta da SunnyHills: **voltar à acidez que o abacaxi originalmente devia ter**.
+Essa escolha tornou a SunnyHills um _outlier_ no mercado. Enquanto o padrão era o abacaxi "Golden Diamond" (doce e de fibra fina), o nativo era considerado muito ácido e fibroso para recheios. A aposta da SunnyHills foi: **retornar à acidez original do abacaxi**.
 
-O ritual de oferecer chá na casa de três pátios (sanheyuan) de Nantou é a cena mais distintiva da marca. Cada cliente que entra recebe uma chávena de chá quente + um pedaço de bolo de abacaxi para provar, já comeu antes de pagar. Este ritual mantém-se desde 2009, operação rara de «provar antes de comprar» nas pastelarias de Taiwan.
+O ritual de servir chá na entrada das casas tradicionais (_sanheyuan_) é a cena mais icônica da marca. Cada visitante recebe uma xícara de chá quente e um pedaço de Pineapple Cake para degustação antes mesmo de pagar. Esse ritual, mantido desde 2009, é uma rara prática de "comer antes de comprar" em Taiwan.
 
-O impacto mais concreto é agrícola. A SunnyHills aqueceu o preço do abacaxi nativo, de menos de 5 NT$ o jin inicialmente, subiu para 10 NT$ o jin no preço de contrato, área contratada de 270 hectares, emprega 210 funcionários locais[^4]. Este número no setor agroindustrial de Taiwan não é pequeno, equivale a puxar de volta ao mercado principal uma variedade nativa que parecia destinada a desaparecer.
+O impacto agrícola foi real. A SunnyHills elevou o preço do abacaxi nativo: de menos de NT$5 por jin no início para um preço de contrato de NT$10 por jin, com 270 hectares cultivados e 210 empregos locais criados[^4]. Para uma empresa agrícola em Taiwan, esse número é significativo, pois trouxe uma variedade local quase extinta de volta ao mercado principal.
 
-## A Grande Batalha do Mid-Autumn Festival Vendida em 30 Segundos
+## A batalha do Meio Outono: esgotado em 30 segundos
 
-O tempo avança para 2017. Um jovem de Lukang chamado **Chen Yao-xun** venceu o sexto Mondial du Pain, o Campeonato Mundial de Pães[^5]. O concurso mundial de pães é uma competição técnica de pães europeus organizada na França, e é raro um atleta asiático vencer.
+Chegamos a 2017. Um jovem de Lukang chamado **Chen Yao-xun** tornou-se campeão mundial no Mondial du Pain, na França[^24].
 
-Ao retornar a Taiwan, Chen Yao-xun fundou sua marca de panificação pessoal, "Chen Yao-xun・Bakery YOSHI BAKERY", em Taipé[^11]. A primeira coisa que ele fez foi misturar a técnica europeia do pão premiada mundialmente com a massa salgada tradicional chinesa (Hanjbing) de Taiwan para desenvolver um kit de presentes do Mid-Autumn Festival chamado "Red Earth Salted Egg Yolk Pastry" (紅土鹹蛋黃蛋黃酥)[^10].
+Após sua experiência com a "Paris Bobo" em Kaohsiung, ele abriu sua marca pessoal em Taipei: "**Chen Yao-xun • YOSHI BAKERY**"[^24][^11]. Ele fundiu as técnicas de panificação europeia com a tradição taiwanesa para criar o presente de Meio Outono: o "Bolo de Gema Salgada com Terra Vermelha" (紅土蛋黃酥)[^10].
 
-Gema de ovo salgada em conserva da Terra Vermelha + doce de feijão com baixo teor de açúcar + manteiga campeã holandesa.
+Gema salgada curada em terra vermelha + pasta de feijão com baixo teor de açúcar + manteiga de campeã dinamarquesa.
 
-No primeiro ano que este combo foi lançado, Chen Yao-xun alcançou o status de "Hermès do setor de gema de ovo" — esgotado em menos de 30 segundos[^10]. Os internautas começaram a dizer que era mais difícil de conseguir do que ingressos para shows. A pré-venda do Mid-Autumn Festival de 2025, assim como antes, foi realizada no sistema de vendas de Tuanyuan (o mesmo sistema usado para os shows de Mayday e Jay Chou), com início em 29 de julho às 12h30, limitado a 8 caixas por pessoa, pelo preço de NT$900, sem entrega, exigindo retirada na loja[^11].
+Essa combinação elevou Chen Yao-xun ao status de "Hermès dos bolos de gema salgada" — esgotando em menos de 30 segundos após o lançamento[^10]. Internautas dizem que é mais difícil de conseguir do que ingressos para shows. Em 2025, a pré-venda seguirá o sistema de ingressos T-Rex (o mesmo de shows de grandes artistas), com limite de 8 caixas por pessoa e retirada obrigatória na loja[^11].
 
-Este é um formato de grande batalha do Mid-Autumn Festival de uma nova geração. As padarias tradicionais competem em receitas, design dos kits e canais; a nova geração adiciona três novos campos de batalha: o sistema de venda de ingressos, o título mundial de pão e o _hype_ das redes sociais.
+Este é um novo formato de batalha pelo Meio Outono. As lojas tradicionais competem em receitas, design e canais; a nova geração adiciona sistemas de reserva de ingressos, títulos mundiais e o _hype_ das redes sociais.
 
-Na mesma geração que Chen Yao-xun, estão os _taro pastries_ (doces de taro) do Mestre A-tsung de Dajia (aperitivo designado para banquetes estatais), os _phoenix eye cakes_ (鳳眼糕) da Yukzhenzhai de Lukang, os pequenos doces lunares de Chen Yun-bao de Fengyuan, os _pineapple tarts_ (鳳梨酥) do Micro Heat Hill e o Gelato de Hanjbing da Jiou Zhen Nan[^12]. Essas quatro iguarias — as antigas padarias centenárias, os artesãos emergentes, a rota educacional cultural e o sorvete _crossover_ — representam quatro posturas de época que conversam na mesma mesa durante o Mid-Autumn Festival todos os anos.
+Na mesma geração de Chen Yao-xun estão os bolos de inhame de A-Cong Shi (especialidade de banquetes estatais), os bolos Fengyan da Yu Zhen Zhai, os pequenos bolos de lua da Bao Quan, os Pineapple Cakes da SunnyHills e o Gelato da Jiu Zhen Nan[^12]. Essas quatro abordagens — centenária, artesanal emergente, educativa e de fusão — dialogam todos os anos na mesma mesa de jantar.
 
-## As camadas do recheio permaneceram essencialmente iguais
+## As camadas do recheio permanecem as mesmas
 
-Do segundo andar da casa de comércio fluvial de Lugang aos 30 segundos do sistema Tixcraft, a pastelaria de Taiwan em 150 anos trocou inúmeros rostos. Mas as camadas do recheio permaneceram essencialmente iguais: a gema salgada ainda deve ser imersa em álcool forte para tirar o cheiro, o maltose ainda deve ser cozido em fogo lento, o abacaxi nativo ainda deve esperar amadurecer no campo até voltar naturalmente ácido, a estrutura de mil camadas da massa de óleo envolvendo massa folhada ainda deve sair das dobras e laminagens repetidas do mestre na tábua.
+Dos assoalhos de Lukang aos sistemas de venda online de 30 segundos, a confeitaria de Taiwan mudou de face inúmeras vezes em 150 anos. Mas as camadas do recheio não mudaram: a gema salgada ainda precisa ser curada em licor para tirar o odor; o malte ainda precisa de cozimento lento; o abacaxi nativo deve amadurecer no campo para atingir sua acidez natural; e a técnica de massa folhada exige que o mestre dobre e lamine a massa repetidamente na bancada.
 
-Campeão mundial de pão e loja centenária de bolos Han, agora estão na mesma mesa de meio-outono. Ninguém substitui ninguém. Numa caixa de presente pode haver o bolo fengyan da Yuzhenzhai, o bolo de taro do Mestre A-tsung, o bolo de abacaxi da SunnyHills, o bolo de gema de ovo de solo vermelho de Chen Yao-xun, o gelato de bolo Han da Jiou Zhen Nan a derreter ao lado — cinco bolos representam cinco épocas, mas todos são tratados como objetos da festa comum de «meio-outono».
+O campeão mundial e a loja centenária agora ocupam a mesma mesa. Ninguém substitui ninguém. Em uma única caixa de presentes, você pode encontrar um bolo Fengyan da Yu Zhen Zhai, um bolo de inhame do A-Cong Shi, um Pineapple Cake da SunnyHills, um bolo de gema salgada do Chen Yao-xun e o Gelato da Jiu Zhen Nan derretendo ao lado — cinco doces representando cinco eras, mas todos celebrando o mesmo festival: o Meio Outono.
 
-Da próxima vez que pegares num bolo de gema de ovo, podes dar uma dentada e pensar: de onde vem a gema salgada, quantas dobras tem a massa folhada, quanto tempo cozeu em fogo lento a pasta de feijão preto, esta camada artesanal transmitiu-se do sótão de Lugang na época Qing à ansiedade da corrida no Tixcraft de 2026, passando por quantas tábuas de mestres.
+Da próxima vez que você morder um bolo de gema salgada, pense: de onde veio essa gema? Quantas camadas tem essa massa? Quanto tempo levou para cozinhar esse feijão? Essa técnica viajou dos sótãos de Lukang na dinastia Qing até a ansiedade das compras online em 2026, passando pelas mãos de inúmeras gerações de mestres.
 
-Um bolo contém muito mais tempo do que julgas.
+O tempo contido em um único bolo é muito mais longo do que você imagina.
 
-## Leituras complementares
+## Leitura Complementar
 
-- [Bolo solar](/pt/food/sun-cake) — História profunda do item único melhorado pelo Mestre A-ming Wei Qing-hai a partir do bolo de malte da Kunpai Bakery em Shenkan, Taichung
-- [Bolo de abacaxi](/pt/food/pineapple-cake) — Percurso evolutivo de oitenta anos desde o grande bolo de abacaxi da I-Fu-Tang na era japonesa até à revolução da cubificação
-- [Pão e panificação de Taiwan](/pt/food/taiwan-bread-and-baking) — História dos mestres padeiros de Taiwan, de Wu Pao-chun a Chen Yao-xun, a caminho do palco mundial
-- [Cultura alimentar de arroz de Taiwan](/pt/food/taiwan-rice-cuisine-culture) — Arroz e pastelaria são duas linhas principais na mesma mesa, compreender o arroz para compreender o lugar do bolo
-- [Casamentos, funerais, festas e ritos de vida de Taiwan](/pt/culture/taiwanese-life-ceremony-traditions) — Papel concreto da caixa de bolos de alegria nos seis ritos e doze presentes
-- [Cultura do chá de Taiwan](/pt/culture/taiwanese-tea-culture-and-living-aesthetics) — Bolos Han e chá são parceiros há cem anos, o bolo fengyan da Yuzhenzhai originalmente comia-se com chá
+- [Sun Cake](/pt/food/sun-cake) — A história profunda do item criado pelo Mestre A-Ming (Wei Qing-hai) em Shengang.
+- [Pineapple Cake](/pt/food/pineapple-cake) — A evolução de 80 anos, desde o Grande Bolo de Abacaxi da Yi Fu Tang até a revolução dos cubos.
+- [Panificação e Confeitaria em Taiwan](/pt/food/taiwan-bread-and-baking) — A jornada dos padeiros taiwaneses rumo ao cenário mundial, de Wu Bao-chun a Chen Yao-xun.
+- [Cultura Alimentar de Arroz em Taiwan](/pt/food/taiwan-rice-cuisine-culture) — O arroz e os doces como as duas linhas principais da mesa taiwanesa.
+- [Ritos de Passagem e Costumes de Vida em Taiwan](/pt/culture/taiwanese-life-ceremony-traditions) — O papel das caixas de presentes nos ritos matrimoniais tradicionais.
+- [Cultura do Chá em Taiwan](/pt/culture/taiwanese-tea-culture-and-living-aesthetics) — A relação centenária entre os bolos tradicionais e o chá; os bolos Fengyan foram feitos para acompanhar o chá.
 
 ## Referências
 
-[^1]: [玉珍齋官網 — 關於玉珍齋與歷史沿革](https://www.1877.com.tw/about-us/) — Website oficial da Yuzhenzhai, que registra o início e o desenvolvimento da loja de doces Yuzhenzhai, fundada pelo rico comerciante Huang Jin em Lukang na terceira primavera do reinado de Guangxu (1877), em parceria com Zheng Cui; bem como a história da separação quando Zheng Cui abriu sua própria loja, a Zheng Yuzhen.
+[^1]: [Site Oficial da Yu Zhen Zhai — Sobre a Yu Zhen Zhai e sua História](https://www.1877.com.tw/about-us/) — Site oficial detalhando a fundação em 1877 por Huang Jin e a parceria com Zheng Chui, além da separação que levou à criação da Zheng Yu Zhen.
 
-[^2]: [維基百科：太陽餅](https://zh.wikipedia.org/zh-tw/%E5%A4%AA%E9%99%BD%E9%A4%85) — Registra o histórico de Taiyangbing, que se originou do bolo de maltes da confeitaria Kun em Shengang, Taichung; foi estabelecido pela família Lin durante o período japonês e reformado pelo aprendiz Wei Qinghai (Mestre Ah Ming) para ser chamado de 'Taiyangbing'; bem como a evolução do mercado após se tornar uma especialidade de Taichung na década de 1950.
+[^2]: [Wikipédia: Sun Cake](https://zh.wikipedia.org/zh-tw/%E5%A4%AA%E9%99%BD%E9%A4%85) — Contexto histórico sobre a origem do Sun Cake na loja Kun Pai de Shengang, as melhorias de Wei Qing-hai (Mestre A-Ming) e sua evolução como especialidade de Taichung.
 
-[^3]: [維基百科：寶泉](https://zh.wikipedia.org/zh-tw/%E5%AE%9D%E6%B3%89) — Registra a história da linhagem da Baoquan, começando com o primeiro Chen Yun da loja de doces Fengyuan; a fundação da filial principal de confeitaria Baoquan em Tóquio pelo segundo Chen Jinquan em 1943; e a quarta geração, Chen Zengxiong, que estabeleceu a filial de Taiwan em 1975 e desenvolveu o Dan Huang Su.
+[^3]: [Wikipédia: Bao Quan](https://zh.wikipedia.org/zh-tw/%E5%AE%9D%E6%B3%89) — História das quatro gerações da confeitaria Bao Quan em Fengyuan, desde a primeira geração Chen Yun até o desenvolvimento do bolo de gema salgada por Chen Zeng-xiong.
 
-[^4]: [台灣光華雜誌：微熱山丘專訪](https://www.taiwan-panorama.com/Articles/Details?Guid=59960b88-840d-45d4-943e-4c5a3606e228) — Registra os detalhes operacionais da Weire Shanqiu, fundada por Xu Mingren e outros quatro indivíduos com um capital de 80 milhões em 2009; utilizando abacaxi local número 2/3 como ingrediente principal, elevando o preço do abacaxi de menos de 5 yuans por jin para 10 yuans, com uma área de cultivo de 270 hectares e empregando 210 funcionários locais.
+[^4]: [Revista Guanghua de Taiwan: Entrevista com SunnyHills](https://www.taiwan-panorama.com/Articles/Details?Guid=59960b88-840d-45d4-943e-4c5a3606e228) — Detalhes operacionais sobre a fundação da SunnyHills em 2009, o uso de abacaxis nativos e seu impacto na agricultura local.
 
-[^5]: [Supertaste：陳耀訓蛋黃酥報導](https://supertaste.tvbs.com.tw/food/355752) — Relata a ascensão do Dan Huang Su de Chen Yaoxun, nativo de Lukang, que ganhou o prêmio Mondial du Pain em 2017; fundou YOSHI BAKERY em 2019; e como o Dan Huang Su de gema vermelha foi apelidado de 'Hermès do mundo dos Dan Huang Su'.
+[^5]: [Pré-venda para o Meio Outono 2025 dos "Bolos de Gema de Chen Yao-xun"! O Hermès dos bolos de gema salgada](https://supertaste.tvbs.com.tw/food/355752) — Informações sobre os bolos de Chen Yao-xun, conhecidos pela alta demanda e vendas rápidas.
 
-[^6]: [鹿港玉珍齋與百年閣樓](https://www.bigfang.tw/blog/post/lukang-1877) — A loja Yuzhenzhai, localizada no número 168 da Estrada Minzhong, é o antigo local da maior agência de navegação de Lukang durante a dinastia Qing, 'Quanheli', incluindo um fundo arquitetônico com uma casa de dois andares e janelas de telhado; bem como o contexto comercial das oito áreas circundantes de Lukang na dinastia Qing.
+[^6]: [Yu Zhen Zhai de Lukang e o Sótão Centenário](https://www.bigfang.tw/blog/post/lukang-1877) — Pesquisa histórica sobre o edifício da Yu Zhen Zhai, anteriormente a empresa Quan He Li, e seu contexto comercial em Lukang.
 
-[^7]: [維基百科：鳳梨酥](https://zh.wikipedia.org/zh-tw/%E9%B3%B3%E6%A2%A8%E9%85%A5) — Registra o grande bolo redondo de abacaxi feito por Chen Zhoucai, uma confeitaria Yifu durante o período japonês; e a evolução posterior quando Yan Shumu o reduziu para um formato quadrado e mudou para usar massa de biscoito amanteigado.
+[^7]: [Wikipédia: Pineapple Cake](https://zh.wikipedia.org/zh-tw/%E9%B3%B3%E6%A2%A8%E9%85%A5) — A evolução do formato do bolo de abacaxi, desde o modelo redondo da Yi Fu Tang até o formato cúbico moderno.
 
-[^8]: [台中市文化資產：鳳梨酥工藝](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Invisible&id=2195556) — Os dados da arte do abacaxi registrados pelo Departamento de Cultura de Taichung, que incluem o consumo anual de cerca de 5.000 toneladas de abacaxi no recheio; e os detalhes do processo tradicional usando abacaxi local misturado com pasta de abóbora para um sabor agridoce.
+[^8]: [Patrimônio Cultural de Taichung: Técnica do Pineapple Cake](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Invisible&id=2195556) — Dados sobre a produção de recheio e a técnica tradicional de equilibrar acidez com melão de inverno.
 
-[^9]: [VERSE：蛋黃酥的工藝](https://www.wowlavie.com/article/ae2101192) — O mestre nacional Lu Hongyu recorda que o Dan Huang Su se originou na década de 1960, inicialmente como uma casca de abacaxi em formato de oliva; e só depois evoluiu para a massa frita esférica, além dos detalhes do processo de desodorização da gema com álcool picante e cozimento lento da pasta de fava-mong (wudan) em doce.
+[^9]: [VERSE: A Técnica do Bolo de Gema Salgada](https://www.wowlavie.com/article/ae2101192) — Memórias do mestre Lü Hong-yu sobre a origem do doce e os detalhes técnicos da massa e do recheio.
 
-[^10]: [104 職場：陳耀訓蛋黃酥工藝](https://blog.104.com.tw/yoshi-bakery-yolk-pastry/) — Relata o Dan Huang Su de gema vermelha de Chen Yaoxun・YOSHI BAKERY, que usa gemas salgadas curadas com terra vermelha, pasta de feijão com baixo teor de açúcar e manteiga campeã da Dinamarca; bem como seu design de processo que integra a arte do pão ocidental na confeitaria chinesa.
+[^10]: [104 Workplace: A Técnica dos Bolos de Chen Yao-xun](https://blog.104.com.tw/yoshi-bakery-yolk-pastry/) — Reportagem sobre o uso de ingredientes premium e a integração da panificação europeia nos bolos tradicionais.
 
-[^11]: [陳耀訓蛋黃酥7/29開賣！4大名店預購整理 - NOWnews 今日新聞](https://www.nownews.com/news/6711245) — Reportagem de 25 de julho de 2025: A pré-venda do Dan Huang Su da Chen Yaoxun・YOSHI BAKERY (Dunhua North Road, Songshan District, Taipei) começará às 12h30 do dia 29 de julho para o Festival do Meio do Outono, e será vendida através do sistema de bilheteria Tuoyuan, com 900 yuans por caixa de 8 unidades; limitado a 8 caixas por pessoa, sem entrega, apenas retirada na loja.
+[^11]: [Pré-venda dos Bolos de Chen Yao-xun em 29/7! Resumo das 4 lojas famosas - NOWnews](https://www.nownews.com/news/6711245) — Notícia sobre os detalhes de venda e o sistema de reserva para os produtos de Chen Yao-xun.
 
-[^12]: [大甲阿聰師糕餅文化館](https://www.o-nongs.com.tw/) — Documentos oficiais do Iputou Su (Bolo de Batata Doce) criativo de Da Jia Acong Shi; registram seu histórico como doce designado para banquetes reais e a linhagem da arte do Iputou Su.
+[^12]: [Museu da Cultura de Bolos de A-Cong Shi, Dajia](https://www.o-nongs.com.tw/) — Informações oficiais sobre os bolos de inhame de A-Cong Shi e seu papel em banquetes estatais.
 
-[^13]: [維基百科：蛋黃酥](https://zh.wikipedia.org/zh-tw/%E8%9B%8B%E9%BB%83%E9%85%A5) — Registra os dados do inventor do Dan Huang Su, Chen Zengxiong, conforme mencionado na 'Revista de Informação de Produtos de Panificação' em agosto de 1986; e os parâmetros padrão da arte, incluindo pasta de feijão doce de feijão vermelho, gema de pato salgada e massa frita.
+[^13]: [Wikipédia: Bolo de Gema de Ovo Salgada](https://zh.wikipedia.org/zh-tw/%E8%9B%8B%E9%BB%83%E9%85%A5) — Dados sobre a invenção do doce por Chen Zeng-xiong e seus parâmetros técnicos padrão.
 
-[^14]: [維基百科：綠豆椪](https://zh.wikipedia.org/zh-tw/%E7%B6%A0%E8%B1%86%E6%A4%AA) — Também conhecido como 'Lüdou Tu' ou 'Bolo do Festival Lunar Taiwanês', ele se originou com melhorias durante o período japonês em Fengyuan, contendo um sabor salgado e doce de pasta de fava-mong, banha de porco, cebola vermelha e carne de porco; bem como seu papel importante nos doces de casamento em Taiwan.
+[^14]: [Wikipédia: Bolo de Feijão-mungo (Lü Dou Peng)](https://zh.wikipedia.org/zh-tw/%E7%B6%A0%E8%B1%86%E6%A4%AA) — Informações sobre o bolo de feijão-mungo, seu sabor agridoce e papel em casamentos taiwaneses.
 
-[^15]: [陳允寶泉本店官網](https://www.chenyunpaochuan.com.tw/) — O site oficial da loja Chen Yun Baoquan em Fengyuan, que registra a mudança de nome de 'Baoquan' para 'Chen Yun Baoquan' em 2013; e o registro da linhagem familiar quando a quarta geração, Chen Kunhong, foi estudar no Japão.
+[^15]: [Site Oficial da Chen Yun Bao Quan](https://www.chenyunpaochuan.com.tw/) — Registro da sucessão familiar e a mudança de nome da empresa em 2013.
 
-[^16]: [舊振南漢餅文化館](https://www.jzn.com.tw/tw/architecture) — O site oficial de Jiu Zhennan, que registra a fundação do Centro Cultural de Confeitaria Chinesa em Da Liao, Kaohsiung, em 2016; um edifício de três andares com 4.421 metros quadrados, reunindo a sede da marca, o museu da história, a cozinha de confeitaria e o espaço de experiência cultural de panificação.
+[^16]: [Museu da Cultura de Bolos Jiu Zhen Nan](https://www.jzn.com.tw/tw/architecture) — Detalhes sobre o museu fundado em 2016 em Kaohsiung para preservar a história da marca.
 
-[^17]: [舊振南：油酥皮的學問](https://www.facebook.com/jznpastryhouse/posts/1468951346624149/) — Um post científico oficial do Jiu Zhennan que ilustra o princípio estrutural em camadas finas ao envolver massa folhada: a massa de pão com farinha de trigo médio é amassada com óleo, e a massa folhada com farinha de trigo baixo é misturada com óleo, sendo dobradas e prensadas repetidamente para formar uma estrutura detalhada de centenas ou milhares de camadas.
+[^17]: [Jiu Zhen Nan: A Ciência da Massa Folhada](https://www.facebook.com/jznpastryhouse/posts/1468951346624149/) — Explicação técnica sobre a estrutura de camadas da massa oleosa e folhada.
 
-[^18]: [ETtoday：舊振南漢餅 Gelato 6 口味](https://travel.ettoday.net/article/3147149.htm) — Relata o lançamento do 'Gelato de Confeitaria Chinesa' exclusivo de Taiwan pelo Jiu Zhennan em abril de 2026, com 4 sabores regulares (Fenghe Rili, Pengjian Jingdian, Liangchen Meijing, Chayu Huaxiang) + 2 edições limitadas sazonais (Xixingmei Shaos, Ningjing Zao Chen), um design de produto intersetorial.
+[^18]: [ETtoday: Jiu Zhen Nan Gelato de 6 Sabores](https://travel.ettoday.net/article/3147149.htm) — Reportagem sobre o lançamento do Gelato inspirado em bolos tradicionais.
 
-[^19]: [經濟日報：舊振南 20 家門市擴張](https://money.udn.com/money/story/5635/9446485) — Relata o plano de expansão para 20 lojas em toda Taiwan pelo Jiu Zhennan em 2026; a primeira loja foi inaugurada no Centro Comercial Hanshin Zhoushi, Taichung, e a segunda fase está planejada para o Far Eastern Garden City (SOGO Grand Dome) em Taipei.
+[^19]: [Economic Daily: Expansão de 20 lojas da Jiu Zhen Nan](https://money.udn.com/money/story/5635/9446485) — Plano de expansão da marca para todo o país a partir de 2026.
 
-[^20]: [三統漢菓子官方媒體頁](https://www.suntone.com.tw/pages/babyou) — A explicação oficial da San Tong Hanxia sobre a rota de pesquisa e desenvolvimento do recheio líquido do Luoxin Su: a arte tradicional da massa folhada combinada com o recheio líquido moderno para criar uma confeitaria chinesa leve.
+[^20]: [Página Oficial da San Tong (三統漢菓子)](https://www.suntone.com.tw/pages/babyou) — Informações sobre a técnica de recheio fluido e a redução de açúcar nos produtos.
 
-[^21]: [數位時代：三統漢菓子日銷 40 萬顆](https://www.bnext.com.tw/article/77855/shopline_202312) — Relata que, durante a pandemia de COVID-19, a receita diária da San Tong Hanxia em uma única loja era de apenas 2.000 yuans; e como o diretor de marketing Zhou Shiya promoveu a construção do site oficial e a expansão de e-commerce na SHOPLINE, o Luoxin Su alcançou um registro de vendas de 1 caixa a cada 17 segundos, vendendo 400.000 unidades por dia e atingindo mais de 100 milhões em três anos.
+[^21]: [Digital Age: San Tong vende 400.000 unidades por dia](https://www.bnext.com.tw/article/77855/shopline_202312) — Reportagem sobre a transformação digital da San Tong durante a pandemia.
 
-[^22]: [數位時代：郭建偉專訪](https://fc.bnext.com.tw/articles/view/2474) — Relata a trajetória de Guo Jianwei, o sucessor da quinta geração de Guo Yuanyi; ele entrou na empresa familiar em 2009, foi designado como herdeiro em 2016, viajou por lojas antigas de wagashi no Japão por cerca de três anos, e mudou sua estratégia após retornar a Taiwan, passando do mercado de doces de casamento para o setor de festivais e lembrancinhas.
+[^22]: [Digital Age: Entrevista com Guo Jian-wei](https://fc.bnext.com.tw/articles/view/2474) — Perfil sobre a sucessão e a mudança estratégica de Guo Yuan Yi para o mercado de presentes.
 
-[^23]: [Persona Media：郭建偉與聶永真聯名綠豆糕](https://www.persona-media.com/6596/kuo-yuan-ye-foods-co) — Uma entrevista em revista sobre Guo Jianwei, o sucessor da quinta geração de Guo Yuanyi; registra seu desenvolvimento conjunto com a designer Nie Yongzhen do 'Green Bean Time', rompendo as limitações de moldagem unilateral e sabor único, e os experimentos de design que transformaram o bolo de fava-mong em marcos turísticos como o Blue Magpie de Taiwan e o Templo Longshan.
+[^23]: [Persona Media: Colaboração entre Guo Jian-wei e Nie Yong-zhen](https://www.persona-media.com/6596/kuo-yuan-ye-foods-co) — Entrevista sobre o design inovador dos bolos de feijão-mungo da Guo Yuan Yi.
+
+[^24]: [Obrigado ao Campeão Mundial Chen Yao-xun, a era do pão taiwanês voltou (Mirror Media, 2019-05-13)](https://www.mirrormedia.mg/story/20190513food001) — Perfil sobre o campeão mundial de panificação e sua nova marca em Taipei.
