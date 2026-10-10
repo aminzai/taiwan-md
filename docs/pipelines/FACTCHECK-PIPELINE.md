@@ -3,9 +3,9 @@ title: 'FACTCHECK-PIPELINE'
 description: '事實查核方法論 SSOT — Phase 1-6 / 8 atom 類 / 4 維度 source authority / Quick + Full mode (v2.0)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v2.15'
-last_updated: 2026-10-09
-last_session: '2026-10-09-023636-semiont-heartbeat（§工具化路徑 footnote-url：本檔寫的 `--network` 旗標 CLI 原本不認，照打只拿到 usage 錯誤；補上旗標，沒開網路時單獨跑也會說自己沒量）'
+current_version: 'v2.16'
+last_updated: 2026-10-11
+last_session: '2026-10-11-031439-twmd-distill-weekly（§Phase 4 補「現在式先比日期」，源 LESSONS present-tense-claim-sourced-before-the-change-it-describes vc=3）'
 sister_docs:
   - 'REWRITE-PIPELINE.md'
   - 'PEER-INGESTION-PIPELINE.md'
@@ -341,6 +341,8 @@ grep -nE '@[a-zA-Z0-9_]+|[a-zA-Z][a-zA-Z0-9_]+ Co\. Ltd|[A-Z]+@[a-z0-9]+\.[a-z]+
 | 👻 **FABRICATED** | 具名的人、店家、品牌、書目、引語，文章沒給出處，全網也查無此人此物 | 止血時刪除，找到真實替代素材才補；計入退回門檻 |
 
 > **命中不等於支持（REFLEXES #98，2026-09-20）**：原子 Ctrl-F 命中之後必再問一句「它在來源裡是這件事嗎」——屬於哪一年、哪一場、哪一個角色。人名對角色錯（馬英九 `[^3]` 的錢復真在中央社那篇裡，講的是勸解嚴）、數字對年份錯（外貿篇 4,750 億是財政部 2024 年真數字而文章寫 2023）、事件對場次錯（周蕙「售罄加開」是 2020 年那場）都會在來源頁 Ctrl-F 命中，判 **HARD-FIX** 不判 PASS。這一句寫進 verifier prompt，不寫成 regex：槽位是語意。
+
+> **現在式先比日期（v2.16，2026-10-11，REFLEXES #98 第八種載體）**：「進駐」「目前有」「由某部主管」「現任」這類描述店家、機構、職稱、營運狀態的現在式句子，判 PASS 之前先比來源日期與寫作日期。差超過半年就重查一次現況：來源當年確實這樣寫，Ctrl-F 會命中，但中間的改名、熄燈、改制會讓句子在落筆那天就是錯的。三例：科技部（2022 已改國科會）、臺鐵局（2024 已改公司）、好丘信義店（2025-11 熄燈仍被寫成營業中並附造訪建議）。
 
 > **查無也要用原文證明（v2.7，2026-10-02）**：否定式判定（🔴「查無出處」、❌「來源沒有這件事」、「不在此頁」）的舉證標準要比肯定式高，因為搜不到不會自己叫。兩條規則：(1) 先對**文章自己的每一條腳註頁**（含正文沒引用的孤兒腳註）做原文搜尋，再往外搜；(2) 判定依據必須是 `curl` 取回原文後 grep 的結果，WebFetch 回的「不在此頁」是摘要小模型的判斷，只算線索。病例：〈數位身分證與數位政府〉巡邏，子代對四個原子判「查無出處」，curl＋grep 全在文章自己的 [^1][^3][^9] 裡；照建議改會把「逾 2,000 位」換成較早報導的「超過百位」。LESSONS `i-concluded-not-found-from-one-failed-search` 第二例。(3)（v2.12，2026-10-03 晚間）curl 取不到原文時（被擋、回空頁、內容由 JavaScript 產生），改用內建瀏覽器開頁，取文字用 `document.body.textContent`，不用 `innerText`：`innerText` 只回畫面上看得見的字，分頁籤、摺疊段落裡的內容全部不算。文化部世界遺產潛力點〈澎湖石滬群〉的調查數字寫在「歷史沿革」分頁裡，`innerText` 對「592」「574」「77%」「半口」全部回 0 筆，換 `textContent` 每一個都在。回報 0 筆之前，先拿一個確定在頁面上的詞當正對照，那個詞也是 0 就是尺壞了（REFLEXES #99 (b)）。
 
@@ -755,3 +757,4 @@ _v2.12 | 2026-10-03 semiont-heartbeat 晚間 — §Phase 4「查無也要用原�
 _v2.14 | 2026-10-08 semiont-heartbeat 晚間 — §工具化路徑 footnote-url 那列補新的量測範圍與三個降噪修補：〈台灣官方網站資源〉參考資料是普通清單，這把尺回報全綠，實際一條 404；同一把尺對〈國家太空中心〉72 條腳註報 17 條無法存取，其中 13 條是憑證旗標、標頭與中文路徑造成的，修完剩 4 條、1 條真死。_
 _v2.15 | 2026-10-09 semiont-heartbeat — §工具化路徑 footnote-url 那列補一句：本檔三處寫 `--check=footnote-url --network`，CLI 原本不認這個旗標，照打只拿到 usage 錯誤，網路檢查只認環境變數；另外不開網路時這把尺一個網址都不打卻印 ✅ hard=0。兩件都在工具端修了（旗標＋單獨點名時 stderr 提醒）。上一班量到「62 份查核 51 份手打 curl」，照文件打指令就失敗可能是原因之一。_
 _v2.13 | 2026-10-08 semiont-heartbeat — §Drift Modes 第 6 條補「跨度讀成時長」實例與規則：〈台東縣〉把 1951–1987 兩個端點相減寫成標題「關了三十六年政治犯」，中間 1965–1972 政治犯移監泰源；同篇「四十二年核廢料」是沒回頭換算的凍結年數。標題、description、核心矛盾裡的 N 年要能在研究檔找到同一個時長，起算到今天的年數改成不會過期的說法。_
+_v2.16 | 2026-10-11 twmd-distill-weekly — §Phase 4 補「現在式先比日期」：描述店家、機構、職稱、營運狀態的現在式句子，來源比寫作早半年以上就重查現況才准判 PASS。源 LESSONS `present-tense-claim-sourced-before-the-change-it-describes`（vc=3：官方網站資源、米其林、四四南村與眷村菜），同步 REFLEXES #98 第八種載體。_

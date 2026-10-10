@@ -5,8 +5,8 @@ type: 'cognitive-buffer'
 status: 'buffer'
 apoptosis: 'never'
 current_version: 'v3.7'
-last_updated: 2026-10-10
-last_session: '2026-10-10-twmd-maintainer-daily（紅燈下游 skipped 閘門／交接壓縮融項與死參照 2 條新增；local-fs 大小寫條目補方向相反的 instance 2）'
+last_updated: 2026-10-11
+last_session: '2026-10-11-031439-twmd-distill-weekly（15 條消化：#102 首頁腳註＋十二處 fold＋兩條神經迴路；§未消化 108→93）'
 sister_docs:
   - 'MEMORY.md'
   - 'DIARY.md'
@@ -376,21 +376,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **相關**：REFLEXES #93（手抄自動代換的值——這裡是手抄一個**會被改寫**的值）、#82（proxy signal：hash 的存在代理「這件事可追溯」，而死 hash 兩者都不成立）、#68（多核心 git 協調 commit/push/CI 三階段碰撞防護，本例是第四個碰撞面：已寫下的參照）、#97（交接面完整性）、MAINTAINER §Step 4.3、MEMORY-PIPELINE §Stage 5
 - **verification_count**: 1
 
-### 2026-10-09 semiont-heartbeat — present-tense-claim-sourced-before-the-change-it-describes：用現在式寫店家與機構，來源卻比寫作時間舊，文章出生那天就已經過期
-
-- **pattern**: present-tense-claim-sourced-before-the-change-it-describes
-- **原則**：「進駐」「由某部主管」「目前有」這類現在式句子，真偽取決於寫作那天的世界，不取決於來源那天的世界。研究抓到的報導多半比寫作時間早，中間如果發生過改名、熄燈、改制，句子在落筆那一刻就是錯的，而它讀起來跟對的一模一樣；查核時 Ctrl-F 來源也會命中（來源當年確實這樣寫），所以「命中」擋不住它。這跟 0403 罹難數凍在事發隔天（事件還在進行）不同：這裡的變化在寫作之前就已經發生，只是作者手上的來源還沒寫到。
-- **觸發**：2026-10-09 巡邏〈台灣眷村菜〉用「好丘」grep 兄弟篇，撞見〈四四南村〉（2026-05-21 寫成、21 條腳註）把 C 館寫成好丘經營中，還附「如果剛好遇到，點一份配杯咖啡」的造訪建議；好丘信義店在那之前半年（2025-11-23）就熄燈了，引的是 2011 年的開幕資料與食記。
-- **instances**：
-  - 2026-10-08 semiont-heartbeat 晚間 — 〈台灣官方網站資源〉科技部（2022 已改國科會）、臺鐵局（2024 已改公司）寫的當下已過期（`95e86acf9`）
-  - 2026-10-08 semiont-heartbeat 下午 — 〈台灣米其林與精緻餐飲〉止血新寫的句子也凍在來源那年（memory 143556 交接句）
-  - 2026-10-09 semiont-heartbeat — 〈四四南村〉好丘時態（`8fa14bf9c`）；同篇巡邏的〈台灣眷村菜〉同一句（`c0ec148be`）
-- **可能層級**：操作規則（REWRITE Stage 3 與 FACTCHECK Phase 4 的一個問題）＋通用反射候選
-- **候選機械化**：(a) FACTCHECK Phase 4 判定前多問一句「這句是現在式嗎？來源日期跟寫作日期差多久？」差超過半年的現在式店家、機構、職稱、營運狀態，重查一次現況才准判 ✅；(b) 儀器端：quote-fidelity 已會標 superlative 原子，可以比照標「進駐／目前／現任／由…主管」這類現在式狀態詞，讓重驗清單自動帶出來。(b) 判斷不了真偽，只負責把要看的東西縮小（MANIFESTO §14）
-- **相關**：REFLEXES #98「真原子放錯槽位」的時間版（原子對、時點錯）；#67「已驗過帶被驗時刻的時間戳」（那條是驗證的時間戳，這條是來源的時間戳）；FACTCHECK §Drift Modes 6「從某年起算到今天的年數，改寫成不會過期的說法」是同一族的數字版
-- **verification_count**: 3
-- **structural**: true
-
 ### 2026-10-09 twmd-maintainer-daily — positive-controls-only-cover-shapes-the-author-imagined：十三個測試加三個正控制全綠，而它們的 fixture 全是作者手寫的單層結構
 
 - **pattern**: positive-controls-only-cover-shapes-the-author-imagined
@@ -508,19 +493,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **相關**：REFLEXES #82、#18、#15（反覆浮現要儀器化——這條以錯誤的規模被傳了七輪）、#97（交接面完整性：手上有事實不等於送進要動手的那一層——這次送過去的事實本身是小一號的）
 - **verification_count**: 1
 
-### 2026-10-02 twmd-maintainer-am — external-advisory-reddens-a-gate-and-not-our-code-becomes-a-reason-not-to-act：閘門紅的原因在庫外，於是「這不是我們的程式」變成不處理的理由
-
-- **pattern**: external-advisory-reddens-a-gate-and-not-our-code-becomes-a-reason-not-to-act
-- **原則**：大多數閘門紅起來是因為有人改了什麼。`npm audit` 這類**吃外部資料源**的閘門不是——它會在倉庫一個字都沒變的情況下由綠轉紅，只因為上游發佈了新公告。這種紅沒有「犯人」，所以當班很容易把成因寫成「外部公告，非自家程式」然後收工。那句話是對的，但它描述的是**歸屬**，不是**處置**：紅留在 main 上的後果跟任何其他紅完全一樣，下一個路過的投稿 PR 會繼承它，而投稿者看到的是自己的 PR 紅了（REFLEXES 既有的 #1662 案例）。**歸屬在庫外，責任不在庫外。**
-- **觸發**：2026-10-01 12:58Z 綠、19:02Z 起連四次紅，紅在 `npm audit --audit-level=high`：`devalue`（high，經 astro）與 `fast-uri`（moderate）在這段時間之間發佈新公告。09-30 那班已經看到同一家族的紅並記成「CI 紅燈源於外部資安公告非自家程式」，沒有動手；兩天後它還在紅，且紅的是另一組公告（vc=2 的第二次不是同一批公告，是同一個結構）。實際修補成本：兩個都在同一個小版本內有修好的版本，`npm audit fix --package-lock-only` 一條指令，不碰 `node_modules`（babel worker 正在用那棵樹）。
-- **第二層**：修根要連 sub-package 一起看。本庫的 contracts job 有四個獨立的 `npm audit --audit-level=high`（root＋harvest/ui＋harvest/backend＋workers/mcp），只修 root 的話紅燈會從第一道移到第四道——`harvest/ui` 中的是同一組公告。**一條 job 裡同一道閘門出現 N 次時，修第一個命中的只是把紅燈往下推一格。**
-- **未解**：沒有東西在追「這條紅是外部來源造成的、而且修補是否在小版本內」。目前靠當班自己讀 log 判斷；下一次公告來的時候，判斷會重新做一次。
-- **可能層級**：MAINTAINER §Stage 3.5 補一句（外部來源造成的紅仍是本班的 polish item，先問修補是否在小版本內）＋ REFLEXES #82 家族（「不是我們的程式」是歸屬訊號，被當成處置訊號用）。
-- **候選機械化**：~~(a) contracts job 的四個 `npm audit` 收斂成一個會把四個路徑都掃完再一次報完的 step，讓「還有幾個同型閘門在後面」看得見，而不是一個個撞~~ → **已落地（2026-10-08 twmd-maintainer-daily，第三次命中時）**：[`npm-audit-sweep.sh`](../../scripts/tools/npm-audit-sweep.sh) 四道一次報完，路徑從 workflow 解析不寫死（CI 多一道就跟著變，不會長成第二把尺），每條公告附 `fix=minor｜MAJOR(pkg@ver)｜none` 直接回答「修補在不在小版本內」那一句，於是處置不必每次重新推導——這一半把 (b) 的後半也做掉了。量不到的路徑印 UNKNOWN、總結印 🟡 不是 ✅、`--strict` 照樣回 1（REFLEXES #85）；工具還對賬自己的明細行數與表頭條數（第一版少印每個路徑的最後一條卻照報總數，自己的正控制抓到的，REFLEXES #65）。13 個 pytest + 三個正控制（真紅 → exit 1／量不到 → 🟡＋strict 1／乾淨 → ✅）。(b) 仍缺前半：**沒有東西在偵測「倉庫無變更但 gate 由綠轉紅」**，所以「這條紅是什麼時候、因為誰出現的」還是靠當班自己讀 log。
-- **第三次命中（2026-10-08 twmd-maintainer-daily）**：10-03 19:15 起連六次紅，橫跨週額度用完造成的 87 小時全黑——五天沒有任何一班看到它。這次四個 high 以上在根目錄（critical 的 `shell-quote` 命令注入＋`sharp`／`source-map-js`／`http-cache-semantics`）全部在小版本內修掉，`harvest/ui` 的兩個 critical（`seroval` 的 `fromJSON` 會呼叫外掛產生的函式、`solid-js`）一起收，兩邊都只動 lockfile（`d31eec691`）。**跟前兩次不同的地方**：這次剩下的五個 high 全部來自 `tailwindcss` 3.x 的傳遞依賴，而 `braces` 的公告範圍是「所有版本」、`tailwindcss` 3.x 停在 3.4.19 也還在範圍內——**本條原則的那句測試（先問修補是否在小版本內）第一次回答「不在」**。唯一修法是升 tailwindcss 4（breaking），那是決定不是 heal，已帶 options + 成本進 OBSERVER-QUEUE #94。所以本班結束時 main 仍紅在 `harvest/ui`，而這次不是因為沒人動手。
-- **相關**：REFLEXES #82（存在／歸屬代理有效）、#15（反覆浮現要儀器化——同一家族兩天內第二次）、MAINTAINER §1c（default 是修好不是分類好：把紅燈歸好類不等於處理掉）
-- **verification_count**: 3
-
 ### 2026-10-02 twmd-maintainer-am — verified-the-fact-exists-on-site-not-that-it-exists-in-the-article-we-linked：查證「站上寫了」之後，沒有查證「寫在我指過去的那一篇」
 
 - **pattern**: verified-the-fact-exists-on-site-not-that-it-exists-in-the-article-we-linked
@@ -544,19 +516,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **相關**：SPORE-HARVEST-PIPELINE §URL Encoding 鐵律（同一層的另一半：那條防網址斷在中文，這條防中文黏進網址）、Pitfall 5 pre-ship verify（比對文字相等，但文字全對時連結範圍仍可能錯）
 - **verification_count**: 1
 
-### 2026-10-02 twmd-data-refresh-am — heart-counts-heals-as-contributed-births：心臟的「近七天文章」量的是修改日期，自己的巡邏修補被算成投稿進庫
-
-- **pattern**: heart-counts-heals-as-contributed-births
-- **原則**：`generate-dashboard-data.js` 的 `articlesLast7Days` 用 `lastModified >= 七天前` 過濾，量的是「最近被改過的文章」，不是「最近進庫的文章」；`contributedLast7Days` 又是它扣掉 ARTICLE-DONE-LOG 自產數，所以 Semiont 自己的巡邏修補被歸進「投稿」。心臟分數（>10 篇 = 90）跟著修補次數起伏。
-- **觸發**：2026-10-02 06:13 刷新後心臟 70→90，文章總數仍 1123，`articlesLast7Days` 8→15、`selfProducedLast7Days` 0、`contributedLast7Days` 15。多出來的七篇對得上 10-01 16:36 與 20:35、10-02 02:35 三輪心跳巡邏的 heal commit。前一天 data-refresh 的 memory 把 8 讀成「七天八篇新文全靠投稿」，部分是這個量法造成的誤讀。→ memory/2026-10-02-060323-twmd-data-refresh-am.md
-- **instances**：
-  - 2026-10-03 twmd-data-refresh-am：刷新後 `articlesLast7Days` 15→30、`contributedLast7Days` 30、`selfProducedLast7Days` 0，文章總數仍 1123；10-02 06:10 之後 git log 有 21 個 heal commit（三輪心跳巡邏＋babel 修補）。心臟仍 90（>10 篇封頂），所以這輪分數沒動，但「投稿 30 篇」這個讀數已是全量誤讀。→ memory/2026-10-03-060753-twmd-data-refresh-am.md
-  - 2026-10-08 twmd-data-refresh-am：額度停擺五天後第一次刷新，`articlesLast7Days` 30→41、`contributedLast7Days` 41、`selfProducedLast7Days` 0，文章總數仍 1123。窗口內 zh 文章的 heal／evolve commit 39 個（巡邏修正同婚、台東縣、捷運史、澎湖縣等）。同一窗口 `git log --diff-filter=A` 的 zh 新增檔案是 0，讀數卻創新高：量的是修改，所以只要巡邏在跑，「投稿」就會漲。→ memory/2026-10-08-060257-twmd-data-refresh-am.md
-- **候選機械化**：分出「新進庫」（git 首次出現日）與「有更新」兩個欄位，心臟分數只吃前者；自產／投稿拆分也改用首次進庫。動心臟公式是閾值調整（BECOME §行動鐵律 10），先用近 30 天真實資料比較新舊分數（REFLEXES #66）。
-- **可能層級**：操作規則（generate-dashboard-data.js 心臟格）
-- **相關**：REFLEXES #38（混維度）：「被改過」跟「進庫」兩種事件共用一個計數；差異在本例的混維度還流進下游的自產／投稿拆分，把自己做的事記成別人做的
-- **verification_count**: 3
-
 ### 2026-10-02 semiont-heartbeat — patrol-sampling-ignores-featured-exposure：巡邏抽樣把譯本數當放大係數，卻沒把 featured 算進去，而 featured 未審初稿是曝光最高的那一層
 
 - **pattern**: patrol-sampling-ignores-featured-exposure
@@ -567,36 +526,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **可能層級**：操作規則（FACTCHECK-PIPELINE §月度巡邏抽樣母體）
 - **相關**：MEMORY §神經迴路「巴別塔會把三月未審初稿裡的幻覺放大到十二語」（同一個放大論證，本條補上譯本數之外的第二個係數）；10-01 `homepage-citation-passes-format-and-reachability-gates` 也提了抽樣第二排序鍵，兩條該一起決定
 - **verification_count**: 1
-
-### 2026-10-02 twmd-babel-nightly — patch-eligibility-measures-chapter-size-not-change-size：補丁資格量的是「被碰到的章節有多大」，不是「改了多少」，於是事實巡邏的每一次小修都觸發整篇重翻
-
-- **pattern**: patch-eligibility-measures-chapter-size-not-change-size
-- **原則**：`patch-translate.py` 判斷能不能只補丁，用的是「被 diff 碰到的章節字數 ÷ 全文字數」，門檻 50%。事實修正的形狀正好是「每處只改一兩句，但散在好幾個章節，外加參考資料區」，所以十幾行的修正也會碰到過半的字數，整篇退回重翻。重翻由名單外模型接手時，舊的、已經對的譯文被換成新的錯。
-- **觸發**：2026-10-01 晚 semiont-heartbeat 巡邏修六篇（每篇 diff 10–30 行），十二語 72 份全部走整篇重翻（例：〈台灣社區與里文化〉5/11 章節、55.6%）。對讀抓到四篇引入新錯（fr 鄰長→鄉長、en 十二年國教→Compulsory、ja 臭豆腐→臭豆腸、ko 釋字→大法院判決），其中 en 那篇的新錯正是當天中文要修的那一個。最後兩份產線撞牆的改用 Tier 0a 手動補丁，十分鐘內過閘（`1f3ecde1c`）。memory/2026-10-02-014120-twmd-babel-nightly.md
-- **instances**：
-  - 2026-10-02 twmd-babel-nightly — 六篇巡邏修正 × 十二語，72/72 整篇重翻、4 篇引入新錯 → 本條
-  - 2026-10-03 twmd-babel-nightly — 新工具 `retranslation-drift-check.py`（只比中文沒改的章）回頭掃 10-02 那 72 份，又找到日文〈台灣社區與里文化〉「社區」98 處寫成「社協」，標題也換了；改回舊譯文只補改過的句子（`8d37abdf9`）。今晚再 77 份整篇重翻，日文〈台灣藝術教育與學院發展〉「芸術院校」11 處在 commit 前改回。工具把對讀從「挑十幾份讀」變成「先讀 ⚠️ 那幾份」
-  - 2026-10-04 twmd-babel-nightly — 第三夜，形狀更極端：〈澎湖縣〉中文 diff 只有 +6/−4 行（兩句石滬數字、一個引言框、一條腳註描述改寫、新增一條腳註），但「參考資料」一章佔全文 36%，只要碰到一條腳註定義就整章算 touched，3/12 章合計 54.2% 過 50% 門檻，40KB、41 腳註的長文十二語整篇重翻，五個 worker 同時被它佔住（三個是 8B gemma4）。同夜另兩篇 diff 一樣小（〈台灣人工智慧發展與未來策略〉+3/−1、〈台灣人工智慧學校〉+2/−2）。當班處置：三篇以 `*` 排除出 dispatcher、停掉五個進行中的整篇重翻（HEAD 還原，舊譯文不動），改走 SQUEEZE Tier 0a（`diff-patch-prepare.py` → Sonnet 補丁 agent）。新事證：分母裡最大的那章常常是參考資料區，而巡邏修正幾乎一定會動到腳註，所以「排除參考資料區出分母」這個候選對巡邏回流是最直接的一刀
-- **可能層級**：操作規則（babel 補丁判準）＋與 OBSERVER-QUEUE #78 交互
-- **候選機械化**：補丁資格改看 diff 實際行數或改動句數（例如改動句 ≤ 全文 15% 就補丁，章節可以多），或把參考資料／腳註區排除出分母。這是品質閘門數值，屬 High-stake #3，要 Full mode 或哲宇拍板，本班未動。
-- **相關**：REFLEXES #38（同一個比例承載兩種意思：「改動大」與「改動分散」）、OBSERVER-QUEUE #78（重翻交給名單外模型才讓這件事有代價）、MEMORY §神經迴路「巴別塔會把三月未審初稿裡的幻覺放大到十二語」（巡邏越勤，這條路徑越常被觸發）
-- **verification_count**: 3
-
-### 2026-10-01 semiont-heartbeat — homepage-citation-passes-format-and-reachability-gates：腳註指向機構首頁，格式閘門與死鏈閘門都會放行，但它不支持任何一句話
-
-- **pattern**: homepage-citation-passes-format-and-reachability-gates
-- **原則**：腳註 URL 是一個網站的首頁時，它永遠回 200、永遠有標題可抄，`footnote-format` 與 `footnote-url` 都判它合格；可是首頁不支持正文的任何具體句子，讀者點下去找不到出處。這種腳註是「為了通過『參考資料要有可點的網址』而補上的網址」，形狀是引用，內容是空的。
-- **觸發**：2026-10-01 20:37 heartbeat 巡邏第 30–32 篇。〈教育制度與升學文化〉五條腳註全是機構首頁（教育部、國教院、統計處、OECD），〈早餐店阿姨與社區情報網〉的〈台灣早餐店的消失與轉型〉〈台灣早餐文化專題〉兩條掛在報導者、光華首頁，前者查無此篇、後者是通稱，正文也沒引用它們。兩篇的腳註區塊都是 05-16 同一個投稿批次（`f712b7242`，PR #1070，batch-200 P2 修補，73 篇）把文末參考資料轉成腳註時加上的；教育篇的文末參考資料更早，03-19 另一個批次（`18194a2d3`「add missing citation URLs」）為了滿足「參考資料要有可點網址」補了教育部首頁。兩次都是在補格式，沒有人回頭問那個網址支不支持哪一句。全站量測：zh 文章 17,168 條腳註裡 1,149 條（6.7%）的網址是純網域首頁，分布在 311 篇。量法是 regex 抓腳註網址、判斷路徑是否為空或 index／default／home，見 `memory/2026-10-01-203722-semiont-heartbeat.md`。
-- **instances**：
-  - 2026-10-02 semiont-heartbeat — 巡邏第 36–38 篇三篇科技初稿：〈台灣軟體產業發展〉13 條腳註裡 7 條正文零引用、全是網域首頁，且掛著查無的報告標題（`tsia.org.tw` 是台灣半導體產業協會，被標成「台灣軟體產業協會《2024年軟體產業白皮書》」；`gamania.com` 被標成雷爵官網）；〈台灣電動車產業鏈發展〉12 條裡 7 條孤兒、7 條首頁，同樣配著《台灣電動車產業白皮書》這類查無的報告名。新增的形狀：首頁腳註最常出現在**正文從沒引用的那一層**，它們是「參考資料要有可點網址」與「看起來有讀過報告」兩種需求一起長出來的假書目。`footnote_density.py` 已在 INFO 層記「定義但正文沒引用」（全站約 260 篇），兩把尺交集（孤兒×首頁）是最便宜的第一刀。memory/2026-10-02-084048-semiont-heartbeat.md
-- **可能層級**：操作規則（article-health 候選 WARN check＋巡邏抽樣加權）
-- **相關**：REFLEXES #69 (g)（形式閘門全過、意義精度靠外部人）／#82（可達性是「有出處」的替身）／FACTCHECK §月度巡邏抽樣母體（v2.1 已把「六條泛連結腳註」寫進誕生事件，但抽樣指令沒有用它當權重）。差異：#69/#82 是通則，這條是一個可以完全機械化判斷的具體形狀，判準只要看網址路徑。
-- **候選機械化**：(a) article-health 加一條 WARN（腳註網址是純首頁 → 「首頁腳註不支持具體句子」），不擋 commit；注意它會讓 311 篇多一條 warn，若免疫儀表板的 plugin_pass_rate 用 fail_on=warn 計，分數會動，這屬閾值鄰接面，上線前先量對分數的影響。(b) 巡邏抽樣指令把「首頁腳註數」當第二排序鍵，在同一天出生、同譯本數的初稿裡先抽首頁腳註多的。
-  - 2026-10-02 semiont-heartbeat（下午班）— 巡邏第 39–41 篇：〈台灣藝術教育與學院發展〉五條腳註全是機構首頁（北藝大、南藝大、台藝大、師大美術系、藝教館），其中三條掛在跟首頁無關的句子上——「1955 年國立藝術學校成立」掛北藝大首頁，而國立藝術學校是台藝大的前身；〈台灣國際貿易政策〉六條裡五條是機關首頁（財政部、FTA 入口網、經貿辦、國貿署、中央社），描述寫著首頁上不存在的報告名「112年我國出進口貿易概況」。止血時全部換成能支撐句子的校史頁、財政部年報 PDF、行政院與外交部新聞稿，換完後腳註才第一次能被對照。新的形狀：首頁腳註會**掛錯機構**，因為寫的人只需要一個看起來相關的網域，不需要它講過這件事
-  - 2026-10-09 semiont-heartbeat（14:36）— 巡邏〈台灣冰品文化〉：六條腳註裡觀光署、CNN Travel 兩條是首頁，Lonely Planet 是孤兒，另兩條是死網域與不存在的維基條目。新的形狀：CNN Travel 首頁掛在三家查無此店的老舖（明記冰果室、振宇芋冰城、立橋冰）後面，**首頁腳註替編造的具名對象作保**，讀者看到一個國際媒體名就不會懷疑店名。同一族在兄弟篇〈永康街〉（05-21 出生）也有：腳註 21 是中研院社會所首頁、描述寫成一份具體的仕紳化研究，腳註 20 是 zh 維基根本沒有的「冰館」條目（404），兩條都帶著詳細到年份的描述。`memory/2026-10-09-143619-semiont-heartbeat.md`
-  - 2026-10-09 semiont-heartbeat（20:36）— 巡邏〈台灣全齡共融旅遊與生活文化〉：第五種形狀是**深層網址被網站轉回首頁**。內政部 `News_Content.aspx?n=9&s=322560` 轉到 `default.aspx`、國健署 `Pages/List.aspx?nodeid=3869` 轉到 `Home/Index.aspx`，回的都是 200，原稿上看起來是兩條具體的內頁。同篇還量到檢查器的另一個盲區：參考資料寫成 `### 參考資料 / Sources` 底下的 `1.` 編號清單，10-08 那次修補只放寬到 `## 參考資料` 與 `-`／`*` 清單（REFLEXES #101：範圍照症狀現形的位置畫），十條一條都沒量。`faf8f24e5` 把標題放寬到二、三級、清單接受編號，並把「有路徑的網址落在首頁」判成轉址回首頁，全庫多量到 154 個網址。候選機械化 (a) 對這個變體已落地；純首頁網址（一開始就寫首頁）仍照舊放行，那一半牽動免疫 plugin_pass_rate，維持不動
-  - 2026-10-10 semiont-heartbeat（14:36）— 巡邏〈台灣步道文化與公民守護〉：同一個 05-16 批次（`f712b7242`）補的五條腳註，第六種形狀是**描述把正文的句子抄成「來源確認」**：`[^3]` 守護網首頁的描述寫「2024 年上線，首年收到超過 15,000 筆回報」，首頁上的讀數是累計 2,702 筆；`[^1]` 大事記的描述寫「確認 2006 年 4 月 23 日發起、2011 年 6 月 8 日成立」，頁面從 2002 年開始、兩個日期都沒有。而那頁大事記本身就是推翻正文十年複查一節的資料（2012 調查、2023 複查），跟 10-10 早上〈客家飲食文化〉同型：反駁的來源掛在文章自己的腳註上，描述寫的卻是它支持正文。判準可以機械化一半：描述裡出現的數字與日期，在腳註頁 grep 不到就標記（`1440e2a2d`、查核檔 `reports/research/2026-10/台灣步道文化與公民守護.md`）
-- **verification_count**: 6
 
 ### 2026-10-01 twmd-maintainer-am — freshness-guard-reads-a-half-built-artifact-as-maximally-fresh：擋得住舊產物的閘門擋不住正在長出來的產物，而後者的時間戳是「現在」
 
@@ -648,20 +577,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **相關**：REFLEXES #85（「不知道」需要自己的符號——本例的 `TBD-NEEDS-SLUG` 正是那個符號，問題是它沒被觸發）、#38（一個值蓋住兩種真相：`309` 同時是「合法 slug」與「推導失敗的殘餘」）、#82（非空代理有意義）；OBSERVER-QUEUE #90（譯文網址跟 zh 不一致的存量）是同族的下游
 - **未解**：~~本班未清理那七個已落地的 `309.md`~~ retired by 2026-10-01-010545-twmd-babel-nightly（十檔改名 `28ac08c38`）
 - **verification_count**: 2
-
-### 2026-09-30 twmd-maintainer-am — translation-gates-check-a-file-against-itself-never-against-its-source：譯文閘門驗的是「檔案跟自己一致」，沒有一道在問「它跟中文原文的分類一致嗎」
-
-- **pattern**: translation-gates-check-a-file-against-itself-never-against-its-source
-- **原則**：譯文的身份有兩個座標——它自己的 frontmatter，以及它指向的那份中文原文。既有閘門（`frontmatter-gate`、`check-translation`、`category-check`）全都驗第一個座標：frontmatter 的 `category` 跟自己的路徑一不一致、欄位齊不齊、格式對不對。**沒有一道在驗第二個座標**：這個路徑跟 `translatedFrom` 指的那份 zh 檔的分類是同一個嗎。於是一份譯文可以放進錯的分類目錄、在該語言變成同一篇文章的第二個檔、而 CI 全綠——因為檔名沒撞（正確路徑上那份在別的目錄），也因為它的 frontmatter 跟它自己完全自洽。
-- **觸發**：2026-09-30 維護班收三個投稿 PR（aminzai #1782 de / #1783 hi / #1784 ar），三篇都重譯已有譯文的文章，三篇都把檔案放進跟 zh 來源不同的分類目錄：`Technology/台灣數位影像與動畫產業.md` → `de/Art/`、`Food/茶文化.md` → `hi/Culture/`、`Geography/台灣都市發展與城鄉差距.md` → `ar/Society/`。三篇的 frontmatter `category` **都寫對了**（Technology / Food / Geography），錯的是路徑；而三篇的 `frontmatter-gate` 與 `check-translation` 都是 pass。照原路徑合併，三個語言各會多出一篇分在錯分類的重複檔，分類頁分群與相關推薦各看到一半。發現它靠的不是任何閘門，是當班拿 `translatedFrom` 去 grep 該語言目錄有沒有同來源的譯文。
-- **instances**：
-  - 2026-09-30 twmd-maintainer-am — 三個 PR 同型，三篇 CI 全綠 → `088ab1387`（#1783 搬正路徑後 merge）、#1782／#1784 留 open
-- **可能層級**：操作規則＋儀器候選。跟 [REFLEXES #84](REFLEXES.md)（產物要對賬 ground truth）同族：這裡的 ground truth 是 zh 來源的分類，而驗證只在譯文自己身上跑完就結束了。
-- **已機械化（2026-10-01 semiont-heartbeat）**：`test-frontmatter.mjs` 對帶 `translatedFrom` 的檔斷言路徑分類段 == 原文分類段，pre-commit、`pr-frontmatter-gate`、部署三處同支生效。全庫首跑抓到存量 5 篇（en×4、es×1，正是投稿者照抄的英文範本），同輪搬回原位加 301。「同一個 `translatedFrom` 在同語言出現兩次」那半沒做：全庫現量 0 組，staged 模式也看不到跨檔。
-- **候選機械化**：零判斷的一道閘——對任何帶 `translatedFrom` 的檔，斷言 `dirname(路徑的分類段) == dirname(translatedFrom)`，不一致即 hard。同一支還可以順便抓「同一個 `translatedFrom` 在同語言出現兩次」（既有的重複對問題，UNKNOWNS 🔴 那條的儀器化入口）。掛 pre-commit 與 `pr-frontmatter-gate` 兩處。
-- **相關**：REFLEXES #84、#38（一個狀態值蓋住兩種真相：`missing` 同時是「沒人做過」與「做在別的目錄」）；OBSERVER-QUEUE #51（subcategory 被翻掉）是同一個「譯文改了不該改的分類欄位」家族的另一面
-- **verification_count**: 1
-- **severity**: structural
 
 ### 2026-09-30 twmd-maintainer-am — maintainer-seat-cannot-obtain-a-quiet-window-so-window-dependent-gates-never-run：修法需要一個沒有寫入者的空檔，而這個席位永遠跟產線同時在跑
 
@@ -776,22 +691,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **相關**：REFLEXES #101、#84（產物要對賬 ground truth）；MEMORY §神經迴路「多語言 nav 的隱性路由 scope」
 - **verification_count**: 1
 
-### 2026-09-27 twmd-routine-audit-weekly — append-only-queue-numbering-has-no-allocator：佇列編號是「讀表上最大號加一」，兩個平行 session 讀到同一個最大號，而號碼先流到公開留言才被發現撞了
-
-- **pattern**: `append-only-queue-numbering-has-no-allocator`
-- **原則**：OBSERVER-QUEUE 的新列編號沒有配號者，每個 session 各自讀自己腳下那份表、取最大號加一。兩個 session 在同一個窗口裡各開一列，就會拿到同一個號。撞號本身不貴，貴的是號碼離開 repo 的速度比撞號被發現的速度快：三次裡有兩次，號碼在合併前已經寫進對外的公開回覆，於是「誰保留原號」由哪一邊先被外人引用決定，後到的那一列連同它在其他檔案裡的引用都要改號，而改號前寫下的 commit 訊息永遠指著舊號。
-- **觸發**：2026-09-27 本審計讀 7 天窗口的 commit 與 memory，同一種修補出現三次：(1) 09-17 feedback-triage 量到分岔期間本機與 origin 各自從下一個空號往下編，同一個 #56 兩邊指兩件事，三十三份未推送的交接文引用的名字在觀察者那側會解析成別的決策（diary 2026-09-17-071001）；(2) 09-27 00:43 維護班開 #81、00:52 babel 對話也開 #81，Discussion #1757 的公開回覆已引用前者，後者改 #84，`9a4ca85f9` 的 commit 訊息寫的「#81」其實是 #84（`06a8b1885`）；(3) 09-27 02:28 週體檢開 #85（整列黏在 #84 同一行、表上看不見），08:47 維護班也開 #85 並已在 issue #1609 對讀者公開引用，渦流 16:23 拆行改號 #86，週報與週體檢 memory 裡的「#85 twmd-review-stock」從此指的是 #86（`5f084f204`）。三次由三個不同 session 各自發現、各自修，沒有一次回頭看前一次。
-- **可能層級**：操作規則＋工具候選。REFLEXES #68（多核心 git 協調）管的是 commit／push／CI 三階段的碰撞，本條是第四個共享面：**共享計數器**。跟 #51（session ID 撞名用 schema 解）同一個形狀，#51 的解法是讓名字不必配號（時間戳＋handle），本條同樣可以這樣解。
-- **相關**：REFLEXES #68、#51；LESSONS `divergence-warning-is-tree-level-not-per-file`（09-14，同一段分岔期的另一面）
-- **候選機械化**：(a) 開列前先 `git fetch` 再讀最大號，並在 commit 前重讀一次（縮窗，不消除）；(b) pre-commit 檢查 OBSERVER-QUEUE 表內編號唯一、且每列以 `| ` 起頭（順便抓到 #85 黏行那種「表上看不見的列」）；(c) 對外引用前先 push，讓號碼在公開之前先落在 origin。(b) 是零判斷的一道閘，最便宜。
-- **instances**：
-  - 2026-09-17 twmd-feedback-triage — 分岔期兩側各編 #56
-  - 2026-09-27 00:52 babel-vortex × 00:43 twmd-maintainer — 雙 #81，後者改 #84
-  - 2026-09-27 08:47 twmd-maintainer-am × 02:28 twmd-weekly-report-sun — 雙 #85（其一黏行不可見），後者改 #86
-- **verification_count**: 3
-- **distill_ready**: true
-- **severity**: structural
-
 ### 2026-09-27 twmd-routine-audit-weekly — closure-written-from-the-mechanism-not-the-recount：結案句根據「修法應該會讓它消失」寫成，沒有重數一次它還在不在
 
 - **pattern**: `closure-written-from-the-mechanism-not-the-recount`
@@ -812,42 +711,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **可能層級**：操作規則（已儀器化）＋通用反射候選：自己的動作之後冒出的「來路不明」殘留，先查自己的工具鏈，再去找別的 actor
 - **相關**：REFLEXES #68（平行 session 一律用 pathspec commit 的建議正是觸發條件；新維度是 hook 的副作用落在暫時 index）；LESSONS `tool-measures-the-tree-it-stands-in-not-the-thing-it-was-asked-about`（同一天、同一個「讀數站在哪棵樹」的家族）
 - **verification_count**: 1
-
-### 2026-09-27 twmd-maintainer-am — read-cap-outgrown-by-the-thing-it-reads：對賬器的取數上限被它要對賬的檔案長過去，一邊少驗、一邊假報，兩個方向互相掩護
-
-- **pattern**: `read-cap-outgrown-by-the-thing-it-reads`
-- **原則**：一個寫死的讀取上限，會在被讀的東西長過它的那一天失效，而那一天不會有任何輸出提到這件事。`check-url-contract.mjs` 讀 sitemap 用 `readHead(file, 16MB)`，旁邊的註解寫「sitemap 只有幾 MB，讀整份」——今天 `dist/sitemap-0.xml` 已經 **18.5MB**，超出的 3.4MB 被無聲切掉，**17,785 個 `<loc>` 只進來 13,218 個**。傷害有兩個方向，而且互相掩護：(1) **反向覆蓋多報**——sitemap 的尾端是字母序偏後的語言前綴，於是「存在卻沒公告」的名單冒出 **1,752 筆清一色 `/ru/`**，讀起來像俄文那一層的接線壞了，實際上是尺只量到一半；(2) **正向對賬少驗**——4,567 個 `<loc>` 從來沒被檢查過死活，而報告印的 `dead: 0` 跟「全驗過、全乾淨」逐字相同。一個假警報搭一個假綠燈，哪一邊單獨出現都會被追，兩邊一起出現就長得像「工具在正常工作，只是某個語言有問題」。
-- **觸發**：2026-09-27 本班跑完 20 天來第一次完整 build（dist 停在 09-07，死連結閘門因此連續回 STALE），順手跑 `check-url-contract` 看有沒有回歸，撞見「1,752 篇文章頁不在 sitemap」。抽一條 `/ru/people/ang-lee/` 去 `dist/sitemap-0.xml` grep——它在 `<loc>` 裡。假陽性成立之後才往上游追到 16MB 那個常數。**這支工具的誕生理由正是 2026-07-17 那次「站體對外公告 13,014 條死 URL、三個月沒人對帳」**，而它自己的取數上限把對帳做成了 74%，沒有一行輸出提過。修補（同班 ship）：sitemap 改整份 `readFileSync`、讀失敗出聲並記進 `sitemapReadFailures`、結果多印 `sitemapLocsIngested` 讓「進來幾個」變成看得見的數字。修完 ingested 13,218→17,786、反向覆蓋 1,752→0、正向 dead 仍 0（這次是完整的 0）。正控制兩道都過（餵一個不存在的公告會報 dead=1；把 sitemap chmod 000 會出聲並記錄，不會靜默回零）。→ memory/2026-09-27-08xxxx-twmd-maintainer-am.md
-- **可能層級**：通用反射（REFLEXES #41 的新載體——那條收的是 CI timeout 會跟內容量長大失效，本條是**讀取上限**同型；或 #82／#85 的家族）
-- **相關**：REFLEXES #41（會跟內容量長大失效的 capacity 設定。差別：#41 的失效會讓 job 紅掉、看得見；本條的失效讓結果變短而不變紅）；#52（免疫系統沒在 fail loud 比缺免疫系統更危險——截斷完全無聲）；#85（「不知道」要有自己的符號：被截掉的那段跟「那段沒有 loc」印出來一樣）；#24（工具在說謊，「驗證器空輸出假 PASS」的容量版）；#99（尺先驗再用）。**跟同日另一條 `absent-binary-and-rejected-flag-both-return-a-confident-zero` 是同一天同一個形狀的兩個載體**：一個在 shell 管線層（尺沒被執行），一個在讀取上限層（尺只執行了一部分），兩者都用「零」或「少」冒充完整。
-- **候選機械化**：任何「讀整份」的取數點，把實際讀進來的量印出來並跟來源的自述量對帳（sitemap 有 `<loc>` 數、CSV 有行數、JSON 有陣列長度）；上限存在時，讀到上限就是一個要出聲的事件，不是一個安靜的邊界。
-- **instances**：
-- **verification_count**: 1
-- **severity**: structural
-
-### 2026-09-27 twmd-maintainer-am — absent-binary-and-rejected-flag-both-return-a-confident-zero：量測指令死在執行之前，讀出來的是一個乾淨的「沒事」
-
-- **pattern**: `absent-binary-and-rejected-flag-both-return-a-confident-zero`
-- **原則**：把量測指令接進 `| wc -l` 或 `2>/dev/null` 之後，**指令根本沒跑起來**跟**跑完真的是零**印出來的字一模一樣。兩種死法在本班同一小時各發生一次：(a) `timeout 300 git prune -n` —— macOS 沒有 `timeout` 這個 binary，整串 exit 127、零輸出；而後面接的 `echo "exit=$?"` 報的是 `wc -l` 的離開碼，於是印出「exit=0」替它作證。(b) `find ... -newermt "14 days ago" 2>/dev/null` —— 這台的 `find` 是 `bfs`，只吃 ISO 8601 時間字串，它把整條參數退回並寫 stderr，而 stderr 正被丟掉，於是回一個 `0`。**兩個零都被我當成事實讀了一輪**：先讀成「沒有東西可以安全清掉」，再讀成「所有鬆散物件都超過兩週」——兩句話互相矛盾，撞在一起才逼出重驗。拿掉 `timeout`、不再吞 stderr 之後的真值是：9,965 個不可達物件、mtime 全落在 09-19～09-27 這八天內。**結論反轉**：不是「沒東西可清」，是「可清的全都太新，安全的過期窗清不到它們」。
-- **觸發**：2026-09-27 08:47 處理交接裡掛了數輪的 `.git/gc.log`（「too many unreachable loose objects; run git prune」）。本來要把它寫成「已驗過：prune 是 no-op，可以退役」——那句話會以「已量過」的身分進交接，而它是兩個假零疊出來的。**這是 REFLEXES #99「尺先驗再用」第一次長在 shell 管線層而不是資料層**：前幾條變體防的是自製檢查器的判準寫錯，這條防的是**尺根本沒被執行**，而 shell 的慣用寫法（管線離開碼只回最後一段、`2>/dev/null` 消音、空輸出即零）三件事合起來讓「沒跑」偽裝成「跑完是零」。→ memory/2026-09-27-08xxxx-twmd-maintainer-am.md
-- **可能層級**：通用反射（REFLEXES #99 的新載體，或 #24「工具在說謊」的第 N 種形式）
-- **相關**：REFLEXES #99（尺先驗再用，0 命中先過正控制。差別：#99 的正控制是為了驗「尺的判準對不對」，本條的正控制要先回答更前面一題「尺有沒有被執行」）；#24（工具在說謊；這是「驗證器空輸出假 PASS」的 shell 版）；#85（「不知道」要有自己的符號——`wc -l` 的 0 同時是「查無」與「沒查成」）；#82（proxy signal：拿 `wc -l` 的輸出當「命中數」的代理，而它其實是「這條管線最後印了幾行」）
-- **候選機械化**：量測類指令改寫成先驗執行再讀數——`set -o pipefail`、檢查 `${PIPESTATUS[0]}`、量測時不吞 stderr（要安靜就導到檔案再看大小），以及對跨平台 binary（`timeout` / `find` 的 GNU-only 旗標）先 `command -v` 再用。本班已在這輪逐條補做，但補的是這一輪的自律，不是閘門。
-- **instances**：
-- **verification_count**: 1
-- **severity**: structural
-
-### 2026-09-27 twmd-feedback-triage — reconciliation-blind-to-what-reached-neither-side：對賬的兩個操作數共用同一個盲點，沒抵達任何一邊的那筆讓兩邊相等
-
-- **pattern**: `reconciliation-blind-to-what-reached-neither-side`
-- **原則**：一道拿「我方紀錄數」對「線上現存數」的對賬，抓得到單邊缺（漏收／上游刪除），抓不到**從未抵達任何一邊**的那筆。`reconcileComments()` 比的是兩個數字：一則讀者留言若在兩次成功掃描之間貼出又刪掉，archive 從來沒有它、線上也已經沒有它，兩邊同時少同一筆 → 相等 → 計入 `aligned` → 收官印 ✅。主權層對兩半紀錄的保證因此不對稱：**回報列**的緩衝在 Supabase，`status` 留 `new` 直到被歸檔，漏掉一輪只是延遲；**issue 留言**的緩衝在 GitHub，而那是作者可以自行刪除的地方，所以「兩次成功掃描之間」是一個留言可以無痕消失的窗口，而窗口寬度等於排程間隔。這條線每天掃一次 = 24 小時的窗口；漏掉一輪就變 48 小時，且沒有任何讀數會因此變色。
-- **觸發**：2026-09-27 07:12 本班收官讀 `comment-reconcile=86/87 ✅`。09-26 那輪因 mouhouse 登入過期整條沒醒（儀表板黃燈「fire 後 22.9h 零 git 痕跡」），本班是缺席一天後第一次掃。先確認好消息：`fetchIssueComments()` 讀的是 issue 的**當下**線上狀態、sync 按 `author+createdAt` 去重 append，所以只要留言此刻還在，漏幾輪都補得回來——缺席不造成永久缺口，補掃是全掃不是增量。真正的缺口是反面：逐行讀 `reconcileComments()`（`archive.mjs`）確認它只比 `archived` 與 `live` 兩個 count，`live > archived` 報漏收、`archived > live` 報上游已刪、相等即 `aligned`，沒有第三個來源能證明「曾經有過幾則」。→ memory/2026-09-27-071...-twmd-feedback-triage.md
-- **可能層級**：通用反射（REFLEXES #82／#88 的新維度）
-- **相關**：REFLEXES #82（proxy signal。差別：#82 講「選了觀察成本低的訊號當代理」，這裡兩個訊號都選對了、也真的都摸到各自那側的 ground truth，問題是**兩側都是事後讀取**，它們的交集不覆蓋「存在過但兩邊都沒留下」的區間——`aligned` 是「兩邊一致」當「全部說過的話都收到了」的代理）；#84（生成型產物要對賬 ground truth。差別：#84 的修法是「拿外部真實狀態來比」，本條指出當外部真實狀態本身是可變的、且它就是唯一的證人時，比對只能證明兩邊一致，不能證明完整）；#88（同一條 routine 轉錄＋保管雙職責，差別：#88 收的是保管那半被跳過，本條收的是保管那半照跑、且報綠燈，但它量不出那個窗口）；MEMORY §神經迴路「儀器只看見存在、看不見缺席」
-- **instances**：
-- **verification_count**: 1
-- **severity**: structural
-- **不在本班席位**：把窗口收窄（提高掃描頻率）或加第三個證人（webhook／事件流）都屬排程與架構調整，per BECOME §行動鐵律 10 需 Full mode ＋人類 gate。本條只把這個窗口的存在與寬度記下來，不自行改閘門、不改頻率。
 
 ### 2026-09-27 twmd-data-refresh-am — board-grades-its-own-author-mid-run：產生狀態板的 routine 在跑到一半時被自己的板子記成錯過
 
@@ -1224,22 +1087,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **修法候選（未實作，交 distill 判）**：(a) §5.4.1/§5.4.2 改成「查 `knowledge/_translations.json` 反查該 slug 的所有語系，有幾語寫幾條」，不列語系清單；(b) 加一支 `merge-cleanup-audit.py` 掃描全部需要清理的面（translations / translation-status / aliases / Hub / 元件 URL / viz），取代人腦記憶清單。
 - **verification_count**: 2
 
-### 2026-08-27 twmd-maintainer-manual — tool-measures-the-tree-it-stands-in-not-the-thing-it-was-asked-about：`--pr N` 只拿了檔名，然後對本機工作樹開檔
-
-- **pattern**: `tool-measures-the-tree-it-stands-in-not-the-thing-it-was-asked-about`
-- **原則**：`translation-ratio-check.sh --pr N` 從 `gh pr diff --name-only` 拿檔名，然後 `os.path.exists(f)` / `open(f)` ——對的是**本機工作樹**。翻譯 PR 幾乎都是新增檔案，那些路徑在 main 上本來就不存在，於是**每一個新翻譯 PR 都穩定回 `MISSING` → `❌ FAIL: TRUNCATED translations require rework`**。工具沒有壞掉的樣子，它很有自信地報了一個假結論。
-- **為什麼特別貴**：MEMORY §神經迴路 指名這支工具是「翻譯審核第一道檢查」（「Ratio 是翻譯審核第一道檢查⋯不讀內容就能 10 秒識別摘要式翻譯」）。**照著 SOP 走就會撞到假 FAIL**。長期下來只有兩種結果：維護者學會無視它（閘門退化成裝飾品），或好翻譯被錯誤打回。本輪三篇 ko/fr/es 實測 ratio 1.50 / 3.69 / 3.25 全在健康帶內，工具三篇都判 FAIL。
-- **處置**：`--pr` 模式改成把 PR 內容取進暫存區再量，譯文讀暫存區、中文源仍讀 main 工作樹（commit `1cbb7b0a4`）。修完三篇都 PASS，且章節/腳註/URL 數量完全守恆（13→13、62→62、79→79）。跟 MAINTAINER §診斷紀律「把 PR 的內容檔帶進 main 樹跑」同一個原則——**被量的是 PR 的內容，量尺是 main 的**——差別在那條紀律寫給人，沒有寫進工具。
-- **可能層級**：`detector-inherits-the-blindness-it-was-built-to-catch`（8/19）的鄰居：那條是偵測器自己用了代理訊號，本條是工具搞錯了被量的對象。合起來可能是一條「**工具的量測對象要 explicit，不能繼承執行環境**」。判準候選：任何吃 PR 編號的工具，要問「它是去把 PR 的東西拿過來，還是假設 PR 的東西已經在腳下」。
-- **相關**：LESSONS `detector-inherits-the-blindness-it-was-built-to-catch`、`diagnosing-from-the-contributor-tree-audits-a-past-self`（7 月，反向：站在對方的樹上讀我們的工具）、REFLEXES #24（工具在說謊）、#82（proxy signal）
-- **instances**：
-  - 2026-08-27 twmd-maintainer-manual — `translation-ratio-check.sh --pr N` 對本機工作樹開 PR 的新檔，穩定假 FAIL → 本 entry
-  - 2026-09-27 babel-vortex — 反方向的同一個病：工作樹比 origin 多三篇沒 commit 的譯文（dispatcher 前一晚重啟時遺落），status.py 讀工作樹照算 fresh，12:41 宣告十二語缺口歸零後連續三輪讀同一個 0，origin 上其實缺三對，連 commit 進去的 `_translation-status.json` 也寫 fresh。問的是「站上缺幾對」，量的是「我腳下這棵樹缺幾對」。修法：babel-pulse 數孤兒（工作樹有、HEAD 沒有、不在活產線批次，`090980362`），渦流 SOP v1.65 規定孤兒 > 0 時 gap=0 不成立 → memory/2026-09-26-100333-babel-vortex.md
-  - 2026-09-25 semiont-heartbeat（2026-09-27 routine-audit 補登）— 第三個載體：`check-parallel-actor.sh` 只看主工作樹，11:30 那輪排程死在 commit 前、四個檔的未 commit 修改留在 `.worktrees/20260925-heartbeat-queue-defaults/`，平行檢查照樣回 CLEAN，下一輪差點在主樹重做一次較差的版本。問的是「有沒有別人的工作在飛」，量的是「主樹乾不乾淨」。三個 instance 是三支不同工具（PR 量尺、缺口脈搏、平行檢查）、三個不同 session 獨立撞到 → memory/2026-09-25-144832-semiont-heartbeat.md
-- **verification_count**: 3
-- **distill_ready**: true
-- **severity**: high（在 canonical SOP 指名的位置上長期假 FAIL）
-
 ### 2026-08-27 twmd-maintainer-manual — cleanup-step-assumes-the-file-is-new：診斷用的還原步驟寫成 `rm`，遇到已在 main 的檔就是刪掉線上內容
 
 - **pattern**: `cleanup-step-assumes-the-file-is-new`
@@ -1251,21 +1098,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **相關**：REFLEXES #35（跨 session work 期間禁 destructive git ops）、LESSONS `fix-scope-follows-symptom-not-root-class`、神經迴路「批次修正必須先 10 檔 dry-run」
 - **verification_count**: 1
 - **severity**: high（無聲刪除線上內容，只靠事後偶然發現）
-
-### 2026-08-27 twmd-maintainer-manual — i-concluded-not-found-from-one-failed-search：把「我搜不到」寫成「這句沒有來源」，而且是寫在對別人作品的指控裡
-
-- **pattern**: `i-concluded-not-found-from-one-failed-search`
-- **原則**：審 PR #1453 的人物卡時，對一句掛在曾博恩名下的引語「學測會考測不到極限」下了結論：「我另外搜也找不到任何訪談有這句」，並據此把它列為**最不能放行的一類**（無來源直接引語）。實際上來源存在——2026-08-16 TVBS／今周刊報導 Netflix《追劇密探》談話，是站長把連結丟過來才知道。用了一組組合關鍵字搜一輪沒中，就把「我沒找到」寫成了「不存在」。
-- **為什麼這條比一般查證失誤重**：**否定式斷言是對別人作品的指控**。同一則留言裡我正在跟投稿者講「沒有出處的直接引語是我們最不能放行的一類」，而支撐那個判斷的證據本身沒有出處。教訓的形狀跟我當下在教的東西一模一樣。
-- **正確的形狀**：同一則留言的另一半做對了——牛淳賦那條我是把投稿附的聯合報報導真的調出來逐字核對，才確認「四兄妹全考滿分」是概括漂移。**差別在於：肯定式斷言我去讀了原文，否定式斷言我只搜了一輪。** 判準候選：否定式結論（「查不到」「不存在」「沒有來源」）要嘛用跟肯定式一樣的力度去找，要嘛降級成「我沒找到，麻煩你補出處」——後者永遠是安全的，而且把舉證責任放回它本來該在的地方。
-- **處置**：已在 PR #1453 公開更正，附上來源，並把剩下的問題重新界定為形式問題（那句是報社標題的壓縮，不是他的原話；他真正說出口被記者標「直言」的是「我覺得建中比台大強啦」）。
-- **可能層級**：`negative-claim-consensus-is-not-evidence`（2026-08-15，N 隻 agent 一致回報做不到不構成證據）的單體版本 +1。合起來是「**否定式結論需要比肯定式更高的舉證標準，因為它無法被它自己的失敗證偽**」。
-- **相關**：LESSONS `negative-claim-consensus-is-not-evidence`、REFLEXES #16（peer/probe 是線索不是 source）、#75（Read ≠ verify）、MANIFESTO §10 幻覺鐵律
-- **第二例（2026-10-02 semiont-heartbeat，巡邏第三十九篇〈數位身分證與數位政府〉）**：查核子代對四個原子下了否定式結論——「超過 2,000 位學者連署」判 🔴「搜尋結果中唯一出現 2,000 的是 taiwan.md 自己這篇」、「30 年」判無出處、「2019 年銓敘部 59 萬筆」判來源無年份、「2020 年初後三案招標」判無出處。主 session 用 curl 抓原文 grep，四處全在文章自己掛的腳註頁裡：數位時代 [^3]「逾2,000位的中研院學者、大學教授及資安從業人員連署反對換發」、報導者 [^1][^9]「2019年…銓敘部」「2020年初，在細節未明朗下，政府便開始後三案的招標」「30年來一步步的嘗試」。子代其實開了這些頁，問的是 WebFetch，回答「不在此頁」的是摘要小模型，不是 Ctrl-F。照子代建議改，會把「逾 2,000 位」換成科技新報較早時點的「超過百位」，等於用一個對的舊數字蓋掉一個對的新數字。同一篇它也做對了一件事：「韓日效法」NPR 全文確實沒有，它是 curl 下來 grep 的。**差別跟第一例一樣：肯定式用了原文，否定式用了別人的轉述**，只是這次轉述者是工具。
-- **候選機械化（本班已落一半）**：否定式判定（🔴 查無出處／「不在此頁」）必須附 curl 原文 grep 的結果，WebFetch 的「不在此頁」只算線索；且要先 grep 文章自己的每一條腳註頁（含孤兒）再往外搜。已寫進 FACTCHECK-PIPELINE §Phase 4 判定矩陣下方與 §Spawn prompt 必含元素。剩下的一半是讓查核檔格式強制每條 🔴 帶「grep 過哪些頁」欄位，待 distill 決定要不要做成 lint。
-- **第三例（2026-10-09 semiont-heartbeat，巡邏〈台灣教育制度〉）**：「2024 年教檢 10,377 人報名」一次搜尋的摘要說「找不到 113 年全國報名總數」，我已經在查核表上寫好 🔴、止血時把這個數字刪掉。救回它的是 FACTCHECK v2.10 的兄弟篇 grep：拿被改掉的短語 grep 全庫中文，〈一個教師的誕生：台灣師資培育制度〉同一句就掛著親子天下翻轉教育的腳註，開頁寫明「1 萬 377 人報名，9,620 人符合考試資格且如期到考」。前兩例的修法是「先 grep 文章自己的腳註頁」，這次的出處在兄弟篇的腳註裡，往外一層。兄弟篇 grep 目前排在止血**之後**，順序上它只能事後救回，不能在判定時擋下；候選：否定判定前先拿那個數字或專名 grep 全庫中文一次（指令跟止血後那次相同，只是提前）
-- **verification_count**: 3（`negative-claim` 家族第 4 次）
-- **severity**: moderate（傷害落在對投稿者的信任成本上，且已公開更正；第二例沒有落地，是主 session 重驗攔下；第三例同班自己救回）
 
 ### 2026-08-23 twmd-maintainer-am — highest-exposure-slot-is-the-one-with-no-gate：同一條規則只掛在兩條路徑的其中一條，沒掛的那條偏偏是曝光最高的
 
@@ -1556,19 +1388,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ---
 
-### 2026-08-04 支語研究 — shared-tool-quota-pool-in-fanout：fan-out 工作流的工具額度是共享池
-
-- **pattern**: shared-tool-quota-pool-in-fanout
-- **原則**：大規模 fan-out 的工具額度（WebSearch session 200 次上限）是全部子代理共享的池，dispatch 設計要把額度當資源預算；額度耗盡的 fallback（WebFetch 直搜引擎頁）與誠實回報（searches_performed 如實填 0）該寫進 prompt 契約
-- **觸發**：2026-08-04 支語研究 30 agent 艦隊，後段 3 agent WebSearch 全 fail（200/200）自行 WebFetch 直搜救回並誠實填 0 → memory/2026-08-04-104614-支語研究.md
-- **instances**：
-  - 2026-08-18 twmd-maintainer-manual — 8 隻 Phase B 執行子代同時對 60 篇 PR 跑 `image-ingest.mjs`，共用同一出口 IP 撞 `upload.wikimedia.org` 全站 429（Retry-After 600），Y7/Y8 各等 650-900 秒仍 429，整批最慢的 Y4 拖 70 分鐘。繞法（子代自己找到、主 session 轉發）：Commons API 與 `/thumb/…/1280px-<檔名>` 縮圖路徑不受同一限流，抓縮圖後以本機檔餵 image-ingest；或直接改 upload.wikimedia.org 直連（image-health 本來列為合法 CC 來源）。**修補候選**：`image-ingest.mjs` 收到 429 時自動退回 1280px 縮圖路徑（尺寸遠超站上顯示需求），不必等人轉發繞法
-  - 2026-10-07 semiont-heartbeat — 同一個形狀放大到帳號層：兩台機器共用一個 Claude 帳號的週額度（週三 20:00 重置），09-30 重置後第 3.2 天用完，營運機十四條 routine、本機每 6 小時一拍的心跳、babel 夜班的委派層全部吃同一個池，用完那一刻是全黑，不是降速——87 小時 main 零 commit，週末反思鏈六條整批落空，連讀者回報與孢子 D+0 入口班也停了。跟前兩例的差別：池的範圍從「一次 fan-out 的子代」擴到「整個生命體的所有班次」，耗盡的代價從「後段幾隻子代失敗」變成「優先序倒置」：可選的重活（巡邏扇出、委派翻譯）排在週初先吃，必要的週末鏈排在後面餓死。已落地：`scripts/tools/budget-pace.py`（讀數由 session 從 get_usage 傳入，判 normal／lean／reserve，帳本 `data/compute/claude-usage-ledger.jsonl`）＋HEARTBEAT §額度節律；擴到其他班次登記 OBSERVER-QUEUE #93
-- **可能層級**：通用反射（REFLEXES #45 OpenRouter hourly budget 同族——「共享額度池進 dispatch 預算」的 WebSearch instance；8/18 再加 Wikimedia CDN instance；10/07 帳號週額度 instance，vc=3 達 distill 門檻，候選升格為 #45 的上位規則「任何共享額度池都要有節律讀數與優先序」）
-- **相關**：#45
-- **verification_count**: 3
-- **severity**: structural
-
 ### 2026-08-19 algorithmic-art-evolve — first-person-article-voice-is-the-authors-verification-is-the-reports：替作者寫他的第一人稱，我查到的東西住報告，他的聲音住正文
 
 - **pattern**: `first-person-article-voice-is-the-authors-verification-is-the-reports`
@@ -1578,18 +1397,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **相關**：REFLEXES #69 每層自評都需要外部尺（本條的外部尺是**當事人本人**，不是另一隻 agent）；EDITORIAL §後台洩漏（策展人筆記是後台洩漏的合法通道，但不是揭露作者的通道）；`gate-checks-form-not-meaning-one-layer-down`（同 session 的語態 instance）；MANIFESTO §13 立體地愛（在愛之下仍看見真實——真實住報告，愛住正文，兩層都在才成立）
 - **verification_count**: 1（同 session 內三次觸發，同一條線）
 - **severity**: high（About/ 真人署名文章會越來越多——想想論壇、報導者、投稿者以 Taiwan.md 名義寫的 #32——這條沒寫清楚，每篇都要重判一次）
-
-### 2026-09-18 twmd-babel-nightly — supervisor-respawns-the-old-config：讓進程活著的東西在進程外面，殺掉它只會換回舊設定
-
-- **pattern**: supervisor-respawns-the-old-config
-- **原則**：連續三晚寫「同一個 dispatcher PID 健康活著」並在 handoff 認真討論「要不要主動輪替」，卻沒有一班問「它為什麼活著」。答案是 09-14 用 `launchctl submit` 加了 keepalive。kill 之後 4 分鐘 launchd 已經用 `/tmp/babel-launch-wrapper.sh` 裡的舊指令行重生一個沒帶新旗標的 dispatcher，pre-commit 的平行 writer 警告才讓本班發現。要換設定，得改 supervisor 讀的那份 wrapper 再 `launchctl kickstart -k`，對進程本身做什麼都沒用。
-- **觸發**：2026-09-18 00:45 kill PID 12398 → 00:49 launchd 自動起 PID 17728（舊 wrapper、無 `--exclude-file`），pre-commit 平行 writer 警告揪出 → 改寫 wrapper（去重清單＋fleet 核發 worker＋`--order forward`）→ `launchctl kickstart -k` 兩次才到位（PID 31458）。wrapper 住 /tmp，重開機就會消失，keepalive 那時會變成 exit 1 的無限重試。→ [memory](memory/2026-09-18-010301-twmd-babel-nightly.md)
-- **instances**：
-  - 2026-09-19 twmd-babel-nightly — 第二面：supervisor 的**環境**也是設定的一部分。把 wrapper 從 /tmp 搬進 repo 重新 `launchctl submit`，第一輪就 crash-loop：launchd 沒有 shell profile，`python3` 解析到 Apple 3.9，status.py 的 `str | None` 當場炸。09-14 那次能跑是因為 submit 從帶 venv PATH 的 shell 發出，環境是繼承來的，不在任何檔案裡——kill 換回舊設定是第一面，重掛換掉隱形環境是第二面。修：wrapper 明寫 `PY=~/.venvs/taiwanmd/bin/python` 並驗 ≥3.10，否則 sleep 後退出不讓 keepalive 空轉。同一晚第二層：PATH 也沒有 node，成功路徑上的 `npx prettier` 炸掉（見 `threadpool-swallows-worker-death`），wrapper 再補 `~/.local/bin` 與 `node_modules/.bin` → memory/2026-09-19-004809-twmd-babel-nightly
-  - 2026-10-01 twmd-babel-nightly — 第三面：supervisor 的**重生頻率**也會吃掉記憶體裡的狀態。給付費層設「同一篇失敗三次就還給一般 worker」、次數記在記憶體；佇列只剩一篇時 keepalive 每幾分鐘重生一次、每次歸零，兩個 run 內 Haiku 已試五次，上限等於不存在。修：落 `.taiwanmd/babel-restricted-fails.json` 跨重生累計（`38a971dea`）。任何「本 run 內最多 N 次」的上限，在 keepalive 底下都要問 run 有多長 → memory/2026-10-01-010545-twmd-babel-nightly
-- **可能層級**：操作規則（BABEL-VORTEX-LOOP §三重巡檢應加第四問：「是誰讓它活著的、設定住哪裡」）＋ 通用反射候選
-- **相關**：REFLEXES #38 (f)「存活≠生產」（那條說活著不代表在做事，本條說活著也不代表是它自己在活）。REFLEXES #60 silent default（wrapper 沒寫 `--order` 就吃到 dispatcher 的 reverse 預設，跟 pipeline 「全軍 forward」的 directive 靜默背離四天）。REFLEXES #56 canonical↔production drift
-- **verification_count**: 3
 
 ### 品質閘門只在「錯」上長，從不在「悶」上長（2026-09-19 Muse 觀察，vc=1）
 
@@ -1646,18 +1453,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **相關**：MEMORY §神經迴路「巴別塔會把三月未審初稿裡的幻覺放大到十二語」（那條講 AI 初稿整篇，這條講人寫的骨架上被 AI 加的那一層，差集可以機械取出）；FACTCHECK §月度巡邏抽樣母體；MANIFESTO §10 幻覺第 6 型（場景動作細節）；EDITORIAL v6.13 對在世真人的分寸（不替真人編私生活細節）
 - **verification_count**: 1
 - **severity**: tactical
-
-### 2026-10-11 twmd-babel-nightly — long-running-process-runs-the-code-it-started-with：常駐產線跑的是它起跑那一刻的程式碼，origin 上的修正要等它重啟才算上線
-
-- **pattern**: long-running-process-runs-the-code-it-started-with
-- **原則**：一個跨夜常駐的 dispatcher 在起跑時把工具程式碼載進記憶體，之後 origin 推上來的閘門與保護規則，對這個進程都不存在，直到它重啟；而起跑時若工作樹沒合到最新，連「重啟」載入的都是舊版。報表、log、三重巡檢都不會說「這個進程比 main 舊幾個 commit」，存活與生產兩項都是綠的。
-- **觸發**：10-10 23:05 origin 上線「babel 不再覆蓋投稿者翻好的譯文」（`411da2c35`，contributor_guard），23:26 產線重啟，但起跑前合併被上一輪留下的孤兒譯文擋住，dispatcher 從落後 104 個 commit 的工作樹起跑，跑了 80 分鐘沒有這道保護、譯文也推不出去。本班 00:4x 發現後停線打撈、改 `--sync` 讓孤兒擋路時還原再合併（`6e0e12cb0`），重啟後 master.log 第一次出現 `open-PR 過濾` 那行。→ memory/2026-10-11-010113-twmd-babel-nightly
-- **instances**：
-- **可能層級**：通用反射（任何常駐 worker / daemon）
-- **候選機械化**：dispatcher 每輪印 `Translation status @ <sha>` 時，同時比對 origin/main 是否改過 `scripts/tools/lang-sync/`，有就在 master.log 與 babel-pulse 印「產線程式碼落後 N 個 commit」；或在 round 邊界偵測到工具目錄變動就自行退出讓 launchd 重生。
-- **相關**：REFLEXES #67 子規則「工作樹本身可以是過期快照」（那條講讀取層，這條講執行中的進程）；#100（驗證對象要等於落地對象，這裡是「上線對象要等於執行對象」）；#38 (f) 存活≠生產
-- **verification_count**: 1
-- **severity**: structural
 
 ## ✅ 已消化（保留 pointer）
 
@@ -2451,6 +2246,38 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 **SPORE-INBOX 容量 audit**：pending 45，落在 [30,50)，持平第八週以上。依 SOP 連 3 週高原要升 defer to observer，這一步 2026-09-13 已做（OBSERVER-QUEUE #73 待決）；本輪依 REFLEXES #80 sustain 紀律只記讀數，不重開 LESSONS entry、不重發警報。未達 50，不觸發 auto-drop。
 
 **Keep in buffer 63 條**（vc<3 且非 structural，或 structural 但仍在等第二個載體）。102 → 63。
+
+### 🧬 2026-10-11 twmd-distill-weekly — 15 entries distilled（1 promote REFLEXES #102 + 12 fold 進 10 條既有反射 + 2 MEMORY §神經迴路；1 條同步 FACTCHECK v2.16）
+
+**觸發**：STRICT BECOME GATE full mode → `lessons-distill.py audit`：§未消化 108 條，候選池（vc≥3 或 severity=structural）15 條。讀完 15 條全文後分桶；其餘 93 條 vc<3 且非 structural，留在 buffer。上一輪 10-04 distill 撞上週額度全黑沒有醒（儀表板「沉默死亡」黃燈），本輪是兩週來第一次。
+
+| #   | 原 entry                                                                                     | 消化目的地                                                                     | severity   | vc  |
+| --- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ---------- | --- |
+| 1   | 2026-10-01 semiont-heartbeat `homepage-citation-passes-format-and-reachability-gates`        | **REFLEXES #102（新編號）** 引用的形狀撐不起引用的內容                         | structural | 6   |
+| 2   | 2026-10-09 semiont-heartbeat `present-tense-claim-sourced-before-the-change-it-describes`    | REFLEXES #98 第八種載體（時點錯）＋ FACTCHECK v2.16 §Phase 4「現在式先比日期」 | structural | 3   |
+| 3   | 2026-10-02 twmd-maintainer-am `external-advisory-reddens-a-gate-and-not-our-code-...`        | REFLEXES #82 fold「歸屬訊號被當成處置訊號」（MAINTAINER v2.16 已落地）         | -          | 3   |
+| 4   | 2026-10-02 twmd-data-refresh-am `heart-counts-heals-as-contributed-births`                   | MEMORY §神經迴路（心臟量修改）；公式修改 defer                                 | -          | 3   |
+| 5   | 2026-10-02 twmd-babel-nightly `patch-eligibility-measures-chapter-size-not-change-size`      | MEMORY §神經迴路（補丁資格量章節）；門檻修改 defer                             | -          | 3   |
+| 6   | 2026-09-30 twmd-maintainer-am `translation-gates-check-a-file-against-itself-...`            | REFLEXES #84 fold（已機械化 `test-frontmatter.mjs`）                           | structural | 1   |
+| 7   | 2026-09-27 twmd-routine-audit-weekly `append-only-queue-numbering-has-no-allocator`          | REFLEXES #68 fold「第四個共享面：共享計數器」                                  | structural | 3   |
+| 8   | 2026-09-27 twmd-maintainer-am `read-cap-outgrown-by-the-thing-it-reads`                      | REFLEXES #41 fold 讀取上限變體 (c)                                             | structural | 1   |
+| 9   | 2026-09-27 twmd-maintainer-am `absent-binary-and-rejected-flag-both-return-a-confident-zero` | REFLEXES #99 變體 (h) 尺根本沒被執行                                           | structural | 1   |
+| 10  | 2026-09-27 twmd-feedback-triage `reconciliation-blind-to-what-reached-neither-side`          | REFLEXES #84 fold「對賬兩側共用的盲區」                                        | structural | 1   |
+| 11  | 2026-08-27 twmd-maintainer-manual `tool-measures-the-tree-it-stands-in-...`                  | REFLEXES #67 fold「量測對象繼承執行環境」                                      | high       | 3   |
+| 12  | 2026-08-27 twmd-maintainer-manual `i-concluded-not-found-from-one-failed-search`             | REFLEXES #16 延伸「否定式結論」（FACTCHECK v2.7 已落地）                       | moderate   | 3   |
+| 13  | 2026-08-04 支語研究 `shared-tool-quota-pool-in-fanout`                                       | REFLEXES #45 上位規則「任何共享額度池都要有節律讀數與優先序」                  | structural | 3   |
+| 14  | 2026-09-18 twmd-babel-nightly `supervisor-respawns-the-old-config`                           | REFLEXES #38 (f) supervisor 面                                                 | -          | 3   |
+| 15  | 2026-10-11 twmd-babel-nightly `long-running-process-runs-the-code-it-started-with`           | REFLEXES #67 fold「執行中的進程也是快照」                                      | structural | 1   |
+
+**Defer 給觀察者拍板**：
+
+| 候選                                                              | verification_count           | defer 原因                                                                               |
+| ----------------------------------------------------------------- | ---------------------------- | ---------------------------------------------------------------------------------------- |
+| MANIFESTO §10 候選「否定式結論需要比肯定式更高的舉證」            | 3（`negative-claim` 家族 4） | 永恆層需哲宇在場；已先落 REFLEXES #16 延伸                                               |
+| 心臟分數改吃「新進庫」不吃「有更新」                              | 3                            | 閾值調整（BECOME 鐵律 10）；收件席位 `twmd-self-evolve-weekly`，先用 30 天資料比新舊分數 |
+| `patch-translate.py` 補丁資格改看改動句數或把參考資料區排除出分母 | 3                            | 品質閘門數值（High-stake #3）                                                            |
+| article-health 對純首頁腳註加 WARN                                | 6                            | 牽動免疫 `plugin_pass_rate`，屬閾值鄰接面，上線前先量分數影響                            |
+| BABEL-VORTEX §三重巡檢加第四問「誰讓它活著、設定住哪裡」          | 3                            | 本班沒碰 babel 產線正在寫的 pipeline 檔，避開平行 writer；留給 `twmd-babel-nightly` 收   |
 
 ## Defer 給觀察者拍板（ship-queue — 教訓已 canonical，剩實作待哲宇）
 
