@@ -29,7 +29,7 @@ sporeLinks:
     date: '2026-05-02'
     url: 'https://x.com/taiwandotmd/status/2050601653792047479'
 translatedFrom: 'People/賈永婕.md'
-sourceCommitSha: 'dd39065b2'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:a92f6a6b22257ffa'
 sourceBodyHash: 'sha256:3a5ef98d636f1bfa'
 translatedAt: '2026-05-16T22:35:34Z'

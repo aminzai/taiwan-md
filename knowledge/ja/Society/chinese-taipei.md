@@ -27,7 +27,7 @@ sporeLinks:
     date: '2026-06-04'
     url: 'https://x.com/taiwandotmd/status/2062529681283522655'
 translatedFrom: 'Society/中華台北.md'
-sourceCommitSha: 'bbd8788a'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:177fea3750c80f10'
 translatedAt: '2026-06-16T16:55:14Z'
 sourceBodyHash: 'sha256:dab437d622fd59b0'

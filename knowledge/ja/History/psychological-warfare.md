@@ -23,7 +23,7 @@ readingTime: 8
 lastVerified: 2026-05-03
 lastHumanReview: false
 translatedFrom: 'History/心戰.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:5c60d44b5f8680b8'
 sourceBodyHash: 'sha256:2904cf32d3eb3626'
 translatedAt: '2026-05-03T21:38:18+08:00'

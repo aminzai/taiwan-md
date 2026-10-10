@@ -22,7 +22,7 @@ sporeLinks:
     date: '2026-04-11'
     url: 'https://www.threads.com/@taiwandotmd/post/DW_l-6Yk_kg'
 translatedFrom: 'People/鄭麗文.md'
-sourceCommitSha: 'dd39065b'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:d7d8adfe5a1c7158'
 translatedAt: '2026-06-10T16:41:16Z'
 sourceBodyHash: 'sha256:119c3d104b24e9dd'

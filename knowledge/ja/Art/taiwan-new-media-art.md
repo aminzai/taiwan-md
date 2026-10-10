@@ -23,7 +23,7 @@ readingTime: 12
 lastVerified: 2026-04-04
 lastHumanReview: true
 translatedFrom: 'Art/台灣新媒體藝術.md'
-sourceCommitSha: 'ef8fab38'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:d196b7664449f36f'
 sourceBodyHash: 'sha256:3affa690cf7b66dc'
 translatedAt: '2026-06-12T16:38:55Z'

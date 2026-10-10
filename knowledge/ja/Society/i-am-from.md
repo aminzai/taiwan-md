@@ -28,7 +28,7 @@ sporeLinks:
     date: '2026-06-05'
     url: 'https://x.com/taiwandotmd/status/2062839725648703638'
 translatedFrom: 'Society/我是OO人.md'
-sourceCommitSha: '21298a7a'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:7528460cb857fc3b'
 translatedAt: '2026-06-14T16:37:40Z'
 sourceBodyHash: 'sha256:0b63d09474dfeccb'
