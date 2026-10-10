@@ -1647,6 +1647,18 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **verification_count**: 1
 - **severity**: tactical
 
+### 2026-10-11 twmd-babel-nightly — long-running-process-runs-the-code-it-started-with：常駐產線跑的是它起跑那一刻的程式碼，origin 上的修正要等它重啟才算上線
+
+- **pattern**: long-running-process-runs-the-code-it-started-with
+- **原則**：一個跨夜常駐的 dispatcher 在起跑時把工具程式碼載進記憶體，之後 origin 推上來的閘門與保護規則，對這個進程都不存在，直到它重啟；而起跑時若工作樹沒合到最新，連「重啟」載入的都是舊版。報表、log、三重巡檢都不會說「這個進程比 main 舊幾個 commit」，存活與生產兩項都是綠的。
+- **觸發**：10-10 23:05 origin 上線「babel 不再覆蓋投稿者翻好的譯文」（`411da2c35`，contributor_guard），23:26 產線重啟，但起跑前合併被上一輪留下的孤兒譯文擋住，dispatcher 從落後 104 個 commit 的工作樹起跑，跑了 80 分鐘沒有這道保護、譯文也推不出去。本班 00:4x 發現後停線打撈、改 `--sync` 讓孤兒擋路時還原再合併（`6e0e12cb0`），重啟後 master.log 第一次出現 `open-PR 過濾` 那行。→ memory/2026-10-11-010113-twmd-babel-nightly
+- **instances**：
+- **可能層級**：通用反射（任何常駐 worker / daemon）
+- **候選機械化**：dispatcher 每輪印 `Translation status @ <sha>` 時，同時比對 origin/main 是否改過 `scripts/tools/lang-sync/`，有就在 master.log 與 babel-pulse 印「產線程式碼落後 N 個 commit」；或在 round 邊界偵測到工具目錄變動就自行退出讓 launchd 重生。
+- **相關**：REFLEXES #67 子規則「工作樹本身可以是過期快照」（那條講讀取層，這條講執行中的進程）；#100（驗證對象要等於落地對象，這裡是「上線對象要等於執行對象」）；#38 (f) 存活≠生產
+- **verification_count**: 1
+- **severity**: structural
+
 ## ✅ 已消化（保留 pointer）
 
 <!-- distill 完的條目搬這裡 -->
