@@ -1,370 +1,369 @@
 ---
-title: 'Elephant Gym: el trío taiwanés en el que nadie canta, pero se oye una canción'
-description: 'Desde bandas estudiantiles del club de música popular de la escuela secundaria afiliada a la Universidad Normal Nacional de Kaohsiung y del club de música popular de la Secundaria Femenina de Kaohsiung, hasta el Red Marquee de Fuji Rock, Camp Flog Gnaw y ArcTangent, Elephant Gym tardó 13 años en hacer que el mundo oyera una voz taiwanesa sin vocalista principal. Tras obtener en 2024 el Premio del Jurado de los Golden Melody Awards, anunciaron una pausa prolongada; el documental estrenado en paralelo, More Real than Dreams, revela que estuvieron al borde de separarse en vísperas de la gira de 2023.'
+title: 'Elephant Gymnastics: El trío taiwanés que se escucha aunque nadie cante'
+description: 'Desde la banda de coro de la Escuela Secundaria de Gao Shi Da y la Banda de Coro de Xiong Nu, hasta los escenarios internacionales como Fuji Rock, Camp Flog Gnaw y ArcTangent, Elephant Gymnastics ha hecho que el mundo escuche una voz taiwanesa sin vocalista durante 13 años. Después de ganar el premio del jurado de música en 2024, anunciaron un descanso prolongado; la película documental simultánea, The More Real Than Dreams, revela su estado al borde de la disolución antes de la gira de 2023.'
 date: 2026-06-18
-author: 'Taiwan.md'
 category: 'Music'
-subcategory: '當代樂團 / 出海樂團'
 tags:
   [
     'banda',
-    'math rock',
+    'rock matemático',
     'instrumental',
     'Kaohsiung',
-    'giras internacionales',
+    'gira internacional',
     'Topshelf',
     'Fuji Rock',
     'SXSW',
   ]
+subcategory: '當代樂團 / 出海樂團'
+author: 'Taiwan.md'
+featured: false
+canonical-order: 999
 lastVerified: 2026-06-18
 lastHumanReview: false
-featured: false
-translatedFrom: 'Music/大象體操.md'
-sourceCommitSha: '8547b266'
-sourceContentHash: 'sha256:7b6c098933713fcd'
-sourceBodyHash: 'sha256:b2179659aae39566'
-translatedAt: '2026-06-19T00:37:18+08:00'
+researchReport: 'reports/research/2026-06/大象體操.md'
+viewpoint_formed: true
 image: '/article-images/music/elephant-gym-portland-2024.webp'
 imageCredit: 'TurquoiseGoose / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Elephant_Gym_Portland_2024.jpg'
+translatedFrom: 'Music/大象體操.md'
+sourceCommitSha: 'f40273072'
+sourceContentHash: 'sha256:f9e17206eee03c4e'
+sourceBodyHash: 'sha256:b2179659aae39566'
+translatedAt: '2026-10-10T04:35:41.350790+00:00'
 ---
 
-# Elephant Gym: el trío taiwanés en el que nadie canta, pero se oye una canción
+# Elephant Gym: La banda de tres miembros de Taiwán que se puede escuchar aunque no canten
 
-![Elephant Gym en vivo en Portland, Oregón, Estados Unidos, en marzo de 2024](/article-images/music/elephant-gym-portland-2024.webp)
-_En marzo de 2024, Elephant Gym actuó en Portland, Oregón, Estados Unidos. Fotografía de TurquoiseGoose, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Elephant_Gym_Portland_2024.jpg) ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))._
+![Elephant Gym en su actuación en Portland, Oregón, EE. UU., en marzo de 2024](/article-images/music/elephant-gym-portland-2024.webp)
+_En marzo de 2024, Elephant Gym actuó en Portland, Oregón, EE. UU. Fotografía: TurquoiseGoose, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Elephant_Gym_Portland_2024.jpg) ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))._
 
-> **Panorama en 30 segundos:** Elephant Gym es un trío taiwanés de rock sin vocalista principal. El hermano mayor, Chang Kai-hsiang, toca la guitarra; su hermana menor, Chang Kai-ting (KT), toca el bajo; y el compañero de escuela menor Tu Chia-chin toca la batería. La banda se formó en Kaohsiung en febrero de 2012[^1]. Llevaron el bajo al lugar de la melodía principal y sortearon el techo lingüístico que la voz en mandarín suele encontrar en los mercados internacionales. En 13 años subieron al Red Marquee de Fuji Rock, al Camp Flog Gnaw organizado por Tyler, the Creator, tres veces a SXSW y al británico ArcTangent, además de firmar con el sello indie estadounidense Topshelf. En junio de 2024 obtuvieron el Premio del Jurado en la 35.ª edición de los Golden Melody Awards, y en noviembre anunciaron en su concierto insignia en Taipéi que “entrarían en un período de pausa muy largo”[^2]. El documental _More Real than Dreams_, estrenado en paralelo, revela que en vísperas de su gira mundial de 2023 estaban al borde de la separación.
+> **Resumen de 30 segundos:** Elephant Gym es una banda de rock de tres miembros de Taiwán sin vocalista principal. El hermano Zhang Kai-xiang toca la guitarra, la hermana Zhang Kai-ting (KT) toca el bajo y su hermano menor Tu Jiaqin toca la batería; se formaron en Kaohsiung en febrero de 2012[^1]. Ellos llevaron el bajo al primer plano, sorteando el techo lingüístico del canto chino en el mercado internacional. En 13 años, han actuado en los escenarios principales de Fuji Rock, Camp Flog Gnaw organizado por Tyler the Creator y SXSW tres veces, y ArcTangent en Reino Unido, además de firmar con la discográfica independiente estadounidense Topshelf. En junio de 2024 ganaron el premio del jurado del 35º Festival de Música de Taiwán (Golden Melody Awards), y en noviembre anunciaron su "entrada en un largo período de descanso" en su sede principal de Taipéi[^2]. El documental 《Más real que los sueños》 reveló simultáneamente que, antes de la gira mundial de 2023, estaban al borde de la disolución.
 
 ---
 
-Oye, ¿sabías que hay una banda de Taiwán que tocó un set completo en el escenario principal de Fuji Rock, en Japón, ante tres o cuatro mil personas que no escucharon una sola letra de principio a fin?
+¿Sabes qué? Hay una banda de Taiwán que actuó un concierto completo en el escenario principal de Fuji Rock en Japón sin que la audiencia de tres o cuatro mil personas en la sala escuchara ni una sola letra.
 
-No fue un accidente de la presentación. La banda, de hecho, no tiene vocalista principal.
+Eso no fue un accidente de actuación. Su banda, por naturaleza, no tiene vocalista principal.
 
-## Una banda de rock sin vocalista principal
+## Banda de rock sin vocalista
 
-Quienes escuchan Elephant Gym por primera vez suelen hacer una cosa durante los primeros 15 segundos: buscar mentalmente el lugar de la voz principal.
+La primera vez que alguien escucha a Elephant Gym, generalmente hace algo en los primeros 15 segundos: busca la posición del cantante en su mente.
 
-La escucha pop en Taiwán entrena al público para “identificar primero la voz y después juzgar el estilo”. En cuanto suena Elephant Gym, el bajo arranca llevando la melodía. Esa línea de bass no sigue la ruta tradicional de sostén en frecuencias graves: toma una línea luminosa en posiciones altas y se sitúa casi en el lugar del canto. La batería desmonta el pulso por debajo; la guitarra agrega armonías en contrapunto. Cuando terminas de escuchar “Underwater 水底”, descubres que la “voz principal” estuvo allí todo el tiempo, solo que hablaba a través de otro instrumento[^3].
+En Taiwán, se ha entrenado al público para escuchar música popular "captando primero la voz y luego juzgando el estilo". En el momento en que comienza una canción de Elephant Gym, el bajo ya está ejecutando una melodía. Esa línea de bajo no sigue una ruta tradicional de frecuencias bajas, sino que recorre líneas brillantes en registro alto, casi como si estuviera cantando. La batería desglosa el ritmo debajo, y la guitarra complementa las armonías correspondientes. Cuando terminas de escuchar "Underwater", te das cuenta de que el "cantante" siempre ha estado ahí, solo que un instrumento diferente es el que emite el sonido [^3].
 
-La forma de tocar de KT es muy poco común entre las bandas taiwanesas. El bajo de rock tradicional trabaja con notas fundamentales, saltos de octava y deslizamientos de quinta, y deja el ritmo en manos de la batería; la mano izquierda de KT suele moverse cerca de los trastes 9 a 14, mientras la derecha pulsa con finger style para sacar un timbre limpio y brillante. Ese registro se acerca más a la escuela de bajo melódico del jazz asociada con Jaco Pastorius o Victor Wooten. Su formación original, de hecho, fue en música clásica y flauta, y solo después pasó al bajo; esa ruta atípica hizo que su comprensión de la “melodía” antecediera a la del “ritmo”.
+La forma de tocar de KT es rara en bandas taiwanesas. El bajo tradicional de rock sigue notas fundamentales, saltos de octava y deslizamientos de quinta, dejando el ritmo a la batería. La mano izquierda de KT se mueve frecuentemente cerca del traste 9 al 14, mientras que su mano derecha utiliza _finger style_ para producir un sonido limpio y brillante; ese rango tonal es más cercano al bajo melódico de músicos como Jaco Pastorius o Victor Wooten de jazz. Su origen formativo proviene en realidad de la música clásica y el oboe, y solo después se cambió al bajo; esta trayectoria atípica le ha permitido comprender la "melodía" antes que el "ritmo".
 
-La propia Kai-ting explicó alguna vez ese diseño: “Los tres tenemos muchas cosas que queremos decir; hablar directamente a través de nuestros instrumentos, en lugar de hacerlo mediante un vocalista, expresa mejor las ideas de los tres”[^4].
+Kai-Ting misma explicó este diseño: "Los tres tenemos mucho que decir, lo decimos directamente a través de nuestros instrumentos, en lugar de un vocalista, lo que mejor expresa las ideas de los tres" [^4].
 
-Ese choque de hábitos auditivos fue captado antes por la crítica internacional que por la taiwanesa. En agosto de 2014, el _South China Morning Post_ de Hong Kong escribió una frase que circuló ampliamente: “Math rock is typically a technical, complex and somewhat intense genre, but Taiwanese trio Elephant Gym add a touch of cuteness to the equation”[^5]. Pitchfork, en su crítica de _Dreams 夢境_, usó la palabra _sublime_: “Like the music of L'Rain or Ryley Walker, it's as close to jazz as rock: virtuosity not as a means of showing off, but approaching the sublime”[^6].
+Este choque de hábitos auditivos fue captado más rápido por la crítica musical internacional que en Taiwán. El _South China Morning Post_ de Hong Kong escribió una frase muy difundida en agosto de 2014: "Math rock is typically a technical, complex and somewhat intense genre, but Taiwanese trio Elephant Gym add a touch of cuteness to the equation" [^5]. Pitchfork, en su reseña de _Dreams_, utilizó la palabra sublime: "Like the music of L'Rain or Ryley Walker, it's as close to jazz as rock: virtuosity not as a means of showing off, but approaching the sublime" [^6].
 
-“Math rock”, traducido en Taiwán como “rock matemático”, tiene orígenes que pueden rastrearse hasta Slint y Don Caballero en Estados Unidos a fines de la década de 1980, y se caracteriza por compases asimétricos (7/8, 11/8), pausas irregulares y contrapunto[^7]. Suena como música de ingenieros, pero el sonido de Elephant Gym es inesperadamente suave: el bajo de KT brilla, la batería de Tu Chia-chin es seca, y la guitarra de Kai-hsiang suele retirarse al fondo para colorear. El conjunto respira más como jazz fusion. Verlos en vivo permite notar algo particular: cuando cambian entre ritmos complejos, los tres se miran. Ese contacto visual marca la forma en que alinean los pasajes en 7/8 y 11/8; en una grabación puedes ajustarte con un click, pero en vivo solo quedan la memoria muscular y la mirada. Así se entrena una compenetración de 13 años.
+En Taiwán, "math rock" se traduce como "rock matemático", y sus raíces se remontan a Slint y Don Caballero de Estados Unidos a finales de la década de 1980; sus características son los compases asimétricos (7/8, 11/8), las pausas irregulares y el contrapunto [^7]. Suena como música hecha por ingenieros, pero el sonido de Elephant Gym es sorprendentemente suave. El bajo de KT es brillante, la batería de Tuo Jia-chin es seca, y la guitarra de Kai Xiang a menudo retrocede para complementar; en general, tiene una sensación respiratoria de _jazz fusion_. Si vas a un concierto, verás algo especial: cuando cambian los ritmos complejos, los tres se miran entre sí. Esa sincronización visual es su manera de alinear las secciones de 7/8 y 11/8; la grabación puede alinearse con un _click_, pero en vivo solo se logra con memoria muscular y mirada. Esta química se ha forjado durante 13 años.
 
-Spotify luego los eligió directamente como imagen de portada de su playlist global de Math Rock[^8]. Que una banda taiwanesa se convirtiera en el rostro visual con el que Spotify explica al mundo qué es el math rock habría parecido ciencia ficción a comienzos de la década de 2010.
+Spotify más tarde los eligió como artistas de portada para una lista global de Math Rock [^8]. Que una banda taiwanesa se convirtiera en la cara visual que le explica al mundo qué es el math rock, algo que habría sido ciencia ficción si hubiera ocurrido a principios de la década de 2010.
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/HW367HtrXE0" title="Elephant Gym on Audiotree Live (Full Session)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-_El 8 de abril de 2019, Elephant Gym grabó en Chicago una sesión completa para Audiotree Live, con cinco temas: “Underwater”, “Finger”, “Head & Body”, “春雨” y “Galaxy”[^9]. La propia presentación de Audiotree decía: “technical, agile tunes with irregular rhythms and off kilter song constructions”._
+_Esta sesión completa, grabada por Elephant Gym en Audiotree Live en Chicago el 8 de abril de 2019, consta de cinco canciones: "Underwater", "Finger", "Head & Body", "春雨" y "Galaxy"[^9]. La propia descripción de Audiotree decía: "technical, agile tunes with irregular rhythms and off kilter song constructions."_
 
-## Dos hermanos y un compañero menor
+## Hermanos y compañeros de clase
 
-La memoria de inbox suele describir a esta banda como “tres hermanos”. En realidad no lo son.
+La memoria del buzón a menudo describe a esta banda como "tres hermanos". En realidad, no es así.
 
-Chang Kai-hsiang (Tell) y Chang Kai-ting (KT) sí son hermanos; el baterista Tu Chia-chin era el compañero menor de Kai-hsiang en el club de música popular de la escuela secundaria afiliada a la Universidad Normal Nacional de Kaohsiung[^10]. El punto de encuentro de los tres fue Kaohsiung. Cuando Kai-hsiang era presidente del club de música popular de esa secundaria, impuso una regla: “había que tener una canción original para poder subir al escenario”. Tu Chia-chin creció, musicalmente, en esa sala del club[^11]. Su hermana menor, Kai-ting, estaba en el club de música popular de la cercana Secundaria Femenina de Kaohsiung.
+Tsai Kai-sheung (Tell) y Tsai Kai-ting (KT) son los hermanos; el baterista Tu Chia-chin es un compañero más joven de Kai-sheung de la Banda de Música del Instituto de Educación Superior Nacional de Kaohsiung [^10]. El punto de encuentro de los tres es Kaohsiung. Cuando Kai-sheung era presidente de la banda en el Instituto de Educación Superior Nacional de Kaohsiung, estableció una regla: "debe haber una canción original para subir al escenario", y Tu Chia-chin creció en esa oficina de la banda [^11]. Su hermana, Kai-ting, estaba en la Banda de Música del Instituto de Educación Secundaria Femenino de Xiongnu (Xiongnu).
 
-Lo que conectó a los tres fue ese pequeño ecosistema de clubes de música popular de secundarias y bachilleratos de Kaohsiung. La secundaria afiliada a la Universidad Normal Nacional de Kaohsiung y la Secundaria Femenina de Kaohsiung están separadas por unas pocas calles en el distrito de Wenshan; desde los ensayos y las presentaciones hasta la formación de bandas, ya se cruzaban en la época estudiantil. Más tarde saldrían de Kaohsiung Elephant Gym, Fire EX., Shallow Levée, Crispy, The Chairs, Balai y varias bandas más, todas conectadas de algún modo con esa red de clubes.
+Lo que une a estas tres personas es el pequeño ecosistema de las bandas de música de secundaria y preparatoria en Kaohsiung. El Instituto de Educación Superior Nacional de Kaohsiung y el Instituto de Educación Secundaria Femenino de Xiongnu están separados por unas pocas calles en la zona de Wenshan, y los estudiantes tuvieron contacto desde la práctica de ensamble, las presentaciones hasta formar una banda. Más tarde, Kaohsiung produjo varias bandas como Elephant Gym, Fire Extinguisher, Qiantai, Crispy, Chair y Palai, todas conectadas con esta red de bandas de música.
 
-La madre era profesora de música, especializada en canto y piano[^12]. Los dos hermanos fueron empujados desde pequeños hacia la formación clásica: Kai-ting tuvo contacto desde el jardín de infantes con la flauta, el violín, el piano y la guitarra folk[^13]; Kai-hsiang también tocaba piano de niño y solo después pasó a la guitarra; Tu Chia-chin empezó a estudiar percusión a los cuatro años y cursó diez años de percusión clásica[^14]. La base musical de los tres, en realidad, parte de la música clásica, no del rock. Esa biografía determinó cómo crecería su sonido: una pulcritud casi obsesiva, propia de la formación clásica, en el ritmo, el contrapunto y la progresión armónica.
+Su madre es profesora de música, especializada en canto y piano [^12]. Los hermanos fueron impulsados desde pequeños hacia la formación clásica: Kai-ting tuvo contacto con flauta, violín, piano y guitarra folclórica desde el jardín de infantes [^13], y Kai-sheung también tocaba piano cuando era niño antes de cambiar a la guitarra; Tu Chia-chin comenzó a tocar percusión a los cuatro años y estudió percusión clásica durante diez años [^14]. La base musical de los tres proviene en realidad del ámbito clásico, no del rock. Esta procedencia determinó cómo sonaron después: una pulcritud casi obsesiva con la música clásica en cuanto al ritmo, la contrapunto y el desarrollo armónico.
 
-Después, los tres fueron a Taipéi a estudiar en la universidad. Kai-hsiang estudió radio y televisión en la Universidad Nacional Chengchi (durante cinco años), Kai-ting estudió sociología en la Universidad Nacional de Taiwán, y Tu Chia-chin estudió en la Universidad Nacional Chengchi[^15]. El momento del traslado al norte coincidió justo con la formación de la banda (febrero de 2012[^1]); las primeras escenas de ensayo de Elephant Gym son, casi, la imagen de tres estudiantes que volaron de Kaohsiung a Taipéi para estudiar y buscaban una estructura de chapa cerca de Chengchi para ensayar hasta la medianoche. Sobre el origen del nombre de la banda, la versión revelada por el propio Kai-hsiang en 2026 es la más graciosa. Al principio Kai-ting propuso “Cherry Wine Party”, pero los chicos lo rechazaron porque les daba demasiada vergüenza; Tu Chia-chin, inspirado por _Sports_ de Sugar Plum Ferry, propuso “Gymnastics”; Kai-ting lanzó luego “Chick Gymnastics”, pero “los chicos no podían aceptar de ninguna manera llamarse Chick”, así que también fue descartado. Después, de algún modo, se les vino a la cabeza la imagen de _Crayon Shin-chan_ en la que Shin-chan dibuja sus genitales como un elefante, y quedó definido “Elephant Gym”[^16].
+Los tres fueron a estudiar a Taipéi más tarde. Kai-sheung estudió Radiodifusión de la Universidad Nacional de Cheng Kung (estudió durante cinco años), Kai-ting estudió Ciencias Sociales en la Universidad Nacional de Taiwan, y Tu Chia-chin estudió en la Universidad Nacional de Cheng Kung [^15]. El momento en que se trasladaron al norte coincidió con la formación de la banda (febrero de 2012 [^1]), y las primeras prácticas de Elephant Gym eran casi una escena donde tres estudiantes de Kaohsiung viajaban a Taipéi para estudiar, ensayando hasta la madrugada en un cobertizo cerca de la Universidad Nacional de Cheng Kung. La historia de cómo surgió el nombre es más graciosa según la versión que Kai-sheung reveló en 2026. Al principio, Kai-ting propuso "Fiesta de Mermelada de Cereza", lo cual fue rechazado por los chicos por ser demasiado incómodo; Tu Chia-chin sugirió "Gimnasia" inspirado por el libro _Deporte_ (Tiemei Hao); luego, Kai-ting propuso "Gimnasia de Pollito", y también fue rechazada porque "los chicos nunca pueden aceptar llamarse pollitos"; finalmente, no sabiendo cómo relacionarlo con la escena donde Shinchan dibuja un pene como elefante en _Cachito el Caillito_ (Crayon Shin-chan), decidieron nombrarla "Elephant Gym" [^16].
 
-Kai-hsiang lo evaluó así: “La verdad es una historia muy torcida”[^16].
+Kai-sheung se autoevalúa: "La verdad es una historia muy retorcida" [^16].
 
-La explicación oficial hacia afuera, por supuesto, no es esa versión. Wikipedia registra que “elephant” simboliza las melodías impulsadas por el bajo y “gym” alude a los ritmos especiales en sus canciones[^17]. Conviene quedarse con ambas versiones para tener el cuadro completo.
+La explicación oficial externa, por supuesto, no es esta versión. Wikipedia registra que "elefante" simboliza el _bass_ impulsado melódico y "gym" se refiere al ritmo especial de la canción [^17]. Ambos son aceptados para una visión más completa.
 
-## La primera pausa
+## Primera pausa
 
-Mucha gente cree que el anuncio de 2024 fue la primera pausa de Elephant Gym. No lo fue.
+Mucha gente cree que el anuncio de la pausa en 2024 se refería a Elephant Gym. En realidad, no es así.
 
-En junio de 2014 lanzaron su primer álbum, _Angle 角度_. La posproducción los llevó a Japón, donde trabajaron con Takaaki Mino, guitarrista de toe, para la mezcla y el master[^18]. Esa colaboración se convirtió después en un punto de enlace estético entre Elephant Gym y toe. Desde agosto de 2014 comenzaron una gira asiática por China, Hong Kong, Taiwán, Japón, Malasia y Singapur. Entregar la mezcla del debut a toe, una referencia de manual del math rock japonés, ya era en sí una declaración: no querían hacer una banda para el mercado mandopop.
+En junio de 2014, lanzaron su primer álbum, 《角度 Angle》[^18]. La postproducción fue a Japón, donde contrataron al guitarrista de toe, Ryo Minami, para la mezcla y masterización[^18]. Esta colaboración se convirtió en un punto de conexión entre Elephant Gym y la estética de toe; a partir de agosto de 2014, comenzaron una gira por Asia que incluyó China continental, Hong Kong, Taiwán, Japón, Malasia y Corea. Al entregar la mezcla del primer álbum a toe, considerado un libro de texto del math rock japonés, esta elección fue en sí misma una declaración: no querían ser una banda para el mercado cantado en chino.
 
-Y entonces, en noviembre de 2014, anunciaron una pausa. La razón era sencilla: los varones tenían que hacer el servicio militar.
+Luego, en noviembre de 2014, anunciaron su pausa. La razón era simple: los chicos tenían que hacer servicio militar.
 
-El último concierto se llamó “See You Then”, en febrero de 2015. En 2016, Kai-hsiang terminó el servicio y volvió a Kaohsiung para seguir haciendo música[^19]. En agosto de ese mismo año, fueron invitados al Summer Sonic en Makuhari, Chiba, Japón, y se lanzó en paralelo la edición japonesa de _Angle_[^20]. Acababan de terminar una pausa y fueron empujados directamente a uno de los festivales más grandes de Japón; esa velocidad es poco común en la historia de la salida internacional del indie taiwanés.
+El último concierto se llamó "See You Then", y tuvo lugar en febrero de 2015. En agosto del mismo año, Kai-Ting regresó a Kaohsiung después de ser dado de baja para seguir haciendo música[^19]. Ese mismo año, fueron invitados al Summer Sonic en Makuhari, Chiba, Japón, donde se lanzó simultáneamente la versión japonesa de 《角度》[^20]. Justo después de terminar su pausa, fueron propuestos para uno de los festivales de música más grandes de Japón, lo cual es un ritmo poco común en la historia de la expansión _indie_ de Taiwán.
 
-Cuando Kai-hsiang volvió a Kaohsiung en 2016 dijo una frase: “Lo que más quiero hacer quizá sea servir de puente”[^21]. La insistencia de la banda en la escena japonesa empezó ya con el primer álbum, y luego continuó con colaboraciones con toe, Seiji Kameda, Flake Sounds y cinema staff. En su primer año universitario, Kai-hsiang también fundó en Chengchi el “Campamento de Música y Artes Shallow Move”, que en 2026 ya iba por su décima edición y había formado a una nueva generación de bandas indie taiwanesas como Shallow Levée, Drizzle y DSPS. Ese trabajo sistemático de conexión lo venía haciendo desde la universidad.
+Kai-Ting dijo algo después de regresar a Kaohsiung en 2016: "Lo que más quiero hacer podría ser construir puentes" [^21]. Esta dedicación al panorama japonés comenzó con su primer álbum, y las colaboraciones posteriores con toe, Seiji Kamita, Flake Sounds y cinema staff siguen esa misma línea. En sus inicios, Kai-Ting fundó el "Campamento de Música e Intelectuales Qiandong" en la Universidad Nacional de Ciencias Políticas (Taiwán), y para 2026 ya había llegado a su décima edición, formando nuevas generaciones de bandas _indie_ taiwanesas como Qiantai, Yan Yu Piao Miao y DSPS; ese trabajo de conexión sistemática era algo que hacía desde la universidad.
 
-2014 también fue el momento de su colaboración con Yoga Lin. Fueron invitados especiales en “The Shape of Mouth”, no en “Lies”, como se recuerda erróneamente con frecuencia[^22]. En escenarios como el Hong Kong Coliseum y el Taipei Arena estuvieron los tres. Que Yoga Lin usara como invitados especiales a un trío instrumental fue, dentro del pop en mandarín de 2014, una marca interesante.
+El año 2014 también fue el momento en que colaboraron con Hins Yu-ka. Fueron invitados especiales en 《La forma de la boca》, no en 《Mentiras》, que a menudo se confunde[^22]. Los tres han actuado en escenarios en Hong Kong Coliseum y Taipei Arena. La elección de Hins Yu-ka para ser un invitado especial con un trío instrumental fue también una marca interesante dentro del pop cantado en chino de 2014.
 
-## Los 30 minutos en el Red Marquee de Fuji Rock
+## Los 30 minutos en el escenario rojo de Fuji Rock
 
-31 de julio de 2022, domingo, último día de Fuji Rock, estación de esquí de Naeba, Echigo-Yuzawa, Niigata.
+El domingo, 31 de julio de 2022, último día de Fuji Rock, se celebró en la estación de esquí Naeba, Echigo-Yuzawa, Niigata.
 
-Elephant Gym subió al Red Marquee, el tercer escenario más grande de Fuji Rock, con capacidad para cinco o seis mil personas[^23]. Habían sido invitados originalmente en 2020, pero la covid retrasó todo dos años y recién en 2022 pudieron pisarlo. En esa misma edición también subió a Fuji Rock otra banda originaria de Kaohsiung: Fire EX. Dos bandas del sur entrando el mismo año al festival de rock más grande de Japón no es una imagen frecuente en la historia del indie taiwanés.
+Elephant Gym actuó en Red Marquee, que es el tercer escenario de Fuji Rock y puede albergar a cinco o seis mil personas [^23]. Originalmente fueron invitados en 2020, pero debido al COVID se pospusieron dos años hasta poder actuar en 2022. Otro grupo originario de Kaohsiung también actuó en Fuji Rock ese año: Extinguishers. Es poco común en la historia indie de Taiwán que dos bandas del sur actúen juntas en el festival de rock más grande de Japón.
 
-Fuji Rock ocupa un lugar especial en la imaginación de los fans del indie taiwanés. Desde 1999 se celebra en la estación de esquí de Naeba, en Echigo-Yuzawa, Niigata, y cada año a fines de julio atrae a cien mil personas que pasan tres días en esa montaña. Las bandas taiwanesas capaces de tocar un set completo en un escenario principal pueden contarse con los dedos de una mano. Desde esa perspectiva, los 30 minutos de aquella tarde del 31 de julio de 2022 son un punto de coordenadas en la historia del indie taiwanés.
+Fuji Rock ocupa un lugar especial en el corazón de los amantes de la música indie de Taiwán. Desde su inicio en 1999 en la estación de esquí Naeba, Echigo-Yuzawa, atrae a decenas de miles de personas cada final de julio durante tres días. Hay muy pocos grupos taiwaneses que hayan podido interpretar un set completo en el escenario principal. Desde esta perspectiva, esos 30 minutos de la tarde del 31/07/2022 son un punto de referencia en la historia indie de Taiwán.
 
-Era una tarde de lluvia fina. Kai-hsiang habló desde el escenario:
+Era una tarde con lluvia ligera. Kai-Ting dio un discurso en el escenario:
 
-> “Es un gran honor haber podido venir esta vez a Fuji Rock. Disfruto mucho esa sensación de poder disfrutar la vida, la música y la unión con todos en un festival de música”. “Espero que cuando todos se encuentren con cosas negativas, ya sea la guerra o la pandemia, no olviden aquello en lo que creen”[^24].
+> "Es un gran honor poder estar en Fuji Rock; disfruto sintiendo la vida, la música y la unidad con todos ustedes en el festival", dijo [^24]. "Espero que cuando se encuentren con cosas negativas, ya sea guerra o pandemia, no olviden las cosas en las que creen".
 
-Ese verano habían pasado apenas cinco meses desde la invasión rusa de Ucrania, y la covid todavía no se había retirado del todo. Dicho por un trío taiwanés sin vocalista principal, ese framing se volvió de pronto muy concreto.
+Aquel verano habían pasado apenas cinco meses desde la invasión de Ucrania por Rusia, y el COVID aún no había desaparecido del todo. Que estas palabras salieran de la boca de un trío taiwanes y sin cantante principal le dio a toda la situación una concreción repentina.
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/jDDy-Vh55to" title="大象體操 Elephant Gym -〈水底 Underwater〉Official MV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/jDDy-Vh55to" title="Elephant Gym -〈水底 Underwater〉Official MV" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-_“水底 Underwater” es la canción titular del álbum homónimo de 2018, producida por Li Yung-en, de Hello Nico. El álbum fue publicado por el sello indie estadounidense Topshelf Records (TSR201), y fue el primer trabajo nuevo de Elephant Gym después de firmar con Topshelf[^25]._
+_«Underwater» es el tema principal del álbum homónimo de 2018, producido por Li Yong-en de Hello Nico. El álbum fue lanzado por la discográfica indie estadounidense Topshelf Records (TSR201) y fue su primera obra después de que Elephant Gym firmara con Topshelf [^25]._
 
-## La banda taiwanesa de las 13:20 en Camp Flog Gnaw
+## Camp Flog Gnaw 13:20 de la banda de Taiwán
 
-Retrocedamos tres años. 9 de noviembre de 2019, Dodger Stadium, Los Ángeles.
+Retrocediendo tres años. El 9 de noviembre de 2019, en el Dodger Stadium de Los Ángeles.
 
-Era la octava edición de Camp Flog Gnaw, organizado por Tyler, the Creator, y los headliners de ese año incluían a Solange, H.E.R. y A$AP Rocky. Elephant Gym fue programado en el Flog Stage el primer día a las 13:20, como una de las primeras bandas de la jornada[^26].
+Fue la octava edición del Camp Flog Gnaw organizada por Tyler, the Creator, y los artistas principales ese año incluyeron a Solange, H.E.R. y A$AP Rocky. Elephant Gym fue programado para las 13:20 del primer día en el Flog Stage, siendo una de las primeras bandas en actuar ese día [^26].
 
-Camp Flog Gnaw es uno de los festivales de afinidad más importantes del circuito estadounidense de hip-hop y R&B. Tyler, the Creator cura programación desde la época de Odd Future; su gusto cruza géneros y regiones. Que ese año pusiera en la alineación a un trío instrumental taiwanés sin vocalista ya era, por sí mismo, una declaración estética.
+Camp Flog Gnaw es uno de los festivales musicales _fandom_ más importantes dentro del círculo del hip-hop/R&B estadounidense. Tyler, the Creator ha estado curando desde la era Odd Future; su gusto por seleccionar grupos abarca géneros y regiones, y tener un trío instrumental de Taiwán sin vocalista en el cartel ese año fue una declaración estética en sí misma.
 
-Esa presentación luego fue cubierta con bastante detalle por la crítica de Los Ángeles y por radios universitarias. Un periodista de WHRB, la radio de la Universidad de Harvard, escribió que la banda “shredded, grooved, and blew the performance out of the water”, y añadió otra frase: “like a trio of puppeteers”, como un trío de titiriteros. Ones to Watch fue directo: “the jam session to end all jam sessions”[^27].
+Esa actuación fue cubierta exhaustivamente por críticos musicales de Los Ángeles y estaciones universitarias de radio. Un reportero de WHRB (Harvard University Radio) escribió: "shredded, grooved, and blew the performance out of the water", añadiendo además "like a trio of puppeteers". La reseña de Ones to Watch declaró directamente: "the jam session to end all jam sessions" [^27].
 
-En ese concierto, KT dijo sobre el escenario dos frases que luego se volvieron chiste interno de la banda:
+En esa actuación, KT dijo dos frases que luego se convirtieron en un chiste de la banda:
 
-> “the most important part of an instrumental rock band? The alcohol! ... We don't know why we're here!”[^28]
+> "the most important part of an instrumental rock band? The alcohol! ... We don't know why we're here!" [^28]
 
-“No sabemos por qué estamos aquí”. Una banda taiwanesa sin vocalista, programada por Tyler, the Creator como apertura en el Dodger Stadium de Los Ángeles. Ese año también compartieron cartel con 65daysofstatic, Polyphia y Covet. Tres semanas después volaron a Chicago y grabaron Audiotree Live[^29].
+"No sabemos por qué estamos aquí". Una banda de Taiwán sin vocalista, programada para abrir en el Dodger Stadium de LA por Tyler, the Creator. Ese año, también actuaron 65daysofstatic, Polyphia y Covet. Tres semanas después, viajaron a Chicago para grabar Audiotree Live [^29].
 
-2019 fue el año de mayor densidad internacional para Elephant Gym. SXSW en marzo, ArcTangent en el Reino Unido en agosto, Camp Flog Gnaw en Los Ángeles en noviembre; entre medio hicieron una gira norteamericana y una gira oficial del sello Topshelf. Topshelf los incorporó a su roster en diciembre de 2017, reeditó en 2018 en vinilos de tres colores sus tres trabajos anteriores, _Angle_, _Balance_ y _Work_, y en noviembre de 2018 publicó el nuevo álbum _Underwater_ como TSR201. Los dos años posteriores a la firma con Topshelf fueron el período de explosión de la exposición internacional de la banda.
+El año 2019 fue el más denso de la gira internacional de Elephant Gym. Tuvieron SXSW en marzo, ArcTangent en Reino Unido en agosto y Camp Flog Gnaw en LA en noviembre, además de giras por Norteamérica y una gira oficial de Topshelf. Topshelf los fichó para su _roster_ en diciembre de 2017; en 2018 reeditaron tres trabajos antiguos (_Angle_, _Balance_, _Work_) en vinilo de tres colores, y en noviembre de 2018 lanzaron el nuevo álbum _Underwater_ (TSR201). Los dos años posteriores a firmar con Topshelf fueron un período de explosión de exposición internacional para esta banda.
 
-![Elephant Gym en vivo en The Crocodile, Seattle](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Elephant_Gym_06.jpg/640px-Elephant_Gym_06.jpg)
-_El 15 de marzo de 2024, Elephant Gym actuó en The Crocodile, Seattle. Fotografía de TurquoiseGoose, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Elephant_Gym_06.jpg) (CC BY-SA 4.0). Su gira mundial acumuló casi 60 presentaciones en Asia, América y Europa._
+![Elephant Gym actuando en The Crocodile en Seattle](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Elephant_Gym_06.jpg/640px-Elephant_Gym_06.jpg)
+_El 15 de marzo de 2024, Elephant Gym actuó en The Crocodile en Seattle. Fotografía: TurquoiseGoose, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Elephant_Gym_06.jpg) (CC BY-SA 4.0). La gira mundial abarcó cerca de 60 conciertos en Asia, América y Europa._
 
-## Tres SXSW y una frase de discurso
+## Tres SXSW y un discurso
 
-SXSW (South by Southwest) es esa peregrinación anual de bandas indie que ocurre cada marzo en Austin, Texas. Elephant Gym fue tres veces.
+SXSW (South by Southwest) es la peregrinación anual de las bandas indie en Austin, Texas, durante marzo. Elephant Gym asistió tres veces.
 
-La primera, en 2019, fue su debut físico: el 16 de marzo en el showcase de Pearl Street Coop, y el día anterior, 15 de marzo, en Math Rock Times Fest. En 2022, durante la covid, participaron en línea en el Taiwan Beats Showcase, junto con Mong Tong y Sorry Youth. En 2023 hicieron doble fecha: el 16 de marzo en el showcase oficial de Topshelf Records en Cheer Up Charlie's, además del showcase de seis horas de Taiwan Beats en Elysium[^30].
+La primera fue en persona en 2019. El 15 de marzo participaron en Math Rock Times Fest, y el 16 de marzo tuvieron su showcase en Pearl Street Coop. En 2022, durante la COVID, fue un Showcase online de Taiwan Beats, junto a Mong Tong y Pàxiè Shàonián. En 2023 fueron dos eventos: el showcase oficial de Topshelf Records en Cheer Up Charlie's el 16 de marzo, y el showcase de seis horas de Taiwan Beats en Elysium [^30].
 
-En esa presentación de 2023 en Elysium, Kai-hsiang leyó un discurso traducido y dejó una frase que luego citó _Austin Chronicle_:
+En el evento de Elysium de 2023, Kai Xiang dio un discurso traducido, dejando una frase que más tarde fue citada por _Austin Chronicle_:
 
-> “Taiwan is the homeland for dreamers like you and me. We not only dream, but also make dreams come true”[^31].
+> "Taiwan is the homeland for dreamers like you and me. We not only dream, but also make dreams come true." [^31]
 
-Ese día compartieron escenario con 9m88 y Lucy. Taiwan Beats es el programa de internacionalización musical de Taiwán patrocinado por el Ministerio de Cultura, pero menos de un año después de esa presentación la banda anunciaría una pausa prolongada. Nadie en Texas, aquella tarde de marzo de 2023, lo sabía.
+En ese evento también actuaron 9m88 y Lucy. Taiwan Beats es un proyecto de promoción musical financiado por el Ministerio de Cultura, pero menos de un año después de este evento, la banda anunciaría una pausa prolongada. La gente en Texas esa tarde de marzo de 2023 no lo sabía.
 
-En agosto de ese año volaron al Reino Unido y tocaron en ArcTangent. Fernhill Farm, Bristol, es considerado uno de los festivales más importantes del mundo para las escenas de post-rock y math rock. El cartel incluía a Meshuggah, Coheed and Cambria, Battles, 65daysofstatic, Polyphia, Cult of Luna, Three Trapped Tigers y Cult of Luna[^32]. Ese año, ellos fueron la única banda taiwanesa capaz de entrar en esa alineación. Para los fans del math rock, ArcTangent es un santuario; tocar allí significa haber sido validado desde dentro del género.
+En agosto de ese año, viajaron a Reino Unido y actuaron en ArcTangent. Fernhill Farm, Bristol, es considerado uno de los festivales más importantes de la escena post-rock/math rock mundial. Entre los artistas que actuaron estuvieron Meshuggah, Coheed and Cambria, Battles, 65daysofstatic, Polyphia, Cult of Luna, Three Trapped Tigers y Cult of Luna [^32]. En ese año, solo ellos fueron la banda taiwanesa en formar parte de este cartel. Para los amantes del math rock, ArcTangent es un lugar sagrado; poder actuar allí significa haber sido certificado dentro del género.
 
-## Los 7 minutos de Año Nuevo
+## Los 7 minutos de la Nochevieja
 
-Si no escuchas indie, quizá conociste por primera vez a Elephant Gym la noche del 31 de diciembre de 2023, después de las 9, en una transmisión televisiva.
+Si no escuchas música _indie_, es posible que tu primer contacto con Elephant Gym haya sido el 31 de diciembre de 2023, alrededor de las 9 p.m., a través de una transmisión televisiva.
 
-Fiesta de Año Nuevo 2024 de Dream Mall, Kaohsiung. Cuando le tocó subir a Elephant Gym, ya pasadas las 9 de la noche, el público empezó a alterarse. KT acercó de pronto la boca al micrófono y gritó:
+En la fiesta de fin de año de Dreamside Kaohsiung en 2024, cuando llegó el turno de Elephant Gym, la multitud comenzó a agitarse poco después de las 9 p.m. KT se acercó repentinamente al micrófono y gritó:
 
-> “Alguien tiene un cuchillo, FXXK”. “Tengan cuidado al bajar del escenario”[^33].
+> "¡Alguien tiene un cuchillo, FXXK! [sic] ¡Tengan cuidado al bajar!"[^33]
 
-La transmisión se interrumpió unos 7 minutos[^34]. A las 21:12 el lugar volvió a la calma. En una noche, las cuatro palabras “Elephant Gym” pasaron del vocabulario de los fans indie a los titulares de todo Taiwán.
+La transmisión en vivo se interrumpió durante unos 7 minutos[^34]. A las 21:12, la calma regresó. En una sola noche, el nombre "Elephant Gym" pasó de ser un término para los fans _indie_ a convertirse en un titular de noticias nacional en todo Taiwán.
 
-Al día siguiente, 1 de enero, KT escribió una explicación en sus historias de Instagram:
+Al día siguiente, el 1 de enero, KT publicó algo en las historias de Instagram explicando la situación:
 
-> “Primero escuché empujones entre la multitud; luego, por los audífonos, escuché a alguien decir ‘alguien tiene un cuchillo’, y enseguida vino la instrucción de ‘bajar del escenario’”. “Me sentí muy mal, muy dolorida”[^35].
+> "Primero escuché al público empujando y luego escuché a alguien decir 'alguien tiene un cuchillo' en mis auriculares, seguido de la orden de 'bajar'. Me sentí muy infeliz y sufriendo."[^35]
 
-El comunicado oficial de la banda tuvo un tono contenido: “Gracias a todos por su preocupación. Respecto de la situación real en el lugar, prevalece la respuesta de la organización. Esperamos que todos presten atención a su propia seguridad cuando participen en eventos multitudinarios, y les deseamos un 2024 seguro y sin contratiempos”[^36].
+La declaración oficial de la banda fue comedida: "Gracias por su preocupación. La situación real se responde principalmente por el organizador. Esperamos que todos presten atención a su seguridad al participar en eventos grandes, y les deseamos un próspero 2024."[^36]
 
-La explicación posterior de la comisaría de Cianjhen del Gobierno de la Ciudad de Kaohsiung fue esta: 35 personas sufrieron raspaduras y contusiones por empujones, nadie resultó herido por un cuchillo, y el “cuchillo” señalado por testigos era en realidad un bolígrafo[^37]. Un hombre con gorra blanca se presentó después para declarar. El apoyo del gobierno municipal se formuló así: “El incidente de la noche de Año Nuevo no tuvo relación con ningún grupo artístico... exhortamos a todos a no culpar con dureza a los artistas”[^38].
+La explicación del Departamento de Wens County, Kaohsiung, después del incidente, fue la siguiente: 35 personas sufrieron contusiones por el empujón, nadie resultó herido por un cuchillo; lo que los testigos señalaron como "cuchillo" era en realidad un bolígrafo[^37]. Un hombre con gorra blanca compareció para dar su testimonio. La municipalidad respaldó a la banda diciendo: "El incidente de Nochevieja no tiene relación con ninguna banda de actuación... y pedimos que no se juzgue duramente a las bandas."[^38]
 
-En redes sociales, el episodio se dividió en dos bandos. Unos pensaban que la banda había reaccionado de más y había afectado el ambiente de Año Nuevo; otros creían que KT, con información incompleta en el momento, tomó una decisión responsable. Ambas voces existen, igual que la reconstrucción policial. Sobre cómo “deben recordarse” esos 7 minutos, hasta hoy no hay una versión consensuada.
+Este asunto se dividió en dos bandos en redes sociales. Un grupo sintió que la banda reaccionó de forma exagerada e impactó el ambiente de Nochevieja; otro grupo consideró que la decisión de KT, tomada sin información completa en el momento, fue una elección responsable. Ambas voces existieron, y también hubo reconstrucciones policiales, pero hasta ahora no hay un consenso sobre cómo "deberían recordarse" esos 7 minutos.
 
-Para Elephant Gym, esos 7 minutos fueron un punto de refracción identitaria. Antes de eso, en la escena indie taiwanesa eran “la banda del Red Marquee de Fuji Rock”, “la banda taiwanesa firmada por Topshelf”, “la banda que tocó con Seiji Kameda en doble bajo”; después, para la mayoría de los taiwaneses pasaron a ser “la banda que gritó que alguien tenía un cuchillo en Año Nuevo”. La crítica internacional los entiende como virtuosos instrumentales; la sociedad taiwanesa, en cambio, los conoció primero a través de una noticia. Esa distancia no pertenece solo a Elephant Gym: es la doble cara que muchas bandas indie taiwanesas viven entre lo local y lo internacional.
+Para Elephant Gym, estos 7 minutos fueron un punto de inflexión identitario. Antes de eso, en el círculo _indie_ de Taiwán, eran "la banda del escenario rojo de Fuji Rock", "la banda taiwanesa firmada por Topshelf", o "la banda que actuó con doble bajo con Seiji Umeda"; después de eso, para la mayoría de los taiwaneses, se convirtieron en "la banda que gritó que alguien tenía un cuchillo en Nochevieja". Esta brecha no es solo de Elephant Gym; es una dualidad que enfrentan muchos grupos _indie_ de Taiwán entre el ámbito local y el internacional.
 
-## 9m88, Lin Sheng-xiang, Seiji Kameda: tres curvas de colaboración
+## 9m88, Lin Sheng-chiang y Seiji Kamita: Tres curvas de colaboración
 
-A partir de _Underwater_ (2018), Elephant Gym empezó a incorporar voces a su formación mediante colaboraciones: en cada canción invitaban a un cantante distinto.
+A partir de 《水底》 (Water Bottom, 2018), Elephant Gym comenzó a incorporar voces en su instrumentación, utilizando un método de colaboración donde se invita a un cantante diferente para cada canción.
 
-_Dreams_ (2022) fue el punto más alto de esa ruta. Para “Shadow” convocaron a la cantante de jazz pop 9m88; el título viene de la “teoría de la sombra” de Jung. Para “Dreamlike You” invitaron a Lin Sheng-xiang, referente del folk en hakka; era el momento en que murió el abuelo de Tu Chia-chin, y la letra de Lin Sheng-xiang fue escrita principalmente para su propio padre fallecido[^39]. En el mismo álbum invitaron a la Banda Sinfónica de Vientos de Kaohsiung para “Wings” y a Chio-Tian Folk Drums & Arts Troupe para “Deities' Party”[^40]. Esa sección de Chio-Tian introduce la percusión de los _zhentou_, conjuntos procesionales de los templos taiwaneses, dentro de una formación de math rock: un experimento intercultural poco común en el indie de Taiwán.
+《夢境 Dreams》 (Dreams, 2022) fue el punto culminante de esta línea. Para 〈影子〉 (Shadows), invitaron a la cantante de jazz pop 9m88, cuyo nombre proviene de la "Teoría del Sombra" de Jung; para 〈發夢到你〉 (Dreaming to You), trajeron al folclorista Hakka Lin Sheng-chiang. Esta canción se grabó en el momento del fallecimiento del padre de Tu Jiaqin, y las letras de Lin Sheng-chiang están principalmente dedicadas a su difunto padre [^39]. En el mismo álbum también invitaron a la Orquesta Sinfónica Municipal de Kaohsiung para interpretar 〈振翅〉 (Flapping Wings) y al Grupo Folclórico de Jiutian para interpretar 〈眾神的派對〉 (Gods' Party) [^40]. La participación del grupo de Jiutian integró la percusión de los rituales de templos en la instrumentación math rock, lo que representa un experimento intercultural poco común en el indie taiwanés.
 
-Kai-hsiang definió _Dreams_ como el momento en que “por fin alcanzamos un estado más equilibrado entre técnica e imaginación”. Los tres trabajos anteriores se inclinaban más hacia lo técnico; en este empezaron a traer de vuelta la emoción y la narratividad. NME le dio un espacio nada menor y lo situó como un punto de giro en el que Elephant Gym se expandía hacia fuera del género math rock.
+Kaixiang calificó a 《夢境》 como "un estado donde finalmente logramos un equilibrio entre la técnica y la imaginación". Las tres primeras obras se inclinaron más hacia lo técnico; esta comenzó a recuperar la emoción y la narrativa. NME dedicó una extensión considerable, posicionando este álbum como el punto de inflexión en la expansión del género math rock por parte de Elephant Gym.
 
-Kai-hsiang explicó en NME la lógica de la colaboración:
+Kaixiang habló sobre la lógica de la colaboración en NME:
 
-> “The most interesting thing to do is to find other musicians to break down your world. We should learn the culture of others first, then we'll talk about how to work and create a new world together”[^41].
+> "The most interesting thing to do is to find other musicians to break down your world. We should learn the culture of others first, then we'll talk about how to work and create a new world together." [^41]
 
-Desarmar el mundo y recomponerlo.
+Descomponer el mundo y luego reensamblarlo.
 
-El 14 de diciembre de 2023 lanzaron su cuarto álbum, _World 世界_, una obra conmemorativa por el décimo aniversario de la banda[^42]. La lista de colaboraciones de ese disco cruza fronteras una tras otra: “Name” presenta un dúo de bajos con Seiji Kameda, bajista de Tokyo Jihen, el primer intento de Elephant Gym con una forma de doble bajo; “Jhalleyaa” incluye a la cantante india en panyabí Shashaa Tirupati; “Feather” reúne a ?te y al creador japonés TENDRE; “The Happy Prince” convoca a Lin Yi-le[^43]. Con voces de Taiwán, Japón e India alineadas una por una, el título _World_ resulta muy literal: realmente hicieron entrar personas al disco.
+El 14 de diciembre de 2023 lanzaron su cuarto álbum, 《世界 World》 (World), una obra conmemorativa de sus 10 años [^42]. La lista de colaboradores es tan variada como diversa: 〈名字〉 (Name) presenta a Seiji Kamita, bajista de Tokyo Jihen, en un dueto de bajo; esta fue la primera vez que Elephant Gym intentó una composición con doble bajo; 〈Jhalleyaa〉 colabora con la cantante punjabí Shashaa Tirupati; 〈羽毛〉 (Feather) cuenta con TENDRE, creador japonés, y Huai Te; y 〈快樂王子〉 (Prince of Joy) presenta a Lin Yi-le [^43]. Con cantantes de Taiwán, Japón e India alineados, el título "Mundo" de este álbum es muy acertado, pues realmente te transporta.
 
-El contexto de la colaboración con Seiji Kameda puede rastrearse hasta el concierto “Zepp Premium” del 23 de febrero de 2023, en Zepp New Taipei, donde tocaron con SKY-HI y Kameda[^44]. El doble bajo de “Name” fue grabado después de esa presentación. Poner a KT y al bajista de Tokyo Jihen a dialogar en una misma pieza fue, por sí mismo, una decisión de producción con la que Elephant Gym le decía a todos que su bass iba a sentarse a la misma mesa que los bajistas más fuertes de Asia, no a ocupar un lugar de acompañamiento.
+El contexto de colaboración de Seiji Kamita se remonta al evento del 23 de febrero de 2023 en "Zepp Premium". Zepp New Taipei compartió escenario con SKY-HI y Seiji Kamita [^44]. La pieza de doble bajo de 〈名字〉 fue grabada después de ese concierto. El hecho de que KT y el bajista de Tokyo Jihen compartieran una canción es, en sí mismo, lo que Elephant Gym les dice a todos: su bajo está al mismo nivel que el mejor bajista de Asia, no pretendiendo ser un acompañamiento.
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/-WGaDoOlHwo" title="大象體操 Elephant Gym -〈穿過夜晚 Go Through the Night〉" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-_El sencillo “穿過夜晚 Go Through the Night”, lanzado el 29 de marzo de 2021. La canción samplea el tramo de guitarra acústica de “Two Moons”, de toe, de 2009. La colaboración entre Elephant Gym y la banda japonesa toe se extiende desde la mezcla de Takaaki Mino para su primer álbum, \_Angle_, en 2014, hasta este punto[^45].\_
+_El sencillo 〈穿過夜晚 Go Through the Night〉, lanzado el 29 de marzo de 2021. Esta canción samplea la sección acústica de 〈Two Moons〉 de toe de 2009. La colaboración entre Elephant Gym y el japonés toe se ha mantenido desde el primer álbum 《角度》 (Angle) en 2014, mezclado por Lon-chang Mei-nung [^45]._
 
-![Elephant Gym en vivo en Esplanade Annexe Studio, Singapur, en 2023](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Elephant_Gym_at_Esplanade_Annexe_Studio.jpg/640px-Elephant_Gym_at_Esplanade_Annexe_Studio.jpg)
-_El 4 de febrero de 2023, Elephant Gym actuó en Esplanade Annexe Studio, Singapur. Fotografía de Esplanade Theatres on the Bay, [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Elephant_Gym) (CC BY 2.0). Asia es una de las canchas de visitante que mejor conocen._
+![Elephant Gym en Esplanade Annexe Studio en Singapur en 2023](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Elephant_Gym_at_Esplanade_Annexe_Studio.jpg/640px-Elephant_Gym_at_Esplanade_Annexe_Studio.jpg)
+_El 4 de febrero de 2023, Elephant Gym actuó en el Esplanade Annexe Studio en Singapur. Fotografía: Esplanade Theatres on the Bay, [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Elephant_Gym) (CC BY 2.0). La gira asiática es uno de sus destinos más habituales._
 
-## La discusión del documental
+## La disputa en el documental
 
-La gira “THE WORLD” terminó en 2024 con casi 60 presentaciones acumuladas en Asia, América y Europa[^46].
+Tras completar la gira mundial "THE WORLD" en 2024, que abarcó casi 60 conciertos en Asia, América y Europa [^46].
 
-En el concierto insignia de noviembre, Kai-hsiang dijo sobre el escenario:
+En su concierto insignia de noviembre, Kai-Xiang pronunció esta frase:
 
-> “A partir del año que viene, Elephant Gym entrará en un período de pausa muy largo”[^2].
+> «A partir del año que viene, Elephant Gym entrará en un largo período de inactividad.» [^2]
 
-Fueron 13 años. Desde la formación en Kaohsiung en febrero de 2012 hasta el anuncio de la pausa en Taipéi en noviembre de 2024.
+Han pasado 13 años. Desde su formación en Kaohsiung en febrero de 2012 hasta el anuncio de la pausa en Taipéi en noviembre de 2024.
 
-Casi al mismo tiempo se confirmó el estreno del documental _Elephant Gym: More Real than Dreams_, dirigido por Kuo Chin-ju (Alulu KUO). Dura 95 minutos, sigue a la banda desde su formación en 2012 hasta las vísperas de la gira de 2024, y Kai-hsiang figura también como productor[^47]. En enero de 2026 se estrenó primero en Tokio y Kioto, Japón, y el 6 de febrero tuvo su premier en Taipéi, en in89 Cinemax[^48].
+Casi al mismo tiempo, se anunció la distribución del documental 《Elephant Gym: Más real que los sueños》 (More Real than Dreams), dirigido por Kuo Jin-ru (Alulu) [^47]. Con 95 minutos, sigue desde su formación en 2012 hasta antes de la gira mundial de 2024, y Kai-Xiang fue coproductor [^47]. Se estrenó primero en Tokio y Kioto, Japón, en enero de 2026, y tuvo su estreno en el cine de lujo in89 en Taipéi el 6 de febrero [^48].
 
-Lo menos propio del indie taiwanés en esta película es que no empaqueta a la banda como heroica. La cámara se concentra en las vísperas de la gira mundial de 2023, en una discusión grave entre los integrantes y en el momento en que estuvieron cerca de separarse. La situación de Tu Chia-chin, “obligado a dejar otra banda”, y la acumulación del tironeo entre los hermanos, “familiares y compañeros de trabajo” a la vez, entran por completo en el montaje[^49].
+Lo menos "indie" de esta película es que no presenta a la banda como héroes. Enfoca una gran disputa entre los miembros durante la gira mundial de 2023, un momento al borde de la disolución. La situación de Tu Jia-qin, quien fue "forzado a dejar otra banda", y la acumulación del tiempo en el que "familiares y compañeros de trabajo se tensan" entre hermanos, todo está incluido en el montaje [^49].
 
-En el texto promocional del documental, Topshelf Records escribió directamente: “In 2023, Elephant Gym was preparing to embark on a world tour—yet the band stood on the brink of breaking up”[^50]. Una banda a punto de salir a recorrer el mundo estaba, al mismo tiempo, al borde de romperse. KT dijo en plena gira una frase que luego citó United Daily News: “De hecho, muchas veces cuando vuelvo a casa me acuesto en la cama y lloro a gritos”[^51].
+Topshelf Records escribió directamente en la descripción promocional del documental: «In 2023, Elephant Gym was preparing to embark on a world tour—yet the band stood on the brink of breaking up.» [^50] Una banda que estaba a punto de viajar por el mundo, al mismo tiempo que se encontraba al borde de la disolución. En la gira, KT dijo algo que luego fue citado por una agencia de noticias: «En realidad, cuando vuelvo a casa, me acuesto en la cama y lloro mucho.» [^51]
 
-Comparado con la infancia de los hermanos empujados por su madre hacia la formación clásica, la adolescencia en los clubes de música popular de la secundaria afiliada a la Universidad Normal Nacional de Kaohsiung y la Secundaria Femenina de Kaohsiung, los años universitarios en Chengchi y la Universidad Nacional de Taiwán, y la etapa de giras internacionales intensas tras firmar con Topshelf, ese derrumbe en la ruta muestra una cara que la banda nunca había expuesto públicamente. Los documentales de bandas indie taiwanesas suelen ir por el camino inspirador de “nos esforzamos mucho”; _More Real than Dreams_ elige montar los momentos de “ya no damos más”. Esa decisión habla de la madurez de Elephant Gym como banda.
+Al contrastar su juventud —cuando fueron empujados por sus madres hacia la formación clásica, pasando por el Instituto de Secundaria Gao Shi Da y la coro de mujeres de Xiong Nu—, su etapa como estudiantes en la Universidad Nacional de Ciencias Políticas y la Universidad Nacional de Taiwán, y el período intenso de gira internacional después del contrato con Topshelf, este colapso durante la gira es otra faceta que la banda nunca había mostrado públicamente. Mientras que los documentales de bandas indie de Taiwán suelen seguir una línea inspiradora de "estamos muy esforzados", 《Más real que los sueños》 eligió incluir el momento en que "casi no podemos más" en su edición, y esta decisión es en sí misma la madurez de Elephant Gym como banda.
 
-La banda sonora del documental fue lanzada simultáneamente por Topshelf el 3 de febrero de 2026, con participación de dooodooo, Wu Pei-ling y músicos de la Banda Sinfónica de Vientos de Kaohsiung[^52].
+La banda sonora del documental se lanzó simultáneamente el 3 de febrero de 2026 por Topshelf, con la participación de dooodooo, Wu Pei-ling y miembros de la orquesta municipal de Kaohsiung [^52].
 
-## Un período de pausa muy largo
+## Un largo período de descanso
 
-29 de junio de 2024, Premio del Jurado de la 35.ª edición de los Golden Melody Awards.
+El 29 de junio de 2024, recibieron el Premio del Jurado en la 35ª Gala de Premios Golden Melody.
 
-El presidente del jurado, Chen Tzu-hung, dijo en su discurso:
+El presidente del jurado, Chen Tzu-hung, pronunció un discurso:
 
-> “Han actuado en todo el mundo y han hecho que el mundo vea a Taiwán”. “Avanzan paso a paso hacia el mundo, sin estar limitados por marcos, integrando elementos musicales y manteniendo firme su creatividad”. “El Premio del Jurado no se entrega todos los años; requiere discusión del jurado y la aprobación de más de dos tercios de sus integrantes”[^53].
+> «Han actuado por todo el mundo para mostrar a Taiwán al mundo»; «avanzando paso a paso hacia el mundo sin restricciones de marcos y fusionando elementos musicales, manteniendo la creatividad»; «el Premio del Jurado no se otorga todos los años; requiere discusión del jurado y la aprobación de dos tercios o más de los miembros» [^53].
 
-El discurso de Kai-ting al recibir el premio se convirtió luego en uno de los fragmentos más citados de los Golden Melody Awards de ese año:
+El discurso de Kai-Ting al recibir el premio fue citado extensamente en la Gala Golden Melody de ese año:
 
-> “No importa cuán rara sea la música que toques: si vas al extranjero, vas a descubrir que hay mucha gente tan nerd como tú dispuesta a verte tocar, y en Taiwán también. Así que, sea cual sea la música que quieras hacer, ¡hazla!”[^53].
+> «No importa qué música tan extraña toques, si vas al extranjero, descubrirás que hay mucha gente como tú dispuesta a verte actuar, y eso también pasa en Taiwán. Así que, haz la música que quieras» [^53].
 
-La banda ganó tres veces el premio a Mejor Banda en los Golden Indie Music Awards: Mejor Álbum de Género por _Angle_ en la 5.ª edición (2014), Mejor Banda por _Underwater_ en la 10.ª (2019), y Mejor Banda por _World_ en la 15.ª (2024). KT, por su parte, ganó Mejor Música Instrumentista en la 13.ª edición (2022)[^54]. En aquella ceremonia, KT subió al escenario a Fang Q de Cosmos People, también nominado, prometió compartir el dinero del premio con Fang Q por haber sido su maestro, y recordó que cuando recién empezó como bajista “se burlaban en grupo de su técnica”, pero ahora había saldado esa humillación[^55]. De una bajista ridiculizada a primera embajadora femenina de Fender Taiwán y ganadora del Golden Indie a Mejor Música Instrumentista: ese arco de política de identidad merece ser recordado en la historia de las bandas taiwanesas.
+Esta banda ha ganado tres premios de Mejor Banda en Golden Melody: el álbum _Angle_ (2014) de la 5ª edición; _Underwater_ (2019) de la 10ª edición; y _World_ (2024) de la 15ª edición; además, KT ganó como Mejor Músico en la 13ª edición (2022) [^54]. En la ceremonia donde KT recibió el premio a Mejor Músico, subió al escenario a Fang Q, quien también estaba nominada, prometiendo dividir el premio con Fang Q, su profesora, y mencionando cómo «desmintieron los rumores de cuando tocaba bajo como principiante, y ahora se han reivindicado» [^55]. Esta trayectoria, desde ser una bajista objeto de burlas hasta convertirse en la primera embajadora femenina de Fender en Taiwán y ganadora de Mejor Músico de Golden Melody, es digna de ser recordada en la historia de las bandas taiwanesas.
 
-El 18 de marzo de 2020, KT se convirtió en la primera bajista mujer embajadora de Fender Taiwán, y al mismo tiempo apareció en un reportaje de la revista japonesa _Bass Magazine_[^56]. Una chica que desde el jardín de infantes estudió flauta, violín, piano y guitarra folk acabó convertida en una de las tarjetas de presentación más importantes del bajo en el indie taiwanés.
+El 18 de marzo de 2020, KT se convirtió en la primera embajadora de bajo femenino de Fender en Taiwán, siendo reportada por _Bass Magazine_ de Japón [^56]. Una chica que aprendió flauta dulce, violín, piano y guitarra folclórica desde el jardín de infancia, se convirtió posteriormente en una de las figuras más importantes del circuito indie de Taiwán.
 
-De febrero de 2012 a noviembre de 2024, la banda recorrió 23 países y 60 presentaciones, pasó tres veces por SXSW, subió al Red Marquee de Fuji Rock, tocó en Camp Flog Gnaw, ArcTangent y Audiotree Live, recibió el calificativo _sublime_ de Pitchfork y vio cómo Topshelf reeditaba todo su catálogo en vinilo. Trece años: tres estudiantes salidos de Kaohsiung, capaces de cuadrar compases complejos en el escenario con solo mirarse. Eso es memoria muscular acumulada durante 13 años.
+Entre febrero de 2012 y noviembre de 2024, esta banda realizó giras por 60 lugares en 23 países, tres apariciones en SXSW, escenarios principales en Fuji Rock, Camp Flog Gnaw, ArcTangent, reseñas en Audiotree Live y Pitchfork sublime, y reediciones completas en vinilo por Topshelf. Durante 13 años, tres estudiantes de Kaohsiung lograron coordinar ritmos complejos solo mirándose en el escenario; esa era la memoria muscular acumulada durante 13 años.
 
-El día en que anunciaron la pausa prolongada no lo escribieron como despedida. Kai-hsiang habló de “un período de pausa muy largo”, no de “separación”; en 2014 la misma banda ya había hecho una pausa así, y aquella vez volvieron cuando los chicos terminaron el servicio militar. Esta vez las condiciones para volver son distintas: se trata del cansancio y los tironeos acumulados durante 13 años entre hermanos, entre integrantes y en la ruta. Nadie sabe si se reencontrarán dentro de 10 años.
+El día en que anunciaron su descanso prolongado, no lo escribieron como una despedida. Kai-Xiang habló de «un largo período de descanso», no de «disolución». La banda también descansó en 2014, pero esa pausa terminó cuando los chicos regresaron después del servicio militar. Esta vez, las condiciones eran diferentes: la fatiga y las tensiones acumuladas durante 13 años entre hermanos y miembros de la banda. Nadie sabe si volverán a verse dentro de diez años.
 
-El documental se titula _More Real than Dreams_. El camino que recorrieron los tres fue un poco más lejos que lo que habían imaginado cuando, en la universidad, se recostaban junto a la ventana de un departamento. Un trío taiwanés en el que nadie canta fue visto por toda la isla recién cuando anunció que podría separarse. Pero esa línea de bass acumulada durante 13 años, esos compases asimétricos y los archivos de presentaciones que dejaron en Camp Flog Gnaw y Fuji Rock seguirán hablando por sí mismos cuando ellos no estén presentes.
+El nombre del documental es _Más real que un sueño_. El camino recorrido por estas tres personas ha sido más lejano que lo que imaginaron cuando estaban en sus apartamentos mientras eran estudiantes universitarias. Una trío taiwanesa sin cantante fue vista por toda la isla solo al anunciar su disolución. Pero esa melodía de bajo acumulada durante 13 años, esos compases asimétricos y los archivos de actuaciones dejados en Camp Flog Gnaw y Fuji Rock seguirán hablando por sí mismos incluso cuando no estén presentes.
 
----
+## Lectura adicional
 
-## Lecturas complementarias
+- [Pai Xie Shao Nian](/es/music/sorry-youth-band) — Una banda contemporánea originaria del sur que se define a través del lenguaje, pero ellos eligieron el taiwanés y la voz humana.
+- [Mieh Huo Qi Yue Tuan](/es/music/fire-ex) — Otro grupo de Kaohsiung, hermano de Elephant Gym, que apareció en Fuji Rock 2022.
+- [Luo Ri Fei Che](/es/music/sunset-rollercoaster) — Representantes del indie taiwanés contemporáneo que se expanden internacionalmente; siguen una trayectoria paralela a la técnica instrumental de Elephant Gym con un sonido suave de city pop y cantando en inglés.
+- [Historia del desarrollo del rock en Taiwán](/es/music/taiwan-rock-from-underground-to-mainstream) — El contexto evolutivo desde Wu Bai y Mayday hasta la generación posterior de Luo Ri Fei Che.
+- [Música independiente de Taiwán](/es/music/indie-music-scene) — El ecosistema de la escena y los sellos discográficos indie de Taiwán.
 
-- [Sorry Youth](/es/music/sorry-youth-band) — Otra banda contemporánea originaria del sur que define su identidad mediante la lengua, pero ellos eligieron el taiwanés y eligieron la voz humana.
-- [Fire EX.](/es/music/fire-ex) — Banda hermana de Kaohsiung; otro grupo kaohsiungués que se presentó en la misma edición de Fuji Rock en 2022.
-- [Sunset Rollercoaster](/es/music/sunset-rollercoaster) — Representante de la misma generación de internacionalización del indie taiwanés; con una textura suave de city pop y letras en inglés, traza una ruta en contraste con el tecnicismo instrumental de Elephant Gym.
-- [Historia del desarrollo del rock taiwanés](/es/music/taiwan-rock-from-underground-to-mainstream) — Contexto del desarrollo desde Wu Bai y Mayday hasta la generación posterior a Sunset Rollercoaster.
-- [Música independiente taiwanesa](/es/music/indie-music-scene) — La escena indie de Taiwán y su ecosistema de sellos.
+## Fuentes de imágenes
 
----
-
-## Fuentes de imagen
-
-- **Hero**: [Elephant Gym en Mississippi Studios, Portland](https://commons.wikimedia.org/wiki/File:Elephant_Gym_Portland_2024.jpg) — Fotografía de TurquoiseGoose, 2024/03/13. Wikimedia Commons, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-- **Inline 1**: [Elephant Gym en The Crocodile, Seattle](https://commons.wikimedia.org/wiki/File:Elephant_Gym_06.jpg) — Fotografía de David Lee (Flickr), 2024/03/15. Wikimedia Commons, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).
-- **Inline 2**: [Elephant Gym en Esplanade Annexe Studio, Singapur](<https://commons.wikimedia.org/wiki/File:Elephant_Gym_at_Esplanade_Annexe_Studio_(2023-02-04_16-29-39).jpg>) — 2023/02/04. Wikimedia Commons; véase la licencia CC en la página del archivo original.
+- **Hero**: [Elephant Gym en Mississippi Studios, Portland](https://commons.wikimedia.org/wiki/File:Elephant_Gym_Portland_2024.jpg) — Fotografía de TurquoiseGoose, 13/03/2024. Wikimedia Commons, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- **Inline 1**: [Elephant Gym en The Crocodile, Seattle](https://commons.wikimedia.org/wiki/File:Elephant_Gym_06.jpg) — Fotografía de David Lee (Flickr), 15/03/2024. Wikimedia Commons, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).
+- **Inline 2**: [Elephant Gym en Esplanade Annexe Studio, Singapur](<https://commons.wikimedia.org/wiki/File:Elephant_Gym_at_Esplanade_Annexe_Studio_(2023-02-04_16-29-39).jpg>) — 04/02/2023. Wikimedia Commons, Licencia CC consultada en la página original.
 
 ---
 
 ## Referencias
 
-[^1]: [Elephant Gym (Wikipedia en chino)](https://zh.wikipedia.org/wiki/%E5%A4%A7%E8%B1%A1%E9%AB%94%E6%93%8D) — Fuente de datos básicos de la banda; fundada en Kaohsiung en febrero de 2012.
+[^1]: [Elephant Gym (Wikipedia en chino)](https://zh.wikipedia.org/wiki/%E5%A4%A7%E8%B1%A1%E9%AB%94%E6%93%8D) — Datos básicos de la banda, establecida en Kaohsiung en febrero de 2012.
 
-[^2]: [Elephant Gym anuncia una pausa prolongada en su concierto insignia (Blow 吹音樂 #77310)](https://blow.streetvoice.com/77310/) — Discurso verbatim de Kai-hsiang en el concierto insignia: “A partir del año que viene, Elephant Gym entrará en un período de pausa muy largo”.
+[^2]: [Anuncio del concierto insignia de Elephant Gym sobre una pausa prolongada (Blow #77310)](https://blow.streetvoice.com/77310/) — La frase verbatim de Kai-Sheang: «A partir del próximo año, Elephant Gym entrará en un período de descanso muy largo».
 
-[^3]: [Elephant Gym on Audiotree Live (Bandcamp)](https://audiotree.bandcamp.com/album/elephant-gym-on-audiotree-live) — Descripción de Audiotree sobre el math/post-rock instrumental de la banda.
+[^3]: [Elephant Gym on Audiotree Live (Bandcamp)](https://audiotree.bandcamp.com/album/elephant-gym-on-audiotree-live) — Descripción de Audiotree sobre el math/post rock instrumental de la banda.
 
-[^4]: [De cero al infinito / El silencio y la voz de Elephant Gym (newsmarket)](https://www.newsmarket.com.tw/sxband/young-5/) — Kai-ting habla sobre “los tres tenemos muchas cosas que queremos decir; hablar directamente a través de nuestros instrumentos”.
+[^4]: [De cero a infinito / El silencio y el sonido de Elephant Gym (newsmarket)](https://www.newsmarket.com.tw/sxband/young-5/) — Kai-Ting habla de que «los tres tienen mucho que decir, y lo dicen directamente a través de sus instrumentos».
 
-[^5]: [Taiwan's Elephant Gym bring back bass-driven math rock (SCMP, 2014-08-13)](https://www.scmp.com/magazines/48hrs/article/1569330/taiwans-elephant-gym-bring-back-bass-driven-math-rock) — Frase original de Rachel Mok: “add a touch of cuteness to the equation”.
+[^5]: [Taiwan's Elephant Gym bring back bass-driven math rock (SCMP, 2014-08-13)](https://www.scmp.com/magazines/48hrs/article/1569330/taiwans-elephant-gym-bring-back-bass-driven-math-rock) — La frase original de Rachel Mok: «add a touch of cuteness to the equation».
 
-[^6]: [Roster de Elephant Gym (Topshelf Records)](https://www.topshelfrecords.com/roster/elephant-gym) — Cita de Pitchfork sobre lo “sublime” en _Dreams_.
+[^6]: [Elephant Gym artist roster (Topshelf Records)](https://www.topshelfrecords.com/roster/elephant-gym) — Cita del comentario sublime de Pitchfork sobre 'Dreams'.
 
-[^7]: [Definición de math rock (Wikipedia EN)](https://en.wikipedia.org/wiki/Math_rock) — Orígenes a fines de la década de 1980 y rasgos como compases asimétricos.
+[^7]: [Definición de Math rock (Wikipedia EN)](https://en.wikipedia.org/wiki/Math_rock) — Características como su origen a finales de la década de 1980 y los compases asimétricos.
 
-[^8]: [Elephant Gym (Wikipedia EN)](https://en.wikipedia.org/wiki/Elephant_Gym) — Mención como imagen de portada de la playlist global Math Rock de Spotify.
+[^8]: [Elephant Gym (Wikipedia EN)](https://en.wikipedia.org/wiki/Elephant_Gym) — Mencionado por el músico en la lista global de Math Rock de Spotify.
 
-[^9]: [Sesión completa de Elephant Gym en Audiotree Live (YouTube)](https://www.youtube.com/watch?v=HW367HtrXE0) — Publicada el 8 de abril de 2019, sesión completa de cinco temas.
+[^9]: [Elephant Gym Audiotree Live full session (YouTube)](https://www.youtube.com/watch?v=HW367HtrXE0) — Sesión completa de cinco canciones publicada el 8 de abril de 2019.
 
-[^10]: [Columna de WAVES, Kaohsiung Music Center, n.º 1](https://kmc-waves.tw/vol1/column/column-1.php) — Frase original: “Kai-hsiang y Chia-chin entraron uno después del otro a la secundaria afiliada a la Universidad Normal Nacional de Kaohsiung; cuando Chia-chin se sumó al club de música popular, el presidente era el compañero mayor Kai-hsiang”.
+[^10]: [Columna especial de la primera edición de Gao Liu WAVES](https://kmc-waves.tw/vol1/column/column-1.php) — La frase original: «Kai-Sheang y Jia-Chin ingresaron al Instituto de Educación Superior Nacional en secuencia, y cuando Jia-Chin se unió a la banda vocal, el presidente era Kai-Sheang».
 
-[^11]: [VERSE, Sonidos del sur: Elephant Gym](https://www.verse.com.tw/article/sounds-of-the-south-elephantgym) — Kai-hsiang, como presidente del club de música popular de la secundaria afiliada a la Universidad Normal Nacional de Kaohsiung, fijó la regla de que “había que tener una canción original para poder subir al escenario”.
+[^11]: [Voz del sur: Elephant Gym (VERSE)](https://www.verse.com.tw/article/sounds-of-the-south-elephantgym) — Kai-Sheang como presidente de la banda vocal del Instituto de Educación Superior Nacional estableció la regla de «debe haber una canción original para subir al escenario».
 
-[^12]: [Elephant Gym: haciendo gimnasia sobre el bass (Blow #1384)](https://blow.streetvoice.com/1384/) — La madre era profesora de música, especializada en canto y piano.
+[^12]: [Elephant Gym: Haciendo gimnasia con el bajo (Blow #1384)](https://blow.streetvoice.com/1384/) — Su madre es profesora de música, y su especialidad es el canto y el piano.
 
-[^13]: [Entrevista a Chang Kai-ting de Elephant Gym (LIFE)](https://life.tw/?app=view&no=478152) — Kai-ting tuvo contacto desde el jardín de infantes con la flauta, el violín, el piano y la guitarra folk.
+[^13]: [Entrevista a Kai-Ting de Elephant Gym (LIFE Living Net)](https://life.tw/?app=view&no=478152) — Kai-Ting comenzó con flauta, violín, piano y guitarra folclórica desde que era niña.
 
-[^14]: [Elephant Gym (Wikipedia EN)](https://en.wikipedia.org/wiki/Elephant_Gym) — Tu Chia-chin estudió percusión clásica durante diez años desde los cuatro años; la familia de sus padres era de Liugui.
+[^14]: [Elephant Gym (Wikipedia EN)](https://en.wikipedia.org/wiki/Elephant_Gym) — Jia-Chin estudió percusión clásica durante diez años desde los cuatro años, y sus padres son de Liuqi.
 
-[^15]: [Entrevista de ntusocsquare a Elephant Gym, 2014](http://ntusocsquare.blogspot.com/2014/05/blog-post_1456.html) — Kai-hsiang estudió radio y televisión en Chengchi, Kai-ting sociología en la Universidad Nacional de Taiwán y Tu Chia-chin en Chengchi.
+[^15]: [Entrevista a Elephant Gym en ntusocsquare 2014](http://ntusocsquare.blogspot.com/2014/05/blog-post_1456.html) — Kai-Sheang (Radio de la Universidad Nacional de Tainan), Kai-Ting (Sociedad de la Universidad Nacional de Taiwan), Jia-Chin (Universidad Nacional de Tainan).
 
-[^16]: [Kai-hsiang de Elephant Gym revela el origen del nombre de la banda (壹蘋 nextapple, 2026-03-23)](https://news.nextapple.com/entertainment/20260323/ECE490B02D4E4A5B85C3C3EF2EE1363D) — “La verdad es una historia muy torcida” + asociación con la escena de _Crayon Shin-chan_ en la que los genitales se dibujan como un elefante.
+[^16]: [La historia detrás del nombre de Elephant Gym revelada por Kai Xiang (nextapple, 2026-03-23)](https://news.nextapple.com/entertainment/20260323/ECE490B02D4E4A5B85C3C3EF2EE1363D) — “La verdad es una historia muy retorcida” + la asociación entre el dibujo de un órgano sexual infantil con crayones y un elefante.
 
-[^17]: [Elephant Gym (Wikipedia EN)](https://en.wikipedia.org/wiki/Elephant_Gym) — Explicación oficial del nombre: “elephant” simboliza melodías impulsadas por el bass, “gym” alude a ritmos ágiles e irregulares.
+[^17]: [Elephant Gym (Wikipedia EN)](https://en.wikipedia.org/wiki/Elephant_Gym) — Explicación oficial del nombre: 'elephant simboliza melodías impulsadas por el bajo, gym se refiere a ritmos ágiles e irregulares'.
 
-[^18]: [Información del álbum _Angle 角度_ de Elephant Gym (página oficial de música)](https://elephantgym.co/music/) — Lanzado en 2014/06; mezcla y master de Takaaki Mino, de toe.
+[^18]: [Información del álbum 'Angle' de Elephant Gym (Página web oficial de música)](https://elephantgym.co/music/) — Lanzado en 2014/06, mezclado y masterizado por Toe y Mi Nong Zhang.
 
-[^19]: [Anuncio de pausa de Elephant Gym y concierto final “See You Then” (Blow 吹音樂)](https://blow.streetvoice.com/) — Anuncio en 2014/11, concierto final en 2015/02 y regreso en 2016 tras el servicio militar.
+[^19]: [Anuncio de la pausa de Elephant Gym y el último concierto 'See You Then' (Blow Music)](https://blow.streetvoice.com/) — Anunciado en 2014/11, último concierto en 2015/02, reincorporación en 2016.
 
-[^20]: [Invitación de Elephant Gym a Summer Sonic 2016 (página de Tower Records Japan)](https://tower.jp/artist/2335234) — Publicación simultánea de la edición japonesa de _Angle_.
+[^20]: [Invitación de Elephant Gym a Summer Sonic 2016 (Página de introducción de Tower Records Japan)](https://tower.jp/artist/2335234) — Lanzado simultáneamente con la edición japonesa de 'Angle'.
 
-[^21]: [VERSE, Sonidos del sur: Elephant Gym](https://www.verse.com.tw/article/sounds-of-the-south-elephantgym) — Frase verbatim de Kai-hsiang tras volver a Kaohsiung en 2016: “Lo que más quiero hacer quizá sea servir de puente”.
+[^21]: [La voz del sur: Elephant Gym (VERSE)](https://www.verse.com.tw/article/sounds-of-the-south-elephantgym) — Kai Xiang dijo textualmente en Kaohsiung después de 2016: “Lo que más quiero hacer podría ser construir un puente”.
 
-[^22]: [MV de Yoga Lin “The Shape of Mouth” (YouTube)](https://www.youtube.com/watch?v=TSELe3zB97Q) — Conciertos de 2014 en Hong Kong Coliseum y Taipei Arena con “The Shape of Mouth”; Elephant Gym fue invitado especial.
+[^22]: [MV de 'The Shape of Mouth' de Hins Yu-ka (YouTube)](https://www.youtube.com/watch?v=TSELe3zB97Q) — Concierto de 'The Shape of Mouth' en Hong Kong Coliseum y Taipei Arena en 2014, con Elephant Gym como invitado especial.
 
-[^23]: [Fire EX. y Elephant Gym en el festival japonés Fuji Rock (Taiwan ASEAN Music Action)](https://www.taiwanaseanmusicaction.com/%E6%BB%85%E7%81%AB%E5%99%A8%E3%80%81%E5%A4%A7%E8%B1%A1%E9%AB%94%E6%93%8D%E5%BE%81%E6%88%B0%E6%97%A5%E6%9C%AC%E3%80%8C%E5%AF%8C%E5%A3%AB%E6%90%96%E6%BB%BE%E3%80%8D%E9%9F%B3%E6%A8%82%E7%A5%AD%E5%A4%A7/) — Red Marquee, estación de esquí de Naeba, 2022/07/31; misma edición que Fire EX.
+[^23]: [Extinguidores, Elephant Gym conquistan el Festival Musical Fuji Rock en Japón (Taiwan East Asia Sound)](https://www.taiwanaseanmusicaction.com/%E6%BB%85%E7%81%AB%E5%99%A8%E3%80%81%E5%A4%A7%E8%B1%A1%E9%AB%94%E6%93%8D%E5%BE%81%E6%88%B0%E6%97%A5%E6%9C%AC%E3%80%8C%E5%AF%8C%E5%A3%AB%E6%90%96%E6%BB%BE%E3%80%8D%E9%9F%B3%E6%A8%82%E7%A5%AD%E5%A4%A7/) — En Red Marquee, Snow Resort de Miaoba el 31/07/2022, junto con Extinguishers.
 
-[^24]: [Discurso de Elephant Gym en Fuji Rock 2022 (Taiwan ASEAN Music Action)](https://www.taiwanaseanmusicaction.com/) — Frase original de Kai-hsiang: “Espero que cuando todos se encuentren con cosas negativas, ya sea la guerra o la pandemia, no olviden aquello en lo que creen”.
+[^24]: [Discurso de Elephant Gym en Fuji Rock 2022 (Taiwan East Asia Sound)](https://www.taiwanaseanmusicaction.com/) — La frase original de Kai Xiang: “Espero que cuando enfrenten cosas negativas, ya sea guerra o pandemia, no olviden las cosas en las que creen”.
 
-[^25]: [Elephant Gym - _Underwater_ (TSR201) (página de tienda de Topshelf Records)](https://www.topshelfrecords.com/store) — Lanzado el 2018/11/14; primer trabajo nuevo tras firmar con Topshelf. “Blanket” fue producido por Sandee Chan y la canción titular “Underwater” por Li Yung-en, de Hello Nico.
+[^25]: [Elephant Gym - Underwater (TSR201) (Página del producto de Topshelf Records)](https://www.topshelfrecords.com/store) — Lanzado el 14/11/2018; su primer trabajo después de firmar con Topshelf. Producido por Chen Shanni ('被子'), y la canción principal 'Underwater' fue producida por Hello Nico Li Yong-en.
 
-[^26]: [Sun, Sneakers, and Solange: Camp Flog Gnaw Day 1 (WHRB Harvard)](https://www.whrb.org/archive/sun-sneakers-and-solange-camp-flog-gnaw-day-1/) — Dodger Stadium, 2019/11/09; Flog Stage, 13:20.
+[^26]: [Sun, Sneakers, and Solange: Camp Flog Gnaw Day 1 (WHRB Harvard)](https://www.whrb.org/archive/sun-sneakers-and-solange-camp-flog-gnaw-day-1/) — 9/09/2019 en Dodger Stadium, Flog Stage a las 13:20.
 
-[^27]: [Camp Flog Gnaw 2019: 11 Ones to Catch You Aren't (Ones to Watch)](https://www.onestowatch.com/en/blog/camp-flog-gnaw-2019-11-ones-to-catch-who-arent) — Frase original: “the jam session to end all jam sessions”.
+[^27]: [Camp Flog Gnaw 2019: 11 Ones to Catch You Aren't (Ones to Watch)](https://www.onestowatch.com/en/blog/camp-flog-gnaw-2019-11-ones-to-catch-who-arent) — La frase original: “the jam session to end all jam sessions”.
 
-[^28]: [Discurso verbatim de KT en Camp Flog Gnaw (WHRB)](https://www.whrb.org/archive/sun-sneakers-and-solange-camp-flog-gnaw-day-1/) — Frases originales: “the most important part of an instrumental rock band? The alcohol!” y “We don't know why we're here!”.
+[^28]: [Discurso de KT en Camp Flog Gnaw textualmente (WHRB)](https://www.whrb.org/archive/sun-sneakers-and-solange-camp-flog-gnaw-day-1/) — Las frases originales: “¿la parte más importante de una banda de rock instrumental? ¡El alcohol!” y “¡No sabemos por qué estamos aquí!”.
 
-[^29]: [Registro de lanzamiento de Elephant Gym Audiotree Live (Bandcamp)](https://audiotree.bandcamp.com/album/elephant-gym-on-audiotree-live) — Publicado el 2019/04/08; siete meses de diferencia respecto de su presentación de noviembre en Camp Flog Gnaw.
+[^29]: [Registro del lanzamiento de Audiotree Live de Elephant Gym (Bandcamp)](https://audiotree.bandcamp.com/album/elephant-gym-on-audiotree-live) — Lanzado el 08/04/2019, siete meses antes de su actuación en Camp Flog Gnaw.
 
-[^30]: [Dreaming with Elephant Gym, 9m88 and Lucy at SXSW's Taiwan Beats Showcase (Austin Chronicle, 2023-03-15)](https://www.austinchronicle.com/daily/sxsw/2023-03-15/dreaming-with-elephant-gym-9m88-and-lucy-at-sxsws-taiwan-beats-showcase/) — Detalles de las tres participaciones en SXSW: 2019, 2022 y 2023.
+[^30]: [Soñando con Elephant Gym, 9m88 y Lucy en la muestra Taiwan Beats del SXSW (Austin Chronicle, 2023-03-15)](https://www.austinchronicle.com/daily/sxsw/2023-03-15/dreaming-with-elephant-gym-9m88-and-lucy-at-sxsws-taiwan-beats-showcase/) — Detalles de tres apariciones en SXSW: 2019, 2022 y 2023.
 
-[^31]: [Discurso verbatim de Kai-hsiang en SXSW 2023, Elysium (Austin Chronicle)](https://www.austinchronicle.com/daily/sxsw/2023-03-15/dreaming-with-elephant-gym-9m88-and-lucy-at-sxsws-taiwan-beats-showcase/) — Frase original: “Taiwan is the homeland for dreamers like you and me. We not only dream, but also make dreams come true”.
+[^31]: [Discurso de Elysium en SXSW 2023 por Kaixiang (Austin Chronicle)](https://www.austinchronicle.com/daily/sxsw/2023-03-15/dreaming-with-elephant-gym-9m88-and-lucy-at-sxsws-taiwan-beats-showcase/) — La frase original es: «Taiwan es la tierra natal de soñadores como tú y yo. No solo soñamos, sino que también hacemos realidad los sueños.»
 
-[^32]: [Elephant Gym at ArcTangent 2019 (sitio oficial de ArcTangent)](https://arctangent.co.uk/artists/elephant-gym/) — Fernhill Farm, Bristol, 2019/08/15-17; cartel con Meshuggah, Coheed and Cambria, Battles, 65daysofstatic, entre otros.
+[^32]: [Elephant Gym en ArcTangent 2019 (Sitio web oficial de ArcTangent)](https://arctangent.co.uk/artists/elephant-gym/) — Fernhill Farm, Bristol, del 15 al 17/08/2019; junto a Meshuggah, Coheed and Cambria, Battles y 65daysofstatic.
 
-[^33]: [KT grita “alguien tiene un cuchillo” en el Año Nuevo de Dream Mall Kaohsiung (China Times 20231231003205)](https://www.chinatimes.com/realtimenews/20231231003205-260404) — Frase verbatim de KT sobre el escenario el 2023/12/31: “Alguien tiene un cuchillo, FXXK”.
+[^33]: [Grito de 'Alguien con un cuchillo' en la cuenta regresiva de Año Nuevo en Kaohsiung (CNA 20231231003205)](https://www.chinatimes.com/realtimenews/20231231003205-260404) — Frase original durante el evento del 31/12/2023: «Alguien tiene un cuchillo, FXXK».
 
-[^34]: [Cronología de la interrupción de la transmisión durante el incidente de Año Nuevo (TVBS 2353082)](https://news.tvbs.com.tw/entertainment/2353082) — La transmisión se interrumpió cerca de 7 minutos; a las 21:12 la situación volvió a la calma.
+[^34]: [Cronología de la interrupción de la transmisión en vivo (TVBS 2353082)](https://news.tvbs.com.tw/entertainment/2353082) — La transmisión se interrumpió durante aproximadamente 7 minutos y se reanudó a las 21:12.
 
-[^35]: [Aclaración de KT en historias de IG el 1/1 (TVBS 2356857)](https://news.tvbs.com.tw/local/2356857) — Frase original: “Primero escuché empujones entre la multitud; luego, por los audífonos, escuché a alguien decir ‘alguien tiene un cuchillo’, y enseguida vino la instrucción de ‘bajar del escenario’”.
+[^35]: [Aclaración de KT en Instagram Live del 1/1 (TVBS 2356857)](https://news.tvbs.com.tw/local/2356857) — La frase original es: «Primero escuchamos el empujón de la multitud, luego escuchamos a alguien decir 'Alguien tiene un cuchillo' y después la orden de 'bajar de escenario'».
 
-[^36]: [Comunicado oficial de Elephant Gym (TVBS 2353082)](https://news.tvbs.com.tw/entertainment/2353082) — Frase original: “Gracias a todos por su preocupación. Respecto de la situación real en el lugar, prevalece la respuesta de la organización”.
+[^36]: [Declaración oficial de Elephant Gym (TVBS 2353082)](https://news.tvbs.com.tw/entertainment/2353082) — La frase original es: «Gracias por su preocupación; la situación real en el lugar es respondida principalmente por los organizadores.»
 
-[^37]: [Explicación de la comisaría de Cianjhen del Gobierno de la Ciudad de Kaohsiung](https://www.chinatimes.com/realtimenews/20231231003205-260404) — 35 personas sufrieron raspaduras y contusiones por empujones; el “cuchillo” era en realidad un bolígrafo; nadie resultó herido por cuchillo.
+[^37]: [Explicación del Departamento de Policía de Wens County, Kaohsiung](https://www.chinatimes.com/realtimenews/20231231003205-260404) — Hubo 35 personas con contusiones por empujones; el 'cuchillo' era en realidad un bolígrafo y nadie resultó herido por un cuchillo.
 
-[^38]: [Apoyo posterior del Gobierno de Kaohsiung a los artistas (China Times)](https://www.chinatimes.com/realtimenews/20231231003205-260404) — Frase original: “El incidente de la noche de Año Nuevo no tuvo relación con ningún grupo artístico... exhortamos a todos a no culpar con dureza a los artistas”.
+[^38]: [Declaración posterior del grupo de actuación municipal de Kaohsiung (CNA)](https://www.chinatimes.com/realtimenews/20231231003205-260404) — La frase original es: «El incidente de la noche de Año Nuevo no tiene relación con ningún grupo de actuación... pedimos a todos que no culpen a los grupos de actuación.»
 
-[^39]: [Información de lanzamiento de _Dreams_ de Elephant Gym (sitio oficial)](https://elephantgym.co/music/) — Lanzado el 2022/05/11; “Shadow” feat. 9m88, “Dreamlike You” feat. Lin Sheng-xiang; “Shadow” toma su título de la teoría de la sombra de Jung.
+[^39]: [Información de lanzamiento del álbum Dreams de Elephant Gym (Sitio web oficial)](https://elephantgym.co/music/) — Lanzado el 11/05/2022, con «Shadow» ft. 9m88 y «Dreaming of You» ft. Lin Shengxiang; 'Shadow' se basa en la teoría del inconsciente de Jung.
 
-[^40]: [Lista de artistas colaboradores de _Dreams_ de Elephant Gym (página oficial de música)](https://elephantgym.co/music/) — “Wings” feat. Banda Sinfónica de Vientos de Kaohsiung; “Deities' Party” feat. Chio-Tian Folk Drums & Arts Troupe.
+[^40]: [Lista de artistas colaboradores del álbum Dreams de Elephant Gym (Página de música del sitio web oficial)](https://elephantgym.co/music/) — Incluye «Flapping Wings» ft. Orquesta de Kaohsiung y «God's Party» ft. Grupo Folclórico de Jiutian.
 
-[^41]: [Elephant Gym sobre el nuevo álbum _Dreams_ (NME)](https://www.nme.com/features/elephant-gym-album-dreams-interview-math-rock-3222491) — Frase original de Kai-hsiang: “The most interesting thing to do is to find other musicians to break down your world”.
+[^41]: [Elephant Gym sobre el nuevo álbum Dreams (NME)](https://www.nme.com/features/elephant-gym-album-dreams-interview-math-rock-3222491) — La frase original es: «Lo más interesante que hay que hacer es encontrar otros músicos para desmantelar tu mundo.»
 
-[^42]: [Información de lanzamiento de _World_ de Elephant Gym (página de tienda de Topshelf Records)](https://www.topshelfrecords.com/) — Lanzamiento global el 2023/12/14; 10 canciones, obra conmemorativa por el décimo aniversario.
+[^42]: [Información de lanzamiento del álbum World de Elephant Gym (Página de productos de Topshelf Records)](https://www.topshelfrecords.com/) — Lanzado globalmente el 14/12/2023, consta de 10 canciones y conmemora 10 años.
 
-[^43]: [Lista de colaboraciones de _World_ de Elephant Gym (página oficial de música)](https://elephantgym.co/music/) — “Name” feat. Seiji Kameda en doble bajo; “Jhalleyaa” feat. Shashaa Tirupati; “Feather” feat. ?te + TENDRE; “The Happy Prince” feat. Lin Yi-le.
+[^43]: [Lista de colaboradores del álbum World de Elephant Gym (Página de música del sitio web oficial)](https://elephantgym.co/music/) — Incluye «Name» ft. Seiji Kumeida (bajo doble) y «Jhalleyaa» ft. Shashaa Tirupati, «Feather» ft. Waite + TENDRE, y «Happy Prince» ft. Yi-Le.
 
-[^44]: [Información de la presentación Zepp Premium 2023/02/23 (MeMeOn music, 2022-11-16)](https://memeon-music.com/2022/11/16/zepp-premium/) — Zepp New Taipei; presentación conjunta de Seiji Kameda, SKY-HI y Elephant Gym.
+[^44]: [Información del concierto Zepp Premium 2023/02/23 (MeMeOn music, 2022-11-16)](https://memeon-music.com/2022/11/16/zepp-premium/) — Zepp New Taipei con Seiji Kumeida + SKY-HI + Elephant Gym.
 
-[^45]: [MV de Elephant Gym “穿過夜晚 Go Through the Night” (YouTube)](https://www.youtube.com/watch?v=-WGaDoOlHwo) — Sencillo del 2021/03/29; samplea la guitarra acústica de “Two Moons” de toe (2009).
+[^45]: [Video musical de 'Go Through the Night' de Elephant Gym (YouTube)](https://www.youtube.com/watch?v=-WGaDoOlHwo) — Sencillo lanzado el 29/03/2021, sampleado de 'Two Moons' acústico de toe de 2009.
 
-[^46]: [Escala de la gira “THE WORLD” de Elephant Gym (Blow 吹音樂 #77310)](https://blow.streetvoice.com/77310/) — Casi 60 presentaciones acumuladas en Asia, América y Europa.
+[^46]: [Gira Mundial de Elephant Gym 'THE WORLD' (Blow Music #77310)](https://blow.streetvoice.com/77310/) — Acumuló casi 60 conciertos en Asia, América y Europa.
 
-[^47]: [_Elephant Gym: More Real than Dreams_ (Festival de Cine de Kaohsiung #4891)](https://www.kff.tw/film/content/4891) — Dirección de Kuo Chin-ju / Alulu KUO, producción de Chang Kai-hsiang, duración de 95 minutos.
+[^47]: [Elephant Gym: Más real que un sueño (Festival Internacional de Cine de Kaohsiung #4891)](https://www.kff.tw/film/content/4891) — Director Kuo Jin-Ru Alulu KUO, productor Chang Kai-Xiang, duración de 95 minutos.
 
-[^48]: [Información de estreno de _Elephant Gym: More Real than Dreams_ (in89 Cinemax)](https://www.in89.com.tw/) — Premier en Taipéi el 2026/02/06, tras funciones previas en Tokio y Kioto en enero de 2026.
+[^48]: [Información de estreno de Elephant Gym: Más real que un sueño (Cine de lujo in89)](https://www.in89.com.tw/) — Estreno en Taipéi el 06/02/2026, antes del estreno en Tokio y Kioto, Japón el 01/2026.
 
-[^49]: [Núcleo narrativo de _Elephant Gym: More Real than Dreams_ (presentación del Festival de Cine de Kaohsiung)](https://www.kff.tw/film/content/4891) — Discusión entre integrantes en 2023 y cercanía de la separación; Tu Chia-chin “obligado a dejar otra banda”; hermanos en el tironeo entre “familiares y compañeros de trabajo”.
+[^49]: [Núcleo narrativo de Elephant Gym: Más real que un sueño (Presentación del Festival Internacional de Cine de Kaohsiung)](https://www.kff.tw/film/content/4891) — Conflictos entre miembros en 2023, al borde de la disolución; Tu Jia-Chin 'forzado a dejar otra banda'; hermanos 'tensión entre familia y compañeros de trabajo'.
 
-[^50]: [Texto promocional de _More Real than Dreams OST_ (Topshelf Records)](https://www.topshelfrecords.com/) — Frase original: “In 2023, Elephant Gym was preparing to embark on a world tour—yet the band stood on the brink of breaking up”.
+[^50]: [Letra del OST More Real than Dreams (Topshelf Records)](https://www.topshelfrecords.com/) — La frase original es: 'En 2023, Elephant Gym se estaba preparando para comenzar una gira mundial, pero la banda estaba al borde de la ruptura'.
 
-[^51]: [Entrevista sobre el estado emocional de Elephant Gym durante la gira (United Daily News, stars.udn 8353334)](https://stars.udn.com/star/story/10092/8353334) — Frase original de KT: “De hecho, muchas veces cuando vuelvo a casa me acuesto en la cama y lloro a gritos”.
+[^51]: [Entrevista sobre el estado de gira de Elephant Gym (United Daily News stars.udn 8353334)](https://stars.udn.com/star/story/10092/8353334) — La frase original es: 'En realidad, a menudo lloro en mi cama cuando vuelvo a casa'.
 
-[^52]: [Información de lanzamiento de _More Real than Dreams OST_ (Topshelf 872753)](https://www.topshelfrecords.com/) — Lanzado el 2026/02/03, con participación de dooodooo, Wu Pei-ling y músicos de la Banda Sinfónica de Vientos de Kaohsiung.
+[^52]: [Información de lanzamiento del OST More Real than Dreams (Topshelf 872753)](https://www.topshelfrecords.com/) — Lanzamiento el 03/02/2026, con participación de dooodooo, Wu Peiling y miembros de la orquesta municipal de Kaohsiung.
 
-[^53]: [Elephant Gym gana el Premio del Jurado de la 35.ª edición de los Golden Melody Awards por _World_ (CNA, 2024-06-29)](https://www.cna.com.tw/news/amov/202406290257.aspx) — Fuente doble para el comentario de Chen Tzu-hung y el discurso verbatim de Kai-ting.
+[^53]: [Elephant Gym 'World' gana un premio del jurado en el Premio de Canciones (CNA, 29-06-2024)](https://www.cna.com.tw/news/amov/202406290257.aspx) — Fuente de citas verbatim de la reseña de Chen Zi-Hung y el discurso de Kaiting.
 
-[^54]: [Lista de ganadores de los Golden Indie Music Awards (Bureau of Audiovisual and Music Industry Development, Ministry of Culture)](https://gima.bamid.gov.tw/) — Registros de premios de Elephant Gym y KT en las ediciones 5.ª, 10.ª, 13.ª y 15.ª.
+[^54]: [Lista de ganadores del Premio GIMA (Departamento de Cine y Televisión del Ministerio de Cultura)](https://gima.bamid.gov.tw/) — Recopilación de los récords de premios de Elephant Gym y KT en las ediciones 5, 10, 13 y 15.
 
-[^55]: [Discurso de KT como Mejor Música Instrumentista en la 13.ª edición de los Golden Indie Music Awards (Blow 吹音樂 #64010)](https://blow.streetvoice.com/64010/) — En 2022, KT subió al escenario a Fang Q de Cosmos People, prometió compartir el dinero del premio y mencionó que “cuando recién empezó como bajista se burlaban en grupo de su técnica”.
+[^55]: [Discurso de la mejor músico de KT en el 13º Premio GIMA (Blow Music #64010)](https://blow.streetvoice.com/64010/) — La frase original es: 'En 2022, cuando Q de los extraterrestres subió al escenario con KT y prometió una parte del premio, dije que mi técnica de bajo fue ridiculizada por la multitud'.
 
-[^56]: [Chang Kai-ting se convierte en la primera embajadora femenina de bass de Fender Taiwán (Zeek Magazine)](https://zeekmagazine.com/archives/117709) — Anuncio del 2020/03/18; en paralelo apareció en un reportaje de la revista japonesa _Bass Magazine_.
+[^56]: [Chang Kaiting se convierte en la primera embajadora de Fender en Taiwán (Zeek Magazine)](https://zeekmagazine.com/archives/117709) — Anuncio el 18/03/2020, también reportado en Bass Magazine de Japón.
