@@ -27,9 +27,10 @@ imageCredit: 'TurquoiseGoose / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Elephant_Gym_Portland_2024.jpg'
 translatedFrom: 'Music/大象體操.md'
-sourceCommitSha: '8547b2665'
-sourceContentHash: 'sha256:71cdc104f7f3b8f4'
-translatedAt: '2026-09-24T12:24:11.517302+00:00'
+sourceCommitSha: 'f40273072'
+sourceContentHash: 'sha256:f9e17206eee03c4e'
+sourceBodyHash: 'sha256:b2179659aae39566'
+translatedAt: '2026-10-10T03:30:12.917728+00:00'
 ---
 
 # Elephant Gym: Trio dari Taiwan yang Musiknya Terdengar Walau Tanpa Vokalis
@@ -239,11 +240,11 @@ Film dokumenter berjudul _More Real Than Dreams_. Perjalanan ketiga orang ini le
 
 ## Bacaan Lanjutan
 
-- [拍謝少年](/id/music/sorry-youth-band) — Band kontemporer yang juga berasal dari selatan dan mendefinisikan diri melalui bahasa, tetapi mereka memilih dialek Taiwan (Taiwanese), dan memilih vokal.
-- [滅火器樂團](/id/music/fire-ex) — Saudara dari Kaohsiung, band lain dari Kaohsiung yang tampil di Fuji Rock 2022.
-- [落日飛車](/id/music/sunset-rollercoaster) — Perwakilan indie Taiwan sezaman yang merambah pasar internasional, dengan gaya _city pop_ yang lembut dan menyanyikan bahasa Inggris, membentuk jalur kontras dengan pendekatan instrumental Elephant Gym.
-- [台灣搖滾樂發展史](/id/music/taiwan-rock-from-underground-to-mainstream) — Konteks perkembangan dari Wu Bai, Mayday hingga generasi setelah 落日飛車.
-- [台灣獨立音樂](/id/music/indie-music-scene) — Pemandangan dan ekosistem label musik indie Taiwan.
+- [Pai Hsiao Shao Nien](/id/music/sorry-youth-band) — sebuah band kontemporer dari daerah selatan yang menggunakan bahasa untuk memposisikan diri, namun mereka memilih bahasa Tionghoa dan vokal
+- [Fire Extinguisher](/id/music/fire-ex) — saudara kandung dari Kaohsiung, lapisan lain dari Fuji Rock 2022
+- [Sunset Fly Car](/id/music/sunset-rollercoaster) — perwakilan indie Taiwan dari generasi yang sama, mengusung city pop yang longgar dan bernyanyi dalam bahasa Inggris, membentuk jalur kontras dengan teknik instrumental Elephant Gym
+- [Sejarah Pengembangan Rock Taiwan](/id/music/taiwan-rock-from-underground-to-mainstream) — dari Wu Peiqiang hingga generasi pasca-Sunset Fly Car
+- [Musik Independen Taiwan](/id/music/indie-music-scene) — adegan indie Taiwan dan ekosistem label
 
 ## Sumber Gambar
 

@@ -1,16 +1,16 @@
 ---
-title: 'Budaya Kuliner Hakka'
-description: 'Budaya kuliner yang kaya dan beragam dari orang Hakka, dari aroma kentang tunas yang menyenangkan hingga wewangian hutan dalam leupat bunga jahe liar, menampilkan kebijaksanaan kehidupan suku Hakka dalam kehematan dan penggunaan sumber daya lokal'
+title: 'Budaya Makanan dan Kehidupan Harian Kemasan (Hakka)'
+description: 'Budaya makanan Kemasan yang kaya dan beragam, dari aroma teh yang kental hingga nuansa hutan madu jahe liar, menampilkan kebijaksanaan hidup yang hemat dan ramah lingkungan dari komunitas Kemasan.'
 date: 2026-03-19
 category: 'Food'
 tags:
   [
     'Makanan',
-    'Hakka',
-    'Teh Leicha',
-    'Leupat Bunga Jahe Liar',
+    'Kemasan',
+    'Teh Hakka',
+    'Madu Jahe Liar',
     'Makanan Tradisional',
-    'Budaya Suku',
+    'Budaya Etnis',
   ]
 subcategory: '族群飲食'
 author: 'Taiwan.md'
@@ -18,144 +18,148 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 image: '/article-images/food/meinong-hakka-leicha-tea-2023.webp'
-imageAlt: 'Pengalaman teh Hakka leicha di Desa Folktale Meinong'
+imageAlt: 'Pengalaman Teh Hakka di Kamp Budaya Minong'
 imageCredit: 'WEI, WAN-CHEN / Wikimedia Commons'
 created: 2026-03-19
 readingTime: 12
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E7%BE%8E%E6%BF%83%E6%B0%91%E4%BF%97%E6%9D%91%E5%AE%A2%E5%AE%B6%E6%93%82%E8%8C%B6%E9%AB%94%E9%A9%9780.jpg'
 translatedFrom: 'Food/客家飲食文化.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:3b6b12dd06856da0'
-sourceBodyHash: 'sha256:1006124334926615'
-translatedAt: '2026-09-09T15:32:33+08:00'
+sourceCommitSha: '011533786'
+sourceContentHash: 'sha256:7e5ddfdb9a112f57'
+sourceBodyHash: 'sha256:b9108371c1de0fa0'
+translatedAt: '2026-10-10T11:05:03+08:00'
 ---
 
-# Budaya Kuliner Hakka
+# Budaya Makanan dan Kehidupan Harian Kemasan (Hakka)
 
-> **Sekilas 30 detik:** Budaya kuliner Hakka ditandai dengan ciri khas "asin, berlemak, dan harum", menanggung sejarah migrasi orang Hakka dan kebijaksanaan kehidupan mereka. Dari aroma teh leicha di jalan tua Beipu hingga leupat bunga jahe liar di Neiwan, dari intensnya daging babi dengan sayuran asin yang mengering hingga kepraktisan tumis Hakka kecil, setiap hidangan menceritakan hubungan mendalam antara orang Hakka dan tanah mereka.
+> **Ringkasan 30 detik:** Budaya makanan Kemasan ditandai dengan ciri khas "asin, gurih, dan wangi", yang menggambarkan sejarah migrasi dan kebijaksanaan hidup kaum Kemasan. Dari aroma teh di jalan tua Pekan Hsinchu hingga madu jahe liar di Wulan, dari rasa kaya sayur asem yang diasinkan hingga makanan kecil Kemasan yang sederhana, setiap hidangan menceritakan ikatan emosional yang dalam antara kaum Kemasan dan tanah air.
 
-## Mengapa Penting
+## Mengapa Ini Penting
 
-Kuliner Hakka menempati posisi unik dalam budaya kuliner yang beragam di Taiwan. Sepanjang perjalanan migrasi yang panjang, orang Hakka mengembangkan teknik penyimpanan makanan dan cara memasak yang unik. Kebijaksanaan ini masih mempengaruhi budaya kuliner Taiwan hingga hari ini. Ciri "asin, harum, dan gurih" dari masakan Hakka mencerminkan kebutuhan gizi masyarakat pekerja, dan juga mewujudkan filosofi hidup orang Hakka dalam hemat, patah asuh dan penggunaan segala.
+Makanan Kemasan memiliki posisi unik dalam keanekaragaman kuliner Taiwan. Selama proses migrasi yang panjang, kaum Kemasan mengembangkan teknik pengawetan dan cara memasak yang unik, yang masih memengaruhi budaya kuliner Taiwan hingga kini. Ciri khas "asin, gurih, wangi" dari makanan Kemasan mencerminkan kebutuhan gizi para pekerja, sekaligus mencerminkan filosofi hidup yang hemat dan tidak boros dari kaum Kemasan.
 
 ## Gambaran Umum
 
-Masuk ke jalan tua Beipu di Hsinchu, udara selalu penuh dengan aroma teh leicha. Itu adalah rasa lembut dari biji wijen, kacang tanah, daun teh yang telah digiling berulang kali dalam lesung batu, seakan-akan memungkinkan orang merasakan berat waktu melalui rasa. Seorang nenek duduk di depan meja kayu kuno, memegang tongkat penggiling, menggiling searah jarum jam. Gerakan ini telah berlanjut selama ratusan tahun di komunitas Hakka.
+Masuklah ke jalan tua Pekan Hsinchu, udara di sekitarnya selalu dipenuhi aroma teh. Itu adalah rasa kental yang dihasilkan dari penggilingan berulang dari biji teh, kacang kedelai, dan biji ketimun di dalam bejana penggiling. Asal-usul teh Taiwan, ada yang mengatakan bahwa teh ini dibawa oleh para imigran Kemasan dari wilayah Hai Po di Guangdong setelah perang, bersama dengan bejana dan kayu penggiling mereka, yang saat itu hanyalah kebiasaan minum di rumah tangga[^1]。Pekan Hsinchu yang jalan tua, tehnya lebih modern: toko teh pertama yang menjual teh secara khusus, baru dibuka pada Maret 1999 di pasar tempat ibadah Pekan Hsinchu[^2]。
 
-Pembentukan budaya kuliner Hakka tidak terpisahkan dari sejarah migrasi orang Hakka. Dalam proses perpindahan yang panjang, orang Hakka harus belajar bagaimana bertahan di lingkungan yang berbeda-beda, bagaimana memaksimalkan bahan makanan yang terbatas. Kebijaksanaan kelangsungan hidup ini dari "mengandalkan gunung untuk makan gunung, mengandalkan air untuk makan air" telah membentuk ciri dasar masakan Hakka dalam "menggunakan bahan lokal" dan "tidak membuang".
+Pembentukan budaya makanan Kemasan erat kaitatnya dengan sejarah migrasi kaum Kemasan. Selama proses pemindahan yang panjang, kaum Kemasan harus belajar bagaimana bertahan di lingkungan yang berbeda, dan bagaimana memaksimalkan bahan makanan yang terbatas. Kebijaksanaan hidup "menggunakan gunung untuk dimakan, menggunakan air untuk diminum" ini membentuk ciri khas makanan Kemasan yang "menggunakan bahan setempat" dan "memanfaatkan sepenuhnya".
 
-## Makanan Klasik
+## Makanan Khas
 
-Kuliner Hakka terkenal dengan beberapa hidangan representatif, dan setiap hidangan mengandung konteks historis spesifik dan kebijaksanaan lokal.
+Makanan Kemasan terkenal dengan beberapa hidangan representatif, setiap satu mengandung makna sejarah dan kebijaksanaan lokal yang khas.
 
-### Teh Leicha (擂茶): Warisan Seribu Tahun dari Sup Tiga Awal
+### Teh Hakka: Warisan Tiga Kehidupan
 
-Teh leicha (擂茶), juga disebut "sup tiga awal," menurut legenda nama ini berasal dari kombinasi "teh segar, jahe segar, beras segar" dari era Tiga Kerajaan[^1]. Dalam kehidupan sehari-hari orang Hakka, teh leicha bukan hanya minuman, tetapi juga media sosial dan suplemen kesehatan.
+Teh Hakka, juga dikenal sebagai "sup tiga kehidupan", legenda mengatakan bahwa saat Dinasti Tiga Kerajaan, Zhang Fei memimpin pasukannya menyerang Wuling, para pasukanya terjangkit wabah. Seorang dokter herbal menawarkan resep rahasia yang terbuat dari teh, jahe, dan beras yang dihancurkan, kemudian dimasak hingga menjadi bubur untuk diminum[^3]。Dalam kehidupan sehari-hari kaum Kemasan, teh ini adalah minuman untuk menyambut tamu istimewa, juga sering diminum sebagai minuman kesehatan[^4]。
 
-Pembuatan teh leicha tradisional memerlukan lesung khusus dan penggiling. Lesung biasanya dibuat dari tanah liat yang dipanggang, dengan alur halus di dinding dalamnya; penggiling sering terbuat dari batang pohon guava atau pohon teh minyak, dengan tekstur keras dan aroma alami. Saat membuat, taruh daun teh, biji wijen, kacang tanah dan bahan lainnya ke dalam lesung, giling dengan penggiling searah jarum jam, hingga semua bahan menyatu menjadi bubuk halus.
+Pembuatan teh tradisional membutuhkan bejana dan kayu penggiling khusus. Bejana biasanya terbuat dari tanah liat, dengan ukiran halus di dindingnya; kayu penggiler biasanya terbuat dari kayu pohon nanas atau kayu teh, yang keras dan memiliki aroma alami. Saat memasak, teh, biji ketimun, kacang kedelai, dan bahan lainnya dimasukkan ke dalam bejana, kemudian dihancurkan berlawanan dengan arah jarum jam menggunakan kayu penggiling, hingga semua bahan bercampur menjadi serbuk halus.
 
-Budaya teh leicha di kawasan Hsinchu sangat berkembang, dari Hukou, Zhuodong hingga Beipu, setiap kota memiliki ciri khas teh leicha tersendiri. Teh leicha di jalan tua Beipu adalah pengalaman wajib kunjung bagi turis, banyak toko tidak hanya menyediakan teh leicha siap pakai, tetapi juga membuka pengalaman bagi pengunjung untuk menggiling sendiri. Survei yang dilakukan oleh Hakka Council pada tahun 2022 menunjukkan bahwa teh leicha telah menjadi item pengalaman inti wisata budaya Hakka di kabupaten Hsinchu.
+Budaya teh di wilayah Hsinchu sangat berkembang, dari Hukou, Zhubei hingga Pekan Hsinchu, setiap desa memiliki ciri khas tehnya sendiri. Teh di jalan tua Pekan Hsinchu menjadi bagian tak terpisahkan dari pengalaman wajib bagi wisatawan, banyak toko yang tidak hanya menyajikan teh yang sudah siap, tetapi juga membuka kesempatan bagi pengunjung untuk mencoba menggilingnya sendiri[^5]。Teh Pekan Hsinchu ini dikembangkan sebagai usaha ekonomi budaya, toko pertama beroperasi dengan sulit, kemudian di jalan tua Pekan Hsinchu ada sekitar enam puluh toko[^4]。
 
-Seiring perubahan zaman, teh leicha juga telah berubah. Sekitar tahun 2015, jalan tua Beipu muncul inovasi "teh leicha es", mengubah minuman panas tradisional menjadi minuman musim panas yang menyegarkan, bahkan meluncurkan versi kemasan yang dapat dibawa, membiarkan minuman kuno ini keluar dari meja teh, memasuki era minuman tangan guncangan.
+Seiring berjalannya waktu, teh juga berkembang menjadi versi dingin. Pada tahun 2013, dalam catatan lapangan tentang budaya makanan Kemasan, pedagang di jalan tua Wulan Hsinchu sudah menjual es teh[^5]，mengubah teh yang biasanya diminum dengan air panas menjadi minuman es yang cocok untuk musim panas.
 
-**Nilai Gizi dan Pantangan Makanan**
-Teh leicha kaya akan protein, vitamin E, dan asam lemak tak jenuh, dengan nilai gizi yang sangat baik. Namun karena komponen utamanya adalah kacang-kacangan, kalori relatif tinggi, penderita diabetes dan orang yang ingin menurunkan berat badan perlu minum dalam jumlah sedang. Teh leicha tradisional adalah minuman panas tanpa gula, mempertahankan rasa alami bahan.
+**Nilai Gizi dan Larangan Konsumsi**
+Teh Hakka kaya akan protein, vitamin E, dan asam lemak tak jenuh, memiliki nilai gizi yang baik. Namun karena bahan utamanya adalah kacang-kacangan, kalorinya relatif tinggi, penderita diabetes dan orang yang sedang diet harus diminum dengan moderat. Teh yang dibawa dari Hai Po awalnya adalah teh asin, saat dipromosikan di Pekan Hsinchu, ditemukan bahwa rasa asinnya tidak disukai wisatawan, kemudian dimodifikasi menjadi minuman manis yang umum ditemukan saat ini[^1]。
 
-### Leupat Bunga Jahe Liar (野薑花粽): Kenangan Wewangian di Hutan
+### Madu Jahe Liar: Kenangan Aroma di Hutan
 
-Di jalan tua Neiwan di Xiangshan, kabupaten Hsinchu, ada sejenis bungkus yang istimewa yang sulit dilupakan—leupat bunga jahe liar. Rasa gunung-hutan ini, mengandung kebijaksanaan kuliner orang Hakka dalam hidup berdampingan dengan lingkungan alam.
+Di jalan tua Wulan, Xingyang, ada jenis ketupat yang sangat terkenang — madu jahe liar. Rasa hutan ini menggabungkan kebijaksanaan hidup kaum Kemasan yang hidup berdampingan dengan alam.
 
-Bunga jahe liar (asli dari India, setelah dibawa ke Taiwan menjadi liar), setiap musim panas ketika mekar, seluruh gunung tertutup keharumannya. Orang Hakka yang cerdas menemukan bahwa akar dan rimpang bunga jahe liar yang dikeringkan dan digiling menjadi bubuk, tidak hanya memiliki aroma unik, tetapi juga efek pengawet yang sangat baik. Dengan demikian, mereka menggabungkan bubuk bunga jahe liar dengan berbagai cabai gunung, jamur gunung lokal, lobak asin acar Hakka, daging babi hitam, dan beras ketan menjadi isi, kemudian membungkus dengan daun lebar bunga jahe liar menjadi bungkus, setelah dikukus menjadi hidangan gunung yang lezat.
+Madu jahe liar (asli dari India, setelah diintroduksi ke Taiwan, tersebar luas) mekar setiap tahun antara September dan Oktober[^7]。Dikatakan bahwa dulu karena akses ke Wulan terlalu sulit, penduduk setempat menggunakan madu jahe liar dari tepi sungai Luo sebagai bumbu. Kemudian mereka mengeringkan umbi akarnya, menggilingnya menjadi tepung, dan mencampurkannya dengan lada hutan, jamur hutan, daging babi hitam, sayur radish Kemasan yang diasinkan, dan nasi ketan, lalu mengukusnya menjadi nasi wangi, dan membungkusnya dengan daun madu jahe liar sebelum dikukus, inilah madu jahe liar[^6]。Pengusul promosi madu jahe liar di Wulan, Peng Ruiyun, justru mengganti rasa monosodium glutamate dengan tepung akar madu jahe liar: akar harus direndam dalam garam selama lima sampai enam minggu untuk menghilangkan rasa pedasnya, kemudian dikeringkan dan digiling[^7]。
 
-Proses pembuatan leupat bunga jahe liar mencerminkan filosofi lingkungan orang Hakka. Daun bunga jahe liar alami tidak beracun, menggunakannya sebagai bahan kemasan tidak hanya ramah lingkungan, tetapi juga menambah aroma alami pada bungkus. Selama proses pengukusan, keharuman khusus bunga jahe liar akan meresap ke beras ketan, membentuk lapisan rasa yang unik.
+Proses pembuatan madu jahe liar mencerminkan semangat ramah lingkungan kaum Kemasan. Daun madu jahe liar adalah bahan alami tanpa racun, digunakan sebagai pembungkus tidak hanya ramah lingkungan, tetapi juga bisa menambahkan aroma alami pada ketupat. Saat proses pembuatan, aroma khas madu jahe liar akan meresap ke dalam nasi ketan, menciptakan lapisan rasa yang unik.
 
-Keunikan hidangan ini terletak pada musiman dan lokalitasnya. Periode produksi bunga jahe liar terbatas, dan terutama tersebar di daerah pegunungan ketinggian menengah-rendah Taiwan, menjadikan leupat bunga jahe liar makanan langka yang hanya bisa dinikmati pada waktu tertentu dan tempat tertentu.
+Madu jahe liar hanya mekar di musim panas dan gugur, namun madu jahe liar tidak terbatas pada musim bunga. Pada tahun 2009, saat TVBS melakukan wawancara, di jalan tua Wulan sudah ada lebih dari sepuluh toko madu jahe liar, bahkan stan kecil di depan rumah Peng Ruiyun bisa menjual lebih dari seribu buah dalam sehari. Untuk memenuhi kebutuhan daun pembungkus, madu jahe liar yang sebelumnya hanya terlihat di musim bunga kini sangat diminati sepanjang tahun[^7]。
 
-### Tumis Hakka Kecil (客家小炒): Eksibisi Puncak Kebijaksanaan Rakyat
+### Makanan Kecil Kemasan: Manifestasi Kebijaksanaan Rakyat Biasa
 
-Tumis Hakka kecil adalah hidangan rumahan paling representatif dalam sistem masakan Hakka, dan juga hidangan yang paling dapat menunjukkan filosofi orang Hakka dalam "hemat dan tidak membuang". Inti hidangan ini adalah "apa pun bisa ditumis, tidak ada yang terbuang".
+Makanan kecil Kemasan termasuk dalam "empat tumis dan empat goreng" dari Kemasan. Empat tumis dan empat goreng awalnya dipasangkan dengan upacara musim, generasi tua Kemasan tidak bisa mendapatkannya setiap hari, hanya pada hari-hari besar nasional[^5]。
 
-Tumis Hakka kecil tradisional menggunakan daging babi berbentuk benang, tahu kering, seledri, kucai dan kecambah kacang sebagai bahan utama, tetapi sebenarnya tumis Hakka kecil tidak memiliki resep tetap. Di meja makan orang Hakka, sisa sayuran, sedikit daging, berbagai produk asin bisa menjadi bahan untuk tumis kecil. Cara memasak yang fleksibel ini mencerminkan kreativitas dan kebijaksanaan orang Hakka ketika menghadapi sumber daya yang terbatas.
+Asal-usulnya biasanya dikaitkan dengan pengibadanan. Tiga binatang suci yang disembah oleh kaum Kemasan biasanya adalah ayam yang sudah dikukus, daging babi, dan udang kering. Setelah selesai mengibadankan, para ibu-ibu akan memotong daging babi menjadi benang halus, merendam udang kering hingga lunak juga dipotong halus, ditambahkan dengan bawang daun yang ditanam di rumah dan kecap manis, kemudian ditumis dengan cepat, menjadi hidangan yang asin dan wangi yang menyeleruhkan nasi[^8]。Jadi, bahan utamanya adalah daging lemak dan udang kering, sementara tahu, seledri, bawang merah, dan cabai adalah pelengkap. Orang Kemasan di bagian utara menyebutnya "goreng daging" atau "goreng kecil", sering ditambahkan seledri. Orang Kemasan di bagian selatan menyebutnya "goreng udang kering", lebih sering menggunakan bawang merah[^8]。
 
-### Budaya Acar (醃製文化): Tukang Sihir Waktu
+### Budaya Pengawetan: Penyihir Waktu
 
-Teknik acar orang Hakka dapat dikerjakan dengan sempurna. Produk asin seperti fua, sayuran asin yang mengering, daging babi asin, lobak asin, tidak hanya memperpanjang masa simpan makanan, tetapi juga menciptakan rasa unik.
+Teknik pengawetan Kemasan benar-benar luar biasi. Akan diketahui bahwa sayuran, sayur asem yang diasinkan, daging babi asin, dan sayur radish yang diasinkan, tidak hanya memperpanjang masa simpan makanan, tetapi juga menciptakan rasa yang unik.
 
-**Fua (福菜)** adalah hasil fermentasi asin dari sawi hijau, memiliki rasa asam yang unik, dan merupakan bahan tak terpisahkan dari banyak hidangan Hakka[^5]. **Sayuran asin yang mengering (梅乾菜)** adalah hasil pengeringan dan pengasinan sawi hijau, dengan rasa asin dan harum yang gurih, dikombinasikan dengan daging babi adalah kombinasi klasik. **Daging babi asin (鹹豬肉)** adalah daging babi yang telah digarami dan diasinkan, dapat disimpan untuk waktu yang lebih lama, adalah sumber protein penting bagi orang Hakka.
+**Sayur asem** adalah hasil fermentasi dari sayuran yang diasinkan, memiliki rasa asam yang khas, adalah bahan yang tidak terpisahkan dari banyak makanan Kemasan. Dari satu jenis sayuran, tergantung pada tingkat pengeringan dan jumlah garam yang digunakan, bisa menjadi sayur asin, sayur asem (sayur asem), atau sayur kering (sayur asem kering)[^5]。**Sayur asem kering** adalah hasil dari pengeringan dan pengawetan sayuran, rasanya asin dan gurih, dan merupakan kombinasi klasik dengan daging babi yang dimasak. **Daging babi asin** adalah hasil dari pengawetan daging babi dengan garam dan pengeringan, bisa bertahan lama, merupakan sumber protein penting bagi kaum Kemasan.
 
-Pengembangan teknik acar ini erat kaitannya dengan lingkungan hidup orang Hakka. Dalam masyarakat pertanian, cara menyimpan makanan tanpa peralatan pendingin adalah keterampilan hidup yang penting. Teknik acar yang dikembangkan orang Hakka tidak hanya mengatasi masalah penyimpanan, tetapi juga menciptakan variasi rasa yang kaya.
+Pengembangan teknik pengawetan ini erat kaitatnya dengan lingkungan hidup kaum Kemasan. Dalam masyarakat pertanian, bagaimana cara menyimpan makanan tanpa perlengkapan pendingin adalah keterampilan penting untuk bertahan hidup. Teknik pengawetan yang dikembangkan oleh kaum Kemasan tidak hanya memecahkan masalah penyimpanan, tetapi juga menciptakan variasi rasa yang kaya.
 
-## Filosofi Kuliner
+## Filosofi Makanan
 
-Filosofi kuliner Hakka bukan sesuatu yang muncul dari kehampaan, tetapi merupakan produk langsung dari lingkungan hidup dan kerja migrasi.
+Filosofi makanan Kemasan bukanlah sesuatu yang muncul dari hampa, melainkan hasil langsung dari kehidupan migrasi dan lingkungan kerja.
 
-### Asin, Berlemak, Harum: Kode Rahasia Makanan Pekerja
+### Asin, Gurih, Wangi: Kode Rasa Pekerja
 
-Masakan Hakka terkenal dengan "asin, berlemak, harum", ciri rasa ini langsung berasal dari lingkungan kerja pertanian orang Hakka. Orang Hakka terutama terlibat dalam pekerjaan pertanian, memerlukan konsumsi energi besar, oleh karena itu diet cenderung ke arah rasa berat, kalori tinggi, untuk mengisi garam dan kalori yang hilang dalam jumlah besar selama pekerjaan.
+Makanan Kemasan terkenal dengan ciri khas "asin, gurih, wangi", yang berasal langsung dari lingkungan kerja pertanian kaum Kemasan. Kaum Kemasan kebanyakan bekerja di bidang pertanian, membutuhkan banyak energi fisik, sehingga cenderung ke makanan dengan rasa kuat dan kalori tinggi, untuk mengganti garam dan kalori yang hilang saat bekerja keras.
 
-"Asin" adalah untuk mengisi garam yang hilang selama pekerjaan; "berlemak" adalah untuk memberikan kalori tinggi; "harum" adalah melalui berbagai rempah-rempah dan penyedap rasa untuk merangsang selera, sehingga orang dapat mengonsumsi nutrisi yang cukup. Ciri diet ini mencerminkan sikap hidup praktis orang Hakka dan pemahaman akurat mereka tentang kebutuhan tubuh.
+"Asin" untuk mengganti garam yang hilang saat bekerja; "gurih" untuk menyediakan kalori tinggi; "wangi" melalui berbagai rempah dan bumbu untuk merangsang nafsu makan, sehingga bisa mengonsumsi cukup banyak gizi. Ciri khas makanan ini mencerminkan sikap hidup yang pragmatis dan pemahaman yang tepat tentang kebutuhan tubuh.
 
-### Menggunakan Bahan Lokal: Harmoni dengan Alam
+### Menggunakan Bahan Setempat: Hidup Berdampingan dengan Alam
 
-Sejarah migrasi orang Hakka menciptakan kemampuan adaptasi mereka yang kuat. Apakah menetap di pegunungan, dataran atau pantai, orang Hakka dapat memanfaatkan sumber daya makanan lokal sepenuhnya, mengembangkan hidangan dengan ciri khas lokal.
+Sejarah migrasi kaum Kemasan menciptakan kemampuan adaptasi yang kuat. Tidak peduli di perkampungan, datar, atau pesisir, kaum Kemasan bisa memanfaatkan sumber daya bahan makanan setempat dengan baik, mengembangkan makanan dengan ciri khas lokal.
 
-Di pegunungan, orang Hakka akan mengumpulkan sayuran liar, jamur, membuat hidangan sayuran gunung; di dataran, mereka akan memanfaatkan tanaman pertanian sepenuhnya, mengembangkan berbagai budaya makanan beras; di daerah pesisir, orang Hakka juga akan mengintegrasikan elemen makanan laut, menciptakan rasa yang berbeda.
+Di perkampungan, kaum Kemasan akan memetik sayuran liar, jamur, dan membuat hidangan sayur hutan; di datar, mereka akan memanfaatkan hasil pertanian dengan baik, mengembangkan berbagai budaya makanan beras; di pesisir, kaum Kemasan juga akan menggabungkan bahan laut, menciptakan rasa yang berbeda.
 
-### Kehematan dan Rasa Belas Kasih: Etika Kuliner Tanpa Pemborosan
+### Hemat dan Tidak Boros: Etika Makanan yang Tidak Membuang
 
-Karakter hemat orang Hakka juga mendalam mempengaruhi budaya kuliner mereka. Di meja makan orang Hakka, jarang ada pemborosan. Sisa makanan dapat disesuaikan ulang menjadi hidangan lain, tulang dapat dimasak menjadi sup, daun sayuran dapat dijadikan acar. Filosofi "tidak membuang" ini, baik itu pilihan praktis di bawah tekanan ekonomi, juga merupakan rasa hormat terhadap makanan dan sumber daya alam.
+Sifat hemat kaum Kemasan juga sangat memengaruhi budaya makanan mereka. Di meja kaum Kemasan, jarang terjadi pemborosan. Sisa makanan bisa diubah menjadi hidangan baru dengan bumbu tambahan, tulang bisa dibuat sup, daun sayuran bisa dibuat sayur asem. Konsep "memanfaatkan sepenuhnya" ini bukan hanya pilihan praktis akibat tekanan ekonomi, tetapi juga bentuk penghormatan terhadap makanan dan sumber daya alam.
 
-## Warisan Modern dan Inovasi
+## Warisan dan Inovasi di Era Modern
 
-Budaya kuliner Hakka di abad ke-21 menghadapi tantangan ganda dari putusnya transmisi tradisional dan transformasi pasar.
+Budaya makanan Kemasan dihadapi tantangan ganda pada abad ke-21: kesenjangan warisan dan transformasi pasar.
 
-### Dialog Tradisional dan Modern
+### Dialog antara Tradisional dan Modern
 
-Dalam masyarakat modern, budaya kuliner Hakka menghadapi tantangan warisan dan inovasi. Di satu sisi, generasi muda semakin kurang memahami masakan Hakka tradisional; di sisi lain, masakan Hakka juga mencari posisi baru di pasar makanan modern.
+Di masyarakat modern, budaya makanan Kemasan menghadapi tantangan warisan dan inovasi. Di satu sisi, generasi muda semakin kurang memahami makanan Kemasan tradisional; di sisi lain, makanan Kemasan juga sedang mencari posisinya baru di pasar kuliner modern.
 
-Banyak restoran Hakka mulai mencoba memodifikasi masakan Hakka tradisional, mengurangi kandungan minyak dan garam, meningkatkan presentasi piring, bahkan mengintegrasikan elemen dari sistem masakan lain. Perubahan ini meskipun memicu beberapa kontroversi, tetapi juga membuka jalur baru untuk penyebaran budaya kuliner Hakka.
+Banyak restoran Kemasan mulai mencoba memodifikasi makanan Kemasan tradisional dengan cara modern, mengurangi penggunaan minyak dan garam, meningkatkan presentasi visual, bahkan menggabungkan elemen dari makanan lain. Meskipun perubahan ini menimbulkan beberapa kontroversi, juga membuka jalan baru bagi penyebaran budaya makanan Kemasan.
 
-### Pedang Bermata Dua Budaya Wisata
+### Pilar Dualisme Budaya Pariwisata
 
-Pengalaman pariwisata budaya kuliner Hakka membawa peluang dan tantangan. Seperti teh leicha Beipu, leupat bunga jahe liar Neiwan, dan seterusnya, telah menjadi pengalaman wisata terkenal. Perkembangan ini di satu sisi meningkatkan ketenaran budaya Hakka, di sisi lain juga dapat menyebabkan komersial yang berlebihan, kehilangan makna budaya asli.
+Penggabungan budaya makanan Kemasan dengan pariwisata membawa kesempatan dan tantangan. Seperti teh di Pekan Hsinchu, madu jahe liar di Wulan, sudah menjadi pengalaman wisata yang terkenal. Pengembangan ini tidak hanya meningkatkan kesadaran akan budaya Kemasan, tetapi juga berpotensi menyebabkan komersialisasi berlebihan, kehilangan makna budaya aslinya. Pada tahun 2013, peneliti yang melakukan penelitian lapangan di Wulan mengamati bahwa pedagang di jalan tua cenderung condong ke arah keuntungan ekonomi, dan warisan yang dilestarikan tidak selalu berupa budaya Kemasan[^5]。
 
-Bagaimana menemukan keseimbangan antara pengembangan komersial dan konservasi budaya, adalah topik penting yang harus dihadapi oleh pengembangan budaya kuliner Hakka modern.
+Bagaimana menyeimbangkan antara pengembangan komersial dan pelestarian budaya adalah isu penting yang harus dihadapi oleh budaya makanan Kemasan di era modern.
 
 ## Makna dan Nilai Budaya
 
-Nilai budaya kuliner Hakka jauh melampaui makanan itu sendiri. Ini adalah pembawa kenangan sejarah orang Hakka, adalah simbol identitas budaya, juga adalah kristalisasi kebijaksanaan tradisional. Di era globalisasi, budaya kuliner unik ini tampak lebih berharga.
+Nilai budaya makanan Kemasan jauh melampaui sekadar makanan. Ini adalah pembawa kenangan sejarah kaum Kemasan, simbol identitas budaya, dan kristalisasi kebijaksanaan tradisional. Di era globalisasi, budaya makanan yang unik ini semakin berharga.
 
-Ciri "asin, harum, dan gurih" masakan Hakka mencerminkan karakter yang tangguh dari orang Hakka; budaya acar menampilkan kebijaksanaan hidup orang Hakka; budaya teh leicha menunjukkan tradisi sosial orang Hakka. Budaya kuliner ini tidak hanya memperkaya peta kuliner Taiwan, tetapi juga menambahkan warna penting pada budaya Taiwan yang beragam.
+Ciri khas "asin, gurih, wangi" dari makanan Kemasan mencerminkan sifat tegas kaum Kemasan; budaya pengawetan mencerminkan kebijaksanaan hidup kaum Kemasan; budaya teh mencerminkan tradisi sosial kaum Kemasan. Budaya makanan ini tidak hanya memperkaya raga kuliner Taiwan, tetapi juga menambahkan warna penting pada keanekaragaman budaya Taiwan.
 
-Melalui mencicipi makanan Hakka, kami tidak hanya dapat menikmati kepuasan rasa, tetapi juga dapat merasakan kedalaman budaya dan kebijaksanaan hidup dari satu kelompok. Ini adalah nilai paling berharga dari budaya kuliner Hakka.
+Dengan menikmati makanan Kemasan, kita tidak hanya dapat menikmati kepuasan rasa, tetapi juga merasakan kedalaman budaya dan kebijaksanaan hidup dari sebuah kelompok etnis. Inilah nilai terindah dari budaya makanan Kemasan.
 
 ---
 
 ## Bacaan Lanjutan
 
-- [Makanan Fermentasi Taiwan dan Budaya Acar](/food/台灣發酵食品與醃製文化): Ilmu pengetahuan dan budaya makanan fermentasi Taiwan
-- [Budaya Teh](/id/food/golden-age-echoes-taiwan-tea-culture): Perkembangan budaya teh Taiwan
-- [Makanan Kecil Taiwan](/id/food/taiwanese-street-food): Budaya makanan kecil Taiwan yang beragam
+- [Makanan Fermentasi dan Budaya Pengawetan di Taiwan](/id/food/taiwan-fermented-and-pickled-foods)：Ilmu dan budaya pengawetan makanan di Taiwan
+- [Budaya Teh](/id/food/golden-age-echoes-taiwan-tea-culture)：Alur evolusi budaya teh di Taiwan
+- [Makanan Kecil Taiwan](/id/food/taiwanese-street-food)：Budaya makanan kecil yang beragam di Taiwan
 
 ## Sumber Gambar
 
-- Hero: Pengalaman teh leicha Hakka di Desa Folktale Meinong, fotografi oleh WEI, WAN-CHEN, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E7%BE%8E%E6%BF%83%E6%B0%91%E4%BF%97%E6%9D%91%E5%AE%A2%E5%AE%B6%E6%93%82%E8%8C%B6%E9%AB%94%E9%A9%9780.jpg), CC BY-SA 4.0。
+- Hero：Pengalaman Teh Hakka di Kamp Budaya Minong, Foto oleh WEI, WAN-CHEN, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E7%BE%8E%E6%BF%83%E6%B0%91%E4%BF%97%E6%9D%91%E5%AE%A2%E5%AE%B6%E6%93%82%E8%8C%B6%E9%AB%94%E9%A9%9780.jpg), CC BY-SA 4.0。
 
 ## Referensi
 
-[^1]: 國家文化記憶庫，〈擂茶文化專題〉，https://tcmb.culture.tw/zh-tw/detail?id=334448
+[^1]: [Eksplorasi Awal Budaya Teh Hakka di Taiwan: Studi Kasus Pekan Hsinchu (Liu Yangyi, Laporan Elektronik Akademi Kemasan Zhongda, Edisi 251, 2016-04-15)](https://hakka.ncu.edu.tw/Hakka_ePaper/paper/paper251_v2/251%2814%29.html) — Teh Hakka diperkirakan dibawa oleh para imigran Kemasan dari wilayah Hai Po di Guangdong setelah perang, awalnya hanyalah kebiasaan minum di rumah tangga, setelah Pekan Hsinchu mempromosikan "ciri khas setiap desa", karena rasa asinnya tidak disukai oleh publik, dimodifikasi menjadi minuman manis yang sehat.
 
-[^2]: 維基百科，〈野薑花粽〉條目，https://zh.wikipedia.org/zh-tw/%E9%87%8E%E8%96%91%E8%8A%B1%E7%B2%BD
+[^2]: [Eksplorasi Elemen Kunci Industri Budaya: Studi Kasus Teh Pekan Hsinchu (Xu Zhixuan, Universitas Nasional Chiao Tung, 2019, Ringkasan Tesis/Skripsi Magister dari Komite Kemasan)](https://www.hakka.gov.tw/chhakka/app/data/view?module=thesis&id=80&serno=42331) — Pada Maret 1999, toko teh pertama yang menjual teh secara khusus dibuka di pasar tempat ibadah Pekan Hsinchu, mengemas makanan yang sebelumnya tersimpan di rumah menjadi industri budaya.
 
-[^3]: 客委會，《客家飲食文化調查研究》（2023），https://www.hakka.gov.tw/File/Attach/38788/File_72807.pdf
+[^3]: [Mengunjungi Pekan Hsinchu untuk Mencicipi Rasa Hakka (Peta Kuliner Pekan Hsinchu, Pusat Peluang Digital Kementerian Pendidikan)](https://itaiwan.moe.gov.tw/upfd/2017race/RC-170822-002176/39135223122127122484hakka21619.html) — Teh Hakka juga dikenal sebagai "sup tiga kehidupan", legenda mengatakan bahwa saat Dinasti Tiga Kerajaan, Zhang Fei memimpin pasukannya menyerang Wuling, menggunakan teh, jahe, dan beras yang dihancurkan untuk membuat bubur pengobatan untuk mengobati wabah.
 
-[^4]: 新竹縣政府文化局，〈愛食麼个——新竹地區客家飲食文化主題展〉，https://www.hchcc.gov.tw/
+[^4]: [Teh Hakka (Peta Kuliner Pekan Hsinchu, Pusat Peluang Digital Kementerian Pendidikan)](https://itaiwan.moe.gov.tw/upfd/2017race/RC-170822-002176/33590.html) — Teh Hakka adalah minuman sambutan tamu istimewa dari kaum Kemasan, setelah menggiling di dalam bejana tanah liat, dituangkan ke dalam air mendidih, ditambahkan biji teh, dan diminum. Teh Pekan Hsinchu mulai dikomersialkan karena didorong oleh industri budaya, dari toko pertama hingga sekitar enam puluh toko.
 
-[^5]: 農業部，《台灣醃製食品產業發展》（2025），https://www.moa.gov.tw/
+[^5]: [Kenangan Makanan Kemasan di Taiwan: Diskusi tentang Penempatan Bahan Makanan seperti Nasi, Babi, dan Sayuran (Lin Shuxing, Universitas Guru Norma Kaohsiung, 2013, Laporan Hasil Program Pengembangan Akademi Kemasan yang Didanai oleh Komite Kemasan)](https://www.hakka.gov.tw/File/Attach/38788/File_72807.pdf) — Empat tumis dan empat goreng awalnya dipasangkan dengan upacara musim, sayuran berubah menjadi sayur asin, proses fermentasi sayur asem dan sayur asem kering, serta catatan lapangan pada tahun 2013 tentang penjualan madu jahe liar dan es teh di jalan tua Wulan.
 
-[^6]: 客家委員會，〈客家文化重點發展區推動計畫〉，https://www.hakka.gov.tw/Content/Content?NodeID=63&PageID=38317
+[^6]: [Madu Jahe Liar (Wikipedia)](https://zh.wikipedia.org/zh-tw/%E9%87%8E%E8%96%91%E8%8A%B1%E7%B2%BD) — Penduduk Wulan menggunakan madu jahe liar dari tepi sungai Luo sebagai bumbu, mengeringkan umbi akarnya, menggilingnya menjadi tepung, dan mencampurkannya dengan lada hutan, jamur hutan, daging babi hitam, sayur radish Kemasan yang diasinkan, dan nasi ketan, lalu mengukusnya menjadi nasi wangi, dan membungkusnya dengan daun madu jahe liar.
+
+[^7]: [【Langkah demi Langkah】Madu Jahe Liar di Wulan, Jalan Tua Penuh dengan Peluang Usaha (TVBS News, 2009-05-24)](https://news.tvbs.com.tw/local/131493) — Peng Ruiyun mengganti rasa monosodium glutamate dengan tepung akar madu jahe liar yang telah direndam dalam garam, dikeringkan, dan digiling, mendorong lebih dari sepuluh toko madu jahe liar di jalan tua Wulan, madu jahe liar mekar antara September dan Oktober, daunnya sangat diminati sepanjang tahun.
+
+[^8]: [Makanan Kecil Kemasan (Jiao Tong, Today Weekly, 2009-05-07)](https://www.businesstoday.com.tw/article/category/80732/post/200905070027/) — Makanan kecil Kemasan berasal dari sisa pengibadanan tiga binatang suci (ayam, daging babi, udang kering), setelah selesai mengibadankan, langsung ditumis, bahan utamanya adalah daging lemak dan udang kering, bagian utara menyebutnya "goreng daging", bagian selatan menyebutnya "goreng udang kering".
 
 ---
 
-**Tim Editorial Taiwan.md** | Pembaruan Terakhir: 2026-03-19
+**Redaksi Taiwan.md** | Terakhir diperbarui: 2026-03-19

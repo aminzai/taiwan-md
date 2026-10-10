@@ -1,15 +1,15 @@
 ---
-title: 'Brigitte Lin'
-description: 'Ratu Film Chiong Yao yang Bertransformasi Menjadi Klasik Wushu, Bintang Legenda dalam Sinema Mandarin'
+title: 'Lin Qingxia'
+description: 'Dari ratu film Qiong-Ya ke legenda seni bela diri, bintang wanita ikonik di panggung film berbahasa Tionghoa'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Brigitte Lin',
-    'Aktris',
-    'Film Chiong Yao',
-    'Swordsman II',
-    'Sinema Mandarin',
+    'Lin Qingxia',
+    'aktris',
+    'film Qiong-Ya',
+    'Dongfang Bubai',
+    'film berbahasa Tionghoa',
   ]
 subcategory: '電影與戲劇'
 author: 'Taiwan.md'
@@ -17,142 +17,142 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'People/林青霞.md'
-sourceCommitSha: '7415dcaae'
-sourceContentHash: 'sha256:2b4a824289c241f9'
+sourceCommitSha: 'f40273072'
+sourceContentHash: 'sha256:d90dfbfec4a44a23'
 sourceBodyHash: 'sha256:12badc0094297f08'
-translatedAt: '2026-09-09T15:32:33+08:00'
+translatedAt: '2026-10-10T11:05:03+08:00'
 ---
 
-# Brigitte Lin: Dari Dewi Seni Rupa ke Legenda Wushu
+# Lin Qingxia: Dari Dewi Seni ke Legenda Seni Bela Diri
 
-Brigitte Lin merentang dua era film sastra Chiong Yao dan film wushu Tsui Hark, menjadi salah satu aktris paling representatif dalam sinema Mandarin. Sejak tahun 1970an dengan citra murni menjadi tokoh inti film Chiong Yao, pada akhir 1980an berhasil bertransformasi, menciptakan citra karakter yang subversif dalam "Swordsman II". Perjalanan karirnya menyaksikan era emas sinema Mandarin.
+Lin Qingxia menjangkau dua era—film seni khas Qiong-Ya dan film seni bela diri khas Xu Ke—dan merupakan salah satu aktris paling ikonik di panggung film berbahasa Tionghoa. Pada 1970-an, ia muncul dengan citra yang ceria dan menjadi tokoh sentral dalam film-film Qiong-Ya. Pada akhir 1980-an, ia berhasil beralih ke bidang baru dan menciptakan bayangan karakter yang menantang dalam film "Dongfang Bubai". Karier panjangnya menjadi saksi sejarah emas film berbahasa Tionghoa.
 
-## Gadis Kampung Militer Menjadi Bintang
+## Jalan Bintang dari Lingkungan Pengungsi
 
-Brigitte Lin lahir pada 3 November 1954 di Taipei, dengan asal-usul dari Shandong. Ayahnya Lin Wei-liang adalah seorang prajurit militer, ibunya Lo Hsiu-yun seorang ibu rumah tangga. Dibesarkan di lingkungan perumahan kampung militer, Brigitte Lin sejak kecil menunjukkan penampilan yang murni dan bermartabat serta kepribadian yang tenang.
+Lin Qingxia lahir pada 3 November 954 di Taipei, dengan akar keluarga di Shandong. Ayahnya, Lin Weiliang, adalah seorang tentara, sementara ibunya, Luo Xiuyun, adalah ibu rumah tangga. Tumbuh di lingkungan pengungsi, Lin Qingxia sejak kecil menampilkan kecantikan yang tampak berbeda dan kepriawan yang tenang.
 
-Di sekolah menengah, ia bersekolah di Jinling Girls' High School, Brigitte Lin adalah siswa berprestasi dengan minat mendalam terhadap sastra dan seni. Pada tahun 1972 di Ximending, ia direkrut oleh sutradara Sung Ts'un-shou untuk membintangi "Window" ("Chuang-wai"), ketika itu ia sedang mempersiapkan ujian masuk universitas dan sama sekali tidak siap untuk karir entertainment.[^1]
+Di SMA, Lin Qingxia adalah murid yang baik dalam pelajaran dan memiliki minat yang kuat dalam sastra dan seni. Pada 1972, ia ditemukan oleh sutradara Song Cunshou di Ximending, yang mengundangnya untuk membintangi film "Jiejie" ("Window Outside"). Saat itu, ia sedang mempersiapkan ujian masuk universitas dan belum memiliki pengalaman apa pun dalam dunia hiburan.
 
-Dengan dukungan ibunya, Brigitte Lin memutuskan untuk mencoba berperan dalam film. Film pertamanya "Window" (1973) diadaptasi dari novel Chiong Yao, berkolaborasi dengan Ch'in Han, menetapkan posisinya dalam film sastra.[^2]
+Dengan dukungan ibunya, Lin Qingxia memutuskan untuk mencoba berakting di film. Film pertamanya, "Jiejie" (1973), disesuaikan dari novel Qiong-Ya, dan ia berkolaborasi dengan Qin Han, yang membentuk dasar bagi posisinya dalam film seni.
 
-## Dewi Seni Rupa di Era Film Chiong Yao
+## Dewi Seni di Era Film Qiong-Ya
 
-Kesuksesan "Window" tahun 1972 membuka era film Chiong Yao Brigitte Lin. Dalam dekade berikutnya, ia membintangi berbagai karya Chiong Yao termasuk "Colorful Clouds" ("Ts'ai Yun Fei"), "A Thousand Knots in My Heart" ("Hsin Yu Ch'ien Ch'ien Chieh"), "Moon Indistinct, Bird Indistinct" ("Yueh Leng Lung Niao Leng Lung"), dan lainnya.
+Keberhasilan "Jiejie" pada 1972 membuka pintu bagi Lin Qingxia ke dalam era film Qiong-Ya. Selama satu dekade berikutnya, ia membintangi beberapa karya Qiong-Ya termasuk "Caiyun Fei", "Xin You Qian Qian Jie", dan "Yue Meng Meng Niao Meng Meng".
 
-Citra murni Brigitte Lin sempurna menafsirkan karakter wanita dalam karya Chiong Yao: suci hati, berbudi luhur, dan penuh melankoli. Kolaborasinya dengan Ch'in Han dan Ch'in Hsiang-lin membentuk pasangan layar klasik yang menjadi favorit di seluruh dunia Tionghoa.
+Citra kecantikan Lin Qingxia sempurna mewujudkan karakter wanita dalam karya Qiong-Ya: yang jujur, baik, dan puitis. Kolaborasinya dengan Qin Han dan Qin Xianglin menciptakan pasangan layar yang ikonik, yang populer di kalangan penutur Tionghoa di seluruh dunia.
 
-Selama periode ini, Brigitte Lin menjadi idola bagi tak terhitung banyaknya gadis muda, gayanya rambut dan pakaiannya menjadi tren. Film Chiong Yao juga mencapai pengaruh yang lebih besar dan kesuksesan komersial berkat penampilannya.
+Pada masa ini, Lin Qingxia menjadi idola bagi banyak gadis remaja, dan gaya rambut serta pakaiannya menjadi tren mode. Film-film Qiong-Ya juga mendapatkan pengaruh dan kesuksesan komersial yang lebih besar berkat kinerjanya.
 
-## Eksplorasi Beragam dalam Film Sastra
+## Eksplorasi Beragam dalam Film Seni
 
-Selain film Chiong Yao, Brigitte Lin juga mencoba jenis film sastra lainnya. Pada tahun 1979 berkolaborasi dengan sutradara Li Hsing dalam "A Drifter in the Ocean" ("Wang Yang Chung de I T'iao Ch'uan"), menampilkan akting yang lebih matang.
+Selain film Qiong-Ya, Lin Qingxia juga mencoba berbagai jenis film seni lainnya. Pada 1979, ia berkolaborasi dengan sutradara Li Xing dalam film "Yichuan zai Haiyang Zhong de Yitiao Chuan", yang menampilkan kemampuan akting yang lebih matang.
 
-"I Am a Cloud" ("Wo Shih I P'ien Yun") tahun 1981 adalah salah satu karya Chiong Yao perwakilan darinya, adegan bermain dengan Ch'in Han sangat menyentuh. Karya ini menampilkan kemampuan mendalam Brigitte Lin dalam akting emosional.
+Pada 1981, film "Wo Shi Yipian Yun" menjadi salah satu karya ikoniknya dalam film Qiong-Ya, dan aksi kontrasnya dengan Qin Han sangat menyentuh. Karya ini menampilkan kemampuan emosional yang mendalam dari Lin Qingxia.
 
-Pada awal 1980an, Brigitte Lin mulai merenungkan transformasi karir entertainment-nya. Ia menyadari bahwa citra tunggal sebagai dewi seni rupa mungkin membatasi ruang pengembangan dirinya, dan mulai mencari kesempatan untuk terobosan.
+Pada awal 1980-an, Lin Qingxia mulai merenungkan perubahan dalam karier aktingnya. Ia menyadari bahwa citra "dewi seni" yang tunggal mungkin akan membatasi ruang geraknya, dan mulai mencari kesempatan untuk berkembang.
 
-## Beralih ke Hong Kong dan Kolaborasi New Wave
+## Pindah ke Hong Kong dan Kolaborasi dengan Gerakan Seni Baru
 
-Pada pertengahan 1980an, Brigitte Lin beralih ke pasar film Hong Kong, keputusan ini sepenuhnya mengubah perjalanan karirnya. Lingkungan film Hong Kong yang beragam dan komersial memberikan dirinya ruang pengembangan yang lebih besar.
+Pada pertengahan 1980-an, Lin Qingxia memindahkan karier ke pasar film Hong Kong, keputusan yang sepenuhnya mengubah karier aktingnya. Lingkungan yang dinamis dan komersial di Hong Kong memberinya ruang yang lebih luas untuk berkembang.
 
-Ia membangun hubungan kolaborasi dengan sutradara Hong Kong New Wave, mencoba peran jenis yang berbeda. Pengalaman ini membuat akting-nya lebih matang, mempersiapkan dirinya untuk kemudian menerima film wushu Tsui Hark.
+Ia membangun hubungan kerja sama dengan para sutradara gerakan seni baru Hong Kong dan mencoba berbagai jenis karakter. Pengalaman ini membuat kemampuan aktingnya semakin matang dan mempersiapkannya untuk film seni bela diri khas Xu Ke.
 
-Selama periode beralih ke Hong Kong, Brigitte Lin mempertahankan pengembangan di Taiwan dan Hong Kong, menjadi salah satu dari sedikit megabintang yang dapat melampaui pasar kedua tempat. Kesuksesannya memberikan teladan bagi aktor Taiwan kemudian untuk merambah Hong Kong.
+Saat berada di Hong Kong, Lin Qingxia tetap mengembangkan karier di Taiwan dan Hong Kong, menjadi salah satu dari sedikit bintang yang berhasil menembani pasar keduanya. Keberhasilannya menjadi contoh bagi para aktris Taiwan yang ingin masuk ke Hong Kong.
 
-## Wushu Klasik: Pertunjukan Revolusioner dalam "Swordsman II"
+## Klasik Seni Bela Diri: Penampilan Revolusioner dalam "Dongfang Bubai"
 
-Pada tahun 1992, "Swordsman II: The Legend of Castanets" yang disutradarai oleh Tsui Hark menjadi karya puncak perjalanan karir Brigitte Lin. Dalam film ini ia memerankan Eastern Unbeatable, seorang master wushu yang tak terkalahkan, karakter yang sepenuhnya mengguncang persepsi penonton tentang dirinya.
+Pada 1992, "Xiaoxiang Jianghu II Dongfang Bubai" yang disutradarai oleh Xu Ke menjadi puncak karier Lin Qingxia. Ia memerankan Dongfang Bubai, tokoh yang memiliki kekuatan bela diri luar biasar, dan karakter ini menantang kesan yang telah terbentuk sebelumnya dari penonton.
 
-Eastern Unbeatable adalah karakter yang kompleks: sekaligus penguasa seni bela diri dan kekasih yang dalam; menggabungkan keberanian maskulin dengan kelembutan feminin. Pertunjukan Brigitte Lin berlapis-lapis, menafsirkan karakter penuh kontradiksi ini dengan sempurna.
+Dongfang Bubai adalah karakter yang kompleks: sekaligus pemimpin seni bela diri dan pasangan yang penuh kasih; memiliki kekuatan maskulin dan kecantikan feminin. Penampilan Lin Qingxia yang mendalam dan berlapis menyampaikan karakter kontradiktif ini dengan sempurna.
 
-Dialog klasik "Matahari Terbit dari Timur, Hanya Aku yang Tak Terkalahkan" menjadi terkenal, dan citra Brigitte Lin dengan jubah merah yang berkibar mendalam tertanam dalam ingatan penonton. Karakter ini bukan hanya puncak akting darinya, tetapi juga menjadi karakter ikonik dalam sejarah sinema Mandarin.
+Kalimat klasik "Matahari terbit di timur, hanya Dongfang Bubai yang tak pernah kalah" menjadi ikon, dan bayangan Lin Qingxia dalam pakaian merah yang melompat-lompat terukir dalam ingatan penonton. Karakter ini tidak hanya menjadi puncak kemampuan aktingnya, tetapi juga menjadi karakter klasik dalam sejarah film berbahasa Tionghao.
 
-## Kolaborasi Kreatif dengan Tsui Hark
+## Kolaborasi Kreatif dengan Xu Ke
 
-Kolaborasi Brigitte Lin dengan sutradara Tsui Hark adalah titik balik penting dalam perjalanan karir dirinya. Tsui Hark mahir menggali potensi aktor, ia melihat kualitas wushu dan kemungkinan pertunjukan pada diri Brigitte Lin.
+Kolaborasi Lin Qingxia dengan sutradara Xu Ke menjadi momok karier penting baginya. Xu Ke ahli menemukan potensi para aktris, dan ia melihat sisi seni bela diri dan kemungkinan penampilan Lin Qingxia.
 
-Selain "Swordsman II", keduanya juga berkolaborasi dalam karya lain seperti "Dragon Inn". Bimbingan kreatif Tsui Hark membuat Brigitte Lin menemukan dimensi baru dirinya, berhasil menyelesaikan transformasi dari dewi seni rupa menjadi bintang wushu.
+Selain "Dongfang Bubai", mereka juga berkolaborasi dalam film "Longmen Yuyin Xinjuan" dan lain-lain. Bimbingan kreatif Xu Ke membantu Lin Qingxia menemukan sisi baru dari dirinya, berhasil menyelesaikan transformasi dari dewi seni ke legenda seni bela diri.
 
-Karya-karya kolaborasi ini mencapai kesuksesan baik di box office maupun ulasan kritis, membuktikan kebenaran transformasi Brigitte Lin. Ia tidak lagi hanya perwakilan film Chiong Yao, tetapi benar-benar bintang akting berbakat.
+Karya sama ini sukses baik secara komersial maupun kritikus, membuktikan bahwa transformasi Lin Qingxia adalah keputusan yang tepat. Ia tidak lagi hanya menjadi simbol film Qiong-Ya, tetapi benar-benar menjadi bintang aktris yang andal.
 
-## Ekspresi Beragam pada Tahun 1990an
+## Pertunjukan Beragam pada 1990-an
 
-Tahun 1990an adalah periode paling aktif Brigitte Lin, ia mencoba berbagai jenis karakter yang berbeda. Dari film wushu kostum hingga film narasi kontemporer, semuanya menampilkan pertunjukan luar biasa.
+Pada 1990-an, Lin Qingxia berada pada masa-masa paling produktifnya, mencoba berbagai jenis karakter yang berbeda. Dari seni bela diri klasik hingga drama modern, setiap penampilan penuh dengan keajaiban.
 
-Dalam "Dragon Inn" ia memerankan Jade Qin, dalam "Chungking Express" ia adalah pembunuh berambut pirang, dalam "Ashes of Time" ia adalah Murong Yen, setiap karakter memiliki pesona uniknya. Brigitte Lin menampilkan jangkauan akting yang menakjubkan.
+Karakter Jinxuanyu dalam "Longmen Yuyin Xinjuan", pembunuh wanita berambut pirang dalam "Chongqing Senlin", dan Murong Yan dalam "Dongxie Xidi", setiap karakter memiliki daya tariknya sendiri. Lin Qingxia menampilkan rentang kemampuan akting yang luar biasar.
 
-Kolaborasi dengan sutradara Wong Kar-wai dalam "Chungking Express" dan "Ashes of Time" membuat Brigitte Lin terhubung dengan sinema seni film, membuktikan bahwa ia tidak hanya mampu dalam film komersial tetapi juga karya dengan nilai artistik lebih tinggi.
+Film-film Wang Shaojie seperti "Chongqing Senlin" dan "Dongxie Xidi" membawa Lin Qingxia ke dalam dunia film seni, membuktikan bahwa ia tidak hanya mampu membintangi film komersial, tetapi juga bisa menguasai karya dengan nilai seni yang lebih tinggi.
 
-## Pensiun dan Fase Baru Kehidupan
+## Pensiapan dan Bab Baru dalam Kehidupan
 
-Pada tahun 1994, Brigitte Lin mengumumkan pensiun dari dunia hiburan, memilih untuk fokus pada kehidupan keluarga. Keputusan ini membuat banyak penggemar berasa menyesal, tetapi juga menghormati pilihannya terhadap kehidupan.
+Pada 1994, Lin Qingxia mengumumkan pensiun dari dunia akting, memilih untuk fokus pada kehidupan keluarga. Keputusan ini membuat banyak penggemar merasa sedih, tetapi juga memahami pilihan hidupnya.
 
-Setelah pensiun, Brigitte Lin menikah dengan pengusaha Hong Kong Henry Yin Li-yuan, memiliki dua anak perempuan. Ia mengalihkan fokus hidup ke keluarga, jarang tampil di publik, yang semakin menambah kesan misterius dirinya.
+Setelah pensiun, Lin Qingxia menikah dengan pedagang konglomerat Xing Li Yuan, dan memiliki dua anak perempuan. Ia mengalihkan fokus hidupnya ke keluarga dan jarang muncul di publik, menambah misteri di sekitarnya.
 
-Meskipun pensiun, pengaruh Brigitte Lin tidak berkurang. Karya-karya klasiknya terus diputar ulang di televisi, generasi penonton baru juga mengenal pesonanya melalui film-film ini.
+Meskipun pensiun, pengaruh Lin Qingxia tidak pernah merosot. Karya-karya klasiknya terus disiarkan di televisi, dan generasi muda juga mengenalnya melalui karya-karya tersebut.
 
-## Pencobaan Baru dalam Kreativitas Tulisan
+## Eksplorasi Baru dalam Penulisan
 
-Setelah pensiun, Brigitte Lin mulai mencoba kreativitas tulisan, menerbitkan kumpulan esai seperti "Windows Inside and Outside" ("Chuang-li Chuang-wai"). Ia merekam insight dan pengalaman hidup dengan tulisan yang halus.
+Setelah pensiun, Lin Qingxia mulai mencoba menulis, menerbitkan kumpulan esai "Chuangli Chuangwai" dan lain-lain. Ia mencatat refleksi hidup dan pengalaman hidupnya dengan gaya penulisan yang halus.
 
-Karya tulisan Brigitte Lin mendapat pengakuan dari komunitas literatur, membuktikan bahwa ia bukan hanya aktor luar biasa tetapi juga penulis berbakat. Jenis bakat majemuk ini membuat orang semakin menghormatinya.
+Karya penulisan Lin Qingxia mendapat pengakuan dari dunia sastra, membuktikan bahwa ia bukan hanya aktris yang hebat, tetapi juga penulis yang berbakat. Bakat yang beragam ini membuat orang menghormatinya lebih dari sebelumnya.
 
-Ia juga berbagi pengalaman karir entertainment dan pemikiran hidup melalui tulisan, memungkinkan penggemar memahami dunia batin dirinya lebih dalam. Karya-karya ini menjadi dokumen sejarah film yang berharga.
+Ia juga berbagi pengalaman akting dan pemikiran hidupnya melalui tulisan, memberi penggemar pemahaman yang lebih dalam tentang dunia batinnya. Karya-karya ini menjadi dokumen berharga dalam sejarah film.
 
-## Makna Khusus dari Penampilan Sesekali
+## Pengembalian yang Jarang dan Makna Khusus
 
-Meskipun resmi pensiun, Brigitte Lin sesekali tampil untuk proyek spesial. Pada tahun 2013 ia membuat guest appearance dalam "101 Proposals", menciptakan kehebohan luar biasa di kalangan penggemar.
+Meskipun secara resmi pensiun, Lin Qingxia kadang-kadang muncul untuk proyek khusus. Pada 2013, ia tampil cameo dalam film "101 Kali Minta Tangannya", yang mendapat perhatian hangat dari penggemar.
 
-Setiap penampilan comeback ini menjadi pusat perhatian, meskipun peran tidak banyak. Daya tarik dan pengaruh Brigitte Lin sangat jelas terlihat.
+Meskipun tak banyak, setiap kali ia muncul, ia selalu menjadi sorotan. Daya tarik dan pengaruh Lin Qingxia bisa dilihat jelas.
 
-Ia juga berpartisipasi dalam berbagai acara festival film dan upacara penghargaan, setiap kali tampil selalu menciptakan sensasi. Sedimentasi waktu membuat dirinya semakin anggun dan menawan.
+Ia juga berpartisipasi dalam berbagai acara festival film dan penghargaan, dan setiap kali muncul, ia selalu menimbulkan sorotan. Usia yang telah menjadi bijak membuatnya semakin anggun dan memukau.
 
-## Pengaruh yang Melampaui Era
+## Pengaruh yang Melintasi Zaman
 
-Pengaruh Brigitte Lin melampaui ranah film semata. Dari citra murni era Chiong Yao hingga era pahlawan wusista, perjalanan akting dirinya mencerminkan perubahan sinema Mandarin dalam tiga puluh tahun.
+Pengaruh Lin Qingxia melampaui batas film. Dari citra kecantikan yang ceria pada era Qiong-Ya hingga kepada pahlawan seni bela diri, karier aktingnya mencerminkan tiga puluh tahun perubahan dalam film berbahasa Tionghao.
 
-Keindahan dan disposisi dirinya sangat dipuji, tak terhitung pengguna yang disamakan dengan dirinya. "Kecantikan Brigitte Lin" menjadi standar perbandingan yang sering digunakan industri.
+Kecantikan dan keanggunannya sangat dihargai, dan banyak aktris muda yang dibandingkan dengannya. "Kecantikan ala Lin Qingxia" menjadi standar perbandingan umum di industri.
 
-Sutradara generasi baru seperti Wong Kar-wai sangat menghormati Brigitte Lin, karya-karyanya menjadi objek penelitian kritikus film dan sarjana sinema.
+Para sutradara muda seperti Wang Shaojie sangat menghormati Lin Qingxia, dan karyanya menjadi objek studi bagi kritikus film dan ahli film.
 
-## Inspirasi bagi Para Aktor Perempuan
+## Inspirasi bagi Aktris Wanita
 
-Keberhasilan transformasi Brigitte Lin memberikan inspirasi penting bagi para aktris perempuan. Ia membuktikan bahwa bintang wanita tidak harus terbatas pada citra tunggal, dapat mencoba jenis peran berbeda di berbagai tahap.
+Keberhasilan transformasi Lin Qingxia memberi inspirasi penting bagi para aktris wanita. Ia membuktikan bahwa seorang bintang tidak perlu terbatas pada satu citra saja, dan bisa mencoba berbagai jenis karakter pada setiap tahap karier.
 
-Komitmen dirinya terhadap karakter dan sikap profesional juga menjadi teladan bagi generasi junior. Brigitte Lin menunjukkan semangat kerja dan pencarian artistik yang seharusnya dimiliki aktor.
+Komitan dan profesionalisme dalam setiap perannya juga menjadi contoh bagi para aktris muda. Lin Qingxia menampilkan semangat kerja keras dan pencarian seni yang sesuai dengan standar aktris.
 
-Banyak aktris kontemporer menyatakan bahwa mereka terinspirasi dan terpengaruh oleh Brigitte Lin, ia menetapkan tolok ukur penting bagi para aktor perempuan sinema Mandarin.
+Banyak aktris kontemporer menyatakan bahwa mereka terpengaruh dan terinspirasi oleh Lin Qingxia, dan ia menjadi patokan penting bagi para aktris wanita di panggung film berbahasa Tionghao.
 
-## Posisi dalam Sejarah Sinema Mandarin
+## Status dalam Sejarah Film Berbahasa Tionghao
 
-Brigitte Lin dihormati sebagai salah satu aktor perempuan paling penting dalam sejarah sinema Mandarin. Karya-karyanya mencakup film sastra, film wushu, dan film seni, menampilkan jangkauan akting yang menakjubkan.
+Lin Qingxia sering disebut sebag sebagai salah satu aktris paling penting dalam sejarah film berbahasa Tionghao. Karyanya melintasi berbagai genre termasuk film seni, seni bela diri, dan film seni, menampilkan rentang kemampuan akting yang luar biasar.
 
-Ia berkolaborasi dengan sutradara penting berbagai era, meninggalkan banyak karya klasik. Karya-karya ini tidak hanya berhasil secara komersial tetapi juga memiliki nilai artistik penting.
+Ia berkolaborasi dengan para sutradara penting dari berbagai era, meninggalkan banyak karya klasik. Karya-karya ini tidak hanya sukses secara komersial, tetapi juga memiliki nilai seni yang penting.
 
-Para peneliti sejarah sinema berpendapat bahwa perjalanan akting Brigitte Lin mencerminkan evolusi sinema Mandarin, ia adalah saksi dan peserta penting dalam era keemasan sinema Mandarin.
+Para ahli sejarah film berpendapat bahwa karier akting Lin Qingxia mencerminkan perkembangan film berbahasa Tionghao, dan ia adalah saksi sekaligus peserta penting dalam era emas film berbahasa Tionghao.
 
-## Posisi Klasik yang Abadi
+## Status Klasik yang Abadi
 
-Meskipun sudah bertahun-tahun pensiun, posisi Brigitte Lin dalam hati penggemar tetap tinggi. Gambar-gambar klasik dirinya dan pertunjukan cemerlang menjadi warisan berharga sinema Mandarin.
+Meskipun sudah lama pensiun, status Lin Qingxia di hati penggemar tetap tinggi. Bayangan klasik dan penampilan yang luar biasar menjadi warisan berharga dalam film berbahasa Tionghao.
 
-Generasi muda mengenal pesonanya melalui menonton kembali karya-karya klasik, menunjukkan bahwa aktor berbakat dapat melampaui batas waktu. Brigitte Lin adalah simbol budaya sinema Mandarin, menginspirasi setiap generasi pembuat film.
+Generasi muda mengenalnya melalui menonton ulang karya-karya klasiknya, membuktikan bahwa seorang pelakon yang hebat bisa melintasi zaman. Lin Qingxia adalah simbol budaya di panggung film berbahasa Tionghao, menginspirasi setiap generasi berikutnya.
 
-## Bacaan Lanjut
+## Bacaan Lanjutan
 
-- [San Mao (三毛)](/id/people/san-mao): Penulis skenario "Stormy Romance", membantu Brigitte Lin memenangkan Best Actress di Golden Horse Awards
+- [San Mao](/id/people/san-mao)：Penulis skenario "Lompat di Atas Awan Merah", orang yang memberi Lin Qingxia penghargaan Film Golden Horse
 
-## Sumber Referensi
+## Referensi
 
-- [Brigitte Lin — Taiwan Cinema Portal](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12467) — Daftar karya aktor
-- [Hong Kong Film Archive](https://www.filmarchive.gov.hk/zh_TW/web/hkfa/home.html) — Data karya periode Hong Kong
-- [Swordsman II — Hong Kong Film Awards Association](https://www.hkfaa.com/) — Evaluasi karya klasik
+- [Lin Qingxia — Taiwan Film Network](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12467) — Daftar karya akting
+- [Hong Kong Film Archive](https://www.filmarchive.gov.hk/zh_TW/web/hkfa/home.html) — Data karya masa Hong Kong
+- [Dongfang Bubai — Hong Kong Film Award Association](https://www.hkfaa.com/) — Penilaian karya klasik
 
-[^1]: Wikipedia entry "林青霞": Sung Ts'un-shou sebagai sutradara, mengundang dirinya untuk membintangi "Window" (1973). https://zh.wikipedia.org/wiki/林青霞
+[^1]: Wikipedia "Lin Qingxia": Sutradara Song Cunshou mengundangnya untuk membintangi "Jiejie" (1973).https://zh.wikipedia.org/wiki/林青霞
 
-[^2]: "Window" (1973) disutradarai oleh Sung Ts'un-shou, Brigitte Lin tampil untuk pertama kalinya, diadaptasi dari novel Chiong Yao dengan nama yang sama. Data karya Taiwan Cinema Portal: https://taiwancinema.bamid.gov.tw/
+[^2]: "Jiejie" (1973) disutradarai oleh Song Cunshou, Lin Qingxia membintangi pertamanya, disesuaikan dari novel Qiong-Ya yang sama. Data film Taiwan:https://taiwancinema.bamid.gov.tw/
 
-[^3]: Brigitte Lin menikah dengan pengusaha Hong Kong Henry Yin Li-yuan pada 29 Juni 1994 dan kemudian mundur dari dunia entertainment, laporan terkait dapat dilihat di Wikipedia entry "林青霞" <https://zh.wikipedia.org/wiki/%E6%9E%97%E9%9D%92%E9%9C%9E>
+[^3]: Lin Qingxia menikah dengan pedagang Hong Kong Xing Li Yuan pada 29 Juni 1994, lalu pensiun dari dunia akting, laporan terkait tersedia di Wikipedia "Lin Qingxia" <https://zh.wikipedia.org/wiki/%E6%9E%97%E9%9D%92%E9%9C%9E>
 
-[^4]: "Swordsman II: The Legend of Castanets" (1992), disutradarai oleh Tsui Hark, Brigitte Lin memerankan Eastern Unbeatable, diarshipkan oleh Hong Kong Film Archive. https://www.filmarchive.gov.hk/
+[^4]: "Xiaoxiang Jianghu II Dongfang Bubai" (1992), sutradara Xu Ke, Lin Qingxia memerankan Dongfang Bubai, arsip Hong Kong Film Archive.https://www.filmarchive.gov.hk/
 
-[^5]: Karya pena Brigitte Lin "Windows Inside and Outside", dipublikasikan oleh Cosmos Books, tahun 2011. Buku ini adalah kumpulan esai utama darinya, mendapat penilaian positif dari komunitas literatur. <https://www.books.com.tw/products/0010512315>
+[^5]: Lin Qingxia menulis "Chuangli Chuangwai", Tian Di Books, 2011. Buku ini adalah koleksi esainya yang utama, mendapat penilaian positif dari dunia sastra.<https://www.books.com.tw/products/0010512315>
