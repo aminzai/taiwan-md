@@ -14,6 +14,7 @@ curation: 'incubating'
 translatedFrom: 'People/蔡同榮.md'
 sourceCommitSha: '242950a64'
 sourceContentHash: 'sha256:20335af1b3ee078c'
+sourceBodyHash: 'sha256:d10467cfa27626e7'
 translatedAt: '2026-09-12T16:34:17.314329+00:00'
 ---
 

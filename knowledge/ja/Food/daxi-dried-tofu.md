@@ -19,6 +19,7 @@ rationale:
 translatedFrom: 'Food/大溪豆乾.md'
 sourceCommitSha: '56b89c791'
 sourceContentHash: 'sha256:a88f68e2ed7330a9'
+sourceBodyHash: 'sha256:f3daf5d832d676fb'
 translatedAt: '2026-09-12T02:37:42.257185+00:00'
 ---
 

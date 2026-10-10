@@ -23,6 +23,7 @@ rationale:
 translatedFrom: 'History/台中州廳.md'
 sourceCommitSha: '39cb84dab'
 sourceContentHash: 'sha256:07b585b9d90de3d1'
+sourceBodyHash: 'sha256:2beca8976bf8f3ea'
 translatedAt: '2026-09-11T06:07:30.335589+00:00'
 ---
 

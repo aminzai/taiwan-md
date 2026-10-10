@@ -13,6 +13,7 @@ curation: 'incubating'
 translatedFrom: 'Food/燒臘便當.md'
 sourceCommitSha: 'f89314e27'
 sourceContentHash: 'sha256:883e6019ba168229'
+sourceBodyHash: 'sha256:3b14e4290a67452c'
 translatedAt: '2026-09-13T22:15:54.439579+00:00'
 ---
 

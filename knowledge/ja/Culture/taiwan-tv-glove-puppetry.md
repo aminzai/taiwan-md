@@ -14,6 +14,7 @@ readingTime: 10
 translatedFrom: 'Culture/電視布袋戲.md'
 sourceCommitSha: '55d991e82'
 sourceContentHash: 'sha256:884f32ff15212c52'
+sourceBodyHash: 'sha256:efe2be1b9ec46e77'
 translatedAt: '2026-09-13T11:19:07.490573+00:00'
 ---
 

@@ -24,6 +24,7 @@ readingTime: 12
 translatedFrom: 'Economy/博客來.md'
 sourceCommitSha: '5e15a7d9d'
 sourceContentHash: 'sha256:5bead514abf0635b'
+sourceBodyHash: 'sha256:70cf0c01c1c3b9f1'
 translatedAt: '2026-08-10T02:07:09.674130+00:00'
 ---
 

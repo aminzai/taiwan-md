@@ -14,6 +14,7 @@ readingTime: 8
 translatedFrom: 'History/圓山大飯店.md'
 sourceCommitSha: '322a566a3'
 sourceContentHash: 'sha256:f62085d85cb8059c'
+sourceBodyHash: 'sha256:eba4f32a0cfd42a7'
 translatedAt: '2026-09-13T10:39:01.742905+00:00'
 ---
 

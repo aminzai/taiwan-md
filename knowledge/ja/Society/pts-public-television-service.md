@@ -21,6 +21,7 @@ readingTime: 16
 translatedFrom: 'Society/公視.md'
 sourceCommitSha: '6b09bda3b'
 sourceContentHash: 'sha256:672f8b4df1c422b7'
+sourceBodyHash: 'sha256:ff708086fed4d9aa'
 translatedAt: '2026-09-26T11:45:53+08:00'
 image: '/article-images/society/pts-building-b-2024.webp'
 imageCredit: 'Yu tptw / Wikimedia Commons'

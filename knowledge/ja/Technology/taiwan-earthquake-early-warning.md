@@ -14,6 +14,7 @@ readingTime: 10
 translatedFrom: 'Technology/地震預警系統.md'
 sourceCommitSha: '53d3624d7'
 sourceContentHash: 'sha256:7fe905eb6c043cad'
+sourceBodyHash: 'sha256:326a1e569da021aa'
 translatedAt: '2026-09-12T09:48:30.517160+00:00'
 ---
 

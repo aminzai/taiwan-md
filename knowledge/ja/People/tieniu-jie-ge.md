@@ -30,6 +30,7 @@ curation: 'incubating'
 translatedFrom: 'People/鐵牛杰哥.md'
 sourceCommitSha: 'a7bf511aa'
 sourceContentHash: 'sha256:bba68bce0e0d399e'
+sourceBodyHash: 'sha256:6c22ac71a15a46ba'
 translatedAt: '2026-09-13T11:31:37.501412+00:00'
 ---
 

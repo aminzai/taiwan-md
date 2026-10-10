@@ -15,6 +15,7 @@ curation: 'incubating'
 translatedFrom: 'Lifestyle/全民健保.md'
 sourceCommitSha: '998b8bdb1'
 sourceContentHash: 'sha256:68c1aee34edc608c'
+sourceBodyHash: 'sha256:398cb3fbf9ae9f6e'
 translatedAt: '2026-09-13T22:52:12.373525+00:00'
 ---
 

@@ -22,6 +22,7 @@ curation: 'incubating'
 translatedFrom: 'Technology/Threads在台灣.md'
 sourceCommitSha: '9094012f4'
 sourceContentHash: 'sha256:bbdb130f551a69e8'
+sourceBodyHash: 'sha256:8487cbc11ae4a897'
 translatedAt: '2026-09-25T07:12:32.737131+00:00'
 ---
 

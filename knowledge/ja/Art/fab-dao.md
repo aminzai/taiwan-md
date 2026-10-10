@@ -23,6 +23,7 @@ curation: 'incubating'
 translatedFrom: 'Art/FAB DAO與百岳計畫.md'
 sourceCommitSha: '9094012f4'
 sourceContentHash: 'sha256:c241c1c3a25d07fa'
+sourceBodyHash: 'sha256:7b9ca7167bf3d12a'
 translatedAt: '2026-09-09T14:04:54.603291+00:00'
 ---
 

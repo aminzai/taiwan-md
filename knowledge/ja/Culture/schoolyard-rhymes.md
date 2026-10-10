@@ -26,6 +26,7 @@ curation: 'incubating'
 translatedFrom: 'Culture/校園順口溜.md'
 sourceCommitSha: '69b3afd9'
 sourceContentHash: 'sha256:e5fd53530b9e999c'
+sourceBodyHash: 'sha256:201c8b949857fdd7'
 translatedAt: '2026-08-20T10:42:05+08:00'
 ---
 

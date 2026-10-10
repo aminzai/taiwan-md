@@ -16,6 +16,7 @@ curation: 'incubating'
 translatedFrom: 'Food/烏魚子.md'
 sourceCommitSha: 'f89314e27'
 sourceContentHash: 'sha256:3b8cb7283b73d061'
+sourceBodyHash: 'sha256:2b263b9afd2d2815'
 translatedAt: '2026-09-10T23:10:45.188173+00:00'
 ---
 

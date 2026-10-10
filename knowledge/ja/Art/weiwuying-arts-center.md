@@ -14,6 +14,7 @@ readingTime: 8
 translatedFrom: 'Art/衛武營.md'
 sourceCommitSha: '7fddc5077'
 sourceContentHash: 'sha256:93a75957904c33cd'
+sourceBodyHash: 'sha256:55b6ef5e6d0d8a5c'
 translatedAt: '2026-09-12T22:07:51.303434+00:00'
 ---
 

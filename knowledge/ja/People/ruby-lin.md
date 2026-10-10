@@ -19,6 +19,7 @@ curation: 'incubating'
 translatedFrom: 'People/林心如.md'
 sourceCommitSha: '13c7fbcdb'
 sourceContentHash: 'sha256:57b0bfdd960a74ba'
+sourceBodyHash: 'sha256:74473841bc53291c'
 translatedAt: '2026-09-13T23:15:05.399088+00:00'
 ---
 

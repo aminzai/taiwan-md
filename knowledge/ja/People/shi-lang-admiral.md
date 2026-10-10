@@ -14,6 +14,7 @@ curation: 'incubating'
 translatedFrom: 'People/施琅.md'
 sourceCommitSha: '6bca1263d'
 sourceContentHash: 'sha256:ffd752882b17c3c2'
+sourceBodyHash: 'sha256:5116f6aabd263b48'
 translatedAt: '2026-09-12T23:03:10.124423+00:00'
 ---
 

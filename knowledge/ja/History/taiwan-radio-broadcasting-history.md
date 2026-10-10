@@ -18,6 +18,7 @@ rationale:
 translatedFrom: 'History/台灣廣播史.md'
 sourceCommitSha: '174a83b65'
 sourceContentHash: 'sha256:0b3f5400cfd756f2'
+sourceBodyHash: 'sha256:9b5ab13cba09c99e'
 translatedAt: '2026-09-10T08:49:59.325490+00:00'
 ---
 

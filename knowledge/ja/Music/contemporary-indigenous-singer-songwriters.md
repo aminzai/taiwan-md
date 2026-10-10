@@ -15,6 +15,7 @@ relatedDiary: ['2026-09-07-164559-audit-upgrade']
 translatedFrom: 'Music/當代原住民創作歌手.md'
 sourceCommitSha: 'b67b190fb'
 sourceContentHash: 'sha256:a5f224da3d3ab399'
+sourceBodyHash: 'sha256:6ab99bf50b216a39'
 translatedAt: '2026-09-11T23:47:36.955209+00:00'
 ---
 

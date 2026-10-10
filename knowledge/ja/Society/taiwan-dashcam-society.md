@@ -23,6 +23,7 @@ curation: 'incubating'
 translatedFrom: 'Society/行車紀錄器.md'
 sourceCommitSha: 'dcc5bea37'
 sourceContentHash: 'sha256:4b8b01504ad6ae86'
+sourceBodyHash: 'sha256:6ca0540d354ad040'
 translatedAt: '2026-09-12T05:28:46.335053+00:00'
 ---
 

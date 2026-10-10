@@ -13,6 +13,7 @@ lastHumanReview: true
 translatedFrom: 'People/陳樹菊.md'
 sourceCommitSha: '2344309a0'
 sourceContentHash: 'sha256:f20a1f283b0b930c'
+sourceBodyHash: 'sha256:0e9eced4546d8cba'
 translatedAt: '2026-09-10T02:07:16.668766+00:00'
 ---
 

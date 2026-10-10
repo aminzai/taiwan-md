@@ -22,6 +22,7 @@ curation: 'incubating'
 translatedFrom: 'Nature/台灣鳥類窗殺議題.md'
 sourceCommitSha: '9094012f4'
 sourceContentHash: 'sha256:a3e2eb555edc840c'
+sourceBodyHash: 'sha256:e55bf8d3c335463a'
 translatedAt: '2026-09-10T14:23:39.069880+00:00'
 ---
 

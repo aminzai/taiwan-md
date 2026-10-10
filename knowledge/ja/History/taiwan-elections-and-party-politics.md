@@ -19,6 +19,7 @@ updateLog:
 translatedFrom: 'History/台灣選舉與政黨政治.md'
 sourceCommitSha: '9cef725ce'
 sourceContentHash: 'sha256:e16b55988a799eab'
+sourceBodyHash: 'sha256:cf2cbcf164430410'
 translatedAt: '2026-09-22T17:20:02.344792+00:00'
 ---
 

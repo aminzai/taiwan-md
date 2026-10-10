@@ -19,6 +19,7 @@ curation: 'incubating'
 translatedFrom: 'People/Ceylan.md'
 sourceCommitSha: '6cb632bab'
 sourceContentHash: 'sha256:f1296fe6fee14759'
+sourceBodyHash: 'sha256:750dbd2ead7f4c90'
 translatedAt: '2026-09-12T07:07:42.917514+00:00'
 ---
 

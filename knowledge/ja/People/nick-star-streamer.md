@@ -25,6 +25,7 @@ readingTime: 8
 translatedFrom: 'People/尼克星.md'
 sourceCommitSha: 'b9ebab71d'
 sourceContentHash: 'sha256:35a900e3d6bcf999'
+sourceBodyHash: 'sha256:ac25e74e87295655'
 translatedAt: '2026-09-11T21:51:27.672208+00:00'
 ---
 

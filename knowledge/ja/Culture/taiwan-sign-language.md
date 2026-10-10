@@ -14,6 +14,7 @@ curation: 'incubating'
 translatedFrom: 'Culture/台灣手語.md'
 sourceCommitSha: '88c8f03b3'
 sourceContentHash: 'sha256:9e62fc9bd2bec4e1'
+sourceBodyHash: 'sha256:4eaa3ae985aa0bf5'
 translatedAt: '2026-09-12T16:01:29.424956+00:00'
 ---
 

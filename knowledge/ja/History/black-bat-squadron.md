@@ -14,6 +14,7 @@ curation: incubating
 translatedFrom: 'History/黑蝙蝠中隊.md'
 sourceCommitSha: '69b3afd9'
 sourceContentHash: 'sha256:9c407c7793816591'
+sourceBodyHash: 'sha256:7e573e2650a593fd'
 translatedAt: '2026-08-21T19:08:49+08:00'
 ---
 

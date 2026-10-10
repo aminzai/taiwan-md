@@ -14,6 +14,7 @@ curation: 'incubating'
 translatedFrom: 'Culture/噶瑪蘭族.md'
 sourceCommitSha: '4a95859b1'
 sourceContentHash: 'sha256:0092cb426289b426'
+sourceBodyHash: 'sha256:af42a6da82295d4c'
 translatedAt: '2026-09-12T22:43:23.716886+00:00'
 ---
 

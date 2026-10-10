@@ -14,6 +14,7 @@ curation: 'incubating'
 translatedFrom: 'Food/擂茶.md'
 sourceCommitSha: '2c62c6aba'
 sourceContentHash: 'sha256:ee2201b450622484'
+sourceBodyHash: 'sha256:66c062471e0b3496'
 translatedAt: '2026-09-12T10:40:17.409874+00:00'
 ---
 

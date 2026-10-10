@@ -14,6 +14,7 @@ curation: 'incubating'
 translatedFrom: 'Food/台灣鐵路便當.md'
 sourceCommitSha: 'ed9e8cc78'
 sourceContentHash: 'sha256:9ecc268d4747db23'
+sourceBodyHash: 'sha256:99086673f8517f78'
 translatedAt: '2026-09-12T17:36:28.546602+00:00'
 ---
 

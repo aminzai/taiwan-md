@@ -22,6 +22,7 @@ rationale:
 translatedFrom: 'History/婦女運動.md'
 sourceCommitSha: 'e974b4c9e'
 sourceContentHash: 'sha256:0fa036adc14c8895'
+sourceBodyHash: 'sha256:e725ecac1936b5cf'
 translatedAt: '2026-09-10T11:56:47.759207+00:00'
 ---
 
