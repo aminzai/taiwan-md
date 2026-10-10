@@ -11,7 +11,7 @@ readingTime: 12
 lastVerified: 2026-05-02
 lastHumanReview: false
 translatedFrom: 'Society/法輪功在台灣.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:0b627bb39208e94e'
 sourceBodyHash: 'sha256:506539ee82e6b605'
 translatedAt: '2026-05-02T14:15:00+08:00'

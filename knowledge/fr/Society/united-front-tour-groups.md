@@ -17,7 +17,7 @@ readingTime: 25
 lastVerified: 2026-05-02
 lastHumanReview: false
 translatedFrom: 'Society/統戰團.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:6189acad34e81f7d'
 sourceBodyHash: 'sha256:a81371a8c3c242ce'
 translatedAt: '2026-05-02T13:44:29+08:00'

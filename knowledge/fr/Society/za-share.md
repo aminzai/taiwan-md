@@ -20,7 +20,7 @@ readingTime: 12
 lastVerified: 2026-05-05
 lastHumanReview: false
 translatedFrom: 'Society/雜學校.md'
-sourceCommitSha: '1844f59c5'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:b414878c293e15ed'
 sourceBodyHash: 'sha256:63cdc7eebcc0988a'
 translatedAt: '2026-06-10T06:12:57+08:00'

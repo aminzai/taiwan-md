@@ -21,7 +21,7 @@ difficulty: 'intermediate'
 readingTime: 12
 researchReport: 'reports/research/2026-05/Chi Lin-lien.md'
 translatedFrom: 'People/季麟連.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: ''
 sourceContentHash: 'sha256:e096cf547c4b743c'
 translatedAt: '2026-05-13T01:08:41Z'
 sourceBodyHash: 'sha256:94870d211f5fa515'
