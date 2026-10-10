@@ -2,9 +2,7 @@
 title: 'Can Forecast Wind and Rain, but Not Fate: Four Hundred Years of Taiwan and Typhoons'
 description: 'On the morning Morakot struck in 2009, 71-year-old Lo Pan Chun-mei stood on a second-floor balcony and watched Mt. Xiandu collapse, swallowing 462 loved ones in Xiaolin Village. Fifteen years later, Taiwan used six AI models to cut the 24-hour typhoon-track forecast error from 172 kilometers to 57 kilometers. But within those 57 kilometers, who will go out to work in the storm, and who will not receive the warning, still cannot be predicted.'
 date: 2026-05-09
-author: 'Taiwan.md'
 category: 'Nature'
-subcategory: '氣候與災害'
 tags:
   [
     'typhoons',
@@ -20,10 +18,17 @@ tags:
     'AI forecasting',
     'FORMOSAT-7',
   ]
-readingTime: 13
+subcategory: '氣候與災害'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-09
 lastHumanReview: false
-featured: false
+researchReport: 'reports/research/2026-05/颱風-rewrite-research.md'
+readingTime: 13
+image: '/article-images/nature/morakot-modis-satellite-2009.webp'
+imageCredit: 'NASA MODIS Rapid Response (Aqua)'
+imageLicense: 'Public domain (NASA)'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Typhoon_Morakot_Aug_7_2009.jpg'
 sporeLinks:
   - id: 115
     platform: 'threads'
@@ -34,14 +39,10 @@ sporeLinks:
     date: '2026-06-03'
     url: 'https://x.com/taiwandotmd/status/2062065024613679469'
 translatedFrom: 'Nature/颱風.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:b0a47a120aff0621'
-sourceBodyHash: 'sha256:b8ebcfc4e0a96ce7'
-translatedAt: '2026-06-16T17:03:25Z'
-image: '/article-images/nature/morakot-modis-satellite-2009.webp'
-imageCredit: 'NASA MODIS Rapid Response (Aqua)'
-imageLicense: 'Public domain (NASA)'
-imageSource: 'https://commons.wikimedia.org/wiki/File:Typhoon_Morakot_Aug_7_2009.jpg'
+sourceCommitSha: 'f40273072'
+sourceContentHash: 'sha256:ae6eb429d45b37f4'
+sourceBodyHash: 'sha256:a891f90b49935053'
+translatedAt: '2026-10-10T05:55:31.008078+00:00'
 ---
 
 # Can Forecast Wind and Rain, but Not Fate: Four Hundred Years of Taiwan and Typhoons
@@ -155,23 +156,23 @@ From colored storm flags to predicting 30 days in four minutes, the accuracy acc
 
 _DIGITIMES Tech Talk EP.4: how AI models pushed typhoon-track forecast errors all the way down to 57 kilometers._
 
-## The NT$31.5 Billion Price: Who Pays?
+## Who Pays the Price of NT$31.5 Billion?
 
-Typhoons have also produced a distinctive Taiwanese institution: typhoon leave.
+Typhoons also bring a unique Taiwanese system called "typhoon leave."
 
-The system began with a tragedy. On July 30, 2001, during the assault of the moderate Typhoon Toraji, teacher Hsu Pi-lan of Qingshan Elementary School in Changhua County died in the line of duty after accidentally falling into a drainage ditch while protecting students. Then-president Chen Shui-bian personally went to the mourning hall to pay tribute. Twelve years later, in 2013, the original operational guidelines were renamed the "Regulations Governing the Suspension of Work and Classes Due to Natural Disasters."[^22]
+The origin of this system is a tragedy. On July 30, 2001, during the impact of Typhoon Morakot, Ms. Hsu Bi-lan, a teacher at Qingshan Elementary School in Changhua County, died while protecting her students after falling into a drainage ditch. The then-President Chen Shui-bian personally paid his respects at the funeral. Twelve years later, in 2013, the original operational guideline was officially named the "Regulations for Suspending Work and Classes Due to Natural Disasters."[^22]
 
-> **✦** "Each day of suspended work and classes has an impact exceeding NT$31 billion."
+> **✦** "Each day of shutdown affects over NT$31 billion."
 
-This claim originated in a 2005 op-ed by former environment minister Peng Chi-ming. It was later recalculated by Lin Por-fong, chair of the Third Wednesday Club, using 2023 GDP data, producing an estimated net loss of about NT$31.5 billion per day.[^4]
+This statement originated from a submission by former Minister of Environment Peng Chi-ming in 2005, which was later recalculated using 2023 GDP data by Chairman Lin Bo-feng of the SanSan Association to yield an approximate net loss of NT$31.5 billion per day.[^4]
 
-But this arithmetic misses a structural problem. A yes123 job bank survey of 1,330 workers found that 81% had gone to work as usual on typhoon days, and 65% of them did so at a supervisor's request. An FTNN News survey showed that 53.5% of workers still received full pay, while 37.7% received no pay at all.[^7] Civil servants and white-collar office workers wait at home for leave announcements, while workers in wholesale and retail, agriculture, fisheries, animal husbandry, and food service keep going out in the same typhoon.
+However, this calculation misses a structural problem. A survey conducted by yes123 Job Search among 1,330 workers found that 81% worked on typhoon days, with 65% of them being required by their supervisors. A survey by FTNN News showed that 53.5% of workers received full pay, but 37.7% received no pay at all.[^7] Civil servants and office white-collar workers waited at home for holiday announcements, while workers in wholesale/retail, agriculture, fishing, animal husbandry, and catering continued to go out during the same typhoon.
 
 > **📝 Curator's Note**
 >
-> The story of typhoon leave and the story of the "sacred mountain protecting the nation" are actually two versions of the same story. The mountains turn wind into water, but onto whose houses does that water pour? Work-suspension announcements give leave to whom, and leave whom out? In the same typhoon, the rainfall on the map is uniform, but the people who bear the cost never are.
+> The story of "typhoon leave" is actually two versions of the same story as the "sacred mountain protecting the nation." If the mountain turns its defense into water, whose houses are flooded? Who does the shutdown announcement give a day off to, and who does it omit? In the same typhoon, rainfall on the map is uniform, but those bearing the cost are never uniform.
 
-The full class distribution of typhoon leave, the blind spots behind the NT$31.5 billion arithmetic, and the situation of migrant workers are a separate story, told in the article [Typhoon Leave](/en/society/typhoon-day).
+The complete class distribution of "typhoon leave," the blind spots behind the NT$31.5 billion calculation, and the plight of migrant workers—these are another independent story, written in [Typhoon Leave](/en/society/typhoon-day).
 
 ## Tribal Weather Stations: Thousand-Year Wisdom as the Last Safety Net
 
