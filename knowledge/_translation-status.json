@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-10-10T20:04:00+08:00",
-    "zhCommitHead": "95bf8b1d0",
+    "lastUpdated": "2026-10-10T21:28:24+08:00",
+    "zhCommitHead": "cf79f4c6b",
     "totalZh": 1125,
     "activeLanguages": [
       "en",
@@ -44,9 +44,9 @@
       },
       "es": {
         "total_zh": 1125,
-        "fresh": 1123,
+        "fresh": 1124,
         "stale": 1,
-        "metadata_stale": 1,
+        "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
@@ -76,41 +76,41 @@
       },
       "pt": {
         "total_zh": 1125,
-        "fresh": 1122,
+        "fresh": 1123,
         "stale": 0,
-        "metadata_stale": 3,
+        "metadata_stale": 2,
         "missing": 0,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1125,
-        "fresh": 1121,
+        "fresh": 1122,
         "stale": 3,
-        "metadata_stale": 1,
+        "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1125,
-        "fresh": 1121,
+        "fresh": 1122,
         "stale": 2,
-        "metadata_stale": 2,
+        "metadata_stale": 1,
         "missing": 0,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1125,
-        "fresh": 1123,
-        "stale": 1,
+        "fresh": 1124,
+        "stale": 0,
         "metadata_stale": 1,
         "missing": 0,
         "orphan": 0
       },
       "de": {
         "total_zh": 1125,
-        "fresh": 1120,
+        "fresh": 1122,
         "stale": 1,
-        "metadata_stale": 4,
+        "metadata_stale": 2,
         "missing": 0,
         "orphan": 0
       }
@@ -4732,20 +4732,18 @@
         "ar": {
           "path": "ar/Music/taiwan-campus-folk-song-movement.md",
           "translatedFrom": "Music/台灣民歌運動.md",
-          "sourceCommitSha": "7415dcaae",
-          "sourceContentHash": "sha256:e201829436b891a1",
+          "sourceCommitSha": "f40273072",
+          "sourceContentHash": "sha256:852e24aefb540676",
           "sourceBodyHash": "sha256:61e39c0d29fd318e",
-          "translatedAt": "2026-09-09T15:32:52+08:00",
+          "translatedAt": "2026-10-10T19:08:18+08:00",
           "translationLastCommit": "e75b621d",
           "translationLastModified": "2026-09-10T00:44:33+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "bytes": 24828,
+          "bytes": 22602,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Music/taiwan-campus-folk-song-movement.md",
@@ -70634,20 +70632,18 @@
         "de": {
           "path": "de/Society/taiwan-unification-independence-spectrum.md",
           "translatedFrom": "Society/台灣統獨光譜.md",
-          "sourceCommitSha": "4c15a2b03",
-          "sourceContentHash": "sha256:a399eae223d36d4d",
+          "sourceCommitSha": "f40273072",
+          "sourceContentHash": "sha256:1b0043849d509410",
           "sourceBodyHash": "sha256:71fc72f8b7a7bc3d",
-          "translatedAt": "2026-09-23T22:12:06+08:00",
+          "translatedAt": "2026-10-10T20:45:16+08:00",
           "translationLastCommit": "0221c2f0",
           "translationLastModified": "2026-09-24T01:13:10+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "bytes": 42249,
+          "bytes": 42074,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+6 -6"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -72206,20 +72202,18 @@
         "hi": {
           "path": "hi/Society/taiwan-sports-olympics.md",
           "translatedFrom": "Society/台灣體育發展與奧運.md",
-          "sourceCommitSha": "21298a7ae",
-          "sourceContentHash": "sha256:f86cdecbd23b7e4f",
+          "sourceCommitSha": "f40273072",
+          "sourceContentHash": "sha256:e7727fb00a4fa3ab",
           "sourceBodyHash": "sha256:77348d4fbb7640a8",
-          "translatedAt": "2026-07-31T22:46:20+08:00",
+          "translatedAt": "2026-10-10T12:10:16.591380+00:00",
           "translationLastCommit": "1739c62f",
           "translationLastModified": "2026-08-01T22:23:37+08:00",
           "inferred": false,
           "footnoteDefs": 55,
-          "bytes": 68667,
+          "bytes": 74378,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+6 -6"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Society/taiwan-sports-olympics.md",
@@ -75968,20 +75962,18 @@
         "es": {
           "path": "es/Society/taiwan-yuelao-matchmaker-map.md",
           "translatedFrom": "Society/台灣月老地圖.md",
-          "sourceCommitSha": "b67b190fb",
-          "sourceContentHash": "sha256:0bd3cef2eb38faed",
+          "sourceCommitSha": "f40273072",
+          "sourceContentHash": "sha256:fa3e1618857c531a",
           "sourceBodyHash": "sha256:b139705eca5e1f54",
-          "translatedAt": "2026-09-08T00:42:49+08:00",
+          "translatedAt": "2026-10-10T20:45:14+08:00",
           "translationLastCommit": "db8c390c",
           "translationLastModified": "2026-09-22T00:50:12+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "bytes": 35313,
+          "bytes": 34328,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Society/taiwan-yuelao-matchmaker-map.md",
@@ -77898,8 +77890,8 @@
           "sourceContentHash": "sha256:a1f455d597d80f3d",
           "sourceBodyHash": "sha256:8d3f66b5c4593a14",
           "translatedAt": "2026-10-10T19:08:18+08:00",
-          "translationLastCommit": "034dfd9f",
-          "translationLastModified": "2026-09-15T04:17:41+08:00",
+          "translationLastCommit": "cf79f4c6",
+          "translationLastModified": "2026-10-10T20:04:00+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "bytes": 33305,
@@ -86602,20 +86594,18 @@
         "ru": {
           "path": "ru/Nature/typhoons-in-taiwan.md",
           "translatedFrom": "Nature/颱風.md",
-          "sourceCommitSha": "31a05c44b",
-          "sourceContentHash": "sha256:b0a47a120aff0621",
-          "sourceBodyHash": "sha256:b8ebcfc4e0a96ce7",
-          "translatedAt": "2026-07-29T17:42:51+08:00",
+          "sourceCommitSha": "f40273072",
+          "sourceContentHash": "sha256:ae6eb429d45b37f4",
+          "sourceBodyHash": "sha256:a891f90b49935053",
+          "translatedAt": "2026-10-10T12:46:06.187993+00:00",
           "translationLastCommit": "2c8412b5",
           "translationLastModified": "2026-07-29T18:42:37+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "bytes": 42161,
+          "bytes": 43648,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+6 -6"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Nature/typhoons-in-taiwan.md",
@@ -119116,8 +119106,8 @@
           "sourceContentHash": "sha256:36049c1494516a6b",
           "sourceBodyHash": "sha256:c035c602c7e335fa",
           "translatedAt": "2026-10-10T16:54:48+08:00",
-          "translationLastCommit": "f87df5a8",
-          "translationLastModified": "2026-08-02T01:21:47+08:00",
+          "translationLastCommit": "cf79f4c6",
+          "translationLastModified": "2026-10-10T20:04:00+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "bytes": 14203,
@@ -119686,20 +119676,18 @@
         "pt": {
           "path": "pt/People/brigitte-lin-legendary-actress.md",
           "translatedFrom": "People/林青霞.md",
-          "sourceCommitSha": "7415dcaae",
-          "sourceContentHash": "sha256:2b4a824289c241f9",
+          "sourceCommitSha": "f40273072",
+          "sourceContentHash": "sha256:d90dfbfec4a44a23",
           "sourceBodyHash": "sha256:12badc0094297f08",
-          "translatedAt": "2026-07-26T17:01:26+08:00",
+          "translatedAt": "2026-10-10T20:45:15+08:00",
           "translationLastCommit": "fc19c7dc",
           "translationLastModified": "2026-09-28T06:42:43+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 12497,
+          "bytes": 13781,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/People/brigitte-lin-legendary-actress.md",
@@ -165188,8 +165176,8 @@
           "sourceContentHash": "sha256:18a6dcd21c7afdcc",
           "sourceBodyHash": "sha256:736db188fea407ed",
           "translatedAt": "2026-10-10T18:51:42+08:00",
-          "translationLastCommit": "9589c25e",
-          "translationLastModified": "2026-07-27T19:06:56+08:00",
+          "translationLastCommit": "cf79f4c6",
+          "translationLastModified": "2026-10-10T20:04:00+08:00",
           "inferred": false,
           "footnoteDefs": 23,
           "bytes": 40896,
@@ -176730,20 +176718,18 @@
         "de": {
           "path": "de/History/resolution-on-taiwans-future.md",
           "translatedFrom": "History/臺灣前途決議文.md",
-          "sourceCommitSha": "dd39065b2",
-          "sourceContentHash": "sha256:d8a522bc82b5f1d6",
+          "sourceCommitSha": "f40273072",
+          "sourceContentHash": "sha256:e6702eb59071e6e0",
           "sourceBodyHash": "sha256:c8ff273540a02078",
-          "translatedAt": "2026-09-12T00:32:25+08:00",
+          "translatedAt": "2026-10-10T19:08:19+08:00",
           "translationLastCommit": "5af02f60",
           "translationLastModified": "2026-09-12T03:09:57+08:00",
           "inferred": false,
           "footnoteDefs": 29,
-          "bytes": 32124,
+          "bytes": 32460,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+4 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
