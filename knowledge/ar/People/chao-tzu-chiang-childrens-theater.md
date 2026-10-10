@@ -4,7 +4,7 @@ description: 'في عام 1984، انضم تشاو تزو تشيانغ إلى ف
 date: 2026-04-25
 author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: 'الموسيقى والأداء'
+subcategory: '音樂與表演'
 tags:
   [
     'تشاو تزو تشيانغ',

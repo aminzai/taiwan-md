@@ -14,7 +14,7 @@ tags:
     'وادي السيليكون',
     'تايوان',
   ]
-subcategory: 'التكنولوجيا والشركات'
+subcategory: '科技與企業'
 author: 'idlccp1984'
 featured: false
 lastVerified: 2026-04-29

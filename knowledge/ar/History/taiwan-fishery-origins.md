@@ -11,7 +11,7 @@ tags:
     'تجارب المنتجات المائية',
     'قرية صيد',
   ]
-subcategory: 'المجتمع والتاريخ اليومي'
+subcategory: '社會與日常史'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-21

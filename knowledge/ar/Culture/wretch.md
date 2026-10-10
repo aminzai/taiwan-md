@@ -12,7 +12,7 @@ tags:
     'استحواذ ياهو',
     'الحفظ الرقمي',
   ]
-subcategory: 'ثقافة الإنترنت'
+subcategory: '網路文化'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-06-14

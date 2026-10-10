@@ -13,7 +13,7 @@ tags:
     'المستثمرون الأفراد',
     'الذكاء الاصطناعي',
   ]
-subcategory: 'الاقتصاد'
+subcategory: 'Economy'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-05-03

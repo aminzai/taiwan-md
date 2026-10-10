@@ -4,7 +4,7 @@ description: 'في عام 2020، أطلق يوتيوبر أدي حملة تمو�
 date: 2026-04-20
 author: 'Taiwan.md'
 category: 'People'
-subcategory: 'الرقمي والإعلام'
+subcategory: '數位與媒體'
 tags:
   ['يوتيوبر', 'أدي', 'إعلام تايوان الجديد', 'الاكتئاب', 'إعلان نيويورك تايمز']
 readingTime: 9

@@ -4,7 +4,7 @@ description: 'اسمه الحقيقي وو تشون-لين، وُلد عام 196
 date: 2026-03-19
 category: 'People'
 tags: ['موسيقى', 'روك', 'أغاني تايوانية', 'جيايي', 'روك محلي', 'غيتار']
-subcategory: 'موسيقى'
+subcategory: '音樂'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07

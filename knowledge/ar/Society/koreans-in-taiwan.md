@@ -11,7 +11,7 @@ tags:
     'مدرسة الكوريين في كاوهسيونغ',
     'الحياة عبر الثقافات',
   ]
-subcategory: 'التعليم'
+subcategory: '教育'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-21

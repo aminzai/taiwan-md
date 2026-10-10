@@ -11,7 +11,7 @@ tags:
     'تعليم الكبار',
     'الدراسات المحلية',
   ]
-subcategory: 'التعليم'
+subcategory: '教育'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-20

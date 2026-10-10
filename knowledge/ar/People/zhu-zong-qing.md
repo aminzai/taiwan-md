@@ -4,7 +4,7 @@ description: 'رائد الإيقاع العائد من فيينا، الذي ح
 date: 2026-03-21
 category: 'People'
 tags: ['شخصية', 'تشو تسونغ تشينغ', 'موسيقي', 'إيقاع', 'تعليم', 'فنون الأداء']
-subcategory: 'الفنون والتصميم'
+subcategory: '藝術與設計'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-21

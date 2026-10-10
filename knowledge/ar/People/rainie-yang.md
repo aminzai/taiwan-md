@@ -4,7 +4,7 @@ description: 'في 9 سبتمبر 2025، أطلقت ريني يانغ نسخة "
 date: 2026-04-18
 author: 'Taiwan.md'
 category: 'People'
-subcategory: 'الموسيقى والأداء'
+subcategory: '音樂與表演'
 tags:
   [
     'شخصيات',

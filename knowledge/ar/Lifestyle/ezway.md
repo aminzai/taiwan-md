@@ -15,7 +15,7 @@ tags:
     'حوكمة البيانات الشخصية',
     'إدارة الجمارك',
   ]
-subcategory: 'أنظمة الاستهلاك والحياة'
+subcategory: '消費與生活制度'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-08-04

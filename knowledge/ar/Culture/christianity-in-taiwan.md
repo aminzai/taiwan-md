@@ -4,7 +4,7 @@ description: 'في عام 1865، افتتح جيمس لايدلو ماكسويل
 date: 2026-04-29
 author: 'idlccp1984'
 category: 'Culture'
-subcategory: 'الدين والفولكلور'
+subcategory: '宗教與民俗'
 tags:
   [
     المسيحية,

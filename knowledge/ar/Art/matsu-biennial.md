@@ -12,7 +12,7 @@ tags:
     'جزر نائية',
     'حوكمة ثقافية',
   ]
-subcategory: 'تنسيق المعارض والتعليم'
+subcategory: '策展與教育'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-08-06

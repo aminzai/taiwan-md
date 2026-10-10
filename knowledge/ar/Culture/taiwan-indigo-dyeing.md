@@ -16,7 +16,7 @@ tags:
     'تشن جينغ لين',
     'تشنغ مي شو',
   ]
-subcategory: 'حرف وفنون جمالية'
+subcategory: '工藝與美學'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-07-05

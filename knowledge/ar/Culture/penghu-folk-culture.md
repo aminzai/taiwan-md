@@ -14,7 +14,7 @@ tags:
     'المصائد الحجرية',
     'ماتسو',
   ]
-subcategory: 'ثقافة الجزر النائية'
+subcategory: '離島文化'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-07

@@ -14,7 +14,7 @@ tags:
     'شرطة',
     'مغنٍ ملحن',
   ]
-subcategory: 'موسيقى'
+subcategory: '音樂'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-17

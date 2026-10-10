@@ -11,7 +11,7 @@ tags:
     'علم الزلازل',
     'المرونة الاجتماعية',
   ]
-subcategory: 'تقنية الوقاية من الكوارث'
+subcategory: '防災科技'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-19

@@ -14,7 +14,7 @@ tags:
     'كيانات صحية',
     'مجتمع تايوان',
   ]
-subcategory: 'القانون والمؤسسات'
+subcategory: '法律與制度'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-07-13

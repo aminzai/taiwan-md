@@ -4,7 +4,7 @@ description: 'في عام 2014، بدأت ليو أن-تينغ بألفي دول
 date: 2026-04-08
 author: 'Taiwan.md'
 category: 'Society'
-subcategory: 'التعليم'
+subcategory: '教育'
 tags:
   - 'التعليم'
   - 'تعليم المناطق النائية'

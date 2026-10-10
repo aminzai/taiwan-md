@@ -12,7 +12,7 @@ tags:
     'الصناعات التقليدية',
     'كنوز فورموزا الأربعة',
   ]
-subcategory: 'سير الشركات'
+subcategory: '企業列傳'
 author: 'Taiwan.md'
 readingTime: 8
 featured: false

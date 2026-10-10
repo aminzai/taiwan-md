@@ -12,7 +12,7 @@ tags:
     'BAO London',
     'المطبخ التايواني',
   ]
-subcategory: 'وجبات خفيفة كلاسيكية'
+subcategory: '經典小吃'
 author: 'Taiwan.md Contributors'
 featured: true
 lastVerified: 2026-05-16

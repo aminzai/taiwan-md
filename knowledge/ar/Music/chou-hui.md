@@ -27,7 +27,7 @@ tags:
     'Where X تمشي',
     'الأوقات التي لا تُنسى',
   ]
-subcategory: 'مغنية'
+subcategory: '歌手'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-28

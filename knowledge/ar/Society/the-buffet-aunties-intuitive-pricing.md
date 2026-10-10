@@ -13,7 +13,7 @@ tags:
     'ثقافة الطعام',
     'فلسفة التكنولوجيا',
   ]
-subcategory: 'المجتمع والحياة اليومية'
+subcategory: '社區與日常'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-22

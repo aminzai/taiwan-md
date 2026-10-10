@@ -4,7 +4,7 @@ description: 'في عام 1961، اشترى أندو بايفو براءة اخ�
 date: 2026-04-29
 author: 'idlccp1984'
 category: 'People'
-subcategory: "'歷史人物'"
+subcategory: '歷史人物'
 tags:
   [
     'و بايفو',

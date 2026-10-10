@@ -8,7 +8,7 @@ tags:
   - 'الديمقراطية'
   - 'الحركات المواطنية'
 category: 'Society'
-subcategory: 'الديمقراطية والسياسة'
+subcategory: '民主與政治'
 date: 2026-03-23
 author: 'Taiwan.md'
 lastVerified: 2026-03-23

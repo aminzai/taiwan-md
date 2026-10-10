@@ -11,7 +11,7 @@ tags:
     'فرقة 100%',
     'موسيقى البوب الماندرينية',
   ]
-subcategory: 'موسيقي'
+subcategory: '音樂人'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-20

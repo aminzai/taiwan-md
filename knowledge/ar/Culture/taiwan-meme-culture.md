@@ -12,7 +12,7 @@ tags:
     'صمام الأمان الاجتماعي',
     'ميمات كلاسيكية',
   ]
-subcategory: 'ثقافة الإنترنت'
+subcategory: '網路文化'
 author: 'Taiwan.md Contributors'
 featured: false
 readingTime: 12

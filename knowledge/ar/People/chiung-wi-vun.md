@@ -10,7 +10,7 @@ tags:
     'تعليم اللغة الأم',
     'الدراسات الفيتنامية',
   ]
-subcategory: 'الأكاديمية والتعليم'
+subcategory: '學術與教育'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-23

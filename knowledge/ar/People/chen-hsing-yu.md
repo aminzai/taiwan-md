@@ -5,7 +5,7 @@ date: 2026-08-15
 category: 'People'
 tags:
   ['تشين هسينغ-يو', 'طب الأسنان', 'أخلاقيات الإعلام', 'تاينان', 'تشين شوي بيان']
-subcategory: 'شخصيات سياسية'
+subcategory: '政治人物'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-15

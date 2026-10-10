@@ -11,7 +11,7 @@ tags:
   - 'تقشير لحاء الأشجار'
   - 'الثقافة الأصلية'
   - 'مهندس بيئي'
-subcategory: 'الحياة البرية'
+subcategory: '野生動物'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-30

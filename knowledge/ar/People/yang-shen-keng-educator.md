@@ -14,7 +14,7 @@ tags:
     'جامعة تشونغ تشنغ',
     'جامعة تشي نان',
   ]
-subcategory: 'التعليم والمجتمع'
+subcategory: '教育與社會'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-25

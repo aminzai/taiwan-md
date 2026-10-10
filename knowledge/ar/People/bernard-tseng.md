@@ -13,7 +13,7 @@ tags:
     'حرية التعبير',
     'ضريبة الترفيه',
   ]
-subcategory: 'الإعلام الرقمي'
+subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-13

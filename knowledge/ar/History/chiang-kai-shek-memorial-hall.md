@@ -12,7 +12,7 @@ tags:
     'منطقة مشروع الشكاية',
   ]
 category: 'History'
-subcategory: 'بعد الحرب والاستبداد'
+subcategory: '戰後與威權'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-10

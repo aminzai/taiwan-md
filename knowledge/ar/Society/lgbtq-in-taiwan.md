@@ -16,7 +16,7 @@ tags:
     الزواج بين أفراد من دول مختلفة,
     رعاية الأطفال المشتركة,
   ]
-subcategory: 'الحقوق والمساواة'
+subcategory: '人權與平等'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-30

@@ -14,7 +14,7 @@ tags:
     'مرونة الدفاع المجتمعي الشامل',
     'المجتمع المدني',
   ]
-subcategory: 'المجتمع المدني'
+subcategory: '公民社會'
 author: 'Taiwan.md Contributors'
 difficulty: 'intermediate'
 readingTime: 20

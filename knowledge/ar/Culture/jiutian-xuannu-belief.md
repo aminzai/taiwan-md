@@ -4,7 +4,7 @@ description: 'قائد فرقة معبد حاصل على شهادة الثانو
 date: 2026-03-27
 author: 'Taiwan.md'
 category: 'Culture'
-subcategory: 'الدين والفولكلور'
+subcategory: '宗教與民俗'
 tags:
   [
     'جيوتشيان شواننو',

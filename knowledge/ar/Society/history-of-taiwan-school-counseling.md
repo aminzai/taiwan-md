@@ -4,7 +4,7 @@ description: 'في عام 2014، أقرت تايوان "قانون إرشاد ا
 date: 2026-04-25
 author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: 'التعليم'
+subcategory: '教育'
 tags:
   - 'الإرشاد المدرسي'
   - 'غرفة الإرشاد'

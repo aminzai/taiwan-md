@@ -22,7 +22,7 @@ tags:
     'الحفاظ على السيادة',
     'وفاة 2026',
   ]
-subcategory: 'رجل أعمال'
+subcategory: '企業家'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-05-26

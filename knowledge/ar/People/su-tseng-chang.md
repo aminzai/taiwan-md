@@ -4,7 +4,7 @@ description: 'في عام 1979، دافع عن السجناء السياسيين
 date: 2026-04-28
 author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: 'السياسة والديمقراطية'
+subcategory: '政治與民主'
 tags:
   - 'سو تسنغ تشانغ'
   - 'رئيس الوزراء'

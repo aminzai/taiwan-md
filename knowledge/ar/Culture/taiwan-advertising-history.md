@@ -11,7 +11,7 @@ tags:
     'وو نيان تشن',
     'الذاكرة الجماعية',
   ]
-subcategory: 'الثقافة الشعبية'
+subcategory: '大眾文化'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-06-14

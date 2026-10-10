@@ -18,7 +18,7 @@ tags:
     'منطقة عسكرية مغلقة',
     'جزر بعيدة',
   ]
-subcategory: 'جزر بعيدة'
+subcategory: '離島'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-06-24

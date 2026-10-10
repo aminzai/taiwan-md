@@ -4,7 +4,7 @@ description: "في عام 2014، تفوقت مجموعة تايوان المست
 date: 2026-04-20
 author: 'Taiwan.md'
 category: 'People'
-subcategory: 'الموسيقى والعرض'
+subcategory: '音樂與表演'
 tags:
   [
     'مرحبا نيكو',

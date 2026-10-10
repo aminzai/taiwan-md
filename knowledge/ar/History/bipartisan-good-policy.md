@@ -12,7 +12,7 @@ tags:
     'العدالة الانتقالية',
     'السياسات والمؤسسات',
   ]
-subcategory: 'السياسات والمؤسسات'
+subcategory: '政策與制度'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-06-13

@@ -16,7 +16,7 @@ tags:
     'الملاجئ',
     'ثقافة التبني',
   ]
-subcategory: 'المجتمع والحياة اليومية'
+subcategory: '社區與日常'
 author: 'Taiwan.md Contributors'
 readingTime: 22
 featured: true

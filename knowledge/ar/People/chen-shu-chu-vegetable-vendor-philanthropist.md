@@ -13,7 +13,7 @@ tags:
     'جائزة ماغسايساي',
     'تبرعات تعليمية',
   ]
-subcategory: 'العمل الخيري والمجتمع'
+subcategory: '慈善與社會'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-16
