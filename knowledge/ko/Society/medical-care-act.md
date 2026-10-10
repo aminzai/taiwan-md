@@ -220,7 +220,7 @@ _공영방송 《독립특파원》의 간호 사직 물결 특집. 카메라가
 
 ![중화민국 입법원 의사당 내부, 파란 좌석이 줄지어 의장석을 향해 있다. 3교대 간호사 대 환자 비율 개정안이 이곳에서 3독으로 통과되었다](/article-images/society/legislative-yuan-chamber-2013.webp)
 
-_입법원 의사당. ‘간호사 한 명이 최대 몇 병상을 맡는가’라는 문제는, 결국 이 방에서 60 대 50의 표결로 결론이 났다. Photo: Jiang, 2013, [CC BY-SA 3.0 via Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%AB%8B%E6%B3%95%E9%99%A2_(%E8%AD%B0%E5%A0%B4%E5%86%85)_Legislative_Yuan_of_the_Republic_of_China_(chamber,_interior).jpg>)._
+_입법원 의사당. ‘간호사 한 명이 최대 몇 병상을 맡는가’라는 문제는, 결국 이 방에서 60 대 50의 표결로 결론이 났다. Photo: Jiang, 2013, [CC BY-SA 3.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%AB%8B%E6%B3%95%E9%99%A2_(%E8%AD%B0%E5%A0%B4%E5%86%85).\_
 
 진짜 전환점은 2026년 5월 8일 새벽이었다. 입법원은 《의료법》 제12조 개정과 제102조의1 신설을 3독으로 통과시켜, 처음으로 모법에서 ‘간호사 한 명이 최대 몇 병상을 맡는가’를 규정했다. 게다가 벌칙도 붙였다. 규정을 위반하면 지역병원은 5만에서 25만 위안, 구역병원은 20만에서 100만 위안, 의학센터는 100만에서 200만 위안의 과태료를 받는다. 기한 내 시정하지 않으면 위반할 때마다 연속 과태료를 받고, 누적 3회에 1년이 지나도 개선되지 않으면 최대 1년까지 영업정지를 받을 수 있다[^33].
 

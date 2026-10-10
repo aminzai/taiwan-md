@@ -143,7 +143,7 @@ _이미지: 대시교와 강변. 저자 CEphoto, Uwe Aranas, Creative Commons At
 
 [^9]: [아이라이 라이브러리: 대시 노천 거리 지역 문화 자산 활용 및 발전 연구](https://www.airitilibrary.com/Article/Detail/U0021-1610201315170023) — 연구 상세 페이지, 대시 노천 거리 문화 자산, 지역 단체, 주민, 점포 및 구청 상호작용의 연구 맥락을 제공한다.
 
-[^10]: [Wikimedia Commons: 대시 노천 거리 Daxi Historic Street - panoramio (1).jpg](<https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E6%BA%AA%E8%80%81%E8%A1%97_Daxi_Historic_Street_-_panoramio_(1).jpg>) — 저자 lienyuan lee, CC BY 3.0. 본문 이미지는 Wikimedia Commons `Special:FilePath` 핫링크를 사용하며, 이미지는 다운로드되지 않았다.
+[^10]: [Wikimedia Commons: 대시 노천 거리 Daxi Historic Street - panoramio (1).jpg](https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E6%BA%AA%E8%80%81%E8%A1%97_Daxi_Historic_Street_-_panoramio_(1) — 저자 lienyuan lee, CC BY 3.0. 본문 이미지는 Wikimedia Commons `Special:FilePath` 핫링크를 사용하며, 이미지는 다운로드되지 않았다.
 
 [^11]: [Wikimedia Commons: 2021 Daxi Bridge.jpg](https://commons.wikimedia.org/wiki/File:2021_Daxi_Bridge.jpg) — 저자 Taiwankengo, CC BY-SA 4.0. 본문 이미지는 `Special:FilePath` 핫링크를 사용하며, 이미지는 다운로드되지 않았다.
 

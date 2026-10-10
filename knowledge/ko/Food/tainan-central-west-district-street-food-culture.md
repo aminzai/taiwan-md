@@ -111,7 +111,7 @@ translatedAt: '2026-07-25T12:45:16+08:00'
 - [오초항(타이완) — 위키백과](<https://zh.wikipedia.org/zh-tw/%E4%BA%94%E6%A2%9D%E6%B8%AF_(%E8%87%BA%E5%8D%97)>)
 - [걷는 타이완 역사: 시무어는 어항을 풍요롭게 했고, 관청 도시 사람들의 아침과 위장을 풍요롭게 했다 — 핵심평론망](https://www.thenewslens.com/article/131368)
 - [타이완 가자미 즙, 시무어는 17세기 유럽 수입품에서 기원했을 가능성 — 중앙통신](https://www.cna.com.tw/news/acul/202403060184.aspx)
-- [타이완 소고기탕의 유래와 비결](https://storycircle571.com/2024/12/17/%E5%88%B0%E5%8F%B0%E5%8D%97%EF%BC%8C%E4%88%80%E5%AE%9E%E8%A6%81%E4%BE%86%E7%A2%97%E7%89%9B%E8%82%89%E6%B9%AF%EF%BC%81%E5%8F%B0%E5%8D%97%E7%89%9B%E8%82%89%E6%B9%AF%E7%9A%84%E7%B7%A3%E8%B5%B7%E3%80%81/)
+- [타이완 소고기탕의 유래와 비결](https://storycircle571.com/2024/12/17/%E5%88%B0%E5%8F%B0%E5%8D%97%EF%BC%8C%E4%B8%80%E5%AE%9A%E8%A6%81%E4%BE%86%E7%A2%97%E7%89%9B%E8%82%89%E6%B9%AF%EF%BC%81%E5%8F%B0%E5%8D%97%E7%89%9B%E8%82%89%E6%B9%AF%E7%9A%84%E7%B7%A3%E8%B5%B7%E3%80%81/)
 - [장어면 — 위키백과](https://zh.wikipedia.org/zh-tw/%E9%B1%94%E9%AD%9A%E6%84%8F%E9%BA%B5)
 - [볶은 장어는 진심 어린 정성이라 할 수 있는가? — 독립평론@천하](https://opinion.cw.com.tw/blog/profile/194/article/8595)
 - [식기록 타이완. 노포 장어면●사카리바 장어 랴오 — BoboTravel](https://bobotravel.tw/blog/post/153578723-%E9%A3%9F%E8%A8%98%E5%8F%B0%E5%8D%97%E3%80%82%E8%80%81%E7%89%8C%E9%B1%94%E9%AD%9A%E6%84%8F%E9%BA%B5%E2%97%8F%E6%B2%99%E5%8D%A1%E9%87%8C%E5%B7%B4%E9%B1%94%E9%AD%9A%E5%BB%96)

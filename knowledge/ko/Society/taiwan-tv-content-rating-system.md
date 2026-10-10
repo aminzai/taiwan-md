@@ -94,7 +94,7 @@ lastHumanReview: true
 
 [^8]: [감각의 제국 - 대만 상영 논쟁 기록](https://zh.wikipedia.org/zh-tw/%E6%84%9F%E5%AE%98%E4%B8%96%E7%95%8C) — 1999년 이 영화의 대만 상영에서 촉발된 예술 대 포르노 논쟁.
 
-[^9]: [색계(영화) - 위키백과](<https://zh.wikipedia.org/zh-tw/%E8%89%B2%EF%BC%8C%E6%88%92_(%E9%9B%BB%E5%BD%B1)>) — 대만에서 《색계》가 제한급으로 판정된 기록.
+[^9]: [색계(영화) - 위키백과](https://zh.wikipedia.org/zh-tw/%E8%89%B2%EF%BC%8C%E6%88%92_(%E9%9B%BB%E5%BD%B1) — 대만에서 《색계》가 제한급으로 판정된 기록.
 
 [^10]: [디지털 엔터테인먼트 소프트웨어 등급 조회 사이트](https://www.gamerating.org.tw/) — 디지털발전부 디지털산업서 공식 플랫폼.
 

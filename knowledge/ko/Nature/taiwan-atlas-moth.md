@@ -1,20 +1,20 @@
 ---
-title: "대만 왕나방"
-description: "날개 편폭이 25-30cm에 달하며 세계에서 날개 편폭이 가장 긴 나방 중 하나. 펼친 날개가 펼쳐진 책 한 권과 같다 — 성충은 평생 아무것도 먹지 않고, 단 한 번의 비행을 위해 태어난다"
+title: '대만 왕나방'
+description: '날개 편폭이 25-30cm에 달하며 세계에서 날개 편폭이 가장 긴 나방 중 하나. 펼친 날개가 펼쳐진 책 한 권과 같다 — 성충은 평생 아무것도 먹지 않고, 단 한 번의 비행을 위해 태어난다'
 date: 2026-03-19
-author: "Taiwan.md Contributors"
-category: "Nature"
-subcategory: "野生動物"
-tags: ["왕나방", "뱀머리나방", "Atlas Moth", "나방류", "보전", "곤충", "생태"]
+author: 'Taiwan.md Contributors'
+category: 'Nature'
+subcategory: '野生動物'
+tags: ['왕나방', '뱀머리나방', 'Atlas Moth', '나방류', '보전', '곤충', '생태']
 readingTime: 10
 lastVerified: 2026-03-19
 lastHumanReview: false
 featured: false
-translatedFrom: "Nature/台灣皇蛾.md"
-sourceCommitSha: "f712b7242"
-sourceContentHash: "sha256:c0def8638e893fc6"
-sourceBodyHash: "sha256:b3b31dae4152e213"
-translatedAt: "2026-05-20T05:08:30+08:00"
+translatedFrom: 'Nature/台灣皇蛾.md'
+sourceCommitSha: 'f712b7242'
+sourceContentHash: 'sha256:c0def8638e893fc6'
+sourceBodyHash: 'sha256:b3b31dae4152e213'
+translatedAt: '2026-05-20T05:08:30+08:00'
 ---
 
 # 대만 왕나방: 날개 편폭이 가장 긴 나방 중 하나, 평생 먹이를 먹지 않는 거대한 날개의 전설
@@ -29,7 +29,7 @@ translatedAt: "2026-05-20T05:08:30+08:00"
 
 ## 날개를 펼친 자연 도감
 
-왕나방(학명: _Attacus atlas*)은 "나는 지도"라 불린다. 양쪽 날개를 펼치면 밤갈색 바탕 위에 복잡한 선과 무늬가 얽혀 있어 마치 오래된 지도나 항해도 같다. 가장 특별한 것은 날개 끝의 무늬로, 이것이 바로 "뱀머리나방"이라는 이름의 유래다.
+왕나방(학명: \_Attacus atlas\*)은 "나는 지도"라 불린다. 양쪽 날개를 펼치면 밤갈색 바탕 위에 복잡한 선과 무늬가 얽혀 있어 마치 오래된 지도나 항해도 같다. 가장 특별한 것은 날개 끝의 무늬로, 이것이 바로 "뱀머리나방"이라는 이름의 유래다.
 
 날개 앞쪽 무늬는 뱀 머리처럼 보일 뿐 아니라, 왕나방이 위협을 받으면 날개를 흔들 때 그 무늬가 코브라의 위협 자세를 생생하게 모방한다. 수백만 년에 걸친 진화의 걸작이며, 정교한 기만 전략이다.
 
@@ -87,11 +87,15 @@ translatedAt: "2026-05-20T05:08:30+08:00"
 
 ## 참고 자료
 
-[^1]: [iNaturalist 대만 왕나방 관찰 기록](https://taiwan.inaturalist.org/taxa/125071-Attacus-atlas) — 대만 왕나방 목격 기록 및 분포 자료.
-[^2]: [대만 생물다양성 네트워크](https://www.tbn.org.tw/) — 왕나방 분포 및 표본 데이터베이스.
-[^3]: [농업부 임업 및 자연보전청](https://www.forest.gov.tw/) — 대만 나방류 보전 관련 정책 및 자원.
-[^4]: [왕나방 - 위키백과](https://zh.wikipedia.org/zh-tw/皇蛾) — 왕나방 형태, 분포 및 생태 습성 설명.
-[^5]: [Attacus atlas - Picture Insect](https://pictureinsect.com/zh-tw/wiki/Attacus_atlas.html) — 왕나방 생활사 및 식별 특징.
+[^1]: [iNaturalist 대만 왕나방 관찰 기록](https://catalog.digitalarchives.tw/item/00/5b/8e/5c.html) — 대만 왕나방 목격 기록 및 분포 자료.
+
+[^2]: [대만 생물다양성 네트워크](https://taieol.tw/pages/107777) — 왕나방 분포 및 표본 데이터베이스.
+
+[^3]: [농업부 임업 및 자연보전청](https://news.ltn.com.tw/news/Taipei/breakingnews/5520373) — 대만 나방류 보전 관련 정책 및 자원.
+
+[^4]: [왕나방 - 위키백과](https://www.nhm.ac.uk/discover/spotlight-the-atlas-moth.html) — 왕나방 형태, 분포 및 생태 습성 설명.
+
+[^5]: [Attacus atlas - Picture Insect](https://en.wikipedia.org/wiki/Attacus_atlas) — 왕나방 생활사 및 식별 특징.
 
 더 읽을거리:
 

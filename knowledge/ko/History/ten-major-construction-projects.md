@@ -121,7 +121,7 @@ translatedAt: '2026-07-24T10:40:42+08:00'
 
 [^19]: [자동차 산업 발전 방안과 중산 고속도로](https://storystudio.tw/article/gushi/taiwan-first-freeway/) — 정책 지향적 자동차 산업 부양.
 
-[^20]: [10대 건설로 대만 경제이 파고 깨어나다 - 야후 뉴스](https://tw.yahoo.com/news/%E7%99%BE%E5%B9%B4%E5%8D%B0%E8%B1%A1-%E9%A2%A8%E8%8F%AF%E6%B5%81%E8%BD%89-%E5%BB%BA%E5%9C%8B%E7%99%BE%E5%B9%B4%E7%B3%BB%E5%88%97%E5%B0%88%E9%A1%8C-%E5%8D%81%E5%A4%A7%E5%BB%BA%E8%A8%AD-%E5%8F%B0%E7%81%A3%E7%B6%93%E6%BF%9F%E7%A0%B4%E7%B9%AD-094000742.html) — 산업 고도화와 중화학공업화 영향.
+[^20]: [10대 건설로 대만 경제이 파고 깨어나다 - 야후 뉴스](https://tw.yahoo.com/news/%E7%99%BE%E5%B9%B4%E7%B3%BB%E5%88%97%E5%B0%88%E9%A1%8C-%E5%8D%81%E5%A4%A7%E5%BB%BA%E8%A8%AD-%E5%8F%B0%E7%81%A3%E7%B6%93%E6%BF%9F%E7%A0%B4%E7%B9%AD-094000742.html) — 산업 고도화와 중화학공업화 영향.
 
 [^21]: [건국 100주년 시리즈 특집: 10대 건설로 대만 경제이 파고 깨어나다 - 야후 뉴스(중앙방송전대)](https://tw.news.yahoo.com/%E7%99%BE%E5%B9%B4%E5%8D%B0%E8%B1%A1-%E9%A2%A8%E8%8F%AF%E6%B5%81%E8%BD%89-%E5%BB%BA%E5%9C%8B%E7%99%BE%E5%B9%B4%E7%B3%BB%E5%88%97%E5%B0%88%E9%A1%8C-%E5%8D%81%E5%A4%A7%E5%BB%BA%E8%A8%AD-%E5%8F%B0%E7%81%A3%E7%B6%93%E6%BF%9F%E7%A0%B4%E7%B9%AD-094000742.html) — "1976년에 관련 데이터가 호전되어 경제 성장률이 13.5%로 역사적 최고치를 기록했다".
 

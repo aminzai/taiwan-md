@@ -202,7 +202,7 @@ translatedAt: '2026-05-02T02:50:56+08:00'
 
 [^13]: [장현 국기 들어 "애국 가수" 불려 어이없어 — ETtoday](https://star.ettoday.net/news/310598) — "너희가 잘못 본 거야"
 
-[^14]: [태양화학운 각계 반응 — 위키백과](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E5%90%84%E7%95%8C%E5%B0%8D%E6%96%BC%E5%A4%AA%E9%99%BD%E8%8A%B1%E5%AD%B8%E9%81%8B%E7%9A%84%E5%8F%8D%E6%87%8D) — 페이스북 연속 글로 정부 비판
+[^14]: [태양화학운 각계 반응 — 위키백과](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E5%90%84%E7%95%8C%E5%B0%8D%E6%96%BC%E5%A4%AA%E9%99%BD%E8%8A%B1%E5%AD%B8%E9%81%8B%E7%9A%84%E5%8F%8D%E6%87%89) — 페이스북 연속 글로 정부 비판
 
 [^15]: [안푸 조수잠언 2022 — 鏡週刊](https://www.mirrormedia.mg/story/20221224ent007/) — 콘서트 제작 이념, 무대 디자인, 문학적 바탕, 영화적 기법
 
@@ -212,7 +212,7 @@ translatedAt: '2026-05-02T02:50:56+08:00'
 
 [^18]: [안푸가 떠난 이유 — 噓!星聞](https://stars.udn.com/star/story/10092/6760341) — 고양이 종양, 은둔의 도화선
 
-[^19]: [3년간 장현이 완성한 것들 — Yahoo 뉴스](https://tw.news.yahoo.com/%E4%BB%A5-%E5%AE%89%E6%BA%A5-%E4%B9%8B%E5%90%8D%E5%9B%9E%E6%AD%B7-%E9%80%99%E4%B8%89%E5%B9%B4%E5%BC%B5%E6%87%B8%E5%AE%8C%E6%88%90%E4%BA%86%E4%BB%80%E9%BA%BC-090000651.html) — 공부, 서예 연습, 시 쓰기, 악기 보강, 무대 제작 학습
+[^19]: [3년간 장현이 완성한 것들 — Yahoo 뉴스](https://tw.news.yahoo.com/%E4%BB%A5-%E5%AE%89%E6%BA%A5-%E4%B9%8B%E5%90%8D%E5%9B%9E%E6%AD%B8-%E9%80%99%E4%B8%89%E5%B9%B4%E5%BC%B5%E6%87%B8%E5%AE%8C%E6%88%90%E4%BA%86%E4%BB%80%E9%BA%BC-090000651.html) — 공부, 서예 연습, 시 쓰기, 악기 보강, 무대 제작 학습
 
 [^20]: [련운자들(煉雲者們) — 報導者](https://www.twreporter.org/topics/anpu-concert) — 3,600만 제작비, 3,200개 LED, 1,500만 무대 비용, 마세芳 음악평 "장렬한 꿈", 22곡 리메이크 선곡 논리, "련"의 정의
 

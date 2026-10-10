@@ -232,7 +232,7 @@ _2015년의 호봉 길고양이 — 흑백 삼색 고양이 한 마리가 돌계
 
 [^2]: [CNN — Six travel hotspots where cats rule](https://www.cnn.com/travel/article/where-cats-outshine-sights) — CNN 트래블 2013/11 호봉을 "세계 6대 고양이 명소"에 포함한 원문, 목록에 로마 라르고 디 토레 아르헨티나, 일본 다시마섬, 아이시마섬, 터키 칼칸, 플로리다 헤밍웨이 저택 포함.
 
-[^3]: [캣 레이디 퇴장 후 성찰 — 문화일주 Culture Journal](https://medium.com/%E6%96%87%E5%8C%96%E4%B8%80%E5%91%A8-culture-journal/1346-%E8%B2%93%E5%A4%AB%E4%BA%BA-%E7%B0%A1%E4%BD%A9%E7%8E%B2-%E5%A4%A9%E6%99%82%E5%9C%B0%E5%88%A9%E4%BF%82%E7%A1%90-%E7%9B%BC-%E5%B0%8A%E9%87%8D%E5%8B%95%E7%89%A9-%E7%B2%BE%E7%A5%9E%E7%95%99%E7%95%B6%E5%9C%B0-745b76cc341d) — 퇴장 후 성찰 인터뷰, "나는 내가 없으면 안 될 줄 알았다" "사람이 돌봐져야 동물이 더 좋아질 수 있다" 원문 포함.
+[^3]: [캣 레이디 퇴장 후 성찰 — 문화일주 Culture Journal](https://medium.com/%E6%96%87%E5%8C%96%E4%B8%80%E5%91%A8-culture-journal/1346-%E8%B2%93%E5%A4%AB%E4%BA%BA-%E7%B0%A1%E4%BD%A9%E7%8E%B2-%E5%A4%A9%E6%99%82%E5%9C%B0%E5%88%A9%E4%BF%83%E7%8C%B4%E7%A1%90-%E7%9B%BC-%E5%B0%8A%E9%87%8D%E5%8B%95%E7%89%A9-%E7%B2%BE%E7%A5%9E%E7%95%99%E7%95%B6%E5%9C%B0-745b76cc341d) — 퇴장 후 성찰 인터뷰, "나는 내가 없으면 안 될 줄 알았다" "사람이 돌봐져야 동물이 더 좋아질 수 있다" 원문 포함.
 
 [^4]: [루이산 본광 1990/5/1 폐쇄 — 공영 TV 우리의 섬](https://ourisland.pts.org.tw/content/11309) — 공영 TV 우리의 섬 보도 루이산 광업 1990년 5월 1일 공식 폐쇄, 1970년 생산량 정점 대만 전체의 7분의 1 차지, 광부 1,500여 명 완전한 연표 (v1 "7월 폐광" 수정).
 

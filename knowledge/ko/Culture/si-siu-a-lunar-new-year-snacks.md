@@ -118,7 +118,7 @@ _2007년 디화가(迪化街) 설날 노점상. Photo: Michael Rehfeldt, Wikimed
 
 [^7]: [지룽 시 위생국: 112년도 설 및 원소절 응경 식품 검사 명부](https://www.klchb.klcg.gov.tw/wSite/public/Attachment/01207/f1674011260718.pdf) — 2022년 공식 검사 PDF, 2페이지에 땅콩 비프(花生粩) 아플라톡신 검사 및 규정 일치 결과 나열, 명절 식품의 안전 거버넌스 제시.
 
-[^8]: [Wikimedia Commons: Taiwanese sweets (1088069273).jpg](<https://commons.wikimedia.org/wiki/File:Taiwanese_sweets_(1088069273).jpg>) — 저자는 pelican, 이미지 라이선스는 CC BY-SA 2.0. 본문은 Wikimedia Commons 원본 핫링크 주소를 사용하며, 다운로드하거나 수정하지 않음.
+[^8]: [Wikimedia Commons: Taiwanese sweets (1088069273).jpg](https://commons.wikimedia.org/wiki/File:Taiwanese_sweets_(1088069273) — 저자는 pelican, 이미지 라이선스는 CC BY-SA 2.0. 본문은 Wikimedia Commons 원본 핫링크 주소를 사용하며, 다운로드하거나 수정하지 않음.
 
 [^9]: [Wikimedia Commons: 2010-02-13 Lunar New Year sweets vendor at Dihua Street, Taipei](https://commons.wikimedia.org/wiki/File:2010-02-13_Lunar_New_Year_sweets_vendor_at_Dihua_Street,_Taipei.jpg) — 2010년 타이베이 디화가(迪化街) 설날 캔디 노점 사진, 저자는 eazytraveler, 라이선스는 CC BY 2.0, 본문은 원본 핫링크 주소 사용.
 

@@ -266,7 +266,7 @@ difficulty: 'intermediate'
 
 [^2]: 원주민위원회, 「원주민 언어 사용 현황 조사 보고서」, 2021, https://www.cip.gov.tw/zh-tw/news/data-list/C30C260FE2AC91E5/index.html; 아미족 등록 인구 약 21만 명이나, 유창하게 부족 언어를 사용하는 인구는 이 수치보다 훨씬 낮음
 
-[^3]: 황선범(黃宣範), 「언어, 사회와 집단 의식」, 삼민서국(三民書局)
+[^3]: 황선범(黃宣範), 「언어, 사회와 집단 의식」, 삼민서국(三民書局) [《語言、社會與族群意識》](https://www.sanmin.com.tw/product/index/000219830)
 
 [^4]: 이임계(李壬癸), 「대만 남도어족의 집단과 이주」, https://www.books.com.tw/products/0010493437
 
