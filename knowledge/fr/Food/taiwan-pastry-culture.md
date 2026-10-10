@@ -2,8 +2,7 @@
 title: 'La culture des pâtisseries de Taïwan'
 description: "De la pâtisserie « œil de phénix » de Yuzhenzhai à Lukang en 1877 aux pâtisseries au jaune d'œuf « Red Soil » de Chen Yaoxun, vendues en 30 secondes via le système de billetterie Tixcraft en 2026, 150 ans d'histoires stratifiées de la pâtisserie taïwanaise. Entre les deux : la révolution du carré d'ananas de Yifutang sous l'ère japonaise, l'expérience de l'olive en pâte feuilletée de Baoquan à Fengyuan, les 270 hectares de contrat de culture d'ananas locaux au pied du mont Bagua, la mutation technique de l'enveloppe de pâte feuilletée, et les centenaires pâtisseries han partageant la même table de la Fête de la Mi-Automne avec les champions du monde de la boulangerie."
 date: 2026-05-03
-category: Food
-subcategory: 烘焙與糕點
+category: 'Food'
 tags:
   [
     'pâtisserie',
@@ -16,15 +15,16 @@ tags:
     'pâte feuilletée',
     'culture alimentaire',
   ]
+subcategory: '烘焙與糕點'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-03
 lastHumanReview: false
 translatedFrom: 'Food/台灣糕餅文化.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:bdb405b92fc10596'
-sourceBodyHash: 'sha256:c6a86f733ba033b1'
-translatedAt: '2026-05-03T23:14:07+08:00'
+sourceCommitSha: '93c5da2ca'
+sourceContentHash: 'sha256:18a6dcd21c7afdcc'
+sourceBodyHash: 'sha256:736db188fea407ed'
+translatedAt: '2026-10-10T09:57:12.767863+00:00'
 ---
 
 # La culture des pâtisseries de Taïwan
@@ -109,19 +109,19 @@ La cérémonie du thé d'offrande devant le sanheyuan (cour traditionnelle) de N
 
 L'impact sur le plan agricole est encore plus concret. SunnyHills a fait grimper le prix de l'ananas local, passé de moins de 5 NT$ le jin à un prix contractuel de 10 NT$ le jin, pour une superficie de culture contractuelle de 270 hectares et 210 employés locaux[^4]. Ce chiffre n'est pas négligeable dans l'agro-industrie taïwanaise ; il a ramené une variété locale appartenant disparaître vers le marché grand public.
 
-## La bataille de la Mi-Automne vendue en 30 secondes
+## La bataille de la Mid-Autumn Festival vendue en 30 secondes
 
-Nous voici en 2017. Un jeune natif de Lukang nommé **Chen Yaoxun** a remporté le sixième Mondial du Pain, championnat du monde de boulangerie[^5]. Le Mondial du Pain est une compétition technique de boulangerie européenne organisée en France ; qu'un athlète asiatique remporte le titre est un fait rare.
+L'année est 2017. Un jeune homme de Lukang nommé Chen Yaoxun remporte le titre de champion du sixième Mondial du Pain[^5]. Le concours de pain européen, organisé par des Français, est une compétition où il est rare qu'un athlète asiatique gagne.
 
-En 2019, Chen Yaoxun est revenu à Taïwan et a créé sa propre marque de boulangerie : « **Chen Yaoxun · YOSHI BAKERY** »[^11]. Sa première action a été de fusionner les techniques de boulangerie européenne du champion du monde avec la pâte feuilletée au jaune d'œuf salé des gâteaux han taïwanais, pour développer un coffret de la Fête de la Mi-Automne baptisé « pâtisserie au jaune d'œuf Red Soil »[^10].
+De retour à Taïwan, Chen Yaoxun fonde sa marque de boulangerie personnelle, « 陳耀訓・麵包埠 YOSHI BAKERY »[^11]. Sa première action est d'associer la technique européenne du pain, gagnée au Mondial du Pain, avec la pâte traditionnelle taïwanaise des _hanbing_ (pâtisseries chinoises), pour développer une boîte cadeau de Mid-Autumn Festival appelée « 紅土鹹蛋黃蛋黃酥 »[^10].
 
-Jaune d'œuf salé mariné en terre rouge + haricot azuki réduit en sucre + beurre champion du Danemark.
+Des œufs de caille salés marinés dans la terre rouge + une farce aux haricots réduite en sucre + du beurre champion du Danemark.
 
-Cette combinaison a propulsé Chen Yaoxun dès la première année au rang de « Hermès de la pâtisserie au jaune d'œuf » — les stocks ont été épuisés en moins de 30 secondes après l'ouverture des ventes[^10]. Les internautes ont commencé à dire que c'était encore plus difficile à obtenir qu'un concert de Mayday. Pour la prévente de la Fête de la Mi-Automne 2025, les ventes ont été transférées directement sur le système de billetterie Tixcraft (le même système qui vend les concerts de Mayday et Jay Chou), ouverture le 29 juillet à 12h30, limite de 8 boîtes par personne, prix de vente 900 NT$, sans livraison, retrait obligatoire en boutique[^11].
+La première année que cette combinaison est mise sur le marché, Chen Yaoxun atteint le statut « Hermès des _danhuangsu_ » — les produits sont épuisés en moins de 30 secondes[^10]. Les internautes commencent à dire que c'est plus difficile à obtenir qu'un billet de concert. La prévente de Mid-Autumn Festival 2025 est, comme auparavant, lancée sur le système de billetterie Tuanyuan (le même système qui vend les concerts de Mayday et Jay Chou), le 29 juillet à midi et demi, avec une limite de 8 boîtes par personne. Le prix est fixé à NT$900, sans livraison, et la collecte doit se faire en magasin[^11].
 
-Voici le nouveau format de la bataille de la Mi-Automne pour une génération entière. Les anciennes pâtisseries comparent les recettes, le design des coffrets, les réseaux de distribution ; la nouvelle génération ajoute trois nouveaux champs de bataille : les systèmes de billetterie, les championnats du monde de boulangerie et le battage médiatique des réseaux sociaux.
+Ceci représente un nouveau format de bataille pour la Mid-Autumn Festival. Les anciennes boulangeries traditionnelles rivalisent sur les recettes, le design des coffrets et les canaux de distribution ; la nouvelle génération ajoute trois nouveaux champs de bataille : le système de billetterie, le titre de champion du Mondial du Pain et le _hype_ des réseaux sociaux.
 
-De la même génération que Chen Yaoxun, on trouve la pâtisserie à la taro d'A-Congshi à Dajia (désignée comme pâtisserie officielle des banquets d'État), la pâtisserie « œil de phénix » de Yuzhenzhai à Lukang, la petite lune de Chen Yun Baoquan à Fengyuan, la pâtisserie à l'ananas de SunnyHills, et le gelato aux gâteaux han de Jiu Zhen Nan[^12]. Ces maisons centenaires, ces artisans émergents, cette voie d'éducation culturelle, cette glace de collaboration — quatre types de pâtisseries représentant quatre postures générationnelles, qui chaque année dialoguent autour de la même table de la Mi-Automne.
+Au même âge que Chen Yaoxun, on trouve également les _itukousu_ (petits gâteaux à la patate douce) d'A-Congshi à Dajia (une pâtisserie désignée pour les banquets officiels), les _fengyanggao_ de Lukang Yuzhenzhai, les petits mois de Chen Yunbaoquan de Fengyuan, les _tonleisus_ d'Huernan Shanqiu, et le Gelato des _hanbing_ de Jiu Zhen Nan[^12]. Ces quatre types de pâtisseries — les anciennes maisons centenaires, les artisans émergents, la voie de l'éducation culturelle, la glace intersectorielle — dialoguent sur la même table chaque Mid-Autumn Festival.
 
 ## Les couches de garniture sont restées sensiblement les mêmes
 
@@ -144,48 +144,48 @@ Le temps contenu dans un gâteau est bien plus long que vous ne le pensez.
 
 ## Références
 
-[^1]: [Site officiel de Yuzhenzhai — À propos et historique](https://www.1877.com.tw/about-us/) — Site officiel de Yuzhenzhai, documentant la fondation en 1877 (troisième année du règne de Guangxu) par le riche marchand de Lukang Huang Jin, son association avec Zheng Chui pour ouvrir la pâtisserie Yuzhenzhai, ainsi que la séparation ultérieure où Zheng Chui fonda la pâtisserie Zheng Yuzhen.
+[^1]: [玉珍齋官網 — 關於玉珍齋與歷史沿革](https://www.1877.com.tw/about-us/) — Site officiel de Yuzhenzhai, décrivant l'histoire de la fondation de la pâtisserie Yuzhenzhai par le riche marchand Huang Jin à Lukang en 1877 (troisième année de Guangxu, dynastie Qing), sa collaboration avec Zheng Cui, et la séparation ultérieure où Zheng Cui a créé Zhendu Zhuzhen Bakery.
 
-[^2]: [Wikipédia : Gâteau soleil](https://zh.wikipedia.org/zh-tw/%E5%A4%AA%E9%99%BD%E9%A4%85) — Documente l'origine du gâteau soleil à partir du gâteau au malt de la pâtisserie Kunpai à Shenkang, fondée par la famille Lin Zhenfeng sous l'ère japonaise, perfectionné par l'apprenti Wei Qinghai (Maître A-Ming) puis baptisé « gâteau soleil », ainsi que l'évolution du marché après les années 1950 en tant que spécialité de Taichung.
+[^2]: [維基百科：太陽餅](https://zh.wikipedia.org/zh-tw/%E5%A4%AA%E9%99%BD%E9%A4%85) — Décrit le contexte historique du Taizangbing (Mooncake Soleil) : il est originaire de Makya Bing (gâteau à malt) de la maison Kun à Shengang, Taichung ; il a été fondé par la famille Lin Zhenfang pendant la période japonaise ; il a été amélioré par l'apprenti Wei Qinghai (Maître Ah Ming) et nommé « Taizangbing » ; et son évolution en spécialité locale de Taichung après les années 1950.
 
-[^3]: [Wikipédia : Baoquan](https://zh.wikipedia.org/zh-tw/%E5%AE%9D%E6%B3%89) — Documente l'histoire des quatre générations de la pâtisserie Baoquan à Fengyuan, depuis la première génération Chen Yun sous l'ère japonaise, la deuxième génération Chen Jinquan ouvrant la pâtisserie Honpon Baoquan à Tokyo en 1943, jusqu'à la troisième génération Chen Zengxiong fondant le siège taïwanais de Baoquan en 1975 et développant la pâtisserie au jaune d'œuf.
+[^3]: [維基百科：寶泉](https://zh.wikipedia.org/zh-tw/%E5%AE%9D%E6%B3%89) — Décrit l'histoire de la lignée Baoquan : le premier Chen Yun à Fengyuan pendant la période japonaise ; le deuxième Chen Jinquan qui a ouvert la boutique de confection Baoquan à Tokyo en 1943 ; et le troisième Chen Zengxiong qui a fondé la boutique principale Taiwan Baoquan en 1975, développant les Egg Yolk Pastries (Dànhuángsū).
 
-[^4]: [Taiwan Panorama : Entretien avec SunnyHills](https://www.taiwan-panorama.com/Articles/Details?Guid=59960b88-840d-45d4-943e-4c5a3606e228) — Documente la fondation de SunnyHills en 2009 par Xu Mingren et trois autres investisseurs avec un capital de 80 millions NT$, l'utilisation des variétés d'ananas locaux Kaiping n°2 et n°3 en culture contractuelle, l'augmentation du prix contractuel de moins de 5 NT$ à 10 NT$ le jin, la superficie contractuelle de 270 hectares et les 210 employés locaux.
+[^4]: [台灣光華雜誌：微熱山丘專訪](https://www.taiwan-panorama.com/Articles/Details?Guid=59960b88-840d-45d4-943e-4c5a3606e228) — Décrit les détails de l'exploitation de Weire Shanqiu en 2009, fondée par Xu Mingren et quatre autres avec un capital de 80 millions TWD, utilisant des ananas locaux (type Kaiying No. 2/3), faisant passer le prix du produit d'un peu moins de 5 NTD par jin à 10 NTD, couvrant une surface de 270 hectares et employant 210 employés locaux.
 
-[^5]: [Supertaste : Reportage sur Chen Yaoxun et sa pâtisserie au jaune d'œuf](https://supertaste.tvbs.com.tw/food/355752) — Reporte sur Chen Yaoxun, originaire de Lukang, remportant le Mondial du Pain en 2017, fondant Chen Yaoxun · YOSHI BAKERY en 2019, et sa pâtisserie au jaune d'œuf Red Soil étant surnommée « l'Hermès de la pâtisserie au jaune d'œuf ».
+[^5]: [Supertaste：陳耀訓蛋黃酥報導](https://supertaste.tvbs.com.tw/food/355752) — Raconte la montée en puissance du Red Soil Salted Egg Yolk Pastry (Dànhuángsū) de Chen Yaoxun, originaire de Lukang, qui a remporté le Mondial du Pain en 2017, fondé YOSHI BAKERY par Chen Yaoxun en 2019, et comment il est devenu un produit emblématique ('Hermès du monde des Dànhuángsū').
 
-[^6]: [Yuzhenzhai à Lukang et sa mezzanine centenaire](https://www.bigfang.tw/blog/post/lukang-1877) — Le bâtiment de Yuzhenzhai au 168, rue Minzu est l'ancien siège de « Quanheli », la plus grande maison de transit maritime de Lukang sous la dynastie Qing, comprenant une étude architecturale de la mezzanine centenaire et des lucarnes, ainsi que le contexte commercial des huit guildes marchandes de Lukang sous la dynastie Qing.
+[^6]: [鹿港玉珍齋與百年閣樓](https://www.bigfang.tw/blog/post/lukang-1877) — Fournit une étude de cas sur le bâtiment de Yuzhenzhai à Lukang, qui était autrefois la plus grande agence maritime 'Quanhuali' de Lukang pendant la dynastie Qing, incluant l'arrière-plan architectural du pavillon centenaire et des fenêtres en verre, ainsi que le contexte commercial des huit environs de Lukang pendant la dynastie Qing.
 
-[^7]: [Wikipédia : Pâtisserie à l'ananas](https://zh.wikipedia.org/zh-tw/%E9%B3%B3%E6%A2%A8%E9%85%A5) — Documente le grand gâteau d'ananas rond fabriqué par Chen Zhoucai de la confiserie Yifutang sous l'ère japonaise, puis sa réduction en forme de carré et le passage à une pâte cookie au beurre par Yan Shumu.
+[^7]: [維基百科：鳳梨酥](https://zh.wikipedia.org/zh-tw/%E9%B3%B3%E6%A2%A8%E9%85%A5) — Décrit les grands gâteaux d'ananas ronds fabriqués par Chen Zhoucai à la pâtisserie Yifu Tang pendant la période japonaise, et l'évolution ultérieure où Yan Shumu les a réduits en forme carrée et utilisé une pâte de biscuit au beurre.
 
-[^8]: [Patrimoine culturel de Taichung : Technique de la pâtisserie à l'ananas](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Invisible&id=2195556) — Données sur la technique de la pâtisserie à l'ananas compilées par le Bureau de la culture de Taichung, incluant la consommation annuelle d'environ 5 000 tonnes d'ananas pour la garniture et les détails de la technique traditionnelle d'harmonisation aigre-doux avec de l'ananas local et de la confiture de courge d'hiver.
+[^8]: [台中市文化資產：鳳梨酥工藝](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Invisible&id=2195556) — Les données sur le savoir-faire des gâteaux d'ananas compilées par le Bureau de la Culture de Taichung, détaillant l'utilisation annuelle d'environ 5000 tonnes d'ananas en garniture et les techniques traditionnelles utilisant des ananas locaux avec une sauce à base de courge pour un goût aigre-doux.
 
-[^9]: [VERSE : La technique de la pâtisserie au jaune d'œuf](https://www.wowlavie.com/article/ae2101192) — Le maître national Lü Hongyu se souvient que la pâtisserie au jaune d'œuf est née vers les années 1960, était initialement en forme d'olive avec une peau de ananas, puis a évolué vers la forme ronde en pâte feuilletée, ainsi que les détails techniques du trempage du jaune d'œuf salé dans l'alcool et de la cuisson lente du haricot azuki noir.
+[^9]: [VERSE：蛋黃酥的工藝](https://www.wowlavie.com/article/ae2101192) — Le maître national Lu Hongyu se souvient que le Dànhuángsū est originaire des années 1960, commençant par une pâte d'ananas en forme d'olive avant d'évoluer vers une pâte feuilletée sphérique ; il décrit également les techniques de dégraissage des œufs de caille avec de l'alcool et la cuisson lente du haricot mungo.
 
-[^10]: [104 Workplace : La technique de la pâtisserie au jaune d'œuf de Chen Yaoxun](https://blog.104.com.tw/yoshi-bakery-yolk-pastry/) — Reporte sur la pâtisserie au jaune d'œuf Red Soil de Chen Yaoxun · YOSHI BAKERY utilisant du jaune d'œuf salé mariné en terre rouge, du haricot azuki réduit en sucre et du beurre champion du Danemark, ainsi que l'intégration des techniques de boulangerie européenne dans les gâteaux han.
+[^10]: [104 職場：陳耀訓蛋黃酥工藝](https://blog.104.com.tw/yoshi-bakery-yolk-pastry/) — Raconte comment le Red Soil Salted Egg Yolk Pastry (Dànhuángsū) de Chen Yaoxun utilise des œufs de caille salés marinés dans la terre rouge, une pâte de haricot mungo à faible teneur en glucides et du beurre de champion français, ainsi que sa conception de processus qui intègre les techniques de boulangerie occidentale dans les pâtisseries chinoises.
 
-[^11]: [Site officiel de Chen Yaoxun · YOSHI BAKERY](https://www.chenyunpaochuan.com.tw/) — Site officiel de Chen Yaoxun · YOSHI BAKERY, spécifications de vente pour la prévente de la Fête de la Mi-Automne 2025 via le système de billetterie Tixcraft, ouverture le 29 juillet à 12h30, boîte de 8 pièces à 900 NT$, retrait en boutique uniquement sans livraison.
+[^11]: [陳耀訓蛋黃酥7/29開賣！4大名店預購整理 - NOWnews 今日新聞](https://www.nownews.com/news/6711245) — Reportage du 25 juillet 2025 : La prévente de Chen Yaoxun Bakery (située à Dunhua North Road, Songshan District, Taipei) pour la fête de la mi-automne commencera le 29 juillet à 12h30, via le système de billetterie Tuoyuan comme auparavant. Le prix est de 900 NTD pour 8 pièces par boîte, limité à 8 boîtes par personne, et la collecte se fait en magasin sans livraison.
 
-[^12]: [Musée de la culture pâtissière d'A-Congshi à Dajia](https://www.o-nongs.com.tw/) — Données officielles sur la pâtisserie créative à la taro d'A-Congshi à Dajia, documentant son histoire en tant que pâtisserie officielle des banquets d'État et la transmission de la technique de la pâtisserie à la taro.
+[^12]: [大甲阿聰師糕餅文化館](https://www.o-nongs.com.tw/) — Les données officielles sur le Taro Pastry de Maître Acung à Dajia, décrivant son histoire en tant que mets désigné pour les banquets d'État et la transmission du savoir-faire des pâtisseries au taro.
 
-[^13]: [Wikipédia : Pâtisserie au jaune d'œuf](https://zh.wikipedia.org/zh-tw/%E8%9B%8B%E9%BB%83%E9%85%A5) — Documente les informations sur Chen Zengxiong, inventeur de la pâtisserie au jaune d'œuf selon le _Baking Food Information Magazine_ d'août 1986, ainsi que les paramètres techniques standard du haricot azuki, du jaune d'œuf de canard salé et de la pâte feuilletée.
+[^13]: [維基百科：蛋黃酥](https://zh.wikipedia.org/zh-tw/%E8%9B%8B%E9%BB%83%E9%85%A5) — Décrit le Dr. Chen Zengxiong, inventeur du Dànhuángsū selon le magazine 'Baking Food Information' en août 1986, et les paramètres de processus standard pour la pâte de haricot rouge, les œufs de caille salés et la pâte feuilletée.
 
-[^14]: [Wikipédia : Pâtisserie de haricot mungo](https://zh.wikipedia.org/zh-tw/%E7%B6%A0%E8%B1%86%E6%A4%AA) — Aussi appelée « gâteau bombé de haricot mungo » ou « gâteau de lune taïwanais », originaire de Fengyuan et perfectionnée sous l'ère japonaise, garniture contenant du haricot mungo, du saindoux, de l'oignon rouge et du porc, saveur salée-douce, et rôle important dans les gâteaux de mariage taïwanais.
+[^14]: [維基百科：綠豆椪](https://zh.wikipedia.org/zh-tw/%E7%B6%A0%E8%B1%86%E6%A4%AA) — Également connu sous le nom de 'Green Bean Dome' ou 'Mooncake Taïwanais', il est originaire des améliorations faites à Fengyuan pendant la période japonaise. Sa garniture a un goût salé-sucré avec du haricot mungo, de la graisse de porc, des oignons rouges et de la viande de porc, et joue un rôle important dans les gâteaux de mariage à Taïwan.
 
-[^15]: [Site officiel de Chen Yun Baoquan](https://www.chenyunpaochuan.com.tw/) — Site officiel du siège de Chen Yun Baoquan à Fengyuan, documentant le changement de nom de « Baoquan » à « Chen Yun Baoquan » en 2013 et le parcours de formation au Japon de la quatrième génération Chen Kunhong.
+[^15]: [陳允寶泉本店官網](https://www.chenyunpaochuan.com.tw/) — Le site officiel de Chen Yun Baoquan Bakery à Fengyuan, documentant le changement de nom de 'Baoquan' à 'Chen Yun Baoquan' en 2013 et la transmission familiale où le quatrième génération, Chen Kunhong, a poursuivi ses études au Japon.
 
-[^16]: [Musée de la culture des gâteaux han de Jiu Zhen Nan](https://www.jzn.com.tw/tw/architecture) — Site officiel de Jiu Zhen Nan, documentant le musée de la culture des gâteaux han fondé à Daliao, Kaohsiung en 2016 : bâtiment de trois étages de 4 421 mètres carrés réunissant le siège de la marque, un musée, une cuisine pâtissière et un espace d'expérience culturelle de la boulangerie.
+[^16]: [舊振南漢餅文化館](https://www.jzn.com.tw/tw/architecture) — Le site officiel de Jiu Zhennan, décrivant l'établissement du centre culturel des pâtisseries chinoises à Daliao, Kaohsiung en 2016 : un bâtiment de trois étages de 4 421 mètres carrés qui rassemble le siège de la marque, le musée narratif, la cuisine des pâtisseries et l'espace d'expérience culturelle de la boulangerie.
 
-[^17]: [Jiu Zhen Nan : L'art de la pâte feuilletée](https://www.facebook.com/jznpastryhouse/posts/1468951346624149/) — Publication éducative officielle de Jiu Zhen Nan, illustrant le principe de la structure multicouche de l'enveloppe extérieure enveloppant le beurre de feuilletage : pâte de farine de force pour l'enveloppe, farine faible mélangée au beurre de feuilletage, pliage et étalage répétés formant des centaines de couches fines.
+[^17]: [舊振南：油酥皮的學問](https://www.facebook.com/jznpastryhouse/posts/1468951346624149/) — Une publication scientifique officielle de Jiu Zhennan illustrant le principe de structure en mille couches de l'enrobage feuilleté (yóupí bāo yóusū) : la pâte à pain avec farine moyenne est mélangée au beurre, et la pâte à faible teneur en gluten est mélangée au beurre pour former une structure délicate de centaines ou de milliers de couches par pliage et laminage.
 
-[^18]: [ETtoday : Les 6 saveurs du gelato aux gâteaux han de Jiu Zhen Nan](https://travel.ettoday.net/article/3147149.htm) — Reporte sur le lancement en avril 2026 par Jiu Zhen Nan du « gelato aux gâteaux han » unique à Taïwan, 4 saveurs permanentes (« Jour radieux », « Classique de la rencontre », « Beau moment de baies », « Parfum de thé ») plus 2 éditions saisonnières (« Prunier fleuri », « Calme de citron et de dattes »).
+[^18]: [ETtoday：舊振南漢餅 Gelato 6 口味](https://travel.ettoday.net/article/3147149.htm) — Raconte le lancement, par Jiu Zhennan en avril 2026, d'une gamme de six parfums de 'Gelato Pâtisserie Chinoise' unique à Taïwan (Fenghe Rirei, Pongjian Classic, Liangchen Meijing, Cha Yu Huaxiang) + deux éditions limitées saisonnières (Xixing Meishao, Ningjing Zaochen), une conception de produit interculturelle.
 
-[^19]: [Economic Daily News : Expansion de 20 boutiques Jiu Zhen Nan](https://money.udn.com/money/story/5635/9446485) — Reporte sur le plan d'expansion de 20 boutiques à travers Taïwan lancé par Jiu Zhen Nan en 2026, avec un lancement initial au centre commercial Taichung Han-Shen Intercontinental et une deuxième phase prévue au Far Eastern Garden City de Taipei (SOGO Big Dome).
+[^19]: [經濟日報：舊振南 20 家門市擴張](https://money.udn.com/money/story/5635/9446485) — Raconte le plan d'expansion de Jiu Zhennan à 20 succursales dans toute la province en 2026, avec l'ouverture initiale au Grand Centre Commercial Hanshin Zhoushi à Taichung, et la planification pour le Far Eastern Garden City (SOGO Mega Mall) à Taipei au deuxième trimestre.
 
-[^20]: [Page média officielle de Suntong Han Guozi](https://www.suntone.com.tw/pages/babyou) — Explication officielle par Suntong Han Guozi de la recette réduite en sucre et du parcours de développement technique de la pâtisserie au cœur coulant : technique traditionnelle de pâte feuilletée combinée à une garniture liquide moderne, créant des gâteaux han légers.
+[^20]: [三統漢菓子官方媒體頁](https://www.suntone.com.tw/pages/babyou) — La page médiatique officielle de Santong Hanxia explique l'évolution technologique du gâteau à cœur coulant, combinant le savoir-faire traditionnel des pâtes feuilletées avec une garniture liquide moderne pour créer des pâtisseries chinoises légères.
 
-[^21]: [Business Next : Suntong Han Guozi vend 400 000 unités par jour](https://www.bnext.com.tw/article/77855/shopline_202312) — Reporte sur le chiffre d'affaires quotidien de Suntong Han Guozi tombé à 2 000 NT$ par boutique pendant la pandémie de COVID-19, la directrice marketing Zhou Shiya promouvant la création d'un site officiel via SHOPLINE et le déploiement en e-commerce, la pâtisserie au cœur coulant établissant un record d'une boîte vendue toutes les 17 secondes, 400 000 unités vendues en un jour, et un chiffre d'affaires dépassant les 100 millions NT$ en trois ans.
+[^21]: [數位時代：三統漢菓子日銷 40 萬顆](https://www.bnext.com.tw/article/77855/shopline_202312) — Raconte l'histoire de la transformation de Santong Hanxia : pendant la pandémie de COVID-19, le chiffre d'affaires quotidien d'une boutique n'était que de 2000 TWD. Le directeur marketing Zhou Shiya a promu un site web et une présence e-commerce sur SHOPLINE, faisant vendre en moyenne 1 boîte toutes les 17 secondes, atteignant 400 000 pièces par jour et un revenu d'un cent million en trois ans.
 
-[^22]: [Business Next : Entretien avec Guo Jianwei](https://fc.bnext.com.tw/articles/view/2474) — Reporte sur la cinquième génération de Kuo Yuan Ye, Guo Jianwei, entrée dans l'entreprise familiale en 2009, désignée comme successeur en 2016, étudiant au Japon pendant près de trois ans et visitant de nombreuses maisons centenaires de wagashi, puis réorientant la stratégie à son retour de Taïwan, passant du marché des gâteaux de mariage aux fêtes et cadeaux de voyage.
+[^22]: [數位時代：郭建偉專訪](https://fc.bnext.com.tw/articles/view/2474) — Raconte le parcours de Guo Jianwei, la cinquième génération de la famille Guo Yuanyi : son entrée dans l'entreprise familiale en 2009, sa désignation comme successeur en 2016, ses trois années d'études au Japon visitant des anciennes boutiques de wagashi, et sa transition du marché des gâteaux de mariage vers les fêtes et les cadeaux souvenirs après son retour à Taïwan.
 
-[^23]: [Persona Media : Guo Jianwei et la pâtisserie de haricot mungo en collaboration avec Nie Yongzhen](https://www.persona-media.com/6596/kuo-yuan-ye-foods-co) — Entretien-portrait avec Guo Jianwei, successeur de la cinquième génération de Kuo Yuan Ye, documentant sa collaboration avec le designer Nie Yongzhen pour développer la collection « Moments d'accompagnement » de pâtisseries de haricot mungo, dépassant les limites du moulage unilatéral et de la saveur unique, ainsi que l'expérience de design donnant aux pâtisseries de haricot mungo les formes de monuments emblématiques tels que le Pirolle de Taïwan et le temple Longshan.
+[^23]: [Persona Media：郭建偉與聶永真聯名綠豆糕](https://www.persona-media.com/6596/kuo-yuan-ye-foods-co) — Un portrait de Guo Jianwei, le successeur de la cinquième génération de Guo Yuanyi, documentant son développement avec le designer Nie Yongzhen du Green Bean Cake 'Ban Dian Shi Guang', brisant les limites de l'estampage unidimensionnel et des goûts uniques, et ses expériences de conception où la forme du gâteau mungo a été réalisée en tant que repère local comme le Blue Magpie ou le Temple Longshan.
