@@ -113,6 +113,11 @@ def check_fleet() -> dict:
 # 不對」，而那種債會落地成讀者看到的內容且不會有人回報。
 POOL_WHITELIST_HINT = "nemotron-3-ultra-550b / gemma4:26b 以上 / gpt-oss-120b / qwen3.6:35b"
 _POOL_MIN_PARAMS_B = 26.0
+# 白名單上明寫名字的地端模型（與 fleet `_BATCH_MODEL_PROFILES["babel"]` 同一份名單）。
+# 參數量門檻是給「名字看不出級別」的模型用的；名單上點名的模型以名字為準——
+# gemma4:26b 實測 25.2B，2026-10-11 之前每晚被這支印成「低於白名單級別」，
+# 而 fleet 照名單核發它，兩把尺對同一個模型給相反答案（REFLEXES #83）。
+_POOL_NAMED = ("gemma4:31b", "gemma4:26b", "qwen3.6:35b", "gpt-oss:120b")
 
 
 def _model_params_b(host: str, model: str) -> float | None:
@@ -135,6 +140,21 @@ def _model_params_b(host: str, model: str) -> float | None:
     return float(m.group(1)) if m else None
 
 
+def _fleet_issued_models() -> set[str] | None:
+    """fleet 用 `--profile babel` 實際核發的地端模型；問不到回 None（不謊報）。"""
+    fleetctl = Path.home() / "Projects/muse-bot/fleet/fleetctl"
+    if not fleetctl.exists():
+        return None
+    try:
+        r = subprocess.run([str(fleetctl), "workers", "--service", "llm", "--profile", "babel",
+                            "--format", "babel"], capture_output=True, text=True, timeout=30)
+    except Exception:
+        return None
+    if r.returncode != 0:
+        return None
+    return set(re.findall(r"=ollama:([^@\s]+)@", r.stdout))
+
+
 def check_pool_eligibility(ollama_report: dict) -> dict:
     """地端模型級別對白名單。2026-09-23 誕生：fleet 有一道 `--profile babel`
     的核發閘（無合格模型就回 0 個 worker，讓地端 lane 停而不是降級），但產線
@@ -146,9 +166,16 @@ def check_pool_eligibility(ollama_report: dict) -> dict:
     host = ollama_report["host"]
     below = []
     for model in ollama_report.get("models", []):
+        if any(model == n or model.startswith(n + "-") for n in _POOL_NAMED):
+            continue
         params = _model_params_b(host, model)
         if params is not None and params < _POOL_MIN_PARAMS_B:
             below.append({"model": model, "params_b": params})
+    # 裝著不等於在派工：wrapper 走 `--profile babel` 之後，名單外模型只是留在 ollama 裡，
+    # 只有被 fleet 核發出去的才是產線上的問題。
+    issued = _fleet_issued_models()
+    for b in below:
+        b["issued"] = None if issued is None else (b["model"] in issued)
     return {"checked": True, "below_threshold": below,
             "whitelist": POOL_WHITELIST_HINT,
             "note": "fleet 的 `--profile babel` 會擋下這些；`--format babel` 不會"}
@@ -339,12 +366,18 @@ def main():
             print(f"   ✅ 本機 ollama {ol['count']} 個可翻譯模型 @ {ol['host']}")
             print(f"      {', '.join(ol['models'])}")
         pe = report["pool_eligibility"]
-        if pe.get("below_threshold"):
-            names = "、".join(f"{b['model']}（{b['params_b']}B）"
-                              for b in pe["below_threshold"])
+        live = [b for b in pe.get("below_threshold", []) if b.get("issued") is not False]
+        idle = [b for b in pe.get("below_threshold", []) if b.get("issued") is False]
+        if live:
+            names = "、".join(f"{b['model']}（{b['params_b']}B"
+                              + ("，fleet 核發中" if b.get("issued") else "，核發狀態查不到")
+                              + "）" for b in live)
             print(f"   🔴 入池門檻  地端模型低於白名單級別：{names}")
             print(f"      白名單：{pe['whitelist']}（SQUEEZE §入池門檻，哲宇 2026-07-26）")
             print(f"      {pe['note']}——降級換來的產能是負債不是資產")
+        if idle:
+            names = "、".join(f"{b['model']}（{b['params_b']}B）" for b in idle)
+            print(f"   ℹ️ 入池門檻  名單外模型仍裝在本機、fleet 沒有核發：{names}")
         # 原本這個 else 接在 below_threshold 上：地端模型全在白名單時會對一台
         # ollama 健康的機器印「❌ 本機 ollama」（2026-09-27 一併改正）
         if not ol.get("available"):
