@@ -159,6 +159,6 @@ _画像出典：[Zhengbin Fishing Port, Keelung, Taiwan 2019](https://commons.wi
 
 ## 延伸閲讀
 
-- [台灣漁業起源](/history/台灣漁業起源) — 同じ海の前半：日治水産試験、魚市場、戦後技術接収
+- [台灣漁業起源](/ja/history/taiwan-fishery-origins) — 同じ海の前半：日治水産試験、魚市場、戦後技術接収
 - [台灣海洋貿易史](/ja/history/taiwan-maritime-trade-history)
 - [台灣糖業史](/history/台灣糖業史)

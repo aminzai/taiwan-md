@@ -145,7 +145,7 @@ PChomeのページでは12時ちょうどにローディングが始まり、回
 
 - [台湾ゲーム産業とデジタルエンターテインメント](/ja/technology/taiwan-gaming-industry) — 代理からオリジナルへ、台湾ゲームの全体像
 - [台湾のコンビニ文化](/ja/lifestyle/convenience-store-culture) — 物流車を追いかける前提となる、世界第2位のコンビニ密度
-- [台湾ネットコミュニティの移転史](/technology/台灣網路社群遷徙史) — これらの狂気の瞬間を支えた情報伝達のインフラ
+- [台湾ネットコミュニティの移転史](/ja/technology/taiwan-online-community-migration) — これらの狂気の瞬間を支えた情報伝達のインフラ
 - [大宇ダブルソード](/ja/technology/softstar-twin-classics) — 一世代前の台湾プレイヤーの感情の原点
 - [ダンジョンに入らずして眠れるか](/ja/technology/into-the-cellar-taiwan-game-podcast) — これらの狂気の瞬間が繰り広げられたSNSプラットフォームの舞台
 

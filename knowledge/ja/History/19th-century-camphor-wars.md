@@ -141,7 +141,7 @@ translatedAt: '2026-08-05T06:07:21+08:00'
 - [台湾森林開発史](/ja/history/taiwan-forestry-history) — 樟樹から檜木へ、台湾山林が開発された完全な脈絡
 - [阿里山：帝国の林場と高一生の山](/ja/history/alishan-empire-forest-and-uongu-yatauyungana) — 林業収奪が如何に日本統治時代の阿里山と戦後白色テロへ延伸したか
 - [国立台湾歴史博物館](/ja/society/national-museum-of-taiwan-history) — スウィンホー1864年〈Formosa Camphor〉等、樟脳戦争一級史料を蔵する国家級三級機関（NMTH蔵網UUIDシステム、政府資料開放授権条項第1版にて公開）
-- [台湾行道樹](/lifestyle/台灣行道樹) — 同じ樟樹、山ではかつて世界が争奪した原料、街路ではただ日陰を作るだけ：南投集集緑色トンネル両側に植えられているのもまたこれ
+- [台湾行道樹](/ja/lifestyle/taiwan-street-trees) — 同じ樟樹、山ではかつて世界が争奪した原料、街路ではただ日陰を作るだけ：南投集集緑色トンネル両側に植えられているのもまたこれ
 
 ---
 

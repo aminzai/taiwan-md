@@ -120,9 +120,9 @@ translatedAt: '2026-09-10T08:49:59.325490+00:00'
 
 ## 延伸閱讀
 
-- [台湾婦女運動史](/society/婦女新知) — 制度統制から公共的発声へと向かったもう一つの社会史
-- [台湾郵政史](/lifestyle/台灣郵政) — 通信インフラがいかにローカルの日常へ入り込んだか
-- [台湾農会史](/history/台灣農會史) — 農村組織・金融・ローカルな公共窓口の制度史
+- [台湾婦女運動史](/ja/society/awakening-foundation) — 制度統制から公共的発声へと向かったもう一つの社会史
+- [台湾郵政史](/ja/lifestyle/taiwan-postal-service-history) — 通信インフラがいかにローカルの日常へ入り込んだか
+- [台湾農会史](/ja/history/taiwan-farmers-association-history) — 農村組織・金融・ローカルな公共窓口の制度史
 
 ## 參考資料
 

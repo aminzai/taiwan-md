@@ -102,7 +102,7 @@ VTuber文化は伝統的なアニメ文化と深く結びついています。VT
 ## 関連記事
 
 - [台湾漫画](/art/台湾漫画) —— 漫画創作側：鄭問、蔡志忠、劉興欽、敖幼祥、CCC創作集の完全な系譜
-- [台湾網路社群遷徙史](/technology/台灣網路社群遷徙史) —— アニメファンのBBS、無名小站、Facebook、Discordへの移行の軌跡
+- [台湾網路社群遷徙史](/ja/technology/taiwan-online-community-migration) —— アニメファンのBBS、無名小站、Facebook、Discordへの移行の軌跡
 - [Threads在台灣](/ja/technology/threads-in-taiwan) —— 二次元コミュニティの新プラットフォームでの集合パターン
 
 ## 参考資料

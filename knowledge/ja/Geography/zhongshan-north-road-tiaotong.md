@@ -209,7 +209,7 @@ _円山大飯店、2012年3月11日。写真：lienyuan lee. CC BY 3.0 via Wikim
 - [西門町：日本人 1896 蓋的娛樂街，130 年後還是台北最年輕的街](/ja/geography/ximending) — 同 batch 1 歷史街區 sibling，跟條通同為日治規劃的城外娛樂區，但走完全不同的次文化路線
 - [台灣茶道與生活美學](/ja/culture/taiwan-tea-ceremony-and-aesthetic-living) — 條通文化中的日式美學跟戰後台灣茶道復興運動的相互影響
 - [二二八事件](/ja/history/228-incident) — 1947 年 2 月 28 日下午 1 時群眾遊行至中山路口被衛兵機槍掃射，中山堂同日召開緊急會議成為事件處理委員會駐地
-- [台灣行道樹](/lifestyle/台灣行道樹) — 「寬路配整排樹」的殖民規劃邏輯，如何從 1898 年田代安定的植樹論一路用到條通的前身敕使街道
+- [台灣行道樹](/ja/lifestyle/taiwan-street-trees) — 「寬路配整排樹」的殖民規劃邏輯，如何從 1898 年田代安定的植樹論一路用到條通的前身敕使街道
 - [北投溫泉街](/ja/geography/beitou-hot-spring-street) — 1979 北投廢娼 vs 1997 全市公娼廢止，跟林森北路條通文化是台北戰後特種行業地景的兩個分流
 
 ## 画像出典

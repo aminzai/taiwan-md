@@ -151,8 +151,8 @@ Focus Taiwanの報道によると、台湾政府が寄付を約束した自動�
 
 ## 関連資料
 
-- [台湾の機械工具産業](/economy/台灣機械工具產業) — 台湾精密機械集積地の産業的背景について。
-- [台湾の産業転換とアップグレード](/economy/台灣產業轉型升級) — 危機後に製造業が直面する変革の問題について。
+- [台湾の機械工具産業](/ja/economy/taiwan-machine-tool-industry) — 台湾精密機械集積地の産業的背景について。
+- [台湾の産業転換とアップグレード](/ja/economy/industrial-transformation-from-manufacturing-to-innovation) — 危機後に製造業が直面する変革の問題について。
 
 ## 参考資料
 

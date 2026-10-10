@@ -245,11 +245,11 @@ AI偽医師事件に対し、衛福部は多層的な対応を計画している
 - [Threads在台灣](/ja/technology/threads-in-taiwan) — 台湾のコミュニティ移行史と情報戦場のプラットフォーム構造
 - [迷音 Miin](/ja/technology/miin-music-app) — 杜奕瑾氏と台湾人工知能実験室が運営する偽情報対抗プラットフォーム。AIで協同操作アカウントを検出（逐則検証ではない）
 - [開放文化基金會](/ja/technology/open-culture-foundation) — Cofacts検証ボットをホストし、台湾のネットフリーダムを見守るバックエンド組織
-- [台灣網路社群遷徙史](/technology/台灣網路社群遷徙史) — PTT、Dcard、Threadsなどのプラットフォームが認知戦で果たす役割を理解する
+- [台灣網路社群遷徙史](/ja/technology/taiwan-online-community-migration) — PTT、Dcard、Threadsなどのプラットフォームが認知戦で果たす役割を理解する
 - [台灣媒體與新聞自由](/ja/society/media-and-press-freedom-in-taiwan) — 新聞生態と認知戦のプラットフォーム責任
 - [沈伯洋](/ja/people/puma-shen) — 認知戦の主要研究者の一人。2025年に中国によって「国家分裂罪」で立件された初の台湾民選政治人物
 - [黒熊学院](/ja/society/kuma-academy-civil-defense-school) — 認知戦の識別を民防基礎營へ組み込む民間組織。一般民众が偽情報や心理戦の中で判断力を維持するよう教える
-- [毒馬鈴薯：200 ppm 之外，還有 30 ppm、14 天、與 15 年的食安傷疤](/society/毒馬鈴薯認知作戰) — 2026年4月国台弁の「投名状」ナラティブが、2011年塑化剤以来の15年間の食安の傷疤をどのように精密に突くかの解剖
+- [毒馬鈴薯：200 ppm 之外，還有 30 ppm、14 天、與 15 年的食安傷疤](/ja/society/poisoned-potato-cognitive-warfare-taiwan) — 2026年4月国台弁の「投名状」ナラティブが、2011年塑化剤以来の15年間の食安の傷疤をどのように精密に突くかの解剖
 - [台灣與史瓦帝尼](/ja/society/taiwan-eswatini-relations) — 中国の「rat」「偷渡式外竄」「国際笑柄」などの言語操作の具体的场景。頼清徳氏2026年5月訪史時の反応
 - [巴拉圭與台灣](/ja/society/paraguay-taiwan) — 中国市場の誘惑と政治的拉攏の下、台湾が南米唯一の邦交をどのように長期協力によって支えるか
 
