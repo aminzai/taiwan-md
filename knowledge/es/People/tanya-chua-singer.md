@@ -182,7 +182,7 @@ Y el Premio de Álbum del Año de 2022 es la certificación oficial de esta tesi
 - [Hello Nico](/es/people/hello-nico-band) — Banda de la misma era en la posición puente entre independiente y mainstream
 - [Chen Chien-chi](/es/people/chen-chien-chi-music-producer) — Productor taiwanese, productor-cantautor de la misma era que Tanya Chua
 
-## 參考資料
+## Referencias
 
 [^1]: [蔡健雅《DEPART》第 33 屆金曲獎奪 4 獎 — 關鍵評論網](https://www.thenewslens.com/article/169098) — Registro completo del 2 de julio de 2022 de las citas en el escenario del Premios Golden Melody de Kaohsiung, incluyendo "no quiero llorar" y "cuando lleguen extraterrestres en el futuro" etc. verbatim
 
