@@ -4,7 +4,7 @@ description: '타이둥의 채소 상인, 오십 년 치 채소 판 돈으로 �
 date: 2026-03-19
 tags:
   ['인물', '자선', '타이둥', '채소 상인', '타임지', '막사이사이상', '교육 기부']
-subcategory: '자선과 사회'
+subcategory: '慈善與社會'
 category: 'People'
 author: 'Taiwan.md'
 readingTime: 10

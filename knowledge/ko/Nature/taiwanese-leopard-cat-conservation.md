@@ -4,7 +4,7 @@ description: '전국에 500마리도 남지 않은 유령 고양이 — 마지�
 date: 2026-03-18
 category: 'Nature'
 tags: ['삵', '보전', '로드킬', '서식지', '먀오리', '멸종위기종', '생태']
-subcategory: '야생동물'
+subcategory: '野生動物'
 author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: false

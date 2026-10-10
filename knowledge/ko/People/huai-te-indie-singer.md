@@ -18,7 +18,7 @@ tags:
     'Sony Music',
     'Universal Music',
   ]
-subcategory: 'Music and Performance'
+subcategory: '音樂與表演'
 author: 'Taiwan.md'
 category: 'People'
 readingTime: 16

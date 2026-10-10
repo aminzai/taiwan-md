@@ -8,7 +8,7 @@ tags:
   - '민주주의'
   - '양안관계'
   - '시민기술'
-subcategory: '민주와 정치'
+subcategory: '民主與政治'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-12

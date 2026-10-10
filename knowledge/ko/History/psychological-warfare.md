@@ -15,7 +15,7 @@ tags:
     'cross-strait relations',
     'Radio Taiwan International',
   ]
-subcategory: 'Media and Speech'
+subcategory: '媒體與言論'
 author: 'Taiwan.md Contributors'
 category: 'History'
 readingTime: 8

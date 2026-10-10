@@ -11,7 +11,7 @@ tags:
     'OpenLab.Taipei',
     '대만',
   ]
-subcategory: '예술 및 디자인'
+subcategory: '藝術與設計'
 category: 'People'
 author: 'Taiwan.md Contributors'
 readingTime: 8

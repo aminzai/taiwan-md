@@ -15,7 +15,7 @@ tags:
     '양즈량',
     '건강보험 데이터베이스',
   ]
-subcategory: '의료와 건강'
+subcategory: '醫療與健保'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-06-04

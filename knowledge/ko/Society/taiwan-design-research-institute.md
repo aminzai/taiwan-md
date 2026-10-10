@@ -13,7 +13,7 @@ tags:
     '장기의',
     '금점 디자인상',
   ]
-subcategory: '디자인과 공공 거버넌스'
+subcategory: '設計與公共治理'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-06-04

@@ -4,7 +4,7 @@ description: "2026년, 쉬타이핑(徐臺屏)은 약 80명의 교사가 설계�
 date: 2026-07-20
 author: 'Taiwan.md Contributors'
 category: 'Technology'
-subcategory: 'Artificial Intelligence'
+subcategory: '人工智慧'
 tags: ['인공지능', 'AI교육', '교사훈련', '디지털학습', '생성형AI']
 lastVerified: 2026-07-20
 lastHumanReview: false

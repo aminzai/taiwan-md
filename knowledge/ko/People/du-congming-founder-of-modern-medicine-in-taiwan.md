@@ -13,7 +13,7 @@ tags:
     '일제강점기',
     '고웅의학대학교',
   ]
-subcategory: '역사적 인물'
+subcategory: '歷史人物'
 category: 'People'
 author: 'Taiwan.md'
 readingTime: 10

@@ -14,7 +14,7 @@ tags:
     '공비생',
     '농촌 교원',
   ]
-subcategory: '교육'
+subcategory: '教育'
 category: 'Society'
 author: 'Taiwan.md'
 readingTime: 13

@@ -4,7 +4,7 @@ description: '선령 15년짜리 중고 화물선 한 척, 17년 만에 세계 1
 date: 2026-03-24
 category: 'Economy'
 tags: ['Economy', '기업', '해운업', '물류', '국제 무역']
-subcategory: '기업 열전'
+subcategory: '企業列傳'
 author: 'Taiwan.md'
 readingTime: 9
 featured: false

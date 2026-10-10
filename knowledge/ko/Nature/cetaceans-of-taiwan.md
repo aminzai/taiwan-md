@@ -13,7 +13,7 @@ tags:
     '중화흰돌고래',
     '구로시오',
   ]
-subcategory: '야생동물'
+subcategory: '野生動物'
 category: 'Nature'
 author: '海女'
 readingTime: 12

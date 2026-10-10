@@ -3,7 +3,7 @@ title: '구천현녀: 황제의 군사(軍師)에서 대만 청소년 진두(陣
 description: '고졸 학력의 묘회 단장이 문화부 심사위원들에게 수십 년간 무시당한 끝에, 11년을 공부해 박사 학위를 받았다. 그 뒤에는 4천 년 전 황제에게 병법을 가르쳤다는 여신이 있었다.'
 date: 2026-03-27
 tags: [구천현녀, 진두, 구천민속기예단, 민간신앙, 사원문화, 허전룽]
-subcategory: '종교와 민속'
+subcategory: '宗教與民俗'
 category: 'Culture'
 author: 'Taiwan.md'
 readingTime: 12

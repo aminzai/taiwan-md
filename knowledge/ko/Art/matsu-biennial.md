@@ -12,7 +12,7 @@ tags:
     '이도',
     '문화 거버넌스',
   ]
-subcategory: '큐레이션과 교육'
+subcategory: '策展與教育'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-08-06

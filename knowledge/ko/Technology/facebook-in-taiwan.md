@@ -11,7 +11,7 @@ tags:
     '인지작전',
     '가짜뉴스',
   ]
-subcategory: '소셜 및 디지털 문화'
+subcategory: '社群與數位文化'
 author: 'Taiwan.md Contributors'
 category: 'Technology'
 readingTime: 28

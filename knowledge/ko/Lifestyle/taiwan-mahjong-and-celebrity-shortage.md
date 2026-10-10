@@ -3,7 +3,7 @@ title: "Taiwanese Mahjong: Grandma Won't Teach You, But Celebrity Mahjong Will"
 description: "On the second day of the Lunar New Year, Grandma sat at the table and won with a hand you couldn't understand. When you asked her how to calculate the points, she said, 'Kids have ears but no mouths.' So you opened your computer and let Wu Zongxian teach you. Released in 2001 by IGS, Celebrity Mahjong unexpectedly became the mahjong启蒙 (enlightenment) teacher for an entire generation of Taiwanese people."
 date: 2026-04-23
 tags: ['Mahjong', 'Sixteen-Zhang', 'Celebrity Mahjong', 'IGS', 'Taiwan Culture']
-subcategory: 'Daily Entertainment'
+subcategory: '日常娛樂'
 author: 'zaious'
 category: 'Lifestyle'
 readingTime: 9

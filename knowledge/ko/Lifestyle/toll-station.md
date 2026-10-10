@@ -4,7 +4,7 @@ description: '1974년 타이산 요금소 개소 당일, 회수권 한 장을 �
 date: 2026-07-19
 author: 'Taiwan.md Contributors'
 category: 'Lifestyle'
-subcategory: '교통과 이동'
+subcategory: '交通與移動'
 tags:
   [
     '요금소',

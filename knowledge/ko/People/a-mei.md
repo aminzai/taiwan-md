@@ -4,7 +4,7 @@ description: '1972년 8월 9일 타이둥현 베이난향에서 태어난 장혜
 date: 2026-03-19
 category: 'People'
 tags: ['음악', '원주민', '베이난족', '여왕', '동성애 평등', '대중음악']
-subcategory: '음악'
+subcategory: '音樂'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-08

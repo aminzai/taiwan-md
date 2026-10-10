@@ -18,7 +18,7 @@ tags:
     디지털 지도,
   ]
 category: 'Geography'
-subcategory: '지리 개론'
+subcategory: '地理概論'
 author: 'Taiwan.md'
 featured: false
 readingTime: 10

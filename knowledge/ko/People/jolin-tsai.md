@@ -4,7 +4,7 @@ description: '천재가 아닌 천후(天后)——무용 선생님에게 "춤 �
 date: 2026-03-24
 category: 'People'
 tags: ['인물', '가수', '연예계', 'LGBTQ+권익', '팝뮤직', '금곡상']
-subcategory: '음악'
+subcategory: '音樂'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-24

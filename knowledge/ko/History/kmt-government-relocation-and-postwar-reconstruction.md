@@ -13,7 +13,7 @@ tags:
     '옌자간',
     '계엄 시기',
   ]
-subcategory: '전후와 권위주의'
+subcategory: '戰後與威權'
 category: 'History'
 author: 'Taiwan.md'
 readingTime: 18

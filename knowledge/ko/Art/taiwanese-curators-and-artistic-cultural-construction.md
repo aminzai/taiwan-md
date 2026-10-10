@@ -4,7 +4,7 @@ description: '1990년대 초 기관의 맹아에서 오늘날의 국제 플랫�
 date: 2026-03-24
 category: 'Art'
 tags: ['큐레이터', '현대미술', '문화 구축', '미술관', '예술 담론']
-subcategory: '현대미술'
+subcategory: '當代藝術'
 author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: true

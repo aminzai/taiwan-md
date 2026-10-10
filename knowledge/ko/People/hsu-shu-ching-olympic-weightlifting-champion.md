@@ -4,7 +4,7 @@ description: '1991년 5월 9일 윈린현 룬베이향 카자 가정에서 출�
 date: 2026-03-19
 category: 'People'
 tags: ['체육', '역도', '올림픽', '금메달', '53kg급', '윈린']
-subcategory: '체육'
+subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07

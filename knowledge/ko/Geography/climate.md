@@ -3,7 +3,7 @@ title: '대만의 기후'
 description: '연간 강수량이 세계 평균의 2.5배인데도 세계 20대 물 부족 국가에 든다 — 대만의 기후는 당신의 예상과 다르다'
 date: 2026-03-31
 tags: [지리, 기후, 태풍, 매우(梅雨), 기후변화]
-subcategory: '기후와 온천'
+subcategory: '氣候與溫泉'
 category: 'Geography'
 featured: true
 lastVerified: 2026-03-31

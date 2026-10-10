@@ -16,7 +16,7 @@ tags:
     '바난화 부락 중소학교',
     '연계 단층',
   ]
-subcategory: '교육'
+subcategory: '教育'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-11

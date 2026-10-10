@@ -13,7 +13,7 @@ tags:
     '메이리다오 사건',
     '스밍더',
   ]
-subcategory: '정치와 민주주의'
+subcategory: '政治與民主'
 category: 'People'
 author: 'Taiwan.md'
 readingTime: 12

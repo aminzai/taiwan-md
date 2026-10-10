@@ -4,7 +4,7 @@ description: '린이숭은 1941년 이란에서 태어나 대만대학 법학과
 date: 2026-03-19
 author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '정치와 민주주의'
+subcategory: '政治與民主'
 tags:
   - '민주운동'
   - '림택혈사건'

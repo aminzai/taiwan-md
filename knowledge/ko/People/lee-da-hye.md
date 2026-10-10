@@ -3,7 +3,7 @@ title: '이다혜: 한국 프로 치어에서 CPBL 대표 얼굴까지'
 description: '‘원정 관중 버즈’를 대만 장기 성장으로 바꾼 인물.'
 date: 2026-05-13
 category: People
-subcategory: '팝 문화'
+subcategory: '流行人物'
 tags:
   [
     '팝 문화',

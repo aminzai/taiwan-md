@@ -4,7 +4,7 @@ description: '1958년 10월 29일 장현현 시저우향에서 태어난 천승�
 date: 2026-03-19
 category: 'People'
 tags: ['음악', '독립 음악', '작곡가 겸 가수', '크로스나잇 콘서트', '포크', '록']
-subcategory: '음악'
+subcategory: '音樂'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07

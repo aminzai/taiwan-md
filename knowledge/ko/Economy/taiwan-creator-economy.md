@@ -4,7 +4,7 @@ description: '대만은 한때 글로벌 애니메이션 외주 제작의 중심
 date: 2026-03-24
 category: 'Economy'
 tags: ['애니메이션산업', 'OEM외주', '宏廣카툰', '동방의디즈니', '대만예술']
-subcategory: '문화 산업'
+subcategory: '文化產業'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-24

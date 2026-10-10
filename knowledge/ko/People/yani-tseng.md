@@ -4,7 +4,7 @@ description: '세계 랭킹 1위 109주 연속 유지, LPGA 15승 및 메이저 
 date: 2026-03-31
 tags:
   ['스포츠', '골프', 'LPGA', '세계 1위', '프로 골프', '그랜드슬램', '여자 골프']
-subcategory: '스포츠'
+subcategory: '體育'
 category: 'People'
 author: 'Taiwan.md'
 readingTime: 12

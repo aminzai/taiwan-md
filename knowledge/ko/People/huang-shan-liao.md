@@ -12,7 +12,7 @@ tags:
     'Online Vigilante Justice',
     'World Champion',
   ]
-subcategory: 'Culture and Creation'
+subcategory: '文化與創作'
 author: 'Taiwan.md'
 category: 'People'
 readingTime: 12

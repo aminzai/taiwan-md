@@ -18,7 +18,7 @@ tags:
     'AECOM',
     'Shuotao',
   ]
-subcategory: 'Construction Technology'
+subcategory: '建築科技'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-05-22

@@ -4,7 +4,7 @@ description: '1999년 푸마오 레코드는 《저우후이 정선》을 발매
 date: 2026-05-19
 author: 'Taiwan.md'
 category: 'Music'
-subcategory: '가수'
+subcategory: '歌手'
 tags:
   [
     '인물',

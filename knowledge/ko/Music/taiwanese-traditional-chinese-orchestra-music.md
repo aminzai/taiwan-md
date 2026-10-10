@@ -10,7 +10,7 @@ tags:
     '민족음악',
     '문화융합',
   ]
-subcategory: '전통음악'
+subcategory: '傳統音樂'
 category: 'Music'
 author: 'Taiwan.md Contributors'
 readingTime: 15

@@ -3,7 +3,7 @@ title: '주쭝칭 (朱宗慶)'
 description: '빈에서 귀국한 타악기의 선구자. 40년에 걸쳐 낯선 예술 장르를 온 국민의 음악으로 바꾼 인물'
 date: 2026-03-21
 tags: [인물, 주쭝칭, 음악가, 타악기, 교육, 공연예술]
-subcategory: '예술과 디자인'
+subcategory: '藝術與設計'
 category: 'People'
 author: 'Taiwan.md'
 readingTime: 12

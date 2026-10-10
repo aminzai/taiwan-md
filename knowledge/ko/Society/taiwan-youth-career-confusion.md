@@ -12,7 +12,7 @@ tags:
   - 기술직업교육
   - 신자유주의
 category: 'Society'
-subcategory: '교육'
+subcategory: '教育'
 author: 'Taiwan.md Contributors'
 featured: false
 readingTime: 12

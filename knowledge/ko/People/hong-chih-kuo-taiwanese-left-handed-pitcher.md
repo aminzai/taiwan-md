@@ -4,7 +4,7 @@ description: '1981년 7월 23일생, 곽홍지는 타이완 네 번째로 MLB에
 date: 2026-03-19
 category: 'People'
 tags: ['스포츠', '야구', 'MLB', '다저스', '좌투']
-subcategory: '스포츠'
+subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07

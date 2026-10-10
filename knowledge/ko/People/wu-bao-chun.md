@@ -4,7 +4,7 @@ description: '핑동 농촌 출신, 중학교 학력, 프랑스어를 못한다.
 date: 2026-04-05
 category: 'People'
 tags: ['식음료', '베이킹', '장인정신', '세계 챔피언', '핑동', '빵', '원주민']
-subcategory: '식음료와 장인'
+subcategory: '餐飲與職人'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-05

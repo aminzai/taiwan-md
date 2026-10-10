@@ -3,7 +3,7 @@ title: '대만의 장례 문화와 생사관'
 description: '효녀 바이친의 곡소리에서 용아이위안의 나무장까지—대만인은 50년에 걸쳐 토장에서 화장으로, 또 10년에 걸쳐 납골당에서 나무 한 그루 아래로 옮겨 갔다.'
 date: 2026-04-08
 tags: ['장례', '환경장', '상례', '효녀 바이친', '청명절', '생사관']
-subcategory: '문화'
+subcategory: 'Culture'
 category: 'Culture'
 author: 'Taiwan.md'
 featured: false

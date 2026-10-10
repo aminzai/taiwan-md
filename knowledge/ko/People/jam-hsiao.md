@@ -3,7 +3,7 @@ title: '잠 샤오: 대만이 낳은 가장 예측 불가능한 목소리'
 description: '난입 도전자에서 골든멜로디 남자가수상 수상자로, "우신(雨神)"이라는 전설을 만들어낸 대만의 보컬리스트'
 date: 2026-03-23
 category: 'People'
-subcategory: '음악 및 공연'
+subcategory: '音樂與表演'
 tags: ['음악', '팝 음악', '재즈', '슈퍼스타탄생', '골든멜로디어워드', '우신']
 author: 'Taiwan.md'
 featured: false

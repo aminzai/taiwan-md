@@ -13,7 +13,7 @@ tags:
     'GNN',
     'Taiwan Gaming',
   ]
-subcategory: 'Community and Digital Culture'
+subcategory: '社群與數位文化'
 author: 'zaious'
 category: 'Technology'
 readingTime: 10

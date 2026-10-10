@@ -4,7 +4,7 @@ description: '린창쭤는 CHTHONIC의 보컬 Freddy로서 2·28, 백색테러, 
 date: 2026-07-10
 category: 'People'
 tags: ['인물', '음악', '헤비메탈', '정치', '사회운동', '閃靈']
-subcategory: '음악과 공적 인물'
+subcategory: '音樂與公共人物'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-10

@@ -4,7 +4,7 @@ description: '1906년 7월 21일 타오위안 룽탄 카카 가정에서 태어�
 date: 2026-03-19
 category: 'People'
 tags: ['음악', '대만어 가요', '작곡가', '일제강점기', '타오위안', '카카']
-subcategory: '음악'
+subcategory: '音樂'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07

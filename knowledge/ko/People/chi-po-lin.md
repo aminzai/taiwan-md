@@ -4,7 +4,7 @@ description: '공무원 월급으로 헬리콥터를 감당할 수 없었던 한
 date: 2026-03-25
 tags:
   ['인물', '치보린', '다큐멘터리', '대만을 보다', '감독', '공중촬영', '환경']
-subcategory: '예술과 창작'
+subcategory: '藝術與創作'
 category: 'People'
 author: 'Taiwan.md'
 readingTime: 12

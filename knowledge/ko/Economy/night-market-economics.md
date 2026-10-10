@@ -2,7 +2,7 @@
 title: '야시장 경제학: 브랜드 없는 상업의 기적'
 description: '브랜드도, 인테리어도, 고정 장소도 없이 연간 4,000억 대만달러의 생산 가치를 창출하는 대만 야시장의 경제적 기적을 탐구한다'
 tags: ['경제', '야시장', '대만', '비즈니스 모델', '관광', '길거리 음식']
-subcategory: '경제 발전'
+subcategory: '經濟發展'
 date: 2026-03-21
 category: 'Economy'
 author: 'Taiwan.md'

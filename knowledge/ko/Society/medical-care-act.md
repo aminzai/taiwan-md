@@ -14,7 +14,7 @@ tags:
     '의료법인',
     '타이완 사회',
   ]
-subcategory: '법률과 제도'
+subcategory: '法律與制度'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-07-13

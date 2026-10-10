@@ -3,7 +3,7 @@ title: '천청보'
 description: '유화로 도쿄 제전을 정복했지만, 자이 기차역 앞에서 총살당했다. 세상이 그를 알게 된 것은 죽음을 통해서였지, 그 그림들을 통해서가 아니었다.'
 date: 2026-03-31
 tags: ['예술', '회화', '228사건', '자이', '일제강점기']
-subcategory: '예술가'
+subcategory: '藝術家'
 category: 'People'
 author: 'Taiwan.md'
 readingTime: 18

@@ -4,7 +4,7 @@ description: '1990년 12월 7일, 26세의 장화 사람 린즈펑이 《향전�
 date: 2026-03-31
 tags: ['음악', '전자음악', '영화 음악', '사운드 아트', '대만어']
 category: 'People'
-subcategory: '음악'
+subcategory: '音樂'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-02

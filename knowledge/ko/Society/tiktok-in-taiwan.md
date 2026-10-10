@@ -15,7 +15,7 @@ tags:
     '미국 불신론',
     '대만 신뢰 훼손',
   ]
-subcategory: '미디어와 디지털 사회'
+subcategory: '媒體與言論'
 category: 'Society'
 author: 'idlccp1984'
 readingTime: 10min

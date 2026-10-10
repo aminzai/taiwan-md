@@ -4,7 +4,7 @@ description: '2011년 11월, 정문기는 타이베이에서 "디재 실험(ET@T
 date: 2026-05-17
 author: 'Taiwan.md'
 category: 'Art'
-subcategory: '예술 비평 플랫폼 / 미디어 연구'
+subcategory: '藝評平台 / 媒體研究'
 tags:
   [
     '디지털 황무지',

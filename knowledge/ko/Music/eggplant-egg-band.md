@@ -11,7 +11,7 @@ tags:
     '타이완 문화',
     '록 음악',
   ]
-subcategory: '팝 음악'
+subcategory: '流行音樂'
 category: 'Music'
 author: 'Taiwan.md Contributors'
 readingTime: 10

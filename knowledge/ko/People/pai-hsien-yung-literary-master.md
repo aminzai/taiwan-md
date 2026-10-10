@@ -4,7 +4,7 @@ description: '1937년 광시성 구이린에서 태어남. 바이충시(白崇�
 date: 2026-03-19
 category: 'People'
 tags: ['문학', '현대문학', '타이베이런', '얼자', '곤곡(崑曲)', '바이충시']
-subcategory: '문학'
+subcategory: '文學'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07

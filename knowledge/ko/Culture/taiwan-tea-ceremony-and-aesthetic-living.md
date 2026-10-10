@@ -3,7 +3,7 @@ title: '대만의 다도와 생활 미학'
 description: '벌레가 만들어낸 꿀향, 일제강점기 목조 건물에서 싹튼 민주 운동, 전 세계를 정복한 버블티—대만 차 문화는 식민지 유산에서 독자적인 생활 미학으로 어떻게 성장했나'
 date: 2026-03-25
 tags: ['차 문화', '다도', '생활 미학', '동방미인차', '자등려']
-subcategory: '공예와 미학'
+subcategory: '工藝與美學'
 category: 'Culture'
 author: 'Taiwan.md'
 readingTime: 12

@@ -3,7 +3,7 @@ title: '대립광전(大立光電): 장인 정신이 아키텍처 혁명을 만�
 description: '세계 최강 플라스틱 렌즈 기술을 보유한 대만의 숨은 챔피언, 기술이 가장 앞섰을 때 왜 중국 경쟁사에게 아이폰 수주를 빼앗겼나?'
 date: 2026-03-22
 tags: [경제, 기업, 대립광전, 광학 산업, 정밀 제조, 애플 공급망, 아키텍처 혁신]
-subcategory: '기업 열전'
+subcategory: '企業列傳'
 category: 'Economy'
 author: 'Taiwan.md Contributors'
 readingTime: 15

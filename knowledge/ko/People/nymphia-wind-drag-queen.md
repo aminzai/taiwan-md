@@ -4,7 +4,7 @@ description: "성별 기질로 인해 학교폭력을 당했던 한 대만 남�
 date: 2026-04-18
 tags: ['님피아', '드래그퀸', 'LGBTQ+', '성평등', '대만문화', '루폴드래그레이스']
 category: 'People'
-subcategory: '文化生活'
+subcategory: '音樂與表演'
 author: 'idlccp1984'
 readingTime: 10
 lastVerified: 2026-04-18

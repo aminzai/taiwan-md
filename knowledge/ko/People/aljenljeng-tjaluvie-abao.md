@@ -21,7 +21,7 @@ tags:
     vavayan,
   ]
 category: People
-subcategory: 음악과 공연
+subcategory: '音樂與表演'
 author: 'Taiwan.md'
 featured: false
 readingTime: 18

@@ -3,7 +3,7 @@ title: '남민정: 푸방에서 시즌을 넘겨 남은 한국 멤버'
 description: '‘단기 열기’를 프로 치어로 ‘예측 가능한 출연’으로 바꾼다.'
 date: 2026-05-13
 category: People
-subcategory: '팝 문화'
+subcategory: '流行人物'
 tags:
   [
     '팝 문화',

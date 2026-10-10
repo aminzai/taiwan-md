@@ -3,7 +3,7 @@ title: '웡치후이(翁啟惠)'
 description: '당화학 세계 최고 권위자, 2014년 울프 화학상 수상자, 중앙연구원 전 원장. 호딩 사태로 노벨상과 엇갈린 운명'
 date: 2026-03-31
 tags: ['학자', '화학', '중앙연구원', '당화학', '호딩 사태', '노벨상', '울프상']
-subcategory: '과학과 학문'
+subcategory: '科學與學術'
 category: 'People'
 author: 'Taiwan.md'
 readingTime: 12

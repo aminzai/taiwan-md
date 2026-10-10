@@ -4,7 +4,7 @@ description: '타이완은 과거 북한의 제4위 수출국이었으며, 평�
 date: 2026-07-17
 author: 'Taiwan.md Contributors'
 category: 'History'
-subcategory: '민주與治理'
+subcategory: '民主與治理'
 tags:
   ['타이완', '북한', '무역', '국가안보', 'MIT', '밀수', '금융', '어업', '시찰']
 readingTime: 15

@@ -4,7 +4,7 @@ description: '정기 정액 기부자 4명에서 매월 8,000명으로, 《피�
 date: 2026-04-29
 author: 'Taiwan.md'
 category: 'Society'
-subcategory: "'媒體與新聞'"
+subcategory: '媒體與新聞'
 tags: ['미디어', '탐사보도', '비영리', '언론자유', '시민사회', '허룽싱']
 lastVerified: 2026-06-14
 lastHumanReview: false

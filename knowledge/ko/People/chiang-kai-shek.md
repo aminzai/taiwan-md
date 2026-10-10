@@ -3,7 +3,7 @@ title: '장제스 (蔣中正)'
 description: '그의 동상은 지금도 옮겨지고 있다. 하지만 그가 놓은 기반——건설이라 부르든 족쇄라 부르든——은 여전히 이 섬의 모든 길, 모든 학교, 모든 선거를 떠받치고 있다.'
 date: 2026-03-31
 tags: [정치, 역사, 계엄, 전환적 정의, 냉전]
-subcategory: '정치 인물'
+subcategory: '政治人物'
 category: 'People'
 author: 'Taiwan.md'
 translatedFrom: 'People/蔣中正.md'

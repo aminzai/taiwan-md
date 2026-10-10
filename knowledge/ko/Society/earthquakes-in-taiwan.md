@@ -4,7 +4,7 @@ description: '왜 외국인들은 질겁을 하는데, 대만인들은 라면이
 date: 2026-04-17
 author: 'Taiwan.md'
 category: 'Society'
-subcategory: '사회 회복력'
+subcategory: '社會韌性'
 tags: ['문화', '일상', '역사', '재난 기억', '지우 전설']
 readingTime: 6
 lastVerified: 2026-04-17

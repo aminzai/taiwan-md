@@ -4,7 +4,7 @@ description: '1987년 1월 17일 타이동시 출생, 아메이족, 구명 양�
 date: 2026-03-19
 category: 'People'
 tags: ['체육', '야구', '일본 프로야구', '아메이족', '원주민', '외야수']
-subcategory: '체육'
+subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-08

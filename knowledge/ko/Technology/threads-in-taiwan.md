@@ -4,7 +4,7 @@ description: "2025년 말, 이집트 상징물 근처에서 발견된 대학교 
 date: 2026-03-24
 category: 'Technology'
 tags: ['소셜 미디어', '디지털 문화', '스레드', '밈', '온라인 도움', '청년 문화']
-subcategory: '커뮤니티와 디지털 문화'
+subcategory: '社群與數位文化'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-08-14

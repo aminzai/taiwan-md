@@ -17,7 +17,7 @@ tags:
   - '선단 공정'
   - '첨단 패키징'
   - '대만 테크 산업'
-subcategory: '반도체와 하드웨어'
+subcategory: '半導體與硬體'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-11

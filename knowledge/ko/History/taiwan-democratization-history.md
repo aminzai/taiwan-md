@@ -4,7 +4,7 @@ description: '1980년 3월 18일, 가오슝 군사법정에서 스밍더는 6만
 date: 2026-03-27
 category: 'History'
 tags: ['역사', '민주화', '정치', '메이리다오 사건', '야백합 학생운동']
-subcategory: '전후와 권위주의'
+subcategory: '戰後與威權'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-27

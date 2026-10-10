@@ -14,7 +14,7 @@ tags:
     '기억 정치',
     '전환기 정의',
   ]
-subcategory: '역사적 인물'
+subcategory: '歷史人物'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-06-10

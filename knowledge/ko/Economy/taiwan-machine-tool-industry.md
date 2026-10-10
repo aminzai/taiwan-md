@@ -13,7 +13,7 @@ tags:
     '산업 집적',
     '2026',
   ]
-subcategory: '전통 산업'
+subcategory: '傳統產業'
 category: 'Economy'
 author: 'Taiwan.md'
 readingTime: 13

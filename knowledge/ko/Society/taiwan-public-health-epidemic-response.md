@@ -4,7 +4,7 @@ description: '2003년 허핑병원 봉쇄로 30명이 사망했다. 17년 후 �
 date: 2026-04-08
 category: 'Society'
 tags: ['공중보건', 'SARS', '코로나19', '방역', '전국민건강보험', '질병관리서']
-subcategory: '사회'
+subcategory: 'Society'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-08

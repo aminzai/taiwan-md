@@ -4,7 +4,7 @@ description: '1995년, 대만 최초의 파룬궁 수련 장소가 양밍산 꽃
 date: 2026-04-29
 tags: ['종교의 자유', '인권', '양안 관계', '파룬궁']
 category: 'Society'
-subcategory: '종교와 신앙'
+subcategory: '宗教與信仰'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-02

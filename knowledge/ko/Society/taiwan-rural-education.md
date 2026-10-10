@@ -12,7 +12,7 @@ tags:
     '농촌지역',
     '교육공평',
   ]
-subcategory: '교육'
+subcategory: '教育'
 category: 'Society'
 author: 'Taiwan.md'
 readingTime: 13

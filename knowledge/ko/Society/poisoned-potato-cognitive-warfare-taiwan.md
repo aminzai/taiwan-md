@@ -4,7 +4,7 @@ description: '2026년 4월 29일, 중국 국대판 대변인 천빈화(陳斌華
 date: 2026-04-30
 author: 'Taiwan.md'
 category: 'Society'
-subcategory: '국제관계'
+subcategory: '國際關係'
 tags:
   ['독감마 감자', '식안', '인지전', '양안관계', 'ART 협정', '솔라닌', 'CIPC']
 lastVerified: 2026-04-30

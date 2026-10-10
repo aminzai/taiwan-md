@@ -18,7 +18,7 @@ tags:
   - '훙하이'
   - '웨이촹'
   - '타이다전자'
-subcategory: '반도체와 하드웨어'
+subcategory: '半導體與硬體'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-11

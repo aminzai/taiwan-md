@@ -12,7 +12,7 @@ tags:
     '구석기 시대',
     '다두 왕국',
   ]
-subcategory: '선사시대와 원주민'
+subcategory: '史前與原住民'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-05-07

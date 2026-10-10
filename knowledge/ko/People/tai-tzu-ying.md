@@ -4,7 +4,7 @@ description: '214주 세계 랭킹 1위 최장 기록 보유자, 가오슝 전�
 date: 2026-03-21
 tags:
   ['인물', '다이쯔잉', '배드민턴', '세계 1위', '올림픽', '운동선수', '타이완']
-subcategory: '스포츠'
+subcategory: '體育'
 category: 'People'
 author: 'Taiwan.md'
 translatedFrom: 'People/戴資穎.md'

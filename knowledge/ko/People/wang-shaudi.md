@@ -4,7 +4,7 @@ description: '장군의 아들로 태어나 반항아가 되었고, 반항아에
 date: 2026-03-28
 tags: ['감독', '드라마', '영화', '식극장', '공영방송', '금종상', 'LGBTQ+']
 category: 'People'
-subcategory: '예술 및 문화 인물'
+subcategory: '藝術與文化人物'
 author: 'Taiwan.md'
 featured: false
 translatedFrom: 'People/王小棣.md'

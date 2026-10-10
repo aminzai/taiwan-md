@@ -20,7 +20,7 @@ tags:
   - '하카어 시'
   - '평안희'
   - '여성문학'
-subcategory: '문학과 시인 / 하카 문화인'
+subcategory: '文學與詩人 / 客家文化人'
 author: 'Taiwan.md'
 featured: false
 canonical-order: 120

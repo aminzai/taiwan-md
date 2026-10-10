@@ -15,7 +15,7 @@ tags:
     '개인정보 거버넌스',
     '세관총서',
   ]
-subcategory: '소비와 생활 제도'
+subcategory: '消費與生活制度'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-08-04

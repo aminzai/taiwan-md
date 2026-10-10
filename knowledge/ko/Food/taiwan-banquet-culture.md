@@ -13,7 +13,7 @@ tags:
     'Traditional Craft',
     'Human Touch',
   ]
-subcategory: 'Dining Scenes'
+subcategory: '飲食場景'
 author: 'Taiwan.md'
 category: 'Food'
 readingTime: 12

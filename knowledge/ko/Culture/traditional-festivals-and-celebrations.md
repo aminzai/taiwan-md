@@ -3,7 +3,7 @@ title: '역병이 사라지자 불꽃이 전통이 되었다: 대만 축제 문�
 description: '역병에 맞서 폭죽을 터뜨리던 작은 마을의 의식이, 140년 뒤 세계에서 가장 위험한 민속 축제 중 하나가 됐다'
 date: 2026-03-24
 tags: [전통축제, 민속, 마조순례, 옌수이봉포, 설날, 중추절바비큐]
-subcategory: '종교와 민속'
+subcategory: '宗教與民俗'
 category: 'Culture'
 author: 'Taiwan.md'
 readingTime: 12

@@ -3,7 +3,7 @@ title: '대만 기업: 자이언트 기계(巨大機械)'
 description: '미국 대형 브랜드에게 버림받은 하청 업체에서 글로벌 자전거 기술 표준을 제정하는 숨은 제국으로'
 date: 2026-03-22
 tags: [경제, 기업, 자이언트기계, 자이언트, 제조업, 브랜드전환, A팀, 전기자전거]
-subcategory: '기업 열전'
+subcategory: '企業列傳'
 category: 'Economy'
 author: 'Taiwan.md Contributors'
 readingTime: 15

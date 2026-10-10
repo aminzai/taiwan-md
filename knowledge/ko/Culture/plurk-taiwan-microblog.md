@@ -3,7 +3,7 @@ title: '플러크 Plurk'
 description: '2008년에 서비스를 시작한 마이크로블로그 플랫폼 플러크는 가로 스크롤 방식의 "타임라인"과 알고리즘 없는 피드로, Facebook과 Twitter가 전 세계를 휩쓸던 10년 동안 살아남았다. 2016년 Google 광고 네트워크에 차단당한 후 "플러크 코인" 유료 회원제로 흑자 전환에 성공했다 — 대만 사용자들이 대만 달러로 투표해, 알고리즘에 묶이지 않는 이 강이 계속 흐르도록 만든 것이다.'
 date: 2026-04-01
 tags: ['소셜 미디어', '오타쿠 문화', '대만 인터넷 역사', '플러크 코인']
-subcategory: '디지털 생활'
+subcategory: '數位生活'
 category: 'Culture'
 author: 'Taiwan.md Contributors'
 readingTime: 8

@@ -11,7 +11,7 @@ tags:
     '인디음악',
     '청년 문화',
   ]
-subcategory: '인디 & 록'
+subcategory: '獨立與搖滾'
 category: 'Music'
 author: 'Taiwan.md'
 readingTime: 10

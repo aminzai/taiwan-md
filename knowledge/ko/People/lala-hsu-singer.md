@@ -19,7 +19,7 @@ tags:
     가극,
   ]
 category: People
-subcategory: 음악과 공연
+subcategory: '音樂與表演'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-26

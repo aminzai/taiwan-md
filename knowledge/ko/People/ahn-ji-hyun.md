@@ -3,7 +3,7 @@ title: '안지현: 한국 프로 치어에서 가오슝 생활까지'
 description: '한국 프로 치어에서 타이강 윙 스타즈의 주력 외국인 멤버로—국경을 넘는 공연 경험을 가오슝 홈구장에 가져오고, 2026년 타이베이 돔 일정 또한 부상 조정과 사이드 라인 역할을 관찰할 수 있는 공개적 분기점이 되고 있다.'
 date: 2026-05-13
 category: People
-subcategory: '팝 문화'
+subcategory: '流行人物'
 tags:
   ['팝 문화', '안지현', '한국', '치어리딩', 'TSG 호크스', '윙 스타즈', '가오슝']
 author: 'Taiwan.md Contributors'

@@ -19,7 +19,7 @@ tags:
     '난방사도',
     '22현시 시리즈',
   ]
-subcategory: '현과 시'
+subcategory: '縣市'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-18

@@ -3,7 +3,7 @@ title: '陳偉殷 — 25억짜리 계약, 그러나 손에 쥔 건 47%'
 description: '일본 프로야구에서 메이저리그로 직행한 최초의 대만 투수. 5년 8000만 달러 대만 스포츠 역사상 최대 계약을 체결했지만, 실수령액은 절반에도 못 미쳤다.'
 date: 2026-03-22
 tags: [인물, 야구, 스포츠, 프로 운동선수, 메이저리그, MLB, NPB, 일본 프로야구]
-subcategory: '스포츠'
+subcategory: '體育'
 category: 'People'
 author: 'Taiwan.md'
 readingTime: 6

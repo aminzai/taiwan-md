@@ -13,7 +13,7 @@ tags:
     'Infrastructure',
     'Digital Sovereignty',
   ]
-subcategory: 'Communication and Infrastructure'
+subcategory: '通訊與基礎建設'
 author: 'Taiwan.md'
 category: 'Technology'
 readingTime: 12

@@ -4,7 +4,7 @@ description: '921 지진부터 화롄 강진까지, 대만은 어떻게 응급�
 date: 2026-03-24
 category: 'Technology'
 tags: ['재난 의료', '응급의학', 'DMAT', '대만 의료', '원격 의료']
-subcategory: '의료 체계'
+subcategory: '醫療體系'
 author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: false

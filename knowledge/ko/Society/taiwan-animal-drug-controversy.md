@@ -13,7 +13,7 @@ tags:
     '의료제도',
     '방역검역서',
   ]
-subcategory: '동물과 윤리'
+subcategory: '動物與倫理'
 category: 'Society'
 author: 'Taiwan.md'
 readingTime: 18

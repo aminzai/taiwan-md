@@ -3,7 +3,7 @@ title: '뉴청쩌 (鈕承澤, Doze Niu)'
 description: '《맹갑(艋舺)》 감독, 아역배우에서 영화감독으로 전환한 대만 영화인—그의 재능과 논란을 함께 기록한다'
 date: 2026-03-19
 tags: ['뉴청쩌', '감독', '배우', '맹갑', '논란']
-subcategory: '영화와 드라마'
+subcategory: '電影與戲劇'
 category: 'People'
 author: 'Taiwan.md'
 readingTime: 10

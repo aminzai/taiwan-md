@@ -20,7 +20,7 @@ tags:
     '순환대도시',
     '22현시계열',
   ]
-subcategory: '현과 시'
+subcategory: '縣市'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-18

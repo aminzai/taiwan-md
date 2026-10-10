@@ -3,7 +3,7 @@ title: '대만 원주민족의 토지 정의와 전통 영역'
 description: '대만 원주민족 토지권리의 역사적 맥락, 법률 발전, 전통 영역 획정 논쟁, 원주민족 전환적 정의 위원회의 성과를 살펴본다'
 date: 2026-03-20
 tags: [원주민족, 토지정의, 전통영역, 전환적정의, 원전회, 토지권리]
-subcategory: '인권과 평등'
+subcategory: '人權與平等'
 category: 'Society'
 author: 'Taiwan.md Contributors'
 readingTime: 9

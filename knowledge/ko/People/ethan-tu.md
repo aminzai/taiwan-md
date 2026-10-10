@@ -4,7 +4,7 @@ description: '486 컴퓨터 하나로 대만 최대 포럼을 만들고, 마이�
 date: 2026-03-30
 tags: ['두이진', 'PTT', 'Taiwan AI Labs', '디지털 민주주의', '인공지능']
 category: 'People'
-subcategory: '기술과 기업'
+subcategory: '科技與企業'
 author: 'Taiwan.md'
 readingTime: 9
 featured: true

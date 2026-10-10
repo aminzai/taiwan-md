@@ -10,7 +10,7 @@ tags:
   - '릿산농장'
   - '미농'
   - '객가'
-subcategory: '문학'
+subcategory: '文學'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07

@@ -4,7 +4,7 @@ description: '1996년, 황광웅은 사대에서 남하하여 자이이에 있�
 date: 2026-04-25
 author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '교육과 사회'
+subcategory: '教育與社會'
 tags:
   - 교육
   - 교육과정 이론

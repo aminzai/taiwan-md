@@ -12,7 +12,7 @@ tags:
   - 보습명사
   - 동아시아 교육
 category: 'Society'
-subcategory: '교육'
+subcategory: '教育'
 author: 'Taiwan.md Contributors'
 featured: false
 readingTime: 10

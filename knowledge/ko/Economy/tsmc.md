@@ -14,7 +14,7 @@ tags:
     '모리스 창',
     '실리콘 방패',
   ]
-subcategory: '기업 열전'
+subcategory: '企業列傳'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-05-09

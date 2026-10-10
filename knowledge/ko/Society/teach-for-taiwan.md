@@ -14,7 +14,7 @@ tags:
     '사회적기업',
     '오지학교',
   ]
-subcategory: '교육'
+subcategory: '教育'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-08

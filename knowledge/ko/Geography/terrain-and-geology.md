@@ -3,7 +3,7 @@ title: '대만의 지형과 지질'
 description: '600만 년의 섬 안에 2억 년의 기억이 잠들어 있다 — 세계에서 가장 젊은 조산대이자 가장 격렬한 판 충돌의 기적'
 date: 2026-03-23
 tags: [지리, 지질, 판 운동, 조산 운동, 지진, 온천]
-subcategory: '기후와 온천'
+subcategory: '氣候與溫泉'
 category: 'Geography'
 author: 'Taiwan.md'
 readingTime: 8

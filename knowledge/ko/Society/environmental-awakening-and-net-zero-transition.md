@@ -3,7 +3,7 @@ title: '환경 보호와 지속 가능한 발전: 섬의 녹색 각성'
 description: '굴뚝의 섬에서 탄소중립 대만으로: 40년 환경 운동의 각성 여정'
 date: 2026-03-21
 tags: ['환경 보호', '지속 가능한 발전', '탄소중립', '순환 경제', '기후 변화']
-subcategory: '사회 운동'
+subcategory: '社會運動'
 category: 'Society'
 author: 'Taiwan.md'
 readingTime: 8

@@ -5,7 +5,7 @@ date: 2026-04-11
 category: 'Technology'
 tags:
   ['로봇', '정밀기계', '반도체', 'AI', '산업전환', '하이윈', 'NCAIR', '2026']
-subcategory: '기술 산업'
+subcategory: '科技產業'
 author: 'Taiwan.md'
 difficulty: 'intermediate'
 readingTime: 13

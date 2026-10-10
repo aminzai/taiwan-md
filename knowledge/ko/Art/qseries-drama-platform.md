@@ -4,7 +4,7 @@ description: '2016년, IT 업계의 거물 퉁쯔셴이 돈을 내놓았고, 왕
 date: 2026-03-30
 category: 'Art'
 tags: ['즈쥐창', '대만드라마', '왕샤오디', '허광한', '금종상']
-subcategory: '영화'
+subcategory: '電影'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-30

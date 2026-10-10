@@ -13,7 +13,7 @@ tags:
     '순수인터넷은행',
     '전자결제',
   ]
-subcategory: '금융과 기술'
+subcategory: '金融與科技'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-06

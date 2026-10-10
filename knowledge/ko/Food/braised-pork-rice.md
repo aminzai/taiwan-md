@@ -3,7 +3,7 @@ title: '루로우판 (滷肉飯): 대만의 일상적인 국민 음식'
 description: '군인 마을의 부엌에서 전국적인 위안의 음식으로 발전하기까지, 루로우판을 둘러싼 남북 논쟁과 문화적 의미를 탐구합니다.'
 date: 2026-03-19
 tags: ['루로우판', '로우자오판', '쥔춘 요리', '국민 음식', '남북 차이']
-subcategory: '민족 음식'
+subcategory: '族群飲食'
 author: 'Taiwan.md'
 readingTime: 8
 featured: true

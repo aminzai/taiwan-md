@@ -3,7 +3,7 @@ title: '대만 원주민 언어 부흥 운동'
 description: '邵族의 모국어 화자가 단 4명밖에 남지 않은 상황에서, 세계에서 가장 집중적인 언어 부흥 실험 중 하나가 탄생했다. 2017년 《원주민족언어발전법》부터 디지털 족어 플랫폼까지, 조용한 구조 작전이 속도를 올리고 있다.'
 date: 2026-03-29
 tags: ['원주민족', '언어 부흥', '족어 교육', '언어 정책', '문화 계승']
-subcategory: '언어와 문자'
+subcategory: '語言與文字'
 category: 'Culture'
 author: 'Taiwan.md Contributors'
 readingTime: 8

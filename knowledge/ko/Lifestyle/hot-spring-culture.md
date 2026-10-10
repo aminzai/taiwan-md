@@ -13,7 +13,7 @@ tags:
     '지질',
     '힐링 문화',
   ]
-subcategory: '의료와 건강'
+subcategory: '醫療與健保'
 category: 'Lifestyle'
 author: 'Taiwan.md Contributors'
 readingTime: 12

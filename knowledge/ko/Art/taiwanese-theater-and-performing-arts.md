@@ -3,7 +3,7 @@ title: '대만 극장과 공연 예술: 작은 섬이 세계 무대를 흔든 �
 description: '26세의 문학 청년이 어떻게 중화권 최초의 현대 무용단을 만들었는가, 경극 배우들이 어떻게 셰익스피어에게 중국어로 말하게 했는가'
 date: 2026-03-22
 tags: ['극장', '공연 예술', '무용', '운문무집', '당대전기극장']
-subcategory: '공연 예술'
+subcategory: '文學'
 category: 'Art'
 author: 'Taiwan.md'
 readingTime: 8
